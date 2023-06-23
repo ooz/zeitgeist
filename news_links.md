@@ -4,330 +4,291 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/soziales/haushalt-christian-lindner-gibt-zehn-ministerien-mehr-geld](https://www.spiegel.de/wirtschaft/soziales/haushalt-christian-lindner-gibt-zehn-ministerien-mehr-geld-a-1d908af1-b884-425a-ad9e-d730280abcc1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/immobilien-preise-fuer-haeuser-und-wohnungen-sinken-so-stark-wie-seit-23-jahren-nicht-mehr](https://www.spiegel.de/wirtschaft/immobilien-preise-fuer-haeuser-und-wohnungen-sinken-so-stark-wie-seit-23-jahren-nicht-mehr-a-74ca4c6f-5c29-4764-ad0d-1a73d21a43d3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/1komma5-hamburger-energie-start-up-ist-eine-milliarde-euro-wert](https://www.spiegel.de/wirtschaft/unternehmen/1komma5-hamburger-energie-start-up-ist-eine-milliarde-euro-wert-a-e8622222-3557-48cf-807a-02ca2d7bf87b#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/wissenschaft/extremwetter-uebernutzung-verschmutzung-oekosysteme-koennten-schneller-kollabieren-als-angenommen](https://www.spiegel.de/wissenschaft/extremwetter-uebernutzung-verschmutzung-oekosysteme-koennten-schneller-kollabieren-als-angenommen-a-9f146d49-434a-4037-8d0f-12b353915960#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-hubertus-heil-mahnt-wegen-drohendem-streik-zu-einsicht-und-vernunft](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-hubertus-heil-mahnt-wegen-drohendem-streik-zu-einsicht-und-vernunft-a-24ac763f-ed17-4be6-8e04-8e0af7c83f4e#ref=rss)
-* [https://www.spiegel.de/kultur/tv/spielberg-scorsese-und-anderson-star-regisseure-machen-sich-fuer-sender-stark-der-alte-filme-zeigt](https://www.spiegel.de/kultur/tv/spielberg-scorsese-und-anderson-star-regisseure-machen-sich-fuer-sender-stark-der-alte-filme-zeigt-a-5f5f10fa-895d-485e-a13f-7caaca7371b6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/daniel-kretinsky-umstrittener-investor-prueft-einstieg-bei-thyssenkrupp-steel](https://www.spiegel.de/wirtschaft/unternehmen/daniel-kretinsky-umstrittener-investor-prueft-einstieg-bei-thyssenkrupp-steel-a-33041b04-4951-4184-98ef-24bd2d9050e3#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/kultur/musik/es-ging-um-missbrauchsvorwuerfe-und-verleumdung-kesha-und-dr-luke-legen-rechtsstreit-bei](https://www.spiegel.de/kultur/musik/es-ging-um-missbrauchsvorwuerfe-und-verleumdung-kesha-und-dr-luke-legen-rechtsstreit-bei-a-a2e8d0a1-96c2-49be-97c9-4d37d0c4ed16#ref=rss)
-* [https://www.spiegel.de/geschichte/joy-fleming-mama-soul-aus-mannheim-der-spiegel-vor-50-jahren](https://www.spiegel.de/geschichte/joy-fleming-mama-soul-aus-mannheim-der-spiegel-vor-50-jahren-a-25af4a25-728c-4f7e-a378-49415250d239#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/diabetes-faelle-koennten-sich-bis-2050-weltweit-verdoppeln](https://www.spiegel.de/wissenschaft/medizin/diabetes-faelle-koennten-sich-bis-2050-weltweit-verdoppeln-a-f4bac771-48df-48e9-84ce-4d3bd2227c6e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/immobilien-preise-fuer-haeuser-und-wohnungen-sinken-so-stark-wie-seit-23-jahren-nicht-mehr](https://www.spiegel.de/wirtschaft/immobilien-preise-fuer-haeuser-und-wohnungen-sinken-so-stark-wie-seit-23-jahren-nicht-mehr-a-74ca4c6f-5c29-4764-ad0d-1a73d21a43d3#ref=rss)
-### macht
-
-* [https://www.spiegel.de/politik/deutschland/bayerns-verkehrte-welt-eine-kabarettistin-macht-politik-ein-csu-minister-kabarett-kolumne](https://www.spiegel.de/politik/deutschland/bayerns-verkehrte-welt-eine-kabarettistin-macht-politik-ein-csu-minister-kabarett-kolumne-a-6879a846-88c9-459e-9fa2-4b6fecdda3bd#ref=rss)
-* [https://www.spiegel.de/sport/basketball/staatsfonds-macht-angebot-katar-steigt-wohl-erstmals-in-us-profisport-ein](https://www.spiegel.de/sport/basketball/staatsfonds-macht-angebot-katar-steigt-wohl-erstmals-in-us-profisport-ein-a-636e5561-2409-4b6b-ab20-f3049445e742#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/politik/deutschland/bayerns-verkehrte-welt-eine-kabarettistin-macht-politik-ein-csu-minister-kabarett-kolumne](https://www.spiegel.de/politik/deutschland/bayerns-verkehrte-welt-eine-kabarettistin-macht-politik-ein-csu-minister-kabarett-kolumne-a-6879a846-88c9-459e-9fa2-4b6fecdda3bd#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-quiz-welcher-trainer-gewann-die-champions-league-haeufiger-als-pep-guardiola](https://www.spiegel.de/sport/fussball/fussball-quiz-welcher-trainer-gewann-die-champions-league-haeufiger-als-pep-guardiola-a-524ab860-9986-4930-86c6-77dda89f23e6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-transferticker-fc-bayern-holt-raphael-guerreiro-von-borussia-dortmund](https://www.spiegel.de/sport/fussball/fussball-transferticker-fc-bayern-holt-raphael-guerreiro-von-borussia-dortmund-a-43d28fc2-52b9-485c-a2a3-e5cbcfa7999f#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/fussball-quiz-welcher-trainer-gewann-die-champions-league-haeufiger-als-pep-guardiola](https://www.spiegel.de/sport/fussball/fussball-quiz-welcher-trainer-gewann-die-champions-league-haeufiger-als-pep-guardiola-a-524ab860-9986-4930-86c6-77dda89f23e6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-transferticker-fc-bayern-holt-raphael-guerreiro-von-borussia-dortmund](https://www.spiegel.de/sport/fussball/fussball-transferticker-fc-bayern-holt-raphael-guerreiro-von-borussia-dortmund-a-43d28fc2-52b9-485c-a2a3-e5cbcfa7999f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/ilkay-guendogan-zum-fc-barcelona-er-geht-als-koenig-er-kommt-als-hoffnungstraeger](https://www.spiegel.de/sport/fussball/ilkay-guendogan-zum-fc-barcelona-er-geht-als-koenig-er-kommt-als-hoffnungstraeger-a-a41ebada-81d8-4927-8d70-e3a2d72e59e4#ref=rss)
-### usa
-
-* [https://www.spiegel.de/kultur/tv/spielberg-scorsese-und-anderson-star-regisseure-machen-sich-fuer-sender-stark-der-alte-filme-zeigt](https://www.spiegel.de/kultur/tv/spielberg-scorsese-und-anderson-star-regisseure-machen-sich-fuer-sender-stark-der-alte-filme-zeigt-a-5f5f10fa-895d-485e-a13f-7caaca7371b6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/usa-chemiekonzern-3m-zahlt-milliarden-im-rechtsstreit-um-verschmutztes-trinkwasser](https://www.spiegel.de/wirtschaft/unternehmen/usa-chemiekonzern-3m-zahlt-milliarden-im-rechtsstreit-um-verschmutztes-trinkwasser-a-52b929d6-6980-453d-8d4a-93eed90c6552#ref=rss)
-### rechtsstreit
-
-* [https://www.spiegel.de/kultur/musik/es-ging-um-missbrauchsvorwuerfe-und-verleumdung-kesha-und-dr-luke-legen-rechtsstreit-bei](https://www.spiegel.de/kultur/musik/es-ging-um-missbrauchsvorwuerfe-und-verleumdung-kesha-und-dr-luke-legen-rechtsstreit-bei-a-a2e8d0a1-96c2-49be-97c9-4d37d0c4ed16#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/usa-chemiekonzern-3m-zahlt-milliarden-im-rechtsstreit-um-verschmutztes-trinkwasser](https://www.spiegel.de/wirtschaft/unternehmen/usa-chemiekonzern-3m-zahlt-milliarden-im-rechtsstreit-um-verschmutztes-trinkwasser-a-52b929d6-6980-453d-8d4a-93eed90c6552#ref=rss)
-### unwetter
-
-* [https://www.spiegel.de/panorama/naechtliche-unwetter-deutsch-land-unter-video](https://www.spiegel.de/panorama/naechtliche-unwetter-deutsch-land-unter-video-a-fd7cdf2c-8176-4ea8-9006-74ab1a514677#ref=rss)
-* [https://www.spiegel.de/panorama/unwetter-lambert-blitze-ueberschwemmungen-aber-wohl-nicht-so-schlimm-wie-erwartet](https://www.spiegel.de/panorama/unwetter-lambert-blitze-ueberschwemmungen-aber-wohl-nicht-so-schlimm-wie-erwartet-a-2a393cb8-88ea-4fdc-9446-9775faf836e2#ref=rss)
-### unter
-
-* [https://www.spiegel.de/panorama/naechtliche-unwetter-deutsch-land-unter-video](https://www.spiegel.de/panorama/naechtliche-unwetter-deutsch-land-unter-video-a-fd7cdf2c-8176-4ea8-9006-74ab1a514677#ref=rss)
-* [https://www.spiegel.de/sport/fussball/ilkay-guendogan-zum-fc-barcelona-er-geht-als-koenig-er-kommt-als-hoffnungstraeger](https://www.spiegel.de/sport/fussball/ilkay-guendogan-zum-fc-barcelona-er-geht-als-koenig-er-kommt-als-hoffnungstraeger-a-a41ebada-81d8-4927-8d70-e3a2d72e59e4#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/sport/basketball/staatsfonds-macht-angebot-katar-steigt-wohl-erstmals-in-us-profisport-ein](https://www.spiegel.de/sport/basketball/staatsfonds-macht-angebot-katar-steigt-wohl-erstmals-in-us-profisport-ein-a-636e5561-2409-4b6b-ab20-f3049445e742#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/richter-verurteilt-anwaelte-wegen-chatgpt-posse-zu-einer-geldstrafe](https://www.spiegel.de/netzwelt/web/richter-verurteilt-anwaelte-wegen-chatgpt-posse-zu-einer-geldstrafe-a-38c8535e-d99d-4562-98d8-bbe35dad289c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/1komma5-hamburger-energie-start-up-ist-eine-milliarde-euro-wert](https://www.spiegel.de/wirtschaft/unternehmen/1komma5-hamburger-energie-start-up-ist-eine-milliarde-euro-wert-a-e8622222-3557-48cf-807a-02ca2d7bf87b#ref=rss)
-### siemens
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/siemens-gamesa-probleme-laut-chef-von-siemens-energy-groesser-als-gedacht](https://www.spiegel.de/wirtschaft/unternehmen/siemens-gamesa-probleme-laut-chef-von-siemens-energy-groesser-als-gedacht-a-d12d4c61-dd82-4037-8814-7064beea6894#ref=rss)
-### euro
-
-* [https://www.spiegel.de/wirtschaft/soziales/haushalt-christian-lindner-gibt-zehn-ministerien-mehr-geld](https://www.spiegel.de/wirtschaft/soziales/haushalt-christian-lindner-gibt-zehn-ministerien-mehr-geld-a-1d908af1-b884-425a-ad9e-d730280abcc1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/1komma5-hamburger-energie-start-up-ist-eine-milliarde-euro-wert](https://www.spiegel.de/wirtschaft/unternehmen/1komma5-hamburger-energie-start-up-ist-eine-milliarde-euro-wert-a-e8622222-3557-48cf-807a-02ca2d7bf87b#ref=rss)
-### welt
-
-* [https://www.spiegel.de/politik/deutschland/bayerns-verkehrte-welt-eine-kabarettistin-macht-politik-ein-csu-minister-kabarett-kolumne](https://www.spiegel.de/politik/deutschland/bayerns-verkehrte-welt-eine-kabarettistin-macht-politik-ein-csu-minister-kabarett-kolumne-a-6879a846-88c9-459e-9fa2-4b6fecdda3bd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/warum-urlaub-fuer-viele-zum-unbezahlbaren-luxus-wird-und-wie-es-doch-noch-guenstig-geht](https://www.spiegel.de/wirtschaft/service/warum-urlaub-fuer-viele-zum-unbezahlbaren-luxus-wird-und-wie-es-doch-noch-guenstig-geht-a-d52cb2d0-a6bd-43c4-8b91-1cc4bb1c0a2f#ref=rss)
-### kabarettistin
-
-* [https://www.spiegel.de/politik/deutschland/bayerns-verkehrte-welt-eine-kabarettistin-macht-politik-ein-csu-minister-kabarett-kolumne](https://www.spiegel.de/politik/deutschland/bayerns-verkehrte-welt-eine-kabarettistin-macht-politik-ein-csu-minister-kabarett-kolumne-a-6879a846-88c9-459e-9fa2-4b6fecdda3bd#ref=rss)
-### politik
-
-* [https://www.spiegel.de/politik/deutschland/bayerns-verkehrte-welt-eine-kabarettistin-macht-politik-ein-csu-minister-kabarett-kolumne](https://www.spiegel.de/politik/deutschland/bayerns-verkehrte-welt-eine-kabarettistin-macht-politik-ein-csu-minister-kabarett-kolumne-a-6879a846-88c9-459e-9fa2-4b6fecdda3bd#ref=rss)
-### kolumne
-
-* [https://www.spiegel.de/politik/deutschland/bayerns-verkehrte-welt-eine-kabarettistin-macht-politik-ein-csu-minister-kabarett-kolumne](https://www.spiegel.de/politik/deutschland/bayerns-verkehrte-welt-eine-kabarettistin-macht-politik-ein-csu-minister-kabarett-kolumne-a-6879a846-88c9-459e-9fa2-4b6fecdda3bd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/claudia-pechstein-bei-cdu-konvent-partei-uniform-kolumne](https://www.spiegel.de/politik/deutschland/claudia-pechstein-bei-cdu-konvent-partei-uniform-kolumne-a-2ea787d6-c409-4098-b4ba-5cf484c53f52#ref=rss)
-### viele
-
-* [https://www.spiegel.de/wirtschaft/service/warum-urlaub-fuer-viele-zum-unbezahlbaren-luxus-wird-und-wie-es-doch-noch-guenstig-geht](https://www.spiegel.de/wirtschaft/service/warum-urlaub-fuer-viele-zum-unbezahlbaren-luxus-wird-und-wie-es-doch-noch-guenstig-geht-a-d52cb2d0-a6bd-43c4-8b91-1cc4bb1c0a2f#ref=rss)
-* [https://www.spiegel.de/panorama/naechtliche-unwetter-deutsch-land-unter-video](https://www.spiegel.de/panorama/naechtliche-unwetter-deutsch-land-unter-video-a-fd7cdf2c-8176-4ea8-9006-74ab1a514677#ref=rss)
-### preise
-
-* [https://www.spiegel.de/wirtschaft/service/warum-urlaub-fuer-viele-zum-unbezahlbaren-luxus-wird-und-wie-es-doch-noch-guenstig-geht](https://www.spiegel.de/wirtschaft/service/warum-urlaub-fuer-viele-zum-unbezahlbaren-luxus-wird-und-wie-es-doch-noch-guenstig-geht-a-d52cb2d0-a6bd-43c4-8b91-1cc4bb1c0a2f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/immobilien-preise-fuer-haeuser-und-wohnungen-sinken-so-stark-wie-seit-23-jahren-nicht-mehr](https://www.spiegel.de/wirtschaft/immobilien-preise-fuer-haeuser-und-wohnungen-sinken-so-stark-wie-seit-23-jahren-nicht-mehr-a-74ca4c6f-5c29-4764-ad0d-1a73d21a43d3#ref=rss)
 ### deutsche
 
-* [https://www.spiegel.de/wirtschaft/service/warum-urlaub-fuer-viele-zum-unbezahlbaren-luxus-wird-und-wie-es-doch-noch-guenstig-geht](https://www.spiegel.de/wirtschaft/service/warum-urlaub-fuer-viele-zum-unbezahlbaren-luxus-wird-und-wie-es-doch-noch-guenstig-geht-a-d52cb2d0-a6bd-43c4-8b91-1cc4bb1c0a2f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-hubertus-heil-mahnt-wegen-drohendem-streik-zu-einsicht-und-vernunft](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-hubertus-heil-mahnt-wegen-drohendem-streik-zu-einsicht-und-vernunft-a-24ac763f-ed17-4be6-8e04-8e0af7c83f4e#ref=rss)
-### günstiger
+* [https://www.spiegel.de/sport/special-olympics-deutsche-fussballer-siegen-25-0-im-halbfinale-trotzdem-sind-alle-unzufrieden](https://www.spiegel.de/sport/special-olympics-deutsche-fussballer-siegen-25-0-im-halbfinale-trotzdem-sind-alle-unzufrieden-a-4fac60e4-b06e-4b59-9274-222e93db8b55#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ingo-gerhartz-wer-ist-der-deutsche-top-gun-general](https://www.spiegel.de/politik/deutschland/ingo-gerhartz-wer-ist-der-deutsche-top-gun-general-a-70061655-d58a-443a-8a89-14bef5587101#ref=rss)
+* [https://www.spiegel.de/kultur/musik/peter-broetzmann-ist-tot-nachruf-auf-den-jazzmusiker-alles-wegblasen](https://www.spiegel.de/kultur/musik/peter-broetzmann-ist-tot-nachruf-auf-den-jazzmusiker-alles-wegblasen-a-c1e85d22-0fb1-4e1d-8eb4-6ae34caa6be0#ref=rss)
+* [https://www.spiegel.de/auto/deutsche-bahn-neue-zugstrecke-von-berlin-nach-paris-voraussichtlich-ueber-frankfurt-und-saarbruecken](https://www.spiegel.de/auto/deutsche-bahn-neue-zugstrecke-von-berlin-nach-paris-voraussichtlich-ueber-frankfurt-und-saarbruecken-a-d4845051-d457-4bd0-bb4e-d27f463afae5#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/wirtschaft/service/warum-urlaub-fuer-viele-zum-unbezahlbaren-luxus-wird-und-wie-es-doch-noch-guenstig-geht](https://www.spiegel.de/wirtschaft/service/warum-urlaub-fuer-viele-zum-unbezahlbaren-luxus-wird-und-wie-es-doch-noch-guenstig-geht-a-d52cb2d0-a6bd-43c4-8b91-1cc4bb1c0a2f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/immobilien-preise-fuer-haeuser-und-wohnungen-sinken-so-stark-wie-seit-23-jahren-nicht-mehr](https://www.spiegel.de/wirtschaft/immobilien-preise-fuer-haeuser-und-wohnungen-sinken-so-stark-wie-seit-23-jahren-nicht-mehr-a-74ca4c6f-5c29-4764-ad0d-1a73d21a43d3#ref=rss)
-### extremwetter
+* [https://www.spiegel.de/ausland/london-mann-bekennt-sich-des-totschlags-von-39-einwanderern-schuldig](https://www.spiegel.de/ausland/london-mann-bekennt-sich-des-totschlags-von-39-einwanderern-schuldig-a-09a7c7ed-dc29-41f6-af08-3fbaa4140b27#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/duesseldorf-schuelerin-stirbt-auf-klassenfahrt-doch-prozess-gegen-zwei-lehrerinnen](https://www.spiegel.de/panorama/justiz/duesseldorf-schuelerin-stirbt-auf-klassenfahrt-doch-prozess-gegen-zwei-lehrerinnen-a-29ae596a-9ea6-4e56-a024-e5071cf93895#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-chinook-hubschrauber-werden-deutlich-teurer-als-geplant](https://www.spiegel.de/politik/deutschland/bundeswehr-chinook-hubschrauber-werden-deutlich-teurer-als-geplant-a-7b146db3-a8ed-46bb-b636-e17fec49a8c7#ref=rss)
+* [https://www.spiegel.de/sport/tennis/alexander-zverev-erreicht-das-halbfinale-von-halle](https://www.spiegel.de/sport/tennis/alexander-zverev-erreicht-das-halbfinale-von-halle-a-d59aa11d-4665-4158-bb6c-253825c0ba08#ref=rss)
+### mann
 
-* [https://www.spiegel.de/wissenschaft/extremwetter-uebernutzung-verschmutzung-oekosysteme-koennten-schneller-kollabieren-als-angenommen](https://www.spiegel.de/wissenschaft/extremwetter-uebernutzung-verschmutzung-oekosysteme-koennten-schneller-kollabieren-als-angenommen-a-9f146d49-434a-4037-8d0f-12b353915960#ref=rss)
-### schneller
+* [https://www.spiegel.de/ausland/london-mann-bekennt-sich-des-totschlags-von-39-einwanderern-schuldig](https://www.spiegel.de/ausland/london-mann-bekennt-sich-des-totschlags-von-39-einwanderern-schuldig-a-09a7c7ed-dc29-41f6-af08-3fbaa4140b27#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mann-in-handschellen-erschiesst-polizisten-auf-wache-mordurteil-in-england](https://www.spiegel.de/panorama/justiz/mann-in-handschellen-erschiesst-polizisten-auf-wache-mordurteil-in-england-a-71b62393-b534-43e0-8e51-361efb5ad8ed#ref=rss)
+* [https://www.spiegel.de/ausland/canberra-mutmasslicher-russischer-diplomat-macht-sich-auf-geplantem-botschaftsgelaende-breit](https://www.spiegel.de/ausland/canberra-mutmasslicher-russischer-diplomat-macht-sich-auf-geplantem-botschaftsgelaende-breit-a-021749ad-3ced-4f68-aeea-97f630004e42#ref=rss)
+### bundestag
 
-* [https://www.spiegel.de/wissenschaft/extremwetter-uebernutzung-verschmutzung-oekosysteme-koennten-schneller-kollabieren-als-angenommen](https://www.spiegel.de/wissenschaft/extremwetter-uebernutzung-verschmutzung-oekosysteme-koennten-schneller-kollabieren-als-angenommen-a-9f146d49-434a-4037-8d0f-12b353915960#ref=rss)
-### hinzu
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-daniel-guenther-friedrich-merz-sommerurlaub-fachkraeftemangel](https://www.spiegel.de/politik/deutschland/news-des-tages-daniel-guenther-friedrich-merz-sommerurlaub-fachkraeftemangel-a-cc1f0414-c8bb-4abe-9f3d-14955f17106e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestag-beschliesst-gesetz-gegen-lieferengpaesse-bei-medikamenten](https://www.spiegel.de/politik/deutschland/bundestag-beschliesst-gesetz-gegen-lieferengpaesse-bei-medikamenten-a-0401e36a-ccfb-4dbf-8882-789519a66a6d#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/facebook-moderator-kritisiert-jobbedingungen-und-darf-nicht-mehr-arbeiten](https://www.spiegel.de/netzwelt/netzpolitik/facebook-moderator-kritisiert-jobbedingungen-und-darf-nicht-mehr-arbeiten-a-0384e272-cccf-4905-8093-dba47cc9635b#ref=rss)
+### unternehmen
 
-* [https://www.spiegel.de/wissenschaft/extremwetter-uebernutzung-verschmutzung-oekosysteme-koennten-schneller-kollabieren-als-angenommen](https://www.spiegel.de/wissenschaft/extremwetter-uebernutzung-verschmutzung-oekosysteme-koennten-schneller-kollabieren-als-angenommen-a-9f146d49-434a-4037-8d0f-12b353915960#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/1komma5-hamburger-energie-start-up-ist-eine-milliarde-euro-wert](https://www.spiegel.de/wirtschaft/unternehmen/1komma5-hamburger-energie-start-up-ist-eine-milliarde-euro-wert-a-e8622222-3557-48cf-807a-02ca2d7bf87b#ref=rss)
-### studie
+* [https://www.spiegel.de/wirtschaft/unternehmen/roemertopf-hersteller-des-legendaeren-braeters-ist-insolvent](https://www.spiegel.de/wirtschaft/unternehmen/roemertopf-hersteller-des-legendaeren-braeters-ist-insolvent-a-8f22784a-2a54-4a68-a14f-0afa7af3d1f3#ref=rss)
+* [https://www.spiegel.de/netzwelt/nach-spiege-enthuellungen-eu-sanktioniert-hackerfirma-ntc-vulkan](https://www.spiegel.de/netzwelt/nach-spiege-enthuellungen-eu-sanktioniert-hackerfirma-ntc-vulkan-a-1741b0f5-fd54-4f0f-ba92-df07b7f2886d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/martin-schirdewan-die-linke-fordert-wasserentgelte-fuer-unternehmen](https://www.spiegel.de/politik/deutschland/martin-schirdewan-die-linke-fordert-wasserentgelte-fuer-unternehmen-a-ed8826fa-cbc0-44d3-a108-715d4cb1966a#ref=rss)
+### neue
 
-* [https://www.spiegel.de/wissenschaft/extremwetter-uebernutzung-verschmutzung-oekosysteme-koennten-schneller-kollabieren-als-angenommen](https://www.spiegel.de/wissenschaft/extremwetter-uebernutzung-verschmutzung-oekosysteme-koennten-schneller-kollabieren-als-angenommen-a-9f146d49-434a-4037-8d0f-12b353915960#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/diabetes-faelle-koennten-sich-bis-2050-weltweit-verdoppeln](https://www.spiegel.de/wissenschaft/medizin/diabetes-faelle-koennten-sich-bis-2050-weltweit-verdoppeln-a-f4bac771-48df-48e9-84ce-4d3bd2227c6e#ref=rss)
-### bahn
+* [https://www.spiegel.de/politik/deutschland/ingo-gerhartz-wer-ist-der-deutsche-top-gun-general](https://www.spiegel.de/politik/deutschland/ingo-gerhartz-wer-ist-der-deutsche-top-gun-general-a-70061655-d58a-443a-8a89-14bef5587101#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/leitungswasser-neue-trinkwasserverordnung-soll-leitungswasser-sicherer-machen](https://www.spiegel.de/wissenschaft/medizin/leitungswasser-neue-trinkwasserverordnung-soll-leitungswasser-sicherer-machen-a-f182d17b-867f-48dc-b4fb-d8f53ce2a49f#ref=rss)
+* [https://www.spiegel.de/auto/deutsche-bahn-neue-zugstrecke-von-berlin-nach-paris-voraussichtlich-ueber-frankfurt-und-saarbruecken](https://www.spiegel.de/auto/deutsche-bahn-neue-zugstrecke-von-berlin-nach-paris-voraussichtlich-ueber-frankfurt-und-saarbruecken-a-d4845051-d457-4bd0-bb4e-d27f463afae5#ref=rss)
+### bundeswehr
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-hubertus-heil-mahnt-wegen-drohendem-streik-zu-einsicht-und-vernunft](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-hubertus-heil-mahnt-wegen-drohendem-streik-zu-einsicht-und-vernunft-a-24ac763f-ed17-4be6-8e04-8e0af7c83f4e#ref=rss)
-### pep
-
-* [https://www.spiegel.de/sport/fussball/fussball-quiz-welcher-trainer-gewann-die-champions-league-haeufiger-als-pep-guardiola](https://www.spiegel.de/sport/fussball/fussball-quiz-welcher-trainer-gewann-die-champions-league-haeufiger-als-pep-guardiola-a-524ab860-9986-4930-86c6-77dda89f23e6#ref=rss)
-### guardiola
-
-* [https://www.spiegel.de/sport/fussball/fussball-quiz-welcher-trainer-gewann-die-champions-league-haeufiger-als-pep-guardiola](https://www.spiegel.de/sport/fussball/fussball-quiz-welcher-trainer-gewann-die-champions-league-haeufiger-als-pep-guardiola-a-524ab860-9986-4930-86c6-77dda89f23e6#ref=rss)
-### geschafft
-
-* [https://www.spiegel.de/sport/fussball/fussball-quiz-welcher-trainer-gewann-die-champions-league-haeufiger-als-pep-guardiola](https://www.spiegel.de/sport/fussball/fussball-quiz-welcher-trainer-gewann-die-champions-league-haeufiger-als-pep-guardiola-a-524ab860-9986-4930-86c6-77dda89f23e6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestag-und-bundesrat-ruegen-regierung-fuer-umgang-mit-heizungsgesetz](https://www.spiegel.de/politik/deutschland/bundestag-und-bundesrat-ruegen-regierung-fuer-umgang-mit-heizungsgesetz-a-1b3139f1-4017-4ab0-adc8-565b867f7770#ref=rss)
-### ralph
-
-* [https://www.spiegel.de/sport/radsport-ralph-denk-von-bora-hansgrohe-stuerze-sind-das-berufsrisiko-der-fahrer](https://www.spiegel.de/sport/radsport-ralph-denk-von-bora-hansgrohe-stuerze-sind-das-berufsrisiko-der-fahrer-a-4959e1bc-45cf-4f60-b4a3-3c5b31f38016#ref=rss)
-### denk
-
-* [https://www.spiegel.de/sport/radsport-ralph-denk-von-bora-hansgrohe-stuerze-sind-das-berufsrisiko-der-fahrer](https://www.spiegel.de/sport/radsport-ralph-denk-von-bora-hansgrohe-stuerze-sind-das-berufsrisiko-der-fahrer-a-4959e1bc-45cf-4f60-b4a3-3c5b31f38016#ref=rss)
-### tragische
-
-* [https://www.spiegel.de/sport/radsport-ralph-denk-von-bora-hansgrohe-stuerze-sind-das-berufsrisiko-der-fahrer](https://www.spiegel.de/sport/radsport-ralph-denk-von-bora-hansgrohe-stuerze-sind-das-berufsrisiko-der-fahrer-a-4959e1bc-45cf-4f60-b4a3-3c5b31f38016#ref=rss)
-* [https://www.spiegel.de/geschichte/ida-und-isidor-straus-auf-der-titanic-die-tragische-familiengeschichte-des-tauchbootpiloten-der-titan](https://www.spiegel.de/geschichte/ida-und-isidor-straus-auf-der-titanic-die-tragische-familiengeschichte-des-tauchbootpiloten-der-titan-a-1fb676de-bc04-4f25-88a6-e446fae75cf5#ref=rss)
-### tod
-
-* [https://www.spiegel.de/sport/radsport-ralph-denk-von-bora-hansgrohe-stuerze-sind-das-berufsrisiko-der-fahrer](https://www.spiegel.de/sport/radsport-ralph-denk-von-bora-hansgrohe-stuerze-sind-das-berufsrisiko-der-fahrer-a-4959e1bc-45cf-4f60-b4a3-3c5b31f38016#ref=rss)
-* [https://www.spiegel.de/geschichte/ida-und-isidor-straus-auf-der-titanic-die-tragische-familiengeschichte-des-tauchbootpiloten-der-titan](https://www.spiegel.de/geschichte/ida-und-isidor-straus-auf-der-titanic-die-tragische-familiengeschichte-des-tauchbootpiloten-der-titan-a-1fb676de-bc04-4f25-88a6-e446fae75cf5#ref=rss)
-### auslandshandelskammern
-
-* [https://www.spiegel.de/politik/deutschland/auslandshandelskammern-wirtschaftsministerium-sieht-hinweise-auf-krumme-geschaefte](https://www.spiegel.de/politik/deutschland/auslandshandelskammern-wirtschaftsministerium-sieht-hinweise-auf-krumme-geschaefte-a-6b8c60c9-6273-4443-8ab6-837086589f75#ref=rss)
-### wirtschaftsministerium
-
-* [https://www.spiegel.de/politik/deutschland/auslandshandelskammern-wirtschaftsministerium-sieht-hinweise-auf-krumme-geschaefte](https://www.spiegel.de/politik/deutschland/auslandshandelskammern-wirtschaftsministerium-sieht-hinweise-auf-krumme-geschaefte-a-6b8c60c9-6273-4443-8ab6-837086589f75#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/daniel-kretinsky-umstrittener-investor-prueft-einstieg-bei-thyssenkrupp-steel](https://www.spiegel.de/wirtschaft/unternehmen/daniel-kretinsky-umstrittener-investor-prueft-einstieg-bei-thyssenkrupp-steel-a-33041b04-4951-4184-98ef-24bd2d9050e3#ref=rss)
-### spiegelinformationen
-
-* [https://www.spiegel.de/politik/deutschland/auslandshandelskammern-wirtschaftsministerium-sieht-hinweise-auf-krumme-geschaefte](https://www.spiegel.de/politik/deutschland/auslandshandelskammern-wirtschaftsministerium-sieht-hinweise-auf-krumme-geschaefte-a-6b8c60c9-6273-4443-8ab6-837086589f75#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/haushalt-christian-lindner-gibt-zehn-ministerien-mehr-geld](https://www.spiegel.de/wirtschaft/soziales/haushalt-christian-lindner-gibt-zehn-ministerien-mehr-geld-a-1d908af1-b884-425a-ad9e-d730280abcc1#ref=rss)
-### tante
-
-* [https://www.spiegel.de/panorama/tante-von-suleman-dawood-19-jaehriger-titan-insasse-soll-grosse-angst-vor-dem-trip-gehabt-haben](https://www.spiegel.de/panorama/tante-von-suleman-dawood-19-jaehriger-titan-insasse-soll-grosse-angst-vor-dem-trip-gehabt-haben-a-16d64e2d-e011-4042-8e81-d6f835c884de#ref=rss)
-### dawood
-
-* [https://www.spiegel.de/panorama/tante-von-suleman-dawood-19-jaehriger-titan-insasse-soll-grosse-angst-vor-dem-trip-gehabt-haben](https://www.spiegel.de/panorama/tante-von-suleman-dawood-19-jaehriger-titan-insasse-soll-grosse-angst-vor-dem-trip-gehabt-haben-a-16d64e2d-e011-4042-8e81-d6f835c884de#ref=rss)
-### große
-
-* [https://www.spiegel.de/panorama/tante-von-suleman-dawood-19-jaehriger-titan-insasse-soll-grosse-angst-vor-dem-trip-gehabt-haben](https://www.spiegel.de/panorama/tante-von-suleman-dawood-19-jaehriger-titan-insasse-soll-grosse-angst-vor-dem-trip-gehabt-haben-a-16d64e2d-e011-4042-8e81-d6f835c884de#ref=rss)
-* [https://www.spiegel.de/geschichte/joy-fleming-mama-soul-aus-mannheim-der-spiegel-vor-50-jahren](https://www.spiegel.de/geschichte/joy-fleming-mama-soul-aus-mannheim-der-spiegel-vor-50-jahren-a-25af4a25-728c-4f7e-a378-49415250d239#ref=rss)
-### waren
-
-* [https://www.spiegel.de/panorama/tante-von-suleman-dawood-19-jaehriger-titan-insasse-soll-grosse-angst-vor-dem-trip-gehabt-haben](https://www.spiegel.de/panorama/tante-von-suleman-dawood-19-jaehriger-titan-insasse-soll-grosse-angst-vor-dem-trip-gehabt-haben-a-16d64e2d-e011-4042-8e81-d6f835c884de#ref=rss)
-* [https://www.spiegel.de/panorama/naechtliche-unwetter-deutsch-land-unter-video](https://www.spiegel.de/panorama/naechtliche-unwetter-deutsch-land-unter-video-a-fd7cdf2c-8176-4ea8-9006-74ab1a514677#ref=rss)
-### sender
-
-* [https://www.spiegel.de/kultur/tv/spielberg-scorsese-und-anderson-star-regisseure-machen-sich-fuer-sender-stark-der-alte-filme-zeigt](https://www.spiegel.de/kultur/tv/spielberg-scorsese-und-anderson-star-regisseure-machen-sich-fuer-sender-stark-der-alte-filme-zeigt-a-5f5f10fa-895d-485e-a13f-7caaca7371b6#ref=rss)
-### stark
-
-* [https://www.spiegel.de/kultur/tv/spielberg-scorsese-und-anderson-star-regisseure-machen-sich-fuer-sender-stark-der-alte-filme-zeigt](https://www.spiegel.de/kultur/tv/spielberg-scorsese-und-anderson-star-regisseure-machen-sich-fuer-sender-stark-der-alte-filme-zeigt-a-5f5f10fa-895d-485e-a13f-7caaca7371b6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/immobilien-preise-fuer-haeuser-und-wohnungen-sinken-so-stark-wie-seit-23-jahren-nicht-mehr](https://www.spiegel.de/wirtschaft/immobilien-preise-fuer-haeuser-und-wohnungen-sinken-so-stark-wie-seit-23-jahren-nicht-mehr-a-74ca4c6f-5c29-4764-ad0d-1a73d21a43d3#ref=rss)
-### alte
-
-* [https://www.spiegel.de/kultur/tv/spielberg-scorsese-und-anderson-star-regisseure-machen-sich-fuer-sender-stark-der-alte-filme-zeigt](https://www.spiegel.de/kultur/tv/spielberg-scorsese-und-anderson-star-regisseure-machen-sich-fuer-sender-stark-der-alte-filme-zeigt-a-5f5f10fa-895d-485e-a13f-7caaca7371b6#ref=rss)
-### filme
-
-* [https://www.spiegel.de/kultur/tv/spielberg-scorsese-und-anderson-star-regisseure-machen-sich-fuer-sender-stark-der-alte-filme-zeigt](https://www.spiegel.de/kultur/tv/spielberg-scorsese-und-anderson-star-regisseure-machen-sich-fuer-sender-stark-der-alte-filme-zeigt-a-5f5f10fa-895d-485e-a13f-7caaca7371b6#ref=rss)
-### gerüchte
-
-* [https://www.spiegel.de/kultur/tv/spielberg-scorsese-und-anderson-star-regisseure-machen-sich-fuer-sender-stark-der-alte-filme-zeigt](https://www.spiegel.de/kultur/tv/spielberg-scorsese-und-anderson-star-regisseure-machen-sich-fuer-sender-stark-der-alte-filme-zeigt-a-5f5f10fa-895d-485e-a13f-7caaca7371b6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-transferticker-fc-bayern-holt-raphael-guerreiro-von-borussia-dortmund](https://www.spiegel.de/sport/fussball/fussball-transferticker-fc-bayern-holt-raphael-guerreiro-von-borussia-dortmund-a-43d28fc2-52b9-485c-a2a3-e5cbcfa7999f#ref=rss)
-### missbrauchsvorwürfe
-
-* [https://www.spiegel.de/kultur/musik/es-ging-um-missbrauchsvorwuerfe-und-verleumdung-kesha-und-dr-luke-legen-rechtsstreit-bei](https://www.spiegel.de/kultur/musik/es-ging-um-missbrauchsvorwuerfe-und-verleumdung-kesha-und-dr-luke-legen-rechtsstreit-bei-a-a2e8d0a1-96c2-49be-97c9-4d37d0c4ed16#ref=rss)
-### verleumdung
-
-* [https://www.spiegel.de/kultur/musik/es-ging-um-missbrauchsvorwuerfe-und-verleumdung-kesha-und-dr-luke-legen-rechtsstreit-bei](https://www.spiegel.de/kultur/musik/es-ging-um-missbrauchsvorwuerfe-und-verleumdung-kesha-und-dr-luke-legen-rechtsstreit-bei-a-a2e8d0a1-96c2-49be-97c9-4d37d0c4ed16#ref=rss)
-### kesha
-
-* [https://www.spiegel.de/kultur/musik/es-ging-um-missbrauchsvorwuerfe-und-verleumdung-kesha-und-dr-luke-legen-rechtsstreit-bei](https://www.spiegel.de/kultur/musik/es-ging-um-missbrauchsvorwuerfe-und-verleumdung-kesha-und-dr-luke-legen-rechtsstreit-bei-a-a2e8d0a1-96c2-49be-97c9-4d37d0c4ed16#ref=rss)
-### zehn
-
-* [https://www.spiegel.de/kultur/musik/es-ging-um-missbrauchsvorwuerfe-und-verleumdung-kesha-und-dr-luke-legen-rechtsstreit-bei](https://www.spiegel.de/kultur/musik/es-ging-um-missbrauchsvorwuerfe-und-verleumdung-kesha-und-dr-luke-legen-rechtsstreit-bei-a-a2e8d0a1-96c2-49be-97c9-4d37d0c4ed16#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/haushalt-christian-lindner-gibt-zehn-ministerien-mehr-geld](https://www.spiegel.de/wirtschaft/soziales/haushalt-christian-lindner-gibt-zehn-ministerien-mehr-geld-a-1d908af1-b884-425a-ad9e-d730280abcc1#ref=rss)
-### daniel
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/daniel-kretinsky-umstrittener-investor-prueft-einstieg-bei-thyssenkrupp-steel](https://www.spiegel.de/wirtschaft/unternehmen/daniel-kretinsky-umstrittener-investor-prueft-einstieg-bei-thyssenkrupp-steel-a-33041b04-4951-4184-98ef-24bd2d9050e3#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/kieler-woche-daniel-guenther-groelt-sexistischen-partysong-layla](https://www.spiegel.de/panorama/gesellschaft/kieler-woche-daniel-guenther-groelt-sexistischen-partysong-layla-a-61f9fec3-701a-4761-b7da-0a308cc8737d#ref=rss)
-### křetínský
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/daniel-kretinsky-umstrittener-investor-prueft-einstieg-bei-thyssenkrupp-steel](https://www.spiegel.de/wirtschaft/unternehmen/daniel-kretinsky-umstrittener-investor-prueft-einstieg-bei-thyssenkrupp-steel-a-33041b04-4951-4184-98ef-24bd2d9050e3#ref=rss)
-### thyssenkrupp
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/daniel-kretinsky-umstrittener-investor-prueft-einstieg-bei-thyssenkrupp-steel](https://www.spiegel.de/wirtschaft/unternehmen/daniel-kretinsky-umstrittener-investor-prueft-einstieg-bei-thyssenkrupp-steel-a-33041b04-4951-4184-98ef-24bd2d9050e3#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/panorama/naechtliche-unwetter-deutsch-land-unter-video](https://www.spiegel.de/panorama/naechtliche-unwetter-deutsch-land-unter-video-a-fd7cdf2c-8176-4ea8-9006-74ab1a514677#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/1komma5-hamburger-energie-start-up-ist-eine-milliarde-euro-wert](https://www.spiegel.de/wirtschaft/unternehmen/1komma5-hamburger-energie-start-up-ist-eine-milliarde-euro-wert-a-e8622222-3557-48cf-807a-02ca2d7bf87b#ref=rss)
-### video
-
-* [https://www.spiegel.de/panorama/naechtliche-unwetter-deutsch-land-unter-video](https://www.spiegel.de/panorama/naechtliche-unwetter-deutsch-land-unter-video-a-fd7cdf2c-8176-4ea8-9006-74ab1a514677#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ingo-gerhartz-wer-ist-der-deutsche-top-gun-general](https://www.spiegel.de/politik/deutschland/ingo-gerhartz-wer-ist-der-deutsche-top-gun-general-a-70061655-d58a-443a-8a89-14bef5587101#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-chinook-hubschrauber-werden-deutlich-teurer-als-geplant](https://www.spiegel.de/politik/deutschland/bundeswehr-chinook-hubschrauber-werden-deutlich-teurer-als-geplant-a-7b146db3-a8ed-46bb-b636-e17fec49a8c7#ref=rss)
 ### wasser
 
-* [https://www.spiegel.de/panorama/naechtliche-unwetter-deutsch-land-unter-video](https://www.spiegel.de/panorama/naechtliche-unwetter-deutsch-land-unter-video-a-fd7cdf2c-8176-4ea8-9006-74ab1a514677#ref=rss)
-* [https://www.spiegel.de/panorama/unwetter-lambert-blitze-ueberschwemmungen-aber-wohl-nicht-so-schlimm-wie-erwartet](https://www.spiegel.de/panorama/unwetter-lambert-blitze-ueberschwemmungen-aber-wohl-nicht-so-schlimm-wie-erwartet-a-2a393cb8-88ea-4fdc-9446-9775faf836e2#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/naechtliche-unwetter-deutsch-land-unter-video](https://www.spiegel.de/panorama/naechtliche-unwetter-deutsch-land-unter-video-a-fd7cdf2c-8176-4ea8-9006-74ab1a514677#ref=rss)
-* [https://www.spiegel.de/panorama/unwetter-lambert-blitze-ueberschwemmungen-aber-wohl-nicht-so-schlimm-wie-erwartet](https://www.spiegel.de/panorama/unwetter-lambert-blitze-ueberschwemmungen-aber-wohl-nicht-so-schlimm-wie-erwartet-a-2a393cb8-88ea-4fdc-9446-9775faf836e2#ref=rss)
-### angebot
-
-* [https://www.spiegel.de/sport/basketball/staatsfonds-macht-angebot-katar-steigt-wohl-erstmals-in-us-profisport-ein](https://www.spiegel.de/sport/basketball/staatsfonds-macht-angebot-katar-steigt-wohl-erstmals-in-us-profisport-ein-a-636e5561-2409-4b6b-ab20-f3049445e742#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/o2-verteuert-unbegrenzte-datenflatrate](https://www.spiegel.de/netzwelt/netzpolitik/o2-verteuert-unbegrenzte-datenflatrate-a-f34de532-dfce-488e-a314-b8efbd556c79#ref=rss)
-### katar
-
-* [https://www.spiegel.de/sport/basketball/staatsfonds-macht-angebot-katar-steigt-wohl-erstmals-in-us-profisport-ein](https://www.spiegel.de/sport/basketball/staatsfonds-macht-angebot-katar-steigt-wohl-erstmals-in-us-profisport-ein-a-636e5561-2409-4b6b-ab20-f3049445e742#ref=rss)
-### steigt
-
-* [https://www.spiegel.de/sport/basketball/staatsfonds-macht-angebot-katar-steigt-wohl-erstmals-in-us-profisport-ein](https://www.spiegel.de/sport/basketball/staatsfonds-macht-angebot-katar-steigt-wohl-erstmals-in-us-profisport-ein-a-636e5561-2409-4b6b-ab20-f3049445e742#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/diabetes-faelle-koennten-sich-bis-2050-weltweit-verdoppeln](https://www.spiegel.de/wissenschaft/medizin/diabetes-faelle-koennten-sich-bis-2050-weltweit-verdoppeln-a-f4bac771-48df-48e9-84ce-4d3bd2227c6e#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/sport/basketball/staatsfonds-macht-angebot-katar-steigt-wohl-erstmals-in-us-profisport-ein](https://www.spiegel.de/sport/basketball/staatsfonds-macht-angebot-katar-steigt-wohl-erstmals-in-us-profisport-ein-a-636e5561-2409-4b6b-ab20-f3049445e742#ref=rss)
-* [https://www.spiegel.de/panorama/unwetter-lambert-blitze-ueberschwemmungen-aber-wohl-nicht-so-schlimm-wie-erwartet](https://www.spiegel.de/panorama/unwetter-lambert-blitze-ueberschwemmungen-aber-wohl-nicht-so-schlimm-wie-erwartet-a-2a393cb8-88ea-4fdc-9446-9775faf836e2#ref=rss)
-### joy
-
-* [https://www.spiegel.de/geschichte/joy-fleming-mama-soul-aus-mannheim-der-spiegel-vor-50-jahren](https://www.spiegel.de/geschichte/joy-fleming-mama-soul-aus-mannheim-der-spiegel-vor-50-jahren-a-25af4a25-728c-4f7e-a378-49415250d239#ref=rss)
-### fleming
-
-* [https://www.spiegel.de/geschichte/joy-fleming-mama-soul-aus-mannheim-der-spiegel-vor-50-jahren](https://www.spiegel.de/geschichte/joy-fleming-mama-soul-aus-mannheim-der-spiegel-vor-50-jahren-a-25af4a25-728c-4f7e-a378-49415250d239#ref=rss)
-### klimaschutz
-
-* [https://www.spiegel.de/wissenschaft/mensch/klimaschutz-aufstand-der-klima-bremser-spiegel-klimabericht](https://www.spiegel.de/wissenschaft/mensch/klimaschutz-aufstand-der-klima-bremser-spiegel-klimabericht-a-857c68b7-9d7b-4d5d-8944-d29a9f91659e#ref=rss)
-### 3m
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/usa-chemiekonzern-3m-zahlt-milliarden-im-rechtsstreit-um-verschmutztes-trinkwasser](https://www.spiegel.de/wirtschaft/unternehmen/usa-chemiekonzern-3m-zahlt-milliarden-im-rechtsstreit-um-verschmutztes-trinkwasser-a-52b929d6-6980-453d-8d4a-93eed90c6552#ref=rss)
-### milliarden
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/usa-chemiekonzern-3m-zahlt-milliarden-im-rechtsstreit-um-verschmutztes-trinkwasser](https://www.spiegel.de/wirtschaft/unternehmen/usa-chemiekonzern-3m-zahlt-milliarden-im-rechtsstreit-um-verschmutztes-trinkwasser-a-52b929d6-6980-453d-8d4a-93eed90c6552#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/haushalt-christian-lindner-gibt-zehn-ministerien-mehr-geld](https://www.spiegel.de/wirtschaft/soziales/haushalt-christian-lindner-gibt-zehn-ministerien-mehr-geld-a-1d908af1-b884-425a-ad9e-d730280abcc1#ref=rss)
-### trinkwasser
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/usa-chemiekonzern-3m-zahlt-milliarden-im-rechtsstreit-um-verschmutztes-trinkwasser](https://www.spiegel.de/wirtschaft/unternehmen/usa-chemiekonzern-3m-zahlt-milliarden-im-rechtsstreit-um-verschmutztes-trinkwasser-a-52b929d6-6980-453d-8d4a-93eed90c6552#ref=rss)
-### lambert
-
-* [https://www.spiegel.de/panorama/unwetter-lambert-blitze-ueberschwemmungen-aber-wohl-nicht-so-schlimm-wie-erwartet](https://www.spiegel.de/panorama/unwetter-lambert-blitze-ueberschwemmungen-aber-wohl-nicht-so-schlimm-wie-erwartet-a-2a393cb8-88ea-4fdc-9446-9775faf836e2#ref=rss)
-### gamesa
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/siemens-gamesa-probleme-laut-chef-von-siemens-energy-groesser-als-gedacht](https://www.spiegel.de/wirtschaft/unternehmen/siemens-gamesa-probleme-laut-chef-von-siemens-energy-groesser-als-gedacht-a-d12d4c61-dd82-4037-8814-7064beea6894#ref=rss)
-### energy
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/siemens-gamesa-probleme-laut-chef-von-siemens-energy-groesser-als-gedacht](https://www.spiegel.de/wirtschaft/unternehmen/siemens-gamesa-probleme-laut-chef-von-siemens-energy-groesser-als-gedacht-a-d12d4c61-dd82-4037-8814-7064beea6894#ref=rss)
-### erst
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/siemens-gamesa-probleme-laut-chef-von-siemens-energy-groesser-als-gedacht](https://www.spiegel.de/wirtschaft/unternehmen/siemens-gamesa-probleme-laut-chef-von-siemens-energy-groesser-als-gedacht-a-d12d4c61-dd82-4037-8814-7064beea6894#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/richter-verurteilt-anwaelte-wegen-chatgpt-posse-zu-einer-geldstrafe](https://www.spiegel.de/netzwelt/web/richter-verurteilt-anwaelte-wegen-chatgpt-posse-zu-einer-geldstrafe-a-38c8535e-d99d-4562-98d8-bbe35dad289c#ref=rss)
-### kieler
-
-* [https://www.spiegel.de/panorama/gesellschaft/kieler-woche-daniel-guenther-groelt-sexistischen-partysong-layla](https://www.spiegel.de/panorama/gesellschaft/kieler-woche-daniel-guenther-groelt-sexistischen-partysong-layla-a-61f9fec3-701a-4761-b7da-0a308cc8737d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/grafik-zur-gesunkenen-titan-truemmer-in-der-tiefe](https://www.spiegel.de/wissenschaft/grafik-zur-gesunkenen-titan-truemmer-in-der-tiefe-a-5451aa50-0456-422a-858e-f38399f65a83#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/leitungswasser-neue-trinkwasserverordnung-soll-leitungswasser-sicherer-machen](https://www.spiegel.de/wissenschaft/medizin/leitungswasser-neue-trinkwasserverordnung-soll-leitungswasser-sicherer-machen-a-f182d17b-867f-48dc-b4fb-d8f53ce2a49f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/martin-schirdewan-die-linke-fordert-wasserentgelte-fuer-unternehmen](https://www.spiegel.de/politik/deutschland/martin-schirdewan-die-linke-fordert-wasserentgelte-fuer-unternehmen-a-ed8826fa-cbc0-44d3-a108-715d4cb1966a#ref=rss)
 ### woche
 
-* [https://www.spiegel.de/panorama/gesellschaft/kieler-woche-daniel-guenther-groelt-sexistischen-partysong-layla](https://www.spiegel.de/panorama/gesellschaft/kieler-woche-daniel-guenther-groelt-sexistischen-partysong-layla-a-61f9fec3-701a-4761-b7da-0a308cc8737d#ref=rss)
-### sexistischen
+* [https://www.spiegel.de/wirtschaft/unternehmen/rewe-verteilt-zum-letzten-mal-prospekte](https://www.spiegel.de/wirtschaft/unternehmen/rewe-verteilt-zum-letzten-mal-prospekte-a-05c08cb0-10b1-4145-a615-e807b8369dba#ref=rss)
+* [https://www.spiegel.de/kultur/musik/swans-todessehnsuechte-eines-toxikers-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/swans-todessehnsuechte-eines-toxikers-abgehoert-album-der-woche-a-56efb861-d322-45b8-abc3-867463fde6a8#ref=rss)
+### spd
 
-* [https://www.spiegel.de/panorama/gesellschaft/kieler-woche-daniel-guenther-groelt-sexistischen-partysong-layla](https://www.spiegel.de/panorama/gesellschaft/kieler-woche-daniel-guenther-groelt-sexistischen-partysong-layla-a-61f9fec3-701a-4761-b7da-0a308cc8737d#ref=rss)
-### layla
+* [https://www.spiegel.de/panorama/bildung/spd-in-nrw-fordert-verpflichtendes-foerderjahr-vor-der-grundschule-nicht-schulreif](https://www.spiegel.de/panorama/bildung/spd-in-nrw-fordert-verpflichtendes-foerderjahr-vor-der-grundschule-nicht-schulreif-a-84a1aa78-3cd0-4d39-a696-5b1354c7ad68#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/union-ueberarbeitet-fragenkatalog-fuer-geplanten-scholz-untersuchungsausschuss](https://www.spiegel.de/politik/deutschland/union-ueberarbeitet-fragenkatalog-fuer-geplanten-scholz-untersuchungsausschuss-a-41093b3b-3029-4d1e-8f01-7676ba063961#ref=rss)
+### union
 
-* [https://www.spiegel.de/panorama/gesellschaft/kieler-woche-daniel-guenther-groelt-sexistischen-partysong-layla](https://www.spiegel.de/panorama/gesellschaft/kieler-woche-daniel-guenther-groelt-sexistischen-partysong-layla-a-61f9fec3-701a-4761-b7da-0a308cc8737d#ref=rss)
-### seines
+* [https://www.spiegel.de/netzwelt/nach-spiege-enthuellungen-eu-sanktioniert-hackerfirma-ntc-vulkan](https://www.spiegel.de/netzwelt/nach-spiege-enthuellungen-eu-sanktioniert-hackerfirma-ntc-vulkan-a-1741b0f5-fd54-4f0f-ba92-df07b7f2886d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/union-ueberarbeitet-fragenkatalog-fuer-geplanten-scholz-untersuchungsausschuss](https://www.spiegel.de/politik/deutschland/union-ueberarbeitet-fragenkatalog-fuer-geplanten-scholz-untersuchungsausschuss-a-41093b3b-3029-4d1e-8f01-7676ba063961#ref=rss)
+### london
 
-* [https://www.spiegel.de/panorama/gesellschaft/kieler-woche-daniel-guenther-groelt-sexistischen-partysong-layla](https://www.spiegel.de/panorama/gesellschaft/kieler-woche-daniel-guenther-groelt-sexistischen-partysong-layla-a-61f9fec3-701a-4761-b7da-0a308cc8737d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/ilkay-guendogan-zum-fc-barcelona-er-geht-als-koenig-er-kommt-als-hoffnungstraeger](https://www.spiegel.de/sport/fussball/ilkay-guendogan-zum-fc-barcelona-er-geht-als-koenig-er-kommt-als-hoffnungstraeger-a-a41ebada-81d8-4927-8d70-e3a2d72e59e4#ref=rss)
-### gespielt
+* [https://www.spiegel.de/ausland/london-mann-bekennt-sich-des-totschlags-von-39-einwanderern-schuldig](https://www.spiegel.de/ausland/london-mann-bekennt-sich-des-totschlags-von-39-einwanderern-schuldig-a-09a7c7ed-dc29-41f6-af08-3fbaa4140b27#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/duesseldorf-schuelerin-stirbt-auf-klassenfahrt-doch-prozess-gegen-zwei-lehrerinnen](https://www.spiegel.de/panorama/justiz/duesseldorf-schuelerin-stirbt-auf-klassenfahrt-doch-prozess-gegen-zwei-lehrerinnen-a-29ae596a-9ea6-4e56-a024-e5071cf93895#ref=rss)
+### 39
 
-* [https://www.spiegel.de/panorama/gesellschaft/kieler-woche-daniel-guenther-groelt-sexistischen-partysong-layla](https://www.spiegel.de/panorama/gesellschaft/kieler-woche-daniel-guenther-groelt-sexistischen-partysong-layla-a-61f9fec3-701a-4761-b7da-0a308cc8737d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/ilkay-guendogan-zum-fc-barcelona-er-geht-als-koenig-er-kommt-als-hoffnungstraeger](https://www.spiegel.de/sport/fussball/ilkay-guendogan-zum-fc-barcelona-er-geht-als-koenig-er-kommt-als-hoffnungstraeger-a-a41ebada-81d8-4927-8d70-e3a2d72e59e4#ref=rss)
-### heizungsgesetz
+* [https://www.spiegel.de/ausland/london-mann-bekennt-sich-des-totschlags-von-39-einwanderern-schuldig](https://www.spiegel.de/ausland/london-mann-bekennt-sich-des-totschlags-von-39-einwanderern-schuldig-a-09a7c7ed-dc29-41f6-af08-3fbaa4140b27#ref=rss)
+### einwanderern
 
-* [https://www.spiegel.de/politik/deutschland/bundestag-und-bundesrat-ruegen-regierung-fuer-umgang-mit-heizungsgesetz](https://www.spiegel.de/politik/deutschland/bundestag-und-bundesrat-ruegen-regierung-fuer-umgang-mit-heizungsgesetz-a-1b3139f1-4017-4ab0-adc8-565b867f7770#ref=rss)
-### datenflatrate
+* [https://www.spiegel.de/ausland/london-mann-bekennt-sich-des-totschlags-von-39-einwanderern-schuldig](https://www.spiegel.de/ausland/london-mann-bekennt-sich-des-totschlags-von-39-einwanderern-schuldig-a-09a7c7ed-dc29-41f6-af08-3fbaa4140b27#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/o2-verteuert-unbegrenzte-datenflatrate](https://www.spiegel.de/netzwelt/netzpolitik/o2-verteuert-unbegrenzte-datenflatrate-a-f34de532-dfce-488e-a314-b8efbd556c79#ref=rss)
-### deutlich
+* [https://www.spiegel.de/ausland/london-mann-bekennt-sich-des-totschlags-von-39-einwanderern-schuldig](https://www.spiegel.de/ausland/london-mann-bekennt-sich-des-totschlags-von-39-einwanderern-schuldig-a-09a7c7ed-dc29-41f6-af08-3fbaa4140b27#ref=rss)
+* [https://www.spiegel.de/panorama/katastrophenbehoerde-in-pakistan-warnt-vor-gefaehrlicher-hitze](https://www.spiegel.de/panorama/katastrophenbehoerde-in-pakistan-warnt-vor-gefaehrlicher-hitze-a-452c92c9-815e-4529-9b9d-5e359b628405#ref=rss)
+### unter
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/o2-verteuert-unbegrenzte-datenflatrate](https://www.spiegel.de/netzwelt/netzpolitik/o2-verteuert-unbegrenzte-datenflatrate-a-f34de532-dfce-488e-a314-b8efbd556c79#ref=rss)
-* [https://www.spiegel.de/wirtschaft/immobilien-preise-fuer-haeuser-und-wohnungen-sinken-so-stark-wie-seit-23-jahren-nicht-mehr](https://www.spiegel.de/wirtschaft/immobilien-preise-fuer-haeuser-und-wohnungen-sinken-so-stark-wie-seit-23-jahren-nicht-mehr-a-74ca4c6f-5c29-4764-ad0d-1a73d21a43d3#ref=rss)
-### anwälte
+* [https://www.spiegel.de/ausland/london-mann-bekennt-sich-des-totschlags-von-39-einwanderern-schuldig](https://www.spiegel.de/ausland/london-mann-bekennt-sich-des-totschlags-von-39-einwanderern-schuldig-a-09a7c7ed-dc29-41f6-af08-3fbaa4140b27#ref=rss)
+* [https://www.spiegel.de/wissenschaft/grafik-zur-gesunkenen-titan-truemmer-in-der-tiefe](https://www.spiegel.de/wissenschaft/grafik-zur-gesunkenen-titan-truemmer-in-der-tiefe-a-5451aa50-0456-422a-858e-f38399f65a83#ref=rss)
+### letzten
 
-* [https://www.spiegel.de/netzwelt/web/richter-verurteilt-anwaelte-wegen-chatgpt-posse-zu-einer-geldstrafe](https://www.spiegel.de/netzwelt/web/richter-verurteilt-anwaelte-wegen-chatgpt-posse-zu-einer-geldstrafe-a-38c8535e-d99d-4562-98d8-bbe35dad289c#ref=rss)
-### häuser
+* [https://www.spiegel.de/panorama/justiz/lka-bayern-polizei-soll-gespraeche-der-letzten-generation-abgehoert-haben](https://www.spiegel.de/panorama/justiz/lka-bayern-polizei-soll-gespraeche-der-letzten-generation-abgehoert-haben-a-3a5938d5-1c5e-4d03-8e77-153dd61960dc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/rewe-verteilt-zum-letzten-mal-prospekte](https://www.spiegel.de/wirtschaft/unternehmen/rewe-verteilt-zum-letzten-mal-prospekte-a-05c08cb0-10b1-4145-a615-e807b8369dba#ref=rss)
+### abgehört
 
-* [https://www.spiegel.de/wirtschaft/immobilien-preise-fuer-haeuser-und-wohnungen-sinken-so-stark-wie-seit-23-jahren-nicht-mehr](https://www.spiegel.de/wirtschaft/immobilien-preise-fuer-haeuser-und-wohnungen-sinken-so-stark-wie-seit-23-jahren-nicht-mehr-a-74ca4c6f-5c29-4764-ad0d-1a73d21a43d3#ref=rss)
-### wohnungen
+* [https://www.spiegel.de/panorama/justiz/lka-bayern-polizei-soll-gespraeche-der-letzten-generation-abgehoert-haben](https://www.spiegel.de/panorama/justiz/lka-bayern-polizei-soll-gespraeche-der-letzten-generation-abgehoert-haben-a-3a5938d5-1c5e-4d03-8e77-153dd61960dc#ref=rss)
+* [https://www.spiegel.de/kultur/musik/swans-todessehnsuechte-eines-toxikers-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/swans-todessehnsuechte-eines-toxikers-abgehoert-album-der-woche-a-56efb861-d322-45b8-abc3-867463fde6a8#ref=rss)
+### liegen
 
-* [https://www.spiegel.de/wirtschaft/immobilien-preise-fuer-haeuser-und-wohnungen-sinken-so-stark-wie-seit-23-jahren-nicht-mehr](https://www.spiegel.de/wirtschaft/immobilien-preise-fuer-haeuser-und-wohnungen-sinken-so-stark-wie-seit-23-jahren-nicht-mehr-a-74ca4c6f-5c29-4764-ad0d-1a73d21a43d3#ref=rss)
-### sinken
+* [https://www.spiegel.de/panorama/justiz/lka-bayern-polizei-soll-gespraeche-der-letzten-generation-abgehoert-haben](https://www.spiegel.de/panorama/justiz/lka-bayern-polizei-soll-gespraeche-der-letzten-generation-abgehoert-haben-a-3a5938d5-1c5e-4d03-8e77-153dd61960dc#ref=rss)
+* [https://www.spiegel.de/wissenschaft/grafik-zur-gesunkenen-titan-truemmer-in-der-tiefe](https://www.spiegel.de/wissenschaft/grafik-zur-gesunkenen-titan-truemmer-in-der-tiefe-a-5451aa50-0456-422a-858e-f38399f65a83#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/wirtschaft/immobilien-preise-fuer-haeuser-und-wohnungen-sinken-so-stark-wie-seit-23-jahren-nicht-mehr](https://www.spiegel.de/wirtschaft/immobilien-preise-fuer-haeuser-und-wohnungen-sinken-so-stark-wie-seit-23-jahren-nicht-mehr-a-74ca4c6f-5c29-4764-ad0d-1a73d21a43d3#ref=rss)
-### barcelona
+* [https://www.spiegel.de/panorama/justiz/lka-bayern-polizei-soll-gespraeche-der-letzten-generation-abgehoert-haben](https://www.spiegel.de/panorama/justiz/lka-bayern-polizei-soll-gespraeche-der-letzten-generation-abgehoert-haben-a-3a5938d5-1c5e-4d03-8e77-153dd61960dc#ref=rss)
+* [https://www.spiegel.de/ausland/canberra-mutmasslicher-russischer-diplomat-macht-sich-auf-geplantem-botschaftsgelaende-breit](https://www.spiegel.de/ausland/canberra-mutmasslicher-russischer-diplomat-macht-sich-auf-geplantem-botschaftsgelaende-breit-a-021749ad-3ced-4f68-aeea-97f630004e42#ref=rss)
+### stirbt
 
-* [https://www.spiegel.de/sport/fussball/ilkay-guendogan-zum-fc-barcelona-er-geht-als-koenig-er-kommt-als-hoffnungstraeger](https://www.spiegel.de/sport/fussball/ilkay-guendogan-zum-fc-barcelona-er-geht-als-koenig-er-kommt-als-hoffnungstraeger-a-a41ebada-81d8-4927-8d70-e3a2d72e59e4#ref=rss)
-### ida
+* [https://www.spiegel.de/panorama/justiz/duesseldorf-schuelerin-stirbt-auf-klassenfahrt-doch-prozess-gegen-zwei-lehrerinnen](https://www.spiegel.de/panorama/justiz/duesseldorf-schuelerin-stirbt-auf-klassenfahrt-doch-prozess-gegen-zwei-lehrerinnen-a-29ae596a-9ea6-4e56-a024-e5071cf93895#ref=rss)
+### lehrerinnen
 
-* [https://www.spiegel.de/geschichte/ida-und-isidor-straus-auf-der-titanic-die-tragische-familiengeschichte-des-tauchbootpiloten-der-titan](https://www.spiegel.de/geschichte/ida-und-isidor-straus-auf-der-titanic-die-tragische-familiengeschichte-des-tauchbootpiloten-der-titan-a-1fb676de-bc04-4f25-88a6-e446fae75cf5#ref=rss)
-### isidor
+* [https://www.spiegel.de/panorama/justiz/duesseldorf-schuelerin-stirbt-auf-klassenfahrt-doch-prozess-gegen-zwei-lehrerinnen](https://www.spiegel.de/panorama/justiz/duesseldorf-schuelerin-stirbt-auf-klassenfahrt-doch-prozess-gegen-zwei-lehrerinnen-a-29ae596a-9ea6-4e56-a024-e5071cf93895#ref=rss)
+### römertopf
 
-* [https://www.spiegel.de/geschichte/ida-und-isidor-straus-auf-der-titanic-die-tragische-familiengeschichte-des-tauchbootpiloten-der-titan](https://www.spiegel.de/geschichte/ida-und-isidor-straus-auf-der-titanic-die-tragische-familiengeschichte-des-tauchbootpiloten-der-titan-a-1fb676de-bc04-4f25-88a6-e446fae75cf5#ref=rss)
-### straus
+* [https://www.spiegel.de/wirtschaft/unternehmen/roemertopf-hersteller-des-legendaeren-braeters-ist-insolvent](https://www.spiegel.de/wirtschaft/unternehmen/roemertopf-hersteller-des-legendaeren-braeters-ist-insolvent-a-8f22784a-2a54-4a68-a14f-0afa7af3d1f3#ref=rss)
+### produktion
 
-* [https://www.spiegel.de/geschichte/ida-und-isidor-straus-auf-der-titanic-die-tragische-familiengeschichte-des-tauchbootpiloten-der-titan](https://www.spiegel.de/geschichte/ida-und-isidor-straus-auf-der-titanic-die-tragische-familiengeschichte-des-tauchbootpiloten-der-titan-a-1fb676de-bc04-4f25-88a6-e446fae75cf5#ref=rss)
-### titanic
+* [https://www.spiegel.de/wirtschaft/unternehmen/roemertopf-hersteller-des-legendaeren-braeters-ist-insolvent](https://www.spiegel.de/wirtschaft/unternehmen/roemertopf-hersteller-des-legendaeren-braeters-ist-insolvent-a-8f22784a-2a54-4a68-a14f-0afa7af3d1f3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wegen-erdbeben-niederlande-beenden-foerderung-in-europas-groesstem-erdgasfeld](https://www.spiegel.de/wirtschaft/wegen-erdbeben-niederlande-beenden-foerderung-in-europas-groesstem-erdgasfeld-a-fc0517a3-2735-4e11-8972-c0bc7ea59fe5#ref=rss)
+### special
 
-* [https://www.spiegel.de/geschichte/ida-und-isidor-straus-auf-der-titanic-die-tragische-familiengeschichte-des-tauchbootpiloten-der-titan](https://www.spiegel.de/geschichte/ida-und-isidor-straus-auf-der-titanic-die-tragische-familiengeschichte-des-tauchbootpiloten-der-titan-a-1fb676de-bc04-4f25-88a6-e446fae75cf5#ref=rss)
-### rush
+* [https://www.spiegel.de/sport/special-olympics-deutsche-fussballer-siegen-25-0-im-halbfinale-trotzdem-sind-alle-unzufrieden](https://www.spiegel.de/sport/special-olympics-deutsche-fussballer-siegen-25-0-im-halbfinale-trotzdem-sind-alle-unzufrieden-a-4fac60e4-b06e-4b59-9274-222e93db8b55#ref=rss)
+### olympics
 
-* [https://www.spiegel.de/geschichte/ida-und-isidor-straus-auf-der-titanic-die-tragische-familiengeschichte-des-tauchbootpiloten-der-titan](https://www.spiegel.de/geschichte/ida-und-isidor-straus-auf-der-titanic-die-tragische-familiengeschichte-des-tauchbootpiloten-der-titan-a-1fb676de-bc04-4f25-88a6-e446fae75cf5#ref=rss)
-### 1komma5°
+* [https://www.spiegel.de/sport/special-olympics-deutsche-fussballer-siegen-25-0-im-halbfinale-trotzdem-sind-alle-unzufrieden](https://www.spiegel.de/sport/special-olympics-deutsche-fussballer-siegen-25-0-im-halbfinale-trotzdem-sind-alle-unzufrieden-a-4fac60e4-b06e-4b59-9274-222e93db8b55#ref=rss)
+### halbfinale
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/1komma5-hamburger-energie-start-up-ist-eine-milliarde-euro-wert](https://www.spiegel.de/wirtschaft/unternehmen/1komma5-hamburger-energie-start-up-ist-eine-milliarde-euro-wert-a-e8622222-3557-48cf-807a-02ca2d7bf87b#ref=rss)
-### hamburger
+* [https://www.spiegel.de/sport/special-olympics-deutsche-fussballer-siegen-25-0-im-halbfinale-trotzdem-sind-alle-unzufrieden](https://www.spiegel.de/sport/special-olympics-deutsche-fussballer-siegen-25-0-im-halbfinale-trotzdem-sind-alle-unzufrieden-a-4fac60e4-b06e-4b59-9274-222e93db8b55#ref=rss)
+* [https://www.spiegel.de/sport/tennis/alexander-zverev-erreicht-das-halbfinale-von-halle](https://www.spiegel.de/sport/tennis/alexander-zverev-erreicht-das-halbfinale-von-halle-a-d59aa11d-4665-4158-bb6c-253825c0ba08#ref=rss)
+### munition
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/1komma5-hamburger-energie-start-up-ist-eine-milliarde-euro-wert](https://www.spiegel.de/wirtschaft/unternehmen/1komma5-hamburger-energie-start-up-ist-eine-milliarde-euro-wert-a-e8622222-3557-48cf-807a-02ca2d7bf87b#ref=rss)
-### milliarde
+* [https://www.spiegel.de/panorama/justiz/mann-in-handschellen-erschiesst-polizisten-auf-wache-mordurteil-in-england](https://www.spiegel.de/panorama/justiz/mann-in-handschellen-erschiesst-polizisten-auf-wache-mordurteil-in-england-a-71b62393-b534-43e0-8e51-361efb5ad8ed#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/schussmunition-und-jagdmesser-im-afd-buero-landtag-reagiert](https://www.spiegel.de/politik/deutschland/schussmunition-und-jagdmesser-im-afd-buero-landtag-reagiert-a-c875cee7-c332-46a9-9ca2-bc9e958918ae#ref=rss)
+### geld
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/1komma5-hamburger-energie-start-up-ist-eine-milliarde-euro-wert](https://www.spiegel.de/wirtschaft/unternehmen/1komma5-hamburger-energie-start-up-ist-eine-milliarde-euro-wert-a-e8622222-3557-48cf-807a-02ca2d7bf87b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wegen-erdbeben-niederlande-beenden-foerderung-in-europas-groesstem-erdgasfeld](https://www.spiegel.de/wirtschaft/wegen-erdbeben-niederlande-beenden-foerderung-in-europas-groesstem-erdgasfeld-a-fc0517a3-2735-4e11-8972-c0bc7ea59fe5#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/digitalpakt-fuer-die-schulen-laender-fordern-von-der-ampel-versprochenes-geld-fuer-tablets](https://www.spiegel.de/panorama/bildung/digitalpakt-fuer-die-schulen-laender-fordern-von-der-ampel-versprochenes-geld-fuer-tablets-a-54562a77-c7d3-4386-9161-c5dd73b93447#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wirtschaft/wegen-erdbeben-niederlande-beenden-foerderung-in-europas-groesstem-erdgasfeld](https://www.spiegel.de/wirtschaft/wegen-erdbeben-niederlande-beenden-foerderung-in-europas-groesstem-erdgasfeld-a-fc0517a3-2735-4e11-8972-c0bc7ea59fe5#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/leitungswasser-neue-trinkwasserverordnung-soll-leitungswasser-sicherer-machen](https://www.spiegel.de/wissenschaft/medizin/leitungswasser-neue-trinkwasserverordnung-soll-leitungswasser-sicherer-machen-a-f182d17b-867f-48dc-b4fb-d8f53ce2a49f#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/ausland/ukraine-russland-krieg-die-gegenoffensive-laeuft-langsam](https://www.spiegel.de/ausland/ukraine-russland-krieg-die-gegenoffensive-laeuft-langsam-a-a9498c9a-656e-4527-8bac-a9d25488765c#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/spd-in-nrw-fordert-verpflichtendes-foerderjahr-vor-der-grundschule-nicht-schulreif](https://www.spiegel.de/panorama/bildung/spd-in-nrw-fordert-verpflichtendes-foerderjahr-vor-der-grundschule-nicht-schulreif-a-84a1aa78-3cd0-4d39-a696-5b1354c7ad68#ref=rss)
+### warnt
+
+* [https://www.spiegel.de/ausland/ukraine-russland-krieg-die-gegenoffensive-laeuft-langsam](https://www.spiegel.de/ausland/ukraine-russland-krieg-die-gegenoffensive-laeuft-langsam-a-a9498c9a-656e-4527-8bac-a9d25488765c#ref=rss)
+* [https://www.spiegel.de/panorama/katastrophenbehoerde-in-pakistan-warnt-vor-gefaehrlicher-hitze](https://www.spiegel.de/panorama/katastrophenbehoerde-in-pakistan-warnt-vor-gefaehrlicher-hitze-a-452c92c9-815e-4529-9b9d-5e359b628405#ref=rss)
+### bisher
+
+* [https://www.spiegel.de/ausland/ukraine-russland-krieg-die-gegenoffensive-laeuft-langsam](https://www.spiegel.de/ausland/ukraine-russland-krieg-die-gegenoffensive-laeuft-langsam-a-a9498c9a-656e-4527-8bac-a9d25488765c#ref=rss)
+* [https://www.spiegel.de/auto/deutsche-bahn-neue-zugstrecke-von-berlin-nach-paris-voraussichtlich-ueber-frankfurt-und-saarbruecken](https://www.spiegel.de/auto/deutsche-bahn-neue-zugstrecke-von-berlin-nach-paris-voraussichtlich-ueber-frankfurt-und-saarbruecken-a-d4845051-d457-4bd0-bb4e-d27f463afae5#ref=rss)
+### viele
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-daniel-guenther-friedrich-merz-sommerurlaub-fachkraeftemangel](https://www.spiegel.de/politik/deutschland/news-des-tages-daniel-guenther-friedrich-merz-sommerurlaub-fachkraeftemangel-a-cc1f0414-c8bb-4abe-9f3d-14955f17106e#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/spd-in-nrw-fordert-verpflichtendes-foerderjahr-vor-der-grundschule-nicht-schulreif](https://www.spiegel.de/panorama/bildung/spd-in-nrw-fordert-verpflichtendes-foerderjahr-vor-der-grundschule-nicht-schulreif-a-84a1aa78-3cd0-4d39-a696-5b1354c7ad68#ref=rss)
+### beschließt
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-daniel-guenther-friedrich-merz-sommerurlaub-fachkraeftemangel](https://www.spiegel.de/politik/deutschland/news-des-tages-daniel-guenther-friedrich-merz-sommerurlaub-fachkraeftemangel-a-cc1f0414-c8bb-4abe-9f3d-14955f17106e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestag-beschliesst-gesetz-gegen-lieferengpaesse-bei-medikamenten](https://www.spiegel.de/politik/deutschland/bundestag-beschliesst-gesetz-gegen-lieferengpaesse-bei-medikamenten-a-0401e36a-ccfb-4dbf-8882-789519a66a6d#ref=rss)
+### lage
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-daniel-guenther-friedrich-merz-sommerurlaub-fachkraeftemangel](https://www.spiegel.de/politik/deutschland/news-des-tages-daniel-guenther-friedrich-merz-sommerurlaub-fachkraeftemangel-a-cc1f0414-c8bb-4abe-9f3d-14955f17106e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestag-beschliesst-gesetz-gegen-lieferengpaesse-bei-medikamenten](https://www.spiegel.de/politik/deutschland/bundestag-beschliesst-gesetz-gegen-lieferengpaesse-bei-medikamenten-a-0401e36a-ccfb-4dbf-8882-789519a66a6d#ref=rss)
+### ingo
+
+* [https://www.spiegel.de/politik/deutschland/ingo-gerhartz-wer-ist-der-deutsche-top-gun-general](https://www.spiegel.de/politik/deutschland/ingo-gerhartz-wer-ist-der-deutsche-top-gun-general-a-70061655-d58a-443a-8a89-14bef5587101#ref=rss)
+### gerhartz
+
+* [https://www.spiegel.de/politik/deutschland/ingo-gerhartz-wer-ist-der-deutsche-top-gun-general](https://www.spiegel.de/politik/deutschland/ingo-gerhartz-wer-ist-der-deutsche-top-gun-general-a-70061655-d58a-443a-8a89-14bef5587101#ref=rss)
+### landtag
+
+* [https://www.spiegel.de/politik/deutschland/schussmunition-und-jagdmesser-im-afd-buero-landtag-reagiert](https://www.spiegel.de/politik/deutschland/schussmunition-und-jagdmesser-im-afd-buero-landtag-reagiert-a-c875cee7-c332-46a9-9ca2-bc9e958918ae#ref=rss)
+### grafik
+
+* [https://www.spiegel.de/wissenschaft/grafik-zur-gesunkenen-titan-truemmer-in-der-tiefe](https://www.spiegel.de/wissenschaft/grafik-zur-gesunkenen-titan-truemmer-in-der-tiefe-a-5451aa50-0456-422a-858e-f38399f65a83#ref=rss)
+### titan
+
+* [https://www.spiegel.de/wissenschaft/grafik-zur-gesunkenen-titan-truemmer-in-der-tiefe](https://www.spiegel.de/wissenschaft/grafik-zur-gesunkenen-titan-truemmer-in-der-tiefe-a-5451aa50-0456-422a-858e-f38399f65a83#ref=rss)
+### trümmer
+
+* [https://www.spiegel.de/wissenschaft/grafik-zur-gesunkenen-titan-truemmer-in-der-tiefe](https://www.spiegel.de/wissenschaft/grafik-zur-gesunkenen-titan-truemmer-in-der-tiefe-a-5451aa50-0456-422a-858e-f38399f65a83#ref=rss)
+### tiefe
+
+* [https://www.spiegel.de/wissenschaft/grafik-zur-gesunkenen-titan-truemmer-in-der-tiefe](https://www.spiegel.de/wissenschaft/grafik-zur-gesunkenen-titan-truemmer-in-der-tiefe-a-5451aa50-0456-422a-858e-f38399f65a83#ref=rss)
+### tot
+
+* [https://www.spiegel.de/wissenschaft/grafik-zur-gesunkenen-titan-truemmer-in-der-tiefe](https://www.spiegel.de/wissenschaft/grafik-zur-gesunkenen-titan-truemmer-in-der-tiefe-a-5451aa50-0456-422a-858e-f38399f65a83#ref=rss)
+* [https://www.spiegel.de/kultur/musik/peter-broetzmann-ist-tot-nachruf-auf-den-jazzmusiker-alles-wegblasen](https://www.spiegel.de/kultur/musik/peter-broetzmann-ist-tot-nachruf-auf-den-jazzmusiker-alles-wegblasen-a-c1e85d22-0fb1-4e1d-8eb4-6ae34caa6be0#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/wissenschaft/grafik-zur-gesunkenen-titan-truemmer-in-der-tiefe](https://www.spiegel.de/wissenschaft/grafik-zur-gesunkenen-titan-truemmer-in-der-tiefe-a-5451aa50-0456-422a-858e-f38399f65a83#ref=rss)
+* [https://www.spiegel.de/sport/tennis/alexander-zverev-erreicht-das-halbfinale-von-halle](https://www.spiegel.de/sport/tennis/alexander-zverev-erreicht-das-halbfinale-von-halle-a-d59aa11d-4665-4158-bb6c-253825c0ba08#ref=rss)
+### schulen
+
+* [https://www.spiegel.de/panorama/bildung/digitalpakt-fuer-die-schulen-laender-fordern-von-der-ampel-versprochenes-geld-fuer-tablets](https://www.spiegel.de/panorama/bildung/digitalpakt-fuer-die-schulen-laender-fordern-von-der-ampel-versprochenes-geld-fuer-tablets-a-54562a77-c7d3-4386-9161-c5dd73b93447#ref=rss)
+### länder
+
+* [https://www.spiegel.de/panorama/bildung/digitalpakt-fuer-die-schulen-laender-fordern-von-der-ampel-versprochenes-geld-fuer-tablets](https://www.spiegel.de/panorama/bildung/digitalpakt-fuer-die-schulen-laender-fordern-von-der-ampel-versprochenes-geld-fuer-tablets-a-54562a77-c7d3-4386-9161-c5dd73b93447#ref=rss)
+### ampel
+
+* [https://www.spiegel.de/panorama/bildung/digitalpakt-fuer-die-schulen-laender-fordern-von-der-ampel-versprochenes-geld-fuer-tablets](https://www.spiegel.de/panorama/bildung/digitalpakt-fuer-die-schulen-laender-fordern-von-der-ampel-versprochenes-geld-fuer-tablets-a-54562a77-c7d3-4386-9161-c5dd73b93447#ref=rss)
+### leitungswasser
+
+* [https://www.spiegel.de/wissenschaft/medizin/leitungswasser-neue-trinkwasserverordnung-soll-leitungswasser-sicherer-machen](https://www.spiegel.de/wissenschaft/medizin/leitungswasser-neue-trinkwasserverordnung-soll-leitungswasser-sicherer-machen-a-f182d17b-867f-48dc-b4fb-d8f53ce2a49f#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/wissenschaft/medizin/leitungswasser-neue-trinkwasserverordnung-soll-leitungswasser-sicherer-machen](https://www.spiegel.de/wissenschaft/medizin/leitungswasser-neue-trinkwasserverordnung-soll-leitungswasser-sicherer-machen-a-f182d17b-867f-48dc-b4fb-d8f53ce2a49f#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/facebook-moderator-kritisiert-jobbedingungen-und-darf-nicht-mehr-arbeiten](https://www.spiegel.de/netzwelt/netzpolitik/facebook-moderator-kritisiert-jobbedingungen-und-darf-nicht-mehr-arbeiten-a-0384e272-cccf-4905-8093-dba47cc9635b#ref=rss)
+### alte
+
+* [https://www.spiegel.de/wissenschaft/medizin/leitungswasser-neue-trinkwasserverordnung-soll-leitungswasser-sicherer-machen](https://www.spiegel.de/wissenschaft/medizin/leitungswasser-neue-trinkwasserverordnung-soll-leitungswasser-sicherer-machen-a-f182d17b-867f-48dc-b4fb-d8f53ce2a49f#ref=rss)
+* [https://www.spiegel.de/kultur/musik/swans-todessehnsuechte-eines-toxikers-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/swans-todessehnsuechte-eines-toxikers-abgehoert-album-der-woche-a-56efb861-d322-45b8-abc3-867463fde6a8#ref=rss)
+### alexander
+
+* [https://www.spiegel.de/sport/tennis/alexander-zverev-erreicht-das-halbfinale-von-halle](https://www.spiegel.de/sport/tennis/alexander-zverev-erreicht-das-halbfinale-von-halle-a-d59aa11d-4665-4158-bb6c-253825c0ba08#ref=rss)
+### zverev
+
+* [https://www.spiegel.de/sport/tennis/alexander-zverev-erreicht-das-halbfinale-von-halle](https://www.spiegel.de/sport/tennis/alexander-zverev-erreicht-das-halbfinale-von-halle-a-d59aa11d-4665-4158-bb6c-253825c0ba08#ref=rss)
+### halle
+
+* [https://www.spiegel.de/sport/tennis/alexander-zverev-erreicht-das-halbfinale-von-halle](https://www.spiegel.de/sport/tennis/alexander-zverev-erreicht-das-halbfinale-von-halle-a-d59aa11d-4665-4158-bb6c-253825c0ba08#ref=rss)
+### erste
+
+* [https://www.spiegel.de/sport/tennis/alexander-zverev-erreicht-das-halbfinale-von-halle](https://www.spiegel.de/sport/tennis/alexander-zverev-erreicht-das-halbfinale-von-halle-a-d59aa11d-4665-4158-bb6c-253825c0ba08#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/spd-in-nrw-fordert-verpflichtendes-foerderjahr-vor-der-grundschule-nicht-schulreif](https://www.spiegel.de/panorama/bildung/spd-in-nrw-fordert-verpflichtendes-foerderjahr-vor-der-grundschule-nicht-schulreif-a-84a1aa78-3cd0-4d39-a696-5b1354c7ad68#ref=rss)
+### gesetz
+
+* [https://www.spiegel.de/politik/deutschland/bundestag-beschliesst-gesetz-gegen-lieferengpaesse-bei-medikamenten](https://www.spiegel.de/politik/deutschland/bundestag-beschliesst-gesetz-gegen-lieferengpaesse-bei-medikamenten-a-0401e36a-ccfb-4dbf-8882-789519a66a6d#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/politik/deutschland/bundestag-beschliesst-gesetz-gegen-lieferengpaesse-bei-medikamenten](https://www.spiegel.de/politik/deutschland/bundestag-beschliesst-gesetz-gegen-lieferengpaesse-bei-medikamenten-a-0401e36a-ccfb-4dbf-8882-789519a66a6d#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/spd-in-nrw-fordert-verpflichtendes-foerderjahr-vor-der-grundschule-nicht-schulreif](https://www.spiegel.de/panorama/bildung/spd-in-nrw-fordert-verpflichtendes-foerderjahr-vor-der-grundschule-nicht-schulreif-a-84a1aa78-3cd0-4d39-a696-5b1354c7ad68#ref=rss)
+### jacinda
+
+* [https://www.spiegel.de/panorama/neuseelands-ex-regierungschefin-jacinda-ardern-schreibt-buch-ueber-fuehrungsqualitaeten](https://www.spiegel.de/panorama/neuseelands-ex-regierungschefin-jacinda-ardern-schreibt-buch-ueber-fuehrungsqualitaeten-a-07498920-7fc0-4541-8864-8c6d178a3587#ref=rss)
+### ardern
+
+* [https://www.spiegel.de/panorama/neuseelands-ex-regierungschefin-jacinda-ardern-schreibt-buch-ueber-fuehrungsqualitaeten](https://www.spiegel.de/panorama/neuseelands-ex-regierungschefin-jacinda-ardern-schreibt-buch-ueber-fuehrungsqualitaeten-a-07498920-7fc0-4541-8864-8c6d178a3587#ref=rss)
+### etwas
+
+* [https://www.spiegel.de/panorama/neuseelands-ex-regierungschefin-jacinda-ardern-schreibt-buch-ueber-fuehrungsqualitaeten](https://www.spiegel.de/panorama/neuseelands-ex-regierungschefin-jacinda-ardern-schreibt-buch-ueber-fuehrungsqualitaeten-a-07498920-7fc0-4541-8864-8c6d178a3587#ref=rss)
+### canberra
+
+* [https://www.spiegel.de/ausland/canberra-mutmasslicher-russischer-diplomat-macht-sich-auf-geplantem-botschaftsgelaende-breit](https://www.spiegel.de/ausland/canberra-mutmasslicher-russischer-diplomat-macht-sich-auf-geplantem-botschaftsgelaende-breit-a-021749ad-3ced-4f68-aeea-97f630004e42#ref=rss)
+### russischer
+
+* [https://www.spiegel.de/ausland/canberra-mutmasslicher-russischer-diplomat-macht-sich-auf-geplantem-botschaftsgelaende-breit](https://www.spiegel.de/ausland/canberra-mutmasslicher-russischer-diplomat-macht-sich-auf-geplantem-botschaftsgelaende-breit-a-021749ad-3ced-4f68-aeea-97f630004e42#ref=rss)
+### diplomat
+
+* [https://www.spiegel.de/ausland/canberra-mutmasslicher-russischer-diplomat-macht-sich-auf-geplantem-botschaftsgelaende-breit](https://www.spiegel.de/ausland/canberra-mutmasslicher-russischer-diplomat-macht-sich-auf-geplantem-botschaftsgelaende-breit-a-021749ad-3ced-4f68-aeea-97f630004e42#ref=rss)
+### geplanten
+
+* [https://www.spiegel.de/ausland/canberra-mutmasslicher-russischer-diplomat-macht-sich-auf-geplantem-botschaftsgelaende-breit](https://www.spiegel.de/ausland/canberra-mutmasslicher-russischer-diplomat-macht-sich-auf-geplantem-botschaftsgelaende-breit-a-021749ad-3ced-4f68-aeea-97f630004e42#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/union-ueberarbeitet-fragenkatalog-fuer-geplanten-scholz-untersuchungsausschuss](https://www.spiegel.de/politik/deutschland/union-ueberarbeitet-fragenkatalog-fuer-geplanten-scholz-untersuchungsausschuss-a-41093b3b-3029-4d1e-8f01-7676ba063961#ref=rss)
+### russischen
+
+* [https://www.spiegel.de/ausland/canberra-mutmasslicher-russischer-diplomat-macht-sich-auf-geplantem-botschaftsgelaende-breit](https://www.spiegel.de/ausland/canberra-mutmasslicher-russischer-diplomat-macht-sich-auf-geplantem-botschaftsgelaende-breit-a-021749ad-3ced-4f68-aeea-97f630004e42#ref=rss)
+* [https://www.spiegel.de/netzwelt/nach-spiege-enthuellungen-eu-sanktioniert-hackerfirma-ntc-vulkan](https://www.spiegel.de/netzwelt/nach-spiege-enthuellungen-eu-sanktioniert-hackerfirma-ntc-vulkan-a-1741b0f5-fd54-4f0f-ba92-df07b7f2886d#ref=rss)
+### australiens
+
+* [https://www.spiegel.de/ausland/canberra-mutmasslicher-russischer-diplomat-macht-sich-auf-geplantem-botschaftsgelaende-breit](https://www.spiegel.de/ausland/canberra-mutmasslicher-russischer-diplomat-macht-sich-auf-geplantem-botschaftsgelaende-breit-a-021749ad-3ced-4f68-aeea-97f630004e42#ref=rss)
+### rewe
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/rewe-verteilt-zum-letzten-mal-prospekte](https://www.spiegel.de/wirtschaft/unternehmen/rewe-verteilt-zum-letzten-mal-prospekte-a-05c08cb0-10b1-4145-a615-e807b8369dba#ref=rss)
+### prospekte
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/rewe-verteilt-zum-letzten-mal-prospekte](https://www.spiegel.de/wirtschaft/unternehmen/rewe-verteilt-zum-letzten-mal-prospekte-a-05c08cb0-10b1-4145-a615-e807b8369dba#ref=rss)
+### nrw
+
+* [https://www.spiegel.de/panorama/bildung/spd-in-nrw-fordert-verpflichtendes-foerderjahr-vor-der-grundschule-nicht-schulreif](https://www.spiegel.de/panorama/bildung/spd-in-nrw-fordert-verpflichtendes-foerderjahr-vor-der-grundschule-nicht-schulreif-a-84a1aa78-3cd0-4d39-a696-5b1354c7ad68#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/panorama/bildung/spd-in-nrw-fordert-verpflichtendes-foerderjahr-vor-der-grundschule-nicht-schulreif](https://www.spiegel.de/panorama/bildung/spd-in-nrw-fordert-verpflichtendes-foerderjahr-vor-der-grundschule-nicht-schulreif-a-84a1aa78-3cd0-4d39-a696-5b1354c7ad68#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/martin-schirdewan-die-linke-fordert-wasserentgelte-fuer-unternehmen](https://www.spiegel.de/politik/deutschland/martin-schirdewan-die-linke-fordert-wasserentgelte-fuer-unternehmen-a-ed8826fa-cbc0-44d3-a108-715d4cb1966a#ref=rss)
+### peter
+
+* [https://www.spiegel.de/kultur/musik/peter-broetzmann-ist-tot-nachruf-auf-den-jazzmusiker-alles-wegblasen](https://www.spiegel.de/kultur/musik/peter-broetzmann-ist-tot-nachruf-auf-den-jazzmusiker-alles-wegblasen-a-c1e85d22-0fb1-4e1d-8eb4-6ae34caa6be0#ref=rss)
+### brötzmann
+
+* [https://www.spiegel.de/kultur/musik/peter-broetzmann-ist-tot-nachruf-auf-den-jazzmusiker-alles-wegblasen](https://www.spiegel.de/kultur/musik/peter-broetzmann-ist-tot-nachruf-auf-den-jazzmusiker-alles-wegblasen-a-c1e85d22-0fb1-4e1d-8eb4-6ae34caa6be0#ref=rss)
+### ntc
+
+* [https://www.spiegel.de/netzwelt/nach-spiege-enthuellungen-eu-sanktioniert-hackerfirma-ntc-vulkan](https://www.spiegel.de/netzwelt/nach-spiege-enthuellungen-eu-sanktioniert-hackerfirma-ntc-vulkan-a-1741b0f5-fd54-4f0f-ba92-df07b7f2886d#ref=rss)
+### vulkan
+
+* [https://www.spiegel.de/netzwelt/nach-spiege-enthuellungen-eu-sanktioniert-hackerfirma-ntc-vulkan](https://www.spiegel.de/netzwelt/nach-spiege-enthuellungen-eu-sanktioniert-hackerfirma-ntc-vulkan-a-1741b0f5-fd54-4f0f-ba92-df07b7f2886d#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/auto/deutsche-bahn-neue-zugstrecke-von-berlin-nach-paris-voraussichtlich-ueber-frankfurt-und-saarbruecken](https://www.spiegel.de/auto/deutsche-bahn-neue-zugstrecke-von-berlin-nach-paris-voraussichtlich-ueber-frankfurt-und-saarbruecken-a-d4845051-d457-4bd0-bb4e-d27f463afae5#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/auto/deutsche-bahn-neue-zugstrecke-von-berlin-nach-paris-voraussichtlich-ueber-frankfurt-und-saarbruecken](https://www.spiegel.de/auto/deutsche-bahn-neue-zugstrecke-von-berlin-nach-paris-voraussichtlich-ueber-frankfurt-und-saarbruecken-a-d4845051-d457-4bd0-bb4e-d27f463afae5#ref=rss)
+### paris
+
+* [https://www.spiegel.de/auto/deutsche-bahn-neue-zugstrecke-von-berlin-nach-paris-voraussichtlich-ueber-frankfurt-und-saarbruecken](https://www.spiegel.de/auto/deutsche-bahn-neue-zugstrecke-von-berlin-nach-paris-voraussichtlich-ueber-frankfurt-und-saarbruecken-a-d4845051-d457-4bd0-bb4e-d27f463afae5#ref=rss)
+### linke
+
+* [https://www.spiegel.de/politik/deutschland/martin-schirdewan-die-linke-fordert-wasserentgelte-fuer-unternehmen](https://www.spiegel.de/politik/deutschland/martin-schirdewan-die-linke-fordert-wasserentgelte-fuer-unternehmen-a-ed8826fa-cbc0-44d3-a108-715d4cb1966a#ref=rss)
+### swans
+
+* [https://www.spiegel.de/kultur/musik/swans-todessehnsuechte-eines-toxikers-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/swans-todessehnsuechte-eines-toxikers-abgehoert-album-der-woche-a-56efb861-d322-45b8-abc3-867463fde6a8#ref=rss)
+### album
+
+* [https://www.spiegel.de/kultur/musik/swans-todessehnsuechte-eines-toxikers-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/swans-todessehnsuechte-eines-toxikers-abgehoert-album-der-woche-a-56efb861-d322-45b8-abc3-867463fde6a8#ref=rss)
 
