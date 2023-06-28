@@ -4,316 +4,272 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
+### jahr
+
+* [https://www.spiegel.de/panorama/katholische-kirche-mehr-als-eine-halbe-million-austritte-im-jahr-2022-rekord](https://www.spiegel.de/panorama/katholische-kirche-mehr-als-eine-halbe-million-austritte-im-jahr-2022-rekord-a-a3af383b-f1cf-485e-b463-ae10200d9f52#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klima-krise-hitze-fuehrt-zu-durchschnittlich-1500-krankenhausbehandlungen-pro-jahr](https://www.spiegel.de/wissenschaft/klima-krise-hitze-fuehrt-zu-durchschnittlich-1500-krankenhausbehandlungen-pro-jahr-a-0f41611d-5738-4fb3-be23-5d2ed3010ba6#ref=rss)
+* [https://www.spiegel.de/panorama/scheidungen-in-deutschland-2022-sank-zahl-weiter](https://www.spiegel.de/panorama/scheidungen-in-deutschland-2022-sank-zahl-weiter-a-a4673359-c6ab-4a18-a986-336b131b6546#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-in-suedafrika-so-ringt-die-aussenministerin-um-solidaritaet-mit-der-ukraine](https://www.spiegel.de/politik/deutschland/annalena-baerbock-in-suedafrika-so-ringt-die-aussenministerin-um-solidaritaet-mit-der-ukraine-a-9193e0cb-0bc6-4788-ad7f-3ef80f30d0e8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/forscher-warnen-vor-kapitalabfluss-aus-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/forscher-warnen-vor-kapitalabfluss-aus-deutschland-a-dfb43069-12fa-40a3-aa7c-0044bdb5c3fd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-heizungsfoerderung-wladimir-putin-jewgenij-prigoschin-maskenverbrennung](https://www.spiegel.de/politik/deutschland/news-des-tages-heizungsfoerderung-wladimir-putin-jewgenij-prigoschin-maskenverbrennung-a-3ec1e80e-3163-4093-aef7-e4fe2f778259#ref=rss)
-* [https://www.spiegel.de/panorama/sonneberg-erster-afd-landrat-in-deutschland-welche-macht-hat-das-amt](https://www.spiegel.de/panorama/sonneberg-erster-afd-landrat-in-deutschland-welche-macht-hat-das-amt-a-55068295-18c8-4cd6-84f7-a1e560178730#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/ausland/wagner-aufstand-und-attacken-wie-der-ukraine-krieg-nach-russland-kommt](https://www.spiegel.de/ausland/wagner-aufstand-und-attacken-wie-der-ukraine-krieg-nach-russland-kommt-a-7cc905f4-4f6e-4fa2-b4e0-b8b6040575e0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wie-die-deutschen-urlaub-machen-und-wer-es-sich-noch-leisten-kann-spiegel-umfrage](https://www.spiegel.de/wirtschaft/wie-die-deutschen-urlaub-machen-und-wer-es-sich-noch-leisten-kann-spiegel-umfrage-a-caa84a17-0a30-4931-a653-a9480753bb00#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/megalodon-zahnschmelz-verraet-koerpertemperatur-von-riesigem-urzeithai](https://www.spiegel.de/wissenschaft/natur/megalodon-zahnschmelz-verraet-koerpertemperatur-von-riesigem-urzeithai-a-29bf4d4e-04ad-4509-b636-6515db22a22e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/sonneberg-mutmasslicher-neonazi-verteilt-blaue-luftballons](https://www.spiegel.de/panorama/justiz/sonneberg-mutmasslicher-neonazi-verteilt-blaue-luftballons-a-b843c8c1-1a53-49a7-86f1-2281e8d8e960#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-in-suedafrika-so-ringt-die-aussenministerin-um-solidaritaet-mit-der-ukraine](https://www.spiegel.de/politik/deutschland/annalena-baerbock-in-suedafrika-so-ringt-die-aussenministerin-um-solidaritaet-mit-der-ukraine-a-9193e0cb-0bc6-4788-ad7f-3ef80f30d0e8#ref=rss)
-* [https://www.spiegel.de/ausland/ungarn-viktor-orban-spricht-ukraine-die-souveraenitaet-ab](https://www.spiegel.de/ausland/ungarn-viktor-orban-spricht-ukraine-die-souveraenitaet-ab-a-d22e2c8d-c59e-46de-b174-1c1867297c86#ref=rss)
-### urteil
-
-* [https://www.spiegel.de/ausland/supreme-court-der-usa-urteil-gegen-wahlkreisaenderungen-von-unterstuetzern-donald-trumps-hat-bestand](https://www.spiegel.de/ausland/supreme-court-der-usa-urteil-gegen-wahlkreisaenderungen-von-unterstuetzern-donald-trumps-hat-bestand-a-d9b5d920-31f5-4244-ac9c-2b75a1ed3481#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/usa-schuesse-in-lgbtq-klub-in-colorado-2200-jahre-haft-fuer-angeklagte-person](https://www.spiegel.de/panorama/justiz/usa-schuesse-in-lgbtq-klub-in-colorado-2200-jahre-haft-fuer-angeklagte-person-a-2ff372c7-6440-4ed5-ba9a-229e5c8724f3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rupert-stadler-urteil-gegen-ex-audi-boss-die-massiven-fehler-in-der-aufklaerung-des-dieselskandals](https://www.spiegel.de/wirtschaft/rupert-stadler-urteil-gegen-ex-audi-boss-die-massiven-fehler-in-der-aufklaerung-des-dieselskandals-a-72b455c8-151f-460d-9e50-e6dd6e7ace0a#ref=rss)
-### diesen
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-sciences-po-in-paris-zeichnet-alt-bundekanzlerin-mit-ehrendoktorwuerde-aus](https://www.spiegel.de/politik/deutschland/angela-merkel-sciences-po-in-paris-zeichnet-alt-bundekanzlerin-mit-ehrendoktorwuerde-aus-a-84d2a2ba-e7da-4cad-a08c-387e60b27d77#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/grossbritannien-supermaerkte-bestreiten-preistreiberei](https://www.spiegel.de/wirtschaft/service/grossbritannien-supermaerkte-bestreiten-preistreiberei-a-cac487a7-7ad5-4762-9492-09541f0d7dc6#ref=rss)
-* [https://www.spiegel.de/panorama/sonneberg-erster-afd-landrat-in-deutschland-welche-macht-hat-das-amt](https://www.spiegel.de/panorama/sonneberg-erster-afd-landrat-in-deutschland-welche-macht-hat-das-amt-a-55068295-18c8-4cd6-84f7-a1e560178730#ref=rss)
-### wagneraufstand
-
-* [https://www.spiegel.de/ausland/wagner-aufstand-und-attacken-wie-der-ukraine-krieg-nach-russland-kommt](https://www.spiegel.de/ausland/wagner-aufstand-und-attacken-wie-der-ukraine-krieg-nach-russland-kommt-a-7cc905f4-4f6e-4fa2-b4e0-b8b6040575e0#ref=rss)
-* [https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-aeussert-sich-zum-wagner-aufstand](https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-aeussert-sich-zum-wagner-aufstand-a-e550a784-67a1-4ef5-b740-cd8f02acdb53#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/wagner-aufstand-und-attacken-wie-der-ukraine-krieg-nach-russland-kommt](https://www.spiegel.de/ausland/wagner-aufstand-und-attacken-wie-der-ukraine-krieg-nach-russland-kommt-a-7cc905f4-4f6e-4fa2-b4e0-b8b6040575e0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wie-die-deutschen-urlaub-machen-und-wer-es-sich-noch-leisten-kann-spiegel-umfrage](https://www.spiegel.de/wirtschaft/wie-die-deutschen-urlaub-machen-und-wer-es-sich-noch-leisten-kann-spiegel-umfrage-a-caa84a17-0a30-4931-a653-a9480753bb00#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/usa-schuesse-in-lgbtq-klub-in-colorado-2200-jahre-haft-fuer-angeklagte-person](https://www.spiegel.de/panorama/justiz/usa-schuesse-in-lgbtq-klub-in-colorado-2200-jahre-haft-fuer-angeklagte-person-a-2ff372c7-6440-4ed5-ba9a-229e5c8724f3#ref=rss)
-### land
-
-* [https://www.spiegel.de/ausland/wagner-aufstand-und-attacken-wie-der-ukraine-krieg-nach-russland-kommt](https://www.spiegel.de/ausland/wagner-aufstand-und-attacken-wie-der-ukraine-krieg-nach-russland-kommt-a-7cc905f4-4f6e-4fa2-b4e0-b8b6040575e0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-in-suedafrika-so-ringt-die-aussenministerin-um-solidaritaet-mit-der-ukraine](https://www.spiegel.de/politik/deutschland/annalena-baerbock-in-suedafrika-so-ringt-die-aussenministerin-um-solidaritaet-mit-der-ukraine-a-9193e0cb-0bc6-4788-ad7f-3ef80f30d0e8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/forscher-warnen-vor-kapitalabfluss-aus-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/forscher-warnen-vor-kapitalabfluss-aus-deutschland-a-dfb43069-12fa-40a3-aa7c-0044bdb5c3fd#ref=rss)
-### putins
-
-* [https://www.spiegel.de/ausland/wagner-aufstand-und-attacken-wie-der-ukraine-krieg-nach-russland-kommt](https://www.spiegel.de/ausland/wagner-aufstand-und-attacken-wie-der-ukraine-krieg-nach-russland-kommt-a-7cc905f4-4f6e-4fa2-b4e0-b8b6040575e0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-heizungsfoerderung-wladimir-putin-jewgenij-prigoschin-maskenverbrennung](https://www.spiegel.de/politik/deutschland/news-des-tages-heizungsfoerderung-wladimir-putin-jewgenij-prigoschin-maskenverbrennung-a-3ec1e80e-3163-4093-aef7-e4fe2f778259#ref=rss)
-* [https://www.spiegel.de/ausland/ungarn-viktor-orban-spricht-ukraine-die-souveraenitaet-ab](https://www.spiegel.de/ausland/ungarn-viktor-orban-spricht-ukraine-die-souveraenitaet-ab-a-d22e2c8d-c59e-46de-b174-1c1867297c86#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/politik/deutschland/ampel-koalition-streit-um-heizungsgesetz-wie-mit-einem-trick-zu-spaeter-stunde-der-durchbruch-gelang](https://www.spiegel.de/politik/deutschland/ampel-koalition-streit-um-heizungsgesetz-wie-mit-einem-trick-zu-spaeter-stunde-der-durchbruch-gelang-a-83f2f35b-bbbe-4f03-ace9-ec7fe7def8ea#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/altentreptow-13-jaehrige-mutmasslich-nach-drogenkonsum-gestorben-haftbefehl-gegen-verdaechtigen-erlassen](https://www.spiegel.de/panorama/justiz/altentreptow-13-jaehrige-mutmasslich-nach-drogenkonsum-gestorben-haftbefehl-gegen-verdaechtigen-erlassen-a-f07b03a7-3bdf-4733-8d67-a1a7f1ee6e54#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-heizungsfoerderung-wladimir-putin-jewgenij-prigoschin-maskenverbrennung](https://www.spiegel.de/politik/deutschland/news-des-tages-heizungsfoerderung-wladimir-putin-jewgenij-prigoschin-maskenverbrennung-a-3ec1e80e-3163-4093-aef7-e4fe2f778259#ref=rss)
-### wladimir
-
-* [https://www.spiegel.de/ausland/wladimir-putin-ueber-wagner-kaempfer-wir-haben-diese-gruppe-komplett-finanziert](https://www.spiegel.de/ausland/wladimir-putin-ueber-wagner-kaempfer-wir-haben-diese-gruppe-komplett-finanziert-a-61a1a939-c90d-41f8-97a2-8213d02c0390#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-heizungsfoerderung-wladimir-putin-jewgenij-prigoschin-maskenverbrennung](https://www.spiegel.de/politik/deutschland/news-des-tages-heizungsfoerderung-wladimir-putin-jewgenij-prigoschin-maskenverbrennung-a-3ec1e80e-3163-4093-aef7-e4fe2f778259#ref=rss)
-* [https://www.spiegel.de/ausland/ungarn-viktor-orban-spricht-ukraine-die-souveraenitaet-ab](https://www.spiegel.de/ausland/ungarn-viktor-orban-spricht-ukraine-die-souveraenitaet-ab-a-d22e2c8d-c59e-46de-b174-1c1867297c86#ref=rss)
-### putin
-
-* [https://www.spiegel.de/ausland/wladimir-putin-ueber-wagner-kaempfer-wir-haben-diese-gruppe-komplett-finanziert](https://www.spiegel.de/ausland/wladimir-putin-ueber-wagner-kaempfer-wir-haben-diese-gruppe-komplett-finanziert-a-61a1a939-c90d-41f8-97a2-8213d02c0390#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-heizungsfoerderung-wladimir-putin-jewgenij-prigoschin-maskenverbrennung](https://www.spiegel.de/politik/deutschland/news-des-tages-heizungsfoerderung-wladimir-putin-jewgenij-prigoschin-maskenverbrennung-a-3ec1e80e-3163-4093-aef7-e4fe2f778259#ref=rss)
-### wagnersöldner
-
-* [https://www.spiegel.de/ausland/wladimir-putin-ueber-wagner-kaempfer-wir-haben-diese-gruppe-komplett-finanziert](https://www.spiegel.de/ausland/wladimir-putin-ueber-wagner-kaempfer-wir-haben-diese-gruppe-komplett-finanziert-a-61a1a939-c90d-41f8-97a2-8213d02c0390#ref=rss)
-* [https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-aeussert-sich-zum-wagner-aufstand](https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-aeussert-sich-zum-wagner-aufstand-a-e550a784-67a1-4ef5-b740-cd8f02acdb53#ref=rss)
-* [https://www.spiegel.de/ausland/ungarn-viktor-orban-spricht-ukraine-die-souveraenitaet-ab](https://www.spiegel.de/ausland/ungarn-viktor-orban-spricht-ukraine-die-souveraenitaet-ab-a-d22e2c8d-c59e-46de-b174-1c1867297c86#ref=rss)
-### prigoschin
-
-* [https://www.spiegel.de/ausland/wladimir-putin-ueber-wagner-kaempfer-wir-haben-diese-gruppe-komplett-finanziert](https://www.spiegel.de/ausland/wladimir-putin-ueber-wagner-kaempfer-wir-haben-diese-gruppe-komplett-finanziert-a-61a1a939-c90d-41f8-97a2-8213d02c0390#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-heizungsfoerderung-wladimir-putin-jewgenij-prigoschin-maskenverbrennung](https://www.spiegel.de/politik/deutschland/news-des-tages-heizungsfoerderung-wladimir-putin-jewgenij-prigoschin-maskenverbrennung-a-3ec1e80e-3163-4093-aef7-e4fe2f778259#ref=rss)
-### angeklagte
-
-* [https://www.spiegel.de/panorama/justiz/justizbehoerde-attestiert-schwere-fehler-bei-ueberwachung-von-jeffrey-epstein](https://www.spiegel.de/panorama/justiz/justizbehoerde-attestiert-schwere-fehler-bei-ueberwachung-von-jeffrey-epstein-a-662e4bc9-8aa8-4054-9f3c-1b7f03376c46#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/usa-schuesse-in-lgbtq-klub-in-colorado-2200-jahre-haft-fuer-angeklagte-person](https://www.spiegel.de/panorama/justiz/usa-schuesse-in-lgbtq-klub-in-colorado-2200-jahre-haft-fuer-angeklagte-person-a-2ff372c7-6440-4ed5-ba9a-229e5c8724f3#ref=rss)
-### supermärkte
-
-* [https://www.spiegel.de/wirtschaft/service/supermaerkte-wollen-weniger-lebensmittel-wegwerfen](https://www.spiegel.de/wirtschaft/service/supermaerkte-wollen-weniger-lebensmittel-wegwerfen-a-dc3f1f05-7daf-47c0-b2ba-60d0a18930bc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/grossbritannien-supermaerkte-bestreiten-preistreiberei](https://www.spiegel.de/wirtschaft/service/grossbritannien-supermaerkte-bestreiten-preistreiberei-a-cac487a7-7ad5-4762-9492-09541f0d7dc6#ref=rss)
-### angela
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-sciences-po-in-paris-zeichnet-alt-bundekanzlerin-mit-ehrendoktorwuerde-aus](https://www.spiegel.de/politik/deutschland/angela-merkel-sciences-po-in-paris-zeichnet-alt-bundekanzlerin-mit-ehrendoktorwuerde-aus-a-84d2a2ba-e7da-4cad-a08c-387e60b27d77#ref=rss)
-### merkel
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-sciences-po-in-paris-zeichnet-alt-bundekanzlerin-mit-ehrendoktorwuerde-aus](https://www.spiegel.de/politik/deutschland/angela-merkel-sciences-po-in-paris-zeichnet-alt-bundekanzlerin-mit-ehrendoktorwuerde-aus-a-84d2a2ba-e7da-4cad-a08c-387e60b27d77#ref=rss)
-### sciences
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-sciences-po-in-paris-zeichnet-alt-bundekanzlerin-mit-ehrendoktorwuerde-aus](https://www.spiegel.de/politik/deutschland/angela-merkel-sciences-po-in-paris-zeichnet-alt-bundekanzlerin-mit-ehrendoktorwuerde-aus-a-84d2a2ba-e7da-4cad-a08c-387e60b27d77#ref=rss)
-### po
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-sciences-po-in-paris-zeichnet-alt-bundekanzlerin-mit-ehrendoktorwuerde-aus](https://www.spiegel.de/politik/deutschland/angela-merkel-sciences-po-in-paris-zeichnet-alt-bundekanzlerin-mit-ehrendoktorwuerde-aus-a-84d2a2ba-e7da-4cad-a08c-387e60b27d77#ref=rss)
-### wir
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-sciences-po-in-paris-zeichnet-alt-bundekanzlerin-mit-ehrendoktorwuerde-aus](https://www.spiegel.de/politik/deutschland/angela-merkel-sciences-po-in-paris-zeichnet-alt-bundekanzlerin-mit-ehrendoktorwuerde-aus-a-84d2a2ba-e7da-4cad-a08c-387e60b27d77#ref=rss)
-* [https://www.spiegel.de/ausland/wladimir-putin-ueber-wagner-kaempfer-wir-haben-diese-gruppe-komplett-finanziert](https://www.spiegel.de/ausland/wladimir-putin-ueber-wagner-kaempfer-wir-haben-diese-gruppe-komplett-finanziert-a-61a1a939-c90d-41f8-97a2-8213d02c0390#ref=rss)
-### attacken
-
-* [https://www.spiegel.de/ausland/wagner-aufstand-und-attacken-wie-der-ukraine-krieg-nach-russland-kommt](https://www.spiegel.de/ausland/wagner-aufstand-und-attacken-wie-der-ukraine-krieg-nach-russland-kommt-a-7cc905f4-4f6e-4fa2-b4e0-b8b6040575e0#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/wagner-aufstand-und-attacken-wie-der-ukraine-krieg-nach-russland-kommt](https://www.spiegel.de/ausland/wagner-aufstand-und-attacken-wie-der-ukraine-krieg-nach-russland-kommt-a-7cc905f4-4f6e-4fa2-b4e0-b8b6040575e0#ref=rss)
-### macht
-
-* [https://www.spiegel.de/ausland/wagner-aufstand-und-attacken-wie-der-ukraine-krieg-nach-russland-kommt](https://www.spiegel.de/ausland/wagner-aufstand-und-attacken-wie-der-ukraine-krieg-nach-russland-kommt-a-7cc905f4-4f6e-4fa2-b4e0-b8b6040575e0#ref=rss)
-* [https://www.spiegel.de/panorama/sonneberg-erster-afd-landrat-in-deutschland-welche-macht-hat-das-amt](https://www.spiegel.de/panorama/sonneberg-erster-afd-landrat-in-deutschland-welche-macht-hat-das-amt-a-55068295-18c8-4cd6-84f7-a1e560178730#ref=rss)
-### heizungsgesetz
-
-* [https://www.spiegel.de/politik/deutschland/ampel-koalition-streit-um-heizungsgesetz-wie-mit-einem-trick-zu-spaeter-stunde-der-durchbruch-gelang](https://www.spiegel.de/politik/deutschland/ampel-koalition-streit-um-heizungsgesetz-wie-mit-einem-trick-zu-spaeter-stunde-der-durchbruch-gelang-a-83f2f35b-bbbe-4f03-ace9-ec7fe7def8ea#ref=rss)
-### baerbock
-
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-in-suedafrika-so-ringt-die-aussenministerin-um-solidaritaet-mit-der-ukraine](https://www.spiegel.de/politik/deutschland/annalena-baerbock-in-suedafrika-so-ringt-die-aussenministerin-um-solidaritaet-mit-der-ukraine-a-9193e0cb-0bc6-4788-ad7f-3ef80f30d0e8#ref=rss)
-### südafrika
-
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-in-suedafrika-so-ringt-die-aussenministerin-um-solidaritaet-mit-der-ukraine](https://www.spiegel.de/politik/deutschland/annalena-baerbock-in-suedafrika-so-ringt-die-aussenministerin-um-solidaritaet-mit-der-ukraine-a-9193e0cb-0bc6-4788-ad7f-3ef80f30d0e8#ref=rss)
-### außenministerin
-
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-in-suedafrika-so-ringt-die-aussenministerin-um-solidaritaet-mit-der-ukraine](https://www.spiegel.de/politik/deutschland/annalena-baerbock-in-suedafrika-so-ringt-die-aussenministerin-um-solidaritaet-mit-der-ukraine-a-9193e0cb-0bc6-4788-ad7f-3ef80f30d0e8#ref=rss)
-### solidarität
-
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-in-suedafrika-so-ringt-die-aussenministerin-um-solidaritaet-mit-der-ukraine](https://www.spiegel.de/politik/deutschland/annalena-baerbock-in-suedafrika-so-ringt-die-aussenministerin-um-solidaritaet-mit-der-ukraine-a-9193e0cb-0bc6-4788-ad7f-3ef80f30d0e8#ref=rss)
-### unter
-
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-in-suedafrika-so-ringt-die-aussenministerin-um-solidaritaet-mit-der-ukraine](https://www.spiegel.de/politik/deutschland/annalena-baerbock-in-suedafrika-so-ringt-die-aussenministerin-um-solidaritaet-mit-der-ukraine-a-9193e0cb-0bc6-4788-ad7f-3ef80f30d0e8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/forscher-warnen-vor-kapitalabfluss-aus-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/forscher-warnen-vor-kapitalabfluss-aus-deutschland-a-dfb43069-12fa-40a3-aa7c-0044bdb5c3fd#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-in-suedafrika-so-ringt-die-aussenministerin-um-solidaritaet-mit-der-ukraine](https://www.spiegel.de/politik/deutschland/annalena-baerbock-in-suedafrika-so-ringt-die-aussenministerin-um-solidaritaet-mit-der-ukraine-a-9193e0cb-0bc6-4788-ad7f-3ef80f30d0e8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/justizbehoerde-attestiert-schwere-fehler-bei-ueberwachung-von-jeffrey-epstein](https://www.spiegel.de/panorama/justiz/justizbehoerde-attestiert-schwere-fehler-bei-ueberwachung-von-jeffrey-epstein-a-662e4bc9-8aa8-4054-9f3c-1b7f03376c46#ref=rss)
-### supreme
-
-* [https://www.spiegel.de/ausland/supreme-court-der-usa-urteil-gegen-wahlkreisaenderungen-von-unterstuetzern-donald-trumps-hat-bestand](https://www.spiegel.de/ausland/supreme-court-der-usa-urteil-gegen-wahlkreisaenderungen-von-unterstuetzern-donald-trumps-hat-bestand-a-d9b5d920-31f5-4244-ac9c-2b75a1ed3481#ref=rss)
-### court
-
-* [https://www.spiegel.de/ausland/supreme-court-der-usa-urteil-gegen-wahlkreisaenderungen-von-unterstuetzern-donald-trumps-hat-bestand](https://www.spiegel.de/ausland/supreme-court-der-usa-urteil-gegen-wahlkreisaenderungen-von-unterstuetzern-donald-trumps-hat-bestand-a-d9b5d920-31f5-4244-ac9c-2b75a1ed3481#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/supreme-court-der-usa-urteil-gegen-wahlkreisaenderungen-von-unterstuetzern-donald-trumps-hat-bestand](https://www.spiegel.de/ausland/supreme-court-der-usa-urteil-gegen-wahlkreisaenderungen-von-unterstuetzern-donald-trumps-hat-bestand-a-d9b5d920-31f5-4244-ac9c-2b75a1ed3481#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/usa-schuesse-in-lgbtq-klub-in-colorado-2200-jahre-haft-fuer-angeklagte-person](https://www.spiegel.de/panorama/justiz/usa-schuesse-in-lgbtq-klub-in-colorado-2200-jahre-haft-fuer-angeklagte-person-a-2ff372c7-6440-4ed5-ba9a-229e5c8724f3#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/ausland/supreme-court-der-usa-urteil-gegen-wahlkreisaenderungen-von-unterstuetzern-donald-trumps-hat-bestand](https://www.spiegel.de/ausland/supreme-court-der-usa-urteil-gegen-wahlkreisaenderungen-von-unterstuetzern-donald-trumps-hat-bestand-a-d9b5d920-31f5-4244-ac9c-2b75a1ed3481#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/usa-schuesse-in-lgbtq-klub-in-colorado-2200-jahre-haft-fuer-angeklagte-person](https://www.spiegel.de/panorama/justiz/usa-schuesse-in-lgbtq-klub-in-colorado-2200-jahre-haft-fuer-angeklagte-person-a-2ff372c7-6440-4ed5-ba9a-229e5c8724f3#ref=rss)
-### forscher
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/forscher-warnen-vor-kapitalabfluss-aus-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/forscher-warnen-vor-kapitalabfluss-aus-deutschland-a-dfb43069-12fa-40a3-aa7c-0044bdb5c3fd#ref=rss)
-* [https://www.spiegel.de/wissenschaft/pompeji-spektakulaerer-fund-ist-dies-die-erste-pizza-der-menschheit](https://www.spiegel.de/wissenschaft/pompeji-spektakulaerer-fund-ist-dies-die-erste-pizza-der-menschheit-a-30bc5835-1a03-4cdc-8bea-28f4948e223b#ref=rss)
-### analyse
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/forscher-warnen-vor-kapitalabfluss-aus-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/forscher-warnen-vor-kapitalabfluss-aus-deutschland-a-dfb43069-12fa-40a3-aa7c-0044bdb5c3fd#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/megalodon-zahnschmelz-verraet-koerpertemperatur-von-riesigem-urzeithai](https://www.spiegel.de/wissenschaft/natur/megalodon-zahnschmelz-verraet-koerpertemperatur-von-riesigem-urzeithai-a-29bf4d4e-04ad-4509-b636-6515db22a22e#ref=rss)
-### fehler
-
-* [https://www.spiegel.de/panorama/justiz/justizbehoerde-attestiert-schwere-fehler-bei-ueberwachung-von-jeffrey-epstein](https://www.spiegel.de/panorama/justiz/justizbehoerde-attestiert-schwere-fehler-bei-ueberwachung-von-jeffrey-epstein-a-662e4bc9-8aa8-4054-9f3c-1b7f03376c46#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rupert-stadler-urteil-gegen-ex-audi-boss-die-massiven-fehler-in-der-aufklaerung-des-dieselskandals](https://www.spiegel.de/wirtschaft/rupert-stadler-urteil-gegen-ex-audi-boss-die-massiven-fehler-in-der-aufklaerung-des-dieselskandals-a-72b455c8-151f-460d-9e50-e6dd6e7ace0a#ref=rss)
-### jeffrey
-
-* [https://www.spiegel.de/panorama/justiz/justizbehoerde-attestiert-schwere-fehler-bei-ueberwachung-von-jeffrey-epstein](https://www.spiegel.de/panorama/justiz/justizbehoerde-attestiert-schwere-fehler-bei-ueberwachung-von-jeffrey-epstein-a-662e4bc9-8aa8-4054-9f3c-1b7f03376c46#ref=rss)
-### epstein
-
-* [https://www.spiegel.de/panorama/justiz/justizbehoerde-attestiert-schwere-fehler-bei-ueberwachung-von-jeffrey-epstein](https://www.spiegel.de/panorama/justiz/justizbehoerde-attestiert-schwere-fehler-bei-ueberwachung-von-jeffrey-epstein-a-662e4bc9-8aa8-4054-9f3c-1b7f03376c46#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/panorama/justiz/altentreptow-13-jaehrige-mutmasslich-nach-drogenkonsum-gestorben-haftbefehl-gegen-verdaechtigen-erlassen](https://www.spiegel.de/panorama/justiz/altentreptow-13-jaehrige-mutmasslich-nach-drogenkonsum-gestorben-haftbefehl-gegen-verdaechtigen-erlassen-a-f07b03a7-3bdf-4733-8d67-a1a7f1ee6e54#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/berlin-mann-badet-bei-unwetter-in-einsteigschacht-zur-kanalisation](https://www.spiegel.de/panorama/berlin-mann-badet-bei-unwetter-in-einsteigschacht-zur-kanalisation-a-1e20c51b-0eba-4424-8e26-f2cab0525082#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-klimaaktivistin-zu-geldstrafe-verurteilt-gemaelde-klebeaktion-und-strassenblockaden](https://www.spiegel.de/panorama/justiz/berlin-klimaaktivistin-zu-geldstrafe-verurteilt-gemaelde-klebeaktion-und-strassenblockaden-a-cf8fa99f-ba2e-4a19-ac14-956c11a26abb#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/berlin-mann-badet-bei-unwetter-in-einsteigschacht-zur-kanalisation](https://www.spiegel.de/panorama/berlin-mann-badet-bei-unwetter-in-einsteigschacht-zur-kanalisation-a-1e20c51b-0eba-4424-8e26-f2cab0525082#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/sonneberg-mutmasslicher-neonazi-verteilt-blaue-luftballons](https://www.spiegel.de/panorama/justiz/sonneberg-mutmasslicher-neonazi-verteilt-blaue-luftballons-a-b843c8c1-1a53-49a7-86f1-2281e8d8e960#ref=rss)
-### kanalisation
-
-* [https://www.spiegel.de/panorama/berlin-mann-badet-bei-unwetter-in-einsteigschacht-zur-kanalisation](https://www.spiegel.de/panorama/berlin-mann-badet-bei-unwetter-in-einsteigschacht-zur-kanalisation-a-1e20c51b-0eba-4424-8e26-f2cab0525082#ref=rss)
-### laufen
-
-* [https://www.spiegel.de/panorama/berlin-mann-badet-bei-unwetter-in-einsteigschacht-zur-kanalisation](https://www.spiegel.de/panorama/berlin-mann-badet-bei-unwetter-in-einsteigschacht-zur-kanalisation-a-1e20c51b-0eba-4424-8e26-f2cab0525082#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-klimaaktivistin-zu-geldstrafe-verurteilt-gemaelde-klebeaktion-und-strassenblockaden](https://www.spiegel.de/panorama/justiz/berlin-klimaaktivistin-zu-geldstrafe-verurteilt-gemaelde-klebeaktion-und-strassenblockaden-a-cf8fa99f-ba2e-4a19-ac14-956c11a26abb#ref=rss)
-### schnelle
-
-* [https://www.spiegel.de/panorama/berlin-mann-badet-bei-unwetter-in-einsteigschacht-zur-kanalisation](https://www.spiegel.de/panorama/berlin-mann-badet-bei-unwetter-in-einsteigschacht-zur-kanalisation-a-1e20c51b-0eba-4424-8e26-f2cab0525082#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-heizungsfoerderung-wladimir-putin-jewgenij-prigoschin-maskenverbrennung](https://www.spiegel.de/politik/deutschland/news-des-tages-heizungsfoerderung-wladimir-putin-jewgenij-prigoschin-maskenverbrennung-a-3ec1e80e-3163-4093-aef7-e4fe2f778259#ref=rss)
-### weniger
-
-* [https://www.spiegel.de/wirtschaft/service/supermaerkte-wollen-weniger-lebensmittel-wegwerfen](https://www.spiegel.de/wirtschaft/service/supermaerkte-wollen-weniger-lebensmittel-wegwerfen-a-dc3f1f05-7daf-47c0-b2ba-60d0a18930bc#ref=rss)
-### lebensmittel
-
-* [https://www.spiegel.de/wirtschaft/service/supermaerkte-wollen-weniger-lebensmittel-wegwerfen](https://www.spiegel.de/wirtschaft/service/supermaerkte-wollen-weniger-lebensmittel-wegwerfen-a-dc3f1f05-7daf-47c0-b2ba-60d0a18930bc#ref=rss)
-### geschlossen
-
-* [https://www.spiegel.de/wirtschaft/service/supermaerkte-wollen-weniger-lebensmittel-wegwerfen](https://www.spiegel.de/wirtschaft/service/supermaerkte-wollen-weniger-lebensmittel-wegwerfen-a-dc3f1f05-7daf-47c0-b2ba-60d0a18930bc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/berliner-cafe-einstein-meldet-insolvenz-an](https://www.spiegel.de/wirtschaft/unternehmen/berliner-cafe-einstein-meldet-insolvenz-an-a-527ee0ba-f483-4517-b4a5-68a2218810c5#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-heizungsfoerderung-wladimir-putin-jewgenij-prigoschin-maskenverbrennung](https://www.spiegel.de/politik/deutschland/news-des-tages-heizungsfoerderung-wladimir-putin-jewgenij-prigoschin-maskenverbrennung-a-3ec1e80e-3163-4093-aef7-e4fe2f778259#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rupert-stadler-urteil-gegen-ex-audi-boss-die-massiven-fehler-in-der-aufklaerung-des-dieselskandals](https://www.spiegel.de/wirtschaft/rupert-stadler-urteil-gegen-ex-audi-boss-die-massiven-fehler-in-der-aufklaerung-des-dieselskandals-a-72b455c8-151f-460d-9e50-e6dd6e7ace0a#ref=rss)
-### grünen
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-cdu-chef-jetzt-die-keule-gegen-die-gruenen-rausholt](https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-cdu-chef-jetzt-die-keule-gegen-die-gruenen-rausholt-a-77175749-7fa1-4d86-a112-e4d8ce153a8d#ref=rss)
-### union
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-cdu-chef-jetzt-die-keule-gegen-die-gruenen-rausholt](https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-cdu-chef-jetzt-die-keule-gegen-die-gruenen-rausholt-a-77175749-7fa1-4d86-a112-e4d8ce153a8d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/europaeische-union-weitreichendes-naturschutzgesetz-droht-zu-scheitern](https://www.spiegel.de/wissenschaft/natur/europaeische-union-weitreichendes-naturschutzgesetz-droht-zu-scheitern-a-27243c6b-6c8c-45e6-801a-62b37fc2a362#ref=rss)
-### lukaschenko
-
-* [https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-aeussert-sich-zum-wagner-aufstand](https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-aeussert-sich-zum-wagner-aufstand-a-e550a784-67a1-4ef5-b740-cd8f02acdb53#ref=rss)
-### aufstand
-
-* [https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-aeussert-sich-zum-wagner-aufstand](https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-aeussert-sich-zum-wagner-aufstand-a-e550a784-67a1-4ef5-b740-cd8f02acdb53#ref=rss)
-* [https://www.spiegel.de/ausland/ungarn-viktor-orban-spricht-ukraine-die-souveraenitaet-ab](https://www.spiegel.de/ausland/ungarn-viktor-orban-spricht-ukraine-die-souveraenitaet-ab-a-d22e2c8d-c59e-46de-b174-1c1867297c86#ref=rss)
-### hohen
-
-* [https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-aeussert-sich-zum-wagner-aufstand](https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-aeussert-sich-zum-wagner-aufstand-a-e550a784-67a1-4ef5-b740-cd8f02acdb53#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/grossbritannien-supermaerkte-bestreiten-preistreiberei](https://www.spiegel.de/wirtschaft/service/grossbritannien-supermaerkte-bestreiten-preistreiberei-a-cac487a7-7ad5-4762-9492-09541f0d7dc6#ref=rss)
-### new
-
-* [https://www.spiegel.de/panorama/new-york-reinigungskraft-an-hochschule-soll-laborgefrierschrank-mit-forschungsproben-ausgeschaltet-haben](https://www.spiegel.de/panorama/new-york-reinigungskraft-an-hochschule-soll-laborgefrierschrank-mit-forschungsproben-ausgeschaltet-haben-a-4dec6f00-8a83-46f4-8c17-f67d62421765#ref=rss)
-### york
-
-* [https://www.spiegel.de/panorama/new-york-reinigungskraft-an-hochschule-soll-laborgefrierschrank-mit-forschungsproben-ausgeschaltet-haben](https://www.spiegel.de/panorama/new-york-reinigungskraft-an-hochschule-soll-laborgefrierschrank-mit-forschungsproben-ausgeschaltet-haben-a-4dec6f00-8a83-46f4-8c17-f67d62421765#ref=rss)
-### reinigungskraft
-
-* [https://www.spiegel.de/panorama/new-york-reinigungskraft-an-hochschule-soll-laborgefrierschrank-mit-forschungsproben-ausgeschaltet-haben](https://www.spiegel.de/panorama/new-york-reinigungskraft-an-hochschule-soll-laborgefrierschrank-mit-forschungsproben-ausgeschaltet-haben-a-4dec6f00-8a83-46f4-8c17-f67d62421765#ref=rss)
-### droht
-
-* [https://www.spiegel.de/panorama/new-york-reinigungskraft-an-hochschule-soll-laborgefrierschrank-mit-forschungsproben-ausgeschaltet-haben](https://www.spiegel.de/panorama/new-york-reinigungskraft-an-hochschule-soll-laborgefrierschrank-mit-forschungsproben-ausgeschaltet-haben-a-4dec6f00-8a83-46f4-8c17-f67d62421765#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/europaeische-union-weitreichendes-naturschutzgesetz-droht-zu-scheitern](https://www.spiegel.de/wissenschaft/natur/europaeische-union-weitreichendes-naturschutzgesetz-droht-zu-scheitern-a-27243c6b-6c8c-45e6-801a-62b37fc2a362#ref=rss)
-### lewis
-
-* [https://www.spiegel.de/kultur/musik/lewis-capaldi-popstar-sagt-tour-nach-tourette-diagnose-ab](https://www.spiegel.de/kultur/musik/lewis-capaldi-popstar-sagt-tour-nach-tourette-diagnose-ab-a-8acff130-b151-49da-9673-38b8282e2a7e#ref=rss)
-### capaldi
-
-* [https://www.spiegel.de/kultur/musik/lewis-capaldi-popstar-sagt-tour-nach-tourette-diagnose-ab](https://www.spiegel.de/kultur/musik/lewis-capaldi-popstar-sagt-tour-nach-tourette-diagnose-ab-a-8acff130-b151-49da-9673-38b8282e2a7e#ref=rss)
-### popstar
-
-* [https://www.spiegel.de/kultur/musik/lewis-capaldi-popstar-sagt-tour-nach-tourette-diagnose-ab](https://www.spiegel.de/kultur/musik/lewis-capaldi-popstar-sagt-tour-nach-tourette-diagnose-ab-a-8acff130-b151-49da-9673-38b8282e2a7e#ref=rss)
-### tour
-
-* [https://www.spiegel.de/kultur/musik/lewis-capaldi-popstar-sagt-tour-nach-tourette-diagnose-ab](https://www.spiegel.de/kultur/musik/lewis-capaldi-popstar-sagt-tour-nach-tourette-diagnose-ab-a-8acff130-b151-49da-9673-38b8282e2a7e#ref=rss)
-### viktor
-
-* [https://www.spiegel.de/ausland/ungarn-viktor-orban-spricht-ukraine-die-souveraenitaet-ab](https://www.spiegel.de/ausland/ungarn-viktor-orban-spricht-ukraine-die-souveraenitaet-ab-a-d22e2c8d-c59e-46de-b174-1c1867297c86#ref=rss)
-### orbán
-
-* [https://www.spiegel.de/ausland/ungarn-viktor-orban-spricht-ukraine-die-souveraenitaet-ab](https://www.spiegel.de/ausland/ungarn-viktor-orban-spricht-ukraine-die-souveraenitaet-ab-a-d22e2c8d-c59e-46de-b174-1c1867297c86#ref=rss)
-### gilt
-
-* [https://www.spiegel.de/ausland/ungarn-viktor-orban-spricht-ukraine-die-souveraenitaet-ab](https://www.spiegel.de/ausland/ungarn-viktor-orban-spricht-ukraine-die-souveraenitaet-ab-a-d22e2c8d-c59e-46de-b174-1c1867297c86#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/megalodon-zahnschmelz-verraet-koerpertemperatur-von-riesigem-urzeithai](https://www.spiegel.de/wissenschaft/natur/megalodon-zahnschmelz-verraet-koerpertemperatur-von-riesigem-urzeithai-a-29bf4d4e-04ad-4509-b636-6515db22a22e#ref=rss)
-### sinne
-
-* [https://www.spiegel.de/ausland/ungarn-viktor-orban-spricht-ukraine-die-souveraenitaet-ab](https://www.spiegel.de/ausland/ungarn-viktor-orban-spricht-ukraine-die-souveraenitaet-ab-a-d22e2c8d-c59e-46de-b174-1c1867297c86#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/megalodon-zahnschmelz-verraet-koerpertemperatur-von-riesigem-urzeithai](https://www.spiegel.de/wissenschaft/natur/megalodon-zahnschmelz-verraet-koerpertemperatur-von-riesigem-urzeithai-a-29bf4d4e-04ad-4509-b636-6515db22a22e#ref=rss)
-### mercedes
-
-* [https://www.spiegel.de/auto/mercedes-s-klasse-bekommt-eckiges-lenkrad-das-runde-wird-zum-eckigen](https://www.spiegel.de/auto/mercedes-s-klasse-bekommt-eckiges-lenkrad-das-runde-wird-zum-eckigen-a-96919d95-e37b-482b-8743-305c9e80d039#ref=rss)
-### sklasse
-
-* [https://www.spiegel.de/auto/mercedes-s-klasse-bekommt-eckiges-lenkrad-das-runde-wird-zum-eckigen](https://www.spiegel.de/auto/mercedes-s-klasse-bekommt-eckiges-lenkrad-das-runde-wird-zum-eckigen-a-96919d95-e37b-482b-8743-305c9e80d039#ref=rss)
-### lenkrad
-
-* [https://www.spiegel.de/auto/mercedes-s-klasse-bekommt-eckiges-lenkrad-das-runde-wird-zum-eckigen](https://www.spiegel.de/auto/mercedes-s-klasse-bekommt-eckiges-lenkrad-das-runde-wird-zum-eckigen-a-96919d95-e37b-482b-8743-305c9e80d039#ref=rss)
+* [https://www.spiegel.de/panorama/katholische-kirche-mehr-als-eine-halbe-million-austritte-im-jahr-2022-rekord](https://www.spiegel.de/panorama/katholische-kirche-mehr-als-eine-halbe-million-austritte-im-jahr-2022-rekord-a-a3af383b-f1cf-485e-b463-ae10200d9f52#ref=rss)
+* [https://www.spiegel.de/panorama/scheidungen-in-deutschland-2022-sank-zahl-weiter](https://www.spiegel.de/panorama/scheidungen-in-deutschland-2022-sank-zahl-weiter-a-a4673359-c6ab-4a18-a986-336b131b6546#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/inflation-und-rezession-verunsichern-verbraucher](https://www.spiegel.de/wirtschaft/service/inflation-und-rezession-verunsichern-verbraucher-a-ac27d4f0-21fb-40f9-8197-c225d693f4ef#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/kfw-chef-deutschland-droht-trotz-sinkender-preise-keine-immobilienkrise](https://www.spiegel.de/wirtschaft/service/kfw-chef-deutschland-droht-trotz-sinkender-preise-keine-immobilienkrise-a-6e33b674-b562-484d-baaf-c9187fcca48b#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/politik/deutschland/umfrage-mehr-als-die-haelfte-der-ostdeutschen-unzufrieden-mit-der-demokratie](https://www.spiegel.de/politik/deutschland/umfrage-mehr-als-die-haelfte-der-ostdeutschen-unzufrieden-mit-der-demokratie-a-02976dd9-788d-42fc-bdb1-88ee86b62a97#ref=rss)
+* [https://www.spiegel.de/panorama/katholische-kirche-mehr-als-eine-halbe-million-austritte-im-jahr-2022-rekord](https://www.spiegel.de/panorama/katholische-kirche-mehr-als-eine-halbe-million-austritte-im-jahr-2022-rekord-a-a3af383b-f1cf-485e-b463-ae10200d9f52#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-linke-kuendigt-mietvertrag-fuer-parteibuero-in-soest](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-linke-kuendigt-mietvertrag-fuer-parteibuero-in-soest-a-91a1abe3-2c83-4b5f-ba8e-8cbfb11307f9#ref=rss)
+### 2022
+
+* [https://www.spiegel.de/panorama/katholische-kirche-mehr-als-eine-halbe-million-austritte-im-jahr-2022-rekord](https://www.spiegel.de/panorama/katholische-kirche-mehr-als-eine-halbe-million-austritte-im-jahr-2022-rekord-a-a3af383b-f1cf-485e-b463-ae10200d9f52#ref=rss)
+* [https://www.spiegel.de/panorama/scheidungen-in-deutschland-2022-sank-zahl-weiter](https://www.spiegel.de/panorama/scheidungen-in-deutschland-2022-sank-zahl-weiter-a-a4673359-c6ab-4a18-a986-336b131b6546#ref=rss)
+### laut
+
+* [https://www.spiegel.de/ausland/ukraine-russland-news-am-mittwoch-putin-wollte-prigoschin-laut-washington-post-offenbar-toeten-lassen](https://www.spiegel.de/ausland/ukraine-russland-news-am-mittwoch-putin-wollte-prigoschin-laut-washington-post-offenbar-toeten-lassen-a-ee25597e-f11a-41c2-a861-7ee072accb8d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klima-krise-hitze-fuehrt-zu-durchschnittlich-1500-krankenhausbehandlungen-pro-jahr](https://www.spiegel.de/wissenschaft/klima-krise-hitze-fuehrt-zu-durchschnittlich-1500-krankenhausbehandlungen-pro-jahr-a-0f41611d-5738-4fb3-be23-5d2ed3010ba6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/kfw-chef-deutschland-droht-trotz-sinkender-preise-keine-immobilienkrise](https://www.spiegel.de/wirtschaft/service/kfw-chef-deutschland-droht-trotz-sinkender-preise-keine-immobilienkrise-a-6e33b674-b562-484d-baaf-c9187fcca48b#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/auto/mercedes-s-klasse-bekommt-eckiges-lenkrad-das-runde-wird-zum-eckigen](https://www.spiegel.de/auto/mercedes-s-klasse-bekommt-eckiges-lenkrad-das-runde-wird-zum-eckigen-a-96919d95-e37b-482b-8743-305c9e80d039#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/sonneberg-mutmasslicher-neonazi-verteilt-blaue-luftballons](https://www.spiegel.de/panorama/justiz/sonneberg-mutmasslicher-neonazi-verteilt-blaue-luftballons-a-b843c8c1-1a53-49a7-86f1-2281e8d8e960#ref=rss)
-### bleibt
+* [https://www.spiegel.de/ausland/ukraine-russland-news-am-mittwoch-putin-wollte-prigoschin-laut-washington-post-offenbar-toeten-lassen](https://www.spiegel.de/ausland/ukraine-russland-news-am-mittwoch-putin-wollte-prigoschin-laut-washington-post-offenbar-toeten-lassen-a-ee25597e-f11a-41c2-a861-7ee072accb8d#ref=rss)
+* [https://www.spiegel.de/panorama/ecstasy-zweites-mutmassliches-blue-punisher-opfer-soll-obduziert-werden](https://www.spiegel.de/panorama/ecstasy-zweites-mutmassliches-blue-punisher-opfer-soll-obduziert-werden-a-0d6e645b-df7c-45cb-8ce0-076adc0a5313#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-putin-general-sergei-surovikin-wusste-offenbar-von-wagner-plaenen](https://www.spiegel.de/ausland/ukraine-krieg-putin-general-sergei-surovikin-wusste-offenbar-von-wagner-plaenen-a-cdc3cb0c-1cc7-4df7-bef3-a9445cd66a90#ref=rss)
+### neue
 
-* [https://www.spiegel.de/wissenschaft/natur/europaeische-union-weitreichendes-naturschutzgesetz-droht-zu-scheitern](https://www.spiegel.de/wissenschaft/natur/europaeische-union-weitreichendes-naturschutzgesetz-droht-zu-scheitern-a-27243c6b-6c8c-45e6-801a-62b37fc2a362#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/berliner-cafe-einstein-meldet-insolvenz-an](https://www.spiegel.de/wirtschaft/unternehmen/berliner-cafe-einstein-meldet-insolvenz-an-a-527ee0ba-f483-4517-b4a5-68a2218810c5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-linke-kuendigt-mietvertrag-fuer-parteibuero-in-soest](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-linke-kuendigt-mietvertrag-fuer-parteibuero-in-soest-a-91a1abe3-2c83-4b5f-ba8e-8cbfb11307f9#ref=rss)
+* [https://www.spiegel.de/kultur/kino/superman-legacy-david-corenswet-und-rachel-brosnahan-spielen-hauptrollen](https://www.spiegel.de/kultur/kino/superman-legacy-david-corenswet-und-rachel-brosnahan-spielen-hauptrollen-a-1e62c27a-5d2a-4a2d-9c39-6a9ceac8f720#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-verstrickt-sich-in-dokumentenaffaere-in-immer-neue-widersprueche](https://www.spiegel.de/ausland/donald-trump-verstrickt-sich-in-dokumentenaffaere-in-immer-neue-widersprueche-a-18e8f2ff-519c-4aba-9799-31ade36c7495#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/fussball-transferticker-kai-havertz-kurz-vor-wechsel-zum-fc-arsenal](https://www.spiegel.de/sport/fussball/fussball-transferticker-kai-havertz-kurz-vor-wechsel-zum-fc-arsenal-a-215a479b-7d99-4278-b168-482c6518524d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-und-qatar-airways-beenden-umstrittenen-sponsorendeal](https://www.spiegel.de/sport/fussball/fc-bayern-und-qatar-airways-beenden-umstrittenen-sponsorendeal-a-e7df1b4e-b3d8-45b8-91d8-bb45122b95d1#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/fussball-transferticker-kai-havertz-kurz-vor-wechsel-zum-fc-arsenal](https://www.spiegel.de/sport/fussball/fussball-transferticker-kai-havertz-kurz-vor-wechsel-zum-fc-arsenal-a-215a479b-7d99-4278-b168-482c6518524d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-und-qatar-airways-beenden-umstrittenen-sponsorendeal](https://www.spiegel.de/sport/fussball/fc-bayern-und-qatar-airways-beenden-umstrittenen-sponsorendeal-a-e7df1b4e-b3d8-45b8-91d8-bb45122b95d1#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/justiz/stockholm-schwedische-polizei-genehmigt-koranverbrennung-vor-moschee](https://www.spiegel.de/panorama/justiz/stockholm-schwedische-polizei-genehmigt-koranverbrennung-vor-moschee-a-8d4a1cd5-a947-4fcb-b3b1-0d53e00610bd#ref=rss)
+* [https://www.spiegel.de/panorama/ecstasy-zweites-mutmassliches-blue-punisher-opfer-soll-obduziert-werden](https://www.spiegel.de/panorama/ecstasy-zweites-mutmassliches-blue-punisher-opfer-soll-obduziert-werden-a-0d6e645b-df7c-45cb-8ce0-076adc0a5313#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-kylian-mbappe-verurteilt-tod-eines-17-jaehrigen-durch-polizei](https://www.spiegel.de/ausland/frankreich-kylian-mbappe-verurteilt-tod-eines-17-jaehrigen-durch-polizei-a-8b093a29-06aa-4700-aef5-fc7c15addc41#ref=rss)
+### rezession
+
+* [https://www.spiegel.de/wirtschaft/wirtschaft-in-der-rezession-diese-giftige-mischung-gefaehrdet-deutschlands-wohlstand](https://www.spiegel.de/wirtschaft/wirtschaft-in-der-rezession-diese-giftige-mischung-gefaehrdet-deutschlands-wohlstand-a-638e3f31-5d61-423a-870f-0305c4d2d99c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/inflation-und-rezession-verunsichern-verbraucher](https://www.spiegel.de/wirtschaft/service/inflation-und-rezession-verunsichern-verbraucher-a-ac27d4f0-21fb-40f9-8197-c225d693f4ef#ref=rss)
+### frankreich
+
+* [https://www.spiegel.de/ausland/frankreich-kylian-mbappe-verurteilt-tod-eines-17-jaehrigen-durch-polizei](https://www.spiegel.de/ausland/frankreich-kylian-mbappe-verurteilt-tod-eines-17-jaehrigen-durch-polizei-a-8b093a29-06aa-4700-aef5-fc7c15addc41#ref=rss)
+### bundesländern
+
+* [https://www.spiegel.de/politik/deutschland/umfrage-mehr-als-die-haelfte-der-ostdeutschen-unzufrieden-mit-der-demokratie](https://www.spiegel.de/politik/deutschland/umfrage-mehr-als-die-haelfte-der-ostdeutschen-unzufrieden-mit-der-demokratie-a-02976dd9-788d-42fc-bdb1-88ee86b62a97#ref=rss)
+### katholische
+
+* [https://www.spiegel.de/panorama/katholische-kirche-mehr-als-eine-halbe-million-austritte-im-jahr-2022-rekord](https://www.spiegel.de/panorama/katholische-kirche-mehr-als-eine-halbe-million-austritte-im-jahr-2022-rekord-a-a3af383b-f1cf-485e-b463-ae10200d9f52#ref=rss)
+### kirche
+
+* [https://www.spiegel.de/panorama/katholische-kirche-mehr-als-eine-halbe-million-austritte-im-jahr-2022-rekord](https://www.spiegel.de/panorama/katholische-kirche-mehr-als-eine-halbe-million-austritte-im-jahr-2022-rekord-a-a3af383b-f1cf-485e-b463-ae10200d9f52#ref=rss)
+### ich
+
+* [https://www.spiegel.de/familie/kinderschutz-ja-ich-lasse-meine-tochter-nackt-spielen](https://www.spiegel.de/familie/kinderschutz-ja-ich-lasse-meine-tochter-nackt-spielen-a-60ff2154-05e6-4f81-b2f9-d9c235babb3c#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-angriff-auf-lokal-ich-sehe-nur-zerstoerung-angst-und-horror](https://www.spiegel.de/ausland/ukraine-krieg-angriff-auf-lokal-ich-sehe-nur-zerstoerung-angst-und-horror-a-a218c348-06b0-46e0-8a83-65c5ba450fd4#ref=rss)
+### nackt
+
+* [https://www.spiegel.de/familie/kinderschutz-ja-ich-lasse-meine-tochter-nackt-spielen](https://www.spiegel.de/familie/kinderschutz-ja-ich-lasse-meine-tochter-nackt-spielen-a-60ff2154-05e6-4f81-b2f9-d9c235babb3c#ref=rss)
+### spielen
+
+* [https://www.spiegel.de/familie/kinderschutz-ja-ich-lasse-meine-tochter-nackt-spielen](https://www.spiegel.de/familie/kinderschutz-ja-ich-lasse-meine-tochter-nackt-spielen-a-60ff2154-05e6-4f81-b2f9-d9c235babb3c#ref=rss)
+* [https://www.spiegel.de/kultur/kino/superman-legacy-david-corenswet-und-rachel-brosnahan-spielen-hauptrollen](https://www.spiegel.de/kultur/kino/superman-legacy-david-corenswet-und-rachel-brosnahan-spielen-hauptrollen-a-1e62c27a-5d2a-4a2d-9c39-6a9ceac8f720#ref=rss)
+### stadt
+
+* [https://www.spiegel.de/familie/kinderschutz-ja-ich-lasse-meine-tochter-nackt-spielen](https://www.spiegel.de/familie/kinderschutz-ja-ich-lasse-meine-tochter-nackt-spielen-a-60ff2154-05e6-4f81-b2f9-d9c235babb3c#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-angriff-auf-lokal-ich-sehe-nur-zerstoerung-angst-und-horror](https://www.spiegel.de/ausland/ukraine-krieg-angriff-auf-lokal-ich-sehe-nur-zerstoerung-angst-und-horror-a-a218c348-06b0-46e0-8a83-65c5ba450fd4#ref=rss)
+### angst
+
+* [https://www.spiegel.de/familie/kinderschutz-ja-ich-lasse-meine-tochter-nackt-spielen](https://www.spiegel.de/familie/kinderschutz-ja-ich-lasse-meine-tochter-nackt-spielen-a-60ff2154-05e6-4f81-b2f9-d9c235babb3c#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-angriff-auf-lokal-ich-sehe-nur-zerstoerung-angst-und-horror](https://www.spiegel.de/ausland/ukraine-krieg-angriff-auf-lokal-ich-sehe-nur-zerstoerung-angst-und-horror-a-a218c348-06b0-46e0-8a83-65c5ba450fd4#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/ausland/ukraine-russland-news-am-mittwoch-putin-wollte-prigoschin-laut-washington-post-offenbar-toeten-lassen](https://www.spiegel.de/ausland/ukraine-russland-news-am-mittwoch-putin-wollte-prigoschin-laut-washington-post-offenbar-toeten-lassen-a-ee25597e-f11a-41c2-a861-7ee072accb8d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/heizungsgesetz-mieterbund-sieht-meilenstein-beim-schutz-vor-kostensteigerungen](https://www.spiegel.de/wirtschaft/service/heizungsgesetz-mieterbund-sieht-meilenstein-beim-schutz-vor-kostensteigerungen-a-0171c2fa-d541-49d5-b500-4bf26ca24795#ref=rss)
+### lukaschenko
+
+* [https://www.spiegel.de/ausland/ukraine-russland-news-am-mittwoch-putin-wollte-prigoschin-laut-washington-post-offenbar-toeten-lassen](https://www.spiegel.de/ausland/ukraine-russland-news-am-mittwoch-putin-wollte-prigoschin-laut-washington-post-offenbar-toeten-lassen-a-ee25597e-f11a-41c2-a861-7ee072accb8d#ref=rss)
+### rolle
+
+* [https://www.spiegel.de/ausland/ukraine-russland-news-am-mittwoch-putin-wollte-prigoschin-laut-washington-post-offenbar-toeten-lassen](https://www.spiegel.de/ausland/ukraine-russland-news-am-mittwoch-putin-wollte-prigoschin-laut-washington-post-offenbar-toeten-lassen-a-ee25597e-f11a-41c2-a861-7ee072accb8d#ref=rss)
+### brandenburg
+
+* [https://www.spiegel.de/panorama/bildung/brandenburg-lehrkraefte-beklagen-nach-rechtsextremen-vorfaellen-dass-sich-nichts-veraendert-habe](https://www.spiegel.de/panorama/bildung/brandenburg-lehrkraefte-beklagen-nach-rechtsextremen-vorfaellen-dass-sich-nichts-veraendert-habe-a-de8b0502-8471-497b-9dbe-6e8067025d7f#ref=rss)
+### lehrkräfte
+
+* [https://www.spiegel.de/panorama/bildung/brandenburg-lehrkraefte-beklagen-nach-rechtsextremen-vorfaellen-dass-sich-nichts-veraendert-habe](https://www.spiegel.de/panorama/bildung/brandenburg-lehrkraefte-beklagen-nach-rechtsextremen-vorfaellen-dass-sich-nichts-veraendert-habe-a-de8b0502-8471-497b-9dbe-6e8067025d7f#ref=rss)
+### ziehen
+
+* [https://www.spiegel.de/panorama/bildung/brandenburg-lehrkraefte-beklagen-nach-rechtsextremen-vorfaellen-dass-sich-nichts-veraendert-habe](https://www.spiegel.de/panorama/bildung/brandenburg-lehrkraefte-beklagen-nach-rechtsextremen-vorfaellen-dass-sich-nichts-veraendert-habe-a-de8b0502-8471-497b-9dbe-6e8067025d7f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-transferticker-kai-havertz-kurz-vor-wechsel-zum-fc-arsenal](https://www.spiegel.de/sport/fussball/fussball-transferticker-kai-havertz-kurz-vor-wechsel-zum-fc-arsenal-a-215a479b-7d99-4278-b168-482c6518524d#ref=rss)
+### sahra
+
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-linke-kuendigt-mietvertrag-fuer-parteibuero-in-soest](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-linke-kuendigt-mietvertrag-fuer-parteibuero-in-soest-a-91a1abe3-2c83-4b5f-ba8e-8cbfb11307f9#ref=rss)
+### wagenknecht
+
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-linke-kuendigt-mietvertrag-fuer-parteibuero-in-soest](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-linke-kuendigt-mietvertrag-fuer-parteibuero-in-soest-a-91a1abe3-2c83-4b5f-ba8e-8cbfb11307f9#ref=rss)
+### soest
+
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-linke-kuendigt-mietvertrag-fuer-parteibuero-in-soest](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-linke-kuendigt-mietvertrag-fuer-parteibuero-in-soest-a-91a1abe3-2c83-4b5f-ba8e-8cbfb11307f9#ref=rss)
+### kai
+
+* [https://www.spiegel.de/sport/fussball/fussball-transferticker-kai-havertz-kurz-vor-wechsel-zum-fc-arsenal](https://www.spiegel.de/sport/fussball/fussball-transferticker-kai-havertz-kurz-vor-wechsel-zum-fc-arsenal-a-215a479b-7d99-4278-b168-482c6518524d#ref=rss)
+### havertz
+
+* [https://www.spiegel.de/sport/fussball/fussball-transferticker-kai-havertz-kurz-vor-wechsel-zum-fc-arsenal](https://www.spiegel.de/sport/fussball/fussball-transferticker-kai-havertz-kurz-vor-wechsel-zum-fc-arsenal-a-215a479b-7d99-4278-b168-482c6518524d#ref=rss)
+### wechsel
+
+* [https://www.spiegel.de/sport/fussball/fussball-transferticker-kai-havertz-kurz-vor-wechsel-zum-fc-arsenal](https://www.spiegel.de/sport/fussball/fussball-transferticker-kai-havertz-kurz-vor-wechsel-zum-fc-arsenal-a-215a479b-7d99-4278-b168-482c6518524d#ref=rss)
+### wichtigsten
+
+* [https://www.spiegel.de/sport/fussball/fussball-transferticker-kai-havertz-kurz-vor-wechsel-zum-fc-arsenal](https://www.spiegel.de/sport/fussball/fussball-transferticker-kai-havertz-kurz-vor-wechsel-zum-fc-arsenal-a-215a479b-7d99-4278-b168-482c6518524d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/deutsche-bahn-hitzefalle-ice-was-passiert-wenn-die-klimaanlage-ausfaellt-und-was-dagegen-hilft](https://www.spiegel.de/wissenschaft/deutsche-bahn-hitzefalle-ice-was-passiert-wenn-die-klimaanlage-ausfaellt-und-was-dagegen-hilft-a-93b8211f-6249-46a8-9e53-7020c058bda3#ref=rss)
+### kampf
+
+* [https://www.spiegel.de/sport/fussball/fussball-transferticker-kai-havertz-kurz-vor-wechsel-zum-fc-arsenal](https://www.spiegel.de/sport/fussball/fussball-transferticker-kai-havertz-kurz-vor-wechsel-zum-fc-arsenal-a-215a479b-7d99-4278-b168-482c6518524d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/bundeshaushalt-schulden-steigen-um-38-9-milliarden-euro-im-ersten-quartal](https://www.spiegel.de/wirtschaft/soziales/bundeshaushalt-schulden-steigen-um-38-9-milliarden-euro-im-ersten-quartal-a-35529227-8457-4458-a0c0-98f0fa03f02d#ref=rss)
+### stockholm
+
+* [https://www.spiegel.de/panorama/justiz/stockholm-schwedische-polizei-genehmigt-koranverbrennung-vor-moschee](https://www.spiegel.de/panorama/justiz/stockholm-schwedische-polizei-genehmigt-koranverbrennung-vor-moschee-a-8d4a1cd5-a947-4fcb-b3b1-0d53e00610bd#ref=rss)
+### elmos
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/elmos-chiphersteller-verkauft-wafer-sparte-an-us-konzern](https://www.spiegel.de/wirtschaft/unternehmen/elmos-chiphersteller-verkauft-wafer-sparte-an-us-konzern-a-517fd3e7-5a44-480b-a35e-5dbdd3e81e2c#ref=rss)
+### chiphersteller
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/elmos-chiphersteller-verkauft-wafer-sparte-an-us-konzern](https://www.spiegel.de/wirtschaft/unternehmen/elmos-chiphersteller-verkauft-wafer-sparte-an-us-konzern-a-517fd3e7-5a44-480b-a35e-5dbdd3e81e2c#ref=rss)
+### firma
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/elmos-chiphersteller-verkauft-wafer-sparte-an-us-konzern](https://www.spiegel.de/wirtschaft/unternehmen/elmos-chiphersteller-verkauft-wafer-sparte-an-us-konzern-a-517fd3e7-5a44-480b-a35e-5dbdd3e81e2c#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/opentalk-deutscher-videotelefonie-anbieter-will-webex-zoom-und-teams-in-behoerden-ersetzen](https://www.spiegel.de/netzwelt/apps/opentalk-deutscher-videotelefonie-anbieter-will-webex-zoom-und-teams-in-behoerden-ersetzen-a-7089489b-aa73-4e0d-bc34-489961bd2b57#ref=rss)
+### superman
+
+* [https://www.spiegel.de/kultur/kino/superman-legacy-david-corenswet-und-rachel-brosnahan-spielen-hauptrollen](https://www.spiegel.de/kultur/kino/superman-legacy-david-corenswet-und-rachel-brosnahan-spielen-hauptrollen-a-1e62c27a-5d2a-4a2d-9c39-6a9ceac8f720#ref=rss)
+### legacy
+
+* [https://www.spiegel.de/kultur/kino/superman-legacy-david-corenswet-und-rachel-brosnahan-spielen-hauptrollen](https://www.spiegel.de/kultur/kino/superman-legacy-david-corenswet-und-rachel-brosnahan-spielen-hauptrollen-a-1e62c27a-5d2a-4a2d-9c39-6a9ceac8f720#ref=rss)
+### david
+
+* [https://www.spiegel.de/kultur/kino/superman-legacy-david-corenswet-und-rachel-brosnahan-spielen-hauptrollen](https://www.spiegel.de/kultur/kino/superman-legacy-david-corenswet-und-rachel-brosnahan-spielen-hauptrollen-a-1e62c27a-5d2a-4a2d-9c39-6a9ceac8f720#ref=rss)
+### corenswet
+
+* [https://www.spiegel.de/kultur/kino/superman-legacy-david-corenswet-und-rachel-brosnahan-spielen-hauptrollen](https://www.spiegel.de/kultur/kino/superman-legacy-david-corenswet-und-rachel-brosnahan-spielen-hauptrollen-a-1e62c27a-5d2a-4a2d-9c39-6a9ceac8f720#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/wissenschaft/deutsche-bahn-hitzefalle-ice-was-passiert-wenn-die-klimaanlage-ausfaellt-und-was-dagegen-hilft](https://www.spiegel.de/wissenschaft/deutsche-bahn-hitzefalle-ice-was-passiert-wenn-die-klimaanlage-ausfaellt-und-was-dagegen-hilft-a-93b8211f-6249-46a8-9e53-7020c058bda3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wirtschaft-in-der-rezession-diese-giftige-mischung-gefaehrdet-deutschlands-wohlstand](https://www.spiegel.de/wirtschaft/wirtschaft-in-der-rezession-diese-giftige-mischung-gefaehrdet-deutschlands-wohlstand-a-638e3f31-5d61-423a-870f-0305c4d2d99c#ref=rss)
+### ice
+
+* [https://www.spiegel.de/wissenschaft/deutsche-bahn-hitzefalle-ice-was-passiert-wenn-die-klimaanlage-ausfaellt-und-was-dagegen-hilft](https://www.spiegel.de/wissenschaft/deutsche-bahn-hitzefalle-ice-was-passiert-wenn-die-klimaanlage-ausfaellt-und-was-dagegen-hilft-a-93b8211f-6249-46a8-9e53-7020c058bda3#ref=rss)
+### klimaanlage
+
+* [https://www.spiegel.de/wissenschaft/deutsche-bahn-hitzefalle-ice-was-passiert-wenn-die-klimaanlage-ausfaellt-und-was-dagegen-hilft](https://www.spiegel.de/wissenschaft/deutsche-bahn-hitzefalle-ice-was-passiert-wenn-die-klimaanlage-ausfaellt-und-was-dagegen-hilft-a-93b8211f-6249-46a8-9e53-7020c058bda3#ref=rss)
+### rezept
+
+* [https://www.spiegel.de/start/kochshow-ohne-kohle-rezept-fuer-nudeln-mit-wodka-sosse](https://www.spiegel.de/start/kochshow-ohne-kohle-rezept-fuer-nudeln-mit-wodka-sosse-a-41396b00-80e0-48e9-97b6-0bd7162b151c#ref=rss)
+### vergangenen
+
+* [https://www.spiegel.de/wissenschaft/klima-krise-hitze-fuehrt-zu-durchschnittlich-1500-krankenhausbehandlungen-pro-jahr](https://www.spiegel.de/wissenschaft/klima-krise-hitze-fuehrt-zu-durchschnittlich-1500-krankenhausbehandlungen-pro-jahr-a-0f41611d-5738-4fb3-be23-5d2ed3010ba6#ref=rss)
+* [https://www.spiegel.de/panorama/scheidungen-in-deutschland-2022-sank-zahl-weiter](https://www.spiegel.de/panorama/scheidungen-in-deutschland-2022-sank-zahl-weiter-a-a4673359-c6ab-4a18-a986-336b131b6546#ref=rss)
+### wirtschaft
+
+* [https://www.spiegel.de/wirtschaft/wirtschaft-in-der-rezession-diese-giftige-mischung-gefaehrdet-deutschlands-wohlstand](https://www.spiegel.de/wirtschaft/wirtschaft-in-der-rezession-diese-giftige-mischung-gefaehrdet-deutschlands-wohlstand-a-638e3f31-5d61-423a-870f-0305c4d2d99c#ref=rss)
+### adler
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/adler-group-grossrazzia-bei-immobilienkonzern](https://www.spiegel.de/wirtschaft/unternehmen/adler-group-grossrazzia-bei-immobilienkonzern-a-7bcd70e7-51b8-449f-ad2a-9232b4e7d243#ref=rss)
+### real
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/adler-group-grossrazzia-bei-immobilienkonzern](https://www.spiegel.de/wirtschaft/unternehmen/adler-group-grossrazzia-bei-immobilienkonzern-a-7bcd70e7-51b8-449f-ad2a-9232b4e7d243#ref=rss)
+### estate
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/adler-group-grossrazzia-bei-immobilienkonzern](https://www.spiegel.de/wirtschaft/unternehmen/adler-group-grossrazzia-bei-immobilienkonzern-a-7bcd70e7-51b8-449f-ad2a-9232b4e7d243#ref=rss)
+### immobilienkonzern
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/adler-group-grossrazzia-bei-immobilienkonzern](https://www.spiegel.de/wirtschaft/unternehmen/adler-group-grossrazzia-bei-immobilienkonzern-a-7bcd70e7-51b8-449f-ad2a-9232b4e7d243#ref=rss)
+### spiegelinformationen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/adler-group-grossrazzia-bei-immobilienkonzern](https://www.spiegel.de/wirtschaft/unternehmen/adler-group-grossrazzia-bei-immobilienkonzern-a-7bcd70e7-51b8-449f-ad2a-9232b4e7d243#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/opentalk-deutscher-videotelefonie-anbieter-will-webex-zoom-und-teams-in-behoerden-ersetzen](https://www.spiegel.de/netzwelt/apps/opentalk-deutscher-videotelefonie-anbieter-will-webex-zoom-und-teams-in-behoerden-ersetzen-a-7089489b-aa73-4e0d-bc34-489961bd2b57#ref=rss)
+### lokal
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-angriff-auf-lokal-ich-sehe-nur-zerstoerung-angst-und-horror](https://www.spiegel.de/ausland/ukraine-krieg-angriff-auf-lokal-ich-sehe-nur-zerstoerung-angst-und-horror-a-a218c348-06b0-46e0-8a83-65c5ba450fd4#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-angriff-auf-lokal-ich-sehe-nur-zerstoerung-angst-und-horror](https://www.spiegel.de/ausland/ukraine-krieg-angriff-auf-lokal-ich-sehe-nur-zerstoerung-angst-und-horror-a-a218c348-06b0-46e0-8a83-65c5ba450fd4#ref=rss)
+* [https://www.spiegel.de/auto/john-goodenough-lithium-ionen-akku-forscher-und-nobelpreistraeger-gestorben](https://www.spiegel.de/auto/john-goodenough-lithium-ionen-akku-forscher-und-nobelpreistraeger-gestorben-a-2f9fecfe-c79e-4658-8277-cc7d418f353c#ref=rss)
+### russische
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-angriff-auf-lokal-ich-sehe-nur-zerstoerung-angst-und-horror](https://www.spiegel.de/ausland/ukraine-krieg-angriff-auf-lokal-ich-sehe-nur-zerstoerung-angst-und-horror-a-a218c348-06b0-46e0-8a83-65c5ba450fd4#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-putin-general-sergei-surovikin-wusste-offenbar-von-wagner-plaenen](https://www.spiegel.de/ausland/ukraine-krieg-putin-general-sergei-surovikin-wusste-offenbar-von-wagner-plaenen-a-cdc3cb0c-1cc7-4df7-bef3-a9445cd66a90#ref=rss)
+### leben
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-angriff-auf-lokal-ich-sehe-nur-zerstoerung-angst-und-horror](https://www.spiegel.de/ausland/ukraine-krieg-angriff-auf-lokal-ich-sehe-nur-zerstoerung-angst-und-horror-a-a218c348-06b0-46e0-8a83-65c5ba450fd4#ref=rss)
+* [https://www.spiegel.de/panorama/us-bundesstaat-maryland-ex-polizeichef-soll-wegen-brandstiftung-lebenslang-in-haft](https://www.spiegel.de/panorama/us-bundesstaat-maryland-ex-polizeichef-soll-wegen-brandstiftung-lebenslang-in-haft-a-7c8f8f42-311b-473c-92bb-d3e36e9a5170#ref=rss)
+### qatar
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-und-qatar-airways-beenden-umstrittenen-sponsorendeal](https://www.spiegel.de/sport/fussball/fc-bayern-und-qatar-airways-beenden-umstrittenen-sponsorendeal-a-e7df1b4e-b3d8-45b8-91d8-bb45122b95d1#ref=rss)
+### airways
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-und-qatar-airways-beenden-umstrittenen-sponsorendeal](https://www.spiegel.de/sport/fussball/fc-bayern-und-qatar-airways-beenden-umstrittenen-sponsorendeal-a-e7df1b4e-b3d8-45b8-91d8-bb45122b95d1#ref=rss)
+### bundeshaushalt
+
+* [https://www.spiegel.de/wirtschaft/soziales/bundeshaushalt-schulden-steigen-um-38-9-milliarden-euro-im-ersten-quartal](https://www.spiegel.de/wirtschaft/soziales/bundeshaushalt-schulden-steigen-um-38-9-milliarden-euro-im-ersten-quartal-a-35529227-8457-4458-a0c0-98f0fa03f02d#ref=rss)
+### deutlich
+
+* [https://www.spiegel.de/wirtschaft/soziales/bundeshaushalt-schulden-steigen-um-38-9-milliarden-euro-im-ersten-quartal](https://www.spiegel.de/wirtschaft/soziales/bundeshaushalt-schulden-steigen-um-38-9-milliarden-euro-im-ersten-quartal-a-35529227-8457-4458-a0c0-98f0fa03f02d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/kfw-chef-deutschland-droht-trotz-sinkender-preise-keine-immobilienkrise](https://www.spiegel.de/wirtschaft/service/kfw-chef-deutschland-droht-trotz-sinkender-preise-keine-immobilienkrise-a-6e33b674-b562-484d-baaf-c9187fcca48b#ref=rss)
+### allem
+
+* [https://www.spiegel.de/wirtschaft/soziales/bundeshaushalt-schulden-steigen-um-38-9-milliarden-euro-im-ersten-quartal](https://www.spiegel.de/wirtschaft/soziales/bundeshaushalt-schulden-steigen-um-38-9-milliarden-euro-im-ersten-quartal-a-35529227-8457-4458-a0c0-98f0fa03f02d#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-verstrickt-sich-in-dokumentenaffaere-in-immer-neue-widersprueche](https://www.spiegel.de/ausland/donald-trump-verstrickt-sich-in-dokumentenaffaere-in-immer-neue-widersprueche-a-18e8f2ff-519c-4aba-9799-31ade36c7495#ref=rss)
+### kylian
+
+* [https://www.spiegel.de/ausland/frankreich-kylian-mbappe-verurteilt-tod-eines-17-jaehrigen-durch-polizei](https://www.spiegel.de/ausland/frankreich-kylian-mbappe-verurteilt-tod-eines-17-jaehrigen-durch-polizei-a-8b093a29-06aa-4700-aef5-fc7c15addc41#ref=rss)
+### mbappé
+
+* [https://www.spiegel.de/ausland/frankreich-kylian-mbappe-verurteilt-tod-eines-17-jaehrigen-durch-polizei](https://www.spiegel.de/ausland/frankreich-kylian-mbappe-verurteilt-tod-eines-17-jaehrigen-durch-polizei-a-8b093a29-06aa-4700-aef5-fc7c15addc41#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/ausland/frankreich-kylian-mbappe-verurteilt-tod-eines-17-jaehrigen-durch-polizei](https://www.spiegel.de/ausland/frankreich-kylian-mbappe-verurteilt-tod-eines-17-jaehrigen-durch-polizei-a-8b093a29-06aa-4700-aef5-fc7c15addc41#ref=rss)
+* [https://www.spiegel.de/panorama/us-bundesstaat-maryland-ex-polizeichef-soll-wegen-brandstiftung-lebenslang-in-haft](https://www.spiegel.de/panorama/us-bundesstaat-maryland-ex-polizeichef-soll-wegen-brandstiftung-lebenslang-in-haft-a-7c8f8f42-311b-473c-92bb-d3e36e9a5170#ref=rss)
+### john
+
+* [https://www.spiegel.de/auto/john-goodenough-lithium-ionen-akku-forscher-und-nobelpreistraeger-gestorben](https://www.spiegel.de/auto/john-goodenough-lithium-ionen-akku-forscher-und-nobelpreistraeger-gestorben-a-2f9fecfe-c79e-4658-8277-cc7d418f353c#ref=rss)
+### goodenough
+
+* [https://www.spiegel.de/auto/john-goodenough-lithium-ionen-akku-forscher-und-nobelpreistraeger-gestorben](https://www.spiegel.de/auto/john-goodenough-lithium-ionen-akku-forscher-und-nobelpreistraeger-gestorben-a-2f9fecfe-c79e-4658-8277-cc7d418f353c#ref=rss)
 ### deutschen
 
-* [https://www.spiegel.de/wirtschaft/wie-die-deutschen-urlaub-machen-und-wer-es-sich-noch-leisten-kann-spiegel-umfrage](https://www.spiegel.de/wirtschaft/wie-die-deutschen-urlaub-machen-und-wer-es-sich-noch-leisten-kann-spiegel-umfrage-a-caa84a17-0a30-4931-a653-a9480753bb00#ref=rss)
-### urlaub
+* [https://www.spiegel.de/wissenschaft/afd-hoehenflug-die-trumpisierung-der-deutschen-klimadebatte-meinung](https://www.spiegel.de/wissenschaft/afd-hoehenflug-die-trumpisierung-der-deutschen-klimadebatte-meinung-a-8b84e462-fe7f-4e47-9acb-53dc6f1be0b7#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/opentalk-deutscher-videotelefonie-anbieter-will-webex-zoom-und-teams-in-behoerden-ersetzen](https://www.spiegel.de/netzwelt/apps/opentalk-deutscher-videotelefonie-anbieter-will-webex-zoom-und-teams-in-behoerden-ersetzen-a-7089489b-aa73-4e0d-bc34-489961bd2b57#ref=rss)
+### usa
 
-* [https://www.spiegel.de/wirtschaft/wie-die-deutschen-urlaub-machen-und-wer-es-sich-noch-leisten-kann-spiegel-umfrage](https://www.spiegel.de/wirtschaft/wie-die-deutschen-urlaub-machen-und-wer-es-sich-noch-leisten-kann-spiegel-umfrage-a-caa84a17-0a30-4931-a653-a9480753bb00#ref=rss)
-### spiegelumfrage
+* [https://www.spiegel.de/wissenschaft/afd-hoehenflug-die-trumpisierung-der-deutschen-klimadebatte-meinung](https://www.spiegel.de/wissenschaft/afd-hoehenflug-die-trumpisierung-der-deutschen-klimadebatte-meinung-a-8b84e462-fe7f-4e47-9acb-53dc6f1be0b7#ref=rss)
+* [https://www.spiegel.de/panorama/us-bundesstaat-maryland-ex-polizeichef-soll-wegen-brandstiftung-lebenslang-in-haft](https://www.spiegel.de/panorama/us-bundesstaat-maryland-ex-polizeichef-soll-wegen-brandstiftung-lebenslang-in-haft-a-7c8f8f42-311b-473c-92bb-d3e36e9a5170#ref=rss)
+### verbraucher
 
-* [https://www.spiegel.de/wirtschaft/wie-die-deutschen-urlaub-machen-und-wer-es-sich-noch-leisten-kann-spiegel-umfrage](https://www.spiegel.de/wirtschaft/wie-die-deutschen-urlaub-machen-und-wer-es-sich-noch-leisten-kann-spiegel-umfrage-a-caa84a17-0a30-4931-a653-a9480753bb00#ref=rss)
-### megalodon
+* [https://www.spiegel.de/wirtschaft/service/inflation-und-rezession-verunsichern-verbraucher](https://www.spiegel.de/wirtschaft/service/inflation-und-rezession-verunsichern-verbraucher-a-ac27d4f0-21fb-40f9-8197-c225d693f4ef#ref=rss)
+### trump
 
-* [https://www.spiegel.de/wissenschaft/natur/megalodon-zahnschmelz-verraet-koerpertemperatur-von-riesigem-urzeithai](https://www.spiegel.de/wissenschaft/natur/megalodon-zahnschmelz-verraet-koerpertemperatur-von-riesigem-urzeithai-a-29bf4d4e-04ad-4509-b636-6515db22a22e#ref=rss)
-### urzeithai
+* [https://www.spiegel.de/ausland/donald-trump-verstrickt-sich-in-dokumentenaffaere-in-immer-neue-widersprueche](https://www.spiegel.de/ausland/donald-trump-verstrickt-sich-in-dokumentenaffaere-in-immer-neue-widersprueche-a-18e8f2ff-519c-4aba-9799-31ade36c7495#ref=rss)
+### opentalk
 
-* [https://www.spiegel.de/wissenschaft/natur/megalodon-zahnschmelz-verraet-koerpertemperatur-von-riesigem-urzeithai](https://www.spiegel.de/wissenschaft/natur/megalodon-zahnschmelz-verraet-koerpertemperatur-von-riesigem-urzeithai-a-29bf4d4e-04ad-4509-b636-6515db22a22e#ref=rss)
-### sonneberg
+* [https://www.spiegel.de/netzwelt/apps/opentalk-deutscher-videotelefonie-anbieter-will-webex-zoom-und-teams-in-behoerden-ersetzen](https://www.spiegel.de/netzwelt/apps/opentalk-deutscher-videotelefonie-anbieter-will-webex-zoom-und-teams-in-behoerden-ersetzen-a-7089489b-aa73-4e0d-bc34-489961bd2b57#ref=rss)
+### behörden
 
-* [https://www.spiegel.de/panorama/justiz/sonneberg-mutmasslicher-neonazi-verteilt-blaue-luftballons](https://www.spiegel.de/panorama/justiz/sonneberg-mutmasslicher-neonazi-verteilt-blaue-luftballons-a-b843c8c1-1a53-49a7-86f1-2281e8d8e960#ref=rss)
-* [https://www.spiegel.de/panorama/sonneberg-erster-afd-landrat-in-deutschland-welche-macht-hat-das-amt](https://www.spiegel.de/panorama/sonneberg-erster-afd-landrat-in-deutschland-welche-macht-hat-das-amt-a-55068295-18c8-4cd6-84f7-a1e560178730#ref=rss)
-### verteilt
+* [https://www.spiegel.de/netzwelt/apps/opentalk-deutscher-videotelefonie-anbieter-will-webex-zoom-und-teams-in-behoerden-ersetzen](https://www.spiegel.de/netzwelt/apps/opentalk-deutscher-videotelefonie-anbieter-will-webex-zoom-und-teams-in-behoerden-ersetzen-a-7089489b-aa73-4e0d-bc34-489961bd2b57#ref=rss)
+### mieterbund
 
-* [https://www.spiegel.de/panorama/justiz/sonneberg-mutmasslicher-neonazi-verteilt-blaue-luftballons](https://www.spiegel.de/panorama/justiz/sonneberg-mutmasslicher-neonazi-verteilt-blaue-luftballons-a-b843c8c1-1a53-49a7-86f1-2281e8d8e960#ref=rss)
-### pompeji
+* [https://www.spiegel.de/wirtschaft/service/heizungsgesetz-mieterbund-sieht-meilenstein-beim-schutz-vor-kostensteigerungen](https://www.spiegel.de/wirtschaft/service/heizungsgesetz-mieterbund-sieht-meilenstein-beim-schutz-vor-kostensteigerungen-a-0171c2fa-d541-49d5-b500-4bf26ca24795#ref=rss)
+### brandstiftung
 
-* [https://www.spiegel.de/wissenschaft/pompeji-spektakulaerer-fund-ist-dies-die-erste-pizza-der-menschheit](https://www.spiegel.de/wissenschaft/pompeji-spektakulaerer-fund-ist-dies-die-erste-pizza-der-menschheit-a-30bc5835-1a03-4cdc-8bea-28f4948e223b#ref=rss)
-### pizza
+* [https://www.spiegel.de/panorama/us-bundesstaat-maryland-ex-polizeichef-soll-wegen-brandstiftung-lebenslang-in-haft](https://www.spiegel.de/panorama/us-bundesstaat-maryland-ex-polizeichef-soll-wegen-brandstiftung-lebenslang-in-haft-a-7c8f8f42-311b-473c-92bb-d3e36e9a5170#ref=rss)
+### häuser
 
-* [https://www.spiegel.de/wissenschaft/pompeji-spektakulaerer-fund-ist-dies-die-erste-pizza-der-menschheit](https://www.spiegel.de/wissenschaft/pompeji-spektakulaerer-fund-ist-dies-die-erste-pizza-der-menschheit-a-30bc5835-1a03-4cdc-8bea-28f4948e223b#ref=rss)
-### beliebten
-
-* [https://www.spiegel.de/wissenschaft/pompeji-spektakulaerer-fund-ist-dies-die-erste-pizza-der-menschheit](https://www.spiegel.de/wissenschaft/pompeji-spektakulaerer-fund-ist-dies-die-erste-pizza-der-menschheit-a-30bc5835-1a03-4cdc-8bea-28f4948e223b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/usa-schuesse-in-lgbtq-klub-in-colorado-2200-jahre-haft-fuer-angeklagte-person](https://www.spiegel.de/panorama/justiz/usa-schuesse-in-lgbtq-klub-in-colorado-2200-jahre-haft-fuer-angeklagte-person-a-2ff372c7-6440-4ed5-ba9a-229e5c8724f3#ref=rss)
-### person
-
-* [https://www.spiegel.de/panorama/justiz/usa-schuesse-in-lgbtq-klub-in-colorado-2200-jahre-haft-fuer-angeklagte-person](https://www.spiegel.de/panorama/justiz/usa-schuesse-in-lgbtq-klub-in-colorado-2200-jahre-haft-fuer-angeklagte-person-a-2ff372c7-6440-4ed5-ba9a-229e5c8724f3#ref=rss)
-### rupert
-
-* [https://www.spiegel.de/wirtschaft/rupert-stadler-urteil-gegen-ex-audi-boss-die-massiven-fehler-in-der-aufklaerung-des-dieselskandals](https://www.spiegel.de/wirtschaft/rupert-stadler-urteil-gegen-ex-audi-boss-die-massiven-fehler-in-der-aufklaerung-des-dieselskandals-a-72b455c8-151f-460d-9e50-e6dd6e7ace0a#ref=rss)
-### stadler
-
-* [https://www.spiegel.de/wirtschaft/rupert-stadler-urteil-gegen-ex-audi-boss-die-massiven-fehler-in-der-aufklaerung-des-dieselskandals](https://www.spiegel.de/wirtschaft/rupert-stadler-urteil-gegen-ex-audi-boss-die-massiven-fehler-in-der-aufklaerung-des-dieselskandals-a-72b455c8-151f-460d-9e50-e6dd6e7ace0a#ref=rss)
-### davon
-
-* [https://www.spiegel.de/wirtschaft/rupert-stadler-urteil-gegen-ex-audi-boss-die-massiven-fehler-in-der-aufklaerung-des-dieselskandals](https://www.spiegel.de/wirtschaft/rupert-stadler-urteil-gegen-ex-audi-boss-die-massiven-fehler-in-der-aufklaerung-des-dieselskandals-a-72b455c8-151f-460d-9e50-e6dd6e7ace0a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-klimaaktivistin-zu-geldstrafe-verurteilt-gemaelde-klebeaktion-und-strassenblockaden](https://www.spiegel.de/panorama/justiz/berlin-klimaaktivistin-zu-geldstrafe-verurteilt-gemaelde-klebeaktion-und-strassenblockaden-a-cf8fa99f-ba2e-4a19-ac14-956c11a26abb#ref=rss)
+* [https://www.spiegel.de/panorama/us-bundesstaat-maryland-ex-polizeichef-soll-wegen-brandstiftung-lebenslang-in-haft](https://www.spiegel.de/panorama/us-bundesstaat-maryland-ex-polizeichef-soll-wegen-brandstiftung-lebenslang-in-haft-a-7c8f8f42-311b-473c-92bb-d3e36e9a5170#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/kfw-chef-deutschland-droht-trotz-sinkender-preise-keine-immobilienkrise](https://www.spiegel.de/wirtschaft/service/kfw-chef-deutschland-droht-trotz-sinkender-preise-keine-immobilienkrise-a-6e33b674-b562-484d-baaf-c9187fcca48b#ref=rss)
 
