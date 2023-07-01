@@ -4,242 +4,331 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
+### menschen
 
-* [https://www.spiegel.de/ausland/frontex-chef-erhoeht-den-druck-auf-griechische-regierung](https://www.spiegel.de/ausland/frontex-chef-erhoeht-den-druck-auf-griechische-regierung-a-7f5cadd2-187a-47a9-a5f1-be11546d91c8#ref=rss)
-* [https://www.spiegel.de/ausland/usa-supreme-court-kippt-joe-bidens-teilerlass-von-studienkrediten](https://www.spiegel.de/ausland/usa-supreme-court-kippt-joe-bidens-teilerlass-von-studienkrediten-a-46e1e63f-86bb-4bc9-bd09-996a88808b28#ref=rss)
-* [https://www.spiegel.de/ausland/bolsonaro-richter-in-brasilien-beschliessen-amtsverbot-fuer-ex-praesident](https://www.spiegel.de/ausland/bolsonaro-richter-in-brasilien-beschliessen-amtsverbot-fuer-ex-praesident-a-9b3dff40-e082-4bef-9148-764228739e03#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/muenster-kran-besetzer-zu-freiheitsstrafe-von-mehr-als-zwei-jahren-verurteilt](https://www.spiegel.de/panorama/justiz/muenster-kran-besetzer-zu-freiheitsstrafe-von-mehr-als-zwei-jahren-verurteilt-a-9d4bc2f9-da6d-4a9a-b550-d48a3ef71e88#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-busse-und-strassenbahnen-sollen-abends-stillstehen](https://www.spiegel.de/ausland/frankreich-busse-und-strassenbahnen-sollen-abends-stillstehen-a-1dc0e947-c0ab-482c-a55b-9dfb7bf30600#ref=rss)
-* [https://www.spiegel.de/ausland/affirmative-action-supreme-court-urteil-zur-studierendenauswahl-in-den-usa-der-ueberblick](https://www.spiegel.de/ausland/affirmative-action-supreme-court-urteil-zur-studierendenauswahl-in-den-usa-der-ueberblick-a-890969d3-6a7b-4cb6-bb91-fde0513c9f87#ref=rss)
-* [https://www.spiegel.de/kultur/tv/sky-deutschland-stellt-serienproduktion-ein-abgesoffen-im-streaming-ozean](https://www.spiegel.de/kultur/tv/sky-deutschland-stellt-serienproduktion-ein-abgesoffen-im-streaming-ozean-a-74a98fbb-b9ed-449c-9dc0-51dd6f3c390b#ref=rss)
-### mann
+* [https://www.spiegel.de/panorama/bielefeld-gas-in-supermarkt-verursacht-atemwegsreizungen](https://www.spiegel.de/panorama/bielefeld-gas-in-supermarkt-verursacht-atemwegsreizungen-a-c243ab2c-4055-4b9d-8988-cf376b514213#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/ukraine-krieg-klimakrise-inflation-deutschlands-alleingelassene-jugend](https://www.spiegel.de/panorama/bildung/ukraine-krieg-klimakrise-inflation-deutschlands-alleingelassene-jugend-a-3e076ac3-b238-4ce2-9b61-eabd26be1eef#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/ukraine-krieg-klimakrise-inflation-vier-junge-menschen-erzaehlen-von-ihren-problemen](https://www.spiegel.de/panorama/bildung/ukraine-krieg-klimakrise-inflation-vier-junge-menschen-erzaehlen-von-ihren-problemen-a-1f85de15-9351-4529-8f49-2ceeb3624326#ref=rss)
+* [https://www.spiegel.de/wirtschaft/corona-209-schadenersatzklagen-gegen-impfstoff-hersteller](https://www.spiegel.de/wirtschaft/corona-209-schadenersatzklagen-gegen-impfstoff-hersteller-a-8d2a042e-069b-4279-99e3-ca98595fbb22#ref=rss)
+### junge
 
-* [https://www.spiegel.de/panorama/leute/wien-pink-verflucht-fahrraddieb-mountainbikes-von-mann-und-kind-weg](https://www.spiegel.de/panorama/leute/wien-pink-verflucht-fahrraddieb-mountainbikes-von-mann-und-kind-weg-a-fa59c492-e01d-48c7-a01d-3de8ac883cee#ref=rss)
-* [https://www.spiegel.de/ausland/koran-verbrennung-in-schweden-fuehrt-zu-erneuten-protesten-im-irak](https://www.spiegel.de/ausland/koran-verbrennung-in-schweden-fuehrt-zu-erneuten-protesten-im-irak-a-572ae35b-7644-4fd3-9c5e-42d110776d4a#ref=rss)
-* [https://www.spiegel.de/panorama/lueneburg-erzieher-gesteht-sexuellen-missbrauch-von-kindern](https://www.spiegel.de/panorama/lueneburg-erzieher-gesteht-sexuellen-missbrauch-von-kindern-a-2668ce55-435b-4f29-9fc8-3f086b8fd99c#ref=rss)
-### usa
+* [https://www.spiegel.de/panorama/bildung/ukraine-krieg-klimakrise-inflation-deutschlands-alleingelassene-jugend](https://www.spiegel.de/panorama/bildung/ukraine-krieg-klimakrise-inflation-deutschlands-alleingelassene-jugend-a-3e076ac3-b238-4ce2-9b61-eabd26be1eef#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/ukraine-krieg-klimakrise-inflation-vier-junge-menschen-erzaehlen-von-ihren-problemen](https://www.spiegel.de/panorama/bildung/ukraine-krieg-klimakrise-inflation-vier-junge-menschen-erzaehlen-von-ihren-problemen-a-1f85de15-9351-4529-8f49-2ceeb3624326#ref=rss)
+* [https://www.spiegel.de/panorama/hamburger-hafen-einbrecher-dringen-serienweise-in-containerterminal-ein](https://www.spiegel.de/panorama/hamburger-hafen-einbrecher-dringen-serienweise-in-containerterminal-ein-a-67a29fa3-4e0b-4848-852a-e005f3a79315#ref=rss)
+* [https://www.spiegel.de/start/sparen-aktien-oder-alles-ausgeben-junge-erwachsene-ueber-ihren-umgang-mit-geld](https://www.spiegel.de/start/sparen-aktien-oder-alles-ausgeben-junge-erwachsene-ueber-ihren-umgang-mit-geld-a-7d9d029a-319e-4d45-8960-74a4f3cd7575#ref=rss)
+### unter
 
-* [https://www.spiegel.de/ausland/usa-supreme-court-weicht-schutz-fuer-gleichgeschlechtliche-paare-auf](https://www.spiegel.de/ausland/usa-supreme-court-weicht-schutz-fuer-gleichgeschlechtliche-paare-auf-a-d30fcba0-9778-4b53-a787-0b8cf627de59#ref=rss)
-* [https://www.spiegel.de/ausland/usa-supreme-court-kippt-joe-bidens-teilerlass-von-studienkrediten](https://www.spiegel.de/ausland/usa-supreme-court-kippt-joe-bidens-teilerlass-von-studienkrediten-a-46e1e63f-86bb-4bc9-bd09-996a88808b28#ref=rss)
-* [https://www.spiegel.de/ausland/affirmative-action-supreme-court-urteil-zur-studierendenauswahl-in-den-usa-der-ueberblick](https://www.spiegel.de/ausland/affirmative-action-supreme-court-urteil-zur-studierendenauswahl-in-den-usa-der-ueberblick-a-890969d3-6a7b-4cb6-bb91-fde0513c9f87#ref=rss)
-### jahren
+* [https://www.spiegel.de/ausland/russland-ukraine-news-cherson-london-bestaetigt-ukrainischen-brueckenkopf-am-linken-ufer-des-dnjepr](https://www.spiegel.de/ausland/russland-ukraine-news-cherson-london-bestaetigt-ukrainischen-brueckenkopf-am-linken-ufer-des-dnjepr-a-5dc8b8fc-97d6-4ceb-9acb-42143c189c49#ref=rss)
+* [https://www.spiegel.de/ausland/deutschland-oesterreich-und-italien-streit-ueber-die-brenner-route](https://www.spiegel.de/ausland/deutschland-oesterreich-und-italien-streit-ueber-die-brenner-route-a-f8c6b059-f276-4f29-9ab7-5eb900c852d7#ref=rss)
+* [https://www.spiegel.de/familie/schwitzen-wie-wir-schweiss-reduzieren-podcast-mit-christoph-schick](https://www.spiegel.de/familie/schwitzen-wie-wir-schweiss-reduzieren-podcast-mit-christoph-schick-a-ba4a3e92-3d6a-49ad-8f7e-b92826cf0a30#ref=rss)
+### italien
 
-* [https://www.spiegel.de/kultur/kino/alan-arkin-ist-tot-oscar-gewinner-in-little-miss-sunshine](https://www.spiegel.de/kultur/kino/alan-arkin-ist-tot-oscar-gewinner-in-little-miss-sunshine-a-1fb76821-c74d-42ae-9951-1af0090e864d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/muenster-kran-besetzer-zu-freiheitsstrafe-von-mehr-als-zwei-jahren-verurteilt](https://www.spiegel.de/panorama/justiz/muenster-kran-besetzer-zu-freiheitsstrafe-von-mehr-als-zwei-jahren-verurteilt-a-9d4bc2f9-da6d-4a9a-b550-d48a3ef71e88#ref=rss)
-* [https://www.spiegel.de/panorama/lueneburg-erzieher-gesteht-sexuellen-missbrauch-von-kindern](https://www.spiegel.de/panorama/lueneburg-erzieher-gesteht-sexuellen-missbrauch-von-kindern-a-2668ce55-435b-4f29-9fc8-3f086b8fd99c#ref=rss)
-### juni
+* [https://www.spiegel.de/ausland/deutschland-oesterreich-und-italien-streit-ueber-die-brenner-route](https://www.spiegel.de/ausland/deutschland-oesterreich-und-italien-streit-ueber-die-brenner-route-a-f8c6b059-f276-4f29-9ab7-5eb900c852d7#ref=rss)
+* [https://www.spiegel.de/reise/gipfelkreuze-kulturkampf-in-tirol-und-italien](https://www.spiegel.de/reise/gipfelkreuze-kulturkampf-in-tirol-und-italien-a-6260f1a5-162a-4de8-bde1-cb0aef204aa7#ref=rss)
+### zukunft
 
-* [https://www.spiegel.de/wissenschaft/natur/waldbrand-in-mecklenburg-vorpommern-ein-meer-aus-asche](https://www.spiegel.de/wissenschaft/natur/waldbrand-in-mecklenburg-vorpommern-ein-meer-aus-asche-a-1cb8b439-900b-4013-b685-72b6c21311d0#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-heute-kiew-spricht-von-teilerfolgen-in-suedukraine](https://www.spiegel.de/ausland/russland-ukraine-krieg-heute-kiew-spricht-von-teilerfolgen-in-suedukraine-a-9eb54ee8-65bd-4cc8-853d-cdda6dd048f8#ref=rss)
-### polen
+* [https://www.spiegel.de/sport/fussball/fussball-transferticker-dominik-szoboszlai-wechselt-wohl-von-rb-leipzig-zum-fc-liverpool](https://www.spiegel.de/sport/fussball/fussball-transferticker-dominik-szoboszlai-wechselt-wohl-von-rb-leipzig-zum-fc-liverpool-a-14a66880-a90b-40c2-ab1c-ffd9654fa2e5#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/ukraine-krieg-klimakrise-inflation-deutschlands-alleingelassene-jugend](https://www.spiegel.de/panorama/bildung/ukraine-krieg-klimakrise-inflation-deutschlands-alleingelassene-jugend-a-3e076ac3-b238-4ce2-9b61-eabd26be1eef#ref=rss)
+### wut
 
-* [https://www.spiegel.de/politik/deutschland/migrations-eklat-beim-eu-gipfel-retourkutsche-aus-dem-osten](https://www.spiegel.de/politik/deutschland/migrations-eklat-beim-eu-gipfel-retourkutsche-aus-dem-osten-a-bba53021-9705-4405-87fb-2cd1c5513b71#ref=rss)
-* [https://www.spiegel.de/politik/asyl-blockierer-ungarn-und-polen-wer-sich-weigert-muss-zahlen-kommentar](https://www.spiegel.de/politik/asyl-blockierer-ungarn-und-polen-wer-sich-weigert-muss-zahlen-kommentar-a-d58e60ca-ccaf-4035-98f7-fc6c842ea70c#ref=rss)
-### ungarn
+* [https://www.spiegel.de/ausland/frankreich-proteste-gegen-polizeigewalt-ausweitung-der-problemzone](https://www.spiegel.de/ausland/frankreich-proteste-gegen-polizeigewalt-ausweitung-der-problemzone-a-e573fd71-3a9c-4c66-b1bc-776073135f60#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/reise-in-die-unbekannte-heimat](https://www.spiegel.de/politik/deutschland/reise-in-die-unbekannte-heimat-a-47d3ebbc-ac7c-47c5-9b76-4455145dfddc#ref=rss)
+### waren
 
-* [https://www.spiegel.de/politik/deutschland/migrations-eklat-beim-eu-gipfel-retourkutsche-aus-dem-osten](https://www.spiegel.de/politik/deutschland/migrations-eklat-beim-eu-gipfel-retourkutsche-aus-dem-osten-a-bba53021-9705-4405-87fb-2cd1c5513b71#ref=rss)
-* [https://www.spiegel.de/politik/asyl-blockierer-ungarn-und-polen-wer-sich-weigert-muss-zahlen-kommentar](https://www.spiegel.de/politik/asyl-blockierer-ungarn-und-polen-wer-sich-weigert-muss-zahlen-kommentar-a-d58e60ca-ccaf-4035-98f7-fc6c842ea70c#ref=rss)
+* [https://www.spiegel.de/panorama/zelten-wer-luxus-mag-muss-campen-gehen](https://www.spiegel.de/panorama/zelten-wer-luxus-mag-muss-campen-gehen-a-efb1d0fe-9ad8-45cd-9509-ef333d9f1857#ref=rss)
+* [https://www.spiegel.de/familie/rechnen-und-dyskalkulie-wie-mein-sohn-den-umgang-mit-zahlen-lernt](https://www.spiegel.de/familie/rechnen-und-dyskalkulie-wie-mein-sohn-den-umgang-mit-zahlen-lernt-a-8b01182f-7eb8-43c5-aa31-3e8a3714b1d0#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-nahverkehr-ruht-die-unruhen-halten-vierte-nacht-in-folge-an](https://www.spiegel.de/ausland/frankreich-nahverkehr-ruht-die-unruhen-halten-vierte-nacht-in-folge-an-a-b4c08cf8-ad1d-4a46-a313-4b91b3749e9c#ref=rss)
+### woche
+
+* [https://www.spiegel.de/panorama/die-bilder-der-woche-50-meter-freistil-das-muehltalbad-in-darmstadt](https://www.spiegel.de/panorama/die-bilder-der-woche-50-meter-freistil-das-muehltalbad-in-darmstadt-a-fb6c37b8-d2e2-41f1-8562-d641589ddb87#ref=rss)
+* [https://www.spiegel.de/ausland/newsletter-fuer-gute-nachrichten-catherine-27-spricht-ueber-sex-wie-sonst-niemand-in-kambodscha](https://www.spiegel.de/ausland/newsletter-fuer-gute-nachrichten-catherine-27-spricht-ueber-sex-wie-sonst-niemand-in-kambodscha-a-2671f1cb-2a0c-4013-9c99-0334dedfa0dd#ref=rss)
+### wir
+
+* [https://www.spiegel.de/ausland/newsletter-fuer-gute-nachrichten-catherine-27-spricht-ueber-sex-wie-sonst-niemand-in-kambodscha](https://www.spiegel.de/ausland/newsletter-fuer-gute-nachrichten-catherine-27-spricht-ueber-sex-wie-sonst-niemand-in-kambodscha-a-2671f1cb-2a0c-4013-9c99-0334dedfa0dd#ref=rss)
+* [https://www.spiegel.de/familie/schwitzen-wie-wir-schweiss-reduzieren-podcast-mit-christoph-schick](https://www.spiegel.de/familie/schwitzen-wie-wir-schweiss-reduzieren-podcast-mit-christoph-schick-a-ba4a3e92-3d6a-49ad-8f7e-b92826cf0a30#ref=rss)
+### friedrichstraße
+
+* [https://www.spiegel.de/auto/friedrichstrasse-in-berlin-auto-und-stadt-versoehnen-nur-ein-frommer-wunsch](https://www.spiegel.de/auto/friedrichstrasse-in-berlin-auto-und-stadt-versoehnen-nur-ein-frommer-wunsch-a-109970a7-df5c-4f0c-8389-9e6236b19f7c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-cdu-chef-friedrich-merz-und-die-gruenen-berliner-friedrichstrasse-putins-reich](https://www.spiegel.de/politik/deutschland/news-cdu-chef-friedrich-merz-und-die-gruenen-berliner-friedrichstrasse-putins-reich-a-aff057e5-4db6-4055-8d12-85cf8bc1fe2c#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/auto/friedrichstrasse-in-berlin-auto-und-stadt-versoehnen-nur-ein-frommer-wunsch](https://www.spiegel.de/auto/friedrichstrasse-in-berlin-auto-und-stadt-versoehnen-nur-ein-frommer-wunsch-a-109970a7-df5c-4f0c-8389-9e6236b19f7c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-cdu-chef-friedrich-merz-und-die-gruenen-berliner-friedrichstrasse-putins-reich](https://www.spiegel.de/politik/deutschland/news-cdu-chef-friedrich-merz-und-die-gruenen-berliner-friedrichstrasse-putins-reich-a-aff057e5-4db6-4055-8d12-85cf8bc1fe2c#ref=rss)
+### geld
+
+* [https://www.spiegel.de/sport/basketball/basketball-nba-profi-dennis-schroeder-wechselt-zu-den-toronto-raptors](https://www.spiegel.de/sport/basketball/basketball-nba-profi-dennis-schroeder-wechselt-zu-den-toronto-raptors-a-e79d69ab-d119-4721-8264-3c2798a37411#ref=rss)
+* [https://www.spiegel.de/start/sparen-aktien-oder-alles-ausgeben-junge-erwachsene-ueber-ihren-umgang-mit-geld](https://www.spiegel.de/start/sparen-aktien-oder-alles-ausgeben-junge-erwachsene-ueber-ihren-umgang-mit-geld-a-7d9d029a-319e-4d45-8960-74a4f3cd7575#ref=rss)
+### gas
+
+* [https://www.spiegel.de/panorama/bielefeld-gas-in-supermarkt-verursacht-atemwegsreizungen](https://www.spiegel.de/panorama/bielefeld-gas-in-supermarkt-verursacht-atemwegsreizungen-a-c243ab2c-4055-4b9d-8988-cf376b514213#ref=rss)
+### bisher
+
+* [https://www.spiegel.de/panorama/bielefeld-gas-in-supermarkt-verursacht-atemwegsreizungen](https://www.spiegel.de/panorama/bielefeld-gas-in-supermarkt-verursacht-atemwegsreizungen-a-c243ab2c-4055-4b9d-8988-cf376b514213#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-news-atombehoerde-findet-bislang-keine-minen-im-akw-saporischschja](https://www.spiegel.de/ausland/russland-ukraine-news-atombehoerde-findet-bislang-keine-minen-im-akw-saporischschja-a-a8e5261c-45fb-47f3-bd6e-f623c63e6389#ref=rss)
+### folge
+
+* [https://www.spiegel.de/panorama/bielefeld-gas-in-supermarkt-verursacht-atemwegsreizungen](https://www.spiegel.de/panorama/bielefeld-gas-in-supermarkt-verursacht-atemwegsreizungen-a-c243ab2c-4055-4b9d-8988-cf376b514213#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-nahverkehr-ruht-die-unruhen-halten-vierte-nacht-in-folge-an](https://www.spiegel.de/ausland/frankreich-nahverkehr-ruht-die-unruhen-halten-vierte-nacht-in-folge-an-a-b4c08cf8-ad1d-4a46-a313-4b91b3749e9c#ref=rss)
+### russlandukrainenews
+
+* [https://www.spiegel.de/ausland/russland-ukraine-news-cherson-london-bestaetigt-ukrainischen-brueckenkopf-am-linken-ufer-des-dnjepr](https://www.spiegel.de/ausland/russland-ukraine-news-cherson-london-bestaetigt-ukrainischen-brueckenkopf-am-linken-ufer-des-dnjepr-a-5dc8b8fc-97d6-4ceb-9acb-42143c189c49#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-news-atombehoerde-findet-bislang-keine-minen-im-akw-saporischschja](https://www.spiegel.de/ausland/russland-ukraine-news-atombehoerde-findet-bislang-keine-minen-im-akw-saporischschja-a-a8e5261c-45fb-47f3-bd6e-f623c63e6389#ref=rss)
+### cherson
+
+* [https://www.spiegel.de/ausland/russland-ukraine-news-cherson-london-bestaetigt-ukrainischen-brueckenkopf-am-linken-ufer-des-dnjepr](https://www.spiegel.de/ausland/russland-ukraine-news-cherson-london-bestaetigt-ukrainischen-brueckenkopf-am-linken-ufer-des-dnjepr-a-5dc8b8fc-97d6-4ceb-9acb-42143c189c49#ref=rss)
+### ufer
+
+* [https://www.spiegel.de/ausland/russland-ukraine-news-cherson-london-bestaetigt-ukrainischen-brueckenkopf-am-linken-ufer-des-dnjepr](https://www.spiegel.de/ausland/russland-ukraine-news-cherson-london-bestaetigt-ukrainischen-brueckenkopf-am-linken-ufer-des-dnjepr-a-5dc8b8fc-97d6-4ceb-9acb-42143c189c49#ref=rss)
+### dnjepr
+
+* [https://www.spiegel.de/ausland/russland-ukraine-news-cherson-london-bestaetigt-ukrainischen-brueckenkopf-am-linken-ufer-des-dnjepr](https://www.spiegel.de/ausland/russland-ukraine-news-cherson-london-bestaetigt-ukrainischen-brueckenkopf-am-linken-ufer-des-dnjepr-a-5dc8b8fc-97d6-4ceb-9acb-42143c189c49#ref=rss)
+### dürfte
+
+* [https://www.spiegel.de/ausland/russland-ukraine-news-cherson-london-bestaetigt-ukrainischen-brueckenkopf-am-linken-ufer-des-dnjepr](https://www.spiegel.de/ausland/russland-ukraine-news-cherson-london-bestaetigt-ukrainischen-brueckenkopf-am-linken-ufer-des-dnjepr-a-5dc8b8fc-97d6-4ceb-9acb-42143c189c49#ref=rss)
+* [https://www.spiegel.de/sport/basketball/basketball-nba-profi-dennis-schroeder-wechselt-zu-den-toronto-raptors](https://www.spiegel.de/sport/basketball/basketball-nba-profi-dennis-schroeder-wechselt-zu-den-toronto-raptors-a-e79d69ab-d119-4721-8264-3c2798a37411#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/ausland/deutschland-oesterreich-und-italien-streit-ueber-die-brenner-route](https://www.spiegel.de/ausland/deutschland-oesterreich-und-italien-streit-ueber-die-brenner-route-a-f8c6b059-f276-4f29-9ab7-5eb900c852d7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/corona-209-schadenersatzklagen-gegen-impfstoff-hersteller](https://www.spiegel.de/wirtschaft/corona-209-schadenersatzklagen-gegen-impfstoff-hersteller-a-8d2a042e-069b-4279-99e3-ca98595fbb22#ref=rss)
+### österreich
+
+* [https://www.spiegel.de/ausland/deutschland-oesterreich-und-italien-streit-ueber-die-brenner-route](https://www.spiegel.de/ausland/deutschland-oesterreich-und-italien-streit-ueber-die-brenner-route-a-f8c6b059-f276-4f29-9ab7-5eb900c852d7#ref=rss)
+### brennerroute
+
+* [https://www.spiegel.de/ausland/deutschland-oesterreich-und-italien-streit-ueber-die-brenner-route](https://www.spiegel.de/ausland/deutschland-oesterreich-und-italien-streit-ueber-die-brenner-route-a-f8c6b059-f276-4f29-9ab7-5eb900c852d7#ref=rss)
+### europas
+
+* [https://www.spiegel.de/ausland/deutschland-oesterreich-und-italien-streit-ueber-die-brenner-route](https://www.spiegel.de/ausland/deutschland-oesterreich-und-italien-streit-ueber-die-brenner-route-a-f8c6b059-f276-4f29-9ab7-5eb900c852d7#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-news-atombehoerde-findet-bislang-keine-minen-im-akw-saporischschja](https://www.spiegel.de/ausland/russland-ukraine-news-atombehoerde-findet-bislang-keine-minen-im-akw-saporischschja-a-a8e5261c-45fb-47f3-bd6e-f623c63e6389#ref=rss)
+### tirol
+
+* [https://www.spiegel.de/ausland/deutschland-oesterreich-und-italien-streit-ueber-die-brenner-route](https://www.spiegel.de/ausland/deutschland-oesterreich-und-italien-streit-ueber-die-brenner-route-a-f8c6b059-f276-4f29-9ab7-5eb900c852d7#ref=rss)
+* [https://www.spiegel.de/reise/gipfelkreuze-kulturkampf-in-tirol-und-italien](https://www.spiegel.de/reise/gipfelkreuze-kulturkampf-in-tirol-und-italien-a-6260f1a5-162a-4de8-bde1-cb0aef204aa7#ref=rss)
+### größte
+
+* [https://www.spiegel.de/ausland/deutschland-oesterreich-und-italien-streit-ueber-die-brenner-route](https://www.spiegel.de/ausland/deutschland-oesterreich-und-italien-streit-ueber-die-brenner-route-a-f8c6b059-f276-4f29-9ab7-5eb900c852d7#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-news-atombehoerde-findet-bislang-keine-minen-im-akw-saporischschja](https://www.spiegel.de/ausland/russland-ukraine-news-atombehoerde-findet-bislang-keine-minen-im-akw-saporischschja-a-a8e5261c-45fb-47f3-bd6e-f623c63e6389#ref=rss)
+### wechselt
+
+* [https://www.spiegel.de/sport/fussball/fussball-transferticker-dominik-szoboszlai-wechselt-wohl-von-rb-leipzig-zum-fc-liverpool](https://www.spiegel.de/sport/fussball/fussball-transferticker-dominik-szoboszlai-wechselt-wohl-von-rb-leipzig-zum-fc-liverpool-a-14a66880-a90b-40c2-ab1c-ffd9654fa2e5#ref=rss)
+* [https://www.spiegel.de/sport/basketball/basketball-nba-profi-dennis-schroeder-wechselt-zu-den-toronto-raptors](https://www.spiegel.de/sport/basketball/basketball-nba-profi-dennis-schroeder-wechselt-zu-den-toronto-raptors-a-e79d69ab-d119-4721-8264-3c2798a37411#ref=rss)
+### rb
+
+* [https://www.spiegel.de/sport/fussball/fussball-transferticker-dominik-szoboszlai-wechselt-wohl-von-rb-leipzig-zum-fc-liverpool](https://www.spiegel.de/sport/fussball/fussball-transferticker-dominik-szoboszlai-wechselt-wohl-von-rb-leipzig-zum-fc-liverpool-a-14a66880-a90b-40c2-ab1c-ffd9654fa2e5#ref=rss)
+### leipzig
+
+* [https://www.spiegel.de/sport/fussball/fussball-transferticker-dominik-szoboszlai-wechselt-wohl-von-rb-leipzig-zum-fc-liverpool](https://www.spiegel.de/sport/fussball/fussball-transferticker-dominik-szoboszlai-wechselt-wohl-von-rb-leipzig-zum-fc-liverpool-a-14a66880-a90b-40c2-ab1c-ffd9654fa2e5#ref=rss)
+### wichtigsten
+
+* [https://www.spiegel.de/sport/fussball/fussball-transferticker-dominik-szoboszlai-wechselt-wohl-von-rb-leipzig-zum-fc-liverpool](https://www.spiegel.de/sport/fussball/fussball-transferticker-dominik-szoboszlai-wechselt-wohl-von-rb-leipzig-zum-fc-liverpool-a-14a66880-a90b-40c2-ab1c-ffd9654fa2e5#ref=rss)
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
 ### frankreich
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-frankreich-bnd-und-russland-ambulante-hilfsdienste](https://www.spiegel.de/politik/deutschland/news-des-tages-frankreich-bnd-und-russland-ambulante-hilfsdienste-a-58147896-74ab-4039-be7a-8a01ba694f35#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-busse-und-strassenbahnen-sollen-abends-stillstehen](https://www.spiegel.de/ausland/frankreich-busse-und-strassenbahnen-sollen-abends-stillstehen-a-1dc0e947-c0ab-482c-a55b-9dfb7bf30600#ref=rss)
-### frauen
+* [https://www.spiegel.de/ausland/frankreich-proteste-gegen-polizeigewalt-ausweitung-der-problemzone](https://www.spiegel.de/ausland/frankreich-proteste-gegen-polizeigewalt-ausweitung-der-problemzone-a-e573fd71-3a9c-4c66-b1bc-776073135f60#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-nahverkehr-ruht-die-unruhen-halten-vierte-nacht-in-folge-an](https://www.spiegel.de/ausland/frankreich-nahverkehr-ruht-die-unruhen-halten-vierte-nacht-in-folge-an-a-b4c08cf8-ad1d-4a46-a313-4b91b3749e9c#ref=rss)
+### proteste
 
-* [https://www.spiegel.de/ausland/unicef-chefin-catherine-russell-die-welt-laesst-die-haitianer-im-stich](https://www.spiegel.de/ausland/unicef-chefin-catherine-russell-die-welt-laesst-die-haitianer-im-stich-a-7133ce8e-a780-4cb2-aeba-1b4696166f02#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2022-fifa-erlaubt-bunte-kapitaensbinden-regenbogenbinde-verboten](https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2022-fifa-erlaubt-bunte-kapitaensbinden-regenbogenbinde-verboten-a-71534bf6-ce7b-473f-9e27-00dbd755acd8#ref=rss)
-### heizungsgesetz
+* [https://www.spiegel.de/ausland/frankreich-proteste-gegen-polizeigewalt-ausweitung-der-problemzone](https://www.spiegel.de/ausland/frankreich-proteste-gegen-polizeigewalt-ausweitung-der-problemzone-a-e573fd71-3a9c-4c66-b1bc-776073135f60#ref=rss)
+### polizeigewalt
 
-* [https://www.spiegel.de/wirtschaft/service/was-im-heizungsgesetz-steht-und-was-das-fuer-hauseigentuemer-und-mieter-bedeutet](https://www.spiegel.de/wirtschaft/service/was-im-heizungsgesetz-steht-und-was-das-fuer-hauseigentuemer-und-mieter-bedeutet-a-613d1584-69fe-4bf7-b6ee-ac4c986b53dc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/heizungsgesetz-gruener-jan-niclas-gesenhues-kritisiert-foerderung-fuer-holzheizungen-verkehrtes-signal](https://www.spiegel.de/politik/deutschland/heizungsgesetz-gruener-jan-niclas-gesenhues-kritisiert-foerderung-fuer-holzheizungen-verkehrtes-signal-a-204a234f-7d2d-46a2-b134-ee32b00bbf95#ref=rss)
-### acht
-
-* [https://www.spiegel.de/panorama/justiz/muenster-kran-besetzer-zu-freiheitsstrafe-von-mehr-als-zwei-jahren-verurteilt](https://www.spiegel.de/panorama/justiz/muenster-kran-besetzer-zu-freiheitsstrafe-von-mehr-als-zwei-jahren-verurteilt-a-9d4bc2f9-da6d-4a9a-b550-d48a3ef71e88#ref=rss)
-* [https://www.spiegel.de/reise/fernweh/brettspiele-wie-rutsch-und-flutsch-meadow-oder-zank-am-zaun-acht-tipps-fuer-den-sommer](https://www.spiegel.de/reise/fernweh/brettspiele-wie-rutsch-und-flutsch-meadow-oder-zank-am-zaun-acht-tipps-fuer-den-sommer-a-8eb20a77-a87b-4f62-aa8c-d771e3299d6e#ref=rss)
-### wien
-
-* [https://www.spiegel.de/panorama/leute/wien-pink-verflucht-fahrraddieb-mountainbikes-von-mann-und-kind-weg](https://www.spiegel.de/panorama/leute/wien-pink-verflucht-fahrraddieb-mountainbikes-von-mann-und-kind-weg-a-fa59c492-e01d-48c7-a01d-3de8ac883cee#ref=rss)
-### pink
-
-* [https://www.spiegel.de/panorama/leute/wien-pink-verflucht-fahrraddieb-mountainbikes-von-mann-und-kind-weg](https://www.spiegel.de/panorama/leute/wien-pink-verflucht-fahrraddieb-mountainbikes-von-mann-und-kind-weg-a-fa59c492-e01d-48c7-a01d-3de8ac883cee#ref=rss)
-### kind
-
-* [https://www.spiegel.de/panorama/leute/wien-pink-verflucht-fahrraddieb-mountainbikes-von-mann-und-kind-weg](https://www.spiegel.de/panorama/leute/wien-pink-verflucht-fahrraddieb-mountainbikes-von-mann-und-kind-weg-a-fa59c492-e01d-48c7-a01d-3de8ac883cee#ref=rss)
-### sturz
-
-* [https://www.spiegel.de/panorama/leute/wien-pink-verflucht-fahrraddieb-mountainbikes-von-mann-und-kind-weg](https://www.spiegel.de/panorama/leute/wien-pink-verflucht-fahrraddieb-mountainbikes-von-mann-und-kind-weg-a-fa59c492-e01d-48c7-a01d-3de8ac883cee#ref=rss)
-* [https://www.spiegel.de/panorama/oldenburg-frau-stirbt-bei-sturz-mit-auto-aus-parkhaus](https://www.spiegel.de/panorama/oldenburg-frau-stirbt-bei-sturz-mit-auto-aus-parkhaus-a-7a77d45c-a3f3-4542-a610-cdd77b3871de#ref=rss)
-### erhöht
-
-* [https://www.spiegel.de/ausland/frontex-chef-erhoeht-den-druck-auf-griechische-regierung](https://www.spiegel.de/ausland/frontex-chef-erhoeht-den-druck-auf-griechische-regierung-a-7f5cadd2-187a-47a9-a5f1-be11546d91c8#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-heute-kiew-spricht-von-teilerfolgen-in-suedukraine](https://www.spiegel.de/ausland/russland-ukraine-krieg-heute-kiew-spricht-von-teilerfolgen-in-suedukraine-a-9eb54ee8-65bd-4cc8-853d-cdda6dd048f8#ref=rss)
-### waldbrand
-
-* [https://www.spiegel.de/wissenschaft/natur/waldbrand-in-mecklenburg-vorpommern-ein-meer-aus-asche](https://www.spiegel.de/wissenschaft/natur/waldbrand-in-mecklenburg-vorpommern-ein-meer-aus-asche-a-1cb8b439-900b-4013-b685-72b6c21311d0#ref=rss)
-### meer
-
-* [https://www.spiegel.de/wissenschaft/natur/waldbrand-in-mecklenburg-vorpommern-ein-meer-aus-asche](https://www.spiegel.de/wissenschaft/natur/waldbrand-in-mecklenburg-vorpommern-ein-meer-aus-asche-a-1cb8b439-900b-4013-b685-72b6c21311d0#ref=rss)
-* [https://www.spiegel.de/reise/fernweh/brettspiele-wie-rutsch-und-flutsch-meadow-oder-zank-am-zaun-acht-tipps-fuer-den-sommer](https://www.spiegel.de/reise/fernweh/brettspiele-wie-rutsch-und-flutsch-meadow-oder-zank-am-zaun-acht-tipps-fuer-den-sommer-a-8eb20a77-a87b-4f62-aa8c-d771e3299d6e#ref=rss)
-### asche
-
-* [https://www.spiegel.de/wissenschaft/natur/waldbrand-in-mecklenburg-vorpommern-ein-meer-aus-asche](https://www.spiegel.de/wissenschaft/natur/waldbrand-in-mecklenburg-vorpommern-ein-meer-aus-asche-a-1cb8b439-900b-4013-b685-72b6c21311d0#ref=rss)
-### sergio
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-spielberg-max-verstappen-auf-pole-sergio-perez-kaempft-mit-der-strecke](https://www.spiegel.de/sport/formel1/formel-1-in-spielberg-max-verstappen-auf-pole-sergio-perez-kaempft-mit-der-strecke-a-61f46927-0792-4072-bf98-2b0fa34149d3#ref=rss)
-### pérez
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-spielberg-max-verstappen-auf-pole-sergio-perez-kaempft-mit-der-strecke](https://www.spiegel.de/sport/formel1/formel-1-in-spielberg-max-verstappen-auf-pole-sergio-perez-kaempft-mit-der-strecke-a-61f46927-0792-4072-bf98-2b0fa34149d3#ref=rss)
-### eugipfel
-
-* [https://www.spiegel.de/politik/deutschland/migrations-eklat-beim-eu-gipfel-retourkutsche-aus-dem-osten](https://www.spiegel.de/politik/deutschland/migrations-eklat-beim-eu-gipfel-retourkutsche-aus-dem-osten-a-bba53021-9705-4405-87fb-2cd1c5513b71#ref=rss)
-### eu
-
-* [https://www.spiegel.de/politik/deutschland/migrations-eklat-beim-eu-gipfel-retourkutsche-aus-dem-osten](https://www.spiegel.de/politik/deutschland/migrations-eklat-beim-eu-gipfel-retourkutsche-aus-dem-osten-a-bba53021-9705-4405-87fb-2cd1c5513b71#ref=rss)
-* [https://www.spiegel.de/politik/asyl-blockierer-ungarn-und-polen-wer-sich-weigert-muss-zahlen-kommentar](https://www.spiegel.de/politik/asyl-blockierer-ungarn-und-polen-wer-sich-weigert-muss-zahlen-kommentar-a-d58e60ca-ccaf-4035-98f7-fc6c842ea70c#ref=rss)
-### besuch
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-zu-besuch-bei-markus-soeder-konservatives-wundenlecken](https://www.spiegel.de/politik/deutschland/friedrich-merz-zu-besuch-bei-markus-soeder-konservatives-wundenlecken-a-3505914d-5fc1-4234-891f-224c69e634e7#ref=rss)
-* [https://www.spiegel.de/ausland/unicef-chefin-catherine-russell-die-welt-laesst-die-haitianer-im-stich](https://www.spiegel.de/ausland/unicef-chefin-catherine-russell-die-welt-laesst-die-haitianer-im-stich-a-7133ce8e-a780-4cb2-aeba-1b4696166f02#ref=rss)
-### grünen
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-zu-besuch-bei-markus-soeder-konservatives-wundenlecken](https://www.spiegel.de/politik/deutschland/friedrich-merz-zu-besuch-bei-markus-soeder-konservatives-wundenlecken-a-3505914d-5fc1-4234-891f-224c69e634e7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/heizungsgesetz-gruener-jan-niclas-gesenhues-kritisiert-foerderung-fuer-holzheizungen-verkehrtes-signal](https://www.spiegel.de/politik/deutschland/heizungsgesetz-gruener-jan-niclas-gesenhues-kritisiert-foerderung-fuer-holzheizungen-verkehrtes-signal-a-204a234f-7d2d-46a2-b134-ee32b00bbf95#ref=rss)
-### news
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-frankreich-bnd-und-russland-ambulante-hilfsdienste](https://www.spiegel.de/politik/deutschland/news-des-tages-frankreich-bnd-und-russland-ambulante-hilfsdienste-a-58147896-74ab-4039-be7a-8a01ba694f35#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-heute-kiew-spricht-von-teilerfolgen-in-suedukraine](https://www.spiegel.de/ausland/russland-ukraine-krieg-heute-kiew-spricht-von-teilerfolgen-in-suedukraine-a-9eb54ee8-65bd-4cc8-853d-cdda6dd048f8#ref=rss)
-### russland
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-frankreich-bnd-und-russland-ambulante-hilfsdienste](https://www.spiegel.de/politik/deutschland/news-des-tages-frankreich-bnd-und-russland-ambulante-hilfsdienste-a-58147896-74ab-4039-be7a-8a01ba694f35#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-heute-kiew-spricht-von-teilerfolgen-in-suedukraine](https://www.spiegel.de/ausland/russland-ukraine-krieg-heute-kiew-spricht-von-teilerfolgen-in-suedukraine-a-9eb54ee8-65bd-4cc8-853d-cdda6dd048f8#ref=rss)
-### lage
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-frankreich-bnd-und-russland-ambulante-hilfsdienste](https://www.spiegel.de/politik/deutschland/news-des-tages-frankreich-bnd-und-russland-ambulante-hilfsdienste-a-58147896-74ab-4039-be7a-8a01ba694f35#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-busse-und-strassenbahnen-sollen-abends-stillstehen](https://www.spiegel.de/ausland/frankreich-busse-und-strassenbahnen-sollen-abends-stillstehen-a-1dc0e947-c0ab-482c-a55b-9dfb7bf30600#ref=rss)
-### supreme
-
-* [https://www.spiegel.de/ausland/usa-supreme-court-weicht-schutz-fuer-gleichgeschlechtliche-paare-auf](https://www.spiegel.de/ausland/usa-supreme-court-weicht-schutz-fuer-gleichgeschlechtliche-paare-auf-a-d30fcba0-9778-4b53-a787-0b8cf627de59#ref=rss)
-* [https://www.spiegel.de/ausland/usa-supreme-court-kippt-joe-bidens-teilerlass-von-studienkrediten](https://www.spiegel.de/ausland/usa-supreme-court-kippt-joe-bidens-teilerlass-von-studienkrediten-a-46e1e63f-86bb-4bc9-bd09-996a88808b28#ref=rss)
-### court
-
-* [https://www.spiegel.de/ausland/usa-supreme-court-weicht-schutz-fuer-gleichgeschlechtliche-paare-auf](https://www.spiegel.de/ausland/usa-supreme-court-weicht-schutz-fuer-gleichgeschlechtliche-paare-auf-a-d30fcba0-9778-4b53-a787-0b8cf627de59#ref=rss)
-* [https://www.spiegel.de/ausland/usa-supreme-court-kippt-joe-bidens-teilerlass-von-studienkrediten](https://www.spiegel.de/ausland/usa-supreme-court-kippt-joe-bidens-teilerlass-von-studienkrediten-a-46e1e63f-86bb-4bc9-bd09-996a88808b28#ref=rss)
-### unicefchefin
-
-* [https://www.spiegel.de/ausland/unicef-chefin-catherine-russell-die-welt-laesst-die-haitianer-im-stich](https://www.spiegel.de/ausland/unicef-chefin-catherine-russell-die-welt-laesst-die-haitianer-im-stich-a-7133ce8e-a780-4cb2-aeba-1b4696166f02#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wirtschaft/service/was-im-heizungsgesetz-steht-und-was-das-fuer-hauseigentuemer-und-mieter-bedeutet](https://www.spiegel.de/wirtschaft/service/was-im-heizungsgesetz-steht-und-was-das-fuer-hauseigentuemer-und-mieter-bedeutet-a-613d1584-69fe-4bf7-b6ee-ac4c986b53dc#ref=rss)
-* [https://www.spiegel.de/kultur/tv/sky-deutschland-stellt-serienproduktion-ein-abgesoffen-im-streaming-ozean](https://www.spiegel.de/kultur/tv/sky-deutschland-stellt-serienproduktion-ein-abgesoffen-im-streaming-ozean-a-74a98fbb-b9ed-449c-9dc0-51dd6f3c390b#ref=rss)
-### überblick
-
-* [https://www.spiegel.de/wirtschaft/service/was-im-heizungsgesetz-steht-und-was-das-fuer-hauseigentuemer-und-mieter-bedeutet](https://www.spiegel.de/wirtschaft/service/was-im-heizungsgesetz-steht-und-was-das-fuer-hauseigentuemer-und-mieter-bedeutet-a-613d1584-69fe-4bf7-b6ee-ac4c986b53dc#ref=rss)
-* [https://www.spiegel.de/ausland/affirmative-action-supreme-court-urteil-zur-studierendenauswahl-in-den-usa-der-ueberblick](https://www.spiegel.de/ausland/affirmative-action-supreme-court-urteil-zur-studierendenauswahl-in-den-usa-der-ueberblick-a-890969d3-6a7b-4cb6-bb91-fde0513c9f87#ref=rss)
-### joe
-
-* [https://www.spiegel.de/ausland/usa-supreme-court-kippt-joe-bidens-teilerlass-von-studienkrediten](https://www.spiegel.de/ausland/usa-supreme-court-kippt-joe-bidens-teilerlass-von-studienkrediten-a-46e1e63f-86bb-4bc9-bd09-996a88808b28#ref=rss)
-### bidens
-
-* [https://www.spiegel.de/ausland/usa-supreme-court-kippt-joe-bidens-teilerlass-von-studienkrediten](https://www.spiegel.de/ausland/usa-supreme-court-kippt-joe-bidens-teilerlass-von-studienkrediten-a-46e1e63f-86bb-4bc9-bd09-996a88808b28#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/ausland/usa-supreme-court-kippt-joe-bidens-teilerlass-von-studienkrediten](https://www.spiegel.de/ausland/usa-supreme-court-kippt-joe-bidens-teilerlass-von-studienkrediten-a-46e1e63f-86bb-4bc9-bd09-996a88808b28#ref=rss)
-* [https://www.spiegel.de/wissenschaft/long-covid-wie-lange-bleiben-die-symptome-was-die-wissenschaft-bisher-weiss](https://www.spiegel.de/wissenschaft/long-covid-wie-lange-bleiben-die-symptome-was-die-wissenschaft-bisher-weiss-a-d46cbf5d-0ffc-4cc0-a3f4-4f91c6aff7e2#ref=rss)
-### alan
-
-* [https://www.spiegel.de/kultur/kino/alan-arkin-ist-tot-oscar-gewinner-in-little-miss-sunshine](https://www.spiegel.de/kultur/kino/alan-arkin-ist-tot-oscar-gewinner-in-little-miss-sunshine-a-1fb76821-c74d-42ae-9951-1af0090e864d#ref=rss)
-### arkin
-
-* [https://www.spiegel.de/kultur/kino/alan-arkin-ist-tot-oscar-gewinner-in-little-miss-sunshine](https://www.spiegel.de/kultur/kino/alan-arkin-ist-tot-oscar-gewinner-in-little-miss-sunshine-a-1fb76821-c74d-42ae-9951-1af0090e864d#ref=rss)
-### alter
-
-* [https://www.spiegel.de/kultur/kino/alan-arkin-ist-tot-oscar-gewinner-in-little-miss-sunshine](https://www.spiegel.de/kultur/kino/alan-arkin-ist-tot-oscar-gewinner-in-little-miss-sunshine-a-1fb76821-c74d-42ae-9951-1af0090e864d#ref=rss)
-* [https://www.spiegel.de/panorama/lueneburg-erzieher-gesteht-sexuellen-missbrauch-von-kindern](https://www.spiegel.de/panorama/lueneburg-erzieher-gesteht-sexuellen-missbrauch-von-kindern-a-2668ce55-435b-4f29-9fc8-3f086b8fd99c#ref=rss)
-### bolsonaro
-
-* [https://www.spiegel.de/ausland/bolsonaro-richter-in-brasilien-beschliessen-amtsverbot-fuer-ex-praesident](https://www.spiegel.de/ausland/bolsonaro-richter-in-brasilien-beschliessen-amtsverbot-fuer-ex-praesident-a-9b3dff40-e082-4bef-9148-764228739e03#ref=rss)
-### oberste
-
-* [https://www.spiegel.de/ausland/bolsonaro-richter-in-brasilien-beschliessen-amtsverbot-fuer-ex-praesident](https://www.spiegel.de/ausland/bolsonaro-richter-in-brasilien-beschliessen-amtsverbot-fuer-ex-praesident-a-9b3dff40-e082-4bef-9148-764228739e03#ref=rss)
-* [https://www.spiegel.de/ausland/affirmative-action-supreme-court-urteil-zur-studierendenauswahl-in-den-usa-der-ueberblick](https://www.spiegel.de/ausland/affirmative-action-supreme-court-urteil-zur-studierendenauswahl-in-den-usa-der-ueberblick-a-890969d3-6a7b-4cb6-bb91-fde0513c9f87#ref=rss)
-### münster
-
-* [https://www.spiegel.de/panorama/justiz/muenster-kran-besetzer-zu-freiheitsstrafe-von-mehr-als-zwei-jahren-verurteilt](https://www.spiegel.de/panorama/justiz/muenster-kran-besetzer-zu-freiheitsstrafe-von-mehr-als-zwei-jahren-verurteilt-a-9d4bc2f9-da6d-4a9a-b550-d48a3ef71e88#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/justiz/muenster-kran-besetzer-zu-freiheitsstrafe-von-mehr-als-zwei-jahren-verurteilt](https://www.spiegel.de/panorama/justiz/muenster-kran-besetzer-zu-freiheitsstrafe-von-mehr-als-zwei-jahren-verurteilt-a-9d4bc2f9-da6d-4a9a-b550-d48a3ef71e88#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/panorama/justiz/muenster-kran-besetzer-zu-freiheitsstrafe-von-mehr-als-zwei-jahren-verurteilt](https://www.spiegel.de/panorama/justiz/muenster-kran-besetzer-zu-freiheitsstrafe-von-mehr-als-zwei-jahren-verurteilt-a-9d4bc2f9-da6d-4a9a-b550-d48a3ef71e88#ref=rss)
-### long
-
-* [https://www.spiegel.de/wissenschaft/long-covid-wie-lange-bleiben-die-symptome-was-die-wissenschaft-bisher-weiss](https://www.spiegel.de/wissenschaft/long-covid-wie-lange-bleiben-die-symptome-was-die-wissenschaft-bisher-weiss-a-d46cbf5d-0ffc-4cc0-a3f4-4f91c6aff7e2#ref=rss)
-### covid
-
-* [https://www.spiegel.de/wissenschaft/long-covid-wie-lange-bleiben-die-symptome-was-die-wissenschaft-bisher-weiss](https://www.spiegel.de/wissenschaft/long-covid-wie-lange-bleiben-die-symptome-was-die-wissenschaft-bisher-weiss-a-d46cbf5d-0ffc-4cc0-a3f4-4f91c6aff7e2#ref=rss)
-### 30
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-heute-kiew-spricht-von-teilerfolgen-in-suedukraine](https://www.spiegel.de/ausland/russland-ukraine-krieg-heute-kiew-spricht-von-teilerfolgen-in-suedukraine-a-9eb54ee8-65bd-4cc8-853d-cdda6dd048f8#ref=rss)
-### tipps
-
-* [https://www.spiegel.de/reise/fernweh/brettspiele-wie-rutsch-und-flutsch-meadow-oder-zank-am-zaun-acht-tipps-fuer-den-sommer](https://www.spiegel.de/reise/fernweh/brettspiele-wie-rutsch-und-flutsch-meadow-oder-zank-am-zaun-acht-tipps-fuer-den-sommer-a-8eb20a77-a87b-4f62-aa8c-d771e3299d6e#ref=rss)
-### holzheizungen
-
-* [https://www.spiegel.de/politik/deutschland/heizungsgesetz-gruener-jan-niclas-gesenhues-kritisiert-foerderung-fuer-holzheizungen-verkehrtes-signal](https://www.spiegel.de/politik/deutschland/heizungsgesetz-gruener-jan-niclas-gesenhues-kritisiert-foerderung-fuer-holzheizungen-verkehrtes-signal-a-204a234f-7d2d-46a2-b134-ee32b00bbf95#ref=rss)
-### busse
-
-* [https://www.spiegel.de/ausland/frankreich-busse-und-strassenbahnen-sollen-abends-stillstehen](https://www.spiegel.de/ausland/frankreich-busse-und-strassenbahnen-sollen-abends-stillstehen-a-1dc0e947-c0ab-482c-a55b-9dfb7bf30600#ref=rss)
-### straßenbahnen
-
-* [https://www.spiegel.de/ausland/frankreich-busse-und-strassenbahnen-sollen-abends-stillstehen](https://www.spiegel.de/ausland/frankreich-busse-und-strassenbahnen-sollen-abends-stillstehen-a-1dc0e947-c0ab-482c-a55b-9dfb7bf30600#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-proteste-gegen-polizeigewalt-ausweitung-der-problemzone](https://www.spiegel.de/ausland/frankreich-proteste-gegen-polizeigewalt-ausweitung-der-problemzone-a-e573fd71-3a9c-4c66-b1bc-776073135f60#ref=rss)
 ### frankreichs
 
-* [https://www.spiegel.de/ausland/frankreich-busse-und-strassenbahnen-sollen-abends-stillstehen](https://www.spiegel.de/ausland/frankreich-busse-und-strassenbahnen-sollen-abends-stillstehen-a-1dc0e947-c0ab-482c-a55b-9dfb7bf30600#ref=rss)
-### stecken
+* [https://www.spiegel.de/ausland/frankreich-proteste-gegen-polizeigewalt-ausweitung-der-problemzone](https://www.spiegel.de/ausland/frankreich-proteste-gegen-polizeigewalt-ausweitung-der-problemzone-a-e573fd71-3a9c-4c66-b1bc-776073135f60#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-nahverkehr-ruht-die-unruhen-halten-vierte-nacht-in-folge-an](https://www.spiegel.de/ausland/frankreich-nahverkehr-ruht-die-unruhen-halten-vierte-nacht-in-folge-an-a-b4c08cf8-ad1d-4a46-a313-4b91b3749e9c#ref=rss)
+### neue
 
-* [https://www.spiegel.de/politik/deutschland/verfassungsschutz-sieht-spionageversuche-im-verteidigungssektor](https://www.spiegel.de/politik/deutschland/verfassungsschutz-sieht-spionageversuche-im-verteidigungssektor-a-545397a9-3e23-4e47-bdfe-31933ecab7b1#ref=rss)
-* [https://www.spiegel.de/kultur/tv/sky-deutschland-stellt-serienproduktion-ein-abgesoffen-im-streaming-ozean](https://www.spiegel.de/kultur/tv/sky-deutschland-stellt-serienproduktion-ein-abgesoffen-im-streaming-ozean-a-74a98fbb-b9ed-449c-9dc0-51dd6f3c390b#ref=rss)
-### oldenburg
+* [https://www.spiegel.de/ausland/frankreich-proteste-gegen-polizeigewalt-ausweitung-der-problemzone](https://www.spiegel.de/ausland/frankreich-proteste-gegen-polizeigewalt-ausweitung-der-problemzone-a-e573fd71-3a9c-4c66-b1bc-776073135f60#ref=rss)
+* [https://www.spiegel.de/tests/kueche/kochbuecher-mit-grill-rezepten-fuer-bbq-fans-und-einsteiger](https://www.spiegel.de/tests/kueche/kochbuecher-mit-grill-rezepten-fuer-bbq-fans-und-einsteiger-a-cf107898-c5eb-490e-b0b4-efce1182a068#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/panorama/oldenburg-frau-stirbt-bei-sturz-mit-auto-aus-parkhaus](https://www.spiegel.de/panorama/oldenburg-frau-stirbt-bei-sturz-mit-auto-aus-parkhaus-a-7a77d45c-a3f3-4542-a610-cdd77b3871de#ref=rss)
-### auto
+* [https://www.spiegel.de/panorama/zelten-wer-luxus-mag-muss-campen-gehen](https://www.spiegel.de/panorama/zelten-wer-luxus-mag-muss-campen-gehen-a-efb1d0fe-9ad8-45cd-9509-ef333d9f1857#ref=rss)
+* [https://www.spiegel.de/panorama/die-bilder-der-woche-50-meter-freistil-das-muehltalbad-in-darmstadt](https://www.spiegel.de/panorama/die-bilder-der-woche-50-meter-freistil-das-muehltalbad-in-darmstadt-a-fb6c37b8-d2e2-41f1-8562-d641589ddb87#ref=rss)
+### james
 
-* [https://www.spiegel.de/panorama/oldenburg-frau-stirbt-bei-sturz-mit-auto-aus-parkhaus](https://www.spiegel.de/panorama/oldenburg-frau-stirbt-bei-sturz-mit-auto-aus-parkhaus-a-7a77d45c-a3f3-4542-a610-cdd77b3871de#ref=rss)
-### fußballwm
+* [https://www.spiegel.de/wissenschaft/weltall/neues-james-webb-bild-das-geheimnisvolle-leuchten-des-saturn](https://www.spiegel.de/wissenschaft/weltall/neues-james-webb-bild-das-geheimnisvolle-leuchten-des-saturn-a-5cecddf0-7c22-41b9-a080-372c0920bd2a#ref=rss)
+### leuchten
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2022-fifa-erlaubt-bunte-kapitaensbinden-regenbogenbinde-verboten](https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2022-fifa-erlaubt-bunte-kapitaensbinden-regenbogenbinde-verboten-a-71534bf6-ce7b-473f-9e27-00dbd755acd8#ref=rss)
-### fifa
+* [https://www.spiegel.de/wissenschaft/weltall/neues-james-webb-bild-das-geheimnisvolle-leuchten-des-saturn](https://www.spiegel.de/wissenschaft/weltall/neues-james-webb-bild-das-geheimnisvolle-leuchten-des-saturn-a-5cecddf0-7c22-41b9-a080-372c0920bd2a#ref=rss)
+### saturn
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2022-fifa-erlaubt-bunte-kapitaensbinden-regenbogenbinde-verboten](https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2022-fifa-erlaubt-bunte-kapitaensbinden-regenbogenbinde-verboten-a-71534bf6-ce7b-473f-9e27-00dbd755acd8#ref=rss)
-### regenbogenbinde
+* [https://www.spiegel.de/wissenschaft/weltall/neues-james-webb-bild-das-geheimnisvolle-leuchten-des-saturn](https://www.spiegel.de/wissenschaft/weltall/neues-james-webb-bild-das-geheimnisvolle-leuchten-des-saturn-a-5cecddf0-7c22-41b9-a080-372c0920bd2a#ref=rss)
+### zeigen
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2022-fifa-erlaubt-bunte-kapitaensbinden-regenbogenbinde-verboten](https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2022-fifa-erlaubt-bunte-kapitaensbinden-regenbogenbinde-verboten-a-71534bf6-ce7b-473f-9e27-00dbd755acd8#ref=rss)
-### verboten
+* [https://www.spiegel.de/wissenschaft/weltall/neues-james-webb-bild-das-geheimnisvolle-leuchten-des-saturn](https://www.spiegel.de/wissenschaft/weltall/neues-james-webb-bild-das-geheimnisvolle-leuchten-des-saturn-a-5cecddf0-7c22-41b9-a080-372c0920bd2a#ref=rss)
+* [https://www.spiegel.de/kultur/tv/comedy-tv-in-der-kritik-hat-christine-prayon-recht](https://www.spiegel.de/kultur/tv/comedy-tv-in-der-kritik-hat-christine-prayon-recht-a-4315e5a8-7f68-4fc1-adb3-e5c7919e47be#ref=rss)
+### künftig
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2022-fifa-erlaubt-bunte-kapitaensbinden-regenbogenbinde-verboten](https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2022-fifa-erlaubt-bunte-kapitaensbinden-regenbogenbinde-verboten-a-71534bf6-ce7b-473f-9e27-00dbd755acd8#ref=rss)
-### affirmative
-
-* [https://www.spiegel.de/ausland/affirmative-action-supreme-court-urteil-zur-studierendenauswahl-in-den-usa-der-ueberblick](https://www.spiegel.de/ausland/affirmative-action-supreme-court-urteil-zur-studierendenauswahl-in-den-usa-der-ueberblick-a-890969d3-6a7b-4cb6-bb91-fde0513c9f87#ref=rss)
-### schweden
-
-* [https://www.spiegel.de/ausland/koran-verbrennung-in-schweden-fuehrt-zu-erneuten-protesten-im-irak](https://www.spiegel.de/ausland/koran-verbrennung-in-schweden-fuehrt-zu-erneuten-protesten-im-irak-a-572ae35b-7644-4fd3-9c5e-42d110776d4a#ref=rss)
+* [https://www.spiegel.de/reise/gipfelkreuze-kulturkampf-in-tirol-und-italien](https://www.spiegel.de/reise/gipfelkreuze-kulturkampf-in-tirol-und-italien-a-6260f1a5-162a-4de8-bde1-cb0aef204aa7#ref=rss)
+* [https://www.spiegel.de/panorama/brooklyn-new-york-basketball-spielen-im-66-stock](https://www.spiegel.de/panorama/brooklyn-new-york-basketball-spielen-im-66-stock-a-74383206-4678-4a8a-b3da-1785ad36e31d#ref=rss)
 ### fragen
 
 * [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
 ### tag
 
 * [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### sieben
+### basketball
 
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/panorama/lueneburg-erzieher-gesteht-sexuellen-missbrauch-von-kindern](https://www.spiegel.de/panorama/lueneburg-erzieher-gesteht-sexuellen-missbrauch-von-kindern-a-2668ce55-435b-4f29-9fc8-3f086b8fd99c#ref=rss)
-### sky
+* [https://www.spiegel.de/panorama/brooklyn-new-york-basketball-spielen-im-66-stock](https://www.spiegel.de/panorama/brooklyn-new-york-basketball-spielen-im-66-stock-a-74383206-4678-4a8a-b3da-1785ad36e31d#ref=rss)
+* [https://www.spiegel.de/sport/basketball/basketball-nba-profi-dennis-schroeder-wechselt-zu-den-toronto-raptors](https://www.spiegel.de/sport/basketball/basketball-nba-profi-dennis-schroeder-wechselt-zu-den-toronto-raptors-a-e79d69ab-d119-4721-8264-3c2798a37411#ref=rss)
+### sport
 
-* [https://www.spiegel.de/kultur/tv/sky-deutschland-stellt-serienproduktion-ein-abgesoffen-im-streaming-ozean](https://www.spiegel.de/kultur/tv/sky-deutschland-stellt-serienproduktion-ein-abgesoffen-im-streaming-ozean-a-74a98fbb-b9ed-449c-9dc0-51dd6f3c390b#ref=rss)
-### deutschland
+* [https://www.spiegel.de/panorama/brooklyn-new-york-basketball-spielen-im-66-stock](https://www.spiegel.de/panorama/brooklyn-new-york-basketball-spielen-im-66-stock-a-74383206-4678-4a8a-b3da-1785ad36e31d#ref=rss)
+* [https://www.spiegel.de/sport/radsport-im-nationalsozialismus-es-mangelt-komplett-an-der-sensibilitaet](https://www.spiegel.de/sport/radsport-im-nationalsozialismus-es-mangelt-komplett-an-der-sensibilitaet-a-51faa607-6456-4e06-93dc-504cb2bf8d3a#ref=rss)
+### meter
 
-* [https://www.spiegel.de/kultur/tv/sky-deutschland-stellt-serienproduktion-ein-abgesoffen-im-streaming-ozean](https://www.spiegel.de/kultur/tv/sky-deutschland-stellt-serienproduktion-ein-abgesoffen-im-streaming-ozean-a-74a98fbb-b9ed-449c-9dc0-51dd6f3c390b#ref=rss)
-### erzieher
+* [https://www.spiegel.de/panorama/die-bilder-der-woche-50-meter-freistil-das-muehltalbad-in-darmstadt](https://www.spiegel.de/panorama/die-bilder-der-woche-50-meter-freistil-das-muehltalbad-in-darmstadt-a-fb6c37b8-d2e2-41f1-8562-d641589ddb87#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-cdu-chef-friedrich-merz-und-die-gruenen-berliner-friedrichstrasse-putins-reich](https://www.spiegel.de/politik/deutschland/news-cdu-chef-friedrich-merz-und-die-gruenen-berliner-friedrichstrasse-putins-reich-a-aff057e5-4db6-4055-8d12-85cf8bc1fe2c#ref=rss)
+### darmstadt
 
-* [https://www.spiegel.de/panorama/lueneburg-erzieher-gesteht-sexuellen-missbrauch-von-kindern](https://www.spiegel.de/panorama/lueneburg-erzieher-gesteht-sexuellen-missbrauch-von-kindern-a-2668ce55-435b-4f29-9fc8-3f086b8fd99c#ref=rss)
+* [https://www.spiegel.de/panorama/die-bilder-der-woche-50-meter-freistil-das-muehltalbad-in-darmstadt](https://www.spiegel.de/panorama/die-bilder-der-woche-50-meter-freistil-das-muehltalbad-in-darmstadt-a-fb6c37b8-d2e2-41f1-8562-d641589ddb87#ref=rss)
+### nachrichten
+
+* [https://www.spiegel.de/ausland/newsletter-fuer-gute-nachrichten-catherine-27-spricht-ueber-sex-wie-sonst-niemand-in-kambodscha](https://www.spiegel.de/ausland/newsletter-fuer-gute-nachrichten-catherine-27-spricht-ueber-sex-wie-sonst-niemand-in-kambodscha-a-2671f1cb-2a0c-4013-9c99-0334dedfa0dd#ref=rss)
+### urlaub
+
+* [https://www.spiegel.de/ausland/newsletter-fuer-gute-nachrichten-catherine-27-spricht-ueber-sex-wie-sonst-niemand-in-kambodscha](https://www.spiegel.de/ausland/newsletter-fuer-gute-nachrichten-catherine-27-spricht-ueber-sex-wie-sonst-niemand-in-kambodscha-a-2671f1cb-2a0c-4013-9c99-0334dedfa0dd#ref=rss)
+* [https://www.spiegel.de/reise/packliste-fuer-den-urlaub-individualisierbares-tool-zum-abhaken](https://www.spiegel.de/reise/packliste-fuer-den-urlaub-individualisierbares-tool-zum-abhaken-a-60fe8ad7-ec94-4a84-a00c-ed08ecb2aa97#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/ausland/newsletter-fuer-gute-nachrichten-catherine-27-spricht-ueber-sex-wie-sonst-niemand-in-kambodscha](https://www.spiegel.de/ausland/newsletter-fuer-gute-nachrichten-catherine-27-spricht-ueber-sex-wie-sonst-niemand-in-kambodscha-a-2671f1cb-2a0c-4013-9c99-0334dedfa0dd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/corona-209-schadenersatzklagen-gegen-impfstoff-hersteller](https://www.spiegel.de/wirtschaft/corona-209-schadenersatzklagen-gegen-impfstoff-hersteller-a-8d2a042e-069b-4279-99e3-ca98595fbb22#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/wiederaufbau-in-der-ukraine-landwirt-repariert-haus-mit-munitionskisten](https://www.spiegel.de/ausland/wiederaufbau-in-der-ukraine-landwirt-repariert-haus-mit-munitionskisten-a-b29f72b5-9a38-4748-b8a0-6ea6a7436ce6#ref=rss)
+### osten
+
+* [https://www.spiegel.de/ausland/wiederaufbau-in-der-ukraine-landwirt-repariert-haus-mit-munitionskisten](https://www.spiegel.de/ausland/wiederaufbau-in-der-ukraine-landwirt-repariert-haus-mit-munitionskisten-a-b29f72b5-9a38-4748-b8a0-6ea6a7436ce6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/reise-in-die-unbekannte-heimat](https://www.spiegel.de/politik/deutschland/reise-in-die-unbekannte-heimat-a-47d3ebbc-ac7c-47c5-9b76-4455145dfddc#ref=rss)
+### putins
+
+* [https://www.spiegel.de/ausland/wiederaufbau-in-der-ukraine-landwirt-repariert-haus-mit-munitionskisten](https://www.spiegel.de/ausland/wiederaufbau-in-der-ukraine-landwirt-repariert-haus-mit-munitionskisten-a-b29f72b5-9a38-4748-b8a0-6ea6a7436ce6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-cdu-chef-friedrich-merz-und-die-gruenen-berliner-friedrichstrasse-putins-reich](https://www.spiegel.de/politik/deutschland/news-cdu-chef-friedrich-merz-und-die-gruenen-berliner-friedrichstrasse-putins-reich-a-aff057e5-4db6-4055-8d12-85cf8bc1fe2c#ref=rss)
+### umgang
+
+* [https://www.spiegel.de/familie/rechnen-und-dyskalkulie-wie-mein-sohn-den-umgang-mit-zahlen-lernt](https://www.spiegel.de/familie/rechnen-und-dyskalkulie-wie-mein-sohn-den-umgang-mit-zahlen-lernt-a-8b01182f-7eb8-43c5-aa31-3e8a3714b1d0#ref=rss)
+* [https://www.spiegel.de/start/sparen-aktien-oder-alles-ausgeben-junge-erwachsene-ueber-ihren-umgang-mit-geld](https://www.spiegel.de/start/sparen-aktien-oder-alles-ausgeben-junge-erwachsene-ueber-ihren-umgang-mit-geld-a-7d9d029a-319e-4d45-8960-74a4f3cd7575#ref=rss)
+### zahlen
+
+* [https://www.spiegel.de/familie/rechnen-und-dyskalkulie-wie-mein-sohn-den-umgang-mit-zahlen-lernt](https://www.spiegel.de/familie/rechnen-und-dyskalkulie-wie-mein-sohn-den-umgang-mit-zahlen-lernt-a-8b01182f-7eb8-43c5-aa31-3e8a3714b1d0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/corona-209-schadenersatzklagen-gegen-impfstoff-hersteller](https://www.spiegel.de/wirtschaft/corona-209-schadenersatzklagen-gegen-impfstoff-hersteller-a-8d2a042e-069b-4279-99e3-ca98595fbb22#ref=rss)
+### sollten
+
+* [https://www.spiegel.de/familie/rechnen-und-dyskalkulie-wie-mein-sohn-den-umgang-mit-zahlen-lernt](https://www.spiegel.de/familie/rechnen-und-dyskalkulie-wie-mein-sohn-den-umgang-mit-zahlen-lernt-a-8b01182f-7eb8-43c5-aa31-3e8a3714b1d0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/corona-209-schadenersatzklagen-gegen-impfstoff-hersteller](https://www.spiegel.de/wirtschaft/corona-209-schadenersatzklagen-gegen-impfstoff-hersteller-a-8d2a042e-069b-4279-99e3-ca98595fbb22#ref=rss)
+### besonders
+
+* [https://www.spiegel.de/familie/rechnen-und-dyskalkulie-wie-mein-sohn-den-umgang-mit-zahlen-lernt](https://www.spiegel.de/familie/rechnen-und-dyskalkulie-wie-mein-sohn-den-umgang-mit-zahlen-lernt-a-8b01182f-7eb8-43c5-aa31-3e8a3714b1d0#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/ukraine-krieg-klimakrise-inflation-deutschlands-alleingelassene-jugend](https://www.spiegel.de/panorama/bildung/ukraine-krieg-klimakrise-inflation-deutschlands-alleingelassene-jugend-a-3e076ac3-b238-4ce2-9b61-eabd26be1eef#ref=rss)
+### christine
+
+* [https://www.spiegel.de/kultur/tv/comedy-tv-in-der-kritik-hat-christine-prayon-recht](https://www.spiegel.de/kultur/tv/comedy-tv-in-der-kritik-hat-christine-prayon-recht-a-4315e5a8-7f68-4fc1-adb3-e5c7919e47be#ref=rss)
+### prayon
+
+* [https://www.spiegel.de/kultur/tv/comedy-tv-in-der-kritik-hat-christine-prayon-recht](https://www.spiegel.de/kultur/tv/comedy-tv-in-der-kritik-hat-christine-prayon-recht-a-4315e5a8-7f68-4fc1-adb3-e5c7919e47be#ref=rss)
+### alle
+
+* [https://www.spiegel.de/kultur/tv/comedy-tv-in-der-kritik-hat-christine-prayon-recht](https://www.spiegel.de/kultur/tv/comedy-tv-in-der-kritik-hat-christine-prayon-recht-a-4315e5a8-7f68-4fc1-adb3-e5c7919e47be#ref=rss)
+* [https://www.spiegel.de/auto/friedrichstrasse-in-berlin-auto-und-stadt-versoehnen-nur-ein-frommer-wunsch](https://www.spiegel.de/auto/friedrichstrasse-in-berlin-auto-und-stadt-versoehnen-nur-ein-frommer-wunsch-a-109970a7-df5c-4f0c-8389-9e6236b19f7c#ref=rss)
+### gar
+
+* [https://www.spiegel.de/kultur/tv/comedy-tv-in-der-kritik-hat-christine-prayon-recht](https://www.spiegel.de/kultur/tv/comedy-tv-in-der-kritik-hat-christine-prayon-recht-a-4315e5a8-7f68-4fc1-adb3-e5c7919e47be#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/reise-in-die-unbekannte-heimat](https://www.spiegel.de/politik/deutschland/reise-in-die-unbekannte-heimat-a-47d3ebbc-ac7c-47c5-9b76-4455145dfddc#ref=rss)
+### auto
+
+* [https://www.spiegel.de/auto/friedrichstrasse-in-berlin-auto-und-stadt-versoehnen-nur-ein-frommer-wunsch](https://www.spiegel.de/auto/friedrichstrasse-in-berlin-auto-und-stadt-versoehnen-nur-ein-frommer-wunsch-a-109970a7-df5c-4f0c-8389-9e6236b19f7c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-cdu-chef-friedrich-merz-und-die-gruenen-berliner-friedrichstrasse-putins-reich](https://www.spiegel.de/politik/deutschland/news-cdu-chef-friedrich-merz-und-die-gruenen-berliner-friedrichstrasse-putins-reich-a-aff057e5-4db6-4055-8d12-85cf8bc1fe2c#ref=rss)
+### hätten
+
+* [https://www.spiegel.de/auto/friedrichstrasse-in-berlin-auto-und-stadt-versoehnen-nur-ein-frommer-wunsch](https://www.spiegel.de/auto/friedrichstrasse-in-berlin-auto-und-stadt-versoehnen-nur-ein-frommer-wunsch-a-109970a7-df5c-4f0c-8389-9e6236b19f7c#ref=rss)
+* [https://www.spiegel.de/start/sparen-aktien-oder-alles-ausgeben-junge-erwachsene-ueber-ihren-umgang-mit-geld](https://www.spiegel.de/start/sparen-aktien-oder-alles-ausgeben-junge-erwachsene-ueber-ihren-umgang-mit-geld-a-7d9d029a-319e-4d45-8960-74a4f3cd7575#ref=rss)
+### etwas
+
+* [https://www.spiegel.de/auto/friedrichstrasse-in-berlin-auto-und-stadt-versoehnen-nur-ein-frommer-wunsch](https://www.spiegel.de/auto/friedrichstrasse-in-berlin-auto-und-stadt-versoehnen-nur-ein-frommer-wunsch-a-109970a7-df5c-4f0c-8389-9e6236b19f7c#ref=rss)
+* [https://www.spiegel.de/reise/packliste-fuer-den-urlaub-individualisierbares-tool-zum-abhaken](https://www.spiegel.de/reise/packliste-fuer-den-urlaub-individualisierbares-tool-zum-abhaken-a-60fe8ad7-ec94-4a84-a00c-ed08ecb2aa97#ref=rss)
+### suchen
+
+* [https://www.spiegel.de/tests/kueche/kochbuecher-mit-grill-rezepten-fuer-bbq-fans-und-einsteiger](https://www.spiegel.de/tests/kueche/kochbuecher-mit-grill-rezepten-fuer-bbq-fans-und-einsteiger-a-cf107898-c5eb-490e-b0b4-efce1182a068#ref=rss)
+* [https://www.spiegel.de/panorama/hamburger-hafen-einbrecher-dringen-serienweise-in-containerterminal-ein](https://www.spiegel.de/panorama/hamburger-hafen-einbrecher-dringen-serienweise-in-containerterminal-ein-a-67a29fa3-4e0b-4848-852a-e005f3a79315#ref=rss)
+### viele
+
+* [https://www.spiegel.de/panorama/bildung/ukraine-krieg-klimakrise-inflation-deutschlands-alleingelassene-jugend](https://www.spiegel.de/panorama/bildung/ukraine-krieg-klimakrise-inflation-deutschlands-alleingelassene-jugend-a-3e076ac3-b238-4ce2-9b61-eabd26be1eef#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-nahverkehr-ruht-die-unruhen-halten-vierte-nacht-in-folge-an](https://www.spiegel.de/ausland/frankreich-nahverkehr-ruht-die-unruhen-halten-vierte-nacht-in-folge-an-a-b4c08cf8-ad1d-4a46-a313-4b91b3749e9c#ref=rss)
+### halten
+
+* [https://www.spiegel.de/panorama/bildung/ukraine-krieg-klimakrise-inflation-deutschlands-alleingelassene-jugend](https://www.spiegel.de/panorama/bildung/ukraine-krieg-klimakrise-inflation-deutschlands-alleingelassene-jugend-a-3e076ac3-b238-4ce2-9b61-eabd26be1eef#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-nahverkehr-ruht-die-unruhen-halten-vierte-nacht-in-folge-an](https://www.spiegel.de/ausland/frankreich-nahverkehr-ruht-die-unruhen-halten-vierte-nacht-in-folge-an-a-b4c08cf8-ad1d-4a46-a313-4b91b3749e9c#ref=rss)
+### generation
+
+* [https://www.spiegel.de/panorama/bildung/ukraine-krieg-klimakrise-inflation-deutschlands-alleingelassene-jugend](https://www.spiegel.de/panorama/bildung/ukraine-krieg-klimakrise-inflation-deutschlands-alleingelassene-jugend-a-3e076ac3-b238-4ce2-9b61-eabd26be1eef#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/ukraine-krieg-klimakrise-inflation-vier-junge-menschen-erzaehlen-von-ihren-problemen](https://www.spiegel.de/panorama/bildung/ukraine-krieg-klimakrise-inflation-vier-junge-menschen-erzaehlen-von-ihren-problemen-a-1f85de15-9351-4529-8f49-2ceeb3624326#ref=rss)
+### vier
+
+* [https://www.spiegel.de/panorama/bildung/ukraine-krieg-klimakrise-inflation-vier-junge-menschen-erzaehlen-von-ihren-problemen](https://www.spiegel.de/panorama/bildung/ukraine-krieg-klimakrise-inflation-vier-junge-menschen-erzaehlen-von-ihren-problemen-a-1f85de15-9351-4529-8f49-2ceeb3624326#ref=rss)
+* [https://www.spiegel.de/start/sparen-aktien-oder-alles-ausgeben-junge-erwachsene-ueber-ihren-umgang-mit-geld](https://www.spiegel.de/start/sparen-aktien-oder-alles-ausgeben-junge-erwachsene-ueber-ihren-umgang-mit-geld-a-7d9d029a-319e-4d45-8960-74a4f3cd7575#ref=rss)
+### erzählen
+
+* [https://www.spiegel.de/panorama/bildung/ukraine-krieg-klimakrise-inflation-vier-junge-menschen-erzaehlen-von-ihren-problemen](https://www.spiegel.de/panorama/bildung/ukraine-krieg-klimakrise-inflation-vier-junge-menschen-erzaehlen-von-ihren-problemen-a-1f85de15-9351-4529-8f49-2ceeb3624326#ref=rss)
+* [https://www.spiegel.de/start/sparen-aktien-oder-alles-ausgeben-junge-erwachsene-ueber-ihren-umgang-mit-geld](https://www.spiegel.de/start/sparen-aktien-oder-alles-ausgeben-junge-erwachsene-ueber-ihren-umgang-mit-geld-a-7d9d029a-319e-4d45-8960-74a4f3cd7575#ref=rss)
+### dennis
+
+* [https://www.spiegel.de/sport/basketball/basketball-nba-profi-dennis-schroeder-wechselt-zu-den-toronto-raptors](https://www.spiegel.de/sport/basketball/basketball-nba-profi-dennis-schroeder-wechselt-zu-den-toronto-raptors-a-e79d69ab-d119-4721-8264-3c2798a37411#ref=rss)
+### schröder
+
+* [https://www.spiegel.de/sport/basketball/basketball-nba-profi-dennis-schroeder-wechselt-zu-den-toronto-raptors](https://www.spiegel.de/sport/basketball/basketball-nba-profi-dennis-schroeder-wechselt-zu-den-toronto-raptors-a-e79d69ab-d119-4721-8264-3c2798a37411#ref=rss)
+### toronto
+
+* [https://www.spiegel.de/sport/basketball/basketball-nba-profi-dennis-schroeder-wechselt-zu-den-toronto-raptors](https://www.spiegel.de/sport/basketball/basketball-nba-profi-dennis-schroeder-wechselt-zu-den-toronto-raptors-a-e79d69ab-d119-4721-8264-3c2798a37411#ref=rss)
+### tool
+
+* [https://www.spiegel.de/reise/packliste-fuer-den-urlaub-individualisierbares-tool-zum-abhaken](https://www.spiegel.de/reise/packliste-fuer-den-urlaub-individualisierbares-tool-zum-abhaken-a-60fe8ad7-ec94-4a84-a00c-ed08ecb2aa97#ref=rss)
+### diesem
+
+* [https://www.spiegel.de/reise/packliste-fuer-den-urlaub-individualisierbares-tool-zum-abhaken](https://www.spiegel.de/reise/packliste-fuer-den-urlaub-individualisierbares-tool-zum-abhaken-a-60fe8ad7-ec94-4a84-a00c-ed08ecb2aa97#ref=rss)
+* [https://www.spiegel.de/sport/radsport-im-nationalsozialismus-es-mangelt-komplett-an-der-sensibilitaet](https://www.spiegel.de/sport/radsport-im-nationalsozialismus-es-mangelt-komplett-an-der-sensibilitaet-a-51faa607-6456-4e06-93dc-504cb2bf8d3a#ref=rss)
+### hafen
+
+* [https://www.spiegel.de/panorama/hamburger-hafen-einbrecher-dringen-serienweise-in-containerterminal-ein](https://www.spiegel.de/panorama/hamburger-hafen-einbrecher-dringen-serienweise-in-containerterminal-ein-a-67a29fa3-4e0b-4848-852a-e005f3a79315#ref=rss)
+### jung
+
+* [https://www.spiegel.de/ausland/frankreich-nahverkehr-ruht-die-unruhen-halten-vierte-nacht-in-folge-an](https://www.spiegel.de/ausland/frankreich-nahverkehr-ruht-die-unruhen-halten-vierte-nacht-in-folge-an-a-b4c08cf8-ad1d-4a46-a313-4b91b3749e9c#ref=rss)
+### michael
+
+* [https://www.spiegel.de/politik/deutschland/reise-in-die-unbekannte-heimat](https://www.spiegel.de/politik/deutschland/reise-in-die-unbekannte-heimat-a-47d3ebbc-ac7c-47c5-9b76-4455145dfddc#ref=rss)
+### kellner
+
+* [https://www.spiegel.de/politik/deutschland/reise-in-die-unbekannte-heimat](https://www.spiegel.de/politik/deutschland/reise-in-die-unbekannte-heimat-a-47d3ebbc-ac7c-47c5-9b76-4455145dfddc#ref=rss)
+### sucht
+
+* [https://www.spiegel.de/politik/deutschland/reise-in-die-unbekannte-heimat](https://www.spiegel.de/politik/deutschland/reise-in-die-unbekannte-heimat-a-47d3ebbc-ac7c-47c5-9b76-4455145dfddc#ref=rss)
+### erklärungen
+
+* [https://www.spiegel.de/politik/deutschland/reise-in-die-unbekannte-heimat](https://www.spiegel.de/politik/deutschland/reise-in-die-unbekannte-heimat-a-47d3ebbc-ac7c-47c5-9b76-4455145dfddc#ref=rss)
+### grünen
+
+* [https://www.spiegel.de/politik/deutschland/reise-in-die-unbekannte-heimat](https://www.spiegel.de/politik/deutschland/reise-in-die-unbekannte-heimat-a-47d3ebbc-ac7c-47c5-9b76-4455145dfddc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-cdu-chef-friedrich-merz-und-die-gruenen-berliner-friedrichstrasse-putins-reich](https://www.spiegel.de/politik/deutschland/news-cdu-chef-friedrich-merz-und-die-gruenen-berliner-friedrichstrasse-putins-reich-a-aff057e5-4db6-4055-8d12-85cf8bc1fe2c#ref=rss)
+### heißt
+
+* [https://www.spiegel.de/politik/deutschland/reise-in-die-unbekannte-heimat](https://www.spiegel.de/politik/deutschland/reise-in-die-unbekannte-heimat-a-47d3ebbc-ac7c-47c5-9b76-4455145dfddc#ref=rss)
+* [https://www.spiegel.de/start/sparen-aktien-oder-alles-ausgeben-junge-erwachsene-ueber-ihren-umgang-mit-geld](https://www.spiegel.de/start/sparen-aktien-oder-alles-ausgeben-junge-erwachsene-ueber-ihren-umgang-mit-geld-a-7d9d029a-319e-4d45-8960-74a4f3cd7575#ref=rss)
+### schweiß
+
+* [https://www.spiegel.de/familie/schwitzen-wie-wir-schweiss-reduzieren-podcast-mit-christoph-schick](https://www.spiegel.de/familie/schwitzen-wie-wir-schweiss-reduzieren-podcast-mit-christoph-schick-a-ba4a3e92-3d6a-49ad-8f7e-b92826cf0a30#ref=rss)
+### christoph
+
+* [https://www.spiegel.de/familie/schwitzen-wie-wir-schweiss-reduzieren-podcast-mit-christoph-schick](https://www.spiegel.de/familie/schwitzen-wie-wir-schweiss-reduzieren-podcast-mit-christoph-schick-a-ba4a3e92-3d6a-49ad-8f7e-b92826cf0a30#ref=rss)
+### schick
+
+* [https://www.spiegel.de/familie/schwitzen-wie-wir-schweiss-reduzieren-podcast-mit-christoph-schick](https://www.spiegel.de/familie/schwitzen-wie-wir-schweiss-reduzieren-podcast-mit-christoph-schick-a-ba4a3e92-3d6a-49ad-8f7e-b92826cf0a30#ref=rss)
+### sparen
+
+* [https://www.spiegel.de/start/sparen-aktien-oder-alles-ausgeben-junge-erwachsene-ueber-ihren-umgang-mit-geld](https://www.spiegel.de/start/sparen-aktien-oder-alles-ausgeben-junge-erwachsene-ueber-ihren-umgang-mit-geld-a-7d9d029a-319e-4d45-8960-74a4f3cd7575#ref=rss)
+### ausgeben
+
+* [https://www.spiegel.de/start/sparen-aktien-oder-alles-ausgeben-junge-erwachsene-ueber-ihren-umgang-mit-geld](https://www.spiegel.de/start/sparen-aktien-oder-alles-ausgeben-junge-erwachsene-ueber-ihren-umgang-mit-geld-a-7d9d029a-319e-4d45-8960-74a4f3cd7575#ref=rss)
+### gemacht
+
+* [https://www.spiegel.de/start/sparen-aktien-oder-alles-ausgeben-junge-erwachsene-ueber-ihren-umgang-mit-geld](https://www.spiegel.de/start/sparen-aktien-oder-alles-ausgeben-junge-erwachsene-ueber-ihren-umgang-mit-geld-a-7d9d029a-319e-4d45-8960-74a4f3cd7575#ref=rss)
+* [https://www.spiegel.de/sport/radsport-im-nationalsozialismus-es-mangelt-komplett-an-der-sensibilitaet](https://www.spiegel.de/sport/radsport-im-nationalsozialismus-es-mangelt-komplett-an-der-sensibilitaet-a-51faa607-6456-4e06-93dc-504cb2bf8d3a#ref=rss)
 
