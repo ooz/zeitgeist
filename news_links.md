@@ -4,268 +4,330 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### frankreich
+### offenbar
 
-* [https://www.spiegel.de/ausland/frankreich-mobilisiert-erneut-45-000-polizisten-gegen-krawalle-nach-tod-von-nahel](https://www.spiegel.de/ausland/frankreich-mobilisiert-erneut-45-000-polizisten-gegen-krawalle-nach-tod-von-nahel-a-dc1cd380-c89e-4b3f-819d-dbbbab25a56c#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-nach-tod-von-nahel-m-rechte-sammeln-spenden-fuer-todesschuetzen](https://www.spiegel.de/ausland/frankreich-nach-tod-von-nahel-m-rechte-sammeln-spenden-fuer-todesschuetzen-a-c03f51cc-5ba4-477c-a7ce-70ec2bcd7fcc#ref=rss)
-* [https://www.spiegel.de/kultur/tv/athena-und-die-krawalle-in-frankreich-selbstermaechtigung-mittels-netflix](https://www.spiegel.de/kultur/tv/athena-und-die-krawalle-in-frankreich-selbstermaechtigung-mittels-netflix-a-85ff9966-af57-4108-9dd7-efa3147e0ee5#ref=rss)
-### tod
-
-* [https://www.spiegel.de/ausland/frankreich-mobilisiert-erneut-45-000-polizisten-gegen-krawalle-nach-tod-von-nahel](https://www.spiegel.de/ausland/frankreich-mobilisiert-erneut-45-000-polizisten-gegen-krawalle-nach-tod-von-nahel-a-dc1cd380-c89e-4b3f-819d-dbbbab25a56c#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-nach-tod-von-nahel-m-rechte-sammeln-spenden-fuer-todesschuetzen](https://www.spiegel.de/ausland/frankreich-nach-tod-von-nahel-m-rechte-sammeln-spenden-fuer-todesschuetzen-a-c03f51cc-5ba4-477c-a7ce-70ec2bcd7fcc#ref=rss)
-* [https://www.spiegel.de/panorama/ermittlungen-in-daenemark-sturz-von-mutter-und-kind-von-ostsee-faehre-war-kein-unglueck](https://www.spiegel.de/panorama/ermittlungen-in-daenemark-sturz-von-mutter-und-kind-von-ostsee-faehre-war-kein-unglueck-a-b0f43423-959d-4388-bb88-c74aebfd3614#ref=rss)
-### nahel
-
-* [https://www.spiegel.de/ausland/frankreich-mobilisiert-erneut-45-000-polizisten-gegen-krawalle-nach-tod-von-nahel](https://www.spiegel.de/ausland/frankreich-mobilisiert-erneut-45-000-polizisten-gegen-krawalle-nach-tod-von-nahel-a-dc1cd380-c89e-4b3f-819d-dbbbab25a56c#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-nach-tod-von-nahel-m-rechte-sammeln-spenden-fuer-todesschuetzen](https://www.spiegel.de/ausland/frankreich-nach-tod-von-nahel-m-rechte-sammeln-spenden-fuer-todesschuetzen-a-c03f51cc-5ba4-477c-a7ce-70ec2bcd7fcc#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/ampelfraktionen-einigen-sich-auf-mehr-befugnisse-fuer-das-kartellamt](https://www.spiegel.de/wirtschaft/ampelfraktionen-einigen-sich-auf-mehr-befugnisse-fuer-das-kartellamt-a-71c1d8d5-6d6a-4e47-9b32-e7fbbce1660b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/corona-risiko-fuer-diabetes-waehrend-der-pandemie-bei-kindern-und-jugendlichen-gestiegen](https://www.spiegel.de/wissenschaft/corona-risiko-fuer-diabetes-waehrend-der-pandemie-bei-kindern-und-jugendlichen-gestiegen-a-0a79b237-1e3e-4cd3-b197-6f52916bd55c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/robben-vermehren-sich-im-wattenmeer](https://www.spiegel.de/wissenschaft/robben-vermehren-sich-im-wattenmeer-a-d122d378-8bad-4852-85b0-0c7c297bc4cc#ref=rss)
-### tour
-
-* [https://www.spiegel.de/sport/3-etappe-der-tour-de-france-endlich-duerfen-die-sprinter-ran](https://www.spiegel.de/sport/3-etappe-der-tour-de-france-endlich-duerfen-die-sprinter-ran-a-0b1ae452-7f6b-4e82-88c8-0b382aa7dcee#ref=rss)
-* [https://www.spiegel.de/sport/tour-de-france-2023-jasper-philipsen-gewinnt-die-erste-sprintankunft](https://www.spiegel.de/sport/tour-de-france-2023-jasper-philipsen-gewinnt-die-erste-sprintankunft-a-616e61d4-3877-419b-9ef7-36f9766c5f8a#ref=rss)
-### de
-
-* [https://www.spiegel.de/sport/3-etappe-der-tour-de-france-endlich-duerfen-die-sprinter-ran](https://www.spiegel.de/sport/3-etappe-der-tour-de-france-endlich-duerfen-die-sprinter-ran-a-0b1ae452-7f6b-4e82-88c8-0b382aa7dcee#ref=rss)
-* [https://www.spiegel.de/sport/tour-de-france-2023-jasper-philipsen-gewinnt-die-erste-sprintankunft](https://www.spiegel.de/sport/tour-de-france-2023-jasper-philipsen-gewinnt-die-erste-sprintankunft-a-616e61d4-3877-419b-9ef7-36f9766c5f8a#ref=rss)
-### france
-
-* [https://www.spiegel.de/sport/3-etappe-der-tour-de-france-endlich-duerfen-die-sprinter-ran](https://www.spiegel.de/sport/3-etappe-der-tour-de-france-endlich-duerfen-die-sprinter-ran-a-0b1ae452-7f6b-4e82-88c8-0b382aa7dcee#ref=rss)
-* [https://www.spiegel.de/sport/tour-de-france-2023-jasper-philipsen-gewinnt-die-erste-sprintankunft](https://www.spiegel.de/sport/tour-de-france-2023-jasper-philipsen-gewinnt-die-erste-sprintankunft-a-616e61d4-3877-419b-9ef7-36f9766c5f8a#ref=rss)
-### ampel
-
-* [https://www.spiegel.de/wirtschaft/ampelfraktionen-einigen-sich-auf-mehr-befugnisse-fuer-das-kartellamt](https://www.spiegel.de/wirtschaft/ampelfraktionen-einigen-sich-auf-mehr-befugnisse-fuer-das-kartellamt-a-71c1d8d5-6d6a-4e47-9b32-e7fbbce1660b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/warburg-skandal-ampel-lehnt-bundestags-untersuchungsausschuss-offenbar-ab](https://www.spiegel.de/politik/deutschland/warburg-skandal-ampel-lehnt-bundestags-untersuchungsausschuss-offenbar-ab-a-f919f8f5-511b-46d8-b9fd-cb0f37a7e79a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-sparplaene-der-regierung-angriff-auf-dschenin-bahn-verleibt-sich-kritiker-ein](https://www.spiegel.de/politik/deutschland/news-des-tages-sparplaene-der-regierung-angriff-auf-dschenin-bahn-verleibt-sich-kritiker-ein-a-468632e4-ec76-4485-9212-e1545f8e6909#ref=rss)
-### israels
-
-* [https://www.spiegel.de/ausland/tel-aviv-demonstranten-versuchen-blockade-von-israels-groesstem-flughafen](https://www.spiegel.de/ausland/tel-aviv-demonstranten-versuchen-blockade-von-israels-groesstem-flughafen-a-579a6827-06e2-420b-bbf9-20b663ac1ee0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-sparplaene-der-regierung-angriff-auf-dschenin-bahn-verleibt-sich-kritiker-ein](https://www.spiegel.de/politik/deutschland/news-des-tages-sparplaene-der-regierung-angriff-auf-dschenin-bahn-verleibt-sich-kritiker-ein-a-468632e4-ec76-4485-9212-e1545f8e6909#ref=rss)
-### etappe
-
-* [https://www.spiegel.de/sport/3-etappe-der-tour-de-france-endlich-duerfen-die-sprinter-ran](https://www.spiegel.de/sport/3-etappe-der-tour-de-france-endlich-duerfen-die-sprinter-ran-a-0b1ae452-7f6b-4e82-88c8-0b382aa7dcee#ref=rss)
-* [https://www.spiegel.de/sport/tour-de-france-2023-jasper-philipsen-gewinnt-die-erste-sprintankunft](https://www.spiegel.de/sport/tour-de-france-2023-jasper-philipsen-gewinnt-die-erste-sprintankunft-a-616e61d4-3877-419b-9ef7-36f9766c5f8a#ref=rss)
-### jasper
-
-* [https://www.spiegel.de/sport/3-etappe-der-tour-de-france-endlich-duerfen-die-sprinter-ran](https://www.spiegel.de/sport/3-etappe-der-tour-de-france-endlich-duerfen-die-sprinter-ran-a-0b1ae452-7f6b-4e82-88c8-0b382aa7dcee#ref=rss)
-* [https://www.spiegel.de/sport/tour-de-france-2023-jasper-philipsen-gewinnt-die-erste-sprintankunft](https://www.spiegel.de/sport/tour-de-france-2023-jasper-philipsen-gewinnt-die-erste-sprintankunft-a-616e61d4-3877-419b-9ef7-36f9766c5f8a#ref=rss)
-### philipsen
-
-* [https://www.spiegel.de/sport/3-etappe-der-tour-de-france-endlich-duerfen-die-sprinter-ran](https://www.spiegel.de/sport/3-etappe-der-tour-de-france-endlich-duerfen-die-sprinter-ran-a-0b1ae452-7f6b-4e82-88c8-0b382aa7dcee#ref=rss)
-* [https://www.spiegel.de/sport/tour-de-france-2023-jasper-philipsen-gewinnt-die-erste-sprintankunft](https://www.spiegel.de/sport/tour-de-france-2023-jasper-philipsen-gewinnt-die-erste-sprintankunft-a-616e61d4-3877-419b-9ef7-36f9766c5f8a#ref=rss)
-### 1
-
-* [https://www.spiegel.de/wissenschaft/corona-risiko-fuer-diabetes-waehrend-der-pandemie-bei-kindern-und-jugendlichen-gestiegen](https://www.spiegel.de/wissenschaft/corona-risiko-fuer-diabetes-waehrend-der-pandemie-bei-kindern-und-jugendlichen-gestiegen-a-0a79b237-1e3e-4cd3-b197-6f52916bd55c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/podcast-im-verhoer-die-tinder-schwindler-1-auf-der-spur-der-love-scammer-spiegel-tv](https://www.spiegel.de/panorama/justiz/podcast-im-verhoer-die-tinder-schwindler-1-auf-der-spur-der-love-scammer-spiegel-tv-a-2cd40178-1a21-42ea-8ada-c4f595209832#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-strafenchaos-in-spielberg-1200-untersuchungen-gegen-unerlaubtes-verlassen-der-strecke](https://www.spiegel.de/sport/formel1/formel-1-strafenchaos-in-spielberg-1200-untersuchungen-gegen-unerlaubtes-verlassen-der-strecke-a-7bcea575-7303-4b86-804e-8e3f5cd40b90#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/wissenschaft/mensch/studie-zeigt-auch-frauen-jagen](https://www.spiegel.de/wissenschaft/mensch/studie-zeigt-auch-frauen-jagen-a-fa110d20-c36e-4648-a29f-e3bbe54e748d#ref=rss)
-### oft
-
-* [https://www.spiegel.de/wissenschaft/mensch/studie-zeigt-auch-frauen-jagen](https://www.spiegel.de/wissenschaft/mensch/studie-zeigt-auch-frauen-jagen-a-fa110d20-c36e-4648-a29f-e3bbe54e748d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/podcast-im-verhoer-die-tinder-schwindler-1-auf-der-spur-der-love-scammer-spiegel-tv](https://www.spiegel.de/panorama/justiz/podcast-im-verhoer-die-tinder-schwindler-1-auf-der-spur-der-love-scammer-spiegel-tv-a-2cd40178-1a21-42ea-8ada-c4f595209832#ref=rss)
-* [https://www.spiegel.de/reise/bahn-flug-und-bus-wie-schlichtungsstellen-bei-reise-aerger-kostenlos-zum-recht-verhelfen](https://www.spiegel.de/reise/bahn-flug-und-bus-wie-schlichtungsstellen-bei-reise-aerger-kostenlos-zum-recht-verhelfen-a-83ca8223-09c2-450e-943a-f04dce017a43#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-erhoeht-im-streit-ueber-leopard-reparaturzentrum-den-druck-auf-polen](https://www.spiegel.de/politik/deutschland/boris-pistorius-erhoeht-im-streit-ueber-leopard-reparaturzentrum-den-druck-auf-polen-a-13304150-0d46-4748-aedd-57ae67faa2d1#ref=rss)
-* [https://www.spiegel.de/auto/berlin-fahrrad-demonstration-gegen-plaene-der-cdu](https://www.spiegel.de/auto/berlin-fahrrad-demonstration-gegen-plaene-der-cdu-a-963555e3-5183-42ae-bdd0-4c195a688dfa#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/reise/bahn-flug-und-bus-wie-schlichtungsstellen-bei-reise-aerger-kostenlos-zum-recht-verhelfen](https://www.spiegel.de/reise/bahn-flug-und-bus-wie-schlichtungsstellen-bei-reise-aerger-kostenlos-zum-recht-verhelfen-a-83ca8223-09c2-450e-943a-f04dce017a43#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-sparplaene-der-regierung-angriff-auf-dschenin-bahn-verleibt-sich-kritiker-ein](https://www.spiegel.de/politik/deutschland/news-des-tages-sparplaene-der-regierung-angriff-auf-dschenin-bahn-verleibt-sich-kritiker-ein-a-468632e4-ec76-4485-9212-e1545f8e6909#ref=rss)
-### zug
-
-* [https://www.spiegel.de/reise/bahn-flug-und-bus-wie-schlichtungsstellen-bei-reise-aerger-kostenlos-zum-recht-verhelfen](https://www.spiegel.de/reise/bahn-flug-und-bus-wie-schlichtungsstellen-bei-reise-aerger-kostenlos-zum-recht-verhelfen-a-83ca8223-09c2-450e-943a-f04dce017a43#ref=rss)
-* [https://www.spiegel.de/panorama/mutmasslich-alkoholisierter-fahrgast-mann-tritt-gegen-einfahrenden-zug-und-wird-mitgerissen](https://www.spiegel.de/panorama/mutmasslich-alkoholisierter-fahrgast-mann-tritt-gegen-einfahrenden-zug-und-wird-mitgerissen-a-665522e1-cec3-470a-81a5-072646223bce#ref=rss)
-### steven
-
-* [https://www.spiegel.de/sport/fussball/steven-gerrard-wird-trainer-in-saudi-arabien](https://www.spiegel.de/sport/fussball/steven-gerrard-wird-trainer-in-saudi-arabien-a-b0feb9fe-c473-4122-afb8-a0da2a23cfdf#ref=rss)
-### gerrard
-
-* [https://www.spiegel.de/sport/fussball/steven-gerrard-wird-trainer-in-saudi-arabien](https://www.spiegel.de/sport/fussball/steven-gerrard-wird-trainer-in-saudi-arabien-a-b0feb9fe-c473-4122-afb8-a0da2a23cfdf#ref=rss)
-### krawalle
-
-* [https://www.spiegel.de/ausland/frankreich-mobilisiert-erneut-45-000-polizisten-gegen-krawalle-nach-tod-von-nahel](https://www.spiegel.de/ausland/frankreich-mobilisiert-erneut-45-000-polizisten-gegen-krawalle-nach-tod-von-nahel-a-dc1cd380-c89e-4b3f-819d-dbbbab25a56c#ref=rss)
-* [https://www.spiegel.de/kultur/tv/athena-und-die-krawalle-in-frankreich-selbstermaechtigung-mittels-netflix](https://www.spiegel.de/kultur/tv/athena-und-die-krawalle-in-frankreich-selbstermaechtigung-mittels-netflix-a-85ff9966-af57-4108-9dd7-efa3147e0ee5#ref=rss)
-### 17jährigen
-
-* [https://www.spiegel.de/ausland/frankreich-mobilisiert-erneut-45-000-polizisten-gegen-krawalle-nach-tod-von-nahel](https://www.spiegel.de/ausland/frankreich-mobilisiert-erneut-45-000-polizisten-gegen-krawalle-nach-tod-von-nahel-a-dc1cd380-c89e-4b3f-819d-dbbbab25a56c#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-nach-tod-von-nahel-m-rechte-sammeln-spenden-fuer-todesschuetzen](https://www.spiegel.de/ausland/frankreich-nach-tod-von-nahel-m-rechte-sammeln-spenden-fuer-todesschuetzen-a-c03f51cc-5ba4-477c-a7ce-70ec2bcd7fcc#ref=rss)
-### vergangenen
-
-* [https://www.spiegel.de/ausland/frankreich-mobilisiert-erneut-45-000-polizisten-gegen-krawalle-nach-tod-von-nahel](https://www.spiegel.de/ausland/frankreich-mobilisiert-erneut-45-000-polizisten-gegen-krawalle-nach-tod-von-nahel-a-dc1cd380-c89e-4b3f-819d-dbbbab25a56c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/robben-vermehren-sich-im-wattenmeer](https://www.spiegel.de/wissenschaft/robben-vermehren-sich-im-wattenmeer-a-d122d378-8bad-4852-85b0-0c7c297bc4cc#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/ausland/frankreich-mobilisiert-erneut-45-000-polizisten-gegen-krawalle-nach-tod-von-nahel](https://www.spiegel.de/ausland/frankreich-mobilisiert-erneut-45-000-polizisten-gegen-krawalle-nach-tod-von-nahel-a-dc1cd380-c89e-4b3f-819d-dbbbab25a56c#ref=rss)
-* [https://www.spiegel.de/kultur/tv/athena-und-die-krawalle-in-frankreich-selbstermaechtigung-mittels-netflix](https://www.spiegel.de/kultur/tv/athena-und-die-krawalle-in-frankreich-selbstermaechtigung-mittels-netflix-a-85ff9966-af57-4108-9dd7-efa3147e0ee5#ref=rss)
-### kindergrundsicherung
-
-* [https://www.spiegel.de/politik/kindergrundsicherung-die-gruenen-muessen-um-ihr-projekt-fuerchten](https://www.spiegel.de/politik/kindergrundsicherung-die-gruenen-muessen-um-ihr-projekt-fuerchten-a-cc182b80-71e0-4203-93d3-32b1d72f551c#ref=rss)
-### grünen
-
-* [https://www.spiegel.de/politik/kindergrundsicherung-die-gruenen-muessen-um-ihr-projekt-fuerchten](https://www.spiegel.de/politik/kindergrundsicherung-die-gruenen-muessen-um-ihr-projekt-fuerchten-a-cc182b80-71e0-4203-93d3-32b1d72f551c#ref=rss)
-### droht
-
-* [https://www.spiegel.de/politik/kindergrundsicherung-die-gruenen-muessen-um-ihr-projekt-fuerchten](https://www.spiegel.de/politik/kindergrundsicherung-die-gruenen-muessen-um-ihr-projekt-fuerchten-a-cc182b80-71e0-4203-93d3-32b1d72f551c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/warburg-skandal-ampel-lehnt-bundestags-untersuchungsausschuss-offenbar-ab](https://www.spiegel.de/politik/deutschland/warburg-skandal-ampel-lehnt-bundestags-untersuchungsausschuss-offenbar-ab-a-f919f8f5-511b-46d8-b9fd-cb0f37a7e79a#ref=rss)
-### streit
-
-* [https://www.spiegel.de/politik/kindergrundsicherung-die-gruenen-muessen-um-ihr-projekt-fuerchten](https://www.spiegel.de/politik/kindergrundsicherung-die-gruenen-muessen-um-ihr-projekt-fuerchten-a-cc182b80-71e0-4203-93d3-32b1d72f551c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-erhoeht-im-streit-ueber-leopard-reparaturzentrum-den-druck-auf-polen](https://www.spiegel.de/politik/deutschland/boris-pistorius-erhoeht-im-streit-ueber-leopard-reparaturzentrum-den-druck-auf-polen-a-13304150-0d46-4748-aedd-57ae67faa2d1#ref=rss)
-### kartellamt
-
-* [https://www.spiegel.de/wirtschaft/ampelfraktionen-einigen-sich-auf-mehr-befugnisse-fuer-das-kartellamt](https://www.spiegel.de/wirtschaft/ampelfraktionen-einigen-sich-auf-mehr-befugnisse-fuer-das-kartellamt-a-71c1d8d5-6d6a-4e47-9b32-e7fbbce1660b#ref=rss)
-### macht
-
-* [https://www.spiegel.de/wirtschaft/ampelfraktionen-einigen-sich-auf-mehr-befugnisse-fuer-das-kartellamt](https://www.spiegel.de/wirtschaft/ampelfraktionen-einigen-sich-auf-mehr-befugnisse-fuer-das-kartellamt-a-71c1d8d5-6d6a-4e47-9b32-e7fbbce1660b#ref=rss)
-* [https://www.spiegel.de/kultur/tv/athena-und-die-krawalle-in-frankreich-selbstermaechtigung-mittels-netflix](https://www.spiegel.de/kultur/tv/athena-und-die-krawalle-in-frankreich-selbstermaechtigung-mittels-netflix-a-85ff9966-af57-4108-9dd7-efa3147e0ee5#ref=rss)
-### flughafen
-
-* [https://www.spiegel.de/ausland/tel-aviv-demonstranten-versuchen-blockade-von-israels-groesstem-flughafen](https://www.spiegel.de/ausland/tel-aviv-demonstranten-versuchen-blockade-von-israels-groesstem-flughafen-a-579a6827-06e2-420b-bbf9-20b663ac1ee0#ref=rss)
-### m
-
-* [https://www.spiegel.de/ausland/frankreich-nach-tod-von-nahel-m-rechte-sammeln-spenden-fuer-todesschuetzen](https://www.spiegel.de/ausland/frankreich-nach-tod-von-nahel-m-rechte-sammeln-spenden-fuer-todesschuetzen-a-c03f51cc-5ba4-477c-a7ce-70ec2bcd7fcc#ref=rss)
-### spenden
-
-* [https://www.spiegel.de/ausland/frankreich-nach-tod-von-nahel-m-rechte-sammeln-spenden-fuer-todesschuetzen](https://www.spiegel.de/ausland/frankreich-nach-tod-von-nahel-m-rechte-sammeln-spenden-fuer-todesschuetzen-a-c03f51cc-5ba4-477c-a7ce-70ec2bcd7fcc#ref=rss)
-### fällt
-
-* [https://www.spiegel.de/ausland/frankreich-nach-tod-von-nahel-m-rechte-sammeln-spenden-fuer-todesschuetzen](https://www.spiegel.de/ausland/frankreich-nach-tod-von-nahel-m-rechte-sammeln-spenden-fuer-todesschuetzen-a-c03f51cc-5ba4-477c-a7ce-70ec2bcd7fcc#ref=rss)
-* [https://www.spiegel.de/reise/bahn-flug-und-bus-wie-schlichtungsstellen-bei-reise-aerger-kostenlos-zum-recht-verhelfen](https://www.spiegel.de/reise/bahn-flug-und-bus-wie-schlichtungsstellen-bei-reise-aerger-kostenlos-zum-recht-verhelfen-a-83ca8223-09c2-450e-943a-f04dce017a43#ref=rss)
-### endlich
-
-* [https://www.spiegel.de/sport/3-etappe-der-tour-de-france-endlich-duerfen-die-sprinter-ran](https://www.spiegel.de/sport/3-etappe-der-tour-de-france-endlich-duerfen-die-sprinter-ran-a-0b1ae452-7f6b-4e82-88c8-0b382aa7dcee#ref=rss)
-### dritten
-
-* [https://www.spiegel.de/sport/3-etappe-der-tour-de-france-endlich-duerfen-die-sprinter-ran](https://www.spiegel.de/sport/3-etappe-der-tour-de-france-endlich-duerfen-die-sprinter-ran-a-0b1ae452-7f6b-4e82-88c8-0b382aa7dcee#ref=rss)
-* [https://www.spiegel.de/sport/tour-de-france-2023-jasper-philipsen-gewinnt-die-erste-sprintankunft](https://www.spiegel.de/sport/tour-de-france-2023-jasper-philipsen-gewinnt-die-erste-sprintankunft-a-616e61d4-3877-419b-9ef7-36f9766c5f8a#ref=rss)
-### zeigen
-
-* [https://www.spiegel.de/sport/3-etappe-der-tour-de-france-endlich-duerfen-die-sprinter-ran](https://www.spiegel.de/sport/3-etappe-der-tour-de-france-endlich-duerfen-die-sprinter-ran-a-0b1ae452-7f6b-4e82-88c8-0b382aa7dcee#ref=rss)
-* [https://www.spiegel.de/panorama/ermittlungen-in-daenemark-sturz-von-mutter-und-kind-von-ostsee-faehre-war-kein-unglueck](https://www.spiegel.de/panorama/ermittlungen-in-daenemark-sturz-von-mutter-und-kind-von-ostsee-faehre-war-kein-unglueck-a-b0f43423-959d-4388-bb88-c74aebfd3614#ref=rss)
-### sturz
-
-* [https://www.spiegel.de/panorama/ermittlungen-in-daenemark-sturz-von-mutter-und-kind-von-ostsee-faehre-war-kein-unglueck](https://www.spiegel.de/panorama/ermittlungen-in-daenemark-sturz-von-mutter-und-kind-von-ostsee-faehre-war-kein-unglueck-a-b0f43423-959d-4388-bb88-c74aebfd3614#ref=rss)
-### mutter
-
-* [https://www.spiegel.de/panorama/ermittlungen-in-daenemark-sturz-von-mutter-und-kind-von-ostsee-faehre-war-kein-unglueck](https://www.spiegel.de/panorama/ermittlungen-in-daenemark-sturz-von-mutter-und-kind-von-ostsee-faehre-war-kein-unglueck-a-b0f43423-959d-4388-bb88-c74aebfd3614#ref=rss)
-### ostseefähre
-
-* [https://www.spiegel.de/panorama/ermittlungen-in-daenemark-sturz-von-mutter-und-kind-von-ostsee-faehre-war-kein-unglueck](https://www.spiegel.de/panorama/ermittlungen-in-daenemark-sturz-von-mutter-und-kind-von-ostsee-faehre-war-kein-unglueck-a-b0f43423-959d-4388-bb88-c74aebfd3614#ref=rss)
-### unglück
-
-* [https://www.spiegel.de/panorama/ermittlungen-in-daenemark-sturz-von-mutter-und-kind-von-ostsee-faehre-war-kein-unglueck](https://www.spiegel.de/panorama/ermittlungen-in-daenemark-sturz-von-mutter-und-kind-von-ostsee-faehre-war-kein-unglueck-a-b0f43423-959d-4388-bb88-c74aebfd3614#ref=rss)
-### diabetes
-
-* [https://www.spiegel.de/wissenschaft/corona-risiko-fuer-diabetes-waehrend-der-pandemie-bei-kindern-und-jugendlichen-gestiegen](https://www.spiegel.de/wissenschaft/corona-risiko-fuer-diabetes-waehrend-der-pandemie-bei-kindern-und-jugendlichen-gestiegen-a-0a79b237-1e3e-4cd3-b197-6f52916bd55c#ref=rss)
-### männer
-
-* [https://www.spiegel.de/wissenschaft/mensch/studie-zeigt-auch-frauen-jagen](https://www.spiegel.de/wissenschaft/mensch/studie-zeigt-auch-frauen-jagen-a-fa110d20-c36e-4648-a29f-e3bbe54e748d#ref=rss)
-### fachleute
-
-* [https://www.spiegel.de/wissenschaft/mensch/studie-zeigt-auch-frauen-jagen](https://www.spiegel.de/wissenschaft/mensch/studie-zeigt-auch-frauen-jagen-a-fa110d20-c36e-4648-a29f-e3bbe54e748d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/albert-einstein-die-zeit-im-fruehen-universum-verging-aus-heutiger-sicht-langsamer](https://www.spiegel.de/wissenschaft/weltall/albert-einstein-die-zeit-im-fruehen-universum-verging-aus-heutiger-sicht-langsamer-a-b4251cf9-c9c1-4d0f-ad97-cf98cac6f0ad#ref=rss)
-### pistorius
-
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-erhoeht-im-streit-ueber-leopard-reparaturzentrum-den-druck-auf-polen](https://www.spiegel.de/politik/deutschland/boris-pistorius-erhoeht-im-streit-ueber-leopard-reparaturzentrum-den-druck-auf-polen-a-13304150-0d46-4748-aedd-57ae67faa2d1#ref=rss)
-### zehn
-
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-erhoeht-im-streit-ueber-leopard-reparaturzentrum-den-druck-auf-polen](https://www.spiegel.de/politik/deutschland/boris-pistorius-erhoeht-im-streit-ueber-leopard-reparaturzentrum-den-druck-auf-polen-a-13304150-0d46-4748-aedd-57ae67faa2d1#ref=rss)
-* [https://www.spiegel.de/sport/boxen-neuer-ibf-weltmeister-vincenzo-gualtieri-im-moment-seines-groessten-triumphs-denkt-er-an-rocky](https://www.spiegel.de/sport/boxen-neuer-ibf-weltmeister-vincenzo-gualtieri-im-moment-seines-groessten-triumphs-denkt-er-an-rocky-a-2ed99abd-7fcf-4d11-b429-d2c7254470db#ref=rss)
-### spionageschiffe
-
-* [https://www.spiegel.de/politik/deutschland/teurer-und-unklarer-auftrag-fuer-spionageschiffe-bundesrechnungshof-kanzelt-pistorius-ministerium-ab](https://www.spiegel.de/politik/deutschland/teurer-und-unklarer-auftrag-fuer-spionageschiffe-bundesrechnungshof-kanzelt-pistorius-ministerium-ab-a-856fc694-1514-4eb3-a9a6-0d54bf86833e#ref=rss)
-### spiegel
-
-* [https://www.spiegel.de/politik/deutschland/teurer-und-unklarer-auftrag-fuer-spionageschiffe-bundesrechnungshof-kanzelt-pistorius-ministerium-ab](https://www.spiegel.de/politik/deutschland/teurer-und-unklarer-auftrag-fuer-spionageschiffe-bundesrechnungshof-kanzelt-pistorius-ministerium-ab-a-856fc694-1514-4eb3-a9a6-0d54bf86833e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/podcast-im-verhoer-die-tinder-schwindler-1-auf-der-spur-der-love-scammer-spiegel-tv](https://www.spiegel.de/panorama/justiz/podcast-im-verhoer-die-tinder-schwindler-1-auf-der-spur-der-love-scammer-spiegel-tv-a-2cd40178-1a21-42ea-8ada-c4f595209832#ref=rss)
-### athena
-
-* [https://www.spiegel.de/kultur/tv/athena-und-die-krawalle-in-frankreich-selbstermaechtigung-mittels-netflix](https://www.spiegel.de/kultur/tv/athena-und-die-krawalle-in-frankreich-selbstermaechtigung-mittels-netflix-a-85ff9966-af57-4108-9dd7-efa3147e0ee5#ref=rss)
-### flug
-
-* [https://www.spiegel.de/reise/bahn-flug-und-bus-wie-schlichtungsstellen-bei-reise-aerger-kostenlos-zum-recht-verhelfen](https://www.spiegel.de/reise/bahn-flug-und-bus-wie-schlichtungsstellen-bei-reise-aerger-kostenlos-zum-recht-verhelfen-a-83ca8223-09c2-450e-943a-f04dce017a43#ref=rss)
-### veronika
-
-* [https://www.spiegel.de/gesundheit/ernaehrung/veronika-siflinger-lutz-spitzenkoechin-ueber-kohlenhydrate-zucker-fett](https://www.spiegel.de/gesundheit/ernaehrung/veronika-siflinger-lutz-spitzenkoechin-ueber-kohlenhydrate-zucker-fett-a-08b16bc6-9a84-46a7-a3a9-47c15af6ec1a#ref=rss)
-### siflingerlutz
-
-* [https://www.spiegel.de/gesundheit/ernaehrung/veronika-siflinger-lutz-spitzenkoechin-ueber-kohlenhydrate-zucker-fett](https://www.spiegel.de/gesundheit/ernaehrung/veronika-siflinger-lutz-spitzenkoechin-ueber-kohlenhydrate-zucker-fett-a-08b16bc6-9a84-46a7-a3a9-47c15af6ec1a#ref=rss)
-### mindestlohn
-
-* [https://www.spiegel.de/politik/deutschland/spd-wahlkampf-mit-mindestlohn-lars-klingbeil-laesst-tief-blicken](https://www.spiegel.de/politik/deutschland/spd-wahlkampf-mit-mindestlohn-lars-klingbeil-laesst-tief-blicken-a-91fb38a6-f0cd-4fb6-9936-aff1b7deced1#ref=rss)
-### lars
-
-* [https://www.spiegel.de/politik/deutschland/spd-wahlkampf-mit-mindestlohn-lars-klingbeil-laesst-tief-blicken](https://www.spiegel.de/politik/deutschland/spd-wahlkampf-mit-mindestlohn-lars-klingbeil-laesst-tief-blicken-a-91fb38a6-f0cd-4fb6-9936-aff1b7deced1#ref=rss)
-### klingbeil
-
-* [https://www.spiegel.de/politik/deutschland/spd-wahlkampf-mit-mindestlohn-lars-klingbeil-laesst-tief-blicken](https://www.spiegel.de/politik/deutschland/spd-wahlkampf-mit-mindestlohn-lars-klingbeil-laesst-tief-blicken-a-91fb38a6-f0cd-4fb6-9936-aff1b7deced1#ref=rss)
-### euro
-
-* [https://www.spiegel.de/politik/deutschland/spd-wahlkampf-mit-mindestlohn-lars-klingbeil-laesst-tief-blicken](https://www.spiegel.de/politik/deutschland/spd-wahlkampf-mit-mindestlohn-lars-klingbeil-laesst-tief-blicken-a-91fb38a6-f0cd-4fb6-9936-aff1b7deced1#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/prozess-um-kunstbetrug-ich-bin-der-einzige-idiot-der-gezahlt-hat](https://www.spiegel.de/panorama/justiz/prozess-um-kunstbetrug-ich-bin-der-einzige-idiot-der-gezahlt-hat-a-06a89cde-f92b-4b7b-b61a-4d0f204a6b51#ref=rss)
-### giordano
-
-* [https://www.spiegel.de/geschichte/giordano-bruno-und-galileo-galilei-der-kampf-der-sterndeuter](https://www.spiegel.de/geschichte/giordano-bruno-und-galileo-galilei-der-kampf-der-sterndeuter-a-08b9f7d9-adc9-464e-ab2f-85f426e07a0c#ref=rss)
-### bruno
-
-* [https://www.spiegel.de/geschichte/giordano-bruno-und-galileo-galilei-der-kampf-der-sterndeuter](https://www.spiegel.de/geschichte/giordano-bruno-und-galileo-galilei-der-kampf-der-sterndeuter-a-08b9f7d9-adc9-464e-ab2f-85f426e07a0c#ref=rss)
-### galileo
-
-* [https://www.spiegel.de/geschichte/giordano-bruno-und-galileo-galilei-der-kampf-der-sterndeuter](https://www.spiegel.de/geschichte/giordano-bruno-und-galileo-galilei-der-kampf-der-sterndeuter-a-08b9f7d9-adc9-464e-ab2f-85f426e07a0c#ref=rss)
-### galilei
-
-* [https://www.spiegel.de/geschichte/giordano-bruno-und-galileo-galilei-der-kampf-der-sterndeuter](https://www.spiegel.de/geschichte/giordano-bruno-und-galileo-galilei-der-kampf-der-sterndeuter-a-08b9f7d9-adc9-464e-ab2f-85f426e07a0c#ref=rss)
-### robben
-
-* [https://www.spiegel.de/wissenschaft/robben-vermehren-sich-im-wattenmeer](https://www.spiegel.de/wissenschaft/robben-vermehren-sich-im-wattenmeer-a-d122d378-8bad-4852-85b0-0c7c297bc4cc#ref=rss)
-### wattenmeer
-
-* [https://www.spiegel.de/wissenschaft/robben-vermehren-sich-im-wattenmeer](https://www.spiegel.de/wissenschaft/robben-vermehren-sich-im-wattenmeer-a-d122d378-8bad-4852-85b0-0c7c297bc4cc#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-news-am-dienstag-kiew-meldet-fortschritte-bei-gegenoffensive](https://www.spiegel.de/ausland/russland-ukraine-news-am-dienstag-kiew-meldet-fortschritte-bei-gegenoffensive-a-8622c497-ea90-4064-b642-d6723b89e529#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bremen-bei-verkehrskontrolle-familie-soll-polizisten-angegriffen-haben](https://www.spiegel.de/panorama/justiz/bremen-bei-verkehrskontrolle-familie-soll-polizisten-angegriffen-haben-a-225c734c-86b7-45e1-8fee-703074ef733a#ref=rss)
+* [https://www.spiegel.de/panorama/sundern-19-jaehriger-tot-aus-sorpesee-geborgen](https://www.spiegel.de/panorama/sundern-19-jaehriger-tot-aus-sorpesee-geborgen-a-16c7ab24-5928-4d03-9de2-380740679f2c#ref=rss)
+* [https://www.spiegel.de/ausland/indien-reparaturarbeiten-an-bahnschranke-fuehrten-offenbar-zu-zungunglueck-mit-288-toten](https://www.spiegel.de/ausland/indien-reparaturarbeiten-an-bahnschranke-fuehrten-offenbar-zu-zungunglueck-mit-288-toten-a-51e8ea6a-f0de-4d23-a566-f8ee758f2395#ref=rss)
 ### jahren
 
-* [https://www.spiegel.de/wissenschaft/robben-vermehren-sich-im-wattenmeer](https://www.spiegel.de/wissenschaft/robben-vermehren-sich-im-wattenmeer-a-d122d378-8bad-4852-85b0-0c7c297bc4cc#ref=rss)
-* [https://www.spiegel.de/sport/boxen-neuer-ibf-weltmeister-vincenzo-gualtieri-im-moment-seines-groessten-triumphs-denkt-er-an-rocky](https://www.spiegel.de/sport/boxen-neuer-ibf-weltmeister-vincenzo-gualtieri-im-moment-seines-groessten-triumphs-denkt-er-an-rocky-a-2ed99abd-7fcf-4d11-b429-d2c7254470db#ref=rss)
-### sparpläne
+* [https://www.spiegel.de/ausland/russland-journalistin-in-tschetschenien-zusammengeschlagen](https://www.spiegel.de/ausland/russland-journalistin-in-tschetschenien-zusammengeschlagen-a-786729d4-00e1-4447-964b-968a10f002ea#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/nachtzug-nach-lissabon-bestsellerautor-peter-bieri-ist-am-27-juni-gestorben](https://www.spiegel.de/kultur/literatur/nachtzug-nach-lissabon-bestsellerautor-peter-bieri-ist-am-27-juni-gestorben-a-5d44b94d-ab63-4965-8653-3361aff7f8ab#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-maschas-vater-alexey-moskaljow-bittet-um-todesstrafe](https://www.spiegel.de/ausland/russland-ukraine-krieg-maschas-vater-alexey-moskaljow-bittet-um-todesstrafe-a-762ecfcc-e41d-4492-b6d2-80cd6cf6327f#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-sparplaene-der-regierung-angriff-auf-dschenin-bahn-verleibt-sich-kritiker-ein](https://www.spiegel.de/politik/deutschland/news-des-tages-sparplaene-der-regierung-angriff-auf-dschenin-bahn-verleibt-sich-kritiker-ein-a-468632e4-ec76-4485-9212-e1545f8e6909#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/schule-6-2-prozent-der-jugendlichen-2021-ohne-abschluss](https://www.spiegel.de/panorama/bildung/schule-6-2-prozent-der-jugendlichen-2021-ohne-abschluss-a-f9d0b48b-c18c-4994-a2f6-aa9989278317#ref=rss)
+* [https://www.spiegel.de/ausland/dschenin-arabische-liga-nennt-israels-militaeroperation-kriminell](https://www.spiegel.de/ausland/dschenin-arabische-liga-nennt-israels-militaeroperation-kriminell-a-4d83e43d-119e-48ea-bc59-c303b44e4850#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/afd-erfolge-im-osten-hier-fuehlen-sich-viele-gleich-dreifach-abgewertet-als-arbeiter-als-ossi-als-mann](https://www.spiegel.de/wirtschaft/soziales/afd-erfolge-im-osten-hier-fuehlen-sich-viele-gleich-dreifach-abgewertet-als-arbeiter-als-ossi-als-mann-a-151a1bb3-f382-4046-8bc1-47f8494fad85#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/panorama/bildung/numerus-clausus-quote-wo-der-kampf-um-studienplaetze-am-haertesten-ist](https://www.spiegel.de/panorama/bildung/numerus-clausus-quote-wo-der-kampf-um-studienplaetze-am-haertesten-ist-a-8561775d-b07d-411d-964e-6900927de408#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-maschas-vater-alexey-moskaljow-bittet-um-todesstrafe](https://www.spiegel.de/ausland/russland-ukraine-krieg-maschas-vater-alexey-moskaljow-bittet-um-todesstrafe-a-762ecfcc-e41d-4492-b6d2-80cd6cf6327f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/illerkirchberg-toedlicher-messerangriff-lebenslange-haft-fuer-27-jaehrigen](https://www.spiegel.de/panorama/justiz/illerkirchberg-toedlicher-messerangriff-lebenslange-haft-fuer-27-jaehrigen-a-d686bab2-c5db-4a81-837d-e8ab60043f57#ref=rss)
+### besonders
+
+* [https://www.spiegel.de/panorama/bildung/numerus-clausus-quote-wo-der-kampf-um-studienplaetze-am-haertesten-ist](https://www.spiegel.de/panorama/bildung/numerus-clausus-quote-wo-der-kampf-um-studienplaetze-am-haertesten-ist-a-8561775d-b07d-411d-964e-6900927de408#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-news-am-dienstag-kiew-meldet-fortschritte-bei-gegenoffensive](https://www.spiegel.de/ausland/russland-ukraine-news-am-dienstag-kiew-meldet-fortschritte-bei-gegenoffensive-a-8622c497-ea90-4064-b642-d6723b89e529#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/afd-erfolge-im-osten-hier-fuehlen-sich-viele-gleich-dreifach-abgewertet-als-arbeiter-als-ossi-als-mann](https://www.spiegel.de/wirtschaft/soziales/afd-erfolge-im-osten-hier-fuehlen-sich-viele-gleich-dreifach-abgewertet-als-arbeiter-als-ossi-als-mann-a-151a1bb3-f382-4046-8bc1-47f8494fad85#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/bremen-bei-verkehrskontrolle-familie-soll-polizisten-angegriffen-haben](https://www.spiegel.de/panorama/justiz/bremen-bei-verkehrskontrolle-familie-soll-polizisten-angegriffen-haben-a-225c734c-86b7-45e1-8fee-703074ef733a#ref=rss)
+* [https://www.spiegel.de/panorama/sundern-19-jaehriger-tot-aus-sorpesee-geborgen](https://www.spiegel.de/panorama/sundern-19-jaehriger-tot-aus-sorpesee-geborgen-a-16c7ab24-5928-4d03-9de2-380740679f2c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/afd-erfolge-im-osten-hier-fuehlen-sich-viele-gleich-dreifach-abgewertet-als-arbeiter-als-ossi-als-mann](https://www.spiegel.de/wirtschaft/soziales/afd-erfolge-im-osten-hier-fuehlen-sich-viele-gleich-dreifach-abgewertet-als-arbeiter-als-ossi-als-mann-a-151a1bb3-f382-4046-8bc1-47f8494fad85#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/ausland/frankreich-das-ist-krieg-spiegel-tv-spricht-mit-einer-freundin-des-getoeteten-nahel](https://www.spiegel.de/ausland/frankreich-das-ist-krieg-spiegel-tv-spricht-mit-einer-freundin-des-getoeteten-nahel-a-45c212a6-a594-415a-b7ba-e4b76a060927#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-maschas-vater-alexey-moskaljow-bittet-um-todesstrafe](https://www.spiegel.de/ausland/russland-ukraine-krieg-maschas-vater-alexey-moskaljow-bittet-um-todesstrafe-a-762ecfcc-e41d-4492-b6d2-80cd6cf6327f#ref=rss)
+### freundin
+
+* [https://www.spiegel.de/ausland/frankreich-das-ist-krieg-spiegel-tv-spricht-mit-einer-freundin-des-getoeteten-nahel](https://www.spiegel.de/ausland/frankreich-das-ist-krieg-spiegel-tv-spricht-mit-einer-freundin-des-getoeteten-nahel-a-45c212a6-a594-415a-b7ba-e4b76a060927#ref=rss)
+### nahel
+
+* [https://www.spiegel.de/ausland/frankreich-das-ist-krieg-spiegel-tv-spricht-mit-einer-freundin-des-getoeteten-nahel](https://www.spiegel.de/ausland/frankreich-das-ist-krieg-spiegel-tv-spricht-mit-einer-freundin-des-getoeteten-nahel-a-45c212a6-a594-415a-b7ba-e4b76a060927#ref=rss)
+### fordern
+
+* [https://www.spiegel.de/ausland/frankreich-das-ist-krieg-spiegel-tv-spricht-mit-einer-freundin-des-getoeteten-nahel](https://www.spiegel.de/ausland/frankreich-das-ist-krieg-spiegel-tv-spricht-mit-einer-freundin-des-getoeteten-nahel-a-45c212a6-a594-415a-b7ba-e4b76a060927#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-taliban-fordern-schoenheitssalons-zur-schliessung-auf](https://www.spiegel.de/ausland/afghanistan-taliban-fordern-schoenheitssalons-zur-schliessung-auf-a-d4bb0840-950d-4325-8230-f607c8f738f6#ref=rss)
+### toten
+
+* [https://www.spiegel.de/ausland/frankreich-das-ist-krieg-spiegel-tv-spricht-mit-einer-freundin-des-getoeteten-nahel](https://www.spiegel.de/ausland/frankreich-das-ist-krieg-spiegel-tv-spricht-mit-einer-freundin-des-getoeteten-nahel-a-45c212a6-a594-415a-b7ba-e4b76a060927#ref=rss)
+* [https://www.spiegel.de/ausland/indien-reparaturarbeiten-an-bahnschranke-fuehrten-offenbar-zu-zungunglueck-mit-288-toten](https://www.spiegel.de/ausland/indien-reparaturarbeiten-an-bahnschranke-fuehrten-offenbar-zu-zungunglueck-mit-288-toten-a-51e8ea6a-f0de-4d23-a566-f8ee758f2395#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/russland-journalistin-in-tschetschenien-zusammengeschlagen](https://www.spiegel.de/ausland/russland-journalistin-in-tschetschenien-zusammengeschlagen-a-786729d4-00e1-4447-964b-968a10f002ea#ref=rss)
+* [https://www.spiegel.de/ausland/russland-wirft-ukraine-drohnenangriff-auf-moskauer-flughafen-wnukowo-vor](https://www.spiegel.de/ausland/russland-wirft-ukraine-drohnenangriff-auf-moskauer-flughafen-wnukowo-vor-a-7cef43f9-f2b2-4c92-8895-f48b2a322e61#ref=rss)
+### zusammengeschlagen
+
+* [https://www.spiegel.de/ausland/russland-journalistin-in-tschetschenien-zusammengeschlagen](https://www.spiegel.de/ausland/russland-journalistin-in-tschetschenien-zusammengeschlagen-a-786729d4-00e1-4447-964b-968a10f002ea#ref=rss)
+### bundesverfassungsgericht
+
+* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-npd-bleibt-verfahren-in-karlsruhe-fern](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-npd-bleibt-verfahren-in-karlsruhe-fern-a-ed1afd7f-9f1e-46d7-9cf5-b35137a8dcf1#ref=rss)
+### npd
+
+* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-npd-bleibt-verfahren-in-karlsruhe-fern](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-npd-bleibt-verfahren-in-karlsruhe-fern-a-ed1afd7f-9f1e-46d7-9cf5-b35137a8dcf1#ref=rss)
+### per
+
+* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-npd-bleibt-verfahren-in-karlsruhe-fern](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-npd-bleibt-verfahren-in-karlsruhe-fern-a-ed1afd7f-9f1e-46d7-9cf5-b35137a8dcf1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/rivian-amazon-liefert-jetzt-mit-per-e-transporter-aus](https://www.spiegel.de/wirtschaft/unternehmen/rivian-amazon-liefert-jetzt-mit-per-e-transporter-aus-a-f7004c29-a35c-4ae5-bf97-edf2ebaaad61#ref=rss)
+### claudia
+
+* [https://www.spiegel.de/politik/claudia-roth-tatverdaechtige-nach-getraenkeattacke-in-landshut-auf-kulturstaatsministerin-ermittelt](https://www.spiegel.de/politik/claudia-roth-tatverdaechtige-nach-getraenkeattacke-in-landshut-auf-kulturstaatsministerin-ermittelt-a-3c38d213-ab77-4724-98d4-fdede10b55e8#ref=rss)
+### roth
+
+* [https://www.spiegel.de/politik/claudia-roth-tatverdaechtige-nach-getraenkeattacke-in-landshut-auf-kulturstaatsministerin-ermittelt](https://www.spiegel.de/politik/claudia-roth-tatverdaechtige-nach-getraenkeattacke-in-landshut-auf-kulturstaatsministerin-ermittelt-a-3c38d213-ab77-4724-98d4-fdede10b55e8#ref=rss)
+### fest
+
+* [https://www.spiegel.de/politik/claudia-roth-tatverdaechtige-nach-getraenkeattacke-in-landshut-auf-kulturstaatsministerin-ermittelt](https://www.spiegel.de/politik/claudia-roth-tatverdaechtige-nach-getraenkeattacke-in-landshut-auf-kulturstaatsministerin-ermittelt-a-3c38d213-ab77-4724-98d4-fdede10b55e8#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/illerkirchberg-toedlicher-messerangriff-lebenslange-haft-fuer-27-jaehrigen](https://www.spiegel.de/panorama/justiz/illerkirchberg-toedlicher-messerangriff-lebenslange-haft-fuer-27-jaehrigen-a-d686bab2-c5db-4a81-837d-e8ab60043f57#ref=rss)
+### frau
+
+* [https://www.spiegel.de/politik/claudia-roth-tatverdaechtige-nach-getraenkeattacke-in-landshut-auf-kulturstaatsministerin-ermittelt](https://www.spiegel.de/politik/claudia-roth-tatverdaechtige-nach-getraenkeattacke-in-landshut-auf-kulturstaatsministerin-ermittelt-a-3c38d213-ab77-4724-98d4-fdede10b55e8#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bremen-bei-verkehrskontrolle-familie-soll-polizisten-angegriffen-haben](https://www.spiegel.de/panorama/justiz/bremen-bei-verkehrskontrolle-familie-soll-polizisten-angegriffen-haben-a-225c734c-86b7-45e1-8fee-703074ef733a#ref=rss)
+### meta
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/meta-erleidet-juristische-schlappe-vor-dem-eugh](https://www.spiegel.de/netzwelt/netzpolitik/meta-erleidet-juristische-schlappe-vor-dem-eugh-a-e2307be0-ccc1-4d79-a003-3cb34f978438#ref=rss)
+### nutzer
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/meta-erleidet-juristische-schlappe-vor-dem-eugh](https://www.spiegel.de/netzwelt/netzpolitik/meta-erleidet-juristische-schlappe-vor-dem-eugh-a-e2307be0-ccc1-4d79-a003-3cb34f978438#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/threads-metas-twitter-konkurrent-koennte-diese-woche-starten](https://www.spiegel.de/netzwelt/apps/threads-metas-twitter-konkurrent-koennte-diese-woche-starten-a-473d68fc-9473-401c-b9de-4874678f1591#ref=rss)
+### europäische
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/meta-erleidet-juristische-schlappe-vor-dem-eugh](https://www.spiegel.de/netzwelt/netzpolitik/meta-erleidet-juristische-schlappe-vor-dem-eugh-a-e2307be0-ccc1-4d79-a003-3cb34f978438#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/merck-chefin-belen-garijo-die-europaeische-buerokratie-behindert-innovationen](https://www.spiegel.de/wirtschaft/unternehmen/merck-chefin-belen-garijo-die-europaeische-buerokratie-behindert-innovationen-a-25219279-7a92-4bc2-be2e-42718644a5c3#ref=rss)
+### renk
+
+* [https://www.spiegel.de/wirtschaft/renk-ruestungskonzern-kritisiert-vergabepolitik-der-bundesregierung](https://www.spiegel.de/wirtschaft/renk-ruestungskonzern-kritisiert-vergabepolitik-der-bundesregierung-a-9ce875e4-1a53-4346-8375-bd1ce436e655#ref=rss)
+### bundesregierung
+
+* [https://www.spiegel.de/wirtschaft/renk-ruestungskonzern-kritisiert-vergabepolitik-der-bundesregierung](https://www.spiegel.de/wirtschaft/renk-ruestungskonzern-kritisiert-vergabepolitik-der-bundesregierung-a-9ce875e4-1a53-4346-8375-bd1ce436e655#ref=rss)
+* [https://www.spiegel.de/wirtschaft/intel-fabrik-milliarden-fuer-konzerne-kein-geld-fuer-kinder-kolumne](https://www.spiegel.de/wirtschaft/intel-fabrik-milliarden-fuer-konzerne-kein-geld-fuer-kinder-kolumne-a-a1488650-c2d2-4613-9fd8-336e095044cf#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/wirtschaft/renk-ruestungskonzern-kritisiert-vergabepolitik-der-bundesregierung](https://www.spiegel.de/wirtschaft/renk-ruestungskonzern-kritisiert-vergabepolitik-der-bundesregierung-a-9ce875e4-1a53-4346-8375-bd1ce436e655#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/threads-metas-twitter-konkurrent-koennte-diese-woche-starten](https://www.spiegel.de/netzwelt/apps/threads-metas-twitter-konkurrent-koennte-diese-woche-starten-a-473d68fc-9473-401c-b9de-4874678f1591#ref=rss)
+### schule
+
+* [https://www.spiegel.de/panorama/bildung/schule-6-2-prozent-der-jugendlichen-2021-ohne-abschluss](https://www.spiegel.de/panorama/bildung/schule-6-2-prozent-der-jugendlichen-2021-ohne-abschluss-a-f9d0b48b-c18c-4994-a2f6-aa9989278317#ref=rss)
+### 2021
+
+* [https://www.spiegel.de/panorama/bildung/schule-6-2-prozent-der-jugendlichen-2021-ohne-abschluss](https://www.spiegel.de/panorama/bildung/schule-6-2-prozent-der-jugendlichen-2021-ohne-abschluss-a-f9d0b48b-c18c-4994-a2f6-aa9989278317#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/panorama/bildung/schule-6-2-prozent-der-jugendlichen-2021-ohne-abschluss](https://www.spiegel.de/panorama/bildung/schule-6-2-prozent-der-jugendlichen-2021-ohne-abschluss-a-f9d0b48b-c18c-4994-a2f6-aa9989278317#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/panorama/bildung/schule-6-2-prozent-der-jugendlichen-2021-ohne-abschluss](https://www.spiegel.de/panorama/bildung/schule-6-2-prozent-der-jugendlichen-2021-ohne-abschluss-a-f9d0b48b-c18c-4994-a2f6-aa9989278317#ref=rss)
+* [https://www.spiegel.de/ausland/jens-stoltenberg-nato-verlaengert-vertrag-des-generalsekretaers-um-ein-weiteres-jahr](https://www.spiegel.de/ausland/jens-stoltenberg-nato-verlaengert-vertrag-des-generalsekretaers-um-ein-weiteres-jahr-a-00cafaa0-2777-420a-89b6-d77343c85b74#ref=rss)
+### schwer
+
+* [https://www.spiegel.de/panorama/bildung/schule-6-2-prozent-der-jugendlichen-2021-ohne-abschluss](https://www.spiegel.de/panorama/bildung/schule-6-2-prozent-der-jugendlichen-2021-ohne-abschluss-a-f9d0b48b-c18c-4994-a2f6-aa9989278317#ref=rss)
+* [https://www.spiegel.de/ausland/indien-reparaturarbeiten-an-bahnschranke-fuehrten-offenbar-zu-zungunglueck-mit-288-toten](https://www.spiegel.de/ausland/indien-reparaturarbeiten-an-bahnschranke-fuehrten-offenbar-zu-zungunglueck-mit-288-toten-a-51e8ea6a-f0de-4d23-a566-f8ee758f2395#ref=rss)
+### el
+
+* [https://www.spiegel.de/wissenschaft/el-nino-ist-im-tropischen-pazifik-angekommen](https://www.spiegel.de/wissenschaft/el-nino-ist-im-tropischen-pazifik-angekommen-a-6979352c-76fd-4f10-bee3-341535217734#ref=rss)
+### niño
+
+* [https://www.spiegel.de/wissenschaft/el-nino-ist-im-tropischen-pazifik-angekommen](https://www.spiegel.de/wissenschaft/el-nino-ist-im-tropischen-pazifik-angekommen-a-6979352c-76fd-4f10-bee3-341535217734#ref=rss)
+### tropischen
+
+* [https://www.spiegel.de/wissenschaft/el-nino-ist-im-tropischen-pazifik-angekommen](https://www.spiegel.de/wissenschaft/el-nino-ist-im-tropischen-pazifik-angekommen-a-6979352c-76fd-4f10-bee3-341535217734#ref=rss)
+### pazifik
+
+* [https://www.spiegel.de/wissenschaft/el-nino-ist-im-tropischen-pazifik-angekommen](https://www.spiegel.de/wissenschaft/el-nino-ist-im-tropischen-pazifik-angekommen-a-6979352c-76fd-4f10-bee3-341535217734#ref=rss)
+### insgesamt
+
+* [https://www.spiegel.de/wissenschaft/el-nino-ist-im-tropischen-pazifik-angekommen](https://www.spiegel.de/wissenschaft/el-nino-ist-im-tropischen-pazifik-angekommen-a-6979352c-76fd-4f10-bee3-341535217734#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/numerus-clausus-quote-wo-der-kampf-um-studienplaetze-am-haertesten-ist](https://www.spiegel.de/panorama/bildung/numerus-clausus-quote-wo-der-kampf-um-studienplaetze-am-haertesten-ist-a-8561775d-b07d-411d-964e-6900927de408#ref=rss)
 ### dschenin
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-sparplaene-der-regierung-angriff-auf-dschenin-bahn-verleibt-sich-kritiker-ein](https://www.spiegel.de/politik/deutschland/news-des-tages-sparplaene-der-regierung-angriff-auf-dschenin-bahn-verleibt-sich-kritiker-ein-a-468632e4-ec76-4485-9212-e1545f8e6909#ref=rss)
-### kritiker
+* [https://www.spiegel.de/ausland/dschenin-arabische-liga-nennt-israels-militaeroperation-kriminell](https://www.spiegel.de/ausland/dschenin-arabische-liga-nennt-israels-militaeroperation-kriminell-a-4d83e43d-119e-48ea-bc59-c303b44e4850#ref=rss)
+### israels
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-sparplaene-der-regierung-angriff-auf-dschenin-bahn-verleibt-sich-kritiker-ein](https://www.spiegel.de/politik/deutschland/news-des-tages-sparplaene-der-regierung-angriff-auf-dschenin-bahn-verleibt-sich-kritiker-ein-a-468632e4-ec76-4485-9212-e1545f8e6909#ref=rss)
-### ich
+* [https://www.spiegel.de/ausland/dschenin-arabische-liga-nennt-israels-militaeroperation-kriminell](https://www.spiegel.de/ausland/dschenin-arabische-liga-nennt-israels-militaeroperation-kriminell-a-4d83e43d-119e-48ea-bc59-c303b44e4850#ref=rss)
+### viele
 
-* [https://www.spiegel.de/panorama/justiz/prozess-um-kunstbetrug-ich-bin-der-einzige-idiot-der-gezahlt-hat](https://www.spiegel.de/panorama/justiz/prozess-um-kunstbetrug-ich-bin-der-einzige-idiot-der-gezahlt-hat-a-06a89cde-f92b-4b7b-b61a-4d0f204a6b51#ref=rss)
-* [https://www.spiegel.de/deinspiegel/hvv-chefin-im-kinder-interview-ich-will-das-busfahren-cool-machen](https://www.spiegel.de/deinspiegel/hvv-chefin-im-kinder-interview-ich-will-das-busfahren-cool-machen-a-6285dfc7-e96a-44a6-a96a-d1e2c80b7440#ref=rss)
-### gezahlt
+* [https://www.spiegel.de/ausland/dschenin-arabische-liga-nennt-israels-militaeroperation-kriminell](https://www.spiegel.de/ausland/dschenin-arabische-liga-nennt-israels-militaeroperation-kriminell-a-4d83e43d-119e-48ea-bc59-c303b44e4850#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/afd-erfolge-im-osten-hier-fuehlen-sich-viele-gleich-dreifach-abgewertet-als-arbeiter-als-ossi-als-mann](https://www.spiegel.de/wirtschaft/soziales/afd-erfolge-im-osten-hier-fuehlen-sich-viele-gleich-dreifach-abgewertet-als-arbeiter-als-ossi-als-mann-a-151a1bb3-f382-4046-8bc1-47f8494fad85#ref=rss)
+### verletzt
 
-* [https://www.spiegel.de/panorama/justiz/prozess-um-kunstbetrug-ich-bin-der-einzige-idiot-der-gezahlt-hat](https://www.spiegel.de/panorama/justiz/prozess-um-kunstbetrug-ich-bin-der-einzige-idiot-der-gezahlt-hat-a-06a89cde-f92b-4b7b-b61a-4d0f204a6b51#ref=rss)
-### albert
+* [https://www.spiegel.de/ausland/dschenin-arabische-liga-nennt-israels-militaeroperation-kriminell](https://www.spiegel.de/ausland/dschenin-arabische-liga-nennt-israels-militaeroperation-kriminell-a-4d83e43d-119e-48ea-bc59-c303b44e4850#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bremen-bei-verkehrskontrolle-familie-soll-polizisten-angegriffen-haben](https://www.spiegel.de/panorama/justiz/bremen-bei-verkehrskontrolle-familie-soll-polizisten-angegriffen-haben-a-225c734c-86b7-45e1-8fee-703074ef733a#ref=rss)
+### kritik
 
-* [https://www.spiegel.de/wissenschaft/weltall/albert-einstein-die-zeit-im-fruehen-universum-verging-aus-heutiger-sicht-langsamer](https://www.spiegel.de/wissenschaft/weltall/albert-einstein-die-zeit-im-fruehen-universum-verging-aus-heutiger-sicht-langsamer-a-b4251cf9-c9c1-4d0f-ad97-cf98cac6f0ad#ref=rss)
-### zeit
+* [https://www.spiegel.de/ausland/dschenin-arabische-liga-nennt-israels-militaeroperation-kriminell](https://www.spiegel.de/ausland/dschenin-arabische-liga-nennt-israels-militaeroperation-kriminell-a-4d83e43d-119e-48ea-bc59-c303b44e4850#ref=rss)
+* [https://www.spiegel.de/wissenschaft/japan-iaea-haelt-japans-plaene-zur-kuehlwasser-verklappung-in-fukushima-fuer-sicher](https://www.spiegel.de/wissenschaft/japan-iaea-haelt-japans-plaene-zur-kuehlwasser-verklappung-in-fukushima-fuer-sicher-a-e37d0354-870b-4af6-ab65-08631ff08757#ref=rss)
+### studienplätze
 
-* [https://www.spiegel.de/wissenschaft/weltall/albert-einstein-die-zeit-im-fruehen-universum-verging-aus-heutiger-sicht-langsamer](https://www.spiegel.de/wissenschaft/weltall/albert-einstein-die-zeit-im-fruehen-universum-verging-aus-heutiger-sicht-langsamer-a-b4251cf9-c9c1-4d0f-ad97-cf98cac6f0ad#ref=rss)
-### universum
+* [https://www.spiegel.de/panorama/bildung/numerus-clausus-quote-wo-der-kampf-um-studienplaetze-am-haertesten-ist](https://www.spiegel.de/panorama/bildung/numerus-clausus-quote-wo-der-kampf-um-studienplaetze-am-haertesten-ist-a-8561775d-b07d-411d-964e-6900927de408#ref=rss)
+### osten
 
-* [https://www.spiegel.de/wissenschaft/weltall/albert-einstein-die-zeit-im-fruehen-universum-verging-aus-heutiger-sicht-langsamer](https://www.spiegel.de/wissenschaft/weltall/albert-einstein-die-zeit-im-fruehen-universum-verging-aus-heutiger-sicht-langsamer-a-b4251cf9-c9c1-4d0f-ad97-cf98cac6f0ad#ref=rss)
-### heutiger
+* [https://www.spiegel.de/panorama/bildung/numerus-clausus-quote-wo-der-kampf-um-studienplaetze-am-haertesten-ist](https://www.spiegel.de/panorama/bildung/numerus-clausus-quote-wo-der-kampf-um-studienplaetze-am-haertesten-ist-a-8561775d-b07d-411d-964e-6900927de408#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/afd-erfolge-im-osten-hier-fuehlen-sich-viele-gleich-dreifach-abgewertet-als-arbeiter-als-ossi-als-mann](https://www.spiegel.de/wirtschaft/soziales/afd-erfolge-im-osten-hier-fuehlen-sich-viele-gleich-dreifach-abgewertet-als-arbeiter-als-ossi-als-mann-a-151a1bb3-f382-4046-8bc1-47f8494fad85#ref=rss)
+### japans
 
-* [https://www.spiegel.de/wissenschaft/weltall/albert-einstein-die-zeit-im-fruehen-universum-verging-aus-heutiger-sicht-langsamer](https://www.spiegel.de/wissenschaft/weltall/albert-einstein-die-zeit-im-fruehen-universum-verging-aus-heutiger-sicht-langsamer-a-b4251cf9-c9c1-4d0f-ad97-cf98cac6f0ad#ref=rss)
-### sicht
+* [https://www.spiegel.de/wissenschaft/japan-iaea-haelt-japans-plaene-zur-kuehlwasser-verklappung-in-fukushima-fuer-sicher](https://www.spiegel.de/wissenschaft/japan-iaea-haelt-japans-plaene-zur-kuehlwasser-verklappung-in-fukushima-fuer-sicher-a-e37d0354-870b-4af6-ab65-08631ff08757#ref=rss)
+### fukushima
 
-* [https://www.spiegel.de/wissenschaft/weltall/albert-einstein-die-zeit-im-fruehen-universum-verging-aus-heutiger-sicht-langsamer](https://www.spiegel.de/wissenschaft/weltall/albert-einstein-die-zeit-im-fruehen-universum-verging-aus-heutiger-sicht-langsamer-a-b4251cf9-c9c1-4d0f-ad97-cf98cac6f0ad#ref=rss)
-### vincenzo
+* [https://www.spiegel.de/wissenschaft/japan-iaea-haelt-japans-plaene-zur-kuehlwasser-verklappung-in-fukushima-fuer-sicher](https://www.spiegel.de/wissenschaft/japan-iaea-haelt-japans-plaene-zur-kuehlwasser-verklappung-in-fukushima-fuer-sicher-a-e37d0354-870b-4af6-ab65-08631ff08757#ref=rss)
+### aiwanger
 
-* [https://www.spiegel.de/sport/boxen-neuer-ibf-weltmeister-vincenzo-gualtieri-im-moment-seines-groessten-triumphs-denkt-er-an-rocky](https://www.spiegel.de/sport/boxen-neuer-ibf-weltmeister-vincenzo-gualtieri-im-moment-seines-groessten-triumphs-denkt-er-an-rocky-a-2ed99abd-7fcf-4d11-b429-d2c7254470db#ref=rss)
-### gualtieri
+* [https://www.spiegel.de/wirtschaft/unternehmen/steuer-vorschlag-von-hubert-aiwanger-die-einkommenssteuer-soll-bei-2000-euro-im-monat-beginnen](https://www.spiegel.de/wirtschaft/unternehmen/steuer-vorschlag-von-hubert-aiwanger-die-einkommenssteuer-soll-bei-2000-euro-im-monat-beginnen-a-df33e8f6-2fad-4340-84d2-89ec9e29d70a#ref=rss)
+### euro
 
-* [https://www.spiegel.de/sport/boxen-neuer-ibf-weltmeister-vincenzo-gualtieri-im-moment-seines-groessten-triumphs-denkt-er-an-rocky](https://www.spiegel.de/sport/boxen-neuer-ibf-weltmeister-vincenzo-gualtieri-im-moment-seines-groessten-triumphs-denkt-er-an-rocky-a-2ed99abd-7fcf-4d11-b429-d2c7254470db#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/steuer-vorschlag-von-hubert-aiwanger-die-einkommenssteuer-soll-bei-2000-euro-im-monat-beginnen](https://www.spiegel.de/wirtschaft/unternehmen/steuer-vorschlag-von-hubert-aiwanger-die-einkommenssteuer-soll-bei-2000-euro-im-monat-beginnen-a-df33e8f6-2fad-4340-84d2-89ec9e29d70a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-neymar-muss-drei-millionen-euro-strafe-fuer-umweltverstoesse-beim-villa-bau-zahlen](https://www.spiegel.de/sport/fussball/fussball-neymar-muss-drei-millionen-euro-strafe-fuer-umweltverstoesse-beim-villa-bau-zahlen-a-71d7b06d-9b8e-41e7-9b16-50c87be8c31e#ref=rss)
+### zuletzt
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/steuer-vorschlag-von-hubert-aiwanger-die-einkommenssteuer-soll-bei-2000-euro-im-monat-beginnen](https://www.spiegel.de/wirtschaft/unternehmen/steuer-vorschlag-von-hubert-aiwanger-die-einkommenssteuer-soll-bei-2000-euro-im-monat-beginnen-a-df33e8f6-2fad-4340-84d2-89ec9e29d70a#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-news-am-dienstag-kiew-meldet-fortschritte-bei-gegenoffensive](https://www.spiegel.de/ausland/russland-ukraine-news-am-dienstag-kiew-meldet-fortschritte-bei-gegenoffensive-a-8622c497-ea90-4064-b642-d6723b89e529#ref=rss)
+### bild
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/steuer-vorschlag-von-hubert-aiwanger-die-einkommenssteuer-soll-bei-2000-euro-im-monat-beginnen](https://www.spiegel.de/wirtschaft/unternehmen/steuer-vorschlag-von-hubert-aiwanger-die-einkommenssteuer-soll-bei-2000-euro-im-monat-beginnen-a-df33e8f6-2fad-4340-84d2-89ec9e29d70a#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-maschas-vater-alexey-moskaljow-bittet-um-todesstrafe](https://www.spiegel.de/ausland/russland-ukraine-krieg-maschas-vater-alexey-moskaljow-bittet-um-todesstrafe-a-762ecfcc-e41d-4492-b6d2-80cd6cf6327f#ref=rss)
+### jens
+
+* [https://www.spiegel.de/ausland/jens-stoltenberg-nato-verlaengert-vertrag-des-generalsekretaers-um-ein-weiteres-jahr](https://www.spiegel.de/ausland/jens-stoltenberg-nato-verlaengert-vertrag-des-generalsekretaers-um-ein-weiteres-jahr-a-00cafaa0-2777-420a-89b6-d77343c85b74#ref=rss)
+### stoltenberg
+
+* [https://www.spiegel.de/ausland/jens-stoltenberg-nato-verlaengert-vertrag-des-generalsekretaers-um-ein-weiteres-jahr](https://www.spiegel.de/ausland/jens-stoltenberg-nato-verlaengert-vertrag-des-generalsekretaers-um-ein-weiteres-jahr-a-00cafaa0-2777-420a-89b6-d77343c85b74#ref=rss)
+### nato
+
+* [https://www.spiegel.de/ausland/jens-stoltenberg-nato-verlaengert-vertrag-des-generalsekretaers-um-ein-weiteres-jahr](https://www.spiegel.de/ausland/jens-stoltenberg-nato-verlaengert-vertrag-des-generalsekretaers-um-ein-weiteres-jahr-a-00cafaa0-2777-420a-89b6-d77343c85b74#ref=rss)
+### threads
+
+* [https://www.spiegel.de/netzwelt/apps/threads-metas-twitter-konkurrent-koennte-diese-woche-starten](https://www.spiegel.de/netzwelt/apps/threads-metas-twitter-konkurrent-koennte-diese-woche-starten-a-473d68fc-9473-401c-b9de-4874678f1591#ref=rss)
+### twitterkonkurrent
+
+* [https://www.spiegel.de/netzwelt/apps/threads-metas-twitter-konkurrent-koennte-diese-woche-starten](https://www.spiegel.de/netzwelt/apps/threads-metas-twitter-konkurrent-koennte-diese-woche-starten-a-473d68fc-9473-401c-b9de-4874678f1591#ref=rss)
+### nachtzug
+
+* [https://www.spiegel.de/kultur/literatur/nachtzug-nach-lissabon-bestsellerautor-peter-bieri-ist-am-27-juni-gestorben](https://www.spiegel.de/kultur/literatur/nachtzug-nach-lissabon-bestsellerautor-peter-bieri-ist-am-27-juni-gestorben-a-5d44b94d-ab63-4965-8653-3361aff7f8ab#ref=rss)
+### lissabon
+
+* [https://www.spiegel.de/kultur/literatur/nachtzug-nach-lissabon-bestsellerautor-peter-bieri-ist-am-27-juni-gestorben](https://www.spiegel.de/kultur/literatur/nachtzug-nach-lissabon-bestsellerautor-peter-bieri-ist-am-27-juni-gestorben-a-5d44b94d-ab63-4965-8653-3361aff7f8ab#ref=rss)
+### peter
+
+* [https://www.spiegel.de/kultur/literatur/nachtzug-nach-lissabon-bestsellerautor-peter-bieri-ist-am-27-juni-gestorben](https://www.spiegel.de/kultur/literatur/nachtzug-nach-lissabon-bestsellerautor-peter-bieri-ist-am-27-juni-gestorben-a-5d44b94d-ab63-4965-8653-3361aff7f8ab#ref=rss)
+### bieri
+
+* [https://www.spiegel.de/kultur/literatur/nachtzug-nach-lissabon-bestsellerautor-peter-bieri-ist-am-27-juni-gestorben](https://www.spiegel.de/kultur/literatur/nachtzug-nach-lissabon-bestsellerautor-peter-bieri-ist-am-27-juni-gestorben-a-5d44b94d-ab63-4965-8653-3361aff7f8ab#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/kultur/literatur/nachtzug-nach-lissabon-bestsellerautor-peter-bieri-ist-am-27-juni-gestorben](https://www.spiegel.de/kultur/literatur/nachtzug-nach-lissabon-bestsellerautor-peter-bieri-ist-am-27-juni-gestorben-a-5d44b94d-ab63-4965-8653-3361aff7f8ab#ref=rss)
+### unter
+
+* [https://www.spiegel.de/kultur/literatur/nachtzug-nach-lissabon-bestsellerautor-peter-bieri-ist-am-27-juni-gestorben](https://www.spiegel.de/kultur/literatur/nachtzug-nach-lissabon-bestsellerautor-peter-bieri-ist-am-27-juni-gestorben-a-5d44b94d-ab63-4965-8653-3361aff7f8ab#ref=rss)
+* [https://www.spiegel.de/panorama/sundern-19-jaehriger-tot-aus-sorpesee-geborgen](https://www.spiegel.de/panorama/sundern-19-jaehriger-tot-aus-sorpesee-geborgen-a-16c7ab24-5928-4d03-9de2-380740679f2c#ref=rss)
+### kiew
+
+* [https://www.spiegel.de/ausland/russland-ukraine-news-am-dienstag-kiew-meldet-fortschritte-bei-gegenoffensive](https://www.spiegel.de/ausland/russland-ukraine-news-am-dienstag-kiew-meldet-fortschritte-bei-gegenoffensive-a-8622c497-ea90-4064-b642-d6723b89e529#ref=rss)
+### gegenoffensive
+
+* [https://www.spiegel.de/ausland/russland-ukraine-news-am-dienstag-kiew-meldet-fortschritte-bei-gegenoffensive](https://www.spiegel.de/ausland/russland-ukraine-news-am-dienstag-kiew-meldet-fortschritte-bei-gegenoffensive-a-8622c497-ea90-4064-b642-d6723b89e529#ref=rss)
+### kam
+
+* [https://www.spiegel.de/ausland/russland-ukraine-news-am-dienstag-kiew-meldet-fortschritte-bei-gegenoffensive](https://www.spiegel.de/ausland/russland-ukraine-news-am-dienstag-kiew-meldet-fortschritte-bei-gegenoffensive-a-8622c497-ea90-4064-b642-d6723b89e529#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-maschas-vater-alexey-moskaljow-bittet-um-todesstrafe](https://www.spiegel.de/ausland/russland-ukraine-krieg-maschas-vater-alexey-moskaljow-bittet-um-todesstrafe-a-762ecfcc-e41d-4492-b6d2-80cd6cf6327f#ref=rss)
+### erfolgreich
+
+* [https://www.spiegel.de/ausland/russland-ukraine-news-am-dienstag-kiew-meldet-fortschritte-bei-gegenoffensive](https://www.spiegel.de/ausland/russland-ukraine-news-am-dienstag-kiew-meldet-fortschritte-bei-gegenoffensive-a-8622c497-ea90-4064-b642-d6723b89e529#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/afd-erfolge-im-osten-hier-fuehlen-sich-viele-gleich-dreifach-abgewertet-als-arbeiter-als-ossi-als-mann](https://www.spiegel.de/wirtschaft/soziales/afd-erfolge-im-osten-hier-fuehlen-sich-viele-gleich-dreifach-abgewertet-als-arbeiter-als-ossi-als-mann-a-151a1bb3-f382-4046-8bc1-47f8494fad85#ref=rss)
+### vater
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-maschas-vater-alexey-moskaljow-bittet-um-todesstrafe](https://www.spiegel.de/ausland/russland-ukraine-krieg-maschas-vater-alexey-moskaljow-bittet-um-todesstrafe-a-762ecfcc-e41d-4492-b6d2-80cd6cf6327f#ref=rss)
+### alexey
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-maschas-vater-alexey-moskaljow-bittet-um-todesstrafe](https://www.spiegel.de/ausland/russland-ukraine-krieg-maschas-vater-alexey-moskaljow-bittet-um-todesstrafe-a-762ecfcc-e41d-4492-b6d2-80cd6cf6327f#ref=rss)
+### moskaljow
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-maschas-vater-alexey-moskaljow-bittet-um-todesstrafe](https://www.spiegel.de/ausland/russland-ukraine-krieg-maschas-vater-alexey-moskaljow-bittet-um-todesstrafe-a-762ecfcc-e41d-4492-b6d2-80cd6cf6327f#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-maschas-vater-alexey-moskaljow-bittet-um-todesstrafe](https://www.spiegel.de/ausland/russland-ukraine-krieg-maschas-vater-alexey-moskaljow-bittet-um-todesstrafe-a-762ecfcc-e41d-4492-b6d2-80cd6cf6327f#ref=rss)
+* [https://www.spiegel.de/ausland/russland-wirft-ukraine-drohnenangriff-auf-moskauer-flughafen-wnukowo-vor](https://www.spiegel.de/ausland/russland-wirft-ukraine-drohnenangriff-auf-moskauer-flughafen-wnukowo-vor-a-7cef43f9-f2b2-4c92-8895-f48b2a322e61#ref=rss)
+### haft
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-maschas-vater-alexey-moskaljow-bittet-um-todesstrafe](https://www.spiegel.de/ausland/russland-ukraine-krieg-maschas-vater-alexey-moskaljow-bittet-um-todesstrafe-a-762ecfcc-e41d-4492-b6d2-80cd6cf6327f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/illerkirchberg-toedlicher-messerangriff-lebenslange-haft-fuer-27-jaehrigen](https://www.spiegel.de/panorama/justiz/illerkirchberg-toedlicher-messerangriff-lebenslange-haft-fuer-27-jaehrigen-a-d686bab2-c5db-4a81-837d-e8ab60043f57#ref=rss)
+### illerkirchberg
+
+* [https://www.spiegel.de/panorama/justiz/illerkirchberg-toedlicher-messerangriff-lebenslange-haft-fuer-27-jaehrigen](https://www.spiegel.de/panorama/justiz/illerkirchberg-toedlicher-messerangriff-lebenslange-haft-fuer-27-jaehrigen-a-d686bab2-c5db-4a81-837d-e8ab60043f57#ref=rss)
+### lebenslange
+
+* [https://www.spiegel.de/panorama/justiz/illerkirchberg-toedlicher-messerangriff-lebenslange-haft-fuer-27-jaehrigen](https://www.spiegel.de/panorama/justiz/illerkirchberg-toedlicher-messerangriff-lebenslange-haft-fuer-27-jaehrigen-a-d686bab2-c5db-4a81-837d-e8ab60043f57#ref=rss)
+### intelfabrik
+
+* [https://www.spiegel.de/wirtschaft/intel-fabrik-milliarden-fuer-konzerne-kein-geld-fuer-kinder-kolumne](https://www.spiegel.de/wirtschaft/intel-fabrik-milliarden-fuer-konzerne-kein-geld-fuer-kinder-kolumne-a-a1488650-c2d2-4613-9fd8-336e095044cf#ref=rss)
+### bekommt
+
+* [https://www.spiegel.de/wirtschaft/intel-fabrik-milliarden-fuer-konzerne-kein-geld-fuer-kinder-kolumne](https://www.spiegel.de/wirtschaft/intel-fabrik-milliarden-fuer-konzerne-kein-geld-fuer-kinder-kolumne-a-a1488650-c2d2-4613-9fd8-336e095044cf#ref=rss)
+* [https://www.spiegel.de/panorama/sundern-19-jaehriger-tot-aus-sorpesee-geborgen](https://www.spiegel.de/panorama/sundern-19-jaehriger-tot-aus-sorpesee-geborgen-a-16c7ab24-5928-4d03-9de2-380740679f2c#ref=rss)
+### taliban
+
+* [https://www.spiegel.de/ausland/afghanistan-taliban-fordern-schoenheitssalons-zur-schliessung-auf](https://www.spiegel.de/ausland/afghanistan-taliban-fordern-schoenheitssalons-zur-schliessung-auf-a-d4bb0840-950d-4325-8230-f607c8f738f6#ref=rss)
+### schönheitssalons
+
+* [https://www.spiegel.de/ausland/afghanistan-taliban-fordern-schoenheitssalons-zur-schliessung-auf](https://www.spiegel.de/ausland/afghanistan-taliban-fordern-schoenheitssalons-zur-schliessung-auf-a-d4bb0840-950d-4325-8230-f607c8f738f6#ref=rss)
+### bremen
+
+* [https://www.spiegel.de/panorama/justiz/bremen-bei-verkehrskontrolle-familie-soll-polizisten-angegriffen-haben](https://www.spiegel.de/panorama/justiz/bremen-bei-verkehrskontrolle-familie-soll-polizisten-angegriffen-haben-a-225c734c-86b7-45e1-8fee-703074ef733a#ref=rss)
+### verkehrskontrolle
+
+* [https://www.spiegel.de/panorama/justiz/bremen-bei-verkehrskontrolle-familie-soll-polizisten-angegriffen-haben](https://www.spiegel.de/panorama/justiz/bremen-bei-verkehrskontrolle-familie-soll-polizisten-angegriffen-haben-a-225c734c-86b7-45e1-8fee-703074ef733a#ref=rss)
+### familie
+
+* [https://www.spiegel.de/panorama/justiz/bremen-bei-verkehrskontrolle-familie-soll-polizisten-angegriffen-haben](https://www.spiegel.de/panorama/justiz/bremen-bei-verkehrskontrolle-familie-soll-polizisten-angegriffen-haben-a-225c734c-86b7-45e1-8fee-703074ef733a#ref=rss)
+### kind
+
+* [https://www.spiegel.de/panorama/justiz/bremen-bei-verkehrskontrolle-familie-soll-polizisten-angegriffen-haben](https://www.spiegel.de/panorama/justiz/bremen-bei-verkehrskontrolle-familie-soll-polizisten-angegriffen-haben-a-225c734c-86b7-45e1-8fee-703074ef733a#ref=rss)
+* [https://www.spiegel.de/panorama/leute/kit-harington-und-rose-leslie-haben-ihr-zweites-kind-bekommen](https://www.spiegel.de/panorama/leute/kit-harington-und-rose-leslie-haben-ihr-zweites-kind-bekommen-a-2988d529-1ba9-4eb6-bd98-fe0db7920dc3#ref=rss)
+### innovationen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/merck-chefin-belen-garijo-die-europaeische-buerokratie-behindert-innovationen](https://www.spiegel.de/wirtschaft/unternehmen/merck-chefin-belen-garijo-die-europaeische-buerokratie-behindert-innovationen-a-25219279-7a92-4bc2-be2e-42718644a5c3#ref=rss)
+### kit
+
+* [https://www.spiegel.de/panorama/leute/kit-harington-und-rose-leslie-haben-ihr-zweites-kind-bekommen](https://www.spiegel.de/panorama/leute/kit-harington-und-rose-leslie-haben-ihr-zweites-kind-bekommen-a-2988d529-1ba9-4eb6-bd98-fe0db7920dc3#ref=rss)
+### harington
+
+* [https://www.spiegel.de/panorama/leute/kit-harington-und-rose-leslie-haben-ihr-zweites-kind-bekommen](https://www.spiegel.de/panorama/leute/kit-harington-und-rose-leslie-haben-ihr-zweites-kind-bekommen-a-2988d529-1ba9-4eb6-bd98-fe0db7920dc3#ref=rss)
+### rose
+
+* [https://www.spiegel.de/panorama/leute/kit-harington-und-rose-leslie-haben-ihr-zweites-kind-bekommen](https://www.spiegel.de/panorama/leute/kit-harington-und-rose-leslie-haben-ihr-zweites-kind-bekommen-a-2988d529-1ba9-4eb6-bd98-fe0db7920dc3#ref=rss)
+### leslie
+
+* [https://www.spiegel.de/panorama/leute/kit-harington-und-rose-leslie-haben-ihr-zweites-kind-bekommen](https://www.spiegel.de/panorama/leute/kit-harington-und-rose-leslie-haben-ihr-zweites-kind-bekommen-a-2988d529-1ba9-4eb6-bd98-fe0db7920dc3#ref=rss)
+### bekommen
+
+* [https://www.spiegel.de/panorama/leute/kit-harington-und-rose-leslie-haben-ihr-zweites-kind-bekommen](https://www.spiegel.de/panorama/leute/kit-harington-und-rose-leslie-haben-ihr-zweites-kind-bekommen-a-2988d529-1ba9-4eb6-bd98-fe0db7920dc3#ref=rss)
+### neymar
+
+* [https://www.spiegel.de/sport/fussball/fussball-neymar-muss-drei-millionen-euro-strafe-fuer-umweltverstoesse-beim-villa-bau-zahlen](https://www.spiegel.de/sport/fussball/fussball-neymar-muss-drei-millionen-euro-strafe-fuer-umweltverstoesse-beim-villa-bau-zahlen-a-71d7b06d-9b8e-41e7-9b16-50c87be8c31e#ref=rss)
+### umweltverstöße
+
+* [https://www.spiegel.de/sport/fussball/fussball-neymar-muss-drei-millionen-euro-strafe-fuer-umweltverstoesse-beim-villa-bau-zahlen](https://www.spiegel.de/sport/fussball/fussball-neymar-muss-drei-millionen-euro-strafe-fuer-umweltverstoesse-beim-villa-bau-zahlen-a-71d7b06d-9b8e-41e7-9b16-50c87be8c31e#ref=rss)
+### flughafen
+
+* [https://www.spiegel.de/ausland/russland-wirft-ukraine-drohnenangriff-auf-moskauer-flughafen-wnukowo-vor](https://www.spiegel.de/ausland/russland-wirft-ukraine-drohnenangriff-auf-moskauer-flughafen-wnukowo-vor-a-7cef43f9-f2b2-4c92-8895-f48b2a322e61#ref=rss)
+### wnukowo
+
+* [https://www.spiegel.de/ausland/russland-wirft-ukraine-drohnenangriff-auf-moskauer-flughafen-wnukowo-vor](https://www.spiegel.de/ausland/russland-wirft-ukraine-drohnenangriff-auf-moskauer-flughafen-wnukowo-vor-a-7cef43f9-f2b2-4c92-8895-f48b2a322e61#ref=rss)
+### sorpesee
+
+* [https://www.spiegel.de/panorama/sundern-19-jaehriger-tot-aus-sorpesee-geborgen](https://www.spiegel.de/panorama/sundern-19-jaehriger-tot-aus-sorpesee-geborgen-a-16c7ab24-5928-4d03-9de2-380740679f2c#ref=rss)
+### indien
+
+* [https://www.spiegel.de/ausland/indien-reparaturarbeiten-an-bahnschranke-fuehrten-offenbar-zu-zungunglueck-mit-288-toten](https://www.spiegel.de/ausland/indien-reparaturarbeiten-an-bahnschranke-fuehrten-offenbar-zu-zungunglueck-mit-288-toten-a-51e8ea6a-f0de-4d23-a566-f8ee758f2395#ref=rss)
+### bahnschranke
+
+* [https://www.spiegel.de/ausland/indien-reparaturarbeiten-an-bahnschranke-fuehrten-offenbar-zu-zungunglueck-mit-288-toten](https://www.spiegel.de/ausland/indien-reparaturarbeiten-an-bahnschranke-fuehrten-offenbar-zu-zungunglueck-mit-288-toten-a-51e8ea6a-f0de-4d23-a566-f8ee758f2395#ref=rss)
+### rivian
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/rivian-amazon-liefert-jetzt-mit-per-e-transporter-aus](https://www.spiegel.de/wirtschaft/unternehmen/rivian-amazon-liefert-jetzt-mit-per-e-transporter-aus-a-f7004c29-a35c-4ae5-bf97-edf2ebaaad61#ref=rss)
+### amazon
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/rivian-amazon-liefert-jetzt-mit-per-e-transporter-aus](https://www.spiegel.de/wirtschaft/unternehmen/rivian-amazon-liefert-jetzt-mit-per-e-transporter-aus-a-f7004c29-a35c-4ae5-bf97-edf2ebaaad61#ref=rss)
+### etransporter
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/rivian-amazon-liefert-jetzt-mit-per-e-transporter-aus](https://www.spiegel.de/wirtschaft/unternehmen/rivian-amazon-liefert-jetzt-mit-per-e-transporter-aus-a-f7004c29-a35c-4ae5-bf97-edf2ebaaad61#ref=rss)
 
