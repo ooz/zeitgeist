@@ -4,273 +4,293 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### neue
+### menschen
 
-* [https://www.spiegel.de/auto/haushalt-2024-lindner-sieht-millionenkuerzungen-fuer-neue-radwege-vor](https://www.spiegel.de/auto/haushalt-2024-lindner-sieht-millionenkuerzungen-fuer-neue-radwege-vor-a-60061e7e-c971-4540-b727-2871fc632ca6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/lindners-sparkurs-ist-verfehlt](https://www.spiegel.de/wirtschaft/soziales/lindners-sparkurs-ist-verfehlt-a-35f8eed9-7cd6-4faf-a40f-8c30797b0b85#ref=rss)
-* [https://www.spiegel.de/geschichte/frankreich-die-gewalt-und-der-hass-gegen-den-staat-haben-eine-neue-dimension-angenommen](https://www.spiegel.de/geschichte/frankreich-die-gewalt-und-der-hass-gegen-den-staat-haben-eine-neue-dimension-angenommen-a-6a06147d-fdfa-4fc1-a2b2-0a8aad773691#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-ruestungskonzern-will-teile-fuer-f-35-kampfjet-in-weeze-fertigen](https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-ruestungskonzern-will-teile-fuer-f-35-kampfjet-in-weeze-fertigen-a-9ee64bad-44f8-4778-a6e9-ef584fbef580#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/ampel-will-obergrenze-fuer-heizungsfoerderung-von-30-000-euro-einfuehren](https://www.spiegel.de/wirtschaft/service/ampel-will-obergrenze-fuer-heizungsfoerderung-von-30-000-euro-einfuehren-a-20e974f6-330b-42ce-8577-e008ff18d33c#ref=rss)
-### euro
+* [https://www.spiegel.de/wissenschaft/sterbehilfe-bei-depression-das-risiko-dass-menschen-durchrutschen-bleibt-immer-bestehen](https://www.spiegel.de/wissenschaft/sterbehilfe-bei-depression-das-risiko-dass-menschen-durchrutschen-bleibt-immer-bestehen-a-cfc5de1d-a281-4642-9504-971f3f3ef76f#ref=rss)
+* [https://www.spiegel.de/auto/phonetik-jeder-sagt-aehm-anders](https://www.spiegel.de/auto/phonetik-jeder-sagt-aehm-anders-a-63702508-9cf7-47f2-9d29-faaebff3329f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/daenemark-amoklaeufer-von-kopenhagen-muss-auf-unbestimmte-zeit-in-forensische-psychiatrie](https://www.spiegel.de/panorama/justiz/daenemark-amoklaeufer-von-kopenhagen-muss-auf-unbestimmte-zeit-in-forensische-psychiatrie-a-e6e0b852-2151-483e-b5ba-c4cc2774a3a3#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-7000-menschen-wegen-bombenentschaerfung-evakuiert](https://www.spiegel.de/panorama/berlin-7000-menschen-wegen-bombenentschaerfung-evakuiert-a-b1087dd8-58a6-49ff-a00d-1efeeeb1f799#ref=rss)
+* [https://www.spiegel.de/panorama/usa-haie-beissen-offenbar-schwimmer-an-der-kueste-von-new-york](https://www.spiegel.de/panorama/usa-haie-beissen-offenbar-schwimmer-an-der-kueste-von-new-york-a-883d5d39-adfd-408e-89f5-47acbaae5eb7#ref=rss)
+### gericht
 
-* [https://www.spiegel.de/panorama/la-palma-forscher-finden-ambra-im-wert-von-500-000-euro-in-totem-pottwal](https://www.spiegel.de/panorama/la-palma-forscher-finden-ambra-im-wert-von-500-000-euro-in-totem-pottwal-a-bd3201be-479b-4fb5-b32a-5c95bca4e822#ref=rss)
-* [https://www.spiegel.de/wirtschaft/nach-langem-streit-regierung-verabschiedet-bundeshaushalt](https://www.spiegel.de/wirtschaft/nach-langem-streit-regierung-verabschiedet-bundeshaushalt-a-b784bb4e-ce19-4776-a6c1-c9e45c10dfcc#ref=rss)
-* [https://www.spiegel.de/start/guenstiges-rezept-leckerer-erbsentoast-als-avocado-alternative-fuer-1-80-euro](https://www.spiegel.de/start/guenstiges-rezept-leckerer-erbsentoast-als-avocado-alternative-fuer-1-80-euro-a-0eeaccd8-899b-4e77-8f6e-0bdf03f133c7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/ampel-will-obergrenze-fuer-heizungsfoerderung-von-30-000-euro-einfuehren](https://www.spiegel.de/wirtschaft/service/ampel-will-obergrenze-fuer-heizungsfoerderung-von-30-000-euro-einfuehren-a-20e974f6-330b-42ce-8577-e008ff18d33c#ref=rss)
-### frankreich
+* [https://www.spiegel.de/panorama/leute/alain-delon-seine-kinder-verklagen-betreuerin-wegen-seelischer-misshandlung](https://www.spiegel.de/panorama/leute/alain-delon-seine-kinder-verklagen-betreuerin-wegen-seelischer-misshandlung-a-7e763acc-89d5-4a1f-b734-b34264fea1e6#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-news-am-mittwoch-britischer-geheimdienst-sieht-bruchlinien-in-russlands-sicherheitsapparat](https://www.spiegel.de/ausland/russland-ukraine-news-am-mittwoch-britischer-geheimdienst-sieht-bruchlinien-in-russlands-sicherheitsapparat-a-61e984f3-3d73-424e-aef1-654d96f863b2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-muss-gehaltskuerzungen-von-betriebsraeten-zuruecknehmen](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-muss-gehaltskuerzungen-von-betriebsraeten-zuruecknehmen-a-49500c78-8192-4557-9d71-2c02a9c9a150#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/daenemark-amoklaeufer-von-kopenhagen-muss-auf-unbestimmte-zeit-in-forensische-psychiatrie](https://www.spiegel.de/panorama/justiz/daenemark-amoklaeufer-von-kopenhagen-muss-auf-unbestimmte-zeit-in-forensische-psychiatrie-a-e6e0b852-2151-483e-b5ba-c4cc2774a3a3#ref=rss)
+### wladimir
 
-* [https://www.spiegel.de/ausland/marseille-in-frankreich-mann-offenbar-nach-treffer-eines-gummigeschosses-gestorben](https://www.spiegel.de/ausland/marseille-in-frankreich-mann-offenbar-nach-treffer-eines-gummigeschosses-gestorben-a-44d0567a-e923-4f29-acbb-f73e25ddec1d#ref=rss)
-* [https://www.spiegel.de/geschichte/frankreich-die-gewalt-und-der-hass-gegen-den-staat-haben-eine-neue-dimension-angenommen](https://www.spiegel.de/geschichte/frankreich-die-gewalt-und-der-hass-gegen-den-staat-haben-eine-neue-dimension-angenommen-a-6a06147d-fdfa-4fc1-a2b2-0a8aad773691#ref=rss)
-### 2024
+* [https://www.spiegel.de/ausland/wladimir-putin-empfaengt-maedchen-im-kreml-die-charme-offensive-des-russischen-praesidenten](https://www.spiegel.de/ausland/wladimir-putin-empfaengt-maedchen-im-kreml-die-charme-offensive-des-russischen-praesidenten-a-a21025f1-0bd4-4015-aab8-251b25cd4516#ref=rss)
+* [https://www.spiegel.de/ausland/wladimir-putin-reist-mit-kosmetiksalon-und-hamam-neue-details-zum-sonderzug](https://www.spiegel.de/ausland/wladimir-putin-reist-mit-kosmetiksalon-und-hamam-neue-details-zum-sonderzug-a-68e9b89b-67ff-4d35-aa82-ec3900da18dc#ref=rss)
+### putin
 
-* [https://www.spiegel.de/auto/haushalt-2024-lindner-sieht-millionenkuerzungen-fuer-neue-radwege-vor](https://www.spiegel.de/auto/haushalt-2024-lindner-sieht-millionenkuerzungen-fuer-neue-radwege-vor-a-60061e7e-c971-4540-b727-2871fc632ca6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/nach-langem-streit-regierung-verabschiedet-bundeshaushalt](https://www.spiegel.de/wirtschaft/nach-langem-streit-regierung-verabschiedet-bundeshaushalt-a-b784bb4e-ce19-4776-a6c1-c9e45c10dfcc#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-transferticker-carlo-ancelotti-verlaesst-2024-real-madrid-und-wird-wohl-brasiliens-nationaltrainer](https://www.spiegel.de/sport/fussball/fussball-transferticker-carlo-ancelotti-verlaesst-2024-real-madrid-und-wird-wohl-brasiliens-nationaltrainer-a-7a0e31e3-565e-437c-a11c-4cbbcee4f76f#ref=rss)
-### lindner
+* [https://www.spiegel.de/ausland/wladimir-putin-empfaengt-maedchen-im-kreml-die-charme-offensive-des-russischen-praesidenten](https://www.spiegel.de/ausland/wladimir-putin-empfaengt-maedchen-im-kreml-die-charme-offensive-des-russischen-praesidenten-a-a21025f1-0bd4-4015-aab8-251b25cd4516#ref=rss)
+* [https://www.spiegel.de/ausland/wladimir-putin-reist-mit-kosmetiksalon-und-hamam-neue-details-zum-sonderzug](https://www.spiegel.de/ausland/wladimir-putin-reist-mit-kosmetiksalon-und-hamam-neue-details-zum-sonderzug-a-68e9b89b-67ff-4d35-aa82-ec3900da18dc#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/auto/haushalt-2024-lindner-sieht-millionenkuerzungen-fuer-neue-radwege-vor](https://www.spiegel.de/auto/haushalt-2024-lindner-sieht-millionenkuerzungen-fuer-neue-radwege-vor-a-60061e7e-c971-4540-b727-2871fc632ca6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/nach-langem-streit-regierung-verabschiedet-bundeshaushalt](https://www.spiegel.de/wirtschaft/nach-langem-streit-regierung-verabschiedet-bundeshaushalt-a-b784bb4e-ce19-4776-a6c1-c9e45c10dfcc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/lindners-sparkurs-ist-verfehlt](https://www.spiegel.de/wirtschaft/soziales/lindners-sparkurs-ist-verfehlt-a-35f8eed9-7cd6-4faf-a40f-8c30797b0b85#ref=rss)
-### sparkurs
+* [https://www.spiegel.de/wissenschaft/natur/gesetzentwurf-eu-kommission-will-gentechnik-bei-lebensmitteln-erleichtern](https://www.spiegel.de/wissenschaft/natur/gesetzentwurf-eu-kommission-will-gentechnik-bei-lebensmitteln-erleichtern-a-eb0c6805-715f-4300-a579-ecd563c1d531#ref=rss)
+* [https://www.spiegel.de/auto/elektroautos-im-juni-so-viele-neuzulassungen-wie-seit-dezember-nicht-mehr](https://www.spiegel.de/auto/elektroautos-im-juni-so-viele-neuzulassungen-wie-seit-dezember-nicht-mehr-a-572d4bc2-2de3-4093-b855-81991e9dabfe#ref=rss)
+### geld
 
-* [https://www.spiegel.de/auto/haushalt-2024-lindner-sieht-millionenkuerzungen-fuer-neue-radwege-vor](https://www.spiegel.de/auto/haushalt-2024-lindner-sieht-millionenkuerzungen-fuer-neue-radwege-vor-a-60061e7e-c971-4540-b727-2871fc632ca6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/nach-langem-streit-regierung-verabschiedet-bundeshaushalt](https://www.spiegel.de/wirtschaft/nach-langem-streit-regierung-verabschiedet-bundeshaushalt-a-b784bb4e-ce19-4776-a6c1-c9e45c10dfcc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/lindners-sparkurs-ist-verfehlt](https://www.spiegel.de/wirtschaft/soziales/lindners-sparkurs-ist-verfehlt-a-35f8eed9-7cd6-4faf-a40f-8c30797b0b85#ref=rss)
-### echtes
-
-* [https://www.spiegel.de/sport/fussball/iman-beney-der-kurze-wm-traum-eines-16-jahre-alten-supertalents](https://www.spiegel.de/sport/fussball/iman-beney-der-kurze-wm-traum-eines-16-jahre-alten-supertalents-a-a48fd52d-c9ea-497d-ba16-d14b71030a1e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/maischberger-ankuendigung-markus-soeder-will-heizungsgesetz-wieder-abschaffen](https://www.spiegel.de/politik/deutschland/maischberger-ankuendigung-markus-soeder-will-heizungsgesetz-wieder-abschaffen-a-c0d42d2a-8014-423d-a5f9-641526a4388d#ref=rss)
+* [https://www.spiegel.de/ausland/wladimir-putin-empfaengt-maedchen-im-kreml-die-charme-offensive-des-russischen-praesidenten](https://www.spiegel.de/ausland/wladimir-putin-empfaengt-maedchen-im-kreml-die-charme-offensive-des-russischen-praesidenten-a-a21025f1-0bd4-4015-aab8-251b25cd4516#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-bundeshaushalt-2024-radfahrer-sturmtief-poly](https://www.spiegel.de/politik/deutschland/news-des-tages-bundeshaushalt-2024-radfahrer-sturmtief-poly-a-0bc2d879-a665-4520-9404-fc758137fcbc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/haushaltsentwurf-christian-lindner-stimmt-buerger-auf-magere-zeiten-ein](https://www.spiegel.de/wirtschaft/soziales/haushaltsentwurf-christian-lindner-stimmt-buerger-auf-magere-zeiten-ein-a-54276a4e-6238-4155-ac66-9c0d74b588a4#ref=rss)
 ### wohl
 
-* [https://www.spiegel.de/sport/fussball/fussball-transferticker-carlo-ancelotti-verlaesst-2024-real-madrid-und-wird-wohl-brasiliens-nationaltrainer](https://www.spiegel.de/sport/fussball/fussball-transferticker-carlo-ancelotti-verlaesst-2024-real-madrid-und-wird-wohl-brasiliens-nationaltrainer-a-7a0e31e3-565e-437c-a11c-4cbbcee4f76f#ref=rss)
-* [https://www.spiegel.de/ausland/marseille-in-frankreich-mann-offenbar-nach-treffer-eines-gummigeschosses-gestorben](https://www.spiegel.de/ausland/marseille-in-frankreich-mann-offenbar-nach-treffer-eines-gummigeschosses-gestorben-a-44d0567a-e923-4f29-acbb-f73e25ddec1d#ref=rss)
+* [https://www.spiegel.de/sport/andy-murray-in-wimbledon-wie-weit-die-wut-ihn-traegt](https://www.spiegel.de/sport/andy-murray-in-wimbledon-wie-weit-die-wut-ihn-traegt-a-6254bccf-7d5d-4ceb-9abf-c4651cadef4a#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-7000-menschen-wegen-bombenentschaerfung-evakuiert](https://www.spiegel.de/panorama/berlin-7000-menschen-wegen-bombenentschaerfung-evakuiert-a-b1087dd8-58a6-49ff-a00d-1efeeeb1f799#ref=rss)
+* [https://www.spiegel.de/panorama/usa-haie-beissen-offenbar-schwimmer-an-der-kueste-von-new-york](https://www.spiegel.de/panorama/usa-haie-beissen-offenbar-schwimmer-an-der-kueste-von-new-york-a-883d5d39-adfd-408e-89f5-47acbaae5eb7#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-in-deutschland-firmen-mieten-deutlich-weniger-neue-bueroflaechen-an](https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-in-deutschland-firmen-mieten-deutlich-weniger-neue-bueroflaechen-an-a-4e28df07-07de-471c-82b9-afa3559c9eb3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-bundeshaushalt-2024-radfahrer-sturmtief-poly](https://www.spiegel.de/politik/deutschland/news-des-tages-bundeshaushalt-2024-radfahrer-sturmtief-poly-a-0bc2d879-a665-4520-9404-fc758137fcbc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/immoscout24-mieten-in-deutschland-steigen-etwas-langsamer](https://www.spiegel.de/wirtschaft/unternehmen/immoscout24-mieten-in-deutschland-steigen-etwas-langsamer-a-737d4eb6-e1eb-4238-a6b6-a31713ee9b04#ref=rss)
+### deutlich
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-in-deutschland-firmen-mieten-deutlich-weniger-neue-bueroflaechen-an](https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-in-deutschland-firmen-mieten-deutlich-weniger-neue-bueroflaechen-an-a-4e28df07-07de-471c-82b9-afa3559c9eb3#ref=rss)
+* [https://www.spiegel.de/auto/elektroautos-im-juni-so-viele-neuzulassungen-wie-seit-dezember-nicht-mehr](https://www.spiegel.de/auto/elektroautos-im-juni-so-viele-neuzulassungen-wie-seit-dezember-nicht-mehr-a-572d4bc2-2de3-4093-b855-81991e9dabfe#ref=rss)
+### neue
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-in-deutschland-firmen-mieten-deutlich-weniger-neue-bueroflaechen-an](https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-in-deutschland-firmen-mieten-deutlich-weniger-neue-bueroflaechen-an-a-4e28df07-07de-471c-82b9-afa3559c9eb3#ref=rss)
+* [https://www.spiegel.de/ausland/wladimir-putin-reist-mit-kosmetiksalon-und-hamam-neue-details-zum-sonderzug](https://www.spiegel.de/ausland/wladimir-putin-reist-mit-kosmetiksalon-und-hamam-neue-details-zum-sonderzug-a-68e9b89b-67ff-4d35-aa82-ec3900da18dc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagsausschuesse-genehmigen-kauf-von-60-chinook-transporthubschraubern](https://www.spiegel.de/politik/deutschland/bundestagsausschuesse-genehmigen-kauf-von-60-chinook-transporthubschraubern-a-95f5b71c-27dd-4b68-b2d4-a6b3084b55cc#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/ausland/wladimir-putin-reist-mit-kosmetiksalon-und-hamam-neue-details-zum-sonderzug](https://www.spiegel.de/ausland/wladimir-putin-reist-mit-kosmetiksalon-und-hamam-neue-details-zum-sonderzug-a-68e9b89b-67ff-4d35-aa82-ec3900da18dc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-ex-innenminister-de-maiziere-soll-tarifkonflikt-schlichten](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-ex-innenminister-de-maiziere-soll-tarifkonflikt-schlichten-a-23953751-6f2b-42cb-9611-da358f815f84#ref=rss)
+### de
+
+* [https://www.spiegel.de/sport/tour-de-france-jai-hindley-faehrt-mit-hilfe-von-emanuel-buchmann-zum-gelben-trikot](https://www.spiegel.de/sport/tour-de-france-jai-hindley-faehrt-mit-hilfe-von-emanuel-buchmann-zum-gelben-trikot-a-1659d401-432a-40ba-914a-47f338b3e439#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-ex-innenminister-de-maiziere-soll-tarifkonflikt-schlichten](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-ex-innenminister-de-maiziere-soll-tarifkonflikt-schlichten-a-23953751-6f2b-42cb-9611-da358f815f84#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/sport/tour-de-france-jai-hindley-faehrt-mit-hilfe-von-emanuel-buchmann-zum-gelben-trikot](https://www.spiegel.de/sport/tour-de-france-jai-hindley-faehrt-mit-hilfe-von-emanuel-buchmann-zum-gelben-trikot-a-1659d401-432a-40ba-914a-47f338b3e439#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-ex-innenminister-de-maiziere-soll-tarifkonflikt-schlichten](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-ex-innenminister-de-maiziere-soll-tarifkonflikt-schlichten-a-23953751-6f2b-42cb-9611-da358f815f84#ref=rss)
+* [https://www.spiegel.de/auto/elektroautos-im-juni-so-viele-neuzulassungen-wie-seit-dezember-nicht-mehr](https://www.spiegel.de/auto/elektroautos-im-juni-so-viele-neuzulassungen-wie-seit-dezember-nicht-mehr-a-572d4bc2-2de3-4093-b855-81991e9dabfe#ref=rss)
+### alain
+
+* [https://www.spiegel.de/panorama/leute/alain-delon-seine-kinder-verklagen-betreuerin-wegen-seelischer-misshandlung](https://www.spiegel.de/panorama/leute/alain-delon-seine-kinder-verklagen-betreuerin-wegen-seelischer-misshandlung-a-7e763acc-89d5-4a1f-b734-b34264fea1e6#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/panorama/leute/alain-delon-seine-kinder-verklagen-betreuerin-wegen-seelischer-misshandlung](https://www.spiegel.de/panorama/leute/alain-delon-seine-kinder-verklagen-betreuerin-wegen-seelischer-misshandlung-a-7e763acc-89d5-4a1f-b734-b34264fea1e6#ref=rss)
+### mädchen
+
+* [https://www.spiegel.de/ausland/wladimir-putin-empfaengt-maedchen-im-kreml-die-charme-offensive-des-russischen-praesidenten](https://www.spiegel.de/ausland/wladimir-putin-empfaengt-maedchen-im-kreml-die-charme-offensive-des-russischen-praesidenten-a-a21025f1-0bd4-4015-aab8-251b25cd4516#ref=rss)
+### andy
+
+* [https://www.spiegel.de/sport/andy-murray-in-wimbledon-wie-weit-die-wut-ihn-traegt](https://www.spiegel.de/sport/andy-murray-in-wimbledon-wie-weit-die-wut-ihn-traegt-a-6254bccf-7d5d-4ceb-9abf-c4651cadef4a#ref=rss)
+### murray
+
+* [https://www.spiegel.de/sport/andy-murray-in-wimbledon-wie-weit-die-wut-ihn-traegt](https://www.spiegel.de/sport/andy-murray-in-wimbledon-wie-weit-die-wut-ihn-traegt-a-6254bccf-7d5d-4ceb-9abf-c4651cadef4a#ref=rss)
+### macht
+
+* [https://www.spiegel.de/sport/andy-murray-in-wimbledon-wie-weit-die-wut-ihn-traegt](https://www.spiegel.de/sport/andy-murray-in-wimbledon-wie-weit-die-wut-ihn-traegt-a-6254bccf-7d5d-4ceb-9abf-c4651cadef4a#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-news-am-mittwoch-britischer-geheimdienst-sieht-bruchlinien-in-russlands-sicherheitsapparat](https://www.spiegel.de/ausland/russland-ukraine-news-am-mittwoch-britischer-geheimdienst-sieht-bruchlinien-in-russlands-sicherheitsapparat-a-61e984f3-3d73-424e-aef1-654d96f863b2#ref=rss)
+### vier
+
+* [https://www.spiegel.de/sport/andy-murray-in-wimbledon-wie-weit-die-wut-ihn-traegt](https://www.spiegel.de/sport/andy-murray-in-wimbledon-wie-weit-die-wut-ihn-traegt-a-6254bccf-7d5d-4ceb-9abf-c4651cadef4a#ref=rss)
+* [https://www.spiegel.de/panorama/usa-haie-beissen-offenbar-schwimmer-an-der-kueste-von-new-york](https://www.spiegel.de/panorama/usa-haie-beissen-offenbar-schwimmer-an-der-kueste-von-new-york-a-883d5d39-adfd-408e-89f5-47acbaae5eb7#ref=rss)
+### sterbehilfe
+
+* [https://www.spiegel.de/wissenschaft/sterbehilfe-bei-depression-das-risiko-dass-menschen-durchrutschen-bleibt-immer-bestehen](https://www.spiegel.de/wissenschaft/sterbehilfe-bei-depression-das-risiko-dass-menschen-durchrutschen-bleibt-immer-bestehen-a-cfc5de1d-a281-4642-9504-971f3f3ef76f#ref=rss)
+### bundestag
+
+* [https://www.spiegel.de/wissenschaft/sterbehilfe-bei-depression-das-risiko-dass-menschen-durchrutschen-bleibt-immer-bestehen](https://www.spiegel.de/wissenschaft/sterbehilfe-bei-depression-das-risiko-dass-menschen-durchrutschen-bleibt-immer-bestehen-a-cfc5de1d-a281-4642-9504-971f3f3ef76f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/linke-und-sahra-wagenknecht-landeschefs-wollen-wechsel-der-fraktionsspitze](https://www.spiegel.de/politik/deutschland/linke-und-sahra-wagenknecht-landeschefs-wollen-wechsel-der-fraktionsspitze-a-ec7c9410-f66a-4315-b2a5-180c0e689b39#ref=rss)
+### besonders
+
+* [https://www.spiegel.de/wissenschaft/sterbehilfe-bei-depression-das-risiko-dass-menschen-durchrutschen-bleibt-immer-bestehen](https://www.spiegel.de/wissenschaft/sterbehilfe-bei-depression-das-risiko-dass-menschen-durchrutschen-bleibt-immer-bestehen-a-cfc5de1d-a281-4642-9504-971f3f3ef76f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-in-deutschland-firmen-mieten-deutlich-weniger-neue-bueroflaechen-an](https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-in-deutschland-firmen-mieten-deutlich-weniger-neue-bueroflaechen-an-a-4e28df07-07de-471c-82b9-afa3559c9eb3#ref=rss)
+### michael
+
+* [https://www.spiegel.de/ausland/russland-ukraine-news-am-mittwoch-britischer-geheimdienst-sieht-bruchlinien-in-russlands-sicherheitsapparat](https://www.spiegel.de/ausland/russland-ukraine-news-am-mittwoch-britischer-geheimdienst-sieht-bruchlinien-in-russlands-sicherheitsapparat-a-61e984f3-3d73-424e-aef1-654d96f863b2#ref=rss)
+### roth
+
+* [https://www.spiegel.de/ausland/russland-ukraine-news-am-mittwoch-britischer-geheimdienst-sieht-bruchlinien-in-russlands-sicherheitsapparat](https://www.spiegel.de/ausland/russland-ukraine-news-am-mittwoch-britischer-geheimdienst-sieht-bruchlinien-in-russlands-sicherheitsapparat-a-61e984f3-3d73-424e-aef1-654d96f863b2#ref=rss)
 ### ukraine
 
 * [https://www.spiegel.de/ausland/russland-ukraine-news-am-mittwoch-britischer-geheimdienst-sieht-bruchlinien-in-russlands-sicherheitsapparat](https://www.spiegel.de/ausland/russland-ukraine-news-am-mittwoch-britischer-geheimdienst-sieht-bruchlinien-in-russlands-sicherheitsapparat-a-61e984f3-3d73-424e-aef1-654d96f863b2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ukraine-setzt-unilever-auf-ihre-liste-der-internationalen-kriegssponsoren](https://www.spiegel.de/wirtschaft/unternehmen/ukraine-setzt-unilever-auf-ihre-liste-der-internationalen-kriegssponsoren-a-95155fa2-00e2-42cb-809e-0aead04a7f59#ref=rss)
-### heizungsgesetz
+### spd
 
-* [https://www.spiegel.de/wirtschaft/service/ampel-will-obergrenze-fuer-heizungsfoerderung-von-30-000-euro-einfuehren](https://www.spiegel.de/wirtschaft/service/ampel-will-obergrenze-fuer-heizungsfoerderung-von-30-000-euro-einfuehren-a-20e974f6-330b-42ce-8577-e008ff18d33c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/maischberger-ankuendigung-markus-soeder-will-heizungsgesetz-wieder-abschaffen](https://www.spiegel.de/politik/deutschland/maischberger-ankuendigung-markus-soeder-will-heizungsgesetz-wieder-abschaffen-a-c0d42d2a-8014-423d-a5f9-641526a4388d#ref=rss)
-### palmer
-
-* [https://www.spiegel.de/politik/deutschland/boris-palmer-warnt-luisa-neubauer-in-brief-vor-totalitarismus](https://www.spiegel.de/politik/deutschland/boris-palmer-warnt-luisa-neubauer-in-brief-vor-totalitarismus-a-9d6959be-5ecf-428f-b1ef-e3849268e787#ref=rss)
-### haushalt
-
-* [https://www.spiegel.de/auto/haushalt-2024-lindner-sieht-millionenkuerzungen-fuer-neue-radwege-vor](https://www.spiegel.de/auto/haushalt-2024-lindner-sieht-millionenkuerzungen-fuer-neue-radwege-vor-a-60061e7e-c971-4540-b727-2871fc632ca6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/nach-langem-streit-regierung-verabschiedet-bundeshaushalt](https://www.spiegel.de/wirtschaft/nach-langem-streit-regierung-verabschiedet-bundeshaushalt-a-b784bb4e-ce19-4776-a6c1-c9e45c10dfcc#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/auto/haushalt-2024-lindner-sieht-millionenkuerzungen-fuer-neue-radwege-vor](https://www.spiegel.de/auto/haushalt-2024-lindner-sieht-millionenkuerzungen-fuer-neue-radwege-vor-a-60061e7e-c971-4540-b727-2871fc632ca6#ref=rss)
 * [https://www.spiegel.de/ausland/russland-ukraine-news-am-mittwoch-britischer-geheimdienst-sieht-bruchlinien-in-russlands-sicherheitsapparat](https://www.spiegel.de/ausland/russland-ukraine-news-am-mittwoch-britischer-geheimdienst-sieht-bruchlinien-in-russlands-sicherheitsapparat-a-61e984f3-3d73-424e-aef1-654d96f863b2#ref=rss)
-### empört
+* [https://www.spiegel.de/politik/deutschland/bremen-andreas-bovenschulte-als-regierungschef-wiedergewaehlt](https://www.spiegel.de/politik/deutschland/bremen-andreas-bovenschulte-als-regierungschef-wiedergewaehlt-a-893e6d30-01a6-41d6-a0a5-c88da00bd3f5#ref=rss)
+### news
 
-* [https://www.spiegel.de/auto/haushalt-2024-lindner-sieht-millionenkuerzungen-fuer-neue-radwege-vor](https://www.spiegel.de/auto/haushalt-2024-lindner-sieht-millionenkuerzungen-fuer-neue-radwege-vor-a-60061e7e-c971-4540-b727-2871fc632ca6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ukraine-setzt-unilever-auf-ihre-liste-der-internationalen-kriegssponsoren](https://www.spiegel.de/wirtschaft/unternehmen/ukraine-setzt-unilever-auf-ihre-liste-der-internationalen-kriegssponsoren-a-95155fa2-00e2-42cb-809e-0aead04a7f59#ref=rss)
-### besonders
+* [https://www.spiegel.de/ausland/russland-ukraine-news-am-mittwoch-britischer-geheimdienst-sieht-bruchlinien-in-russlands-sicherheitsapparat](https://www.spiegel.de/ausland/russland-ukraine-news-am-mittwoch-britischer-geheimdienst-sieht-bruchlinien-in-russlands-sicherheitsapparat-a-61e984f3-3d73-424e-aef1-654d96f863b2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-bundeshaushalt-2024-radfahrer-sturmtief-poly](https://www.spiegel.de/politik/deutschland/news-des-tages-bundeshaushalt-2024-radfahrer-sturmtief-poly-a-0bc2d879-a665-4520-9404-fc758137fcbc#ref=rss)
+### gehaltskürzungen
 
-* [https://www.spiegel.de/auto/haushalt-2024-lindner-sieht-millionenkuerzungen-fuer-neue-radwege-vor](https://www.spiegel.de/auto/haushalt-2024-lindner-sieht-millionenkuerzungen-fuer-neue-radwege-vor-a-60061e7e-c971-4540-b727-2871fc632ca6#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klimakrise-mitteleuropa-kuenftig-besonders-von-hitze-und-duerre-betroffen](https://www.spiegel.de/wissenschaft/natur/klimakrise-mitteleuropa-kuenftig-besonders-von-hitze-und-duerre-betroffen-a-276b8303-cf61-4dfe-b075-6960085e2179#ref=rss)
-### zeigen
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-muss-gehaltskuerzungen-von-betriebsraeten-zuruecknehmen](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-muss-gehaltskuerzungen-von-betriebsraeten-zuruecknehmen-a-49500c78-8192-4557-9d71-2c02a9c9a150#ref=rss)
+### streit
 
-* [https://www.spiegel.de/auto/haushalt-2024-lindner-sieht-millionenkuerzungen-fuer-neue-radwege-vor](https://www.spiegel.de/auto/haushalt-2024-lindner-sieht-millionenkuerzungen-fuer-neue-radwege-vor-a-60061e7e-c971-4540-b727-2871fc632ca6#ref=rss)
-* [https://www.spiegel.de/panorama/leute/meghan-trainor-zum-zweiten-mal-mutter-geworden](https://www.spiegel.de/panorama/leute/meghan-trainor-zum-zweiten-mal-mutter-geworden-a-7c196ebb-4d8d-4b80-a68b-9b57182e4e45#ref=rss)
-### folgen
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-muss-gehaltskuerzungen-von-betriebsraeten-zuruecknehmen](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-muss-gehaltskuerzungen-von-betriebsraeten-zuruecknehmen-a-49500c78-8192-4557-9d71-2c02a9c9a150#ref=rss)
+* [https://www.spiegel.de/panorama/hanau-todesdrohung-an-vermieter-rechtfertigt-sofortige-fristlose-kuendigung](https://www.spiegel.de/panorama/hanau-todesdrohung-an-vermieter-rechtfertigt-sofortige-fristlose-kuendigung-a-5a78e4f4-30bd-4b03-b0c0-4e19d062226e#ref=rss)
+### claudia
 
-* [https://www.spiegel.de/auto/haushalt-2024-lindner-sieht-millionenkuerzungen-fuer-neue-radwege-vor](https://www.spiegel.de/auto/haushalt-2024-lindner-sieht-millionenkuerzungen-fuer-neue-radwege-vor-a-60061e7e-c971-4540-b727-2871fc632ca6#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klimakrise-mitteleuropa-kuenftig-besonders-von-hitze-und-duerre-betroffen](https://www.spiegel.de/wissenschaft/natur/klimakrise-mitteleuropa-kuenftig-besonders-von-hitze-und-duerre-betroffen-a-276b8303-cf61-4dfe-b075-6960085e2179#ref=rss)
-### haushaltsentwurf
+* [https://www.spiegel.de/politik/deutschland/claudia-pechstein-bundespolizei-leitet-offenbar-disziplinarverfahren-wegen-verstoss-gegen-beamtengesetz-ein](https://www.spiegel.de/politik/deutschland/claudia-pechstein-bundespolizei-leitet-offenbar-disziplinarverfahren-wegen-verstoss-gegen-beamtengesetz-ein-a-a4a494d6-f37d-48a2-ae3e-903951209a92#ref=rss)
+### bundespolizei
 
-* [https://www.spiegel.de/auto/haushalt-2024-lindner-sieht-millionenkuerzungen-fuer-neue-radwege-vor](https://www.spiegel.de/auto/haushalt-2024-lindner-sieht-millionenkuerzungen-fuer-neue-radwege-vor-a-60061e7e-c971-4540-b727-2871fc632ca6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/lindners-sparkurs-ist-verfehlt](https://www.spiegel.de/wirtschaft/soziales/lindners-sparkurs-ist-verfehlt-a-35f8eed9-7cd6-4faf-a40f-8c30797b0b85#ref=rss)
-### sterbehilfe
-
-* [https://www.spiegel.de/politik/deutschland/sterbehilfe-abgeordnete-wollen-suizidpraevention-staerken](https://www.spiegel.de/politik/deutschland/sterbehilfe-abgeordnete-wollen-suizidpraevention-staerken-a-296c2fef-6b64-47a8-9150-a87641d7f8e7#ref=rss)
-### suizidprävention
-
-* [https://www.spiegel.de/politik/deutschland/sterbehilfe-abgeordnete-wollen-suizidpraevention-staerken](https://www.spiegel.de/politik/deutschland/sterbehilfe-abgeordnete-wollen-suizidpraevention-staerken-a-296c2fef-6b64-47a8-9150-a87641d7f8e7#ref=rss)
-### stärken
-
-* [https://www.spiegel.de/politik/deutschland/sterbehilfe-abgeordnete-wollen-suizidpraevention-staerken](https://www.spiegel.de/politik/deutschland/sterbehilfe-abgeordnete-wollen-suizidpraevention-staerken-a-296c2fef-6b64-47a8-9150-a87641d7f8e7#ref=rss)
-### nigel
-
-* [https://www.spiegel.de/ausland/nigel-farage-brexit-hardliner-wurde-offenbar-von-privatbank-gekuendigt](https://www.spiegel.de/ausland/nigel-farage-brexit-hardliner-wurde-offenbar-von-privatbank-gekuendigt-a-4638060c-108d-4e8c-936a-8db436db2df2#ref=rss)
-### farage
-
-* [https://www.spiegel.de/ausland/nigel-farage-brexit-hardliner-wurde-offenbar-von-privatbank-gekuendigt](https://www.spiegel.de/ausland/nigel-farage-brexit-hardliner-wurde-offenbar-von-privatbank-gekuendigt-a-4638060c-108d-4e8c-936a-8db436db2df2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/claudia-pechstein-bundespolizei-leitet-offenbar-disziplinarverfahren-wegen-verstoss-gegen-beamtengesetz-ein](https://www.spiegel.de/politik/deutschland/claudia-pechstein-bundespolizei-leitet-offenbar-disziplinarverfahren-wegen-verstoss-gegen-beamtengesetz-ein-a-a4a494d6-f37d-48a2-ae3e-903951209a92#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/ausland/nigel-farage-brexit-hardliner-wurde-offenbar-von-privatbank-gekuendigt](https://www.spiegel.de/ausland/nigel-farage-brexit-hardliner-wurde-offenbar-von-privatbank-gekuendigt-a-4638060c-108d-4e8c-936a-8db436db2df2#ref=rss)
-* [https://www.spiegel.de/ausland/marseille-in-frankreich-mann-offenbar-nach-treffer-eines-gummigeschosses-gestorben](https://www.spiegel.de/ausland/marseille-in-frankreich-mann-offenbar-nach-treffer-eines-gummigeschosses-gestorben-a-44d0567a-e923-4f29-acbb-f73e25ddec1d#ref=rss)
-### allerdings
+* [https://www.spiegel.de/politik/deutschland/claudia-pechstein-bundespolizei-leitet-offenbar-disziplinarverfahren-wegen-verstoss-gegen-beamtengesetz-ein](https://www.spiegel.de/politik/deutschland/claudia-pechstein-bundespolizei-leitet-offenbar-disziplinarverfahren-wegen-verstoss-gegen-beamtengesetz-ein-a-a4a494d6-f37d-48a2-ae3e-903951209a92#ref=rss)
+* [https://www.spiegel.de/panorama/usa-haie-beissen-offenbar-schwimmer-an-der-kueste-von-new-york](https://www.spiegel.de/panorama/usa-haie-beissen-offenbar-schwimmer-an-der-kueste-von-new-york-a-883d5d39-adfd-408e-89f5-47acbaae5eb7#ref=rss)
+### beamtengesetz
 
-* [https://www.spiegel.de/ausland/nigel-farage-brexit-hardliner-wurde-offenbar-von-privatbank-gekuendigt](https://www.spiegel.de/ausland/nigel-farage-brexit-hardliner-wurde-offenbar-von-privatbank-gekuendigt-a-4638060c-108d-4e8c-936a-8db436db2df2#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/subway-filiale-aus-georgia-erregt-mit-titan-witz-aufsehen](https://www.spiegel.de/netzwelt/web/subway-filiale-aus-georgia-erregt-mit-titan-witz-aufsehen-a-3d4876fa-2328-420e-918a-89d127a92a2c#ref=rss)
-### amanda
+* [https://www.spiegel.de/politik/deutschland/claudia-pechstein-bundespolizei-leitet-offenbar-disziplinarverfahren-wegen-verstoss-gegen-beamtengesetz-ein](https://www.spiegel.de/politik/deutschland/claudia-pechstein-bundespolizei-leitet-offenbar-disziplinarverfahren-wegen-verstoss-gegen-beamtengesetz-ein-a-a4a494d6-f37d-48a2-ae3e-903951209a92#ref=rss)
+### hanau
 
-* [https://www.spiegel.de/wirtschaft/amanda-rajkumar-adidas-personalchefin-verlaesst-den-konzern](https://www.spiegel.de/wirtschaft/amanda-rajkumar-adidas-personalchefin-verlaesst-den-konzern-a-f9223e16-652b-4f7f-b754-871140382bfe#ref=rss)
-### rajkumar
+* [https://www.spiegel.de/panorama/hanau-todesdrohung-an-vermieter-rechtfertigt-sofortige-fristlose-kuendigung](https://www.spiegel.de/panorama/hanau-todesdrohung-an-vermieter-rechtfertigt-sofortige-fristlose-kuendigung-a-5a78e4f4-30bd-4b03-b0c0-4e19d062226e#ref=rss)
+### todesdrohung
 
-* [https://www.spiegel.de/wirtschaft/amanda-rajkumar-adidas-personalchefin-verlaesst-den-konzern](https://www.spiegel.de/wirtschaft/amanda-rajkumar-adidas-personalchefin-verlaesst-den-konzern-a-f9223e16-652b-4f7f-b754-871140382bfe#ref=rss)
-### verlässt
+* [https://www.spiegel.de/panorama/hanau-todesdrohung-an-vermieter-rechtfertigt-sofortige-fristlose-kuendigung](https://www.spiegel.de/panorama/hanau-todesdrohung-an-vermieter-rechtfertigt-sofortige-fristlose-kuendigung-a-5a78e4f4-30bd-4b03-b0c0-4e19d062226e#ref=rss)
+### kündigung
 
-* [https://www.spiegel.de/wirtschaft/amanda-rajkumar-adidas-personalchefin-verlaesst-den-konzern](https://www.spiegel.de/wirtschaft/amanda-rajkumar-adidas-personalchefin-verlaesst-den-konzern-a-f9223e16-652b-4f7f-b754-871140382bfe#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-transferticker-carlo-ancelotti-verlaesst-2024-real-madrid-und-wird-wohl-brasiliens-nationaltrainer](https://www.spiegel.de/sport/fussball/fussball-transferticker-carlo-ancelotti-verlaesst-2024-real-madrid-und-wird-wohl-brasiliens-nationaltrainer-a-7a0e31e3-565e-437c-a11c-4cbbcee4f76f#ref=rss)
-### angst
+* [https://www.spiegel.de/panorama/hanau-todesdrohung-an-vermieter-rechtfertigt-sofortige-fristlose-kuendigung](https://www.spiegel.de/panorama/hanau-todesdrohung-an-vermieter-rechtfertigt-sofortige-fristlose-kuendigung-a-5a78e4f4-30bd-4b03-b0c0-4e19d062226e#ref=rss)
+### laut
 
-* [https://www.spiegel.de/tests/kinderbuecher-ueber-gefuehle-buchempfehlungen-zu-angst-neugier-schuechternheit](https://www.spiegel.de/tests/kinderbuecher-ueber-gefuehle-buchempfehlungen-zu-angst-neugier-schuechternheit-a-13697fae-67b9-49ed-9c7f-fabb3a3f0ef6#ref=rss)
-### neugier
+* [https://www.spiegel.de/panorama/hanau-todesdrohung-an-vermieter-rechtfertigt-sofortige-fristlose-kuendigung](https://www.spiegel.de/panorama/hanau-todesdrohung-an-vermieter-rechtfertigt-sofortige-fristlose-kuendigung-a-5a78e4f4-30bd-4b03-b0c0-4e19d062226e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/so-teuer-wuerden-heizen-und-autofahren-bei-hoeheren-co-preisen](https://www.spiegel.de/wirtschaft/service/so-teuer-wuerden-heizen-und-autofahren-bei-hoeheren-co-preisen-a-6ca52451-2fdc-496d-977a-95afad95601f#ref=rss)
+### mieten
 
-* [https://www.spiegel.de/tests/kinderbuecher-ueber-gefuehle-buchempfehlungen-zu-angst-neugier-schuechternheit](https://www.spiegel.de/tests/kinderbuecher-ueber-gefuehle-buchempfehlungen-zu-angst-neugier-schuechternheit-a-13697fae-67b9-49ed-9c7f-fabb3a3f0ef6#ref=rss)
-### schüchternheit
+* [https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-in-deutschland-firmen-mieten-deutlich-weniger-neue-bueroflaechen-an](https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-in-deutschland-firmen-mieten-deutlich-weniger-neue-bueroflaechen-an-a-4e28df07-07de-471c-82b9-afa3559c9eb3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/immoscout24-mieten-in-deutschland-steigen-etwas-langsamer](https://www.spiegel.de/wirtschaft/unternehmen/immoscout24-mieten-in-deutschland-steigen-etwas-langsamer-a-737d4eb6-e1eb-4238-a6b6-a31713ee9b04#ref=rss)
+### büroflächen
 
-* [https://www.spiegel.de/tests/kinderbuecher-ueber-gefuehle-buchempfehlungen-zu-angst-neugier-schuechternheit](https://www.spiegel.de/tests/kinderbuecher-ueber-gefuehle-buchempfehlungen-zu-angst-neugier-schuechternheit-a-13697fae-67b9-49ed-9c7f-fabb3a3f0ef6#ref=rss)
-### erste
+* [https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-in-deutschland-firmen-mieten-deutlich-weniger-neue-bueroflaechen-an](https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-in-deutschland-firmen-mieten-deutlich-weniger-neue-bueroflaechen-an-a-4e28df07-07de-471c-82b9-afa3559c9eb3#ref=rss)
+### zeigt
 
-* [https://www.spiegel.de/tests/kinderbuecher-ueber-gefuehle-buchempfehlungen-zu-angst-neugier-schuechternheit](https://www.spiegel.de/tests/kinderbuecher-ueber-gefuehle-buchempfehlungen-zu-angst-neugier-schuechternheit-a-13697fae-67b9-49ed-9c7f-fabb3a3f0ef6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-alexander-gauland-relativiert-aktuelle-erfolge](https://www.spiegel.de/politik/deutschland/afd-alexander-gauland-relativiert-aktuelle-erfolge-a-af5c92a4-db29-4b71-8d6f-dc30652e0bce#ref=rss)
-### gut
+* [https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-in-deutschland-firmen-mieten-deutlich-weniger-neue-bueroflaechen-an](https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-in-deutschland-firmen-mieten-deutlich-weniger-neue-bueroflaechen-an-a-4e28df07-07de-471c-82b9-afa3559c9eb3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-bundeshaushalt-2024-radfahrer-sturmtief-poly](https://www.spiegel.de/politik/deutschland/news-des-tages-bundeshaushalt-2024-radfahrer-sturmtief-poly-a-0bc2d879-a665-4520-9404-fc758137fcbc#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/tests/kinderbuecher-ueber-gefuehle-buchempfehlungen-zu-angst-neugier-schuechternheit](https://www.spiegel.de/tests/kinderbuecher-ueber-gefuehle-buchempfehlungen-zu-angst-neugier-schuechternheit-a-13697fae-67b9-49ed-9c7f-fabb3a3f0ef6#ref=rss)
-* [https://www.spiegel.de/start/guenstiges-rezept-leckerer-erbsentoast-als-avocado-alternative-fuer-1-80-euro](https://www.spiegel.de/start/guenstiges-rezept-leckerer-erbsentoast-als-avocado-alternative-fuer-1-80-euro-a-0eeaccd8-899b-4e77-8f6e-0bdf03f133c7#ref=rss)
-### finanzminister
+* [https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-in-deutschland-firmen-mieten-deutlich-weniger-neue-bueroflaechen-an](https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-in-deutschland-firmen-mieten-deutlich-weniger-neue-bueroflaechen-an-a-4e28df07-07de-471c-82b9-afa3559c9eb3#ref=rss)
+* [https://www.spiegel.de/auto/elektroautos-im-juni-so-viele-neuzulassungen-wie-seit-dezember-nicht-mehr](https://www.spiegel.de/auto/elektroautos-im-juni-so-viele-neuzulassungen-wie-seit-dezember-nicht-mehr-a-572d4bc2-2de3-4093-b855-81991e9dabfe#ref=rss)
+### ausstattung
 
-* [https://www.spiegel.de/wirtschaft/nach-langem-streit-regierung-verabschiedet-bundeshaushalt](https://www.spiegel.de/wirtschaft/nach-langem-streit-regierung-verabschiedet-bundeshaushalt-a-b784bb4e-ce19-4776-a6c1-c9e45c10dfcc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/lindners-sparkurs-ist-verfehlt](https://www.spiegel.de/wirtschaft/soziales/lindners-sparkurs-ist-verfehlt-a-35f8eed9-7cd6-4faf-a40f-8c30797b0b85#ref=rss)
-### per
+* [https://www.spiegel.de/ausland/wladimir-putin-reist-mit-kosmetiksalon-und-hamam-neue-details-zum-sonderzug](https://www.spiegel.de/ausland/wladimir-putin-reist-mit-kosmetiksalon-und-hamam-neue-details-zum-sonderzug-a-68e9b89b-67ff-4d35-aa82-ec3900da18dc#ref=rss)
+### teuer
 
-* [https://www.spiegel.de/netzwelt/web/kuendigung-per-button-verbraucherschuetzer-stellen-noch-immer-maengel-fest](https://www.spiegel.de/netzwelt/web/kuendigung-per-button-verbraucherschuetzer-stellen-noch-immer-maengel-fest-a-68911c7c-9d5b-47fb-aab9-64df80b655b4#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/subway-filiale-aus-georgia-erregt-mit-titan-witz-aufsehen](https://www.spiegel.de/netzwelt/web/subway-filiale-aus-georgia-erregt-mit-titan-witz-aufsehen-a-3d4876fa-2328-420e-918a-89d127a92a2c#ref=rss)
-### verbraucherschützer
+* [https://www.spiegel.de/wirtschaft/service/so-teuer-wuerden-heizen-und-autofahren-bei-hoeheren-co-preisen](https://www.spiegel.de/wirtschaft/service/so-teuer-wuerden-heizen-und-autofahren-bei-hoeheren-co-preisen-a-6ca52451-2fdc-496d-977a-95afad95601f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gescheiterte-infrastrukturabgabe-bund-muss-243-millionen-euro-schadenersatz-wegen-pkw-maut-zahlen](https://www.spiegel.de/politik/deutschland/gescheiterte-infrastrukturabgabe-bund-muss-243-millionen-euro-schadenersatz-wegen-pkw-maut-zahlen-a-11cff3cf-3bb3-4734-9f5a-4677d41c7185#ref=rss)
+### autofahren
 
-* [https://www.spiegel.de/netzwelt/web/kuendigung-per-button-verbraucherschuetzer-stellen-noch-immer-maengel-fest](https://www.spiegel.de/netzwelt/web/kuendigung-per-button-verbraucherschuetzer-stellen-noch-immer-maengel-fest-a-68911c7c-9d5b-47fb-aab9-64df80b655b4#ref=rss)
-### fest
+* [https://www.spiegel.de/wirtschaft/service/so-teuer-wuerden-heizen-und-autofahren-bei-hoeheren-co-preisen](https://www.spiegel.de/wirtschaft/service/so-teuer-wuerden-heizen-und-autofahren-bei-hoeheren-co-preisen-a-6ca52451-2fdc-496d-977a-95afad95601f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-bundeshaushalt-2024-radfahrer-sturmtief-poly](https://www.spiegel.de/politik/deutschland/news-des-tages-bundeshaushalt-2024-radfahrer-sturmtief-poly-a-0bc2d879-a665-4520-9404-fc758137fcbc#ref=rss)
+### steigen
 
-* [https://www.spiegel.de/netzwelt/web/kuendigung-per-button-verbraucherschuetzer-stellen-noch-immer-maengel-fest](https://www.spiegel.de/netzwelt/web/kuendigung-per-button-verbraucherschuetzer-stellen-noch-immer-maengel-fest-a-68911c7c-9d5b-47fb-aab9-64df80b655b4#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/usa-vermisste-frau-steckte-tagelang-in-sumpf-fest](https://www.spiegel.de/panorama/justiz/usa-vermisste-frau-steckte-tagelang-in-sumpf-fest-a-b66f5901-f4cd-4609-b91e-7e0ed16eb60d#ref=rss)
-### solche
+* [https://www.spiegel.de/wirtschaft/service/so-teuer-wuerden-heizen-und-autofahren-bei-hoeheren-co-preisen](https://www.spiegel.de/wirtschaft/service/so-teuer-wuerden-heizen-und-autofahren-bei-hoeheren-co-preisen-a-6ca52451-2fdc-496d-977a-95afad95601f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/immoscout24-mieten-in-deutschland-steigen-etwas-langsamer](https://www.spiegel.de/wirtschaft/unternehmen/immoscout24-mieten-in-deutschland-steigen-etwas-langsamer-a-737d4eb6-e1eb-4238-a6b6-a31713ee9b04#ref=rss)
+### geplant
 
-* [https://www.spiegel.de/netzwelt/web/kuendigung-per-button-verbraucherschuetzer-stellen-noch-immer-maengel-fest](https://www.spiegel.de/netzwelt/web/kuendigung-per-button-verbraucherschuetzer-stellen-noch-immer-maengel-fest-a-68911c7c-9d5b-47fb-aab9-64df80b655b4#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klimakrise-mitteleuropa-kuenftig-besonders-von-hitze-und-duerre-betroffen](https://www.spiegel.de/wissenschaft/natur/klimakrise-mitteleuropa-kuenftig-besonders-von-hitze-und-duerre-betroffen-a-276b8303-cf61-4dfe-b075-6960085e2179#ref=rss)
-### gesetz
+* [https://www.spiegel.de/wirtschaft/service/so-teuer-wuerden-heizen-und-autofahren-bei-hoeheren-co-preisen](https://www.spiegel.de/wirtschaft/service/so-teuer-wuerden-heizen-und-autofahren-bei-hoeheren-co-preisen-a-6ca52451-2fdc-496d-977a-95afad95601f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/daenemark-amoklaeufer-von-kopenhagen-muss-auf-unbestimmte-zeit-in-forensische-psychiatrie](https://www.spiegel.de/panorama/justiz/daenemark-amoklaeufer-von-kopenhagen-muss-auf-unbestimmte-zeit-in-forensische-psychiatrie-a-e6e0b852-2151-483e-b5ba-c4cc2774a3a3#ref=rss)
+### bedeuten
 
-* [https://www.spiegel.de/netzwelt/web/kuendigung-per-button-verbraucherschuetzer-stellen-noch-immer-maengel-fest](https://www.spiegel.de/netzwelt/web/kuendigung-per-button-verbraucherschuetzer-stellen-noch-immer-maengel-fest-a-68911c7c-9d5b-47fb-aab9-64df80b655b4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/maischberger-ankuendigung-markus-soeder-will-heizungsgesetz-wieder-abschaffen](https://www.spiegel.de/politik/deutschland/maischberger-ankuendigung-markus-soeder-will-heizungsgesetz-wieder-abschaffen-a-c0d42d2a-8014-423d-a5f9-641526a4388d#ref=rss)
-### alexander
+* [https://www.spiegel.de/wirtschaft/service/so-teuer-wuerden-heizen-und-autofahren-bei-hoeheren-co-preisen](https://www.spiegel.de/wirtschaft/service/so-teuer-wuerden-heizen-und-autofahren-bei-hoeheren-co-preisen-a-6ca52451-2fdc-496d-977a-95afad95601f#ref=rss)
+* [https://www.spiegel.de/politik/jutta-allmendinger-zur-kappung-des-elterngeldes-materiell-ist-das-sicher-kein-schwerer-schlag](https://www.spiegel.de/politik/jutta-allmendinger-zur-kappung-des-elterngeldes-materiell-ist-das-sicher-kein-schwerer-schlag-a-310e3560-7b4d-4db4-8f77-a3db084904fb#ref=rss)
+### jutta
 
-* [https://www.spiegel.de/politik/deutschland/afd-alexander-gauland-relativiert-aktuelle-erfolge](https://www.spiegel.de/politik/deutschland/afd-alexander-gauland-relativiert-aktuelle-erfolge-a-af5c92a4-db29-4b71-8d6f-dc30652e0bce#ref=rss)
-### gauland
+* [https://www.spiegel.de/politik/jutta-allmendinger-zur-kappung-des-elterngeldes-materiell-ist-das-sicher-kein-schwerer-schlag](https://www.spiegel.de/politik/jutta-allmendinger-zur-kappung-des-elterngeldes-materiell-ist-das-sicher-kein-schwerer-schlag-a-310e3560-7b4d-4db4-8f77-a3db084904fb#ref=rss)
+### allmendinger
 
-* [https://www.spiegel.de/politik/deutschland/afd-alexander-gauland-relativiert-aktuelle-erfolge](https://www.spiegel.de/politik/deutschland/afd-alexander-gauland-relativiert-aktuelle-erfolge-a-af5c92a4-db29-4b71-8d6f-dc30652e0bce#ref=rss)
-### russische
+* [https://www.spiegel.de/politik/jutta-allmendinger-zur-kappung-des-elterngeldes-materiell-ist-das-sicher-kein-schwerer-schlag](https://www.spiegel.de/politik/jutta-allmendinger-zur-kappung-des-elterngeldes-materiell-ist-das-sicher-kein-schwerer-schlag-a-310e3560-7b4d-4db4-8f77-a3db084904fb#ref=rss)
+### emanuel
 
-* [https://www.spiegel.de/ausland/grosny-angriff-auf-russische-journalistin-jelena-milaschina-sie-hielten-mir-eine-pistole-an-den-kopf](https://www.spiegel.de/ausland/grosny-angriff-auf-russische-journalistin-jelena-milaschina-sie-hielten-mir-eine-pistole-an-den-kopf-a-13cbe315-42e8-4b49-bc11-40c0a6a0c07c#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-news-am-mittwoch-britischer-geheimdienst-sieht-bruchlinien-in-russlands-sicherheitsapparat](https://www.spiegel.de/ausland/russland-ukraine-news-am-mittwoch-britischer-geheimdienst-sieht-bruchlinien-in-russlands-sicherheitsapparat-a-61e984f3-3d73-424e-aef1-654d96f863b2#ref=rss)
-### journalistin
+* [https://www.spiegel.de/sport/tour-de-france-jai-hindley-faehrt-mit-hilfe-von-emanuel-buchmann-zum-gelben-trikot](https://www.spiegel.de/sport/tour-de-france-jai-hindley-faehrt-mit-hilfe-von-emanuel-buchmann-zum-gelben-trikot-a-1659d401-432a-40ba-914a-47f338b3e439#ref=rss)
+### buchmann
 
-* [https://www.spiegel.de/ausland/grosny-angriff-auf-russische-journalistin-jelena-milaschina-sie-hielten-mir-eine-pistole-an-den-kopf](https://www.spiegel.de/ausland/grosny-angriff-auf-russische-journalistin-jelena-milaschina-sie-hielten-mir-eine-pistole-an-den-kopf-a-13cbe315-42e8-4b49-bc11-40c0a6a0c07c#ref=rss)
-### jelena
+* [https://www.spiegel.de/sport/tour-de-france-jai-hindley-faehrt-mit-hilfe-von-emanuel-buchmann-zum-gelben-trikot](https://www.spiegel.de/sport/tour-de-france-jai-hindley-faehrt-mit-hilfe-von-emanuel-buchmann-zum-gelben-trikot-a-1659d401-432a-40ba-914a-47f338b3e439#ref=rss)
+### ersten
 
-* [https://www.spiegel.de/ausland/grosny-angriff-auf-russische-journalistin-jelena-milaschina-sie-hielten-mir-eine-pistole-an-den-kopf](https://www.spiegel.de/ausland/grosny-angriff-auf-russische-journalistin-jelena-milaschina-sie-hielten-mir-eine-pistole-an-den-kopf-a-13cbe315-42e8-4b49-bc11-40c0a6a0c07c#ref=rss)
-### milaschina
+* [https://www.spiegel.de/sport/tour-de-france-jai-hindley-faehrt-mit-hilfe-von-emanuel-buchmann-zum-gelben-trikot](https://www.spiegel.de/sport/tour-de-france-jai-hindley-faehrt-mit-hilfe-von-emanuel-buchmann-zum-gelben-trikot-a-1659d401-432a-40ba-914a-47f338b3e439#ref=rss)
+* [https://www.spiegel.de/auto/elektroautos-im-juni-so-viele-neuzulassungen-wie-seit-dezember-nicht-mehr](https://www.spiegel.de/auto/elektroautos-im-juni-so-viele-neuzulassungen-wie-seit-dezember-nicht-mehr-a-572d4bc2-2de3-4093-b855-81991e9dabfe#ref=rss)
+### kam
 
-* [https://www.spiegel.de/ausland/grosny-angriff-auf-russische-journalistin-jelena-milaschina-sie-hielten-mir-eine-pistole-an-den-kopf](https://www.spiegel.de/ausland/grosny-angriff-auf-russische-journalistin-jelena-milaschina-sie-hielten-mir-eine-pistole-an-den-kopf-a-13cbe315-42e8-4b49-bc11-40c0a6a0c07c#ref=rss)
-### attacke
+* [https://www.spiegel.de/sport/tour-de-france-jai-hindley-faehrt-mit-hilfe-von-emanuel-buchmann-zum-gelben-trikot](https://www.spiegel.de/sport/tour-de-france-jai-hindley-faehrt-mit-hilfe-von-emanuel-buchmann-zum-gelben-trikot-a-1659d401-432a-40ba-914a-47f338b3e439#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/daenemark-amoklaeufer-von-kopenhagen-muss-auf-unbestimmte-zeit-in-forensische-psychiatrie](https://www.spiegel.de/panorama/justiz/daenemark-amoklaeufer-von-kopenhagen-muss-auf-unbestimmte-zeit-in-forensische-psychiatrie-a-e6e0b852-2151-483e-b5ba-c4cc2774a3a3#ref=rss)
+### helfen
 
-* [https://www.spiegel.de/ausland/grosny-angriff-auf-russische-journalistin-jelena-milaschina-sie-hielten-mir-eine-pistole-an-den-kopf](https://www.spiegel.de/ausland/grosny-angriff-auf-russische-journalistin-jelena-milaschina-sie-hielten-mir-eine-pistole-an-den-kopf-a-13cbe315-42e8-4b49-bc11-40c0a6a0c07c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/boris-palmer-warnt-luisa-neubauer-in-brief-vor-totalitarismus](https://www.spiegel.de/politik/deutschland/boris-palmer-warnt-luisa-neubauer-in-brief-vor-totalitarismus-a-9d6959be-5ecf-428f-b1ef-e3849268e787#ref=rss)
-### iman
+* [https://www.spiegel.de/auto/phonetik-jeder-sagt-aehm-anders](https://www.spiegel.de/auto/phonetik-jeder-sagt-aehm-anders-a-63702508-9cf7-47f2-9d29-faaebff3329f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/haushaltsentwurf-christian-lindner-stimmt-buerger-auf-magere-zeiten-ein](https://www.spiegel.de/wirtschaft/soziales/haushaltsentwurf-christian-lindner-stimmt-buerger-auf-magere-zeiten-ein-a-54276a4e-6238-4155-ac66-9c0d74b588a4#ref=rss)
+### exinnenminister
 
-* [https://www.spiegel.de/sport/fussball/iman-beney-der-kurze-wm-traum-eines-16-jahre-alten-supertalents](https://www.spiegel.de/sport/fussball/iman-beney-der-kurze-wm-traum-eines-16-jahre-alten-supertalents-a-a48fd52d-c9ea-497d-ba16-d14b71030a1e#ref=rss)
-### beney
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-ex-innenminister-de-maiziere-soll-tarifkonflikt-schlichten](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-ex-innenminister-de-maiziere-soll-tarifkonflikt-schlichten-a-23953751-6f2b-42cb-9611-da358f815f84#ref=rss)
+### maizière
 
-* [https://www.spiegel.de/sport/fussball/iman-beney-der-kurze-wm-traum-eines-16-jahre-alten-supertalents](https://www.spiegel.de/sport/fussball/iman-beney-der-kurze-wm-traum-eines-16-jahre-alten-supertalents-a-a48fd52d-c9ea-497d-ba16-d14b71030a1e#ref=rss)
-### 16
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-ex-innenminister-de-maiziere-soll-tarifkonflikt-schlichten](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-ex-innenminister-de-maiziere-soll-tarifkonflikt-schlichten-a-23953751-6f2b-42cb-9611-da358f815f84#ref=rss)
+### sommer
 
-* [https://www.spiegel.de/sport/fussball/iman-beney-der-kurze-wm-traum-eines-16-jahre-alten-supertalents](https://www.spiegel.de/sport/fussball/iman-beney-der-kurze-wm-traum-eines-16-jahre-alten-supertalents-a-a48fd52d-c9ea-497d-ba16-d14b71030a1e#ref=rss)
-### jahre
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-ex-innenminister-de-maiziere-soll-tarifkonflikt-schlichten](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-ex-innenminister-de-maiziere-soll-tarifkonflikt-schlichten-a-23953751-6f2b-42cb-9611-da358f815f84#ref=rss)
+* [https://www.spiegel.de/deinspiegel/fuenf-tipps-fuer-noch-schoenere-ferien](https://www.spiegel.de/deinspiegel/fuenf-tipps-fuer-noch-schoenere-ferien-a-dfa24804-c909-47ae-945b-89af60751d05#ref=rss)
+### sturmtief
 
-* [https://www.spiegel.de/sport/fussball/iman-beney-der-kurze-wm-traum-eines-16-jahre-alten-supertalents](https://www.spiegel.de/sport/fussball/iman-beney-der-kurze-wm-traum-eines-16-jahre-alten-supertalents-a-a48fd52d-c9ea-497d-ba16-d14b71030a1e#ref=rss)
-### montag
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-bundeshaushalt-2024-radfahrer-sturmtief-poly](https://www.spiegel.de/politik/deutschland/news-des-tages-bundeshaushalt-2024-radfahrer-sturmtief-poly-a-0bc2d879-a665-4520-9404-fc758137fcbc#ref=rss)
+### poly
 
-* [https://www.spiegel.de/sport/fussball/iman-beney-der-kurze-wm-traum-eines-16-jahre-alten-supertalents](https://www.spiegel.de/sport/fussball/iman-beney-der-kurze-wm-traum-eines-16-jahre-alten-supertalents-a-a48fd52d-c9ea-497d-ba16-d14b71030a1e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klimakrise-montag-war-global-der-heisseste-tag-der-geschichte](https://www.spiegel.de/wissenschaft/natur/klimakrise-montag-war-global-der-heisseste-tag-der-geschichte-a-03ffb1c8-1fd1-42b8-99db-9589264be222#ref=rss)
-### klimakrise
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-bundeshaushalt-2024-radfahrer-sturmtief-poly](https://www.spiegel.de/politik/deutschland/news-des-tages-bundeshaushalt-2024-radfahrer-sturmtief-poly-a-0bc2d879-a665-4520-9404-fc758137fcbc#ref=rss)
+### lindner
 
-* [https://www.spiegel.de/wissenschaft/natur/klimakrise-mitteleuropa-kuenftig-besonders-von-hitze-und-duerre-betroffen](https://www.spiegel.de/wissenschaft/natur/klimakrise-mitteleuropa-kuenftig-besonders-von-hitze-und-duerre-betroffen-a-276b8303-cf61-4dfe-b075-6960085e2179#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klimakrise-montag-war-global-der-heisseste-tag-der-geschichte](https://www.spiegel.de/wissenschaft/natur/klimakrise-montag-war-global-der-heisseste-tag-der-geschichte-a-03ffb1c8-1fd1-42b8-99db-9589264be222#ref=rss)
-### georgia
+* [https://www.spiegel.de/wirtschaft/soziales/haushaltsentwurf-christian-lindner-stimmt-buerger-auf-magere-zeiten-ein](https://www.spiegel.de/wirtschaft/soziales/haushaltsentwurf-christian-lindner-stimmt-buerger-auf-magere-zeiten-ein-a-54276a4e-6238-4155-ac66-9c0d74b588a4#ref=rss)
+### liegen
 
-* [https://www.spiegel.de/netzwelt/web/subway-filiale-aus-georgia-erregt-mit-titan-witz-aufsehen](https://www.spiegel.de/netzwelt/web/subway-filiale-aus-georgia-erregt-mit-titan-witz-aufsehen-a-3d4876fa-2328-420e-918a-89d127a92a2c#ref=rss)
-### carlo
+* [https://www.spiegel.de/panorama/berlin-7000-menschen-wegen-bombenentschaerfung-evakuiert](https://www.spiegel.de/panorama/berlin-7000-menschen-wegen-bombenentschaerfung-evakuiert-a-b1087dd8-58a6-49ff-a00d-1efeeeb1f799#ref=rss)
+* [https://www.spiegel.de/kultur/tv/oeffentlich-rechtlicher-rundfunk-saarland-will-intendantengehalt-deckeln](https://www.spiegel.de/kultur/tv/oeffentlich-rechtlicher-rundfunk-saarland-will-intendantengehalt-deckeln-a-bfd43c7b-8e82-4cbb-888d-bd16d9e81691#ref=rss)
+### pkwmaut
 
-* [https://www.spiegel.de/sport/fussball/fussball-transferticker-carlo-ancelotti-verlaesst-2024-real-madrid-und-wird-wohl-brasiliens-nationaltrainer](https://www.spiegel.de/sport/fussball/fussball-transferticker-carlo-ancelotti-verlaesst-2024-real-madrid-und-wird-wohl-brasiliens-nationaltrainer-a-7a0e31e3-565e-437c-a11c-4cbbcee4f76f#ref=rss)
-### ancelotti
+* [https://www.spiegel.de/politik/deutschland/gescheiterte-infrastrukturabgabe-bund-muss-243-millionen-euro-schadenersatz-wegen-pkw-maut-zahlen](https://www.spiegel.de/politik/deutschland/gescheiterte-infrastrukturabgabe-bund-muss-243-millionen-euro-schadenersatz-wegen-pkw-maut-zahlen-a-11cff3cf-3bb3-4734-9f5a-4677d41c7185#ref=rss)
+### euro
 
-* [https://www.spiegel.de/sport/fussball/fussball-transferticker-carlo-ancelotti-verlaesst-2024-real-madrid-und-wird-wohl-brasiliens-nationaltrainer](https://www.spiegel.de/sport/fussball/fussball-transferticker-carlo-ancelotti-verlaesst-2024-real-madrid-und-wird-wohl-brasiliens-nationaltrainer-a-7a0e31e3-565e-437c-a11c-4cbbcee4f76f#ref=rss)
-### nationaltrainer
+* [https://www.spiegel.de/politik/deutschland/gescheiterte-infrastrukturabgabe-bund-muss-243-millionen-euro-schadenersatz-wegen-pkw-maut-zahlen](https://www.spiegel.de/politik/deutschland/gescheiterte-infrastrukturabgabe-bund-muss-243-millionen-euro-schadenersatz-wegen-pkw-maut-zahlen-a-11cff3cf-3bb3-4734-9f5a-4677d41c7185#ref=rss)
+* [https://www.spiegel.de/kultur/tv/oeffentlich-rechtlicher-rundfunk-saarland-will-intendantengehalt-deckeln](https://www.spiegel.de/kultur/tv/oeffentlich-rechtlicher-rundfunk-saarland-will-intendantengehalt-deckeln-a-bfd43c7b-8e82-4cbb-888d-bd16d9e81691#ref=rss)
+### zahlen
 
-* [https://www.spiegel.de/sport/fussball/fussball-transferticker-carlo-ancelotti-verlaesst-2024-real-madrid-und-wird-wohl-brasiliens-nationaltrainer](https://www.spiegel.de/sport/fussball/fussball-transferticker-carlo-ancelotti-verlaesst-2024-real-madrid-und-wird-wohl-brasiliens-nationaltrainer-a-7a0e31e3-565e-437c-a11c-4cbbcee4f76f#ref=rss)
-### frau
+* [https://www.spiegel.de/politik/deutschland/gescheiterte-infrastrukturabgabe-bund-muss-243-millionen-euro-schadenersatz-wegen-pkw-maut-zahlen](https://www.spiegel.de/politik/deutschland/gescheiterte-infrastrukturabgabe-bund-muss-243-millionen-euro-schadenersatz-wegen-pkw-maut-zahlen-a-11cff3cf-3bb3-4734-9f5a-4677d41c7185#ref=rss)
+* [https://www.spiegel.de/auto/elektroautos-im-juni-so-viele-neuzulassungen-wie-seit-dezember-nicht-mehr](https://www.spiegel.de/auto/elektroautos-im-juni-so-viele-neuzulassungen-wie-seit-dezember-nicht-mehr-a-572d4bc2-2de3-4093-b855-81991e9dabfe#ref=rss)
+### spiegelinformationen
 
-* [https://www.spiegel.de/panorama/justiz/usa-vermisste-frau-steckte-tagelang-in-sumpf-fest](https://www.spiegel.de/panorama/justiz/usa-vermisste-frau-steckte-tagelang-in-sumpf-fest-a-b66f5901-f4cd-4609-b91e-7e0ed16eb60d#ref=rss)
-### mann
+* [https://www.spiegel.de/politik/deutschland/gescheiterte-infrastrukturabgabe-bund-muss-243-millionen-euro-schadenersatz-wegen-pkw-maut-zahlen](https://www.spiegel.de/politik/deutschland/gescheiterte-infrastrukturabgabe-bund-muss-243-millionen-euro-schadenersatz-wegen-pkw-maut-zahlen-a-11cff3cf-3bb3-4734-9f5a-4677d41c7185#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/linke-und-sahra-wagenknecht-landeschefs-wollen-wechsel-der-fraktionsspitze](https://www.spiegel.de/politik/deutschland/linke-und-sahra-wagenknecht-landeschefs-wollen-wechsel-der-fraktionsspitze-a-ec7c9410-f66a-4315-b2a5-180c0e689b39#ref=rss)
+### immoscout24
 
-* [https://www.spiegel.de/ausland/marseille-in-frankreich-mann-offenbar-nach-treffer-eines-gummigeschosses-gestorben](https://www.spiegel.de/ausland/marseille-in-frankreich-mann-offenbar-nach-treffer-eines-gummigeschosses-gestorben-a-44d0567a-e923-4f29-acbb-f73e25ddec1d#ref=rss)
-* [https://www.spiegel.de/panorama/leute/meghan-trainor-zum-zweiten-mal-mutter-geworden](https://www.spiegel.de/panorama/leute/meghan-trainor-zum-zweiten-mal-mutter-geworden-a-7c196ebb-4d8d-4b80-a68b-9b57182e4e45#ref=rss)
-### marseille
+* [https://www.spiegel.de/wirtschaft/unternehmen/immoscout24-mieten-in-deutschland-steigen-etwas-langsamer](https://www.spiegel.de/wirtschaft/unternehmen/immoscout24-mieten-in-deutschland-steigen-etwas-langsamer-a-737d4eb6-e1eb-4238-a6b6-a31713ee9b04#ref=rss)
+### etwas
 
-* [https://www.spiegel.de/ausland/marseille-in-frankreich-mann-offenbar-nach-treffer-eines-gummigeschosses-gestorben](https://www.spiegel.de/ausland/marseille-in-frankreich-mann-offenbar-nach-treffer-eines-gummigeschosses-gestorben-a-44d0567a-e923-4f29-acbb-f73e25ddec1d#ref=rss)
-### land
+* [https://www.spiegel.de/wirtschaft/unternehmen/immoscout24-mieten-in-deutschland-steigen-etwas-langsamer](https://www.spiegel.de/wirtschaft/unternehmen/immoscout24-mieten-in-deutschland-steigen-etwas-langsamer-a-737d4eb6-e1eb-4238-a6b6-a31713ee9b04#ref=rss)
+### carles
 
-* [https://www.spiegel.de/geschichte/frankreich-die-gewalt-und-der-hass-gegen-den-staat-haben-eine-neue-dimension-angenommen](https://www.spiegel.de/geschichte/frankreich-die-gewalt-und-der-hass-gegen-den-staat-haben-eine-neue-dimension-angenommen-a-6a06147d-fdfa-4fc1-a2b2-0a8aad773691#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ukraine-setzt-unilever-auf-ihre-liste-der-internationalen-kriegssponsoren](https://www.spiegel.de/wirtschaft/unternehmen/ukraine-setzt-unilever-auf-ihre-liste-der-internationalen-kriegssponsoren-a-95155fa2-00e2-42cb-809e-0aead04a7f59#ref=rss)
-### rheinmetall
+* [https://www.spiegel.de/ausland/carles-puigdemont-eu-gericht-weist-klage-des-katalanischen-separatistenfuehrers-ab](https://www.spiegel.de/ausland/carles-puigdemont-eu-gericht-weist-klage-des-katalanischen-separatistenfuehrers-ab-a-48627d89-d226-4564-a95f-42c9abebf2f7#ref=rss)
+### puigdemont
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-ruestungskonzern-will-teile-fuer-f-35-kampfjet-in-weeze-fertigen](https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-ruestungskonzern-will-teile-fuer-f-35-kampfjet-in-weeze-fertigen-a-9ee64bad-44f8-4778-a6e9-ef584fbef580#ref=rss)
-### weeze
+* [https://www.spiegel.de/ausland/carles-puigdemont-eu-gericht-weist-klage-des-katalanischen-separatistenfuehrers-ab](https://www.spiegel.de/ausland/carles-puigdemont-eu-gericht-weist-klage-des-katalanischen-separatistenfuehrers-ab-a-48627d89-d226-4564-a95f-42c9abebf2f7#ref=rss)
+### klage
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-ruestungskonzern-will-teile-fuer-f-35-kampfjet-in-weeze-fertigen](https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-ruestungskonzern-will-teile-fuer-f-35-kampfjet-in-weeze-fertigen-a-9ee64bad-44f8-4778-a6e9-ef584fbef580#ref=rss)
-### russland
+* [https://www.spiegel.de/ausland/carles-puigdemont-eu-gericht-weist-klage-des-katalanischen-separatistenfuehrers-ab](https://www.spiegel.de/ausland/carles-puigdemont-eu-gericht-weist-klage-des-katalanischen-separatistenfuehrers-ab-a-48627d89-d226-4564-a95f-42c9abebf2f7#ref=rss)
+### regierungschef
 
-* [https://www.spiegel.de/ausland/russland-ukraine-news-am-mittwoch-britischer-geheimdienst-sieht-bruchlinien-in-russlands-sicherheitsapparat](https://www.spiegel.de/ausland/russland-ukraine-news-am-mittwoch-britischer-geheimdienst-sieht-bruchlinien-in-russlands-sicherheitsapparat-a-61e984f3-3d73-424e-aef1-654d96f863b2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ukraine-setzt-unilever-auf-ihre-liste-der-internationalen-kriegssponsoren](https://www.spiegel.de/wirtschaft/unternehmen/ukraine-setzt-unilever-auf-ihre-liste-der-internationalen-kriegssponsoren-a-95155fa2-00e2-42cb-809e-0aead04a7f59#ref=rss)
-### ampel
+* [https://www.spiegel.de/ausland/carles-puigdemont-eu-gericht-weist-klage-des-katalanischen-separatistenfuehrers-ab](https://www.spiegel.de/ausland/carles-puigdemont-eu-gericht-weist-klage-des-katalanischen-separatistenfuehrers-ab-a-48627d89-d226-4564-a95f-42c9abebf2f7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bremen-andreas-bovenschulte-als-regierungschef-wiedergewaehlt](https://www.spiegel.de/politik/deutschland/bremen-andreas-bovenschulte-als-regierungschef-wiedergewaehlt-a-893e6d30-01a6-41d6-a0a5-c88da00bd3f5#ref=rss)
+### bundeswehr
 
-* [https://www.spiegel.de/wirtschaft/service/ampel-will-obergrenze-fuer-heizungsfoerderung-von-30-000-euro-einfuehren](https://www.spiegel.de/wirtschaft/service/ampel-will-obergrenze-fuer-heizungsfoerderung-von-30-000-euro-einfuehren-a-20e974f6-330b-42ce-8577-e008ff18d33c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/maischberger-ankuendigung-markus-soeder-will-heizungsgesetz-wieder-abschaffen](https://www.spiegel.de/politik/deutschland/maischberger-ankuendigung-markus-soeder-will-heizungsgesetz-wieder-abschaffen-a-c0d42d2a-8014-423d-a5f9-641526a4388d#ref=rss)
-### israel
+* [https://www.spiegel.de/politik/deutschland/bundestagsausschuesse-genehmigen-kauf-von-60-chinook-transporthubschraubern](https://www.spiegel.de/politik/deutschland/bundestagsausschuesse-genehmigen-kauf-von-60-chinook-transporthubschraubern-a-95f5b71c-27dd-4b68-b2d4-a6b3084b55cc#ref=rss)
+### new
 
-* [https://www.spiegel.de/ausland/israel-zieht-sich-aus-dschenin-zurueck-luftangriffe-auf-gazastreifen](https://www.spiegel.de/ausland/israel-zieht-sich-aus-dschenin-zurueck-luftangriffe-auf-gazastreifen-a-0c2f3354-cece-45a3-9f88-c1b473351bd7#ref=rss)
-### dschenin
+* [https://www.spiegel.de/panorama/usa-haie-beissen-offenbar-schwimmer-an-der-kueste-von-new-york](https://www.spiegel.de/panorama/usa-haie-beissen-offenbar-schwimmer-an-der-kueste-von-new-york-a-883d5d39-adfd-408e-89f5-47acbaae5eb7#ref=rss)
+### york
 
-* [https://www.spiegel.de/ausland/israel-zieht-sich-aus-dschenin-zurueck-luftangriffe-auf-gazastreifen](https://www.spiegel.de/ausland/israel-zieht-sich-aus-dschenin-zurueck-luftangriffe-auf-gazastreifen-a-0c2f3354-cece-45a3-9f88-c1b473351bd7#ref=rss)
-### zurück
+* [https://www.spiegel.de/panorama/usa-haie-beissen-offenbar-schwimmer-an-der-kueste-von-new-york](https://www.spiegel.de/panorama/usa-haie-beissen-offenbar-schwimmer-an-der-kueste-von-new-york-a-883d5d39-adfd-408e-89f5-47acbaae5eb7#ref=rss)
+### landeschefs
 
-* [https://www.spiegel.de/ausland/israel-zieht-sich-aus-dschenin-zurueck-luftangriffe-auf-gazastreifen](https://www.spiegel.de/ausland/israel-zieht-sich-aus-dschenin-zurueck-luftangriffe-auf-gazastreifen-a-0c2f3354-cece-45a3-9f88-c1b473351bd7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/boris-palmer-warnt-luisa-neubauer-in-brief-vor-totalitarismus](https://www.spiegel.de/politik/deutschland/boris-palmer-warnt-luisa-neubauer-in-brief-vor-totalitarismus-a-9d6959be-5ecf-428f-b1ef-e3849268e787#ref=rss)
-### meghan
+* [https://www.spiegel.de/politik/deutschland/linke-und-sahra-wagenknecht-landeschefs-wollen-wechsel-der-fraktionsspitze](https://www.spiegel.de/politik/deutschland/linke-und-sahra-wagenknecht-landeschefs-wollen-wechsel-der-fraktionsspitze-a-ec7c9410-f66a-4315-b2a5-180c0e689b39#ref=rss)
+### andreas
 
-* [https://www.spiegel.de/panorama/leute/meghan-trainor-zum-zweiten-mal-mutter-geworden](https://www.spiegel.de/panorama/leute/meghan-trainor-zum-zweiten-mal-mutter-geworden-a-7c196ebb-4d8d-4b80-a68b-9b57182e4e45#ref=rss)
-### trainor
+* [https://www.spiegel.de/politik/deutschland/bremen-andreas-bovenschulte-als-regierungschef-wiedergewaehlt](https://www.spiegel.de/politik/deutschland/bremen-andreas-bovenschulte-als-regierungschef-wiedergewaehlt-a-893e6d30-01a6-41d6-a0a5-c88da00bd3f5#ref=rss)
+### bovenschulte
 
-* [https://www.spiegel.de/panorama/leute/meghan-trainor-zum-zweiten-mal-mutter-geworden](https://www.spiegel.de/panorama/leute/meghan-trainor-zum-zweiten-mal-mutter-geworden-a-7c196ebb-4d8d-4b80-a68b-9b57182e4e45#ref=rss)
-### geworden
+* [https://www.spiegel.de/politik/deutschland/bremen-andreas-bovenschulte-als-regierungschef-wiedergewaehlt](https://www.spiegel.de/politik/deutschland/bremen-andreas-bovenschulte-als-regierungschef-wiedergewaehlt-a-893e6d30-01a6-41d6-a0a5-c88da00bd3f5#ref=rss)
+### saarland
 
-* [https://www.spiegel.de/panorama/leute/meghan-trainor-zum-zweiten-mal-mutter-geworden](https://www.spiegel.de/panorama/leute/meghan-trainor-zum-zweiten-mal-mutter-geworden-a-7c196ebb-4d8d-4b80-a68b-9b57182e4e45#ref=rss)
-### unilever
+* [https://www.spiegel.de/kultur/tv/oeffentlich-rechtlicher-rundfunk-saarland-will-intendantengehalt-deckeln](https://www.spiegel.de/kultur/tv/oeffentlich-rechtlicher-rundfunk-saarland-will-intendantengehalt-deckeln-a-bfd43c7b-8e82-4cbb-888d-bd16d9e81691#ref=rss)
+### juni
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/ukraine-setzt-unilever-auf-ihre-liste-der-internationalen-kriegssponsoren](https://www.spiegel.de/wirtschaft/unternehmen/ukraine-setzt-unilever-auf-ihre-liste-der-internationalen-kriegssponsoren-a-95155fa2-00e2-42cb-809e-0aead04a7f59#ref=rss)
-### unternehmen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ukraine-setzt-unilever-auf-ihre-liste-der-internationalen-kriegssponsoren](https://www.spiegel.de/wirtschaft/unternehmen/ukraine-setzt-unilever-auf-ihre-liste-der-internationalen-kriegssponsoren-a-95155fa2-00e2-42cb-809e-0aead04a7f59#ref=rss)
-### söder
-
-* [https://www.spiegel.de/politik/deutschland/maischberger-ankuendigung-markus-soeder-will-heizungsgesetz-wieder-abschaffen](https://www.spiegel.de/politik/deutschland/maischberger-ankuendigung-markus-soeder-will-heizungsgesetz-wieder-abschaffen-a-c0d42d2a-8014-423d-a5f9-641526a4388d#ref=rss)
-### desaster
-
-* [https://www.spiegel.de/politik/deutschland/maischberger-ankuendigung-markus-soeder-will-heizungsgesetz-wieder-abschaffen](https://www.spiegel.de/politik/deutschland/maischberger-ankuendigung-markus-soeder-will-heizungsgesetz-wieder-abschaffen-a-c0d42d2a-8014-423d-a5f9-641526a4388d#ref=rss)
-### gewitter
-
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-orkanboeen-und-gewitter-erwartet-warnung-vor-gefahren](https://www.spiegel.de/panorama/wetter-in-deutschland-orkanboeen-und-gewitter-erwartet-warnung-vor-gefahren-a-4eec2809-6002-45b2-ac7a-5a11b0ac64e6#ref=rss)
+* [https://www.spiegel.de/auto/elektroautos-im-juni-so-viele-neuzulassungen-wie-seit-dezember-nicht-mehr](https://www.spiegel.de/auto/elektroautos-im-juni-so-viele-neuzulassungen-wie-seit-dezember-nicht-mehr-a-572d4bc2-2de3-4093-b855-81991e9dabfe#ref=rss)
 
