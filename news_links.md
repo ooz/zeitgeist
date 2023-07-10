@@ -4,299 +4,291 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### usa
+### regierung
 
-* [https://www.spiegel.de/ausland/joe-biden-usa-koennten-ukraine-nach-kriegsende-schutz-bieten-wie-israel](https://www.spiegel.de/ausland/joe-biden-usa-koennten-ukraine-nach-kriegsende-schutz-bieten-wie-israel-a-ef84387c-0102-4538-b24b-b0a47e0f72ae#ref=rss)
-* [https://www.spiegel.de/politik/frank-walter-steinmeier-spricht-sich-fuer-unterstuetzung-der-usa-in-streumunitions-frage-aus](https://www.spiegel.de/politik/frank-walter-steinmeier-spricht-sich-fuer-unterstuetzung-der-usa-in-streumunitions-frage-aus-a-bced8150-3739-4a3a-86f3-7c615a4d4201#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-usa-haben-ranghohen-is-terroristen-getoetet](https://www.spiegel.de/ausland/syrien-usa-haben-ranghohen-is-terroristen-getoetet-a-64787bcf-3562-42dc-bdb3-778cd8abcb69#ref=rss)
-### lando
+* [https://www.spiegel.de/wirtschaft/unternehmen/china-sorge-vor-deflation-erzeugerpreise-sinken-verbraucherpreise-stagnieren](https://www.spiegel.de/wirtschaft/unternehmen/china-sorge-vor-deflation-erzeugerpreise-sinken-verbraucherpreise-stagnieren-a-fb77a98a-46d3-4a81-8075-0971d21be87e#ref=rss)
+* [https://www.spiegel.de/ausland/israel-umstrittene-justizreform-benjamin-netanyahu-spaltet-das-land](https://www.spiegel.de/ausland/israel-umstrittene-justizreform-benjamin-netanyahu-spaltet-das-land-a-8cbd4eb1-1e5e-47c8-92f0-97a8a16def18#ref=rss)
+* [https://www.spiegel.de/ausland/niederlande-mark-rutte-kuendigt-rueckzug-aus-politik-an](https://www.spiegel.de/ausland/niederlande-mark-rutte-kuendigt-rueckzug-aus-politik-an-a-7e49a92a-3b76-499e-bcdb-b88a9f5a05c9#ref=rss)
+### erklärt
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-lando-norris-verzueckt-die-briten-bei-sieg-von-max-verstappen](https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-lando-norris-verzueckt-die-briten-bei-sieg-von-max-verstappen-a-d1d0f8d4-0f75-426c-b488-9ae79606cd9c#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-max-verstappen-gewinnt-das-rennen-vor-lando-norris](https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-max-verstappen-gewinnt-das-rennen-vor-lando-norris-a-e7931f0f-a013-4a26-8a82-dd75c6f89321#ref=rss)
-### norris
+* [https://www.spiegel.de/ausland/russland-ukraine-news-heute-bisher-47-000-tote-russische-soldaten-laut-unabhaengigen-medien](https://www.spiegel.de/ausland/russland-ukraine-news-heute-bisher-47-000-tote-russische-soldaten-laut-unabhaengigen-medien-a-bcf5bc8a-a996-4d74-baaa-1e05bf906d65#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/witwenrente-oekonomin-monika-schnitzer-erklaert-ihren-vorstoss-zur-abschaffung](https://www.spiegel.de/wirtschaft/service/witwenrente-oekonomin-monika-schnitzer-erklaert-ihren-vorstoss-zur-abschaffung-a-483b9e08-2120-4439-84a8-6c1e344dacaa#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-lando-norris-verzueckt-die-briten-bei-sieg-von-max-verstappen](https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-lando-norris-verzueckt-die-briten-bei-sieg-von-max-verstappen-a-d1d0f8d4-0f75-426c-b488-9ae79606cd9c#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-max-verstappen-gewinnt-das-rennen-vor-lando-norris](https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-max-verstappen-gewinnt-das-rennen-vor-lando-norris-a-e7931f0f-a013-4a26-8a82-dd75c6f89321#ref=rss)
-### max
+* [https://www.spiegel.de/panorama/justiz/hannover-musiker-bestreitet-mordversuche-mit-rattengift](https://www.spiegel.de/panorama/justiz/hannover-musiker-bestreitet-mordversuche-mit-rattengift-a-b758dcf1-8610-401d-ae3f-ffc75d6211fc#ref=rss)
+* [https://www.spiegel.de/start/aya-jaff-ueber-selbstoptimierung-wie-die-technologie-expertin-ihre-woche-organisiert](https://www.spiegel.de/start/aya-jaff-ueber-selbstoptimierung-wie-die-technologie-expertin-ihre-woche-organisiert-a-4bcab195-1118-4892-9c7d-23766447415a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/giessen-125-strafanzeigen-nach-eritrea-festival](https://www.spiegel.de/panorama/justiz/giessen-125-strafanzeigen-nach-eritrea-festival-a-0b022387-1a7b-4c0d-bd96-dd98ab5557a1#ref=rss)
+### mark
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-lando-norris-verzueckt-die-briten-bei-sieg-von-max-verstappen](https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-lando-norris-verzueckt-die-briten-bei-sieg-von-max-verstappen-a-d1d0f8d4-0f75-426c-b488-9ae79606cd9c#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-max-verstappen-gewinnt-das-rennen-vor-lando-norris](https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-max-verstappen-gewinnt-das-rennen-vor-lando-norris-a-e7931f0f-a013-4a26-8a82-dd75c6f89321#ref=rss)
-### verstappen
+* [https://www.spiegel.de/netzwelt/apps/threads-twitter-konkurrent-von-meta-knackt-marke-von-100-millionen-nutzern](https://www.spiegel.de/netzwelt/apps/threads-twitter-konkurrent-von-meta-knackt-marke-von-100-millionen-nutzern-a-2e4d2b0b-c52d-455c-915b-eb7e25a459cd#ref=rss)
+* [https://www.spiegel.de/ausland/niederlande-mark-rutte-kuendigt-rueckzug-aus-politik-an](https://www.spiegel.de/ausland/niederlande-mark-rutte-kuendigt-rueckzug-aus-politik-an-a-7e49a92a-3b76-499e-bcdb-b88a9f5a05c9#ref=rss)
+### größten
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-lando-norris-verzueckt-die-briten-bei-sieg-von-max-verstappen](https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-lando-norris-verzueckt-die-briten-bei-sieg-von-max-verstappen-a-d1d0f8d4-0f75-426c-b488-9ae79606cd9c#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-max-verstappen-gewinnt-das-rennen-vor-lando-norris](https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-max-verstappen-gewinnt-das-rennen-vor-lando-norris-a-e7931f0f-a013-4a26-8a82-dd75c6f89321#ref=rss)
-### ermittelt
+* [https://www.spiegel.de/wissenschaft/weltall-wolken-aus-metall-machen-planeten-zum-groessten-spiegel-des-universums](https://www.spiegel.de/wissenschaft/weltall-wolken-aus-metall-machen-planeten-zum-groessten-spiegel-des-universums-a-11792e4c-6785-4b00-971c-19a0b9dd704d#ref=rss)
+* [https://www.spiegel.de/panorama/niederlande-miss-nederland-ist-erstmals-eine-transfrau-22-jaehrige-rikkie-kolle-aus-amsterdam](https://www.spiegel.de/panorama/niederlande-miss-nederland-ist-erstmals-eine-transfrau-22-jaehrige-rikkie-kolle-aus-amsterdam-a-acdf933c-8995-45dd-b73e-3703fb5bfb13#ref=rss)
+* [https://www.spiegel.de/sport/fussball/luis-suarez-miramontes-ist-gestorben-er-machte-barcelona-gross](https://www.spiegel.de/sport/fussball/luis-suarez-miramontes-ist-gestorben-er-machte-barcelona-gross-a-e57a85af-3b80-4fed-876f-3a34f0e3ec79#ref=rss)
+### china
 
-* [https://www.spiegel.de/panorama/gesellschaft/19-verletze-nach-brand-in-psychiatrischer-klinik-in-in-luedenscheid](https://www.spiegel.de/panorama/gesellschaft/19-verletze-nach-brand-in-psychiatrischer-klinik-in-in-luedenscheid-a-9be59a2f-7f16-4832-8710-f9323e25f6da#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/staatsschutz-ermittelt-nach-uebergriff](https://www.spiegel.de/panorama/justiz/staatsschutz-ermittelt-nach-uebergriff-a-8dd4147a-e3b5-4b7b-813a-fa28484f4f51#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/oberammergau-pilot-stirbt-bei-absturz-von-segelflugzeug-in-bayerischen-alpen](https://www.spiegel.de/panorama/gesellschaft/oberammergau-pilot-stirbt-bei-absturz-von-segelflugzeug-in-bayerischen-alpen-a-0bf8904b-3fa0-4bb0-959e-3eb83d92fa7f#ref=rss)
-### erst
+* [https://www.spiegel.de/wirtschaft/unternehmen/china-sorge-vor-deflation-erzeugerpreise-sinken-verbraucherpreise-stagnieren](https://www.spiegel.de/wirtschaft/unternehmen/china-sorge-vor-deflation-erzeugerpreise-sinken-verbraucherpreise-stagnieren-a-fb77a98a-46d3-4a81-8075-0971d21be87e#ref=rss)
+### deflation
 
-* [https://www.spiegel.de/ausland/syrien-usa-haben-ranghohen-is-terroristen-getoetet](https://www.spiegel.de/ausland/syrien-usa-haben-ranghohen-is-terroristen-getoetet-a-64787bcf-3562-42dc-bdb3-778cd8abcb69#ref=rss)
-* [https://www.spiegel.de/start/studium-nc-nicht-erreicht-warum-ich-froh-bin-dass-aus-meinem-traum-nichts-wurde](https://www.spiegel.de/start/studium-nc-nicht-erreicht-warum-ich-froh-bin-dass-aus-meinem-traum-nichts-wurde-a-fbbd13a6-c206-4409-b9af-a50069c72c9a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/elterngeld-kuerzung-wuerde-laut-familienministerium-erst-fuer-geburten-ab-2024-gelten](https://www.spiegel.de/wirtschaft/soziales/elterngeld-kuerzung-wuerde-laut-familienministerium-erst-fuer-geburten-ab-2024-gelten-a-b2868f74-5ff3-4070-9ab4-81adf65598bc#ref=rss)
-### ich
+* [https://www.spiegel.de/wirtschaft/unternehmen/china-sorge-vor-deflation-erzeugerpreise-sinken-verbraucherpreise-stagnieren](https://www.spiegel.de/wirtschaft/unternehmen/china-sorge-vor-deflation-erzeugerpreise-sinken-verbraucherpreise-stagnieren-a-fb77a98a-46d3-4a81-8075-0971d21be87e#ref=rss)
+### verbraucherpreise
 
-* [https://www.spiegel.de/start/studium-nc-nicht-erreicht-warum-ich-froh-bin-dass-aus-meinem-traum-nichts-wurde](https://www.spiegel.de/start/studium-nc-nicht-erreicht-warum-ich-froh-bin-dass-aus-meinem-traum-nichts-wurde-a-fbbd13a6-c206-4409-b9af-a50069c72c9a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/darf-ich-mich-als-westdeutsche-auch-ostdeutsch-fuehlen-kolumne](https://www.spiegel.de/politik/deutschland/darf-ich-mich-als-westdeutsche-auch-ostdeutsch-fuehlen-kolumne-a-549c7205-33cb-4115-823c-d4f69aa9a0ee#ref=rss)
-### zwei
+* [https://www.spiegel.de/wirtschaft/unternehmen/china-sorge-vor-deflation-erzeugerpreise-sinken-verbraucherpreise-stagnieren](https://www.spiegel.de/wirtschaft/unternehmen/china-sorge-vor-deflation-erzeugerpreise-sinken-verbraucherpreise-stagnieren-a-fb77a98a-46d3-4a81-8075-0971d21be87e#ref=rss)
+### stagnieren
 
-* [https://www.spiegel.de/panorama/muenchen-besucher-werfen-steine-und-flaschen-beim-rolling-loud-festival-in-muenchen](https://www.spiegel.de/panorama/muenchen-besucher-werfen-steine-und-flaschen-beim-rolling-loud-festival-in-muenchen-a-65ad04ca-ca0e-4709-8481-2ba5273378c6#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/staatsschutz-ermittelt-nach-uebergriff](https://www.spiegel.de/panorama/justiz/staatsschutz-ermittelt-nach-uebergriff-a-8dd4147a-e3b5-4b7b-813a-fa28484f4f51#ref=rss)
-* [https://www.spiegel.de/panorama/papst-franziskus-kuendigt-21-neue-kardinaele-an](https://www.spiegel.de/panorama/papst-franziskus-kuendigt-21-neue-kardinaele-an-a-9e7d69d7-ef1e-4887-9b9b-f6ad25bf9c01#ref=rss)
-### mehr
+* [https://www.spiegel.de/wirtschaft/unternehmen/china-sorge-vor-deflation-erzeugerpreise-sinken-verbraucherpreise-stagnieren](https://www.spiegel.de/wirtschaft/unternehmen/china-sorge-vor-deflation-erzeugerpreise-sinken-verbraucherpreise-stagnieren-a-fb77a98a-46d3-4a81-8075-0971d21be87e#ref=rss)
+### akropolis
 
-* [https://www.spiegel.de/panorama/muenchen-besucher-werfen-steine-und-flaschen-beim-rolling-loud-festival-in-muenchen](https://www.spiegel.de/panorama/muenchen-besucher-werfen-steine-und-flaschen-beim-rolling-loud-festival-in-muenchen-a-65ad04ca-ca0e-4709-8481-2ba5273378c6#ref=rss)
-* [https://www.spiegel.de/ausland/paris-baden-in-der-seine-soll-ab-2025-moeglich-sein](https://www.spiegel.de/ausland/paris-baden-in-der-seine-soll-ab-2025-moeglich-sein-a-dd6d29bb-7941-476c-ac6b-f3271d8145a3#ref=rss)
-* [https://www.spiegel.de/auto/reisen-im-rollstuhl-saengerin-panah-kritisiert-deutsche-bahn](https://www.spiegel.de/auto/reisen-im-rollstuhl-saengerin-panah-kritisiert-deutsche-bahn-a-97f30d16-b97a-48fb-8e92-42145a0efdd5#ref=rss)
-### israel
+* [https://www.spiegel.de/reise/staedte/griechenland-akropolis-leidet-unter-massivem-touristenansturm-neues-ticketsystem](https://www.spiegel.de/reise/staedte/griechenland-akropolis-leidet-unter-massivem-touristenansturm-neues-ticketsystem-a-bc3f4cbe-684d-4da6-bd2b-1c617d481a4c#ref=rss)
+### unter
 
-* [https://www.spiegel.de/ausland/israel-umstrittene-justizreform-praesident-itzhak-herzog-attackiert-knessetabgeordnete](https://www.spiegel.de/ausland/israel-umstrittene-justizreform-praesident-itzhak-herzog-attackiert-knessetabgeordnete-a-11bab3da-6615-40ee-a183-99db0e309145#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-usa-koennten-ukraine-nach-kriegsende-schutz-bieten-wie-israel](https://www.spiegel.de/ausland/joe-biden-usa-koennten-ukraine-nach-kriegsende-schutz-bieten-wie-israel-a-ef84387c-0102-4538-b24b-b0a47e0f72ae#ref=rss)
-### präsident
+* [https://www.spiegel.de/reise/staedte/griechenland-akropolis-leidet-unter-massivem-touristenansturm-neues-ticketsystem](https://www.spiegel.de/reise/staedte/griechenland-akropolis-leidet-unter-massivem-touristenansturm-neues-ticketsystem-a-bc3f4cbe-684d-4da6-bd2b-1c617d481a4c#ref=rss)
+* [https://www.spiegel.de/start/aya-jaff-ueber-selbstoptimierung-wie-die-technologie-expertin-ihre-woche-organisiert](https://www.spiegel.de/start/aya-jaff-ueber-selbstoptimierung-wie-die-technologie-expertin-ihre-woche-organisiert-a-4bcab195-1118-4892-9c7d-23766447415a#ref=rss)
+### viele
 
-* [https://www.spiegel.de/ausland/israel-umstrittene-justizreform-praesident-itzhak-herzog-attackiert-knessetabgeordnete](https://www.spiegel.de/ausland/israel-umstrittene-justizreform-praesident-itzhak-herzog-attackiert-knessetabgeordnete-a-11bab3da-6615-40ee-a183-99db0e309145#ref=rss)
-* [https://www.spiegel.de/ausland/selenskyj-und-duda-erinnern-an-wolhynien-massaker-im-zweiten-weltkrieg](https://www.spiegel.de/ausland/selenskyj-und-duda-erinnern-an-wolhynien-massaker-im-zweiten-weltkrieg-a-cf73c08f-2248-4c4d-8f87-cb7bcbf9420f#ref=rss)
-### de
+* [https://www.spiegel.de/reise/staedte/griechenland-akropolis-leidet-unter-massivem-touristenansturm-neues-ticketsystem](https://www.spiegel.de/reise/staedte/griechenland-akropolis-leidet-unter-massivem-touristenansturm-neues-ticketsystem-a-bc3f4cbe-684d-4da6-bd2b-1c617d481a4c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/elterngeld-debatte-deutschland-muss-ehrlicher-ueber-reichtum-diskutieren](https://www.spiegel.de/wirtschaft/unternehmen/elterngeld-debatte-deutschland-muss-ehrlicher-ueber-reichtum-diskutieren-a-315db02c-e6cc-43c4-9c80-12d8831f229b#ref=rss)
+### putin
 
-* [https://www.spiegel.de/sport/tour-de-france-michael-woods-gewinnt-9-etappe-tadej-pogacar-macht-boden-auf-jonas-vingegaard-gut](https://www.spiegel.de/sport/tour-de-france-michael-woods-gewinnt-9-etappe-tadej-pogacar-macht-boden-auf-jonas-vingegaard-gut-a-a2fec598-b907-4691-806b-3c28d653347d#ref=rss)
-* [https://www.spiegel.de/ausland/bill-de-blasio-und-chirlane-mccray-new-yorks-progressives-traumpaar-trennt-sich](https://www.spiegel.de/ausland/bill-de-blasio-und-chirlane-mccray-new-yorks-progressives-traumpaar-trennt-sich-a-2a68fff0-86eb-4436-89dd-57d18e8a3c56#ref=rss)
-### 1
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-lando-norris-verzueckt-die-briten-bei-sieg-von-max-verstappen](https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-lando-norris-verzueckt-die-briten-bei-sieg-von-max-verstappen-a-d1d0f8d4-0f75-426c-b488-9ae79606cd9c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/im-verhoer-die-tinder-schwindler-1-auf-der-spur-der-love-scammer-spiegel-tv](https://www.spiegel.de/panorama/justiz/im-verhoer-die-tinder-schwindler-1-auf-der-spur-der-love-scammer-spiegel-tv-a-986b9ded-a150-433b-90da-67885ee9a412#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-max-verstappen-gewinnt-das-rennen-vor-lando-norris](https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-max-verstappen-gewinnt-das-rennen-vor-lando-norris-a-e7931f0f-a013-4a26-8a82-dd75c6f89321#ref=rss)
-### silverstone
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-lando-norris-verzueckt-die-briten-bei-sieg-von-max-verstappen](https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-lando-norris-verzueckt-die-briten-bei-sieg-von-max-verstappen-a-d1d0f8d4-0f75-426c-b488-9ae79606cd9c#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-max-verstappen-gewinnt-das-rennen-vor-lando-norris](https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-max-verstappen-gewinnt-das-rennen-vor-lando-norris-a-e7931f0f-a013-4a26-8a82-dd75c6f89321#ref=rss)
-### getötet
-
-* [https://www.spiegel.de/ausland/journalist-der-tageszeitung-la-jornada-getoetet](https://www.spiegel.de/ausland/journalist-der-tageszeitung-la-jornada-getoetet-a-12617b2d-e447-4ab1-aee6-781e61522b0c#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-usa-haben-ranghohen-is-terroristen-getoetet](https://www.spiegel.de/ausland/syrien-usa-haben-ranghohen-is-terroristen-getoetet-a-64787bcf-3562-42dc-bdb3-778cd8abcb69#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/joe-biden-usa-koennten-ukraine-nach-kriegsende-schutz-bieten-wie-israel](https://www.spiegel.de/ausland/joe-biden-usa-koennten-ukraine-nach-kriegsende-schutz-bieten-wie-israel-a-ef84387c-0102-4538-b24b-b0a47e0f72ae#ref=rss)
-* [https://www.spiegel.de/politik/frank-walter-steinmeier-spricht-sich-fuer-unterstuetzung-der-usa-in-streumunitions-frage-aus](https://www.spiegel.de/politik/frank-walter-steinmeier-spricht-sich-fuer-unterstuetzung-der-usa-in-streumunitions-frage-aus-a-bced8150-3739-4a3a-86f3-7c615a4d4201#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/deutsche-post-aerger-der-kunden-nimmt-kein-ende](https://www.spiegel.de/wirtschaft/deutsche-post-aerger-der-kunden-nimmt-kein-ende-a-182e13c9-9267-4d23-961e-62295cafa156#ref=rss)
-* [https://www.spiegel.de/auto/reisen-im-rollstuhl-saengerin-panah-kritisiert-deutsche-bahn](https://www.spiegel.de/auto/reisen-im-rollstuhl-saengerin-panah-kritisiert-deutsche-bahn-a-97f30d16-b97a-48fb-8e92-42145a0efdd5#ref=rss)
-### christoph
-
-* [https://www.spiegel.de/sport/christoph-harting-diskus-olympiasieger-dritter-bei-deutscher-meisterschaft](https://www.spiegel.de/sport/christoph-harting-diskus-olympiasieger-dritter-bei-deutscher-meisterschaft-a-d761edeb-0850-4e7e-8d00-e56a2ff9d0a0#ref=rss)
-### harting
-
-* [https://www.spiegel.de/sport/christoph-harting-diskus-olympiasieger-dritter-bei-deutscher-meisterschaft](https://www.spiegel.de/sport/christoph-harting-diskus-olympiasieger-dritter-bei-deutscher-meisterschaft-a-d761edeb-0850-4e7e-8d00-e56a2ff9d0a0#ref=rss)
-### deutscher
-
-* [https://www.spiegel.de/sport/christoph-harting-diskus-olympiasieger-dritter-bei-deutscher-meisterschaft](https://www.spiegel.de/sport/christoph-harting-diskus-olympiasieger-dritter-bei-deutscher-meisterschaft-a-d761edeb-0850-4e7e-8d00-e56a2ff9d0a0#ref=rss)
-* [https://www.spiegel.de/ausland/luederitz-namibia-hier-soll-gruener-wasserstoff-in-gigantischem-ausmass-produziert-werden](https://www.spiegel.de/ausland/luederitz-namibia-hier-soll-gruener-wasserstoff-in-gigantischem-ausmass-produziert-werden-a-a160205b-2215-4c98-8300-969eba4d3a5e#ref=rss)
-### meisterschaft
-
-* [https://www.spiegel.de/sport/christoph-harting-diskus-olympiasieger-dritter-bei-deutscher-meisterschaft](https://www.spiegel.de/sport/christoph-harting-diskus-olympiasieger-dritter-bei-deutscher-meisterschaft-a-d761edeb-0850-4e7e-8d00-e56a2ff9d0a0#ref=rss)
-### geworfen
-
-* [https://www.spiegel.de/sport/christoph-harting-diskus-olympiasieger-dritter-bei-deutscher-meisterschaft](https://www.spiegel.de/sport/christoph-harting-diskus-olympiasieger-dritter-bei-deutscher-meisterschaft-a-d761edeb-0850-4e7e-8d00-e56a2ff9d0a0#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/staatsschutz-ermittelt-nach-uebergriff](https://www.spiegel.de/panorama/justiz/staatsschutz-ermittelt-nach-uebergriff-a-8dd4147a-e3b5-4b7b-813a-fa28484f4f51#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/panorama/muenchen-besucher-werfen-steine-und-flaschen-beim-rolling-loud-festival-in-muenchen](https://www.spiegel.de/panorama/muenchen-besucher-werfen-steine-und-flaschen-beim-rolling-loud-festival-in-muenchen-a-65ad04ca-ca0e-4709-8481-2ba5273378c6#ref=rss)
-### besucher
-
-* [https://www.spiegel.de/panorama/muenchen-besucher-werfen-steine-und-flaschen-beim-rolling-loud-festival-in-muenchen](https://www.spiegel.de/panorama/muenchen-besucher-werfen-steine-und-flaschen-beim-rolling-loud-festival-in-muenchen-a-65ad04ca-ca0e-4709-8481-2ba5273378c6#ref=rss)
-### rolling
-
-* [https://www.spiegel.de/panorama/muenchen-besucher-werfen-steine-und-flaschen-beim-rolling-loud-festival-in-muenchen](https://www.spiegel.de/panorama/muenchen-besucher-werfen-steine-und-flaschen-beim-rolling-loud-festival-in-muenchen-a-65ad04ca-ca0e-4709-8481-2ba5273378c6#ref=rss)
-### loud
-
-* [https://www.spiegel.de/panorama/muenchen-besucher-werfen-steine-und-flaschen-beim-rolling-loud-festival-in-muenchen](https://www.spiegel.de/panorama/muenchen-besucher-werfen-steine-und-flaschen-beim-rolling-loud-festival-in-muenchen-a-65ad04ca-ca0e-4709-8481-2ba5273378c6#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/panorama/muenchen-besucher-werfen-steine-und-flaschen-beim-rolling-loud-festival-in-muenchen](https://www.spiegel.de/panorama/muenchen-besucher-werfen-steine-und-flaschen-beim-rolling-loud-festival-in-muenchen-a-65ad04ca-ca0e-4709-8481-2ba5273378c6#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/19-verletze-nach-brand-in-psychiatrischer-klinik-in-in-luedenscheid](https://www.spiegel.de/panorama/gesellschaft/19-verletze-nach-brand-in-psychiatrischer-klinik-in-in-luedenscheid-a-9be59a2f-7f16-4832-8710-f9323e25f6da#ref=rss)
-### folge
-
-* [https://www.spiegel.de/panorama/muenchen-besucher-werfen-steine-und-flaschen-beim-rolling-loud-festival-in-muenchen](https://www.spiegel.de/panorama/muenchen-besucher-werfen-steine-und-flaschen-beim-rolling-loud-festival-in-muenchen-a-65ad04ca-ca0e-4709-8481-2ba5273378c6#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-max-verstappen-gewinnt-das-rennen-vor-lando-norris](https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-max-verstappen-gewinnt-das-rennen-vor-lando-norris-a-e7931f0f-a013-4a26-8a82-dd75c6f89321#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/muenchen-besucher-werfen-steine-und-flaschen-beim-rolling-loud-festival-in-muenchen](https://www.spiegel.de/panorama/muenchen-besucher-werfen-steine-und-flaschen-beim-rolling-loud-festival-in-muenchen-a-65ad04ca-ca0e-4709-8481-2ba5273378c6#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/oberammergau-pilot-stirbt-bei-absturz-von-segelflugzeug-in-bayerischen-alpen](https://www.spiegel.de/panorama/gesellschaft/oberammergau-pilot-stirbt-bei-absturz-von-segelflugzeug-in-bayerischen-alpen-a-0bf8904b-3fa0-4bb0-959e-3eb83d92fa7f#ref=rss)
-### umstrittene
-
-* [https://www.spiegel.de/ausland/israel-umstrittene-justizreform-praesident-itzhak-herzog-attackiert-knessetabgeordnete](https://www.spiegel.de/ausland/israel-umstrittene-justizreform-praesident-itzhak-herzog-attackiert-knessetabgeordnete-a-11bab3da-6615-40ee-a183-99db0e309145#ref=rss)
-### justizreform
-
-* [https://www.spiegel.de/ausland/israel-umstrittene-justizreform-praesident-itzhak-herzog-attackiert-knessetabgeordnete](https://www.spiegel.de/ausland/israel-umstrittene-justizreform-praesident-itzhak-herzog-attackiert-knessetabgeordnete-a-11bab3da-6615-40ee-a183-99db0e309145#ref=rss)
-### attackiert
-
-* [https://www.spiegel.de/ausland/israel-umstrittene-justizreform-praesident-itzhak-herzog-attackiert-knessetabgeordnete](https://www.spiegel.de/ausland/israel-umstrittene-justizreform-praesident-itzhak-herzog-attackiert-knessetabgeordnete-a-11bab3da-6615-40ee-a183-99db0e309145#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/staatsschutz-ermittelt-nach-uebergriff](https://www.spiegel.de/panorama/justiz/staatsschutz-ermittelt-nach-uebergriff-a-8dd4147a-e3b5-4b7b-813a-fa28484f4f51#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/ausland/israel-umstrittene-justizreform-praesident-itzhak-herzog-attackiert-knessetabgeordnete](https://www.spiegel.de/ausland/israel-umstrittene-justizreform-praesident-itzhak-herzog-attackiert-knessetabgeordnete-a-11bab3da-6615-40ee-a183-99db0e309145#ref=rss)
-* [https://www.spiegel.de/auto/reisen-im-rollstuhl-saengerin-panah-kritisiert-deutsche-bahn](https://www.spiegel.de/auto/reisen-im-rollstuhl-saengerin-panah-kritisiert-deutsche-bahn-a-97f30d16-b97a-48fb-8e92-42145a0efdd5#ref=rss)
-### 2025
-
-* [https://www.spiegel.de/ausland/paris-baden-in-der-seine-soll-ab-2025-moeglich-sein](https://www.spiegel.de/ausland/paris-baden-in-der-seine-soll-ab-2025-moeglich-sein-a-dd6d29bb-7941-476c-ac6b-f3271d8145a3#ref=rss)
-### natogipfel
-
-* [https://www.spiegel.de/politik/nato-gipfel-in-vilnius-russland-ist-weiterhin-eine-grosse-bedrohung-fuer-den-westen](https://www.spiegel.de/politik/nato-gipfel-in-vilnius-russland-ist-weiterhin-eine-grosse-bedrohung-fuer-den-westen-a-6cbdfaf1-9c2b-4743-a1bc-328b703ed4a0#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-usa-koennten-ukraine-nach-kriegsende-schutz-bieten-wie-israel](https://www.spiegel.de/ausland/joe-biden-usa-koennten-ukraine-nach-kriegsende-schutz-bieten-wie-israel-a-ef84387c-0102-4538-b24b-b0a47e0f72ae#ref=rss)
-### russland
-
-* [https://www.spiegel.de/politik/nato-gipfel-in-vilnius-russland-ist-weiterhin-eine-grosse-bedrohung-fuer-den-westen](https://www.spiegel.de/politik/nato-gipfel-in-vilnius-russland-ist-weiterhin-eine-grosse-bedrohung-fuer-den-westen-a-6cbdfaf1-9c2b-4743-a1bc-328b703ed4a0#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-usa-koennten-ukraine-nach-kriegsende-schutz-bieten-wie-israel](https://www.spiegel.de/ausland/joe-biden-usa-koennten-ukraine-nach-kriegsende-schutz-bieten-wie-israel-a-ef84387c-0102-4538-b24b-b0a47e0f72ae#ref=rss)
-### große
-
-* [https://www.spiegel.de/politik/nato-gipfel-in-vilnius-russland-ist-weiterhin-eine-grosse-bedrohung-fuer-den-westen](https://www.spiegel.de/politik/nato-gipfel-in-vilnius-russland-ist-weiterhin-eine-grosse-bedrohung-fuer-den-westen-a-6cbdfaf1-9c2b-4743-a1bc-328b703ed4a0#ref=rss)
-* [https://www.spiegel.de/ausland/luederitz-namibia-hier-soll-gruener-wasserstoff-in-gigantischem-ausmass-produziert-werden](https://www.spiegel.de/ausland/luederitz-namibia-hier-soll-gruener-wasserstoff-in-gigantischem-ausmass-produziert-werden-a-a160205b-2215-4c98-8300-969eba4d3a5e#ref=rss)
-### gewinnt
-
-* [https://www.spiegel.de/sport/tour-de-france-michael-woods-gewinnt-9-etappe-tadej-pogacar-macht-boden-auf-jonas-vingegaard-gut](https://www.spiegel.de/sport/tour-de-france-michael-woods-gewinnt-9-etappe-tadej-pogacar-macht-boden-auf-jonas-vingegaard-gut-a-a2fec598-b907-4691-806b-3c28d653347d#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-max-verstappen-gewinnt-das-rennen-vor-lando-norris](https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-max-verstappen-gewinnt-das-rennen-vor-lando-norris-a-e7931f0f-a013-4a26-8a82-dd75c6f89321#ref=rss)
-### jonas
-
-* [https://www.spiegel.de/sport/tour-de-france-michael-woods-gewinnt-9-etappe-tadej-pogacar-macht-boden-auf-jonas-vingegaard-gut](https://www.spiegel.de/sport/tour-de-france-michael-woods-gewinnt-9-etappe-tadej-pogacar-macht-boden-auf-jonas-vingegaard-gut-a-a2fec598-b907-4691-806b-3c28d653347d#ref=rss)
-### vingegaard
-
-* [https://www.spiegel.de/sport/tour-de-france-michael-woods-gewinnt-9-etappe-tadej-pogacar-macht-boden-auf-jonas-vingegaard-gut](https://www.spiegel.de/sport/tour-de-france-michael-woods-gewinnt-9-etappe-tadej-pogacar-macht-boden-auf-jonas-vingegaard-gut-a-a2fec598-b907-4691-806b-3c28d653347d#ref=rss)
-### formel
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-lando-norris-verzueckt-die-briten-bei-sieg-von-max-verstappen](https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-lando-norris-verzueckt-die-briten-bei-sieg-von-max-verstappen-a-d1d0f8d4-0f75-426c-b488-9ae79606cd9c#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-max-verstappen-gewinnt-das-rennen-vor-lando-norris](https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-max-verstappen-gewinnt-das-rennen-vor-lando-norris-a-e7931f0f-a013-4a26-8a82-dd75c6f89321#ref=rss)
-### rennen
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-lando-norris-verzueckt-die-briten-bei-sieg-von-max-verstappen](https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-lando-norris-verzueckt-die-briten-bei-sieg-von-max-verstappen-a-d1d0f8d4-0f75-426c-b488-9ae79606cd9c#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-max-verstappen-gewinnt-das-rennen-vor-lando-norris](https://www.spiegel.de/sport/formel1/formel-1-in-silverstone-max-verstappen-gewinnt-das-rennen-vor-lando-norris-a-e7931f0f-a013-4a26-8a82-dd75c6f89321#ref=rss)
-### gelten
-
-* [https://www.spiegel.de/panorama/gesellschaft/19-verletze-nach-brand-in-psychiatrischer-klinik-in-in-luedenscheid](https://www.spiegel.de/panorama/gesellschaft/19-verletze-nach-brand-in-psychiatrischer-klinik-in-in-luedenscheid-a-9be59a2f-7f16-4832-8710-f9323e25f6da#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/elterngeld-kuerzung-wuerde-laut-familienministerium-erst-fuer-geburten-ab-2024-gelten](https://www.spiegel.de/wirtschaft/soziales/elterngeld-kuerzung-wuerde-laut-familienministerium-erst-fuer-geburten-ab-2024-gelten-a-b2868f74-5ff3-4070-9ab4-81adf65598bc#ref=rss)
-### lovescammer
-
-* [https://www.spiegel.de/panorama/justiz/im-verhoer-die-tinder-schwindler-1-auf-der-spur-der-love-scammer-spiegel-tv](https://www.spiegel.de/panorama/justiz/im-verhoer-die-tinder-schwindler-1-auf-der-spur-der-love-scammer-spiegel-tv-a-986b9ded-a150-433b-90da-67885ee9a412#ref=rss)
-### junge
-
-* [https://www.spiegel.de/panorama/justiz/im-verhoer-die-tinder-schwindler-1-auf-der-spur-der-love-scammer-spiegel-tv](https://www.spiegel.de/panorama/justiz/im-verhoer-die-tinder-schwindler-1-auf-der-spur-der-love-scammer-spiegel-tv-a-986b9ded-a150-433b-90da-67885ee9a412#ref=rss)
-* [https://www.spiegel.de/kultur/tatort-heute-aus-dresden-parasomnia-im-schnellcheck](https://www.spiegel.de/kultur/tatort-heute-aus-dresden-parasomnia-im-schnellcheck-a-bfe1b8ce-6ca4-4d13-9f8e-c7de13740b50#ref=rss)
-### männer
-
-* [https://www.spiegel.de/panorama/justiz/im-verhoer-die-tinder-schwindler-1-auf-der-spur-der-love-scammer-spiegel-tv](https://www.spiegel.de/panorama/justiz/im-verhoer-die-tinder-schwindler-1-auf-der-spur-der-love-scammer-spiegel-tv-a-986b9ded-a150-433b-90da-67885ee9a412#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/eisenmangel-wann-sie-sich-testen-lassen-sollten-und-welche-lebensmittel-eisen-enthalten](https://www.spiegel.de/gesundheit/diagnose/eisenmangel-wann-sie-sich-testen-lassen-sollten-und-welche-lebensmittel-eisen-enthalten-a-9a9abd58-e623-4fec-8d6d-0f6006f97af8#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/panorama/justiz/im-verhoer-die-tinder-schwindler-1-auf-der-spur-der-love-scammer-spiegel-tv](https://www.spiegel.de/panorama/justiz/im-verhoer-die-tinder-schwindler-1-auf-der-spur-der-love-scammer-spiegel-tv-a-986b9ded-a150-433b-90da-67885ee9a412#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/eisenmangel-wann-sie-sich-testen-lassen-sollten-und-welche-lebensmittel-eisen-enthalten](https://www.spiegel.de/gesundheit/diagnose/eisenmangel-wann-sie-sich-testen-lassen-sollten-und-welche-lebensmittel-eisen-enthalten-a-9a9abd58-e623-4fec-8d6d-0f6006f97af8#ref=rss)
-### ende
-
-* [https://www.spiegel.de/panorama/justiz/im-verhoer-die-tinder-schwindler-1-auf-der-spur-der-love-scammer-spiegel-tv](https://www.spiegel.de/panorama/justiz/im-verhoer-die-tinder-schwindler-1-auf-der-spur-der-love-scammer-spiegel-tv-a-986b9ded-a150-433b-90da-67885ee9a412#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-post-aerger-der-kunden-nimmt-kein-ende](https://www.spiegel.de/wirtschaft/deutsche-post-aerger-der-kunden-nimmt-kein-ende-a-182e13c9-9267-4d23-961e-62295cafa156#ref=rss)
-### mädchen
-
-* [https://www.spiegel.de/partnerschaft/das-erste-mal-maedchen-haben-ein-grosses-angstthema-das-zeigen-all-ihre-fragen](https://www.spiegel.de/partnerschaft/das-erste-mal-maedchen-haben-ein-grosses-angstthema-das-zeigen-all-ihre-fragen-a-8ee1a361-b2a9-48c5-b6e1-63447873ae8a#ref=rss)
-### jungen
-
-* [https://www.spiegel.de/partnerschaft/das-erste-mal-maedchen-haben-ein-grosses-angstthema-das-zeigen-all-ihre-fragen](https://www.spiegel.de/partnerschaft/das-erste-mal-maedchen-haben-ein-grosses-angstthema-das-zeigen-all-ihre-fragen-a-8ee1a361-b2a9-48c5-b6e1-63447873ae8a#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/eisenmangel-wann-sie-sich-testen-lassen-sollten-und-welche-lebensmittel-eisen-enthalten](https://www.spiegel.de/gesundheit/diagnose/eisenmangel-wann-sie-sich-testen-lassen-sollten-und-welche-lebensmittel-eisen-enthalten-a-9a9abd58-e623-4fec-8d6d-0f6006f97af8#ref=rss)
-### journalist
-
-* [https://www.spiegel.de/ausland/journalist-der-tageszeitung-la-jornada-getoetet](https://www.spiegel.de/ausland/journalist-der-tageszeitung-la-jornada-getoetet-a-12617b2d-e447-4ab1-aee6-781e61522b0c#ref=rss)
-### staatsschutz
-
-* [https://www.spiegel.de/panorama/justiz/staatsschutz-ermittelt-nach-uebergriff](https://www.spiegel.de/panorama/justiz/staatsschutz-ermittelt-nach-uebergriff-a-8dd4147a-e3b5-4b7b-813a-fa28484f4f51#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-news-heute-bisher-47-000-tote-russische-soldaten-laut-unabhaengigen-medien](https://www.spiegel.de/ausland/russland-ukraine-news-heute-bisher-47-000-tote-russische-soldaten-laut-unabhaengigen-medien-a-bcf5bc8a-a996-4d74-baaa-1e05bf906d65#ref=rss)
 ### laut
 
-* [https://www.spiegel.de/panorama/justiz/staatsschutz-ermittelt-nach-uebergriff](https://www.spiegel.de/panorama/justiz/staatsschutz-ermittelt-nach-uebergriff-a-8dd4147a-e3b5-4b7b-813a-fa28484f4f51#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/elterngeld-kuerzung-wuerde-laut-familienministerium-erst-fuer-geburten-ab-2024-gelten](https://www.spiegel.de/wirtschaft/soziales/elterngeld-kuerzung-wuerde-laut-familienministerium-erst-fuer-geburten-ab-2024-gelten-a-b2868f74-5ff3-4070-9ab4-81adf65598bc#ref=rss)
-### smartphone
+* [https://www.spiegel.de/ausland/russland-ukraine-news-heute-bisher-47-000-tote-russische-soldaten-laut-unabhaengigen-medien](https://www.spiegel.de/ausland/russland-ukraine-news-heute-bisher-47-000-tote-russische-soldaten-laut-unabhaengigen-medien-a-bcf5bc8a-a996-4d74-baaa-1e05bf906d65#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall-wolken-aus-metall-machen-planeten-zum-groessten-spiegel-des-universums](https://www.spiegel.de/wissenschaft/weltall-wolken-aus-metall-machen-planeten-zum-groessten-spiegel-des-universums-a-11792e4c-6785-4b00-971c-19a0b9dd704d#ref=rss)
+### getroffen
 
-* [https://www.spiegel.de/netzwelt/apps/pdf-dateien-am-smartphone-bearbeiten-diese-apps-fuer-iphone-und-android-helfen](https://www.spiegel.de/netzwelt/apps/pdf-dateien-am-smartphone-bearbeiten-diese-apps-fuer-iphone-und-android-helfen-a-7cfe1ee3-0060-4ea7-bf3c-d552e6bfbe4a#ref=rss)
-### bearbeiten
+* [https://www.spiegel.de/ausland/russland-ukraine-news-heute-bisher-47-000-tote-russische-soldaten-laut-unabhaengigen-medien](https://www.spiegel.de/ausland/russland-ukraine-news-heute-bisher-47-000-tote-russische-soldaten-laut-unabhaengigen-medien-a-bcf5bc8a-a996-4d74-baaa-1e05bf906d65#ref=rss)
+* [https://www.spiegel.de/kultur/musik/harry-styles-bei-konzert-von-objekt-am-kopf-getroffen](https://www.spiegel.de/kultur/musik/harry-styles-bei-konzert-von-objekt-am-kopf-getroffen-a-c7801ab0-3f13-4f96-8b4e-b8f4908578cd#ref=rss)
+### russland
 
-* [https://www.spiegel.de/netzwelt/apps/pdf-dateien-am-smartphone-bearbeiten-diese-apps-fuer-iphone-und-android-helfen](https://www.spiegel.de/netzwelt/apps/pdf-dateien-am-smartphone-bearbeiten-diese-apps-fuer-iphone-und-android-helfen-a-7cfe1ee3-0060-4ea7-bf3c-d552e6bfbe4a#ref=rss)
-### joe
+* [https://www.spiegel.de/ausland/russland-ukraine-news-heute-bisher-47-000-tote-russische-soldaten-laut-unabhaengigen-medien](https://www.spiegel.de/ausland/russland-ukraine-news-heute-bisher-47-000-tote-russische-soldaten-laut-unabhaengigen-medien-a-bcf5bc8a-a996-4d74-baaa-1e05bf906d65#ref=rss)
+* [https://www.spiegel.de/kultur/oleh-senzow-ukrainischer-regisseur-an-der-front-verletzt](https://www.spiegel.de/kultur/oleh-senzow-ukrainischer-regisseur-an-der-front-verletzt-a-c664c3d1-b19d-46a7-b7c6-60e20940787c#ref=rss)
+### rund
 
-* [https://www.spiegel.de/ausland/joe-biden-usa-koennten-ukraine-nach-kriegsende-schutz-bieten-wie-israel](https://www.spiegel.de/ausland/joe-biden-usa-koennten-ukraine-nach-kriegsende-schutz-bieten-wie-israel-a-ef84387c-0102-4538-b24b-b0a47e0f72ae#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-news-heute-bisher-47-000-tote-russische-soldaten-laut-unabhaengigen-medien](https://www.spiegel.de/ausland/russland-ukraine-news-heute-bisher-47-000-tote-russische-soldaten-laut-unabhaengigen-medien-a-bcf5bc8a-a996-4d74-baaa-1e05bf906d65#ref=rss)
+* [https://www.spiegel.de/ausland/kanaren-hunderte-fluechtlinge-auf-dem-seeweg-nach-teneriffa-vermisst](https://www.spiegel.de/ausland/kanaren-hunderte-fluechtlinge-auf-dem-seeweg-nach-teneriffa-vermisst-a-807e8bf8-3a48-4fb1-aecb-218cf20ce0e7#ref=rss)
+### moskau
+
+* [https://www.spiegel.de/ausland/russland-ukraine-news-heute-bisher-47-000-tote-russische-soldaten-laut-unabhaengigen-medien](https://www.spiegel.de/ausland/russland-ukraine-news-heute-bisher-47-000-tote-russische-soldaten-laut-unabhaengigen-medien-a-bcf5bc8a-a996-4d74-baaa-1e05bf906d65#ref=rss)
+### kurz
+
+* [https://www.spiegel.de/ausland/russland-ukraine-news-heute-bisher-47-000-tote-russische-soldaten-laut-unabhaengigen-medien](https://www.spiegel.de/ausland/russland-ukraine-news-heute-bisher-47-000-tote-russische-soldaten-laut-unabhaengigen-medien-a-bcf5bc8a-a996-4d74-baaa-1e05bf906d65#ref=rss)
+* [https://www.spiegel.de/sport/tennis/wimbledon-achtelfinalspiel-zwischen-novak-djokovic-und-hubert-hurakacz-abgebrochen-und-verschoben](https://www.spiegel.de/sport/tennis/wimbledon-achtelfinalspiel-zwischen-novak-djokovic-und-hubert-hurakacz-abgebrochen-und-verschoben-a-7ad2a341-21b8-4082-822e-57d476b858f6#ref=rss)
+### natogipfel
+
+* [https://www.spiegel.de/ausland/nato-gipfel-in-vilnius-nato-schickt-1-000-soldaten-nach-litauen](https://www.spiegel.de/ausland/nato-gipfel-in-vilnius-nato-schickt-1-000-soldaten-nach-litauen-a-bf780e48-7c09-4ab7-9565-cdd8124fd2d9#ref=rss)
+### vilnius
+
+* [https://www.spiegel.de/ausland/nato-gipfel-in-vilnius-nato-schickt-1-000-soldaten-nach-litauen](https://www.spiegel.de/ausland/nato-gipfel-in-vilnius-nato-schickt-1-000-soldaten-nach-litauen-a-bf780e48-7c09-4ab7-9565-cdd8124fd2d9#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-joe-biden-schlaegt-israel-modell-als-schritt-zum-nato-beitritt-vor](https://www.spiegel.de/ausland/ukraine-krieg-joe-biden-schlaegt-israel-modell-als-schritt-zum-nato-beitritt-vor-a-7f58b056-be2a-4d75-abce-9992451057ea#ref=rss)
+### nato
+
+* [https://www.spiegel.de/ausland/nato-gipfel-in-vilnius-nato-schickt-1-000-soldaten-nach-litauen](https://www.spiegel.de/ausland/nato-gipfel-in-vilnius-nato-schickt-1-000-soldaten-nach-litauen-a-bf780e48-7c09-4ab7-9565-cdd8124fd2d9#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-joe-biden-schlaegt-israel-modell-als-schritt-zum-nato-beitritt-vor](https://www.spiegel.de/ausland/ukraine-krieg-joe-biden-schlaegt-israel-modell-als-schritt-zum-nato-beitritt-vor-a-7f58b056-be2a-4d75-abce-9992451057ea#ref=rss)
+### litauen
+
+* [https://www.spiegel.de/ausland/nato-gipfel-in-vilnius-nato-schickt-1-000-soldaten-nach-litauen](https://www.spiegel.de/ausland/nato-gipfel-in-vilnius-nato-schickt-1-000-soldaten-nach-litauen-a-bf780e48-7c09-4ab7-9565-cdd8124fd2d9#ref=rss)
+### militärische
+
+* [https://www.spiegel.de/ausland/nato-gipfel-in-vilnius-nato-schickt-1-000-soldaten-nach-litauen](https://www.spiegel.de/ausland/nato-gipfel-in-vilnius-nato-schickt-1-000-soldaten-nach-litauen-a-bf780e48-7c09-4ab7-9565-cdd8124fd2d9#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-polens-geheimdienst-nimmt-mutmasslichen-russischen-spion-fest](https://www.spiegel.de/ausland/ukraine-krieg-polens-geheimdienst-nimmt-mutmasslichen-russischen-spion-fest-a-b2131059-fef8-4b8d-96a2-893353f5eca3#ref=rss)
+### hannover
+
+* [https://www.spiegel.de/panorama/justiz/hannover-musiker-bestreitet-mordversuche-mit-rattengift](https://www.spiegel.de/panorama/justiz/hannover-musiker-bestreitet-mordversuche-mit-rattengift-a-b758dcf1-8610-401d-ae3f-ffc75d6211fc#ref=rss)
+### musiker
+
+* [https://www.spiegel.de/panorama/justiz/hannover-musiker-bestreitet-mordversuche-mit-rattengift](https://www.spiegel.de/panorama/justiz/hannover-musiker-bestreitet-mordversuche-mit-rattengift-a-b758dcf1-8610-401d-ae3f-ffc75d6211fc#ref=rss)
+### threads
+
+* [https://www.spiegel.de/netzwelt/apps/threads-twitter-konkurrent-von-meta-knackt-marke-von-100-millionen-nutzern](https://www.spiegel.de/netzwelt/apps/threads-twitter-konkurrent-von-meta-knackt-marke-von-100-millionen-nutzern-a-2e4d2b0b-c52d-455c-915b-eb7e25a459cd#ref=rss)
+### twitterkonkurrent
+
+* [https://www.spiegel.de/netzwelt/apps/threads-twitter-konkurrent-von-meta-knackt-marke-von-100-millionen-nutzern](https://www.spiegel.de/netzwelt/apps/threads-twitter-konkurrent-von-meta-knackt-marke-von-100-millionen-nutzern-a-2e4d2b0b-c52d-455c-915b-eb7e25a459cd#ref=rss)
+### neue
+
+* [https://www.spiegel.de/netzwelt/apps/threads-twitter-konkurrent-von-meta-knackt-marke-von-100-millionen-nutzern](https://www.spiegel.de/netzwelt/apps/threads-twitter-konkurrent-von-meta-knackt-marke-von-100-millionen-nutzern-a-2e4d2b0b-c52d-455c-915b-eb7e25a459cd#ref=rss)
+* [https://www.spiegel.de/ausland/erdogan-schweden-darf-in-die-nato-wenn-der-weg-fuer-einen-eu-beitritt-der-tuerkei-freigemacht-wird](https://www.spiegel.de/ausland/erdogan-schweden-darf-in-die-nato-wenn-der-weg-fuer-einen-eu-beitritt-der-tuerkei-freigemacht-wird-a-64bb397e-9f39-4706-ad6e-d76c9a1066a2#ref=rss)
+### recep
+
+* [https://www.spiegel.de/ausland/erdogan-schweden-darf-in-die-nato-wenn-der-weg-fuer-einen-eu-beitritt-der-tuerkei-freigemacht-wird](https://www.spiegel.de/ausland/erdogan-schweden-darf-in-die-nato-wenn-der-weg-fuer-einen-eu-beitritt-der-tuerkei-freigemacht-wird-a-64bb397e-9f39-4706-ad6e-d76c9a1066a2#ref=rss)
+### tayyip
+
+* [https://www.spiegel.de/ausland/erdogan-schweden-darf-in-die-nato-wenn-der-weg-fuer-einen-eu-beitritt-der-tuerkei-freigemacht-wird](https://www.spiegel.de/ausland/erdogan-schweden-darf-in-die-nato-wenn-der-weg-fuer-einen-eu-beitritt-der-tuerkei-freigemacht-wird-a-64bb397e-9f39-4706-ad6e-d76c9a1066a2#ref=rss)
+### erdoğan
+
+* [https://www.spiegel.de/ausland/erdogan-schweden-darf-in-die-nato-wenn-der-weg-fuer-einen-eu-beitritt-der-tuerkei-freigemacht-wird](https://www.spiegel.de/ausland/erdogan-schweden-darf-in-die-nato-wenn-der-weg-fuer-einen-eu-beitritt-der-tuerkei-freigemacht-wird-a-64bb397e-9f39-4706-ad6e-d76c9a1066a2#ref=rss)
+### knüpft
+
+* [https://www.spiegel.de/ausland/erdogan-schweden-darf-in-die-nato-wenn-der-weg-fuer-einen-eu-beitritt-der-tuerkei-freigemacht-wird](https://www.spiegel.de/ausland/erdogan-schweden-darf-in-die-nato-wenn-der-weg-fuer-einen-eu-beitritt-der-tuerkei-freigemacht-wird-a-64bb397e-9f39-4706-ad6e-d76c9a1066a2#ref=rss)
+### natobeitritt
+
+* [https://www.spiegel.de/ausland/erdogan-schweden-darf-in-die-nato-wenn-der-weg-fuer-einen-eu-beitritt-der-tuerkei-freigemacht-wird](https://www.spiegel.de/ausland/erdogan-schweden-darf-in-die-nato-wenn-der-weg-fuer-einen-eu-beitritt-der-tuerkei-freigemacht-wird-a-64bb397e-9f39-4706-ad6e-d76c9a1066a2#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-joe-biden-schlaegt-israel-modell-als-schritt-zum-nato-beitritt-vor](https://www.spiegel.de/ausland/ukraine-krieg-joe-biden-schlaegt-israel-modell-als-schritt-zum-nato-beitritt-vor-a-7f58b056-be2a-4d75-abce-9992451057ea#ref=rss)
+### russischen
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-polens-geheimdienst-nimmt-mutmasslichen-russischen-spion-fest](https://www.spiegel.de/ausland/ukraine-krieg-polens-geheimdienst-nimmt-mutmasslichen-russischen-spion-fest-a-b2131059-fef8-4b8d-96a2-893353f5eca3#ref=rss)
+### polen
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-polens-geheimdienst-nimmt-mutmasslichen-russischen-spion-fest](https://www.spiegel.de/ausland/ukraine-krieg-polens-geheimdienst-nimmt-mutmasslichen-russischen-spion-fest-a-b2131059-fef8-4b8d-96a2-893353f5eca3#ref=rss)
+* [https://www.spiegel.de/sport/tennis/wimbledon-achtelfinalspiel-zwischen-novak-djokovic-und-hubert-hurakacz-abgebrochen-und-verschoben](https://www.spiegel.de/sport/tennis/wimbledon-achtelfinalspiel-zwischen-novak-djokovic-und-hubert-hurakacz-abgebrochen-und-verschoben-a-7ad2a341-21b8-4082-822e-57d476b858f6#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/israel-umstrittene-justizreform-benjamin-netanyahu-spaltet-das-land](https://www.spiegel.de/ausland/israel-umstrittene-justizreform-benjamin-netanyahu-spaltet-das-land-a-8cbd4eb1-1e5e-47c8-92f0-97a8a16def18#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-joe-biden-schlaegt-israel-modell-als-schritt-zum-nato-beitritt-vor](https://www.spiegel.de/ausland/ukraine-krieg-joe-biden-schlaegt-israel-modell-als-schritt-zum-nato-beitritt-vor-a-7f58b056-be2a-4d75-abce-9992451057ea#ref=rss)
+### netanyahu
+
+* [https://www.spiegel.de/ausland/israel-umstrittene-justizreform-benjamin-netanyahu-spaltet-das-land](https://www.spiegel.de/ausland/israel-umstrittene-justizreform-benjamin-netanyahu-spaltet-das-land-a-8cbd4eb1-1e5e-47c8-92f0-97a8a16def18#ref=rss)
+### habeck
+
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-nennt-verhaeltnis-zu-christian-lindner-als-supi](https://www.spiegel.de/politik/deutschland/robert-habeck-nennt-verhaeltnis-zu-christian-lindner-als-supi-a-472b3aeb-3a17-4cf6-b19c-8afbfc10f216#ref=rss)
+### lindner
+
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-nennt-verhaeltnis-zu-christian-lindner-als-supi](https://www.spiegel.de/politik/deutschland/robert-habeck-nennt-verhaeltnis-zu-christian-lindner-als-supi-a-472b3aeb-3a17-4cf6-b19c-8afbfc10f216#ref=rss)
+### ums
+
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-nennt-verhaeltnis-zu-christian-lindner-als-supi](https://www.spiegel.de/politik/deutschland/robert-habeck-nennt-verhaeltnis-zu-christian-lindner-als-supi-a-472b3aeb-3a17-4cf6-b19c-8afbfc10f216#ref=rss)
+### rheinlandpfalz
+
+* [https://www.spiegel.de/panorama/justiz/naechtlicher-ausflug-mit-prostituierten-eltern-muessen-alkoholisierten-16-jaehrigen-abholen](https://www.spiegel.de/panorama/justiz/naechtlicher-ausflug-mit-prostituierten-eltern-muessen-alkoholisierten-16-jaehrigen-abholen-a-413edd28-5586-42a2-bde0-1fc68630d2c4#ref=rss)
+### niederlande
+
+* [https://www.spiegel.de/panorama/niederlande-miss-nederland-ist-erstmals-eine-transfrau-22-jaehrige-rikkie-kolle-aus-amsterdam](https://www.spiegel.de/panorama/niederlande-miss-nederland-ist-erstmals-eine-transfrau-22-jaehrige-rikkie-kolle-aus-amsterdam-a-acdf933c-8995-45dd-b73e-3703fb5bfb13#ref=rss)
+* [https://www.spiegel.de/ausland/niederlande-mark-rutte-kuendigt-rueckzug-aus-politik-an](https://www.spiegel.de/ausland/niederlande-mark-rutte-kuendigt-rueckzug-aus-politik-an-a-7e49a92a-3b76-499e-bcdb-b88a9f5a05c9#ref=rss)
+### miss
+
+* [https://www.spiegel.de/panorama/niederlande-miss-nederland-ist-erstmals-eine-transfrau-22-jaehrige-rikkie-kolle-aus-amsterdam](https://www.spiegel.de/panorama/niederlande-miss-nederland-ist-erstmals-eine-transfrau-22-jaehrige-rikkie-kolle-aus-amsterdam-a-acdf933c-8995-45dd-b73e-3703fb5bfb13#ref=rss)
+### nederland
+
+* [https://www.spiegel.de/panorama/niederlande-miss-nederland-ist-erstmals-eine-transfrau-22-jaehrige-rikkie-kolle-aus-amsterdam](https://www.spiegel.de/panorama/niederlande-miss-nederland-ist-erstmals-eine-transfrau-22-jaehrige-rikkie-kolle-aus-amsterdam-a-acdf933c-8995-45dd-b73e-3703fb5bfb13#ref=rss)
+### erstmals
+
+* [https://www.spiegel.de/panorama/niederlande-miss-nederland-ist-erstmals-eine-transfrau-22-jaehrige-rikkie-kolle-aus-amsterdam](https://www.spiegel.de/panorama/niederlande-miss-nederland-ist-erstmals-eine-transfrau-22-jaehrige-rikkie-kolle-aus-amsterdam-a-acdf933c-8995-45dd-b73e-3703fb5bfb13#ref=rss)
+### trans
+
+* [https://www.spiegel.de/panorama/niederlande-miss-nederland-ist-erstmals-eine-transfrau-22-jaehrige-rikkie-kolle-aus-amsterdam](https://www.spiegel.de/panorama/niederlande-miss-nederland-ist-erstmals-eine-transfrau-22-jaehrige-rikkie-kolle-aus-amsterdam-a-acdf933c-8995-45dd-b73e-3703fb5bfb13#ref=rss)
+### frau
+
+* [https://www.spiegel.de/panorama/niederlande-miss-nederland-ist-erstmals-eine-transfrau-22-jaehrige-rikkie-kolle-aus-amsterdam](https://www.spiegel.de/panorama/niederlande-miss-nederland-ist-erstmals-eine-transfrau-22-jaehrige-rikkie-kolle-aus-amsterdam-a-acdf933c-8995-45dd-b73e-3703fb5bfb13#ref=rss)
+### witwenrente
+
+* [https://www.spiegel.de/wirtschaft/service/witwenrente-oekonomin-monika-schnitzer-erklaert-ihren-vorstoss-zur-abschaffung](https://www.spiegel.de/wirtschaft/service/witwenrente-oekonomin-monika-schnitzer-erklaert-ihren-vorstoss-zur-abschaffung-a-483b9e08-2120-4439-84a8-6c1e344dacaa#ref=rss)
+### ökonomin
+
+* [https://www.spiegel.de/wirtschaft/service/witwenrente-oekonomin-monika-schnitzer-erklaert-ihren-vorstoss-zur-abschaffung](https://www.spiegel.de/wirtschaft/service/witwenrente-oekonomin-monika-schnitzer-erklaert-ihren-vorstoss-zur-abschaffung-a-483b9e08-2120-4439-84a8-6c1e344dacaa#ref=rss)
+### monika
+
+* [https://www.spiegel.de/wirtschaft/service/witwenrente-oekonomin-monika-schnitzer-erklaert-ihren-vorstoss-zur-abschaffung](https://www.spiegel.de/wirtschaft/service/witwenrente-oekonomin-monika-schnitzer-erklaert-ihren-vorstoss-zur-abschaffung-a-483b9e08-2120-4439-84a8-6c1e344dacaa#ref=rss)
+### schnitzer
+
+* [https://www.spiegel.de/wirtschaft/service/witwenrente-oekonomin-monika-schnitzer-erklaert-ihren-vorstoss-zur-abschaffung](https://www.spiegel.de/wirtschaft/service/witwenrente-oekonomin-monika-schnitzer-erklaert-ihren-vorstoss-zur-abschaffung-a-483b9e08-2120-4439-84a8-6c1e344dacaa#ref=rss)
+### vorstoß
+
+* [https://www.spiegel.de/wirtschaft/service/witwenrente-oekonomin-monika-schnitzer-erklaert-ihren-vorstoss-zur-abschaffung](https://www.spiegel.de/wirtschaft/service/witwenrente-oekonomin-monika-schnitzer-erklaert-ihren-vorstoss-zur-abschaffung-a-483b9e08-2120-4439-84a8-6c1e344dacaa#ref=rss)
+### abschaffung
+
+* [https://www.spiegel.de/wirtschaft/service/witwenrente-oekonomin-monika-schnitzer-erklaert-ihren-vorstoss-zur-abschaffung](https://www.spiegel.de/wirtschaft/service/witwenrente-oekonomin-monika-schnitzer-erklaert-ihren-vorstoss-zur-abschaffung-a-483b9e08-2120-4439-84a8-6c1e344dacaa#ref=rss)
+### luis
+
+* [https://www.spiegel.de/sport/fussball/luis-suarez-miramontes-ist-gestorben-er-machte-barcelona-gross](https://www.spiegel.de/sport/fussball/luis-suarez-miramontes-ist-gestorben-er-machte-barcelona-gross-a-e57a85af-3b80-4fed-876f-3a34f0e3ec79#ref=rss)
+### suárez
+
+* [https://www.spiegel.de/sport/fussball/luis-suarez-miramontes-ist-gestorben-er-machte-barcelona-gross](https://www.spiegel.de/sport/fussball/luis-suarez-miramontes-ist-gestorben-er-machte-barcelona-gross-a-e57a85af-3b80-4fed-876f-3a34f0e3ec79#ref=rss)
+### a9
+
+* [https://www.spiegel.de/panorama/justiz/a9-bei-hilpoltstein-verletztes-turnierpferd-auf-autobahn-eingeschlaefert](https://www.spiegel.de/panorama/justiz/a9-bei-hilpoltstein-verletztes-turnierpferd-auf-autobahn-eingeschlaefert-a-fc05d05f-6838-46e4-94d6-f5fb6c6afe93#ref=rss)
+### verletzte
+
+* [https://www.spiegel.de/panorama/justiz/a9-bei-hilpoltstein-verletztes-turnierpferd-auf-autobahn-eingeschlaefert](https://www.spiegel.de/panorama/justiz/a9-bei-hilpoltstein-verletztes-turnierpferd-auf-autobahn-eingeschlaefert-a-fc05d05f-6838-46e4-94d6-f5fb6c6afe93#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/giessen-125-strafanzeigen-nach-eritrea-festival](https://www.spiegel.de/panorama/justiz/giessen-125-strafanzeigen-nach-eritrea-festival-a-0b022387-1a7b-4c0d-bd96-dd98ab5557a1#ref=rss)
+### personen
+
+* [https://www.spiegel.de/panorama/justiz/a9-bei-hilpoltstein-verletztes-turnierpferd-auf-autobahn-eingeschlaefert](https://www.spiegel.de/panorama/justiz/a9-bei-hilpoltstein-verletztes-turnierpferd-auf-autobahn-eingeschlaefert-a-fc05d05f-6838-46e4-94d6-f5fb6c6afe93#ref=rss)
+* [https://www.spiegel.de/ausland/kanaren-hunderte-fluechtlinge-auf-dem-seeweg-nach-teneriffa-vermisst](https://www.spiegel.de/ausland/kanaren-hunderte-fluechtlinge-auf-dem-seeweg-nach-teneriffa-vermisst-a-807e8bf8-3a48-4fb1-aecb-218cf20ce0e7#ref=rss)
+### harry
+
+* [https://www.spiegel.de/kultur/musik/harry-styles-bei-konzert-von-objekt-am-kopf-getroffen](https://www.spiegel.de/kultur/musik/harry-styles-bei-konzert-von-objekt-am-kopf-getroffen-a-c7801ab0-3f13-4f96-8b4e-b8f4908578cd#ref=rss)
+### styles
+
+* [https://www.spiegel.de/kultur/musik/harry-styles-bei-konzert-von-objekt-am-kopf-getroffen](https://www.spiegel.de/kultur/musik/harry-styles-bei-konzert-von-objekt-am-kopf-getroffen-a-c7801ab0-3f13-4f96-8b4e-b8f4908578cd#ref=rss)
+### ersten
+
+* [https://www.spiegel.de/kultur/musik/harry-styles-bei-konzert-von-objekt-am-kopf-getroffen](https://www.spiegel.de/kultur/musik/harry-styles-bei-konzert-von-objekt-am-kopf-getroffen-a-c7801ab0-3f13-4f96-8b4e-b8f4908578cd#ref=rss)
+* [https://www.spiegel.de/sport/tennis/wimbledon-achtelfinalspiel-zwischen-novak-djokovic-und-hubert-hurakacz-abgebrochen-und-verschoben](https://www.spiegel.de/sport/tennis/wimbledon-achtelfinalspiel-zwischen-novak-djokovic-und-hubert-hurakacz-abgebrochen-und-verschoben-a-7ad2a341-21b8-4082-822e-57d476b858f6#ref=rss)
+### rutte
+
+* [https://www.spiegel.de/ausland/niederlande-mark-rutte-kuendigt-rueckzug-aus-politik-an](https://www.spiegel.de/ausland/niederlande-mark-rutte-kuendigt-rueckzug-aus-politik-an-a-7e49a92a-3b76-499e-bcdb-b88a9f5a05c9#ref=rss)
+### kanaren
+
+* [https://www.spiegel.de/ausland/kanaren-hunderte-fluechtlinge-auf-dem-seeweg-nach-teneriffa-vermisst](https://www.spiegel.de/ausland/kanaren-hunderte-fluechtlinge-auf-dem-seeweg-nach-teneriffa-vermisst-a-807e8bf8-3a48-4fb1-aecb-218cf20ce0e7#ref=rss)
+### seeweg
+
+* [https://www.spiegel.de/ausland/kanaren-hunderte-fluechtlinge-auf-dem-seeweg-nach-teneriffa-vermisst](https://www.spiegel.de/ausland/kanaren-hunderte-fluechtlinge-auf-dem-seeweg-nach-teneriffa-vermisst-a-807e8bf8-3a48-4fb1-aecb-218cf20ce0e7#ref=rss)
+### entwickelt
+
+* [https://www.spiegel.de/ausland/kanaren-hunderte-fluechtlinge-auf-dem-seeweg-nach-teneriffa-vermisst](https://www.spiegel.de/ausland/kanaren-hunderte-fluechtlinge-auf-dem-seeweg-nach-teneriffa-vermisst-a-807e8bf8-3a48-4fb1-aecb-218cf20ce0e7#ref=rss)
+* [https://www.spiegel.de/start/aya-jaff-ueber-selbstoptimierung-wie-die-technologie-expertin-ihre-woche-organisiert](https://www.spiegel.de/start/aya-jaff-ueber-selbstoptimierung-wie-die-technologie-expertin-ihre-woche-organisiert-a-4bcab195-1118-4892-9c7d-23766447415a#ref=rss)
+### ich
+
+* [https://www.spiegel.de/stil/rezept-fuer-bakwan-jagung](https://www.spiegel.de/stil/rezept-fuer-bakwan-jagung-a-59f6c21c-a1af-4991-aa42-c933114c5e53#ref=rss)
+* [https://www.spiegel.de/karriere/mein-chef-benimmt-sich-schlecht-was-soll-ich-tun-tipps-von-der-karriereberaterin](https://www.spiegel.de/karriere/mein-chef-benimmt-sich-schlecht-was-soll-ich-tun-tipps-von-der-karriereberaterin-a-c769f0ff-fc61-4351-9ac8-6f5b61734f2f#ref=rss)
+### aya
+
+* [https://www.spiegel.de/start/aya-jaff-ueber-selbstoptimierung-wie-die-technologie-expertin-ihre-woche-organisiert](https://www.spiegel.de/start/aya-jaff-ueber-selbstoptimierung-wie-die-technologie-expertin-ihre-woche-organisiert-a-4bcab195-1118-4892-9c7d-23766447415a#ref=rss)
+### jaff
+
+* [https://www.spiegel.de/start/aya-jaff-ueber-selbstoptimierung-wie-die-technologie-expertin-ihre-woche-organisiert](https://www.spiegel.de/start/aya-jaff-ueber-selbstoptimierung-wie-die-technologie-expertin-ihre-woche-organisiert-a-4bcab195-1118-4892-9c7d-23766447415a#ref=rss)
+### reichtum
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/elterngeld-debatte-deutschland-muss-ehrlicher-ueber-reichtum-diskutieren](https://www.spiegel.de/wirtschaft/unternehmen/elterngeld-debatte-deutschland-muss-ehrlicher-ueber-reichtum-diskutieren-a-315db02c-e6cc-43c4-9c80-12d8831f229b#ref=rss)
+### oleh
+
+* [https://www.spiegel.de/kultur/oleh-senzow-ukrainischer-regisseur-an-der-front-verletzt](https://www.spiegel.de/kultur/oleh-senzow-ukrainischer-regisseur-an-der-front-verletzt-a-c664c3d1-b19d-46a7-b7c6-60e20940787c#ref=rss)
+### senzow
+
+* [https://www.spiegel.de/kultur/oleh-senzow-ukrainischer-regisseur-an-der-front-verletzt](https://www.spiegel.de/kultur/oleh-senzow-ukrainischer-regisseur-an-der-front-verletzt-a-c664c3d1-b19d-46a7-b7c6-60e20940787c#ref=rss)
+### front
+
+* [https://www.spiegel.de/kultur/oleh-senzow-ukrainischer-regisseur-an-der-front-verletzt](https://www.spiegel.de/kultur/oleh-senzow-ukrainischer-regisseur-an-der-front-verletzt-a-c664c3d1-b19d-46a7-b7c6-60e20940787c#ref=rss)
+### berichtet
+
+* [https://www.spiegel.de/kultur/oleh-senzow-ukrainischer-regisseur-an-der-front-verletzt](https://www.spiegel.de/kultur/oleh-senzow-ukrainischer-regisseur-an-der-front-verletzt-a-c664c3d1-b19d-46a7-b7c6-60e20940787c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/nach-insolvenz-geschaeft-mit-weck-glaesern-zieht-wieder-an-investor-gesucht](https://www.spiegel.de/wirtschaft/unternehmen/nach-insolvenz-geschaeft-mit-weck-glaesern-zieht-wieder-an-investor-gesucht-a-5acef579-a016-4bc2-bb6c-505a1d1f26f2#ref=rss)
+### gießen
+
+* [https://www.spiegel.de/panorama/justiz/giessen-125-strafanzeigen-nach-eritrea-festival](https://www.spiegel.de/panorama/justiz/giessen-125-strafanzeigen-nach-eritrea-festival-a-0b022387-1a7b-4c0d-bd96-dd98ab5557a1#ref=rss)
+### eritreafestival
+
+* [https://www.spiegel.de/panorama/justiz/giessen-125-strafanzeigen-nach-eritrea-festival](https://www.spiegel.de/panorama/justiz/giessen-125-strafanzeigen-nach-eritrea-festival-a-0b022387-1a7b-4c0d-bd96-dd98ab5557a1#ref=rss)
+### chef
+
+* [https://www.spiegel.de/karriere/mein-chef-benimmt-sich-schlecht-was-soll-ich-tun-tipps-von-der-karriereberaterin](https://www.spiegel.de/karriere/mein-chef-benimmt-sich-schlecht-was-soll-ich-tun-tipps-von-der-karriereberaterin-a-c769f0ff-fc61-4351-9ac8-6f5b61734f2f#ref=rss)
+### schlecht
+
+* [https://www.spiegel.de/karriere/mein-chef-benimmt-sich-schlecht-was-soll-ich-tun-tipps-von-der-karriereberaterin](https://www.spiegel.de/karriere/mein-chef-benimmt-sich-schlecht-was-soll-ich-tun-tipps-von-der-karriereberaterin-a-c769f0ff-fc61-4351-9ac8-6f5b61734f2f#ref=rss)
+### achtelfinale
+
+* [https://www.spiegel.de/sport/tennis/wimbledon-achtelfinalspiel-zwischen-novak-djokovic-und-hubert-hurakacz-abgebrochen-und-verschoben](https://www.spiegel.de/sport/tennis/wimbledon-achtelfinalspiel-zwischen-novak-djokovic-und-hubert-hurakacz-abgebrochen-und-verschoben-a-7ad2a341-21b8-4082-822e-57d476b858f6#ref=rss)
+### novak
+
+* [https://www.spiegel.de/sport/tennis/wimbledon-achtelfinalspiel-zwischen-novak-djokovic-und-hubert-hurakacz-abgebrochen-und-verschoben](https://www.spiegel.de/sport/tennis/wimbledon-achtelfinalspiel-zwischen-novak-djokovic-und-hubert-hurakacz-abgebrochen-und-verschoben-a-7ad2a341-21b8-4082-822e-57d476b858f6#ref=rss)
+### djoković
+
+* [https://www.spiegel.de/sport/tennis/wimbledon-achtelfinalspiel-zwischen-novak-djokovic-und-hubert-hurakacz-abgebrochen-und-verschoben](https://www.spiegel.de/sport/tennis/wimbledon-achtelfinalspiel-zwischen-novak-djokovic-und-hubert-hurakacz-abgebrochen-und-verschoben-a-7ad2a341-21b8-4082-822e-57d476b858f6#ref=rss)
+### hubert
+
+* [https://www.spiegel.de/sport/tennis/wimbledon-achtelfinalspiel-zwischen-novak-djokovic-und-hubert-hurakacz-abgebrochen-und-verschoben](https://www.spiegel.de/sport/tennis/wimbledon-achtelfinalspiel-zwischen-novak-djokovic-und-hubert-hurakacz-abgebrochen-und-verschoben-a-7ad2a341-21b8-4082-822e-57d476b858f6#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-joe-biden-schlaegt-israel-modell-als-schritt-zum-nato-beitritt-vor](https://www.spiegel.de/ausland/ukraine-krieg-joe-biden-schlaegt-israel-modell-als-schritt-zum-nato-beitritt-vor-a-7f58b056-be2a-4d75-abce-9992451057ea#ref=rss)
 ### biden
 
-* [https://www.spiegel.de/ausland/joe-biden-usa-koennten-ukraine-nach-kriegsende-schutz-bieten-wie-israel](https://www.spiegel.de/ausland/joe-biden-usa-koennten-ukraine-nach-kriegsende-schutz-bieten-wie-israel-a-ef84387c-0102-4538-b24b-b0a47e0f72ae#ref=rss)
-### steinmeier
+* [https://www.spiegel.de/ausland/ukraine-krieg-joe-biden-schlaegt-israel-modell-als-schritt-zum-nato-beitritt-vor](https://www.spiegel.de/ausland/ukraine-krieg-joe-biden-schlaegt-israel-modell-als-schritt-zum-nato-beitritt-vor-a-7f58b056-be2a-4d75-abce-9992451057ea#ref=rss)
+### firma
 
-* [https://www.spiegel.de/politik/frank-walter-steinmeier-spricht-sich-fuer-unterstuetzung-der-usa-in-streumunitions-frage-aus](https://www.spiegel.de/politik/frank-walter-steinmeier-spricht-sich-fuer-unterstuetzung-der-usa-in-streumunitions-frage-aus-a-bced8150-3739-4a3a-86f3-7c615a4d4201#ref=rss)
-### post
+* [https://www.spiegel.de/wirtschaft/unternehmen/nach-insolvenz-geschaeft-mit-weck-glaesern-zieht-wieder-an-investor-gesucht](https://www.spiegel.de/wirtschaft/unternehmen/nach-insolvenz-geschaeft-mit-weck-glaesern-zieht-wieder-an-investor-gesucht-a-5acef579-a016-4bc2-bb6c-505a1d1f26f2#ref=rss)
+### weck
 
-* [https://www.spiegel.de/wirtschaft/deutsche-post-aerger-der-kunden-nimmt-kein-ende](https://www.spiegel.de/wirtschaft/deutsche-post-aerger-der-kunden-nimmt-kein-ende-a-182e13c9-9267-4d23-961e-62295cafa156#ref=rss)
-### wolhynienmassaker
-
-* [https://www.spiegel.de/ausland/selenskyj-und-duda-erinnern-an-wolhynien-massaker-im-zweiten-weltkrieg](https://www.spiegel.de/ausland/selenskyj-und-duda-erinnern-an-wolhynien-massaker-im-zweiten-weltkrieg-a-cf73c08f-2248-4c4d-8f87-cb7bcbf9420f#ref=rss)
-### eisenmangel
-
-* [https://www.spiegel.de/gesundheit/diagnose/eisenmangel-wann-sie-sich-testen-lassen-sollten-und-welche-lebensmittel-eisen-enthalten](https://www.spiegel.de/gesundheit/diagnose/eisenmangel-wann-sie-sich-testen-lassen-sollten-und-welche-lebensmittel-eisen-enthalten-a-9a9abd58-e623-4fec-8d6d-0f6006f97af8#ref=rss)
-### sollten
-
-* [https://www.spiegel.de/gesundheit/diagnose/eisenmangel-wann-sie-sich-testen-lassen-sollten-und-welche-lebensmittel-eisen-enthalten](https://www.spiegel.de/gesundheit/diagnose/eisenmangel-wann-sie-sich-testen-lassen-sollten-und-welche-lebensmittel-eisen-enthalten-a-9a9abd58-e623-4fec-8d6d-0f6006f97af8#ref=rss)
-### nehmen
-
-* [https://www.spiegel.de/gesundheit/diagnose/eisenmangel-wann-sie-sich-testen-lassen-sollten-und-welche-lebensmittel-eisen-enthalten](https://www.spiegel.de/gesundheit/diagnose/eisenmangel-wann-sie-sich-testen-lassen-sollten-und-welche-lebensmittel-eisen-enthalten-a-9a9abd58-e623-4fec-8d6d-0f6006f97af8#ref=rss)
-* [https://www.spiegel.de/auto/reisen-im-rollstuhl-saengerin-panah-kritisiert-deutsche-bahn](https://www.spiegel.de/auto/reisen-im-rollstuhl-saengerin-panah-kritisiert-deutsche-bahn-a-97f30d16-b97a-48fb-8e92-42145a0efdd5#ref=rss)
-### reisen
-
-* [https://www.spiegel.de/auto/reisen-im-rollstuhl-saengerin-panah-kritisiert-deutsche-bahn](https://www.spiegel.de/auto/reisen-im-rollstuhl-saengerin-panah-kritisiert-deutsche-bahn-a-97f30d16-b97a-48fb-8e92-42145a0efdd5#ref=rss)
-### sängerin
-
-* [https://www.spiegel.de/auto/reisen-im-rollstuhl-saengerin-panah-kritisiert-deutsche-bahn](https://www.spiegel.de/auto/reisen-im-rollstuhl-saengerin-panah-kritisiert-deutsche-bahn-a-97f30d16-b97a-48fb-8e92-42145a0efdd5#ref=rss)
-### panah
-
-* [https://www.spiegel.de/auto/reisen-im-rollstuhl-saengerin-panah-kritisiert-deutsche-bahn](https://www.spiegel.de/auto/reisen-im-rollstuhl-saengerin-panah-kritisiert-deutsche-bahn-a-97f30d16-b97a-48fb-8e92-42145a0efdd5#ref=rss)
-### new
-
-* [https://www.spiegel.de/ausland/bill-de-blasio-und-chirlane-mccray-new-yorks-progressives-traumpaar-trennt-sich](https://www.spiegel.de/ausland/bill-de-blasio-und-chirlane-mccray-new-yorks-progressives-traumpaar-trennt-sich-a-2a68fff0-86eb-4436-89dd-57d18e8a3c56#ref=rss)
-### lüderitz
-
-* [https://www.spiegel.de/ausland/luederitz-namibia-hier-soll-gruener-wasserstoff-in-gigantischem-ausmass-produziert-werden](https://www.spiegel.de/ausland/luederitz-namibia-hier-soll-gruener-wasserstoff-in-gigantischem-ausmass-produziert-werden-a-a160205b-2215-4c98-8300-969eba4d3a5e#ref=rss)
-### wasserstoff
-
-* [https://www.spiegel.de/ausland/luederitz-namibia-hier-soll-gruener-wasserstoff-in-gigantischem-ausmass-produziert-werden](https://www.spiegel.de/ausland/luederitz-namibia-hier-soll-gruener-wasserstoff-in-gigantischem-ausmass-produziert-werden-a-a160205b-2215-4c98-8300-969eba4d3a5e#ref=rss)
-### nc
-
-* [https://www.spiegel.de/start/studium-nc-nicht-erreicht-warum-ich-froh-bin-dass-aus-meinem-traum-nichts-wurde](https://www.spiegel.de/start/studium-nc-nicht-erreicht-warum-ich-froh-bin-dass-aus-meinem-traum-nichts-wurde-a-fbbd13a6-c206-4409-b9af-a50069c72c9a#ref=rss)
-### mich
-
-* [https://www.spiegel.de/start/studium-nc-nicht-erreicht-warum-ich-froh-bin-dass-aus-meinem-traum-nichts-wurde](https://www.spiegel.de/start/studium-nc-nicht-erreicht-warum-ich-froh-bin-dass-aus-meinem-traum-nichts-wurde-a-fbbd13a6-c206-4409-b9af-a50069c72c9a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/darf-ich-mich-als-westdeutsche-auch-ostdeutsch-fuehlen-kolumne](https://www.spiegel.de/politik/deutschland/darf-ich-mich-als-westdeutsche-auch-ostdeutsch-fuehlen-kolumne-a-549c7205-33cb-4115-823c-d4f69aa9a0ee#ref=rss)
-### cdu
-
-* [https://www.spiegel.de/politik/deutschland/bertram-fleck-wie-die-cdu-der-cdu-den-klimaschutz-erklaert](https://www.spiegel.de/politik/deutschland/bertram-fleck-wie-die-cdu-der-cdu-den-klimaschutz-erklaert-a-adc6263c-b03c-4bf8-8e61-cbdcb66060ca#ref=rss)
-### klimaschutz
-
-* [https://www.spiegel.de/politik/deutschland/bertram-fleck-wie-die-cdu-der-cdu-den-klimaschutz-erklaert](https://www.spiegel.de/politik/deutschland/bertram-fleck-wie-die-cdu-der-cdu-den-klimaschutz-erklaert-a-adc6263c-b03c-4bf8-8e61-cbdcb66060ca#ref=rss)
-### papst
-
-* [https://www.spiegel.de/panorama/papst-franziskus-kuendigt-21-neue-kardinaele-an](https://www.spiegel.de/panorama/papst-franziskus-kuendigt-21-neue-kardinaele-an-a-9e7d69d7-ef1e-4887-9b9b-f6ad25bf9c01#ref=rss)
-### franziskus
-
-* [https://www.spiegel.de/panorama/papst-franziskus-kuendigt-21-neue-kardinaele-an](https://www.spiegel.de/panorama/papst-franziskus-kuendigt-21-neue-kardinaele-an-a-9e7d69d7-ef1e-4887-9b9b-f6ad25bf9c01#ref=rss)
-### oberammergau
-
-* [https://www.spiegel.de/panorama/gesellschaft/oberammergau-pilot-stirbt-bei-absturz-von-segelflugzeug-in-bayerischen-alpen](https://www.spiegel.de/panorama/gesellschaft/oberammergau-pilot-stirbt-bei-absturz-von-segelflugzeug-in-bayerischen-alpen-a-0bf8904b-3fa0-4bb0-959e-3eb83d92fa7f#ref=rss)
-### pilot
-
-* [https://www.spiegel.de/panorama/gesellschaft/oberammergau-pilot-stirbt-bei-absturz-von-segelflugzeug-in-bayerischen-alpen](https://www.spiegel.de/panorama/gesellschaft/oberammergau-pilot-stirbt-bei-absturz-von-segelflugzeug-in-bayerischen-alpen-a-0bf8904b-3fa0-4bb0-959e-3eb83d92fa7f#ref=rss)
-### segelflugzeug
-
-* [https://www.spiegel.de/panorama/gesellschaft/oberammergau-pilot-stirbt-bei-absturz-von-segelflugzeug-in-bayerischen-alpen](https://www.spiegel.de/panorama/gesellschaft/oberammergau-pilot-stirbt-bei-absturz-von-segelflugzeug-in-bayerischen-alpen-a-0bf8904b-3fa0-4bb0-959e-3eb83d92fa7f#ref=rss)
-### elterngeld
-
-* [https://www.spiegel.de/wirtschaft/soziales/elterngeld-kuerzung-wuerde-laut-familienministerium-erst-fuer-geburten-ab-2024-gelten](https://www.spiegel.de/wirtschaft/soziales/elterngeld-kuerzung-wuerde-laut-familienministerium-erst-fuer-geburten-ab-2024-gelten-a-b2868f74-5ff3-4070-9ab4-81adf65598bc#ref=rss)
-### würde
-
-* [https://www.spiegel.de/wirtschaft/soziales/elterngeld-kuerzung-wuerde-laut-familienministerium-erst-fuer-geburten-ab-2024-gelten](https://www.spiegel.de/wirtschaft/soziales/elterngeld-kuerzung-wuerde-laut-familienministerium-erst-fuer-geburten-ab-2024-gelten-a-b2868f74-5ff3-4070-9ab4-81adf65598bc#ref=rss)
-### familienministerium
-
-* [https://www.spiegel.de/wirtschaft/soziales/elterngeld-kuerzung-wuerde-laut-familienministerium-erst-fuer-geburten-ab-2024-gelten](https://www.spiegel.de/wirtschaft/soziales/elterngeld-kuerzung-wuerde-laut-familienministerium-erst-fuer-geburten-ab-2024-gelten-a-b2868f74-5ff3-4070-9ab4-81adf65598bc#ref=rss)
-### geburten
-
-* [https://www.spiegel.de/wirtschaft/soziales/elterngeld-kuerzung-wuerde-laut-familienministerium-erst-fuer-geburten-ab-2024-gelten](https://www.spiegel.de/wirtschaft/soziales/elterngeld-kuerzung-wuerde-laut-familienministerium-erst-fuer-geburten-ab-2024-gelten-a-b2868f74-5ff3-4070-9ab4-81adf65598bc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/nach-insolvenz-geschaeft-mit-weck-glaesern-zieht-wieder-an-investor-gesucht](https://www.spiegel.de/wirtschaft/unternehmen/nach-insolvenz-geschaeft-mit-weck-glaesern-zieht-wieder-an-investor-gesucht-a-5acef579-a016-4bc2-bb6c-505a1d1f26f2#ref=rss)
 
