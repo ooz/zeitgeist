@@ -4,373 +4,277 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### junge
-
-* [https://www.spiegel.de/panorama/pamplona-schon-22-verletzte-bei-stierhatz-in-den-ersten-tagen](https://www.spiegel.de/panorama/pamplona-schon-22-verletzte-bei-stierhatz-in-den-ersten-tagen-a-86d22028-8aae-48f8-8ff5-a0d2359b7182#ref=rss)
-* [https://www.spiegel.de/sport/tennis/wimbledon-16-jahre-alte-mirra-andreeva-scheidet-im-achtelfinale-gegen-madison-keys-aus](https://www.spiegel.de/sport/tennis/wimbledon-16-jahre-alte-mirra-andreeva-scheidet-im-achtelfinale-gegen-madison-keys-aus-a-a0189e9c-a61d-4695-80c9-fcb277598b4d#ref=rss)
-* [https://www.spiegel.de/stil/fashion-week-in-berlin-kann-man-mode-machen-aber-nicht-davon-leben](https://www.spiegel.de/stil/fashion-week-in-berlin-kann-man-mode-machen-aber-nicht-davon-leben-a-69d1d007-1c07-4a51-8292-5a3459e797f0#ref=rss)
-* [https://www.spiegel.de/sport/tennis/wimbledon-2023-daenischer-tennis-star-holger-rune-es-kocht-ueber](https://www.spiegel.de/sport/tennis/wimbledon-2023-daenischer-tennis-star-holger-rune-es-kocht-ueber-a-008a4af2-df7e-4680-b3af-d785670e5e9d#ref=rss)
-### wimbledon
-
-* [https://www.spiegel.de/sport/tennis/wimbledon-novak-djokovic-und-jelena-rybakina-weiter-stefanos-tsitsipas-scheitert](https://www.spiegel.de/sport/tennis/wimbledon-novak-djokovic-und-jelena-rybakina-weiter-stefanos-tsitsipas-scheitert-a-ae510db5-d061-469a-ba13-d051f9fc8b0b#ref=rss)
-* [https://www.spiegel.de/sport/tennis/wimbledon-16-jahre-alte-mirra-andreeva-scheidet-im-achtelfinale-gegen-madison-keys-aus](https://www.spiegel.de/sport/tennis/wimbledon-16-jahre-alte-mirra-andreeva-scheidet-im-achtelfinale-gegen-madison-keys-aus-a-a0189e9c-a61d-4695-80c9-fcb277598b4d#ref=rss)
-* [https://www.spiegel.de/sport/tennis/wimbledon-2023-daenischer-tennis-star-holger-rune-es-kocht-ueber](https://www.spiegel.de/sport/tennis/wimbledon-2023-daenischer-tennis-star-holger-rune-es-kocht-ueber-a-008a4af2-df7e-4680-b3af-d785670e5e9d#ref=rss)
-### geeinigt
-
-* [https://www.spiegel.de/ausland/nato-staaten-billigen-offenbar-neue-abwehrplaene-gegen-russland](https://www.spiegel.de/ausland/nato-staaten-billigen-offenbar-neue-abwehrplaene-gegen-russland-a-5eb96334-2a0a-4c50-8648-65e8e95f369a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/krankenhausreform-von-karl-lauterbach-so-warnt-ein-krankenhaus-chef-vor-den-risiken](https://www.spiegel.de/wirtschaft/krankenhausreform-von-karl-lauterbach-so-warnt-ein-krankenhaus-chef-vor-den-risiken-a-4b3b5d61-8555-4b19-a174-be519599295e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/krankenhausreform-gesundheitsminister-von-bund-und-laendern-einigen-sich](https://www.spiegel.de/politik/deutschland/krankenhausreform-gesundheitsminister-von-bund-und-laendern-einigen-sich-a-d4ae6262-63ba-4ed8-8c2b-16097bc6dc2b#ref=rss)
-### bund
-
-* [https://www.spiegel.de/wirtschaft/krankenhausreform-von-karl-lauterbach-so-warnt-ein-krankenhaus-chef-vor-den-risiken](https://www.spiegel.de/wirtschaft/krankenhausreform-von-karl-lauterbach-so-warnt-ein-krankenhaus-chef-vor-den-risiken-a-4b3b5d61-8555-4b19-a174-be519599295e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/krankenhausreform-gesundheitsminister-von-bund-und-laendern-einigen-sich](https://www.spiegel.de/politik/deutschland/krankenhausreform-gesundheitsminister-von-bund-und-laendern-einigen-sich-a-d4ae6262-63ba-4ed8-8c2b-16097bc6dc2b#ref=rss)
-### usa
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/data-privacy-framework-eu-und-usa-haben-einen-neuen-datenpakt](https://www.spiegel.de/netzwelt/netzpolitik/data-privacy-framework-eu-und-usa-haben-einen-neuen-datenpakt-a-95d5315a-a3ed-4bcd-9008-62ec4c7c4ca5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-usa-und-ukraine-tuerkei-und-schweden-witwenrente](https://www.spiegel.de/politik/deutschland/news-des-tages-usa-und-ukraine-tuerkei-und-schweden-witwenrente-a-fe55a214-a143-49d1-8dd1-cd0998ef3ff6#ref=rss)
-### sommer
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/easyjet-streicht-diesen-sommer-1700-fluege-grossteil-der-passagiere-bereits-umgebucht](https://www.spiegel.de/wirtschaft/unternehmen/easyjet-streicht-diesen-sommer-1700-fluege-grossteil-der-passagiere-bereits-umgebucht-a-a5dd953a-6daa-4221-81d6-598ef8c21ca5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/klimawandel-mehr-als-60-000-menschen-sind-in-europa-wegen-hitze-gestorben](https://www.spiegel.de/wissenschaft/klimawandel-mehr-als-60-000-menschen-sind-in-europa-wegen-hitze-gestorben-a-b47edf7f-a8dd-49fd-9ab6-eaaf55b17b32#ref=rss)
 ### ukraine
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/easyjet-streicht-diesen-sommer-1700-fluege-grossteil-der-passagiere-bereits-umgebucht](https://www.spiegel.de/wirtschaft/unternehmen/easyjet-streicht-diesen-sommer-1700-fluege-grossteil-der-passagiere-bereits-umgebucht-a-a5dd953a-6daa-4221-81d6-598ef8c21ca5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-usa-und-ukraine-tuerkei-und-schweden-witwenrente](https://www.spiegel.de/politik/deutschland/news-des-tages-usa-und-ukraine-tuerkei-und-schweden-witwenrente-a-fe55a214-a143-49d1-8dd1-cd0998ef3ff6#ref=rss)
-### schwedens
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-usa-und-ukraine-tuerkei-und-schweden-witwenrente](https://www.spiegel.de/politik/deutschland/news-des-tages-usa-und-ukraine-tuerkei-und-schweden-witwenrente-a-fe55a214-a143-49d1-8dd1-cd0998ef3ff6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-spd-will-nato-beitritt-schwedens-und-eu-tuerkei-frage-auseinanderhalten](https://www.spiegel.de/politik/deutschland/olaf-scholz-spd-will-nato-beitritt-schwedens-und-eu-tuerkei-frage-auseinanderhalten-a-c31326ba-f290-4e9b-a299-37d494519284#ref=rss)
-### europa
-
-* [https://www.spiegel.de/wirtschaft/bodenqualitaet-in-europa-bis-zu-70-prozent-der-wiesen-felder-und-aecker-sind-krank](https://www.spiegel.de/wirtschaft/bodenqualitaet-in-europa-bis-zu-70-prozent-der-wiesen-felder-und-aecker-sind-krank-a-12483cc9-bbbb-4a0b-8d56-433d25b9a295#ref=rss)
-* [https://www.spiegel.de/wissenschaft/klimawandel-mehr-als-60-000-menschen-sind-in-europa-wegen-hitze-gestorben](https://www.spiegel.de/wissenschaft/klimawandel-mehr-als-60-000-menschen-sind-in-europa-wegen-hitze-gestorben-a-b47edf7f-a8dd-49fd-9ab6-eaaf55b17b32#ref=rss)
-### joe
-
-* [https://www.spiegel.de/ausland/usa-grossbritannien-joe-biden-trifft-koenig-charles-iii](https://www.spiegel.de/ausland/usa-grossbritannien-joe-biden-trifft-koenig-charles-iii-a-c57d49b2-f8c5-4b8e-8b2f-aa5edcbf3cc5#ref=rss)
-* [https://www.spiegel.de/kultur/musik/rolling-loud-in-muenchen-ich-hatte-das-gefuehl-dass-die-security-ueberfordert-war](https://www.spiegel.de/kultur/musik/rolling-loud-in-muenchen-ich-hatte-das-gefuehl-dass-die-security-ueberfordert-war-a-b354ac1b-7991-4801-8c8e-4b73d47fe8db#ref=rss)
-### biden
-
-* [https://www.spiegel.de/ausland/usa-grossbritannien-joe-biden-trifft-koenig-charles-iii](https://www.spiegel.de/ausland/usa-grossbritannien-joe-biden-trifft-koenig-charles-iii-a-c57d49b2-f8c5-4b8e-8b2f-aa5edcbf3cc5#ref=rss)
-* [https://www.spiegel.de/kultur/musik/rolling-loud-in-muenchen-ich-hatte-das-gefuehl-dass-die-security-ueberfordert-war](https://www.spiegel.de/kultur/musik/rolling-loud-in-muenchen-ich-hatte-das-gefuehl-dass-die-security-ueberfordert-war-a-b354ac1b-7991-4801-8c8e-4b73d47fe8db#ref=rss)
-### könig
-
-* [https://www.spiegel.de/ausland/usa-grossbritannien-joe-biden-trifft-koenig-charles-iii](https://www.spiegel.de/ausland/usa-grossbritannien-joe-biden-trifft-koenig-charles-iii-a-c57d49b2-f8c5-4b8e-8b2f-aa5edcbf3cc5#ref=rss)
-### 2022
-
-* [https://www.spiegel.de/wissenschaft/klimawandel-mehr-als-60-000-menschen-sind-in-europa-wegen-hitze-gestorben](https://www.spiegel.de/wissenschaft/klimawandel-mehr-als-60-000-menschen-sind-in-europa-wegen-hitze-gestorben-a-b47edf7f-a8dd-49fd-9ab6-eaaf55b17b32#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/bruttorente-deutliche-unterschiede-zwischen-den-bundeslaendern](https://www.spiegel.de/wirtschaft/soziales/bruttorente-deutliche-unterschiede-zwischen-den-bundeslaendern-a-2cd05ab1-27a9-4ac5-b5d6-3a46dca4ce49#ref=rss)
-### nassar
-
-* [https://www.spiegel.de/sport/larry-nassar-sexualstraftaeter-und-ex-us-sportarzt-im-gefaengnis-niedergestochen](https://www.spiegel.de/sport/larry-nassar-sexualstraftaeter-und-ex-us-sportarzt-im-gefaengnis-niedergestochen-a-9184be39-fa5c-45a5-b3ec-edab7bed7bd8#ref=rss)
-### pamplona
-
-* [https://www.spiegel.de/panorama/pamplona-schon-22-verletzte-bei-stierhatz-in-den-ersten-tagen](https://www.spiegel.de/panorama/pamplona-schon-22-verletzte-bei-stierhatz-in-den-ersten-tagen-a-86d22028-8aae-48f8-8ff5-a0d2359b7182#ref=rss)
-### 22
-
-* [https://www.spiegel.de/panorama/pamplona-schon-22-verletzte-bei-stierhatz-in-den-ersten-tagen](https://www.spiegel.de/panorama/pamplona-schon-22-verletzte-bei-stierhatz-in-den-ersten-tagen-a-86d22028-8aae-48f8-8ff5-a0d2359b7182#ref=rss)
-### stierhatz
-
-* [https://www.spiegel.de/panorama/pamplona-schon-22-verletzte-bei-stierhatz-in-den-ersten-tagen](https://www.spiegel.de/panorama/pamplona-schon-22-verletzte-bei-stierhatz-in-den-ersten-tagen-a-86d22028-8aae-48f8-8ff5-a0d2359b7182#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/panorama/pamplona-schon-22-verletzte-bei-stierhatz-in-den-ersten-tagen](https://www.spiegel.de/panorama/pamplona-schon-22-verletzte-bei-stierhatz-in-den-ersten-tagen-a-86d22028-8aae-48f8-8ff5-a0d2359b7182#ref=rss)
-* [https://www.spiegel.de/sport/tennis/wimbledon-16-jahre-alte-mirra-andreeva-scheidet-im-achtelfinale-gegen-madison-keys-aus](https://www.spiegel.de/sport/tennis/wimbledon-16-jahre-alte-mirra-andreeva-scheidet-im-achtelfinale-gegen-madison-keys-aus-a-a0189e9c-a61d-4695-80c9-fcb277598b4d#ref=rss)
-### tagen
-
-* [https://www.spiegel.de/panorama/pamplona-schon-22-verletzte-bei-stierhatz-in-den-ersten-tagen](https://www.spiegel.de/panorama/pamplona-schon-22-verletzte-bei-stierhatz-in-den-ersten-tagen-a-86d22028-8aae-48f8-8ff5-a0d2359b7182#ref=rss)
-### männer
-
-* [https://www.spiegel.de/panorama/pamplona-schon-22-verletzte-bei-stierhatz-in-den-ersten-tagen](https://www.spiegel.de/panorama/pamplona-schon-22-verletzte-bei-stierhatz-in-den-ersten-tagen-a-86d22028-8aae-48f8-8ff5-a0d2359b7182#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/bruttorente-deutliche-unterschiede-zwischen-den-bundeslaendern](https://www.spiegel.de/wirtschaft/soziales/bruttorente-deutliche-unterschiede-zwischen-den-bundeslaendern-a-2cd05ab1-27a9-4ac5-b5d6-3a46dca4ce49#ref=rss)
-### kritiker
-
-* [https://www.spiegel.de/panorama/pamplona-schon-22-verletzte-bei-stierhatz-in-den-ersten-tagen](https://www.spiegel.de/panorama/pamplona-schon-22-verletzte-bei-stierhatz-in-den-ersten-tagen-a-86d22028-8aae-48f8-8ff5-a0d2359b7182#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/data-privacy-framework-eu-und-usa-haben-einen-neuen-datenpakt](https://www.spiegel.de/netzwelt/netzpolitik/data-privacy-framework-eu-und-usa-haben-einen-neuen-datenpakt-a-95d5315a-a3ed-4bcd-9008-62ec4c7c4ca5#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/nato-staaten-billigen-offenbar-neue-abwehrplaene-gegen-russland](https://www.spiegel.de/ausland/nato-staaten-billigen-offenbar-neue-abwehrplaene-gegen-russland-a-5eb96334-2a0a-4c50-8648-65e8e95f369a#ref=rss)
-* [https://www.spiegel.de/sport/larry-nassar-sexualstraftaeter-und-ex-us-sportarzt-im-gefaengnis-niedergestochen](https://www.spiegel.de/sport/larry-nassar-sexualstraftaeter-und-ex-us-sportarzt-im-gefaengnis-niedergestochen-a-9184be39-fa5c-45a5-b3ec-edab7bed7bd8#ref=rss)
-### neue
-
-* [https://www.spiegel.de/ausland/nato-staaten-billigen-offenbar-neue-abwehrplaene-gegen-russland](https://www.spiegel.de/ausland/nato-staaten-billigen-offenbar-neue-abwehrplaene-gegen-russland-a-5eb96334-2a0a-4c50-8648-65e8e95f369a#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/nato-staaten-billigen-offenbar-neue-abwehrplaene-gegen-russland](https://www.spiegel.de/ausland/nato-staaten-billigen-offenbar-neue-abwehrplaene-gegen-russland-a-5eb96334-2a0a-4c50-8648-65e8e95f369a#ref=rss)
-### nato
-
-* [https://www.spiegel.de/ausland/nato-staaten-billigen-offenbar-neue-abwehrplaene-gegen-russland](https://www.spiegel.de/ausland/nato-staaten-billigen-offenbar-neue-abwehrplaene-gegen-russland-a-5eb96334-2a0a-4c50-8648-65e8e95f369a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-spd-will-nato-beitritt-schwedens-und-eu-tuerkei-frage-auseinanderhalten](https://www.spiegel.de/politik/deutschland/olaf-scholz-spd-will-nato-beitritt-schwedens-und-eu-tuerkei-frage-auseinanderhalten-a-c31326ba-f290-4e9b-a299-37d494519284#ref=rss)
-### zufolge
-
-* [https://www.spiegel.de/ausland/nato-staaten-billigen-offenbar-neue-abwehrplaene-gegen-russland](https://www.spiegel.de/ausland/nato-staaten-billigen-offenbar-neue-abwehrplaene-gegen-russland-a-5eb96334-2a0a-4c50-8648-65e8e95f369a#ref=rss)
-* [https://www.spiegel.de/kultur/musik/rolling-loud-in-muenchen-ich-hatte-das-gefuehl-dass-die-security-ueberfordert-war](https://www.spiegel.de/kultur/musik/rolling-loud-in-muenchen-ich-hatte-das-gefuehl-dass-die-security-ueberfordert-war-a-b354ac1b-7991-4801-8c8e-4b73d47fe8db#ref=rss)
-### andere
-
-* [https://www.spiegel.de/ausland/nato-staaten-billigen-offenbar-neue-abwehrplaene-gegen-russland](https://www.spiegel.de/ausland/nato-staaten-billigen-offenbar-neue-abwehrplaene-gegen-russland-a-5eb96334-2a0a-4c50-8648-65e8e95f369a#ref=rss)
-* [https://www.spiegel.de/sport/tennis/wimbledon-novak-djokovic-und-jelena-rybakina-weiter-stefanos-tsitsipas-scheitert](https://www.spiegel.de/sport/tennis/wimbledon-novak-djokovic-und-jelena-rybakina-weiter-stefanos-tsitsipas-scheitert-a-ae510db5-d061-469a-ba13-d051f9fc8b0b#ref=rss)
-### niederlande
-
-* [https://www.spiegel.de/ausland/niederlande-warum-mark-rutte-nach-fast-13-jahren-seinen-rueckzug-ankuendigt](https://www.spiegel.de/ausland/niederlande-warum-mark-rutte-nach-fast-13-jahren-seinen-rueckzug-ankuendigt-a-c65727df-e007-445e-af6f-a0c463ab89a4#ref=rss)
-### mark
-
-* [https://www.spiegel.de/ausland/niederlande-warum-mark-rutte-nach-fast-13-jahren-seinen-rueckzug-ankuendigt](https://www.spiegel.de/ausland/niederlande-warum-mark-rutte-nach-fast-13-jahren-seinen-rueckzug-ankuendigt-a-c65727df-e007-445e-af6f-a0c463ab89a4#ref=rss)
-### rutte
-
-* [https://www.spiegel.de/ausland/niederlande-warum-mark-rutte-nach-fast-13-jahren-seinen-rueckzug-ankuendigt](https://www.spiegel.de/ausland/niederlande-warum-mark-rutte-nach-fast-13-jahren-seinen-rueckzug-ankuendigt-a-c65727df-e007-445e-af6f-a0c463ab89a4#ref=rss)
-### fast
-
-* [https://www.spiegel.de/ausland/niederlande-warum-mark-rutte-nach-fast-13-jahren-seinen-rueckzug-ankuendigt](https://www.spiegel.de/ausland/niederlande-warum-mark-rutte-nach-fast-13-jahren-seinen-rueckzug-ankuendigt-a-c65727df-e007-445e-af6f-a0c463ab89a4#ref=rss)
-### 13
-
-* [https://www.spiegel.de/ausland/niederlande-warum-mark-rutte-nach-fast-13-jahren-seinen-rueckzug-ankuendigt](https://www.spiegel.de/ausland/niederlande-warum-mark-rutte-nach-fast-13-jahren-seinen-rueckzug-ankuendigt-a-c65727df-e007-445e-af6f-a0c463ab89a4#ref=rss)
-### rückzug
-
-* [https://www.spiegel.de/ausland/niederlande-warum-mark-rutte-nach-fast-13-jahren-seinen-rueckzug-ankuendigt](https://www.spiegel.de/ausland/niederlande-warum-mark-rutte-nach-fast-13-jahren-seinen-rueckzug-ankuendigt-a-c65727df-e007-445e-af6f-a0c463ab89a4#ref=rss)
-### ende
-
-* [https://www.spiegel.de/ausland/niederlande-warum-mark-rutte-nach-fast-13-jahren-seinen-rueckzug-ankuendigt](https://www.spiegel.de/ausland/niederlande-warum-mark-rutte-nach-fast-13-jahren-seinen-rueckzug-ankuendigt-a-c65727df-e007-445e-af6f-a0c463ab89a4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/china-will-angeschlagenen-immobilienmarkt-staerker-stuetzen](https://www.spiegel.de/wirtschaft/china-will-angeschlagenen-immobilienmarkt-staerker-stuetzen-a-ee525fd1-9601-47d3-8e79-4c6770f9690d#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/ausland/niederlande-warum-mark-rutte-nach-fast-13-jahren-seinen-rueckzug-ankuendigt](https://www.spiegel.de/ausland/niederlande-warum-mark-rutte-nach-fast-13-jahren-seinen-rueckzug-ankuendigt-a-c65727df-e007-445e-af6f-a0c463ab89a4#ref=rss)
-* [https://www.spiegel.de/sport/tennis/wimbledon-2023-daenischer-tennis-star-holger-rune-es-kocht-ueber](https://www.spiegel.de/sport/tennis/wimbledon-2023-daenischer-tennis-star-holger-rune-es-kocht-ueber-a-008a4af2-df7e-4680-b3af-d785670e5e9d#ref=rss)
-### novak
-
-* [https://www.spiegel.de/sport/tennis/wimbledon-novak-djokovic-und-jelena-rybakina-weiter-stefanos-tsitsipas-scheitert](https://www.spiegel.de/sport/tennis/wimbledon-novak-djokovic-und-jelena-rybakina-weiter-stefanos-tsitsipas-scheitert-a-ae510db5-d061-469a-ba13-d051f9fc8b0b#ref=rss)
-### djoković
-
-* [https://www.spiegel.de/sport/tennis/wimbledon-novak-djokovic-und-jelena-rybakina-weiter-stefanos-tsitsipas-scheitert](https://www.spiegel.de/sport/tennis/wimbledon-novak-djokovic-und-jelena-rybakina-weiter-stefanos-tsitsipas-scheitert-a-ae510db5-d061-469a-ba13-d051f9fc8b0b#ref=rss)
-### rybakina
-
-* [https://www.spiegel.de/sport/tennis/wimbledon-novak-djokovic-und-jelena-rybakina-weiter-stefanos-tsitsipas-scheitert](https://www.spiegel.de/sport/tennis/wimbledon-novak-djokovic-und-jelena-rybakina-weiter-stefanos-tsitsipas-scheitert-a-ae510db5-d061-469a-ba13-d051f9fc8b0b#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/sport/tennis/wimbledon-novak-djokovic-und-jelena-rybakina-weiter-stefanos-tsitsipas-scheitert](https://www.spiegel.de/sport/tennis/wimbledon-novak-djokovic-und-jelena-rybakina-weiter-stefanos-tsitsipas-scheitert-a-ae510db5-d061-469a-ba13-d051f9fc8b0b#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/data-privacy-framework-eu-und-usa-haben-einen-neuen-datenpakt](https://www.spiegel.de/netzwelt/netzpolitik/data-privacy-framework-eu-und-usa-haben-einen-neuen-datenpakt-a-95d5315a-a3ed-4bcd-9008-62ec4c7c4ca5#ref=rss)
-### satz
-
-* [https://www.spiegel.de/sport/tennis/wimbledon-novak-djokovic-und-jelena-rybakina-weiter-stefanos-tsitsipas-scheitert](https://www.spiegel.de/sport/tennis/wimbledon-novak-djokovic-und-jelena-rybakina-weiter-stefanos-tsitsipas-scheitert-a-ae510db5-d061-469a-ba13-d051f9fc8b0b#ref=rss)
-* [https://www.spiegel.de/sport/tennis/wimbledon-16-jahre-alte-mirra-andreeva-scheidet-im-achtelfinale-gegen-madison-keys-aus](https://www.spiegel.de/sport/tennis/wimbledon-16-jahre-alte-mirra-andreeva-scheidet-im-achtelfinale-gegen-madison-keys-aus-a-a0189e9c-a61d-4695-80c9-fcb277598b4d#ref=rss)
-### krankenhausreform
-
-* [https://www.spiegel.de/wirtschaft/krankenhausreform-von-karl-lauterbach-so-warnt-ein-krankenhaus-chef-vor-den-risiken](https://www.spiegel.de/wirtschaft/krankenhausreform-von-karl-lauterbach-so-warnt-ein-krankenhaus-chef-vor-den-risiken-a-4b3b5d61-8555-4b19-a174-be519599295e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/krankenhausreform-gesundheitsminister-von-bund-und-laendern-einigen-sich](https://www.spiegel.de/politik/deutschland/krankenhausreform-gesundheitsminister-von-bund-und-laendern-einigen-sich-a-d4ae6262-63ba-4ed8-8c2b-16097bc6dc2b#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/wirtschaft/krankenhausreform-von-karl-lauterbach-so-warnt-ein-krankenhaus-chef-vor-den-risiken](https://www.spiegel.de/wirtschaft/krankenhausreform-von-karl-lauterbach-so-warnt-ein-krankenhaus-chef-vor-den-risiken-a-4b3b5d61-8555-4b19-a174-be519599295e#ref=rss)
-### risiken
-
-* [https://www.spiegel.de/wirtschaft/krankenhausreform-von-karl-lauterbach-so-warnt-ein-krankenhaus-chef-vor-den-risiken](https://www.spiegel.de/wirtschaft/krankenhausreform-von-karl-lauterbach-so-warnt-ein-krankenhaus-chef-vor-den-risiken-a-4b3b5d61-8555-4b19-a174-be519599295e#ref=rss)
-### bundesgerichtshof
-
-* [https://www.spiegel.de/wirtschaft/service/bundesgerichtshof-sieht-bei-thermofenster-haftung-von-autobauer-nicht-motorenhersteller](https://www.spiegel.de/wirtschaft/service/bundesgerichtshof-sieht-bei-thermofenster-haftung-von-autobauer-nicht-motorenhersteller-a-14c8372e-8c3f-4a5f-a5fc-d7635bd7b844#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/wirtschaft/service/bundesgerichtshof-sieht-bei-thermofenster-haftung-von-autobauer-nicht-motorenhersteller](https://www.spiegel.de/wirtschaft/service/bundesgerichtshof-sieht-bei-thermofenster-haftung-von-autobauer-nicht-motorenhersteller-a-14c8372e-8c3f-4a5f-a5fc-d7635bd7b844#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-spd-will-nato-beitritt-schwedens-und-eu-tuerkei-frage-auseinanderhalten](https://www.spiegel.de/politik/deutschland/olaf-scholz-spd-will-nato-beitritt-schwedens-und-eu-tuerkei-frage-auseinanderhalten-a-c31326ba-f290-4e9b-a299-37d494519284#ref=rss)
-### porsche
-
-* [https://www.spiegel.de/wirtschaft/service/bundesgerichtshof-sieht-bei-thermofenster-haftung-von-autobauer-nicht-motorenhersteller](https://www.spiegel.de/wirtschaft/service/bundesgerichtshof-sieht-bei-thermofenster-haftung-von-autobauer-nicht-motorenhersteller-a-14c8372e-8c3f-4a5f-a5fc-d7635bd7b844#ref=rss)
-### allein
-
-* [https://www.spiegel.de/wirtschaft/service/bundesgerichtshof-sieht-bei-thermofenster-haftung-von-autobauer-nicht-motorenhersteller](https://www.spiegel.de/wirtschaft/service/bundesgerichtshof-sieht-bei-thermofenster-haftung-von-autobauer-nicht-motorenhersteller-a-14c8372e-8c3f-4a5f-a5fc-d7635bd7b844#ref=rss)
-* [https://www.spiegel.de/wissenschaft/klimawandel-mehr-als-60-000-menschen-sind-in-europa-wegen-hitze-gestorben](https://www.spiegel.de/wissenschaft/klimawandel-mehr-als-60-000-menschen-sind-in-europa-wegen-hitze-gestorben-a-b47edf7f-a8dd-49fd-9ab6-eaaf55b17b32#ref=rss)
-### dienstwagen
-
-* [https://www.spiegel.de/auto/dienstwagen-sechs-von-neun-bundesministern-ueberschreiten-eu-flottengrenzwert](https://www.spiegel.de/auto/dienstwagen-sechs-von-neun-bundesministern-ueberschreiten-eu-flottengrenzwert-a-0e863dd9-be99-443f-8731-eaf68bc3b3d3#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/auto/dienstwagen-sechs-von-neun-bundesministern-ueberschreiten-eu-flottengrenzwert](https://www.spiegel.de/auto/dienstwagen-sechs-von-neun-bundesministern-ueberschreiten-eu-flottengrenzwert-a-0e863dd9-be99-443f-8731-eaf68bc3b3d3#ref=rss)
-* [https://www.spiegel.de/sport/tennis/wimbledon-2023-daenischer-tennis-star-holger-rune-es-kocht-ueber](https://www.spiegel.de/sport/tennis/wimbledon-2023-daenischer-tennis-star-holger-rune-es-kocht-ueber-a-008a4af2-df7e-4680-b3af-d785670e5e9d#ref=rss)
-### laut
-
-* [https://www.spiegel.de/auto/dienstwagen-sechs-von-neun-bundesministern-ueberschreiten-eu-flottengrenzwert](https://www.spiegel.de/auto/dienstwagen-sechs-von-neun-bundesministern-ueberschreiten-eu-flottengrenzwert-a-0e863dd9-be99-443f-8731-eaf68bc3b3d3#ref=rss)
-* [https://www.spiegel.de/wissenschaft/klimawandel-mehr-als-60-000-menschen-sind-in-europa-wegen-hitze-gestorben](https://www.spiegel.de/wissenschaft/klimawandel-mehr-als-60-000-menschen-sind-in-europa-wegen-hitze-gestorben-a-b47edf7f-a8dd-49fd-9ab6-eaaf55b17b32#ref=rss)
-### bleibt
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/data-privacy-framework-eu-und-usa-haben-einen-neuen-datenpakt](https://www.spiegel.de/netzwelt/netzpolitik/data-privacy-framework-eu-und-usa-haben-einen-neuen-datenpakt-a-95d5315a-a3ed-4bcd-9008-62ec4c7c4ca5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-usa-und-ukraine-tuerkei-und-schweden-witwenrente](https://www.spiegel.de/politik/deutschland/news-des-tages-usa-und-ukraine-tuerkei-und-schweden-witwenrente-a-fe55a214-a143-49d1-8dd1-cd0998ef3ff6#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-sicherheitsexperte-benjamin-tallis-fordert-nato-mitgliedschaft-fuer-die-ukraine](https://www.spiegel.de/ausland/ukraine-sicherheitsexperte-benjamin-tallis-fordert-nato-mitgliedschaft-fuer-die-ukraine-a-5b99475d-456e-40e3-966e-556380a0d83c#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-news-heute-wolodymyr-selenskyj-sieht-die-ukraine-auf-nato-kurs-und-aeussert-hohe-erwartungen-an-den-gipfel-in-vilnius](https://www.spiegel.de/ausland/russland-ukraine-news-heute-wolodymyr-selenskyj-sieht-die-ukraine-auf-nato-kurs-und-aeussert-hohe-erwartungen-an-den-gipfel-in-vilnius-a-a0240d3f-80e7-45ff-b52d-3feb468a626c#ref=rss)
+* [https://www.spiegel.de/ausland/nato-gipfel-in-vilnius-keine-nato-einladung-fuer-die-ukraine-aber-ein-deutliches-signal](https://www.spiegel.de/ausland/nato-gipfel-in-vilnius-keine-nato-einladung-fuer-die-ukraine-aber-ein-deutliches-signal-a-a488742b-ef60-49c1-87b0-d63c4a588d45#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-berlin-will-weitere-waffen-fuer-rund-600-millionen-euro-liefern](https://www.spiegel.de/politik/deutschland/ukraine-berlin-will-weitere-waffen-fuer-rund-600-millionen-euro-liefern-a-84a1d66b-5e47-47a3-a465-362f27c458cc#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/deutschland-und-frankreich-rettungsmission-fuer-den-kampfpanzer-der-zukunft](https://www.spiegel.de/politik/deutschland/deutschland-und-frankreich-rettungsmission-fuer-den-kampfpanzer-der-zukunft-a-558696c5-b63f-4239-9905-55b6c6dfe519#ref=rss)
-* [https://www.spiegel.de/wissenschaft/klimawandel-mehr-als-60-000-menschen-sind-in-europa-wegen-hitze-gestorben](https://www.spiegel.de/wissenschaft/klimawandel-mehr-als-60-000-menschen-sind-in-europa-wegen-hitze-gestorben-a-b47edf7f-a8dd-49fd-9ab6-eaaf55b17b32#ref=rss)
-### berlin
+* [https://www.spiegel.de/wirtschaft/soziales/oecd-studie-gewinne-steigen-in-deutschland-besonders-stark](https://www.spiegel.de/wirtschaft/soziales/oecd-studie-gewinne-steigen-in-deutschland-besonders-stark-a-9ce0a663-d573-4ed3-9072-d6c7cf4769bb#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/thailand-ermittler-entdecken-zerstueckelte-leiche-von-deutschem-geschaeftsmann-in-gefriertruhe](https://www.spiegel.de/panorama/justiz/thailand-ermittler-entdecken-zerstueckelte-leiche-von-deutschem-geschaeftsmann-in-gefriertruhe-a-46ece53e-c17a-4cef-a258-06b9882b205b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/hitze-und-beton-wie-kuehlen-wir-staedte](https://www.spiegel.de/wissenschaft/mensch/hitze-und-beton-wie-kuehlen-wir-staedte-a-01b5144d-6dfd-4e3d-aff5-9f6b14179c0f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/steuer-rente-krankenkasse-milliarden-subventionen-fuer-die-alleinverdiener-ehe](https://www.spiegel.de/wirtschaft/soziales/steuer-rente-krankenkasse-milliarden-subventionen-fuer-die-alleinverdiener-ehe-a-87998de5-2675-4c3d-986a-21a4a2711cb5#ref=rss)
+* [https://www.spiegel.de/karriere/warum-deutschland-auslaendische-fachkraefte-ungluecklich-macht-umfrage-unter-expat](https://www.spiegel.de/karriere/warum-deutschland-auslaendische-fachkraefte-ungluecklich-macht-umfrage-unter-expat-a-2951872a-0505-4a0a-85aa-55bbc4475420#ref=rss)
+### viele
 
-* [https://www.spiegel.de/politik/deutschland/deutschland-und-frankreich-rettungsmission-fuer-den-kampfpanzer-der-zukunft](https://www.spiegel.de/politik/deutschland/deutschland-und-frankreich-rettungsmission-fuer-den-kampfpanzer-der-zukunft-a-558696c5-b63f-4239-9905-55b6c6dfe519#ref=rss)
-* [https://www.spiegel.de/stil/fashion-week-in-berlin-kann-man-mode-machen-aber-nicht-davon-leben](https://www.spiegel.de/stil/fashion-week-in-berlin-kann-man-mode-machen-aber-nicht-davon-leben-a-69d1d007-1c07-4a51-8292-5a3459e797f0#ref=rss)
-### paris
+* [https://www.spiegel.de/netzwelt/netzpolitik/onlinehandel-was-ist-eine-fuenf-sterne-bewertung-wert](https://www.spiegel.de/netzwelt/netzpolitik/onlinehandel-was-ist-eine-fuenf-sterne-bewertung-wert-a-6c3b9d93-ea53-4906-83c9-a634c8f9ed5f#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/zeitlimit-fuer-apps-setzen-auf-dem-iphone-oder-unter-android-so-leicht-geht-das](https://www.spiegel.de/netzwelt/gadgets/zeitlimit-fuer-apps-setzen-auf-dem-iphone-oder-unter-android-so-leicht-geht-das-a-82d103a8-667a-40e1-a1d3-1536bb177e1a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/start-ups-wieder-mehr-gruendungen-im-ersten-halbjahr-2023](https://www.spiegel.de/wirtschaft/unternehmen/start-ups-wieder-mehr-gruendungen-im-ersten-halbjahr-2023-a-1b1faba4-b2cc-4143-8b50-1719cf5c5cba#ref=rss)
+* [https://www.spiegel.de/karriere/warum-deutschland-auslaendische-fachkraefte-ungluecklich-macht-umfrage-unter-expat](https://www.spiegel.de/karriere/warum-deutschland-auslaendische-fachkraefte-ungluecklich-macht-umfrage-unter-expat-a-2951872a-0505-4a0a-85aa-55bbc4475420#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/politik/deutschland/deutschland-und-frankreich-rettungsmission-fuer-den-kampfpanzer-der-zukunft](https://www.spiegel.de/politik/deutschland/deutschland-und-frankreich-rettungsmission-fuer-den-kampfpanzer-der-zukunft-a-558696c5-b63f-4239-9905-55b6c6dfe519#ref=rss)
-* [https://www.spiegel.de/stil/fashion-week-in-berlin-kann-man-mode-machen-aber-nicht-davon-leben](https://www.spiegel.de/stil/fashion-week-in-berlin-kann-man-mode-machen-aber-nicht-davon-leben-a-69d1d007-1c07-4a51-8292-5a3459e797f0#ref=rss)
-### easyjet
+* [https://www.spiegel.de/wissenschaft/puerto-rico-gleichgeschlechtlicher-sex-bringt-rhesusaffen-vorteile](https://www.spiegel.de/wissenschaft/puerto-rico-gleichgeschlechtlicher-sex-bringt-rhesusaffen-vorteile-a-af67540b-3f14-4050-97ef-b1fdf71c6123#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/hitze-und-beton-wie-kuehlen-wir-staedte](https://www.spiegel.de/wissenschaft/mensch/hitze-und-beton-wie-kuehlen-wir-staedte-a-01b5144d-6dfd-4e3d-aff5-9f6b14179c0f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/start-ups-wieder-mehr-gruendungen-im-ersten-halbjahr-2023](https://www.spiegel.de/wirtschaft/unternehmen/start-ups-wieder-mehr-gruendungen-im-ersten-halbjahr-2023-a-1b1faba4-b2cc-4143-8b50-1719cf5c5cba#ref=rss)
+### fordert
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/easyjet-streicht-diesen-sommer-1700-fluege-grossteil-der-passagiere-bereits-umgebucht](https://www.spiegel.de/wirtschaft/unternehmen/easyjet-streicht-diesen-sommer-1700-fluege-grossteil-der-passagiere-bereits-umgebucht-a-a5dd953a-6daa-4221-81d6-598ef8c21ca5#ref=rss)
-### streicht
+* [https://www.spiegel.de/ausland/ukraine-sicherheitsexperte-benjamin-tallis-fordert-nato-mitgliedschaft-fuer-die-ukraine](https://www.spiegel.de/ausland/ukraine-sicherheitsexperte-benjamin-tallis-fordert-nato-mitgliedschaft-fuer-die-ukraine-a-5b99475d-456e-40e3-966e-556380a0d83c#ref=rss)
+* [https://www.spiegel.de/kultur/antisemitismus-vorwurf-gegen-ska-band](https://www.spiegel.de/kultur/antisemitismus-vorwurf-gegen-ska-band-a-4c004557-ffce-45e4-8792-dd240adf22e4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/prime-day-bei-amazon-ver-di-ruft-beschaeftigte-zu-warnstreik-auf](https://www.spiegel.de/wirtschaft/unternehmen/prime-day-bei-amazon-ver-di-ruft-beschaeftigte-zu-warnstreik-auf-a-3d536665-4397-4e43-b71c-e13b5abff805#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/easyjet-streicht-diesen-sommer-1700-fluege-grossteil-der-passagiere-bereits-umgebucht](https://www.spiegel.de/wirtschaft/unternehmen/easyjet-streicht-diesen-sommer-1700-fluege-grossteil-der-passagiere-bereits-umgebucht-a-a5dd953a-6daa-4221-81d6-598ef8c21ca5#ref=rss)
-### 1700
+* [https://www.spiegel.de/wissenschaft/klimawandel-erste-juliwoche-war-die-waermste-je-gemessene-woche](https://www.spiegel.de/wissenschaft/klimawandel-erste-juliwoche-war-die-waermste-je-gemessene-woche-a-7441e2aa-60a1-4a12-8cb3-a3bfd59ca95b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/start-ups-wieder-mehr-gruendungen-im-ersten-halbjahr-2023](https://www.spiegel.de/wirtschaft/unternehmen/start-ups-wieder-mehr-gruendungen-im-ersten-halbjahr-2023-a-1b1faba4-b2cc-4143-8b50-1719cf5c5cba#ref=rss)
+* [https://www.spiegel.de/ausland/superhitze-in-mexiko-als-wuerde-man-mit-feuerbaellen-beworfen](https://www.spiegel.de/ausland/superhitze-in-mexiko-als-wuerde-man-mit-feuerbaellen-beworfen-a-3880e604-6a0a-4d09-a389-93dfdc8e8782#ref=rss)
+### unter
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/easyjet-streicht-diesen-sommer-1700-fluege-grossteil-der-passagiere-bereits-umgebucht](https://www.spiegel.de/wirtschaft/unternehmen/easyjet-streicht-diesen-sommer-1700-fluege-grossteil-der-passagiere-bereits-umgebucht-a-a5dd953a-6daa-4221-81d6-598ef8c21ca5#ref=rss)
-### großteil
+* [https://www.spiegel.de/wissenschaft/puerto-rico-gleichgeschlechtlicher-sex-bringt-rhesusaffen-vorteile](https://www.spiegel.de/wissenschaft/puerto-rico-gleichgeschlechtlicher-sex-bringt-rhesusaffen-vorteile-a-af67540b-3f14-4050-97ef-b1fdf71c6123#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/zeitlimit-fuer-apps-setzen-auf-dem-iphone-oder-unter-android-so-leicht-geht-das](https://www.spiegel.de/netzwelt/gadgets/zeitlimit-fuer-apps-setzen-auf-dem-iphone-oder-unter-android-so-leicht-geht-das-a-82d103a8-667a-40e1-a1d3-1536bb177e1a#ref=rss)
+* [https://www.spiegel.de/karriere/warum-deutschland-auslaendische-fachkraefte-ungluecklich-macht-umfrage-unter-expat](https://www.spiegel.de/karriere/warum-deutschland-auslaendische-fachkraefte-ungluecklich-macht-umfrage-unter-expat-a-2951872a-0505-4a0a-85aa-55bbc4475420#ref=rss)
+### liefern
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/easyjet-streicht-diesen-sommer-1700-fluege-grossteil-der-passagiere-bereits-umgebucht](https://www.spiegel.de/wirtschaft/unternehmen/easyjet-streicht-diesen-sommer-1700-fluege-grossteil-der-passagiere-bereits-umgebucht-a-a5dd953a-6daa-4221-81d6-598ef8c21ca5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/ahrtal-flutkatastrophe-versicherer-haben-bisher-6-7-milliarden-euro-ausgezahlt](https://www.spiegel.de/wirtschaft/service/ahrtal-flutkatastrophe-versicherer-haben-bisher-6-7-milliarden-euro-ausgezahlt-a-3c75e3a2-63c0-4edc-b118-83dfe957122f#ref=rss)
-### passagiere
+* [https://www.spiegel.de/ausland/russland-ukraine-news-heute-wolodymyr-selenskyj-sieht-die-ukraine-auf-nato-kurs-und-aeussert-hohe-erwartungen-an-den-gipfel-in-vilnius](https://www.spiegel.de/ausland/russland-ukraine-news-heute-wolodymyr-selenskyj-sieht-die-ukraine-auf-nato-kurs-und-aeussert-hohe-erwartungen-an-den-gipfel-in-vilnius-a-a0240d3f-80e7-45ff-b52d-3feb468a626c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-berlin-will-weitere-waffen-fuer-rund-600-millionen-euro-liefern](https://www.spiegel.de/politik/deutschland/ukraine-berlin-will-weitere-waffen-fuer-rund-600-millionen-euro-liefern-a-84a1d66b-5e47-47a3-a465-362f27c458cc#ref=rss)
+### städte
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/easyjet-streicht-diesen-sommer-1700-fluege-grossteil-der-passagiere-bereits-umgebucht](https://www.spiegel.de/wirtschaft/unternehmen/easyjet-streicht-diesen-sommer-1700-fluege-grossteil-der-passagiere-bereits-umgebucht-a-a5dd953a-6daa-4221-81d6-598ef8c21ca5#ref=rss)
-### schweden
+* [https://www.spiegel.de/wissenschaft/mensch/hitze-und-beton-wie-kuehlen-wir-staedte](https://www.spiegel.de/wissenschaft/mensch/hitze-und-beton-wie-kuehlen-wir-staedte-a-01b5144d-6dfd-4e3d-aff5-9f6b14179c0f#ref=rss)
+* [https://www.spiegel.de/panorama/griechenland-hitzewelle-in-weiten-teilen-des-45-grad-in-athen-erwartet](https://www.spiegel.de/panorama/griechenland-hitzewelle-in-weiten-teilen-des-45-grad-in-athen-erwartet-a-2e18baa7-4b8d-48fc-87e0-9a207d225d70#ref=rss)
+### euro
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-usa-und-ukraine-tuerkei-und-schweden-witwenrente](https://www.spiegel.de/politik/deutschland/news-des-tages-usa-und-ukraine-tuerkei-und-schweden-witwenrente-a-fe55a214-a143-49d1-8dd1-cd0998ef3ff6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-spd-will-nato-beitritt-schwedens-und-eu-tuerkei-frage-auseinanderhalten](https://www.spiegel.de/politik/deutschland/olaf-scholz-spd-will-nato-beitritt-schwedens-und-eu-tuerkei-frage-auseinanderhalten-a-c31326ba-f290-4e9b-a299-37d494519284#ref=rss)
-### witwenrente
+* [https://www.spiegel.de/wirtschaft/soziales/steuer-rente-krankenkasse-milliarden-subventionen-fuer-die-alleinverdiener-ehe](https://www.spiegel.de/wirtschaft/soziales/steuer-rente-krankenkasse-milliarden-subventionen-fuer-die-alleinverdiener-ehe-a-87998de5-2675-4c3d-986a-21a4a2711cb5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-berlin-will-weitere-waffen-fuer-rund-600-millionen-euro-liefern](https://www.spiegel.de/politik/deutschland/ukraine-berlin-will-weitere-waffen-fuer-rund-600-millionen-euro-liefern-a-84a1d66b-5e47-47a3-a465-362f27c458cc#ref=rss)
+### ohne
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-usa-und-ukraine-tuerkei-und-schweden-witwenrente](https://www.spiegel.de/politik/deutschland/news-des-tages-usa-und-ukraine-tuerkei-und-schweden-witwenrente-a-fe55a214-a143-49d1-8dd1-cd0998ef3ff6#ref=rss)
-### erdoğan
+* [https://www.spiegel.de/netzwelt/gadgets/zeitlimit-fuer-apps-setzen-auf-dem-iphone-oder-unter-android-so-leicht-geht-das](https://www.spiegel.de/netzwelt/gadgets/zeitlimit-fuer-apps-setzen-auf-dem-iphone-oder-unter-android-so-leicht-geht-das-a-82d103a8-667a-40e1-a1d3-1536bb177e1a#ref=rss)
+* [https://www.spiegel.de/panorama/leute/tom-holland-ueber-alkohol-abstinenz-das-beste-was-ich-je-getan-habe](https://www.spiegel.de/panorama/leute/tom-holland-ueber-alkohol-abstinenz-das-beste-was-ich-je-getan-habe-a-a5e813ff-0561-43d9-becf-d07a2cd0bacb#ref=rss)
+* [https://www.spiegel.de/wissenschaft/viagra-bald-ohne-rezept-erhaeltlich-kommission-beraet-ueber-verschreibungspflicht](https://www.spiegel.de/wissenschaft/viagra-bald-ohne-rezept-erhaeltlich-kommission-beraet-ueber-verschreibungspflicht-a-dbce8002-81ae-4044-9b28-81de6fa49b59#ref=rss)
+### millionen
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-usa-und-ukraine-tuerkei-und-schweden-witwenrente](https://www.spiegel.de/politik/deutschland/news-des-tages-usa-und-ukraine-tuerkei-und-schweden-witwenrente-a-fe55a214-a143-49d1-8dd1-cd0998ef3ff6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-spd-will-nato-beitritt-schwedens-und-eu-tuerkei-frage-auseinanderhalten](https://www.spiegel.de/politik/deutschland/olaf-scholz-spd-will-nato-beitritt-schwedens-und-eu-tuerkei-frage-auseinanderhalten-a-c31326ba-f290-4e9b-a299-37d494519284#ref=rss)
-### natomitgliedschaft
+* [https://www.spiegel.de/politik/deutschland/ukraine-berlin-will-weitere-waffen-fuer-rund-600-millionen-euro-liefern](https://www.spiegel.de/politik/deutschland/ukraine-berlin-will-weitere-waffen-fuer-rund-600-millionen-euro-liefern-a-84a1d66b-5e47-47a3-a465-362f27c458cc#ref=rss)
+* [https://www.spiegel.de/karriere/warum-deutschland-auslaendische-fachkraefte-ungluecklich-macht-umfrage-unter-expat](https://www.spiegel.de/karriere/warum-deutschland-auslaendische-fachkraefte-ungluecklich-macht-umfrage-unter-expat-a-2951872a-0505-4a0a-85aa-55bbc4475420#ref=rss)
+### gewinne
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-usa-und-ukraine-tuerkei-und-schweden-witwenrente](https://www.spiegel.de/politik/deutschland/news-des-tages-usa-und-ukraine-tuerkei-und-schweden-witwenrente-a-fe55a214-a143-49d1-8dd1-cd0998ef3ff6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-spd-will-nato-beitritt-schwedens-und-eu-tuerkei-frage-auseinanderhalten](https://www.spiegel.de/politik/deutschland/olaf-scholz-spd-will-nato-beitritt-schwedens-und-eu-tuerkei-frage-auseinanderhalten-a-c31326ba-f290-4e9b-a299-37d494519284#ref=rss)
-### besorgt
+* [https://www.spiegel.de/wirtschaft/soziales/oecd-studie-gewinne-steigen-in-deutschland-besonders-stark](https://www.spiegel.de/wirtschaft/soziales/oecd-studie-gewinne-steigen-in-deutschland-besonders-stark-a-9ce0a663-d573-4ed3-9072-d6c7cf4769bb#ref=rss)
+### europa
 
-* [https://www.spiegel.de/wirtschaft/rohstoffabbau-am-meeresboden-frist-fuer-regelung-abgelaufen](https://www.spiegel.de/wirtschaft/rohstoffabbau-am-meeresboden-frist-fuer-regelung-abgelaufen-a-41fa5ac6-35ac-4e22-998a-c80b4dca8a6c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/robert-sesselmann-afd-warb-in-grundschule-fuer-seine-partei](https://www.spiegel.de/politik/deutschland/robert-sesselmann-afd-warb-in-grundschule-fuer-seine-partei-a-69f4b394-3c99-43a8-8910-8a54af90863c#ref=rss)
-### felder
+* [https://www.spiegel.de/wirtschaft/soziales/oecd-studie-gewinne-steigen-in-deutschland-besonders-stark](https://www.spiegel.de/wirtschaft/soziales/oecd-studie-gewinne-steigen-in-deutschland-besonders-stark-a-9ce0a663-d573-4ed3-9072-d6c7cf4769bb#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/hitze-und-beton-wie-kuehlen-wir-staedte](https://www.spiegel.de/wissenschaft/mensch/hitze-und-beton-wie-kuehlen-wir-staedte-a-01b5144d-6dfd-4e3d-aff5-9f6b14179c0f#ref=rss)
+### new
 
-* [https://www.spiegel.de/wirtschaft/bodenqualitaet-in-europa-bis-zu-70-prozent-der-wiesen-felder-und-aecker-sind-krank](https://www.spiegel.de/wirtschaft/bodenqualitaet-in-europa-bis-zu-70-prozent-der-wiesen-felder-und-aecker-sind-krank-a-12483cc9-bbbb-4a0b-8d56-433d25b9a295#ref=rss)
-### mathias
+* [https://www.spiegel.de/panorama/new-york-usa-starke-flut-ist-ein-jahrtausend-ereignis](https://www.spiegel.de/panorama/new-york-usa-starke-flut-ist-ein-jahrtausend-ereignis-a-bb7fe198-96d5-4c2f-bcf1-8c50203c9292#ref=rss)
+### usa
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/mathias-doepfner-geht-juristisch-gegen-bericht-ueber-seine-geburtstagsparty-vor](https://www.spiegel.de/wirtschaft/unternehmen/mathias-doepfner-geht-juristisch-gegen-bericht-ueber-seine-geburtstagsparty-vor-a-afdac0e8-4897-4f06-a6d6-498947b00dd9#ref=rss)
-### döpfner
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/mathias-doepfner-geht-juristisch-gegen-bericht-ueber-seine-geburtstagsparty-vor](https://www.spiegel.de/wirtschaft/unternehmen/mathias-doepfner-geht-juristisch-gegen-bericht-ueber-seine-geburtstagsparty-vor-a-afdac0e8-4897-4f06-a6d6-498947b00dd9#ref=rss)
-### sesselmann
-
-* [https://www.spiegel.de/politik/deutschland/robert-sesselmann-afd-warb-in-grundschule-fuer-seine-partei](https://www.spiegel.de/politik/deutschland/robert-sesselmann-afd-warb-in-grundschule-fuer-seine-partei-a-69f4b394-3c99-43a8-8910-8a54af90863c#ref=rss)
-### grundschule
-
-* [https://www.spiegel.de/politik/deutschland/robert-sesselmann-afd-warb-in-grundschule-fuer-seine-partei](https://www.spiegel.de/politik/deutschland/robert-sesselmann-afd-warb-in-grundschule-fuer-seine-partei-a-69f4b394-3c99-43a8-8910-8a54af90863c#ref=rss)
-### richtigen
-
-* [https://www.spiegel.de/politik/deutschland/robert-sesselmann-afd-warb-in-grundschule-fuer-seine-partei](https://www.spiegel.de/politik/deutschland/robert-sesselmann-afd-warb-in-grundschule-fuer-seine-partei-a-69f4b394-3c99-43a8-8910-8a54af90863c#ref=rss)
-* [https://www.spiegel.de/sport/tennis/wimbledon-2023-daenischer-tennis-star-holger-rune-es-kocht-ueber](https://www.spiegel.de/sport/tennis/wimbledon-2023-daenischer-tennis-star-holger-rune-es-kocht-ueber-a-008a4af2-df7e-4680-b3af-d785670e5e9d#ref=rss)
-### lindner
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/christian-lindner-will-wegen-mindeststeuer-die-lizenzschranke-abschaffen](https://www.spiegel.de/wirtschaft/unternehmen/christian-lindner-will-wegen-mindeststeuer-die-lizenzschranke-abschaffen-a-101ebee1-ca7e-45e6-8ea9-5025ac6b6a4a#ref=rss)
-### lizenzschranke
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/christian-lindner-will-wegen-mindeststeuer-die-lizenzschranke-abschaffen](https://www.spiegel.de/wirtschaft/unternehmen/christian-lindner-will-wegen-mindeststeuer-die-lizenzschranke-abschaffen-a-101ebee1-ca7e-45e6-8ea9-5025ac6b6a4a#ref=rss)
-### abschaffen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/christian-lindner-will-wegen-mindeststeuer-die-lizenzschranke-abschaffen](https://www.spiegel.de/wirtschaft/unternehmen/christian-lindner-will-wegen-mindeststeuer-die-lizenzschranke-abschaffen-a-101ebee1-ca7e-45e6-8ea9-5025ac6b6a4a#ref=rss)
-### milliarden
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/christian-lindner-will-wegen-mindeststeuer-die-lizenzschranke-abschaffen](https://www.spiegel.de/wirtschaft/unternehmen/christian-lindner-will-wegen-mindeststeuer-die-lizenzschranke-abschaffen-a-101ebee1-ca7e-45e6-8ea9-5025ac6b6a4a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/ahrtal-flutkatastrophe-versicherer-haben-bisher-6-7-milliarden-euro-ausgezahlt](https://www.spiegel.de/wirtschaft/service/ahrtal-flutkatastrophe-versicherer-haben-bisher-6-7-milliarden-euro-ausgezahlt-a-3c75e3a2-63c0-4edc-b118-83dfe957122f#ref=rss)
-### sogenannte
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/christian-lindner-will-wegen-mindeststeuer-die-lizenzschranke-abschaffen](https://www.spiegel.de/wirtschaft/unternehmen/christian-lindner-will-wegen-mindeststeuer-die-lizenzschranke-abschaffen-a-101ebee1-ca7e-45e6-8ea9-5025ac6b6a4a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/krankenhausreform-gesundheitsminister-von-bund-und-laendern-einigen-sich](https://www.spiegel.de/politik/deutschland/krankenhausreform-gesundheitsminister-von-bund-und-laendern-einigen-sich-a-d4ae6262-63ba-4ed8-8c2b-16097bc6dc2b#ref=rss)
-### trifft
-
-* [https://www.spiegel.de/ausland/usa-grossbritannien-joe-biden-trifft-koenig-charles-iii](https://www.spiegel.de/ausland/usa-grossbritannien-joe-biden-trifft-koenig-charles-iii-a-c57d49b2-f8c5-4b8e-8b2f-aa5edcbf3cc5#ref=rss)
-### charles
-
-* [https://www.spiegel.de/ausland/usa-grossbritannien-joe-biden-trifft-koenig-charles-iii](https://www.spiegel.de/ausland/usa-grossbritannien-joe-biden-trifft-koenig-charles-iii-a-c57d49b2-f8c5-4b8e-8b2f-aa5edcbf3cc5#ref=rss)
-### iii
-
-* [https://www.spiegel.de/ausland/usa-grossbritannien-joe-biden-trifft-koenig-charles-iii](https://www.spiegel.de/ausland/usa-grossbritannien-joe-biden-trifft-koenig-charles-iii-a-c57d49b2-f8c5-4b8e-8b2f-aa5edcbf3cc5#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/usa-grossbritannien-joe-biden-trifft-koenig-charles-iii](https://www.spiegel.de/ausland/usa-grossbritannien-joe-biden-trifft-koenig-charles-iii-a-c57d49b2-f8c5-4b8e-8b2f-aa5edcbf3cc5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-spd-will-nato-beitritt-schwedens-und-eu-tuerkei-frage-auseinanderhalten](https://www.spiegel.de/politik/deutschland/olaf-scholz-spd-will-nato-beitritt-schwedens-und-eu-tuerkei-frage-auseinanderhalten-a-c31326ba-f290-4e9b-a299-37d494519284#ref=rss)
-### london
-
-* [https://www.spiegel.de/ausland/usa-grossbritannien-joe-biden-trifft-koenig-charles-iii](https://www.spiegel.de/ausland/usa-grossbritannien-joe-biden-trifft-koenig-charles-iii-a-c57d49b2-f8c5-4b8e-8b2f-aa5edcbf3cc5#ref=rss)
-* [https://www.spiegel.de/sport/tennis/wimbledon-16-jahre-alte-mirra-andreeva-scheidet-im-achtelfinale-gegen-madison-keys-aus](https://www.spiegel.de/sport/tennis/wimbledon-16-jahre-alte-mirra-andreeva-scheidet-im-achtelfinale-gegen-madison-keys-aus-a-a0189e9c-a61d-4695-80c9-fcb277598b4d#ref=rss)
+* [https://www.spiegel.de/panorama/new-york-usa-starke-flut-ist-ein-jahrtausend-ereignis](https://www.spiegel.de/panorama/new-york-usa-starke-flut-ist-ein-jahrtausend-ereignis-a-bb7fe198-96d5-4c2f-bcf1-8c50203c9292#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/wissenschaft/klimawandel-mehr-als-60-000-menschen-sind-in-europa-wegen-hitze-gestorben](https://www.spiegel.de/wissenschaft/klimawandel-mehr-als-60-000-menschen-sind-in-europa-wegen-hitze-gestorben-a-b47edf7f-a8dd-49fd-9ab6-eaaf55b17b32#ref=rss)
-### geführt
+* [https://www.spiegel.de/panorama/new-york-usa-starke-flut-ist-ein-jahrtausend-ereignis](https://www.spiegel.de/panorama/new-york-usa-starke-flut-ist-ein-jahrtausend-ereignis-a-bb7fe198-96d5-4c2f-bcf1-8c50203c9292#ref=rss)
+* [https://www.spiegel.de/ausland/superhitze-in-mexiko-als-wuerde-man-mit-feuerbaellen-beworfen](https://www.spiegel.de/ausland/superhitze-in-mexiko-als-wuerde-man-mit-feuerbaellen-beworfen-a-3880e604-6a0a-4d09-a389-93dfdc8e8782#ref=rss)
+### extreme
 
-* [https://www.spiegel.de/wissenschaft/klimawandel-mehr-als-60-000-menschen-sind-in-europa-wegen-hitze-gestorben](https://www.spiegel.de/wissenschaft/klimawandel-mehr-als-60-000-menschen-sind-in-europa-wegen-hitze-gestorben-a-b47edf7f-a8dd-49fd-9ab6-eaaf55b17b32#ref=rss)
-* [https://www.spiegel.de/wirtschaft/china-will-angeschlagenen-immobilienmarkt-staerker-stuetzen](https://www.spiegel.de/wirtschaft/china-will-angeschlagenen-immobilienmarkt-staerker-stuetzen-a-ee525fd1-9601-47d3-8e79-4c6770f9690d#ref=rss)
-### scholz
+* [https://www.spiegel.de/panorama/new-york-usa-starke-flut-ist-ein-jahrtausend-ereignis](https://www.spiegel.de/panorama/new-york-usa-starke-flut-ist-ein-jahrtausend-ereignis-a-bb7fe198-96d5-4c2f-bcf1-8c50203c9292#ref=rss)
+* [https://www.spiegel.de/panorama/griechenland-hitzewelle-in-weiten-teilen-des-45-grad-in-athen-erwartet](https://www.spiegel.de/panorama/griechenland-hitzewelle-in-weiten-teilen-des-45-grad-in-athen-erwartet-a-2e18baa7-4b8d-48fc-87e0-9a207d225d70#ref=rss)
+### warnt
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-spd-will-nato-beitritt-schwedens-und-eu-tuerkei-frage-auseinanderhalten](https://www.spiegel.de/politik/deutschland/olaf-scholz-spd-will-nato-beitritt-schwedens-und-eu-tuerkei-frage-auseinanderhalten-a-c31326ba-f290-4e9b-a299-37d494519284#ref=rss)
-### mirra
+* [https://www.spiegel.de/panorama/new-york-usa-starke-flut-ist-ein-jahrtausend-ereignis](https://www.spiegel.de/panorama/new-york-usa-starke-flut-ist-ein-jahrtausend-ereignis-a-bb7fe198-96d5-4c2f-bcf1-8c50203c9292#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ehegattensplitting-thorsten-frei-cdu-kritisiert-vorstoss-von-spd-chef-lars-klingbeil-scharf](https://www.spiegel.de/politik/deutschland/ehegattensplitting-thorsten-frei-cdu-kritisiert-vorstoss-von-spd-chef-lars-klingbeil-scharf-a-fb8b9307-a887-4df2-86fe-a66274d32f87#ref=rss)
+### vilnius
 
-* [https://www.spiegel.de/sport/tennis/wimbledon-16-jahre-alte-mirra-andreeva-scheidet-im-achtelfinale-gegen-madison-keys-aus](https://www.spiegel.de/sport/tennis/wimbledon-16-jahre-alte-mirra-andreeva-scheidet-im-achtelfinale-gegen-madison-keys-aus-a-a0189e9c-a61d-4695-80c9-fcb277598b4d#ref=rss)
-### andreeva
+* [https://www.spiegel.de/ausland/ukraine-sicherheitsexperte-benjamin-tallis-fordert-nato-mitgliedschaft-fuer-die-ukraine](https://www.spiegel.de/ausland/ukraine-sicherheitsexperte-benjamin-tallis-fordert-nato-mitgliedschaft-fuer-die-ukraine-a-5b99475d-456e-40e3-966e-556380a0d83c#ref=rss)
+* [https://www.spiegel.de/ausland/nato-gipfel-in-vilnius-keine-nato-einladung-fuer-die-ukraine-aber-ein-deutliches-signal](https://www.spiegel.de/ausland/nato-gipfel-in-vilnius-keine-nato-einladung-fuer-die-ukraine-aber-ein-deutliches-signal-a-a488742b-ef60-49c1-87b0-d63c4a588d45#ref=rss)
+### kiew
 
-* [https://www.spiegel.de/sport/tennis/wimbledon-16-jahre-alte-mirra-andreeva-scheidet-im-achtelfinale-gegen-madison-keys-aus](https://www.spiegel.de/sport/tennis/wimbledon-16-jahre-alte-mirra-andreeva-scheidet-im-achtelfinale-gegen-madison-keys-aus-a-a0189e9c-a61d-4695-80c9-fcb277598b4d#ref=rss)
-### madison
+* [https://www.spiegel.de/ausland/ukraine-sicherheitsexperte-benjamin-tallis-fordert-nato-mitgliedschaft-fuer-die-ukraine](https://www.spiegel.de/ausland/ukraine-sicherheitsexperte-benjamin-tallis-fordert-nato-mitgliedschaft-fuer-die-ukraine-a-5b99475d-456e-40e3-966e-556380a0d83c#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-news-heute-wolodymyr-selenskyj-sieht-die-ukraine-auf-nato-kurs-und-aeussert-hohe-erwartungen-an-den-gipfel-in-vilnius](https://www.spiegel.de/ausland/russland-ukraine-news-heute-wolodymyr-selenskyj-sieht-die-ukraine-auf-nato-kurs-und-aeussert-hohe-erwartungen-an-den-gipfel-in-vilnius-a-a0240d3f-80e7-45ff-b52d-3feb468a626c#ref=rss)
+### sollten
 
-* [https://www.spiegel.de/sport/tennis/wimbledon-16-jahre-alte-mirra-andreeva-scheidet-im-achtelfinale-gegen-madison-keys-aus](https://www.spiegel.de/sport/tennis/wimbledon-16-jahre-alte-mirra-andreeva-scheidet-im-achtelfinale-gegen-madison-keys-aus-a-a0189e9c-a61d-4695-80c9-fcb277598b4d#ref=rss)
-### keys
+* [https://www.spiegel.de/ausland/ukraine-sicherheitsexperte-benjamin-tallis-fordert-nato-mitgliedschaft-fuer-die-ukraine](https://www.spiegel.de/ausland/ukraine-sicherheitsexperte-benjamin-tallis-fordert-nato-mitgliedschaft-fuer-die-ukraine-a-5b99475d-456e-40e3-966e-556380a0d83c#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/emden-in-niedersachsen-feuer-in-schwimmbad](https://www.spiegel.de/panorama/gesellschaft/emden-in-niedersachsen-feuer-in-schwimmbad-a-e14c5cd3-feb7-42c8-80c1-8962108b1963#ref=rss)
+### hubschrauber
 
-* [https://www.spiegel.de/sport/tennis/wimbledon-16-jahre-alte-mirra-andreeva-scheidet-im-achtelfinale-gegen-madison-keys-aus](https://www.spiegel.de/sport/tennis/wimbledon-16-jahre-alte-mirra-andreeva-scheidet-im-achtelfinale-gegen-madison-keys-aus-a-a0189e9c-a61d-4695-80c9-fcb277598b4d#ref=rss)
-### kam
+* [https://www.spiegel.de/panorama/nepal-hubschrauber-im-himalaja-abgestuerzt-sechs-todesopfer](https://www.spiegel.de/panorama/nepal-hubschrauber-im-himalaja-abgestuerzt-sechs-todesopfer-a-eaea243c-dd91-4dca-aa91-994f0e5f2d72#ref=rss)
+### abgestürzt
 
-* [https://www.spiegel.de/sport/tennis/wimbledon-16-jahre-alte-mirra-andreeva-scheidet-im-achtelfinale-gegen-madison-keys-aus](https://www.spiegel.de/sport/tennis/wimbledon-16-jahre-alte-mirra-andreeva-scheidet-im-achtelfinale-gegen-madison-keys-aus-a-a0189e9c-a61d-4695-80c9-fcb277598b4d#ref=rss)
-* [https://www.spiegel.de/kultur/musik/rolling-loud-in-muenchen-ich-hatte-das-gefuehl-dass-die-security-ueberfordert-war](https://www.spiegel.de/kultur/musik/rolling-loud-in-muenchen-ich-hatte-das-gefuehl-dass-die-security-ueberfordert-war-a-b354ac1b-7991-4801-8c8e-4b73d47fe8db#ref=rss)
-### larry
+* [https://www.spiegel.de/panorama/nepal-hubschrauber-im-himalaja-abgestuerzt-sechs-todesopfer](https://www.spiegel.de/panorama/nepal-hubschrauber-im-himalaja-abgestuerzt-sechs-todesopfer-a-eaea243c-dd91-4dca-aa91-994f0e5f2d72#ref=rss)
+### je
 
-* [https://www.spiegel.de/sport/larry-nassar-sexualstraftaeter-und-ex-us-sportarzt-im-gefaengnis-niedergestochen](https://www.spiegel.de/sport/larry-nassar-sexualstraftaeter-und-ex-us-sportarzt-im-gefaengnis-niedergestochen-a-9184be39-fa5c-45a5-b3ec-edab7bed7bd8#ref=rss)
-### gefängnis
+* [https://www.spiegel.de/wissenschaft/klimawandel-erste-juliwoche-war-die-waermste-je-gemessene-woche](https://www.spiegel.de/wissenschaft/klimawandel-erste-juliwoche-war-die-waermste-je-gemessene-woche-a-7441e2aa-60a1-4a12-8cb3-a3bfd59ca95b#ref=rss)
+* [https://www.spiegel.de/panorama/leute/tom-holland-ueber-alkohol-abstinenz-das-beste-was-ich-je-getan-habe](https://www.spiegel.de/panorama/leute/tom-holland-ueber-alkohol-abstinenz-das-beste-was-ich-je-getan-habe-a-a5e813ff-0561-43d9-becf-d07a2cd0bacb#ref=rss)
+### wohl
 
-* [https://www.spiegel.de/sport/larry-nassar-sexualstraftaeter-und-ex-us-sportarzt-im-gefaengnis-niedergestochen](https://www.spiegel.de/sport/larry-nassar-sexualstraftaeter-und-ex-us-sportarzt-im-gefaengnis-niedergestochen-a-9184be39-fa5c-45a5-b3ec-edab7bed7bd8#ref=rss)
-### weimar
+* [https://www.spiegel.de/wissenschaft/klimawandel-erste-juliwoche-war-die-waermste-je-gemessene-woche](https://www.spiegel.de/wissenschaft/klimawandel-erste-juliwoche-war-die-waermste-je-gemessene-woche-a-7441e2aa-60a1-4a12-8cb3-a3bfd59ca95b#ref=rss)
+* [https://www.spiegel.de/ausland/nato-gipfel-in-vilnius-keine-nato-einladung-fuer-die-ukraine-aber-ein-deutliches-signal](https://www.spiegel.de/ausland/nato-gipfel-in-vilnius-keine-nato-einladung-fuer-die-ukraine-aber-ein-deutliches-signal-a-a488742b-ef60-49c1-87b0-d63c4a588d45#ref=rss)
+### temperaturen
 
-* [https://www.spiegel.de/panorama/weimar-plakate-von-juedisch-gepraegten-festspielen-verunstaltet](https://www.spiegel.de/panorama/weimar-plakate-von-juedisch-gepraegten-festspielen-verunstaltet-a-c47009ab-6f10-4967-a126-4acef4bb4e50#ref=rss)
-### plakate
+* [https://www.spiegel.de/wissenschaft/klimawandel-erste-juliwoche-war-die-waermste-je-gemessene-woche](https://www.spiegel.de/wissenschaft/klimawandel-erste-juliwoche-war-die-waermste-je-gemessene-woche-a-7441e2aa-60a1-4a12-8cb3-a3bfd59ca95b#ref=rss)
+* [https://www.spiegel.de/panorama/griechenland-hitzewelle-in-weiten-teilen-des-45-grad-in-athen-erwartet](https://www.spiegel.de/panorama/griechenland-hitzewelle-in-weiten-teilen-des-45-grad-in-athen-erwartet-a-2e18baa7-4b8d-48fc-87e0-9a207d225d70#ref=rss)
+### ehegattensplitting
 
-* [https://www.spiegel.de/panorama/weimar-plakate-von-juedisch-gepraegten-festspielen-verunstaltet](https://www.spiegel.de/panorama/weimar-plakate-von-juedisch-gepraegten-festspielen-verunstaltet-a-c47009ab-6f10-4967-a126-4acef4bb4e50#ref=rss)
-### jüdisch
+* [https://www.spiegel.de/politik/deutschland/ehegattensplitting-thorsten-frei-cdu-kritisiert-vorstoss-von-spd-chef-lars-klingbeil-scharf](https://www.spiegel.de/politik/deutschland/ehegattensplitting-thorsten-frei-cdu-kritisiert-vorstoss-von-spd-chef-lars-klingbeil-scharf-a-fb8b9307-a887-4df2-86fe-a66274d32f87#ref=rss)
+### frei
 
-* [https://www.spiegel.de/panorama/weimar-plakate-von-juedisch-gepraegten-festspielen-verunstaltet](https://www.spiegel.de/panorama/weimar-plakate-von-juedisch-gepraegten-festspielen-verunstaltet-a-c47009ab-6f10-4967-a126-4acef4bb4e50#ref=rss)
-### geprägten
+* [https://www.spiegel.de/politik/deutschland/ehegattensplitting-thorsten-frei-cdu-kritisiert-vorstoss-von-spd-chef-lars-klingbeil-scharf](https://www.spiegel.de/politik/deutschland/ehegattensplitting-thorsten-frei-cdu-kritisiert-vorstoss-von-spd-chef-lars-klingbeil-scharf-a-fb8b9307-a887-4df2-86fe-a66274d32f87#ref=rss)
+### spdchef
 
-* [https://www.spiegel.de/panorama/weimar-plakate-von-juedisch-gepraegten-festspielen-verunstaltet](https://www.spiegel.de/panorama/weimar-plakate-von-juedisch-gepraegten-festspielen-verunstaltet-a-c47009ab-6f10-4967-a126-4acef4bb4e50#ref=rss)
-### versicherer
+* [https://www.spiegel.de/politik/deutschland/ehegattensplitting-thorsten-frei-cdu-kritisiert-vorstoss-von-spd-chef-lars-klingbeil-scharf](https://www.spiegel.de/politik/deutschland/ehegattensplitting-thorsten-frei-cdu-kritisiert-vorstoss-von-spd-chef-lars-klingbeil-scharf-a-fb8b9307-a887-4df2-86fe-a66274d32f87#ref=rss)
+### klingbeil
 
-* [https://www.spiegel.de/wirtschaft/service/ahrtal-flutkatastrophe-versicherer-haben-bisher-6-7-milliarden-euro-ausgezahlt](https://www.spiegel.de/wirtschaft/service/ahrtal-flutkatastrophe-versicherer-haben-bisher-6-7-milliarden-euro-ausgezahlt-a-3c75e3a2-63c0-4edc-b118-83dfe957122f#ref=rss)
-### gesundheitsminister
+* [https://www.spiegel.de/politik/deutschland/ehegattensplitting-thorsten-frei-cdu-kritisiert-vorstoss-von-spd-chef-lars-klingbeil-scharf](https://www.spiegel.de/politik/deutschland/ehegattensplitting-thorsten-frei-cdu-kritisiert-vorstoss-von-spd-chef-lars-klingbeil-scharf-a-fb8b9307-a887-4df2-86fe-a66274d32f87#ref=rss)
+### puerto
 
-* [https://www.spiegel.de/politik/deutschland/krankenhausreform-gesundheitsminister-von-bund-und-laendern-einigen-sich](https://www.spiegel.de/politik/deutschland/krankenhausreform-gesundheitsminister-von-bund-und-laendern-einigen-sich-a-d4ae6262-63ba-4ed8-8c2b-16097bc6dc2b#ref=rss)
-### ländern
+* [https://www.spiegel.de/wissenschaft/puerto-rico-gleichgeschlechtlicher-sex-bringt-rhesusaffen-vorteile](https://www.spiegel.de/wissenschaft/puerto-rico-gleichgeschlechtlicher-sex-bringt-rhesusaffen-vorteile-a-af67540b-3f14-4050-97ef-b1fdf71c6123#ref=rss)
+### rico
 
-* [https://www.spiegel.de/politik/deutschland/krankenhausreform-gesundheitsminister-von-bund-und-laendern-einigen-sich](https://www.spiegel.de/politik/deutschland/krankenhausreform-gesundheitsminister-von-bund-und-laendern-einigen-sich-a-d4ae6262-63ba-4ed8-8c2b-16097bc6dc2b#ref=rss)
-### barbenheimer
+* [https://www.spiegel.de/wissenschaft/puerto-rico-gleichgeschlechtlicher-sex-bringt-rhesusaffen-vorteile](https://www.spiegel.de/wissenschaft/puerto-rico-gleichgeschlechtlicher-sex-bringt-rhesusaffen-vorteile-a-af67540b-3f14-4050-97ef-b1fdf71c6123#ref=rss)
+### gleichgeschlechtlicher
 
-* [https://www.spiegel.de/kultur/kino/hype-um-barbie-und-oppenheimer-das-kino-lebt-dank-barbenheimer](https://www.spiegel.de/kultur/kino/hype-um-barbie-und-oppenheimer-das-kino-lebt-dank-barbenheimer-a-fafc1b86-03e0-44e6-b2f3-fe6169934c02#ref=rss)
-### bundesländern
+* [https://www.spiegel.de/wissenschaft/puerto-rico-gleichgeschlechtlicher-sex-bringt-rhesusaffen-vorteile](https://www.spiegel.de/wissenschaft/puerto-rico-gleichgeschlechtlicher-sex-bringt-rhesusaffen-vorteile-a-af67540b-3f14-4050-97ef-b1fdf71c6123#ref=rss)
+### sex
 
-* [https://www.spiegel.de/wirtschaft/soziales/bruttorente-deutliche-unterschiede-zwischen-den-bundeslaendern](https://www.spiegel.de/wirtschaft/soziales/bruttorente-deutliche-unterschiede-zwischen-den-bundeslaendern-a-2cd05ab1-27a9-4ac5-b5d6-3a46dca4ce49#ref=rss)
-### fashion
+* [https://www.spiegel.de/wissenschaft/puerto-rico-gleichgeschlechtlicher-sex-bringt-rhesusaffen-vorteile](https://www.spiegel.de/wissenschaft/puerto-rico-gleichgeschlechtlicher-sex-bringt-rhesusaffen-vorteile-a-af67540b-3f14-4050-97ef-b1fdf71c6123#ref=rss)
+### rhesusaffen
 
-* [https://www.spiegel.de/stil/fashion-week-in-berlin-kann-man-mode-machen-aber-nicht-davon-leben](https://www.spiegel.de/stil/fashion-week-in-berlin-kann-man-mode-machen-aber-nicht-davon-leben-a-69d1d007-1c07-4a51-8292-5a3459e797f0#ref=rss)
-### week
+* [https://www.spiegel.de/wissenschaft/puerto-rico-gleichgeschlechtlicher-sex-bringt-rhesusaffen-vorteile](https://www.spiegel.de/wissenschaft/puerto-rico-gleichgeschlechtlicher-sex-bringt-rhesusaffen-vorteile-a-af67540b-3f14-4050-97ef-b1fdf71c6123#ref=rss)
+### steigern
 
-* [https://www.spiegel.de/stil/fashion-week-in-berlin-kann-man-mode-machen-aber-nicht-davon-leben](https://www.spiegel.de/stil/fashion-week-in-berlin-kann-man-mode-machen-aber-nicht-davon-leben-a-69d1d007-1c07-4a51-8292-5a3459e797f0#ref=rss)
-### rolling
+* [https://www.spiegel.de/wissenschaft/puerto-rico-gleichgeschlechtlicher-sex-bringt-rhesusaffen-vorteile](https://www.spiegel.de/wissenschaft/puerto-rico-gleichgeschlechtlicher-sex-bringt-rhesusaffen-vorteile-a-af67540b-3f14-4050-97ef-b1fdf71c6123#ref=rss)
+* [https://www.spiegel.de/wissenschaft/viagra-bald-ohne-rezept-erhaeltlich-kommission-beraet-ueber-verschreibungspflicht](https://www.spiegel.de/wissenschaft/viagra-bald-ohne-rezept-erhaeltlich-kommission-beraet-ueber-verschreibungspflicht-a-dbce8002-81ae-4044-9b28-81de6fa49b59#ref=rss)
+### nato
 
-* [https://www.spiegel.de/kultur/musik/rolling-loud-in-muenchen-ich-hatte-das-gefuehl-dass-die-security-ueberfordert-war](https://www.spiegel.de/kultur/musik/rolling-loud-in-muenchen-ich-hatte-das-gefuehl-dass-die-security-ueberfordert-war-a-b354ac1b-7991-4801-8c8e-4b73d47fe8db#ref=rss)
-### loud
+* [https://www.spiegel.de/ausland/russland-ukraine-news-heute-wolodymyr-selenskyj-sieht-die-ukraine-auf-nato-kurs-und-aeussert-hohe-erwartungen-an-den-gipfel-in-vilnius](https://www.spiegel.de/ausland/russland-ukraine-news-heute-wolodymyr-selenskyj-sieht-die-ukraine-auf-nato-kurs-und-aeussert-hohe-erwartungen-an-den-gipfel-in-vilnius-a-a0240d3f-80e7-45ff-b52d-3feb468a626c#ref=rss)
+* [https://www.spiegel.de/ausland/nato-gipfel-in-vilnius-keine-nato-einladung-fuer-die-ukraine-aber-ein-deutliches-signal](https://www.spiegel.de/ausland/nato-gipfel-in-vilnius-keine-nato-einladung-fuer-die-ukraine-aber-ein-deutliches-signal-a-a488742b-ef60-49c1-87b0-d63c4a588d45#ref=rss)
+### vestas
 
-* [https://www.spiegel.de/kultur/musik/rolling-loud-in-muenchen-ich-hatte-das-gefuehl-dass-die-security-ueberfordert-war](https://www.spiegel.de/kultur/musik/rolling-loud-in-muenchen-ich-hatte-das-gefuehl-dass-die-security-ueberfordert-war-a-b354ac1b-7991-4801-8c8e-4b73d47fe8db#ref=rss)
-### münchen
+* [https://www.spiegel.de/wirtschaft/vestas-ig-metall-schliesst-nach-123-streiktagen-tarifvertraege](https://www.spiegel.de/wirtschaft/vestas-ig-metall-schliesst-nach-123-streiktagen-tarifvertraege-a-29a3441f-4fb2-4bca-ba20-62ab63a7a183#ref=rss)
+### ig
 
-* [https://www.spiegel.de/kultur/musik/rolling-loud-in-muenchen-ich-hatte-das-gefuehl-dass-die-security-ueberfordert-war](https://www.spiegel.de/kultur/musik/rolling-loud-in-muenchen-ich-hatte-das-gefuehl-dass-die-security-ueberfordert-war-a-b354ac1b-7991-4801-8c8e-4b73d47fe8db#ref=rss)
-### holger
+* [https://www.spiegel.de/wirtschaft/vestas-ig-metall-schliesst-nach-123-streiktagen-tarifvertraege](https://www.spiegel.de/wirtschaft/vestas-ig-metall-schliesst-nach-123-streiktagen-tarifvertraege-a-29a3441f-4fb2-4bca-ba20-62ab63a7a183#ref=rss)
+### metall
 
-* [https://www.spiegel.de/sport/tennis/wimbledon-2023-daenischer-tennis-star-holger-rune-es-kocht-ueber](https://www.spiegel.de/sport/tennis/wimbledon-2023-daenischer-tennis-star-holger-rune-es-kocht-ueber-a-008a4af2-df7e-4680-b3af-d785670e5e9d#ref=rss)
-### rune
+* [https://www.spiegel.de/wirtschaft/vestas-ig-metall-schliesst-nach-123-streiktagen-tarifvertraege](https://www.spiegel.de/wirtschaft/vestas-ig-metall-schliesst-nach-123-streiktagen-tarifvertraege-a-29a3441f-4fb2-4bca-ba20-62ab63a7a183#ref=rss)
+### gewerkschaft
 
-* [https://www.spiegel.de/sport/tennis/wimbledon-2023-daenischer-tennis-star-holger-rune-es-kocht-ueber](https://www.spiegel.de/sport/tennis/wimbledon-2023-daenischer-tennis-star-holger-rune-es-kocht-ueber-a-008a4af2-df7e-4680-b3af-d785670e5e9d#ref=rss)
-### ausraster
+* [https://www.spiegel.de/wirtschaft/vestas-ig-metall-schliesst-nach-123-streiktagen-tarifvertraege](https://www.spiegel.de/wirtschaft/vestas-ig-metall-schliesst-nach-123-streiktagen-tarifvertraege-a-29a3441f-4fb2-4bca-ba20-62ab63a7a183#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/prime-day-bei-amazon-ver-di-ruft-beschaeftigte-zu-warnstreik-auf](https://www.spiegel.de/wirtschaft/unternehmen/prime-day-bei-amazon-ver-di-ruft-beschaeftigte-zu-warnstreik-auf-a-3d536665-4397-4e43-b71c-e13b5abff805#ref=rss)
+### thailand
 
-* [https://www.spiegel.de/sport/tennis/wimbledon-2023-daenischer-tennis-star-holger-rune-es-kocht-ueber](https://www.spiegel.de/sport/tennis/wimbledon-2023-daenischer-tennis-star-holger-rune-es-kocht-ueber-a-008a4af2-df7e-4680-b3af-d785670e5e9d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/thailand-ermittler-entdecken-zerstueckelte-leiche-von-deutschem-geschaeftsmann-in-gefriertruhe](https://www.spiegel.de/panorama/justiz/thailand-ermittler-entdecken-zerstueckelte-leiche-von-deutschem-geschaeftsmann-in-gefriertruhe-a-46ece53e-c17a-4cef-a258-06b9882b205b#ref=rss)
+### leiche
+
+* [https://www.spiegel.de/panorama/justiz/thailand-ermittler-entdecken-zerstueckelte-leiche-von-deutschem-geschaeftsmann-in-gefriertruhe](https://www.spiegel.de/panorama/justiz/thailand-ermittler-entdecken-zerstueckelte-leiche-von-deutschem-geschaeftsmann-in-gefriertruhe-a-46ece53e-c17a-4cef-a258-06b9882b205b#ref=rss)
+### geschäftsmann
+
+* [https://www.spiegel.de/panorama/justiz/thailand-ermittler-entdecken-zerstueckelte-leiche-von-deutschem-geschaeftsmann-in-gefriertruhe](https://www.spiegel.de/panorama/justiz/thailand-ermittler-entdecken-zerstueckelte-leiche-von-deutschem-geschaeftsmann-in-gefriertruhe-a-46ece53e-c17a-4cef-a258-06b9882b205b#ref=rss)
+### 1440
+
+* [https://www.spiegel.de/geschichte/ungarn-warum-eine-kammerfrau-1440-das-wichtigste-machtsymbol-stahl](https://www.spiegel.de/geschichte/ungarn-warum-eine-kammerfrau-1440-das-wichtigste-machtsymbol-stahl-a-fcded392-88b0-46de-97d6-3beda041b19e#ref=rss)
+### machtsymbol
+
+* [https://www.spiegel.de/geschichte/ungarn-warum-eine-kammerfrau-1440-das-wichtigste-machtsymbol-stahl](https://www.spiegel.de/geschichte/ungarn-warum-eine-kammerfrau-1440-das-wichtigste-machtsymbol-stahl-a-fcded392-88b0-46de-97d6-3beda041b19e#ref=rss)
+### beschäftigte
+
+* [https://www.spiegel.de/wirtschaft/soziales/steuer-rente-krankenkasse-milliarden-subventionen-fuer-die-alleinverdiener-ehe](https://www.spiegel.de/wirtschaft/soziales/steuer-rente-krankenkasse-milliarden-subventionen-fuer-die-alleinverdiener-ehe-a-87998de5-2675-4c3d-986a-21a4a2711cb5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/prime-day-bei-amazon-ver-di-ruft-beschaeftigte-zu-warnstreik-auf](https://www.spiegel.de/wirtschaft/unternehmen/prime-day-bei-amazon-ver-di-ruft-beschaeftigte-zu-warnstreik-auf-a-3d536665-4397-4e43-b71c-e13b5abff805#ref=rss)
+### skap
+
+* [https://www.spiegel.de/kultur/antisemitismus-vorwurf-gegen-ska-band](https://www.spiegel.de/kultur/antisemitismus-vorwurf-gegen-ska-band-a-4c004557-ffce-45e4-8792-dd240adf22e4#ref=rss)
+### prime
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/prime-day-bei-amazon-ver-di-ruft-beschaeftigte-zu-warnstreik-auf](https://www.spiegel.de/wirtschaft/unternehmen/prime-day-bei-amazon-ver-di-ruft-beschaeftigte-zu-warnstreik-auf-a-3d536665-4397-4e43-b71c-e13b5abff805#ref=rss)
+### day
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/prime-day-bei-amazon-ver-di-ruft-beschaeftigte-zu-warnstreik-auf](https://www.spiegel.de/wirtschaft/unternehmen/prime-day-bei-amazon-ver-di-ruft-beschaeftigte-zu-warnstreik-auf-a-3d536665-4397-4e43-b71c-e13b5abff805#ref=rss)
+### amazon
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/prime-day-bei-amazon-ver-di-ruft-beschaeftigte-zu-warnstreik-auf](https://www.spiegel.de/wirtschaft/unternehmen/prime-day-bei-amazon-ver-di-ruft-beschaeftigte-zu-warnstreik-auf-a-3d536665-4397-4e43-b71c-e13b5abff805#ref=rss)
+### verdi
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/prime-day-bei-amazon-ver-di-ruft-beschaeftigte-zu-warnstreik-auf](https://www.spiegel.de/wirtschaft/unternehmen/prime-day-bei-amazon-ver-di-ruft-beschaeftigte-zu-warnstreik-auf-a-3d536665-4397-4e43-b71c-e13b5abff805#ref=rss)
+### warnstreik
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/prime-day-bei-amazon-ver-di-ruft-beschaeftigte-zu-warnstreik-auf](https://www.spiegel.de/wirtschaft/unternehmen/prime-day-bei-amazon-ver-di-ruft-beschaeftigte-zu-warnstreik-auf-a-3d536665-4397-4e43-b71c-e13b5abff805#ref=rss)
+### grad
+
+* [https://www.spiegel.de/panorama/griechenland-hitzewelle-in-weiten-teilen-des-45-grad-in-athen-erwartet](https://www.spiegel.de/panorama/griechenland-hitzewelle-in-weiten-teilen-des-45-grad-in-athen-erwartet-a-2e18baa7-4b8d-48fc-87e0-9a207d225d70#ref=rss)
+* [https://www.spiegel.de/ausland/superhitze-in-mexiko-als-wuerde-man-mit-feuerbaellen-beworfen](https://www.spiegel.de/ausland/superhitze-in-mexiko-als-wuerde-man-mit-feuerbaellen-beworfen-a-3880e604-6a0a-4d09-a389-93dfdc8e8782#ref=rss)
+### erwartet
+
+* [https://www.spiegel.de/panorama/griechenland-hitzewelle-in-weiten-teilen-des-45-grad-in-athen-erwartet](https://www.spiegel.de/panorama/griechenland-hitzewelle-in-weiten-teilen-des-45-grad-in-athen-erwartet-a-2e18baa7-4b8d-48fc-87e0-9a207d225d70#ref=rss)
+* [https://www.spiegel.de/ausland/nato-gipfel-in-vilnius-keine-nato-einladung-fuer-die-ukraine-aber-ein-deutliches-signal](https://www.spiegel.de/ausland/nato-gipfel-in-vilnius-keine-nato-einladung-fuer-die-ukraine-aber-ein-deutliches-signal-a-a488742b-ef60-49c1-87b0-d63c4a588d45#ref=rss)
+### allzu
+
+* [https://www.spiegel.de/ausland/nato-gipfel-in-vilnius-keine-nato-einladung-fuer-die-ukraine-aber-ein-deutliches-signal](https://www.spiegel.de/ausland/nato-gipfel-in-vilnius-keine-nato-einladung-fuer-die-ukraine-aber-ein-deutliches-signal-a-a488742b-ef60-49c1-87b0-d63c4a588d45#ref=rss)
+* [https://www.spiegel.de/panorama/leute/tom-holland-ueber-alkohol-abstinenz-das-beste-was-ich-je-getan-habe](https://www.spiegel.de/panorama/leute/tom-holland-ueber-alkohol-abstinenz-das-beste-was-ich-je-getan-habe-a-a5e813ff-0561-43d9-becf-d07a2cd0bacb#ref=rss)
+### bald
+
+* [https://www.spiegel.de/ausland/nato-gipfel-in-vilnius-keine-nato-einladung-fuer-die-ukraine-aber-ein-deutliches-signal](https://www.spiegel.de/ausland/nato-gipfel-in-vilnius-keine-nato-einladung-fuer-die-ukraine-aber-ein-deutliches-signal-a-a488742b-ef60-49c1-87b0-d63c4a588d45#ref=rss)
+* [https://www.spiegel.de/wissenschaft/viagra-bald-ohne-rezept-erhaeltlich-kommission-beraet-ueber-verschreibungspflicht](https://www.spiegel.de/wissenschaft/viagra-bald-ohne-rezept-erhaeltlich-kommission-beraet-ueber-verschreibungspflicht-a-dbce8002-81ae-4044-9b28-81de6fa49b59#ref=rss)
+### dennoch
+
+* [https://www.spiegel.de/ausland/nato-gipfel-in-vilnius-keine-nato-einladung-fuer-die-ukraine-aber-ein-deutliches-signal](https://www.spiegel.de/ausland/nato-gipfel-in-vilnius-keine-nato-einladung-fuer-die-ukraine-aber-ein-deutliches-signal-a-a488742b-ef60-49c1-87b0-d63c4a588d45#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/emden-in-niedersachsen-feuer-in-schwimmbad](https://www.spiegel.de/panorama/gesellschaft/emden-in-niedersachsen-feuer-in-schwimmbad-a-e14c5cd3-feb7-42c8-80c1-8962108b1963#ref=rss)
+### apps
+
+* [https://www.spiegel.de/netzwelt/gadgets/zeitlimit-fuer-apps-setzen-auf-dem-iphone-oder-unter-android-so-leicht-geht-das](https://www.spiegel.de/netzwelt/gadgets/zeitlimit-fuer-apps-setzen-auf-dem-iphone-oder-unter-android-so-leicht-geht-das-a-82d103a8-667a-40e1-a1d3-1536bb177e1a#ref=rss)
+### setzen
+
+* [https://www.spiegel.de/netzwelt/gadgets/zeitlimit-fuer-apps-setzen-auf-dem-iphone-oder-unter-android-so-leicht-geht-das](https://www.spiegel.de/netzwelt/gadgets/zeitlimit-fuer-apps-setzen-auf-dem-iphone-oder-unter-android-so-leicht-geht-das-a-82d103a8-667a-40e1-a1d3-1536bb177e1a#ref=rss)
+### leicht
+
+* [https://www.spiegel.de/netzwelt/gadgets/zeitlimit-fuer-apps-setzen-auf-dem-iphone-oder-unter-android-so-leicht-geht-das](https://www.spiegel.de/netzwelt/gadgets/zeitlimit-fuer-apps-setzen-auf-dem-iphone-oder-unter-android-so-leicht-geht-das-a-82d103a8-667a-40e1-a1d3-1536bb177e1a#ref=rss)
+### tour
+
+* [https://www.spiegel.de/sport/tour-de-france-haben-sie-den-besten-job-der-welt-michael-antwerpes](https://www.spiegel.de/sport/tour-de-france-haben-sie-den-besten-job-der-welt-michael-antwerpes-a-badd9dd3-41f2-4c74-afa5-4afb2f98c53c#ref=rss)
+### michael
+
+* [https://www.spiegel.de/sport/tour-de-france-haben-sie-den-besten-job-der-welt-michael-antwerpes](https://www.spiegel.de/sport/tour-de-france-haben-sie-den-besten-job-der-welt-michael-antwerpes-a-badd9dd3-41f2-4c74-afa5-4afb2f98c53c#ref=rss)
+### antwerpes
+
+* [https://www.spiegel.de/sport/tour-de-france-haben-sie-den-besten-job-der-welt-michael-antwerpes](https://www.spiegel.de/sport/tour-de-france-haben-sie-den-besten-job-der-welt-michael-antwerpes-a-badd9dd3-41f2-4c74-afa5-4afb2f98c53c#ref=rss)
+### 2023
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/start-ups-wieder-mehr-gruendungen-im-ersten-halbjahr-2023](https://www.spiegel.de/wirtschaft/unternehmen/start-ups-wieder-mehr-gruendungen-im-ersten-halbjahr-2023-a-1b1faba4-b2cc-4143-8b50-1719cf5c5cba#ref=rss)
+* [https://www.spiegel.de/ausland/superhitze-in-mexiko-als-wuerde-man-mit-feuerbaellen-beworfen](https://www.spiegel.de/ausland/superhitze-in-mexiko-als-wuerde-man-mit-feuerbaellen-beworfen-a-3880e604-6a0a-4d09-a389-93dfdc8e8782#ref=rss)
+### tom
+
+* [https://www.spiegel.de/panorama/leute/tom-holland-ueber-alkohol-abstinenz-das-beste-was-ich-je-getan-habe](https://www.spiegel.de/panorama/leute/tom-holland-ueber-alkohol-abstinenz-das-beste-was-ich-je-getan-habe-a-a5e813ff-0561-43d9-becf-d07a2cd0bacb#ref=rss)
+### holland
+
+* [https://www.spiegel.de/panorama/leute/tom-holland-ueber-alkohol-abstinenz-das-beste-was-ich-je-getan-habe](https://www.spiegel.de/panorama/leute/tom-holland-ueber-alkohol-abstinenz-das-beste-was-ich-je-getan-habe-a-a5e813ff-0561-43d9-becf-d07a2cd0bacb#ref=rss)
+### fachkräfte
+
+* [https://www.spiegel.de/karriere/warum-deutschland-auslaendische-fachkraefte-ungluecklich-macht-umfrage-unter-expat](https://www.spiegel.de/karriere/warum-deutschland-auslaendische-fachkraefte-ungluecklich-macht-umfrage-unter-expat-a-2951872a-0505-4a0a-85aa-55bbc4475420#ref=rss)
+### umfrage
+
+* [https://www.spiegel.de/karriere/warum-deutschland-auslaendische-fachkraefte-ungluecklich-macht-umfrage-unter-expat](https://www.spiegel.de/karriere/warum-deutschland-auslaendische-fachkraefte-ungluecklich-macht-umfrage-unter-expat-a-2951872a-0505-4a0a-85aa-55bbc4475420#ref=rss)
+### mexiko
+
+* [https://www.spiegel.de/ausland/superhitze-in-mexiko-als-wuerde-man-mit-feuerbaellen-beworfen](https://www.spiegel.de/ausland/superhitze-in-mexiko-als-wuerde-man-mit-feuerbaellen-beworfen-a-3880e604-6a0a-4d09-a389-93dfdc8e8782#ref=rss)
+### experten
+
+* [https://www.spiegel.de/ausland/superhitze-in-mexiko-als-wuerde-man-mit-feuerbaellen-beworfen](https://www.spiegel.de/ausland/superhitze-in-mexiko-als-wuerde-man-mit-feuerbaellen-beworfen-a-3880e604-6a0a-4d09-a389-93dfdc8e8782#ref=rss)
+* [https://www.spiegel.de/wissenschaft/viagra-bald-ohne-rezept-erhaeltlich-kommission-beraet-ueber-verschreibungspflicht](https://www.spiegel.de/wissenschaft/viagra-bald-ohne-rezept-erhaeltlich-kommission-beraet-ueber-verschreibungspflicht-a-dbce8002-81ae-4044-9b28-81de6fa49b59#ref=rss)
+### gießen
+
+* [https://www.spiegel.de/panorama/justiz/giessen-frank-tilo-becher-zu-krawallen-bei-eritrea-festival-folgen-die-unsere-demokratie-beschaedigen](https://www.spiegel.de/panorama/justiz/giessen-frank-tilo-becher-zu-krawallen-bei-eritrea-festival-folgen-die-unsere-demokratie-beschaedigen-a-24dc51ef-8565-45d2-980b-e24b7e9e3da8#ref=rss)
+### viagra
+
+* [https://www.spiegel.de/wissenschaft/viagra-bald-ohne-rezept-erhaeltlich-kommission-beraet-ueber-verschreibungspflicht](https://www.spiegel.de/wissenschaft/viagra-bald-ohne-rezept-erhaeltlich-kommission-beraet-ueber-verschreibungspflicht-a-dbce8002-81ae-4044-9b28-81de6fa49b59#ref=rss)
+### berät
+
+* [https://www.spiegel.de/wissenschaft/viagra-bald-ohne-rezept-erhaeltlich-kommission-beraet-ueber-verschreibungspflicht](https://www.spiegel.de/wissenschaft/viagra-bald-ohne-rezept-erhaeltlich-kommission-beraet-ueber-verschreibungspflicht-a-dbce8002-81ae-4044-9b28-81de6fa49b59#ref=rss)
+### verschreibungspflicht
+
+* [https://www.spiegel.de/wissenschaft/viagra-bald-ohne-rezept-erhaeltlich-kommission-beraet-ueber-verschreibungspflicht](https://www.spiegel.de/wissenschaft/viagra-bald-ohne-rezept-erhaeltlich-kommission-beraet-ueber-verschreibungspflicht-a-dbce8002-81ae-4044-9b28-81de6fa49b59#ref=rss)
 
