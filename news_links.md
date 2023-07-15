@@ -4,319 +4,312 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### scholz
+### wir
 
-* [https://www.spiegel.de/politik/deutschland/und-dann-bringt-ein-jingle-bells-klingelton-scholz-zum-lachen](https://www.spiegel.de/politik/deutschland/und-dann-bringt-ein-jingle-bells-klingelton-scholz-zum-lachen-a-0008a953-f9af-408a-9801-6c0d6fcca086#ref=rss)
-* [https://www.spiegel.de/politik/olaf-scholz-lacher-bei-sommer-pk-das-ist-jetzt-kein-cyber-angriff](https://www.spiegel.de/politik/olaf-scholz-lacher-bei-sommer-pk-das-ist-jetzt-kein-cyber-angriff-a-29d36ee7-41b2-48e4-acb5-4aa1fa7a5c25#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sommerpressekonferenz-von-olaf-scholz-therapiesitzung-mit-dem-kanzler](https://www.spiegel.de/politik/deutschland/sommerpressekonferenz-von-olaf-scholz-therapiesitzung-mit-dem-kanzler-a-6f8fb8fd-5e30-4677-bcb8-49b7f593ecfd#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/ausland/schweden-polizei-erlaubt-demo-mit-geplanter-verbrennung-von-tora-und-bibel](https://www.spiegel.de/ausland/schweden-polizei-erlaubt-demo-mit-geplanter-verbrennung-von-tora-und-bibel-a-25bbb2b4-29e9-4288-b741-890a480a5228#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/gilgo-beach-polizei-nimmt-verdaechtigen-nach-mordserie-in-usa-fest](https://www.spiegel.de/panorama/justiz/gilgo-beach-polizei-nimmt-verdaechtigen-nach-mordserie-in-usa-fest-a-ba9f5f5b-c61a-4287-aa1d-d6147178a60b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/dresden-polizei-ermittelt-wegen-hitlergruss-gegen-angehenden-kommissar](https://www.spiegel.de/panorama/justiz/dresden-polizei-ermittelt-wegen-hitlergruss-gegen-angehenden-kommissar-a-349eb6ae-49c2-4e9d-b173-8a86e073cd44#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mallorca-sechs-urlauber-aus-deutschland-wegen-vergewaltigungsverdacht-festgenommen](https://www.spiegel.de/panorama/justiz/mallorca-sechs-urlauber-aus-deutschland-wegen-vergewaltigungsverdacht-festgenommen-a-148fce61-5719-4b81-bbb4-e62715c70738#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wissenschaft/mensch/wegovy-abnehm-medikament-ab-montag-in-deutschland-verschreibbar](https://www.spiegel.de/wissenschaft/mensch/wegovy-abnehm-medikament-ab-montag-in-deutschland-verschreibbar-a-8c1f5585-0ca6-42de-97d0-678ede62d6ce#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2023-kolumbiens-testspiel-gegen-irland-wegen-uebertriebener-haerte-abgebrochen](https://www.spiegel.de/sport/fussball/fussball-wm-2023-kolumbiens-testspiel-gegen-irland-wegen-uebertriebener-haerte-abgebrochen-a-bb678632-3b84-4230-ba65-ab6c309e2a0f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mallorca-sechs-urlauber-aus-deutschland-wegen-vergewaltigungsverdacht-festgenommen](https://www.spiegel.de/panorama/justiz/mallorca-sechs-urlauber-aus-deutschland-wegen-vergewaltigungsverdacht-festgenommen-a-148fce61-5719-4b81-bbb4-e62715c70738#ref=rss)
-### olaf
-
-* [https://www.spiegel.de/panorama/gesellschaft/flut-an-der-ahr-feuerwehrmann-verlor-in-der-nacht-sein-haus-und-wartet-bis-heute-auf-ein-neubaugrundstueck](https://www.spiegel.de/panorama/gesellschaft/flut-an-der-ahr-feuerwehrmann-verlor-in-der-nacht-sein-haus-und-wartet-bis-heute-auf-ein-neubaugrundstueck-a-00c75442-4936-4ce3-9a04-76d29243fc4a#ref=rss)
-* [https://www.spiegel.de/politik/olaf-scholz-lacher-bei-sommer-pk-das-ist-jetzt-kein-cyber-angriff](https://www.spiegel.de/politik/olaf-scholz-lacher-bei-sommer-pk-das-ist-jetzt-kein-cyber-angriff-a-29d36ee7-41b2-48e4-acb5-4aa1fa7a5c25#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sommerpressekonferenz-von-olaf-scholz-therapiesitzung-mit-dem-kanzler](https://www.spiegel.de/politik/deutschland/sommerpressekonferenz-von-olaf-scholz-therapiesitzung-mit-dem-kanzler-a-6f8fb8fd-5e30-4677-bcb8-49b7f593ecfd#ref=rss)
-### lachen
-
-* [https://www.spiegel.de/politik/deutschland/und-dann-bringt-ein-jingle-bells-klingelton-scholz-zum-lachen](https://www.spiegel.de/politik/deutschland/und-dann-bringt-ein-jingle-bells-klingelton-scholz-zum-lachen-a-0008a953-f9af-408a-9801-6c0d6fcca086#ref=rss)
-* [https://www.spiegel.de/politik/olaf-scholz-lacher-bei-sommer-pk-das-ist-jetzt-kein-cyber-angriff](https://www.spiegel.de/politik/olaf-scholz-lacher-bei-sommer-pk-das-ist-jetzt-kein-cyber-angriff-a-29d36ee7-41b2-48e4-acb5-4aa1fa7a5c25#ref=rss)
-### wimbledon
-
-* [https://www.spiegel.de/sport/tennis/wimbledon-novak-djokovic-schlaegt-jannik-sinner-und-zieht-ins-finale-ein](https://www.spiegel.de/sport/tennis/wimbledon-novak-djokovic-schlaegt-jannik-sinner-und-zieht-ins-finale-ein-a-45cfce3b-8a70-46c4-823c-c1123ea7de7a#ref=rss)
-* [https://www.spiegel.de/sport/tennis/wimbledon-marketa-vondrousovas-ehemann-reist-dank-katzensitter-zum-finale](https://www.spiegel.de/sport/tennis/wimbledon-marketa-vondrousovas-ehemann-reist-dank-katzensitter-zum-finale-a-bd0ea614-f111-45df-932f-d3d217facc50#ref=rss)
-### reichte
-
-* [https://www.spiegel.de/sport/tennis/wimbledon-novak-djokovic-schlaegt-jannik-sinner-und-zieht-ins-finale-ein](https://www.spiegel.de/sport/tennis/wimbledon-novak-djokovic-schlaegt-jannik-sinner-und-zieht-ins-finale-ein-a-45cfce3b-8a70-46c4-823c-c1123ea7de7a#ref=rss)
-* [https://www.spiegel.de/auto/berlin-reinickendorf-gestoppter-fast-fertiger-radweg-soll-nun-doch-eroeffnen](https://www.spiegel.de/auto/berlin-reinickendorf-gestoppter-fast-fertiger-radweg-soll-nun-doch-eroeffnen-a-83190967-84ff-4509-bf94-196ff7847772#ref=rss)
-* [https://www.spiegel.de/sport/tour-de-france-michal-kwiatkowski-siegt-am-grand-colombier-jonas-vingegaard-bleibt-in-gelb](https://www.spiegel.de/sport/tour-de-france-michal-kwiatkowski-siegt-am-grand-colombier-jonas-vingegaard-bleibt-in-gelb-a-ce14d15b-cc14-4beb-85de-905f9e659b52#ref=rss)
-### fast
-
-* [https://www.spiegel.de/auto/berlin-reinickendorf-gestoppter-fast-fertiger-radweg-soll-nun-doch-eroeffnen](https://www.spiegel.de/auto/berlin-reinickendorf-gestoppter-fast-fertiger-radweg-soll-nun-doch-eroeffnen-a-83190967-84ff-4509-bf94-196ff7847772#ref=rss)
-* [https://www.spiegel.de/ausland/migration-im-mittelmeer-starben-laut-unicef-289-fluechtlingskinder](https://www.spiegel.de/ausland/migration-im-mittelmeer-starben-laut-unicef-289-fluechtlingskinder-a-c2f08476-e26f-481e-8d19-163660becf2b#ref=rss)
-### tadej
-
-* [https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-greift-an-jonas-vingegaard-pariert](https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-greift-an-jonas-vingegaard-pariert-a-9702b649-c465-4260-90e1-b0105b99ed41#ref=rss)
-* [https://www.spiegel.de/sport/tour-de-france-michal-kwiatkowski-siegt-am-grand-colombier-jonas-vingegaard-bleibt-in-gelb](https://www.spiegel.de/sport/tour-de-france-michal-kwiatkowski-siegt-am-grand-colombier-jonas-vingegaard-bleibt-in-gelb-a-ce14d15b-cc14-4beb-85de-905f9e659b52#ref=rss)
-### jonas
-
-* [https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-greift-an-jonas-vingegaard-pariert](https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-greift-an-jonas-vingegaard-pariert-a-9702b649-c465-4260-90e1-b0105b99ed41#ref=rss)
-* [https://www.spiegel.de/sport/tour-de-france-michal-kwiatkowski-siegt-am-grand-colombier-jonas-vingegaard-bleibt-in-gelb](https://www.spiegel.de/sport/tour-de-france-michal-kwiatkowski-siegt-am-grand-colombier-jonas-vingegaard-bleibt-in-gelb-a-ce14d15b-cc14-4beb-85de-905f9e659b52#ref=rss)
-### vingegaard
-
-* [https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-greift-an-jonas-vingegaard-pariert](https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-greift-an-jonas-vingegaard-pariert-a-9702b649-c465-4260-90e1-b0105b99ed41#ref=rss)
-* [https://www.spiegel.de/sport/tour-de-france-michal-kwiatkowski-siegt-am-grand-colombier-jonas-vingegaard-bleibt-in-gelb](https://www.spiegel.de/sport/tour-de-france-michal-kwiatkowski-siegt-am-grand-colombier-jonas-vingegaard-bleibt-in-gelb-a-ce14d15b-cc14-4beb-85de-905f9e659b52#ref=rss)
-### grand
-
-* [https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-greift-an-jonas-vingegaard-pariert](https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-greift-an-jonas-vingegaard-pariert-a-9702b649-c465-4260-90e1-b0105b99ed41#ref=rss)
-* [https://www.spiegel.de/sport/tour-de-france-michal-kwiatkowski-siegt-am-grand-colombier-jonas-vingegaard-bleibt-in-gelb](https://www.spiegel.de/sport/tour-de-france-michal-kwiatkowski-siegt-am-grand-colombier-jonas-vingegaard-bleibt-in-gelb-a-ce14d15b-cc14-4beb-85de-905f9e659b52#ref=rss)
-### colombier
-
-* [https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-greift-an-jonas-vingegaard-pariert](https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-greift-an-jonas-vingegaard-pariert-a-9702b649-c465-4260-90e1-b0105b99ed41#ref=rss)
-* [https://www.spiegel.de/sport/tour-de-france-michal-kwiatkowski-siegt-am-grand-colombier-jonas-vingegaard-bleibt-in-gelb](https://www.spiegel.de/sport/tour-de-france-michal-kwiatkowski-siegt-am-grand-colombier-jonas-vingegaard-bleibt-in-gelb-a-ce14d15b-cc14-4beb-85de-905f9e659b52#ref=rss)
-### sechs
-
-* [https://www.spiegel.de/ausland/migration-im-mittelmeer-starben-laut-unicef-289-fluechtlingskinder](https://www.spiegel.de/ausland/migration-im-mittelmeer-starben-laut-unicef-289-fluechtlingskinder-a-c2f08476-e26f-481e-8d19-163660becf2b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mallorca-sechs-urlauber-aus-deutschland-wegen-vergewaltigungsverdacht-festgenommen](https://www.spiegel.de/panorama/justiz/mallorca-sechs-urlauber-aus-deutschland-wegen-vergewaltigungsverdacht-festgenommen-a-148fce61-5719-4b81-bbb4-e62715c70738#ref=rss)
-### letzten
-
-* [https://www.spiegel.de/panorama/bundesweite-aktionen-letzten-generation-so-lief-der-protesttag](https://www.spiegel.de/panorama/bundesweite-aktionen-letzten-generation-so-lief-der-protesttag-a-9622ab03-ec97-4585-9409-7325ac3aadc4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-columbiabad-in-berlin-neukoelln-familienpolitik-kuenstliche-intelligenz-in-hollywood](https://www.spiegel.de/politik/deutschland/news-des-tages-columbiabad-in-berlin-neukoelln-familienpolitik-kuenstliche-intelligenz-in-hollywood-a-87027c2b-1e2e-4d7b-9e63-c67286d65b94#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-columbiabad-in-berlin-neukoelln-familienpolitik-kuenstliche-intelligenz-in-hollywood](https://www.spiegel.de/politik/deutschland/news-des-tages-columbiabad-in-berlin-neukoelln-familienpolitik-kuenstliche-intelligenz-in-hollywood-a-87027c2b-1e2e-4d7b-9e63-c67286d65b94#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sommerpressekonferenz-von-olaf-scholz-therapiesitzung-mit-dem-kanzler](https://www.spiegel.de/politik/deutschland/sommerpressekonferenz-von-olaf-scholz-therapiesitzung-mit-dem-kanzler-a-6f8fb8fd-5e30-4677-bcb8-49b7f593ecfd#ref=rss)
-### festgenommen
-
-* [https://www.spiegel.de/panorama/justiz/gilgo-beach-polizei-nimmt-verdaechtigen-nach-mordserie-in-usa-fest](https://www.spiegel.de/panorama/justiz/gilgo-beach-polizei-nimmt-verdaechtigen-nach-mordserie-in-usa-fest-a-ba9f5f5b-c61a-4287-aa1d-d6147178a60b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mallorca-sechs-urlauber-aus-deutschland-wegen-vergewaltigungsverdacht-festgenommen](https://www.spiegel.de/panorama/justiz/mallorca-sechs-urlauber-aus-deutschland-wegen-vergewaltigungsverdacht-festgenommen-a-148fce61-5719-4b81-bbb4-e62715c70738#ref=rss)
-### bundesregierung
-
-* [https://www.spiegel.de/ausland/china-strategie-der-bundesregierung-peking-schmollt-aber-leise](https://www.spiegel.de/ausland/china-strategie-der-bundesregierung-peking-schmollt-aber-leise-a-843011fd-1ca7-4e0c-a96a-badd37faacc1#ref=rss)
-### peking
-
-* [https://www.spiegel.de/ausland/china-strategie-der-bundesregierung-peking-schmollt-aber-leise](https://www.spiegel.de/ausland/china-strategie-der-bundesregierung-peking-schmollt-aber-leise-a-843011fd-1ca7-4e0c-a96a-badd37faacc1#ref=rss)
-### davon
-
-* [https://www.spiegel.de/ausland/china-strategie-der-bundesregierung-peking-schmollt-aber-leise](https://www.spiegel.de/ausland/china-strategie-der-bundesregierung-peking-schmollt-aber-leise-a-843011fd-1ca7-4e0c-a96a-badd37faacc1#ref=rss)
-* [https://www.spiegel.de/sport/tour-de-france-michal-kwiatkowski-siegt-am-grand-colombier-jonas-vingegaard-bleibt-in-gelb](https://www.spiegel.de/sport/tour-de-france-michal-kwiatkowski-siegt-am-grand-colombier-jonas-vingegaard-bleibt-in-gelb-a-ce14d15b-cc14-4beb-85de-905f9e659b52#ref=rss)
-### wenig
-
-* [https://www.spiegel.de/ausland/china-strategie-der-bundesregierung-peking-schmollt-aber-leise](https://www.spiegel.de/ausland/china-strategie-der-bundesregierung-peking-schmollt-aber-leise-a-843011fd-1ca7-4e0c-a96a-badd37faacc1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ehegattensplitting-mehrheit-sieht-abschaffung-nicht-als-beitrag-zur-gleichberechtigung](https://www.spiegel.de/politik/deutschland/ehegattensplitting-mehrheit-sieht-abschaffung-nicht-als-beitrag-zur-gleichberechtigung-a-a7bd52b8-cf8a-4c95-bd3d-4671c54fb43a#ref=rss)
-### mitten
-
-* [https://www.spiegel.de/politik/deutschland/und-dann-bringt-ein-jingle-bells-klingelton-scholz-zum-lachen](https://www.spiegel.de/politik/deutschland/und-dann-bringt-ein-jingle-bells-klingelton-scholz-zum-lachen-a-0008a953-f9af-408a-9801-6c0d6fcca086#ref=rss)
-* [https://www.spiegel.de/politik/olaf-scholz-lacher-bei-sommer-pk-das-ist-jetzt-kein-cyber-angriff](https://www.spiegel.de/politik/olaf-scholz-lacher-bei-sommer-pk-das-ist-jetzt-kein-cyber-angriff-a-29d36ee7-41b2-48e4-acb5-4aa1fa7a5c25#ref=rss)
-### erklingt
-
-* [https://www.spiegel.de/politik/deutschland/und-dann-bringt-ein-jingle-bells-klingelton-scholz-zum-lachen](https://www.spiegel.de/politik/deutschland/und-dann-bringt-ein-jingle-bells-klingelton-scholz-zum-lachen-a-0008a953-f9af-408a-9801-6c0d6fcca086#ref=rss)
-* [https://www.spiegel.de/politik/olaf-scholz-lacher-bei-sommer-pk-das-ist-jetzt-kein-cyber-angriff](https://www.spiegel.de/politik/olaf-scholz-lacher-bei-sommer-pk-das-ist-jetzt-kein-cyber-angriff-a-29d36ee7-41b2-48e4-acb5-4aa1fa7a5c25#ref=rss)
-### pfeifen
-
-* [https://www.spiegel.de/politik/deutschland/und-dann-bringt-ein-jingle-bells-klingelton-scholz-zum-lachen](https://www.spiegel.de/politik/deutschland/und-dann-bringt-ein-jingle-bells-klingelton-scholz-zum-lachen-a-0008a953-f9af-408a-9801-6c0d6fcca086#ref=rss)
-* [https://www.spiegel.de/politik/olaf-scholz-lacher-bei-sommer-pk-das-ist-jetzt-kein-cyber-angriff](https://www.spiegel.de/politik/olaf-scholz-lacher-bei-sommer-pk-das-ist-jetzt-kein-cyber-angriff-a-29d36ee7-41b2-48e4-acb5-4aa1fa7a5c25#ref=rss)
-### raum
-
-* [https://www.spiegel.de/politik/deutschland/und-dann-bringt-ein-jingle-bells-klingelton-scholz-zum-lachen](https://www.spiegel.de/politik/deutschland/und-dann-bringt-ein-jingle-bells-klingelton-scholz-zum-lachen-a-0008a953-f9af-408a-9801-6c0d6fcca086#ref=rss)
-* [https://www.spiegel.de/politik/olaf-scholz-lacher-bei-sommer-pk-das-ist-jetzt-kein-cyber-angriff](https://www.spiegel.de/politik/olaf-scholz-lacher-bei-sommer-pk-das-ist-jetzt-kein-cyber-angriff-a-29d36ee7-41b2-48e4-acb5-4aa1fa7a5c25#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/politik/deutschland/und-dann-bringt-ein-jingle-bells-klingelton-scholz-zum-lachen](https://www.spiegel.de/politik/deutschland/und-dann-bringt-ein-jingle-bells-klingelton-scholz-zum-lachen-a-0008a953-f9af-408a-9801-6c0d6fcca086#ref=rss)
-* [https://www.spiegel.de/politik/olaf-scholz-lacher-bei-sommer-pk-das-ist-jetzt-kein-cyber-angriff](https://www.spiegel.de/politik/olaf-scholz-lacher-bei-sommer-pk-das-ist-jetzt-kein-cyber-angriff-a-29d36ee7-41b2-48e4-acb5-4aa1fa7a5c25#ref=rss)
-### klingelton
-
-* [https://www.spiegel.de/politik/deutschland/und-dann-bringt-ein-jingle-bells-klingelton-scholz-zum-lachen](https://www.spiegel.de/politik/deutschland/und-dann-bringt-ein-jingle-bells-klingelton-scholz-zum-lachen-a-0008a953-f9af-408a-9801-6c0d6fcca086#ref=rss)
-* [https://www.spiegel.de/politik/olaf-scholz-lacher-bei-sommer-pk-das-ist-jetzt-kein-cyber-angriff](https://www.spiegel.de/politik/olaf-scholz-lacher-bei-sommer-pk-das-ist-jetzt-kein-cyber-angriff-a-29d36ee7-41b2-48e4-acb5-4aa1fa7a5c25#ref=rss)
-### einfach
-
-* [https://www.spiegel.de/politik/deutschland/und-dann-bringt-ein-jingle-bells-klingelton-scholz-zum-lachen](https://www.spiegel.de/politik/deutschland/und-dann-bringt-ein-jingle-bells-klingelton-scholz-zum-lachen-a-0008a953-f9af-408a-9801-6c0d6fcca086#ref=rss)
-* [https://www.spiegel.de/politik/olaf-scholz-lacher-bei-sommer-pk-das-ist-jetzt-kein-cyber-angriff](https://www.spiegel.de/politik/olaf-scholz-lacher-bei-sommer-pk-das-ist-jetzt-kein-cyber-angriff-a-29d36ee7-41b2-48e4-acb5-4aa1fa7a5c25#ref=rss)
-### novak
-
-* [https://www.spiegel.de/sport/tennis/wimbledon-novak-djokovic-schlaegt-jannik-sinner-und-zieht-ins-finale-ein](https://www.spiegel.de/sport/tennis/wimbledon-novak-djokovic-schlaegt-jannik-sinner-und-zieht-ins-finale-ein-a-45cfce3b-8a70-46c4-823c-c1123ea7de7a#ref=rss)
-### djoković
-
-* [https://www.spiegel.de/sport/tennis/wimbledon-novak-djokovic-schlaegt-jannik-sinner-und-zieht-ins-finale-ein](https://www.spiegel.de/sport/tennis/wimbledon-novak-djokovic-schlaegt-jannik-sinner-und-zieht-ins-finale-ein-a-45cfce3b-8a70-46c4-823c-c1123ea7de7a#ref=rss)
-### jannik
-
-* [https://www.spiegel.de/sport/tennis/wimbledon-novak-djokovic-schlaegt-jannik-sinner-und-zieht-ins-finale-ein](https://www.spiegel.de/sport/tennis/wimbledon-novak-djokovic-schlaegt-jannik-sinner-und-zieht-ins-finale-ein-a-45cfce3b-8a70-46c4-823c-c1123ea7de7a#ref=rss)
-### sinner
-
-* [https://www.spiegel.de/sport/tennis/wimbledon-novak-djokovic-schlaegt-jannik-sinner-und-zieht-ins-finale-ein](https://www.spiegel.de/sport/tennis/wimbledon-novak-djokovic-schlaegt-jannik-sinner-und-zieht-ins-finale-ein-a-45cfce3b-8a70-46c4-823c-c1123ea7de7a#ref=rss)
-### finale
-
-* [https://www.spiegel.de/sport/tennis/wimbledon-novak-djokovic-schlaegt-jannik-sinner-und-zieht-ins-finale-ein](https://www.spiegel.de/sport/tennis/wimbledon-novak-djokovic-schlaegt-jannik-sinner-und-zieht-ins-finale-ein-a-45cfce3b-8a70-46c4-823c-c1123ea7de7a#ref=rss)
-* [https://www.spiegel.de/sport/tennis/wimbledon-marketa-vondrousovas-ehemann-reist-dank-katzensitter-zum-finale](https://www.spiegel.de/sport/tennis/wimbledon-marketa-vondrousovas-ehemann-reist-dank-katzensitter-zum-finale-a-bd0ea614-f111-45df-932f-d3d217facc50#ref=rss)
-### berlinreinickendorf
-
-* [https://www.spiegel.de/auto/berlin-reinickendorf-gestoppter-fast-fertiger-radweg-soll-nun-doch-eroeffnen](https://www.spiegel.de/auto/berlin-reinickendorf-gestoppter-fast-fertiger-radweg-soll-nun-doch-eroeffnen-a-83190967-84ff-4509-bf94-196ff7847772#ref=rss)
-### fertiger
-
-* [https://www.spiegel.de/auto/berlin-reinickendorf-gestoppter-fast-fertiger-radweg-soll-nun-doch-eroeffnen](https://www.spiegel.de/auto/berlin-reinickendorf-gestoppter-fast-fertiger-radweg-soll-nun-doch-eroeffnen-a-83190967-84ff-4509-bf94-196ff7847772#ref=rss)
-### neue
-
-* [https://www.spiegel.de/auto/berlin-reinickendorf-gestoppter-fast-fertiger-radweg-soll-nun-doch-eroeffnen](https://www.spiegel.de/auto/berlin-reinickendorf-gestoppter-fast-fertiger-radweg-soll-nun-doch-eroeffnen-a-83190967-84ff-4509-bf94-196ff7847772#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sommerpressekonferenz-von-olaf-scholz-therapiesitzung-mit-dem-kanzler](https://www.spiegel.de/politik/deutschland/sommerpressekonferenz-von-olaf-scholz-therapiesitzung-mit-dem-kanzler-a-6f8fb8fd-5e30-4677-bcb8-49b7f593ecfd#ref=rss)
-### tour
-
-* [https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-greift-an-jonas-vingegaard-pariert](https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-greift-an-jonas-vingegaard-pariert-a-9702b649-c465-4260-90e1-b0105b99ed41#ref=rss)
-* [https://www.spiegel.de/sport/tour-de-france-michal-kwiatkowski-siegt-am-grand-colombier-jonas-vingegaard-bleibt-in-gelb](https://www.spiegel.de/sport/tour-de-france-michal-kwiatkowski-siegt-am-grand-colombier-jonas-vingegaard-bleibt-in-gelb-a-ce14d15b-cc14-4beb-85de-905f9e659b52#ref=rss)
-### de
-
-* [https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-greift-an-jonas-vingegaard-pariert](https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-greift-an-jonas-vingegaard-pariert-a-9702b649-c465-4260-90e1-b0105b99ed41#ref=rss)
-* [https://www.spiegel.de/sport/tour-de-france-michal-kwiatkowski-siegt-am-grand-colombier-jonas-vingegaard-bleibt-in-gelb](https://www.spiegel.de/sport/tour-de-france-michal-kwiatkowski-siegt-am-grand-colombier-jonas-vingegaard-bleibt-in-gelb-a-ce14d15b-cc14-4beb-85de-905f9e659b52#ref=rss)
-### france
-
-* [https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-greift-an-jonas-vingegaard-pariert](https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-greift-an-jonas-vingegaard-pariert-a-9702b649-c465-4260-90e1-b0105b99ed41#ref=rss)
-* [https://www.spiegel.de/sport/tour-de-france-michal-kwiatkowski-siegt-am-grand-colombier-jonas-vingegaard-bleibt-in-gelb](https://www.spiegel.de/sport/tour-de-france-michal-kwiatkowski-siegt-am-grand-colombier-jonas-vingegaard-bleibt-in-gelb-a-ce14d15b-cc14-4beb-85de-905f9e659b52#ref=rss)
-### pogačar
-
-* [https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-greift-an-jonas-vingegaard-pariert](https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-greift-an-jonas-vingegaard-pariert-a-9702b649-c465-4260-90e1-b0105b99ed41#ref=rss)
-### wochenende
-
-* [https://www.spiegel.de/ausland/schweden-polizei-erlaubt-demo-mit-geplanter-verbrennung-von-tora-und-bibel](https://www.spiegel.de/ausland/schweden-polizei-erlaubt-demo-mit-geplanter-verbrennung-von-tora-und-bibel-a-25bbb2b4-29e9-4288-b741-890a480a5228#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/berlin-zutritt-in-freibaeder-nur-noch-mit-ausweis](https://www.spiegel.de/panorama/gesellschaft/berlin-zutritt-in-freibaeder-nur-noch-mit-ausweis-a-7c976f49-bb8a-4927-bf73-e270b4d41a28#ref=rss)
-### juden
-
-* [https://www.spiegel.de/ausland/schweden-polizei-erlaubt-demo-mit-geplanter-verbrennung-von-tora-und-bibel](https://www.spiegel.de/ausland/schweden-polizei-erlaubt-demo-mit-geplanter-verbrennung-von-tora-und-bibel-a-25bbb2b4-29e9-4288-b741-890a480a5228#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/salafistischer-imam-hassprediger-im-visier-der-behoerden-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/salafistischer-imam-hassprediger-im-visier-der-behoerden-spiegel-tv-a-cf7538ab-5a88-4db8-bb5c-535111c526f5#ref=rss)
-### reagiert
-
-* [https://www.spiegel.de/ausland/schweden-polizei-erlaubt-demo-mit-geplanter-verbrennung-von-tora-und-bibel](https://www.spiegel.de/ausland/schweden-polizei-erlaubt-demo-mit-geplanter-verbrennung-von-tora-und-bibel-a-25bbb2b4-29e9-4288-b741-890a480a5228#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/berlin-zutritt-in-freibaeder-nur-noch-mit-ausweis](https://www.spiegel.de/panorama/gesellschaft/berlin-zutritt-in-freibaeder-nur-noch-mit-ausweis-a-7c976f49-bb8a-4927-bf73-e270b4d41a28#ref=rss)
-### freigesprochen
-
-* [https://www.spiegel.de/panorama/justiz/freispruch-fuer-polizei-inspekteur-renner-da-war-kein-ekel-zu-sehen](https://www.spiegel.de/panorama/justiz/freispruch-fuer-polizei-inspekteur-renner-da-war-kein-ekel-zu-sehen-a-2be054db-8615-43dd-9181-c7efb1e81948#ref=rss)
-* [https://www.spiegel.de/panorama/benjamin-mendy-weitere-vorwuerfe-gegen-ex-manchester-city-profi-fallengelassen](https://www.spiegel.de/panorama/benjamin-mendy-weitere-vorwuerfe-gegen-ex-manchester-city-profi-fallengelassen-a-e2b4f713-13e3-47a4-951c-da4d9c60d0b9#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/panorama/justiz/freispruch-fuer-polizei-inspekteur-renner-da-war-kein-ekel-zu-sehen](https://www.spiegel.de/panorama/justiz/freispruch-fuer-polizei-inspekteur-renner-da-war-kein-ekel-zu-sehen-a-2be054db-8615-43dd-9181-c7efb1e81948#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/salafistischer-imam-hassprediger-im-visier-der-behoerden-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/salafistischer-imam-hassprediger-im-visier-der-behoerden-spiegel-tv-a-cf7538ab-5a88-4db8-bb5c-535111c526f5#ref=rss)
-### ungarn
-
-* [https://www.spiegel.de/ausland/ungarn-buchhandlung-in-budapest-soll-32-000-euro-strafe-fuer-lgbti-comic-zahlen](https://www.spiegel.de/ausland/ungarn-buchhandlung-in-budapest-soll-32-000-euro-strafe-fuer-lgbti-comic-zahlen-a-952155dd-67bb-4cc0-88a9-e0bd83c553e3#ref=rss)
-### feuerwehrmann
-
-* [https://www.spiegel.de/panorama/gesellschaft/flut-an-der-ahr-feuerwehrmann-verlor-in-der-nacht-sein-haus-und-wartet-bis-heute-auf-ein-neubaugrundstueck](https://www.spiegel.de/panorama/gesellschaft/flut-an-der-ahr-feuerwehrmann-verlor-in-der-nacht-sein-haus-und-wartet-bis-heute-auf-ein-neubaugrundstueck-a-00c75442-4936-4ce3-9a04-76d29243fc4a#ref=rss)
-### haus
-
-* [https://www.spiegel.de/panorama/gesellschaft/flut-an-der-ahr-feuerwehrmann-verlor-in-der-nacht-sein-haus-und-wartet-bis-heute-auf-ein-neubaugrundstueck](https://www.spiegel.de/panorama/gesellschaft/flut-an-der-ahr-feuerwehrmann-verlor-in-der-nacht-sein-haus-und-wartet-bis-heute-auf-ein-neubaugrundstueck-a-00c75442-4936-4ce3-9a04-76d29243fc4a#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/panorama/gesellschaft/flut-an-der-ahr-feuerwehrmann-verlor-in-der-nacht-sein-haus-und-wartet-bis-heute-auf-ein-neubaugrundstueck](https://www.spiegel.de/panorama/gesellschaft/flut-an-der-ahr-feuerwehrmann-verlor-in-der-nacht-sein-haus-und-wartet-bis-heute-auf-ein-neubaugrundstueck-a-00c75442-4936-4ce3-9a04-76d29243fc4a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-columbiabad-in-berlin-neukoelln-familienpolitik-kuenstliche-intelligenz-in-hollywood](https://www.spiegel.de/politik/deutschland/news-des-tages-columbiabad-in-berlin-neukoelln-familienpolitik-kuenstliche-intelligenz-in-hollywood-a-87027c2b-1e2e-4d7b-9e63-c67286d65b94#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/gesellschaft/flut-an-der-ahr-feuerwehrmann-verlor-in-der-nacht-sein-haus-und-wartet-bis-heute-auf-ein-neubaugrundstueck](https://www.spiegel.de/panorama/gesellschaft/flut-an-der-ahr-feuerwehrmann-verlor-in-der-nacht-sein-haus-und-wartet-bis-heute-auf-ein-neubaugrundstueck-a-00c75442-4936-4ce3-9a04-76d29243fc4a#ref=rss)
-* [https://www.spiegel.de/panorama/pet-comedy-awards-lustige-tierfotos](https://www.spiegel.de/panorama/pet-comedy-awards-lustige-tierfotos-a-06fe2018-ac45-4260-a714-bbd7e3fcb375#ref=rss)
-### wegovy
-
-* [https://www.spiegel.de/wissenschaft/mensch/wegovy-abnehm-medikament-ab-montag-in-deutschland-verschreibbar](https://www.spiegel.de/wissenschaft/mensch/wegovy-abnehm-medikament-ab-montag-in-deutschland-verschreibbar-a-8c1f5585-0ca6-42de-97d0-678ede62d6ce#ref=rss)
-### mittelmeer
-
-* [https://www.spiegel.de/ausland/migration-im-mittelmeer-starben-laut-unicef-289-fluechtlingskinder](https://www.spiegel.de/ausland/migration-im-mittelmeer-starben-laut-unicef-289-fluechtlingskinder-a-c2f08476-e26f-481e-8d19-163660becf2b#ref=rss)
-### laut
-
-* [https://www.spiegel.de/ausland/migration-im-mittelmeer-starben-laut-unicef-289-fluechtlingskinder](https://www.spiegel.de/ausland/migration-im-mittelmeer-starben-laut-unicef-289-fluechtlingskinder-a-c2f08476-e26f-481e-8d19-163660becf2b#ref=rss)
-### 289
-
-* [https://www.spiegel.de/ausland/migration-im-mittelmeer-starben-laut-unicef-289-fluechtlingskinder](https://www.spiegel.de/ausland/migration-im-mittelmeer-starben-laut-unicef-289-fluechtlingskinder-a-c2f08476-e26f-481e-8d19-163660becf2b#ref=rss)
+* [https://www.spiegel.de/karriere/verhaltensoekonomie-hitze-fuehrt-zu-risikoscheuen-entscheidungen](https://www.spiegel.de/karriere/verhaltensoekonomie-hitze-fuehrt-zu-risikoscheuen-entscheidungen-a-c01249b2-2bfe-403f-bceb-3ce0c1376d1c#ref=rss)
+* [https://www.spiegel.de/kultur/kino/mega-streik-in-hollywood-das-ende-der-traumfabrik-wie-wir-sie-kannten](https://www.spiegel.de/kultur/kino/mega-streik-in-hollywood-das-ende-der-traumfabrik-wie-wir-sie-kannten-a-96ddcffa-f768-4b91-8bd8-34aa9d38e508#ref=rss)
+* [https://www.spiegel.de/tests/elektronik/magsafe-das-sind-die-besten-kabellosen-ladestationen-fuer-iphones](https://www.spiegel.de/tests/elektronik/magsafe-das-sind-die-besten-kabellosen-ladestationen-fuer-iphones-a-2c4c5ede-1737-4d46-8076-4b1be4927df6#ref=rss)
+* [https://www.spiegel.de/reise/urlaub-wie-nehmen-wir-die-erholung-aus-dem-urlaub-mit-in-den-alltag-podcast](https://www.spiegel.de/reise/urlaub-wie-nehmen-wir-die-erholung-aus-dem-urlaub-mit-in-den-alltag-podcast-a-9f3c9c86-5c27-4df7-b2f4-cabbc51f76c2#ref=rss)
+* [https://www.spiegel.de/ausland/klimawandel-diese-haeuser-sollen-millionen-menschen-vor-fluten-und-erdbeben-schuetzen](https://www.spiegel.de/ausland/klimawandel-diese-haeuser-sollen-millionen-menschen-vor-fluten-und-erdbeben-schuetzen-a-c34e94ff-ed9a-4e3e-a4e1-2ec56286857c#ref=rss)
 ### viele
 
-* [https://www.spiegel.de/ausland/migration-im-mittelmeer-starben-laut-unicef-289-fluechtlingskinder](https://www.spiegel.de/ausland/migration-im-mittelmeer-starben-laut-unicef-289-fluechtlingskinder-a-c2f08476-e26f-481e-8d19-163660becf2b#ref=rss)
-* [https://www.spiegel.de/panorama/pet-comedy-awards-lustige-tierfotos](https://www.spiegel.de/panorama/pet-comedy-awards-lustige-tierfotos-a-06fe2018-ac45-4260-a714-bbd7e3fcb375#ref=rss)
-### 2023
+* [https://www.spiegel.de/gesundheit/hitze-aerzte-chef-plaediert-fuer-klimatisierung-von-seniorenheimen](https://www.spiegel.de/gesundheit/hitze-aerzte-chef-plaediert-fuer-klimatisierung-von-seniorenheimen-a-60fbdb92-e04f-443e-bb7d-9fb124fbf182#ref=rss)
+* [https://www.spiegel.de/panorama/ahrtal-politiker-und-bewohner-gedenken-opfer-der-flutkatastrophe](https://www.spiegel.de/panorama/ahrtal-politiker-und-bewohner-gedenken-opfer-der-flutkatastrophe-a-c0e8c78f-af9d-41c4-b1c7-7d772da6b388#ref=rss)
+* [https://www.spiegel.de/auto/byd-nio-polestar-was-e-autos-aus-china-koennen](https://www.spiegel.de/auto/byd-nio-polestar-was-e-autos-aus-china-koennen-a-9af8087b-ff0e-4aa8-bd5e-04a0d635fcdf#ref=rss)
+* [https://www.spiegel.de/tests/elektronik/magsafe-das-sind-die-besten-kabellosen-ladestationen-fuer-iphones](https://www.spiegel.de/tests/elektronik/magsafe-das-sind-die-besten-kabellosen-ladestationen-fuer-iphones-a-2c4c5ede-1737-4d46-8076-4b1be4927df6#ref=rss)
+### erklärt
 
-* [https://www.spiegel.de/ausland/migration-im-mittelmeer-starben-laut-unicef-289-fluechtlingskinder](https://www.spiegel.de/ausland/migration-im-mittelmeer-starben-laut-unicef-289-fluechtlingskinder-a-c2f08476-e26f-481e-8d19-163660becf2b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2023-kolumbiens-testspiel-gegen-irland-wegen-uebertriebener-haerte-abgebrochen](https://www.spiegel.de/sport/fussball/fussball-wm-2023-kolumbiens-testspiel-gegen-irland-wegen-uebertriebener-haerte-abgebrochen-a-bb678632-3b84-4230-ba65-ab6c309e2a0f#ref=rss)
-### kinder
+* [https://www.spiegel.de/ausland/ukraine-wie-russland-riesige-minenfelder-auslegt-und-kiew-sie-muehsam-raeumt](https://www.spiegel.de/ausland/ukraine-wie-russland-riesige-minenfelder-auslegt-und-kiew-sie-muehsam-raeumt-a-c5496ff8-d4fa-4372-a4ad-9bf831e38d16#ref=rss)
+* [https://www.spiegel.de/karriere/verhaltensoekonomie-hitze-fuehrt-zu-risikoscheuen-entscheidungen](https://www.spiegel.de/karriere/verhaltensoekonomie-hitze-fuehrt-zu-risikoscheuen-entscheidungen-a-c01249b2-2bfe-403f-bceb-3ce0c1376d1c#ref=rss)
+* [https://www.spiegel.de/reise/urlaub-wie-nehmen-wir-die-erholung-aus-dem-urlaub-mit-in-den-alltag-podcast](https://www.spiegel.de/reise/urlaub-wie-nehmen-wir-die-erholung-aus-dem-urlaub-mit-in-den-alltag-podcast-a-9f3c9c86-5c27-4df7-b2f4-cabbc51f76c2#ref=rss)
+* [https://www.spiegel.de/start/gender-studies-margit-szoelloesi-janze-erklaert-die-empfehlungen-des-wissenschaftsrats](https://www.spiegel.de/start/gender-studies-margit-szoelloesi-janze-erklaert-die-empfehlungen-des-wissenschaftsrats-a-43b2613b-e25d-4190-8239-298bada58f77#ref=rss)
+### woche
 
-* [https://www.spiegel.de/ausland/migration-im-mittelmeer-starben-laut-unicef-289-fluechtlingskinder](https://www.spiegel.de/ausland/migration-im-mittelmeer-starben-laut-unicef-289-fluechtlingskinder-a-c2f08476-e26f-481e-8d19-163660becf2b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-columbiabad-in-berlin-neukoelln-familienpolitik-kuenstliche-intelligenz-in-hollywood](https://www.spiegel.de/politik/deutschland/news-des-tages-columbiabad-in-berlin-neukoelln-familienpolitik-kuenstliche-intelligenz-in-hollywood-a-87027c2b-1e2e-4d7b-9e63-c67286d65b94#ref=rss)
-### leben
+* [https://www.spiegel.de/panorama/die-bilder-der-woche-the-heat-is-on](https://www.spiegel.de/panorama/die-bilder-der-woche-the-heat-is-on-a-4da1e53a-57da-40d5-9c73-59df1e1af331#ref=rss)
+* [https://www.spiegel.de/ausland/klimawandel-diese-haeuser-sollen-millionen-menschen-vor-fluten-und-erdbeben-schuetzen](https://www.spiegel.de/ausland/klimawandel-diese-haeuser-sollen-millionen-menschen-vor-fluten-und-erdbeben-schuetzen-a-c34e94ff-ed9a-4e3e-a4e1-2ec56286857c#ref=rss)
+### russland
 
-* [https://www.spiegel.de/ausland/migration-im-mittelmeer-starben-laut-unicef-289-fluechtlingskinder](https://www.spiegel.de/ausland/migration-im-mittelmeer-starben-laut-unicef-289-fluechtlingskinder-a-c2f08476-e26f-481e-8d19-163660becf2b#ref=rss)
-* [https://www.spiegel.de/panorama/pet-comedy-awards-lustige-tierfotos](https://www.spiegel.de/panorama/pet-comedy-awards-lustige-tierfotos-a-06fe2018-ac45-4260-a714-bbd7e3fcb375#ref=rss)
-### generation
+* [https://www.spiegel.de/ausland/ukraine-russland-news-am-samstag-unter-russischen-offizieren-herrscht-laut-london-grosse-unzufriedenheit](https://www.spiegel.de/ausland/ukraine-russland-news-am-samstag-unter-russischen-offizieren-herrscht-laut-london-grosse-unzufriedenheit-a-cd94376d-f06d-49bb-9c29-10aeec0cb2d8#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wie-russland-riesige-minenfelder-auslegt-und-kiew-sie-muehsam-raeumt](https://www.spiegel.de/ausland/ukraine-wie-russland-riesige-minenfelder-auslegt-und-kiew-sie-muehsam-raeumt-a-c5496ff8-d4fa-4372-a4ad-9bf831e38d16#ref=rss)
+### führt
 
-* [https://www.spiegel.de/panorama/bundesweite-aktionen-letzten-generation-so-lief-der-protesttag](https://www.spiegel.de/panorama/bundesweite-aktionen-letzten-generation-so-lief-der-protesttag-a-9622ab03-ec97-4585-9409-7325ac3aadc4#ref=rss)
-### lief
-
-* [https://www.spiegel.de/panorama/bundesweite-aktionen-letzten-generation-so-lief-der-protesttag](https://www.spiegel.de/panorama/bundesweite-aktionen-letzten-generation-so-lief-der-protesttag-a-9622ab03-ec97-4585-9409-7325ac3aadc4#ref=rss)
-* [https://www.spiegel.de/panorama/benjamin-mendy-weitere-vorwuerfe-gegen-ex-manchester-city-profi-fallengelassen](https://www.spiegel.de/panorama/benjamin-mendy-weitere-vorwuerfe-gegen-ex-manchester-city-profi-fallengelassen-a-e2b4f713-13e3-47a4-951c-da4d9c60d0b9#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/bundesweite-aktionen-letzten-generation-so-lief-der-protesttag](https://www.spiegel.de/panorama/bundesweite-aktionen-letzten-generation-so-lief-der-protesttag-a-9622ab03-ec97-4585-9409-7325ac3aadc4#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/berlin-zutritt-in-freibaeder-nur-noch-mit-ausweis](https://www.spiegel.de/panorama/gesellschaft/berlin-zutritt-in-freibaeder-nur-noch-mit-ausweis-a-7c976f49-bb8a-4927-bf73-e270b4d41a28#ref=rss)
-### ehegattensplitting
-
-* [https://www.spiegel.de/politik/deutschland/ehegattensplitting-mehrheit-sieht-abschaffung-nicht-als-beitrag-zur-gleichberechtigung](https://www.spiegel.de/politik/deutschland/ehegattensplitting-mehrheit-sieht-abschaffung-nicht-als-beitrag-zur-gleichberechtigung-a-a7bd52b8-cf8a-4c95-bd3d-4671c54fb43a#ref=rss)
-### gleichberechtigung
-
-* [https://www.spiegel.de/politik/deutschland/ehegattensplitting-mehrheit-sieht-abschaffung-nicht-als-beitrag-zur-gleichberechtigung](https://www.spiegel.de/politik/deutschland/ehegattensplitting-mehrheit-sieht-abschaffung-nicht-als-beitrag-zur-gleichberechtigung-a-a7bd52b8-cf8a-4c95-bd3d-4671c54fb43a#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/politik/deutschland/ehegattensplitting-mehrheit-sieht-abschaffung-nicht-als-beitrag-zur-gleichberechtigung](https://www.spiegel.de/politik/deutschland/ehegattensplitting-mehrheit-sieht-abschaffung-nicht-als-beitrag-zur-gleichberechtigung-a-a7bd52b8-cf8a-4c95-bd3d-4671c54fb43a#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/rechtsextremismus-an-schule-in-brandenburg-rechtsextreme-straftaten-werden-als-imageproblem-gesehen](https://www.spiegel.de/panorama/gesellschaft/rechtsextremismus-an-schule-in-brandenburg-rechtsextreme-straftaten-werden-als-imageproblem-gesehen-a-7ccff3d5-2c08-448a-bb0f-06fd71ac9e2c#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/afd-spricht-bei-forderung-nach-eu-aufloesung-von-redaktionellem-versehen](https://www.spiegel.de/politik/deutschland/afd-spricht-bei-forderung-nach-eu-aufloesung-von-redaktionellem-versehen-a-96c198ff-0c91-4774-b2f9-6d2a0853e1e5#ref=rss)
-### fand
-
-* [https://www.spiegel.de/politik/deutschland/afd-spricht-bei-forderung-nach-eu-aufloesung-von-redaktionellem-versehen](https://www.spiegel.de/politik/deutschland/afd-spricht-bei-forderung-nach-eu-aufloesung-von-redaktionellem-versehen-a-96c198ff-0c91-4774-b2f9-6d2a0853e1e5#ref=rss)
-* [https://www.spiegel.de/sport/tennis/wimbledon-marketa-vondrousovas-ehemann-reist-dank-katzensitter-zum-finale](https://www.spiegel.de/sport/tennis/wimbledon-marketa-vondrousovas-ehemann-reist-dank-katzensitter-zum-finale-a-bd0ea614-f111-45df-932f-d3d217facc50#ref=rss)
-### rechtsextreme
-
-* [https://www.spiegel.de/politik/deutschland/afd-spricht-bei-forderung-nach-eu-aufloesung-von-redaktionellem-versehen](https://www.spiegel.de/politik/deutschland/afd-spricht-bei-forderung-nach-eu-aufloesung-von-redaktionellem-versehen-a-96c198ff-0c91-4774-b2f9-6d2a0853e1e5#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/rechtsextremismus-an-schule-in-brandenburg-rechtsextreme-straftaten-werden-als-imageproblem-gesehen](https://www.spiegel.de/panorama/gesellschaft/rechtsextremismus-an-schule-in-brandenburg-rechtsextreme-straftaten-werden-als-imageproblem-gesehen-a-7ccff3d5-2c08-448a-bb0f-06fd71ac9e2c#ref=rss)
+* [https://www.spiegel.de/kultur/tv/fran-drescher-fuehrt-den-schauspieler-streik-von-sag-aftra-in-hollywood-an](https://www.spiegel.de/kultur/tv/fran-drescher-fuehrt-den-schauspieler-streik-von-sag-aftra-in-hollywood-an-a-1cf651fa-0b0c-40ea-87fb-433ba3824854#ref=rss)
+* [https://www.spiegel.de/karriere/verhaltensoekonomie-hitze-fuehrt-zu-risikoscheuen-entscheidungen](https://www.spiegel.de/karriere/verhaltensoekonomie-hitze-fuehrt-zu-risikoscheuen-entscheidungen-a-c01249b2-2bfe-403f-bceb-3ce0c1376d1c#ref=rss)
 ### hollywood
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-columbiabad-in-berlin-neukoelln-familienpolitik-kuenstliche-intelligenz-in-hollywood](https://www.spiegel.de/politik/deutschland/news-des-tages-columbiabad-in-berlin-neukoelln-familienpolitik-kuenstliche-intelligenz-in-hollywood-a-87027c2b-1e2e-4d7b-9e63-c67286d65b94#ref=rss)
-### minuten
+* [https://www.spiegel.de/kultur/tv/fran-drescher-fuehrt-den-schauspieler-streik-von-sag-aftra-in-hollywood-an](https://www.spiegel.de/kultur/tv/fran-drescher-fuehrt-den-schauspieler-streik-von-sag-aftra-in-hollywood-an-a-1cf651fa-0b0c-40ea-87fb-433ba3824854#ref=rss)
+* [https://www.spiegel.de/kultur/kino/mega-streik-in-hollywood-das-ende-der-traumfabrik-wie-wir-sie-kannten](https://www.spiegel.de/kultur/kino/mega-streik-in-hollywood-das-ende-der-traumfabrik-wie-wir-sie-kannten-a-96ddcffa-f768-4b91-8bd8-34aa9d38e508#ref=rss)
+### hitze
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2023-kolumbiens-testspiel-gegen-irland-wegen-uebertriebener-haerte-abgebrochen](https://www.spiegel.de/sport/fussball/fussball-wm-2023-kolumbiens-testspiel-gegen-irland-wegen-uebertriebener-haerte-abgebrochen-a-bb678632-3b84-4230-ba65-ab6c309e2a0f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sommerpressekonferenz-von-olaf-scholz-therapiesitzung-mit-dem-kanzler](https://www.spiegel.de/politik/deutschland/sommerpressekonferenz-von-olaf-scholz-therapiesitzung-mit-dem-kanzler-a-6f8fb8fd-5e30-4677-bcb8-49b7f593ecfd#ref=rss)
-### pet
+* [https://www.spiegel.de/gesundheit/hitze-aerzte-chef-plaediert-fuer-klimatisierung-von-seniorenheimen](https://www.spiegel.de/gesundheit/hitze-aerzte-chef-plaediert-fuer-klimatisierung-von-seniorenheimen-a-60fbdb92-e04f-443e-bb7d-9fb124fbf182#ref=rss)
+* [https://www.spiegel.de/karriere/verhaltensoekonomie-hitze-fuehrt-zu-risikoscheuen-entscheidungen](https://www.spiegel.de/karriere/verhaltensoekonomie-hitze-fuehrt-zu-risikoscheuen-entscheidungen-a-c01249b2-2bfe-403f-bceb-3ce0c1376d1c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-hitze-klimawandel-versiegelung-habeck-waermepumpe-bergsteigen-problembaeren](https://www.spiegel.de/politik/deutschland/news-hitze-klimawandel-versiegelung-habeck-waermepumpe-bergsteigen-problembaeren-a-0811bf03-01a7-4b3c-ba81-a26ff1887af2#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/panorama/pet-comedy-awards-lustige-tierfotos](https://www.spiegel.de/panorama/pet-comedy-awards-lustige-tierfotos-a-06fe2018-ac45-4260-a714-bbd7e3fcb375#ref=rss)
-### comedy
+* [https://www.spiegel.de/gesundheit/hitze-aerzte-chef-plaediert-fuer-klimatisierung-von-seniorenheimen](https://www.spiegel.de/gesundheit/hitze-aerzte-chef-plaediert-fuer-klimatisierung-von-seniorenheimen-a-60fbdb92-e04f-443e-bb7d-9fb124fbf182#ref=rss)
+* [https://www.spiegel.de/panorama/ahrtal-politiker-und-bewohner-gedenken-opfer-der-flutkatastrophe](https://www.spiegel.de/panorama/ahrtal-politiker-und-bewohner-gedenken-opfer-der-flutkatastrophe-a-c0e8c78f-af9d-41c4-b1c7-7d772da6b388#ref=rss)
+* [https://www.spiegel.de/ausland/klimawandel-diese-haeuser-sollen-millionen-menschen-vor-fluten-und-erdbeben-schuetzen](https://www.spiegel.de/ausland/klimawandel-diese-haeuser-sollen-millionen-menschen-vor-fluten-und-erdbeben-schuetzen-a-c34e94ff-ed9a-4e3e-a4e1-2ec56286857c#ref=rss)
+### leben
 
-* [https://www.spiegel.de/panorama/pet-comedy-awards-lustige-tierfotos](https://www.spiegel.de/panorama/pet-comedy-awards-lustige-tierfotos-a-06fe2018-ac45-4260-a714-bbd7e3fcb375#ref=rss)
-### michal
+* [https://www.spiegel.de/gesundheit/hitze-aerzte-chef-plaediert-fuer-klimatisierung-von-seniorenheimen](https://www.spiegel.de/gesundheit/hitze-aerzte-chef-plaediert-fuer-klimatisierung-von-seniorenheimen-a-60fbdb92-e04f-443e-bb7d-9fb124fbf182#ref=rss)
+* [https://www.spiegel.de/ausland/us-senatoren-wollen-freigabe-von-ufo-aufzeichnungen](https://www.spiegel.de/ausland/us-senatoren-wollen-freigabe-von-ufo-aufzeichnungen-a-e8f50b8d-5eba-4ecd-abaa-d6abc6a0e7d7#ref=rss)
+* [https://www.spiegel.de/panorama/19-jaehrige-feuerwehrfrau-kommt-beim-anlegen-einer-schneise-ums-leben](https://www.spiegel.de/panorama/19-jaehrige-feuerwehrfrau-kommt-beim-anlegen-einer-schneise-ums-leben-a-e79e60f0-cecc-4cf2-9038-15feb4304e3b#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/sport/tour-de-france-michal-kwiatkowski-siegt-am-grand-colombier-jonas-vingegaard-bleibt-in-gelb](https://www.spiegel.de/sport/tour-de-france-michal-kwiatkowski-siegt-am-grand-colombier-jonas-vingegaard-bleibt-in-gelb-a-ce14d15b-cc14-4beb-85de-905f9e659b52#ref=rss)
-### kwiatkowski
+* [https://www.spiegel.de/auto/laender-und-kommunen-sollen-260-millionen-euro-in-radwege-investieren](https://www.spiegel.de/auto/laender-und-kommunen-sollen-260-millionen-euro-in-radwege-investieren-a-85885e6f-e7bd-475d-9718-010e6d09b035#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-zahl-der-inlandsfluege-bei-dienstreisen-steigt](https://www.spiegel.de/politik/deutschland/bundesregierung-zahl-der-inlandsfluege-bei-dienstreisen-steigt-a-987217ef-b1e7-492e-887d-f1519bd26b9c#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/banken-krankenversicherungen-und-mehr-ein-sommer-voller-datenlecks](https://www.spiegel.de/netzwelt/web/banken-krankenversicherungen-und-mehr-ein-sommer-voller-datenlecks-a-71d1f112-b46b-46c9-8e84-3cf7f281d9d5#ref=rss)
+### ehegattensplitting
 
-* [https://www.spiegel.de/sport/tour-de-france-michal-kwiatkowski-siegt-am-grand-colombier-jonas-vingegaard-bleibt-in-gelb](https://www.spiegel.de/sport/tour-de-france-michal-kwiatkowski-siegt-am-grand-colombier-jonas-vingegaard-bleibt-in-gelb-a-ce14d15b-cc14-4beb-85de-905f9e659b52#ref=rss)
-### benjamin
+* [https://www.spiegel.de/wirtschaft/milliarden-fuer-die-hausfrauen-ehe](https://www.spiegel.de/wirtschaft/milliarden-fuer-die-hausfrauen-ehe-a-e54ec993-d245-4e8e-81c5-4ca76450e674#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/fdp-chef-christian-lindner-schliesst-abschaffung-von-ehegattensplitting-aus](https://www.spiegel.de/wirtschaft/soziales/fdp-chef-christian-lindner-schliesst-abschaffung-von-ehegattensplitting-aus-a-170664fd-5928-4df4-a91f-708c249a94dd#ref=rss)
+### heiß
 
-* [https://www.spiegel.de/panorama/benjamin-mendy-weitere-vorwuerfe-gegen-ex-manchester-city-profi-fallengelassen](https://www.spiegel.de/panorama/benjamin-mendy-weitere-vorwuerfe-gegen-ex-manchester-city-profi-fallengelassen-a-e2b4f713-13e3-47a4-951c-da4d9c60d0b9#ref=rss)
-### mendy
+* [https://www.spiegel.de/karriere/verhaltensoekonomie-hitze-fuehrt-zu-risikoscheuen-entscheidungen](https://www.spiegel.de/karriere/verhaltensoekonomie-hitze-fuehrt-zu-risikoscheuen-entscheidungen-a-c01249b2-2bfe-403f-bceb-3ce0c1376d1c#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-am-wochenende-bis-zu-38-grad-in-deutschland-im-nordwesten-ungemuetlich](https://www.spiegel.de/panorama/wetter-am-wochenende-bis-zu-38-grad-in-deutschland-im-nordwesten-ungemuetlich-a-6afc1cb7-4206-4af2-a2a7-1c644aaf4828#ref=rss)
+### schauspieler
 
-* [https://www.spiegel.de/panorama/benjamin-mendy-weitere-vorwuerfe-gegen-ex-manchester-city-profi-fallengelassen](https://www.spiegel.de/panorama/benjamin-mendy-weitere-vorwuerfe-gegen-ex-manchester-city-profi-fallengelassen-a-e2b4f713-13e3-47a4-951c-da4d9c60d0b9#ref=rss)
-### karriere
+* [https://www.spiegel.de/kultur/kino/mega-streik-in-hollywood-das-ende-der-traumfabrik-wie-wir-sie-kannten](https://www.spiegel.de/kultur/kino/mega-streik-in-hollywood-das-ende-der-traumfabrik-wie-wir-sie-kannten-a-96ddcffa-f768-4b91-8bd8-34aa9d38e508#ref=rss)
+* [https://www.spiegel.de/kultur/hollywood-streik-schauspieler-errichten-streikposten-vor-filmstudios-in-los-angeles](https://www.spiegel.de/kultur/hollywood-streik-schauspieler-errichten-streikposten-vor-filmstudios-in-los-angeles-a-9301bcb1-8942-4c7a-a598-726b3ee25793#ref=rss)
+### urlaub
 
-* [https://www.spiegel.de/panorama/benjamin-mendy-weitere-vorwuerfe-gegen-ex-manchester-city-profi-fallengelassen](https://www.spiegel.de/panorama/benjamin-mendy-weitere-vorwuerfe-gegen-ex-manchester-city-profi-fallengelassen-a-e2b4f713-13e3-47a4-951c-da4d9c60d0b9#ref=rss)
-* [https://www.spiegel.de/sport/tennis/wimbledon-marketa-vondrousovas-ehemann-reist-dank-katzensitter-zum-finale](https://www.spiegel.de/sport/tennis/wimbledon-marketa-vondrousovas-ehemann-reist-dank-katzensitter-zum-finale-a-bd0ea614-f111-45df-932f-d3d217facc50#ref=rss)
-### markéta
+* [https://www.spiegel.de/reise/urlaub-wie-nehmen-wir-die-erholung-aus-dem-urlaub-mit-in-den-alltag-podcast](https://www.spiegel.de/reise/urlaub-wie-nehmen-wir-die-erholung-aus-dem-urlaub-mit-in-den-alltag-podcast-a-9f3c9c86-5c27-4df7-b2f4-cabbc51f76c2#ref=rss)
+### europa
 
-* [https://www.spiegel.de/sport/tennis/wimbledon-marketa-vondrousovas-ehemann-reist-dank-katzensitter-zum-finale](https://www.spiegel.de/sport/tennis/wimbledon-marketa-vondrousovas-ehemann-reist-dank-katzensitter-zum-finale-a-bd0ea614-f111-45df-932f-d3d217facc50#ref=rss)
-### mann
+* [https://www.spiegel.de/panorama/die-bilder-der-woche-the-heat-is-on](https://www.spiegel.de/panorama/die-bilder-der-woche-the-heat-is-on-a-4da1e53a-57da-40d5-9c73-59df1e1af331#ref=rss)
+* [https://www.spiegel.de/auto/byd-nio-polestar-was-e-autos-aus-china-koennen](https://www.spiegel.de/auto/byd-nio-polestar-was-e-autos-aus-china-koennen-a-9af8087b-ff0e-4aa8-bd5e-04a0d635fcdf#ref=rss)
+### rollt
 
-* [https://www.spiegel.de/sport/tennis/wimbledon-marketa-vondrousovas-ehemann-reist-dank-katzensitter-zum-finale](https://www.spiegel.de/sport/tennis/wimbledon-marketa-vondrousovas-ehemann-reist-dank-katzensitter-zum-finale-a-bd0ea614-f111-45df-932f-d3d217facc50#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/gilgo-beach-polizei-nimmt-verdaechtigen-nach-mordserie-in-usa-fest](https://www.spiegel.de/panorama/justiz/gilgo-beach-polizei-nimmt-verdaechtigen-nach-mordserie-in-usa-fest-a-ba9f5f5b-c61a-4287-aa1d-d6147178a60b#ref=rss)
-### junge
+* [https://www.spiegel.de/panorama/die-bilder-der-woche-the-heat-is-on](https://www.spiegel.de/panorama/die-bilder-der-woche-the-heat-is-on-a-4da1e53a-57da-40d5-9c73-59df1e1af331#ref=rss)
+* [https://www.spiegel.de/auto/byd-nio-polestar-was-e-autos-aus-china-koennen](https://www.spiegel.de/auto/byd-nio-polestar-was-e-autos-aus-china-koennen-a-9af8087b-ff0e-4aa8-bd5e-04a0d635fcdf#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/panorama/justiz/gilgo-beach-polizei-nimmt-verdaechtigen-nach-mordserie-in-usa-fest](https://www.spiegel.de/panorama/justiz/gilgo-beach-polizei-nimmt-verdaechtigen-nach-mordserie-in-usa-fest-a-ba9f5f5b-c61a-4287-aa1d-d6147178a60b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mallorca-sechs-urlauber-aus-deutschland-wegen-vergewaltigungsverdacht-festgenommen](https://www.spiegel.de/panorama/justiz/mallorca-sechs-urlauber-aus-deutschland-wegen-vergewaltigungsverdacht-festgenommen-a-148fce61-5719-4b81-bbb4-e62715c70738#ref=rss)
-### dresden
+* [https://www.spiegel.de/panorama/die-bilder-der-woche-the-heat-is-on](https://www.spiegel.de/panorama/die-bilder-der-woche-the-heat-is-on-a-4da1e53a-57da-40d5-9c73-59df1e1af331#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wie-russland-riesige-minenfelder-auslegt-und-kiew-sie-muehsam-raeumt](https://www.spiegel.de/ausland/ukraine-wie-russland-riesige-minenfelder-auslegt-und-kiew-sie-muehsam-raeumt-a-c5496ff8-d4fa-4372-a4ad-9bf831e38d16#ref=rss)
+### samstag
 
-* [https://www.spiegel.de/panorama/justiz/dresden-polizei-ermittelt-wegen-hitlergruss-gegen-angehenden-kommissar](https://www.spiegel.de/panorama/justiz/dresden-polizei-ermittelt-wegen-hitlergruss-gegen-angehenden-kommissar-a-349eb6ae-49c2-4e9d-b173-8a86e073cd44#ref=rss)
-### hitlergruß
+* [https://www.spiegel.de/ausland/ukraine-russland-news-am-samstag-unter-russischen-offizieren-herrscht-laut-london-grosse-unzufriedenheit](https://www.spiegel.de/ausland/ukraine-russland-news-am-samstag-unter-russischen-offizieren-herrscht-laut-london-grosse-unzufriedenheit-a-cd94376d-f06d-49bb-9c29-10aeec0cb2d8#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-am-wochenende-bis-zu-38-grad-in-deutschland-im-nordwesten-ungemuetlich](https://www.spiegel.de/panorama/wetter-am-wochenende-bis-zu-38-grad-in-deutschland-im-nordwesten-ungemuetlich-a-6afc1cb7-4206-4af2-a2a7-1c644aaf4828#ref=rss)
+### kiews
 
-* [https://www.spiegel.de/panorama/justiz/dresden-polizei-ermittelt-wegen-hitlergruss-gegen-angehenden-kommissar](https://www.spiegel.de/panorama/justiz/dresden-polizei-ermittelt-wegen-hitlergruss-gegen-angehenden-kommissar-a-349eb6ae-49c2-4e9d-b173-8a86e073cd44#ref=rss)
-### lindenberg
+* [https://www.spiegel.de/ausland/ukraine-russland-news-am-samstag-unter-russischen-offizieren-herrscht-laut-london-grosse-unzufriedenheit](https://www.spiegel.de/ausland/ukraine-russland-news-am-samstag-unter-russischen-offizieren-herrscht-laut-london-grosse-unzufriedenheit-a-cd94376d-f06d-49bb-9c29-10aeec0cb2d8#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wie-russland-riesige-minenfelder-auslegt-und-kiew-sie-muehsam-raeumt](https://www.spiegel.de/ausland/ukraine-wie-russland-riesige-minenfelder-auslegt-und-kiew-sie-muehsam-raeumt-a-c5496ff8-d4fa-4372-a4ad-9bf831e38d16#ref=rss)
+### oberbefehlshaber
 
-* [https://www.spiegel.de/kultur/musik/apache-207-und-udo-lindenberg-komet-ist-langlebigster-deutschsprachiger-nummer-eins-hit](https://www.spiegel.de/kultur/musik/apache-207-und-udo-lindenberg-komet-ist-langlebigster-deutschsprachiger-nummer-eins-hit-a-af7bcf36-79cb-4590-90ad-e5991605ab6a#ref=rss)
-### apache
+* [https://www.spiegel.de/ausland/ukraine-russland-news-am-samstag-unter-russischen-offizieren-herrscht-laut-london-grosse-unzufriedenheit](https://www.spiegel.de/ausland/ukraine-russland-news-am-samstag-unter-russischen-offizieren-herrscht-laut-london-grosse-unzufriedenheit-a-cd94376d-f06d-49bb-9c29-10aeec0cb2d8#ref=rss)
+### angriffe
 
-* [https://www.spiegel.de/kultur/musik/apache-207-und-udo-lindenberg-komet-ist-langlebigster-deutschsprachiger-nummer-eins-hit](https://www.spiegel.de/kultur/musik/apache-207-und-udo-lindenberg-komet-ist-langlebigster-deutschsprachiger-nummer-eins-hit-a-af7bcf36-79cb-4590-90ad-e5991605ab6a#ref=rss)
-### 207
+* [https://www.spiegel.de/ausland/ukraine-russland-news-am-samstag-unter-russischen-offizieren-herrscht-laut-london-grosse-unzufriedenheit](https://www.spiegel.de/ausland/ukraine-russland-news-am-samstag-unter-russischen-offizieren-herrscht-laut-london-grosse-unzufriedenheit-a-cd94376d-f06d-49bb-9c29-10aeec0cb2d8#ref=rss)
+### kiew
 
-* [https://www.spiegel.de/kultur/musik/apache-207-und-udo-lindenberg-komet-ist-langlebigster-deutschsprachiger-nummer-eins-hit](https://www.spiegel.de/kultur/musik/apache-207-und-udo-lindenberg-komet-ist-langlebigster-deutschsprachiger-nummer-eins-hit-a-af7bcf36-79cb-4590-90ad-e5991605ab6a#ref=rss)
-### komet
+* [https://www.spiegel.de/ausland/ukraine-russland-news-am-samstag-unter-russischen-offizieren-herrscht-laut-london-grosse-unzufriedenheit](https://www.spiegel.de/ausland/ukraine-russland-news-am-samstag-unter-russischen-offizieren-herrscht-laut-london-grosse-unzufriedenheit-a-cd94376d-f06d-49bb-9c29-10aeec0cb2d8#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wie-russland-riesige-minenfelder-auslegt-und-kiew-sie-muehsam-raeumt](https://www.spiegel.de/ausland/ukraine-wie-russland-riesige-minenfelder-auslegt-und-kiew-sie-muehsam-raeumt-a-c5496ff8-d4fa-4372-a4ad-9bf831e38d16#ref=rss)
+### armee
 
-* [https://www.spiegel.de/kultur/musik/apache-207-und-udo-lindenberg-komet-ist-langlebigster-deutschsprachiger-nummer-eins-hit](https://www.spiegel.de/kultur/musik/apache-207-und-udo-lindenberg-komet-ist-langlebigster-deutschsprachiger-nummer-eins-hit-a-af7bcf36-79cb-4590-90ad-e5991605ab6a#ref=rss)
-### mallorca
+* [https://www.spiegel.de/ausland/ukraine-russland-news-am-samstag-unter-russischen-offizieren-herrscht-laut-london-grosse-unzufriedenheit](https://www.spiegel.de/ausland/ukraine-russland-news-am-samstag-unter-russischen-offizieren-herrscht-laut-london-grosse-unzufriedenheit-a-cd94376d-f06d-49bb-9c29-10aeec0cb2d8#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wagner-kaempfer-arbeiten-nun-als-ausbilder-fuer-belarussische-armee](https://www.spiegel.de/ausland/ukraine-krieg-wagner-kaempfer-arbeiten-nun-als-ausbilder-fuer-belarussische-armee-a-2df8b631-38c7-4b5b-9cb4-ed255e33a6f3#ref=rss)
+### news
 
-* [https://www.spiegel.de/panorama/justiz/mallorca-sechs-urlauber-aus-deutschland-wegen-vergewaltigungsverdacht-festgenommen](https://www.spiegel.de/panorama/justiz/mallorca-sechs-urlauber-aus-deutschland-wegen-vergewaltigungsverdacht-festgenommen-a-148fce61-5719-4b81-bbb4-e62715c70738#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-russland-news-am-samstag-unter-russischen-offizieren-herrscht-laut-london-grosse-unzufriedenheit](https://www.spiegel.de/ausland/ukraine-russland-news-am-samstag-unter-russischen-offizieren-herrscht-laut-london-grosse-unzufriedenheit-a-cd94376d-f06d-49bb-9c29-10aeec0cb2d8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-hitze-klimawandel-versiegelung-habeck-waermepumpe-bergsteigen-problembaeren](https://www.spiegel.de/politik/deutschland/news-hitze-klimawandel-versiegelung-habeck-waermepumpe-bergsteigen-problembaeren-a-0811bf03-01a7-4b3c-ba81-a26ff1887af2#ref=rss)
+### spaziergänger
+
+* [https://www.spiegel.de/panorama/hamburg-spaziergaenger-finden-mutterlosen-seehund](https://www.spiegel.de/panorama/hamburg-spaziergaenger-finden-mutterlosen-seehund-a-406249b6-c8f9-4d73-9df9-b31bfc34153c#ref=rss)
+### fran
+
+* [https://www.spiegel.de/kultur/tv/fran-drescher-fuehrt-den-schauspieler-streik-von-sag-aftra-in-hollywood-an](https://www.spiegel.de/kultur/tv/fran-drescher-fuehrt-den-schauspieler-streik-von-sag-aftra-in-hollywood-an-a-1cf651fa-0b0c-40ea-87fb-433ba3824854#ref=rss)
+### drescher
+
+* [https://www.spiegel.de/kultur/tv/fran-drescher-fuehrt-den-schauspieler-streik-von-sag-aftra-in-hollywood-an](https://www.spiegel.de/kultur/tv/fran-drescher-fuehrt-den-schauspieler-streik-von-sag-aftra-in-hollywood-an-a-1cf651fa-0b0c-40ea-87fb-433ba3824854#ref=rss)
+### knapp
+
+* [https://www.spiegel.de/kultur/tv/fran-drescher-fuehrt-den-schauspieler-streik-von-sag-aftra-in-hollywood-an](https://www.spiegel.de/kultur/tv/fran-drescher-fuehrt-den-schauspieler-streik-von-sag-aftra-in-hollywood-an-a-1cf651fa-0b0c-40ea-87fb-433ba3824854#ref=rss)
+* [https://www.spiegel.de/politik/csu-rutscht-in-umfrage-auf-38-prozent](https://www.spiegel.de/politik/csu-rutscht-in-umfrage-auf-38-prozent-a-b12002fd-a54e-4365-b1f9-4dcb845e89c1#ref=rss)
+### ende
+
+* [https://www.spiegel.de/kultur/tv/fran-drescher-fuehrt-den-schauspieler-streik-von-sag-aftra-in-hollywood-an](https://www.spiegel.de/kultur/tv/fran-drescher-fuehrt-den-schauspieler-streik-von-sag-aftra-in-hollywood-an-a-1cf651fa-0b0c-40ea-87fb-433ba3824854#ref=rss)
+* [https://www.spiegel.de/kultur/kino/mega-streik-in-hollywood-das-ende-der-traumfabrik-wie-wir-sie-kannten](https://www.spiegel.de/kultur/kino/mega-streik-in-hollywood-das-ende-der-traumfabrik-wie-wir-sie-kannten-a-96ddcffa-f768-4b91-8bd8-34aa9d38e508#ref=rss)
+### traumfabrik
+
+* [https://www.spiegel.de/kultur/tv/fran-drescher-fuehrt-den-schauspieler-streik-von-sag-aftra-in-hollywood-an](https://www.spiegel.de/kultur/tv/fran-drescher-fuehrt-den-schauspieler-streik-von-sag-aftra-in-hollywood-an-a-1cf651fa-0b0c-40ea-87fb-433ba3824854#ref=rss)
+* [https://www.spiegel.de/kultur/kino/mega-streik-in-hollywood-das-ende-der-traumfabrik-wie-wir-sie-kannten](https://www.spiegel.de/kultur/kino/mega-streik-in-hollywood-das-ende-der-traumfabrik-wie-wir-sie-kannten-a-96ddcffa-f768-4b91-8bd8-34aa9d38e508#ref=rss)
+### sommer
+
+* [https://www.spiegel.de/gesundheit/hitze-aerzte-chef-plaediert-fuer-klimatisierung-von-seniorenheimen](https://www.spiegel.de/gesundheit/hitze-aerzte-chef-plaediert-fuer-klimatisierung-von-seniorenheimen-a-60fbdb92-e04f-443e-bb7d-9fb124fbf182#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/banken-krankenversicherungen-und-mehr-ein-sommer-voller-datenlecks](https://www.spiegel.de/netzwelt/web/banken-krankenversicherungen-und-mehr-ein-sommer-voller-datenlecks-a-71d1f112-b46b-46c9-8e84-3cf7f281d9d5#ref=rss)
+### kommen
+
+* [https://www.spiegel.de/gesundheit/hitze-aerzte-chef-plaediert-fuer-klimatisierung-von-seniorenheimen](https://www.spiegel.de/gesundheit/hitze-aerzte-chef-plaediert-fuer-klimatisierung-von-seniorenheimen-a-60fbdb92-e04f-443e-bb7d-9fb124fbf182#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/fdp-chef-christian-lindner-schliesst-abschaffung-von-ehegattensplitting-aus](https://www.spiegel.de/wirtschaft/soziales/fdp-chef-christian-lindner-schliesst-abschaffung-von-ehegattensplitting-aus-a-170664fd-5928-4df4-a91f-708c249a94dd#ref=rss)
+### ums
+
+* [https://www.spiegel.de/gesundheit/hitze-aerzte-chef-plaediert-fuer-klimatisierung-von-seniorenheimen](https://www.spiegel.de/gesundheit/hitze-aerzte-chef-plaediert-fuer-klimatisierung-von-seniorenheimen-a-60fbdb92-e04f-443e-bb7d-9fb124fbf182#ref=rss)
+* [https://www.spiegel.de/panorama/19-jaehrige-feuerwehrfrau-kommt-beim-anlegen-einer-schneise-ums-leben](https://www.spiegel.de/panorama/19-jaehrige-feuerwehrfrau-kommt-beim-anlegen-einer-schneise-ums-leben-a-e79e60f0-cecc-4cf2-9038-15feb4304e3b#ref=rss)
+### atomic
+
+* [https://www.spiegel.de/ausland/atomic-heart-disneyland-sowjetunion-warum-ein-computerspiel-die-russen-fesselt](https://www.spiegel.de/ausland/atomic-heart-disneyland-sowjetunion-warum-ein-computerspiel-die-russen-fesselt-a-1e00ed1d-9e9e-4c10-8eb7-35ed6a831f9f#ref=rss)
+### heart
+
+* [https://www.spiegel.de/ausland/atomic-heart-disneyland-sowjetunion-warum-ein-computerspiel-die-russen-fesselt](https://www.spiegel.de/ausland/atomic-heart-disneyland-sowjetunion-warum-ein-computerspiel-die-russen-fesselt-a-1e00ed1d-9e9e-4c10-8eb7-35ed6a831f9f#ref=rss)
+### sowjetunion
+
+* [https://www.spiegel.de/ausland/atomic-heart-disneyland-sowjetunion-warum-ein-computerspiel-die-russen-fesselt](https://www.spiegel.de/ausland/atomic-heart-disneyland-sowjetunion-warum-ein-computerspiel-die-russen-fesselt-a-1e00ed1d-9e9e-4c10-8eb7-35ed6a831f9f#ref=rss)
+### computerspiel
+
+* [https://www.spiegel.de/ausland/atomic-heart-disneyland-sowjetunion-warum-ein-computerspiel-die-russen-fesselt](https://www.spiegel.de/ausland/atomic-heart-disneyland-sowjetunion-warum-ein-computerspiel-die-russen-fesselt-a-1e00ed1d-9e9e-4c10-8eb7-35ed6a831f9f#ref=rss)
+### russen
+
+* [https://www.spiegel.de/ausland/atomic-heart-disneyland-sowjetunion-warum-ein-computerspiel-die-russen-fesselt](https://www.spiegel.de/ausland/atomic-heart-disneyland-sowjetunion-warum-ein-computerspiel-die-russen-fesselt-a-1e00ed1d-9e9e-4c10-8eb7-35ed6a831f9f#ref=rss)
+### ukrainische
+
+* [https://www.spiegel.de/ausland/ukraine-wie-russland-riesige-minenfelder-auslegt-und-kiew-sie-muehsam-raeumt](https://www.spiegel.de/ausland/ukraine-wie-russland-riesige-minenfelder-auslegt-und-kiew-sie-muehsam-raeumt-a-c5496ff8-d4fa-4372-a4ad-9bf831e38d16#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wagner-kaempfer-arbeiten-nun-als-ausbilder-fuer-belarussische-armee](https://www.spiegel.de/ausland/ukraine-krieg-wagner-kaempfer-arbeiten-nun-als-ausbilder-fuer-belarussische-armee-a-2df8b631-38c7-4b5b-9cb4-ed255e33a6f3#ref=rss)
+### radwege
+
+* [https://www.spiegel.de/auto/laender-und-kommunen-sollen-260-millionen-euro-in-radwege-investieren](https://www.spiegel.de/auto/laender-und-kommunen-sollen-260-millionen-euro-in-radwege-investieren-a-85885e6f-e7bd-475d-9718-010e6d09b035#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/auto/laender-und-kommunen-sollen-260-millionen-euro-in-radwege-investieren](https://www.spiegel.de/auto/laender-und-kommunen-sollen-260-millionen-euro-in-radwege-investieren-a-85885e6f-e7bd-475d-9718-010e6d09b035#ref=rss)
+* [https://www.spiegel.de/ausland/klimawandel-diese-haeuser-sollen-millionen-menschen-vor-fluten-und-erdbeben-schuetzen](https://www.spiegel.de/ausland/klimawandel-diese-haeuser-sollen-millionen-menschen-vor-fluten-und-erdbeben-schuetzen-a-c34e94ff-ed9a-4e3e-a4e1-2ec56286857c#ref=rss)
+### geld
+
+* [https://www.spiegel.de/auto/laender-und-kommunen-sollen-260-millionen-euro-in-radwege-investieren](https://www.spiegel.de/auto/laender-und-kommunen-sollen-260-millionen-euro-in-radwege-investieren-a-85885e6f-e7bd-475d-9718-010e6d09b035#ref=rss)
+* [https://www.spiegel.de/wirtschaft/milliarden-fuer-die-hausfrauen-ehe](https://www.spiegel.de/wirtschaft/milliarden-fuer-die-hausfrauen-ehe-a-e54ec993-d245-4e8e-81c5-4ca76450e674#ref=rss)
+### politiker
+
+* [https://www.spiegel.de/panorama/ahrtal-politiker-und-bewohner-gedenken-opfer-der-flutkatastrophe](https://www.spiegel.de/panorama/ahrtal-politiker-und-bewohner-gedenken-opfer-der-flutkatastrophe-a-c0e8c78f-af9d-41c4-b1c7-7d772da6b388#ref=rss)
+### bewohner
+
+* [https://www.spiegel.de/panorama/ahrtal-politiker-und-bewohner-gedenken-opfer-der-flutkatastrophe](https://www.spiegel.de/panorama/ahrtal-politiker-und-bewohner-gedenken-opfer-der-flutkatastrophe-a-c0e8c78f-af9d-41c4-b1c7-7d772da6b388#ref=rss)
+### opfer
+
+* [https://www.spiegel.de/panorama/ahrtal-politiker-und-bewohner-gedenken-opfer-der-flutkatastrophe](https://www.spiegel.de/panorama/ahrtal-politiker-und-bewohner-gedenken-opfer-der-flutkatastrophe-a-c0e8c78f-af9d-41c4-b1c7-7d772da6b388#ref=rss)
+* [https://www.spiegel.de/panorama/19-jaehrige-feuerwehrfrau-kommt-beim-anlegen-einer-schneise-ums-leben](https://www.spiegel.de/panorama/19-jaehrige-feuerwehrfrau-kommt-beim-anlegen-einer-schneise-ums-leben-a-e79e60f0-cecc-4cf2-9038-15feb4304e3b#ref=rss)
+### mindestens
+
+* [https://www.spiegel.de/panorama/ahrtal-politiker-und-bewohner-gedenken-opfer-der-flutkatastrophe](https://www.spiegel.de/panorama/ahrtal-politiker-und-bewohner-gedenken-opfer-der-flutkatastrophe-a-c0e8c78f-af9d-41c4-b1c7-7d772da6b388#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/banken-krankenversicherungen-und-mehr-ein-sommer-voller-datenlecks](https://www.spiegel.de/netzwelt/web/banken-krankenversicherungen-und-mehr-ein-sommer-voller-datenlecks-a-71d1f112-b46b-46c9-8e84-3cf7f281d9d5#ref=rss)
+### china
+
+* [https://www.spiegel.de/auto/byd-nio-polestar-was-e-autos-aus-china-koennen](https://www.spiegel.de/auto/byd-nio-polestar-was-e-autos-aus-china-koennen-a-9af8087b-ff0e-4aa8-bd5e-04a0d635fcdf#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/auto/byd-nio-polestar-was-e-autos-aus-china-koennen](https://www.spiegel.de/auto/byd-nio-polestar-was-e-autos-aus-china-koennen-a-9af8087b-ff0e-4aa8-bd5e-04a0d635fcdf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-hitze-klimawandel-versiegelung-habeck-waermepumpe-bergsteigen-problembaeren](https://www.spiegel.de/politik/deutschland/news-hitze-klimawandel-versiegelung-habeck-waermepumpe-bergsteigen-problembaeren-a-0811bf03-01a7-4b3c-ba81-a26ff1887af2#ref=rss)
+### streik
+
+* [https://www.spiegel.de/kultur/kino/mega-streik-in-hollywood-das-ende-der-traumfabrik-wie-wir-sie-kannten](https://www.spiegel.de/kultur/kino/mega-streik-in-hollywood-das-ende-der-traumfabrik-wie-wir-sie-kannten-a-96ddcffa-f768-4b91-8bd8-34aa9d38e508#ref=rss)
+* [https://www.spiegel.de/kultur/hollywood-streik-schauspieler-errichten-streikposten-vor-filmstudios-in-los-angeles](https://www.spiegel.de/kultur/hollywood-streik-schauspieler-errichten-streikposten-vor-filmstudios-in-los-angeles-a-9301bcb1-8942-4c7a-a598-726b3ee25793#ref=rss)
+### verändern
+
+* [https://www.spiegel.de/kultur/kino/mega-streik-in-hollywood-das-ende-der-traumfabrik-wie-wir-sie-kannten](https://www.spiegel.de/kultur/kino/mega-streik-in-hollywood-das-ende-der-traumfabrik-wie-wir-sie-kannten-a-96ddcffa-f768-4b91-8bd8-34aa9d38e508#ref=rss)
+* [https://www.spiegel.de/ausland/klimawandel-diese-haeuser-sollen-millionen-menschen-vor-fluten-und-erdbeben-schuetzen](https://www.spiegel.de/ausland/klimawandel-diese-haeuser-sollen-millionen-menschen-vor-fluten-und-erdbeben-schuetzen-a-c34e94ff-ed9a-4e3e-a4e1-2ec56286857c#ref=rss)
+### ladestationen
+
+* [https://www.spiegel.de/tests/elektronik/magsafe-das-sind-die-besten-kabellosen-ladestationen-fuer-iphones](https://www.spiegel.de/tests/elektronik/magsafe-das-sind-die-besten-kabellosen-ladestationen-fuer-iphones-a-2c4c5ede-1737-4d46-8076-4b1be4927df6#ref=rss)
+### iphones
+
+* [https://www.spiegel.de/tests/elektronik/magsafe-das-sind-die-besten-kabellosen-ladestationen-fuer-iphones](https://www.spiegel.de/tests/elektronik/magsafe-das-sind-die-besten-kabellosen-ladestationen-fuer-iphones-a-2c4c5ede-1737-4d46-8076-4b1be4927df6#ref=rss)
+### neue
+
+* [https://www.spiegel.de/tests/elektronik/magsafe-das-sind-die-besten-kabellosen-ladestationen-fuer-iphones](https://www.spiegel.de/tests/elektronik/magsafe-das-sind-die-besten-kabellosen-ladestationen-fuer-iphones-a-2c4c5ede-1737-4d46-8076-4b1be4927df6#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wagner-kaempfer-arbeiten-nun-als-ausbilder-fuer-belarussische-armee](https://www.spiegel.de/ausland/ukraine-krieg-wagner-kaempfer-arbeiten-nun-als-ausbilder-fuer-belarussische-armee-a-2df8b631-38c7-4b5b-9cb4-ed255e33a6f3#ref=rss)
+### erholung
+
+* [https://www.spiegel.de/reise/urlaub-wie-nehmen-wir-die-erholung-aus-dem-urlaub-mit-in-den-alltag-podcast](https://www.spiegel.de/reise/urlaub-wie-nehmen-wir-die-erholung-aus-dem-urlaub-mit-in-den-alltag-podcast-a-9f3c9c86-5c27-4df7-b2f4-cabbc51f76c2#ref=rss)
+### alltag
+
+* [https://www.spiegel.de/reise/urlaub-wie-nehmen-wir-die-erholung-aus-dem-urlaub-mit-in-den-alltag-podcast](https://www.spiegel.de/reise/urlaub-wie-nehmen-wir-die-erholung-aus-dem-urlaub-mit-in-den-alltag-podcast-a-9f3c9c86-5c27-4df7-b2f4-cabbc51f76c2#ref=rss)
+### drei
+
+* [https://www.spiegel.de/reise/urlaub-wie-nehmen-wir-die-erholung-aus-dem-urlaub-mit-in-den-alltag-podcast](https://www.spiegel.de/reise/urlaub-wie-nehmen-wir-die-erholung-aus-dem-urlaub-mit-in-den-alltag-podcast-a-9f3c9c86-5c27-4df7-b2f4-cabbc51f76c2#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wagner-kaempfer-arbeiten-nun-als-ausbilder-fuer-belarussische-armee](https://www.spiegel.de/ausland/ukraine-krieg-wagner-kaempfer-arbeiten-nun-als-ausbilder-fuer-belarussische-armee-a-2df8b631-38c7-4b5b-9cb4-ed255e33a6f3#ref=rss)
+### gabor
+
+* [https://www.spiegel.de/wirtschaft/media-pioneer-mann-ueber-bord-gabor-steingart-verliert-seinen-chefredakteur](https://www.spiegel.de/wirtschaft/media-pioneer-mann-ueber-bord-gabor-steingart-verliert-seinen-chefredakteur-a-6e9113ba-2fa5-4593-b951-5fabddb6949c#ref=rss)
+### verliert
+
+* [https://www.spiegel.de/wirtschaft/media-pioneer-mann-ueber-bord-gabor-steingart-verliert-seinen-chefredakteur](https://www.spiegel.de/wirtschaft/media-pioneer-mann-ueber-bord-gabor-steingart-verliert-seinen-chefredakteur-a-6e9113ba-2fa5-4593-b951-5fabddb6949c#ref=rss)
+### chefredakteur
+
+* [https://www.spiegel.de/wirtschaft/media-pioneer-mann-ueber-bord-gabor-steingart-verliert-seinen-chefredakteur](https://www.spiegel.de/wirtschaft/media-pioneer-mann-ueber-bord-gabor-steingart-verliert-seinen-chefredakteur-a-6e9113ba-2fa5-4593-b951-5fabddb6949c#ref=rss)
+### christian
+
+* [https://www.spiegel.de/wirtschaft/soziales/fdp-chef-christian-lindner-schliesst-abschaffung-von-ehegattensplitting-aus](https://www.spiegel.de/wirtschaft/soziales/fdp-chef-christian-lindner-schliesst-abschaffung-von-ehegattensplitting-aus-a-170664fd-5928-4df4-a91f-708c249a94dd#ref=rss)
+### lindner
+
+* [https://www.spiegel.de/wirtschaft/soziales/fdp-chef-christian-lindner-schliesst-abschaffung-von-ehegattensplitting-aus](https://www.spiegel.de/wirtschaft/soziales/fdp-chef-christian-lindner-schliesst-abschaffung-von-ehegattensplitting-aus-a-170664fd-5928-4df4-a91f-708c249a94dd#ref=rss)
+### klimawandel
+
+* [https://www.spiegel.de/ausland/klimawandel-diese-haeuser-sollen-millionen-menschen-vor-fluten-und-erdbeben-schuetzen](https://www.spiegel.de/ausland/klimawandel-diese-haeuser-sollen-millionen-menschen-vor-fluten-und-erdbeben-schuetzen-a-c34e94ff-ed9a-4e3e-a4e1-2ec56286857c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-hitze-klimawandel-versiegelung-habeck-waermepumpe-bergsteigen-problembaeren](https://www.spiegel.de/politik/deutschland/news-hitze-klimawandel-versiegelung-habeck-waermepumpe-bergsteigen-problembaeren-a-0811bf03-01a7-4b3c-ba81-a26ff1887af2#ref=rss)
+### margit
+
+* [https://www.spiegel.de/start/gender-studies-margit-szoelloesi-janze-erklaert-die-empfehlungen-des-wissenschaftsrats](https://www.spiegel.de/start/gender-studies-margit-szoelloesi-janze-erklaert-die-empfehlungen-des-wissenschaftsrats-a-43b2613b-e25d-4190-8239-298bada58f77#ref=rss)
+### szöllösijanze
+
+* [https://www.spiegel.de/start/gender-studies-margit-szoelloesi-janze-erklaert-die-empfehlungen-des-wissenschaftsrats](https://www.spiegel.de/start/gender-studies-margit-szoelloesi-janze-erklaert-die-empfehlungen-des-wissenschaftsrats-a-43b2613b-e25d-4190-8239-298bada58f77#ref=rss)
+### alle
+
+* [https://www.spiegel.de/start/gender-studies-margit-szoelloesi-janze-erklaert-die-empfehlungen-des-wissenschaftsrats](https://www.spiegel.de/start/gender-studies-margit-szoelloesi-janze-erklaert-die-empfehlungen-des-wissenschaftsrats-a-43b2613b-e25d-4190-8239-298bada58f77#ref=rss)
+### afd
+
+* [https://www.spiegel.de/wirtschaft/ulrike-malmendier-sachverstaendige-warnt-vor-abschreckung-von-fachkraeften-durch-die-afd](https://www.spiegel.de/wirtschaft/ulrike-malmendier-sachverstaendige-warnt-vor-abschreckung-von-fachkraeften-durch-die-afd-a-384cba0f-9954-431d-9929-43b84a17444a#ref=rss)
+### ulrike
+
+* [https://www.spiegel.de/wirtschaft/ulrike-malmendier-sachverstaendige-warnt-vor-abschreckung-von-fachkraeften-durch-die-afd](https://www.spiegel.de/wirtschaft/ulrike-malmendier-sachverstaendige-warnt-vor-abschreckung-von-fachkraeften-durch-die-afd-a-384cba0f-9954-431d-9929-43b84a17444a#ref=rss)
+### malmendier
+
+* [https://www.spiegel.de/wirtschaft/ulrike-malmendier-sachverstaendige-warnt-vor-abschreckung-von-fachkraeften-durch-die-afd](https://www.spiegel.de/wirtschaft/ulrike-malmendier-sachverstaendige-warnt-vor-abschreckung-von-fachkraeften-durch-die-afd-a-384cba0f-9954-431d-9929-43b84a17444a#ref=rss)
+### warnt
+
+* [https://www.spiegel.de/wirtschaft/ulrike-malmendier-sachverstaendige-warnt-vor-abschreckung-von-fachkraeften-durch-die-afd](https://www.spiegel.de/wirtschaft/ulrike-malmendier-sachverstaendige-warnt-vor-abschreckung-von-fachkraeften-durch-die-afd-a-384cba0f-9954-431d-9929-43b84a17444a#ref=rss)
+### abschottungspartei
+
+* [https://www.spiegel.de/wirtschaft/ulrike-malmendier-sachverstaendige-warnt-vor-abschreckung-von-fachkraeften-durch-die-afd](https://www.spiegel.de/wirtschaft/ulrike-malmendier-sachverstaendige-warnt-vor-abschreckung-von-fachkraeften-durch-die-afd-a-384cba0f-9954-431d-9929-43b84a17444a#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wirtschaft/ulrike-malmendier-sachverstaendige-warnt-vor-abschreckung-von-fachkraeften-durch-die-afd](https://www.spiegel.de/wirtschaft/ulrike-malmendier-sachverstaendige-warnt-vor-abschreckung-von-fachkraeften-durch-die-afd-a-384cba0f-9954-431d-9929-43b84a17444a#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-am-wochenende-bis-zu-38-grad-in-deutschland-im-nordwesten-ungemuetlich](https://www.spiegel.de/panorama/wetter-am-wochenende-bis-zu-38-grad-in-deutschland-im-nordwesten-ungemuetlich-a-6afc1cb7-4206-4af2-a2a7-1c644aaf4828#ref=rss)
+### allen
+
+* [https://www.spiegel.de/wirtschaft/ulrike-malmendier-sachverstaendige-warnt-vor-abschreckung-von-fachkraeften-durch-die-afd](https://www.spiegel.de/wirtschaft/ulrike-malmendier-sachverstaendige-warnt-vor-abschreckung-von-fachkraeften-durch-die-afd-a-384cba0f-9954-431d-9929-43b84a17444a#ref=rss)
+* [https://www.spiegel.de/kultur/hollywood-streik-schauspieler-errichten-streikposten-vor-filmstudios-in-los-angeles](https://www.spiegel.de/kultur/hollywood-streik-schauspieler-errichten-streikposten-vor-filmstudios-in-los-angeles-a-9301bcb1-8942-4c7a-a598-726b3ee25793#ref=rss)
+### inlandsflüge
+
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-zahl-der-inlandsfluege-bei-dienstreisen-steigt](https://www.spiegel.de/politik/deutschland/bundesregierung-zahl-der-inlandsfluege-bei-dienstreisen-steigt-a-987217ef-b1e7-492e-887d-f1519bd26b9c#ref=rss)
+### banken
+
+* [https://www.spiegel.de/netzwelt/web/banken-krankenversicherungen-und-mehr-ein-sommer-voller-datenlecks](https://www.spiegel.de/netzwelt/web/banken-krankenversicherungen-und-mehr-ein-sommer-voller-datenlecks-a-71d1f112-b46b-46c9-8e84-3cf7f281d9d5#ref=rss)
+### csu
+
+* [https://www.spiegel.de/politik/csu-rutscht-in-umfrage-auf-38-prozent](https://www.spiegel.de/politik/csu-rutscht-in-umfrage-auf-38-prozent-a-b12002fd-a54e-4365-b1f9-4dcb845e89c1#ref=rss)
+### 38
+
+* [https://www.spiegel.de/politik/csu-rutscht-in-umfrage-auf-38-prozent](https://www.spiegel.de/politik/csu-rutscht-in-umfrage-auf-38-prozent-a-b12002fd-a54e-4365-b1f9-4dcb845e89c1#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-am-wochenende-bis-zu-38-grad-in-deutschland-im-nordwesten-ungemuetlich](https://www.spiegel.de/panorama/wetter-am-wochenende-bis-zu-38-grad-in-deutschland-im-nordwesten-ungemuetlich-a-6afc1cb7-4206-4af2-a2a7-1c644aaf4828#ref=rss)
+### prozent
+
+* [https://www.spiegel.de/politik/csu-rutscht-in-umfrage-auf-38-prozent](https://www.spiegel.de/politik/csu-rutscht-in-umfrage-auf-38-prozent-a-b12002fd-a54e-4365-b1f9-4dcb845e89c1#ref=rss)
+### kämpft
+
+* [https://www.spiegel.de/politik/csu-rutscht-in-umfrage-auf-38-prozent](https://www.spiegel.de/politik/csu-rutscht-in-umfrage-auf-38-prozent-a-b12002fd-a54e-4365-b1f9-4dcb845e89c1#ref=rss)
+* [https://www.spiegel.de/panorama/19-jaehrige-feuerwehrfrau-kommt-beim-anlegen-einer-schneise-ums-leben](https://www.spiegel.de/panorama/19-jaehrige-feuerwehrfrau-kommt-beim-anlegen-einer-schneise-ums-leben-a-e79e60f0-cecc-4cf2-9038-15feb4304e3b#ref=rss)
+### wochen
+
+* [https://www.spiegel.de/panorama/19-jaehrige-feuerwehrfrau-kommt-beim-anlegen-einer-schneise-ums-leben](https://www.spiegel.de/panorama/19-jaehrige-feuerwehrfrau-kommt-beim-anlegen-einer-schneise-ums-leben-a-e79e60f0-cecc-4cf2-9038-15feb4304e3b#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wagner-kaempfer-arbeiten-nun-als-ausbilder-fuer-belarussische-armee](https://www.spiegel.de/ausland/ukraine-krieg-wagner-kaempfer-arbeiten-nun-als-ausbilder-fuer-belarussische-armee-a-2df8b631-38c7-4b5b-9cb4-ed255e33a6f3#ref=rss)
+### grad
+
+* [https://www.spiegel.de/panorama/wetter-am-wochenende-bis-zu-38-grad-in-deutschland-im-nordwesten-ungemuetlich](https://www.spiegel.de/panorama/wetter-am-wochenende-bis-zu-38-grad-in-deutschland-im-nordwesten-ungemuetlich-a-6afc1cb7-4206-4af2-a2a7-1c644aaf4828#ref=rss)
+* [https://www.spiegel.de/sport/schwimm-wm-in-fukuoka-leonie-beck-gewinnt-im-freiwasser-wm-gold](https://www.spiegel.de/sport/schwimm-wm-in-fukuoka-leonie-beck-gewinnt-im-freiwasser-wm-gold-a-a32659e5-78d0-4f8b-b4fa-5a79e4215ac3#ref=rss)
+### nordwesten
+
+* [https://www.spiegel.de/panorama/wetter-am-wochenende-bis-zu-38-grad-in-deutschland-im-nordwesten-ungemuetlich](https://www.spiegel.de/panorama/wetter-am-wochenende-bis-zu-38-grad-in-deutschland-im-nordwesten-ungemuetlich-a-6afc1cb7-4206-4af2-a2a7-1c644aaf4828#ref=rss)
+### leonie
+
+* [https://www.spiegel.de/sport/schwimm-wm-in-fukuoka-leonie-beck-gewinnt-im-freiwasser-wm-gold](https://www.spiegel.de/sport/schwimm-wm-in-fukuoka-leonie-beck-gewinnt-im-freiwasser-wm-gold-a-a32659e5-78d0-4f8b-b4fa-5a79e4215ac3#ref=rss)
+### beck
+
+* [https://www.spiegel.de/sport/schwimm-wm-in-fukuoka-leonie-beck-gewinnt-im-freiwasser-wm-gold](https://www.spiegel.de/sport/schwimm-wm-in-fukuoka-leonie-beck-gewinnt-im-freiwasser-wm-gold-a-a32659e5-78d0-4f8b-b4fa-5a79e4215ac3#ref=rss)
 
