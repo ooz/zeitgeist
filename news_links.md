@@ -4,267 +4,312 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### afd
-
-* [https://www.spiegel.de/politik/friedrich-merz-cdu-chef-relativiert-aussagen-zu-kooperation-mit-afd](https://www.spiegel.de/politik/friedrich-merz-cdu-chef-relativiert-aussagen-zu-kooperation-mit-afd-a-a058a465-c4be-437a-b01b-467b44299e64#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-cdu-breite-kritik-an-merz-aeusserungen-zur-afd-aus-eigener-partei](https://www.spiegel.de/politik/deutschland/friedrich-merz-cdu-breite-kritik-an-merz-aeusserungen-zur-afd-aus-eigener-partei-a-bfcdac8d-4285-4256-825a-16f0bfeffb13#ref=rss)
-### euro
-
-* [https://www.spiegel.de/wirtschaft/soziales/auszubildende-einige-azubis-verdienen-doppelt-so-viel-wie-andere](https://www.spiegel.de/wirtschaft/soziales/auszubildende-einige-azubis-verdienen-doppelt-so-viel-wie-andere-a-57c3802b-e792-4796-a5b5-52a824f4a360#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/pistorius-macht-munitionsproduktion-zur-chefsache](https://www.spiegel.de/politik/deutschland/pistorius-macht-munitionsproduktion-zur-chefsache-a-285331bb-ba6b-4645-bf42-cb0e8d28b8c9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tagesgeld-dutzende-banken-zahlen-0-00-prozent-zinsen](https://www.spiegel.de/wirtschaft/tagesgeld-dutzende-banken-zahlen-0-00-prozent-zinsen-a-97e11938-9196-46e1-aad1-b58fce5a5592#ref=rss)
-### fußballwm
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-deutschland-besiegt-marokko-mit-6-0](https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-deutschland-besiegt-marokko-mit-6-0-a-b430f9c5-b73f-4692-a8bb-fe74af5a4c7b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-italien-besiegt-argentinien-1-0](https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-italien-besiegt-argentinien-1-0-a-0bdab326-f91a-48dd-8651-67310f93e14d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-linke-israel-benjamin-netanyahu-fussball-wm-marokko-thunberg](https://www.spiegel.de/politik/deutschland/news-linke-israel-benjamin-netanyahu-fussball-wm-marokko-thunberg-a-5046e912-efbb-4b40-9fb6-7a0bd3e83552#ref=rss)
-### frau
-
-* [https://www.spiegel.de/panorama/justiz/berlin-grab-von-trans-frau-erneut-geschaendet](https://www.spiegel.de/panorama/justiz/berlin-grab-von-trans-frau-erneut-geschaendet-a-f95c67b2-d501-403f-b296-fd7cd779331e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/subway-shirts-auf-tiktok-was-maenner-von-hunden-lernen-koennen](https://www.spiegel.de/politik/deutschland/subway-shirts-auf-tiktok-was-maenner-von-hunden-lernen-koennen-a-f68d4d3c-1e70-429a-8ef3-471ce40ca83b#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/israel-und-die-umstrittene-justizreform-heute-entscheidet-sich-die-zukunft-des-landes](https://www.spiegel.de/ausland/israel-und-die-umstrittene-justizreform-heute-entscheidet-sich-die-zukunft-des-landes-a-bc4d1e95-7126-41a7-bb76-482ba81d7b5b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-linke-israel-benjamin-netanyahu-fussball-wm-marokko-thunberg](https://www.spiegel.de/politik/deutschland/news-linke-israel-benjamin-netanyahu-fussball-wm-marokko-thunberg-a-5046e912-efbb-4b40-9fb6-7a0bd3e83552#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-deutschland-besiegt-marokko-mit-6-0](https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-deutschland-besiegt-marokko-mit-6-0-a-b430f9c5-b73f-4692-a8bb-fe74af5a4c7b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-italien-besiegt-argentinien-1-0](https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-italien-besiegt-argentinien-1-0-a-0bdab326-f91a-48dd-8651-67310f93e14d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/subway-shirts-auf-tiktok-was-maenner-von-hunden-lernen-koennen](https://www.spiegel.de/politik/deutschland/subway-shirts-auf-tiktok-was-maenner-von-hunden-lernen-koennen-a-f68d4d3c-1e70-429a-8ef3-471ce40ca83b#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-deutschland-besiegt-marokko-mit-6-0](https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-deutschland-besiegt-marokko-mit-6-0-a-b430f9c5-b73f-4692-a8bb-fe74af5a4c7b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/spielzeug-aus-online-shops-sind-immer-haeufiger-gesundheitsschaedlich](https://www.spiegel.de/wirtschaft/service/spielzeug-aus-online-shops-sind-immer-haeufiger-gesundheitsschaedlich-a-33a0805d-7adf-48f7-adb0-69263fbd91b8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-linke-israel-benjamin-netanyahu-fussball-wm-marokko-thunberg](https://www.spiegel.de/politik/deutschland/news-linke-israel-benjamin-netanyahu-fussball-wm-marokko-thunberg-a-5046e912-efbb-4b40-9fb6-7a0bd3e83552#ref=rss)
-### marokko
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-deutschland-besiegt-marokko-mit-6-0](https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-deutschland-besiegt-marokko-mit-6-0-a-b430f9c5-b73f-4692-a8bb-fe74af5a4c7b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-linke-israel-benjamin-netanyahu-fussball-wm-marokko-thunberg](https://www.spiegel.de/politik/deutschland/news-linke-israel-benjamin-netanyahu-fussball-wm-marokko-thunberg-a-5046e912-efbb-4b40-9fb6-7a0bd3e83552#ref=rss)
-### kommunen
-
-* [https://www.spiegel.de/auto/verkehrsberuhigung-in-den-staedten-was-bringt-tempo-30-wirklich](https://www.spiegel.de/auto/verkehrsberuhigung-in-den-staedten-was-bringt-tempo-30-wirklich-a-216866f6-5e1c-47c1-a4be-176ef422ea24#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-cdu-chef-relativiert-aussagen-zu-kooperation-mit-afd](https://www.spiegel.de/politik/friedrich-merz-cdu-chef-relativiert-aussagen-zu-kooperation-mit-afd-a-a058a465-c4be-437a-b01b-467b44299e64#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-cdu-breite-kritik-an-merz-aeusserungen-zur-afd-aus-eigener-partei](https://www.spiegel.de/politik/deutschland/friedrich-merz-cdu-breite-kritik-an-merz-aeusserungen-zur-afd-aus-eigener-partei-a-bfcdac8d-4285-4256-825a-16f0bfeffb13#ref=rss)
-### davon
-
-* [https://www.spiegel.de/auto/verkehrsberuhigung-in-den-staedten-was-bringt-tempo-30-wirklich](https://www.spiegel.de/auto/verkehrsberuhigung-in-den-staedten-was-bringt-tempo-30-wirklich-a-216866f6-5e1c-47c1-a4be-176ef422ea24#ref=rss)
-* [https://www.spiegel.de/panorama/gundelfinden-vierjaehriger-stuerzt-in-fluss-und-treibt-in-rechenschacht](https://www.spiegel.de/panorama/gundelfinden-vierjaehriger-stuerzt-in-fluss-und-treibt-in-rechenschacht-a-f34fbf0c-531c-4126-8359-3a1a1a3bb561#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gesunde-ernaehrung-fdp-will-kinder-werbeschranken-bei-lebensmitteln-blockieren](https://www.spiegel.de/wirtschaft/gesunde-ernaehrung-fdp-will-kinder-werbeschranken-bei-lebensmitteln-blockieren-a-08ace42b-6e64-4153-bbd8-e028517f4cca#ref=rss)
-### land
-
-* [https://www.spiegel.de/wirtschaft/service/spielzeug-aus-online-shops-sind-immer-haeufiger-gesundheitsschaedlich](https://www.spiegel.de/wirtschaft/service/spielzeug-aus-online-shops-sind-immer-haeufiger-gesundheitsschaedlich-a-33a0805d-7adf-48f7-adb0-69263fbd91b8#ref=rss)
-* [https://www.spiegel.de/panorama/gundelfinden-vierjaehriger-stuerzt-in-fluss-und-treibt-in-rechenschacht](https://www.spiegel.de/panorama/gundelfinden-vierjaehriger-stuerzt-in-fluss-und-treibt-in-rechenschacht-a-f34fbf0c-531c-4126-8359-3a1a1a3bb561#ref=rss)
-* [https://www.spiegel.de/ausland/spanien-wahl-wer-jetzt-die-besten-chancen-hat-das-land-zu-regieren](https://www.spiegel.de/ausland/spanien-wahl-wer-jetzt-die-besten-chancen-hat-das-land-zu-regieren-a-98f324ff-76c3-4ae7-a6e3-7199ff495016#ref=rss)
-### jonas
-
-* [https://www.spiegel.de/sport/jonas-vingegaard-gewinnt-tour-de-france-der-sieger-der-alles-hat-nur-kein-charisma](https://www.spiegel.de/sport/jonas-vingegaard-gewinnt-tour-de-france-der-sieger-der-alles-hat-nur-kein-charisma-a-15718c66-9e39-493f-b364-12a8761407d5#ref=rss)
-* [https://www.spiegel.de/sport/tour-de-france-der-einbruch-von-pogacar-liess-den-slowenen-menschlicher-erscheinen-pressestimmen](https://www.spiegel.de/sport/tour-de-france-der-einbruch-von-pogacar-liess-den-slowenen-menschlicher-erscheinen-pressestimmen-a-1068375f-4986-4a00-8783-16a2bc6f7d1e#ref=rss)
-### vingegaard
-
-* [https://www.spiegel.de/sport/jonas-vingegaard-gewinnt-tour-de-france-der-sieger-der-alles-hat-nur-kein-charisma](https://www.spiegel.de/sport/jonas-vingegaard-gewinnt-tour-de-france-der-sieger-der-alles-hat-nur-kein-charisma-a-15718c66-9e39-493f-b364-12a8761407d5#ref=rss)
-* [https://www.spiegel.de/sport/tour-de-france-der-einbruch-von-pogacar-liess-den-slowenen-menschlicher-erscheinen-pressestimmen](https://www.spiegel.de/sport/tour-de-france-der-einbruch-von-pogacar-liess-den-slowenen-menschlicher-erscheinen-pressestimmen-a-1068375f-4986-4a00-8783-16a2bc6f7d1e#ref=rss)
-### tour
-
-* [https://www.spiegel.de/sport/jonas-vingegaard-gewinnt-tour-de-france-der-sieger-der-alles-hat-nur-kein-charisma](https://www.spiegel.de/sport/jonas-vingegaard-gewinnt-tour-de-france-der-sieger-der-alles-hat-nur-kein-charisma-a-15718c66-9e39-493f-b364-12a8761407d5#ref=rss)
-* [https://www.spiegel.de/sport/tour-de-france-der-einbruch-von-pogacar-liess-den-slowenen-menschlicher-erscheinen-pressestimmen](https://www.spiegel.de/sport/tour-de-france-der-einbruch-von-pogacar-liess-den-slowenen-menschlicher-erscheinen-pressestimmen-a-1068375f-4986-4a00-8783-16a2bc6f7d1e#ref=rss)
-### de
-
-* [https://www.spiegel.de/sport/jonas-vingegaard-gewinnt-tour-de-france-der-sieger-der-alles-hat-nur-kein-charisma](https://www.spiegel.de/sport/jonas-vingegaard-gewinnt-tour-de-france-der-sieger-der-alles-hat-nur-kein-charisma-a-15718c66-9e39-493f-b364-12a8761407d5#ref=rss)
-* [https://www.spiegel.de/sport/tour-de-france-der-einbruch-von-pogacar-liess-den-slowenen-menschlicher-erscheinen-pressestimmen](https://www.spiegel.de/sport/tour-de-france-der-einbruch-von-pogacar-liess-den-slowenen-menschlicher-erscheinen-pressestimmen-a-1068375f-4986-4a00-8783-16a2bc6f7d1e#ref=rss)
-### france
-
-* [https://www.spiegel.de/sport/jonas-vingegaard-gewinnt-tour-de-france-der-sieger-der-alles-hat-nur-kein-charisma](https://www.spiegel.de/sport/jonas-vingegaard-gewinnt-tour-de-france-der-sieger-der-alles-hat-nur-kein-charisma-a-15718c66-9e39-493f-b364-12a8761407d5#ref=rss)
-* [https://www.spiegel.de/sport/tour-de-france-der-einbruch-von-pogacar-liess-den-slowenen-menschlicher-erscheinen-pressestimmen](https://www.spiegel.de/sport/tour-de-france-der-einbruch-von-pogacar-liess-den-slowenen-menschlicher-erscheinen-pressestimmen-a-1068375f-4986-4a00-8783-16a2bc6f7d1e#ref=rss)
-### alles
-
-* [https://www.spiegel.de/sport/jonas-vingegaard-gewinnt-tour-de-france-der-sieger-der-alles-hat-nur-kein-charisma](https://www.spiegel.de/sport/jonas-vingegaard-gewinnt-tour-de-france-der-sieger-der-alles-hat-nur-kein-charisma-a-15718c66-9e39-493f-b364-12a8761407d5#ref=rss)
-* [https://www.spiegel.de/karriere/kritik-von-kollegen-tipps-von-der-karriereberaterin](https://www.spiegel.de/karriere/kritik-von-kollegen-tipps-von-der-karriereberaterin-a-3ea3b9f2-d819-4cc0-af83-441580d2eb6e#ref=rss)
 ### merz
 
-* [https://www.spiegel.de/politik/friedrich-merz-cdu-chef-relativiert-aussagen-zu-kooperation-mit-afd](https://www.spiegel.de/politik/friedrich-merz-cdu-chef-relativiert-aussagen-zu-kooperation-mit-afd-a-a058a465-c4be-437a-b01b-467b44299e64#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-cdu-breite-kritik-an-merz-aeusserungen-zur-afd-aus-eigener-partei](https://www.spiegel.de/politik/deutschland/friedrich-merz-cdu-breite-kritik-an-merz-aeusserungen-zur-afd-aus-eigener-partei-a-bfcdac8d-4285-4256-825a-16f0bfeffb13#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/politik/friedrich-merz-cdu-chef-relativiert-aussagen-zu-kooperation-mit-afd](https://www.spiegel.de/politik/friedrich-merz-cdu-chef-relativiert-aussagen-zu-kooperation-mit-afd-a-a058a465-c4be-437a-b01b-467b44299e64#ref=rss)
-* [https://www.spiegel.de/karriere/kritik-von-kollegen-tipps-von-der-karriereberaterin](https://www.spiegel.de/karriere/kritik-von-kollegen-tipps-von-der-karriereberaterin-a-3ea3b9f2-d819-4cc0-af83-441580d2eb6e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-cdu-breite-kritik-an-merz-aeusserungen-zur-afd-aus-eigener-partei](https://www.spiegel.de/politik/deutschland/friedrich-merz-cdu-breite-kritik-an-merz-aeusserungen-zur-afd-aus-eigener-partei-a-bfcdac8d-4285-4256-825a-16f0bfeffb13#ref=rss)
-### azubis
-
-* [https://www.spiegel.de/wirtschaft/soziales/auszubildende-einige-azubis-verdienen-doppelt-so-viel-wie-andere](https://www.spiegel.de/wirtschaft/soziales/auszubildende-einige-azubis-verdienen-doppelt-so-viel-wie-andere-a-57c3802b-e792-4796-a5b5-52a824f4a360#ref=rss)
-### andere
-
-* [https://www.spiegel.de/wirtschaft/soziales/auszubildende-einige-azubis-verdienen-doppelt-so-viel-wie-andere](https://www.spiegel.de/wirtschaft/soziales/auszubildende-einige-azubis-verdienen-doppelt-so-viel-wie-andere-a-57c3802b-e792-4796-a5b5-52a824f4a360#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-cdu-chef-relativiert-aussagen-zu-kooperation-mit-afd](https://www.spiegel.de/politik/friedrich-merz-cdu-chef-relativiert-aussagen-zu-kooperation-mit-afd-a-a058a465-c4be-437a-b01b-467b44299e64#ref=rss)
-### 20
-
-* [https://www.spiegel.de/wirtschaft/soziales/auszubildende-einige-azubis-verdienen-doppelt-so-viel-wie-andere](https://www.spiegel.de/wirtschaft/soziales/auszubildende-einige-azubis-verdienen-doppelt-so-viel-wie-andere-a-57c3802b-e792-4796-a5b5-52a824f4a360#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/pistorius-macht-munitionsproduktion-zur-chefsache](https://www.spiegel.de/politik/deutschland/pistorius-macht-munitionsproduktion-zur-chefsache-a-285331bb-ba6b-4645-bf42-cb0e8d28b8c9#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-und-carsten-linnemann-die-selbstzerstoerung-der-cdu-kommentar](https://www.spiegel.de/politik/friedrich-merz-und-carsten-linnemann-die-selbstzerstoerung-der-cdu-kommentar-a-13ee987f-ae5c-485e-90f0-7eeda56f1d8b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-afd-was-ein-cdu-kommunalpolitiker-von-der-zusammenarbeit-haelt](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-afd-was-ein-cdu-kommunalpolitiker-von-der-zusammenarbeit-haelt-a-25e7e2a1-afcb-4cf6-b58f-f8fb85ffaeb7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/verhaeltnis-der-cdu-zur-afd-operation-wardochnix-laeuft](https://www.spiegel.de/politik/deutschland/verhaeltnis-der-cdu-zur-afd-operation-wardochnix-laeuft-a-baf2664e-61f7-463c-abea-3d420f0ecbd1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-feuer-in-griechenland-israel](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-feuer-in-griechenland-israel-a-e962fefb-739b-420c-9830-ec8a4fbbd3a2#ref=rss)
 ### 2023
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-deutschland-besiegt-marokko-mit-6-0](https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-deutschland-besiegt-marokko-mit-6-0-a-b430f9c5-b73f-4692-a8bb-fe74af5a4c7b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-italien-besiegt-argentinien-1-0](https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-italien-besiegt-argentinien-1-0-a-0bdab326-f91a-48dd-8651-67310f93e14d#ref=rss)
-### besiegt
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-deutschland-besiegt-marokko-mit-6-0](https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-deutschland-besiegt-marokko-mit-6-0-a-b430f9c5-b73f-4692-a8bb-fe74af5a4c7b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-italien-besiegt-argentinien-1-0](https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-italien-besiegt-argentinien-1-0-a-0bdab326-f91a-48dd-8651-67310f93e14d#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-deutschland-besiegt-marokko-mit-6-0](https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-deutschland-besiegt-marokko-mit-6-0-a-b430f9c5-b73f-4692-a8bb-fe74af5a4c7b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/homeoffice-drei-von-fuenf-deutschen-unternehmen-erlauben-ihren-angestellten-von-zu-hause-aus-zu-arbeiten](https://www.spiegel.de/wirtschaft/homeoffice-drei-von-fuenf-deutschen-unternehmen-erlauben-ihren-angestellten-von-zu-hause-aus-zu-arbeiten-a-2de8ebf3-a2ea-434b-a0d8-0497bbf52d47#ref=rss)
-### tempo
-
-* [https://www.spiegel.de/auto/verkehrsberuhigung-in-den-staedten-was-bringt-tempo-30-wirklich](https://www.spiegel.de/auto/verkehrsberuhigung-in-den-staedten-was-bringt-tempo-30-wirklich-a-216866f6-5e1c-47c1-a4be-176ef422ea24#ref=rss)
-### 30
-
-* [https://www.spiegel.de/auto/verkehrsberuhigung-in-den-staedten-was-bringt-tempo-30-wirklich](https://www.spiegel.de/auto/verkehrsberuhigung-in-den-staedten-was-bringt-tempo-30-wirklich-a-216866f6-5e1c-47c1-a4be-176ef422ea24#ref=rss)
-### china
-
-* [https://www.spiegel.de/panorama/china-elf-tote-nach-einsturz-von-turnhallen-dach](https://www.spiegel.de/panorama/china-elf-tote-nach-einsturz-von-turnhallen-dach-a-4faa2bfc-58ec-4b71-b6aa-2929af78ba4d#ref=rss)
-### elf
-
-* [https://www.spiegel.de/panorama/china-elf-tote-nach-einsturz-von-turnhallen-dach](https://www.spiegel.de/panorama/china-elf-tote-nach-einsturz-von-turnhallen-dach-a-4faa2bfc-58ec-4b71-b6aa-2929af78ba4d#ref=rss)
-### grab
-
-* [https://www.spiegel.de/panorama/justiz/berlin-grab-von-trans-frau-erneut-geschaendet](https://www.spiegel.de/panorama/justiz/berlin-grab-von-trans-frau-erneut-geschaendet-a-f95c67b2-d501-403f-b296-fd7cd779331e#ref=rss)
-### trans
-
-* [https://www.spiegel.de/panorama/justiz/berlin-grab-von-trans-frau-erneut-geschaendet](https://www.spiegel.de/panorama/justiz/berlin-grab-von-trans-frau-erneut-geschaendet-a-f95c67b2-d501-403f-b296-fd7cd779331e#ref=rss)
-### pressestimmen
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-ungarn-pressestimmen-sehr-kurz-durfte-der-rest-traeumen](https://www.spiegel.de/sport/formel1/formel-1-in-ungarn-pressestimmen-sehr-kurz-durfte-der-rest-traeumen-a-7a907a89-8caf-4753-82dc-7353dda7df6d#ref=rss)
-* [https://www.spiegel.de/sport/tour-de-france-der-einbruch-von-pogacar-liess-den-slowenen-menschlicher-erscheinen-pressestimmen](https://www.spiegel.de/sport/tour-de-france-der-einbruch-von-pogacar-liess-den-slowenen-menschlicher-erscheinen-pressestimmen-a-1068375f-4986-4a00-8783-16a2bc6f7d1e#ref=rss)
-### schumacher
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-ungarn-pressestimmen-sehr-kurz-durfte-der-rest-traeumen](https://www.spiegel.de/sport/formel1/formel-1-in-ungarn-pressestimmen-sehr-kurz-durfte-der-rest-traeumen-a-7a907a89-8caf-4753-82dc-7353dda7df6d#ref=rss)
-### internationale
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-ungarn-pressestimmen-sehr-kurz-durfte-der-rest-traeumen](https://www.spiegel.de/sport/formel1/formel-1-in-ungarn-pressestimmen-sehr-kurz-durfte-der-rest-traeumen-a-7a907a89-8caf-4753-82dc-7353dda7df6d#ref=rss)
-* [https://www.spiegel.de/sport/tour-de-france-der-einbruch-von-pogacar-liess-den-slowenen-menschlicher-erscheinen-pressestimmen](https://www.spiegel.de/sport/tour-de-france-der-einbruch-von-pogacar-liess-den-slowenen-menschlicher-erscheinen-pressestimmen-a-1068375f-4986-4a00-8783-16a2bc6f7d1e#ref=rss)
-### presse
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-ungarn-pressestimmen-sehr-kurz-durfte-der-rest-traeumen](https://www.spiegel.de/sport/formel1/formel-1-in-ungarn-pressestimmen-sehr-kurz-durfte-der-rest-traeumen-a-7a907a89-8caf-4753-82dc-7353dda7df6d#ref=rss)
-* [https://www.spiegel.de/sport/tour-de-france-der-einbruch-von-pogacar-liess-den-slowenen-menschlicher-erscheinen-pressestimmen](https://www.spiegel.de/sport/tour-de-france-der-einbruch-von-pogacar-liess-den-slowenen-menschlicher-erscheinen-pressestimmen-a-1068375f-4986-4a00-8783-16a2bc6f7d1e#ref=rss)
-### hamburg
-
-* [https://www.spiegel.de/geschichte/80-jahre-feuersturm-in-hamburg-als-die-taeter-zu-opfern-wurden](https://www.spiegel.de/geschichte/80-jahre-feuersturm-in-hamburg-als-die-taeter-zu-opfern-wurden-a-84f55a77-933b-457d-9755-b9b872b12b7f#ref=rss)
-### alle
-
-* [https://www.spiegel.de/wirtschaft/yeezy-adidas-kunden-bestellen-vier-millionen-paar-kanye-west-schuhe](https://www.spiegel.de/wirtschaft/yeezy-adidas-kunden-bestellen-vier-millionen-paar-kanye-west-schuhe-a-db80d928-67f4-43b7-a6bf-5f528c3057f9#ref=rss)
-* [https://www.spiegel.de/sport/jonas-vingegaard-gewinnt-tour-de-france-der-sieger-der-alles-hat-nur-kein-charisma](https://www.spiegel.de/sport/jonas-vingegaard-gewinnt-tour-de-france-der-sieger-der-alles-hat-nur-kein-charisma-a-15718c66-9e39-493f-b364-12a8761407d5#ref=rss)
-### fast
-
-* [https://www.spiegel.de/stil/rezept-fuer-hawaiianischen-butter-mochi](https://www.spiegel.de/stil/rezept-fuer-hawaiianischen-butter-mochi-a-9b9c91a0-b6af-48f0-8586-a0da333d2c40#ref=rss)
-* [https://www.spiegel.de/ausland/spanien-wahl-wer-jetzt-die-besten-chancen-hat-das-land-zu-regieren](https://www.spiegel.de/ausland/spanien-wahl-wer-jetzt-die-besten-chancen-hat-das-land-zu-regieren-a-98f324ff-76c3-4ae7-a6e3-7199ff495016#ref=rss)
-### medwedew
-
-* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-ukraine-attackiert-munitionslager-auf-der-krim](https://www.spiegel.de/ausland/ukraine-russland-news-heute-ukraine-attackiert-munitionslager-auf-der-krim-a-590aac0c-f5d7-4222-8451-6f9379c079ae#ref=rss)
-### ziele
-
-* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-ukraine-attackiert-munitionslager-auf-der-krim](https://www.spiegel.de/ausland/ukraine-russland-news-heute-ukraine-attackiert-munitionslager-auf-der-krim-a-590aac0c-f5d7-4222-8451-6f9379c079ae#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-ukraine-attackiert-munitionslager-auf-der-krim](https://www.spiegel.de/ausland/ukraine-russland-news-heute-ukraine-attackiert-munitionslager-auf-der-krim-a-590aac0c-f5d7-4222-8451-6f9379c079ae#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/pistorius-macht-munitionsproduktion-zur-chefsache](https://www.spiegel.de/politik/deutschland/pistorius-macht-munitionsproduktion-zur-chefsache-a-285331bb-ba6b-4645-bf42-cb0e8d28b8c9#ref=rss)
-### news
-
-* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-ukraine-attackiert-munitionslager-auf-der-krim](https://www.spiegel.de/ausland/ukraine-russland-news-heute-ukraine-attackiert-munitionslager-auf-der-krim-a-590aac0c-f5d7-4222-8451-6f9379c079ae#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-linke-israel-benjamin-netanyahu-fussball-wm-marokko-thunberg](https://www.spiegel.de/politik/deutschland/news-linke-israel-benjamin-netanyahu-fussball-wm-marokko-thunberg-a-5046e912-efbb-4b40-9fb6-7a0bd3e83552#ref=rss)
-### charisma
-
-* [https://www.spiegel.de/sport/jonas-vingegaard-gewinnt-tour-de-france-der-sieger-der-alles-hat-nur-kein-charisma](https://www.spiegel.de/sport/jonas-vingegaard-gewinnt-tour-de-france-der-sieger-der-alles-hat-nur-kein-charisma-a-15718c66-9e39-493f-b364-12a8761407d5#ref=rss)
-* [https://www.spiegel.de/sport/tour-de-france-der-einbruch-von-pogacar-liess-den-slowenen-menschlicher-erscheinen-pressestimmen](https://www.spiegel.de/sport/tour-de-france-der-einbruch-von-pogacar-liess-den-slowenen-menschlicher-erscheinen-pressestimmen-a-1068375f-4986-4a00-8783-16a2bc6f7d1e#ref=rss)
-### zeigen
-
-* [https://www.spiegel.de/sport/jonas-vingegaard-gewinnt-tour-de-france-der-sieger-der-alles-hat-nur-kein-charisma](https://www.spiegel.de/sport/jonas-vingegaard-gewinnt-tour-de-france-der-sieger-der-alles-hat-nur-kein-charisma-a-15718c66-9e39-493f-b364-12a8761407d5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/subway-shirts-auf-tiktok-was-maenner-von-hunden-lernen-koennen](https://www.spiegel.de/politik/deutschland/subway-shirts-auf-tiktok-was-maenner-von-hunden-lernen-koennen-a-f68d4d3c-1e70-429a-8ef3-471ce40ca83b#ref=rss)
+* [https://www.spiegel.de/panorama/dorfromantik-und-die-dorf-realitaet-spielen-sie-auch-dorfromantik-frau-zehmke](https://www.spiegel.de/panorama/dorfromantik-und-die-dorf-realitaet-spielen-sie-auch-dorfromantik-frau-zehmke-a-800bdfef-83dc-4b9e-a5ed-c76777f48d19#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-alexandra-popp-widmet-e-t-jubel-ihrem-verstorbenen-vater](https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-alexandra-popp-widmet-e-t-jubel-ihrem-verstorbenen-vater-a-452176af-e14a-4ee2-b328-03fc1bb01fc3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2023-deutschlands-auftaktsieg-wir-drehen-jetzt-nicht-durch](https://www.spiegel.de/sport/fussball/fussball-wm-2023-deutschlands-auftaktsieg-wir-drehen-jetzt-nicht-durch-a-d2e166d4-3572-4cb6-9e9c-a4462005a3e2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/chinas-wirtschaft-schwaechelt-indien-holt-als-absatzmarkt-auf](https://www.spiegel.de/wirtschaft/chinas-wirtschaft-schwaechelt-indien-holt-als-absatzmarkt-auf-a-43d2516a-bf07-46af-866d-330f06980b5b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-der-frauen-2023-klara-buehls-haekel-koala-wird-zum-internethit](https://www.spiegel.de/sport/fussball/wm-der-frauen-2023-klara-buehls-haekel-koala-wird-zum-internethit-a-c6018767-22fb-4640-a745-6e0712812673#ref=rss)
 ### friedrich
 
-* [https://www.spiegel.de/politik/friedrich-merz-cdu-chef-relativiert-aussagen-zu-kooperation-mit-afd](https://www.spiegel.de/politik/friedrich-merz-cdu-chef-relativiert-aussagen-zu-kooperation-mit-afd-a-a058a465-c4be-437a-b01b-467b44299e64#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-cdu-breite-kritik-an-merz-aeusserungen-zur-afd-aus-eigener-partei](https://www.spiegel.de/politik/deutschland/friedrich-merz-cdu-breite-kritik-an-merz-aeusserungen-zur-afd-aus-eigener-partei-a-bfcdac8d-4285-4256-825a-16f0bfeffb13#ref=rss)
-### aussagen
+* [https://www.spiegel.de/politik/friedrich-merz-und-carsten-linnemann-die-selbstzerstoerung-der-cdu-kommentar](https://www.spiegel.de/politik/friedrich-merz-und-carsten-linnemann-die-selbstzerstoerung-der-cdu-kommentar-a-13ee987f-ae5c-485e-90f0-7eeda56f1d8b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-afd-was-ein-cdu-kommunalpolitiker-von-der-zusammenarbeit-haelt](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-afd-was-ein-cdu-kommunalpolitiker-von-der-zusammenarbeit-haelt-a-25e7e2a1-afcb-4cf6-b58f-f8fb85ffaeb7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-feuer-in-griechenland-israel](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-feuer-in-griechenland-israel-a-e962fefb-739b-420c-9830-ec8a4fbbd3a2#ref=rss)
+### afd
 
-* [https://www.spiegel.de/politik/friedrich-merz-cdu-chef-relativiert-aussagen-zu-kooperation-mit-afd](https://www.spiegel.de/politik/friedrich-merz-cdu-chef-relativiert-aussagen-zu-kooperation-mit-afd-a-a058a465-c4be-437a-b01b-467b44299e64#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-cdu-breite-kritik-an-merz-aeusserungen-zur-afd-aus-eigener-partei](https://www.spiegel.de/politik/deutschland/friedrich-merz-cdu-breite-kritik-an-merz-aeusserungen-zur-afd-aus-eigener-partei-a-bfcdac8d-4285-4256-825a-16f0bfeffb13#ref=rss)
-### kooperation
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-afd-was-ein-cdu-kommunalpolitiker-von-der-zusammenarbeit-haelt](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-afd-was-ein-cdu-kommunalpolitiker-von-der-zusammenarbeit-haelt-a-25e7e2a1-afcb-4cf6-b58f-f8fb85ffaeb7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/verhaeltnis-der-cdu-zur-afd-operation-wardochnix-laeuft](https://www.spiegel.de/politik/deutschland/verhaeltnis-der-cdu-zur-afd-operation-wardochnix-laeuft-a-baf2664e-61f7-463c-abea-3d420f0ecbd1#ref=rss)
+### wm
 
-* [https://www.spiegel.de/politik/friedrich-merz-cdu-chef-relativiert-aussagen-zu-kooperation-mit-afd](https://www.spiegel.de/politik/friedrich-merz-cdu-chef-relativiert-aussagen-zu-kooperation-mit-afd-a-a058a465-c4be-437a-b01b-467b44299e64#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-cdu-breite-kritik-an-merz-aeusserungen-zur-afd-aus-eigener-partei](https://www.spiegel.de/politik/deutschland/friedrich-merz-cdu-breite-kritik-an-merz-aeusserungen-zur-afd-aus-eigener-partei-a-bfcdac8d-4285-4256-825a-16f0bfeffb13#ref=rss)
-### naumburg
+* [https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-alexandra-popp-widmet-e-t-jubel-ihrem-verstorbenen-vater](https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-alexandra-popp-widmet-e-t-jubel-ihrem-verstorbenen-vater-a-452176af-e14a-4ee2-b328-03fc1bb01fc3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2023-deutschlands-auftaktsieg-wir-drehen-jetzt-nicht-durch](https://www.spiegel.de/sport/fussball/fussball-wm-2023-deutschlands-auftaktsieg-wir-drehen-jetzt-nicht-durch-a-d2e166d4-3572-4cb6-9e9c-a4462005a3e2#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-der-frauen-2023-klara-buehls-haekel-koala-wird-zum-internethit](https://www.spiegel.de/sport/fussball/wm-der-frauen-2023-klara-buehls-haekel-koala-wird-zum-internethit-a-c6018767-22fb-4640-a745-6e0712812673#ref=rss)
+### popp
 
-* [https://www.spiegel.de/panorama/bildung/naumburg-regenbogentreppe-an-schule-in-farben-der-reichsflagge-uebermalt](https://www.spiegel.de/panorama/bildung/naumburg-regenbogentreppe-an-schule-in-farben-der-reichsflagge-uebermalt-a-ec1ca818-2add-474f-a8df-a53253380013#ref=rss)
-### schule
+* [https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-alexandra-popp-widmet-e-t-jubel-ihrem-verstorbenen-vater](https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-alexandra-popp-widmet-e-t-jubel-ihrem-verstorbenen-vater-a-452176af-e14a-4ee2-b328-03fc1bb01fc3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2023-deutschlands-auftaktsieg-wir-drehen-jetzt-nicht-durch](https://www.spiegel.de/sport/fussball/fussball-wm-2023-deutschlands-auftaktsieg-wir-drehen-jetzt-nicht-durch-a-d2e166d4-3572-4cb6-9e9c-a4462005a3e2#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/panorama/bildung/naumburg-regenbogentreppe-an-schule-in-farben-der-reichsflagge-uebermalt](https://www.spiegel.de/panorama/bildung/naumburg-regenbogentreppe-an-schule-in-farben-der-reichsflagge-uebermalt-a-ec1ca818-2add-474f-a8df-a53253380013#ref=rss)
-### homeoffice
+* [https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-alexandra-popp-widmet-e-t-jubel-ihrem-verstorbenen-vater](https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-alexandra-popp-widmet-e-t-jubel-ihrem-verstorbenen-vater-a-452176af-e14a-4ee2-b328-03fc1bb01fc3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/long-covid-corona-kann-die-gehirnfunktion-jahrelang-beeintraechtigen](https://www.spiegel.de/wissenschaft/medizin/long-covid-corona-kann-die-gehirnfunktion-jahrelang-beeintraechtigen-a-698f031b-6a7e-48ad-8a74-625d33eea0ce#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-handyvideo-soll-drohne-ueber-moskau-zeigen](https://www.spiegel.de/ausland/ukraine-krieg-handyvideo-soll-drohne-ueber-moskau-zeigen-a-814defc6-ef69-4937-a8e3-98f3d0d09fd3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/kleinwagen-adac-kritisiert-mangel-an-guenstigen-modellen-nur-vier-pkw-unter-15-000-euro](https://www.spiegel.de/wirtschaft/service/kleinwagen-adac-kritisiert-mangel-an-guenstigen-modellen-nur-vier-pkw-unter-15-000-euro-a-efe2df84-6d41-41ed-a478-b9956a1ffcc3#ref=rss)
+### justizreform
 
-* [https://www.spiegel.de/wirtschaft/homeoffice-drei-von-fuenf-deutschen-unternehmen-erlauben-ihren-angestellten-von-zu-hause-aus-zu-arbeiten](https://www.spiegel.de/wirtschaft/homeoffice-drei-von-fuenf-deutschen-unternehmen-erlauben-ihren-angestellten-von-zu-hause-aus-zu-arbeiten-a-2de8ebf3-a2ea-434b-a0d8-0497bbf52d47#ref=rss)
-### angestellten
+* [https://www.spiegel.de/ausland/israel-wird-das-oberste-gericht-die-umstrittene-justizreform-aufhalten](https://www.spiegel.de/ausland/israel-wird-das-oberste-gericht-die-umstrittene-justizreform-aufhalten-a-a6c98008-5095-4497-b627-6c05cce887df#ref=rss)
+* [https://www.spiegel.de/ausland/israels-parlament-boykott-bei-abstimmung-zur-justizreform](https://www.spiegel.de/ausland/israels-parlament-boykott-bei-abstimmung-zur-justizreform-a-128e4827-88cf-480e-8827-cca6efa6fdd1#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/wirtschaft/homeoffice-drei-von-fuenf-deutschen-unternehmen-erlauben-ihren-angestellten-von-zu-hause-aus-zu-arbeiten](https://www.spiegel.de/wirtschaft/homeoffice-drei-von-fuenf-deutschen-unternehmen-erlauben-ihren-angestellten-von-zu-hause-aus-zu-arbeiten-a-2de8ebf3-a2ea-434b-a0d8-0497bbf52d47#ref=rss)
-### hause
+* [https://www.spiegel.de/panorama/e-scooter-bekifft-auf-dem-elektroroller-fuehrerschein-weg](https://www.spiegel.de/panorama/e-scooter-bekifft-auf-dem-elektroroller-fuehrerschein-weg-a-512bb153-c089-4279-acb8-bf3c735ff390#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/oesterreich-polizei-findet-tote-ehefrau-im-kofferraum-von-justiz-fluechtling](https://www.spiegel.de/panorama/justiz/oesterreich-polizei-findet-tote-ehefrau-im-kofferraum-von-justiz-fluechtling-a-0b9d84bd-8eab-411c-957d-7c3e2ec465a9#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/muenchen-lehel-unbekannter-spuckt-offenbar-15-jaehriger-mit-kopftuch-ins-gesicht](https://www.spiegel.de/panorama/justiz/muenchen-lehel-unbekannter-spuckt-offenbar-15-jaehriger-mit-kopftuch-ins-gesicht-a-97469724-1f92-407a-a17b-59aca9a28a4a#ref=rss)
+### mann
 
-* [https://www.spiegel.de/wirtschaft/homeoffice-drei-von-fuenf-deutschen-unternehmen-erlauben-ihren-angestellten-von-zu-hause-aus-zu-arbeiten](https://www.spiegel.de/wirtschaft/homeoffice-drei-von-fuenf-deutschen-unternehmen-erlauben-ihren-angestellten-von-zu-hause-aus-zu-arbeiten-a-2de8ebf3-a2ea-434b-a0d8-0497bbf52d47#ref=rss)
-### arbeiten
+* [https://www.spiegel.de/panorama/e-scooter-bekifft-auf-dem-elektroroller-fuehrerschein-weg](https://www.spiegel.de/panorama/e-scooter-bekifft-auf-dem-elektroroller-fuehrerschein-weg-a-512bb153-c089-4279-acb8-bf3c735ff390#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/oesterreich-polizei-findet-tote-ehefrau-im-kofferraum-von-justiz-fluechtling](https://www.spiegel.de/panorama/justiz/oesterreich-polizei-findet-tote-ehefrau-im-kofferraum-von-justiz-fluechtling-a-0b9d84bd-8eab-411c-957d-7c3e2ec465a9#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/muenchen-lehel-unbekannter-spuckt-offenbar-15-jaehriger-mit-kopftuch-ins-gesicht](https://www.spiegel.de/panorama/justiz/muenchen-lehel-unbekannter-spuckt-offenbar-15-jaehriger-mit-kopftuch-ins-gesicht-a-97469724-1f92-407a-a17b-59aca9a28a4a#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/wirtschaft/homeoffice-drei-von-fuenf-deutschen-unternehmen-erlauben-ihren-angestellten-von-zu-hause-aus-zu-arbeiten](https://www.spiegel.de/wirtschaft/homeoffice-drei-von-fuenf-deutschen-unternehmen-erlauben-ihren-angestellten-von-zu-hause-aus-zu-arbeiten-a-2de8ebf3-a2ea-434b-a0d8-0497bbf52d47#ref=rss)
-### viele
+* [https://www.spiegel.de/panorama/schweiz-ein-todesopfer-und-verletzte-nach-sturm](https://www.spiegel.de/panorama/schweiz-ein-todesopfer-und-verletzte-nach-sturm-a-e7ee7547-58c6-42e2-983c-23ab6f607ff7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/worldcoin-openai-gruender-sam-altmann-startet-eigene-digitalwaehrung](https://www.spiegel.de/wirtschaft/worldcoin-openai-gruender-sam-altmann-startet-eigene-digitalwaehrung-a-32f267cd-c8d7-4376-80e7-00248a884313#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/long-covid-corona-kann-die-gehirnfunktion-jahrelang-beeintraechtigen](https://www.spiegel.de/wissenschaft/medizin/long-covid-corona-kann-die-gehirnfunktion-jahrelang-beeintraechtigen-a-698f031b-6a7e-48ad-8a74-625d33eea0ce#ref=rss)
+### eigene
 
-* [https://www.spiegel.de/wirtschaft/homeoffice-drei-von-fuenf-deutschen-unternehmen-erlauben-ihren-angestellten-von-zu-hause-aus-zu-arbeiten](https://www.spiegel.de/wirtschaft/homeoffice-drei-von-fuenf-deutschen-unternehmen-erlauben-ihren-angestellten-von-zu-hause-aus-zu-arbeiten-a-2de8ebf3-a2ea-434b-a0d8-0497bbf52d47#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-italien-besiegt-argentinien-1-0](https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-italien-besiegt-argentinien-1-0-a-0bdab326-f91a-48dd-8651-67310f93e14d#ref=rss)
-### stark
+* [https://www.spiegel.de/wirtschaft/worldcoin-openai-gruender-sam-altmann-startet-eigene-digitalwaehrung](https://www.spiegel.de/wirtschaft/worldcoin-openai-gruender-sam-altmann-startet-eigene-digitalwaehrung-a-32f267cd-c8d7-4376-80e7-00248a884313#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/verhaeltnis-der-cdu-zur-afd-operation-wardochnix-laeuft](https://www.spiegel.de/politik/deutschland/verhaeltnis-der-cdu-zur-afd-operation-wardochnix-laeuft-a-baf2664e-61f7-463c-abea-3d420f0ecbd1#ref=rss)
+* [https://www.spiegel.de/ausland/israel-wird-das-oberste-gericht-die-umstrittene-justizreform-aufhalten](https://www.spiegel.de/ausland/israel-wird-das-oberste-gericht-die-umstrittene-justizreform-aufhalten-a-a6c98008-5095-4497-b627-6c05cce887df#ref=rss)
+### staatsanwaltschaft
 
-* [https://www.spiegel.de/wirtschaft/homeoffice-drei-von-fuenf-deutschen-unternehmen-erlauben-ihren-angestellten-von-zu-hause-aus-zu-arbeiten](https://www.spiegel.de/wirtschaft/homeoffice-drei-von-fuenf-deutschen-unternehmen-erlauben-ihren-angestellten-von-zu-hause-aus-zu-arbeiten-a-2de8ebf3-a2ea-434b-a0d8-0497bbf52d47#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gesunde-ernaehrung-fdp-will-kinder-werbeschranken-bei-lebensmitteln-blockieren](https://www.spiegel.de/wirtschaft/gesunde-ernaehrung-fdp-will-kinder-werbeschranken-bei-lebensmitteln-blockieren-a-08ace42b-6e64-4153-bbd8-e028517f4cca#ref=rss)
-### italien
+* [https://www.spiegel.de/sport/tennis/alexander-zverev-weist-vorwurf-der-koerperverletzung-zurueck](https://www.spiegel.de/sport/tennis/alexander-zverev-weist-vorwurf-der-koerperverletzung-zurueck-a-139ce525-1739-4682-ba71-5e6e613aed21#ref=rss)
+* [https://www.spiegel.de/panorama/flughafen-muenchen-passagiere-sitzen-bei-hitze-in-flugzeug-fest-staatsanwaltschaft-ermittelt](https://www.spiegel.de/panorama/flughafen-muenchen-passagiere-sitzen-bei-hitze-in-flugzeug-fest-staatsanwaltschaft-ermittelt-a-fec00c70-8230-4430-8866-2d6dcd3aa3b4#ref=rss)
+### partei
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-italien-besiegt-argentinien-1-0](https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-italien-besiegt-argentinien-1-0-a-0bdab326-f91a-48dd-8651-67310f93e14d#ref=rss)
-### argentinien
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-afd-was-ein-cdu-kommunalpolitiker-von-der-zusammenarbeit-haelt](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-afd-was-ein-cdu-kommunalpolitiker-von-der-zusammenarbeit-haelt-a-25e7e2a1-afcb-4cf6-b58f-f8fb85ffaeb7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/verhaeltnis-der-cdu-zur-afd-operation-wardochnix-laeuft](https://www.spiegel.de/politik/deutschland/verhaeltnis-der-cdu-zur-afd-operation-wardochnix-laeuft-a-baf2664e-61f7-463c-abea-3d420f0ecbd1#ref=rss)
+### alexandra
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-italien-besiegt-argentinien-1-0](https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-italien-besiegt-argentinien-1-0-a-0bdab326-f91a-48dd-8651-67310f93e14d#ref=rss)
-### fluss
+* [https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-alexandra-popp-widmet-e-t-jubel-ihrem-verstorbenen-vater](https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-alexandra-popp-widmet-e-t-jubel-ihrem-verstorbenen-vater-a-452176af-e14a-4ee2-b328-03fc1bb01fc3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2023-deutschlands-auftaktsieg-wir-drehen-jetzt-nicht-durch](https://www.spiegel.de/sport/fussball/fussball-wm-2023-deutschlands-auftaktsieg-wir-drehen-jetzt-nicht-durch-a-d2e166d4-3572-4cb6-9e9c-a4462005a3e2#ref=rss)
+### israel
 
-* [https://www.spiegel.de/panorama/gundelfinden-vierjaehriger-stuerzt-in-fluss-und-treibt-in-rechenschacht](https://www.spiegel.de/panorama/gundelfinden-vierjaehriger-stuerzt-in-fluss-und-treibt-in-rechenschacht-a-f34fbf0c-531c-4126-8359-3a1a1a3bb561#ref=rss)
-### pistorius
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-feuer-in-griechenland-israel](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-feuer-in-griechenland-israel-a-e962fefb-739b-420c-9830-ec8a4fbbd3a2#ref=rss)
+* [https://www.spiegel.de/ausland/israel-wird-das-oberste-gericht-die-umstrittene-justizreform-aufhalten](https://www.spiegel.de/ausland/israel-wird-das-oberste-gericht-die-umstrittene-justizreform-aufhalten-a-a6c98008-5095-4497-b627-6c05cce887df#ref=rss)
+### münchen
 
-* [https://www.spiegel.de/politik/deutschland/pistorius-macht-munitionsproduktion-zur-chefsache](https://www.spiegel.de/politik/deutschland/pistorius-macht-munitionsproduktion-zur-chefsache-a-285331bb-ba6b-4645-bf42-cb0e8d28b8c9#ref=rss)
-### weitgehend
+* [https://www.spiegel.de/panorama/flughafen-muenchen-passagiere-sitzen-bei-hitze-in-flugzeug-fest-staatsanwaltschaft-ermittelt](https://www.spiegel.de/panorama/flughafen-muenchen-passagiere-sitzen-bei-hitze-in-flugzeug-fest-staatsanwaltschaft-ermittelt-a-fec00c70-8230-4430-8866-2d6dcd3aa3b4#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/muenchen-lehel-unbekannter-spuckt-offenbar-15-jaehriger-mit-kopftuch-ins-gesicht](https://www.spiegel.de/panorama/justiz/muenchen-lehel-unbekannter-spuckt-offenbar-15-jaehriger-mit-kopftuch-ins-gesicht-a-97469724-1f92-407a-a17b-59aca9a28a4a#ref=rss)
+### indien
 
-* [https://www.spiegel.de/politik/deutschland/pistorius-macht-munitionsproduktion-zur-chefsache](https://www.spiegel.de/politik/deutschland/pistorius-macht-munitionsproduktion-zur-chefsache-a-285331bb-ba6b-4645-bf42-cb0e8d28b8c9#ref=rss)
-* [https://www.spiegel.de/ausland/israel-und-die-umstrittene-justizreform-heute-entscheidet-sich-die-zukunft-des-landes](https://www.spiegel.de/ausland/israel-und-die-umstrittene-justizreform-heute-entscheidet-sich-die-zukunft-des-landes-a-bc4d1e95-7126-41a7-bb76-482ba81d7b5b#ref=rss)
-### leer
+* [https://www.spiegel.de/wirtschaft/chinas-wirtschaft-schwaechelt-indien-holt-als-absatzmarkt-auf](https://www.spiegel.de/wirtschaft/chinas-wirtschaft-schwaechelt-indien-holt-als-absatzmarkt-auf-a-43d2516a-bf07-46af-866d-330f06980b5b#ref=rss)
+* [https://www.spiegel.de/karriere/surat-in-indien-das-groesste-buerogebaeude-der-welt-ist-eine-diamantenboerse](https://www.spiegel.de/karriere/surat-in-indien-das-groesste-buerogebaeude-der-welt-ist-eine-diamantenboerse-a-f079556e-f8ef-4fc2-92cd-12f64a958fdf#ref=rss)
+### flick
 
-* [https://www.spiegel.de/politik/deutschland/pistorius-macht-munitionsproduktion-zur-chefsache](https://www.spiegel.de/politik/deutschland/pistorius-macht-munitionsproduktion-zur-chefsache-a-285331bb-ba6b-4645-bf42-cb0e8d28b8c9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tagesgeld-dutzende-banken-zahlen-0-00-prozent-zinsen](https://www.spiegel.de/wirtschaft/tagesgeld-dutzende-banken-zahlen-0-00-prozent-zinsen-a-97e11938-9196-46e1-aad1-b58fce5a5592#ref=rss)
-### pogačar
+* [https://www.spiegel.de/sport/fussball/hansi-flick-wehrt-sich-gegen-kritik-eine-grosse-dreistigkeit-auch-eine-unverschaemtheit](https://www.spiegel.de/sport/fussball/hansi-flick-wehrt-sich-gegen-kritik-eine-grosse-dreistigkeit-auch-eine-unverschaemtheit-a-afdf7250-a7ab-4285-a2bf-31dfad20c2cc#ref=rss)
+### weg
 
-* [https://www.spiegel.de/sport/tour-de-france-der-einbruch-von-pogacar-liess-den-slowenen-menschlicher-erscheinen-pressestimmen](https://www.spiegel.de/sport/tour-de-france-der-einbruch-von-pogacar-liess-den-slowenen-menschlicher-erscheinen-pressestimmen-a-1068375f-4986-4a00-8783-16a2bc6f7d1e#ref=rss)
-### paul
+* [https://www.spiegel.de/panorama/e-scooter-bekifft-auf-dem-elektroroller-fuehrerschein-weg](https://www.spiegel.de/panorama/e-scooter-bekifft-auf-dem-elektroroller-fuehrerschein-weg-a-512bb153-c089-4279-acb8-bf3c735ff390#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-transfers-al-hilal-will-kylian-mbappe-fuer-angeblich-300-millionen-euro](https://www.spiegel.de/sport/fussball/fussball-transfers-al-hilal-will-kylian-mbappe-fuer-angeblich-300-millionen-euro-a-09ce4323-5096-40ed-8864-d6a5303d2315#ref=rss)
+### wies
 
-* [https://www.spiegel.de/karriere/kritik-von-kollegen-tipps-von-der-karriereberaterin](https://www.spiegel.de/karriere/kritik-von-kollegen-tipps-von-der-karriereberaterin-a-3ea3b9f2-d819-4cc0-af83-441580d2eb6e#ref=rss)
-### anderen
+* [https://www.spiegel.de/panorama/e-scooter-bekifft-auf-dem-elektroroller-fuehrerschein-weg](https://www.spiegel.de/panorama/e-scooter-bekifft-auf-dem-elektroroller-fuehrerschein-weg-a-512bb153-c089-4279-acb8-bf3c735ff390#ref=rss)
+* [https://www.spiegel.de/sport/fussball/hansi-flick-wehrt-sich-gegen-kritik-eine-grosse-dreistigkeit-auch-eine-unverschaemtheit](https://www.spiegel.de/sport/fussball/hansi-flick-wehrt-sich-gegen-kritik-eine-grosse-dreistigkeit-auch-eine-unverschaemtheit-a-afdf7250-a7ab-4285-a2bf-31dfad20c2cc#ref=rss)
+### schweiz
 
-* [https://www.spiegel.de/karriere/kritik-von-kollegen-tipps-von-der-karriereberaterin](https://www.spiegel.de/karriere/kritik-von-kollegen-tipps-von-der-karriereberaterin-a-3ea3b9f2-d819-4cc0-af83-441580d2eb6e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tagesgeld-dutzende-banken-zahlen-0-00-prozent-zinsen](https://www.spiegel.de/wirtschaft/tagesgeld-dutzende-banken-zahlen-0-00-prozent-zinsen-a-97e11938-9196-46e1-aad1-b58fce5a5592#ref=rss)
-### subway
+* [https://www.spiegel.de/panorama/schweiz-ein-todesopfer-und-verletzte-nach-sturm](https://www.spiegel.de/panorama/schweiz-ein-todesopfer-und-verletzte-nach-sturm-a-e7ee7547-58c6-42e2-983c-23ab6f607ff7#ref=rss)
+### wo
 
-* [https://www.spiegel.de/politik/deutschland/subway-shirts-auf-tiktok-was-maenner-von-hunden-lernen-koennen](https://www.spiegel.de/politik/deutschland/subway-shirts-auf-tiktok-was-maenner-von-hunden-lernen-koennen-a-f68d4d3c-1e70-429a-8ef3-471ce40ca83b#ref=rss)
-### shirts
-
-* [https://www.spiegel.de/politik/deutschland/subway-shirts-auf-tiktok-was-maenner-von-hunden-lernen-koennen](https://www.spiegel.de/politik/deutschland/subway-shirts-auf-tiktok-was-maenner-von-hunden-lernen-koennen-a-f68d4d3c-1e70-429a-8ef3-471ce40ca83b#ref=rss)
-### tiktok
-
-* [https://www.spiegel.de/politik/deutschland/subway-shirts-auf-tiktok-was-maenner-von-hunden-lernen-koennen](https://www.spiegel.de/politik/deutschland/subway-shirts-auf-tiktok-was-maenner-von-hunden-lernen-koennen-a-f68d4d3c-1e70-429a-8ef3-471ce40ca83b#ref=rss)
-### banken
-
-* [https://www.spiegel.de/wirtschaft/tagesgeld-dutzende-banken-zahlen-0-00-prozent-zinsen](https://www.spiegel.de/wirtschaft/tagesgeld-dutzende-banken-zahlen-0-00-prozent-zinsen-a-97e11938-9196-46e1-aad1-b58fce5a5592#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/immobilien-wo-sich-mieten-mehr-lohnt-als-kaufen](https://www.spiegel.de/wirtschaft/service/immobilien-wo-sich-mieten-mehr-lohnt-als-kaufen-a-2ab63b0e-3391-495c-9ec7-1b72d9316165#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-feuer-in-griechenland-israel](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-feuer-in-griechenland-israel-a-e962fefb-739b-420c-9830-ec8a4fbbd3a2#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/ausland/israel-und-die-umstrittene-justizreform-heute-entscheidet-sich-die-zukunft-des-landes](https://www.spiegel.de/ausland/israel-und-die-umstrittene-justizreform-heute-entscheidet-sich-die-zukunft-des-landes-a-bc4d1e95-7126-41a7-bb76-482ba81d7b5b#ref=rss)
-* [https://www.spiegel.de/gesundheit/sonnenbrillen-worauf-sie-beim-schutz-fuer-die-augen-achten-sollten](https://www.spiegel.de/gesundheit/sonnenbrillen-worauf-sie-beim-schutz-fuer-die-augen-achten-sollten-a-24f1289b-16db-4a41-afb1-263eb9923ee0#ref=rss)
-### sonnenbrillen
+* [https://www.spiegel.de/wirtschaft/service/immobilien-wo-sich-mieten-mehr-lohnt-als-kaufen](https://www.spiegel.de/wirtschaft/service/immobilien-wo-sich-mieten-mehr-lohnt-als-kaufen-a-2ab63b0e-3391-495c-9ec7-1b72d9316165#ref=rss)
+* [https://www.spiegel.de/ausland/russland-waldimir-putin-unterzeichnet-gesetz-gegen-geschlechtsangleichungen](https://www.spiegel.de/ausland/russland-waldimir-putin-unterzeichnet-gesetz-gegen-geschlechtsangleichungen-a-77b3de9f-fbac-4931-bf7b-4b426ef72713#ref=rss)
+### kaufen
 
-* [https://www.spiegel.de/gesundheit/sonnenbrillen-worauf-sie-beim-schutz-fuer-die-augen-achten-sollten](https://www.spiegel.de/gesundheit/sonnenbrillen-worauf-sie-beim-schutz-fuer-die-augen-achten-sollten-a-24f1289b-16db-4a41-afb1-263eb9923ee0#ref=rss)
-### linke
+* [https://www.spiegel.de/wirtschaft/service/immobilien-wo-sich-mieten-mehr-lohnt-als-kaufen](https://www.spiegel.de/wirtschaft/service/immobilien-wo-sich-mieten-mehr-lohnt-als-kaufen-a-2ab63b0e-3391-495c-9ec7-1b72d9316165#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/kleinwagen-adac-kritisiert-mangel-an-guenstigen-modellen-nur-vier-pkw-unter-15-000-euro](https://www.spiegel.de/wirtschaft/service/kleinwagen-adac-kritisiert-mangel-an-guenstigen-modellen-nur-vier-pkw-unter-15-000-euro-a-efe2df84-6d41-41ed-a478-b9956a1ffcc3#ref=rss)
+### worldcoin
 
-* [https://www.spiegel.de/politik/deutschland/news-linke-israel-benjamin-netanyahu-fussball-wm-marokko-thunberg](https://www.spiegel.de/politik/deutschland/news-linke-israel-benjamin-netanyahu-fussball-wm-marokko-thunberg-a-5046e912-efbb-4b40-9fb6-7a0bd3e83552#ref=rss)
+* [https://www.spiegel.de/wirtschaft/worldcoin-openai-gruender-sam-altmann-startet-eigene-digitalwaehrung](https://www.spiegel.de/wirtschaft/worldcoin-openai-gruender-sam-altmann-startet-eigene-digitalwaehrung-a-32f267cd-c8d7-4376-80e7-00248a884313#ref=rss)
+### sam
+
+* [https://www.spiegel.de/wirtschaft/worldcoin-openai-gruender-sam-altmann-startet-eigene-digitalwaehrung](https://www.spiegel.de/wirtschaft/worldcoin-openai-gruender-sam-altmann-startet-eigene-digitalwaehrung-a-32f267cd-c8d7-4376-80e7-00248a884313#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/wirtschaft/worldcoin-openai-gruender-sam-altmann-startet-eigene-digitalwaehrung](https://www.spiegel.de/wirtschaft/worldcoin-openai-gruender-sam-altmann-startet-eigene-digitalwaehrung-a-32f267cd-c8d7-4376-80e7-00248a884313#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/kleinwagen-adac-kritisiert-mangel-an-guenstigen-modellen-nur-vier-pkw-unter-15-000-euro](https://www.spiegel.de/wirtschaft/service/kleinwagen-adac-kritisiert-mangel-an-guenstigen-modellen-nur-vier-pkw-unter-15-000-euro-a-efe2df84-6d41-41ed-a478-b9956a1ffcc3#ref=rss)
+### per
+
+* [https://www.spiegel.de/wirtschaft/worldcoin-openai-gruender-sam-altmann-startet-eigene-digitalwaehrung](https://www.spiegel.de/wirtschaft/worldcoin-openai-gruender-sam-altmann-startet-eigene-digitalwaehrung-a-32f267cd-c8d7-4376-80e7-00248a884313#ref=rss)
+* [https://www.spiegel.de/ausland/russland-waldimir-putin-unterzeichnet-gesetz-gegen-geschlechtsangleichungen](https://www.spiegel.de/ausland/russland-waldimir-putin-unterzeichnet-gesetz-gegen-geschlechtsangleichungen-a-77b3de9f-fbac-4931-bf7b-4b426ef72713#ref=rss)
+### dorfromantik
+
+* [https://www.spiegel.de/panorama/dorfromantik-und-die-dorf-realitaet-spielen-sie-auch-dorfromantik-frau-zehmke](https://www.spiegel.de/panorama/dorfromantik-und-die-dorf-realitaet-spielen-sie-auch-dorfromantik-frau-zehmke-a-800bdfef-83dc-4b9e-a5ed-c76777f48d19#ref=rss)
+### frau
+
+* [https://www.spiegel.de/panorama/dorfromantik-und-die-dorf-realitaet-spielen-sie-auch-dorfromantik-frau-zehmke](https://www.spiegel.de/panorama/dorfromantik-und-die-dorf-realitaet-spielen-sie-auch-dorfromantik-frau-zehmke-a-800bdfef-83dc-4b9e-a5ed-c76777f48d19#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/oesterreich-polizei-findet-tote-ehefrau-im-kofferraum-von-justiz-fluechtling](https://www.spiegel.de/panorama/justiz/oesterreich-polizei-findet-tote-ehefrau-im-kofferraum-von-justiz-fluechtling-a-0b9d84bd-8eab-411c-957d-7c3e2ec465a9#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/panorama/dorfromantik-und-die-dorf-realitaet-spielen-sie-auch-dorfromantik-frau-zehmke](https://www.spiegel.de/panorama/dorfromantik-und-die-dorf-realitaet-spielen-sie-auch-dorfromantik-frau-zehmke-a-800bdfef-83dc-4b9e-a5ed-c76777f48d19#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-feuer-in-griechenland-israel](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-feuer-in-griechenland-israel-a-e962fefb-739b-420c-9830-ec8a4fbbd3a2#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/russland-waldimir-putin-unterzeichnet-gesetz-gegen-geschlechtsangleichungen](https://www.spiegel.de/ausland/russland-waldimir-putin-unterzeichnet-gesetz-gegen-geschlechtsangleichungen-a-77b3de9f-fbac-4931-bf7b-4b426ef72713#ref=rss)
+### gesetz
+
+* [https://www.spiegel.de/ausland/russland-waldimir-putin-unterzeichnet-gesetz-gegen-geschlechtsangleichungen](https://www.spiegel.de/ausland/russland-waldimir-putin-unterzeichnet-gesetz-gegen-geschlechtsangleichungen-a-77b3de9f-fbac-4931-bf7b-4b426ef72713#ref=rss)
+### geschlechtsangleichungen
+
+* [https://www.spiegel.de/ausland/russland-waldimir-putin-unterzeichnet-gesetz-gegen-geschlechtsangleichungen](https://www.spiegel.de/ausland/russland-waldimir-putin-unterzeichnet-gesetz-gegen-geschlechtsangleichungen-a-77b3de9f-fbac-4931-bf7b-4b426ef72713#ref=rss)
+### dürfen
+
+* [https://www.spiegel.de/ausland/russland-waldimir-putin-unterzeichnet-gesetz-gegen-geschlechtsangleichungen](https://www.spiegel.de/ausland/russland-waldimir-putin-unterzeichnet-gesetz-gegen-geschlechtsangleichungen-a-77b3de9f-fbac-4931-bf7b-4b426ef72713#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/verhaeltnis-der-cdu-zur-afd-operation-wardochnix-laeuft](https://www.spiegel.de/politik/deutschland/verhaeltnis-der-cdu-zur-afd-operation-wardochnix-laeuft-a-baf2664e-61f7-463c-abea-3d420f0ecbd1#ref=rss)
+### alexander
+
+* [https://www.spiegel.de/sport/tennis/alexander-zverev-weist-vorwurf-der-koerperverletzung-zurueck](https://www.spiegel.de/sport/tennis/alexander-zverev-weist-vorwurf-der-koerperverletzung-zurueck-a-139ce525-1739-4682-ba71-5e6e613aed21#ref=rss)
+### zverev
+
+* [https://www.spiegel.de/sport/tennis/alexander-zverev-weist-vorwurf-der-koerperverletzung-zurueck](https://www.spiegel.de/sport/tennis/alexander-zverev-weist-vorwurf-der-koerperverletzung-zurueck-a-139ce525-1739-4682-ba71-5e6e613aed21#ref=rss)
+### vorwurf
+
+* [https://www.spiegel.de/sport/tennis/alexander-zverev-weist-vorwurf-der-koerperverletzung-zurueck](https://www.spiegel.de/sport/tennis/alexander-zverev-weist-vorwurf-der-koerperverletzung-zurueck-a-139ce525-1739-4682-ba71-5e6e613aed21#ref=rss)
+### carsten
+
+* [https://www.spiegel.de/politik/friedrich-merz-und-carsten-linnemann-die-selbstzerstoerung-der-cdu-kommentar](https://www.spiegel.de/politik/friedrich-merz-und-carsten-linnemann-die-selbstzerstoerung-der-cdu-kommentar-a-13ee987f-ae5c-485e-90f0-7eeda56f1d8b#ref=rss)
+### linnemann
+
+* [https://www.spiegel.de/politik/friedrich-merz-und-carsten-linnemann-die-selbstzerstoerung-der-cdu-kommentar](https://www.spiegel.de/politik/friedrich-merz-und-carsten-linnemann-die-selbstzerstoerung-der-cdu-kommentar-a-13ee987f-ae5c-485e-90f0-7eeda56f1d8b#ref=rss)
+### cdu
+
+* [https://www.spiegel.de/politik/friedrich-merz-und-carsten-linnemann-die-selbstzerstoerung-der-cdu-kommentar](https://www.spiegel.de/politik/friedrich-merz-und-carsten-linnemann-die-selbstzerstoerung-der-cdu-kommentar-a-13ee987f-ae5c-485e-90f0-7eeda56f1d8b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/verhaeltnis-der-cdu-zur-afd-operation-wardochnix-laeuft](https://www.spiegel.de/politik/deutschland/verhaeltnis-der-cdu-zur-afd-operation-wardochnix-laeuft-a-baf2664e-61f7-463c-abea-3d420f0ecbd1#ref=rss)
+### cduchef
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-afd-was-ein-cdu-kommunalpolitiker-von-der-zusammenarbeit-haelt](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-afd-was-ein-cdu-kommunalpolitiker-von-der-zusammenarbeit-haelt-a-25e7e2a1-afcb-4cf6-b58f-f8fb85ffaeb7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/verhaeltnis-der-cdu-zur-afd-operation-wardochnix-laeuft](https://www.spiegel.de/politik/deutschland/verhaeltnis-der-cdu-zur-afd-operation-wardochnix-laeuft-a-baf2664e-61f7-463c-abea-3d420f0ecbd1#ref=rss)
+### wasser
+
+* [https://www.spiegel.de/wissenschaft/astronomie-schon-auf-der-baby-erde-koennte-es-wasser-gegeben-haben](https://www.spiegel.de/wissenschaft/astronomie-schon-auf-der-baby-erde-koennte-es-wasser-gegeben-haben-a-3dea85f9-77b1-4fea-94b3-6f8d3da48d22#ref=rss)
+### österreich
+
+* [https://www.spiegel.de/panorama/justiz/oesterreich-polizei-findet-tote-ehefrau-im-kofferraum-von-justiz-fluechtling](https://www.spiegel.de/panorama/justiz/oesterreich-polizei-findet-tote-ehefrau-im-kofferraum-von-justiz-fluechtling-a-0b9d84bd-8eab-411c-957d-7c3e2ec465a9#ref=rss)
+### kofferraum
+
+* [https://www.spiegel.de/panorama/justiz/oesterreich-polizei-findet-tote-ehefrau-im-kofferraum-von-justiz-fluechtling](https://www.spiegel.de/panorama/justiz/oesterreich-polizei-findet-tote-ehefrau-im-kofferraum-von-justiz-fluechtling-a-0b9d84bd-8eab-411c-957d-7c3e2ec465a9#ref=rss)
+### tour
+
+* [https://www.spiegel.de/sport/tour-de-france-femmes-lippert-feiert-etappensieg](https://www.spiegel.de/sport/tour-de-france-femmes-lippert-feiert-etappensieg-a-6543768c-3b5a-4308-9666-e8030329fa04#ref=rss)
+### de
+
+* [https://www.spiegel.de/sport/tour-de-france-femmes-lippert-feiert-etappensieg](https://www.spiegel.de/sport/tour-de-france-femmes-lippert-feiert-etappensieg-a-6543768c-3b5a-4308-9666-e8030329fa04#ref=rss)
+### france
+
+* [https://www.spiegel.de/sport/tour-de-france-femmes-lippert-feiert-etappensieg](https://www.spiegel.de/sport/tour-de-france-femmes-lippert-feiert-etappensieg-a-6543768c-3b5a-4308-9666-e8030329fa04#ref=rss)
+### femmes
+
+* [https://www.spiegel.de/sport/tour-de-france-femmes-lippert-feiert-etappensieg](https://www.spiegel.de/sport/tour-de-france-femmes-lippert-feiert-etappensieg-a-6543768c-3b5a-4308-9666-e8030329fa04#ref=rss)
+### lippert
+
+* [https://www.spiegel.de/sport/tour-de-france-femmes-lippert-feiert-etappensieg](https://www.spiegel.de/sport/tour-de-france-femmes-lippert-feiert-etappensieg-a-6543768c-3b5a-4308-9666-e8030329fa04#ref=rss)
+### zweite
+
+* [https://www.spiegel.de/sport/tour-de-france-femmes-lippert-feiert-etappensieg](https://www.spiegel.de/sport/tour-de-france-femmes-lippert-feiert-etappensieg-a-6543768c-3b5a-4308-9666-e8030329fa04#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-alexandra-popp-widmet-e-t-jubel-ihrem-verstorbenen-vater](https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-alexandra-popp-widmet-e-t-jubel-ihrem-verstorbenen-vater-a-452176af-e14a-4ee2-b328-03fc1bb01fc3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-der-frauen-2023-klara-buehls-haekel-koala-wird-zum-internethit](https://www.spiegel.de/sport/fussball/wm-der-frauen-2023-klara-buehls-haekel-koala-wird-zum-internethit-a-c6018767-22fb-4640-a745-6e0712812673#ref=rss)
+### sorgte
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-alexandra-popp-widmet-e-t-jubel-ihrem-verstorbenen-vater](https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-alexandra-popp-widmet-e-t-jubel-ihrem-verstorbenen-vater-a-452176af-e14a-4ee2-b328-03fc1bb01fc3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-der-frauen-2023-klara-buehls-haekel-koala-wird-zum-internethit](https://www.spiegel.de/sport/fussball/wm-der-frauen-2023-klara-buehls-haekel-koala-wird-zum-internethit-a-c6018767-22fb-4640-a745-6e0712812673#ref=rss)
+### erst
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-feuer-in-griechenland-israel](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-feuer-in-griechenland-israel-a-e962fefb-739b-420c-9830-ec8a4fbbd3a2#ref=rss)
+* [https://www.spiegel.de/panorama/flughafen-muenchen-passagiere-sitzen-bei-hitze-in-flugzeug-fest-staatsanwaltschaft-ermittelt](https://www.spiegel.de/panorama/flughafen-muenchen-passagiere-sitzen-bei-hitze-in-flugzeug-fest-staatsanwaltschaft-ermittelt-a-fec00c70-8230-4430-8866-2d6dcd3aa3b4#ref=rss)
+### stehen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-feuer-in-griechenland-israel](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-feuer-in-griechenland-israel-a-e962fefb-739b-420c-9830-ec8a4fbbd3a2#ref=rss)
+* [https://www.spiegel.de/ausland/israel-wird-das-oberste-gericht-die-umstrittene-justizreform-aufhalten](https://www.spiegel.de/ausland/israel-wird-das-oberste-gericht-die-umstrittene-justizreform-aufhalten-a-a6c98008-5095-4497-b627-6c05cce887df#ref=rss)
+### demokratie
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-feuer-in-griechenland-israel](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-feuer-in-griechenland-israel-a-e962fefb-739b-420c-9830-ec8a4fbbd3a2#ref=rss)
+* [https://www.spiegel.de/ausland/israels-parlament-boykott-bei-abstimmung-zur-justizreform](https://www.spiegel.de/ausland/israels-parlament-boykott-bei-abstimmung-zur-justizreform-a-128e4827-88cf-480e-8827-cca6efa6fdd1#ref=rss)
+### oberste
+
+* [https://www.spiegel.de/ausland/israel-wird-das-oberste-gericht-die-umstrittene-justizreform-aufhalten](https://www.spiegel.de/ausland/israel-wird-das-oberste-gericht-die-umstrittene-justizreform-aufhalten-a-a6c98008-5095-4497-b627-6c05cce887df#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/ausland/israel-wird-das-oberste-gericht-die-umstrittene-justizreform-aufhalten](https://www.spiegel.de/ausland/israel-wird-das-oberste-gericht-die-umstrittene-justizreform-aufhalten-a-a6c98008-5095-4497-b627-6c05cce887df#ref=rss)
+### aufhalten
+
+* [https://www.spiegel.de/ausland/israel-wird-das-oberste-gericht-die-umstrittene-justizreform-aufhalten](https://www.spiegel.de/ausland/israel-wird-das-oberste-gericht-die-umstrittene-justizreform-aufhalten-a-a6c98008-5095-4497-b627-6c05cce887df#ref=rss)
+### boykott
+
+* [https://www.spiegel.de/ausland/israels-parlament-boykott-bei-abstimmung-zur-justizreform](https://www.spiegel.de/ausland/israels-parlament-boykott-bei-abstimmung-zur-justizreform-a-128e4827-88cf-480e-8827-cca6efa6fdd1#ref=rss)
+### kritiker
+
+* [https://www.spiegel.de/ausland/israels-parlament-boykott-bei-abstimmung-zur-justizreform](https://www.spiegel.de/ausland/israels-parlament-boykott-bei-abstimmung-zur-justizreform-a-128e4827-88cf-480e-8827-cca6efa6fdd1#ref=rss)
+* [https://www.spiegel.de/sport/fussball/hansi-flick-wehrt-sich-gegen-kritik-eine-grosse-dreistigkeit-auch-eine-unverschaemtheit](https://www.spiegel.de/sport/fussball/hansi-flick-wehrt-sich-gegen-kritik-eine-grosse-dreistigkeit-auch-eine-unverschaemtheit-a-afdf7250-a7ab-4285-a2bf-31dfad20c2cc#ref=rss)
+### hollywood
+
+* [https://www.spiegel.de/kultur/streik-in-hollywood-gestoppte-drehs-verschobene-kinostarts](https://www.spiegel.de/kultur/streik-in-hollywood-gestoppte-drehs-verschobene-kinostarts-a-c64345f4-4328-426e-986a-85b1684eb81f#ref=rss)
+### flughafen
+
+* [https://www.spiegel.de/panorama/flughafen-muenchen-passagiere-sitzen-bei-hitze-in-flugzeug-fest-staatsanwaltschaft-ermittelt](https://www.spiegel.de/panorama/flughafen-muenchen-passagiere-sitzen-bei-hitze-in-flugzeug-fest-staatsanwaltschaft-ermittelt-a-fec00c70-8230-4430-8866-2d6dcd3aa3b4#ref=rss)
+### ermittelt
+
+* [https://www.spiegel.de/panorama/flughafen-muenchen-passagiere-sitzen-bei-hitze-in-flugzeug-fest-staatsanwaltschaft-ermittelt](https://www.spiegel.de/panorama/flughafen-muenchen-passagiere-sitzen-bei-hitze-in-flugzeug-fest-staatsanwaltschaft-ermittelt-a-fec00c70-8230-4430-8866-2d6dcd3aa3b4#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/muenchen-lehel-unbekannter-spuckt-offenbar-15-jaehriger-mit-kopftuch-ins-gesicht](https://www.spiegel.de/panorama/justiz/muenchen-lehel-unbekannter-spuckt-offenbar-15-jaehriger-mit-kopftuch-ins-gesicht-a-97469724-1f92-407a-a17b-59aca9a28a4a#ref=rss)
+### auftaktsieg
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2023-deutschlands-auftaktsieg-wir-drehen-jetzt-nicht-durch](https://www.spiegel.de/sport/fussball/fussball-wm-2023-deutschlands-auftaktsieg-wir-drehen-jetzt-nicht-durch-a-d2e166d4-3572-4cb6-9e9c-a4462005a3e2#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-der-frauen-2023-klara-buehls-haekel-koala-wird-zum-internethit](https://www.spiegel.de/sport/fussball/wm-der-frauen-2023-klara-buehls-haekel-koala-wird-zum-internethit-a-c6018767-22fb-4640-a745-6e0712812673#ref=rss)
+### lebt
+
+* [https://www.spiegel.de/wissenschaft/lebenserwartung-wer-gesund-lebt-lebt-laenger](https://www.spiegel.de/wissenschaft/lebenserwartung-wer-gesund-lebt-lebt-laenger-a-620fe32d-b591-4380-9484-2075640d4196#ref=rss)
+### klara
+
+* [https://www.spiegel.de/sport/fussball/wm-der-frauen-2023-klara-buehls-haekel-koala-wird-zum-internethit](https://www.spiegel.de/sport/fussball/wm-der-frauen-2023-klara-buehls-haekel-koala-wird-zum-internethit-a-c6018767-22fb-4640-a745-6e0712812673#ref=rss)
+### surat
+
+* [https://www.spiegel.de/karriere/surat-in-indien-das-groesste-buerogebaeude-der-welt-ist-eine-diamantenboerse](https://www.spiegel.de/karriere/surat-in-indien-das-groesste-buerogebaeude-der-welt-ist-eine-diamantenboerse-a-f079556e-f8ef-4fc2-92cd-12f64a958fdf#ref=rss)
+### welt
+
+* [https://www.spiegel.de/karriere/surat-in-indien-das-groesste-buerogebaeude-der-welt-ist-eine-diamantenboerse](https://www.spiegel.de/karriere/surat-in-indien-das-groesste-buerogebaeude-der-welt-ist-eine-diamantenboerse-a-f079556e-f8ef-4fc2-92cd-12f64a958fdf#ref=rss)
+### diamantenbörse
+
+* [https://www.spiegel.de/karriere/surat-in-indien-das-groesste-buerogebaeude-der-welt-ist-eine-diamantenboerse](https://www.spiegel.de/karriere/surat-in-indien-das-groesste-buerogebaeude-der-welt-ist-eine-diamantenboerse-a-f079556e-f8ef-4fc2-92cd-12f64a958fdf#ref=rss)
+### angeblich
+
+* [https://www.spiegel.de/sport/fussball/fussball-transfers-al-hilal-will-kylian-mbappe-fuer-angeblich-300-millionen-euro](https://www.spiegel.de/sport/fussball/fussball-transfers-al-hilal-will-kylian-mbappe-fuer-angeblich-300-millionen-euro-a-09ce4323-5096-40ed-8864-d6a5303d2315#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-handyvideo-soll-drohne-ueber-moskau-zeigen](https://www.spiegel.de/ausland/ukraine-krieg-handyvideo-soll-drohne-ueber-moskau-zeigen-a-814defc6-ef69-4937-a8e3-98f3d0d09fd3#ref=rss)
+### euro
+
+* [https://www.spiegel.de/sport/fussball/fussball-transfers-al-hilal-will-kylian-mbappe-fuer-angeblich-300-millionen-euro](https://www.spiegel.de/sport/fussball/fussball-transfers-al-hilal-will-kylian-mbappe-fuer-angeblich-300-millionen-euro-a-09ce4323-5096-40ed-8864-d6a5303d2315#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/kleinwagen-adac-kritisiert-mangel-an-guenstigen-modellen-nur-vier-pkw-unter-15-000-euro](https://www.spiegel.de/wirtschaft/service/kleinwagen-adac-kritisiert-mangel-an-guenstigen-modellen-nur-vier-pkw-unter-15-000-euro-a-efe2df84-6d41-41ed-a478-b9956a1ffcc3#ref=rss)
+### möglicherweise
+
+* [https://www.spiegel.de/sport/fussball/fussball-transfers-al-hilal-will-kylian-mbappe-fuer-angeblich-300-millionen-euro](https://www.spiegel.de/sport/fussball/fussball-transfers-al-hilal-will-kylian-mbappe-fuer-angeblich-300-millionen-euro-a-09ce4323-5096-40ed-8864-d6a5303d2315#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/muenchen-lehel-unbekannter-spuckt-offenbar-15-jaehriger-mit-kopftuch-ins-gesicht](https://www.spiegel.de/panorama/justiz/muenchen-lehel-unbekannter-spuckt-offenbar-15-jaehriger-mit-kopftuch-ins-gesicht-a-97469724-1f92-407a-a17b-59aca9a28a4a#ref=rss)
+### moskau
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-handyvideo-soll-drohne-ueber-moskau-zeigen](https://www.spiegel.de/ausland/ukraine-krieg-handyvideo-soll-drohne-ueber-moskau-zeigen-a-814defc6-ef69-4937-a8e3-98f3d0d09fd3#ref=rss)
+### zeigen
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-handyvideo-soll-drohne-ueber-moskau-zeigen](https://www.spiegel.de/ausland/ukraine-krieg-handyvideo-soll-drohne-ueber-moskau-zeigen-a-814defc6-ef69-4937-a8e3-98f3d0d09fd3#ref=rss)
+### kleinwagen
+
+* [https://www.spiegel.de/wirtschaft/service/kleinwagen-adac-kritisiert-mangel-an-guenstigen-modellen-nur-vier-pkw-unter-15-000-euro](https://www.spiegel.de/wirtschaft/service/kleinwagen-adac-kritisiert-mangel-an-guenstigen-modellen-nur-vier-pkw-unter-15-000-euro-a-efe2df84-6d41-41ed-a478-b9956a1ffcc3#ref=rss)
+### adac
+
+* [https://www.spiegel.de/wirtschaft/service/kleinwagen-adac-kritisiert-mangel-an-guenstigen-modellen-nur-vier-pkw-unter-15-000-euro](https://www.spiegel.de/wirtschaft/service/kleinwagen-adac-kritisiert-mangel-an-guenstigen-modellen-nur-vier-pkw-unter-15-000-euro-a-efe2df84-6d41-41ed-a478-b9956a1ffcc3#ref=rss)
+### vier
+
+* [https://www.spiegel.de/wirtschaft/service/kleinwagen-adac-kritisiert-mangel-an-guenstigen-modellen-nur-vier-pkw-unter-15-000-euro](https://www.spiegel.de/wirtschaft/service/kleinwagen-adac-kritisiert-mangel-an-guenstigen-modellen-nur-vier-pkw-unter-15-000-euro-a-efe2df84-6d41-41ed-a478-b9956a1ffcc3#ref=rss)
+### große
+
+* [https://www.spiegel.de/wirtschaft/service/kleinwagen-adac-kritisiert-mangel-an-guenstigen-modellen-nur-vier-pkw-unter-15-000-euro](https://www.spiegel.de/wirtschaft/service/kleinwagen-adac-kritisiert-mangel-an-guenstigen-modellen-nur-vier-pkw-unter-15-000-euro-a-efe2df84-6d41-41ed-a478-b9956a1ffcc3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/hansi-flick-wehrt-sich-gegen-kritik-eine-grosse-dreistigkeit-auch-eine-unverschaemtheit](https://www.spiegel.de/sport/fussball/hansi-flick-wehrt-sich-gegen-kritik-eine-grosse-dreistigkeit-auch-eine-unverschaemtheit-a-afdf7250-a7ab-4285-a2bf-31dfad20c2cc#ref=rss)
+### laut
+
+* [https://www.spiegel.de/wirtschaft/service/kleinwagen-adac-kritisiert-mangel-an-guenstigen-modellen-nur-vier-pkw-unter-15-000-euro](https://www.spiegel.de/wirtschaft/service/kleinwagen-adac-kritisiert-mangel-an-guenstigen-modellen-nur-vier-pkw-unter-15-000-euro-a-efe2df84-6d41-41ed-a478-b9956a1ffcc3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/hansi-flick-wehrt-sich-gegen-kritik-eine-grosse-dreistigkeit-auch-eine-unverschaemtheit](https://www.spiegel.de/sport/fussball/hansi-flick-wehrt-sich-gegen-kritik-eine-grosse-dreistigkeit-auch-eine-unverschaemtheit-a-afdf7250-a7ab-4285-a2bf-31dfad20c2cc#ref=rss)
+### kopftuch
+
+* [https://www.spiegel.de/panorama/justiz/muenchen-lehel-unbekannter-spuckt-offenbar-15-jaehriger-mit-kopftuch-ins-gesicht](https://www.spiegel.de/panorama/justiz/muenchen-lehel-unbekannter-spuckt-offenbar-15-jaehriger-mit-kopftuch-ins-gesicht-a-97469724-1f92-407a-a17b-59aca9a28a4a#ref=rss)
+### hansi
+
+* [https://www.spiegel.de/sport/fussball/hansi-flick-wehrt-sich-gegen-kritik-eine-grosse-dreistigkeit-auch-eine-unverschaemtheit](https://www.spiegel.de/sport/fussball/hansi-flick-wehrt-sich-gegen-kritik-eine-grosse-dreistigkeit-auch-eine-unverschaemtheit-a-afdf7250-a7ab-4285-a2bf-31dfad20c2cc#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/sport/fussball/hansi-flick-wehrt-sich-gegen-kritik-eine-grosse-dreistigkeit-auch-eine-unverschaemtheit](https://www.spiegel.de/sport/fussball/hansi-flick-wehrt-sich-gegen-kritik-eine-grosse-dreistigkeit-auch-eine-unverschaemtheit-a-afdf7250-a7ab-4285-a2bf-31dfad20c2cc#ref=rss)
 
