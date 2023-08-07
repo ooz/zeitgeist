@@ -4,198 +4,265 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### fußball
+### deutschland
 
-* [https://www.spiegel.de/sport/fussball/megan-rapinoes-ende-im-grossen-fussball-es-endet-mit-dem-maximalen-drama](https://www.spiegel.de/sport/fussball/megan-rapinoes-ende-im-grossen-fussball-es-endet-mit-dem-maximalen-drama-a-e38201b6-7763-4b62-b717-a972d16ef5d9#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-monika-staab-rechnet-mit-wechseln-von-frauen-nach-saudi-arabien](https://www.spiegel.de/sport/fussball/fussball-monika-staab-rechnet-mit-wechseln-von-frauen-nach-saudi-arabien-a-77706108-956a-4c62-9b13-15efd69b6be9#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-paris-saint-germain-und-eintracht-frankfurt-pokern-um-randal-kolo-muani](https://www.spiegel.de/sport/fussball/fussball-paris-saint-germain-und-eintracht-frankfurt-pokern-um-randal-kolo-muani-a-67c11359-c9b5-439c-ab90-073b7e3a59a8#ref=rss)
-### menschen
+* [https://www.spiegel.de/wissenschaft/krebs-soziale-ungleichheit-beeinflusst-risiko-in-deutschland-zunehmend](https://www.spiegel.de/wissenschaft/krebs-soziale-ungleichheit-beeinflusst-risiko-in-deutschland-zunehmend-a-7445a7f5-4450-4be1-8890-e564b5058f16#ref=rss)
+* [https://www.spiegel.de/panorama/nussallergie-eurowings-passagierin-mit-schwerer-allergie-kauft-alle-packungen-erdnuesse-auf-flug-von-deutschland-nach-grossbritannien](https://www.spiegel.de/panorama/nussallergie-eurowings-passagierin-mit-schwerer-allergie-kauft-alle-packungen-erdnuesse-auf-flug-von-deutschland-nach-grossbritannien-a-fcbc9135-59bd-4dec-8f5f-f72929e3e907#ref=rss)
+* [https://www.spiegel.de/wirtschaft/industrie-hat-im-juli-erneut-weniger-produziert](https://www.spiegel.de/wirtschaft/industrie-hat-im-juli-erneut-weniger-produziert-a-43dc86ea-6c11-4055-8c73-259d8f7c6b5d#ref=rss)
+### zufolge
 
-* [https://www.spiegel.de/ausland/marokko-bus-ueberschlaegt-sich-24-menschen-sterben](https://www.spiegel.de/ausland/marokko-bus-ueberschlaegt-sich-24-menschen-sterben-a-4d2c0445-0b6d-4e17-a22a-52a1c9c8b858#ref=rss)
-* [https://www.spiegel.de/ausland/fluechtlingsboote-vor-lampedusa-rund-30-menschen-werden-im-mittelmeer-vermisst-darunter-auch-kinder](https://www.spiegel.de/ausland/fluechtlingsboote-vor-lampedusa-rund-30-menschen-werden-im-mittelmeer-vermisst-darunter-auch-kinder-a-4bf06c27-1d24-4d21-a1b6-b6ee9e9da76e#ref=rss)
-* [https://www.spiegel.de/ausland/israel-justizumbau-welche-menschen-nun-das-land-verlassen-wollen](https://www.spiegel.de/ausland/israel-justizumbau-welche-menschen-nun-das-land-verlassen-wollen-a-d3fdfc35-7c88-4022-971d-a196a7340abf#ref=rss)
-### woche
+* [https://www.spiegel.de/wissenschaft/krebs-soziale-ungleichheit-beeinflusst-risiko-in-deutschland-zunehmend](https://www.spiegel.de/wissenschaft/krebs-soziale-ungleichheit-beeinflusst-risiko-in-deutschland-zunehmend-a-7445a7f5-4450-4be1-8890-e564b5058f16#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-russland-beschiesst-cherson-ukraine-meldet-eine-tote](https://www.spiegel.de/ausland/ukraine-russland-news-heute-russland-beschiesst-cherson-ukraine-meldet-eine-tote-a-3f9becd6-2abf-4b10-98e8-ed7c029f011f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ifo-studie-mittelschicht-schrumpft-weiter](https://www.spiegel.de/wirtschaft/ifo-studie-mittelschicht-schrumpft-weiter-a-f29aa807-fefb-4429-a7d4-238d4724c38f#ref=rss)
+### alle
 
-* [https://www.spiegel.de/karriere/raetsel-der-woche-kein-wechselgeld](https://www.spiegel.de/karriere/raetsel-der-woche-kein-wechselgeld-a-41f3ef39-68b5-409e-8cc2-6d679a0c0e0f#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-a-b14ee3fe-5de8-4601-84ad-4a9add0e12f1#ref=rss)
+* [https://www.spiegel.de/wissenschaft/krebs-soziale-ungleichheit-beeinflusst-risiko-in-deutschland-zunehmend](https://www.spiegel.de/wissenschaft/krebs-soziale-ungleichheit-beeinflusst-risiko-in-deutschland-zunehmend-a-7445a7f5-4450-4be1-8890-e564b5058f16#ref=rss)
+* [https://www.spiegel.de/panorama/nussallergie-eurowings-passagierin-mit-schwerer-allergie-kauft-alle-packungen-erdnuesse-auf-flug-von-deutschland-nach-grossbritannien](https://www.spiegel.de/panorama/nussallergie-eurowings-passagierin-mit-schwerer-allergie-kauft-alle-packungen-erdnuesse-auf-flug-von-deutschland-nach-grossbritannien-a-fcbc9135-59bd-4dec-8f5f-f72929e3e907#ref=rss)
+### nigeria
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2023-england-besiegt-nigeria-4-2-im-elfmeterschiessen-und-steht-im-viertelfinale](https://www.spiegel.de/sport/fussball/fussball-wm-2023-england-besiegt-nigeria-4-2-im-elfmeterschiessen-und-steht-im-viertelfinale-a-5f844967-a669-4724-86f7-474d92ac11ff#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/sport/handball/nach-missbrauchsvorwuerfen-ex-bvb-handballcoach-andre-fuhr-findet-neuen-trainerjob-ohne-aufarbeitung-seines-falls](https://www.spiegel.de/sport/handball/nach-missbrauchsvorwuerfen-ex-bvb-handballcoach-andre-fuhr-findet-neuen-trainerjob-ohne-aufarbeitung-seines-falls-a-b224c2fd-1c0e-46ad-b3d7-68d779b75eeb#ref=rss)
+* [https://www.spiegel.de/ausland/kambodscha-sohn-von-langjaehrigem-ministerpraesident-neuer-regierungschef](https://www.spiegel.de/ausland/kambodscha-sohn-von-langjaehrigem-ministerpraesident-neuer-regierungschef-a-24d2001e-3277-438f-aeaa-9f202361a640#ref=rss)
+* [https://www.spiegel.de/ausland/taurus-raketen-fuer-die-ukraine-angstmacherei-ist-keine-strategie-meinung](https://www.spiegel.de/ausland/taurus-raketen-fuer-die-ukraine-angstmacherei-ist-keine-strategie-meinung-a-563bfa44-f92b-4ab5-8e51-e45980e3f16a#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-russland-beschiesst-cherson-ukraine-meldet-eine-tote](https://www.spiegel.de/ausland/ukraine-russland-news-heute-russland-beschiesst-cherson-ukraine-meldet-eine-tote-a-3f9becd6-2abf-4b10-98e8-ed7c029f011f#ref=rss)
+* [https://www.spiegel.de/ausland/taurus-raketen-fuer-die-ukraine-angstmacherei-ist-keine-strategie-meinung](https://www.spiegel.de/ausland/taurus-raketen-fuer-die-ukraine-angstmacherei-ist-keine-strategie-meinung-a-563bfa44-f92b-4ab5-8e51-e45980e3f16a#ref=rss)
+### drei
+
+* [https://www.spiegel.de/panorama/travemuende-rettungskraefte-stellen-suche-nach-vermisstem-segler-auf-der-ostsee-nach-drei-stunden-ein](https://www.spiegel.de/panorama/travemuende-rettungskraefte-stellen-suche-nach-vermisstem-segler-auf-der-ostsee-nach-drei-stunden-ein-a-3632713c-949c-4fd5-bb08-0a9c5c83890d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/wuppertal-23-jaehriger-faehrt-mit-auto-auf-den-gehweg-vier-kinder-verletzt](https://www.spiegel.de/panorama/justiz/wuppertal-23-jaehriger-faehrt-mit-auto-auf-den-gehweg-vier-kinder-verletzt-a-195a6e68-358a-4415-adf8-bad8b8de70d4#ref=rss)
 ### land
 
-* [https://www.spiegel.de/ausland/israel-justizumbau-welche-menschen-nun-das-land-verlassen-wollen](https://www.spiegel.de/ausland/israel-justizumbau-welche-menschen-nun-das-land-verlassen-wollen-a-d3fdfc35-7c88-4022-971d-a196a7340abf#ref=rss)
-* [https://www.spiegel.de/wirtschaft/es-geht-um-den-erhalt-der-oeffentlichen-wohnzimmer](https://www.spiegel.de/wirtschaft/es-geht-um-den-erhalt-der-oeffentlichen-wohnzimmer-a-0de55d54-b912-4d45-97ca-7b1b7a8ac8b5#ref=rss)
-### megan
+* [https://www.spiegel.de/ausland/aleksandar-vucic-in-serbien-wie-er-in-kosovo-montenegro-und-bosnien-zuendelt](https://www.spiegel.de/ausland/aleksandar-vucic-in-serbien-wie-er-in-kosovo-montenegro-und-bosnien-zuendelt-a-2b2a3e42-4124-4214-812f-8398876179c5#ref=rss)
+* [https://www.spiegel.de/panorama/portugal-und-spanien-waldbraende-zerstoeren-tausende-hektar-land](https://www.spiegel.de/panorama/portugal-und-spanien-waldbraende-zerstoeren-tausende-hektar-land-a-33800c93-1c7e-4ffe-9f6b-e066eeb24492#ref=rss)
+* [https://www.spiegel.de/ausland/kambodscha-sohn-von-langjaehrigem-ministerpraesident-neuer-regierungschef](https://www.spiegel.de/ausland/kambodscha-sohn-von-langjaehrigem-ministerpraesident-neuer-regierungschef-a-24d2001e-3277-438f-aeaa-9f202361a640#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/sport/fussball/megan-rapinoes-ende-im-grossen-fussball-es-endet-mit-dem-maximalen-drama](https://www.spiegel.de/sport/fussball/megan-rapinoes-ende-im-grossen-fussball-es-endet-mit-dem-maximalen-drama-a-e38201b6-7763-4b62-b717-a972d16ef5d9#ref=rss)
-### rapinoe
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-scheitert-mit-antrag-auf-portoerhoehung](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-scheitert-mit-antrag-auf-portoerhoehung-a-342bff42-5bcb-4be0-bf65-e65b2993fe68#ref=rss)
+* [https://www.spiegel.de/ausland/taurus-raketen-fuer-die-ukraine-angstmacherei-ist-keine-strategie-meinung](https://www.spiegel.de/ausland/taurus-raketen-fuer-die-ukraine-angstmacherei-ist-keine-strategie-meinung-a-563bfa44-f92b-4ab5-8e51-e45980e3f16a#ref=rss)
+### zeigen
 
-* [https://www.spiegel.de/sport/fussball/megan-rapinoes-ende-im-grossen-fussball-es-endet-mit-dem-maximalen-drama](https://www.spiegel.de/sport/fussball/megan-rapinoes-ende-im-grossen-fussball-es-endet-mit-dem-maximalen-drama-a-e38201b6-7763-4b62-b717-a972d16ef5d9#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2023-usa-unterliegen-schweden-im-elfmeterschiessen](https://www.spiegel.de/sport/fussball/fussball-wm-2023-usa-unterliegen-schweden-im-elfmeterschiessen-a-feeb0498-00f7-4df3-9473-af28ce144eb2#ref=rss)
-### stattdessen
+* [https://www.spiegel.de/wissenschaft/natur/cherson-satellitenbilder-zeigen-langfristige-auswirkungen-des-staudamm-bruchs](https://www.spiegel.de/wissenschaft/natur/cherson-satellitenbilder-zeigen-langfristige-auswirkungen-des-staudamm-bruchs-a-3a1231c7-c8a5-4f5a-8883-a95f7d2860cf#ref=rss)
+* [https://www.spiegel.de/ausland/niger-ecowas-ultimatum-nach-putsch-abgelaufen-demonstranten-feiern-militaerjunta](https://www.spiegel.de/ausland/niger-ecowas-ultimatum-nach-putsch-abgelaufen-demonstranten-feiern-militaerjunta-a-223cf196-b9e3-4b93-97a4-2e6a90a9c32c#ref=rss)
+### weg
 
-* [https://www.spiegel.de/sport/fussball/megan-rapinoes-ende-im-grossen-fussball-es-endet-mit-dem-maximalen-drama](https://www.spiegel.de/sport/fussball/megan-rapinoes-ende-im-grossen-fussball-es-endet-mit-dem-maximalen-drama-a-e38201b6-7763-4b62-b717-a972d16ef5d9#ref=rss)
-* [https://www.spiegel.de/kultur/mutter-heimat-statue-in-kiew-ab-jetzt-ohne-hammer-und-sichel](https://www.spiegel.de/kultur/mutter-heimat-statue-in-kiew-ab-jetzt-ohne-hammer-und-sichel-a-da0ae689-bc98-45ea-8a28-9350a111a9ce#ref=rss)
-### donald
+* [https://www.spiegel.de/wissenschaft/natur/cherson-satellitenbilder-zeigen-langfristige-auswirkungen-des-staudamm-bruchs](https://www.spiegel.de/wissenschaft/natur/cherson-satellitenbilder-zeigen-langfristige-auswirkungen-des-staudamm-bruchs-a-3a1231c7-c8a5-4f5a-8883-a95f7d2860cf#ref=rss)
+* [https://www.spiegel.de/panorama/travemuende-rettungskraefte-stellen-suche-nach-vermisstem-segler-auf-der-ostsee-nach-drei-stunden-ein](https://www.spiegel.de/panorama/travemuende-rettungskraefte-stellen-suche-nach-vermisstem-segler-auf-der-ostsee-nach-drei-stunden-ein-a-3632713c-949c-4fd5-bb08-0a9c5c83890d#ref=rss)
+### krebs
 
-* [https://www.spiegel.de/ausland/donald-trump-vor-gericht-die-verteidigungsstrategie-lautet-freie-meinungsaeusserung](https://www.spiegel.de/ausland/donald-trump-vor-gericht-die-verteidigungsstrategie-lautet-freie-meinungsaeusserung-a-83713661-629c-45a6-9900-9dbeddbb9e40#ref=rss)
-### trump
+* [https://www.spiegel.de/wissenschaft/krebs-soziale-ungleichheit-beeinflusst-risiko-in-deutschland-zunehmend](https://www.spiegel.de/wissenschaft/krebs-soziale-ungleichheit-beeinflusst-risiko-in-deutschland-zunehmend-a-7445a7f5-4450-4be1-8890-e564b5058f16#ref=rss)
+### risiko
 
-* [https://www.spiegel.de/ausland/donald-trump-vor-gericht-die-verteidigungsstrategie-lautet-freie-meinungsaeusserung](https://www.spiegel.de/ausland/donald-trump-vor-gericht-die-verteidigungsstrategie-lautet-freie-meinungsaeusserung-a-83713661-629c-45a6-9900-9dbeddbb9e40#ref=rss)
-### magdeburg
+* [https://www.spiegel.de/wissenschaft/krebs-soziale-ungleichheit-beeinflusst-risiko-in-deutschland-zunehmend](https://www.spiegel.de/wissenschaft/krebs-soziale-ungleichheit-beeinflusst-risiko-in-deutschland-zunehmend-a-7445a7f5-4450-4be1-8890-e564b5058f16#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/politik/afd-programm-zur-europawahl-rechts-draussen](https://www.spiegel.de/politik/afd-programm-zur-europawahl-rechts-draussen-a-d91c93e2-8aa3-428e-8ed2-007dc2dce15d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-verpasst-sieg-beim-karlsruher-sc](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-verpasst-sieg-beim-karlsruher-sc-a-89f966e9-2729-4a9d-a0d4-d05f4186c555#ref=rss)
-### sadio
+* [https://www.spiegel.de/wissenschaft/krebs-soziale-ungleichheit-beeinflusst-risiko-in-deutschland-zunehmend](https://www.spiegel.de/wissenschaft/krebs-soziale-ungleichheit-beeinflusst-risiko-in-deutschland-zunehmend-a-7445a7f5-4450-4be1-8890-e564b5058f16#ref=rss)
+* [https://www.spiegel.de/panorama/portugal-und-spanien-waldbraende-zerstoeren-tausende-hektar-land](https://www.spiegel.de/panorama/portugal-und-spanien-waldbraende-zerstoeren-tausende-hektar-land-a-33800c93-1c7e-4ffe-9f6b-e066eeb24492#ref=rss)
+### niger
 
-* [https://www.spiegel.de/sport/fussball/sadio-mane-fc-bayern-muenchen-weist-rassismusvorwuerfe-nach-abgang-zurueck](https://www.spiegel.de/sport/fussball/sadio-mane-fc-bayern-muenchen-weist-rassismusvorwuerfe-nach-abgang-zurueck-a-0331f558-5fd2-426e-bb8c-a4b60f9db718#ref=rss)
-### mané
+* [https://www.spiegel.de/ausland/niger-ecowas-ultimatum-nach-putsch-abgelaufen-demonstranten-feiern-militaerjunta](https://www.spiegel.de/ausland/niger-ecowas-ultimatum-nach-putsch-abgelaufen-demonstranten-feiern-militaerjunta-a-223cf196-b9e3-4b93-97a4-2e6a90a9c32c#ref=rss)
+### militärjunta
 
-* [https://www.spiegel.de/sport/fussball/sadio-mane-fc-bayern-muenchen-weist-rassismusvorwuerfe-nach-abgang-zurueck](https://www.spiegel.de/sport/fussball/sadio-mane-fc-bayern-muenchen-weist-rassismusvorwuerfe-nach-abgang-zurueck-a-0331f558-5fd2-426e-bb8c-a4b60f9db718#ref=rss)
-### fc
+* [https://www.spiegel.de/ausland/niger-ecowas-ultimatum-nach-putsch-abgelaufen-demonstranten-feiern-militaerjunta](https://www.spiegel.de/ausland/niger-ecowas-ultimatum-nach-putsch-abgelaufen-demonstranten-feiern-militaerjunta-a-223cf196-b9e3-4b93-97a4-2e6a90a9c32c#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/sport/fussball/sadio-mane-fc-bayern-muenchen-weist-rassismusvorwuerfe-nach-abgang-zurueck](https://www.spiegel.de/sport/fussball/sadio-mane-fc-bayern-muenchen-weist-rassismusvorwuerfe-nach-abgang-zurueck-a-0331f558-5fd2-426e-bb8c-a4b60f9db718#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-paris-saint-germain-und-eintracht-frankfurt-pokern-um-randal-kolo-muani](https://www.spiegel.de/sport/fussball/fussball-paris-saint-germain-und-eintracht-frankfurt-pokern-um-randal-kolo-muani-a-67c11359-c9b5-439c-ab90-073b7e3a59a8#ref=rss)
-### abgang
+* [https://www.spiegel.de/ausland/niger-ecowas-ultimatum-nach-putsch-abgelaufen-demonstranten-feiern-militaerjunta](https://www.spiegel.de/ausland/niger-ecowas-ultimatum-nach-putsch-abgelaufen-demonstranten-feiern-militaerjunta-a-223cf196-b9e3-4b93-97a4-2e6a90a9c32c#ref=rss)
+* [https://www.spiegel.de/panorama/travemuende-rettungskraefte-stellen-suche-nach-vermisstem-segler-auf-der-ostsee-nach-drei-stunden-ein](https://www.spiegel.de/panorama/travemuende-rettungskraefte-stellen-suche-nach-vermisstem-segler-auf-der-ostsee-nach-drei-stunden-ein-a-3632713c-949c-4fd5-bb08-0a9c5c83890d#ref=rss)
+### england
 
-* [https://www.spiegel.de/sport/fussball/sadio-mane-fc-bayern-muenchen-weist-rassismusvorwuerfe-nach-abgang-zurueck](https://www.spiegel.de/sport/fussball/sadio-mane-fc-bayern-muenchen-weist-rassismusvorwuerfe-nach-abgang-zurueck-a-0331f558-5fd2-426e-bb8c-a4b60f9db718#ref=rss)
-### lampedusa
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2023-england-besiegt-nigeria-4-2-im-elfmeterschiessen-und-steht-im-viertelfinale](https://www.spiegel.de/sport/fussball/fussball-wm-2023-england-besiegt-nigeria-4-2-im-elfmeterschiessen-und-steht-im-viertelfinale-a-5f844967-a669-4724-86f7-474d92ac11ff#ref=rss)
+### elfmeterschießen
 
-* [https://www.spiegel.de/ausland/fluechtlingsboote-vor-lampedusa-rund-30-menschen-werden-im-mittelmeer-vermisst-darunter-auch-kinder](https://www.spiegel.de/ausland/fluechtlingsboote-vor-lampedusa-rund-30-menschen-werden-im-mittelmeer-vermisst-darunter-auch-kinder-a-4bf06c27-1d24-4d21-a1b6-b6ee9e9da76e#ref=rss)
-### mittelmeer
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2023-england-besiegt-nigeria-4-2-im-elfmeterschiessen-und-steht-im-viertelfinale](https://www.spiegel.de/sport/fussball/fussball-wm-2023-england-besiegt-nigeria-4-2-im-elfmeterschiessen-und-steht-im-viertelfinale-a-5f844967-a669-4724-86f7-474d92ac11ff#ref=rss)
+### sorgt
 
-* [https://www.spiegel.de/ausland/fluechtlingsboote-vor-lampedusa-rund-30-menschen-werden-im-mittelmeer-vermisst-darunter-auch-kinder](https://www.spiegel.de/ausland/fluechtlingsboote-vor-lampedusa-rund-30-menschen-werden-im-mittelmeer-vermisst-darunter-auch-kinder-a-4bf06c27-1d24-4d21-a1b6-b6ee9e9da76e#ref=rss)
-### hohe
+* [https://www.spiegel.de/panorama/hiddensee-und-ruegen-faehrbetrieb-wegen-heftigem-unwetter-unterbrochen](https://www.spiegel.de/panorama/hiddensee-und-ruegen-faehrbetrieb-wegen-heftigem-unwetter-unterbrochen-a-2a961af6-c0e6-45c8-8f1c-53647556d30d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/windkraft-beschert-siemens-milliarden-verlust](https://www.spiegel.de/wirtschaft/unternehmen/windkraft-beschert-siemens-milliarden-verlust-a-de9f8acf-27bc-4e12-9134-459f588a45a4#ref=rss)
+### pfeilspitze
 
-* [https://www.spiegel.de/ausland/fluechtlingsboote-vor-lampedusa-rund-30-menschen-werden-im-mittelmeer-vermisst-darunter-auch-kinder](https://www.spiegel.de/ausland/fluechtlingsboote-vor-lampedusa-rund-30-menschen-werden-im-mittelmeer-vermisst-darunter-auch-kinder-a-4bf06c27-1d24-4d21-a1b6-b6ee9e9da76e#ref=rss)
-* [https://www.spiegel.de/kultur/mutter-heimat-statue-in-kiew-ab-jetzt-ohne-hammer-und-sichel](https://www.spiegel.de/kultur/mutter-heimat-statue-in-kiew-ab-jetzt-ohne-hammer-und-sichel-a-da0ae689-bc98-45ea-8a28-9350a111a9ce#ref=rss)
-### sinéad
+* [https://www.spiegel.de/wissenschaft/schweiz-bronzezeitliche-pfeilspitze-aus-meteorit-gefertigt](https://www.spiegel.de/wissenschaft/schweiz-bronzezeitliche-pfeilspitze-aus-meteorit-gefertigt-a-8999ab97-6aea-4e96-8d54-a0915d8e367b#ref=rss)
+### pakistan
 
-* [https://www.spiegel.de/kultur/musik/sinead-o-connor-fans-sind-zur-oeffentlichen-trauerfeier-am-dienstag-eingeladen](https://www.spiegel.de/kultur/musik/sinead-o-connor-fans-sind-zur-oeffentlichen-trauerfeier-am-dienstag-eingeladen-a-e28fe76d-fc14-46e9-a197-0b87857383cc#ref=rss)
-### fans
-
-* [https://www.spiegel.de/kultur/musik/sinead-o-connor-fans-sind-zur-oeffentlichen-trauerfeier-am-dienstag-eingeladen](https://www.spiegel.de/kultur/musik/sinead-o-connor-fans-sind-zur-oeffentlichen-trauerfeier-am-dienstag-eingeladen-a-e28fe76d-fc14-46e9-a197-0b87857383cc#ref=rss)
-### öffentlichen
-
-* [https://www.spiegel.de/kultur/musik/sinead-o-connor-fans-sind-zur-oeffentlichen-trauerfeier-am-dienstag-eingeladen](https://www.spiegel.de/kultur/musik/sinead-o-connor-fans-sind-zur-oeffentlichen-trauerfeier-am-dienstag-eingeladen-a-e28fe76d-fc14-46e9-a197-0b87857383cc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/es-geht-um-den-erhalt-der-oeffentlichen-wohnzimmer](https://www.spiegel.de/wirtschaft/es-geht-um-den-erhalt-der-oeffentlichen-wohnzimmer-a-0de55d54-b912-4d45-97ca-7b1b7a8ac8b5#ref=rss)
-### eingeladen
-
-* [https://www.spiegel.de/kultur/musik/sinead-o-connor-fans-sind-zur-oeffentlichen-trauerfeier-am-dienstag-eingeladen](https://www.spiegel.de/kultur/musik/sinead-o-connor-fans-sind-zur-oeffentlichen-trauerfeier-am-dienstag-eingeladen-a-e28fe76d-fc14-46e9-a197-0b87857383cc#ref=rss)
-### ukrainischen
-
-* [https://www.spiegel.de/kultur/mutter-heimat-statue-in-kiew-ab-jetzt-ohne-hammer-und-sichel](https://www.spiegel.de/kultur/mutter-heimat-statue-in-kiew-ab-jetzt-ohne-hammer-und-sichel-a-da0ae689-bc98-45ea-8a28-9350a111a9ce#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-ueberzieht-ukraine-mit-luftangriffen-raketen-und-drohnen-abgewehrt](https://www.spiegel.de/ausland/ukraine-krieg-russland-ueberzieht-ukraine-mit-luftangriffen-raketen-und-drohnen-abgewehrt-a-52ca605c-0fa8-42d7-9b29-46ab703d235c#ref=rss)
-### hamburger
-
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-verpasst-sieg-beim-karlsruher-sc](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-verpasst-sieg-beim-karlsruher-sc-a-89f966e9-2729-4a9d-a0d4-d05f4186c555#ref=rss)
-### sv
-
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-verpasst-sieg-beim-karlsruher-sc](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-verpasst-sieg-beim-karlsruher-sc-a-89f966e9-2729-4a9d-a0d4-d05f4186c555#ref=rss)
-### karlsruher
-
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-verpasst-sieg-beim-karlsruher-sc](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-verpasst-sieg-beim-karlsruher-sc-a-89f966e9-2729-4a9d-a0d4-d05f4186c555#ref=rss)
-### ian
-
-* [https://www.spiegel.de/panorama/ian-watkins-ehemaliger-lostprophets-saenger-im-gefaengnis-schwer-verletzt](https://www.spiegel.de/panorama/ian-watkins-ehemaliger-lostprophets-saenger-im-gefaengnis-schwer-verletzt-a-229f1014-6b90-4f77-8a50-c686742cd582#ref=rss)
-### watkins
-
-* [https://www.spiegel.de/panorama/ian-watkins-ehemaliger-lostprophets-saenger-im-gefaengnis-schwer-verletzt](https://www.spiegel.de/panorama/ian-watkins-ehemaliger-lostprophets-saenger-im-gefaengnis-schwer-verletzt-a-229f1014-6b90-4f77-8a50-c686742cd582#ref=rss)
-### tatort
-
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-stuttgart-der-welten-lohn-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-stuttgart-der-welten-lohn-im-schnellcheck-a-b154b03d-5e17-49b1-a311-f8a2d296e25a#ref=rss)
-### alte
-
-* [https://www.spiegel.de/stil/warum-man-alte-baeume-nicht-beseitigen-sollte-wenn-sie-stoeren-gartenkolumne](https://www.spiegel.de/stil/warum-man-alte-baeume-nicht-beseitigen-sollte-wenn-sie-stoeren-gartenkolumne-a-ebda0aa7-1889-40f6-b558-1cab2306b694#ref=rss)
-### bäume
-
-* [https://www.spiegel.de/stil/warum-man-alte-baeume-nicht-beseitigen-sollte-wenn-sie-stoeren-gartenkolumne](https://www.spiegel.de/stil/warum-man-alte-baeume-nicht-beseitigen-sollte-wenn-sie-stoeren-gartenkolumne-a-ebda0aa7-1889-40f6-b558-1cab2306b694#ref=rss)
-### sollte
-
-* [https://www.spiegel.de/stil/warum-man-alte-baeume-nicht-beseitigen-sollte-wenn-sie-stoeren-gartenkolumne](https://www.spiegel.de/stil/warum-man-alte-baeume-nicht-beseitigen-sollte-wenn-sie-stoeren-gartenkolumne-a-ebda0aa7-1889-40f6-b558-1cab2306b694#ref=rss)
-* [https://www.spiegel.de/wirtschaft/es-geht-um-den-erhalt-der-oeffentlichen-wohnzimmer](https://www.spiegel.de/wirtschaft/es-geht-um-den-erhalt-der-oeffentlichen-wohnzimmer-a-0de55d54-b912-4d45-97ca-7b1b7a8ac8b5#ref=rss)
-### stören
-
-* [https://www.spiegel.de/stil/warum-man-alte-baeume-nicht-beseitigen-sollte-wenn-sie-stoeren-gartenkolumne](https://www.spiegel.de/stil/warum-man-alte-baeume-nicht-beseitigen-sollte-wenn-sie-stoeren-gartenkolumne-a-ebda0aa7-1889-40f6-b558-1cab2306b694#ref=rss)
-### wechseln
-
-* [https://www.spiegel.de/karriere/raetsel-der-woche-kein-wechselgeld](https://www.spiegel.de/karriere/raetsel-der-woche-kein-wechselgeld-a-41f3ef39-68b5-409e-8cc2-6d679a0c0e0f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-monika-staab-rechnet-mit-wechseln-von-frauen-nach-saudi-arabien](https://www.spiegel.de/sport/fussball/fussball-monika-staab-rechnet-mit-wechseln-von-frauen-nach-saudi-arabien-a-77706108-956a-4c62-9b13-15efd69b6be9#ref=rss)
+* [https://www.spiegel.de/ausland/pakistan-lehrer-nach-blasphemievorwuerfen-gelyncht](https://www.spiegel.de/ausland/pakistan-lehrer-nach-blasphemievorwuerfen-gelyncht-a-f9d58e08-ba95-4515-b801-f2484f2b804b#ref=rss)
 ### mann
 
-* [https://www.spiegel.de/karriere/raetsel-der-woche-kein-wechselgeld](https://www.spiegel.de/karriere/raetsel-der-woche-kein-wechselgeld-a-41f3ef39-68b5-409e-8cc2-6d679a0c0e0f#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/landau-ex-freund-im-schrank-ruft-die-polizei](https://www.spiegel.de/panorama/gesellschaft/landau-ex-freund-im-schrank-ruft-die-polizei-a-7c8807dd-f3ad-4ad7-b66d-f7bcbf843ed9#ref=rss)
-### kasse
+* [https://www.spiegel.de/ausland/pakistan-lehrer-nach-blasphemievorwuerfen-gelyncht](https://www.spiegel.de/ausland/pakistan-lehrer-nach-blasphemievorwuerfen-gelyncht-a-f9d58e08-ba95-4515-b801-f2484f2b804b#ref=rss)
+* [https://www.spiegel.de/panorama/travemuende-rettungskraefte-stellen-suche-nach-vermisstem-segler-auf-der-ostsee-nach-drei-stunden-ein](https://www.spiegel.de/panorama/travemuende-rettungskraefte-stellen-suche-nach-vermisstem-segler-auf-der-ostsee-nach-drei-stunden-ein-a-3632713c-949c-4fd5-bb08-0a9c5c83890d#ref=rss)
+### andré
 
-* [https://www.spiegel.de/karriere/raetsel-der-woche-kein-wechselgeld](https://www.spiegel.de/karriere/raetsel-der-woche-kein-wechselgeld-a-41f3ef39-68b5-409e-8cc2-6d679a0c0e0f#ref=rss)
-### test
+* [https://www.spiegel.de/sport/handball/nach-missbrauchsvorwuerfen-ex-bvb-handballcoach-andre-fuhr-findet-neuen-trainerjob-ohne-aufarbeitung-seines-falls](https://www.spiegel.de/sport/handball/nach-missbrauchsvorwuerfen-ex-bvb-handballcoach-andre-fuhr-findet-neuen-trainerjob-ohne-aufarbeitung-seines-falls-a-b224c2fd-1c0e-46ad-b3d7-68d779b75eeb#ref=rss)
+### fuhr
 
-* [https://www.spiegel.de/netzwelt/gadgets/samsung-galaxy-tab-s9-ultra-im-test-fuer-arbeitstiere-und-couchpotatoes](https://www.spiegel.de/netzwelt/gadgets/samsung-galaxy-tab-s9-ultra-im-test-fuer-arbeitstiere-und-couchpotatoes-a-4606c65c-0c16-477c-90ea-8088b82ba29d#ref=rss)
-### teuer
+* [https://www.spiegel.de/sport/handball/nach-missbrauchsvorwuerfen-ex-bvb-handballcoach-andre-fuhr-findet-neuen-trainerjob-ohne-aufarbeitung-seines-falls](https://www.spiegel.de/sport/handball/nach-missbrauchsvorwuerfen-ex-bvb-handballcoach-andre-fuhr-findet-neuen-trainerjob-ohne-aufarbeitung-seines-falls-a-b224c2fd-1c0e-46ad-b3d7-68d779b75eeb#ref=rss)
+### aufarbeitung
 
-* [https://www.spiegel.de/netzwelt/gadgets/samsung-galaxy-tab-s9-ultra-im-test-fuer-arbeitstiere-und-couchpotatoes](https://www.spiegel.de/netzwelt/gadgets/samsung-galaxy-tab-s9-ultra-im-test-fuer-arbeitstiere-und-couchpotatoes-a-4606c65c-0c16-477c-90ea-8088b82ba29d#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/landau-ex-freund-im-schrank-ruft-die-polizei](https://www.spiegel.de/panorama/gesellschaft/landau-ex-freund-im-schrank-ruft-die-polizei-a-7c8807dd-f3ad-4ad7-b66d-f7bcbf843ed9#ref=rss)
-### derweil
+* [https://www.spiegel.de/sport/handball/nach-missbrauchsvorwuerfen-ex-bvb-handballcoach-andre-fuhr-findet-neuen-trainerjob-ohne-aufarbeitung-seines-falls](https://www.spiegel.de/sport/handball/nach-missbrauchsvorwuerfen-ex-bvb-handballcoach-andre-fuhr-findet-neuen-trainerjob-ohne-aufarbeitung-seines-falls-a-b224c2fd-1c0e-46ad-b3d7-68d779b75eeb#ref=rss)
+### falls
 
-* [https://www.spiegel.de/ausland/israel-justizumbau-welche-menschen-nun-das-land-verlassen-wollen](https://www.spiegel.de/ausland/israel-justizumbau-welche-menschen-nun-das-land-verlassen-wollen-a-d3fdfc35-7c88-4022-971d-a196a7340abf#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-ueberzieht-ukraine-mit-luftangriffen-raketen-und-drohnen-abgewehrt](https://www.spiegel.de/ausland/ukraine-krieg-russland-ueberzieht-ukraine-mit-luftangriffen-raketen-und-drohnen-abgewehrt-a-52ca605c-0fa8-42d7-9b29-46ab703d235c#ref=rss)
-### elon
+* [https://www.spiegel.de/sport/handball/nach-missbrauchsvorwuerfen-ex-bvb-handballcoach-andre-fuhr-findet-neuen-trainerjob-ohne-aufarbeitung-seines-falls](https://www.spiegel.de/sport/handball/nach-missbrauchsvorwuerfen-ex-bvb-handballcoach-andre-fuhr-findet-neuen-trainerjob-ohne-aufarbeitung-seines-falls-a-b224c2fd-1c0e-46ad-b3d7-68d779b75eeb#ref=rss)
+### monaten
 
-* [https://www.spiegel.de/netzwelt/elon-musk-gegen-mark-zuckerberg-kaefigkampf-soll-auf-plattform-x-gestreamt-werden](https://www.spiegel.de/netzwelt/elon-musk-gegen-mark-zuckerberg-kaefigkampf-soll-auf-plattform-x-gestreamt-werden-a-06e6a4d2-4813-40a7-afc4-afbda8c0f74c#ref=rss)
-### musk
+* [https://www.spiegel.de/sport/handball/nach-missbrauchsvorwuerfen-ex-bvb-handballcoach-andre-fuhr-findet-neuen-trainerjob-ohne-aufarbeitung-seines-falls](https://www.spiegel.de/sport/handball/nach-missbrauchsvorwuerfen-ex-bvb-handballcoach-andre-fuhr-findet-neuen-trainerjob-ohne-aufarbeitung-seines-falls-a-b224c2fd-1c0e-46ad-b3d7-68d779b75eeb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-scheitert-mit-antrag-auf-portoerhoehung](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-scheitert-mit-antrag-auf-portoerhoehung-a-342bff42-5bcb-4be0-bf65-e65b2993fe68#ref=rss)
+### borussia
 
-* [https://www.spiegel.de/netzwelt/elon-musk-gegen-mark-zuckerberg-kaefigkampf-soll-auf-plattform-x-gestreamt-werden](https://www.spiegel.de/netzwelt/elon-musk-gegen-mark-zuckerberg-kaefigkampf-soll-auf-plattform-x-gestreamt-werden-a-06e6a4d2-4813-40a7-afc4-afbda8c0f74c#ref=rss)
-### plattform
+* [https://www.spiegel.de/sport/handball/nach-missbrauchsvorwuerfen-ex-bvb-handballcoach-andre-fuhr-findet-neuen-trainerjob-ohne-aufarbeitung-seines-falls](https://www.spiegel.de/sport/handball/nach-missbrauchsvorwuerfen-ex-bvb-handballcoach-andre-fuhr-findet-neuen-trainerjob-ohne-aufarbeitung-seines-falls-a-b224c2fd-1c0e-46ad-b3d7-68d779b75eeb#ref=rss)
+* [https://www.spiegel.de/sport/fussball/erst-kritisiert-dann-gefeiert-bvb-neuzugang-felix-nmecha-trifft-doppelt-bei-heimdebuet](https://www.spiegel.de/sport/fussball/erst-kritisiert-dann-gefeiert-bvb-neuzugang-felix-nmecha-trifft-doppelt-bei-heimdebuet-a-e5846d87-b39a-48dc-bcbd-c44bf0313882#ref=rss)
+### dortmund
 
-* [https://www.spiegel.de/netzwelt/elon-musk-gegen-mark-zuckerberg-kaefigkampf-soll-auf-plattform-x-gestreamt-werden](https://www.spiegel.de/netzwelt/elon-musk-gegen-mark-zuckerberg-kaefigkampf-soll-auf-plattform-x-gestreamt-werden-a-06e6a4d2-4813-40a7-afc4-afbda8c0f74c#ref=rss)
-### cartoons
+* [https://www.spiegel.de/sport/handball/nach-missbrauchsvorwuerfen-ex-bvb-handballcoach-andre-fuhr-findet-neuen-trainerjob-ohne-aufarbeitung-seines-falls](https://www.spiegel.de/sport/handball/nach-missbrauchsvorwuerfen-ex-bvb-handballcoach-andre-fuhr-findet-neuen-trainerjob-ohne-aufarbeitung-seines-falls-a-b224c2fd-1c0e-46ad-b3d7-68d779b75eeb#ref=rss)
+* [https://www.spiegel.de/sport/fussball/erst-kritisiert-dann-gefeiert-bvb-neuzugang-felix-nmecha-trifft-doppelt-bei-heimdebuet](https://www.spiegel.de/sport/fussball/erst-kritisiert-dann-gefeiert-bvb-neuzugang-felix-nmecha-trifft-doppelt-bei-heimdebuet-a-e5846d87-b39a-48dc-bcbd-c44bf0313882#ref=rss)
+### packungen
 
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-a-b14ee3fe-5de8-4601-84ad-4a9add0e12f1#ref=rss)
-### polizei
+* [https://www.spiegel.de/panorama/nussallergie-eurowings-passagierin-mit-schwerer-allergie-kauft-alle-packungen-erdnuesse-auf-flug-von-deutschland-nach-grossbritannien](https://www.spiegel.de/panorama/nussallergie-eurowings-passagierin-mit-schwerer-allergie-kauft-alle-packungen-erdnuesse-auf-flug-von-deutschland-nach-grossbritannien-a-fcbc9135-59bd-4dec-8f5f-f72929e3e907#ref=rss)
+### erdnüsse
 
-* [https://www.spiegel.de/panorama/gesellschaft/landau-ex-freund-im-schrank-ruft-die-polizei](https://www.spiegel.de/panorama/gesellschaft/landau-ex-freund-im-schrank-ruft-die-polizei-a-7c8807dd-f3ad-4ad7-b66d-f7bcbf843ed9#ref=rss)
-* [https://www.spiegel.de/sport/rad-wm-in-schottland-strassenrennen-nach-protesten-fast-eine-stunde-unterbrochen](https://www.spiegel.de/sport/rad-wm-in-schottland-strassenrennen-nach-protesten-fast-eine-stunde-unterbrochen-a-b9204d05-6f6b-4720-b72b-c08dd3401b5a#ref=rss)
-### monika
+* [https://www.spiegel.de/panorama/nussallergie-eurowings-passagierin-mit-schwerer-allergie-kauft-alle-packungen-erdnuesse-auf-flug-von-deutschland-nach-grossbritannien](https://www.spiegel.de/panorama/nussallergie-eurowings-passagierin-mit-schwerer-allergie-kauft-alle-packungen-erdnuesse-auf-flug-von-deutschland-nach-grossbritannien-a-fcbc9135-59bd-4dec-8f5f-f72929e3e907#ref=rss)
+### euro
 
-* [https://www.spiegel.de/sport/fussball/fussball-monika-staab-rechnet-mit-wechseln-von-frauen-nach-saudi-arabien](https://www.spiegel.de/sport/fussball/fussball-monika-staab-rechnet-mit-wechseln-von-frauen-nach-saudi-arabien-a-77706108-956a-4c62-9b13-15efd69b6be9#ref=rss)
-### staab
+* [https://www.spiegel.de/panorama/nussallergie-eurowings-passagierin-mit-schwerer-allergie-kauft-alle-packungen-erdnuesse-auf-flug-von-deutschland-nach-grossbritannien](https://www.spiegel.de/panorama/nussallergie-eurowings-passagierin-mit-schwerer-allergie-kauft-alle-packungen-erdnuesse-auf-flug-von-deutschland-nach-grossbritannien-a-fcbc9135-59bd-4dec-8f5f-f72929e3e907#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/windkraft-beschert-siemens-milliarden-verlust](https://www.spiegel.de/wirtschaft/unternehmen/windkraft-beschert-siemens-milliarden-verlust-a-de9f8acf-27bc-4e12-9134-459f588a45a4#ref=rss)
+### reaktion
 
-* [https://www.spiegel.de/sport/fussball/fussball-monika-staab-rechnet-mit-wechseln-von-frauen-nach-saudi-arabien](https://www.spiegel.de/sport/fussball/fussball-monika-staab-rechnet-mit-wechseln-von-frauen-nach-saudi-arabien-a-77706108-956a-4c62-9b13-15efd69b6be9#ref=rss)
-### saudiarabien
-
-* [https://www.spiegel.de/sport/fussball/fussball-monika-staab-rechnet-mit-wechseln-von-frauen-nach-saudi-arabien](https://www.spiegel.de/sport/fussball/fussball-monika-staab-rechnet-mit-wechseln-von-frauen-nach-saudi-arabien-a-77706108-956a-4c62-9b13-15efd69b6be9#ref=rss)
-### radwm
-
-* [https://www.spiegel.de/sport/rad-wm-in-schottland-strassenrennen-nach-protesten-fast-eine-stunde-unterbrochen](https://www.spiegel.de/sport/rad-wm-in-schottland-strassenrennen-nach-protesten-fast-eine-stunde-unterbrochen-a-b9204d05-6f6b-4720-b72b-c08dd3401b5a#ref=rss)
-### straßenrennen
-
-* [https://www.spiegel.de/sport/rad-wm-in-schottland-strassenrennen-nach-protesten-fast-eine-stunde-unterbrochen](https://www.spiegel.de/sport/rad-wm-in-schottland-strassenrennen-nach-protesten-fast-eine-stunde-unterbrochen-a-b9204d05-6f6b-4720-b72b-c08dd3401b5a#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/justiz/berlin-mutmasslicher-angriff-auf-israelischen-touristen](https://www.spiegel.de/panorama/justiz/berlin-mutmasslicher-angriff-auf-israelischen-touristen-a-4da94c5d-8007-4592-918e-56736fe5382a#ref=rss)
-### paris
-
-* [https://www.spiegel.de/sport/fussball/fussball-paris-saint-germain-und-eintracht-frankfurt-pokern-um-randal-kolo-muani](https://www.spiegel.de/sport/fussball/fussball-paris-saint-germain-und-eintracht-frankfurt-pokern-um-randal-kolo-muani-a-67c11359-c9b5-439c-ab90-073b7e3a59a8#ref=rss)
-### saintgermain
-
-* [https://www.spiegel.de/sport/fussball/fussball-paris-saint-germain-und-eintracht-frankfurt-pokern-um-randal-kolo-muani](https://www.spiegel.de/sport/fussball/fussball-paris-saint-germain-und-eintracht-frankfurt-pokern-um-randal-kolo-muani-a-67c11359-c9b5-439c-ab90-073b7e3a59a8#ref=rss)
-### usa
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2023-usa-unterliegen-schweden-im-elfmeterschiessen](https://www.spiegel.de/sport/fussball/fussball-wm-2023-usa-unterliegen-schweden-im-elfmeterschiessen-a-feeb0498-00f7-4df3-9473-af28ce144eb2#ref=rss)
-### österreich
-
-* [https://www.spiegel.de/panorama/nach-ueberschwemmungen-erdrutsch-gefahr-in-oesterreich-und-slowenien](https://www.spiegel.de/panorama/nach-ueberschwemmungen-erdrutsch-gefahr-in-oesterreich-und-slowenien-a-b7b0178d-02cb-4ec6-9b4f-da6f06f1110e#ref=rss)
+* [https://www.spiegel.de/panorama/nussallergie-eurowings-passagierin-mit-schwerer-allergie-kauft-alle-packungen-erdnuesse-auf-flug-von-deutschland-nach-grossbritannien](https://www.spiegel.de/panorama/nussallergie-eurowings-passagierin-mit-schwerer-allergie-kauft-alle-packungen-erdnuesse-auf-flug-von-deutschland-nach-grossbritannien-a-fcbc9135-59bd-4dec-8f5f-f72929e3e907#ref=rss)
 ### slowenien
 
-* [https://www.spiegel.de/panorama/nach-ueberschwemmungen-erdrutsch-gefahr-in-oesterreich-und-slowenien](https://www.spiegel.de/panorama/nach-ueberschwemmungen-erdrutsch-gefahr-in-oesterreich-und-slowenien-a-b7b0178d-02cb-4ec6-9b4f-da6f06f1110e#ref=rss)
-### durchfall
+* [https://www.spiegel.de/panorama/slowenien-bittet-nato-wegen-ueberschwemmungen-um-hilfe](https://www.spiegel.de/panorama/slowenien-bittet-nato-wegen-ueberschwemmungen-um-hilfe-a-a303428b-22d9-4dd3-ac59-5bdb7e7e7eda#ref=rss)
+### nato
 
-* [https://www.spiegel.de/sport/triathlon-57-schwimmer-erkranken-nach-wettbewerb-an-durchfall-und-uebelkeit](https://www.spiegel.de/sport/triathlon-57-schwimmer-erkranken-nach-wettbewerb-an-durchfall-und-uebelkeit-a-668842f8-7c22-4868-af89-829785982885#ref=rss)
-### übelkeit
+* [https://www.spiegel.de/panorama/slowenien-bittet-nato-wegen-ueberschwemmungen-um-hilfe](https://www.spiegel.de/panorama/slowenien-bittet-nato-wegen-ueberschwemmungen-um-hilfe-a-a303428b-22d9-4dd3-ac59-5bdb7e7e7eda#ref=rss)
+### hilfe
 
-* [https://www.spiegel.de/sport/triathlon-57-schwimmer-erkranken-nach-wettbewerb-an-durchfall-und-uebelkeit](https://www.spiegel.de/sport/triathlon-57-schwimmer-erkranken-nach-wettbewerb-an-durchfall-und-uebelkeit-a-668842f8-7c22-4868-af89-829785982885#ref=rss)
-### dutzende
+* [https://www.spiegel.de/panorama/slowenien-bittet-nato-wegen-ueberschwemmungen-um-hilfe](https://www.spiegel.de/panorama/slowenien-bittet-nato-wegen-ueberschwemmungen-um-hilfe-a-a303428b-22d9-4dd3-ac59-5bdb7e7e7eda#ref=rss)
+### elon
 
-* [https://www.spiegel.de/sport/triathlon-57-schwimmer-erkranken-nach-wettbewerb-an-durchfall-und-uebelkeit](https://www.spiegel.de/sport/triathlon-57-schwimmer-erkranken-nach-wettbewerb-an-durchfall-und-uebelkeit-a-668842f8-7c22-4868-af89-829785982885#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-ueberzieht-ukraine-mit-luftangriffen-raketen-und-drohnen-abgewehrt](https://www.spiegel.de/ausland/ukraine-krieg-russland-ueberzieht-ukraine-mit-luftangriffen-raketen-und-drohnen-abgewehrt-a-52ca605c-0fa8-42d7-9b29-46ab703d235c#ref=rss)
-### abgewehrt
+* [https://www.spiegel.de/netzwelt/apps/elon-musk-und-mark-zuckerberg-so-provozieren-sie-sich-vor-dem-kampf](https://www.spiegel.de/netzwelt/apps/elon-musk-und-mark-zuckerberg-so-provozieren-sie-sich-vor-dem-kampf-a-0bed3184-d90c-4411-b6cb-499c456390bb#ref=rss)
+### musk
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-ueberzieht-ukraine-mit-luftangriffen-raketen-und-drohnen-abgewehrt](https://www.spiegel.de/ausland/ukraine-krieg-russland-ueberzieht-ukraine-mit-luftangriffen-raketen-und-drohnen-abgewehrt-a-52ca605c-0fa8-42d7-9b29-46ab703d235c#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/elon-musk-und-mark-zuckerberg-so-provozieren-sie-sich-vor-dem-kampf](https://www.spiegel.de/netzwelt/apps/elon-musk-und-mark-zuckerberg-so-provozieren-sie-sich-vor-dem-kampf-a-0bed3184-d90c-4411-b6cb-499c456390bb#ref=rss)
+### mark
+
+* [https://www.spiegel.de/netzwelt/apps/elon-musk-und-mark-zuckerberg-so-provozieren-sie-sich-vor-dem-kampf](https://www.spiegel.de/netzwelt/apps/elon-musk-und-mark-zuckerberg-so-provozieren-sie-sich-vor-dem-kampf-a-0bed3184-d90c-4411-b6cb-499c456390bb#ref=rss)
+### zuckerberg
+
+* [https://www.spiegel.de/netzwelt/apps/elon-musk-und-mark-zuckerberg-so-provozieren-sie-sich-vor-dem-kampf](https://www.spiegel.de/netzwelt/apps/elon-musk-und-mark-zuckerberg-so-provozieren-sie-sich-vor-dem-kampf-a-0bed3184-d90c-4411-b6cb-499c456390bb#ref=rss)
+### wochen
+
+* [https://www.spiegel.de/netzwelt/apps/elon-musk-und-mark-zuckerberg-so-provozieren-sie-sich-vor-dem-kampf](https://www.spiegel.de/netzwelt/apps/elon-musk-und-mark-zuckerberg-so-provozieren-sie-sich-vor-dem-kampf-a-0bed3184-d90c-4411-b6cb-499c456390bb#ref=rss)
+* [https://www.spiegel.de/kultur/kino/barbie-hat-eine-milliarde-us-dollar-weltweit-eingespielt](https://www.spiegel.de/kultur/kino/barbie-hat-eine-milliarde-us-dollar-weltweit-eingespielt-a-61b0c5f7-e354-4ce9-a021-8c3305a29ff7#ref=rss)
+### behörden
+
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-russland-beschiesst-cherson-ukraine-meldet-eine-tote](https://www.spiegel.de/ausland/ukraine-russland-news-heute-russland-beschiesst-cherson-ukraine-meldet-eine-tote-a-3f9becd6-2abf-4b10-98e8-ed7c029f011f#ref=rss)
+* [https://www.spiegel.de/panorama/portugal-und-spanien-waldbraende-zerstoeren-tausende-hektar-land](https://www.spiegel.de/panorama/portugal-und-spanien-waldbraende-zerstoeren-tausende-hektar-land-a-33800c93-1c7e-4ffe-9f6b-e066eeb24492#ref=rss)
+### melden
+
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-russland-beschiesst-cherson-ukraine-meldet-eine-tote](https://www.spiegel.de/ausland/ukraine-russland-news-heute-russland-beschiesst-cherson-ukraine-meldet-eine-tote-a-3f9becd6-2abf-4b10-98e8-ed7c029f011f#ref=rss)
+* [https://www.spiegel.de/panorama/portugal-und-spanien-waldbraende-zerstoeren-tausende-hektar-land](https://www.spiegel.de/panorama/portugal-und-spanien-waldbraende-zerstoeren-tausende-hektar-land-a-33800c93-1c7e-4ffe-9f6b-e066eeb24492#ref=rss)
+### travemünde
+
+* [https://www.spiegel.de/panorama/travemuende-rettungskraefte-stellen-suche-nach-vermisstem-segler-auf-der-ostsee-nach-drei-stunden-ein](https://www.spiegel.de/panorama/travemuende-rettungskraefte-stellen-suche-nach-vermisstem-segler-auf-der-ostsee-nach-drei-stunden-ein-a-3632713c-949c-4fd5-bb08-0a9c5c83890d#ref=rss)
+### rettungskräfte
+
+* [https://www.spiegel.de/panorama/travemuende-rettungskraefte-stellen-suche-nach-vermisstem-segler-auf-der-ostsee-nach-drei-stunden-ein](https://www.spiegel.de/panorama/travemuende-rettungskraefte-stellen-suche-nach-vermisstem-segler-auf-der-ostsee-nach-drei-stunden-ein-a-3632713c-949c-4fd5-bb08-0a9c5c83890d#ref=rss)
+### segler
+
+* [https://www.spiegel.de/panorama/travemuende-rettungskraefte-stellen-suche-nach-vermisstem-segler-auf-der-ostsee-nach-drei-stunden-ein](https://www.spiegel.de/panorama/travemuende-rettungskraefte-stellen-suche-nach-vermisstem-segler-auf-der-ostsee-nach-drei-stunden-ein-a-3632713c-949c-4fd5-bb08-0a9c5c83890d#ref=rss)
+### stunden
+
+* [https://www.spiegel.de/panorama/travemuende-rettungskraefte-stellen-suche-nach-vermisstem-segler-auf-der-ostsee-nach-drei-stunden-ein](https://www.spiegel.de/panorama/travemuende-rettungskraefte-stellen-suche-nach-vermisstem-segler-auf-der-ostsee-nach-drei-stunden-ein-a-3632713c-949c-4fd5-bb08-0a9c5c83890d#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/panorama/travemuende-rettungskraefte-stellen-suche-nach-vermisstem-segler-auf-der-ostsee-nach-drei-stunden-ein](https://www.spiegel.de/panorama/travemuende-rettungskraefte-stellen-suche-nach-vermisstem-segler-auf-der-ostsee-nach-drei-stunden-ein-a-3632713c-949c-4fd5-bb08-0a9c5c83890d#ref=rss)
+* [https://www.spiegel.de/kultur/kino/barbie-hat-eine-milliarde-us-dollar-weltweit-eingespielt](https://www.spiegel.de/kultur/kino/barbie-hat-eine-milliarde-us-dollar-weltweit-eingespielt-a-61b0c5f7-e354-4ce9-a021-8c3305a29ff7#ref=rss)
+### gut
+
+* [https://www.spiegel.de/stil/rezept-fuer-sternschnuppen-smoerrebroed](https://www.spiegel.de/stil/rezept-fuer-sternschnuppen-smoerrebroed-a-f2419c8c-22ac-4979-81f6-fc7fcc01ca2e#ref=rss)
+* [https://www.spiegel.de/kultur/kino/barbie-hat-eine-milliarde-us-dollar-weltweit-eingespielt](https://www.spiegel.de/kultur/kino/barbie-hat-eine-milliarde-us-dollar-weltweit-eingespielt-a-61b0c5f7-e354-4ce9-a021-8c3305a29ff7#ref=rss)
+### vučić
+
+* [https://www.spiegel.de/ausland/aleksandar-vucic-in-serbien-wie-er-in-kosovo-montenegro-und-bosnien-zuendelt](https://www.spiegel.de/ausland/aleksandar-vucic-in-serbien-wie-er-in-kosovo-montenegro-und-bosnien-zuendelt-a-2b2a3e42-4124-4214-812f-8398876179c5#ref=rss)
+### mittelschicht
+
+* [https://www.spiegel.de/wirtschaft/ifo-studie-mittelschicht-schrumpft-weiter](https://www.spiegel.de/wirtschaft/ifo-studie-mittelschicht-schrumpft-weiter-a-f29aa807-fefb-4429-a7d4-238d4724c38f#ref=rss)
+### post
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-scheitert-mit-antrag-auf-portoerhoehung](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-scheitert-mit-antrag-auf-portoerhoehung-a-342bff42-5bcb-4be0-bf65-e65b2993fe68#ref=rss)
+### marinepatrouille
+
+* [https://www.spiegel.de/ausland/usa-reagieren-mit-kriegsschiffen-auf-marienpatrouille-von-china-und-russland](https://www.spiegel.de/ausland/usa-reagieren-mit-kriegsschiffen-auf-marienpatrouille-von-china-und-russland-a-be58f6fb-3f89-4e4e-9f87-a0f992437242#ref=rss)
+### china
+
+* [https://www.spiegel.de/ausland/usa-reagieren-mit-kriegsschiffen-auf-marienpatrouille-von-china-und-russland](https://www.spiegel.de/ausland/usa-reagieren-mit-kriegsschiffen-auf-marienpatrouille-von-china-und-russland-a-be58f6fb-3f89-4e4e-9f87-a0f992437242#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/usa-reagieren-mit-kriegsschiffen-auf-marienpatrouille-von-china-und-russland](https://www.spiegel.de/ausland/usa-reagieren-mit-kriegsschiffen-auf-marienpatrouille-von-china-und-russland-a-be58f6fb-3f89-4e4e-9f87-a0f992437242#ref=rss)
+### barbie
+
+* [https://www.spiegel.de/kultur/kino/barbie-hat-eine-milliarde-us-dollar-weltweit-eingespielt](https://www.spiegel.de/kultur/kino/barbie-hat-eine-milliarde-us-dollar-weltweit-eingespielt-a-61b0c5f7-e354-4ce9-a021-8c3305a29ff7#ref=rss)
+### milliarde
+
+* [https://www.spiegel.de/kultur/kino/barbie-hat-eine-milliarde-us-dollar-weltweit-eingespielt](https://www.spiegel.de/kultur/kino/barbie-hat-eine-milliarde-us-dollar-weltweit-eingespielt-a-61b0c5f7-e354-4ce9-a021-8c3305a29ff7#ref=rss)
+### usdollar
+
+* [https://www.spiegel.de/kultur/kino/barbie-hat-eine-milliarde-us-dollar-weltweit-eingespielt](https://www.spiegel.de/kultur/kino/barbie-hat-eine-milliarde-us-dollar-weltweit-eingespielt-a-61b0c5f7-e354-4ce9-a021-8c3305a29ff7#ref=rss)
+### weltweit
+
+* [https://www.spiegel.de/kultur/kino/barbie-hat-eine-milliarde-us-dollar-weltweit-eingespielt](https://www.spiegel.de/kultur/kino/barbie-hat-eine-milliarde-us-dollar-weltweit-eingespielt-a-61b0c5f7-e354-4ce9-a021-8c3305a29ff7#ref=rss)
+### eingespielt
+
+* [https://www.spiegel.de/kultur/kino/barbie-hat-eine-milliarde-us-dollar-weltweit-eingespielt](https://www.spiegel.de/kultur/kino/barbie-hat-eine-milliarde-us-dollar-weltweit-eingespielt-a-61b0c5f7-e354-4ce9-a021-8c3305a29ff7#ref=rss)
+### kambodscha
+
+* [https://www.spiegel.de/ausland/kambodscha-sohn-von-langjaehrigem-ministerpraesident-neuer-regierungschef](https://www.spiegel.de/ausland/kambodscha-sohn-von-langjaehrigem-ministerpraesident-neuer-regierungschef-a-24d2001e-3277-438f-aeaa-9f202361a640#ref=rss)
+### sohn
+
+* [https://www.spiegel.de/ausland/kambodscha-sohn-von-langjaehrigem-ministerpraesident-neuer-regierungschef](https://www.spiegel.de/ausland/kambodscha-sohn-von-langjaehrigem-ministerpraesident-neuer-regierungschef-a-24d2001e-3277-438f-aeaa-9f202361a640#ref=rss)
+### hun
+
+* [https://www.spiegel.de/ausland/kambodscha-sohn-von-langjaehrigem-ministerpraesident-neuer-regierungschef](https://www.spiegel.de/ausland/kambodscha-sohn-von-langjaehrigem-ministerpraesident-neuer-regierungschef-a-24d2001e-3277-438f-aeaa-9f202361a640#ref=rss)
+### lohnen
+
+* [https://www.spiegel.de/start/mitarbeiter-benefits-und-geldwerte-vorteile-welche-sich-wirklich-lohnen](https://www.spiegel.de/start/mitarbeiter-benefits-und-geldwerte-vorteile-welche-sich-wirklich-lohnen-a-883ae335-7ce1-41d2-8301-5348a9cba59c#ref=rss)
+### juli
+
+* [https://www.spiegel.de/wirtschaft/industrie-hat-im-juli-erneut-weniger-produziert](https://www.spiegel.de/wirtschaft/industrie-hat-im-juli-erneut-weniger-produziert-a-43dc86ea-6c11-4055-8c73-259d8f7c6b5d#ref=rss)
+### bvbneuzugang
+
+* [https://www.spiegel.de/sport/fussball/erst-kritisiert-dann-gefeiert-bvb-neuzugang-felix-nmecha-trifft-doppelt-bei-heimdebuet](https://www.spiegel.de/sport/fussball/erst-kritisiert-dann-gefeiert-bvb-neuzugang-felix-nmecha-trifft-doppelt-bei-heimdebuet-a-e5846d87-b39a-48dc-bcbd-c44bf0313882#ref=rss)
+### felix
+
+* [https://www.spiegel.de/sport/fussball/erst-kritisiert-dann-gefeiert-bvb-neuzugang-felix-nmecha-trifft-doppelt-bei-heimdebuet](https://www.spiegel.de/sport/fussball/erst-kritisiert-dann-gefeiert-bvb-neuzugang-felix-nmecha-trifft-doppelt-bei-heimdebuet-a-e5846d87-b39a-48dc-bcbd-c44bf0313882#ref=rss)
+### nmecha
+
+* [https://www.spiegel.de/sport/fussball/erst-kritisiert-dann-gefeiert-bvb-neuzugang-felix-nmecha-trifft-doppelt-bei-heimdebuet](https://www.spiegel.de/sport/fussball/erst-kritisiert-dann-gefeiert-bvb-neuzugang-felix-nmecha-trifft-doppelt-bei-heimdebuet-a-e5846d87-b39a-48dc-bcbd-c44bf0313882#ref=rss)
+### wuppertal
+
+* [https://www.spiegel.de/panorama/justiz/wuppertal-23-jaehriger-faehrt-mit-auto-auf-den-gehweg-vier-kinder-verletzt](https://www.spiegel.de/panorama/justiz/wuppertal-23-jaehriger-faehrt-mit-auto-auf-den-gehweg-vier-kinder-verletzt-a-195a6e68-358a-4415-adf8-bad8b8de70d4#ref=rss)
+### auto
+
+* [https://www.spiegel.de/panorama/justiz/wuppertal-23-jaehriger-faehrt-mit-auto-auf-den-gehweg-vier-kinder-verletzt](https://www.spiegel.de/panorama/justiz/wuppertal-23-jaehriger-faehrt-mit-auto-auf-den-gehweg-vier-kinder-verletzt-a-195a6e68-358a-4415-adf8-bad8b8de70d4#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/panorama/justiz/wuppertal-23-jaehriger-faehrt-mit-auto-auf-den-gehweg-vier-kinder-verletzt](https://www.spiegel.de/panorama/justiz/wuppertal-23-jaehriger-faehrt-mit-auto-auf-den-gehweg-vier-kinder-verletzt-a-195a6e68-358a-4415-adf8-bad8b8de70d4#ref=rss)
+### verletzt
+
+* [https://www.spiegel.de/panorama/justiz/wuppertal-23-jaehriger-faehrt-mit-auto-auf-den-gehweg-vier-kinder-verletzt](https://www.spiegel.de/panorama/justiz/wuppertal-23-jaehriger-faehrt-mit-auto-auf-den-gehweg-vier-kinder-verletzt-a-195a6e68-358a-4415-adf8-bad8b8de70d4#ref=rss)
+### hamas
+
+* [https://www.spiegel.de/ausland/hamas-verurteilt-sieben-maenner-wegen-kollaboration-mit-israel-zum-tode](https://www.spiegel.de/ausland/hamas-verurteilt-sieben-maenner-wegen-kollaboration-mit-israel-zum-tode-a-4fe42d50-8af6-42a0-bf82-c3cb520b3c49#ref=rss)
+### sieben
+
+* [https://www.spiegel.de/ausland/hamas-verurteilt-sieben-maenner-wegen-kollaboration-mit-israel-zum-tode](https://www.spiegel.de/ausland/hamas-verurteilt-sieben-maenner-wegen-kollaboration-mit-israel-zum-tode-a-4fe42d50-8af6-42a0-bf82-c3cb520b3c49#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/hamas-verurteilt-sieben-maenner-wegen-kollaboration-mit-israel-zum-tode](https://www.spiegel.de/ausland/hamas-verurteilt-sieben-maenner-wegen-kollaboration-mit-israel-zum-tode-a-4fe42d50-8af6-42a0-bf82-c3cb520b3c49#ref=rss)
+### siemens
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/windkraft-beschert-siemens-milliarden-verlust](https://www.spiegel.de/wirtschaft/unternehmen/windkraft-beschert-siemens-milliarden-verlust-a-de9f8acf-27bc-4e12-9134-459f588a45a4#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/nordrhein-westfalen-polizei-will-fuer-blackout-notfallvorrat-anlegen-mit-hunderttausenden-keksen](https://www.spiegel.de/panorama/nordrhein-westfalen-polizei-will-fuer-blackout-notfallvorrat-anlegen-mit-hunderttausenden-keksen-a-2488f84a-170c-4ff9-b70e-01237967506f#ref=rss)
 
