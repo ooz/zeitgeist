@@ -4,265 +4,275 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
+### frau
+
+* [https://www.spiegel.de/panorama/justiz/schottland-drei-bergwanderer-sterben-in-den-highlands](https://www.spiegel.de/panorama/justiz/schottland-drei-bergwanderer-sterben-in-den-highlands-a-9bd94878-994e-4b8d-b369-a5ec96273295#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankreich-mann-aus-deutschland-soll-seine-frau-ueber-jahre-gefangen-gehalten-und-gefoltert-haben](https://www.spiegel.de/panorama/justiz/frankreich-mann-aus-deutschland-soll-seine-frau-ueber-jahre-gefangen-gehalten-und-gefoltert-haben-a-10a2c295-bccc-4e14-9b9e-578fdc0e8020#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/chicago-mann-erschiesst-achtjaehrige-auf-offener-strasse](https://www.spiegel.de/panorama/justiz/chicago-mann-erschiesst-achtjaehrige-auf-offener-strasse-a-1afa0b0f-51fb-40be-9fe1-5ddee5a913f5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/kaiserslautern-40-jaehriger-soll-seine-vermieterin-umgebracht-haben](https://www.spiegel.de/panorama/justiz/kaiserslautern-40-jaehriger-soll-seine-vermieterin-umgebracht-haben-a-f88ad3be-79cf-4b4a-9ec6-a097eba34d7d#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/wissenschaft/krebs-soziale-ungleichheit-beeinflusst-risiko-in-deutschland-zunehmend](https://www.spiegel.de/wissenschaft/krebs-soziale-ungleichheit-beeinflusst-risiko-in-deutschland-zunehmend-a-7445a7f5-4450-4be1-8890-e564b5058f16#ref=rss)
-* [https://www.spiegel.de/panorama/nussallergie-eurowings-passagierin-mit-schwerer-allergie-kauft-alle-packungen-erdnuesse-auf-flug-von-deutschland-nach-grossbritannien](https://www.spiegel.de/panorama/nussallergie-eurowings-passagierin-mit-schwerer-allergie-kauft-alle-packungen-erdnuesse-auf-flug-von-deutschland-nach-grossbritannien-a-fcbc9135-59bd-4dec-8f5f-f72929e3e907#ref=rss)
-* [https://www.spiegel.de/wirtschaft/industrie-hat-im-juli-erneut-weniger-produziert](https://www.spiegel.de/wirtschaft/industrie-hat-im-juli-erneut-weniger-produziert-a-43dc86ea-6c11-4055-8c73-259d8f7c6b5d#ref=rss)
-### zufolge
-
-* [https://www.spiegel.de/wissenschaft/krebs-soziale-ungleichheit-beeinflusst-risiko-in-deutschland-zunehmend](https://www.spiegel.de/wissenschaft/krebs-soziale-ungleichheit-beeinflusst-risiko-in-deutschland-zunehmend-a-7445a7f5-4450-4be1-8890-e564b5058f16#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-russland-beschiesst-cherson-ukraine-meldet-eine-tote](https://www.spiegel.de/ausland/ukraine-russland-news-heute-russland-beschiesst-cherson-ukraine-meldet-eine-tote-a-3f9becd6-2abf-4b10-98e8-ed7c029f011f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ifo-studie-mittelschicht-schrumpft-weiter](https://www.spiegel.de/wirtschaft/ifo-studie-mittelschicht-schrumpft-weiter-a-f29aa807-fefb-4429-a7d4-238d4724c38f#ref=rss)
-### alle
-
-* [https://www.spiegel.de/wissenschaft/krebs-soziale-ungleichheit-beeinflusst-risiko-in-deutschland-zunehmend](https://www.spiegel.de/wissenschaft/krebs-soziale-ungleichheit-beeinflusst-risiko-in-deutschland-zunehmend-a-7445a7f5-4450-4be1-8890-e564b5058f16#ref=rss)
-* [https://www.spiegel.de/panorama/nussallergie-eurowings-passagierin-mit-schwerer-allergie-kauft-alle-packungen-erdnuesse-auf-flug-von-deutschland-nach-grossbritannien](https://www.spiegel.de/panorama/nussallergie-eurowings-passagierin-mit-schwerer-allergie-kauft-alle-packungen-erdnuesse-auf-flug-von-deutschland-nach-grossbritannien-a-fcbc9135-59bd-4dec-8f5f-f72929e3e907#ref=rss)
-### nigeria
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2023-england-besiegt-nigeria-4-2-im-elfmeterschiessen-und-steht-im-viertelfinale](https://www.spiegel.de/sport/fussball/fussball-wm-2023-england-besiegt-nigeria-4-2-im-elfmeterschiessen-und-steht-im-viertelfinale-a-5f844967-a669-4724-86f7-474d92ac11ff#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/sport/handball/nach-missbrauchsvorwuerfen-ex-bvb-handballcoach-andre-fuhr-findet-neuen-trainerjob-ohne-aufarbeitung-seines-falls](https://www.spiegel.de/sport/handball/nach-missbrauchsvorwuerfen-ex-bvb-handballcoach-andre-fuhr-findet-neuen-trainerjob-ohne-aufarbeitung-seines-falls-a-b224c2fd-1c0e-46ad-b3d7-68d779b75eeb#ref=rss)
-* [https://www.spiegel.de/ausland/kambodscha-sohn-von-langjaehrigem-ministerpraesident-neuer-regierungschef](https://www.spiegel.de/ausland/kambodscha-sohn-von-langjaehrigem-ministerpraesident-neuer-regierungschef-a-24d2001e-3277-438f-aeaa-9f202361a640#ref=rss)
-* [https://www.spiegel.de/ausland/taurus-raketen-fuer-die-ukraine-angstmacherei-ist-keine-strategie-meinung](https://www.spiegel.de/ausland/taurus-raketen-fuer-die-ukraine-angstmacherei-ist-keine-strategie-meinung-a-563bfa44-f92b-4ab5-8e51-e45980e3f16a#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-russland-beschiesst-cherson-ukraine-meldet-eine-tote](https://www.spiegel.de/ausland/ukraine-russland-news-heute-russland-beschiesst-cherson-ukraine-meldet-eine-tote-a-3f9becd6-2abf-4b10-98e8-ed7c029f011f#ref=rss)
-* [https://www.spiegel.de/ausland/taurus-raketen-fuer-die-ukraine-angstmacherei-ist-keine-strategie-meinung](https://www.spiegel.de/ausland/taurus-raketen-fuer-die-ukraine-angstmacherei-ist-keine-strategie-meinung-a-563bfa44-f92b-4ab5-8e51-e45980e3f16a#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-joerg-kachelmann-ueber-den-sturm-an-den-kuesten](https://www.spiegel.de/panorama/wetter-in-deutschland-joerg-kachelmann-ueber-den-sturm-an-den-kuesten-a-104251cb-5da7-46d6-b4c1-8ccb3783a0fd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wasserknappheit-in-uruguay](https://www.spiegel.de/politik/deutschland/news-des-tages-wasserknappheit-in-uruguay-a-682012d6-30ff-4b21-a4d6-778e1248d18a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankreich-mann-aus-deutschland-soll-seine-frau-ueber-jahre-gefangen-gehalten-und-gefoltert-haben](https://www.spiegel.de/panorama/justiz/frankreich-mann-aus-deutschland-soll-seine-frau-ueber-jahre-gefangen-gehalten-und-gefoltert-haben-a-10a2c295-bccc-4e14-9b9e-578fdc0e8020#ref=rss)
 ### drei
 
-* [https://www.spiegel.de/panorama/travemuende-rettungskraefte-stellen-suche-nach-vermisstem-segler-auf-der-ostsee-nach-drei-stunden-ein](https://www.spiegel.de/panorama/travemuende-rettungskraefte-stellen-suche-nach-vermisstem-segler-auf-der-ostsee-nach-drei-stunden-ein-a-3632713c-949c-4fd5-bb08-0a9c5c83890d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/wuppertal-23-jaehriger-faehrt-mit-auto-auf-den-gehweg-vier-kinder-verletzt](https://www.spiegel.de/panorama/justiz/wuppertal-23-jaehriger-faehrt-mit-auto-auf-den-gehweg-vier-kinder-verletzt-a-195a6e68-358a-4415-adf8-bad8b8de70d4#ref=rss)
-### land
-
-* [https://www.spiegel.de/ausland/aleksandar-vucic-in-serbien-wie-er-in-kosovo-montenegro-und-bosnien-zuendelt](https://www.spiegel.de/ausland/aleksandar-vucic-in-serbien-wie-er-in-kosovo-montenegro-und-bosnien-zuendelt-a-2b2a3e42-4124-4214-812f-8398876179c5#ref=rss)
-* [https://www.spiegel.de/panorama/portugal-und-spanien-waldbraende-zerstoeren-tausende-hektar-land](https://www.spiegel.de/panorama/portugal-und-spanien-waldbraende-zerstoeren-tausende-hektar-land-a-33800c93-1c7e-4ffe-9f6b-e066eeb24492#ref=rss)
-* [https://www.spiegel.de/ausland/kambodscha-sohn-von-langjaehrigem-ministerpraesident-neuer-regierungschef](https://www.spiegel.de/ausland/kambodscha-sohn-von-langjaehrigem-ministerpraesident-neuer-regierungschef-a-24d2001e-3277-438f-aeaa-9f202361a640#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-scheitert-mit-antrag-auf-portoerhoehung](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-scheitert-mit-antrag-auf-portoerhoehung-a-342bff42-5bcb-4be0-bf65-e65b2993fe68#ref=rss)
-* [https://www.spiegel.de/ausland/taurus-raketen-fuer-die-ukraine-angstmacherei-ist-keine-strategie-meinung](https://www.spiegel.de/ausland/taurus-raketen-fuer-die-ukraine-angstmacherei-ist-keine-strategie-meinung-a-563bfa44-f92b-4ab5-8e51-e45980e3f16a#ref=rss)
-### zeigen
-
-* [https://www.spiegel.de/wissenschaft/natur/cherson-satellitenbilder-zeigen-langfristige-auswirkungen-des-staudamm-bruchs](https://www.spiegel.de/wissenschaft/natur/cherson-satellitenbilder-zeigen-langfristige-auswirkungen-des-staudamm-bruchs-a-3a1231c7-c8a5-4f5a-8883-a95f7d2860cf#ref=rss)
-* [https://www.spiegel.de/ausland/niger-ecowas-ultimatum-nach-putsch-abgelaufen-demonstranten-feiern-militaerjunta](https://www.spiegel.de/ausland/niger-ecowas-ultimatum-nach-putsch-abgelaufen-demonstranten-feiern-militaerjunta-a-223cf196-b9e3-4b93-97a4-2e6a90a9c32c#ref=rss)
-### weg
-
-* [https://www.spiegel.de/wissenschaft/natur/cherson-satellitenbilder-zeigen-langfristige-auswirkungen-des-staudamm-bruchs](https://www.spiegel.de/wissenschaft/natur/cherson-satellitenbilder-zeigen-langfristige-auswirkungen-des-staudamm-bruchs-a-3a1231c7-c8a5-4f5a-8883-a95f7d2860cf#ref=rss)
-* [https://www.spiegel.de/panorama/travemuende-rettungskraefte-stellen-suche-nach-vermisstem-segler-auf-der-ostsee-nach-drei-stunden-ein](https://www.spiegel.de/panorama/travemuende-rettungskraefte-stellen-suche-nach-vermisstem-segler-auf-der-ostsee-nach-drei-stunden-ein-a-3632713c-949c-4fd5-bb08-0a9c5c83890d#ref=rss)
-### krebs
-
-* [https://www.spiegel.de/wissenschaft/krebs-soziale-ungleichheit-beeinflusst-risiko-in-deutschland-zunehmend](https://www.spiegel.de/wissenschaft/krebs-soziale-ungleichheit-beeinflusst-risiko-in-deutschland-zunehmend-a-7445a7f5-4450-4be1-8890-e564b5058f16#ref=rss)
-### risiko
-
-* [https://www.spiegel.de/wissenschaft/krebs-soziale-ungleichheit-beeinflusst-risiko-in-deutschland-zunehmend](https://www.spiegel.de/wissenschaft/krebs-soziale-ungleichheit-beeinflusst-risiko-in-deutschland-zunehmend-a-7445a7f5-4450-4be1-8890-e564b5058f16#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/wissenschaft/krebs-soziale-ungleichheit-beeinflusst-risiko-in-deutschland-zunehmend](https://www.spiegel.de/wissenschaft/krebs-soziale-ungleichheit-beeinflusst-risiko-in-deutschland-zunehmend-a-7445a7f5-4450-4be1-8890-e564b5058f16#ref=rss)
-* [https://www.spiegel.de/panorama/portugal-und-spanien-waldbraende-zerstoeren-tausende-hektar-land](https://www.spiegel.de/panorama/portugal-und-spanien-waldbraende-zerstoeren-tausende-hektar-land-a-33800c93-1c7e-4ffe-9f6b-e066eeb24492#ref=rss)
-### niger
-
-* [https://www.spiegel.de/ausland/niger-ecowas-ultimatum-nach-putsch-abgelaufen-demonstranten-feiern-militaerjunta](https://www.spiegel.de/ausland/niger-ecowas-ultimatum-nach-putsch-abgelaufen-demonstranten-feiern-militaerjunta-a-223cf196-b9e3-4b93-97a4-2e6a90a9c32c#ref=rss)
-### militärjunta
-
-* [https://www.spiegel.de/ausland/niger-ecowas-ultimatum-nach-putsch-abgelaufen-demonstranten-feiern-militaerjunta](https://www.spiegel.de/ausland/niger-ecowas-ultimatum-nach-putsch-abgelaufen-demonstranten-feiern-militaerjunta-a-223cf196-b9e3-4b93-97a4-2e6a90a9c32c#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/ausland/niger-ecowas-ultimatum-nach-putsch-abgelaufen-demonstranten-feiern-militaerjunta](https://www.spiegel.de/ausland/niger-ecowas-ultimatum-nach-putsch-abgelaufen-demonstranten-feiern-militaerjunta-a-223cf196-b9e3-4b93-97a4-2e6a90a9c32c#ref=rss)
-* [https://www.spiegel.de/panorama/travemuende-rettungskraefte-stellen-suche-nach-vermisstem-segler-auf-der-ostsee-nach-drei-stunden-ein](https://www.spiegel.de/panorama/travemuende-rettungskraefte-stellen-suche-nach-vermisstem-segler-auf-der-ostsee-nach-drei-stunden-ein-a-3632713c-949c-4fd5-bb08-0a9c5c83890d#ref=rss)
-### england
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2023-england-besiegt-nigeria-4-2-im-elfmeterschiessen-und-steht-im-viertelfinale](https://www.spiegel.de/sport/fussball/fussball-wm-2023-england-besiegt-nigeria-4-2-im-elfmeterschiessen-und-steht-im-viertelfinale-a-5f844967-a669-4724-86f7-474d92ac11ff#ref=rss)
-### elfmeterschießen
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2023-england-besiegt-nigeria-4-2-im-elfmeterschiessen-und-steht-im-viertelfinale](https://www.spiegel.de/sport/fussball/fussball-wm-2023-england-besiegt-nigeria-4-2-im-elfmeterschiessen-und-steht-im-viertelfinale-a-5f844967-a669-4724-86f7-474d92ac11ff#ref=rss)
-### sorgt
-
-* [https://www.spiegel.de/panorama/hiddensee-und-ruegen-faehrbetrieb-wegen-heftigem-unwetter-unterbrochen](https://www.spiegel.de/panorama/hiddensee-und-ruegen-faehrbetrieb-wegen-heftigem-unwetter-unterbrochen-a-2a961af6-c0e6-45c8-8f1c-53647556d30d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/windkraft-beschert-siemens-milliarden-verlust](https://www.spiegel.de/wirtschaft/unternehmen/windkraft-beschert-siemens-milliarden-verlust-a-de9f8acf-27bc-4e12-9134-459f588a45a4#ref=rss)
-### pfeilspitze
-
-* [https://www.spiegel.de/wissenschaft/schweiz-bronzezeitliche-pfeilspitze-aus-meteorit-gefertigt](https://www.spiegel.de/wissenschaft/schweiz-bronzezeitliche-pfeilspitze-aus-meteorit-gefertigt-a-8999ab97-6aea-4e96-8d54-a0915d8e367b#ref=rss)
-### pakistan
-
-* [https://www.spiegel.de/ausland/pakistan-lehrer-nach-blasphemievorwuerfen-gelyncht](https://www.spiegel.de/ausland/pakistan-lehrer-nach-blasphemievorwuerfen-gelyncht-a-f9d58e08-ba95-4515-b801-f2484f2b804b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/schottland-drei-bergwanderer-sterben-in-den-highlands](https://www.spiegel.de/panorama/justiz/schottland-drei-bergwanderer-sterben-in-den-highlands-a-9bd94878-994e-4b8d-b369-a5ec96273295#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wasserknappheit-in-uruguay](https://www.spiegel.de/politik/deutschland/news-des-tages-wasserknappheit-in-uruguay-a-682012d6-30ff-4b21-a4d6-778e1248d18a#ref=rss)
+* [https://www.spiegel.de/panorama/kalifornien-zwei-loeschhubschrauber-kollidieren-drei-tote](https://www.spiegel.de/panorama/kalifornien-zwei-loeschhubschrauber-kollidieren-drei-tote-a-85b793e6-2a2f-4516-ae71-7176196479da#ref=rss)
 ### mann
 
-* [https://www.spiegel.de/ausland/pakistan-lehrer-nach-blasphemievorwuerfen-gelyncht](https://www.spiegel.de/ausland/pakistan-lehrer-nach-blasphemievorwuerfen-gelyncht-a-f9d58e08-ba95-4515-b801-f2484f2b804b#ref=rss)
-* [https://www.spiegel.de/panorama/travemuende-rettungskraefte-stellen-suche-nach-vermisstem-segler-auf-der-ostsee-nach-drei-stunden-ein](https://www.spiegel.de/panorama/travemuende-rettungskraefte-stellen-suche-nach-vermisstem-segler-auf-der-ostsee-nach-drei-stunden-ein-a-3632713c-949c-4fd5-bb08-0a9c5c83890d#ref=rss)
-### andré
+* [https://www.spiegel.de/panorama/justiz/frankreich-mann-aus-deutschland-soll-seine-frau-ueber-jahre-gefangen-gehalten-und-gefoltert-haben](https://www.spiegel.de/panorama/justiz/frankreich-mann-aus-deutschland-soll-seine-frau-ueber-jahre-gefangen-gehalten-und-gefoltert-haben-a-10a2c295-bccc-4e14-9b9e-578fdc0e8020#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/chicago-mann-erschiesst-achtjaehrige-auf-offener-strasse](https://www.spiegel.de/panorama/justiz/chicago-mann-erschiesst-achtjaehrige-auf-offener-strasse-a-1afa0b0f-51fb-40be-9fe1-5ddee5a913f5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/kaiserslautern-40-jaehriger-soll-seine-vermieterin-umgebracht-haben](https://www.spiegel.de/panorama/justiz/kaiserslautern-40-jaehriger-soll-seine-vermieterin-umgebracht-haben-a-f88ad3be-79cf-4b4a-9ec6-a097eba34d7d#ref=rss)
+### ums
 
-* [https://www.spiegel.de/sport/handball/nach-missbrauchsvorwuerfen-ex-bvb-handballcoach-andre-fuhr-findet-neuen-trainerjob-ohne-aufarbeitung-seines-falls](https://www.spiegel.de/sport/handball/nach-missbrauchsvorwuerfen-ex-bvb-handballcoach-andre-fuhr-findet-neuen-trainerjob-ohne-aufarbeitung-seines-falls-a-b224c2fd-1c0e-46ad-b3d7-68d779b75eeb#ref=rss)
-### fuhr
+* [https://www.spiegel.de/panorama/justiz/schottland-drei-bergwanderer-sterben-in-den-highlands](https://www.spiegel.de/panorama/justiz/schottland-drei-bergwanderer-sterben-in-den-highlands-a-9bd94878-994e-4b8d-b369-a5ec96273295#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/chicago-mann-erschiesst-achtjaehrige-auf-offener-strasse](https://www.spiegel.de/panorama/justiz/chicago-mann-erschiesst-achtjaehrige-auf-offener-strasse-a-1afa0b0f-51fb-40be-9fe1-5ddee5a913f5#ref=rss)
+* [https://www.spiegel.de/panorama/kalifornien-zwei-loeschhubschrauber-kollidieren-drei-tote](https://www.spiegel.de/panorama/kalifornien-zwei-loeschhubschrauber-kollidieren-drei-tote-a-85b793e6-2a2f-4516-ae71-7176196479da#ref=rss)
+### leben
 
-* [https://www.spiegel.de/sport/handball/nach-missbrauchsvorwuerfen-ex-bvb-handballcoach-andre-fuhr-findet-neuen-trainerjob-ohne-aufarbeitung-seines-falls](https://www.spiegel.de/sport/handball/nach-missbrauchsvorwuerfen-ex-bvb-handballcoach-andre-fuhr-findet-neuen-trainerjob-ohne-aufarbeitung-seines-falls-a-b224c2fd-1c0e-46ad-b3d7-68d779b75eeb#ref=rss)
-### aufarbeitung
+* [https://www.spiegel.de/panorama/justiz/schottland-drei-bergwanderer-sterben-in-den-highlands](https://www.spiegel.de/panorama/justiz/schottland-drei-bergwanderer-sterben-in-den-highlands-a-9bd94878-994e-4b8d-b369-a5ec96273295#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/chicago-mann-erschiesst-achtjaehrige-auf-offener-strasse](https://www.spiegel.de/panorama/justiz/chicago-mann-erschiesst-achtjaehrige-auf-offener-strasse-a-1afa0b0f-51fb-40be-9fe1-5ddee5a913f5#ref=rss)
+* [https://www.spiegel.de/panorama/kalifornien-zwei-loeschhubschrauber-kollidieren-drei-tote](https://www.spiegel.de/panorama/kalifornien-zwei-loeschhubschrauber-kollidieren-drei-tote-a-85b793e6-2a2f-4516-ae71-7176196479da#ref=rss)
+### gekommen
 
-* [https://www.spiegel.de/sport/handball/nach-missbrauchsvorwuerfen-ex-bvb-handballcoach-andre-fuhr-findet-neuen-trainerjob-ohne-aufarbeitung-seines-falls](https://www.spiegel.de/sport/handball/nach-missbrauchsvorwuerfen-ex-bvb-handballcoach-andre-fuhr-findet-neuen-trainerjob-ohne-aufarbeitung-seines-falls-a-b224c2fd-1c0e-46ad-b3d7-68d779b75eeb#ref=rss)
-### falls
+* [https://www.spiegel.de/panorama/justiz/schottland-drei-bergwanderer-sterben-in-den-highlands](https://www.spiegel.de/panorama/justiz/schottland-drei-bergwanderer-sterben-in-den-highlands-a-9bd94878-994e-4b8d-b369-a5ec96273295#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/chicago-mann-erschiesst-achtjaehrige-auf-offener-strasse](https://www.spiegel.de/panorama/justiz/chicago-mann-erschiesst-achtjaehrige-auf-offener-strasse-a-1afa0b0f-51fb-40be-9fe1-5ddee5a913f5#ref=rss)
+* [https://www.spiegel.de/panorama/kalifornien-zwei-loeschhubschrauber-kollidieren-drei-tote](https://www.spiegel.de/panorama/kalifornien-zwei-loeschhubschrauber-kollidieren-drei-tote-a-85b793e6-2a2f-4516-ae71-7176196479da#ref=rss)
+### dänemark
 
-* [https://www.spiegel.de/sport/handball/nach-missbrauchsvorwuerfen-ex-bvb-handballcoach-andre-fuhr-findet-neuen-trainerjob-ohne-aufarbeitung-seines-falls](https://www.spiegel.de/sport/handball/nach-missbrauchsvorwuerfen-ex-bvb-handballcoach-andre-fuhr-findet-neuen-trainerjob-ohne-aufarbeitung-seines-falls-a-b224c2fd-1c0e-46ad-b3d7-68d779b75eeb#ref=rss)
-### monaten
+* [https://www.spiegel.de/kultur/der-islam-und-das-feuer-als-muslime-einen-koran-verbrannten](https://www.spiegel.de/kultur/der-islam-und-das-feuer-als-muslime-einen-koran-verbrannten-a-883400c8-9bfd-43a3-90ab-6d85a4405ff9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-australien-bezwingt-daenemark-im-achtelfinale](https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-australien-bezwingt-daenemark-im-achtelfinale-a-4b74e94d-da10-4e12-aead-2e64def4a189#ref=rss)
+### erste
 
-* [https://www.spiegel.de/sport/handball/nach-missbrauchsvorwuerfen-ex-bvb-handballcoach-andre-fuhr-findet-neuen-trainerjob-ohne-aufarbeitung-seines-falls](https://www.spiegel.de/sport/handball/nach-missbrauchsvorwuerfen-ex-bvb-handballcoach-andre-fuhr-findet-neuen-trainerjob-ohne-aufarbeitung-seines-falls-a-b224c2fd-1c0e-46ad-b3d7-68d779b75eeb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-scheitert-mit-antrag-auf-portoerhoehung](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-scheitert-mit-antrag-auf-portoerhoehung-a-342bff42-5bcb-4be0-bf65-e65b2993fe68#ref=rss)
-### borussia
+* [https://www.spiegel.de/kultur/der-islam-und-das-feuer-als-muslime-einen-koran-verbrannten](https://www.spiegel.de/kultur/der-islam-und-das-feuer-als-muslime-einen-koran-verbrannten-a-883400c8-9bfd-43a3-90ab-6d85a4405ff9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/russland-will-am-freitag-laut-roskosmos-erste-mondmission-seit-1976-starten](https://www.spiegel.de/wissenschaft/weltall/russland-will-am-freitag-laut-roskosmos-erste-mondmission-seit-1976-starten-a-babf6dca-4226-43f2-96fe-2351568a5bce#ref=rss)
+### uruguay
 
-* [https://www.spiegel.de/sport/handball/nach-missbrauchsvorwuerfen-ex-bvb-handballcoach-andre-fuhr-findet-neuen-trainerjob-ohne-aufarbeitung-seines-falls](https://www.spiegel.de/sport/handball/nach-missbrauchsvorwuerfen-ex-bvb-handballcoach-andre-fuhr-findet-neuen-trainerjob-ohne-aufarbeitung-seines-falls-a-b224c2fd-1c0e-46ad-b3d7-68d779b75eeb#ref=rss)
-* [https://www.spiegel.de/sport/fussball/erst-kritisiert-dann-gefeiert-bvb-neuzugang-felix-nmecha-trifft-doppelt-bei-heimdebuet](https://www.spiegel.de/sport/fussball/erst-kritisiert-dann-gefeiert-bvb-neuzugang-felix-nmecha-trifft-doppelt-bei-heimdebuet-a-e5846d87-b39a-48dc-bcbd-c44bf0313882#ref=rss)
-### dortmund
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wasserknappheit-in-uruguay](https://www.spiegel.de/politik/deutschland/news-des-tages-wasserknappheit-in-uruguay-a-682012d6-30ff-4b21-a4d6-778e1248d18a#ref=rss)
+* [https://www.spiegel.de/ausland/wasserknappheit-in-uruguay-wie-der-millionenstadt-montevideo-das-trinkwasser-ausging](https://www.spiegel.de/ausland/wasserknappheit-in-uruguay-wie-der-millionenstadt-montevideo-das-trinkwasser-ausging-a-6f8331d2-6fb9-4f2c-a3bb-d19a637c02b1#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/sport/handball/nach-missbrauchsvorwuerfen-ex-bvb-handballcoach-andre-fuhr-findet-neuen-trainerjob-ohne-aufarbeitung-seines-falls](https://www.spiegel.de/sport/handball/nach-missbrauchsvorwuerfen-ex-bvb-handballcoach-andre-fuhr-findet-neuen-trainerjob-ohne-aufarbeitung-seines-falls-a-b224c2fd-1c0e-46ad-b3d7-68d779b75eeb#ref=rss)
-* [https://www.spiegel.de/sport/fussball/erst-kritisiert-dann-gefeiert-bvb-neuzugang-felix-nmecha-trifft-doppelt-bei-heimdebuet](https://www.spiegel.de/sport/fussball/erst-kritisiert-dann-gefeiert-bvb-neuzugang-felix-nmecha-trifft-doppelt-bei-heimdebuet-a-e5846d87-b39a-48dc-bcbd-c44bf0313882#ref=rss)
-### packungen
+* [https://www.spiegel.de/panorama/justiz/frankreich-mann-aus-deutschland-soll-seine-frau-ueber-jahre-gefangen-gehalten-und-gefoltert-haben](https://www.spiegel.de/panorama/justiz/frankreich-mann-aus-deutschland-soll-seine-frau-ueber-jahre-gefangen-gehalten-und-gefoltert-haben-a-10a2c295-bccc-4e14-9b9e-578fdc0e8020#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/kaiserslautern-40-jaehriger-soll-seine-vermieterin-umgebracht-haben](https://www.spiegel.de/panorama/justiz/kaiserslautern-40-jaehriger-soll-seine-vermieterin-umgebracht-haben-a-f88ad3be-79cf-4b4a-9ec6-a097eba34d7d#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/panorama/nussallergie-eurowings-passagierin-mit-schwerer-allergie-kauft-alle-packungen-erdnuesse-auf-flug-von-deutschland-nach-grossbritannien](https://www.spiegel.de/panorama/nussallergie-eurowings-passagierin-mit-schwerer-allergie-kauft-alle-packungen-erdnuesse-auf-flug-von-deutschland-nach-grossbritannien-a-fcbc9135-59bd-4dec-8f5f-f72929e3e907#ref=rss)
-### erdnüsse
+* [https://www.spiegel.de/panorama/justiz/frankreich-mann-aus-deutschland-soll-seine-frau-ueber-jahre-gefangen-gehalten-und-gefoltert-haben](https://www.spiegel.de/panorama/justiz/frankreich-mann-aus-deutschland-soll-seine-frau-ueber-jahre-gefangen-gehalten-und-gefoltert-haben-a-10a2c295-bccc-4e14-9b9e-578fdc0e8020#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/russland-will-am-freitag-laut-roskosmos-erste-mondmission-seit-1976-starten](https://www.spiegel.de/wissenschaft/weltall/russland-will-am-freitag-laut-roskosmos-erste-mondmission-seit-1976-starten-a-babf6dca-4226-43f2-96fe-2351568a5bce#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/weitere-chip-fabrik-in-ostdeutschland-tsmc-werk-soll-bei-dresden-entstehen](https://www.spiegel.de/wirtschaft/unternehmen/weitere-chip-fabrik-in-ostdeutschland-tsmc-werk-soll-bei-dresden-entstehen-a-7f6278e0-8d8c-44f1-b755-ee3546678924#ref=rss)
+### vier
 
-* [https://www.spiegel.de/panorama/nussallergie-eurowings-passagierin-mit-schwerer-allergie-kauft-alle-packungen-erdnuesse-auf-flug-von-deutschland-nach-grossbritannien](https://www.spiegel.de/panorama/nussallergie-eurowings-passagierin-mit-schwerer-allergie-kauft-alle-packungen-erdnuesse-auf-flug-von-deutschland-nach-grossbritannien-a-fcbc9135-59bd-4dec-8f5f-f72929e3e907#ref=rss)
-### euro
+* [https://www.spiegel.de/panorama/justiz/frankfurt-staatsanwaltschaft-will-wegen-missbrauchsverdacht-in-frankfurter-kitas-ermitteln](https://www.spiegel.de/panorama/justiz/frankfurt-staatsanwaltschaft-will-wegen-missbrauchsverdacht-in-frankfurter-kitas-ermitteln-a-328aafc1-c224-4ee8-bde6-726129551d47#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/chicago-mann-erschiesst-achtjaehrige-auf-offener-strasse](https://www.spiegel.de/panorama/justiz/chicago-mann-erschiesst-achtjaehrige-auf-offener-strasse-a-1afa0b0f-51fb-40be-9fe1-5ddee5a913f5#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/panorama/nussallergie-eurowings-passagierin-mit-schwerer-allergie-kauft-alle-packungen-erdnuesse-auf-flug-von-deutschland-nach-grossbritannien](https://www.spiegel.de/panorama/nussallergie-eurowings-passagierin-mit-schwerer-allergie-kauft-alle-packungen-erdnuesse-auf-flug-von-deutschland-nach-grossbritannien-a-fcbc9135-59bd-4dec-8f5f-f72929e3e907#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/windkraft-beschert-siemens-milliarden-verlust](https://www.spiegel.de/wirtschaft/unternehmen/windkraft-beschert-siemens-milliarden-verlust-a-de9f8acf-27bc-4e12-9134-459f588a45a4#ref=rss)
-### reaktion
-
-* [https://www.spiegel.de/panorama/nussallergie-eurowings-passagierin-mit-schwerer-allergie-kauft-alle-packungen-erdnuesse-auf-flug-von-deutschland-nach-grossbritannien](https://www.spiegel.de/panorama/nussallergie-eurowings-passagierin-mit-schwerer-allergie-kauft-alle-packungen-erdnuesse-auf-flug-von-deutschland-nach-grossbritannien-a-fcbc9135-59bd-4dec-8f5f-f72929e3e907#ref=rss)
-### slowenien
-
-* [https://www.spiegel.de/panorama/slowenien-bittet-nato-wegen-ueberschwemmungen-um-hilfe](https://www.spiegel.de/panorama/slowenien-bittet-nato-wegen-ueberschwemmungen-um-hilfe-a-a303428b-22d9-4dd3-ac59-5bdb7e7e7eda#ref=rss)
-### nato
-
-* [https://www.spiegel.de/panorama/slowenien-bittet-nato-wegen-ueberschwemmungen-um-hilfe](https://www.spiegel.de/panorama/slowenien-bittet-nato-wegen-ueberschwemmungen-um-hilfe-a-a303428b-22d9-4dd3-ac59-5bdb7e7e7eda#ref=rss)
-### hilfe
-
-* [https://www.spiegel.de/panorama/slowenien-bittet-nato-wegen-ueberschwemmungen-um-hilfe](https://www.spiegel.de/panorama/slowenien-bittet-nato-wegen-ueberschwemmungen-um-hilfe-a-a303428b-22d9-4dd3-ac59-5bdb7e7e7eda#ref=rss)
-### elon
-
-* [https://www.spiegel.de/netzwelt/apps/elon-musk-und-mark-zuckerberg-so-provozieren-sie-sich-vor-dem-kampf](https://www.spiegel.de/netzwelt/apps/elon-musk-und-mark-zuckerberg-so-provozieren-sie-sich-vor-dem-kampf-a-0bed3184-d90c-4411-b6cb-499c456390bb#ref=rss)
-### musk
-
-* [https://www.spiegel.de/netzwelt/apps/elon-musk-und-mark-zuckerberg-so-provozieren-sie-sich-vor-dem-kampf](https://www.spiegel.de/netzwelt/apps/elon-musk-und-mark-zuckerberg-so-provozieren-sie-sich-vor-dem-kampf-a-0bed3184-d90c-4411-b6cb-499c456390bb#ref=rss)
-### mark
-
-* [https://www.spiegel.de/netzwelt/apps/elon-musk-und-mark-zuckerberg-so-provozieren-sie-sich-vor-dem-kampf](https://www.spiegel.de/netzwelt/apps/elon-musk-und-mark-zuckerberg-so-provozieren-sie-sich-vor-dem-kampf-a-0bed3184-d90c-4411-b6cb-499c456390bb#ref=rss)
-### zuckerberg
-
-* [https://www.spiegel.de/netzwelt/apps/elon-musk-und-mark-zuckerberg-so-provozieren-sie-sich-vor-dem-kampf](https://www.spiegel.de/netzwelt/apps/elon-musk-und-mark-zuckerberg-so-provozieren-sie-sich-vor-dem-kampf-a-0bed3184-d90c-4411-b6cb-499c456390bb#ref=rss)
-### wochen
-
-* [https://www.spiegel.de/netzwelt/apps/elon-musk-und-mark-zuckerberg-so-provozieren-sie-sich-vor-dem-kampf](https://www.spiegel.de/netzwelt/apps/elon-musk-und-mark-zuckerberg-so-provozieren-sie-sich-vor-dem-kampf-a-0bed3184-d90c-4411-b6cb-499c456390bb#ref=rss)
-* [https://www.spiegel.de/kultur/kino/barbie-hat-eine-milliarde-us-dollar-weltweit-eingespielt](https://www.spiegel.de/kultur/kino/barbie-hat-eine-milliarde-us-dollar-weltweit-eingespielt-a-61b0c5f7-e354-4ce9-a021-8c3305a29ff7#ref=rss)
-### behörden
-
-* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-russland-beschiesst-cherson-ukraine-meldet-eine-tote](https://www.spiegel.de/ausland/ukraine-russland-news-heute-russland-beschiesst-cherson-ukraine-meldet-eine-tote-a-3f9becd6-2abf-4b10-98e8-ed7c029f011f#ref=rss)
-* [https://www.spiegel.de/panorama/portugal-und-spanien-waldbraende-zerstoeren-tausende-hektar-land](https://www.spiegel.de/panorama/portugal-und-spanien-waldbraende-zerstoeren-tausende-hektar-land-a-33800c93-1c7e-4ffe-9f6b-e066eeb24492#ref=rss)
-### melden
-
-* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-russland-beschiesst-cherson-ukraine-meldet-eine-tote](https://www.spiegel.de/ausland/ukraine-russland-news-heute-russland-beschiesst-cherson-ukraine-meldet-eine-tote-a-3f9becd6-2abf-4b10-98e8-ed7c029f011f#ref=rss)
-* [https://www.spiegel.de/panorama/portugal-und-spanien-waldbraende-zerstoeren-tausende-hektar-land](https://www.spiegel.de/panorama/portugal-und-spanien-waldbraende-zerstoeren-tausende-hektar-land-a-33800c93-1c7e-4ffe-9f6b-e066eeb24492#ref=rss)
-### travemünde
-
-* [https://www.spiegel.de/panorama/travemuende-rettungskraefte-stellen-suche-nach-vermisstem-segler-auf-der-ostsee-nach-drei-stunden-ein](https://www.spiegel.de/panorama/travemuende-rettungskraefte-stellen-suche-nach-vermisstem-segler-auf-der-ostsee-nach-drei-stunden-ein-a-3632713c-949c-4fd5-bb08-0a9c5c83890d#ref=rss)
-### rettungskräfte
-
-* [https://www.spiegel.de/panorama/travemuende-rettungskraefte-stellen-suche-nach-vermisstem-segler-auf-der-ostsee-nach-drei-stunden-ein](https://www.spiegel.de/panorama/travemuende-rettungskraefte-stellen-suche-nach-vermisstem-segler-auf-der-ostsee-nach-drei-stunden-ein-a-3632713c-949c-4fd5-bb08-0a9c5c83890d#ref=rss)
-### segler
-
-* [https://www.spiegel.de/panorama/travemuende-rettungskraefte-stellen-suche-nach-vermisstem-segler-auf-der-ostsee-nach-drei-stunden-ein](https://www.spiegel.de/panorama/travemuende-rettungskraefte-stellen-suche-nach-vermisstem-segler-auf-der-ostsee-nach-drei-stunden-ein-a-3632713c-949c-4fd5-bb08-0a9c5c83890d#ref=rss)
-### stunden
-
-* [https://www.spiegel.de/panorama/travemuende-rettungskraefte-stellen-suche-nach-vermisstem-segler-auf-der-ostsee-nach-drei-stunden-ein](https://www.spiegel.de/panorama/travemuende-rettungskraefte-stellen-suche-nach-vermisstem-segler-auf-der-ostsee-nach-drei-stunden-ein-a-3632713c-949c-4fd5-bb08-0a9c5c83890d#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/travemuende-rettungskraefte-stellen-suche-nach-vermisstem-segler-auf-der-ostsee-nach-drei-stunden-ein](https://www.spiegel.de/panorama/travemuende-rettungskraefte-stellen-suche-nach-vermisstem-segler-auf-der-ostsee-nach-drei-stunden-ein-a-3632713c-949c-4fd5-bb08-0a9c5c83890d#ref=rss)
-* [https://www.spiegel.de/kultur/kino/barbie-hat-eine-milliarde-us-dollar-weltweit-eingespielt](https://www.spiegel.de/kultur/kino/barbie-hat-eine-milliarde-us-dollar-weltweit-eingespielt-a-61b0c5f7-e354-4ce9-a021-8c3305a29ff7#ref=rss)
-### gut
-
-* [https://www.spiegel.de/stil/rezept-fuer-sternschnuppen-smoerrebroed](https://www.spiegel.de/stil/rezept-fuer-sternschnuppen-smoerrebroed-a-f2419c8c-22ac-4979-81f6-fc7fcc01ca2e#ref=rss)
-* [https://www.spiegel.de/kultur/kino/barbie-hat-eine-milliarde-us-dollar-weltweit-eingespielt](https://www.spiegel.de/kultur/kino/barbie-hat-eine-milliarde-us-dollar-weltweit-eingespielt-a-61b0c5f7-e354-4ce9-a021-8c3305a29ff7#ref=rss)
-### vučić
-
-* [https://www.spiegel.de/ausland/aleksandar-vucic-in-serbien-wie-er-in-kosovo-montenegro-und-bosnien-zuendelt](https://www.spiegel.de/ausland/aleksandar-vucic-in-serbien-wie-er-in-kosovo-montenegro-und-bosnien-zuendelt-a-2b2a3e42-4124-4214-812f-8398876179c5#ref=rss)
-### mittelschicht
-
-* [https://www.spiegel.de/wirtschaft/ifo-studie-mittelschicht-schrumpft-weiter](https://www.spiegel.de/wirtschaft/ifo-studie-mittelschicht-schrumpft-weiter-a-f29aa807-fefb-4429-a7d4-238d4724c38f#ref=rss)
-### post
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-scheitert-mit-antrag-auf-portoerhoehung](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-scheitert-mit-antrag-auf-portoerhoehung-a-342bff42-5bcb-4be0-bf65-e65b2993fe68#ref=rss)
-### marinepatrouille
-
-* [https://www.spiegel.de/ausland/usa-reagieren-mit-kriegsschiffen-auf-marienpatrouille-von-china-und-russland](https://www.spiegel.de/ausland/usa-reagieren-mit-kriegsschiffen-auf-marienpatrouille-von-china-und-russland-a-be58f6fb-3f89-4e4e-9f87-a0f992437242#ref=rss)
-### china
-
-* [https://www.spiegel.de/ausland/usa-reagieren-mit-kriegsschiffen-auf-marienpatrouille-von-china-und-russland](https://www.spiegel.de/ausland/usa-reagieren-mit-kriegsschiffen-auf-marienpatrouille-von-china-und-russland-a-be58f6fb-3f89-4e4e-9f87-a0f992437242#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/chicago-mann-erschiesst-achtjaehrige-auf-offener-strasse](https://www.spiegel.de/panorama/justiz/chicago-mann-erschiesst-achtjaehrige-auf-offener-strasse-a-1afa0b0f-51fb-40be-9fe1-5ddee5a913f5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-will-grenzpolizei-nach-bayerischem-vorbild-ausweiten](https://www.spiegel.de/politik/deutschland/friedrich-merz-will-grenzpolizei-nach-bayerischem-vorbild-ausweiten-a-d7d6f90d-164d-43a5-88b2-a535cc33abea#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/russland-will-am-freitag-laut-roskosmos-erste-mondmission-seit-1976-starten](https://www.spiegel.de/wissenschaft/weltall/russland-will-am-freitag-laut-roskosmos-erste-mondmission-seit-1976-starten-a-babf6dca-4226-43f2-96fe-2351568a5bce#ref=rss)
 ### russland
 
-* [https://www.spiegel.de/ausland/usa-reagieren-mit-kriegsschiffen-auf-marienpatrouille-von-china-und-russland](https://www.spiegel.de/ausland/usa-reagieren-mit-kriegsschiffen-auf-marienpatrouille-von-china-und-russland-a-be58f6fb-3f89-4e4e-9f87-a0f992437242#ref=rss)
-### barbie
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-russland-beschiesst-cherson-ukraine-meldet-eine-tote](https://www.spiegel.de/ausland/ukraine-russland-news-heute-russland-beschiesst-cherson-ukraine-meldet-eine-tote-a-3f9becd6-2abf-4b10-98e8-ed7c029f011f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/russland-will-am-freitag-laut-roskosmos-erste-mondmission-seit-1976-starten](https://www.spiegel.de/wissenschaft/weltall/russland-will-am-freitag-laut-roskosmos-erste-mondmission-seit-1976-starten-a-babf6dca-4226-43f2-96fe-2351568a5bce#ref=rss)
+### jörg
 
-* [https://www.spiegel.de/kultur/kino/barbie-hat-eine-milliarde-us-dollar-weltweit-eingespielt](https://www.spiegel.de/kultur/kino/barbie-hat-eine-milliarde-us-dollar-weltweit-eingespielt-a-61b0c5f7-e354-4ce9-a021-8c3305a29ff7#ref=rss)
-### milliarde
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-joerg-kachelmann-ueber-den-sturm-an-den-kuesten](https://www.spiegel.de/panorama/wetter-in-deutschland-joerg-kachelmann-ueber-den-sturm-an-den-kuesten-a-104251cb-5da7-46d6-b4c1-8ccb3783a0fd#ref=rss)
+### kachelmann
 
-* [https://www.spiegel.de/kultur/kino/barbie-hat-eine-milliarde-us-dollar-weltweit-eingespielt](https://www.spiegel.de/kultur/kino/barbie-hat-eine-milliarde-us-dollar-weltweit-eingespielt-a-61b0c5f7-e354-4ce9-a021-8c3305a29ff7#ref=rss)
-### usdollar
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-joerg-kachelmann-ueber-den-sturm-an-den-kuesten](https://www.spiegel.de/panorama/wetter-in-deutschland-joerg-kachelmann-ueber-den-sturm-an-den-kuesten-a-104251cb-5da7-46d6-b4c1-8ccb3783a0fd#ref=rss)
+### küsten
 
-* [https://www.spiegel.de/kultur/kino/barbie-hat-eine-milliarde-us-dollar-weltweit-eingespielt](https://www.spiegel.de/kultur/kino/barbie-hat-eine-milliarde-us-dollar-weltweit-eingespielt-a-61b0c5f7-e354-4ce9-a021-8c3305a29ff7#ref=rss)
-### weltweit
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-joerg-kachelmann-ueber-den-sturm-an-den-kuesten](https://www.spiegel.de/panorama/wetter-in-deutschland-joerg-kachelmann-ueber-den-sturm-an-den-kuesten-a-104251cb-5da7-46d6-b4c1-8ccb3783a0fd#ref=rss)
+### große
 
-* [https://www.spiegel.de/kultur/kino/barbie-hat-eine-milliarde-us-dollar-weltweit-eingespielt](https://www.spiegel.de/kultur/kino/barbie-hat-eine-milliarde-us-dollar-weltweit-eingespielt-a-61b0c5f7-e354-4ce9-a021-8c3305a29ff7#ref=rss)
-### eingespielt
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-joerg-kachelmann-ueber-den-sturm-an-den-kuesten](https://www.spiegel.de/panorama/wetter-in-deutschland-joerg-kachelmann-ueber-den-sturm-an-den-kuesten-a-104251cb-5da7-46d6-b4c1-8ccb3783a0fd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/weitere-chip-fabrik-in-ostdeutschland-tsmc-werk-soll-bei-dresden-entstehen](https://www.spiegel.de/wirtschaft/unternehmen/weitere-chip-fabrik-in-ostdeutschland-tsmc-werk-soll-bei-dresden-entstehen-a-7f6278e0-8d8c-44f1-b755-ee3546678924#ref=rss)
+### erklärt
 
-* [https://www.spiegel.de/kultur/kino/barbie-hat-eine-milliarde-us-dollar-weltweit-eingespielt](https://www.spiegel.de/kultur/kino/barbie-hat-eine-milliarde-us-dollar-weltweit-eingespielt-a-61b0c5f7-e354-4ce9-a021-8c3305a29ff7#ref=rss)
-### kambodscha
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-joerg-kachelmann-ueber-den-sturm-an-den-kuesten](https://www.spiegel.de/panorama/wetter-in-deutschland-joerg-kachelmann-ueber-den-sturm-an-den-kuesten-a-104251cb-5da7-46d6-b4c1-8ccb3783a0fd#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/slowenien-so-erklaert-ein-meteorologe-die-ueberschwemmungen](https://www.spiegel.de/wissenschaft/natur/slowenien-so-erklaert-ein-meteorologe-die-ueberschwemmungen-a-ba98be0b-2c8f-42b5-a3be-fcf4676fc3b6#ref=rss)
+### desantis
 
-* [https://www.spiegel.de/ausland/kambodscha-sohn-von-langjaehrigem-ministerpraesident-neuer-regierungschef](https://www.spiegel.de/ausland/kambodscha-sohn-von-langjaehrigem-ministerpraesident-neuer-regierungschef-a-24d2001e-3277-438f-aeaa-9f202361a640#ref=rss)
-### sohn
+* [https://www.spiegel.de/ausland/ron-desantis-mokiert-sich-ueber-donald-trumps-wahlniederlage](https://www.spiegel.de/ausland/ron-desantis-mokiert-sich-ueber-donald-trumps-wahlniederlage-a-54da110f-ca5e-47f2-87d3-126266257dba#ref=rss)
+### highlands
 
-* [https://www.spiegel.de/ausland/kambodscha-sohn-von-langjaehrigem-ministerpraesident-neuer-regierungschef](https://www.spiegel.de/ausland/kambodscha-sohn-von-langjaehrigem-ministerpraesident-neuer-regierungschef-a-24d2001e-3277-438f-aeaa-9f202361a640#ref=rss)
-### hun
+* [https://www.spiegel.de/panorama/justiz/schottland-drei-bergwanderer-sterben-in-den-highlands](https://www.spiegel.de/panorama/justiz/schottland-drei-bergwanderer-sterben-in-den-highlands-a-9bd94878-994e-4b8d-b369-a5ec96273295#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/ausland/kambodscha-sohn-von-langjaehrigem-ministerpraesident-neuer-regierungschef](https://www.spiegel.de/ausland/kambodscha-sohn-von-langjaehrigem-ministerpraesident-neuer-regierungschef-a-24d2001e-3277-438f-aeaa-9f202361a640#ref=rss)
-### lohnen
+* [https://www.spiegel.de/panorama/justiz/schottland-drei-bergwanderer-sterben-in-den-highlands](https://www.spiegel.de/panorama/justiz/schottland-drei-bergwanderer-sterben-in-den-highlands-a-9bd94878-994e-4b8d-b369-a5ec96273295#ref=rss)
+* [https://www.spiegel.de/panorama/kalifornien-zwei-loeschhubschrauber-kollidieren-drei-tote](https://www.spiegel.de/panorama/kalifornien-zwei-loeschhubschrauber-kollidieren-drei-tote-a-85b793e6-2a2f-4516-ae71-7176196479da#ref=rss)
+### waren
 
-* [https://www.spiegel.de/start/mitarbeiter-benefits-und-geldwerte-vorteile-welche-sich-wirklich-lohnen](https://www.spiegel.de/start/mitarbeiter-benefits-und-geldwerte-vorteile-welche-sich-wirklich-lohnen-a-883ae335-7ce1-41d2-8301-5348a9cba59c#ref=rss)
-### juli
-
-* [https://www.spiegel.de/wirtschaft/industrie-hat-im-juli-erneut-weniger-produziert](https://www.spiegel.de/wirtschaft/industrie-hat-im-juli-erneut-weniger-produziert-a-43dc86ea-6c11-4055-8c73-259d8f7c6b5d#ref=rss)
-### bvbneuzugang
-
-* [https://www.spiegel.de/sport/fussball/erst-kritisiert-dann-gefeiert-bvb-neuzugang-felix-nmecha-trifft-doppelt-bei-heimdebuet](https://www.spiegel.de/sport/fussball/erst-kritisiert-dann-gefeiert-bvb-neuzugang-felix-nmecha-trifft-doppelt-bei-heimdebuet-a-e5846d87-b39a-48dc-bcbd-c44bf0313882#ref=rss)
-### felix
-
-* [https://www.spiegel.de/sport/fussball/erst-kritisiert-dann-gefeiert-bvb-neuzugang-felix-nmecha-trifft-doppelt-bei-heimdebuet](https://www.spiegel.de/sport/fussball/erst-kritisiert-dann-gefeiert-bvb-neuzugang-felix-nmecha-trifft-doppelt-bei-heimdebuet-a-e5846d87-b39a-48dc-bcbd-c44bf0313882#ref=rss)
-### nmecha
-
-* [https://www.spiegel.de/sport/fussball/erst-kritisiert-dann-gefeiert-bvb-neuzugang-felix-nmecha-trifft-doppelt-bei-heimdebuet](https://www.spiegel.de/sport/fussball/erst-kritisiert-dann-gefeiert-bvb-neuzugang-felix-nmecha-trifft-doppelt-bei-heimdebuet-a-e5846d87-b39a-48dc-bcbd-c44bf0313882#ref=rss)
-### wuppertal
-
-* [https://www.spiegel.de/panorama/justiz/wuppertal-23-jaehriger-faehrt-mit-auto-auf-den-gehweg-vier-kinder-verletzt](https://www.spiegel.de/panorama/justiz/wuppertal-23-jaehriger-faehrt-mit-auto-auf-den-gehweg-vier-kinder-verletzt-a-195a6e68-358a-4415-adf8-bad8b8de70d4#ref=rss)
-### auto
-
-* [https://www.spiegel.de/panorama/justiz/wuppertal-23-jaehriger-faehrt-mit-auto-auf-den-gehweg-vier-kinder-verletzt](https://www.spiegel.de/panorama/justiz/wuppertal-23-jaehriger-faehrt-mit-auto-auf-den-gehweg-vier-kinder-verletzt-a-195a6e68-358a-4415-adf8-bad8b8de70d4#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/panorama/justiz/wuppertal-23-jaehriger-faehrt-mit-auto-auf-den-gehweg-vier-kinder-verletzt](https://www.spiegel.de/panorama/justiz/wuppertal-23-jaehriger-faehrt-mit-auto-auf-den-gehweg-vier-kinder-verletzt-a-195a6e68-358a-4415-adf8-bad8b8de70d4#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/panorama/justiz/wuppertal-23-jaehriger-faehrt-mit-auto-auf-den-gehweg-vier-kinder-verletzt](https://www.spiegel.de/panorama/justiz/wuppertal-23-jaehriger-faehrt-mit-auto-auf-den-gehweg-vier-kinder-verletzt-a-195a6e68-358a-4415-adf8-bad8b8de70d4#ref=rss)
-### hamas
-
-* [https://www.spiegel.de/ausland/hamas-verurteilt-sieben-maenner-wegen-kollaboration-mit-israel-zum-tode](https://www.spiegel.de/ausland/hamas-verurteilt-sieben-maenner-wegen-kollaboration-mit-israel-zum-tode-a-4fe42d50-8af6-42a0-bf82-c3cb520b3c49#ref=rss)
-### sieben
-
-* [https://www.spiegel.de/ausland/hamas-verurteilt-sieben-maenner-wegen-kollaboration-mit-israel-zum-tode](https://www.spiegel.de/ausland/hamas-verurteilt-sieben-maenner-wegen-kollaboration-mit-israel-zum-tode-a-4fe42d50-8af6-42a0-bf82-c3cb520b3c49#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/hamas-verurteilt-sieben-maenner-wegen-kollaboration-mit-israel-zum-tode](https://www.spiegel.de/ausland/hamas-verurteilt-sieben-maenner-wegen-kollaboration-mit-israel-zum-tode-a-4fe42d50-8af6-42a0-bf82-c3cb520b3c49#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/schottland-drei-bergwanderer-sterben-in-den-highlands](https://www.spiegel.de/panorama/justiz/schottland-drei-bergwanderer-sterben-in-den-highlands-a-9bd94878-994e-4b8d-b369-a5ec96273295#ref=rss)
+* [https://www.spiegel.de/panorama/kalifornien-zwei-loeschhubschrauber-kollidieren-drei-tote](https://www.spiegel.de/panorama/kalifornien-zwei-loeschhubschrauber-kollidieren-drei-tote-a-85b793e6-2a2f-4516-ae71-7176196479da#ref=rss)
 ### siemens
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/windkraft-beschert-siemens-milliarden-verlust](https://www.spiegel.de/wirtschaft/unternehmen/windkraft-beschert-siemens-milliarden-verlust-a-de9f8acf-27bc-4e12-9134-459f588a45a4#ref=rss)
-### polizei
+* [https://www.spiegel.de/wirtschaft/unternehmen/siemens-energy-mit-milliardenverlust-warum-europas-windindustrie-am-abgrund-steht](https://www.spiegel.de/wirtschaft/unternehmen/siemens-energy-mit-milliardenverlust-warum-europas-windindustrie-am-abgrund-steht-a-033c6c3b-4698-4009-b7ac-2b248057b26a#ref=rss)
+### energy
 
-* [https://www.spiegel.de/panorama/nordrhein-westfalen-polizei-will-fuer-blackout-notfallvorrat-anlegen-mit-hunderttausenden-keksen](https://www.spiegel.de/panorama/nordrhein-westfalen-polizei-will-fuer-blackout-notfallvorrat-anlegen-mit-hunderttausenden-keksen-a-2488f84a-170c-4ff9-b70e-01237967506f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/siemens-energy-mit-milliardenverlust-warum-europas-windindustrie-am-abgrund-steht](https://www.spiegel.de/wirtschaft/unternehmen/siemens-energy-mit-milliardenverlust-warum-europas-windindustrie-am-abgrund-steht-a-033c6c3b-4698-4009-b7ac-2b248057b26a#ref=rss)
+### news
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wasserknappheit-in-uruguay](https://www.spiegel.de/politik/deutschland/news-des-tages-wasserknappheit-in-uruguay-a-682012d6-30ff-4b21-a4d6-778e1248d18a#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-russland-beschiesst-cherson-ukraine-meldet-eine-tote](https://www.spiegel.de/ausland/ukraine-russland-news-heute-russland-beschiesst-cherson-ukraine-meldet-eine-tote-a-3f9becd6-2abf-4b10-98e8-ed7c029f011f#ref=rss)
+### wasserknappheit
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wasserknappheit-in-uruguay](https://www.spiegel.de/politik/deutschland/news-des-tages-wasserknappheit-in-uruguay-a-682012d6-30ff-4b21-a4d6-778e1248d18a#ref=rss)
+* [https://www.spiegel.de/ausland/wasserknappheit-in-uruguay-wie-der-millionenstadt-montevideo-das-trinkwasser-ausging](https://www.spiegel.de/ausland/wasserknappheit-in-uruguay-wie-der-millionenstadt-montevideo-das-trinkwasser-ausging-a-6f8331d2-6fb9-4f2c-a3bb-d19a637c02b1#ref=rss)
+### niger
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wasserknappheit-in-uruguay](https://www.spiegel.de/politik/deutschland/news-des-tages-wasserknappheit-in-uruguay-a-682012d6-30ff-4b21-a4d6-778e1248d18a#ref=rss)
+### kindeswohl
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wasserknappheit-in-uruguay](https://www.spiegel.de/politik/deutschland/news-des-tages-wasserknappheit-in-uruguay-a-682012d6-30ff-4b21-a4d6-778e1248d18a#ref=rss)
+### montevideo
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wasserknappheit-in-uruguay](https://www.spiegel.de/politik/deutschland/news-des-tages-wasserknappheit-in-uruguay-a-682012d6-30ff-4b21-a4d6-778e1248d18a#ref=rss)
+* [https://www.spiegel.de/ausland/wasserknappheit-in-uruguay-wie-der-millionenstadt-montevideo-das-trinkwasser-ausging](https://www.spiegel.de/ausland/wasserknappheit-in-uruguay-wie-der-millionenstadt-montevideo-das-trinkwasser-ausging-a-6f8331d2-6fb9-4f2c-a3bb-d19a637c02b1#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wasserknappheit-in-uruguay](https://www.spiegel.de/politik/deutschland/news-des-tages-wasserknappheit-in-uruguay-a-682012d6-30ff-4b21-a4d6-778e1248d18a#ref=rss)
+* [https://www.spiegel.de/ausland/rishi-sunak-london-kappt-gespraechskanal-zu-greenpeace-nach-protestaktion](https://www.spiegel.de/ausland/rishi-sunak-london-kappt-gespraechskanal-zu-greenpeace-nach-protestaktion-a-f9a9b867-d448-4770-98db-cc936d7c1711#ref=rss)
+### slowenien
+
+* [https://www.spiegel.de/wissenschaft/natur/slowenien-so-erklaert-ein-meteorologe-die-ueberschwemmungen](https://www.spiegel.de/wissenschaft/natur/slowenien-so-erklaert-ein-meteorologe-die-ueberschwemmungen-a-ba98be0b-2c8f-42b5-a3be-fcf4676fc3b6#ref=rss)
+### überschwemmungen
+
+* [https://www.spiegel.de/wissenschaft/natur/slowenien-so-erklaert-ein-meteorologe-die-ueberschwemmungen](https://www.spiegel.de/wissenschaft/natur/slowenien-so-erklaert-ein-meteorologe-die-ueberschwemmungen-a-ba98be0b-2c8f-42b5-a3be-fcf4676fc3b6#ref=rss)
+### frankfurt
+
+* [https://www.spiegel.de/panorama/justiz/frankfurt-staatsanwaltschaft-will-wegen-missbrauchsverdacht-in-frankfurter-kitas-ermitteln](https://www.spiegel.de/panorama/justiz/frankfurt-staatsanwaltschaft-will-wegen-missbrauchsverdacht-in-frankfurter-kitas-ermitteln-a-328aafc1-c224-4ee8-bde6-726129551d47#ref=rss)
+### laut
+
+* [https://www.spiegel.de/panorama/justiz/frankfurt-staatsanwaltschaft-will-wegen-missbrauchsverdacht-in-frankfurter-kitas-ermitteln](https://www.spiegel.de/panorama/justiz/frankfurt-staatsanwaltschaft-will-wegen-missbrauchsverdacht-in-frankfurter-kitas-ermitteln-a-328aafc1-c224-4ee8-bde6-726129551d47#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-verleugnet-laut-verfassungsschutz-die-wuerde-des-menschen](https://www.spiegel.de/politik/deutschland/afd-verleugnet-laut-verfassungsschutz-die-wuerde-des-menschen-a-4d6f8f5e-6011-47cc-b837-f754c0a8e919#ref=rss)
+### kristina
+
+* [https://www.spiegel.de/sport/olympia/olympische-spiele-gefluechtete-kristina-timanowskaja-darf-ab-sofort-fuer-polen-laufen](https://www.spiegel.de/sport/olympia/olympische-spiele-gefluechtete-kristina-timanowskaja-darf-ab-sofort-fuer-polen-laufen-a-88eb4956-8818-4b0f-b14b-2db58ab32189#ref=rss)
+### timanowskaja
+
+* [https://www.spiegel.de/sport/olympia/olympische-spiele-gefluechtete-kristina-timanowskaja-darf-ab-sofort-fuer-polen-laufen](https://www.spiegel.de/sport/olympia/olympische-spiele-gefluechtete-kristina-timanowskaja-darf-ab-sofort-fuer-polen-laufen-a-88eb4956-8818-4b0f-b14b-2db58ab32189#ref=rss)
+### polen
+
+* [https://www.spiegel.de/sport/olympia/olympische-spiele-gefluechtete-kristina-timanowskaja-darf-ab-sofort-fuer-polen-laufen](https://www.spiegel.de/sport/olympia/olympische-spiele-gefluechtete-kristina-timanowskaja-darf-ab-sofort-fuer-polen-laufen-a-88eb4956-8818-4b0f-b14b-2db58ab32189#ref=rss)
+### neue
+
+* [https://www.spiegel.de/sport/olympia/olympische-spiele-gefluechtete-kristina-timanowskaja-darf-ab-sofort-fuer-polen-laufen](https://www.spiegel.de/sport/olympia/olympische-spiele-gefluechtete-kristina-timanowskaja-darf-ab-sofort-fuer-polen-laufen-a-88eb4956-8818-4b0f-b14b-2db58ab32189#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-bringt-erstmals-asylsuchende-auf-lastkahn-unter](https://www.spiegel.de/ausland/grossbritannien-bringt-erstmals-asylsuchende-auf-lastkahn-unter-a-4f6ca188-5fc8-4459-aa1c-b0f04d5a6831#ref=rss)
+### sunak
+
+* [https://www.spiegel.de/ausland/rishi-sunak-london-kappt-gespraechskanal-zu-greenpeace-nach-protestaktion](https://www.spiegel.de/ausland/rishi-sunak-london-kappt-gespraechskanal-zu-greenpeace-nach-protestaktion-a-f9a9b867-d448-4770-98db-cc936d7c1711#ref=rss)
+### greenpeace
+
+* [https://www.spiegel.de/ausland/rishi-sunak-london-kappt-gespraechskanal-zu-greenpeace-nach-protestaktion](https://www.spiegel.de/ausland/rishi-sunak-london-kappt-gespraechskanal-zu-greenpeace-nach-protestaktion-a-f9a9b867-d448-4770-98db-cc936d7c1711#ref=rss)
+### britischen
+
+* [https://www.spiegel.de/ausland/rishi-sunak-london-kappt-gespraechskanal-zu-greenpeace-nach-protestaktion](https://www.spiegel.de/ausland/rishi-sunak-london-kappt-gespraechskanal-zu-greenpeace-nach-protestaktion-a-f9a9b867-d448-4770-98db-cc936d7c1711#ref=rss)
+### martin
+
+* [https://www.spiegel.de/kultur/urteil-zu-kippenbergers-paris-bar-muenchner-gericht-gibt-auftragsmaler-recht](https://www.spiegel.de/kultur/urteil-zu-kippenbergers-paris-bar-muenchner-gericht-gibt-auftragsmaler-recht-a-0cab3010-7ab8-45f0-a067-b4e31ea31d20#ref=rss)
+### paris
+
+* [https://www.spiegel.de/kultur/urteil-zu-kippenbergers-paris-bar-muenchner-gericht-gibt-auftragsmaler-recht](https://www.spiegel.de/kultur/urteil-zu-kippenbergers-paris-bar-muenchner-gericht-gibt-auftragsmaler-recht-a-0cab3010-7ab8-45f0-a067-b4e31ea31d20#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-kylian-mbappe-trainiert-weiterhin-nicht-mit-paris-saint-germain](https://www.spiegel.de/sport/fussball/fussball-kylian-mbappe-trainiert-weiterhin-nicht-mit-paris-saint-germain-a-b5cd7467-fb20-4c83-8a15-43997b92afc6#ref=rss)
+### werk
+
+* [https://www.spiegel.de/kultur/urteil-zu-kippenbergers-paris-bar-muenchner-gericht-gibt-auftragsmaler-recht](https://www.spiegel.de/kultur/urteil-zu-kippenbergers-paris-bar-muenchner-gericht-gibt-auftragsmaler-recht-a-0cab3010-7ab8-45f0-a067-b4e31ea31d20#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/weitere-chip-fabrik-in-ostdeutschland-tsmc-werk-soll-bei-dresden-entstehen](https://www.spiegel.de/wirtschaft/unternehmen/weitere-chip-fabrik-in-ostdeutschland-tsmc-werk-soll-bei-dresden-entstehen-a-7f6278e0-8d8c-44f1-b755-ee3546678924#ref=rss)
+### chicago
+
+* [https://www.spiegel.de/panorama/justiz/chicago-mann-erschiesst-achtjaehrige-auf-offener-strasse](https://www.spiegel.de/panorama/justiz/chicago-mann-erschiesst-achtjaehrige-auf-offener-strasse-a-1afa0b0f-51fb-40be-9fe1-5ddee5a913f5#ref=rss)
+### achtjährige
+
+* [https://www.spiegel.de/panorama/justiz/chicago-mann-erschiesst-achtjaehrige-auf-offener-strasse](https://www.spiegel.de/panorama/justiz/chicago-mann-erschiesst-achtjaehrige-auf-offener-strasse-a-1afa0b0f-51fb-40be-9fe1-5ddee5a913f5#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-will-grenzpolizei-nach-bayerischem-vorbild-ausweiten](https://www.spiegel.de/politik/deutschland/friedrich-merz-will-grenzpolizei-nach-bayerischem-vorbild-ausweiten-a-d7d6f90d-164d-43a5-88b2-a535cc33abea#ref=rss)
+### grenzpolizei
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-will-grenzpolizei-nach-bayerischem-vorbild-ausweiten](https://www.spiegel.de/politik/deutschland/friedrich-merz-will-grenzpolizei-nach-bayerischem-vorbild-ausweiten-a-d7d6f90d-164d-43a5-88b2-a535cc33abea#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-will-grenzpolizei-nach-bayerischem-vorbild-ausweiten](https://www.spiegel.de/politik/deutschland/friedrich-merz-will-grenzpolizei-nach-bayerischem-vorbild-ausweiten-a-d7d6f90d-164d-43a5-88b2-a535cc33abea#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-kylian-mbappe-trainiert-weiterhin-nicht-mit-paris-saint-germain](https://www.spiegel.de/sport/fussball/fussball-kylian-mbappe-trainiert-weiterhin-nicht-mit-paris-saint-germain-a-b5cd7467-fb20-4c83-8a15-43997b92afc6#ref=rss)
+### unter
+
+* [https://www.spiegel.de/ausland/grossbritannien-bringt-erstmals-asylsuchende-auf-lastkahn-unter](https://www.spiegel.de/ausland/grossbritannien-bringt-erstmals-asylsuchende-auf-lastkahn-unter-a-4f6ca188-5fc8-4459-aa1c-b0f04d5a6831#ref=rss)
+* [https://www.spiegel.de/ausland/wasserknappheit-in-uruguay-wie-der-millionenstadt-montevideo-das-trinkwasser-ausging](https://www.spiegel.de/ausland/wasserknappheit-in-uruguay-wie-der-millionenstadt-montevideo-das-trinkwasser-ausging-a-6f8331d2-6fb9-4f2c-a3bb-d19a637c02b1#ref=rss)
+### einsatz
+
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-russland-beschiesst-cherson-ukraine-meldet-eine-tote](https://www.spiegel.de/ausland/ukraine-russland-news-heute-russland-beschiesst-cherson-ukraine-meldet-eine-tote-a-3f9becd6-2abf-4b10-98e8-ed7c029f011f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/schweinswale-internationale-walfangkommission-warnt-vor-aussterben-kalifornischer-schweinswale](https://www.spiegel.de/wissenschaft/natur/schweinswale-internationale-walfangkommission-warnt-vor-aussterben-kalifornischer-schweinswale-a-b2a11779-f18a-44c5-b812-6551229c8467#ref=rss)
+### kalifornien
+
+* [https://www.spiegel.de/panorama/kalifornien-zwei-loeschhubschrauber-kollidieren-drei-tote](https://www.spiegel.de/panorama/kalifornien-zwei-loeschhubschrauber-kollidieren-drei-tote-a-85b793e6-2a2f-4516-ae71-7176196479da#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/schweinswale-internationale-walfangkommission-warnt-vor-aussterben-kalifornischer-schweinswale](https://www.spiegel.de/wissenschaft/natur/schweinswale-internationale-walfangkommission-warnt-vor-aussterben-kalifornischer-schweinswale-a-b2a11779-f18a-44c5-b812-6551229c8467#ref=rss)
+### einsatzkräfte
+
+* [https://www.spiegel.de/panorama/kalifornien-zwei-loeschhubschrauber-kollidieren-drei-tote](https://www.spiegel.de/panorama/kalifornien-zwei-loeschhubschrauber-kollidieren-drei-tote-a-85b793e6-2a2f-4516-ae71-7176196479da#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/kaiserslautern-40-jaehriger-soll-seine-vermieterin-umgebracht-haben](https://www.spiegel.de/panorama/justiz/kaiserslautern-40-jaehriger-soll-seine-vermieterin-umgebracht-haben-a-f88ad3be-79cf-4b4a-9ec6-a097eba34d7d#ref=rss)
+### mathieu
+
+* [https://www.spiegel.de/sport/mathieu-van-der-poel-wenn-der-weltmeister-an-der-tuer-klingelt-um-auf-die-toilette-zu-duerfen](https://www.spiegel.de/sport/mathieu-van-der-poel-wenn-der-weltmeister-an-der-tuer-klingelt-um-auf-die-toilette-zu-duerfen-a-dc981633-6c6e-4cf0-8ea4-10869239cbb0#ref=rss)
+### van
+
+* [https://www.spiegel.de/sport/mathieu-van-der-poel-wenn-der-weltmeister-an-der-tuer-klingelt-um-auf-die-toilette-zu-duerfen](https://www.spiegel.de/sport/mathieu-van-der-poel-wenn-der-weltmeister-an-der-tuer-klingelt-um-auf-die-toilette-zu-duerfen-a-dc981633-6c6e-4cf0-8ea4-10869239cbb0#ref=rss)
+### poel
+
+* [https://www.spiegel.de/sport/mathieu-van-der-poel-wenn-der-weltmeister-an-der-tuer-klingelt-um-auf-die-toilette-zu-duerfen](https://www.spiegel.de/sport/mathieu-van-der-poel-wenn-der-weltmeister-an-der-tuer-klingelt-um-auf-die-toilette-zu-duerfen-a-dc981633-6c6e-4cf0-8ea4-10869239cbb0#ref=rss)
+### großen
+
+* [https://www.spiegel.de/sport/mathieu-van-der-poel-wenn-der-weltmeister-an-der-tuer-klingelt-um-auf-die-toilette-zu-duerfen](https://www.spiegel.de/sport/mathieu-van-der-poel-wenn-der-weltmeister-an-der-tuer-klingelt-um-auf-die-toilette-zu-duerfen-a-dc981633-6c6e-4cf0-8ea4-10869239cbb0#ref=rss)
+* [https://www.spiegel.de/sport/big-wave-surfer-sebastian-steudtner-aus-der-provinz-an-die-weltspitze](https://www.spiegel.de/sport/big-wave-surfer-sebastian-steudtner-aus-der-provinz-an-die-weltspitze-a-9cda9798-9c22-4881-b28a-47d8e987b0c2#ref=rss)
+### schweinswale
+
+* [https://www.spiegel.de/wissenschaft/natur/schweinswale-internationale-walfangkommission-warnt-vor-aussterben-kalifornischer-schweinswale](https://www.spiegel.de/wissenschaft/natur/schweinswale-internationale-walfangkommission-warnt-vor-aussterben-kalifornischer-schweinswale-a-b2a11779-f18a-44c5-b812-6551229c8467#ref=rss)
+### internationale
+
+* [https://www.spiegel.de/wissenschaft/natur/schweinswale-internationale-walfangkommission-warnt-vor-aussterben-kalifornischer-schweinswale](https://www.spiegel.de/wissenschaft/natur/schweinswale-internationale-walfangkommission-warnt-vor-aussterben-kalifornischer-schweinswale-a-b2a11779-f18a-44c5-b812-6551229c8467#ref=rss)
+### walfangkommission
+
+* [https://www.spiegel.de/wissenschaft/natur/schweinswale-internationale-walfangkommission-warnt-vor-aussterben-kalifornischer-schweinswale](https://www.spiegel.de/wissenschaft/natur/schweinswale-internationale-walfangkommission-warnt-vor-aussterben-kalifornischer-schweinswale-a-b2a11779-f18a-44c5-b812-6551229c8467#ref=rss)
+### warnt
+
+* [https://www.spiegel.de/wissenschaft/natur/schweinswale-internationale-walfangkommission-warnt-vor-aussterben-kalifornischer-schweinswale](https://www.spiegel.de/wissenschaft/natur/schweinswale-internationale-walfangkommission-warnt-vor-aussterben-kalifornischer-schweinswale-a-b2a11779-f18a-44c5-b812-6551229c8467#ref=rss)
+### aussterben
+
+* [https://www.spiegel.de/wissenschaft/natur/schweinswale-internationale-walfangkommission-warnt-vor-aussterben-kalifornischer-schweinswale](https://www.spiegel.de/wissenschaft/natur/schweinswale-internationale-walfangkommission-warnt-vor-aussterben-kalifornischer-schweinswale-a-b2a11779-f18a-44c5-b812-6551229c8467#ref=rss)
+### galt
+
+* [https://www.spiegel.de/ausland/wasserknappheit-in-uruguay-wie-der-millionenstadt-montevideo-das-trinkwasser-ausging](https://www.spiegel.de/ausland/wasserknappheit-in-uruguay-wie-der-millionenstadt-montevideo-das-trinkwasser-ausging-a-6f8331d2-6fb9-4f2c-a3bb-d19a637c02b1#ref=rss)
+### kaiserslautern
+
+* [https://www.spiegel.de/panorama/justiz/kaiserslautern-40-jaehriger-soll-seine-vermieterin-umgebracht-haben](https://www.spiegel.de/panorama/justiz/kaiserslautern-40-jaehriger-soll-seine-vermieterin-umgebracht-haben-a-f88ad3be-79cf-4b4a-9ec6-a097eba34d7d#ref=rss)
+### alten
+
+* [https://www.spiegel.de/panorama/justiz/kaiserslautern-40-jaehriger-soll-seine-vermieterin-umgebracht-haben](https://www.spiegel.de/panorama/justiz/kaiserslautern-40-jaehriger-soll-seine-vermieterin-umgebracht-haben-a-f88ad3be-79cf-4b4a-9ec6-a097eba34d7d#ref=rss)
+### dienstwagen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/wegen-digitalisierung-audi-aussendienstler-kuenftig-ohne-auto](https://www.spiegel.de/wirtschaft/unternehmen/wegen-digitalisierung-audi-aussendienstler-kuenftig-ohne-auto-a-a8ffd9e1-a5d5-447a-b31d-0cbe8029465d#ref=rss)
+### dresden
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/weitere-chip-fabrik-in-ostdeutschland-tsmc-werk-soll-bei-dresden-entstehen](https://www.spiegel.de/wirtschaft/unternehmen/weitere-chip-fabrik-in-ostdeutschland-tsmc-werk-soll-bei-dresden-entstehen-a-7f6278e0-8d8c-44f1-b755-ee3546678924#ref=rss)
+### bigwavesurfer
+
+* [https://www.spiegel.de/sport/big-wave-surfer-sebastian-steudtner-aus-der-provinz-an-die-weltspitze](https://www.spiegel.de/sport/big-wave-surfer-sebastian-steudtner-aus-der-provinz-an-die-weltspitze-a-9cda9798-9c22-4881-b28a-47d8e987b0c2#ref=rss)
+### amira
+
+* [https://www.spiegel.de/politik/deutschland/die-linke-rueckzug-von-amira-mohamed-ali-sorgt-fuer-aerger-in-parteispitze](https://www.spiegel.de/politik/deutschland/die-linke-rueckzug-von-amira-mohamed-ali-sorgt-fuer-aerger-in-parteispitze-a-ce84f9b0-2137-435d-803a-107d4509dd59#ref=rss)
+### mohamed
+
+* [https://www.spiegel.de/politik/deutschland/die-linke-rueckzug-von-amira-mohamed-ali-sorgt-fuer-aerger-in-parteispitze](https://www.spiegel.de/politik/deutschland/die-linke-rueckzug-von-amira-mohamed-ali-sorgt-fuer-aerger-in-parteispitze-a-ce84f9b0-2137-435d-803a-107d4509dd59#ref=rss)
+### ali
+
+* [https://www.spiegel.de/politik/deutschland/die-linke-rueckzug-von-amira-mohamed-ali-sorgt-fuer-aerger-in-parteispitze](https://www.spiegel.de/politik/deutschland/die-linke-rueckzug-von-amira-mohamed-ali-sorgt-fuer-aerger-in-parteispitze-a-ce84f9b0-2137-435d-803a-107d4509dd59#ref=rss)
+### australien
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-australien-bezwingt-daenemark-im-achtelfinale](https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-2023-australien-bezwingt-daenemark-im-achtelfinale-a-4b74e94d-da10-4e12-aead-2e64def4a189#ref=rss)
+### kylian
+
+* [https://www.spiegel.de/sport/fussball/fussball-kylian-mbappe-trainiert-weiterhin-nicht-mit-paris-saint-germain](https://www.spiegel.de/sport/fussball/fussball-kylian-mbappe-trainiert-weiterhin-nicht-mit-paris-saint-germain-a-b5cd7467-fb20-4c83-8a15-43997b92afc6#ref=rss)
+### mbappé
+
+* [https://www.spiegel.de/sport/fussball/fussball-kylian-mbappe-trainiert-weiterhin-nicht-mit-paris-saint-germain](https://www.spiegel.de/sport/fussball/fussball-kylian-mbappe-trainiert-weiterhin-nicht-mit-paris-saint-germain-a-b5cd7467-fb20-4c83-8a15-43997b92afc6#ref=rss)
 
