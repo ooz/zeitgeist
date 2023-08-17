@@ -4,305 +4,311 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mann
+### deutschland
 
-* [https://www.spiegel.de/panorama/justiz/herzogenrath-polizei-nimmt-mann-mit-148-diamanten-und-drogen-im-gepaeck-fest](https://www.spiegel.de/panorama/justiz/herzogenrath-polizei-nimmt-mann-mit-148-diamanten-und-drogen-im-gepaeck-fest-a-da6f02ad-b1d4-46c0-a151-5460b52cd294#ref=rss)
-* [https://www.spiegel.de/wissenschaft/oetzi-stammt-laut-forschern-aus-anatolien-war-dunkelhaeutig-und-hatte-kaum-haare](https://www.spiegel.de/wissenschaft/oetzi-stammt-laut-forschern-aus-anatolien-war-dunkelhaeutig-und-hatte-kaum-haare-a-f361818c-444c-42ac-97ad-440d35e05c4b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/leonardo-di-caprio-und-jared-leto-mann-schickt-faekalien-an-schauspieler-zwei-jahre-haft-auf-bewaehrung](https://www.spiegel.de/panorama/justiz/leonardo-di-caprio-und-jared-leto-mann-schickt-faekalien-an-schauspieler-zwei-jahre-haft-auf-bewaehrung-a-b014fed3-563b-4aa8-a4e4-6501cd0e299d#ref=rss)
-### barbie
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-barbie-cannabis-giorgia-meloni](https://www.spiegel.de/politik/deutschland/news-des-tages-barbie-cannabis-giorgia-meloni-a-47cb5b5e-3f80-47f0-8afb-04950341490a#ref=rss)
-* [https://www.spiegel.de/kultur/kino/usa-barbie-uebertrifft-the-dark-knight-als-umsatzstaerkste-inlandsveroeffentlichung-von-warner-bros](https://www.spiegel.de/kultur/kino/usa-barbie-uebertrifft-the-dark-knight-als-umsatzstaerkste-inlandsveroeffentlichung-von-warner-bros-a-8dffa3fc-d7a9-4bcf-8383-1c2be10ef3fd#ref=rss)
-### meloni
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-barbie-cannabis-giorgia-meloni](https://www.spiegel.de/politik/deutschland/news-des-tages-barbie-cannabis-giorgia-meloni-a-47cb5b5e-3f80-47f0-8afb-04950341490a#ref=rss)
-* [https://www.spiegel.de/ausland/italien-was-giorgia-meloni-jetzt-mit-ihrem-land-vor-hat](https://www.spiegel.de/ausland/italien-was-giorgia-meloni-jetzt-mit-ihrem-land-vor-hat-a-29b8852b-11d0-4e12-9f09-09b8dc34f6ef#ref=rss)
-### russland
-
-* [https://www.spiegel.de/wissenschaft/technik/shahed-kamikazedrohne-russland-produziert-iranische-drohne-jetzt-selbst](https://www.spiegel.de/wissenschaft/technik/shahed-kamikazedrohne-russland-produziert-iranische-drohne-jetzt-selbst-a-924ac114-5c1f-470f-a004-44f8938f30ba#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-tagelange-kaempfe-offenbar-erfolgreich-ukraine-meldet-rueckeroberung-im-suedosten](https://www.spiegel.de/ausland/ukraine-russland-news-heute-tagelange-kaempfe-offenbar-erfolgreich-ukraine-meldet-rueckeroberung-im-suedosten-a-06bce595-0fa0-45fe-8801-295f1808ff24#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/politik/deutschland/zwei-prozent-pro-jahr-nee-doch-nicht](https://www.spiegel.de/politik/deutschland/zwei-prozent-pro-jahr-nee-doch-nicht-a-4b4b0657-a953-4ff4-b24a-591dc7cc366b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/leonardo-di-caprio-und-jared-leto-mann-schickt-faekalien-an-schauspieler-zwei-jahre-haft-auf-bewaehrung](https://www.spiegel.de/panorama/justiz/leonardo-di-caprio-und-jared-leto-mann-schickt-faekalien-an-schauspieler-zwei-jahre-haft-auf-bewaehrung-a-b014fed3-563b-4aa8-a4e4-6501cd0e299d#ref=rss)
-### ampel
-
-* [https://www.spiegel.de/politik/deutschland/zwei-prozent-pro-jahr-nee-doch-nicht](https://www.spiegel.de/politik/deutschland/zwei-prozent-pro-jahr-nee-doch-nicht-a-4b4b0657-a953-4ff4-b24a-591dc7cc366b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/lisa-paus-gegen-christian-lindner-der-naechste-ampel-streit](https://www.spiegel.de/politik/deutschland/lisa-paus-gegen-christian-lindner-der-naechste-ampel-streit-a-5d18511a-e607-4505-b37e-2391654bb99d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-cannabis-minister-wider-willen](https://www.spiegel.de/politik/deutschland/karl-lauterbach-cannabis-minister-wider-willen-a-60c6bb41-2999-4747-8661-7a8b803ca04f#ref=rss)
-### gesetz
-
-* [https://www.spiegel.de/politik/deutschland/zwei-prozent-pro-jahr-nee-doch-nicht](https://www.spiegel.de/politik/deutschland/zwei-prozent-pro-jahr-nee-doch-nicht-a-4b4b0657-a953-4ff4-b24a-591dc7cc366b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/lisa-paus-gegen-christian-lindner-der-naechste-ampel-streit](https://www.spiegel.de/politik/deutschland/lisa-paus-gegen-christian-lindner-der-naechste-ampel-streit-a-5d18511a-e607-4505-b37e-2391654bb99d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-cannabis-minister-wider-willen](https://www.spiegel.de/politik/deutschland/karl-lauterbach-cannabis-minister-wider-willen-a-60c6bb41-2999-4747-8661-7a8b803ca04f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/ifo-umfrage-experten-rechnen-mit-weltweit-steigenden-immobilienpreisen](https://www.spiegel.de/wirtschaft/soziales/ifo-umfrage-experten-rechnen-mit-weltweit-steigenden-immobilienpreisen-a-a60a896c-809a-4e64-a23b-e5e03cd086e3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/arrow-3-in-deutschland-was-kann-der-raketenschutzschirm-und-wie-teuer-ist-er-wirklich](https://www.spiegel.de/wissenschaft/arrow-3-in-deutschland-was-kann-der-raketenschutzschirm-und-wie-teuer-ist-er-wirklich-a-bc8ff34d-d66c-48b5-9cc2-168e32c5229e#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-sichert-verzicht-auf-einsatz-westlicher-waffen-in-russland-zu](https://www.spiegel.de/ausland/ukraine-sichert-verzicht-auf-einsatz-westlicher-waffen-in-russland-zu-a-9f6ea1be-9a4d-46c5-98ba-0cd74a30cc85#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-quiz-wer-war-erster-double-sieger-in-deutschland](https://www.spiegel.de/sport/fussball/fussball-quiz-wer-war-erster-double-sieger-in-deutschland-a-67541add-f416-4e8f-9f34-1f9e2a01fcc8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rezession-und-inflation-in-deutschland-oekonom-clemens-fuest-ueber-die-wirtschaft](https://www.spiegel.de/wirtschaft/rezession-und-inflation-in-deutschland-oekonom-clemens-fuest-ueber-die-wirtschaft-a-f5bd28c5-33cb-4681-8a46-809c99d40b5e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/corona-comeback-in-deutschland-droht-jetzt-die-barbenheimer-welle](https://www.spiegel.de/wissenschaft/corona-comeback-in-deutschland-droht-jetzt-die-barbenheimer-welle-a-72d47226-241c-4080-8d29-ac64b944fd2e#ref=rss)
+* [https://www.spiegel.de/ausland/usa-billigen-verkauf-von-arrow-3-an-deutschland](https://www.spiegel.de/ausland/usa-billigen-verkauf-von-arrow-3-an-deutschland-a-7976df9b-0643-4d35-8a03-54024c631e0b#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/politik/deutschland/lisa-paus-gegen-christian-lindner-der-naechste-ampel-streit](https://www.spiegel.de/politik/deutschland/lisa-paus-gegen-christian-lindner-der-naechste-ampel-streit-a-5d18511a-e607-4505-b37e-2391654bb99d#ref=rss)
-* [https://www.spiegel.de/ausland/donald-tusk-polens-geplantes-referendum-zum-eu-asylkompromiss-ungueltig](https://www.spiegel.de/ausland/donald-tusk-polens-geplantes-referendum-zum-eu-asylkompromiss-ungueltig-a-61ee99e4-8190-47d6-9c78-43fa04149d53#ref=rss)
-* [https://www.spiegel.de/start/hochschulen-in-deutschland-frauen-haben-bei-vergabe-von-professuren-das-nachsehen](https://www.spiegel.de/start/hochschulen-in-deutschland-frauen-haben-bei-vergabe-von-professuren-das-nachsehen-a-d7692eb2-9ada-4a80-a709-3c02e88b1aaa#ref=rss)
-### lauterbach
-
-* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-cannabis-minister-wider-willen](https://www.spiegel.de/politik/deutschland/karl-lauterbach-cannabis-minister-wider-willen-a-60c6bb41-2999-4747-8661-7a8b803ca04f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-barbie-cannabis-giorgia-meloni](https://www.spiegel.de/politik/deutschland/news-des-tages-barbie-cannabis-giorgia-meloni-a-47cb5b5e-3f80-47f0-8afb-04950341490a#ref=rss)
-### droht
-
-* [https://www.spiegel.de/kultur/musik/nile-rodgers-we-are-family-komponist-droht-svp-wegen-wahlkampflied](https://www.spiegel.de/kultur/musik/nile-rodgers-we-are-family-komponist-droht-svp-wegen-wahlkampflied-a-a40a62c1-238f-4ffc-a3c4-0fcb928b4434#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/shahed-kamikazedrohne-russland-produziert-iranische-drohne-jetzt-selbst](https://www.spiegel.de/wissenschaft/technik/shahed-kamikazedrohne-russland-produziert-iranische-drohne-jetzt-selbst-a-924ac114-5c1f-470f-a004-44f8938f30ba#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-tagelange-kaempfe-offenbar-erfolgreich-ukraine-meldet-rueckeroberung-im-suedosten](https://www.spiegel.de/ausland/ukraine-russland-news-heute-tagelange-kaempfe-offenbar-erfolgreich-ukraine-meldet-rueckeroberung-im-suedosten-a-06bce595-0fa0-45fe-8801-295f1808ff24#ref=rss)
-### burger
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/indien-burger-king-soll-tomaten-auf-burgern-eingespart-haben](https://www.spiegel.de/wirtschaft/unternehmen/indien-burger-king-soll-tomaten-auf-burgern-eingespart-haben-a-2f967ec6-6fa2-49d1-aad7-54bc911452fb#ref=rss)
-### schauspieler
-
-* [https://www.spiegel.de/panorama/justiz/leonardo-di-caprio-und-jared-leto-mann-schickt-faekalien-an-schauspieler-zwei-jahre-haft-auf-bewaehrung](https://www.spiegel.de/panorama/justiz/leonardo-di-caprio-und-jared-leto-mann-schickt-faekalien-an-schauspieler-zwei-jahre-haft-auf-bewaehrung-a-b014fed3-563b-4aa8-a4e4-6501cd0e299d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/alec-baldwin-soll-bei-rust-dreh-doch-abgedrueckt-haben](https://www.spiegel.de/panorama/justiz/alec-baldwin-soll-bei-rust-dreh-doch-abgedrueckt-haben-a-87c17063-c156-457e-9645-44a6049c8e82#ref=rss)
-### untersagt
-
-* [https://www.spiegel.de/panorama/bildung/sachsen-anhalt-bildungsministerin-untersagt-gender-sternchen-in-schulen](https://www.spiegel.de/panorama/bildung/sachsen-anhalt-bildungsministerin-untersagt-gender-sternchen-in-schulen-a-08dccd93-8e5c-4c4f-ba6a-f135c0d592e6#ref=rss)
-* [https://www.spiegel.de/sport/schwimmen-weltverband-testet-beim-weltcup-in-berlin-geschlechteroffene-kategorie](https://www.spiegel.de/sport/schwimmen-weltverband-testet-beim-weltcup-in-berlin-geschlechteroffene-kategorie-a-72f8c7b9-b273-4ee4-b23a-aa18ac326c38#ref=rss)
-### schulen
-
-* [https://www.spiegel.de/panorama/bildung/sachsen-anhalt-bildungsministerin-untersagt-gender-sternchen-in-schulen](https://www.spiegel.de/panorama/bildung/sachsen-anhalt-bildungsministerin-untersagt-gender-sternchen-in-schulen-a-08dccd93-8e5c-4c4f-ba6a-f135c0d592e6#ref=rss)
-### opposition
-
-* [https://www.spiegel.de/panorama/bildung/sachsen-anhalt-bildungsministerin-untersagt-gender-sternchen-in-schulen](https://www.spiegel.de/panorama/bildung/sachsen-anhalt-bildungsministerin-untersagt-gender-sternchen-in-schulen-a-08dccd93-8e5c-4c4f-ba6a-f135c0d592e6#ref=rss)
-* [https://www.spiegel.de/ausland/polen-so-formieren-sich-kaempfer-aus-belarus-im-exil](https://www.spiegel.de/ausland/polen-so-formieren-sich-kaempfer-aus-belarus-im-exil-a-7a3cb847-2091-4e60-902d-806cd4ce6803#ref=rss)
-### probleme
-
-* [https://www.spiegel.de/panorama/bildung/sachsen-anhalt-bildungsministerin-untersagt-gender-sternchen-in-schulen](https://www.spiegel.de/panorama/bildung/sachsen-anhalt-bildungsministerin-untersagt-gender-sternchen-in-schulen-a-08dccd93-8e5c-4c4f-ba6a-f135c0d592e6#ref=rss)
-* [https://www.spiegel.de/ausland/italien-was-giorgia-meloni-jetzt-mit-ihrem-land-vor-hat](https://www.spiegel.de/ausland/italien-was-giorgia-meloni-jetzt-mit-ihrem-land-vor-hat-a-29b8852b-11d0-4e12-9f09-09b8dc34f6ef#ref=rss)
-### prozent
-
-* [https://www.spiegel.de/politik/deutschland/zwei-prozent-pro-jahr-nee-doch-nicht](https://www.spiegel.de/politik/deutschland/zwei-prozent-pro-jahr-nee-doch-nicht-a-4b4b0657-a953-4ff4-b24a-591dc7cc366b#ref=rss)
-### jährlich
-
-* [https://www.spiegel.de/politik/deutschland/zwei-prozent-pro-jahr-nee-doch-nicht](https://www.spiegel.de/politik/deutschland/zwei-prozent-pro-jahr-nee-doch-nicht-a-4b4b0657-a953-4ff4-b24a-591dc7cc366b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/oetzi-stammt-laut-forschern-aus-anatolien-war-dunkelhaeutig-und-hatte-kaum-haare](https://www.spiegel.de/wissenschaft/oetzi-stammt-laut-forschern-aus-anatolien-war-dunkelhaeutig-und-hatte-kaum-haare-a-f361818c-444c-42ac-97ad-440d35e05c4b#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/muenchen-autobranche-laedt-letzte-generation-zur-iaa-ein](https://www.spiegel.de/wirtschaft/unternehmen/muenchen-autobranche-laedt-letzte-generation-zur-iaa-ein-a-78f6c9fa-9cd4-4851-b684-02240c48ed94#ref=rss)
-### letzte
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/muenchen-autobranche-laedt-letzte-generation-zur-iaa-ein](https://www.spiegel.de/wirtschaft/unternehmen/muenchen-autobranche-laedt-letzte-generation-zur-iaa-ein-a-78f6c9fa-9cd4-4851-b684-02240c48ed94#ref=rss)
-### generation
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/muenchen-autobranche-laedt-letzte-generation-zur-iaa-ein](https://www.spiegel.de/wirtschaft/unternehmen/muenchen-autobranche-laedt-letzte-generation-zur-iaa-ein-a-78f6c9fa-9cd4-4851-b684-02240c48ed94#ref=rss)
-### iaa
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/muenchen-autobranche-laedt-letzte-generation-zur-iaa-ein](https://www.spiegel.de/wirtschaft/unternehmen/muenchen-autobranche-laedt-letzte-generation-zur-iaa-ein-a-78f6c9fa-9cd4-4851-b684-02240c48ed94#ref=rss)
-### formieren
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/muenchen-autobranche-laedt-letzte-generation-zur-iaa-ein](https://www.spiegel.de/wirtschaft/unternehmen/muenchen-autobranche-laedt-letzte-generation-zur-iaa-ein-a-78f6c9fa-9cd4-4851-b684-02240c48ed94#ref=rss)
-* [https://www.spiegel.de/ausland/polen-so-formieren-sich-kaempfer-aus-belarus-im-exil](https://www.spiegel.de/ausland/polen-so-formieren-sich-kaempfer-aus-belarus-im-exil-a-7a3cb847-2091-4e60-902d-806cd4ce6803#ref=rss)
-### paus
-
-* [https://www.spiegel.de/politik/deutschland/lisa-paus-gegen-christian-lindner-der-naechste-ampel-streit](https://www.spiegel.de/politik/deutschland/lisa-paus-gegen-christian-lindner-der-naechste-ampel-streit-a-5d18511a-e607-4505-b37e-2391654bb99d#ref=rss)
-### lindner
-
-* [https://www.spiegel.de/politik/deutschland/lisa-paus-gegen-christian-lindner-der-naechste-ampel-streit](https://www.spiegel.de/politik/deutschland/lisa-paus-gegen-christian-lindner-der-naechste-ampel-streit-a-5d18511a-e607-4505-b37e-2391654bb99d#ref=rss)
-### zusammenarbeit
-
-* [https://www.spiegel.de/politik/deutschland/lisa-paus-gegen-christian-lindner-der-naechste-ampel-streit](https://www.spiegel.de/politik/deutschland/lisa-paus-gegen-christian-lindner-der-naechste-ampel-streit-a-5d18511a-e607-4505-b37e-2391654bb99d#ref=rss)
-* [https://www.spiegel.de/kultur/tv/rtl-setzt-zusammenarbeit-mit-maurice-gajda-aus-frauke-petry-tweet-gefaelscht](https://www.spiegel.de/kultur/tv/rtl-setzt-zusammenarbeit-mit-maurice-gajda-aus-frauke-petry-tweet-gefaelscht-a-eb4ea6f8-1e73-4ecb-8e56-b013deb780fb#ref=rss)
-### koalition
-
-* [https://www.spiegel.de/politik/deutschland/lisa-paus-gegen-christian-lindner-der-naechste-ampel-streit](https://www.spiegel.de/politik/deutschland/lisa-paus-gegen-christian-lindner-der-naechste-ampel-streit-a-5d18511a-e607-4505-b37e-2391654bb99d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-cannabis-minister-wider-willen](https://www.spiegel.de/politik/deutschland/karl-lauterbach-cannabis-minister-wider-willen-a-60c6bb41-2999-4747-8661-7a8b803ca04f#ref=rss)
-### macht
-
-* [https://www.spiegel.de/politik/deutschland/lisa-paus-gegen-christian-lindner-der-naechste-ampel-streit](https://www.spiegel.de/politik/deutschland/lisa-paus-gegen-christian-lindner-der-naechste-ampel-streit-a-5d18511a-e607-4505-b37e-2391654bb99d#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/pornhub-mutterfirma-mindgeek-stoert-sich-an-new-yorker-doener-haus](https://www.spiegel.de/netzwelt/web/pornhub-mutterfirma-mindgeek-stoert-sich-an-new-yorker-doener-haus-a-8b456b5c-02f4-4618-97c6-0bd02e91228a#ref=rss)
-### karl
-
-* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-cannabis-minister-wider-willen](https://www.spiegel.de/politik/deutschland/karl-lauterbach-cannabis-minister-wider-willen-a-60c6bb41-2999-4747-8661-7a8b803ca04f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-barbie-cannabis-giorgia-meloni](https://www.spiegel.de/politik/deutschland/news-des-tages-barbie-cannabis-giorgia-meloni-a-47cb5b5e-3f80-47f0-8afb-04950341490a#ref=rss)
-### kiffen
-
-* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-cannabis-minister-wider-willen](https://www.spiegel.de/politik/deutschland/karl-lauterbach-cannabis-minister-wider-willen-a-60c6bb41-2999-4747-8661-7a8b803ca04f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-barbie-cannabis-giorgia-meloni](https://www.spiegel.de/politik/deutschland/news-des-tages-barbie-cannabis-giorgia-meloni-a-47cb5b5e-3f80-47f0-8afb-04950341490a#ref=rss)
-### 148
-
-* [https://www.spiegel.de/panorama/justiz/herzogenrath-polizei-nimmt-mann-mit-148-diamanten-und-drogen-im-gepaeck-fest](https://www.spiegel.de/panorama/justiz/herzogenrath-polizei-nimmt-mann-mit-148-diamanten-und-drogen-im-gepaeck-fest-a-da6f02ad-b1d4-46c0-a151-5460b52cd294#ref=rss)
-### diamanten
-
-* [https://www.spiegel.de/panorama/justiz/herzogenrath-polizei-nimmt-mann-mit-148-diamanten-und-drogen-im-gepaeck-fest](https://www.spiegel.de/panorama/justiz/herzogenrath-polizei-nimmt-mann-mit-148-diamanten-und-drogen-im-gepaeck-fest-a-da6f02ad-b1d4-46c0-a151-5460b52cd294#ref=rss)
-### wahlkampf
-
-* [https://www.spiegel.de/kultur/musik/nile-rodgers-we-are-family-komponist-droht-svp-wegen-wahlkampflied](https://www.spiegel.de/kultur/musik/nile-rodgers-we-are-family-komponist-droht-svp-wegen-wahlkampflied-a-a40a62c1-238f-4ffc-a3c4-0fcb928b4434#ref=rss)
-* [https://www.spiegel.de/ausland/donald-tusk-polens-geplantes-referendum-zum-eu-asylkompromiss-ungueltig](https://www.spiegel.de/ausland/donald-tusk-polens-geplantes-referendum-zum-eu-asylkompromiss-ungueltig-a-61ee99e4-8190-47d6-9c78-43fa04149d53#ref=rss)
-### dessen
-
-* [https://www.spiegel.de/kultur/musik/nile-rodgers-we-are-family-komponist-droht-svp-wegen-wahlkampflied](https://www.spiegel.de/kultur/musik/nile-rodgers-we-are-family-komponist-droht-svp-wegen-wahlkampflied-a-a40a62c1-238f-4ffc-a3c4-0fcb928b4434#ref=rss)
-* [https://www.spiegel.de/kultur/tv/rtl-setzt-zusammenarbeit-mit-maurice-gajda-aus-frauke-petry-tweet-gefaelscht](https://www.spiegel.de/kultur/tv/rtl-setzt-zusammenarbeit-mit-maurice-gajda-aus-frauke-petry-tweet-gefaelscht-a-eb4ea6f8-1e73-4ecb-8e56-b013deb780fb#ref=rss)
-### news
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-barbie-cannabis-giorgia-meloni](https://www.spiegel.de/politik/deutschland/news-des-tages-barbie-cannabis-giorgia-meloni-a-47cb5b5e-3f80-47f0-8afb-04950341490a#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-tagelange-kaempfe-offenbar-erfolgreich-ukraine-meldet-rueckeroberung-im-suedosten](https://www.spiegel.de/ausland/ukraine-russland-news-heute-tagelange-kaempfe-offenbar-erfolgreich-ukraine-meldet-rueckeroberung-im-suedosten-a-06bce595-0fa0-45fe-8801-295f1808ff24#ref=rss)
-### giorgia
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-barbie-cannabis-giorgia-meloni](https://www.spiegel.de/politik/deutschland/news-des-tages-barbie-cannabis-giorgia-meloni-a-47cb5b5e-3f80-47f0-8afb-04950341490a#ref=rss)
-* [https://www.spiegel.de/ausland/italien-was-giorgia-meloni-jetzt-mit-ihrem-land-vor-hat](https://www.spiegel.de/ausland/italien-was-giorgia-meloni-jetzt-mit-ihrem-land-vor-hat-a-29b8852b-11d0-4e12-9f09-09b8dc34f6ef#ref=rss)
+* [https://www.spiegel.de/sport/chess-com-und-lichess-schach-plattformen-ziehen-konsequenzen-aus-missbrauchsvorwuerfen](https://www.spiegel.de/sport/chess-com-und-lichess-schach-plattformen-ziehen-konsequenzen-aus-missbrauchsvorwuerfen-a-7d23c98a-7df7-48cb-9633-0ae59847be28#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/ifo-umfrage-experten-rechnen-mit-weltweit-steigenden-immobilienpreisen](https://www.spiegel.de/wirtschaft/soziales/ifo-umfrage-experten-rechnen-mit-weltweit-steigenden-immobilienpreisen-a-a60a896c-809a-4e64-a23b-e5e03cd086e3#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/tiktok-new-york-verbietet-video-app-auf-behoerden-handys](https://www.spiegel.de/netzwelt/apps/tiktok-new-york-verbietet-video-app-auf-behoerden-handys-a-a82edf77-9629-4848-b94d-9a91c76e4a7c#ref=rss)
+* [https://www.spiegel.de/ausland/pakistan-mehr-als-100-festnahmen-nach-ausschreitungen-gegen-christen](https://www.spiegel.de/ausland/pakistan-mehr-als-100-festnahmen-nach-ausschreitungen-gegen-christen-a-bd6d9164-6127-495f-b217-d61553a41005#ref=rss)
+* [https://www.spiegel.de/kultur/der-hund-der-nur-englisch-sprach-von-linus-reichlin-auf-dem-wahrheitstrip](https://www.spiegel.de/kultur/der-hund-der-nur-englisch-sprach-von-linus-reichlin-auf-dem-wahrheitstrip-a-0d7edd69-44f4-4d98-8e80-10a263dd08a3#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/kultur/kino/usa-barbie-uebertrifft-the-dark-knight-als-umsatzstaerkste-inlandsveroeffentlichung-von-warner-bros](https://www.spiegel.de/kultur/kino/usa-barbie-uebertrifft-the-dark-knight-als-umsatzstaerkste-inlandsveroeffentlichung-von-warner-bros-a-8dffa3fc-d7a9-4bcf-8383-1c2be10ef3fd#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/alaska-groesste-staette-von-dinosaurierspuren-in-den-usa-entdeckt](https://www.spiegel.de/wissenschaft/natur/alaska-groesste-staette-von-dinosaurierspuren-in-den-usa-entdeckt-a-4587a94d-7229-43a8-b212-cda8c4083e9c#ref=rss)
-### the
+* [https://www.spiegel.de/ausland/treffen-von-usa-japan-und-suedkorea-joe-biden-laedt-zum-gipfel-nach-camp-david](https://www.spiegel.de/ausland/treffen-von-usa-japan-und-suedkorea-joe-biden-laedt-zum-gipfel-nach-camp-david-a-0bdd205f-2dbe-4a30-b7c2-2878a071895a#ref=rss)
+* [https://www.spiegel.de/ausland/pakistan-mehr-als-100-festnahmen-nach-ausschreitungen-gegen-christen](https://www.spiegel.de/ausland/pakistan-mehr-als-100-festnahmen-nach-ausschreitungen-gegen-christen-a-bd6d9164-6127-495f-b217-d61553a41005#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nach-fruehem-aus-bei-fussball-wm-der-frauen-us-coach-vlatko-andonovski-tritt-wohl-zurueck](https://www.spiegel.de/sport/fussball/nach-fruehem-aus-bei-fussball-wm-der-frauen-us-coach-vlatko-andonovski-tritt-wohl-zurueck-a-c4f7f300-cf25-41a5-b0a0-afc90729a4b9#ref=rss)
+* [https://www.spiegel.de/ausland/usa-billigen-verkauf-von-arrow-3-an-deutschland](https://www.spiegel.de/ausland/usa-billigen-verkauf-von-arrow-3-an-deutschland-a-7976df9b-0643-4d35-8a03-54024c631e0b#ref=rss)
+### konsequenzen
 
-* [https://www.spiegel.de/kultur/kino/usa-barbie-uebertrifft-the-dark-knight-als-umsatzstaerkste-inlandsveroeffentlichung-von-warner-bros](https://www.spiegel.de/kultur/kino/usa-barbie-uebertrifft-the-dark-knight-als-umsatzstaerkste-inlandsveroeffentlichung-von-warner-bros-a-8dffa3fc-d7a9-4bcf-8383-1c2be10ef3fd#ref=rss)
-* [https://www.spiegel.de/panorama/leute/michael-oher-und-seine-pflegefamilie-ende-eines-hollywood-maerchens](https://www.spiegel.de/panorama/leute/michael-oher-und-seine-pflegefamilie-ende-eines-hollywood-maerchens-a-e89a8b68-d1cf-4b01-b42a-a64040146ef1#ref=rss)
-### gewonnen
+* [https://www.spiegel.de/panorama/justiz/staatsoper-hannover-antisemitische-hetze-gegen-intendantin-frau-soll-1200-euro-zahlen](https://www.spiegel.de/panorama/justiz/staatsoper-hannover-antisemitische-hetze-gegen-intendantin-frau-soll-1200-euro-zahlen-a-b13140d3-6bdf-44ed-aa7d-6f163b679baa#ref=rss)
+* [https://www.spiegel.de/sport/chess-com-und-lichess-schach-plattformen-ziehen-konsequenzen-aus-missbrauchsvorwuerfen](https://www.spiegel.de/sport/chess-com-und-lichess-schach-plattformen-ziehen-konsequenzen-aus-missbrauchsvorwuerfen-a-7d23c98a-7df7-48cb-9633-0ae59847be28#ref=rss)
+* [https://www.spiegel.de/ausland/pakistan-mehr-als-100-festnahmen-nach-ausschreitungen-gegen-christen](https://www.spiegel.de/ausland/pakistan-mehr-als-100-festnahmen-nach-ausschreitungen-gegen-christen-a-bd6d9164-6127-495f-b217-d61553a41005#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nach-fruehem-aus-bei-fussball-wm-der-frauen-us-coach-vlatko-andonovski-tritt-wohl-zurueck](https://www.spiegel.de/sport/fussball/nach-fruehem-aus-bei-fussball-wm-der-frauen-us-coach-vlatko-andonovski-tritt-wohl-zurueck-a-c4f7f300-cf25-41a5-b0a0-afc90729a4b9#ref=rss)
+### leben
 
-* [https://www.spiegel.de/kultur/kino/usa-barbie-uebertrifft-the-dark-knight-als-umsatzstaerkste-inlandsveroeffentlichung-von-warner-bros](https://www.spiegel.de/kultur/kino/usa-barbie-uebertrifft-the-dark-knight-als-umsatzstaerkste-inlandsveroeffentlichung-von-warner-bros-a-8dffa3fc-d7a9-4bcf-8383-1c2be10ef3fd#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2023-australien-scheidet-aus-spiel-verloren-herzen-gewonnen](https://www.spiegel.de/sport/fussball/fussball-wm-2023-australien-scheidet-aus-spiel-verloren-herzen-gewonnen-a-eb58cbe2-ce5b-4463-b35d-e5db5be89851#ref=rss)
-### zukunft
+* [https://www.spiegel.de/kultur/kino/robert-de-niro-wird-80-fotos-aus-leben-und-karriere](https://www.spiegel.de/kultur/kino/robert-de-niro-wird-80-fotos-aus-leben-und-karriere-a-41fafbaf-4ba3-4e1f-82f3-6a4bfd5f1e63#ref=rss)
+* [https://www.spiegel.de/psychologie/jung-und-herzkrank-wie-hole-ich-am-meisten-aus-meinem-leben-raus](https://www.spiegel.de/psychologie/jung-und-herzkrank-wie-hole-ich-am-meisten-aus-meinem-leben-raus-a-f9a1fa74-6de5-4dc9-9c7a-f2dec79c53dd#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/bamberg-dreijaehrige-stirbt-nach-badeunfall-in-freibad](https://www.spiegel.de/panorama/gesellschaft/bamberg-dreijaehrige-stirbt-nach-badeunfall-in-freibad-a-69abbabd-7911-47a8-90d3-183e75309296#ref=rss)
+### arrow
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2023-australien-scheidet-aus-spiel-verloren-herzen-gewonnen](https://www.spiegel.de/sport/fussball/fussball-wm-2023-australien-scheidet-aus-spiel-verloren-herzen-gewonnen-a-eb58cbe2-ce5b-4463-b35d-e5db5be89851#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/dietmar-bartsch-viele-haben-mich-bedraengt-eine-andere-entscheidung-zu-treffen](https://www.spiegel.de/politik/deutschland/dietmar-bartsch-viele-haben-mich-bedraengt-eine-andere-entscheidung-zu-treffen-a-97f7af28-bfd0-4f9f-bfb8-809005465de3#ref=rss)
-### aufregezeichen
+* [https://www.spiegel.de/wissenschaft/arrow-3-in-deutschland-was-kann-der-raketenschutzschirm-und-wie-teuer-ist-er-wirklich](https://www.spiegel.de/wissenschaft/arrow-3-in-deutschland-was-kann-der-raketenschutzschirm-und-wie-teuer-ist-er-wirklich-a-bc8ff34d-d66c-48b5-9cc2-168e32c5229e#ref=rss)
+* [https://www.spiegel.de/ausland/usa-billigen-verkauf-von-arrow-3-an-deutschland](https://www.spiegel.de/ausland/usa-billigen-verkauf-von-arrow-3-an-deutschland-a-7976df9b-0643-4d35-8a03-54024c631e0b#ref=rss)
+### 3
 
-* [https://www.spiegel.de/kultur/kommunikation-auf-twitter-facebook-instagram-und-co-was-ist-ein-aufregezeichen](https://www.spiegel.de/kultur/kommunikation-auf-twitter-facebook-instagram-und-co-was-ist-ein-aufregezeichen-a-c37c96ec-3f62-4938-bf6a-de60fd6d2a9e#ref=rss)
-### polen
-
-* [https://www.spiegel.de/ausland/polen-so-formieren-sich-kaempfer-aus-belarus-im-exil](https://www.spiegel.de/ausland/polen-so-formieren-sich-kaempfer-aus-belarus-im-exil-a-7a3cb847-2091-4e60-902d-806cd4ce6803#ref=rss)
-* [https://www.spiegel.de/ausland/donald-tusk-polens-geplantes-referendum-zum-eu-asylkompromiss-ungueltig](https://www.spiegel.de/ausland/donald-tusk-polens-geplantes-referendum-zum-eu-asylkompromiss-ungueltig-a-61ee99e4-8190-47d6-9c78-43fa04149d53#ref=rss)
-### exil
-
-* [https://www.spiegel.de/ausland/polen-so-formieren-sich-kaempfer-aus-belarus-im-exil](https://www.spiegel.de/ausland/polen-so-formieren-sich-kaempfer-aus-belarus-im-exil-a-7a3cb847-2091-4e60-902d-806cd4ce6803#ref=rss)
+* [https://www.spiegel.de/wissenschaft/arrow-3-in-deutschland-was-kann-der-raketenschutzschirm-und-wie-teuer-ist-er-wirklich](https://www.spiegel.de/wissenschaft/arrow-3-in-deutschland-was-kann-der-raketenschutzschirm-und-wie-teuer-ist-er-wirklich-a-bc8ff34d-d66c-48b5-9cc2-168e32c5229e#ref=rss)
+* [https://www.spiegel.de/ausland/usa-billigen-verkauf-von-arrow-3-an-deutschland](https://www.spiegel.de/ausland/usa-billigen-verkauf-von-arrow-3-an-deutschland-a-7976df9b-0643-4d35-8a03-54024c631e0b#ref=rss)
 ### ukraine
 
-* [https://www.spiegel.de/ausland/polen-so-formieren-sich-kaempfer-aus-belarus-im-exil](https://www.spiegel.de/ausland/polen-so-formieren-sich-kaempfer-aus-belarus-im-exil-a-7a3cb847-2091-4e60-902d-806cd4ce6803#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/shahed-kamikazedrohne-russland-produziert-iranische-drohne-jetzt-selbst](https://www.spiegel.de/wissenschaft/technik/shahed-kamikazedrohne-russland-produziert-iranische-drohne-jetzt-selbst-a-924ac114-5c1f-470f-a004-44f8938f30ba#ref=rss)
-### iranische
+* [https://www.spiegel.de/wissenschaft/arrow-3-in-deutschland-was-kann-der-raketenschutzschirm-und-wie-teuer-ist-er-wirklich](https://www.spiegel.de/wissenschaft/arrow-3-in-deutschland-was-kann-der-raketenschutzschirm-und-wie-teuer-ist-er-wirklich-a-bc8ff34d-d66c-48b5-9cc2-168e32c5229e#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-sichert-verzicht-auf-einsatz-westlicher-waffen-in-russland-zu](https://www.spiegel.de/ausland/ukraine-sichert-verzicht-auf-einsatz-westlicher-waffen-in-russland-zu-a-9f6ea1be-9a4d-46c5-98ba-0cd74a30cc85#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-ukraine-hat-laut-britischen-geheimdiensten-genuegend-energiereserven-fuer-winter](https://www.spiegel.de/ausland/ukraine-russland-news-heute-ukraine-hat-laut-britischen-geheimdiensten-genuegend-energiereserven-fuer-winter-a-0cf1fe05-a592-4de6-85e5-93a3c2ebe6bd#ref=rss)
+### ich
 
-* [https://www.spiegel.de/wissenschaft/technik/shahed-kamikazedrohne-russland-produziert-iranische-drohne-jetzt-selbst](https://www.spiegel.de/wissenschaft/technik/shahed-kamikazedrohne-russland-produziert-iranische-drohne-jetzt-selbst-a-924ac114-5c1f-470f-a004-44f8938f30ba#ref=rss)
-### selbst
+* [https://www.spiegel.de/psychologie/jung-und-herzkrank-wie-hole-ich-am-meisten-aus-meinem-leben-raus](https://www.spiegel.de/psychologie/jung-und-herzkrank-wie-hole-ich-am-meisten-aus-meinem-leben-raus-a-f9a1fa74-6de5-4dc9-9c7a-f2dec79c53dd#ref=rss)
+### paus
 
-* [https://www.spiegel.de/wissenschaft/technik/shahed-kamikazedrohne-russland-produziert-iranische-drohne-jetzt-selbst](https://www.spiegel.de/wissenschaft/technik/shahed-kamikazedrohne-russland-produziert-iranische-drohne-jetzt-selbst-a-924ac114-5c1f-470f-a004-44f8938f30ba#ref=rss)
-### indien
+* [https://www.spiegel.de/politik/deutschland/juli-chefin-franziska-brandmann-zu-lisa-paus-lindner-sollte-diesem-peinlichen-erpressungsversuch-auf-keinen-fall-nachgeben](https://www.spiegel.de/politik/deutschland/juli-chefin-franziska-brandmann-zu-lisa-paus-lindner-sollte-diesem-peinlichen-erpressungsversuch-auf-keinen-fall-nachgeben-a-1959501d-1019-4b2a-8297-ee905912f3c5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bijan-djir-sarai-fdp-generalsekretaer-stellt-sich-gegen-vergroesserung-oder-ausweitung-des-sozialstaates](https://www.spiegel.de/politik/deutschland/bijan-djir-sarai-fdp-generalsekretaer-stellt-sich-gegen-vergroesserung-oder-ausweitung-des-sozialstaates-a-e9d83036-ba16-45e6-afd4-83e9ca007195#ref=rss)
+### lindner
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/indien-burger-king-soll-tomaten-auf-burgern-eingespart-haben](https://www.spiegel.de/wirtschaft/unternehmen/indien-burger-king-soll-tomaten-auf-burgern-eingespart-haben-a-2f967ec6-6fa2-49d1-aad7-54bc911452fb#ref=rss)
-### king
+* [https://www.spiegel.de/politik/deutschland/juli-chefin-franziska-brandmann-zu-lisa-paus-lindner-sollte-diesem-peinlichen-erpressungsversuch-auf-keinen-fall-nachgeben](https://www.spiegel.de/politik/deutschland/juli-chefin-franziska-brandmann-zu-lisa-paus-lindner-sollte-diesem-peinlichen-erpressungsversuch-auf-keinen-fall-nachgeben-a-1959501d-1019-4b2a-8297-ee905912f3c5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bijan-djir-sarai-fdp-generalsekretaer-stellt-sich-gegen-vergroesserung-oder-ausweitung-des-sozialstaates](https://www.spiegel.de/politik/deutschland/bijan-djir-sarai-fdp-generalsekretaer-stellt-sich-gegen-vergroesserung-oder-ausweitung-des-sozialstaates-a-e9d83036-ba16-45e6-afd4-83e9ca007195#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/indien-burger-king-soll-tomaten-auf-burgern-eingespart-haben](https://www.spiegel.de/wirtschaft/unternehmen/indien-burger-king-soll-tomaten-auf-burgern-eingespart-haben-a-2f967ec6-6fa2-49d1-aad7-54bc911452fb#ref=rss)
-### tomaten
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-regas-wirtschaftministerium-will-finanzen-pruefen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-regas-wirtschaftministerium-will-finanzen-pruefen-a-4fc75261-398d-4e19-9266-786aabbab4a1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rezession-und-inflation-in-deutschland-oekonom-clemens-fuest-ueber-die-wirtschaft](https://www.spiegel.de/wirtschaft/rezession-und-inflation-in-deutschland-oekonom-clemens-fuest-ueber-die-wirtschaft-a-f5bd28c5-33cb-4681-8a46-809c99d40b5e#ref=rss)
+### präsident
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/indien-burger-king-soll-tomaten-auf-burgern-eingespart-haben](https://www.spiegel.de/wirtschaft/unternehmen/indien-burger-king-soll-tomaten-auf-burgern-eingespart-haben-a-2f967ec6-6fa2-49d1-aad7-54bc911452fb#ref=rss)
-### offenbar
+* [https://www.spiegel.de/ausland/treffen-von-usa-japan-und-suedkorea-joe-biden-laedt-zum-gipfel-nach-camp-david](https://www.spiegel.de/ausland/treffen-von-usa-japan-und-suedkorea-joe-biden-laedt-zum-gipfel-nach-camp-david-a-0bdd205f-2dbe-4a30-b7c2-2878a071895a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rezession-und-inflation-in-deutschland-oekonom-clemens-fuest-ueber-die-wirtschaft](https://www.spiegel.de/wirtschaft/rezession-und-inflation-in-deutschland-oekonom-clemens-fuest-ueber-die-wirtschaft-a-f5bd28c5-33cb-4681-8a46-809c99d40b5e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-praesident-xi-jinping-mahnt-buerger-zur-geduld-und-keilt-gegen-den-westen](https://www.spiegel.de/wirtschaft/china-praesident-xi-jinping-mahnt-buerger-zur-geduld-und-keilt-gegen-den-westen-a-750232e9-a764-441a-aec0-0067165bc89f#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/indien-burger-king-soll-tomaten-auf-burgern-eingespart-haben](https://www.spiegel.de/wirtschaft/unternehmen/indien-burger-king-soll-tomaten-auf-burgern-eingespart-haben-a-2f967ec6-6fa2-49d1-aad7-54bc911452fb#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/pornhub-mutterfirma-mindgeek-stoert-sich-an-new-yorker-doener-haus](https://www.spiegel.de/netzwelt/web/pornhub-mutterfirma-mindgeek-stoert-sich-an-new-yorker-doener-haus-a-8b456b5c-02f4-4618-97c6-0bd02e91228a#ref=rss)
-### land
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/indien-burger-king-soll-tomaten-auf-burgern-eingespart-haben](https://www.spiegel.de/wirtschaft/unternehmen/indien-burger-king-soll-tomaten-auf-burgern-eingespart-haben-a-2f967ec6-6fa2-49d1-aad7-54bc911452fb#ref=rss)
-* [https://www.spiegel.de/ausland/italien-was-giorgia-meloni-jetzt-mit-ihrem-land-vor-hat](https://www.spiegel.de/ausland/italien-was-giorgia-meloni-jetzt-mit-ihrem-land-vor-hat-a-29b8852b-11d0-4e12-9f09-09b8dc34f6ef#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mallorca-verdacht-der-gruppenvergewaltigung-polizei-nimmt-sechs-maenner-fest](https://www.spiegel.de/panorama/justiz/mallorca-verdacht-der-gruppenvergewaltigung-polizei-nimmt-sechs-maenner-fest-a-e859b582-2e2d-4c1e-9a79-ccbdc6bf113b#ref=rss)
+* [https://www.spiegel.de/ausland/pakistan-mehr-als-100-festnahmen-nach-ausschreitungen-gegen-christen](https://www.spiegel.de/ausland/pakistan-mehr-als-100-festnahmen-nach-ausschreitungen-gegen-christen-a-bd6d9164-6127-495f-b217-d61553a41005#ref=rss)
 ### laut
 
-* [https://www.spiegel.de/wissenschaft/oetzi-stammt-laut-forschern-aus-anatolien-war-dunkelhaeutig-und-hatte-kaum-haare](https://www.spiegel.de/wissenschaft/oetzi-stammt-laut-forschern-aus-anatolien-war-dunkelhaeutig-und-hatte-kaum-haare-a-f361818c-444c-42ac-97ad-440d35e05c4b#ref=rss)
-* [https://www.spiegel.de/ausland/donald-tusk-polens-geplantes-referendum-zum-eu-asylkompromiss-ungueltig](https://www.spiegel.de/ausland/donald-tusk-polens-geplantes-referendum-zum-eu-asylkompromiss-ungueltig-a-61ee99e4-8190-47d6-9c78-43fa04149d53#ref=rss)
-### dunkelhäutig
+* [https://www.spiegel.de/ausland/ukraine-sichert-verzicht-auf-einsatz-westlicher-waffen-in-russland-zu](https://www.spiegel.de/ausland/ukraine-sichert-verzicht-auf-einsatz-westlicher-waffen-in-russland-zu-a-9f6ea1be-9a4d-46c5-98ba-0cd74a30cc85#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/hawaii-sirenen-waren-laut-katastrophenschutz-nutzlos-eigentlich-fuer-tsunami-schutz](https://www.spiegel.de/panorama/gesellschaft/hawaii-sirenen-waren-laut-katastrophenschutz-nutzlos-eigentlich-fuer-tsunami-schutz-a-94d211e8-d1d3-4153-a2ff-6164ee4292bc#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-ukraine-hat-laut-britischen-geheimdiensten-genuegend-energiereserven-fuer-winter](https://www.spiegel.de/ausland/ukraine-russland-news-heute-ukraine-hat-laut-britischen-geheimdiensten-genuegend-energiereserven-fuer-winter-a-0cf1fe05-a592-4de6-85e5-93a3c2ebe6bd#ref=rss)
+### wirtschaft
 
-* [https://www.spiegel.de/wissenschaft/oetzi-stammt-laut-forschern-aus-anatolien-war-dunkelhaeutig-und-hatte-kaum-haare](https://www.spiegel.de/wissenschaft/oetzi-stammt-laut-forschern-aus-anatolien-war-dunkelhaeutig-und-hatte-kaum-haare-a-f361818c-444c-42ac-97ad-440d35e05c4b#ref=rss)
-### forscher
+* [https://www.spiegel.de/wirtschaft/rezession-und-inflation-in-deutschland-oekonom-clemens-fuest-ueber-die-wirtschaft](https://www.spiegel.de/wirtschaft/rezession-und-inflation-in-deutschland-oekonom-clemens-fuest-ueber-die-wirtschaft-a-f5bd28c5-33cb-4681-8a46-809c99d40b5e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ukraine-krieg-der-westen-muss-endlich-die-sanktionen-gegen-russland-ernst-nehmen](https://www.spiegel.de/wirtschaft/ukraine-krieg-der-westen-muss-endlich-die-sanktionen-gegen-russland-ernst-nehmen-a-636df845-f40a-4c99-987e-5cdfa6bd5104#ref=rss)
+### staatsoper
 
-* [https://www.spiegel.de/wissenschaft/oetzi-stammt-laut-forschern-aus-anatolien-war-dunkelhaeutig-und-hatte-kaum-haare](https://www.spiegel.de/wissenschaft/oetzi-stammt-laut-forschern-aus-anatolien-war-dunkelhaeutig-und-hatte-kaum-haare-a-f361818c-444c-42ac-97ad-440d35e05c4b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/alaska-groesste-staette-von-dinosaurierspuren-in-den-usa-entdeckt](https://www.spiegel.de/wissenschaft/natur/alaska-groesste-staette-von-dinosaurierspuren-in-den-usa-entdeckt-a-4587a94d-7229-43a8-b212-cda8c4083e9c#ref=rss)
-### maurice
+* [https://www.spiegel.de/panorama/justiz/staatsoper-hannover-antisemitische-hetze-gegen-intendantin-frau-soll-1200-euro-zahlen](https://www.spiegel.de/panorama/justiz/staatsoper-hannover-antisemitische-hetze-gegen-intendantin-frau-soll-1200-euro-zahlen-a-b13140d3-6bdf-44ed-aa7d-6f163b679baa#ref=rss)
+### hannover
 
-* [https://www.spiegel.de/kultur/tv/rtl-setzt-zusammenarbeit-mit-maurice-gajda-aus-frauke-petry-tweet-gefaelscht](https://www.spiegel.de/kultur/tv/rtl-setzt-zusammenarbeit-mit-maurice-gajda-aus-frauke-petry-tweet-gefaelscht-a-eb4ea6f8-1e73-4ecb-8e56-b013deb780fb#ref=rss)
-### gajda
+* [https://www.spiegel.de/panorama/justiz/staatsoper-hannover-antisemitische-hetze-gegen-intendantin-frau-soll-1200-euro-zahlen](https://www.spiegel.de/panorama/justiz/staatsoper-hannover-antisemitische-hetze-gegen-intendantin-frau-soll-1200-euro-zahlen-a-b13140d3-6bdf-44ed-aa7d-6f163b679baa#ref=rss)
+### intendantin
 
-* [https://www.spiegel.de/kultur/tv/rtl-setzt-zusammenarbeit-mit-maurice-gajda-aus-frauke-petry-tweet-gefaelscht](https://www.spiegel.de/kultur/tv/rtl-setzt-zusammenarbeit-mit-maurice-gajda-aus-frauke-petry-tweet-gefaelscht-a-eb4ea6f8-1e73-4ecb-8e56-b013deb780fb#ref=rss)
-### uspräsident
+* [https://www.spiegel.de/panorama/justiz/staatsoper-hannover-antisemitische-hetze-gegen-intendantin-frau-soll-1200-euro-zahlen](https://www.spiegel.de/panorama/justiz/staatsoper-hannover-antisemitische-hetze-gegen-intendantin-frau-soll-1200-euro-zahlen-a-b13140d3-6bdf-44ed-aa7d-6f163b679baa#ref=rss)
+### frau
 
-* [https://www.spiegel.de/ausland/us-praesident-joe-biden-will-nach-feuerkatastrophe-maui-besuchen](https://www.spiegel.de/ausland/us-praesident-joe-biden-will-nach-feuerkatastrophe-maui-besuchen-a-745478b6-9d78-4c00-9801-4e7375f6dd17#ref=rss)
-### joe
+* [https://www.spiegel.de/panorama/justiz/staatsoper-hannover-antisemitische-hetze-gegen-intendantin-frau-soll-1200-euro-zahlen](https://www.spiegel.de/panorama/justiz/staatsoper-hannover-antisemitische-hetze-gegen-intendantin-frau-soll-1200-euro-zahlen-a-b13140d3-6bdf-44ed-aa7d-6f163b679baa#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mallorca-verdacht-der-gruppenvergewaltigung-polizei-nimmt-sechs-maenner-fest](https://www.spiegel.de/panorama/justiz/mallorca-verdacht-der-gruppenvergewaltigung-polizei-nimmt-sechs-maenner-fest-a-e859b582-2e2d-4c1e-9a79-ccbdc6bf113b#ref=rss)
+### chesscom
 
-* [https://www.spiegel.de/ausland/us-praesident-joe-biden-will-nach-feuerkatastrophe-maui-besuchen](https://www.spiegel.de/ausland/us-praesident-joe-biden-will-nach-feuerkatastrophe-maui-besuchen-a-745478b6-9d78-4c00-9801-4e7375f6dd17#ref=rss)
+* [https://www.spiegel.de/sport/chess-com-und-lichess-schach-plattformen-ziehen-konsequenzen-aus-missbrauchsvorwuerfen](https://www.spiegel.de/sport/chess-com-und-lichess-schach-plattformen-ziehen-konsequenzen-aus-missbrauchsvorwuerfen-a-7d23c98a-7df7-48cb-9633-0ae59847be28#ref=rss)
+### lichess
+
+* [https://www.spiegel.de/sport/chess-com-und-lichess-schach-plattformen-ziehen-konsequenzen-aus-missbrauchsvorwuerfen](https://www.spiegel.de/sport/chess-com-und-lichess-schach-plattformen-ziehen-konsequenzen-aus-missbrauchsvorwuerfen-a-7d23c98a-7df7-48cb-9633-0ae59847be28#ref=rss)
+### jahrelang
+
+* [https://www.spiegel.de/sport/chess-com-und-lichess-schach-plattformen-ziehen-konsequenzen-aus-missbrauchsvorwuerfen](https://www.spiegel.de/sport/chess-com-und-lichess-schach-plattformen-ziehen-konsequenzen-aus-missbrauchsvorwuerfen-a-7d23c98a-7df7-48cb-9633-0ae59847be28#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/peru-erlaubt-vergewaltigter-elfjaehriger-nun-doch-eine-abtreibung](https://www.spiegel.de/panorama/gesellschaft/peru-erlaubt-vergewaltigter-elfjaehriger-nun-doch-eine-abtreibung-a-019725d8-5323-4ff3-bac5-b6e206976a1a#ref=rss)
+### vorwürfe
+
+* [https://www.spiegel.de/sport/chess-com-und-lichess-schach-plattformen-ziehen-konsequenzen-aus-missbrauchsvorwuerfen](https://www.spiegel.de/sport/chess-com-und-lichess-schach-plattformen-ziehen-konsequenzen-aus-missbrauchsvorwuerfen-a-7d23c98a-7df7-48cb-9633-0ae59847be28#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-regas-wirtschaftministerium-will-finanzen-pruefen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-regas-wirtschaftministerium-will-finanzen-pruefen-a-4fc75261-398d-4e19-9266-786aabbab4a1#ref=rss)
+### ernst
+
+* [https://www.spiegel.de/sport/chess-com-und-lichess-schach-plattformen-ziehen-konsequenzen-aus-missbrauchsvorwuerfen](https://www.spiegel.de/sport/chess-com-und-lichess-schach-plattformen-ziehen-konsequenzen-aus-missbrauchsvorwuerfen-a-7d23c98a-7df7-48cb-9633-0ae59847be28#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ukraine-krieg-der-westen-muss-endlich-die-sanktionen-gegen-russland-ernst-nehmen](https://www.spiegel.de/wirtschaft/ukraine-krieg-der-westen-muss-endlich-die-sanktionen-gegen-russland-ernst-nehmen-a-636df845-f40a-4c99-987e-5cdfa6bd5104#ref=rss)
+### julichefin
+
+* [https://www.spiegel.de/politik/deutschland/juli-chefin-franziska-brandmann-zu-lisa-paus-lindner-sollte-diesem-peinlichen-erpressungsversuch-auf-keinen-fall-nachgeben](https://www.spiegel.de/politik/deutschland/juli-chefin-franziska-brandmann-zu-lisa-paus-lindner-sollte-diesem-peinlichen-erpressungsversuch-auf-keinen-fall-nachgeben-a-1959501d-1019-4b2a-8297-ee905912f3c5#ref=rss)
+### brandmann
+
+* [https://www.spiegel.de/politik/deutschland/juli-chefin-franziska-brandmann-zu-lisa-paus-lindner-sollte-diesem-peinlichen-erpressungsversuch-auf-keinen-fall-nachgeben](https://www.spiegel.de/politik/deutschland/juli-chefin-franziska-brandmann-zu-lisa-paus-lindner-sollte-diesem-peinlichen-erpressungsversuch-auf-keinen-fall-nachgeben-a-1959501d-1019-4b2a-8297-ee905912f3c5#ref=rss)
+### lisa
+
+* [https://www.spiegel.de/politik/deutschland/juli-chefin-franziska-brandmann-zu-lisa-paus-lindner-sollte-diesem-peinlichen-erpressungsversuch-auf-keinen-fall-nachgeben](https://www.spiegel.de/politik/deutschland/juli-chefin-franziska-brandmann-zu-lisa-paus-lindner-sollte-diesem-peinlichen-erpressungsversuch-auf-keinen-fall-nachgeben-a-1959501d-1019-4b2a-8297-ee905912f3c5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bijan-djir-sarai-fdp-generalsekretaer-stellt-sich-gegen-vergroesserung-oder-ausweitung-des-sozialstaates](https://www.spiegel.de/politik/deutschland/bijan-djir-sarai-fdp-generalsekretaer-stellt-sich-gegen-vergroesserung-oder-ausweitung-des-sozialstaates-a-e9d83036-ba16-45e6-afd4-83e9ca007195#ref=rss)
+### sollte
+
+* [https://www.spiegel.de/politik/deutschland/juli-chefin-franziska-brandmann-zu-lisa-paus-lindner-sollte-diesem-peinlichen-erpressungsversuch-auf-keinen-fall-nachgeben](https://www.spiegel.de/politik/deutschland/juli-chefin-franziska-brandmann-zu-lisa-paus-lindner-sollte-diesem-peinlichen-erpressungsversuch-auf-keinen-fall-nachgeben-a-1959501d-1019-4b2a-8297-ee905912f3c5#ref=rss)
+* [https://www.spiegel.de/wissenschaft/corona-comeback-in-deutschland-droht-jetzt-die-barbenheimer-welle](https://www.spiegel.de/wissenschaft/corona-comeback-in-deutschland-droht-jetzt-die-barbenheimer-welle-a-72d47226-241c-4080-8d29-ac64b944fd2e#ref=rss)
+### finanzminister
+
+* [https://www.spiegel.de/politik/deutschland/juli-chefin-franziska-brandmann-zu-lisa-paus-lindner-sollte-diesem-peinlichen-erpressungsversuch-auf-keinen-fall-nachgeben](https://www.spiegel.de/politik/deutschland/juli-chefin-franziska-brandmann-zu-lisa-paus-lindner-sollte-diesem-peinlichen-erpressungsversuch-auf-keinen-fall-nachgeben-a-1959501d-1019-4b2a-8297-ee905912f3c5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bijan-djir-sarai-fdp-generalsekretaer-stellt-sich-gegen-vergroesserung-oder-ausweitung-des-sozialstaates](https://www.spiegel.de/politik/deutschland/bijan-djir-sarai-fdp-generalsekretaer-stellt-sich-gegen-vergroesserung-oder-ausweitung-des-sozialstaates-a-e9d83036-ba16-45e6-afd4-83e9ca007195#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/politik/deutschland/juli-chefin-franziska-brandmann-zu-lisa-paus-lindner-sollte-diesem-peinlichen-erpressungsversuch-auf-keinen-fall-nachgeben](https://www.spiegel.de/politik/deutschland/juli-chefin-franziska-brandmann-zu-lisa-paus-lindner-sollte-diesem-peinlichen-erpressungsversuch-auf-keinen-fall-nachgeben-a-1959501d-1019-4b2a-8297-ee905912f3c5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-praesident-xi-jinping-mahnt-buerger-zur-geduld-und-keilt-gegen-den-westen](https://www.spiegel.de/wirtschaft/china-praesident-xi-jinping-mahnt-buerger-zur-geduld-und-keilt-gegen-den-westen-a-750232e9-a764-441a-aec0-0067165bc89f#ref=rss)
+### fdpgeneralsekretär
+
+* [https://www.spiegel.de/politik/deutschland/bijan-djir-sarai-fdp-generalsekretaer-stellt-sich-gegen-vergroesserung-oder-ausweitung-des-sozialstaates](https://www.spiegel.de/politik/deutschland/bijan-djir-sarai-fdp-generalsekretaer-stellt-sich-gegen-vergroesserung-oder-ausweitung-des-sozialstaates-a-e9d83036-ba16-45e6-afd4-83e9ca007195#ref=rss)
+### regas
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-regas-wirtschaftministerium-will-finanzen-pruefen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-regas-wirtschaftministerium-will-finanzen-pruefen-a-4fc75261-398d-4e19-9266-786aabbab4a1#ref=rss)
+### robert
+
+* [https://www.spiegel.de/kultur/kino/robert-de-niro-wird-80-fotos-aus-leben-und-karriere](https://www.spiegel.de/kultur/kino/robert-de-niro-wird-80-fotos-aus-leben-und-karriere-a-41fafbaf-4ba3-4e1f-82f3-6a4bfd5f1e63#ref=rss)
+### de
+
+* [https://www.spiegel.de/kultur/kino/robert-de-niro-wird-80-fotos-aus-leben-und-karriere](https://www.spiegel.de/kultur/kino/robert-de-niro-wird-80-fotos-aus-leben-und-karriere-a-41fafbaf-4ba3-4e1f-82f3-6a4bfd5f1e63#ref=rss)
+### niro
+
+* [https://www.spiegel.de/kultur/kino/robert-de-niro-wird-80-fotos-aus-leben-und-karriere](https://www.spiegel.de/kultur/kino/robert-de-niro-wird-80-fotos-aus-leben-und-karriere-a-41fafbaf-4ba3-4e1f-82f3-6a4bfd5f1e63#ref=rss)
+### 80
+
+* [https://www.spiegel.de/kultur/kino/robert-de-niro-wird-80-fotos-aus-leben-und-karriere](https://www.spiegel.de/kultur/kino/robert-de-niro-wird-80-fotos-aus-leben-und-karriere-a-41fafbaf-4ba3-4e1f-82f3-6a4bfd5f1e63#ref=rss)
+### karriere
+
+* [https://www.spiegel.de/kultur/kino/robert-de-niro-wird-80-fotos-aus-leben-und-karriere](https://www.spiegel.de/kultur/kino/robert-de-niro-wird-80-fotos-aus-leben-und-karriere-a-41fafbaf-4ba3-4e1f-82f3-6a4bfd5f1e63#ref=rss)
+### machte
+
+* [https://www.spiegel.de/kultur/kino/robert-de-niro-wird-80-fotos-aus-leben-und-karriere](https://www.spiegel.de/kultur/kino/robert-de-niro-wird-80-fotos-aus-leben-und-karriere-a-41fafbaf-4ba3-4e1f-82f3-6a4bfd5f1e63#ref=rss)
+* [https://www.spiegel.de/ausland/polen-parlament-stimmt-fuer-referendum-zum-eu-asylkompromiss](https://www.spiegel.de/ausland/polen-parlament-stimmt-fuer-referendum-zum-eu-asylkompromiss-a-1b855b60-bd48-499a-80e5-55dceeef2860#ref=rss)
 ### biden
 
-* [https://www.spiegel.de/ausland/us-praesident-joe-biden-will-nach-feuerkatastrophe-maui-besuchen](https://www.spiegel.de/ausland/us-praesident-joe-biden-will-nach-feuerkatastrophe-maui-besuchen-a-745478b6-9d78-4c00-9801-4e7375f6dd17#ref=rss)
-### maui
+* [https://www.spiegel.de/ausland/treffen-von-usa-japan-und-suedkorea-joe-biden-laedt-zum-gipfel-nach-camp-david](https://www.spiegel.de/ausland/treffen-von-usa-japan-und-suedkorea-joe-biden-laedt-zum-gipfel-nach-camp-david-a-0bdd205f-2dbe-4a30-b7c2-2878a071895a#ref=rss)
+### camp
 
-* [https://www.spiegel.de/ausland/us-praesident-joe-biden-will-nach-feuerkatastrophe-maui-besuchen](https://www.spiegel.de/ausland/us-praesident-joe-biden-will-nach-feuerkatastrophe-maui-besuchen-a-745478b6-9d78-4c00-9801-4e7375f6dd17#ref=rss)
-### leonardo
+* [https://www.spiegel.de/ausland/treffen-von-usa-japan-und-suedkorea-joe-biden-laedt-zum-gipfel-nach-camp-david](https://www.spiegel.de/ausland/treffen-von-usa-japan-und-suedkorea-joe-biden-laedt-zum-gipfel-nach-camp-david-a-0bdd205f-2dbe-4a30-b7c2-2878a071895a#ref=rss)
+### david
 
-* [https://www.spiegel.de/panorama/justiz/leonardo-di-caprio-und-jared-leto-mann-schickt-faekalien-an-schauspieler-zwei-jahre-haft-auf-bewaehrung](https://www.spiegel.de/panorama/justiz/leonardo-di-caprio-und-jared-leto-mann-schickt-faekalien-an-schauspieler-zwei-jahre-haft-auf-bewaehrung-a-b014fed3-563b-4aa8-a4e4-6501cd0e299d#ref=rss)
-### jared
+* [https://www.spiegel.de/ausland/treffen-von-usa-japan-und-suedkorea-joe-biden-laedt-zum-gipfel-nach-camp-david](https://www.spiegel.de/ausland/treffen-von-usa-japan-und-suedkorea-joe-biden-laedt-zum-gipfel-nach-camp-david-a-0bdd205f-2dbe-4a30-b7c2-2878a071895a#ref=rss)
+### china
 
-* [https://www.spiegel.de/panorama/justiz/leonardo-di-caprio-und-jared-leto-mann-schickt-faekalien-an-schauspieler-zwei-jahre-haft-auf-bewaehrung](https://www.spiegel.de/panorama/justiz/leonardo-di-caprio-und-jared-leto-mann-schickt-faekalien-an-schauspieler-zwei-jahre-haft-auf-bewaehrung-a-b014fed3-563b-4aa8-a4e4-6501cd0e299d#ref=rss)
-### leto
+* [https://www.spiegel.de/ausland/treffen-von-usa-japan-und-suedkorea-joe-biden-laedt-zum-gipfel-nach-camp-david](https://www.spiegel.de/ausland/treffen-von-usa-japan-und-suedkorea-joe-biden-laedt-zum-gipfel-nach-camp-david-a-0bdd205f-2dbe-4a30-b7c2-2878a071895a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-praesident-xi-jinping-mahnt-buerger-zur-geduld-und-keilt-gegen-den-westen](https://www.spiegel.de/wirtschaft/china-praesident-xi-jinping-mahnt-buerger-zur-geduld-und-keilt-gegen-den-westen-a-750232e9-a764-441a-aec0-0067165bc89f#ref=rss)
+### parlament
 
-* [https://www.spiegel.de/panorama/justiz/leonardo-di-caprio-und-jared-leto-mann-schickt-faekalien-an-schauspieler-zwei-jahre-haft-auf-bewaehrung](https://www.spiegel.de/panorama/justiz/leonardo-di-caprio-und-jared-leto-mann-schickt-faekalien-an-schauspieler-zwei-jahre-haft-auf-bewaehrung-a-b014fed3-563b-4aa8-a4e4-6501cd0e299d#ref=rss)
-### fäkalien
+* [https://www.spiegel.de/ausland/polen-parlament-stimmt-fuer-referendum-zum-eu-asylkompromiss](https://www.spiegel.de/ausland/polen-parlament-stimmt-fuer-referendum-zum-eu-asylkompromiss-a-1b855b60-bd48-499a-80e5-55dceeef2860#ref=rss)
+### teneriffa
 
-* [https://www.spiegel.de/panorama/justiz/leonardo-di-caprio-und-jared-leto-mann-schickt-faekalien-an-schauspieler-zwei-jahre-haft-auf-bewaehrung](https://www.spiegel.de/panorama/justiz/leonardo-di-caprio-und-jared-leto-mann-schickt-faekalien-an-schauspieler-zwei-jahre-haft-auf-bewaehrung-a-b014fed3-563b-4aa8-a4e4-6501cd0e299d#ref=rss)
-### päckchen
+* [https://www.spiegel.de/ausland/waldbraende-auf-teneriffa-feuer-ausser-kontrolle](https://www.spiegel.de/ausland/waldbraende-auf-teneriffa-feuer-ausser-kontrolle-a-6102d597-9e5c-4963-a43a-91815f167fcc#ref=rss)
+### feuer
 
-* [https://www.spiegel.de/panorama/justiz/leonardo-di-caprio-und-jared-leto-mann-schickt-faekalien-an-schauspieler-zwei-jahre-haft-auf-bewaehrung](https://www.spiegel.de/panorama/justiz/leonardo-di-caprio-und-jared-leto-mann-schickt-faekalien-an-schauspieler-zwei-jahre-haft-auf-bewaehrung-a-b014fed3-563b-4aa8-a4e4-6501cd0e299d#ref=rss)
-### darin
+* [https://www.spiegel.de/ausland/waldbraende-auf-teneriffa-feuer-ausser-kontrolle](https://www.spiegel.de/ausland/waldbraende-auf-teneriffa-feuer-ausser-kontrolle-a-6102d597-9e5c-4963-a43a-91815f167fcc#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/hawaii-sirenen-waren-laut-katastrophenschutz-nutzlos-eigentlich-fuer-tsunami-schutz](https://www.spiegel.de/panorama/gesellschaft/hawaii-sirenen-waren-laut-katastrophenschutz-nutzlos-eigentlich-fuer-tsunami-schutz-a-94d211e8-d1d3-4153-a2ff-6164ee4292bc#ref=rss)
+### außer
 
-* [https://www.spiegel.de/panorama/justiz/leonardo-di-caprio-und-jared-leto-mann-schickt-faekalien-an-schauspieler-zwei-jahre-haft-auf-bewaehrung](https://www.spiegel.de/panorama/justiz/leonardo-di-caprio-und-jared-leto-mann-schickt-faekalien-an-schauspieler-zwei-jahre-haft-auf-bewaehrung-a-b014fed3-563b-4aa8-a4e4-6501cd0e299d#ref=rss)
-* [https://www.spiegel.de/ausland/donald-tusk-polens-geplantes-referendum-zum-eu-asylkompromiss-ungueltig](https://www.spiegel.de/ausland/donald-tusk-polens-geplantes-referendum-zum-eu-asylkompromiss-ungueltig-a-61ee99e4-8190-47d6-9c78-43fa04149d53#ref=rss)
-### alaska
+* [https://www.spiegel.de/ausland/waldbraende-auf-teneriffa-feuer-ausser-kontrolle](https://www.spiegel.de/ausland/waldbraende-auf-teneriffa-feuer-ausser-kontrolle-a-6102d597-9e5c-4963-a43a-91815f167fcc#ref=rss)
+### kontrolle
 
-* [https://www.spiegel.de/wissenschaft/natur/alaska-groesste-staette-von-dinosaurierspuren-in-den-usa-entdeckt](https://www.spiegel.de/wissenschaft/natur/alaska-groesste-staette-von-dinosaurierspuren-in-den-usa-entdeckt-a-4587a94d-7229-43a8-b212-cda8c4083e9c#ref=rss)
-### michael
+* [https://www.spiegel.de/ausland/waldbraende-auf-teneriffa-feuer-ausser-kontrolle](https://www.spiegel.de/ausland/waldbraende-auf-teneriffa-feuer-ausser-kontrolle-a-6102d597-9e5c-4963-a43a-91815f167fcc#ref=rss)
+### mehrere
 
-* [https://www.spiegel.de/panorama/leute/michael-oher-und-seine-pflegefamilie-ende-eines-hollywood-maerchens](https://www.spiegel.de/panorama/leute/michael-oher-und-seine-pflegefamilie-ende-eines-hollywood-maerchens-a-e89a8b68-d1cf-4b01-b42a-a64040146ef1#ref=rss)
-### oher
+* [https://www.spiegel.de/ausland/waldbraende-auf-teneriffa-feuer-ausser-kontrolle](https://www.spiegel.de/ausland/waldbraende-auf-teneriffa-feuer-ausser-kontrolle-a-6102d597-9e5c-4963-a43a-91815f167fcc#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mallorca-verdacht-der-gruppenvergewaltigung-polizei-nimmt-sechs-maenner-fest](https://www.spiegel.de/panorama/justiz/mallorca-verdacht-der-gruppenvergewaltigung-polizei-nimmt-sechs-maenner-fest-a-e859b582-2e2d-4c1e-9a79-ccbdc6bf113b#ref=rss)
+### gebiet
 
-* [https://www.spiegel.de/panorama/leute/michael-oher-und-seine-pflegefamilie-ende-eines-hollywood-maerchens](https://www.spiegel.de/panorama/leute/michael-oher-und-seine-pflegefamilie-ende-eines-hollywood-maerchens-a-e89a8b68-d1cf-4b01-b42a-a64040146ef1#ref=rss)
-### pflegefamilie
+* [https://www.spiegel.de/ausland/waldbraende-auf-teneriffa-feuer-ausser-kontrolle](https://www.spiegel.de/ausland/waldbraende-auf-teneriffa-feuer-ausser-kontrolle-a-6102d597-9e5c-4963-a43a-91815f167fcc#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-sichert-verzicht-auf-einsatz-westlicher-waffen-in-russland-zu](https://www.spiegel.de/ausland/ukraine-sichert-verzicht-auf-einsatz-westlicher-waffen-in-russland-zu-a-9f6ea1be-9a4d-46c5-98ba-0cd74a30cc85#ref=rss)
+### tiktok
 
-* [https://www.spiegel.de/panorama/leute/michael-oher-und-seine-pflegefamilie-ende-eines-hollywood-maerchens](https://www.spiegel.de/panorama/leute/michael-oher-und-seine-pflegefamilie-ende-eines-hollywood-maerchens-a-e89a8b68-d1cf-4b01-b42a-a64040146ef1#ref=rss)
-### schweren
+* [https://www.spiegel.de/netzwelt/apps/tiktok-new-york-verbietet-video-app-auf-behoerden-handys](https://www.spiegel.de/netzwelt/apps/tiktok-new-york-verbietet-video-app-auf-behoerden-handys-a-a82edf77-9629-4848-b94d-9a91c76e4a7c#ref=rss)
+### new
 
-* [https://www.spiegel.de/panorama/leute/michael-oher-und-seine-pflegefamilie-ende-eines-hollywood-maerchens](https://www.spiegel.de/panorama/leute/michael-oher-und-seine-pflegefamilie-ende-eines-hollywood-maerchens-a-e89a8b68-d1cf-4b01-b42a-a64040146ef1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/dietmar-bartsch-viele-haben-mich-bedraengt-eine-andere-entscheidung-zu-treffen](https://www.spiegel.de/politik/deutschland/dietmar-bartsch-viele-haben-mich-bedraengt-eine-andere-entscheidung-zu-treffen-a-97f7af28-bfd0-4f9f-bfb8-809005465de3#ref=rss)
-### myanmar
+* [https://www.spiegel.de/netzwelt/apps/tiktok-new-york-verbietet-video-app-auf-behoerden-handys](https://www.spiegel.de/netzwelt/apps/tiktok-new-york-verbietet-video-app-auf-behoerden-handys-a-a82edf77-9629-4848-b94d-9a91c76e4a7c#ref=rss)
+### york
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/myanmar-verstossen-h-und-m-zulieferer-gegen-arbeitnehmerrechte](https://www.spiegel.de/wirtschaft/unternehmen/myanmar-verstossen-h-und-m-zulieferer-gegen-arbeitnehmerrechte-a-78e27a3a-61a0-409f-9ec6-12e019eeadcc#ref=rss)
-### arbeitnehmerrechte
+* [https://www.spiegel.de/netzwelt/apps/tiktok-new-york-verbietet-video-app-auf-behoerden-handys](https://www.spiegel.de/netzwelt/apps/tiktok-new-york-verbietet-video-app-auf-behoerden-handys-a-a82edf77-9629-4848-b94d-9a91c76e4a7c#ref=rss)
+### gefunden
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/myanmar-verstossen-h-und-m-zulieferer-gegen-arbeitnehmerrechte](https://www.spiegel.de/wirtschaft/unternehmen/myanmar-verstossen-h-und-m-zulieferer-gegen-arbeitnehmerrechte-a-78e27a3a-61a0-409f-9ec6-12e019eeadcc#ref=rss)
-### tusk
+* [https://www.spiegel.de/netzwelt/apps/tiktok-new-york-verbietet-video-app-auf-behoerden-handys](https://www.spiegel.de/netzwelt/apps/tiktok-new-york-verbietet-video-app-auf-behoerden-handys-a-a82edf77-9629-4848-b94d-9a91c76e4a7c#ref=rss)
+* [https://www.spiegel.de/psychologie/jung-und-herzkrank-wie-hole-ich-am-meisten-aus-meinem-leben-raus](https://www.spiegel.de/psychologie/jung-und-herzkrank-wie-hole-ich-am-meisten-aus-meinem-leben-raus-a-f9a1fa74-6de5-4dc9-9c7a-f2dec79c53dd#ref=rss)
+### mallorca
 
-* [https://www.spiegel.de/ausland/donald-tusk-polens-geplantes-referendum-zum-eu-asylkompromiss-ungueltig](https://www.spiegel.de/ausland/donald-tusk-polens-geplantes-referendum-zum-eu-asylkompromiss-ungueltig-a-61ee99e4-8190-47d6-9c78-43fa04149d53#ref=rss)
-### weltcup
+* [https://www.spiegel.de/panorama/justiz/mallorca-verdacht-der-gruppenvergewaltigung-polizei-nimmt-sechs-maenner-fest](https://www.spiegel.de/panorama/justiz/mallorca-verdacht-der-gruppenvergewaltigung-polizei-nimmt-sechs-maenner-fest-a-e859b582-2e2d-4c1e-9a79-ccbdc6bf113b#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/sport/schwimmen-weltverband-testet-beim-weltcup-in-berlin-geschlechteroffene-kategorie](https://www.spiegel.de/sport/schwimmen-weltverband-testet-beim-weltcup-in-berlin-geschlechteroffene-kategorie-a-72f8c7b9-b273-4ee4-b23a-aa18ac326c38#ref=rss)
-### berlin
+* [https://www.spiegel.de/panorama/justiz/mallorca-verdacht-der-gruppenvergewaltigung-polizei-nimmt-sechs-maenner-fest](https://www.spiegel.de/panorama/justiz/mallorca-verdacht-der-gruppenvergewaltigung-polizei-nimmt-sechs-maenner-fest-a-e859b582-2e2d-4c1e-9a79-ccbdc6bf113b#ref=rss)
+* [https://www.spiegel.de/psychologie/jung-und-herzkrank-wie-hole-ich-am-meisten-aus-meinem-leben-raus](https://www.spiegel.de/psychologie/jung-und-herzkrank-wie-hole-ich-am-meisten-aus-meinem-leben-raus-a-f9a1fa74-6de5-4dc9-9c7a-f2dec79c53dd#ref=rss)
+### russland
 
-* [https://www.spiegel.de/sport/schwimmen-weltverband-testet-beim-weltcup-in-berlin-geschlechteroffene-kategorie](https://www.spiegel.de/sport/schwimmen-weltverband-testet-beim-weltcup-in-berlin-geschlechteroffene-kategorie-a-72f8c7b9-b273-4ee4-b23a-aa18ac326c38#ref=rss)
-### kategorie
+* [https://www.spiegel.de/ausland/ukraine-sichert-verzicht-auf-einsatz-westlicher-waffen-in-russland-zu](https://www.spiegel.de/ausland/ukraine-sichert-verzicht-auf-einsatz-westlicher-waffen-in-russland-zu-a-9f6ea1be-9a4d-46c5-98ba-0cd74a30cc85#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ukraine-krieg-der-westen-muss-endlich-die-sanktionen-gegen-russland-ernst-nehmen](https://www.spiegel.de/wirtschaft/ukraine-krieg-der-westen-muss-endlich-die-sanktionen-gegen-russland-ernst-nehmen-a-636df845-f40a-4c99-987e-5cdfa6bd5104#ref=rss)
+### sorge
 
-* [https://www.spiegel.de/sport/schwimmen-weltverband-testet-beim-weltcup-in-berlin-geschlechteroffene-kategorie](https://www.spiegel.de/sport/schwimmen-weltverband-testet-beim-weltcup-in-berlin-geschlechteroffene-kategorie-a-72f8c7b9-b273-4ee4-b23a-aa18ac326c38#ref=rss)
-### frauen
+* [https://www.spiegel.de/ausland/ukraine-sichert-verzicht-auf-einsatz-westlicher-waffen-in-russland-zu](https://www.spiegel.de/ausland/ukraine-sichert-verzicht-auf-einsatz-westlicher-waffen-in-russland-zu-a-9f6ea1be-9a4d-46c5-98ba-0cd74a30cc85#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-praesident-xi-jinping-mahnt-buerger-zur-geduld-und-keilt-gegen-den-westen](https://www.spiegel.de/wirtschaft/china-praesident-xi-jinping-mahnt-buerger-zur-geduld-und-keilt-gegen-den-westen-a-750232e9-a764-441a-aec0-0067165bc89f#ref=rss)
+### hawaii
 
-* [https://www.spiegel.de/sport/schwimmen-weltverband-testet-beim-weltcup-in-berlin-geschlechteroffene-kategorie](https://www.spiegel.de/sport/schwimmen-weltverband-testet-beim-weltcup-in-berlin-geschlechteroffene-kategorie-a-72f8c7b9-b273-4ee4-b23a-aa18ac326c38#ref=rss)
-* [https://www.spiegel.de/start/hochschulen-in-deutschland-frauen-haben-bei-vergabe-von-professuren-das-nachsehen](https://www.spiegel.de/start/hochschulen-in-deutschland-frauen-haben-bei-vergabe-von-professuren-das-nachsehen-a-d7692eb2-9ada-4a80-a709-3c02e88b1aaa#ref=rss)
-### hochschulen
+* [https://www.spiegel.de/panorama/gesellschaft/hawaii-sirenen-waren-laut-katastrophenschutz-nutzlos-eigentlich-fuer-tsunami-schutz](https://www.spiegel.de/panorama/gesellschaft/hawaii-sirenen-waren-laut-katastrophenschutz-nutzlos-eigentlich-fuer-tsunami-schutz-a-94d211e8-d1d3-4153-a2ff-6164ee4292bc#ref=rss)
+### sirenen
 
-* [https://www.spiegel.de/start/hochschulen-in-deutschland-frauen-haben-bei-vergabe-von-professuren-das-nachsehen](https://www.spiegel.de/start/hochschulen-in-deutschland-frauen-haben-bei-vergabe-von-professuren-das-nachsehen-a-d7692eb2-9ada-4a80-a709-3c02e88b1aaa#ref=rss)
-### professuren
+* [https://www.spiegel.de/panorama/gesellschaft/hawaii-sirenen-waren-laut-katastrophenschutz-nutzlos-eigentlich-fuer-tsunami-schutz](https://www.spiegel.de/panorama/gesellschaft/hawaii-sirenen-waren-laut-katastrophenschutz-nutzlos-eigentlich-fuer-tsunami-schutz-a-94d211e8-d1d3-4153-a2ff-6164ee4292bc#ref=rss)
+### katastrophenschutz
 
-* [https://www.spiegel.de/start/hochschulen-in-deutschland-frauen-haben-bei-vergabe-von-professuren-das-nachsehen](https://www.spiegel.de/start/hochschulen-in-deutschland-frauen-haben-bei-vergabe-von-professuren-das-nachsehen-a-d7692eb2-9ada-4a80-a709-3c02e88b1aaa#ref=rss)
-### rust
+* [https://www.spiegel.de/panorama/gesellschaft/hawaii-sirenen-waren-laut-katastrophenschutz-nutzlos-eigentlich-fuer-tsunami-schutz](https://www.spiegel.de/panorama/gesellschaft/hawaii-sirenen-waren-laut-katastrophenschutz-nutzlos-eigentlich-fuer-tsunami-schutz-a-94d211e8-d1d3-4153-a2ff-6164ee4292bc#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/panorama/justiz/alec-baldwin-soll-bei-rust-dreh-doch-abgedrueckt-haben](https://www.spiegel.de/panorama/justiz/alec-baldwin-soll-bei-rust-dreh-doch-abgedrueckt-haben-a-87c17063-c156-457e-9645-44a6049c8e82#ref=rss)
-### alec
+* [https://www.spiegel.de/panorama/gesellschaft/hawaii-sirenen-waren-laut-katastrophenschutz-nutzlos-eigentlich-fuer-tsunami-schutz](https://www.spiegel.de/panorama/gesellschaft/hawaii-sirenen-waren-laut-katastrophenschutz-nutzlos-eigentlich-fuer-tsunami-schutz-a-94d211e8-d1d3-4153-a2ff-6164ee4292bc#ref=rss)
+### herzkrank
 
-* [https://www.spiegel.de/panorama/justiz/alec-baldwin-soll-bei-rust-dreh-doch-abgedrueckt-haben](https://www.spiegel.de/panorama/justiz/alec-baldwin-soll-bei-rust-dreh-doch-abgedrueckt-haben-a-87c17063-c156-457e-9645-44a6049c8e82#ref=rss)
-### baldwin
+* [https://www.spiegel.de/psychologie/jung-und-herzkrank-wie-hole-ich-am-meisten-aus-meinem-leben-raus](https://www.spiegel.de/psychologie/jung-und-herzkrank-wie-hole-ich-am-meisten-aus-meinem-leben-raus-a-f9a1fa74-6de5-4dc9-9c7a-f2dec79c53dd#ref=rss)
+### werde
 
-* [https://www.spiegel.de/panorama/justiz/alec-baldwin-soll-bei-rust-dreh-doch-abgedrueckt-haben](https://www.spiegel.de/panorama/justiz/alec-baldwin-soll-bei-rust-dreh-doch-abgedrueckt-haben-a-87c17063-c156-457e-9645-44a6049c8e82#ref=rss)
-### dietmar
+* [https://www.spiegel.de/psychologie/jung-und-herzkrank-wie-hole-ich-am-meisten-aus-meinem-leben-raus](https://www.spiegel.de/psychologie/jung-und-herzkrank-wie-hole-ich-am-meisten-aus-meinem-leben-raus-a-f9a1fa74-6de5-4dc9-9c7a-f2dec79c53dd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rezession-und-inflation-in-deutschland-oekonom-clemens-fuest-ueber-die-wirtschaft](https://www.spiegel.de/wirtschaft/rezession-und-inflation-in-deutschland-oekonom-clemens-fuest-ueber-die-wirtschaft-a-f5bd28c5-33cb-4681-8a46-809c99d40b5e#ref=rss)
+### clemens
 
-* [https://www.spiegel.de/politik/deutschland/dietmar-bartsch-viele-haben-mich-bedraengt-eine-andere-entscheidung-zu-treffen](https://www.spiegel.de/politik/deutschland/dietmar-bartsch-viele-haben-mich-bedraengt-eine-andere-entscheidung-zu-treffen-a-97f7af28-bfd0-4f9f-bfb8-809005465de3#ref=rss)
-### bartsch
+* [https://www.spiegel.de/wirtschaft/rezession-und-inflation-in-deutschland-oekonom-clemens-fuest-ueber-die-wirtschaft](https://www.spiegel.de/wirtschaft/rezession-und-inflation-in-deutschland-oekonom-clemens-fuest-ueber-die-wirtschaft-a-f5bd28c5-33cb-4681-8a46-809c99d40b5e#ref=rss)
+### fuest
 
-* [https://www.spiegel.de/politik/deutschland/dietmar-bartsch-viele-haben-mich-bedraengt-eine-andere-entscheidung-zu-treffen](https://www.spiegel.de/politik/deutschland/dietmar-bartsch-viele-haben-mich-bedraengt-eine-andere-entscheidung-zu-treffen-a-97f7af28-bfd0-4f9f-bfb8-809005465de3#ref=rss)
-### döner
+* [https://www.spiegel.de/wirtschaft/rezession-und-inflation-in-deutschland-oekonom-clemens-fuest-ueber-die-wirtschaft](https://www.spiegel.de/wirtschaft/rezession-und-inflation-in-deutschland-oekonom-clemens-fuest-ueber-die-wirtschaft-a-f5bd28c5-33cb-4681-8a46-809c99d40b5e#ref=rss)
+### große
 
-* [https://www.spiegel.de/netzwelt/web/pornhub-mutterfirma-mindgeek-stoert-sich-an-new-yorker-doener-haus](https://www.spiegel.de/netzwelt/web/pornhub-mutterfirma-mindgeek-stoert-sich-an-new-yorker-doener-haus-a-8b456b5c-02f4-4618-97c6-0bd02e91228a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rezession-und-inflation-in-deutschland-oekonom-clemens-fuest-ueber-die-wirtschaft](https://www.spiegel.de/wirtschaft/rezession-und-inflation-in-deutschland-oekonom-clemens-fuest-ueber-die-wirtschaft-a-f5bd28c5-33cb-4681-8a46-809c99d40b5e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-praesident-xi-jinping-mahnt-buerger-zur-geduld-und-keilt-gegen-den-westen](https://www.spiegel.de/wirtschaft/china-praesident-xi-jinping-mahnt-buerger-zur-geduld-und-keilt-gegen-den-westen-a-750232e9-a764-441a-aec0-0067165bc89f#ref=rss)
+### probleme
+
+* [https://www.spiegel.de/wirtschaft/rezession-und-inflation-in-deutschland-oekonom-clemens-fuest-ueber-die-wirtschaft](https://www.spiegel.de/wirtschaft/rezession-und-inflation-in-deutschland-oekonom-clemens-fuest-ueber-die-wirtschaft-a-f5bd28c5-33cb-4681-8a46-809c99d40b5e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-praesident-xi-jinping-mahnt-buerger-zur-geduld-und-keilt-gegen-den-westen](https://www.spiegel.de/wirtschaft/china-praesident-xi-jinping-mahnt-buerger-zur-geduld-und-keilt-gegen-den-westen-a-750232e9-a764-441a-aec0-0067165bc89f#ref=rss)
+### dennoch
+
+* [https://www.spiegel.de/wirtschaft/rezession-und-inflation-in-deutschland-oekonom-clemens-fuest-ueber-die-wirtschaft](https://www.spiegel.de/wirtschaft/rezession-und-inflation-in-deutschland-oekonom-clemens-fuest-ueber-die-wirtschaft-a-f5bd28c5-33cb-4681-8a46-809c99d40b5e#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-ukraine-hat-laut-britischen-geheimdiensten-genuegend-energiereserven-fuer-winter](https://www.spiegel.de/ausland/ukraine-russland-news-heute-ukraine-hat-laut-britischen-geheimdiensten-genuegend-energiereserven-fuer-winter-a-0cf1fe05-a592-4de6-85e5-93a3c2ebe6bd#ref=rss)
+### vielen
+
+* [https://www.spiegel.de/wirtschaft/rezession-und-inflation-in-deutschland-oekonom-clemens-fuest-ueber-die-wirtschaft](https://www.spiegel.de/wirtschaft/rezession-und-inflation-in-deutschland-oekonom-clemens-fuest-ueber-die-wirtschaft-a-f5bd28c5-33cb-4681-8a46-809c99d40b5e#ref=rss)
+* [https://www.spiegel.de/kultur/der-hund-der-nur-englisch-sprach-von-linus-reichlin-auf-dem-wahrheitstrip](https://www.spiegel.de/kultur/der-hund-der-nur-englisch-sprach-von-linus-reichlin-auf-dem-wahrheitstrip-a-0d7edd69-44f4-4d98-8e80-10a263dd08a3#ref=rss)
+### ländern
+
+* [https://www.spiegel.de/wirtschaft/rezession-und-inflation-in-deutschland-oekonom-clemens-fuest-ueber-die-wirtschaft](https://www.spiegel.de/wirtschaft/rezession-und-inflation-in-deutschland-oekonom-clemens-fuest-ueber-die-wirtschaft-a-f5bd28c5-33cb-4681-8a46-809c99d40b5e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-praesident-xi-jinping-mahnt-buerger-zur-geduld-und-keilt-gegen-den-westen](https://www.spiegel.de/wirtschaft/china-praesident-xi-jinping-mahnt-buerger-zur-geduld-und-keilt-gegen-den-westen-a-750232e9-a764-441a-aec0-0067165bc89f#ref=rss)
+### pakistan
+
+* [https://www.spiegel.de/ausland/pakistan-mehr-als-100-festnahmen-nach-ausschreitungen-gegen-christen](https://www.spiegel.de/ausland/pakistan-mehr-als-100-festnahmen-nach-ausschreitungen-gegen-christen-a-bd6d9164-6127-495f-b217-d61553a41005#ref=rss)
+### ausschreitungen
+
+* [https://www.spiegel.de/ausland/pakistan-mehr-als-100-festnahmen-nach-ausschreitungen-gegen-christen](https://www.spiegel.de/ausland/pakistan-mehr-als-100-festnahmen-nach-ausschreitungen-gegen-christen-a-bd6d9164-6127-495f-b217-d61553a41005#ref=rss)
+### peru
+
+* [https://www.spiegel.de/panorama/gesellschaft/peru-erlaubt-vergewaltigter-elfjaehriger-nun-doch-eine-abtreibung](https://www.spiegel.de/panorama/gesellschaft/peru-erlaubt-vergewaltigter-elfjaehriger-nun-doch-eine-abtreibung-a-019725d8-5323-4ff3-bac5-b6e206976a1a#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/panorama/gesellschaft/peru-erlaubt-vergewaltigter-elfjaehriger-nun-doch-eine-abtreibung](https://www.spiegel.de/panorama/gesellschaft/peru-erlaubt-vergewaltigter-elfjaehriger-nun-doch-eine-abtreibung-a-019725d8-5323-4ff3-bac5-b6e206976a1a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sparkurs-trifft-politische-bildung-ein-geschenk-fuer-antidemokraten](https://www.spiegel.de/politik/deutschland/sparkurs-trifft-politische-bildung-ein-geschenk-fuer-antidemokraten-a-5fb44bac-b4e2-41ba-90e9-5fec4580847d#ref=rss)
+### winter
+
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-ukraine-hat-laut-britischen-geheimdiensten-genuegend-energiereserven-fuer-winter](https://www.spiegel.de/ausland/ukraine-russland-news-heute-ukraine-hat-laut-britischen-geheimdiensten-genuegend-energiereserven-fuer-winter-a-0cf1fe05-a592-4de6-85e5-93a3c2ebe6bd#ref=rss)
+### linus
+
+* [https://www.spiegel.de/kultur/der-hund-der-nur-englisch-sprach-von-linus-reichlin-auf-dem-wahrheitstrip](https://www.spiegel.de/kultur/der-hund-der-nur-englisch-sprach-von-linus-reichlin-auf-dem-wahrheitstrip-a-0d7edd69-44f4-4d98-8e80-10a263dd08a3#ref=rss)
+### vlatko
+
+* [https://www.spiegel.de/sport/fussball/nach-fruehem-aus-bei-fussball-wm-der-frauen-us-coach-vlatko-andonovski-tritt-wohl-zurueck](https://www.spiegel.de/sport/fussball/nach-fruehem-aus-bei-fussball-wm-der-frauen-us-coach-vlatko-andonovski-tritt-wohl-zurueck-a-c4f7f300-cf25-41a5-b0a0-afc90729a4b9#ref=rss)
+### andonovski
+
+* [https://www.spiegel.de/sport/fussball/nach-fruehem-aus-bei-fussball-wm-der-frauen-us-coach-vlatko-andonovski-tritt-wohl-zurueck](https://www.spiegel.de/sport/fussball/nach-fruehem-aus-bei-fussball-wm-der-frauen-us-coach-vlatko-andonovski-tritt-wohl-zurueck-a-c4f7f300-cf25-41a5-b0a0-afc90729a4b9#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/sport/fussball/nach-fruehem-aus-bei-fussball-wm-der-frauen-us-coach-vlatko-andonovski-tritt-wohl-zurueck](https://www.spiegel.de/sport/fussball/nach-fruehem-aus-bei-fussball-wm-der-frauen-us-coach-vlatko-andonovski-tritt-wohl-zurueck-a-c4f7f300-cf25-41a5-b0a0-afc90729a4b9#ref=rss)
+### sanktionen
+
+* [https://www.spiegel.de/wirtschaft/ukraine-krieg-der-westen-muss-endlich-die-sanktionen-gegen-russland-ernst-nehmen](https://www.spiegel.de/wirtschaft/ukraine-krieg-der-westen-muss-endlich-die-sanktionen-gegen-russland-ernst-nehmen-a-636df845-f40a-4c99-987e-5cdfa6bd5104#ref=rss)
+### moskau
+
+* [https://www.spiegel.de/wirtschaft/ukraine-krieg-der-westen-muss-endlich-die-sanktionen-gegen-russland-ernst-nehmen](https://www.spiegel.de/wirtschaft/ukraine-krieg-der-westen-muss-endlich-die-sanktionen-gegen-russland-ernst-nehmen-a-636df845-f40a-4c99-987e-5cdfa6bd5104#ref=rss)
+### xi
+
+* [https://www.spiegel.de/wirtschaft/china-praesident-xi-jinping-mahnt-buerger-zur-geduld-und-keilt-gegen-den-westen](https://www.spiegel.de/wirtschaft/china-praesident-xi-jinping-mahnt-buerger-zur-geduld-und-keilt-gegen-den-westen-a-750232e9-a764-441a-aec0-0067165bc89f#ref=rss)
+### bürger
+
+* [https://www.spiegel.de/wirtschaft/china-praesident-xi-jinping-mahnt-buerger-zur-geduld-und-keilt-gegen-den-westen](https://www.spiegel.de/wirtschaft/china-praesident-xi-jinping-mahnt-buerger-zur-geduld-und-keilt-gegen-den-westen-a-750232e9-a764-441a-aec0-0067165bc89f#ref=rss)
 
