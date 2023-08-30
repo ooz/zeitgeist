@@ -4,361 +4,301 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### neue
-
-* [https://www.spiegel.de/wirtschaft/datenstrategie-der-bundesregierung-koennen-faxgeraete-bald-ki](https://www.spiegel.de/wirtschaft/datenstrategie-der-bundesregierung-koennen-faxgeraete-bald-ki-a-b35c8241-ed54-46cf-9c8c-abbe094a14ea#ref=rss)
-* [https://www.spiegel.de/kultur/tv/neue-show-mit-carolin-kebekus-wir-gegen-die-bei-prosieben](https://www.spiegel.de/kultur/tv/neue-show-mit-carolin-kebekus-wir-gegen-die-bei-prosieben-a-251c6436-bf51-44d3-8a6d-c2d7588fa2db#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/strasskirchen-anwohner-duerfen-ueber-neue-bmw-batteriefabrik-abstimmen](https://www.spiegel.de/wirtschaft/unternehmen/strasskirchen-anwohner-duerfen-ueber-neue-bmw-batteriefabrik-abstimmen-a-180b878d-1b49-49ca-bd80-4103397ad1ff#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/fairphone-5-im-test-ein-smartphone-fuer-ein-ganzes-jahrzehnt](https://www.spiegel.de/netzwelt/gadgets/fairphone-5-im-test-ein-smartphone-fuer-ein-ganzes-jahrzehnt-a-6f82572e-4aa8-4990-bd0c-a7a734b7b1e5#ref=rss)
-* [https://www.spiegel.de/ausland/gabun-militaer-entmachtet-neue-regierung-wenige-tage-nach-wahl](https://www.spiegel.de/ausland/gabun-militaer-entmachtet-neue-regierung-wenige-tage-nach-wahl-a-e7d0a7b8-0526-4c7f-b602-8f75d57a76b2#ref=rss)
-### bundesregierung
-
-* [https://www.spiegel.de/wirtschaft/datenstrategie-der-bundesregierung-koennen-faxgeraete-bald-ki](https://www.spiegel.de/wirtschaft/datenstrategie-der-bundesregierung-koennen-faxgeraete-bald-ki-a-b35c8241-ed54-46cf-9c8c-abbe094a14ea#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-was-die-ampel-bei-der-meseberg-klausur-beschlossen-hat](https://www.spiegel.de/politik/deutschland/bundesregierung-was-die-ampel-bei-der-meseberg-klausur-beschlossen-hat-a-1ec45456-27ae-4a9b-98b1-f0e74c4943e4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-in-meseberg-so-will-die-ampel-die-wirtschaftskrise-bekaempfen-livestream](https://www.spiegel.de/politik/deutschland/bundesregierung-in-meseberg-so-will-die-ampel-die-wirtschaftskrise-bekaempfen-livestream-a-6fceb42c-a82b-4ec4-b661-50bbcd7a083f#ref=rss)
-### ampel
-
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-was-die-ampel-bei-der-meseberg-klausur-beschlossen-hat](https://www.spiegel.de/politik/deutschland/bundesregierung-was-die-ampel-bei-der-meseberg-klausur-beschlossen-hat-a-1ec45456-27ae-4a9b-98b1-f0e74c4943e4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-in-meseberg-so-will-die-ampel-die-wirtschaftskrise-bekaempfen-livestream](https://www.spiegel.de/politik/deutschland/bundesregierung-in-meseberg-so-will-die-ampel-die-wirtschaftskrise-bekaempfen-livestream-a-6fceb42c-a82b-4ec4-b661-50bbcd7a083f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/bundeslaender-verlangen-wettbewerbsfaehigen-strompreis-fuer-industrie](https://www.spiegel.de/wirtschaft/unternehmen/bundeslaender-verlangen-wettbewerbsfaehigen-strompreis-fuer-industrie-a-0b077250-de9a-4fdb-8dbf-69628dfa8c5a#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/panorama/justiz/bayern-toter-junge-aus-der-donau-interpol-weitet-ermittlungen-aus](https://www.spiegel.de/panorama/justiz/bayern-toter-junge-aus-der-donau-interpol-weitet-ermittlungen-aus-a-297ab186-8c6e-4378-adaa-7a02800d07d2#ref=rss)
-* [https://www.spiegel.de/kultur/musik/taylor-swift-hat-als-erste-frau-100-millionen-hoerer-bei-spotify](https://www.spiegel.de/kultur/musik/taylor-swift-hat-als-erste-frau-100-millionen-hoerer-bei-spotify-a-cec2f317-e075-4e4d-b059-476e6f3cbb20#ref=rss)
-* [https://www.spiegel.de/auto/berlin-hamburg-muenchen-und-andere-pkw-verkehr-in-deutschen-metropolen-nimmt-deutlich-ab](https://www.spiegel.de/auto/berlin-hamburg-muenchen-und-andere-pkw-verkehr-in-deutschen-metropolen-nimmt-deutlich-ab-a-c4dd7b21-a3ba-4db3-bdac-db23c49c752f#ref=rss)
-* [https://www.spiegel.de/ausland/gabun-militaer-entmachtet-neue-regierung-wenige-tage-nach-wahl](https://www.spiegel.de/ausland/gabun-militaer-entmachtet-neue-regierung-wenige-tage-nach-wahl-a-e7d0a7b8-0526-4c7f-b602-8f75d57a76b2#ref=rss)
-### matthias
-
-* [https://www.spiegel.de/panorama/leute/harald-schmidt-aeussert-sich-zu-foto-mit-matthias-matussek-und-hans-georg-maassen](https://www.spiegel.de/panorama/leute/harald-schmidt-aeussert-sich-zu-foto-mit-matthias-matussek-und-hans-georg-maassen-a-31a8e253-6130-4d8c-97bb-de18a16bb6d3#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-krise-matthias-sammer-kritisiert-den-verband-weltmeister-im-ausredensuchen](https://www.spiegel.de/sport/fussball/dfb-krise-matthias-sammer-kritisiert-den-verband-weltmeister-im-ausredensuchen-a-7a3d3dcb-462f-4f74-9903-6e8410287c0b#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/kultur/tv/neue-show-mit-carolin-kebekus-wir-gegen-die-bei-prosieben](https://www.spiegel.de/kultur/tv/neue-show-mit-carolin-kebekus-wir-gegen-die-bei-prosieben-a-251c6436-bf51-44d3-8a6d-c2d7588fa2db#ref=rss)
-* [https://www.spiegel.de/reise/corendon-airline-fuehrt-kinderfreie-bereiche-ein-gegen-aufpreis](https://www.spiegel.de/reise/corendon-airline-fuehrt-kinderfreie-bereiche-ein-gegen-aufpreis-a-329daa02-78d2-4b12-93d5-edfb5a506e39#ref=rss)
-* [https://www.spiegel.de/start/lachs-ersatz-aus-karotten-veganer-raeucherfisch-ohne-fisch-fuer-50-cent](https://www.spiegel.de/start/lachs-ersatz-aus-karotten-veganer-raeucherfisch-ohne-fisch-fuer-50-cent-a-42cedfa3-19ee-45cc-9a63-6e1f260d51d2#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-was-die-ampel-bei-der-meseberg-klausur-beschlossen-hat](https://www.spiegel.de/politik/deutschland/bundesregierung-was-die-ampel-bei-der-meseberg-klausur-beschlossen-hat-a-1ec45456-27ae-4a9b-98b1-f0e74c4943e4#ref=rss)
-* [https://www.spiegel.de/sport/tennis/us-open-2023-venus-williams-scheidet-aus-eva-lys-steht-in-runde-zwei](https://www.spiegel.de/sport/tennis/us-open-2023-venus-williams-scheidet-aus-eva-lys-steht-in-runde-zwei-a-82b9eaee-a5df-4d5d-8cad-f4785ee80d28#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/baden-baden-afd-stadtrat-martin-kuehne-tritt-zurueck-hakenkreuz-auf-ukrainischen-autos](https://www.spiegel.de/panorama/gesellschaft/baden-baden-afd-stadtrat-martin-kuehne-tritt-zurueck-hakenkreuz-auf-ukrainischen-autos-a-51f10c48-e925-4eca-ac4c-45ef82ac84ac#ref=rss)
-### eintracht
-
-* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-randal-kolo-muani-steikt-und-will-zu-paris-saint-germain-wechseln](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-randal-kolo-muani-steikt-und-will-zu-paris-saint-germain-wechseln-a-8a0dad82-3e3d-46e5-bdb9-443cbac85902#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-transferticker-randal-kolo-muani-will-eintracht-frankfurt-verlassen-und-zu-paris-saint-germain-wechseln](https://www.spiegel.de/sport/fussball/fussball-transferticker-randal-kolo-muani-will-eintracht-frankfurt-verlassen-und-zu-paris-saint-germain-wechseln-a-a0c1f938-b532-4f42-b1f6-c07559771d70#ref=rss)
-### frankfurt
-
-* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-randal-kolo-muani-steikt-und-will-zu-paris-saint-germain-wechseln](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-randal-kolo-muani-steikt-und-will-zu-paris-saint-germain-wechseln-a-8a0dad82-3e3d-46e5-bdb9-443cbac85902#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-transferticker-randal-kolo-muani-will-eintracht-frankfurt-verlassen-und-zu-paris-saint-germain-wechseln](https://www.spiegel.de/sport/fussball/fussball-transferticker-randal-kolo-muani-will-eintracht-frankfurt-verlassen-und-zu-paris-saint-germain-wechseln-a-a0c1f938-b532-4f42-b1f6-c07559771d70#ref=rss)
-### randal
-
-* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-randal-kolo-muani-steikt-und-will-zu-paris-saint-germain-wechseln](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-randal-kolo-muani-steikt-und-will-zu-paris-saint-germain-wechseln-a-8a0dad82-3e3d-46e5-bdb9-443cbac85902#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-transferticker-randal-kolo-muani-will-eintracht-frankfurt-verlassen-und-zu-paris-saint-germain-wechseln](https://www.spiegel.de/sport/fussball/fussball-transferticker-randal-kolo-muani-will-eintracht-frankfurt-verlassen-und-zu-paris-saint-germain-wechseln-a-a0c1f938-b532-4f42-b1f6-c07559771d70#ref=rss)
-### kolo
-
-* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-randal-kolo-muani-steikt-und-will-zu-paris-saint-germain-wechseln](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-randal-kolo-muani-steikt-und-will-zu-paris-saint-germain-wechseln-a-8a0dad82-3e3d-46e5-bdb9-443cbac85902#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-transferticker-randal-kolo-muani-will-eintracht-frankfurt-verlassen-und-zu-paris-saint-germain-wechseln](https://www.spiegel.de/sport/fussball/fussball-transferticker-randal-kolo-muani-will-eintracht-frankfurt-verlassen-und-zu-paris-saint-germain-wechseln-a-a0c1f938-b532-4f42-b1f6-c07559771d70#ref=rss)
-### muani
-
-* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-randal-kolo-muani-steikt-und-will-zu-paris-saint-germain-wechseln](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-randal-kolo-muani-steikt-und-will-zu-paris-saint-germain-wechseln-a-8a0dad82-3e3d-46e5-bdb9-443cbac85902#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-transferticker-randal-kolo-muani-will-eintracht-frankfurt-verlassen-und-zu-paris-saint-germain-wechseln](https://www.spiegel.de/sport/fussball/fussball-transferticker-randal-kolo-muani-will-eintracht-frankfurt-verlassen-und-zu-paris-saint-germain-wechseln-a-a0c1f938-b532-4f42-b1f6-c07559771d70#ref=rss)
-### paris
-
-* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-randal-kolo-muani-steikt-und-will-zu-paris-saint-germain-wechseln](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-randal-kolo-muani-steikt-und-will-zu-paris-saint-germain-wechseln-a-8a0dad82-3e3d-46e5-bdb9-443cbac85902#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-transferticker-randal-kolo-muani-will-eintracht-frankfurt-verlassen-und-zu-paris-saint-germain-wechseln](https://www.spiegel.de/sport/fussball/fussball-transferticker-randal-kolo-muani-will-eintracht-frankfurt-verlassen-und-zu-paris-saint-germain-wechseln-a-a0c1f938-b532-4f42-b1f6-c07559771d70#ref=rss)
-### saintgermain
-
-* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-randal-kolo-muani-steikt-und-will-zu-paris-saint-germain-wechseln](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-randal-kolo-muani-steikt-und-will-zu-paris-saint-germain-wechseln-a-8a0dad82-3e3d-46e5-bdb9-443cbac85902#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-transferticker-randal-kolo-muani-will-eintracht-frankfurt-verlassen-und-zu-paris-saint-germain-wechseln](https://www.spiegel.de/sport/fussball/fussball-transferticker-randal-kolo-muani-will-eintracht-frankfurt-verlassen-und-zu-paris-saint-germain-wechseln-a-a0c1f938-b532-4f42-b1f6-c07559771d70#ref=rss)
-### wechseln
-
-* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-randal-kolo-muani-steikt-und-will-zu-paris-saint-germain-wechseln](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-randal-kolo-muani-steikt-und-will-zu-paris-saint-germain-wechseln-a-8a0dad82-3e3d-46e5-bdb9-443cbac85902#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-transferticker-randal-kolo-muani-will-eintracht-frankfurt-verlassen-und-zu-paris-saint-germain-wechseln](https://www.spiegel.de/sport/fussball/fussball-transferticker-randal-kolo-muani-will-eintracht-frankfurt-verlassen-und-zu-paris-saint-germain-wechseln-a-a0c1f938-b532-4f42-b1f6-c07559771d70#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/jugendschutz-mehr-als-ein-drittel-der-minderjaehrigen-hat-pornos-gesehen](https://www.spiegel.de/netzwelt/web/jugendschutz-mehr-als-ein-drittel-der-minderjaehrigen-hat-pornos-gesehen-a-53669234-30db-47af-9a93-e44c0da78aaa#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/ki-haengt-weltklasse-drohnenpiloten-ab](https://www.spiegel.de/wissenschaft/technik/ki-haengt-weltklasse-drohnenpiloten-ab-a-c7fdcdc8-e087-4d1d-8937-99a52b23acf0#ref=rss)
+* [https://www.spiegel.de/gesundheit/schwangerschaft/klassische-musik-kann-schmerzempfinden-von-neugeborenen-lindern](https://www.spiegel.de/gesundheit/schwangerschaft/klassische-musik-kann-schmerzempfinden-von-neugeborenen-lindern-a-312ffc98-4fe3-4d68-9a5f-5286ce370213#ref=rss)
+* [https://www.spiegel.de/wirtschaft/viertagewoche-sechsmonatiges-pilotprojekt-in-deutschland-startet-anfang-2024](https://www.spiegel.de/wirtschaft/viertagewoche-sechsmonatiges-pilotprojekt-in-deutschland-startet-anfang-2024-a-5379836a-c97f-49e2-8adb-2434a68d0144#ref=rss)
 ### ukraine
 
 * [https://www.spiegel.de/ausland/ukraine-russland-news-heute-moskau-droht-der-ukraine-nach-massiven-luftangriffen](https://www.spiegel.de/ausland/ukraine-russland-news-heute-moskau-droht-der-ukraine-nach-massiven-luftangriffen-a-177a3b7a-c45b-49bd-94da-0104abe9f475#ref=rss)
-* [https://www.spiegel.de/ausland/russland-massiver-zeitgleicher-drohnenangriff-auf-mehrere-standorte](https://www.spiegel.de/ausland/russland-massiver-zeitgleicher-drohnenangriff-auf-mehrere-standorte-a-a15ade46-edb1-49c3-b583-ba2cb8c0ce26#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/krieg-in-der-ukraine-forscher-analysieren-erdbebenwellen](https://www.spiegel.de/wissenschaft/technik/krieg-in-der-ukraine-forscher-analysieren-erdbebenwellen-a-77d47fc0-81fa-4948-8a20-3594cbb48f59#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-alkoholkonsum-und-ampel-beschluesse-ukrainische-drohnen-gegen-russland-e-scooter-und-e-roller](https://www.spiegel.de/politik/deutschland/news-des-tages-alkoholkonsum-und-ampel-beschluesse-ukrainische-drohnen-gegen-russland-e-scooter-und-e-roller-a-c0580838-222c-4650-ad16-93fc3c8c6d36#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/auto/ein-drittel-deutschlands-kommunaler-strassen-weist-groessere-maengel-auf-vor-allem-in-nord-und-ost](https://www.spiegel.de/auto/ein-drittel-deutschlands-kommunaler-strassen-weist-groessere-maengel-auf-vor-allem-in-nord-und-ost-a-130d190c-c655-414a-929c-a85ab3b5025b#ref=rss)
+* [https://www.spiegel.de/start/aufstiegs-bafoeg-warum-meisterschueler-in-nrw-auf-ihr-geld-warten](https://www.spiegel.de/start/aufstiegs-bafoeg-warum-meisterschueler-in-nrw-auf-ihr-geld-warten-a-5396cb30-4023-49cc-9742-4d0fd5bc52fd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/viertagewoche-sechsmonatiges-pilotprojekt-in-deutschland-startet-anfang-2024](https://www.spiegel.de/wirtschaft/viertagewoche-sechsmonatiges-pilotprojekt-in-deutschland-startet-anfang-2024-a-5379836a-c97f-49e2-8adb-2434a68d0144#ref=rss)
+### neue
+
+* [https://www.spiegel.de/auto/ein-drittel-deutschlands-kommunaler-strassen-weist-groessere-maengel-auf-vor-allem-in-nord-und-ost](https://www.spiegel.de/auto/ein-drittel-deutschlands-kommunaler-strassen-weist-groessere-maengel-auf-vor-allem-in-nord-und-ost-a-130d190c-c655-414a-929c-a85ab3b5025b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-sportdirektor-christoph-freund-soll-der-bambi-entwickler-werden](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-sportdirektor-christoph-freund-soll-der-bambi-entwickler-werden-a-92a55fb4-26e9-442d-9280-13d5b0f9022a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/streit-um-sahra-wagenknecht-linksfraktion-findet-keine-neue-fuehrung](https://www.spiegel.de/politik/deutschland/streit-um-sahra-wagenknecht-linksfraktion-findet-keine-neue-fuehrung-a-42f632a4-250a-4bbc-b9c1-aad5cdfe00d4#ref=rss)
 ### meseberg
 
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-in-meseberg-so-will-die-ampel-die-wirtschaftskrise-bekaempfen-livestream](https://www.spiegel.de/politik/deutschland/bundesregierung-in-meseberg-so-will-die-ampel-die-wirtschaftskrise-bekaempfen-livestream-a-6fceb42c-a82b-4ec4-b661-50bbcd7a083f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/bundeslaender-verlangen-wettbewerbsfaehigen-strompreis-fuer-industrie](https://www.spiegel.de/wirtschaft/unternehmen/bundeslaender-verlangen-wettbewerbsfaehigen-strompreis-fuer-industrie-a-0b077250-de9a-4fdb-8dbf-69628dfa8c5a#ref=rss)
-### pro
+* [https://www.spiegel.de/politik/deutschland/ampel-klausur-in-meseberg-wie-ist-die-stimmung-in-der-koalition](https://www.spiegel.de/politik/deutschland/ampel-klausur-in-meseberg-wie-ist-die-stimmung-in-der-koalition-a-2b618de0-b92b-4de1-98f2-266d72729960#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kabinettsklausur-in-meseberg-die-ampel-sucht-den-fluestermodus](https://www.spiegel.de/politik/deutschland/kabinettsklausur-in-meseberg-die-ampel-sucht-den-fluestermodus-a-406dcd9f-fdbd-4343-b81f-ab34eb071cba#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/ausland/georgien-und-moldau-pro-asyl-kritisiert-einstufung-als-sichere-herkunftslaender](https://www.spiegel.de/ausland/georgien-und-moldau-pro-asyl-kritisiert-einstufung-als-sichere-herkunftslaender-a-c8c4a52c-5e9d-432a-a085-70c327422653#ref=rss)
-* [https://www.spiegel.de/kultur/musik/taylor-swift-hat-als-erste-frau-100-millionen-hoerer-bei-spotify](https://www.spiegel.de/kultur/musik/taylor-swift-hat-als-erste-frau-100-millionen-hoerer-bei-spotify-a-cec2f317-e075-4e4d-b059-476e6f3cbb20#ref=rss)
-### asyl
+* [https://www.spiegel.de/politik/deutschland/ampel-klausur-in-meseberg-wie-ist-die-stimmung-in-der-koalition](https://www.spiegel.de/politik/deutschland/ampel-klausur-in-meseberg-wie-ist-die-stimmung-in-der-koalition-a-2b618de0-b92b-4de1-98f2-266d72729960#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/geslau-drei-tote-bei-frontalzusammenstoss-von-krankenwagen-und-auto](https://www.spiegel.de/panorama/justiz/geslau-drei-tote-bei-frontalzusammenstoss-von-krankenwagen-und-auto-a-17220e14-5dc4-4d6d-b0ce-3ae1cc747064#ref=rss)
+* [https://www.spiegel.de/panorama/a2-bei-theessen-bleibt-nach-lkw-unfall-in-richtung-hannover-mindestens-bis-samstag-gesperrt](https://www.spiegel.de/panorama/a2-bei-theessen-bleibt-nach-lkw-unfall-in-richtung-hannover-mindestens-bis-samstag-gesperrt-a-5adda4eb-e50b-4b29-b4d5-77595b8530c1#ref=rss)
+### drei
 
-* [https://www.spiegel.de/ausland/georgien-und-moldau-pro-asyl-kritisiert-einstufung-als-sichere-herkunftslaender](https://www.spiegel.de/ausland/georgien-und-moldau-pro-asyl-kritisiert-einstufung-als-sichere-herkunftslaender-a-c8c4a52c-5e9d-432a-a085-70c327422653#ref=rss)
-### kritisiert
+* [https://www.spiegel.de/panorama/justiz/chemnitz-rechtsextremist-verlor-drei-finger-machetenangriff-wohl-frei-erfunden](https://www.spiegel.de/panorama/justiz/chemnitz-rechtsextremist-verlor-drei-finger-machetenangriff-wohl-frei-erfunden-a-af95ff86-f47a-44ac-86a4-ccdf7559cb67#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/geslau-drei-tote-bei-frontalzusammenstoss-von-krankenwagen-und-auto](https://www.spiegel.de/panorama/justiz/geslau-drei-tote-bei-frontalzusammenstoss-von-krankenwagen-und-auto-a-17220e14-5dc4-4d6d-b0ce-3ae1cc747064#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/ausland/georgien-und-moldau-pro-asyl-kritisiert-einstufung-als-sichere-herkunftslaender](https://www.spiegel.de/ausland/georgien-und-moldau-pro-asyl-kritisiert-einstufung-als-sichere-herkunftslaender-a-c8c4a52c-5e9d-432a-a085-70c327422653#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-krise-matthias-sammer-kritisiert-den-verband-weltmeister-im-ausredensuchen](https://www.spiegel.de/sport/fussball/dfb-krise-matthias-sammer-kritisiert-den-verband-weltmeister-im-ausredensuchen-a-7a3d3dcb-462f-4f74-9903-6e8410287c0b#ref=rss)
-### wahl
+* [https://www.spiegel.de/panorama/justiz/geslau-drei-tote-bei-frontalzusammenstoss-von-krankenwagen-und-auto](https://www.spiegel.de/panorama/justiz/geslau-drei-tote-bei-frontalzusammenstoss-von-krankenwagen-und-auto-a-17220e14-5dc4-4d6d-b0ce-3ae1cc747064#ref=rss)
+* [https://www.spiegel.de/geschichte/disaster-spectacles-in-new-york-warum-menschen-zu-katastrophen-shows-pilgerten](https://www.spiegel.de/geschichte/disaster-spectacles-in-new-york-warum-menschen-zu-katastrophen-shows-pilgerten-a-4e0aa013-41ef-4605-8516-1c2149a88130#ref=rss)
+### warten
 
-* [https://www.spiegel.de/ausland/umfragen-zu-praesidentenwahl-in-den-usa-die-amerikaner-wollen-weder-donald-trump-noch-joe-biden](https://www.spiegel.de/ausland/umfragen-zu-praesidentenwahl-in-den-usa-die-amerikaner-wollen-weder-donald-trump-noch-joe-biden-a-12098544-7400-4852-874f-4b59f9548f85#ref=rss)
-* [https://www.spiegel.de/ausland/gabun-militaer-entmachtet-neue-regierung-wenige-tage-nach-wahl](https://www.spiegel.de/ausland/gabun-militaer-entmachtet-neue-regierung-wenige-tage-nach-wahl-a-e7d0a7b8-0526-4c7f-b602-8f75d57a76b2#ref=rss)
-### anderen
+* [https://www.spiegel.de/start/aufstiegs-bafoeg-warum-meisterschueler-in-nrw-auf-ihr-geld-warten](https://www.spiegel.de/start/aufstiegs-bafoeg-warum-meisterschueler-in-nrw-auf-ihr-geld-warten-a-5396cb30-4023-49cc-9742-4d0fd5bc52fd#ref=rss)
+* [https://www.spiegel.de/ausland/julian-assage-australien-wird-ungeduldig-die-regierung-der-usa-stellt-sich-stur](https://www.spiegel.de/ausland/julian-assage-australien-wird-ungeduldig-die-regierung-der-usa-stellt-sich-stur-a-88a8e406-1aaf-47f6-85d0-e2c9eb37a0f8#ref=rss)
+### toten
 
-* [https://www.spiegel.de/ausland/umfragen-zu-praesidentenwahl-in-den-usa-die-amerikaner-wollen-weder-donald-trump-noch-joe-biden](https://www.spiegel.de/ausland/umfragen-zu-praesidentenwahl-in-den-usa-die-amerikaner-wollen-weder-donald-trump-noch-joe-biden-a-12098544-7400-4852-874f-4b59f9548f85#ref=rss)
-* [https://www.spiegel.de/reise/corendon-airline-fuehrt-kinderfreie-bereiche-ein-gegen-aufpreis](https://www.spiegel.de/reise/corendon-airline-fuehrt-kinderfreie-bereiche-ein-gegen-aufpreis-a-329daa02-78d2-4b12-93d5-edfb5a506e39#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/rwe-erhaelt-zuschlag-fuer-offshore-windflaechen-im-golf-von-mexiko](https://www.spiegel.de/wirtschaft/unternehmen/rwe-erhaelt-zuschlag-fuer-offshore-windflaechen-im-golf-von-mexiko-a-1e7c7b10-7420-4487-a4e9-64d5005a6242#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/rwe-erhaelt-zuschlag-fuer-offshore-windflaechen-im-golf-von-mexiko](https://www.spiegel.de/wirtschaft/unternehmen/rwe-erhaelt-zuschlag-fuer-offshore-windflaechen-im-golf-von-mexiko-a-1e7c7b10-7420-4487-a4e9-64d5005a6242#ref=rss)
-* [https://www.spiegel.de/auto/berlin-hamburg-muenchen-und-andere-pkw-verkehr-in-deutschen-metropolen-nimmt-deutlich-ab](https://www.spiegel.de/auto/berlin-hamburg-muenchen-und-andere-pkw-verkehr-in-deutschen-metropolen-nimmt-deutlich-ab-a-c4dd7b21-a3ba-4db3-bdac-db23c49c752f#ref=rss)
-### ki
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/automatisch-benachteiligt-wie-ferda-ataman-die-diskriminierung-durch-ki-bekaempfen-will](https://www.spiegel.de/netzwelt/netzpolitik/automatisch-benachteiligt-wie-ferda-ataman-die-diskriminierung-durch-ki-bekaempfen-will-a-6abfebb0-6414-48e3-9819-c5af80105dcb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/datenstrategie-der-bundesregierung-koennen-faxgeraete-bald-ki](https://www.spiegel.de/wirtschaft/datenstrategie-der-bundesregierung-koennen-faxgeraete-bald-ki-a-b35c8241-ed54-46cf-9c8c-abbe094a14ea#ref=rss)
-### bekämpfen
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/automatisch-benachteiligt-wie-ferda-ataman-die-diskriminierung-durch-ki-bekaempfen-will](https://www.spiegel.de/netzwelt/netzpolitik/automatisch-benachteiligt-wie-ferda-ataman-die-diskriminierung-durch-ki-bekaempfen-will-a-6abfebb0-6414-48e3-9819-c5af80105dcb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-in-meseberg-so-will-die-ampel-die-wirtschaftskrise-bekaempfen-livestream](https://www.spiegel.de/politik/deutschland/bundesregierung-in-meseberg-so-will-die-ampel-die-wirtschaftskrise-bekaempfen-livestream-a-6fceb42c-a82b-4ec4-b661-50bbcd7a083f#ref=rss)
-### behörden
-
-* [https://www.spiegel.de/wirtschaft/datenstrategie-der-bundesregierung-koennen-faxgeraete-bald-ki](https://www.spiegel.de/wirtschaft/datenstrategie-der-bundesregierung-koennen-faxgeraete-bald-ki-a-b35c8241-ed54-46cf-9c8c-abbe094a14ea#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/qakbot-ermittler-zerschlagen-grosses-schadsoftware-netzwerk](https://www.spiegel.de/netzwelt/web/qakbot-ermittler-zerschlagen-grosses-schadsoftware-netzwerk-a-55ad5747-e5fb-4991-a2f9-6aa652a6974e#ref=rss)
+* [https://www.spiegel.de/panorama/a2-bei-theessen-bleibt-nach-lkw-unfall-in-richtung-hannover-mindestens-bis-samstag-gesperrt](https://www.spiegel.de/panorama/a2-bei-theessen-bleibt-nach-lkw-unfall-in-richtung-hannover-mindestens-bis-samstag-gesperrt-a-5adda4eb-e50b-4b29-b4d5-77595b8530c1#ref=rss)
+* [https://www.spiegel.de/kultur/kino/die-toten-voegel-sind-oben-kritik-zum-preisgekroenten-dokumentarfilm-ueber-naturverschmutzung-und-artenschutz](https://www.spiegel.de/kultur/kino/die-toten-voegel-sind-oben-kritik-zum-preisgekroenten-dokumentarfilm-ueber-naturverschmutzung-und-artenschutz-a-ee7da77a-debb-449a-9109-a35ca078eecf#ref=rss)
 ### regierung
 
-* [https://www.spiegel.de/wirtschaft/datenstrategie-der-bundesregierung-koennen-faxgeraete-bald-ki](https://www.spiegel.de/wirtschaft/datenstrategie-der-bundesregierung-koennen-faxgeraete-bald-ki-a-b35c8241-ed54-46cf-9c8c-abbe094a14ea#ref=rss)
-* [https://www.spiegel.de/ausland/gabun-militaer-entmachtet-neue-regierung-wenige-tage-nach-wahl](https://www.spiegel.de/ausland/gabun-militaer-entmachtet-neue-regierung-wenige-tage-nach-wahl-a-e7d0a7b8-0526-4c7f-b602-8f75d57a76b2#ref=rss)
-### intelligenz
+* [https://www.spiegel.de/politik/deutschland/kabinettsklausur-in-meseberg-die-ampel-sucht-den-fluestermodus](https://www.spiegel.de/politik/deutschland/kabinettsklausur-in-meseberg-die-ampel-sucht-den-fluestermodus-a-406dcd9f-fdbd-4343-b81f-ab34eb071cba#ref=rss)
+* [https://www.spiegel.de/ausland/julian-assage-australien-wird-ungeduldig-die-regierung-der-usa-stellt-sich-stur](https://www.spiegel.de/ausland/julian-assage-australien-wird-ungeduldig-die-regierung-der-usa-stellt-sich-stur-a-88a8e406-1aaf-47f6-85d0-e2c9eb37a0f8#ref=rss)
+### new
 
-* [https://www.spiegel.de/wirtschaft/datenstrategie-der-bundesregierung-koennen-faxgeraete-bald-ki](https://www.spiegel.de/wirtschaft/datenstrategie-der-bundesregierung-koennen-faxgeraete-bald-ki-a-b35c8241-ed54-46cf-9c8c-abbe094a14ea#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-google-stellt-digitales-wasserzeichen-fuer-ki-bilder-vor](https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-google-stellt-digitales-wasserzeichen-fuer-ki-bilder-vor-a-0a99e8dd-864d-41e3-80c8-f78ba500751c#ref=rss)
-### harald
+* [https://www.spiegel.de/kultur/tv/mark-thompson-wird-neuer-cnn-chef](https://www.spiegel.de/kultur/tv/mark-thompson-wird-neuer-cnn-chef-a-370eac4d-1202-480b-9aee-820f70074be5#ref=rss)
+* [https://www.spiegel.de/geschichte/disaster-spectacles-in-new-york-warum-menschen-zu-katastrophen-shows-pilgerten](https://www.spiegel.de/geschichte/disaster-spectacles-in-new-york-warum-menschen-zu-katastrophen-shows-pilgerten-a-4e0aa013-41ef-4605-8516-1c2149a88130#ref=rss)
+### luis
 
-* [https://www.spiegel.de/panorama/leute/harald-schmidt-aeussert-sich-zu-foto-mit-matthias-matussek-und-hans-georg-maassen](https://www.spiegel.de/panorama/leute/harald-schmidt-aeussert-sich-zu-foto-mit-matthias-matussek-und-hans-georg-maassen-a-31a8e253-6130-4d8c-97bb-de18a16bb6d3#ref=rss)
-### show
+* [https://www.spiegel.de/sport/luis-rubiales-mutter-angeles-bejar-nach-hungerstreik-offenbar-im-krankenhaus](https://www.spiegel.de/sport/luis-rubiales-mutter-angeles-bejar-nach-hungerstreik-offenbar-im-krankenhaus-a-84b58dd4-d62e-4270-a92f-3afaef537658#ref=rss)
+### rubiales
 
-* [https://www.spiegel.de/kultur/tv/neue-show-mit-carolin-kebekus-wir-gegen-die-bei-prosieben](https://www.spiegel.de/kultur/tv/neue-show-mit-carolin-kebekus-wir-gegen-die-bei-prosieben-a-251c6436-bf51-44d3-8a6d-c2d7588fa2db#ref=rss)
-### carolin
+* [https://www.spiegel.de/sport/luis-rubiales-mutter-angeles-bejar-nach-hungerstreik-offenbar-im-krankenhaus](https://www.spiegel.de/sport/luis-rubiales-mutter-angeles-bejar-nach-hungerstreik-offenbar-im-krankenhaus-a-84b58dd4-d62e-4270-a92f-3afaef537658#ref=rss)
+### ángeles
 
-* [https://www.spiegel.de/kultur/tv/neue-show-mit-carolin-kebekus-wir-gegen-die-bei-prosieben](https://www.spiegel.de/kultur/tv/neue-show-mit-carolin-kebekus-wir-gegen-die-bei-prosieben-a-251c6436-bf51-44d3-8a6d-c2d7588fa2db#ref=rss)
-### kebekus
+* [https://www.spiegel.de/sport/luis-rubiales-mutter-angeles-bejar-nach-hungerstreik-offenbar-im-krankenhaus](https://www.spiegel.de/sport/luis-rubiales-mutter-angeles-bejar-nach-hungerstreik-offenbar-im-krankenhaus-a-84b58dd4-d62e-4270-a92f-3afaef537658#ref=rss)
+### béjar
 
-* [https://www.spiegel.de/kultur/tv/neue-show-mit-carolin-kebekus-wir-gegen-die-bei-prosieben](https://www.spiegel.de/kultur/tv/neue-show-mit-carolin-kebekus-wir-gegen-die-bei-prosieben-a-251c6436-bf51-44d3-8a6d-c2d7588fa2db#ref=rss)
-### wir
+* [https://www.spiegel.de/sport/luis-rubiales-mutter-angeles-bejar-nach-hungerstreik-offenbar-im-krankenhaus](https://www.spiegel.de/sport/luis-rubiales-mutter-angeles-bejar-nach-hungerstreik-offenbar-im-krankenhaus-a-84b58dd4-d62e-4270-a92f-3afaef537658#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/kultur/tv/neue-show-mit-carolin-kebekus-wir-gegen-die-bei-prosieben](https://www.spiegel.de/kultur/tv/neue-show-mit-carolin-kebekus-wir-gegen-die-bei-prosieben-a-251c6436-bf51-44d3-8a6d-c2d7588fa2db#ref=rss)
-### prosieben
+* [https://www.spiegel.de/sport/luis-rubiales-mutter-angeles-bejar-nach-hungerstreik-offenbar-im-krankenhaus](https://www.spiegel.de/sport/luis-rubiales-mutter-angeles-bejar-nach-hungerstreik-offenbar-im-krankenhaus-a-84b58dd4-d62e-4270-a92f-3afaef537658#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/chemnitz-rechtsextremist-verlor-drei-finger-machetenangriff-wohl-frei-erfunden](https://www.spiegel.de/panorama/justiz/chemnitz-rechtsextremist-verlor-drei-finger-machetenangriff-wohl-frei-erfunden-a-af95ff86-f47a-44ac-86a4-ccdf7559cb67#ref=rss)
+### krankenhaus
 
-* [https://www.spiegel.de/kultur/tv/neue-show-mit-carolin-kebekus-wir-gegen-die-bei-prosieben](https://www.spiegel.de/kultur/tv/neue-show-mit-carolin-kebekus-wir-gegen-die-bei-prosieben-a-251c6436-bf51-44d3-8a6d-c2d7588fa2db#ref=rss)
-### gute
+* [https://www.spiegel.de/sport/luis-rubiales-mutter-angeles-bejar-nach-hungerstreik-offenbar-im-krankenhaus](https://www.spiegel.de/sport/luis-rubiales-mutter-angeles-bejar-nach-hungerstreik-offenbar-im-krankenhaus-a-84b58dd4-d62e-4270-a92f-3afaef537658#ref=rss)
+### drittel
 
-* [https://www.spiegel.de/kultur/tv/neue-show-mit-carolin-kebekus-wir-gegen-die-bei-prosieben](https://www.spiegel.de/kultur/tv/neue-show-mit-carolin-kebekus-wir-gegen-die-bei-prosieben-a-251c6436-bf51-44d3-8a6d-c2d7588fa2db#ref=rss)
-* [https://www.spiegel.de/start/lachs-ersatz-aus-karotten-veganer-raeucherfisch-ohne-fisch-fuer-50-cent](https://www.spiegel.de/start/lachs-ersatz-aus-karotten-veganer-raeucherfisch-ohne-fisch-fuer-50-cent-a-42cedfa3-19ee-45cc-9a63-6e1f260d51d2#ref=rss)
-### zuletzt
+* [https://www.spiegel.de/netzwelt/web/jugendschutz-mehr-als-ein-drittel-der-minderjaehrigen-hat-pornos-gesehen](https://www.spiegel.de/netzwelt/web/jugendschutz-mehr-als-ein-drittel-der-minderjaehrigen-hat-pornos-gesehen-a-53669234-30db-47af-9a93-e44c0da78aaa#ref=rss)
+* [https://www.spiegel.de/auto/ein-drittel-deutschlands-kommunaler-strassen-weist-groessere-maengel-auf-vor-allem-in-nord-und-ost](https://www.spiegel.de/auto/ein-drittel-deutschlands-kommunaler-strassen-weist-groessere-maengel-auf-vor-allem-in-nord-und-ost-a-130d190c-c655-414a-929c-a85ab3b5025b#ref=rss)
+### kommen
 
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-was-die-ampel-bei-der-meseberg-klausur-beschlossen-hat](https://www.spiegel.de/politik/deutschland/bundesregierung-was-die-ampel-bei-der-meseberg-klausur-beschlossen-hat-a-1ec45456-27ae-4a9b-98b1-f0e74c4943e4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-krise-matthias-sammer-kritisiert-den-verband-weltmeister-im-ausredensuchen](https://www.spiegel.de/sport/fussball/dfb-krise-matthias-sammer-kritisiert-den-verband-weltmeister-im-ausredensuchen-a-7a3d3dcb-462f-4f74-9903-6e8410287c0b#ref=rss)
-### tage
+* [https://www.spiegel.de/netzwelt/web/jugendschutz-mehr-als-ein-drittel-der-minderjaehrigen-hat-pornos-gesehen](https://www.spiegel.de/netzwelt/web/jugendschutz-mehr-als-ein-drittel-der-minderjaehrigen-hat-pornos-gesehen-a-53669234-30db-47af-9a93-e44c0da78aaa#ref=rss)
+* [https://www.spiegel.de/auto/ein-drittel-deutschlands-kommunaler-strassen-weist-groessere-maengel-auf-vor-allem-in-nord-und-ost](https://www.spiegel.de/auto/ein-drittel-deutschlands-kommunaler-strassen-weist-groessere-maengel-auf-vor-allem-in-nord-und-ost-a-130d190c-c655-414a-929c-a85ab3b5025b#ref=rss)
+### nrw
 
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-was-die-ampel-bei-der-meseberg-klausur-beschlossen-hat](https://www.spiegel.de/politik/deutschland/bundesregierung-was-die-ampel-bei-der-meseberg-klausur-beschlossen-hat-a-1ec45456-27ae-4a9b-98b1-f0e74c4943e4#ref=rss)
-* [https://www.spiegel.de/ausland/gabun-militaer-entmachtet-neue-regierung-wenige-tage-nach-wahl](https://www.spiegel.de/ausland/gabun-militaer-entmachtet-neue-regierung-wenige-tage-nach-wahl-a-e7d0a7b8-0526-4c7f-b602-8f75d57a76b2#ref=rss)
-### qakbot
-
-* [https://www.spiegel.de/netzwelt/web/qakbot-ermittler-zerschlagen-grosses-schadsoftware-netzwerk](https://www.spiegel.de/netzwelt/web/qakbot-ermittler-zerschlagen-grosses-schadsoftware-netzwerk-a-55ad5747-e5fb-4991-a2f9-6aa652a6974e#ref=rss)
-### ermittler
-
-* [https://www.spiegel.de/netzwelt/web/qakbot-ermittler-zerschlagen-grosses-schadsoftware-netzwerk](https://www.spiegel.de/netzwelt/web/qakbot-ermittler-zerschlagen-grosses-schadsoftware-netzwerk-a-55ad5747-e5fb-4991-a2f9-6aa652a6974e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bayern-toter-junge-aus-der-donau-interpol-weitet-ermittlungen-aus](https://www.spiegel.de/panorama/justiz/bayern-toter-junge-aus-der-donau-interpol-weitet-ermittlungen-aus-a-297ab186-8c6e-4378-adaa-7a02800d07d2#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-moskau-droht-der-ukraine-nach-massiven-luftangriffen](https://www.spiegel.de/ausland/ukraine-russland-news-heute-moskau-droht-der-ukraine-nach-massiven-luftangriffen-a-177a3b7a-c45b-49bd-94da-0104abe9f475#ref=rss)
-* [https://www.spiegel.de/ausland/russland-massiver-zeitgleicher-drohnenangriff-auf-mehrere-standorte](https://www.spiegel.de/ausland/russland-massiver-zeitgleicher-drohnenangriff-auf-mehrere-standorte-a-a15ade46-edb1-49c3-b583-ba2cb8c0ce26#ref=rss)
-### russischen
-
-* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-moskau-droht-der-ukraine-nach-massiven-luftangriffen](https://www.spiegel.de/ausland/ukraine-russland-news-heute-moskau-droht-der-ukraine-nach-massiven-luftangriffen-a-177a3b7a-c45b-49bd-94da-0104abe9f475#ref=rss)
-* [https://www.spiegel.de/ausland/russland-massiver-zeitgleicher-drohnenangriff-auf-mehrere-standorte](https://www.spiegel.de/ausland/russland-massiver-zeitgleicher-drohnenangriff-auf-mehrere-standorte-a-a15ade46-edb1-49c3-b583-ba2cb8c0ce26#ref=rss)
-### kam
-
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-in-meseberg-so-will-die-ampel-die-wirtschaftskrise-bekaempfen-livestream](https://www.spiegel.de/politik/deutschland/bundesregierung-in-meseberg-so-will-die-ampel-die-wirtschaftskrise-bekaempfen-livestream-a-6fceb42c-a82b-4ec4-b661-50bbcd7a083f#ref=rss)
-* [https://www.spiegel.de/ausland/russland-massiver-zeitgleicher-drohnenangriff-auf-mehrere-standorte](https://www.spiegel.de/ausland/russland-massiver-zeitgleicher-drohnenangriff-auf-mehrere-standorte-a-a15ade46-edb1-49c3-b583-ba2cb8c0ce26#ref=rss)
-### fairphone
-
-* [https://www.spiegel.de/netzwelt/gadgets/fairphone-5-im-test-ein-smartphone-fuer-ein-ganzes-jahrzehnt](https://www.spiegel.de/netzwelt/gadgets/fairphone-5-im-test-ein-smartphone-fuer-ein-ganzes-jahrzehnt-a-6f82572e-4aa8-4990-bd0c-a7a734b7b1e5#ref=rss)
-### verspricht
-
-* [https://www.spiegel.de/netzwelt/gadgets/fairphone-5-im-test-ein-smartphone-fuer-ein-ganzes-jahrzehnt](https://www.spiegel.de/netzwelt/gadgets/fairphone-5-im-test-ein-smartphone-fuer-ein-ganzes-jahrzehnt-a-6f82572e-4aa8-4990-bd0c-a7a734b7b1e5#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-google-stellt-digitales-wasserzeichen-fuer-ki-bilder-vor](https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-google-stellt-digitales-wasserzeichen-fuer-ki-bilder-vor-a-0a99e8dd-864d-41e3-80c8-f78ba500751c#ref=rss)
-### georgien
-
-* [https://www.spiegel.de/ausland/georgien-und-moldau-pro-asyl-kritisiert-einstufung-als-sichere-herkunftslaender](https://www.spiegel.de/ausland/georgien-und-moldau-pro-asyl-kritisiert-einstufung-als-sichere-herkunftslaender-a-c8c4a52c-5e9d-432a-a085-70c327422653#ref=rss)
-### moldau
-
-* [https://www.spiegel.de/ausland/georgien-und-moldau-pro-asyl-kritisiert-einstufung-als-sichere-herkunftslaender](https://www.spiegel.de/ausland/georgien-und-moldau-pro-asyl-kritisiert-einstufung-als-sichere-herkunftslaender-a-c8c4a52c-5e9d-432a-a085-70c327422653#ref=rss)
-### erhält
-
-* [https://www.spiegel.de/ausland/georgien-und-moldau-pro-asyl-kritisiert-einstufung-als-sichere-herkunftslaender](https://www.spiegel.de/ausland/georgien-und-moldau-pro-asyl-kritisiert-einstufung-als-sichere-herkunftslaender-a-c8c4a52c-5e9d-432a-a085-70c327422653#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/rwe-erhaelt-zuschlag-fuer-offshore-windflaechen-im-golf-von-mexiko](https://www.spiegel.de/wirtschaft/unternehmen/rwe-erhaelt-zuschlag-fuer-offshore-windflaechen-im-golf-von-mexiko-a-1e7c7b10-7420-4487-a4e9-64d5005a6242#ref=rss)
-### söder
-
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-ueber-aiwanger-affaere-alle-fragen-muessen-zweifelsfrei-geklaert-werden](https://www.spiegel.de/politik/deutschland/markus-soeder-ueber-aiwanger-affaere-alle-fragen-muessen-zweifelsfrei-geklaert-werden-a-1f63bfea-0e02-449f-aef0-c085aee1d769#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-ueber-aiwanger-affaere-alle-fragen-muessen-zweifelsfrei-geklaert-werden](https://www.spiegel.de/politik/deutschland/markus-soeder-ueber-aiwanger-affaere-alle-fragen-muessen-zweifelsfrei-geklaert-werden-a-1f63bfea-0e02-449f-aef0-c085aee1d769#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bayern-toter-junge-aus-der-donau-interpol-weitet-ermittlungen-aus](https://www.spiegel.de/panorama/justiz/bayern-toter-junge-aus-der-donau-interpol-weitet-ermittlungen-aus-a-297ab186-8c6e-4378-adaa-7a02800d07d2#ref=rss)
-### bayerns
-
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-ueber-aiwanger-affaere-alle-fragen-muessen-zweifelsfrei-geklaert-werden](https://www.spiegel.de/politik/deutschland/markus-soeder-ueber-aiwanger-affaere-alle-fragen-muessen-zweifelsfrei-geklaert-werden-a-1f63bfea-0e02-449f-aef0-c085aee1d769#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-transferticker-randal-kolo-muani-will-eintracht-frankfurt-verlassen-und-zu-paris-saint-germain-wechseln](https://www.spiegel.de/sport/fussball/fussball-transferticker-randal-kolo-muani-will-eintracht-frankfurt-verlassen-und-zu-paris-saint-germain-wechseln-a-a0c1f938-b532-4f42-b1f6-c07559771d70#ref=rss)
-### amerikaner
-
-* [https://www.spiegel.de/ausland/umfragen-zu-praesidentenwahl-in-den-usa-die-amerikaner-wollen-weder-donald-trump-noch-joe-biden](https://www.spiegel.de/ausland/umfragen-zu-praesidentenwahl-in-den-usa-die-amerikaner-wollen-weder-donald-trump-noch-joe-biden-a-12098544-7400-4852-874f-4b59f9548f85#ref=rss)
-### weder
-
-* [https://www.spiegel.de/ausland/umfragen-zu-praesidentenwahl-in-den-usa-die-amerikaner-wollen-weder-donald-trump-noch-joe-biden](https://www.spiegel.de/ausland/umfragen-zu-praesidentenwahl-in-den-usa-die-amerikaner-wollen-weder-donald-trump-noch-joe-biden-a-12098544-7400-4852-874f-4b59f9548f85#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/umfragen-zu-praesidentenwahl-in-den-usa-die-amerikaner-wollen-weder-donald-trump-noch-joe-biden](https://www.spiegel.de/ausland/umfragen-zu-praesidentenwahl-in-den-usa-die-amerikaner-wollen-weder-donald-trump-noch-joe-biden-a-12098544-7400-4852-874f-4b59f9548f85#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/umfragen-zu-praesidentenwahl-in-den-usa-die-amerikaner-wollen-weder-donald-trump-noch-joe-biden](https://www.spiegel.de/ausland/umfragen-zu-praesidentenwahl-in-den-usa-die-amerikaner-wollen-weder-donald-trump-noch-joe-biden-a-12098544-7400-4852-874f-4b59f9548f85#ref=rss)
-### joe
-
-* [https://www.spiegel.de/ausland/umfragen-zu-praesidentenwahl-in-den-usa-die-amerikaner-wollen-weder-donald-trump-noch-joe-biden](https://www.spiegel.de/ausland/umfragen-zu-praesidentenwahl-in-den-usa-die-amerikaner-wollen-weder-donald-trump-noch-joe-biden-a-12098544-7400-4852-874f-4b59f9548f85#ref=rss)
-### biden
-
-* [https://www.spiegel.de/ausland/umfragen-zu-praesidentenwahl-in-den-usa-die-amerikaner-wollen-weder-donald-trump-noch-joe-biden](https://www.spiegel.de/ausland/umfragen-zu-praesidentenwahl-in-den-usa-die-amerikaner-wollen-weder-donald-trump-noch-joe-biden-a-12098544-7400-4852-874f-4b59f9548f85#ref=rss)
-### andere
-
-* [https://www.spiegel.de/ausland/umfragen-zu-praesidentenwahl-in-den-usa-die-amerikaner-wollen-weder-donald-trump-noch-joe-biden](https://www.spiegel.de/ausland/umfragen-zu-praesidentenwahl-in-den-usa-die-amerikaner-wollen-weder-donald-trump-noch-joe-biden-a-12098544-7400-4852-874f-4b59f9548f85#ref=rss)
-* [https://www.spiegel.de/auto/berlin-hamburg-muenchen-und-andere-pkw-verkehr-in-deutschen-metropolen-nimmt-deutlich-ab](https://www.spiegel.de/auto/berlin-hamburg-muenchen-und-andere-pkw-verkehr-in-deutschen-metropolen-nimmt-deutlich-ab-a-c4dd7b21-a3ba-4db3-bdac-db23c49c752f#ref=rss)
-### führt
-
-* [https://www.spiegel.de/reise/corendon-airline-fuehrt-kinderfreie-bereiche-ein-gegen-aufpreis](https://www.spiegel.de/reise/corendon-airline-fuehrt-kinderfreie-bereiche-ein-gegen-aufpreis-a-329daa02-78d2-4b12-93d5-edfb5a506e39#ref=rss)
-### bereiche
-
-* [https://www.spiegel.de/reise/corendon-airline-fuehrt-kinderfreie-bereiche-ein-gegen-aufpreis](https://www.spiegel.de/reise/corendon-airline-fuehrt-kinderfreie-bereiche-ein-gegen-aufpreis-a-329daa02-78d2-4b12-93d5-edfb5a506e39#ref=rss)
-### gut
-
-* [https://www.spiegel.de/reise/corendon-airline-fuehrt-kinderfreie-bereiche-ein-gegen-aufpreis](https://www.spiegel.de/reise/corendon-airline-fuehrt-kinderfreie-bereiche-ein-gegen-aufpreis-a-329daa02-78d2-4b12-93d5-edfb5a506e39#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-google-stellt-digitales-wasserzeichen-fuer-ki-bilder-vor](https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-google-stellt-digitales-wasserzeichen-fuer-ki-bilder-vor-a-0a99e8dd-864d-41e3-80c8-f78ba500751c#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/panorama/justiz/bayern-toter-junge-aus-der-donau-interpol-weitet-ermittlungen-aus](https://www.spiegel.de/panorama/justiz/bayern-toter-junge-aus-der-donau-interpol-weitet-ermittlungen-aus-a-297ab186-8c6e-4378-adaa-7a02800d07d2#ref=rss)
-### junge
-
-* [https://www.spiegel.de/panorama/justiz/bayern-toter-junge-aus-der-donau-interpol-weitet-ermittlungen-aus](https://www.spiegel.de/panorama/justiz/bayern-toter-junge-aus-der-donau-interpol-weitet-ermittlungen-aus-a-297ab186-8c6e-4378-adaa-7a02800d07d2#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/panorama/justiz/bayern-toter-junge-aus-der-donau-interpol-weitet-ermittlungen-aus](https://www.spiegel.de/panorama/justiz/bayern-toter-junge-aus-der-donau-interpol-weitet-ermittlungen-aus-a-297ab186-8c6e-4378-adaa-7a02800d07d2#ref=rss)
-* [https://www.spiegel.de/sport/tennis/us-open-2023-venus-williams-scheidet-aus-eva-lys-steht-in-runde-zwei](https://www.spiegel.de/sport/tennis/us-open-2023-venus-williams-scheidet-aus-eva-lys-steht-in-runde-zwei-a-82b9eaee-a5df-4d5d-8cad-f4785ee80d28#ref=rss)
-### ausland
-
-* [https://www.spiegel.de/panorama/justiz/bayern-toter-junge-aus-der-donau-interpol-weitet-ermittlungen-aus](https://www.spiegel.de/panorama/justiz/bayern-toter-junge-aus-der-donau-interpol-weitet-ermittlungen-aus-a-297ab186-8c6e-4378-adaa-7a02800d07d2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/bundeslaender-verlangen-wettbewerbsfaehigen-strompreis-fuer-industrie](https://www.spiegel.de/wirtschaft/unternehmen/bundeslaender-verlangen-wettbewerbsfaehigen-strompreis-fuer-industrie-a-0b077250-de9a-4fdb-8dbf-69628dfa8c5a#ref=rss)
-### breaking
-
-* [https://www.spiegel.de/kultur/tv/hollywood-breaking-bad-ensemble-um-bryan-cranston-fuer-streik-aktion-wiedervereint](https://www.spiegel.de/kultur/tv/hollywood-breaking-bad-ensemble-um-bryan-cranston-fuer-streik-aktion-wiedervereint-a-c5b11b8a-cc67-4f8d-96e9-950de3257e27#ref=rss)
-### sammer
-
-* [https://www.spiegel.de/sport/fussball/dfb-krise-matthias-sammer-kritisiert-den-verband-weltmeister-im-ausredensuchen](https://www.spiegel.de/sport/fussball/dfb-krise-matthias-sammer-kritisiert-den-verband-weltmeister-im-ausredensuchen-a-7a3d3dcb-462f-4f74-9903-6e8410287c0b#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/jugendschutz-mehr-als-ein-drittel-der-minderjaehrigen-hat-pornos-gesehen](https://www.spiegel.de/netzwelt/web/jugendschutz-mehr-als-ein-drittel-der-minderjaehrigen-hat-pornos-gesehen-a-53669234-30db-47af-9a93-e44c0da78aaa#ref=rss)
+* [https://www.spiegel.de/start/aufstiegs-bafoeg-warum-meisterschueler-in-nrw-auf-ihr-geld-warten](https://www.spiegel.de/start/aufstiegs-bafoeg-warum-meisterschueler-in-nrw-auf-ihr-geld-warten-a-5396cb30-4023-49cc-9742-4d0fd5bc52fd#ref=rss)
 ### zeigt
 
-* [https://www.spiegel.de/sport/fussball/dfb-krise-matthias-sammer-kritisiert-den-verband-weltmeister-im-ausredensuchen](https://www.spiegel.de/sport/fussball/dfb-krise-matthias-sammer-kritisiert-den-verband-weltmeister-im-ausredensuchen-a-7a3d3dcb-462f-4f74-9903-6e8410287c0b#ref=rss)
-* [https://www.spiegel.de/auto/berlin-hamburg-muenchen-und-andere-pkw-verkehr-in-deutschen-metropolen-nimmt-deutlich-ab](https://www.spiegel.de/auto/berlin-hamburg-muenchen-und-andere-pkw-verkehr-in-deutschen-metropolen-nimmt-deutlich-ab-a-c4dd7b21-a3ba-4db3-bdac-db23c49c752f#ref=rss)
-### rwe
+* [https://www.spiegel.de/netzwelt/web/jugendschutz-mehr-als-ein-drittel-der-minderjaehrigen-hat-pornos-gesehen](https://www.spiegel.de/netzwelt/web/jugendschutz-mehr-als-ein-drittel-der-minderjaehrigen-hat-pornos-gesehen-a-53669234-30db-47af-9a93-e44c0da78aaa#ref=rss)
+* [https://www.spiegel.de/auto/ein-drittel-deutschlands-kommunaler-strassen-weist-groessere-maengel-auf-vor-allem-in-nord-und-ost](https://www.spiegel.de/auto/ein-drittel-deutschlands-kommunaler-strassen-weist-groessere-maengel-auf-vor-allem-in-nord-und-ost-a-130d190c-c655-414a-929c-a85ab3b5025b#ref=rss)
+### venedig
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/rwe-erhaelt-zuschlag-fuer-offshore-windflaechen-im-golf-von-mexiko](https://www.spiegel.de/wirtschaft/unternehmen/rwe-erhaelt-zuschlag-fuer-offshore-windflaechen-im-golf-von-mexiko-a-1e7c7b10-7420-4487-a4e9-64d5005a6242#ref=rss)
-### taylor
+* [https://www.spiegel.de/kultur/kino/80-filmfestival-in-venedig-dunkle-wolken-und-ein-italienisches-u-boot](https://www.spiegel.de/kultur/kino/80-filmfestival-in-venedig-dunkle-wolken-und-ein-italienisches-u-boot-a-3f9768fc-08a5-4cc1-9cf9-f5c15171e7c8#ref=rss)
+### liegen
 
-* [https://www.spiegel.de/kultur/musik/taylor-swift-hat-als-erste-frau-100-millionen-hoerer-bei-spotify](https://www.spiegel.de/kultur/musik/taylor-swift-hat-als-erste-frau-100-millionen-hoerer-bei-spotify-a-cec2f317-e075-4e4d-b059-476e6f3cbb20#ref=rss)
-### swift
+* [https://www.spiegel.de/kultur/kino/80-filmfestival-in-venedig-dunkle-wolken-und-ein-italienisches-u-boot](https://www.spiegel.de/kultur/kino/80-filmfestival-in-venedig-dunkle-wolken-und-ein-italienisches-u-boot-a-3f9768fc-08a5-4cc1-9cf9-f5c15171e7c8#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/wildschweine-durch-atomwaffentests-bis-heute-stark-belastet](https://www.spiegel.de/wissenschaft/natur/wildschweine-durch-atomwaffentests-bis-heute-stark-belastet-a-749bb499-0b1e-47e2-aee8-1e855de36530#ref=rss)
+### allem
 
-* [https://www.spiegel.de/kultur/musik/taylor-swift-hat-als-erste-frau-100-millionen-hoerer-bei-spotify](https://www.spiegel.de/kultur/musik/taylor-swift-hat-als-erste-frau-100-millionen-hoerer-bei-spotify-a-cec2f317-e075-4e4d-b059-476e6f3cbb20#ref=rss)
-### erste
+* [https://www.spiegel.de/auto/ein-drittel-deutschlands-kommunaler-strassen-weist-groessere-maengel-auf-vor-allem-in-nord-und-ost](https://www.spiegel.de/auto/ein-drittel-deutschlands-kommunaler-strassen-weist-groessere-maengel-auf-vor-allem-in-nord-und-ost-a-130d190c-c655-414a-929c-a85ab3b5025b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampel-klausur-in-meseberg-wie-ist-die-stimmung-in-der-koalition](https://www.spiegel.de/politik/deutschland/ampel-klausur-in-meseberg-wie-ist-die-stimmung-in-der-koalition-a-2b618de0-b92b-4de1-98f2-266d72729960#ref=rss)
+### studie
 
-* [https://www.spiegel.de/kultur/musik/taylor-swift-hat-als-erste-frau-100-millionen-hoerer-bei-spotify](https://www.spiegel.de/kultur/musik/taylor-swift-hat-als-erste-frau-100-millionen-hoerer-bei-spotify-a-cec2f317-e075-4e4d-b059-476e6f3cbb20#ref=rss)
-### frau
+* [https://www.spiegel.de/auto/ein-drittel-deutschlands-kommunaler-strassen-weist-groessere-maengel-auf-vor-allem-in-nord-und-ost](https://www.spiegel.de/auto/ein-drittel-deutschlands-kommunaler-strassen-weist-groessere-maengel-auf-vor-allem-in-nord-und-ost-a-130d190c-c655-414a-929c-a85ab3b5025b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/wildschweine-durch-atomwaffentests-bis-heute-stark-belastet](https://www.spiegel.de/wissenschaft/natur/wildschweine-durch-atomwaffentests-bis-heute-stark-belastet-a-749bb499-0b1e-47e2-aee8-1e855de36530#ref=rss)
+### fc
 
-* [https://www.spiegel.de/kultur/musik/taylor-swift-hat-als-erste-frau-100-millionen-hoerer-bei-spotify](https://www.spiegel.de/kultur/musik/taylor-swift-hat-als-erste-frau-100-millionen-hoerer-bei-spotify-a-cec2f317-e075-4e4d-b059-476e6f3cbb20#ref=rss)
-### millionen
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-sportdirektor-christoph-freund-soll-der-bambi-entwickler-werden](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-sportdirektor-christoph-freund-soll-der-bambi-entwickler-werden-a-92a55fb4-26e9-442d-9280-13d5b0f9022a#ref=rss)
+### bayern
 
-* [https://www.spiegel.de/kultur/musik/taylor-swift-hat-als-erste-frau-100-millionen-hoerer-bei-spotify](https://www.spiegel.de/kultur/musik/taylor-swift-hat-als-erste-frau-100-millionen-hoerer-bei-spotify-a-cec2f317-e075-4e4d-b059-476e6f3cbb20#ref=rss)
-### spotify
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-sportdirektor-christoph-freund-soll-der-bambi-entwickler-werden](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-sportdirektor-christoph-freund-soll-der-bambi-entwickler-werden-a-92a55fb4-26e9-442d-9280-13d5b0f9022a#ref=rss)
+### sportdirektor
 
-* [https://www.spiegel.de/kultur/musik/taylor-swift-hat-als-erste-frau-100-millionen-hoerer-bei-spotify](https://www.spiegel.de/kultur/musik/taylor-swift-hat-als-erste-frau-100-millionen-hoerer-bei-spotify-a-cec2f317-e075-4e4d-b059-476e6f3cbb20#ref=rss)
-### sarah
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-sportdirektor-christoph-freund-soll-der-bambi-entwickler-werden](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-sportdirektor-christoph-freund-soll-der-bambi-entwickler-werden-a-92a55fb4-26e9-442d-9280-13d5b0f9022a#ref=rss)
+### christoph
 
-* [https://www.spiegel.de/panorama/leute/sarah-jessica-parker-adoptiert-filmkater-aus-and-just-like-that](https://www.spiegel.de/panorama/leute/sarah-jessica-parker-adoptiert-filmkater-aus-and-just-like-that-a-fe49f654-5653-49d9-962c-e402e7bb3400#ref=rss)
-### jessica
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-sportdirektor-christoph-freund-soll-der-bambi-entwickler-werden](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-sportdirektor-christoph-freund-soll-der-bambi-entwickler-werden-a-92a55fb4-26e9-442d-9280-13d5b0f9022a#ref=rss)
+### freund
 
-* [https://www.spiegel.de/panorama/leute/sarah-jessica-parker-adoptiert-filmkater-aus-and-just-like-that](https://www.spiegel.de/panorama/leute/sarah-jessica-parker-adoptiert-filmkater-aus-and-just-like-that-a-fe49f654-5653-49d9-962c-e402e7bb3400#ref=rss)
-### parker
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-sportdirektor-christoph-freund-soll-der-bambi-entwickler-werden](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-sportdirektor-christoph-freund-soll-der-bambi-entwickler-werden-a-92a55fb4-26e9-442d-9280-13d5b0f9022a#ref=rss)
+### bringen
 
-* [https://www.spiegel.de/panorama/leute/sarah-jessica-parker-adoptiert-filmkater-aus-and-just-like-that](https://www.spiegel.de/panorama/leute/sarah-jessica-parker-adoptiert-filmkater-aus-and-just-like-that-a-fe49f654-5653-49d9-962c-e402e7bb3400#ref=rss)
-### adoptiert
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-sportdirektor-christoph-freund-soll-der-bambi-entwickler-werden](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-sportdirektor-christoph-freund-soll-der-bambi-entwickler-werden-a-92a55fb4-26e9-442d-9280-13d5b0f9022a#ref=rss)
+* [https://www.spiegel.de/kultur/tv/mark-thompson-wird-neuer-cnn-chef](https://www.spiegel.de/kultur/tv/mark-thompson-wird-neuer-cnn-chef-a-370eac4d-1202-480b-9aee-820f70074be5#ref=rss)
+### sondern
 
-* [https://www.spiegel.de/panorama/leute/sarah-jessica-parker-adoptiert-filmkater-aus-and-just-like-that](https://www.spiegel.de/panorama/leute/sarah-jessica-parker-adoptiert-filmkater-aus-and-just-like-that-a-fe49f654-5653-49d9-962c-e402e7bb3400#ref=rss)
-### and
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-sportdirektor-christoph-freund-soll-der-bambi-entwickler-werden](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-sportdirektor-christoph-freund-soll-der-bambi-entwickler-werden-a-92a55fb4-26e9-442d-9280-13d5b0f9022a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/hubert-aiwanger-ich-bin-weder-antisemit-noch-extremist-sondern-ein-demokrat](https://www.spiegel.de/politik/deutschland/hubert-aiwanger-ich-bin-weder-antisemit-noch-extremist-sondern-ein-demokrat-a-9dc23c6b-25f4-4d91-9a95-e162a9376a63#ref=rss)
+### geld
 
-* [https://www.spiegel.de/panorama/leute/sarah-jessica-parker-adoptiert-filmkater-aus-and-just-like-that](https://www.spiegel.de/panorama/leute/sarah-jessica-parker-adoptiert-filmkater-aus-and-just-like-that-a-fe49f654-5653-49d9-962c-e402e7bb3400#ref=rss)
-### just
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-sportdirektor-christoph-freund-soll-der-bambi-entwickler-werden](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-sportdirektor-christoph-freund-soll-der-bambi-entwickler-werden-a-92a55fb4-26e9-442d-9280-13d5b0f9022a#ref=rss)
+* [https://www.spiegel.de/start/aufstiegs-bafoeg-warum-meisterschueler-in-nrw-auf-ihr-geld-warten](https://www.spiegel.de/start/aufstiegs-bafoeg-warum-meisterschueler-in-nrw-auf-ihr-geld-warten-a-5396cb30-4023-49cc-9742-4d0fd5bc52fd#ref=rss)
+### koalition
 
-* [https://www.spiegel.de/panorama/leute/sarah-jessica-parker-adoptiert-filmkater-aus-and-just-like-that](https://www.spiegel.de/panorama/leute/sarah-jessica-parker-adoptiert-filmkater-aus-and-just-like-that-a-fe49f654-5653-49d9-962c-e402e7bb3400#ref=rss)
-### like
+* [https://www.spiegel.de/politik/deutschland/ampel-klausur-in-meseberg-wie-ist-die-stimmung-in-der-koalition](https://www.spiegel.de/politik/deutschland/ampel-klausur-in-meseberg-wie-ist-die-stimmung-in-der-koalition-a-2b618de0-b92b-4de1-98f2-266d72729960#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-alkoholkonsum-und-ampel-beschluesse-ukrainische-drohnen-gegen-russland-e-scooter-und-e-roller](https://www.spiegel.de/politik/deutschland/news-des-tages-alkoholkonsum-und-ampel-beschluesse-ukrainische-drohnen-gegen-russland-e-scooter-und-e-roller-a-c0580838-222c-4650-ad16-93fc3c8c6d36#ref=rss)
+### gebracht
 
-* [https://www.spiegel.de/panorama/leute/sarah-jessica-parker-adoptiert-filmkater-aus-and-just-like-that](https://www.spiegel.de/panorama/leute/sarah-jessica-parker-adoptiert-filmkater-aus-and-just-like-that-a-fe49f654-5653-49d9-962c-e402e7bb3400#ref=rss)
-### that
+* [https://www.spiegel.de/politik/deutschland/ampel-klausur-in-meseberg-wie-ist-die-stimmung-in-der-koalition](https://www.spiegel.de/politik/deutschland/ampel-klausur-in-meseberg-wie-ist-die-stimmung-in-der-koalition-a-2b618de0-b92b-4de1-98f2-266d72729960#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-moskau-droht-der-ukraine-nach-massiven-luftangriffen](https://www.spiegel.de/ausland/ukraine-russland-news-heute-moskau-droht-der-ukraine-nach-massiven-luftangriffen-a-177a3b7a-c45b-49bd-94da-0104abe9f475#ref=rss)
+### linksfraktion
 
-* [https://www.spiegel.de/panorama/leute/sarah-jessica-parker-adoptiert-filmkater-aus-and-just-like-that](https://www.spiegel.de/panorama/leute/sarah-jessica-parker-adoptiert-filmkater-aus-and-just-like-that-a-fe49f654-5653-49d9-962c-e402e7bb3400#ref=rss)
-### zusammen
+* [https://www.spiegel.de/politik/deutschland/streit-um-sahra-wagenknecht-linksfraktion-findet-keine-neue-fuehrung](https://www.spiegel.de/politik/deutschland/streit-um-sahra-wagenknecht-linksfraktion-findet-keine-neue-fuehrung-a-42f632a4-250a-4bbc-b9c1-aad5cdfe00d4#ref=rss)
+### verlor
 
-* [https://www.spiegel.de/panorama/leute/sarah-jessica-parker-adoptiert-filmkater-aus-and-just-like-that](https://www.spiegel.de/panorama/leute/sarah-jessica-parker-adoptiert-filmkater-aus-and-just-like-that-a-fe49f654-5653-49d9-962c-e402e7bb3400#ref=rss)
-### 50
+* [https://www.spiegel.de/panorama/justiz/chemnitz-rechtsextremist-verlor-drei-finger-machetenangriff-wohl-frei-erfunden](https://www.spiegel.de/panorama/justiz/chemnitz-rechtsextremist-verlor-drei-finger-machetenangriff-wohl-frei-erfunden-a-af95ff86-f47a-44ac-86a4-ccdf7559cb67#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/arne-schoenbohm-fordert-vom-zdf-100-000-euro-schmerzensgeld-wegen-boehmermann-sendung](https://www.spiegel.de/politik/deutschland/arne-schoenbohm-fordert-vom-zdf-100-000-euro-schmerzensgeld-wegen-boehmermann-sendung-a-c745bc79-9e5d-444f-99e4-23307586041d#ref=rss)
+### finger
 
-* [https://www.spiegel.de/start/lachs-ersatz-aus-karotten-veganer-raeucherfisch-ohne-fisch-fuer-50-cent](https://www.spiegel.de/start/lachs-ersatz-aus-karotten-veganer-raeucherfisch-ohne-fisch-fuer-50-cent-a-42cedfa3-19ee-45cc-9a63-6e1f260d51d2#ref=rss)
-* [https://www.spiegel.de/ausland/gabun-militaer-entmachtet-neue-regierung-wenige-tage-nach-wahl](https://www.spiegel.de/ausland/gabun-militaer-entmachtet-neue-regierung-wenige-tage-nach-wahl-a-e7d0a7b8-0526-4c7f-b602-8f75d57a76b2#ref=rss)
-### berlin
+* [https://www.spiegel.de/panorama/justiz/chemnitz-rechtsextremist-verlor-drei-finger-machetenangriff-wohl-frei-erfunden](https://www.spiegel.de/panorama/justiz/chemnitz-rechtsextremist-verlor-drei-finger-machetenangriff-wohl-frei-erfunden-a-af95ff86-f47a-44ac-86a4-ccdf7559cb67#ref=rss)
+### fall
 
-* [https://www.spiegel.de/auto/berlin-hamburg-muenchen-und-andere-pkw-verkehr-in-deutschen-metropolen-nimmt-deutlich-ab](https://www.spiegel.de/auto/berlin-hamburg-muenchen-und-andere-pkw-verkehr-in-deutschen-metropolen-nimmt-deutlich-ab-a-c4dd7b21-a3ba-4db3-bdac-db23c49c752f#ref=rss)
-### hamburg
+* [https://www.spiegel.de/panorama/justiz/chemnitz-rechtsextremist-verlor-drei-finger-machetenangriff-wohl-frei-erfunden](https://www.spiegel.de/panorama/justiz/chemnitz-rechtsextremist-verlor-drei-finger-machetenangriff-wohl-frei-erfunden-a-af95ff86-f47a-44ac-86a4-ccdf7559cb67#ref=rss)
+* [https://www.spiegel.de/ausland/julian-assage-australien-wird-ungeduldig-die-regierung-der-usa-stellt-sich-stur](https://www.spiegel.de/ausland/julian-assage-australien-wird-ungeduldig-die-regierung-der-usa-stellt-sich-stur-a-88a8e406-1aaf-47f6-85d0-e2c9eb37a0f8#ref=rss)
+### partyapp
 
-* [https://www.spiegel.de/auto/berlin-hamburg-muenchen-und-andere-pkw-verkehr-in-deutschen-metropolen-nimmt-deutlich-ab](https://www.spiegel.de/auto/berlin-hamburg-muenchen-und-andere-pkw-verkehr-in-deutschen-metropolen-nimmt-deutlich-ab-a-c4dd7b21-a3ba-4db3-bdac-db23c49c752f#ref=rss)
-### münchen
+* [https://www.spiegel.de/reise/istanbuls-clubs-und-bars-durch-die-nacht-mit-dem-gruender-der-party-app-bugece](https://www.spiegel.de/reise/istanbuls-clubs-und-bars-durch-die-nacht-mit-dem-gruender-der-party-app-bugece-a-35b69ee6-553d-4bf9-bcce-234efe3d9fd4#ref=rss)
+### kreuz
 
-* [https://www.spiegel.de/auto/berlin-hamburg-muenchen-und-andere-pkw-verkehr-in-deutschen-metropolen-nimmt-deutlich-ab](https://www.spiegel.de/auto/berlin-hamburg-muenchen-und-andere-pkw-verkehr-in-deutschen-metropolen-nimmt-deutlich-ab-a-c4dd7b21-a3ba-4db3-bdac-db23c49c752f#ref=rss)
-### nimmt
+* [https://www.spiegel.de/wirtschaft/schweiz-rotes-kreuz-bekommt-finanzspritze-von-ueber-52-millionen-euro](https://www.spiegel.de/wirtschaft/schweiz-rotes-kreuz-bekommt-finanzspritze-von-ueber-52-millionen-euro-a-9592ae1a-adc4-4588-9bbf-2d79e2bc6fe2#ref=rss)
+### euro
 
-* [https://www.spiegel.de/auto/berlin-hamburg-muenchen-und-andere-pkw-verkehr-in-deutschen-metropolen-nimmt-deutlich-ab](https://www.spiegel.de/auto/berlin-hamburg-muenchen-und-andere-pkw-verkehr-in-deutschen-metropolen-nimmt-deutlich-ab-a-c4dd7b21-a3ba-4db3-bdac-db23c49c752f#ref=rss)
-### deutlich
+* [https://www.spiegel.de/wirtschaft/schweiz-rotes-kreuz-bekommt-finanzspritze-von-ueber-52-millionen-euro](https://www.spiegel.de/wirtschaft/schweiz-rotes-kreuz-bekommt-finanzspritze-von-ueber-52-millionen-euro-a-9592ae1a-adc4-4588-9bbf-2d79e2bc6fe2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/arne-schoenbohm-fordert-vom-zdf-100-000-euro-schmerzensgeld-wegen-boehmermann-sendung](https://www.spiegel.de/politik/deutschland/arne-schoenbohm-fordert-vom-zdf-100-000-euro-schmerzensgeld-wegen-boehmermann-sendung-a-c745bc79-9e5d-444f-99e4-23307586041d#ref=rss)
+### tote
 
-* [https://www.spiegel.de/auto/berlin-hamburg-muenchen-und-andere-pkw-verkehr-in-deutschen-metropolen-nimmt-deutlich-ab](https://www.spiegel.de/auto/berlin-hamburg-muenchen-und-andere-pkw-verkehr-in-deutschen-metropolen-nimmt-deutlich-ab-a-c4dd7b21-a3ba-4db3-bdac-db23c49c752f#ref=rss)
-### us
+* [https://www.spiegel.de/panorama/justiz/geslau-drei-tote-bei-frontalzusammenstoss-von-krankenwagen-und-auto](https://www.spiegel.de/panorama/justiz/geslau-drei-tote-bei-frontalzusammenstoss-von-krankenwagen-und-auto-a-17220e14-5dc4-4d6d-b0ce-3ae1cc747064#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-moskau-droht-der-ukraine-nach-massiven-luftangriffen](https://www.spiegel.de/ausland/ukraine-russland-news-heute-moskau-droht-der-ukraine-nach-massiven-luftangriffen-a-177a3b7a-c45b-49bd-94da-0104abe9f475#ref=rss)
+### krankenwagen
 
-* [https://www.spiegel.de/sport/tennis/us-open-2023-venus-williams-scheidet-aus-eva-lys-steht-in-runde-zwei](https://www.spiegel.de/sport/tennis/us-open-2023-venus-williams-scheidet-aus-eva-lys-steht-in-runde-zwei-a-82b9eaee-a5df-4d5d-8cad-f4785ee80d28#ref=rss)
-### open
+* [https://www.spiegel.de/panorama/justiz/geslau-drei-tote-bei-frontalzusammenstoss-von-krankenwagen-und-auto](https://www.spiegel.de/panorama/justiz/geslau-drei-tote-bei-frontalzusammenstoss-von-krankenwagen-und-auto-a-17220e14-5dc4-4d6d-b0ce-3ae1cc747064#ref=rss)
+### meisterschüler
 
-* [https://www.spiegel.de/sport/tennis/us-open-2023-venus-williams-scheidet-aus-eva-lys-steht-in-runde-zwei](https://www.spiegel.de/sport/tennis/us-open-2023-venus-williams-scheidet-aus-eva-lys-steht-in-runde-zwei-a-82b9eaee-a5df-4d5d-8cad-f4785ee80d28#ref=rss)
-### venus
+* [https://www.spiegel.de/start/aufstiegs-bafoeg-warum-meisterschueler-in-nrw-auf-ihr-geld-warten](https://www.spiegel.de/start/aufstiegs-bafoeg-warum-meisterschueler-in-nrw-auf-ihr-geld-warten-a-5396cb30-4023-49cc-9742-4d0fd5bc52fd#ref=rss)
+### omega
 
-* [https://www.spiegel.de/sport/tennis/us-open-2023-venus-williams-scheidet-aus-eva-lys-steht-in-runde-zwei](https://www.spiegel.de/sport/tennis/us-open-2023-venus-williams-scheidet-aus-eva-lys-steht-in-runde-zwei-a-82b9eaee-a5df-4d5d-8cad-f4785ee80d28#ref=rss)
-### williams
+* [https://www.spiegel.de/stil/omega-ploprof-die-schoenste-uhr-der-welt-ist-unfoermig-buckelig-und-ein-bisschen-ausserirdisch](https://www.spiegel.de/stil/omega-ploprof-die-schoenste-uhr-der-welt-ist-unfoermig-buckelig-und-ein-bisschen-ausserirdisch-a-d1dad479-6a39-4a8a-8acb-e30db9674da5#ref=rss)
+### ploprof
 
-* [https://www.spiegel.de/sport/tennis/us-open-2023-venus-williams-scheidet-aus-eva-lys-steht-in-runde-zwei](https://www.spiegel.de/sport/tennis/us-open-2023-venus-williams-scheidet-aus-eva-lys-steht-in-runde-zwei-a-82b9eaee-a5df-4d5d-8cad-f4785ee80d28#ref=rss)
-### eva
+* [https://www.spiegel.de/stil/omega-ploprof-die-schoenste-uhr-der-welt-ist-unfoermig-buckelig-und-ein-bisschen-ausserirdisch](https://www.spiegel.de/stil/omega-ploprof-die-schoenste-uhr-der-welt-ist-unfoermig-buckelig-und-ein-bisschen-ausserirdisch-a-d1dad479-6a39-4a8a-8acb-e30db9674da5#ref=rss)
+### bisschen
 
-* [https://www.spiegel.de/sport/tennis/us-open-2023-venus-williams-scheidet-aus-eva-lys-steht-in-runde-zwei](https://www.spiegel.de/sport/tennis/us-open-2023-venus-williams-scheidet-aus-eva-lys-steht-in-runde-zwei-a-82b9eaee-a5df-4d5d-8cad-f4785ee80d28#ref=rss)
-### lys
+* [https://www.spiegel.de/stil/omega-ploprof-die-schoenste-uhr-der-welt-ist-unfoermig-buckelig-und-ein-bisschen-ausserirdisch](https://www.spiegel.de/stil/omega-ploprof-die-schoenste-uhr-der-welt-ist-unfoermig-buckelig-und-ein-bisschen-ausserirdisch-a-d1dad479-6a39-4a8a-8acb-e30db9674da5#ref=rss)
+* [https://www.spiegel.de/gesundheit/schwangerschaft/klassische-musik-kann-schmerzempfinden-von-neugeborenen-lindern](https://www.spiegel.de/gesundheit/schwangerschaft/klassische-musik-kann-schmerzempfinden-von-neugeborenen-lindern-a-312ffc98-4fe3-4d68-9a5f-5286ce370213#ref=rss)
+### hubert
 
-* [https://www.spiegel.de/sport/tennis/us-open-2023-venus-williams-scheidet-aus-eva-lys-steht-in-runde-zwei](https://www.spiegel.de/sport/tennis/us-open-2023-venus-williams-scheidet-aus-eva-lys-steht-in-runde-zwei-a-82b9eaee-a5df-4d5d-8cad-f4785ee80d28#ref=rss)
-### martin
+* [https://www.spiegel.de/politik/deutschland/hubert-aiwanger-ich-bin-weder-antisemit-noch-extremist-sondern-ein-demokrat](https://www.spiegel.de/politik/deutschland/hubert-aiwanger-ich-bin-weder-antisemit-noch-extremist-sondern-ein-demokrat-a-9dc23c6b-25f4-4d91-9a95-e162a9376a63#ref=rss)
+### aiwanger
 
-* [https://www.spiegel.de/panorama/gesellschaft/baden-baden-afd-stadtrat-martin-kuehne-tritt-zurueck-hakenkreuz-auf-ukrainischen-autos](https://www.spiegel.de/panorama/gesellschaft/baden-baden-afd-stadtrat-martin-kuehne-tritt-zurueck-hakenkreuz-auf-ukrainischen-autos-a-51f10c48-e925-4eca-ac4c-45ef82ac84ac#ref=rss)
-### kühne
+* [https://www.spiegel.de/politik/deutschland/hubert-aiwanger-ich-bin-weder-antisemit-noch-extremist-sondern-ein-demokrat](https://www.spiegel.de/politik/deutschland/hubert-aiwanger-ich-bin-weder-antisemit-noch-extremist-sondern-ein-demokrat-a-9dc23c6b-25f4-4d91-9a95-e162a9376a63#ref=rss)
+### ki
 
-* [https://www.spiegel.de/panorama/gesellschaft/baden-baden-afd-stadtrat-martin-kuehne-tritt-zurueck-hakenkreuz-auf-ukrainischen-autos](https://www.spiegel.de/panorama/gesellschaft/baden-baden-afd-stadtrat-martin-kuehne-tritt-zurueck-hakenkreuz-auf-ukrainischen-autos-a-51f10c48-e925-4eca-ac4c-45ef82ac84ac#ref=rss)
-### autos
+* [https://www.spiegel.de/wissenschaft/technik/ki-haengt-weltklasse-drohnenpiloten-ab](https://www.spiegel.de/wissenschaft/technik/ki-haengt-weltklasse-drohnenpiloten-ab-a-c7fdcdc8-e087-4d1d-8937-99a52b23acf0#ref=rss)
+### forscher
 
-* [https://www.spiegel.de/panorama/gesellschaft/baden-baden-afd-stadtrat-martin-kuehne-tritt-zurueck-hakenkreuz-auf-ukrainischen-autos](https://www.spiegel.de/panorama/gesellschaft/baden-baden-afd-stadtrat-martin-kuehne-tritt-zurueck-hakenkreuz-auf-ukrainischen-autos-a-51f10c48-e925-4eca-ac4c-45ef82ac84ac#ref=rss)
-### bundesländer
+* [https://www.spiegel.de/wissenschaft/technik/ki-haengt-weltklasse-drohnenpiloten-ab](https://www.spiegel.de/wissenschaft/technik/ki-haengt-weltklasse-drohnenpiloten-ab-a-c7fdcdc8-e087-4d1d-8937-99a52b23acf0#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/krieg-in-der-ukraine-forscher-analysieren-erdbebenwellen](https://www.spiegel.de/wissenschaft/technik/krieg-in-der-ukraine-forscher-analysieren-erdbebenwellen-a-77d47fc0-81fa-4948-8a20-3594cbb48f59#ref=rss)
+### mindestens
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bundeslaender-verlangen-wettbewerbsfaehigen-strompreis-fuer-industrie](https://www.spiegel.de/wirtschaft/unternehmen/bundeslaender-verlangen-wettbewerbsfaehigen-strompreis-fuer-industrie-a-0b077250-de9a-4fdb-8dbf-69628dfa8c5a#ref=rss)
-### gabun
+* [https://www.spiegel.de/panorama/a2-bei-theessen-bleibt-nach-lkw-unfall-in-richtung-hannover-mindestens-bis-samstag-gesperrt](https://www.spiegel.de/panorama/a2-bei-theessen-bleibt-nach-lkw-unfall-in-richtung-hannover-mindestens-bis-samstag-gesperrt-a-5adda4eb-e50b-4b29-b4d5-77595b8530c1#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-moskau-droht-der-ukraine-nach-massiven-luftangriffen](https://www.spiegel.de/ausland/ukraine-russland-news-heute-moskau-droht-der-ukraine-nach-massiven-luftangriffen-a-177a3b7a-c45b-49bd-94da-0104abe9f475#ref=rss)
+### wann
 
-* [https://www.spiegel.de/ausland/gabun-militaer-entmachtet-neue-regierung-wenige-tage-nach-wahl](https://www.spiegel.de/ausland/gabun-militaer-entmachtet-neue-regierung-wenige-tage-nach-wahl-a-e7d0a7b8-0526-4c7f-b602-8f75d57a76b2#ref=rss)
-### angriff
+* [https://www.spiegel.de/panorama/a2-bei-theessen-bleibt-nach-lkw-unfall-in-richtung-hannover-mindestens-bis-samstag-gesperrt](https://www.spiegel.de/panorama/a2-bei-theessen-bleibt-nach-lkw-unfall-in-richtung-hannover-mindestens-bis-samstag-gesperrt-a-5adda4eb-e50b-4b29-b4d5-77595b8530c1#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/krieg-in-der-ukraine-forscher-analysieren-erdbebenwellen](https://www.spiegel.de/wissenschaft/technik/krieg-in-der-ukraine-forscher-analysieren-erdbebenwellen-a-77d47fc0-81fa-4948-8a20-3594cbb48f59#ref=rss)
+### viktor
 
-* [https://www.spiegel.de/ausland/russland-massiver-zeitgleicher-drohnenangriff-auf-mehrere-standorte](https://www.spiegel.de/ausland/russland-massiver-zeitgleicher-drohnenangriff-auf-mehrere-standorte-a-a15ade46-edb1-49c3-b583-ba2cb8c0ce26#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-moskau-droht-der-ukraine-nach-massiven-luftangriffen](https://www.spiegel.de/ausland/ukraine-russland-news-heute-moskau-droht-der-ukraine-nach-massiven-luftangriffen-a-177a3b7a-c45b-49bd-94da-0104abe9f475#ref=rss)
+### orbán
+
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-moskau-droht-der-ukraine-nach-massiven-luftangriffen](https://www.spiegel.de/ausland/ukraine-russland-news-heute-moskau-droht-der-ukraine-nach-massiven-luftangriffen-a-177a3b7a-c45b-49bd-94da-0104abe9f475#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-moskau-droht-der-ukraine-nach-massiven-luftangriffen](https://www.spiegel.de/ausland/ukraine-russland-news-heute-moskau-droht-der-ukraine-nach-massiven-luftangriffen-a-177a3b7a-c45b-49bd-94da-0104abe9f475#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-moskau-droht-der-ukraine-nach-massiven-luftangriffen](https://www.spiegel.de/ausland/ukraine-russland-news-heute-moskau-droht-der-ukraine-nach-massiven-luftangriffen-a-177a3b7a-c45b-49bd-94da-0104abe9f475#ref=rss)
+### friedenstifter
+
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-moskau-droht-der-ukraine-nach-massiven-luftangriffen](https://www.spiegel.de/ausland/ukraine-russland-news-heute-moskau-droht-der-ukraine-nach-massiven-luftangriffen-a-177a3b7a-c45b-49bd-94da-0104abe9f475#ref=rss)
+### spiel
+
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-moskau-droht-der-ukraine-nach-massiven-luftangriffen](https://www.spiegel.de/ausland/ukraine-russland-news-heute-moskau-droht-der-ukraine-nach-massiven-luftangriffen-a-177a3b7a-c45b-49bd-94da-0104abe9f475#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/wildschweine-durch-atomwaffentests-bis-heute-stark-belastet](https://www.spiegel.de/wissenschaft/natur/wildschweine-durch-atomwaffentests-bis-heute-stark-belastet-a-749bb499-0b1e-47e2-aee8-1e855de36530#ref=rss)
+### news
+
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-moskau-droht-der-ukraine-nach-massiven-luftangriffen](https://www.spiegel.de/ausland/ukraine-russland-news-heute-moskau-droht-der-ukraine-nach-massiven-luftangriffen-a-177a3b7a-c45b-49bd-94da-0104abe9f475#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-alkoholkonsum-und-ampel-beschluesse-ukrainische-drohnen-gegen-russland-e-scooter-und-e-roller](https://www.spiegel.de/politik/deutschland/news-des-tages-alkoholkonsum-und-ampel-beschluesse-ukrainische-drohnen-gegen-russland-e-scooter-und-e-roller-a-c0580838-222c-4650-ad16-93fc3c8c6d36#ref=rss)
+### viertagewoche
+
+* [https://www.spiegel.de/wirtschaft/viertagewoche-sechsmonatiges-pilotprojekt-in-deutschland-startet-anfang-2024](https://www.spiegel.de/wirtschaft/viertagewoche-sechsmonatiges-pilotprojekt-in-deutschland-startet-anfang-2024-a-5379836a-c97f-49e2-8adb-2434a68d0144#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/wirtschaft/viertagewoche-sechsmonatiges-pilotprojekt-in-deutschland-startet-anfang-2024](https://www.spiegel.de/wirtschaft/viertagewoche-sechsmonatiges-pilotprojekt-in-deutschland-startet-anfang-2024-a-5379836a-c97f-49e2-8adb-2434a68d0144#ref=rss)
+* [https://www.spiegel.de/politik/operation-nord-stream-podcast-trailer](https://www.spiegel.de/politik/operation-nord-stream-podcast-trailer-a-349daabc-4295-43d8-9f04-68c7906ff492#ref=rss)
+### mark
+
+* [https://www.spiegel.de/kultur/tv/mark-thompson-wird-neuer-cnn-chef](https://www.spiegel.de/kultur/tv/mark-thompson-wird-neuer-cnn-chef-a-370eac4d-1202-480b-9aee-820f70074be5#ref=rss)
+### thompson
+
+* [https://www.spiegel.de/kultur/tv/mark-thompson-wird-neuer-cnn-chef](https://www.spiegel.de/kultur/tv/mark-thompson-wird-neuer-cnn-chef-a-370eac4d-1202-480b-9aee-820f70074be5#ref=rss)
+### york
+
+* [https://www.spiegel.de/kultur/tv/mark-thompson-wird-neuer-cnn-chef](https://www.spiegel.de/kultur/tv/mark-thompson-wird-neuer-cnn-chef-a-370eac4d-1202-480b-9aee-820f70074be5#ref=rss)
+* [https://www.spiegel.de/geschichte/disaster-spectacles-in-new-york-warum-menschen-zu-katastrophen-shows-pilgerten](https://www.spiegel.de/geschichte/disaster-spectacles-in-new-york-warum-menschen-zu-katastrophen-shows-pilgerten-a-4e0aa013-41ef-4605-8516-1c2149a88130#ref=rss)
+### arne
+
+* [https://www.spiegel.de/politik/deutschland/arne-schoenbohm-fordert-vom-zdf-100-000-euro-schmerzensgeld-wegen-boehmermann-sendung](https://www.spiegel.de/politik/deutschland/arne-schoenbohm-fordert-vom-zdf-100-000-euro-schmerzensgeld-wegen-boehmermann-sendung-a-c745bc79-9e5d-444f-99e4-23307586041d#ref=rss)
+### schönbohm
+
+* [https://www.spiegel.de/politik/deutschland/arne-schoenbohm-fordert-vom-zdf-100-000-euro-schmerzensgeld-wegen-boehmermann-sendung](https://www.spiegel.de/politik/deutschland/arne-schoenbohm-fordert-vom-zdf-100-000-euro-schmerzensgeld-wegen-boehmermann-sendung-a-c745bc79-9e5d-444f-99e4-23307586041d#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/politik/deutschland/arne-schoenbohm-fordert-vom-zdf-100-000-euro-schmerzensgeld-wegen-boehmermann-sendung](https://www.spiegel.de/politik/deutschland/arne-schoenbohm-fordert-vom-zdf-100-000-euro-schmerzensgeld-wegen-boehmermann-sendung-a-c745bc79-9e5d-444f-99e4-23307586041d#ref=rss)
+* [https://www.spiegel.de/ausland/julian-assage-australien-wird-ungeduldig-die-regierung-der-usa-stellt-sich-stur](https://www.spiegel.de/ausland/julian-assage-australien-wird-ungeduldig-die-regierung-der-usa-stellt-sich-stur-a-88a8e406-1aaf-47f6-85d0-e2c9eb37a0f8#ref=rss)
+### zdf
+
+* [https://www.spiegel.de/politik/deutschland/arne-schoenbohm-fordert-vom-zdf-100-000-euro-schmerzensgeld-wegen-boehmermann-sendung](https://www.spiegel.de/politik/deutschland/arne-schoenbohm-fordert-vom-zdf-100-000-euro-schmerzensgeld-wegen-boehmermann-sendung-a-c745bc79-9e5d-444f-99e4-23307586041d#ref=rss)
+### schmerzensgeld
+
+* [https://www.spiegel.de/politik/deutschland/arne-schoenbohm-fordert-vom-zdf-100-000-euro-schmerzensgeld-wegen-boehmermann-sendung](https://www.spiegel.de/politik/deutschland/arne-schoenbohm-fordert-vom-zdf-100-000-euro-schmerzensgeld-wegen-boehmermann-sendung-a-c745bc79-9e5d-444f-99e4-23307586041d#ref=rss)
+### disaster
+
+* [https://www.spiegel.de/geschichte/disaster-spectacles-in-new-york-warum-menschen-zu-katastrophen-shows-pilgerten](https://www.spiegel.de/geschichte/disaster-spectacles-in-new-york-warum-menschen-zu-katastrophen-shows-pilgerten-a-4e0aa013-41ef-4605-8516-1c2149a88130#ref=rss)
+### spectacles
+
+* [https://www.spiegel.de/geschichte/disaster-spectacles-in-new-york-warum-menschen-zu-katastrophen-shows-pilgerten](https://www.spiegel.de/geschichte/disaster-spectacles-in-new-york-warum-menschen-zu-katastrophen-shows-pilgerten-a-4e0aa013-41ef-4605-8516-1c2149a88130#ref=rss)
+### wildschweine
+
+* [https://www.spiegel.de/wissenschaft/natur/wildschweine-durch-atomwaffentests-bis-heute-stark-belastet](https://www.spiegel.de/wissenschaft/natur/wildschweine-durch-atomwaffentests-bis-heute-stark-belastet-a-749bb499-0b1e-47e2-aee8-1e855de36530#ref=rss)
+### vögel
+
+* [https://www.spiegel.de/kultur/kino/die-toten-voegel-sind-oben-kritik-zum-preisgekroenten-dokumentarfilm-ueber-naturverschmutzung-und-artenschutz](https://www.spiegel.de/kultur/kino/die-toten-voegel-sind-oben-kritik-zum-preisgekroenten-dokumentarfilm-ueber-naturverschmutzung-und-artenschutz-a-ee7da77a-debb-449a-9109-a35ca078eecf#ref=rss)
+### oben
+
+* [https://www.spiegel.de/kultur/kino/die-toten-voegel-sind-oben-kritik-zum-preisgekroenten-dokumentarfilm-ueber-naturverschmutzung-und-artenschutz](https://www.spiegel.de/kultur/kino/die-toten-voegel-sind-oben-kritik-zum-preisgekroenten-dokumentarfilm-ueber-naturverschmutzung-und-artenschutz-a-ee7da77a-debb-449a-9109-a35ca078eecf#ref=rss)
+### ungeduldig
+
+* [https://www.spiegel.de/ausland/julian-assage-australien-wird-ungeduldig-die-regierung-der-usa-stellt-sich-stur](https://www.spiegel.de/ausland/julian-assage-australien-wird-ungeduldig-die-regierung-der-usa-stellt-sich-stur-a-88a8e406-1aaf-47f6-85d0-e2c9eb37a0f8#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/julian-assage-australien-wird-ungeduldig-die-regierung-der-usa-stellt-sich-stur](https://www.spiegel.de/ausland/julian-assage-australien-wird-ungeduldig-die-regierung-der-usa-stellt-sich-stur-a-88a8e406-1aaf-47f6-85d0-e2c9eb37a0f8#ref=rss)
+### stur
+
+* [https://www.spiegel.de/ausland/julian-assage-australien-wird-ungeduldig-die-regierung-der-usa-stellt-sich-stur](https://www.spiegel.de/ausland/julian-assage-australien-wird-ungeduldig-die-regierung-der-usa-stellt-sich-stur-a-88a8e406-1aaf-47f6-85d0-e2c9eb37a0f8#ref=rss)
+### stellen
+
+* [https://www.spiegel.de/ausland/julian-assage-australien-wird-ungeduldig-die-regierung-der-usa-stellt-sich-stur](https://www.spiegel.de/ausland/julian-assage-australien-wird-ungeduldig-die-regierung-der-usa-stellt-sich-stur-a-88a8e406-1aaf-47f6-85d0-e2c9eb37a0f8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/burger-king-fast-food-kette-muss-sich-klage-stellen-whopper-zu-klein](https://www.spiegel.de/wirtschaft/burger-king-fast-food-kette-muss-sich-klage-stellen-whopper-zu-klein-a-5bcf7bc7-90f1-4341-adbb-09a2d3767a17#ref=rss)
+### burger
+
+* [https://www.spiegel.de/wirtschaft/burger-king-fast-food-kette-muss-sich-klage-stellen-whopper-zu-klein](https://www.spiegel.de/wirtschaft/burger-king-fast-food-kette-muss-sich-klage-stellen-whopper-zu-klein-a-5bcf7bc7-90f1-4341-adbb-09a2d3767a17#ref=rss)
+### king
+
+* [https://www.spiegel.de/wirtschaft/burger-king-fast-food-kette-muss-sich-klage-stellen-whopper-zu-klein](https://www.spiegel.de/wirtschaft/burger-king-fast-food-kette-muss-sich-klage-stellen-whopper-zu-klein-a-5bcf7bc7-90f1-4341-adbb-09a2d3767a17#ref=rss)
+### whopper
+
+* [https://www.spiegel.de/wirtschaft/burger-king-fast-food-kette-muss-sich-klage-stellen-whopper-zu-klein](https://www.spiegel.de/wirtschaft/burger-king-fast-food-kette-muss-sich-klage-stellen-whopper-zu-klein-a-5bcf7bc7-90f1-4341-adbb-09a2d3767a17#ref=rss)
 
