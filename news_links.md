@@ -4,289 +4,325 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### bergkarabach
+### deutschland
 
-* [https://www.spiegel.de/ausland/ru](https://www.spiegel.de/ausland/ru-a-1655471f-3e92-45b3-941e-79e8bc61d1b3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-cdu-blamiert-sich-mit-flascher-kuppel-in-imagefilm-nancy-faeser-bergkarabach](https://www.spiegel.de/politik/deutschland/news-cdu-blamiert-sich-mit-flascher-kuppel-in-imagefilm-nancy-faeser-bergkarabach-a-c217668a-5ed3-4bf2-99b8-82466281161a#ref=rss)
-* [https://www.spiegel.de/ausland/bergkarabach-nach-waffenruhe-kampfhandlungen-nehmen-offenbar-ab](https://www.spiegel.de/ausland/bergkarabach-nach-waffenruhe-kampfhandlungen-nehmen-offenbar-ab-a-fc417f45-acc7-49f7-96a4-70f4e6492305#ref=rss)
-### russlands
+* [https://www.spiegel.de/geschichte/frieden-in-zeiten-neuer-kriege](https://www.spiegel.de/geschichte/frieden-in-zeiten-neuer-kriege-a-c50348c8-253e-4082-b260-81e45a036f14#ref=rss)
+* [https://www.spiegel.de/politik/debatte-ueber-migration-wie-waer-s-mal-mit-ein-bisschen-wahrheit-kommentar](https://www.spiegel.de/politik/debatte-ueber-migration-wie-waer-s-mal-mit-ein-bisschen-wahrheit-kommentar-a-1e2973c8-5289-413b-9121-3d8ca698fcbf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/drogen-welle-crack-flutet-deutsche-staedte-das-steckt-dahinter](https://www.spiegel.de/politik/deutschland/drogen-welle-crack-flutet-deutsche-staedte-das-steckt-dahinter-a-e9f69483-0eeb-4129-b629-b81fb201a556#ref=rss)
+* [https://www.spiegel.de/karriere/pflege-in-deutschland-pflegekraefte-von-den-philippinen-berichten-von-diskriminierung-im-job](https://www.spiegel.de/karriere/pflege-in-deutschland-pflegekraefte-von-den-philippinen-berichten-von-diskriminierung-im-job-a-d4582d99-c066-4578-83eb-bd0c36f60baf#ref=rss)
+### laut
 
-* [https://www.spiegel.de/ausland/manoever-northern-coasts-wie-die-nato-sich-im-baltikum-fuer-einen-ueberfall-wappnet](https://www.spiegel.de/ausland/manoever-northern-coasts-wie-die-nato-sich-im-baltikum-fuer-einen-ueberfall-wappnet-a-0c556792-1c27-497e-8b01-b56c8419df9a#ref=rss)
-* [https://www.spiegel.de/ausland/rede-vor-uno-sicherheitsrat-wolodymyr-selenskyj-beklagt-machtlosigkeit-der-vereinten-nationen](https://www.spiegel.de/ausland/rede-vor-uno-sicherheitsrat-wolodymyr-selenskyj-beklagt-machtlosigkeit-der-vereinten-nationen-a-47726214-bfe1-47ae-a06f-508beeaf9b4f#ref=rss)
-* [https://www.spiegel.de/ausland/ru](https://www.spiegel.de/ausland/ru-a-1655471f-3e92-45b3-941e-79e8bc61d1b3#ref=rss)
-### drei
+* [https://www.spiegel.de/panorama/justiz/letzte-generation-aktivistin-in-berlin-zu-acht-monaten-freiheitsstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/letzte-generation-aktivistin-in-berlin-zu-acht-monaten-freiheitsstrafe-verurteilt-a-64f9a781-f3d1-48c4-96f3-4efed5c03011#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/bio-kartoffelchips-verbraucherschuetzer-finden-krebserregende-schadstoffe](https://www.spiegel.de/wirtschaft/service/bio-kartoffelchips-verbraucherschuetzer-finden-krebserregende-schadstoffe-a-81a99861-561c-488e-89af-c32197c481fb#ref=rss)
+* [https://www.spiegel.de/ausland/saudi-arabien-und-israel-naehern-sich-laut-mohamed-bin-salman-an](https://www.spiegel.de/ausland/saudi-arabien-und-israel-naehern-sich-laut-mohamed-bin-salman-an-a-8c87be9f-96bb-4839-b9c3-7fb56d0ebf04#ref=rss)
+### länder
 
-* [https://www.spiegel.de/sport/fussball/ernst-middendorp-beendet-trainerjob-in-tansania-er-wirft-schon-wieder-das-handtuch](https://www.spiegel.de/sport/fussball/ernst-middendorp-beendet-trainerjob-in-tansania-er-wirft-schon-wieder-das-handtuch-a-2c67e883-f638-4980-b9e5-2d3367aa2dfe#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nancy-faeser-zur-schoenbohm-affaere-die-selbstverteidigungsministerin](https://www.spiegel.de/politik/deutschland/nancy-faeser-zur-schoenbohm-affaere-die-selbstverteidigungsministerin-a-6fa7f737-c592-4c56-83d1-32231fc3b5c4#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/trier-unabhaengige-aufarbeitungskommission-im-fall-edmund-dillinger-stellt-zwischenbericht-vor](https://www.spiegel.de/panorama/justiz/trier-unabhaengige-aufarbeitungskommission-im-fall-edmund-dillinger-stellt-zwischenbericht-vor-a-59a96cd6-4d60-4718-96d2-191237ffa298#ref=rss)
-* [https://www.spiegel.de/netzwelt/games/cyberpunk-2077-phantom-liberty-im-test-reise-in-eine-elende-welt](https://www.spiegel.de/netzwelt/games/cyberpunk-2077-phantom-liberty-im-test-reise-in-eine-elende-welt-a-3c83b436-1326-4b42-af15-c1a91640b02d#ref=rss)
-### nancy
+* [https://www.spiegel.de/politik/deutschland/17-seiten-gegen-den-planungs-zoff-mit-dem-bund-laender-gehen-in-die-offensive](https://www.spiegel.de/politik/deutschland/17-seiten-gegen-den-planungs-zoff-mit-dem-bund-laender-gehen-in-die-offensive-a-cf6c5e0a-41aa-40a0-8ef8-863876033919#ref=rss)
+* [https://www.spiegel.de/geschichte/frieden-in-zeiten-neuer-kriege](https://www.spiegel.de/geschichte/frieden-in-zeiten-neuer-kriege-a-c50348c8-253e-4082-b260-81e45a036f14#ref=rss)
+* [https://www.spiegel.de/ausland/saudi-arabien-und-israel-naehern-sich-laut-mohamed-bin-salman-an](https://www.spiegel.de/ausland/saudi-arabien-und-israel-naehern-sich-laut-mohamed-bin-salman-an-a-8c87be9f-96bb-4839-b9c3-7fb56d0ebf04#ref=rss)
+### google
 
-* [https://www.spiegel.de/politik/deutschland/nancy-faeser-zur-schoenbohm-affaere-die-selbstverteidigungsministerin](https://www.spiegel.de/politik/deutschland/nancy-faeser-zur-schoenbohm-affaere-die-selbstverteidigungsministerin-a-6fa7f737-c592-4c56-83d1-32231fc3b5c4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-cdu-blamiert-sich-mit-flascher-kuppel-in-imagefilm-nancy-faeser-bergkarabach](https://www.spiegel.de/politik/deutschland/news-cdu-blamiert-sich-mit-flascher-kuppel-in-imagefilm-nancy-faeser-bergkarabach-a-c217668a-5ed3-4bf2-99b8-82466281161a#ref=rss)
-### faeser
+* [https://www.spiegel.de/netzwelt/web/taylor-swift-laesst-fans-33-millionen-raetsel-loesen](https://www.spiegel.de/netzwelt/web/taylor-swift-laesst-fans-33-millionen-raetsel-loesen-a-a5148f77-1fe0-4f7f-8b99-0c6257b23453#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/tank-man-google-zeigt-fake-selfie-als-erstes-suchergebnis-an](https://www.spiegel.de/netzwelt/web/tank-man-google-zeigt-fake-selfie-als-erstes-suchergebnis-an-a-9a58c123-3ace-4ab8-86ea-7a4f629918ce#ref=rss)
+### frau
 
-* [https://www.spiegel.de/politik/deutschland/nancy-faeser-zur-schoenbohm-affaere-die-selbstverteidigungsministerin](https://www.spiegel.de/politik/deutschland/nancy-faeser-zur-schoenbohm-affaere-die-selbstverteidigungsministerin-a-6fa7f737-c592-4c56-83d1-32231fc3b5c4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-cdu-blamiert-sich-mit-flascher-kuppel-in-imagefilm-nancy-faeser-bergkarabach](https://www.spiegel.de/politik/deutschland/news-cdu-blamiert-sich-mit-flascher-kuppel-in-imagefilm-nancy-faeser-bergkarabach-a-c217668a-5ed3-4bf2-99b8-82466281161a#ref=rss)
-### allem
+* [https://www.spiegel.de/kultur/musik/peter-maffay-kuendigt-we-love-rock-n-roll-farewell-tour-2024-an](https://www.spiegel.de/kultur/musik/peter-maffay-kuendigt-we-love-rock-n-roll-farewell-tour-2024-an-a-016bb00a-ea46-42e7-a588-5f59fa6fe272#ref=rss)
+* [https://www.spiegel.de/panorama/michigan-frau-will-apple-watch-aus-plumpsklo-holen-und-muss-gerettet-werden](https://www.spiegel.de/panorama/michigan-frau-will-apple-watch-aus-plumpsklo-holen-und-muss-gerettet-werden-a-531e4f3a-b3d2-44bd-afca-d2411c4f5e9a#ref=rss)
+### bedeutet
 
-* [https://www.spiegel.de/ausland/manoever-northern-coasts-wie-die-nato-sich-im-baltikum-fuer-einen-ueberfall-wappnet](https://www.spiegel.de/ausland/manoever-northern-coasts-wie-die-nato-sich-im-baltikum-fuer-einen-ueberfall-wappnet-a-0c556792-1c27-497e-8b01-b56c8419df9a#ref=rss)
-* [https://www.spiegel.de/ausland/uno-rede-von-wolodymyr-selenskyj-polen-bestellt-wassyl-swarytsch-ein](https://www.spiegel.de/ausland/uno-rede-von-wolodymyr-selenskyj-polen-bestellt-wassyl-swarytsch-ein-a-6ddfb850-d5ba-49f1-8342-fee36b498c29#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/wirtschaftskriminalitaet-kreditversicherer-warnt-vor-zunahme-durch-homeoffice-und-social-engineering](https://www.spiegel.de/wirtschaft/unternehmen/wirtschaftskriminalitaet-kreditversicherer-warnt-vor-zunahme-durch-homeoffice-und-social-engineering-a-dec2cb87-53d7-4d2d-9925-c9e13ac8f71a#ref=rss)
-### wolodymyr
+* [https://www.spiegel.de/auto/warum-grossbritannien-jetzt-die-benzin-aera-verlaengert-und-was-das-fuer-das-klima-bedeutet](https://www.spiegel.de/auto/warum-grossbritannien-jetzt-die-benzin-aera-verlaengert-und-was-das-fuer-das-klima-bedeutet-a-52bc7c53-3404-454a-aab4-4514589f778a#ref=rss)
+* [https://www.spiegel.de/geschichte/frieden-in-zeiten-neuer-kriege](https://www.spiegel.de/geschichte/frieden-in-zeiten-neuer-kriege-a-c50348c8-253e-4082-b260-81e45a036f14#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/ausland/rede-vor-uno-sicherheitsrat-wolodymyr-selenskyj-beklagt-machtlosigkeit-der-vereinten-nationen](https://www.spiegel.de/ausland/rede-vor-uno-sicherheitsrat-wolodymyr-selenskyj-beklagt-machtlosigkeit-der-vereinten-nationen-a-47726214-bfe1-47ae-a06f-508beeaf9b4f#ref=rss)
-* [https://www.spiegel.de/ausland/uno-rede-von-wolodymyr-selenskyj-polen-bestellt-wassyl-swarytsch-ein](https://www.spiegel.de/ausland/uno-rede-von-wolodymyr-selenskyj-polen-bestellt-wassyl-swarytsch-ein-a-6ddfb850-d5ba-49f1-8342-fee36b498c29#ref=rss)
-### selenskyj
+* [https://www.spiegel.de/auto/warum-grossbritannien-jetzt-die-benzin-aera-verlaengert-und-was-das-fuer-das-klima-bedeutet](https://www.spiegel.de/auto/warum-grossbritannien-jetzt-die-benzin-aera-verlaengert-und-was-das-fuer-das-klima-bedeutet-a-52bc7c53-3404-454a-aab4-4514589f778a#ref=rss)
+* [https://www.spiegel.de/start/unternehmen-fast-jeder-fuenfte-betrieb-will-keine-neuen-ausbildungsplaetze-anbieten](https://www.spiegel.de/start/unternehmen-fast-jeder-fuenfte-betrieb-will-keine-neuen-ausbildungsplaetze-anbieten-a-edcba5bd-b46d-4b07-bccc-2af7fc4b24bc#ref=rss)
+* [https://www.spiegel.de/politik/debatte-ueber-migration-wie-waer-s-mal-mit-ein-bisschen-wahrheit-kommentar](https://www.spiegel.de/politik/debatte-ueber-migration-wie-waer-s-mal-mit-ein-bisschen-wahrheit-kommentar-a-1e2973c8-5289-413b-9121-3d8ca698fcbf#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/ausland/rede-vor-uno-sicherheitsrat-wolodymyr-selenskyj-beklagt-machtlosigkeit-der-vereinten-nationen](https://www.spiegel.de/ausland/rede-vor-uno-sicherheitsrat-wolodymyr-selenskyj-beklagt-machtlosigkeit-der-vereinten-nationen-a-47726214-bfe1-47ae-a06f-508beeaf9b4f#ref=rss)
-* [https://www.spiegel.de/ausland/uno-rede-von-wolodymyr-selenskyj-polen-bestellt-wassyl-swarytsch-ein](https://www.spiegel.de/ausland/uno-rede-von-wolodymyr-selenskyj-polen-bestellt-wassyl-swarytsch-ein-a-6ddfb850-d5ba-49f1-8342-fee36b498c29#ref=rss)
-### tansania
+* [https://www.spiegel.de/panorama/justiz/letzte-generation-aktivistin-in-berlin-zu-acht-monaten-freiheitsstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/letzte-generation-aktivistin-in-berlin-zu-acht-monaten-freiheitsstrafe-verurteilt-a-64f9a781-f3d1-48c4-96f3-4efed5c03011#ref=rss)
+* [https://www.spiegel.de/sport/fussball/union-berlin-in-der-champions-league-bei-real-madrid-volle-droehnung](https://www.spiegel.de/sport/fussball/union-berlin-in-der-champions-league-bei-real-madrid-volle-droehnung-a-e2fb41ca-0407-47be-9e70-7976ab74ce62#ref=rss)
+### verurteilt
 
-* [https://www.spiegel.de/sport/fussball/ernst-middendorp-beendet-trainerjob-in-tansania-er-wirft-schon-wieder-das-handtuch](https://www.spiegel.de/sport/fussball/ernst-middendorp-beendet-trainerjob-in-tansania-er-wirft-schon-wieder-das-handtuch-a-2c67e883-f638-4980-b9e5-2d3367aa2dfe#ref=rss)
-* [https://www.spiegel.de/geschichte/kolonialzeit-der-schaedel-meines-grossvaters-muss-zurueck-nach-tansania](https://www.spiegel.de/geschichte/kolonialzeit-der-schaedel-meines-grossvaters-muss-zurueck-nach-tansania-a-eb47098a-af82-4ff8-939a-aae87e02db4f#ref=rss)
-### menschen
+* [https://www.spiegel.de/panorama/justiz/letzte-generation-aktivistin-in-berlin-zu-acht-monaten-freiheitsstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/letzte-generation-aktivistin-in-berlin-zu-acht-monaten-freiheitsstrafe-verurteilt-a-64f9a781-f3d1-48c4-96f3-4efed5c03011#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/jerome-boateng-urteil-gegen-ex-nationalspieler-aufgehoben](https://www.spiegel.de/panorama/justiz/jerome-boateng-urteil-gegen-ex-nationalspieler-aufgehoben-a-11748d5f-2560-46dc-98e3-309589e6f5ad#ref=rss)
+### viele
 
-* [https://www.spiegel.de/geschichte/kolonialzeit-der-schaedel-meines-grossvaters-muss-zurueck-nach-tansania](https://www.spiegel.de/geschichte/kolonialzeit-der-schaedel-meines-grossvaters-muss-zurueck-nach-tansania-a-eb47098a-af82-4ff8-939a-aae87e02db4f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/tanganjikasee-archaeologen-entdecken-476-000-jahre-alte-holzkonstruktion-von-fruehen-menschen](https://www.spiegel.de/wissenschaft/tanganjikasee-archaeologen-entdecken-476-000-jahre-alte-holzkonstruktion-von-fruehen-menschen-a-bc6a9429-fd5e-4ee3-af75-b5d3abbb1226#ref=rss)
+* [https://www.spiegel.de/sport/fussball/union-berlin-in-der-champions-league-bei-real-madrid-volle-droehnung](https://www.spiegel.de/sport/fussball/union-berlin-in-der-champions-league-bei-real-madrid-volle-droehnung-a-e2fb41ca-0407-47be-9e70-7976ab74ce62#ref=rss)
+* [https://www.spiegel.de/psychologie/kostenloses-coaching-einsamkeit-ueberwinden-ist-da-jemand](https://www.spiegel.de/psychologie/kostenloses-coaching-einsamkeit-ueberwinden-ist-da-jemand-a-95e14914-362c-4440-b2d5-bf1468661962#ref=rss)
+* [https://www.spiegel.de/karriere/pflege-in-deutschland-pflegekraefte-von-den-philippinen-berichten-von-diskriminierung-im-job](https://www.spiegel.de/karriere/pflege-in-deutschland-pflegekraefte-von-den-philippinen-berichten-von-diskriminierung-im-job-a-d4582d99-c066-4578-83eb-bd0c36f60baf#ref=rss)
+### armenier
+
+* [https://www.spiegel.de/ausland/bergkarabach-aserbaidschan-und-armenien-treffen-sich-fuer-verhandlungen](https://www.spiegel.de/ausland/bergkarabach-aserbaidschan-und-armenien-treffen-sich-fuer-verhandlungen-a-4299e1af-ec96-42b5-8546-4bc1409bb27d#ref=rss)
+### taylor
+
+* [https://www.spiegel.de/netzwelt/web/taylor-swift-laesst-fans-33-millionen-raetsel-loesen](https://www.spiegel.de/netzwelt/web/taylor-swift-laesst-fans-33-millionen-raetsel-loesen-a-a5148f77-1fe0-4f7f-8b99-0c6257b23453#ref=rss)
+### swift
+
+* [https://www.spiegel.de/netzwelt/web/taylor-swift-laesst-fans-33-millionen-raetsel-loesen](https://www.spiegel.de/netzwelt/web/taylor-swift-laesst-fans-33-millionen-raetsel-loesen-a-a5148f77-1fe0-4f7f-8b99-0c6257b23453#ref=rss)
+### fans
+
+* [https://www.spiegel.de/netzwelt/web/taylor-swift-laesst-fans-33-millionen-raetsel-loesen](https://www.spiegel.de/netzwelt/web/taylor-swift-laesst-fans-33-millionen-raetsel-loesen-a-a5148f77-1fe0-4f7f-8b99-0c6257b23453#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/netzwelt/web/taylor-swift-laesst-fans-33-millionen-raetsel-loesen](https://www.spiegel.de/netzwelt/web/taylor-swift-laesst-fans-33-millionen-raetsel-loesen-a-a5148f77-1fe0-4f7f-8b99-0c6257b23453#ref=rss)
+### lösen
+
+* [https://www.spiegel.de/netzwelt/web/taylor-swift-laesst-fans-33-millionen-raetsel-loesen](https://www.spiegel.de/netzwelt/web/taylor-swift-laesst-fans-33-millionen-raetsel-loesen-a-a5148f77-1fe0-4f7f-8b99-0c6257b23453#ref=rss)
+### neuer
+
+* [https://www.spiegel.de/netzwelt/web/taylor-swift-laesst-fans-33-millionen-raetsel-loesen](https://www.spiegel.de/netzwelt/web/taylor-swift-laesst-fans-33-millionen-raetsel-loesen-a-a5148f77-1fe0-4f7f-8b99-0c6257b23453#ref=rss)
+* [https://www.spiegel.de/geschichte/frieden-in-zeiten-neuer-kriege](https://www.spiegel.de/geschichte/frieden-in-zeiten-neuer-kriege-a-c50348c8-253e-4082-b260-81e45a036f14#ref=rss)
+### songs
+
+* [https://www.spiegel.de/netzwelt/web/taylor-swift-laesst-fans-33-millionen-raetsel-loesen](https://www.spiegel.de/netzwelt/web/taylor-swift-laesst-fans-33-millionen-raetsel-loesen-a-a5148f77-1fe0-4f7f-8b99-0c6257b23453#ref=rss)
+* [https://www.spiegel.de/kultur/musik/sufjan-stevens-konnte-nach-guillain-barre-syndrom-nicht-mehr-laufen](https://www.spiegel.de/kultur/musik/sufjan-stevens-konnte-nach-guillain-barre-syndrom-nicht-mehr-laufen-a-746251c5-0d5b-406c-96e8-829c4687d352#ref=rss)
+### peter
+
+* [https://www.spiegel.de/kultur/musik/peter-maffay-kuendigt-we-love-rock-n-roll-farewell-tour-2024-an](https://www.spiegel.de/kultur/musik/peter-maffay-kuendigt-we-love-rock-n-roll-farewell-tour-2024-an-a-016bb00a-ea46-42e7-a588-5f59fa6fe272#ref=rss)
+### maffay
+
+* [https://www.spiegel.de/kultur/musik/peter-maffay-kuendigt-we-love-rock-n-roll-farewell-tour-2024-an](https://www.spiegel.de/kultur/musik/peter-maffay-kuendigt-we-love-rock-n-roll-farewell-tour-2024-an-a-016bb00a-ea46-42e7-a588-5f59fa6fe272#ref=rss)
+### unosicherheitsrat
+
+* [https://www.spiegel.de/ausland/schlagabtausch-beim-uno-sicherheitsrat-beenden-sie-doch-den-krieg](https://www.spiegel.de/ausland/schlagabtausch-beim-uno-sicherheitsrat-beenden-sie-doch-den-krieg-a-02cdb532-cba6-4634-bea8-457b2bb075b2#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/ausland/schlagabtausch-beim-uno-sicherheitsrat-beenden-sie-doch-den-krieg](https://www.spiegel.de/ausland/schlagabtausch-beim-uno-sicherheitsrat-beenden-sie-doch-den-krieg-a-02cdb532-cba6-4634-bea8-457b2bb075b2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/migration-giorgia-meloni-fordert-krieg-gegen-menschenhaendler](https://www.spiegel.de/politik/deutschland/migration-giorgia-meloni-fordert-krieg-gegen-menschenhaendler-a-482db9a4-e866-4435-b9ca-2bd77cbc12a8#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/auto/warum-grossbritannien-jetzt-die-benzin-aera-verlaengert-und-was-das-fuer-das-klima-bedeutet](https://www.spiegel.de/auto/warum-grossbritannien-jetzt-die-benzin-aera-verlaengert-und-was-das-fuer-das-klima-bedeutet-a-52bc7c53-3404-454a-aab4-4514589f778a#ref=rss)
+* [https://www.spiegel.de/geschichte/frieden-in-zeiten-neuer-kriege](https://www.spiegel.de/geschichte/frieden-in-zeiten-neuer-kriege-a-c50348c8-253e-4082-b260-81e45a036f14#ref=rss)
+### generation
+
+* [https://www.spiegel.de/panorama/justiz/letzte-generation-aktivistin-in-berlin-zu-acht-monaten-freiheitsstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/letzte-generation-aktivistin-in-berlin-zu-acht-monaten-freiheitsstrafe-verurteilt-a-64f9a781-f3d1-48c4-96f3-4efed5c03011#ref=rss)
+### aktivistin
+
+* [https://www.spiegel.de/panorama/justiz/letzte-generation-aktivistin-in-berlin-zu-acht-monaten-freiheitsstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/letzte-generation-aktivistin-in-berlin-zu-acht-monaten-freiheitsstrafe-verurteilt-a-64f9a781-f3d1-48c4-96f3-4efed5c03011#ref=rss)
+### acht
+
+* [https://www.spiegel.de/panorama/justiz/letzte-generation-aktivistin-in-berlin-zu-acht-monaten-freiheitsstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/letzte-generation-aktivistin-in-berlin-zu-acht-monaten-freiheitsstrafe-verurteilt-a-64f9a781-f3d1-48c4-96f3-4efed5c03011#ref=rss)
+### monaten
+
+* [https://www.spiegel.de/panorama/justiz/letzte-generation-aktivistin-in-berlin-zu-acht-monaten-freiheitsstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/letzte-generation-aktivistin-in-berlin-zu-acht-monaten-freiheitsstrafe-verurteilt-a-64f9a781-f3d1-48c4-96f3-4efed5c03011#ref=rss)
+### freiheitsstrafe
+
+* [https://www.spiegel.de/panorama/justiz/letzte-generation-aktivistin-in-berlin-zu-acht-monaten-freiheitsstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/letzte-generation-aktivistin-in-berlin-zu-acht-monaten-freiheitsstrafe-verurteilt-a-64f9a781-f3d1-48c4-96f3-4efed5c03011#ref=rss)
+### peer
+
+* [https://www.spiegel.de/wirtschaft/soziales/ex-finanzminister-peer-steinbrueck-fordert-reform-der-schuldenbremse](https://www.spiegel.de/wirtschaft/soziales/ex-finanzminister-peer-steinbrueck-fordert-reform-der-schuldenbremse-a-efd24a32-64df-4f37-87e7-ef7486ff007c#ref=rss)
+### steinbrück
+
+* [https://www.spiegel.de/wirtschaft/soziales/ex-finanzminister-peer-steinbrueck-fordert-reform-der-schuldenbremse](https://www.spiegel.de/wirtschaft/soziales/ex-finanzminister-peer-steinbrueck-fordert-reform-der-schuldenbremse-a-efd24a32-64df-4f37-87e7-ef7486ff007c#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/wirtschaft/soziales/ex-finanzminister-peer-steinbrueck-fordert-reform-der-schuldenbremse](https://www.spiegel.de/wirtschaft/soziales/ex-finanzminister-peer-steinbrueck-fordert-reform-der-schuldenbremse-a-efd24a32-64df-4f37-87e7-ef7486ff007c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/migration-giorgia-meloni-fordert-krieg-gegen-menschenhaendler](https://www.spiegel.de/politik/deutschland/migration-giorgia-meloni-fordert-krieg-gegen-menschenhaendler-a-482db9a4-e866-4435-b9ca-2bd77cbc12a8#ref=rss)
+### schuldenbremse
+
+* [https://www.spiegel.de/wirtschaft/soziales/ex-finanzminister-peer-steinbrueck-fordert-reform-der-schuldenbremse](https://www.spiegel.de/wirtschaft/soziales/ex-finanzminister-peer-steinbrueck-fordert-reform-der-schuldenbremse-a-efd24a32-64df-4f37-87e7-ef7486ff007c#ref=rss)
+### bisherigen
+
+* [https://www.spiegel.de/wirtschaft/soziales/ex-finanzminister-peer-steinbrueck-fordert-reform-der-schuldenbremse](https://www.spiegel.de/wirtschaft/soziales/ex-finanzminister-peer-steinbrueck-fordert-reform-der-schuldenbremse-a-efd24a32-64df-4f37-87e7-ef7486ff007c#ref=rss)
+* [https://www.spiegel.de/ausland/saudi-arabien-und-israel-naehern-sich-laut-mohamed-bin-salman-an](https://www.spiegel.de/ausland/saudi-arabien-und-israel-naehern-sich-laut-mohamed-bin-salman-an-a-8c87be9f-96bb-4839-b9c3-7fb56d0ebf04#ref=rss)
+### bund
+
+* [https://www.spiegel.de/politik/deutschland/17-seiten-gegen-den-planungs-zoff-mit-dem-bund-laender-gehen-in-die-offensive](https://www.spiegel.de/politik/deutschland/17-seiten-gegen-den-planungs-zoff-mit-dem-bund-laender-gehen-in-die-offensive-a-cf6c5e0a-41aa-40a0-8ef8-863876033919#ref=rss)
+### erstmals
+
+* [https://www.spiegel.de/politik/deutschland/17-seiten-gegen-den-planungs-zoff-mit-dem-bund-laender-gehen-in-die-offensive](https://www.spiegel.de/politik/deutschland/17-seiten-gegen-den-planungs-zoff-mit-dem-bund-laender-gehen-in-die-offensive-a-cf6c5e0a-41aa-40a0-8ef8-863876033919#ref=rss)
+* [https://www.spiegel.de/ausland/bergkarabach-aserbaidschan-und-armenien-treffen-sich-fuer-verhandlungen](https://www.spiegel.de/ausland/bergkarabach-aserbaidschan-und-armenien-treffen-sich-fuer-verhandlungen-a-4299e1af-ec96-42b5-8546-4bc1409bb27d#ref=rss)
+### kürzlich
+
+* [https://www.spiegel.de/netzwelt/web/tank-man-google-zeigt-fake-selfie-als-erstes-suchergebnis-an](https://www.spiegel.de/netzwelt/web/tank-man-google-zeigt-fake-selfie-als-erstes-suchergebnis-an-a-9a58c123-3ace-4ab8-86ea-7a4f629918ce#ref=rss)
+* [https://www.spiegel.de/kultur/musik/stephen-gould-mit-61-jahren-gestorben-heldentenor-in-bayreuth-und-wien](https://www.spiegel.de/kultur/musik/stephen-gould-mit-61-jahren-gestorben-heldentenor-in-bayreuth-und-wien-a-caf6646b-cd76-4d0d-9ca8-8d3b4d5911c7#ref=rss)
+### migration
+
+* [https://www.spiegel.de/politik/deutschland/migration-giorgia-meloni-fordert-krieg-gegen-menschenhaendler](https://www.spiegel.de/politik/deutschland/migration-giorgia-meloni-fordert-krieg-gegen-menschenhaendler-a-482db9a4-e866-4435-b9ca-2bd77cbc12a8#ref=rss)
+* [https://www.spiegel.de/politik/debatte-ueber-migration-wie-waer-s-mal-mit-ein-bisschen-wahrheit-kommentar](https://www.spiegel.de/politik/debatte-ueber-migration-wie-waer-s-mal-mit-ein-bisschen-wahrheit-kommentar-a-1e2973c8-5289-413b-9121-3d8ca698fcbf#ref=rss)
+### meloni
+
+* [https://www.spiegel.de/politik/deutschland/migration-giorgia-meloni-fordert-krieg-gegen-menschenhaendler](https://www.spiegel.de/politik/deutschland/migration-giorgia-meloni-fordert-krieg-gegen-menschenhaendler-a-482db9a4-e866-4435-b9ca-2bd77cbc12a8#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/einzelhandel-immer-mehr-unternehmen-erhoehen-mitten-in-tarifverhandlungen-die-loehne](https://www.spiegel.de/wirtschaft/unternehmen/einzelhandel-immer-mehr-unternehmen-erhoehen-mitten-in-tarifverhandlungen-die-loehne-a-fcee8674-028b-44e9-a1b6-62e2bb449556#ref=rss)
-* [https://www.spiegel.de/wissenschaft/farbwechsel-wie-bei-chamaeleons-beschichtung-koennte-haeuser-waermen-und-kuehlen](https://www.spiegel.de/wissenschaft/farbwechsel-wie-bei-chamaeleons-beschichtung-koennte-haeuser-waermen-und-kuehlen-a-4a941e3c-e806-4362-857e-231c1b5387d4#ref=rss)
-### hin
+* [https://www.spiegel.de/politik/deutschland/migration-giorgia-meloni-fordert-krieg-gegen-menschenhaendler](https://www.spiegel.de/politik/deutschland/migration-giorgia-meloni-fordert-krieg-gegen-menschenhaendler-a-482db9a4-e866-4435-b9ca-2bd77cbc12a8#ref=rss)
+* [https://www.spiegel.de/kultur/musik/sufjan-stevens-konnte-nach-guillain-barre-syndrom-nicht-mehr-laufen](https://www.spiegel.de/kultur/musik/sufjan-stevens-konnte-nach-guillain-barre-syndrom-nicht-mehr-laufen-a-746251c5-0d5b-406c-96e8-829c4687d352#ref=rss)
+### jérôme
 
-* [https://www.spiegel.de/wissenschaft/tanganjikasee-archaeologen-entdecken-476-000-jahre-alte-holzkonstruktion-von-fruehen-menschen](https://www.spiegel.de/wissenschaft/tanganjikasee-archaeologen-entdecken-476-000-jahre-alte-holzkonstruktion-von-fruehen-menschen-a-bc6a9429-fd5e-4ee3-af75-b5d3abbb1226#ref=rss)
-* [https://www.spiegel.de/netzwelt/games/cyberpunk-2077-phantom-liberty-im-test-reise-in-eine-elende-welt](https://www.spiegel.de/netzwelt/games/cyberpunk-2077-phantom-liberty-im-test-reise-in-eine-elende-welt-a-3c83b436-1326-4b42-af15-c1a91640b02d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/entlassung-offiziell-tuerkei-trennt-sich-von-nationaltrainer-stefan-kuntz](https://www.spiegel.de/sport/fussball/entlassung-offiziell-tuerkei-trennt-sich-von-nationaltrainer-stefan-kuntz-a-00905bb9-be62-4f9d-9091-028c1bfe3722#ref=rss)
-### jahren
+* [https://www.spiegel.de/panorama/justiz/jerome-boateng-urteil-gegen-ex-nationalspieler-aufgehoben](https://www.spiegel.de/panorama/justiz/jerome-boateng-urteil-gegen-ex-nationalspieler-aufgehoben-a-11748d5f-2560-46dc-98e3-309589e6f5ad#ref=rss)
+### boateng
 
-* [https://www.spiegel.de/wissenschaft/tanganjikasee-archaeologen-entdecken-476-000-jahre-alte-holzkonstruktion-von-fruehen-menschen](https://www.spiegel.de/wissenschaft/tanganjikasee-archaeologen-entdecken-476-000-jahre-alte-holzkonstruktion-von-fruehen-menschen-a-bc6a9429-fd5e-4ee3-af75-b5d3abbb1226#ref=rss)
-* [https://www.spiegel.de/netzwelt/games/cyberpunk-2077-phantom-liberty-im-test-reise-in-eine-elende-welt](https://www.spiegel.de/netzwelt/games/cyberpunk-2077-phantom-liberty-im-test-reise-in-eine-elende-welt-a-3c83b436-1326-4b42-af15-c1a91640b02d#ref=rss)
-* [https://www.spiegel.de/sport/olympia/ruth-fuchs-nachruf-auf-speerwurf-olympiasiegerin-sie-war-die-frau-mit-dem-eisenarm](https://www.spiegel.de/sport/olympia/ruth-fuchs-nachruf-auf-speerwurf-olympiasiegerin-sie-war-die-frau-mit-dem-eisenarm-a-7a7f74cd-9981-42f8-a336-c49955a52f56#ref=rss)
-### manöver
+* [https://www.spiegel.de/panorama/justiz/jerome-boateng-urteil-gegen-ex-nationalspieler-aufgehoben](https://www.spiegel.de/panorama/justiz/jerome-boateng-urteil-gegen-ex-nationalspieler-aufgehoben-a-11748d5f-2560-46dc-98e3-309589e6f5ad#ref=rss)
+### urteil
 
-* [https://www.spiegel.de/ausland/manoever-northern-coasts-wie-die-nato-sich-im-baltikum-fuer-einen-ueberfall-wappnet](https://www.spiegel.de/ausland/manoever-northern-coasts-wie-die-nato-sich-im-baltikum-fuer-einen-ueberfall-wappnet-a-0c556792-1c27-497e-8b01-b56c8419df9a#ref=rss)
-### nato
+* [https://www.spiegel.de/panorama/justiz/jerome-boateng-urteil-gegen-ex-nationalspieler-aufgehoben](https://www.spiegel.de/panorama/justiz/jerome-boateng-urteil-gegen-ex-nationalspieler-aufgehoben-a-11748d5f-2560-46dc-98e3-309589e6f5ad#ref=rss)
+### verräter
 
-* [https://www.spiegel.de/ausland/manoever-northern-coasts-wie-die-nato-sich-im-baltikum-fuer-einen-ueberfall-wappnet](https://www.spiegel.de/ausland/manoever-northern-coasts-wie-die-nato-sich-im-baltikum-fuer-einen-ueberfall-wappnet-a-0c556792-1c27-497e-8b01-b56c8419df9a#ref=rss)
-### baltikum
+* [https://www.spiegel.de/kultur/tv/die-verraeter-vertraue-niemandem-bei-rtl-intriganztraining-in-betuschelbaren-gaengen](https://www.spiegel.de/kultur/tv/die-verraeter-vertraue-niemandem-bei-rtl-intriganztraining-in-betuschelbaren-gaengen-a-5ffeab01-75a3-4ad8-a725-65ca49fee9c9#ref=rss)
+### rtl
 
-* [https://www.spiegel.de/ausland/manoever-northern-coasts-wie-die-nato-sich-im-baltikum-fuer-einen-ueberfall-wappnet](https://www.spiegel.de/ausland/manoever-northern-coasts-wie-die-nato-sich-im-baltikum-fuer-einen-ueberfall-wappnet-a-0c556792-1c27-497e-8b01-b56c8419df9a#ref=rss)
-### jahr
+* [https://www.spiegel.de/kultur/tv/die-verraeter-vertraue-niemandem-bei-rtl-intriganztraining-in-betuschelbaren-gaengen](https://www.spiegel.de/kultur/tv/die-verraeter-vertraue-niemandem-bei-rtl-intriganztraining-in-betuschelbaren-gaengen-a-5ffeab01-75a3-4ad8-a725-65ca49fee9c9#ref=rss)
+### union
 
-* [https://www.spiegel.de/ausland/manoever-northern-coasts-wie-die-nato-sich-im-baltikum-fuer-einen-ueberfall-wappnet](https://www.spiegel.de/ausland/manoever-northern-coasts-wie-die-nato-sich-im-baltikum-fuer-einen-ueberfall-wappnet-a-0c556792-1c27-497e-8b01-b56c8419df9a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/julian-nagelsmann-auch-franz-beckenbauer-sollte-nur-bundestrainer-auf-zeit-sein](https://www.spiegel.de/sport/fussball/julian-nagelsmann-auch-franz-beckenbauer-sollte-nur-bundestrainer-auf-zeit-sein-a-0f314ca2-9c0d-4781-a227-09dfeb791f67#ref=rss)
-### beklagt
+* [https://www.spiegel.de/sport/fussball/union-berlin-in-der-champions-league-bei-real-madrid-volle-droehnung](https://www.spiegel.de/sport/fussball/union-berlin-in-der-champions-league-bei-real-madrid-volle-droehnung-a-e2fb41ca-0407-47be-9e70-7976ab74ce62#ref=rss)
+### champions
 
-* [https://www.spiegel.de/ausland/rede-vor-uno-sicherheitsrat-wolodymyr-selenskyj-beklagt-machtlosigkeit-der-vereinten-nationen](https://www.spiegel.de/ausland/rede-vor-uno-sicherheitsrat-wolodymyr-selenskyj-beklagt-machtlosigkeit-der-vereinten-nationen-a-47726214-bfe1-47ae-a06f-508beeaf9b4f#ref=rss)
-### machtlosigkeit
+* [https://www.spiegel.de/sport/fussball/union-berlin-in-der-champions-league-bei-real-madrid-volle-droehnung](https://www.spiegel.de/sport/fussball/union-berlin-in-der-champions-league-bei-real-madrid-volle-droehnung-a-e2fb41ca-0407-47be-9e70-7976ab74ce62#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-andre-onana-von-manchester-united-ueber-pleite-gegen-den-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/champions-league-andre-onana-von-manchester-united-ueber-pleite-gegen-den-fc-bayern-muenchen-a-5eb2d56f-2a43-4d28-9d42-7ef8949d18af#ref=rss)
+### league
 
-* [https://www.spiegel.de/ausland/rede-vor-uno-sicherheitsrat-wolodymyr-selenskyj-beklagt-machtlosigkeit-der-vereinten-nationen](https://www.spiegel.de/ausland/rede-vor-uno-sicherheitsrat-wolodymyr-selenskyj-beklagt-machtlosigkeit-der-vereinten-nationen-a-47726214-bfe1-47ae-a06f-508beeaf9b4f#ref=rss)
-### ukrainische
+* [https://www.spiegel.de/sport/fussball/union-berlin-in-der-champions-league-bei-real-madrid-volle-droehnung](https://www.spiegel.de/sport/fussball/union-berlin-in-der-champions-league-bei-real-madrid-volle-droehnung-a-e2fb41ca-0407-47be-9e70-7976ab74ce62#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-andre-onana-von-manchester-united-ueber-pleite-gegen-den-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/champions-league-andre-onana-von-manchester-united-ueber-pleite-gegen-den-fc-bayern-muenchen-a-5eb2d56f-2a43-4d28-9d42-7ef8949d18af#ref=rss)
+### real
 
-* [https://www.spiegel.de/ausland/rede-vor-uno-sicherheitsrat-wolodymyr-selenskyj-beklagt-machtlosigkeit-der-vereinten-nationen](https://www.spiegel.de/ausland/rede-vor-uno-sicherheitsrat-wolodymyr-selenskyj-beklagt-machtlosigkeit-der-vereinten-nationen-a-47726214-bfe1-47ae-a06f-508beeaf9b4f#ref=rss)
-* [https://www.spiegel.de/ausland/uno-rede-von-wolodymyr-selenskyj-polen-bestellt-wassyl-swarytsch-ein](https://www.spiegel.de/ausland/uno-rede-von-wolodymyr-selenskyj-polen-bestellt-wassyl-swarytsch-ein-a-6ddfb850-d5ba-49f1-8342-fee36b498c29#ref=rss)
-### reformen
+* [https://www.spiegel.de/sport/fussball/union-berlin-in-der-champions-league-bei-real-madrid-volle-droehnung](https://www.spiegel.de/sport/fussball/union-berlin-in-der-champions-league-bei-real-madrid-volle-droehnung-a-e2fb41ca-0407-47be-9e70-7976ab74ce62#ref=rss)
+### madrid
 
-* [https://www.spiegel.de/ausland/rede-vor-uno-sicherheitsrat-wolodymyr-selenskyj-beklagt-machtlosigkeit-der-vereinten-nationen](https://www.spiegel.de/ausland/rede-vor-uno-sicherheitsrat-wolodymyr-selenskyj-beklagt-machtlosigkeit-der-vereinten-nationen-a-47726214-bfe1-47ae-a06f-508beeaf9b4f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/kritik-an-uno-gipfel-in-new-york-der-gipfel-der-niederlagen](https://www.spiegel.de/wissenschaft/kritik-an-uno-gipfel-in-new-york-der-gipfel-der-niederlagen-a-3384bb0e-9b2d-49a4-994a-d12824e65c91#ref=rss)
-### new
+* [https://www.spiegel.de/sport/fussball/union-berlin-in-der-champions-league-bei-real-madrid-volle-droehnung](https://www.spiegel.de/sport/fussball/union-berlin-in-der-champions-league-bei-real-madrid-volle-droehnung-a-e2fb41ca-0407-47be-9e70-7976ab74ce62#ref=rss)
+### adnoc
 
-* [https://www.spiegel.de/wissenschaft/kritik-an-uno-gipfel-in-new-york-der-gipfel-der-niederlagen](https://www.spiegel.de/wissenschaft/kritik-an-uno-gipfel-in-new-york-der-gipfel-der-niederlagen-a-3384bb0e-9b2d-49a4-994a-d12824e65c91#ref=rss)
-### york
+* [https://www.spiegel.de/wirtschaft/unternehmen/adnoc-warum-ein-oelkonzern-aus-abu-dhabi-bald-covestro-kaufen-koennte](https://www.spiegel.de/wirtschaft/unternehmen/adnoc-warum-ein-oelkonzern-aus-abu-dhabi-bald-covestro-kaufen-koennte-a-278481c4-3361-45f5-b763-5a567771e0b0#ref=rss)
+### abu
 
-* [https://www.spiegel.de/wissenschaft/kritik-an-uno-gipfel-in-new-york-der-gipfel-der-niederlagen](https://www.spiegel.de/wissenschaft/kritik-an-uno-gipfel-in-new-york-der-gipfel-der-niederlagen-a-3384bb0e-9b2d-49a4-994a-d12824e65c91#ref=rss)
-### voran
+* [https://www.spiegel.de/wirtschaft/unternehmen/adnoc-warum-ein-oelkonzern-aus-abu-dhabi-bald-covestro-kaufen-koennte](https://www.spiegel.de/wirtschaft/unternehmen/adnoc-warum-ein-oelkonzern-aus-abu-dhabi-bald-covestro-kaufen-koennte-a-278481c4-3361-45f5-b763-5a567771e0b0#ref=rss)
+### dhabi
 
-* [https://www.spiegel.de/wissenschaft/kritik-an-uno-gipfel-in-new-york-der-gipfel-der-niederlagen](https://www.spiegel.de/wissenschaft/kritik-an-uno-gipfel-in-new-york-der-gipfel-der-niederlagen-a-3384bb0e-9b2d-49a4-994a-d12824e65c91#ref=rss)
-* [https://www.spiegel.de/kultur/tv/nico-hofmann-tritt-bei-der-ufa-ab-wohin-steuert-deutschlands-groesste-produktionsfirma](https://www.spiegel.de/kultur/tv/nico-hofmann-tritt-bei-der-ufa-ab-wohin-steuert-deutschlands-groesste-produktionsfirma-a-35224258-ceb7-423e-9ae0-33a32c15ab39#ref=rss)
-### nächsten
+* [https://www.spiegel.de/wirtschaft/unternehmen/adnoc-warum-ein-oelkonzern-aus-abu-dhabi-bald-covestro-kaufen-koennte](https://www.spiegel.de/wirtschaft/unternehmen/adnoc-warum-ein-oelkonzern-aus-abu-dhabi-bald-covestro-kaufen-koennte-a-278481c4-3361-45f5-b763-5a567771e0b0#ref=rss)
+### covestro
 
-* [https://www.spiegel.de/wissenschaft/kritik-an-uno-gipfel-in-new-york-der-gipfel-der-niederlagen](https://www.spiegel.de/wissenschaft/kritik-an-uno-gipfel-in-new-york-der-gipfel-der-niederlagen-a-3384bb0e-9b2d-49a4-994a-d12824e65c91#ref=rss)
-* [https://www.spiegel.de/sport/fussball/ernst-middendorp-beendet-trainerjob-in-tansania-er-wirft-schon-wieder-das-handtuch](https://www.spiegel.de/sport/fussball/ernst-middendorp-beendet-trainerjob-in-tansania-er-wirft-schon-wieder-das-handtuch-a-2c67e883-f638-4980-b9e5-2d3367aa2dfe#ref=rss)
-### ernst
+* [https://www.spiegel.de/wirtschaft/unternehmen/adnoc-warum-ein-oelkonzern-aus-abu-dhabi-bald-covestro-kaufen-koennte](https://www.spiegel.de/wirtschaft/unternehmen/adnoc-warum-ein-oelkonzern-aus-abu-dhabi-bald-covestro-kaufen-koennte-a-278481c4-3361-45f5-b763-5a567771e0b0#ref=rss)
+### openai
 
-* [https://www.spiegel.de/sport/fussball/ernst-middendorp-beendet-trainerjob-in-tansania-er-wirft-schon-wieder-das-handtuch](https://www.spiegel.de/sport/fussball/ernst-middendorp-beendet-trainerjob-in-tansania-er-wirft-schon-wieder-das-handtuch-a-2c67e883-f638-4980-b9e5-2d3367aa2dfe#ref=rss)
-### middendorp
+* [https://www.spiegel.de/netzwelt/web/bestseller-autoren-reichen-sammelklage-gegen-chatgpt-hersteller-openai-ein](https://www.spiegel.de/netzwelt/web/bestseller-autoren-reichen-sammelklage-gegen-chatgpt-hersteller-openai-ein-a-7a6eb560-425c-44e6-92f8-0dc6ecdbba71#ref=rss)
+### rügen
 
-* [https://www.spiegel.de/sport/fussball/ernst-middendorp-beendet-trainerjob-in-tansania-er-wirft-schon-wieder-das-handtuch](https://www.spiegel.de/sport/fussball/ernst-middendorp-beendet-trainerjob-in-tansania-er-wirft-schon-wieder-das-handtuch-a-2c67e883-f638-4980-b9e5-2d3367aa2dfe#ref=rss)
-### beendet
+* [https://www.spiegel.de/wirtschaft/soziales/ruegen-greenpeace-stoert-bau-von-lng-terminal](https://www.spiegel.de/wirtschaft/soziales/ruegen-greenpeace-stoert-bau-von-lng-terminal-a-ad029f37-2b17-4f10-9cc4-ad1ce66ed2af#ref=rss)
+### greenpeace
 
-* [https://www.spiegel.de/sport/fussball/ernst-middendorp-beendet-trainerjob-in-tansania-er-wirft-schon-wieder-das-handtuch](https://www.spiegel.de/sport/fussball/ernst-middendorp-beendet-trainerjob-in-tansania-er-wirft-schon-wieder-das-handtuch-a-2c67e883-f638-4980-b9e5-2d3367aa2dfe#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nancy-faeser-zur-schoenbohm-affaere-die-selbstverteidigungsministerin](https://www.spiegel.de/politik/deutschland/nancy-faeser-zur-schoenbohm-affaere-die-selbstverteidigungsministerin-a-6fa7f737-c592-4c56-83d1-32231fc3b5c4#ref=rss)
-### macht
+* [https://www.spiegel.de/wirtschaft/soziales/ruegen-greenpeace-stoert-bau-von-lng-terminal](https://www.spiegel.de/wirtschaft/soziales/ruegen-greenpeace-stoert-bau-von-lng-terminal-a-ad029f37-2b17-4f10-9cc4-ad1ce66ed2af#ref=rss)
+### sufjan
 
-* [https://www.spiegel.de/sport/fussball/ernst-middendorp-beendet-trainerjob-in-tansania-er-wirft-schon-wieder-das-handtuch](https://www.spiegel.de/sport/fussball/ernst-middendorp-beendet-trainerjob-in-tansania-er-wirft-schon-wieder-das-handtuch-a-2c67e883-f638-4980-b9e5-2d3367aa2dfe#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/mindelheim-auf-autodach-vergessenes-handy-loest-grosseinsatz-aus](https://www.spiegel.de/panorama/bildung/mindelheim-auf-autodach-vergessenes-handy-loest-grosseinsatz-aus-a-cb4df561-d45d-44d4-95fd-edf318b0e5e5#ref=rss)
-### amazon
+* [https://www.spiegel.de/kultur/musik/sufjan-stevens-konnte-nach-guillain-barre-syndrom-nicht-mehr-laufen](https://www.spiegel.de/kultur/musik/sufjan-stevens-konnte-nach-guillain-barre-syndrom-nicht-mehr-laufen-a-746251c5-0d5b-406c-96e8-829c4687d352#ref=rss)
+### stevens
 
-* [https://www.spiegel.de/netzwelt/gadgets/amazon-will-alexa-zum-super-chatbot-machen](https://www.spiegel.de/netzwelt/gadgets/amazon-will-alexa-zum-super-chatbot-machen-a-f53d1359-1658-4f1d-92f2-a92234911014#ref=rss)
-### alexa
+* [https://www.spiegel.de/kultur/musik/sufjan-stevens-konnte-nach-guillain-barre-syndrom-nicht-mehr-laufen](https://www.spiegel.de/kultur/musik/sufjan-stevens-konnte-nach-guillain-barre-syndrom-nicht-mehr-laufen-a-746251c5-0d5b-406c-96e8-829c4687d352#ref=rss)
+### guillainbarrésyndrom
 
-* [https://www.spiegel.de/netzwelt/gadgets/amazon-will-alexa-zum-super-chatbot-machen](https://www.spiegel.de/netzwelt/gadgets/amazon-will-alexa-zum-super-chatbot-machen-a-f53d1359-1658-4f1d-92f2-a92234911014#ref=rss)
-### neue
+* [https://www.spiegel.de/kultur/musik/sufjan-stevens-konnte-nach-guillain-barre-syndrom-nicht-mehr-laufen](https://www.spiegel.de/kultur/musik/sufjan-stevens-konnte-nach-guillain-barre-syndrom-nicht-mehr-laufen-a-746251c5-0d5b-406c-96e8-829c4687d352#ref=rss)
+### oktober
 
-* [https://www.spiegel.de/netzwelt/gadgets/amazon-will-alexa-zum-super-chatbot-machen](https://www.spiegel.de/netzwelt/gadgets/amazon-will-alexa-zum-super-chatbot-machen-a-f53d1359-1658-4f1d-92f2-a92234911014#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/wirtschaftskriminalitaet-kreditversicherer-warnt-vor-zunahme-durch-homeoffice-und-social-engineering](https://www.spiegel.de/wirtschaft/unternehmen/wirtschaftskriminalitaet-kreditversicherer-warnt-vor-zunahme-durch-homeoffice-und-social-engineering-a-dec2cb87-53d7-4d2d-9925-c9e13ac8f71a#ref=rss)
-### zeigt
+* [https://www.spiegel.de/kultur/musik/sufjan-stevens-konnte-nach-guillain-barre-syndrom-nicht-mehr-laufen](https://www.spiegel.de/kultur/musik/sufjan-stevens-konnte-nach-guillain-barre-syndrom-nicht-mehr-laufen-a-746251c5-0d5b-406c-96e8-829c4687d352#ref=rss)
+* [https://www.spiegel.de/stil/social-design-award-publikumspreis-waehlen-sie-ihr-lieblingsprojekt](https://www.spiegel.de/stil/social-design-award-publikumspreis-waehlen-sie-ihr-lieblingsprojekt-a-122f8703-b695-42b6-8240-155c61bbd448#ref=rss)
+### krebserregende
 
-* [https://www.spiegel.de/politik/deutschland/fdp-bundestagsfraktion-um-13-28-uhr-verkuendet-schaeffler-seine-kampfkandidatur](https://www.spiegel.de/politik/deutschland/fdp-bundestagsfraktion-um-13-28-uhr-verkuendet-schaeffler-seine-kampfkandidatur-a-9d367c38-bbae-4881-9fda-2d878b75380e#ref=rss)
-* [https://www.spiegel.de/kultur/kino/fallende-blaetter-von-aki-kaurismaeki-liebesgeschichten-kann-diese-welt-gebrauchen](https://www.spiegel.de/kultur/kino/fallende-blaetter-von-aki-kaurismaeki-liebesgeschichten-kann-diese-welt-gebrauchen-a-af7b8f91-30b9-41c1-9902-8bab9538657d#ref=rss)
-### fallende
+* [https://www.spiegel.de/wirtschaft/service/bio-kartoffelchips-verbraucherschuetzer-finden-krebserregende-schadstoffe](https://www.spiegel.de/wirtschaft/service/bio-kartoffelchips-verbraucherschuetzer-finden-krebserregende-schadstoffe-a-81a99861-561c-488e-89af-c32197c481fb#ref=rss)
+### schadstoffe
 
-* [https://www.spiegel.de/kultur/kino/fallende-blaetter-von-aki-kaurismaeki-liebesgeschichten-kann-diese-welt-gebrauchen](https://www.spiegel.de/kultur/kino/fallende-blaetter-von-aki-kaurismaeki-liebesgeschichten-kann-diese-welt-gebrauchen-a-af7b8f91-30b9-41c1-9902-8bab9538657d#ref=rss)
-### blätter
+* [https://www.spiegel.de/wirtschaft/service/bio-kartoffelchips-verbraucherschuetzer-finden-krebserregende-schadstoffe](https://www.spiegel.de/wirtschaft/service/bio-kartoffelchips-verbraucherschuetzer-finden-krebserregende-schadstoffe-a-81a99861-561c-488e-89af-c32197c481fb#ref=rss)
+### fast
 
-* [https://www.spiegel.de/kultur/kino/fallende-blaetter-von-aki-kaurismaeki-liebesgeschichten-kann-diese-welt-gebrauchen](https://www.spiegel.de/kultur/kino/fallende-blaetter-von-aki-kaurismaeki-liebesgeschichten-kann-diese-welt-gebrauchen-a-af7b8f91-30b9-41c1-9902-8bab9538657d#ref=rss)
-### aki
+* [https://www.spiegel.de/start/unternehmen-fast-jeder-fuenfte-betrieb-will-keine-neuen-ausbildungsplaetze-anbieten](https://www.spiegel.de/start/unternehmen-fast-jeder-fuenfte-betrieb-will-keine-neuen-ausbildungsplaetze-anbieten-a-edcba5bd-b46d-4b07-bccc-2af7fc4b24bc#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-baschar-al-assad-besucht-china](https://www.spiegel.de/ausland/syrien-baschar-al-assad-besucht-china-a-78ac4bdf-d31f-4369-9948-66f2fc356106#ref=rss)
+### stellen
 
-* [https://www.spiegel.de/kultur/kino/fallende-blaetter-von-aki-kaurismaeki-liebesgeschichten-kann-diese-welt-gebrauchen](https://www.spiegel.de/kultur/kino/fallende-blaetter-von-aki-kaurismaeki-liebesgeschichten-kann-diese-welt-gebrauchen-a-af7b8f91-30b9-41c1-9902-8bab9538657d#ref=rss)
-### kaurismäki
+* [https://www.spiegel.de/start/unternehmen-fast-jeder-fuenfte-betrieb-will-keine-neuen-ausbildungsplaetze-anbieten](https://www.spiegel.de/start/unternehmen-fast-jeder-fuenfte-betrieb-will-keine-neuen-ausbildungsplaetze-anbieten-a-edcba5bd-b46d-4b07-bccc-2af7fc4b24bc#ref=rss)
+* [https://www.spiegel.de/geschichte/frieden-in-zeiten-neuer-kriege](https://www.spiegel.de/geschichte/frieden-in-zeiten-neuer-kriege-a-c50348c8-253e-4082-b260-81e45a036f14#ref=rss)
+### andré
 
-* [https://www.spiegel.de/kultur/kino/fallende-blaetter-von-aki-kaurismaeki-liebesgeschichten-kann-diese-welt-gebrauchen](https://www.spiegel.de/kultur/kino/fallende-blaetter-von-aki-kaurismaeki-liebesgeschichten-kann-diese-welt-gebrauchen-a-af7b8f91-30b9-41c1-9902-8bab9538657d#ref=rss)
-### welt
+* [https://www.spiegel.de/sport/fussball/champions-league-andre-onana-von-manchester-united-ueber-pleite-gegen-den-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/champions-league-andre-onana-von-manchester-united-ueber-pleite-gegen-den-fc-bayern-muenchen-a-5eb2d56f-2a43-4d28-9d42-7ef8949d18af#ref=rss)
+### onana
 
-* [https://www.spiegel.de/kultur/kino/fallende-blaetter-von-aki-kaurismaeki-liebesgeschichten-kann-diese-welt-gebrauchen](https://www.spiegel.de/kultur/kino/fallende-blaetter-von-aki-kaurismaeki-liebesgeschichten-kann-diese-welt-gebrauchen-a-af7b8f91-30b9-41c1-9902-8bab9538657d#ref=rss)
-* [https://www.spiegel.de/netzwelt/games/cyberpunk-2077-phantom-liberty-im-test-reise-in-eine-elende-welt](https://www.spiegel.de/netzwelt/games/cyberpunk-2077-phantom-liberty-im-test-reise-in-eine-elende-welt-a-3c83b436-1326-4b42-af15-c1a91640b02d#ref=rss)
-### nathan
+* [https://www.spiegel.de/sport/fussball/champions-league-andre-onana-von-manchester-united-ueber-pleite-gegen-den-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/champions-league-andre-onana-von-manchester-united-ueber-pleite-gegen-den-fc-bayern-muenchen-a-5eb2d56f-2a43-4d28-9d42-7ef8949d18af#ref=rss)
+### manchester
 
-* [https://www.spiegel.de/sport/radprofi-nathan-van-hooyonck-muss-karriere-wegen-herzproblemen-beenden](https://www.spiegel.de/sport/radprofi-nathan-van-hooyonck-muss-karriere-wegen-herzproblemen-beenden-a-4a3c5a43-6f21-4065-ad04-f5b420e5782b#ref=rss)
-### van
+* [https://www.spiegel.de/sport/fussball/champions-league-andre-onana-von-manchester-united-ueber-pleite-gegen-den-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/champions-league-andre-onana-von-manchester-united-ueber-pleite-gegen-den-fc-bayern-muenchen-a-5eb2d56f-2a43-4d28-9d42-7ef8949d18af#ref=rss)
+### united
 
-* [https://www.spiegel.de/sport/radprofi-nathan-van-hooyonck-muss-karriere-wegen-herzproblemen-beenden](https://www.spiegel.de/sport/radprofi-nathan-van-hooyonck-muss-karriere-wegen-herzproblemen-beenden-a-4a3c5a43-6f21-4065-ad04-f5b420e5782b#ref=rss)
-### hooydonck
+* [https://www.spiegel.de/sport/fussball/champions-league-andre-onana-von-manchester-united-ueber-pleite-gegen-den-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/champions-league-andre-onana-von-manchester-united-ueber-pleite-gegen-den-fc-bayern-muenchen-a-5eb2d56f-2a43-4d28-9d42-7ef8949d18af#ref=rss)
+### fc
 
-* [https://www.spiegel.de/sport/radprofi-nathan-van-hooyonck-muss-karriere-wegen-herzproblemen-beenden](https://www.spiegel.de/sport/radprofi-nathan-van-hooyonck-muss-karriere-wegen-herzproblemen-beenden-a-4a3c5a43-6f21-4065-ad04-f5b420e5782b#ref=rss)
-### zuletzt
+* [https://www.spiegel.de/sport/fussball/champions-league-andre-onana-von-manchester-united-ueber-pleite-gegen-den-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/champions-league-andre-onana-von-manchester-united-ueber-pleite-gegen-den-fc-bayern-muenchen-a-5eb2d56f-2a43-4d28-9d42-7ef8949d18af#ref=rss)
+### bayern
 
-* [https://www.spiegel.de/sport/radprofi-nathan-van-hooyonck-muss-karriere-wegen-herzproblemen-beenden](https://www.spiegel.de/sport/radprofi-nathan-van-hooyonck-muss-karriere-wegen-herzproblemen-beenden-a-4a3c5a43-6f21-4065-ad04-f5b420e5782b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/wirtschaftskriminalitaet-kreditversicherer-warnt-vor-zunahme-durch-homeoffice-und-social-engineering](https://www.spiegel.de/wirtschaft/unternehmen/wirtschaftskriminalitaet-kreditversicherer-warnt-vor-zunahme-durch-homeoffice-und-social-engineering-a-dec2cb87-53d7-4d2d-9925-c9e13ac8f71a#ref=rss)
-### offenbar
+* [https://www.spiegel.de/sport/fussball/champions-league-andre-onana-von-manchester-united-ueber-pleite-gegen-den-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/champions-league-andre-onana-von-manchester-united-ueber-pleite-gegen-den-fc-bayern-muenchen-a-5eb2d56f-2a43-4d28-9d42-7ef8949d18af#ref=rss)
+### kriege
 
-* [https://www.spiegel.de/sport/radprofi-nathan-van-hooyonck-muss-karriere-wegen-herzproblemen-beenden](https://www.spiegel.de/sport/radprofi-nathan-van-hooyonck-muss-karriere-wegen-herzproblemen-beenden-a-4a3c5a43-6f21-4065-ad04-f5b420e5782b#ref=rss)
-* [https://www.spiegel.de/ausland/bergkarabach-nach-waffenruhe-kampfhandlungen-nehmen-offenbar-ab](https://www.spiegel.de/ausland/bergkarabach-nach-waffenruhe-kampfhandlungen-nehmen-offenbar-ab-a-fc417f45-acc7-49f7-96a4-70f4e6492305#ref=rss)
-### folgen
+* [https://www.spiegel.de/geschichte/frieden-in-zeiten-neuer-kriege](https://www.spiegel.de/geschichte/frieden-in-zeiten-neuer-kriege-a-c50348c8-253e-4082-b260-81e45a036f14#ref=rss)
+### saudiarabien
 
-* [https://www.spiegel.de/sport/radprofi-nathan-van-hooyonck-muss-karriere-wegen-herzproblemen-beenden](https://www.spiegel.de/sport/radprofi-nathan-van-hooyonck-muss-karriere-wegen-herzproblemen-beenden-a-4a3c5a43-6f21-4065-ad04-f5b420e5782b#ref=rss)
-* [https://www.spiegel.de/ausland/bergkarabach-nach-waffenruhe-kampfhandlungen-nehmen-offenbar-ab](https://www.spiegel.de/ausland/bergkarabach-nach-waffenruhe-kampfhandlungen-nehmen-offenbar-ab-a-fc417f45-acc7-49f7-96a4-70f4e6492305#ref=rss)
-### eu
+* [https://www.spiegel.de/ausland/saudi-arabien-und-israel-naehern-sich-laut-mohamed-bin-salman-an](https://www.spiegel.de/ausland/saudi-arabien-und-israel-naehern-sich-laut-mohamed-bin-salman-an-a-8c87be9f-96bb-4839-b9c3-7fb56d0ebf04#ref=rss)
+### israel
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/greenwashing-eu-einigt-sich-auf-verbot](https://www.spiegel.de/wirtschaft/unternehmen/greenwashing-eu-einigt-sich-auf-verbot-a-f6abc426-f41d-4dd6-8de9-c1cc06a15cb8#ref=rss)
-### verteidiger
+* [https://www.spiegel.de/ausland/saudi-arabien-und-israel-naehern-sich-laut-mohamed-bin-salman-an](https://www.spiegel.de/ausland/saudi-arabien-und-israel-naehern-sich-laut-mohamed-bin-salman-an-a-8c87be9f-96bb-4839-b9c3-7fb56d0ebf04#ref=rss)
+### bin
 
-* [https://www.spiegel.de/panorama/justiz/cum-ex-skandal-verteidiger-fordern-in-bonn-freispruch-fuer-banker-christian-olearius](https://www.spiegel.de/panorama/justiz/cum-ex-skandal-verteidiger-fordern-in-bonn-freispruch-fuer-banker-christian-olearius-a-c3c8ae23-2b3b-4fc3-9ef8-4da26f7cca84#ref=rss)
-* [https://www.spiegel.de/ausland/ru](https://www.spiegel.de/ausland/ru-a-1655471f-3e92-45b3-941e-79e8bc61d1b3#ref=rss)
-### christian
+* [https://www.spiegel.de/ausland/saudi-arabien-und-israel-naehern-sich-laut-mohamed-bin-salman-an](https://www.spiegel.de/ausland/saudi-arabien-und-israel-naehern-sich-laut-mohamed-bin-salman-an-a-8c87be9f-96bb-4839-b9c3-7fb56d0ebf04#ref=rss)
+### salman
 
-* [https://www.spiegel.de/panorama/justiz/cum-ex-skandal-verteidiger-fordern-in-bonn-freispruch-fuer-banker-christian-olearius](https://www.spiegel.de/panorama/justiz/cum-ex-skandal-verteidiger-fordern-in-bonn-freispruch-fuer-banker-christian-olearius-a-c3c8ae23-2b3b-4fc3-9ef8-4da26f7cca84#ref=rss)
-### olearius
+* [https://www.spiegel.de/ausland/saudi-arabien-und-israel-naehern-sich-laut-mohamed-bin-salman-an](https://www.spiegel.de/ausland/saudi-arabien-und-israel-naehern-sich-laut-mohamed-bin-salman-an-a-8c87be9f-96bb-4839-b9c3-7fb56d0ebf04#ref=rss)
+### syrien
 
-* [https://www.spiegel.de/panorama/justiz/cum-ex-skandal-verteidiger-fordern-in-bonn-freispruch-fuer-banker-christian-olearius](https://www.spiegel.de/panorama/justiz/cum-ex-skandal-verteidiger-fordern-in-bonn-freispruch-fuer-banker-christian-olearius-a-c3c8ae23-2b3b-4fc3-9ef8-4da26f7cca84#ref=rss)
-### zurück
+* [https://www.spiegel.de/ausland/syrien-baschar-al-assad-besucht-china](https://www.spiegel.de/ausland/syrien-baschar-al-assad-besucht-china-a-78ac4bdf-d31f-4369-9948-66f2fc356106#ref=rss)
+### baschar
 
-* [https://www.spiegel.de/panorama/justiz/cum-ex-skandal-verteidiger-fordern-in-bonn-freispruch-fuer-banker-christian-olearius](https://www.spiegel.de/panorama/justiz/cum-ex-skandal-verteidiger-fordern-in-bonn-freispruch-fuer-banker-christian-olearius-a-c3c8ae23-2b3b-4fc3-9ef8-4da26f7cca84#ref=rss)
-* [https://www.spiegel.de/geschichte/kolonialzeit-der-schaedel-meines-grossvaters-muss-zurueck-nach-tansania](https://www.spiegel.de/geschichte/kolonialzeit-der-schaedel-meines-grossvaters-muss-zurueck-nach-tansania-a-eb47098a-af82-4ff8-939a-aae87e02db4f#ref=rss)
-### fall
+* [https://www.spiegel.de/ausland/syrien-baschar-al-assad-besucht-china](https://www.spiegel.de/ausland/syrien-baschar-al-assad-besucht-china-a-78ac4bdf-d31f-4369-9948-66f2fc356106#ref=rss)
+### china
 
-* [https://www.spiegel.de/panorama/justiz/trier-unabhaengige-aufarbeitungskommission-im-fall-edmund-dillinger-stellt-zwischenbericht-vor](https://www.spiegel.de/panorama/justiz/trier-unabhaengige-aufarbeitungskommission-im-fall-edmund-dillinger-stellt-zwischenbericht-vor-a-59a96cd6-4d60-4718-96d2-191237ffa298#ref=rss)
-### dillinger
+* [https://www.spiegel.de/ausland/syrien-baschar-al-assad-besucht-china](https://www.spiegel.de/ausland/syrien-baschar-al-assad-besucht-china-a-78ac4bdf-d31f-4369-9948-66f2fc356106#ref=rss)
+### lange
 
-* [https://www.spiegel.de/panorama/justiz/trier-unabhaengige-aufarbeitungskommission-im-fall-edmund-dillinger-stellt-zwischenbericht-vor](https://www.spiegel.de/panorama/justiz/trier-unabhaengige-aufarbeitungskommission-im-fall-edmund-dillinger-stellt-zwischenbericht-vor-a-59a96cd6-4d60-4718-96d2-191237ffa298#ref=rss)
-### zwischenbericht
+* [https://www.spiegel.de/ausland/syrien-baschar-al-assad-besucht-china](https://www.spiegel.de/ausland/syrien-baschar-al-assad-besucht-china-a-78ac4bdf-d31f-4369-9948-66f2fc356106#ref=rss)
+* [https://www.spiegel.de/kultur/musik/stephen-gould-mit-61-jahren-gestorben-heldentenor-in-bayreuth-und-wien](https://www.spiegel.de/kultur/musik/stephen-gould-mit-61-jahren-gestorben-heldentenor-in-bayreuth-und-wien-a-caf6646b-cd76-4d0d-9ca8-8d3b4d5911c7#ref=rss)
+### steckt
 
-* [https://www.spiegel.de/panorama/justiz/trier-unabhaengige-aufarbeitungskommission-im-fall-edmund-dillinger-stellt-zwischenbericht-vor](https://www.spiegel.de/panorama/justiz/trier-unabhaengige-aufarbeitungskommission-im-fall-edmund-dillinger-stellt-zwischenbericht-vor-a-59a96cd6-4d60-4718-96d2-191237ffa298#ref=rss)
-### dadurch
+* [https://www.spiegel.de/politik/debatte-ueber-migration-wie-waer-s-mal-mit-ein-bisschen-wahrheit-kommentar](https://www.spiegel.de/politik/debatte-ueber-migration-wie-waer-s-mal-mit-ein-bisschen-wahrheit-kommentar-a-1e2973c8-5289-413b-9121-3d8ca698fcbf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/drogen-welle-crack-flutet-deutsche-staedte-das-steckt-dahinter](https://www.spiegel.de/politik/deutschland/drogen-welle-crack-flutet-deutsche-staedte-das-steckt-dahinter-a-e9f69483-0eeb-4129-b629-b81fb201a556#ref=rss)
+### politik
 
-* [https://www.spiegel.de/panorama/justiz/trier-unabhaengige-aufarbeitungskommission-im-fall-edmund-dillinger-stellt-zwischenbericht-vor](https://www.spiegel.de/panorama/justiz/trier-unabhaengige-aufarbeitungskommission-im-fall-edmund-dillinger-stellt-zwischenbericht-vor-a-59a96cd6-4d60-4718-96d2-191237ffa298#ref=rss)
-* [https://www.spiegel.de/wissenschaft/farbwechsel-wie-bei-chamaeleons-beschichtung-koennte-haeuser-waermen-und-kuehlen](https://www.spiegel.de/wissenschaft/farbwechsel-wie-bei-chamaeleons-beschichtung-koennte-haeuser-waermen-und-kuehlen-a-4a941e3c-e806-4362-857e-231c1b5387d4#ref=rss)
-### tarifverhandlungen
+* [https://www.spiegel.de/politik/debatte-ueber-migration-wie-waer-s-mal-mit-ein-bisschen-wahrheit-kommentar](https://www.spiegel.de/politik/debatte-ueber-migration-wie-waer-s-mal-mit-ein-bisschen-wahrheit-kommentar-a-1e2973c8-5289-413b-9121-3d8ca698fcbf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/drogen-welle-crack-flutet-deutsche-staedte-das-steckt-dahinter](https://www.spiegel.de/politik/deutschland/drogen-welle-crack-flutet-deutsche-staedte-das-steckt-dahinter-a-e9f69483-0eeb-4129-b629-b81fb201a556#ref=rss)
+### führt
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/einzelhandel-immer-mehr-unternehmen-erhoehen-mitten-in-tarifverhandlungen-die-loehne](https://www.spiegel.de/wirtschaft/unternehmen/einzelhandel-immer-mehr-unternehmen-erhoehen-mitten-in-tarifverhandlungen-die-loehne-a-fcee8674-028b-44e9-a1b6-62e2bb449556#ref=rss)
-### friedenstruppen
+* [https://www.spiegel.de/politik/debatte-ueber-migration-wie-waer-s-mal-mit-ein-bisschen-wahrheit-kommentar](https://www.spiegel.de/politik/debatte-ueber-migration-wie-waer-s-mal-mit-ein-bisschen-wahrheit-kommentar-a-1e2973c8-5289-413b-9121-3d8ca698fcbf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/drogen-welle-crack-flutet-deutsche-staedte-das-steckt-dahinter](https://www.spiegel.de/politik/deutschland/drogen-welle-crack-flutet-deutsche-staedte-das-steckt-dahinter-a-e9f69483-0eeb-4129-b629-b81fb201a556#ref=rss)
+### bergkarabach
 
-* [https://www.spiegel.de/ausland/ru](https://www.spiegel.de/ausland/ru-a-1655471f-3e92-45b3-941e-79e8bc61d1b3#ref=rss)
-### imagefilm
+* [https://www.spiegel.de/ausland/bergkarabach-aserbaidschan-und-armenien-treffen-sich-fuer-verhandlungen](https://www.spiegel.de/ausland/bergkarabach-aserbaidschan-und-armenien-treffen-sich-fuer-verhandlungen-a-4299e1af-ec96-42b5-8546-4bc1409bb27d#ref=rss)
+### aserbaidschan
 
-* [https://www.spiegel.de/politik/deutschland/news-cdu-blamiert-sich-mit-flascher-kuppel-in-imagefilm-nancy-faeser-bergkarabach](https://www.spiegel.de/politik/deutschland/news-cdu-blamiert-sich-mit-flascher-kuppel-in-imagefilm-nancy-faeser-bergkarabach-a-c217668a-5ed3-4bf2-99b8-82466281161a#ref=rss)
-### lage
+* [https://www.spiegel.de/ausland/bergkarabach-aserbaidschan-und-armenien-treffen-sich-fuer-verhandlungen](https://www.spiegel.de/ausland/bergkarabach-aserbaidschan-und-armenien-treffen-sich-fuer-verhandlungen-a-4299e1af-ec96-42b5-8546-4bc1409bb27d#ref=rss)
+### social
 
-* [https://www.spiegel.de/politik/deutschland/news-cdu-blamiert-sich-mit-flascher-kuppel-in-imagefilm-nancy-faeser-bergkarabach](https://www.spiegel.de/politik/deutschland/news-cdu-blamiert-sich-mit-flascher-kuppel-in-imagefilm-nancy-faeser-bergkarabach-a-c217668a-5ed3-4bf2-99b8-82466281161a#ref=rss)
-* [https://www.spiegel.de/ausland/bergkarabach-nach-waffenruhe-kampfhandlungen-nehmen-offenbar-ab](https://www.spiegel.de/ausland/bergkarabach-nach-waffenruhe-kampfhandlungen-nehmen-offenbar-ab-a-fc417f45-acc7-49f7-96a4-70f4e6492305#ref=rss)
-### weniger
+* [https://www.spiegel.de/stil/social-design-award-publikumspreis-waehlen-sie-ihr-lieblingsprojekt](https://www.spiegel.de/stil/social-design-award-publikumspreis-waehlen-sie-ihr-lieblingsprojekt-a-122f8703-b695-42b6-8240-155c61bbd448#ref=rss)
+### design
 
-* [https://www.spiegel.de/wissenschaft/farbwechsel-wie-bei-chamaeleons-beschichtung-koennte-haeuser-waermen-und-kuehlen](https://www.spiegel.de/wissenschaft/farbwechsel-wie-bei-chamaeleons-beschichtung-koennte-haeuser-waermen-und-kuehlen-a-4a941e3c-e806-4362-857e-231c1b5387d4#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/mindelheim-auf-autodach-vergessenes-handy-loest-grosseinsatz-aus](https://www.spiegel.de/panorama/bildung/mindelheim-auf-autodach-vergessenes-handy-loest-grosseinsatz-aus-a-cb4df561-d45d-44d4-95fd-edf318b0e5e5#ref=rss)
-### polen
+* [https://www.spiegel.de/stil/social-design-award-publikumspreis-waehlen-sie-ihr-lieblingsprojekt](https://www.spiegel.de/stil/social-design-award-publikumspreis-waehlen-sie-ihr-lieblingsprojekt-a-122f8703-b695-42b6-8240-155c61bbd448#ref=rss)
+### wählen
 
-* [https://www.spiegel.de/ausland/uno-rede-von-wolodymyr-selenskyj-polen-bestellt-wassyl-swarytsch-ein](https://www.spiegel.de/ausland/uno-rede-von-wolodymyr-selenskyj-polen-bestellt-wassyl-swarytsch-ein-a-6ddfb850-d5ba-49f1-8342-fee36b498c29#ref=rss)
-### früher
+* [https://www.spiegel.de/stil/social-design-award-publikumspreis-waehlen-sie-ihr-lieblingsprojekt](https://www.spiegel.de/stil/social-design-award-publikumspreis-waehlen-sie-ihr-lieblingsprojekt-a-122f8703-b695-42b6-8240-155c61bbd448#ref=rss)
+### schnell
 
-* [https://www.spiegel.de/wissenschaft/tanganjikasee-archaeologen-entdecken-476-000-jahre-alte-holzkonstruktion-von-fruehen-menschen](https://www.spiegel.de/wissenschaft/tanganjikasee-archaeologen-entdecken-476-000-jahre-alte-holzkonstruktion-von-fruehen-menschen-a-bc6a9429-fd5e-4ee3-af75-b5d3abbb1226#ref=rss)
-* [https://www.spiegel.de/wirtschaft/anfang-2024-mehrwertsteuer-auf-gas-soll-wieder-steigen](https://www.spiegel.de/wirtschaft/anfang-2024-mehrwertsteuer-auf-gas-soll-wieder-steigen-a-ee5b56b2-8be6-4df3-8261-28006dac9c48#ref=rss)
-### cyberpunk
+* [https://www.spiegel.de/politik/deutschland/drogen-welle-crack-flutet-deutsche-staedte-das-steckt-dahinter](https://www.spiegel.de/politik/deutschland/drogen-welle-crack-flutet-deutsche-staedte-das-steckt-dahinter-a-e9f69483-0eeb-4129-b629-b81fb201a556#ref=rss)
+* [https://www.spiegel.de/karriere/pflege-in-deutschland-pflegekraefte-von-den-philippinen-berichten-von-diskriminierung-im-job](https://www.spiegel.de/karriere/pflege-in-deutschland-pflegekraefte-von-den-philippinen-berichten-von-diskriminierung-im-job-a-d4582d99-c066-4578-83eb-bd0c36f60baf#ref=rss)
+### pflege
 
-* [https://www.spiegel.de/netzwelt/games/cyberpunk-2077-phantom-liberty-im-test-reise-in-eine-elende-welt](https://www.spiegel.de/netzwelt/games/cyberpunk-2077-phantom-liberty-im-test-reise-in-eine-elende-welt-a-3c83b436-1326-4b42-af15-c1a91640b02d#ref=rss)
-### 2077
+* [https://www.spiegel.de/karriere/pflege-in-deutschland-pflegekraefte-von-den-philippinen-berichten-von-diskriminierung-im-job](https://www.spiegel.de/karriere/pflege-in-deutschland-pflegekraefte-von-den-philippinen-berichten-von-diskriminierung-im-job-a-d4582d99-c066-4578-83eb-bd0c36f60baf#ref=rss)
+### philippinen
 
-* [https://www.spiegel.de/netzwelt/games/cyberpunk-2077-phantom-liberty-im-test-reise-in-eine-elende-welt](https://www.spiegel.de/netzwelt/games/cyberpunk-2077-phantom-liberty-im-test-reise-in-eine-elende-welt-a-3c83b436-1326-4b42-af15-c1a91640b02d#ref=rss)
-### waffenruhe
+* [https://www.spiegel.de/karriere/pflege-in-deutschland-pflegekraefte-von-den-philippinen-berichten-von-diskriminierung-im-job](https://www.spiegel.de/karriere/pflege-in-deutschland-pflegekraefte-von-den-philippinen-berichten-von-diskriminierung-im-job-a-d4582d99-c066-4578-83eb-bd0c36f60baf#ref=rss)
+### einsatz
 
-* [https://www.spiegel.de/ausland/bergkarabach-nach-waffenruhe-kampfhandlungen-nehmen-offenbar-ab](https://www.spiegel.de/ausland/bergkarabach-nach-waffenruhe-kampfhandlungen-nehmen-offenbar-ab-a-fc417f45-acc7-49f7-96a4-70f4e6492305#ref=rss)
-### gas
+* [https://www.spiegel.de/panorama/michigan-frau-will-apple-watch-aus-plumpsklo-holen-und-muss-gerettet-werden](https://www.spiegel.de/panorama/michigan-frau-will-apple-watch-aus-plumpsklo-holen-und-muss-gerettet-werden-a-531e4f3a-b3d2-44bd-afca-d2411c4f5e9a#ref=rss)
+### stephen
 
-* [https://www.spiegel.de/wirtschaft/anfang-2024-mehrwertsteuer-auf-gas-soll-wieder-steigen](https://www.spiegel.de/wirtschaft/anfang-2024-mehrwertsteuer-auf-gas-soll-wieder-steigen-a-ee5b56b2-8be6-4df3-8261-28006dac9c48#ref=rss)
-### franz
+* [https://www.spiegel.de/kultur/musik/stephen-gould-mit-61-jahren-gestorben-heldentenor-in-bayreuth-und-wien](https://www.spiegel.de/kultur/musik/stephen-gould-mit-61-jahren-gestorben-heldentenor-in-bayreuth-und-wien-a-caf6646b-cd76-4d0d-9ca8-8d3b4d5911c7#ref=rss)
+### gould
 
-* [https://www.spiegel.de/sport/fussball/julian-nagelsmann-auch-franz-beckenbauer-sollte-nur-bundestrainer-auf-zeit-sein](https://www.spiegel.de/sport/fussball/julian-nagelsmann-auch-franz-beckenbauer-sollte-nur-bundestrainer-auf-zeit-sein-a-0f314ca2-9c0d-4781-a227-09dfeb791f67#ref=rss)
-### beckenbauer
+* [https://www.spiegel.de/kultur/musik/stephen-gould-mit-61-jahren-gestorben-heldentenor-in-bayreuth-und-wien](https://www.spiegel.de/kultur/musik/stephen-gould-mit-61-jahren-gestorben-heldentenor-in-bayreuth-und-wien-a-caf6646b-cd76-4d0d-9ca8-8d3b4d5911c7#ref=rss)
+### gestorben
 
-* [https://www.spiegel.de/sport/fussball/julian-nagelsmann-auch-franz-beckenbauer-sollte-nur-bundestrainer-auf-zeit-sein](https://www.spiegel.de/sport/fussball/julian-nagelsmann-auch-franz-beckenbauer-sollte-nur-bundestrainer-auf-zeit-sein-a-0f314ca2-9c0d-4781-a227-09dfeb791f67#ref=rss)
-### bundestrainer
+* [https://www.spiegel.de/kultur/musik/stephen-gould-mit-61-jahren-gestorben-heldentenor-in-bayreuth-und-wien](https://www.spiegel.de/kultur/musik/stephen-gould-mit-61-jahren-gestorben-heldentenor-in-bayreuth-und-wien-a-caf6646b-cd76-4d0d-9ca8-8d3b4d5911c7#ref=rss)
+### bayreuth
 
-* [https://www.spiegel.de/sport/fussball/julian-nagelsmann-auch-franz-beckenbauer-sollte-nur-bundestrainer-auf-zeit-sein](https://www.spiegel.de/sport/fussball/julian-nagelsmann-auch-franz-beckenbauer-sollte-nur-bundestrainer-auf-zeit-sein-a-0f314ca2-9c0d-4781-a227-09dfeb791f67#ref=rss)
-### zeit
-
-* [https://www.spiegel.de/sport/fussball/julian-nagelsmann-auch-franz-beckenbauer-sollte-nur-bundestrainer-auf-zeit-sein](https://www.spiegel.de/sport/fussball/julian-nagelsmann-auch-franz-beckenbauer-sollte-nur-bundestrainer-auf-zeit-sein-a-0f314ca2-9c0d-4781-a227-09dfeb791f67#ref=rss)
-### wirtschaftskriminalität
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/wirtschaftskriminalitaet-kreditversicherer-warnt-vor-zunahme-durch-homeoffice-und-social-engineering](https://www.spiegel.de/wirtschaft/unternehmen/wirtschaftskriminalitaet-kreditversicherer-warnt-vor-zunahme-durch-homeoffice-und-social-engineering-a-dec2cb87-53d7-4d2d-9925-c9e13ac8f71a#ref=rss)
-### kreditversicherer
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/wirtschaftskriminalitaet-kreditversicherer-warnt-vor-zunahme-durch-homeoffice-und-social-engineering](https://www.spiegel.de/wirtschaft/unternehmen/wirtschaftskriminalitaet-kreditversicherer-warnt-vor-zunahme-durch-homeoffice-und-social-engineering-a-dec2cb87-53d7-4d2d-9925-c9e13ac8f71a#ref=rss)
-### ruth
-
-* [https://www.spiegel.de/sport/olympia/ruth-fuchs-nachruf-auf-speerwurf-olympiasiegerin-sie-war-die-frau-mit-dem-eisenarm](https://www.spiegel.de/sport/olympia/ruth-fuchs-nachruf-auf-speerwurf-olympiasiegerin-sie-war-die-frau-mit-dem-eisenarm-a-7a7f74cd-9981-42f8-a336-c49955a52f56#ref=rss)
-### fuchs
-
-* [https://www.spiegel.de/sport/olympia/ruth-fuchs-nachruf-auf-speerwurf-olympiasiegerin-sie-war-die-frau-mit-dem-eisenarm](https://www.spiegel.de/sport/olympia/ruth-fuchs-nachruf-auf-speerwurf-olympiasiegerin-sie-war-die-frau-mit-dem-eisenarm-a-7a7f74cd-9981-42f8-a336-c49955a52f56#ref=rss)
-### sinnvoll
-
-* [https://www.spiegel.de/panorama/bildung/mindelheim-auf-autodach-vergessenes-handy-loest-grosseinsatz-aus](https://www.spiegel.de/panorama/bildung/mindelheim-auf-autodach-vergessenes-handy-loest-grosseinsatz-aus-a-cb4df561-d45d-44d4-95fd-edf318b0e5e5#ref=rss)
-### nico
-
-* [https://www.spiegel.de/kultur/tv/nico-hofmann-tritt-bei-der-ufa-ab-wohin-steuert-deutschlands-groesste-produktionsfirma](https://www.spiegel.de/kultur/tv/nico-hofmann-tritt-bei-der-ufa-ab-wohin-steuert-deutschlands-groesste-produktionsfirma-a-35224258-ceb7-423e-9ae0-33a32c15ab39#ref=rss)
-### hofmann
-
-* [https://www.spiegel.de/kultur/tv/nico-hofmann-tritt-bei-der-ufa-ab-wohin-steuert-deutschlands-groesste-produktionsfirma](https://www.spiegel.de/kultur/tv/nico-hofmann-tritt-bei-der-ufa-ab-wohin-steuert-deutschlands-groesste-produktionsfirma-a-35224258-ceb7-423e-9ae0-33a32c15ab39#ref=rss)
-### tritt
-
-* [https://www.spiegel.de/kultur/tv/nico-hofmann-tritt-bei-der-ufa-ab-wohin-steuert-deutschlands-groesste-produktionsfirma](https://www.spiegel.de/kultur/tv/nico-hofmann-tritt-bei-der-ufa-ab-wohin-steuert-deutschlands-groesste-produktionsfirma-a-35224258-ceb7-423e-9ae0-33a32c15ab39#ref=rss)
-### ufa
-
-* [https://www.spiegel.de/kultur/tv/nico-hofmann-tritt-bei-der-ufa-ab-wohin-steuert-deutschlands-groesste-produktionsfirma](https://www.spiegel.de/kultur/tv/nico-hofmann-tritt-bei-der-ufa-ab-wohin-steuert-deutschlands-groesste-produktionsfirma-a-35224258-ceb7-423e-9ae0-33a32c15ab39#ref=rss)
-### unsere
-
-* [https://www.spiegel.de/kultur/tv/nico-hofmann-tritt-bei-der-ufa-ab-wohin-steuert-deutschlands-groesste-produktionsfirma](https://www.spiegel.de/kultur/tv/nico-hofmann-tritt-bei-der-ufa-ab-wohin-steuert-deutschlands-groesste-produktionsfirma-a-35224258-ceb7-423e-9ae0-33a32c15ab39#ref=rss)
-### jeder
-
-* [https://www.spiegel.de/start/nachhaltige-berufe-jeder-job-wird-zum-klima-job](https://www.spiegel.de/start/nachhaltige-berufe-jeder-job-wird-zum-klima-job-a-e0b54612-15e5-440a-b753-05d81c9e88cf#ref=rss)
-### stefan
-
-* [https://www.spiegel.de/sport/fussball/entlassung-offiziell-tuerkei-trennt-sich-von-nationaltrainer-stefan-kuntz](https://www.spiegel.de/sport/fussball/entlassung-offiziell-tuerkei-trennt-sich-von-nationaltrainer-stefan-kuntz-a-00905bb9-be62-4f9d-9091-028c1bfe3722#ref=rss)
-### kuntz
-
-* [https://www.spiegel.de/sport/fussball/entlassung-offiziell-tuerkei-trennt-sich-von-nationaltrainer-stefan-kuntz](https://www.spiegel.de/sport/fussball/entlassung-offiziell-tuerkei-trennt-sich-von-nationaltrainer-stefan-kuntz-a-00905bb9-be62-4f9d-9091-028c1bfe3722#ref=rss)
-### nationaltrainer
-
-* [https://www.spiegel.de/sport/fussball/entlassung-offiziell-tuerkei-trennt-sich-von-nationaltrainer-stefan-kuntz](https://www.spiegel.de/sport/fussball/entlassung-offiziell-tuerkei-trennt-sich-von-nationaltrainer-stefan-kuntz-a-00905bb9-be62-4f9d-9091-028c1bfe3722#ref=rss)
+* [https://www.spiegel.de/kultur/musik/stephen-gould-mit-61-jahren-gestorben-heldentenor-in-bayreuth-und-wien](https://www.spiegel.de/kultur/musik/stephen-gould-mit-61-jahren-gestorben-heldentenor-in-bayreuth-und-wien-a-caf6646b-cd76-4d0d-9ca8-8d3b4d5911c7#ref=rss)
 
