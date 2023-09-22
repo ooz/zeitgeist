@@ -4,247 +4,296 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### bergkarabach
+### zwei
 
-* [https://www.spiegel.de/ausland/armenien-stellt-sich-auf-zehntausende-fluechtlinge-aus-bergkarabach-ein](https://www.spiegel.de/ausland/armenien-stellt-sich-auf-zehntausende-fluechtlinge-aus-bergkarabach-ein-a-badaf28f-1bb6-4f76-a794-b46ea9a29060#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-bundesrichterin-pauline-newman-kaempfe-in-bergkarabach-chatgpt](https://www.spiegel.de/politik/deutschland/news-des-tages-bundesrichterin-pauline-newman-kaempfe-in-bergkarabach-chatgpt-a-aff720f8-3b32-42c8-a3b5-3cf2e380fa13#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-bergkarabach-von-allen-seiten-verlassen](https://www.spiegel.de/ausland/krieg-in-bergkarabach-von-allen-seiten-verlassen-a-ed8d2abf-e358-4e84-a513-7842ad8bed6b#ref=rss)
-* [https://www.spiegel.de/ausland/bp-feiert-mit-aserbaidschans-praesident-ilham-alijew-historisches-oel-abkommen](https://www.spiegel.de/ausland/bp-feiert-mit-aserbaidschans-praesident-ilham-alijew-historisches-oel-abkommen-a-f4e13fd2-6419-4ede-8800-dd6a7f70398d#ref=rss)
-### offenbar
+* [https://www.spiegel.de/panorama/justiz/schweden-zwei-menschen-in-kneipe-erschossen-wohl-zusammehang-mit-bandenkriminalitaet](https://www.spiegel.de/panorama/justiz/schweden-zwei-menschen-in-kneipe-erschossen-wohl-zusammehang-mit-bandenkriminalitaet-a-9f9b2495-1fc5-4800-ab4e-3a45fc0b9d78#ref=rss)
+* [https://www.spiegel.de/sport/fussball/spanien-fussballerinnen-aeussern-sich-zu-streit-damit-so-etwas-nirgendwo-wieder-passiert](https://www.spiegel.de/sport/fussball/spanien-fussballerinnen-aeussern-sich-zu-streit-damit-so-etwas-nirgendwo-wieder-passiert-a-605a5d57-18fe-4df2-8ef7-46fe48da6fce#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wohnungsverbaende-erteilen-wohnungsbaugipfel-eine-absage](https://www.spiegel.de/wirtschaft/wohnungsverbaende-erteilen-wohnungsbaugipfel-eine-absage-a-b9a4cd44-bb69-48a4-b8a3-e10b85637c6d#ref=rss)
+### china
 
-* [https://www.spiegel.de/ausland/armenien-stellt-sich-auf-zehntausende-fluechtlinge-aus-bergkarabach-ein](https://www.spiegel.de/ausland/armenien-stellt-sich-auf-zehntausende-fluechtlinge-aus-bergkarabach-ein-a-badaf28f-1bb6-4f76-a794-b46ea9a29060#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-bergkarabach-von-allen-seiten-verlassen](https://www.spiegel.de/ausland/krieg-in-bergkarabach-von-allen-seiten-verlassen-a-ed8d2abf-e358-4e84-a513-7842ad8bed6b#ref=rss)
-* [https://www.spiegel.de/panorama/brandenburg-referendarin-moderiert-bei-compact-tv-was-ueber-den-fall-bekannt-ist](https://www.spiegel.de/panorama/brandenburg-referendarin-moderiert-bei-compact-tv-was-ueber-den-fall-bekannt-ist-a-db40f3f7-61f2-4319-96b0-0d08b9ee63e4#ref=rss)
-* [https://www.spiegel.de/ausland/indien-stoppt-offenbar-visavergabe-an-kanadier](https://www.spiegel.de/ausland/indien-stoppt-offenbar-visavergabe-an-kanadier-a-243ab348-eddb-44bc-9153-f94932d8f544#ref=rss)
-### europa
-
-* [https://www.spiegel.de/wissenschaft/natur/feinstaub-fast-alle-menschen-in-europa-atmen-verschmutzte-luft](https://www.spiegel.de/wissenschaft/natur/feinstaub-fast-alle-menschen-in-europa-atmen-verschmutzte-luft-a-bf65aad0-bb11-4dc4-99df-e7aa9441524f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/chinas-windkraftkonzerne-draengen-nach-europa](https://www.spiegel.de/wirtschaft/unternehmen/chinas-windkraftkonzerne-draengen-nach-europa-a-fd72ad4c-9379-4435-8145-4e77872a0d0c#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/justiz/frankreich-pariser-flughafenzoll-charles-de-gaulle-beschlagnahmt-hunderte-affenschaedel](https://www.spiegel.de/panorama/justiz/frankreich-pariser-flughafenzoll-charles-de-gaulle-beschlagnahmt-hunderte-affenschaedel-a-8c73dc03-7810-46b0-8eeb-09e9b2c81b0d#ref=rss)
-* [https://www.spiegel.de/ausland/ukrainekrieg-will-polen-wirklich-keine-waffen-mehr-nach-kiew-liefern](https://www.spiegel.de/ausland/ukrainekrieg-will-polen-wirklich-keine-waffen-mehr-nach-kiew-liefern-a-57a564e7-66a8-4d9b-a163-6a6a2e032dcd#ref=rss)
-* [https://www.spiegel.de/ausland/indien-stoppt-offenbar-visavergabe-an-kanadier](https://www.spiegel.de/ausland/indien-stoppt-offenbar-visavergabe-an-kanadier-a-243ab348-eddb-44bc-9153-f94932d8f544#ref=rss)
-### ukrainekrieg
-
-* [https://www.spiegel.de/ausland/ukrainekrieg-will-polen-wirklich-keine-waffen-mehr-nach-kiew-liefern](https://www.spiegel.de/ausland/ukrainekrieg-will-polen-wirklich-keine-waffen-mehr-nach-kiew-liefern-a-57a564e7-66a8-4d9b-a163-6a6a2e032dcd#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-wladimir-putin-hofft-auf-den-jet-panzer-t-80](https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-wladimir-putin-hofft-auf-den-jet-panzer-t-80-a-700701a7-248c-4f99-868f-4b5e46833a09#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/armenien-stellt-sich-auf-zehntausende-fluechtlinge-aus-bergkarabach-ein](https://www.spiegel.de/ausland/armenien-stellt-sich-auf-zehntausende-fluechtlinge-aus-bergkarabach-ein-a-badaf28f-1bb6-4f76-a794-b46ea9a29060#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/feinstaub-fast-alle-menschen-in-europa-atmen-verschmutzte-luft](https://www.spiegel.de/wissenschaft/natur/feinstaub-fast-alle-menschen-in-europa-atmen-verschmutzte-luft-a-bf65aad0-bb11-4dc4-99df-e7aa9441524f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/herzinfarkt-bericht-zahl-der-toedlichen-faelle-sinkt](https://www.spiegel.de/wissenschaft/medizin/herzinfarkt-bericht-zahl-der-toedlichen-faelle-sinkt-a-f848a9a7-5da4-4a4b-8269-20a1cd309cc1#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/armenien-stellt-sich-auf-zehntausende-fluechtlinge-aus-bergkarabach-ein](https://www.spiegel.de/ausland/armenien-stellt-sich-auf-zehntausende-fluechtlinge-aus-bergkarabach-ein-a-badaf28f-1bb6-4f76-a794-b46ea9a29060#ref=rss)
-* [https://www.spiegel.de/ausland/bp-feiert-mit-aserbaidschans-praesident-ilham-alijew-historisches-oel-abkommen](https://www.spiegel.de/ausland/bp-feiert-mit-aserbaidschans-praesident-ilham-alijew-historisches-oel-abkommen-a-f4e13fd2-6419-4ede-8800-dd6a7f70398d#ref=rss)
-### fall
-
-* [https://www.spiegel.de/panorama/brandenburg-referendarin-moderiert-bei-compact-tv-was-ueber-den-fall-bekannt-ist](https://www.spiegel.de/panorama/brandenburg-referendarin-moderiert-bei-compact-tv-was-ueber-den-fall-bekannt-ist-a-db40f3f7-61f2-4319-96b0-0d08b9ee63e4#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/jerome-boateng-darum-muss-der-fall-erneut-vor-gericht-verhandelt-werden](https://www.spiegel.de/panorama/justiz/jerome-boateng-darum-muss-der-fall-erneut-vor-gericht-verhandelt-werden-a-c1978409-4131-4265-9b42-b214a13fee07#ref=rss)
-### fast
-
-* [https://www.spiegel.de/wissenschaft/natur/feinstaub-fast-alle-menschen-in-europa-atmen-verschmutzte-luft](https://www.spiegel.de/wissenschaft/natur/feinstaub-fast-alle-menschen-in-europa-atmen-verschmutzte-luft-a-bf65aad0-bb11-4dc4-99df-e7aa9441524f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/chinas-windkraftkonzerne-draengen-nach-europa](https://www.spiegel.de/wirtschaft/unternehmen/chinas-windkraftkonzerne-draengen-nach-europa-a-fd72ad4c-9379-4435-8145-4e77872a0d0c#ref=rss)
-### sizilien
-
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-auf-sizilien-ploetzlich-klartext-praesident](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-auf-sizilien-ploetzlich-klartext-praesident-a-5fb72565-de8b-4cca-a230-e7a2be9eeb92#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-auf-sizilien-ploetzlich-klartext-praesident](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-auf-sizilien-ploetzlich-klartext-praesident-a-5fb72565-de8b-4cca-a230-e7a2be9eeb92#ref=rss)
-* [https://www.spiegel.de/ausland/indien-stoppt-offenbar-visavergabe-an-kanadier](https://www.spiegel.de/ausland/indien-stoppt-offenbar-visavergabe-an-kanadier-a-243ab348-eddb-44bc-9153-f94932d8f544#ref=rss)
-### worte
-
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-auf-sizilien-ploetzlich-klartext-praesident](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-auf-sizilien-ploetzlich-klartext-praesident-a-5fb72565-de8b-4cca-a230-e7a2be9eeb92#ref=rss)
-* [https://www.spiegel.de/ausland/bp-feiert-mit-aserbaidschans-praesident-ilham-alijew-historisches-oel-abkommen](https://www.spiegel.de/ausland/bp-feiert-mit-aserbaidschans-praesident-ilham-alijew-historisches-oel-abkommen-a-f4e13fd2-6419-4ede-8800-dd6a7f70398d#ref=rss)
-### weg
-
-* [https://www.spiegel.de/panorama/muenchen-rettungskraefte-seilen-seniorin-von-wahrzeichen-ab](https://www.spiegel.de/panorama/muenchen-rettungskraefte-seilen-seniorin-von-wahrzeichen-ab-a-662162e1-0841-47fa-8dc0-929041fe7519#ref=rss)
-* [https://www.spiegel.de/kultur/kino/senta-berger-im-interview-als-ich-ankam-herrschte-endzeitstimmung](https://www.spiegel.de/kultur/kino/senta-berger-im-interview-als-ich-ankam-herrschte-endzeitstimmung-a-e1c84e8b-7112-46f7-bc1a-c541d0fe6eb7#ref=rss)
-### pariser
-
-* [https://www.spiegel.de/panorama/justiz/frankreich-pariser-flughafenzoll-charles-de-gaulle-beschlagnahmt-hunderte-affenschaedel](https://www.spiegel.de/panorama/justiz/frankreich-pariser-flughafenzoll-charles-de-gaulle-beschlagnahmt-hunderte-affenschaedel-a-8c73dc03-7810-46b0-8eeb-09e9b2c81b0d#ref=rss)
-### flughafenzoll
-
-* [https://www.spiegel.de/panorama/justiz/frankreich-pariser-flughafenzoll-charles-de-gaulle-beschlagnahmt-hunderte-affenschaedel](https://www.spiegel.de/panorama/justiz/frankreich-pariser-flughafenzoll-charles-de-gaulle-beschlagnahmt-hunderte-affenschaedel-a-8c73dc03-7810-46b0-8eeb-09e9b2c81b0d#ref=rss)
-### stellt
-
-* [https://www.spiegel.de/ausland/ukrainekrieg-will-polen-wirklich-keine-waffen-mehr-nach-kiew-liefern](https://www.spiegel.de/ausland/ukrainekrieg-will-polen-wirklich-keine-waffen-mehr-nach-kiew-liefern-a-57a564e7-66a8-4d9b-a163-6a6a2e032dcd#ref=rss)
-* [https://www.spiegel.de/ausland/armenien-stellt-sich-auf-zehntausende-fluechtlinge-aus-bergkarabach-ein](https://www.spiegel.de/ausland/armenien-stellt-sich-auf-zehntausende-fluechtlinge-aus-bergkarabach-ein-a-badaf28f-1bb6-4f76-a794-b46ea9a29060#ref=rss)
-### weihenstephan
-
-* [https://www.spiegel.de/wirtschaft/service/weihenstephan-und-sachsenmilch-rufen-frischmilch-zurueck](https://www.spiegel.de/wirtschaft/service/weihenstephan-und-sachsenmilch-rufen-frischmilch-zurueck-a-0d81ab6d-30ef-4df9-85e4-82a1ebaf2b2f#ref=rss)
-### sachsenmilch
-
-* [https://www.spiegel.de/wirtschaft/service/weihenstephan-und-sachsenmilch-rufen-frischmilch-zurueck](https://www.spiegel.de/wirtschaft/service/weihenstephan-und-sachsenmilch-rufen-frischmilch-zurueck-a-0d81ab6d-30ef-4df9-85e4-82a1ebaf2b2f#ref=rss)
-### rufen
-
-* [https://www.spiegel.de/wirtschaft/service/weihenstephan-und-sachsenmilch-rufen-frischmilch-zurueck](https://www.spiegel.de/wirtschaft/service/weihenstephan-und-sachsenmilch-rufen-frischmilch-zurueck-a-0d81ab6d-30ef-4df9-85e4-82a1ebaf2b2f#ref=rss)
-### frischmilch
-
-* [https://www.spiegel.de/wirtschaft/service/weihenstephan-und-sachsenmilch-rufen-frischmilch-zurueck](https://www.spiegel.de/wirtschaft/service/weihenstephan-und-sachsenmilch-rufen-frischmilch-zurueck-a-0d81ab6d-30ef-4df9-85e4-82a1ebaf2b2f#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/wirtschaft/service/weihenstephan-und-sachsenmilch-rufen-frischmilch-zurueck](https://www.spiegel.de/wirtschaft/service/weihenstephan-und-sachsenmilch-rufen-frischmilch-zurueck-a-0d81ab6d-30ef-4df9-85e4-82a1ebaf2b2f#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/wirtschaft/service/weihenstephan-und-sachsenmilch-rufen-frischmilch-zurueck](https://www.spiegel.de/wirtschaft/service/weihenstephan-und-sachsenmilch-rufen-frischmilch-zurueck-a-0d81ab6d-30ef-4df9-85e4-82a1ebaf2b2f#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/kleiderordnung-an-schulen-juristin-erklaert-warum-unzulaessige-regeln](https://www.spiegel.de/panorama/bildung/kleiderordnung-an-schulen-juristin-erklaert-warum-unzulaessige-regeln-a-704c7e38-bf1d-4afc-8296-553cd0a87caa#ref=rss)
-### eckpunkte
-
-* [https://www.spiegel.de/panorama/bildungsgerechtigkeit-erste-eckpunkte-fuer-startchancen-programm-stehen](https://www.spiegel.de/panorama/bildungsgerechtigkeit-erste-eckpunkte-fuer-startchancen-programm-stehen-a-12325202-226b-4d8c-a0fd-9f33bc74f14b#ref=rss)
-### stehen
-
-* [https://www.spiegel.de/panorama/bildungsgerechtigkeit-erste-eckpunkte-fuer-startchancen-programm-stehen](https://www.spiegel.de/panorama/bildungsgerechtigkeit-erste-eckpunkte-fuer-startchancen-programm-stehen-a-12325202-226b-4d8c-a0fd-9f33bc74f14b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/migration-wie-cdu-csu-und-fdp-den-druck-auf-die-gruenen-erhoehen](https://www.spiegel.de/politik/deutschland/migration-wie-cdu-csu-und-fdp-den-druck-auf-die-gruenen-erhoehen-a-a3e34008-67aa-4786-83b7-f33b3adb2905#ref=rss)
-### dresden
-
-* [https://www.spiegel.de/wirtschaft/vw-werk-in-dresden-glaeserne-manufaktur-produziert-vorerst-weiter](https://www.spiegel.de/wirtschaft/vw-werk-in-dresden-glaeserne-manufaktur-produziert-vorerst-weiter-a-b97fcab1-a261-44f5-b489-12bd1a4b896a#ref=rss)
-### vorerst
-
-* [https://www.spiegel.de/wirtschaft/vw-werk-in-dresden-glaeserne-manufaktur-produziert-vorerst-weiter](https://www.spiegel.de/wirtschaft/vw-werk-in-dresden-glaeserne-manufaktur-produziert-vorerst-weiter-a-b97fcab1-a261-44f5-b489-12bd1a4b896a#ref=rss)
-* [https://www.spiegel.de/ausland/indien-stoppt-offenbar-visavergabe-an-kanadier](https://www.spiegel.de/ausland/indien-stoppt-offenbar-visavergabe-an-kanadier-a-243ab348-eddb-44bc-9153-f94932d8f544#ref=rss)
-### migration
-
-* [https://www.spiegel.de/politik/deutschland/migration-wie-cdu-csu-und-fdp-den-druck-auf-die-gruenen-erhoehen](https://www.spiegel.de/politik/deutschland/migration-wie-cdu-csu-und-fdp-den-druck-auf-die-gruenen-erhoehen-a-a3e34008-67aa-4786-83b7-f33b3adb2905#ref=rss)
-### fdp
-
-* [https://www.spiegel.de/politik/deutschland/migration-wie-cdu-csu-und-fdp-den-druck-auf-die-gruenen-erhoehen](https://www.spiegel.de/politik/deutschland/migration-wie-cdu-csu-und-fdp-den-druck-auf-die-gruenen-erhoehen-a-a3e34008-67aa-4786-83b7-f33b3adb2905#ref=rss)
-### druck
-
-* [https://www.spiegel.de/politik/deutschland/migration-wie-cdu-csu-und-fdp-den-druck-auf-die-gruenen-erhoehen](https://www.spiegel.de/politik/deutschland/migration-wie-cdu-csu-und-fdp-den-druck-auf-die-gruenen-erhoehen-a-a3e34008-67aa-4786-83b7-f33b3adb2905#ref=rss)
-### grünen
-
-* [https://www.spiegel.de/politik/deutschland/migration-wie-cdu-csu-und-fdp-den-druck-auf-die-gruenen-erhoehen](https://www.spiegel.de/politik/deutschland/migration-wie-cdu-csu-und-fdp-den-druck-auf-die-gruenen-erhoehen-a-a3e34008-67aa-4786-83b7-f33b3adb2905#ref=rss)
-### geben
-
-* [https://www.spiegel.de/politik/deutschland/migration-wie-cdu-csu-und-fdp-den-druck-auf-die-gruenen-erhoehen](https://www.spiegel.de/politik/deutschland/migration-wie-cdu-csu-und-fdp-den-druck-auf-die-gruenen-erhoehen-a-a3e34008-67aa-4786-83b7-f33b3adb2905#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/jerome-boateng-darum-muss-der-fall-erneut-vor-gericht-verhandelt-werden](https://www.spiegel.de/panorama/justiz/jerome-boateng-darum-muss-der-fall-erneut-vor-gericht-verhandelt-werden-a-c1978409-4131-4265-9b42-b214a13fee07#ref=rss)
-### armenien
-
-* [https://www.spiegel.de/ausland/armenien-stellt-sich-auf-zehntausende-fluechtlinge-aus-bergkarabach-ein](https://www.spiegel.de/ausland/armenien-stellt-sich-auf-zehntausende-fluechtlinge-aus-bergkarabach-ein-a-badaf28f-1bb6-4f76-a794-b46ea9a29060#ref=rss)
-### zehntausende
-
-* [https://www.spiegel.de/ausland/armenien-stellt-sich-auf-zehntausende-fluechtlinge-aus-bergkarabach-ein](https://www.spiegel.de/ausland/armenien-stellt-sich-auf-zehntausende-fluechtlinge-aus-bergkarabach-ein-a-badaf28f-1bb6-4f76-a794-b46ea9a29060#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/herzinfarkt-bericht-zahl-der-toedlichen-faelle-sinkt](https://www.spiegel.de/wissenschaft/medizin/herzinfarkt-bericht-zahl-der-toedlichen-faelle-sinkt-a-f848a9a7-5da4-4a4b-8269-20a1cd309cc1#ref=rss)
-### laut
-
-* [https://www.spiegel.de/ausland/armenien-stellt-sich-auf-zehntausende-fluechtlinge-aus-bergkarabach-ein](https://www.spiegel.de/ausland/armenien-stellt-sich-auf-zehntausende-fluechtlinge-aus-bergkarabach-ein-a-badaf28f-1bb6-4f76-a794-b46ea9a29060#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/albstadt-mann-wollte-laut-gutachter-weitere-personen-toeten](https://www.spiegel.de/panorama/justiz/albstadt-mann-wollte-laut-gutachter-weitere-personen-toeten-a-df49a910-c5a0-4a3e-a072-84e751990687#ref=rss)
-### zahlen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ruestungskonzern-diehl-soll-milionen-strafe-fuer-handgranaten-kartell-zahlen](https://www.spiegel.de/wirtschaft/unternehmen/ruestungskonzern-diehl-soll-milionen-strafe-fuer-handgranaten-kartell-zahlen-a-a8f91f1e-80de-4e45-90c0-92df2de07b3c#ref=rss)
-### unter
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ruestungskonzern-diehl-soll-milionen-strafe-fuer-handgranaten-kartell-zahlen](https://www.spiegel.de/wirtschaft/unternehmen/ruestungskonzern-diehl-soll-milionen-strafe-fuer-handgranaten-kartell-zahlen-a-a8f91f1e-80de-4e45-90c0-92df2de07b3c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/jerome-boateng-darum-muss-der-fall-erneut-vor-gericht-verhandelt-werden](https://www.spiegel.de/panorama/justiz/jerome-boateng-darum-muss-der-fall-erneut-vor-gericht-verhandelt-werden-a-c1978409-4131-4265-9b42-b214a13fee07#ref=rss)
-### news
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-bundesrichterin-pauline-newman-kaempfe-in-bergkarabach-chatgpt](https://www.spiegel.de/politik/deutschland/news-des-tages-bundesrichterin-pauline-newman-kaempfe-in-bergkarabach-chatgpt-a-aff720f8-3b32-42c8-a3b5-3cf2e380fa13#ref=rss)
-* [https://www.spiegel.de/kultur/tv/rupert-murdoch-kuendigt-rueckzug-von-der-spitze-seiner-medienunternehmen-an](https://www.spiegel.de/kultur/tv/rupert-murdoch-kuendigt-rueckzug-von-der-spitze-seiner-medienunternehmen-an-a-5c154c39-d348-4b2c-bcb3-3a52d6b95064#ref=rss)
-### pauline
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-bundesrichterin-pauline-newman-kaempfe-in-bergkarabach-chatgpt](https://www.spiegel.de/politik/deutschland/news-des-tages-bundesrichterin-pauline-newman-kaempfe-in-bergkarabach-chatgpt-a-aff720f8-3b32-42c8-a3b5-3cf2e380fa13#ref=rss)
-### newman
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-bundesrichterin-pauline-newman-kaempfe-in-bergkarabach-chatgpt](https://www.spiegel.de/politik/deutschland/news-des-tages-bundesrichterin-pauline-newman-kaempfe-in-bergkarabach-chatgpt-a-aff720f8-3b32-42c8-a3b5-3cf2e380fa13#ref=rss)
-### chatgpt
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-bundesrichterin-pauline-newman-kaempfe-in-bergkarabach-chatgpt](https://www.spiegel.de/politik/deutschland/news-des-tages-bundesrichterin-pauline-newman-kaempfe-in-bergkarabach-chatgpt-a-aff720f8-3b32-42c8-a3b5-3cf2e380fa13#ref=rss)
-### türkei
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-bundesrichterin-pauline-newman-kaempfe-in-bergkarabach-chatgpt](https://www.spiegel.de/politik/deutschland/news-des-tages-bundesrichterin-pauline-newman-kaempfe-in-bergkarabach-chatgpt-a-aff720f8-3b32-42c8-a3b5-3cf2e380fa13#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/tuerkei-zentralbank-erhoeht-leitzins-auf-30-prozent](https://www.spiegel.de/wirtschaft/soziales/tuerkei-zentralbank-erhoeht-leitzins-auf-30-prozent-a-7448fa8a-5709-43d1-9fee-5aea36abfa8c#ref=rss)
-### brandenburg
-
-* [https://www.spiegel.de/panorama/brandenburg-referendarin-moderiert-bei-compact-tv-was-ueber-den-fall-bekannt-ist](https://www.spiegel.de/panorama/brandenburg-referendarin-moderiert-bei-compact-tv-was-ueber-den-fall-bekannt-ist-a-db40f3f7-61f2-4319-96b0-0d08b9ee63e4#ref=rss)
-### geld
-
-* [https://www.spiegel.de/kultur/vice-ist-bankrott-punk-ist-nicht-tot-nur-pleite](https://www.spiegel.de/kultur/vice-ist-bankrott-punk-ist-nicht-tot-nur-pleite-a-95857f22-8057-46f2-8779-38abe0a335bb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/tuerkei-zentralbank-erhoeht-leitzins-auf-30-prozent](https://www.spiegel.de/wirtschaft/soziales/tuerkei-zentralbank-erhoeht-leitzins-auf-30-prozent-a-7448fa8a-5709-43d1-9fee-5aea36abfa8c#ref=rss)
-### einst
-
-* [https://www.spiegel.de/kultur/vice-ist-bankrott-punk-ist-nicht-tot-nur-pleite](https://www.spiegel.de/kultur/vice-ist-bankrott-punk-ist-nicht-tot-nur-pleite-a-95857f22-8057-46f2-8779-38abe0a335bb#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-wladimir-putin-hofft-auf-den-jet-panzer-t-80](https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-wladimir-putin-hofft-auf-den-jet-panzer-t-80-a-700701a7-248c-4f99-868f-4b5e46833a09#ref=rss)
+* [https://www.spiegel.de/ausland/china-und-syrien-vereinbaren-strategische-partnerschaft](https://www.spiegel.de/ausland/china-und-syrien-vereinbaren-strategische-partnerschaft-a-56b7d7b2-57d0-4723-b1be-a9e817f4067b#ref=rss)
+* [https://www.spiegel.de/ausland/asienspiele-china-verweigert-mehreren-inderinnen-die-einreise](https://www.spiegel.de/ausland/asienspiele-china-verweigert-mehreren-inderinnen-die-einreise-a-891d9af7-f4ba-430e-a7c5-46d2116662fe#ref=rss)
 ### indien
 
-* [https://www.spiegel.de/ausland/indien-stoppt-offenbar-visavergabe-an-kanadier](https://www.spiegel.de/ausland/indien-stoppt-offenbar-visavergabe-an-kanadier-a-243ab348-eddb-44bc-9153-f94932d8f544#ref=rss)
-### schulen
+* [https://www.spiegel.de/ausland/asienspiele-china-verweigert-mehreren-inderinnen-die-einreise](https://www.spiegel.de/ausland/asienspiele-china-verweigert-mehreren-inderinnen-die-einreise-a-891d9af7-f4ba-430e-a7c5-46d2116662fe#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundespolizei-greift-55-eingeschleuste-migranten-nahe-grenze-zu-polen-auf](https://www.spiegel.de/politik/deutschland/bundespolizei-greift-55-eingeschleuste-migranten-nahe-grenze-zu-polen-auf-a-47916134-1584-4719-a811-04841cc14abe#ref=rss)
+* [https://www.spiegel.de/ausland/indien-beschliesst-frauenquote-fuers-parlament](https://www.spiegel.de/ausland/indien-beschliesst-frauenquote-fuers-parlament-a-3c4517d9-6f23-4687-ba3f-dd37763f4657#ref=rss)
+### vorwürfe
 
-* [https://www.spiegel.de/panorama/bildung/kleiderordnung-an-schulen-juristin-erklaert-warum-unzulaessige-regeln](https://www.spiegel.de/panorama/bildung/kleiderordnung-an-schulen-juristin-erklaert-warum-unzulaessige-regeln-a-704c7e38-bf1d-4afc-8296-553cd0a87caa#ref=rss)
-### juristin
+* [https://www.spiegel.de/ausland/bergkarabach-aserbaidschan-und-armenien-vereinbaren-offenbar-humanitaeren-korridor](https://www.spiegel.de/ausland/bergkarabach-aserbaidschan-und-armenien-vereinbaren-offenbar-humanitaeren-korridor-a-7d762148-7ae5-4095-916f-92597d25fea4#ref=rss)
+* [https://www.spiegel.de/kultur/musik/lizzo-neue-vorwuerfe-gegen-us-popstar-von-weiterer-ex-mitarbeiterin-verklagt](https://www.spiegel.de/kultur/musik/lizzo-neue-vorwuerfe-gegen-us-popstar-von-weiterer-ex-mitarbeiterin-verklagt-a-1d7d9f00-6a69-4e22-9f6a-d6a81f227b53#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/panorama/bildung/kleiderordnung-an-schulen-juristin-erklaert-warum-unzulaessige-regeln](https://www.spiegel.de/panorama/bildung/kleiderordnung-an-schulen-juristin-erklaert-warum-unzulaessige-regeln-a-704c7e38-bf1d-4afc-8296-553cd0a87caa#ref=rss)
-### erklärt
+* [https://www.spiegel.de/ausland/bergkarabach-aserbaidschan-und-armenien-vereinbaren-offenbar-humanitaeren-korridor](https://www.spiegel.de/ausland/bergkarabach-aserbaidschan-und-armenien-vereinbaren-offenbar-humanitaeren-korridor-a-7d762148-7ae5-4095-916f-92597d25fea4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/migration-in-deutschland-schaffen-wir-das-noch-mal](https://www.spiegel.de/politik/deutschland/migration-in-deutschland-schaffen-wir-das-noch-mal-a-db227fee-f824-4cca-ba46-f218ac071f70#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-militaerhilfe-kostet-deutschland-bislang-5-2-milliarden-euro](https://www.spiegel.de/politik/deutschland/ukraine-krieg-militaerhilfe-kostet-deutschland-bislang-5-2-milliarden-euro-a-a8b57b67-9675-4378-80ad-8c569992d162#ref=rss)
+### etwas
 
-* [https://www.spiegel.de/panorama/bildung/kleiderordnung-an-schulen-juristin-erklaert-warum-unzulaessige-regeln](https://www.spiegel.de/panorama/bildung/kleiderordnung-an-schulen-juristin-erklaert-warum-unzulaessige-regeln-a-704c7e38-bf1d-4afc-8296-553cd0a87caa#ref=rss)
-### regeln
+* [https://www.spiegel.de/politik/deutschland/migration-in-deutschland-schaffen-wir-das-noch-mal](https://www.spiegel.de/politik/deutschland/migration-in-deutschland-schaffen-wir-das-noch-mal-a-db227fee-f824-4cca-ba46-f218ac071f70#ref=rss)
+* [https://www.spiegel.de/sport/fussball/spanien-fussballerinnen-aeussern-sich-zu-streit-damit-so-etwas-nirgendwo-wieder-passiert](https://www.spiegel.de/sport/fussball/spanien-fussballerinnen-aeussern-sich-zu-streit-damit-so-etwas-nirgendwo-wieder-passiert-a-605a5d57-18fe-4df2-8ef7-46fe48da6fce#ref=rss)
+* [https://www.spiegel.de/psychologie/coaching-einsamkeit-ueberwinden-zusammen-ist-man-weniger-allein](https://www.spiegel.de/psychologie/coaching-einsamkeit-ueberwinden-zusammen-ist-man-weniger-allein-a-1fcac2a3-25d6-466f-91fd-4bd45f3e04e5#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/panorama/bildung/kleiderordnung-an-schulen-juristin-erklaert-warum-unzulaessige-regeln](https://www.spiegel.de/panorama/bildung/kleiderordnung-an-schulen-juristin-erklaert-warum-unzulaessige-regeln-a-704c7e38-bf1d-4afc-8296-553cd0a87caa#ref=rss)
-### luft
+* [https://www.spiegel.de/panorama/justiz/schweden-zwei-menschen-in-kneipe-erschossen-wohl-zusammehang-mit-bandenkriminalitaet](https://www.spiegel.de/panorama/justiz/schweden-zwei-menschen-in-kneipe-erschossen-wohl-zusammehang-mit-bandenkriminalitaet-a-9f9b2495-1fc5-4800-ab4e-3a45fc0b9d78#ref=rss)
+* [https://www.spiegel.de/psychologie/coaching-einsamkeit-ueberwinden-zusammen-ist-man-weniger-allein](https://www.spiegel.de/psychologie/coaching-einsamkeit-ueberwinden-zusammen-ist-man-weniger-allein-a-1fcac2a3-25d6-466f-91fd-4bd45f3e04e5#ref=rss)
+### neue
 
-* [https://www.spiegel.de/wissenschaft/natur/feinstaub-fast-alle-menschen-in-europa-atmen-verschmutzte-luft](https://www.spiegel.de/wissenschaft/natur/feinstaub-fast-alle-menschen-in-europa-atmen-verschmutzte-luft-a-bf65aad0-bb11-4dc4-99df-e7aa9441524f#ref=rss)
-### albstadt
+* [https://www.spiegel.de/kultur/musik/lizzo-neue-vorwuerfe-gegen-us-popstar-von-weiterer-ex-mitarbeiterin-verklagt](https://www.spiegel.de/kultur/musik/lizzo-neue-vorwuerfe-gegen-us-popstar-von-weiterer-ex-mitarbeiterin-verklagt-a-1d7d9f00-6a69-4e22-9f6a-d6a81f227b53#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-bundestrainer-alle-trainer-in-der-einzelkritik](https://www.spiegel.de/sport/fussball/dfb-bundestrainer-alle-trainer-in-der-einzelkritik-a-d320df91-7024-4063-aed1-4907db00f588#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wohnungsverbaende-erteilen-wohnungsbaugipfel-eine-absage](https://www.spiegel.de/wirtschaft/wohnungsverbaende-erteilen-wohnungsbaugipfel-eine-absage-a-b9a4cd44-bb69-48a4-b8a3-e10b85637c6d#ref=rss)
+### julian
 
-* [https://www.spiegel.de/panorama/justiz/albstadt-mann-wollte-laut-gutachter-weitere-personen-toeten](https://www.spiegel.de/panorama/justiz/albstadt-mann-wollte-laut-gutachter-weitere-personen-toeten-a-df49a910-c5a0-4a3e-a072-84e751990687#ref=rss)
-### mann
+* [https://www.spiegel.de/sport/fussball/dfb-bundestrainer-alle-trainer-in-der-einzelkritik](https://www.spiegel.de/sport/fussball/dfb-bundestrainer-alle-trainer-in-der-einzelkritik-a-d320df91-7024-4063-aed1-4907db00f588#ref=rss)
+* [https://www.spiegel.de/sport/fussball/julian-nagelsmann-wird-bundestrainer-der-deutschen-nationalmannschaft](https://www.spiegel.de/sport/fussball/julian-nagelsmann-wird-bundestrainer-der-deutschen-nationalmannschaft-a-d4b0a96e-40f0-4b64-a60c-0966fcbd2734#ref=rss)
+### nagelsmann
 
-* [https://www.spiegel.de/panorama/justiz/albstadt-mann-wollte-laut-gutachter-weitere-personen-toeten](https://www.spiegel.de/panorama/justiz/albstadt-mann-wollte-laut-gutachter-weitere-personen-toeten-a-df49a910-c5a0-4a3e-a072-84e751990687#ref=rss)
-### gericht
+* [https://www.spiegel.de/sport/fussball/dfb-bundestrainer-alle-trainer-in-der-einzelkritik](https://www.spiegel.de/sport/fussball/dfb-bundestrainer-alle-trainer-in-der-einzelkritik-a-d320df91-7024-4063-aed1-4907db00f588#ref=rss)
+* [https://www.spiegel.de/sport/fussball/julian-nagelsmann-wird-bundestrainer-der-deutschen-nationalmannschaft](https://www.spiegel.de/sport/fussball/julian-nagelsmann-wird-bundestrainer-der-deutschen-nationalmannschaft-a-d4b0a96e-40f0-4b64-a60c-0966fcbd2734#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/panorama/justiz/albstadt-mann-wollte-laut-gutachter-weitere-personen-toeten](https://www.spiegel.de/panorama/justiz/albstadt-mann-wollte-laut-gutachter-weitere-personen-toeten-a-df49a910-c5a0-4a3e-a072-84e751990687#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/jerome-boateng-darum-muss-der-fall-erneut-vor-gericht-verhandelt-werden](https://www.spiegel.de/panorama/justiz/jerome-boateng-darum-muss-der-fall-erneut-vor-gericht-verhandelt-werden-a-c1978409-4131-4265-9b42-b214a13fee07#ref=rss)
-### t80
+* [https://www.spiegel.de/ausland/china-und-syrien-vereinbaren-strategische-partnerschaft](https://www.spiegel.de/ausland/china-und-syrien-vereinbaren-strategische-partnerschaft-a-56b7d7b2-57d0-4723-b1be-a9e817f4067b#ref=rss)
+* [https://www.spiegel.de/panorama/leute/george-clooney-will-luxusvilla-am-comer-see-verkaufen](https://www.spiegel.de/panorama/leute/george-clooney-will-luxusvilla-am-comer-see-verkaufen-a-5abaf3b4-a317-476f-976c-016147f8416c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/nashoerner-in-afrika-zahl-der-wilden-tiere-steigt-trotz-wilderei](https://www.spiegel.de/wissenschaft/natur/nashoerner-in-afrika-zahl-der-wilden-tiere-steigt-trotz-wilderei-a-d5ccd550-2a39-4b97-8bea-521acb3fc066#ref=rss)
+### updates
 
-* [https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-wladimir-putin-hofft-auf-den-jet-panzer-t-80](https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-wladimir-putin-hofft-auf-den-jet-panzer-t-80-a-700701a7-248c-4f99-868f-4b5e46833a09#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/apple-veroeffentlicht-updates-fuer-updates](https://www.spiegel.de/netzwelt/gadgets/apple-veroeffentlicht-updates-fuer-updates-a-77c0972b-3569-4b39-b20b-53ff8c94b0e0#ref=rss)
+### einsamkeit
+
+* [https://www.spiegel.de/psychologie/einsamkeit-ueberwinden-souveraen-kontakte-knuepfen](https://www.spiegel.de/psychologie/einsamkeit-ueberwinden-souveraen-kontakte-knuepfen-a-0ff27c8d-22dc-4cd1-aec0-0883f0685826#ref=rss)
+* [https://www.spiegel.de/psychologie/coaching-einsamkeit-ueberwinden-zusammen-ist-man-weniger-allein](https://www.spiegel.de/psychologie/coaching-einsamkeit-ueberwinden-zusammen-ist-man-weniger-allein-a-1fcac2a3-25d6-466f-91fd-4bd45f3e04e5#ref=rss)
+### überwinden
+
+* [https://www.spiegel.de/psychologie/einsamkeit-ueberwinden-souveraen-kontakte-knuepfen](https://www.spiegel.de/psychologie/einsamkeit-ueberwinden-souveraen-kontakte-knuepfen-a-0ff27c8d-22dc-4cd1-aec0-0883f0685826#ref=rss)
+* [https://www.spiegel.de/psychologie/coaching-einsamkeit-ueberwinden-zusammen-ist-man-weniger-allein](https://www.spiegel.de/psychologie/coaching-einsamkeit-ueberwinden-zusammen-ist-man-weniger-allein-a-1fcac2a3-25d6-466f-91fd-4bd45f3e04e5#ref=rss)
+### bergkarabach
+
+* [https://www.spiegel.de/ausland/bergkarabach-aserbaidschan-und-armenien-vereinbaren-offenbar-humanitaeren-korridor](https://www.spiegel.de/ausland/bergkarabach-aserbaidschan-und-armenien-vereinbaren-offenbar-humanitaeren-korridor-a-7d762148-7ae5-4095-916f-92597d25fea4#ref=rss)
+### aserbaidschan
+
+* [https://www.spiegel.de/ausland/bergkarabach-aserbaidschan-und-armenien-vereinbaren-offenbar-humanitaeren-korridor](https://www.spiegel.de/ausland/bergkarabach-aserbaidschan-und-armenien-vereinbaren-offenbar-humanitaeren-korridor-a-7d762148-7ae5-4095-916f-92597d25fea4#ref=rss)
+### vereinbaren
+
+* [https://www.spiegel.de/ausland/bergkarabach-aserbaidschan-und-armenien-vereinbaren-offenbar-humanitaeren-korridor](https://www.spiegel.de/ausland/bergkarabach-aserbaidschan-und-armenien-vereinbaren-offenbar-humanitaeren-korridor-a-7d762148-7ae5-4095-916f-92597d25fea4#ref=rss)
+* [https://www.spiegel.de/ausland/china-und-syrien-vereinbaren-strategische-partnerschaft](https://www.spiegel.de/ausland/china-und-syrien-vereinbaren-strategische-partnerschaft-a-56b7d7b2-57d0-4723-b1be-a9e817f4067b#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/ausland/bergkarabach-aserbaidschan-und-armenien-vereinbaren-offenbar-humanitaeren-korridor](https://www.spiegel.de/ausland/bergkarabach-aserbaidschan-und-armenien-vereinbaren-offenbar-humanitaeren-korridor-a-7d762148-7ae5-4095-916f-92597d25fea4#ref=rss)
+* [https://www.spiegel.de/panorama/leute/george-clooney-will-luxusvilla-am-comer-see-verkaufen](https://www.spiegel.de/panorama/leute/george-clooney-will-luxusvilla-am-comer-see-verkaufen-a-5abaf3b4-a317-476f-976c-016147f8416c#ref=rss)
+### region
+
+* [https://www.spiegel.de/ausland/bergkarabach-aserbaidschan-und-armenien-vereinbaren-offenbar-humanitaeren-korridor](https://www.spiegel.de/ausland/bergkarabach-aserbaidschan-und-armenien-vereinbaren-offenbar-humanitaeren-korridor-a-7d762148-7ae5-4095-916f-92597d25fea4#ref=rss)
+* [https://www.spiegel.de/ausland/asienspiele-china-verweigert-mehreren-inderinnen-die-einreise](https://www.spiegel.de/ausland/asienspiele-china-verweigert-mehreren-inderinnen-die-einreise-a-891d9af7-f4ba-430e-a7c5-46d2116662fe#ref=rss)
+### erhebt
+
+* [https://www.spiegel.de/ausland/bergkarabach-aserbaidschan-und-armenien-vereinbaren-offenbar-humanitaeren-korridor](https://www.spiegel.de/ausland/bergkarabach-aserbaidschan-und-armenien-vereinbaren-offenbar-humanitaeren-korridor-a-7d762148-7ae5-4095-916f-92597d25fea4#ref=rss)
+* [https://www.spiegel.de/kultur/musik/lizzo-neue-vorwuerfe-gegen-us-popstar-von-weiterer-ex-mitarbeiterin-verklagt](https://www.spiegel.de/kultur/musik/lizzo-neue-vorwuerfe-gegen-us-popstar-von-weiterer-ex-mitarbeiterin-verklagt-a-1d7d9f00-6a69-4e22-9f6a-d6a81f227b53#ref=rss)
+### markus
+
+* [https://www.spiegel.de/politik/deutschland/so-gesehen-markus-soeder-verlangt-mehr](https://www.spiegel.de/politik/deutschland/so-gesehen-markus-soeder-verlangt-mehr-a-da1bf57a-c9eb-4c91-a1f0-7a14c5764de3#ref=rss)
+### söder
+
+* [https://www.spiegel.de/politik/deutschland/so-gesehen-markus-soeder-verlangt-mehr](https://www.spiegel.de/politik/deutschland/so-gesehen-markus-soeder-verlangt-mehr-a-da1bf57a-c9eb-4c91-a1f0-7a14c5764de3#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/politik/deutschland/so-gesehen-markus-soeder-verlangt-mehr](https://www.spiegel.de/politik/deutschland/so-gesehen-markus-soeder-verlangt-mehr-a-da1bf57a-c9eb-4c91-a1f0-7a14c5764de3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-militaerhilfe-kostet-deutschland-bislang-5-2-milliarden-euro](https://www.spiegel.de/politik/deutschland/ukraine-krieg-militaerhilfe-kostet-deutschland-bislang-5-2-milliarden-euro-a-a8b57b67-9675-4378-80ad-8c569992d162#ref=rss)
+### kommenden
+
+* [https://www.spiegel.de/politik/deutschland/so-gesehen-markus-soeder-verlangt-mehr](https://www.spiegel.de/politik/deutschland/so-gesehen-markus-soeder-verlangt-mehr-a-da1bf57a-c9eb-4c91-a1f0-7a14c5764de3#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/copilot-microsoft-ruestet-windows-11-mit-ki-nach](https://www.spiegel.de/netzwelt/apps/copilot-microsoft-ruestet-windows-11-mit-ki-nach-a-eea836ba-7045-49d7-854b-4c47c9db6032#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/politik/deutschland/industriestrompreis-von-robert-habeck-billigtarif-fuer-stromfresser-ist-ein-schlechter-witz](https://www.spiegel.de/politik/deutschland/industriestrompreis-von-robert-habeck-billigtarif-fuer-stromfresser-ist-ein-schlechter-witz-a-fbf42f33-2c8d-46f9-bc67-4168991d9e0e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/schweden-zwei-menschen-in-kneipe-erschossen-wohl-zusammehang-mit-bandenkriminalitaet](https://www.spiegel.de/panorama/justiz/schweden-zwei-menschen-in-kneipe-erschossen-wohl-zusammehang-mit-bandenkriminalitaet-a-9f9b2495-1fc5-4800-ab4e-3a45fc0b9d78#ref=rss)
+### taylor
+
+* [https://www.spiegel.de/kultur/musik/taylor-swift-australische-universitaet-laedt-zum-swiftposium](https://www.spiegel.de/kultur/musik/taylor-swift-australische-universitaet-laedt-zum-swiftposium-a-2b0dbd9f-8d09-463d-991b-222c3651bc42#ref=rss)
+### migration
+
+* [https://www.spiegel.de/politik/deutschland/migration-in-deutschland-schaffen-wir-das-noch-mal](https://www.spiegel.de/politik/deutschland/migration-in-deutschland-schaffen-wir-das-noch-mal-a-db227fee-f824-4cca-ba46-f218ac071f70#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/migration-union-draengt-im-bundestag-auf-schaerfere-abschieberegeln](https://www.spiegel.de/politik/deutschland/migration-union-draengt-im-bundestag-auf-schaerfere-abschieberegeln-a-a9ed5129-fde6-422d-a32a-3171a24aa3e6#ref=rss)
+### wir
+
+* [https://www.spiegel.de/politik/deutschland/migration-in-deutschland-schaffen-wir-das-noch-mal](https://www.spiegel.de/politik/deutschland/migration-in-deutschland-schaffen-wir-das-noch-mal-a-db227fee-f824-4cca-ba46-f218ac071f70#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-marathon-letzte-generation-kuendigt-stoerung-an](https://www.spiegel.de/panorama/berlin-marathon-letzte-generation-kuendigt-stoerung-an-a-77e54219-f1eb-4b71-a76f-c45ac0b4395c#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/politik/deutschland/migration-in-deutschland-schaffen-wir-das-noch-mal](https://www.spiegel.de/politik/deutschland/migration-in-deutschland-schaffen-wir-das-noch-mal-a-db227fee-f824-4cca-ba46-f218ac071f70#ref=rss)
+* [https://www.spiegel.de/sport/fussball/julian-nagelsmann-wird-bundestrainer-der-deutschen-nationalmannschaft](https://www.spiegel.de/sport/fussball/julian-nagelsmann-wird-bundestrainer-der-deutschen-nationalmannschaft-a-d4b0a96e-40f0-4b64-a60c-0966fcbd2734#ref=rss)
+### schweden
+
+* [https://www.spiegel.de/panorama/justiz/schweden-zwei-menschen-in-kneipe-erschossen-wohl-zusammehang-mit-bandenkriminalitaet](https://www.spiegel.de/panorama/justiz/schweden-zwei-menschen-in-kneipe-erschossen-wohl-zusammehang-mit-bandenkriminalitaet-a-9f9b2495-1fc5-4800-ab4e-3a45fc0b9d78#ref=rss)
+### mehrere
+
+* [https://www.spiegel.de/panorama/justiz/schweden-zwei-menschen-in-kneipe-erschossen-wohl-zusammehang-mit-bandenkriminalitaet](https://www.spiegel.de/panorama/justiz/schweden-zwei-menschen-in-kneipe-erschossen-wohl-zusammehang-mit-bandenkriminalitaet-a-9f9b2495-1fc5-4800-ab4e-3a45fc0b9d78#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundespolizei-greift-55-eingeschleuste-migranten-nahe-grenze-zu-polen-auf](https://www.spiegel.de/politik/deutschland/bundespolizei-greift-55-eingeschleuste-migranten-nahe-grenze-zu-polen-auf-a-47916134-1584-4719-a811-04841cc14abe#ref=rss)
+### lizzo
+
+* [https://www.spiegel.de/kultur/musik/lizzo-neue-vorwuerfe-gegen-us-popstar-von-weiterer-ex-mitarbeiterin-verklagt](https://www.spiegel.de/kultur/musik/lizzo-neue-vorwuerfe-gegen-us-popstar-von-weiterer-ex-mitarbeiterin-verklagt-a-1d7d9f00-6a69-4e22-9f6a-d6a81f227b53#ref=rss)
+### selenskyj
+
+* [https://www.spiegel.de/ausland/selenskyj-bei-biden-weitere-us-militaerhilfe-aber-keine-atacms-raketen](https://www.spiegel.de/ausland/selenskyj-bei-biden-weitere-us-militaerhilfe-aber-keine-atacms-raketen-a-4d42ddc4-e08e-4561-b7d8-87cb624f55dd#ref=rss)
+### biden
+
+* [https://www.spiegel.de/ausland/selenskyj-bei-biden-weitere-us-militaerhilfe-aber-keine-atacms-raketen](https://www.spiegel.de/ausland/selenskyj-bei-biden-weitere-us-militaerhilfe-aber-keine-atacms-raketen-a-4d42ddc4-e08e-4561-b7d8-87cb624f55dd#ref=rss)
+### atacmsraketen
+
+* [https://www.spiegel.de/ausland/selenskyj-bei-biden-weitere-us-militaerhilfe-aber-keine-atacms-raketen](https://www.spiegel.de/ausland/selenskyj-bei-biden-weitere-us-militaerhilfe-aber-keine-atacms-raketen-a-4d42ddc4-e08e-4561-b7d8-87cb624f55dd#ref=rss)
+### militärhilfe
+
+* [https://www.spiegel.de/ausland/selenskyj-bei-biden-weitere-us-militaerhilfe-aber-keine-atacms-raketen](https://www.spiegel.de/ausland/selenskyj-bei-biden-weitere-us-militaerhilfe-aber-keine-atacms-raketen-a-4d42ddc4-e08e-4561-b7d8-87cb624f55dd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-militaerhilfe-kostet-deutschland-bislang-5-2-milliarden-euro](https://www.spiegel.de/politik/deutschland/ukraine-krieg-militaerhilfe-kostet-deutschland-bislang-5-2-milliarden-euro-a-a8b57b67-9675-4378-80ad-8c569992d162#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/selenskyj-bei-biden-weitere-us-militaerhilfe-aber-keine-atacms-raketen](https://www.spiegel.de/ausland/selenskyj-bei-biden-weitere-us-militaerhilfe-aber-keine-atacms-raketen-a-4d42ddc4-e08e-4561-b7d8-87cb624f55dd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-militaerhilfe-kostet-deutschland-bislang-5-2-milliarden-euro](https://www.spiegel.de/politik/deutschland/ukraine-krieg-militaerhilfe-kostet-deutschland-bislang-5-2-milliarden-euro-a-a8b57b67-9675-4378-80ad-8c569992d162#ref=rss)
+### milliarden
+
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-militaerhilfe-kostet-deutschland-bislang-5-2-milliarden-euro](https://www.spiegel.de/politik/deutschland/ukraine-krieg-militaerhilfe-kostet-deutschland-bislang-5-2-milliarden-euro-a-a8b57b67-9675-4378-80ad-8c569992d162#ref=rss)
+### euro
+
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-militaerhilfe-kostet-deutschland-bislang-5-2-milliarden-euro](https://www.spiegel.de/politik/deutschland/ukraine-krieg-militaerhilfe-kostet-deutschland-bislang-5-2-milliarden-euro-a-a8b57b67-9675-4378-80ad-8c569992d162#ref=rss)
+### 17
+
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-militaerhilfe-kostet-deutschland-bislang-5-2-milliarden-euro](https://www.spiegel.de/politik/deutschland/ukraine-krieg-militaerhilfe-kostet-deutschland-bislang-5-2-milliarden-euro-a-a8b57b67-9675-4378-80ad-8c569992d162#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/apple-veroeffentlicht-updates-fuer-updates](https://www.spiegel.de/netzwelt/gadgets/apple-veroeffentlicht-updates-fuer-updates-a-77c0972b-3569-4b39-b20b-53ff8c94b0e0#ref=rss)
+### hört
+
+* [https://www.spiegel.de/kultur/tv/hoert-uns-zu-ard-reportage-mit-jessy-wellmer-ueber-ostdeutschland](https://www.spiegel.de/kultur/tv/hoert-uns-zu-ard-reportage-mit-jessy-wellmer-ueber-ostdeutschland-a-82c8963b-5802-4991-9950-ac82ef010c54#ref=rss)
+### uns
+
+* [https://www.spiegel.de/kultur/tv/hoert-uns-zu-ard-reportage-mit-jessy-wellmer-ueber-ostdeutschland](https://www.spiegel.de/kultur/tv/hoert-uns-zu-ard-reportage-mit-jessy-wellmer-ueber-ostdeutschland-a-82c8963b-5802-4991-9950-ac82ef010c54#ref=rss)
+### ardreportage
+
+* [https://www.spiegel.de/kultur/tv/hoert-uns-zu-ard-reportage-mit-jessy-wellmer-ueber-ostdeutschland](https://www.spiegel.de/kultur/tv/hoert-uns-zu-ard-reportage-mit-jessy-wellmer-ueber-ostdeutschland-a-82c8963b-5802-4991-9950-ac82ef010c54#ref=rss)
+### jessy
+
+* [https://www.spiegel.de/kultur/tv/hoert-uns-zu-ard-reportage-mit-jessy-wellmer-ueber-ostdeutschland](https://www.spiegel.de/kultur/tv/hoert-uns-zu-ard-reportage-mit-jessy-wellmer-ueber-ostdeutschland-a-82c8963b-5802-4991-9950-ac82ef010c54#ref=rss)
+### wellmer
+
+* [https://www.spiegel.de/kultur/tv/hoert-uns-zu-ard-reportage-mit-jessy-wellmer-ueber-ostdeutschland](https://www.spiegel.de/kultur/tv/hoert-uns-zu-ard-reportage-mit-jessy-wellmer-ueber-ostdeutschland-a-82c8963b-5802-4991-9950-ac82ef010c54#ref=rss)
+### fühlen
+
+* [https://www.spiegel.de/kultur/tv/hoert-uns-zu-ard-reportage-mit-jessy-wellmer-ueber-ostdeutschland](https://www.spiegel.de/kultur/tv/hoert-uns-zu-ard-reportage-mit-jessy-wellmer-ueber-ostdeutschland-a-82c8963b-5802-4991-9950-ac82ef010c54#ref=rss)
+* [https://www.spiegel.de/psychologie/coaching-einsamkeit-ueberwinden-zusammen-ist-man-weniger-allein](https://www.spiegel.de/psychologie/coaching-einsamkeit-ueberwinden-zusammen-ist-man-weniger-allein-a-1fcac2a3-25d6-466f-91fd-4bd45f3e04e5#ref=rss)
+### trainer
+
+* [https://www.spiegel.de/sport/fussball/dfb-bundestrainer-alle-trainer-in-der-einzelkritik](https://www.spiegel.de/sport/fussball/dfb-bundestrainer-alle-trainer-in-der-einzelkritik-a-d320df91-7024-4063-aed1-4907db00f588#ref=rss)
+* [https://www.spiegel.de/sport/fussball/julian-nagelsmann-wird-bundestrainer-der-deutschen-nationalmannschaft](https://www.spiegel.de/sport/fussball/julian-nagelsmann-wird-bundestrainer-der-deutschen-nationalmannschaft-a-d4b0a96e-40f0-4b64-a60c-0966fcbd2734#ref=rss)
+### einzelkritik
+
+* [https://www.spiegel.de/sport/fussball/dfb-bundestrainer-alle-trainer-in-der-einzelkritik](https://www.spiegel.de/sport/fussball/dfb-bundestrainer-alle-trainer-in-der-einzelkritik-a-d320df91-7024-4063-aed1-4907db00f588#ref=rss)
+### bundestrainer
+
+* [https://www.spiegel.de/sport/fussball/dfb-bundestrainer-alle-trainer-in-der-einzelkritik](https://www.spiegel.de/sport/fussball/dfb-bundestrainer-alle-trainer-in-der-einzelkritik-a-d320df91-7024-4063-aed1-4907db00f588#ref=rss)
+* [https://www.spiegel.de/sport/fussball/julian-nagelsmann-wird-bundestrainer-der-deutschen-nationalmannschaft](https://www.spiegel.de/sport/fussball/julian-nagelsmann-wird-bundestrainer-der-deutschen-nationalmannschaft-a-d4b0a96e-40f0-4b64-a60c-0966fcbd2734#ref=rss)
+### union
+
+* [https://www.spiegel.de/politik/deutschland/migration-union-draengt-im-bundestag-auf-schaerfere-abschieberegeln](https://www.spiegel.de/politik/deutschland/migration-union-draengt-im-bundestag-auf-schaerfere-abschieberegeln-a-a9ed5129-fde6-422d-a32a-3171a24aa3e6#ref=rss)
+### bundestag
+
+* [https://www.spiegel.de/politik/deutschland/migration-union-draengt-im-bundestag-auf-schaerfere-abschieberegeln](https://www.spiegel.de/politik/deutschland/migration-union-draengt-im-bundestag-auf-schaerfere-abschieberegeln-a-a9ed5129-fde6-422d-a32a-3171a24aa3e6#ref=rss)
+### äußern
+
+* [https://www.spiegel.de/sport/fussball/spanien-fussballerinnen-aeussern-sich-zu-streit-damit-so-etwas-nirgendwo-wieder-passiert](https://www.spiegel.de/sport/fussball/spanien-fussballerinnen-aeussern-sich-zu-streit-damit-so-etwas-nirgendwo-wieder-passiert-a-605a5d57-18fe-4df2-8ef7-46fe48da6fce#ref=rss)
+### erstmals
+
+* [https://www.spiegel.de/sport/fussball/spanien-fussballerinnen-aeussern-sich-zu-streit-damit-so-etwas-nirgendwo-wieder-passiert](https://www.spiegel.de/sport/fussball/spanien-fussballerinnen-aeussern-sich-zu-streit-damit-so-etwas-nirgendwo-wieder-passiert-a-605a5d57-18fe-4df2-8ef7-46fe48da6fce#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/nashoerner-in-afrika-zahl-der-wilden-tiere-steigt-trotz-wilderei](https://www.spiegel.de/wissenschaft/natur/nashoerner-in-afrika-zahl-der-wilden-tiere-steigt-trotz-wilderei-a-d5ccd550-2a39-4b97-8bea-521acb3fc066#ref=rss)
+### jahrzehnten
+
+* [https://www.spiegel.de/sport/fussball/spanien-fussballerinnen-aeussern-sich-zu-streit-damit-so-etwas-nirgendwo-wieder-passiert](https://www.spiegel.de/sport/fussball/spanien-fussballerinnen-aeussern-sich-zu-streit-damit-so-etwas-nirgendwo-wieder-passiert-a-605a5d57-18fe-4df2-8ef7-46fe48da6fce#ref=rss)
+* [https://www.spiegel.de/ausland/asienspiele-china-verweigert-mehreren-inderinnen-die-einreise](https://www.spiegel.de/ausland/asienspiele-china-verweigert-mehreren-inderinnen-die-einreise-a-891d9af7-f4ba-430e-a7c5-46d2116662fe#ref=rss)
+### bochum
+
+* [https://www.spiegel.de/panorama/justiz/recklinghausen-arzt-fuer-falsche-corona-impfbescheinigungen-in-bochum-zu-freiheitsstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/recklinghausen-arzt-fuer-falsche-corona-impfbescheinigungen-in-bochum-zu-freiheitsstrafe-verurteilt-a-09139661-9bf4-48a4-b802-697ed3368678#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/panorama/justiz/recklinghausen-arzt-fuer-falsche-corona-impfbescheinigungen-in-bochum-zu-freiheitsstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/recklinghausen-arzt-fuer-falsche-corona-impfbescheinigungen-in-bochum-zu-freiheitsstrafe-verurteilt-a-09139661-9bf4-48a4-b802-697ed3368678#ref=rss)
+### berlinmarathon
+
+* [https://www.spiegel.de/panorama/berlin-marathon-letzte-generation-kuendigt-stoerung-an](https://www.spiegel.de/panorama/berlin-marathon-letzte-generation-kuendigt-stoerung-an-a-77e54219-f1eb-4b71-a76f-c45ac0b4395c#ref=rss)
+### letzte
+
+* [https://www.spiegel.de/panorama/berlin-marathon-letzte-generation-kuendigt-stoerung-an](https://www.spiegel.de/panorama/berlin-marathon-letzte-generation-kuendigt-stoerung-an-a-77e54219-f1eb-4b71-a76f-c45ac0b4395c#ref=rss)
+### generation
+
+* [https://www.spiegel.de/panorama/berlin-marathon-letzte-generation-kuendigt-stoerung-an](https://www.spiegel.de/panorama/berlin-marathon-letzte-generation-kuendigt-stoerung-an-a-77e54219-f1eb-4b71-a76f-c45ac0b4395c#ref=rss)
+### eigenen
+
+* [https://www.spiegel.de/panorama/berlin-marathon-letzte-generation-kuendigt-stoerung-an](https://www.spiegel.de/panorama/berlin-marathon-letzte-generation-kuendigt-stoerung-an-a-77e54219-f1eb-4b71-a76f-c45ac0b4395c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/julian-nagelsmann-wird-bundestrainer-der-deutschen-nationalmannschaft](https://www.spiegel.de/sport/fussball/julian-nagelsmann-wird-bundestrainer-der-deutschen-nationalmannschaft-a-d4b0a96e-40f0-4b64-a60c-0966fcbd2734#ref=rss)
+### nationalmannschaft
+
+* [https://www.spiegel.de/sport/fussball/julian-nagelsmann-wird-bundestrainer-der-deutschen-nationalmannschaft](https://www.spiegel.de/sport/fussball/julian-nagelsmann-wird-bundestrainer-der-deutschen-nationalmannschaft-a-d4b0a96e-40f0-4b64-a60c-0966fcbd2734#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/sport/fussball/julian-nagelsmann-wird-bundestrainer-der-deutschen-nationalmannschaft](https://www.spiegel.de/sport/fussball/julian-nagelsmann-wird-bundestrainer-der-deutschen-nationalmannschaft-a-d4b0a96e-40f0-4b64-a60c-0966fcbd2734#ref=rss)
+* [https://www.spiegel.de/kultur/rezepte-auf-tiktok-instagram-und-co-das-beste-kochbuch-der-welt](https://www.spiegel.de/kultur/rezepte-auf-tiktok-instagram-und-co-das-beste-kochbuch-der-welt-a-db660951-e64b-4e55-9f00-59ab53a2f0f1#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/sport/fussball/julian-nagelsmann-wird-bundestrainer-der-deutschen-nationalmannschaft](https://www.spiegel.de/sport/fussball/julian-nagelsmann-wird-bundestrainer-der-deutschen-nationalmannschaft-a-d4b0a96e-40f0-4b64-a60c-0966fcbd2734#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/copilot-microsoft-ruestet-windows-11-mit-ki-nach](https://www.spiegel.de/netzwelt/apps/copilot-microsoft-ruestet-windows-11-mit-ki-nach-a-eea836ba-7045-49d7-854b-4c47c9db6032#ref=rss)
+### microsoft
+
+* [https://www.spiegel.de/netzwelt/apps/copilot-microsoft-ruestet-windows-11-mit-ki-nach](https://www.spiegel.de/netzwelt/apps/copilot-microsoft-ruestet-windows-11-mit-ki-nach-a-eea836ba-7045-49d7-854b-4c47c9db6032#ref=rss)
+### drei
+
+* [https://www.spiegel.de/netzwelt/gadgets/apple-veroeffentlicht-updates-fuer-updates](https://www.spiegel.de/netzwelt/gadgets/apple-veroeffentlicht-updates-fuer-updates-a-77c0972b-3569-4b39-b20b-53ff8c94b0e0#ref=rss)
+* [https://www.spiegel.de/ausland/asienspiele-china-verweigert-mehreren-inderinnen-die-einreise](https://www.spiegel.de/ausland/asienspiele-china-verweigert-mehreren-inderinnen-die-einreise-a-891d9af7-f4ba-430e-a7c5-46d2116662fe#ref=rss)
+### asienspiele
+
+* [https://www.spiegel.de/ausland/asienspiele-china-verweigert-mehreren-inderinnen-die-einreise](https://www.spiegel.de/ausland/asienspiele-china-verweigert-mehreren-inderinnen-die-einreise-a-891d9af7-f4ba-430e-a7c5-46d2116662fe#ref=rss)
+### kontakte
+
+* [https://www.spiegel.de/psychologie/einsamkeit-ueberwinden-souveraen-kontakte-knuepfen](https://www.spiegel.de/psychologie/einsamkeit-ueberwinden-souveraen-kontakte-knuepfen-a-0ff27c8d-22dc-4cd1-aec0-0883f0685826#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/politisches-engagement-von-lehrkraeften-was-lehrer-duerfen-und-was-nicht](https://www.spiegel.de/panorama/bildung/politisches-engagement-von-lehrkraeften-was-lehrer-duerfen-und-was-nicht-a-665e9052-1f9f-4ca6-a244-39fe5b8006ad#ref=rss)
+### migranten
+
+* [https://www.spiegel.de/politik/deutschland/bundespolizei-greift-55-eingeschleuste-migranten-nahe-grenze-zu-polen-auf](https://www.spiegel.de/politik/deutschland/bundespolizei-greift-55-eingeschleuste-migranten-nahe-grenze-zu-polen-auf-a-47916134-1584-4719-a811-04841cc14abe#ref=rss)
+### grenze
+
+* [https://www.spiegel.de/politik/deutschland/bundespolizei-greift-55-eingeschleuste-migranten-nahe-grenze-zu-polen-auf](https://www.spiegel.de/politik/deutschland/bundespolizei-greift-55-eingeschleuste-migranten-nahe-grenze-zu-polen-auf-a-47916134-1584-4719-a811-04841cc14abe#ref=rss)
+### polen
+
+* [https://www.spiegel.de/politik/deutschland/bundespolizei-greift-55-eingeschleuste-migranten-nahe-grenze-zu-polen-auf](https://www.spiegel.de/politik/deutschland/bundespolizei-greift-55-eingeschleuste-migranten-nahe-grenze-zu-polen-auf-a-47916134-1584-4719-a811-04841cc14abe#ref=rss)
+### tiktok
+
+* [https://www.spiegel.de/kultur/rezepte-auf-tiktok-instagram-und-co-das-beste-kochbuch-der-welt](https://www.spiegel.de/kultur/rezepte-auf-tiktok-instagram-und-co-das-beste-kochbuch-der-welt-a-db660951-e64b-4e55-9f00-59ab53a2f0f1#ref=rss)
+### instagram
+
+* [https://www.spiegel.de/kultur/rezepte-auf-tiktok-instagram-und-co-das-beste-kochbuch-der-welt](https://www.spiegel.de/kultur/rezepte-auf-tiktok-instagram-und-co-das-beste-kochbuch-der-welt-a-db660951-e64b-4e55-9f00-59ab53a2f0f1#ref=rss)
+### kochbuch
+
+* [https://www.spiegel.de/kultur/rezepte-auf-tiktok-instagram-und-co-das-beste-kochbuch-der-welt](https://www.spiegel.de/kultur/rezepte-auf-tiktok-instagram-und-co-das-beste-kochbuch-der-welt-a-db660951-e64b-4e55-9f00-59ab53a2f0f1#ref=rss)
+### parlament
+
+* [https://www.spiegel.de/ausland/indien-beschliesst-frauenquote-fuers-parlament](https://www.spiegel.de/ausland/indien-beschliesst-frauenquote-fuers-parlament-a-3c4517d9-6f23-4687-ba3f-dd37763f4657#ref=rss)
+### george
+
+* [https://www.spiegel.de/panorama/leute/george-clooney-will-luxusvilla-am-comer-see-verkaufen](https://www.spiegel.de/panorama/leute/george-clooney-will-luxusvilla-am-comer-see-verkaufen-a-5abaf3b4-a317-476f-976c-016147f8416c#ref=rss)
+### clooney
+
+* [https://www.spiegel.de/panorama/leute/george-clooney-will-luxusvilla-am-comer-see-verkaufen](https://www.spiegel.de/panorama/leute/george-clooney-will-luxusvilla-am-comer-see-verkaufen-a-5abaf3b4-a317-476f-976c-016147f8416c#ref=rss)
+### comer
+
+* [https://www.spiegel.de/panorama/leute/george-clooney-will-luxusvilla-am-comer-see-verkaufen](https://www.spiegel.de/panorama/leute/george-clooney-will-luxusvilla-am-comer-see-verkaufen-a-5abaf3b4-a317-476f-976c-016147f8416c#ref=rss)
+### see
+
+* [https://www.spiegel.de/panorama/leute/george-clooney-will-luxusvilla-am-comer-see-verkaufen](https://www.spiegel.de/panorama/leute/george-clooney-will-luxusvilla-am-comer-see-verkaufen-a-5abaf3b4-a317-476f-976c-016147f8416c#ref=rss)
+### nashörner
+
+* [https://www.spiegel.de/wissenschaft/natur/nashoerner-in-afrika-zahl-der-wilden-tiere-steigt-trotz-wilderei](https://www.spiegel.de/wissenschaft/natur/nashoerner-in-afrika-zahl-der-wilden-tiere-steigt-trotz-wilderei-a-d5ccd550-2a39-4b97-8bea-521acb3fc066#ref=rss)
+### afrika
+
+* [https://www.spiegel.de/wissenschaft/natur/nashoerner-in-afrika-zahl-der-wilden-tiere-steigt-trotz-wilderei](https://www.spiegel.de/wissenschaft/natur/nashoerner-in-afrika-zahl-der-wilden-tiere-steigt-trotz-wilderei-a-d5ccd550-2a39-4b97-8bea-521acb3fc066#ref=rss)
 ### zahl
 
-* [https://www.spiegel.de/wissenschaft/medizin/herzinfarkt-bericht-zahl-der-toedlichen-faelle-sinkt](https://www.spiegel.de/wissenschaft/medizin/herzinfarkt-bericht-zahl-der-toedlichen-faelle-sinkt-a-f848a9a7-5da4-4a4b-8269-20a1cd309cc1#ref=rss)
-### steigt
+* [https://www.spiegel.de/wissenschaft/natur/nashoerner-in-afrika-zahl-der-wilden-tiere-steigt-trotz-wilderei](https://www.spiegel.de/wissenschaft/natur/nashoerner-in-afrika-zahl-der-wilden-tiere-steigt-trotz-wilderei-a-d5ccd550-2a39-4b97-8bea-521acb3fc066#ref=rss)
+### politisches
 
-* [https://www.spiegel.de/wissenschaft/medizin/herzinfarkt-bericht-zahl-der-toedlichen-faelle-sinkt](https://www.spiegel.de/wissenschaft/medizin/herzinfarkt-bericht-zahl-der-toedlichen-faelle-sinkt-a-f848a9a7-5da4-4a4b-8269-20a1cd309cc1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/tuerkei-zentralbank-erhoeht-leitzins-auf-30-prozent](https://www.spiegel.de/wirtschaft/soziales/tuerkei-zentralbank-erhoeht-leitzins-auf-30-prozent-a-7448fa8a-5709-43d1-9fee-5aea36abfa8c#ref=rss)
-### jérôme
+* [https://www.spiegel.de/panorama/bildung/politisches-engagement-von-lehrkraeften-was-lehrer-duerfen-und-was-nicht](https://www.spiegel.de/panorama/bildung/politisches-engagement-von-lehrkraeften-was-lehrer-duerfen-und-was-nicht-a-665e9052-1f9f-4ca6-a244-39fe5b8006ad#ref=rss)
+### engagement
 
-* [https://www.spiegel.de/panorama/justiz/jerome-boateng-darum-muss-der-fall-erneut-vor-gericht-verhandelt-werden](https://www.spiegel.de/panorama/justiz/jerome-boateng-darum-muss-der-fall-erneut-vor-gericht-verhandelt-werden-a-c1978409-4131-4265-9b42-b214a13fee07#ref=rss)
-### boateng
-
-* [https://www.spiegel.de/panorama/justiz/jerome-boateng-darum-muss-der-fall-erneut-vor-gericht-verhandelt-werden](https://www.spiegel.de/panorama/justiz/jerome-boateng-darum-muss-der-fall-erneut-vor-gericht-verhandelt-werden-a-c1978409-4131-4265-9b42-b214a13fee07#ref=rss)
-### darum
-
-* [https://www.spiegel.de/panorama/justiz/jerome-boateng-darum-muss-der-fall-erneut-vor-gericht-verhandelt-werden](https://www.spiegel.de/panorama/justiz/jerome-boateng-darum-muss-der-fall-erneut-vor-gericht-verhandelt-werden-a-c1978409-4131-4265-9b42-b214a13fee07#ref=rss)
-* [https://www.spiegel.de/auto/fuehrerschein-streit-ueber-eu-richtlinie-zu-suv-und-fahranfaengern](https://www.spiegel.de/auto/fuehrerschein-streit-ueber-eu-richtlinie-zu-suv-und-fahranfaengern-a-a26aee13-3f57-4388-b3d1-947df18db4ac#ref=rss)
-### bp
-
-* [https://www.spiegel.de/ausland/bp-feiert-mit-aserbaidschans-praesident-ilham-alijew-historisches-oel-abkommen](https://www.spiegel.de/ausland/bp-feiert-mit-aserbaidschans-praesident-ilham-alijew-historisches-oel-abkommen-a-f4e13fd2-6419-4ede-8800-dd6a7f70398d#ref=rss)
-### aserbaidschans
-
-* [https://www.spiegel.de/ausland/bp-feiert-mit-aserbaidschans-praesident-ilham-alijew-historisches-oel-abkommen](https://www.spiegel.de/ausland/bp-feiert-mit-aserbaidschans-praesident-ilham-alijew-historisches-oel-abkommen-a-f4e13fd2-6419-4ede-8800-dd6a7f70398d#ref=rss)
-### alijew
-
-* [https://www.spiegel.de/ausland/bp-feiert-mit-aserbaidschans-praesident-ilham-alijew-historisches-oel-abkommen](https://www.spiegel.de/ausland/bp-feiert-mit-aserbaidschans-praesident-ilham-alijew-historisches-oel-abkommen-a-f4e13fd2-6419-4ede-8800-dd6a7f70398d#ref=rss)
-### rupert
-
-* [https://www.spiegel.de/kultur/tv/rupert-murdoch-kuendigt-rueckzug-von-der-spitze-seiner-medienunternehmen-an](https://www.spiegel.de/kultur/tv/rupert-murdoch-kuendigt-rueckzug-von-der-spitze-seiner-medienunternehmen-an-a-5c154c39-d348-4b2c-bcb3-3a52d6b95064#ref=rss)
-### murdoch
-
-* [https://www.spiegel.de/kultur/tv/rupert-murdoch-kuendigt-rueckzug-von-der-spitze-seiner-medienunternehmen-an](https://www.spiegel.de/kultur/tv/rupert-murdoch-kuendigt-rueckzug-von-der-spitze-seiner-medienunternehmen-an-a-5c154c39-d348-4b2c-bcb3-3a52d6b95064#ref=rss)
-### zentralbank
-
-* [https://www.spiegel.de/wirtschaft/soziales/tuerkei-zentralbank-erhoeht-leitzins-auf-30-prozent](https://www.spiegel.de/wirtschaft/soziales/tuerkei-zentralbank-erhoeht-leitzins-auf-30-prozent-a-7448fa8a-5709-43d1-9fee-5aea36abfa8c#ref=rss)
-### voyager
-
-* [https://www.spiegel.de/kultur/musik/krebsdiagnose-australische-esc-band-voyager-sagt-europatournee-ab](https://www.spiegel.de/kultur/musik/krebsdiagnose-australische-esc-band-voyager-sagt-europatournee-ab-a-16dbd3ea-25aa-424a-8d84-a687a25ad134#ref=rss)
-### meiningen
-
-* [https://www.spiegel.de/panorama/justiz/meiningen-thueringen-missbrauchsvorwuerfe-an-polizeischule](https://www.spiegel.de/panorama/justiz/meiningen-thueringen-missbrauchsvorwuerfe-an-polizeischule-a-efa026dc-327b-4db5-9486-2c6b25180de9#ref=rss)
-### polizeischule
-
-* [https://www.spiegel.de/panorama/justiz/meiningen-thueringen-missbrauchsvorwuerfe-an-polizeischule](https://www.spiegel.de/panorama/justiz/meiningen-thueringen-missbrauchsvorwuerfe-an-polizeischule-a-efa026dc-327b-4db5-9486-2c6b25180de9#ref=rss)
-### senta
-
-* [https://www.spiegel.de/kultur/kino/senta-berger-im-interview-als-ich-ankam-herrschte-endzeitstimmung](https://www.spiegel.de/kultur/kino/senta-berger-im-interview-als-ich-ankam-herrschte-endzeitstimmung-a-e1c84e8b-7112-46f7-bc1a-c541d0fe6eb7#ref=rss)
-### berger
-
-* [https://www.spiegel.de/kultur/kino/senta-berger-im-interview-als-ich-ankam-herrschte-endzeitstimmung](https://www.spiegel.de/kultur/kino/senta-berger-im-interview-als-ich-ankam-herrschte-endzeitstimmung-a-e1c84e8b-7112-46f7-bc1a-c541d0fe6eb7#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/politisches-engagement-von-lehrkraeften-was-lehrer-duerfen-und-was-nicht](https://www.spiegel.de/panorama/bildung/politisches-engagement-von-lehrkraeften-was-lehrer-duerfen-und-was-nicht-a-665e9052-1f9f-4ca6-a244-39fe5b8006ad#ref=rss)
 
