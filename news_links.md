@@ -4,304 +4,295 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
-
-* [https://www.spiegel.de/kultur/anika-decker-gegen-til-schweiger-nur-ein-sieg-kein-triumph](https://www.spiegel.de/kultur/anika-decker-gegen-til-schweiger-nur-ein-sieg-kein-triumph-a-d9a5fe31-cc1a-4693-ae0d-5f1bcbf0e3f0#ref=rss)
-* [https://www.spiegel.de/netzwelt/volkswagen-netzwerkstoerung-legt-produktion-bei-autobauer-in-wolfsburg-lahm](https://www.spiegel.de/netzwelt/volkswagen-netzwerkstoerung-legt-produktion-bei-autobauer-in-wolfsburg-lahm-a-2ed3b7c7-f389-4a2a-95b6-6053458bca6d#ref=rss)
-* [https://www.spiegel.de/ausland/wahlen-in-der-slowakei-kehrt-der-populist-robert-fico-zurueck-nur-radikaler](https://www.spiegel.de/ausland/wahlen-in-der-slowakei-kehrt-der-populist-robert-fico-zurueck-nur-radikaler-a-6b06aaf9-1876-492b-b448-b29ccd00ea45#ref=rss)
-* [https://www.spiegel.de/ausland/bergkarabach-satellitenbilder-zeigen-zehntausende-menschen-auf-der-flucht](https://www.spiegel.de/ausland/bergkarabach-satellitenbilder-zeigen-zehntausende-menschen-auf-der-flucht-a-4c8824a9-64ab-454b-91b5-0a4a378c5104#ref=rss)
-* [https://www.spiegel.de/kultur/tv/anika-decker-drehbuchautorin-von-keinohrhasen-steht-mehr-geld-zu-gerichtsurteil](https://www.spiegel.de/kultur/tv/anika-decker-drehbuchautorin-von-keinohrhasen-steht-mehr-geld-zu-gerichtsurteil-a-ea93f2ea-0504-40f0-a49d-6b79239344e4#ref=rss)
-### anika
-
-* [https://www.spiegel.de/kultur/anika-decker-gegen-til-schweiger-nur-ein-sieg-kein-triumph](https://www.spiegel.de/kultur/anika-decker-gegen-til-schweiger-nur-ein-sieg-kein-triumph-a-d9a5fe31-cc1a-4693-ae0d-5f1bcbf0e3f0#ref=rss)
-* [https://www.spiegel.de/kultur/tv/anika-decker-drehbuchautorin-von-keinohrhasen-steht-mehr-geld-zu-gerichtsurteil](https://www.spiegel.de/kultur/tv/anika-decker-drehbuchautorin-von-keinohrhasen-steht-mehr-geld-zu-gerichtsurteil-a-ea93f2ea-0504-40f0-a49d-6b79239344e4#ref=rss)
-### decker
-
-* [https://www.spiegel.de/kultur/anika-decker-gegen-til-schweiger-nur-ein-sieg-kein-triumph](https://www.spiegel.de/kultur/anika-decker-gegen-til-schweiger-nur-ein-sieg-kein-triumph-a-d9a5fe31-cc1a-4693-ae0d-5f1bcbf0e3f0#ref=rss)
-* [https://www.spiegel.de/kultur/tv/anika-decker-drehbuchautorin-von-keinohrhasen-steht-mehr-geld-zu-gerichtsurteil](https://www.spiegel.de/kultur/tv/anika-decker-drehbuchautorin-von-keinohrhasen-steht-mehr-geld-zu-gerichtsurteil-a-ea93f2ea-0504-40f0-a49d-6b79239344e4#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/bahn-aufseher-nicken-boni-reform-ab](https://www.spiegel.de/wirtschaft/unternehmen/bahn-aufseher-nicken-boni-reform-ab-a-8711048b-e43a-4c7d-9c2f-21a2748094d1#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/insektensterben-alles-ausschliesslich-auf-wetter-und-klima-zu-reduzieren-das-ist-zu-einfach-gedacht](https://www.spiegel.de/wissenschaft/natur/insektensterben-alles-ausschliesslich-auf-wetter-und-klima-zu-reduzieren-das-ist-zu-einfach-gedacht-a-50e3cf58-0e71-4e40-8833-f2a1381bada8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/rottenburg-an-der-laaber-spd-fraktion-in-hubert-aiwangers-heimatstadt-wechselt-zu-freien-waehlern](https://www.spiegel.de/politik/deutschland/rottenburg-an-der-laaber-spd-fraktion-in-hubert-aiwangers-heimatstadt-wechselt-zu-freien-waehlern-a-145e7b76-adb7-4ab3-b650-4ceb2c8e203a#ref=rss)
-### untersucht
-
-* [https://www.spiegel.de/wissenschaft/weltall/cern-auch-antimaterie-faellt-nach-unten-zeigen-experimente](https://www.spiegel.de/wissenschaft/weltall/cern-auch-antimaterie-faellt-nach-unten-zeigen-experimente-a-b306d15e-419b-458f-9736-0574c93efedb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/australien-qatar-airways-untersucht-nach-babyfund-frauen-ohne-zustimmung-im-intimbereich](https://www.spiegel.de/wirtschaft/service/australien-qatar-airways-untersucht-nach-babyfund-frauen-ohne-zustimmung-im-intimbereich-a-ea654317-e539-4fcd-9312-bb97fc7dee8e#ref=rss)
-### gesucht
-
-* [https://www.spiegel.de/politik/deutschland/rottenburg-an-der-laaber-spd-fraktion-in-hubert-aiwangers-heimatstadt-wechselt-zu-freien-waehlern](https://www.spiegel.de/politik/deutschland/rottenburg-an-der-laaber-spd-fraktion-in-hubert-aiwangers-heimatstadt-wechselt-zu-freien-waehlern-a-145e7b76-adb7-4ab3-b650-4ceb2c8e203a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/geldautomatensprenger-gesucht-andere-kriminelle-gefunden-77-festnahmen](https://www.spiegel.de/panorama/justiz/geldautomatensprenger-gesucht-andere-kriminelle-gefunden-77-festnahmen-a-4f3f5708-0a84-45a9-8d2f-9d7386d42abb#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/politik/deutschland/keine-deutsche-blockade-in-eu-asylpolitik-hat-der-kanzler-ein-machtwort-gesprochen](https://www.spiegel.de/politik/deutschland/keine-deutsche-blockade-in-eu-asylpolitik-hat-der-kanzler-ein-machtwort-gesprochen-a-c40a60aa-1b3f-4d29-892d-ab7bde0d46bd#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/deutschland/keine-deutsche-blockade-in-eu-asylpolitik-hat-der-kanzler-ein-machtwort-gesprochen](https://www.spiegel.de/politik/deutschland/keine-deutsche-blockade-in-eu-asylpolitik-hat-der-kanzler-ein-machtwort-gesprochen-a-c40a60aa-1b3f-4d29-892d-ab7bde0d46bd#ref=rss)
-* [https://www.spiegel.de/karriere/reinigungskraefte-in-deutschland-und-den-usa-die-unsichtbaren](https://www.spiegel.de/karriere/reinigungskraefte-in-deutschland-und-den-usa-die-unsichtbaren-a-d0ee17c2-cdc2-4fca-8c09-ae723925a728#ref=rss)
-### spiegelinformationen
-
-* [https://www.spiegel.de/politik/deutschland/keine-deutsche-blockade-in-eu-asylpolitik-hat-der-kanzler-ein-machtwort-gesprochen](https://www.spiegel.de/politik/deutschland/keine-deutsche-blockade-in-eu-asylpolitik-hat-der-kanzler-ein-machtwort-gesprochen-a-c40a60aa-1b3f-4d29-892d-ab7bde0d46bd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/verbotene-nazi-sekte-artgemeinschaft-schwerpunkt-der-razzia-in-bayern](https://www.spiegel.de/politik/deutschland/verbotene-nazi-sekte-artgemeinschaft-schwerpunkt-der-razzia-in-bayern-a-7c57b846-ddca-42ea-a51b-0e43b0b9a585#ref=rss)
-### til
-
-* [https://www.spiegel.de/kultur/anika-decker-gegen-til-schweiger-nur-ein-sieg-kein-triumph](https://www.spiegel.de/kultur/anika-decker-gegen-til-schweiger-nur-ein-sieg-kein-triumph-a-d9a5fe31-cc1a-4693-ae0d-5f1bcbf0e3f0#ref=rss)
-* [https://www.spiegel.de/kultur/tv/anika-decker-drehbuchautorin-von-keinohrhasen-steht-mehr-geld-zu-gerichtsurteil](https://www.spiegel.de/kultur/tv/anika-decker-drehbuchautorin-von-keinohrhasen-steht-mehr-geld-zu-gerichtsurteil-a-ea93f2ea-0504-40f0-a49d-6b79239344e4#ref=rss)
-### schweiger
-
-* [https://www.spiegel.de/kultur/anika-decker-gegen-til-schweiger-nur-ein-sieg-kein-triumph](https://www.spiegel.de/kultur/anika-decker-gegen-til-schweiger-nur-ein-sieg-kein-triumph-a-d9a5fe31-cc1a-4693-ae0d-5f1bcbf0e3f0#ref=rss)
-* [https://www.spiegel.de/kultur/tv/anika-decker-drehbuchautorin-von-keinohrhasen-steht-mehr-geld-zu-gerichtsurteil](https://www.spiegel.de/kultur/tv/anika-decker-drehbuchautorin-von-keinohrhasen-steht-mehr-geld-zu-gerichtsurteil-a-ea93f2ea-0504-40f0-a49d-6b79239344e4#ref=rss)
-### drehbuchautorin
-
-* [https://www.spiegel.de/kultur/anika-decker-gegen-til-schweiger-nur-ein-sieg-kein-triumph](https://www.spiegel.de/kultur/anika-decker-gegen-til-schweiger-nur-ein-sieg-kein-triumph-a-d9a5fe31-cc1a-4693-ae0d-5f1bcbf0e3f0#ref=rss)
-* [https://www.spiegel.de/kultur/tv/anika-decker-drehbuchautorin-von-keinohrhasen-steht-mehr-geld-zu-gerichtsurteil](https://www.spiegel.de/kultur/tv/anika-decker-drehbuchautorin-von-keinohrhasen-steht-mehr-geld-zu-gerichtsurteil-a-ea93f2ea-0504-40f0-a49d-6b79239344e4#ref=rss)
-### keinohrhasen
-
-* [https://www.spiegel.de/kultur/anika-decker-gegen-til-schweiger-nur-ein-sieg-kein-triumph](https://www.spiegel.de/kultur/anika-decker-gegen-til-schweiger-nur-ein-sieg-kein-triumph-a-d9a5fe31-cc1a-4693-ae0d-5f1bcbf0e3f0#ref=rss)
-* [https://www.spiegel.de/kultur/tv/anika-decker-drehbuchautorin-von-keinohrhasen-steht-mehr-geld-zu-gerichtsurteil](https://www.spiegel.de/kultur/tv/anika-decker-drehbuchautorin-von-keinohrhasen-steht-mehr-geld-zu-gerichtsurteil-a-ea93f2ea-0504-40f0-a49d-6b79239344e4#ref=rss)
-### anteile
-
-* [https://www.spiegel.de/kultur/anika-decker-gegen-til-schweiger-nur-ein-sieg-kein-triumph](https://www.spiegel.de/kultur/anika-decker-gegen-til-schweiger-nur-ein-sieg-kein-triumph-a-d9a5fe31-cc1a-4693-ae0d-5f1bcbf0e3f0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-verkauft-schweizer-print-anteile](https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-verkauft-schweizer-print-anteile-a-5a1169bb-efe6-4cc3-9828-32a5e2977b64#ref=rss)
-### einnahmen
-
-* [https://www.spiegel.de/kultur/anika-decker-gegen-til-schweiger-nur-ein-sieg-kein-triumph](https://www.spiegel.de/kultur/anika-decker-gegen-til-schweiger-nur-ein-sieg-kein-triumph-a-d9a5fe31-cc1a-4693-ae0d-5f1bcbf0e3f0#ref=rss)
-* [https://www.spiegel.de/kultur/tv/anika-decker-drehbuchautorin-von-keinohrhasen-steht-mehr-geld-zu-gerichtsurteil](https://www.spiegel.de/kultur/tv/anika-decker-drehbuchautorin-von-keinohrhasen-steht-mehr-geld-zu-gerichtsurteil-a-ea93f2ea-0504-40f0-a49d-6b79239344e4#ref=rss)
-### hätte
-
-* [https://www.spiegel.de/kultur/anika-decker-gegen-til-schweiger-nur-ein-sieg-kein-triumph](https://www.spiegel.de/kultur/anika-decker-gegen-til-schweiger-nur-ein-sieg-kein-triumph-a-d9a5fe31-cc1a-4693-ae0d-5f1bcbf0e3f0#ref=rss)
-* [https://www.spiegel.de/kultur/tv/anika-decker-drehbuchautorin-von-keinohrhasen-steht-mehr-geld-zu-gerichtsurteil](https://www.spiegel.de/kultur/tv/anika-decker-drehbuchautorin-von-keinohrhasen-steht-mehr-geld-zu-gerichtsurteil-a-ea93f2ea-0504-40f0-a49d-6b79239344e4#ref=rss)
-### geld
-
-* [https://www.spiegel.de/kultur/anika-decker-gegen-til-schweiger-nur-ein-sieg-kein-triumph](https://www.spiegel.de/kultur/anika-decker-gegen-til-schweiger-nur-ein-sieg-kein-triumph-a-d9a5fe31-cc1a-4693-ae0d-5f1bcbf0e3f0#ref=rss)
-* [https://www.spiegel.de/kultur/tv/anika-decker-drehbuchautorin-von-keinohrhasen-steht-mehr-geld-zu-gerichtsurteil](https://www.spiegel.de/kultur/tv/anika-decker-drehbuchautorin-von-keinohrhasen-steht-mehr-geld-zu-gerichtsurteil-a-ea93f2ea-0504-40f0-a49d-6b79239344e4#ref=rss)
-### schalke
-
-* [https://www.spiegel.de/sport/fussball/fc-schalke-04-beurlaubt-trainer-thomas-reis-warum-der-klub-nicht-zur-ruhe-kommt](https://www.spiegel.de/sport/fussball/fc-schalke-04-beurlaubt-trainer-thomas-reis-warum-der-klub-nicht-zur-ruhe-kommt-a-487156a9-c118-466e-b342-b8a1b923b0d5#ref=rss)
-### thomas
-
-* [https://www.spiegel.de/sport/fussball/fc-schalke-04-beurlaubt-trainer-thomas-reis-warum-der-klub-nicht-zur-ruhe-kommt](https://www.spiegel.de/sport/fussball/fc-schalke-04-beurlaubt-trainer-thomas-reis-warum-der-klub-nicht-zur-ruhe-kommt-a-487156a9-c118-466e-b342-b8a1b923b0d5#ref=rss)
-### reis
-
-* [https://www.spiegel.de/sport/fussball/fc-schalke-04-beurlaubt-trainer-thomas-reis-warum-der-klub-nicht-zur-ruhe-kommt](https://www.spiegel.de/sport/fussball/fc-schalke-04-beurlaubt-trainer-thomas-reis-warum-der-klub-nicht-zur-ruhe-kommt-a-487156a9-c118-466e-b342-b8a1b923b0d5#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/sport/fussball/fc-schalke-04-beurlaubt-trainer-thomas-reis-warum-der-klub-nicht-zur-ruhe-kommt](https://www.spiegel.de/sport/fussball/fc-schalke-04-beurlaubt-trainer-thomas-reis-warum-der-klub-nicht-zur-ruhe-kommt-a-487156a9-c118-466e-b342-b8a1b923b0d5#ref=rss)
-* [https://www.spiegel.de/ausland/wahlen-in-der-slowakei-kehrt-der-populist-robert-fico-zurueck-nur-radikaler](https://www.spiegel.de/ausland/wahlen-in-der-slowakei-kehrt-der-populist-robert-fico-zurueck-nur-radikaler-a-6b06aaf9-1876-492b-b448-b29ccd00ea45#ref=rss)
-### legt
-
-* [https://www.spiegel.de/netzwelt/volkswagen-netzwerkstoerung-legt-produktion-bei-autobauer-in-wolfsburg-lahm](https://www.spiegel.de/netzwelt/volkswagen-netzwerkstoerung-legt-produktion-bei-autobauer-in-wolfsburg-lahm-a-2ed3b7c7-f389-4a2a-95b6-6053458bca6d#ref=rss)
-* [https://www.spiegel.de/panorama/stockholm-elch-legt-u-bahn-lahm-und-wird-erschossen](https://www.spiegel.de/panorama/stockholm-elch-legt-u-bahn-lahm-und-wird-erschossen-a-d6860cfb-f78a-48bc-a45c-9125313ba92d#ref=rss)
-### autobauer
-
-* [https://www.spiegel.de/netzwelt/volkswagen-netzwerkstoerung-legt-produktion-bei-autobauer-in-wolfsburg-lahm](https://www.spiegel.de/netzwelt/volkswagen-netzwerkstoerung-legt-produktion-bei-autobauer-in-wolfsburg-lahm-a-2ed3b7c7-f389-4a2a-95b6-6053458bca6d#ref=rss)
-### lahm
-
-* [https://www.spiegel.de/netzwelt/volkswagen-netzwerkstoerung-legt-produktion-bei-autobauer-in-wolfsburg-lahm](https://www.spiegel.de/netzwelt/volkswagen-netzwerkstoerung-legt-produktion-bei-autobauer-in-wolfsburg-lahm-a-2ed3b7c7-f389-4a2a-95b6-6053458bca6d#ref=rss)
-* [https://www.spiegel.de/panorama/stockholm-elch-legt-u-bahn-lahm-und-wird-erschossen](https://www.spiegel.de/panorama/stockholm-elch-legt-u-bahn-lahm-und-wird-erschossen-a-d6860cfb-f78a-48bc-a45c-9125313ba92d#ref=rss)
-### axel
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-verkauft-schweizer-print-anteile](https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-verkauft-schweizer-print-anteile-a-5a1169bb-efe6-4cc3-9828-32a5e2977b64#ref=rss)
-### springer
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-verkauft-schweizer-print-anteile](https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-verkauft-schweizer-print-anteile-a-5a1169bb-efe6-4cc3-9828-32a5e2977b64#ref=rss)
-### schweizer
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-verkauft-schweizer-print-anteile](https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-verkauft-schweizer-print-anteile-a-5a1169bb-efe6-4cc3-9828-32a5e2977b64#ref=rss)
-### deshalb
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-verkauft-schweizer-print-anteile](https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-verkauft-schweizer-print-anteile-a-5a1169bb-efe6-4cc3-9828-32a5e2977b64#ref=rss)
-* [https://www.spiegel.de/sport/berlin-marathon-bottle-claus-reicht-eliud-kipchoge-das-wasser](https://www.spiegel.de/sport/berlin-marathon-bottle-claus-reicht-eliud-kipchoge-das-wasser-a-1deb828d-60a8-4c3b-85b1-c32ab328cf5f#ref=rss)
-### gipfel
-
-* [https://www.spiegel.de/politik/washington-gipfel-von-usa-und-eu-soll-handelsstreit-beenden](https://www.spiegel.de/politik/washington-gipfel-von-usa-und-eu-soll-handelsstreit-beenden-a-37e5bc2c-59f1-409d-8cbd-e2dc2d87e6cb#ref=rss)
-### usa
-
-* [https://www.spiegel.de/politik/washington-gipfel-von-usa-und-eu-soll-handelsstreit-beenden](https://www.spiegel.de/politik/washington-gipfel-von-usa-und-eu-soll-handelsstreit-beenden-a-37e5bc2c-59f1-409d-8cbd-e2dc2d87e6cb#ref=rss)
-* [https://www.spiegel.de/karriere/reinigungskraefte-in-deutschland-und-den-usa-die-unsichtbaren](https://www.spiegel.de/karriere/reinigungskraefte-in-deutschland-und-den-usa-die-unsichtbaren-a-d0ee17c2-cdc2-4fca-8c09-ae723925a728#ref=rss)
-### eu
-
-* [https://www.spiegel.de/politik/washington-gipfel-von-usa-und-eu-soll-handelsstreit-beenden](https://www.spiegel.de/politik/washington-gipfel-von-usa-und-eu-soll-handelsstreit-beenden-a-37e5bc2c-59f1-409d-8cbd-e2dc2d87e6cb#ref=rss)
-* [https://www.spiegel.de/ausland/wahlen-in-der-slowakei-kehrt-der-populist-robert-fico-zurueck-nur-radikaler](https://www.spiegel.de/ausland/wahlen-in-der-slowakei-kehrt-der-populist-robert-fico-zurueck-nur-radikaler-a-6b06aaf9-1876-492b-b448-b29ccd00ea45#ref=rss)
 ### ende
 
-* [https://www.spiegel.de/politik/washington-gipfel-von-usa-und-eu-soll-handelsstreit-beenden](https://www.spiegel.de/politik/washington-gipfel-von-usa-und-eu-soll-handelsstreit-beenden-a-37e5bc2c-59f1-409d-8cbd-e2dc2d87e6cb#ref=rss)
-* [https://www.spiegel.de/panorama/stockholm-elch-legt-u-bahn-lahm-und-wird-erschossen](https://www.spiegel.de/panorama/stockholm-elch-legt-u-bahn-lahm-und-wird-erschossen-a-d6860cfb-f78a-48bc-a45c-9125313ba92d#ref=rss)
-### biden
+* [https://www.spiegel.de/wissenschaft/natur/schweizer-gletscher-schrumpften-so-stark-wie-sonst-in-30-jahren-bilanz-fuer-2022-und-2023](https://www.spiegel.de/wissenschaft/natur/schweizer-gletscher-schrumpften-so-stark-wie-sonst-in-30-jahren-bilanz-fuer-2022-und-2023-a-6582b324-5cbb-4865-817e-788787d4d7f8#ref=rss)
+* [https://www.spiegel.de/ausland/usa-zweite-republikaner-debatte-ohne-donald-trump](https://www.spiegel.de/ausland/usa-zweite-republikaner-debatte-ohne-donald-trump-a-26e3a121-14bb-4618-b2c5-f440602c995a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/staatschulden-zum-halbjahr-um-49-milliarden-euro-gestiegen](https://www.spiegel.de/wirtschaft/staatschulden-zum-halbjahr-um-49-milliarden-euro-gestiegen-a-8888cbd0-cc5c-4272-890e-d7dc79671f08#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/konjunkturprognose-deutsche-wirtschaft-schrumpft-2023-um-0-6-prozent](https://www.spiegel.de/wirtschaft/unternehmen/konjunkturprognose-deutsche-wirtschaft-schrumpft-2023-um-0-6-prozent-a-353a8756-a6f9-4053-ba14-558e7307d023#ref=rss)
+### millionen
 
-* [https://www.spiegel.de/politik/washington-gipfel-von-usa-und-eu-soll-handelsstreit-beenden](https://www.spiegel.de/politik/washington-gipfel-von-usa-und-eu-soll-handelsstreit-beenden-a-37e5bc2c-59f1-409d-8cbd-e2dc2d87e6cb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-markus-soeder-us-autoindustrie-edeka-und-kellogg-s](https://www.spiegel.de/politik/deutschland/news-des-tages-markus-soeder-us-autoindustrie-edeka-und-kellogg-s-a-8a41223f-a74d-4080-8289-932ae843fc13#ref=rss)
-### regierung
+* [https://www.spiegel.de/wirtschaft/unternehmen/energiewende-konzernklagen-kosten-deutschland-millionen](https://www.spiegel.de/wirtschaft/unternehmen/energiewende-konzernklagen-kosten-deutschland-millionen-a-f9f3847e-42d7-4180-b410-e711449f3287#ref=rss)
+* [https://www.spiegel.de/auto/hyundai-und-kia-rufen-millionen-autos-in-den-usa-zurueck-gefahr-eines-motorbrandes](https://www.spiegel.de/auto/hyundai-und-kia-rufen-millionen-autos-in-den-usa-zurueck-gefahr-eines-motorbrandes-a-0d9fb2ff-778f-44ac-aeb5-98d53adbb962#ref=rss)
+### euro
 
-* [https://www.spiegel.de/ausland/wahlen-in-der-slowakei-kehrt-der-populist-robert-fico-zurueck-nur-radikaler](https://www.spiegel.de/ausland/wahlen-in-der-slowakei-kehrt-der-populist-robert-fico-zurueck-nur-radikaler-a-6b06aaf9-1876-492b-b448-b29ccd00ea45#ref=rss)
-* [https://www.spiegel.de/ausland/spanien-alberto-nunez-feijoo-scheitert-mit-erstem-versuch-einer-regierungsbildung](https://www.spiegel.de/ausland/spanien-alberto-nunez-feijoo-scheitert-mit-erstem-versuch-einer-regierungsbildung-a-2317f7c4-5082-4174-8d9a-fe786f5718be#ref=rss)
-### russland
+* [https://www.spiegel.de/wirtschaft/unternehmen/energiewende-konzernklagen-kosten-deutschland-millionen](https://www.spiegel.de/wirtschaft/unternehmen/energiewende-konzernklagen-kosten-deutschland-millionen-a-f9f3847e-42d7-4180-b410-e711449f3287#ref=rss)
+* [https://www.spiegel.de/start/energiepauschale-nur-weil-studierende-kein-geld-abrufen-geht-es-ihnen-finanziell-gut](https://www.spiegel.de/start/energiepauschale-nur-weil-studierende-kein-geld-abrufen-geht-es-ihnen-finanziell-gut-a-6cc71d8f-3e1a-4a48-9548-1b507b05cd80#ref=rss)
+* [https://www.spiegel.de/wirtschaft/staatschulden-zum-halbjahr-um-49-milliarden-euro-gestiegen](https://www.spiegel.de/wirtschaft/staatschulden-zum-halbjahr-um-49-milliarden-euro-gestiegen-a-8888cbd0-cc5c-4272-890e-d7dc79671f08#ref=rss)
+### steckt
 
-* [https://www.spiegel.de/ausland/wahlen-in-der-slowakei-kehrt-der-populist-robert-fico-zurueck-nur-radikaler](https://www.spiegel.de/ausland/wahlen-in-der-slowakei-kehrt-der-populist-robert-fico-zurueck-nur-radikaler-a-6b06aaf9-1876-492b-b448-b29ccd00ea45#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-news-kiew-meldet-rueckkehr-der-wagner-kaempfer-in-die-ostukraine](https://www.spiegel.de/ausland/ukraine-russland-news-kiew-meldet-rueckkehr-der-wagner-kaempfer-in-die-ostukraine-a-169921e5-5b0a-498a-a97e-6db5d4900cad#ref=rss)
-### reinigungskräfte
+* [https://www.spiegel.de/sport/fussball/dfb-wie-hannes-wolf-den-kulturkampf-im-kinderfussball-gewinnen-will](https://www.spiegel.de/sport/fussball/dfb-wie-hannes-wolf-den-kulturkampf-im-kinderfussball-gewinnen-will-a-01174a58-4003-496e-83a1-1975adcb8bac#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/wenn-der-kaugummi-zum-wertobjekt-wird-was-steckt-dahinter](https://www.spiegel.de/wirtschaft/service/wenn-der-kaugummi-zum-wertobjekt-wird-was-steckt-dahinter-a-a575f9d6-8e93-4f65-9dc0-465587974c18#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/immobilienkrise-in-china-handel-mit-evergrande-aktien-gestoppt](https://www.spiegel.de/wirtschaft/unternehmen/immobilienkrise-in-china-handel-mit-evergrande-aktien-gestoppt-a-f386b58d-8384-4172-9371-0d20e999bde6#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/karriere/reinigungskraefte-in-deutschland-und-den-usa-die-unsichtbaren](https://www.spiegel.de/karriere/reinigungskraefte-in-deutschland-und-den-usa-die-unsichtbaren-a-d0ee17c2-cdc2-4fca-8c09-ae723925a728#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/karriere/reinigungskraefte-in-deutschland-und-den-usa-die-unsichtbaren](https://www.spiegel.de/karriere/reinigungskraefte-in-deutschland-und-den-usa-die-unsichtbaren-a-d0ee17c2-cdc2-4fca-8c09-ae723925a728#ref=rss)
-* [https://www.spiegel.de/ausland/bergkarabach-satellitenbilder-zeigen-zehntausende-menschen-auf-der-flucht](https://www.spiegel.de/ausland/bergkarabach-satellitenbilder-zeigen-zehntausende-menschen-auf-der-flucht-a-4c8824a9-64ab-454b-91b5-0a4a378c5104#ref=rss)
-### rubiales
-
-* [https://www.spiegel.de/sport/fussball/fall-rubiales-justiz-ermittelt-gegen-spaniens-weltmeister-trainer-jorge-vilda](https://www.spiegel.de/sport/fussball/fall-rubiales-justiz-ermittelt-gegen-spaniens-weltmeister-trainer-jorge-vilda-a-7722a6c9-7a50-4fb0-9c4a-3c69731734f0#ref=rss)
-### spaniens
-
-* [https://www.spiegel.de/sport/fussball/fall-rubiales-justiz-ermittelt-gegen-spaniens-weltmeister-trainer-jorge-vilda](https://www.spiegel.de/sport/fussball/fall-rubiales-justiz-ermittelt-gegen-spaniens-weltmeister-trainer-jorge-vilda-a-7722a6c9-7a50-4fb0-9c4a-3c69731734f0#ref=rss)
-### jorge
-
-* [https://www.spiegel.de/sport/fussball/fall-rubiales-justiz-ermittelt-gegen-spaniens-weltmeister-trainer-jorge-vilda](https://www.spiegel.de/sport/fussball/fall-rubiales-justiz-ermittelt-gegen-spaniens-weltmeister-trainer-jorge-vilda-a-7722a6c9-7a50-4fb0-9c4a-3c69731734f0#ref=rss)
-### vilda
-
-* [https://www.spiegel.de/sport/fussball/fall-rubiales-justiz-ermittelt-gegen-spaniens-weltmeister-trainer-jorge-vilda](https://www.spiegel.de/sport/fussball/fall-rubiales-justiz-ermittelt-gegen-spaniens-weltmeister-trainer-jorge-vilda-a-7722a6c9-7a50-4fb0-9c4a-3c69731734f0#ref=rss)
-### bundesregierung
-
-* [https://www.spiegel.de/wirtschaft/solarfoerderprogramm-der-bundesregierung-geldsegen-fuer-die-falschen-kommentar](https://www.spiegel.de/wirtschaft/solarfoerderprogramm-der-bundesregierung-geldsegen-fuer-die-falschen-kommentar-a-249649ed-fbfd-4c88-8291-7ad0c5b351be#ref=rss)
-### geldsegen
-
-* [https://www.spiegel.de/wirtschaft/solarfoerderprogramm-der-bundesregierung-geldsegen-fuer-die-falschen-kommentar](https://www.spiegel.de/wirtschaft/solarfoerderprogramm-der-bundesregierung-geldsegen-fuer-die-falschen-kommentar-a-249649ed-fbfd-4c88-8291-7ad0c5b351be#ref=rss)
-### falschen
-
-* [https://www.spiegel.de/wirtschaft/solarfoerderprogramm-der-bundesregierung-geldsegen-fuer-die-falschen-kommentar](https://www.spiegel.de/wirtschaft/solarfoerderprogramm-der-bundesregierung-geldsegen-fuer-die-falschen-kommentar-a-249649ed-fbfd-4c88-8291-7ad0c5b351be#ref=rss)
-### kommentar
-
-* [https://www.spiegel.de/wirtschaft/solarfoerderprogramm-der-bundesregierung-geldsegen-fuer-die-falschen-kommentar](https://www.spiegel.de/wirtschaft/solarfoerderprogramm-der-bundesregierung-geldsegen-fuer-die-falschen-kommentar-a-249649ed-fbfd-4c88-8291-7ad0c5b351be#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/thueringen-will-die-cdu-mit-hilfe-von-rechtsextremen-an-die-macht-kommentar](https://www.spiegel.de/politik/deutschland/thueringen-will-die-cdu-mit-hilfe-von-rechtsextremen-an-die-macht-kommentar-a-768a49f3-ba91-4bdd-8917-fa5bbdfb168d#ref=rss)
-### profitieren
-
-* [https://www.spiegel.de/wirtschaft/solarfoerderprogramm-der-bundesregierung-geldsegen-fuer-die-falschen-kommentar](https://www.spiegel.de/wirtschaft/solarfoerderprogramm-der-bundesregierung-geldsegen-fuer-die-falschen-kommentar-a-249649ed-fbfd-4c88-8291-7ad0c5b351be#ref=rss)
-* [https://www.spiegel.de/sport/basketball/basketball-bundesliga-favoriten-stars-und-tv-uebertragungen-im-ueberblick](https://www.spiegel.de/sport/basketball/basketball-bundesliga-favoriten-stars-und-tv-uebertragungen-im-ueberblick-a-67cd8279-b963-4804-90b2-3cc90aa7c181#ref=rss)
-### stockholm
-
-* [https://www.spiegel.de/panorama/stockholm-elch-legt-u-bahn-lahm-und-wird-erschossen](https://www.spiegel.de/panorama/stockholm-elch-legt-u-bahn-lahm-und-wird-erschossen-a-d6860cfb-f78a-48bc-a45c-9125313ba92d#ref=rss)
-### elch
-
-* [https://www.spiegel.de/panorama/stockholm-elch-legt-u-bahn-lahm-und-wird-erschossen](https://www.spiegel.de/panorama/stockholm-elch-legt-u-bahn-lahm-und-wird-erschossen-a-d6860cfb-f78a-48bc-a45c-9125313ba92d#ref=rss)
-### unten
-
-* [https://www.spiegel.de/wissenschaft/weltall/cern-auch-antimaterie-faellt-nach-unten-zeigen-experimente](https://www.spiegel.de/wissenschaft/weltall/cern-auch-antimaterie-faellt-nach-unten-zeigen-experimente-a-b306d15e-419b-458f-9736-0574c93efedb#ref=rss)
-### zeigen
-
-* [https://www.spiegel.de/wissenschaft/weltall/cern-auch-antimaterie-faellt-nach-unten-zeigen-experimente](https://www.spiegel.de/wissenschaft/weltall/cern-auch-antimaterie-faellt-nach-unten-zeigen-experimente-a-b306d15e-419b-458f-9736-0574c93efedb#ref=rss)
-* [https://www.spiegel.de/ausland/bergkarabach-satellitenbilder-zeigen-zehntausende-menschen-auf-der-flucht](https://www.spiegel.de/ausland/bergkarabach-satellitenbilder-zeigen-zehntausende-menschen-auf-der-flucht-a-4c8824a9-64ab-454b-91b5-0a4a378c5104#ref=rss)
-### forschende
-
-* [https://www.spiegel.de/wissenschaft/weltall/cern-auch-antimaterie-faellt-nach-unten-zeigen-experimente](https://www.spiegel.de/wissenschaft/weltall/cern-auch-antimaterie-faellt-nach-unten-zeigen-experimente-a-b306d15e-419b-458f-9736-0574c93efedb#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/insektensterben-alles-ausschliesslich-auf-wetter-und-klima-zu-reduzieren-das-ist-zu-einfach-gedacht](https://www.spiegel.de/wissenschaft/natur/insektensterben-alles-ausschliesslich-auf-wetter-und-klima-zu-reduzieren-das-ist-zu-einfach-gedacht-a-50e3cf58-0e71-4e40-8833-f2a1381bada8#ref=rss)
-### thüringen
-
-* [https://www.spiegel.de/politik/deutschland/thueringen-will-die-cdu-mit-hilfe-von-rechtsextremen-an-die-macht-kommentar](https://www.spiegel.de/politik/deutschland/thueringen-will-die-cdu-mit-hilfe-von-rechtsextremen-an-die-macht-kommentar-a-768a49f3-ba91-4bdd-8917-fa5bbdfb168d#ref=rss)
-### cdu
-
-* [https://www.spiegel.de/politik/deutschland/thueringen-will-die-cdu-mit-hilfe-von-rechtsextremen-an-die-macht-kommentar](https://www.spiegel.de/politik/deutschland/thueringen-will-die-cdu-mit-hilfe-von-rechtsextremen-an-die-macht-kommentar-a-768a49f3-ba91-4bdd-8917-fa5bbdfb168d#ref=rss)
-### macht
-
-* [https://www.spiegel.de/politik/deutschland/thueringen-will-die-cdu-mit-hilfe-von-rechtsextremen-an-die-macht-kommentar](https://www.spiegel.de/politik/deutschland/thueringen-will-die-cdu-mit-hilfe-von-rechtsextremen-an-die-macht-kommentar-a-768a49f3-ba91-4bdd-8917-fa5bbdfb168d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/klimageld-christian-lindner-stellt-auszahlung-ab-2025-in-aussicht](https://www.spiegel.de/wirtschaft/soziales/klimageld-christian-lindner-stellt-auszahlung-ab-2025-in-aussicht-a-3f40b521-16ad-41ff-b98f-f4b6faf99a67#ref=rss)
-### insektensterben
-
-* [https://www.spiegel.de/wissenschaft/natur/insektensterben-alles-ausschliesslich-auf-wetter-und-klima-zu-reduzieren-das-ist-zu-einfach-gedacht](https://www.spiegel.de/wissenschaft/natur/insektensterben-alles-ausschliesslich-auf-wetter-und-klima-zu-reduzieren-das-ist-zu-einfach-gedacht-a-50e3cf58-0e71-4e40-8833-f2a1381bada8#ref=rss)
-### wetter
-
-* [https://www.spiegel.de/wissenschaft/natur/insektensterben-alles-ausschliesslich-auf-wetter-und-klima-zu-reduzieren-das-ist-zu-einfach-gedacht](https://www.spiegel.de/wissenschaft/natur/insektensterben-alles-ausschliesslich-auf-wetter-und-klima-zu-reduzieren-das-ist-zu-einfach-gedacht-a-50e3cf58-0e71-4e40-8833-f2a1381bada8#ref=rss)
-### australien
-
-* [https://www.spiegel.de/wirtschaft/service/australien-qatar-airways-untersucht-nach-babyfund-frauen-ohne-zustimmung-im-intimbereich](https://www.spiegel.de/wirtschaft/service/australien-qatar-airways-untersucht-nach-babyfund-frauen-ohne-zustimmung-im-intimbereich-a-ea654317-e539-4fcd-9312-bb97fc7dee8e#ref=rss)
-### qatar
-
-* [https://www.spiegel.de/wirtschaft/service/australien-qatar-airways-untersucht-nach-babyfund-frauen-ohne-zustimmung-im-intimbereich](https://www.spiegel.de/wirtschaft/service/australien-qatar-airways-untersucht-nach-babyfund-frauen-ohne-zustimmung-im-intimbereich-a-ea654317-e539-4fcd-9312-bb97fc7dee8e#ref=rss)
-### airways
-
-* [https://www.spiegel.de/wirtschaft/service/australien-qatar-airways-untersucht-nach-babyfund-frauen-ohne-zustimmung-im-intimbereich](https://www.spiegel.de/wirtschaft/service/australien-qatar-airways-untersucht-nach-babyfund-frauen-ohne-zustimmung-im-intimbereich-a-ea654317-e539-4fcd-9312-bb97fc7dee8e#ref=rss)
+* [https://www.spiegel.de/ausland/ihr-werdet-gar-nichts-mehr-haben](https://www.spiegel.de/ausland/ihr-werdet-gar-nichts-mehr-haben-a-81658faa-f420-4c17-948f-92d3ce712930#ref=rss)
+* [https://www.spiegel.de/auto/hyundai-und-kia-rufen-millionen-autos-in-den-usa-zurueck-gefahr-eines-motorbrandes](https://www.spiegel.de/auto/hyundai-und-kia-rufen-millionen-autos-in-den-usa-zurueck-gefahr-eines-motorbrandes-a-0d9fb2ff-778f-44ac-aeb5-98d53adbb962#ref=rss)
+* [https://www.spiegel.de/wirtschaft/staatschulden-zum-halbjahr-um-49-milliarden-euro-gestiegen](https://www.spiegel.de/wirtschaft/staatschulden-zum-halbjahr-um-49-milliarden-euro-gestiegen-a-8888cbd0-cc5c-4272-890e-d7dc79671f08#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/wenn-der-kaugummi-zum-wertobjekt-wird-was-steckt-dahinter](https://www.spiegel.de/wirtschaft/service/wenn-der-kaugummi-zum-wertobjekt-wird-was-steckt-dahinter-a-a575f9d6-8e93-4f65-9dc0-465587974c18#ref=rss)
 ### ohne
 
-* [https://www.spiegel.de/wirtschaft/service/australien-qatar-airways-untersucht-nach-babyfund-frauen-ohne-zustimmung-im-intimbereich](https://www.spiegel.de/wirtschaft/service/australien-qatar-airways-untersucht-nach-babyfund-frauen-ohne-zustimmung-im-intimbereich-a-ea654317-e539-4fcd-9312-bb97fc7dee8e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/apothekertag-und-karl-lauterbach-kommt-jetzt-die-apotheke-ohne-apotheker](https://www.spiegel.de/wirtschaft/apothekertag-und-karl-lauterbach-kommt-jetzt-die-apotheke-ohne-apotheker-a-7b17f97e-cde7-42e7-b09f-0ed74b493529#ref=rss)
-### gefunden
+* [https://www.spiegel.de/panorama/justiz/berlin-mitarbeiter-von-ordnungsbehoerde-soll-234-dienstfahrten-ohne-fuehrerschein-gemacht-haben](https://www.spiegel.de/panorama/justiz/berlin-mitarbeiter-von-ordnungsbehoerde-soll-234-dienstfahrten-ohne-fuehrerschein-gemacht-haben-a-9a70fe2d-eb11-48db-a3b3-896c61352cb5#ref=rss)
+* [https://www.spiegel.de/ausland/usa-zweite-republikaner-debatte-ohne-donald-trump](https://www.spiegel.de/ausland/usa-zweite-republikaner-debatte-ohne-donald-trump-a-26e3a121-14bb-4618-b2c5-f440602c995a#ref=rss)
+### zeigt
 
-* [https://www.spiegel.de/wirtschaft/service/australien-qatar-airways-untersucht-nach-babyfund-frauen-ohne-zustimmung-im-intimbereich](https://www.spiegel.de/wirtschaft/service/australien-qatar-airways-untersucht-nach-babyfund-frauen-ohne-zustimmung-im-intimbereich-a-ea654317-e539-4fcd-9312-bb97fc7dee8e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/geldautomatensprenger-gesucht-andere-kriminelle-gefunden-77-festnahmen](https://www.spiegel.de/panorama/justiz/geldautomatensprenger-gesucht-andere-kriminelle-gefunden-77-festnahmen-a-4f3f5708-0a84-45a9-8d2f-9d7386d42abb#ref=rss)
-### basketballbundesliga
+* [https://www.spiegel.de/wissenschaft/natur/schweizer-gletscher-schrumpften-so-stark-wie-sonst-in-30-jahren-bilanz-fuer-2022-und-2023](https://www.spiegel.de/wissenschaft/natur/schweizer-gletscher-schrumpften-so-stark-wie-sonst-in-30-jahren-bilanz-fuer-2022-und-2023-a-6582b324-5cbb-4865-817e-788787d4d7f8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/it-ausfall-bei-volkswagen-volker-wissing-mahnt-zu-netzwerksicherheit](https://www.spiegel.de/wirtschaft/unternehmen/it-ausfall-bei-volkswagen-volker-wissing-mahnt-zu-netzwerksicherheit-a-43384924-d84d-45d4-b068-1c4fea59fee3#ref=rss)
+* [https://www.spiegel.de/start/wohnungsnot-von-studierenden-das-leben-wird-immer-teurer-die-einnahmen-bleiben-gleich](https://www.spiegel.de/start/wohnungsnot-von-studierenden-das-leben-wird-immer-teurer-die-einnahmen-bleiben-gleich-a-9e490de2-f3ce-420b-8b43-0a82b3425279#ref=rss)
+### mehrere
 
-* [https://www.spiegel.de/sport/basketball/basketball-bundesliga-favoriten-stars-und-tv-uebertragungen-im-ueberblick](https://www.spiegel.de/sport/basketball/basketball-bundesliga-favoriten-stars-und-tv-uebertragungen-im-ueberblick-a-67cd8279-b963-4804-90b2-3cc90aa7c181#ref=rss)
-### viele
-
-* [https://www.spiegel.de/sport/basketball/basketball-bundesliga-favoriten-stars-und-tv-uebertragungen-im-ueberblick](https://www.spiegel.de/sport/basketball/basketball-bundesliga-favoriten-stars-und-tv-uebertragungen-im-ueberblick-a-67cd8279-b963-4804-90b2-3cc90aa7c181#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-news-kiew-meldet-rueckkehr-der-wagner-kaempfer-in-die-ostukraine](https://www.spiegel.de/ausland/ukraine-russland-news-kiew-meldet-rueckkehr-der-wagner-kaempfer-in-die-ostukraine-a-169921e5-5b0a-498a-a97e-6db5d4900cad#ref=rss)
-### superstar
-
-* [https://www.spiegel.de/sport/basketball/basketball-bundesliga-favoriten-stars-und-tv-uebertragungen-im-ueberblick](https://www.spiegel.de/sport/basketball/basketball-bundesliga-favoriten-stars-und-tv-uebertragungen-im-ueberblick-a-67cd8279-b963-4804-90b2-3cc90aa7c181#ref=rss)
-* [https://www.spiegel.de/sport/berlin-marathon-bottle-claus-reicht-eliud-kipchoge-das-wasser](https://www.spiegel.de/sport/berlin-marathon-bottle-claus-reicht-eliud-kipchoge-das-wasser-a-1deb828d-60a8-4c3b-85b1-c32ab328cf5f#ref=rss)
-### bergkarabach
-
-* [https://www.spiegel.de/ausland/bergkarabach-satellitenbilder-zeigen-zehntausende-menschen-auf-der-flucht](https://www.spiegel.de/ausland/bergkarabach-satellitenbilder-zeigen-zehntausende-menschen-auf-der-flucht-a-4c8824a9-64ab-454b-91b5-0a4a378c5104#ref=rss)
-### satellitenbilder
-
-* [https://www.spiegel.de/ausland/bergkarabach-satellitenbilder-zeigen-zehntausende-menschen-auf-der-flucht](https://www.spiegel.de/ausland/bergkarabach-satellitenbilder-zeigen-zehntausende-menschen-auf-der-flucht-a-4c8824a9-64ab-454b-91b5-0a4a378c5104#ref=rss)
-### einzigen
-
-* [https://www.spiegel.de/ausland/bergkarabach-satellitenbilder-zeigen-zehntausende-menschen-auf-der-flucht](https://www.spiegel.de/ausland/bergkarabach-satellitenbilder-zeigen-zehntausende-menschen-auf-der-flucht-a-4c8824a9-64ab-454b-91b5-0a4a378c5104#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/geldautomatensprenger-gesucht-andere-kriminelle-gefunden-77-festnahmen](https://www.spiegel.de/panorama/justiz/geldautomatensprenger-gesucht-andere-kriminelle-gefunden-77-festnahmen-a-4f3f5708-0a84-45a9-8d2f-9d7386d42abb#ref=rss)
-### edeka
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-markus-soeder-us-autoindustrie-edeka-und-kellogg-s](https://www.spiegel.de/politik/deutschland/news-des-tages-markus-soeder-us-autoindustrie-edeka-und-kellogg-s-a-8a41223f-a74d-4080-8289-932ae843fc13#ref=rss)
-### reicht
-
-* [https://www.spiegel.de/sport/berlin-marathon-bottle-claus-reicht-eliud-kipchoge-das-wasser](https://www.spiegel.de/sport/berlin-marathon-bottle-claus-reicht-eliud-kipchoge-das-wasser-a-1deb828d-60a8-4c3b-85b1-c32ab328cf5f#ref=rss)
-### eliud
-
-* [https://www.spiegel.de/sport/berlin-marathon-bottle-claus-reicht-eliud-kipchoge-das-wasser](https://www.spiegel.de/sport/berlin-marathon-bottle-claus-reicht-eliud-kipchoge-das-wasser-a-1deb828d-60a8-4c3b-85b1-c32ab328cf5f#ref=rss)
-### kipchoge
-
-* [https://www.spiegel.de/sport/berlin-marathon-bottle-claus-reicht-eliud-kipchoge-das-wasser](https://www.spiegel.de/sport/berlin-marathon-bottle-claus-reicht-eliud-kipchoge-das-wasser-a-1deb828d-60a8-4c3b-85b1-c32ab328cf5f#ref=rss)
-### lindner
-
-* [https://www.spiegel.de/wirtschaft/soziales/klimageld-christian-lindner-stellt-auszahlung-ab-2025-in-aussicht](https://www.spiegel.de/wirtschaft/soziales/klimageld-christian-lindner-stellt-auszahlung-ab-2025-in-aussicht-a-3f40b521-16ad-41ff-b98f-f4b6faf99a67#ref=rss)
-### auszahlung
-
-* [https://www.spiegel.de/wirtschaft/soziales/klimageld-christian-lindner-stellt-auszahlung-ab-2025-in-aussicht](https://www.spiegel.de/wirtschaft/soziales/klimageld-christian-lindner-stellt-auszahlung-ab-2025-in-aussicht-a-3f40b521-16ad-41ff-b98f-f4b6faf99a67#ref=rss)
-### karl
-
-* [https://www.spiegel.de/wirtschaft/apothekertag-und-karl-lauterbach-kommt-jetzt-die-apotheke-ohne-apotheker](https://www.spiegel.de/wirtschaft/apothekertag-und-karl-lauterbach-kommt-jetzt-die-apotheke-ohne-apotheker-a-7b17f97e-cde7-42e7-b09f-0ed74b493529#ref=rss)
-### lauterbach
-
-* [https://www.spiegel.de/wirtschaft/apothekertag-und-karl-lauterbach-kommt-jetzt-die-apotheke-ohne-apotheker](https://www.spiegel.de/wirtschaft/apothekertag-und-karl-lauterbach-kommt-jetzt-die-apotheke-ohne-apotheker-a-7b17f97e-cde7-42e7-b09f-0ed74b493529#ref=rss)
-### spanien
-
-* [https://www.spiegel.de/ausland/spanien-alberto-nunez-feijoo-scheitert-mit-erstem-versuch-einer-regierungsbildung](https://www.spiegel.de/ausland/spanien-alberto-nunez-feijoo-scheitert-mit-erstem-versuch-einer-regierungsbildung-a-2317f7c4-5082-4174-8d9a-fe786f5718be#ref=rss)
-### feijóo
-
-* [https://www.spiegel.de/ausland/spanien-alberto-nunez-feijoo-scheitert-mit-erstem-versuch-einer-regierungsbildung](https://www.spiegel.de/ausland/spanien-alberto-nunez-feijoo-scheitert-mit-erstem-versuch-einer-regierungsbildung-a-2317f7c4-5082-4174-8d9a-fe786f5718be#ref=rss)
-### versuch
-
-* [https://www.spiegel.de/ausland/spanien-alberto-nunez-feijoo-scheitert-mit-erstem-versuch-einer-regierungsbildung](https://www.spiegel.de/ausland/spanien-alberto-nunez-feijoo-scheitert-mit-erstem-versuch-einer-regierungsbildung-a-2317f7c4-5082-4174-8d9a-fe786f5718be#ref=rss)
-### google
-
-* [https://www.spiegel.de/netzwelt/web/wie-google-das-internet-wurde-25-jahre-online-geschichte](https://www.spiegel.de/netzwelt/web/wie-google-das-internet-wurde-25-jahre-online-geschichte-a-952a27bc-3989-4548-94e8-5891da613da1#ref=rss)
-### 25
-
-* [https://www.spiegel.de/netzwelt/web/wie-google-das-internet-wurde-25-jahre-online-geschichte](https://www.spiegel.de/netzwelt/web/wie-google-das-internet-wurde-25-jahre-online-geschichte-a-952a27bc-3989-4548-94e8-5891da613da1#ref=rss)
-### rottenburg
-
-* [https://www.spiegel.de/politik/deutschland/rottenburg-an-der-laaber-spd-fraktion-in-hubert-aiwangers-heimatstadt-wechselt-zu-freien-waehlern](https://www.spiegel.de/politik/deutschland/rottenburg-an-der-laaber-spd-fraktion-in-hubert-aiwangers-heimatstadt-wechselt-zu-freien-waehlern-a-145e7b76-adb7-4ab3-b650-4ceb2c8e203a#ref=rss)
-### laaber
-
-* [https://www.spiegel.de/politik/deutschland/rottenburg-an-der-laaber-spd-fraktion-in-hubert-aiwangers-heimatstadt-wechselt-zu-freien-waehlern](https://www.spiegel.de/politik/deutschland/rottenburg-an-der-laaber-spd-fraktion-in-hubert-aiwangers-heimatstadt-wechselt-zu-freien-waehlern-a-145e7b76-adb7-4ab3-b650-4ceb2c8e203a#ref=rss)
-### aiwangers
-
-* [https://www.spiegel.de/politik/deutschland/rottenburg-an-der-laaber-spd-fraktion-in-hubert-aiwangers-heimatstadt-wechselt-zu-freien-waehlern](https://www.spiegel.de/politik/deutschland/rottenburg-an-der-laaber-spd-fraktion-in-hubert-aiwangers-heimatstadt-wechselt-zu-freien-waehlern-a-145e7b76-adb7-4ab3-b650-4ceb2c8e203a#ref=rss)
-### partei
-
-* [https://www.spiegel.de/politik/deutschland/rottenburg-an-der-laaber-spd-fraktion-in-hubert-aiwangers-heimatstadt-wechselt-zu-freien-waehlern](https://www.spiegel.de/politik/deutschland/rottenburg-an-der-laaber-spd-fraktion-in-hubert-aiwangers-heimatstadt-wechselt-zu-freien-waehlern-a-145e7b76-adb7-4ab3-b650-4ceb2c8e203a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/jerez-de-la-frontera-mehrere-verletzte-bei-messerangriff-in-spanischer-schule](https://www.spiegel.de/panorama/justiz/jerez-de-la-frontera-mehrere-verletzte-bei-messerangriff-in-spanischer-schule-a-6273fce0-934a-488a-8db1-68d1d64d5dc1#ref=rss)
+* [https://www.spiegel.de/auto/hyundai-und-kia-rufen-millionen-autos-in-den-usa-zurueck-gefahr-eines-motorbrandes](https://www.spiegel.de/auto/hyundai-und-kia-rufen-millionen-autos-in-den-usa-zurueck-gefahr-eines-motorbrandes-a-0d9fb2ff-778f-44ac-aeb5-98d53adbb962#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/drogenkrieg-in-mexiko-zerstueckelte-leichen-im-grossraum-monterrey-gefunden](https://www.spiegel.de/panorama/justiz/drogenkrieg-in-mexiko-zerstueckelte-leichen-im-grossraum-monterrey-gefunden-a-530c425b-a44a-4296-bc38-13a4d76ab953#ref=rss)
 ### drei
 
-* [https://www.spiegel.de/panorama/justiz/geldautomatensprenger-gesucht-andere-kriminelle-gefunden-77-festnahmen](https://www.spiegel.de/panorama/justiz/geldautomatensprenger-gesucht-andere-kriminelle-gefunden-77-festnahmen-a-4f3f5708-0a84-45a9-8d2f-9d7386d42abb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/verbotene-nazi-sekte-artgemeinschaft-schwerpunkt-der-razzia-in-bayern](https://www.spiegel.de/politik/deutschland/verbotene-nazi-sekte-artgemeinschaft-schwerpunkt-der-razzia-in-bayern-a-7c57b846-ddca-42ea-a51b-0e43b0b9a585#ref=rss)
-### artgemeinschaft
+* [https://www.spiegel.de/panorama/justiz/jerez-de-la-frontera-mehrere-verletzte-bei-messerangriff-in-spanischer-schule](https://www.spiegel.de/panorama/justiz/jerez-de-la-frontera-mehrere-verletzte-bei-messerangriff-in-spanischer-schule-a-6273fce0-934a-488a-8db1-68d1d64d5dc1#ref=rss)
+* [https://www.spiegel.de/start/energiepauschale-nur-weil-studierende-kein-geld-abrufen-geht-es-ihnen-finanziell-gut](https://www.spiegel.de/start/energiepauschale-nur-weil-studierende-kein-geld-abrufen-geht-es-ihnen-finanziell-gut-a-6cc71d8f-3e1a-4a48-9548-1b507b05cd80#ref=rss)
+* [https://www.spiegel.de/auto/hyundai-und-kia-rufen-millionen-autos-in-den-usa-zurueck-gefahr-eines-motorbrandes](https://www.spiegel.de/auto/hyundai-und-kia-rufen-millionen-autos-in-den-usa-zurueck-gefahr-eines-motorbrandes-a-0d9fb2ff-778f-44ac-aeb5-98d53adbb962#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/politik/deutschland/verbotene-nazi-sekte-artgemeinschaft-schwerpunkt-der-razzia-in-bayern](https://www.spiegel.de/politik/deutschland/verbotene-nazi-sekte-artgemeinschaft-schwerpunkt-der-razzia-in-bayern-a-7c57b846-ddca-42ea-a51b-0e43b0b9a585#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/jerez-de-la-frontera-mehrere-verletzte-bei-messerangriff-in-spanischer-schule](https://www.spiegel.de/panorama/justiz/jerez-de-la-frontera-mehrere-verletzte-bei-messerangriff-in-spanischer-schule-a-6273fce0-934a-488a-8db1-68d1d64d5dc1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/energiewende-konzernklagen-kosten-deutschland-millionen](https://www.spiegel.de/wirtschaft/unternehmen/energiewende-konzernklagen-kosten-deutschland-millionen-a-f9f3847e-42d7-4180-b410-e711449f3287#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/panorama/justiz/jerez-de-la-frontera-mehrere-verletzte-bei-messerangriff-in-spanischer-schule](https://www.spiegel.de/panorama/justiz/jerez-de-la-frontera-mehrere-verletzte-bei-messerangriff-in-spanischer-schule-a-6273fce0-934a-488a-8db1-68d1d64d5dc1#ref=rss)
+* [https://www.spiegel.de/sport/fussball/pruefung-der-50-1-regel-war-das-kartellamt-befangen](https://www.spiegel.de/sport/fussball/pruefung-der-50-1-regel-war-das-kartellamt-befangen-a-c951ddb7-6423-40a9-a44f-a7195bf3165a#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-superstar-damian-lillard-wechselt-zu-den-milwaukee-bucks](https://www.spiegel.de/sport/basketball/nba-superstar-damian-lillard-wechselt-zu-den-milwaukee-bucks-a-ed233bee-1394-436a-9064-1c7b3650bf4b#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/energiewende-konzernklagen-kosten-deutschland-millionen](https://www.spiegel.de/wirtschaft/unternehmen/energiewende-konzernklagen-kosten-deutschland-millionen-a-f9f3847e-42d7-4180-b410-e711449f3287#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-wie-hannes-wolf-den-kulturkampf-im-kinderfussball-gewinnen-will](https://www.spiegel.de/sport/fussball/dfb-wie-hannes-wolf-den-kulturkampf-im-kinderfussball-gewinnen-will-a-01174a58-4003-496e-83a1-1975adcb8bac#ref=rss)
+* [https://www.spiegel.de/wirtschaft/staatschulden-zum-halbjahr-um-49-milliarden-euro-gestiegen](https://www.spiegel.de/wirtschaft/staatschulden-zum-halbjahr-um-49-milliarden-euro-gestiegen-a-8888cbd0-cc5c-4272-890e-d7dc79671f08#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-nennt-friedrich-merz-unprofessionell-und-gefaehrlich](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-nennt-friedrich-merz-unprofessionell-und-gefaehrlich-a-d1016ece-15d2-4d68-99b0-a04faf8d097e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-wie-hannes-wolf-den-kulturkampf-im-kinderfussball-gewinnen-will](https://www.spiegel.de/sport/fussball/dfb-wie-hannes-wolf-den-kulturkampf-im-kinderfussball-gewinnen-will-a-01174a58-4003-496e-83a1-1975adcb8bac#ref=rss)
+* [https://www.spiegel.de/ausland/saporischschja-greenpeace-analyse-wie-russische-truppen-das-akw-nutzen](https://www.spiegel.de/ausland/saporischschja-greenpeace-analyse-wie-russische-truppen-das-akw-nutzen-a-f3377ee5-804f-4b71-be80-450fafc9ac85#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/sport/fussball/dfb-wie-hannes-wolf-den-kulturkampf-im-kinderfussball-gewinnen-will](https://www.spiegel.de/sport/fussball/dfb-wie-hannes-wolf-den-kulturkampf-im-kinderfussball-gewinnen-will-a-01174a58-4003-496e-83a1-1975adcb8bac#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/konjunkturprognose-deutsche-wirtschaft-schrumpft-2023-um-0-6-prozent](https://www.spiegel.de/wirtschaft/unternehmen/konjunkturprognose-deutsche-wirtschaft-schrumpft-2023-um-0-6-prozent-a-353a8756-a6f9-4053-ba14-558e7307d023#ref=rss)
+### dahinter
+
+* [https://www.spiegel.de/sport/fussball/dfb-wie-hannes-wolf-den-kulturkampf-im-kinderfussball-gewinnen-will](https://www.spiegel.de/sport/fussball/dfb-wie-hannes-wolf-den-kulturkampf-im-kinderfussball-gewinnen-will-a-01174a58-4003-496e-83a1-1975adcb8bac#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/wenn-der-kaugummi-zum-wertobjekt-wird-was-steckt-dahinter](https://www.spiegel.de/wirtschaft/service/wenn-der-kaugummi-zum-wertobjekt-wird-was-steckt-dahinter-a-a575f9d6-8e93-4f65-9dc0-465587974c18#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/ihr-werdet-gar-nichts-mehr-haben](https://www.spiegel.de/ausland/ihr-werdet-gar-nichts-mehr-haben-a-81658faa-f420-4c17-948f-92d3ce712930#ref=rss)
+* [https://www.spiegel.de/ausland/usa-zweite-republikaner-debatte-ohne-donald-trump](https://www.spiegel.de/ausland/usa-zweite-republikaner-debatte-ohne-donald-trump-a-26e3a121-14bb-4618-b2c5-f440602c995a#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/ihr-werdet-gar-nichts-mehr-haben](https://www.spiegel.de/ausland/ihr-werdet-gar-nichts-mehr-haben-a-81658faa-f420-4c17-948f-92d3ce712930#ref=rss)
+* [https://www.spiegel.de/ausland/usa-zweite-republikaner-debatte-ohne-donald-trump](https://www.spiegel.de/ausland/usa-zweite-republikaner-debatte-ohne-donald-trump-a-26e3a121-14bb-4618-b2c5-f440602c995a#ref=rss)
+### neue
+
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-neue-varianten-was-selbsttest-jetzt-noch-leisten-koennen](https://www.spiegel.de/wissenschaft/medizin/coronavirus-neue-varianten-was-selbsttest-jetzt-noch-leisten-koennen-a-500c5973-8ef1-4fb1-b72b-8bec51553071#ref=rss)
+* [https://www.spiegel.de/start/wohnungsnot-von-studierenden-das-leben-wird-immer-teurer-die-einnahmen-bleiben-gleich](https://www.spiegel.de/start/wohnungsnot-von-studierenden-das-leben-wird-immer-teurer-die-einnahmen-bleiben-gleich-a-9e490de2-f3ce-420b-8b43-0a82b3425279#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/meta-connect-mark-zuckerberg-stellt-chatbots-und-die-quest-3-vor](https://www.spiegel.de/netzwelt/gadgets/meta-connect-mark-zuckerberg-stellt-chatbots-und-die-quest-3-vor-a-493cb708-0b3b-47d7-84ea-69b7bcbd4d17#ref=rss)
+### studierenden
+
+* [https://www.spiegel.de/start/energiepauschale-nur-weil-studierende-kein-geld-abrufen-geht-es-ihnen-finanziell-gut](https://www.spiegel.de/start/energiepauschale-nur-weil-studierende-kein-geld-abrufen-geht-es-ihnen-finanziell-gut-a-6cc71d8f-3e1a-4a48-9548-1b507b05cd80#ref=rss)
+* [https://www.spiegel.de/start/wohnungsnot-von-studierenden-das-leben-wird-immer-teurer-die-einnahmen-bleiben-gleich](https://www.spiegel.de/start/wohnungsnot-von-studierenden-das-leben-wird-immer-teurer-die-einnahmen-bleiben-gleich-a-9e490de2-f3ce-420b-8b43-0a82b3425279#ref=rss)
+### unter
+
+* [https://www.spiegel.de/start/energiepauschale-nur-weil-studierende-kein-geld-abrufen-geht-es-ihnen-finanziell-gut](https://www.spiegel.de/start/energiepauschale-nur-weil-studierende-kein-geld-abrufen-geht-es-ihnen-finanziell-gut-a-6cc71d8f-3e1a-4a48-9548-1b507b05cd80#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/immobilienkrise-in-china-handel-mit-evergrande-aktien-gestoppt](https://www.spiegel.de/wirtschaft/unternehmen/immobilienkrise-in-china-handel-mit-evergrande-aktien-gestoppt-a-f386b58d-8384-4172-9371-0d20e999bde6#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/meta-connect-mark-zuckerberg-stellt-chatbots-und-die-quest-3-vor](https://www.spiegel.de/netzwelt/gadgets/meta-connect-mark-zuckerberg-stellt-chatbots-und-die-quest-3-vor-a-493cb708-0b3b-47d7-84ea-69b7bcbd4d17#ref=rss)
+### prozent
+
+* [https://www.spiegel.de/wirtschaft/staatschulden-zum-halbjahr-um-49-milliarden-euro-gestiegen](https://www.spiegel.de/wirtschaft/staatschulden-zum-halbjahr-um-49-milliarden-euro-gestiegen-a-8888cbd0-cc5c-4272-890e-d7dc79671f08#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/konjunkturprognose-deutsche-wirtschaft-schrumpft-2023-um-0-6-prozent](https://www.spiegel.de/wirtschaft/unternehmen/konjunkturprognose-deutsche-wirtschaft-schrumpft-2023-um-0-6-prozent-a-353a8756-a6f9-4053-ba14-558e7307d023#ref=rss)
+### gletscher
+
+* [https://www.spiegel.de/wissenschaft/natur/schweizer-gletscher-schrumpften-so-stark-wie-sonst-in-30-jahren-bilanz-fuer-2022-und-2023](https://www.spiegel.de/wissenschaft/natur/schweizer-gletscher-schrumpften-so-stark-wie-sonst-in-30-jahren-bilanz-fuer-2022-und-2023-a-6582b324-5cbb-4865-817e-788787d4d7f8#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/wissenschaft/natur/schweizer-gletscher-schrumpften-so-stark-wie-sonst-in-30-jahren-bilanz-fuer-2022-und-2023](https://www.spiegel.de/wissenschaft/natur/schweizer-gletscher-schrumpften-so-stark-wie-sonst-in-30-jahren-bilanz-fuer-2022-und-2023-a-6582b324-5cbb-4865-817e-788787d4d7f8#ref=rss)
+* [https://www.spiegel.de/ausland/saporischschja-greenpeace-analyse-wie-russische-truppen-das-akw-nutzen](https://www.spiegel.de/ausland/saporischschja-greenpeace-analyse-wie-russische-truppen-das-akw-nutzen-a-f3377ee5-804f-4b71-be80-450fafc9ac85#ref=rss)
+### 2022
+
+* [https://www.spiegel.de/wissenschaft/natur/schweizer-gletscher-schrumpften-so-stark-wie-sonst-in-30-jahren-bilanz-fuer-2022-und-2023](https://www.spiegel.de/wissenschaft/natur/schweizer-gletscher-schrumpften-so-stark-wie-sonst-in-30-jahren-bilanz-fuer-2022-und-2023-a-6582b324-5cbb-4865-817e-788787d4d7f8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/staatschulden-zum-halbjahr-um-49-milliarden-euro-gestiegen](https://www.spiegel.de/wirtschaft/staatschulden-zum-halbjahr-um-49-milliarden-euro-gestiegen-a-8888cbd0-cc5c-4272-890e-d7dc79671f08#ref=rss)
+### 2023
+
+* [https://www.spiegel.de/wissenschaft/natur/schweizer-gletscher-schrumpften-so-stark-wie-sonst-in-30-jahren-bilanz-fuer-2022-und-2023](https://www.spiegel.de/wissenschaft/natur/schweizer-gletscher-schrumpften-so-stark-wie-sonst-in-30-jahren-bilanz-fuer-2022-und-2023-a-6582b324-5cbb-4865-817e-788787d4d7f8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/konjunkturprognose-deutsche-wirtschaft-schrumpft-2023-um-0-6-prozent](https://www.spiegel.de/wirtschaft/unternehmen/konjunkturprognose-deutsche-wirtschaft-schrumpft-2023-um-0-6-prozent-a-353a8756-a6f9-4053-ba14-558e7307d023#ref=rss)
+### auswertung
+
+* [https://www.spiegel.de/wissenschaft/natur/schweizer-gletscher-schrumpften-so-stark-wie-sonst-in-30-jahren-bilanz-fuer-2022-und-2023](https://www.spiegel.de/wissenschaft/natur/schweizer-gletscher-schrumpften-so-stark-wie-sonst-in-30-jahren-bilanz-fuer-2022-und-2023-a-6582b324-5cbb-4865-817e-788787d4d7f8#ref=rss)
+* [https://www.spiegel.de/start/wohnungsnot-von-studierenden-das-leben-wird-immer-teurer-die-einnahmen-bleiben-gleich](https://www.spiegel.de/start/wohnungsnot-von-studierenden-das-leben-wird-immer-teurer-die-einnahmen-bleiben-gleich-a-9e490de2-f3ce-420b-8b43-0a82b3425279#ref=rss)
+### taiwan
+
+* [https://www.spiegel.de/ausland/taiwan-praesentiert-erstes-selbst-entwickeltes-u-boot](https://www.spiegel.de/ausland/taiwan-praesentiert-erstes-selbst-entwickeltes-u-boot-a-630e431d-ddc4-4754-b953-af0fb38ec5f1#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/ausland/taiwan-praesentiert-erstes-selbst-entwickeltes-u-boot](https://www.spiegel.de/ausland/taiwan-praesentiert-erstes-selbst-entwickeltes-u-boot-a-630e431d-ddc4-4754-b953-af0fb38ec5f1#ref=rss)
+* [https://www.spiegel.de/ausland/ihr-werdet-gar-nichts-mehr-haben](https://www.spiegel.de/ausland/ihr-werdet-gar-nichts-mehr-haben-a-81658faa-f420-4c17-948f-92d3ce712930#ref=rss)
+### uboot
+
+* [https://www.spiegel.de/ausland/taiwan-praesentiert-erstes-selbst-entwickeltes-u-boot](https://www.spiegel.de/ausland/taiwan-praesentiert-erstes-selbst-entwickeltes-u-boot-a-630e431d-ddc4-4754-b953-af0fb38ec5f1#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/ausland/taiwan-praesentiert-erstes-selbst-entwickeltes-u-boot](https://www.spiegel.de/ausland/taiwan-praesentiert-erstes-selbst-entwickeltes-u-boot-a-630e431d-ddc4-4754-b953-af0fb38ec5f1#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/drogenkrieg-in-mexiko-zerstueckelte-leichen-im-grossraum-monterrey-gefunden](https://www.spiegel.de/panorama/justiz/drogenkrieg-in-mexiko-zerstueckelte-leichen-im-grossraum-monterrey-gefunden-a-530c425b-a44a-4296-bc38-13a4d76ab953#ref=rss)
+### china
+
+* [https://www.spiegel.de/ausland/taiwan-praesentiert-erstes-selbst-entwickeltes-u-boot](https://www.spiegel.de/ausland/taiwan-praesentiert-erstes-selbst-entwickeltes-u-boot-a-630e431d-ddc4-4754-b953-af0fb38ec5f1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/immobilienkrise-in-china-handel-mit-evergrande-aktien-gestoppt](https://www.spiegel.de/wirtschaft/unternehmen/immobilienkrise-in-china-handel-mit-evergrande-aktien-gestoppt-a-f386b58d-8384-4172-9371-0d20e999bde6#ref=rss)
+### jerez
+
+* [https://www.spiegel.de/panorama/justiz/jerez-de-la-frontera-mehrere-verletzte-bei-messerangriff-in-spanischer-schule](https://www.spiegel.de/panorama/justiz/jerez-de-la-frontera-mehrere-verletzte-bei-messerangriff-in-spanischer-schule-a-6273fce0-934a-488a-8db1-68d1d64d5dc1#ref=rss)
+### de
+
+* [https://www.spiegel.de/panorama/justiz/jerez-de-la-frontera-mehrere-verletzte-bei-messerangriff-in-spanischer-schule](https://www.spiegel.de/panorama/justiz/jerez-de-la-frontera-mehrere-verletzte-bei-messerangriff-in-spanischer-schule-a-6273fce0-934a-488a-8db1-68d1d64d5dc1#ref=rss)
+### la
+
+* [https://www.spiegel.de/panorama/justiz/jerez-de-la-frontera-mehrere-verletzte-bei-messerangriff-in-spanischer-schule](https://www.spiegel.de/panorama/justiz/jerez-de-la-frontera-mehrere-verletzte-bei-messerangriff-in-spanischer-schule-a-6273fce0-934a-488a-8db1-68d1d64d5dc1#ref=rss)
+### frontera
+
+* [https://www.spiegel.de/panorama/justiz/jerez-de-la-frontera-mehrere-verletzte-bei-messerangriff-in-spanischer-schule](https://www.spiegel.de/panorama/justiz/jerez-de-la-frontera-mehrere-verletzte-bei-messerangriff-in-spanischer-schule-a-6273fce0-934a-488a-8db1-68d1d64d5dc1#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/panorama/justiz/jerez-de-la-frontera-mehrere-verletzte-bei-messerangriff-in-spanischer-schule](https://www.spiegel.de/panorama/justiz/jerez-de-la-frontera-mehrere-verletzte-bei-messerangriff-in-spanischer-schule-a-6273fce0-934a-488a-8db1-68d1d64d5dc1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/immobilienkrise-in-china-handel-mit-evergrande-aktien-gestoppt](https://www.spiegel.de/wirtschaft/unternehmen/immobilienkrise-in-china-handel-mit-evergrande-aktien-gestoppt-a-f386b58d-8384-4172-9371-0d20e999bde6#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/panorama/gesellschaft/cannabis-legalisierung-bayern-plant-zentrale-kontrolleinheit](https://www.spiegel.de/panorama/gesellschaft/cannabis-legalisierung-bayern-plant-zentrale-kontrolleinheit-a-284e3aeb-63eb-4fb2-87cc-95f142707717#ref=rss)
+### dagegen
+
+* [https://www.spiegel.de/panorama/gesellschaft/cannabis-legalisierung-bayern-plant-zentrale-kontrolleinheit](https://www.spiegel.de/panorama/gesellschaft/cannabis-legalisierung-bayern-plant-zentrale-kontrolleinheit-a-284e3aeb-63eb-4fb2-87cc-95f142707717#ref=rss)
+* [https://www.spiegel.de/sport/fussball/pruefung-der-50-1-regel-war-das-kartellamt-befangen](https://www.spiegel.de/sport/fussball/pruefung-der-50-1-regel-war-das-kartellamt-befangen-a-c951ddb7-6423-40a9-a44f-a7195bf3165a#ref=rss)
+### kosten
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/energiewende-konzernklagen-kosten-deutschland-millionen](https://www.spiegel.de/wirtschaft/unternehmen/energiewende-konzernklagen-kosten-deutschland-millionen-a-f9f3847e-42d7-4180-b410-e711449f3287#ref=rss)
+### allein
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/energiewende-konzernklagen-kosten-deutschland-millionen](https://www.spiegel.de/wirtschaft/unternehmen/energiewende-konzernklagen-kosten-deutschland-millionen-a-f9f3847e-42d7-4180-b410-e711449f3287#ref=rss)
+* [https://www.spiegel.de/start/wohnungsnot-von-studierenden-das-leben-wird-immer-teurer-die-einnahmen-bleiben-gleich](https://www.spiegel.de/start/wohnungsnot-von-studierenden-das-leben-wird-immer-teurer-die-einnahmen-bleiben-gleich-a-9e490de2-f3ce-420b-8b43-0a82b3425279#ref=rss)
+### kevin
+
+* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-nennt-friedrich-merz-unprofessionell-und-gefaehrlich](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-nennt-friedrich-merz-unprofessionell-und-gefaehrlich-a-d1016ece-15d2-4d68-99b0-a04faf8d097e#ref=rss)
+### kühnert
+
+* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-nennt-friedrich-merz-unprofessionell-und-gefaehrlich](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-nennt-friedrich-merz-unprofessionell-und-gefaehrlich-a-d1016ece-15d2-4d68-99b0-a04faf8d097e#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-nennt-friedrich-merz-unprofessionell-und-gefaehrlich](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-nennt-friedrich-merz-unprofessionell-und-gefaehrlich-a-d1016ece-15d2-4d68-99b0-a04faf8d097e#ref=rss)
+### alle
+
+* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-nennt-friedrich-merz-unprofessionell-und-gefaehrlich](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-nennt-friedrich-merz-unprofessionell-und-gefaehrlich-a-d1016ece-15d2-4d68-99b0-a04faf8d097e#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/meta-connect-mark-zuckerberg-stellt-chatbots-und-die-quest-3-vor](https://www.spiegel.de/netzwelt/gadgets/meta-connect-mark-zuckerberg-stellt-chatbots-und-die-quest-3-vor-a-493cb708-0b3b-47d7-84ea-69b7bcbd4d17#ref=rss)
+### wissing
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/it-ausfall-bei-volkswagen-volker-wissing-mahnt-zu-netzwerksicherheit](https://www.spiegel.de/wirtschaft/unternehmen/it-ausfall-bei-volkswagen-volker-wissing-mahnt-zu-netzwerksicherheit-a-43384924-d84d-45d4-b068-1c4fea59fee3#ref=rss)
+### mann
+
+* [https://www.spiegel.de/sport/fussball/hertha-keeper-wegen-schwerer-koerperverletzung-verurteilt](https://www.spiegel.de/sport/fussball/hertha-keeper-wegen-schwerer-koerperverletzung-verurteilt-a-7d926999-ce13-4581-8650-bf72af53d4f5#ref=rss)
+* [https://www.spiegel.de/ausland/usa-zweite-republikaner-debatte-ohne-donald-trump](https://www.spiegel.de/ausland/usa-zweite-republikaner-debatte-ohne-donald-trump-a-26e3a121-14bb-4618-b2c5-f440602c995a#ref=rss)
+### leisten
+
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-neue-varianten-was-selbsttest-jetzt-noch-leisten-koennen](https://www.spiegel.de/wissenschaft/medizin/coronavirus-neue-varianten-was-selbsttest-jetzt-noch-leisten-koennen-a-500c5973-8ef1-4fb1-b72b-8bec51553071#ref=rss)
+* [https://www.spiegel.de/start/wohnungsnot-von-studierenden-das-leben-wird-immer-teurer-die-einnahmen-bleiben-gleich](https://www.spiegel.de/start/wohnungsnot-von-studierenden-das-leben-wird-immer-teurer-die-einnahmen-bleiben-gleich-a-9e490de2-f3ce-420b-8b43-0a82b3425279#ref=rss)
+### gut
+
+* [https://www.spiegel.de/start/energiepauschale-nur-weil-studierende-kein-geld-abrufen-geht-es-ihnen-finanziell-gut](https://www.spiegel.de/start/energiepauschale-nur-weil-studierende-kein-geld-abrufen-geht-es-ihnen-finanziell-gut-a-6cc71d8f-3e1a-4a48-9548-1b507b05cd80#ref=rss)
+* [https://www.spiegel.de/ausland/saporischschja-greenpeace-analyse-wie-russische-truppen-das-akw-nutzen](https://www.spiegel.de/ausland/saporischschja-greenpeace-analyse-wie-russische-truppen-das-akw-nutzen-a-f3377ee5-804f-4b71-be80-450fafc9ac85#ref=rss)
+### studierende
+
+* [https://www.spiegel.de/start/energiepauschale-nur-weil-studierende-kein-geld-abrufen-geht-es-ihnen-finanziell-gut](https://www.spiegel.de/start/energiepauschale-nur-weil-studierende-kein-geld-abrufen-geht-es-ihnen-finanziell-gut-a-6cc71d8f-3e1a-4a48-9548-1b507b05cd80#ref=rss)
+* [https://www.spiegel.de/start/wohnungsnot-von-studierenden-das-leben-wird-immer-teurer-die-einnahmen-bleiben-gleich](https://www.spiegel.de/start/wohnungsnot-von-studierenden-das-leben-wird-immer-teurer-die-einnahmen-bleiben-gleich-a-9e490de2-f3ce-420b-8b43-0a82b3425279#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/panorama/justiz/berlin-mitarbeiter-von-ordnungsbehoerde-soll-234-dienstfahrten-ohne-fuehrerschein-gemacht-haben](https://www.spiegel.de/panorama/justiz/berlin-mitarbeiter-von-ordnungsbehoerde-soll-234-dienstfahrten-ohne-fuehrerschein-gemacht-haben-a-9a70fe2d-eb11-48db-a3b3-896c61352cb5#ref=rss)
+* [https://www.spiegel.de/kultur/musik/christian-thielemann-an-der-staatsoper-berlin-was-die-berufung-bedeutet](https://www.spiegel.de/kultur/musik/christian-thielemann-an-der-staatsoper-berlin-was-die-berufung-bedeutet-a-1c2a002d-4a9f-4221-8fa1-3ddcf8f0a7fc#ref=rss)
+### mitarbeiter
+
+* [https://www.spiegel.de/panorama/justiz/berlin-mitarbeiter-von-ordnungsbehoerde-soll-234-dienstfahrten-ohne-fuehrerschein-gemacht-haben](https://www.spiegel.de/panorama/justiz/berlin-mitarbeiter-von-ordnungsbehoerde-soll-234-dienstfahrten-ohne-fuehrerschein-gemacht-haben-a-9a70fe2d-eb11-48db-a3b3-896c61352cb5#ref=rss)
+### führerschein
+
+* [https://www.spiegel.de/panorama/justiz/berlin-mitarbeiter-von-ordnungsbehoerde-soll-234-dienstfahrten-ohne-fuehrerschein-gemacht-haben](https://www.spiegel.de/panorama/justiz/berlin-mitarbeiter-von-ordnungsbehoerde-soll-234-dienstfahrten-ohne-fuehrerschein-gemacht-haben-a-9a70fe2d-eb11-48db-a3b3-896c61352cb5#ref=rss)
+### berliner
+
+* [https://www.spiegel.de/panorama/justiz/berlin-mitarbeiter-von-ordnungsbehoerde-soll-234-dienstfahrten-ohne-fuehrerschein-gemacht-haben](https://www.spiegel.de/panorama/justiz/berlin-mitarbeiter-von-ordnungsbehoerde-soll-234-dienstfahrten-ohne-fuehrerschein-gemacht-haben-a-9a70fe2d-eb11-48db-a3b3-896c61352cb5#ref=rss)
+* [https://www.spiegel.de/kultur/musik/christian-thielemann-an-der-staatsoper-berlin-was-die-berufung-bedeutet](https://www.spiegel.de/kultur/musik/christian-thielemann-an-der-staatsoper-berlin-was-die-berufung-bedeutet-a-1c2a002d-4a9f-4221-8fa1-3ddcf8f0a7fc#ref=rss)
+### autos
+
+* [https://www.spiegel.de/auto/hyundai-und-kia-rufen-millionen-autos-in-den-usa-zurueck-gefahr-eines-motorbrandes](https://www.spiegel.de/auto/hyundai-und-kia-rufen-millionen-autos-in-den-usa-zurueck-gefahr-eines-motorbrandes-a-0d9fb2ff-778f-44ac-aeb5-98d53adbb962#ref=rss)
+### usa
+
+* [https://www.spiegel.de/auto/hyundai-und-kia-rufen-millionen-autos-in-den-usa-zurueck-gefahr-eines-motorbrandes](https://www.spiegel.de/auto/hyundai-und-kia-rufen-millionen-autos-in-den-usa-zurueck-gefahr-eines-motorbrandes-a-0d9fb2ff-778f-44ac-aeb5-98d53adbb962#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/start/wohnungsnot-von-studierenden-das-leben-wird-immer-teurer-die-einnahmen-bleiben-gleich](https://www.spiegel.de/start/wohnungsnot-von-studierenden-das-leben-wird-immer-teurer-die-einnahmen-bleiben-gleich-a-9e490de2-f3ce-420b-8b43-0a82b3425279#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/konjunkturprognose-deutsche-wirtschaft-schrumpft-2023-um-0-6-prozent](https://www.spiegel.de/wirtschaft/unternehmen/konjunkturprognose-deutsche-wirtschaft-schrumpft-2023-um-0-6-prozent-a-353a8756-a6f9-4053-ba14-558e7307d023#ref=rss)
+### gestiegen
+
+* [https://www.spiegel.de/start/wohnungsnot-von-studierenden-das-leben-wird-immer-teurer-die-einnahmen-bleiben-gleich](https://www.spiegel.de/start/wohnungsnot-von-studierenden-das-leben-wird-immer-teurer-die-einnahmen-bleiben-gleich-a-9e490de2-f3ce-420b-8b43-0a82b3425279#ref=rss)
+* [https://www.spiegel.de/wirtschaft/staatschulden-zum-halbjahr-um-49-milliarden-euro-gestiegen](https://www.spiegel.de/wirtschaft/staatschulden-zum-halbjahr-um-49-milliarden-euro-gestiegen-a-8888cbd0-cc5c-4272-890e-d7dc79671f08#ref=rss)
+### helene
+
+* [https://www.spiegel.de/panorama/leute/helene-fischer-ueber-ihre-buehnenshow-mach-dir-keine-sorgen-mama](https://www.spiegel.de/panorama/leute/helene-fischer-ueber-ihre-buehnenshow-mach-dir-keine-sorgen-mama-a-e6ca3efa-8a85-4b43-8478-5299c6ea419e#ref=rss)
+### fischer
+
+* [https://www.spiegel.de/panorama/leute/helene-fischer-ueber-ihre-buehnenshow-mach-dir-keine-sorgen-mama](https://www.spiegel.de/panorama/leute/helene-fischer-ueber-ihre-buehnenshow-mach-dir-keine-sorgen-mama-a-e6ca3efa-8a85-4b43-8478-5299c6ea419e#ref=rss)
+### milliarden
+
+* [https://www.spiegel.de/wirtschaft/staatschulden-zum-halbjahr-um-49-milliarden-euro-gestiegen](https://www.spiegel.de/wirtschaft/staatschulden-zum-halbjahr-um-49-milliarden-euro-gestiegen-a-8888cbd0-cc5c-4272-890e-d7dc79671f08#ref=rss)
+### wirtschaft
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/konjunkturprognose-deutsche-wirtschaft-schrumpft-2023-um-0-6-prozent](https://www.spiegel.de/wirtschaft/unternehmen/konjunkturprognose-deutsche-wirtschaft-schrumpft-2023-um-0-6-prozent-a-353a8756-a6f9-4053-ba14-558e7307d023#ref=rss)
+### 06
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/konjunkturprognose-deutsche-wirtschaft-schrumpft-2023-um-0-6-prozent](https://www.spiegel.de/wirtschaft/unternehmen/konjunkturprognose-deutsche-wirtschaft-schrumpft-2023-um-0-6-prozent-a-353a8756-a6f9-4053-ba14-558e7307d023#ref=rss)
+### handel
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/immobilienkrise-in-china-handel-mit-evergrande-aktien-gestoppt](https://www.spiegel.de/wirtschaft/unternehmen/immobilienkrise-in-china-handel-mit-evergrande-aktien-gestoppt-a-f386b58d-8384-4172-9371-0d20e999bde6#ref=rss)
+### christian
+
+* [https://www.spiegel.de/kultur/musik/christian-thielemann-an-der-staatsoper-berlin-was-die-berufung-bedeutet](https://www.spiegel.de/kultur/musik/christian-thielemann-an-der-staatsoper-berlin-was-die-berufung-bedeutet-a-1c2a002d-4a9f-4221-8fa1-3ddcf8f0a7fc#ref=rss)
+### thielemann
+
+* [https://www.spiegel.de/kultur/musik/christian-thielemann-an-der-staatsoper-berlin-was-die-berufung-bedeutet](https://www.spiegel.de/kultur/musik/christian-thielemann-an-der-staatsoper-berlin-was-die-berufung-bedeutet-a-1c2a002d-4a9f-4221-8fa1-3ddcf8f0a7fc#ref=rss)
+### staatsoper
+
+* [https://www.spiegel.de/kultur/musik/christian-thielemann-an-der-staatsoper-berlin-was-die-berufung-bedeutet](https://www.spiegel.de/kultur/musik/christian-thielemann-an-der-staatsoper-berlin-was-die-berufung-bedeutet-a-1c2a002d-4a9f-4221-8fa1-3ddcf8f0a7fc#ref=rss)
+### whatsapp
+
+* [https://www.spiegel.de/netzwelt/gadgets/meta-connect-mark-zuckerberg-stellt-chatbots-und-die-quest-3-vor](https://www.spiegel.de/netzwelt/gadgets/meta-connect-mark-zuckerberg-stellt-chatbots-und-die-quest-3-vor-a-493cb708-0b3b-47d7-84ea-69b7bcbd4d17#ref=rss)
+### 50+1regel
+
+* [https://www.spiegel.de/sport/fussball/pruefung-der-50-1-regel-war-das-kartellamt-befangen](https://www.spiegel.de/sport/fussball/pruefung-der-50-1-regel-war-das-kartellamt-befangen-a-c951ddb7-6423-40a9-a44f-a7195bf3165a#ref=rss)
+### kartellamt
+
+* [https://www.spiegel.de/sport/fussball/pruefung-der-50-1-regel-war-das-kartellamt-befangen](https://www.spiegel.de/sport/fussball/pruefung-der-50-1-regel-war-das-kartellamt-befangen-a-c951ddb7-6423-40a9-a44f-a7195bf3165a#ref=rss)
+### akw
+
+* [https://www.spiegel.de/ausland/saporischschja-greenpeace-analyse-wie-russische-truppen-das-akw-nutzen](https://www.spiegel.de/ausland/saporischschja-greenpeace-analyse-wie-russische-truppen-das-akw-nutzen-a-f3377ee5-804f-4b71-be80-450fafc9ac85#ref=rss)
+### saporischschja
+
+* [https://www.spiegel.de/ausland/saporischschja-greenpeace-analyse-wie-russische-truppen-das-akw-nutzen](https://www.spiegel.de/ausland/saporischschja-greenpeace-analyse-wie-russische-truppen-das-akw-nutzen-a-f3377ee5-804f-4b71-be80-450fafc9ac85#ref=rss)
+### bergkarabach
+
+* [https://www.spiegel.de/ausland/bergkarabach-selbsternannte-republik-soll-2024-aufgeloest-werden](https://www.spiegel.de/ausland/bergkarabach-selbsternannte-republik-soll-2024-aufgeloest-werden-a-5d2225f1-387a-4e60-afe3-d92aa7566df2#ref=rss)
+### republik
+
+* [https://www.spiegel.de/ausland/bergkarabach-selbsternannte-republik-soll-2024-aufgeloest-werden](https://www.spiegel.de/ausland/bergkarabach-selbsternannte-republik-soll-2024-aufgeloest-werden-a-5d2225f1-387a-4e60-afe3-d92aa7566df2#ref=rss)
+### mexiko
+
+* [https://www.spiegel.de/panorama/justiz/drogenkrieg-in-mexiko-zerstueckelte-leichen-im-grossraum-monterrey-gefunden](https://www.spiegel.de/panorama/justiz/drogenkrieg-in-mexiko-zerstueckelte-leichen-im-grossraum-monterrey-gefunden-a-530c425b-a44a-4296-bc38-13a4d76ab953#ref=rss)
+### preis
+
+* [https://www.spiegel.de/ausland/alternativer-nobelpreis-fuer-sos-mediterranee-und-umweltorganisation-mother-nature-aus-kambodscha](https://www.spiegel.de/ausland/alternativer-nobelpreis-fuer-sos-mediterranee-und-umweltorganisation-mother-nature-aus-kambodscha-a-5c2c746a-fbbe-4430-9229-8694797f2d82#ref=rss)
+### damian
+
+* [https://www.spiegel.de/sport/basketball/nba-superstar-damian-lillard-wechselt-zu-den-milwaukee-bucks](https://www.spiegel.de/sport/basketball/nba-superstar-damian-lillard-wechselt-zu-den-milwaukee-bucks-a-ed233bee-1394-436a-9064-1c7b3650bf4b#ref=rss)
+### lillard
+
+* [https://www.spiegel.de/sport/basketball/nba-superstar-damian-lillard-wechselt-zu-den-milwaukee-bucks](https://www.spiegel.de/sport/basketball/nba-superstar-damian-lillard-wechselt-zu-den-milwaukee-bucks-a-ed233bee-1394-436a-9064-1c7b3650bf4b#ref=rss)
+### milwaukee
+
+* [https://www.spiegel.de/sport/basketball/nba-superstar-damian-lillard-wechselt-zu-den-milwaukee-bucks](https://www.spiegel.de/sport/basketball/nba-superstar-damian-lillard-wechselt-zu-den-milwaukee-bucks-a-ed233bee-1394-436a-9064-1c7b3650bf4b#ref=rss)
+### bucks
+
+* [https://www.spiegel.de/sport/basketball/nba-superstar-damian-lillard-wechselt-zu-den-milwaukee-bucks](https://www.spiegel.de/sport/basketball/nba-superstar-damian-lillard-wechselt-zu-den-milwaukee-bucks-a-ed233bee-1394-436a-9064-1c7b3650bf4b#ref=rss)
 
