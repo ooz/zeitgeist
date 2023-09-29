@@ -4,294 +4,332 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### drei
+### bergkarabach
 
-* [https://www.spiegel.de/panorama/bildung/energiehilfe-fuer-studierende-und-fachschueler-braucht-noch-jemand-200-euro](https://www.spiegel.de/panorama/bildung/energiehilfe-fuer-studierende-und-fachschueler-braucht-noch-jemand-200-euro-a-c2a09e80-1724-4ea4-83fc-00cb48e9cc50#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mannheim-bettnachbarin-das-sauerstoffgeraet-abgestellt-drei-jahre-haft](https://www.spiegel.de/panorama/justiz/mannheim-bettnachbarin-das-sauerstoffgeraet-abgestellt-drei-jahre-haft-a-86ec649e-f4f6-4f49-a092-b8fc3f36e332#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/oktoberfest-in-muenchen-hitlergruss-polizei-ermittelt-gegen-drei-maenner](https://www.spiegel.de/panorama/justiz/oktoberfest-in-muenchen-hitlergruss-polizei-ermittelt-gegen-drei-maenner-a-d209cd75-24b1-4ddb-9cff-855f605698f4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/entwicklungslaender-deutschland-steigert-klimahilfen-fuer-arme-staaten-um-eine-milliarde](https://www.spiegel.de/wirtschaft/entwicklungslaender-deutschland-steigert-klimahilfen-fuer-arme-staaten-um-eine-milliarde-a-57f672a9-f11b-4507-abeb-fe52f1df6f72#ref=rss)
-### neuen
+* [https://www.spiegel.de/ausland/chaos-in-bergkarabach-aserbaidschan-nimmt-ehemaligen-verteidigungsminister-der-region-fest](https://www.spiegel.de/ausland/chaos-in-bergkarabach-aserbaidschan-nimmt-ehemaligen-verteidigungsminister-der-region-fest-a-c56cad0f-cb51-4072-a9ff-a2d4ce059237#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-konfliktregion-bergkarabach-edeka-anton-hofreiter](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-konfliktregion-bergkarabach-edeka-anton-hofreiter-a-4fe14c76-adca-403c-afda-6d0a5f63b595#ref=rss)
+* [https://www.spiegel.de/ausland/bergkarabach-ich-bin-wuetend-auf-die-ganze-welt-die-einfach-nur-zusieht](https://www.spiegel.de/ausland/bergkarabach-ich-bin-wuetend-auf-die-ganze-welt-die-einfach-nur-zusieht-a-e3cda97b-687c-4b8f-a4dc-4a860d7c75fa#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/netzwelt/gadgets/apple-hat-das-iphone-15-ein-hitzeproblem](https://www.spiegel.de/netzwelt/gadgets/apple-hat-das-iphone-15-ein-hitzeproblem-a-bc3f206e-d625-46b4-9b5b-be9e8c78aeaa#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/deutscher-wetterdienst-der-september-steuert-auf-einen-neuen-rekord-zu](https://www.spiegel.de/wissenschaft/natur/deutscher-wetterdienst-der-september-steuert-auf-einen-neuen-rekord-zu-a-7d88cf74-ea1a-4fd4-bd2b-d1e1a123dd86#ref=rss)
-* [https://www.spiegel.de/auto/deutsche-bahn-stellt-neuen-fahrplan-vor-fahrgaeste-muessen-weiter-mit-verspaetungen-rechnen](https://www.spiegel.de/auto/deutsche-bahn-stellt-neuen-fahrplan-vor-fahrgaeste-muessen-weiter-mit-verspaetungen-rechnen-a-9888dc07-a0ac-427c-85a1-6e230667c101#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wissenschaft/natur/deutscher-wetterdienst-der-september-steuert-auf-einen-neuen-rekord-zu](https://www.spiegel.de/wissenschaft/natur/deutscher-wetterdienst-der-september-steuert-auf-einen-neuen-rekord-zu-a-7d88cf74-ea1a-4fd4-bd2b-d1e1a123dd86#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitskraeftemangel-bevoelkerung-im-erwerbsalter-sinkt-die-kommenden-20-jahre-spuerbar](https://www.spiegel.de/wirtschaft/arbeitskraeftemangel-bevoelkerung-im-erwerbsalter-sinkt-die-kommenden-20-jahre-spuerbar-a-7ba57acb-4b2f-4ea1-a442-f8b521a20369#ref=rss)
-* [https://www.spiegel.de/wirtschaft/entwicklungslaender-deutschland-steigert-klimahilfen-fuer-arme-staaten-um-eine-milliarde](https://www.spiegel.de/wirtschaft/entwicklungslaender-deutschland-steigert-klimahilfen-fuer-arme-staaten-um-eine-milliarde-a-57f672a9-f11b-4507-abeb-fe52f1df6f72#ref=rss)
-### ermittelt
-
-* [https://www.spiegel.de/wirtschaft/geldwaesche-pariser-staatsanwaltschaft-ermittelt-gegen-lvmh-chef-bernard-arnault-und-russischen-oligarchen](https://www.spiegel.de/wirtschaft/geldwaesche-pariser-staatsanwaltschaft-ermittelt-gegen-lvmh-chef-bernard-arnault-und-russischen-oligarchen-a-7bc4302f-50c6-421c-9013-9d6f1d6583c9#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/oktoberfest-in-muenchen-hitlergruss-polizei-ermittelt-gegen-drei-maenner](https://www.spiegel.de/panorama/justiz/oktoberfest-in-muenchen-hitlergruss-polizei-ermittelt-gegen-drei-maenner-a-d209cd75-24b1-4ddb-9cff-855f605698f4#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ginsheim-gustavsburg-reizstoff-in-schule-versprueht-20-schueler-leicht-verletzt](https://www.spiegel.de/panorama/justiz/ginsheim-gustavsburg-reizstoff-in-schule-versprueht-20-schueler-leicht-verletzt-a-63ddf7bd-2443-478b-860b-cc533abbd6ac#ref=rss)
-### biden
-
-* [https://www.spiegel.de/ausland/joe-biden-impeachment-nicht-mal-die-zeugen-der-republikaner-glauben-dass-die-beweise-ausreichen](https://www.spiegel.de/ausland/joe-biden-impeachment-nicht-mal-die-zeugen-der-republikaner-glauben-dass-die-beweise-ausreichen-a-d72d001b-1863-41ad-9039-24538a5ca2d0#ref=rss)
-* [https://www.spiegel.de/ausland/usa-joe-biden-warnt-vor-donald-trumps-extremistischer-ideologie](https://www.spiegel.de/ausland/usa-joe-biden-warnt-vor-donald-trumps-extremistischer-ideologie-a-42335c4b-0163-48cc-83f3-7903640065de#ref=rss)
-### wir
-
-* [https://www.spiegel.de/politik/deutschland/freie-waehler-streben-in-den-bundestag-wir-wollen-nach-berlin](https://www.spiegel.de/politik/deutschland/freie-waehler-streben-in-den-bundestag-wir-wollen-nach-berlin-a-fbbfc292-886d-4aa7-a301-a23beb4a8a4e#ref=rss)
-* [https://www.spiegel.de/psychologie/einsamkeit-ueberwinden-so-koennen-alte-wunden-heilen](https://www.spiegel.de/psychologie/einsamkeit-ueberwinden-so-koennen-alte-wunden-heilen-a-52987171-4ce8-4685-baf4-609bd23f8308#ref=rss)
-### september
-
-* [https://www.spiegel.de/wissenschaft/natur/deutscher-wetterdienst-der-september-steuert-auf-einen-neuen-rekord-zu](https://www.spiegel.de/wissenschaft/natur/deutscher-wetterdienst-der-september-steuert-auf-einen-neuen-rekord-zu-a-7d88cf74-ea1a-4fd4-bd2b-d1e1a123dd86#ref=rss)
-* [https://www.spiegel.de/ausland/news-zum-russland-ukraine-krieg-das-geschah-in-der-nacht-zu-freitag-29-september](https://www.spiegel.de/ausland/news-zum-russland-ukraine-krieg-das-geschah-in-der-nacht-zu-freitag-29-september-a-6a949b16-da68-4433-a0b9-7859e5166c60#ref=rss)
+* [https://www.spiegel.de/ausland/tunesien-inhaftierter-oppositionspolitiker-rached-ghannouchi-beginnt-hungerstreik-mit-82](https://www.spiegel.de/ausland/tunesien-inhaftierter-oppositionspolitiker-rached-ghannouchi-beginnt-hungerstreik-mit-82-a-8b95d7eb-ca60-47bb-bbbe-649db1d6fdd5#ref=rss)
+* [https://www.spiegel.de/panorama/deutschland-der-kinderreisepass-wird-abgeschafft](https://www.spiegel.de/panorama/deutschland-der-kinderreisepass-wird-abgeschafft-a-68d199b8-4dac-4e31-9f9b-6aac2e8e0c83#ref=rss)
+* [https://www.spiegel.de/kultur/musik/ed-sheeran-wilco-yeule-blush-always-die-selektion-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/ed-sheeran-wilco-yeule-blush-always-die-selektion-abgehoert-album-der-woche-a-05f9c815-7a0c-4c58-9258-69ac72f780ac#ref=rss)
+* [https://www.spiegel.de/wirtschaft/inflation-im-euroraum-in-den-niederlanden-fallen-die-preise](https://www.spiegel.de/wirtschaft/inflation-im-euroraum-in-den-niederlanden-fallen-die-preise-a-693bb791-4188-4390-adf9-09627602bdec#ref=rss)
+* [https://www.spiegel.de/ausland/dianne-feinstein-prominente-us-politikerin-ist-tot](https://www.spiegel.de/ausland/dianne-feinstein-prominente-us-politikerin-ist-tot-a-f9fe3895-42ae-420d-99ce-4eae3ae95711#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/edeka-schaltet-kartellamt-gegen-kellogg-s-ein](https://www.spiegel.de/wirtschaft/unternehmen/edeka-schaltet-kartellamt-gegen-kellogg-s-ein-a-ba3b1705-ba96-4898-9b47-5e2de4bea4ff#ref=rss)
-* [https://www.spiegel.de/auto/deutsche-bahn-stellt-neuen-fahrplan-vor-fahrgaeste-muessen-weiter-mit-verspaetungen-rechnen](https://www.spiegel.de/auto/deutsche-bahn-stellt-neuen-fahrplan-vor-fahrgaeste-muessen-weiter-mit-verspaetungen-rechnen-a-9888dc07-a0ac-427c-85a1-6e230667c101#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitskraeftemangel-bevoelkerung-im-erwerbsalter-sinkt-die-kommenden-20-jahre-spuerbar](https://www.spiegel.de/wirtschaft/arbeitskraeftemangel-bevoelkerung-im-erwerbsalter-sinkt-die-kommenden-20-jahre-spuerbar-a-7ba57acb-4b2f-4ea1-a442-f8b521a20369#ref=rss)
-### joe
+* [https://www.spiegel.de/panorama/deutschland-der-kinderreisepass-wird-abgeschafft](https://www.spiegel.de/panorama/deutschland-der-kinderreisepass-wird-abgeschafft-a-68d199b8-4dac-4e31-9f9b-6aac2e8e0c83#ref=rss)
+* [https://www.spiegel.de/kultur/musik/nsync-veroeffentlichen-ersten-song-seit-mehr-als-20-jahren](https://www.spiegel.de/kultur/musik/nsync-veroeffentlichen-ersten-song-seit-mehr-als-20-jahren-a-a6eb66e8-c482-4e71-aeb5-79b629183e25#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/abgerauscht-wie-frauen-der-weg-aus-der-sucht-gelingt-spiegel-tv-reportage](https://www.spiegel.de/panorama/gesellschaft/abgerauscht-wie-frauen-der-weg-aus-der-sucht-gelingt-spiegel-tv-reportage-a-ecb02283-ca00-4490-b6e5-6590b026df49#ref=rss)
+* [https://www.spiegel.de/ausland/dianne-feinstein-prominente-us-politikerin-ist-tot](https://www.spiegel.de/ausland/dianne-feinstein-prominente-us-politikerin-ist-tot-a-f9fe3895-42ae-420d-99ce-4eae3ae95711#ref=rss)
+### rb
 
-* [https://www.spiegel.de/ausland/joe-biden-impeachment-nicht-mal-die-zeugen-der-republikaner-glauben-dass-die-beweise-ausreichen](https://www.spiegel.de/ausland/joe-biden-impeachment-nicht-mal-die-zeugen-der-republikaner-glauben-dass-die-beweise-ausreichen-a-d72d001b-1863-41ad-9039-24538a5ca2d0#ref=rss)
-* [https://www.spiegel.de/ausland/usa-joe-biden-warnt-vor-donald-trumps-extremistischer-ideologie](https://www.spiegel.de/ausland/usa-joe-biden-warnt-vor-donald-trumps-extremistischer-ideologie-a-42335c4b-0163-48cc-83f3-7903640065de#ref=rss)
-### cduchef
+* [https://www.spiegel.de/sport/fussball/rb-leipzig-trennt-sich-von-max-eberl-der-naechste-bruch](https://www.spiegel.de/sport/fussball/rb-leipzig-trennt-sich-von-max-eberl-der-naechste-bruch-a-c6aa5313-0207-4df7-a669-6323bca0faa5#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-trennt-sich-von-max-eberl](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-trennt-sich-von-max-eberl-a-34613351-6aa3-437f-842f-569f05346e40#ref=rss)
+### leipzig
 
-* [https://www.spiegel.de/politik/deutschland/carsten-meyer-heder-bremer-cdu-chef-tritt-nach-umstrittenen-aeusserungen-zur-afd-zurueck](https://www.spiegel.de/politik/deutschland/carsten-meyer-heder-bremer-cdu-chef-tritt-nach-umstrittenen-aeusserungen-zur-afd-zurueck-a-ba7a4699-b304-4f58-ba5b-cd9ef84d3377#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-chef-friedrich-merz-er-kann-s-nicht](https://www.spiegel.de/politik/deutschland/cdu-chef-friedrich-merz-er-kann-s-nicht-a-6aadb65f-5635-4ec1-b62c-3abd54cb1e2a#ref=rss)
-### zurück
+* [https://www.spiegel.de/sport/fussball/rb-leipzig-trennt-sich-von-max-eberl-der-naechste-bruch](https://www.spiegel.de/sport/fussball/rb-leipzig-trennt-sich-von-max-eberl-der-naechste-bruch-a-c6aa5313-0207-4df7-a669-6323bca0faa5#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-trennt-sich-von-max-eberl](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-trennt-sich-von-max-eberl-a-34613351-6aa3-437f-842f-569f05346e40#ref=rss)
+### max
 
-* [https://www.spiegel.de/politik/deutschland/carsten-meyer-heder-bremer-cdu-chef-tritt-nach-umstrittenen-aeusserungen-zur-afd-zurueck](https://www.spiegel.de/politik/deutschland/carsten-meyer-heder-bremer-cdu-chef-tritt-nach-umstrittenen-aeusserungen-zur-afd-zurueck-a-ba7a4699-b304-4f58-ba5b-cd9ef84d3377#ref=rss)
-* [https://www.spiegel.de/sport/fussball/tiktok-video-ueber-victor-osimhen-ssc-neapel-bestreitet-absichtliche-verspottung](https://www.spiegel.de/sport/fussball/tiktok-video-ueber-victor-osimhen-ssc-neapel-bestreitet-absichtliche-verspottung-a-af2eed6d-89e7-4276-96a3-aeb256194c5c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ginsheim-gustavsburg-reizstoff-in-schule-versprueht-20-schueler-leicht-verletzt](https://www.spiegel.de/panorama/justiz/ginsheim-gustavsburg-reizstoff-in-schule-versprueht-20-schueler-leicht-verletzt-a-63ddf7bd-2443-478b-860b-cc533abbd6ac#ref=rss)
-### jahre
+* [https://www.spiegel.de/sport/fussball/rb-leipzig-trennt-sich-von-max-eberl-der-naechste-bruch](https://www.spiegel.de/sport/fussball/rb-leipzig-trennt-sich-von-max-eberl-der-naechste-bruch-a-c6aa5313-0207-4df7-a669-6323bca0faa5#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-trennt-sich-von-max-eberl](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-trennt-sich-von-max-eberl-a-34613351-6aa3-437f-842f-569f05346e40#ref=rss)
+### eberl
 
-* [https://www.spiegel.de/panorama/justiz/mannheim-bettnachbarin-das-sauerstoffgeraet-abgestellt-drei-jahre-haft](https://www.spiegel.de/panorama/justiz/mannheim-bettnachbarin-das-sauerstoffgeraet-abgestellt-drei-jahre-haft-a-86ec649e-f4f6-4f49-a092-b8fc3f36e332#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitskraeftemangel-bevoelkerung-im-erwerbsalter-sinkt-die-kommenden-20-jahre-spuerbar](https://www.spiegel.de/wirtschaft/arbeitskraeftemangel-bevoelkerung-im-erwerbsalter-sinkt-die-kommenden-20-jahre-spuerbar-a-7ba57acb-4b2f-4ea1-a442-f8b521a20369#ref=rss)
-* [https://www.spiegel.de/wirtschaft/entwicklungslaender-deutschland-steigert-klimahilfen-fuer-arme-staaten-um-eine-milliarde](https://www.spiegel.de/wirtschaft/entwicklungslaender-deutschland-steigert-klimahilfen-fuer-arme-staaten-um-eine-milliarde-a-57f672a9-f11b-4507-abeb-fe52f1df6f72#ref=rss)
-### polizei
+* [https://www.spiegel.de/sport/fussball/rb-leipzig-trennt-sich-von-max-eberl-der-naechste-bruch](https://www.spiegel.de/sport/fussball/rb-leipzig-trennt-sich-von-max-eberl-der-naechste-bruch-a-c6aa5313-0207-4df7-a669-6323bca0faa5#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-trennt-sich-von-max-eberl](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-trennt-sich-von-max-eberl-a-34613351-6aa3-437f-842f-569f05346e40#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/panorama/justiz/bad-emstal-14-jaehrige-tot-aufgefunden-polizei-nimmt-tatverdaechtigen-mit](https://www.spiegel.de/panorama/justiz/bad-emstal-14-jaehrige-tot-aufgefunden-polizei-nimmt-tatverdaechtigen-mit-a-4da11c34-e748-4bed-840c-6fbde9f5f404#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/oktoberfest-in-muenchen-hitlergruss-polizei-ermittelt-gegen-drei-maenner](https://www.spiegel.de/panorama/justiz/oktoberfest-in-muenchen-hitlergruss-polizei-ermittelt-gegen-drei-maenner-a-d209cd75-24b1-4ddb-9cff-855f605698f4#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ginsheim-gustavsburg-reizstoff-in-schule-versprueht-20-schueler-leicht-verletzt](https://www.spiegel.de/panorama/justiz/ginsheim-gustavsburg-reizstoff-in-schule-versprueht-20-schueler-leicht-verletzt-a-63ddf7bd-2443-478b-860b-cc533abbd6ac#ref=rss)
-### yoga
+* [https://www.spiegel.de/politik/praesident-des-zentralrats-der-juden-in-deutschland-josef-schuster-hofft-auf-regierungswechsel-in-israel](https://www.spiegel.de/politik/praesident-des-zentralrats-der-juden-in-deutschland-josef-schuster-hofft-auf-regierungswechsel-in-israel-a-cacf34be-e05d-4aee-ae0e-e6cb686e7258#ref=rss)
+* [https://www.spiegel.de/panorama/deutschland-der-kinderreisepass-wird-abgeschafft](https://www.spiegel.de/panorama/deutschland-der-kinderreisepass-wird-abgeschafft-a-68d199b8-4dac-4e31-9f9b-6aac2e8e0c83#ref=rss)
+* [https://www.spiegel.de/wirtschaft/inflation-im-euroraum-in-den-niederlanden-fallen-die-preise](https://www.spiegel.de/wirtschaft/inflation-im-euroraum-in-den-niederlanden-fallen-die-preise-a-693bb791-4188-4390-adf9-09627602bdec#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/wissenschaft/achtsamkeits-trend-was-sind-die-risiken-von-mediation-und-yoga](https://www.spiegel.de/wissenschaft/achtsamkeits-trend-was-sind-die-risiken-von-mediation-und-yoga-a-ba00dd0c-0fbd-4fb0-839e-1274476040c8#ref=rss)
-### wähler
+* [https://www.spiegel.de/ausland/schweden-warum-eskaliert-die-bandenkriminalitaet](https://www.spiegel.de/ausland/schweden-warum-eskaliert-die-bandenkriminalitaet-a-d184d038-9c9f-41b8-a08b-f1a7c90de35f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/peek-und-cloppenburg-harro-uwe-cloppenburg-stirbt-im-alter-von-82-jahren](https://www.spiegel.de/wirtschaft/peek-und-cloppenburg-harro-uwe-cloppenburg-stirbt-im-alter-von-82-jahren-a-78b963a4-dc10-46f2-8bfd-4bfb94b84ac0#ref=rss)
+* [https://www.spiegel.de/kultur/musik/nsync-veroeffentlichen-ersten-song-seit-mehr-als-20-jahren](https://www.spiegel.de/kultur/musik/nsync-veroeffentlichen-ersten-song-seit-mehr-als-20-jahren-a-a6eb66e8-c482-4e71-aeb5-79b629183e25#ref=rss)
+* [https://www.spiegel.de/ausland/dianne-feinstein-prominente-us-politikerin-ist-tot](https://www.spiegel.de/ausland/dianne-feinstein-prominente-us-politikerin-ist-tot-a-f9fe3895-42ae-420d-99ce-4eae3ae95711#ref=rss)
+### cloppenburg
 
-* [https://www.spiegel.de/politik/deutschland/freie-waehler-streben-in-den-bundestag-wir-wollen-nach-berlin](https://www.spiegel.de/politik/deutschland/freie-waehler-streben-in-den-bundestag-wir-wollen-nach-berlin-a-fbbfc292-886d-4aa7-a301-a23beb4a8a4e#ref=rss)
-### bundestag
+* [https://www.spiegel.de/wirtschaft/peek-und-cloppenburg-harro-uwe-cloppenburg-stirbt-im-alter-von-82-jahren](https://www.spiegel.de/wirtschaft/peek-und-cloppenburg-harro-uwe-cloppenburg-stirbt-im-alter-von-82-jahren-a-78b963a4-dc10-46f2-8bfd-4bfb94b84ac0#ref=rss)
+### präsident
 
-* [https://www.spiegel.de/politik/deutschland/freie-waehler-streben-in-den-bundestag-wir-wollen-nach-berlin](https://www.spiegel.de/politik/deutschland/freie-waehler-streben-in-den-bundestag-wir-wollen-nach-berlin-a-fbbfc292-886d-4aa7-a301-a23beb4a8a4e#ref=rss)
-### stehen
+* [https://www.spiegel.de/ausland/tunesien-inhaftierter-oppositionspolitiker-rached-ghannouchi-beginnt-hungerstreik-mit-82](https://www.spiegel.de/ausland/tunesien-inhaftierter-oppositionspolitiker-rached-ghannouchi-beginnt-hungerstreik-mit-82-a-8b95d7eb-ca60-47bb-bbbe-649db1d6fdd5#ref=rss)
+* [https://www.spiegel.de/politik/praesident-des-zentralrats-der-juden-in-deutschland-josef-schuster-hofft-auf-regierungswechsel-in-israel](https://www.spiegel.de/politik/praesident-des-zentralrats-der-juden-in-deutschland-josef-schuster-hofft-auf-regierungswechsel-in-israel-a-cacf34be-e05d-4aee-ae0e-e6cb686e7258#ref=rss)
+### aserbaidschan
 
-* [https://www.spiegel.de/politik/deutschland/freie-waehler-streben-in-den-bundestag-wir-wollen-nach-berlin](https://www.spiegel.de/politik/deutschland/freie-waehler-streben-in-den-bundestag-wir-wollen-nach-berlin-a-fbbfc292-886d-4aa7-a301-a23beb4a8a4e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/watzke-und-rummenigge-verteidigen-rueckkehr-russlands-im-jugendfussball](https://www.spiegel.de/sport/fussball/watzke-und-rummenigge-verteidigen-rueckkehr-russlands-im-jugendfussball-a-c80410e8-130c-4d9e-893d-75e590e719a8#ref=rss)
-### claire
+* [https://www.spiegel.de/ausland/chaos-in-bergkarabach-aserbaidschan-nimmt-ehemaligen-verteidigungsminister-der-region-fest](https://www.spiegel.de/ausland/chaos-in-bergkarabach-aserbaidschan-nimmt-ehemaligen-verteidigungsminister-der-region-fest-a-c56cad0f-cb51-4072-a9ff-a2d4ce059237#ref=rss)
+* [https://www.spiegel.de/ausland/bergkarabach-ich-bin-wuetend-auf-die-ganze-welt-die-einfach-nur-zusieht](https://www.spiegel.de/ausland/bergkarabach-ich-bin-wuetend-auf-die-ganze-welt-die-einfach-nur-zusieht-a-e3cda97b-687c-4b8f-a4dc-4a860d7c75fa#ref=rss)
+### woidke
 
-* [https://www.spiegel.de/kultur/literatur/claire-keegan-kein-wort-zu-viel](https://www.spiegel.de/kultur/literatur/claire-keegan-kein-wort-zu-viel-a-ae27ec55-6e01-4154-9fba-fdb0fdc546b9#ref=rss)
-### keegan
+* [https://www.spiegel.de/wirtschaft/tesla-dietmar-woidke-fordert-aufklaerung-und-transparenz-wegen-arbeitsunfaellen](https://www.spiegel.de/wirtschaft/tesla-dietmar-woidke-fordert-aufklaerung-und-transparenz-wegen-arbeitsunfaellen-a-5cd18d66-8941-46c6-b4e4-3a464b36acbe#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/kultur/literatur/claire-keegan-kein-wort-zu-viel](https://www.spiegel.de/kultur/literatur/claire-keegan-kein-wort-zu-viel-a-ae27ec55-6e01-4154-9fba-fdb0fdc546b9#ref=rss)
-### apple
+* [https://www.spiegel.de/wirtschaft/tesla-dietmar-woidke-fordert-aufklaerung-und-transparenz-wegen-arbeitsunfaellen](https://www.spiegel.de/wirtschaft/tesla-dietmar-woidke-fordert-aufklaerung-und-transparenz-wegen-arbeitsunfaellen-a-5cd18d66-8941-46c6-b4e4-3a464b36acbe#ref=rss)
+* [https://www.spiegel.de/ausland/elon-musk-verbreitet-verschwoerungsmythen-zu-deutschen-seenotrettern-das-auswaertige-amt-reagiert](https://www.spiegel.de/ausland/elon-musk-verbreitet-verschwoerungsmythen-zu-deutschen-seenotrettern-das-auswaertige-amt-reagiert-a-007ade80-538c-4815-b852-4b3f32bca8d5#ref=rss)
+### weg
 
-* [https://www.spiegel.de/netzwelt/gadgets/apple-hat-das-iphone-15-ein-hitzeproblem](https://www.spiegel.de/netzwelt/gadgets/apple-hat-das-iphone-15-ein-hitzeproblem-a-bc3f206e-d625-46b4-9b5b-be9e8c78aeaa#ref=rss)
-### hohe
+* [https://www.spiegel.de/sport/fussball/rb-leipzig-trennt-sich-von-max-eberl-der-naechste-bruch](https://www.spiegel.de/sport/fussball/rb-leipzig-trennt-sich-von-max-eberl-der-naechste-bruch-a-c6aa5313-0207-4df7-a669-6323bca0faa5#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/abgerauscht-wie-frauen-der-weg-aus-der-sucht-gelingt-spiegel-tv-reportage](https://www.spiegel.de/panorama/gesellschaft/abgerauscht-wie-frauen-der-weg-aus-der-sucht-gelingt-spiegel-tv-reportage-a-ecb02283-ca00-4490-b6e5-6590b026df49#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/wissenschaft/natur/deutscher-wetterdienst-der-september-steuert-auf-einen-neuen-rekord-zu](https://www.spiegel.de/wissenschaft/natur/deutscher-wetterdienst-der-september-steuert-auf-einen-neuen-rekord-zu-a-7d88cf74-ea1a-4fd4-bd2b-d1e1a123dd86#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/edeka-schaltet-kartellamt-gegen-kellogg-s-ein](https://www.spiegel.de/wirtschaft/unternehmen/edeka-schaltet-kartellamt-gegen-kellogg-s-ein-a-ba3b1705-ba96-4898-9b47-5e2de4bea4ff#ref=rss)
-### geldwäsche
+* [https://www.spiegel.de/politik/praesident-des-zentralrats-der-juden-in-deutschland-josef-schuster-hofft-auf-regierungswechsel-in-israel](https://www.spiegel.de/politik/praesident-des-zentralrats-der-juden-in-deutschland-josef-schuster-hofft-auf-regierungswechsel-in-israel-a-cacf34be-e05d-4aee-ae0e-e6cb686e7258#ref=rss)
+* [https://www.spiegel.de/ausland/schweden-warum-eskaliert-die-bandenkriminalitaet](https://www.spiegel.de/ausland/schweden-warum-eskaliert-die-bandenkriminalitaet-a-d184d038-9c9f-41b8-a08b-f1a7c90de35f#ref=rss)
+* [https://www.spiegel.de/ausland/elon-musk-verbreitet-verschwoerungsmythen-zu-deutschen-seenotrettern-das-auswaertige-amt-reagiert](https://www.spiegel.de/ausland/elon-musk-verbreitet-verschwoerungsmythen-zu-deutschen-seenotrettern-das-auswaertige-amt-reagiert-a-007ade80-538c-4815-b852-4b3f32bca8d5#ref=rss)
+### amt
 
-* [https://www.spiegel.de/wirtschaft/geldwaesche-pariser-staatsanwaltschaft-ermittelt-gegen-lvmh-chef-bernard-arnault-und-russischen-oligarchen](https://www.spiegel.de/wirtschaft/geldwaesche-pariser-staatsanwaltschaft-ermittelt-gegen-lvmh-chef-bernard-arnault-und-russischen-oligarchen-a-7bc4302f-50c6-421c-9013-9d6f1d6583c9#ref=rss)
-### pariser
+* [https://www.spiegel.de/ausland/fuehrungswechsel-bei-us-armee-generalstabschef-mark-milley-von-general-charles-q-brown-abgeloest](https://www.spiegel.de/ausland/fuehrungswechsel-bei-us-armee-generalstabschef-mark-milley-von-general-charles-q-brown-abgeloest-a-39325954-11d1-4cf4-b6e5-38c93be75d6f#ref=rss)
+* [https://www.spiegel.de/ausland/elon-musk-verbreitet-verschwoerungsmythen-zu-deutschen-seenotrettern-das-auswaertige-amt-reagiert](https://www.spiegel.de/ausland/elon-musk-verbreitet-verschwoerungsmythen-zu-deutschen-seenotrettern-das-auswaertige-amt-reagiert-a-007ade80-538c-4815-b852-4b3f32bca8d5#ref=rss)
+### new
 
-* [https://www.spiegel.de/wirtschaft/geldwaesche-pariser-staatsanwaltschaft-ermittelt-gegen-lvmh-chef-bernard-arnault-und-russischen-oligarchen](https://www.spiegel.de/wirtschaft/geldwaesche-pariser-staatsanwaltschaft-ermittelt-gegen-lvmh-chef-bernard-arnault-und-russischen-oligarchen-a-7bc4302f-50c6-421c-9013-9d6f1d6583c9#ref=rss)
-### staatsanwaltschaft
+* [https://www.spiegel.de/panorama/new-york-heftiger-regen-und-sturm-in-new-york-fuehren-zu-ueberschwemmungen](https://www.spiegel.de/panorama/new-york-heftiger-regen-und-sturm-in-new-york-fuehren-zu-ueberschwemmungen-a-8fa87940-b3a2-4aea-8e4a-d6764c0b9896#ref=rss)
+### york
 
-* [https://www.spiegel.de/wirtschaft/geldwaesche-pariser-staatsanwaltschaft-ermittelt-gegen-lvmh-chef-bernard-arnault-und-russischen-oligarchen](https://www.spiegel.de/wirtschaft/geldwaesche-pariser-staatsanwaltschaft-ermittelt-gegen-lvmh-chef-bernard-arnault-und-russischen-oligarchen-a-7bc4302f-50c6-421c-9013-9d6f1d6583c9#ref=rss)
-### bernard
+* [https://www.spiegel.de/panorama/new-york-heftiger-regen-und-sturm-in-new-york-fuehren-zu-ueberschwemmungen](https://www.spiegel.de/panorama/new-york-heftiger-regen-und-sturm-in-new-york-fuehren-zu-ueberschwemmungen-a-8fa87940-b3a2-4aea-8e4a-d6764c0b9896#ref=rss)
+### söder
 
-* [https://www.spiegel.de/wirtschaft/geldwaesche-pariser-staatsanwaltschaft-ermittelt-gegen-lvmh-chef-bernard-arnault-und-russischen-oligarchen](https://www.spiegel.de/wirtschaft/geldwaesche-pariser-staatsanwaltschaft-ermittelt-gegen-lvmh-chef-bernard-arnault-und-russischen-oligarchen-a-7bc4302f-50c6-421c-9013-9d6f1d6583c9#ref=rss)
-### arnault
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-vor-der-landtagswahl-in-bayern-der-populist-podcast-folge-2](https://www.spiegel.de/politik/deutschland/markus-soeder-vor-der-landtagswahl-in-bayern-der-populist-podcast-folge-2-a-b7af944e-5aa3-4324-984d-7329badf6816#ref=rss)
+### oppositionspolitiker
 
-* [https://www.spiegel.de/wirtschaft/geldwaesche-pariser-staatsanwaltschaft-ermittelt-gegen-lvmh-chef-bernard-arnault-und-russischen-oligarchen](https://www.spiegel.de/wirtschaft/geldwaesche-pariser-staatsanwaltschaft-ermittelt-gegen-lvmh-chef-bernard-arnault-und-russischen-oligarchen-a-7bc4302f-50c6-421c-9013-9d6f1d6583c9#ref=rss)
-### russischen
+* [https://www.spiegel.de/ausland/tunesien-inhaftierter-oppositionspolitiker-rached-ghannouchi-beginnt-hungerstreik-mit-82](https://www.spiegel.de/ausland/tunesien-inhaftierter-oppositionspolitiker-rached-ghannouchi-beginnt-hungerstreik-mit-82-a-8b95d7eb-ca60-47bb-bbbe-649db1d6fdd5#ref=rss)
+### rached
 
-* [https://www.spiegel.de/wirtschaft/geldwaesche-pariser-staatsanwaltschaft-ermittelt-gegen-lvmh-chef-bernard-arnault-und-russischen-oligarchen](https://www.spiegel.de/wirtschaft/geldwaesche-pariser-staatsanwaltschaft-ermittelt-gegen-lvmh-chef-bernard-arnault-und-russischen-oligarchen-a-7bc4302f-50c6-421c-9013-9d6f1d6583c9#ref=rss)
-### oligarchen
+* [https://www.spiegel.de/ausland/tunesien-inhaftierter-oppositionspolitiker-rached-ghannouchi-beginnt-hungerstreik-mit-82](https://www.spiegel.de/ausland/tunesien-inhaftierter-oppositionspolitiker-rached-ghannouchi-beginnt-hungerstreik-mit-82-a-8b95d7eb-ca60-47bb-bbbe-649db1d6fdd5#ref=rss)
+### ghannouchi
 
-* [https://www.spiegel.de/wirtschaft/geldwaesche-pariser-staatsanwaltschaft-ermittelt-gegen-lvmh-chef-bernard-arnault-und-russischen-oligarchen](https://www.spiegel.de/wirtschaft/geldwaesche-pariser-staatsanwaltschaft-ermittelt-gegen-lvmh-chef-bernard-arnault-und-russischen-oligarchen-a-7bc4302f-50c6-421c-9013-9d6f1d6583c9#ref=rss)
-### chef
+* [https://www.spiegel.de/ausland/tunesien-inhaftierter-oppositionspolitiker-rached-ghannouchi-beginnt-hungerstreik-mit-82](https://www.spiegel.de/ausland/tunesien-inhaftierter-oppositionspolitiker-rached-ghannouchi-beginnt-hungerstreik-mit-82-a-8b95d7eb-ca60-47bb-bbbe-649db1d6fdd5#ref=rss)
+### hungerstreik
 
-* [https://www.spiegel.de/wirtschaft/geldwaesche-pariser-staatsanwaltschaft-ermittelt-gegen-lvmh-chef-bernard-arnault-und-russischen-oligarchen](https://www.spiegel.de/wirtschaft/geldwaesche-pariser-staatsanwaltschaft-ermittelt-gegen-lvmh-chef-bernard-arnault-und-russischen-oligarchen-a-7bc4302f-50c6-421c-9013-9d6f1d6583c9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/carsten-meyer-heder-bremer-cdu-chef-tritt-nach-umstrittenen-aeusserungen-zur-afd-zurueck](https://www.spiegel.de/politik/deutschland/carsten-meyer-heder-bremer-cdu-chef-tritt-nach-umstrittenen-aeusserungen-zur-afd-zurueck-a-ba7a4699-b304-4f58-ba5b-cd9ef84d3377#ref=rss)
-### studierende
+* [https://www.spiegel.de/ausland/tunesien-inhaftierter-oppositionspolitiker-rached-ghannouchi-beginnt-hungerstreik-mit-82](https://www.spiegel.de/ausland/tunesien-inhaftierter-oppositionspolitiker-rached-ghannouchi-beginnt-hungerstreik-mit-82-a-8b95d7eb-ca60-47bb-bbbe-649db1d6fdd5#ref=rss)
+### 82
 
-* [https://www.spiegel.de/panorama/bildung/energiehilfe-fuer-studierende-und-fachschueler-braucht-noch-jemand-200-euro](https://www.spiegel.de/panorama/bildung/energiehilfe-fuer-studierende-und-fachschueler-braucht-noch-jemand-200-euro-a-c2a09e80-1724-4ea4-83fc-00cb48e9cc50#ref=rss)
-### fachschüler
+* [https://www.spiegel.de/ausland/tunesien-inhaftierter-oppositionspolitiker-rached-ghannouchi-beginnt-hungerstreik-mit-82](https://www.spiegel.de/ausland/tunesien-inhaftierter-oppositionspolitiker-rached-ghannouchi-beginnt-hungerstreik-mit-82-a-8b95d7eb-ca60-47bb-bbbe-649db1d6fdd5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/peek-und-cloppenburg-harro-uwe-cloppenburg-stirbt-im-alter-von-82-jahren](https://www.spiegel.de/wirtschaft/peek-und-cloppenburg-harro-uwe-cloppenburg-stirbt-im-alter-von-82-jahren-a-78b963a4-dc10-46f2-8bfd-4bfb94b84ac0#ref=rss)
+### nimmt
 
-* [https://www.spiegel.de/panorama/bildung/energiehilfe-fuer-studierende-und-fachschueler-braucht-noch-jemand-200-euro](https://www.spiegel.de/panorama/bildung/energiehilfe-fuer-studierende-und-fachschueler-braucht-noch-jemand-200-euro-a-c2a09e80-1724-4ea4-83fc-00cb48e9cc50#ref=rss)
-### edeka
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/edeka-schaltet-kartellamt-gegen-kellogg-s-ein](https://www.spiegel.de/wirtschaft/unternehmen/edeka-schaltet-kartellamt-gegen-kellogg-s-ein-a-ba3b1705-ba96-4898-9b47-5e2de4bea4ff#ref=rss)
-### kellogg’s
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/edeka-schaltet-kartellamt-gegen-kellogg-s-ein](https://www.spiegel.de/wirtschaft/unternehmen/edeka-schaltet-kartellamt-gegen-kellogg-s-ein-a-ba3b1705-ba96-4898-9b47-5e2de4bea4ff#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/edeka-schaltet-kartellamt-gegen-kellogg-s-ein](https://www.spiegel.de/wirtschaft/unternehmen/edeka-schaltet-kartellamt-gegen-kellogg-s-ein-a-ba3b1705-ba96-4898-9b47-5e2de4bea4ff#ref=rss)
-* [https://www.spiegel.de/auto/deutsche-bahn-stellt-neuen-fahrplan-vor-fahrgaeste-muessen-weiter-mit-verspaetungen-rechnen](https://www.spiegel.de/auto/deutsche-bahn-stellt-neuen-fahrplan-vor-fahrgaeste-muessen-weiter-mit-verspaetungen-rechnen-a-9888dc07-a0ac-427c-85a1-6e230667c101#ref=rss)
-### anton
-
-* [https://www.spiegel.de/politik/deutschland/anton-hofreiter-schickte-versehentlich-brief-an-falschen-olaf-scholz-im-kanzleramt](https://www.spiegel.de/politik/deutschland/anton-hofreiter-schickte-versehentlich-brief-an-falschen-olaf-scholz-im-kanzleramt-a-04b108f2-3e24-4b30-b466-e2beaaea6058#ref=rss)
-### hofreiter
-
-* [https://www.spiegel.de/politik/deutschland/anton-hofreiter-schickte-versehentlich-brief-an-falschen-olaf-scholz-im-kanzleramt](https://www.spiegel.de/politik/deutschland/anton-hofreiter-schickte-versehentlich-brief-an-falschen-olaf-scholz-im-kanzleramt-a-04b108f2-3e24-4b30-b466-e2beaaea6058#ref=rss)
-### olaf
-
-* [https://www.spiegel.de/politik/deutschland/anton-hofreiter-schickte-versehentlich-brief-an-falschen-olaf-scholz-im-kanzleramt](https://www.spiegel.de/politik/deutschland/anton-hofreiter-schickte-versehentlich-brief-an-falschen-olaf-scholz-im-kanzleramt-a-04b108f2-3e24-4b30-b466-e2beaaea6058#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/deutschland/anton-hofreiter-schickte-versehentlich-brief-an-falschen-olaf-scholz-im-kanzleramt](https://www.spiegel.de/politik/deutschland/anton-hofreiter-schickte-versehentlich-brief-an-falschen-olaf-scholz-im-kanzleramt-a-04b108f2-3e24-4b30-b466-e2beaaea6058#ref=rss)
-### kanzleramt
-
-* [https://www.spiegel.de/politik/deutschland/anton-hofreiter-schickte-versehentlich-brief-an-falschen-olaf-scholz-im-kanzleramt](https://www.spiegel.de/politik/deutschland/anton-hofreiter-schickte-versehentlich-brief-an-falschen-olaf-scholz-im-kanzleramt-a-04b108f2-3e24-4b30-b466-e2beaaea6058#ref=rss)
-### mann
-
-* [https://www.spiegel.de/politik/deutschland/anton-hofreiter-schickte-versehentlich-brief-an-falschen-olaf-scholz-im-kanzleramt](https://www.spiegel.de/politik/deutschland/anton-hofreiter-schickte-versehentlich-brief-an-falschen-olaf-scholz-im-kanzleramt-a-04b108f2-3e24-4b30-b466-e2beaaea6058#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bad-emstal-14-jaehrige-tot-aufgefunden-polizei-nimmt-tatverdaechtigen-mit](https://www.spiegel.de/panorama/justiz/bad-emstal-14-jaehrige-tot-aufgefunden-polizei-nimmt-tatverdaechtigen-mit-a-4da11c34-e748-4bed-840c-6fbde9f5f404#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/auto/deutsche-bahn-stellt-neuen-fahrplan-vor-fahrgaeste-muessen-weiter-mit-verspaetungen-rechnen](https://www.spiegel.de/auto/deutsche-bahn-stellt-neuen-fahrplan-vor-fahrgaeste-muessen-weiter-mit-verspaetungen-rechnen-a-9888dc07-a0ac-427c-85a1-6e230667c101#ref=rss)
-### fahrplan
-
-* [https://www.spiegel.de/auto/deutsche-bahn-stellt-neuen-fahrplan-vor-fahrgaeste-muessen-weiter-mit-verspaetungen-rechnen](https://www.spiegel.de/auto/deutsche-bahn-stellt-neuen-fahrplan-vor-fahrgaeste-muessen-weiter-mit-verspaetungen-rechnen-a-9888dc07-a0ac-427c-85a1-6e230667c101#ref=rss)
-### zahlreiche
-
-* [https://www.spiegel.de/auto/deutsche-bahn-stellt-neuen-fahrplan-vor-fahrgaeste-muessen-weiter-mit-verspaetungen-rechnen](https://www.spiegel.de/auto/deutsche-bahn-stellt-neuen-fahrplan-vor-fahrgaeste-muessen-weiter-mit-verspaetungen-rechnen-a-9888dc07-a0ac-427c-85a1-6e230667c101#ref=rss)
-* [https://www.spiegel.de/sport/ankunft-der-doping-kontrolleure-schlaegt-athleten-in-die-flucht](https://www.spiegel.de/sport/ankunft-der-doping-kontrolleure-schlaegt-athleten-in-die-flucht-a-5bca7993-928a-496b-8cc5-07d0ca45df60#ref=rss)
-### commerzbank
-
-* [https://www.spiegel.de/wirtschaft/commerzbank-verspricht-aktionaeren-milliardenausschuettung](https://www.spiegel.de/wirtschaft/commerzbank-verspricht-aktionaeren-milliardenausschuettung-a-bec78cf9-eb94-4ce7-a8a5-f99edf736bf6#ref=rss)
-### verspricht
-
-* [https://www.spiegel.de/wirtschaft/commerzbank-verspricht-aktionaeren-milliardenausschuettung](https://www.spiegel.de/wirtschaft/commerzbank-verspricht-aktionaeren-milliardenausschuettung-a-bec78cf9-eb94-4ce7-a8a5-f99edf736bf6#ref=rss)
-### erreicht
-
-* [https://www.spiegel.de/wirtschaft/commerzbank-verspricht-aktionaeren-milliardenausschuettung](https://www.spiegel.de/wirtschaft/commerzbank-verspricht-aktionaeren-milliardenausschuettung-a-bec78cf9-eb94-4ce7-a8a5-f99edf736bf6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/entwicklungslaender-deutschland-steigert-klimahilfen-fuer-arme-staaten-um-eine-milliarde](https://www.spiegel.de/wirtschaft/entwicklungslaender-deutschland-steigert-klimahilfen-fuer-arme-staaten-um-eine-milliarde-a-57f672a9-f11b-4507-abeb-fe52f1df6f72#ref=rss)
-### carsten
-
-* [https://www.spiegel.de/politik/deutschland/carsten-meyer-heder-bremer-cdu-chef-tritt-nach-umstrittenen-aeusserungen-zur-afd-zurueck](https://www.spiegel.de/politik/deutschland/carsten-meyer-heder-bremer-cdu-chef-tritt-nach-umstrittenen-aeusserungen-zur-afd-zurueck-a-ba7a4699-b304-4f58-ba5b-cd9ef84d3377#ref=rss)
-### meyerheder
-
-* [https://www.spiegel.de/politik/deutschland/carsten-meyer-heder-bremer-cdu-chef-tritt-nach-umstrittenen-aeusserungen-zur-afd-zurueck](https://www.spiegel.de/politik/deutschland/carsten-meyer-heder-bremer-cdu-chef-tritt-nach-umstrittenen-aeusserungen-zur-afd-zurueck-a-ba7a4699-b304-4f58-ba5b-cd9ef84d3377#ref=rss)
-### bremer
-
-* [https://www.spiegel.de/politik/deutschland/carsten-meyer-heder-bremer-cdu-chef-tritt-nach-umstrittenen-aeusserungen-zur-afd-zurueck](https://www.spiegel.de/politik/deutschland/carsten-meyer-heder-bremer-cdu-chef-tritt-nach-umstrittenen-aeusserungen-zur-afd-zurueck-a-ba7a4699-b304-4f58-ba5b-cd9ef84d3377#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/carsten-meyer-heder-bremer-cdu-chef-tritt-nach-umstrittenen-aeusserungen-zur-afd-zurueck](https://www.spiegel.de/politik/deutschland/carsten-meyer-heder-bremer-cdu-chef-tritt-nach-umstrittenen-aeusserungen-zur-afd-zurueck-a-ba7a4699-b304-4f58-ba5b-cd9ef84d3377#ref=rss)
-### bettnachbarin
-
-* [https://www.spiegel.de/panorama/justiz/mannheim-bettnachbarin-das-sauerstoffgeraet-abgestellt-drei-jahre-haft](https://www.spiegel.de/panorama/justiz/mannheim-bettnachbarin-das-sauerstoffgeraet-abgestellt-drei-jahre-haft-a-86ec649e-f4f6-4f49-a092-b8fc3f36e332#ref=rss)
-### sauerstoffgerät
-
-* [https://www.spiegel.de/panorama/justiz/mannheim-bettnachbarin-das-sauerstoffgeraet-abgestellt-drei-jahre-haft](https://www.spiegel.de/panorama/justiz/mannheim-bettnachbarin-das-sauerstoffgeraet-abgestellt-drei-jahre-haft-a-86ec649e-f4f6-4f49-a092-b8fc3f36e332#ref=rss)
-### haft
-
-* [https://www.spiegel.de/panorama/justiz/mannheim-bettnachbarin-das-sauerstoffgeraet-abgestellt-drei-jahre-haft](https://www.spiegel.de/panorama/justiz/mannheim-bettnachbarin-das-sauerstoffgeraet-abgestellt-drei-jahre-haft-a-86ec649e-f4f6-4f49-a092-b8fc3f36e332#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/beate-zschaepe-nsu-terroristin-soll-von-aussteigerprogramm-abgelehnt-worden-sein](https://www.spiegel.de/panorama/justiz/beate-zschaepe-nsu-terroristin-soll-von-aussteigerprogramm-abgelehnt-worden-sein-a-c0183296-ed66-43e2-818d-1827f64510e2#ref=rss)
-### versuchten
-
-* [https://www.spiegel.de/panorama/justiz/mannheim-bettnachbarin-das-sauerstoffgeraet-abgestellt-drei-jahre-haft](https://www.spiegel.de/panorama/justiz/mannheim-bettnachbarin-das-sauerstoffgeraet-abgestellt-drei-jahre-haft-a-86ec649e-f4f6-4f49-a092-b8fc3f36e332#ref=rss)
-* [https://www.spiegel.de/sport/ankunft-der-doping-kontrolleure-schlaegt-athleten-in-die-flucht](https://www.spiegel.de/sport/ankunft-der-doping-kontrolleure-schlaegt-athleten-in-die-flucht-a-5bca7993-928a-496b-8cc5-07d0ca45df60#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/panorama/justiz/mannheim-bettnachbarin-das-sauerstoffgeraet-abgestellt-drei-jahre-haft](https://www.spiegel.de/panorama/justiz/mannheim-bettnachbarin-das-sauerstoffgeraet-abgestellt-drei-jahre-haft-a-86ec649e-f4f6-4f49-a092-b8fc3f36e332#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/beate-zschaepe-nsu-terroristin-soll-von-aussteigerprogramm-abgelehnt-worden-sein](https://www.spiegel.de/panorama/justiz/beate-zschaepe-nsu-terroristin-soll-von-aussteigerprogramm-abgelehnt-worden-sein-a-c0183296-ed66-43e2-818d-1827f64510e2#ref=rss)
-### 14jährige
-
-* [https://www.spiegel.de/panorama/justiz/bad-emstal-14-jaehrige-tot-aufgefunden-polizei-nimmt-tatverdaechtigen-mit](https://www.spiegel.de/panorama/justiz/bad-emstal-14-jaehrige-tot-aufgefunden-polizei-nimmt-tatverdaechtigen-mit-a-4da11c34-e748-4bed-840c-6fbde9f5f404#ref=rss)
-### tot
-
-* [https://www.spiegel.de/panorama/justiz/bad-emstal-14-jaehrige-tot-aufgefunden-polizei-nimmt-tatverdaechtigen-mit](https://www.spiegel.de/panorama/justiz/bad-emstal-14-jaehrige-tot-aufgefunden-polizei-nimmt-tatverdaechtigen-mit-a-4da11c34-e748-4bed-840c-6fbde9f5f404#ref=rss)
-* [https://www.spiegel.de/kultur/kino/harry-potter-michael-gambon-ist-tot-der-cast-trauert](https://www.spiegel.de/kultur/kino/harry-potter-michael-gambon-ist-tot-der-cast-trauert-a-df17758a-d4a1-4d63-9ad8-4298b6d8f380#ref=rss)
+* [https://www.spiegel.de/ausland/chaos-in-bergkarabach-aserbaidschan-nimmt-ehemaligen-verteidigungsminister-der-region-fest](https://www.spiegel.de/ausland/chaos-in-bergkarabach-aserbaidschan-nimmt-ehemaligen-verteidigungsminister-der-region-fest-a-c56cad0f-cb51-4072-a9ff-a2d4ce059237#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/buergerrat-zur-ernaehrung-nimmt-arbeit-auf-ueberblick-zum-ampel-projekt](https://www.spiegel.de/politik/deutschland/buergerrat-zur-ernaehrung-nimmt-arbeit-auf-ueberblick-zum-ampel-projekt-a-aa72cd38-1e6b-45bc-bb80-465ee7196a13#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/panorama/justiz/bad-emstal-14-jaehrige-tot-aufgefunden-polizei-nimmt-tatverdaechtigen-mit](https://www.spiegel.de/panorama/justiz/bad-emstal-14-jaehrige-tot-aufgefunden-polizei-nimmt-tatverdaechtigen-mit-a-4da11c34-e748-4bed-840c-6fbde9f5f404#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/beate-zschaepe-nsu-terroristin-soll-von-aussteigerprogramm-abgelehnt-worden-sein](https://www.spiegel.de/panorama/justiz/beate-zschaepe-nsu-terroristin-soll-von-aussteigerprogramm-abgelehnt-worden-sein-a-c0183296-ed66-43e2-818d-1827f64510e2#ref=rss)
-### harry
+* [https://www.spiegel.de/ausland/chaos-in-bergkarabach-aserbaidschan-nimmt-ehemaligen-verteidigungsminister-der-region-fest](https://www.spiegel.de/ausland/chaos-in-bergkarabach-aserbaidschan-nimmt-ehemaligen-verteidigungsminister-der-region-fest-a-c56cad0f-cb51-4072-a9ff-a2d4ce059237#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bad-emstal-14-jaehrige-getoetet-verdaechtiger-fuer-die-justiz-kein-unbekannter](https://www.spiegel.de/panorama/justiz/bad-emstal-14-jaehrige-getoetet-verdaechtiger-fuer-die-justiz-kein-unbekannter-a-b64335ff-565b-43ca-9598-bb2bba46f886#ref=rss)
+### politiker
 
-* [https://www.spiegel.de/kultur/kino/harry-potter-michael-gambon-ist-tot-der-cast-trauert](https://www.spiegel.de/kultur/kino/harry-potter-michael-gambon-ist-tot-der-cast-trauert-a-df17758a-d4a1-4d63-9ad8-4298b6d8f380#ref=rss)
-### potter
+* [https://www.spiegel.de/ausland/chaos-in-bergkarabach-aserbaidschan-nimmt-ehemaligen-verteidigungsminister-der-region-fest](https://www.spiegel.de/ausland/chaos-in-bergkarabach-aserbaidschan-nimmt-ehemaligen-verteidigungsminister-der-region-fest-a-c56cad0f-cb51-4072-a9ff-a2d4ce059237#ref=rss)
+* [https://www.spiegel.de/ausland/kosovo-milan-radoicic-bekennt-sich-zu-ueberfall-auf-polizeipatrouille](https://www.spiegel.de/ausland/kosovo-milan-radoicic-bekennt-sich-zu-ueberfall-auf-polizeipatrouille-a-18cd0e0f-5ee8-442f-b1b6-a1cc6301e942#ref=rss)
+### gebracht
 
-* [https://www.spiegel.de/kultur/kino/harry-potter-michael-gambon-ist-tot-der-cast-trauert](https://www.spiegel.de/kultur/kino/harry-potter-michael-gambon-ist-tot-der-cast-trauert-a-df17758a-d4a1-4d63-9ad8-4298b6d8f380#ref=rss)
-### michael
+* [https://www.spiegel.de/ausland/chaos-in-bergkarabach-aserbaidschan-nimmt-ehemaligen-verteidigungsminister-der-region-fest](https://www.spiegel.de/ausland/chaos-in-bergkarabach-aserbaidschan-nimmt-ehemaligen-verteidigungsminister-der-region-fest-a-c56cad0f-cb51-4072-a9ff-a2d4ce059237#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-trennt-sich-von-max-eberl](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-trennt-sich-von-max-eberl-a-34613351-6aa3-437f-842f-569f05346e40#ref=rss)
+### aufklärung
 
-* [https://www.spiegel.de/kultur/kino/harry-potter-michael-gambon-ist-tot-der-cast-trauert](https://www.spiegel.de/kultur/kino/harry-potter-michael-gambon-ist-tot-der-cast-trauert-a-df17758a-d4a1-4d63-9ad8-4298b6d8f380#ref=rss)
-### gambon
+* [https://www.spiegel.de/wirtschaft/tesla-dietmar-woidke-fordert-aufklaerung-und-transparenz-wegen-arbeitsunfaellen](https://www.spiegel.de/wirtschaft/tesla-dietmar-woidke-fordert-aufklaerung-und-transparenz-wegen-arbeitsunfaellen-a-5cd18d66-8941-46c6-b4e4-3a464b36acbe#ref=rss)
+### trennt
 
-* [https://www.spiegel.de/kultur/kino/harry-potter-michael-gambon-ist-tot-der-cast-trauert](https://www.spiegel.de/kultur/kino/harry-potter-michael-gambon-ist-tot-der-cast-trauert-a-df17758a-d4a1-4d63-9ad8-4298b6d8f380#ref=rss)
-### überblick
+* [https://www.spiegel.de/sport/fussball/rb-leipzig-trennt-sich-von-max-eberl-der-naechste-bruch](https://www.spiegel.de/sport/fussball/rb-leipzig-trennt-sich-von-max-eberl-der-naechste-bruch-a-c6aa5313-0207-4df7-a669-6323bca0faa5#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-trennt-sich-von-max-eberl](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-trennt-sich-von-max-eberl-a-34613351-6aa3-437f-842f-569f05346e40#ref=rss)
+### diesem
 
-* [https://www.spiegel.de/kultur/kino/harry-potter-michael-gambon-ist-tot-der-cast-trauert](https://www.spiegel.de/kultur/kino/harry-potter-michael-gambon-ist-tot-der-cast-trauert-a-df17758a-d4a1-4d63-9ad8-4298b6d8f380#ref=rss)
-* [https://www.spiegel.de/ausland/news-zum-russland-ukraine-krieg-das-geschah-in-der-nacht-zu-freitag-29-september](https://www.spiegel.de/ausland/news-zum-russland-ukraine-krieg-das-geschah-in-der-nacht-zu-freitag-29-september-a-6a949b16-da68-4433-a0b9-7859e5166c60#ref=rss)
-### victor
+* [https://www.spiegel.de/sport/fussball/rb-leipzig-trennt-sich-von-max-eberl-der-naechste-bruch](https://www.spiegel.de/sport/fussball/rb-leipzig-trennt-sich-von-max-eberl-der-naechste-bruch-a-c6aa5313-0207-4df7-a669-6323bca0faa5#ref=rss)
+* [https://www.spiegel.de/kultur/musik/ed-sheeran-wilco-yeule-blush-always-die-selektion-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/ed-sheeran-wilco-yeule-blush-always-die-selektion-abgehoert-album-der-woche-a-05f9c815-7a0c-4c58-9258-69ac72f780ac#ref=rss)
+### wäre
 
-* [https://www.spiegel.de/sport/fussball/tiktok-video-ueber-victor-osimhen-ssc-neapel-bestreitet-absichtliche-verspottung](https://www.spiegel.de/sport/fussball/tiktok-video-ueber-victor-osimhen-ssc-neapel-bestreitet-absichtliche-verspottung-a-af2eed6d-89e7-4276-96a3-aeb256194c5c#ref=rss)
-### osimhen
+* [https://www.spiegel.de/sport/fussball/rb-leipzig-trennt-sich-von-max-eberl-der-naechste-bruch](https://www.spiegel.de/sport/fussball/rb-leipzig-trennt-sich-von-max-eberl-der-naechste-bruch-a-c6aa5313-0207-4df7-a669-6323bca0faa5#ref=rss)
+* [https://www.spiegel.de/panorama/cuxhaven-katze-lebt-offenbar-zwei-monate-mit-totem-besitzer-und-frisst-ihn-an](https://www.spiegel.de/panorama/cuxhaven-katze-lebt-offenbar-zwei-monate-mit-totem-besitzer-und-frisst-ihn-an-a-f1bf5c54-fa9f-413a-a611-7be166e559fa#ref=rss)
+### frei
 
-* [https://www.spiegel.de/sport/fussball/tiktok-video-ueber-victor-osimhen-ssc-neapel-bestreitet-absichtliche-verspottung](https://www.spiegel.de/sport/fussball/tiktok-video-ueber-victor-osimhen-ssc-neapel-bestreitet-absichtliche-verspottung-a-af2eed6d-89e7-4276-96a3-aeb256194c5c#ref=rss)
-### beate
+* [https://www.spiegel.de/sport/fussball/rb-leipzig-trennt-sich-von-max-eberl-der-naechste-bruch](https://www.spiegel.de/sport/fussball/rb-leipzig-trennt-sich-von-max-eberl-der-naechste-bruch-a-c6aa5313-0207-4df7-a669-6323bca0faa5#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-trennt-sich-von-max-eberl](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-trennt-sich-von-max-eberl-a-34613351-6aa3-437f-842f-569f05346e40#ref=rss)
+### klub
 
-* [https://www.spiegel.de/panorama/justiz/beate-zschaepe-nsu-terroristin-soll-von-aussteigerprogramm-abgelehnt-worden-sein](https://www.spiegel.de/panorama/justiz/beate-zschaepe-nsu-terroristin-soll-von-aussteigerprogramm-abgelehnt-worden-sein-a-c0183296-ed66-43e2-818d-1827f64510e2#ref=rss)
-### zschäpe
+* [https://www.spiegel.de/sport/fussball/rb-leipzig-trennt-sich-von-max-eberl-der-naechste-bruch](https://www.spiegel.de/sport/fussball/rb-leipzig-trennt-sich-von-max-eberl-der-naechste-bruch-a-c6aa5313-0207-4df7-a669-6323bca0faa5#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-trennt-sich-von-max-eberl](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-trennt-sich-von-max-eberl-a-34613351-6aa3-437f-842f-569f05346e40#ref=rss)
+### zentralrats
 
-* [https://www.spiegel.de/panorama/justiz/beate-zschaepe-nsu-terroristin-soll-von-aussteigerprogramm-abgelehnt-worden-sein](https://www.spiegel.de/panorama/justiz/beate-zschaepe-nsu-terroristin-soll-von-aussteigerprogramm-abgelehnt-worden-sein-a-c0183296-ed66-43e2-818d-1827f64510e2#ref=rss)
-### 20
+* [https://www.spiegel.de/politik/praesident-des-zentralrats-der-juden-in-deutschland-josef-schuster-hofft-auf-regierungswechsel-in-israel](https://www.spiegel.de/politik/praesident-des-zentralrats-der-juden-in-deutschland-josef-schuster-hofft-auf-regierungswechsel-in-israel-a-cacf34be-e05d-4aee-ae0e-e6cb686e7258#ref=rss)
+### juden
 
-* [https://www.spiegel.de/wirtschaft/arbeitskraeftemangel-bevoelkerung-im-erwerbsalter-sinkt-die-kommenden-20-jahre-spuerbar](https://www.spiegel.de/wirtschaft/arbeitskraeftemangel-bevoelkerung-im-erwerbsalter-sinkt-die-kommenden-20-jahre-spuerbar-a-7ba57acb-4b2f-4ea1-a442-f8b521a20369#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ginsheim-gustavsburg-reizstoff-in-schule-versprueht-20-schueler-leicht-verletzt](https://www.spiegel.de/panorama/justiz/ginsheim-gustavsburg-reizstoff-in-schule-versprueht-20-schueler-leicht-verletzt-a-63ddf7bd-2443-478b-860b-cc533abbd6ac#ref=rss)
-### gittersee
+* [https://www.spiegel.de/politik/praesident-des-zentralrats-der-juden-in-deutschland-josef-schuster-hofft-auf-regierungswechsel-in-israel](https://www.spiegel.de/politik/praesident-des-zentralrats-der-juden-in-deutschland-josef-schuster-hofft-auf-regierungswechsel-in-israel-a-cacf34be-e05d-4aee-ae0e-e6cb686e7258#ref=rss)
+### josef
 
-* [https://www.spiegel.de/kultur/gittersee-die-ddr-und-der-badestrand-der-weltgeschichte](https://www.spiegel.de/kultur/gittersee-die-ddr-und-der-badestrand-der-weltgeschichte-a-d5c27ba5-106d-4a3d-b1f6-96a16578f5a5#ref=rss)
-### friedrich
+* [https://www.spiegel.de/politik/praesident-des-zentralrats-der-juden-in-deutschland-josef-schuster-hofft-auf-regierungswechsel-in-israel](https://www.spiegel.de/politik/praesident-des-zentralrats-der-juden-in-deutschland-josef-schuster-hofft-auf-regierungswechsel-in-israel-a-cacf34be-e05d-4aee-ae0e-e6cb686e7258#ref=rss)
+### schuster
 
-* [https://www.spiegel.de/politik/deutschland/cdu-chef-friedrich-merz-er-kann-s-nicht](https://www.spiegel.de/politik/deutschland/cdu-chef-friedrich-merz-er-kann-s-nicht-a-6aadb65f-5635-4ec1-b62c-3abd54cb1e2a#ref=rss)
-### merz
+* [https://www.spiegel.de/politik/praesident-des-zentralrats-der-juden-in-deutschland-josef-schuster-hofft-auf-regierungswechsel-in-israel](https://www.spiegel.de/politik/praesident-des-zentralrats-der-juden-in-deutschland-josef-schuster-hofft-auf-regierungswechsel-in-israel-a-cacf34be-e05d-4aee-ae0e-e6cb686e7258#ref=rss)
+### hofft
 
-* [https://www.spiegel.de/politik/deutschland/cdu-chef-friedrich-merz-er-kann-s-nicht](https://www.spiegel.de/politik/deutschland/cdu-chef-friedrich-merz-er-kann-s-nicht-a-6aadb65f-5635-4ec1-b62c-3abd54cb1e2a#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/sport/fussball/watzke-und-rummenigge-verteidigen-rueckkehr-russlands-im-jugendfussball](https://www.spiegel.de/sport/fussball/watzke-und-rummenigge-verteidigen-rueckkehr-russlands-im-jugendfussball-a-c80410e8-130c-4d9e-893d-75e590e719a8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/oktoberfest-in-muenchen-hitlergruss-polizei-ermittelt-gegen-drei-maenner](https://www.spiegel.de/panorama/justiz/oktoberfest-in-muenchen-hitlergruss-polizei-ermittelt-gegen-drei-maenner-a-d209cd75-24b1-4ddb-9cff-855f605698f4#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/panorama/justiz/oktoberfest-in-muenchen-hitlergruss-polizei-ermittelt-gegen-drei-maenner](https://www.spiegel.de/panorama/justiz/oktoberfest-in-muenchen-hitlergruss-polizei-ermittelt-gegen-drei-maenner-a-d209cd75-24b1-4ddb-9cff-855f605698f4#ref=rss)
-### männer
-
-* [https://www.spiegel.de/panorama/justiz/oktoberfest-in-muenchen-hitlergruss-polizei-ermittelt-gegen-drei-maenner](https://www.spiegel.de/panorama/justiz/oktoberfest-in-muenchen-hitlergruss-polizei-ermittelt-gegen-drei-maenner-a-d209cd75-24b1-4ddb-9cff-855f605698f4#ref=rss)
-### reizstoff
-
-* [https://www.spiegel.de/panorama/justiz/ginsheim-gustavsburg-reizstoff-in-schule-versprueht-20-schueler-leicht-verletzt](https://www.spiegel.de/panorama/justiz/ginsheim-gustavsburg-reizstoff-in-schule-versprueht-20-schueler-leicht-verletzt-a-63ddf7bd-2443-478b-860b-cc533abbd6ac#ref=rss)
-### versprüht
-
-* [https://www.spiegel.de/panorama/justiz/ginsheim-gustavsburg-reizstoff-in-schule-versprueht-20-schueler-leicht-verletzt](https://www.spiegel.de/panorama/justiz/ginsheim-gustavsburg-reizstoff-in-schule-versprueht-20-schueler-leicht-verletzt-a-63ddf7bd-2443-478b-860b-cc533abbd6ac#ref=rss)
-### schüler
-
-* [https://www.spiegel.de/panorama/justiz/ginsheim-gustavsburg-reizstoff-in-schule-versprueht-20-schueler-leicht-verletzt](https://www.spiegel.de/panorama/justiz/ginsheim-gustavsburg-reizstoff-in-schule-versprueht-20-schueler-leicht-verletzt-a-63ddf7bd-2443-478b-860b-cc533abbd6ac#ref=rss)
+* [https://www.spiegel.de/politik/praesident-des-zentralrats-der-juden-in-deutschland-josef-schuster-hofft-auf-regierungswechsel-in-israel](https://www.spiegel.de/politik/praesident-des-zentralrats-der-juden-in-deutschland-josef-schuster-hofft-auf-regierungswechsel-in-israel-a-cacf34be-e05d-4aee-ae0e-e6cb686e7258#ref=rss)
 ### andere
 
-* [https://www.spiegel.de/sport/ankunft-der-doping-kontrolleure-schlaegt-athleten-in-die-flucht](https://www.spiegel.de/sport/ankunft-der-doping-kontrolleure-schlaegt-athleten-in-die-flucht-a-5bca7993-928a-496b-8cc5-07d0ca45df60#ref=rss)
-* [https://www.spiegel.de/wirtschaft/entwicklungslaender-deutschland-steigert-klimahilfen-fuer-arme-staaten-um-eine-milliarde](https://www.spiegel.de/wirtschaft/entwicklungslaender-deutschland-steigert-klimahilfen-fuer-arme-staaten-um-eine-milliarde-a-57f672a9-f11b-4507-abeb-fe52f1df6f72#ref=rss)
-### helgoland
+* [https://www.spiegel.de/politik/praesident-des-zentralrats-der-juden-in-deutschland-josef-schuster-hofft-auf-regierungswechsel-in-israel](https://www.spiegel.de/politik/praesident-des-zentralrats-der-juden-in-deutschland-josef-schuster-hofft-auf-regierungswechsel-in-israel-a-cacf34be-e05d-4aee-ae0e-e6cb686e7258#ref=rss)
+* [https://www.spiegel.de/ausland/bergkarabach-ich-bin-wuetend-auf-die-ganze-welt-die-einfach-nur-zusieht](https://www.spiegel.de/ausland/bergkarabach-ich-bin-wuetend-auf-die-ganze-welt-die-einfach-nur-zusieht-a-e3cda97b-687c-4b8f-a4dc-4a860d7c75fa#ref=rss)
+### stellt
 
-* [https://www.spiegel.de/wissenschaft/technik/helgoland-forscher-erstellen-3d-modell-von-deutschem-u-boot-wrack-uc-71](https://www.spiegel.de/wissenschaft/technik/helgoland-forscher-erstellen-3d-modell-von-deutschem-u-boot-wrack-uc-71-a-09468faf-3e6c-4bcd-9b2d-fec4b0dd2af6#ref=rss)
-### uc
+* [https://www.spiegel.de/politik/praesident-des-zentralrats-der-juden-in-deutschland-josef-schuster-hofft-auf-regierungswechsel-in-israel](https://www.spiegel.de/politik/praesident-des-zentralrats-der-juden-in-deutschland-josef-schuster-hofft-auf-regierungswechsel-in-israel-a-cacf34be-e05d-4aee-ae0e-e6cb686e7258#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-trennt-sich-von-max-eberl](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-trennt-sich-von-max-eberl-a-34613351-6aa3-437f-842f-569f05346e40#ref=rss)
+### bürgerrat
 
-* [https://www.spiegel.de/wissenschaft/technik/helgoland-forscher-erstellen-3d-modell-von-deutschem-u-boot-wrack-uc-71](https://www.spiegel.de/wissenschaft/technik/helgoland-forscher-erstellen-3d-modell-von-deutschem-u-boot-wrack-uc-71-a-09468faf-3e6c-4bcd-9b2d-fec4b0dd2af6#ref=rss)
-### 71
+* [https://www.spiegel.de/politik/deutschland/buergerrat-zur-ernaehrung-nimmt-arbeit-auf-ueberblick-zum-ampel-projekt](https://www.spiegel.de/politik/deutschland/buergerrat-zur-ernaehrung-nimmt-arbeit-auf-ueberblick-zum-ampel-projekt-a-aa72cd38-1e6b-45bc-bb80-465ee7196a13#ref=rss)
+### ersten
 
-* [https://www.spiegel.de/wissenschaft/technik/helgoland-forscher-erstellen-3d-modell-von-deutschem-u-boot-wrack-uc-71](https://www.spiegel.de/wissenschaft/technik/helgoland-forscher-erstellen-3d-modell-von-deutschem-u-boot-wrack-uc-71-a-09468faf-3e6c-4bcd-9b2d-fec4b0dd2af6#ref=rss)
-### länder
+* [https://www.spiegel.de/politik/deutschland/buergerrat-zur-ernaehrung-nimmt-arbeit-auf-ueberblick-zum-ampel-projekt](https://www.spiegel.de/politik/deutschland/buergerrat-zur-ernaehrung-nimmt-arbeit-auf-ueberblick-zum-ampel-projekt-a-aa72cd38-1e6b-45bc-bb80-465ee7196a13#ref=rss)
+* [https://www.spiegel.de/kultur/musik/nsync-veroeffentlichen-ersten-song-seit-mehr-als-20-jahren](https://www.spiegel.de/kultur/musik/nsync-veroeffentlichen-ersten-song-seit-mehr-als-20-jahren-a-a6eb66e8-c482-4e71-aeb5-79b629183e25#ref=rss)
+### mark
 
-* [https://www.spiegel.de/wirtschaft/entwicklungslaender-deutschland-steigert-klimahilfen-fuer-arme-staaten-um-eine-milliarde](https://www.spiegel.de/wirtschaft/entwicklungslaender-deutschland-steigert-klimahilfen-fuer-arme-staaten-um-eine-milliarde-a-57f672a9-f11b-4507-abeb-fe52f1df6f72#ref=rss)
-### donald
+* [https://www.spiegel.de/ausland/fuehrungswechsel-bei-us-armee-generalstabschef-mark-milley-von-general-charles-q-brown-abgeloest](https://www.spiegel.de/ausland/fuehrungswechsel-bei-us-armee-generalstabschef-mark-milley-von-general-charles-q-brown-abgeloest-a-39325954-11d1-4cf4-b6e5-38c93be75d6f#ref=rss)
+### milley
 
-* [https://www.spiegel.de/ausland/usa-joe-biden-warnt-vor-donald-trumps-extremistischer-ideologie](https://www.spiegel.de/ausland/usa-joe-biden-warnt-vor-donald-trumps-extremistischer-ideologie-a-42335c4b-0163-48cc-83f3-7903640065de#ref=rss)
-### trump
+* [https://www.spiegel.de/ausland/fuehrungswechsel-bei-us-armee-generalstabschef-mark-milley-von-general-charles-q-brown-abgeloest](https://www.spiegel.de/ausland/fuehrungswechsel-bei-us-armee-generalstabschef-mark-milley-von-general-charles-q-brown-abgeloest-a-39325954-11d1-4cf4-b6e5-38c93be75d6f#ref=rss)
+### charles
 
-* [https://www.spiegel.de/ausland/usa-joe-biden-warnt-vor-donald-trumps-extremistischer-ideologie](https://www.spiegel.de/ausland/usa-joe-biden-warnt-vor-donald-trumps-extremistischer-ideologie-a-42335c4b-0163-48cc-83f3-7903640065de#ref=rss)
+* [https://www.spiegel.de/ausland/fuehrungswechsel-bei-us-armee-generalstabschef-mark-milley-von-general-charles-q-brown-abgeloest](https://www.spiegel.de/ausland/fuehrungswechsel-bei-us-armee-generalstabschef-mark-milley-von-general-charles-q-brown-abgeloest-a-39325954-11d1-4cf4-b6e5-38c93be75d6f#ref=rss)
+### brown
+
+* [https://www.spiegel.de/ausland/fuehrungswechsel-bei-us-armee-generalstabschef-mark-milley-von-general-charles-q-brown-abgeloest](https://www.spiegel.de/ausland/fuehrungswechsel-bei-us-armee-generalstabschef-mark-milley-von-general-charles-q-brown-abgeloest-a-39325954-11d1-4cf4-b6e5-38c93be75d6f#ref=rss)
+### keinen
+
+* [https://www.spiegel.de/ausland/fuehrungswechsel-bei-us-armee-generalstabschef-mark-milley-von-general-charles-q-brown-abgeloest](https://www.spiegel.de/ausland/fuehrungswechsel-bei-us-armee-generalstabschef-mark-milley-von-general-charles-q-brown-abgeloest-a-39325954-11d1-4cf4-b6e5-38c93be75d6f#ref=rss)
+* [https://www.spiegel.de/panorama/deutschland-der-kinderreisepass-wird-abgeschafft](https://www.spiegel.de/panorama/deutschland-der-kinderreisepass-wird-abgeschafft-a-68d199b8-4dac-4e31-9f9b-6aac2e8e0c83#ref=rss)
+### land
+
+* [https://www.spiegel.de/ausland/schweden-warum-eskaliert-die-bandenkriminalitaet](https://www.spiegel.de/ausland/schweden-warum-eskaliert-die-bandenkriminalitaet-a-d184d038-9c9f-41b8-a08b-f1a7c90de35f#ref=rss)
+* [https://www.spiegel.de/ausland/kosovo-milan-radoicic-bekennt-sich-zu-ueberfall-auf-polizeipatrouille](https://www.spiegel.de/ausland/kosovo-milan-radoicic-bekennt-sich-zu-ueberfall-auf-polizeipatrouille-a-18cd0e0f-5ee8-442f-b1b6-a1cc6301e942#ref=rss)
+### elon
+
+* [https://www.spiegel.de/ausland/elon-musk-verbreitet-verschwoerungsmythen-zu-deutschen-seenotrettern-das-auswaertige-amt-reagiert](https://www.spiegel.de/ausland/elon-musk-verbreitet-verschwoerungsmythen-zu-deutschen-seenotrettern-das-auswaertige-amt-reagiert-a-007ade80-538c-4815-b852-4b3f32bca8d5#ref=rss)
+### musk
+
+* [https://www.spiegel.de/ausland/elon-musk-verbreitet-verschwoerungsmythen-zu-deutschen-seenotrettern-das-auswaertige-amt-reagiert](https://www.spiegel.de/ausland/elon-musk-verbreitet-verschwoerungsmythen-zu-deutschen-seenotrettern-das-auswaertige-amt-reagiert-a-007ade80-538c-4815-b852-4b3f32bca8d5#ref=rss)
+### auswärtige
+
+* [https://www.spiegel.de/ausland/elon-musk-verbreitet-verschwoerungsmythen-zu-deutschen-seenotrettern-das-auswaertige-amt-reagiert](https://www.spiegel.de/ausland/elon-musk-verbreitet-verschwoerungsmythen-zu-deutschen-seenotrettern-das-auswaertige-amt-reagiert-a-007ade80-538c-4815-b852-4b3f32bca8d5#ref=rss)
+### reagiert
+
+* [https://www.spiegel.de/ausland/elon-musk-verbreitet-verschwoerungsmythen-zu-deutschen-seenotrettern-das-auswaertige-amt-reagiert](https://www.spiegel.de/ausland/elon-musk-verbreitet-verschwoerungsmythen-zu-deutschen-seenotrettern-das-auswaertige-amt-reagiert-a-007ade80-538c-4815-b852-4b3f32bca8d5#ref=rss)
+### kinderreisepass
+
+* [https://www.spiegel.de/panorama/deutschland-der-kinderreisepass-wird-abgeschafft](https://www.spiegel.de/panorama/deutschland-der-kinderreisepass-wird-abgeschafft-a-68d199b8-4dac-4e31-9f9b-6aac2e8e0c83#ref=rss)
+### unter
+
+* [https://www.spiegel.de/panorama/deutschland-der-kinderreisepass-wird-abgeschafft](https://www.spiegel.de/panorama/deutschland-der-kinderreisepass-wird-abgeschafft-a-68d199b8-4dac-4e31-9f9b-6aac2e8e0c83#ref=rss)
+* [https://www.spiegel.de/panorama/new-york-heftiger-regen-und-sturm-in-new-york-fuehren-zu-ueberschwemmungen](https://www.spiegel.de/panorama/new-york-heftiger-regen-und-sturm-in-new-york-fuehren-zu-ueberschwemmungen-a-8fa87940-b3a2-4aea-8e4a-d6764c0b9896#ref=rss)
+### kommenden
+
+* [https://www.spiegel.de/panorama/deutschland-der-kinderreisepass-wird-abgeschafft](https://www.spiegel.de/panorama/deutschland-der-kinderreisepass-wird-abgeschafft-a-68d199b8-4dac-4e31-9f9b-6aac2e8e0c83#ref=rss)
+* [https://www.spiegel.de/ausland/dianne-feinstein-prominente-us-politikerin-ist-tot](https://www.spiegel.de/ausland/dianne-feinstein-prominente-us-politikerin-ist-tot-a-f9fe3895-42ae-420d-99ce-4eae3ae95711#ref=rss)
+### peek
+
+* [https://www.spiegel.de/wirtschaft/peek-und-cloppenburg-harro-uwe-cloppenburg-stirbt-im-alter-von-82-jahren](https://www.spiegel.de/wirtschaft/peek-und-cloppenburg-harro-uwe-cloppenburg-stirbt-im-alter-von-82-jahren-a-78b963a4-dc10-46f2-8bfd-4bfb94b84ac0#ref=rss)
+### harro
+
+* [https://www.spiegel.de/wirtschaft/peek-und-cloppenburg-harro-uwe-cloppenburg-stirbt-im-alter-von-82-jahren](https://www.spiegel.de/wirtschaft/peek-und-cloppenburg-harro-uwe-cloppenburg-stirbt-im-alter-von-82-jahren-a-78b963a4-dc10-46f2-8bfd-4bfb94b84ac0#ref=rss)
+### uwe
+
+* [https://www.spiegel.de/wirtschaft/peek-und-cloppenburg-harro-uwe-cloppenburg-stirbt-im-alter-von-82-jahren](https://www.spiegel.de/wirtschaft/peek-und-cloppenburg-harro-uwe-cloppenburg-stirbt-im-alter-von-82-jahren-a-78b963a4-dc10-46f2-8bfd-4bfb94b84ac0#ref=rss)
+### alter
+
+* [https://www.spiegel.de/wirtschaft/peek-und-cloppenburg-harro-uwe-cloppenburg-stirbt-im-alter-von-82-jahren](https://www.spiegel.de/wirtschaft/peek-und-cloppenburg-harro-uwe-cloppenburg-stirbt-im-alter-von-82-jahren-a-78b963a4-dc10-46f2-8bfd-4bfb94b84ac0#ref=rss)
+* [https://www.spiegel.de/ausland/dianne-feinstein-prominente-us-politikerin-ist-tot](https://www.spiegel.de/ausland/dianne-feinstein-prominente-us-politikerin-ist-tot-a-f9fe3895-42ae-420d-99ce-4eae3ae95711#ref=rss)
+### *nsync
+
+* [https://www.spiegel.de/kultur/musik/nsync-veroeffentlichen-ersten-song-seit-mehr-als-20-jahren](https://www.spiegel.de/kultur/musik/nsync-veroeffentlichen-ersten-song-seit-mehr-als-20-jahren-a-a6eb66e8-c482-4e71-aeb5-79b629183e25#ref=rss)
+### alexander
+
+* [https://www.spiegel.de/sport/tennis/alexander-zverev-besiegt-diego-schwartzmann-trotz-magenproblemen](https://www.spiegel.de/sport/tennis/alexander-zverev-besiegt-diego-schwartzmann-trotz-magenproblemen-a-201259ef-5d42-4b53-b4e6-4c81d3c5a4e9#ref=rss)
+### zverev
+
+* [https://www.spiegel.de/sport/tennis/alexander-zverev-besiegt-diego-schwartzmann-trotz-magenproblemen](https://www.spiegel.de/sport/tennis/alexander-zverev-besiegt-diego-schwartzmann-trotz-magenproblemen-a-201259ef-5d42-4b53-b4e6-4c81d3c5a4e9#ref=rss)
+### diego
+
+* [https://www.spiegel.de/sport/tennis/alexander-zverev-besiegt-diego-schwartzmann-trotz-magenproblemen](https://www.spiegel.de/sport/tennis/alexander-zverev-besiegt-diego-schwartzmann-trotz-magenproblemen-a-201259ef-5d42-4b53-b4e6-4c81d3c5a4e9#ref=rss)
+### sturm
+
+* [https://www.spiegel.de/panorama/new-york-heftiger-regen-und-sturm-in-new-york-fuehren-zu-ueberschwemmungen](https://www.spiegel.de/panorama/new-york-heftiger-regen-und-sturm-in-new-york-fuehren-zu-ueberschwemmungen-a-8fa87940-b3a2-4aea-8e4a-d6764c0b9896#ref=rss)
+### führen
+
+* [https://www.spiegel.de/panorama/new-york-heftiger-regen-und-sturm-in-new-york-fuehren-zu-ueberschwemmungen](https://www.spiegel.de/panorama/new-york-heftiger-regen-und-sturm-in-new-york-fuehren-zu-ueberschwemmungen-a-8fa87940-b3a2-4aea-8e4a-d6764c0b9896#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/abgerauscht-wie-frauen-der-weg-aus-der-sucht-gelingt-spiegel-tv-reportage](https://www.spiegel.de/panorama/gesellschaft/abgerauscht-wie-frauen-der-weg-aus-der-sucht-gelingt-spiegel-tv-reportage-a-ecb02283-ca00-4490-b6e5-6590b026df49#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/panorama/gesellschaft/abgerauscht-wie-frauen-der-weg-aus-der-sucht-gelingt-spiegel-tv-reportage](https://www.spiegel.de/panorama/gesellschaft/abgerauscht-wie-frauen-der-weg-aus-der-sucht-gelingt-spiegel-tv-reportage-a-ecb02283-ca00-4490-b6e5-6590b026df49#ref=rss)
+### sucht
+
+* [https://www.spiegel.de/panorama/gesellschaft/abgerauscht-wie-frauen-der-weg-aus-der-sucht-gelingt-spiegel-tv-reportage](https://www.spiegel.de/panorama/gesellschaft/abgerauscht-wie-frauen-der-weg-aus-der-sucht-gelingt-spiegel-tv-reportage-a-ecb02283-ca00-4490-b6e5-6590b026df49#ref=rss)
+### leben
+
+* [https://www.spiegel.de/panorama/gesellschaft/abgerauscht-wie-frauen-der-weg-aus-der-sucht-gelingt-spiegel-tv-reportage](https://www.spiegel.de/panorama/gesellschaft/abgerauscht-wie-frauen-der-weg-aus-der-sucht-gelingt-spiegel-tv-reportage-a-ecb02283-ca00-4490-b6e5-6590b026df49#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-supermarktkette-costco-bietet-goldbarren-an](https://www.spiegel.de/wirtschaft/unternehmen/usa-supermarktkette-costco-bietet-goldbarren-an-a-f8493f5a-9f3a-4f38-9a80-1db50dfa475b#ref=rss)
+### ingenieure
+
+* [https://www.spiegel.de/ausland/ukraine-ingenieure-entwickeln-maritime-kamikaze-drohne](https://www.spiegel.de/ausland/ukraine-ingenieure-entwickeln-maritime-kamikaze-drohne-a-3c374c04-7e92-476f-b3b0-f0519a3b8b7c#ref=rss)
+### maritime
+
+* [https://www.spiegel.de/ausland/ukraine-ingenieure-entwickeln-maritime-kamikaze-drohne](https://www.spiegel.de/ausland/ukraine-ingenieure-entwickeln-maritime-kamikaze-drohne-a-3c374c04-7e92-476f-b3b0-f0519a3b8b7c#ref=rss)
+### kamikazedrohne
+
+* [https://www.spiegel.de/ausland/ukraine-ingenieure-entwickeln-maritime-kamikaze-drohne](https://www.spiegel.de/ausland/ukraine-ingenieure-entwickeln-maritime-kamikaze-drohne-a-3c374c04-7e92-476f-b3b0-f0519a3b8b7c#ref=rss)
+### ed
+
+* [https://www.spiegel.de/kultur/musik/ed-sheeran-wilco-yeule-blush-always-die-selektion-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/ed-sheeran-wilco-yeule-blush-always-die-selektion-abgehoert-album-der-woche-a-05f9c815-7a0c-4c58-9258-69ac72f780ac#ref=rss)
+### sheeran
+
+* [https://www.spiegel.de/kultur/musik/ed-sheeran-wilco-yeule-blush-always-die-selektion-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/ed-sheeran-wilco-yeule-blush-always-die-selektion-abgehoert-album-der-woche-a-05f9c815-7a0c-4c58-9258-69ac72f780ac#ref=rss)
+### wilco
+
+* [https://www.spiegel.de/kultur/musik/ed-sheeran-wilco-yeule-blush-always-die-selektion-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/ed-sheeran-wilco-yeule-blush-always-die-selektion-abgehoert-album-der-woche-a-05f9c815-7a0c-4c58-9258-69ac72f780ac#ref=rss)
+### album
+
+* [https://www.spiegel.de/kultur/musik/ed-sheeran-wilco-yeule-blush-always-die-selektion-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/ed-sheeran-wilco-yeule-blush-always-die-selektion-abgehoert-album-der-woche-a-05f9c815-7a0c-4c58-9258-69ac72f780ac#ref=rss)
+### laut
+
+* [https://www.spiegel.de/panorama/justiz/bad-emstal-14-jaehrige-getoetet-verdaechtiger-fuer-die-justiz-kein-unbekannter](https://www.spiegel.de/panorama/justiz/bad-emstal-14-jaehrige-getoetet-verdaechtiger-fuer-die-justiz-kein-unbekannter-a-b64335ff-565b-43ca-9598-bb2bba46f886#ref=rss)
+* [https://www.spiegel.de/panorama/cuxhaven-katze-lebt-offenbar-zwei-monate-mit-totem-besitzer-und-frisst-ihn-an](https://www.spiegel.de/panorama/cuxhaven-katze-lebt-offenbar-zwei-monate-mit-totem-besitzer-und-frisst-ihn-an-a-f1bf5c54-fa9f-413a-a611-7be166e559fa#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/justiz/bad-emstal-14-jaehrige-getoetet-verdaechtiger-fuer-die-justiz-kein-unbekannter](https://www.spiegel.de/panorama/justiz/bad-emstal-14-jaehrige-getoetet-verdaechtiger-fuer-die-justiz-kein-unbekannter-a-b64335ff-565b-43ca-9598-bb2bba46f886#ref=rss)
+* [https://www.spiegel.de/panorama/cuxhaven-katze-lebt-offenbar-zwei-monate-mit-totem-besitzer-und-frisst-ihn-an](https://www.spiegel.de/panorama/cuxhaven-katze-lebt-offenbar-zwei-monate-mit-totem-besitzer-und-frisst-ihn-an-a-f1bf5c54-fa9f-413a-a611-7be166e559fa#ref=rss)
+### kosovo
+
+* [https://www.spiegel.de/ausland/kosovo-milan-radoicic-bekennt-sich-zu-ueberfall-auf-polizeipatrouille](https://www.spiegel.de/ausland/kosovo-milan-radoicic-bekennt-sich-zu-ueberfall-auf-polizeipatrouille-a-18cd0e0f-5ee8-442f-b1b6-a1cc6301e942#ref=rss)
+### milan
+
+* [https://www.spiegel.de/ausland/kosovo-milan-radoicic-bekennt-sich-zu-ueberfall-auf-polizeipatrouille](https://www.spiegel.de/ausland/kosovo-milan-radoicic-bekennt-sich-zu-ueberfall-auf-polizeipatrouille-a-18cd0e0f-5ee8-442f-b1b6-a1cc6301e942#ref=rss)
+### radoičić
+
+* [https://www.spiegel.de/ausland/kosovo-milan-radoicic-bekennt-sich-zu-ueberfall-auf-polizeipatrouille](https://www.spiegel.de/ausland/kosovo-milan-radoicic-bekennt-sich-zu-ueberfall-auf-polizeipatrouille-a-18cd0e0f-5ee8-442f-b1b6-a1cc6301e942#ref=rss)
+### lehrkräfte
+
+* [https://www.spiegel.de/panorama/bildung/chatgpt-und-co-an-schulen-lehrkraefte-in-ki-verantwortung](https://www.spiegel.de/panorama/bildung/chatgpt-und-co-an-schulen-lehrkraefte-in-ki-verantwortung-a-a2a2bd4f-7b13-481b-8c8a-55ed6c1a9ce9#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-konfliktregion-bergkarabach-edeka-anton-hofreiter](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-konfliktregion-bergkarabach-edeka-anton-hofreiter-a-4fe14c76-adca-403c-afda-6d0a5f63b595#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-konfliktregion-bergkarabach-edeka-anton-hofreiter](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-konfliktregion-bergkarabach-edeka-anton-hofreiter-a-4fe14c76-adca-403c-afda-6d0a5f63b595#ref=rss)
+### preise
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-konfliktregion-bergkarabach-edeka-anton-hofreiter](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-konfliktregion-bergkarabach-edeka-anton-hofreiter-a-4fe14c76-adca-403c-afda-6d0a5f63b595#ref=rss)
+* [https://www.spiegel.de/wirtschaft/inflation-im-euroraum-in-den-niederlanden-fallen-die-preise](https://www.spiegel.de/wirtschaft/inflation-im-euroraum-in-den-niederlanden-fallen-die-preise-a-693bb791-4188-4390-adf9-09627602bdec#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-trennt-sich-von-max-eberl](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-trennt-sich-von-max-eberl-a-34613351-6aa3-437f-842f-569f05346e40#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-vor-der-landtagswahl-in-bayern-der-populist-podcast-folge-2](https://www.spiegel.de/politik/deutschland/markus-soeder-vor-der-landtagswahl-in-bayern-der-populist-podcast-folge-2-a-b7af944e-5aa3-4324-984d-7329badf6816#ref=rss)
+### markus
+
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-vor-der-landtagswahl-in-bayern-der-populist-podcast-folge-2](https://www.spiegel.de/politik/deutschland/markus-soeder-vor-der-landtagswahl-in-bayern-der-populist-podcast-folge-2-a-b7af944e-5aa3-4324-984d-7329badf6816#ref=rss)
+### katze
+
+* [https://www.spiegel.de/panorama/cuxhaven-katze-lebt-offenbar-zwei-monate-mit-totem-besitzer-und-frisst-ihn-an](https://www.spiegel.de/panorama/cuxhaven-katze-lebt-offenbar-zwei-monate-mit-totem-besitzer-und-frisst-ihn-an-a-f1bf5c54-fa9f-413a-a611-7be166e559fa#ref=rss)
+### dianne
+
+* [https://www.spiegel.de/ausland/dianne-feinstein-prominente-us-politikerin-ist-tot](https://www.spiegel.de/ausland/dianne-feinstein-prominente-us-politikerin-ist-tot-a-f9fe3895-42ae-420d-99ce-4eae3ae95711#ref=rss)
+### feinstein
+
+* [https://www.spiegel.de/ausland/dianne-feinstein-prominente-us-politikerin-ist-tot](https://www.spiegel.de/ausland/dianne-feinstein-prominente-us-politikerin-ist-tot-a-f9fe3895-42ae-420d-99ce-4eae3ae95711#ref=rss)
+### costco
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-supermarktkette-costco-bietet-goldbarren-an](https://www.spiegel.de/wirtschaft/unternehmen/usa-supermarktkette-costco-bietet-goldbarren-an-a-f8493f5a-9f3a-4f38-9a80-1db50dfa475b#ref=rss)
+### bietet
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-supermarktkette-costco-bietet-goldbarren-an](https://www.spiegel.de/wirtschaft/unternehmen/usa-supermarktkette-costco-bietet-goldbarren-an-a-f8493f5a-9f3a-4f38-9a80-1db50dfa475b#ref=rss)
 
