@@ -4,264 +4,365 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### kritik
+### fc
 
-* [https://www.spiegel.de/ausland/italien-wie-giorgia-melonis-familie-in-der-politik-mitmischt](https://www.spiegel.de/ausland/italien-wie-giorgia-melonis-familie-in-der-politik-mitmischt-a-628b9d32-1840-43ee-9544-01fb188bd8e7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-kritik-an-zahnarzt-aussage-ist-schnappatmung](https://www.spiegel.de/politik/deutschland/friedrich-merz-kritik-an-zahnarzt-aussage-ist-schnappatmung-a-1f08ed20-40c4-41cd-8cf4-e1c7f15ab46a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/aktivrente-kritik-an-cdu-vorschlag-maloche-bis-zum-tod](https://www.spiegel.de/wirtschaft/soziales/aktivrente-kritik-an-cdu-vorschlag-maloche-bis-zum-tod-a-b3758572-c897-4575-8b1f-a0c834f796ea#ref=rss)
-### wichtige
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-jerome-boateng-nimmt-am-training-teil](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-jerome-boateng-nimmt-am-training-teil-a-947adee6-c646-40f6-b13a-03f7f9658a09#ref=rss)
+* [https://www.spiegel.de/sport/rb-leipzig-oliver-mintzlaff-ueber-max-eberls-aus-war-nicht-zu-retten](https://www.spiegel.de/sport/rb-leipzig-oliver-mintzlaff-ueber-max-eberls-aus-war-nicht-zu-retten-a-7fdf5b0a-f27d-45f5-8d13-c96a4c246867#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-remis-in-leipzig-geruechte-um-rueckkehr-von-jerome-boateng](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-remis-in-leipzig-geruechte-um-rueckkehr-von-jerome-boateng-a-3f17fdda-8466-4f23-af65-55462a4d2c1a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-st-pauli-nach-sieg-ueber-hertha-bsc-tabellenfuehrer](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-st-pauli-nach-sieg-ueber-hertha-bsc-tabellenfuehrer-a-202fc5bf-0313-4e39-a5a3-ba393bd2d101#ref=rss)
+### bayern
 
-* [https://www.spiegel.de/ausland/italien-wie-giorgia-melonis-familie-in-der-politik-mitmischt](https://www.spiegel.de/ausland/italien-wie-giorgia-melonis-familie-in-der-politik-mitmischt-a-628b9d32-1840-43ee-9544-01fb188bd8e7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/finanzierung-gestrichen-gedenkstaette-stalag-326-bei-guetersloh-schliesst](https://www.spiegel.de/politik/deutschland/finanzierung-gestrichen-gedenkstaette-stalag-326-bei-guetersloh-schliesst-a-95d01a4b-c1af-416b-9518-5a5a6ee13070#ref=rss)
-### ukraine
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-jerome-boateng-nimmt-am-training-teil](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-jerome-boateng-nimmt-am-training-teil-a-947adee6-c646-40f6-b13a-03f7f9658a09#ref=rss)
+* [https://www.spiegel.de/sport/rb-leipzig-oliver-mintzlaff-ueber-max-eberls-aus-war-nicht-zu-retten](https://www.spiegel.de/sport/rb-leipzig-oliver-mintzlaff-ueber-max-eberls-aus-war-nicht-zu-retten-a-7fdf5b0a-f27d-45f5-8d13-c96a4c246867#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-remis-in-leipzig-geruechte-um-rueckkehr-von-jerome-boateng](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-remis-in-leipzig-geruechte-um-rueckkehr-von-jerome-boateng-a-3f17fdda-8466-4f23-af65-55462a4d2c1a#ref=rss)
+* [https://www.spiegel.de/panorama/bayern-tierarzt-wird-von-kuh-eingequetscht-und-stirbt](https://www.spiegel.de/panorama/bayern-tierarzt-wird-von-kuh-eingequetscht-und-stirbt-a-f61963a9-81d5-4ab7-a8db-3f536da790d0#ref=rss)
+### jérôme
 
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-wladimir-putin-nutzt-annexions-jahrestag-fuer-propaganda](https://www.spiegel.de/ausland/krieg-in-der-ukraine-wladimir-putin-nutzt-annexions-jahrestag-fuer-propaganda-a-b80bbec3-ee02-4e43-b6a2-b835de2aa801#ref=rss)
-* [https://www.spiegel.de/ausland/usa-mccarthy-kuendigt-neuen-plan-gegen-shutdown-an](https://www.spiegel.de/ausland/usa-mccarthy-kuendigt-neuen-plan-gegen-shutdown-an-a-ee6ccd02-9a1e-4ae2-a3d7-43aec736c3d8#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/panzerfahren-in-sachsen-anhalt-warum-fasziniert-das-schwere-militaergeraet](https://www.spiegel.de/panorama/gesellschaft/panzerfahren-in-sachsen-anhalt-warum-fasziniert-das-schwere-militaergeraet-a-9d6607f9-58b3-43e9-a4b1-70074e759fb3#ref=rss)
-### image
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-jerome-boateng-nimmt-am-training-teil](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-jerome-boateng-nimmt-am-training-teil-a-947adee6-c646-40f6-b13a-03f7f9658a09#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-remis-in-leipzig-geruechte-um-rueckkehr-von-jerome-boateng](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-remis-in-leipzig-geruechte-um-rueckkehr-von-jerome-boateng-a-3f17fdda-8466-4f23-af65-55462a4d2c1a#ref=rss)
+### boateng
 
-* [https://www.spiegel.de/stil/gastgewerbe-warum-hat-die-gastronomie-ein-so-schlechtes-image](https://www.spiegel.de/stil/gastgewerbe-warum-hat-die-gastronomie-ein-so-schlechtes-image-a-18b07015-41c3-44d8-92c5-a9862fef0c77#ref=rss)
-* [https://www.spiegel.de/panorama/spitting-image-ausstellung-ueber-legendaere-tv-serie-in-cambridge](https://www.spiegel.de/panorama/spitting-image-ausstellung-ueber-legendaere-tv-serie-in-cambridge-a-1adf0619-3153-41ae-8370-c79b6929faed#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-jerome-boateng-nimmt-am-training-teil](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-jerome-boateng-nimmt-am-training-teil-a-947adee6-c646-40f6-b13a-03f7f9658a09#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-remis-in-leipzig-geruechte-um-rueckkehr-von-jerome-boateng](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-remis-in-leipzig-geruechte-um-rueckkehr-von-jerome-boateng-a-3f17fdda-8466-4f23-af65-55462a4d2c1a#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/ausland/kosovo-usa-und-deutschland-fordern-serbien-zur-deeskalation-auf](https://www.spiegel.de/ausland/kosovo-usa-und-deutschland-fordern-serbien-zur-deeskalation-auf-a-458b2576-3f4c-4776-9db1-0bbb65782f2c#ref=rss)
-* [https://www.spiegel.de/ausland/usa-mccarthy-kuendigt-neuen-plan-gegen-shutdown-an](https://www.spiegel.de/ausland/usa-mccarthy-kuendigt-neuen-plan-gegen-shutdown-an-a-ee6ccd02-9a1e-4ae2-a3d7-43aec736c3d8#ref=rss)
-* [https://www.spiegel.de/ausland/sri-lanka-ein-jahr-nach-dem-crash-wo-sich-china-und-die-usa-gegenueberstehen](https://www.spiegel.de/ausland/sri-lanka-ein-jahr-nach-dem-crash-wo-sich-china-und-die-usa-gegenueberstehen-a-0c0a6ff8-0758-4a03-99a2-6f5466c61360#ref=rss)
-### zeit
+* [https://www.spiegel.de/ausland/usa-feueralarm-waehrend-shutdown-verhandlungen-vorwuerfe-gegen-demokraten](https://www.spiegel.de/ausland/usa-feueralarm-waehrend-shutdown-verhandlungen-vorwuerfe-gegen-demokraten-a-e99b4dd3-0cf5-49fa-84cb-955f21d97eaf#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-russland-news-kiew-will-verteidigungsindustrie-staerken-eu-verspricht-alternativrouten-fuer-getreide](https://www.spiegel.de/ausland/ukraine-russland-news-kiew-will-verteidigungsindustrie-staerken-eu-verspricht-alternativrouten-fuer-getreide-a-452ee8e5-daa6-416a-bb29-2305ea84b977#ref=rss)
+* [https://www.spiegel.de/ausland/usa-kongress-verhindert-shutdown-aber-die-ukraine-geht-vorerst-leer-aus](https://www.spiegel.de/ausland/usa-kongress-verhindert-shutdown-aber-die-ukraine-geht-vorerst-leer-aus-a-ab11f6eb-6bde-46b7-ba7e-0c3750954d54#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/ausland/usa-mccarthy-kuendigt-neuen-plan-gegen-shutdown-an](https://www.spiegel.de/ausland/usa-mccarthy-kuendigt-neuen-plan-gegen-shutdown-an-a-ee6ccd02-9a1e-4ae2-a3d7-43aec736c3d8#ref=rss)
-* [https://www.spiegel.de/karriere/brueckentage-2024-so-verlaengern-sie-ihren-urlaub](https://www.spiegel.de/karriere/brueckentage-2024-so-verlaengern-sie-ihren-urlaub-a-825385c8-15e2-41df-99b6-ae3c487ff2c0#ref=rss)
-* [https://www.spiegel.de/panorama/vatikan-papst-franziskus-ernennt-21-neue-kardinaele](https://www.spiegel.de/panorama/vatikan-papst-franziskus-ernennt-21-neue-kardinaele-a-847af259-8424-418e-b509-81cd9b33ca18#ref=rss)
-### hoch
+* [https://www.spiegel.de/panorama/murcia-in-spanien-mindestens-sechs-tote-bei-brand-in-diskothek](https://www.spiegel.de/panorama/murcia-in-spanien-mindestens-sechs-tote-bei-brand-in-diskothek-a-ef088f8f-f70d-4e4c-b3d6-4fde90d159a1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ftx-gruender-sam-bankman-fried-vor-dem-prozess-sam-der-spieler](https://www.spiegel.de/wirtschaft/ftx-gruender-sam-bankman-fried-vor-dem-prozess-sam-der-spieler-a-1d9a5939-01f2-4e01-9ca9-50edb1ddf73b#ref=rss)
+* [https://www.spiegel.de/start/quarterlife-crisis-wie-finde-ich-meinen-platz-im-leben](https://www.spiegel.de/start/quarterlife-crisis-wie-finde-ich-meinen-platz-im-leben-a-2b1327a4-41da-4355-bd85-fa6b104d1710#ref=rss)
+### kehrt
 
-* [https://www.spiegel.de/karriere/brueckentage-2024-so-verlaengern-sie-ihren-urlaub](https://www.spiegel.de/karriere/brueckentage-2024-so-verlaengern-sie-ihren-urlaub-a-825385c8-15e2-41df-99b6-ae3c487ff2c0#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/panzerfahren-in-sachsen-anhalt-warum-fasziniert-das-schwere-militaergeraet](https://www.spiegel.de/panorama/gesellschaft/panzerfahren-in-sachsen-anhalt-warum-fasziniert-das-schwere-militaergeraet-a-9d6607f9-58b3-43e9-a4b1-70074e759fb3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-zu-migration-die-zahl-der-fluechtlinge-ist-im-moment-zu-hoch](https://www.spiegel.de/politik/deutschland/olaf-scholz-zu-migration-die-zahl-der-fluechtlinge-ist-im-moment-zu-hoch-a-31937050-45b3-42de-aa79-b24c7d723ae2#ref=rss)
-### jahr
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-jerome-boateng-nimmt-am-training-teil](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-jerome-boateng-nimmt-am-training-teil-a-947adee6-c646-40f6-b13a-03f7f9658a09#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/elke-heidenreich-ueber-valentinstag-von-richard-ford-scheitern-und-trotzdem-tapfer-sein](https://www.spiegel.de/kultur/literatur/elke-heidenreich-ueber-valentinstag-von-richard-ford-scheitern-und-trotzdem-tapfer-sein-a-17ea3f49-32cb-40eb-8b92-c824a74f526e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-remis-in-leipzig-geruechte-um-rueckkehr-von-jerome-boateng](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-remis-in-leipzig-geruechte-um-rueckkehr-von-jerome-boateng-a-3f17fdda-8466-4f23-af65-55462a4d2c1a#ref=rss)
+### zurück
 
-* [https://www.spiegel.de/karriere/brueckentage-2024-so-verlaengern-sie-ihren-urlaub](https://www.spiegel.de/karriere/brueckentage-2024-so-verlaengern-sie-ihren-urlaub-a-825385c8-15e2-41df-99b6-ae3c487ff2c0#ref=rss)
-* [https://www.spiegel.de/ausland/sri-lanka-ein-jahr-nach-dem-crash-wo-sich-china-und-die-usa-gegenueberstehen](https://www.spiegel.de/ausland/sri-lanka-ein-jahr-nach-dem-crash-wo-sich-china-und-die-usa-gegenueberstehen-a-0c0a6ff8-0758-4a03-99a2-6f5466c61360#ref=rss)
-### waren
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-jerome-boateng-nimmt-am-training-teil](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-jerome-boateng-nimmt-am-training-teil-a-947adee6-c646-40f6-b13a-03f7f9658a09#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/elke-heidenreich-ueber-valentinstag-von-richard-ford-scheitern-und-trotzdem-tapfer-sein](https://www.spiegel.de/kultur/literatur/elke-heidenreich-ueber-valentinstag-von-richard-ford-scheitern-und-trotzdem-tapfer-sein-a-17ea3f49-32cb-40eb-8b92-c824a74f526e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-remis-in-leipzig-geruechte-um-rueckkehr-von-jerome-boateng](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-remis-in-leipzig-geruechte-um-rueckkehr-von-jerome-boateng-a-3f17fdda-8466-4f23-af65-55462a4d2c1a#ref=rss)
+### ankara
 
-* [https://www.spiegel.de/ausland/israel-und-saudi-arabien-offenbar-vor-historischem-friedensabkommen](https://www.spiegel.de/ausland/israel-und-saudi-arabien-offenbar-vor-historischem-friedensabkommen-a-830e115b-ddbf-4b12-960b-d175a36a3be7#ref=rss)
-* [https://www.spiegel.de/auto/wohnmobil-hannes-camper-im-test-wir-sind-hier-bei-wuensch-dir-was](https://www.spiegel.de/auto/wohnmobil-hannes-camper-im-test-wir-sind-hier-bei-wuensch-dir-was-a-1931c522-b7e9-402b-a4e0-2db142af19f0#ref=rss)
-* [https://www.spiegel.de/panorama/spitting-image-ausstellung-ueber-legendaere-tv-serie-in-cambridge](https://www.spiegel.de/panorama/spitting-image-ausstellung-ueber-legendaere-tv-serie-in-cambridge-a-1adf0619-3153-41ae-8370-c79b6929faed#ref=rss)
-### merz
+* [https://www.spiegel.de/ausland/ankara-anschlag-im-herzen-der-hauptstadt-szenen-nach-der-explosion](https://www.spiegel.de/ausland/ankara-anschlag-im-herzen-der-hauptstadt-szenen-nach-der-explosion-a-64346a54-28b6-4cd0-8cf2-1eb75bdf231a#ref=rss)
+* [https://www.spiegel.de/ausland/ankara-mutmasslicher-anschlag-auf-tuerkisches-innenministerium](https://www.spiegel.de/ausland/ankara-mutmasslicher-anschlag-auf-tuerkisches-innenministerium-a-a2e28c01-2acc-46a7-abc5-4f8782195129#ref=rss)
+### hauptstadt
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-kritik-an-zahnarzt-aussage-ist-schnappatmung](https://www.spiegel.de/politik/deutschland/friedrich-merz-kritik-an-zahnarzt-aussage-ist-schnappatmung-a-1f08ed20-40c4-41cd-8cf4-e1c7f15ab46a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-zu-migration-die-zahl-der-fluechtlinge-ist-im-moment-zu-hoch](https://www.spiegel.de/politik/deutschland/olaf-scholz-zu-migration-die-zahl-der-fluechtlinge-ist-im-moment-zu-hoch-a-31937050-45b3-42de-aa79-b24c7d723ae2#ref=rss)
-### wir
+* [https://www.spiegel.de/ausland/ankara-anschlag-im-herzen-der-hauptstadt-szenen-nach-der-explosion](https://www.spiegel.de/ausland/ankara-anschlag-im-herzen-der-hauptstadt-szenen-nach-der-explosion-a-64346a54-28b6-4cd0-8cf2-1eb75bdf231a#ref=rss)
+* [https://www.spiegel.de/ausland/ankara-mutmasslicher-anschlag-auf-tuerkisches-innenministerium](https://www.spiegel.de/ausland/ankara-mutmasslicher-anschlag-auf-tuerkisches-innenministerium-a-a2e28c01-2acc-46a7-abc5-4f8782195129#ref=rss)
+### sam
 
-* [https://www.spiegel.de/tests/brettspiele/spiele-wie-my-island-zitrushain-oder-zank-am-zaun-fuenf-tipps-fuer-den-herbst](https://www.spiegel.de/tests/brettspiele/spiele-wie-my-island-zitrushain-oder-zank-am-zaun-fuenf-tipps-fuer-den-herbst-a-40f98659-2b39-4d28-97c6-e2e72c45ab98#ref=rss)
-* [https://www.spiegel.de/auto/wohnmobil-hannes-camper-im-test-wir-sind-hier-bei-wuensch-dir-was](https://www.spiegel.de/auto/wohnmobil-hannes-camper-im-test-wir-sind-hier-bei-wuensch-dir-was-a-1931c522-b7e9-402b-a4e0-2db142af19f0#ref=rss)
-### rhein
+* [https://www.spiegel.de/wirtschaft/ftx-gruender-sam-bankman-fried-vor-dem-prozess-sam-der-spieler](https://www.spiegel.de/wirtschaft/ftx-gruender-sam-bankman-fried-vor-dem-prozess-sam-der-spieler-a-1d9a5939-01f2-4e01-9ca9-50edb1ddf73b#ref=rss)
+### neue
 
-* [https://www.spiegel.de/panorama/gesellschaft/monheim-buergermeister-verteidigt-plaene-fuer-fluechtlingsunterkunft-auf-schulgelaende](https://www.spiegel.de/panorama/gesellschaft/monheim-buergermeister-verteidigt-plaene-fuer-fluechtlingsunterkunft-auf-schulgelaende-a-243cd132-4ede-49ff-9409-d97f15060823#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hessen-nancy-faeser-stoppt-spd-wahlvideo-ueber-cdu-kandidaten-rhein](https://www.spiegel.de/politik/deutschland/hessen-nancy-faeser-stoppt-spd-wahlvideo-ueber-cdu-kandidaten-rhein-a-4fa893b9-433e-462c-8d90-272d27202761#ref=rss)
-### giorgia
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-a-6a048298-934b-419b-a09c-d96b4e4e1209#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-russland-news-kiew-will-verteidigungsindustrie-staerken-eu-verspricht-alternativrouten-fuer-getreide](https://www.spiegel.de/ausland/ukraine-russland-news-kiew-will-verteidigungsindustrie-staerken-eu-verspricht-alternativrouten-fuer-getreide-a-452ee8e5-daa6-416a-bb29-2305ea84b977#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-und-ihre-neue-partei-promis-dringend-gesucht](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-und-ihre-neue-partei-promis-dringend-gesucht-a-aa123dfd-9dd7-41ac-a46e-c0deefbaf806#ref=rss)
+### verspricht
 
-* [https://www.spiegel.de/ausland/italien-wie-giorgia-melonis-familie-in-der-politik-mitmischt](https://www.spiegel.de/ausland/italien-wie-giorgia-melonis-familie-in-der-politik-mitmischt-a-628b9d32-1840-43ee-9544-01fb188bd8e7#ref=rss)
-### melonis
-
-* [https://www.spiegel.de/ausland/italien-wie-giorgia-melonis-familie-in-der-politik-mitmischt](https://www.spiegel.de/ausland/italien-wie-giorgia-melonis-familie-in-der-politik-mitmischt-a-628b9d32-1840-43ee-9544-01fb188bd8e7#ref=rss)
-### politik
-
-* [https://www.spiegel.de/ausland/italien-wie-giorgia-melonis-familie-in-der-politik-mitmischt](https://www.spiegel.de/ausland/italien-wie-giorgia-melonis-familie-in-der-politik-mitmischt-a-628b9d32-1840-43ee-9544-01fb188bd8e7#ref=rss)
-### öffentlich
-
-* [https://www.spiegel.de/ausland/italien-wie-giorgia-melonis-familie-in-der-politik-mitmischt](https://www.spiegel.de/ausland/italien-wie-giorgia-melonis-familie-in-der-politik-mitmischt-a-628b9d32-1840-43ee-9544-01fb188bd8e7#ref=rss)
-* [https://www.spiegel.de/ausland/argentinien-designierter-minister-empoert-mit-nazi-vergleich](https://www.spiegel.de/ausland/argentinien-designierter-minister-empoert-mit-nazi-vergleich-a-b414220b-38db-483c-8e47-cd6e0869924a#ref=rss)
-### krieg
-
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-wladimir-putin-nutzt-annexions-jahrestag-fuer-propaganda](https://www.spiegel.de/ausland/krieg-in-der-ukraine-wladimir-putin-nutzt-annexions-jahrestag-fuer-propaganda-a-b80bbec3-ee02-4e43-b6a2-b835de2aa801#ref=rss)
-* [https://www.spiegel.de/ausland/rishi-sunak-britischer-premier-sagt-tempo-20-zonen-den-kampf-an](https://www.spiegel.de/ausland/rishi-sunak-britischer-premier-sagt-tempo-20-zonen-den-kampf-an-a-82f73e5c-39e5-45bd-b102-9a167d1d2d84#ref=rss)
-### ende
-
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-wladimir-putin-nutzt-annexions-jahrestag-fuer-propaganda](https://www.spiegel.de/ausland/krieg-in-der-ukraine-wladimir-putin-nutzt-annexions-jahrestag-fuer-propaganda-a-b80bbec3-ee02-4e43-b6a2-b835de2aa801#ref=rss)
-* [https://www.spiegel.de/tests/brettspiele/spiele-wie-my-island-zitrushain-oder-zank-am-zaun-fuenf-tipps-fuer-den-herbst](https://www.spiegel.de/tests/brettspiele/spiele-wie-my-island-zitrushain-oder-zank-am-zaun-fuenf-tipps-fuer-den-herbst-a-40f98659-2b39-4d28-97c6-e2e72c45ab98#ref=rss)
-### september
-
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-wladimir-putin-nutzt-annexions-jahrestag-fuer-propaganda](https://www.spiegel.de/ausland/krieg-in-der-ukraine-wladimir-putin-nutzt-annexions-jahrestag-fuer-propaganda-a-b80bbec3-ee02-4e43-b6a2-b835de2aa801#ref=rss)
-* [https://www.spiegel.de/ausland/new-york-city-stadt-nach-starkregen-ueberflutet-das-wasser-kommt-aus-dem-boden](https://www.spiegel.de/ausland/new-york-city-stadt-nach-starkregen-ueberflutet-das-wasser-kommt-aus-dem-boden-a-bd5fd6e6-414d-499f-ab02-ff69eb076fdf#ref=rss)
-### vier
-
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-wladimir-putin-nutzt-annexions-jahrestag-fuer-propaganda](https://www.spiegel.de/ausland/krieg-in-der-ukraine-wladimir-putin-nutzt-annexions-jahrestag-fuer-propaganda-a-b80bbec3-ee02-4e43-b6a2-b835de2aa801#ref=rss)
-* [https://www.spiegel.de/panorama/burgdorf-teilnehmende-bei-volkslauf-von-hornissen-angegriffen-acht-verletzte](https://www.spiegel.de/panorama/burgdorf-teilnehmende-bei-volkslauf-von-hornissen-angegriffen-acht-verletzte-a-111c4d38-618c-4621-8018-c3c20128c96c#ref=rss)
-### reaktionen
-
-* [https://www.spiegel.de/panorama/burgdorf-teilnehmende-bei-volkslauf-von-hornissen-angegriffen-acht-verletzte](https://www.spiegel.de/panorama/burgdorf-teilnehmende-bei-volkslauf-von-hornissen-angegriffen-acht-verletzte-a-111c4d38-618c-4621-8018-c3c20128c96c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-kritik-an-zahnarzt-aussage-ist-schnappatmung](https://www.spiegel.de/politik/deutschland/friedrich-merz-kritik-an-zahnarzt-aussage-ist-schnappatmung-a-1f08ed20-40c4-41cd-8cf4-e1c7f15ab46a#ref=rss)
-### gastronomie
-
-* [https://www.spiegel.de/stil/gastgewerbe-warum-hat-die-gastronomie-ein-so-schlechtes-image](https://www.spiegel.de/stil/gastgewerbe-warum-hat-die-gastronomie-ein-so-schlechtes-image-a-18b07015-41c3-44d8-92c5-a9862fef0c77#ref=rss)
-### alles
-
-* [https://www.spiegel.de/stil/gastgewerbe-warum-hat-die-gastronomie-ein-so-schlechtes-image](https://www.spiegel.de/stil/gastgewerbe-warum-hat-die-gastronomie-ein-so-schlechtes-image-a-18b07015-41c3-44d8-92c5-a9862fef0c77#ref=rss)
-* [https://www.spiegel.de/auto/wohnmobil-hannes-camper-im-test-wir-sind-hier-bei-wuensch-dir-was](https://www.spiegel.de/auto/wohnmobil-hannes-camper-im-test-wir-sind-hier-bei-wuensch-dir-was-a-1931c522-b7e9-402b-a4e0-2db142af19f0#ref=rss)
-### kosovo
-
-* [https://www.spiegel.de/ausland/kosovo-usa-und-deutschland-fordern-serbien-zur-deeskalation-auf](https://www.spiegel.de/ausland/kosovo-usa-und-deutschland-fordern-serbien-zur-deeskalation-auf-a-458b2576-3f4c-4776-9db1-0bbb65782f2c#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/kosovo-usa-und-deutschland-fordern-serbien-zur-deeskalation-auf](https://www.spiegel.de/ausland/kosovo-usa-und-deutschland-fordern-serbien-zur-deeskalation-auf-a-458b2576-3f4c-4776-9db1-0bbb65782f2c#ref=rss)
-* [https://www.spiegel.de/ausland/argentinien-designierter-minister-empoert-mit-nazi-vergleich](https://www.spiegel.de/ausland/argentinien-designierter-minister-empoert-mit-nazi-vergleich-a-b414220b-38db-483c-8e47-cd6e0869924a#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/ausland/usa-mccarthy-kuendigt-neuen-plan-gegen-shutdown-an](https://www.spiegel.de/ausland/usa-mccarthy-kuendigt-neuen-plan-gegen-shutdown-an-a-ee6ccd02-9a1e-4ae2-a3d7-43aec736c3d8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/vfb-stuttgart-der-aerger-des-fussball-bundesligisten-um-seinen-trikotsponsor](https://www.spiegel.de/sport/fussball/vfb-stuttgart-der-aerger-des-fussball-bundesligisten-um-seinen-trikotsponsor-a-4c34aac5-6f13-432d-9c96-f26f84957067#ref=rss)
+* [https://www.spiegel.de/ausland/kosovo-fuehlt-sich-von-truppen-eingekreist-serbien-beschwichtigt](https://www.spiegel.de/ausland/kosovo-fuehlt-sich-von-truppen-eingekreist-serbien-beschwichtigt-a-7aaf9d55-2fcf-4e3e-bb95-71659bddd227#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-russland-news-kiew-will-verteidigungsindustrie-staerken-eu-verspricht-alternativrouten-fuer-getreide](https://www.spiegel.de/ausland/ukraine-russland-news-kiew-will-verteidigungsindustrie-staerken-eu-verspricht-alternativrouten-fuer-getreide-a-452ee8e5-daa6-416a-bb29-2305ea84b977#ref=rss)
 ### shutdown
 
-* [https://www.spiegel.de/ausland/usa-mccarthy-kuendigt-neuen-plan-gegen-shutdown-an](https://www.spiegel.de/ausland/usa-mccarthy-kuendigt-neuen-plan-gegen-shutdown-an-a-ee6ccd02-9a1e-4ae2-a3d7-43aec736c3d8#ref=rss)
-### knapp
+* [https://www.spiegel.de/ausland/usa-feueralarm-waehrend-shutdown-verhandlungen-vorwuerfe-gegen-demokraten](https://www.spiegel.de/ausland/usa-feueralarm-waehrend-shutdown-verhandlungen-vorwuerfe-gegen-demokraten-a-e99b4dd3-0cf5-49fa-84cb-955f21d97eaf#ref=rss)
+* [https://www.spiegel.de/ausland/usa-kongress-verhindert-shutdown-aber-die-ukraine-geht-vorerst-leer-aus](https://www.spiegel.de/ausland/usa-kongress-verhindert-shutdown-aber-die-ukraine-geht-vorerst-leer-aus-a-ab11f6eb-6bde-46b7-ba7e-0c3750954d54#ref=rss)
+### vorerst
 
-* [https://www.spiegel.de/ausland/usa-mccarthy-kuendigt-neuen-plan-gegen-shutdown-an](https://www.spiegel.de/ausland/usa-mccarthy-kuendigt-neuen-plan-gegen-shutdown-an-a-ee6ccd02-9a1e-4ae2-a3d7-43aec736c3d8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/muenchen-frau-laeuft-auf-bahngleise-wegen-navi](https://www.spiegel.de/panorama/justiz/muenchen-frau-laeuft-auf-bahngleise-wegen-navi-a-d3e976b1-c25e-4616-a839-d7f2c3347c34#ref=rss)
-### bayer
+* [https://www.spiegel.de/ausland/usa-feueralarm-waehrend-shutdown-verhandlungen-vorwuerfe-gegen-demokraten](https://www.spiegel.de/ausland/usa-feueralarm-waehrend-shutdown-verhandlungen-vorwuerfe-gegen-demokraten-a-e99b4dd3-0cf5-49fa-84cb-955f21d97eaf#ref=rss)
+* [https://www.spiegel.de/ausland/usa-kongress-verhindert-shutdown-aber-die-ukraine-geht-vorerst-leer-aus](https://www.spiegel.de/ausland/usa-kongress-verhindert-shutdown-aber-die-ukraine-geht-vorerst-leer-aus-a-ab11f6eb-6bde-46b7-ba7e-0c3750954d54#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusen-gewinnt-beim-fsv-mainz-05](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusen-gewinnt-beim-fsv-mainz-05-a-7b607289-c104-4932-9d95-14933a87a813#ref=rss)
-### leverkusen
+* [https://www.spiegel.de/kultur/tv/babylon-berlin-staffel-vier-mit-volker-bruch-im-schnellcheck](https://www.spiegel.de/kultur/tv/babylon-berlin-staffel-vier-mit-volker-bruch-im-schnellcheck-a-7d9b1977-ef23-4245-b4f5-863ca86969da#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-st-pauli-nach-sieg-ueber-hertha-bsc-tabellenfuehrer](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-st-pauli-nach-sieg-ueber-hertha-bsc-tabellenfuehrer-a-202fc5bf-0313-4e39-a5a3-ba393bd2d101#ref=rss)
+### partei
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusen-gewinnt-beim-fsv-mainz-05](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusen-gewinnt-beim-fsv-mainz-05-a-7b607289-c104-4932-9d95-14933a87a813#ref=rss)
-### mainz
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-und-ihre-neue-partei-promis-dringend-gesucht](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-und-ihre-neue-partei-promis-dringend-gesucht-a-aa123dfd-9dd7-41ac-a46e-c0deefbaf806#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-der-slowakei-liberale-partei-fortschrittliche-slowakei-siegt-bei-parlamentswahl-laut-prognosen](https://www.spiegel.de/ausland/wahl-in-der-slowakei-liberale-partei-fortschrittliche-slowakei-siegt-bei-parlamentswahl-laut-prognosen-a-b7d6543a-1ade-42b4-b8e8-77097120ac66#ref=rss)
+### slowakei
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusen-gewinnt-beim-fsv-mainz-05](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusen-gewinnt-beim-fsv-mainz-05-a-7b607289-c104-4932-9d95-14933a87a813#ref=rss)
-### mario
+* [https://www.spiegel.de/ausland/slowakei-robert-fico-und-die-linksnationale-smer-gewinnen-parlamentswahl](https://www.spiegel.de/ausland/slowakei-robert-fico-und-die-linksnationale-smer-gewinnen-parlamentswahl-a-5e3fced6-64af-4ce6-89b4-286d085a82ca#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-der-slowakei-liberale-partei-fortschrittliche-slowakei-siegt-bei-parlamentswahl-laut-prognosen](https://www.spiegel.de/ausland/wahl-in-der-slowakei-liberale-partei-fortschrittliche-slowakei-siegt-bei-parlamentswahl-laut-prognosen-a-b7d6543a-1ade-42b4-b8e8-77097120ac66#ref=rss)
+### fico
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusen-gewinnt-beim-fsv-mainz-05](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusen-gewinnt-beim-fsv-mainz-05-a-7b607289-c104-4932-9d95-14933a87a813#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/panzerfahren-in-sachsen-anhalt-warum-fasziniert-das-schwere-militaergeraet](https://www.spiegel.de/panorama/gesellschaft/panzerfahren-in-sachsen-anhalt-warum-fasziniert-das-schwere-militaergeraet-a-9d6607f9-58b3-43e9-a4b1-70074e759fb3#ref=rss)
-### a5
+* [https://www.spiegel.de/ausland/slowakei-robert-fico-und-die-linksnationale-smer-gewinnen-parlamentswahl](https://www.spiegel.de/ausland/slowakei-robert-fico-und-die-linksnationale-smer-gewinnen-parlamentswahl-a-5e3fced6-64af-4ce6-89b4-286d085a82ca#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-der-slowakei-liberale-partei-fortschrittliche-slowakei-siegt-bei-parlamentswahl-laut-prognosen](https://www.spiegel.de/ausland/wahl-in-der-slowakei-liberale-partei-fortschrittliche-slowakei-siegt-bei-parlamentswahl-laut-prognosen-a-b7d6543a-1ade-42b4-b8e8-77097120ac66#ref=rss)
+### jimmy
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/a5-wochenlanger-fahrerstreik-auf-autobahnraststaette-beendet](https://www.spiegel.de/wirtschaft/unternehmen/a5-wochenlanger-fahrerstreik-auf-autobahnraststaette-beendet-a-a75f194f-4498-4d93-8bf2-2b11cc469a3e#ref=rss)
-### zwei
+* [https://www.spiegel.de/ausland/jimmy-carter-feiert-99-geburtstag-zaeh-wie-eine-suedstaaten-eiche](https://www.spiegel.de/ausland/jimmy-carter-feiert-99-geburtstag-zaeh-wie-eine-suedstaaten-eiche-a-f32f6829-ad4e-42c8-934a-6d9414064f23#ref=rss)
+### carter
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/a5-wochenlanger-fahrerstreik-auf-autobahnraststaette-beendet](https://www.spiegel.de/wirtschaft/unternehmen/a5-wochenlanger-fahrerstreik-auf-autobahnraststaette-beendet-a-a75f194f-4498-4d93-8bf2-2b11cc469a3e#ref=rss)
-* [https://www.spiegel.de/panorama/vatikan-papst-franziskus-ernennt-21-neue-kardinaele](https://www.spiegel.de/panorama/vatikan-papst-franziskus-ernennt-21-neue-kardinaele-a-847af259-8424-418e-b509-81cd9b33ca18#ref=rss)
-### lissabon
+* [https://www.spiegel.de/ausland/jimmy-carter-feiert-99-geburtstag-zaeh-wie-eine-suedstaaten-eiche](https://www.spiegel.de/ausland/jimmy-carter-feiert-99-geburtstag-zaeh-wie-eine-suedstaaten-eiche-a-f32f6829-ad4e-42c8-934a-6d9414064f23#ref=rss)
+### große
 
-* [https://www.spiegel.de/reise/lissabon-und-der-fado-sie-singen-von-liebe-und-schmerz-und-davon-wie-man-darueber-hinauskommt](https://www.spiegel.de/reise/lissabon-und-der-fado-sie-singen-von-liebe-und-schmerz-und-davon-wie-man-darueber-hinauskommt-a-cafab3f4-1afc-4d93-80ec-5284448991df#ref=rss)
-### fado
+* [https://www.spiegel.de/ausland/jimmy-carter-feiert-99-geburtstag-zaeh-wie-eine-suedstaaten-eiche](https://www.spiegel.de/ausland/jimmy-carter-feiert-99-geburtstag-zaeh-wie-eine-suedstaaten-eiche-a-f32f6829-ad4e-42c8-934a-6d9414064f23#ref=rss)
+* [https://www.spiegel.de/panorama/carolina-reapers-kanadier-bricht-weltrekord-im-schaerfste-chili-essen](https://www.spiegel.de/panorama/carolina-reapers-kanadier-bricht-weltrekord-im-schaerfste-chili-essen-a-965b0eab-39cb-4f09-9fd8-f1223d60bfd1#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/reise/lissabon-und-der-fado-sie-singen-von-liebe-und-schmerz-und-davon-wie-man-darueber-hinauskommt](https://www.spiegel.de/reise/lissabon-und-der-fado-sie-singen-von-liebe-und-schmerz-und-davon-wie-man-darueber-hinauskommt-a-cafab3f4-1afc-4d93-80ec-5284448991df#ref=rss)
-### frau
+* [https://www.spiegel.de/ausland/jimmy-carter-feiert-99-geburtstag-zaeh-wie-eine-suedstaaten-eiche](https://www.spiegel.de/ausland/jimmy-carter-feiert-99-geburtstag-zaeh-wie-eine-suedstaaten-eiche-a-f32f6829-ad4e-42c8-934a-6d9414064f23#ref=rss)
+* [https://www.spiegel.de/panorama/brasilien-delfine-treiben-tot-im-amazonas-wegen-enormer-hitze](https://www.spiegel.de/panorama/brasilien-delfine-treiben-tot-im-amazonas-wegen-enormer-hitze-a-c2dd37c8-239f-4708-b09b-d5ad8b913a5b#ref=rss)
+### joe
 
-* [https://www.spiegel.de/reise/lissabon-und-der-fado-sie-singen-von-liebe-und-schmerz-und-davon-wie-man-darueber-hinauskommt](https://www.spiegel.de/reise/lissabon-und-der-fado-sie-singen-von-liebe-und-schmerz-und-davon-wie-man-darueber-hinauskommt-a-cafab3f4-1afc-4d93-80ec-5284448991df#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/muenchen-frau-laeuft-auf-bahngleise-wegen-navi](https://www.spiegel.de/panorama/justiz/muenchen-frau-laeuft-auf-bahngleise-wegen-navi-a-d3e976b1-c25e-4616-a839-d7f2c3347c34#ref=rss)
-### israel
+* [https://www.spiegel.de/ausland/jimmy-carter-feiert-99-geburtstag-zaeh-wie-eine-suedstaaten-eiche](https://www.spiegel.de/ausland/jimmy-carter-feiert-99-geburtstag-zaeh-wie-eine-suedstaaten-eiche-a-f32f6829-ad4e-42c8-934a-6d9414064f23#ref=rss)
+* [https://www.spiegel.de/ausland/usa-kongress-verhindert-shutdown-aber-die-ukraine-geht-vorerst-leer-aus](https://www.spiegel.de/ausland/usa-kongress-verhindert-shutdown-aber-die-ukraine-geht-vorerst-leer-aus-a-ab11f6eb-6bde-46b7-ba7e-0c3750954d54#ref=rss)
+### murcia
 
-* [https://www.spiegel.de/ausland/israel-und-saudi-arabien-offenbar-vor-historischem-friedensabkommen](https://www.spiegel.de/ausland/israel-und-saudi-arabien-offenbar-vor-historischem-friedensabkommen-a-830e115b-ddbf-4b12-960b-d175a36a3be7#ref=rss)
-### saudiarabien
+* [https://www.spiegel.de/panorama/murcia-in-spanien-mindestens-sechs-tote-bei-brand-in-diskothek](https://www.spiegel.de/panorama/murcia-in-spanien-mindestens-sechs-tote-bei-brand-in-diskothek-a-ef088f8f-f70d-4e4c-b3d6-4fde90d159a1#ref=rss)
+### sechs
 
-* [https://www.spiegel.de/ausland/israel-und-saudi-arabien-offenbar-vor-historischem-friedensabkommen](https://www.spiegel.de/ausland/israel-und-saudi-arabien-offenbar-vor-historischem-friedensabkommen-a-830e115b-ddbf-4b12-960b-d175a36a3be7#ref=rss)
+* [https://www.spiegel.de/panorama/murcia-in-spanien-mindestens-sechs-tote-bei-brand-in-diskothek](https://www.spiegel.de/panorama/murcia-in-spanien-mindestens-sechs-tote-bei-brand-in-diskothek-a-ef088f8f-f70d-4e4c-b3d6-4fde90d159a1#ref=rss)
+### tote
+
+* [https://www.spiegel.de/panorama/murcia-in-spanien-mindestens-sechs-tote-bei-brand-in-diskothek](https://www.spiegel.de/panorama/murcia-in-spanien-mindestens-sechs-tote-bei-brand-in-diskothek-a-ef088f8f-f70d-4e4c-b3d6-4fde90d159a1#ref=rss)
+* [https://www.spiegel.de/panorama/brasilien-delfine-treiben-tot-im-amazonas-wegen-enormer-hitze](https://www.spiegel.de/panorama/brasilien-delfine-treiben-tot-im-amazonas-wegen-enormer-hitze-a-c2dd37c8-239f-4708-b09b-d5ad8b913a5b#ref=rss)
+### diskothek
+
+* [https://www.spiegel.de/panorama/murcia-in-spanien-mindestens-sechs-tote-bei-brand-in-diskothek](https://www.spiegel.de/panorama/murcia-in-spanien-mindestens-sechs-tote-bei-brand-in-diskothek-a-ef088f8f-f70d-4e4c-b3d6-4fde90d159a1#ref=rss)
+### besuch
+
+* [https://www.spiegel.de/panorama/murcia-in-spanien-mindestens-sechs-tote-bei-brand-in-diskothek](https://www.spiegel.de/panorama/murcia-in-spanien-mindestens-sechs-tote-bei-brand-in-diskothek-a-ef088f8f-f70d-4e4c-b3d6-4fde90d159a1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ftx-gruender-sam-bankman-fried-vor-dem-prozess-sam-der-spieler](https://www.spiegel.de/wirtschaft/ftx-gruender-sam-bankman-fried-vor-dem-prozess-sam-der-spieler-a-1d9a5939-01f2-4e01-9ca9-50edb1ddf73b#ref=rss)
+### leben
+
+* [https://www.spiegel.de/panorama/murcia-in-spanien-mindestens-sechs-tote-bei-brand-in-diskothek](https://www.spiegel.de/panorama/murcia-in-spanien-mindestens-sechs-tote-bei-brand-in-diskothek-a-ef088f8f-f70d-4e4c-b3d6-4fde90d159a1#ref=rss)
+* [https://www.spiegel.de/start/quarterlife-crisis-wie-finde-ich-meinen-platz-im-leben](https://www.spiegel.de/start/quarterlife-crisis-wie-finde-ich-meinen-platz-im-leben-a-2b1327a4-41da-4355-bd85-fa6b104d1710#ref=rss)
+### provinz
+
+* [https://www.spiegel.de/wirtschaft/niederlande-schliessen-europas-groesstes-gasfeld-in-provinz-groningen-nach-erdbeben](https://www.spiegel.de/wirtschaft/niederlande-schliessen-europas-groesstes-gasfeld-in-provinz-groningen-nach-erdbeben-a-d4295ff0-a517-40d5-a0b2-aa78c1e4d417#ref=rss)
+### groningen
+
+* [https://www.spiegel.de/wirtschaft/niederlande-schliessen-europas-groesstes-gasfeld-in-provinz-groningen-nach-erdbeben](https://www.spiegel.de/wirtschaft/niederlande-schliessen-europas-groesstes-gasfeld-in-provinz-groningen-nach-erdbeben-a-d4295ff0-a517-40d5-a0b2-aa78c1e4d417#ref=rss)
+### erdbeben
+
+* [https://www.spiegel.de/wirtschaft/niederlande-schliessen-europas-groesstes-gasfeld-in-provinz-groningen-nach-erdbeben](https://www.spiegel.de/wirtschaft/niederlande-schliessen-europas-groesstes-gasfeld-in-provinz-groningen-nach-erdbeben-a-d4295ff0-a517-40d5-a0b2-aa78c1e4d417#ref=rss)
+### tot
+
+* [https://www.spiegel.de/panorama/brasilien-delfine-treiben-tot-im-amazonas-wegen-enormer-hitze](https://www.spiegel.de/panorama/brasilien-delfine-treiben-tot-im-amazonas-wegen-enormer-hitze-a-c2dd37c8-239f-4708-b09b-d5ad8b913a5b#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/elke-heidenreich-ueber-valentinstag-von-richard-ford-scheitern-und-trotzdem-tapfer-sein](https://www.spiegel.de/kultur/literatur/elke-heidenreich-ueber-valentinstag-von-richard-ford-scheitern-und-trotzdem-tapfer-sein-a-17ea3f49-32cb-40eb-8b92-c824a74f526e#ref=rss)
+### hitze
+
+* [https://www.spiegel.de/panorama/brasilien-delfine-treiben-tot-im-amazonas-wegen-enormer-hitze](https://www.spiegel.de/panorama/brasilien-delfine-treiben-tot-im-amazonas-wegen-enormer-hitze-a-c2dd37c8-239f-4708-b09b-d5ad8b913a5b#ref=rss)
+### unter
+
+* [https://www.spiegel.de/panorama/brasilien-delfine-treiben-tot-im-amazonas-wegen-enormer-hitze](https://www.spiegel.de/panorama/brasilien-delfine-treiben-tot-im-amazonas-wegen-enormer-hitze-a-c2dd37c8-239f-4708-b09b-d5ad8b913a5b#ref=rss)
+* [https://www.spiegel.de/panorama/new-york-seeloewin-reisst-kurzzeitig-aus-gehege-aus](https://www.spiegel.de/panorama/new-york-seeloewin-reisst-kurzzeitig-aus-gehege-aus-a-4f890d8f-46fc-4776-a63e-03af8f12ae1b#ref=rss)
+### wasser
+
+* [https://www.spiegel.de/panorama/brasilien-delfine-treiben-tot-im-amazonas-wegen-enormer-hitze](https://www.spiegel.de/panorama/brasilien-delfine-treiben-tot-im-amazonas-wegen-enormer-hitze-a-c2dd37c8-239f-4708-b09b-d5ad8b913a5b#ref=rss)
+* [https://www.spiegel.de/panorama/new-york-seeloewin-reisst-kurzzeitig-aus-gehege-aus](https://www.spiegel.de/panorama/new-york-seeloewin-reisst-kurzzeitig-aus-gehege-aus-a-4f890d8f-46fc-4776-a63e-03af8f12ae1b#ref=rss)
 ### münchen
 
-* [https://www.spiegel.de/panorama/justiz/muenchen-frau-laeuft-auf-bahngleise-wegen-navi](https://www.spiegel.de/panorama/justiz/muenchen-frau-laeuft-auf-bahngleise-wegen-navi-a-d3e976b1-c25e-4616-a839-d7f2c3347c34#ref=rss)
-### navi
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-jerome-boateng-nimmt-am-training-teil](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-jerome-boateng-nimmt-am-training-teil-a-947adee6-c646-40f6-b13a-03f7f9658a09#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-remis-in-leipzig-geruechte-um-rueckkehr-von-jerome-boateng](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-remis-in-leipzig-geruechte-um-rueckkehr-von-jerome-boateng-a-3f17fdda-8466-4f23-af65-55462a4d2c1a#ref=rss)
+### frühere
 
-* [https://www.spiegel.de/panorama/justiz/muenchen-frau-laeuft-auf-bahngleise-wegen-navi](https://www.spiegel.de/panorama/justiz/muenchen-frau-laeuft-auf-bahngleise-wegen-navi-a-d3e976b1-c25e-4616-a839-d7f2c3347c34#ref=rss)
-### zaun
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-jerome-boateng-nimmt-am-training-teil](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-jerome-boateng-nimmt-am-training-teil-a-947adee6-c646-40f6-b13a-03f7f9658a09#ref=rss)
+* [https://www.spiegel.de/ausland/slowakei-robert-fico-und-die-linksnationale-smer-gewinnen-parlamentswahl](https://www.spiegel.de/ausland/slowakei-robert-fico-und-die-linksnationale-smer-gewinnen-parlamentswahl-a-5e3fced6-64af-4ce6-89b4-286d085a82ca#ref=rss)
+### anschlag
 
-* [https://www.spiegel.de/panorama/justiz/muenchen-frau-laeuft-auf-bahngleise-wegen-navi](https://www.spiegel.de/panorama/justiz/muenchen-frau-laeuft-auf-bahngleise-wegen-navi-a-d3e976b1-c25e-4616-a839-d7f2c3347c34#ref=rss)
-* [https://www.spiegel.de/tests/brettspiele/spiele-wie-my-island-zitrushain-oder-zank-am-zaun-fuenf-tipps-fuer-den-herbst](https://www.spiegel.de/tests/brettspiele/spiele-wie-my-island-zitrushain-oder-zank-am-zaun-fuenf-tipps-fuer-den-herbst-a-40f98659-2b39-4d28-97c6-e2e72c45ab98#ref=rss)
-### rishi
+* [https://www.spiegel.de/ausland/ankara-anschlag-im-herzen-der-hauptstadt-szenen-nach-der-explosion](https://www.spiegel.de/ausland/ankara-anschlag-im-herzen-der-hauptstadt-szenen-nach-der-explosion-a-64346a54-28b6-4cd0-8cf2-1eb75bdf231a#ref=rss)
+* [https://www.spiegel.de/ausland/ankara-mutmasslicher-anschlag-auf-tuerkisches-innenministerium](https://www.spiegel.de/ausland/ankara-mutmasslicher-anschlag-auf-tuerkisches-innenministerium-a-a2e28c01-2acc-46a7-abc5-4f8782195129#ref=rss)
+### szenen
 
-* [https://www.spiegel.de/ausland/rishi-sunak-britischer-premier-sagt-tempo-20-zonen-den-kampf-an](https://www.spiegel.de/ausland/rishi-sunak-britischer-premier-sagt-tempo-20-zonen-den-kampf-an-a-82f73e5c-39e5-45bd-b102-9a167d1d2d84#ref=rss)
-### sunak
+* [https://www.spiegel.de/ausland/ankara-anschlag-im-herzen-der-hauptstadt-szenen-nach-der-explosion](https://www.spiegel.de/ausland/ankara-anschlag-im-herzen-der-hauptstadt-szenen-nach-der-explosion-a-64346a54-28b6-4cd0-8cf2-1eb75bdf231a#ref=rss)
+### explosion
 
-* [https://www.spiegel.de/ausland/rishi-sunak-britischer-premier-sagt-tempo-20-zonen-den-kampf-an](https://www.spiegel.de/ausland/rishi-sunak-britischer-premier-sagt-tempo-20-zonen-den-kampf-an-a-82f73e5c-39e5-45bd-b102-9a167d1d2d84#ref=rss)
-### autofahrer
+* [https://www.spiegel.de/ausland/ankara-anschlag-im-herzen-der-hauptstadt-szenen-nach-der-explosion](https://www.spiegel.de/ausland/ankara-anschlag-im-herzen-der-hauptstadt-szenen-nach-der-explosion-a-64346a54-28b6-4cd0-8cf2-1eb75bdf231a#ref=rss)
+* [https://www.spiegel.de/ausland/ankara-mutmasslicher-anschlag-auf-tuerkisches-innenministerium](https://www.spiegel.de/ausland/ankara-mutmasslicher-anschlag-auf-tuerkisches-innenministerium-a-a2e28c01-2acc-46a7-abc5-4f8782195129#ref=rss)
+### türkischen
 
-* [https://www.spiegel.de/ausland/rishi-sunak-britischer-premier-sagt-tempo-20-zonen-den-kampf-an](https://www.spiegel.de/ausland/rishi-sunak-britischer-premier-sagt-tempo-20-zonen-den-kampf-an-a-82f73e5c-39e5-45bd-b102-9a167d1d2d84#ref=rss)
-* [https://www.spiegel.de/ausland/sri-lanka-ein-jahr-nach-dem-crash-wo-sich-china-und-die-usa-gegenueberstehen](https://www.spiegel.de/ausland/sri-lanka-ein-jahr-nach-dem-crash-wo-sich-china-und-die-usa-gegenueberstehen-a-0c0a6ff8-0758-4a03-99a2-6f5466c61360#ref=rss)
-### friedrich
+* [https://www.spiegel.de/ausland/ankara-anschlag-im-herzen-der-hauptstadt-szenen-nach-der-explosion](https://www.spiegel.de/ausland/ankara-anschlag-im-herzen-der-hauptstadt-szenen-nach-der-explosion-a-64346a54-28b6-4cd0-8cf2-1eb75bdf231a#ref=rss)
+* [https://www.spiegel.de/ausland/ankara-mutmasslicher-anschlag-auf-tuerkisches-innenministerium](https://www.spiegel.de/ausland/ankara-mutmasslicher-anschlag-auf-tuerkisches-innenministerium-a-a2e28c01-2acc-46a7-abc5-4f8782195129#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-kritik-an-zahnarzt-aussage-ist-schnappatmung](https://www.spiegel.de/politik/deutschland/friedrich-merz-kritik-an-zahnarzt-aussage-ist-schnappatmung-a-1f08ed20-40c4-41cd-8cf4-e1c7f15ab46a#ref=rss)
-### schnappatmung
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-kritik-an-zahnarzt-aussage-ist-schnappatmung](https://www.spiegel.de/politik/deutschland/friedrich-merz-kritik-an-zahnarzt-aussage-ist-schnappatmung-a-1f08ed20-40c4-41cd-8cf4-e1c7f15ab46a#ref=rss)
-### klare
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### sieben
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-kritik-an-zahnarzt-aussage-ist-schnappatmung](https://www.spiegel.de/politik/deutschland/friedrich-merz-kritik-an-zahnarzt-aussage-ist-schnappatmung-a-1f08ed20-40c4-41cd-8cf4-e1c7f15ab46a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-zu-migration-die-zahl-der-fluechtlinge-ist-im-moment-zu-hoch](https://www.spiegel.de/politik/deutschland/olaf-scholz-zu-migration-die-zahl-der-fluechtlinge-ist-im-moment-zu-hoch-a-31937050-45b3-42de-aa79-b24c7d723ae2#ref=rss)
-### cduchef
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/panorama/carolina-reapers-kanadier-bricht-weltrekord-im-schaerfste-chili-essen](https://www.spiegel.de/panorama/carolina-reapers-kanadier-bricht-weltrekord-im-schaerfste-chili-essen-a-965b0eab-39cb-4f09-9fd8-f1223d60bfd1#ref=rss)
+### bankmanfried
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-kritik-an-zahnarzt-aussage-ist-schnappatmung](https://www.spiegel.de/politik/deutschland/friedrich-merz-kritik-an-zahnarzt-aussage-ist-schnappatmung-a-1f08ed20-40c4-41cd-8cf4-e1c7f15ab46a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-zu-migration-die-zahl-der-fluechtlinge-ist-im-moment-zu-hoch](https://www.spiegel.de/politik/deutschland/olaf-scholz-zu-migration-die-zahl-der-fluechtlinge-ist-im-moment-zu-hoch-a-31937050-45b3-42de-aa79-b24c7d723ae2#ref=rss)
-### papst
+* [https://www.spiegel.de/wirtschaft/ftx-gruender-sam-bankman-fried-vor-dem-prozess-sam-der-spieler](https://www.spiegel.de/wirtschaft/ftx-gruender-sam-bankman-fried-vor-dem-prozess-sam-der-spieler-a-1d9a5939-01f2-4e01-9ca9-50edb1ddf73b#ref=rss)
+### prozess
 
-* [https://www.spiegel.de/panorama/vatikan-papst-franziskus-ernennt-21-neue-kardinaele](https://www.spiegel.de/panorama/vatikan-papst-franziskus-ernennt-21-neue-kardinaele-a-847af259-8424-418e-b509-81cd9b33ca18#ref=rss)
-### franziskus
+* [https://www.spiegel.de/wirtschaft/ftx-gruender-sam-bankman-fried-vor-dem-prozess-sam-der-spieler](https://www.spiegel.de/wirtschaft/ftx-gruender-sam-bankman-fried-vor-dem-prozess-sam-der-spieler-a-1d9a5939-01f2-4e01-9ca9-50edb1ddf73b#ref=rss)
+### spieler
 
-* [https://www.spiegel.de/panorama/vatikan-papst-franziskus-ernennt-21-neue-kardinaele](https://www.spiegel.de/panorama/vatikan-papst-franziskus-ernennt-21-neue-kardinaele-a-847af259-8424-418e-b509-81cd9b33ca18#ref=rss)
-### gedenkstätte
+* [https://www.spiegel.de/wirtschaft/ftx-gruender-sam-bankman-fried-vor-dem-prozess-sam-der-spieler](https://www.spiegel.de/wirtschaft/ftx-gruender-sam-bankman-fried-vor-dem-prozess-sam-der-spieler-a-1d9a5939-01f2-4e01-9ca9-50edb1ddf73b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/ajax-amsterdam-torhueter-nach-kollision-bewusstlos-spiel-abgebrochen](https://www.spiegel.de/sport/fussball/ajax-amsterdam-torhueter-nach-kollision-bewusstlos-spiel-abgebrochen-a-77dc21a4-0820-4c37-b753-4961ca17497a#ref=rss)
+### machte
 
-* [https://www.spiegel.de/politik/deutschland/finanzierung-gestrichen-gedenkstaette-stalag-326-bei-guetersloh-schliesst](https://www.spiegel.de/politik/deutschland/finanzierung-gestrichen-gedenkstaette-stalag-326-bei-guetersloh-schliesst-a-95d01a4b-c1af-416b-9518-5a5a6ee13070#ref=rss)
-### gütersloh
+* [https://www.spiegel.de/wirtschaft/ftx-gruender-sam-bankman-fried-vor-dem-prozess-sam-der-spieler](https://www.spiegel.de/wirtschaft/ftx-gruender-sam-bankman-fried-vor-dem-prozess-sam-der-spieler-a-1d9a5939-01f2-4e01-9ca9-50edb1ddf73b#ref=rss)
+* [https://www.spiegel.de/panorama/carolina-reapers-kanadier-bricht-weltrekord-im-schaerfste-chili-essen](https://www.spiegel.de/panorama/carolina-reapers-kanadier-bricht-weltrekord-im-schaerfste-chili-essen-a-965b0eab-39cb-4f09-9fd8-f1223d60bfd1#ref=rss)
+### geld
 
-* [https://www.spiegel.de/politik/deutschland/finanzierung-gestrichen-gedenkstaette-stalag-326-bei-guetersloh-schliesst](https://www.spiegel.de/politik/deutschland/finanzierung-gestrichen-gedenkstaette-stalag-326-bei-guetersloh-schliesst-a-95d01a4b-c1af-416b-9518-5a5a6ee13070#ref=rss)
-### entscheidung
-
-* [https://www.spiegel.de/politik/deutschland/finanzierung-gestrichen-gedenkstaette-stalag-326-bei-guetersloh-schliesst](https://www.spiegel.de/politik/deutschland/finanzierung-gestrichen-gedenkstaette-stalag-326-bei-guetersloh-schliesst-a-95d01a4b-c1af-416b-9518-5a5a6ee13070#ref=rss)
-* [https://www.spiegel.de/sport/fussball/vfb-stuttgart-der-aerger-des-fussball-bundesligisten-um-seinen-trikotsponsor](https://www.spiegel.de/sport/fussball/vfb-stuttgart-der-aerger-des-fussball-bundesligisten-um-seinen-trikotsponsor-a-4c34aac5-6f13-432d-9c96-f26f84957067#ref=rss)
-### stimmen
-
-* [https://www.spiegel.de/politik/deutschland/finanzierung-gestrichen-gedenkstaette-stalag-326-bei-guetersloh-schliesst](https://www.spiegel.de/politik/deutschland/finanzierung-gestrichen-gedenkstaette-stalag-326-bei-guetersloh-schliesst-a-95d01a4b-c1af-416b-9518-5a5a6ee13070#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hessen-nancy-faeser-stoppt-spd-wahlvideo-ueber-cdu-kandidaten-rhein](https://www.spiegel.de/politik/deutschland/hessen-nancy-faeser-stoppt-spd-wahlvideo-ueber-cdu-kandidaten-rhein-a-4fa893b9-433e-462c-8d90-272d27202761#ref=rss)
-### fünf
-
-* [https://www.spiegel.de/tests/brettspiele/spiele-wie-my-island-zitrushain-oder-zank-am-zaun-fuenf-tipps-fuer-den-herbst](https://www.spiegel.de/tests/brettspiele/spiele-wie-my-island-zitrushain-oder-zank-am-zaun-fuenf-tipps-fuer-den-herbst-a-40f98659-2b39-4d28-97c6-e2e72c45ab98#ref=rss)
-### herbst
-
-* [https://www.spiegel.de/tests/brettspiele/spiele-wie-my-island-zitrushain-oder-zank-am-zaun-fuenf-tipps-fuer-den-herbst](https://www.spiegel.de/tests/brettspiele/spiele-wie-my-island-zitrushain-oder-zank-am-zaun-fuenf-tipps-fuer-den-herbst-a-40f98659-2b39-4d28-97c6-e2e72c45ab98#ref=rss)
-### stärken
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-zu-migration-die-zahl-der-fluechtlinge-ist-im-moment-zu-hoch](https://www.spiegel.de/politik/deutschland/olaf-scholz-zu-migration-die-zahl-der-fluechtlinge-ist-im-moment-zu-hoch-a-31937050-45b3-42de-aa79-b24c7d723ae2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/aktivrente-kritik-an-cdu-vorschlag-maloche-bis-zum-tod](https://www.spiegel.de/wirtschaft/soziales/aktivrente-kritik-an-cdu-vorschlag-maloche-bis-zum-tod-a-b3758572-c897-4575-8b1f-a0c834f796ea#ref=rss)
-### monheim
-
-* [https://www.spiegel.de/panorama/gesellschaft/monheim-buergermeister-verteidigt-plaene-fuer-fluechtlingsunterkunft-auf-schulgelaende](https://www.spiegel.de/panorama/gesellschaft/monheim-buergermeister-verteidigt-plaene-fuer-fluechtlingsunterkunft-auf-schulgelaende-a-243cd132-4ede-49ff-9409-d97f15060823#ref=rss)
-### bürgermeister
-
-* [https://www.spiegel.de/panorama/gesellschaft/monheim-buergermeister-verteidigt-plaene-fuer-fluechtlingsunterkunft-auf-schulgelaende](https://www.spiegel.de/panorama/gesellschaft/monheim-buergermeister-verteidigt-plaene-fuer-fluechtlingsunterkunft-auf-schulgelaende-a-243cd132-4ede-49ff-9409-d97f15060823#ref=rss)
-### verteidigt
-
-* [https://www.spiegel.de/panorama/gesellschaft/monheim-buergermeister-verteidigt-plaene-fuer-fluechtlingsunterkunft-auf-schulgelaende](https://www.spiegel.de/panorama/gesellschaft/monheim-buergermeister-verteidigt-plaene-fuer-fluechtlingsunterkunft-auf-schulgelaende-a-243cd132-4ede-49ff-9409-d97f15060823#ref=rss)
-### pläne
-
-* [https://www.spiegel.de/panorama/gesellschaft/monheim-buergermeister-verteidigt-plaene-fuer-fluechtlingsunterkunft-auf-schulgelaende](https://www.spiegel.de/panorama/gesellschaft/monheim-buergermeister-verteidigt-plaene-fuer-fluechtlingsunterkunft-auf-schulgelaende-a-243cd132-4ede-49ff-9409-d97f15060823#ref=rss)
-### schulgelände
-
-* [https://www.spiegel.de/panorama/gesellschaft/monheim-buergermeister-verteidigt-plaene-fuer-fluechtlingsunterkunft-auf-schulgelaende](https://www.spiegel.de/panorama/gesellschaft/monheim-buergermeister-verteidigt-plaene-fuer-fluechtlingsunterkunft-auf-schulgelaende-a-243cd132-4ede-49ff-9409-d97f15060823#ref=rss)
-### nancy
-
-* [https://www.spiegel.de/politik/deutschland/hessen-nancy-faeser-stoppt-spd-wahlvideo-ueber-cdu-kandidaten-rhein](https://www.spiegel.de/politik/deutschland/hessen-nancy-faeser-stoppt-spd-wahlvideo-ueber-cdu-kandidaten-rhein-a-4fa893b9-433e-462c-8d90-272d27202761#ref=rss)
-### faeser
-
-* [https://www.spiegel.de/politik/deutschland/hessen-nancy-faeser-stoppt-spd-wahlvideo-ueber-cdu-kandidaten-rhein](https://www.spiegel.de/politik/deutschland/hessen-nancy-faeser-stoppt-spd-wahlvideo-ueber-cdu-kandidaten-rhein-a-4fa893b9-433e-462c-8d90-272d27202761#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ftx-gruender-sam-bankman-fried-vor-dem-prozess-sam-der-spieler](https://www.spiegel.de/wirtschaft/ftx-gruender-sam-bankman-fried-vor-dem-prozess-sam-der-spieler-a-1d9a5939-01f2-4e01-9ca9-50edb1ddf73b#ref=rss)
+* [https://www.spiegel.de/ausland/usa-kongress-verhindert-shutdown-aber-die-ukraine-geht-vorerst-leer-aus](https://www.spiegel.de/ausland/usa-kongress-verhindert-shutdown-aber-die-ukraine-geht-vorerst-leer-aus-a-ab11f6eb-6bde-46b7-ba7e-0c3750954d54#ref=rss)
 ### new
 
-* [https://www.spiegel.de/ausland/new-york-city-stadt-nach-starkregen-ueberflutet-das-wasser-kommt-aus-dem-boden](https://www.spiegel.de/ausland/new-york-city-stadt-nach-starkregen-ueberflutet-das-wasser-kommt-aus-dem-boden-a-bd5fd6e6-414d-499f-ab02-ff69eb076fdf#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ftx-gruender-sam-bankman-fried-vor-dem-prozess-sam-der-spieler](https://www.spiegel.de/wirtschaft/ftx-gruender-sam-bankman-fried-vor-dem-prozess-sam-der-spieler-a-1d9a5939-01f2-4e01-9ca9-50edb1ddf73b#ref=rss)
+* [https://www.spiegel.de/panorama/new-york-seeloewin-reisst-kurzzeitig-aus-gehege-aus](https://www.spiegel.de/panorama/new-york-seeloewin-reisst-kurzzeitig-aus-gehege-aus-a-4f890d8f-46fc-4776-a63e-03af8f12ae1b#ref=rss)
 ### york
 
-* [https://www.spiegel.de/ausland/new-york-city-stadt-nach-starkregen-ueberflutet-das-wasser-kommt-aus-dem-boden](https://www.spiegel.de/ausland/new-york-city-stadt-nach-starkregen-ueberflutet-das-wasser-kommt-aus-dem-boden-a-bd5fd6e6-414d-499f-ab02-ff69eb076fdf#ref=rss)
-### starkregen
+* [https://www.spiegel.de/wirtschaft/ftx-gruender-sam-bankman-fried-vor-dem-prozess-sam-der-spieler](https://www.spiegel.de/wirtschaft/ftx-gruender-sam-bankman-fried-vor-dem-prozess-sam-der-spieler-a-1d9a5939-01f2-4e01-9ca9-50edb1ddf73b#ref=rss)
+* [https://www.spiegel.de/panorama/new-york-seeloewin-reisst-kurzzeitig-aus-gehege-aus](https://www.spiegel.de/panorama/new-york-seeloewin-reisst-kurzzeitig-aus-gehege-aus-a-4f890d8f-46fc-4776-a63e-03af8f12ae1b#ref=rss)
+### dazu
 
-* [https://www.spiegel.de/ausland/new-york-city-stadt-nach-starkregen-ueberflutet-das-wasser-kommt-aus-dem-boden](https://www.spiegel.de/ausland/new-york-city-stadt-nach-starkregen-ueberflutet-das-wasser-kommt-aus-dem-boden-a-bd5fd6e6-414d-499f-ab02-ff69eb076fdf#ref=rss)
-### sri
+* [https://www.spiegel.de/wirtschaft/ftx-gruender-sam-bankman-fried-vor-dem-prozess-sam-der-spieler](https://www.spiegel.de/wirtschaft/ftx-gruender-sam-bankman-fried-vor-dem-prozess-sam-der-spieler-a-1d9a5939-01f2-4e01-9ca9-50edb1ddf73b#ref=rss)
+* [https://www.spiegel.de/start/quarterlife-crisis-wie-finde-ich-meinen-platz-im-leben](https://www.spiegel.de/start/quarterlife-crisis-wie-finde-ich-meinen-platz-im-leben-a-2b1327a4-41da-4355-bd85-fa6b104d1710#ref=rss)
+### woche
 
-* [https://www.spiegel.de/ausland/sri-lanka-ein-jahr-nach-dem-crash-wo-sich-china-und-die-usa-gegenueberstehen](https://www.spiegel.de/ausland/sri-lanka-ein-jahr-nach-dem-crash-wo-sich-china-und-die-usa-gegenueberstehen-a-0c0a6ff8-0758-4a03-99a2-6f5466c61360#ref=rss)
-### lanka
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-a-6a048298-934b-419b-a09c-d96b4e4e1209#ref=rss)
+* [https://www.spiegel.de/karriere/raetsel-der-woche-buchstaben-addieren](https://www.spiegel.de/karriere/raetsel-der-woche-buchstaben-addieren-a-696fbaa0-c96c-467f-9960-a25e2da30821#ref=rss)
+### welt
 
-* [https://www.spiegel.de/ausland/sri-lanka-ein-jahr-nach-dem-crash-wo-sich-china-und-die-usa-gegenueberstehen](https://www.spiegel.de/ausland/sri-lanka-ein-jahr-nach-dem-crash-wo-sich-china-und-die-usa-gegenueberstehen-a-0c0a6ff8-0758-4a03-99a2-6f5466c61360#ref=rss)
-### vfb
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-a-6a048298-934b-419b-a09c-d96b4e4e1209#ref=rss)
+* [https://www.spiegel.de/panorama/carolina-reapers-kanadier-bricht-weltrekord-im-schaerfste-chili-essen](https://www.spiegel.de/panorama/carolina-reapers-kanadier-bricht-weltrekord-im-schaerfste-chili-essen-a-965b0eab-39cb-4f09-9fd8-f1223d60bfd1#ref=rss)
+### richard
 
-* [https://www.spiegel.de/sport/fussball/vfb-stuttgart-der-aerger-des-fussball-bundesligisten-um-seinen-trikotsponsor](https://www.spiegel.de/sport/fussball/vfb-stuttgart-der-aerger-des-fussball-bundesligisten-um-seinen-trikotsponsor-a-4c34aac5-6f13-432d-9c96-f26f84957067#ref=rss)
-### stuttgart
+* [https://www.spiegel.de/kultur/literatur/elke-heidenreich-ueber-valentinstag-von-richard-ford-scheitern-und-trotzdem-tapfer-sein](https://www.spiegel.de/kultur/literatur/elke-heidenreich-ueber-valentinstag-von-richard-ford-scheitern-und-trotzdem-tapfer-sein-a-17ea3f49-32cb-40eb-8b92-c824a74f526e#ref=rss)
+### ford
 
-* [https://www.spiegel.de/sport/fussball/vfb-stuttgart-der-aerger-des-fussball-bundesligisten-um-seinen-trikotsponsor](https://www.spiegel.de/sport/fussball/vfb-stuttgart-der-aerger-des-fussball-bundesligisten-um-seinen-trikotsponsor-a-4c34aac5-6f13-432d-9c96-f26f84957067#ref=rss)
-### trikotsponsor
+* [https://www.spiegel.de/kultur/literatur/elke-heidenreich-ueber-valentinstag-von-richard-ford-scheitern-und-trotzdem-tapfer-sein](https://www.spiegel.de/kultur/literatur/elke-heidenreich-ueber-valentinstag-von-richard-ford-scheitern-und-trotzdem-tapfer-sein-a-17ea3f49-32cb-40eb-8b92-c824a74f526e#ref=rss)
+### viele
 
-* [https://www.spiegel.de/sport/fussball/vfb-stuttgart-der-aerger-des-fussball-bundesligisten-um-seinen-trikotsponsor](https://www.spiegel.de/sport/fussball/vfb-stuttgart-der-aerger-des-fussball-bundesligisten-um-seinen-trikotsponsor-a-4c34aac5-6f13-432d-9c96-f26f84957067#ref=rss)
-### spitting
+* [https://www.spiegel.de/start/quarterlife-crisis-wie-finde-ich-meinen-platz-im-leben](https://www.spiegel.de/start/quarterlife-crisis-wie-finde-ich-meinen-platz-im-leben-a-2b1327a4-41da-4355-bd85-fa6b104d1710#ref=rss)
+* [https://www.spiegel.de/auto/fahrkultur/e-auto-oder-alter-golf-ist-es-wirklich-nachhaltig-alte-verbrenner-weiterzufahren](https://www.spiegel.de/auto/fahrkultur/e-auto-oder-alter-golf-ist-es-wirklich-nachhaltig-alte-verbrenner-weiterzufahren-a-82d80d61-8844-4bc3-b7bb-4d6af4650ece#ref=rss)
+### sagen
 
-* [https://www.spiegel.de/panorama/spitting-image-ausstellung-ueber-legendaere-tv-serie-in-cambridge](https://www.spiegel.de/panorama/spitting-image-ausstellung-ueber-legendaere-tv-serie-in-cambridge-a-1adf0619-3153-41ae-8370-c79b6929faed#ref=rss)
+* [https://www.spiegel.de/start/quarterlife-crisis-wie-finde-ich-meinen-platz-im-leben](https://www.spiegel.de/start/quarterlife-crisis-wie-finde-ich-meinen-platz-im-leben-a-2b1327a4-41da-4355-bd85-fa6b104d1710#ref=rss)
+* [https://www.spiegel.de/auto/fahrkultur/e-auto-oder-alter-golf-ist-es-wirklich-nachhaltig-alte-verbrenner-weiterzufahren](https://www.spiegel.de/auto/fahrkultur/e-auto-oder-alter-golf-ist-es-wirklich-nachhaltig-alte-verbrenner-weiterzufahren-a-82d80d61-8844-4bc3-b7bb-4d6af4650ece#ref=rss)
+### ajax
+
+* [https://www.spiegel.de/sport/fussball/ajax-amsterdam-torhueter-nach-kollision-bewusstlos-spiel-abgebrochen](https://www.spiegel.de/sport/fussball/ajax-amsterdam-torhueter-nach-kollision-bewusstlos-spiel-abgebrochen-a-77dc21a4-0820-4c37-b753-4961ca17497a#ref=rss)
+### amsterdam
+
+* [https://www.spiegel.de/sport/fussball/ajax-amsterdam-torhueter-nach-kollision-bewusstlos-spiel-abgebrochen](https://www.spiegel.de/sport/fussball/ajax-amsterdam-torhueter-nach-kollision-bewusstlos-spiel-abgebrochen-a-77dc21a4-0820-4c37-b753-4961ca17497a#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/ausland/ankara-mutmasslicher-anschlag-auf-tuerkisches-innenministerium](https://www.spiegel.de/ausland/ankara-mutmasslicher-anschlag-auf-tuerkisches-innenministerium-a-a2e28c01-2acc-46a7-abc5-4f8782195129#ref=rss)
+* [https://www.spiegel.de/ausland/usa-kongress-verhindert-shutdown-aber-die-ukraine-geht-vorerst-leer-aus](https://www.spiegel.de/ausland/usa-kongress-verhindert-shutdown-aber-die-ukraine-geht-vorerst-leer-aus-a-ab11f6eb-6bde-46b7-ba7e-0c3750954d54#ref=rss)
+### feueralarm
+
+* [https://www.spiegel.de/ausland/usa-feueralarm-waehrend-shutdown-verhandlungen-vorwuerfe-gegen-demokraten](https://www.spiegel.de/ausland/usa-feueralarm-waehrend-shutdown-verhandlungen-vorwuerfe-gegen-demokraten-a-e99b4dd3-0cf5-49fa-84cb-955f21d97eaf#ref=rss)
+### demokraten
+
+* [https://www.spiegel.de/ausland/usa-feueralarm-waehrend-shutdown-verhandlungen-vorwuerfe-gegen-demokraten](https://www.spiegel.de/ausland/usa-feueralarm-waehrend-shutdown-verhandlungen-vorwuerfe-gegen-demokraten-a-e99b4dd3-0cf5-49fa-84cb-955f21d97eaf#ref=rss)
+* [https://www.spiegel.de/ausland/usa-kongress-verhindert-shutdown-aber-die-ukraine-geht-vorerst-leer-aus](https://www.spiegel.de/ausland/usa-kongress-verhindert-shutdown-aber-die-ukraine-geht-vorerst-leer-aus-a-ab11f6eb-6bde-46b7-ba7e-0c3750954d54#ref=rss)
+### max
+
+* [https://www.spiegel.de/sport/rb-leipzig-oliver-mintzlaff-ueber-max-eberls-aus-war-nicht-zu-retten](https://www.spiegel.de/sport/rb-leipzig-oliver-mintzlaff-ueber-max-eberls-aus-war-nicht-zu-retten-a-7fdf5b0a-f27d-45f5-8d13-c96a4c246867#ref=rss)
+### eberl
+
+* [https://www.spiegel.de/sport/rb-leipzig-oliver-mintzlaff-ueber-max-eberls-aus-war-nicht-zu-retten](https://www.spiegel.de/sport/rb-leipzig-oliver-mintzlaff-ueber-max-eberls-aus-war-nicht-zu-retten-a-7fdf5b0a-f27d-45f5-8d13-c96a4c246867#ref=rss)
+### oliver
+
+* [https://www.spiegel.de/sport/rb-leipzig-oliver-mintzlaff-ueber-max-eberls-aus-war-nicht-zu-retten](https://www.spiegel.de/sport/rb-leipzig-oliver-mintzlaff-ueber-max-eberls-aus-war-nicht-zu-retten-a-7fdf5b0a-f27d-45f5-8d13-c96a4c246867#ref=rss)
+### mintzlaff
+
+* [https://www.spiegel.de/sport/rb-leipzig-oliver-mintzlaff-ueber-max-eberls-aus-war-nicht-zu-retten](https://www.spiegel.de/sport/rb-leipzig-oliver-mintzlaff-ueber-max-eberls-aus-war-nicht-zu-retten-a-7fdf5b0a-f27d-45f5-8d13-c96a4c246867#ref=rss)
+### leipzig
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-remis-in-leipzig-geruechte-um-rueckkehr-von-jerome-boateng](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-remis-in-leipzig-geruechte-um-rueckkehr-von-jerome-boateng-a-3f17fdda-8466-4f23-af65-55462a4d2c1a#ref=rss)
+### gerüchte
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-remis-in-leipzig-geruechte-um-rueckkehr-von-jerome-boateng](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-remis-in-leipzig-geruechte-um-rueckkehr-von-jerome-boateng-a-3f17fdda-8466-4f23-af65-55462a4d2c1a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-und-ihre-neue-partei-promis-dringend-gesucht](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-und-ihre-neue-partei-promis-dringend-gesucht-a-aa123dfd-9dd7-41ac-a46e-c0deefbaf806#ref=rss)
+### babylon
+
+* [https://www.spiegel.de/kultur/tv/babylon-berlin-staffel-vier-mit-volker-bruch-im-schnellcheck](https://www.spiegel.de/kultur/tv/babylon-berlin-staffel-vier-mit-volker-bruch-im-schnellcheck-a-7d9b1977-ef23-4245-b4f5-863ca86969da#ref=rss)
+### staffel
+
+* [https://www.spiegel.de/kultur/tv/babylon-berlin-staffel-vier-mit-volker-bruch-im-schnellcheck](https://www.spiegel.de/kultur/tv/babylon-berlin-staffel-vier-mit-volker-bruch-im-schnellcheck-a-7d9b1977-ef23-4245-b4f5-863ca86969da#ref=rss)
+### kiew
+
+* [https://www.spiegel.de/ausland/ukraine-russland-news-kiew-will-verteidigungsindustrie-staerken-eu-verspricht-alternativrouten-fuer-getreide](https://www.spiegel.de/ausland/ukraine-russland-news-kiew-will-verteidigungsindustrie-staerken-eu-verspricht-alternativrouten-fuer-getreide-a-452ee8e5-daa6-416a-bb29-2305ea84b977#ref=rss)
+* [https://www.spiegel.de/ausland/usa-kongress-verhindert-shutdown-aber-die-ukraine-geht-vorerst-leer-aus](https://www.spiegel.de/ausland/usa-kongress-verhindert-shutdown-aber-die-ukraine-geht-vorerst-leer-aus-a-ab11f6eb-6bde-46b7-ba7e-0c3750954d54#ref=rss)
+### getreide
+
+* [https://www.spiegel.de/ausland/ukraine-russland-news-kiew-will-verteidigungsindustrie-staerken-eu-verspricht-alternativrouten-fuer-getreide](https://www.spiegel.de/ausland/ukraine-russland-news-kiew-will-verteidigungsindustrie-staerken-eu-verspricht-alternativrouten-fuer-getreide-a-452ee8e5-daa6-416a-bb29-2305ea84b977#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/ukraine-russland-news-kiew-will-verteidigungsindustrie-staerken-eu-verspricht-alternativrouten-fuer-getreide](https://www.spiegel.de/ausland/ukraine-russland-news-kiew-will-verteidigungsindustrie-staerken-eu-verspricht-alternativrouten-fuer-getreide-a-452ee8e5-daa6-416a-bb29-2305ea84b977#ref=rss)
+* [https://www.spiegel.de/ausland/usa-kongress-verhindert-shutdown-aber-die-ukraine-geht-vorerst-leer-aus](https://www.spiegel.de/ausland/usa-kongress-verhindert-shutdown-aber-die-ukraine-geht-vorerst-leer-aus-a-ab11f6eb-6bde-46b7-ba7e-0c3750954d54#ref=rss)
+### 6
+
+* [https://www.spiegel.de/karriere/raetsel-der-woche-buchstaben-addieren](https://www.spiegel.de/karriere/raetsel-der-woche-buchstaben-addieren-a-696fbaa0-c96c-467f-9960-a25e2da30821#ref=rss)
+### wir
+
+* [https://www.spiegel.de/karriere/raetsel-der-woche-buchstaben-addieren](https://www.spiegel.de/karriere/raetsel-der-woche-buchstaben-addieren-a-696fbaa0-c96c-467f-9960-a25e2da30821#ref=rss)
+* [https://www.spiegel.de/start/o-woche-an-der-uni-in-der-klassischen-erstiwoche-laeuft-einiges-falsch](https://www.spiegel.de/start/o-woche-an-der-uni-in-der-klassischen-erstiwoche-laeuft-einiges-falsch-a-681da005-c160-4dfb-acfc-e7dc4bf40752#ref=rss)
+### zahlen
+
+* [https://www.spiegel.de/karriere/raetsel-der-woche-buchstaben-addieren](https://www.spiegel.de/karriere/raetsel-der-woche-buchstaben-addieren-a-696fbaa0-c96c-467f-9960-a25e2da30821#ref=rss)
+* [https://www.spiegel.de/ausland/usa-kongress-verhindert-shutdown-aber-die-ukraine-geht-vorerst-leer-aus](https://www.spiegel.de/ausland/usa-kongress-verhindert-shutdown-aber-die-ukraine-geht-vorerst-leer-aus-a-ab11f6eb-6bde-46b7-ba7e-0c3750954d54#ref=rss)
+### eauto
+
+* [https://www.spiegel.de/auto/fahrkultur/e-auto-oder-alter-golf-ist-es-wirklich-nachhaltig-alte-verbrenner-weiterzufahren](https://www.spiegel.de/auto/fahrkultur/e-auto-oder-alter-golf-ist-es-wirklich-nachhaltig-alte-verbrenner-weiterzufahren-a-82d80d61-8844-4bc3-b7bb-4d6af4650ece#ref=rss)
+### verbrenner
+
+* [https://www.spiegel.de/auto/fahrkultur/e-auto-oder-alter-golf-ist-es-wirklich-nachhaltig-alte-verbrenner-weiterzufahren](https://www.spiegel.de/auto/fahrkultur/e-auto-oder-alter-golf-ist-es-wirklich-nachhaltig-alte-verbrenner-weiterzufahren-a-82d80d61-8844-4bc3-b7bb-4d6af4650ece#ref=rss)
+### klassischen
+
+* [https://www.spiegel.de/start/o-woche-an-der-uni-in-der-klassischen-erstiwoche-laeuft-einiges-falsch](https://www.spiegel.de/start/o-woche-an-der-uni-in-der-klassischen-erstiwoche-laeuft-einiges-falsch-a-681da005-c160-4dfb-acfc-e7dc4bf40752#ref=rss)
+### erstiwoche
+
+* [https://www.spiegel.de/start/o-woche-an-der-uni-in-der-klassischen-erstiwoche-laeuft-einiges-falsch](https://www.spiegel.de/start/o-woche-an-der-uni-in-der-klassischen-erstiwoche-laeuft-einiges-falsch-a-681da005-c160-4dfb-acfc-e7dc4bf40752#ref=rss)
+### läuft
+
+* [https://www.spiegel.de/start/o-woche-an-der-uni-in-der-klassischen-erstiwoche-laeuft-einiges-falsch](https://www.spiegel.de/start/o-woche-an-der-uni-in-der-klassischen-erstiwoche-laeuft-einiges-falsch-a-681da005-c160-4dfb-acfc-e7dc4bf40752#ref=rss)
+### einiges
+
+* [https://www.spiegel.de/start/o-woche-an-der-uni-in-der-klassischen-erstiwoche-laeuft-einiges-falsch](https://www.spiegel.de/start/o-woche-an-der-uni-in-der-klassischen-erstiwoche-laeuft-einiges-falsch-a-681da005-c160-4dfb-acfc-e7dc4bf40752#ref=rss)
+### falsch
+
+* [https://www.spiegel.de/start/o-woche-an-der-uni-in-der-klassischen-erstiwoche-laeuft-einiges-falsch](https://www.spiegel.de/start/o-woche-an-der-uni-in-der-klassischen-erstiwoche-laeuft-einiges-falsch-a-681da005-c160-4dfb-acfc-e7dc4bf40752#ref=rss)
+### robert
+
+* [https://www.spiegel.de/ausland/slowakei-robert-fico-und-die-linksnationale-smer-gewinnen-parlamentswahl](https://www.spiegel.de/ausland/slowakei-robert-fico-und-die-linksnationale-smer-gewinnen-parlamentswahl-a-5e3fced6-64af-4ce6-89b4-286d085a82ca#ref=rss)
+### linksnationale
+
+* [https://www.spiegel.de/ausland/slowakei-robert-fico-und-die-linksnationale-smer-gewinnen-parlamentswahl](https://www.spiegel.de/ausland/slowakei-robert-fico-und-die-linksnationale-smer-gewinnen-parlamentswahl-a-5e3fced6-64af-4ce6-89b4-286d085a82ca#ref=rss)
+### parlamentswahl
+
+* [https://www.spiegel.de/ausland/slowakei-robert-fico-und-die-linksnationale-smer-gewinnen-parlamentswahl](https://www.spiegel.de/ausland/slowakei-robert-fico-und-die-linksnationale-smer-gewinnen-parlamentswahl-a-5e3fced6-64af-4ce6-89b4-286d085a82ca#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-der-slowakei-liberale-partei-fortschrittliche-slowakei-siegt-bei-parlamentswahl-laut-prognosen](https://www.spiegel.de/ausland/wahl-in-der-slowakei-liberale-partei-fortschrittliche-slowakei-siegt-bei-parlamentswahl-laut-prognosen-a-b7d6543a-1ade-42b4-b8e8-77097120ac66#ref=rss)
+### prognosen
+
+* [https://www.spiegel.de/ausland/slowakei-robert-fico-und-die-linksnationale-smer-gewinnen-parlamentswahl](https://www.spiegel.de/ausland/slowakei-robert-fico-und-die-linksnationale-smer-gewinnen-parlamentswahl-a-5e3fced6-64af-4ce6-89b4-286d085a82ca#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-der-slowakei-liberale-partei-fortschrittliche-slowakei-siegt-bei-parlamentswahl-laut-prognosen](https://www.spiegel.de/ausland/wahl-in-der-slowakei-liberale-partei-fortschrittliche-slowakei-siegt-bei-parlamentswahl-laut-prognosen-a-b7d6543a-1ade-42b4-b8e8-77097120ac66#ref=rss)
+### dürfte
+
+* [https://www.spiegel.de/ausland/slowakei-robert-fico-und-die-linksnationale-smer-gewinnen-parlamentswahl](https://www.spiegel.de/ausland/slowakei-robert-fico-und-die-linksnationale-smer-gewinnen-parlamentswahl-a-5e3fced6-64af-4ce6-89b4-286d085a82ca#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-der-slowakei-liberale-partei-fortschrittliche-slowakei-siegt-bei-parlamentswahl-laut-prognosen](https://www.spiegel.de/ausland/wahl-in-der-slowakei-liberale-partei-fortschrittliche-slowakei-siegt-bei-parlamentswahl-laut-prognosen-a-b7d6543a-1ade-42b4-b8e8-77097120ac66#ref=rss)
+### schwierig
+
+* [https://www.spiegel.de/ausland/slowakei-robert-fico-und-die-linksnationale-smer-gewinnen-parlamentswahl](https://www.spiegel.de/ausland/slowakei-robert-fico-und-die-linksnationale-smer-gewinnen-parlamentswahl-a-5e3fced6-64af-4ce6-89b4-286d085a82ca#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-der-slowakei-liberale-partei-fortschrittliche-slowakei-siegt-bei-parlamentswahl-laut-prognosen](https://www.spiegel.de/ausland/wahl-in-der-slowakei-liberale-partei-fortschrittliche-slowakei-siegt-bei-parlamentswahl-laut-prognosen-a-b7d6543a-1ade-42b4-b8e8-77097120ac66#ref=rss)
+### ersten
+
+* [https://www.spiegel.de/ausland/wahl-in-der-slowakei-liberale-partei-fortschrittliche-slowakei-siegt-bei-parlamentswahl-laut-prognosen](https://www.spiegel.de/ausland/wahl-in-der-slowakei-liberale-partei-fortschrittliche-slowakei-siegt-bei-parlamentswahl-laut-prognosen-a-b7d6543a-1ade-42b4-b8e8-77097120ac66#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-st-pauli-nach-sieg-ueber-hertha-bsc-tabellenfuehrer](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-st-pauli-nach-sieg-ueber-hertha-bsc-tabellenfuehrer-a-202fc5bf-0313-4e39-a5a3-ba393bd2d101#ref=rss)
+### prozent
+
+* [https://www.spiegel.de/ausland/wahl-in-der-slowakei-liberale-partei-fortschrittliche-slowakei-siegt-bei-parlamentswahl-laut-prognosen](https://www.spiegel.de/ausland/wahl-in-der-slowakei-liberale-partei-fortschrittliche-slowakei-siegt-bei-parlamentswahl-laut-prognosen-a-b7d6543a-1ade-42b4-b8e8-77097120ac66#ref=rss)
+### st
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-st-pauli-nach-sieg-ueber-hertha-bsc-tabellenfuehrer](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-st-pauli-nach-sieg-ueber-hertha-bsc-tabellenfuehrer-a-202fc5bf-0313-4e39-a5a3-ba393bd2d101#ref=rss)
+### pauli
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-st-pauli-nach-sieg-ueber-hertha-bsc-tabellenfuehrer](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-st-pauli-nach-sieg-ueber-hertha-bsc-tabellenfuehrer-a-202fc5bf-0313-4e39-a5a3-ba393bd2d101#ref=rss)
+### raisting
+
+* [https://www.spiegel.de/panorama/bayern-tierarzt-wird-von-kuh-eingequetscht-und-stirbt](https://www.spiegel.de/panorama/bayern-tierarzt-wird-von-kuh-eingequetscht-und-stirbt-a-f61963a9-81d5-4ab7-a8db-3f536da790d0#ref=rss)
+### kuh
+
+* [https://www.spiegel.de/panorama/bayern-tierarzt-wird-von-kuh-eingequetscht-und-stirbt](https://www.spiegel.de/panorama/bayern-tierarzt-wird-von-kuh-eingequetscht-und-stirbt-a-f61963a9-81d5-4ab7-a8db-3f536da790d0#ref=rss)
+### seelöwin
+
+* [https://www.spiegel.de/panorama/new-york-seeloewin-reisst-kurzzeitig-aus-gehege-aus](https://www.spiegel.de/panorama/new-york-seeloewin-reisst-kurzzeitig-aus-gehege-aus-a-4f890d8f-46fc-4776-a63e-03af8f12ae1b#ref=rss)
 
