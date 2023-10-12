@@ -6,293 +6,290 @@ tags: __no_header__
 
 ### israel
 
-* [https://www.spiegel.de/kultur/israel-angriffe-der-hamas-es-sind-immer-die-frauen-gastbeitrag-von-deborah-feldmann](https://www.spiegel.de/kultur/israel-angriffe-der-hamas-es-sind-immer-die-frauen-gastbeitrag-von-deborah-feldmann-a-63bad677-ab1b-4f94-b17b-a5094fe7f84b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/israel-deutschland-stellt-heron-kampfdrohnen-zur-verfuegung](https://www.spiegel.de/politik/deutschland/israel-deutschland-stellt-heron-kampfdrohnen-zur-verfuegung-a-90158f9b-1e3d-4389-8bef-5c7882aded3e#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-wirbt-um-unterstuetzung-bei-der-nato-selenskyjs-hilferuf](https://www.spiegel.de/ausland/ukraine-wirbt-um-unterstuetzung-bei-der-nato-selenskyjs-hilferuf-a-29873345-5d65-4ca0-b663-e15ac3dd5854#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-angriff-auf-israel-haussanierung-homeoffice-bei-zoom](https://www.spiegel.de/politik/deutschland/news-des-tages-angriff-auf-israel-haussanierung-homeoffice-bei-zoom-a-aea6885b-aa3e-43c9-8dad-6f62eb1910c4#ref=rss)
-* [https://www.spiegel.de/ausland/katar-strahlt-nach-hamas-angriff-auf-israel-museen-in-palaestina-farben-an](https://www.spiegel.de/ausland/katar-strahlt-nach-hamas-angriff-auf-israel-museen-in-palaestina-farben-an-a-f3b5a9e1-52d7-4c99-baec-5aa2de3ee996#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hamas-israel-polizei-ermittelt-nach-sympathiebekundungen-fuer-hamas-bei-umfrage](https://www.spiegel.de/panorama/justiz/hamas-israel-polizei-ermittelt-nach-sympathiebekundungen-fuer-hamas-bei-umfrage-a-03f9192a-2d42-41ad-a97a-88f4ac8b9104#ref=rss)
+* [https://www.spiegel.de/ausland/israel-news-heute-rettungshelfer-berichtet-von-lkws-voller-leichen](https://www.spiegel.de/ausland/israel-news-heute-rettungshelfer-berichtet-von-lkws-voller-leichen-a-50618c31-c6b9-4cdf-b190-ca45132ca936#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-bietet-ampel-uebergreifenden-kampf-gegen-antisemitismus-an](https://www.spiegel.de/politik/friedrich-merz-bietet-ampel-uebergreifenden-kampf-gegen-antisemitismus-an-a-8e3629e3-338f-4b5d-b321-ec34ac639922#ref=rss)
+* [https://www.spiegel.de/ausland/usa-israel-hamas-mission-abschreckung](https://www.spiegel.de/ausland/usa-israel-hamas-mission-abschreckung-a-002ac106-1707-4a96-bf2a-8587c4f861a4#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/angriff-auf-israel-fruehere-twitter-plattform-x-soll-hunderte-hamas-nahe-accounts-entfernt-haben](https://www.spiegel.de/netzwelt/netzpolitik/angriff-auf-israel-fruehere-twitter-plattform-x-soll-hunderte-hamas-nahe-accounts-entfernt-haben-a-0c504ae2-7d6b-4280-a83d-55f8e46edc09#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-regierungserklaerung-ueber-israel-und-hamas-terror](https://www.spiegel.de/politik/deutschland/olaf-scholz-regierungserklaerung-ueber-israel-und-hamas-terror-a-f087dc84-5113-4fe8-8347-4b5a2d0308f7#ref=rss)
+* [https://www.spiegel.de/politik/olaf-scholz-sieht-verantwortung-fuer-eskalation-auch-bei-iran](https://www.spiegel.de/politik/olaf-scholz-sieht-verantwortung-fuer-eskalation-auch-bei-iran-a-143b6885-8bf5-4d63-bfd3-5315be8b84fa#ref=rss)
+### regierungserklärung
+
+* [https://www.spiegel.de/politik/friedrich-merz-bietet-ampel-uebergreifenden-kampf-gegen-antisemitismus-an](https://www.spiegel.de/politik/friedrich-merz-bietet-ampel-uebergreifenden-kampf-gegen-antisemitismus-an-a-8e3629e3-338f-4b5d-b321-ec34ac639922#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-regierungserklaerung-ueber-israel-und-hamas-terror](https://www.spiegel.de/politik/deutschland/olaf-scholz-regierungserklaerung-ueber-israel-und-hamas-terror-a-f087dc84-5113-4fe8-8347-4b5a2d0308f7#ref=rss)
+* [https://www.spiegel.de/politik/olaf-scholz-sieht-verantwortung-fuer-eskalation-auch-bei-iran](https://www.spiegel.de/politik/olaf-scholz-sieht-verantwortung-fuer-eskalation-auch-bei-iran-a-143b6885-8bf5-4d63-bfd3-5315be8b84fa#ref=rss)
 ### hamas
 
-* [https://www.spiegel.de/kultur/israel-angriffe-der-hamas-es-sind-immer-die-frauen-gastbeitrag-von-deborah-feldmann](https://www.spiegel.de/kultur/israel-angriffe-der-hamas-es-sind-immer-die-frauen-gastbeitrag-von-deborah-feldmann-a-63bad677-ab1b-4f94-b17b-a5094fe7f84b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/israel-deutschland-stellt-heron-kampfdrohnen-zur-verfuegung](https://www.spiegel.de/politik/deutschland/israel-deutschland-stellt-heron-kampfdrohnen-zur-verfuegung-a-90158f9b-1e3d-4389-8bef-5c7882aded3e#ref=rss)
-* [https://www.spiegel.de/ausland/katar-strahlt-nach-hamas-angriff-auf-israel-museen-in-palaestina-farben-an](https://www.spiegel.de/ausland/katar-strahlt-nach-hamas-angriff-auf-israel-museen-in-palaestina-farben-an-a-f3b5a9e1-52d7-4c99-baec-5aa2de3ee996#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hamas-israel-polizei-ermittelt-nach-sympathiebekundungen-fuer-hamas-bei-umfrage](https://www.spiegel.de/panorama/justiz/hamas-israel-polizei-ermittelt-nach-sympathiebekundungen-fuer-hamas-bei-umfrage-a-03f9192a-2d42-41ad-a97a-88f4ac8b9104#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/kultur/israel-angriffe-der-hamas-es-sind-immer-die-frauen-gastbeitrag-von-deborah-feldmann](https://www.spiegel.de/kultur/israel-angriffe-der-hamas-es-sind-immer-die-frauen-gastbeitrag-von-deborah-feldmann-a-63bad677-ab1b-4f94-b17b-a5094fe7f84b#ref=rss)
-* [https://www.spiegel.de/deinspiegel/politikwissenschaftlerin-julia-reuschenbach-die-afd-gibt-vor-dass-grosse-probleme-einfach-loesbar-sind](https://www.spiegel.de/deinspiegel/politikwissenschaftlerin-julia-reuschenbach-die-afd-gibt-vor-dass-grosse-probleme-einfach-loesbar-sind-a-32ea6330-6adb-40a7-a6bb-e1553bfe8626#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/eu-kommission-und-gates-stiftung-wollen-polio-ausrottung-forcieren](https://www.spiegel.de/wirtschaft/soziales/eu-kommission-und-gates-stiftung-wollen-polio-ausrottung-forcieren-a-dfc88ccb-004c-4b0f-95d0-f862c5dc7b14#ref=rss)
-* [https://www.spiegel.de/wissenschaft/xenotransplantation-affen-ueberleben-bis-zu-zwei-jahre-mit-transplantierten-schweine-nieren](https://www.spiegel.de/wissenschaft/xenotransplantation-affen-ueberleben-bis-zu-zwei-jahre-mit-transplantierten-schweine-nieren-a-91ddaf8e-cda0-4ccf-bed4-6338b23091ce#ref=rss)
-* [https://www.spiegel.de/ausland/italien-matteo-salvini-wirbt-fuer-eine-rueckkehr-zur-atomkraft](https://www.spiegel.de/ausland/italien-matteo-salvini-wirbt-fuer-eine-rueckkehr-zur-atomkraft-a-c32bc52b-5f9a-4d5a-8206-fa8db95a1f4f#ref=rss)
-### neue
-
-* [https://www.spiegel.de/netzwelt/gadgets/pixel-8-und-pixel-8-pro-im-test-das-koennen-googles-neue-ki-smartphones](https://www.spiegel.de/netzwelt/gadgets/pixel-8-und-pixel-8-pro-im-test-das-koennen-googles-neue-ki-smartphones-a-d5591f35-d631-4b66-9fbe-ab3668a341f1#ref=rss)
-* [https://www.spiegel.de/sport/formel1/michael-andretti-will-in-die-formel-1-worum-geht-es-im-streit-um-neue-teams](https://www.spiegel.de/sport/formel1/michael-andretti-will-in-die-formel-1-worum-geht-es-im-streit-um-neue-teams-a-e221465f-6d42-4731-8d4d-9982ea8ee63a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-angriff-auf-israel-haussanierung-homeoffice-bei-zoom](https://www.spiegel.de/politik/deutschland/news-des-tages-angriff-auf-israel-haussanierung-homeoffice-bei-zoom-a-aea6885b-aa3e-43c9-8dad-6f62eb1910c4#ref=rss)
-* [https://www.spiegel.de/ausland/italien-matteo-salvini-wirbt-fuer-eine-rueckkehr-zur-atomkraft](https://www.spiegel.de/ausland/italien-matteo-salvini-wirbt-fuer-eine-rueckkehr-zur-atomkraft-a-c32bc52b-5f9a-4d5a-8206-fa8db95a1f4f#ref=rss)
-### ermittelt
-
-* [https://www.spiegel.de/wirtschaft/soziales/zoll-ermittelt-wegen-verdacht-auf-massive-ausbeutung-in-gefluegelbranche](https://www.spiegel.de/wirtschaft/soziales/zoll-ermittelt-wegen-verdacht-auf-massive-ausbeutung-in-gefluegelbranche-a-a3c7c599-4b6f-4c6e-bb83-19e5be27d5c4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/ozempic-apotheken-sollen-diabetesmittel-auf-faelschungen-pruefen](https://www.spiegel.de/wirtschaft/service/ozempic-apotheken-sollen-diabetesmittel-auf-faelschungen-pruefen-a-62253242-7f0a-4741-b40f-cb600642bec3#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hamas-israel-polizei-ermittelt-nach-sympathiebekundungen-fuer-hamas-bei-umfrage](https://www.spiegel.de/panorama/justiz/hamas-israel-polizei-ermittelt-nach-sympathiebekundungen-fuer-hamas-bei-umfrage-a-03f9192a-2d42-41ad-a97a-88f4ac8b9104#ref=rss)
+* [https://www.spiegel.de/ausland/usa-israel-hamas-mission-abschreckung](https://www.spiegel.de/ausland/usa-israel-hamas-mission-abschreckung-a-002ac106-1707-4a96-bf2a-8587c4f861a4#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/angriff-auf-israel-fruehere-twitter-plattform-x-soll-hunderte-hamas-nahe-accounts-entfernt-haben](https://www.spiegel.de/netzwelt/netzpolitik/angriff-auf-israel-fruehere-twitter-plattform-x-soll-hunderte-hamas-nahe-accounts-entfernt-haben-a-0c504ae2-7d6b-4280-a83d-55f8e46edc09#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-regierungserklaerung-ueber-israel-und-hamas-terror](https://www.spiegel.de/politik/deutschland/olaf-scholz-regierungserklaerung-ueber-israel-und-hamas-terror-a-f087dc84-5113-4fe8-8347-4b5a2d0308f7#ref=rss)
+* [https://www.spiegel.de/politik/olaf-scholz-sieht-verantwortung-fuer-eskalation-auch-bei-iran](https://www.spiegel.de/politik/olaf-scholz-sieht-verantwortung-fuer-eskalation-auch-bei-iran-a-143b6885-8bf5-4d63-bfd3-5315be8b84fa#ref=rss)
 ### afd
 
-* [https://www.spiegel.de/deinspiegel/politikwissenschaftlerin-julia-reuschenbach-die-afd-gibt-vor-dass-grosse-probleme-einfach-loesbar-sind](https://www.spiegel.de/deinspiegel/politikwissenschaftlerin-julia-reuschenbach-die-afd-gibt-vor-dass-grosse-probleme-einfach-loesbar-sind-a-32ea6330-6adb-40a7-a6bb-e1553bfe8626#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/afd-erfolge-in-ost-und-west-wir-sind-dieser-partei-nicht-ausgeliefert](https://www.spiegel.de/panorama/gesellschaft/afd-erfolge-in-ost-und-west-wir-sind-dieser-partei-nicht-ausgeliefert-a-d149f358-7d38-4bc0-82be-9ebe0ecca636#ref=rss)
-### zwei
+* [https://www.spiegel.de/politik/deutschland/christoph-ploss-cdu-abgeordneter-offen-fuer-bundestags-vize-der-afd](https://www.spiegel.de/politik/deutschland/christoph-ploss-cdu-abgeordneter-offen-fuer-bundestags-vize-der-afd-a-613877c2-fdda-4942-ba1d-2bde0206acf3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-linke-bietet-cdu-gespraeche-ueber-umgang-mit-afd-an](https://www.spiegel.de/politik/deutschland/sachsen-linke-bietet-cdu-gespraeche-ueber-umgang-mit-afd-an-a-b75cec60-4d6b-4a28-a9f7-83b7481dbcba#ref=rss)
+### olaf
 
-* [https://www.spiegel.de/panorama/justiz/bochum-zollhunde-erschnueffeln-180-000-euro-bargeld](https://www.spiegel.de/panorama/justiz/bochum-zollhunde-erschnueffeln-180-000-euro-bargeld-a-9b045767-d4c5-41af-9cb8-45af4087e878#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/eu-kommission-und-gates-stiftung-wollen-polio-ausrottung-forcieren](https://www.spiegel.de/wirtschaft/soziales/eu-kommission-und-gates-stiftung-wollen-polio-ausrottung-forcieren-a-dfc88ccb-004c-4b0f-95d0-f862c5dc7b14#ref=rss)
-* [https://www.spiegel.de/wissenschaft/xenotransplantation-affen-ueberleben-bis-zu-zwei-jahre-mit-transplantierten-schweine-nieren](https://www.spiegel.de/wissenschaft/xenotransplantation-affen-ueberleben-bis-zu-zwei-jahre-mit-transplantierten-schweine-nieren-a-91ddaf8e-cda0-4ccf-bed4-6338b23091ce#ref=rss)
-* [https://www.spiegel.de/panorama/mannheim-zwei-junge-maenner-nachts-im-riesenrad-uebersehen](https://www.spiegel.de/panorama/mannheim-zwei-junge-maenner-nachts-im-riesenrad-uebersehen-a-4e26af56-7d50-4777-a163-e5c7774ac3bc#ref=rss)
-### sagt
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-regierungserklaerung-ueber-israel-und-hamas-terror](https://www.spiegel.de/politik/deutschland/olaf-scholz-regierungserklaerung-ueber-israel-und-hamas-terror-a-f087dc84-5113-4fe8-8347-4b5a2d0308f7#ref=rss)
+* [https://www.spiegel.de/politik/olaf-scholz-sieht-verantwortung-fuer-eskalation-auch-bei-iran](https://www.spiegel.de/politik/olaf-scholz-sieht-verantwortung-fuer-eskalation-auch-bei-iran-a-143b6885-8bf5-4d63-bfd3-5315be8b84fa#ref=rss)
+### scholz
 
-* [https://www.spiegel.de/panorama/justiz/paris-sexvideos-eines-politikers-veroeffentlicht-kuenstler-verurteilt](https://www.spiegel.de/panorama/justiz/paris-sexvideos-eines-politikers-veroeffentlicht-kuenstler-verurteilt-a-43d34bbc-2961-40ad-ba56-2f869047e58d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/muenchens-zweite-buergermeisterin-katrin-habenschaden-wechselt-zur-deutschen-bahn](https://www.spiegel.de/politik/deutschland/muenchens-zweite-buergermeisterin-katrin-habenschaden-wechselt-zur-deutschen-bahn-a-e25447d4-19b8-403c-970c-18f91ea6683c#ref=rss)
-* [https://www.spiegel.de/deinspiegel/politikwissenschaftlerin-julia-reuschenbach-die-afd-gibt-vor-dass-grosse-probleme-einfach-loesbar-sind](https://www.spiegel.de/deinspiegel/politikwissenschaftlerin-julia-reuschenbach-die-afd-gibt-vor-dass-grosse-probleme-einfach-loesbar-sind-a-32ea6330-6adb-40a7-a6bb-e1553bfe8626#ref=rss)
-### ukraine
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-regierungserklaerung-ueber-israel-und-hamas-terror](https://www.spiegel.de/politik/deutschland/olaf-scholz-regierungserklaerung-ueber-israel-und-hamas-terror-a-f087dc84-5113-4fe8-8347-4b5a2d0308f7#ref=rss)
+* [https://www.spiegel.de/politik/olaf-scholz-sieht-verantwortung-fuer-eskalation-auch-bei-iran](https://www.spiegel.de/politik/olaf-scholz-sieht-verantwortung-fuer-eskalation-auch-bei-iran-a-143b6885-8bf5-4d63-bfd3-5315be8b84fa#ref=rss)
+### millionen
 
-* [https://www.spiegel.de/kultur/israel-angriffe-der-hamas-es-sind-immer-die-frauen-gastbeitrag-von-deborah-feldmann](https://www.spiegel.de/kultur/israel-angriffe-der-hamas-es-sind-immer-die-frauen-gastbeitrag-von-deborah-feldmann-a-63bad677-ab1b-4f94-b17b-a5094fe7f84b#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-wirbt-um-unterstuetzung-bei-der-nato-selenskyjs-hilferuf](https://www.spiegel.de/ausland/ukraine-wirbt-um-unterstuetzung-bei-der-nato-selenskyjs-hilferuf-a-29873345-5d65-4ca0-b663-e15ac3dd5854#ref=rss)
-### neuen
+* [https://www.spiegel.de/netzwelt/web/ddos-attacken-amazon-google-und-cloudflare-melden-bisher-groesste-ueberlastungsangriffe](https://www.spiegel.de/netzwelt/web/ddos-attacken-amazon-google-und-cloudflare-melden-bisher-groesste-ueberlastungsangriffe-a-64bc6170-637b-463b-80d3-c74ccebb1ee8#ref=rss)
+* [https://www.spiegel.de/ausland/migrationsdeal-tunesien-zahlt-60-millionen-euro-an-die-eu-zurueck](https://www.spiegel.de/ausland/migrationsdeal-tunesien-zahlt-60-millionen-euro-an-die-eu-zurueck-a-8b7f6c3e-58cd-432e-8ca1-e21bc7131e12#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/ex-formel-1-boss-bernie-ecclestone-raeumt-vor-gericht-betrug-ein](https://www.spiegel.de/panorama/justiz/ex-formel-1-boss-bernie-ecclestone-raeumt-vor-gericht-betrug-ein-a-a7c8c8b9-00cb-49d0-b99b-e01039452c95#ref=rss)
+### zahlt
 
-* [https://www.spiegel.de/netzwelt/gadgets/pixel-8-und-pixel-8-pro-im-test-das-koennen-googles-neue-ki-smartphones](https://www.spiegel.de/netzwelt/gadgets/pixel-8-und-pixel-8-pro-im-test-das-koennen-googles-neue-ki-smartphones-a-d5591f35-d631-4b66-9fbe-ab3668a341f1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/eu-kommission-und-gates-stiftung-wollen-polio-ausrottung-forcieren](https://www.spiegel.de/wirtschaft/soziales/eu-kommission-und-gates-stiftung-wollen-polio-ausrottung-forcieren-a-dfc88ccb-004c-4b0f-95d0-f862c5dc7b14#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-palaestinensische-journalistin-ueber-das-bombardement-es-ist-nirgendwo-sicher](https://www.spiegel.de/ausland/gaza-palaestinensische-journalistin-ueber-das-bombardement-es-ist-nirgendwo-sicher-a-c2d90c75-867c-4f5a-8628-986778cc0634#ref=rss)
+* [https://www.spiegel.de/ausland/migrationsdeal-tunesien-zahlt-60-millionen-euro-an-die-eu-zurueck](https://www.spiegel.de/ausland/migrationsdeal-tunesien-zahlt-60-millionen-euro-an-die-eu-zurueck-a-8b7f6c3e-58cd-432e-8ca1-e21bc7131e12#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ukraine-belgien-will-einnahmen-aus-russen-vermoegen-an-ukraine-ueberweisen](https://www.spiegel.de/wirtschaft/ukraine-belgien-will-einnahmen-aus-russen-vermoegen-an-ukraine-ueberweisen-a-62c999a5-6a7f-4475-a766-309f1818b7e7#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/ex-formel-1-boss-bernie-ecclestone-raeumt-vor-gericht-betrug-ein](https://www.spiegel.de/panorama/justiz/ex-formel-1-boss-bernie-ecclestone-raeumt-vor-gericht-betrug-ein-a-a7c8c8b9-00cb-49d0-b99b-e01039452c95#ref=rss)
+### eu
+
+* [https://www.spiegel.de/ausland/migrationsdeal-tunesien-zahlt-60-millionen-euro-an-die-eu-zurueck](https://www.spiegel.de/ausland/migrationsdeal-tunesien-zahlt-60-millionen-euro-an-die-eu-zurueck-a-8b7f6c3e-58cd-432e-8ca1-e21bc7131e12#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/angriff-auf-israel-fruehere-twitter-plattform-x-soll-hunderte-hamas-nahe-accounts-entfernt-haben](https://www.spiegel.de/netzwelt/netzpolitik/angriff-auf-israel-fruehere-twitter-plattform-x-soll-hunderte-hamas-nahe-accounts-entfernt-haben-a-0c504ae2-7d6b-4280-a83d-55f8e46edc09#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/israel-deutschland-stellt-heron-kampfdrohnen-zur-verfuegung](https://www.spiegel.de/politik/deutschland/israel-deutschland-stellt-heron-kampfdrohnen-zur-verfuegung-a-90158f9b-1e3d-4389-8bef-5c7882aded3e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-angriff-auf-israel-haussanierung-homeoffice-bei-zoom](https://www.spiegel.de/politik/deutschland/news-des-tages-angriff-auf-israel-haussanierung-homeoffice-bei-zoom-a-aea6885b-aa3e-43c9-8dad-6f62eb1910c4#ref=rss)
-### wirbt
+* [https://www.spiegel.de/politik/deutschland/sterbehilfe-bundestagsabgeordnete-gruenden-kreis-zur-suizidpraevention](https://www.spiegel.de/politik/deutschland/sterbehilfe-bundestagsabgeordnete-gruenden-kreis-zur-suizidpraevention-a-51034cf6-a6a8-4e43-853d-4d3d89039166#ref=rss)
+* [https://www.spiegel.de/wirtschaft/tourismus-zahl-der-urlauber-sinkt-und-trotzdem-boomt-die-branche](https://www.spiegel.de/wirtschaft/tourismus-zahl-der-urlauber-sinkt-und-trotzdem-boomt-die-branche-a-f0053790-76bc-431f-a403-782e75fcb2f6#ref=rss)
+* [https://www.spiegel.de/politik/olaf-scholz-sieht-verantwortung-fuer-eskalation-auch-bei-iran](https://www.spiegel.de/politik/olaf-scholz-sieht-verantwortung-fuer-eskalation-auch-bei-iran-a-143b6885-8bf5-4d63-bfd3-5315be8b84fa#ref=rss)
+### zeigt
 
-* [https://www.spiegel.de/ausland/ukraine-wirbt-um-unterstuetzung-bei-der-nato-selenskyjs-hilferuf](https://www.spiegel.de/ausland/ukraine-wirbt-um-unterstuetzung-bei-der-nato-selenskyjs-hilferuf-a-29873345-5d65-4ca0-b663-e15ac3dd5854#ref=rss)
-* [https://www.spiegel.de/ausland/italien-matteo-salvini-wirbt-fuer-eine-rueckkehr-zur-atomkraft](https://www.spiegel.de/ausland/italien-matteo-salvini-wirbt-fuer-eine-rueckkehr-zur-atomkraft-a-c32bc52b-5f9a-4d5a-8206-fa8db95a1f4f#ref=rss)
-### berlin
+* [https://www.spiegel.de/wissenschaft/mensch/wein-studie-dieses-wetter-ist-fuer-trauben-am-besten](https://www.spiegel.de/wissenschaft/mensch/wein-studie-dieses-wetter-ist-fuer-trauben-am-besten-a-d4628d2d-c859-4371-921f-eda943e77849#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/prostatakrebs-wie-zuverlaessig-ist-die-rektale-tastuntersuchung](https://www.spiegel.de/wissenschaft/medizin/prostatakrebs-wie-zuverlaessig-ist-die-rektale-tastuntersuchung-a-0b1b7874-f6fc-4cf3-9c1c-006557fe15d0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-linke-bietet-cdu-gespraeche-ueber-umgang-mit-afd-an](https://www.spiegel.de/politik/deutschland/sachsen-linke-bietet-cdu-gespraeche-ueber-umgang-mit-afd-an-a-b75cec60-4d6b-4a28-a9f7-83b7481dbcba#ref=rss)
+### usa
 
-* [https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-millionenschwere-manipulation-bei-parkgebuehren](https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-millionenschwere-manipulation-bei-parkgebuehren-a-5c7cee44-ba89-4e65-aa34-8c11004fc6d3#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/aquadom-in-berlin-was-ein-zahn-ueber-das-geplatzte-riesenaquarium-verraet](https://www.spiegel.de/panorama/gesellschaft/aquadom-in-berlin-was-ein-zahn-ueber-das-geplatzte-riesenaquarium-verraet-a-9e9500aa-6517-48fd-84be-403b7e54e60a#ref=rss)
-### partei
+* [https://www.spiegel.de/sport/fussball/lionel-messi-bei-inter-miami-das-jaehe-ende-der-messi-mania](https://www.spiegel.de/sport/fussball/lionel-messi-bei-inter-miami-das-jaehe-ende-der-messi-mania-a-95ff9889-4ac9-44ea-8f4b-aeda1ac5eccf#ref=rss)
+* [https://www.spiegel.de/sport/ironman-auf-hawaii-2023-alles-zur-triathlon-weltmeisterschaft-in-den-usa](https://www.spiegel.de/sport/ironman-auf-hawaii-2023-alles-zur-triathlon-weltmeisterschaft-in-den-usa-a-5ccd6db5-08b9-4f47-8fe9-47d3a3440228#ref=rss)
+* [https://www.spiegel.de/ausland/usa-israel-hamas-mission-abschreckung](https://www.spiegel.de/ausland/usa-israel-hamas-mission-abschreckung-a-002ac106-1707-4a96-bf2a-8587c4f861a4#ref=rss)
+### neue
 
-* [https://www.spiegel.de/deinspiegel/politikwissenschaftlerin-julia-reuschenbach-die-afd-gibt-vor-dass-grosse-probleme-einfach-loesbar-sind](https://www.spiegel.de/deinspiegel/politikwissenschaftlerin-julia-reuschenbach-die-afd-gibt-vor-dass-grosse-probleme-einfach-loesbar-sind-a-32ea6330-6adb-40a7-a6bb-e1553bfe8626#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/afd-erfolge-in-ost-und-west-wir-sind-dieser-partei-nicht-ausgeliefert](https://www.spiegel.de/panorama/gesellschaft/afd-erfolge-in-ost-und-west-wir-sind-dieser-partei-nicht-ausgeliefert-a-d149f358-7d38-4bc0-82be-9ebe0ecca636#ref=rss)
-* [https://www.spiegel.de/kultur/spd-was-macht-die-partei-falsch-clemens-schick](https://www.spiegel.de/kultur/spd-was-macht-die-partei-falsch-clemens-schick-a-a82145f2-3c4b-4129-8e04-6367f2ea11c5#ref=rss)
-### steve
-
-* [https://www.spiegel.de/ausland/republikaner-nominieren-steve-scalise-fuer-chefposten-im-us-kongress](https://www.spiegel.de/ausland/republikaner-nominieren-steve-scalise-fuer-chefposten-im-us-kongress-a-64189961-3537-4de4-9b86-4dae7b05455a#ref=rss)
-### scalise
-
-* [https://www.spiegel.de/ausland/republikaner-nominieren-steve-scalise-fuer-chefposten-im-us-kongress](https://www.spiegel.de/ausland/republikaner-nominieren-steve-scalise-fuer-chefposten-im-us-kongress-a-64189961-3537-4de4-9b86-4dae7b05455a#ref=rss)
-### mittwochabend
-
-* [https://www.spiegel.de/ausland/republikaner-nominieren-steve-scalise-fuer-chefposten-im-us-kongress](https://www.spiegel.de/ausland/republikaner-nominieren-steve-scalise-fuer-chefposten-im-us-kongress-a-64189961-3537-4de4-9b86-4dae7b05455a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-angriff-auf-israel-haussanierung-homeoffice-bei-zoom](https://www.spiegel.de/politik/deutschland/news-des-tages-angriff-auf-israel-haussanierung-homeoffice-bei-zoom-a-aea6885b-aa3e-43c9-8dad-6f62eb1910c4#ref=rss)
-### politikers
-
-* [https://www.spiegel.de/panorama/justiz/paris-sexvideos-eines-politikers-veroeffentlicht-kuenstler-verurteilt](https://www.spiegel.de/panorama/justiz/paris-sexvideos-eines-politikers-veroeffentlicht-kuenstler-verurteilt-a-43d34bbc-2961-40ad-ba56-2f869047e58d#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/panorama/justiz/paris-sexvideos-eines-politikers-veroeffentlicht-kuenstler-verurteilt](https://www.spiegel.de/panorama/justiz/paris-sexvideos-eines-politikers-veroeffentlicht-kuenstler-verurteilt-a-43d34bbc-2961-40ad-ba56-2f869047e58d#ref=rss)
-### abschiebungen
-
-* [https://www.spiegel.de/politik/deutschland/abschiebungen-gruene-jugend-kritisiert-migrationsbeschluss-der-bundesregierung](https://www.spiegel.de/politik/deutschland/abschiebungen-gruene-jugend-kritisiert-migrationsbeschluss-der-bundesregierung-a-0aff0c03-1f3f-431b-ae34-0eea24a5e9d8#ref=rss)
-### migrationsbeschluss
-
-* [https://www.spiegel.de/politik/deutschland/abschiebungen-gruene-jugend-kritisiert-migrationsbeschluss-der-bundesregierung](https://www.spiegel.de/politik/deutschland/abschiebungen-gruene-jugend-kritisiert-migrationsbeschluss-der-bundesregierung-a-0aff0c03-1f3f-431b-ae34-0eea24a5e9d8#ref=rss)
-### bundesregierung
-
-* [https://www.spiegel.de/politik/deutschland/abschiebungen-gruene-jugend-kritisiert-migrationsbeschluss-der-bundesregierung](https://www.spiegel.de/politik/deutschland/abschiebungen-gruene-jugend-kritisiert-migrationsbeschluss-der-bundesregierung-a-0aff0c03-1f3f-431b-ae34-0eea24a5e9d8#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/kultur/israel-angriffe-der-hamas-es-sind-immer-die-frauen-gastbeitrag-von-deborah-feldmann](https://www.spiegel.de/kultur/israel-angriffe-der-hamas-es-sind-immer-die-frauen-gastbeitrag-von-deborah-feldmann-a-63bad677-ab1b-4f94-b17b-a5094fe7f84b#ref=rss)
-### bilder
-
-* [https://www.spiegel.de/kultur/israel-angriffe-der-hamas-es-sind-immer-die-frauen-gastbeitrag-von-deborah-feldmann](https://www.spiegel.de/kultur/israel-angriffe-der-hamas-es-sind-immer-die-frauen-gastbeitrag-von-deborah-feldmann-a-63bad677-ab1b-4f94-b17b-a5094fe7f84b#ref=rss)
-* [https://www.spiegel.de/ausland/katar-strahlt-nach-hamas-angriff-auf-israel-museen-in-palaestina-farben-an](https://www.spiegel.de/ausland/katar-strahlt-nach-hamas-angriff-auf-israel-museen-in-palaestina-farben-an-a-f3b5a9e1-52d7-4c99-baec-5aa2de3ee996#ref=rss)
-### pixel
-
-* [https://www.spiegel.de/netzwelt/gadgets/pixel-8-und-pixel-8-pro-im-test-das-koennen-googles-neue-ki-smartphones](https://www.spiegel.de/netzwelt/gadgets/pixel-8-und-pixel-8-pro-im-test-das-koennen-googles-neue-ki-smartphones-a-d5591f35-d631-4b66-9fbe-ab3668a341f1#ref=rss)
-### 8
-
-* [https://www.spiegel.de/netzwelt/gadgets/pixel-8-und-pixel-8-pro-im-test-das-koennen-googles-neue-ki-smartphones](https://www.spiegel.de/netzwelt/gadgets/pixel-8-und-pixel-8-pro-im-test-das-koennen-googles-neue-ki-smartphones-a-d5591f35-d631-4b66-9fbe-ab3668a341f1#ref=rss)
-### test
-
-* [https://www.spiegel.de/netzwelt/gadgets/pixel-8-und-pixel-8-pro-im-test-das-koennen-googles-neue-ki-smartphones](https://www.spiegel.de/netzwelt/gadgets/pixel-8-und-pixel-8-pro-im-test-das-koennen-googles-neue-ki-smartphones-a-d5591f35-d631-4b66-9fbe-ab3668a341f1#ref=rss)
-### wichtigen
-
-* [https://www.spiegel.de/netzwelt/gadgets/pixel-8-und-pixel-8-pro-im-test-das-koennen-googles-neue-ki-smartphones](https://www.spiegel.de/netzwelt/gadgets/pixel-8-und-pixel-8-pro-im-test-das-koennen-googles-neue-ki-smartphones-a-d5591f35-d631-4b66-9fbe-ab3668a341f1#ref=rss)
-* [https://www.spiegel.de/wissenschaft/xenotransplantation-affen-ueberleben-bis-zu-zwei-jahre-mit-transplantierten-schweine-nieren](https://www.spiegel.de/wissenschaft/xenotransplantation-affen-ueberleben-bis-zu-zwei-jahre-mit-transplantierten-schweine-nieren-a-91ddaf8e-cda0-4ccf-bed4-6338b23091ce#ref=rss)
-### stellt
-
-* [https://www.spiegel.de/politik/deutschland/israel-deutschland-stellt-heron-kampfdrohnen-zur-verfuegung](https://www.spiegel.de/politik/deutschland/israel-deutschland-stellt-heron-kampfdrohnen-zur-verfuegung-a-90158f9b-1e3d-4389-8bef-5c7882aded3e#ref=rss)
-### heronkampfdrohnen
-
-* [https://www.spiegel.de/politik/deutschland/israel-deutschland-stellt-heron-kampfdrohnen-zur-verfuegung](https://www.spiegel.de/politik/deutschland/israel-deutschland-stellt-heron-kampfdrohnen-zur-verfuegung-a-90158f9b-1e3d-4389-8bef-5c7882aded3e#ref=rss)
-### verfügung
-
-* [https://www.spiegel.de/politik/deutschland/israel-deutschland-stellt-heron-kampfdrohnen-zur-verfuegung](https://www.spiegel.de/politik/deutschland/israel-deutschland-stellt-heron-kampfdrohnen-zur-verfuegung-a-90158f9b-1e3d-4389-8bef-5c7882aded3e#ref=rss)
-### unterstützen
-
-* [https://www.spiegel.de/politik/deutschland/israel-deutschland-stellt-heron-kampfdrohnen-zur-verfuegung](https://www.spiegel.de/politik/deutschland/israel-deutschland-stellt-heron-kampfdrohnen-zur-verfuegung-a-90158f9b-1e3d-4389-8bef-5c7882aded3e#ref=rss)
-* [https://www.spiegel.de/deinspiegel/politikwissenschaftlerin-julia-reuschenbach-die-afd-gibt-vor-dass-grosse-probleme-einfach-loesbar-sind](https://www.spiegel.de/deinspiegel/politikwissenschaftlerin-julia-reuschenbach-die-afd-gibt-vor-dass-grosse-probleme-einfach-loesbar-sind-a-32ea6330-6adb-40a7-a6bb-e1553bfe8626#ref=rss)
-### beiden
-
-* [https://www.spiegel.de/politik/deutschland/israel-deutschland-stellt-heron-kampfdrohnen-zur-verfuegung](https://www.spiegel.de/politik/deutschland/israel-deutschland-stellt-heron-kampfdrohnen-zur-verfuegung-a-90158f9b-1e3d-4389-8bef-5c7882aded3e#ref=rss)
-* [https://www.spiegel.de/panorama/mannheim-zwei-junge-maenner-nachts-im-riesenrad-uebersehen](https://www.spiegel.de/panorama/mannheim-zwei-junge-maenner-nachts-im-riesenrad-uebersehen-a-4e26af56-7d50-4777-a163-e5c7774ac3bc#ref=rss)
-### denen
-
-* [https://www.spiegel.de/politik/deutschland/israel-deutschland-stellt-heron-kampfdrohnen-zur-verfuegung](https://www.spiegel.de/politik/deutschland/israel-deutschland-stellt-heron-kampfdrohnen-zur-verfuegung-a-90158f9b-1e3d-4389-8bef-5c7882aded3e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bochum-zollhunde-erschnueffeln-180-000-euro-bargeld](https://www.spiegel.de/panorama/justiz/bochum-zollhunde-erschnueffeln-180-000-euro-bargeld-a-9b045767-d4c5-41af-9cb8-45af4087e878#ref=rss)
-### litauen
-
-* [https://www.spiegel.de/politik/deutschland/litauen-aufbau-von-bundeswehr-kampfbrigade-wird-jahre-dauern](https://www.spiegel.de/politik/deutschland/litauen-aufbau-von-bundeswehr-kampfbrigade-wird-jahre-dauern-a-7c6d7020-5f91-41ec-85dd-b1e4510b449f#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/politik/deutschland/litauen-aufbau-von-bundeswehr-kampfbrigade-wird-jahre-dauern](https://www.spiegel.de/politik/deutschland/litauen-aufbau-von-bundeswehr-kampfbrigade-wird-jahre-dauern-a-7c6d7020-5f91-41ec-85dd-b1e4510b449f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/xenotransplantation-affen-ueberleben-bis-zu-zwei-jahre-mit-transplantierten-schweine-nieren](https://www.spiegel.de/wissenschaft/xenotransplantation-affen-ueberleben-bis-zu-zwei-jahre-mit-transplantierten-schweine-nieren-a-91ddaf8e-cda0-4ccf-bed4-6338b23091ce#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/politik/deutschland/litauen-aufbau-von-bundeswehr-kampfbrigade-wird-jahre-dauern](https://www.spiegel.de/politik/deutschland/litauen-aufbau-von-bundeswehr-kampfbrigade-wird-jahre-dauern-a-7c6d7020-5f91-41ec-85dd-b1e4510b449f#ref=rss)
-### verdacht
-
-* [https://www.spiegel.de/wirtschaft/soziales/zoll-ermittelt-wegen-verdacht-auf-massive-ausbeutung-in-gefluegelbranche](https://www.spiegel.de/wirtschaft/soziales/zoll-ermittelt-wegen-verdacht-auf-massive-ausbeutung-in-gefluegelbranche-a-a3c7c599-4b6f-4c6e-bb83-19e5be27d5c4#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-millionenschwere-manipulation-bei-parkgebuehren](https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-millionenschwere-manipulation-bei-parkgebuehren-a-5c7cee44-ba89-4e65-aa34-8c11004fc6d3#ref=rss)
-### geflügelbranche
-
-* [https://www.spiegel.de/wirtschaft/soziales/zoll-ermittelt-wegen-verdacht-auf-massive-ausbeutung-in-gefluegelbranche](https://www.spiegel.de/wirtschaft/soziales/zoll-ermittelt-wegen-verdacht-auf-massive-ausbeutung-in-gefluegelbranche-a-a3c7c599-4b6f-4c6e-bb83-19e5be27d5c4#ref=rss)
-### formel
-
-* [https://www.spiegel.de/sport/formel1/michael-andretti-will-in-die-formel-1-worum-geht-es-im-streit-um-neue-teams](https://www.spiegel.de/sport/formel1/michael-andretti-will-in-die-formel-1-worum-geht-es-im-streit-um-neue-teams-a-e221465f-6d42-4731-8d4d-9982ea8ee63a#ref=rss)
-### 1
-
-* [https://www.spiegel.de/sport/formel1/michael-andretti-will-in-die-formel-1-worum-geht-es-im-streit-um-neue-teams](https://www.spiegel.de/sport/formel1/michael-andretti-will-in-die-formel-1-worum-geht-es-im-streit-um-neue-teams-a-e221465f-6d42-4731-8d4d-9982ea8ee63a#ref=rss)
-### worum
-
-* [https://www.spiegel.de/sport/formel1/michael-andretti-will-in-die-formel-1-worum-geht-es-im-streit-um-neue-teams](https://www.spiegel.de/sport/formel1/michael-andretti-will-in-die-formel-1-worum-geht-es-im-streit-um-neue-teams-a-e221465f-6d42-4731-8d4d-9982ea8ee63a#ref=rss)
-### unterstützung
-
-* [https://www.spiegel.de/ausland/ukraine-wirbt-um-unterstuetzung-bei-der-nato-selenskyjs-hilferuf](https://www.spiegel.de/ausland/ukraine-wirbt-um-unterstuetzung-bei-der-nato-selenskyjs-hilferuf-a-29873345-5d65-4ca0-b663-e15ac3dd5854#ref=rss)
-### ozempic
-
-* [https://www.spiegel.de/wirtschaft/service/ozempic-apotheken-sollen-diabetesmittel-auf-faelschungen-pruefen](https://www.spiegel.de/wirtschaft/service/ozempic-apotheken-sollen-diabetesmittel-auf-faelschungen-pruefen-a-62253242-7f0a-4741-b40f-cb600642bec3#ref=rss)
-### apotheken
-
-* [https://www.spiegel.de/wirtschaft/service/ozempic-apotheken-sollen-diabetesmittel-auf-faelschungen-pruefen](https://www.spiegel.de/wirtschaft/service/ozempic-apotheken-sollen-diabetesmittel-auf-faelschungen-pruefen-a-62253242-7f0a-4741-b40f-cb600642bec3#ref=rss)
-### hauptstadt
-
-* [https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-millionenschwere-manipulation-bei-parkgebuehren](https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-millionenschwere-manipulation-bei-parkgebuehren-a-5c7cee44-ba89-4e65-aa34-8c11004fc6d3#ref=rss)
-* [https://www.spiegel.de/ausland/katar-strahlt-nach-hamas-angriff-auf-israel-museen-in-palaestina-farben-an](https://www.spiegel.de/ausland/katar-strahlt-nach-hamas-angriff-auf-israel-museen-in-palaestina-farben-an-a-f3b5a9e1-52d7-4c99-baec-5aa2de3ee996#ref=rss)
-### zweite
-
-* [https://www.spiegel.de/politik/deutschland/muenchens-zweite-buergermeisterin-katrin-habenschaden-wechselt-zur-deutschen-bahn](https://www.spiegel.de/politik/deutschland/muenchens-zweite-buergermeisterin-katrin-habenschaden-wechselt-zur-deutschen-bahn-a-e25447d4-19b8-403c-970c-18f91ea6683c#ref=rss)
-### bürgermeisterin
-
-* [https://www.spiegel.de/politik/deutschland/muenchens-zweite-buergermeisterin-katrin-habenschaden-wechselt-zur-deutschen-bahn](https://www.spiegel.de/politik/deutschland/muenchens-zweite-buergermeisterin-katrin-habenschaden-wechselt-zur-deutschen-bahn-a-e25447d4-19b8-403c-970c-18f91ea6683c#ref=rss)
-### katrin
-
-* [https://www.spiegel.de/politik/deutschland/muenchens-zweite-buergermeisterin-katrin-habenschaden-wechselt-zur-deutschen-bahn](https://www.spiegel.de/politik/deutschland/muenchens-zweite-buergermeisterin-katrin-habenschaden-wechselt-zur-deutschen-bahn-a-e25447d4-19b8-403c-970c-18f91ea6683c#ref=rss)
-### habenschaden
-
-* [https://www.spiegel.de/politik/deutschland/muenchens-zweite-buergermeisterin-katrin-habenschaden-wechselt-zur-deutschen-bahn](https://www.spiegel.de/politik/deutschland/muenchens-zweite-buergermeisterin-katrin-habenschaden-wechselt-zur-deutschen-bahn-a-e25447d4-19b8-403c-970c-18f91ea6683c#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/politik/deutschland/muenchens-zweite-buergermeisterin-katrin-habenschaden-wechselt-zur-deutschen-bahn](https://www.spiegel.de/politik/deutschland/muenchens-zweite-buergermeisterin-katrin-habenschaden-wechselt-zur-deutschen-bahn-a-e25447d4-19b8-403c-970c-18f91ea6683c#ref=rss)
-* [https://www.spiegel.de/kultur/spd-was-macht-die-partei-falsch-clemens-schick](https://www.spiegel.de/kultur/spd-was-macht-die-partei-falsch-clemens-schick-a-a82145f2-3c4b-4129-8e04-6367f2ea11c5#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/politik/deutschland/muenchens-zweite-buergermeisterin-katrin-habenschaden-wechselt-zur-deutschen-bahn](https://www.spiegel.de/politik/deutschland/muenchens-zweite-buergermeisterin-katrin-habenschaden-wechselt-zur-deutschen-bahn-a-e25447d4-19b8-403c-970c-18f91ea6683c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/lionel-messi-bei-inter-miami-das-jaehe-ende-der-messi-mania](https://www.spiegel.de/sport/fussball/lionel-messi-bei-inter-miami-das-jaehe-ende-der-messi-mania-a-95ff9889-4ac9-44ea-8f4b-aeda1ac5eccf#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/easyjet-gibt-grossbestellung-bei-airbus-auf](https://www.spiegel.de/wirtschaft/unternehmen/easyjet-gibt-grossbestellung-bei-airbus-auf-a-b3f4f7da-93d8-4e8f-bc93-c4904c9ed9bc#ref=rss)
+* [https://www.spiegel.de/sport/eishockey/nhl-auftakt-leon-draisaitl-von-den-edmonton-oilers-trifft-und-erleidet-debakel](https://www.spiegel.de/sport/eishockey/nhl-auftakt-leon-draisaitl-von-den-edmonton-oilers-trifft-und-erleidet-debakel-a-52a20771-1dc4-44ad-b598-cadabdc8eb61#ref=rss)
 ### viele
 
-* [https://www.spiegel.de/deinspiegel/politikwissenschaftlerin-julia-reuschenbach-die-afd-gibt-vor-dass-grosse-probleme-einfach-loesbar-sind](https://www.spiegel.de/deinspiegel/politikwissenschaftlerin-julia-reuschenbach-die-afd-gibt-vor-dass-grosse-probleme-einfach-loesbar-sind-a-32ea6330-6adb-40a7-a6bb-e1553bfe8626#ref=rss)
-* [https://www.spiegel.de/ausland/katar-strahlt-nach-hamas-angriff-auf-israel-museen-in-palaestina-farben-an](https://www.spiegel.de/ausland/katar-strahlt-nach-hamas-angriff-auf-israel-museen-in-palaestina-farben-an-a-f3b5a9e1-52d7-4c99-baec-5aa2de3ee996#ref=rss)
+* [https://www.spiegel.de/wirtschaft/tourismus-zahl-der-urlauber-sinkt-und-trotzdem-boomt-die-branche](https://www.spiegel.de/wirtschaft/tourismus-zahl-der-urlauber-sinkt-und-trotzdem-boomt-die-branche-a-f0053790-76bc-431f-a403-782e75fcb2f6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ukraine-belgien-will-einnahmen-aus-russen-vermoegen-an-ukraine-ueberweisen](https://www.spiegel.de/wirtschaft/ukraine-belgien-will-einnahmen-aus-russen-vermoegen-an-ukraine-ueberweisen-a-62c999a5-6a7f-4475-a766-309f1818b7e7#ref=rss)
+* [https://www.spiegel.de/gesundheit/martin-korte-ueber-smartphone-sucht-wir-muessen-uns-aktiv-wehren](https://www.spiegel.de/gesundheit/martin-korte-ueber-smartphone-sucht-wir-muessen-uns-aktiv-wehren-a-0ecb8ea8-f913-4221-b761-34389dd6cbae#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/deinspiegel/politikwissenschaftlerin-julia-reuschenbach-die-afd-gibt-vor-dass-grosse-probleme-einfach-loesbar-sind](https://www.spiegel.de/deinspiegel/politikwissenschaftlerin-julia-reuschenbach-die-afd-gibt-vor-dass-grosse-probleme-einfach-loesbar-sind-a-32ea6330-6adb-40a7-a6bb-e1553bfe8626#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hamas-israel-polizei-ermittelt-nach-sympathiebekundungen-fuer-hamas-bei-umfrage](https://www.spiegel.de/panorama/justiz/hamas-israel-polizei-ermittelt-nach-sympathiebekundungen-fuer-hamas-bei-umfrage-a-03f9192a-2d42-41ad-a97a-88f4ac8b9104#ref=rss)
-### aquadom
+* [https://www.spiegel.de/wirtschaft/tourismus-zahl-der-urlauber-sinkt-und-trotzdem-boomt-die-branche](https://www.spiegel.de/wirtschaft/tourismus-zahl-der-urlauber-sinkt-und-trotzdem-boomt-die-branche-a-f0053790-76bc-431f-a403-782e75fcb2f6#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/busunglueck-in-venedig-italienische-staatsanwaltschaft-ermittelt-gegen-drei-verdaechtige](https://www.spiegel.de/panorama/gesellschaft/busunglueck-in-venedig-italienische-staatsanwaltschaft-ermittelt-gegen-drei-verdaechtige-a-22289a1b-f15d-4440-8c6e-bf75ad088784#ref=rss)
+* [https://www.spiegel.de/gesundheit/martin-korte-ueber-smartphone-sucht-wir-muessen-uns-aktiv-wehren](https://www.spiegel.de/gesundheit/martin-korte-ueber-smartphone-sucht-wir-muessen-uns-aktiv-wehren-a-0ecb8ea8-f913-4221-b761-34389dd6cbae#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/panorama/gesellschaft/aquadom-in-berlin-was-ein-zahn-ueber-das-geplatzte-riesenaquarium-verraet](https://www.spiegel.de/panorama/gesellschaft/aquadom-in-berlin-was-ein-zahn-ueber-das-geplatzte-riesenaquarium-verraet-a-9e9500aa-6517-48fd-84be-403b7e54e60a#ref=rss)
-### zahn
+* [https://www.spiegel.de/wirtschaft/tourismus-zahl-der-urlauber-sinkt-und-trotzdem-boomt-die-branche](https://www.spiegel.de/wirtschaft/tourismus-zahl-der-urlauber-sinkt-und-trotzdem-boomt-die-branche-a-f0053790-76bc-431f-a403-782e75fcb2f6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/9-7-prozent-des-bip-energiekrise-treibt-staatliche-subventionen-auf-rekordwert](https://www.spiegel.de/wirtschaft/soziales/9-7-prozent-des-bip-energiekrise-treibt-staatliche-subventionen-auf-rekordwert-a-6606f3e2-515f-4db4-a6bf-54cfff03c63c#ref=rss)
+### ohne
 
-* [https://www.spiegel.de/panorama/gesellschaft/aquadom-in-berlin-was-ein-zahn-ueber-das-geplatzte-riesenaquarium-verraet](https://www.spiegel.de/panorama/gesellschaft/aquadom-in-berlin-was-ein-zahn-ueber-das-geplatzte-riesenaquarium-verraet-a-9e9500aa-6517-48fd-84be-403b7e54e60a#ref=rss)
-### bargeld
+* [https://www.spiegel.de/sport/ironman-auf-hawaii-2023-alles-zur-triathlon-weltmeisterschaft-in-den-usa](https://www.spiegel.de/sport/ironman-auf-hawaii-2023-alles-zur-triathlon-weltmeisterschaft-in-den-usa-a-5ccd6db5-08b9-4f47-8fe9-47d3a3440228#ref=rss)
+* [https://www.spiegel.de/politik/olaf-scholz-sieht-verantwortung-fuer-eskalation-auch-bei-iran](https://www.spiegel.de/politik/olaf-scholz-sieht-verantwortung-fuer-eskalation-auch-bei-iran-a-143b6885-8bf5-4d63-bfd3-5315be8b84fa#ref=rss)
+* [https://www.spiegel.de/panorama/leute/scarlett-johannson-lobt-pamela-anderson-fuer-auftritt-ohne-make-up](https://www.spiegel.de/panorama/leute/scarlett-johannson-lobt-pamela-anderson-fuer-auftritt-ohne-make-up-a-e6f18551-1e61-4b23-a72e-ee0c3f333854#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/panorama/justiz/bochum-zollhunde-erschnueffeln-180-000-euro-bargeld](https://www.spiegel.de/panorama/justiz/bochum-zollhunde-erschnueffeln-180-000-euro-bargeld-a-9b045767-d4c5-41af-9cb8-45af4087e878#ref=rss)
-### hilfe
+* [https://www.spiegel.de/wirtschaft/ukraine-belgien-will-einnahmen-aus-russen-vermoegen-an-ukraine-ueberweisen](https://www.spiegel.de/wirtschaft/ukraine-belgien-will-einnahmen-aus-russen-vermoegen-an-ukraine-ueberweisen-a-62c999a5-6a7f-4475-a766-309f1818b7e7#ref=rss)
+### erklärt
 
-* [https://www.spiegel.de/panorama/justiz/bochum-zollhunde-erschnueffeln-180-000-euro-bargeld](https://www.spiegel.de/panorama/justiz/bochum-zollhunde-erschnueffeln-180-000-euro-bargeld-a-9b045767-d4c5-41af-9cb8-45af4087e878#ref=rss)
-* [https://www.spiegel.de/panorama/mannheim-zwei-junge-maenner-nachts-im-riesenrad-uebersehen](https://www.spiegel.de/panorama/mannheim-zwei-junge-maenner-nachts-im-riesenrad-uebersehen-a-4e26af56-7d50-4777-a163-e5c7774ac3bc#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/angriff-auf-israel-fruehere-twitter-plattform-x-soll-hunderte-hamas-nahe-accounts-entfernt-haben](https://www.spiegel.de/netzwelt/netzpolitik/angriff-auf-israel-fruehere-twitter-plattform-x-soll-hunderte-hamas-nahe-accounts-entfernt-haben-a-0c504ae2-7d6b-4280-a83d-55f8e46edc09#ref=rss)
+* [https://www.spiegel.de/panorama/leute/scarlett-johannson-lobt-pamela-anderson-fuer-auftritt-ohne-make-up](https://www.spiegel.de/panorama/leute/scarlett-johannson-lobt-pamela-anderson-fuer-auftritt-ohne-make-up-a-e6f18551-1e61-4b23-a72e-ee0c3f333854#ref=rss)
+* [https://www.spiegel.de/gesundheit/martin-korte-ueber-smartphone-sucht-wir-muessen-uns-aktiv-wehren](https://www.spiegel.de/gesundheit/martin-korte-ueber-smartphone-sucht-wir-muessen-uns-aktiv-wehren-a-0ecb8ea8-f913-4221-b761-34389dd6cbae#ref=rss)
+### techkonzerne
+
+* [https://www.spiegel.de/netzwelt/web/ddos-attacken-amazon-google-und-cloudflare-melden-bisher-groesste-ueberlastungsangriffe](https://www.spiegel.de/netzwelt/web/ddos-attacken-amazon-google-und-cloudflare-melden-bisher-groesste-ueberlastungsangriffe-a-64bc6170-637b-463b-80d3-c74ccebb1ee8#ref=rss)
+* [https://www.spiegel.de/gesundheit/martin-korte-ueber-smartphone-sucht-wir-muessen-uns-aktiv-wehren](https://www.spiegel.de/gesundheit/martin-korte-ueber-smartphone-sucht-wir-muessen-uns-aktiv-wehren-a-0ecb8ea8-f913-4221-b761-34389dd6cbae#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/netzwelt/web/ddos-attacken-amazon-google-und-cloudflare-melden-bisher-groesste-ueberlastungsangriffe](https://www.spiegel.de/netzwelt/web/ddos-attacken-amazon-google-und-cloudflare-melden-bisher-groesste-ueberlastungsangriffe-a-64bc6170-637b-463b-80d3-c74ccebb1ee8#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/angriff-auf-israel-fruehere-twitter-plattform-x-soll-hunderte-hamas-nahe-accounts-entfernt-haben](https://www.spiegel.de/netzwelt/netzpolitik/angriff-auf-israel-fruehere-twitter-plattform-x-soll-hunderte-hamas-nahe-accounts-entfernt-haben-a-0c504ae2-7d6b-4280-a83d-55f8e46edc09#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/panorama/gesellschaft/davor-haben-die-deutschen-am-meisten-angst](https://www.spiegel.de/panorama/gesellschaft/davor-haben-die-deutschen-am-meisten-angst-a-096d4087-65d4-4a3f-9fdd-368de1ba605e#ref=rss)
+### ersten
+
+* [https://www.spiegel.de/panorama/gesellschaft/davor-haben-die-deutschen-am-meisten-angst](https://www.spiegel.de/panorama/gesellschaft/davor-haben-die-deutschen-am-meisten-angst-a-096d4087-65d4-4a3f-9fdd-368de1ba605e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-quiz-wer-ist-der-beste-1-0-schuetze-der-bundesliga](https://www.spiegel.de/sport/fussball/fussball-quiz-wer-ist-der-beste-1-0-schuetze-der-bundesliga-a-09170dd7-50ad-4651-ac34-8dda38973f73#ref=rss)
+### stark
+
+* [https://www.spiegel.de/panorama/gesellschaft/davor-haben-die-deutschen-am-meisten-angst](https://www.spiegel.de/panorama/gesellschaft/davor-haben-die-deutschen-am-meisten-angst-a-096d4087-65d4-4a3f-9fdd-368de1ba605e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/wein-studie-dieses-wetter-ist-fuer-trauben-am-besten](https://www.spiegel.de/wissenschaft/mensch/wein-studie-dieses-wetter-ist-fuer-trauben-am-besten-a-d4628d2d-c859-4371-921f-eda943e77849#ref=rss)
+### tunesien
+
+* [https://www.spiegel.de/ausland/migrationsdeal-tunesien-zahlt-60-millionen-euro-an-die-eu-zurueck](https://www.spiegel.de/ausland/migrationsdeal-tunesien-zahlt-60-millionen-euro-an-die-eu-zurueck-a-8b7f6c3e-58cd-432e-8ca1-e21bc7131e12#ref=rss)
+### euro
+
+* [https://www.spiegel.de/ausland/migrationsdeal-tunesien-zahlt-60-millionen-euro-an-die-eu-zurueck](https://www.spiegel.de/ausland/migrationsdeal-tunesien-zahlt-60-millionen-euro-an-die-eu-zurueck-a-8b7f6c3e-58cd-432e-8ca1-e21bc7131e12#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/9-7-prozent-des-bip-energiekrise-treibt-staatliche-subventionen-auf-rekordwert](https://www.spiegel.de/wirtschaft/soziales/9-7-prozent-des-bip-energiekrise-treibt-staatliche-subventionen-auf-rekordwert-a-6606f3e2-515f-4db4-a6bf-54cfff03c63c#ref=rss)
+### schweren
+
+* [https://www.spiegel.de/ausland/migrationsdeal-tunesien-zahlt-60-millionen-euro-an-die-eu-zurueck](https://www.spiegel.de/ausland/migrationsdeal-tunesien-zahlt-60-millionen-euro-an-die-eu-zurueck-a-8b7f6c3e-58cd-432e-8ca1-e21bc7131e12#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/busunglueck-in-venedig-italienische-staatsanwaltschaft-ermittelt-gegen-drei-verdaechtige](https://www.spiegel.de/panorama/gesellschaft/busunglueck-in-venedig-italienische-staatsanwaltschaft-ermittelt-gegen-drei-verdaechtige-a-22289a1b-f15d-4440-8c6e-bf75ad088784#ref=rss)
+### sterbehilfe
+
+* [https://www.spiegel.de/politik/deutschland/sterbehilfe-bundestagsabgeordnete-gruenden-kreis-zur-suizidpraevention](https://www.spiegel.de/politik/deutschland/sterbehilfe-bundestagsabgeordnete-gruenden-kreis-zur-suizidpraevention-a-51034cf6-a6a8-4e43-853d-4d3d89039166#ref=rss)
+### bundestagsabgeordnete
+
+* [https://www.spiegel.de/politik/deutschland/sterbehilfe-bundestagsabgeordnete-gruenden-kreis-zur-suizidpraevention](https://www.spiegel.de/politik/deutschland/sterbehilfe-bundestagsabgeordnete-gruenden-kreis-zur-suizidpraevention-a-51034cf6-a6a8-4e43-853d-4d3d89039166#ref=rss)
+### suizidprävention
+
+* [https://www.spiegel.de/politik/deutschland/sterbehilfe-bundestagsabgeordnete-gruenden-kreis-zur-suizidpraevention](https://www.spiegel.de/politik/deutschland/sterbehilfe-bundestagsabgeordnete-gruenden-kreis-zur-suizidpraevention-a-51034cf6-a6a8-4e43-853d-4d3d89039166#ref=rss)
+### wetter
+
+* [https://www.spiegel.de/wissenschaft/mensch/wein-studie-dieses-wetter-ist-fuer-trauben-am-besten](https://www.spiegel.de/wissenschaft/mensch/wein-studie-dieses-wetter-ist-fuer-trauben-am-besten-a-d4628d2d-c859-4371-921f-eda943e77849#ref=rss)
+### inter
+
+* [https://www.spiegel.de/sport/fussball/lionel-messi-bei-inter-miami-das-jaehe-ende-der-messi-mania](https://www.spiegel.de/sport/fussball/lionel-messi-bei-inter-miami-das-jaehe-ende-der-messi-mania-a-95ff9889-4ac9-44ea-8f4b-aeda1ac5eccf#ref=rss)
+### miami
+
+* [https://www.spiegel.de/sport/fussball/lionel-messi-bei-inter-miami-das-jaehe-ende-der-messi-mania](https://www.spiegel.de/sport/fussball/lionel-messi-bei-inter-miami-das-jaehe-ende-der-messi-mania-a-95ff9889-4ac9-44ea-8f4b-aeda1ac5eccf#ref=rss)
+### volle
+
+* [https://www.spiegel.de/sport/fussball/lionel-messi-bei-inter-miami-das-jaehe-ende-der-messi-mania](https://www.spiegel.de/sport/fussball/lionel-messi-bei-inter-miami-das-jaehe-ende-der-messi-mania-a-95ff9889-4ac9-44ea-8f4b-aeda1ac5eccf#ref=rss)
+### anderen
+
+* [https://www.spiegel.de/wirtschaft/tourismus-zahl-der-urlauber-sinkt-und-trotzdem-boomt-die-branche](https://www.spiegel.de/wirtschaft/tourismus-zahl-der-urlauber-sinkt-und-trotzdem-boomt-die-branche-a-f0053790-76bc-431f-a403-782e75fcb2f6#ref=rss)
+* [https://www.spiegel.de/panorama/leute/scarlett-johannson-lobt-pamela-anderson-fuer-auftritt-ohne-make-up](https://www.spiegel.de/panorama/leute/scarlett-johannson-lobt-pamela-anderson-fuer-auftritt-ohne-make-up-a-e6f18551-1e61-4b23-a72e-ee0c3f333854#ref=rss)
+### hawaii
+
+* [https://www.spiegel.de/sport/ironman-auf-hawaii-2023-alles-zur-triathlon-weltmeisterschaft-in-den-usa](https://www.spiegel.de/sport/ironman-auf-hawaii-2023-alles-zur-triathlon-weltmeisterschaft-in-den-usa-a-5ccd6db5-08b9-4f47-8fe9-47d3a3440228#ref=rss)
+### alles
+
+* [https://www.spiegel.de/sport/ironman-auf-hawaii-2023-alles-zur-triathlon-weltmeisterschaft-in-den-usa](https://www.spiegel.de/sport/ironman-auf-hawaii-2023-alles-zur-triathlon-weltmeisterschaft-in-den-usa-a-5ccd6db5-08b9-4f47-8fe9-47d3a3440228#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/sport/ironman-auf-hawaii-2023-alles-zur-triathlon-weltmeisterschaft-in-den-usa](https://www.spiegel.de/sport/ironman-auf-hawaii-2023-alles-zur-triathlon-weltmeisterschaft-in-den-usa-a-5ccd6db5-08b9-4f47-8fe9-47d3a3440228#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/busunglueck-in-venedig-italienische-staatsanwaltschaft-ermittelt-gegen-drei-verdaechtige](https://www.spiegel.de/panorama/gesellschaft/busunglueck-in-venedig-italienische-staatsanwaltschaft-ermittelt-gegen-drei-verdaechtige-a-22289a1b-f15d-4440-8c6e-bf75ad088784#ref=rss)
 ### gaza
 
-* [https://www.spiegel.de/ausland/gaza-palaestinensische-journalistin-ueber-das-bombardement-es-ist-nirgendwo-sicher](https://www.spiegel.de/ausland/gaza-palaestinensische-journalistin-ueber-das-bombardement-es-ist-nirgendwo-sicher-a-c2d90c75-867c-4f5a-8628-986778cc0634#ref=rss)
-### erlebt
+* [https://www.spiegel.de/ausland/israel-news-heute-rettungshelfer-berichtet-von-lkws-voller-leichen](https://www.spiegel.de/ausland/israel-news-heute-rettungshelfer-berichtet-von-lkws-voller-leichen-a-50618c31-c6b9-4cdf-b190-ca45132ca936#ref=rss)
+### geiseln
 
-* [https://www.spiegel.de/ausland/gaza-palaestinensische-journalistin-ueber-das-bombardement-es-ist-nirgendwo-sicher](https://www.spiegel.de/ausland/gaza-palaestinensische-journalistin-ueber-das-bombardement-es-ist-nirgendwo-sicher-a-c2d90c75-867c-4f5a-8628-986778cc0634#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-angriff-auf-israel-haussanierung-homeoffice-bei-zoom](https://www.spiegel.de/politik/deutschland/news-des-tages-angriff-auf-israel-haussanierung-homeoffice-bei-zoom-a-aea6885b-aa3e-43c9-8dad-6f62eb1910c4#ref=rss)
-### angriffen
+* [https://www.spiegel.de/ausland/israel-news-heute-rettungshelfer-berichtet-von-lkws-voller-leichen](https://www.spiegel.de/ausland/israel-news-heute-rettungshelfer-berichtet-von-lkws-voller-leichen-a-50618c31-c6b9-4cdf-b190-ca45132ca936#ref=rss)
+### belgien
 
-* [https://www.spiegel.de/ausland/gaza-palaestinensische-journalistin-ueber-das-bombardement-es-ist-nirgendwo-sicher](https://www.spiegel.de/ausland/gaza-palaestinensische-journalistin-ueber-das-bombardement-es-ist-nirgendwo-sicher-a-c2d90c75-867c-4f5a-8628-986778cc0634#ref=rss)
-* [https://www.spiegel.de/ausland/katar-strahlt-nach-hamas-angriff-auf-israel-museen-in-palaestina-farben-an](https://www.spiegel.de/ausland/katar-strahlt-nach-hamas-angriff-auf-israel-museen-in-palaestina-farben-an-a-f3b5a9e1-52d7-4c99-baec-5aa2de3ee996#ref=rss)
-### zoom
+* [https://www.spiegel.de/wirtschaft/ukraine-belgien-will-einnahmen-aus-russen-vermoegen-an-ukraine-ueberweisen](https://www.spiegel.de/wirtschaft/ukraine-belgien-will-einnahmen-aus-russen-vermoegen-an-ukraine-ueberweisen-a-62c999a5-6a7f-4475-a766-309f1818b7e7#ref=rss)
+### milliarden
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-angriff-auf-israel-haussanierung-homeoffice-bei-zoom](https://www.spiegel.de/politik/deutschland/news-des-tages-angriff-auf-israel-haussanierung-homeoffice-bei-zoom-a-aea6885b-aa3e-43c9-8dad-6f62eb1910c4#ref=rss)
-### kommen
+* [https://www.spiegel.de/wirtschaft/ukraine-belgien-will-einnahmen-aus-russen-vermoegen-an-ukraine-ueberweisen](https://www.spiegel.de/wirtschaft/ukraine-belgien-will-einnahmen-aus-russen-vermoegen-an-ukraine-ueberweisen-a-62c999a5-6a7f-4475-a766-309f1818b7e7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/9-7-prozent-des-bip-energiekrise-treibt-staatliche-subventionen-auf-rekordwert](https://www.spiegel.de/wirtschaft/soziales/9-7-prozent-des-bip-energiekrise-treibt-staatliche-subventionen-auf-rekordwert-a-6606f3e2-515f-4db4-a6bf-54cfff03c63c#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-angriff-auf-israel-haussanierung-homeoffice-bei-zoom](https://www.spiegel.de/politik/deutschland/news-des-tages-angriff-auf-israel-haussanierung-homeoffice-bei-zoom-a-aea6885b-aa3e-43c9-8dad-6f62eb1910c4#ref=rss)
-* [https://www.spiegel.de/ausland/katar-strahlt-nach-hamas-angriff-auf-israel-museen-in-palaestina-farben-an](https://www.spiegel.de/ausland/katar-strahlt-nach-hamas-angriff-auf-israel-museen-in-palaestina-farben-an-a-f3b5a9e1-52d7-4c99-baec-5aa2de3ee996#ref=rss)
-### italien
+* [https://www.spiegel.de/politik/friedrich-merz-bietet-ampel-uebergreifenden-kampf-gegen-antisemitismus-an](https://www.spiegel.de/politik/friedrich-merz-bietet-ampel-uebergreifenden-kampf-gegen-antisemitismus-an-a-8e3629e3-338f-4b5d-b321-ec34ac639922#ref=rss)
+### merz
 
-* [https://www.spiegel.de/ausland/italien-matteo-salvini-wirbt-fuer-eine-rueckkehr-zur-atomkraft](https://www.spiegel.de/ausland/italien-matteo-salvini-wirbt-fuer-eine-rueckkehr-zur-atomkraft-a-c32bc52b-5f9a-4d5a-8206-fa8db95a1f4f#ref=rss)
-### matteo
+* [https://www.spiegel.de/politik/friedrich-merz-bietet-ampel-uebergreifenden-kampf-gegen-antisemitismus-an](https://www.spiegel.de/politik/friedrich-merz-bietet-ampel-uebergreifenden-kampf-gegen-antisemitismus-an-a-8e3629e3-338f-4b5d-b321-ec34ac639922#ref=rss)
+### bietet
 
-* [https://www.spiegel.de/ausland/italien-matteo-salvini-wirbt-fuer-eine-rueckkehr-zur-atomkraft](https://www.spiegel.de/ausland/italien-matteo-salvini-wirbt-fuer-eine-rueckkehr-zur-atomkraft-a-c32bc52b-5f9a-4d5a-8206-fa8db95a1f4f#ref=rss)
-### salvini
+* [https://www.spiegel.de/politik/friedrich-merz-bietet-ampel-uebergreifenden-kampf-gegen-antisemitismus-an](https://www.spiegel.de/politik/friedrich-merz-bietet-ampel-uebergreifenden-kampf-gegen-antisemitismus-an-a-8e3629e3-338f-4b5d-b321-ec34ac639922#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-linke-bietet-cdu-gespraeche-ueber-umgang-mit-afd-an](https://www.spiegel.de/politik/deutschland/sachsen-linke-bietet-cdu-gespraeche-ueber-umgang-mit-afd-an-a-b75cec60-4d6b-4a28-a9f7-83b7481dbcba#ref=rss)
+### ampel
 
-* [https://www.spiegel.de/ausland/italien-matteo-salvini-wirbt-fuer-eine-rueckkehr-zur-atomkraft](https://www.spiegel.de/ausland/italien-matteo-salvini-wirbt-fuer-eine-rueckkehr-zur-atomkraft-a-c32bc52b-5f9a-4d5a-8206-fa8db95a1f4f#ref=rss)
-### cannabis
+* [https://www.spiegel.de/politik/friedrich-merz-bietet-ampel-uebergreifenden-kampf-gegen-antisemitismus-an](https://www.spiegel.de/politik/friedrich-merz-bietet-ampel-uebergreifenden-kampf-gegen-antisemitismus-an-a-8e3629e3-338f-4b5d-b321-ec34ac639922#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/9-7-prozent-des-bip-energiekrise-treibt-staatliche-subventionen-auf-rekordwert](https://www.spiegel.de/wirtschaft/soziales/9-7-prozent-des-bip-energiekrise-treibt-staatliche-subventionen-auf-rekordwert-a-6606f3e2-515f-4db4-a6bf-54cfff03c63c#ref=rss)
+### bernie
 
-* [https://www.spiegel.de/politik/deutschland/cannabis-karl-lauterbach-und-das-town-hall-meeting-zur-drogenfreigabe](https://www.spiegel.de/politik/deutschland/cannabis-karl-lauterbach-und-das-town-hall-meeting-zur-drogenfreigabe-a-63c15ca0-dbef-4e86-b5af-e8aeb89b8d25#ref=rss)
-### karl
+* [https://www.spiegel.de/panorama/justiz/ex-formel-1-boss-bernie-ecclestone-raeumt-vor-gericht-betrug-ein](https://www.spiegel.de/panorama/justiz/ex-formel-1-boss-bernie-ecclestone-raeumt-vor-gericht-betrug-ein-a-a7c8c8b9-00cb-49d0-b99b-e01039452c95#ref=rss)
+### ecclestone
 
-* [https://www.spiegel.de/politik/deutschland/cannabis-karl-lauterbach-und-das-town-hall-meeting-zur-drogenfreigabe](https://www.spiegel.de/politik/deutschland/cannabis-karl-lauterbach-und-das-town-hall-meeting-zur-drogenfreigabe-a-63c15ca0-dbef-4e86-b5af-e8aeb89b8d25#ref=rss)
-### lauterbach
+* [https://www.spiegel.de/panorama/justiz/ex-formel-1-boss-bernie-ecclestone-raeumt-vor-gericht-betrug-ein](https://www.spiegel.de/panorama/justiz/ex-formel-1-boss-bernie-ecclestone-raeumt-vor-gericht-betrug-ein-a-a7c8c8b9-00cb-49d0-b99b-e01039452c95#ref=rss)
+### bekannt
 
-* [https://www.spiegel.de/politik/deutschland/cannabis-karl-lauterbach-und-das-town-hall-meeting-zur-drogenfreigabe](https://www.spiegel.de/politik/deutschland/cannabis-karl-lauterbach-und-das-town-hall-meeting-zur-drogenfreigabe-a-63c15ca0-dbef-4e86-b5af-e8aeb89b8d25#ref=rss)
-### junge
+* [https://www.spiegel.de/panorama/justiz/ex-formel-1-boss-bernie-ecclestone-raeumt-vor-gericht-betrug-ein](https://www.spiegel.de/panorama/justiz/ex-formel-1-boss-bernie-ecclestone-raeumt-vor-gericht-betrug-ein-a-a7c8c8b9-00cb-49d0-b99b-e01039452c95#ref=rss)
+* [https://www.spiegel.de/panorama/leute/scarlett-johannson-lobt-pamela-anderson-fuer-auftritt-ohne-make-up](https://www.spiegel.de/panorama/leute/scarlett-johannson-lobt-pamela-anderson-fuer-auftritt-ohne-make-up-a-e6f18551-1e61-4b23-a72e-ee0c3f333854#ref=rss)
+### venedig
 
-* [https://www.spiegel.de/politik/deutschland/cannabis-karl-lauterbach-und-das-town-hall-meeting-zur-drogenfreigabe](https://www.spiegel.de/politik/deutschland/cannabis-karl-lauterbach-und-das-town-hall-meeting-zur-drogenfreigabe-a-63c15ca0-dbef-4e86-b5af-e8aeb89b8d25#ref=rss)
-* [https://www.spiegel.de/panorama/mannheim-zwei-junge-maenner-nachts-im-riesenrad-uebersehen](https://www.spiegel.de/panorama/mannheim-zwei-junge-maenner-nachts-im-riesenrad-uebersehen-a-4e26af56-7d50-4777-a163-e5c7774ac3bc#ref=rss)
-### wildlife
+* [https://www.spiegel.de/panorama/gesellschaft/busunglueck-in-venedig-italienische-staatsanwaltschaft-ermittelt-gegen-drei-verdaechtige](https://www.spiegel.de/panorama/gesellschaft/busunglueck-in-venedig-italienische-staatsanwaltschaft-ermittelt-gegen-drei-verdaechtige-a-22289a1b-f15d-4440-8c6e-bf75ad088784#ref=rss)
+### drei
 
-* [https://www.spiegel.de/wissenschaft/wildlife-photographer-of-the-year-kaulquappen-verzehren-ein-spatzenauge](https://www.spiegel.de/wissenschaft/wildlife-photographer-of-the-year-kaulquappen-verzehren-ein-spatzenauge-a-52b19dd2-660c-4b51-bd9f-b3b42309e44d#ref=rss)
-### photographer
+* [https://www.spiegel.de/panorama/gesellschaft/busunglueck-in-venedig-italienische-staatsanwaltschaft-ermittelt-gegen-drei-verdaechtige](https://www.spiegel.de/panorama/gesellschaft/busunglueck-in-venedig-italienische-staatsanwaltschaft-ermittelt-gegen-drei-verdaechtige-a-22289a1b-f15d-4440-8c6e-bf75ad088784#ref=rss)
+### iran
 
-* [https://www.spiegel.de/wissenschaft/wildlife-photographer-of-the-year-kaulquappen-verzehren-ein-spatzenauge](https://www.spiegel.de/wissenschaft/wildlife-photographer-of-the-year-kaulquappen-verzehren-ein-spatzenauge-a-52b19dd2-660c-4b51-bd9f-b3b42309e44d#ref=rss)
-### of
+* [https://www.spiegel.de/ausland/usa-israel-hamas-mission-abschreckung](https://www.spiegel.de/ausland/usa-israel-hamas-mission-abschreckung-a-002ac106-1707-4a96-bf2a-8587c4f861a4#ref=rss)
+* [https://www.spiegel.de/politik/olaf-scholz-sieht-verantwortung-fuer-eskalation-auch-bei-iran](https://www.spiegel.de/politik/olaf-scholz-sieht-verantwortung-fuer-eskalation-auch-bei-iran-a-143b6885-8bf5-4d63-bfd3-5315be8b84fa#ref=rss)
+### alle
 
-* [https://www.spiegel.de/wissenschaft/wildlife-photographer-of-the-year-kaulquappen-verzehren-ein-spatzenauge](https://www.spiegel.de/wissenschaft/wildlife-photographer-of-the-year-kaulquappen-verzehren-ein-spatzenauge-a-52b19dd2-660c-4b51-bd9f-b3b42309e44d#ref=rss)
-### the
+* [https://www.spiegel.de/wirtschaft/service/immobilien-stabilisierung-am-haeusermarkt-preisverfall-gestoppt](https://www.spiegel.de/wirtschaft/service/immobilien-stabilisierung-am-haeusermarkt-preisverfall-gestoppt-a-84b5a72d-d3b2-4782-9a5f-f96ba41f854e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/christoph-ploss-cdu-abgeordneter-offen-fuer-bundestags-vize-der-afd](https://www.spiegel.de/politik/deutschland/christoph-ploss-cdu-abgeordneter-offen-fuer-bundestags-vize-der-afd-a-613877c2-fdda-4942-ba1d-2bde0206acf3#ref=rss)
+### geld
 
-* [https://www.spiegel.de/wissenschaft/wildlife-photographer-of-the-year-kaulquappen-verzehren-ein-spatzenauge](https://www.spiegel.de/wissenschaft/wildlife-photographer-of-the-year-kaulquappen-verzehren-ein-spatzenauge-a-52b19dd2-660c-4b51-bd9f-b3b42309e44d#ref=rss)
-### year
+* [https://www.spiegel.de/wirtschaft/soziales/wirtschaft-in-china-am-liebsten-wuerden-sie-ihr-geld-ausser-landes-bringen](https://www.spiegel.de/wirtschaft/soziales/wirtschaft-in-china-am-liebsten-wuerden-sie-ihr-geld-ausser-landes-bringen-a-19e31488-4187-4cc3-b66f-89e6e2952d30#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/9-7-prozent-des-bip-energiekrise-treibt-staatliche-subventionen-auf-rekordwert](https://www.spiegel.de/wirtschaft/soziales/9-7-prozent-des-bip-energiekrise-treibt-staatliche-subventionen-auf-rekordwert-a-6606f3e2-515f-4db4-a6bf-54cfff03c63c#ref=rss)
+### angriff
 
-* [https://www.spiegel.de/wissenschaft/wildlife-photographer-of-the-year-kaulquappen-verzehren-ein-spatzenauge](https://www.spiegel.de/wissenschaft/wildlife-photographer-of-the-year-kaulquappen-verzehren-ein-spatzenauge-a-52b19dd2-660c-4b51-bd9f-b3b42309e44d#ref=rss)
-### kaulquappen
+* [https://www.spiegel.de/netzwelt/netzpolitik/angriff-auf-israel-fruehere-twitter-plattform-x-soll-hunderte-hamas-nahe-accounts-entfernt-haben](https://www.spiegel.de/netzwelt/netzpolitik/angriff-auf-israel-fruehere-twitter-plattform-x-soll-hunderte-hamas-nahe-accounts-entfernt-haben-a-0c504ae2-7d6b-4280-a83d-55f8e46edc09#ref=rss)
+* [https://www.spiegel.de/politik/olaf-scholz-sieht-verantwortung-fuer-eskalation-auch-bei-iran](https://www.spiegel.de/politik/olaf-scholz-sieht-verantwortung-fuer-eskalation-auch-bei-iran-a-143b6885-8bf5-4d63-bfd3-5315be8b84fa#ref=rss)
+### hunderte
 
-* [https://www.spiegel.de/wissenschaft/wildlife-photographer-of-the-year-kaulquappen-verzehren-ein-spatzenauge](https://www.spiegel.de/wissenschaft/wildlife-photographer-of-the-year-kaulquappen-verzehren-ein-spatzenauge-a-52b19dd2-660c-4b51-bd9f-b3b42309e44d#ref=rss)
-### spatzenauge
+* [https://www.spiegel.de/netzwelt/netzpolitik/angriff-auf-israel-fruehere-twitter-plattform-x-soll-hunderte-hamas-nahe-accounts-entfernt-haben](https://www.spiegel.de/netzwelt/netzpolitik/angriff-auf-israel-fruehere-twitter-plattform-x-soll-hunderte-hamas-nahe-accounts-entfernt-haben-a-0c504ae2-7d6b-4280-a83d-55f8e46edc09#ref=rss)
+### christoph
 
-* [https://www.spiegel.de/wissenschaft/wildlife-photographer-of-the-year-kaulquappen-verzehren-ein-spatzenauge](https://www.spiegel.de/wissenschaft/wildlife-photographer-of-the-year-kaulquappen-verzehren-ein-spatzenauge-a-52b19dd2-660c-4b51-bd9f-b3b42309e44d#ref=rss)
-### riesenrad
+* [https://www.spiegel.de/politik/deutschland/christoph-ploss-cdu-abgeordneter-offen-fuer-bundestags-vize-der-afd](https://www.spiegel.de/politik/deutschland/christoph-ploss-cdu-abgeordneter-offen-fuer-bundestags-vize-der-afd-a-613877c2-fdda-4942-ba1d-2bde0206acf3#ref=rss)
+### ploß
 
-* [https://www.spiegel.de/panorama/mannheim-zwei-junge-maenner-nachts-im-riesenrad-uebersehen](https://www.spiegel.de/panorama/mannheim-zwei-junge-maenner-nachts-im-riesenrad-uebersehen-a-4e26af56-7d50-4777-a163-e5c7774ac3bc#ref=rss)
-### umfrage
+* [https://www.spiegel.de/politik/deutschland/christoph-ploss-cdu-abgeordneter-offen-fuer-bundestags-vize-der-afd](https://www.spiegel.de/politik/deutschland/christoph-ploss-cdu-abgeordneter-offen-fuer-bundestags-vize-der-afd-a-613877c2-fdda-4942-ba1d-2bde0206acf3#ref=rss)
+### offen
 
-* [https://www.spiegel.de/panorama/justiz/hamas-israel-polizei-ermittelt-nach-sympathiebekundungen-fuer-hamas-bei-umfrage](https://www.spiegel.de/panorama/justiz/hamas-israel-polizei-ermittelt-nach-sympathiebekundungen-fuer-hamas-bei-umfrage-a-03f9192a-2d42-41ad-a97a-88f4ac8b9104#ref=rss)
-### clemens
+* [https://www.spiegel.de/politik/deutschland/christoph-ploss-cdu-abgeordneter-offen-fuer-bundestags-vize-der-afd](https://www.spiegel.de/politik/deutschland/christoph-ploss-cdu-abgeordneter-offen-fuer-bundestags-vize-der-afd-a-613877c2-fdda-4942-ba1d-2bde0206acf3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-linke-bietet-cdu-gespraeche-ueber-umgang-mit-afd-an](https://www.spiegel.de/politik/deutschland/sachsen-linke-bietet-cdu-gespraeche-ueber-umgang-mit-afd-an-a-b75cec60-4d6b-4a28-a9f7-83b7481dbcba#ref=rss)
+### sieht
 
-* [https://www.spiegel.de/kultur/spd-was-macht-die-partei-falsch-clemens-schick](https://www.spiegel.de/kultur/spd-was-macht-die-partei-falsch-clemens-schick-a-a82145f2-3c4b-4129-8e04-6367f2ea11c5#ref=rss)
-### schick
+* [https://www.spiegel.de/politik/deutschland/christoph-ploss-cdu-abgeordneter-offen-fuer-bundestags-vize-der-afd](https://www.spiegel.de/politik/deutschland/christoph-ploss-cdu-abgeordneter-offen-fuer-bundestags-vize-der-afd-a-613877c2-fdda-4942-ba1d-2bde0206acf3#ref=rss)
+* [https://www.spiegel.de/politik/olaf-scholz-sieht-verantwortung-fuer-eskalation-auch-bei-iran](https://www.spiegel.de/politik/olaf-scholz-sieht-verantwortung-fuer-eskalation-auch-bei-iran-a-143b6885-8bf5-4d63-bfd3-5315be8b84fa#ref=rss)
+### sachsen
 
-* [https://www.spiegel.de/kultur/spd-was-macht-die-partei-falsch-clemens-schick](https://www.spiegel.de/kultur/spd-was-macht-die-partei-falsch-clemens-schick-a-a82145f2-3c4b-4129-8e04-6367f2ea11c5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-linke-bietet-cdu-gespraeche-ueber-umgang-mit-afd-an](https://www.spiegel.de/politik/deutschland/sachsen-linke-bietet-cdu-gespraeche-ueber-umgang-mit-afd-an-a-b75cec60-4d6b-4a28-a9f7-83b7481dbcba#ref=rss)
+### linke
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-linke-bietet-cdu-gespraeche-ueber-umgang-mit-afd-an](https://www.spiegel.de/politik/deutschland/sachsen-linke-bietet-cdu-gespraeche-ueber-umgang-mit-afd-an-a-b75cec60-4d6b-4a28-a9f7-83b7481dbcba#ref=rss)
+### cdu
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-linke-bietet-cdu-gespraeche-ueber-umgang-mit-afd-an](https://www.spiegel.de/politik/deutschland/sachsen-linke-bietet-cdu-gespraeche-ueber-umgang-mit-afd-an-a-b75cec60-4d6b-4a28-a9f7-83b7481dbcba#ref=rss)
+### gespräche
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-linke-bietet-cdu-gespraeche-ueber-umgang-mit-afd-an](https://www.spiegel.de/politik/deutschland/sachsen-linke-bietet-cdu-gespraeche-ueber-umgang-mit-afd-an-a-b75cec60-4d6b-4a28-a9f7-83b7481dbcba#ref=rss)
+### unterstützung
+
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-regierungserklaerung-ueber-israel-und-hamas-terror](https://www.spiegel.de/politik/deutschland/olaf-scholz-regierungserklaerung-ueber-israel-und-hamas-terror-a-f087dc84-5113-4fe8-8347-4b5a2d0308f7#ref=rss)
+* [https://www.spiegel.de/politik/olaf-scholz-sieht-verantwortung-fuer-eskalation-auch-bei-iran](https://www.spiegel.de/politik/olaf-scholz-sieht-verantwortung-fuer-eskalation-auch-bei-iran-a-143b6885-8bf5-4d63-bfd3-5315be8b84fa#ref=rss)
+### hessen
+
+* [https://www.spiegel.de/politik/deutschland/afd-erfolge-in-hessen-und-bayern-zu-viel-schockiertheit-hilft-nur-den-extrem-rechten-leitartikel](https://www.spiegel.de/politik/deutschland/afd-erfolge-in-hessen-und-bayern-zu-viel-schockiertheit-hilft-nur-den-extrem-rechten-leitartikel-a-e95b2aa6-ebbf-484f-baad-dc3a94dd7fb4#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/politik/deutschland/afd-erfolge-in-hessen-und-bayern-zu-viel-schockiertheit-hilft-nur-den-extrem-rechten-leitartikel](https://www.spiegel.de/politik/deutschland/afd-erfolge-in-hessen-und-bayern-zu-viel-schockiertheit-hilft-nur-den-extrem-rechten-leitartikel-a-e95b2aa6-ebbf-484f-baad-dc3a94dd7fb4#ref=rss)
+### extrem
+
+* [https://www.spiegel.de/politik/deutschland/afd-erfolge-in-hessen-und-bayern-zu-viel-schockiertheit-hilft-nur-den-extrem-rechten-leitartikel](https://www.spiegel.de/politik/deutschland/afd-erfolge-in-hessen-und-bayern-zu-viel-schockiertheit-hilft-nur-den-extrem-rechten-leitartikel-a-e95b2aa6-ebbf-484f-baad-dc3a94dd7fb4#ref=rss)
+### rechten
+
+* [https://www.spiegel.de/politik/deutschland/afd-erfolge-in-hessen-und-bayern-zu-viel-schockiertheit-hilft-nur-den-extrem-rechten-leitartikel](https://www.spiegel.de/politik/deutschland/afd-erfolge-in-hessen-und-bayern-zu-viel-schockiertheit-hilft-nur-den-extrem-rechten-leitartikel-a-e95b2aa6-ebbf-484f-baad-dc3a94dd7fb4#ref=rss)
+### easyjet
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/easyjet-gibt-grossbestellung-bei-airbus-auf](https://www.spiegel.de/wirtschaft/unternehmen/easyjet-gibt-grossbestellung-bei-airbus-auf-a-b3f4f7da-93d8-4e8f-bc93-c4904c9ed9bc#ref=rss)
+### airbus
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/easyjet-gibt-grossbestellung-bei-airbus-auf](https://www.spiegel.de/wirtschaft/unternehmen/easyjet-gibt-grossbestellung-bei-airbus-auf-a-b3f4f7da-93d8-4e8f-bc93-c4904c9ed9bc#ref=rss)
+### leon
+
+* [https://www.spiegel.de/sport/eishockey/nhl-auftakt-leon-draisaitl-von-den-edmonton-oilers-trifft-und-erleidet-debakel](https://www.spiegel.de/sport/eishockey/nhl-auftakt-leon-draisaitl-von-den-edmonton-oilers-trifft-und-erleidet-debakel-a-52a20771-1dc4-44ad-b598-cadabdc8eb61#ref=rss)
+### draisaitl
+
+* [https://www.spiegel.de/sport/eishockey/nhl-auftakt-leon-draisaitl-von-den-edmonton-oilers-trifft-und-erleidet-debakel](https://www.spiegel.de/sport/eishockey/nhl-auftakt-leon-draisaitl-von-den-edmonton-oilers-trifft-und-erleidet-debakel-a-52a20771-1dc4-44ad-b598-cadabdc8eb61#ref=rss)
+### pamela
+
+* [https://www.spiegel.de/panorama/leute/scarlett-johannson-lobt-pamela-anderson-fuer-auftritt-ohne-make-up](https://www.spiegel.de/panorama/leute/scarlett-johannson-lobt-pamela-anderson-fuer-auftritt-ohne-make-up-a-e6f18551-1e61-4b23-a72e-ee0c3f333854#ref=rss)
+### anderson
+
+* [https://www.spiegel.de/panorama/leute/scarlett-johannson-lobt-pamela-anderson-fuer-auftritt-ohne-make-up](https://www.spiegel.de/panorama/leute/scarlett-johannson-lobt-pamela-anderson-fuer-auftritt-ohne-make-up-a-e6f18551-1e61-4b23-a72e-ee0c3f333854#ref=rss)
+### makeup
+
+* [https://www.spiegel.de/panorama/leute/scarlett-johannson-lobt-pamela-anderson-fuer-auftritt-ohne-make-up](https://www.spiegel.de/panorama/leute/scarlett-johannson-lobt-pamela-anderson-fuer-auftritt-ohne-make-up-a-e6f18551-1e61-4b23-a72e-ee0c3f333854#ref=rss)
+### energiekrise
+
+* [https://www.spiegel.de/wirtschaft/soziales/9-7-prozent-des-bip-energiekrise-treibt-staatliche-subventionen-auf-rekordwert](https://www.spiegel.de/wirtschaft/soziales/9-7-prozent-des-bip-energiekrise-treibt-staatliche-subventionen-auf-rekordwert-a-6606f3e2-515f-4db4-a6bf-54cfff03c63c#ref=rss)
+### subventionen
+
+* [https://www.spiegel.de/wirtschaft/soziales/9-7-prozent-des-bip-energiekrise-treibt-staatliche-subventionen-auf-rekordwert](https://www.spiegel.de/wirtschaft/soziales/9-7-prozent-des-bip-energiekrise-treibt-staatliche-subventionen-auf-rekordwert-a-6606f3e2-515f-4db4-a6bf-54cfff03c63c#ref=rss)
 
