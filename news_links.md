@@ -4,345 +4,307 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### menschen
-
-* [https://www.spiegel.de/ausland/messerangreifer-in-franzoesischer-schule-toetet-einen-menschenfrankreich](https://www.spiegel.de/ausland/messerangreifer-in-franzoesischer-schule-toetet-einen-menschenfrankreich-a-8f10b5ea-701f-4f7b-ba50-64d258471897#ref=rss)
-* [https://www.spiegel.de/panorama/a94-in-bayern-joachim-herrmann-dringt-nach-unfall-mit-sieben-toten-auf-staerkere-grenzkontrollen](https://www.spiegel.de/panorama/a94-in-bayern-joachim-herrmann-dringt-nach-unfall-mit-sieben-toten-auf-staerkere-grenzkontrollen-a-6f3f2db6-d567-454c-88d0-0e3de87e89f1#ref=rss)
-* [https://www.spiegel.de/ausland/israel-erste-evakuierungsfluege-in-deutschland-gelandet-da-sind-steine-vom-herzen-gefallen](https://www.spiegel.de/ausland/israel-erste-evakuierungsfluege-in-deutschland-gelandet-da-sind-steine-vom-herzen-gefallen-a-b9f02345-dce3-43f1-9c8e-957ae6c108b7#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/cornelia-funke-besuch-auf-ihrem-toskana-hof-ich-tanze-zu-meiner-eigenen-trommel](https://www.spiegel.de/kultur/literatur/cornelia-funke-besuch-auf-ihrem-toskana-hof-ich-tanze-zu-meiner-eigenen-trommel-a-b00285a8-a5a3-4a31-9b68-6c3cdd2c2641#ref=rss)
-* [https://www.spiegel.de/psychologie/einsamkeit-ueberwinden-einsam-weil-sie-andere-abschrecken-schritt-vier](https://www.spiegel.de/psychologie/einsamkeit-ueberwinden-einsam-weil-sie-andere-abschrecken-schritt-vier-a-a5ce3b64-8c81-4790-a36e-abe7ae7c4261#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-krieg-neue-schwere-kaempfe-um-awdijiwka](https://www.spiegel.de/ausland/ukraine-russland-krieg-neue-schwere-kaempfe-um-awdijiwka-a-da7691f4-ed3c-4006-807a-fbd688b3de6e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/neandertaler-und-ihr-umgang-mit-hoehlenloewen-der-fruehe-kult-um-den-maechtigen-jaeger](https://www.spiegel.de/wissenschaft/neandertaler-und-ihr-umgang-mit-hoehlenloewen-der-fruehe-kult-um-den-maechtigen-jaeger-a-7f839aaf-dc26-4fc4-8e66-eed2ea7be279#ref=rss)
-* [https://www.spiegel.de/reise/overtourism-in-venedig-und-florenz-warum-wir-an-touristische-hotspots-reisen-und-wie-wir-das-aendern](https://www.spiegel.de/reise/overtourism-in-venedig-und-florenz-warum-wir-an-touristische-hotspots-reisen-und-wie-wir-das-aendern-a-07b31418-b112-49f4-9842-8447a19c6ac2#ref=rss)
-* [https://www.spiegel.de/panorama/a5-bei-heidelberg-im-auto-verbrannt-zwei-menschen-sterben-bei-unfall](https://www.spiegel.de/panorama/a5-bei-heidelberg-im-auto-verbrannt-zwei-menschen-sterben-bei-unfall-a-f67a042e-9731-4d56-b97c-387e303b6aa9#ref=rss)
 ### israel
 
-* [https://www.spiegel.de/ausland/israel-nach-dem-hamas-angriff-das-verwundete-land](https://www.spiegel.de/ausland/israel-nach-dem-hamas-angriff-das-verwundete-land-a-77bf76d1-2464-41a8-9f8c-086f907489e0#ref=rss)
-* [https://www.spiegel.de/sport/fussball/ex-nationalspieler-mesut-oezil-ruft-zu-frieden-zwischen-israel-und-der-hamas-auf-und-solidarisiert-sich-mit-palaestina](https://www.spiegel.de/sport/fussball/ex-nationalspieler-mesut-oezil-ruft-zu-frieden-zwischen-israel-und-der-hamas-auf-und-solidarisiert-sich-mit-palaestina-a-ae25b51d-8a6e-455c-a70f-7f30a7cef663#ref=rss)
-* [https://www.spiegel.de/ausland/israel-erste-evakuierungsfluege-in-deutschland-gelandet-da-sind-steine-vom-herzen-gefallen](https://www.spiegel.de/ausland/israel-erste-evakuierungsfluege-in-deutschland-gelandet-da-sind-steine-vom-herzen-gefallen-a-b9f02345-dce3-43f1-9c8e-957ae6c108b7#ref=rss)
-* [https://www.spiegel.de/ausland/jordanien-koenig-abdullah-warnt-vor-gewaltsamer-vertreibung-von-palaestinensern](https://www.spiegel.de/ausland/jordanien-koenig-abdullah-warnt-vor-gewaltsamer-vertreibung-von-palaestinensern-a-ba949ac1-e127-47ee-ad60-ada7da0df518#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/hamas-angriff-auf-israel-eu-ermittelt-nun-offiziell-gegen-x-wegen-desinformation](https://www.spiegel.de/netzwelt/netzpolitik/hamas-angriff-auf-israel-eu-ermittelt-nun-offiziell-gegen-x-wegen-desinformation-a-00eabbb1-6a33-4821-b366-59615ebddac1#ref=rss)
-* [https://www.spiegel.de/kultur/kino/offener-brief-hollywood-stars-und-bosse-verurteilen-hamas-terror](https://www.spiegel.de/kultur/kino/offener-brief-hollywood-stars-und-bosse-verurteilen-hamas-terror-a-c3c4f6dc-6e5c-4211-a380-cb3176f1cd0c#ref=rss)
-* [https://www.spiegel.de/ausland/israel-naftali-bennett-vergleicht-gaza-krieg-mit-dresden-bombardierung](https://www.spiegel.de/ausland/israel-naftali-bennett-vergleicht-gaza-krieg-mit-dresden-bombardierung-a-e633f467-44f4-4534-a067-03befebbb96d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/israelische-reservisten-kehren-mit-lufthansa-sonderflug-zurueck](https://www.spiegel.de/politik/deutschland/israelische-reservisten-kehren-mit-lufthansa-sonderflug-zurueck-a-13642df9-22ff-4e83-ae51-d3ba82c046e3#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/deutschland/islamismus-in-deutschland-nancy-faesers-sehschwaeche-fuer-moechtegern-ajatollahs-kolumne](https://www.spiegel.de/politik/deutschland/islamismus-in-deutschland-nancy-faesers-sehschwaeche-fuer-moechtegern-ajatollahs-kolumne-a-cfa54619-e285-43df-a960-0d9da0e69800#ref=rss)
-* [https://www.spiegel.de/ausland/israel-erste-evakuierungsfluege-in-deutschland-gelandet-da-sind-steine-vom-herzen-gefallen](https://www.spiegel.de/ausland/israel-erste-evakuierungsfluege-in-deutschland-gelandet-da-sind-steine-vom-herzen-gefallen-a-b9f02345-dce3-43f1-9c8e-957ae6c108b7#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-neukoelln-ich-mag-die-hamas-eigentlich-nicht-aber](https://www.spiegel.de/panorama/berlin-neukoelln-ich-mag-die-hamas-eigentlich-nicht-aber-a-d4064828-74ff-4e1f-a830-0bac393aa437#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/insolvenzwelle-in-deutschland-deutlich-mehr-firmen-gehen-in-die-pleite](https://www.spiegel.de/wirtschaft/unternehmen/insolvenzwelle-in-deutschland-deutlich-mehr-firmen-gehen-in-die-pleite-a-82b938ab-1d61-4793-ad19-d9f453d8a339#ref=rss)
+* [https://www.spiegel.de/ausland/israels-schlag-gegen-den-terror-was-passiert-am-tag-eins-nach-diesem-krieg](https://www.spiegel.de/ausland/israels-schlag-gegen-den-terror-was-passiert-am-tag-eins-nach-diesem-krieg-a-ed0fa417-0c0d-4d41-912d-a08b04cddfe3#ref=rss)
+* [https://www.spiegel.de/politik/luxemburgs-aussenminister-jean-asselborn-kritisiert-israel-fuer-angriffe-auf-gazastreifen](https://www.spiegel.de/politik/luxemburgs-aussenminister-jean-asselborn-kritisiert-israel-fuer-angriffe-auf-gazastreifen-a-6966a53f-53f1-43ce-b5ef-b69a6d532ccc#ref=rss)
+* [https://www.spiegel.de/ausland/feuergefecht-mit-hisbollah-reuters-journalist-an-israelisch-libanesischer-grenze-getoetet](https://www.spiegel.de/ausland/feuergefecht-mit-hisbollah-reuters-journalist-an-israelisch-libanesischer-grenze-getoetet-a-68b60cd2-d6df-45a9-88cb-cb0a2a481324#ref=rss)
+* [https://www.spiegel.de/panorama/hamas-angriff-auf-festival-in-israel-sie-feierten-den-frieden-als-der-terror-kam](https://www.spiegel.de/panorama/hamas-angriff-auf-festival-in-israel-sie-feierten-den-frieden-als-der-terror-kam-a-b1658b34-f09a-4ef8-b076-be9117d6e1c8#ref=rss)
+* [https://www.spiegel.de/politik/attentat-in-frankreich-im-nordfranzoesischen-arras-wird-ein-lehrer-von-einem-ehemaligen-schueler-erstochen](https://www.spiegel.de/politik/attentat-in-frankreich-im-nordfranzoesischen-arras-wird-ein-lehrer-von-einem-ehemaligen-schueler-erstochen-a-1a709ce9-3df5-4672-b0fd-14fd51fdfa06#ref=rss)
+* [https://www.spiegel.de/ausland/paris-traenengas-bei-pro-palaestinenser-demo-gegen-israel](https://www.spiegel.de/ausland/paris-traenengas-bei-pro-palaestinenser-demo-gegen-israel-a-ca6a1b33-a0d3-4da1-8ee7-571e86cb0fa0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-wer-sind-die-terrorpaten-im-gazastreifen-israel-us-repraesentantenhaus-iqb-bildungstrend](https://www.spiegel.de/politik/deutschland/news-wer-sind-die-terrorpaten-im-gazastreifen-israel-us-repraesentantenhaus-iqb-bildungstrend-a-73008bc3-200c-4553-98c3-f4be186dc422#ref=rss)
 ### hamas
 
-* [https://www.spiegel.de/ausland/israel-nach-dem-hamas-angriff-das-verwundete-land](https://www.spiegel.de/ausland/israel-nach-dem-hamas-angriff-das-verwundete-land-a-77bf76d1-2464-41a8-9f8c-086f907489e0#ref=rss)
-* [https://www.spiegel.de/sport/fussball/ex-nationalspieler-mesut-oezil-ruft-zu-frieden-zwischen-israel-und-der-hamas-auf-und-solidarisiert-sich-mit-palaestina](https://www.spiegel.de/sport/fussball/ex-nationalspieler-mesut-oezil-ruft-zu-frieden-zwischen-israel-und-der-hamas-auf-und-solidarisiert-sich-mit-palaestina-a-ae25b51d-8a6e-455c-a70f-7f30a7cef663#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/hamas-angriff-auf-israel-eu-ermittelt-nun-offiziell-gegen-x-wegen-desinformation](https://www.spiegel.de/netzwelt/netzpolitik/hamas-angriff-auf-israel-eu-ermittelt-nun-offiziell-gegen-x-wegen-desinformation-a-00eabbb1-6a33-4821-b366-59615ebddac1#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-neukoelln-ich-mag-die-hamas-eigentlich-nicht-aber](https://www.spiegel.de/panorama/berlin-neukoelln-ich-mag-die-hamas-eigentlich-nicht-aber-a-d4064828-74ff-4e1f-a830-0bac393aa437#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/israelische-reservisten-kehren-mit-lufthansa-sonderflug-zurueck](https://www.spiegel.de/politik/deutschland/israelische-reservisten-kehren-mit-lufthansa-sonderflug-zurueck-a-13642df9-22ff-4e83-ae51-d3ba82c046e3#ref=rss)
-### deutsche
+* [https://www.spiegel.de/ausland/israels-schlag-gegen-den-terror-was-passiert-am-tag-eins-nach-diesem-krieg](https://www.spiegel.de/ausland/israels-schlag-gegen-den-terror-was-passiert-am-tag-eins-nach-diesem-krieg-a-ed0fa417-0c0d-4d41-912d-a08b04cddfe3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/israel-und-die-hamas-eine-woche-judenhass-in-deutschland](https://www.spiegel.de/politik/deutschland/israel-und-die-hamas-eine-woche-judenhass-in-deutschland-a-9b13afea-4cb0-4b53-bfdf-93536494406b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-wer-sind-die-terrorpaten-im-gazastreifen-israel-us-repraesentantenhaus-iqb-bildungstrend](https://www.spiegel.de/politik/deutschland/news-wer-sind-die-terrorpaten-im-gazastreifen-israel-us-repraesentantenhaus-iqb-bildungstrend-a-73008bc3-200c-4553-98c3-f4be186dc422#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-neukoelln-buergermeister-der-israelischen-partnerstadt-schockiert-ueber-hamas-sympathien](https://www.spiegel.de/panorama/berlin-neukoelln-buergermeister-der-israelischen-partnerstadt-schockiert-ueber-hamas-sympathien-a-5b5c34db-b6d2-400b-9fe7-97775e0e2e9e#ref=rss)
+* [https://www.spiegel.de/kultur/tv/bbc-erklaert-warum-sie-hamas-nicht-terroristen-nennt-rishi-sunak-hatte-kritik-geaeussert](https://www.spiegel.de/kultur/tv/bbc-erklaert-warum-sie-hamas-nicht-terroristen-nennt-rishi-sunak-hatte-kritik-geaeussert-a-9f5c175d-984f-4d22-9f9f-2ac167d51dff#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/sport/fussball/ex-nationalspieler-mesut-oezil-ruft-zu-frieden-zwischen-israel-und-der-hamas-auf-und-solidarisiert-sich-mit-palaestina](https://www.spiegel.de/sport/fussball/ex-nationalspieler-mesut-oezil-ruft-zu-frieden-zwischen-israel-und-der-hamas-auf-und-solidarisiert-sich-mit-palaestina-a-ae25b51d-8a6e-455c-a70f-7f30a7cef663#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutsche-bahn-stuttgart-21-kostet-614-millionen-mehr](https://www.spiegel.de/politik/deutschland/deutsche-bahn-stuttgart-21-kostet-614-millionen-mehr-a-dbd31dd2-b388-44d4-b8f6-9db14a7cb054#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/cornelia-funke-besuch-auf-ihrem-toskana-hof-ich-tanze-zu-meiner-eigenen-trommel](https://www.spiegel.de/kultur/literatur/cornelia-funke-besuch-auf-ihrem-toskana-hof-ich-tanze-zu-meiner-eigenen-trommel-a-b00285a8-a5a3-4a31-9b68-6c3cdd2c2641#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bundesbank-praesident-sieht-hoehepunkt-der-inflation-ueberwunden](https://www.spiegel.de/wirtschaft/bundesbank-praesident-sieht-hoehepunkt-der-inflation-ueberwunden-a-ab09cee1-74a9-41ab-93b8-f3951567ffe7#ref=rss)
-### mehr
+* [https://www.spiegel.de/ausland/israels-schlag-gegen-den-terror-was-passiert-am-tag-eins-nach-diesem-krieg](https://www.spiegel.de/ausland/israels-schlag-gegen-den-terror-was-passiert-am-tag-eins-nach-diesem-krieg-a-ed0fa417-0c0d-4d41-912d-a08b04cddfe3#ref=rss)
+* [https://www.spiegel.de/ausland/tel-aviv-unter-schock-die-menschen-hier-fragen-sich-was-wird-aus-dieser-stadt](https://www.spiegel.de/ausland/tel-aviv-unter-schock-die-menschen-hier-fragen-sich-was-wird-aus-dieser-stadt-a-39e5f4b1-4440-4a66-bc1a-a4f0516d163d#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-taliban-korrigieren-zahl-der-beben-toten-auf-rund-1000-herunter](https://www.spiegel.de/ausland/afghanistan-taliban-korrigieren-zahl-der-beben-toten-auf-rund-1000-herunter-a-f8c54213-3eee-4882-b52c-d28a93e0c212#ref=rss)
+* [https://www.spiegel.de/panorama/hamas-angriff-auf-festival-in-israel-sie-feierten-den-frieden-als-der-terror-kam](https://www.spiegel.de/panorama/hamas-angriff-auf-festival-in-israel-sie-feierten-den-frieden-als-der-terror-kam-a-b1658b34-f09a-4ef8-b076-be9117d6e1c8#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-neukoelln-buergermeister-der-israelischen-partnerstadt-schockiert-ueber-hamas-sympathien](https://www.spiegel.de/panorama/berlin-neukoelln-buergermeister-der-israelischen-partnerstadt-schockiert-ueber-hamas-sympathien-a-5b5c34db-b6d2-400b-9fe7-97775e0e2e9e#ref=rss)
+### israelischen
 
-* [https://www.spiegel.de/politik/deutschland/deutsche-bahn-stuttgart-21-kostet-614-millionen-mehr](https://www.spiegel.de/politik/deutschland/deutsche-bahn-stuttgart-21-kostet-614-millionen-mehr-a-dbd31dd2-b388-44d4-b8f6-9db14a7cb054#ref=rss)
-* [https://www.spiegel.de/psychologie/einsamkeit-ueberwinden-einsam-weil-sie-andere-abschrecken-schritt-vier](https://www.spiegel.de/psychologie/einsamkeit-ueberwinden-einsam-weil-sie-andere-abschrecken-schritt-vier-a-a5ce3b64-8c81-4790-a36e-abe7ae7c4261#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/insolvenzwelle-in-deutschland-deutlich-mehr-firmen-gehen-in-die-pleite](https://www.spiegel.de/wirtschaft/unternehmen/insolvenzwelle-in-deutschland-deutlich-mehr-firmen-gehen-in-die-pleite-a-82b938ab-1d61-4793-ad19-d9f453d8a339#ref=rss)
-### fanden
+* [https://www.spiegel.de/ausland/feuergefecht-mit-hisbollah-reuters-journalist-an-israelisch-libanesischer-grenze-getoetet](https://www.spiegel.de/ausland/feuergefecht-mit-hisbollah-reuters-journalist-an-israelisch-libanesischer-grenze-getoetet-a-68b60cd2-d6df-45a9-88cb-cb0a2a481324#ref=rss)
+* [https://www.spiegel.de/ausland/peking-mitarbeiter-der-israelischen-botschaft-angegriffen](https://www.spiegel.de/ausland/peking-mitarbeiter-der-israelischen-botschaft-angegriffen-a-139a0d3c-13e8-4fa8-beca-c2816e877675#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-neukoelln-buergermeister-der-israelischen-partnerstadt-schockiert-ueber-hamas-sympathien](https://www.spiegel.de/panorama/berlin-neukoelln-buergermeister-der-israelischen-partnerstadt-schockiert-ueber-hamas-sympathien-a-5b5c34db-b6d2-400b-9fe7-97775e0e2e9e#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/politik/deutschland/wie-sich-csu-und-gruene-doch-noch-fanden-auf-geht-s-in-bayern-kolumne](https://www.spiegel.de/politik/deutschland/wie-sich-csu-und-gruene-doch-noch-fanden-auf-geht-s-in-bayern-kolumne-a-afdef47f-6d94-42d1-84a5-e53212f783a9#ref=rss)
-* [https://www.spiegel.de/wissenschaft/neandertaler-und-ihr-umgang-mit-hoehlenloewen-der-fruehe-kult-um-den-maechtigen-jaeger](https://www.spiegel.de/wissenschaft/neandertaler-und-ihr-umgang-mit-hoehlenloewen-der-fruehe-kult-um-den-maechtigen-jaeger-a-7f839aaf-dc26-4fc4-8e66-eed2ea7be279#ref=rss)
-### zurück
+* [https://www.spiegel.de/politik/deutschland/nato-wie-die-bundesregierung-beim-zwei-prozent-ziel-trickst](https://www.spiegel.de/politik/deutschland/nato-wie-die-bundesregierung-beim-zwei-prozent-ziel-trickst-a-8d6c9170-2582-4943-8d35-9266806c013e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wasserstoff-us-regierung-foerdert-hydrogen-hubs-mit-sieben-milliarden-dollar](https://www.spiegel.de/wirtschaft/wasserstoff-us-regierung-foerdert-hydrogen-hubs-mit-sieben-milliarden-dollar-a-58287dd2-32bd-4078-859c-3ddaf8edcf89#ref=rss)
+* [https://www.spiegel.de/ausland/bulgarien-prowestliche-regierung-uebersteht-misstrauensvotum](https://www.spiegel.de/ausland/bulgarien-prowestliche-regierung-uebersteht-misstrauensvotum-a-e00b9b59-c6a7-46b4-913a-d8b7fcdf075a#ref=rss)
+* [https://www.spiegel.de/kultur/tv/bbc-erklaert-warum-sie-hamas-nicht-terroristen-nennt-rishi-sunak-hatte-kritik-geaeussert](https://www.spiegel.de/kultur/tv/bbc-erklaert-warum-sie-hamas-nicht-terroristen-nennt-rishi-sunak-hatte-kritik-geaeussert-a-9f5c175d-984f-4d22-9f9f-2ac167d51dff#ref=rss)
+### krieg
 
-* [https://www.spiegel.de/ausland/israel-nach-dem-hamas-angriff-das-verwundete-land](https://www.spiegel.de/ausland/israel-nach-dem-hamas-angriff-das-verwundete-land-a-77bf76d1-2464-41a8-9f8c-086f907489e0#ref=rss)
-* [https://www.spiegel.de/psychologie/einsamkeit-ueberwinden-einsam-weil-sie-andere-abschrecken-schritt-vier](https://www.spiegel.de/psychologie/einsamkeit-ueberwinden-einsam-weil-sie-andere-abschrecken-schritt-vier-a-a5ce3b64-8c81-4790-a36e-abe7ae7c4261#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/israelische-reservisten-kehren-mit-lufthansa-sonderflug-zurueck](https://www.spiegel.de/politik/deutschland/israelische-reservisten-kehren-mit-lufthansa-sonderflug-zurueck-a-13642df9-22ff-4e83-ae51-d3ba82c046e3#ref=rss)
-### gehen
+* [https://www.spiegel.de/ausland/israels-schlag-gegen-den-terror-was-passiert-am-tag-eins-nach-diesem-krieg](https://www.spiegel.de/ausland/israels-schlag-gegen-den-terror-was-passiert-am-tag-eins-nach-diesem-krieg-a-ed0fa417-0c0d-4d41-912d-a08b04cddfe3#ref=rss)
+* [https://www.spiegel.de/ausland/tel-aviv-unter-schock-die-menschen-hier-fragen-sich-was-wird-aus-dieser-stadt](https://www.spiegel.de/ausland/tel-aviv-unter-schock-die-menschen-hier-fragen-sich-was-wird-aus-dieser-stadt-a-39e5f4b1-4440-4a66-bc1a-a4f0516d163d#ref=rss)
+* [https://www.spiegel.de/ausland/usa-nordkorea-soll-waffen-fuer-russlands-krieg-gegen-die-ukraine-geliefert-haben](https://www.spiegel.de/ausland/usa-nordkorea-soll-waffen-fuer-russlands-krieg-gegen-die-ukraine-geliefert-haben-a-e90ce498-c2a4-426a-8ffa-090d5eef566c#ref=rss)
+### arras
 
-* [https://www.spiegel.de/kultur/literatur/buchmesse-verschiebt-preisvergabe-an-palaestinenserin-adania-shibli](https://www.spiegel.de/kultur/literatur/buchmesse-verschiebt-preisvergabe-an-palaestinenserin-adania-shibli-a-bd3ea1af-ca38-4534-bc25-1d8aa6f9fe05#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/insolvenzwelle-in-deutschland-deutlich-mehr-firmen-gehen-in-die-pleite](https://www.spiegel.de/wirtschaft/unternehmen/insolvenzwelle-in-deutschland-deutlich-mehr-firmen-gehen-in-die-pleite-a-82b938ab-1d61-4793-ad19-d9f453d8a339#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-der-frauen-jorge-vilda-uebernimmt-marokkanisches-nationalteam](https://www.spiegel.de/sport/fussball/fussball-der-frauen-jorge-vilda-uebernimmt-marokkanisches-nationalteam-a-cd3984f8-d585-4033-b953-591a53a504a2#ref=rss)
-### osten
+* [https://www.spiegel.de/politik/attentat-in-frankreich-im-nordfranzoesischen-arras-wird-ein-lehrer-von-einem-ehemaligen-schueler-erstochen](https://www.spiegel.de/politik/attentat-in-frankreich-im-nordfranzoesischen-arras-wird-ein-lehrer-von-einem-ehemaligen-schueler-erstochen-a-1a709ce9-3df5-4672-b0fd-14fd51fdfa06#ref=rss)
+* [https://www.spiegel.de/ausland/erstochener-lehrer-in-arras-emmanuel-macron-spricht-von-islamistischem-terrorismus](https://www.spiegel.de/ausland/erstochener-lehrer-in-arras-emmanuel-macron-spricht-von-islamistischem-terrorismus-a-3670d101-5973-4865-8e39-339f7184a51f#ref=rss)
+### lehrer
 
-* [https://www.spiegel.de/sport/fussball/ex-nationalspieler-mesut-oezil-ruft-zu-frieden-zwischen-israel-und-der-hamas-auf-und-solidarisiert-sich-mit-palaestina](https://www.spiegel.de/sport/fussball/ex-nationalspieler-mesut-oezil-ruft-zu-frieden-zwischen-israel-und-der-hamas-auf-und-solidarisiert-sich-mit-palaestina-a-ae25b51d-8a6e-455c-a70f-7f30a7cef663#ref=rss)
-* [https://www.spiegel.de/ausland/usa-republikaner-legen-kongress-lahm-im-griff-der-donald-trump-clowns](https://www.spiegel.de/ausland/usa-republikaner-legen-kongress-lahm-im-griff-der-donald-trump-clowns-a-a2812a92-2371-4816-a40a-86ec19d7be69#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-krieg-neue-schwere-kaempfe-um-awdijiwka](https://www.spiegel.de/ausland/ukraine-russland-krieg-neue-schwere-kaempfe-um-awdijiwka-a-da7691f4-ed3c-4006-807a-fbd688b3de6e#ref=rss)
-### zeigen
+* [https://www.spiegel.de/politik/attentat-in-frankreich-im-nordfranzoesischen-arras-wird-ein-lehrer-von-einem-ehemaligen-schueler-erstochen](https://www.spiegel.de/politik/attentat-in-frankreich-im-nordfranzoesischen-arras-wird-ein-lehrer-von-einem-ehemaligen-schueler-erstochen-a-1a709ce9-3df5-4672-b0fd-14fd51fdfa06#ref=rss)
+* [https://www.spiegel.de/ausland/erstochener-lehrer-in-arras-emmanuel-macron-spricht-von-islamistischem-terrorismus](https://www.spiegel.de/ausland/erstochener-lehrer-in-arras-emmanuel-macron-spricht-von-islamistischem-terrorismus-a-3670d101-5973-4865-8e39-339f7184a51f#ref=rss)
+### israels
 
-* [https://www.spiegel.de/ausland/israel-erste-evakuierungsfluege-in-deutschland-gelandet-da-sind-steine-vom-herzen-gefallen](https://www.spiegel.de/ausland/israel-erste-evakuierungsfluege-in-deutschland-gelandet-da-sind-steine-vom-herzen-gefallen-a-b9f02345-dce3-43f1-9c8e-957ae6c108b7#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-neukoelln-ich-mag-die-hamas-eigentlich-nicht-aber](https://www.spiegel.de/panorama/berlin-neukoelln-ich-mag-die-hamas-eigentlich-nicht-aber-a-d4064828-74ff-4e1f-a830-0bac393aa437#ref=rss)
-* [https://www.spiegel.de/psychologie/einsamkeit-ueberwinden-einsam-weil-sie-andere-abschrecken-schritt-vier](https://www.spiegel.de/psychologie/einsamkeit-ueberwinden-einsam-weil-sie-andere-abschrecken-schritt-vier-a-a5ce3b64-8c81-4790-a36e-abe7ae7c4261#ref=rss)
-### wohl
+* [https://www.spiegel.de/ausland/israels-schlag-gegen-den-terror-was-passiert-am-tag-eins-nach-diesem-krieg](https://www.spiegel.de/ausland/israels-schlag-gegen-den-terror-was-passiert-am-tag-eins-nach-diesem-krieg-a-ed0fa417-0c0d-4d41-912d-a08b04cddfe3#ref=rss)
+* [https://www.spiegel.de/politik/luxemburgs-aussenminister-jean-asselborn-kritisiert-israel-fuer-angriffe-auf-gazastreifen](https://www.spiegel.de/politik/luxemburgs-aussenminister-jean-asselborn-kritisiert-israel-fuer-angriffe-auf-gazastreifen-a-6966a53f-53f1-43ce-b5ef-b69a6d532ccc#ref=rss)
+### hamasterroristen
 
-* [https://www.spiegel.de/panorama/berlin-neukoelln-ich-mag-die-hamas-eigentlich-nicht-aber](https://www.spiegel.de/panorama/berlin-neukoelln-ich-mag-die-hamas-eigentlich-nicht-aber-a-d4064828-74ff-4e1f-a830-0bac393aa437#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bundesbank-praesident-sieht-hoehepunkt-der-inflation-ueberwunden](https://www.spiegel.de/wirtschaft/bundesbank-praesident-sieht-hoehepunkt-der-inflation-ueberwunden-a-ab09cee1-74a9-41ab-93b8-f3951567ffe7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/neandertaler-und-ihr-umgang-mit-hoehlenloewen-der-fruehe-kult-um-den-maechtigen-jaeger](https://www.spiegel.de/wissenschaft/neandertaler-und-ihr-umgang-mit-hoehlenloewen-der-fruehe-kult-um-den-maechtigen-jaeger-a-7f839aaf-dc26-4fc4-8e66-eed2ea7be279#ref=rss)
-### awdijiwka
+* [https://www.spiegel.de/ausland/israels-schlag-gegen-den-terror-was-passiert-am-tag-eins-nach-diesem-krieg](https://www.spiegel.de/ausland/israels-schlag-gegen-den-terror-was-passiert-am-tag-eins-nach-diesem-krieg-a-ed0fa417-0c0d-4d41-912d-a08b04cddfe3#ref=rss)
+* [https://www.spiegel.de/panorama/hamas-angriff-auf-festival-in-israel-sie-feierten-den-frieden-als-der-terror-kam](https://www.spiegel.de/panorama/hamas-angriff-auf-festival-in-israel-sie-feierten-den-frieden-als-der-terror-kam-a-b1658b34-f09a-4ef8-b076-be9117d6e1c8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/israel-und-die-hamas-eine-woche-judenhass-in-deutschland](https://www.spiegel.de/politik/deutschland/israel-und-die-hamas-eine-woche-judenhass-in-deutschland-a-9b13afea-4cb0-4b53-bfdf-93536494406b#ref=rss)
+### unter
 
-* [https://www.spiegel.de/ausland/ukraine-russland-krieg-neue-schwere-kaempfe-um-awdijiwka](https://www.spiegel.de/ausland/ukraine-russland-krieg-neue-schwere-kaempfe-um-awdijiwka-a-da7691f4-ed3c-4006-807a-fbd688b3de6e#ref=rss)
-### messerangreifer
+* [https://www.spiegel.de/ausland/tel-aviv-unter-schock-die-menschen-hier-fragen-sich-was-wird-aus-dieser-stadt](https://www.spiegel.de/ausland/tel-aviv-unter-schock-die-menschen-hier-fragen-sich-was-wird-aus-dieser-stadt-a-39e5f4b1-4440-4a66-bc1a-a4f0516d163d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-reichstag-ex-abgeordnete-beschweren-sich-ueber-neue-sicherheitsvorkehrungen](https://www.spiegel.de/politik/deutschland/berlin-reichstag-ex-abgeordnete-beschweren-sich-ueber-neue-sicherheitsvorkehrungen-a-d5580a45-280b-4d80-af1b-e81f18d17859#ref=rss)
+* [https://www.spiegel.de/wissenschaft/herculaneum-forscher-entziffern-von-vulkanausbruch-verkohlte-schriftrollen](https://www.spiegel.de/wissenschaft/herculaneum-forscher-entziffern-von-vulkanausbruch-verkohlte-schriftrollen-a-a35becce-9fc5-4377-8cac-c026f0b84d9f#ref=rss)
+### gazastreifen
 
-* [https://www.spiegel.de/ausland/messerangreifer-in-franzoesischer-schule-toetet-einen-menschenfrankreich](https://www.spiegel.de/ausland/messerangreifer-in-franzoesischer-schule-toetet-einen-menschenfrankreich-a-8f10b5ea-701f-4f7b-ba50-64d258471897#ref=rss)
-### polizei
+* [https://www.spiegel.de/politik/luxemburgs-aussenminister-jean-asselborn-kritisiert-israel-fuer-angriffe-auf-gazastreifen](https://www.spiegel.de/politik/luxemburgs-aussenminister-jean-asselborn-kritisiert-israel-fuer-angriffe-auf-gazastreifen-a-6966a53f-53f1-43ce-b5ef-b69a6d532ccc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-wer-sind-die-terrorpaten-im-gazastreifen-israel-us-repraesentantenhaus-iqb-bildungstrend](https://www.spiegel.de/politik/deutschland/news-wer-sind-die-terrorpaten-im-gazastreifen-israel-us-repraesentantenhaus-iqb-bildungstrend-a-73008bc3-200c-4553-98c3-f4be186dc422#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/ausland/messerangreifer-in-franzoesischer-schule-toetet-einen-menschenfrankreich](https://www.spiegel.de/ausland/messerangreifer-in-franzoesischer-schule-toetet-einen-menschenfrankreich-a-8f10b5ea-701f-4f7b-ba50-64d258471897#ref=rss)
-* [https://www.spiegel.de/panorama/a94-in-bayern-joachim-herrmann-dringt-nach-unfall-mit-sieben-toten-auf-staerkere-grenzkontrollen](https://www.spiegel.de/panorama/a94-in-bayern-joachim-herrmann-dringt-nach-unfall-mit-sieben-toten-auf-staerkere-grenzkontrollen-a-6f3f2db6-d567-454c-88d0-0e3de87e89f1#ref=rss)
-### festgenommen
+* [https://www.spiegel.de/ausland/afghanistan-taliban-korrigieren-zahl-der-beben-toten-auf-rund-1000-herunter](https://www.spiegel.de/ausland/afghanistan-taliban-korrigieren-zahl-der-beben-toten-auf-rund-1000-herunter-a-f8c54213-3eee-4882-b52c-d28a93e0c212#ref=rss)
+* [https://www.spiegel.de/ausland/peking-mitarbeiter-der-israelischen-botschaft-angegriffen](https://www.spiegel.de/ausland/peking-mitarbeiter-der-israelischen-botschaft-angegriffen-a-139a0d3c-13e8-4fa8-beca-c2816e877675#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-wer-sind-die-terrorpaten-im-gazastreifen-israel-us-repraesentantenhaus-iqb-bildungstrend](https://www.spiegel.de/politik/deutschland/news-wer-sind-die-terrorpaten-im-gazastreifen-israel-us-repraesentantenhaus-iqb-bildungstrend-a-73008bc3-200c-4553-98c3-f4be186dc422#ref=rss)
+### erstochen
 
-* [https://www.spiegel.de/ausland/messerangreifer-in-franzoesischer-schule-toetet-einen-menschenfrankreich](https://www.spiegel.de/ausland/messerangreifer-in-franzoesischer-schule-toetet-einen-menschenfrankreich-a-8f10b5ea-701f-4f7b-ba50-64d258471897#ref=rss)
-* [https://www.spiegel.de/ausland/alexej-nawalny-hausdurchsuchungen-und-eine-festnahme-bei-den-anwaelten-des-kremlkritikers](https://www.spiegel.de/ausland/alexej-nawalny-hausdurchsuchungen-und-eine-festnahme-bei-den-anwaelten-des-kremlkritikers-a-1e890383-ae03-46e2-a6cf-6a3988c4b2bb#ref=rss)
-### bayern
+* [https://www.spiegel.de/politik/attentat-in-frankreich-im-nordfranzoesischen-arras-wird-ein-lehrer-von-einem-ehemaligen-schueler-erstochen](https://www.spiegel.de/politik/attentat-in-frankreich-im-nordfranzoesischen-arras-wird-ein-lehrer-von-einem-ehemaligen-schueler-erstochen-a-1a709ce9-3df5-4672-b0fd-14fd51fdfa06#ref=rss)
+* [https://www.spiegel.de/ausland/erstochener-lehrer-in-arras-emmanuel-macron-spricht-von-islamistischem-terrorismus](https://www.spiegel.de/ausland/erstochener-lehrer-in-arras-emmanuel-macron-spricht-von-islamistischem-terrorismus-a-3670d101-5973-4865-8e39-339f7184a51f#ref=rss)
+### präsident
 
-* [https://www.spiegel.de/panorama/a94-in-bayern-joachim-herrmann-dringt-nach-unfall-mit-sieben-toten-auf-staerkere-grenzkontrollen](https://www.spiegel.de/panorama/a94-in-bayern-joachim-herrmann-dringt-nach-unfall-mit-sieben-toten-auf-staerkere-grenzkontrollen-a-6f3f2db6-d567-454c-88d0-0e3de87e89f1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wie-sich-csu-und-gruene-doch-noch-fanden-auf-geht-s-in-bayern-kolumne](https://www.spiegel.de/politik/deutschland/wie-sich-csu-und-gruene-doch-noch-fanden-auf-geht-s-in-bayern-kolumne-a-afdef47f-6d94-42d1-84a5-e53212f783a9#ref=rss)
-### joachim
+* [https://www.spiegel.de/ausland/erstochener-lehrer-in-arras-emmanuel-macron-spricht-von-islamistischem-terrorismus](https://www.spiegel.de/ausland/erstochener-lehrer-in-arras-emmanuel-macron-spricht-von-islamistischem-terrorismus-a-3670d101-5973-4865-8e39-339f7184a51f#ref=rss)
+* [https://www.spiegel.de/ausland/serbiens-praesident-vucic-kuendigt-neuwahlen-an](https://www.spiegel.de/ausland/serbiens-praesident-vucic-kuendigt-neuwahlen-an-a-defd7d70-b9e4-46fd-8a9a-162213708129#ref=rss)
+### schulen
 
-* [https://www.spiegel.de/panorama/a94-in-bayern-joachim-herrmann-dringt-nach-unfall-mit-sieben-toten-auf-staerkere-grenzkontrollen](https://www.spiegel.de/panorama/a94-in-bayern-joachim-herrmann-dringt-nach-unfall-mit-sieben-toten-auf-staerkere-grenzkontrollen-a-6f3f2db6-d567-454c-88d0-0e3de87e89f1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bundesbank-praesident-sieht-hoehepunkt-der-inflation-ueberwunden](https://www.spiegel.de/wirtschaft/bundesbank-praesident-sieht-hoehepunkt-der-inflation-ueberwunden-a-ab09cee1-74a9-41ab-93b8-f3951567ffe7#ref=rss)
-### unfall
+* [https://www.spiegel.de/ausland/estland-lettland-litauen-mehrere-bombendrohungen-an-baltischen-schulen](https://www.spiegel.de/ausland/estland-lettland-litauen-mehrere-bombendrohungen-an-baltischen-schulen-a-788191e3-5cb8-48fd-a6c0-29070080cab5#ref=rss)
+### greifen
 
-* [https://www.spiegel.de/panorama/a94-in-bayern-joachim-herrmann-dringt-nach-unfall-mit-sieben-toten-auf-staerkere-grenzkontrollen](https://www.spiegel.de/panorama/a94-in-bayern-joachim-herrmann-dringt-nach-unfall-mit-sieben-toten-auf-staerkere-grenzkontrollen-a-6f3f2db6-d567-454c-88d0-0e3de87e89f1#ref=rss)
-* [https://www.spiegel.de/panorama/a5-bei-heidelberg-im-auto-verbrannt-zwei-menschen-sterben-bei-unfall](https://www.spiegel.de/panorama/a5-bei-heidelberg-im-auto-verbrannt-zwei-menschen-sterben-bei-unfall-a-f67a042e-9731-4d56-b97c-387e303b6aa9#ref=rss)
-### sieben
+* [https://www.spiegel.de/ausland/israels-schlag-gegen-den-terror-was-passiert-am-tag-eins-nach-diesem-krieg](https://www.spiegel.de/ausland/israels-schlag-gegen-den-terror-was-passiert-am-tag-eins-nach-diesem-krieg-a-ed0fa417-0c0d-4d41-912d-a08b04cddfe3#ref=rss)
+* [https://www.spiegel.de/panorama/hamas-angriff-auf-festival-in-israel-sie-feierten-den-frieden-als-der-terror-kam](https://www.spiegel.de/panorama/hamas-angriff-auf-festival-in-israel-sie-feierten-den-frieden-als-der-terror-kam-a-b1658b34-f09a-4ef8-b076-be9117d6e1c8#ref=rss)
+### stadt
 
-* [https://www.spiegel.de/panorama/a94-in-bayern-joachim-herrmann-dringt-nach-unfall-mit-sieben-toten-auf-staerkere-grenzkontrollen](https://www.spiegel.de/panorama/a94-in-bayern-joachim-herrmann-dringt-nach-unfall-mit-sieben-toten-auf-staerkere-grenzkontrollen-a-6f3f2db6-d567-454c-88d0-0e3de87e89f1#ref=rss)
-### sterben
+* [https://www.spiegel.de/ausland/tel-aviv-unter-schock-die-menschen-hier-fragen-sich-was-wird-aus-dieser-stadt](https://www.spiegel.de/ausland/tel-aviv-unter-schock-die-menschen-hier-fragen-sich-was-wird-aus-dieser-stadt-a-39e5f4b1-4440-4a66-bc1a-a4f0516d163d#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-neukoelln-buergermeister-der-israelischen-partnerstadt-schockiert-ueber-hamas-sympathien](https://www.spiegel.de/panorama/berlin-neukoelln-buergermeister-der-israelischen-partnerstadt-schockiert-ueber-hamas-sympathien-a-5b5c34db-b6d2-400b-9fe7-97775e0e2e9e#ref=rss)
+### bleiben
 
-* [https://www.spiegel.de/panorama/a94-in-bayern-joachim-herrmann-dringt-nach-unfall-mit-sieben-toten-auf-staerkere-grenzkontrollen](https://www.spiegel.de/panorama/a94-in-bayern-joachim-herrmann-dringt-nach-unfall-mit-sieben-toten-auf-staerkere-grenzkontrollen-a-6f3f2db6-d567-454c-88d0-0e3de87e89f1#ref=rss)
-* [https://www.spiegel.de/panorama/a5-bei-heidelberg-im-auto-verbrannt-zwei-menschen-sterben-bei-unfall](https://www.spiegel.de/panorama/a5-bei-heidelberg-im-auto-verbrannt-zwei-menschen-sterben-bei-unfall-a-f67a042e-9731-4d56-b97c-387e303b6aa9#ref=rss)
-### csu
+* [https://www.spiegel.de/ausland/tel-aviv-unter-schock-die-menschen-hier-fragen-sich-was-wird-aus-dieser-stadt](https://www.spiegel.de/ausland/tel-aviv-unter-schock-die-menschen-hier-fragen-sich-was-wird-aus-dieser-stadt-a-39e5f4b1-4440-4a66-bc1a-a4f0516d163d#ref=rss)
+* [https://www.spiegel.de/ausland/bulgarien-prowestliche-regierung-uebersteht-misstrauensvotum](https://www.spiegel.de/ausland/bulgarien-prowestliche-regierung-uebersteht-misstrauensvotum-a-e00b9b59-c6a7-46b4-913a-d8b7fcdf075a#ref=rss)
+### reichstag
 
-* [https://www.spiegel.de/politik/deutschland/wie-sich-csu-und-gruene-doch-noch-fanden-auf-geht-s-in-bayern-kolumne](https://www.spiegel.de/politik/deutschland/wie-sich-csu-und-gruene-doch-noch-fanden-auf-geht-s-in-bayern-kolumne-a-afdef47f-6d94-42d1-84a5-e53212f783a9#ref=rss)
-### grüne
+* [https://www.spiegel.de/politik/deutschland/berlin-reichstag-ex-abgeordnete-beschweren-sich-ueber-neue-sicherheitsvorkehrungen](https://www.spiegel.de/politik/deutschland/berlin-reichstag-ex-abgeordnete-beschweren-sich-ueber-neue-sicherheitsvorkehrungen-a-d5580a45-280b-4d80-af1b-e81f18d17859#ref=rss)
+### terroristen
 
-* [https://www.spiegel.de/politik/deutschland/wie-sich-csu-und-gruene-doch-noch-fanden-auf-geht-s-in-bayern-kolumne](https://www.spiegel.de/politik/deutschland/wie-sich-csu-und-gruene-doch-noch-fanden-auf-geht-s-in-bayern-kolumne-a-afdef47f-6d94-42d1-84a5-e53212f783a9#ref=rss)
-### kolumne
-
-* [https://www.spiegel.de/politik/deutschland/wie-sich-csu-und-gruene-doch-noch-fanden-auf-geht-s-in-bayern-kolumne](https://www.spiegel.de/politik/deutschland/wie-sich-csu-und-gruene-doch-noch-fanden-auf-geht-s-in-bayern-kolumne-a-afdef47f-6d94-42d1-84a5-e53212f783a9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/islamismus-in-deutschland-nancy-faesers-sehschwaeche-fuer-moechtegern-ajatollahs-kolumne](https://www.spiegel.de/politik/deutschland/islamismus-in-deutschland-nancy-faesers-sehschwaeche-fuer-moechtegern-ajatollahs-kolumne-a-cfa54619-e285-43df-a960-0d9da0e69800#ref=rss)
-### islamismus
-
-* [https://www.spiegel.de/politik/deutschland/islamismus-in-deutschland-nancy-faesers-sehschwaeche-fuer-moechtegern-ajatollahs-kolumne](https://www.spiegel.de/politik/deutschland/islamismus-in-deutschland-nancy-faesers-sehschwaeche-fuer-moechtegern-ajatollahs-kolumne-a-cfa54619-e285-43df-a960-0d9da0e69800#ref=rss)
-### antisemitismus
-
-* [https://www.spiegel.de/politik/deutschland/islamismus-in-deutschland-nancy-faesers-sehschwaeche-fuer-moechtegern-ajatollahs-kolumne](https://www.spiegel.de/politik/deutschland/islamismus-in-deutschland-nancy-faesers-sehschwaeche-fuer-moechtegern-ajatollahs-kolumne-a-cfa54619-e285-43df-a960-0d9da0e69800#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-neukoelln-ich-mag-die-hamas-eigentlich-nicht-aber](https://www.spiegel.de/panorama/berlin-neukoelln-ich-mag-die-hamas-eigentlich-nicht-aber-a-d4064828-74ff-4e1f-a830-0bac393aa437#ref=rss)
-### hamasangriff
-
-* [https://www.spiegel.de/ausland/israel-nach-dem-hamas-angriff-das-verwundete-land](https://www.spiegel.de/ausland/israel-nach-dem-hamas-angriff-das-verwundete-land-a-77bf76d1-2464-41a8-9f8c-086f907489e0#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/hamas-angriff-auf-israel-eu-ermittelt-nun-offiziell-gegen-x-wegen-desinformation](https://www.spiegel.de/netzwelt/netzpolitik/hamas-angriff-auf-israel-eu-ermittelt-nun-offiziell-gegen-x-wegen-desinformation-a-00eabbb1-6a33-4821-b366-59615ebddac1#ref=rss)
-### land
-
-* [https://www.spiegel.de/ausland/israel-nach-dem-hamas-angriff-das-verwundete-land](https://www.spiegel.de/ausland/israel-nach-dem-hamas-angriff-das-verwundete-land-a-77bf76d1-2464-41a8-9f8c-086f907489e0#ref=rss)
-* [https://www.spiegel.de/ausland/jordanien-koenig-abdullah-warnt-vor-gewaltsamer-vertreibung-von-palaestinensern](https://www.spiegel.de/ausland/jordanien-koenig-abdullah-warnt-vor-gewaltsamer-vertreibung-von-palaestinensern-a-ba949ac1-e127-47ee-ad60-ada7da0df518#ref=rss)
-### hart
-
-* [https://www.spiegel.de/ausland/israel-nach-dem-hamas-angriff-das-verwundete-land](https://www.spiegel.de/ausland/israel-nach-dem-hamas-angriff-das-verwundete-land-a-77bf76d1-2464-41a8-9f8c-086f907489e0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-vorstaendin-sigrid-nikutta-auf-der-pr-schiene](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-vorstaendin-sigrid-nikutta-auf-der-pr-schiene-a-b41b5b7c-5b16-4463-8865-5aeaf413b7b3#ref=rss)
-### palästinensern
-
-* [https://www.spiegel.de/ausland/israel-nach-dem-hamas-angriff-das-verwundete-land](https://www.spiegel.de/ausland/israel-nach-dem-hamas-angriff-das-verwundete-land-a-77bf76d1-2464-41a8-9f8c-086f907489e0#ref=rss)
-* [https://www.spiegel.de/ausland/jordanien-koenig-abdullah-warnt-vor-gewaltsamer-vertreibung-von-palaestinensern](https://www.spiegel.de/ausland/jordanien-koenig-abdullah-warnt-vor-gewaltsamer-vertreibung-von-palaestinensern-a-ba949ac1-e127-47ee-ad60-ada7da0df518#ref=rss)
-### daniel
-
-* [https://www.spiegel.de/kultur/literatur/daniel-kehlmann-und-zadie-smith-endlich-machst-du-mal-was-mit-nazis](https://www.spiegel.de/kultur/literatur/daniel-kehlmann-und-zadie-smith-endlich-machst-du-mal-was-mit-nazis-a-2c15c587-f987-487f-8e4a-0f7e510f7c14#ref=rss)
-### kehlmann
-
-* [https://www.spiegel.de/kultur/literatur/daniel-kehlmann-und-zadie-smith-endlich-machst-du-mal-was-mit-nazis](https://www.spiegel.de/kultur/literatur/daniel-kehlmann-und-zadie-smith-endlich-machst-du-mal-was-mit-nazis-a-2c15c587-f987-487f-8e4a-0f7e510f7c14#ref=rss)
-### zadie
-
-* [https://www.spiegel.de/kultur/literatur/daniel-kehlmann-und-zadie-smith-endlich-machst-du-mal-was-mit-nazis](https://www.spiegel.de/kultur/literatur/daniel-kehlmann-und-zadie-smith-endlich-machst-du-mal-was-mit-nazis-a-2c15c587-f987-487f-8e4a-0f7e510f7c14#ref=rss)
-### smith
-
-* [https://www.spiegel.de/kultur/literatur/daniel-kehlmann-und-zadie-smith-endlich-machst-du-mal-was-mit-nazis](https://www.spiegel.de/kultur/literatur/daniel-kehlmann-und-zadie-smith-endlich-machst-du-mal-was-mit-nazis-a-2c15c587-f987-487f-8e4a-0f7e510f7c14#ref=rss)
-### beide
-
-* [https://www.spiegel.de/kultur/literatur/daniel-kehlmann-und-zadie-smith-endlich-machst-du-mal-was-mit-nazis](https://www.spiegel.de/kultur/literatur/daniel-kehlmann-und-zadie-smith-endlich-machst-du-mal-was-mit-nazis-a-2c15c587-f987-487f-8e4a-0f7e510f7c14#ref=rss)
-* [https://www.spiegel.de/panorama/a5-bei-heidelberg-im-auto-verbrannt-zwei-menschen-sterben-bei-unfall](https://www.spiegel.de/panorama/a5-bei-heidelberg-im-auto-verbrannt-zwei-menschen-sterben-bei-unfall-a-f67a042e-9731-4d56-b97c-387e303b6aa9#ref=rss)
-### gespräch
-
-* [https://www.spiegel.de/kultur/literatur/daniel-kehlmann-und-zadie-smith-endlich-machst-du-mal-was-mit-nazis](https://www.spiegel.de/kultur/literatur/daniel-kehlmann-und-zadie-smith-endlich-machst-du-mal-was-mit-nazis-a-2c15c587-f987-487f-8e4a-0f7e510f7c14#ref=rss)
-* [https://www.spiegel.de/ausland/israel-naftali-bennett-vergleicht-gaza-krieg-mit-dresden-bombardierung](https://www.spiegel.de/ausland/israel-naftali-bennett-vergleicht-gaza-krieg-mit-dresden-bombardierung-a-e633f467-44f4-4534-a067-03befebbb96d#ref=rss)
-### 2028
-
-* [https://www.spiegel.de/sport/olympia/olympische-spiele-2028-cricket-lacrosse-flag-football-baseball-und-squash-dabei](https://www.spiegel.de/sport/olympia/olympische-spiele-2028-cricket-lacrosse-flag-football-baseball-und-squash-dabei-a-aaf23f69-e1b4-4489-8152-1f0ce10eea71#ref=rss)
-### flag
-
-* [https://www.spiegel.de/sport/olympia/olympische-spiele-2028-cricket-lacrosse-flag-football-baseball-und-squash-dabei](https://www.spiegel.de/sport/olympia/olympische-spiele-2028-cricket-lacrosse-flag-football-baseball-und-squash-dabei-a-aaf23f69-e1b4-4489-8152-1f0ce10eea71#ref=rss)
-### football
-
-* [https://www.spiegel.de/sport/olympia/olympische-spiele-2028-cricket-lacrosse-flag-football-baseball-und-squash-dabei](https://www.spiegel.de/sport/olympia/olympische-spiele-2028-cricket-lacrosse-flag-football-baseball-und-squash-dabei-a-aaf23f69-e1b4-4489-8152-1f0ce10eea71#ref=rss)
-### baseball
-
-* [https://www.spiegel.de/sport/olympia/olympische-spiele-2028-cricket-lacrosse-flag-football-baseball-und-squash-dabei](https://www.spiegel.de/sport/olympia/olympische-spiele-2028-cricket-lacrosse-flag-football-baseball-und-squash-dabei-a-aaf23f69-e1b4-4489-8152-1f0ce10eea71#ref=rss)
-### squash
-
-* [https://www.spiegel.de/sport/olympia/olympische-spiele-2028-cricket-lacrosse-flag-football-baseball-und-squash-dabei](https://www.spiegel.de/sport/olympia/olympische-spiele-2028-cricket-lacrosse-flag-football-baseball-und-squash-dabei-a-aaf23f69-e1b4-4489-8152-1f0ce10eea71#ref=rss)
-### buchmesse
-
-* [https://www.spiegel.de/kultur/literatur/buchmesse-verschiebt-preisvergabe-an-palaestinenserin-adania-shibli](https://www.spiegel.de/kultur/literatur/buchmesse-verschiebt-preisvergabe-an-palaestinenserin-adania-shibli-a-bd3ea1af-ca38-4534-bc25-1d8aa6f9fe05#ref=rss)
-### adania
-
-* [https://www.spiegel.de/kultur/literatur/buchmesse-verschiebt-preisvergabe-an-palaestinenserin-adania-shibli](https://www.spiegel.de/kultur/literatur/buchmesse-verschiebt-preisvergabe-an-palaestinenserin-adania-shibli-a-bd3ea1af-ca38-4534-bc25-1d8aa6f9fe05#ref=rss)
-### shibli
-
-* [https://www.spiegel.de/kultur/literatur/buchmesse-verschiebt-preisvergabe-an-palaestinenserin-adania-shibli](https://www.spiegel.de/kultur/literatur/buchmesse-verschiebt-preisvergabe-an-palaestinenserin-adania-shibli-a-bd3ea1af-ca38-4534-bc25-1d8aa6f9fe05#ref=rss)
-### exnationalspieler
-
-* [https://www.spiegel.de/sport/fussball/ex-nationalspieler-mesut-oezil-ruft-zu-frieden-zwischen-israel-und-der-hamas-auf-und-solidarisiert-sich-mit-palaestina](https://www.spiegel.de/sport/fussball/ex-nationalspieler-mesut-oezil-ruft-zu-frieden-zwischen-israel-und-der-hamas-auf-und-solidarisiert-sich-mit-palaestina-a-ae25b51d-8a6e-455c-a70f-7f30a7cef663#ref=rss)
-### mesut
-
-* [https://www.spiegel.de/sport/fussball/ex-nationalspieler-mesut-oezil-ruft-zu-frieden-zwischen-israel-und-der-hamas-auf-und-solidarisiert-sich-mit-palaestina](https://www.spiegel.de/sport/fussball/ex-nationalspieler-mesut-oezil-ruft-zu-frieden-zwischen-israel-und-der-hamas-auf-und-solidarisiert-sich-mit-palaestina-a-ae25b51d-8a6e-455c-a70f-7f30a7cef663#ref=rss)
-### özil
-
-* [https://www.spiegel.de/sport/fussball/ex-nationalspieler-mesut-oezil-ruft-zu-frieden-zwischen-israel-und-der-hamas-auf-und-solidarisiert-sich-mit-palaestina](https://www.spiegel.de/sport/fussball/ex-nationalspieler-mesut-oezil-ruft-zu-frieden-zwischen-israel-und-der-hamas-auf-und-solidarisiert-sich-mit-palaestina-a-ae25b51d-8a6e-455c-a70f-7f30a7cef663#ref=rss)
-### palästina
-
-* [https://www.spiegel.de/sport/fussball/ex-nationalspieler-mesut-oezil-ruft-zu-frieden-zwischen-israel-und-der-hamas-auf-und-solidarisiert-sich-mit-palaestina](https://www.spiegel.de/sport/fussball/ex-nationalspieler-mesut-oezil-ruft-zu-frieden-zwischen-israel-und-der-hamas-auf-und-solidarisiert-sich-mit-palaestina-a-ae25b51d-8a6e-455c-a70f-7f30a7cef663#ref=rss)
-* [https://www.spiegel.de/ausland/jordanien-koenig-abdullah-warnt-vor-gewaltsamer-vertreibung-von-palaestinensern](https://www.spiegel.de/ausland/jordanien-koenig-abdullah-warnt-vor-gewaltsamer-vertreibung-von-palaestinensern-a-ba949ac1-e127-47ee-ad60-ada7da0df518#ref=rss)
-### nahen
-
-* [https://www.spiegel.de/sport/fussball/ex-nationalspieler-mesut-oezil-ruft-zu-frieden-zwischen-israel-und-der-hamas-auf-und-solidarisiert-sich-mit-palaestina](https://www.spiegel.de/sport/fussball/ex-nationalspieler-mesut-oezil-ruft-zu-frieden-zwischen-israel-und-der-hamas-auf-und-solidarisiert-sich-mit-palaestina-a-ae25b51d-8a6e-455c-a70f-7f30a7cef663#ref=rss)
-* [https://www.spiegel.de/ausland/usa-republikaner-legen-kongress-lahm-im-griff-der-donald-trump-clowns](https://www.spiegel.de/ausland/usa-republikaner-legen-kongress-lahm-im-griff-der-donald-trump-clowns-a-a2812a92-2371-4816-a40a-86ec19d7be69#ref=rss)
-### deutlich
-
-* [https://www.spiegel.de/sport/fussball/ex-nationalspieler-mesut-oezil-ruft-zu-frieden-zwischen-israel-und-der-hamas-auf-und-solidarisiert-sich-mit-palaestina](https://www.spiegel.de/sport/fussball/ex-nationalspieler-mesut-oezil-ruft-zu-frieden-zwischen-israel-und-der-hamas-auf-und-solidarisiert-sich-mit-palaestina-a-ae25b51d-8a6e-455c-a70f-7f30a7cef663#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/insolvenzwelle-in-deutschland-deutlich-mehr-firmen-gehen-in-die-pleite](https://www.spiegel.de/wirtschaft/unternehmen/insolvenzwelle-in-deutschland-deutlich-mehr-firmen-gehen-in-die-pleite-a-82b938ab-1d61-4793-ad19-d9f453d8a339#ref=rss)
-### republikaner
-
-* [https://www.spiegel.de/ausland/usa-republikaner-legen-kongress-lahm-im-griff-der-donald-trump-clowns](https://www.spiegel.de/ausland/usa-republikaner-legen-kongress-lahm-im-griff-der-donald-trump-clowns-a-a2812a92-2371-4816-a40a-86ec19d7be69#ref=rss)
-### legen
-
-* [https://www.spiegel.de/ausland/usa-republikaner-legen-kongress-lahm-im-griff-der-donald-trump-clowns](https://www.spiegel.de/ausland/usa-republikaner-legen-kongress-lahm-im-griff-der-donald-trump-clowns-a-a2812a92-2371-4816-a40a-86ec19d7be69#ref=rss)
-### lahm
-
-* [https://www.spiegel.de/ausland/usa-republikaner-legen-kongress-lahm-im-griff-der-donald-trump-clowns](https://www.spiegel.de/ausland/usa-republikaner-legen-kongress-lahm-im-griff-der-donald-trump-clowns-a-a2812a92-2371-4816-a40a-86ec19d7be69#ref=rss)
-### evakuierungsflüge
-
-* [https://www.spiegel.de/ausland/israel-erste-evakuierungsfluege-in-deutschland-gelandet-da-sind-steine-vom-herzen-gefallen](https://www.spiegel.de/ausland/israel-erste-evakuierungsfluege-in-deutschland-gelandet-da-sind-steine-vom-herzen-gefallen-a-b9f02345-dce3-43f1-9c8e-957ae6c108b7#ref=rss)
-### gelandet
-
-* [https://www.spiegel.de/ausland/israel-erste-evakuierungsfluege-in-deutschland-gelandet-da-sind-steine-vom-herzen-gefallen](https://www.spiegel.de/ausland/israel-erste-evakuierungsfluege-in-deutschland-gelandet-da-sind-steine-vom-herzen-gefallen-a-b9f02345-dce3-43f1-9c8e-957ae6c108b7#ref=rss)
-### jordanien
-
-* [https://www.spiegel.de/ausland/jordanien-koenig-abdullah-warnt-vor-gewaltsamer-vertreibung-von-palaestinensern](https://www.spiegel.de/ausland/jordanien-koenig-abdullah-warnt-vor-gewaltsamer-vertreibung-von-palaestinensern-a-ba949ac1-e127-47ee-ad60-ada7da0df518#ref=rss)
-### könig
-
-* [https://www.spiegel.de/ausland/jordanien-koenig-abdullah-warnt-vor-gewaltsamer-vertreibung-von-palaestinensern](https://www.spiegel.de/ausland/jordanien-koenig-abdullah-warnt-vor-gewaltsamer-vertreibung-von-palaestinensern-a-ba949ac1-e127-47ee-ad60-ada7da0df518#ref=rss)
-### abdullah
-
-* [https://www.spiegel.de/ausland/jordanien-koenig-abdullah-warnt-vor-gewaltsamer-vertreibung-von-palaestinensern](https://www.spiegel.de/ausland/jordanien-koenig-abdullah-warnt-vor-gewaltsamer-vertreibung-von-palaestinensern-a-ba949ac1-e127-47ee-ad60-ada7da0df518#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/politik/deutschland/deutsche-bahn-stuttgart-21-kostet-614-millionen-mehr](https://www.spiegel.de/politik/deutschland/deutsche-bahn-stuttgart-21-kostet-614-millionen-mehr-a-dbd31dd2-b388-44d4-b8f6-9db14a7cb054#ref=rss)
-### stuttgart
-
-* [https://www.spiegel.de/politik/deutschland/deutsche-bahn-stuttgart-21-kostet-614-millionen-mehr](https://www.spiegel.de/politik/deutschland/deutsche-bahn-stuttgart-21-kostet-614-millionen-mehr-a-dbd31dd2-b388-44d4-b8f6-9db14a7cb054#ref=rss)
-### 21
-
-* [https://www.spiegel.de/politik/deutschland/deutsche-bahn-stuttgart-21-kostet-614-millionen-mehr](https://www.spiegel.de/politik/deutschland/deutsche-bahn-stuttgart-21-kostet-614-millionen-mehr-a-dbd31dd2-b388-44d4-b8f6-9db14a7cb054#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/politik/deutschland/deutsche-bahn-stuttgart-21-kostet-614-millionen-mehr](https://www.spiegel.de/politik/deutschland/deutsche-bahn-stuttgart-21-kostet-614-millionen-mehr-a-dbd31dd2-b388-44d4-b8f6-9db14a7cb054#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/cornelia-funke-besuch-auf-ihrem-toskana-hof-ich-tanze-zu-meiner-eigenen-trommel](https://www.spiegel.de/kultur/literatur/cornelia-funke-besuch-auf-ihrem-toskana-hof-ich-tanze-zu-meiner-eigenen-trommel-a-b00285a8-a5a3-4a31-9b68-6c3cdd2c2641#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-reichstag-ex-abgeordnete-beschweren-sich-ueber-neue-sicherheitsvorkehrungen](https://www.spiegel.de/politik/deutschland/berlin-reichstag-ex-abgeordnete-beschweren-sich-ueber-neue-sicherheitsvorkehrungen-a-d5580a45-280b-4d80-af1b-e81f18d17859#ref=rss)
+* [https://www.spiegel.de/kultur/tv/bbc-erklaert-warum-sie-hamas-nicht-terroristen-nennt-rishi-sunak-hatte-kritik-geaeussert](https://www.spiegel.de/kultur/tv/bbc-erklaert-warum-sie-hamas-nicht-terroristen-nennt-rishi-sunak-hatte-kritik-geaeussert-a-9f5c175d-984f-4d22-9f9f-2ac167d51dff#ref=rss)
 ### spiegelinformationen
 
-* [https://www.spiegel.de/politik/deutschland/deutsche-bahn-stuttgart-21-kostet-614-millionen-mehr](https://www.spiegel.de/politik/deutschland/deutsche-bahn-stuttgart-21-kostet-614-millionen-mehr-a-dbd31dd2-b388-44d4-b8f6-9db14a7cb054#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/israelische-reservisten-kehren-mit-lufthansa-sonderflug-zurueck](https://www.spiegel.de/politik/deutschland/israelische-reservisten-kehren-mit-lufthansa-sonderflug-zurueck-a-13642df9-22ff-4e83-ae51-d3ba82c046e3#ref=rss)
-### alle
+* [https://www.spiegel.de/politik/deutschland/berlin-reichstag-ex-abgeordnete-beschweren-sich-ueber-neue-sicherheitsvorkehrungen](https://www.spiegel.de/politik/deutschland/berlin-reichstag-ex-abgeordnete-beschweren-sich-ueber-neue-sicherheitsvorkehrungen-a-d5580a45-280b-4d80-af1b-e81f18d17859#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-umfeld-drohen-konsequenzen-wegen-parteigruendungsplaenen](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-umfeld-drohen-konsequenzen-wegen-parteigruendungsplaenen-a-91710b4d-4991-42be-8afb-7724d97f9c4e#ref=rss)
+### luxemburgs
 
-* [https://www.spiegel.de/politik/deutschland/deutsche-bahn-stuttgart-21-kostet-614-millionen-mehr](https://www.spiegel.de/politik/deutschland/deutsche-bahn-stuttgart-21-kostet-614-millionen-mehr-a-dbd31dd2-b388-44d4-b8f6-9db14a7cb054#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/landkreise-fordern-arbeitspflicht-fuer-alle-fluechtlinge](https://www.spiegel.de/panorama/gesellschaft/landkreise-fordern-arbeitspflicht-fuer-alle-fluechtlinge-a-5ffc5b48-6ca7-4f57-9db5-90e06fbcb094#ref=rss)
-### eigenen
+* [https://www.spiegel.de/politik/luxemburgs-aussenminister-jean-asselborn-kritisiert-israel-fuer-angriffe-auf-gazastreifen](https://www.spiegel.de/politik/luxemburgs-aussenminister-jean-asselborn-kritisiert-israel-fuer-angriffe-auf-gazastreifen-a-6966a53f-53f1-43ce-b5ef-b69a6d532ccc#ref=rss)
+### außenminister
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/hamas-angriff-auf-israel-eu-ermittelt-nun-offiziell-gegen-x-wegen-desinformation](https://www.spiegel.de/netzwelt/netzpolitik/hamas-angriff-auf-israel-eu-ermittelt-nun-offiziell-gegen-x-wegen-desinformation-a-00eabbb1-6a33-4821-b366-59615ebddac1#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/cornelia-funke-besuch-auf-ihrem-toskana-hof-ich-tanze-zu-meiner-eigenen-trommel](https://www.spiegel.de/kultur/literatur/cornelia-funke-besuch-auf-ihrem-toskana-hof-ich-tanze-zu-meiner-eigenen-trommel-a-b00285a8-a5a3-4a31-9b68-6c3cdd2c2641#ref=rss)
-### ich
+* [https://www.spiegel.de/politik/luxemburgs-aussenminister-jean-asselborn-kritisiert-israel-fuer-angriffe-auf-gazastreifen](https://www.spiegel.de/politik/luxemburgs-aussenminister-jean-asselborn-kritisiert-israel-fuer-angriffe-auf-gazastreifen-a-6966a53f-53f1-43ce-b5ef-b69a6d532ccc#ref=rss)
+### jean
 
-* [https://www.spiegel.de/panorama/berlin-neukoelln-ich-mag-die-hamas-eigentlich-nicht-aber](https://www.spiegel.de/panorama/berlin-neukoelln-ich-mag-die-hamas-eigentlich-nicht-aber-a-d4064828-74ff-4e1f-a830-0bac393aa437#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/cornelia-funke-besuch-auf-ihrem-toskana-hof-ich-tanze-zu-meiner-eigenen-trommel](https://www.spiegel.de/kultur/literatur/cornelia-funke-besuch-auf-ihrem-toskana-hof-ich-tanze-zu-meiner-eigenen-trommel-a-b00285a8-a5a3-4a31-9b68-6c3cdd2c2641#ref=rss)
-### eigentlich
+* [https://www.spiegel.de/politik/luxemburgs-aussenminister-jean-asselborn-kritisiert-israel-fuer-angriffe-auf-gazastreifen](https://www.spiegel.de/politik/luxemburgs-aussenminister-jean-asselborn-kritisiert-israel-fuer-angriffe-auf-gazastreifen-a-6966a53f-53f1-43ce-b5ef-b69a6d532ccc#ref=rss)
+### asselborn
 
-* [https://www.spiegel.de/panorama/berlin-neukoelln-ich-mag-die-hamas-eigentlich-nicht-aber](https://www.spiegel.de/panorama/berlin-neukoelln-ich-mag-die-hamas-eigentlich-nicht-aber-a-d4064828-74ff-4e1f-a830-0bac393aa437#ref=rss)
-* [https://www.spiegel.de/reise/overtourism-in-venedig-und-florenz-warum-wir-an-touristische-hotspots-reisen-und-wie-wir-das-aendern](https://www.spiegel.de/reise/overtourism-in-venedig-und-florenz-warum-wir-an-touristische-hotspots-reisen-und-wie-wir-das-aendern-a-07b31418-b112-49f4-9842-8447a19c6ac2#ref=rss)
-### ort
+* [https://www.spiegel.de/politik/luxemburgs-aussenminister-jean-asselborn-kritisiert-israel-fuer-angriffe-auf-gazastreifen](https://www.spiegel.de/politik/luxemburgs-aussenminister-jean-asselborn-kritisiert-israel-fuer-angriffe-auf-gazastreifen-a-6966a53f-53f1-43ce-b5ef-b69a6d532ccc#ref=rss)
+### kritisiert
 
-* [https://www.spiegel.de/panorama/berlin-neukoelln-ich-mag-die-hamas-eigentlich-nicht-aber](https://www.spiegel.de/panorama/berlin-neukoelln-ich-mag-die-hamas-eigentlich-nicht-aber-a-d4064828-74ff-4e1f-a830-0bac393aa437#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-krieg-neue-schwere-kaempfe-um-awdijiwka](https://www.spiegel.de/ausland/ukraine-russland-krieg-neue-schwere-kaempfe-um-awdijiwka-a-da7691f4-ed3c-4006-807a-fbd688b3de6e#ref=rss)
-### sigrid
+* [https://www.spiegel.de/politik/luxemburgs-aussenminister-jean-asselborn-kritisiert-israel-fuer-angriffe-auf-gazastreifen](https://www.spiegel.de/politik/luxemburgs-aussenminister-jean-asselborn-kritisiert-israel-fuer-angriffe-auf-gazastreifen-a-6966a53f-53f1-43ce-b5ef-b69a6d532ccc#ref=rss)
+* [https://www.spiegel.de/kultur/tv/bbc-erklaert-warum-sie-hamas-nicht-terroristen-nennt-rishi-sunak-hatte-kritik-geaeussert](https://www.spiegel.de/kultur/tv/bbc-erklaert-warum-sie-hamas-nicht-terroristen-nennt-rishi-sunak-hatte-kritik-geaeussert-a-9f5c175d-984f-4d22-9f9f-2ac167d51dff#ref=rss)
+### kritik
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-vorstaendin-sigrid-nikutta-auf-der-pr-schiene](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-vorstaendin-sigrid-nikutta-auf-der-pr-schiene-a-b41b5b7c-5b16-4463-8865-5aeaf413b7b3#ref=rss)
-### nikutta
+* [https://www.spiegel.de/politik/luxemburgs-aussenminister-jean-asselborn-kritisiert-israel-fuer-angriffe-auf-gazastreifen](https://www.spiegel.de/politik/luxemburgs-aussenminister-jean-asselborn-kritisiert-israel-fuer-angriffe-auf-gazastreifen-a-6966a53f-53f1-43ce-b5ef-b69a6d532ccc#ref=rss)
+* [https://www.spiegel.de/kultur/tv/bbc-erklaert-warum-sie-hamas-nicht-terroristen-nennt-rishi-sunak-hatte-kritik-geaeussert](https://www.spiegel.de/kultur/tv/bbc-erklaert-warum-sie-hamas-nicht-terroristen-nennt-rishi-sunak-hatte-kritik-geaeussert-a-9f5c175d-984f-4d22-9f9f-2ac167d51dff#ref=rss)
+### usa
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-vorstaendin-sigrid-nikutta-auf-der-pr-schiene](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-vorstaendin-sigrid-nikutta-auf-der-pr-schiene-a-b41b5b7c-5b16-4463-8865-5aeaf413b7b3#ref=rss)
-### cornelia
+* [https://www.spiegel.de/ausland/usa-nordkorea-soll-waffen-fuer-russlands-krieg-gegen-die-ukraine-geliefert-haben](https://www.spiegel.de/ausland/usa-nordkorea-soll-waffen-fuer-russlands-krieg-gegen-die-ukraine-geliefert-haben-a-e90ce498-c2a4-426a-8ffa-090d5eef566c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-wer-sind-die-terrorpaten-im-gazastreifen-israel-us-repraesentantenhaus-iqb-bildungstrend](https://www.spiegel.de/politik/deutschland/news-wer-sind-die-terrorpaten-im-gazastreifen-israel-us-repraesentantenhaus-iqb-bildungstrend-a-73008bc3-200c-4553-98c3-f4be186dc422#ref=rss)
+### waffen
 
-* [https://www.spiegel.de/kultur/literatur/cornelia-funke-besuch-auf-ihrem-toskana-hof-ich-tanze-zu-meiner-eigenen-trommel](https://www.spiegel.de/kultur/literatur/cornelia-funke-besuch-auf-ihrem-toskana-hof-ich-tanze-zu-meiner-eigenen-trommel-a-b00285a8-a5a3-4a31-9b68-6c3cdd2c2641#ref=rss)
-### funke
+* [https://www.spiegel.de/ausland/usa-nordkorea-soll-waffen-fuer-russlands-krieg-gegen-die-ukraine-geliefert-haben](https://www.spiegel.de/ausland/usa-nordkorea-soll-waffen-fuer-russlands-krieg-gegen-die-ukraine-geliefert-haben-a-e90ce498-c2a4-426a-8ffa-090d5eef566c#ref=rss)
+* [https://www.spiegel.de/panorama/hamas-angriff-auf-festival-in-israel-sie-feierten-den-frieden-als-der-terror-kam](https://www.spiegel.de/panorama/hamas-angriff-auf-festival-in-israel-sie-feierten-den-frieden-als-der-terror-kam-a-b1658b34-f09a-4ef8-b076-be9117d6e1c8#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/kultur/literatur/cornelia-funke-besuch-auf-ihrem-toskana-hof-ich-tanze-zu-meiner-eigenen-trommel](https://www.spiegel.de/kultur/literatur/cornelia-funke-besuch-auf-ihrem-toskana-hof-ich-tanze-zu-meiner-eigenen-trommel-a-b00285a8-a5a3-4a31-9b68-6c3cdd2c2641#ref=rss)
-### besuch
+* [https://www.spiegel.de/ausland/usa-nordkorea-soll-waffen-fuer-russlands-krieg-gegen-die-ukraine-geliefert-haben](https://www.spiegel.de/ausland/usa-nordkorea-soll-waffen-fuer-russlands-krieg-gegen-die-ukraine-geliefert-haben-a-e90ce498-c2a4-426a-8ffa-090d5eef566c#ref=rss)
+### 1000
 
-* [https://www.spiegel.de/kultur/literatur/cornelia-funke-besuch-auf-ihrem-toskana-hof-ich-tanze-zu-meiner-eigenen-trommel](https://www.spiegel.de/kultur/literatur/cornelia-funke-besuch-auf-ihrem-toskana-hof-ich-tanze-zu-meiner-eigenen-trommel-a-b00285a8-a5a3-4a31-9b68-6c3cdd2c2641#ref=rss)
-### inflation
+* [https://www.spiegel.de/ausland/usa-nordkorea-soll-waffen-fuer-russlands-krieg-gegen-die-ukraine-geliefert-haben](https://www.spiegel.de/ausland/usa-nordkorea-soll-waffen-fuer-russlands-krieg-gegen-die-ukraine-geliefert-haben-a-e90ce498-c2a4-426a-8ffa-090d5eef566c#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-taliban-korrigieren-zahl-der-beben-toten-auf-rund-1000-herunter](https://www.spiegel.de/ausland/afghanistan-taliban-korrigieren-zahl-der-beben-toten-auf-rund-1000-herunter-a-f8c54213-3eee-4882-b52c-d28a93e0c212#ref=rss)
+### laut
 
-* [https://www.spiegel.de/wirtschaft/bundesbank-praesident-sieht-hoehepunkt-der-inflation-ueberwunden](https://www.spiegel.de/wirtschaft/bundesbank-praesident-sieht-hoehepunkt-der-inflation-ueberwunden-a-ab09cee1-74a9-41ab-93b8-f3951567ffe7#ref=rss)
-### heraus
+* [https://www.spiegel.de/ausland/usa-nordkorea-soll-waffen-fuer-russlands-krieg-gegen-die-ukraine-geliefert-haben](https://www.spiegel.de/ausland/usa-nordkorea-soll-waffen-fuer-russlands-krieg-gegen-die-ukraine-geliefert-haben-a-e90ce498-c2a4-426a-8ffa-090d5eef566c#ref=rss)
+* [https://www.spiegel.de/ausland/estland-lettland-litauen-mehrere-bombendrohungen-an-baltischen-schulen](https://www.spiegel.de/ausland/estland-lettland-litauen-mehrere-bombendrohungen-an-baltischen-schulen-a-788191e3-5cb8-48fd-a6c0-29070080cab5#ref=rss)
+### usregierung
 
-* [https://www.spiegel.de/psychologie/einsamkeit-ueberwinden-einsam-weil-sie-andere-abschrecken-schritt-vier](https://www.spiegel.de/psychologie/einsamkeit-ueberwinden-einsam-weil-sie-andere-abschrecken-schritt-vier-a-a5ce3b64-8c81-4790-a36e-abe7ae7c4261#ref=rss)
-* [https://www.spiegel.de/wissenschaft/neandertaler-und-ihr-umgang-mit-hoehlenloewen-der-fruehe-kult-um-den-maechtigen-jaeger](https://www.spiegel.de/wissenschaft/neandertaler-und-ihr-umgang-mit-hoehlenloewen-der-fruehe-kult-um-den-maechtigen-jaeger-a-7f839aaf-dc26-4fc4-8e66-eed2ea7be279#ref=rss)
-### andere
+* [https://www.spiegel.de/ausland/usa-nordkorea-soll-waffen-fuer-russlands-krieg-gegen-die-ukraine-geliefert-haben](https://www.spiegel.de/ausland/usa-nordkorea-soll-waffen-fuer-russlands-krieg-gegen-die-ukraine-geliefert-haben-a-e90ce498-c2a4-426a-8ffa-090d5eef566c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wasserstoff-us-regierung-foerdert-hydrogen-hubs-mit-sieben-milliarden-dollar](https://www.spiegel.de/wirtschaft/wasserstoff-us-regierung-foerdert-hydrogen-hubs-mit-sieben-milliarden-dollar-a-58287dd2-32bd-4078-859c-3ddaf8edcf89#ref=rss)
+### feuergefecht
 
-* [https://www.spiegel.de/psychologie/einsamkeit-ueberwinden-einsam-weil-sie-andere-abschrecken-schritt-vier](https://www.spiegel.de/psychologie/einsamkeit-ueberwinden-einsam-weil-sie-andere-abschrecken-schritt-vier-a-a5ce3b64-8c81-4790-a36e-abe7ae7c4261#ref=rss)
-### mich
+* [https://www.spiegel.de/ausland/feuergefecht-mit-hisbollah-reuters-journalist-an-israelisch-libanesischer-grenze-getoetet](https://www.spiegel.de/ausland/feuergefecht-mit-hisbollah-reuters-journalist-an-israelisch-libanesischer-grenze-getoetet-a-68b60cd2-d6df-45a9-88cb-cb0a2a481324#ref=rss)
+### hisbollah
 
-* [https://www.spiegel.de/psychologie/einsamkeit-ueberwinden-einsam-weil-sie-andere-abschrecken-schritt-vier](https://www.spiegel.de/psychologie/einsamkeit-ueberwinden-einsam-weil-sie-andere-abschrecken-schritt-vier-a-a5ce3b64-8c81-4790-a36e-abe7ae7c4261#ref=rss)
-* [https://www.spiegel.de/reise/overtourism-in-venedig-und-florenz-warum-wir-an-touristische-hotspots-reisen-und-wie-wir-das-aendern](https://www.spiegel.de/reise/overtourism-in-venedig-und-florenz-warum-wir-an-touristische-hotspots-reisen-und-wie-wir-das-aendern-a-07b31418-b112-49f4-9842-8447a19c6ac2#ref=rss)
-### naftali
+* [https://www.spiegel.de/ausland/feuergefecht-mit-hisbollah-reuters-journalist-an-israelisch-libanesischer-grenze-getoetet](https://www.spiegel.de/ausland/feuergefecht-mit-hisbollah-reuters-journalist-an-israelisch-libanesischer-grenze-getoetet-a-68b60cd2-d6df-45a9-88cb-cb0a2a481324#ref=rss)
+### grenze
 
-* [https://www.spiegel.de/ausland/israel-naftali-bennett-vergleicht-gaza-krieg-mit-dresden-bombardierung](https://www.spiegel.de/ausland/israel-naftali-bennett-vergleicht-gaza-krieg-mit-dresden-bombardierung-a-e633f467-44f4-4534-a067-03befebbb96d#ref=rss)
-### bennett
+* [https://www.spiegel.de/ausland/feuergefecht-mit-hisbollah-reuters-journalist-an-israelisch-libanesischer-grenze-getoetet](https://www.spiegel.de/ausland/feuergefecht-mit-hisbollah-reuters-journalist-an-israelisch-libanesischer-grenze-getoetet-a-68b60cd2-d6df-45a9-88cb-cb0a2a481324#ref=rss)
+### getötet
 
-* [https://www.spiegel.de/ausland/israel-naftali-bennett-vergleicht-gaza-krieg-mit-dresden-bombardierung](https://www.spiegel.de/ausland/israel-naftali-bennett-vergleicht-gaza-krieg-mit-dresden-bombardierung-a-e633f467-44f4-4534-a067-03befebbb96d#ref=rss)
-### neue
+* [https://www.spiegel.de/ausland/feuergefecht-mit-hisbollah-reuters-journalist-an-israelisch-libanesischer-grenze-getoetet](https://www.spiegel.de/ausland/feuergefecht-mit-hisbollah-reuters-journalist-an-israelisch-libanesischer-grenze-getoetet-a-68b60cd2-d6df-45a9-88cb-cb0a2a481324#ref=rss)
+### hamasangriff
 
-* [https://www.spiegel.de/ausland/ukraine-russland-krieg-neue-schwere-kaempfe-um-awdijiwka](https://www.spiegel.de/ausland/ukraine-russland-krieg-neue-schwere-kaempfe-um-awdijiwka-a-da7691f4-ed3c-4006-807a-fbd688b3de6e#ref=rss)
-### nawalny
+* [https://www.spiegel.de/ausland/feuergefecht-mit-hisbollah-reuters-journalist-an-israelisch-libanesischer-grenze-getoetet](https://www.spiegel.de/ausland/feuergefecht-mit-hisbollah-reuters-journalist-an-israelisch-libanesischer-grenze-getoetet-a-68b60cd2-d6df-45a9-88cb-cb0a2a481324#ref=rss)
+* [https://www.spiegel.de/panorama/hamas-angriff-auf-festival-in-israel-sie-feierten-den-frieden-als-der-terror-kam](https://www.spiegel.de/panorama/hamas-angriff-auf-festival-in-israel-sie-feierten-den-frieden-als-der-terror-kam-a-b1658b34-f09a-4ef8-b076-be9117d6e1c8#ref=rss)
+### mehrere
 
-* [https://www.spiegel.de/ausland/alexej-nawalny-hausdurchsuchungen-und-eine-festnahme-bei-den-anwaelten-des-kremlkritikers](https://www.spiegel.de/ausland/alexej-nawalny-hausdurchsuchungen-und-eine-festnahme-bei-den-anwaelten-des-kremlkritikers-a-1e890383-ae03-46e2-a6cf-6a3988c4b2bb#ref=rss)
-### jorge
+* [https://www.spiegel.de/ausland/feuergefecht-mit-hisbollah-reuters-journalist-an-israelisch-libanesischer-grenze-getoetet](https://www.spiegel.de/ausland/feuergefecht-mit-hisbollah-reuters-journalist-an-israelisch-libanesischer-grenze-getoetet-a-68b60cd2-d6df-45a9-88cb-cb0a2a481324#ref=rss)
+* [https://www.spiegel.de/ausland/estland-lettland-litauen-mehrere-bombendrohungen-an-baltischen-schulen](https://www.spiegel.de/ausland/estland-lettland-litauen-mehrere-bombendrohungen-an-baltischen-schulen-a-788191e3-5cb8-48fd-a6c0-29070080cab5#ref=rss)
+### verletzt
 
-* [https://www.spiegel.de/sport/fussball/fussball-der-frauen-jorge-vilda-uebernimmt-marokkanisches-nationalteam](https://www.spiegel.de/sport/fussball/fussball-der-frauen-jorge-vilda-uebernimmt-marokkanisches-nationalteam-a-cd3984f8-d585-4033-b953-591a53a504a2#ref=rss)
-### vilda
+* [https://www.spiegel.de/ausland/feuergefecht-mit-hisbollah-reuters-journalist-an-israelisch-libanesischer-grenze-getoetet](https://www.spiegel.de/ausland/feuergefecht-mit-hisbollah-reuters-journalist-an-israelisch-libanesischer-grenze-getoetet-a-68b60cd2-d6df-45a9-88cb-cb0a2a481324#ref=rss)
+* [https://www.spiegel.de/ausland/erstochener-lehrer-in-arras-emmanuel-macron-spricht-von-islamistischem-terrorismus](https://www.spiegel.de/ausland/erstochener-lehrer-in-arras-emmanuel-macron-spricht-von-islamistischem-terrorismus-a-3670d101-5973-4865-8e39-339f7184a51f#ref=rss)
+### afghanistan
 
-* [https://www.spiegel.de/sport/fussball/fussball-der-frauen-jorge-vilda-uebernimmt-marokkanisches-nationalteam](https://www.spiegel.de/sport/fussball/fussball-der-frauen-jorge-vilda-uebernimmt-marokkanisches-nationalteam-a-cd3984f8-d585-4033-b953-591a53a504a2#ref=rss)
-### übernimmt
+* [https://www.spiegel.de/ausland/afghanistan-taliban-korrigieren-zahl-der-beben-toten-auf-rund-1000-herunter](https://www.spiegel.de/ausland/afghanistan-taliban-korrigieren-zahl-der-beben-toten-auf-rund-1000-herunter-a-f8c54213-3eee-4882-b52c-d28a93e0c212#ref=rss)
+### dennoch
 
-* [https://www.spiegel.de/sport/fussball/fussball-der-frauen-jorge-vilda-uebernimmt-marokkanisches-nationalteam](https://www.spiegel.de/sport/fussball/fussball-der-frauen-jorge-vilda-uebernimmt-marokkanisches-nationalteam-a-cd3984f8-d585-4033-b953-591a53a504a2#ref=rss)
-### landkreise
+* [https://www.spiegel.de/ausland/afghanistan-taliban-korrigieren-zahl-der-beben-toten-auf-rund-1000-herunter](https://www.spiegel.de/ausland/afghanistan-taliban-korrigieren-zahl-der-beben-toten-auf-rund-1000-herunter-a-f8c54213-3eee-4882-b52c-d28a93e0c212#ref=rss)
+* [https://www.spiegel.de/ausland/estland-lettland-litauen-mehrere-bombendrohungen-an-baltischen-schulen](https://www.spiegel.de/ausland/estland-lettland-litauen-mehrere-bombendrohungen-an-baltischen-schulen-a-788191e3-5cb8-48fd-a6c0-29070080cab5#ref=rss)
+### leben
 
-* [https://www.spiegel.de/panorama/gesellschaft/landkreise-fordern-arbeitspflicht-fuer-alle-fluechtlinge](https://www.spiegel.de/panorama/gesellschaft/landkreise-fordern-arbeitspflicht-fuer-alle-fluechtlinge-a-5ffc5b48-6ca7-4f57-9db5-90e06fbcb094#ref=rss)
-### ländern
+* [https://www.spiegel.de/ausland/afghanistan-taliban-korrigieren-zahl-der-beben-toten-auf-rund-1000-herunter](https://www.spiegel.de/ausland/afghanistan-taliban-korrigieren-zahl-der-beben-toten-auf-rund-1000-herunter-a-f8c54213-3eee-4882-b52c-d28a93e0c212#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/jva-neumuenster-feuer-in-gefaengnis-ein-toter](https://www.spiegel.de/panorama/justiz/jva-neumuenster-feuer-in-gefaengnis-ein-toter-a-668b7cf7-2a9b-461f-bdf9-b9069be56d06#ref=rss)
+### zunächst
 
-* [https://www.spiegel.de/panorama/gesellschaft/landkreise-fordern-arbeitspflicht-fuer-alle-fluechtlinge](https://www.spiegel.de/panorama/gesellschaft/landkreise-fordern-arbeitspflicht-fuer-alle-fluechtlinge-a-5ffc5b48-6ca7-4f57-9db5-90e06fbcb094#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/israelische-reservisten-kehren-mit-lufthansa-sonderflug-zurueck](https://www.spiegel.de/politik/deutschland/israelische-reservisten-kehren-mit-lufthansa-sonderflug-zurueck-a-13642df9-22ff-4e83-ae51-d3ba82c046e3#ref=rss)
-### venedig
+* [https://www.spiegel.de/ausland/afghanistan-taliban-korrigieren-zahl-der-beben-toten-auf-rund-1000-herunter](https://www.spiegel.de/ausland/afghanistan-taliban-korrigieren-zahl-der-beben-toten-auf-rund-1000-herunter-a-f8c54213-3eee-4882-b52c-d28a93e0c212#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/dreijaehrige-im-kanal-versenkt-mordverdacht-auch-gegen-mutter](https://www.spiegel.de/panorama/justiz/dreijaehrige-im-kanal-versenkt-mordverdacht-auch-gegen-mutter-a-18be00c4-d6f7-4de1-a0d4-3401df05c909#ref=rss)
+### nordfranzösischen
 
-* [https://www.spiegel.de/reise/overtourism-in-venedig-und-florenz-warum-wir-an-touristische-hotspots-reisen-und-wie-wir-das-aendern](https://www.spiegel.de/reise/overtourism-in-venedig-und-florenz-warum-wir-an-touristische-hotspots-reisen-und-wie-wir-das-aendern-a-07b31418-b112-49f4-9842-8447a19c6ac2#ref=rss)
-### florenz
+* [https://www.spiegel.de/politik/attentat-in-frankreich-im-nordfranzoesischen-arras-wird-ein-lehrer-von-einem-ehemaligen-schueler-erstochen](https://www.spiegel.de/politik/attentat-in-frankreich-im-nordfranzoesischen-arras-wird-ein-lehrer-von-einem-ehemaligen-schueler-erstochen-a-1a709ce9-3df5-4672-b0fd-14fd51fdfa06#ref=rss)
+### schüler
 
-* [https://www.spiegel.de/reise/overtourism-in-venedig-und-florenz-warum-wir-an-touristische-hotspots-reisen-und-wie-wir-das-aendern](https://www.spiegel.de/reise/overtourism-in-venedig-und-florenz-warum-wir-an-touristische-hotspots-reisen-und-wie-wir-das-aendern-a-07b31418-b112-49f4-9842-8447a19c6ac2#ref=rss)
-### wir
+* [https://www.spiegel.de/politik/attentat-in-frankreich-im-nordfranzoesischen-arras-wird-ein-lehrer-von-einem-ehemaligen-schueler-erstochen](https://www.spiegel.de/politik/attentat-in-frankreich-im-nordfranzoesischen-arras-wird-ein-lehrer-von-einem-ehemaligen-schueler-erstochen-a-1a709ce9-3df5-4672-b0fd-14fd51fdfa06#ref=rss)
+* [https://www.spiegel.de/ausland/erstochener-lehrer-in-arras-emmanuel-macron-spricht-von-islamistischem-terrorismus](https://www.spiegel.de/ausland/erstochener-lehrer-in-arras-emmanuel-macron-spricht-von-islamistischem-terrorismus-a-3670d101-5973-4865-8e39-339f7184a51f#ref=rss)
+### tat
 
-* [https://www.spiegel.de/reise/overtourism-in-venedig-und-florenz-warum-wir-an-touristische-hotspots-reisen-und-wie-wir-das-aendern](https://www.spiegel.de/reise/overtourism-in-venedig-und-florenz-warum-wir-an-touristische-hotspots-reisen-und-wie-wir-das-aendern-a-07b31418-b112-49f4-9842-8447a19c6ac2#ref=rss)
-### reservisten
+* [https://www.spiegel.de/politik/attentat-in-frankreich-im-nordfranzoesischen-arras-wird-ein-lehrer-von-einem-ehemaligen-schueler-erstochen](https://www.spiegel.de/politik/attentat-in-frankreich-im-nordfranzoesischen-arras-wird-ein-lehrer-von-einem-ehemaligen-schueler-erstochen-a-1a709ce9-3df5-4672-b0fd-14fd51fdfa06#ref=rss)
+* [https://www.spiegel.de/ausland/peking-mitarbeiter-der-israelischen-botschaft-angegriffen](https://www.spiegel.de/ausland/peking-mitarbeiter-der-israelischen-botschaft-angegriffen-a-139a0d3c-13e8-4fa8-beca-c2816e877675#ref=rss)
+### vorfälle
 
-* [https://www.spiegel.de/politik/deutschland/israelische-reservisten-kehren-mit-lufthansa-sonderflug-zurueck](https://www.spiegel.de/politik/deutschland/israelische-reservisten-kehren-mit-lufthansa-sonderflug-zurueck-a-13642df9-22ff-4e83-ae51-d3ba82c046e3#ref=rss)
-### heidelberg
+* [https://www.spiegel.de/politik/attentat-in-frankreich-im-nordfranzoesischen-arras-wird-ein-lehrer-von-einem-ehemaligen-schueler-erstochen](https://www.spiegel.de/politik/attentat-in-frankreich-im-nordfranzoesischen-arras-wird-ein-lehrer-von-einem-ehemaligen-schueler-erstochen-a-1a709ce9-3df5-4672-b0fd-14fd51fdfa06#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/israel-und-die-hamas-eine-woche-judenhass-in-deutschland](https://www.spiegel.de/politik/deutschland/israel-und-die-hamas-eine-woche-judenhass-in-deutschland-a-9b13afea-4cb0-4b53-bfdf-93536494406b#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/panorama/a5-bei-heidelberg-im-auto-verbrannt-zwei-menschen-sterben-bei-unfall](https://www.spiegel.de/panorama/a5-bei-heidelberg-im-auto-verbrannt-zwei-menschen-sterben-bei-unfall-a-f67a042e-9731-4d56-b97c-387e303b6aa9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/israel-und-die-hamas-eine-woche-judenhass-in-deutschland](https://www.spiegel.de/politik/deutschland/israel-und-die-hamas-eine-woche-judenhass-in-deutschland-a-9b13afea-4cb0-4b53-bfdf-93536494406b#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-neukoelln-buergermeister-der-israelischen-partnerstadt-schockiert-ueber-hamas-sympathien](https://www.spiegel.de/panorama/berlin-neukoelln-buergermeister-der-israelischen-partnerstadt-schockiert-ueber-hamas-sympathien-a-5b5c34db-b6d2-400b-9fe7-97775e0e2e9e#ref=rss)
+### kanal
+
+* [https://www.spiegel.de/panorama/justiz/dreijaehrige-im-kanal-versenkt-mordverdacht-auch-gegen-mutter](https://www.spiegel.de/panorama/justiz/dreijaehrige-im-kanal-versenkt-mordverdacht-auch-gegen-mutter-a-18be00c4-d6f7-4de1-a0d4-3401df05c909#ref=rss)
+### mutter
+
+* [https://www.spiegel.de/panorama/justiz/dreijaehrige-im-kanal-versenkt-mordverdacht-auch-gegen-mutter](https://www.spiegel.de/panorama/justiz/dreijaehrige-im-kanal-versenkt-mordverdacht-auch-gegen-mutter-a-18be00c4-d6f7-4de1-a0d4-3401df05c909#ref=rss)
+### macron
+
+* [https://www.spiegel.de/ausland/erstochener-lehrer-in-arras-emmanuel-macron-spricht-von-islamistischem-terrorismus](https://www.spiegel.de/ausland/erstochener-lehrer-in-arras-emmanuel-macron-spricht-von-islamistischem-terrorismus-a-3670d101-5973-4865-8e39-339f7184a51f#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/panorama/a5-bei-heidelberg-im-auto-verbrannt-zwei-menschen-sterben-bei-unfall](https://www.spiegel.de/panorama/a5-bei-heidelberg-im-auto-verbrannt-zwei-menschen-sterben-bei-unfall-a-f67a042e-9731-4d56-b97c-387e303b6aa9#ref=rss)
+* [https://www.spiegel.de/ausland/erstochener-lehrer-in-arras-emmanuel-macron-spricht-von-islamistischem-terrorismus](https://www.spiegel.de/ausland/erstochener-lehrer-in-arras-emmanuel-macron-spricht-von-islamistischem-terrorismus-a-3670d101-5973-4865-8e39-339f7184a51f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nato-wie-die-bundesregierung-beim-zwei-prozent-ziel-trickst](https://www.spiegel.de/politik/deutschland/nato-wie-die-bundesregierung-beim-zwei-prozent-ziel-trickst-a-8d6c9170-2582-4943-8d35-9266806c013e#ref=rss)
+### serbiens
+
+* [https://www.spiegel.de/ausland/serbiens-praesident-vucic-kuendigt-neuwahlen-an](https://www.spiegel.de/ausland/serbiens-praesident-vucic-kuendigt-neuwahlen-an-a-defd7d70-b9e4-46fd-8a9a-162213708129#ref=rss)
+### kündigt
+
+* [https://www.spiegel.de/ausland/serbiens-praesident-vucic-kuendigt-neuwahlen-an](https://www.spiegel.de/ausland/serbiens-praesident-vucic-kuendigt-neuwahlen-an-a-defd7d70-b9e4-46fd-8a9a-162213708129#ref=rss)
+* [https://www.spiegel.de/ausland/bulgarien-prowestliche-regierung-uebersteht-misstrauensvotum](https://www.spiegel.de/ausland/bulgarien-prowestliche-regierung-uebersteht-misstrauensvotum-a-e00b9b59-c6a7-46b4-913a-d8b7fcdf075a#ref=rss)
+### nato
+
+* [https://www.spiegel.de/politik/deutschland/nato-wie-die-bundesregierung-beim-zwei-prozent-ziel-trickst](https://www.spiegel.de/politik/deutschland/nato-wie-die-bundesregierung-beim-zwei-prozent-ziel-trickst-a-8d6c9170-2582-4943-8d35-9266806c013e#ref=rss)
+### herculaneum
+
+* [https://www.spiegel.de/wissenschaft/herculaneum-forscher-entziffern-von-vulkanausbruch-verkohlte-schriftrollen](https://www.spiegel.de/wissenschaft/herculaneum-forscher-entziffern-von-vulkanausbruch-verkohlte-schriftrollen-a-a35becce-9fc5-4377-8cac-c026f0b84d9f#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/wissenschaft/herculaneum-forscher-entziffern-von-vulkanausbruch-verkohlte-schriftrollen](https://www.spiegel.de/wissenschaft/herculaneum-forscher-entziffern-von-vulkanausbruch-verkohlte-schriftrollen-a-a35becce-9fc5-4377-8cac-c026f0b84d9f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/nasa-raumsonde-psyche-auf-dem-weg-zu-metallreichem-asteroiden](https://www.spiegel.de/wissenschaft/nasa-raumsonde-psyche-auf-dem-weg-zu-metallreichem-asteroiden-a-cb56c230-8e1b-4c1d-94c8-59ea70a6dae1#ref=rss)
+### konnten
+
+* [https://www.spiegel.de/wissenschaft/herculaneum-forscher-entziffern-von-vulkanausbruch-verkohlte-schriftrollen](https://www.spiegel.de/wissenschaft/herculaneum-forscher-entziffern-von-vulkanausbruch-verkohlte-schriftrollen-a-a35becce-9fc5-4377-8cac-c026f0b84d9f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/jva-neumuenster-feuer-in-gefaengnis-ein-toter](https://www.spiegel.de/panorama/justiz/jva-neumuenster-feuer-in-gefaengnis-ein-toter-a-668b7cf7-2a9b-461f-bdf9-b9069be56d06#ref=rss)
+### mitarbeiter
+
+* [https://www.spiegel.de/ausland/peking-mitarbeiter-der-israelischen-botschaft-angegriffen](https://www.spiegel.de/ausland/peking-mitarbeiter-der-israelischen-botschaft-angegriffen-a-139a0d3c-13e8-4fa8-beca-c2816e877675#ref=rss)
+### botschaft
+
+* [https://www.spiegel.de/ausland/peking-mitarbeiter-der-israelischen-botschaft-angegriffen](https://www.spiegel.de/ausland/peking-mitarbeiter-der-israelischen-botschaft-angegriffen-a-139a0d3c-13e8-4fa8-beca-c2816e877675#ref=rss)
+### psyche
+
+* [https://www.spiegel.de/wissenschaft/nasa-raumsonde-psyche-auf-dem-weg-zu-metallreichem-asteroiden](https://www.spiegel.de/wissenschaft/nasa-raumsonde-psyche-auf-dem-weg-zu-metallreichem-asteroiden-a-cb56c230-8e1b-4c1d-94c8-59ea70a6dae1#ref=rss)
+### weg
+
+* [https://www.spiegel.de/wissenschaft/nasa-raumsonde-psyche-auf-dem-weg-zu-metallreichem-asteroiden](https://www.spiegel.de/wissenschaft/nasa-raumsonde-psyche-auf-dem-weg-zu-metallreichem-asteroiden-a-cb56c230-8e1b-4c1d-94c8-59ea70a6dae1#ref=rss)
+### asteroiden
+
+* [https://www.spiegel.de/wissenschaft/nasa-raumsonde-psyche-auf-dem-weg-zu-metallreichem-asteroiden](https://www.spiegel.de/wissenschaft/nasa-raumsonde-psyche-auf-dem-weg-zu-metallreichem-asteroiden-a-cb56c230-8e1b-4c1d-94c8-59ea70a6dae1#ref=rss)
+### paris
+
+* [https://www.spiegel.de/ausland/paris-traenengas-bei-pro-palaestinenser-demo-gegen-israel](https://www.spiegel.de/ausland/paris-traenengas-bei-pro-palaestinenser-demo-gegen-israel-a-ca6a1b33-a0d3-4da1-8ee7-571e86cb0fa0#ref=rss)
+### estland
+
+* [https://www.spiegel.de/ausland/estland-lettland-litauen-mehrere-bombendrohungen-an-baltischen-schulen](https://www.spiegel.de/ausland/estland-lettland-litauen-mehrere-bombendrohungen-an-baltischen-schulen-a-788191e3-5cb8-48fd-a6c0-29070080cab5#ref=rss)
+### lettland
+
+* [https://www.spiegel.de/ausland/estland-lettland-litauen-mehrere-bombendrohungen-an-baltischen-schulen](https://www.spiegel.de/ausland/estland-lettland-litauen-mehrere-bombendrohungen-an-baltischen-schulen-a-788191e3-5cb8-48fd-a6c0-29070080cab5#ref=rss)
+### litauen
+
+* [https://www.spiegel.de/ausland/estland-lettland-litauen-mehrere-bombendrohungen-an-baltischen-schulen](https://www.spiegel.de/ausland/estland-lettland-litauen-mehrere-bombendrohungen-an-baltischen-schulen-a-788191e3-5cb8-48fd-a6c0-29070080cab5#ref=rss)
+### bombendrohungen
+
+* [https://www.spiegel.de/ausland/estland-lettland-litauen-mehrere-bombendrohungen-an-baltischen-schulen](https://www.spiegel.de/ausland/estland-lettland-litauen-mehrere-bombendrohungen-an-baltischen-schulen-a-788191e3-5cb8-48fd-a6c0-29070080cab5#ref=rss)
+### sieben
+
+* [https://www.spiegel.de/wirtschaft/wasserstoff-us-regierung-foerdert-hydrogen-hubs-mit-sieben-milliarden-dollar](https://www.spiegel.de/wirtschaft/wasserstoff-us-regierung-foerdert-hydrogen-hubs-mit-sieben-milliarden-dollar-a-58287dd2-32bd-4078-859c-3ddaf8edcf89#ref=rss)
+### iqbbildungstrend
+
+* [https://www.spiegel.de/politik/deutschland/news-wer-sind-die-terrorpaten-im-gazastreifen-israel-us-repraesentantenhaus-iqb-bildungstrend](https://www.spiegel.de/politik/deutschland/news-wer-sind-die-terrorpaten-im-gazastreifen-israel-us-repraesentantenhaus-iqb-bildungstrend-a-73008bc3-200c-4553-98c3-f4be186dc422#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/iqb-bildungstrend-gewoehnt-euch-nicht-an-die-schlechten-ergebnisse-kommentar](https://www.spiegel.de/panorama/bildung/iqb-bildungstrend-gewoehnt-euch-nicht-an-die-schlechten-ergebnisse-kommentar-a-8b9505c1-7617-4259-9594-e8b6d09acfa1#ref=rss)
+### berlinneukölln
+
+* [https://www.spiegel.de/panorama/berlin-neukoelln-buergermeister-der-israelischen-partnerstadt-schockiert-ueber-hamas-sympathien](https://www.spiegel.de/panorama/berlin-neukoelln-buergermeister-der-israelischen-partnerstadt-schockiert-ueber-hamas-sympathien-a-5b5c34db-b6d2-400b-9fe7-97775e0e2e9e#ref=rss)
+### bürgermeister
+
+* [https://www.spiegel.de/panorama/berlin-neukoelln-buergermeister-der-israelischen-partnerstadt-schockiert-ueber-hamas-sympathien](https://www.spiegel.de/panorama/berlin-neukoelln-buergermeister-der-israelischen-partnerstadt-schockiert-ueber-hamas-sympathien-a-5b5c34db-b6d2-400b-9fe7-97775e0e2e9e#ref=rss)
+### prowestliche
+
+* [https://www.spiegel.de/ausland/bulgarien-prowestliche-regierung-uebersteht-misstrauensvotum](https://www.spiegel.de/ausland/bulgarien-prowestliche-regierung-uebersteht-misstrauensvotum-a-e00b9b59-c6a7-46b4-913a-d8b7fcdf075a#ref=rss)
+### misstrauensvotum
+
+* [https://www.spiegel.de/ausland/bulgarien-prowestliche-regierung-uebersteht-misstrauensvotum](https://www.spiegel.de/ausland/bulgarien-prowestliche-regierung-uebersteht-misstrauensvotum-a-e00b9b59-c6a7-46b4-913a-d8b7fcdf075a#ref=rss)
+### bbc
+
+* [https://www.spiegel.de/kultur/tv/bbc-erklaert-warum-sie-hamas-nicht-terroristen-nennt-rishi-sunak-hatte-kritik-geaeussert](https://www.spiegel.de/kultur/tv/bbc-erklaert-warum-sie-hamas-nicht-terroristen-nennt-rishi-sunak-hatte-kritik-geaeussert-a-9f5c175d-984f-4d22-9f9f-2ac167d51dff#ref=rss)
+### sunak
+
+* [https://www.spiegel.de/kultur/tv/bbc-erklaert-warum-sie-hamas-nicht-terroristen-nennt-rishi-sunak-hatte-kritik-geaeussert](https://www.spiegel.de/kultur/tv/bbc-erklaert-warum-sie-hamas-nicht-terroristen-nennt-rishi-sunak-hatte-kritik-geaeussert-a-9f5c175d-984f-4d22-9f9f-2ac167d51dff#ref=rss)
+### sahra
+
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-umfeld-drohen-konsequenzen-wegen-parteigruendungsplaenen](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-umfeld-drohen-konsequenzen-wegen-parteigruendungsplaenen-a-91710b4d-4991-42be-8afb-7724d97f9c4e#ref=rss)
+### umfeld
+
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-umfeld-drohen-konsequenzen-wegen-parteigruendungsplaenen](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-umfeld-drohen-konsequenzen-wegen-parteigruendungsplaenen-a-91710b4d-4991-42be-8afb-7724d97f9c4e#ref=rss)
+### ergebnisse
+
+* [https://www.spiegel.de/panorama/bildung/iqb-bildungstrend-gewoehnt-euch-nicht-an-die-schlechten-ergebnisse-kommentar](https://www.spiegel.de/panorama/bildung/iqb-bildungstrend-gewoehnt-euch-nicht-an-die-schlechten-ergebnisse-kommentar-a-8b9505c1-7617-4259-9594-e8b6d09acfa1#ref=rss)
 
