@@ -6,307 +6,307 @@ tags: __no_header__
 
 ### israel
 
-* [https://www.spiegel.de/ausland/hamas-ueberfall-auf-israel-richard-c-schneider-ueber-die-toten-in-seinem-bekanntenkreis](https://www.spiegel.de/ausland/hamas-ueberfall-auf-israel-richard-c-schneider-ueber-die-toten-in-seinem-bekanntenkreis-a-3dddee6f-e99c-45a9-a840-8360904c0937#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/israel-bundeswehr-fliegt-deutsche-aus-israel-aus](https://www.spiegel.de/politik/deutschland/israel-bundeswehr-fliegt-deutsche-aus-israel-aus-a-a7d49f2a-d1c5-426f-8f21-553891ac331f#ref=rss)
-* [https://www.spiegel.de/ausland/aus-israel-nach-gaza-verschleppt-acht-deutsche-unter-den-hamas-geiseln](https://www.spiegel.de/ausland/aus-israel-nach-gaza-verschleppt-acht-deutsche-unter-den-hamas-geiseln-a-6c9385bc-5490-4f8f-8c4d-2c2ff5a54cf7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-mobilisiert-luftlandebrigade-fuer-evakuierungs-operation](https://www.spiegel.de/politik/deutschland/bundeswehr-mobilisiert-luftlandebrigade-fuer-evakuierungs-operation-a-095cbf8c-737b-40d6-9253-1b36f85b8905#ref=rss)
-* [https://www.spiegel.de/ausland/israel-meldet-toetung-von-fuer-massaker-verantwortlichem-hamas-kommandeur](https://www.spiegel.de/ausland/israel-meldet-toetung-von-fuer-massaker-verantwortlichem-hamas-kommandeur-a-735a0258-da38-46db-8a6e-016170656999#ref=rss)
-* [https://www.spiegel.de/ausland/israel-flucht-aus-dem-gazastreifen](https://www.spiegel.de/ausland/israel-flucht-aus-dem-gazastreifen-a-e39e34e4-3612-464f-8e38-0bc56ef74574#ref=rss)
-* [https://www.spiegel.de/ausland/iran-bezeichnet-annaeherung-zwischen-israel-und-saudi-arabien-als-beendet](https://www.spiegel.de/ausland/iran-bezeichnet-annaeherung-zwischen-israel-und-saudi-arabien-als-beendet-a-2dc1d38e-09dc-4522-a699-2c553941f036#ref=rss)
-* [https://www.spiegel.de/ausland/wasser-fuer-menschen-im-gazastreifen-wird-knapp](https://www.spiegel.de/ausland/wasser-fuer-menschen-im-gazastreifen-wird-knapp-a-aeb13d2e-bcb6-41f9-826a-c721334ed0b6#ref=rss)
-* [https://www.spiegel.de/ausland/hamas-ueberfall-auf-israel-so-haben-die-terroristen-die-grenzanlage-ueberwunden](https://www.spiegel.de/ausland/hamas-ueberfall-auf-israel-so-haben-die-terroristen-die-grenzanlage-ueberwunden-a-7be1d502-46d4-4447-a58e-98376790605c#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/politik/deutschland/israel-bundeswehr-fliegt-deutsche-aus-israel-aus](https://www.spiegel.de/politik/deutschland/israel-bundeswehr-fliegt-deutsche-aus-israel-aus-a-a7d49f2a-d1c5-426f-8f21-553891ac331f#ref=rss)
-* [https://www.spiegel.de/ausland/aus-israel-nach-gaza-verschleppt-acht-deutsche-unter-den-hamas-geiseln](https://www.spiegel.de/ausland/aus-israel-nach-gaza-verschleppt-acht-deutsche-unter-den-hamas-geiseln-a-6c9385bc-5490-4f8f-8c4d-2c2ff5a54cf7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-mobilisiert-luftlandebrigade-fuer-evakuierungs-operation](https://www.spiegel.de/politik/deutschland/bundeswehr-mobilisiert-luftlandebrigade-fuer-evakuierungs-operation-a-095cbf8c-737b-40d6-9253-1b36f85b8905#ref=rss)
-* [https://www.spiegel.de/panorama/weltmeisterschaft-im-pfluegen-in-lettland-jede-furche-muss-sitzen](https://www.spiegel.de/panorama/weltmeisterschaft-im-pfluegen-in-lettland-jede-furche-muss-sitzen-a-e9efa858-6601-4910-860d-3f8ffc5727f4#ref=rss)
-* [https://www.spiegel.de/panorama/kriminalitaetsstatistik-zahl-deutscher-staatsbuerger-unter-mutmasslichen-schleusern-steigt](https://www.spiegel.de/panorama/kriminalitaetsstatistik-zahl-deutscher-staatsbuerger-unter-mutmasslichen-schleusern-steigt-a-f5dc123c-9ffb-4daf-b677-76cc87ea1d17#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/feuerkranz-sonnenfinsternis-ueber-amerikanischem-kontinent-zu-sehen](https://www.spiegel.de/panorama/feuerkranz-sonnenfinsternis-ueber-amerikanischem-kontinent-zu-sehen-a-b436468c-8070-49d8-afd0-05d86e668fc8#ref=rss)
-* [https://www.spiegel.de/ausland/hamas-ueberfall-auf-israel-richard-c-schneider-ueber-die-toten-in-seinem-bekanntenkreis](https://www.spiegel.de/ausland/hamas-ueberfall-auf-israel-richard-c-schneider-ueber-die-toten-in-seinem-bekanntenkreis-a-3dddee6f-e99c-45a9-a840-8360904c0937#ref=rss)
-* [https://www.spiegel.de/panorama/mehr-als-tausend-menschen-protestieren-fuer-palaestina](https://www.spiegel.de/panorama/mehr-als-tausend-menschen-protestieren-fuer-palaestina-a-55cbdd68-ee8c-4202-9256-d79a3ccdc78b#ref=rss)
-* [https://www.spiegel.de/panorama/kriminalitaetsstatistik-zahl-deutscher-staatsbuerger-unter-mutmasslichen-schleusern-steigt](https://www.spiegel.de/panorama/kriminalitaetsstatistik-zahl-deutscher-staatsbuerger-unter-mutmasslichen-schleusern-steigt-a-f5dc123c-9ffb-4daf-b677-76cc87ea1d17#ref=rss)
-* [https://www.spiegel.de/ausland/wasser-fuer-menschen-im-gazastreifen-wird-knapp](https://www.spiegel.de/ausland/wasser-fuer-menschen-im-gazastreifen-wird-knapp-a-aeb13d2e-bcb6-41f9-826a-c721334ed0b6#ref=rss)
-### gazastreifen
-
-* [https://www.spiegel.de/ausland/israel-news-heute-zehntausende-im-gazastreifen-laut-uno-bereits-nach-sueden-geflohen](https://www.spiegel.de/ausland/israel-news-heute-zehntausende-im-gazastreifen-laut-uno-bereits-nach-sueden-geflohen-a-7aea7f2f-570a-40b9-b207-4bf2d29d1dfd#ref=rss)
-* [https://www.spiegel.de/ausland/israel-flucht-aus-dem-gazastreifen](https://www.spiegel.de/ausland/israel-flucht-aus-dem-gazastreifen-a-e39e34e4-3612-464f-8e38-0bc56ef74574#ref=rss)
-* [https://www.spiegel.de/ausland/iran-bezeichnet-annaeherung-zwischen-israel-und-saudi-arabien-als-beendet](https://www.spiegel.de/ausland/iran-bezeichnet-annaeherung-zwischen-israel-und-saudi-arabien-als-beendet-a-2dc1d38e-09dc-4522-a699-2c553941f036#ref=rss)
-* [https://www.spiegel.de/ausland/wasser-fuer-menschen-im-gazastreifen-wird-knapp](https://www.spiegel.de/ausland/wasser-fuer-menschen-im-gazastreifen-wird-knapp-a-aeb13d2e-bcb6-41f9-826a-c721334ed0b6#ref=rss)
-### land
-
-* [https://www.spiegel.de/sport/olympia/olympia-indien-kuendigt-bewerbung-fuer-sommerspiele-2036-an](https://www.spiegel.de/sport/olympia/olympia-indien-kuendigt-bewerbung-fuer-sommerspiele-2036-an-a-cb36c32b-6910-4db5-90c6-1b2774ec651f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/christian-lindner-bietet-grossbritannien-engere-wirtschaftsbeziehung-an](https://www.spiegel.de/wirtschaft/christian-lindner-bietet-grossbritannien-engere-wirtschaftsbeziehung-an-a-56089562-f4a9-4919-92a8-4932f5b9f3cb#ref=rss)
-* [https://www.spiegel.de/ausland/polen-regierung-hetzt-gegen-migranten-und-laesst-heimlich-arbeitskraefte-ins-land](https://www.spiegel.de/ausland/polen-regierung-hetzt-gegen-migranten-und-laesst-heimlich-arbeitskraefte-ins-land-a-ea4474c5-da1f-4262-82df-f8bec92b8a2d#ref=rss)
-* [https://www.spiegel.de/panorama/kriminalitaetsstatistik-zahl-deutscher-staatsbuerger-unter-mutmasslichen-schleusern-steigt](https://www.spiegel.de/panorama/kriminalitaetsstatistik-zahl-deutscher-staatsbuerger-unter-mutmasslichen-schleusern-steigt-a-f5dc123c-9ffb-4daf-b677-76cc87ea1d17#ref=rss)
-* [https://www.spiegel.de/ausland/terrorwarnstufe-in-frankreich-pariser-louvre-wegen-bombendrohung-geraeumt](https://www.spiegel.de/ausland/terrorwarnstufe-in-frankreich-pariser-louvre-wegen-bombendrohung-geraeumt-a-eecfca5c-9ede-4fc6-ba9a-3de3548b53fc#ref=rss)
-### bundeswehr
-
-* [https://www.spiegel.de/politik/deutschland/israel-bundeswehr-fliegt-deutsche-aus-israel-aus](https://www.spiegel.de/politik/deutschland/israel-bundeswehr-fliegt-deutsche-aus-israel-aus-a-a7d49f2a-d1c5-426f-8f21-553891ac331f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-mobilisiert-luftlandebrigade-fuer-evakuierungs-operation](https://www.spiegel.de/politik/deutschland/bundeswehr-mobilisiert-luftlandebrigade-fuer-evakuierungs-operation-a-095cbf8c-737b-40d6-9253-1b36f85b8905#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/politik/deutschland/israel-bundeswehr-fliegt-deutsche-aus-israel-aus](https://www.spiegel.de/politik/deutschland/israel-bundeswehr-fliegt-deutsche-aus-israel-aus-a-a7d49f2a-d1c5-426f-8f21-553891ac331f#ref=rss)
-* [https://www.spiegel.de/panorama/weltmeisterschaft-im-pfluegen-in-lettland-jede-furche-muss-sitzen](https://www.spiegel.de/panorama/weltmeisterschaft-im-pfluegen-in-lettland-jede-furche-muss-sitzen-a-e9efa858-6601-4910-860d-3f8ffc5727f4#ref=rss)
-* [https://www.spiegel.de/panorama/zwei-maedchen-nach-mutprobe-in-klinik](https://www.spiegel.de/panorama/zwei-maedchen-nach-mutprobe-in-klinik-a-07705acc-6c69-4258-bdc4-cd0987bdfee1#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/mehr-als-tausend-menschen-protestieren-fuer-palaestina](https://www.spiegel.de/panorama/mehr-als-tausend-menschen-protestieren-fuer-palaestina-a-55cbdd68-ee8c-4202-9256-d79a3ccdc78b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/christian-lindner-bietet-grossbritannien-engere-wirtschaftsbeziehung-an](https://www.spiegel.de/wirtschaft/christian-lindner-bietet-grossbritannien-engere-wirtschaftsbeziehung-an-a-56089562-f4a9-4919-92a8-4932f5b9f3cb#ref=rss)
-* [https://www.spiegel.de/ausland/israel-flucht-aus-dem-gazastreifen](https://www.spiegel.de/ausland/israel-flucht-aus-dem-gazastreifen-a-e39e34e4-3612-464f-8e38-0bc56ef74574#ref=rss)
-* [https://www.spiegel.de/ausland/referendum-australien-sagt-nein-zu-mehr-mitsprache-fuer-ureinwohner](https://www.spiegel.de/ausland/referendum-australien-sagt-nein-zu-mehr-mitsprache-fuer-ureinwohner-a-47df14db-4b6f-42d0-a10d-a8b09d3a8763#ref=rss)
-### wasser
-
-* [https://www.spiegel.de/panorama/hamburg-erste-sturmflut-der-saison-ueberspuelt-fischmarkt](https://www.spiegel.de/panorama/hamburg-erste-sturmflut-der-saison-ueberspuelt-fischmarkt-a-f6c3fef7-9668-455c-9788-3ee50e3e5a48#ref=rss)
-* [https://www.spiegel.de/panorama/wesermarsch-familie-bei-spaziergang-in-den-salzwiesen-von-wasser-eingeschlossen](https://www.spiegel.de/panorama/wesermarsch-familie-bei-spaziergang-in-den-salzwiesen-von-wasser-eingeschlossen-a-91eba7e2-086e-4c4a-b52d-cc09f6ec440e#ref=rss)
-* [https://www.spiegel.de/ausland/wasser-fuer-menschen-im-gazastreifen-wird-knapp](https://www.spiegel.de/ausland/wasser-fuer-menschen-im-gazastreifen-wird-knapp-a-aeb13d2e-bcb6-41f9-826a-c721334ed0b6#ref=rss)
+* [https://www.spiegel.de/ausland/katar-iranischer-aussenminister-trifft-hamas-chef-weitere-zusammenarbeit-angekuendigt](https://www.spiegel.de/ausland/katar-iranischer-aussenminister-trifft-hamas-chef-weitere-zusammenarbeit-angekuendigt-a-be01bd91-100e-41bc-a84d-c59e1807c7a1#ref=rss)
+* [https://www.spiegel.de/ausland/israel-und-palaestinensische-gebiete-auswaertiges-amt-spricht-reisewarnung-aus](https://www.spiegel.de/ausland/israel-und-palaestinensische-gebiete-auswaertiges-amt-spricht-reisewarnung-aus-a-d15970b0-bca7-4ef5-b4b2-1081580470e7#ref=rss)
+* [https://www.spiegel.de/ausland/hamas-angriff-auf-festival-in-israel-sie-suchen-nach-ueberlebenden-und-wollen-krieg](https://www.spiegel.de/ausland/hamas-angriff-auf-festival-in-israel-sie-suchen-nach-ueberlebenden-und-wollen-krieg-a-a93dba9c-1018-4840-bfab-7864be7332dc#ref=rss)
+* [https://www.spiegel.de/ausland/hamas-in-oesterreich-reichen-die-terror-strukturen-bis-nach-wien-podcast](https://www.spiegel.de/ausland/hamas-in-oesterreich-reichen-die-terror-strukturen-bis-nach-wien-podcast-a-ed629e26-5f98-49e8-b54a-20b81e77a24a#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-mahnt-dass-die-terrorbekaempfung-nirgends-ins-wanken-geraet](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-mahnt-dass-die-terrorbekaempfung-nirgends-ins-wanken-geraet-a-1a5b54df-d792-4f2e-91d0-fd5d4d95ab5c#ref=rss)
+* [https://www.spiegel.de/ausland/israel-armee-zeigt-sich-bereit-mit-noch-mehr-macht-zurueckzuschlagen](https://www.spiegel.de/ausland/israel-armee-zeigt-sich-bereit-mit-noch-mehr-macht-zurueckzuschlagen-a-66785f97-f7aa-4b75-b968-f6460d16c0f5#ref=rss)
 ### hamas
 
-* [https://www.spiegel.de/ausland/hamas-ueberfall-auf-israel-richard-c-schneider-ueber-die-toten-in-seinem-bekanntenkreis](https://www.spiegel.de/ausland/hamas-ueberfall-auf-israel-richard-c-schneider-ueber-die-toten-in-seinem-bekanntenkreis-a-3dddee6f-e99c-45a9-a840-8360904c0937#ref=rss)
-* [https://www.spiegel.de/ausland/israel-meldet-toetung-von-fuer-massaker-verantwortlichem-hamas-kommandeur](https://www.spiegel.de/ausland/israel-meldet-toetung-von-fuer-massaker-verantwortlichem-hamas-kommandeur-a-735a0258-da38-46db-8a6e-016170656999#ref=rss)
-* [https://www.spiegel.de/ausland/israel-flucht-aus-dem-gazastreifen](https://www.spiegel.de/ausland/israel-flucht-aus-dem-gazastreifen-a-e39e34e4-3612-464f-8e38-0bc56ef74574#ref=rss)
-### staatsbürger
+* [https://www.spiegel.de/ausland/katar-iranischer-aussenminister-trifft-hamas-chef-weitere-zusammenarbeit-angekuendigt](https://www.spiegel.de/ausland/katar-iranischer-aussenminister-trifft-hamas-chef-weitere-zusammenarbeit-angekuendigt-a-be01bd91-100e-41bc-a84d-c59e1807c7a1#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-plassmann-stuttmann-und-chappatte-bahn-frei-fuer-putin](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-plassmann-stuttmann-und-chappatte-bahn-frei-fuer-putin-a-0399b53e-a3d8-4a7b-bd8d-103dd13bb6af#ref=rss)
+* [https://www.spiegel.de/ausland/hamas-in-oesterreich-reichen-die-terror-strukturen-bis-nach-wien-podcast](https://www.spiegel.de/ausland/hamas-in-oesterreich-reichen-die-terror-strukturen-bis-nach-wien-podcast-a-ed629e26-5f98-49e8-b54a-20b81e77a24a#ref=rss)
+* [https://www.spiegel.de/ausland/israel-armee-zeigt-sich-bereit-mit-noch-mehr-macht-zurueckzuschlagen](https://www.spiegel.de/ausland/israel-armee-zeigt-sich-bereit-mit-noch-mehr-macht-zurueckzuschlagen-a-66785f97-f7aa-4b75-b968-f6460d16c0f5#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/politik/deutschland/israel-bundeswehr-fliegt-deutsche-aus-israel-aus](https://www.spiegel.de/politik/deutschland/israel-bundeswehr-fliegt-deutsche-aus-israel-aus-a-a7d49f2a-d1c5-426f-8f21-553891ac331f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-mobilisiert-luftlandebrigade-fuer-evakuierungs-operation](https://www.spiegel.de/politik/deutschland/bundeswehr-mobilisiert-luftlandebrigade-fuer-evakuierungs-operation-a-095cbf8c-737b-40d6-9253-1b36f85b8905#ref=rss)
-* [https://www.spiegel.de/panorama/kriminalitaetsstatistik-zahl-deutscher-staatsbuerger-unter-mutmasslichen-schleusern-steigt](https://www.spiegel.de/panorama/kriminalitaetsstatistik-zahl-deutscher-staatsbuerger-unter-mutmasslichen-schleusern-steigt-a-f5dc123c-9ffb-4daf-b677-76cc87ea1d17#ref=rss)
-### erste
+* [https://www.spiegel.de/panorama/schwaighofen-20-jaehriger-guckt-aufs-handy-und-wird-von-zug-ueberfahren](https://www.spiegel.de/panorama/schwaighofen-20-jaehriger-guckt-aufs-handy-und-wird-von-zug-ueberfahren-a-7b6d51b4-593a-4bc5-87db-ff951ee897ef#ref=rss)
+* [https://www.spiegel.de/panorama/oberbayern-mann-nach-badeunfall-tot-aus-see-geborgen](https://www.spiegel.de/panorama/oberbayern-mann-nach-badeunfall-tot-aus-see-geborgen-a-03f1a189-2a18-41a7-912f-7e10646afdf0#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gewalttaetige-jugendliche-den-kindern-fehlten-zeit-zaertlichkeit-und-zuneigung](https://www.spiegel.de/panorama/justiz/gewalttaetige-jugendliche-den-kindern-fehlten-zeit-zaertlichkeit-und-zuneigung-a-92508b30-af1c-433e-9920-c82cf3ad701a#ref=rss)
+* [https://www.spiegel.de/ausland/israel-armee-zeigt-sich-bereit-mit-noch-mehr-macht-zurueckzuschlagen](https://www.spiegel.de/ausland/israel-armee-zeigt-sich-bereit-mit-noch-mehr-macht-zurueckzuschlagen-a-66785f97-f7aa-4b75-b968-f6460d16c0f5#ref=rss)
+### woche
 
-* [https://www.spiegel.de/panorama/hamburg-erste-sturmflut-der-saison-ueberspuelt-fischmarkt](https://www.spiegel.de/panorama/hamburg-erste-sturmflut-der-saison-ueberspuelt-fischmarkt-a-f6c3fef7-9668-455c-9788-3ee50e3e5a48#ref=rss)
-* [https://www.spiegel.de/panorama/zwei-maedchen-nach-mutprobe-in-klinik](https://www.spiegel.de/panorama/zwei-maedchen-nach-mutprobe-in-klinik-a-07705acc-6c69-4258-bdc4-cd0987bdfee1#ref=rss)
-### armee
+* [https://www.spiegel.de/ausland/katar-iranischer-aussenminister-trifft-hamas-chef-weitere-zusammenarbeit-angekuendigt](https://www.spiegel.de/ausland/katar-iranischer-aussenminister-trifft-hamas-chef-weitere-zusammenarbeit-angekuendigt-a-be01bd91-100e-41bc-a84d-c59e1807c7a1#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-plassmann-stuttmann-und-chappatte-bahn-frei-fuer-putin](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-plassmann-stuttmann-und-chappatte-bahn-frei-fuer-putin-a-0399b53e-a3d8-4a7b-bd8d-103dd13bb6af#ref=rss)
+* [https://www.spiegel.de/karriere/tausendmal-addiert-raetsel-der-woche](https://www.spiegel.de/karriere/tausendmal-addiert-raetsel-der-woche-a-5bb7903c-18c2-47fe-b8a3-08529900667c#ref=rss)
+### thomas
 
-* [https://www.spiegel.de/ausland/israel-news-heute-zehntausende-im-gazastreifen-laut-uno-bereits-nach-sueden-geflohen](https://www.spiegel.de/ausland/israel-news-heute-zehntausende-im-gazastreifen-laut-uno-bereits-nach-sueden-geflohen-a-7aea7f2f-570a-40b9-b207-4bf2d29d1dfd#ref=rss)
-* [https://www.spiegel.de/ausland/tausende-palaestinenser-fliehen-aus-dem-norden-des-gazastreifens](https://www.spiegel.de/ausland/tausende-palaestinenser-fliehen-aus-dem-norden-des-gazastreifens-a-71308c1b-445f-427e-a654-d9068a78b26e#ref=rss)
-### spiele
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-plassmann-stuttmann-und-chappatte-bahn-frei-fuer-putin](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-plassmann-stuttmann-und-chappatte-bahn-frei-fuer-putin-a-0399b53e-a3d8-4a7b-bd8d-103dd13bb6af#ref=rss)
+* [https://www.spiegel.de/sport/olympia/ioc-mehrere-mitglieder-bitten-thomas-bach-seine-amtszeit-ueber-2025-hinaus-zu-verlaengern](https://www.spiegel.de/sport/olympia/ioc-mehrere-mitglieder-bitten-thomas-bach-seine-amtszeit-ueber-2025-hinaus-zu-verlaengern-a-a2779134-d04b-4ac5-b26e-15498a4630e9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/julian-nagelsmann-traegt-als-bundestrainer-holzfaeller-hemd-thomas-mueller-findet-s-gut](https://www.spiegel.de/sport/fussball/julian-nagelsmann-traegt-als-bundestrainer-holzfaeller-hemd-thomas-mueller-findet-s-gut-a-58b774c2-34ee-4c19-9120-3b1946746029#ref=rss)
+### österreich
 
-* [https://www.spiegel.de/sport/olympia/thomas-bach-laesst-olympische-spiele-fuer-e-sport-pruefen](https://www.spiegel.de/sport/olympia/thomas-bach-laesst-olympische-spiele-fuer-e-sport-pruefen-a-5a01a114-3b44-4e08-b019-1b0a3a1b1220#ref=rss)
-### indien
+* [https://www.spiegel.de/panorama/oesterreich-erlegte-ein-dutzend-woelfe-abschuss-huerden-gesenkt](https://www.spiegel.de/panorama/oesterreich-erlegte-ein-dutzend-woelfe-abschuss-huerden-gesenkt-a-3bed7b02-4072-48a8-83d8-5dd77fc5087d#ref=rss)
+* [https://www.spiegel.de/ausland/hamas-in-oesterreich-reichen-die-terror-strukturen-bis-nach-wien-podcast](https://www.spiegel.de/ausland/hamas-in-oesterreich-reichen-die-terror-strukturen-bis-nach-wien-podcast-a-ed629e26-5f98-49e8-b54a-20b81e77a24a#ref=rss)
+### julian
 
-* [https://www.spiegel.de/sport/olympia/olympia-indien-kuendigt-bewerbung-fuer-sommerspiele-2036-an](https://www.spiegel.de/sport/olympia/olympia-indien-kuendigt-bewerbung-fuer-sommerspiele-2036-an-a-cb36c32b-6910-4db5-90c6-1b2774ec651f#ref=rss)
-* [https://www.spiegel.de/sport/cricket-wm-indien-besiegt-erzrivalen-pakistan-bei-heim-wm-vor-120-000-zuschauern](https://www.spiegel.de/sport/cricket-wm-indien-besiegt-erzrivalen-pakistan-bei-heim-wm-vor-120-000-zuschauern-a-a72f2b3c-5204-40b0-8329-0de9488da3e9#ref=rss)
-### bundesregierung
+* [https://www.spiegel.de/sport/fussball/dfb-auftritt-unter-julian-nagelsmann-wird-jetzt-wieder-alles-gut](https://www.spiegel.de/sport/fussball/dfb-auftritt-unter-julian-nagelsmann-wird-jetzt-wieder-alles-gut-a-ac03c08b-b8ce-47e3-b011-91d1563adf4a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/julian-nagelsmann-traegt-als-bundestrainer-holzfaeller-hemd-thomas-mueller-findet-s-gut](https://www.spiegel.de/sport/fussball/julian-nagelsmann-traegt-als-bundestrainer-holzfaeller-hemd-thomas-mueller-findet-s-gut-a-58b774c2-34ee-4c19-9120-3b1946746029#ref=rss)
+### nagelsmann
 
-* [https://www.spiegel.de/ausland/aus-israel-nach-gaza-verschleppt-acht-deutsche-unter-den-hamas-geiseln](https://www.spiegel.de/ausland/aus-israel-nach-gaza-verschleppt-acht-deutsche-unter-den-hamas-geiseln-a-6c9385bc-5490-4f8f-8c4d-2c2ff5a54cf7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-mobilisiert-luftlandebrigade-fuer-evakuierungs-operation](https://www.spiegel.de/politik/deutschland/bundeswehr-mobilisiert-luftlandebrigade-fuer-evakuierungs-operation-a-095cbf8c-737b-40d6-9253-1b36f85b8905#ref=rss)
-### unter
+* [https://www.spiegel.de/sport/fussball/dfb-auftritt-unter-julian-nagelsmann-wird-jetzt-wieder-alles-gut](https://www.spiegel.de/sport/fussball/dfb-auftritt-unter-julian-nagelsmann-wird-jetzt-wieder-alles-gut-a-ac03c08b-b8ce-47e3-b011-91d1563adf4a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/julian-nagelsmann-traegt-als-bundestrainer-holzfaeller-hemd-thomas-mueller-findet-s-gut](https://www.spiegel.de/sport/fussball/julian-nagelsmann-traegt-als-bundestrainer-holzfaeller-hemd-thomas-mueller-findet-s-gut-a-58b774c2-34ee-4c19-9120-3b1946746029#ref=rss)
+### mann
 
-* [https://www.spiegel.de/ausland/aus-israel-nach-gaza-verschleppt-acht-deutsche-unter-den-hamas-geiseln](https://www.spiegel.de/ausland/aus-israel-nach-gaza-verschleppt-acht-deutsche-unter-den-hamas-geiseln-a-6c9385bc-5490-4f8f-8c4d-2c2ff5a54cf7#ref=rss)
-* [https://www.spiegel.de/panorama/kriminalitaetsstatistik-zahl-deutscher-staatsbuerger-unter-mutmasslichen-schleusern-steigt](https://www.spiegel.de/panorama/kriminalitaetsstatistik-zahl-deutscher-staatsbuerger-unter-mutmasslichen-schleusern-steigt-a-f5dc123c-9ffb-4daf-b677-76cc87ea1d17#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/ausland/frankreich-schloss-versailles-wegen-bombendrohung-evakuiert](https://www.spiegel.de/ausland/frankreich-schloss-versailles-wegen-bombendrohung-evakuiert-a-55631e95-d661-4476-8601-952115e9e502#ref=rss)
-* [https://www.spiegel.de/ausland/terrorwarnstufe-in-frankreich-pariser-louvre-wegen-bombendrohung-geraeumt](https://www.spiegel.de/ausland/terrorwarnstufe-in-frankreich-pariser-louvre-wegen-bombendrohung-geraeumt-a-eecfca5c-9ede-4fc6-ba9a-3de3548b53fc#ref=rss)
-### bombendrohung
-
-* [https://www.spiegel.de/ausland/frankreich-schloss-versailles-wegen-bombendrohung-evakuiert](https://www.spiegel.de/ausland/frankreich-schloss-versailles-wegen-bombendrohung-evakuiert-a-55631e95-d661-4476-8601-952115e9e502#ref=rss)
-* [https://www.spiegel.de/ausland/terrorwarnstufe-in-frankreich-pariser-louvre-wegen-bombendrohung-geraeumt](https://www.spiegel.de/ausland/terrorwarnstufe-in-frankreich-pariser-louvre-wegen-bombendrohung-geraeumt-a-eecfca5c-9ede-4fc6-ba9a-3de3548b53fc#ref=rss)
-### evakuiert
-
-* [https://www.spiegel.de/ausland/frankreich-schloss-versailles-wegen-bombendrohung-evakuiert](https://www.spiegel.de/ausland/frankreich-schloss-versailles-wegen-bombendrohung-evakuiert-a-55631e95-d661-4476-8601-952115e9e502#ref=rss)
-* [https://www.spiegel.de/ausland/terrorwarnstufe-in-frankreich-pariser-louvre-wegen-bombendrohung-geraeumt](https://www.spiegel.de/ausland/terrorwarnstufe-in-frankreich-pariser-louvre-wegen-bombendrohung-geraeumt-a-eecfca5c-9ede-4fc6-ba9a-3de3548b53fc#ref=rss)
-### sex
-
-* [https://www.spiegel.de/partnerschaft/sex-im-alter-werden-wir-jetzt-wieder-sex-haben-wo-die-kinder-aus-dem-haus-sind](https://www.spiegel.de/partnerschaft/sex-im-alter-werden-wir-jetzt-wieder-sex-haben-wo-die-kinder-aus-dem-haus-sind-a-94b68678-876c-48dd-9e29-ae606319f1e9#ref=rss)
-### feuerkranzsonnenfinsternis
-
-* [https://www.spiegel.de/panorama/feuerkranz-sonnenfinsternis-ueber-amerikanischem-kontinent-zu-sehen](https://www.spiegel.de/panorama/feuerkranz-sonnenfinsternis-ueber-amerikanischem-kontinent-zu-sehen-a-b436468c-8070-49d8-afd0-05d86e668fc8#ref=rss)
-### sehen
-
-* [https://www.spiegel.de/panorama/feuerkranz-sonnenfinsternis-ueber-amerikanischem-kontinent-zu-sehen](https://www.spiegel.de/panorama/feuerkranz-sonnenfinsternis-ueber-amerikanischem-kontinent-zu-sehen-a-b436468c-8070-49d8-afd0-05d86e668fc8#ref=rss)
-* [https://www.spiegel.de/ausland/israel-flucht-aus-dem-gazastreifen](https://www.spiegel.de/ausland/israel-flucht-aus-dem-gazastreifen-a-e39e34e4-3612-464f-8e38-0bc56ef74574#ref=rss)
-### hamasüberfall
-
-* [https://www.spiegel.de/ausland/hamas-ueberfall-auf-israel-richard-c-schneider-ueber-die-toten-in-seinem-bekanntenkreis](https://www.spiegel.de/ausland/hamas-ueberfall-auf-israel-richard-c-schneider-ueber-die-toten-in-seinem-bekanntenkreis-a-3dddee6f-e99c-45a9-a840-8360904c0937#ref=rss)
-* [https://www.spiegel.de/ausland/hamas-ueberfall-auf-israel-so-haben-die-terroristen-die-grenzanlage-ueberwunden](https://www.spiegel.de/ausland/hamas-ueberfall-auf-israel-so-haben-die-terroristen-die-grenzanlage-ueberwunden-a-7be1d502-46d4-4447-a58e-98376790605c#ref=rss)
-### bekanntenkreis
-
-* [https://www.spiegel.de/ausland/hamas-ueberfall-auf-israel-richard-c-schneider-ueber-die-toten-in-seinem-bekanntenkreis](https://www.spiegel.de/ausland/hamas-ueberfall-auf-israel-richard-c-schneider-ueber-die-toten-in-seinem-bekanntenkreis-a-3dddee6f-e99c-45a9-a840-8360904c0937#ref=rss)
-### ich
-
-* [https://www.spiegel.de/ausland/hamas-ueberfall-auf-israel-richard-c-schneider-ueber-die-toten-in-seinem-bekanntenkreis](https://www.spiegel.de/ausland/hamas-ueberfall-auf-israel-richard-c-schneider-ueber-die-toten-in-seinem-bekanntenkreis-a-3dddee6f-e99c-45a9-a840-8360904c0937#ref=rss)
-### holen
-
-* [https://www.spiegel.de/politik/deutschland/israel-bundeswehr-fliegt-deutsche-aus-israel-aus](https://www.spiegel.de/politik/deutschland/israel-bundeswehr-fliegt-deutsche-aus-israel-aus-a-a7d49f2a-d1c5-426f-8f21-553891ac331f#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-indien-kuendigt-bewerbung-fuer-sommerspiele-2036-an](https://www.spiegel.de/sport/olympia/olympia-indien-kuendigt-bewerbung-fuer-sommerspiele-2036-an-a-cb36c32b-6910-4db5-90c6-1b2774ec651f#ref=rss)
-### samstag
-
-* [https://www.spiegel.de/panorama/mehr-als-tausend-menschen-protestieren-fuer-palaestina](https://www.spiegel.de/panorama/mehr-als-tausend-menschen-protestieren-fuer-palaestina-a-55cbdd68-ee8c-4202-9256-d79a3ccdc78b#ref=rss)
-* [https://www.spiegel.de/ausland/hamas-ueberfall-auf-israel-so-haben-die-terroristen-die-grenzanlage-ueberwunden](https://www.spiegel.de/ausland/hamas-ueberfall-auf-israel-so-haben-die-terroristen-die-grenzanlage-ueberwunden-a-7be1d502-46d4-4447-a58e-98376790605c#ref=rss)
-### hamburg
-
-* [https://www.spiegel.de/panorama/hamburg-erste-sturmflut-der-saison-ueberspuelt-fischmarkt](https://www.spiegel.de/panorama/hamburg-erste-sturmflut-der-saison-ueberspuelt-fischmarkt-a-f6c3fef7-9668-455c-9788-3ee50e3e5a48#ref=rss)
-### sturmflut
-
-* [https://www.spiegel.de/panorama/hamburg-erste-sturmflut-der-saison-ueberspuelt-fischmarkt](https://www.spiegel.de/panorama/hamburg-erste-sturmflut-der-saison-ueberspuelt-fischmarkt-a-f6c3fef7-9668-455c-9788-3ee50e3e5a48#ref=rss)
-### saison
-
-* [https://www.spiegel.de/panorama/hamburg-erste-sturmflut-der-saison-ueberspuelt-fischmarkt](https://www.spiegel.de/panorama/hamburg-erste-sturmflut-der-saison-ueberspuelt-fischmarkt-a-f6c3fef7-9668-455c-9788-3ee50e3e5a48#ref=rss)
-### touristenziel
-
-* [https://www.spiegel.de/panorama/hamburg-erste-sturmflut-der-saison-ueberspuelt-fischmarkt](https://www.spiegel.de/panorama/hamburg-erste-sturmflut-der-saison-ueberspuelt-fischmarkt-a-f6c3fef7-9668-455c-9788-3ee50e3e5a48#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-schloss-versailles-wegen-bombendrohung-evakuiert](https://www.spiegel.de/ausland/frankreich-schloss-versailles-wegen-bombendrohung-evakuiert-a-55631e95-d661-4476-8601-952115e9e502#ref=rss)
-### schließt
-
-* [https://www.spiegel.de/ausland/israel-news-heute-zehntausende-im-gazastreifen-laut-uno-bereits-nach-sueden-geflohen](https://www.spiegel.de/ausland/israel-news-heute-zehntausende-im-gazastreifen-laut-uno-bereits-nach-sueden-geflohen-a-7aea7f2f-570a-40b9-b207-4bf2d29d1dfd#ref=rss)
-### vorbereitungen
-
-* [https://www.spiegel.de/ausland/israel-news-heute-zehntausende-im-gazastreifen-laut-uno-bereits-nach-sueden-geflohen](https://www.spiegel.de/ausland/israel-news-heute-zehntausende-im-gazastreifen-laut-uno-bereits-nach-sueden-geflohen-a-7aea7f2f-570a-40b9-b207-4bf2d29d1dfd#ref=rss)
-### bedeutende
-
-* [https://www.spiegel.de/ausland/israel-news-heute-zehntausende-im-gazastreifen-laut-uno-bereits-nach-sueden-geflohen](https://www.spiegel.de/ausland/israel-news-heute-zehntausende-im-gazastreifen-laut-uno-bereits-nach-sueden-geflohen-a-7aea7f2f-570a-40b9-b207-4bf2d29d1dfd#ref=rss)
-### bodenoperation
-
-* [https://www.spiegel.de/ausland/israel-news-heute-zehntausende-im-gazastreifen-laut-uno-bereits-nach-sueden-geflohen](https://www.spiegel.de/ausland/israel-news-heute-zehntausende-im-gazastreifen-laut-uno-bereits-nach-sueden-geflohen-a-7aea7f2f-570a-40b9-b207-4bf2d29d1dfd#ref=rss)
-### israelische
-
-* [https://www.spiegel.de/ausland/israel-news-heute-zehntausende-im-gazastreifen-laut-uno-bereits-nach-sueden-geflohen](https://www.spiegel.de/ausland/israel-news-heute-zehntausende-im-gazastreifen-laut-uno-bereits-nach-sueden-geflohen-a-7aea7f2f-570a-40b9-b207-4bf2d29d1dfd#ref=rss)
-* [https://www.spiegel.de/ausland/tausende-palaestinenser-fliehen-aus-dem-norden-des-gazastreifens](https://www.spiegel.de/ausland/tausende-palaestinenser-fliehen-aus-dem-norden-des-gazastreifens-a-71308c1b-445f-427e-a654-d9068a78b26e#ref=rss)
+* [https://www.spiegel.de/panorama/schwaighofen-20-jaehriger-guckt-aufs-handy-und-wird-von-zug-ueberfahren](https://www.spiegel.de/panorama/schwaighofen-20-jaehriger-guckt-aufs-handy-und-wird-von-zug-ueberfahren-a-7b6d51b4-593a-4bc5-87db-ff951ee897ef#ref=rss)
+* [https://www.spiegel.de/panorama/oberbayern-mann-nach-badeunfall-tot-aus-see-geborgen](https://www.spiegel.de/panorama/oberbayern-mann-nach-badeunfall-tot-aus-see-geborgen-a-03f1a189-2a18-41a7-912f-7e10646afdf0#ref=rss)
+* [https://www.spiegel.de/panorama/ruegen-mann-faehrt-mit-ferrari-gegen-baum-200-000-euro-schaden](https://www.spiegel.de/panorama/ruegen-mann-faehrt-mit-ferrari-gegen-baum-200-000-euro-schaden-a-2344c30f-7f46-4d35-bdc7-d5764c5c40ea#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/ausland/israel-news-heute-zehntausende-im-gazastreifen-laut-uno-bereits-nach-sueden-geflohen](https://www.spiegel.de/ausland/israel-news-heute-zehntausende-im-gazastreifen-laut-uno-bereits-nach-sueden-geflohen-a-7aea7f2f-570a-40b9-b207-4bf2d29d1dfd#ref=rss)
-* [https://www.spiegel.de/ausland/israel-meldet-toetung-von-fuer-massaker-verantwortlichem-hamas-kommandeur](https://www.spiegel.de/ausland/israel-meldet-toetung-von-fuer-massaker-verantwortlichem-hamas-kommandeur-a-735a0258-da38-46db-8a6e-016170656999#ref=rss)
-### bevor
+* [https://www.spiegel.de/panorama/leipzig-schaeumende-springbrunnen-beeintraechtigen-strassenverkehr](https://www.spiegel.de/panorama/leipzig-schaeumende-springbrunnen-beeintraechtigen-strassenverkehr-a-2b64fdf0-057c-4b63-be5b-7acf94aaebd1#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-russland-baut-sich-neue-bahnstrecke-nach-mariupol](https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-russland-baut-sich-neue-bahnstrecke-nach-mariupol-a-11b51a09-d1ec-424d-94f5-b918350a0093#ref=rss)
+* [https://www.spiegel.de/ausland/israel-armee-zeigt-sich-bereit-mit-noch-mehr-macht-zurueckzuschlagen](https://www.spiegel.de/ausland/israel-armee-zeigt-sich-bereit-mit-noch-mehr-macht-zurueckzuschlagen-a-66785f97-f7aa-4b75-b968-f6460d16c0f5#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/ausland/israel-news-heute-zehntausende-im-gazastreifen-laut-uno-bereits-nach-sueden-geflohen](https://www.spiegel.de/ausland/israel-news-heute-zehntausende-im-gazastreifen-laut-uno-bereits-nach-sueden-geflohen-a-7aea7f2f-570a-40b9-b207-4bf2d29d1dfd#ref=rss)
-* [https://www.spiegel.de/ausland/tausende-palaestinenser-fliehen-aus-dem-norden-des-gazastreifens](https://www.spiegel.de/ausland/tausende-palaestinenser-fliehen-aus-dem-norden-des-gazastreifens-a-71308c1b-445f-427e-a654-d9068a78b26e#ref=rss)
-### gaza
+* [https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-russland-baut-sich-neue-bahnstrecke-nach-mariupol](https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-russland-baut-sich-neue-bahnstrecke-nach-mariupol-a-11b51a09-d1ec-424d-94f5-b918350a0093#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-mahnt-dass-die-terrorbekaempfung-nirgends-ins-wanken-geraet](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-mahnt-dass-die-terrorbekaempfung-nirgends-ins-wanken-geraet-a-1a5b54df-d792-4f2e-91d0-fd5d4d95ab5c#ref=rss)
+### erschüttert
 
-* [https://www.spiegel.de/ausland/israel-news-heute-zehntausende-im-gazastreifen-laut-uno-bereits-nach-sueden-geflohen](https://www.spiegel.de/ausland/israel-news-heute-zehntausende-im-gazastreifen-laut-uno-bereits-nach-sueden-geflohen-a-7aea7f2f-570a-40b9-b207-4bf2d29d1dfd#ref=rss)
-* [https://www.spiegel.de/ausland/aus-israel-nach-gaza-verschleppt-acht-deutsche-unter-den-hamas-geiseln](https://www.spiegel.de/ausland/aus-israel-nach-gaza-verschleppt-acht-deutsche-unter-den-hamas-geiseln-a-6c9385bc-5490-4f8f-8c4d-2c2ff5a54cf7#ref=rss)
-### olympische
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-plassmann-stuttmann-und-chappatte-bahn-frei-fuer-putin](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-plassmann-stuttmann-und-chappatte-bahn-frei-fuer-putin-a-0399b53e-a3d8-4a7b-bd8d-103dd13bb6af#ref=rss)
+* [https://www.spiegel.de/panorama/afghanistan-erneut-erschuettert-starkes-erdbeben-region-herat](https://www.spiegel.de/panorama/afghanistan-erneut-erschuettert-starkes-erdbeben-region-herat-a-05d0582c-3c45-487e-9ee1-4d50a315d03f#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/sport/olympia/thomas-bach-laesst-olympische-spiele-fuer-e-sport-pruefen](https://www.spiegel.de/sport/olympia/thomas-bach-laesst-olympische-spiele-fuer-e-sport-pruefen-a-5a01a114-3b44-4e08-b019-1b0a3a1b1220#ref=rss)
-### esport
+* [https://www.spiegel.de/panorama/a94-toedlicher-unfall-in-bayern-haftbefehl-wegen-mordes-gegen-mutmasslichen-schleuser](https://www.spiegel.de/panorama/a94-toedlicher-unfall-in-bayern-haftbefehl-wegen-mordes-gegen-mutmasslichen-schleuser-a-903fe062-d4af-4f32-b495-5a5e9deb090f#ref=rss)
+* [https://www.spiegel.de/ausland/hamas-in-oesterreich-reichen-die-terror-strukturen-bis-nach-wien-podcast](https://www.spiegel.de/ausland/hamas-in-oesterreich-reichen-die-terror-strukturen-bis-nach-wien-podcast-a-ed629e26-5f98-49e8-b54a-20b81e77a24a#ref=rss)
+* [https://www.spiegel.de/panorama/afghanistan-erneut-erschuettert-starkes-erdbeben-region-herat](https://www.spiegel.de/panorama/afghanistan-erneut-erschuettert-starkes-erdbeben-region-herat-a-05d0582c-3c45-487e-9ee1-4d50a315d03f#ref=rss)
+### bundestrainer
 
-* [https://www.spiegel.de/sport/olympia/thomas-bach-laesst-olympische-spiele-fuer-e-sport-pruefen](https://www.spiegel.de/sport/olympia/thomas-bach-laesst-olympische-spiele-fuer-e-sport-pruefen-a-5a01a114-3b44-4e08-b019-1b0a3a1b1220#ref=rss)
-### prüfen
+* [https://www.spiegel.de/sport/fussball/dfb-auftritt-unter-julian-nagelsmann-wird-jetzt-wieder-alles-gut](https://www.spiegel.de/sport/fussball/dfb-auftritt-unter-julian-nagelsmann-wird-jetzt-wieder-alles-gut-a-ac03c08b-b8ce-47e3-b011-91d1563adf4a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/julian-nagelsmann-traegt-als-bundestrainer-holzfaeller-hemd-thomas-mueller-findet-s-gut](https://www.spiegel.de/sport/fussball/julian-nagelsmann-traegt-als-bundestrainer-holzfaeller-hemd-thomas-mueller-findet-s-gut-a-58b774c2-34ee-4c19-9120-3b1946746029#ref=rss)
+### junger
 
-* [https://www.spiegel.de/sport/olympia/thomas-bach-laesst-olympische-spiele-fuer-e-sport-pruefen](https://www.spiegel.de/sport/olympia/thomas-bach-laesst-olympische-spiele-fuer-e-sport-pruefen-a-5a01a114-3b44-4e08-b019-1b0a3a1b1220#ref=rss)
-### idee
+* [https://www.spiegel.de/panorama/schwaighofen-20-jaehriger-guckt-aufs-handy-und-wird-von-zug-ueberfahren](https://www.spiegel.de/panorama/schwaighofen-20-jaehriger-guckt-aufs-handy-und-wird-von-zug-ueberfahren-a-7b6d51b4-593a-4bc5-87db-ff951ee897ef#ref=rss)
+* [https://www.spiegel.de/start/millennial-therapist-sara-kuburic-ueber-selbstdiagnosen-und-die-grosse-verantwortung-junger-leute](https://www.spiegel.de/start/millennial-therapist-sara-kuburic-ueber-selbstdiagnosen-und-die-grosse-verantwortung-junger-leute-a-57576c07-fa39-4f6c-ad5b-e8f2711e867e#ref=rss)
+### außenminister
 
-* [https://www.spiegel.de/sport/olympia/thomas-bach-laesst-olympische-spiele-fuer-e-sport-pruefen](https://www.spiegel.de/sport/olympia/thomas-bach-laesst-olympische-spiele-fuer-e-sport-pruefen-a-5a01a114-3b44-4e08-b019-1b0a3a1b1220#ref=rss)
-* [https://www.spiegel.de/partnerschaft/sex-im-alter-werden-wir-jetzt-wieder-sex-haben-wo-die-kinder-aus-dem-haus-sind](https://www.spiegel.de/partnerschaft/sex-im-alter-werden-wir-jetzt-wieder-sex-haben-wo-die-kinder-aus-dem-haus-sind-a-94b68678-876c-48dd-9e29-ae606319f1e9#ref=rss)
-### wohl
+* [https://www.spiegel.de/ausland/katar-iranischer-aussenminister-trifft-hamas-chef-weitere-zusammenarbeit-angekuendigt](https://www.spiegel.de/ausland/katar-iranischer-aussenminister-trifft-hamas-chef-weitere-zusammenarbeit-angekuendigt-a-be01bd91-100e-41bc-a84d-c59e1807c7a1#ref=rss)
+### zusammenarbeit
 
-* [https://www.spiegel.de/sport/olympia/thomas-bach-laesst-olympische-spiele-fuer-e-sport-pruefen](https://www.spiegel.de/sport/olympia/thomas-bach-laesst-olympische-spiele-fuer-e-sport-pruefen-a-5a01a114-3b44-4e08-b019-1b0a3a1b1220#ref=rss)
-* [https://www.spiegel.de/ausland/tausende-palaestinenser-fliehen-aus-dem-norden-des-gazastreifens](https://www.spiegel.de/ausland/tausende-palaestinenser-fliehen-aus-dem-norden-des-gazastreifens-a-71308c1b-445f-427e-a654-d9068a78b26e#ref=rss)
-### sommerspiele
+* [https://www.spiegel.de/ausland/katar-iranischer-aussenminister-trifft-hamas-chef-weitere-zusammenarbeit-angekuendigt](https://www.spiegel.de/ausland/katar-iranischer-aussenminister-trifft-hamas-chef-weitere-zusammenarbeit-angekuendigt-a-be01bd91-100e-41bc-a84d-c59e1807c7a1#ref=rss)
+### terrororganisation
 
-* [https://www.spiegel.de/sport/olympia/olympia-indien-kuendigt-bewerbung-fuer-sommerspiele-2036-an](https://www.spiegel.de/sport/olympia/olympia-indien-kuendigt-bewerbung-fuer-sommerspiele-2036-an-a-cb36c32b-6910-4db5-90c6-1b2774ec651f#ref=rss)
-### 2036
+* [https://www.spiegel.de/ausland/katar-iranischer-aussenminister-trifft-hamas-chef-weitere-zusammenarbeit-angekuendigt](https://www.spiegel.de/ausland/katar-iranischer-aussenminister-trifft-hamas-chef-weitere-zusammenarbeit-angekuendigt-a-be01bd91-100e-41bc-a84d-c59e1807c7a1#ref=rss)
+* [https://www.spiegel.de/ausland/hamas-in-oesterreich-reichen-die-terror-strukturen-bis-nach-wien-podcast](https://www.spiegel.de/ausland/hamas-in-oesterreich-reichen-die-terror-strukturen-bis-nach-wien-podcast-a-ed629e26-5f98-49e8-b54a-20b81e77a24a#ref=rss)
+### bas
 
-* [https://www.spiegel.de/sport/olympia/olympia-indien-kuendigt-bewerbung-fuer-sommerspiele-2036-an](https://www.spiegel.de/sport/olympia/olympia-indien-kuendigt-bewerbung-fuer-sommerspiele-2036-an-a-cb36c32b-6910-4db5-90c6-1b2774ec651f#ref=rss)
-### bevölkerung
+* [https://www.spiegel.de/panorama/bundestagspraesidentin-bas-sieht-parlament-durch-demokratiefeinde-bedroht](https://www.spiegel.de/panorama/bundestagspraesidentin-bas-sieht-parlament-durch-demokratiefeinde-bedroht-a-50a2e149-5cc4-469f-9276-38a5aad1f2b4#ref=rss)
+### sieht
 
-* [https://www.spiegel.de/sport/olympia/olympia-indien-kuendigt-bewerbung-fuer-sommerspiele-2036-an](https://www.spiegel.de/sport/olympia/olympia-indien-kuendigt-bewerbung-fuer-sommerspiele-2036-an-a-cb36c32b-6910-4db5-90c6-1b2774ec651f#ref=rss)
-* [https://www.spiegel.de/ausland/referendum-australien-sagt-nein-zu-mehr-mitsprache-fuer-ureinwohner](https://www.spiegel.de/ausland/referendum-australien-sagt-nein-zu-mehr-mitsprache-fuer-ureinwohner-a-47df14db-4b6f-42d0-a10d-a8b09d3a8763#ref=rss)
-### cricketwm
+* [https://www.spiegel.de/panorama/bundestagspraesidentin-bas-sieht-parlament-durch-demokratiefeinde-bedroht](https://www.spiegel.de/panorama/bundestagspraesidentin-bas-sieht-parlament-durch-demokratiefeinde-bedroht-a-50a2e149-5cc4-469f-9276-38a5aad1f2b4#ref=rss)
+* [https://www.spiegel.de/sport/olympia/ioc-mehrere-mitglieder-bitten-thomas-bach-seine-amtszeit-ueber-2025-hinaus-zu-verlaengern](https://www.spiegel.de/sport/olympia/ioc-mehrere-mitglieder-bitten-thomas-bach-seine-amtszeit-ueber-2025-hinaus-zu-verlaengern-a-a2779134-d04b-4ac5-b26e-15498a4630e9#ref=rss)
+### afghanen
 
-* [https://www.spiegel.de/sport/cricket-wm-indien-besiegt-erzrivalen-pakistan-bei-heim-wm-vor-120-000-zuschauern](https://www.spiegel.de/sport/cricket-wm-indien-besiegt-erzrivalen-pakistan-bei-heim-wm-vor-120-000-zuschauern-a-a72f2b3c-5204-40b0-8329-0de9488da3e9#ref=rss)
-### pakistan
+* [https://www.spiegel.de/politik/deutschland/bundesaufnahmeprogramm-bietet-nur-13-bedrohten-afghanen-schutz](https://www.spiegel.de/politik/deutschland/bundesaufnahmeprogramm-bietet-nur-13-bedrohten-afghanen-schutz-a-d635948d-26e0-4ddd-aa6e-81c4f0bf2d6d#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/sport/cricket-wm-indien-besiegt-erzrivalen-pakistan-bei-heim-wm-vor-120-000-zuschauern](https://www.spiegel.de/sport/cricket-wm-indien-besiegt-erzrivalen-pakistan-bei-heim-wm-vor-120-000-zuschauern-a-a72f2b3c-5204-40b0-8329-0de9488da3e9#ref=rss)
-### 120000
+* [https://www.spiegel.de/politik/deutschland/bundesaufnahmeprogramm-bietet-nur-13-bedrohten-afghanen-schutz](https://www.spiegel.de/politik/deutschland/bundesaufnahmeprogramm-bietet-nur-13-bedrohten-afghanen-schutz-a-d635948d-26e0-4ddd-aa6e-81c4f0bf2d6d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/christbaeume-duerften-in-diesem-jahr-teurer-werden-duerre-als-problem-fuer-produzenten](https://www.spiegel.de/wirtschaft/service/christbaeume-duerften-in-diesem-jahr-teurer-werden-duerre-als-problem-fuer-produzenten-a-406b17f7-1de5-4b40-bab0-3756648c0c2a#ref=rss)
+### 1000
 
-* [https://www.spiegel.de/sport/cricket-wm-indien-besiegt-erzrivalen-pakistan-bei-heim-wm-vor-120-000-zuschauern](https://www.spiegel.de/sport/cricket-wm-indien-besiegt-erzrivalen-pakistan-bei-heim-wm-vor-120-000-zuschauern-a-a72f2b3c-5204-40b0-8329-0de9488da3e9#ref=rss)
-### hunderte
+* [https://www.spiegel.de/politik/deutschland/bundesaufnahmeprogramm-bietet-nur-13-bedrohten-afghanen-schutz](https://www.spiegel.de/politik/deutschland/bundesaufnahmeprogramm-bietet-nur-13-bedrohten-afghanen-schutz-a-d635948d-26e0-4ddd-aa6e-81c4f0bf2d6d#ref=rss)
+* [https://www.spiegel.de/karriere/tausendmal-addiert-raetsel-der-woche](https://www.spiegel.de/karriere/tausendmal-addiert-raetsel-der-woche-a-5bb7903c-18c2-47fe-b8a3-08529900667c#ref=rss)
+### straßenverkehr
 
-* [https://www.spiegel.de/sport/cricket-wm-indien-besiegt-erzrivalen-pakistan-bei-heim-wm-vor-120-000-zuschauern](https://www.spiegel.de/sport/cricket-wm-indien-besiegt-erzrivalen-pakistan-bei-heim-wm-vor-120-000-zuschauern-a-a72f2b3c-5204-40b0-8329-0de9488da3e9#ref=rss)
-* [https://www.spiegel.de/ausland/hamas-ueberfall-auf-israel-so-haben-die-terroristen-die-grenzanlage-ueberwunden](https://www.spiegel.de/ausland/hamas-ueberfall-auf-israel-so-haben-die-terroristen-die-grenzanlage-ueberwunden-a-7be1d502-46d4-4447-a58e-98376790605c#ref=rss)
-### israels
+* [https://www.spiegel.de/panorama/leipzig-schaeumende-springbrunnen-beeintraechtigen-strassenverkehr](https://www.spiegel.de/panorama/leipzig-schaeumende-springbrunnen-beeintraechtigen-strassenverkehr-a-2b64fdf0-057c-4b63-be5b-7acf94aaebd1#ref=rss)
+### hatten
 
-* [https://www.spiegel.de/ausland/israels-regierungsgegner-nach-dem-hamas-angriff-die-solidaritaet-ist-jetzt-unsere-einzige-hoffnung](https://www.spiegel.de/ausland/israels-regierungsgegner-nach-dem-hamas-angriff-die-solidaritaet-ist-jetzt-unsere-einzige-hoffnung-a-fc878758-7b2b-4748-939a-0278d02399f2#ref=rss)
-### regierung
+* [https://www.spiegel.de/panorama/leipzig-schaeumende-springbrunnen-beeintraechtigen-strassenverkehr](https://www.spiegel.de/panorama/leipzig-schaeumende-springbrunnen-beeintraechtigen-strassenverkehr-a-2b64fdf0-057c-4b63-be5b-7acf94aaebd1#ref=rss)
+* [https://www.spiegel.de/panorama/gelterswoog-problemhecht-beisst-freizeitsportler-wollen-ihn-nun-loswerden](https://www.spiegel.de/panorama/gelterswoog-problemhecht-beisst-freizeitsportler-wollen-ihn-nun-loswerden-a-9f1bb91c-91bd-4afb-81b5-3efd063c324a#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/ausland/israels-regierungsgegner-nach-dem-hamas-angriff-die-solidaritaet-ist-jetzt-unsere-einzige-hoffnung](https://www.spiegel.de/ausland/israels-regierungsgegner-nach-dem-hamas-angriff-die-solidaritaet-ist-jetzt-unsere-einzige-hoffnung-a-fc878758-7b2b-4748-939a-0278d02399f2#ref=rss)
-* [https://www.spiegel.de/ausland/polen-regierung-hetzt-gegen-migranten-und-laesst-heimlich-arbeitskraefte-ins-land](https://www.spiegel.de/ausland/polen-regierung-hetzt-gegen-migranten-und-laesst-heimlich-arbeitskraefte-ins-land-a-ea4474c5-da1f-4262-82df-f8bec92b8a2d#ref=rss)
-### laut
+* [https://www.spiegel.de/panorama/leipzig-schaeumende-springbrunnen-beeintraechtigen-strassenverkehr](https://www.spiegel.de/panorama/leipzig-schaeumende-springbrunnen-beeintraechtigen-strassenverkehr-a-2b64fdf0-057c-4b63-be5b-7acf94aaebd1#ref=rss)
+* [https://www.spiegel.de/panorama/a94-toedlicher-unfall-in-bayern-haftbefehl-wegen-mordes-gegen-mutmasslichen-schleuser](https://www.spiegel.de/panorama/a94-toedlicher-unfall-in-bayern-haftbefehl-wegen-mordes-gegen-mutmasslichen-schleuser-a-903fe062-d4af-4f32-b495-5a5e9deb090f#ref=rss)
+### diesem
 
-* [https://www.spiegel.de/ausland/aus-israel-nach-gaza-verschleppt-acht-deutsche-unter-den-hamas-geiseln](https://www.spiegel.de/ausland/aus-israel-nach-gaza-verschleppt-acht-deutsche-unter-den-hamas-geiseln-a-6c9385bc-5490-4f8f-8c4d-2c2ff5a54cf7#ref=rss)
-### geiseln
+* [https://www.spiegel.de/wirtschaft/service/christbaeume-duerften-in-diesem-jahr-teurer-werden-duerre-als-problem-fuer-produzenten](https://www.spiegel.de/wirtschaft/service/christbaeume-duerften-in-diesem-jahr-teurer-werden-duerre-als-problem-fuer-produzenten-a-406b17f7-1de5-4b40-bab0-3756648c0c2a#ref=rss)
+* [https://www.spiegel.de/panorama/gelterswoog-problemhecht-beisst-freizeitsportler-wollen-ihn-nun-loswerden](https://www.spiegel.de/panorama/gelterswoog-problemhecht-beisst-freizeitsportler-wollen-ihn-nun-loswerden-a-9f1bb91c-91bd-4afb-81b5-3efd063c324a#ref=rss)
+### gehen
 
-* [https://www.spiegel.de/ausland/aus-israel-nach-gaza-verschleppt-acht-deutsche-unter-den-hamas-geiseln](https://www.spiegel.de/ausland/aus-israel-nach-gaza-verschleppt-acht-deutsche-unter-den-hamas-geiseln-a-6c9385bc-5490-4f8f-8c4d-2c2ff5a54cf7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/christbaeume-duerften-in-diesem-jahr-teurer-werden-duerre-als-problem-fuer-produzenten](https://www.spiegel.de/wirtschaft/service/christbaeume-duerften-in-diesem-jahr-teurer-werden-duerre-als-problem-fuer-produzenten-a-406b17f7-1de5-4b40-bab0-3756648c0c2a#ref=rss)
+* [https://www.spiegel.de/ausland/hamas-in-oesterreich-reichen-die-terror-strukturen-bis-nach-wien-podcast](https://www.spiegel.de/ausland/hamas-in-oesterreich-reichen-die-terror-strukturen-bis-nach-wien-podcast-a-ed629e26-5f98-49e8-b54a-20b81e77a24a#ref=rss)
+### macht
+
+* [https://www.spiegel.de/wirtschaft/service/christbaeume-duerften-in-diesem-jahr-teurer-werden-duerre-als-problem-fuer-produzenten](https://www.spiegel.de/wirtschaft/service/christbaeume-duerften-in-diesem-jahr-teurer-werden-duerre-als-problem-fuer-produzenten-a-406b17f7-1de5-4b40-bab0-3756648c0c2a#ref=rss)
+* [https://www.spiegel.de/ausland/israel-armee-zeigt-sich-bereit-mit-noch-mehr-macht-zurueckzuschlagen](https://www.spiegel.de/ausland/israel-armee-zeigt-sich-bereit-mit-noch-mehr-macht-zurueckzuschlagen-a-66785f97-f7aa-4b75-b968-f6460d16c0f5#ref=rss)
+### tot
+
+* [https://www.spiegel.de/panorama/oberbayern-mann-nach-badeunfall-tot-aus-see-geborgen](https://www.spiegel.de/panorama/oberbayern-mann-nach-badeunfall-tot-aus-see-geborgen-a-03f1a189-2a18-41a7-912f-7e10646afdf0#ref=rss)
+### see
+
+* [https://www.spiegel.de/panorama/oberbayern-mann-nach-badeunfall-tot-aus-see-geborgen](https://www.spiegel.de/panorama/oberbayern-mann-nach-badeunfall-tot-aus-see-geborgen-a-03f1a189-2a18-41a7-912f-7e10646afdf0#ref=rss)
+* [https://www.spiegel.de/panorama/gelterswoog-problemhecht-beisst-freizeitsportler-wollen-ihn-nun-loswerden](https://www.spiegel.de/panorama/gelterswoog-problemhecht-beisst-freizeitsportler-wollen-ihn-nun-loswerden-a-9f1bb91c-91bd-4afb-81b5-3efd063c324a#ref=rss)
+### anderen
+
+* [https://www.spiegel.de/panorama/oberbayern-mann-nach-badeunfall-tot-aus-see-geborgen](https://www.spiegel.de/panorama/oberbayern-mann-nach-badeunfall-tot-aus-see-geborgen-a-03f1a189-2a18-41a7-912f-7e10646afdf0#ref=rss)
+* [https://www.spiegel.de/wissenschaft/kamerun-rose-gana-fomban-leke-erhaelt-virchow-preis-weil-sie-fuer-ein-gesuenderes-afrika-kaempft](https://www.spiegel.de/wissenschaft/kamerun-rose-gana-fomban-leke-erhaelt-virchow-preis-weil-sie-fuer-ein-gesuenderes-afrika-kaempft-a-e6093557-c257-4821-9c5a-a5e84614f5d7#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-russland-baut-sich-neue-bahnstrecke-nach-mariupol](https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-russland-baut-sich-neue-bahnstrecke-nach-mariupol-a-11b51a09-d1ec-424d-94f5-b918350a0093#ref=rss)
+* [https://www.spiegel.de/ausland/hamas-angriff-auf-festival-in-israel-sie-suchen-nach-ueberlebenden-und-wollen-krieg](https://www.spiegel.de/ausland/hamas-angriff-auf-festival-in-israel-sie-suchen-nach-ueberlebenden-und-wollen-krieg-a-a93dba9c-1018-4840-bfab-7864be7332dc#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-russland-baut-sich-neue-bahnstrecke-nach-mariupol](https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-russland-baut-sich-neue-bahnstrecke-nach-mariupol-a-11b51a09-d1ec-424d-94f5-b918350a0093#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-russland-baut-sich-neue-bahnstrecke-nach-mariupol](https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-russland-baut-sich-neue-bahnstrecke-nach-mariupol-a-11b51a09-d1ec-424d-94f5-b918350a0093#ref=rss)
+* [https://www.spiegel.de/politik/afd-wahlerfolge-die-politik-braucht-einen-neuen-realitaetssinn-kolumne](https://www.spiegel.de/politik/afd-wahlerfolge-die-politik-braucht-einen-neuen-realitaetssinn-kolumne-a-1707dbdc-9a19-4715-ac49-b64bac02bb76#ref=rss)
+### laura
+
+* [https://www.spiegel.de/sport/ironman-triathletin-laura-philipp-kollabiert-nach-drittem-platz](https://www.spiegel.de/sport/ironman-triathletin-laura-philipp-kollabiert-nach-drittem-platz-a-3192c350-f41a-42c3-be2e-a1246539de54#ref=rss)
+### philipp
+
+* [https://www.spiegel.de/sport/ironman-triathletin-laura-philipp-kollabiert-nach-drittem-platz](https://www.spiegel.de/sport/ironman-triathletin-laura-philipp-kollabiert-nach-drittem-platz-a-3192c350-f41a-42c3-be2e-a1246539de54#ref=rss)
+### platz
+
+* [https://www.spiegel.de/sport/ironman-triathletin-laura-philipp-kollabiert-nach-drittem-platz](https://www.spiegel.de/sport/ironman-triathletin-laura-philipp-kollabiert-nach-drittem-platz-a-3192c350-f41a-42c3-be2e-a1246539de54#ref=rss)
+### alles
+
+* [https://www.spiegel.de/sport/ironman-triathletin-laura-philipp-kollabiert-nach-drittem-platz](https://www.spiegel.de/sport/ironman-triathletin-laura-philipp-kollabiert-nach-drittem-platz-a-3192c350-f41a-42c3-be2e-a1246539de54#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-auftritt-unter-julian-nagelsmann-wird-jetzt-wieder-alles-gut](https://www.spiegel.de/sport/fussball/dfb-auftritt-unter-julian-nagelsmann-wird-jetzt-wieder-alles-gut-a-ac03c08b-b8ce-47e3-b011-91d1563adf4a#ref=rss)
+### bald
+
+* [https://www.spiegel.de/sport/ironman-triathletin-laura-philipp-kollabiert-nach-drittem-platz](https://www.spiegel.de/sport/ironman-triathletin-laura-philipp-kollabiert-nach-drittem-platz-a-3192c350-f41a-42c3-be2e-a1246539de54#ref=rss)
+* [https://www.spiegel.de/ausland/hamas-angriff-auf-festival-in-israel-sie-suchen-nach-ueberlebenden-und-wollen-krieg](https://www.spiegel.de/ausland/hamas-angriff-auf-festival-in-israel-sie-suchen-nach-ueberlebenden-und-wollen-krieg-a-a93dba9c-1018-4840-bfab-7864be7332dc#ref=rss)
+### rose
+
+* [https://www.spiegel.de/wissenschaft/kamerun-rose-gana-fomban-leke-erhaelt-virchow-preis-weil-sie-fuer-ein-gesuenderes-afrika-kaempft](https://www.spiegel.de/wissenschaft/kamerun-rose-gana-fomban-leke-erhaelt-virchow-preis-weil-sie-fuer-ein-gesuenderes-afrika-kaempft-a-e6093557-c257-4821-9c5a-a5e84614f5d7#ref=rss)
+### gana
+
+* [https://www.spiegel.de/wissenschaft/kamerun-rose-gana-fomban-leke-erhaelt-virchow-preis-weil-sie-fuer-ein-gesuenderes-afrika-kaempft](https://www.spiegel.de/wissenschaft/kamerun-rose-gana-fomban-leke-erhaelt-virchow-preis-weil-sie-fuer-ein-gesuenderes-afrika-kaempft-a-e6093557-c257-4821-9c5a-a5e84614f5d7#ref=rss)
+### fomban
+
+* [https://www.spiegel.de/wissenschaft/kamerun-rose-gana-fomban-leke-erhaelt-virchow-preis-weil-sie-fuer-ein-gesuenderes-afrika-kaempft](https://www.spiegel.de/wissenschaft/kamerun-rose-gana-fomban-leke-erhaelt-virchow-preis-weil-sie-fuer-ein-gesuenderes-afrika-kaempft-a-e6093557-c257-4821-9c5a-a5e84614f5d7#ref=rss)
+### leke
+
+* [https://www.spiegel.de/wissenschaft/kamerun-rose-gana-fomban-leke-erhaelt-virchow-preis-weil-sie-fuer-ein-gesuenderes-afrika-kaempft](https://www.spiegel.de/wissenschaft/kamerun-rose-gana-fomban-leke-erhaelt-virchow-preis-weil-sie-fuer-ein-gesuenderes-afrika-kaempft-a-e6093557-c257-4821-9c5a-a5e84614f5d7#ref=rss)
+### grund
+
+* [https://www.spiegel.de/wissenschaft/kamerun-rose-gana-fomban-leke-erhaelt-virchow-preis-weil-sie-fuer-ein-gesuenderes-afrika-kaempft](https://www.spiegel.de/wissenschaft/kamerun-rose-gana-fomban-leke-erhaelt-virchow-preis-weil-sie-fuer-ein-gesuenderes-afrika-kaempft-a-e6093557-c257-4821-9c5a-a5e84614f5d7#ref=rss)
+* [https://www.spiegel.de/panorama/oesterreich-erlegte-ein-dutzend-woelfe-abschuss-huerden-gesenkt](https://www.spiegel.de/panorama/oesterreich-erlegte-ein-dutzend-woelfe-abschuss-huerden-gesenkt-a-3bed7b02-4072-48a8-83d8-5dd77fc5087d#ref=rss)
+### gebiete
+
+* [https://www.spiegel.de/ausland/israel-und-palaestinensische-gebiete-auswaertiges-amt-spricht-reisewarnung-aus](https://www.spiegel.de/ausland/israel-und-palaestinensische-gebiete-auswaertiges-amt-spricht-reisewarnung-aus-a-d15970b0-bca7-4ef5-b4b2-1081580470e7#ref=rss)
+### amt
+
+* [https://www.spiegel.de/ausland/israel-und-palaestinensische-gebiete-auswaertiges-amt-spricht-reisewarnung-aus](https://www.spiegel.de/ausland/israel-und-palaestinensische-gebiete-auswaertiges-amt-spricht-reisewarnung-aus-a-d15970b0-bca7-4ef5-b4b2-1081580470e7#ref=rss)
+### warnt
+
+* [https://www.spiegel.de/ausland/israel-und-palaestinensische-gebiete-auswaertiges-amt-spricht-reisewarnung-aus](https://www.spiegel.de/ausland/israel-und-palaestinensische-gebiete-auswaertiges-amt-spricht-reisewarnung-aus-a-d15970b0-bca7-4ef5-b4b2-1081580470e7#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-mahnt-dass-die-terrorbekaempfung-nirgends-ins-wanken-geraet](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-mahnt-dass-die-terrorbekaempfung-nirgends-ins-wanken-geraet-a-1a5b54df-d792-4f2e-91d0-fd5d4d95ab5c#ref=rss)
+### fahrer
+
+* [https://www.spiegel.de/panorama/ruegen-mann-faehrt-mit-ferrari-gegen-baum-200-000-euro-schaden](https://www.spiegel.de/panorama/ruegen-mann-faehrt-mit-ferrari-gegen-baum-200-000-euro-schaden-a-2344c30f-7f46-4d35-bdc7-d5764c5c40ea#ref=rss)
+* [https://www.spiegel.de/panorama/a94-toedlicher-unfall-in-bayern-haftbefehl-wegen-mordes-gegen-mutmasslichen-schleuser](https://www.spiegel.de/panorama/a94-toedlicher-unfall-in-bayern-haftbefehl-wegen-mordes-gegen-mutmasslichen-schleuser-a-903fe062-d4af-4f32-b495-5a5e9deb090f#ref=rss)
+### verletzt
+
+* [https://www.spiegel.de/panorama/ruegen-mann-faehrt-mit-ferrari-gegen-baum-200-000-euro-schaden](https://www.spiegel.de/panorama/ruegen-mann-faehrt-mit-ferrari-gegen-baum-200-000-euro-schaden-a-2344c30f-7f46-4d35-bdc7-d5764c5c40ea#ref=rss)
+* [https://www.spiegel.de/panorama/gelterswoog-problemhecht-beisst-freizeitsportler-wollen-ihn-nun-loswerden](https://www.spiegel.de/panorama/gelterswoog-problemhecht-beisst-freizeitsportler-wollen-ihn-nun-loswerden-a-9f1bb91c-91bd-4afb-81b5-3efd063c324a#ref=rss)
+### straße
+
+* [https://www.spiegel.de/panorama/ruegen-mann-faehrt-mit-ferrari-gegen-baum-200-000-euro-schaden](https://www.spiegel.de/panorama/ruegen-mann-faehrt-mit-ferrari-gegen-baum-200-000-euro-schaden-a-2344c30f-7f46-4d35-bdc7-d5764c5c40ea#ref=rss)
+* [https://www.spiegel.de/ausland/hamas-in-oesterreich-reichen-die-terror-strukturen-bis-nach-wien-podcast](https://www.spiegel.de/ausland/hamas-in-oesterreich-reichen-die-terror-strukturen-bis-nach-wien-podcast-a-ed629e26-5f98-49e8-b54a-20b81e77a24a#ref=rss)
+### cartoons
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-plassmann-stuttmann-und-chappatte-bahn-frei-fuer-putin](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-plassmann-stuttmann-und-chappatte-bahn-frei-fuer-putin-a-0399b53e-a3d8-4a7b-bd8d-103dd13bb6af#ref=rss)
+### plaßmann
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-plassmann-stuttmann-und-chappatte-bahn-frei-fuer-putin](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-plassmann-stuttmann-und-chappatte-bahn-frei-fuer-putin-a-0399b53e-a3d8-4a7b-bd8d-103dd13bb6af#ref=rss)
+### stuttmann
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-plassmann-stuttmann-und-chappatte-bahn-frei-fuer-putin](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-plassmann-stuttmann-und-chappatte-bahn-frei-fuer-putin-a-0399b53e-a3d8-4a7b-bd8d-103dd13bb6af#ref=rss)
+### chappatte
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-plassmann-stuttmann-und-chappatte-bahn-frei-fuer-putin](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-plassmann-stuttmann-und-chappatte-bahn-frei-fuer-putin-a-0399b53e-a3d8-4a7b-bd8d-103dd13bb6af#ref=rss)
+### welt
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-plassmann-stuttmann-und-chappatte-bahn-frei-fuer-putin](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-plassmann-stuttmann-und-chappatte-bahn-frei-fuer-putin-a-0399b53e-a3d8-4a7b-bd8d-103dd13bb6af#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-mahnt-dass-die-terrorbekaempfung-nirgends-ins-wanken-geraet](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-mahnt-dass-die-terrorbekaempfung-nirgends-ins-wanken-geraet-a-1a5b54df-d792-4f2e-91d0-fd5d4d95ab5c#ref=rss)
+### starben
+
+* [https://www.spiegel.de/panorama/a94-toedlicher-unfall-in-bayern-haftbefehl-wegen-mordes-gegen-mutmasslichen-schleuser](https://www.spiegel.de/panorama/a94-toedlicher-unfall-in-bayern-haftbefehl-wegen-mordes-gegen-mutmasslichen-schleuser-a-903fe062-d4af-4f32-b495-5a5e9deb090f#ref=rss)
+* [https://www.spiegel.de/panorama/afghanistan-erneut-erschuettert-starkes-erdbeben-region-herat](https://www.spiegel.de/panorama/afghanistan-erneut-erschuettert-starkes-erdbeben-region-herat-a-05d0582c-3c45-487e-9ee1-4d50a315d03f#ref=rss)
+### jugendliche
+
+* [https://www.spiegel.de/panorama/justiz/gewalttaetige-jugendliche-den-kindern-fehlten-zeit-zaertlichkeit-und-zuneigung](https://www.spiegel.de/panorama/justiz/gewalttaetige-jugendliche-den-kindern-fehlten-zeit-zaertlichkeit-und-zuneigung-a-92508b30-af1c-433e-9920-c82cf3ad701a#ref=rss)
+### 40
+
+* [https://www.spiegel.de/panorama/justiz/gewalttaetige-jugendliche-den-kindern-fehlten-zeit-zaertlichkeit-und-zuneigung](https://www.spiegel.de/panorama/justiz/gewalttaetige-jugendliche-den-kindern-fehlten-zeit-zaertlichkeit-und-zuneigung-a-92508b30-af1c-433e-9920-c82cf3ad701a#ref=rss)
+* [https://www.spiegel.de/kultur/tournee-auftakt-von-madonna-in-london-das-ist-so-peinlich-das-war-nicht-geplant](https://www.spiegel.de/kultur/tournee-auftakt-von-madonna-in-london-das-ist-so-peinlich-das-war-nicht-geplant-a-09bd5766-4cc0-427d-b8b1-4d59dd2e73e7#ref=rss)
+### hilft
+
+* [https://www.spiegel.de/panorama/justiz/gewalttaetige-jugendliche-den-kindern-fehlten-zeit-zaertlichkeit-und-zuneigung](https://www.spiegel.de/panorama/justiz/gewalttaetige-jugendliche-den-kindern-fehlten-zeit-zaertlichkeit-und-zuneigung-a-92508b30-af1c-433e-9920-c82cf3ad701a#ref=rss)
+* [https://www.spiegel.de/start/millennial-therapist-sara-kuburic-ueber-selbstdiagnosen-und-die-grosse-verantwortung-junger-leute](https://www.spiegel.de/start/millennial-therapist-sara-kuburic-ueber-selbstdiagnosen-und-die-grosse-verantwortung-junger-leute-a-57576c07-fa39-4f6c-ad5b-e8f2711e867e#ref=rss)
+### hamasangriff
+
+* [https://www.spiegel.de/ausland/hamas-angriff-auf-festival-in-israel-sie-suchen-nach-ueberlebenden-und-wollen-krieg](https://www.spiegel.de/ausland/hamas-angriff-auf-festival-in-israel-sie-suchen-nach-ueberlebenden-und-wollen-krieg-a-a93dba9c-1018-4840-bfab-7864be7332dc#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-mahnt-dass-die-terrorbekaempfung-nirgends-ins-wanken-geraet](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-mahnt-dass-die-terrorbekaempfung-nirgends-ins-wanken-geraet-a-1a5b54df-d792-4f2e-91d0-fd5d4d95ab5c#ref=rss)
 ### alle
 
-* [https://www.spiegel.de/ausland/aus-israel-nach-gaza-verschleppt-acht-deutsche-unter-den-hamas-geiseln](https://www.spiegel.de/ausland/aus-israel-nach-gaza-verschleppt-acht-deutsche-unter-den-hamas-geiseln-a-6c9385bc-5490-4f8f-8c4d-2c2ff5a54cf7#ref=rss)
-* [https://www.spiegel.de/ausland/terrorwarnstufe-in-frankreich-pariser-louvre-wegen-bombendrohung-geraeumt](https://www.spiegel.de/ausland/terrorwarnstufe-in-frankreich-pariser-louvre-wegen-bombendrohung-geraeumt-a-eecfca5c-9ede-4fc6-ba9a-3de3548b53fc#ref=rss)
-### besucher
+* [https://www.spiegel.de/ausland/hamas-angriff-auf-festival-in-israel-sie-suchen-nach-ueberlebenden-und-wollen-krieg](https://www.spiegel.de/ausland/hamas-angriff-auf-festival-in-israel-sie-suchen-nach-ueberlebenden-und-wollen-krieg-a-a93dba9c-1018-4840-bfab-7864be7332dc#ref=rss)
+* [https://www.spiegel.de/karriere/tausendmal-addiert-raetsel-der-woche](https://www.spiegel.de/karriere/tausendmal-addiert-raetsel-der-woche-a-5bb7903c-18c2-47fe-b8a3-08529900667c#ref=rss)
+### kampf
 
-* [https://www.spiegel.de/ausland/frankreich-schloss-versailles-wegen-bombendrohung-evakuiert](https://www.spiegel.de/ausland/frankreich-schloss-versailles-wegen-bombendrohung-evakuiert-a-55631e95-d661-4476-8601-952115e9e502#ref=rss)
-* [https://www.spiegel.de/ausland/terrorwarnstufe-in-frankreich-pariser-louvre-wegen-bombendrohung-geraeumt](https://www.spiegel.de/ausland/terrorwarnstufe-in-frankreich-pariser-louvre-wegen-bombendrohung-geraeumt-a-eecfca5c-9ede-4fc6-ba9a-3de3548b53fc#ref=rss)
-### mussten
+* [https://www.spiegel.de/ausland/hamas-angriff-auf-festival-in-israel-sie-suchen-nach-ueberlebenden-und-wollen-krieg](https://www.spiegel.de/ausland/hamas-angriff-auf-festival-in-israel-sie-suchen-nach-ueberlebenden-und-wollen-krieg-a-a93dba9c-1018-4840-bfab-7864be7332dc#ref=rss)
+* [https://www.spiegel.de/ausland/israel-armee-zeigt-sich-bereit-mit-noch-mehr-macht-zurueckzuschlagen](https://www.spiegel.de/ausland/israel-armee-zeigt-sich-bereit-mit-noch-mehr-macht-zurueckzuschlagen-a-66785f97-f7aa-4b75-b968-f6460d16c0f5#ref=rss)
+### bach
 
-* [https://www.spiegel.de/ausland/frankreich-schloss-versailles-wegen-bombendrohung-evakuiert](https://www.spiegel.de/ausland/frankreich-schloss-versailles-wegen-bombendrohung-evakuiert-a-55631e95-d661-4476-8601-952115e9e502#ref=rss)
-* [https://www.spiegel.de/panorama/zwei-maedchen-nach-mutprobe-in-klinik](https://www.spiegel.de/panorama/zwei-maedchen-nach-mutprobe-in-klinik-a-07705acc-6c69-4258-bdc4-cd0987bdfee1#ref=rss)
-### pariser
+* [https://www.spiegel.de/sport/olympia/ioc-mehrere-mitglieder-bitten-thomas-bach-seine-amtszeit-ueber-2025-hinaus-zu-verlaengern](https://www.spiegel.de/sport/olympia/ioc-mehrere-mitglieder-bitten-thomas-bach-seine-amtszeit-ueber-2025-hinaus-zu-verlaengern-a-a2779134-d04b-4ac5-b26e-15498a4630e9#ref=rss)
+### amtszeit
 
-* [https://www.spiegel.de/ausland/frankreich-schloss-versailles-wegen-bombendrohung-evakuiert](https://www.spiegel.de/ausland/frankreich-schloss-versailles-wegen-bombendrohung-evakuiert-a-55631e95-d661-4476-8601-952115e9e502#ref=rss)
-* [https://www.spiegel.de/ausland/terrorwarnstufe-in-frankreich-pariser-louvre-wegen-bombendrohung-geraeumt](https://www.spiegel.de/ausland/terrorwarnstufe-in-frankreich-pariser-louvre-wegen-bombendrohung-geraeumt-a-eecfca5c-9ede-4fc6-ba9a-3de3548b53fc#ref=rss)
-### louvre
+* [https://www.spiegel.de/sport/olympia/ioc-mehrere-mitglieder-bitten-thomas-bach-seine-amtszeit-ueber-2025-hinaus-zu-verlaengern](https://www.spiegel.de/sport/olympia/ioc-mehrere-mitglieder-bitten-thomas-bach-seine-amtszeit-ueber-2025-hinaus-zu-verlaengern-a-a2779134-d04b-4ac5-b26e-15498a4630e9#ref=rss)
+### 2025
 
-* [https://www.spiegel.de/ausland/frankreich-schloss-versailles-wegen-bombendrohung-evakuiert](https://www.spiegel.de/ausland/frankreich-schloss-versailles-wegen-bombendrohung-evakuiert-a-55631e95-d661-4476-8601-952115e9e502#ref=rss)
-* [https://www.spiegel.de/ausland/terrorwarnstufe-in-frankreich-pariser-louvre-wegen-bombendrohung-geraeumt](https://www.spiegel.de/ausland/terrorwarnstufe-in-frankreich-pariser-louvre-wegen-bombendrohung-geraeumt-a-eecfca5c-9ede-4fc6-ba9a-3de3548b53fc#ref=rss)
-### osten
+* [https://www.spiegel.de/sport/olympia/ioc-mehrere-mitglieder-bitten-thomas-bach-seine-amtszeit-ueber-2025-hinaus-zu-verlaengern](https://www.spiegel.de/sport/olympia/ioc-mehrere-mitglieder-bitten-thomas-bach-seine-amtszeit-ueber-2025-hinaus-zu-verlaengern-a-a2779134-d04b-4ac5-b26e-15498a4630e9#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-mobilisiert-luftlandebrigade-fuer-evakuierungs-operation](https://www.spiegel.de/politik/deutschland/bundeswehr-mobilisiert-luftlandebrigade-fuer-evakuierungs-operation-a-095cbf8c-737b-40d6-9253-1b36f85b8905#ref=rss)
-* [https://www.spiegel.de/ausland/ukrainekrieg-london-sieht-russische-schwarzmeerflotte-in-der-defensive](https://www.spiegel.de/ausland/ukrainekrieg-london-sieht-russische-schwarzmeerflotte-in-der-defensive-a-b093b13c-0638-407a-96a0-5ade64c9ad9c#ref=rss)
-### christian
+* [https://www.spiegel.de/sport/olympia/ioc-mehrere-mitglieder-bitten-thomas-bach-seine-amtszeit-ueber-2025-hinaus-zu-verlaengern](https://www.spiegel.de/sport/olympia/ioc-mehrere-mitglieder-bitten-thomas-bach-seine-amtszeit-ueber-2025-hinaus-zu-verlaengern-a-a2779134-d04b-4ac5-b26e-15498a4630e9#ref=rss)
+* [https://www.spiegel.de/kultur/tournee-auftakt-von-madonna-in-london-das-ist-so-peinlich-das-war-nicht-geplant](https://www.spiegel.de/kultur/tournee-auftakt-von-madonna-in-london-das-ist-so-peinlich-das-war-nicht-geplant-a-09bd5766-4cc0-427d-b8b1-4d59dd2e73e7#ref=rss)
+### wäre
 
-* [https://www.spiegel.de/wirtschaft/christian-lindner-bietet-grossbritannien-engere-wirtschaftsbeziehung-an](https://www.spiegel.de/wirtschaft/christian-lindner-bietet-grossbritannien-engere-wirtschaftsbeziehung-an-a-56089562-f4a9-4919-92a8-4932f5b9f3cb#ref=rss)
-### lindner
+* [https://www.spiegel.de/sport/olympia/ioc-mehrere-mitglieder-bitten-thomas-bach-seine-amtszeit-ueber-2025-hinaus-zu-verlaengern](https://www.spiegel.de/sport/olympia/ioc-mehrere-mitglieder-bitten-thomas-bach-seine-amtszeit-ueber-2025-hinaus-zu-verlaengern-a-a2779134-d04b-4ac5-b26e-15498a4630e9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-auftritt-unter-julian-nagelsmann-wird-jetzt-wieder-alles-gut](https://www.spiegel.de/sport/fussball/dfb-auftritt-unter-julian-nagelsmann-wird-jetzt-wieder-alles-gut-a-ac03c08b-b8ce-47e3-b011-91d1563adf4a#ref=rss)
+### einige
 
-* [https://www.spiegel.de/wirtschaft/christian-lindner-bietet-grossbritannien-engere-wirtschaftsbeziehung-an](https://www.spiegel.de/wirtschaft/christian-lindner-bietet-grossbritannien-engere-wirtschaftsbeziehung-an-a-56089562-f4a9-4919-92a8-4932f5b9f3cb#ref=rss)
-### großbritannien
+* [https://www.spiegel.de/sport/olympia/ioc-mehrere-mitglieder-bitten-thomas-bach-seine-amtszeit-ueber-2025-hinaus-zu-verlaengern](https://www.spiegel.de/sport/olympia/ioc-mehrere-mitglieder-bitten-thomas-bach-seine-amtszeit-ueber-2025-hinaus-zu-verlaengern-a-a2779134-d04b-4ac5-b26e-15498a4630e9#ref=rss)
+* [https://www.spiegel.de/kultur/tournee-auftakt-von-madonna-in-london-das-ist-so-peinlich-das-war-nicht-geplant](https://www.spiegel.de/kultur/tournee-auftakt-von-madonna-in-london-das-ist-so-peinlich-das-war-nicht-geplant-a-09bd5766-4cc0-427d-b8b1-4d59dd2e73e7#ref=rss)
+### problemhecht
 
-* [https://www.spiegel.de/wirtschaft/christian-lindner-bietet-grossbritannien-engere-wirtschaftsbeziehung-an](https://www.spiegel.de/wirtschaft/christian-lindner-bietet-grossbritannien-engere-wirtschaftsbeziehung-an-a-56089562-f4a9-4919-92a8-4932f5b9f3cb#ref=rss)
-### pflügen
+* [https://www.spiegel.de/panorama/gelterswoog-problemhecht-beisst-freizeitsportler-wollen-ihn-nun-loswerden](https://www.spiegel.de/panorama/gelterswoog-problemhecht-beisst-freizeitsportler-wollen-ihn-nun-loswerden-a-9f1bb91c-91bd-4afb-81b5-3efd063c324a#ref=rss)
+### gut
 
-* [https://www.spiegel.de/panorama/weltmeisterschaft-im-pfluegen-in-lettland-jede-furche-muss-sitzen](https://www.spiegel.de/panorama/weltmeisterschaft-im-pfluegen-in-lettland-jede-furche-muss-sitzen-a-e9efa858-6601-4910-860d-3f8ffc5727f4#ref=rss)
-### lettland
+* [https://www.spiegel.de/sport/fussball/dfb-auftritt-unter-julian-nagelsmann-wird-jetzt-wieder-alles-gut](https://www.spiegel.de/sport/fussball/dfb-auftritt-unter-julian-nagelsmann-wird-jetzt-wieder-alles-gut-a-ac03c08b-b8ce-47e3-b011-91d1563adf4a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/julian-nagelsmann-traegt-als-bundestrainer-holzfaeller-hemd-thomas-mueller-findet-s-gut](https://www.spiegel.de/sport/fussball/julian-nagelsmann-traegt-als-bundestrainer-holzfaeller-hemd-thomas-mueller-findet-s-gut-a-58b774c2-34ee-4c19-9120-3b1946746029#ref=rss)
+### madonna
 
-* [https://www.spiegel.de/panorama/weltmeisterschaft-im-pfluegen-in-lettland-jede-furche-muss-sitzen](https://www.spiegel.de/panorama/weltmeisterschaft-im-pfluegen-in-lettland-jede-furche-muss-sitzen-a-e9efa858-6601-4910-860d-3f8ffc5727f4#ref=rss)
-### massaker
+* [https://www.spiegel.de/kultur/tournee-auftakt-von-madonna-in-london-das-ist-so-peinlich-das-war-nicht-geplant](https://www.spiegel.de/kultur/tournee-auftakt-von-madonna-in-london-das-ist-so-peinlich-das-war-nicht-geplant-a-09bd5766-4cc0-427d-b8b1-4d59dd2e73e7#ref=rss)
+### london
 
-* [https://www.spiegel.de/ausland/israel-meldet-toetung-von-fuer-massaker-verantwortlichem-hamas-kommandeur](https://www.spiegel.de/ausland/israel-meldet-toetung-von-fuer-massaker-verantwortlichem-hamas-kommandeur-a-735a0258-da38-46db-8a6e-016170656999#ref=rss)
-### palästinenser
+* [https://www.spiegel.de/kultur/tournee-auftakt-von-madonna-in-london-das-ist-so-peinlich-das-war-nicht-geplant](https://www.spiegel.de/kultur/tournee-auftakt-von-madonna-in-london-das-ist-so-peinlich-das-war-nicht-geplant-a-09bd5766-4cc0-427d-b8b1-4d59dd2e73e7#ref=rss)
+### leute
 
-* [https://www.spiegel.de/ausland/israel-flucht-aus-dem-gazastreifen](https://www.spiegel.de/ausland/israel-flucht-aus-dem-gazastreifen-a-e39e34e4-3612-464f-8e38-0bc56ef74574#ref=rss)
-* [https://www.spiegel.de/ausland/tausende-palaestinenser-fliehen-aus-dem-norden-des-gazastreifens](https://www.spiegel.de/ausland/tausende-palaestinenser-fliehen-aus-dem-norden-des-gazastreifens-a-71308c1b-445f-427e-a654-d9068a78b26e#ref=rss)
-### wesermarsch
+* [https://www.spiegel.de/politik/afd-wahlerfolge-die-politik-braucht-einen-neuen-realitaetssinn-kolumne](https://www.spiegel.de/politik/afd-wahlerfolge-die-politik-braucht-einen-neuen-realitaetssinn-kolumne-a-1707dbdc-9a19-4715-ac49-b64bac02bb76#ref=rss)
+* [https://www.spiegel.de/start/millennial-therapist-sara-kuburic-ueber-selbstdiagnosen-und-die-grosse-verantwortung-junger-leute](https://www.spiegel.de/start/millennial-therapist-sara-kuburic-ueber-selbstdiagnosen-und-die-grosse-verantwortung-junger-leute-a-57576c07-fa39-4f6c-ad5b-e8f2711e867e#ref=rss)
+### stärke
 
-* [https://www.spiegel.de/panorama/wesermarsch-familie-bei-spaziergang-in-den-salzwiesen-von-wasser-eingeschlossen](https://www.spiegel.de/panorama/wesermarsch-familie-bei-spaziergang-in-den-salzwiesen-von-wasser-eingeschlossen-a-91eba7e2-086e-4c4a-b52d-cc09f6ec440e#ref=rss)
-### familie
+* [https://www.spiegel.de/politik/afd-wahlerfolge-die-politik-braucht-einen-neuen-realitaetssinn-kolumne](https://www.spiegel.de/politik/afd-wahlerfolge-die-politik-braucht-einen-neuen-realitaetssinn-kolumne-a-1707dbdc-9a19-4715-ac49-b64bac02bb76#ref=rss)
+* [https://www.spiegel.de/panorama/afghanistan-erneut-erschuettert-starkes-erdbeben-region-herat](https://www.spiegel.de/panorama/afghanistan-erneut-erschuettert-starkes-erdbeben-region-herat-a-05d0582c-3c45-487e-9ee1-4d50a315d03f#ref=rss)
+### weg
 
-* [https://www.spiegel.de/panorama/wesermarsch-familie-bei-spaziergang-in-den-salzwiesen-von-wasser-eingeschlossen](https://www.spiegel.de/panorama/wesermarsch-familie-bei-spaziergang-in-den-salzwiesen-von-wasser-eingeschlossen-a-91eba7e2-086e-4c4a-b52d-cc09f6ec440e#ref=rss)
-### spaziergang
+* [https://www.spiegel.de/politik/afd-wahlerfolge-die-politik-braucht-einen-neuen-realitaetssinn-kolumne](https://www.spiegel.de/politik/afd-wahlerfolge-die-politik-braucht-einen-neuen-realitaetssinn-kolumne-a-1707dbdc-9a19-4715-ac49-b64bac02bb76#ref=rss)
+* [https://www.spiegel.de/karriere/tausendmal-addiert-raetsel-der-woche](https://www.spiegel.de/karriere/tausendmal-addiert-raetsel-der-woche-a-5bb7903c-18c2-47fe-b8a3-08529900667c#ref=rss)
+### sara
 
-* [https://www.spiegel.de/panorama/wesermarsch-familie-bei-spaziergang-in-den-salzwiesen-von-wasser-eingeschlossen](https://www.spiegel.de/panorama/wesermarsch-familie-bei-spaziergang-in-den-salzwiesen-von-wasser-eingeschlossen-a-91eba7e2-086e-4c4a-b52d-cc09f6ec440e#ref=rss)
-### alter
+* [https://www.spiegel.de/start/millennial-therapist-sara-kuburic-ueber-selbstdiagnosen-und-die-grosse-verantwortung-junger-leute](https://www.spiegel.de/start/millennial-therapist-sara-kuburic-ueber-selbstdiagnosen-und-die-grosse-verantwortung-junger-leute-a-57576c07-fa39-4f6c-ad5b-e8f2711e867e#ref=rss)
+### kuburic
 
-* [https://www.spiegel.de/partnerschaft/sex-im-alter-werden-wir-jetzt-wieder-sex-haben-wo-die-kinder-aus-dem-haus-sind](https://www.spiegel.de/partnerschaft/sex-im-alter-werden-wir-jetzt-wieder-sex-haben-wo-die-kinder-aus-dem-haus-sind-a-94b68678-876c-48dd-9e29-ae606319f1e9#ref=rss)
-### deutscher
+* [https://www.spiegel.de/start/millennial-therapist-sara-kuburic-ueber-selbstdiagnosen-und-die-grosse-verantwortung-junger-leute](https://www.spiegel.de/start/millennial-therapist-sara-kuburic-ueber-selbstdiagnosen-und-die-grosse-verantwortung-junger-leute-a-57576c07-fa39-4f6c-ad5b-e8f2711e867e#ref=rss)
+### region
 
-* [https://www.spiegel.de/panorama/kriminalitaetsstatistik-zahl-deutscher-staatsbuerger-unter-mutmasslichen-schleusern-steigt](https://www.spiegel.de/panorama/kriminalitaetsstatistik-zahl-deutscher-staatsbuerger-unter-mutmasslichen-schleusern-steigt-a-f5dc123c-9ffb-4daf-b677-76cc87ea1d17#ref=rss)
-* [https://www.spiegel.de/ausland/tausende-palaestinenser-fliehen-aus-dem-norden-des-gazastreifens](https://www.spiegel.de/ausland/tausende-palaestinenser-fliehen-aus-dem-norden-des-gazastreifens-a-71308c1b-445f-427e-a654-d9068a78b26e#ref=rss)
-### mutprobe
+* [https://www.spiegel.de/panorama/afghanistan-erneut-erschuettert-starkes-erdbeben-region-herat](https://www.spiegel.de/panorama/afghanistan-erneut-erschuettert-starkes-erdbeben-region-herat-a-05d0582c-3c45-487e-9ee1-4d50a315d03f#ref=rss)
+### selenskyj
 
-* [https://www.spiegel.de/panorama/zwei-maedchen-nach-mutprobe-in-klinik](https://www.spiegel.de/panorama/zwei-maedchen-nach-mutprobe-in-klinik-a-07705acc-6c69-4258-bdc4-cd0987bdfee1#ref=rss)
-### iran
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-mahnt-dass-die-terrorbekaempfung-nirgends-ins-wanken-geraet](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-mahnt-dass-die-terrorbekaempfung-nirgends-ins-wanken-geraet-a-1a5b54df-d792-4f2e-91d0-fd5d4d95ab5c#ref=rss)
+### holzfällerhemd
 
-* [https://www.spiegel.de/ausland/iran-bezeichnet-annaeherung-zwischen-israel-und-saudi-arabien-als-beendet](https://www.spiegel.de/ausland/iran-bezeichnet-annaeherung-zwischen-israel-und-saudi-arabien-als-beendet-a-2dc1d38e-09dc-4522-a699-2c553941f036#ref=rss)
-### saudiarabien
-
-* [https://www.spiegel.de/ausland/iran-bezeichnet-annaeherung-zwischen-israel-und-saudi-arabien-als-beendet](https://www.spiegel.de/ausland/iran-bezeichnet-annaeherung-zwischen-israel-und-saudi-arabien-als-beendet-a-2dc1d38e-09dc-4522-a699-2c553941f036#ref=rss)
-### terroristen
-
-* [https://www.spiegel.de/ausland/hamas-ueberfall-auf-israel-so-haben-die-terroristen-die-grenzanlage-ueberwunden](https://www.spiegel.de/ausland/hamas-ueberfall-auf-israel-so-haben-die-terroristen-die-grenzanlage-ueberwunden-a-7be1d502-46d4-4447-a58e-98376790605c#ref=rss)
-### grenzanlage
-
-* [https://www.spiegel.de/ausland/hamas-ueberfall-auf-israel-so-haben-die-terroristen-die-grenzanlage-ueberwunden](https://www.spiegel.de/ausland/hamas-ueberfall-auf-israel-so-haben-die-terroristen-die-grenzanlage-ueberwunden-a-7be1d502-46d4-4447-a58e-98376790605c#ref=rss)
-### referendum
-
-* [https://www.spiegel.de/ausland/referendum-australien-sagt-nein-zu-mehr-mitsprache-fuer-ureinwohner](https://www.spiegel.de/ausland/referendum-australien-sagt-nein-zu-mehr-mitsprache-fuer-ureinwohner-a-47df14db-4b6f-42d0-a10d-a8b09d3a8763#ref=rss)
+* [https://www.spiegel.de/sport/fussball/julian-nagelsmann-traegt-als-bundestrainer-holzfaeller-hemd-thomas-mueller-findet-s-gut](https://www.spiegel.de/sport/fussball/julian-nagelsmann-traegt-als-bundestrainer-holzfaeller-hemd-thomas-mueller-findet-s-gut-a-58b774c2-34ee-4c19-9120-3b1946746029#ref=rss)
 
