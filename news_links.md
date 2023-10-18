@@ -6,334 +6,301 @@ tags: __no_header__
 
 ### israel
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-der-konflikt-in-karten-und-grafiken](https://www.spiegel.de/ausland/israel-gaza-krieg-der-konflikt-in-karten-und-grafiken-a-3967f2d7-9923-47e1-9eed-a09c543d24bd#ref=rss)
-* [https://www.spiegel.de/ausland/scholz-in-israel-niemand-sollte-von-aussen-in-diesen-konflikt-eingreifen](https://www.spiegel.de/ausland/scholz-in-israel-niemand-sollte-von-aussen-in-diesen-konflikt-eingreifen-a-c10137fe-8335-4a0d-a109-1fc0b7b00efe#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-israel-und-gaza-wahl-in-polen-bernie-sanders](https://www.spiegel.de/politik/deutschland/news-des-tages-israel-und-gaza-wahl-in-polen-bernie-sanders-a-a968a175-bdeb-4d18-8c90-95f1674ce548#ref=rss)
-* [https://www.spiegel.de/politik/deutsche-neonazis-bejubeln-angriff-auf-israel](https://www.spiegel.de/politik/deutsche-neonazis-bejubeln-angriff-auf-israel-a-1693df00-574e-4534-9d16-e06d3eb2b6b0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-in-tel-aviv-israel-hat-das-recht-sich-gegen-diesen-terrorismus-zu-wehren](https://www.spiegel.de/politik/deutschland/olaf-scholz-in-tel-aviv-israel-hat-das-recht-sich-gegen-diesen-terrorismus-zu-wehren-a-eb21ec88-247c-40fe-b338-0c243944a710#ref=rss)
-* [https://www.spiegel.de/ausland/libanon-sie-sagen-es-sei-der-unsinnigste-absurdeste-krieg](https://www.spiegel.de/ausland/libanon-sie-sagen-es-sei-der-unsinnigste-absurdeste-krieg-a-b477124d-1722-42bb-b123-870dd49cf654#ref=rss)
-### scholz
+* [https://www.spiegel.de/netzwelt/web/israel-will-internetanbindung-per-starlink-absichern](https://www.spiegel.de/netzwelt/web/israel-will-internetanbindung-per-starlink-absichern-a-638e4b37-5741-4015-b791-b703cca5464a#ref=rss)
+* [https://www.spiegel.de/ausland/israel-veroeffentlich-video-und-macht-islamischen-dschihad-fuer-krankenhaus-explosion-verantwortlich](https://www.spiegel.de/ausland/israel-veroeffentlich-video-und-macht-islamischen-dschihad-fuer-krankenhaus-explosion-verantwortlich-a-a93e6562-7682-4793-b31c-8b69a7e2ebd4#ref=rss)
+* [https://www.spiegel.de/ausland/israel-joe-biden-zum-solidaritaetsbesuch-gelandet](https://www.spiegel.de/ausland/israel-joe-biden-zum-solidaritaetsbesuch-gelandet-a-295d0d8d-ed15-467f-8294-05002683e2a4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-unbekannte-verueben-brandanschlag-auf-juedische-gemeinde-in-brunnenstrasse](https://www.spiegel.de/politik/deutschland/berlin-unbekannte-verueben-brandanschlag-auf-juedische-gemeinde-in-brunnenstrasse-a-8d368153-6db2-41d6-a70e-684bcc21300b#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-slavoj-zizek-sorgt-mit-eroeffnungsrede-zu-israel-und-palaestina-fuer-tumult](https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-slavoj-zizek-sorgt-mit-eroeffnungsrede-zu-israel-und-palaestina-fuer-tumult-a-bf6091a5-0db8-4d41-a8c8-ff73d8e9af1c#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/ausland/scholz-in-israel-niemand-sollte-von-aussen-in-diesen-konflikt-eingreifen](https://www.spiegel.de/ausland/scholz-in-israel-niemand-sollte-von-aussen-in-diesen-konflikt-eingreifen-a-c10137fe-8335-4a0d-a109-1fc0b7b00efe#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-israel-und-gaza-wahl-in-polen-bernie-sanders](https://www.spiegel.de/politik/deutschland/news-des-tages-israel-und-gaza-wahl-in-polen-bernie-sanders-a-a968a175-bdeb-4d18-8c90-95f1674ce548#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-in-tel-aviv-israel-hat-das-recht-sich-gegen-diesen-terrorismus-zu-wehren](https://www.spiegel.de/politik/deutschland/olaf-scholz-in-tel-aviv-israel-hat-das-recht-sich-gegen-diesen-terrorismus-zu-wehren-a-eb21ec88-247c-40fe-b338-0c243944a710#ref=rss)
-### hamas
+* [https://www.spiegel.de/panorama/justiz/belgien-gericht-verurteilt-20-angehoerige-eines-schleuserrings-freiheitsstrafen-von-bis-zu-elf-jahren-verhaengt](https://www.spiegel.de/panorama/justiz/belgien-gericht-verurteilt-20-angehoerige-eines-schleuserrings-freiheitsstrafen-von-bis-zu-elf-jahren-verhaengt-a-d9782683-64e9-4729-af46-83405b494d27#ref=rss)
+* [https://www.spiegel.de/wirtschaft/stahl-streit-deutsche-stahlhersteller-fuerchten-nachteile-durch-abkommen-mit-usa](https://www.spiegel.de/wirtschaft/stahl-streit-deutsche-stahlhersteller-fuerchten-nachteile-durch-abkommen-mit-usa-a-e99c1083-4bda-4e4f-9461-522db99bfa5b#ref=rss)
+* [https://www.spiegel.de/ausland/neuseeland-21-jaehrige-hana-rawhiti-maipi-clarke-ist-die-juengste-abgeordnete-seit-170-jahren](https://www.spiegel.de/ausland/neuseeland-21-jaehrige-hana-rawhiti-maipi-clarke-ist-die-juengste-abgeordnete-seit-170-jahren-a-5b407ffe-fd2e-423b-9351-343f154d7d7d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/baugenehmigungen-zahl-stuerzt-auf-niedrigsten-stand-seit-zehn-jahren](https://www.spiegel.de/wirtschaft/service/baugenehmigungen-zahl-stuerzt-auf-niedrigsten-stand-seit-zehn-jahren-a-0f13332a-8124-44b2-a5e9-eb9b747fff29#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-der-konflikt-in-karten-und-grafiken](https://www.spiegel.de/ausland/israel-gaza-krieg-der-konflikt-in-karten-und-grafiken-a-3967f2d7-9923-47e1-9eed-a09c543d24bd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jusos-spd-jugendverband-beendet-zusammenarbeit-mit-fatah-jugend](https://www.spiegel.de/politik/deutschland/jusos-spd-jugendverband-beendet-zusammenarbeit-mit-fatah-jugend-a-c093895f-93cb-4bc9-9dec-c26272bda7bb#ref=rss)
-* [https://www.spiegel.de/ausland/libanon-sie-sagen-es-sei-der-unsinnigste-absurdeste-krieg](https://www.spiegel.de/ausland/libanon-sie-sagen-es-sei-der-unsinnigste-absurdeste-krieg-a-b477124d-1722-42bb-b123-870dd49cf654#ref=rss)
-### mehr
+* [https://www.spiegel.de/panorama/justiz/belgien-gericht-verurteilt-20-angehoerige-eines-schleuserrings-freiheitsstrafen-von-bis-zu-elf-jahren-verhaengt](https://www.spiegel.de/panorama/justiz/belgien-gericht-verurteilt-20-angehoerige-eines-schleuserrings-freiheitsstrafen-von-bis-zu-elf-jahren-verhaengt-a-d9782683-64e9-4729-af46-83405b494d27#ref=rss)
+* [https://www.spiegel.de/wirtschaft/aquakultur-warum-fast-nur-noch-auslaendischer-fisch-auf-deutschlands-teller-kommt](https://www.spiegel.de/wirtschaft/aquakultur-warum-fast-nur-noch-auslaendischer-fisch-auf-deutschlands-teller-kommt-a-885b8dcb-bee8-411c-b986-7af766f6f265#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/baugenehmigungen-zahl-stuerzt-auf-niedrigsten-stand-seit-zehn-jahren](https://www.spiegel.de/wirtschaft/service/baugenehmigungen-zahl-stuerzt-auf-niedrigsten-stand-seit-zehn-jahren-a-0f13332a-8124-44b2-a5e9-eb9b747fff29#ref=rss)
+* [https://www.spiegel.de/wissenschaft/marihuana-bundestag-beraet-erstmals-ueber-cannabis-legalisierung](https://www.spiegel.de/wissenschaft/marihuana-bundestag-beraet-erstmals-ueber-cannabis-legalisierung-a-cd2b1351-5360-4e38-be35-4a7508f3ece4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-unbekannte-verueben-brandanschlag-auf-juedische-gemeinde-in-brunnenstrasse](https://www.spiegel.de/politik/deutschland/berlin-unbekannte-verueben-brandanschlag-auf-juedische-gemeinde-in-brunnenstrasse-a-8d368153-6db2-41d6-a70e-684bcc21300b#ref=rss)
+### zahl
 
-* [https://www.spiegel.de/wirtschaft/aegypten-erhoeht-maut-fuer-suezkanal-deutlich](https://www.spiegel.de/wirtschaft/aegypten-erhoeht-maut-fuer-suezkanal-deutlich-a-613ed635-55b8-46b7-a07e-48e164057d90#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/der-jahrhundertcoup-die-remmos-und-das-gruene-gewoelbe-spiegel-tv](https://www.spiegel.de/panorama/justiz/der-jahrhundertcoup-die-remmos-und-das-gruene-gewoelbe-spiegel-tv-a-c177361c-1043-484d-8a2d-d5ed0566b0e0#ref=rss)
-* [https://www.spiegel.de/kultur/bbc-doku-planet-earth-iii-mit-david-attenborough-18-drehtage-in-der-hoehle-mit-500-kilo-equipment](https://www.spiegel.de/kultur/bbc-doku-planet-earth-iii-mit-david-attenborough-18-drehtage-in-der-hoehle-mit-500-kilo-equipment-a-d1857724-442d-4d43-9662-108827773f45#ref=rss)
-* [https://www.spiegel.de/panorama/sigmaringen-oldtimer-fliegt-30-meter-ueber-kreisverkehr](https://www.spiegel.de/panorama/sigmaringen-oldtimer-fliegt-30-meter-ueber-kreisverkehr-a-7e39758d-738a-45fb-a1a8-b8264b1ec3cb#ref=rss)
-### olaf
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-israel-und-gaza-wahl-in-polen-bernie-sanders](https://www.spiegel.de/politik/deutschland/news-des-tages-israel-und-gaza-wahl-in-polen-bernie-sanders-a-a968a175-bdeb-4d18-8c90-95f1674ce548#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-in-tel-aviv-israel-hat-das-recht-sich-gegen-diesen-terrorismus-zu-wehren](https://www.spiegel.de/politik/deutschland/olaf-scholz-in-tel-aviv-israel-hat-das-recht-sich-gegen-diesen-terrorismus-zu-wehren-a-eb21ec88-247c-40fe-b338-0c243944a710#ref=rss)
-### bernie
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-israel-und-gaza-wahl-in-polen-bernie-sanders](https://www.spiegel.de/politik/deutschland/news-des-tages-israel-und-gaza-wahl-in-polen-bernie-sanders-a-a968a175-bdeb-4d18-8c90-95f1674ce548#ref=rss)
-* [https://www.spiegel.de/kultur/bernie-sanders-auf-deutschlandreise-der-ueber-linke-gegen-den-ueber-kapitalismus](https://www.spiegel.de/kultur/bernie-sanders-auf-deutschlandreise-der-ueber-linke-gegen-den-ueber-kapitalismus-a-b2bb82f2-693f-4d4a-b1f9-d5bb1fd7b0db#ref=rss)
-### sanders
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-israel-und-gaza-wahl-in-polen-bernie-sanders](https://www.spiegel.de/politik/deutschland/news-des-tages-israel-und-gaza-wahl-in-polen-bernie-sanders-a-a968a175-bdeb-4d18-8c90-95f1674ce548#ref=rss)
-* [https://www.spiegel.de/kultur/bernie-sanders-auf-deutschlandreise-der-ueber-linke-gegen-den-ueber-kapitalismus](https://www.spiegel.de/kultur/bernie-sanders-auf-deutschlandreise-der-ueber-linke-gegen-den-ueber-kapitalismus-a-b2bb82f2-693f-4d4a-b1f9-d5bb1fd7b0db#ref=rss)
-### laut
-
-* [https://www.spiegel.de/wirtschaft/soziales/migration-grosse-mehrheit-will-schnellere-arbeitserlaubnis-fuer-gefluechtete](https://www.spiegel.de/wirtschaft/soziales/migration-grosse-mehrheit-will-schnellere-arbeitserlaubnis-fuer-gefluechtete-a-41e209d0-edb2-4288-bc80-19538a060c52#ref=rss)
-* [https://www.spiegel.de/panorama/guinessbuch-der-rekorde-katze-bella-holt-dezibel-rekord-fuer-schnurren-so-laut-wie-ein-wasserkocher](https://www.spiegel.de/panorama/guinessbuch-der-rekorde-katze-bella-holt-dezibel-rekord-fuer-schnurren-so-laut-wie-ein-wasserkocher-a-1566a880-401c-49d0-a980-b02565e5a22f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltraum-groesstes-marsbeben-wurde-laut-forschenden-durch-tektonische-kraefte-ausgeloest](https://www.spiegel.de/wissenschaft/weltraum-groesstes-marsbeben-wurde-laut-forschenden-durch-tektonische-kraefte-ausgeloest-a-f0677531-3792-4a49-aa9d-7d100701f8cc#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/wirtschaft/soziales/migration-grosse-mehrheit-will-schnellere-arbeitserlaubnis-fuer-gefluechtete](https://www.spiegel.de/wirtschaft/soziales/migration-grosse-mehrheit-will-schnellere-arbeitserlaubnis-fuer-gefluechtete-a-41e209d0-edb2-4288-bc80-19538a060c52#ref=rss)
-* [https://www.spiegel.de/wirtschaft/myanmar-wie-deutsche-satellitentechnik-in-eine-militaerdiktatur-gelangte](https://www.spiegel.de/wirtschaft/myanmar-wie-deutsche-satellitentechnik-in-eine-militaerdiktatur-gelangte-a-767909bb-d19c-4454-a435-f2f93c5afc53#ref=rss)
-* [https://www.spiegel.de/kultur/bernie-sanders-auf-deutschlandreise-der-ueber-linke-gegen-den-ueber-kapitalismus](https://www.spiegel.de/kultur/bernie-sanders-auf-deutschlandreise-der-ueber-linke-gegen-den-ueber-kapitalismus-a-b2bb82f2-693f-4d4a-b1f9-d5bb1fd7b0db#ref=rss)
-* [https://www.spiegel.de/ausland/polen-was-der-sieg-der-opposition-fuer-europa-bedeutet](https://www.spiegel.de/ausland/polen-was-der-sieg-der-opposition-fuer-europa-bedeutet-a-b54f6cd8-1600-44f4-86a5-3aa275f21100#ref=rss)
-### konflikt
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-der-konflikt-in-karten-und-grafiken](https://www.spiegel.de/ausland/israel-gaza-krieg-der-konflikt-in-karten-und-grafiken-a-3967f2d7-9923-47e1-9eed-a09c543d24bd#ref=rss)
-* [https://www.spiegel.de/ausland/scholz-in-israel-niemand-sollte-von-aussen-in-diesen-konflikt-eingreifen](https://www.spiegel.de/ausland/scholz-in-israel-niemand-sollte-von-aussen-in-diesen-konflikt-eingreifen-a-c10137fe-8335-4a0d-a109-1fc0b7b00efe#ref=rss)
-* [https://www.spiegel.de/ausland/bergkarabach-armeniens-regierungschef-nikol-paschinjan-haelt-friedensabkommen-vor-jahresende-fuer-realistisch](https://www.spiegel.de/ausland/bergkarabach-armeniens-regierungschef-nikol-paschinjan-haelt-friedensabkommen-vor-jahresende-fuer-realistisch-a-deead853-2891-4654-852c-a6dd5a753f0e#ref=rss)
-### tel
-
-* [https://www.spiegel.de/ausland/scholz-in-israel-niemand-sollte-von-aussen-in-diesen-konflikt-eingreifen](https://www.spiegel.de/ausland/scholz-in-israel-niemand-sollte-von-aussen-in-diesen-konflikt-eingreifen-a-c10137fe-8335-4a0d-a109-1fc0b7b00efe#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-israel-und-gaza-wahl-in-polen-bernie-sanders](https://www.spiegel.de/politik/deutschland/news-des-tages-israel-und-gaza-wahl-in-polen-bernie-sanders-a-a968a175-bdeb-4d18-8c90-95f1674ce548#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-in-tel-aviv-israel-hat-das-recht-sich-gegen-diesen-terrorismus-zu-wehren](https://www.spiegel.de/politik/deutschland/olaf-scholz-in-tel-aviv-israel-hat-das-recht-sich-gegen-diesen-terrorismus-zu-wehren-a-eb21ec88-247c-40fe-b338-0c243944a710#ref=rss)
-### aviv
-
-* [https://www.spiegel.de/ausland/scholz-in-israel-niemand-sollte-von-aussen-in-diesen-konflikt-eingreifen](https://www.spiegel.de/ausland/scholz-in-israel-niemand-sollte-von-aussen-in-diesen-konflikt-eingreifen-a-c10137fe-8335-4a0d-a109-1fc0b7b00efe#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-israel-und-gaza-wahl-in-polen-bernie-sanders](https://www.spiegel.de/politik/deutschland/news-des-tages-israel-und-gaza-wahl-in-polen-bernie-sanders-a-a968a175-bdeb-4d18-8c90-95f1674ce548#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-in-tel-aviv-israel-hat-das-recht-sich-gegen-diesen-terrorismus-zu-wehren](https://www.spiegel.de/politik/deutschland/olaf-scholz-in-tel-aviv-israel-hat-das-recht-sich-gegen-diesen-terrorismus-zu-wehren-a-eb21ec88-247c-40fe-b338-0c243944a710#ref=rss)
-### polen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-israel-und-gaza-wahl-in-polen-bernie-sanders](https://www.spiegel.de/politik/deutschland/news-des-tages-israel-und-gaza-wahl-in-polen-bernie-sanders-a-a968a175-bdeb-4d18-8c90-95f1674ce548#ref=rss)
-* [https://www.spiegel.de/ausland/polen-was-der-sieg-der-opposition-fuer-europa-bedeutet](https://www.spiegel.de/ausland/polen-was-der-sieg-der-opposition-fuer-europa-bedeutet-a-b54f6cd8-1600-44f4-86a5-3aa275f21100#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-biden-will-us-kongress-um-hilfen-fuer-israel-bitten](https://www.spiegel.de/ausland/israel-gaza-news-heute-biden-will-us-kongress-um-hilfen-fuer-israel-bitten-a-1b3a870c-c98c-4957-a5bf-72af048ca96c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/baugenehmigungen-zahl-stuerzt-auf-niedrigsten-stand-seit-zehn-jahren](https://www.spiegel.de/wirtschaft/service/baugenehmigungen-zahl-stuerzt-auf-niedrigsten-stand-seit-zehn-jahren-a-0f13332a-8124-44b2-a5e9-eb9b747fff29#ref=rss)
 ### berlin
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-israel-und-gaza-wahl-in-polen-bernie-sanders](https://www.spiegel.de/politik/deutschland/news-des-tages-israel-und-gaza-wahl-in-polen-bernie-sanders-a-a968a175-bdeb-4d18-8c90-95f1674ce548#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-tatort-charite-ein-oberarzt-soll-patienten-getoetet-haben](https://www.spiegel.de/panorama/justiz/berlin-tatort-charite-ein-oberarzt-soll-patienten-getoetet-haben-a-fec5d1fd-fd74-4d67-b315-8c0967826ca1#ref=rss)
-* [https://www.spiegel.de/kultur/bernie-sanders-auf-deutschlandreise-der-ueber-linke-gegen-den-ueber-kapitalismus](https://www.spiegel.de/kultur/bernie-sanders-auf-deutschlandreise-der-ueber-linke-gegen-den-ueber-kapitalismus-a-b2bb82f2-693f-4d4a-b1f9-d5bb1fd7b0db#ref=rss)
-### italien
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-biden-will-us-kongress-um-hilfen-fuer-israel-bitten](https://www.spiegel.de/ausland/israel-gaza-news-heute-biden-will-us-kongress-um-hilfen-fuer-israel-bitten-a-1b3a870c-c98c-4957-a5bf-72af048ca96c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-unbekannte-verueben-brandanschlag-auf-juedische-gemeinde-in-brunnenstrasse](https://www.spiegel.de/politik/deutschland/berlin-unbekannte-verueben-brandanschlag-auf-juedische-gemeinde-in-brunnenstrasse-a-8d368153-6db2-41d6-a70e-684bcc21300b#ref=rss)
+### biden
 
-* [https://www.spiegel.de/sport/fussball/fussball-wettskandal-in-italien-mehrmonatige-sperre-fuer-juventus-profi-nicolo-fagioli](https://www.spiegel.de/sport/fussball/fussball-wettskandal-in-italien-mehrmonatige-sperre-fuer-juventus-profi-nicolo-fagioli-a-0b48b4ee-84e6-43fa-be1b-4b10dd033db9#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wettskandal-in-italien-sandro-tonali-und-das-alte-trauma-des-calcio](https://www.spiegel.de/sport/fussball/fussball-wettskandal-in-italien-sandro-tonali-und-das-alte-trauma-des-calcio-a-1251b371-970d-44d9-90d0-bce2d19f7264#ref=rss)
-### deutsche
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-biden-will-us-kongress-um-hilfen-fuer-israel-bitten](https://www.spiegel.de/ausland/israel-gaza-news-heute-biden-will-us-kongress-um-hilfen-fuer-israel-bitten-a-1b3a870c-c98c-4957-a5bf-72af048ca96c#ref=rss)
+* [https://www.spiegel.de/ausland/israel-joe-biden-zum-solidaritaetsbesuch-gelandet](https://www.spiegel.de/ausland/israel-joe-biden-zum-solidaritaetsbesuch-gelandet-a-295d0d8d-ed15-467f-8294-05002683e2a4#ref=rss)
+### gaza
 
-* [https://www.spiegel.de/politik/deutsche-neonazis-bejubeln-angriff-auf-israel](https://www.spiegel.de/politik/deutsche-neonazis-bejubeln-angriff-auf-israel-a-1693df00-574e-4534-9d16-e06d3eb2b6b0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/myanmar-wie-deutsche-satellitentechnik-in-eine-militaerdiktatur-gelangte](https://www.spiegel.de/wirtschaft/myanmar-wie-deutsche-satellitentechnik-in-eine-militaerdiktatur-gelangte-a-767909bb-d19c-4454-a435-f2f93c5afc53#ref=rss)
-### mann
+* [https://www.spiegel.de/netzwelt/web/israel-will-internetanbindung-per-starlink-absichern](https://www.spiegel.de/netzwelt/web/israel-will-internetanbindung-per-starlink-absichern-a-638e4b37-5741-4015-b791-b703cca5464a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gaza-olaf-scholz-und-sisi-uneins-ueber-grenzoeffnung-fuer-fluechtende-palaestinenser](https://www.spiegel.de/politik/deutschland/gaza-olaf-scholz-und-sisi-uneins-ueber-grenzoeffnung-fuer-fluechtende-palaestinenser-a-4fac015d-0f1a-4afb-916a-6db1a5d12dd1#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/panorama/justiz/bayern-mann-ignoriert-beim-sex-safeword-der-frau-gericht-verurteilt-ihn-zu-mehrjaehriger-haftstrafe](https://www.spiegel.de/panorama/justiz/bayern-mann-ignoriert-beim-sex-safeword-der-frau-gericht-verurteilt-ihn-zu-mehrjaehriger-haftstrafe-a-65ef28d7-69fd-4387-8765-a8d69a9779b8#ref=rss)
-* [https://www.spiegel.de/panorama/sigmaringen-oldtimer-fliegt-30-meter-ueber-kreisverkehr](https://www.spiegel.de/panorama/sigmaringen-oldtimer-fliegt-30-meter-ueber-kreisverkehr-a-7e39758d-738a-45fb-a1a8-b8264b1ec3cb#ref=rss)
-### bella
+* [https://www.spiegel.de/panorama/justiz/emmendingen-tausende-tote-fische-in-der-elz-polizei-ermittelt-verdaechtigen](https://www.spiegel.de/panorama/justiz/emmendingen-tausende-tote-fische-in-der-elz-polizei-ermittelt-verdaechtigen-a-caa40267-b7a1-4360-8b57-28fbc9675008#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/niederlande-ermittler-entdecken-knapp-acht-tonnen-kokain-in-lkw](https://www.spiegel.de/panorama/justiz/niederlande-ermittler-entdecken-knapp-acht-tonnen-kokain-in-lkw-a-36897d24-e9ea-48dd-a4c7-49ecbe02f7ed#ref=rss)
+### gemacht
 
-* [https://www.spiegel.de/panorama/guinessbuch-der-rekorde-katze-bella-holt-dezibel-rekord-fuer-schnurren-so-laut-wie-ein-wasserkocher](https://www.spiegel.de/panorama/guinessbuch-der-rekorde-katze-bella-holt-dezibel-rekord-fuer-schnurren-so-laut-wie-ein-wasserkocher-a-1566a880-401c-49d0-a980-b02565e5a22f#ref=rss)
-### karten
+* [https://www.spiegel.de/panorama/justiz/emmendingen-tausende-tote-fische-in-der-elz-polizei-ermittelt-verdaechtigen](https://www.spiegel.de/panorama/justiz/emmendingen-tausende-tote-fische-in-der-elz-polizei-ermittelt-verdaechtigen-a-caa40267-b7a1-4360-8b57-28fbc9675008#ref=rss)
+* [https://www.spiegel.de/ausland/russland-expertin-ueber-atomtest-es-geht-putin-um-psychologischen-druck](https://www.spiegel.de/ausland/russland-expertin-ueber-atomtest-es-geht-putin-um-psychologischen-druck-a-7ed6d63d-1ebc-481d-b613-ae8063920747#ref=rss)
+* [https://www.spiegel.de/wissenschaft/marihuana-bundestag-beraet-erstmals-ueber-cannabis-legalisierung](https://www.spiegel.de/wissenschaft/marihuana-bundestag-beraet-erstmals-ueber-cannabis-legalisierung-a-cd2b1351-5360-4e38-be35-4a7508f3ece4#ref=rss)
+### verantwortlich
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-der-konflikt-in-karten-und-grafiken](https://www.spiegel.de/ausland/israel-gaza-krieg-der-konflikt-in-karten-und-grafiken-a-3967f2d7-9923-47e1-9eed-a09c543d24bd#ref=rss)
-### gazastreifen
+* [https://www.spiegel.de/ausland/ohne-vorwarnung-wurde-das-krankenhaus-beschossen](https://www.spiegel.de/ausland/ohne-vorwarnung-wurde-das-krankenhaus-beschossen-a-6508f82f-e998-46a5-b88f-bcc7f4c1ed1f#ref=rss)
+* [https://www.spiegel.de/ausland/israel-veroeffentlich-video-und-macht-islamischen-dschihad-fuer-krankenhaus-explosion-verantwortlich](https://www.spiegel.de/ausland/israel-veroeffentlich-video-und-macht-islamischen-dschihad-fuer-krankenhaus-explosion-verantwortlich-a-a93e6562-7682-4793-b31c-8b69a7e2ebd4#ref=rss)
+### fürchten
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-der-konflikt-in-karten-und-grafiken](https://www.spiegel.de/ausland/israel-gaza-krieg-der-konflikt-in-karten-und-grafiken-a-3967f2d7-9923-47e1-9eed-a09c543d24bd#ref=rss)
-* [https://www.spiegel.de/ausland/libanon-sie-sagen-es-sei-der-unsinnigste-absurdeste-krieg](https://www.spiegel.de/ausland/libanon-sie-sagen-es-sei-der-unsinnigste-absurdeste-krieg-a-b477124d-1722-42bb-b123-870dd49cf654#ref=rss)
-### suezkanal
+* [https://www.spiegel.de/wirtschaft/stahl-streit-deutsche-stahlhersteller-fuerchten-nachteile-durch-abkommen-mit-usa](https://www.spiegel.de/wirtschaft/stahl-streit-deutsche-stahlhersteller-fuerchten-nachteile-durch-abkommen-mit-usa-a-e99c1083-4bda-4e4f-9461-522db99bfa5b#ref=rss)
+* [https://www.spiegel.de/ausland/china-und-russland-xi-jinping-und-wladimir-putin-bekraeftigen-strategische-abstimmung](https://www.spiegel.de/ausland/china-und-russland-xi-jinping-und-wladimir-putin-bekraeftigen-strategische-abstimmung-a-317849da-56b0-497f-aad8-bee399c37478#ref=rss)
+### china
 
-* [https://www.spiegel.de/wirtschaft/aegypten-erhoeht-maut-fuer-suezkanal-deutlich](https://www.spiegel.de/wirtschaft/aegypten-erhoeht-maut-fuer-suezkanal-deutlich-a-613ed635-55b8-46b7-a07e-48e164057d90#ref=rss)
-### deutlich
+* [https://www.spiegel.de/wirtschaft/stahl-streit-deutsche-stahlhersteller-fuerchten-nachteile-durch-abkommen-mit-usa](https://www.spiegel.de/wirtschaft/stahl-streit-deutsche-stahlhersteller-fuerchten-nachteile-durch-abkommen-mit-usa-a-e99c1083-4bda-4e4f-9461-522db99bfa5b#ref=rss)
+* [https://www.spiegel.de/ausland/china-und-russland-xi-jinping-und-wladimir-putin-bekraeftigen-strategische-abstimmung](https://www.spiegel.de/ausland/china-und-russland-xi-jinping-und-wladimir-putin-bekraeftigen-strategische-abstimmung-a-317849da-56b0-497f-aad8-bee399c37478#ref=rss)
+### grenzübergang
 
-* [https://www.spiegel.de/wirtschaft/aegypten-erhoeht-maut-fuer-suezkanal-deutlich](https://www.spiegel.de/wirtschaft/aegypten-erhoeht-maut-fuer-suezkanal-deutlich-a-613ed635-55b8-46b7-a07e-48e164057d90#ref=rss)
-* [https://www.spiegel.de/netzwelt/games/meta-quest-3-im-test-das-kann-metas-neue-vr-und-mixed-reality-brille](https://www.spiegel.de/netzwelt/games/meta-quest-3-im-test-das-kann-metas-neue-vr-und-mixed-reality-brille-a-242dd01a-5eaf-420b-a548-9f093c04433a#ref=rss)
-### künftig
+* [https://www.spiegel.de/politik/deutschland/gaza-olaf-scholz-und-sisi-uneins-ueber-grenzoeffnung-fuer-fluechtende-palaestinenser](https://www.spiegel.de/politik/deutschland/gaza-olaf-scholz-und-sisi-uneins-ueber-grenzoeffnung-fuer-fluechtende-palaestinenser-a-4fac015d-0f1a-4afb-916a-6db1a5d12dd1#ref=rss)
+* [https://www.spiegel.de/ausland/rafah-warum-der-grenzuebergang-im-israel-gaza-krieg-in-den-fokus-rueckt](https://www.spiegel.de/ausland/rafah-warum-der-grenzuebergang-im-israel-gaza-krieg-in-den-fokus-rueckt-a-614f98e1-3c5e-46c9-938e-ec0af039abcd#ref=rss)
+### putin
 
-* [https://www.spiegel.de/wirtschaft/aegypten-erhoeht-maut-fuer-suezkanal-deutlich](https://www.spiegel.de/wirtschaft/aegypten-erhoeht-maut-fuer-suezkanal-deutlich-a-613ed635-55b8-46b7-a07e-48e164057d90#ref=rss)
-* [https://www.spiegel.de/karriere/kinderwunschbehandlung-vom-arbeitgeber-chef-ich-will-ein-kind-von-dir](https://www.spiegel.de/karriere/kinderwunschbehandlung-vom-arbeitgeber-chef-ich-will-ein-kind-von-dir-a-aecbea79-ea43-4ed9-8c50-1bf0c2741af1#ref=rss)
-### prozent
-
-* [https://www.spiegel.de/wirtschaft/aegypten-erhoeht-maut-fuer-suezkanal-deutlich](https://www.spiegel.de/wirtschaft/aegypten-erhoeht-maut-fuer-suezkanal-deutlich-a-613ed635-55b8-46b7-a07e-48e164057d90#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/migration-grosse-mehrheit-will-schnellere-arbeitserlaubnis-fuer-gefluechtete](https://www.spiegel.de/wirtschaft/soziales/migration-grosse-mehrheit-will-schnellere-arbeitserlaubnis-fuer-gefluechtete-a-41e209d0-edb2-4288-bc80-19538a060c52#ref=rss)
-### passieren
-
-* [https://www.spiegel.de/wirtschaft/aegypten-erhoeht-maut-fuer-suezkanal-deutlich](https://www.spiegel.de/wirtschaft/aegypten-erhoeht-maut-fuer-suezkanal-deutlich-a-613ed635-55b8-46b7-a07e-48e164057d90#ref=rss)
-* [https://www.spiegel.de/kultur/til-schweiger-constantin-chef-raeumt-schwere-fehler-ein](https://www.spiegel.de/kultur/til-schweiger-constantin-chef-raeumt-schwere-fehler-ein-a-d2fcf894-e75d-4432-b6ec-4ecad89578c9#ref=rss)
-### sollte
-
-* [https://www.spiegel.de/ausland/scholz-in-israel-niemand-sollte-von-aussen-in-diesen-konflikt-eingreifen](https://www.spiegel.de/ausland/scholz-in-israel-niemand-sollte-von-aussen-in-diesen-konflikt-eingreifen-a-c10137fe-8335-4a0d-a109-1fc0b7b00efe#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/migration-grosse-mehrheit-will-schnellere-arbeitserlaubnis-fuer-gefluechtete](https://www.spiegel.de/wirtschaft/soziales/migration-grosse-mehrheit-will-schnellere-arbeitserlaubnis-fuer-gefluechtete-a-41e209d0-edb2-4288-bc80-19538a060c52#ref=rss)
-### außen
-
-* [https://www.spiegel.de/ausland/scholz-in-israel-niemand-sollte-von-aussen-in-diesen-konflikt-eingreifen](https://www.spiegel.de/ausland/scholz-in-israel-niemand-sollte-von-aussen-in-diesen-konflikt-eingreifen-a-c10137fe-8335-4a0d-a109-1fc0b7b00efe#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-in-tel-aviv-israel-hat-das-recht-sich-gegen-diesen-terrorismus-zu-wehren](https://www.spiegel.de/politik/deutschland/olaf-scholz-in-tel-aviv-israel-hat-das-recht-sich-gegen-diesen-terrorismus-zu-wehren-a-eb21ec88-247c-40fe-b338-0c243944a710#ref=rss)
-### diesen
-
-* [https://www.spiegel.de/ausland/scholz-in-israel-niemand-sollte-von-aussen-in-diesen-konflikt-eingreifen](https://www.spiegel.de/ausland/scholz-in-israel-niemand-sollte-von-aussen-in-diesen-konflikt-eingreifen-a-c10137fe-8335-4a0d-a109-1fc0b7b00efe#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-in-tel-aviv-israel-hat-das-recht-sich-gegen-diesen-terrorismus-zu-wehren](https://www.spiegel.de/politik/deutschland/olaf-scholz-in-tel-aviv-israel-hat-das-recht-sich-gegen-diesen-terrorismus-zu-wehren-a-eb21ec88-247c-40fe-b338-0c243944a710#ref=rss)
-### eingreifen
-
-* [https://www.spiegel.de/ausland/scholz-in-israel-niemand-sollte-von-aussen-in-diesen-konflikt-eingreifen](https://www.spiegel.de/ausland/scholz-in-israel-niemand-sollte-von-aussen-in-diesen-konflikt-eingreifen-a-c10137fe-8335-4a0d-a109-1fc0b7b00efe#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-in-tel-aviv-israel-hat-das-recht-sich-gegen-diesen-terrorismus-zu-wehren](https://www.spiegel.de/politik/deutschland/olaf-scholz-in-tel-aviv-israel-hat-das-recht-sich-gegen-diesen-terrorismus-zu-wehren-a-eb21ec88-247c-40fe-b338-0c243944a710#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/scholz-in-israel-niemand-sollte-von-aussen-in-diesen-konflikt-eingreifen](https://www.spiegel.de/ausland/scholz-in-israel-niemand-sollte-von-aussen-in-diesen-konflikt-eingreifen-a-c10137fe-8335-4a0d-a109-1fc0b7b00efe#ref=rss)
-* [https://www.spiegel.de/ausland/libanon-sie-sagen-es-sei-der-unsinnigste-absurdeste-krieg](https://www.spiegel.de/ausland/libanon-sie-sagen-es-sei-der-unsinnigste-absurdeste-krieg-a-b477124d-1722-42bb-b123-870dd49cf654#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-bestaetigt-ersten-einsatz-von-atacms-raketen-aus-den-usa](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-bestaetigt-ersten-einsatz-von-atacms-raketen-aus-den-usa-a-1acef90f-4b0f-420e-81c6-5a98a266d4ea#ref=rss)
-### selenskyj
-
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-bestaetigt-ersten-einsatz-von-atacms-raketen-aus-den-usa](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-bestaetigt-ersten-einsatz-von-atacms-raketen-aus-den-usa-a-1acef90f-4b0f-420e-81c6-5a98a266d4ea#ref=rss)
+* [https://www.spiegel.de/ausland/russland-expertin-ueber-atomtest-es-geht-putin-um-psychologischen-druck](https://www.spiegel.de/ausland/russland-expertin-ueber-atomtest-es-geht-putin-um-psychologischen-druck-a-7ed6d63d-1ebc-481d-b613-ae8063920747#ref=rss)
+* [https://www.spiegel.de/ausland/china-und-russland-xi-jinping-und-wladimir-putin-bekraeftigen-strategische-abstimmung](https://www.spiegel.de/ausland/china-und-russland-xi-jinping-und-wladimir-putin-bekraeftigen-strategische-abstimmung-a-317849da-56b0-497f-aad8-bee399c37478#ref=rss)
 ### ersten
 
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-bestaetigt-ersten-einsatz-von-atacms-raketen-aus-den-usa](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-bestaetigt-ersten-einsatz-von-atacms-raketen-aus-den-usa-a-1acef90f-4b0f-420e-81c6-5a98a266d4ea#ref=rss)
-* [https://www.spiegel.de/kultur/bbc-doku-planet-earth-iii-mit-david-attenborough-18-drehtage-in-der-hoehle-mit-500-kilo-equipment](https://www.spiegel.de/kultur/bbc-doku-planet-earth-iii-mit-david-attenborough-18-drehtage-in-der-hoehle-mit-500-kilo-equipment-a-d1857724-442d-4d43-9662-108827773f45#ref=rss)
-### einsatz
+* [https://www.spiegel.de/panorama/leute/nico-santos-wird-zum-ersten-mal-vater-und-verschiebt-deshalb-seine-tour](https://www.spiegel.de/panorama/leute/nico-santos-wird-zum-ersten-mal-vater-und-verschiebt-deshalb-seine-tour-a-f3f06957-65ee-43a8-b9e5-4f7e5e3f0ac6#ref=rss)
+* [https://www.spiegel.de/ausland/us-repraesentantenhaus-jetzt-muss-donald-trump-liebling-jim-jordan-zittern](https://www.spiegel.de/ausland/us-repraesentantenhaus-jetzt-muss-donald-trump-liebling-jim-jordan-zittern-a-3c2fd228-b140-46b2-ba7f-c31577a12a1c#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-slavoj-zizek-sorgt-mit-eroeffnungsrede-zu-israel-und-palaestina-fuer-tumult](https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-slavoj-zizek-sorgt-mit-eroeffnungsrede-zu-israel-und-palaestina-fuer-tumult-a-bf6091a5-0db8-4d41-a8c8-ff73d8e9af1c#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-bestaetigt-ersten-einsatz-von-atacms-raketen-aus-den-usa](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-bestaetigt-ersten-einsatz-von-atacms-raketen-aus-den-usa-a-1acef90f-4b0f-420e-81c6-5a98a266d4ea#ref=rss)
-### atacmsraketen
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-biden-will-us-kongress-um-hilfen-fuer-israel-bitten](https://www.spiegel.de/ausland/israel-gaza-news-heute-biden-will-us-kongress-um-hilfen-fuer-israel-bitten-a-1b3a870c-c98c-4957-a5bf-72af048ca96c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/stahl-streit-deutsche-stahlhersteller-fuerchten-nachteile-durch-abkommen-mit-usa](https://www.spiegel.de/wirtschaft/stahl-streit-deutsche-stahlhersteller-fuerchten-nachteile-durch-abkommen-mit-usa-a-e99c1083-4bda-4e4f-9461-522db99bfa5b#ref=rss)
+### ums
 
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-bestaetigt-ersten-einsatz-von-atacms-raketen-aus-den-usa](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-bestaetigt-ersten-einsatz-von-atacms-raketen-aus-den-usa-a-1acef90f-4b0f-420e-81c6-5a98a266d4ea#ref=rss)
-### usa
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-biden-will-us-kongress-um-hilfen-fuer-israel-bitten](https://www.spiegel.de/ausland/israel-gaza-news-heute-biden-will-us-kongress-um-hilfen-fuer-israel-bitten-a-1b3a870c-c98c-4957-a5bf-72af048ca96c#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-meldet-getoetete-zivilisten-nach-russischem-angriff-auf-saporischschja](https://www.spiegel.de/ausland/ukraine-meldet-getoetete-zivilisten-nach-russischem-angriff-auf-saporischschja-a-d1caf070-6baa-49c4-a5fe-e9b736f47a94#ref=rss)
+### leben
 
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-bestaetigt-ersten-einsatz-von-atacms-raketen-aus-den-usa](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-bestaetigt-ersten-einsatz-von-atacms-raketen-aus-den-usa-a-1acef90f-4b0f-420e-81c6-5a98a266d4ea#ref=rss)
-### hätte
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-biden-will-us-kongress-um-hilfen-fuer-israel-bitten](https://www.spiegel.de/ausland/israel-gaza-news-heute-biden-will-us-kongress-um-hilfen-fuer-israel-bitten-a-1b3a870c-c98c-4957-a5bf-72af048ca96c#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-meldet-getoetete-zivilisten-nach-russischem-angriff-auf-saporischschja](https://www.spiegel.de/ausland/ukraine-meldet-getoetete-zivilisten-nach-russischem-angriff-auf-saporischschja-a-d1caf070-6baa-49c4-a5fe-e9b736f47a94#ref=rss)
+### team
 
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-bestaetigt-ersten-einsatz-von-atacms-raketen-aus-den-usa](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-bestaetigt-ersten-einsatz-von-atacms-raketen-aus-den-usa-a-1acef90f-4b0f-420e-81c6-5a98a266d4ea#ref=rss)
-* [https://www.spiegel.de/kultur/til-schweiger-constantin-chef-raeumt-schwere-fehler-ein](https://www.spiegel.de/kultur/til-schweiger-constantin-chef-raeumt-schwere-fehler-ein-a-d2fcf894-e75d-4432-b6ec-4ecad89578c9#ref=rss)
-### wahl
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-biden-will-us-kongress-um-hilfen-fuer-israel-bitten](https://www.spiegel.de/ausland/israel-gaza-news-heute-biden-will-us-kongress-um-hilfen-fuer-israel-bitten-a-1b3a870c-c98c-4957-a5bf-72af048ca96c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mithilfe-von-ki-tierlaute-lassen-auf-artenvielfalt-schliessen](https://www.spiegel.de/wissenschaft/mithilfe-von-ki-tierlaute-lassen-auf-artenvielfalt-schliessen-a-8a2026f1-31ed-452d-ab4a-aba903cd9c51#ref=rss)
+### per
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-israel-und-gaza-wahl-in-polen-bernie-sanders](https://www.spiegel.de/politik/deutschland/news-des-tages-israel-und-gaza-wahl-in-polen-bernie-sanders-a-a968a175-bdeb-4d18-8c90-95f1674ce548#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/israel-will-internetanbindung-per-starlink-absichern](https://www.spiegel.de/netzwelt/web/israel-will-internetanbindung-per-starlink-absichern-a-638e4b37-5741-4015-b791-b703cca5464a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/warum-buerokratie-kein-problem-ist-eine-miese-verwaltung-aber-schon](https://www.spiegel.de/wirtschaft/warum-buerokratie-kein-problem-ist-eine-miese-verwaltung-aber-schon-a-7bd7014a-e849-4a85-99e4-fbe154a70443#ref=rss)
+### belgien
+
+* [https://www.spiegel.de/panorama/justiz/belgien-gericht-verurteilt-20-angehoerige-eines-schleuserrings-freiheitsstrafen-von-bis-zu-elf-jahren-verhaengt](https://www.spiegel.de/panorama/justiz/belgien-gericht-verurteilt-20-angehoerige-eines-schleuserrings-freiheitsstrafen-von-bis-zu-elf-jahren-verhaengt-a-d9782683-64e9-4729-af46-83405b494d27#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/panorama/justiz/belgien-gericht-verurteilt-20-angehoerige-eines-schleuserrings-freiheitsstrafen-von-bis-zu-elf-jahren-verhaengt](https://www.spiegel.de/panorama/justiz/belgien-gericht-verurteilt-20-angehoerige-eines-schleuserrings-freiheitsstrafen-von-bis-zu-elf-jahren-verhaengt-a-d9782683-64e9-4729-af46-83405b494d27#ref=rss)
+### freiheitsstrafen
+
+* [https://www.spiegel.de/panorama/justiz/belgien-gericht-verurteilt-20-angehoerige-eines-schleuserrings-freiheitsstrafen-von-bis-zu-elf-jahren-verhaengt](https://www.spiegel.de/panorama/justiz/belgien-gericht-verurteilt-20-angehoerige-eines-schleuserrings-freiheitsstrafen-von-bis-zu-elf-jahren-verhaengt-a-d9782683-64e9-4729-af46-83405b494d27#ref=rss)
+### helge
+
+* [https://www.spiegel.de/politik/deutschland/migration-helge-lindh-warnt-gruene-vor-populistischer-verhetzung-bei-bezahlkarten](https://www.spiegel.de/politik/deutschland/migration-helge-lindh-warnt-gruene-vor-populistischer-verhetzung-bei-bezahlkarten-a-7413ef69-9ca1-40a3-8be2-22ddb1660224#ref=rss)
+### lindh
+
+* [https://www.spiegel.de/politik/deutschland/migration-helge-lindh-warnt-gruene-vor-populistischer-verhetzung-bei-bezahlkarten](https://www.spiegel.de/politik/deutschland/migration-helge-lindh-warnt-gruene-vor-populistischer-verhetzung-bei-bezahlkarten-a-7413ef69-9ca1-40a3-8be2-22ddb1660224#ref=rss)
 ### warnt
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-israel-und-gaza-wahl-in-polen-bernie-sanders](https://www.spiegel.de/politik/deutschland/news-des-tages-israel-und-gaza-wahl-in-polen-bernie-sanders-a-a968a175-bdeb-4d18-8c90-95f1674ce548#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-in-tel-aviv-israel-hat-das-recht-sich-gegen-diesen-terrorismus-zu-wehren](https://www.spiegel.de/politik/deutschland/olaf-scholz-in-tel-aviv-israel-hat-das-recht-sich-gegen-diesen-terrorismus-zu-wehren-a-eb21ec88-247c-40fe-b338-0c243944a710#ref=rss)
-### reform
+* [https://www.spiegel.de/politik/deutschland/migration-helge-lindh-warnt-gruene-vor-populistischer-verhetzung-bei-bezahlkarten](https://www.spiegel.de/politik/deutschland/migration-helge-lindh-warnt-gruene-vor-populistischer-verhetzung-bei-bezahlkarten-a-7413ef69-9ca1-40a3-8be2-22ddb1660224#ref=rss)
+* [https://www.spiegel.de/ausland/russland-expertin-ueber-atomtest-es-geht-putin-um-psychologischen-druck](https://www.spiegel.de/ausland/russland-expertin-ueber-atomtest-es-geht-putin-um-psychologischen-druck-a-7ed6d63d-1ebc-481d-b613-ae8063920747#ref=rss)
+### bezahlkarten
 
-* [https://www.spiegel.de/wirtschaft/service/strommarkt-eu-energieminister-einigen-sich-auf-reform](https://www.spiegel.de/wirtschaft/service/strommarkt-eu-energieminister-einigen-sich-auf-reform-a-1a9691a8-9c2b-42c4-a830-55c36835a690#ref=rss)
-### fußballwettskandal
+* [https://www.spiegel.de/politik/deutschland/migration-helge-lindh-warnt-gruene-vor-populistischer-verhetzung-bei-bezahlkarten](https://www.spiegel.de/politik/deutschland/migration-helge-lindh-warnt-gruene-vor-populistischer-verhetzung-bei-bezahlkarten-a-7413ef69-9ca1-40a3-8be2-22ddb1660224#ref=rss)
+### dagegen
 
-* [https://www.spiegel.de/sport/fussball/fussball-wettskandal-in-italien-mehrmonatige-sperre-fuer-juventus-profi-nicolo-fagioli](https://www.spiegel.de/sport/fussball/fussball-wettskandal-in-italien-mehrmonatige-sperre-fuer-juventus-profi-nicolo-fagioli-a-0b48b4ee-84e6-43fa-be1b-4b10dd033db9#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wettskandal-in-italien-sandro-tonali-und-das-alte-trauma-des-calcio](https://www.spiegel.de/sport/fussball/fussball-wettskandal-in-italien-sandro-tonali-und-das-alte-trauma-des-calcio-a-1251b371-970d-44d9-90d0-bce2d19f7264#ref=rss)
-### erstes
+* [https://www.spiegel.de/politik/deutschland/migration-helge-lindh-warnt-gruene-vor-populistischer-verhetzung-bei-bezahlkarten](https://www.spiegel.de/politik/deutschland/migration-helge-lindh-warnt-gruene-vor-populistischer-verhetzung-bei-bezahlkarten-a-7413ef69-9ca1-40a3-8be2-22ddb1660224#ref=rss)
+* [https://www.spiegel.de/wissenschaft/marihuana-bundestag-beraet-erstmals-ueber-cannabis-legalisierung](https://www.spiegel.de/wissenschaft/marihuana-bundestag-beraet-erstmals-ueber-cannabis-legalisierung-a-cd2b1351-5360-4e38-be35-4a7508f3ece4#ref=rss)
+### tausende
 
-* [https://www.spiegel.de/sport/fussball/fussball-wettskandal-in-italien-mehrmonatige-sperre-fuer-juventus-profi-nicolo-fagioli](https://www.spiegel.de/sport/fussball/fussball-wettskandal-in-italien-mehrmonatige-sperre-fuer-juventus-profi-nicolo-fagioli-a-0b48b4ee-84e6-43fa-be1b-4b10dd033db9#ref=rss)
-* [https://www.spiegel.de/netzwelt/games/meta-quest-3-im-test-das-kann-metas-neue-vr-und-mixed-reality-brille](https://www.spiegel.de/netzwelt/games/meta-quest-3-im-test-das-kann-metas-neue-vr-und-mixed-reality-brille-a-242dd01a-5eaf-420b-a548-9f093c04433a#ref=rss)
-### krieg
+* [https://www.spiegel.de/panorama/justiz/emmendingen-tausende-tote-fische-in-der-elz-polizei-ermittelt-verdaechtigen](https://www.spiegel.de/panorama/justiz/emmendingen-tausende-tote-fische-in-der-elz-polizei-ermittelt-verdaechtigen-a-caa40267-b7a1-4360-8b57-28fbc9675008#ref=rss)
+### fische
 
-* [https://www.spiegel.de/politik/deutsche-neonazis-bejubeln-angriff-auf-israel](https://www.spiegel.de/politik/deutsche-neonazis-bejubeln-angriff-auf-israel-a-1693df00-574e-4534-9d16-e06d3eb2b6b0#ref=rss)
-* [https://www.spiegel.de/ausland/libanon-sie-sagen-es-sei-der-unsinnigste-absurdeste-krieg](https://www.spiegel.de/ausland/libanon-sie-sagen-es-sei-der-unsinnigste-absurdeste-krieg-a-b477124d-1722-42bb-b123-870dd49cf654#ref=rss)
-### region
+* [https://www.spiegel.de/panorama/justiz/emmendingen-tausende-tote-fische-in-der-elz-polizei-ermittelt-verdaechtigen](https://www.spiegel.de/panorama/justiz/emmendingen-tausende-tote-fische-in-der-elz-polizei-ermittelt-verdaechtigen-a-caa40267-b7a1-4360-8b57-28fbc9675008#ref=rss)
+### krankenhaus
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-in-tel-aviv-israel-hat-das-recht-sich-gegen-diesen-terrorismus-zu-wehren](https://www.spiegel.de/politik/deutschland/olaf-scholz-in-tel-aviv-israel-hat-das-recht-sich-gegen-diesen-terrorismus-zu-wehren-a-eb21ec88-247c-40fe-b338-0c243944a710#ref=rss)
-* [https://www.spiegel.de/ausland/bergkarabach-armeniens-regierungschef-nikol-paschinjan-haelt-friedensabkommen-vor-jahresende-fuer-realistisch](https://www.spiegel.de/ausland/bergkarabach-armeniens-regierungschef-nikol-paschinjan-haelt-friedensabkommen-vor-jahresende-fuer-realistisch-a-deead853-2891-4654-852c-a6dd5a753f0e#ref=rss)
-### fehler
+* [https://www.spiegel.de/ausland/ohne-vorwarnung-wurde-das-krankenhaus-beschossen](https://www.spiegel.de/ausland/ohne-vorwarnung-wurde-das-krankenhaus-beschossen-a-6508f82f-e998-46a5-b88f-bcc7f4c1ed1f#ref=rss)
+* [https://www.spiegel.de/ausland/israel-veroeffentlich-video-und-macht-islamischen-dschihad-fuer-krankenhaus-explosion-verantwortlich](https://www.spiegel.de/ausland/israel-veroeffentlich-video-und-macht-islamischen-dschihad-fuer-krankenhaus-explosion-verantwortlich-a-a93e6562-7682-4793-b31c-8b69a7e2ebd4#ref=rss)
+### stahlstreit
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-in-tel-aviv-israel-hat-das-recht-sich-gegen-diesen-terrorismus-zu-wehren](https://www.spiegel.de/politik/deutschland/olaf-scholz-in-tel-aviv-israel-hat-das-recht-sich-gegen-diesen-terrorismus-zu-wehren-a-eb21ec88-247c-40fe-b338-0c243944a710#ref=rss)
-* [https://www.spiegel.de/kultur/til-schweiger-constantin-chef-raeumt-schwere-fehler-ein](https://www.spiegel.de/kultur/til-schweiger-constantin-chef-raeumt-schwere-fehler-ein-a-d2fcf894-e75d-4432-b6ec-4ecad89578c9#ref=rss)
-### seetang
+* [https://www.spiegel.de/wirtschaft/stahl-streit-deutsche-stahlhersteller-fuerchten-nachteile-durch-abkommen-mit-usa](https://www.spiegel.de/wirtschaft/stahl-streit-deutsche-stahlhersteller-fuerchten-nachteile-durch-abkommen-mit-usa-a-e99c1083-4bda-4e4f-9461-522db99bfa5b#ref=rss)
+### usa
 
-* [https://www.spiegel.de/wissenschaft/europaeer-assen-ueber-jahrtausende-seetang](https://www.spiegel.de/wissenschaft/europaeer-assen-ueber-jahrtausende-seetang-a-03164e4e-de48-4a13-8309-601b2e49204a#ref=rss)
-### zeigt
+* [https://www.spiegel.de/wirtschaft/stahl-streit-deutsche-stahlhersteller-fuerchten-nachteile-durch-abkommen-mit-usa](https://www.spiegel.de/wirtschaft/stahl-streit-deutsche-stahlhersteller-fuerchten-nachteile-durch-abkommen-mit-usa-a-e99c1083-4bda-4e4f-9461-522db99bfa5b#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-meldet-getoetete-zivilisten-nach-russischem-angriff-auf-saporischschja](https://www.spiegel.de/ausland/ukraine-meldet-getoetete-zivilisten-nach-russischem-angriff-auf-saporischschja-a-d1caf070-6baa-49c4-a5fe-e9b736f47a94#ref=rss)
+### hanarāwhiti
 
-* [https://www.spiegel.de/wissenschaft/europaeer-assen-ueber-jahrtausende-seetang](https://www.spiegel.de/wissenschaft/europaeer-assen-ueber-jahrtausende-seetang-a-03164e4e-de48-4a13-8309-601b2e49204a#ref=rss)
-* [https://www.spiegel.de/kultur/bbc-doku-planet-earth-iii-mit-david-attenborough-18-drehtage-in-der-hoehle-mit-500-kilo-equipment](https://www.spiegel.de/kultur/bbc-doku-planet-earth-iii-mit-david-attenborough-18-drehtage-in-der-hoehle-mit-500-kilo-equipment-a-d1857724-442d-4d43-9662-108827773f45#ref=rss)
-### forschenden
+* [https://www.spiegel.de/ausland/neuseeland-21-jaehrige-hana-rawhiti-maipi-clarke-ist-die-juengste-abgeordnete-seit-170-jahren](https://www.spiegel.de/ausland/neuseeland-21-jaehrige-hana-rawhiti-maipi-clarke-ist-die-juengste-abgeordnete-seit-170-jahren-a-5b407ffe-fd2e-423b-9351-343f154d7d7d#ref=rss)
+### maipiclarke
 
-* [https://www.spiegel.de/wissenschaft/europaeer-assen-ueber-jahrtausende-seetang](https://www.spiegel.de/wissenschaft/europaeer-assen-ueber-jahrtausende-seetang-a-03164e4e-de48-4a13-8309-601b2e49204a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltraum-groesstes-marsbeben-wurde-laut-forschenden-durch-tektonische-kraefte-ausgeloest](https://www.spiegel.de/wissenschaft/weltraum-groesstes-marsbeben-wurde-laut-forschenden-durch-tektonische-kraefte-ausgeloest-a-f0677531-3792-4a49-aa9d-7d100701f8cc#ref=rss)
-### charité
+* [https://www.spiegel.de/ausland/neuseeland-21-jaehrige-hana-rawhiti-maipi-clarke-ist-die-juengste-abgeordnete-seit-170-jahren](https://www.spiegel.de/ausland/neuseeland-21-jaehrige-hana-rawhiti-maipi-clarke-ist-die-juengste-abgeordnete-seit-170-jahren-a-5b407ffe-fd2e-423b-9351-343f154d7d7d#ref=rss)
+### scholz
 
-* [https://www.spiegel.de/panorama/justiz/berlin-tatort-charite-ein-oberarzt-soll-patienten-getoetet-haben](https://www.spiegel.de/panorama/justiz/berlin-tatort-charite-ein-oberarzt-soll-patienten-getoetet-haben-a-fec5d1fd-fd74-4d67-b315-8c0967826ca1#ref=rss)
-### patienten
+* [https://www.spiegel.de/politik/deutschland/gaza-olaf-scholz-und-sisi-uneins-ueber-grenzoeffnung-fuer-fluechtende-palaestinenser](https://www.spiegel.de/politik/deutschland/gaza-olaf-scholz-und-sisi-uneins-ueber-grenzoeffnung-fuer-fluechtende-palaestinenser-a-4fac015d-0f1a-4afb-916a-6db1a5d12dd1#ref=rss)
+### sisi
 
-* [https://www.spiegel.de/panorama/justiz/berlin-tatort-charite-ein-oberarzt-soll-patienten-getoetet-haben](https://www.spiegel.de/panorama/justiz/berlin-tatort-charite-ein-oberarzt-soll-patienten-getoetet-haben-a-fec5d1fd-fd74-4d67-b315-8c0967826ca1#ref=rss)
-### getötet
+* [https://www.spiegel.de/politik/deutschland/gaza-olaf-scholz-und-sisi-uneins-ueber-grenzoeffnung-fuer-fluechtende-palaestinenser](https://www.spiegel.de/politik/deutschland/gaza-olaf-scholz-und-sisi-uneins-ueber-grenzoeffnung-fuer-fluechtende-palaestinenser-a-4fac015d-0f1a-4afb-916a-6db1a5d12dd1#ref=rss)
+### fürchtet
 
-* [https://www.spiegel.de/panorama/justiz/berlin-tatort-charite-ein-oberarzt-soll-patienten-getoetet-haben](https://www.spiegel.de/panorama/justiz/berlin-tatort-charite-ein-oberarzt-soll-patienten-getoetet-haben-a-fec5d1fd-fd74-4d67-b315-8c0967826ca1#ref=rss)
-### zwei
+* [https://www.spiegel.de/politik/deutschland/gaza-olaf-scholz-und-sisi-uneins-ueber-grenzoeffnung-fuer-fluechtende-palaestinenser](https://www.spiegel.de/politik/deutschland/gaza-olaf-scholz-und-sisi-uneins-ueber-grenzoeffnung-fuer-fluechtende-palaestinenser-a-4fac015d-0f1a-4afb-916a-6db1a5d12dd1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/brexit-turbulenzen-gefaehrden-grossbritanniens-e-auto-plaene](https://www.spiegel.de/wirtschaft/brexit-turbulenzen-gefaehrden-grossbritanniens-e-auto-plaene-a-0800737f-3091-4de3-ae25-e39a32d27033#ref=rss)
+### rafah
 
-* [https://www.spiegel.de/panorama/justiz/berlin-tatort-charite-ein-oberarzt-soll-patienten-getoetet-haben](https://www.spiegel.de/panorama/justiz/berlin-tatort-charite-ein-oberarzt-soll-patienten-getoetet-haben-a-fec5d1fd-fd74-4d67-b315-8c0967826ca1#ref=rss)
-* [https://www.spiegel.de/panorama/guinessbuch-der-rekorde-katze-bella-holt-dezibel-rekord-fuer-schnurren-so-laut-wie-ein-wasserkocher](https://www.spiegel.de/panorama/guinessbuch-der-rekorde-katze-bella-holt-dezibel-rekord-fuer-schnurren-so-laut-wie-ein-wasserkocher-a-1566a880-401c-49d0-a980-b02565e5a22f#ref=rss)
-### schwer
+* [https://www.spiegel.de/politik/deutschland/gaza-olaf-scholz-und-sisi-uneins-ueber-grenzoeffnung-fuer-fluechtende-palaestinenser](https://www.spiegel.de/politik/deutschland/gaza-olaf-scholz-und-sisi-uneins-ueber-grenzoeffnung-fuer-fluechtende-palaestinenser-a-4fac015d-0f1a-4afb-916a-6db1a5d12dd1#ref=rss)
+* [https://www.spiegel.de/ausland/rafah-warum-der-grenzuebergang-im-israel-gaza-krieg-in-den-fokus-rueckt](https://www.spiegel.de/ausland/rafah-warum-der-grenzuebergang-im-israel-gaza-krieg-in-den-fokus-rueckt-a-614f98e1-3c5e-46c9-938e-ec0af039abcd#ref=rss)
+### geschlossen
 
-* [https://www.spiegel.de/panorama/justiz/berlin-tatort-charite-ein-oberarzt-soll-patienten-getoetet-haben](https://www.spiegel.de/panorama/justiz/berlin-tatort-charite-ein-oberarzt-soll-patienten-getoetet-haben-a-fec5d1fd-fd74-4d67-b315-8c0967826ca1#ref=rss)
-* [https://www.spiegel.de/ausland/polen-was-der-sieg-der-opposition-fuer-europa-bedeutet](https://www.spiegel.de/ausland/polen-was-der-sieg-der-opposition-fuer-europa-bedeutet-a-b54f6cd8-1600-44f4-86a5-3aa275f21100#ref=rss)
-### fall
+* [https://www.spiegel.de/politik/deutschland/gaza-olaf-scholz-und-sisi-uneins-ueber-grenzoeffnung-fuer-fluechtende-palaestinenser](https://www.spiegel.de/politik/deutschland/gaza-olaf-scholz-und-sisi-uneins-ueber-grenzoeffnung-fuer-fluechtende-palaestinenser-a-4fac015d-0f1a-4afb-916a-6db1a5d12dd1#ref=rss)
+* [https://www.spiegel.de/ausland/rafah-warum-der-grenzuebergang-im-israel-gaza-krieg-in-den-fokus-rueckt](https://www.spiegel.de/ausland/rafah-warum-der-grenzuebergang-im-israel-gaza-krieg-in-den-fokus-rueckt-a-614f98e1-3c5e-46c9-938e-ec0af039abcd#ref=rss)
+### staatschef
 
-* [https://www.spiegel.de/panorama/justiz/berlin-tatort-charite-ein-oberarzt-soll-patienten-getoetet-haben](https://www.spiegel.de/panorama/justiz/berlin-tatort-charite-ein-oberarzt-soll-patienten-getoetet-haben-a-fec5d1fd-fd74-4d67-b315-8c0967826ca1#ref=rss)
-* [https://www.spiegel.de/kultur/til-schweiger-constantin-chef-raeumt-schwere-fehler-ein](https://www.spiegel.de/kultur/til-schweiger-constantin-chef-raeumt-schwere-fehler-ein-a-d2fcf894-e75d-4432-b6ec-4ecad89578c9#ref=rss)
-### remmos
+* [https://www.spiegel.de/politik/deutschland/gaza-olaf-scholz-und-sisi-uneins-ueber-grenzoeffnung-fuer-fluechtende-palaestinenser](https://www.spiegel.de/politik/deutschland/gaza-olaf-scholz-und-sisi-uneins-ueber-grenzoeffnung-fuer-fluechtende-palaestinenser-a-4fac015d-0f1a-4afb-916a-6db1a5d12dd1#ref=rss)
+* [https://www.spiegel.de/ausland/china-und-russland-xi-jinping-und-wladimir-putin-bekraeftigen-strategische-abstimmung](https://www.spiegel.de/ausland/china-und-russland-xi-jinping-und-wladimir-putin-bekraeftigen-strategische-abstimmung-a-317849da-56b0-497f-aad8-bee399c37478#ref=rss)
+### veröffentlicht
 
-* [https://www.spiegel.de/panorama/justiz/der-jahrhundertcoup-die-remmos-und-das-gruene-gewoelbe-spiegel-tv](https://www.spiegel.de/panorama/justiz/der-jahrhundertcoup-die-remmos-und-das-gruene-gewoelbe-spiegel-tv-a-c177361c-1043-484d-8a2d-d5ed0566b0e0#ref=rss)
-### spiegel
+* [https://www.spiegel.de/ausland/israel-veroeffentlich-video-und-macht-islamischen-dschihad-fuer-krankenhaus-explosion-verantwortlich](https://www.spiegel.de/ausland/israel-veroeffentlich-video-und-macht-islamischen-dschihad-fuer-krankenhaus-explosion-verantwortlich-a-a93e6562-7682-4793-b31c-8b69a7e2ebd4#ref=rss)
+### video
 
-* [https://www.spiegel.de/panorama/justiz/der-jahrhundertcoup-die-remmos-und-das-gruene-gewoelbe-spiegel-tv](https://www.spiegel.de/panorama/justiz/der-jahrhundertcoup-die-remmos-und-das-gruene-gewoelbe-spiegel-tv-a-c177361c-1043-484d-8a2d-d5ed0566b0e0#ref=rss)
-### tv
+* [https://www.spiegel.de/ausland/israel-veroeffentlich-video-und-macht-islamischen-dschihad-fuer-krankenhaus-explosion-verantwortlich](https://www.spiegel.de/ausland/israel-veroeffentlich-video-und-macht-islamischen-dschihad-fuer-krankenhaus-explosion-verantwortlich-a-a93e6562-7682-4793-b31c-8b69a7e2ebd4#ref=rss)
+### gazastreifen
 
-* [https://www.spiegel.de/panorama/justiz/der-jahrhundertcoup-die-remmos-und-das-gruene-gewoelbe-spiegel-tv](https://www.spiegel.de/panorama/justiz/der-jahrhundertcoup-die-remmos-und-das-gruene-gewoelbe-spiegel-tv-a-c177361c-1043-484d-8a2d-d5ed0566b0e0#ref=rss)
-### geflüchtete
+* [https://www.spiegel.de/ausland/israel-veroeffentlich-video-und-macht-islamischen-dschihad-fuer-krankenhaus-explosion-verantwortlich](https://www.spiegel.de/ausland/israel-veroeffentlich-video-und-macht-islamischen-dschihad-fuer-krankenhaus-explosion-verantwortlich-a-a93e6562-7682-4793-b31c-8b69a7e2ebd4#ref=rss)
+* [https://www.spiegel.de/ausland/rafah-warum-der-grenzuebergang-im-israel-gaza-krieg-in-den-fokus-rueckt](https://www.spiegel.de/ausland/rafah-warum-der-grenzuebergang-im-israel-gaza-krieg-in-den-fokus-rueckt-a-614f98e1-3c5e-46c9-938e-ec0af039abcd#ref=rss)
+### russland
 
-* [https://www.spiegel.de/wirtschaft/soziales/migration-grosse-mehrheit-will-schnellere-arbeitserlaubnis-fuer-gefluechtete](https://www.spiegel.de/wirtschaft/soziales/migration-grosse-mehrheit-will-schnellere-arbeitserlaubnis-fuer-gefluechtete-a-41e209d0-edb2-4288-bc80-19538a060c52#ref=rss)
-### lange
+* [https://www.spiegel.de/ausland/russland-expertin-ueber-atomtest-es-geht-putin-um-psychologischen-druck](https://www.spiegel.de/ausland/russland-expertin-ueber-atomtest-es-geht-putin-um-psychologischen-druck-a-7ed6d63d-1ebc-481d-b613-ae8063920747#ref=rss)
+* [https://www.spiegel.de/ausland/china-und-russland-xi-jinping-und-wladimir-putin-bekraeftigen-strategische-abstimmung](https://www.spiegel.de/ausland/china-und-russland-xi-jinping-und-wladimir-putin-bekraeftigen-strategische-abstimmung-a-317849da-56b0-497f-aad8-bee399c37478#ref=rss)
+### glaubt
 
-* [https://www.spiegel.de/wirtschaft/soziales/migration-grosse-mehrheit-will-schnellere-arbeitserlaubnis-fuer-gefluechtete](https://www.spiegel.de/wirtschaft/soziales/migration-grosse-mehrheit-will-schnellere-arbeitserlaubnis-fuer-gefluechtete-a-41e209d0-edb2-4288-bc80-19538a060c52#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jusos-spd-jugendverband-beendet-zusammenarbeit-mit-fatah-jugend](https://www.spiegel.de/politik/deutschland/jusos-spd-jugendverband-beendet-zusammenarbeit-mit-fatah-jugend-a-c093895f-93cb-4bc9-9dec-c26272bda7bb#ref=rss)
-### myanmar
+* [https://www.spiegel.de/ausland/russland-expertin-ueber-atomtest-es-geht-putin-um-psychologischen-druck](https://www.spiegel.de/ausland/russland-expertin-ueber-atomtest-es-geht-putin-um-psychologischen-druck-a-7ed6d63d-1ebc-481d-b613-ae8063920747#ref=rss)
+* [https://www.spiegel.de/reise/europa/anbieter-von-airbnb-arbitrage-glaubt-man-ihnen-machen-sie-100-000-euro-monatlich](https://www.spiegel.de/reise/europa/anbieter-von-airbnb-arbitrage-glaubt-man-ihnen-machen-sie-100-000-euro-monatlich-a-d3790f23-e459-44cf-875d-566fc95a4625#ref=rss)
+### dennoch
 
-* [https://www.spiegel.de/wirtschaft/myanmar-wie-deutsche-satellitentechnik-in-eine-militaerdiktatur-gelangte](https://www.spiegel.de/wirtschaft/myanmar-wie-deutsche-satellitentechnik-in-eine-militaerdiktatur-gelangte-a-767909bb-d19c-4454-a435-f2f93c5afc53#ref=rss)
-### satellitentechnik
+* [https://www.spiegel.de/ausland/russland-expertin-ueber-atomtest-es-geht-putin-um-psychologischen-druck](https://www.spiegel.de/ausland/russland-expertin-ueber-atomtest-es-geht-putin-um-psychologischen-druck-a-7ed6d63d-1ebc-481d-b613-ae8063920747#ref=rss)
+* [https://www.spiegel.de/reise/europa/anbieter-von-airbnb-arbitrage-glaubt-man-ihnen-machen-sie-100-000-euro-monatlich](https://www.spiegel.de/reise/europa/anbieter-von-airbnb-arbitrage-glaubt-man-ihnen-machen-sie-100-000-euro-monatlich-a-d3790f23-e459-44cf-875d-566fc95a4625#ref=rss)
+### nico
 
-* [https://www.spiegel.de/wirtschaft/myanmar-wie-deutsche-satellitentechnik-in-eine-militaerdiktatur-gelangte](https://www.spiegel.de/wirtschaft/myanmar-wie-deutsche-satellitentechnik-in-eine-militaerdiktatur-gelangte-a-767909bb-d19c-4454-a435-f2f93c5afc53#ref=rss)
-### kam
+* [https://www.spiegel.de/panorama/leute/nico-santos-wird-zum-ersten-mal-vater-und-verschiebt-deshalb-seine-tour](https://www.spiegel.de/panorama/leute/nico-santos-wird-zum-ersten-mal-vater-und-verschiebt-deshalb-seine-tour-a-f3f06957-65ee-43a8-b9e5-4f7e5e3f0ac6#ref=rss)
+### santos
 
-* [https://www.spiegel.de/wirtschaft/myanmar-wie-deutsche-satellitentechnik-in-eine-militaerdiktatur-gelangte](https://www.spiegel.de/wirtschaft/myanmar-wie-deutsche-satellitentechnik-in-eine-militaerdiktatur-gelangte-a-767909bb-d19c-4454-a435-f2f93c5afc53#ref=rss)
-* [https://www.spiegel.de/panorama/greta-thunberg-offenbar-bei-demonstration-in-london-festgenommen-protest-gegen-energietreffen](https://www.spiegel.de/panorama/greta-thunberg-offenbar-bei-demonstration-in-london-festgenommen-protest-gegen-energietreffen-a-58f09439-1cd6-4a26-9159-f9baa85aa806#ref=rss)
-### offenbar
+* [https://www.spiegel.de/panorama/leute/nico-santos-wird-zum-ersten-mal-vater-und-verschiebt-deshalb-seine-tour](https://www.spiegel.de/panorama/leute/nico-santos-wird-zum-ersten-mal-vater-und-verschiebt-deshalb-seine-tour-a-f3f06957-65ee-43a8-b9e5-4f7e5e3f0ac6#ref=rss)
+### wir
 
-* [https://www.spiegel.de/wirtschaft/myanmar-wie-deutsche-satellitentechnik-in-eine-militaerdiktatur-gelangte](https://www.spiegel.de/wirtschaft/myanmar-wie-deutsche-satellitentechnik-in-eine-militaerdiktatur-gelangte-a-767909bb-d19c-4454-a435-f2f93c5afc53#ref=rss)
-* [https://www.spiegel.de/panorama/greta-thunberg-offenbar-bei-demonstration-in-london-festgenommen-protest-gegen-energietreffen](https://www.spiegel.de/panorama/greta-thunberg-offenbar-bei-demonstration-in-london-festgenommen-protest-gegen-energietreffen-a-58f09439-1cd6-4a26-9159-f9baa85aa806#ref=rss)
-### til
+* [https://www.spiegel.de/panorama/leute/nico-santos-wird-zum-ersten-mal-vater-und-verschiebt-deshalb-seine-tour](https://www.spiegel.de/panorama/leute/nico-santos-wird-zum-ersten-mal-vater-und-verschiebt-deshalb-seine-tour-a-f3f06957-65ee-43a8-b9e5-4f7e5e3f0ac6#ref=rss)
+* [https://www.spiegel.de/gesundheit/barfuss-schuhe-einlegesohlen-dehnungsuebungen-was-gesunde-fuesse-brauchen-und-was-nicht](https://www.spiegel.de/gesundheit/barfuss-schuhe-einlegesohlen-dehnungsuebungen-was-gesunde-fuesse-brauchen-und-was-nicht-a-936c7960-4c00-4778-85b9-410322bbcfec#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/kultur/til-schweiger-constantin-chef-raeumt-schwere-fehler-ein](https://www.spiegel.de/kultur/til-schweiger-constantin-chef-raeumt-schwere-fehler-ein-a-d2fcf894-e75d-4432-b6ec-4ecad89578c9#ref=rss)
-### schweiger
+* [https://www.spiegel.de/ausland/rafah-warum-der-grenzuebergang-im-israel-gaza-krieg-in-den-fokus-rueckt](https://www.spiegel.de/ausland/rafah-warum-der-grenzuebergang-im-israel-gaza-krieg-in-den-fokus-rueckt-a-614f98e1-3c5e-46c9-938e-ec0af039abcd#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-meldet-getoetete-zivilisten-nach-russischem-angriff-auf-saporischschja](https://www.spiegel.de/ausland/ukraine-meldet-getoetete-zivilisten-nach-russischem-angriff-auf-saporischschja-a-d1caf070-6baa-49c4-a5fe-e9b736f47a94#ref=rss)
+### überblick
 
-* [https://www.spiegel.de/kultur/til-schweiger-constantin-chef-raeumt-schwere-fehler-ein](https://www.spiegel.de/kultur/til-schweiger-constantin-chef-raeumt-schwere-fehler-ein-a-d2fcf894-e75d-4432-b6ec-4ecad89578c9#ref=rss)
-### sex
+* [https://www.spiegel.de/ausland/rafah-warum-der-grenzuebergang-im-israel-gaza-krieg-in-den-fokus-rueckt](https://www.spiegel.de/ausland/rafah-warum-der-grenzuebergang-im-israel-gaza-krieg-in-den-fokus-rueckt-a-614f98e1-3c5e-46c9-938e-ec0af039abcd#ref=rss)
+* [https://www.spiegel.de/wissenschaft/marihuana-bundestag-beraet-erstmals-ueber-cannabis-legalisierung](https://www.spiegel.de/wissenschaft/marihuana-bundestag-beraet-erstmals-ueber-cannabis-legalisierung-a-cd2b1351-5360-4e38-be35-4a7508f3ece4#ref=rss)
+### jim
 
-* [https://www.spiegel.de/panorama/justiz/bayern-mann-ignoriert-beim-sex-safeword-der-frau-gericht-verurteilt-ihn-zu-mehrjaehriger-haftstrafe](https://www.spiegel.de/panorama/justiz/bayern-mann-ignoriert-beim-sex-safeword-der-frau-gericht-verurteilt-ihn-zu-mehrjaehriger-haftstrafe-a-65ef28d7-69fd-4387-8765-a8d69a9779b8#ref=rss)
-### frau
+* [https://www.spiegel.de/ausland/us-repraesentantenhaus-jetzt-muss-donald-trump-liebling-jim-jordan-zittern](https://www.spiegel.de/ausland/us-repraesentantenhaus-jetzt-muss-donald-trump-liebling-jim-jordan-zittern-a-3c2fd228-b140-46b2-ba7f-c31577a12a1c#ref=rss)
+### jordan
 
-* [https://www.spiegel.de/panorama/justiz/bayern-mann-ignoriert-beim-sex-safeword-der-frau-gericht-verurteilt-ihn-zu-mehrjaehriger-haftstrafe](https://www.spiegel.de/panorama/justiz/bayern-mann-ignoriert-beim-sex-safeword-der-frau-gericht-verurteilt-ihn-zu-mehrjaehriger-haftstrafe-a-65ef28d7-69fd-4387-8765-a8d69a9779b8#ref=rss)
-### schnurren
+* [https://www.spiegel.de/ausland/us-repraesentantenhaus-jetzt-muss-donald-trump-liebling-jim-jordan-zittern](https://www.spiegel.de/ausland/us-repraesentantenhaus-jetzt-muss-donald-trump-liebling-jim-jordan-zittern-a-3c2fd228-b140-46b2-ba7f-c31577a12a1c#ref=rss)
+### verkehrsrevolution
 
-* [https://www.spiegel.de/panorama/guinessbuch-der-rekorde-katze-bella-holt-dezibel-rekord-fuer-schnurren-so-laut-wie-ein-wasserkocher](https://www.spiegel.de/panorama/guinessbuch-der-rekorde-katze-bella-holt-dezibel-rekord-fuer-schnurren-so-laut-wie-ein-wasserkocher-a-1566a880-401c-49d0-a980-b02565e5a22f#ref=rss)
-### europa
+* [https://www.spiegel.de/auto/von-wegen-verkehrsrevolution-der-oeffentliche-raum-muss-endlich-umverteilt-werden-leitartikel](https://www.spiegel.de/auto/von-wegen-verkehrsrevolution-der-oeffentliche-raum-muss-endlich-umverteilt-werden-leitartikel-a-3d4e9b4e-5766-450d-9a2e-b2610ccae5b8#ref=rss)
+### fürs
 
-* [https://www.spiegel.de/ausland/polen-was-der-sieg-der-opposition-fuer-europa-bedeutet](https://www.spiegel.de/ausland/polen-was-der-sieg-der-opposition-fuer-europa-bedeutet-a-b54f6cd8-1600-44f4-86a5-3aa275f21100#ref=rss)
-### neue
+* [https://www.spiegel.de/auto/von-wegen-verkehrsrevolution-der-oeffentliche-raum-muss-endlich-umverteilt-werden-leitartikel](https://www.spiegel.de/auto/von-wegen-verkehrsrevolution-der-oeffentliche-raum-muss-endlich-umverteilt-werden-leitartikel-a-3d4e9b4e-5766-450d-9a2e-b2610ccae5b8#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-slavoj-zizek-sorgt-mit-eroeffnungsrede-zu-israel-und-palaestina-fuer-tumult](https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-slavoj-zizek-sorgt-mit-eroeffnungsrede-zu-israel-und-palaestina-fuer-tumult-a-bf6091a5-0db8-4d41-a8c8-ff73d8e9af1c#ref=rss)
+### deutschlands
 
-* [https://www.spiegel.de/ausland/polen-was-der-sieg-der-opposition-fuer-europa-bedeutet](https://www.spiegel.de/ausland/polen-was-der-sieg-der-opposition-fuer-europa-bedeutet-a-b54f6cd8-1600-44f4-86a5-3aa275f21100#ref=rss)
-* [https://www.spiegel.de/netzwelt/games/meta-quest-3-im-test-das-kann-metas-neue-vr-und-mixed-reality-brille](https://www.spiegel.de/netzwelt/games/meta-quest-3-im-test-das-kann-metas-neue-vr-und-mixed-reality-brille-a-242dd01a-5eaf-420b-a548-9f093c04433a#ref=rss)
-### arbeitgeber
+* [https://www.spiegel.de/wirtschaft/aquakultur-warum-fast-nur-noch-auslaendischer-fisch-auf-deutschlands-teller-kommt](https://www.spiegel.de/wirtschaft/aquakultur-warum-fast-nur-noch-auslaendischer-fisch-auf-deutschlands-teller-kommt-a-885b8dcb-bee8-411c-b986-7af766f6f265#ref=rss)
+* [https://www.spiegel.de/reise/europa/anbieter-von-airbnb-arbitrage-glaubt-man-ihnen-machen-sie-100-000-euro-monatlich](https://www.spiegel.de/reise/europa/anbieter-von-airbnb-arbitrage-glaubt-man-ihnen-machen-sie-100-000-euro-monatlich-a-d3790f23-e459-44cf-875d-566fc95a4625#ref=rss)
+### vielen
 
-* [https://www.spiegel.de/karriere/kinderwunschbehandlung-vom-arbeitgeber-chef-ich-will-ein-kind-von-dir](https://www.spiegel.de/karriere/kinderwunschbehandlung-vom-arbeitgeber-chef-ich-will-ein-kind-von-dir-a-aecbea79-ea43-4ed9-8c50-1bf0c2741af1#ref=rss)
-### quest
+* [https://www.spiegel.de/wirtschaft/aquakultur-warum-fast-nur-noch-auslaendischer-fisch-auf-deutschlands-teller-kommt](https://www.spiegel.de/wirtschaft/aquakultur-warum-fast-nur-noch-auslaendischer-fisch-auf-deutschlands-teller-kommt-a-885b8dcb-bee8-411c-b986-7af766f6f265#ref=rss)
+* [https://www.spiegel.de/reise/europa/anbieter-von-airbnb-arbitrage-glaubt-man-ihnen-machen-sie-100-000-euro-monatlich](https://www.spiegel.de/reise/europa/anbieter-von-airbnb-arbitrage-glaubt-man-ihnen-machen-sie-100-000-euro-monatlich-a-d3790f23-e459-44cf-875d-566fc95a4625#ref=rss)
+### knapp
 
-* [https://www.spiegel.de/netzwelt/games/meta-quest-3-im-test-das-kann-metas-neue-vr-und-mixed-reality-brille](https://www.spiegel.de/netzwelt/games/meta-quest-3-im-test-das-kann-metas-neue-vr-und-mixed-reality-brille-a-242dd01a-5eaf-420b-a548-9f093c04433a#ref=rss)
-### 3
+* [https://www.spiegel.de/reise/europa/anbieter-von-airbnb-arbitrage-glaubt-man-ihnen-machen-sie-100-000-euro-monatlich](https://www.spiegel.de/reise/europa/anbieter-von-airbnb-arbitrage-glaubt-man-ihnen-machen-sie-100-000-euro-monatlich-a-d3790f23-e459-44cf-875d-566fc95a4625#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/niederlande-ermittler-entdecken-knapp-acht-tonnen-kokain-in-lkw](https://www.spiegel.de/panorama/justiz/niederlande-ermittler-entdecken-knapp-acht-tonnen-kokain-in-lkw-a-36897d24-e9ea-48dd-a4c7-49ecbe02f7ed#ref=rss)
+### selten
 
-* [https://www.spiegel.de/netzwelt/games/meta-quest-3-im-test-das-kann-metas-neue-vr-und-mixed-reality-brille](https://www.spiegel.de/netzwelt/games/meta-quest-3-im-test-das-kann-metas-neue-vr-und-mixed-reality-brille-a-242dd01a-5eaf-420b-a548-9f093c04433a#ref=rss)
-### metas
+* [https://www.spiegel.de/reise/europa/anbieter-von-airbnb-arbitrage-glaubt-man-ihnen-machen-sie-100-000-euro-monatlich](https://www.spiegel.de/reise/europa/anbieter-von-airbnb-arbitrage-glaubt-man-ihnen-machen-sie-100-000-euro-monatlich-a-d3790f23-e459-44cf-875d-566fc95a4625#ref=rss)
+* [https://www.spiegel.de/gesundheit/barfuss-schuhe-einlegesohlen-dehnungsuebungen-was-gesunde-fuesse-brauchen-und-was-nicht](https://www.spiegel.de/gesundheit/barfuss-schuhe-einlegesohlen-dehnungsuebungen-was-gesunde-fuesse-brauchen-und-was-nicht-a-936c7960-4c00-4778-85b9-410322bbcfec#ref=rss)
+### füße
 
-* [https://www.spiegel.de/netzwelt/games/meta-quest-3-im-test-das-kann-metas-neue-vr-und-mixed-reality-brille](https://www.spiegel.de/netzwelt/games/meta-quest-3-im-test-das-kann-metas-neue-vr-und-mixed-reality-brille-a-242dd01a-5eaf-420b-a548-9f093c04433a#ref=rss)
-### thyssenkrupp
+* [https://www.spiegel.de/gesundheit/barfuss-schuhe-einlegesohlen-dehnungsuebungen-was-gesunde-fuesse-brauchen-und-was-nicht](https://www.spiegel.de/gesundheit/barfuss-schuhe-einlegesohlen-dehnungsuebungen-was-gesunde-fuesse-brauchen-und-was-nicht-a-936c7960-4c00-4778-85b9-410322bbcfec#ref=rss)
+### ermittler
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-steel-ig-metall-droht-mit-widerstand-gegen-verkauf-an-daniel-kretinsky](https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-steel-ig-metall-droht-mit-widerstand-gegen-verkauf-an-daniel-kretinsky-a-8a7845a8-b99a-4cdf-a498-ab5cad371f97#ref=rss)
-### widerstand
+* [https://www.spiegel.de/panorama/justiz/niederlande-ermittler-entdecken-knapp-acht-tonnen-kokain-in-lkw](https://www.spiegel.de/panorama/justiz/niederlande-ermittler-entdecken-knapp-acht-tonnen-kokain-in-lkw-a-36897d24-e9ea-48dd-a4c7-49ecbe02f7ed#ref=rss)
+### tonnen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-steel-ig-metall-droht-mit-widerstand-gegen-verkauf-an-daniel-kretinsky](https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-steel-ig-metall-droht-mit-widerstand-gegen-verkauf-an-daniel-kretinsky-a-8a7845a8-b99a-4cdf-a498-ab5cad371f97#ref=rss)
-### křetínský
+* [https://www.spiegel.de/panorama/justiz/niederlande-ermittler-entdecken-knapp-acht-tonnen-kokain-in-lkw](https://www.spiegel.de/panorama/justiz/niederlande-ermittler-entdecken-knapp-acht-tonnen-kokain-in-lkw-a-36897d24-e9ea-48dd-a4c7-49ecbe02f7ed#ref=rss)
+### kokain
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-steel-ig-metall-droht-mit-widerstand-gegen-verkauf-an-daniel-kretinsky](https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-steel-ig-metall-droht-mit-widerstand-gegen-verkauf-an-daniel-kretinsky-a-8a7845a8-b99a-4cdf-a498-ab5cad371f97#ref=rss)
-### jusos
+* [https://www.spiegel.de/panorama/justiz/niederlande-ermittler-entdecken-knapp-acht-tonnen-kokain-in-lkw](https://www.spiegel.de/panorama/justiz/niederlande-ermittler-entdecken-knapp-acht-tonnen-kokain-in-lkw-a-36897d24-e9ea-48dd-a4c7-49ecbe02f7ed#ref=rss)
+### baugenehmigungen
 
-* [https://www.spiegel.de/politik/deutschland/jusos-spd-jugendverband-beendet-zusammenarbeit-mit-fatah-jugend](https://www.spiegel.de/politik/deutschland/jusos-spd-jugendverband-beendet-zusammenarbeit-mit-fatah-jugend-a-c093895f-93cb-4bc9-9dec-c26272bda7bb#ref=rss)
-### fatahjugend
+* [https://www.spiegel.de/wirtschaft/service/baugenehmigungen-zahl-stuerzt-auf-niedrigsten-stand-seit-zehn-jahren](https://www.spiegel.de/wirtschaft/service/baugenehmigungen-zahl-stuerzt-auf-niedrigsten-stand-seit-zehn-jahren-a-0f13332a-8124-44b2-a5e9-eb9b747fff29#ref=rss)
+### marihuana
 
-* [https://www.spiegel.de/politik/deutschland/jusos-spd-jugendverband-beendet-zusammenarbeit-mit-fatah-jugend](https://www.spiegel.de/politik/deutschland/jusos-spd-jugendverband-beendet-zusammenarbeit-mit-fatah-jugend-a-c093895f-93cb-4bc9-9dec-c26272bda7bb#ref=rss)
-### greta
+* [https://www.spiegel.de/wissenschaft/marihuana-bundestag-beraet-erstmals-ueber-cannabis-legalisierung](https://www.spiegel.de/wissenschaft/marihuana-bundestag-beraet-erstmals-ueber-cannabis-legalisierung-a-cd2b1351-5360-4e38-be35-4a7508f3ece4#ref=rss)
+### länder
 
-* [https://www.spiegel.de/panorama/greta-thunberg-offenbar-bei-demonstration-in-london-festgenommen-protest-gegen-energietreffen](https://www.spiegel.de/panorama/greta-thunberg-offenbar-bei-demonstration-in-london-festgenommen-protest-gegen-energietreffen-a-58f09439-1cd6-4a26-9159-f9baa85aa806#ref=rss)
-### thunberg
+* [https://www.spiegel.de/wissenschaft/marihuana-bundestag-beraet-erstmals-ueber-cannabis-legalisierung](https://www.spiegel.de/wissenschaft/marihuana-bundestag-beraet-erstmals-ueber-cannabis-legalisierung-a-cd2b1351-5360-4e38-be35-4a7508f3ece4#ref=rss)
+* [https://www.spiegel.de/ausland/china-und-russland-xi-jinping-und-wladimir-putin-bekraeftigen-strategische-abstimmung](https://www.spiegel.de/ausland/china-und-russland-xi-jinping-und-wladimir-putin-bekraeftigen-strategische-abstimmung-a-317849da-56b0-497f-aad8-bee399c37478#ref=rss)
+### joe
 
-* [https://www.spiegel.de/panorama/greta-thunberg-offenbar-bei-demonstration-in-london-festgenommen-protest-gegen-energietreffen](https://www.spiegel.de/panorama/greta-thunberg-offenbar-bei-demonstration-in-london-festgenommen-protest-gegen-energietreffen-a-58f09439-1cd6-4a26-9159-f9baa85aa806#ref=rss)
-### london
+* [https://www.spiegel.de/ausland/israel-joe-biden-zum-solidaritaetsbesuch-gelandet](https://www.spiegel.de/ausland/israel-joe-biden-zum-solidaritaetsbesuch-gelandet-a-295d0d8d-ed15-467f-8294-05002683e2a4#ref=rss)
+### lage
 
-* [https://www.spiegel.de/panorama/greta-thunberg-offenbar-bei-demonstration-in-london-festgenommen-protest-gegen-energietreffen](https://www.spiegel.de/panorama/greta-thunberg-offenbar-bei-demonstration-in-london-festgenommen-protest-gegen-energietreffen-a-58f09439-1cd6-4a26-9159-f9baa85aa806#ref=rss)
-### libanon
+* [https://www.spiegel.de/ausland/israel-joe-biden-zum-solidaritaetsbesuch-gelandet](https://www.spiegel.de/ausland/israel-joe-biden-zum-solidaritaetsbesuch-gelandet-a-295d0d8d-ed15-467f-8294-05002683e2a4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-unbekannte-verueben-brandanschlag-auf-juedische-gemeinde-in-brunnenstrasse](https://www.spiegel.de/politik/deutschland/berlin-unbekannte-verueben-brandanschlag-auf-juedische-gemeinde-in-brunnenstrasse-a-8d368153-6db2-41d6-a70e-684bcc21300b#ref=rss)
+### präsident
 
-* [https://www.spiegel.de/ausland/libanon-sie-sagen-es-sei-der-unsinnigste-absurdeste-krieg](https://www.spiegel.de/ausland/libanon-sie-sagen-es-sei-der-unsinnigste-absurdeste-krieg-a-b477124d-1722-42bb-b123-870dd49cf654#ref=rss)
-### bbcdoku
+* [https://www.spiegel.de/ausland/israel-joe-biden-zum-solidaritaetsbesuch-gelandet](https://www.spiegel.de/ausland/israel-joe-biden-zum-solidaritaetsbesuch-gelandet-a-295d0d8d-ed15-467f-8294-05002683e2a4#ref=rss)
+* [https://www.spiegel.de/ausland/china-und-russland-xi-jinping-und-wladimir-putin-bekraeftigen-strategische-abstimmung](https://www.spiegel.de/ausland/china-und-russland-xi-jinping-und-wladimir-putin-bekraeftigen-strategische-abstimmung-a-317849da-56b0-497f-aad8-bee399c37478#ref=rss)
+### jüdische
 
-* [https://www.spiegel.de/kultur/bbc-doku-planet-earth-iii-mit-david-attenborough-18-drehtage-in-der-hoehle-mit-500-kilo-equipment](https://www.spiegel.de/kultur/bbc-doku-planet-earth-iii-mit-david-attenborough-18-drehtage-in-der-hoehle-mit-500-kilo-equipment-a-d1857724-442d-4d43-9662-108827773f45#ref=rss)
-### david
+* [https://www.spiegel.de/politik/deutschland/berlin-unbekannte-verueben-brandanschlag-auf-juedische-gemeinde-in-brunnenstrasse](https://www.spiegel.de/politik/deutschland/berlin-unbekannte-verueben-brandanschlag-auf-juedische-gemeinde-in-brunnenstrasse-a-8d368153-6db2-41d6-a70e-684bcc21300b#ref=rss)
+### gemeinde
 
-* [https://www.spiegel.de/kultur/bbc-doku-planet-earth-iii-mit-david-attenborough-18-drehtage-in-der-hoehle-mit-500-kilo-equipment](https://www.spiegel.de/kultur/bbc-doku-planet-earth-iii-mit-david-attenborough-18-drehtage-in-der-hoehle-mit-500-kilo-equipment-a-d1857724-442d-4d43-9662-108827773f45#ref=rss)
-### attenborough
+* [https://www.spiegel.de/politik/deutschland/berlin-unbekannte-verueben-brandanschlag-auf-juedische-gemeinde-in-brunnenstrasse](https://www.spiegel.de/politik/deutschland/berlin-unbekannte-verueben-brandanschlag-auf-juedische-gemeinde-in-brunnenstrasse-a-8d368153-6db2-41d6-a70e-684bcc21300b#ref=rss)
+### frankfurter
 
-* [https://www.spiegel.de/kultur/bbc-doku-planet-earth-iii-mit-david-attenborough-18-drehtage-in-der-hoehle-mit-500-kilo-equipment](https://www.spiegel.de/kultur/bbc-doku-planet-earth-iii-mit-david-attenborough-18-drehtage-in-der-hoehle-mit-500-kilo-equipment-a-d1857724-442d-4d43-9662-108827773f45#ref=rss)
-### sandro
+* [https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-slavoj-zizek-sorgt-mit-eroeffnungsrede-zu-israel-und-palaestina-fuer-tumult](https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-slavoj-zizek-sorgt-mit-eroeffnungsrede-zu-israel-und-palaestina-fuer-tumult-a-bf6091a5-0db8-4d41-a8c8-ff73d8e9af1c#ref=rss)
+### buchmesse
 
-* [https://www.spiegel.de/sport/fussball/fussball-wettskandal-in-italien-sandro-tonali-und-das-alte-trauma-des-calcio](https://www.spiegel.de/sport/fussball/fussball-wettskandal-in-italien-sandro-tonali-und-das-alte-trauma-des-calcio-a-1251b371-970d-44d9-90d0-bce2d19f7264#ref=rss)
-### tonali
+* [https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-slavoj-zizek-sorgt-mit-eroeffnungsrede-zu-israel-und-palaestina-fuer-tumult](https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-slavoj-zizek-sorgt-mit-eroeffnungsrede-zu-israel-und-palaestina-fuer-tumult-a-bf6091a5-0db8-4d41-a8c8-ff73d8e9af1c#ref=rss)
+### slavoj
 
-* [https://www.spiegel.de/sport/fussball/fussball-wettskandal-in-italien-sandro-tonali-und-das-alte-trauma-des-calcio](https://www.spiegel.de/sport/fussball/fussball-wettskandal-in-italien-sandro-tonali-und-das-alte-trauma-des-calcio-a-1251b371-970d-44d9-90d0-bce2d19f7264#ref=rss)
-### bergkarabach
+* [https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-slavoj-zizek-sorgt-mit-eroeffnungsrede-zu-israel-und-palaestina-fuer-tumult](https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-slavoj-zizek-sorgt-mit-eroeffnungsrede-zu-israel-und-palaestina-fuer-tumult-a-bf6091a5-0db8-4d41-a8c8-ff73d8e9af1c#ref=rss)
+### žižek
 
-* [https://www.spiegel.de/ausland/bergkarabach-armeniens-regierungschef-nikol-paschinjan-haelt-friedensabkommen-vor-jahresende-fuer-realistisch](https://www.spiegel.de/ausland/bergkarabach-armeniens-regierungschef-nikol-paschinjan-haelt-friedensabkommen-vor-jahresende-fuer-realistisch-a-deead853-2891-4654-852c-a6dd5a753f0e#ref=rss)
-### armeniens
+* [https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-slavoj-zizek-sorgt-mit-eroeffnungsrede-zu-israel-und-palaestina-fuer-tumult](https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-slavoj-zizek-sorgt-mit-eroeffnungsrede-zu-israel-und-palaestina-fuer-tumult-a-bf6091a5-0db8-4d41-a8c8-ff73d8e9af1c#ref=rss)
+### saporischschja
 
-* [https://www.spiegel.de/ausland/bergkarabach-armeniens-regierungschef-nikol-paschinjan-haelt-friedensabkommen-vor-jahresende-fuer-realistisch](https://www.spiegel.de/ausland/bergkarabach-armeniens-regierungschef-nikol-paschinjan-haelt-friedensabkommen-vor-jahresende-fuer-realistisch-a-deead853-2891-4654-852c-a6dd5a753f0e#ref=rss)
-### friedensabkommen
+* [https://www.spiegel.de/ausland/ukraine-meldet-getoetete-zivilisten-nach-russischem-angriff-auf-saporischschja](https://www.spiegel.de/ausland/ukraine-meldet-getoetete-zivilisten-nach-russischem-angriff-auf-saporischschja-a-d1caf070-6baa-49c4-a5fe-e9b736f47a94#ref=rss)
+### usareise
 
-* [https://www.spiegel.de/ausland/bergkarabach-armeniens-regierungschef-nikol-paschinjan-haelt-friedensabkommen-vor-jahresende-fuer-realistisch](https://www.spiegel.de/ausland/bergkarabach-armeniens-regierungschef-nikol-paschinjan-haelt-friedensabkommen-vor-jahresende-fuer-realistisch-a-deead853-2891-4654-852c-a6dd5a753f0e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bilanz-der-usa-reise-der-nationalmannschaft-die-rocky-steps-des-julian-nagelsmann](https://www.spiegel.de/sport/fussball/fussball-bilanz-der-usa-reise-der-nationalmannschaft-die-rocky-steps-des-julian-nagelsmann-a-82f8b619-08ba-4564-9775-60950ebfcaad#ref=rss)
+### julian
+
+* [https://www.spiegel.de/sport/fussball/fussball-bilanz-der-usa-reise-der-nationalmannschaft-die-rocky-steps-des-julian-nagelsmann](https://www.spiegel.de/sport/fussball/fussball-bilanz-der-usa-reise-der-nationalmannschaft-die-rocky-steps-des-julian-nagelsmann-a-82f8b619-08ba-4564-9775-60950ebfcaad#ref=rss)
+### nagelsmann
+
+* [https://www.spiegel.de/sport/fussball/fussball-bilanz-der-usa-reise-der-nationalmannschaft-die-rocky-steps-des-julian-nagelsmann](https://www.spiegel.de/sport/fussball/fussball-bilanz-der-usa-reise-der-nationalmannschaft-die-rocky-steps-des-julian-nagelsmann-a-82f8b619-08ba-4564-9775-60950ebfcaad#ref=rss)
+### bürokratie
+
+* [https://www.spiegel.de/wirtschaft/warum-buerokratie-kein-problem-ist-eine-miese-verwaltung-aber-schon](https://www.spiegel.de/wirtschaft/warum-buerokratie-kein-problem-ist-eine-miese-verwaltung-aber-schon-a-7bd7014a-e849-4a85-99e4-fbe154a70443#ref=rss)
+### xi
+
+* [https://www.spiegel.de/ausland/china-und-russland-xi-jinping-und-wladimir-putin-bekraeftigen-strategische-abstimmung](https://www.spiegel.de/ausland/china-und-russland-xi-jinping-und-wladimir-putin-bekraeftigen-strategische-abstimmung-a-317849da-56b0-497f-aad8-bee399c37478#ref=rss)
 
