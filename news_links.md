@@ -6,310 +6,275 @@ tags: __no_header__
 
 ### israel
 
-* [https://www.spiegel.de/ausland/israel-und-der-krieg-gegen-die-hamas-das-versagen-des-koenigs](https://www.spiegel.de/ausland/israel-und-der-krieg-gegen-die-hamas-das-versagen-des-koenigs-a-96ae37fc-36ec-47c5-99de-8855ecea1c9c#ref=rss)
-* [https://www.spiegel.de/ausland/israel-ex-premier-ehud-barak-kritisiert-benjamin-netanyahu-scharf](https://www.spiegel.de/ausland/israel-ex-premier-ehud-barak-kritisiert-benjamin-netanyahu-scharf-a-5e817507-5575-4daf-b782-055a74700142#ref=rss)
-* [https://www.spiegel.de/wirtschaft/iran-export-deutscher-firmen-die-unverbesserlichen](https://www.spiegel.de/wirtschaft/iran-export-deutscher-firmen-die-unverbesserlichen-a-1f24b774-3b23-4725-bf81-11419daed4e9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hamas-terror-gegen-israel-wie-der-nahostkonflikt-den-judenhass-in-deutschland-offenlegt](https://www.spiegel.de/politik/deutschland/hamas-terror-gegen-israel-wie-der-nahostkonflikt-den-judenhass-in-deutschland-offenlegt-a-2ac84fd6-56ec-435f-a632-028e51712d2a#ref=rss)
-* [https://www.spiegel.de/ausland/jim-jordan-chaos-im-us-kongress-peinlich-fuer-amerika](https://www.spiegel.de/ausland/jim-jordan-chaos-im-us-kongress-peinlich-fuer-amerika-a-47f9c708-b369-4f11-b792-fe241869846f#ref=rss)
-* [https://www.spiegel.de/ausland/israel-offensive-gegen-hamas-im-gazastreifen-es-geht-um-haerte](https://www.spiegel.de/ausland/israel-offensive-gegen-hamas-im-gazastreifen-es-geht-um-haerte-a-9261b964-9d57-4942-8863-e725c4c068c0#ref=rss)
-### neue
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-ueber-migration-es-kommen-zu-viele](https://www.spiegel.de/politik/deutschland/olaf-scholz-ueber-migration-es-kommen-zu-viele-a-2d86d2ac-e55a-4b8f-9766-c7060c2dc38a#ref=rss)
-* [https://www.spiegel.de/ausland/polens-neue-regierung-von-der-feindschaft-zu-kaczynski-zusammengehalten](https://www.spiegel.de/ausland/polens-neue-regierung-von-der-feindschaft-zu-kaczynski-zusammengehalten-a-c98abaa8-483b-4893-9ba0-ec2c6287f0d5#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/tausende-nordkoreanische-fernarbeiter-in-den-usa-finanzieren-angeblich-raketenprogramm-mit](https://www.spiegel.de/netzwelt/web/tausende-nordkoreanische-fernarbeiter-in-den-usa-finanzieren-angeblich-raketenprogramm-mit-a-2677e5ea-a00c-4e08-823c-49200debdc0f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spaltung-der-linken-die-wagenknecht-partei-schwaecht-die-demokratie](https://www.spiegel.de/politik/deutschland/spaltung-der-linken-die-wagenknecht-partei-schwaecht-die-demokratie-a-77d17143-f244-4a87-9c23-bae7b625831f#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-ueber-migration-es-kommen-zu-viele](https://www.spiegel.de/politik/deutschland/olaf-scholz-ueber-migration-es-kommen-zu-viele-a-2d86d2ac-e55a-4b8f-9766-c7060c2dc38a#ref=rss)
-* [https://www.spiegel.de/kultur/deutsche-filmemacherin-margarethe-von-trotta-die-nomadin](https://www.spiegel.de/kultur/deutsche-filmemacherin-margarethe-von-trotta-die-nomadin-a-d14edfaa-124c-4038-91c2-2d8fdc1f559a#ref=rss)
-* [https://www.spiegel.de/kultur/tv/strack-zimmermann-bei-markus-lanz-knallharter-antisemitismus](https://www.spiegel.de/kultur/tv/strack-zimmermann-bei-markus-lanz-knallharter-antisemitismus-a-36080c3f-c46a-494c-8cd3-00a2af0565a0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hamas-terror-gegen-israel-wie-der-nahostkonflikt-den-judenhass-in-deutschland-offenlegt](https://www.spiegel.de/politik/deutschland/hamas-terror-gegen-israel-wie-der-nahostkonflikt-den-judenhass-in-deutschland-offenlegt-a-2ac84fd6-56ec-435f-a632-028e51712d2a#ref=rss)
-### ende
-
-* [https://www.spiegel.de/wissenschaft/cop28-wird-die-uno-klimakonferenz-wegen-des-kriegs-in-nahost-abgesagt](https://www.spiegel.de/wissenschaft/cop28-wird-die-uno-klimakonferenz-wegen-des-kriegs-in-nahost-abgesagt-a-180ad24e-e574-469f-96a5-e5565515d6ee#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/streit-in-der-ampel-fdp-droht-gruenen-mit-ende-der-oekostromfoerderung](https://www.spiegel.de/politik/deutschland/streit-in-der-ampel-fdp-droht-gruenen-mit-ende-der-oekostromfoerderung-a-fb103445-7040-4189-9d72-5d2136acbc8b#ref=rss)
-* [https://www.spiegel.de/panorama/buch-am-erlbach-vergesslicher-lehrer-loest-feuerwehreinsatz-aus](https://www.spiegel.de/panorama/buch-am-erlbach-vergesslicher-lehrer-loest-feuerwehreinsatz-aus-a-6d08c596-5b6f-4738-8ef6-e4fea9d7a976#ref=rss)
-* [https://www.spiegel.de/ausland/israel-offensive-gegen-hamas-im-gazastreifen-es-geht-um-haerte](https://www.spiegel.de/ausland/israel-offensive-gegen-hamas-im-gazastreifen-es-geht-um-haerte-a-9261b964-9d57-4942-8863-e725c4c068c0#ref=rss)
-### lange
-
-* [https://www.spiegel.de/kultur/deutsche-filmemacherin-margarethe-von-trotta-die-nomadin](https://www.spiegel.de/kultur/deutsche-filmemacherin-margarethe-von-trotta-die-nomadin-a-d14edfaa-124c-4038-91c2-2d8fdc1f559a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/ruki-in-der-demokratische-republik-kongo-ist-der-wohl-schwaerzeste-fluss-der-welt](https://www.spiegel.de/wissenschaft/natur/ruki-in-der-demokratische-republik-kongo-ist-der-wohl-schwaerzeste-fluss-der-welt-a-f6e532bc-f524-4e76-a708-964d64945e3d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/airasia-chef-tony-fernandes-laesst-sich-oben-massieren-angeblich-waehrend-meeting](https://www.spiegel.de/wirtschaft/unternehmen/airasia-chef-tony-fernandes-laesst-sich-oben-massieren-angeblich-waehrend-meeting-a-808882a4-6f26-4444-aa13-7f15bc8fc982#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-herbe-niederlagen-bei-nachwahlen-fuer-die-tories](https://www.spiegel.de/ausland/grossbritannien-herbe-niederlagen-bei-nachwahlen-fuer-die-tories-a-0382f4d7-b22b-4b9d-bc39-b86d1ff9c5b1#ref=rss)
-### härte
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-ueber-migration-es-kommen-zu-viele](https://www.spiegel.de/politik/deutschland/olaf-scholz-ueber-migration-es-kommen-zu-viele-a-2d86d2ac-e55a-4b8f-9766-c7060c2dc38a#ref=rss)
-* [https://www.spiegel.de/ausland/israel-offensive-gegen-hamas-im-gazastreifen-es-geht-um-haerte](https://www.spiegel.de/ausland/israel-offensive-gegen-hamas-im-gazastreifen-es-geht-um-haerte-a-9261b964-9d57-4942-8863-e725c4c068c0#ref=rss)
-### hamas
-
-* [https://www.spiegel.de/ausland/israel-und-der-krieg-gegen-die-hamas-das-versagen-des-koenigs](https://www.spiegel.de/ausland/israel-und-der-krieg-gegen-die-hamas-das-versagen-des-koenigs-a-96ae37fc-36ec-47c5-99de-8855ecea1c9c#ref=rss)
-* [https://www.spiegel.de/ausland/israel-offensive-gegen-hamas-im-gazastreifen-es-geht-um-haerte](https://www.spiegel.de/ausland/israel-offensive-gegen-hamas-im-gazastreifen-es-geht-um-haerte-a-9261b964-9d57-4942-8863-e725c4c068c0#ref=rss)
-### netanyahu
-
-* [https://www.spiegel.de/ausland/israel-und-der-krieg-gegen-die-hamas-das-versagen-des-koenigs](https://www.spiegel.de/ausland/israel-und-der-krieg-gegen-die-hamas-das-versagen-des-koenigs-a-96ae37fc-36ec-47c5-99de-8855ecea1c9c#ref=rss)
-* [https://www.spiegel.de/ausland/israel-ex-premier-ehud-barak-kritisiert-benjamin-netanyahu-scharf](https://www.spiegel.de/ausland/israel-ex-premier-ehud-barak-kritisiert-benjamin-netanyahu-scharf-a-5e817507-5575-4daf-b782-055a74700142#ref=rss)
-* [https://www.spiegel.de/ausland/israel-offensive-gegen-hamas-im-gazastreifen-es-geht-um-haerte](https://www.spiegel.de/ausland/israel-offensive-gegen-hamas-im-gazastreifen-es-geht-um-haerte-a-9261b964-9d57-4942-8863-e725c4c068c0#ref=rss)
-### strackzimmermann
-
-* [https://www.spiegel.de/kultur/tv/strack-zimmermann-bei-markus-lanz-knallharter-antisemitismus](https://www.spiegel.de/kultur/tv/strack-zimmermann-bei-markus-lanz-knallharter-antisemitismus-a-36080c3f-c46a-494c-8cd3-00a2af0565a0#ref=rss)
-* [https://www.spiegel.de/panorama/dirk-niebel-empoerung-ueber-ex-minister-nach-facebook-post-ueber-zukunft-des-gaza-streifens](https://www.spiegel.de/panorama/dirk-niebel-empoerung-ueber-ex-minister-nach-facebook-post-ueber-zukunft-des-gaza-streifens-a-3eee5b7b-c2de-4b81-aeba-facd31229158#ref=rss)
-### fdp
-
-* [https://www.spiegel.de/panorama/dirk-niebel-empoerung-ueber-ex-minister-nach-facebook-post-ueber-zukunft-des-gaza-streifens](https://www.spiegel.de/panorama/dirk-niebel-empoerung-ueber-ex-minister-nach-facebook-post-ueber-zukunft-des-gaza-streifens-a-3eee5b7b-c2de-4b81-aeba-facd31229158#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/streit-in-der-ampel-fdp-droht-gruenen-mit-ende-der-oekostromfoerderung](https://www.spiegel.de/politik/deutschland/streit-in-der-ampel-fdp-droht-gruenen-mit-ende-der-oekostromfoerderung-a-fb103445-7040-4189-9d72-5d2136acbc8b#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/ausland/polens-neue-regierung-von-der-feindschaft-zu-kaczynski-zusammengehalten](https://www.spiegel.de/ausland/polens-neue-regierung-von-der-feindschaft-zu-kaczynski-zusammengehalten-a-c98abaa8-483b-4893-9ba0-ec2c6287f0d5#ref=rss)
-* [https://www.spiegel.de/ausland/italien-gewerkschaften-protestieren-mit-generalstreik-gegen-melonis-regierung](https://www.spiegel.de/ausland/italien-gewerkschaften-protestieren-mit-generalstreik-gegen-melonis-regierung-a-797e7952-dac7-453b-afc4-bb7212bb4f2e#ref=rss)
-### firmen
-
-* [https://www.spiegel.de/wirtschaft/iran-export-deutscher-firmen-die-unverbesserlichen](https://www.spiegel.de/wirtschaft/iran-export-deutscher-firmen-die-unverbesserlichen-a-1f24b774-3b23-4725-bf81-11419daed4e9#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/tausende-nordkoreanische-fernarbeiter-in-den-usa-finanzieren-angeblich-raketenprogramm-mit](https://www.spiegel.de/netzwelt/web/tausende-nordkoreanische-fernarbeiter-in-den-usa-finanzieren-angeblich-raketenprogramm-mit-a-2677e5ea-a00c-4e08-823c-49200debdc0f#ref=rss)
-### grünen
-
-* [https://www.spiegel.de/politik/deutschland/streit-in-der-ampel-fdp-droht-gruenen-mit-ende-der-oekostromfoerderung](https://www.spiegel.de/politik/deutschland/streit-in-der-ampel-fdp-droht-gruenen-mit-ende-der-oekostromfoerderung-a-fb103445-7040-4189-9d72-5d2136acbc8b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/die-gruenen-co-chefin-der-parteijugend-sarah-lee-heinrich-fordert-kurswechsel](https://www.spiegel.de/politik/deutschland/die-gruenen-co-chefin-der-parteijugend-sarah-lee-heinrich-fordert-kurswechsel-a-db85d42b-6f06-4582-b702-e3a4e99c4dc3#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/panorama/buch-am-erlbach-vergesslicher-lehrer-loest-feuerwehreinsatz-aus](https://www.spiegel.de/panorama/buch-am-erlbach-vergesslicher-lehrer-loest-feuerwehreinsatz-aus-a-6d08c596-5b6f-4738-8ef6-e4fea9d7a976#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-noussair-mazraoui-drohen-nach-pro-palaestina-posts-keine-konsequenzen](https://www.spiegel.de/sport/fussball/fc-bayern-noussair-mazraoui-drohen-nach-pro-palaestina-posts-keine-konsequenzen-a-f0f791ba-dd33-4c9d-a1d7-9d6fc52a692a#ref=rss)
-### partei
-
-* [https://www.spiegel.de/ausland/jim-jordan-chaos-im-us-kongress-peinlich-fuer-amerika](https://www.spiegel.de/ausland/jim-jordan-chaos-im-us-kongress-peinlich-fuer-amerika-a-47f9c708-b369-4f11-b792-fe241869846f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/die-gruenen-co-chefin-der-parteijugend-sarah-lee-heinrich-fordert-kurswechsel](https://www.spiegel.de/politik/deutschland/die-gruenen-co-chefin-der-parteijugend-sarah-lee-heinrich-fordert-kurswechsel-a-db85d42b-6f06-4582-b702-e3a4e99c4dc3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spaltung-der-linken-die-wagenknecht-partei-schwaecht-die-demokratie](https://www.spiegel.de/politik/deutschland/spaltung-der-linken-die-wagenknecht-partei-schwaecht-die-demokratie-a-77d17143-f244-4a87-9c23-bae7b625831f#ref=rss)
-### olaf
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-ueber-migration-es-kommen-zu-viele](https://www.spiegel.de/politik/deutschland/olaf-scholz-ueber-migration-es-kommen-zu-viele-a-2d86d2ac-e55a-4b8f-9766-c7060c2dc38a#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-ueber-migration-es-kommen-zu-viele](https://www.spiegel.de/politik/deutschland/olaf-scholz-ueber-migration-es-kommen-zu-viele-a-2d86d2ac-e55a-4b8f-9766-c7060c2dc38a#ref=rss)
-### wir
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-ueber-migration-es-kommen-zu-viele](https://www.spiegel.de/politik/deutschland/olaf-scholz-ueber-migration-es-kommen-zu-viele-a-2d86d2ac-e55a-4b8f-9766-c7060c2dc38a#ref=rss)
-* [https://www.spiegel.de/ausland/israel-offensive-gegen-hamas-im-gazastreifen-es-geht-um-haerte](https://www.spiegel.de/ausland/israel-offensive-gegen-hamas-im-gazastreifen-es-geht-um-haerte-a-9261b964-9d57-4942-8863-e725c4c068c0#ref=rss)
-### jüdinnen
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-ueber-migration-es-kommen-zu-viele](https://www.spiegel.de/politik/deutschland/olaf-scholz-ueber-migration-es-kommen-zu-viele-a-2d86d2ac-e55a-4b8f-9766-c7060c2dc38a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hamas-terror-gegen-israel-wie-der-nahostkonflikt-den-judenhass-in-deutschland-offenlegt](https://www.spiegel.de/politik/deutschland/hamas-terror-gegen-israel-wie-der-nahostkonflikt-den-judenhass-in-deutschland-offenlegt-a-2ac84fd6-56ec-435f-a632-028e51712d2a#ref=rss)
-### juden
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-ueber-migration-es-kommen-zu-viele](https://www.spiegel.de/politik/deutschland/olaf-scholz-ueber-migration-es-kommen-zu-viele-a-2d86d2ac-e55a-4b8f-9766-c7060c2dc38a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hamas-terror-gegen-israel-wie-der-nahostkonflikt-den-judenhass-in-deutschland-offenlegt](https://www.spiegel.de/politik/deutschland/hamas-terror-gegen-israel-wie-der-nahostkonflikt-den-judenhass-in-deutschland-offenlegt-a-2ac84fd6-56ec-435f-a632-028e51712d2a#ref=rss)
-### krieg
-
-* [https://www.spiegel.de/wissenschaft/cop28-wird-die-uno-klimakonferenz-wegen-des-kriegs-in-nahost-abgesagt](https://www.spiegel.de/wissenschaft/cop28-wird-die-uno-klimakonferenz-wegen-des-kriegs-in-nahost-abgesagt-a-180ad24e-e574-469f-96a5-e5565515d6ee#ref=rss)
-* [https://www.spiegel.de/ausland/israel-und-der-krieg-gegen-die-hamas-das-versagen-des-koenigs](https://www.spiegel.de/ausland/israel-und-der-krieg-gegen-die-hamas-das-versagen-des-koenigs-a-96ae37fc-36ec-47c5-99de-8855ecea1c9c#ref=rss)
-### nahen
-
-* [https://www.spiegel.de/wissenschaft/cop28-wird-die-uno-klimakonferenz-wegen-des-kriegs-in-nahost-abgesagt](https://www.spiegel.de/wissenschaft/cop28-wird-die-uno-klimakonferenz-wegen-des-kriegs-in-nahost-abgesagt-a-180ad24e-e574-469f-96a5-e5565515d6ee#ref=rss)
-* [https://www.spiegel.de/ausland/israel-und-der-krieg-gegen-die-hamas-das-versagen-des-koenigs](https://www.spiegel.de/ausland/israel-und-der-krieg-gegen-die-hamas-das-versagen-des-koenigs-a-96ae37fc-36ec-47c5-99de-8855ecea1c9c#ref=rss)
-### erste
-
-* [https://www.spiegel.de/wissenschaft/cop28-wird-die-uno-klimakonferenz-wegen-des-kriegs-in-nahost-abgesagt](https://www.spiegel.de/wissenschaft/cop28-wird-die-uno-klimakonferenz-wegen-des-kriegs-in-nahost-abgesagt-a-180ad24e-e574-469f-96a5-e5565515d6ee#ref=rss)
-* [https://www.spiegel.de/panorama/sturmflut-an-der-ostseekueste-erste-uferbereiche-und-strassen-ueberschwemmt](https://www.spiegel.de/panorama/sturmflut-an-der-ostseekueste-erste-uferbereiche-und-strassen-ueberschwemmt-a-75cc7b02-1ede-41ae-b684-e57bc3881ff3#ref=rss)
-### versagen
-
-* [https://www.spiegel.de/ausland/israel-und-der-krieg-gegen-die-hamas-das-versagen-des-koenigs](https://www.spiegel.de/ausland/israel-und-der-krieg-gegen-die-hamas-das-versagen-des-koenigs-a-96ae37fc-36ec-47c5-99de-8855ecea1c9c#ref=rss)
-* [https://www.spiegel.de/ausland/israel-ex-premier-ehud-barak-kritisiert-benjamin-netanyahu-scharf](https://www.spiegel.de/ausland/israel-ex-premier-ehud-barak-kritisiert-benjamin-netanyahu-scharf-a-5e817507-5575-4daf-b782-055a74700142#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/ausland/israel-und-der-krieg-gegen-die-hamas-das-versagen-des-koenigs](https://www.spiegel.de/ausland/israel-und-der-krieg-gegen-die-hamas-das-versagen-des-koenigs-a-96ae37fc-36ec-47c5-99de-8855ecea1c9c#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-herbe-niederlagen-bei-nachwahlen-fuer-die-tories](https://www.spiegel.de/ausland/grossbritannien-herbe-niederlagen-bei-nachwahlen-fuer-die-tories-a-0382f4d7-b22b-4b9d-bc39-b86d1ff9c5b1#ref=rss)
-### warten
-
-* [https://www.spiegel.de/ausland/israel-und-der-krieg-gegen-die-hamas-das-versagen-des-koenigs](https://www.spiegel.de/ausland/israel-und-der-krieg-gegen-die-hamas-das-versagen-des-koenigs-a-96ae37fc-36ec-47c5-99de-8855ecea1c9c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/airasia-chef-tony-fernandes-laesst-sich-oben-massieren-angeblich-waehrend-meeting](https://www.spiegel.de/wirtschaft/unternehmen/airasia-chef-tony-fernandes-laesst-sich-oben-massieren-angeblich-waehrend-meeting-a-808882a4-6f26-4444-aa13-7f15bc8fc982#ref=rss)
-### gaza
-
-* [https://www.spiegel.de/ausland/israel-und-der-krieg-gegen-die-hamas-das-versagen-des-koenigs](https://www.spiegel.de/ausland/israel-und-der-krieg-gegen-die-hamas-das-versagen-des-koenigs-a-96ae37fc-36ec-47c5-99de-8855ecea1c9c#ref=rss)
-* [https://www.spiegel.de/ausland/israel-ex-premier-ehud-barak-kritisiert-benjamin-netanyahu-scharf](https://www.spiegel.de/ausland/israel-ex-premier-ehud-barak-kritisiert-benjamin-netanyahu-scharf-a-5e817507-5575-4daf-b782-055a74700142#ref=rss)
-### benjamin
-
-* [https://www.spiegel.de/ausland/israel-und-der-krieg-gegen-die-hamas-das-versagen-des-koenigs](https://www.spiegel.de/ausland/israel-und-der-krieg-gegen-die-hamas-das-versagen-des-koenigs-a-96ae37fc-36ec-47c5-99de-8855ecea1c9c#ref=rss)
-* [https://www.spiegel.de/ausland/israel-ex-premier-ehud-barak-kritisiert-benjamin-netanyahu-scharf](https://www.spiegel.de/ausland/israel-ex-premier-ehud-barak-kritisiert-benjamin-netanyahu-scharf-a-5e817507-5575-4daf-b782-055a74700142#ref=rss)
-### zukunft
-
-* [https://www.spiegel.de/ausland/israel-und-der-krieg-gegen-die-hamas-das-versagen-des-koenigs](https://www.spiegel.de/ausland/israel-und-der-krieg-gegen-die-hamas-das-versagen-des-koenigs-a-96ae37fc-36ec-47c5-99de-8855ecea1c9c#ref=rss)
-* [https://www.spiegel.de/panorama/dirk-niebel-empoerung-ueber-ex-minister-nach-facebook-post-ueber-zukunft-des-gaza-streifens](https://www.spiegel.de/panorama/dirk-niebel-empoerung-ueber-ex-minister-nach-facebook-post-ueber-zukunft-des-gaza-streifens-a-3eee5b7b-c2de-4b81-aeba-facd31229158#ref=rss)
+* [https://www.spiegel.de/ausland/emotionaler-ausruf-von-israelischem-professor-an-columbia-universitaet-wir-koennen-ihre-kinder-nicht-schuetzen](https://www.spiegel.de/ausland/emotionaler-ausruf-von-israelischem-professor-an-columbia-universitaet-wir-koennen-ihre-kinder-nicht-schuetzen-a-f76fa656-0242-4d24-90c8-7cf805f975b9#ref=rss)
+* [https://www.spiegel.de/panorama/muna-tatari-ueber-die-israel-debatte-hoffnungslosigkeit-ist-keine-option](https://www.spiegel.de/panorama/muna-tatari-ueber-die-israel-debatte-hoffnungslosigkeit-ist-keine-option-a-2f027894-271f-4bcc-94a9-3e5790a411e9#ref=rss)
+* [https://www.spiegel.de/ausland/israel-mehrzahl-der-geiseln-der-hamas-soll-am-leben-sein](https://www.spiegel.de/ausland/israel-mehrzahl-der-geiseln-der-hamas-soll-am-leben-sein-a-61b2b0de-bb9c-4117-af9f-c0b6eb71ebc5#ref=rss)
+* [https://www.spiegel.de/ausland/israel-und-gaza-benjamin-netanyahu-und-yoav-gallant-bereiten-armee-auf-eine-bodenoffensive-vor](https://www.spiegel.de/ausland/israel-und-gaza-benjamin-netanyahu-und-yoav-gallant-bereiten-armee-auf-eine-bodenoffensive-vor-a-6e69359d-fa50-44d3-9028-734a85460517#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/dax-faellt-auf-siebenmonatstief](https://www.spiegel.de/wirtschaft/unternehmen/dax-faellt-auf-siebenmonatstief-a-22458c02-f68a-41de-8e38-8ff68b0e82ea#ref=rss)
 ### deutsche
 
-* [https://www.spiegel.de/kultur/deutsche-filmemacherin-margarethe-von-trotta-die-nomadin](https://www.spiegel.de/kultur/deutsche-filmemacherin-margarethe-von-trotta-die-nomadin-a-d14edfaa-124c-4038-91c2-2d8fdc1f559a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/iran-export-deutscher-firmen-die-unverbesserlichen](https://www.spiegel.de/wirtschaft/iran-export-deutscher-firmen-die-unverbesserlichen-a-1f24b774-3b23-4725-bf81-11419daed4e9#ref=rss)
-### margarethe
+* [https://www.spiegel.de/deinspiegel/lesetipps-futter-fuer-junge-buecherwuermer](https://www.spiegel.de/deinspiegel/lesetipps-futter-fuer-junge-buecherwuermer-a-77e4adea-432c-4678-b070-e9ed07d89870#ref=rss)
+* [https://www.spiegel.de/start/letzte-generation-warum-sie-mit-ihrem-protesten-an-deutschen-universitaeten-scheitert](https://www.spiegel.de/start/letzte-generation-warum-sie-mit-ihrem-protesten-an-deutschen-universitaeten-scheitert-a-628eeb9c-4bc4-4dec-afc8-0b483d0b4ac7#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-so-verlor-russland-in-einer-nacht-14-helikopter](https://www.spiegel.de/ausland/ukraine-krieg-so-verlor-russland-in-einer-nacht-14-helikopter-a-ae5619f4-214f-4f48-9a05-692ed016d1c9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/dax-faellt-auf-siebenmonatstief](https://www.spiegel.de/wirtschaft/unternehmen/dax-faellt-auf-siebenmonatstief-a-22458c02-f68a-41de-8e38-8ff68b0e82ea#ref=rss)
+### unter
 
-* [https://www.spiegel.de/kultur/deutsche-filmemacherin-margarethe-von-trotta-die-nomadin](https://www.spiegel.de/kultur/deutsche-filmemacherin-margarethe-von-trotta-die-nomadin-a-d14edfaa-124c-4038-91c2-2d8fdc1f559a#ref=rss)
-### trotta
+* [https://www.spiegel.de/panorama/sturmflut-an-der-ostsee-das-wasser-kommt](https://www.spiegel.de/panorama/sturmflut-an-der-ostsee-das-wasser-kommt-a-e5129cc2-ce5b-4ab4-900e-e8b24b98e23c#ref=rss)
+* [https://www.spiegel.de/ausland/israel-mehrzahl-der-geiseln-der-hamas-soll-am-leben-sein](https://www.spiegel.de/ausland/israel-mehrzahl-der-geiseln-der-hamas-soll-am-leben-sein-a-61b2b0de-bb9c-4117-af9f-c0b6eb71ebc5#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-eintracht-frauen-treffen-in-gruppenphase-auf-titelverteidiger-barcelona](https://www.spiegel.de/sport/fussball/champions-league-eintracht-frauen-treffen-in-gruppenphase-auf-titelverteidiger-barcelona-a-2cc594c0-6735-4af9-b768-96b2f5853293#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/dax-faellt-auf-siebenmonatstief](https://www.spiegel.de/wirtschaft/unternehmen/dax-faellt-auf-siebenmonatstief-a-22458c02-f68a-41de-8e38-8ff68b0e82ea#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/kultur/deutsche-filmemacherin-margarethe-von-trotta-die-nomadin](https://www.spiegel.de/kultur/deutsche-filmemacherin-margarethe-von-trotta-die-nomadin-a-d14edfaa-124c-4038-91c2-2d8fdc1f559a#ref=rss)
-### markus
+* [https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-tennis-point-kuendigt-insolvenz-an-weitere-signa-firmen-sollen-folgen](https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-tennis-point-kuendigt-insolvenz-an-weitere-signa-firmen-sollen-folgen-a-8aefe239-d9ae-4b35-9fdf-9d02ee45bc4e#ref=rss)
+* [https://www.spiegel.de/auto/fdp-buergermeister-fordert-mehr-tempo-30-da-wackeln-bei-den-anwohnern-die-kaffeetassen-im-schrank](https://www.spiegel.de/auto/fdp-buergermeister-fordert-mehr-tempo-30-da-wackeln-bei-den-anwohnern-die-kaffeetassen-im-schrank-a-fa4da5a0-3413-4e9d-bf54-b76b990e3cc1#ref=rss)
+* [https://www.spiegel.de/ausland/israel-mehrzahl-der-geiseln-der-hamas-soll-am-leben-sein](https://www.spiegel.de/ausland/israel-mehrzahl-der-geiseln-der-hamas-soll-am-leben-sein-a-61b2b0de-bb9c-4117-af9f-c0b6eb71ebc5#ref=rss)
+### olaf
 
-* [https://www.spiegel.de/kultur/tv/strack-zimmermann-bei-markus-lanz-knallharter-antisemitismus](https://www.spiegel.de/kultur/tv/strack-zimmermann-bei-markus-lanz-knallharter-antisemitismus-a-36080c3f-c46a-494c-8cd3-00a2af0565a0#ref=rss)
-### lanz
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-und-die-migrationspolitik-generalstreik-in-italien-china-beschraenkt-export-von-grafit](https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-und-die-migrationspolitik-generalstreik-in-italien-china-beschraenkt-export-von-grafit-a-f48b925f-ceb3-4b2f-b689-4fb50d822606#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nach-spiegel-interview-sozialdemokraten-gehen-auf-distanz-zu-olaf-scholz](https://www.spiegel.de/politik/deutschland/nach-spiegel-interview-sozialdemokraten-gehen-auf-distanz-zu-olaf-scholz-a-c4f19bcd-6945-4baa-b6a5-a58a3c33b5d1#ref=rss)
+### scholz
 
-* [https://www.spiegel.de/kultur/tv/strack-zimmermann-bei-markus-lanz-knallharter-antisemitismus](https://www.spiegel.de/kultur/tv/strack-zimmermann-bei-markus-lanz-knallharter-antisemitismus-a-36080c3f-c46a-494c-8cd3-00a2af0565a0#ref=rss)
-### antisemitismus
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-und-die-migrationspolitik-generalstreik-in-italien-china-beschraenkt-export-von-grafit](https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-und-die-migrationspolitik-generalstreik-in-italien-china-beschraenkt-export-von-grafit-a-f48b925f-ceb3-4b2f-b689-4fb50d822606#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nach-spiegel-interview-sozialdemokraten-gehen-auf-distanz-zu-olaf-scholz](https://www.spiegel.de/politik/deutschland/nach-spiegel-interview-sozialdemokraten-gehen-auf-distanz-zu-olaf-scholz-a-c4f19bcd-6945-4baa-b6a5-a58a3c33b5d1#ref=rss)
+### italiens
 
-* [https://www.spiegel.de/kultur/tv/strack-zimmermann-bei-markus-lanz-knallharter-antisemitismus](https://www.spiegel.de/kultur/tv/strack-zimmermann-bei-markus-lanz-knallharter-antisemitismus-a-36080c3f-c46a-494c-8cd3-00a2af0565a0#ref=rss)
-### scharf
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-und-die-migrationspolitik-generalstreik-in-italien-china-beschraenkt-export-von-grafit](https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-und-die-migrationspolitik-generalstreik-in-italien-china-beschraenkt-export-von-grafit-a-f48b925f-ceb3-4b2f-b689-4fb50d822606#ref=rss)
+* [https://www.spiegel.de/panorama/leute/giorgia-meloni-italiens-ministerpraesidentin-gibt-trennung-von-ihrem-partner-bekannt](https://www.spiegel.de/panorama/leute/giorgia-meloni-italiens-ministerpraesidentin-gibt-trennung-von-ihrem-partner-bekannt-a-dcf59a00-73cd-40d9-8bfe-ccce627451bd#ref=rss)
+### weltweit
 
-* [https://www.spiegel.de/kultur/tv/strack-zimmermann-bei-markus-lanz-knallharter-antisemitismus](https://www.spiegel.de/kultur/tv/strack-zimmermann-bei-markus-lanz-knallharter-antisemitismus-a-36080c3f-c46a-494c-8cd3-00a2af0565a0#ref=rss)
-* [https://www.spiegel.de/ausland/israel-ex-premier-ehud-barak-kritisiert-benjamin-netanyahu-scharf](https://www.spiegel.de/ausland/israel-ex-premier-ehud-barak-kritisiert-benjamin-netanyahu-scharf-a-5e817507-5575-4daf-b782-055a74700142#ref=rss)
-### republik
+* [https://www.spiegel.de/wirtschaft/unternehmen/ozempic-wegovy-und-mounjaro-betrueger-faelschen-weltweit-gehypte-abnehmmedikamente](https://www.spiegel.de/wirtschaft/unternehmen/ozempic-wegovy-und-mounjaro-betrueger-faelschen-weltweit-gehypte-abnehmmedikamente-a-719119c1-1e3d-45d7-b966-fff1093529b6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/dax-faellt-auf-siebenmonatstief](https://www.spiegel.de/wirtschaft/unternehmen/dax-faellt-auf-siebenmonatstief-a-22458c02-f68a-41de-8e38-8ff68b0e82ea#ref=rss)
+### rené
 
-* [https://www.spiegel.de/wissenschaft/natur/ruki-in-der-demokratische-republik-kongo-ist-der-wohl-schwaerzeste-fluss-der-welt](https://www.spiegel.de/wissenschaft/natur/ruki-in-der-demokratische-republik-kongo-ist-der-wohl-schwaerzeste-fluss-der-welt-a-f6e532bc-f524-4e76-a708-964d64945e3d#ref=rss)
-### kongo
+* [https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-tennis-point-kuendigt-insolvenz-an-weitere-signa-firmen-sollen-folgen](https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-tennis-point-kuendigt-insolvenz-an-weitere-signa-firmen-sollen-folgen-a-8aefe239-d9ae-4b35-9fdf-9d02ee45bc4e#ref=rss)
+### benko
 
-* [https://www.spiegel.de/wissenschaft/natur/ruki-in-der-demokratische-republik-kongo-ist-der-wohl-schwaerzeste-fluss-der-welt](https://www.spiegel.de/wissenschaft/natur/ruki-in-der-demokratische-republik-kongo-ist-der-wohl-schwaerzeste-fluss-der-welt-a-f6e532bc-f524-4e76-a708-964d64945e3d#ref=rss)
-### team
+* [https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-tennis-point-kuendigt-insolvenz-an-weitere-signa-firmen-sollen-folgen](https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-tennis-point-kuendigt-insolvenz-an-weitere-signa-firmen-sollen-folgen-a-8aefe239-d9ae-4b35-9fdf-9d02ee45bc4e#ref=rss)
+### millionen
 
-* [https://www.spiegel.de/wissenschaft/natur/ruki-in-der-demokratische-republik-kongo-ist-der-wohl-schwaerzeste-fluss-der-welt](https://www.spiegel.de/wissenschaft/natur/ruki-in-der-demokratische-republik-kongo-ist-der-wohl-schwaerzeste-fluss-der-welt-a-f6e532bc-f524-4e76-a708-964d64945e3d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-noussair-mazraoui-drohen-nach-pro-palaestina-posts-keine-konsequenzen](https://www.spiegel.de/sport/fussball/fc-bayern-noussair-mazraoui-drohen-nach-pro-palaestina-posts-keine-konsequenzen-a-f0f791ba-dd33-4c9d-a1d7-9d6fc52a692a#ref=rss)
-### wasser
+* [https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-tennis-point-kuendigt-insolvenz-an-weitere-signa-firmen-sollen-folgen](https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-tennis-point-kuendigt-insolvenz-an-weitere-signa-firmen-sollen-folgen-a-8aefe239-d9ae-4b35-9fdf-9d02ee45bc4e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/maut-debakel-30-millionen-euro-an-rechtskosten](https://www.spiegel.de/politik/deutschland/maut-debakel-30-millionen-euro-an-rechtskosten-a-0b8377d8-a234-4750-92f0-726d338a74a0#ref=rss)
+### euro
 
-* [https://www.spiegel.de/wissenschaft/natur/ruki-in-der-demokratische-republik-kongo-ist-der-wohl-schwaerzeste-fluss-der-welt](https://www.spiegel.de/wissenschaft/natur/ruki-in-der-demokratische-republik-kongo-ist-der-wohl-schwaerzeste-fluss-der-welt-a-f6e532bc-f524-4e76-a708-964d64945e3d#ref=rss)
-* [https://www.spiegel.de/panorama/sturmflut-an-der-ostseekueste-erste-uferbereiche-und-strassen-ueberschwemmt](https://www.spiegel.de/panorama/sturmflut-an-der-ostseekueste-erste-uferbereiche-und-strassen-ueberschwemmt-a-75cc7b02-1ede-41ae-b684-e57bc3881ff3#ref=rss)
-### unfall
+* [https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-tennis-point-kuendigt-insolvenz-an-weitere-signa-firmen-sollen-folgen](https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-tennis-point-kuendigt-insolvenz-an-weitere-signa-firmen-sollen-folgen-a-8aefe239-d9ae-4b35-9fdf-9d02ee45bc4e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/maut-debakel-30-millionen-euro-an-rechtskosten](https://www.spiegel.de/politik/deutschland/maut-debakel-30-millionen-euro-an-rechtskosten-a-0b8377d8-a234-4750-92f0-726d338a74a0#ref=rss)
+### zurück
 
-* [https://www.spiegel.de/panorama/a61-bei-speyer-eltern-sterben-bei-unfall-drei-kinder-schwer-verletzt](https://www.spiegel.de/panorama/a61-bei-speyer-eltern-sterben-bei-unfall-drei-kinder-schwer-verletzt-a-261cc4d3-df57-4f23-88b6-5c3fee89d2f0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-tennis-point-kuendigt-insolvenz-an-weitere-signa-firmen-sollen-folgen](https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-tennis-point-kuendigt-insolvenz-an-weitere-signa-firmen-sollen-folgen-a-8aefe239-d9ae-4b35-9fdf-9d02ee45bc4e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/christine-sinclair-tritt-zum-jahresende-aus-der-nationalmannschaft-zurueck](https://www.spiegel.de/sport/fussball/christine-sinclair-tritt-zum-jahresende-aus-der-nationalmannschaft-zurueck-a-ce833055-1c47-43ed-8a57-2fc5ff05a12d#ref=rss)
+### christine
+
+* [https://www.spiegel.de/sport/fussball/christine-sinclair-tritt-zum-jahresende-aus-der-nationalmannschaft-zurueck](https://www.spiegel.de/sport/fussball/christine-sinclair-tritt-zum-jahresende-aus-der-nationalmannschaft-zurueck-a-ce833055-1c47-43ed-8a57-2fc5ff05a12d#ref=rss)
+### sinclair
+
+* [https://www.spiegel.de/sport/fussball/christine-sinclair-tritt-zum-jahresende-aus-der-nationalmannschaft-zurueck](https://www.spiegel.de/sport/fussball/christine-sinclair-tritt-zum-jahresende-aus-der-nationalmannschaft-zurueck-a-ce833055-1c47-43ed-8a57-2fc5ff05a12d#ref=rss)
+### angriff
+
+* [https://www.spiegel.de/ausland/emotionaler-ausruf-von-israelischem-professor-an-columbia-universitaet-wir-koennen-ihre-kinder-nicht-schuetzen](https://www.spiegel.de/ausland/emotionaler-ausruf-von-israelischem-professor-an-columbia-universitaet-wir-koennen-ihre-kinder-nicht-schuetzen-a-f76fa656-0242-4d24-90c8-7cf805f975b9#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-so-verlor-russland-in-einer-nacht-14-helikopter](https://www.spiegel.de/ausland/ukraine-krieg-so-verlor-russland-in-einer-nacht-14-helikopter-a-ae5619f4-214f-4f48-9a05-692ed016d1c9#ref=rss)
+### professor
+
+* [https://www.spiegel.de/ausland/emotionaler-ausruf-von-israelischem-professor-an-columbia-universitaet-wir-koennen-ihre-kinder-nicht-schuetzen](https://www.spiegel.de/ausland/emotionaler-ausruf-von-israelischem-professor-an-columbia-universitaet-wir-koennen-ihre-kinder-nicht-schuetzen-a-f76fa656-0242-4d24-90c8-7cf805f975b9#ref=rss)
+### shai
+
+* [https://www.spiegel.de/ausland/emotionaler-ausruf-von-israelischem-professor-an-columbia-universitaet-wir-koennen-ihre-kinder-nicht-schuetzen](https://www.spiegel.de/ausland/emotionaler-ausruf-von-israelischem-professor-an-columbia-universitaet-wir-koennen-ihre-kinder-nicht-schuetzen-a-f76fa656-0242-4d24-90c8-7cf805f975b9#ref=rss)
+### davidai
+
+* [https://www.spiegel.de/ausland/emotionaler-ausruf-von-israelischem-professor-an-columbia-universitaet-wir-koennen-ihre-kinder-nicht-schuetzen](https://www.spiegel.de/ausland/emotionaler-ausruf-von-israelischem-professor-an-columbia-universitaet-wir-koennen-ihre-kinder-nicht-schuetzen-a-f76fa656-0242-4d24-90c8-7cf805f975b9#ref=rss)
 ### kinder
 
-* [https://www.spiegel.de/panorama/a61-bei-speyer-eltern-sterben-bei-unfall-drei-kinder-schwer-verletzt](https://www.spiegel.de/panorama/a61-bei-speyer-eltern-sterben-bei-unfall-drei-kinder-schwer-verletzt-a-261cc4d3-df57-4f23-88b6-5c3fee89d2f0#ref=rss)
-### verletzt
+* [https://www.spiegel.de/ausland/emotionaler-ausruf-von-israelischem-professor-an-columbia-universitaet-wir-koennen-ihre-kinder-nicht-schuetzen](https://www.spiegel.de/ausland/emotionaler-ausruf-von-israelischem-professor-an-columbia-universitaet-wir-koennen-ihre-kinder-nicht-schuetzen-a-f76fa656-0242-4d24-90c8-7cf805f975b9#ref=rss)
+* [https://www.spiegel.de/ausland/israel-mehrzahl-der-geiseln-der-hamas-soll-am-leben-sein](https://www.spiegel.de/ausland/israel-mehrzahl-der-geiseln-der-hamas-soll-am-leben-sein-a-61b2b0de-bb9c-4117-af9f-c0b6eb71ebc5#ref=rss)
+### bitte
 
-* [https://www.spiegel.de/panorama/a61-bei-speyer-eltern-sterben-bei-unfall-drei-kinder-schwer-verletzt](https://www.spiegel.de/panorama/a61-bei-speyer-eltern-sterben-bei-unfall-drei-kinder-schwer-verletzt-a-261cc4d3-df57-4f23-88b6-5c3fee89d2f0#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-noussair-mazraoui-drohen-nach-pro-palaestina-posts-keine-konsequenzen](https://www.spiegel.de/sport/fussball/fc-bayern-noussair-mazraoui-drohen-nach-pro-palaestina-posts-keine-konsequenzen-a-f0f791ba-dd33-4c9d-a1d7-9d6fc52a692a#ref=rss)
-### schwere
+* [https://www.spiegel.de/kultur/kino/schauspielerstreik-bitte-nicht-als-barbie-oder-ken-kostuemieren](https://www.spiegel.de/kultur/kino/schauspielerstreik-bitte-nicht-als-barbie-oder-ken-kostuemieren-a-9f7a126d-7630-4a13-b224-96ce424d7fb1#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tatort-mit-ulrich-tukur-murot-und-das-glueck-bitte-nicht-auflegen-gott-am-apparat](https://www.spiegel.de/kultur/tv/tatort-mit-ulrich-tukur-murot-und-das-glueck-bitte-nicht-auflegen-gott-am-apparat-a-9e7fe8af-df3c-42f1-bf49-d588201d18ca#ref=rss)
+### generalstreik
 
-* [https://www.spiegel.de/panorama/a61-bei-speyer-eltern-sterben-bei-unfall-drei-kinder-schwer-verletzt](https://www.spiegel.de/panorama/a61-bei-speyer-eltern-sterben-bei-unfall-drei-kinder-schwer-verletzt-a-261cc4d3-df57-4f23-88b6-5c3fee89d2f0#ref=rss)
-* [https://www.spiegel.de/panorama/sturmflut-an-der-ostseekueste-erste-uferbereiche-und-strassen-ueberschwemmt](https://www.spiegel.de/panorama/sturmflut-an-der-ostseekueste-erste-uferbereiche-und-strassen-ueberschwemmt-a-75cc7b02-1ede-41ae-b684-e57bc3881ff3#ref=rss)
-### moia
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-und-die-migrationspolitik-generalstreik-in-italien-china-beschraenkt-export-von-grafit](https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-und-die-migrationspolitik-generalstreik-in-italien-china-beschraenkt-export-von-grafit-a-f48b925f-ceb3-4b2f-b689-4fb50d822606#ref=rss)
+### china
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/moia-streit-ueber-pinkelpausen-fuer-sammeltaxi-fahrer-in-hamburg-und-hannover](https://www.spiegel.de/wirtschaft/unternehmen/moia-streit-ueber-pinkelpausen-fuer-sammeltaxi-fahrer-in-hamburg-und-hannover-a-30343141-cdfe-45f4-ae56-360333306eeb#ref=rss)
-### streit
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-und-die-migrationspolitik-generalstreik-in-italien-china-beschraenkt-export-von-grafit](https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-und-die-migrationspolitik-generalstreik-in-italien-china-beschraenkt-export-von-grafit-a-f48b925f-ceb3-4b2f-b689-4fb50d822606#ref=rss)
+### beschränkt
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/moia-streit-ueber-pinkelpausen-fuer-sammeltaxi-fahrer-in-hamburg-und-hannover](https://www.spiegel.de/wirtschaft/unternehmen/moia-streit-ueber-pinkelpausen-fuer-sammeltaxi-fahrer-in-hamburg-und-hannover-a-30343141-cdfe-45f4-ae56-360333306eeb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/streit-in-der-ampel-fdp-droht-gruenen-mit-ende-der-oekostromfoerderung](https://www.spiegel.de/politik/deutschland/streit-in-der-ampel-fdp-droht-gruenen-mit-ende-der-oekostromfoerderung-a-fb103445-7040-4189-9d72-5d2136acbc8b#ref=rss)
-### hamburg
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-und-die-migrationspolitik-generalstreik-in-italien-china-beschraenkt-export-von-grafit](https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-und-die-migrationspolitik-generalstreik-in-italien-china-beschraenkt-export-von-grafit-a-f48b925f-ceb3-4b2f-b689-4fb50d822606#ref=rss)
+### export
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/moia-streit-ueber-pinkelpausen-fuer-sammeltaxi-fahrer-in-hamburg-und-hannover](https://www.spiegel.de/wirtschaft/unternehmen/moia-streit-ueber-pinkelpausen-fuer-sammeltaxi-fahrer-in-hamburg-und-hannover-a-30343141-cdfe-45f4-ae56-360333306eeb#ref=rss)
-### hannover
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-und-die-migrationspolitik-generalstreik-in-italien-china-beschraenkt-export-von-grafit](https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-und-die-migrationspolitik-generalstreik-in-italien-china-beschraenkt-export-von-grafit-a-f48b925f-ceb3-4b2f-b689-4fb50d822606#ref=rss)
+### grafit
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/moia-streit-ueber-pinkelpausen-fuer-sammeltaxi-fahrer-in-hamburg-und-hannover](https://www.spiegel.de/wirtschaft/unternehmen/moia-streit-ueber-pinkelpausen-fuer-sammeltaxi-fahrer-in-hamburg-und-hannover-a-30343141-cdfe-45f4-ae56-360333306eeb#ref=rss)
-### kritisiert
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-und-die-migrationspolitik-generalstreik-in-italien-china-beschraenkt-export-von-grafit](https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-und-die-migrationspolitik-generalstreik-in-italien-china-beschraenkt-export-von-grafit-a-f48b925f-ceb3-4b2f-b689-4fb50d822606#ref=rss)
+### spiegel
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/moia-streit-ueber-pinkelpausen-fuer-sammeltaxi-fahrer-in-hamburg-und-hannover](https://www.spiegel.de/wirtschaft/unternehmen/moia-streit-ueber-pinkelpausen-fuer-sammeltaxi-fahrer-in-hamburg-und-hannover-a-30343141-cdfe-45f4-ae56-360333306eeb#ref=rss)
-* [https://www.spiegel.de/ausland/israel-ex-premier-ehud-barak-kritisiert-benjamin-netanyahu-scharf](https://www.spiegel.de/ausland/israel-ex-premier-ehud-barak-kritisiert-benjamin-netanyahu-scharf-a-5e817507-5575-4daf-b782-055a74700142#ref=rss)
-### dirk
+* [https://www.spiegel.de/politik/deutschland/nach-spiegel-interview-sozialdemokraten-gehen-auf-distanz-zu-olaf-scholz](https://www.spiegel.de/politik/deutschland/nach-spiegel-interview-sozialdemokraten-gehen-auf-distanz-zu-olaf-scholz-a-c4f19bcd-6945-4baa-b6a5-a58a3c33b5d1#ref=rss)
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/panorama/dirk-niebel-empoerung-ueber-ex-minister-nach-facebook-post-ueber-zukunft-des-gaza-streifens](https://www.spiegel.de/panorama/dirk-niebel-empoerung-ueber-ex-minister-nach-facebook-post-ueber-zukunft-des-gaza-streifens-a-3eee5b7b-c2de-4b81-aeba-facd31229158#ref=rss)
-### niebel
+* [https://www.spiegel.de/deinspiegel/lesetipps-futter-fuer-junge-buecherwuermer](https://www.spiegel.de/deinspiegel/lesetipps-futter-fuer-junge-buecherwuermer-a-77e4adea-432c-4678-b070-e9ed07d89870#ref=rss)
+* [https://www.spiegel.de/panorama/sydney-australien-das-beruehmte-opernhaus-wird-50](https://www.spiegel.de/panorama/sydney-australien-das-beruehmte-opernhaus-wird-50-a-dd2f1e0d-84e4-4686-a783-4d93e7bc0643#ref=rss)
+### tatort
 
-* [https://www.spiegel.de/panorama/dirk-niebel-empoerung-ueber-ex-minister-nach-facebook-post-ueber-zukunft-des-gaza-streifens](https://www.spiegel.de/panorama/dirk-niebel-empoerung-ueber-ex-minister-nach-facebook-post-ueber-zukunft-des-gaza-streifens-a-3eee5b7b-c2de-4b81-aeba-facd31229158#ref=rss)
-### gazastreifen
+* [https://www.spiegel.de/kultur/tv/tatort-mit-ulrich-tukur-murot-und-das-glueck-bitte-nicht-auflegen-gott-am-apparat](https://www.spiegel.de/kultur/tv/tatort-mit-ulrich-tukur-murot-und-das-glueck-bitte-nicht-auflegen-gott-am-apparat-a-9e7fe8af-df3c-42f1-bf49-d588201d18ca#ref=rss)
+### ulrich
 
-* [https://www.spiegel.de/panorama/dirk-niebel-empoerung-ueber-ex-minister-nach-facebook-post-ueber-zukunft-des-gaza-streifens](https://www.spiegel.de/panorama/dirk-niebel-empoerung-ueber-ex-minister-nach-facebook-post-ueber-zukunft-des-gaza-streifens-a-3eee5b7b-c2de-4b81-aeba-facd31229158#ref=rss)
-* [https://www.spiegel.de/ausland/israel-offensive-gegen-hamas-im-gazastreifen-es-geht-um-haerte](https://www.spiegel.de/ausland/israel-offensive-gegen-hamas-im-gazastreifen-es-geht-um-haerte-a-9261b964-9d57-4942-8863-e725c4c068c0#ref=rss)
-### maulbronn
+* [https://www.spiegel.de/kultur/tv/tatort-mit-ulrich-tukur-murot-und-das-glueck-bitte-nicht-auflegen-gott-am-apparat](https://www.spiegel.de/kultur/tv/tatort-mit-ulrich-tukur-murot-und-das-glueck-bitte-nicht-auflegen-gott-am-apparat-a-9e7fe8af-df3c-42f1-bf49-d588201d18ca#ref=rss)
+### tukur
 
-* [https://www.spiegel.de/panorama/justiz/maulbronn-in-baden-wuerttemberg-tatverdaechtiger-nach-koran-verbrennungen-gefunden](https://www.spiegel.de/panorama/justiz/maulbronn-in-baden-wuerttemberg-tatverdaechtiger-nach-koran-verbrennungen-gefunden-a-a4729379-58a6-4582-86a4-0afb83409ecb#ref=rss)
-### radioblitz
+* [https://www.spiegel.de/kultur/tv/tatort-mit-ulrich-tukur-murot-und-das-glueck-bitte-nicht-auflegen-gott-am-apparat](https://www.spiegel.de/kultur/tv/tatort-mit-ulrich-tukur-murot-und-das-glueck-bitte-nicht-auflegen-gott-am-apparat-a-9e7fe8af-df3c-42f1-bf49-d588201d18ca#ref=rss)
+### 30
 
-* [https://www.spiegel.de/wissenschaft/weltall/astronomie-radioblitz-mit-bislang-groesster-bekannter-entfernung-zur-erde-registriert](https://www.spiegel.de/wissenschaft/weltall/astronomie-radioblitz-mit-bislang-groesster-bekannter-entfernung-zur-erde-registriert-a-3025c361-de04-4ad2-8d2f-12520c433d90#ref=rss)
-### erde
+* [https://www.spiegel.de/auto/fdp-buergermeister-fordert-mehr-tempo-30-da-wackeln-bei-den-anwohnern-die-kaffeetassen-im-schrank](https://www.spiegel.de/auto/fdp-buergermeister-fordert-mehr-tempo-30-da-wackeln-bei-den-anwohnern-die-kaffeetassen-im-schrank-a-fa4da5a0-3413-4e9d-bf54-b76b990e3cc1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/maut-debakel-30-millionen-euro-an-rechtskosten](https://www.spiegel.de/politik/deutschland/maut-debakel-30-millionen-euro-an-rechtskosten-a-0b8377d8-a234-4750-92f0-726d338a74a0#ref=rss)
+### gern
 
-* [https://www.spiegel.de/wissenschaft/weltall/astronomie-radioblitz-mit-bislang-groesster-bekannter-entfernung-zur-erde-registriert](https://www.spiegel.de/wissenschaft/weltall/astronomie-radioblitz-mit-bislang-groesster-bekannter-entfernung-zur-erde-registriert-a-3025c361-de04-4ad2-8d2f-12520c433d90#ref=rss)
-### alle
+* [https://www.spiegel.de/auto/fdp-buergermeister-fordert-mehr-tempo-30-da-wackeln-bei-den-anwohnern-die-kaffeetassen-im-schrank](https://www.spiegel.de/auto/fdp-buergermeister-fordert-mehr-tempo-30-da-wackeln-bei-den-anwohnern-die-kaffeetassen-im-schrank-a-fa4da5a0-3413-4e9d-bf54-b76b990e3cc1#ref=rss)
+* [https://www.spiegel.de/start/letzte-generation-warum-sie-mit-ihrem-protesten-an-deutschen-universitaeten-scheitert](https://www.spiegel.de/start/letzte-generation-warum-sie-mit-ihrem-protesten-an-deutschen-universitaeten-scheitert-a-628eeb9c-4bc4-4dec-afc8-0b483d0b4ac7#ref=rss)
+### gesetze
 
-* [https://www.spiegel.de/wissenschaft/weltall/astronomie-radioblitz-mit-bislang-groesster-bekannter-entfernung-zur-erde-registriert](https://www.spiegel.de/wissenschaft/weltall/astronomie-radioblitz-mit-bislang-groesster-bekannter-entfernung-zur-erde-registriert-a-3025c361-de04-4ad2-8d2f-12520c433d90#ref=rss)
-* [https://www.spiegel.de/kultur/weihnachtspop-von-cher-last-christmas-war-gestern](https://www.spiegel.de/kultur/weihnachtspop-von-cher-last-christmas-war-gestern-a-9f70c958-a80b-4f88-9174-2db75c715b8d#ref=rss)
-### kaczyński
+* [https://www.spiegel.de/auto/fdp-buergermeister-fordert-mehr-tempo-30-da-wackeln-bei-den-anwohnern-die-kaffeetassen-im-schrank](https://www.spiegel.de/auto/fdp-buergermeister-fordert-mehr-tempo-30-da-wackeln-bei-den-anwohnern-die-kaffeetassen-im-schrank-a-fa4da5a0-3413-4e9d-bf54-b76b990e3cc1#ref=rss)
+* [https://www.spiegel.de/auto/gesetze-der-ampelkoalition-vorrang-fuer-138-autobahnprojekte-greenpeace-ruegt-desinteresse-an-natur-und-klima](https://www.spiegel.de/auto/gesetze-der-ampelkoalition-vorrang-fuer-138-autobahnprojekte-greenpeace-ruegt-desinteresse-an-natur-und-klima-a-30177b1e-3130-4325-8ccc-49b19239184f#ref=rss)
+### mark
 
-* [https://www.spiegel.de/ausland/polens-neue-regierung-von-der-feindschaft-zu-kaczynski-zusammengehalten](https://www.spiegel.de/ausland/polens-neue-regierung-von-der-feindschaft-zu-kaczynski-zusammengehalten-a-c98abaa8-483b-4893-9ba0-ec2c6287f0d5#ref=rss)
-### donald
+* [https://www.spiegel.de/panorama/justiz/rechtspsychologe-mark-stemmler-wenn-ermittler-forscher-zwingen-informationen-herauszugeben](https://www.spiegel.de/panorama/justiz/rechtspsychologe-mark-stemmler-wenn-ermittler-forscher-zwingen-informationen-herauszugeben-a-2c47a452-66b8-4d97-93ee-c26675111e57#ref=rss)
+### stemmler
 
-* [https://www.spiegel.de/ausland/polens-neue-regierung-von-der-feindschaft-zu-kaczynski-zusammengehalten](https://www.spiegel.de/ausland/polens-neue-regierung-von-der-feindschaft-zu-kaczynski-zusammengehalten-a-c98abaa8-483b-4893-9ba0-ec2c6287f0d5#ref=rss)
-* [https://www.spiegel.de/ausland/jim-jordan-chaos-im-us-kongress-peinlich-fuer-amerika](https://www.spiegel.de/ausland/jim-jordan-chaos-im-us-kongress-peinlich-fuer-amerika-a-47f9c708-b369-4f11-b792-fe241869846f#ref=rss)
-### ehud
+* [https://www.spiegel.de/panorama/justiz/rechtspsychologe-mark-stemmler-wenn-ermittler-forscher-zwingen-informationen-herauszugeben](https://www.spiegel.de/panorama/justiz/rechtspsychologe-mark-stemmler-wenn-ermittler-forscher-zwingen-informationen-herauszugeben-a-2c47a452-66b8-4d97-93ee-c26675111e57#ref=rss)
+### ermittler
 
-* [https://www.spiegel.de/ausland/israel-ex-premier-ehud-barak-kritisiert-benjamin-netanyahu-scharf](https://www.spiegel.de/ausland/israel-ex-premier-ehud-barak-kritisiert-benjamin-netanyahu-scharf-a-5e817507-5575-4daf-b782-055a74700142#ref=rss)
-### barak
+* [https://www.spiegel.de/panorama/justiz/rechtspsychologe-mark-stemmler-wenn-ermittler-forscher-zwingen-informationen-herauszugeben](https://www.spiegel.de/panorama/justiz/rechtspsychologe-mark-stemmler-wenn-ermittler-forscher-zwingen-informationen-herauszugeben-a-2c47a452-66b8-4d97-93ee-c26675111e57#ref=rss)
+### muna
 
-* [https://www.spiegel.de/ausland/israel-ex-premier-ehud-barak-kritisiert-benjamin-netanyahu-scharf](https://www.spiegel.de/ausland/israel-ex-premier-ehud-barak-kritisiert-benjamin-netanyahu-scharf-a-5e817507-5575-4daf-b782-055a74700142#ref=rss)
-### premier
+* [https://www.spiegel.de/panorama/muna-tatari-ueber-die-israel-debatte-hoffnungslosigkeit-ist-keine-option](https://www.spiegel.de/panorama/muna-tatari-ueber-die-israel-debatte-hoffnungslosigkeit-ist-keine-option-a-2f027894-271f-4bcc-94a9-3e5790a411e9#ref=rss)
+### tatari
 
-* [https://www.spiegel.de/ausland/israel-ex-premier-ehud-barak-kritisiert-benjamin-netanyahu-scharf](https://www.spiegel.de/ausland/israel-ex-premier-ehud-barak-kritisiert-benjamin-netanyahu-scharf-a-5e817507-5575-4daf-b782-055a74700142#ref=rss)
-* [https://www.spiegel.de/ausland/israel-offensive-gegen-hamas-im-gazastreifen-es-geht-um-haerte](https://www.spiegel.de/ausland/israel-offensive-gegen-hamas-im-gazastreifen-es-geht-um-haerte-a-9261b964-9d57-4942-8863-e725c4c068c0#ref=rss)
-### lkwmaut
+* [https://www.spiegel.de/panorama/muna-tatari-ueber-die-israel-debatte-hoffnungslosigkeit-ist-keine-option](https://www.spiegel.de/panorama/muna-tatari-ueber-die-israel-debatte-hoffnungslosigkeit-ist-keine-option-a-2f027894-271f-4bcc-94a9-3e5790a411e9#ref=rss)
+### lehrkräfte
 
-* [https://www.spiegel.de/auto/lkw-maut-bundestag-beschliesst-klimaabgabe](https://www.spiegel.de/auto/lkw-maut-bundestag-beschliesst-klimaabgabe-a-891f6a50-ea1e-4a24-a81a-6cf097e2b312#ref=rss)
-### bundestag
+* [https://www.spiegel.de/panorama/muna-tatari-ueber-die-israel-debatte-hoffnungslosigkeit-ist-keine-option](https://www.spiegel.de/panorama/muna-tatari-ueber-die-israel-debatte-hoffnungslosigkeit-ist-keine-option-a-2f027894-271f-4bcc-94a9-3e5790a411e9#ref=rss)
+### thema
 
-* [https://www.spiegel.de/auto/lkw-maut-bundestag-beschliesst-klimaabgabe](https://www.spiegel.de/auto/lkw-maut-bundestag-beschliesst-klimaabgabe-a-891f6a50-ea1e-4a24-a81a-6cf097e2b312#ref=rss)
-### tony
+* [https://www.spiegel.de/panorama/muna-tatari-ueber-die-israel-debatte-hoffnungslosigkeit-ist-keine-option](https://www.spiegel.de/panorama/muna-tatari-ueber-die-israel-debatte-hoffnungslosigkeit-ist-keine-option-a-2f027894-271f-4bcc-94a9-3e5790a411e9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ki-bundeswehr-kuerzt-gelder-fuer-kuenstliche-intelligenz](https://www.spiegel.de/wirtschaft/ki-bundeswehr-kuerzt-gelder-fuer-kuenstliche-intelligenz-a-f07b8c63-663f-42ac-b93f-d911668ca7e5#ref=rss)
+### generation
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/airasia-chef-tony-fernandes-laesst-sich-oben-massieren-angeblich-waehrend-meeting](https://www.spiegel.de/wirtschaft/unternehmen/airasia-chef-tony-fernandes-laesst-sich-oben-massieren-angeblich-waehrend-meeting-a-808882a4-6f26-4444-aa13-7f15bc8fc982#ref=rss)
-### fernandes
+* [https://www.spiegel.de/start/letzte-generation-warum-sie-mit-ihrem-protesten-an-deutschen-universitaeten-scheitert](https://www.spiegel.de/start/letzte-generation-warum-sie-mit-ihrem-protesten-an-deutschen-universitaeten-scheitert-a-628eeb9c-4bc4-4dec-afc8-0b483d0b4ac7#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/airasia-chef-tony-fernandes-laesst-sich-oben-massieren-angeblich-waehrend-meeting](https://www.spiegel.de/wirtschaft/unternehmen/airasia-chef-tony-fernandes-laesst-sich-oben-massieren-angeblich-waehrend-meeting-a-808882a4-6f26-4444-aa13-7f15bc8fc982#ref=rss)
-### massieren
+* [https://www.spiegel.de/start/letzte-generation-warum-sie-mit-ihrem-protesten-an-deutschen-universitaeten-scheitert](https://www.spiegel.de/start/letzte-generation-warum-sie-mit-ihrem-protesten-an-deutschen-universitaeten-scheitert-a-628eeb9c-4bc4-4dec-afc8-0b483d0b4ac7#ref=rss)
+* [https://www.spiegel.de/sport/fussball/horst-hrubesch-ueber-dfb-frauen-alle-muessen-bei-null-anfangen](https://www.spiegel.de/sport/fussball/horst-hrubesch-ueber-dfb-frauen-alle-muessen-bei-null-anfangen-a-c6f17e10-7e7f-4fce-97af-1886657cbc92#ref=rss)
+### universitäten
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/airasia-chef-tony-fernandes-laesst-sich-oben-massieren-angeblich-waehrend-meeting](https://www.spiegel.de/wirtschaft/unternehmen/airasia-chef-tony-fernandes-laesst-sich-oben-massieren-angeblich-waehrend-meeting-a-808882a4-6f26-4444-aa13-7f15bc8fc982#ref=rss)
-### angeblich
+* [https://www.spiegel.de/start/letzte-generation-warum-sie-mit-ihrem-protesten-an-deutschen-universitaeten-scheitert](https://www.spiegel.de/start/letzte-generation-warum-sie-mit-ihrem-protesten-an-deutschen-universitaeten-scheitert-a-628eeb9c-4bc4-4dec-afc8-0b483d0b4ac7#ref=rss)
+### viele
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/airasia-chef-tony-fernandes-laesst-sich-oben-massieren-angeblich-waehrend-meeting](https://www.spiegel.de/wirtschaft/unternehmen/airasia-chef-tony-fernandes-laesst-sich-oben-massieren-angeblich-waehrend-meeting-a-808882a4-6f26-4444-aa13-7f15bc8fc982#ref=rss)
-### nachwahlen
+* [https://www.spiegel.de/start/letzte-generation-warum-sie-mit-ihrem-protesten-an-deutschen-universitaeten-scheitert](https://www.spiegel.de/start/letzte-generation-warum-sie-mit-ihrem-protesten-an-deutschen-universitaeten-scheitert-a-628eeb9c-4bc4-4dec-afc8-0b483d0b4ac7#ref=rss)
+* [https://www.spiegel.de/ausland/israel-mehrzahl-der-geiseln-der-hamas-soll-am-leben-sein](https://www.spiegel.de/ausland/israel-mehrzahl-der-geiseln-der-hamas-soll-am-leben-sein-a-61b2b0de-bb9c-4117-af9f-c0b6eb71ebc5#ref=rss)
+### sturmflut
 
-* [https://www.spiegel.de/ausland/grossbritannien-herbe-niederlagen-bei-nachwahlen-fuer-die-tories](https://www.spiegel.de/ausland/grossbritannien-herbe-niederlagen-bei-nachwahlen-fuer-die-tories-a-0382f4d7-b22b-4b9d-bc39-b86d1ff9c5b1#ref=rss)
-### tories
+* [https://www.spiegel.de/panorama/sturmflut-an-der-ostsee-das-wasser-kommt](https://www.spiegel.de/panorama/sturmflut-an-der-ostsee-das-wasser-kommt-a-e5129cc2-ce5b-4ab4-900e-e8b24b98e23c#ref=rss)
+### ostsee
 
-* [https://www.spiegel.de/ausland/grossbritannien-herbe-niederlagen-bei-nachwahlen-fuer-die-tories](https://www.spiegel.de/ausland/grossbritannien-herbe-niederlagen-bei-nachwahlen-fuer-die-tories-a-0382f4d7-b22b-4b9d-bc39-b86d1ff9c5b1#ref=rss)
-### fbi
+* [https://www.spiegel.de/panorama/sturmflut-an-der-ostsee-das-wasser-kommt](https://www.spiegel.de/panorama/sturmflut-an-der-ostsee-das-wasser-kommt-a-e5129cc2-ce5b-4ab4-900e-e8b24b98e23c#ref=rss)
+### wasser
 
-* [https://www.spiegel.de/netzwelt/web/tausende-nordkoreanische-fernarbeiter-in-den-usa-finanzieren-angeblich-raketenprogramm-mit](https://www.spiegel.de/netzwelt/web/tausende-nordkoreanische-fernarbeiter-in-den-usa-finanzieren-angeblich-raketenprogramm-mit-a-2677e5ea-a00c-4e08-823c-49200debdc0f#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/netzwelt/web/tausende-nordkoreanische-fernarbeiter-in-den-usa-finanzieren-angeblich-raketenprogramm-mit](https://www.spiegel.de/netzwelt/web/tausende-nordkoreanische-fernarbeiter-in-den-usa-finanzieren-angeblich-raketenprogramm-mit-a-2677e5ea-a00c-4e08-823c-49200debdc0f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/die-gruenen-co-chefin-der-parteijugend-sarah-lee-heinrich-fordert-kurswechsel](https://www.spiegel.de/politik/deutschland/die-gruenen-co-chefin-der-parteijugend-sarah-lee-heinrich-fordert-kurswechsel-a-db85d42b-6f06-4582-b702-e3a4e99c4dc3#ref=rss)
-### ampel
-
-* [https://www.spiegel.de/politik/deutschland/streit-in-der-ampel-fdp-droht-gruenen-mit-ende-der-oekostromfoerderung](https://www.spiegel.de/politik/deutschland/streit-in-der-ampel-fdp-droht-gruenen-mit-ende-der-oekostromfoerderung-a-fb103445-7040-4189-9d72-5d2136acbc8b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/die-gruenen-co-chefin-der-parteijugend-sarah-lee-heinrich-fordert-kurswechsel](https://www.spiegel.de/politik/deutschland/die-gruenen-co-chefin-der-parteijugend-sarah-lee-heinrich-fordert-kurswechsel-a-db85d42b-6f06-4582-b702-e3a4e99c4dc3#ref=rss)
-### lehrer
-
-* [https://www.spiegel.de/panorama/buch-am-erlbach-vergesslicher-lehrer-loest-feuerwehreinsatz-aus](https://www.spiegel.de/panorama/buch-am-erlbach-vergesslicher-lehrer-loest-feuerwehreinsatz-aus-a-6d08c596-5b6f-4738-8ef6-e4fea9d7a976#ref=rss)
+* [https://www.spiegel.de/panorama/sturmflut-an-der-ostsee-das-wasser-kommt](https://www.spiegel.de/panorama/sturmflut-an-der-ostsee-das-wasser-kommt-a-e5129cc2-ce5b-4ab4-900e-e8b24b98e23c#ref=rss)
 ### straßen
 
-* [https://www.spiegel.de/politik/deutschland/hamas-terror-gegen-israel-wie-der-nahostkonflikt-den-judenhass-in-deutschland-offenlegt](https://www.spiegel.de/politik/deutschland/hamas-terror-gegen-israel-wie-der-nahostkonflikt-den-judenhass-in-deutschland-offenlegt-a-2ac84fd6-56ec-435f-a632-028e51712d2a#ref=rss)
-* [https://www.spiegel.de/panorama/sturmflut-an-der-ostseekueste-erste-uferbereiche-und-strassen-ueberschwemmt](https://www.spiegel.de/panorama/sturmflut-an-der-ostseekueste-erste-uferbereiche-und-strassen-ueberschwemmt-a-75cc7b02-1ede-41ae-b684-e57bc3881ff3#ref=rss)
-### cher
+* [https://www.spiegel.de/panorama/sturmflut-an-der-ostsee-das-wasser-kommt](https://www.spiegel.de/panorama/sturmflut-an-der-ostsee-das-wasser-kommt-a-e5129cc2-ce5b-4ab4-900e-e8b24b98e23c#ref=rss)
+* [https://www.spiegel.de/auto/gesetze-der-ampelkoalition-vorrang-fuer-138-autobahnprojekte-greenpeace-ruegt-desinteresse-an-natur-und-klima](https://www.spiegel.de/auto/gesetze-der-ampelkoalition-vorrang-fuer-138-autobahnprojekte-greenpeace-ruegt-desinteresse-an-natur-und-klima-a-30177b1e-3130-4325-8ccc-49b19239184f#ref=rss)
+### hamas
 
-* [https://www.spiegel.de/kultur/weihnachtspop-von-cher-last-christmas-war-gestern](https://www.spiegel.de/kultur/weihnachtspop-von-cher-last-christmas-war-gestern-a-9f70c958-a80b-4f88-9174-2db75c715b8d#ref=rss)
-### fc
+* [https://www.spiegel.de/ausland/israel-mehrzahl-der-geiseln-der-hamas-soll-am-leben-sein](https://www.spiegel.de/ausland/israel-mehrzahl-der-geiseln-der-hamas-soll-am-leben-sein-a-61b2b0de-bb9c-4117-af9f-c0b6eb71ebc5#ref=rss)
+### leben
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-noussair-mazraoui-drohen-nach-pro-palaestina-posts-keine-konsequenzen](https://www.spiegel.de/sport/fussball/fc-bayern-noussair-mazraoui-drohen-nach-pro-palaestina-posts-keine-konsequenzen-a-f0f791ba-dd33-4c9d-a1d7-9d6fc52a692a#ref=rss)
-### noussair
+* [https://www.spiegel.de/ausland/israel-mehrzahl-der-geiseln-der-hamas-soll-am-leben-sein](https://www.spiegel.de/ausland/israel-mehrzahl-der-geiseln-der-hamas-soll-am-leben-sein-a-61b2b0de-bb9c-4117-af9f-c0b6eb71ebc5#ref=rss)
+### gazastreifen
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-noussair-mazraoui-drohen-nach-pro-palaestina-posts-keine-konsequenzen](https://www.spiegel.de/sport/fussball/fc-bayern-noussair-mazraoui-drohen-nach-pro-palaestina-posts-keine-konsequenzen-a-f0f791ba-dd33-4c9d-a1d7-9d6fc52a692a#ref=rss)
-### mazraoui
+* [https://www.spiegel.de/ausland/israel-mehrzahl-der-geiseln-der-hamas-soll-am-leben-sein](https://www.spiegel.de/ausland/israel-mehrzahl-der-geiseln-der-hamas-soll-am-leben-sein-a-61b2b0de-bb9c-4117-af9f-c0b6eb71ebc5#ref=rss)
+* [https://www.spiegel.de/ausland/israel-und-gaza-benjamin-netanyahu-und-yoav-gallant-bereiten-armee-auf-eine-bodenoffensive-vor](https://www.spiegel.de/ausland/israel-und-gaza-benjamin-netanyahu-und-yoav-gallant-bereiten-armee-auf-eine-bodenoffensive-vor-a-6e69359d-fa50-44d3-9028-734a85460517#ref=rss)
+### armee
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-noussair-mazraoui-drohen-nach-pro-palaestina-posts-keine-konsequenzen](https://www.spiegel.de/sport/fussball/fc-bayern-noussair-mazraoui-drohen-nach-pro-palaestina-posts-keine-konsequenzen-a-f0f791ba-dd33-4c9d-a1d7-9d6fc52a692a#ref=rss)
-### propalästinaposts
+* [https://www.spiegel.de/ausland/israel-mehrzahl-der-geiseln-der-hamas-soll-am-leben-sein](https://www.spiegel.de/ausland/israel-mehrzahl-der-geiseln-der-hamas-soll-am-leben-sein-a-61b2b0de-bb9c-4117-af9f-c0b6eb71ebc5#ref=rss)
+* [https://www.spiegel.de/ausland/israel-und-gaza-benjamin-netanyahu-und-yoav-gallant-bereiten-armee-auf-eine-bodenoffensive-vor](https://www.spiegel.de/ausland/israel-und-gaza-benjamin-netanyahu-und-yoav-gallant-bereiten-armee-auf-eine-bodenoffensive-vor-a-6e69359d-fa50-44d3-9028-734a85460517#ref=rss)
+### ampelkoalition
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-noussair-mazraoui-drohen-nach-pro-palaestina-posts-keine-konsequenzen](https://www.spiegel.de/sport/fussball/fc-bayern-noussair-mazraoui-drohen-nach-pro-palaestina-posts-keine-konsequenzen-a-f0f791ba-dd33-4c9d-a1d7-9d6fc52a692a#ref=rss)
-### italien
+* [https://www.spiegel.de/auto/gesetze-der-ampelkoalition-vorrang-fuer-138-autobahnprojekte-greenpeace-ruegt-desinteresse-an-natur-und-klima](https://www.spiegel.de/auto/gesetze-der-ampelkoalition-vorrang-fuer-138-autobahnprojekte-greenpeace-ruegt-desinteresse-an-natur-und-klima-a-30177b1e-3130-4325-8ccc-49b19239184f#ref=rss)
+### opernhaus
 
-* [https://www.spiegel.de/ausland/italien-gewerkschaften-protestieren-mit-generalstreik-gegen-melonis-regierung](https://www.spiegel.de/ausland/italien-gewerkschaften-protestieren-mit-generalstreik-gegen-melonis-regierung-a-797e7952-dac7-453b-afc4-bb7212bb4f2e#ref=rss)
-### gewerkschaften
+* [https://www.spiegel.de/panorama/sydney-australien-das-beruehmte-opernhaus-wird-50](https://www.spiegel.de/panorama/sydney-australien-das-beruehmte-opernhaus-wird-50-a-dd2f1e0d-84e4-4686-a783-4d93e7bc0643#ref=rss)
+### 50
 
-* [https://www.spiegel.de/ausland/italien-gewerkschaften-protestieren-mit-generalstreik-gegen-melonis-regierung](https://www.spiegel.de/ausland/italien-gewerkschaften-protestieren-mit-generalstreik-gegen-melonis-regierung-a-797e7952-dac7-453b-afc4-bb7212bb4f2e#ref=rss)
-### cochefin
+* [https://www.spiegel.de/panorama/sydney-australien-das-beruehmte-opernhaus-wird-50](https://www.spiegel.de/panorama/sydney-australien-das-beruehmte-opernhaus-wird-50-a-dd2f1e0d-84e4-4686-a783-4d93e7bc0643#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/politik/deutschland/die-gruenen-co-chefin-der-parteijugend-sarah-lee-heinrich-fordert-kurswechsel](https://www.spiegel.de/politik/deutschland/die-gruenen-co-chefin-der-parteijugend-sarah-lee-heinrich-fordert-kurswechsel-a-db85d42b-6f06-4582-b702-e3a4e99c4dc3#ref=rss)
-### sarahlee
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
 
-* [https://www.spiegel.de/politik/deutschland/die-gruenen-co-chefin-der-parteijugend-sarah-lee-heinrich-fordert-kurswechsel](https://www.spiegel.de/politik/deutschland/die-gruenen-co-chefin-der-parteijugend-sarah-lee-heinrich-fordert-kurswechsel-a-db85d42b-6f06-4582-b702-e3a4e99c4dc3#ref=rss)
-### heinrich
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### raketen
 
-* [https://www.spiegel.de/politik/deutschland/die-gruenen-co-chefin-der-parteijugend-sarah-lee-heinrich-fordert-kurswechsel](https://www.spiegel.de/politik/deutschland/die-gruenen-co-chefin-der-parteijugend-sarah-lee-heinrich-fordert-kurswechsel-a-db85d42b-6f06-4582-b702-e3a4e99c4dc3#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-so-verlor-russland-in-einer-nacht-14-helikopter](https://www.spiegel.de/ausland/ukraine-krieg-so-verlor-russland-in-einer-nacht-14-helikopter-a-ae5619f4-214f-4f48-9a05-692ed016d1c9#ref=rss)
+### treffen
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-so-verlor-russland-in-einer-nacht-14-helikopter](https://www.spiegel.de/ausland/ukraine-krieg-so-verlor-russland-in-einer-nacht-14-helikopter-a-ae5619f4-214f-4f48-9a05-692ed016d1c9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-eintracht-frauen-treffen-in-gruppenphase-auf-titelverteidiger-barcelona](https://www.spiegel.de/sport/fussball/champions-league-eintracht-frauen-treffen-in-gruppenphase-auf-titelverteidiger-barcelona-a-2cc594c0-6735-4af9-b768-96b2f5853293#ref=rss)
+### waren
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-so-verlor-russland-in-einer-nacht-14-helikopter](https://www.spiegel.de/ausland/ukraine-krieg-so-verlor-russland-in-einer-nacht-14-helikopter-a-ae5619f4-214f-4f48-9a05-692ed016d1c9#ref=rss)
+* [https://www.spiegel.de/panorama/leute/giorgia-meloni-italiens-ministerpraesidentin-gibt-trennung-von-ihrem-partner-bekannt](https://www.spiegel.de/panorama/leute/giorgia-meloni-italiens-ministerpraesidentin-gibt-trennung-von-ihrem-partner-bekannt-a-dcf59a00-73cd-40d9-8bfe-ccce627451bd#ref=rss)
+### yoav
+
+* [https://www.spiegel.de/ausland/israel-und-gaza-benjamin-netanyahu-und-yoav-gallant-bereiten-armee-auf-eine-bodenoffensive-vor](https://www.spiegel.de/ausland/israel-und-gaza-benjamin-netanyahu-und-yoav-gallant-bereiten-armee-auf-eine-bodenoffensive-vor-a-6e69359d-fa50-44d3-9028-734a85460517#ref=rss)
+### gallant
+
+* [https://www.spiegel.de/ausland/israel-und-gaza-benjamin-netanyahu-und-yoav-gallant-bereiten-armee-auf-eine-bodenoffensive-vor](https://www.spiegel.de/ausland/israel-und-gaza-benjamin-netanyahu-und-yoav-gallant-bereiten-armee-auf-eine-bodenoffensive-vor-a-6e69359d-fa50-44d3-9028-734a85460517#ref=rss)
+### silvio
+
+* [https://www.spiegel.de/kultur/silvio-berlusconi-wertlose-kunstsammlung-bereitet-erben-kopfschmerzen](https://www.spiegel.de/kultur/silvio-berlusconi-wertlose-kunstsammlung-bereitet-erben-kopfschmerzen-a-13acef5d-51e4-4eb7-8c23-cb064993d4d8#ref=rss)
+### berlusconi
+
+* [https://www.spiegel.de/kultur/silvio-berlusconi-wertlose-kunstsammlung-bereitet-erben-kopfschmerzen](https://www.spiegel.de/kultur/silvio-berlusconi-wertlose-kunstsammlung-bereitet-erben-kopfschmerzen-a-13acef5d-51e4-4eb7-8c23-cb064993d4d8#ref=rss)
+### champions
+
+* [https://www.spiegel.de/sport/fussball/champions-league-eintracht-frauen-treffen-in-gruppenphase-auf-titelverteidiger-barcelona](https://www.spiegel.de/sport/fussball/champions-league-eintracht-frauen-treffen-in-gruppenphase-auf-titelverteidiger-barcelona-a-2cc594c0-6735-4af9-b768-96b2f5853293#ref=rss)
+### league
+
+* [https://www.spiegel.de/sport/fussball/champions-league-eintracht-frauen-treffen-in-gruppenphase-auf-titelverteidiger-barcelona](https://www.spiegel.de/sport/fussball/champions-league-eintracht-frauen-treffen-in-gruppenphase-auf-titelverteidiger-barcelona-a-2cc594c0-6735-4af9-b768-96b2f5853293#ref=rss)
+### titelverteidiger
+
+* [https://www.spiegel.de/sport/fussball/champions-league-eintracht-frauen-treffen-in-gruppenphase-auf-titelverteidiger-barcelona](https://www.spiegel.de/sport/fussball/champions-league-eintracht-frauen-treffen-in-gruppenphase-auf-titelverteidiger-barcelona-a-2cc594c0-6735-4af9-b768-96b2f5853293#ref=rss)
+### fußballerinnen
+
+* [https://www.spiegel.de/sport/fussball/champions-league-eintracht-frauen-treffen-in-gruppenphase-auf-titelverteidiger-barcelona](https://www.spiegel.de/sport/fussball/champions-league-eintracht-frauen-treffen-in-gruppenphase-auf-titelverteidiger-barcelona-a-2cc594c0-6735-4af9-b768-96b2f5853293#ref=rss)
+* [https://www.spiegel.de/sport/fussball/horst-hrubesch-ueber-dfb-frauen-alle-muessen-bei-null-anfangen](https://www.spiegel.de/sport/fussball/horst-hrubesch-ueber-dfb-frauen-alle-muessen-bei-null-anfangen-a-c6f17e10-7e7f-4fce-97af-1886657cbc92#ref=rss)
+### horst
+
+* [https://www.spiegel.de/sport/fussball/horst-hrubesch-ueber-dfb-frauen-alle-muessen-bei-null-anfangen](https://www.spiegel.de/sport/fussball/horst-hrubesch-ueber-dfb-frauen-alle-muessen-bei-null-anfangen-a-c6f17e10-7e7f-4fce-97af-1886657cbc92#ref=rss)
+### hrubesch
+
+* [https://www.spiegel.de/sport/fussball/horst-hrubesch-ueber-dfb-frauen-alle-muessen-bei-null-anfangen](https://www.spiegel.de/sport/fussball/horst-hrubesch-ueber-dfb-frauen-alle-muessen-bei-null-anfangen-a-c6f17e10-7e7f-4fce-97af-1886657cbc92#ref=rss)
+### giorgia
+
+* [https://www.spiegel.de/panorama/leute/giorgia-meloni-italiens-ministerpraesidentin-gibt-trennung-von-ihrem-partner-bekannt](https://www.spiegel.de/panorama/leute/giorgia-meloni-italiens-ministerpraesidentin-gibt-trennung-von-ihrem-partner-bekannt-a-dcf59a00-73cd-40d9-8bfe-ccce627451bd#ref=rss)
+### meloni
+
+* [https://www.spiegel.de/panorama/leute/giorgia-meloni-italiens-ministerpraesidentin-gibt-trennung-von-ihrem-partner-bekannt](https://www.spiegel.de/panorama/leute/giorgia-meloni-italiens-ministerpraesidentin-gibt-trennung-von-ihrem-partner-bekannt-a-dcf59a00-73cd-40d9-8bfe-ccce627451bd#ref=rss)
+### könig
+
+* [https://www.spiegel.de/ausland/koenig-willem-alexander-und-koenigin-maxima-demonstrierende-bedraengen-koenigspaar-in-suedafrika](https://www.spiegel.de/ausland/koenig-willem-alexander-und-koenigin-maxima-demonstrierende-bedraengen-koenigspaar-in-suedafrika-a-f000f351-536d-4ccc-abd9-728a11da6a0d#ref=rss)
+### willemalexander
+
+* [https://www.spiegel.de/ausland/koenig-willem-alexander-und-koenigin-maxima-demonstrierende-bedraengen-koenigspaar-in-suedafrika](https://www.spiegel.de/ausland/koenig-willem-alexander-und-koenigin-maxima-demonstrierende-bedraengen-koenigspaar-in-suedafrika-a-f000f351-536d-4ccc-abd9-728a11da6a0d#ref=rss)
+### königin
+
+* [https://www.spiegel.de/ausland/koenig-willem-alexander-und-koenigin-maxima-demonstrierende-bedraengen-koenigspaar-in-suedafrika](https://www.spiegel.de/ausland/koenig-willem-alexander-und-koenigin-maxima-demonstrierende-bedraengen-koenigspaar-in-suedafrika-a-f000f351-536d-4ccc-abd9-728a11da6a0d#ref=rss)
+### máxima
+
+* [https://www.spiegel.de/ausland/koenig-willem-alexander-und-koenigin-maxima-demonstrierende-bedraengen-koenigspaar-in-suedafrika](https://www.spiegel.de/ausland/koenig-willem-alexander-und-koenigin-maxima-demonstrierende-bedraengen-koenigspaar-in-suedafrika-a-f000f351-536d-4ccc-abd9-728a11da6a0d#ref=rss)
+### künstliche
+
+* [https://www.spiegel.de/wirtschaft/ki-bundeswehr-kuerzt-gelder-fuer-kuenstliche-intelligenz](https://www.spiegel.de/wirtschaft/ki-bundeswehr-kuerzt-gelder-fuer-kuenstliche-intelligenz-a-f07b8c63-663f-42ac-b93f-d911668ca7e5#ref=rss)
+### intelligenz
+
+* [https://www.spiegel.de/wirtschaft/ki-bundeswehr-kuerzt-gelder-fuer-kuenstliche-intelligenz](https://www.spiegel.de/wirtschaft/ki-bundeswehr-kuerzt-gelder-fuer-kuenstliche-intelligenz-a-f07b8c63-663f-42ac-b93f-d911668ca7e5#ref=rss)
 
