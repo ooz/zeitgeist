@@ -4,357 +4,328 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### viele
-
-* [https://www.spiegel.de/ausland/israel-nach-dem-hamas-terror-zwischen-trauer-miteinander-und-hoffnung](https://www.spiegel.de/ausland/israel-nach-dem-hamas-terror-zwischen-trauer-miteinander-und-hoffnung-a-644e69b3-09d5-43cf-8797-1f09b8d455a4#ref=rss)
-* [https://www.spiegel.de/kultur/britney-spears-der-naechste-chaotisch-ruehrende-befreiungsschlag](https://www.spiegel.de/kultur/britney-spears-der-naechste-chaotisch-ruehrende-befreiungsschlag-a-673e5de4-09fa-466a-ac83-9990a0a02256#ref=rss)
-* [https://www.spiegel.de/panorama/otis-zahl-der-toten-nach-hurrikan-in-mexiko-steigt-auf-39-viele-opfer-offenbar-ertrunken](https://www.spiegel.de/panorama/otis-zahl-der-toten-nach-hurrikan-in-mexiko-steigt-auf-39-viele-opfer-offenbar-ertrunken-a-d640388a-a995-4c65-927a-4f52835d8b5a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mondfinsternis-viele-wolken-erschwerten-blick-auf-das-himmelsspektakel](https://www.spiegel.de/wissenschaft/mondfinsternis-viele-wolken-erschwerten-blick-auf-das-himmelsspektakel-a-acb54705-d35c-4520-a023-2d99305b903e#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-krieg-hamas-hat-offenbar-vorraete-fuer-drei-bis-vier-monate-angelegt](https://www.spiegel.de/ausland/gaza-krieg-hamas-hat-offenbar-vorraete-fuer-drei-bis-vier-monate-angelegt-a-b17d50fd-e5d9-4dbb-a758-05deeea75a07#ref=rss)
 ### israel
 
-* [https://www.spiegel.de/ausland/israel-nach-dem-hamas-terror-zwischen-trauer-miteinander-und-hoffnung](https://www.spiegel.de/ausland/israel-nach-dem-hamas-terror-zwischen-trauer-miteinander-und-hoffnung-a-644e69b3-09d5-43cf-8797-1f09b8d455a4#ref=rss)
-* [https://www.spiegel.de/ausland/israel-ruft-diplomatische-vertreter-aus-der-tuerkei-zurueck](https://www.spiegel.de/ausland/israel-ruft-diplomatische-vertreter-aus-der-tuerkei-zurueck-a-fb688bc2-ab38-47f0-aa58-b9ee65c052d6#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-krieg-hamas-hat-offenbar-vorraete-fuer-drei-bis-vier-monate-angelegt](https://www.spiegel.de/ausland/gaza-krieg-hamas-hat-offenbar-vorraete-fuer-drei-bis-vier-monate-angelegt-a-b17d50fd-e5d9-4dbb-a758-05deeea75a07#ref=rss)
-### 1
+* [https://www.spiegel.de/ausland/iran-droht-israel-wegen-gaza-krieg-rote-linie-ueberschritten](https://www.spiegel.de/ausland/iran-droht-israel-wegen-gaza-krieg-rote-linie-ueberschritten-a-9b85dce8-0467-4f4e-9a26-82ed412357b4#ref=rss)
+* [https://www.spiegel.de/ausland/israel-benjamin-netanyahu-unter-druck-nach-tweet](https://www.spiegel.de/ausland/israel-benjamin-netanyahu-unter-druck-nach-tweet-a-7fe00ff6-a7e7-41ce-bf95-5599d4e6a295#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/nahostkonflikt-mobileye-chef-amnon-shashua-fordert-absetzung-von-netanyahu](https://www.spiegel.de/wirtschaft/unternehmen/nahostkonflikt-mobileye-chef-amnon-shashua-fordert-absetzung-von-netanyahu-a-d27cf6a4-d63d-4014-9913-80a5b14b2835#ref=rss)
+* [https://www.spiegel.de/geschichte/israel-und-palaestina-diese-buecher-empfehlen-experten-zum-nahostkonflikt](https://www.spiegel.de/geschichte/israel-und-palaestina-diese-buecher-empfehlen-experten-zum-nahostkonflikt-a-2070f980-7ad7-4385-ae72-90f16166537d#ref=rss)
+* [https://www.spiegel.de/politik/statement-von-fridays-for-future-ueber-israel-reden](https://www.spiegel.de/politik/statement-von-fridays-for-future-ueber-israel-reden-a-15362088-84b9-4fa1-ae78-80f8add18885#ref=rss)
+### viele
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-mexiko-ferrari-holt-erste-startreihe-verstappen-folgt-direkt-dahinter](https://www.spiegel.de/sport/formel1/formel-1-in-mexiko-ferrari-holt-erste-startreihe-verstappen-folgt-direkt-dahinter-a-54f85c36-4497-4f2e-8f7b-b78d0331b027#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-effektiver-1-fc-kaiserslautern-erkaempft-remis-gegen-den-hamburger-sv](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-effektiver-1-fc-kaiserslautern-erkaempft-remis-gegen-den-hamburger-sv-a-80fe7ca2-e1f7-4e5b-9567-47de088bf271#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-nimmt-den-1-fc-koeln-auseinander](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-nimmt-den-1-fc-koeln-auseinander-a-05329c40-df5b-4027-a11a-53644fa66d4f#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/manuel-neuer-mit-rueckkehr-beim-fc-bayern-muenchen-die-alte-aura-in-der-arena](https://www.spiegel.de/sport/fussball/manuel-neuer-mit-rueckkehr-beim-fc-bayern-muenchen-die-alte-aura-in-der-arena-a-6043d673-320e-4248-8952-5a0f340f532f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-effektiver-1-fc-kaiserslautern-erkaempft-remis-gegen-den-hamburger-sv](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-effektiver-1-fc-kaiserslautern-erkaempft-remis-gegen-den-hamburger-sv-a-80fe7ca2-e1f7-4e5b-9567-47de088bf271#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-nimmt-den-1-fc-koeln-auseinander](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-nimmt-den-1-fc-koeln-auseinander-a-05329c40-df5b-4027-a11a-53644fa66d4f#ref=rss)
-### rolle
-
-* [https://www.spiegel.de/sport/fussball/manuel-neuer-mit-rueckkehr-beim-fc-bayern-muenchen-die-alte-aura-in-der-arena](https://www.spiegel.de/sport/fussball/manuel-neuer-mit-rueckkehr-beim-fc-bayern-muenchen-die-alte-aura-in-der-arena-a-6043d673-320e-4248-8952-5a0f340f532f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutschland-und-der-nahostkonflikt-mission-vermittlerin](https://www.spiegel.de/politik/deutschland/deutschland-und-der-nahostkonflikt-mission-vermittlerin-a-21510962-2063-46a6-8bdd-c221b9455730#ref=rss)
-* [https://www.spiegel.de/panorama/leute/matthew-perry-friends-star-medienberichten-zufolge-im-alter-von-54-jahren-gestorben](https://www.spiegel.de/panorama/leute/matthew-perry-friends-star-medienberichten-zufolge-im-alter-von-54-jahren-gestorben-a-c6f105b9-367c-4ec4-a007-578c610c974c#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-israel-greift-hamas-an-benjamin-netanyahu-verkuendet-zweite-phase-des-krieges](https://www.spiegel.de/ausland/gaza-israel-greift-hamas-an-benjamin-netanyahu-verkuendet-zweite-phase-des-krieges-a-a6d34dbb-aaa7-4714-8074-2b4c0e65b1bb#ref=rss)
-### hamas
-
-* [https://www.spiegel.de/ausland/israel-nach-dem-hamas-terror-zwischen-trauer-miteinander-und-hoffnung](https://www.spiegel.de/ausland/israel-nach-dem-hamas-terror-zwischen-trauer-miteinander-und-hoffnung-a-644e69b3-09d5-43cf-8797-1f09b8d455a4#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-israel-greift-hamas-an-benjamin-netanyahu-verkuendet-zweite-phase-des-krieges](https://www.spiegel.de/ausland/gaza-israel-greift-hamas-an-benjamin-netanyahu-verkuendet-zweite-phase-des-krieges-a-a6d34dbb-aaa7-4714-8074-2b4c0e65b1bb#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-krieg-hamas-hat-offenbar-vorraete-fuer-drei-bis-vier-monate-angelegt](https://www.spiegel.de/ausland/gaza-krieg-hamas-hat-offenbar-vorraete-fuer-drei-bis-vier-monate-angelegt-a-b17d50fd-e5d9-4dbb-a758-05deeea75a07#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/israel-nach-dem-hamas-terror-zwischen-trauer-miteinander-und-hoffnung](https://www.spiegel.de/ausland/israel-nach-dem-hamas-terror-zwischen-trauer-miteinander-und-hoffnung-a-644e69b3-09d5-43cf-8797-1f09b8d455a4#ref=rss)
-* [https://www.spiegel.de/psychologie/lange-und-gut-leben-wer-positiv-uebers-alter-denkt-lebt-bis-zu-13-jahre-laenger](https://www.spiegel.de/psychologie/lange-und-gut-leben-wer-positiv-uebers-alter-denkt-lebt-bis-zu-13-jahre-laenger-a-2d943747-0eb8-465e-bc5d-71218f356e0e#ref=rss)
-* [https://www.spiegel.de/panorama/otis-zahl-der-toten-nach-hurrikan-in-mexiko-steigt-auf-39-viele-opfer-offenbar-ertrunken](https://www.spiegel.de/panorama/otis-zahl-der-toten-nach-hurrikan-in-mexiko-steigt-auf-39-viele-opfer-offenbar-ertrunken-a-d640388a-a995-4c65-927a-4f52835d8b5a#ref=rss)
-* [https://www.spiegel.de/kultur/selbstueberschaetzung-und-uebertriebene-aengstlichkeit-das-eitle-ich](https://www.spiegel.de/kultur/selbstueberschaetzung-und-uebertriebene-aengstlichkeit-das-eitle-ich-a-545e12a7-0265-4c06-ae18-988d7cf62f8a#ref=rss)
-### mexiko
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-mexiko-ferrari-holt-erste-startreihe-verstappen-folgt-direkt-dahinter](https://www.spiegel.de/sport/formel1/formel-1-in-mexiko-ferrari-holt-erste-startreihe-verstappen-folgt-direkt-dahinter-a-54f85c36-4497-4f2e-8f7b-b78d0331b027#ref=rss)
-* [https://www.spiegel.de/panorama/otis-zahl-der-toten-nach-hurrikan-in-mexiko-steigt-auf-39-viele-opfer-offenbar-ertrunken](https://www.spiegel.de/panorama/otis-zahl-der-toten-nach-hurrikan-in-mexiko-steigt-auf-39-viele-opfer-offenbar-ertrunken-a-d640388a-a995-4c65-927a-4f52835d8b5a#ref=rss)
-### glück
-
-* [https://www.spiegel.de/sport/tyson-fury-wird-von-francis-ngannou-niedergestreckt-entgeht-aber-der-blamage](https://www.spiegel.de/sport/tyson-fury-wird-von-francis-ngannou-niedergestreckt-entgeht-aber-der-blamage-a-c3e661af-5da3-449c-a7fb-4399d54cadb2#ref=rss)
-* [https://www.spiegel.de/psychologie/lange-und-gut-leben-wer-positiv-uebers-alter-denkt-lebt-bis-zu-13-jahre-laenger](https://www.spiegel.de/psychologie/lange-und-gut-leben-wer-positiv-uebers-alter-denkt-lebt-bis-zu-13-jahre-laenger-a-2d943747-0eb8-465e-bc5d-71218f356e0e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mondfinsternis-viele-wolken-erschwerten-blick-auf-das-himmelsspektakel](https://www.spiegel.de/wissenschaft/mondfinsternis-viele-wolken-erschwerten-blick-auf-das-himmelsspektakel-a-acb54705-d35c-4520-a023-2d99305b903e#ref=rss)
-### drei
-
-* [https://www.spiegel.de/ausland/israel-nach-dem-hamas-terror-zwischen-trauer-miteinander-und-hoffnung](https://www.spiegel.de/ausland/israel-nach-dem-hamas-terror-zwischen-trauer-miteinander-und-hoffnung-a-644e69b3-09d5-43cf-8797-1f09b8d455a4#ref=rss)
-* [https://www.spiegel.de/panorama/zeitumstellung-uhren-wurden-in-der-nacht-auf-sonntag-zurueckgestellt](https://www.spiegel.de/panorama/zeitumstellung-uhren-wurden-in-der-nacht-auf-sonntag-zurueckgestellt-a-b0ebd46b-0669-4dae-b34a-01b0b016de94#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-krieg-hamas-hat-offenbar-vorraete-fuer-drei-bis-vier-monate-angelegt](https://www.spiegel.de/ausland/gaza-krieg-hamas-hat-offenbar-vorraete-fuer-drei-bis-vier-monate-angelegt-a-b17d50fd-e5d9-4dbb-a758-05deeea75a07#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/psychologie/lange-und-gut-leben-wer-positiv-uebers-alter-denkt-lebt-bis-zu-13-jahre-laenger](https://www.spiegel.de/psychologie/lange-und-gut-leben-wer-positiv-uebers-alter-denkt-lebt-bis-zu-13-jahre-laenger-a-2d943747-0eb8-465e-bc5d-71218f356e0e#ref=rss)
-* [https://www.spiegel.de/kultur/britney-spears-der-naechste-chaotisch-ruehrende-befreiungsschlag](https://www.spiegel.de/kultur/britney-spears-der-naechste-chaotisch-ruehrende-befreiungsschlag-a-673e5de4-09fa-466a-ac83-9990a0a02256#ref=rss)
-* [https://www.spiegel.de/ausland/annalena-baerbock-attackiert-iran-nach-tod-von-armita-garawand](https://www.spiegel.de/ausland/annalena-baerbock-attackiert-iran-nach-tod-von-armita-garawand-a-dcef5ca4-43d5-456f-994b-235d62fc2b40#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/psychologie/lange-und-gut-leben-wer-positiv-uebers-alter-denkt-lebt-bis-zu-13-jahre-laenger](https://www.spiegel.de/psychologie/lange-und-gut-leben-wer-positiv-uebers-alter-denkt-lebt-bis-zu-13-jahre-laenger-a-2d943747-0eb8-465e-bc5d-71218f356e0e#ref=rss)
-* [https://www.spiegel.de/ausland/kolonialzeit-in-tansania-diese-brutalen-verbrechen-werden-gezielt-verschwiegen](https://www.spiegel.de/ausland/kolonialzeit-in-tansania-diese-brutalen-verbrechen-werden-gezielt-verschwiegen-a-cf688bb2-9e8e-4743-a2d4-c347d451eea7#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-israel-greift-hamas-an-benjamin-netanyahu-verkuendet-zweite-phase-des-krieges](https://www.spiegel.de/ausland/gaza-israel-greift-hamas-an-benjamin-netanyahu-verkuendet-zweite-phase-des-krieges-a-a6d34dbb-aaa7-4714-8074-2b4c0e65b1bb#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/panorama/zeitumstellung-uhren-wurden-in-der-nacht-auf-sonntag-zurueckgestellt](https://www.spiegel.de/panorama/zeitumstellung-uhren-wurden-in-der-nacht-auf-sonntag-zurueckgestellt-a-b0ebd46b-0669-4dae-b34a-01b0b016de94#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutschland-und-der-nahostkonflikt-mission-vermittlerin](https://www.spiegel.de/politik/deutschland/deutschland-und-der-nahostkonflikt-mission-vermittlerin-a-21510962-2063-46a6-8bdd-c221b9455730#ref=rss)
-* [https://www.spiegel.de/panorama/zentralrat-der-juden-kritisiert-deutsche-enthaltung-bei-uno-resolution-zu-nahost](https://www.spiegel.de/panorama/zentralrat-der-juden-kritisiert-deutsche-enthaltung-bei-uno-resolution-zu-nahost-a-4f848c6a-ffe4-4ead-a3a6-7f1b9892795f#ref=rss)
-### zieht
-
-* [https://www.spiegel.de/ausland/israel-gaza-news-heute-gazastreifen-ist-wieder-per-internet-und-telefon-erreichbar](https://www.spiegel.de/ausland/israel-gaza-news-heute-gazastreifen-ist-wieder-per-internet-und-telefon-erreichbar-a-b49b40b7-02f8-45dc-a305-66b8e7a9f921#ref=rss)
-* [https://www.spiegel.de/ausland/mike-pence-zieht-seine-praesidentschaftsbewerbung-zurueck](https://www.spiegel.de/ausland/mike-pence-zieht-seine-praesidentschaftsbewerbung-zurueck-a-f0b211fe-5c17-4db2-ba9d-87b92fbc2cd7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/kasachstan-explosion-in-bergwerk-mindestens-32-tote](https://www.spiegel.de/wirtschaft/soziales/kasachstan-explosion-in-bergwerk-mindestens-32-tote-a-f99364d7-89a4-4c8b-838f-c9fb89bbf13f#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/ausland/israel-gaza-news-heute-gazastreifen-ist-wieder-per-internet-und-telefon-erreichbar](https://www.spiegel.de/ausland/israel-gaza-news-heute-gazastreifen-ist-wieder-per-internet-und-telefon-erreichbar-a-b49b40b7-02f8-45dc-a305-66b8e7a9f921#ref=rss)
-* [https://www.spiegel.de/ausland/israel-ruft-diplomatische-vertreter-aus-der-tuerkei-zurueck](https://www.spiegel.de/ausland/israel-ruft-diplomatische-vertreter-aus-der-tuerkei-zurueck-a-fb688bc2-ab38-47f0-aa58-b9ee65c052d6#ref=rss)
-* [https://www.spiegel.de/ausland/mike-pence-zieht-seine-praesidentschaftsbewerbung-zurueck](https://www.spiegel.de/ausland/mike-pence-zieht-seine-praesidentschaftsbewerbung-zurueck-a-f0b211fe-5c17-4db2-ba9d-87b92fbc2cd7#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/ausland/kolonialzeit-in-tansania-diese-brutalen-verbrechen-werden-gezielt-verschwiegen](https://www.spiegel.de/ausland/kolonialzeit-in-tansania-diese-brutalen-verbrechen-werden-gezielt-verschwiegen-a-cf688bb2-9e8e-4743-a2d4-c347d451eea7#ref=rss)
-* [https://www.spiegel.de/panorama/zentralrat-der-juden-kritisiert-deutsche-enthaltung-bei-uno-resolution-zu-nahost](https://www.spiegel.de/panorama/zentralrat-der-juden-kritisiert-deutsche-enthaltung-bei-uno-resolution-zu-nahost-a-4f848c6a-ffe4-4ead-a3a6-7f1b9892795f#ref=rss)
-* [https://www.spiegel.de/ausland/annalena-baerbock-attackiert-iran-nach-tod-von-armita-garawand](https://www.spiegel.de/ausland/annalena-baerbock-attackiert-iran-nach-tod-von-armita-garawand-a-dcef5ca4-43d5-456f-994b-235d62fc2b40#ref=rss)
-### tag
-
-* [https://www.spiegel.de/deinspiegel/so-entsteht-brot-in-einer-grossbaeckerei](https://www.spiegel.de/deinspiegel/so-entsteht-brot-in-einer-grossbaeckerei-a-7c01eed1-27a9-4631-940c-38ba974d104e#ref=rss)
-* [https://www.spiegel.de/panorama/taylor-swift-ist-meistgestreamte-spotify-kuenstlerin-innerhalb-eines-tages-gleich-zwei-rekorde-mit-neuem-album](https://www.spiegel.de/panorama/taylor-swift-ist-meistgestreamte-spotify-kuenstlerin-innerhalb-eines-tages-gleich-zwei-rekorde-mit-neuem-album-a-036d4711-16ac-4144-b599-165279d2fc11#ref=rss)
-* [https://www.spiegel.de/ausland/israel-ruft-diplomatische-vertreter-aus-der-tuerkei-zurueck](https://www.spiegel.de/ausland/israel-ruft-diplomatische-vertreter-aus-der-tuerkei-zurueck-a-fb688bc2-ab38-47f0-aa58-b9ee65c052d6#ref=rss)
-### bundesliga
-
-* [https://www.spiegel.de/sport/xabi-alonso-der-mann-der-leverkusen-und-die-bundesliga-verzaubert](https://www.spiegel.de/sport/xabi-alonso-der-mann-der-leverkusen-und-die-bundesliga-verzaubert-a-6b3c34e8-bdf4-4983-a7da-0e428ef16b97#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-effektiver-1-fc-kaiserslautern-erkaempft-remis-gegen-den-hamburger-sv](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-effektiver-1-fc-kaiserslautern-erkaempft-remis-gegen-den-hamburger-sv-a-80fe7ca2-e1f7-4e5b-9567-47de088bf271#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-nimmt-den-1-fc-koeln-auseinander](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-nimmt-den-1-fc-koeln-auseinander-a-05329c40-df5b-4027-a11a-53644fa66d4f#ref=rss)
-### baerbock
-
-* [https://www.spiegel.de/politik/deutschland/deutschland-und-der-nahostkonflikt-mission-vermittlerin](https://www.spiegel.de/politik/deutschland/deutschland-und-der-nahostkonflikt-mission-vermittlerin-a-21510962-2063-46a6-8bdd-c221b9455730#ref=rss)
-* [https://www.spiegel.de/ausland/annalena-baerbock-attackiert-iran-nach-tod-von-armita-garawand](https://www.spiegel.de/ausland/annalena-baerbock-attackiert-iran-nach-tod-von-armita-garawand-a-dcef5ca4-43d5-456f-994b-235d62fc2b40#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/migration-ekd-ratsvorsitzende-annette-kurschus-haelt-aufnahmekapazitaet-noch-lange-nicht-erreicht](https://www.spiegel.de/politik/deutschland/migration-ekd-ratsvorsitzende-annette-kurschus-haelt-aufnahmekapazitaet-noch-lange-nicht-erreicht-a-1325065b-53d8-419d-8450-06e9faefcb4e#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-muenchen-koeniginnen-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-muenchen-koeniginnen-im-schnellcheck-a-1f9b1377-a993-4db5-851b-3aa2ca452802#ref=rss)
+* [https://www.spiegel.de/panorama/leute/matthew-perry-hollywood-trauert-was-fuer-ein-verlust-die-welt-wird-dich-vermissen](https://www.spiegel.de/panorama/leute/matthew-perry-hollywood-trauert-was-fuer-ein-verlust-die-welt-wird-dich-vermissen-a-27d80387-78cb-44f9-b170-54c501a8a68c#ref=rss)
+* [https://www.spiegel.de/karriere/wie-viele-loesungen-hat-die-gleichung-raetsel-der-woche](https://www.spiegel.de/karriere/wie-viele-loesungen-hat-die-gleichung-raetsel-der-woche-a-a270d9fe-6af8-4f0c-bace-b8d49624b200#ref=rss)
 ### perry
 
-* [https://www.spiegel.de/panorama/leute/matthew-perry-friends-star-medienberichten-zufolge-im-alter-von-54-jahren-gestorben](https://www.spiegel.de/panorama/leute/matthew-perry-friends-star-medienberichten-zufolge-im-alter-von-54-jahren-gestorben-a-c6f105b9-367c-4ec4-a007-578c610c974c#ref=rss)
-### adam
-
-* [https://www.spiegel.de/sport/eishockey/adam-johnson-eishockey-profi-wird-von-schlittschuh-getroffen-und-stirbt](https://www.spiegel.de/sport/eishockey/adam-johnson-eishockey-profi-wird-von-schlittschuh-getroffen-und-stirbt-a-3cdc586e-aa26-42e0-9772-90d29d30ace6#ref=rss)
-### johnson
-
-* [https://www.spiegel.de/sport/eishockey/adam-johnson-eishockey-profi-wird-von-schlittschuh-getroffen-und-stirbt](https://www.spiegel.de/sport/eishockey/adam-johnson-eishockey-profi-wird-von-schlittschuh-getroffen-und-stirbt-a-3cdc586e-aa26-42e0-9772-90d29d30ace6#ref=rss)
-### getroffen
-
-* [https://www.spiegel.de/sport/eishockey/adam-johnson-eishockey-profi-wird-von-schlittschuh-getroffen-und-stirbt](https://www.spiegel.de/sport/eishockey/adam-johnson-eishockey-profi-wird-von-schlittschuh-getroffen-und-stirbt-a-3cdc586e-aa26-42e0-9772-90d29d30ace6#ref=rss)
-* [https://www.spiegel.de/panorama/otis-zahl-der-toten-nach-hurrikan-in-mexiko-steigt-auf-39-viele-opfer-offenbar-ertrunken](https://www.spiegel.de/panorama/otis-zahl-der-toten-nach-hurrikan-in-mexiko-steigt-auf-39-viele-opfer-offenbar-ertrunken-a-d640388a-a995-4c65-927a-4f52835d8b5a#ref=rss)
-### partie
-
-* [https://www.spiegel.de/sport/eishockey/adam-johnson-eishockey-profi-wird-von-schlittschuh-getroffen-und-stirbt](https://www.spiegel.de/sport/eishockey/adam-johnson-eishockey-profi-wird-von-schlittschuh-getroffen-und-stirbt-a-3cdc586e-aa26-42e0-9772-90d29d30ace6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-effektiver-1-fc-kaiserslautern-erkaempft-remis-gegen-den-hamburger-sv](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-effektiver-1-fc-kaiserslautern-erkaempft-remis-gegen-den-hamburger-sv-a-80fe7ca2-e1f7-4e5b-9567-47de088bf271#ref=rss)
-### nimmt
-
-* [https://www.spiegel.de/sport/eishockey/adam-johnson-eishockey-profi-wird-von-schlittschuh-getroffen-und-stirbt](https://www.spiegel.de/sport/eishockey/adam-johnson-eishockey-profi-wird-von-schlittschuh-getroffen-und-stirbt-a-3cdc586e-aa26-42e0-9772-90d29d30ace6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-nimmt-den-1-fc-koeln-auseinander](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-nimmt-den-1-fc-koeln-auseinander-a-05329c40-df5b-4027-a11a-53644fa66d4f#ref=rss)
-### tod
-
-* [https://www.spiegel.de/sport/eishockey/adam-johnson-eishockey-profi-wird-von-schlittschuh-getroffen-und-stirbt](https://www.spiegel.de/sport/eishockey/adam-johnson-eishockey-profi-wird-von-schlittschuh-getroffen-und-stirbt-a-3cdc586e-aa26-42e0-9772-90d29d30ace6#ref=rss)
-* [https://www.spiegel.de/ausland/annalena-baerbock-attackiert-iran-nach-tod-von-armita-garawand](https://www.spiegel.de/ausland/annalena-baerbock-attackiert-iran-nach-tod-von-armita-garawand-a-dcef5ca4-43d5-456f-994b-235d62fc2b40#ref=rss)
-### erste
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-mexiko-ferrari-holt-erste-startreihe-verstappen-folgt-direkt-dahinter](https://www.spiegel.de/sport/formel1/formel-1-in-mexiko-ferrari-holt-erste-startreihe-verstappen-folgt-direkt-dahinter-a-54f85c36-4497-4f2e-8f7b-b78d0331b027#ref=rss)
-* [https://www.spiegel.de/sport/rugby-wm-suedafrika-kroent-sich-gegen-neuseeland-zum-rekordweltmeister](https://www.spiegel.de/sport/rugby-wm-suedafrika-kroent-sich-gegen-neuseeland-zum-rekordweltmeister-a-c4d862db-6a54-4b38-9353-d8cc78805595#ref=rss)
-### verstappen
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-mexiko-ferrari-holt-erste-startreihe-verstappen-folgt-direkt-dahinter](https://www.spiegel.de/sport/formel1/formel-1-in-mexiko-ferrari-holt-erste-startreihe-verstappen-folgt-direkt-dahinter-a-54f85c36-4497-4f2e-8f7b-b78d0331b027#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-mexiko-ferrari-holt-erste-startreihe-verstappen-folgt-direkt-dahinter](https://www.spiegel.de/sport/formel1/formel-1-in-mexiko-ferrari-holt-erste-startreihe-verstappen-folgt-direkt-dahinter-a-54f85c36-4497-4f2e-8f7b-b78d0331b027#ref=rss)
-* [https://www.spiegel.de/wirtschaft/energiekrise-bundeskanzler-olaf-scholz-betont-interesse-an-gas-aus-nigeria](https://www.spiegel.de/wirtschaft/energiekrise-bundeskanzler-olaf-scholz-betont-interesse-an-gas-aus-nigeria-a-5c8c3c6d-c9de-46ef-baaa-389fd78272e5#ref=rss)
-### hoffnung
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-mexiko-ferrari-holt-erste-startreihe-verstappen-folgt-direkt-dahinter](https://www.spiegel.de/sport/formel1/formel-1-in-mexiko-ferrari-holt-erste-startreihe-verstappen-folgt-direkt-dahinter-a-54f85c36-4497-4f2e-8f7b-b78d0331b027#ref=rss)
-* [https://www.spiegel.de/ausland/israel-nach-dem-hamas-terror-zwischen-trauer-miteinander-und-hoffnung](https://www.spiegel.de/ausland/israel-nach-dem-hamas-terror-zwischen-trauer-miteinander-und-hoffnung-a-644e69b3-09d5-43cf-8797-1f09b8d455a4#ref=rss)
-### manuel
-
-* [https://www.spiegel.de/sport/fussball/manuel-neuer-mit-rueckkehr-beim-fc-bayern-muenchen-die-alte-aura-in-der-arena](https://www.spiegel.de/sport/fussball/manuel-neuer-mit-rueckkehr-beim-fc-bayern-muenchen-die-alte-aura-in-der-arena-a-6043d673-320e-4248-8952-5a0f340f532f#ref=rss)
-### neuer
-
-* [https://www.spiegel.de/sport/fussball/manuel-neuer-mit-rueckkehr-beim-fc-bayern-muenchen-die-alte-aura-in-der-arena](https://www.spiegel.de/sport/fussball/manuel-neuer-mit-rueckkehr-beim-fc-bayern-muenchen-die-alte-aura-in-der-arena-a-6043d673-320e-4248-8952-5a0f340f532f#ref=rss)
-### gelsenkirchen
-
-* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-polizei-beendet-konzert-der-rechten-szene-sieben-strafverfahren-eingeleitet](https://www.spiegel.de/panorama/justiz/gelsenkirchen-polizei-beendet-konzert-der-rechten-szene-sieben-strafverfahren-eingeleitet-a-e9a2d392-cfa6-4644-9cbc-dbcbe479685d#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-polizei-beendet-konzert-der-rechten-szene-sieben-strafverfahren-eingeleitet](https://www.spiegel.de/panorama/justiz/gelsenkirchen-polizei-beendet-konzert-der-rechten-szene-sieben-strafverfahren-eingeleitet-a-e9a2d392-cfa6-4644-9cbc-dbcbe479685d#ref=rss)
-### tyson
-
-* [https://www.spiegel.de/sport/tyson-fury-wird-von-francis-ngannou-niedergestreckt-entgeht-aber-der-blamage](https://www.spiegel.de/sport/tyson-fury-wird-von-francis-ngannou-niedergestreckt-entgeht-aber-der-blamage-a-c3e661af-5da3-449c-a7fb-4399d54cadb2#ref=rss)
-### fury
-
-* [https://www.spiegel.de/sport/tyson-fury-wird-von-francis-ngannou-niedergestreckt-entgeht-aber-der-blamage](https://www.spiegel.de/sport/tyson-fury-wird-von-francis-ngannou-niedergestreckt-entgeht-aber-der-blamage-a-c3e661af-5da3-449c-a7fb-4399d54cadb2#ref=rss)
-### francis
-
-* [https://www.spiegel.de/sport/tyson-fury-wird-von-francis-ngannou-niedergestreckt-entgeht-aber-der-blamage](https://www.spiegel.de/sport/tyson-fury-wird-von-francis-ngannou-niedergestreckt-entgeht-aber-der-blamage-a-c3e661af-5da3-449c-a7fb-4399d54cadb2#ref=rss)
-### ngannou
-
-* [https://www.spiegel.de/sport/tyson-fury-wird-von-francis-ngannou-niedergestreckt-entgeht-aber-der-blamage](https://www.spiegel.de/sport/tyson-fury-wird-von-francis-ngannou-niedergestreckt-entgeht-aber-der-blamage-a-c3e661af-5da3-449c-a7fb-4399d54cadb2#ref=rss)
-### duell
-
-* [https://www.spiegel.de/sport/tyson-fury-wird-von-francis-ngannou-niedergestreckt-entgeht-aber-der-blamage](https://www.spiegel.de/sport/tyson-fury-wird-von-francis-ngannou-niedergestreckt-entgeht-aber-der-blamage-a-c3e661af-5da3-449c-a7fb-4399d54cadb2#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-effektiver-1-fc-kaiserslautern-erkaempft-remis-gegen-den-hamburger-sv](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-effektiver-1-fc-kaiserslautern-erkaempft-remis-gegen-den-hamburger-sv-a-80fe7ca2-e1f7-4e5b-9567-47de088bf271#ref=rss)
-### besuch
-
-* [https://www.spiegel.de/ausland/israel-nach-dem-hamas-terror-zwischen-trauer-miteinander-und-hoffnung](https://www.spiegel.de/ausland/israel-nach-dem-hamas-terror-zwischen-trauer-miteinander-und-hoffnung-a-644e69b3-09d5-43cf-8797-1f09b8d455a4#ref=rss)
-* [https://www.spiegel.de/ausland/kolonialzeit-in-tansania-diese-brutalen-verbrechen-werden-gezielt-verschwiegen](https://www.spiegel.de/ausland/kolonialzeit-in-tansania-diese-brutalen-verbrechen-werden-gezielt-verschwiegen-a-cf688bb2-9e8e-4743-a2d4-c347d451eea7#ref=rss)
-### leben
-
-* [https://www.spiegel.de/psychologie/lange-und-gut-leben-wer-positiv-uebers-alter-denkt-lebt-bis-zu-13-jahre-laenger](https://www.spiegel.de/psychologie/lange-und-gut-leben-wer-positiv-uebers-alter-denkt-lebt-bis-zu-13-jahre-laenger-a-2d943747-0eb8-465e-bc5d-71218f356e0e#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-krieg-hamas-hat-offenbar-vorraete-fuer-drei-bis-vier-monate-angelegt](https://www.spiegel.de/ausland/gaza-krieg-hamas-hat-offenbar-vorraete-fuer-drei-bis-vier-monate-angelegt-a-b17d50fd-e5d9-4dbb-a758-05deeea75a07#ref=rss)
-### alter
-
-* [https://www.spiegel.de/psychologie/lange-und-gut-leben-wer-positiv-uebers-alter-denkt-lebt-bis-zu-13-jahre-laenger](https://www.spiegel.de/psychologie/lange-und-gut-leben-wer-positiv-uebers-alter-denkt-lebt-bis-zu-13-jahre-laenger-a-2d943747-0eb8-465e-bc5d-71218f356e0e#ref=rss)
-* [https://www.spiegel.de/panorama/leute/matthew-perry-friends-star-medienberichten-zufolge-im-alter-von-54-jahren-gestorben](https://www.spiegel.de/panorama/leute/matthew-perry-friends-star-medienberichten-zufolge-im-alter-von-54-jahren-gestorben-a-c6f105b9-367c-4ec4-a007-578c610c974c#ref=rss)
-### alt
-
-* [https://www.spiegel.de/psychologie/lange-und-gut-leben-wer-positiv-uebers-alter-denkt-lebt-bis-zu-13-jahre-laenger](https://www.spiegel.de/psychologie/lange-und-gut-leben-wer-positiv-uebers-alter-denkt-lebt-bis-zu-13-jahre-laenger-a-2d943747-0eb8-465e-bc5d-71218f356e0e#ref=rss)
-* [https://www.spiegel.de/ausland/annalena-baerbock-attackiert-iran-nach-tod-von-armita-garawand](https://www.spiegel.de/ausland/annalena-baerbock-attackiert-iran-nach-tod-von-armita-garawand-a-dcef5ca4-43d5-456f-994b-235d62fc2b40#ref=rss)
-### bundeskanzler
-
-* [https://www.spiegel.de/wirtschaft/energiekrise-bundeskanzler-olaf-scholz-betont-interesse-an-gas-aus-nigeria](https://www.spiegel.de/wirtschaft/energiekrise-bundeskanzler-olaf-scholz-betont-interesse-an-gas-aus-nigeria-a-5c8c3c6d-c9de-46ef-baaa-389fd78272e5#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/wirtschaft/energiekrise-bundeskanzler-olaf-scholz-betont-interesse-an-gas-aus-nigeria](https://www.spiegel.de/wirtschaft/energiekrise-bundeskanzler-olaf-scholz-betont-interesse-an-gas-aus-nigeria-a-5c8c3c6d-c9de-46ef-baaa-389fd78272e5#ref=rss)
-### nigeria
-
-* [https://www.spiegel.de/wirtschaft/energiekrise-bundeskanzler-olaf-scholz-betont-interesse-an-gas-aus-nigeria](https://www.spiegel.de/wirtschaft/energiekrise-bundeskanzler-olaf-scholz-betont-interesse-an-gas-aus-nigeria-a-5c8c3c6d-c9de-46ef-baaa-389fd78272e5#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/wirtschaft/energiekrise-bundeskanzler-olaf-scholz-betont-interesse-an-gas-aus-nigeria](https://www.spiegel.de/wirtschaft/energiekrise-bundeskanzler-olaf-scholz-betont-interesse-an-gas-aus-nigeria-a-5c8c3c6d-c9de-46ef-baaa-389fd78272e5#ref=rss)
-* [https://www.spiegel.de/kultur/selbstueberschaetzung-und-uebertriebene-aengstlichkeit-das-eitle-ich](https://www.spiegel.de/kultur/selbstueberschaetzung-und-uebertriebene-aengstlichkeit-das-eitle-ich-a-545e12a7-0265-4c06-ae18-988d7cf62f8a#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/wirtschaft/energiekrise-bundeskanzler-olaf-scholz-betont-interesse-an-gas-aus-nigeria](https://www.spiegel.de/wirtschaft/energiekrise-bundeskanzler-olaf-scholz-betont-interesse-an-gas-aus-nigeria-a-5c8c3c6d-c9de-46ef-baaa-389fd78272e5#ref=rss)
-* [https://www.spiegel.de/panorama/leute/matthew-perry-friends-star-medienberichten-zufolge-im-alter-von-54-jahren-gestorben](https://www.spiegel.de/panorama/leute/matthew-perry-friends-star-medienberichten-zufolge-im-alter-von-54-jahren-gestorben-a-c6f105b9-367c-4ec4-a007-578c610c974c#ref=rss)
-### uhren
-
-* [https://www.spiegel.de/panorama/zeitumstellung-uhren-wurden-in-der-nacht-auf-sonntag-zurueckgestellt](https://www.spiegel.de/panorama/zeitumstellung-uhren-wurden-in-der-nacht-auf-sonntag-zurueckgestellt-a-b0ebd46b-0669-4dae-b34a-01b0b016de94#ref=rss)
-### zurückgestellt
-
-* [https://www.spiegel.de/panorama/zeitumstellung-uhren-wurden-in-der-nacht-auf-sonntag-zurueckgestellt](https://www.spiegel.de/panorama/zeitumstellung-uhren-wurden-in-der-nacht-auf-sonntag-zurueckgestellt-a-b0ebd46b-0669-4dae-b34a-01b0b016de94#ref=rss)
-### vorräte
-
-* [https://www.spiegel.de/ausland/israel-gaza-news-heute-gazastreifen-ist-wieder-per-internet-und-telefon-erreichbar](https://www.spiegel.de/ausland/israel-gaza-news-heute-gazastreifen-ist-wieder-per-internet-und-telefon-erreichbar-a-b49b40b7-02f8-45dc-a305-66b8e7a9f921#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-krieg-hamas-hat-offenbar-vorraete-fuer-drei-bis-vier-monate-angelegt](https://www.spiegel.de/ausland/gaza-krieg-hamas-hat-offenbar-vorraete-fuer-drei-bis-vier-monate-angelegt-a-b17d50fd-e5d9-4dbb-a758-05deeea75a07#ref=rss)
+* [https://www.spiegel.de/panorama/leute/matthew-perry-hollywood-trauert-was-fuer-ein-verlust-die-welt-wird-dich-vermissen](https://www.spiegel.de/panorama/leute/matthew-perry-hollywood-trauert-was-fuer-ein-verlust-die-welt-wird-dich-vermissen-a-27d80387-78cb-44f9-b170-54c501a8a68c#ref=rss)
+* [https://www.spiegel.de/panorama/leute/matthew-perry-gestorben-freund-und-leid](https://www.spiegel.de/panorama/leute/matthew-perry-gestorben-freund-und-leid-a-d3f6e135-1cd2-4182-874c-701410000505#ref=rss)
 ### gazastreifen
 
+* [https://www.spiegel.de/ausland/iran-droht-israel-wegen-gaza-krieg-rote-linie-ueberschritten](https://www.spiegel.de/ausland/iran-droht-israel-wegen-gaza-krieg-rote-linie-ueberschritten-a-9b85dce8-0467-4f4e-9a26-82ed412357b4#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-krieg-ein-palaestinensische-pastor-mitri-raheb-spricht-ueber-den-konflikt](https://www.spiegel.de/ausland/israel-hamas-krieg-ein-palaestinensische-pastor-mitri-raheb-spricht-ueber-den-konflikt-a-ee204653-72aa-4cb5-9e69-9a30af663e10#ref=rss)
 * [https://www.spiegel.de/ausland/israel-gaza-news-heute-gazastreifen-ist-wieder-per-internet-und-telefon-erreichbar](https://www.spiegel.de/ausland/israel-gaza-news-heute-gazastreifen-ist-wieder-per-internet-und-telefon-erreichbar-a-b49b40b7-02f8-45dc-a305-66b8e7a9f921#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-israel-greift-hamas-an-benjamin-netanyahu-verkuendet-zweite-phase-des-krieges](https://www.spiegel.de/ausland/gaza-israel-greift-hamas-an-benjamin-netanyahu-verkuendet-zweite-phase-des-krieges-a-a6d34dbb-aaa7-4714-8074-2b4c0e65b1bb#ref=rss)
-### tansania
+### leben
 
-* [https://www.spiegel.de/ausland/kolonialzeit-in-tansania-diese-brutalen-verbrechen-werden-gezielt-verschwiegen](https://www.spiegel.de/ausland/kolonialzeit-in-tansania-diese-brutalen-verbrechen-werden-gezielt-verschwiegen-a-cf688bb2-9e8e-4743-a2d4-c347d451eea7#ref=rss)
-### firma
-
-* [https://www.spiegel.de/deinspiegel/so-entsteht-brot-in-einer-grossbaeckerei](https://www.spiegel.de/deinspiegel/so-entsteht-brot-in-einer-grossbaeckerei-a-7c01eed1-27a9-4631-940c-38ba974d104e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/kasachstan-explosion-in-bergwerk-mindestens-32-tote](https://www.spiegel.de/wirtschaft/soziales/kasachstan-explosion-in-bergwerk-mindestens-32-tote-a-f99364d7-89a4-4c8b-838f-c9fb89bbf13f#ref=rss)
-### taylor
-
-* [https://www.spiegel.de/panorama/taylor-swift-ist-meistgestreamte-spotify-kuenstlerin-innerhalb-eines-tages-gleich-zwei-rekorde-mit-neuem-album](https://www.spiegel.de/panorama/taylor-swift-ist-meistgestreamte-spotify-kuenstlerin-innerhalb-eines-tages-gleich-zwei-rekorde-mit-neuem-album-a-036d4711-16ac-4144-b599-165279d2fc11#ref=rss)
-### swift
-
-* [https://www.spiegel.de/panorama/taylor-swift-ist-meistgestreamte-spotify-kuenstlerin-innerhalb-eines-tages-gleich-zwei-rekorde-mit-neuem-album](https://www.spiegel.de/panorama/taylor-swift-ist-meistgestreamte-spotify-kuenstlerin-innerhalb-eines-tages-gleich-zwei-rekorde-mit-neuem-album-a-036d4711-16ac-4144-b599-165279d2fc11#ref=rss)
-### tages
-
-* [https://www.spiegel.de/panorama/taylor-swift-ist-meistgestreamte-spotify-kuenstlerin-innerhalb-eines-tages-gleich-zwei-rekorde-mit-neuem-album](https://www.spiegel.de/panorama/taylor-swift-ist-meistgestreamte-spotify-kuenstlerin-innerhalb-eines-tages-gleich-zwei-rekorde-mit-neuem-album-a-036d4711-16ac-4144-b599-165279d2fc11#ref=rss)
-### oktober
-
-* [https://www.spiegel.de/panorama/taylor-swift-ist-meistgestreamte-spotify-kuenstlerin-innerhalb-eines-tages-gleich-zwei-rekorde-mit-neuem-album](https://www.spiegel.de/panorama/taylor-swift-ist-meistgestreamte-spotify-kuenstlerin-innerhalb-eines-tages-gleich-zwei-rekorde-mit-neuem-album-a-036d4711-16ac-4144-b599-165279d2fc11#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-israel-greift-hamas-an-benjamin-netanyahu-verkuendet-zweite-phase-des-krieges](https://www.spiegel.de/ausland/gaza-israel-greift-hamas-an-benjamin-netanyahu-verkuendet-zweite-phase-des-krieges-a-a6d34dbb-aaa7-4714-8074-2b4c0e65b1bb#ref=rss)
-### meistgestreamten
-
-* [https://www.spiegel.de/panorama/taylor-swift-ist-meistgestreamte-spotify-kuenstlerin-innerhalb-eines-tages-gleich-zwei-rekorde-mit-neuem-album](https://www.spiegel.de/panorama/taylor-swift-ist-meistgestreamte-spotify-kuenstlerin-innerhalb-eines-tages-gleich-zwei-rekorde-mit-neuem-album-a-036d4711-16ac-4144-b599-165279d2fc11#ref=rss)
-### britney
-
-* [https://www.spiegel.de/kultur/britney-spears-der-naechste-chaotisch-ruehrende-befreiungsschlag](https://www.spiegel.de/kultur/britney-spears-der-naechste-chaotisch-ruehrende-befreiungsschlag-a-673e5de4-09fa-466a-ac83-9990a0a02256#ref=rss)
-### spears
-
-* [https://www.spiegel.de/kultur/britney-spears-der-naechste-chaotisch-ruehrende-befreiungsschlag](https://www.spiegel.de/kultur/britney-spears-der-naechste-chaotisch-ruehrende-befreiungsschlag-a-673e5de4-09fa-466a-ac83-9990a0a02256#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/otis-zahl-der-toten-nach-hurrikan-in-mexiko-steigt-auf-39-viele-opfer-offenbar-ertrunken](https://www.spiegel.de/panorama/otis-zahl-der-toten-nach-hurrikan-in-mexiko-steigt-auf-39-viele-opfer-offenbar-ertrunken-a-d640388a-a995-4c65-927a-4f52835d8b5a#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-krieg-hamas-hat-offenbar-vorraete-fuer-drei-bis-vier-monate-angelegt](https://www.spiegel.de/ausland/gaza-krieg-hamas-hat-offenbar-vorraete-fuer-drei-bis-vier-monate-angelegt-a-b17d50fd-e5d9-4dbb-a758-05deeea75a07#ref=rss)
-### selbstüberschätzung
-
-* [https://www.spiegel.de/kultur/selbstueberschaetzung-und-uebertriebene-aengstlichkeit-das-eitle-ich](https://www.spiegel.de/kultur/selbstueberschaetzung-und-uebertriebene-aengstlichkeit-das-eitle-ich-a-545e12a7-0265-4c06-ae18-988d7cf62f8a#ref=rss)
-### übertriebene
-
-* [https://www.spiegel.de/kultur/selbstueberschaetzung-und-uebertriebene-aengstlichkeit-das-eitle-ich](https://www.spiegel.de/kultur/selbstueberschaetzung-und-uebertriebene-aengstlichkeit-das-eitle-ich-a-545e12a7-0265-4c06-ae18-988d7cf62f8a#ref=rss)
-### ängstlichkeit
-
-* [https://www.spiegel.de/kultur/selbstueberschaetzung-und-uebertriebene-aengstlichkeit-das-eitle-ich](https://www.spiegel.de/kultur/selbstueberschaetzung-und-uebertriebene-aengstlichkeit-das-eitle-ich-a-545e12a7-0265-4c06-ae18-988d7cf62f8a#ref=rss)
-### ich
-
-* [https://www.spiegel.de/kultur/selbstueberschaetzung-und-uebertriebene-aengstlichkeit-das-eitle-ich](https://www.spiegel.de/kultur/selbstueberschaetzung-und-uebertriebene-aengstlichkeit-das-eitle-ich-a-545e12a7-0265-4c06-ae18-988d7cf62f8a#ref=rss)
-* [https://www.spiegel.de/ausland/mike-pence-zieht-seine-praesidentschaftsbewerbung-zurueck](https://www.spiegel.de/ausland/mike-pence-zieht-seine-praesidentschaftsbewerbung-zurueck-a-f0b211fe-5c17-4db2-ba9d-87b92fbc2cd7#ref=rss)
-### xabi
-
-* [https://www.spiegel.de/sport/xabi-alonso-der-mann-der-leverkusen-und-die-bundesliga-verzaubert](https://www.spiegel.de/sport/xabi-alonso-der-mann-der-leverkusen-und-die-bundesliga-verzaubert-a-6b3c34e8-bdf4-4983-a7da-0e428ef16b97#ref=rss)
-### alonso
-
-* [https://www.spiegel.de/sport/xabi-alonso-der-mann-der-leverkusen-und-die-bundesliga-verzaubert](https://www.spiegel.de/sport/xabi-alonso-der-mann-der-leverkusen-und-die-bundesliga-verzaubert-a-6b3c34e8-bdf4-4983-a7da-0e428ef16b97#ref=rss)
-### mann
-
-* [https://www.spiegel.de/sport/xabi-alonso-der-mann-der-leverkusen-und-die-bundesliga-verzaubert](https://www.spiegel.de/sport/xabi-alonso-der-mann-der-leverkusen-und-die-bundesliga-verzaubert-a-6b3c34e8-bdf4-4983-a7da-0e428ef16b97#ref=rss)
-### leverkusen
-
-* [https://www.spiegel.de/sport/xabi-alonso-der-mann-der-leverkusen-und-die-bundesliga-verzaubert](https://www.spiegel.de/sport/xabi-alonso-der-mann-der-leverkusen-und-die-bundesliga-verzaubert-a-6b3c34e8-bdf4-4983-a7da-0e428ef16b97#ref=rss)
-### außenministerin
-
-* [https://www.spiegel.de/politik/deutschland/deutschland-und-der-nahostkonflikt-mission-vermittlerin](https://www.spiegel.de/politik/deutschland/deutschland-und-der-nahostkonflikt-mission-vermittlerin-a-21510962-2063-46a6-8bdd-c221b9455730#ref=rss)
-* [https://www.spiegel.de/ausland/annalena-baerbock-attackiert-iran-nach-tod-von-armita-garawand](https://www.spiegel.de/ausland/annalena-baerbock-attackiert-iran-nach-tod-von-armita-garawand-a-dcef5ca4-43d5-456f-994b-235d62fc2b40#ref=rss)
-### annalena
-
-* [https://www.spiegel.de/politik/deutschland/deutschland-und-der-nahostkonflikt-mission-vermittlerin](https://www.spiegel.de/politik/deutschland/deutschland-und-der-nahostkonflikt-mission-vermittlerin-a-21510962-2063-46a6-8bdd-c221b9455730#ref=rss)
-* [https://www.spiegel.de/ausland/annalena-baerbock-attackiert-iran-nach-tod-von-armita-garawand](https://www.spiegel.de/ausland/annalena-baerbock-attackiert-iran-nach-tod-von-armita-garawand-a-dcef5ca4-43d5-456f-994b-235d62fc2b40#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/elke-heidenreich-empfiehlt-ein-buch-in-vier-kapiteln-feuer-wasser-erde-luft](https://www.spiegel.de/kultur/literatur/elke-heidenreich-empfiehlt-ein-buch-in-vier-kapiteln-feuer-wasser-erde-luft-a-f971ddab-5429-4eb5-afd3-a909a98e63f5#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-krieg-ein-palaestinensische-pastor-mitri-raheb-spricht-ueber-den-konflikt](https://www.spiegel.de/ausland/israel-hamas-krieg-ein-palaestinensische-pastor-mitri-raheb-spricht-ueber-den-konflikt-a-ee204653-72aa-4cb5-9e69-9a30af663e10#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-gazastreifen-ist-wieder-per-internet-und-telefon-erreichbar](https://www.spiegel.de/ausland/israel-gaza-news-heute-gazastreifen-ist-wieder-per-internet-und-telefon-erreichbar-a-b49b40b7-02f8-45dc-a305-66b8e7a9f921#ref=rss)
+* [https://www.spiegel.de/panorama/leute/matthew-perry-gestorben-freund-und-leid](https://www.spiegel.de/panorama/leute/matthew-perry-gestorben-freund-und-leid-a-d3f6e135-1cd2-4182-874c-701410000505#ref=rss)
 ### matthew
 
-* [https://www.spiegel.de/panorama/leute/matthew-perry-friends-star-medienberichten-zufolge-im-alter-von-54-jahren-gestorben](https://www.spiegel.de/panorama/leute/matthew-perry-friends-star-medienberichten-zufolge-im-alter-von-54-jahren-gestorben-a-c6f105b9-367c-4ec4-a007-578c610c974c#ref=rss)
-### gestorben
+* [https://www.spiegel.de/panorama/leute/matthew-perry-hollywood-trauert-was-fuer-ein-verlust-die-welt-wird-dich-vermissen](https://www.spiegel.de/panorama/leute/matthew-perry-hollywood-trauert-was-fuer-ein-verlust-die-welt-wird-dich-vermissen-a-27d80387-78cb-44f9-b170-54c501a8a68c#ref=rss)
+* [https://www.spiegel.de/panorama/leute/matthew-perry-gestorben-freund-und-leid](https://www.spiegel.de/panorama/leute/matthew-perry-gestorben-freund-und-leid-a-d3f6e135-1cd2-4182-874c-701410000505#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/panorama/leute/matthew-perry-friends-star-medienberichten-zufolge-im-alter-von-54-jahren-gestorben](https://www.spiegel.de/panorama/leute/matthew-perry-friends-star-medienberichten-zufolge-im-alter-von-54-jahren-gestorben-a-c6f105b9-367c-4ec4-a007-578c610c974c#ref=rss)
-* [https://www.spiegel.de/ausland/annalena-baerbock-attackiert-iran-nach-tod-von-armita-garawand](https://www.spiegel.de/ausland/annalena-baerbock-attackiert-iran-nach-tod-von-armita-garawand-a-dcef5ca4-43d5-456f-994b-235d62fc2b40#ref=rss)
-### wolken
+* [https://www.spiegel.de/politik/deutschland/migration-ekd-ratsvorsitzende-annette-kurschus-haelt-aufnahmekapazitaet-noch-lange-nicht-erreicht](https://www.spiegel.de/politik/deutschland/migration-ekd-ratsvorsitzende-annette-kurschus-haelt-aufnahmekapazitaet-noch-lange-nicht-erreicht-a-1325065b-53d8-419d-8450-06e9faefcb4e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/immobilien-jede-siebte-stadt-erhoeht-in-diesem-jahr-die-grundsteuer](https://www.spiegel.de/wirtschaft/soziales/immobilien-jede-siebte-stadt-erhoeht-in-diesem-jahr-die-grundsteuer-a-b7ff139a-089f-4702-bf71-bbeb66eb55af#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/organisierte-kriminalitaet-in-deutschland-wie-der-staat-gegen-clans-versagt](https://www.spiegel.de/panorama/justiz/organisierte-kriminalitaet-in-deutschland-wie-der-staat-gegen-clans-versagt-a-d16c4d2e-8dcf-4b80-ae71-67d574f5eec9#ref=rss)
+### buch
 
-* [https://www.spiegel.de/wissenschaft/mondfinsternis-viele-wolken-erschwerten-blick-auf-das-himmelsspektakel](https://www.spiegel.de/wissenschaft/mondfinsternis-viele-wolken-erschwerten-blick-auf-das-himmelsspektakel-a-acb54705-d35c-4520-a023-2d99305b903e#ref=rss)
-### rugbywm
+* [https://www.spiegel.de/kultur/literatur/elke-heidenreich-empfiehlt-ein-buch-in-vier-kapiteln-feuer-wasser-erde-luft](https://www.spiegel.de/kultur/literatur/elke-heidenreich-empfiehlt-ein-buch-in-vier-kapiteln-feuer-wasser-erde-luft-a-f971ddab-5429-4eb5-afd3-a909a98e63f5#ref=rss)
+* [https://www.spiegel.de/ausland/china-warum-ploetzlich-ein-buch-ueber-den-letzten-kaiser-der-ming-dynastie-zensiert-wird](https://www.spiegel.de/ausland/china-warum-ploetzlich-ein-buch-ueber-den-letzten-kaiser-der-ming-dynastie-zensiert-wird-a-cd50b29e-bb41-42b5-8781-f4e34a1c316d#ref=rss)
+### wasser
 
-* [https://www.spiegel.de/sport/rugby-wm-suedafrika-kroent-sich-gegen-neuseeland-zum-rekordweltmeister](https://www.spiegel.de/sport/rugby-wm-suedafrika-kroent-sich-gegen-neuseeland-zum-rekordweltmeister-a-c4d862db-6a54-4b38-9353-d8cc78805595#ref=rss)
-### südafrika
+* [https://www.spiegel.de/kultur/literatur/elke-heidenreich-empfiehlt-ein-buch-in-vier-kapiteln-feuer-wasser-erde-luft](https://www.spiegel.de/kultur/literatur/elke-heidenreich-empfiehlt-ein-buch-in-vier-kapiteln-feuer-wasser-erde-luft-a-f971ddab-5429-4eb5-afd3-a909a98e63f5#ref=rss)
+* [https://www.spiegel.de/ausland/acapulco-nach-hurrikan-otis-pluenderungen-und-eine-katastrophale-versorgungslage](https://www.spiegel.de/ausland/acapulco-nach-hurrikan-otis-pluenderungen-und-eine-katastrophale-versorgungslage-a-331b8401-02d3-4426-b6ad-5aaece4038ab#ref=rss)
+* [https://www.spiegel.de/kultur/peter-handke-ein-schreiendes-kind-ein-keller-unter-wasser-und-dann-schoener-schreiben](https://www.spiegel.de/kultur/peter-handke-ein-schreiendes-kind-ein-keller-unter-wasser-und-dann-schoener-schreiben-a-8b1e778b-6ab4-4d31-a770-7b6715c2011b#ref=rss)
+### justiz
 
-* [https://www.spiegel.de/sport/rugby-wm-suedafrika-kroent-sich-gegen-neuseeland-zum-rekordweltmeister](https://www.spiegel.de/sport/rugby-wm-suedafrika-kroent-sich-gegen-neuseeland-zum-rekordweltmeister-a-c4d862db-6a54-4b38-9353-d8cc78805595#ref=rss)
-### neuseeland
-
-* [https://www.spiegel.de/sport/rugby-wm-suedafrika-kroent-sich-gegen-neuseeland-zum-rekordweltmeister](https://www.spiegel.de/sport/rugby-wm-suedafrika-kroent-sich-gegen-neuseeland-zum-rekordweltmeister-a-c4d862db-6a54-4b38-9353-d8cc78805595#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/der-jahrhundertcoup-4-der-schmutzige-deal-der-remmos-mit-der-justiz](https://www.spiegel.de/panorama/justiz/der-jahrhundertcoup-4-der-schmutzige-deal-der-remmos-mit-der-justiz-a-32891324-795c-4fcb-b53f-99541add75d6#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-vor-gericht-kann-man-ihm-den-mund-verbieten](https://www.spiegel.de/ausland/donald-trump-vor-gericht-kann-man-ihm-den-mund-verbieten-a-308789fa-edcd-4d1c-b91b-0890370d0f61#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/organisierte-kriminalitaet-in-deutschland-wie-der-staat-gegen-clans-versagt](https://www.spiegel.de/panorama/justiz/organisierte-kriminalitaet-in-deutschland-wie-der-staat-gegen-clans-versagt-a-d16c4d2e-8dcf-4b80-ae71-67d574f5eec9#ref=rss)
 ### netanyahu
 
-* [https://www.spiegel.de/ausland/gaza-israel-greift-hamas-an-benjamin-netanyahu-verkuendet-zweite-phase-des-krieges](https://www.spiegel.de/ausland/gaza-israel-greift-hamas-an-benjamin-netanyahu-verkuendet-zweite-phase-des-krieges-a-a6d34dbb-aaa7-4714-8074-2b4c0e65b1bb#ref=rss)
-### zweite
+* [https://www.spiegel.de/ausland/israel-benjamin-netanyahu-unter-druck-nach-tweet](https://www.spiegel.de/ausland/israel-benjamin-netanyahu-unter-druck-nach-tweet-a-7fe00ff6-a7e7-41ce-bf95-5599d4e6a295#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/nahostkonflikt-mobileye-chef-amnon-shashua-fordert-absetzung-von-netanyahu](https://www.spiegel.de/wirtschaft/unternehmen/nahostkonflikt-mobileye-chef-amnon-shashua-fordert-absetzung-von-netanyahu-a-d27cf6a4-d63d-4014-9913-80a5b14b2835#ref=rss)
+### unter
 
-* [https://www.spiegel.de/ausland/gaza-israel-greift-hamas-an-benjamin-netanyahu-verkuendet-zweite-phase-des-krieges](https://www.spiegel.de/ausland/gaza-israel-greift-hamas-an-benjamin-netanyahu-verkuendet-zweite-phase-des-krieges-a-a6d34dbb-aaa7-4714-8074-2b4c0e65b1bb#ref=rss)
-### phase
+* [https://www.spiegel.de/ausland/israel-benjamin-netanyahu-unter-druck-nach-tweet](https://www.spiegel.de/ausland/israel-benjamin-netanyahu-unter-druck-nach-tweet-a-7fe00ff6-a7e7-41ce-bf95-5599d4e6a295#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-muenchen-koeniginnen-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-muenchen-koeniginnen-im-schnellcheck-a-1f9b1377-a993-4db5-851b-3aa2ca452802#ref=rss)
+* [https://www.spiegel.de/kultur/peter-handke-ein-schreiendes-kind-ein-keller-unter-wasser-und-dann-schoener-schreiben](https://www.spiegel.de/kultur/peter-handke-ein-schreiendes-kind-ein-keller-unter-wasser-und-dann-schoener-schreiben-a-8b1e778b-6ab4-4d31-a770-7b6715c2011b#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/ausland/gaza-israel-greift-hamas-an-benjamin-netanyahu-verkuendet-zweite-phase-des-krieges](https://www.spiegel.de/ausland/gaza-israel-greift-hamas-an-benjamin-netanyahu-verkuendet-zweite-phase-des-krieges-a-a6d34dbb-aaa7-4714-8074-2b4c0e65b1bb#ref=rss)
-### krieges
+* [https://www.spiegel.de/wirtschaft/unternehmen/nahostkonflikt-mobileye-chef-amnon-shashua-fordert-absetzung-von-netanyahu](https://www.spiegel.de/wirtschaft/unternehmen/nahostkonflikt-mobileye-chef-amnon-shashua-fordert-absetzung-von-netanyahu-a-d27cf6a4-d63d-4014-9913-80a5b14b2835#ref=rss)
+* [https://www.spiegel.de/ausland/acapulco-nach-hurrikan-otis-pluenderungen-und-eine-katastrophale-versorgungslage](https://www.spiegel.de/ausland/acapulco-nach-hurrikan-otis-pluenderungen-und-eine-katastrophale-versorgungslage-a-331b8401-02d3-4426-b6ad-5aaece4038ab#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/gaza-elon-musk-verspricht-starlink-nur-zu-rein-humanitaeren-zwecken](https://www.spiegel.de/netzwelt/web/gaza-elon-musk-verspricht-starlink-nur-zu-rein-humanitaeren-zwecken-a-c203a690-cdaa-4cb0-b594-6c4e9ae3886c#ref=rss)
+### palästinensische
 
-* [https://www.spiegel.de/ausland/gaza-israel-greift-hamas-an-benjamin-netanyahu-verkuendet-zweite-phase-des-krieges](https://www.spiegel.de/ausland/gaza-israel-greift-hamas-an-benjamin-netanyahu-verkuendet-zweite-phase-des-krieges-a-a6d34dbb-aaa7-4714-8074-2b4c0e65b1bb#ref=rss)
-### kaiserslautern
+* [https://www.spiegel.de/ausland/israel-hamas-krieg-ein-palaestinensische-pastor-mitri-raheb-spricht-ueber-den-konflikt](https://www.spiegel.de/ausland/israel-hamas-krieg-ein-palaestinensische-pastor-mitri-raheb-spricht-ueber-den-konflikt-a-ee204653-72aa-4cb5-9e69-9a30af663e10#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-gazastreifen-ist-wieder-per-internet-und-telefon-erreichbar](https://www.spiegel.de/ausland/israel-gaza-news-heute-gazastreifen-ist-wieder-per-internet-und-telefon-erreichbar-a-b49b40b7-02f8-45dc-a305-66b8e7a9f921#ref=rss)
+### woche
 
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-effektiver-1-fc-kaiserslautern-erkaempft-remis-gegen-den-hamburger-sv](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-effektiver-1-fc-kaiserslautern-erkaempft-remis-gegen-den-hamburger-sv-a-80fe7ca2-e1f7-4e5b-9567-47de088bf271#ref=rss)
-### hamburger
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-plassmann-stuttmann-und-chappatte-losen-oder-reise-nach-jerusalem](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-plassmann-stuttmann-und-chappatte-losen-oder-reise-nach-jerusalem-a-3ae82b12-c971-4b4a-8abc-54f30dda4980#ref=rss)
+* [https://www.spiegel.de/karriere/wie-viele-loesungen-hat-die-gleichung-raetsel-der-woche](https://www.spiegel.de/karriere/wie-viele-loesungen-hat-die-gleichung-raetsel-der-woche-a-a270d9fe-6af8-4f0c-bace-b8d49624b200#ref=rss)
+### kirche
 
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-effektiver-1-fc-kaiserslautern-erkaempft-remis-gegen-den-hamburger-sv](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-effektiver-1-fc-kaiserslautern-erkaempft-remis-gegen-den-hamburger-sv-a-80fe7ca2-e1f7-4e5b-9567-47de088bf271#ref=rss)
-### sv
+* [https://www.spiegel.de/politik/deutschland/migration-ekd-ratsvorsitzende-annette-kurschus-haelt-aufnahmekapazitaet-noch-lange-nicht-erreicht](https://www.spiegel.de/politik/deutschland/migration-ekd-ratsvorsitzende-annette-kurschus-haelt-aufnahmekapazitaet-noch-lange-nicht-erreicht-a-1325065b-53d8-419d-8450-06e9faefcb4e#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-krieg-ein-palaestinensische-pastor-mitri-raheb-spricht-ueber-den-konflikt](https://www.spiegel.de/ausland/israel-hamas-krieg-ein-palaestinensische-pastor-mitri-raheb-spricht-ueber-den-konflikt-a-ee204653-72aa-4cb5-9e69-9a30af663e10#ref=rss)
+### dazu
 
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-effektiver-1-fc-kaiserslautern-erkaempft-remis-gegen-den-hamburger-sv](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-effektiver-1-fc-kaiserslautern-erkaempft-remis-gegen-den-hamburger-sv-a-80fe7ca2-e1f7-4e5b-9567-47de088bf271#ref=rss)
-### attackiert
+* [https://www.spiegel.de/politik/deutschland/migration-ekd-ratsvorsitzende-annette-kurschus-haelt-aufnahmekapazitaet-noch-lange-nicht-erreicht](https://www.spiegel.de/politik/deutschland/migration-ekd-ratsvorsitzende-annette-kurschus-haelt-aufnahmekapazitaet-noch-lange-nicht-erreicht-a-1325065b-53d8-419d-8450-06e9faefcb4e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/mike-mohring-gibt-cdu-kreisvorsitz-nach-privatparty-vorwuerfen-ab](https://www.spiegel.de/politik/deutschland/mike-mohring-gibt-cdu-kreisvorsitz-nach-privatparty-vorwuerfen-ab-a-d98f3f98-449a-4b36-a9b9-06b7571daaf1#ref=rss)
+### unser
 
-* [https://www.spiegel.de/ausland/israel-ruft-diplomatische-vertreter-aus-der-tuerkei-zurueck](https://www.spiegel.de/ausland/israel-ruft-diplomatische-vertreter-aus-der-tuerkei-zurueck-a-fb688bc2-ab38-47f0-aa58-b9ee65c052d6#ref=rss)
-* [https://www.spiegel.de/ausland/annalena-baerbock-attackiert-iran-nach-tod-von-armita-garawand](https://www.spiegel.de/ausland/annalena-baerbock-attackiert-iran-nach-tod-von-armita-garawand-a-dcef5ca4-43d5-456f-994b-235d62fc2b40#ref=rss)
-### iran
+* [https://www.spiegel.de/politik/deutschland/migration-ekd-ratsvorsitzende-annette-kurschus-haelt-aufnahmekapazitaet-noch-lange-nicht-erreicht](https://www.spiegel.de/politik/deutschland/migration-ekd-ratsvorsitzende-annette-kurschus-haelt-aufnahmekapazitaet-noch-lange-nicht-erreicht-a-1325065b-53d8-419d-8450-06e9faefcb4e#ref=rss)
+* [https://www.spiegel.de/kultur/peter-handke-ein-schreiendes-kind-ein-keller-unter-wasser-und-dann-schoener-schreiben](https://www.spiegel.de/kultur/peter-handke-ein-schreiendes-kind-ein-keller-unter-wasser-und-dann-schoener-schreiben-a-8b1e778b-6ab4-4d31-a770-7b6715c2011b#ref=rss)
+### land
 
-* [https://www.spiegel.de/ausland/annalena-baerbock-attackiert-iran-nach-tod-von-armita-garawand](https://www.spiegel.de/ausland/annalena-baerbock-attackiert-iran-nach-tod-von-armita-garawand-a-dcef5ca4-43d5-456f-994b-235d62fc2b40#ref=rss)
-### teheran
+* [https://www.spiegel.de/politik/deutschland/migration-ekd-ratsvorsitzende-annette-kurschus-haelt-aufnahmekapazitaet-noch-lange-nicht-erreicht](https://www.spiegel.de/politik/deutschland/migration-ekd-ratsvorsitzende-annette-kurschus-haelt-aufnahmekapazitaet-noch-lange-nicht-erreicht-a-1325065b-53d8-419d-8450-06e9faefcb4e#ref=rss)
+* [https://www.spiegel.de/ausland/iran-droht-israel-wegen-gaza-krieg-rote-linie-ueberschritten](https://www.spiegel.de/ausland/iran-droht-israel-wegen-gaza-krieg-rote-linie-ueberschritten-a-9b85dce8-0467-4f4e-9a26-82ed412357b4#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/ausland/annalena-baerbock-attackiert-iran-nach-tod-von-armita-garawand](https://www.spiegel.de/ausland/annalena-baerbock-attackiert-iran-nach-tod-von-armita-garawand-a-dcef5ca4-43d5-456f-994b-235d62fc2b40#ref=rss)
-### armita
-
-* [https://www.spiegel.de/ausland/annalena-baerbock-attackiert-iran-nach-tod-von-armita-garawand](https://www.spiegel.de/ausland/annalena-baerbock-attackiert-iran-nach-tod-von-armita-garawand-a-dcef5ca4-43d5-456f-994b-235d62fc2b40#ref=rss)
-### garawand
-
-* [https://www.spiegel.de/ausland/annalena-baerbock-attackiert-iran-nach-tod-von-armita-garawand](https://www.spiegel.de/ausland/annalena-baerbock-attackiert-iran-nach-tod-von-armita-garawand-a-dcef5ca4-43d5-456f-994b-235d62fc2b40#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/migration-ekd-ratsvorsitzende-annette-kurschus-haelt-aufnahmekapazitaet-noch-lange-nicht-erreicht](https://www.spiegel.de/politik/deutschland/migration-ekd-ratsvorsitzende-annette-kurschus-haelt-aufnahmekapazitaet-noch-lange-nicht-erreicht-a-1325065b-53d8-419d-8450-06e9faefcb4e#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-gazastreifen-ist-wieder-per-internet-und-telefon-erreichbar](https://www.spiegel.de/ausland/israel-gaza-news-heute-gazastreifen-ist-wieder-per-internet-und-telefon-erreichbar-a-b49b40b7-02f8-45dc-a305-66b8e7a9f921#ref=rss)
 ### mike
 
-* [https://www.spiegel.de/ausland/mike-pence-zieht-seine-praesidentschaftsbewerbung-zurueck](https://www.spiegel.de/ausland/mike-pence-zieht-seine-praesidentschaftsbewerbung-zurueck-a-f0b211fe-5c17-4db2-ba9d-87b92fbc2cd7#ref=rss)
-### pence
+* [https://www.spiegel.de/politik/deutschland/mike-mohring-gibt-cdu-kreisvorsitz-nach-privatparty-vorwuerfen-ab](https://www.spiegel.de/politik/deutschland/mike-mohring-gibt-cdu-kreisvorsitz-nach-privatparty-vorwuerfen-ab-a-d98f3f98-449a-4b36-a9b9-06b7571daaf1#ref=rss)
+### mohring
 
-* [https://www.spiegel.de/ausland/mike-pence-zieht-seine-praesidentschaftsbewerbung-zurueck](https://www.spiegel.de/ausland/mike-pence-zieht-seine-praesidentschaftsbewerbung-zurueck-a-f0b211fe-5c17-4db2-ba9d-87b92fbc2cd7#ref=rss)
-### monate
+* [https://www.spiegel.de/politik/deutschland/mike-mohring-gibt-cdu-kreisvorsitz-nach-privatparty-vorwuerfen-ab](https://www.spiegel.de/politik/deutschland/mike-mohring-gibt-cdu-kreisvorsitz-nach-privatparty-vorwuerfen-ab-a-d98f3f98-449a-4b36-a9b9-06b7571daaf1#ref=rss)
+### rote
 
-* [https://www.spiegel.de/ausland/gaza-krieg-hamas-hat-offenbar-vorraete-fuer-drei-bis-vier-monate-angelegt](https://www.spiegel.de/ausland/gaza-krieg-hamas-hat-offenbar-vorraete-fuer-drei-bis-vier-monate-angelegt-a-b17d50fd-e5d9-4dbb-a758-05deeea75a07#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-nimmt-den-1-fc-koeln-auseinander](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-nimmt-den-1-fc-koeln-auseinander-a-05329c40-df5b-4027-a11a-53644fa66d4f#ref=rss)
-### angelegt
+* [https://www.spiegel.de/ausland/iran-droht-israel-wegen-gaza-krieg-rote-linie-ueberschritten](https://www.spiegel.de/ausland/iran-droht-israel-wegen-gaza-krieg-rote-linie-ueberschritten-a-9b85dce8-0467-4f4e-9a26-82ed412357b4#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-gazastreifen-ist-wieder-per-internet-und-telefon-erreichbar](https://www.spiegel.de/ausland/israel-gaza-news-heute-gazastreifen-ist-wieder-per-internet-und-telefon-erreichbar-a-b49b40b7-02f8-45dc-a305-66b8e7a9f921#ref=rss)
+### israels
 
-* [https://www.spiegel.de/ausland/gaza-krieg-hamas-hat-offenbar-vorraete-fuer-drei-bis-vier-monate-angelegt](https://www.spiegel.de/ausland/gaza-krieg-hamas-hat-offenbar-vorraete-fuer-drei-bis-vier-monate-angelegt-a-b17d50fd-e5d9-4dbb-a758-05deeea75a07#ref=rss)
-### köln
+* [https://www.spiegel.de/ausland/iran-droht-israel-wegen-gaza-krieg-rote-linie-ueberschritten](https://www.spiegel.de/ausland/iran-droht-israel-wegen-gaza-krieg-rote-linie-ueberschritten-a-9b85dce8-0467-4f4e-9a26-82ed412357b4#ref=rss)
+* [https://www.spiegel.de/ausland/israel-benjamin-netanyahu-unter-druck-nach-tweet](https://www.spiegel.de/ausland/israel-benjamin-netanyahu-unter-druck-nach-tweet-a-7fe00ff6-a7e7-41ce-bf95-5599d4e6a295#ref=rss)
+### unsere
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-nimmt-den-1-fc-koeln-auseinander](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-nimmt-den-1-fc-koeln-auseinander-a-05329c40-df5b-4027-a11a-53644fa66d4f#ref=rss)
-### kasachstan
+* [https://www.spiegel.de/kultur/literatur/elke-heidenreich-empfiehlt-ein-buch-in-vier-kapiteln-feuer-wasser-erde-luft](https://www.spiegel.de/kultur/literatur/elke-heidenreich-empfiehlt-ein-buch-in-vier-kapiteln-feuer-wasser-erde-luft-a-f971ddab-5429-4eb5-afd3-a909a98e63f5#ref=rss)
+* [https://www.spiegel.de/kultur/stress-beim-autofahren-und-einparken-gegen-die-parkplatz-petras-dieser-welt](https://www.spiegel.de/kultur/stress-beim-autofahren-und-einparken-gegen-die-parkplatz-petras-dieser-welt-a-6ada2b70-5b81-4b6a-a348-1f4d11f3a3ff#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/wirtschaft/soziales/kasachstan-explosion-in-bergwerk-mindestens-32-tote](https://www.spiegel.de/wirtschaft/soziales/kasachstan-explosion-in-bergwerk-mindestens-32-tote-a-f99364d7-89a4-4c8b-838f-c9fb89bbf13f#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/elke-heidenreich-empfiehlt-ein-buch-in-vier-kapiteln-feuer-wasser-erde-luft](https://www.spiegel.de/kultur/literatur/elke-heidenreich-empfiehlt-ein-buch-in-vier-kapiteln-feuer-wasser-erde-luft-a-f971ddab-5429-4eb5-afd3-a909a98e63f5#ref=rss)
+* [https://www.spiegel.de/politik/cdu-friedrich-merz-stellt-bedingungen-fuer-zusammenarbeit-mit-der-ampel](https://www.spiegel.de/politik/cdu-friedrich-merz-stellt-bedingungen-fuer-zusammenarbeit-mit-der-ampel-a-bce015c2-0d50-4238-aeb7-ac663654bb05#ref=rss)
+### remmos
+
+* [https://www.spiegel.de/panorama/justiz/der-jahrhundertcoup-4-der-schmutzige-deal-der-remmos-mit-der-justiz](https://www.spiegel.de/panorama/justiz/der-jahrhundertcoup-4-der-schmutzige-deal-der-remmos-mit-der-justiz-a-32891324-795c-4fcb-b53f-99541add75d6#ref=rss)
+### staat
+
+* [https://www.spiegel.de/panorama/justiz/der-jahrhundertcoup-4-der-schmutzige-deal-der-remmos-mit-der-justiz](https://www.spiegel.de/panorama/justiz/der-jahrhundertcoup-4-der-schmutzige-deal-der-remmos-mit-der-justiz-a-32891324-795c-4fcb-b53f-99541add75d6#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/organisierte-kriminalitaet-in-deutschland-wie-der-staat-gegen-clans-versagt](https://www.spiegel.de/panorama/justiz/organisierte-kriminalitaet-in-deutschland-wie-der-staat-gegen-clans-versagt-a-d16c4d2e-8dcf-4b80-ae71-67d574f5eec9#ref=rss)
+### dortmund
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-erkaempft-remis-bei-eintracht-frankfurt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-erkaempft-remis-bei-eintracht-frankfurt-a-c9f3c7ec-a8fe-4df5-93ae-2d82d3c4cb6d#ref=rss)
+### eintracht
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-erkaempft-remis-bei-eintracht-frankfurt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-erkaempft-remis-bei-eintracht-frankfurt-a-c9f3c7ec-a8fe-4df5-93ae-2d82d3c4cb6d#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-erkaempft-remis-bei-eintracht-frankfurt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-erkaempft-remis-bei-eintracht-frankfurt-a-c9f3c7ec-a8fe-4df5-93ae-2d82d3c4cb6d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/clasico-held-jude-bellingham-von-real-madrid-er-kriegt-immer-was-er-will](https://www.spiegel.de/sport/fussball/clasico-held-jude-bellingham-von-real-madrid-er-kriegt-immer-was-er-will-a-4ddfd284-4cd3-40e0-915a-2cfd042834fd#ref=rss)
+### tweet
+
+* [https://www.spiegel.de/ausland/israel-benjamin-netanyahu-unter-druck-nach-tweet](https://www.spiegel.de/ausland/israel-benjamin-netanyahu-unter-druck-nach-tweet-a-7fe00ff6-a7e7-41ce-bf95-5599d4e6a295#ref=rss)
+### hamas
+
+* [https://www.spiegel.de/ausland/israel-benjamin-netanyahu-unter-druck-nach-tweet](https://www.spiegel.de/ausland/israel-benjamin-netanyahu-unter-druck-nach-tweet-a-7fe00ff6-a7e7-41ce-bf95-5599d4e6a295#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/nahostkonflikt-mobileye-chef-amnon-shashua-fordert-absetzung-von-netanyahu](https://www.spiegel.de/wirtschaft/unternehmen/nahostkonflikt-mobileye-chef-amnon-shashua-fordert-absetzung-von-netanyahu-a-d27cf6a4-d63d-4014-9913-80a5b14b2835#ref=rss)
+### nahostkonflikt
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/nahostkonflikt-mobileye-chef-amnon-shashua-fordert-absetzung-von-netanyahu](https://www.spiegel.de/wirtschaft/unternehmen/nahostkonflikt-mobileye-chef-amnon-shashua-fordert-absetzung-von-netanyahu-a-d27cf6a4-d63d-4014-9913-80a5b14b2835#ref=rss)
+* [https://www.spiegel.de/geschichte/israel-und-palaestina-diese-buecher-empfehlen-experten-zum-nahostkonflikt](https://www.spiegel.de/geschichte/israel-und-palaestina-diese-buecher-empfehlen-experten-zum-nahostkonflikt-a-2070f980-7ad7-4385-ae72-90f16166537d#ref=rss)
+### amnon
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/nahostkonflikt-mobileye-chef-amnon-shashua-fordert-absetzung-von-netanyahu](https://www.spiegel.de/wirtschaft/unternehmen/nahostkonflikt-mobileye-chef-amnon-shashua-fordert-absetzung-von-netanyahu-a-d27cf6a4-d63d-4014-9913-80a5b14b2835#ref=rss)
+### shashua
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/nahostkonflikt-mobileye-chef-amnon-shashua-fordert-absetzung-von-netanyahu](https://www.spiegel.de/wirtschaft/unternehmen/nahostkonflikt-mobileye-chef-amnon-shashua-fordert-absetzung-von-netanyahu-a-d27cf6a4-d63d-4014-9913-80a5b14b2835#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/nahostkonflikt-mobileye-chef-amnon-shashua-fordert-absetzung-von-netanyahu](https://www.spiegel.de/wirtschaft/unternehmen/nahostkonflikt-mobileye-chef-amnon-shashua-fordert-absetzung-von-netanyahu-a-d27cf6a4-d63d-4014-9913-80a5b14b2835#ref=rss)
+### israelischen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/nahostkonflikt-mobileye-chef-amnon-shashua-fordert-absetzung-von-netanyahu](https://www.spiegel.de/wirtschaft/unternehmen/nahostkonflikt-mobileye-chef-amnon-shashua-fordert-absetzung-von-netanyahu-a-d27cf6a4-d63d-4014-9913-80a5b14b2835#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-krieg-ein-palaestinensische-pastor-mitri-raheb-spricht-ueber-den-konflikt](https://www.spiegel.de/ausland/israel-hamas-krieg-ein-palaestinensische-pastor-mitri-raheb-spricht-ueber-den-konflikt-a-ee204653-72aa-4cb5-9e69-9a30af663e10#ref=rss)
+### versagt
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/nahostkonflikt-mobileye-chef-amnon-shashua-fordert-absetzung-von-netanyahu](https://www.spiegel.de/wirtschaft/unternehmen/nahostkonflikt-mobileye-chef-amnon-shashua-fordert-absetzung-von-netanyahu-a-d27cf6a4-d63d-4014-9913-80a5b14b2835#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/organisierte-kriminalitaet-in-deutschland-wie-der-staat-gegen-clans-versagt](https://www.spiegel.de/panorama/justiz/organisierte-kriminalitaet-in-deutschland-wie-der-staat-gegen-clans-versagt-a-d16c4d2e-8dcf-4b80-ae71-67d574f5eec9#ref=rss)
+### luis
+
+* [https://www.spiegel.de/panorama/justiz/eltern-von-liverpool-angreifer-luis-diaz-entfuehrt-mutter-befreit](https://www.spiegel.de/panorama/justiz/eltern-von-liverpool-angreifer-luis-diaz-entfuehrt-mutter-befreit-a-03e1d570-067a-43f3-a0ea-1a25343d4317#ref=rss)
+### díaz
+
+* [https://www.spiegel.de/panorama/justiz/eltern-von-liverpool-angreifer-luis-diaz-entfuehrt-mutter-befreit](https://www.spiegel.de/panorama/justiz/eltern-von-liverpool-angreifer-luis-diaz-entfuehrt-mutter-befreit-a-03e1d570-067a-43f3-a0ea-1a25343d4317#ref=rss)
+### eltern
+
+* [https://www.spiegel.de/panorama/justiz/eltern-von-liverpool-angreifer-luis-diaz-entfuehrt-mutter-befreit](https://www.spiegel.de/panorama/justiz/eltern-von-liverpool-angreifer-luis-diaz-entfuehrt-mutter-befreit-a-03e1d570-067a-43f3-a0ea-1a25343d4317#ref=rss)
+### mutter
+
+* [https://www.spiegel.de/panorama/justiz/eltern-von-liverpool-angreifer-luis-diaz-entfuehrt-mutter-befreit](https://www.spiegel.de/panorama/justiz/eltern-von-liverpool-angreifer-luis-diaz-entfuehrt-mutter-befreit-a-03e1d570-067a-43f3-a0ea-1a25343d4317#ref=rss)
+### geschockt
+
+* [https://www.spiegel.de/panorama/justiz/eltern-von-liverpool-angreifer-luis-diaz-entfuehrt-mutter-befreit](https://www.spiegel.de/panorama/justiz/eltern-von-liverpool-angreifer-luis-diaz-entfuehrt-mutter-befreit-a-03e1d570-067a-43f3-a0ea-1a25343d4317#ref=rss)
+* [https://www.spiegel.de/panorama/leute/matthew-perry-hollywood-trauert-was-fuer-ein-verlust-die-welt-wird-dich-vermissen](https://www.spiegel.de/panorama/leute/matthew-perry-hollywood-trauert-was-fuer-ein-verlust-die-welt-wird-dich-vermissen-a-27d80387-78cb-44f9-b170-54c501a8a68c#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/donald-trump-vor-gericht-kann-man-ihm-den-mund-verbieten](https://www.spiegel.de/ausland/donald-trump-vor-gericht-kann-man-ihm-den-mund-verbieten-a-308789fa-edcd-4d1c-b91b-0890370d0f61#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/donald-trump-vor-gericht-kann-man-ihm-den-mund-verbieten](https://www.spiegel.de/ausland/donald-trump-vor-gericht-kann-man-ihm-den-mund-verbieten-a-308789fa-edcd-4d1c-b91b-0890370d0f61#ref=rss)
+### acapulco
+
+* [https://www.spiegel.de/ausland/acapulco-nach-hurrikan-otis-pluenderungen-und-eine-katastrophale-versorgungslage](https://www.spiegel.de/ausland/acapulco-nach-hurrikan-otis-pluenderungen-und-eine-katastrophale-versorgungslage-a-331b8401-02d3-4426-b6ad-5aaece4038ab#ref=rss)
+### plünderungen
+
+* [https://www.spiegel.de/ausland/acapulco-nach-hurrikan-otis-pluenderungen-und-eine-katastrophale-versorgungslage](https://www.spiegel.de/ausland/acapulco-nach-hurrikan-otis-pluenderungen-und-eine-katastrophale-versorgungslage-a-331b8401-02d3-4426-b6ad-5aaece4038ab#ref=rss)
+### sauberes
+
+* [https://www.spiegel.de/ausland/acapulco-nach-hurrikan-otis-pluenderungen-und-eine-katastrophale-versorgungslage](https://www.spiegel.de/ausland/acapulco-nach-hurrikan-otis-pluenderungen-und-eine-katastrophale-versorgungslage-a-331b8401-02d3-4426-b6ad-5aaece4038ab#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-gazastreifen-ist-wieder-per-internet-und-telefon-erreichbar](https://www.spiegel.de/ausland/israel-gaza-news-heute-gazastreifen-ist-wieder-per-internet-und-telefon-erreichbar-a-b49b40b7-02f8-45dc-a305-66b8e7a9f921#ref=rss)
+### chaos
+
+* [https://www.spiegel.de/ausland/acapulco-nach-hurrikan-otis-pluenderungen-und-eine-katastrophale-versorgungslage](https://www.spiegel.de/ausland/acapulco-nach-hurrikan-otis-pluenderungen-und-eine-katastrophale-versorgungslage-a-331b8401-02d3-4426-b6ad-5aaece4038ab#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/matthias-maurer-der-astronaut-war-ungluecklich-ueber-milliardaere-als-weltraumtouristen](https://www.spiegel.de/wissenschaft/weltall/matthias-maurer-der-astronaut-war-ungluecklich-ueber-milliardaere-als-weltraumtouristen-a-432402b7-d65a-4cc1-9e65-439b7caa06cc#ref=rss)
+### palästina
+
+* [https://www.spiegel.de/geschichte/israel-und-palaestina-diese-buecher-empfehlen-experten-zum-nahostkonflikt](https://www.spiegel.de/geschichte/israel-und-palaestina-diese-buecher-empfehlen-experten-zum-nahostkonflikt-a-2070f980-7ad7-4385-ae72-90f16166537d#ref=rss)
+### bücher
+
+* [https://www.spiegel.de/geschichte/israel-und-palaestina-diese-buecher-empfehlen-experten-zum-nahostkonflikt](https://www.spiegel.de/geschichte/israel-und-palaestina-diese-buecher-empfehlen-experten-zum-nahostkonflikt-a-2070f980-7ad7-4385-ae72-90f16166537d#ref=rss)
+### mitri
+
+* [https://www.spiegel.de/ausland/israel-hamas-krieg-ein-palaestinensische-pastor-mitri-raheb-spricht-ueber-den-konflikt](https://www.spiegel.de/ausland/israel-hamas-krieg-ein-palaestinensische-pastor-mitri-raheb-spricht-ueber-den-konflikt-a-ee204653-72aa-4cb5-9e69-9a30af663e10#ref=rss)
+### raheb
+
+* [https://www.spiegel.de/ausland/israel-hamas-krieg-ein-palaestinensische-pastor-mitri-raheb-spricht-ueber-den-konflikt](https://www.spiegel.de/ausland/israel-hamas-krieg-ein-palaestinensische-pastor-mitri-raheb-spricht-ueber-den-konflikt-a-ee204653-72aa-4cb5-9e69-9a30af663e10#ref=rss)
+### helge
+
+* [https://www.spiegel.de/kultur/musik/hendrick-wuest-ehrt-helge-schneider](https://www.spiegel.de/kultur/musik/hendrick-wuest-ehrt-helge-schneider-a-a502678b-2e27-4d09-88a2-c7a716c66561#ref=rss)
+### schneider
+
+* [https://www.spiegel.de/kultur/musik/hendrick-wuest-ehrt-helge-schneider](https://www.spiegel.de/kultur/musik/hendrick-wuest-ehrt-helge-schneider-a-a502678b-2e27-4d09-88a2-c7a716c66561#ref=rss)
+### wüst
+
+* [https://www.spiegel.de/kultur/musik/hendrick-wuest-ehrt-helge-schneider](https://www.spiegel.de/kultur/musik/hendrick-wuest-ehrt-helge-schneider-a-a502678b-2e27-4d09-88a2-c7a716c66561#ref=rss)
+### welt
+
+* [https://www.spiegel.de/panorama/leute/matthew-perry-hollywood-trauert-was-fuer-ein-verlust-die-welt-wird-dich-vermissen](https://www.spiegel.de/panorama/leute/matthew-perry-hollywood-trauert-was-fuer-ein-verlust-die-welt-wird-dich-vermissen-a-27d80387-78cb-44f9-b170-54c501a8a68c#ref=rss)
+* [https://www.spiegel.de/kultur/stress-beim-autofahren-und-einparken-gegen-die-parkplatz-petras-dieser-welt](https://www.spiegel.de/kultur/stress-beim-autofahren-und-einparken-gegen-die-parkplatz-petras-dieser-welt-a-6ada2b70-5b81-4b6a-a348-1f4d11f3a3ff#ref=rss)
+### friendsstar
+
+* [https://www.spiegel.de/panorama/leute/matthew-perry-hollywood-trauert-was-fuer-ein-verlust-die-welt-wird-dich-vermissen](https://www.spiegel.de/panorama/leute/matthew-perry-hollywood-trauert-was-fuer-ein-verlust-die-welt-wird-dich-vermissen-a-27d80387-78cb-44f9-b170-54c501a8a68c#ref=rss)
+* [https://www.spiegel.de/panorama/leute/matthew-perry-gestorben-freund-und-leid](https://www.spiegel.de/panorama/leute/matthew-perry-gestorben-freund-und-leid-a-d3f6e135-1cd2-4182-874c-701410000505#ref=rss)
+### diesem
+
+* [https://www.spiegel.de/wirtschaft/soziales/immobilien-jede-siebte-stadt-erhoeht-in-diesem-jahr-die-grundsteuer](https://www.spiegel.de/wirtschaft/soziales/immobilien-jede-siebte-stadt-erhoeht-in-diesem-jahr-die-grundsteuer-a-b7ff139a-089f-4702-bf71-bbeb66eb55af#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/wirtschaft/soziales/immobilien-jede-siebte-stadt-erhoeht-in-diesem-jahr-die-grundsteuer](https://www.spiegel.de/wirtschaft/soziales/immobilien-jede-siebte-stadt-erhoeht-in-diesem-jahr-die-grundsteuer-a-b7ff139a-089f-4702-bf71-bbeb66eb55af#ref=rss)
+### grundsteuer
+
+* [https://www.spiegel.de/wirtschaft/soziales/immobilien-jede-siebte-stadt-erhoeht-in-diesem-jahr-die-grundsteuer](https://www.spiegel.de/wirtschaft/soziales/immobilien-jede-siebte-stadt-erhoeht-in-diesem-jahr-die-grundsteuer-a-b7ff139a-089f-4702-bf71-bbeb66eb55af#ref=rss)
+### matthias
+
+* [https://www.spiegel.de/wissenschaft/weltall/matthias-maurer-der-astronaut-war-ungluecklich-ueber-milliardaere-als-weltraumtouristen](https://www.spiegel.de/wissenschaft/weltall/matthias-maurer-der-astronaut-war-ungluecklich-ueber-milliardaere-als-weltraumtouristen-a-432402b7-d65a-4cc1-9e65-439b7caa06cc#ref=rss)
+### maurer
+
+* [https://www.spiegel.de/wissenschaft/weltall/matthias-maurer-der-astronaut-war-ungluecklich-ueber-milliardaere-als-weltraumtouristen](https://www.spiegel.de/wissenschaft/weltall/matthias-maurer-der-astronaut-war-ungluecklich-ueber-milliardaere-als-weltraumtouristen-a-432402b7-d65a-4cc1-9e65-439b7caa06cc#ref=rss)
+### astronaut
+
+* [https://www.spiegel.de/wissenschaft/weltall/matthias-maurer-der-astronaut-war-ungluecklich-ueber-milliardaere-als-weltraumtouristen](https://www.spiegel.de/wissenschaft/weltall/matthias-maurer-der-astronaut-war-ungluecklich-ueber-milliardaere-als-weltraumtouristen-a-432402b7-d65a-4cc1-9e65-439b7caa06cc#ref=rss)
+### weltraumtouristen
+
+* [https://www.spiegel.de/wissenschaft/weltall/matthias-maurer-der-astronaut-war-ungluecklich-ueber-milliardaere-als-weltraumtouristen](https://www.spiegel.de/wissenschaft/weltall/matthias-maurer-der-astronaut-war-ungluecklich-ueber-milliardaere-als-weltraumtouristen-a-432402b7-d65a-4cc1-9e65-439b7caa06cc#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/wissenschaft/weltall/matthias-maurer-der-astronaut-war-ungluecklich-ueber-milliardaere-als-weltraumtouristen](https://www.spiegel.de/wissenschaft/weltall/matthias-maurer-der-astronaut-war-ungluecklich-ueber-milliardaere-als-weltraumtouristen-a-432402b7-d65a-4cc1-9e65-439b7caa06cc#ref=rss)
+* [https://www.spiegel.de/kultur/peter-handke-ein-schreiendes-kind-ein-keller-unter-wasser-und-dann-schoener-schreiben](https://www.spiegel.de/kultur/peter-handke-ein-schreiendes-kind-ein-keller-unter-wasser-und-dann-schoener-schreiben-a-8b1e778b-6ab4-4d31-a770-7b6715c2011b#ref=rss)
+### plaßmann
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-plassmann-stuttmann-und-chappatte-losen-oder-reise-nach-jerusalem](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-plassmann-stuttmann-und-chappatte-losen-oder-reise-nach-jerusalem-a-3ae82b12-c971-4b4a-8abc-54f30dda4980#ref=rss)
+### stuttmann
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-plassmann-stuttmann-und-chappatte-losen-oder-reise-nach-jerusalem](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-plassmann-stuttmann-und-chappatte-losen-oder-reise-nach-jerusalem-a-3ae82b12-c971-4b4a-8abc-54f30dda4980#ref=rss)
+### chappatte
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-plassmann-stuttmann-und-chappatte-losen-oder-reise-nach-jerusalem](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-plassmann-stuttmann-und-chappatte-losen-oder-reise-nach-jerusalem-a-3ae82b12-c971-4b4a-8abc-54f30dda4980#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-plassmann-stuttmann-und-chappatte-losen-oder-reise-nach-jerusalem](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-plassmann-stuttmann-und-chappatte-losen-oder-reise-nach-jerusalem-a-3ae82b12-c971-4b4a-8abc-54f30dda4980#ref=rss)
+* [https://www.spiegel.de/politik/statement-von-fridays-for-future-ueber-israel-reden](https://www.spiegel.de/politik/statement-von-fridays-for-future-ueber-israel-reden-a-15362088-84b9-4fa1-ae78-80f8add18885#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/cdu-friedrich-merz-stellt-bedingungen-fuer-zusammenarbeit-mit-der-ampel](https://www.spiegel.de/politik/cdu-friedrich-merz-stellt-bedingungen-fuer-zusammenarbeit-mit-der-ampel-a-bce015c2-0d50-4238-aeb7-ac663654bb05#ref=rss)
+### stellt
+
+* [https://www.spiegel.de/politik/cdu-friedrich-merz-stellt-bedingungen-fuer-zusammenarbeit-mit-der-ampel](https://www.spiegel.de/politik/cdu-friedrich-merz-stellt-bedingungen-fuer-zusammenarbeit-mit-der-ampel-a-bce015c2-0d50-4238-aeb7-ac663654bb05#ref=rss)
+### schwiegereltern
+
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-gazastreifen-ist-wieder-per-internet-und-telefon-erreichbar](https://www.spiegel.de/ausland/israel-gaza-news-heute-gazastreifen-ist-wieder-per-internet-und-telefon-erreichbar-a-b49b40b7-02f8-45dc-a305-66b8e7a9f921#ref=rss)
+### jude
+
+* [https://www.spiegel.de/sport/fussball/clasico-held-jude-bellingham-von-real-madrid-er-kriegt-immer-was-er-will](https://www.spiegel.de/sport/fussball/clasico-held-jude-bellingham-von-real-madrid-er-kriegt-immer-was-er-will-a-4ddfd284-4cd3-40e0-915a-2cfd042834fd#ref=rss)
+### bellingham
+
+* [https://www.spiegel.de/sport/fussball/clasico-held-jude-bellingham-von-real-madrid-er-kriegt-immer-was-er-will](https://www.spiegel.de/sport/fussball/clasico-held-jude-bellingham-von-real-madrid-er-kriegt-immer-was-er-will-a-4ddfd284-4cd3-40e0-915a-2cfd042834fd#ref=rss)
+### real
+
+* [https://www.spiegel.de/sport/fussball/clasico-held-jude-bellingham-von-real-madrid-er-kriegt-immer-was-er-will](https://www.spiegel.de/sport/fussball/clasico-held-jude-bellingham-von-real-madrid-er-kriegt-immer-was-er-will-a-4ddfd284-4cd3-40e0-915a-2cfd042834fd#ref=rss)
+### madrid
+
+* [https://www.spiegel.de/sport/fussball/clasico-held-jude-bellingham-von-real-madrid-er-kriegt-immer-was-er-will](https://www.spiegel.de/sport/fussball/clasico-held-jude-bellingham-von-real-madrid-er-kriegt-immer-was-er-will-a-4ddfd284-4cd3-40e0-915a-2cfd042834fd#ref=rss)
+### lösungen
+
+* [https://www.spiegel.de/karriere/wie-viele-loesungen-hat-die-gleichung-raetsel-der-woche](https://www.spiegel.de/karriere/wie-viele-loesungen-hat-die-gleichung-raetsel-der-woche-a-a270d9fe-6af8-4f0c-bace-b8d49624b200#ref=rss)
+### gleichung
+
+* [https://www.spiegel.de/karriere/wie-viele-loesungen-hat-die-gleichung-raetsel-der-woche](https://www.spiegel.de/karriere/wie-viele-loesungen-hat-die-gleichung-raetsel-der-woche-a-a270d9fe-6af8-4f0c-bace-b8d49624b200#ref=rss)
+### natürlichen
+
+* [https://www.spiegel.de/karriere/wie-viele-loesungen-hat-die-gleichung-raetsel-der-woche](https://www.spiegel.de/karriere/wie-viele-loesungen-hat-die-gleichung-raetsel-der-woche-a-a270d9fe-6af8-4f0c-bace-b8d49624b200#ref=rss)
+### zahl
+
+* [https://www.spiegel.de/karriere/wie-viele-loesungen-hat-die-gleichung-raetsel-der-woche](https://www.spiegel.de/karriere/wie-viele-loesungen-hat-die-gleichung-raetsel-der-woche-a-a270d9fe-6af8-4f0c-bace-b8d49624b200#ref=rss)
+### peter
+
+* [https://www.spiegel.de/kultur/peter-handke-ein-schreiendes-kind-ein-keller-unter-wasser-und-dann-schoener-schreiben](https://www.spiegel.de/kultur/peter-handke-ein-schreiendes-kind-ein-keller-unter-wasser-und-dann-schoener-schreiben-a-8b1e778b-6ab4-4d31-a770-7b6715c2011b#ref=rss)
+### handke
+
+* [https://www.spiegel.de/kultur/peter-handke-ein-schreiendes-kind-ein-keller-unter-wasser-und-dann-schoener-schreiben](https://www.spiegel.de/kultur/peter-handke-ein-schreiendes-kind-ein-keller-unter-wasser-und-dann-schoener-schreiben-a-8b1e778b-6ab4-4d31-a770-7b6715c2011b#ref=rss)
+### einparken
+
+* [https://www.spiegel.de/kultur/stress-beim-autofahren-und-einparken-gegen-die-parkplatz-petras-dieser-welt](https://www.spiegel.de/kultur/stress-beim-autofahren-und-einparken-gegen-die-parkplatz-petras-dieser-welt-a-6ada2b70-5b81-4b6a-a348-1f4d11f3a3ff#ref=rss)
+### gaza
+
+* [https://www.spiegel.de/netzwelt/web/gaza-elon-musk-verspricht-starlink-nur-zu-rein-humanitaeren-zwecken](https://www.spiegel.de/netzwelt/web/gaza-elon-musk-verspricht-starlink-nur-zu-rein-humanitaeren-zwecken-a-c203a690-cdaa-4cb0-b594-6c4e9ae3886c#ref=rss)
+### elon
+
+* [https://www.spiegel.de/netzwelt/web/gaza-elon-musk-verspricht-starlink-nur-zu-rein-humanitaeren-zwecken](https://www.spiegel.de/netzwelt/web/gaza-elon-musk-verspricht-starlink-nur-zu-rein-humanitaeren-zwecken-a-c203a690-cdaa-4cb0-b594-6c4e9ae3886c#ref=rss)
+### musk
+
+* [https://www.spiegel.de/netzwelt/web/gaza-elon-musk-verspricht-starlink-nur-zu-rein-humanitaeren-zwecken](https://www.spiegel.de/netzwelt/web/gaza-elon-musk-verspricht-starlink-nur-zu-rein-humanitaeren-zwecken-a-c203a690-cdaa-4cb0-b594-6c4e9ae3886c#ref=rss)
+### verspricht
+
+* [https://www.spiegel.de/netzwelt/web/gaza-elon-musk-verspricht-starlink-nur-zu-rein-humanitaeren-zwecken](https://www.spiegel.de/netzwelt/web/gaza-elon-musk-verspricht-starlink-nur-zu-rein-humanitaeren-zwecken-a-c203a690-cdaa-4cb0-b594-6c4e9ae3886c#ref=rss)
+### starlink
+
+* [https://www.spiegel.de/netzwelt/web/gaza-elon-musk-verspricht-starlink-nur-zu-rein-humanitaeren-zwecken](https://www.spiegel.de/netzwelt/web/gaza-elon-musk-verspricht-starlink-nur-zu-rein-humanitaeren-zwecken-a-c203a690-cdaa-4cb0-b594-6c4e9ae3886c#ref=rss)
+### macht
+
+* [https://www.spiegel.de/panorama/justiz/organisierte-kriminalitaet-in-deutschland-wie-der-staat-gegen-clans-versagt](https://www.spiegel.de/panorama/justiz/organisierte-kriminalitaet-in-deutschland-wie-der-staat-gegen-clans-versagt-a-d16c4d2e-8dcf-4b80-ae71-67d574f5eec9#ref=rss)
+* [https://www.spiegel.de/politik/statement-von-fridays-for-future-ueber-israel-reden](https://www.spiegel.de/politik/statement-von-fridays-for-future-ueber-israel-reden-a-15362088-84b9-4fa1-ae78-80f8add18885#ref=rss)
 
