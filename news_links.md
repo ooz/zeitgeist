@@ -4,349 +4,321 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
+### israel
+
+* [https://www.spiegel.de/ausland/kritik-an-gilad-erdan-israels-uno-botschafter-nach-auftritt-mit-gelbem-stern](https://www.spiegel.de/ausland/kritik-an-gilad-erdan-israels-uno-botschafter-nach-auftritt-mit-gelbem-stern-a-45f302f9-118e-40eb-beed-2d188310ec89#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/cdu-schulsenatorin-katharina-guenther-wuensch-schulen-koennen-den-nahostkonflikt-nicht-loesen](https://www.spiegel.de/panorama/bildung/cdu-schulsenatorin-katharina-guenther-wuensch-schulen-koennen-den-nahostkonflikt-nicht-loesen-a-12870252-acf6-4133-a5be-716d58dd0ee3#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-roter-halbmond-meldet-angriffe-nahe-krankenhaus-in-gaza](https://www.spiegel.de/ausland/israel-gaza-news-heute-roter-halbmond-meldet-angriffe-nahe-krankenhaus-in-gaza-a-ac40d7a9-3075-4a43-a348-fcf1616d50ae#ref=rss)
 ### ich
 
 * [https://www.spiegel.de/familie/halloween-alles-nur-us-kommerz-wie-ich-lernte-das-gruselfest-zu-lieben](https://www.spiegel.de/familie/halloween-alles-nur-us-kommerz-wie-ich-lernte-das-gruselfest-zu-lieben-a-8fae2b4a-d034-4a83-a7ac-0d5e9a9d3eee#ref=rss)
-* [https://www.spiegel.de/start/renteneintritt-der-babyboomer-was-ich-an-ihnen-vermissen-werde](https://www.spiegel.de/start/renteneintritt-der-babyboomer-was-ich-an-ihnen-vermissen-werde-a-a48ccdc8-8f97-4b5b-94f3-465e1060b6c0#ref=rss)
-### halloween
+### frankreich
 
-* [https://www.spiegel.de/familie/halloween-alles-nur-us-kommerz-wie-ich-lernte-das-gruselfest-zu-lieben](https://www.spiegel.de/familie/halloween-alles-nur-us-kommerz-wie-ich-lernte-das-gruselfest-zu-lieben-a-8fae2b4a-d034-4a83-a7ac-0d5e9a9d3eee#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/halloween-und-suessigkeiten-wir-brauchen-endlich-eine-zuckersteuer](https://www.spiegel.de/politik/deutschland/halloween-und-suessigkeiten-wir-brauchen-endlich-eine-zuckersteuer-a-7cca4a7c-6e15-44a5-930a-62bc72ba39d6#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/m3-chip-macbook-pro-und-imac-apples-stellt-schnellere-notebooks-und-imacs-vor](https://www.spiegel.de/netzwelt/gadgets/m3-chip-macbook-pro-und-imac-apples-stellt-schnellere-notebooks-und-imacs-vor-a-abbebffe-2b74-4f29-a49c-8d9a434a9cbc#ref=rss)
-### markus
+* [https://www.spiegel.de/panorama/england-und-frankreich-aufziehendes-sturmtief-ciaran-bringt-ueberschwemmungen](https://www.spiegel.de/panorama/england-und-frankreich-aufziehendes-sturmtief-ciaran-bringt-ueberschwemmungen-a-6ce064fc-bd24-45ca-bedb-beb75bb1051e#ref=rss)
+* [https://www.spiegel.de/ausland/paris-polizei-schiesst-frau-nach-explosionsdrohung-nieder](https://www.spiegel.de/ausland/paris-polizei-schiesst-frau-nach-explosionsdrohung-nieder-a-a5e05f8e-fac4-405e-a241-273777c24632#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/politik/deutschland/bayern-markus-soeder-als-ministerpraesident-wiedergewaehlt](https://www.spiegel.de/politik/deutschland/bayern-markus-soeder-als-ministerpraesident-wiedergewaehlt-a-06507f79-2a91-4c11-996d-4c9631eea435#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-markus-soeder-olaf-scholz-ghana-israel-gaza-shani-louk](https://www.spiegel.de/politik/deutschland/news-markus-soeder-olaf-scholz-ghana-israel-gaza-shani-louk-a-e060f248-0142-4665-8d09-58d6e869d5a0#ref=rss)
-### söder
+* [https://www.spiegel.de/panorama/england-und-frankreich-aufziehendes-sturmtief-ciaran-bringt-ueberschwemmungen](https://www.spiegel.de/panorama/england-und-frankreich-aufziehendes-sturmtief-ciaran-bringt-ueberschwemmungen-a-6ce064fc-bd24-45ca-bedb-beb75bb1051e#ref=rss)
+* [https://www.spiegel.de/ausland/bangladesch-zwei-tote-und-viele-verletzte-bei-landesweiten-anti-regierungsprotesten](https://www.spiegel.de/ausland/bangladesch-zwei-tote-und-viele-verletzte-bei-landesweiten-anti-regierungsprotesten-a-71d49b74-f40f-4577-b122-31890e7f2139#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-roter-halbmond-meldet-angriffe-nahe-krankenhaus-in-gaza](https://www.spiegel.de/ausland/israel-gaza-news-heute-roter-halbmond-meldet-angriffe-nahe-krankenhaus-in-gaza-a-ac40d7a9-3075-4a43-a348-fcf1616d50ae#ref=rss)
+### neue
 
-* [https://www.spiegel.de/politik/deutschland/bayern-markus-soeder-als-ministerpraesident-wiedergewaehlt](https://www.spiegel.de/politik/deutschland/bayern-markus-soeder-als-ministerpraesident-wiedergewaehlt-a-06507f79-2a91-4c11-996d-4c9631eea435#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-markus-soeder-olaf-scholz-ghana-israel-gaza-shani-louk](https://www.spiegel.de/politik/deutschland/news-markus-soeder-olaf-scholz-ghana-israel-gaza-shani-louk-a-e060f248-0142-4665-8d09-58d6e869d5a0#ref=rss)
+* [https://www.spiegel.de/panorama/urteil-zu-neuem-wiederaufnahme-paragraf-was-man-im-rechtsstaat-ertragen-muss](https://www.spiegel.de/panorama/urteil-zu-neuem-wiederaufnahme-paragraf-was-man-im-rechtsstaat-ertragen-muss-a-41266229-73a8-4b29-b37d-1ab51fc27c64#ref=rss)
+* [https://www.spiegel.de/politik/rudolf-augstein-1948-zur-armee-debatte-soll-man-die-deutschen-bewaffnen](https://www.spiegel.de/politik/rudolf-augstein-1948-zur-armee-debatte-soll-man-die-deutschen-bewaffnen-a-7da372e8-7457-4555-bbae-0423f20eb20b#ref=rss)
+* [https://www.spiegel.de/ausland/ori-megidish-israelische-soldatin-bei-bodenoffensive-in-gaza-befreit-neue-details](https://www.spiegel.de/ausland/ori-megidish-israelische-soldatin-bei-bodenoffensive-in-gaza-befreit-neue-details-a-4b26fdab-2906-481d-bfc4-f4a8c79404cf#ref=rss)
+### wirft
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-krieg-in-nahost-mordfall-frederike-von-moehlmann-solarwinds](https://www.spiegel.de/politik/deutschland/news-des-tages-krieg-in-nahost-mordfall-frederike-von-moehlmann-solarwinds-a-01e66e36-673a-4321-a765-1e65cc841d7e#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-krieg-in-nahost-mordfall-frederike-von-moehlmann-solarwinds](https://www.spiegel.de/politik/deutschland/news-des-tages-krieg-in-nahost-mordfall-frederike-von-moehlmann-solarwinds-a-01e66e36-673a-4321-a765-1e65cc841d7e#ref=rss)
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### frau
+
+* [https://www.spiegel.de/panorama/justiz/alexander-zverev-droht-strafprozess-wegen-koerperverletzung](https://www.spiegel.de/panorama/justiz/alexander-zverev-droht-strafprozess-wegen-koerperverletzung-a-ebd5ec17-4cb5-4903-b568-b56ab32c61eb#ref=rss)
+* [https://www.spiegel.de/ausland/paris-polizei-schiesst-frau-nach-explosionsdrohung-nieder](https://www.spiegel.de/ausland/paris-polizei-schiesst-frau-nach-explosionsdrohung-nieder-a-a5e05f8e-fac4-405e-a241-273777c24632#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-ruft-wieder-zum-impfen-auf](https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-ruft-wieder-zum-impfen-auf-a-3226b1c6-cc26-4638-a82a-974c3bb6a977#ref=rss)
+* [https://www.spiegel.de/ausland/antisemitismus-an-us-universitaeten-wie-juedische-studierende-sich-gegen-hassbotschaften-wehren](https://www.spiegel.de/ausland/antisemitismus-an-us-universitaeten-wie-juedische-studierende-sich-gegen-hassbotschaften-wehren-a-daae7369-0286-47e0-982d-f0aa95195b4f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/schweden-akademie-stellt-schwedisch-woerterbuch-fertig-nach-140-jahren-das-ist-doch-fantastiskt](https://www.spiegel.de/wissenschaft/mensch/schweden-akademie-stellt-schwedisch-woerterbuch-fertig-nach-140-jahren-das-ist-doch-fantastiskt-a-9eda57ae-fa28-423d-bc06-3ec9ffbb3f36#ref=rss)
 ### wir
 
-* [https://www.spiegel.de/politik/deutschland/halloween-und-suessigkeiten-wir-brauchen-endlich-eine-zuckersteuer](https://www.spiegel.de/politik/deutschland/halloween-und-suessigkeiten-wir-brauchen-endlich-eine-zuckersteuer-a-7cca4a7c-6e15-44a5-930a-62bc72ba39d6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/krypto-basics-5-5-warum-kriminelle-auf-krypto-setzen-podcast](https://www.spiegel.de/wirtschaft/krypto-basics-5-5-warum-kriminelle-auf-krypto-setzen-podcast-a-a44c5f7b-3719-4b67-89dd-545623bf5ea4#ref=rss)
-* [https://www.spiegel.de/panorama/friends-cast-zum-tod-von-matthew-perry-wir-waren-mehr-als-nur-schauspielkollegen-wir-sind-eine-familie](https://www.spiegel.de/panorama/friends-cast-zum-tod-von-matthew-perry-wir-waren-mehr-als-nur-schauspielkollegen-wir-sind-eine-familie-a-ff439708-6636-4aaa-9064-cc1be7915e48#ref=rss)
-### klimakrise
+* [https://www.spiegel.de/ausland/kritik-an-gilad-erdan-israels-uno-botschafter-nach-auftritt-mit-gelbem-stern](https://www.spiegel.de/ausland/kritik-an-gilad-erdan-israels-uno-botschafter-nach-auftritt-mit-gelbem-stern-a-45f302f9-118e-40eb-beed-2d188310ec89#ref=rss)
+* [https://www.spiegel.de/stil/s-magazin/schmuck-kostbare-welt](https://www.spiegel.de/stil/s-magazin/schmuck-kostbare-welt-a-bf5272ce-0002-0001-0000-000212088707#ref=rss)
+* [https://www.spiegel.de/ausland/nordkorea-wie-das-land-seine-sanktionen-umgeht-wir-sollten-nordkorea-nicht-unterschaetzen](https://www.spiegel.de/ausland/nordkorea-wie-das-land-seine-sanktionen-umgeht-wir-sollten-nordkorea-nicht-unterschaetzen-a-c5e42aff-0e31-4b83-983a-bc4bb996239b#ref=rss)
+### hamas
 
-* [https://www.spiegel.de/ausland/studie-zu-klimakrise-demokratie-und-jugend-in-europa-generation-warteraum](https://www.spiegel.de/ausland/studie-zu-klimakrise-demokratie-und-jugend-in-europa-generation-warteraum-a-c2dc287f-5adc-486b-b9ca-8be105c838dd#ref=rss)
-* [https://www.spiegel.de/wissenschaft/klimakrise-wie-banken-die-erde-mit-billionen-krediten-fuer-oel-gas-und-kohlefoerderung-aufheizen](https://www.spiegel.de/wissenschaft/klimakrise-wie-banken-die-erde-mit-billionen-krediten-fuer-oel-gas-und-kohlefoerderung-aufheizen-a-db8f23ab-0b53-48d7-8af2-fa8d91d1a6ac#ref=rss)
-### markt
+* [https://www.spiegel.de/ausland/kritik-an-gilad-erdan-israels-uno-botschafter-nach-auftritt-mit-gelbem-stern](https://www.spiegel.de/ausland/kritik-an-gilad-erdan-israels-uno-botschafter-nach-auftritt-mit-gelbem-stern-a-45f302f9-118e-40eb-beed-2d188310ec89#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/cdu-schulsenatorin-katharina-guenther-wuensch-schulen-koennen-den-nahostkonflikt-nicht-loesen](https://www.spiegel.de/panorama/bildung/cdu-schulsenatorin-katharina-guenther-wuensch-schulen-koennen-den-nahostkonflikt-nicht-loesen-a-12870252-acf6-4133-a5be-716d58dd0ee3#ref=rss)
+* [https://www.spiegel.de/ausland/ori-megidish-israelische-soldatin-bei-bodenoffensive-in-gaza-befreit-neue-details](https://www.spiegel.de/ausland/ori-megidish-israelische-soldatin-bei-bodenoffensive-in-gaza-befreit-neue-details-a-4b26fdab-2906-481d-bfc4-f4a8c79404cf#ref=rss)
+### fdp
 
-* [https://www.spiegel.de/ausland/studie-zu-klimakrise-demokratie-und-jugend-in-europa-generation-warteraum](https://www.spiegel.de/ausland/studie-zu-klimakrise-demokratie-und-jugend-in-europa-generation-warteraum-a-c2dc287f-5adc-486b-b9ca-8be105c838dd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/halloween-und-suessigkeiten-wir-brauchen-endlich-eine-zuckersteuer](https://www.spiegel.de/politik/deutschland/halloween-und-suessigkeiten-wir-brauchen-endlich-eine-zuckersteuer-a-7cca4a7c-6e15-44a5-930a-62bc72ba39d6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/aktien-von-autoherstellern-wer-von-der-elektrowende-profitiert](https://www.spiegel.de/wirtschaft/service/aktien-von-autoherstellern-wer-von-der-elektrowende-profitiert-a-817af45d-5601-4db7-8176-1ddc68728947#ref=rss)
-### seite
+* [https://www.spiegel.de/politik/deutschland/fdp-thomas-kemmerich-nennt-weckruf-liste-gegen-ampel-mutiges-zeichen](https://www.spiegel.de/politik/deutschland/fdp-thomas-kemmerich-nennt-weckruf-liste-gegen-ampel-mutiges-zeichen-a-197d702a-86c4-47c9-ba5d-07d87c42080b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/migration-nancy-faeser-spricht-sich-gegen-eu-asylverfahren-in-drittstaaten-aus](https://www.spiegel.de/politik/deutschland/migration-nancy-faeser-spricht-sich-gegen-eu-asylverfahren-in-drittstaaten-aus-a-ae6b1da2-e6ec-46c2-959e-33b0b2a9cec2#ref=rss)
+### tote
 
-* [https://www.spiegel.de/sport/basketball/nba-james-harden-wechselt-von-den-philadelphia-76ers-zu-den-los-angeles-clippers](https://www.spiegel.de/sport/basketball/nba-james-harden-wechselt-von-den-philadelphia-76ers-zu-den-los-angeles-clippers-a-73ade320-c9a2-4895-9afb-c129234b3cec#ref=rss)
+* [https://www.spiegel.de/ausland/bangladesch-zwei-tote-und-viele-verletzte-bei-landesweiten-anti-regierungsprotesten](https://www.spiegel.de/ausland/bangladesch-zwei-tote-und-viele-verletzte-bei-landesweiten-anti-regierungsprotesten-a-71d49b74-f40f-4577-b122-31890e7f2139#ref=rss)
 * [https://www.spiegel.de/ausland/israel-gaza-news-heute-roter-halbmond-meldet-angriffe-nahe-krankenhaus-in-gaza](https://www.spiegel.de/ausland/israel-gaza-news-heute-roter-halbmond-meldet-angriffe-nahe-krankenhaus-in-gaza-a-ac40d7a9-3075-4a43-a348-fcf1616d50ae#ref=rss)
-* [https://www.spiegel.de/panorama/friends-cast-zum-tod-von-matthew-perry-wir-waren-mehr-als-nur-schauspielkollegen-wir-sind-eine-familie](https://www.spiegel.de/panorama/friends-cast-zum-tod-von-matthew-perry-wir-waren-mehr-als-nur-schauspielkollegen-wir-sind-eine-familie-a-ff439708-6636-4aaa-9064-cc1be7915e48#ref=rss)
-### kritik
+### halloween
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2024-australien-verzichtet-weg-fuer-fussball-wm-in-saudi-arabien-ist-frei](https://www.spiegel.de/sport/fussball/fussball-wm-2024-australien-verzichtet-weg-fuer-fussball-wm-in-saudi-arabien-ist-frei-a-87a45875-6f00-44d6-a770-6bee2e1d4ee8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-fdp-politiker-stellen-ampelkoalition-infrage](https://www.spiegel.de/politik/deutschland/bundesregierung-fdp-politiker-stellen-ampelkoalition-infrage-a-b037e253-f5be-4cf1-945e-3acbf7ce5369#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/streit-der-dachverbaende-von-sinti-und-roma-haelt-an](https://www.spiegel.de/politik/deutschland/streit-der-dachverbaende-von-sinti-und-roma-haelt-an-a-c702a060-6389-44a9-8737-2cfb174e5969#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/ausland/israel-gaza-news-heute-roter-halbmond-meldet-angriffe-nahe-krankenhaus-in-gaza](https://www.spiegel.de/ausland/israel-gaza-news-heute-roter-halbmond-meldet-angriffe-nahe-krankenhaus-in-gaza-a-ac40d7a9-3075-4a43-a348-fcf1616d50ae#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-markus-soeder-olaf-scholz-ghana-israel-gaza-shani-louk](https://www.spiegel.de/politik/deutschland/news-markus-soeder-olaf-scholz-ghana-israel-gaza-shani-louk-a-e060f248-0142-4665-8d09-58d6e869d5a0#ref=rss)
-### macht
-
-* [https://www.spiegel.de/politik/deutschland/halloween-und-suessigkeiten-wir-brauchen-endlich-eine-zuckersteuer](https://www.spiegel.de/politik/deutschland/halloween-und-suessigkeiten-wir-brauchen-endlich-eine-zuckersteuer-a-7cca4a7c-6e15-44a5-930a-62bc72ba39d6#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-x-sperrt-kritischen-datenanalysten-der-wehrt-sich-vor-gericht](https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-x-sperrt-kritischen-datenanalysten-der-wehrt-sich-vor-gericht-a-ca81683c-add4-4d0b-b79a-0a436049d033#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/aktien-von-autoherstellern-wer-von-der-elektrowende-profitiert](https://www.spiegel.de/wirtschaft/service/aktien-von-autoherstellern-wer-von-der-elektrowende-profitiert-a-817af45d-5601-4db7-8176-1ddc68728947#ref=rss)
-### bundesregierung
-
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-fdp-politiker-stellen-ampelkoalition-infrage](https://www.spiegel.de/politik/deutschland/bundesregierung-fdp-politiker-stellen-ampelkoalition-infrage-a-b037e253-f5be-4cf1-945e-3acbf7ce5369#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/streit-der-dachverbaende-von-sinti-und-roma-haelt-an](https://www.spiegel.de/politik/deutschland/streit-der-dachverbaende-von-sinti-und-roma-haelt-an-a-c702a060-6389-44a9-8737-2cfb174e5969#ref=rss)
-### elon
-
-* [https://www.spiegel.de/wirtschaft/musks-x-verliert-seit-dem-kauf-der-plattform-offenbar-stark-an-wert](https://www.spiegel.de/wirtschaft/musks-x-verliert-seit-dem-kauf-der-plattform-offenbar-stark-an-wert-a-c100588d-bc25-4d85-9f92-33399b6561b6#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-x-sperrt-kritischen-datenanalysten-der-wehrt-sich-vor-gericht](https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-x-sperrt-kritischen-datenanalysten-der-wehrt-sich-vor-gericht-a-ca81683c-add4-4d0b-b79a-0a436049d033#ref=rss)
-### musk
-
-* [https://www.spiegel.de/wirtschaft/musks-x-verliert-seit-dem-kauf-der-plattform-offenbar-stark-an-wert](https://www.spiegel.de/wirtschaft/musks-x-verliert-seit-dem-kauf-der-plattform-offenbar-stark-an-wert-a-c100588d-bc25-4d85-9f92-33399b6561b6#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-x-sperrt-kritischen-datenanalysten-der-wehrt-sich-vor-gericht](https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-x-sperrt-kritischen-datenanalysten-der-wehrt-sich-vor-gericht-a-ca81683c-add4-4d0b-b79a-0a436049d033#ref=rss)
-### travis
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-x-sperrt-kritischen-datenanalysten-der-wehrt-sich-vor-gericht](https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-x-sperrt-kritischen-datenanalysten-der-wehrt-sich-vor-gericht-a-ca81683c-add4-4d0b-b79a-0a436049d033#ref=rss)
-* [https://www.spiegel.de/sport/taylor-swift-und-die-nfl-nur-die-liebe-zaehlt](https://www.spiegel.de/sport/taylor-swift-und-die-nfl-nur-die-liebe-zaehlt-a-22b80e84-b78b-41e3-86b7-3adc45544d2f#ref=rss)
-### alles
-
+* [https://www.spiegel.de/panorama/heidi-klum-spielt-vor-halloween-mit-fan-erwartungen](https://www.spiegel.de/panorama/heidi-klum-spielt-vor-halloween-mit-fan-erwartungen-a-96be78ff-2067-47ff-934c-5e7602f6988a#ref=rss)
 * [https://www.spiegel.de/familie/halloween-alles-nur-us-kommerz-wie-ich-lernte-das-gruselfest-zu-lieben](https://www.spiegel.de/familie/halloween-alles-nur-us-kommerz-wie-ich-lernte-das-gruselfest-zu-lieben-a-8fae2b4a-d034-4a83-a7ac-0d5e9a9d3eee#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2024-australien-verzichtet-weg-fuer-fussball-wm-in-saudi-arabien-ist-frei](https://www.spiegel.de/sport/fussball/fussball-wm-2024-australien-verzichtet-weg-fuer-fussball-wm-in-saudi-arabien-ist-frei-a-87a45875-6f00-44d6-a770-6bee2e1d4ee8#ref=rss)
+### bundesverfassungsgericht
+
+* [https://www.spiegel.de/panorama/urteil-zu-neuem-wiederaufnahme-paragraf-was-man-im-rechtsstaat-ertragen-muss](https://www.spiegel.de/panorama/urteil-zu-neuem-wiederaufnahme-paragraf-was-man-im-rechtsstaat-ertragen-muss-a-41266229-73a8-4b29-b37d-1ab51fc27c64#ref=rss)
+### urteil
+
+* [https://www.spiegel.de/panorama/urteil-zu-neuem-wiederaufnahme-paragraf-was-man-im-rechtsstaat-ertragen-muss](https://www.spiegel.de/panorama/urteil-zu-neuem-wiederaufnahme-paragraf-was-man-im-rechtsstaat-ertragen-muss-a-41266229-73a8-4b29-b37d-1ab51fc27c64#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-krieg-in-nahost-mordfall-frederike-von-moehlmann-solarwinds](https://www.spiegel.de/politik/deutschland/news-des-tages-krieg-in-nahost-mordfall-frederike-von-moehlmann-solarwinds-a-01e66e36-673a-4321-a765-1e65cc841d7e#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/panorama/urteil-zu-neuem-wiederaufnahme-paragraf-was-man-im-rechtsstaat-ertragen-muss](https://www.spiegel.de/panorama/urteil-zu-neuem-wiederaufnahme-paragraf-was-man-im-rechtsstaat-ertragen-muss-a-41266229-73a8-4b29-b37d-1ab51fc27c64#ref=rss)
+* [https://www.spiegel.de/ausland/nordkorea-wie-das-land-seine-sanktionen-umgeht-wir-sollten-nordkorea-nicht-unterschaetzen](https://www.spiegel.de/ausland/nordkorea-wie-das-land-seine-sanktionen-umgeht-wir-sollten-nordkorea-nicht-unterschaetzen-a-c5e42aff-0e31-4b83-983a-bc4bb996239b#ref=rss)
+### news
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-krieg-in-nahost-mordfall-frederike-von-moehlmann-solarwinds](https://www.spiegel.de/politik/deutschland/news-des-tages-krieg-in-nahost-mordfall-frederike-von-moehlmann-solarwinds-a-01e66e36-673a-4321-a765-1e65cc841d7e#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-roter-halbmond-meldet-angriffe-nahe-krankenhaus-in-gaza](https://www.spiegel.de/ausland/israel-gaza-news-heute-roter-halbmond-meldet-angriffe-nahe-krankenhaus-in-gaza-a-ac40d7a9-3075-4a43-a348-fcf1616d50ae#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-krieg-in-nahost-mordfall-frederike-von-moehlmann-solarwinds](https://www.spiegel.de/politik/deutschland/news-des-tages-krieg-in-nahost-mordfall-frederike-von-moehlmann-solarwinds-a-01e66e36-673a-4321-a765-1e65cc841d7e#ref=rss)
+### solarwinds
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-krieg-in-nahost-mordfall-frederike-von-moehlmann-solarwinds](https://www.spiegel.de/politik/deutschland/news-des-tages-krieg-in-nahost-mordfall-frederike-von-moehlmann-solarwinds-a-01e66e36-673a-4321-a765-1e65cc841d7e#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/solarwinds-sec-verklagt-softwarefirma-wegen-falscher-sicherheitsversprechen](https://www.spiegel.de/netzwelt/netzpolitik/solarwinds-sec-verklagt-softwarefirma-wegen-falscher-sicherheitsversprechen-a-e0d2cfe2-0524-4ee0-b78d-279f402e6f06#ref=rss)
+### unternehmen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-krieg-in-nahost-mordfall-frederike-von-moehlmann-solarwinds](https://www.spiegel.de/politik/deutschland/news-des-tages-krieg-in-nahost-mordfall-frederike-von-moehlmann-solarwinds-a-01e66e36-673a-4321-a765-1e65cc841d7e#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/solarwinds-sec-verklagt-softwarefirma-wegen-falscher-sicherheitsversprechen](https://www.spiegel.de/netzwelt/netzpolitik/solarwinds-sec-verklagt-softwarefirma-wegen-falscher-sicherheitsversprechen-a-e0d2cfe2-0524-4ee0-b78d-279f402e6f06#ref=rss)
+### kiew
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-freiwillige-aus-kiew-versorgen-soldaten-an-der-front](https://www.spiegel.de/ausland/ukraine-krieg-freiwillige-aus-kiew-versorgen-soldaten-an-der-front-a-6ebb084e-db52-4952-be82-7b3411e33124#ref=rss)
+### soldaten
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-freiwillige-aus-kiew-versorgen-soldaten-an-der-front](https://www.spiegel.de/ausland/ukraine-krieg-freiwillige-aus-kiew-versorgen-soldaten-an-der-front-a-6ebb084e-db52-4952-be82-7b3411e33124#ref=rss)
+### front
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-freiwillige-aus-kiew-versorgen-soldaten-an-der-front](https://www.spiegel.de/ausland/ukraine-krieg-freiwillige-aus-kiew-versorgen-soldaten-an-der-front-a-6ebb084e-db52-4952-be82-7b3411e33124#ref=rss)
+### alexander
+
+* [https://www.spiegel.de/panorama/justiz/alexander-zverev-droht-strafprozess-wegen-koerperverletzung](https://www.spiegel.de/panorama/justiz/alexander-zverev-droht-strafprozess-wegen-koerperverletzung-a-ebd5ec17-4cb5-4903-b568-b56ab32c61eb#ref=rss)
+### zverev
+
+* [https://www.spiegel.de/panorama/justiz/alexander-zverev-droht-strafprozess-wegen-koerperverletzung](https://www.spiegel.de/panorama/justiz/alexander-zverev-droht-strafprozess-wegen-koerperverletzung-a-ebd5ec17-4cb5-4903-b568-b56ab32c61eb#ref=rss)
+### aussage
+
+* [https://www.spiegel.de/panorama/justiz/alexander-zverev-droht-strafprozess-wegen-koerperverletzung](https://www.spiegel.de/panorama/justiz/alexander-zverev-droht-strafprozess-wegen-koerperverletzung-a-ebd5ec17-4cb5-4903-b568-b56ab32c61eb#ref=rss)
+### corona
+
+* [https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-ruft-wieder-zum-impfen-auf](https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-ruft-wieder-zum-impfen-auf-a-3226b1c6-cc26-4638-a82a-974c3bb6a977#ref=rss)
+### lauterbach
+
+* [https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-ruft-wieder-zum-impfen-auf](https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-ruft-wieder-zum-impfen-auf-a-3226b1c6-cc26-4638-a82a-974c3bb6a977#ref=rss)
+### impfen
+
+* [https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-ruft-wieder-zum-impfen-auf](https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-ruft-wieder-zum-impfen-auf-a-3226b1c6-cc26-4638-a82a-974c3bb6a977#ref=rss)
+### unobotschafter
+
+* [https://www.spiegel.de/ausland/kritik-an-gilad-erdan-israels-uno-botschafter-nach-auftritt-mit-gelbem-stern](https://www.spiegel.de/ausland/kritik-an-gilad-erdan-israels-uno-botschafter-nach-auftritt-mit-gelbem-stern-a-45f302f9-118e-40eb-beed-2d188310ec89#ref=rss)
+### stern
+
+* [https://www.spiegel.de/ausland/kritik-an-gilad-erdan-israels-uno-botschafter-nach-auftritt-mit-gelbem-stern](https://www.spiegel.de/ausland/kritik-an-gilad-erdan-israels-uno-botschafter-nach-auftritt-mit-gelbem-stern-a-45f302f9-118e-40eb-beed-2d188310ec89#ref=rss)
+### new
+
+* [https://www.spiegel.de/ausland/kritik-an-gilad-erdan-israels-uno-botschafter-nach-auftritt-mit-gelbem-stern](https://www.spiegel.de/ausland/kritik-an-gilad-erdan-israels-uno-botschafter-nach-auftritt-mit-gelbem-stern-a-45f302f9-118e-40eb-beed-2d188310ec89#ref=rss)
+* [https://www.spiegel.de/panorama/heidi-klum-spielt-vor-halloween-mit-fan-erwartungen](https://www.spiegel.de/panorama/heidi-klum-spielt-vor-halloween-mit-fan-erwartungen-a-96be78ff-2067-47ff-934c-5e7602f6988a#ref=rss)
+### york
+
+* [https://www.spiegel.de/ausland/kritik-an-gilad-erdan-israels-uno-botschafter-nach-auftritt-mit-gelbem-stern](https://www.spiegel.de/ausland/kritik-an-gilad-erdan-israels-uno-botschafter-nach-auftritt-mit-gelbem-stern-a-45f302f9-118e-40eb-beed-2d188310ec89#ref=rss)
+* [https://www.spiegel.de/panorama/heidi-klum-spielt-vor-halloween-mit-fan-erwartungen](https://www.spiegel.de/panorama/heidi-klum-spielt-vor-halloween-mit-fan-erwartungen-a-96be78ff-2067-47ff-934c-5e7602f6988a#ref=rss)
+### cduschulsenatorin
+
+* [https://www.spiegel.de/panorama/bildung/cdu-schulsenatorin-katharina-guenther-wuensch-schulen-koennen-den-nahostkonflikt-nicht-loesen](https://www.spiegel.de/panorama/bildung/cdu-schulsenatorin-katharina-guenther-wuensch-schulen-koennen-den-nahostkonflikt-nicht-loesen-a-12870252-acf6-4133-a5be-716d58dd0ee3#ref=rss)
+### katharina
+
+* [https://www.spiegel.de/panorama/bildung/cdu-schulsenatorin-katharina-guenther-wuensch-schulen-koennen-den-nahostkonflikt-nicht-loesen](https://www.spiegel.de/panorama/bildung/cdu-schulsenatorin-katharina-guenther-wuensch-schulen-koennen-den-nahostkonflikt-nicht-loesen-a-12870252-acf6-4133-a5be-716d58dd0ee3#ref=rss)
+### güntherwünsch
+
+* [https://www.spiegel.de/panorama/bildung/cdu-schulsenatorin-katharina-guenther-wuensch-schulen-koennen-den-nahostkonflikt-nicht-loesen](https://www.spiegel.de/panorama/bildung/cdu-schulsenatorin-katharina-guenther-wuensch-schulen-koennen-den-nahostkonflikt-nicht-loesen-a-12870252-acf6-4133-a5be-716d58dd0ee3#ref=rss)
+### charles
+
+* [https://www.spiegel.de/ausland/king-charles-in-kenia-die-royals-sind-komplett-ignorant](https://www.spiegel.de/ausland/king-charles-in-kenia-die-royals-sind-komplett-ignorant-a-c2079a47-7595-4fb1-b0f6-bd2c2f8f1de2#ref=rss)
+### kenia
+
+* [https://www.spiegel.de/ausland/king-charles-in-kenia-die-royals-sind-komplett-ignorant](https://www.spiegel.de/ausland/king-charles-in-kenia-die-royals-sind-komplett-ignorant-a-c2079a47-7595-4fb1-b0f6-bd2c2f8f1de2#ref=rss)
+### energiewende
+
+* [https://www.spiegel.de/wirtschaft/energiewende-in-europa-streit-um-solarmodule-und-autobatterien-die-fatale-angst-vor-china](https://www.spiegel.de/wirtschaft/energiewende-in-europa-streit-um-solarmodule-und-autobatterien-die-fatale-angst-vor-china-a-d7442e05-7353-4749-862b-445ee8ae62da#ref=rss)
+### europa
+
+* [https://www.spiegel.de/wirtschaft/energiewende-in-europa-streit-um-solarmodule-und-autobatterien-die-fatale-angst-vor-china](https://www.spiegel.de/wirtschaft/energiewende-in-europa-streit-um-solarmodule-und-autobatterien-die-fatale-angst-vor-china-a-d7442e05-7353-4749-862b-445ee8ae62da#ref=rss)
+### china
+
+* [https://www.spiegel.de/wirtschaft/energiewende-in-europa-streit-um-solarmodule-und-autobatterien-die-fatale-angst-vor-china](https://www.spiegel.de/wirtschaft/energiewende-in-europa-streit-um-solarmodule-und-autobatterien-die-fatale-angst-vor-china-a-d7442e05-7353-4749-862b-445ee8ae62da#ref=rss)
+### thomas
+
+* [https://www.spiegel.de/politik/deutschland/fdp-thomas-kemmerich-nennt-weckruf-liste-gegen-ampel-mutiges-zeichen](https://www.spiegel.de/politik/deutschland/fdp-thomas-kemmerich-nennt-weckruf-liste-gegen-ampel-mutiges-zeichen-a-197d702a-86c4-47c9-ba5d-07d87c42080b#ref=rss)
+### kemmerich
+
+* [https://www.spiegel.de/politik/deutschland/fdp-thomas-kemmerich-nennt-weckruf-liste-gegen-ampel-mutiges-zeichen](https://www.spiegel.de/politik/deutschland/fdp-thomas-kemmerich-nennt-weckruf-liste-gegen-ampel-mutiges-zeichen-a-197d702a-86c4-47c9-ba5d-07d87c42080b#ref=rss)
+### begrüßt
+
+* [https://www.spiegel.de/politik/deutschland/fdp-thomas-kemmerich-nennt-weckruf-liste-gegen-ampel-mutiges-zeichen](https://www.spiegel.de/politik/deutschland/fdp-thomas-kemmerich-nennt-weckruf-liste-gegen-ampel-mutiges-zeichen-a-197d702a-86c4-47c9-ba5d-07d87c42080b#ref=rss)
+* [https://www.spiegel.de/ausland/antisemitismus-an-us-universitaeten-wie-juedische-studierende-sich-gegen-hassbotschaften-wehren](https://www.spiegel.de/ausland/antisemitismus-an-us-universitaeten-wie-juedische-studierende-sich-gegen-hassbotschaften-wehren-a-daae7369-0286-47e0-982d-f0aa95195b4f#ref=rss)
+### bangladesch
+
+* [https://www.spiegel.de/ausland/bangladesch-zwei-tote-und-viele-verletzte-bei-landesweiten-anti-regierungsprotesten](https://www.spiegel.de/ausland/bangladesch-zwei-tote-und-viele-verletzte-bei-landesweiten-anti-regierungsprotesten-a-71d49b74-f40f-4577-b122-31890e7f2139#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/ausland/bangladesch-zwei-tote-und-viele-verletzte-bei-landesweiten-anti-regierungsprotesten](https://www.spiegel.de/ausland/bangladesch-zwei-tote-und-viele-verletzte-bei-landesweiten-anti-regierungsprotesten-a-71d49b74-f40f-4577-b122-31890e7f2139#ref=rss)
+* [https://www.spiegel.de/ausland/ori-megidish-israelische-soldatin-bei-bodenoffensive-in-gaza-befreit-neue-details](https://www.spiegel.de/ausland/ori-megidish-israelische-soldatin-bei-bodenoffensive-in-gaza-befreit-neue-details-a-4b26fdab-2906-481d-bfc4-f4a8c79404cf#ref=rss)
+### viele
+
+* [https://www.spiegel.de/ausland/bangladesch-zwei-tote-und-viele-verletzte-bei-landesweiten-anti-regierungsprotesten](https://www.spiegel.de/ausland/bangladesch-zwei-tote-und-viele-verletzte-bei-landesweiten-anti-regierungsprotesten-a-71d49b74-f40f-4577-b122-31890e7f2139#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-roter-halbmond-meldet-angriffe-nahe-krankenhaus-in-gaza](https://www.spiegel.de/ausland/israel-gaza-news-heute-roter-halbmond-meldet-angriffe-nahe-krankenhaus-in-gaza-a-ac40d7a9-3075-4a43-a348-fcf1616d50ae#ref=rss)
+### verletzte
+
+* [https://www.spiegel.de/ausland/bangladesch-zwei-tote-und-viele-verletzte-bei-landesweiten-anti-regierungsprotesten](https://www.spiegel.de/ausland/bangladesch-zwei-tote-und-viele-verletzte-bei-landesweiten-anti-regierungsprotesten-a-71d49b74-f40f-4577-b122-31890e7f2139#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-roter-halbmond-meldet-angriffe-nahe-krankenhaus-in-gaza](https://www.spiegel.de/ausland/israel-gaza-news-heute-roter-halbmond-meldet-angriffe-nahe-krankenhaus-in-gaza-a-ac40d7a9-3075-4a43-a348-fcf1616d50ae#ref=rss)
+### intelligenz
+
+* [https://www.spiegel.de/stil/s-magazin/schmuck-kostbare-welt](https://www.spiegel.de/stil/s-magazin/schmuck-kostbare-welt-a-bf5272ce-0002-0001-0000-000212088707#ref=rss)
+### welt
+
+* [https://www.spiegel.de/stil/s-magazin/schmuck-kostbare-welt](https://www.spiegel.de/stil/s-magazin/schmuck-kostbare-welt-a-bf5272ce-0002-0001-0000-000212088707#ref=rss)
+* [https://www.spiegel.de/familie/halloween-alles-nur-us-kommerz-wie-ich-lernte-das-gruselfest-zu-lieben](https://www.spiegel.de/familie/halloween-alles-nur-us-kommerz-wie-ich-lernte-das-gruselfest-zu-lieben-a-8fae2b4a-d034-4a83-a7ac-0d5e9a9d3eee#ref=rss)
+### natur
+
+* [https://www.spiegel.de/stil/s-magazin/schmuck-kostbare-welt](https://www.spiegel.de/stil/s-magazin/schmuck-kostbare-welt-a-bf5272ce-0002-0001-0000-000212088707#ref=rss)
+### nordkorea
+
+* [https://www.spiegel.de/ausland/nordkorea-wie-das-land-seine-sanktionen-umgeht-wir-sollten-nordkorea-nicht-unterschaetzen](https://www.spiegel.de/ausland/nordkorea-wie-das-land-seine-sanktionen-umgeht-wir-sollten-nordkorea-nicht-unterschaetzen-a-c5e42aff-0e31-4b83-983a-bc4bb996239b#ref=rss)
+### land
+
+* [https://www.spiegel.de/ausland/nordkorea-wie-das-land-seine-sanktionen-umgeht-wir-sollten-nordkorea-nicht-unterschaetzen](https://www.spiegel.de/ausland/nordkorea-wie-das-land-seine-sanktionen-umgeht-wir-sollten-nordkorea-nicht-unterschaetzen-a-c5e42aff-0e31-4b83-983a-bc4bb996239b#ref=rss)
+* [https://www.spiegel.de/ausland/ori-megidish-israelische-soldatin-bei-bodenoffensive-in-gaza-befreit-neue-details](https://www.spiegel.de/ausland/ori-megidish-israelische-soldatin-bei-bodenoffensive-in-gaza-befreit-neue-details-a-4b26fdab-2906-481d-bfc4-f4a8c79404cf#ref=rss)
+### paris
+
+* [https://www.spiegel.de/ausland/paris-polizei-schiesst-frau-nach-explosionsdrohung-nieder](https://www.spiegel.de/ausland/paris-polizei-schiesst-frau-nach-explosionsdrohung-nieder-a-a5e05f8e-fac4-405e-a241-273777c24632#ref=rss)
+### tag
+
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### nancy
+
+* [https://www.spiegel.de/politik/deutschland/migration-nancy-faeser-spricht-sich-gegen-eu-asylverfahren-in-drittstaaten-aus](https://www.spiegel.de/politik/deutschland/migration-nancy-faeser-spricht-sich-gegen-eu-asylverfahren-in-drittstaaten-aus-a-ae6b1da2-e6ec-46c2-959e-33b0b2a9cec2#ref=rss)
+### faeser
+
+* [https://www.spiegel.de/politik/deutschland/migration-nancy-faeser-spricht-sich-gegen-eu-asylverfahren-in-drittstaaten-aus](https://www.spiegel.de/politik/deutschland/migration-nancy-faeser-spricht-sich-gegen-eu-asylverfahren-in-drittstaaten-aus-a-ae6b1da2-e6ec-46c2-959e-33b0b2a9cec2#ref=rss)
+### reagiert
+
+* [https://www.spiegel.de/politik/deutschland/migration-nancy-faeser-spricht-sich-gegen-eu-asylverfahren-in-drittstaaten-aus](https://www.spiegel.de/politik/deutschland/migration-nancy-faeser-spricht-sich-gegen-eu-asylverfahren-in-drittstaaten-aus-a-ae6b1da2-e6ec-46c2-959e-33b0b2a9cec2#ref=rss)
+* [https://www.spiegel.de/ausland/antisemitismus-an-us-universitaeten-wie-juedische-studierende-sich-gegen-hassbotschaften-wehren](https://www.spiegel.de/ausland/antisemitismus-an-us-universitaeten-wie-juedische-studierende-sich-gegen-hassbotschaften-wehren-a-daae7369-0286-47e0-982d-f0aa95195b4f#ref=rss)
+### usuniversitäten
+
+* [https://www.spiegel.de/ausland/antisemitismus-an-us-universitaeten-wie-juedische-studierende-sich-gegen-hassbotschaften-wehren](https://www.spiegel.de/ausland/antisemitismus-an-us-universitaeten-wie-juedische-studierende-sich-gegen-hassbotschaften-wehren-a-daae7369-0286-47e0-982d-f0aa95195b4f#ref=rss)
+### jüdische
+
+* [https://www.spiegel.de/ausland/antisemitismus-an-us-universitaeten-wie-juedische-studierende-sich-gegen-hassbotschaften-wehren](https://www.spiegel.de/ausland/antisemitismus-an-us-universitaeten-wie-juedische-studierende-sich-gegen-hassbotschaften-wehren-a-daae7369-0286-47e0-982d-f0aa95195b4f#ref=rss)
+### studierende
+
+* [https://www.spiegel.de/ausland/antisemitismus-an-us-universitaeten-wie-juedische-studierende-sich-gegen-hassbotschaften-wehren](https://www.spiegel.de/ausland/antisemitismus-an-us-universitaeten-wie-juedische-studierende-sich-gegen-hassbotschaften-wehren-a-daae7369-0286-47e0-982d-f0aa95195b4f#ref=rss)
+### oktober
+
+* [https://www.spiegel.de/ausland/antisemitismus-an-us-universitaeten-wie-juedische-studierende-sich-gegen-hassbotschaften-wehren](https://www.spiegel.de/ausland/antisemitismus-an-us-universitaeten-wie-juedische-studierende-sich-gegen-hassbotschaften-wehren-a-daae7369-0286-47e0-982d-f0aa95195b4f#ref=rss)
+* [https://www.spiegel.de/politik/rudolf-augstein-1948-zur-armee-debatte-soll-man-die-deutschen-bewaffnen](https://www.spiegel.de/politik/rudolf-augstein-1948-zur-armee-debatte-soll-man-die-deutschen-bewaffnen-a-7da372e8-7457-4555-bbae-0423f20eb20b#ref=rss)
+### 1948
+
+* [https://www.spiegel.de/politik/rudolf-augstein-1948-zur-armee-debatte-soll-man-die-deutschen-bewaffnen](https://www.spiegel.de/politik/rudolf-augstein-1948-zur-armee-debatte-soll-man-die-deutschen-bewaffnen-a-7da372e8-7457-4555-bbae-0423f20eb20b#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/politik/rudolf-augstein-1948-zur-armee-debatte-soll-man-die-deutschen-bewaffnen](https://www.spiegel.de/politik/rudolf-augstein-1948-zur-armee-debatte-soll-man-die-deutschen-bewaffnen-a-7da372e8-7457-4555-bbae-0423f20eb20b#ref=rss)
+### armee
+
+* [https://www.spiegel.de/politik/rudolf-augstein-1948-zur-armee-debatte-soll-man-die-deutschen-bewaffnen](https://www.spiegel.de/politik/rudolf-augstein-1948-zur-armee-debatte-soll-man-die-deutschen-bewaffnen-a-7da372e8-7457-4555-bbae-0423f20eb20b#ref=rss)
+* [https://www.spiegel.de/ausland/ori-megidish-israelische-soldatin-bei-bodenoffensive-in-gaza-befreit-neue-details](https://www.spiegel.de/ausland/ori-megidish-israelische-soldatin-bei-bodenoffensive-in-gaza-befreit-neue-details-a-4b26fdab-2906-481d-bfc4-f4a8c79404cf#ref=rss)
+### luftangriffen
+
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-roter-halbmond-meldet-angriffe-nahe-krankenhaus-in-gaza](https://www.spiegel.de/ausland/israel-gaza-news-heute-roter-halbmond-meldet-angriffe-nahe-krankenhaus-in-gaza-a-ac40d7a9-3075-4a43-a348-fcf1616d50ae#ref=rss)
+### flüchtlingslager
+
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-roter-halbmond-meldet-angriffe-nahe-krankenhaus-in-gaza](https://www.spiegel.de/ausland/israel-gaza-news-heute-roter-halbmond-meldet-angriffe-nahe-krankenhaus-in-gaza-a-ac40d7a9-3075-4a43-a348-fcf1616d50ae#ref=rss)
+### gazastreifen
+
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-roter-halbmond-meldet-angriffe-nahe-krankenhaus-in-gaza](https://www.spiegel.de/ausland/israel-gaza-news-heute-roter-halbmond-meldet-angriffe-nahe-krankenhaus-in-gaza-a-ac40d7a9-3075-4a43-a348-fcf1616d50ae#ref=rss)
+* [https://www.spiegel.de/ausland/ori-megidish-israelische-soldatin-bei-bodenoffensive-in-gaza-befreit-neue-details](https://www.spiegel.de/ausland/ori-megidish-israelische-soldatin-bei-bodenoffensive-in-gaza-befreit-neue-details-a-4b26fdab-2906-481d-bfc4-f4a8c79404cf#ref=rss)
+### erstmals
+
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-roter-halbmond-meldet-angriffe-nahe-krankenhaus-in-gaza](https://www.spiegel.de/ausland/israel-gaza-news-heute-roter-halbmond-meldet-angriffe-nahe-krankenhaus-in-gaza-a-ac40d7a9-3075-4a43-a348-fcf1616d50ae#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/schweden-akademie-stellt-schwedisch-woerterbuch-fertig-nach-140-jahren-das-ist-doch-fantastiskt](https://www.spiegel.de/wissenschaft/mensch/schweden-akademie-stellt-schwedisch-woerterbuch-fertig-nach-140-jahren-das-ist-doch-fantastiskt-a-9eda57ae-fa28-423d-bc06-3ec9ffbb3f36#ref=rss)
+### 140
+
+* [https://www.spiegel.de/wissenschaft/mensch/schweden-akademie-stellt-schwedisch-woerterbuch-fertig-nach-140-jahren-das-ist-doch-fantastiskt](https://www.spiegel.de/wissenschaft/mensch/schweden-akademie-stellt-schwedisch-woerterbuch-fertig-nach-140-jahren-das-ist-doch-fantastiskt-a-9eda57ae-fa28-423d-bc06-3ec9ffbb3f36#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/wissenschaft/mensch/schweden-akademie-stellt-schwedisch-woerterbuch-fertig-nach-140-jahren-das-ist-doch-fantastiskt](https://www.spiegel.de/wissenschaft/mensch/schweden-akademie-stellt-schwedisch-woerterbuch-fertig-nach-140-jahren-das-ist-doch-fantastiskt-a-9eda57ae-fa28-423d-bc06-3ec9ffbb3f36#ref=rss)
+### verklagt
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/solarwinds-sec-verklagt-softwarefirma-wegen-falscher-sicherheitsversprechen](https://www.spiegel.de/netzwelt/netzpolitik/solarwinds-sec-verklagt-softwarefirma-wegen-falscher-sicherheitsversprechen-a-e0d2cfe2-0524-4ee0-b78d-279f402e6f06#ref=rss)
+### eurozone
+
+* [https://www.spiegel.de/wirtschaft/wirtschaftsleistung-in-der-eurozone-schrumpft-unerwartet](https://www.spiegel.de/wirtschaft/wirtschaftsleistung-in-der-eurozone-schrumpft-unerwartet-a-54622d54-67f9-4a8d-8ded-9dc5cd2d0763#ref=rss)
+### ori
+
+* [https://www.spiegel.de/ausland/ori-megidish-israelische-soldatin-bei-bodenoffensive-in-gaza-befreit-neue-details](https://www.spiegel.de/ausland/ori-megidish-israelische-soldatin-bei-bodenoffensive-in-gaza-befreit-neue-details-a-4b26fdab-2906-481d-bfc4-f4a8c79404cf#ref=rss)
+### megidish
+
+* [https://www.spiegel.de/ausland/ori-megidish-israelische-soldatin-bei-bodenoffensive-in-gaza-befreit-neue-details](https://www.spiegel.de/ausland/ori-megidish-israelische-soldatin-bei-bodenoffensive-in-gaza-befreit-neue-details-a-4b26fdab-2906-481d-bfc4-f4a8c79404cf#ref=rss)
+### israelische
+
+* [https://www.spiegel.de/ausland/ori-megidish-israelische-soldatin-bei-bodenoffensive-in-gaza-befreit-neue-details](https://www.spiegel.de/ausland/ori-megidish-israelische-soldatin-bei-bodenoffensive-in-gaza-befreit-neue-details-a-4b26fdab-2906-481d-bfc4-f4a8c79404cf#ref=rss)
+### soldatin
+
+* [https://www.spiegel.de/ausland/ori-megidish-israelische-soldatin-bei-bodenoffensive-in-gaza-befreit-neue-details](https://www.spiegel.de/ausland/ori-megidish-israelische-soldatin-bei-bodenoffensive-in-gaza-befreit-neue-details-a-4b26fdab-2906-481d-bfc4-f4a8c79404cf#ref=rss)
+### befreit
+
+* [https://www.spiegel.de/ausland/ori-megidish-israelische-soldatin-bei-bodenoffensive-in-gaza-befreit-neue-details](https://www.spiegel.de/ausland/ori-megidish-israelische-soldatin-bei-bodenoffensive-in-gaza-befreit-neue-details-a-4b26fdab-2906-481d-bfc4-f4a8c79404cf#ref=rss)
+### heidi
+
+* [https://www.spiegel.de/panorama/heidi-klum-spielt-vor-halloween-mit-fan-erwartungen](https://www.spiegel.de/panorama/heidi-klum-spielt-vor-halloween-mit-fan-erwartungen-a-96be78ff-2067-47ff-934c-5e7602f6988a#ref=rss)
+### klum
+
+* [https://www.spiegel.de/panorama/heidi-klum-spielt-vor-halloween-mit-fan-erwartungen](https://www.spiegel.de/panorama/heidi-klum-spielt-vor-halloween-mit-fan-erwartungen-a-96be78ff-2067-47ff-934c-5e7602f6988a#ref=rss)
+### spielt
+
+* [https://www.spiegel.de/panorama/heidi-klum-spielt-vor-halloween-mit-fan-erwartungen](https://www.spiegel.de/panorama/heidi-klum-spielt-vor-halloween-mit-fan-erwartungen-a-96be78ff-2067-47ff-934c-5e7602f6988a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/signa-krise-stadt-hamburg-spielt-notfallszenarien-fuer-elbtower-baustopp-durch](https://www.spiegel.de/wirtschaft/signa-krise-stadt-hamburg-spielt-notfallszenarien-fuer-elbtower-baustopp-durch-a-38d20bae-d9c3-4525-82e8-0ff846b22269#ref=rss)
+### lothar
+
+* [https://www.spiegel.de/sport/fussball/ballon-d-or-2023-mathaeus-bezeichnet-wahl-von-messi-als-farce](https://www.spiegel.de/sport/fussball/ballon-d-or-2023-mathaeus-bezeichnet-wahl-von-messi-als-farce-a-1c9d2481-df82-4004-ae75-fc552454bb16#ref=rss)
+### matthäus
+
+* [https://www.spiegel.de/sport/fussball/ballon-d-or-2023-mathaeus-bezeichnet-wahl-von-messi-als-farce](https://www.spiegel.de/sport/fussball/ballon-d-or-2023-mathaeus-bezeichnet-wahl-von-messi-als-farce-a-1c9d2481-df82-4004-ae75-fc552454bb16#ref=rss)
+### lionel
+
+* [https://www.spiegel.de/sport/fussball/ballon-d-or-2023-mathaeus-bezeichnet-wahl-von-messi-als-farce](https://www.spiegel.de/sport/fussball/ballon-d-or-2023-mathaeus-bezeichnet-wahl-von-messi-als-farce-a-1c9d2481-df82-4004-ae75-fc552454bb16#ref=rss)
+### messi
+
+* [https://www.spiegel.de/sport/fussball/ballon-d-or-2023-mathaeus-bezeichnet-wahl-von-messi-als-farce](https://www.spiegel.de/sport/fussball/ballon-d-or-2023-mathaeus-bezeichnet-wahl-von-messi-als-farce-a-1c9d2481-df82-4004-ae75-fc552454bb16#ref=rss)
+### elmar
+
+* [https://www.spiegel.de/kultur/tv/tv-star-und-schauspieler-elmar-wepper-im-alter-von-79-gestorben](https://www.spiegel.de/kultur/tv/tv-star-und-schauspieler-elmar-wepper-im-alter-von-79-gestorben-a-dc1e9805-fcd4-46e9-a331-0804dc717a8a#ref=rss)
+### wepper
+
+* [https://www.spiegel.de/kultur/tv/tv-star-und-schauspieler-elmar-wepper-im-alter-von-79-gestorben](https://www.spiegel.de/kultur/tv/tv-star-und-schauspieler-elmar-wepper-im-alter-von-79-gestorben-a-dc1e9805-fcd4-46e9-a331-0804dc717a8a#ref=rss)
+### tvstar
+
+* [https://www.spiegel.de/kultur/tv/tv-star-und-schauspieler-elmar-wepper-im-alter-von-79-gestorben](https://www.spiegel.de/kultur/tv/tv-star-und-schauspieler-elmar-wepper-im-alter-von-79-gestorben-a-dc1e9805-fcd4-46e9-a331-0804dc717a8a#ref=rss)
+### schauspieler
+
+* [https://www.spiegel.de/kultur/tv/tv-star-und-schauspieler-elmar-wepper-im-alter-von-79-gestorben](https://www.spiegel.de/kultur/tv/tv-star-und-schauspieler-elmar-wepper-im-alter-von-79-gestorben-a-dc1e9805-fcd4-46e9-a331-0804dc717a8a#ref=rss)
+### stadt
+
+* [https://www.spiegel.de/wirtschaft/signa-krise-stadt-hamburg-spielt-notfallszenarien-fuer-elbtower-baustopp-durch](https://www.spiegel.de/wirtschaft/signa-krise-stadt-hamburg-spielt-notfallszenarien-fuer-elbtower-baustopp-durch-a-38d20bae-d9c3-4525-82e8-0ff846b22269#ref=rss)
+### sehe
+
+* [https://www.spiegel.de/wirtschaft/signa-krise-stadt-hamburg-spielt-notfallszenarien-fuer-elbtower-baustopp-durch](https://www.spiegel.de/wirtschaft/signa-krise-stadt-hamburg-spielt-notfallszenarien-fuer-elbtower-baustopp-durch-a-38d20bae-d9c3-4525-82e8-0ff846b22269#ref=rss)
+* [https://www.spiegel.de/familie/halloween-alles-nur-us-kommerz-wie-ich-lernte-das-gruselfest-zu-lieben](https://www.spiegel.de/familie/halloween-alles-nur-us-kommerz-wie-ich-lernte-das-gruselfest-zu-lieben-a-8fae2b4a-d034-4a83-a7ac-0d5e9a9d3eee#ref=rss)
 ### uskommerz
 
 * [https://www.spiegel.de/familie/halloween-alles-nur-us-kommerz-wie-ich-lernte-das-gruselfest-zu-lieben](https://www.spiegel.de/familie/halloween-alles-nur-us-kommerz-wie-ich-lernte-das-gruselfest-zu-lieben-a-8fae2b4a-d034-4a83-a7ac-0d5e9a9d3eee#ref=rss)
-### lieben
-
-* [https://www.spiegel.de/familie/halloween-alles-nur-us-kommerz-wie-ich-lernte-das-gruselfest-zu-lieben](https://www.spiegel.de/familie/halloween-alles-nur-us-kommerz-wie-ich-lernte-das-gruselfest-zu-lieben-a-8fae2b4a-d034-4a83-a7ac-0d5e9a9d3eee#ref=rss)
-* [https://www.spiegel.de/reise/staedte/glasgow-wie-es-die-glaswegians-lieben-insidertipps-fuer-die-metropole-in-schottland](https://www.spiegel.de/reise/staedte/glasgow-wie-es-die-glaswegians-lieben-insidertipps-fuer-die-metropole-in-schottland-a-bc184e9e-49bb-4878-8809-e3214d7333b0#ref=rss)
-### welt
-
-* [https://www.spiegel.de/familie/halloween-alles-nur-us-kommerz-wie-ich-lernte-das-gruselfest-zu-lieben](https://www.spiegel.de/familie/halloween-alles-nur-us-kommerz-wie-ich-lernte-das-gruselfest-zu-lieben-a-8fae2b4a-d034-4a83-a7ac-0d5e9a9d3eee#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-james-harden-wechselt-von-den-philadelphia-76ers-zu-den-los-angeles-clippers](https://www.spiegel.de/sport/basketball/nba-james-harden-wechselt-von-den-philadelphia-76ers-zu-den-los-angeles-clippers-a-73ade320-c9a2-4895-9afb-c129234b3cec#ref=rss)
-### studie
-
-* [https://www.spiegel.de/ausland/studie-zu-klimakrise-demokratie-und-jugend-in-europa-generation-warteraum](https://www.spiegel.de/ausland/studie-zu-klimakrise-demokratie-und-jugend-in-europa-generation-warteraum-a-c2dc287f-5adc-486b-b9ca-8be105c838dd#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/ausland/studie-zu-klimakrise-demokratie-und-jugend-in-europa-generation-warteraum](https://www.spiegel.de/ausland/studie-zu-klimakrise-demokratie-und-jugend-in-europa-generation-warteraum-a-c2dc287f-5adc-486b-b9ca-8be105c838dd#ref=rss)
-* [https://www.spiegel.de/wissenschaft/klimakrise-wie-banken-die-erde-mit-billionen-krediten-fuer-oel-gas-und-kohlefoerderung-aufheizen](https://www.spiegel.de/wissenschaft/klimakrise-wie-banken-die-erde-mit-billionen-krediten-fuer-oel-gas-und-kohlefoerderung-aufheizen-a-db8f23ab-0b53-48d7-8af2-fa8d91d1a6ac#ref=rss)
-### zögern
-
-* [https://www.spiegel.de/ausland/studie-zu-klimakrise-demokratie-und-jugend-in-europa-generation-warteraum](https://www.spiegel.de/ausland/studie-zu-klimakrise-demokratie-und-jugend-in-europa-generation-warteraum-a-c2dc287f-5adc-486b-b9ca-8be105c838dd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/robert-habeck-will-schnelle-entscheidung-zu-industriestrompreis](https://www.spiegel.de/wirtschaft/robert-habeck-will-schnelle-entscheidung-zu-industriestrompreis-a-094dbf68-c6ab-42df-91c3-b1d44e477523#ref=rss)
-### james
-
-* [https://www.spiegel.de/sport/basketball/nba-james-harden-wechselt-von-den-philadelphia-76ers-zu-den-los-angeles-clippers](https://www.spiegel.de/sport/basketball/nba-james-harden-wechselt-von-den-philadelphia-76ers-zu-den-los-angeles-clippers-a-73ade320-c9a2-4895-9afb-c129234b3cec#ref=rss)
-### harden
-
-* [https://www.spiegel.de/sport/basketball/nba-james-harden-wechselt-von-den-philadelphia-76ers-zu-den-los-angeles-clippers](https://www.spiegel.de/sport/basketball/nba-james-harden-wechselt-von-den-philadelphia-76ers-zu-den-los-angeles-clippers-a-73ade320-c9a2-4895-9afb-c129234b3cec#ref=rss)
-### philadelphia
-
-* [https://www.spiegel.de/sport/basketball/nba-james-harden-wechselt-von-den-philadelphia-76ers-zu-den-los-angeles-clippers](https://www.spiegel.de/sport/basketball/nba-james-harden-wechselt-von-den-philadelphia-76ers-zu-den-los-angeles-clippers-a-73ade320-c9a2-4895-9afb-c129234b3cec#ref=rss)
-### 76ers
-
-* [https://www.spiegel.de/sport/basketball/nba-james-harden-wechselt-von-den-philadelphia-76ers-zu-den-los-angeles-clippers](https://www.spiegel.de/sport/basketball/nba-james-harden-wechselt-von-den-philadelphia-76ers-zu-den-los-angeles-clippers-a-73ade320-c9a2-4895-9afb-c129234b3cec#ref=rss)
-### los
-
-* [https://www.spiegel.de/sport/basketball/nba-james-harden-wechselt-von-den-philadelphia-76ers-zu-den-los-angeles-clippers](https://www.spiegel.de/sport/basketball/nba-james-harden-wechselt-von-den-philadelphia-76ers-zu-den-los-angeles-clippers-a-73ade320-c9a2-4895-9afb-c129234b3cec#ref=rss)
-### angeles
-
-* [https://www.spiegel.de/sport/basketball/nba-james-harden-wechselt-von-den-philadelphia-76ers-zu-den-los-angeles-clippers](https://www.spiegel.de/sport/basketball/nba-james-harden-wechselt-von-den-philadelphia-76ers-zu-den-los-angeles-clippers-a-73ade320-c9a2-4895-9afb-c129234b3cec#ref=rss)
-### holen
-
-* [https://www.spiegel.de/sport/basketball/nba-james-harden-wechselt-von-den-philadelphia-76ers-zu-den-los-angeles-clippers](https://www.spiegel.de/sport/basketball/nba-james-harden-wechselt-von-den-philadelphia-76ers-zu-den-los-angeles-clippers-a-73ade320-c9a2-4895-9afb-c129234b3cec#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2024-australien-verzichtet-weg-fuer-fussball-wm-in-saudi-arabien-ist-frei](https://www.spiegel.de/sport/fussball/fussball-wm-2024-australien-verzichtet-weg-fuer-fussball-wm-in-saudi-arabien-ist-frei-a-87a45875-6f00-44d6-a770-6bee2e1d4ee8#ref=rss)
-### podcast
-
-* [https://www.spiegel.de/wissenschaft/mensch/deshalb-gibt-deutschlands-bekannteste-klima-anwaeltin-nicht-auf-klimabericht-podcast](https://www.spiegel.de/wissenschaft/mensch/deshalb-gibt-deutschlands-bekannteste-klima-anwaeltin-nicht-auf-klimabericht-podcast-a-ca92e95c-db26-4f41-afe0-a5a19d90518c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/krypto-basics-5-5-warum-kriminelle-auf-krypto-setzen-podcast](https://www.spiegel.de/wirtschaft/krypto-basics-5-5-warum-kriminelle-auf-krypto-setzen-podcast-a-a44c5f7b-3719-4b67-89dd-545623bf5ea4#ref=rss)
-### großen
-
-* [https://www.spiegel.de/wissenschaft/mensch/deshalb-gibt-deutschlands-bekannteste-klima-anwaeltin-nicht-auf-klimabericht-podcast](https://www.spiegel.de/wissenschaft/mensch/deshalb-gibt-deutschlands-bekannteste-klima-anwaeltin-nicht-auf-klimabericht-podcast-a-ca92e95c-db26-4f41-afe0-a5a19d90518c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2024-australien-verzichtet-weg-fuer-fussball-wm-in-saudi-arabien-ist-frei](https://www.spiegel.de/sport/fussball/fussball-wm-2024-australien-verzichtet-weg-fuer-fussball-wm-in-saudi-arabien-ist-frei-a-87a45875-6f00-44d6-a770-6bee2e1d4ee8#ref=rss)
-### fußballwm
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2024-australien-verzichtet-weg-fuer-fussball-wm-in-saudi-arabien-ist-frei](https://www.spiegel.de/sport/fussball/fussball-wm-2024-australien-verzichtet-weg-fuer-fussball-wm-in-saudi-arabien-ist-frei-a-87a45875-6f00-44d6-a770-6bee2e1d4ee8#ref=rss)
-### australien
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2024-australien-verzichtet-weg-fuer-fussball-wm-in-saudi-arabien-ist-frei](https://www.spiegel.de/sport/fussball/fussball-wm-2024-australien-verzichtet-weg-fuer-fussball-wm-in-saudi-arabien-ist-frei-a-87a45875-6f00-44d6-a770-6bee2e1d4ee8#ref=rss)
-### weg
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2024-australien-verzichtet-weg-fuer-fussball-wm-in-saudi-arabien-ist-frei](https://www.spiegel.de/sport/fussball/fussball-wm-2024-australien-verzichtet-weg-fuer-fussball-wm-in-saudi-arabien-ist-frei-a-87a45875-6f00-44d6-a770-6bee2e1d4ee8#ref=rss)
-* [https://www.spiegel.de/panorama/usa-tausende-migranten-wollen-3000-kilometer-durch-mexiko-zur-us-amerikanischen-grenze-laufen](https://www.spiegel.de/panorama/usa-tausende-migranten-wollen-3000-kilometer-durch-mexiko-zur-us-amerikanischen-grenze-laufen-a-24e1d4d8-3717-4529-a318-07f7422d6670#ref=rss)
-### saudiarabien
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2024-australien-verzichtet-weg-fuer-fussball-wm-in-saudi-arabien-ist-frei](https://www.spiegel.de/sport/fussball/fussball-wm-2024-australien-verzichtet-weg-fuer-fussball-wm-in-saudi-arabien-ist-frei-a-87a45875-6f00-44d6-a770-6bee2e1d4ee8#ref=rss)
-### wären
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2024-australien-verzichtet-weg-fuer-fussball-wm-in-saudi-arabien-ist-frei](https://www.spiegel.de/sport/fussball/fussball-wm-2024-australien-verzichtet-weg-fuer-fussball-wm-in-saudi-arabien-ist-frei-a-87a45875-6f00-44d6-a770-6bee2e1d4ee8#ref=rss)
-* [https://www.spiegel.de/wissenschaft/klimakrise-wie-banken-die-erde-mit-billionen-krediten-fuer-oel-gas-und-kohlefoerderung-aufheizen](https://www.spiegel.de/wissenschaft/klimakrise-wie-banken-die-erde-mit-billionen-krediten-fuer-oel-gas-und-kohlefoerderung-aufheizen-a-db8f23ab-0b53-48d7-8af2-fa8d91d1a6ac#ref=rss)
-### erst
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2024-australien-verzichtet-weg-fuer-fussball-wm-in-saudi-arabien-ist-frei](https://www.spiegel.de/sport/fussball/fussball-wm-2024-australien-verzichtet-weg-fuer-fussball-wm-in-saudi-arabien-ist-frei-a-87a45875-6f00-44d6-a770-6bee2e1d4ee8#ref=rss)
-* [https://www.spiegel.de/reise/staedte/glasgow-wie-es-die-glaswegians-lieben-insidertipps-fuer-die-metropole-in-schottland](https://www.spiegel.de/reise/staedte/glasgow-wie-es-die-glaswegians-lieben-insidertipps-fuer-die-metropole-in-schottland-a-bc184e9e-49bb-4878-8809-e3214d7333b0#ref=rss)
-### läuft
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2024-australien-verzichtet-weg-fuer-fussball-wm-in-saudi-arabien-ist-frei](https://www.spiegel.de/sport/fussball/fussball-wm-2024-australien-verzichtet-weg-fuer-fussball-wm-in-saudi-arabien-ist-frei-a-87a45875-6f00-44d6-a770-6bee2e1d4ee8#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-news-heute-roter-halbmond-meldet-angriffe-nahe-krankenhaus-in-gaza](https://www.spiegel.de/ausland/israel-gaza-news-heute-roter-halbmond-meldet-angriffe-nahe-krankenhaus-in-gaza-a-ac40d7a9-3075-4a43-a348-fcf1616d50ae#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/politik/deutschland/bayern-markus-soeder-als-ministerpraesident-wiedergewaehlt](https://www.spiegel.de/politik/deutschland/bayern-markus-soeder-als-ministerpraesident-wiedergewaehlt-a-06507f79-2a91-4c11-996d-4c9631eea435#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-fdp-politiker-stellen-ampelkoalition-infrage](https://www.spiegel.de/politik/deutschland/bundesregierung-fdp-politiker-stellen-ampelkoalition-infrage-a-b037e253-f5be-4cf1-945e-3acbf7ce5369#ref=rss)
-### landtag
-
-* [https://www.spiegel.de/politik/deutschland/bayern-markus-soeder-als-ministerpraesident-wiedergewaehlt](https://www.spiegel.de/politik/deutschland/bayern-markus-soeder-als-ministerpraesident-wiedergewaehlt-a-06507f79-2a91-4c11-996d-4c9631eea435#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/daniel-halemba-afd-abgeordneter-will-im-bayerischen-landtag-erscheinen](https://www.spiegel.de/politik/deutschland/daniel-halemba-afd-abgeordneter-will-im-bayerischen-landtag-erscheinen-a-f4cb2472-969c-4260-8d85-32c9eda15bf0#ref=rss)
-### robert
-
-* [https://www.spiegel.de/wirtschaft/robert-habeck-will-schnelle-entscheidung-zu-industriestrompreis](https://www.spiegel.de/wirtschaft/robert-habeck-will-schnelle-entscheidung-zu-industriestrompreis-a-094dbf68-c6ab-42df-91c3-b1d44e477523#ref=rss)
-### habeck
-
-* [https://www.spiegel.de/wirtschaft/robert-habeck-will-schnelle-entscheidung-zu-industriestrompreis](https://www.spiegel.de/wirtschaft/robert-habeck-will-schnelle-entscheidung-zu-industriestrompreis-a-094dbf68-c6ab-42df-91c3-b1d44e477523#ref=rss)
-### harte
-
-* [https://www.spiegel.de/wirtschaft/robert-habeck-will-schnelle-entscheidung-zu-industriestrompreis](https://www.spiegel.de/wirtschaft/robert-habeck-will-schnelle-entscheidung-zu-industriestrompreis-a-094dbf68-c6ab-42df-91c3-b1d44e477523#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/halloween-und-suessigkeiten-wir-brauchen-endlich-eine-zuckersteuer](https://www.spiegel.de/politik/deutschland/halloween-und-suessigkeiten-wir-brauchen-endlich-eine-zuckersteuer-a-7cca4a7c-6e15-44a5-930a-62bc72ba39d6#ref=rss)
-### rudolf
-
-* [https://www.spiegel.de/politik/deutschland/rudolf-augstein-wird-100-teil-2-die-sache-fing-an-mir-spass-zu-machen](https://www.spiegel.de/politik/deutschland/rudolf-augstein-wird-100-teil-2-die-sache-fing-an-mir-spass-zu-machen-a-4bd106ac-304d-4d09-b39f-4110c0adb3a1#ref=rss)
-### augstein
-
-* [https://www.spiegel.de/politik/deutschland/rudolf-augstein-wird-100-teil-2-die-sache-fing-an-mir-spass-zu-machen](https://www.spiegel.de/politik/deutschland/rudolf-augstein-wird-100-teil-2-die-sache-fing-an-mir-spass-zu-machen-a-4bd106ac-304d-4d09-b39f-4110c0adb3a1#ref=rss)
-### bundesverfassungsgericht
-
-* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-kippt-reform-zur-wiederaufnahme-von-strafverfahren](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-kippt-reform-zur-wiederaufnahme-von-strafverfahren-a-eb891c55-81e8-454a-9363-773f283f8f3e#ref=rss)
-### wiederaufnahme
-
-* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-kippt-reform-zur-wiederaufnahme-von-strafverfahren](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-kippt-reform-zur-wiederaufnahme-von-strafverfahren-a-eb891c55-81e8-454a-9363-773f283f8f3e#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-kippt-reform-zur-wiederaufnahme-von-strafverfahren](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-kippt-reform-zur-wiederaufnahme-von-strafverfahren-a-eb891c55-81e8-454a-9363-773f283f8f3e#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-x-sperrt-kritischen-datenanalysten-der-wehrt-sich-vor-gericht](https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-x-sperrt-kritischen-datenanalysten-der-wehrt-sich-vor-gericht-a-ca81683c-add4-4d0b-b79a-0a436049d033#ref=rss)
-### israels
-
-* [https://www.spiegel.de/ausland/israel-gaza-news-heute-roter-halbmond-meldet-angriffe-nahe-krankenhaus-in-gaza](https://www.spiegel.de/ausland/israel-gaza-news-heute-roter-halbmond-meldet-angriffe-nahe-krankenhaus-in-gaza-a-ac40d7a9-3075-4a43-a348-fcf1616d50ae#ref=rss)
-### botschafter
-
-* [https://www.spiegel.de/ausland/israel-gaza-news-heute-roter-halbmond-meldet-angriffe-nahe-krankenhaus-in-gaza](https://www.spiegel.de/ausland/israel-gaza-news-heute-roter-halbmond-meldet-angriffe-nahe-krankenhaus-in-gaza-a-ac40d7a9-3075-4a43-a348-fcf1616d50ae#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/ausland/israel-gaza-news-heute-roter-halbmond-meldet-angriffe-nahe-krankenhaus-in-gaza](https://www.spiegel.de/ausland/israel-gaza-news-heute-roter-halbmond-meldet-angriffe-nahe-krankenhaus-in-gaza-a-ac40d7a9-3075-4a43-a348-fcf1616d50ae#ref=rss)
-* [https://www.spiegel.de/sport/taylor-swift-und-die-nfl-nur-die-liebe-zaehlt](https://www.spiegel.de/sport/taylor-swift-und-die-nfl-nur-die-liebe-zaehlt-a-22b80e84-b78b-41e3-86b7-3adc45544d2f#ref=rss)
-### news
-
-* [https://www.spiegel.de/ausland/israel-gaza-news-heute-roter-halbmond-meldet-angriffe-nahe-krankenhaus-in-gaza](https://www.spiegel.de/ausland/israel-gaza-news-heute-roter-halbmond-meldet-angriffe-nahe-krankenhaus-in-gaza-a-ac40d7a9-3075-4a43-a348-fcf1616d50ae#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-markus-soeder-olaf-scholz-ghana-israel-gaza-shani-louk](https://www.spiegel.de/politik/deutschland/news-markus-soeder-olaf-scholz-ghana-israel-gaza-shani-louk-a-e060f248-0142-4665-8d09-58d6e869d5a0#ref=rss)
-### leben
-
-* [https://www.spiegel.de/politik/deutschland/halloween-und-suessigkeiten-wir-brauchen-endlich-eine-zuckersteuer](https://www.spiegel.de/politik/deutschland/halloween-und-suessigkeiten-wir-brauchen-endlich-eine-zuckersteuer-a-7cca4a7c-6e15-44a5-930a-62bc72ba39d6#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-x-sperrt-kritischen-datenanalysten-der-wehrt-sich-vor-gericht](https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-x-sperrt-kritischen-datenanalysten-der-wehrt-sich-vor-gericht-a-ca81683c-add4-4d0b-b79a-0a436049d033#ref=rss)
-### kauf
-
-* [https://www.spiegel.de/wirtschaft/musks-x-verliert-seit-dem-kauf-der-plattform-offenbar-stark-an-wert](https://www.spiegel.de/wirtschaft/musks-x-verliert-seit-dem-kauf-der-plattform-offenbar-stark-an-wert-a-c100588d-bc25-4d85-9f92-33399b6561b6#ref=rss)
-### plattform
-
-* [https://www.spiegel.de/wirtschaft/musks-x-verliert-seit-dem-kauf-der-plattform-offenbar-stark-an-wert](https://www.spiegel.de/wirtschaft/musks-x-verliert-seit-dem-kauf-der-plattform-offenbar-stark-an-wert-a-c100588d-bc25-4d85-9f92-33399b6561b6#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-x-sperrt-kritischen-datenanalysten-der-wehrt-sich-vor-gericht](https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-x-sperrt-kritischen-datenanalysten-der-wehrt-sich-vor-gericht-a-ca81683c-add4-4d0b-b79a-0a436049d033#ref=rss)
-### wert
-
-* [https://www.spiegel.de/wirtschaft/musks-x-verliert-seit-dem-kauf-der-plattform-offenbar-stark-an-wert](https://www.spiegel.de/wirtschaft/musks-x-verliert-seit-dem-kauf-der-plattform-offenbar-stark-an-wert-a-c100588d-bc25-4d85-9f92-33399b6561b6#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/musks-x-verliert-seit-dem-kauf-der-plattform-offenbar-stark-an-wert](https://www.spiegel.de/wirtschaft/musks-x-verliert-seit-dem-kauf-der-plattform-offenbar-stark-an-wert-a-c100588d-bc25-4d85-9f92-33399b6561b6#ref=rss)
-* [https://www.spiegel.de/panorama/friends-cast-zum-tod-von-matthew-perry-wir-waren-mehr-als-nur-schauspielkollegen-wir-sind-eine-familie](https://www.spiegel.de/panorama/friends-cast-zum-tod-von-matthew-perry-wir-waren-mehr-als-nur-schauspielkollegen-wir-sind-eine-familie-a-ff439708-6636-4aaa-9064-cc1be7915e48#ref=rss)
-### neue
-
-* [https://www.spiegel.de/netzwelt/gadgets/m3-chip-macbook-pro-und-imac-apples-stellt-schnellere-notebooks-und-imacs-vor](https://www.spiegel.de/netzwelt/gadgets/m3-chip-macbook-pro-und-imac-apples-stellt-schnellere-notebooks-und-imacs-vor-a-abbebffe-2b74-4f29-a49c-8d9a434a9cbc#ref=rss)
-### christian
-
-* [https://www.spiegel.de/politik/deutschland/fdp-wie-die-fdp-und-christian-lindner-den-ton-in-der-migrationsdebatte-verschaerfen](https://www.spiegel.de/politik/deutschland/fdp-wie-die-fdp-und-christian-lindner-den-ton-in-der-migrationsdebatte-verschaerfen-a-93983929-5105-4449-bda1-023bc3b51871#ref=rss)
-### lindner
-
-* [https://www.spiegel.de/politik/deutschland/fdp-wie-die-fdp-und-christian-lindner-den-ton-in-der-migrationsdebatte-verschaerfen](https://www.spiegel.de/politik/deutschland/fdp-wie-die-fdp-und-christian-lindner-den-ton-in-der-migrationsdebatte-verschaerfen-a-93983929-5105-4449-bda1-023bc3b51871#ref=rss)
-### daniel
-
-* [https://www.spiegel.de/politik/deutschland/daniel-halemba-afd-abgeordneter-will-im-bayerischen-landtag-erscheinen](https://www.spiegel.de/politik/deutschland/daniel-halemba-afd-abgeordneter-will-im-bayerischen-landtag-erscheinen-a-f4cb2472-969c-4260-8d85-32c9eda15bf0#ref=rss)
-### halemba
-
-* [https://www.spiegel.de/politik/deutschland/daniel-halemba-afd-abgeordneter-will-im-bayerischen-landtag-erscheinen](https://www.spiegel.de/politik/deutschland/daniel-halemba-afd-abgeordneter-will-im-bayerischen-landtag-erscheinen-a-f4cb2472-969c-4260-8d85-32c9eda15bf0#ref=rss)
-### afdabgeordneter
-
-* [https://www.spiegel.de/politik/deutschland/daniel-halemba-afd-abgeordneter-will-im-bayerischen-landtag-erscheinen](https://www.spiegel.de/politik/deutschland/daniel-halemba-afd-abgeordneter-will-im-bayerischen-landtag-erscheinen-a-f4cb2472-969c-4260-8d85-32c9eda15bf0#ref=rss)
-### sinti
-
-* [https://www.spiegel.de/politik/deutschland/streit-der-dachverbaende-von-sinti-und-roma-haelt-an](https://www.spiegel.de/politik/deutschland/streit-der-dachverbaende-von-sinti-und-roma-haelt-an-a-c702a060-6389-44a9-8737-2cfb174e5969#ref=rss)
-### roma
-
-* [https://www.spiegel.de/politik/deutschland/streit-der-dachverbaende-von-sinti-und-roma-haelt-an](https://www.spiegel.de/politik/deutschland/streit-der-dachverbaende-von-sinti-und-roma-haelt-an-a-c702a060-6389-44a9-8737-2cfb174e5969#ref=rss)
-### babyboomer
-
-* [https://www.spiegel.de/start/renteneintritt-der-babyboomer-was-ich-an-ihnen-vermissen-werde](https://www.spiegel.de/start/renteneintritt-der-babyboomer-was-ich-an-ihnen-vermissen-werde-a-a48ccdc8-8f97-4b5b-94f3-465e1060b6c0#ref=rss)
-### vermissen
-
-* [https://www.spiegel.de/start/renteneintritt-der-babyboomer-was-ich-an-ihnen-vermissen-werde](https://www.spiegel.de/start/renteneintritt-der-babyboomer-was-ich-an-ihnen-vermissen-werde-a-a48ccdc8-8f97-4b5b-94f3-465e1060b6c0#ref=rss)
-### werde
-
-* [https://www.spiegel.de/start/renteneintritt-der-babyboomer-was-ich-an-ihnen-vermissen-werde](https://www.spiegel.de/start/renteneintritt-der-babyboomer-was-ich-an-ihnen-vermissen-werde-a-a48ccdc8-8f97-4b5b-94f3-465e1060b6c0#ref=rss)
-### bald
-
-* [https://www.spiegel.de/start/renteneintritt-der-babyboomer-was-ich-an-ihnen-vermissen-werde](https://www.spiegel.de/start/renteneintritt-der-babyboomer-was-ich-an-ihnen-vermissen-werde-a-a48ccdc8-8f97-4b5b-94f3-465e1060b6c0#ref=rss)
-* [https://www.spiegel.de/sport/taylor-swift-und-die-nfl-nur-die-liebe-zaehlt](https://www.spiegel.de/sport/taylor-swift-und-die-nfl-nur-die-liebe-zaehlt-a-22b80e84-b78b-41e3-86b7-3adc45544d2f#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-x-sperrt-kritischen-datenanalysten-der-wehrt-sich-vor-gericht](https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-x-sperrt-kritischen-datenanalysten-der-wehrt-sich-vor-gericht-a-ca81683c-add4-4d0b-b79a-0a436049d033#ref=rss)
-* [https://www.spiegel.de/kultur/tagesthemen-jessy-wellmer-moderiert-zum-ersten-mal-die-sendung](https://www.spiegel.de/kultur/tagesthemen-jessy-wellmer-moderiert-zum-ersten-mal-die-sendung-a-2a624ddd-e36c-427d-aadf-d9525ed7335e#ref=rss)
-### aktien
-
-* [https://www.spiegel.de/wirtschaft/service/aktien-von-autoherstellern-wer-von-der-elektrowende-profitiert](https://www.spiegel.de/wirtschaft/service/aktien-von-autoherstellern-wer-von-der-elektrowende-profitiert-a-817af45d-5601-4db7-8176-1ddc68728947#ref=rss)
-### profitiert
-
-* [https://www.spiegel.de/wirtschaft/service/aktien-von-autoherstellern-wer-von-der-elektrowende-profitiert](https://www.spiegel.de/wirtschaft/service/aktien-von-autoherstellern-wer-von-der-elektrowende-profitiert-a-817af45d-5601-4db7-8176-1ddc68728947#ref=rss)
-* [https://www.spiegel.de/sport/taylor-swift-und-die-nfl-nur-die-liebe-zaehlt](https://www.spiegel.de/sport/taylor-swift-und-die-nfl-nur-die-liebe-zaehlt-a-22b80e84-b78b-41e3-86b7-3adc45544d2f#ref=rss)
-### alle
-
-* [https://www.spiegel.de/wirtschaft/service/aktien-von-autoherstellern-wer-von-der-elektrowende-profitiert](https://www.spiegel.de/wirtschaft/service/aktien-von-autoherstellern-wer-von-der-elektrowende-profitiert-a-817af45d-5601-4db7-8176-1ddc68728947#ref=rss)
-* [https://www.spiegel.de/sport/taylor-swift-und-die-nfl-nur-die-liebe-zaehlt](https://www.spiegel.de/sport/taylor-swift-und-die-nfl-nur-die-liebe-zaehlt-a-22b80e84-b78b-41e3-86b7-3adc45544d2f#ref=rss)
-### taylor
-
-* [https://www.spiegel.de/sport/taylor-swift-und-die-nfl-nur-die-liebe-zaehlt](https://www.spiegel.de/sport/taylor-swift-und-die-nfl-nur-die-liebe-zaehlt-a-22b80e84-b78b-41e3-86b7-3adc45544d2f#ref=rss)
-### swift
-
-* [https://www.spiegel.de/sport/taylor-swift-und-die-nfl-nur-die-liebe-zaehlt](https://www.spiegel.de/sport/taylor-swift-und-die-nfl-nur-die-liebe-zaehlt-a-22b80e84-b78b-41e3-86b7-3adc45544d2f#ref=rss)
-### kelce
-
-* [https://www.spiegel.de/sport/taylor-swift-und-die-nfl-nur-die-liebe-zaehlt](https://www.spiegel.de/sport/taylor-swift-und-die-nfl-nur-die-liebe-zaehlt-a-22b80e84-b78b-41e3-86b7-3adc45544d2f#ref=rss)
-### nfl
-
-* [https://www.spiegel.de/sport/taylor-swift-und-die-nfl-nur-die-liebe-zaehlt](https://www.spiegel.de/sport/taylor-swift-und-die-nfl-nur-die-liebe-zaehlt-a-22b80e84-b78b-41e3-86b7-3adc45544d2f#ref=rss)
-### olaf
-
-* [https://www.spiegel.de/politik/deutschland/news-markus-soeder-olaf-scholz-ghana-israel-gaza-shani-louk](https://www.spiegel.de/politik/deutschland/news-markus-soeder-olaf-scholz-ghana-israel-gaza-shani-louk-a-e060f248-0142-4665-8d09-58d6e869d5a0#ref=rss)
-### israel
-
-* [https://www.spiegel.de/politik/deutschland/news-markus-soeder-olaf-scholz-ghana-israel-gaza-shani-louk](https://www.spiegel.de/politik/deutschland/news-markus-soeder-olaf-scholz-ghana-israel-gaza-shani-louk-a-e060f248-0142-4665-8d09-58d6e869d5a0#ref=rss)
-### banken
-
-* [https://www.spiegel.de/wissenschaft/klimakrise-wie-banken-die-erde-mit-billionen-krediten-fuer-oel-gas-und-kohlefoerderung-aufheizen](https://www.spiegel.de/wissenschaft/klimakrise-wie-banken-die-erde-mit-billionen-krediten-fuer-oel-gas-und-kohlefoerderung-aufheizen-a-db8f23ab-0b53-48d7-8af2-fa8d91d1a6ac#ref=rss)
-### öl
-
-* [https://www.spiegel.de/wissenschaft/klimakrise-wie-banken-die-erde-mit-billionen-krediten-fuer-oel-gas-und-kohlefoerderung-aufheizen](https://www.spiegel.de/wissenschaft/klimakrise-wie-banken-die-erde-mit-billionen-krediten-fuer-oel-gas-und-kohlefoerderung-aufheizen-a-db8f23ab-0b53-48d7-8af2-fa8d91d1a6ac#ref=rss)
-### gas
-
-* [https://www.spiegel.de/wissenschaft/klimakrise-wie-banken-die-erde-mit-billionen-krediten-fuer-oel-gas-und-kohlefoerderung-aufheizen](https://www.spiegel.de/wissenschaft/klimakrise-wie-banken-die-erde-mit-billionen-krediten-fuer-oel-gas-und-kohlefoerderung-aufheizen-a-db8f23ab-0b53-48d7-8af2-fa8d91d1a6ac#ref=rss)
-### geld
-
-* [https://www.spiegel.de/wissenschaft/klimakrise-wie-banken-die-erde-mit-billionen-krediten-fuer-oel-gas-und-kohlefoerderung-aufheizen](https://www.spiegel.de/wissenschaft/klimakrise-wie-banken-die-erde-mit-billionen-krediten-fuer-oel-gas-und-kohlefoerderung-aufheizen-a-db8f23ab-0b53-48d7-8af2-fa8d91d1a6ac#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wissenschaft/klimakrise-wie-banken-die-erde-mit-billionen-krediten-fuer-oel-gas-und-kohlefoerderung-aufheizen](https://www.spiegel.de/wissenschaft/klimakrise-wie-banken-die-erde-mit-billionen-krediten-fuer-oel-gas-und-kohlefoerderung-aufheizen-a-db8f23ab-0b53-48d7-8af2-fa8d91d1a6ac#ref=rss)
-* [https://www.spiegel.de/sport/ballon-d-or-lionlel-messi-gewinnt-zum-achten-mal-renommierten-fussballerpreis](https://www.spiegel.de/sport/ballon-d-or-lionlel-messi-gewinnt-zum-achten-mal-renommierten-fussballerpreis-a-f82b190c-8b12-4cc9-839d-40306e225f95#ref=rss)
-### jessy
-
-* [https://www.spiegel.de/kultur/tagesthemen-jessy-wellmer-moderiert-zum-ersten-mal-die-sendung](https://www.spiegel.de/kultur/tagesthemen-jessy-wellmer-moderiert-zum-ersten-mal-die-sendung-a-2a624ddd-e36c-427d-aadf-d9525ed7335e#ref=rss)
-### wellmer
-
-* [https://www.spiegel.de/kultur/tagesthemen-jessy-wellmer-moderiert-zum-ersten-mal-die-sendung](https://www.spiegel.de/kultur/tagesthemen-jessy-wellmer-moderiert-zum-ersten-mal-die-sendung-a-2a624ddd-e36c-427d-aadf-d9525ed7335e#ref=rss)
-### sendung
-
-* [https://www.spiegel.de/kultur/tagesthemen-jessy-wellmer-moderiert-zum-ersten-mal-die-sendung](https://www.spiegel.de/kultur/tagesthemen-jessy-wellmer-moderiert-zum-ersten-mal-die-sendung-a-2a624ddd-e36c-427d-aadf-d9525ed7335e#ref=rss)
-### tod
-
-* [https://www.spiegel.de/panorama/friends-cast-zum-tod-von-matthew-perry-wir-waren-mehr-als-nur-schauspielkollegen-wir-sind-eine-familie](https://www.spiegel.de/panorama/friends-cast-zum-tod-von-matthew-perry-wir-waren-mehr-als-nur-schauspielkollegen-wir-sind-eine-familie-a-ff439708-6636-4aaa-9064-cc1be7915e48#ref=rss)
-### matthew
-
-* [https://www.spiegel.de/panorama/friends-cast-zum-tod-von-matthew-perry-wir-waren-mehr-als-nur-schauspielkollegen-wir-sind-eine-familie](https://www.spiegel.de/panorama/friends-cast-zum-tod-von-matthew-perry-wir-waren-mehr-als-nur-schauspielkollegen-wir-sind-eine-familie-a-ff439708-6636-4aaa-9064-cc1be7915e48#ref=rss)
-### perry
-
-* [https://www.spiegel.de/panorama/friends-cast-zum-tod-von-matthew-perry-wir-waren-mehr-als-nur-schauspielkollegen-wir-sind-eine-familie](https://www.spiegel.de/panorama/friends-cast-zum-tod-von-matthew-perry-wir-waren-mehr-als-nur-schauspielkollegen-wir-sind-eine-familie-a-ff439708-6636-4aaa-9064-cc1be7915e48#ref=rss)
-### spielten
-
-* [https://www.spiegel.de/panorama/friends-cast-zum-tod-von-matthew-perry-wir-waren-mehr-als-nur-schauspielkollegen-wir-sind-eine-familie](https://www.spiegel.de/panorama/friends-cast-zum-tod-von-matthew-perry-wir-waren-mehr-als-nur-schauspielkollegen-wir-sind-eine-familie-a-ff439708-6636-4aaa-9064-cc1be7915e48#ref=rss)
-* [https://www.spiegel.de/sport/ballon-d-or-lionlel-messi-gewinnt-zum-achten-mal-renommierten-fussballerpreis](https://www.spiegel.de/sport/ballon-d-or-lionlel-messi-gewinnt-zum-achten-mal-renommierten-fussballerpreis-a-f82b190c-8b12-4cc9-839d-40306e225f95#ref=rss)
-### usa
-
-* [https://www.spiegel.de/panorama/usa-tausende-migranten-wollen-3000-kilometer-durch-mexiko-zur-us-amerikanischen-grenze-laufen](https://www.spiegel.de/panorama/usa-tausende-migranten-wollen-3000-kilometer-durch-mexiko-zur-us-amerikanischen-grenze-laufen-a-24e1d4d8-3717-4529-a318-07f7422d6670#ref=rss)
-### 3000
-
-* [https://www.spiegel.de/panorama/usa-tausende-migranten-wollen-3000-kilometer-durch-mexiko-zur-us-amerikanischen-grenze-laufen](https://www.spiegel.de/panorama/usa-tausende-migranten-wollen-3000-kilometer-durch-mexiko-zur-us-amerikanischen-grenze-laufen-a-24e1d4d8-3717-4529-a318-07f7422d6670#ref=rss)
-### kilometer
-
-* [https://www.spiegel.de/panorama/usa-tausende-migranten-wollen-3000-kilometer-durch-mexiko-zur-us-amerikanischen-grenze-laufen](https://www.spiegel.de/panorama/usa-tausende-migranten-wollen-3000-kilometer-durch-mexiko-zur-us-amerikanischen-grenze-laufen-a-24e1d4d8-3717-4529-a318-07f7422d6670#ref=rss)
-### mexiko
-
-* [https://www.spiegel.de/panorama/usa-tausende-migranten-wollen-3000-kilometer-durch-mexiko-zur-us-amerikanischen-grenze-laufen](https://www.spiegel.de/panorama/usa-tausende-migranten-wollen-3000-kilometer-durch-mexiko-zur-us-amerikanischen-grenze-laufen-a-24e1d4d8-3717-4529-a318-07f7422d6670#ref=rss)
-### ballon
-
-* [https://www.spiegel.de/sport/ballon-d-or-lionlel-messi-gewinnt-zum-achten-mal-renommierten-fussballerpreis](https://www.spiegel.de/sport/ballon-d-or-lionlel-messi-gewinnt-zum-achten-mal-renommierten-fussballerpreis-a-f82b190c-8b12-4cc9-839d-40306e225f95#ref=rss)
-### lionel
-
-* [https://www.spiegel.de/sport/ballon-d-or-lionlel-messi-gewinnt-zum-achten-mal-renommierten-fussballerpreis](https://www.spiegel.de/sport/ballon-d-or-lionlel-messi-gewinnt-zum-achten-mal-renommierten-fussballerpreis-a-f82b190c-8b12-4cc9-839d-40306e225f95#ref=rss)
-### messi
-
-* [https://www.spiegel.de/sport/ballon-d-or-lionlel-messi-gewinnt-zum-achten-mal-renommierten-fussballerpreis](https://www.spiegel.de/sport/ballon-d-or-lionlel-messi-gewinnt-zum-achten-mal-renommierten-fussballerpreis-a-f82b190c-8b12-4cc9-839d-40306e225f95#ref=rss)
-### achten
-
-* [https://www.spiegel.de/sport/ballon-d-or-lionlel-messi-gewinnt-zum-achten-mal-renommierten-fussballerpreis](https://www.spiegel.de/sport/ballon-d-or-lionlel-messi-gewinnt-zum-achten-mal-renommierten-fussballerpreis-a-f82b190c-8b12-4cc9-839d-40306e225f95#ref=rss)
 
