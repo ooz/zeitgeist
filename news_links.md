@@ -4,305 +4,373 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutsche
-
-* [https://www.spiegel.de/stil/nomos-aus-glashuette-uhren-fuer-etwas-zu-kluge-lehrer-und-bundespraesidenten](https://www.spiegel.de/stil/nomos-aus-glashuette-uhren-fuer-etwas-zu-kluge-lehrer-und-bundespraesidenten-a-9c8fc148-bcdf-4a1c-9df0-2da6f9081060#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-news-heute-israels-armee-meldet-mehr-als-11-000-ziele-seit-kriegsbeginn](https://www.spiegel.de/ausland/israel-gaza-news-heute-israels-armee-meldet-mehr-als-11-000-ziele-seit-kriegsbeginn-a-627928d3-47bb-4f87-92ec-b6f41570b862#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/deutsche-bahn-db-navigator-und-bahn-website-gestoert-keine-ticketbuchung-moeglich](https://www.spiegel.de/netzwelt/apps/deutsche-bahn-db-navigator-und-bahn-website-gestoert-keine-ticketbuchung-moeglich-a-f4850c21-c780-472d-85c5-87fed784057a#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/boliviens-bruch-mit-israel-wie-ex-praesident-evo-morales-den-gaza-krieg-innenpolitisch-ausnutzt](https://www.spiegel.de/ausland/boliviens-bruch-mit-israel-wie-ex-praesident-evo-morales-den-gaza-krieg-innenpolitisch-ausnutzt-a-dbe9890a-4f82-4c71-9853-0f258feeada6#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-der-konflikt-mit-der-hamas-in-grafiken-und-karten](https://www.spiegel.de/ausland/israel-gaza-krieg-der-konflikt-mit-der-hamas-in-grafiken-und-karten-a-3967f2d7-9923-47e1-9eed-a09c543d24bd#ref=rss)
-### migration
-
-* [https://www.spiegel.de/politik/deutschland/migration-warum-friedrich-merz-und-olaf-scholz-den-pakt-suchen](https://www.spiegel.de/politik/deutschland/migration-warum-friedrich-merz-und-olaf-scholz-den-pakt-suchen-a-0f6fe188-b2a9-494d-ad77-486e05461791#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/migration-kabinett-erlaubt-gefluechteten-fruehere-arbeitsaufnahme](https://www.spiegel.de/politik/deutschland/migration-kabinett-erlaubt-gefluechteten-fruehere-arbeitsaufnahme-a-3733b95a-98e0-4c5b-aca5-9f67218bb168#ref=rss)
-### ruft
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/windkraft-krise-windkraftfirma-orsted-schockt-aktionaere-mit-milliardenverlust](https://www.spiegel.de/wirtschaft/unternehmen/windkraft-krise-windkraftfirma-orsted-schockt-aktionaere-mit-milliardenverlust-a-c9c0ee1a-a45a-4041-8b27-ad3de7ad5bc7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/salmonellengefahr-aldi-sued-ruft-pistazien-snacks-zurueck](https://www.spiegel.de/wirtschaft/service/salmonellengefahr-aldi-sued-ruft-pistazien-snacks-zurueck-a-fd568654-a86a-42a6-893e-6e15f99e5fac#ref=rss)
-### gazastreifen
-
-* [https://www.spiegel.de/ausland/israel-gaza-news-heute-israels-armee-meldet-mehr-als-11-000-ziele-seit-kriegsbeginn](https://www.spiegel.de/ausland/israel-gaza-news-heute-israels-armee-meldet-mehr-als-11-000-ziele-seit-kriegsbeginn-a-627928d3-47bb-4f87-92ec-b6f41570b862#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-der-konflikt-mit-der-hamas-in-grafiken-und-karten](https://www.spiegel.de/ausland/israel-gaza-krieg-der-konflikt-mit-der-hamas-in-grafiken-und-karten-a-3967f2d7-9923-47e1-9eed-a09c543d24bd#ref=rss)
-### laut
-
-* [https://www.spiegel.de/ausland/israel-gaza-news-heute-israels-armee-meldet-mehr-als-11-000-ziele-seit-kriegsbeginn](https://www.spiegel.de/ausland/israel-gaza-news-heute-israels-armee-meldet-mehr-als-11-000-ziele-seit-kriegsbeginn-a-627928d3-47bb-4f87-92ec-b6f41570b862#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-save-the-children-ueber-kinder-im-krieg-die-psychische-belastung-ist-gross](https://www.spiegel.de/ausland/gaza-save-the-children-ueber-kinder-im-krieg-die-psychische-belastung-ist-gross-a-a75ee584-2470-43a2-9c41-0d964b017aae#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/spermien-beherrschen-laut-studie-verschiedene-schwimmstile](https://www.spiegel.de/wissenschaft/mensch/spermien-beherrschen-laut-studie-verschiedene-schwimmstile-a-29c1285f-5ce1-4ffa-9757-a31bda07513a#ref=rss)
-### krieg
-
-* [https://www.spiegel.de/ausland/gaza-save-the-children-ueber-kinder-im-krieg-die-psychische-belastung-ist-gross](https://www.spiegel.de/ausland/gaza-save-the-children-ueber-kinder-im-krieg-die-psychische-belastung-ist-gross-a-a75ee584-2470-43a2-9c41-0d964b017aae#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-im-nahen-osten-was-treibt-der-hamas-terrorchef-ausgerechnet-in-katar](https://www.spiegel.de/ausland/krieg-im-nahen-osten-was-treibt-der-hamas-terrorchef-ausgerechnet-in-katar-a-cbda1306-cc32-4024-a905-90a569a31722#ref=rss)
 ### hamas
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-der-konflikt-mit-der-hamas-in-grafiken-und-karten](https://www.spiegel.de/ausland/israel-gaza-krieg-der-konflikt-mit-der-hamas-in-grafiken-und-karten-a-3967f2d7-9923-47e1-9eed-a09c543d24bd#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-im-nahen-osten-was-treibt-der-hamas-terrorchef-ausgerechnet-in-katar](https://www.spiegel.de/ausland/krieg-im-nahen-osten-was-treibt-der-hamas-terrorchef-ausgerechnet-in-katar-a-cbda1306-cc32-4024-a905-90a569a31722#ref=rss)
-### zurück
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-biden-fordert-pause-im-gazastreifen-um-geiseln-zu-befreien](https://www.spiegel.de/ausland/israel-gaza-news-heute-biden-fordert-pause-im-gazastreifen-um-geiseln-zu-befreien-a-e5ab7710-3409-457a-8aef-51829a60c0f1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/hamas-nancy-faeser-verbietet-terrorgruppe-in-deutschland](https://www.spiegel.de/politik/deutschland/hamas-nancy-faeser-verbietet-terrorgruppe-in-deutschland-a-4273a0d7-c3da-47c6-926a-f6a8fb72408f#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-joe-biden-wuenscht-sich-pause-im-krieg-zwischen-der-hamas-und-israel](https://www.spiegel.de/ausland/gaza-joe-biden-wuenscht-sich-pause-im-krieg-zwischen-der-hamas-und-israel-a-1166d9ee-e9d9-4098-99c2-b86014cb53de#ref=rss)
+### russland
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-der-konflikt-mit-der-hamas-in-grafiken-und-karten](https://www.spiegel.de/ausland/israel-gaza-krieg-der-konflikt-mit-der-hamas-in-grafiken-und-karten-a-3967f2d7-9923-47e1-9eed-a09c543d24bd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/salmonellengefahr-aldi-sued-ruft-pistazien-snacks-zurueck](https://www.spiegel.de/wirtschaft/service/salmonellengefahr-aldi-sued-ruft-pistazien-snacks-zurueck-a-fd568654-a86a-42a6-893e-6e15f99e5fac#ref=rss)
-### himmelskörper
+* [https://www.spiegel.de/ausland/nordkorea-liefert-russland-offenbar-eine-million-artilleriegranaten](https://www.spiegel.de/ausland/nordkorea-liefert-russland-offenbar-eine-million-artilleriegranaten-a-810eb20d-c0ac-465c-a750-7a5c4a8fe669#ref=rss)
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-hebt-verbot-fuer-atomwaffentests-auf](https://www.spiegel.de/ausland/russland-wladimir-putin-hebt-verbot-fuer-atomwaffentests-auf-a-75e7b5db-8b6f-4e1c-9184-5ef680238055#ref=rss)
+### israel
 
-* [https://www.spiegel.de/wissenschaft/weltall/himmelskoerper-theia-im-erdmantel-koennten-bis-heute-ueberreste-des-ur-planeten-stecken](https://www.spiegel.de/wissenschaft/weltall/himmelskoerper-theia-im-erdmantel-koennten-bis-heute-ueberreste-des-ur-planeten-stecken-a-2515188d-5f87-4f62-8dda-c11710cc0029#ref=rss)
-### theia
-
-* [https://www.spiegel.de/wissenschaft/weltall/himmelskoerper-theia-im-erdmantel-koennten-bis-heute-ueberreste-des-ur-planeten-stecken](https://www.spiegel.de/wissenschaft/weltall/himmelskoerper-theia-im-erdmantel-koennten-bis-heute-ueberreste-des-ur-planeten-stecken-a-2515188d-5f87-4f62-8dda-c11710cc0029#ref=rss)
-### stecken
-
-* [https://www.spiegel.de/wissenschaft/weltall/himmelskoerper-theia-im-erdmantel-koennten-bis-heute-ueberreste-des-ur-planeten-stecken](https://www.spiegel.de/wissenschaft/weltall/himmelskoerper-theia-im-erdmantel-koennten-bis-heute-ueberreste-des-ur-planeten-stecken-a-2515188d-5f87-4f62-8dda-c11710cc0029#ref=rss)
-### jungen
-
-* [https://www.spiegel.de/wissenschaft/weltall/himmelskoerper-theia-im-erdmantel-koennten-bis-heute-ueberreste-des-ur-planeten-stecken](https://www.spiegel.de/wissenschaft/weltall/himmelskoerper-theia-im-erdmantel-koennten-bis-heute-ueberreste-des-ur-planeten-stecken-a-2515188d-5f87-4f62-8dda-c11710cc0029#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/guardian-microsoft-ki-platziert-geschmacklose-umfrage-neben-artikel-ueber-todesfall](https://www.spiegel.de/netzwelt/web/guardian-microsoft-ki-platziert-geschmacklose-umfrage-neben-artikel-ueber-todesfall-a-1a0baa1d-7629-489e-a633-9d03e6a792b1#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/wissenschaft/weltall/himmelskoerper-theia-im-erdmantel-koennten-bis-heute-ueberreste-des-ur-planeten-stecken](https://www.spiegel.de/wissenschaft/weltall/himmelskoerper-theia-im-erdmantel-koennten-bis-heute-ueberreste-des-ur-planeten-stecken-a-2515188d-5f87-4f62-8dda-c11710cc0029#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-hausdaemmung-nordkoreas-botschaften-goethe-institute](https://www.spiegel.de/politik/deutschland/news-des-tages-hausdaemmung-nordkoreas-botschaften-goethe-institute-a-c7ca8f3f-24cf-45b0-9b17-c55b75549809#ref=rss)
-### teile
-
-* [https://www.spiegel.de/wissenschaft/weltall/himmelskoerper-theia-im-erdmantel-koennten-bis-heute-ueberreste-des-ur-planeten-stecken](https://www.spiegel.de/wissenschaft/weltall/himmelskoerper-theia-im-erdmantel-koennten-bis-heute-ueberreste-des-ur-planeten-stecken-a-2515188d-5f87-4f62-8dda-c11710cc0029#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/ransomware-hackerangriff-beeintraechtigt-teile-der-hochschule-hannover](https://www.spiegel.de/netzwelt/web/ransomware-hackerangriff-beeintraechtigt-teile-der-hochschule-hannover-a-e6247f8b-7adb-4bdd-986c-7a85068b38a3#ref=rss)
-### euro
-
-* [https://www.spiegel.de/panorama/schleswig-holstein-plant-nach-ostsee-sturmflut-wiederaufbaufonds-in-hoehe-von-200-millionen-euro](https://www.spiegel.de/panorama/schleswig-holstein-plant-nach-ostsee-sturmflut-wiederaufbaufonds-in-hoehe-von-200-millionen-euro-a-696b7812-568e-4022-a64a-dbb2b870f7a8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/windkraft-krise-windkraftfirma-orsted-schockt-aktionaere-mit-milliardenverlust](https://www.spiegel.de/wirtschaft/unternehmen/windkraft-krise-windkraftfirma-orsted-schockt-aktionaere-mit-milliardenverlust-a-c9c0ee1a-a45a-4041-8b27-ad3de7ad5bc7#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/schleswig-holstein-plant-nach-ostsee-sturmflut-wiederaufbaufonds-in-hoehe-von-200-millionen-euro](https://www.spiegel.de/panorama/schleswig-holstein-plant-nach-ostsee-sturmflut-wiederaufbaufonds-in-hoehe-von-200-millionen-euro-a-696b7812-568e-4022-a64a-dbb2b870f7a8#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/grossbritannien-forscher-testen-schockfotos-auf-fleischgerichten](https://www.spiegel.de/wissenschaft/mensch/grossbritannien-forscher-testen-schockfotos-auf-fleischgerichten-a-ceaf3881-914c-46ec-bd5e-142284e7fe08#ref=rss)
-### sturmflut
-
-* [https://www.spiegel.de/panorama/schleswig-holstein-plant-nach-ostsee-sturmflut-wiederaufbaufonds-in-hoehe-von-200-millionen-euro](https://www.spiegel.de/panorama/schleswig-holstein-plant-nach-ostsee-sturmflut-wiederaufbaufonds-in-hoehe-von-200-millionen-euro-a-696b7812-568e-4022-a64a-dbb2b870f7a8#ref=rss)
-* [https://www.spiegel.de/panorama/ruegen-kliff-am-kap-arkona-nach-sturmflut-abgestuerzt](https://www.spiegel.de/panorama/ruegen-kliff-am-kap-arkona-nach-sturmflut-abgestuerzt-a-6af2b371-6223-4093-954d-6050294d663d#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/migration-warum-friedrich-merz-und-olaf-scholz-den-pakt-suchen](https://www.spiegel.de/politik/deutschland/migration-warum-friedrich-merz-und-olaf-scholz-den-pakt-suchen-a-0f6fe188-b2a9-494d-ad77-486e05461791#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/migration-warum-friedrich-merz-und-olaf-scholz-den-pakt-suchen](https://www.spiegel.de/politik/deutschland/migration-warum-friedrich-merz-und-olaf-scholz-den-pakt-suchen-a-0f6fe188-b2a9-494d-ad77-486e05461791#ref=rss)
-### olaf
-
-* [https://www.spiegel.de/politik/deutschland/migration-warum-friedrich-merz-und-olaf-scholz-den-pakt-suchen](https://www.spiegel.de/politik/deutschland/migration-warum-friedrich-merz-und-olaf-scholz-den-pakt-suchen-a-0f6fe188-b2a9-494d-ad77-486e05461791#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/deutschland/migration-warum-friedrich-merz-und-olaf-scholz-den-pakt-suchen](https://www.spiegel.de/politik/deutschland/migration-warum-friedrich-merz-und-olaf-scholz-den-pakt-suchen-a-0f6fe188-b2a9-494d-ad77-486e05461791#ref=rss)
-### zeit
-
-* [https://www.spiegel.de/politik/deutschland/migration-warum-friedrich-merz-und-olaf-scholz-den-pakt-suchen](https://www.spiegel.de/politik/deutschland/migration-warum-friedrich-merz-und-olaf-scholz-den-pakt-suchen-a-0f6fe188-b2a9-494d-ad77-486e05461791#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/eu-datenschutzbehoerde-will-meta-personalisierte-werbung-verbieten](https://www.spiegel.de/netzwelt/netzpolitik/eu-datenschutzbehoerde-will-meta-personalisierte-werbung-verbieten-a-f1d42758-20b4-4799-9b40-130e6410a5a7#ref=rss)
-### groß
-
-* [https://www.spiegel.de/politik/deutschland/migration-warum-friedrich-merz-und-olaf-scholz-den-pakt-suchen](https://www.spiegel.de/politik/deutschland/migration-warum-friedrich-merz-und-olaf-scholz-den-pakt-suchen-a-0f6fe188-b2a9-494d-ad77-486e05461791#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-save-the-children-ueber-kinder-im-krieg-die-psychische-belastung-ist-gross](https://www.spiegel.de/ausland/gaza-save-the-children-ueber-kinder-im-krieg-die-psychische-belastung-ist-gross-a-a75ee584-2470-43a2-9c41-0d964b017aae#ref=rss)
-### orsted
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/windkraft-krise-windkraftfirma-orsted-schockt-aktionaere-mit-milliardenverlust](https://www.spiegel.de/wirtschaft/unternehmen/windkraft-krise-windkraftfirma-orsted-schockt-aktionaere-mit-milliardenverlust-a-c9c0ee1a-a45a-4041-8b27-ad3de7ad5bc7#ref=rss)
-### aktionäre
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/windkraft-krise-windkraftfirma-orsted-schockt-aktionaere-mit-milliardenverlust](https://www.spiegel.de/wirtschaft/unternehmen/windkraft-krise-windkraftfirma-orsted-schockt-aktionaere-mit-milliardenverlust-a-c9c0ee1a-a45a-4041-8b27-ad3de7ad5bc7#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/windkraft-krise-windkraftfirma-orsted-schockt-aktionaere-mit-milliardenverlust](https://www.spiegel.de/wirtschaft/unternehmen/windkraft-krise-windkraftfirma-orsted-schockt-aktionaere-mit-milliardenverlust-a-c9c0ee1a-a45a-4041-8b27-ad3de7ad5bc7#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/eu-datenschutzbehoerde-will-meta-personalisierte-werbung-verbieten](https://www.spiegel.de/netzwelt/netzpolitik/eu-datenschutzbehoerde-will-meta-personalisierte-werbung-verbieten-a-f1d42758-20b4-4799-9b40-130e6410a5a7#ref=rss)
-### treibt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/windkraft-krise-windkraftfirma-orsted-schockt-aktionaere-mit-milliardenverlust](https://www.spiegel.de/wirtschaft/unternehmen/windkraft-krise-windkraftfirma-orsted-schockt-aktionaere-mit-milliardenverlust-a-c9c0ee1a-a45a-4041-8b27-ad3de7ad5bc7#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-im-nahen-osten-was-treibt-der-hamas-terrorchef-ausgerechnet-in-katar](https://www.spiegel.de/ausland/krieg-im-nahen-osten-was-treibt-der-hamas-terrorchef-ausgerechnet-in-katar-a-cbda1306-cc32-4024-a905-90a569a31722#ref=rss)
-### rügen
-
-* [https://www.spiegel.de/panorama/ruegen-kliff-am-kap-arkona-nach-sturmflut-abgestuerzt](https://www.spiegel.de/panorama/ruegen-kliff-am-kap-arkona-nach-sturmflut-abgestuerzt-a-6af2b371-6223-4093-954d-6050294d663d#ref=rss)
-### kap
-
-* [https://www.spiegel.de/panorama/ruegen-kliff-am-kap-arkona-nach-sturmflut-abgestuerzt](https://www.spiegel.de/panorama/ruegen-kliff-am-kap-arkona-nach-sturmflut-abgestuerzt-a-6af2b371-6223-4093-954d-6050294d663d#ref=rss)
-### arkona
-
-* [https://www.spiegel.de/panorama/ruegen-kliff-am-kap-arkona-nach-sturmflut-abgestuerzt](https://www.spiegel.de/panorama/ruegen-kliff-am-kap-arkona-nach-sturmflut-abgestuerzt-a-6af2b371-6223-4093-954d-6050294d663d#ref=rss)
-### abgebrochen
-
-* [https://www.spiegel.de/panorama/ruegen-kliff-am-kap-arkona-nach-sturmflut-abgestuerzt](https://www.spiegel.de/panorama/ruegen-kliff-am-kap-arkona-nach-sturmflut-abgestuerzt-a-6af2b371-6223-4093-954d-6050294d663d#ref=rss)
-* [https://www.spiegel.de/ausland/boliviens-bruch-mit-israel-wie-ex-praesident-evo-morales-den-gaza-krieg-innenpolitisch-ausnutzt](https://www.spiegel.de/ausland/boliviens-bruch-mit-israel-wie-ex-praesident-evo-morales-den-gaza-krieg-innenpolitisch-ausnutzt-a-dbe9890a-4f82-4c71-9853-0f258feeada6#ref=rss)
-### dänemark
-
-* [https://www.spiegel.de/ausland/daenemark-prozesse-gegen-suspendierten-geheimdienstchef-und-ex-minister-eingestellt](https://www.spiegel.de/ausland/daenemark-prozesse-gegen-suspendierten-geheimdienstchef-und-ex-minister-eingestellt-a-199c1d97-bf4a-44aa-839e-5ce3d54dee23#ref=rss)
-### geheimdienstchef
-
-* [https://www.spiegel.de/ausland/daenemark-prozesse-gegen-suspendierten-geheimdienstchef-und-ex-minister-eingestellt](https://www.spiegel.de/ausland/daenemark-prozesse-gegen-suspendierten-geheimdienstchef-und-ex-minister-eingestellt-a-199c1d97-bf4a-44aa-839e-5ce3d54dee23#ref=rss)
-### exminister
-
-* [https://www.spiegel.de/ausland/daenemark-prozesse-gegen-suspendierten-geheimdienstchef-und-ex-minister-eingestellt](https://www.spiegel.de/ausland/daenemark-prozesse-gegen-suspendierten-geheimdienstchef-und-ex-minister-eingestellt-a-199c1d97-bf4a-44aa-839e-5ce3d54dee23#ref=rss)
-### informationen
-
-* [https://www.spiegel.de/ausland/daenemark-prozesse-gegen-suspendierten-geheimdienstchef-und-ex-minister-eingestellt](https://www.spiegel.de/ausland/daenemark-prozesse-gegen-suspendierten-geheimdienstchef-und-ex-minister-eingestellt-a-199c1d97-bf4a-44aa-839e-5ce3d54dee23#ref=rss)
-### glashütte
-
-* [https://www.spiegel.de/stil/nomos-aus-glashuette-uhren-fuer-etwas-zu-kluge-lehrer-und-bundespraesidenten](https://www.spiegel.de/stil/nomos-aus-glashuette-uhren-fuer-etwas-zu-kluge-lehrer-und-bundespraesidenten-a-9c8fc148-bcdf-4a1c-9df0-2da6f9081060#ref=rss)
-### uhren
-
-* [https://www.spiegel.de/stil/nomos-aus-glashuette-uhren-fuer-etwas-zu-kluge-lehrer-und-bundespraesidenten](https://www.spiegel.de/stil/nomos-aus-glashuette-uhren-fuer-etwas-zu-kluge-lehrer-und-bundespraesidenten-a-9c8fc148-bcdf-4a1c-9df0-2da6f9081060#ref=rss)
-### expräsident
-
-* [https://www.spiegel.de/ausland/boliviens-bruch-mit-israel-wie-ex-praesident-evo-morales-den-gaza-krieg-innenpolitisch-ausnutzt](https://www.spiegel.de/ausland/boliviens-bruch-mit-israel-wie-ex-praesident-evo-morales-den-gaza-krieg-innenpolitisch-ausnutzt-a-dbe9890a-4f82-4c71-9853-0f258feeada6#ref=rss)
-### evo
-
-* [https://www.spiegel.de/ausland/boliviens-bruch-mit-israel-wie-ex-praesident-evo-morales-den-gaza-krieg-innenpolitisch-ausnutzt](https://www.spiegel.de/ausland/boliviens-bruch-mit-israel-wie-ex-praesident-evo-morales-den-gaza-krieg-innenpolitisch-ausnutzt-a-dbe9890a-4f82-4c71-9853-0f258feeada6#ref=rss)
-### morales
-
-* [https://www.spiegel.de/ausland/boliviens-bruch-mit-israel-wie-ex-praesident-evo-morales-den-gaza-krieg-innenpolitisch-ausnutzt](https://www.spiegel.de/ausland/boliviens-bruch-mit-israel-wie-ex-praesident-evo-morales-den-gaza-krieg-innenpolitisch-ausnutzt-a-dbe9890a-4f82-4c71-9853-0f258feeada6#ref=rss)
-### diplomatischen
-
-* [https://www.spiegel.de/ausland/boliviens-bruch-mit-israel-wie-ex-praesident-evo-morales-den-gaza-krieg-innenpolitisch-ausnutzt](https://www.spiegel.de/ausland/boliviens-bruch-mit-israel-wie-ex-praesident-evo-morales-den-gaza-krieg-innenpolitisch-ausnutzt-a-dbe9890a-4f82-4c71-9853-0f258feeada6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-hausdaemmung-nordkoreas-botschaften-goethe-institute](https://www.spiegel.de/politik/deutschland/news-des-tages-hausdaemmung-nordkoreas-botschaften-goethe-institute-a-c7ca8f3f-24cf-45b0-9b17-c55b75549809#ref=rss)
-### news
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-hausdaemmung-nordkoreas-botschaften-goethe-institute](https://www.spiegel.de/politik/deutschland/news-des-tages-hausdaemmung-nordkoreas-botschaften-goethe-institute-a-c7ca8f3f-24cf-45b0-9b17-c55b75549809#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-news-heute-israels-armee-meldet-mehr-als-11-000-ziele-seit-kriegsbeginn](https://www.spiegel.de/ausland/israel-gaza-news-heute-israels-armee-meldet-mehr-als-11-000-ziele-seit-kriegsbeginn-a-627928d3-47bb-4f87-92ec-b6f41570b862#ref=rss)
-### lage
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-hausdaemmung-nordkoreas-botschaften-goethe-institute](https://www.spiegel.de/politik/deutschland/news-des-tages-hausdaemmung-nordkoreas-botschaften-goethe-institute-a-c7ca8f3f-24cf-45b0-9b17-c55b75549809#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-news-heute-israels-armee-meldet-mehr-als-11-000-ziele-seit-kriegsbeginn](https://www.spiegel.de/ausland/israel-gaza-news-heute-israels-armee-meldet-mehr-als-11-000-ziele-seit-kriegsbeginn-a-627928d3-47bb-4f87-92ec-b6f41570b862#ref=rss)
+* [https://www.spiegel.de/ausland/israel-kinder-als-hamas-geiseln-mutter-schildert-in-kurzfilm-die-entfuehrung-ihrer-kinder](https://www.spiegel.de/ausland/israel-kinder-als-hamas-geiseln-mutter-schildert-in-kurzfilm-die-entfuehrung-ihrer-kinder-a-6520e7fd-b8c7-4c45-82c2-1a52571a9569#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-nahost-gaza-braucht-eine-humanitaere-waffenruhe](https://www.spiegel.de/ausland/krieg-in-nahost-gaza-braucht-eine-humanitaere-waffenruhe-a-8842e12f-84ab-417d-92ac-a5c99bec89c4#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-biden-fordert-pause-im-gazastreifen-um-geiseln-zu-befreien](https://www.spiegel.de/ausland/israel-gaza-news-heute-biden-fordert-pause-im-gazastreifen-um-geiseln-zu-befreien-a-e5ab7710-3409-457a-8aef-51829a60c0f1#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-joe-biden-wuenscht-sich-pause-im-krieg-zwischen-der-hamas-und-israel](https://www.spiegel.de/ausland/gaza-joe-biden-wuenscht-sich-pause-im-krieg-zwischen-der-hamas-und-israel-a-1166d9ee-e9d9-4098-99c2-b86014cb53de#ref=rss)
 ### gaza
 
-* [https://www.spiegel.de/ausland/gaza-save-the-children-ueber-kinder-im-krieg-die-psychische-belastung-ist-gross](https://www.spiegel.de/ausland/gaza-save-the-children-ueber-kinder-im-krieg-die-psychische-belastung-ist-gross-a-a75ee584-2470-43a2-9c41-0d964b017aae#ref=rss)
-### save
+* [https://www.spiegel.de/ausland/krieg-in-nahost-gaza-braucht-eine-humanitaere-waffenruhe](https://www.spiegel.de/ausland/krieg-in-nahost-gaza-braucht-eine-humanitaere-waffenruhe-a-8842e12f-84ab-417d-92ac-a5c99bec89c4#ref=rss)
+* [https://www.spiegel.de/sport/tennis/tennis-ons-jabeur-spendet-fuer-palaestinenser](https://www.spiegel.de/sport/tennis/tennis-ons-jabeur-spendet-fuer-palaestinenser-a-902a60d3-e6b4-43b0-9928-d336f0512f52#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-und-benjamin-netanyahu-haertetest-fuer-eine-maennerfreundschaft](https://www.spiegel.de/ausland/joe-biden-und-benjamin-netanyahu-haertetest-fuer-eine-maennerfreundschaft-a-c8a01826-5a05-4d04-bbe5-4d707c4e896e#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-joe-biden-wuenscht-sich-pause-im-krieg-zwischen-der-hamas-und-israel](https://www.spiegel.de/ausland/gaza-joe-biden-wuenscht-sich-pause-im-krieg-zwischen-der-hamas-und-israel-a-1166d9ee-e9d9-4098-99c2-b86014cb53de#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/ausland/gaza-save-the-children-ueber-kinder-im-krieg-die-psychische-belastung-ist-gross](https://www.spiegel.de/ausland/gaza-save-the-children-ueber-kinder-im-krieg-die-psychische-belastung-ist-gross-a-a75ee584-2470-43a2-9c41-0d964b017aae#ref=rss)
-### the
+* [https://www.spiegel.de/ausland/krieg-in-nahost-gaza-braucht-eine-humanitaere-waffenruhe](https://www.spiegel.de/ausland/krieg-in-nahost-gaza-braucht-eine-humanitaere-waffenruhe-a-8842e12f-84ab-417d-92ac-a5c99bec89c4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/arbeitsmarkt-2-6-millionen-menschen-ohne-job-herbstbelebung-bleibt-aus](https://www.spiegel.de/wirtschaft/soziales/arbeitsmarkt-2-6-millionen-menschen-ohne-job-herbstbelebung-bleibt-aus-a-9d236325-e9ae-4f4c-b672-305c0e62e23b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-im-sommer-profitabel-wie-nie-nachfrage-trotz-gestiegener-preise](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-im-sommer-profitabel-wie-nie-nachfrage-trotz-gestiegener-preise-a-5cc8748a-3404-44d0-a906-64d85bf12c0c#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/ausland/gaza-save-the-children-ueber-kinder-im-krieg-die-psychische-belastung-ist-gross](https://www.spiegel.de/ausland/gaza-save-the-children-ueber-kinder-im-krieg-die-psychische-belastung-ist-gross-a-a75ee584-2470-43a2-9c41-0d964b017aae#ref=rss)
-### children
+* [https://www.spiegel.de/politik/deutschland/hamas-nancy-faeser-verbietet-terrorgruppe-in-deutschland](https://www.spiegel.de/politik/deutschland/hamas-nancy-faeser-verbietet-terrorgruppe-in-deutschland-a-4273a0d7-c3da-47c6-926a-f6a8fb72408f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/energie-verbrauch-faellt-2023-wohl-auf-rekordtief](https://www.spiegel.de/wirtschaft/energie-verbrauch-faellt-2023-wohl-auf-rekordtief-a-058aa52a-0149-45f6-b9c3-441f9f52cc0c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-rede-ans-land-ueber-antisemitismus-in-deutschland](https://www.spiegel.de/politik/deutschland/robert-habeck-rede-ans-land-ueber-antisemitismus-in-deutschland-a-776476e9-ed57-44fa-8ea9-c27a1e39c29d#ref=rss)
+### biden
 
-* [https://www.spiegel.de/ausland/gaza-save-the-children-ueber-kinder-im-krieg-die-psychische-belastung-ist-gross](https://www.spiegel.de/ausland/gaza-save-the-children-ueber-kinder-im-krieg-die-psychische-belastung-ist-gross-a-a75ee584-2470-43a2-9c41-0d964b017aae#ref=rss)
-### bahn
+* [https://www.spiegel.de/ausland/joe-biden-und-benjamin-netanyahu-haertetest-fuer-eine-maennerfreundschaft](https://www.spiegel.de/ausland/joe-biden-und-benjamin-netanyahu-haertetest-fuer-eine-maennerfreundschaft-a-c8a01826-5a05-4d04-bbe5-4d707c4e896e#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-joe-biden-wuenscht-sich-pause-im-krieg-zwischen-der-hamas-und-israel](https://www.spiegel.de/ausland/gaza-joe-biden-wuenscht-sich-pause-im-krieg-zwischen-der-hamas-und-israel-a-1166d9ee-e9d9-4098-99c2-b86014cb53de#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/netzwelt/apps/deutsche-bahn-db-navigator-und-bahn-website-gestoert-keine-ticketbuchung-moeglich](https://www.spiegel.de/netzwelt/apps/deutsche-bahn-db-navigator-und-bahn-website-gestoert-keine-ticketbuchung-moeglich-a-f4850c21-c780-472d-85c5-87fed784057a#ref=rss)
-### wichtigsten
+* [https://www.spiegel.de/panorama/justiz/grossbritannien-mann-laesst-maeuse-in-mcdonald-s-restaurants-frei-festnahme](https://www.spiegel.de/panorama/justiz/grossbritannien-mann-laesst-maeuse-in-mcdonald-s-restaurants-frei-festnahme-a-bd9b4df7-d5aa-418c-a939-42ecc79e3db4#ref=rss)
+* [https://www.spiegel.de/ausland/nordkorea-liefert-russland-offenbar-eine-million-artilleriegranaten](https://www.spiegel.de/ausland/nordkorea-liefert-russland-offenbar-eine-million-artilleriegranaten-a-810eb20d-c0ac-465c-a750-7a5c4a8fe669#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/netzwelt/apps/deutsche-bahn-db-navigator-und-bahn-website-gestoert-keine-ticketbuchung-moeglich](https://www.spiegel.de/netzwelt/apps/deutsche-bahn-db-navigator-und-bahn-website-gestoert-keine-ticketbuchung-moeglich-a-f4850c21-c780-472d-85c5-87fed784057a#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-der-konflikt-mit-der-hamas-in-grafiken-und-karten](https://www.spiegel.de/ausland/israel-gaza-krieg-der-konflikt-mit-der-hamas-in-grafiken-und-karten-a-3967f2d7-9923-47e1-9eed-a09c543d24bd#ref=rss)
-### waren
+* [https://www.spiegel.de/wirtschaft/unternehmen/novo-nordisk-macht-dank-abnehmspritze-deutlich-mehr-gewinn](https://www.spiegel.de/wirtschaft/unternehmen/novo-nordisk-macht-dank-abnehmspritze-deutlich-mehr-gewinn-a-fdac0f65-ac95-4d42-8b69-e56e0ff80b38#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/arbeitsmarkt-2-6-millionen-menschen-ohne-job-herbstbelebung-bleibt-aus](https://www.spiegel.de/wirtschaft/soziales/arbeitsmarkt-2-6-millionen-menschen-ohne-job-herbstbelebung-bleibt-aus-a-9d236325-e9ae-4f4c-b672-305c0e62e23b#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/youtube-geht-gegen-werbeblocker-vor-und-verteuert-sein-abo](https://www.spiegel.de/netzwelt/web/youtube-geht-gegen-werbeblocker-vor-und-verteuert-sein-abo-a-2fe07efe-bcae-4865-847a-cf5ee1419548#ref=rss)
+### neue
 
-* [https://www.spiegel.de/netzwelt/apps/deutsche-bahn-db-navigator-und-bahn-website-gestoert-keine-ticketbuchung-moeglich](https://www.spiegel.de/netzwelt/apps/deutsche-bahn-db-navigator-und-bahn-website-gestoert-keine-ticketbuchung-moeglich-a-f4850c21-c780-472d-85c5-87fed784057a#ref=rss)
-* [https://www.spiegel.de/panorama/halloween-2023-das-waren-die-kostueme-der-stars-und-influencer](https://www.spiegel.de/panorama/halloween-2023-das-waren-die-kostueme-der-stars-und-influencer-a-26488202-b32f-4943-98b7-c5c53b77ebd8#ref=rss)
-### stand
+* [https://www.spiegel.de/kultur/tv/the-late-late-show-bei-cbs-taylor-tomlinson-uebernimmt-von-james-cordon](https://www.spiegel.de/kultur/tv/the-late-late-show-bei-cbs-taylor-tomlinson-uebernimmt-von-james-cordon-a-5e25eb33-fe23-4a69-ac8d-52eed325a4cb#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/youtube-geht-gegen-werbeblocker-vor-und-verteuert-sein-abo](https://www.spiegel.de/netzwelt/web/youtube-geht-gegen-werbeblocker-vor-und-verteuert-sein-abo-a-2fe07efe-bcae-4865-847a-cf5ee1419548#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cybersicherheit-bsi-sieht-bedrohung-durch-cyberangriffe-so-hoch-wie-nie](https://www.spiegel.de/politik/deutschland/cybersicherheit-bsi-sieht-bedrohung-durch-cyberangriffe-so-hoch-wie-nie-a-523d577e-f7cb-4c39-b7df-9682eaf7dfa4#ref=rss)
+### drängt
 
-* [https://www.spiegel.de/netzwelt/apps/deutsche-bahn-db-navigator-und-bahn-website-gestoert-keine-ticketbuchung-moeglich](https://www.spiegel.de/netzwelt/apps/deutsche-bahn-db-navigator-und-bahn-website-gestoert-keine-ticketbuchung-moeglich-a-f4850c21-c780-472d-85c5-87fed784057a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/wattenmeer-seehundbestand-sinkt-auf-niedrigsten-stand-seit-2010](https://www.spiegel.de/wissenschaft/natur/wattenmeer-seehundbestand-sinkt-auf-niedrigsten-stand-seit-2010-a-2db5fd0c-59b4-4719-84fb-e36df170cf2c#ref=rss)
-### schnell
+* [https://www.spiegel.de/netzwelt/web/youtube-geht-gegen-werbeblocker-vor-und-verteuert-sein-abo](https://www.spiegel.de/netzwelt/web/youtube-geht-gegen-werbeblocker-vor-und-verteuert-sein-abo-a-2fe07efe-bcae-4865-847a-cf5ee1419548#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-joe-biden-wuenscht-sich-pause-im-krieg-zwischen-der-hamas-und-israel](https://www.spiegel.de/ausland/gaza-joe-biden-wuenscht-sich-pause-im-krieg-zwischen-der-hamas-und-israel-a-1166d9ee-e9d9-4098-99c2-b86014cb53de#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jens-spahn-fordert-von-olaf-scholz-abstimmungen-in-der-migrationspolitik-ohne-gruene](https://www.spiegel.de/politik/deutschland/jens-spahn-fordert-von-olaf-scholz-abstimmungen-in-der-migrationspolitik-ohne-gruene-a-10aaf413-3810-4226-9289-1a87495b7c21#ref=rss)
+### intelligenz
 
-* [https://www.spiegel.de/netzwelt/apps/deutsche-bahn-db-navigator-und-bahn-website-gestoert-keine-ticketbuchung-moeglich](https://www.spiegel.de/netzwelt/apps/deutsche-bahn-db-navigator-und-bahn-website-gestoert-keine-ticketbuchung-moeglich-a-f4850c21-c780-472d-85c5-87fed784057a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/spermien-beherrschen-laut-studie-verschiedene-schwimmstile](https://www.spiegel.de/wissenschaft/mensch/spermien-beherrschen-laut-studie-verschiedene-schwimmstile-a-29c1285f-5ce1-4ffa-9757-a31bda07513a#ref=rss)
-### wattenmeer
+* [https://www.spiegel.de/panorama/leute/nicolas-cage-ueber-ki-du-kannst-nicht-unmenschlicher-sein-als-kuenstliche-intelligenz](https://www.spiegel.de/panorama/leute/nicolas-cage-ueber-ki-du-kannst-nicht-unmenschlicher-sein-als-kuenstliche-intelligenz-a-de01a1ae-dcbc-4f92-b9a7-80ddec9c8a08#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cybersicherheit-bsi-sieht-bedrohung-durch-cyberangriffe-so-hoch-wie-nie](https://www.spiegel.de/politik/deutschland/cybersicherheit-bsi-sieht-bedrohung-durch-cyberangriffe-so-hoch-wie-nie-a-523d577e-f7cb-4c39-b7df-9682eaf7dfa4#ref=rss)
+### fc
 
-* [https://www.spiegel.de/wissenschaft/natur/wattenmeer-seehundbestand-sinkt-auf-niedrigsten-stand-seit-2010](https://www.spiegel.de/wissenschaft/natur/wattenmeer-seehundbestand-sinkt-auf-niedrigsten-stand-seit-2010-a-2db5fd0c-59b4-4719-84fb-e36df170cf2c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-scheitert-am-fc-saarbruecken-wird-es-jetzt-eng-fuer-thomas-tuchel](https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-scheitert-am-fc-saarbruecken-wird-es-jetzt-eng-fuer-thomas-tuchel-a-ef255e32-e22c-43be-93c3-31c250551b84#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-und-seine-groessten-pleiten](https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-und-seine-groessten-pleiten-a-8c67b5fd-b3dc-4055-a4f3-ab33178638ea#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-scheitert-am-fc-saarbruecken-wird-es-jetzt-eng-fuer-thomas-tuchel](https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-scheitert-am-fc-saarbruecken-wird-es-jetzt-eng-fuer-thomas-tuchel-a-ef255e32-e22c-43be-93c3-31c250551b84#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-und-seine-groessten-pleiten](https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-und-seine-groessten-pleiten-a-8c67b5fd-b3dc-4055-a4f3-ab33178638ea#ref=rss)
+### saarbrücken
+
+* [https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-scheitert-am-fc-saarbruecken-wird-es-jetzt-eng-fuer-thomas-tuchel](https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-scheitert-am-fc-saarbruecken-wird-es-jetzt-eng-fuer-thomas-tuchel-a-ef255e32-e22c-43be-93c3-31c250551b84#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-und-seine-groessten-pleiten](https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-und-seine-groessten-pleiten-a-8c67b5fd-b3dc-4055-a4f3-ab33178638ea#ref=rss)
+### joe
+
+* [https://www.spiegel.de/ausland/joe-biden-und-benjamin-netanyahu-haertetest-fuer-eine-maennerfreundschaft](https://www.spiegel.de/ausland/joe-biden-und-benjamin-netanyahu-haertetest-fuer-eine-maennerfreundschaft-a-c8a01826-5a05-4d04-bbe5-4d707c4e896e#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-joe-biden-wuenscht-sich-pause-im-krieg-zwischen-der-hamas-und-israel](https://www.spiegel.de/ausland/gaza-joe-biden-wuenscht-sich-pause-im-krieg-zwischen-der-hamas-und-israel-a-1166d9ee-e9d9-4098-99c2-b86014cb53de#ref=rss)
+### pause
+
+* [https://www.spiegel.de/ausland/joe-biden-und-benjamin-netanyahu-haertetest-fuer-eine-maennerfreundschaft](https://www.spiegel.de/ausland/joe-biden-und-benjamin-netanyahu-haertetest-fuer-eine-maennerfreundschaft-a-c8a01826-5a05-4d04-bbe5-4d707c4e896e#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-joe-biden-wuenscht-sich-pause-im-krieg-zwischen-der-hamas-und-israel](https://www.spiegel.de/ausland/gaza-joe-biden-wuenscht-sich-pause-im-krieg-zwischen-der-hamas-und-israel-a-1166d9ee-e9d9-4098-99c2-b86014cb53de#ref=rss)
+### disney
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/disney-will-hulu-ganz-uebernehmen-fuer-weitere-8-6-milliarden-dollar](https://www.spiegel.de/wirtschaft/unternehmen/disney-will-hulu-ganz-uebernehmen-fuer-weitere-8-6-milliarden-dollar-a-bc49a655-861c-4ff8-97d4-b9bc7a5d6414#ref=rss)
+### robert
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/disney-will-hulu-ganz-uebernehmen-fuer-weitere-8-6-milliarden-dollar](https://www.spiegel.de/wirtschaft/unternehmen/disney-will-hulu-ganz-uebernehmen-fuer-weitere-8-6-milliarden-dollar-a-bc49a655-861c-4ff8-97d4-b9bc7a5d6414#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-rede-ans-land-ueber-antisemitismus-in-deutschland](https://www.spiegel.de/politik/deutschland/robert-habeck-rede-ans-land-ueber-antisemitismus-in-deutschland-a-776476e9-ed57-44fa-8ea9-c27a1e39c29d#ref=rss)
+### mäuse
+
+* [https://www.spiegel.de/panorama/justiz/grossbritannien-mann-laesst-maeuse-in-mcdonald-s-restaurants-frei-festnahme](https://www.spiegel.de/panorama/justiz/grossbritannien-mann-laesst-maeuse-in-mcdonald-s-restaurants-frei-festnahme-a-bd9b4df7-d5aa-418c-a939-42ecc79e3db4#ref=rss)
+### nordkorea
+
+* [https://www.spiegel.de/ausland/nordkorea-liefert-russland-offenbar-eine-million-artilleriegranaten](https://www.spiegel.de/ausland/nordkorea-liefert-russland-offenbar-eine-million-artilleriegranaten-a-810eb20d-c0ac-465c-a750-7a5c4a8fe669#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/ausland/israel-kinder-als-hamas-geiseln-mutter-schildert-in-kurzfilm-die-entfuehrung-ihrer-kinder](https://www.spiegel.de/ausland/israel-kinder-als-hamas-geiseln-mutter-schildert-in-kurzfilm-die-entfuehrung-ihrer-kinder-a-6520e7fd-b8c7-4c45-82c2-1a52571a9569#ref=rss)
+### mutter
+
+* [https://www.spiegel.de/ausland/israel-kinder-als-hamas-geiseln-mutter-schildert-in-kurzfilm-die-entfuehrung-ihrer-kinder](https://www.spiegel.de/ausland/israel-kinder-als-hamas-geiseln-mutter-schildert-in-kurzfilm-die-entfuehrung-ihrer-kinder-a-6520e7fd-b8c7-4c45-82c2-1a52571a9569#ref=rss)
+### novo
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/novo-nordisk-macht-dank-abnehmspritze-deutlich-mehr-gewinn](https://www.spiegel.de/wirtschaft/unternehmen/novo-nordisk-macht-dank-abnehmspritze-deutlich-mehr-gewinn-a-fdac0f65-ac95-4d42-8b69-e56e0ff80b38#ref=rss)
+### nordisk
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/novo-nordisk-macht-dank-abnehmspritze-deutlich-mehr-gewinn](https://www.spiegel.de/wirtschaft/unternehmen/novo-nordisk-macht-dank-abnehmspritze-deutlich-mehr-gewinn-a-fdac0f65-ac95-4d42-8b69-e56e0ff80b38#ref=rss)
+### macht
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/novo-nordisk-macht-dank-abnehmspritze-deutlich-mehr-gewinn](https://www.spiegel.de/wirtschaft/unternehmen/novo-nordisk-macht-dank-abnehmspritze-deutlich-mehr-gewinn-a-fdac0f65-ac95-4d42-8b69-e56e0ff80b38#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/youtube-geht-gegen-werbeblocker-vor-und-verteuert-sein-abo](https://www.spiegel.de/netzwelt/web/youtube-geht-gegen-werbeblocker-vor-und-verteuert-sein-abo-a-2fe07efe-bcae-4865-847a-cf5ee1419548#ref=rss)
+### deutlich
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/novo-nordisk-macht-dank-abnehmspritze-deutlich-mehr-gewinn](https://www.spiegel.de/wirtschaft/unternehmen/novo-nordisk-macht-dank-abnehmspritze-deutlich-mehr-gewinn-a-fdac0f65-ac95-4d42-8b69-e56e0ff80b38#ref=rss)
+* [https://www.spiegel.de/wirtschaft/energie-verbrauch-faellt-2023-wohl-auf-rekordtief](https://www.spiegel.de/wirtschaft/energie-verbrauch-faellt-2023-wohl-auf-rekordtief-a-058aa52a-0149-45f6-b9c3-441f9f52cc0c#ref=rss)
+### profitiert
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/novo-nordisk-macht-dank-abnehmspritze-deutlich-mehr-gewinn](https://www.spiegel.de/wirtschaft/unternehmen/novo-nordisk-macht-dank-abnehmspritze-deutlich-mehr-gewinn-a-fdac0f65-ac95-4d42-8b69-e56e0ff80b38#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-im-sommer-profitabel-wie-nie-nachfrage-trotz-gestiegener-preise](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-im-sommer-profitabel-wie-nie-nachfrage-trotz-gestiegener-preise-a-5cc8748a-3404-44d0-a906-64d85bf12c0c#ref=rss)
+### dritten
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/novo-nordisk-macht-dank-abnehmspritze-deutlich-mehr-gewinn](https://www.spiegel.de/wirtschaft/unternehmen/novo-nordisk-macht-dank-abnehmspritze-deutlich-mehr-gewinn-a-fdac0f65-ac95-4d42-8b69-e56e0ff80b38#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-im-sommer-profitabel-wie-nie-nachfrage-trotz-gestiegener-preise](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-im-sommer-profitabel-wie-nie-nachfrage-trotz-gestiegener-preise-a-5cc8748a-3404-44d0-a906-64d85bf12c0c#ref=rss)
+### quartal
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/novo-nordisk-macht-dank-abnehmspritze-deutlich-mehr-gewinn](https://www.spiegel.de/wirtschaft/unternehmen/novo-nordisk-macht-dank-abnehmspritze-deutlich-mehr-gewinn-a-fdac0f65-ac95-4d42-8b69-e56e0ff80b38#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-im-sommer-profitabel-wie-nie-nachfrage-trotz-gestiegener-preise](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-im-sommer-profitabel-wie-nie-nachfrage-trotz-gestiegener-preise-a-5cc8748a-3404-44d0-a906-64d85bf12c0c#ref=rss)
+### hohen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/novo-nordisk-macht-dank-abnehmspritze-deutlich-mehr-gewinn](https://www.spiegel.de/wirtschaft/unternehmen/novo-nordisk-macht-dank-abnehmspritze-deutlich-mehr-gewinn-a-fdac0f65-ac95-4d42-8b69-e56e0ff80b38#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/disney-will-hulu-ganz-uebernehmen-fuer-weitere-8-6-milliarden-dollar](https://www.spiegel.de/wirtschaft/unternehmen/disney-will-hulu-ganz-uebernehmen-fuer-weitere-8-6-milliarden-dollar-a-bc49a655-861c-4ff8-97d4-b9bc7a5d6414#ref=rss)
+### nachfrage
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/novo-nordisk-macht-dank-abnehmspritze-deutlich-mehr-gewinn](https://www.spiegel.de/wirtschaft/unternehmen/novo-nordisk-macht-dank-abnehmspritze-deutlich-mehr-gewinn-a-fdac0f65-ac95-4d42-8b69-e56e0ff80b38#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-im-sommer-profitabel-wie-nie-nachfrage-trotz-gestiegener-preise](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-im-sommer-profitabel-wie-nie-nachfrage-trotz-gestiegener-preise-a-5cc8748a-3404-44d0-a906-64d85bf12c0c#ref=rss)
+### exxon
+
+* [https://www.spiegel.de/wirtschaft/exxon-und-chevron-megafusionen-amerikanischer-oelgiganten-wette-auf-das-schwarze-gold](https://www.spiegel.de/wirtschaft/exxon-und-chevron-megafusionen-amerikanischer-oelgiganten-wette-auf-das-schwarze-gold-a-06e4bb50-3912-4921-a138-81ecbe9e63e1#ref=rss)
+### chevron
+
+* [https://www.spiegel.de/wirtschaft/exxon-und-chevron-megafusionen-amerikanischer-oelgiganten-wette-auf-das-schwarze-gold](https://www.spiegel.de/wirtschaft/exxon-und-chevron-megafusionen-amerikanischer-oelgiganten-wette-auf-das-schwarze-gold-a-06e4bb50-3912-4921-a138-81ecbe9e63e1#ref=rss)
+### grüne
+
+* [https://www.spiegel.de/wirtschaft/exxon-und-chevron-megafusionen-amerikanischer-oelgiganten-wette-auf-das-schwarze-gold](https://www.spiegel.de/wirtschaft/exxon-und-chevron-megafusionen-amerikanischer-oelgiganten-wette-auf-das-schwarze-gold-a-06e4bb50-3912-4921-a138-81ecbe9e63e1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jens-spahn-fordert-von-olaf-scholz-abstimmungen-in-der-migrationspolitik-ohne-gruene](https://www.spiegel.de/politik/deutschland/jens-spahn-fordert-von-olaf-scholz-abstimmungen-in-der-migrationspolitik-ohne-gruene-a-10aaf413-3810-4226-9289-1a87495b7c21#ref=rss)
+### lange
+
+* [https://www.spiegel.de/wirtschaft/exxon-und-chevron-megafusionen-amerikanischer-oelgiganten-wette-auf-das-schwarze-gold](https://www.spiegel.de/wirtschaft/exxon-und-chevron-megafusionen-amerikanischer-oelgiganten-wette-auf-das-schwarze-gold-a-06e4bb50-3912-4921-a138-81ecbe9e63e1#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-und-benjamin-netanyahu-haertetest-fuer-eine-maennerfreundschaft](https://www.spiegel.de/ausland/joe-biden-und-benjamin-netanyahu-haertetest-fuer-eine-maennerfreundschaft-a-c8a01826-5a05-4d04-bbe5-4d707c4e896e#ref=rss)
+### warten
+
+* [https://www.spiegel.de/wirtschaft/exxon-und-chevron-megafusionen-amerikanischer-oelgiganten-wette-auf-das-schwarze-gold](https://www.spiegel.de/wirtschaft/exxon-und-chevron-megafusionen-amerikanischer-oelgiganten-wette-auf-das-schwarze-gold-a-06e4bb50-3912-4921-a138-81ecbe9e63e1#ref=rss)
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-hebt-verbot-fuer-atomwaffentests-auf](https://www.spiegel.de/ausland/russland-wladimir-putin-hebt-verbot-fuer-atomwaffentests-auf-a-75e7b5db-8b6f-4e1c-9184-5ef680238055#ref=rss)
+### jusos
+
+* [https://www.spiegel.de/politik/deutschland/jusos-draengen-auf-60-000-euro-grunderbe-fuer-alle-erwachsenen](https://www.spiegel.de/politik/deutschland/jusos-draengen-auf-60-000-euro-grunderbe-fuer-alle-erwachsenen-a-24e9ab97-e36f-4053-9e48-4ef8a3daf6b1#ref=rss)
+### drängen
+
+* [https://www.spiegel.de/politik/deutschland/jusos-draengen-auf-60-000-euro-grunderbe-fuer-alle-erwachsenen](https://www.spiegel.de/politik/deutschland/jusos-draengen-auf-60-000-euro-grunderbe-fuer-alle-erwachsenen-a-24e9ab97-e36f-4053-9e48-4ef8a3daf6b1#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-nahost-gaza-braucht-eine-humanitaere-waffenruhe](https://www.spiegel.de/ausland/krieg-in-nahost-gaza-braucht-eine-humanitaere-waffenruhe-a-8842e12f-84ab-417d-92ac-a5c99bec89c4#ref=rss)
+### putin
+
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-hebt-verbot-fuer-atomwaffentests-auf](https://www.spiegel.de/ausland/russland-wladimir-putin-hebt-verbot-fuer-atomwaffentests-auf-a-75e7b5db-8b6f-4e1c-9184-5ef680238055#ref=rss)
+### verbot
+
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-hebt-verbot-fuer-atomwaffentests-auf](https://www.spiegel.de/ausland/russland-wladimir-putin-hebt-verbot-fuer-atomwaffentests-auf-a-75e7b5db-8b6f-4e1c-9184-5ef680238055#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/hamas-nancy-faeser-verbietet-terrorgruppe-in-deutschland](https://www.spiegel.de/politik/deutschland/hamas-nancy-faeser-verbietet-terrorgruppe-in-deutschland-a-4273a0d7-c3da-47c6-926a-f6a8fb72408f#ref=rss)
+### erstmals
+
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-hebt-verbot-fuer-atomwaffentests-auf](https://www.spiegel.de/ausland/russland-wladimir-putin-hebt-verbot-fuer-atomwaffentests-auf-a-75e7b5db-8b6f-4e1c-9184-5ef680238055#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-und-benjamin-netanyahu-haertetest-fuer-eine-maennerfreundschaft](https://www.spiegel.de/ausland/joe-biden-und-benjamin-netanyahu-haertetest-fuer-eine-maennerfreundschaft-a-c8a01826-5a05-4d04-bbe5-4d707c4e896e#ref=rss)
+### ende
+
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-hebt-verbot-fuer-atomwaffentests-auf](https://www.spiegel.de/ausland/russland-wladimir-putin-hebt-verbot-fuer-atomwaffentests-auf-a-75e7b5db-8b6f-4e1c-9184-5ef680238055#ref=rss)
+* [https://www.spiegel.de/panorama/spiegel-serie-zum-100-geburtstag-von-rudolf-augstein-1972-bis-2002](https://www.spiegel.de/panorama/spiegel-serie-zum-100-geburtstag-von-rudolf-augstein-1972-bis-2002-a-8adf41b1-d29b-4b90-b069-c66e81f5e0f3#ref=rss)
+### verbietet
+
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-hebt-verbot-fuer-atomwaffentests-auf](https://www.spiegel.de/ausland/russland-wladimir-putin-hebt-verbot-fuer-atomwaffentests-auf-a-75e7b5db-8b6f-4e1c-9184-5ef680238055#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/hamas-nancy-faeser-verbietet-terrorgruppe-in-deutschland](https://www.spiegel.de/politik/deutschland/hamas-nancy-faeser-verbietet-terrorgruppe-in-deutschland-a-4273a0d7-c3da-47c6-926a-f6a8fb72408f#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/ausland/krieg-in-nahost-gaza-braucht-eine-humanitaere-waffenruhe](https://www.spiegel.de/ausland/krieg-in-nahost-gaza-braucht-eine-humanitaere-waffenruhe-a-8842e12f-84ab-417d-92ac-a5c99bec89c4#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-joe-biden-wuenscht-sich-pause-im-krieg-zwischen-der-hamas-und-israel](https://www.spiegel.de/ausland/gaza-joe-biden-wuenscht-sich-pause-im-krieg-zwischen-der-hamas-und-israel-a-1166d9ee-e9d9-4098-99c2-b86014cb53de#ref=rss)
+### waffenruhe
+
+* [https://www.spiegel.de/ausland/krieg-in-nahost-gaza-braucht-eine-humanitaere-waffenruhe](https://www.spiegel.de/ausland/krieg-in-nahost-gaza-braucht-eine-humanitaere-waffenruhe-a-8842e12f-84ab-417d-92ac-a5c99bec89c4#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-joe-biden-wuenscht-sich-pause-im-krieg-zwischen-der-hamas-und-israel](https://www.spiegel.de/ausland/gaza-joe-biden-wuenscht-sich-pause-im-krieg-zwischen-der-hamas-und-israel-a-1166d9ee-e9d9-4098-99c2-b86014cb53de#ref=rss)
+### lage
+
+* [https://www.spiegel.de/ausland/krieg-in-nahost-gaza-braucht-eine-humanitaere-waffenruhe](https://www.spiegel.de/ausland/krieg-in-nahost-gaza-braucht-eine-humanitaere-waffenruhe-a-8842e12f-84ab-417d-92ac-a5c99bec89c4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cybersicherheit-bsi-sieht-bedrohung-durch-cyberangriffe-so-hoch-wie-nie](https://www.spiegel.de/politik/deutschland/cybersicherheit-bsi-sieht-bedrohung-durch-cyberangriffe-so-hoch-wie-nie-a-523d577e-f7cb-4c39-b7df-9682eaf7dfa4#ref=rss)
+### gazastreifen
+
+* [https://www.spiegel.de/ausland/krieg-in-nahost-gaza-braucht-eine-humanitaere-waffenruhe](https://www.spiegel.de/ausland/krieg-in-nahost-gaza-braucht-eine-humanitaere-waffenruhe-a-8842e12f-84ab-417d-92ac-a5c99bec89c4#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-biden-fordert-pause-im-gazastreifen-um-geiseln-zu-befreien](https://www.spiegel.de/ausland/israel-gaza-news-heute-biden-fordert-pause-im-gazastreifen-um-geiseln-zu-befreien-a-e5ab7710-3409-457a-8aef-51829a60c0f1#ref=rss)
+### stärker
+
+* [https://www.spiegel.de/ausland/krieg-in-nahost-gaza-braucht-eine-humanitaere-waffenruhe](https://www.spiegel.de/ausland/krieg-in-nahost-gaza-braucht-eine-humanitaere-waffenruhe-a-8842e12f-84ab-417d-92ac-a5c99bec89c4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jens-spahn-fordert-von-olaf-scholz-abstimmungen-in-der-migrationspolitik-ohne-gruene](https://www.spiegel.de/politik/deutschland/jens-spahn-fordert-von-olaf-scholz-abstimmungen-in-der-migrationspolitik-ohne-gruene-a-10aaf413-3810-4226-9289-1a87495b7c21#ref=rss)
+### late
+
+* [https://www.spiegel.de/kultur/tv/the-late-late-show-bei-cbs-taylor-tomlinson-uebernimmt-von-james-cordon](https://www.spiegel.de/kultur/tv/the-late-late-show-bei-cbs-taylor-tomlinson-uebernimmt-von-james-cordon-a-5e25eb33-fe23-4a69-ac8d-52eed325a4cb#ref=rss)
+### cbs
+
+* [https://www.spiegel.de/kultur/tv/the-late-late-show-bei-cbs-taylor-tomlinson-uebernimmt-von-james-cordon](https://www.spiegel.de/kultur/tv/the-late-late-show-bei-cbs-taylor-tomlinson-uebernimmt-von-james-cordon-a-5e25eb33-fe23-4a69-ac8d-52eed325a4cb#ref=rss)
+### taylor
+
+* [https://www.spiegel.de/kultur/tv/the-late-late-show-bei-cbs-taylor-tomlinson-uebernimmt-von-james-cordon](https://www.spiegel.de/kultur/tv/the-late-late-show-bei-cbs-taylor-tomlinson-uebernimmt-von-james-cordon-a-5e25eb33-fe23-4a69-ac8d-52eed325a4cb#ref=rss)
+### tomlinson
+
+* [https://www.spiegel.de/kultur/tv/the-late-late-show-bei-cbs-taylor-tomlinson-uebernimmt-von-james-cordon](https://www.spiegel.de/kultur/tv/the-late-late-show-bei-cbs-taylor-tomlinson-uebernimmt-von-james-cordon-a-5e25eb33-fe23-4a69-ac8d-52eed325a4cb#ref=rss)
+### james
+
+* [https://www.spiegel.de/kultur/tv/the-late-late-show-bei-cbs-taylor-tomlinson-uebernimmt-von-james-cordon](https://www.spiegel.de/kultur/tv/the-late-late-show-bei-cbs-taylor-tomlinson-uebernimmt-von-james-cordon-a-5e25eb33-fe23-4a69-ac8d-52eed325a4cb#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-basketballstar-dennis-schroeder-fuehrt-toronto-raptors-zum-sieg-wagner-brueder-verlieren-erneut](https://www.spiegel.de/sport/basketball/nba-basketballstar-dennis-schroeder-fuehrt-toronto-raptors-zum-sieg-wagner-brueder-verlieren-erneut-a-4059f4df-ec72-4b8e-bc01-f3e4e46fb027#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/wirtschaft/soziales/arbeitsmarkt-2-6-millionen-menschen-ohne-job-herbstbelebung-bleibt-aus](https://www.spiegel.de/wirtschaft/soziales/arbeitsmarkt-2-6-millionen-menschen-ohne-job-herbstbelebung-bleibt-aus-a-9d236325-e9ae-4f4c-b672-305c0e62e23b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jens-spahn-fordert-von-olaf-scholz-abstimmungen-in-der-migrationspolitik-ohne-gruene](https://www.spiegel.de/politik/deutschland/jens-spahn-fordert-von-olaf-scholz-abstimmungen-in-der-migrationspolitik-ohne-gruene-a-10aaf413-3810-4226-9289-1a87495b7c21#ref=rss)
 ### jahr
 
-* [https://www.spiegel.de/wissenschaft/natur/wattenmeer-seehundbestand-sinkt-auf-niedrigsten-stand-seit-2010](https://www.spiegel.de/wissenschaft/natur/wattenmeer-seehundbestand-sinkt-auf-niedrigsten-stand-seit-2010-a-2db5fd0c-59b4-4719-84fb-e36df170cf2c#ref=rss)
-* [https://www.spiegel.de/panorama/halloween-2023-das-waren-die-kostueme-der-stars-und-influencer](https://www.spiegel.de/panorama/halloween-2023-das-waren-die-kostueme-der-stars-und-influencer-a-26488202-b32f-4943-98b7-c5c53b77ebd8#ref=rss)
-### obwohl
+* [https://www.spiegel.de/wirtschaft/soziales/arbeitsmarkt-2-6-millionen-menschen-ohne-job-herbstbelebung-bleibt-aus](https://www.spiegel.de/wirtschaft/soziales/arbeitsmarkt-2-6-millionen-menschen-ohne-job-herbstbelebung-bleibt-aus-a-9d236325-e9ae-4f4c-b672-305c0e62e23b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/energie-verbrauch-faellt-2023-wohl-auf-rekordtief](https://www.spiegel.de/wirtschaft/energie-verbrauch-faellt-2023-wohl-auf-rekordtief-a-058aa52a-0149-45f6-b9c3-441f9f52cc0c#ref=rss)
+### fällt
 
-* [https://www.spiegel.de/wissenschaft/natur/wattenmeer-seehundbestand-sinkt-auf-niedrigsten-stand-seit-2010](https://www.spiegel.de/wissenschaft/natur/wattenmeer-seehundbestand-sinkt-auf-niedrigsten-stand-seit-2010-a-2db5fd0c-59b4-4719-84fb-e36df170cf2c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/hallesches-ufer-in-in-berlin-kreuzberg-berlin-verzichtet-auf-gruene-uferpromenade](https://www.spiegel.de/wissenschaft/hallesches-ufer-in-in-berlin-kreuzberg-berlin-verzichtet-auf-gruene-uferpromenade-a-bb6876cd-42a9-4282-b09f-fb4ea70fa56b#ref=rss)
-### fachleute
+* [https://www.spiegel.de/wirtschaft/soziales/arbeitsmarkt-2-6-millionen-menschen-ohne-job-herbstbelebung-bleibt-aus](https://www.spiegel.de/wirtschaft/soziales/arbeitsmarkt-2-6-millionen-menschen-ohne-job-herbstbelebung-bleibt-aus-a-9d236325-e9ae-4f4c-b672-305c0e62e23b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/energie-verbrauch-faellt-2023-wohl-auf-rekordtief](https://www.spiegel.de/wirtschaft/energie-verbrauch-faellt-2023-wohl-auf-rekordtief-a-058aa52a-0149-45f6-b9c3-441f9f52cc0c#ref=rss)
+### youtube
 
-* [https://www.spiegel.de/wissenschaft/natur/wattenmeer-seehundbestand-sinkt-auf-niedrigsten-stand-seit-2010](https://www.spiegel.de/wissenschaft/natur/wattenmeer-seehundbestand-sinkt-auf-niedrigsten-stand-seit-2010-a-2db5fd0c-59b4-4719-84fb-e36df170cf2c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/spermien-beherrschen-laut-studie-verschiedene-schwimmstile](https://www.spiegel.de/wissenschaft/mensch/spermien-beherrschen-laut-studie-verschiedene-schwimmstile-a-29c1285f-5ce1-4ffa-9757-a31bda07513a#ref=rss)
-### spermien
+* [https://www.spiegel.de/netzwelt/web/youtube-geht-gegen-werbeblocker-vor-und-verteuert-sein-abo](https://www.spiegel.de/netzwelt/web/youtube-geht-gegen-werbeblocker-vor-und-verteuert-sein-abo-a-2fe07efe-bcae-4865-847a-cf5ee1419548#ref=rss)
+### nba
 
-* [https://www.spiegel.de/wissenschaft/mensch/spermien-beherrschen-laut-studie-verschiedene-schwimmstile](https://www.spiegel.de/wissenschaft/mensch/spermien-beherrschen-laut-studie-verschiedene-schwimmstile-a-29c1285f-5ce1-4ffa-9757-a31bda07513a#ref=rss)
-### studie
+* [https://www.spiegel.de/sport/basketball/nba-basketballstar-dennis-schroeder-fuehrt-toronto-raptors-zum-sieg-wagner-brueder-verlieren-erneut](https://www.spiegel.de/sport/basketball/nba-basketballstar-dennis-schroeder-fuehrt-toronto-raptors-zum-sieg-wagner-brueder-verlieren-erneut-a-4059f4df-ec72-4b8e-bc01-f3e4e46fb027#ref=rss)
+### dennis
 
-* [https://www.spiegel.de/wissenschaft/mensch/spermien-beherrschen-laut-studie-verschiedene-schwimmstile](https://www.spiegel.de/wissenschaft/mensch/spermien-beherrschen-laut-studie-verschiedene-schwimmstile-a-29c1285f-5ce1-4ffa-9757-a31bda07513a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/grossbritannien-forscher-testen-schockfotos-auf-fleischgerichten](https://www.spiegel.de/wissenschaft/mensch/grossbritannien-forscher-testen-schockfotos-auf-fleischgerichten-a-ceaf3881-914c-46ec-bd5e-142284e7fe08#ref=rss)
-### karten
+* [https://www.spiegel.de/sport/basketball/nba-basketballstar-dennis-schroeder-fuehrt-toronto-raptors-zum-sieg-wagner-brueder-verlieren-erneut](https://www.spiegel.de/sport/basketball/nba-basketballstar-dennis-schroeder-fuehrt-toronto-raptors-zum-sieg-wagner-brueder-verlieren-erneut-a-4059f4df-ec72-4b8e-bc01-f3e4e46fb027#ref=rss)
+### schröder
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-der-konflikt-mit-der-hamas-in-grafiken-und-karten](https://www.spiegel.de/ausland/israel-gaza-krieg-der-konflikt-mit-der-hamas-in-grafiken-und-karten-a-3967f2d7-9923-47e1-9eed-a09c543d24bd#ref=rss)
-### hochschule
+* [https://www.spiegel.de/sport/basketball/nba-basketballstar-dennis-schroeder-fuehrt-toronto-raptors-zum-sieg-wagner-brueder-verlieren-erneut](https://www.spiegel.de/sport/basketball/nba-basketballstar-dennis-schroeder-fuehrt-toronto-raptors-zum-sieg-wagner-brueder-verlieren-erneut-a-4059f4df-ec72-4b8e-bc01-f3e4e46fb027#ref=rss)
+### gezeigt
 
-* [https://www.spiegel.de/netzwelt/web/ransomware-hackerangriff-beeintraechtigt-teile-der-hochschule-hannover](https://www.spiegel.de/netzwelt/web/ransomware-hackerangriff-beeintraechtigt-teile-der-hochschule-hannover-a-e6247f8b-7adb-4bdd-986c-7a85068b38a3#ref=rss)
-### hannover
+* [https://www.spiegel.de/sport/basketball/nba-basketballstar-dennis-schroeder-fuehrt-toronto-raptors-zum-sieg-wagner-brueder-verlieren-erneut](https://www.spiegel.de/sport/basketball/nba-basketballstar-dennis-schroeder-fuehrt-toronto-raptors-zum-sieg-wagner-brueder-verlieren-erneut-a-4059f4df-ec72-4b8e-bc01-f3e4e46fb027#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-rede-ans-land-ueber-antisemitismus-in-deutschland](https://www.spiegel.de/politik/deutschland/robert-habeck-rede-ans-land-ueber-antisemitismus-in-deutschland-a-776476e9-ed57-44fa-8ea9-c27a1e39c29d#ref=rss)
+### zweiten
 
-* [https://www.spiegel.de/netzwelt/web/ransomware-hackerangriff-beeintraechtigt-teile-der-hochschule-hannover](https://www.spiegel.de/netzwelt/web/ransomware-hackerangriff-beeintraechtigt-teile-der-hochschule-hannover-a-e6247f8b-7adb-4bdd-986c-7a85068b38a3#ref=rss)
-### hamburg
+* [https://www.spiegel.de/sport/basketball/nba-basketballstar-dennis-schroeder-fuehrt-toronto-raptors-zum-sieg-wagner-brueder-verlieren-erneut](https://www.spiegel.de/sport/basketball/nba-basketballstar-dennis-schroeder-fuehrt-toronto-raptors-zum-sieg-wagner-brueder-verlieren-erneut-a-4059f4df-ec72-4b8e-bc01-f3e4e46fb027#ref=rss)
+* [https://www.spiegel.de/sport/tennis/tennis-ons-jabeur-spendet-fuer-palaestinenser](https://www.spiegel.de/sport/tennis/tennis-ons-jabeur-spendet-fuer-palaestinenser-a-902a60d3-e6b4-43b0-9928-d336f0512f52#ref=rss)
+### 400
 
-* [https://www.spiegel.de/panorama/justiz/hamburg-polizei-leitet-nach-halloween-krawallen-33-strafverfahren-ein](https://www.spiegel.de/panorama/justiz/hamburg-polizei-leitet-nach-halloween-krawallen-33-strafverfahren-ein-a-34e2a3bd-f242-4a25-af45-35363fa5f103#ref=rss)
-### polizei
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-biden-fordert-pause-im-gazastreifen-um-geiseln-zu-befreien](https://www.spiegel.de/ausland/israel-gaza-news-heute-biden-fordert-pause-im-gazastreifen-um-geiseln-zu-befreien-a-e5ab7710-3409-457a-8aef-51829a60c0f1#ref=rss)
+### ausländer
 
-* [https://www.spiegel.de/panorama/justiz/hamburg-polizei-leitet-nach-halloween-krawallen-33-strafverfahren-ein](https://www.spiegel.de/panorama/justiz/hamburg-polizei-leitet-nach-halloween-krawallen-33-strafverfahren-ein-a-34e2a3bd-f242-4a25-af45-35363fa5f103#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-polizei-haengt-plakate-israelischer-geiseln-ab-barbara-slowik-aeussert-bedauern](https://www.spiegel.de/panorama/justiz/berlin-polizei-haengt-plakate-israelischer-geiseln-ab-barbara-slowik-aeussert-bedauern-a-52e42a37-a6b2-43f8-8f89-099e9489dc84#ref=rss)
-### halloween
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-biden-fordert-pause-im-gazastreifen-um-geiseln-zu-befreien](https://www.spiegel.de/ausland/israel-gaza-news-heute-biden-fordert-pause-im-gazastreifen-um-geiseln-zu-befreien-a-e5ab7710-3409-457a-8aef-51829a60c0f1#ref=rss)
+### palästinenser
 
-* [https://www.spiegel.de/panorama/justiz/hamburg-polizei-leitet-nach-halloween-krawallen-33-strafverfahren-ein](https://www.spiegel.de/panorama/justiz/hamburg-polizei-leitet-nach-halloween-krawallen-33-strafverfahren-ein-a-34e2a3bd-f242-4a25-af45-35363fa5f103#ref=rss)
-* [https://www.spiegel.de/panorama/halloween-2023-das-waren-die-kostueme-der-stars-und-influencer](https://www.spiegel.de/panorama/halloween-2023-das-waren-die-kostueme-der-stars-und-influencer-a-26488202-b32f-4943-98b7-c5c53b77ebd8#ref=rss)
-### aldi
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-biden-fordert-pause-im-gazastreifen-um-geiseln-zu-befreien](https://www.spiegel.de/ausland/israel-gaza-news-heute-biden-fordert-pause-im-gazastreifen-um-geiseln-zu-befreien-a-e5ab7710-3409-457a-8aef-51829a60c0f1#ref=rss)
+* [https://www.spiegel.de/sport/tennis/tennis-ons-jabeur-spendet-fuer-palaestinenser](https://www.spiegel.de/sport/tennis/tennis-ons-jabeur-spendet-fuer-palaestinenser-a-902a60d3-e6b4-43b0-9928-d336f0512f52#ref=rss)
+### grenzübergang
 
-* [https://www.spiegel.de/wirtschaft/service/salmonellengefahr-aldi-sued-ruft-pistazien-snacks-zurueck](https://www.spiegel.de/wirtschaft/service/salmonellengefahr-aldi-sued-ruft-pistazien-snacks-zurueck-a-fd568654-a86a-42a6-893e-6e15f99e5fac#ref=rss)
-### süd
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-biden-fordert-pause-im-gazastreifen-um-geiseln-zu-befreien](https://www.spiegel.de/ausland/israel-gaza-news-heute-biden-fordert-pause-im-gazastreifen-um-geiseln-zu-befreien-a-e5ab7710-3409-457a-8aef-51829a60c0f1#ref=rss)
+* [https://www.spiegel.de/ausland/myanmar-militaer-verliert-kontrolle-ueber-grenzuebergang-zu-china](https://www.spiegel.de/ausland/myanmar-militaer-verliert-kontrolle-ueber-grenzuebergang-zu-china-a-db2b6fa7-68b1-4f4d-9535-b288dfb99def#ref=rss)
+### nicolas
 
-* [https://www.spiegel.de/wirtschaft/service/salmonellengefahr-aldi-sued-ruft-pistazien-snacks-zurueck](https://www.spiegel.de/wirtschaft/service/salmonellengefahr-aldi-sued-ruft-pistazien-snacks-zurueck-a-fd568654-a86a-42a6-893e-6e15f99e5fac#ref=rss)
-### berlin
+* [https://www.spiegel.de/panorama/leute/nicolas-cage-ueber-ki-du-kannst-nicht-unmenschlicher-sein-als-kuenstliche-intelligenz](https://www.spiegel.de/panorama/leute/nicolas-cage-ueber-ki-du-kannst-nicht-unmenschlicher-sein-als-kuenstliche-intelligenz-a-de01a1ae-dcbc-4f92-b9a7-80ddec9c8a08#ref=rss)
+### cage
 
-* [https://www.spiegel.de/panorama/justiz/berlin-polizei-haengt-plakate-israelischer-geiseln-ab-barbara-slowik-aeussert-bedauern](https://www.spiegel.de/panorama/justiz/berlin-polizei-haengt-plakate-israelischer-geiseln-ab-barbara-slowik-aeussert-bedauern-a-52e42a37-a6b2-43f8-8f89-099e9489dc84#ref=rss)
-* [https://www.spiegel.de/wissenschaft/hallesches-ufer-in-in-berlin-kreuzberg-berlin-verzichtet-auf-gruene-uferpromenade](https://www.spiegel.de/wissenschaft/hallesches-ufer-in-in-berlin-kreuzberg-berlin-verzichtet-auf-gruene-uferpromenade-a-bb6876cd-42a9-4282-b09f-fb4ea70fa56b#ref=rss)
-### plakate
+* [https://www.spiegel.de/panorama/leute/nicolas-cage-ueber-ki-du-kannst-nicht-unmenschlicher-sein-als-kuenstliche-intelligenz](https://www.spiegel.de/panorama/leute/nicolas-cage-ueber-ki-du-kannst-nicht-unmenschlicher-sein-als-kuenstliche-intelligenz-a-de01a1ae-dcbc-4f92-b9a7-80ddec9c8a08#ref=rss)
+### künstliche
 
-* [https://www.spiegel.de/panorama/justiz/berlin-polizei-haengt-plakate-israelischer-geiseln-ab-barbara-slowik-aeussert-bedauern](https://www.spiegel.de/panorama/justiz/berlin-polizei-haengt-plakate-israelischer-geiseln-ab-barbara-slowik-aeussert-bedauern-a-52e42a37-a6b2-43f8-8f89-099e9489dc84#ref=rss)
-### geiseln
+* [https://www.spiegel.de/panorama/leute/nicolas-cage-ueber-ki-du-kannst-nicht-unmenschlicher-sein-als-kuenstliche-intelligenz](https://www.spiegel.de/panorama/leute/nicolas-cage-ueber-ki-du-kannst-nicht-unmenschlicher-sein-als-kuenstliche-intelligenz-a-de01a1ae-dcbc-4f92-b9a7-80ddec9c8a08#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cybersicherheit-bsi-sieht-bedrohung-durch-cyberangriffe-so-hoch-wie-nie](https://www.spiegel.de/politik/deutschland/cybersicherheit-bsi-sieht-bedrohung-durch-cyberangriffe-so-hoch-wie-nie-a-523d577e-f7cb-4c39-b7df-9682eaf7dfa4#ref=rss)
+### viele
 
-* [https://www.spiegel.de/panorama/justiz/berlin-polizei-haengt-plakate-israelischer-geiseln-ab-barbara-slowik-aeussert-bedauern](https://www.spiegel.de/panorama/justiz/berlin-polizei-haengt-plakate-israelischer-geiseln-ab-barbara-slowik-aeussert-bedauern-a-52e42a37-a6b2-43f8-8f89-099e9489dc84#ref=rss)
-### barbara
+* [https://www.spiegel.de/panorama/leute/nicolas-cage-ueber-ki-du-kannst-nicht-unmenschlicher-sein-als-kuenstliche-intelligenz](https://www.spiegel.de/panorama/leute/nicolas-cage-ueber-ki-du-kannst-nicht-unmenschlicher-sein-als-kuenstliche-intelligenz-a-de01a1ae-dcbc-4f92-b9a7-80ddec9c8a08#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-im-sommer-profitabel-wie-nie-nachfrage-trotz-gestiegener-preise](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-im-sommer-profitabel-wie-nie-nachfrage-trotz-gestiegener-preise-a-5cc8748a-3404-44d0-a906-64d85bf12c0c#ref=rss)
+### kritisch
 
-* [https://www.spiegel.de/panorama/justiz/berlin-polizei-haengt-plakate-israelischer-geiseln-ab-barbara-slowik-aeussert-bedauern](https://www.spiegel.de/panorama/justiz/berlin-polizei-haengt-plakate-israelischer-geiseln-ab-barbara-slowik-aeussert-bedauern-a-52e42a37-a6b2-43f8-8f89-099e9489dc84#ref=rss)
-### slowik
+* [https://www.spiegel.de/panorama/leute/nicolas-cage-ueber-ki-du-kannst-nicht-unmenschlicher-sein-als-kuenstliche-intelligenz](https://www.spiegel.de/panorama/leute/nicolas-cage-ueber-ki-du-kannst-nicht-unmenschlicher-sein-als-kuenstliche-intelligenz-a-de01a1ae-dcbc-4f92-b9a7-80ddec9c8a08#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cybersicherheit-bsi-sieht-bedrohung-durch-cyberangriffe-so-hoch-wie-nie](https://www.spiegel.de/politik/deutschland/cybersicherheit-bsi-sieht-bedrohung-durch-cyberangriffe-so-hoch-wie-nie-a-523d577e-f7cb-4c39-b7df-9682eaf7dfa4#ref=rss)
+### dfbpokal
 
-* [https://www.spiegel.de/panorama/justiz/berlin-polizei-haengt-plakate-israelischer-geiseln-ab-barbara-slowik-aeussert-bedauern](https://www.spiegel.de/panorama/justiz/berlin-polizei-haengt-plakate-israelischer-geiseln-ab-barbara-slowik-aeussert-bedauern-a-52e42a37-a6b2-43f8-8f89-099e9489dc84#ref=rss)
-### durften
+* [https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-scheitert-am-fc-saarbruecken-wird-es-jetzt-eng-fuer-thomas-tuchel](https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-scheitert-am-fc-saarbruecken-wird-es-jetzt-eng-fuer-thomas-tuchel-a-ef255e32-e22c-43be-93c3-31c250551b84#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-und-seine-groessten-pleiten](https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-und-seine-groessten-pleiten-a-8c67b5fd-b3dc-4055-a4f3-ab33178638ea#ref=rss)
+### münchen
 
-* [https://www.spiegel.de/panorama/justiz/berlin-polizei-haengt-plakate-israelischer-geiseln-ab-barbara-slowik-aeussert-bedauern](https://www.spiegel.de/panorama/justiz/berlin-polizei-haengt-plakate-israelischer-geiseln-ab-barbara-slowik-aeussert-bedauern-a-52e42a37-a6b2-43f8-8f89-099e9489dc84#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/bundesregierung-verbietet-verkauf-von-himmelslaternen-nach-brand-im-krefelder-affenhaus](https://www.spiegel.de/wirtschaft/service/bundesregierung-verbietet-verkauf-von-himmelslaternen-nach-brand-im-krefelder-affenhaus-a-1871adcb-415b-4ba8-b3f6-06c7f4f9d6fa#ref=rss)
-### zeigen
+* [https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-scheitert-am-fc-saarbruecken-wird-es-jetzt-eng-fuer-thomas-tuchel](https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-scheitert-am-fc-saarbruecken-wird-es-jetzt-eng-fuer-thomas-tuchel-a-ef255e32-e22c-43be-93c3-31c250551b84#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-und-seine-groessten-pleiten](https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-und-seine-groessten-pleiten-a-8c67b5fd-b3dc-4055-a4f3-ab33178638ea#ref=rss)
+### thomas
 
-* [https://www.spiegel.de/panorama/justiz/berlin-polizei-haengt-plakate-israelischer-geiseln-ab-barbara-slowik-aeussert-bedauern](https://www.spiegel.de/panorama/justiz/berlin-polizei-haengt-plakate-israelischer-geiseln-ab-barbara-slowik-aeussert-bedauern-a-52e42a37-a6b2-43f8-8f89-099e9489dc84#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/grossbritannien-forscher-testen-schockfotos-auf-fleischgerichten](https://www.spiegel.de/wissenschaft/mensch/grossbritannien-forscher-testen-schockfotos-auf-fleischgerichten-a-ceaf3881-914c-46ec-bd5e-142284e7fe08#ref=rss)
-### kritik
+* [https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-scheitert-am-fc-saarbruecken-wird-es-jetzt-eng-fuer-thomas-tuchel](https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-scheitert-am-fc-saarbruecken-wird-es-jetzt-eng-fuer-thomas-tuchel-a-ef255e32-e22c-43be-93c3-31c250551b84#ref=rss)
+### tuchel
 
-* [https://www.spiegel.de/panorama/justiz/berlin-polizei-haengt-plakate-israelischer-geiseln-ab-barbara-slowik-aeussert-bedauern](https://www.spiegel.de/panorama/justiz/berlin-polizei-haengt-plakate-israelischer-geiseln-ab-barbara-slowik-aeussert-bedauern-a-52e42a37-a6b2-43f8-8f89-099e9489dc84#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-im-nahen-osten-was-treibt-der-hamas-terrorchef-ausgerechnet-in-katar](https://www.spiegel.de/ausland/krieg-im-nahen-osten-was-treibt-der-hamas-terrorchef-ausgerechnet-in-katar-a-cbda1306-cc32-4024-a905-90a569a31722#ref=rss)
-### katar
+* [https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-scheitert-am-fc-saarbruecken-wird-es-jetzt-eng-fuer-thomas-tuchel](https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-scheitert-am-fc-saarbruecken-wird-es-jetzt-eng-fuer-thomas-tuchel-a-ef255e32-e22c-43be-93c3-31c250551b84#ref=rss)
+### münchner
 
-* [https://www.spiegel.de/ausland/krieg-im-nahen-osten-was-treibt-der-hamas-terrorchef-ausgerechnet-in-katar](https://www.spiegel.de/ausland/krieg-im-nahen-osten-was-treibt-der-hamas-terrorchef-ausgerechnet-in-katar-a-cbda1306-cc32-4024-a905-90a569a31722#ref=rss)
-### schottland
+* [https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-scheitert-am-fc-saarbruecken-wird-es-jetzt-eng-fuer-thomas-tuchel](https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-scheitert-am-fc-saarbruecken-wird-es-jetzt-eng-fuer-thomas-tuchel-a-ef255e32-e22c-43be-93c3-31c250551b84#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-und-seine-groessten-pleiten](https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-und-seine-groessten-pleiten-a-8c67b5fd-b3dc-4055-a4f3-ab33178638ea#ref=rss)
+### ons
 
-* [https://www.spiegel.de/sport/fussball/olympia-qualifikation-im-frauenfussball-schottland-muss-gegen-england-verlieren](https://www.spiegel.de/sport/fussball/olympia-qualifikation-im-frauenfussball-schottland-muss-gegen-england-verlieren-a-3499ecbd-7aa8-4b30-be0f-269003e08208#ref=rss)
-### england
+* [https://www.spiegel.de/sport/tennis/tennis-ons-jabeur-spendet-fuer-palaestinenser](https://www.spiegel.de/sport/tennis/tennis-ons-jabeur-spendet-fuer-palaestinenser-a-902a60d3-e6b4-43b0-9928-d336f0512f52#ref=rss)
+### jabeur
 
-* [https://www.spiegel.de/sport/fussball/olympia-qualifikation-im-frauenfussball-schottland-muss-gegen-england-verlieren](https://www.spiegel.de/sport/fussball/olympia-qualifikation-im-frauenfussball-schottland-muss-gegen-england-verlieren-a-3499ecbd-7aa8-4b30-be0f-269003e08208#ref=rss)
-### meta
+* [https://www.spiegel.de/sport/tennis/tennis-ons-jabeur-spendet-fuer-palaestinenser](https://www.spiegel.de/sport/tennis/tennis-ons-jabeur-spendet-fuer-palaestinenser-a-902a60d3-e6b4-43b0-9928-d336f0512f52#ref=rss)
+### nancy
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/eu-datenschutzbehoerde-will-meta-personalisierte-werbung-verbieten](https://www.spiegel.de/netzwelt/netzpolitik/eu-datenschutzbehoerde-will-meta-personalisierte-werbung-verbieten-a-f1d42758-20b4-4799-9b40-130e6410a5a7#ref=rss)
-### werbung
+* [https://www.spiegel.de/politik/deutschland/hamas-nancy-faeser-verbietet-terrorgruppe-in-deutschland](https://www.spiegel.de/politik/deutschland/hamas-nancy-faeser-verbietet-terrorgruppe-in-deutschland-a-4273a0d7-c3da-47c6-926a-f6a8fb72408f#ref=rss)
+### faeser
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/eu-datenschutzbehoerde-will-meta-personalisierte-werbung-verbieten](https://www.spiegel.de/netzwelt/netzpolitik/eu-datenschutzbehoerde-will-meta-personalisierte-werbung-verbieten-a-f1d42758-20b4-4799-9b40-130e6410a5a7#ref=rss)
-### bundesregierung
+* [https://www.spiegel.de/politik/deutschland/hamas-nancy-faeser-verbietet-terrorgruppe-in-deutschland](https://www.spiegel.de/politik/deutschland/hamas-nancy-faeser-verbietet-terrorgruppe-in-deutschland-a-4273a0d7-c3da-47c6-926a-f6a8fb72408f#ref=rss)
+### weg
 
-* [https://www.spiegel.de/wirtschaft/service/bundesregierung-verbietet-verkauf-von-himmelslaternen-nach-brand-im-krefelder-affenhaus](https://www.spiegel.de/wirtschaft/service/bundesregierung-verbietet-verkauf-von-himmelslaternen-nach-brand-im-krefelder-affenhaus-a-1871adcb-415b-4ba8-b3f6-06c7f4f9d6fa#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/migration-kabinett-erlaubt-gefluechteten-fruehere-arbeitsaufnahme](https://www.spiegel.de/politik/deutschland/migration-kabinett-erlaubt-gefluechteten-fruehere-arbeitsaufnahme-a-3733b95a-98e0-4c5b-aca5-9f67218bb168#ref=rss)
-### himmelslaternen
+* [https://www.spiegel.de/politik/deutschland/hamas-nancy-faeser-verbietet-terrorgruppe-in-deutschland](https://www.spiegel.de/politik/deutschland/hamas-nancy-faeser-verbietet-terrorgruppe-in-deutschland-a-4273a0d7-c3da-47c6-926a-f6a8fb72408f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jens-spahn-fordert-von-olaf-scholz-abstimmungen-in-der-migrationspolitik-ohne-gruene](https://www.spiegel.de/politik/deutschland/jens-spahn-fordert-von-olaf-scholz-abstimmungen-in-der-migrationspolitik-ohne-gruene-a-10aaf413-3810-4226-9289-1a87495b7c21#ref=rss)
+### cybersicherheit
 
-* [https://www.spiegel.de/wirtschaft/service/bundesregierung-verbietet-verkauf-von-himmelslaternen-nach-brand-im-krefelder-affenhaus](https://www.spiegel.de/wirtschaft/service/bundesregierung-verbietet-verkauf-von-himmelslaternen-nach-brand-im-krefelder-affenhaus-a-1871adcb-415b-4ba8-b3f6-06c7f4f9d6fa#ref=rss)
-### ufer
+* [https://www.spiegel.de/politik/deutschland/cybersicherheit-bsi-sieht-bedrohung-durch-cyberangriffe-so-hoch-wie-nie](https://www.spiegel.de/politik/deutschland/cybersicherheit-bsi-sieht-bedrohung-durch-cyberangriffe-so-hoch-wie-nie-a-523d577e-f7cb-4c39-b7df-9682eaf7dfa4#ref=rss)
+### nie
 
-* [https://www.spiegel.de/wissenschaft/hallesches-ufer-in-in-berlin-kreuzberg-berlin-verzichtet-auf-gruene-uferpromenade](https://www.spiegel.de/wissenschaft/hallesches-ufer-in-in-berlin-kreuzberg-berlin-verzichtet-auf-gruene-uferpromenade-a-bb6876cd-42a9-4282-b09f-fb4ea70fa56b#ref=rss)
-### berlinkreuzberg
+* [https://www.spiegel.de/politik/deutschland/cybersicherheit-bsi-sieht-bedrohung-durch-cyberangriffe-so-hoch-wie-nie](https://www.spiegel.de/politik/deutschland/cybersicherheit-bsi-sieht-bedrohung-durch-cyberangriffe-so-hoch-wie-nie-a-523d577e-f7cb-4c39-b7df-9682eaf7dfa4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-im-sommer-profitabel-wie-nie-nachfrage-trotz-gestiegener-preise](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-im-sommer-profitabel-wie-nie-nachfrage-trotz-gestiegener-preise-a-5cc8748a-3404-44d0-a906-64d85bf12c0c#ref=rss)
+### weniger
 
-* [https://www.spiegel.de/wissenschaft/hallesches-ufer-in-in-berlin-kreuzberg-berlin-verzichtet-auf-gruene-uferpromenade](https://www.spiegel.de/wissenschaft/hallesches-ufer-in-in-berlin-kreuzberg-berlin-verzichtet-auf-gruene-uferpromenade-a-bb6876cd-42a9-4282-b09f-fb4ea70fa56b#ref=rss)
-### guardian
+* [https://www.spiegel.de/wirtschaft/energie-verbrauch-faellt-2023-wohl-auf-rekordtief](https://www.spiegel.de/wirtschaft/energie-verbrauch-faellt-2023-wohl-auf-rekordtief-a-058aa52a-0149-45f6-b9c3-441f9f52cc0c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/viertagewoche-koennen-wir-uns-das-leisten-podcast](https://www.spiegel.de/politik/deutschland/viertagewoche-koennen-wir-uns-das-leisten-podcast-a-6532c6b1-caa6-44bb-a67e-4ba9ee3129cf#ref=rss)
+### benjamin
 
-* [https://www.spiegel.de/netzwelt/web/guardian-microsoft-ki-platziert-geschmacklose-umfrage-neben-artikel-ueber-todesfall](https://www.spiegel.de/netzwelt/web/guardian-microsoft-ki-platziert-geschmacklose-umfrage-neben-artikel-ueber-todesfall-a-1a0baa1d-7629-489e-a633-9d03e6a792b1#ref=rss)
-### microsoft
+* [https://www.spiegel.de/ausland/joe-biden-und-benjamin-netanyahu-haertetest-fuer-eine-maennerfreundschaft](https://www.spiegel.de/ausland/joe-biden-und-benjamin-netanyahu-haertetest-fuer-eine-maennerfreundschaft-a-c8a01826-5a05-4d04-bbe5-4d707c4e896e#ref=rss)
+### netanyahu
 
-* [https://www.spiegel.de/netzwelt/web/guardian-microsoft-ki-platziert-geschmacklose-umfrage-neben-artikel-ueber-todesfall](https://www.spiegel.de/netzwelt/web/guardian-microsoft-ki-platziert-geschmacklose-umfrage-neben-artikel-ueber-todesfall-a-1a0baa1d-7629-489e-a633-9d03e6a792b1#ref=rss)
-### sack
+* [https://www.spiegel.de/ausland/joe-biden-und-benjamin-netanyahu-haertetest-fuer-eine-maennerfreundschaft](https://www.spiegel.de/ausland/joe-biden-und-benjamin-netanyahu-haertetest-fuer-eine-maennerfreundschaft-a-c8a01826-5a05-4d04-bbe5-4d707c4e896e#ref=rss)
+### uspräsident
 
-* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-kleinkind-in-sack-erstickt-zweiter-prozess-gegen-sektenmitglied-kurz-vor-abschluss](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-kleinkind-in-sack-erstickt-zweiter-prozess-gegen-sektenmitglied-kurz-vor-abschluss-a-e170867f-83b2-490c-b8be-301019a8af2c#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-und-benjamin-netanyahu-haertetest-fuer-eine-maennerfreundschaft](https://www.spiegel.de/ausland/joe-biden-und-benjamin-netanyahu-haertetest-fuer-eine-maennerfreundschaft-a-c8a01826-5a05-4d04-bbe5-4d707c4e896e#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-joe-biden-wuenscht-sich-pause-im-krieg-zwischen-der-hamas-und-israel](https://www.spiegel.de/ausland/gaza-joe-biden-wuenscht-sich-pause-im-krieg-zwischen-der-hamas-und-israel-a-1166d9ee-e9d9-4098-99c2-b86014cb53de#ref=rss)
+### hulu
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/disney-will-hulu-ganz-uebernehmen-fuer-weitere-8-6-milliarden-dollar](https://www.spiegel.de/wirtschaft/unternehmen/disney-will-hulu-ganz-uebernehmen-fuer-weitere-8-6-milliarden-dollar-a-bc49a655-861c-4ff8-97d4-b9bc7a5d6414#ref=rss)
+### verliert
+
+* [https://www.spiegel.de/ausland/myanmar-militaer-verliert-kontrolle-ueber-grenzuebergang-zu-china](https://www.spiegel.de/ausland/myanmar-militaer-verliert-kontrolle-ueber-grenzuebergang-zu-china-a-db2b6fa7-68b1-4f4d-9535-b288dfb99def#ref=rss)
+* [https://www.spiegel.de/panorama/spiegel-serie-zum-100-geburtstag-von-rudolf-augstein-1972-bis-2002](https://www.spiegel.de/panorama/spiegel-serie-zum-100-geburtstag-von-rudolf-augstein-1972-bis-2002-a-8adf41b1-d29b-4b90-b069-c66e81f5e0f3#ref=rss)
+### kontrolle
+
+* [https://www.spiegel.de/ausland/myanmar-militaer-verliert-kontrolle-ueber-grenzuebergang-zu-china](https://www.spiegel.de/ausland/myanmar-militaer-verliert-kontrolle-ueber-grenzuebergang-zu-china-a-db2b6fa7-68b1-4f4d-9535-b288dfb99def#ref=rss)
+* [https://www.spiegel.de/panorama/spiegel-serie-zum-100-geburtstag-von-rudolf-augstein-1972-bis-2002](https://www.spiegel.de/panorama/spiegel-serie-zum-100-geburtstag-von-rudolf-augstein-1972-bis-2002-a-8adf41b1-d29b-4b90-b069-c66e81f5e0f3#ref=rss)
+### china
+
+* [https://www.spiegel.de/ausland/myanmar-militaer-verliert-kontrolle-ueber-grenzuebergang-zu-china](https://www.spiegel.de/ausland/myanmar-militaer-verliert-kontrolle-ueber-grenzuebergang-zu-china-a-db2b6fa7-68b1-4f4d-9535-b288dfb99def#ref=rss)
+### lufthansa
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-im-sommer-profitabel-wie-nie-nachfrage-trotz-gestiegener-preise](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-im-sommer-profitabel-wie-nie-nachfrage-trotz-gestiegener-preise-a-5cc8748a-3404-44d0-a906-64d85bf12c0c#ref=rss)
+### spahn
+
+* [https://www.spiegel.de/politik/deutschland/jens-spahn-fordert-von-olaf-scholz-abstimmungen-in-der-migrationspolitik-ohne-gruene](https://www.spiegel.de/politik/deutschland/jens-spahn-fordert-von-olaf-scholz-abstimmungen-in-der-migrationspolitik-ohne-gruene-a-10aaf413-3810-4226-9289-1a87495b7c21#ref=rss)
+### frankreich
+
+* [https://www.spiegel.de/panorama/frankreich-und-england-orkantief-ciaran-fegt-ueber-westeuropa-hinweg](https://www.spiegel.de/panorama/frankreich-und-england-orkantief-ciaran-fegt-ueber-westeuropa-hinweg-a-96ac6765-26c2-4b3d-adff-3d0a035f2a86#ref=rss)
+### habeck
+
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-rede-ans-land-ueber-antisemitismus-in-deutschland](https://www.spiegel.de/politik/deutschland/robert-habeck-rede-ans-land-ueber-antisemitismus-in-deutschland-a-776476e9-ed57-44fa-8ea9-c27a1e39c29d#ref=rss)
+### rede
+
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-rede-ans-land-ueber-antisemitismus-in-deutschland](https://www.spiegel.de/politik/deutschland/robert-habeck-rede-ans-land-ueber-antisemitismus-in-deutschland-a-776476e9-ed57-44fa-8ea9-c27a1e39c29d#ref=rss)
+### antisemitismus
+
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-rede-ans-land-ueber-antisemitismus-in-deutschland](https://www.spiegel.de/politik/deutschland/robert-habeck-rede-ans-land-ueber-antisemitismus-in-deutschland-a-776476e9-ed57-44fa-8ea9-c27a1e39c29d#ref=rss)
+### viertagewoche
+
+* [https://www.spiegel.de/politik/deutschland/viertagewoche-koennen-wir-uns-das-leisten-podcast](https://www.spiegel.de/politik/deutschland/viertagewoche-koennen-wir-uns-das-leisten-podcast-a-6532c6b1-caa6-44bb-a67e-4ba9ee3129cf#ref=rss)
+### traum
+
+* [https://www.spiegel.de/politik/deutschland/viertagewoche-koennen-wir-uns-das-leisten-podcast](https://www.spiegel.de/politik/deutschland/viertagewoche-koennen-wir-uns-das-leisten-podcast-a-6532c6b1-caa6-44bb-a67e-4ba9ee3129cf#ref=rss)
+* [https://www.spiegel.de/panorama/spiegel-serie-zum-100-geburtstag-von-rudolf-augstein-1972-bis-2002](https://www.spiegel.de/panorama/spiegel-serie-zum-100-geburtstag-von-rudolf-augstein-1972-bis-2002-a-8adf41b1-d29b-4b90-b069-c66e81f5e0f3#ref=rss)
 
