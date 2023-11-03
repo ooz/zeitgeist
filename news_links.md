@@ -4,282 +4,338 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
+### mainz
 
-* [https://www.spiegel.de/politik/deutschland/pakt-fuer-beschleunigung-so-wollen-bund-und-laender-das-deutschlandtempo-erreichen](https://www.spiegel.de/politik/deutschland/pakt-fuer-beschleunigung-so-wollen-bund-und-laender-das-deutschlandtempo-erreichen-a-480cd19f-f400-4e48-ac1e-c7db072cc3e4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/uno-generalversammlung-warum-sich-deutschland-bei-der-gaza-resolution-enthielt](https://www.spiegel.de/politik/deutschland/uno-generalversammlung-warum-sich-deutschland-bei-der-gaza-resolution-enthielt-a-b3708b35-ef99-4edd-9166-e735cfa625f3#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-fussballprofi-mazraoui-traf-sich-mit-israelitischer-kultusgemeinde](https://www.spiegel.de/sport/fussball/fc-bayern-fussballprofi-mazraoui-traf-sich-mit-israelitischer-kultusgemeinde-a-cf937f05-eeb6-4e19-a37c-0a5cd9535c70#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/britney-spears-autobiografie-knackt-die-millionenmarke-in-der-ersten-woche](https://www.spiegel.de/kultur/literatur/britney-spears-autobiografie-knackt-die-millionenmarke-in-der-ersten-woche-a-7b078239-06ef-4fb3-8871-b78049cbb724#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/asylpolitik-wie-die-bundesregierung-die-irregulaere-migration-nach-deutschland-begrenzen-will](https://www.spiegel.de/politik/deutschland/asylpolitik-wie-die-bundesregierung-die-irregulaere-migration-nach-deutschland-begrenzen-will-a-2e07189a-56d3-4eb6-a2ab-d9827595e2a3#ref=rss)
-* [https://www.spiegel.de/stil/gourmetkueche-in-deutschland-10-wahrlich-meisterhafte-kreationen](https://www.spiegel.de/stil/gourmetkueche-in-deutschland-10-wahrlich-meisterhafte-kreationen-a-d4be981c-985b-42ab-b393-d9d28952623c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-und-die-zeitenwende-viel-angekuendigt-wenig-geliefert-leitartikel](https://www.spiegel.de/politik/deutschland/boris-pistorius-und-die-zeitenwende-viel-angekuendigt-wenig-geliefert-leitartikel-a-5b4d6fdf-74b7-4651-9ba1-ad426f06d1a9#ref=rss)
-### israel
+* [https://www.spiegel.de/sport/fussball/fussball-bundesligist-fsv-mainz-05-trennt-sich-von-anwar-el-ghazi](https://www.spiegel.de/sport/fussball/fussball-bundesligist-fsv-mainz-05-trennt-sich-von-anwar-el-ghazi-a-5dd0759a-3d96-4945-ac21-b3152a04355d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/anwar-el-ghazi-droht-dem-fussball-profi-beim-fsv-mainz-05-nun-die-kuendigung](https://www.spiegel.de/sport/fussball/anwar-el-ghazi-droht-dem-fussball-profi-beim-fsv-mainz-05-nun-die-kuendigung-a-7c5594ce-f944-4711-8401-601fca537819#ref=rss)
+* [https://www.spiegel.de/sport/fussball/anwar-el-ghazi-generalstaatsanwaltschaft-leitet-ermittlungen-gegen-fussballprofi-ein](https://www.spiegel.de/sport/fussball/anwar-el-ghazi-generalstaatsanwaltschaft-leitet-ermittlungen-gegen-fussballprofi-ein-a-0dfd9e22-4a7a-4870-8699-9e4aa785f3ea#ref=rss)
+### anwar
 
-* [https://www.spiegel.de/ausland/israel-gaza-news-heute-die-wichtigsten-entwicklungen](https://www.spiegel.de/ausland/israel-gaza-news-heute-die-wichtigsten-entwicklungen-a-a0bc230a-b8a4-44ac-8d94-4bcd4b097ce1#ref=rss)
-* [https://www.spiegel.de/geschichte/freudenhaus-preise-fuer-benzin-der-spiegel-1973](https://www.spiegel.de/geschichte/freudenhaus-preise-fuer-benzin-der-spiegel-1973-a-ce4887ff-9e39-42ee-802b-e7f8a452c882#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-trifft-merz-und-dobrindt-antony-blinken-in-israel-robert-habecks-rede](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-trifft-merz-und-dobrindt-antony-blinken-in-israel-robert-habecks-rede-a-605cd37a-ea3c-4996-80cb-bdf9c04ca0db#ref=rss)
-### gilt
+* [https://www.spiegel.de/sport/fussball/fussball-bundesligist-fsv-mainz-05-trennt-sich-von-anwar-el-ghazi](https://www.spiegel.de/sport/fussball/fussball-bundesligist-fsv-mainz-05-trennt-sich-von-anwar-el-ghazi-a-5dd0759a-3d96-4945-ac21-b3152a04355d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/anwar-el-ghazi-droht-dem-fussball-profi-beim-fsv-mainz-05-nun-die-kuendigung](https://www.spiegel.de/sport/fussball/anwar-el-ghazi-droht-dem-fussball-profi-beim-fsv-mainz-05-nun-die-kuendigung-a-7c5594ce-f944-4711-8401-601fca537819#ref=rss)
+* [https://www.spiegel.de/sport/fussball/anwar-el-ghazi-generalstaatsanwaltschaft-leitet-ermittlungen-gegen-fussballprofi-ein](https://www.spiegel.de/sport/fussball/anwar-el-ghazi-generalstaatsanwaltschaft-leitet-ermittlungen-gegen-fussballprofi-ein-a-0dfd9e22-4a7a-4870-8699-9e4aa785f3ea#ref=rss)
+### el
 
-* [https://www.spiegel.de/sport/basketball/nba-supertalent-victor-wembanyama-dominiert-dennis-schroeder-verliert](https://www.spiegel.de/sport/basketball/nba-supertalent-victor-wembanyama-dominiert-dennis-schroeder-verliert-a-95907e14-965b-4e4b-bc15-3a72677eba0c#ref=rss)
-* [https://www.spiegel.de/ausland/jet-aus-china-feuert-offenbar-taeuschkoerper-vor-kanadischem-helikopter](https://www.spiegel.de/ausland/jet-aus-china-feuert-offenbar-taeuschkoerper-vor-kanadischem-helikopter-a-ae82afa3-207f-4562-a9a8-da428c14757a#ref=rss)
-* [https://www.spiegel.de/karriere/arbeitszeiterfassung-gibt-es-bei-lehrern-ueberstunden](https://www.spiegel.de/karriere/arbeitszeiterfassung-gibt-es-bei-lehrern-ueberstunden-a-41db35ac-03f8-4d71-bd3c-6be9e0b3eb28#ref=rss)
-### mehr
+* [https://www.spiegel.de/sport/fussball/fussball-bundesligist-fsv-mainz-05-trennt-sich-von-anwar-el-ghazi](https://www.spiegel.de/sport/fussball/fussball-bundesligist-fsv-mainz-05-trennt-sich-von-anwar-el-ghazi-a-5dd0759a-3d96-4945-ac21-b3152a04355d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/anwar-el-ghazi-droht-dem-fussball-profi-beim-fsv-mainz-05-nun-die-kuendigung](https://www.spiegel.de/sport/fussball/anwar-el-ghazi-droht-dem-fussball-profi-beim-fsv-mainz-05-nun-die-kuendigung-a-7c5594ce-f944-4711-8401-601fca537819#ref=rss)
+* [https://www.spiegel.de/sport/fussball/anwar-el-ghazi-generalstaatsanwaltschaft-leitet-ermittlungen-gegen-fussballprofi-ein](https://www.spiegel.de/sport/fussball/anwar-el-ghazi-generalstaatsanwaltschaft-leitet-ermittlungen-gegen-fussballprofi-ein-a-0dfd9e22-4a7a-4870-8699-9e4aa785f3ea#ref=rss)
+### ghazi
 
-* [https://www.spiegel.de/panorama/italien-drei-tote-bei-heftigen-unwettern-in-der-toskana](https://www.spiegel.de/panorama/italien-drei-tote-bei-heftigen-unwettern-in-der-toskana-a-6b315211-5e5b-421f-b21b-359b3154ee4a#ref=rss)
-* [https://www.spiegel.de/panorama/iran-staatsmedien-melden-mehr-als-20-tote-bei-brand-in-entzugsklinik](https://www.spiegel.de/panorama/iran-staatsmedien-melden-mehr-als-20-tote-bei-brand-in-entzugsklinik-a-863b49e0-5777-48d7-932e-9cf0f640e958#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/britney-spears-autobiografie-knackt-die-millionenmarke-in-der-ersten-woche](https://www.spiegel.de/kultur/literatur/britney-spears-autobiografie-knackt-die-millionenmarke-in-der-ersten-woche-a-7b078239-06ef-4fb3-8871-b78049cbb724#ref=rss)
-### robert
+* [https://www.spiegel.de/sport/fussball/fussball-bundesligist-fsv-mainz-05-trennt-sich-von-anwar-el-ghazi](https://www.spiegel.de/sport/fussball/fussball-bundesligist-fsv-mainz-05-trennt-sich-von-anwar-el-ghazi-a-5dd0759a-3d96-4945-ac21-b3152a04355d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/anwar-el-ghazi-droht-dem-fussball-profi-beim-fsv-mainz-05-nun-die-kuendigung](https://www.spiegel.de/sport/fussball/anwar-el-ghazi-droht-dem-fussball-profi-beim-fsv-mainz-05-nun-die-kuendigung-a-7c5594ce-f944-4711-8401-601fca537819#ref=rss)
+* [https://www.spiegel.de/sport/fussball/anwar-el-ghazi-generalstaatsanwaltschaft-leitet-ermittlungen-gegen-fussballprofi-ein](https://www.spiegel.de/sport/fussball/anwar-el-ghazi-generalstaatsanwaltschaft-leitet-ermittlungen-gegen-fussballprofi-ein-a-0dfd9e22-4a7a-4870-8699-9e4aa785f3ea#ref=rss)
+### afghanistan
 
-* [https://www.spiegel.de/politik/deutschland/robert-farle-tritt-aus-afd-aus](https://www.spiegel.de/politik/deutschland/robert-farle-tritt-aus-afd-aus-a-7a9c8574-1110-488c-8758-75e3e30e7fb4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-trifft-merz-und-dobrindt-antony-blinken-in-israel-robert-habecks-rede](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-trifft-merz-und-dobrindt-antony-blinken-in-israel-robert-habecks-rede-a-605cd37a-ea3c-4996-80cb-bdf9c04ca0db#ref=rss)
-### scholz
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-chatgpt-heinrich-august-winkler-afghanistan](https://www.spiegel.de/politik/deutschland/news-des-tages-chatgpt-heinrich-august-winkler-afghanistan-a-7a97fe2d-7bfd-49e0-bf11-79853fa5ca48#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/niger-afghanistan-nahost-linke-kritisiert-rueckgang-bei-entwicklungshilfe](https://www.spiegel.de/politik/deutschland/niger-afghanistan-nahost-linke-kritisiert-rueckgang-bei-entwicklungshilfe-a-42ecd137-18ea-45e7-9060-07cadafef6ca#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-was-den-menschen-nach-ihrer-flucht-in-afghanistan-droht](https://www.spiegel.de/ausland/afghanistan-was-den-menschen-nach-ihrer-flucht-in-afghanistan-droht-a-93173597-75e4-424c-ae52-d82ffb8edeec#ref=rss)
+### droht
 
-* [https://www.spiegel.de/politik/deutschland/asylpolitik-wie-die-bundesregierung-die-irregulaere-migration-nach-deutschland-begrenzen-will](https://www.spiegel.de/politik/deutschland/asylpolitik-wie-die-bundesregierung-die-irregulaere-migration-nach-deutschland-begrenzen-will-a-2e07189a-56d3-4eb6-a2ab-d9827595e2a3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-trifft-merz-und-dobrindt-antony-blinken-in-israel-robert-habecks-rede](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-trifft-merz-und-dobrindt-antony-blinken-in-israel-robert-habecks-rede-a-605cd37a-ea3c-4996-80cb-bdf9c04ca0db#ref=rss)
-### victor
+* [https://www.spiegel.de/ausland/afghanistan-was-den-menschen-nach-ihrer-flucht-in-afghanistan-droht](https://www.spiegel.de/ausland/afghanistan-was-den-menschen-nach-ihrer-flucht-in-afghanistan-droht-a-93173597-75e4-424c-ae52-d82ffb8edeec#ref=rss)
+* [https://www.spiegel.de/sport/fussball/anwar-el-ghazi-droht-dem-fussball-profi-beim-fsv-mainz-05-nun-die-kuendigung](https://www.spiegel.de/sport/fussball/anwar-el-ghazi-droht-dem-fussball-profi-beim-fsv-mainz-05-nun-die-kuendigung-a-7c5594ce-f944-4711-8401-601fca537819#ref=rss)
+* [https://www.spiegel.de/sport/fussball/anwar-el-ghazi-generalstaatsanwaltschaft-leitet-ermittlungen-gegen-fussballprofi-ein](https://www.spiegel.de/sport/fussball/anwar-el-ghazi-generalstaatsanwaltschaft-leitet-ermittlungen-gegen-fussballprofi-ein-a-0dfd9e22-4a7a-4870-8699-9e4aa785f3ea#ref=rss)
+* [https://www.spiegel.de/panorama/masken-notreserve-des-bundes-droht-an-fehlender-rechtsgrundlage-zu-scheitern](https://www.spiegel.de/panorama/masken-notreserve-des-bundes-droht-an-fehlender-rechtsgrundlage-zu-scheitern-a-f0b2d523-587b-4db3-ba70-43d947869a76#ref=rss)
+### rudolf
 
-* [https://www.spiegel.de/sport/basketball/nba-supertalent-victor-wembanyama-dominiert-dennis-schroeder-verliert](https://www.spiegel.de/sport/basketball/nba-supertalent-victor-wembanyama-dominiert-dennis-schroeder-verliert-a-95907e14-965b-4e4b-bc15-3a72677eba0c#ref=rss)
-### wembanyama
+* [https://www.spiegel.de/panorama/rudolf-augstein-kommentar-von-2002-die-praeventiv-kriegstreiber](https://www.spiegel.de/panorama/rudolf-augstein-kommentar-von-2002-die-praeventiv-kriegstreiber-a-a86f0ee2-6e69-4a41-8703-43690ff9f6ab#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-wuerdigt-spiegel-gruender-rudolf-augstein](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-wuerdigt-spiegel-gruender-rudolf-augstein-a-aa5ea3e4-cbd7-4601-a366-9b58309389f7#ref=rss)
+* [https://www.spiegel.de/panorama/franziska-augstein-ueber-weisheiten-ihres-vaters-mache-dir-nur-dann-jemanden-zum-feind-wenn-es-absolut-noetig-ist](https://www.spiegel.de/panorama/franziska-augstein-ueber-weisheiten-ihres-vaters-mache-dir-nur-dann-jemanden-zum-feind-wenn-es-absolut-noetig-ist-a-295ea8f3-ac6a-43ab-8602-f063457859bc#ref=rss)
+### augstein
 
-* [https://www.spiegel.de/sport/basketball/nba-supertalent-victor-wembanyama-dominiert-dennis-schroeder-verliert](https://www.spiegel.de/sport/basketball/nba-supertalent-victor-wembanyama-dominiert-dennis-schroeder-verliert-a-95907e14-965b-4e4b-bc15-3a72677eba0c#ref=rss)
-### sehr
+* [https://www.spiegel.de/panorama/rudolf-augstein-kommentar-von-2002-die-praeventiv-kriegstreiber](https://www.spiegel.de/panorama/rudolf-augstein-kommentar-von-2002-die-praeventiv-kriegstreiber-a-a86f0ee2-6e69-4a41-8703-43690ff9f6ab#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-wuerdigt-spiegel-gruender-rudolf-augstein](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-wuerdigt-spiegel-gruender-rudolf-augstein-a-aa5ea3e4-cbd7-4601-a366-9b58309389f7#ref=rss)
+* [https://www.spiegel.de/panorama/franziska-augstein-ueber-weisheiten-ihres-vaters-mache-dir-nur-dann-jemanden-zum-feind-wenn-es-absolut-noetig-ist](https://www.spiegel.de/panorama/franziska-augstein-ueber-weisheiten-ihres-vaters-mache-dir-nur-dann-jemanden-zum-feind-wenn-es-absolut-noetig-ist-a-295ea8f3-ac6a-43ab-8602-f063457859bc#ref=rss)
+### fsv
 
-* [https://www.spiegel.de/ausland/israel-gaza-news-heute-die-wichtigsten-entwicklungen](https://www.spiegel.de/ausland/israel-gaza-news-heute-die-wichtigsten-entwicklungen-a-a0bc230a-b8a4-44ac-8d94-4bcd4b097ce1#ref=rss)
-### grenze
+* [https://www.spiegel.de/sport/fussball/fussball-bundesligist-fsv-mainz-05-trennt-sich-von-anwar-el-ghazi](https://www.spiegel.de/sport/fussball/fussball-bundesligist-fsv-mainz-05-trennt-sich-von-anwar-el-ghazi-a-5dd0759a-3d96-4945-ac21-b3152a04355d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/anwar-el-ghazi-droht-dem-fussball-profi-beim-fsv-mainz-05-nun-die-kuendigung](https://www.spiegel.de/sport/fussball/anwar-el-ghazi-droht-dem-fussball-profi-beim-fsv-mainz-05-nun-die-kuendigung-a-7c5594ce-f944-4711-8401-601fca537819#ref=rss)
+* [https://www.spiegel.de/sport/fussball/anwar-el-ghazi-generalstaatsanwaltschaft-leitet-ermittlungen-gegen-fussballprofi-ein](https://www.spiegel.de/sport/fussball/anwar-el-ghazi-generalstaatsanwaltschaft-leitet-ermittlungen-gegen-fussballprofi-ein-a-0dfd9e22-4a7a-4870-8699-9e4aa785f3ea#ref=rss)
+### 05
 
-* [https://www.spiegel.de/ausland/israel-gaza-news-heute-die-wichtigsten-entwicklungen](https://www.spiegel.de/ausland/israel-gaza-news-heute-die-wichtigsten-entwicklungen-a-a0bc230a-b8a4-44ac-8d94-4bcd4b097ce1#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-grenzuebergang-rafah-nach-aegypten-ich-freue-mich-nicht-einmal-gaza-zu-verlassen](https://www.spiegel.de/ausland/gaza-grenzuebergang-rafah-nach-aegypten-ich-freue-mich-nicht-einmal-gaza-zu-verlassen-a-2d5ba8ed-c548-4a69-8b2d-07823f222145#ref=rss)
-### usaußenminister
-
-* [https://www.spiegel.de/ausland/israel-gaza-news-heute-die-wichtigsten-entwicklungen](https://www.spiegel.de/ausland/israel-gaza-news-heute-die-wichtigsten-entwicklungen-a-a0bc230a-b8a4-44ac-8d94-4bcd4b097ce1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-trifft-merz-und-dobrindt-antony-blinken-in-israel-robert-habecks-rede](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-trifft-merz-und-dobrindt-antony-blinken-in-israel-robert-habecks-rede-a-605cd37a-ea3c-4996-80cb-bdf9c04ca0db#ref=rss)
-### blinken
-
-* [https://www.spiegel.de/ausland/israel-gaza-news-heute-die-wichtigsten-entwicklungen](https://www.spiegel.de/ausland/israel-gaza-news-heute-die-wichtigsten-entwicklungen-a-a0bc230a-b8a4-44ac-8d94-4bcd4b097ce1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-trifft-merz-und-dobrindt-antony-blinken-in-israel-robert-habecks-rede](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-trifft-merz-und-dobrindt-antony-blinken-in-israel-robert-habecks-rede-a-605cd37a-ea3c-4996-80cb-bdf9c04ca0db#ref=rss)
-### trifft
-
-* [https://www.spiegel.de/ausland/israel-gaza-news-heute-die-wichtigsten-entwicklungen](https://www.spiegel.de/ausland/israel-gaza-news-heute-die-wichtigsten-entwicklungen-a-a0bc230a-b8a4-44ac-8d94-4bcd4b097ce1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-trifft-merz-und-dobrindt-antony-blinken-in-israel-robert-habecks-rede](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-trifft-merz-und-dobrindt-antony-blinken-in-israel-robert-habecks-rede-a-605cd37a-ea3c-4996-80cb-bdf9c04ca0db#ref=rss)
-### news
-
-* [https://www.spiegel.de/ausland/israel-gaza-news-heute-die-wichtigsten-entwicklungen](https://www.spiegel.de/ausland/israel-gaza-news-heute-die-wichtigsten-entwicklungen-a-a0bc230a-b8a4-44ac-8d94-4bcd4b097ce1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-trifft-merz-und-dobrindt-antony-blinken-in-israel-robert-habecks-rede](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-trifft-merz-und-dobrindt-antony-blinken-in-israel-robert-habecks-rede-a-605cd37a-ea3c-4996-80cb-bdf9c04ca0db#ref=rss)
-### oxfam
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/lieferkettengesetz-oxfam-legt-beschwerde-gegen-edeka-und-rewe-ein](https://www.spiegel.de/wirtschaft/unternehmen/lieferkettengesetz-oxfam-legt-beschwerde-gegen-edeka-und-rewe-ein-a-34a1d811-119f-4190-be78-a1908ed4a8bc#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesligist-fsv-mainz-05-trennt-sich-von-anwar-el-ghazi](https://www.spiegel.de/sport/fussball/fussball-bundesligist-fsv-mainz-05-trennt-sich-von-anwar-el-ghazi-a-5dd0759a-3d96-4945-ac21-b3152a04355d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/anwar-el-ghazi-droht-dem-fussball-profi-beim-fsv-mainz-05-nun-die-kuendigung](https://www.spiegel.de/sport/fussball/anwar-el-ghazi-droht-dem-fussball-profi-beim-fsv-mainz-05-nun-die-kuendigung-a-7c5594ce-f944-4711-8401-601fca537819#ref=rss)
 ### deutsche
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/lieferkettengesetz-oxfam-legt-beschwerde-gegen-edeka-und-rewe-ein](https://www.spiegel.de/wirtschaft/unternehmen/lieferkettengesetz-oxfam-legt-beschwerde-gegen-edeka-und-rewe-ein-a-34a1d811-119f-4190-be78-a1908ed4a8bc#ref=rss)
-* [https://www.spiegel.de/geschichte/freudenhaus-preise-fuer-benzin-der-spiegel-1973](https://www.spiegel.de/geschichte/freudenhaus-preise-fuer-benzin-der-spiegel-1973-a-ce4887ff-9e39-42ee-802b-e7f8a452c882#ref=rss)
-### setzen
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-die-wichtigsten-entwicklungen](https://www.spiegel.de/ausland/israel-gaza-news-heute-die-wichtigsten-entwicklungen-a-a0bc230a-b8a4-44ac-8d94-4bcd4b097ce1#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-was-den-menschen-nach-ihrer-flucht-in-afghanistan-droht](https://www.spiegel.de/ausland/afghanistan-was-den-menschen-nach-ihrer-flucht-in-afghanistan-droht-a-93173597-75e4-424c-ae52-d82ffb8edeec#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/internet-in-deutschland-kabel-internet-macht-mehr-aerger-als-dsl-oder-glasfaser](https://www.spiegel.de/netzwelt/web/internet-in-deutschland-kabel-internet-macht-mehr-aerger-als-dsl-oder-glasfaser-a-93342321-af31-48b4-b5ba-759a085ab5aa#ref=rss)
+### bundesregierung
 
-* [https://www.spiegel.de/psychologie/einsamkeit-ueberwinden-so-setzen-sie-sich-ziele-und-schaffen-es-sie-zu-erreichen](https://www.spiegel.de/psychologie/einsamkeit-ueberwinden-so-setzen-sie-sich-ziele-und-schaffen-es-sie-zu-erreichen-a-dab08d19-946c-49c9-9b43-c0ed8aad0c69#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-die-schuldenbremse-hat-eine-hoehere-weisheit-gastbeitrag](https://www.spiegel.de/politik/deutschland/christian-lindner-die-schuldenbremse-hat-eine-hoehere-weisheit-gastbeitrag-a-cc56978a-8702-4094-9b27-df0da7fd8550#ref=rss)
-### erreichen
+* [https://www.spiegel.de/politik/deutschland/niger-afghanistan-nahost-linke-kritisiert-rueckgang-bei-entwicklungshilfe](https://www.spiegel.de/politik/deutschland/niger-afghanistan-nahost-linke-kritisiert-rueckgang-bei-entwicklungshilfe-a-42ecd137-18ea-45e7-9060-07cadafef6ca#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/umweltministerin-steffi-lemke-besucht-china-reise-mit-risiko](https://www.spiegel.de/politik/deutschland/umweltministerin-steffi-lemke-besucht-china-reise-mit-risiko-a-bdb853eb-c9f1-47b1-a102-ce0fa0efc677#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/lobbyregister-union-wirft-bundesregierung-schlamperei-vor](https://www.spiegel.de/politik/deutschland/lobbyregister-union-wirft-bundesregierung-schlamperei-vor-a-0e006f8e-737a-4bd8-9e0d-e39438411d45#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/psychologie/einsamkeit-ueberwinden-so-setzen-sie-sich-ziele-und-schaffen-es-sie-zu-erreichen](https://www.spiegel.de/psychologie/einsamkeit-ueberwinden-so-setzen-sie-sich-ziele-und-schaffen-es-sie-zu-erreichen-a-dab08d19-946c-49c9-9b43-c0ed8aad0c69#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/pakt-fuer-beschleunigung-so-wollen-bund-und-laender-das-deutschlandtempo-erreichen](https://www.spiegel.de/politik/deutschland/pakt-fuer-beschleunigung-so-wollen-bund-und-laender-das-deutschlandtempo-erreichen-a-480cd19f-f400-4e48-ac1e-c7db072cc3e4#ref=rss)
-### etwas
+* [https://www.spiegel.de/ausland/afghanistan-was-den-menschen-nach-ihrer-flucht-in-afghanistan-droht](https://www.spiegel.de/ausland/afghanistan-was-den-menschen-nach-ihrer-flucht-in-afghanistan-droht-a-93173597-75e4-424c-ae52-d82ffb8edeec#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/ratten-koennen-objekte-im-raum-bewegen-mit-ihren-gedanken](https://www.spiegel.de/wissenschaft/natur/ratten-koennen-objekte-im-raum-bewegen-mit-ihren-gedanken-a-18f21e9c-37db-4af6-8b98-8751c6d4e7d1#ref=rss)
+* [https://www.spiegel.de/panorama/oesterreich-vier-menschen-sterben-bei-absturz-von-kleinflugzeug](https://www.spiegel.de/panorama/oesterreich-vier-menschen-sterben-bei-absturz-von-kleinflugzeug-a-8571a7d3-10aa-42e8-82b4-357bdb61cdef#ref=rss)
+### italien
 
-* [https://www.spiegel.de/psychologie/einsamkeit-ueberwinden-so-setzen-sie-sich-ziele-und-schaffen-es-sie-zu-erreichen](https://www.spiegel.de/psychologie/einsamkeit-ueberwinden-so-setzen-sie-sich-ziele-und-schaffen-es-sie-zu-erreichen-a-dab08d19-946c-49c9-9b43-c0ed8aad0c69#ref=rss)
-* [https://www.spiegel.de/panorama/100-jahre-rudolf-augstein-der-erste-spiegel-debuet-mit-hut](https://www.spiegel.de/panorama/100-jahre-rudolf-augstein-der-erste-spiegel-debuet-mit-hut-a-7a97bd65-a19c-49ce-baeb-f7d11f04faa8#ref=rss)
-### zunächst
+* [https://www.spiegel.de/ausland/italien-meloni-berater-tritt-nach-fake-anruf-mit-russischem-komiker-zurueck](https://www.spiegel.de/ausland/italien-meloni-berater-tritt-nach-fake-anruf-mit-russischem-komiker-zurueck-a-7f53c602-c220-4432-8d63-bbcb7e92b9ff#ref=rss)
+* [https://www.spiegel.de/panorama/schwere-unwetter-in-italien-feuerwehr-rettet-touristen](https://www.spiegel.de/panorama/schwere-unwetter-in-italien-feuerwehr-rettet-touristen-a-b3c3c217-3745-4b20-9f3b-8462ecf65368#ref=rss)
+### treffen
 
-* [https://www.spiegel.de/psychologie/einsamkeit-ueberwinden-so-setzen-sie-sich-ziele-und-schaffen-es-sie-zu-erreichen](https://www.spiegel.de/psychologie/einsamkeit-ueberwinden-so-setzen-sie-sich-ziele-und-schaffen-es-sie-zu-erreichen-a-dab08d19-946c-49c9-9b43-c0ed8aad0c69#ref=rss)
-* [https://www.spiegel.de/sport/american-football/nfl-football-profi-treylon-burks-bleibt-nach-sturz-zunaechst-regungslos-liegen](https://www.spiegel.de/sport/american-football/nfl-football-profi-treylon-burks-bleibt-nach-sturz-zunaechst-regungslos-liegen-a-18fc0da9-9736-45b4-bb1e-0eb54786e87e#ref=rss)
-### sam
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-treffen-mit-friedrich-merz-und-alexander-dobrindt-zu-migrationspolitik](https://www.spiegel.de/politik/deutschland/olaf-scholz-treffen-mit-friedrich-merz-und-alexander-dobrindt-zu-migrationspolitik-a-248b94cd-43f2-4f4d-8e97-b3a428ae88eb#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bruchsal-flucht-bei-bewachtem-ausflug-die-wichtigsten-fragen](https://www.spiegel.de/panorama/justiz/bruchsal-flucht-bei-bewachtem-ausflug-die-wichtigsten-fragen-a-69050c3a-a848-43bb-91b9-dd102f9d2ec6#ref=rss)
+### alexander
 
-* [https://www.spiegel.de/wirtschaft/sam-bankman-fried-urteil-gegen-krypto-guru-sieben-mal-schuldig](https://www.spiegel.de/wirtschaft/sam-bankman-fried-urteil-gegen-krypto-guru-sieben-mal-schuldig-a-279e9139-2b2d-4ca1-aa91-aac95697fdc9#ref=rss)
-### bankmanfried
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-treffen-mit-friedrich-merz-und-alexander-dobrindt-zu-migrationspolitik](https://www.spiegel.de/politik/deutschland/olaf-scholz-treffen-mit-friedrich-merz-und-alexander-dobrindt-zu-migrationspolitik-a-248b94cd-43f2-4f4d-8e97-b3a428ae88eb#ref=rss)
+* [https://www.spiegel.de/panorama/leute/alexander-zverev-liess-ex-freundin-brenda-patea-offenbar-verschwiegenheitsvertrag-vorlegen](https://www.spiegel.de/panorama/leute/alexander-zverev-liess-ex-freundin-brenda-patea-offenbar-verschwiegenheitsvertrag-vorlegen-a-6f59b34e-d90c-481d-a058-9ccda8a41c1a#ref=rss)
+### union
 
-* [https://www.spiegel.de/wirtschaft/sam-bankman-fried-urteil-gegen-krypto-guru-sieben-mal-schuldig](https://www.spiegel.de/wirtschaft/sam-bankman-fried-urteil-gegen-krypto-guru-sieben-mal-schuldig-a-279e9139-2b2d-4ca1-aa91-aac95697fdc9#ref=rss)
-### kryptoguru
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-treffen-mit-friedrich-merz-und-alexander-dobrindt-zu-migrationspolitik](https://www.spiegel.de/politik/deutschland/olaf-scholz-treffen-mit-friedrich-merz-und-alexander-dobrindt-zu-migrationspolitik-a-248b94cd-43f2-4f4d-8e97-b3a428ae88eb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/lobbyregister-union-wirft-bundesregierung-schlamperei-vor](https://www.spiegel.de/politik/deutschland/lobbyregister-union-wirft-bundesregierung-schlamperei-vor-a-0e006f8e-737a-4bd8-9e0d-e39438411d45#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/wirtschaft/sam-bankman-fried-urteil-gegen-krypto-guru-sieben-mal-schuldig](https://www.spiegel.de/wirtschaft/sam-bankman-fried-urteil-gegen-krypto-guru-sieben-mal-schuldig-a-279e9139-2b2d-4ca1-aa91-aac95697fdc9#ref=rss)
-### schuldig
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-die-wichtigsten-entwicklungen](https://www.spiegel.de/ausland/israel-gaza-news-heute-die-wichtigsten-entwicklungen-a-a0bc230a-b8a4-44ac-8d94-4bcd4b097ce1#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/internet-in-deutschland-kabel-internet-macht-mehr-aerger-als-dsl-oder-glasfaser](https://www.spiegel.de/netzwelt/web/internet-in-deutschland-kabel-internet-macht-mehr-aerger-als-dsl-oder-glasfaser-a-93342321-af31-48b4-b5ba-759a085ab5aa#ref=rss)
+### ich
 
-* [https://www.spiegel.de/wirtschaft/sam-bankman-fried-urteil-gegen-krypto-guru-sieben-mal-schuldig](https://www.spiegel.de/wirtschaft/sam-bankman-fried-urteil-gegen-krypto-guru-sieben-mal-schuldig-a-279e9139-2b2d-4ca1-aa91-aac95697fdc9#ref=rss)
-### entschieden
+* [https://www.spiegel.de/kultur/neues-album-von-rammstein-saenger-till-lindemann-die-bauchhaut-glaenzt-im-sonnenschein](https://www.spiegel.de/kultur/neues-album-von-rammstein-saenger-till-lindemann-die-bauchhaut-glaenzt-im-sonnenschein-a-386eafcf-86f5-4481-8ba5-4ecdb9ab4a79#ref=rss)
+* [https://www.spiegel.de/panorama/franziska-augstein-ueber-weisheiten-ihres-vaters-mache-dir-nur-dann-jemanden-zum-feind-wenn-es-absolut-noetig-ist](https://www.spiegel.de/panorama/franziska-augstein-ueber-weisheiten-ihres-vaters-mache-dir-nur-dann-jemanden-zum-feind-wenn-es-absolut-noetig-ist-a-295ea8f3-ac6a-43ab-8602-f063457859bc#ref=rss)
+### flucht
 
-* [https://www.spiegel.de/wirtschaft/sam-bankman-fried-urteil-gegen-krypto-guru-sieben-mal-schuldig](https://www.spiegel.de/wirtschaft/sam-bankman-fried-urteil-gegen-krypto-guru-sieben-mal-schuldig-a-279e9139-2b2d-4ca1-aa91-aac95697fdc9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/uno-generalversammlung-warum-sich-deutschland-bei-der-gaza-resolution-enthielt](https://www.spiegel.de/politik/deutschland/uno-generalversammlung-warum-sich-deutschland-bei-der-gaza-resolution-enthielt-a-b3708b35-ef99-4edd-9166-e735cfa625f3#ref=rss)
-### jahre
+* [https://www.spiegel.de/panorama/justiz/bruchsal-flucht-bei-bewachtem-ausflug-die-wichtigsten-fragen](https://www.spiegel.de/panorama/justiz/bruchsal-flucht-bei-bewachtem-ausflug-die-wichtigsten-fragen-a-69050c3a-a848-43bb-91b9-dd102f9d2ec6#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-was-den-menschen-nach-ihrer-flucht-in-afghanistan-droht](https://www.spiegel.de/ausland/afghanistan-was-den-menschen-nach-ihrer-flucht-in-afghanistan-droht-a-93173597-75e4-424c-ae52-d82ffb8edeec#ref=rss)
+### sollte
 
-* [https://www.spiegel.de/wirtschaft/sam-bankman-fried-urteil-gegen-krypto-guru-sieben-mal-schuldig](https://www.spiegel.de/wirtschaft/sam-bankman-fried-urteil-gegen-krypto-guru-sieben-mal-schuldig-a-279e9139-2b2d-4ca1-aa91-aac95697fdc9#ref=rss)
-* [https://www.spiegel.de/panorama/100-jahre-rudolf-augstein-der-erste-spiegel-debuet-mit-hut](https://www.spiegel.de/panorama/100-jahre-rudolf-augstein-der-erste-spiegel-debuet-mit-hut-a-7a97bd65-a19c-49ce-baeb-f7d11f04faa8#ref=rss)
-### china
+* [https://www.spiegel.de/panorama/justiz/bruchsal-flucht-bei-bewachtem-ausflug-die-wichtigsten-fragen](https://www.spiegel.de/panorama/justiz/bruchsal-flucht-bei-bewachtem-ausflug-die-wichtigsten-fragen-a-69050c3a-a848-43bb-91b9-dd102f9d2ec6#ref=rss)
+* [https://www.spiegel.de/sport/fussball/anwar-el-ghazi-droht-dem-fussball-profi-beim-fsv-mainz-05-nun-die-kuendigung](https://www.spiegel.de/sport/fussball/anwar-el-ghazi-droht-dem-fussball-profi-beim-fsv-mainz-05-nun-die-kuendigung-a-7c5594ce-f944-4711-8401-601fca537819#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/kohleausstieg-rwe-chef-markus-krebber-kritisiert-christian-lindners-zweifel](https://www.spiegel.de/wirtschaft/unternehmen/kohleausstieg-rwe-chef-markus-krebber-kritisiert-christian-lindners-zweifel-a-174c367c-eef6-4817-bd47-17f201479064#ref=rss)
+### linke
 
-* [https://www.spiegel.de/ausland/jet-aus-china-feuert-offenbar-taeuschkoerper-vor-kanadischem-helikopter](https://www.spiegel.de/ausland/jet-aus-china-feuert-offenbar-taeuschkoerper-vor-kanadischem-helikopter-a-ae82afa3-207f-4562-a9a8-da428c14757a#ref=rss)
-### offenbar
+* [https://www.spiegel.de/politik/deutschland/niger-afghanistan-nahost-linke-kritisiert-rueckgang-bei-entwicklungshilfe](https://www.spiegel.de/politik/deutschland/niger-afghanistan-nahost-linke-kritisiert-rueckgang-bei-entwicklungshilfe-a-42ecd137-18ea-45e7-9060-07cadafef6ca#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/hans-georg-maassen-innenministerium-verweigert-auskunft-ueber-ex-verfassungsschutzpraesident](https://www.spiegel.de/politik/deutschland/hans-georg-maassen-innenministerium-verweigert-auskunft-ueber-ex-verfassungsschutzpraesident-a-5fc25a9d-f553-4dd9-a142-ada63e0c9838#ref=rss)
+### kritisiert
 
-* [https://www.spiegel.de/ausland/jet-aus-china-feuert-offenbar-taeuschkoerper-vor-kanadischem-helikopter](https://www.spiegel.de/ausland/jet-aus-china-feuert-offenbar-taeuschkoerper-vor-kanadischem-helikopter-a-ae82afa3-207f-4562-a9a8-da428c14757a#ref=rss)
-* [https://www.spiegel.de/panorama/iran-staatsmedien-melden-mehr-als-20-tote-bei-brand-in-entzugsklinik](https://www.spiegel.de/panorama/iran-staatsmedien-melden-mehr-als-20-tote-bei-brand-in-entzugsklinik-a-863b49e0-5777-48d7-932e-9cf0f640e958#ref=rss)
-### laut
+* [https://www.spiegel.de/politik/deutschland/niger-afghanistan-nahost-linke-kritisiert-rueckgang-bei-entwicklungshilfe](https://www.spiegel.de/politik/deutschland/niger-afghanistan-nahost-linke-kritisiert-rueckgang-bei-entwicklungshilfe-a-42ecd137-18ea-45e7-9060-07cadafef6ca#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/kohleausstieg-rwe-chef-markus-krebber-kritisiert-christian-lindners-zweifel](https://www.spiegel.de/wirtschaft/unternehmen/kohleausstieg-rwe-chef-markus-krebber-kritisiert-christian-lindners-zweifel-a-174c367c-eef6-4817-bd47-17f201479064#ref=rss)
+### fußballprofi
 
-* [https://www.spiegel.de/ausland/jet-aus-china-feuert-offenbar-taeuschkoerper-vor-kanadischem-helikopter](https://www.spiegel.de/ausland/jet-aus-china-feuert-offenbar-taeuschkoerper-vor-kanadischem-helikopter-a-ae82afa3-207f-4562-a9a8-da428c14757a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/twitter-elon-musk-anwaelte-sollen-sich-mit-us-boersenaufsicht-angelegt-haben](https://www.spiegel.de/wirtschaft/unternehmen/twitter-elon-musk-anwaelte-sollen-sich-mit-us-boersenaufsicht-angelegt-haben-a-a7f43cf0-f857-464d-9955-7f41927bc14f#ref=rss)
-### bund
-
-* [https://www.spiegel.de/politik/deutschland/pakt-fuer-beschleunigung-so-wollen-bund-und-laender-das-deutschlandtempo-erreichen](https://www.spiegel.de/politik/deutschland/pakt-fuer-beschleunigung-so-wollen-bund-und-laender-das-deutschlandtempo-erreichen-a-480cd19f-f400-4e48-ac1e-c7db072cc3e4#ref=rss)
-### länder
-
-* [https://www.spiegel.de/politik/deutschland/pakt-fuer-beschleunigung-so-wollen-bund-und-laender-das-deutschlandtempo-erreichen](https://www.spiegel.de/politik/deutschland/pakt-fuer-beschleunigung-so-wollen-bund-und-laender-das-deutschlandtempo-erreichen-a-480cd19f-f400-4e48-ac1e-c7db072cc3e4#ref=rss)
-### nfl
-
-* [https://www.spiegel.de/sport/american-football/nfl-football-profi-treylon-burks-bleibt-nach-sturz-zunaechst-regungslos-liegen](https://www.spiegel.de/sport/american-football/nfl-football-profi-treylon-burks-bleibt-nach-sturz-zunaechst-regungslos-liegen-a-18fc0da9-9736-45b4-bb1e-0eb54786e87e#ref=rss)
-### treylon
-
-* [https://www.spiegel.de/sport/american-football/nfl-football-profi-treylon-burks-bleibt-nach-sturz-zunaechst-regungslos-liegen](https://www.spiegel.de/sport/american-football/nfl-football-profi-treylon-burks-bleibt-nach-sturz-zunaechst-regungslos-liegen-a-18fc0da9-9736-45b4-bb1e-0eb54786e87e#ref=rss)
-### burks
-
-* [https://www.spiegel.de/sport/american-football/nfl-football-profi-treylon-burks-bleibt-nach-sturz-zunaechst-regungslos-liegen](https://www.spiegel.de/sport/american-football/nfl-football-profi-treylon-burks-bleibt-nach-sturz-zunaechst-regungslos-liegen-a-18fc0da9-9736-45b4-bb1e-0eb54786e87e#ref=rss)
-### liegen
-
-* [https://www.spiegel.de/sport/american-football/nfl-football-profi-treylon-burks-bleibt-nach-sturz-zunaechst-regungslos-liegen](https://www.spiegel.de/sport/american-football/nfl-football-profi-treylon-burks-bleibt-nach-sturz-zunaechst-regungslos-liegen-a-18fc0da9-9736-45b4-bb1e-0eb54786e87e#ref=rss)
-### pass
-
-* [https://www.spiegel.de/sport/american-football/nfl-football-profi-treylon-burks-bleibt-nach-sturz-zunaechst-regungslos-liegen](https://www.spiegel.de/sport/american-football/nfl-football-profi-treylon-burks-bleibt-nach-sturz-zunaechst-regungslos-liegen-a-18fc0da9-9736-45b4-bb1e-0eb54786e87e#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-grenzuebergang-rafah-nach-aegypten-ich-freue-mich-nicht-einmal-gaza-zu-verlassen](https://www.spiegel.de/ausland/gaza-grenzuebergang-rafah-nach-aegypten-ich-freue-mich-nicht-einmal-gaza-zu-verlassen-a-2d5ba8ed-c548-4a69-8b2d-07823f222145#ref=rss)
-### tote
-
-* [https://www.spiegel.de/panorama/italien-drei-tote-bei-heftigen-unwettern-in-der-toskana](https://www.spiegel.de/panorama/italien-drei-tote-bei-heftigen-unwettern-in-der-toskana-a-6b315211-5e5b-421f-b21b-359b3154ee4a#ref=rss)
-* [https://www.spiegel.de/panorama/iran-staatsmedien-melden-mehr-als-20-tote-bei-brand-in-entzugsklinik](https://www.spiegel.de/panorama/iran-staatsmedien-melden-mehr-als-20-tote-bei-brand-in-entzugsklinik-a-863b49e0-5777-48d7-932e-9cf0f640e958#ref=rss)
-### toskana
-
-* [https://www.spiegel.de/panorama/italien-drei-tote-bei-heftigen-unwettern-in-der-toskana](https://www.spiegel.de/panorama/italien-drei-tote-bei-heftigen-unwettern-in-der-toskana-a-6b315211-5e5b-421f-b21b-359b3154ee4a#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/robert-farle-tritt-aus-afd-aus](https://www.spiegel.de/politik/deutschland/robert-farle-tritt-aus-afd-aus-a-7a9c8574-1110-488c-8758-75e3e30e7fb4#ref=rss)
-### farle
-
-* [https://www.spiegel.de/politik/deutschland/robert-farle-tritt-aus-afd-aus](https://www.spiegel.de/politik/deutschland/robert-farle-tritt-aus-afd-aus-a-7a9c8574-1110-488c-8758-75e3e30e7fb4#ref=rss)
-### polen
-
-* [https://www.spiegel.de/wirtschaft/elf-tage-wartezeit-fuer-lkw-wuergen-polens-grenzer-die-ukrainische-wirtschaft-ab](https://www.spiegel.de/wirtschaft/elf-tage-wartezeit-fuer-lkw-wuergen-polens-grenzer-die-ukrainische-wirtschaft-ab-a-8cb0675b-8fc5-43f7-ad9b-9cccd0991d46#ref=rss)
-### grenzer
-
-* [https://www.spiegel.de/wirtschaft/elf-tage-wartezeit-fuer-lkw-wuergen-polens-grenzer-die-ukrainische-wirtschaft-ab](https://www.spiegel.de/wirtschaft/elf-tage-wartezeit-fuer-lkw-wuergen-polens-grenzer-die-ukrainische-wirtschaft-ab-a-8cb0675b-8fc5-43f7-ad9b-9cccd0991d46#ref=rss)
-### wirtschaft
-
-* [https://www.spiegel.de/wirtschaft/elf-tage-wartezeit-fuer-lkw-wuergen-polens-grenzer-die-ukrainische-wirtschaft-ab](https://www.spiegel.de/wirtschaft/elf-tage-wartezeit-fuer-lkw-wuergen-polens-grenzer-die-ukrainische-wirtschaft-ab-a-8cb0675b-8fc5-43f7-ad9b-9cccd0991d46#ref=rss)
-* [https://www.spiegel.de/geschichte/freudenhaus-preise-fuer-benzin-der-spiegel-1973](https://www.spiegel.de/geschichte/freudenhaus-preise-fuer-benzin-der-spiegel-1973-a-ce4887ff-9e39-42ee-802b-e7f8a452c882#ref=rss)
-### unternehmen
-
-* [https://www.spiegel.de/wirtschaft/elf-tage-wartezeit-fuer-lkw-wuergen-polens-grenzer-die-ukrainische-wirtschaft-ab](https://www.spiegel.de/wirtschaft/elf-tage-wartezeit-fuer-lkw-wuergen-polens-grenzer-die-ukrainische-wirtschaft-ab-a-8cb0675b-8fc5-43f7-ad9b-9cccd0991d46#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/apple-blickt-zurueckhaltend-aufs-weihnachtsgeschaeft](https://www.spiegel.de/wirtschaft/unternehmen/apple-blickt-zurueckhaltend-aufs-weihnachtsgeschaeft-a-46d7ed3a-e4d4-4ffe-9900-8becd02f9ad9#ref=rss)
-### gazaresolution
-
-* [https://www.spiegel.de/politik/deutschland/uno-generalversammlung-warum-sich-deutschland-bei-der-gaza-resolution-enthielt](https://www.spiegel.de/politik/deutschland/uno-generalversammlung-warum-sich-deutschland-bei-der-gaza-resolution-enthielt-a-b3708b35-ef99-4edd-9166-e735cfa625f3#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/politik/deutschland/uno-generalversammlung-warum-sich-deutschland-bei-der-gaza-resolution-enthielt](https://www.spiegel.de/politik/deutschland/uno-generalversammlung-warum-sich-deutschland-bei-der-gaza-resolution-enthielt-a-b3708b35-ef99-4edd-9166-e735cfa625f3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-und-die-zeitenwende-viel-angekuendigt-wenig-geliefert-leitartikel](https://www.spiegel.de/politik/deutschland/boris-pistorius-und-die-zeitenwende-viel-angekuendigt-wenig-geliefert-leitartikel-a-5b4d6fdf-74b7-4651-9ba1-ad426f06d1a9#ref=rss)
-### brand
-
-* [https://www.spiegel.de/panorama/iran-staatsmedien-melden-mehr-als-20-tote-bei-brand-in-entzugsklinik](https://www.spiegel.de/panorama/iran-staatsmedien-melden-mehr-als-20-tote-bei-brand-in-entzugsklinik-a-863b49e0-5777-48d7-932e-9cf0f640e958#ref=rss)
-### entzugsklinik
-
-* [https://www.spiegel.de/panorama/iran-staatsmedien-melden-mehr-als-20-tote-bei-brand-in-entzugsklinik](https://www.spiegel.de/panorama/iran-staatsmedien-melden-mehr-als-20-tote-bei-brand-in-entzugsklinik-a-863b49e0-5777-48d7-932e-9cf0f640e958#ref=rss)
-### leben
-
-* [https://www.spiegel.de/panorama/iran-staatsmedien-melden-mehr-als-20-tote-bei-brand-in-entzugsklinik](https://www.spiegel.de/panorama/iran-staatsmedien-melden-mehr-als-20-tote-bei-brand-in-entzugsklinik-a-863b49e0-5777-48d7-932e-9cf0f640e958#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/britney-spears-autobiografie-knackt-die-millionenmarke-in-der-ersten-woche](https://www.spiegel.de/kultur/literatur/britney-spears-autobiografie-knackt-die-millionenmarke-in-der-ersten-woche-a-7b078239-06ef-4fb3-8871-b78049cbb724#ref=rss)
-### apple
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/apple-blickt-zurueckhaltend-aufs-weihnachtsgeschaeft](https://www.spiegel.de/wirtschaft/unternehmen/apple-blickt-zurueckhaltend-aufs-weihnachtsgeschaeft-a-46d7ed3a-e4d4-4ffe-9900-8becd02f9ad9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/anwar-el-ghazi-droht-dem-fussball-profi-beim-fsv-mainz-05-nun-die-kuendigung](https://www.spiegel.de/sport/fussball/anwar-el-ghazi-droht-dem-fussball-profi-beim-fsv-mainz-05-nun-die-kuendigung-a-7c5594ce-f944-4711-8401-601fca537819#ref=rss)
+* [https://www.spiegel.de/sport/fussball/anwar-el-ghazi-generalstaatsanwaltschaft-leitet-ermittlungen-gegen-fussballprofi-ein](https://www.spiegel.de/sport/fussball/anwar-el-ghazi-generalstaatsanwaltschaft-leitet-ermittlungen-gegen-fussballprofi-ein-a-0dfd9e22-4a7a-4870-8699-9e4aa785f3ea#ref=rss)
 ### neue
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/apple-blickt-zurueckhaltend-aufs-weihnachtsgeschaeft](https://www.spiegel.de/wirtschaft/unternehmen/apple-blickt-zurueckhaltend-aufs-weihnachtsgeschaeft-a-46d7ed3a-e4d4-4ffe-9900-8becd02f9ad9#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/predator-files-spionage-per-dankeskarte](https://www.spiegel.de/netzwelt/netzpolitik/predator-files-spionage-per-dankeskarte-a-b83646d6-dbd4-4cda-a086-84cc85888957#ref=rss)
-### bayern
+* [https://www.spiegel.de/kultur/modedesignerin-phoebe-philo-neue-kollektion-neue-art-von-greenwashing](https://www.spiegel.de/kultur/modedesignerin-phoebe-philo-neue-kollektion-neue-art-von-greenwashing-a-128111c8-483c-4402-bac4-b77b6df9ee6b#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/elon-musk-will-erste-ki-seiner-firma-xai-vorstellen](https://www.spiegel.de/netzwelt/web/elon-musk-will-erste-ki-seiner-firma-xai-vorstellen-a-64db12c7-f673-4f9b-af03-aa6fa8f96ff4#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-fussballprofi-mazraoui-traf-sich-mit-israelitischer-kultusgemeinde](https://www.spiegel.de/sport/fussball/fc-bayern-fussballprofi-mazraoui-traf-sich-mit-israelitischer-kultusgemeinde-a-cf937f05-eeb6-4e19-a37c-0a5cd9535c70#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-trifft-merz-und-dobrindt-antony-blinken-in-israel-robert-habecks-rede](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-trifft-merz-und-dobrindt-antony-blinken-in-israel-robert-habecks-rede-a-605cd37a-ea3c-4996-80cb-bdf9c04ca0db#ref=rss)
-### noussair
+* [https://www.spiegel.de/panorama/leute/alexander-zverev-liess-ex-freundin-brenda-patea-offenbar-verschwiegenheitsvertrag-vorlegen](https://www.spiegel.de/panorama/leute/alexander-zverev-liess-ex-freundin-brenda-patea-offenbar-verschwiegenheitsvertrag-vorlegen-a-6f59b34e-d90c-481d-a058-9ccda8a41c1a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/anwar-el-ghazi-generalstaatsanwaltschaft-leitet-ermittlungen-gegen-fussballprofi-ein](https://www.spiegel.de/sport/fussball/anwar-el-ghazi-generalstaatsanwaltschaft-leitet-ermittlungen-gegen-fussballprofi-ein-a-0dfd9e22-4a7a-4870-8699-9e4aa785f3ea#ref=rss)
+### leben
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-fussballprofi-mazraoui-traf-sich-mit-israelitischer-kultusgemeinde](https://www.spiegel.de/sport/fussball/fc-bayern-fussballprofi-mazraoui-traf-sich-mit-israelitischer-kultusgemeinde-a-cf937f05-eeb6-4e19-a37c-0a5cd9535c70#ref=rss)
-### mazraoui
+* [https://www.spiegel.de/panorama/franziska-augstein-ueber-weisheiten-ihres-vaters-mache-dir-nur-dann-jemanden-zum-feind-wenn-es-absolut-noetig-ist](https://www.spiegel.de/panorama/franziska-augstein-ueber-weisheiten-ihres-vaters-mache-dir-nur-dann-jemanden-zum-feind-wenn-es-absolut-noetig-ist-a-295ea8f3-ac6a-43ab-8602-f063457859bc#ref=rss)
+* [https://www.spiegel.de/panorama/oesterreich-vier-menschen-sterben-bei-absturz-von-kleinflugzeug](https://www.spiegel.de/panorama/oesterreich-vier-menschen-sterben-bei-absturz-von-kleinflugzeug-a-8571a7d3-10aa-42e8-82b4-357bdb61cdef#ref=rss)
+### 2002
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-fussballprofi-mazraoui-traf-sich-mit-israelitischer-kultusgemeinde](https://www.spiegel.de/sport/fussball/fc-bayern-fussballprofi-mazraoui-traf-sich-mit-israelitischer-kultusgemeinde-a-cf937f05-eeb6-4e19-a37c-0a5cd9535c70#ref=rss)
-### kultusgemeinde
+* [https://www.spiegel.de/panorama/rudolf-augstein-kommentar-von-2002-die-praeventiv-kriegstreiber](https://www.spiegel.de/panorama/rudolf-augstein-kommentar-von-2002-die-praeventiv-kriegstreiber-a-a86f0ee2-6e69-4a41-8703-43690ff9f6ab#ref=rss)
+### august
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-fussballprofi-mazraoui-traf-sich-mit-israelitischer-kultusgemeinde](https://www.spiegel.de/sport/fussball/fc-bayern-fussballprofi-mazraoui-traf-sich-mit-israelitischer-kultusgemeinde-a-cf937f05-eeb6-4e19-a37c-0a5cd9535c70#ref=rss)
-### per
+* [https://www.spiegel.de/panorama/rudolf-augstein-kommentar-von-2002-die-praeventiv-kriegstreiber](https://www.spiegel.de/panorama/rudolf-augstein-kommentar-von-2002-die-praeventiv-kriegstreiber-a-a86f0ee2-6e69-4a41-8703-43690ff9f6ab#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-chatgpt-heinrich-august-winkler-afghanistan](https://www.spiegel.de/politik/deutschland/news-des-tages-chatgpt-heinrich-august-winkler-afghanistan-a-7a97fe2d-7bfd-49e0-bf11-79853fa5ca48#ref=rss)
+### news
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/predator-files-spionage-per-dankeskarte](https://www.spiegel.de/netzwelt/netzpolitik/predator-files-spionage-per-dankeskarte-a-b83646d6-dbd4-4cda-a086-84cc85888957#ref=rss)
-* [https://www.spiegel.de/geschichte/freudenhaus-preise-fuer-benzin-der-spiegel-1973](https://www.spiegel.de/geschichte/freudenhaus-preise-fuer-benzin-der-spiegel-1973-a-ce4887ff-9e39-42ee-802b-e7f8a452c882#ref=rss)
-### britney
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-chatgpt-heinrich-august-winkler-afghanistan](https://www.spiegel.de/politik/deutschland/news-des-tages-chatgpt-heinrich-august-winkler-afghanistan-a-7a97fe2d-7bfd-49e0-bf11-79853fa5ca48#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-die-wichtigsten-entwicklungen](https://www.spiegel.de/ausland/israel-gaza-news-heute-die-wichtigsten-entwicklungen-a-a0bc230a-b8a4-44ac-8d94-4bcd4b097ce1#ref=rss)
+### wandert
 
-* [https://www.spiegel.de/kultur/literatur/britney-spears-autobiografie-knackt-die-millionenmarke-in-der-ersten-woche](https://www.spiegel.de/kultur/literatur/britney-spears-autobiografie-knackt-die-millionenmarke-in-der-ersten-woche-a-7b078239-06ef-4fb3-8871-b78049cbb724#ref=rss)
-### spears
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-chatgpt-heinrich-august-winkler-afghanistan](https://www.spiegel.de/politik/deutschland/news-des-tages-chatgpt-heinrich-august-winkler-afghanistan-a-7a97fe2d-7bfd-49e0-bf11-79853fa5ca48#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/kultur/literatur/britney-spears-autobiografie-knackt-die-millionenmarke-in-der-ersten-woche](https://www.spiegel.de/kultur/literatur/britney-spears-autobiografie-knackt-die-millionenmarke-in-der-ersten-woche-a-7b078239-06ef-4fb3-8871-b78049cbb724#ref=rss)
-### usa
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-chatgpt-heinrich-august-winkler-afghanistan](https://www.spiegel.de/politik/deutschland/news-des-tages-chatgpt-heinrich-august-winkler-afghanistan-a-7a97fe2d-7bfd-49e0-bf11-79853fa5ca48#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/internet-in-deutschland-kabel-internet-macht-mehr-aerger-als-dsl-oder-glasfaser](https://www.spiegel.de/netzwelt/web/internet-in-deutschland-kabel-internet-macht-mehr-aerger-als-dsl-oder-glasfaser-a-93342321-af31-48b4-b5ba-759a085ab5aa#ref=rss)
+### pakistan
 
-* [https://www.spiegel.de/kultur/literatur/britney-spears-autobiografie-knackt-die-millionenmarke-in-der-ersten-woche](https://www.spiegel.de/kultur/literatur/britney-spears-autobiografie-knackt-die-millionenmarke-in-der-ersten-woche-a-7b078239-06ef-4fb3-8871-b78049cbb724#ref=rss)
-* [https://www.spiegel.de/ausland/us-repraesentantenhaus-geht-auf-konfrontation-zum-senat-bei-israel-hilfen](https://www.spiegel.de/ausland/us-repraesentantenhaus-geht-auf-konfrontation-zum-senat-bei-israel-hilfen-a-bc5d7405-08c2-454e-99d4-f53eca54f19c#ref=rss)
-### spiegel
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-chatgpt-heinrich-august-winkler-afghanistan](https://www.spiegel.de/politik/deutschland/news-des-tages-chatgpt-heinrich-august-winkler-afghanistan-a-7a97fe2d-7bfd-49e0-bf11-79853fa5ca48#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-was-den-menschen-nach-ihrer-flucht-in-afghanistan-droht](https://www.spiegel.de/ausland/afghanistan-was-den-menschen-nach-ihrer-flucht-in-afghanistan-droht-a-93173597-75e4-424c-ae52-d82ffb8edeec#ref=rss)
+### fußballbundesligist
 
-* [https://www.spiegel.de/geschichte/freudenhaus-preise-fuer-benzin-der-spiegel-1973](https://www.spiegel.de/geschichte/freudenhaus-preise-fuer-benzin-der-spiegel-1973-a-ce4887ff-9e39-42ee-802b-e7f8a452c882#ref=rss)
-* [https://www.spiegel.de/panorama/100-jahre-rudolf-augstein-der-erste-spiegel-debuet-mit-hut](https://www.spiegel.de/panorama/100-jahre-rudolf-augstein-der-erste-spiegel-debuet-mit-hut-a-7a97bd65-a19c-49ce-baeb-f7d11f04faa8#ref=rss)
-### 1973
+* [https://www.spiegel.de/sport/fussball/fussball-bundesligist-fsv-mainz-05-trennt-sich-von-anwar-el-ghazi](https://www.spiegel.de/sport/fussball/fussball-bundesligist-fsv-mainz-05-trennt-sich-von-anwar-el-ghazi-a-5dd0759a-3d96-4945-ac21-b3152a04355d#ref=rss)
+### trennt
 
-* [https://www.spiegel.de/geschichte/freudenhaus-preise-fuer-benzin-der-spiegel-1973](https://www.spiegel.de/geschichte/freudenhaus-preise-fuer-benzin-der-spiegel-1973-a-ce4887ff-9e39-42ee-802b-e7f8a452c882#ref=rss)
-### twitter
+* [https://www.spiegel.de/sport/fussball/fussball-bundesligist-fsv-mainz-05-trennt-sich-von-anwar-el-ghazi](https://www.spiegel.de/sport/fussball/fussball-bundesligist-fsv-mainz-05-trennt-sich-von-anwar-el-ghazi-a-5dd0759a-3d96-4945-ac21-b3152a04355d#ref=rss)
+### medien
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/twitter-elon-musk-anwaelte-sollen-sich-mit-us-boersenaufsicht-angelegt-haben](https://www.spiegel.de/wirtschaft/unternehmen/twitter-elon-musk-anwaelte-sollen-sich-mit-us-boersenaufsicht-angelegt-haben-a-a7f43cf0-f857-464d-9955-7f41927bc14f#ref=rss)
-### usbörsenaufsicht
+* [https://www.spiegel.de/sport/fussball/fussball-bundesligist-fsv-mainz-05-trennt-sich-von-anwar-el-ghazi](https://www.spiegel.de/sport/fussball/fussball-bundesligist-fsv-mainz-05-trennt-sich-von-anwar-el-ghazi-a-5dd0759a-3d96-4945-ac21-b3152a04355d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-wuerdigt-spiegel-gruender-rudolf-augstein](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-wuerdigt-spiegel-gruender-rudolf-augstein-a-aa5ea3e4-cbd7-4601-a366-9b58309389f7#ref=rss)
+### zurück
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/twitter-elon-musk-anwaelte-sollen-sich-mit-us-boersenaufsicht-angelegt-haben](https://www.spiegel.de/wirtschaft/unternehmen/twitter-elon-musk-anwaelte-sollen-sich-mit-us-boersenaufsicht-angelegt-haben-a-a7f43cf0-f857-464d-9955-7f41927bc14f#ref=rss)
-### neuseeland
+* [https://www.spiegel.de/ausland/italien-meloni-berater-tritt-nach-fake-anruf-mit-russischem-komiker-zurueck](https://www.spiegel.de/ausland/italien-meloni-berater-tritt-nach-fake-anruf-mit-russischem-komiker-zurueck-a-7f53c602-c220-4432-8d63-bbcb7e92b9ff#ref=rss)
+* [https://www.spiegel.de/kultur/neues-album-von-rammstein-saenger-till-lindemann-die-bauchhaut-glaenzt-im-sonnenschein](https://www.spiegel.de/kultur/neues-album-von-rammstein-saenger-till-lindemann-die-bauchhaut-glaenzt-im-sonnenschein-a-386eafcf-86f5-4481-8ba5-4ecdb9ab4a79#ref=rss)
+### scholz
 
-* [https://www.spiegel.de/ausland/neuseeland-neues-wahlergebnis-konservatives-buendnis-doch-ohne-mehrheit](https://www.spiegel.de/ausland/neuseeland-neues-wahlergebnis-konservatives-buendnis-doch-ohne-mehrheit-a-6b27f92c-136e-4f6d-a27a-b233854ffd3d#ref=rss)
-### wahlergebnis
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-treffen-mit-friedrich-merz-und-alexander-dobrindt-zu-migrationspolitik](https://www.spiegel.de/politik/deutschland/olaf-scholz-treffen-mit-friedrich-merz-und-alexander-dobrindt-zu-migrationspolitik-a-248b94cd-43f2-4f4d-8e97-b3a428ae88eb#ref=rss)
+### merz
 
-* [https://www.spiegel.de/ausland/neuseeland-neues-wahlergebnis-konservatives-buendnis-doch-ohne-mehrheit](https://www.spiegel.de/ausland/neuseeland-neues-wahlergebnis-konservatives-buendnis-doch-ohne-mehrheit-a-6b27f92c-136e-4f6d-a27a-b233854ffd3d#ref=rss)
-### bündnis
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-treffen-mit-friedrich-merz-und-alexander-dobrindt-zu-migrationspolitik](https://www.spiegel.de/politik/deutschland/olaf-scholz-treffen-mit-friedrich-merz-und-alexander-dobrindt-zu-migrationspolitik-a-248b94cd-43f2-4f4d-8e97-b3a428ae88eb#ref=rss)
+### dobrindt
 
-* [https://www.spiegel.de/ausland/neuseeland-neues-wahlergebnis-konservatives-buendnis-doch-ohne-mehrheit](https://www.spiegel.de/ausland/neuseeland-neues-wahlergebnis-konservatives-buendnis-doch-ohne-mehrheit-a-6b27f92c-136e-4f6d-a27a-b233854ffd3d#ref=rss)
-### pablo
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-treffen-mit-friedrich-merz-und-alexander-dobrindt-zu-migrationspolitik](https://www.spiegel.de/politik/deutschland/olaf-scholz-treffen-mit-friedrich-merz-und-alexander-dobrindt-zu-migrationspolitik-a-248b94cd-43f2-4f4d-8e97-b3a428ae88eb#ref=rss)
+### migrationspolitik
 
-* [https://www.spiegel.de/panorama/kolumbien-will-escobars-kokain-hippos-sterilisieren-lassen-flusspferde-als-invasive-art](https://www.spiegel.de/panorama/kolumbien-will-escobars-kokain-hippos-sterilisieren-lassen-flusspferde-als-invasive-art-a-2a9c8c79-6231-4c26-97cf-d668dc57e8ec#ref=rss)
-### escobar
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-treffen-mit-friedrich-merz-und-alexander-dobrindt-zu-migrationspolitik](https://www.spiegel.de/politik/deutschland/olaf-scholz-treffen-mit-friedrich-merz-und-alexander-dobrindt-zu-migrationspolitik-a-248b94cd-43f2-4f4d-8e97-b3a428ae88eb#ref=rss)
+### kurz
 
-* [https://www.spiegel.de/panorama/kolumbien-will-escobars-kokain-hippos-sterilisieren-lassen-flusspferde-als-invasive-art](https://www.spiegel.de/panorama/kolumbien-will-escobars-kokain-hippos-sterilisieren-lassen-flusspferde-als-invasive-art-a-2a9c8c79-6231-4c26-97cf-d668dc57e8ec#ref=rss)
-### kolumbien
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-treffen-mit-friedrich-merz-und-alexander-dobrindt-zu-migrationspolitik](https://www.spiegel.de/politik/deutschland/olaf-scholz-treffen-mit-friedrich-merz-und-alexander-dobrindt-zu-migrationspolitik-a-248b94cd-43f2-4f4d-8e97-b3a428ae88eb#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bruchsal-flucht-bei-bewachtem-ausflug-die-wichtigsten-fragen](https://www.spiegel.de/panorama/justiz/bruchsal-flucht-bei-bewachtem-ausflug-die-wichtigsten-fragen-a-69050c3a-a848-43bb-91b9-dd102f9d2ec6#ref=rss)
+### 30
 
-* [https://www.spiegel.de/panorama/kolumbien-will-escobars-kokain-hippos-sterilisieren-lassen-flusspferde-als-invasive-art](https://www.spiegel.de/panorama/kolumbien-will-escobars-kokain-hippos-sterilisieren-lassen-flusspferde-als-invasive-art-a-2a9c8c79-6231-4c26-97cf-d668dc57e8ec#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-die-wichtigsten-entwicklungen](https://www.spiegel.de/ausland/israel-gaza-news-heute-die-wichtigsten-entwicklungen-a-a0bc230a-b8a4-44ac-8d94-4bcd4b097ce1#ref=rss)
+### gazastreifen
+
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-die-wichtigsten-entwicklungen](https://www.spiegel.de/ausland/israel-gaza-news-heute-die-wichtigsten-entwicklungen-a-a0bc230a-b8a4-44ac-8d94-4bcd4b097ce1#ref=rss)
+### getroffen
+
+* [https://www.spiegel.de/panorama/itzehoe-lok-und-ic-kollidieren-im-bahnhof-16-verletzte](https://www.spiegel.de/panorama/itzehoe-lok-und-ic-kollidieren-im-bahnhof-16-verletzte-a-10202081-3e9a-4394-802a-f7200d393dd3#ref=rss)
+* [https://www.spiegel.de/panorama/schwere-unwetter-in-italien-feuerwehr-rettet-touristen](https://www.spiegel.de/panorama/schwere-unwetter-in-italien-feuerwehr-rettet-touristen-a-b3c3c217-3745-4b20-9f3b-8462ecf65368#ref=rss)
+### hätte
+
+* [https://www.spiegel.de/panorama/itzehoe-lok-und-ic-kollidieren-im-bahnhof-16-verletzte](https://www.spiegel.de/panorama/itzehoe-lok-und-ic-kollidieren-im-bahnhof-16-verletzte-a-10202081-3e9a-4394-802a-f7200d393dd3#ref=rss)
+* [https://www.spiegel.de/kultur/neues-album-von-rammstein-saenger-till-lindemann-die-bauchhaut-glaenzt-im-sonnenschein](https://www.spiegel.de/kultur/neues-album-von-rammstein-saenger-till-lindemann-die-bauchhaut-glaenzt-im-sonnenschein-a-386eafcf-86f5-4481-8ba5-4ecdb9ab4a79#ref=rss)
+### kommen
+
+* [https://www.spiegel.de/panorama/itzehoe-lok-und-ic-kollidieren-im-bahnhof-16-verletzte](https://www.spiegel.de/panorama/itzehoe-lok-und-ic-kollidieren-im-bahnhof-16-verletzte-a-10202081-3e9a-4394-802a-f7200d393dd3#ref=rss)
+* [https://www.spiegel.de/panorama/oesterreich-vier-menschen-sterben-bei-absturz-von-kleinflugzeug](https://www.spiegel.de/panorama/oesterreich-vier-menschen-sterben-bei-absturz-von-kleinflugzeug-a-8571a7d3-10aa-42e8-82b4-357bdb61cdef#ref=rss)
+### till
+
+* [https://www.spiegel.de/kultur/neues-album-von-rammstein-saenger-till-lindemann-die-bauchhaut-glaenzt-im-sonnenschein](https://www.spiegel.de/kultur/neues-album-von-rammstein-saenger-till-lindemann-die-bauchhaut-glaenzt-im-sonnenschein-a-386eafcf-86f5-4481-8ba5-4ecdb9ab4a79#ref=rss)
+### lindemann
+
+* [https://www.spiegel.de/kultur/neues-album-von-rammstein-saenger-till-lindemann-die-bauchhaut-glaenzt-im-sonnenschein](https://www.spiegel.de/kultur/neues-album-von-rammstein-saenger-till-lindemann-die-bauchhaut-glaenzt-im-sonnenschein-a-386eafcf-86f5-4481-8ba5-4ecdb9ab4a79#ref=rss)
+### mich
+
+* [https://www.spiegel.de/kultur/neues-album-von-rammstein-saenger-till-lindemann-die-bauchhaut-glaenzt-im-sonnenschein](https://www.spiegel.de/kultur/neues-album-von-rammstein-saenger-till-lindemann-die-bauchhaut-glaenzt-im-sonnenschein-a-386eafcf-86f5-4481-8ba5-4ecdb9ab4a79#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/kultur/neues-album-von-rammstein-saenger-till-lindemann-die-bauchhaut-glaenzt-im-sonnenschein](https://www.spiegel.de/kultur/neues-album-von-rammstein-saenger-till-lindemann-die-bauchhaut-glaenzt-im-sonnenschein-a-386eafcf-86f5-4481-8ba5-4ecdb9ab4a79#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/lobbyregister-union-wirft-bundesregierung-schlamperei-vor](https://www.spiegel.de/politik/deutschland/lobbyregister-union-wirft-bundesregierung-schlamperei-vor-a-0e006f8e-737a-4bd8-9e0d-e39438411d45#ref=rss)
+### spiegelgründer
+
+* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-wuerdigt-spiegel-gruender-rudolf-augstein](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-wuerdigt-spiegel-gruender-rudolf-augstein-a-aa5ea3e4-cbd7-4601-a366-9b58309389f7#ref=rss)
+### schwere
+
+* [https://www.spiegel.de/panorama/schwere-unwetter-in-italien-feuerwehr-rettet-touristen](https://www.spiegel.de/panorama/schwere-unwetter-in-italien-feuerwehr-rettet-touristen-a-b3c3c217-3745-4b20-9f3b-8462ecf65368#ref=rss)
+* [https://www.spiegel.de/panorama/leute/alexander-zverev-liess-ex-freundin-brenda-patea-offenbar-verschwiegenheitsvertrag-vorlegen](https://www.spiegel.de/panorama/leute/alexander-zverev-liess-ex-freundin-brenda-patea-offenbar-verschwiegenheitsvertrag-vorlegen-a-6f59b34e-d90c-481d-a058-9ccda8a41c1a#ref=rss)
+### unwetter
+
+* [https://www.spiegel.de/panorama/schwere-unwetter-in-italien-feuerwehr-rettet-touristen](https://www.spiegel.de/panorama/schwere-unwetter-in-italien-feuerwehr-rettet-touristen-a-b3c3c217-3745-4b20-9f3b-8462ecf65368#ref=rss)
+### feuerwehr
+
+* [https://www.spiegel.de/panorama/schwere-unwetter-in-italien-feuerwehr-rettet-touristen](https://www.spiegel.de/panorama/schwere-unwetter-in-italien-feuerwehr-rettet-touristen-a-b3c3c217-3745-4b20-9f3b-8462ecf65368#ref=rss)
+### hart
+
+* [https://www.spiegel.de/panorama/schwere-unwetter-in-italien-feuerwehr-rettet-touristen](https://www.spiegel.de/panorama/schwere-unwetter-in-italien-feuerwehr-rettet-touristen-a-b3c3c217-3745-4b20-9f3b-8462ecf65368#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/ver-di-kuendigt-massive-warnstreiks-im-oeffentlichen-dienst-an](https://www.spiegel.de/wirtschaft/soziales/ver-di-kuendigt-massive-warnstreiks-im-oeffentlichen-dienst-an-a-e67eec80-0d7a-4455-ab19-42dcad14f9c1#ref=rss)
+### entwicklungshilfe
+
+* [https://www.spiegel.de/politik/deutschland/niger-afghanistan-nahost-linke-kritisiert-rueckgang-bei-entwicklungshilfe](https://www.spiegel.de/politik/deutschland/niger-afghanistan-nahost-linke-kritisiert-rueckgang-bei-entwicklungshilfe-a-42ecd137-18ea-45e7-9060-07cadafef6ca#ref=rss)
+### öffentlichen
+
+* [https://www.spiegel.de/wirtschaft/soziales/ver-di-kuendigt-massive-warnstreiks-im-oeffentlichen-dienst-an](https://www.spiegel.de/wirtschaft/soziales/ver-di-kuendigt-massive-warnstreiks-im-oeffentlichen-dienst-an-a-e67eec80-0d7a-4455-ab19-42dcad14f9c1#ref=rss)
+### dienst
+
+* [https://www.spiegel.de/wirtschaft/soziales/ver-di-kuendigt-massive-warnstreiks-im-oeffentlichen-dienst-an](https://www.spiegel.de/wirtschaft/soziales/ver-di-kuendigt-massive-warnstreiks-im-oeffentlichen-dienst-an-a-e67eec80-0d7a-4455-ab19-42dcad14f9c1#ref=rss)
+### später
+
+* [https://www.spiegel.de/sport/fussball/anwar-el-ghazi-droht-dem-fussball-profi-beim-fsv-mainz-05-nun-die-kuendigung](https://www.spiegel.de/sport/fussball/anwar-el-ghazi-droht-dem-fussball-profi-beim-fsv-mainz-05-nun-die-kuendigung-a-7c5594ce-f944-4711-8401-601fca537819#ref=rss)
+* [https://www.spiegel.de/panorama/leute/alexander-zverev-liess-ex-freundin-brenda-patea-offenbar-verschwiegenheitsvertrag-vorlegen](https://www.spiegel.de/panorama/leute/alexander-zverev-liess-ex-freundin-brenda-patea-offenbar-verschwiegenheitsvertrag-vorlegen-a-6f59b34e-d90c-481d-a058-9ccda8a41c1a#ref=rss)
+### ratten
+
+* [https://www.spiegel.de/wissenschaft/natur/ratten-koennen-objekte-im-raum-bewegen-mit-ihren-gedanken](https://www.spiegel.de/wissenschaft/natur/ratten-koennen-objekte-im-raum-bewegen-mit-ihren-gedanken-a-18f21e9c-37db-4af6-8b98-8751c6d4e7d1#ref=rss)
+### maschine
+
+* [https://www.spiegel.de/wissenschaft/natur/ratten-koennen-objekte-im-raum-bewegen-mit-ihren-gedanken](https://www.spiegel.de/wissenschaft/natur/ratten-koennen-objekte-im-raum-bewegen-mit-ihren-gedanken-a-18f21e9c-37db-4af6-8b98-8751c6d4e7d1#ref=rss)
+* [https://www.spiegel.de/panorama/oesterreich-vier-menschen-sterben-bei-absturz-von-kleinflugzeug](https://www.spiegel.de/panorama/oesterreich-vier-menschen-sterben-bei-absturz-von-kleinflugzeug-a-8571a7d3-10aa-42e8-82b4-357bdb61cdef#ref=rss)
+### vorstellen
+
+* [https://www.spiegel.de/wissenschaft/natur/ratten-koennen-objekte-im-raum-bewegen-mit-ihren-gedanken](https://www.spiegel.de/wissenschaft/natur/ratten-koennen-objekte-im-raum-bewegen-mit-ihren-gedanken-a-18f21e9c-37db-4af6-8b98-8751c6d4e7d1#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/elon-musk-will-erste-ki-seiner-firma-xai-vorstellen](https://www.spiegel.de/netzwelt/web/elon-musk-will-erste-ki-seiner-firma-xai-vorstellen-a-64db12c7-f673-4f9b-af03-aa6fa8f96ff4#ref=rss)
+### phoebe
+
+* [https://www.spiegel.de/kultur/modedesignerin-phoebe-philo-neue-kollektion-neue-art-von-greenwashing](https://www.spiegel.de/kultur/modedesignerin-phoebe-philo-neue-kollektion-neue-art-von-greenwashing-a-128111c8-483c-4402-bac4-b77b6df9ee6b#ref=rss)
+### philo
+
+* [https://www.spiegel.de/kultur/modedesignerin-phoebe-philo-neue-kollektion-neue-art-von-greenwashing](https://www.spiegel.de/kultur/modedesignerin-phoebe-philo-neue-kollektion-neue-art-von-greenwashing-a-128111c8-483c-4402-bac4-b77b6df9ee6b#ref=rss)
+### kollektion
+
+* [https://www.spiegel.de/kultur/modedesignerin-phoebe-philo-neue-kollektion-neue-art-von-greenwashing](https://www.spiegel.de/kultur/modedesignerin-phoebe-philo-neue-kollektion-neue-art-von-greenwashing-a-128111c8-483c-4402-bac4-b77b6df9ee6b#ref=rss)
+### unter
+
+* [https://www.spiegel.de/kultur/modedesignerin-phoebe-philo-neue-kollektion-neue-art-von-greenwashing](https://www.spiegel.de/kultur/modedesignerin-phoebe-philo-neue-kollektion-neue-art-von-greenwashing-a-128111c8-483c-4402-bac4-b77b6df9ee6b#ref=rss)
+* [https://www.spiegel.de/panorama/oesterreich-vier-menschen-sterben-bei-absturz-von-kleinflugzeug](https://www.spiegel.de/panorama/oesterreich-vier-menschen-sterben-bei-absturz-von-kleinflugzeug-a-8571a7d3-10aa-42e8-82b4-357bdb61cdef#ref=rss)
+### zverev
+
+* [https://www.spiegel.de/panorama/leute/alexander-zverev-liess-ex-freundin-brenda-patea-offenbar-verschwiegenheitsvertrag-vorlegen](https://www.spiegel.de/panorama/leute/alexander-zverev-liess-ex-freundin-brenda-patea-offenbar-verschwiegenheitsvertrag-vorlegen-a-6f59b34e-d90c-481d-a058-9ccda8a41c1a#ref=rss)
+### wem
+
+* [https://www.spiegel.de/sport/fussball/fussball-quiz-wem-gelang-die-mutter-aller-pokalsensationen](https://www.spiegel.de/sport/fussball/fussball-quiz-wem-gelang-die-mutter-aller-pokalsensationen-a-72eeefd9-d816-4fbd-a4ab-f184ab241fc6#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/elon-musk-will-erste-ki-seiner-firma-xai-vorstellen](https://www.spiegel.de/netzwelt/web/elon-musk-will-erste-ki-seiner-firma-xai-vorstellen-a-64db12c7-f673-4f9b-af03-aa6fa8f96ff4#ref=rss)
+### klub
+
+* [https://www.spiegel.de/sport/fussball/fussball-quiz-wem-gelang-die-mutter-aller-pokalsensationen](https://www.spiegel.de/sport/fussball/fussball-quiz-wem-gelang-die-mutter-aller-pokalsensationen-a-72eeefd9-d816-4fbd-a4ab-f184ab241fc6#ref=rss)
+* [https://www.spiegel.de/sport/fussball/anwar-el-ghazi-generalstaatsanwaltschaft-leitet-ermittlungen-gegen-fussballprofi-ein](https://www.spiegel.de/sport/fussball/anwar-el-ghazi-generalstaatsanwaltschaft-leitet-ermittlungen-gegen-fussballprofi-ein-a-0dfd9e22-4a7a-4870-8699-9e4aa785f3ea#ref=rss)
+### großen
+
+* [https://www.spiegel.de/sport/fussball/fussball-quiz-wem-gelang-die-mutter-aller-pokalsensationen](https://www.spiegel.de/sport/fussball/fussball-quiz-wem-gelang-die-mutter-aller-pokalsensationen-a-72eeefd9-d816-4fbd-a4ab-f184ab241fc6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/hans-georg-maassen-innenministerium-verweigert-auskunft-ueber-ex-verfassungsschutzpraesident](https://www.spiegel.de/politik/deutschland/hans-georg-maassen-innenministerium-verweigert-auskunft-ueber-ex-verfassungsschutzpraesident-a-5fc25a9d-f553-4dd9-a142-ada63e0c9838#ref=rss)
+### rwe
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/kohleausstieg-rwe-chef-markus-krebber-kritisiert-christian-lindners-zweifel](https://www.spiegel.de/wirtschaft/unternehmen/kohleausstieg-rwe-chef-markus-krebber-kritisiert-christian-lindners-zweifel-a-174c367c-eef6-4817-bd47-17f201479064#ref=rss)
+### chef
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/kohleausstieg-rwe-chef-markus-krebber-kritisiert-christian-lindners-zweifel](https://www.spiegel.de/wirtschaft/unternehmen/kohleausstieg-rwe-chef-markus-krebber-kritisiert-christian-lindners-zweifel-a-174c367c-eef6-4817-bd47-17f201479064#ref=rss)
+### christian
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/kohleausstieg-rwe-chef-markus-krebber-kritisiert-christian-lindners-zweifel](https://www.spiegel.de/wirtschaft/unternehmen/kohleausstieg-rwe-chef-markus-krebber-kritisiert-christian-lindners-zweifel-a-174c367c-eef6-4817-bd47-17f201479064#ref=rss)
+* [https://www.spiegel.de/sport/fussball/anwar-el-ghazi-generalstaatsanwaltschaft-leitet-ermittlungen-gegen-fussballprofi-ein](https://www.spiegel.de/sport/fussball/anwar-el-ghazi-generalstaatsanwaltschaft-leitet-ermittlungen-gegen-fussballprofi-ein-a-0dfd9e22-4a7a-4870-8699-9e4aa785f3ea#ref=rss)
+### kohleausstieg
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/kohleausstieg-rwe-chef-markus-krebber-kritisiert-christian-lindners-zweifel](https://www.spiegel.de/wirtschaft/unternehmen/kohleausstieg-rwe-chef-markus-krebber-kritisiert-christian-lindners-zweifel-a-174c367c-eef6-4817-bd47-17f201479064#ref=rss)
+### ärger
+
+* [https://www.spiegel.de/sport/fussball/anwar-el-ghazi-generalstaatsanwaltschaft-leitet-ermittlungen-gegen-fussballprofi-ein](https://www.spiegel.de/sport/fussball/anwar-el-ghazi-generalstaatsanwaltschaft-leitet-ermittlungen-gegen-fussballprofi-ein-a-0dfd9e22-4a7a-4870-8699-9e4aa785f3ea#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/internet-in-deutschland-kabel-internet-macht-mehr-aerger-als-dsl-oder-glasfaser](https://www.spiegel.de/netzwelt/web/internet-in-deutschland-kabel-internet-macht-mehr-aerger-als-dsl-oder-glasfaser-a-93342321-af31-48b4-b5ba-759a085ab5aa#ref=rss)
+### sehr
+
+* [https://www.spiegel.de/sport/fussball/anwar-el-ghazi-generalstaatsanwaltschaft-leitet-ermittlungen-gegen-fussballprofi-ein](https://www.spiegel.de/sport/fussball/anwar-el-ghazi-generalstaatsanwaltschaft-leitet-ermittlungen-gegen-fussballprofi-ein-a-0dfd9e22-4a7a-4870-8699-9e4aa785f3ea#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/internet-in-deutschland-kabel-internet-macht-mehr-aerger-als-dsl-oder-glasfaser](https://www.spiegel.de/netzwelt/web/internet-in-deutschland-kabel-internet-macht-mehr-aerger-als-dsl-oder-glasfaser-a-93342321-af31-48b4-b5ba-759a085ab5aa#ref=rss)
+### masken
+
+* [https://www.spiegel.de/panorama/masken-notreserve-des-bundes-droht-an-fehlender-rechtsgrundlage-zu-scheitern](https://www.spiegel.de/panorama/masken-notreserve-des-bundes-droht-an-fehlender-rechtsgrundlage-zu-scheitern-a-f0b2d523-587b-4db3-ba70-43d947869a76#ref=rss)
+### bundes
+
+* [https://www.spiegel.de/panorama/masken-notreserve-des-bundes-droht-an-fehlender-rechtsgrundlage-zu-scheitern](https://www.spiegel.de/panorama/masken-notreserve-des-bundes-droht-an-fehlender-rechtsgrundlage-zu-scheitern-a-f0b2d523-587b-4db3-ba70-43d947869a76#ref=rss)
+### rechtsgrundlage
+
+* [https://www.spiegel.de/panorama/masken-notreserve-des-bundes-droht-an-fehlender-rechtsgrundlage-zu-scheitern](https://www.spiegel.de/panorama/masken-notreserve-des-bundes-droht-an-fehlender-rechtsgrundlage-zu-scheitern-a-f0b2d523-587b-4db3-ba70-43d947869a76#ref=rss)
+### xai
+
+* [https://www.spiegel.de/netzwelt/web/elon-musk-will-erste-ki-seiner-firma-xai-vorstellen](https://www.spiegel.de/netzwelt/web/elon-musk-will-erste-ki-seiner-firma-xai-vorstellen-a-64db12c7-f673-4f9b-af03-aa6fa8f96ff4#ref=rss)
+### elon
+
+* [https://www.spiegel.de/netzwelt/web/elon-musk-will-erste-ki-seiner-firma-xai-vorstellen](https://www.spiegel.de/netzwelt/web/elon-musk-will-erste-ki-seiner-firma-xai-vorstellen-a-64db12c7-f673-4f9b-af03-aa6fa8f96ff4#ref=rss)
+### musk
+
+* [https://www.spiegel.de/netzwelt/web/elon-musk-will-erste-ki-seiner-firma-xai-vorstellen](https://www.spiegel.de/netzwelt/web/elon-musk-will-erste-ki-seiner-firma-xai-vorstellen-a-64db12c7-f673-4f9b-af03-aa6fa8f96ff4#ref=rss)
 ### erste
 
-* [https://www.spiegel.de/panorama/100-jahre-rudolf-augstein-der-erste-spiegel-debuet-mit-hut](https://www.spiegel.de/panorama/100-jahre-rudolf-augstein-der-erste-spiegel-debuet-mit-hut-a-7a97bd65-a19c-49ce-baeb-f7d11f04faa8#ref=rss)
-### kreationen
+* [https://www.spiegel.de/netzwelt/web/elon-musk-will-erste-ki-seiner-firma-xai-vorstellen](https://www.spiegel.de/netzwelt/web/elon-musk-will-erste-ki-seiner-firma-xai-vorstellen-a-64db12c7-f673-4f9b-af03-aa6fa8f96ff4#ref=rss)
+### ki
 
-* [https://www.spiegel.de/stil/gourmetkueche-in-deutschland-10-wahrlich-meisterhafte-kreationen](https://www.spiegel.de/stil/gourmetkueche-in-deutschland-10-wahrlich-meisterhafte-kreationen-a-d4be981c-985b-42ab-b393-d9d28952623c#ref=rss)
-### reist
+* [https://www.spiegel.de/netzwelt/web/elon-musk-will-erste-ki-seiner-firma-xai-vorstellen](https://www.spiegel.de/netzwelt/web/elon-musk-will-erste-ki-seiner-firma-xai-vorstellen-a-64db12c7-f673-4f9b-af03-aa6fa8f96ff4#ref=rss)
+### österreich
 
-* [https://www.spiegel.de/stil/gourmetkueche-in-deutschland-10-wahrlich-meisterhafte-kreationen](https://www.spiegel.de/stil/gourmetkueche-in-deutschland-10-wahrlich-meisterhafte-kreationen-a-d4be981c-985b-42ab-b393-d9d28952623c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-trifft-merz-und-dobrindt-antony-blinken-in-israel-robert-habecks-rede](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-trifft-merz-und-dobrindt-antony-blinken-in-israel-robert-habecks-rede-a-605cd37a-ea3c-4996-80cb-bdf9c04ca0db#ref=rss)
-### schuldenbremse
+* [https://www.spiegel.de/panorama/oesterreich-vier-menschen-sterben-bei-absturz-von-kleinflugzeug](https://www.spiegel.de/panorama/oesterreich-vier-menschen-sterben-bei-absturz-von-kleinflugzeug-a-8571a7d3-10aa-42e8-82b4-357bdb61cdef#ref=rss)
+### ums
 
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-die-schuldenbremse-hat-eine-hoehere-weisheit-gastbeitrag](https://www.spiegel.de/politik/deutschland/christian-lindner-die-schuldenbremse-hat-eine-hoehere-weisheit-gastbeitrag-a-cc56978a-8702-4094-9b27-df0da7fd8550#ref=rss)
-### olaf
+* [https://www.spiegel.de/panorama/oesterreich-vier-menschen-sterben-bei-absturz-von-kleinflugzeug](https://www.spiegel.de/panorama/oesterreich-vier-menschen-sterben-bei-absturz-von-kleinflugzeug-a-8571a7d3-10aa-42e8-82b4-357bdb61cdef#ref=rss)
+### maaßen
 
-* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-trifft-merz-und-dobrindt-antony-blinken-in-israel-robert-habecks-rede](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-trifft-merz-und-dobrindt-antony-blinken-in-israel-robert-habecks-rede-a-605cd37a-ea3c-4996-80cb-bdf9c04ca0db#ref=rss)
-### gaza
+* [https://www.spiegel.de/politik/deutschland/hans-georg-maassen-innenministerium-verweigert-auskunft-ueber-ex-verfassungsschutzpraesident](https://www.spiegel.de/politik/deutschland/hans-georg-maassen-innenministerium-verweigert-auskunft-ueber-ex-verfassungsschutzpraesident-a-5fc25a9d-f553-4dd9-a142-ada63e0c9838#ref=rss)
+### innenministerium
 
-* [https://www.spiegel.de/ausland/gaza-grenzuebergang-rafah-nach-aegypten-ich-freue-mich-nicht-einmal-gaza-zu-verlassen](https://www.spiegel.de/ausland/gaza-grenzuebergang-rafah-nach-aegypten-ich-freue-mich-nicht-einmal-gaza-zu-verlassen-a-2d5ba8ed-c548-4a69-8b2d-07823f222145#ref=rss)
-### ägypten
+* [https://www.spiegel.de/politik/deutschland/hans-georg-maassen-innenministerium-verweigert-auskunft-ueber-ex-verfassungsschutzpraesident](https://www.spiegel.de/politik/deutschland/hans-georg-maassen-innenministerium-verweigert-auskunft-ueber-ex-verfassungsschutzpraesident-a-5fc25a9d-f553-4dd9-a142-ada63e0c9838#ref=rss)
+### auskunft
 
-* [https://www.spiegel.de/ausland/gaza-grenzuebergang-rafah-nach-aegypten-ich-freue-mich-nicht-einmal-gaza-zu-verlassen](https://www.spiegel.de/ausland/gaza-grenzuebergang-rafah-nach-aegypten-ich-freue-mich-nicht-einmal-gaza-zu-verlassen-a-2d5ba8ed-c548-4a69-8b2d-07823f222145#ref=rss)
-### einmal
-
-* [https://www.spiegel.de/ausland/gaza-grenzuebergang-rafah-nach-aegypten-ich-freue-mich-nicht-einmal-gaza-zu-verlassen](https://www.spiegel.de/ausland/gaza-grenzuebergang-rafah-nach-aegypten-ich-freue-mich-nicht-einmal-gaza-zu-verlassen-a-2d5ba8ed-c548-4a69-8b2d-07823f222145#ref=rss)
-* [https://www.spiegel.de/ausland/us-repraesentantenhaus-geht-auf-konfrontation-zum-senat-bei-israel-hilfen](https://www.spiegel.de/ausland/us-repraesentantenhaus-geht-auf-konfrontation-zum-senat-bei-israel-hilfen-a-bc5d7405-08c2-454e-99d4-f53eca54f19c#ref=rss)
-### boris
-
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-und-die-zeitenwende-viel-angekuendigt-wenig-geliefert-leitartikel](https://www.spiegel.de/politik/deutschland/boris-pistorius-und-die-zeitenwende-viel-angekuendigt-wenig-geliefert-leitartikel-a-5b4d6fdf-74b7-4651-9ba1-ad426f06d1a9#ref=rss)
-### pistorius
-
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-und-die-zeitenwende-viel-angekuendigt-wenig-geliefert-leitartikel](https://www.spiegel.de/politik/deutschland/boris-pistorius-und-die-zeitenwende-viel-angekuendigt-wenig-geliefert-leitartikel-a-5b4d6fdf-74b7-4651-9ba1-ad426f06d1a9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/hans-georg-maassen-innenministerium-verweigert-auskunft-ueber-ex-verfassungsschutzpraesident](https://www.spiegel.de/politik/deutschland/hans-georg-maassen-innenministerium-verweigert-auskunft-ueber-ex-verfassungsschutzpraesident-a-5fc25a9d-f553-4dd9-a142-ada63e0c9838#ref=rss)
 
