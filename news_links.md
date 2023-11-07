@@ -4,328 +4,353 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### hamburg
+### trump
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-geiselnahme-am-flughafen-hamburg-bund-laender-konferenz-gaza](https://www.spiegel.de/politik/deutschland/news-des-tages-geiselnahme-am-flughafen-hamburg-bund-laender-konferenz-gaza-a-1dd12dba-d71d-447b-a648-c2b6cd815384#ref=rss)
-* [https://www.spiegel.de/panorama/hamburg-frau-stirbt-nach-unfall-mit-e-scooter](https://www.spiegel.de/panorama/hamburg-frau-stirbt-nach-unfall-mit-e-scooter-a-285f9c82-c58b-41f5-9297-7308b8683a74#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/kindesentzug-in-hamburg-generalstaatsanwaltschaft-erlaesst-haftbefehl-gegen-flughafen-geiselnehmer](https://www.spiegel.de/panorama/justiz/kindesentzug-in-hamburg-generalstaatsanwaltschaft-erlaesst-haftbefehl-gegen-flughafen-geiselnehmer-a-dd1c9a2a-e7cf-4ac8-85f9-125c8a516b4a#ref=rss)
-* [https://www.spiegel.de/deinspiegel/zoe-wees-im-kinder-interview-meine-songs-sollen-eine-beste-freundin-sein](https://www.spiegel.de/deinspiegel/zoe-wees-im-kinder-interview-meine-songs-sollen-eine-beste-freundin-sein-a-8fefad64-4d7b-4063-a9c5-7d6bdb2416fe#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/flughafen-hamburg-ex-frau-zeigte-geiselnehmer-dreimal-an](https://www.spiegel.de/panorama/justiz/flughafen-hamburg-ex-frau-zeigte-geiselnehmer-dreimal-an-a-ed5be2fa-475d-4344-8a99-9bfb77db23b4#ref=rss)
-* [https://www.spiegel.de/wissenschaft/hamburg-schuetzt-die-flughaefen-endlich-besser-vor-terror](https://www.spiegel.de/wissenschaft/hamburg-schuetzt-die-flughaefen-endlich-besser-vor-terror-a-c83b328e-53c4-49d2-b7d4-0aca06a48175#ref=rss)
-### flughafen
+* [https://www.spiegel.de/ausland/warum-joe-biden-donald-trump-noch-schlagen-kann-meinung](https://www.spiegel.de/ausland/warum-joe-biden-donald-trump-noch-schlagen-kann-meinung-a-3e853396-c348-4324-8af5-624c78464d0f#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-vor-gericht-ausraster-in-saal-300](https://www.spiegel.de/ausland/donald-trump-vor-gericht-ausraster-in-saal-300-a-c894ddac-d57b-4166-9a5c-3eb358f2ee8f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-gaza-donald-trump-migration](https://www.spiegel.de/politik/deutschland/news-gaza-donald-trump-migration-a-9f91a281-6b19-4fde-900b-073ff4ee3c4e#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-geiselnahme-am-flughafen-hamburg-bund-laender-konferenz-gaza](https://www.spiegel.de/politik/deutschland/news-des-tages-geiselnahme-am-flughafen-hamburg-bund-laender-konferenz-gaza-a-1dd12dba-d71d-447b-a648-c2b6cd815384#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/kindesentzug-in-hamburg-generalstaatsanwaltschaft-erlaesst-haftbefehl-gegen-flughafen-geiselnehmer](https://www.spiegel.de/panorama/justiz/kindesentzug-in-hamburg-generalstaatsanwaltschaft-erlaesst-haftbefehl-gegen-flughafen-geiselnehmer-a-dd1c9a2a-e7cf-4ac8-85f9-125c8a516b4a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/flughafen-hamburg-ex-frau-zeigte-geiselnehmer-dreimal-an](https://www.spiegel.de/panorama/justiz/flughafen-hamburg-ex-frau-zeigte-geiselnehmer-dreimal-an-a-ed5be2fa-475d-4344-8a99-9bfb77db23b4#ref=rss)
-* [https://www.spiegel.de/wissenschaft/hamburg-schuetzt-die-flughaefen-endlich-besser-vor-terror](https://www.spiegel.de/wissenschaft/hamburg-schuetzt-die-flughaefen-endlich-besser-vor-terror-a-c83b328e-53c4-49d2-b7d4-0aca06a48175#ref=rss)
-### offenbar
+* [https://www.spiegel.de/sport/olympia/wegen-einreisebeschraenkungen-thomas-bach-daempft-deutsche-olympia-ambitionen](https://www.spiegel.de/sport/olympia/wegen-einreisebeschraenkungen-thomas-bach-daempft-deutsche-olympia-ambitionen-a-e7ae11f2-ad13-4763-9c06-6290eb30c95c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/krieg-in-gaza-deutschland-gibt-hilfsgelder-fuer-palaestinensische-gebiete-wieder-frei](https://www.spiegel.de/politik/deutschland/krieg-in-gaza-deutschland-gibt-hilfsgelder-fuer-palaestinensische-gebiete-wieder-frei-a-96f5c6bf-7d3e-4957-942a-76678669f3a4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/weihnachtsgeld-in-diesen-branchen-gibt-es-am-meisten](https://www.spiegel.de/wirtschaft/service/weihnachtsgeld-in-diesen-branchen-gibt-es-am-meisten-a-ef13a781-f454-4ca1-a835-cbc326f4f825#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-luka-doncic-und-seine-dallas-mavericks-besiegen-die-orlando-magic-mit-franz-und-mo-wagner](https://www.spiegel.de/sport/basketball/nba-luka-doncic-und-seine-dallas-mavericks-besiegen-die-orlando-magic-mit-franz-und-mo-wagner-a-3e3a2800-2fe0-4220-abb0-8ac91be9b4d2#ref=rss)
+### donald
 
-* [https://www.spiegel.de/ausland/israel-gaza-news-heute-militaerchef-sieht-armee-jederzeit-bereit-auch-im-libanon-zuzuschlagen](https://www.spiegel.de/ausland/israel-gaza-news-heute-militaerchef-sieht-armee-jederzeit-bereit-auch-im-libanon-zuzuschlagen-a-8e2cd19a-18b8-4320-bedb-6e566f8b8809#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/lidl-konzern-investiert-in-ki-start-up-aleph-alpha](https://www.spiegel.de/netzwelt/web/lidl-konzern-investiert-in-ki-start-up-aleph-alpha-a-6181a6a9-ed24-4eca-aaac-df6d913ab7d2#ref=rss)
-* [https://www.spiegel.de/panorama/grossbritannien-einsamstes-schaf-nach-protesten-an-geheimem-ort-untergebracht](https://www.spiegel.de/panorama/grossbritannien-einsamstes-schaf-nach-protesten-an-geheimem-ort-untergebracht-a-be22f130-5cc9-495d-9ec4-ed080090cf71#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/tangerhuette-stadtrat-will-umbenennung-von-anne-frank-kita-offenbar-ablehnen](https://www.spiegel.de/panorama/gesellschaft/tangerhuette-stadtrat-will-umbenennung-von-anne-frank-kita-offenbar-ablehnen-a-6dcb53e6-93d6-42af-bbe5-eeab6b4dc75c#ref=rss)
-### hamburger
+* [https://www.spiegel.de/ausland/warum-joe-biden-donald-trump-noch-schlagen-kann-meinung](https://www.spiegel.de/ausland/warum-joe-biden-donald-trump-noch-schlagen-kann-meinung-a-3e853396-c348-4324-8af5-624c78464d0f#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-vor-gericht-ausraster-in-saal-300](https://www.spiegel.de/ausland/donald-trump-vor-gericht-ausraster-in-saal-300-a-c894ddac-d57b-4166-9a5c-3eb358f2ee8f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-gaza-donald-trump-migration](https://www.spiegel.de/politik/deutschland/news-gaza-donald-trump-migration-a-9f91a281-6b19-4fde-900b-073ff4ee3c4e#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-geiselnahme-am-flughafen-hamburg-bund-laender-konferenz-gaza](https://www.spiegel.de/politik/deutschland/news-des-tages-geiselnahme-am-flughafen-hamburg-bund-laender-konferenz-gaza-a-1dd12dba-d71d-447b-a648-c2b6cd815384#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/kindesentzug-in-hamburg-generalstaatsanwaltschaft-erlaesst-haftbefehl-gegen-flughafen-geiselnehmer](https://www.spiegel.de/panorama/justiz/kindesentzug-in-hamburg-generalstaatsanwaltschaft-erlaesst-haftbefehl-gegen-flughafen-geiselnehmer-a-dd1c9a2a-e7cf-4ac8-85f9-125c8a516b4a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/flughafen-hamburg-ex-frau-zeigte-geiselnehmer-dreimal-an](https://www.spiegel.de/panorama/justiz/flughafen-hamburg-ex-frau-zeigte-geiselnehmer-dreimal-an-a-ed5be2fa-475d-4344-8a99-9bfb77db23b4#ref=rss)
-* [https://www.spiegel.de/wissenschaft/hamburg-schuetzt-die-flughaefen-endlich-besser-vor-terror](https://www.spiegel.de/wissenschaft/hamburg-schuetzt-die-flughaefen-endlich-besser-vor-terror-a-c83b328e-53c4-49d2-b7d4-0aca06a48175#ref=rss)
+* [https://www.spiegel.de/sport/olympia/wegen-einreisebeschraenkungen-thomas-bach-daempft-deutsche-olympia-ambitionen](https://www.spiegel.de/sport/olympia/wegen-einreisebeschraenkungen-thomas-bach-daempft-deutsche-olympia-ambitionen-a-e7ae11f2-ad13-4763-9c06-6290eb30c95c#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-benjamin-netanyahu-offen-fuer-taktische-pausen](https://www.spiegel.de/ausland/israel-gaza-news-heute-benjamin-netanyahu-offen-fuer-taktische-pausen-a-ec638c1d-907b-45d8-b7c8-3ea2a1030eb7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-deutsche-industrie-faehrt-produktion-unerwartet-stark-herunter](https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-deutsche-industrie-faehrt-produktion-unerwartet-stark-herunter-a-318d575d-e2b5-4c27-ab8e-b730bf43116d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/fluechtlingsgipfel-markus-soeder-und-carsten-linnemann-halten-ergebnisse-fuer-unzureichend](https://www.spiegel.de/politik/deutschland/fluechtlingsgipfel-markus-soeder-und-carsten-linnemann-halten-ergebnisse-fuer-unzureichend-a-adb7c4a7-f887-4c83-8518-55ff3b4bad35#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/politik/deutschland/antisemitismus-beratungsstelle-ofek-verzeichnet-enormen-anstieg-hilfesuchender](https://www.spiegel.de/politik/deutschland/antisemitismus-beratungsstelle-ofek-verzeichnet-enormen-anstieg-hilfesuchender-a-6dc31e6a-3efa-4e9a-9051-0d739096bada#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/weihnachtsgeld-in-diesen-branchen-gibt-es-am-meisten](https://www.spiegel.de/wirtschaft/service/weihnachtsgeld-in-diesen-branchen-gibt-es-am-meisten-a-ef13a781-f454-4ca1-a835-cbc326f4f825#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/grossbritannien-treibstoffdiebstahl-macht-tankstellen-zu-schaffen-anstieg-um-77-prozent](https://www.spiegel.de/panorama/justiz/grossbritannien-treibstoffdiebstahl-macht-tankstellen-zu-schaffen-anstieg-um-77-prozent-a-3bba1ffb-397a-4a12-b758-2c531caaa4fe#ref=rss)
+* [https://www.spiegel.de/ausland/warum-joe-biden-donald-trump-noch-schlagen-kann-meinung](https://www.spiegel.de/ausland/warum-joe-biden-donald-trump-noch-schlagen-kann-meinung-a-3e853396-c348-4324-8af5-624c78464d0f#ref=rss)
+### bund
+
+* [https://www.spiegel.de/politik/deutschland/fluechtlingsgipfel-markus-soeder-und-carsten-linnemann-halten-ergebnisse-fuer-unzureichend](https://www.spiegel.de/politik/deutschland/fluechtlingsgipfel-markus-soeder-und-carsten-linnemann-halten-ergebnisse-fuer-unzureichend-a-adb7c4a7-f887-4c83-8518-55ff3b4bad35#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bund-und-laender-einigen-sich-auf-schnellere-planung-nun-fuerchten-umweltverbaende-um-naturschutz](https://www.spiegel.de/wirtschaft/unternehmen/bund-und-laender-einigen-sich-auf-schnellere-planung-nun-fuerchten-umweltverbaende-um-naturschutz-a-df252b5c-8e79-45f6-a262-3fcfbb0b1bd3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-gaza-donald-trump-migration](https://www.spiegel.de/politik/deutschland/news-gaza-donald-trump-migration-a-9f91a281-6b19-4fde-900b-073ff4ee3c4e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/migration-bund-und-laender-einigen-sich-auf-neue-kostenverteilung-in-asylpolitik](https://www.spiegel.de/politik/deutschland/migration-bund-und-laender-einigen-sich-auf-neue-kostenverteilung-in-asylpolitik-a-a004e4e0-a519-4724-bcbb-8754088a9f09#ref=rss)
 ### länder
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-geiselnahme-am-flughafen-hamburg-bund-laender-konferenz-gaza](https://www.spiegel.de/politik/deutschland/news-des-tages-geiselnahme-am-flughafen-hamburg-bund-laender-konferenz-gaza-a-1dd12dba-d71d-447b-a648-c2b6cd815384#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kanzleramt-laender-gehen-uneins-in-verhandlungen-mit-olaf-scholz](https://www.spiegel.de/politik/deutschland/kanzleramt-laender-gehen-uneins-in-verhandlungen-mit-olaf-scholz-a-c06742c2-204e-48d3-ad60-4e82e9179259#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/winfried-kretschmann-befuerwortet-asylverfahren-in-drittstaaten](https://www.spiegel.de/politik/deutschland/winfried-kretschmann-befuerwortet-asylverfahren-in-drittstaaten-a-6d3a50e6-af2b-46f0-b3d3-79d58a8a6edb#ref=rss)
-### viele
+* [https://www.spiegel.de/wirtschaft/unternehmen/bund-und-laender-einigen-sich-auf-schnellere-planung-nun-fuerchten-umweltverbaende-um-naturschutz](https://www.spiegel.de/wirtschaft/unternehmen/bund-und-laender-einigen-sich-auf-schnellere-planung-nun-fuerchten-umweltverbaende-um-naturschutz-a-df252b5c-8e79-45f6-a262-3fcfbb0b1bd3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-gaza-donald-trump-migration](https://www.spiegel.de/politik/deutschland/news-gaza-donald-trump-migration-a-9f91a281-6b19-4fde-900b-073ff4ee3c4e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/migration-bund-und-laender-einigen-sich-auf-neue-kostenverteilung-in-asylpolitik](https://www.spiegel.de/politik/deutschland/migration-bund-und-laender-einigen-sich-auf-neue-kostenverteilung-in-asylpolitik-a-a004e4e0-a519-4724-bcbb-8754088a9f09#ref=rss)
+### dollar
 
-* [https://www.spiegel.de/ausland/gaza-krankenhaeuser-vor-dem-aus-viele-patienten-werden-sterben](https://www.spiegel.de/ausland/gaza-krankenhaeuser-vor-dem-aus-viele-patienten-werden-sterben-a-038cd4c1-bd0a-4d28-9844-198adc251350#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/arbeitszeit-viele-vollzeit-beschaeftigte-wollen-kuerzer-arbeiten](https://www.spiegel.de/wirtschaft/soziales/arbeitszeit-viele-vollzeit-beschaeftigte-wollen-kuerzer-arbeiten-a-af21c31b-d6cc-484c-94cb-3d66b5baf850#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lanxess-dividende-gekuerzt-konzern-kaempft-gegen-die-krise](https://www.spiegel.de/wirtschaft/lanxess-dividende-gekuerzt-konzern-kaempft-gegen-die-krise-a-ad94297a-1267-4538-90a4-3fda7e110125#ref=rss)
-### mehr
+* [https://www.spiegel.de/wirtschaft/unternehmen/ubs-schreibt-rote-zahlen-wegen-uebernahme-von-credit-suisse](https://www.spiegel.de/wirtschaft/unternehmen/ubs-schreibt-rote-zahlen-wegen-uebernahme-von-credit-suisse-a-e2000db5-ee69-43b0-8330-e9f169405fa7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/wework-buerovermieter-stellt-insolvenzantrag-ex-start-up-in-der-krise](https://www.spiegel.de/wirtschaft/unternehmen/wework-buerovermieter-stellt-insolvenzantrag-ex-start-up-in-der-krise-a-5c136df5-6b16-41ca-b6d2-73eaeded2c97#ref=rss)
+### hilfe
 
-* [https://www.spiegel.de/ausland/israel-gaza-news-heute-militaerchef-sieht-armee-jederzeit-bereit-auch-im-libanon-zuzuschlagen](https://www.spiegel.de/ausland/israel-gaza-news-heute-militaerchef-sieht-armee-jederzeit-bereit-auch-im-libanon-zuzuschlagen-a-8e2cd19a-18b8-4320-bedb-6e566f8b8809#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/db-cargo-doch-weniger-geld-fuer-gueter-auf-der-schiene](https://www.spiegel.de/wirtschaft/unternehmen/db-cargo-doch-weniger-geld-fuer-gueter-auf-der-schiene-a-c1f29547-8fc9-4fac-a152-4470fac711df#ref=rss)
-* [https://www.spiegel.de/ausland/publizist-gideon-levy-ueber-nahostkonflikt-es-werden-immer-mehr-israelische-soldaten-sterben-und-die-stimmung-wird-noch-aggressiver-werden](https://www.spiegel.de/ausland/publizist-gideon-levy-ueber-nahostkonflikt-es-werden-immer-mehr-israelische-soldaten-sterben-und-die-stimmung-wird-noch-aggressiver-werden-a-c62eadad-178b-4029-b811-1dd0f9b597b6#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/flughafen-hamburg-ex-frau-zeigte-geiselnehmer-dreimal-an](https://www.spiegel.de/panorama/justiz/flughafen-hamburg-ex-frau-zeigte-geiselnehmer-dreimal-an-a-ed5be2fa-475d-4344-8a99-9bfb77db23b4#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/kultur/hans-meiser-zum-tod-der-deutschen-tv-ikone](https://www.spiegel.de/kultur/hans-meiser-zum-tod-der-deutschen-tv-ikone-a-8d3c188b-65e6-4944-854b-eeb9108b1756#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-krankenhaeuser-vor-dem-aus-viele-patienten-werden-sterben](https://www.spiegel.de/ausland/gaza-krankenhaeuser-vor-dem-aus-viele-patienten-werden-sterben-a-038cd4c1-bd0a-4d28-9844-198adc251350#ref=rss)
-* [https://www.spiegel.de/kultur/nationalmuseum-budapest-museumsdirektor-ueber-lgbtq-inhalte-entlassen](https://www.spiegel.de/kultur/nationalmuseum-budapest-museumsdirektor-ueber-lgbtq-inhalte-entlassen-a-a2534cea-e3e0-4fb0-83eb-99ea6143c6c7#ref=rss)
-### gazastreifen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-geiselnahme-am-flughafen-hamburg-bund-laender-konferenz-gaza](https://www.spiegel.de/politik/deutschland/news-des-tages-geiselnahme-am-flughafen-hamburg-bund-laender-konferenz-gaza-a-1dd12dba-d71d-447b-a648-c2b6cd815384#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-news-heute-militaerchef-sieht-armee-jederzeit-bereit-auch-im-libanon-zuzuschlagen](https://www.spiegel.de/ausland/israel-gaza-news-heute-militaerchef-sieht-armee-jederzeit-bereit-auch-im-libanon-zuzuschlagen-a-8e2cd19a-18b8-4320-bedb-6e566f8b8809#ref=rss)
-### geld
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-geiselnahme-am-flughafen-hamburg-bund-laender-konferenz-gaza](https://www.spiegel.de/politik/deutschland/news-des-tages-geiselnahme-am-flughafen-hamburg-bund-laender-konferenz-gaza-a-1dd12dba-d71d-447b-a648-c2b6cd815384#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/db-cargo-doch-weniger-geld-fuer-gueter-auf-der-schiene](https://www.spiegel.de/wirtschaft/unternehmen/db-cargo-doch-weniger-geld-fuer-gueter-auf-der-schiene-a-c1f29547-8fc9-4fac-a152-4470fac711df#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/lidl-konzern-investiert-in-ki-start-up-aleph-alpha](https://www.spiegel.de/netzwelt/web/lidl-konzern-investiert-in-ki-start-up-aleph-alpha-a-6181a6a9-ed24-4eca-aaac-df6d913ab7d2#ref=rss)
-### bekommen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-geiselnahme-am-flughafen-hamburg-bund-laender-konferenz-gaza](https://www.spiegel.de/politik/deutschland/news-des-tages-geiselnahme-am-flughafen-hamburg-bund-laender-konferenz-gaza-a-1dd12dba-d71d-447b-a648-c2b6cd815384#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/db-cargo-doch-weniger-geld-fuer-gueter-auf-der-schiene](https://www.spiegel.de/wirtschaft/unternehmen/db-cargo-doch-weniger-geld-fuer-gueter-auf-der-schiene-a-c1f29547-8fc9-4fac-a152-4470fac711df#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/winfried-kretschmann-befuerwortet-asylverfahren-in-drittstaaten](https://www.spiegel.de/politik/deutschland/winfried-kretschmann-befuerwortet-asylverfahren-in-drittstaaten-a-6d3a50e6-af2b-46f0-b3d3-79d58a8a6edb#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sv-darmstadt-98-vorerst-ohne-trainer-torsten-lieberknecht-familiaere-gruende](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sv-darmstadt-98-vorerst-ohne-trainer-torsten-lieberknecht-familiaere-gruende-a-443d4b92-c759-4ae5-97d4-d3914d76c883#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kanzleramt-laender-gehen-uneins-in-verhandlungen-mit-olaf-scholz](https://www.spiegel.de/politik/deutschland/kanzleramt-laender-gehen-uneins-in-verhandlungen-mit-olaf-scholz-a-c06742c2-204e-48d3-ad60-4e82e9179259#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/deutschland/kanzleramt-laender-gehen-uneins-in-verhandlungen-mit-olaf-scholz](https://www.spiegel.de/politik/deutschland/kanzleramt-laender-gehen-uneins-in-verhandlungen-mit-olaf-scholz-a-c06742c2-204e-48d3-ad60-4e82e9179259#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/winfried-kretschmann-befuerwortet-asylverfahren-in-drittstaaten](https://www.spiegel.de/politik/deutschland/winfried-kretschmann-befuerwortet-asylverfahren-in-drittstaaten-a-6d3a50e6-af2b-46f0-b3d3-79d58a8a6edb#ref=rss)
-### israelische
-
-* [https://www.spiegel.de/ausland/israel-gaza-news-heute-militaerchef-sieht-armee-jederzeit-bereit-auch-im-libanon-zuzuschlagen](https://www.spiegel.de/ausland/israel-gaza-news-heute-militaerchef-sieht-armee-jederzeit-bereit-auch-im-libanon-zuzuschlagen-a-8e2cd19a-18b8-4320-bedb-6e566f8b8809#ref=rss)
-* [https://www.spiegel.de/ausland/publizist-gideon-levy-ueber-nahostkonflikt-es-werden-immer-mehr-israelische-soldaten-sterben-und-die-stimmung-wird-noch-aggressiver-werden](https://www.spiegel.de/ausland/publizist-gideon-levy-ueber-nahostkonflikt-es-werden-immer-mehr-israelische-soldaten-sterben-und-die-stimmung-wird-noch-aggressiver-werden-a-c62eadad-178b-4029-b811-1dd0f9b597b6#ref=rss)
-### bürgermeister
-
-* [https://www.spiegel.de/panorama/justiz/muenchen-zweiter-buergermeister-dominik-krause-nennt-oktoberfest-weltweit-groesste-offene-drogenszene](https://www.spiegel.de/panorama/justiz/muenchen-zweiter-buergermeister-dominik-krause-nennt-oktoberfest-weltweit-groesste-offene-drogenszene-a-0f5f460d-ec71-4236-a5e1-728bfe4a0ecb#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/tangerhuette-stadtrat-will-umbenennung-von-anne-frank-kita-offenbar-ablehnen](https://www.spiegel.de/panorama/gesellschaft/tangerhuette-stadtrat-will-umbenennung-von-anne-frank-kita-offenbar-ablehnen-a-6dcb53e6-93d6-42af-bbe5-eeab6b4dc75c#ref=rss)
-### gil
-
-* [https://www.spiegel.de/panorama/justiz/gil-ofarim-was-sie-vor-dem-prozess-in-leipzig-wissen-sollten](https://www.spiegel.de/panorama/justiz/gil-ofarim-was-sie-vor-dem-prozess-in-leipzig-wissen-sollten-a-04465cb8-045e-4610-84e2-3959101b38d0#ref=rss)
-### ofarim
-
-* [https://www.spiegel.de/panorama/justiz/gil-ofarim-was-sie-vor-dem-prozess-in-leipzig-wissen-sollten](https://www.spiegel.de/panorama/justiz/gil-ofarim-was-sie-vor-dem-prozess-in-leipzig-wissen-sollten-a-04465cb8-045e-4610-84e2-3959101b38d0#ref=rss)
-### prozess
-
-* [https://www.spiegel.de/panorama/justiz/gil-ofarim-was-sie-vor-dem-prozess-in-leipzig-wissen-sollten](https://www.spiegel.de/panorama/justiz/gil-ofarim-was-sie-vor-dem-prozess-in-leipzig-wissen-sollten-a-04465cb8-045e-4610-84e2-3959101b38d0#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/kultur/hans-meiser-zum-tod-der-deutschen-tv-ikone](https://www.spiegel.de/kultur/hans-meiser-zum-tod-der-deutschen-tv-ikone-a-8d3c188b-65e6-4944-854b-eeb9108b1756#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/arbeitszeit-viele-vollzeit-beschaeftigte-wollen-kuerzer-arbeiten](https://www.spiegel.de/wirtschaft/soziales/arbeitszeit-viele-vollzeit-beschaeftigte-wollen-kuerzer-arbeiten-a-af21c31b-d6cc-484c-94cb-3d66b5baf850#ref=rss)
-### tvikone
-
-* [https://www.spiegel.de/kultur/hans-meiser-zum-tod-der-deutschen-tv-ikone](https://www.spiegel.de/kultur/hans-meiser-zum-tod-der-deutschen-tv-ikone-a-8d3c188b-65e6-4944-854b-eeb9108b1756#ref=rss)
-### ende
-
-* [https://www.spiegel.de/kultur/hans-meiser-zum-tod-der-deutschen-tv-ikone](https://www.spiegel.de/kultur/hans-meiser-zum-tod-der-deutschen-tv-ikone-a-8d3c188b-65e6-4944-854b-eeb9108b1756#ref=rss)
-* [https://www.spiegel.de/panorama/grossbritannien-einsamstes-schaf-nach-protesten-an-geheimem-ort-untergebracht](https://www.spiegel.de/panorama/grossbritannien-einsamstes-schaf-nach-protesten-an-geheimem-ort-untergebracht-a-be22f130-5cc9-495d-9ec4-ed080090cf71#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/justiz/mann-stirbt-nach-polizeieinsatz-in-koeln-leiche-soll-obduziert-werden](https://www.spiegel.de/panorama/justiz/mann-stirbt-nach-polizeieinsatz-in-koeln-leiche-soll-obduziert-werden-a-10e34575-dafc-449f-a56c-731539922b32#ref=rss)
-### stirbt
-
-* [https://www.spiegel.de/panorama/justiz/mann-stirbt-nach-polizeieinsatz-in-koeln-leiche-soll-obduziert-werden](https://www.spiegel.de/panorama/justiz/mann-stirbt-nach-polizeieinsatz-in-koeln-leiche-soll-obduziert-werden-a-10e34575-dafc-449f-a56c-731539922b32#ref=rss)
-* [https://www.spiegel.de/panorama/hamburg-frau-stirbt-nach-unfall-mit-e-scooter](https://www.spiegel.de/panorama/hamburg-frau-stirbt-nach-unfall-mit-e-scooter-a-285f9c82-c58b-41f5-9297-7308b8683a74#ref=rss)
-### köln
-
-* [https://www.spiegel.de/panorama/justiz/mann-stirbt-nach-polizeieinsatz-in-koeln-leiche-soll-obduziert-werden](https://www.spiegel.de/panorama/justiz/mann-stirbt-nach-polizeieinsatz-in-koeln-leiche-soll-obduziert-werden-a-10e34575-dafc-449f-a56c-731539922b32#ref=rss)
-### leiche
-
-* [https://www.spiegel.de/panorama/justiz/mann-stirbt-nach-polizeieinsatz-in-koeln-leiche-soll-obduziert-werden](https://www.spiegel.de/panorama/justiz/mann-stirbt-nach-polizeieinsatz-in-koeln-leiche-soll-obduziert-werden-a-10e34575-dafc-449f-a56c-731539922b32#ref=rss)
-### news
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-geiselnahme-am-flughafen-hamburg-bund-laender-konferenz-gaza](https://www.spiegel.de/politik/deutschland/news-des-tages-geiselnahme-am-flughafen-hamburg-bund-laender-konferenz-gaza-a-1dd12dba-d71d-447b-a648-c2b6cd815384#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-news-heute-militaerchef-sieht-armee-jederzeit-bereit-auch-im-libanon-zuzuschlagen](https://www.spiegel.de/ausland/israel-gaza-news-heute-militaerchef-sieht-armee-jederzeit-bereit-auch-im-libanon-zuzuschlagen-a-8e2cd19a-18b8-4320-bedb-6e566f8b8809#ref=rss)
-### geiselnahme
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-geiselnahme-am-flughafen-hamburg-bund-laender-konferenz-gaza](https://www.spiegel.de/politik/deutschland/news-des-tages-geiselnahme-am-flughafen-hamburg-bund-laender-konferenz-gaza-a-1dd12dba-d71d-447b-a648-c2b6cd815384#ref=rss)
-* [https://www.spiegel.de/wissenschaft/hamburg-schuetzt-die-flughaefen-endlich-besser-vor-terror](https://www.spiegel.de/wissenschaft/hamburg-schuetzt-die-flughaefen-endlich-besser-vor-terror-a-c83b328e-53c4-49d2-b7d4-0aca06a48175#ref=rss)
-### nord
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-geiselnahme-am-flughafen-hamburg-bund-laender-konferenz-gaza](https://www.spiegel.de/politik/deutschland/news-des-tages-geiselnahme-am-flughafen-hamburg-bund-laender-konferenz-gaza-a-1dd12dba-d71d-447b-a648-c2b6cd815384#ref=rss)
-### süd
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-geiselnahme-am-flughafen-hamburg-bund-laender-konferenz-gaza](https://www.spiegel.de/politik/deutschland/news-des-tages-geiselnahme-am-flughafen-hamburg-bund-laender-konferenz-gaza-a-1dd12dba-d71d-447b-a648-c2b6cd815384#ref=rss)
-### geteilt
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-geiselnahme-am-flughafen-hamburg-bund-laender-konferenz-gaza](https://www.spiegel.de/politik/deutschland/news-des-tages-geiselnahme-am-flughafen-hamburg-bund-laender-konferenz-gaza-a-1dd12dba-d71d-447b-a648-c2b6cd815384#ref=rss)
-### salman
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-geiselnahme-am-flughafen-hamburg-bund-laender-konferenz-gaza](https://www.spiegel.de/politik/deutschland/news-des-tages-geiselnahme-am-flughafen-hamburg-bund-laender-konferenz-gaza-a-1dd12dba-d71d-447b-a648-c2b6cd815384#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/flughafen-hamburg-ex-frau-zeigte-geiselnehmer-dreimal-an](https://www.spiegel.de/panorama/justiz/flughafen-hamburg-ex-frau-zeigte-geiselnehmer-dreimal-an-a-ed5be2fa-475d-4344-8a99-9bfb77db23b4#ref=rss)
-### e
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-geiselnahme-am-flughafen-hamburg-bund-laender-konferenz-gaza](https://www.spiegel.de/politik/deutschland/news-des-tages-geiselnahme-am-flughafen-hamburg-bund-laender-konferenz-gaza-a-1dd12dba-d71d-447b-a648-c2b6cd815384#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/flughafen-hamburg-ex-frau-zeigte-geiselnehmer-dreimal-an](https://www.spiegel.de/panorama/justiz/flughafen-hamburg-ex-frau-zeigte-geiselnehmer-dreimal-an-a-ed5be2fa-475d-4344-8a99-9bfb77db23b4#ref=rss)
-### sv
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sv-darmstadt-98-vorerst-ohne-trainer-torsten-lieberknecht-familiaere-gruende](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sv-darmstadt-98-vorerst-ohne-trainer-torsten-lieberknecht-familiaere-gruende-a-443d4b92-c759-4ae5-97d4-d3914d76c883#ref=rss)
-### darmstadt
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sv-darmstadt-98-vorerst-ohne-trainer-torsten-lieberknecht-familiaere-gruende](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sv-darmstadt-98-vorerst-ohne-trainer-torsten-lieberknecht-familiaere-gruende-a-443d4b92-c759-4ae5-97d4-d3914d76c883#ref=rss)
-### torsten
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sv-darmstadt-98-vorerst-ohne-trainer-torsten-lieberknecht-familiaere-gruende](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sv-darmstadt-98-vorerst-ohne-trainer-torsten-lieberknecht-familiaere-gruende-a-443d4b92-c759-4ae5-97d4-d3914d76c883#ref=rss)
-### lieberknecht
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sv-darmstadt-98-vorerst-ohne-trainer-torsten-lieberknecht-familiaere-gruende](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sv-darmstadt-98-vorerst-ohne-trainer-torsten-lieberknecht-familiaere-gruende-a-443d4b92-c759-4ae5-97d4-d3914d76c883#ref=rss)
-### frau
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sv-darmstadt-98-vorerst-ohne-trainer-torsten-lieberknecht-familiaere-gruende](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sv-darmstadt-98-vorerst-ohne-trainer-torsten-lieberknecht-familiaere-gruende-a-443d4b92-c759-4ae5-97d4-d3914d76c883#ref=rss)
-* [https://www.spiegel.de/panorama/hamburg-frau-stirbt-nach-unfall-mit-e-scooter](https://www.spiegel.de/panorama/hamburg-frau-stirbt-nach-unfall-mit-e-scooter-a-285f9c82-c58b-41f5-9297-7308b8683a74#ref=rss)
-### escooter
-
-* [https://www.spiegel.de/panorama/hamburg-frau-stirbt-nach-unfall-mit-e-scooter](https://www.spiegel.de/panorama/hamburg-frau-stirbt-nach-unfall-mit-e-scooter-a-285f9c82-c58b-41f5-9297-7308b8683a74#ref=rss)
-### nargess
-
-* [https://www.spiegel.de/ausland/iran-inhaftierte-friedensnobelpreistraegerin-nargess-mohammadi-tritt-in-hungerstreik](https://www.spiegel.de/ausland/iran-inhaftierte-friedensnobelpreistraegerin-nargess-mohammadi-tritt-in-hungerstreik-a-64bfea6a-8c5c-4324-9ffa-67dbc75ae65d#ref=rss)
-### mohammadi
-
-* [https://www.spiegel.de/ausland/iran-inhaftierte-friedensnobelpreistraegerin-nargess-mohammadi-tritt-in-hungerstreik](https://www.spiegel.de/ausland/iran-inhaftierte-friedensnobelpreistraegerin-nargess-mohammadi-tritt-in-hungerstreik-a-64bfea6a-8c5c-4324-9ffa-67dbc75ae65d#ref=rss)
-### hungerstreik
-
-* [https://www.spiegel.de/ausland/iran-inhaftierte-friedensnobelpreistraegerin-nargess-mohammadi-tritt-in-hungerstreik](https://www.spiegel.de/ausland/iran-inhaftierte-friedensnobelpreistraegerin-nargess-mohammadi-tritt-in-hungerstreik-a-64bfea6a-8c5c-4324-9ffa-67dbc75ae65d#ref=rss)
-### kämpft
-
-* [https://www.spiegel.de/ausland/iran-inhaftierte-friedensnobelpreistraegerin-nargess-mohammadi-tritt-in-hungerstreik](https://www.spiegel.de/ausland/iran-inhaftierte-friedensnobelpreistraegerin-nargess-mohammadi-tritt-in-hungerstreik-a-64bfea6a-8c5c-4324-9ffa-67dbc75ae65d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lanxess-dividende-gekuerzt-konzern-kaempft-gegen-die-krise](https://www.spiegel.de/wirtschaft/lanxess-dividende-gekuerzt-konzern-kaempft-gegen-die-krise-a-ad94297a-1267-4538-90a4-3fda7e110125#ref=rss)
-### gehen
-
-* [https://www.spiegel.de/politik/deutschland/kanzleramt-laender-gehen-uneins-in-verhandlungen-mit-olaf-scholz](https://www.spiegel.de/politik/deutschland/kanzleramt-laender-gehen-uneins-in-verhandlungen-mit-olaf-scholz-a-c06742c2-204e-48d3-ad60-4e82e9179259#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/winfried-kretschmann-befuerwortet-asylverfahren-in-drittstaaten](https://www.spiegel.de/politik/deutschland/winfried-kretschmann-befuerwortet-asylverfahren-in-drittstaaten-a-6d3a50e6-af2b-46f0-b3d3-79d58a8a6edb#ref=rss)
-### verhandlungen
-
-* [https://www.spiegel.de/politik/deutschland/kanzleramt-laender-gehen-uneins-in-verhandlungen-mit-olaf-scholz](https://www.spiegel.de/politik/deutschland/kanzleramt-laender-gehen-uneins-in-verhandlungen-mit-olaf-scholz-a-c06742c2-204e-48d3-ad60-4e82e9179259#ref=rss)
-### stehen
-
-* [https://www.spiegel.de/politik/deutschland/kanzleramt-laender-gehen-uneins-in-verhandlungen-mit-olaf-scholz](https://www.spiegel.de/politik/deutschland/kanzleramt-laender-gehen-uneins-in-verhandlungen-mit-olaf-scholz-a-c06742c2-204e-48d3-ad60-4e82e9179259#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/db-cargo-doch-weniger-geld-fuer-gueter-auf-der-schiene](https://www.spiegel.de/wirtschaft/unternehmen/db-cargo-doch-weniger-geld-fuer-gueter-auf-der-schiene-a-c1f29547-8fc9-4fac-a152-4470fac711df#ref=rss)
-### bevor
-
-* [https://www.spiegel.de/politik/deutschland/kanzleramt-laender-gehen-uneins-in-verhandlungen-mit-olaf-scholz](https://www.spiegel.de/politik/deutschland/kanzleramt-laender-gehen-uneins-in-verhandlungen-mit-olaf-scholz-a-c06742c2-204e-48d3-ad60-4e82e9179259#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lanxess-dividende-gekuerzt-konzern-kaempft-gegen-die-krise](https://www.spiegel.de/wirtschaft/lanxess-dividende-gekuerzt-konzern-kaempft-gegen-die-krise-a-ad94297a-1267-4538-90a4-3fda7e110125#ref=rss)
-### vier
-
-* [https://www.spiegel.de/panorama/justiz/vier-maenner-wegen-diebstahls-von-gold-klo-angeklagt](https://www.spiegel.de/panorama/justiz/vier-maenner-wegen-diebstahls-von-gold-klo-angeklagt-a-f5c82b93-7636-4c8c-84a6-7271c4413227#ref=rss)
-### männer
-
-* [https://www.spiegel.de/panorama/justiz/vier-maenner-wegen-diebstahls-von-gold-klo-angeklagt](https://www.spiegel.de/panorama/justiz/vier-maenner-wegen-diebstahls-von-gold-klo-angeklagt-a-f5c82b93-7636-4c8c-84a6-7271c4413227#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/panorama/justiz/vier-maenner-wegen-diebstahls-von-gold-klo-angeklagt](https://www.spiegel.de/panorama/justiz/vier-maenner-wegen-diebstahls-von-gold-klo-angeklagt-a-f5c82b93-7636-4c8c-84a6-7271c4413227#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/lidl-konzern-investiert-in-ki-start-up-aleph-alpha](https://www.spiegel.de/netzwelt/web/lidl-konzern-investiert-in-ki-start-up-aleph-alpha-a-6181a6a9-ed24-4eca-aaac-df6d913ab7d2#ref=rss)
-### gaza
-
-* [https://www.spiegel.de/ausland/gaza-krankenhaeuser-vor-dem-aus-viele-patienten-werden-sterben](https://www.spiegel.de/ausland/gaza-krankenhaeuser-vor-dem-aus-viele-patienten-werden-sterben-a-038cd4c1-bd0a-4d28-9844-198adc251350#ref=rss)
-### sterben
-
-* [https://www.spiegel.de/ausland/gaza-krankenhaeuser-vor-dem-aus-viele-patienten-werden-sterben](https://www.spiegel.de/ausland/gaza-krankenhaeuser-vor-dem-aus-viele-patienten-werden-sterben-a-038cd4c1-bd0a-4d28-9844-198adc251350#ref=rss)
-* [https://www.spiegel.de/ausland/publizist-gideon-levy-ueber-nahostkonflikt-es-werden-immer-mehr-israelische-soldaten-sterben-und-die-stimmung-wird-noch-aggressiver-werden](https://www.spiegel.de/ausland/publizist-gideon-levy-ueber-nahostkonflikt-es-werden-immer-mehr-israelische-soldaten-sterben-und-die-stimmung-wird-noch-aggressiver-werden-a-c62eadad-178b-4029-b811-1dd0f9b597b6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/krieg-in-gaza-deutschland-gibt-hilfsgelder-fuer-palaestinensische-gebiete-wieder-frei](https://www.spiegel.de/politik/deutschland/krieg-in-gaza-deutschland-gibt-hilfsgelder-fuer-palaestinensische-gebiete-wieder-frei-a-96f5c6bf-7d3e-4957-942a-76678669f3a4#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-benjamin-netanyahu-offen-fuer-taktische-pausen](https://www.spiegel.de/ausland/israel-gaza-news-heute-benjamin-netanyahu-offen-fuer-taktische-pausen-a-ec638c1d-907b-45d8-b7c8-3ea2a1030eb7#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-die-front-steckt-fest](https://www.spiegel.de/ausland/ukraine-krieg-die-front-steckt-fest-a-a3eb68ba-4f0b-4d49-9edc-087b15bb7c5a#ref=rss)
 ### israel
 
-* [https://www.spiegel.de/ausland/israel-gaza-news-heute-militaerchef-sieht-armee-jederzeit-bereit-auch-im-libanon-zuzuschlagen](https://www.spiegel.de/ausland/israel-gaza-news-heute-militaerchef-sieht-armee-jederzeit-bereit-auch-im-libanon-zuzuschlagen-a-8e2cd19a-18b8-4320-bedb-6e566f8b8809#ref=rss)
-* [https://www.spiegel.de/ausland/publizist-gideon-levy-ueber-nahostkonflikt-es-werden-immer-mehr-israelische-soldaten-sterben-und-die-stimmung-wird-noch-aggressiver-werden](https://www.spiegel.de/ausland/publizist-gideon-levy-ueber-nahostkonflikt-es-werden-immer-mehr-israelische-soldaten-sterben-und-die-stimmung-wird-noch-aggressiver-werden-a-c62eadad-178b-4029-b811-1dd0f9b597b6#ref=rss)
-### zwei
+* [https://www.spiegel.de/politik/deutschland/krieg-in-gaza-deutschland-gibt-hilfsgelder-fuer-palaestinensische-gebiete-wieder-frei](https://www.spiegel.de/politik/deutschland/krieg-in-gaza-deutschland-gibt-hilfsgelder-fuer-palaestinensische-gebiete-wieder-frei-a-96f5c6bf-7d3e-4957-942a-76678669f3a4#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-benjamin-netanyahu-offen-fuer-taktische-pausen](https://www.spiegel.de/ausland/israel-gaza-news-heute-benjamin-netanyahu-offen-fuer-taktische-pausen-a-ec638c1d-907b-45d8-b7c8-3ea2a1030eb7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-gaza-donald-trump-migration](https://www.spiegel.de/politik/deutschland/news-gaza-donald-trump-migration-a-9f91a281-6b19-4fde-900b-073ff4ee3c4e#ref=rss)
+### frau
 
-* [https://www.spiegel.de/ausland/israel-gaza-news-heute-militaerchef-sieht-armee-jederzeit-bereit-auch-im-libanon-zuzuschlagen](https://www.spiegel.de/ausland/israel-gaza-news-heute-militaerchef-sieht-armee-jederzeit-bereit-auch-im-libanon-zuzuschlagen-a-8e2cd19a-18b8-4320-bedb-6e566f8b8809#ref=rss)
-### zugang
+* [https://www.spiegel.de/panorama/michelfeld-mitarbeitende-vergessen-kundin-in-umkleidekabine-und-sperren-sie-ein](https://www.spiegel.de/panorama/michelfeld-mitarbeitende-vergessen-kundin-in-umkleidekabine-und-sperren-sie-ein-a-6ae5b44f-4af7-4480-979d-7091f80ad818#ref=rss)
+* [https://www.spiegel.de/sport/jennifer-hermoso-bestaetigt-morddrohungen-gegen-sich-nach-kuss-skandal](https://www.spiegel.de/sport/jennifer-hermoso-bestaetigt-morddrohungen-gegen-sich-nach-kuss-skandal-a-93692192-4634-491d-b3ad-8977c0e79ea1#ref=rss)
+* [https://www.spiegel.de/panorama/leute/norwegens-kronprinz-haakon-in-bayern-aber-ohne-mette-marit-gruess-gott-alle-miteinand](https://www.spiegel.de/panorama/leute/norwegens-kronprinz-haakon-in-bayern-aber-ohne-mette-marit-gruess-gott-alle-miteinand-a-885fe22c-dde0-4be0-b88f-a987417e37a9#ref=rss)
+### einigung
 
-* [https://www.spiegel.de/kultur/nationalmuseum-budapest-museumsdirektor-ueber-lgbtq-inhalte-entlassen](https://www.spiegel.de/kultur/nationalmuseum-budapest-museumsdirektor-ueber-lgbtq-inhalte-entlassen-a-a2534cea-e3e0-4fb0-83eb-99ea6143c6c7#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/kindesentzug-in-hamburg-generalstaatsanwaltschaft-erlaesst-haftbefehl-gegen-flughafen-geiselnehmer](https://www.spiegel.de/panorama/justiz/kindesentzug-in-hamburg-generalstaatsanwaltschaft-erlaesst-haftbefehl-gegen-flughafen-geiselnehmer-a-dd1c9a2a-e7cf-4ac8-85f9-125c8a516b4a#ref=rss)
-### zeigt
+* [https://www.spiegel.de/politik/deutschland/fluechtlingsgipfel-markus-soeder-und-carsten-linnemann-halten-ergebnisse-fuer-unzureichend](https://www.spiegel.de/politik/deutschland/fluechtlingsgipfel-markus-soeder-und-carsten-linnemann-halten-ergebnisse-fuer-unzureichend-a-adb7c4a7-f887-4c83-8518-55ff3b4bad35#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bund-und-laender-einigen-sich-auf-schnellere-planung-nun-fuerchten-umweltverbaende-um-naturschutz](https://www.spiegel.de/wirtschaft/unternehmen/bund-und-laender-einigen-sich-auf-schnellere-planung-nun-fuerchten-umweltverbaende-um-naturschutz-a-df252b5c-8e79-45f6-a262-3fcfbb0b1bd3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gipfel-zur-fluechtlingspolitik-scholz-punktsieg-und-was-er-bedeutet](https://www.spiegel.de/politik/deutschland/gipfel-zur-fluechtlingspolitik-scholz-punktsieg-und-was-er-bedeutet-a-4337ac12-9f9e-4146-adaf-34260eaef0ee#ref=rss)
+### einigen
 
-* [https://www.spiegel.de/wirtschaft/soziales/arbeitszeit-viele-vollzeit-beschaeftigte-wollen-kuerzer-arbeiten](https://www.spiegel.de/wirtschaft/soziales/arbeitszeit-viele-vollzeit-beschaeftigte-wollen-kuerzer-arbeiten-a-af21c31b-d6cc-484c-94cb-3d66b5baf850#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/macbook-pro-m3-von-apple-im-test-black-beauty](https://www.spiegel.de/netzwelt/gadgets/macbook-pro-m3-von-apple-im-test-black-beauty-a-7ad6d016-f3d2-41a2-834e-8681753980c4#ref=rss)
-### spiegelinformationen
+* [https://www.spiegel.de/wirtschaft/unternehmen/bund-und-laender-einigen-sich-auf-schnellere-planung-nun-fuerchten-umweltverbaende-um-naturschutz](https://www.spiegel.de/wirtschaft/unternehmen/bund-und-laender-einigen-sich-auf-schnellere-planung-nun-fuerchten-umweltverbaende-um-naturschutz-a-df252b5c-8e79-45f6-a262-3fcfbb0b1bd3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-gaza-donald-trump-migration](https://www.spiegel.de/politik/deutschland/news-gaza-donald-trump-migration-a-9f91a281-6b19-4fde-900b-073ff4ee3c4e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/migration-bund-und-laender-einigen-sich-auf-neue-kostenverteilung-in-asylpolitik](https://www.spiegel.de/politik/deutschland/migration-bund-und-laender-einigen-sich-auf-neue-kostenverteilung-in-asylpolitik-a-a004e4e0-a519-4724-bcbb-8754088a9f09#ref=rss)
+### asylpolitik
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/db-cargo-doch-weniger-geld-fuer-gueter-auf-der-schiene](https://www.spiegel.de/wirtschaft/unternehmen/db-cargo-doch-weniger-geld-fuer-gueter-auf-der-schiene-a-c1f29547-8fc9-4fac-a152-4470fac711df#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/flughafen-hamburg-ex-frau-zeigte-geiselnehmer-dreimal-an](https://www.spiegel.de/panorama/justiz/flughafen-hamburg-ex-frau-zeigte-geiselnehmer-dreimal-an-a-ed5be2fa-475d-4344-8a99-9bfb77db23b4#ref=rss)
-### ermittlungsrichter
+* [https://www.spiegel.de/politik/deutschland/gipfel-zur-fluechtlingspolitik-scholz-punktsieg-und-was-er-bedeutet](https://www.spiegel.de/politik/deutschland/gipfel-zur-fluechtlingspolitik-scholz-punktsieg-und-was-er-bedeutet-a-4337ac12-9f9e-4146-adaf-34260eaef0ee#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/migration-bund-und-laender-einigen-sich-auf-neue-kostenverteilung-in-asylpolitik](https://www.spiegel.de/politik/deutschland/migration-bund-und-laender-einigen-sich-auf-neue-kostenverteilung-in-asylpolitik-a-a004e4e0-a519-4724-bcbb-8754088a9f09#ref=rss)
+### einreisebeschränkungen
 
-* [https://www.spiegel.de/panorama/justiz/kindesentzug-in-hamburg-generalstaatsanwaltschaft-erlaesst-haftbefehl-gegen-flughafen-geiselnehmer](https://www.spiegel.de/panorama/justiz/kindesentzug-in-hamburg-generalstaatsanwaltschaft-erlaesst-haftbefehl-gegen-flughafen-geiselnehmer-a-dd1c9a2a-e7cf-4ac8-85f9-125c8a516b4a#ref=rss)
-### haftbefehl
+* [https://www.spiegel.de/sport/olympia/wegen-einreisebeschraenkungen-thomas-bach-daempft-deutsche-olympia-ambitionen](https://www.spiegel.de/sport/olympia/wegen-einreisebeschraenkungen-thomas-bach-daempft-deutsche-olympia-ambitionen-a-e7ae11f2-ad13-4763-9c06-6290eb30c95c#ref=rss)
+### thomas
 
-* [https://www.spiegel.de/panorama/justiz/kindesentzug-in-hamburg-generalstaatsanwaltschaft-erlaesst-haftbefehl-gegen-flughafen-geiselnehmer](https://www.spiegel.de/panorama/justiz/kindesentzug-in-hamburg-generalstaatsanwaltschaft-erlaesst-haftbefehl-gegen-flughafen-geiselnehmer-a-dd1c9a2a-e7cf-4ac8-85f9-125c8a516b4a#ref=rss)
-### flughafengeiselnehmer
+* [https://www.spiegel.de/sport/olympia/wegen-einreisebeschraenkungen-thomas-bach-daempft-deutsche-olympia-ambitionen](https://www.spiegel.de/sport/olympia/wegen-einreisebeschraenkungen-thomas-bach-daempft-deutsche-olympia-ambitionen-a-e7ae11f2-ad13-4763-9c06-6290eb30c95c#ref=rss)
+### bach
 
-* [https://www.spiegel.de/panorama/justiz/kindesentzug-in-hamburg-generalstaatsanwaltschaft-erlaesst-haftbefehl-gegen-flughafen-geiselnehmer](https://www.spiegel.de/panorama/justiz/kindesentzug-in-hamburg-generalstaatsanwaltschaft-erlaesst-haftbefehl-gegen-flughafen-geiselnehmer-a-dd1c9a2a-e7cf-4ac8-85f9-125c8a516b4a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/flughafen-hamburg-ex-frau-zeigte-geiselnehmer-dreimal-an](https://www.spiegel.de/panorama/justiz/flughafen-hamburg-ex-frau-zeigte-geiselnehmer-dreimal-an-a-ed5be2fa-475d-4344-8a99-9bfb77db23b4#ref=rss)
-### fc
+* [https://www.spiegel.de/sport/olympia/wegen-einreisebeschraenkungen-thomas-bach-daempft-deutsche-olympia-ambitionen](https://www.spiegel.de/sport/olympia/wegen-einreisebeschraenkungen-thomas-bach-daempft-deutsche-olympia-ambitionen-a-e7ae11f2-ad13-4763-9c06-6290eb30c95c#ref=rss)
+### barbra
 
-* [https://www.spiegel.de/sport/fussball/fussball-airline-fliegt-fc-sevilla-und-streicht-flug-fuer-passagiere](https://www.spiegel.de/sport/fussball/fussball-airline-fliegt-fc-sevilla-und-streicht-flug-fuer-passagiere-a-90422d5c-6ff1-46ac-93c2-232505d22d5d#ref=rss)
-### sevilla
+* [https://www.spiegel.de/netzwelt/apps/barbra-streisand-rief-bei-tim-cook-an-um-siri-zu-veraendern](https://www.spiegel.de/netzwelt/apps/barbra-streisand-rief-bei-tim-cook-an-um-siri-zu-veraendern-a-9f069974-5454-4b33-8d62-3eca1051d5c8#ref=rss)
+### streisand
 
-* [https://www.spiegel.de/sport/fussball/fussball-airline-fliegt-fc-sevilla-und-streicht-flug-fuer-passagiere](https://www.spiegel.de/sport/fussball/fussball-airline-fliegt-fc-sevilla-und-streicht-flug-fuer-passagiere-a-90422d5c-6ff1-46ac-93c2-232505d22d5d#ref=rss)
-### passagiere
+* [https://www.spiegel.de/netzwelt/apps/barbra-streisand-rief-bei-tim-cook-an-um-siri-zu-veraendern](https://www.spiegel.de/netzwelt/apps/barbra-streisand-rief-bei-tim-cook-an-um-siri-zu-veraendern-a-9f069974-5454-4b33-8d62-3eca1051d5c8#ref=rss)
+### applechef
 
-* [https://www.spiegel.de/sport/fussball/fussball-airline-fliegt-fc-sevilla-und-streicht-flug-fuer-passagiere](https://www.spiegel.de/sport/fussball/fussball-airline-fliegt-fc-sevilla-und-streicht-flug-fuer-passagiere-a-90422d5c-6ff1-46ac-93c2-232505d22d5d#ref=rss)
-### lanxess
+* [https://www.spiegel.de/netzwelt/apps/barbra-streisand-rief-bei-tim-cook-an-um-siri-zu-veraendern](https://www.spiegel.de/netzwelt/apps/barbra-streisand-rief-bei-tim-cook-an-um-siri-zu-veraendern-a-9f069974-5454-4b33-8d62-3eca1051d5c8#ref=rss)
+### siri
 
-* [https://www.spiegel.de/wirtschaft/lanxess-dividende-gekuerzt-konzern-kaempft-gegen-die-krise](https://www.spiegel.de/wirtschaft/lanxess-dividende-gekuerzt-konzern-kaempft-gegen-die-krise-a-ad94297a-1267-4538-90a4-3fda7e110125#ref=rss)
-### aleph
+* [https://www.spiegel.de/netzwelt/apps/barbra-streisand-rief-bei-tim-cook-an-um-siri-zu-veraendern](https://www.spiegel.de/netzwelt/apps/barbra-streisand-rief-bei-tim-cook-an-um-siri-zu-veraendern-a-9f069974-5454-4b33-8d62-3eca1051d5c8#ref=rss)
+### berichtet
 
-* [https://www.spiegel.de/netzwelt/web/lidl-konzern-investiert-in-ki-start-up-aleph-alpha](https://www.spiegel.de/netzwelt/web/lidl-konzern-investiert-in-ki-start-up-aleph-alpha-a-6181a6a9-ed24-4eca-aaac-df6d913ab7d2#ref=rss)
-### alpha
+* [https://www.spiegel.de/netzwelt/apps/barbra-streisand-rief-bei-tim-cook-an-um-siri-zu-veraendern](https://www.spiegel.de/netzwelt/apps/barbra-streisand-rief-bei-tim-cook-an-um-siri-zu-veraendern-a-9f069974-5454-4b33-8d62-3eca1051d5c8#ref=rss)
+* [https://www.spiegel.de/sport/jennifer-hermoso-bestaetigt-morddrohungen-gegen-sich-nach-kuss-skandal](https://www.spiegel.de/sport/jennifer-hermoso-bestaetigt-morddrohungen-gegen-sich-nach-kuss-skandal-a-93692192-4634-491d-b3ad-8977c0e79ea1#ref=rss)
+### ließ
 
-* [https://www.spiegel.de/netzwelt/web/lidl-konzern-investiert-in-ki-start-up-aleph-alpha](https://www.spiegel.de/netzwelt/web/lidl-konzern-investiert-in-ki-start-up-aleph-alpha-a-6181a6a9-ed24-4eca-aaac-df6d913ab7d2#ref=rss)
-### zweiter
+* [https://www.spiegel.de/netzwelt/apps/barbra-streisand-rief-bei-tim-cook-an-um-siri-zu-veraendern](https://www.spiegel.de/netzwelt/apps/barbra-streisand-rief-bei-tim-cook-an-um-siri-zu-veraendern-a-9f069974-5454-4b33-8d62-3eca1051d5c8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/trigema-chef-wolfgang-grupp-uebergibt-an-tochter-und-sohn](https://www.spiegel.de/wirtschaft/unternehmen/trigema-chef-wolfgang-grupp-uebergibt-an-tochter-und-sohn-a-f0ff5745-210b-46db-b800-698efd84af63#ref=rss)
+### ubs
 
-* [https://www.spiegel.de/panorama/justiz/muenchen-zweiter-buergermeister-dominik-krause-nennt-oktoberfest-weltweit-groesste-offene-drogenszene](https://www.spiegel.de/panorama/justiz/muenchen-zweiter-buergermeister-dominik-krause-nennt-oktoberfest-weltweit-groesste-offene-drogenszene-a-0f5f460d-ec71-4236-a5e1-728bfe4a0ecb#ref=rss)
-### dominik
+* [https://www.spiegel.de/wirtschaft/unternehmen/ubs-schreibt-rote-zahlen-wegen-uebernahme-von-credit-suisse](https://www.spiegel.de/wirtschaft/unternehmen/ubs-schreibt-rote-zahlen-wegen-uebernahme-von-credit-suisse-a-e2000db5-ee69-43b0-8330-e9f169405fa7#ref=rss)
+### credit
 
-* [https://www.spiegel.de/panorama/justiz/muenchen-zweiter-buergermeister-dominik-krause-nennt-oktoberfest-weltweit-groesste-offene-drogenszene](https://www.spiegel.de/panorama/justiz/muenchen-zweiter-buergermeister-dominik-krause-nennt-oktoberfest-weltweit-groesste-offene-drogenszene-a-0f5f460d-ec71-4236-a5e1-728bfe4a0ecb#ref=rss)
-### krause
+* [https://www.spiegel.de/wirtschaft/unternehmen/ubs-schreibt-rote-zahlen-wegen-uebernahme-von-credit-suisse](https://www.spiegel.de/wirtschaft/unternehmen/ubs-schreibt-rote-zahlen-wegen-uebernahme-von-credit-suisse-a-e2000db5-ee69-43b0-8330-e9f169405fa7#ref=rss)
+### suisse
 
-* [https://www.spiegel.de/panorama/justiz/muenchen-zweiter-buergermeister-dominik-krause-nennt-oktoberfest-weltweit-groesste-offene-drogenszene](https://www.spiegel.de/panorama/justiz/muenchen-zweiter-buergermeister-dominik-krause-nennt-oktoberfest-weltweit-groesste-offene-drogenszene-a-0f5f460d-ec71-4236-a5e1-728bfe4a0ecb#ref=rss)
-### oktoberfest
+* [https://www.spiegel.de/wirtschaft/unternehmen/ubs-schreibt-rote-zahlen-wegen-uebernahme-von-credit-suisse](https://www.spiegel.de/wirtschaft/unternehmen/ubs-schreibt-rote-zahlen-wegen-uebernahme-von-credit-suisse-a-e2000db5-ee69-43b0-8330-e9f169405fa7#ref=rss)
+### milliarden
 
-* [https://www.spiegel.de/panorama/justiz/muenchen-zweiter-buergermeister-dominik-krause-nennt-oktoberfest-weltweit-groesste-offene-drogenszene](https://www.spiegel.de/panorama/justiz/muenchen-zweiter-buergermeister-dominik-krause-nennt-oktoberfest-weltweit-groesste-offene-drogenszene-a-0f5f460d-ec71-4236-a5e1-728bfe4a0ecb#ref=rss)
-### weltweit
+* [https://www.spiegel.de/wirtschaft/unternehmen/ubs-schreibt-rote-zahlen-wegen-uebernahme-von-credit-suisse](https://www.spiegel.de/wirtschaft/unternehmen/ubs-schreibt-rote-zahlen-wegen-uebernahme-von-credit-suisse-a-e2000db5-ee69-43b0-8330-e9f169405fa7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/wework-buerovermieter-stellt-insolvenzantrag-ex-start-up-in-der-krise](https://www.spiegel.de/wirtschaft/unternehmen/wework-buerovermieter-stellt-insolvenzantrag-ex-start-up-in-der-krise-a-5c136df5-6b16-41ca-b6d2-73eaeded2c97#ref=rss)
+### gaza
 
-* [https://www.spiegel.de/panorama/justiz/muenchen-zweiter-buergermeister-dominik-krause-nennt-oktoberfest-weltweit-groesste-offene-drogenszene](https://www.spiegel.de/panorama/justiz/muenchen-zweiter-buergermeister-dominik-krause-nennt-oktoberfest-weltweit-groesste-offene-drogenszene-a-0f5f460d-ec71-4236-a5e1-728bfe4a0ecb#ref=rss)
-* [https://www.spiegel.de/deinspiegel/zoe-wees-im-kinder-interview-meine-songs-sollen-eine-beste-freundin-sein](https://www.spiegel.de/deinspiegel/zoe-wees-im-kinder-interview-meine-songs-sollen-eine-beste-freundin-sein-a-8fefad64-4d7b-4063-a9c5-7d6bdb2416fe#ref=rss)
-### erst
+* [https://www.spiegel.de/politik/deutschland/krieg-in-gaza-deutschland-gibt-hilfsgelder-fuer-palaestinensische-gebiete-wieder-frei](https://www.spiegel.de/politik/deutschland/krieg-in-gaza-deutschland-gibt-hilfsgelder-fuer-palaestinensische-gebiete-wieder-frei-a-96f5c6bf-7d3e-4957-942a-76678669f3a4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-gaza-donald-trump-migration](https://www.spiegel.de/politik/deutschland/news-gaza-donald-trump-migration-a-9f91a281-6b19-4fde-900b-073ff4ee3c4e#ref=rss)
+### gazastreifen
 
-* [https://www.spiegel.de/panorama/justiz/muenchen-zweiter-buergermeister-dominik-krause-nennt-oktoberfest-weltweit-groesste-offene-drogenszene](https://www.spiegel.de/panorama/justiz/muenchen-zweiter-buergermeister-dominik-krause-nennt-oktoberfest-weltweit-groesste-offene-drogenszene-a-0f5f460d-ec71-4236-a5e1-728bfe4a0ecb#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/flughafen-hamburg-ex-frau-zeigte-geiselnehmer-dreimal-an](https://www.spiegel.de/panorama/justiz/flughafen-hamburg-ex-frau-zeigte-geiselnehmer-dreimal-an-a-ed5be2fa-475d-4344-8a99-9bfb77db23b4#ref=rss)
-### hansgeorg
+* [https://www.spiegel.de/politik/deutschland/krieg-in-gaza-deutschland-gibt-hilfsgelder-fuer-palaestinensische-gebiete-wieder-frei](https://www.spiegel.de/politik/deutschland/krieg-in-gaza-deutschland-gibt-hilfsgelder-fuer-palaestinensische-gebiete-wieder-frei-a-96f5c6bf-7d3e-4957-942a-76678669f3a4#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-benjamin-netanyahu-offen-fuer-taktische-pausen](https://www.spiegel.de/ausland/israel-gaza-news-heute-benjamin-netanyahu-offen-fuer-taktische-pausen-a-ec638c1d-907b-45d8-b7c8-3ea2a1030eb7#ref=rss)
+### kundin
 
-* [https://www.spiegel.de/politik/deutschland/hans-georg-maassen-cdu-spitze-treibt-ausschlussverfahren-weiter-voran](https://www.spiegel.de/politik/deutschland/hans-georg-maassen-cdu-spitze-treibt-ausschlussverfahren-weiter-voran-a-f3ac880f-32bd-4efa-86b8-52a26cc03207#ref=rss)
-### macbook
+* [https://www.spiegel.de/panorama/michelfeld-mitarbeitende-vergessen-kundin-in-umkleidekabine-und-sperren-sie-ein](https://www.spiegel.de/panorama/michelfeld-mitarbeitende-vergessen-kundin-in-umkleidekabine-und-sperren-sie-ein-a-6ae5b44f-4af7-4480-979d-7091f80ad818#ref=rss)
+### evan
 
-* [https://www.spiegel.de/netzwelt/gadgets/macbook-pro-m3-von-apple-im-test-black-beauty](https://www.spiegel.de/netzwelt/gadgets/macbook-pro-m3-von-apple-im-test-black-beauty-a-7ad6d016-f3d2-41a2-834e-8681753980c4#ref=rss)
-### pro
+* [https://www.spiegel.de/kultur/tv/frueherer-kinderdarsteller-evan-ellingson-im-alter-von-35-jahren-gestorben](https://www.spiegel.de/kultur/tv/frueherer-kinderdarsteller-evan-ellingson-im-alter-von-35-jahren-gestorben-a-9c9ae60a-05c9-4a55-8358-f8be5f184048#ref=rss)
+### ellingson
 
-* [https://www.spiegel.de/netzwelt/gadgets/macbook-pro-m3-von-apple-im-test-black-beauty](https://www.spiegel.de/netzwelt/gadgets/macbook-pro-m3-von-apple-im-test-black-beauty-a-7ad6d016-f3d2-41a2-834e-8681753980c4#ref=rss)
-### test
+* [https://www.spiegel.de/kultur/tv/frueherer-kinderdarsteller-evan-ellingson-im-alter-von-35-jahren-gestorben](https://www.spiegel.de/kultur/tv/frueherer-kinderdarsteller-evan-ellingson-im-alter-von-35-jahren-gestorben-a-9c9ae60a-05c9-4a55-8358-f8be5f184048#ref=rss)
+### alter
 
-* [https://www.spiegel.de/netzwelt/gadgets/macbook-pro-m3-von-apple-im-test-black-beauty](https://www.spiegel.de/netzwelt/gadgets/macbook-pro-m3-von-apple-im-test-black-beauty-a-7ad6d016-f3d2-41a2-834e-8681753980c4#ref=rss)
-### schaf
+* [https://www.spiegel.de/kultur/tv/frueherer-kinderdarsteller-evan-ellingson-im-alter-von-35-jahren-gestorben](https://www.spiegel.de/kultur/tv/frueherer-kinderdarsteller-evan-ellingson-im-alter-von-35-jahren-gestorben-a-9c9ae60a-05c9-4a55-8358-f8be5f184048#ref=rss)
+### 35
 
-* [https://www.spiegel.de/panorama/grossbritannien-einsamstes-schaf-nach-protesten-an-geheimem-ort-untergebracht](https://www.spiegel.de/panorama/grossbritannien-einsamstes-schaf-nach-protesten-an-geheimem-ort-untergebracht-a-be22f130-5cc9-495d-9ec4-ed080090cf71#ref=rss)
-### publizist
+* [https://www.spiegel.de/kultur/tv/frueherer-kinderdarsteller-evan-ellingson-im-alter-von-35-jahren-gestorben](https://www.spiegel.de/kultur/tv/frueherer-kinderdarsteller-evan-ellingson-im-alter-von-35-jahren-gestorben-a-9c9ae60a-05c9-4a55-8358-f8be5f184048#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/ausland/publizist-gideon-levy-ueber-nahostkonflikt-es-werden-immer-mehr-israelische-soldaten-sterben-und-die-stimmung-wird-noch-aggressiver-werden](https://www.spiegel.de/ausland/publizist-gideon-levy-ueber-nahostkonflikt-es-werden-immer-mehr-israelische-soldaten-sterben-und-die-stimmung-wird-noch-aggressiver-werden-a-c62eadad-178b-4029-b811-1dd0f9b597b6#ref=rss)
-### gideon
+* [https://www.spiegel.de/kultur/tv/frueherer-kinderdarsteller-evan-ellingson-im-alter-von-35-jahren-gestorben](https://www.spiegel.de/kultur/tv/frueherer-kinderdarsteller-evan-ellingson-im-alter-von-35-jahren-gestorben-a-9c9ae60a-05c9-4a55-8358-f8be5f184048#ref=rss)
+### gestorben
 
-* [https://www.spiegel.de/ausland/publizist-gideon-levy-ueber-nahostkonflikt-es-werden-immer-mehr-israelische-soldaten-sterben-und-die-stimmung-wird-noch-aggressiver-werden](https://www.spiegel.de/ausland/publizist-gideon-levy-ueber-nahostkonflikt-es-werden-immer-mehr-israelische-soldaten-sterben-und-die-stimmung-wird-noch-aggressiver-werden-a-c62eadad-178b-4029-b811-1dd0f9b597b6#ref=rss)
-### levy
+* [https://www.spiegel.de/kultur/tv/frueherer-kinderdarsteller-evan-ellingson-im-alter-von-35-jahren-gestorben](https://www.spiegel.de/kultur/tv/frueherer-kinderdarsteller-evan-ellingson-im-alter-von-35-jahren-gestorben-a-9c9ae60a-05c9-4a55-8358-f8be5f184048#ref=rss)
+### kadewe
 
-* [https://www.spiegel.de/ausland/publizist-gideon-levy-ueber-nahostkonflikt-es-werden-immer-mehr-israelische-soldaten-sterben-und-die-stimmung-wird-noch-aggressiver-werden](https://www.spiegel.de/ausland/publizist-gideon-levy-ueber-nahostkonflikt-es-werden-immer-mehr-israelische-soldaten-sterben-und-die-stimmung-wird-noch-aggressiver-werden-a-c62eadad-178b-4029-b811-1dd0f9b597b6#ref=rss)
-### groß
+* [https://www.spiegel.de/netzwelt/web/kadewe-hacker-attackieren-berliner-luxuskaufhaus](https://www.spiegel.de/netzwelt/web/kadewe-hacker-attackieren-berliner-luxuskaufhaus-a-69f8b67f-c93c-43f4-a012-9cdc7e331547#ref=rss)
+### berliner
 
-* [https://www.spiegel.de/ausland/publizist-gideon-levy-ueber-nahostkonflikt-es-werden-immer-mehr-israelische-soldaten-sterben-und-die-stimmung-wird-noch-aggressiver-werden](https://www.spiegel.de/ausland/publizist-gideon-levy-ueber-nahostkonflikt-es-werden-immer-mehr-israelische-soldaten-sterben-und-die-stimmung-wird-noch-aggressiver-werden-a-c62eadad-178b-4029-b811-1dd0f9b597b6#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/tangerhuette-stadtrat-will-umbenennung-von-anne-frank-kita-offenbar-ablehnen](https://www.spiegel.de/panorama/gesellschaft/tangerhuette-stadtrat-will-umbenennung-von-anne-frank-kita-offenbar-ablehnen-a-6dcb53e6-93d6-42af-bbe5-eeab6b4dc75c#ref=rss)
-### zoe
+* [https://www.spiegel.de/netzwelt/web/kadewe-hacker-attackieren-berliner-luxuskaufhaus](https://www.spiegel.de/netzwelt/web/kadewe-hacker-attackieren-berliner-luxuskaufhaus-a-69f8b67f-c93c-43f4-a012-9cdc7e331547#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/antisemitismus-beratungsstelle-ofek-verzeichnet-enormen-anstieg-hilfesuchender](https://www.spiegel.de/politik/deutschland/antisemitismus-beratungsstelle-ofek-verzeichnet-enormen-anstieg-hilfesuchender-a-6dc31e6a-3efa-4e9a-9051-0d739096bada#ref=rss)
+### archäologen
 
-* [https://www.spiegel.de/deinspiegel/zoe-wees-im-kinder-interview-meine-songs-sollen-eine-beste-freundin-sein](https://www.spiegel.de/deinspiegel/zoe-wees-im-kinder-interview-meine-songs-sollen-eine-beste-freundin-sein-a-8fefad64-4d7b-4063-a9c5-7d6bdb2416fe#ref=rss)
-### wees
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-benjamin-netanyahu-offen-fuer-taktische-pausen](https://www.spiegel.de/ausland/israel-gaza-news-heute-benjamin-netanyahu-offen-fuer-taktische-pausen-a-ec638c1d-907b-45d8-b7c8-3ea2a1030eb7#ref=rss)
+### benötigt
 
-* [https://www.spiegel.de/deinspiegel/zoe-wees-im-kinder-interview-meine-songs-sollen-eine-beste-freundin-sein](https://www.spiegel.de/deinspiegel/zoe-wees-im-kinder-interview-meine-songs-sollen-eine-beste-freundin-sein-a-8fefad64-4d7b-4063-a9c5-7d6bdb2416fe#ref=rss)
-### exfrau
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-benjamin-netanyahu-offen-fuer-taktische-pausen](https://www.spiegel.de/ausland/israel-gaza-news-heute-benjamin-netanyahu-offen-fuer-taktische-pausen-a-ec638c1d-907b-45d8-b7c8-3ea2a1030eb7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/antisemitismus-beratungsstelle-ofek-verzeichnet-enormen-anstieg-hilfesuchender](https://www.spiegel.de/politik/deutschland/antisemitismus-beratungsstelle-ofek-verzeichnet-enormen-anstieg-hilfesuchender-a-6dc31e6a-3efa-4e9a-9051-0d739096bada#ref=rss)
+### news
 
-* [https://www.spiegel.de/panorama/justiz/flughafen-hamburg-ex-frau-zeigte-geiselnehmer-dreimal-an](https://www.spiegel.de/panorama/justiz/flughafen-hamburg-ex-frau-zeigte-geiselnehmer-dreimal-an-a-ed5be2fa-475d-4344-8a99-9bfb77db23b4#ref=rss)
-### winfried
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-benjamin-netanyahu-offen-fuer-taktische-pausen](https://www.spiegel.de/ausland/israel-gaza-news-heute-benjamin-netanyahu-offen-fuer-taktische-pausen-a-ec638c1d-907b-45d8-b7c8-3ea2a1030eb7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-gaza-donald-trump-migration](https://www.spiegel.de/politik/deutschland/news-gaza-donald-trump-migration-a-9f91a281-6b19-4fde-900b-073ff4ee3c4e#ref=rss)
+### wolfgang
 
-* [https://www.spiegel.de/politik/deutschland/winfried-kretschmann-befuerwortet-asylverfahren-in-drittstaaten](https://www.spiegel.de/politik/deutschland/winfried-kretschmann-befuerwortet-asylverfahren-in-drittstaaten-a-6d3a50e6-af2b-46f0-b3d3-79d58a8a6edb#ref=rss)
-### kretschmann
+* [https://www.spiegel.de/wirtschaft/unternehmen/trigema-chef-wolfgang-grupp-uebergibt-an-tochter-und-sohn](https://www.spiegel.de/wirtschaft/unternehmen/trigema-chef-wolfgang-grupp-uebergibt-an-tochter-und-sohn-a-f0ff5745-210b-46db-b800-698efd84af63#ref=rss)
+### grupp
 
-* [https://www.spiegel.de/politik/deutschland/winfried-kretschmann-befuerwortet-asylverfahren-in-drittstaaten](https://www.spiegel.de/politik/deutschland/winfried-kretschmann-befuerwortet-asylverfahren-in-drittstaaten-a-6d3a50e6-af2b-46f0-b3d3-79d58a8a6edb#ref=rss)
-### asylverfahren
+* [https://www.spiegel.de/wirtschaft/unternehmen/trigema-chef-wolfgang-grupp-uebergibt-an-tochter-und-sohn](https://www.spiegel.de/wirtschaft/unternehmen/trigema-chef-wolfgang-grupp-uebergibt-an-tochter-und-sohn-a-f0ff5745-210b-46db-b800-698efd84af63#ref=rss)
+### tochter
 
-* [https://www.spiegel.de/politik/deutschland/winfried-kretschmann-befuerwortet-asylverfahren-in-drittstaaten](https://www.spiegel.de/politik/deutschland/winfried-kretschmann-befuerwortet-asylverfahren-in-drittstaaten-a-6d3a50e6-af2b-46f0-b3d3-79d58a8a6edb#ref=rss)
-### tangerhütte
+* [https://www.spiegel.de/wirtschaft/unternehmen/trigema-chef-wolfgang-grupp-uebergibt-an-tochter-und-sohn](https://www.spiegel.de/wirtschaft/unternehmen/trigema-chef-wolfgang-grupp-uebergibt-an-tochter-und-sohn-a-f0ff5745-210b-46db-b800-698efd84af63#ref=rss)
+### sohn
 
-* [https://www.spiegel.de/panorama/gesellschaft/tangerhuette-stadtrat-will-umbenennung-von-anne-frank-kita-offenbar-ablehnen](https://www.spiegel.de/panorama/gesellschaft/tangerhuette-stadtrat-will-umbenennung-von-anne-frank-kita-offenbar-ablehnen-a-6dcb53e6-93d6-42af-bbe5-eeab6b4dc75c#ref=rss)
-### anne
+* [https://www.spiegel.de/wirtschaft/unternehmen/trigema-chef-wolfgang-grupp-uebergibt-an-tochter-und-sohn](https://www.spiegel.de/wirtschaft/unternehmen/trigema-chef-wolfgang-grupp-uebergibt-an-tochter-und-sohn-a-f0ff5745-210b-46db-b800-698efd84af63#ref=rss)
+### geben
 
-* [https://www.spiegel.de/panorama/gesellschaft/tangerhuette-stadtrat-will-umbenennung-von-anne-frank-kita-offenbar-ablehnen](https://www.spiegel.de/panorama/gesellschaft/tangerhuette-stadtrat-will-umbenennung-von-anne-frank-kita-offenbar-ablehnen-a-6dcb53e6-93d6-42af-bbe5-eeab6b4dc75c#ref=rss)
-### james
+* [https://www.spiegel.de/wirtschaft/unternehmen/trigema-chef-wolfgang-grupp-uebergibt-an-tochter-und-sohn](https://www.spiegel.de/wirtschaft/unternehmen/trigema-chef-wolfgang-grupp-uebergibt-an-tochter-und-sohn-a-f0ff5745-210b-46db-b800-698efd84af63#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gipfel-zur-fluechtlingspolitik-scholz-punktsieg-und-was-er-bedeutet](https://www.spiegel.de/politik/deutschland/gipfel-zur-fluechtlingspolitik-scholz-punktsieg-und-was-er-bedeutet-a-4337ac12-9f9e-4146-adaf-34260eaef0ee#ref=rss)
+### legt
 
-* [https://www.spiegel.de/wissenschaft/weltall/james-webb-forschende-beobachten-bisher-unbekannte-starkwinde-auf-dem-jupiter](https://www.spiegel.de/wissenschaft/weltall/james-webb-forschende-beobachten-bisher-unbekannte-starkwinde-auf-dem-jupiter-a-de6e94eb-ee36-4ce1-92ef-f15835bd96cb#ref=rss)
-### jupiter
+* [https://www.spiegel.de/wirtschaft/unternehmen/trigema-chef-wolfgang-grupp-uebergibt-an-tochter-und-sohn](https://www.spiegel.de/wirtschaft/unternehmen/trigema-chef-wolfgang-grupp-uebergibt-an-tochter-und-sohn-a-f0ff5745-210b-46db-b800-698efd84af63#ref=rss)
+* [https://www.spiegel.de/ausland/warum-joe-biden-donald-trump-noch-schlagen-kann-meinung](https://www.spiegel.de/ausland/warum-joe-biden-donald-trump-noch-schlagen-kann-meinung-a-3e853396-c348-4324-8af5-624c78464d0f#ref=rss)
+### schicksal
 
-* [https://www.spiegel.de/wissenschaft/weltall/james-webb-forschende-beobachten-bisher-unbekannte-starkwinde-auf-dem-jupiter](https://www.spiegel.de/wissenschaft/weltall/james-webb-forschende-beobachten-bisher-unbekannte-starkwinde-auf-dem-jupiter-a-de6e94eb-ee36-4ce1-92ef-f15835bd96cb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/trigema-chef-wolfgang-grupp-uebergibt-an-tochter-und-sohn](https://www.spiegel.de/wirtschaft/unternehmen/trigema-chef-wolfgang-grupp-uebergibt-an-tochter-und-sohn-a-f0ff5745-210b-46db-b800-698efd84af63#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-gaza-donald-trump-migration](https://www.spiegel.de/politik/deutschland/news-gaza-donald-trump-migration-a-9f91a281-6b19-4fde-900b-073ff4ee3c4e#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-die-front-steckt-fest](https://www.spiegel.de/ausland/ukraine-krieg-die-front-steckt-fest-a-a3eb68ba-4f0b-4d49-9edc-087b15bb7c5a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gipfel-zur-fluechtlingspolitik-scholz-punktsieg-und-was-er-bedeutet](https://www.spiegel.de/politik/deutschland/gipfel-zur-fluechtlingspolitik-scholz-punktsieg-und-was-er-bedeutet-a-4337ac12-9f9e-4146-adaf-34260eaef0ee#ref=rss)
+### antisemitismusberatungsstelle
+
+* [https://www.spiegel.de/politik/deutschland/antisemitismus-beratungsstelle-ofek-verzeichnet-enormen-anstieg-hilfesuchender](https://www.spiegel.de/politik/deutschland/antisemitismus-beratungsstelle-ofek-verzeichnet-enormen-anstieg-hilfesuchender-a-6dc31e6a-3efa-4e9a-9051-0d739096bada#ref=rss)
+### ofek
+
+* [https://www.spiegel.de/politik/deutschland/antisemitismus-beratungsstelle-ofek-verzeichnet-enormen-anstieg-hilfesuchender](https://www.spiegel.de/politik/deutschland/antisemitismus-beratungsstelle-ofek-verzeichnet-enormen-anstieg-hilfesuchender-a-6dc31e6a-3efa-4e9a-9051-0d739096bada#ref=rss)
+### anstieg
+
+* [https://www.spiegel.de/politik/deutschland/antisemitismus-beratungsstelle-ofek-verzeichnet-enormen-anstieg-hilfesuchender](https://www.spiegel.de/politik/deutschland/antisemitismus-beratungsstelle-ofek-verzeichnet-enormen-anstieg-hilfesuchender-a-6dc31e6a-3efa-4e9a-9051-0d739096bada#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/grossbritannien-treibstoffdiebstahl-macht-tankstellen-zu-schaffen-anstieg-um-77-prozent](https://www.spiegel.de/panorama/justiz/grossbritannien-treibstoffdiebstahl-macht-tankstellen-zu-schaffen-anstieg-um-77-prozent-a-3bba1ffb-397a-4a12-b758-2c531caaa4fe#ref=rss)
+### monat
+
+* [https://www.spiegel.de/politik/deutschland/antisemitismus-beratungsstelle-ofek-verzeichnet-enormen-anstieg-hilfesuchender](https://www.spiegel.de/politik/deutschland/antisemitismus-beratungsstelle-ofek-verzeichnet-enormen-anstieg-hilfesuchender-a-6dc31e6a-3efa-4e9a-9051-0d739096bada#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-gaza-donald-trump-migration](https://www.spiegel.de/politik/deutschland/news-gaza-donald-trump-migration-a-9f91a281-6b19-4fde-900b-073ff4ee3c4e#ref=rss)
+### politik
+
+* [https://www.spiegel.de/politik/deutschland/antisemitismus-beratungsstelle-ofek-verzeichnet-enormen-anstieg-hilfesuchender](https://www.spiegel.de/politik/deutschland/antisemitismus-beratungsstelle-ofek-verzeichnet-enormen-anstieg-hilfesuchender-a-6dc31e6a-3efa-4e9a-9051-0d739096bada#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bund-und-laender-einigen-sich-auf-schnellere-planung-nun-fuerchten-umweltverbaende-um-naturschutz](https://www.spiegel.de/wirtschaft/unternehmen/bund-und-laender-einigen-sich-auf-schnellere-planung-nun-fuerchten-umweltverbaende-um-naturschutz-a-df252b5c-8e79-45f6-a262-3fcfbb0b1bd3#ref=rss)
+### bundesverwaltungsgericht
+
+* [https://www.spiegel.de/panorama/justiz/bundesverwaltungsgericht-in-leipzig-schwer-kranke-klaeger-duerfen-medikament-fuer-suizid-nicht-kaufen](https://www.spiegel.de/panorama/justiz/bundesverwaltungsgericht-in-leipzig-schwer-kranke-klaeger-duerfen-medikament-fuer-suizid-nicht-kaufen-a-b4403170-b590-4581-82b6-42236f5b4f9a#ref=rss)
+### leipzig
+
+* [https://www.spiegel.de/panorama/justiz/bundesverwaltungsgericht-in-leipzig-schwer-kranke-klaeger-duerfen-medikament-fuer-suizid-nicht-kaufen](https://www.spiegel.de/panorama/justiz/bundesverwaltungsgericht-in-leipzig-schwer-kranke-klaeger-duerfen-medikament-fuer-suizid-nicht-kaufen-a-b4403170-b590-4581-82b6-42236f5b4f9a#ref=rss)
+### schwer
+
+* [https://www.spiegel.de/panorama/justiz/bundesverwaltungsgericht-in-leipzig-schwer-kranke-klaeger-duerfen-medikament-fuer-suizid-nicht-kaufen](https://www.spiegel.de/panorama/justiz/bundesverwaltungsgericht-in-leipzig-schwer-kranke-klaeger-duerfen-medikament-fuer-suizid-nicht-kaufen-a-b4403170-b590-4581-82b6-42236f5b4f9a#ref=rss)
+### kranke
+
+* [https://www.spiegel.de/panorama/justiz/bundesverwaltungsgericht-in-leipzig-schwer-kranke-klaeger-duerfen-medikament-fuer-suizid-nicht-kaufen](https://www.spiegel.de/panorama/justiz/bundesverwaltungsgericht-in-leipzig-schwer-kranke-klaeger-duerfen-medikament-fuer-suizid-nicht-kaufen-a-b4403170-b590-4581-82b6-42236f5b4f9a#ref=rss)
+### gescheitert
+
+* [https://www.spiegel.de/panorama/justiz/bundesverwaltungsgericht-in-leipzig-schwer-kranke-klaeger-duerfen-medikament-fuer-suizid-nicht-kaufen](https://www.spiegel.de/panorama/justiz/bundesverwaltungsgericht-in-leipzig-schwer-kranke-klaeger-duerfen-medikament-fuer-suizid-nicht-kaufen-a-b4403170-b590-4581-82b6-42236f5b4f9a#ref=rss)
+* [https://www.spiegel.de/panorama/ludwigshafen-warum-sich-die-stadt-eine-achtspurige-helmut-kohl-allee-baut](https://www.spiegel.de/panorama/ludwigshafen-warum-sich-die-stadt-eine-achtspurige-helmut-kohl-allee-baut-a-b95e3957-eb8c-426f-89bf-8fe39c67d80a#ref=rss)
+### hermoso
+
+* [https://www.spiegel.de/sport/jennifer-hermoso-bestaetigt-morddrohungen-gegen-sich-nach-kuss-skandal](https://www.spiegel.de/sport/jennifer-hermoso-bestaetigt-morddrohungen-gegen-sich-nach-kuss-skandal-a-93692192-4634-491d-b3ad-8977c0e79ea1#ref=rss)
+### bleibt
+
+* [https://www.spiegel.de/reise/fernweh/kakadu-nationalpak-im-northern-territory-schwimmen-wo-australiens-krokodile-wohnen](https://www.spiegel.de/reise/fernweh/kakadu-nationalpak-im-northern-territory-schwimmen-wo-australiens-krokodile-wohnen-a-6a17112d-3786-40c3-bd80-0d56a99d206e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-gaza-donald-trump-migration](https://www.spiegel.de/politik/deutschland/news-gaza-donald-trump-migration-a-9f91a281-6b19-4fde-900b-073ff4ee3c4e#ref=rss)
+### ludwigshafen
+
+* [https://www.spiegel.de/panorama/ludwigshafen-warum-sich-die-stadt-eine-achtspurige-helmut-kohl-allee-baut](https://www.spiegel.de/panorama/ludwigshafen-warum-sich-die-stadt-eine-achtspurige-helmut-kohl-allee-baut-a-b95e3957-eb8c-426f-89bf-8fe39c67d80a#ref=rss)
+### weihnachtsgeld
+
+* [https://www.spiegel.de/wirtschaft/service/weihnachtsgeld-in-diesen-branchen-gibt-es-am-meisten](https://www.spiegel.de/wirtschaft/service/weihnachtsgeld-in-diesen-branchen-gibt-es-am-meisten-a-ef13a781-f454-4ca1-a835-cbc326f4f825#ref=rss)
+### branchen
+
+* [https://www.spiegel.de/wirtschaft/service/weihnachtsgeld-in-diesen-branchen-gibt-es-am-meisten](https://www.spiegel.de/wirtschaft/service/weihnachtsgeld-in-diesen-branchen-gibt-es-am-meisten-a-ef13a781-f454-4ca1-a835-cbc326f4f825#ref=rss)
+### meisten
+
+* [https://www.spiegel.de/wirtschaft/service/weihnachtsgeld-in-diesen-branchen-gibt-es-am-meisten](https://www.spiegel.de/wirtschaft/service/weihnachtsgeld-in-diesen-branchen-gibt-es-am-meisten-a-ef13a781-f454-4ca1-a835-cbc326f4f825#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gipfel-zur-fluechtlingspolitik-scholz-punktsieg-und-was-er-bedeutet](https://www.spiegel.de/politik/deutschland/gipfel-zur-fluechtlingspolitik-scholz-punktsieg-und-was-er-bedeutet-a-4337ac12-9f9e-4146-adaf-34260eaef0ee#ref=rss)
+### industrie
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-deutsche-industrie-faehrt-produktion-unerwartet-stark-herunter](https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-deutsche-industrie-faehrt-produktion-unerwartet-stark-herunter-a-318d575d-e2b5-4c27-ab8e-b730bf43116d#ref=rss)
+### produktion
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-deutsche-industrie-faehrt-produktion-unerwartet-stark-herunter](https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-deutsche-industrie-faehrt-produktion-unerwartet-stark-herunter-a-318d575d-e2b5-4c27-ab8e-b730bf43116d#ref=rss)
+### unternehmen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-deutsche-industrie-faehrt-produktion-unerwartet-stark-herunter](https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-deutsche-industrie-faehrt-produktion-unerwartet-stark-herunter-a-318d575d-e2b5-4c27-ab8e-b730bf43116d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/wework-buerovermieter-stellt-insolvenzantrag-ex-start-up-in-der-krise](https://www.spiegel.de/wirtschaft/unternehmen/wework-buerovermieter-stellt-insolvenzantrag-ex-start-up-in-der-krise-a-5c136df5-6b16-41ca-b6d2-73eaeded2c97#ref=rss)
+### etwa
+
+* [https://www.spiegel.de/panorama/justiz/grossbritannien-treibstoffdiebstahl-macht-tankstellen-zu-schaffen-anstieg-um-77-prozent](https://www.spiegel.de/panorama/justiz/grossbritannien-treibstoffdiebstahl-macht-tankstellen-zu-schaffen-anstieg-um-77-prozent-a-3bba1ffb-397a-4a12-b758-2c531caaa4fe#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bund-und-laender-einigen-sich-auf-schnellere-planung-nun-fuerchten-umweltverbaende-um-naturschutz](https://www.spiegel.de/wirtschaft/unternehmen/bund-und-laender-einigen-sich-auf-schnellere-planung-nun-fuerchten-umweltverbaende-um-naturschutz-a-df252b5c-8e79-45f6-a262-3fcfbb0b1bd3#ref=rss)
+### euro
+
+* [https://www.spiegel.de/panorama/justiz/grossbritannien-treibstoffdiebstahl-macht-tankstellen-zu-schaffen-anstieg-um-77-prozent](https://www.spiegel.de/panorama/justiz/grossbritannien-treibstoffdiebstahl-macht-tankstellen-zu-schaffen-anstieg-um-77-prozent-a-3bba1ffb-397a-4a12-b758-2c531caaa4fe#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/airbnb-in-italien-steuerstreit-richterin-beschlagnahmt-780-millionen-euro](https://www.spiegel.de/wirtschaft/unternehmen/airbnb-in-italien-steuerstreit-richterin-beschlagnahmt-780-millionen-euro-a-37427882-505d-48b4-a267-28ab771ac8f7#ref=rss)
+### joe
+
+* [https://www.spiegel.de/ausland/warum-joe-biden-donald-trump-noch-schlagen-kann-meinung](https://www.spiegel.de/ausland/warum-joe-biden-donald-trump-noch-schlagen-kann-meinung-a-3e853396-c348-4324-8af5-624c78464d0f#ref=rss)
+### biden
+
+* [https://www.spiegel.de/ausland/warum-joe-biden-donald-trump-noch-schlagen-kann-meinung](https://www.spiegel.de/ausland/warum-joe-biden-donald-trump-noch-schlagen-kann-meinung-a-3e853396-c348-4324-8af5-624c78464d0f#ref=rss)
+### david
+
+* [https://www.spiegel.de/wissenschaft/mensch/energiewende-david-kube-sucht-seinen-weg-aus-der-kohleindustrie-podcast](https://www.spiegel.de/wissenschaft/mensch/energiewende-david-kube-sucht-seinen-weg-aus-der-kohleindustrie-podcast-a-8043c4b3-66fb-47f2-9a86-65e2a4b8966b#ref=rss)
+### kube
+
+* [https://www.spiegel.de/wissenschaft/mensch/energiewende-david-kube-sucht-seinen-weg-aus-der-kohleindustrie-podcast](https://www.spiegel.de/wissenschaft/mensch/energiewende-david-kube-sucht-seinen-weg-aus-der-kohleindustrie-podcast-a-8043c4b3-66fb-47f2-9a86-65e2a4b8966b#ref=rss)
+### weg
+
+* [https://www.spiegel.de/wissenschaft/mensch/energiewende-david-kube-sucht-seinen-weg-aus-der-kohleindustrie-podcast](https://www.spiegel.de/wissenschaft/mensch/energiewende-david-kube-sucht-seinen-weg-aus-der-kohleindustrie-podcast-a-8043c4b3-66fb-47f2-9a86-65e2a4b8966b#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-luka-doncic-und-seine-dallas-mavericks-besiegen-die-orlando-magic-mit-franz-und-mo-wagner](https://www.spiegel.de/sport/basketball/nba-luka-doncic-und-seine-dallas-mavericks-besiegen-die-orlando-magic-mit-franz-und-mo-wagner-a-3e3a2800-2fe0-4220-abb0-8ac91be9b4d2#ref=rss)
+### energie
+
+* [https://www.spiegel.de/wissenschaft/mensch/energiewende-david-kube-sucht-seinen-weg-aus-der-kohleindustrie-podcast](https://www.spiegel.de/wissenschaft/mensch/energiewende-david-kube-sucht-seinen-weg-aus-der-kohleindustrie-podcast-a-8043c4b3-66fb-47f2-9a86-65e2a4b8966b#ref=rss)
+* [https://www.spiegel.de/panorama/leute/norwegens-kronprinz-haakon-in-bayern-aber-ohne-mette-marit-gruess-gott-alle-miteinand](https://www.spiegel.de/panorama/leute/norwegens-kronprinz-haakon-in-bayern-aber-ohne-mette-marit-gruess-gott-alle-miteinand-a-885fe22c-dde0-4be0-b88f-a987417e37a9#ref=rss)
+### kommunen
+
+* [https://www.spiegel.de/politik/deutschland/fluechtlingsgipfel-markus-soeder-und-carsten-linnemann-halten-ergebnisse-fuer-unzureichend](https://www.spiegel.de/politik/deutschland/fluechtlingsgipfel-markus-soeder-und-carsten-linnemann-halten-ergebnisse-fuer-unzureichend-a-adb7c4a7-f887-4c83-8518-55ff3b4bad35#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/migration-bund-und-laender-einigen-sich-auf-neue-kostenverteilung-in-asylpolitik](https://www.spiegel.de/politik/deutschland/migration-bund-und-laender-einigen-sich-auf-neue-kostenverteilung-in-asylpolitik-a-a004e4e0-a519-4724-bcbb-8754088a9f09#ref=rss)
+### airbnb
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/airbnb-in-italien-steuerstreit-richterin-beschlagnahmt-780-millionen-euro](https://www.spiegel.de/wirtschaft/unternehmen/airbnb-in-italien-steuerstreit-richterin-beschlagnahmt-780-millionen-euro-a-37427882-505d-48b4-a267-28ab771ac8f7#ref=rss)
+### italien
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/airbnb-in-italien-steuerstreit-richterin-beschlagnahmt-780-millionen-euro](https://www.spiegel.de/wirtschaft/unternehmen/airbnb-in-italien-steuerstreit-richterin-beschlagnahmt-780-millionen-euro-a-37427882-505d-48b4-a267-28ab771ac8f7#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/airbnb-in-italien-steuerstreit-richterin-beschlagnahmt-780-millionen-euro](https://www.spiegel.de/wirtschaft/unternehmen/airbnb-in-italien-steuerstreit-richterin-beschlagnahmt-780-millionen-euro-a-37427882-505d-48b4-a267-28ab771ac8f7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/wework-buerovermieter-stellt-insolvenzantrag-ex-start-up-in-der-krise](https://www.spiegel.de/wirtschaft/unternehmen/wework-buerovermieter-stellt-insolvenzantrag-ex-start-up-in-der-krise-a-5c136df5-6b16-41ca-b6d2-73eaeded2c97#ref=rss)
+### luka
+
+* [https://www.spiegel.de/sport/basketball/nba-luka-doncic-und-seine-dallas-mavericks-besiegen-die-orlando-magic-mit-franz-und-mo-wagner](https://www.spiegel.de/sport/basketball/nba-luka-doncic-und-seine-dallas-mavericks-besiegen-die-orlando-magic-mit-franz-und-mo-wagner-a-3e3a2800-2fe0-4220-abb0-8ac91be9b4d2#ref=rss)
+### dončić
+
+* [https://www.spiegel.de/sport/basketball/nba-luka-doncic-und-seine-dallas-mavericks-besiegen-die-orlando-magic-mit-franz-und-mo-wagner](https://www.spiegel.de/sport/basketball/nba-luka-doncic-und-seine-dallas-mavericks-besiegen-die-orlando-magic-mit-franz-und-mo-wagner-a-3e3a2800-2fe0-4220-abb0-8ac91be9b4d2#ref=rss)
+### dallas
+
+* [https://www.spiegel.de/sport/basketball/nba-luka-doncic-und-seine-dallas-mavericks-besiegen-die-orlando-magic-mit-franz-und-mo-wagner](https://www.spiegel.de/sport/basketball/nba-luka-doncic-und-seine-dallas-mavericks-besiegen-die-orlando-magic-mit-franz-und-mo-wagner-a-3e3a2800-2fe0-4220-abb0-8ac91be9b4d2#ref=rss)
+### mavericks
+
+* [https://www.spiegel.de/sport/basketball/nba-luka-doncic-und-seine-dallas-mavericks-besiegen-die-orlando-magic-mit-franz-und-mo-wagner](https://www.spiegel.de/sport/basketball/nba-luka-doncic-und-seine-dallas-mavericks-besiegen-die-orlando-magic-mit-franz-und-mo-wagner-a-3e3a2800-2fe0-4220-abb0-8ac91be9b4d2#ref=rss)
+### franz
+
+* [https://www.spiegel.de/sport/basketball/nba-luka-doncic-und-seine-dallas-mavericks-besiegen-die-orlando-magic-mit-franz-und-mo-wagner](https://www.spiegel.de/sport/basketball/nba-luka-doncic-und-seine-dallas-mavericks-besiegen-die-orlando-magic-mit-franz-und-mo-wagner-a-3e3a2800-2fe0-4220-abb0-8ac91be9b4d2#ref=rss)
+### mo
+
+* [https://www.spiegel.de/sport/basketball/nba-luka-doncic-und-seine-dallas-mavericks-besiegen-die-orlando-magic-mit-franz-und-mo-wagner](https://www.spiegel.de/sport/basketball/nba-luka-doncic-und-seine-dallas-mavericks-besiegen-die-orlando-magic-mit-franz-und-mo-wagner-a-3e3a2800-2fe0-4220-abb0-8ac91be9b4d2#ref=rss)
+### wagner
+
+* [https://www.spiegel.de/sport/basketball/nba-luka-doncic-und-seine-dallas-mavericks-besiegen-die-orlando-magic-mit-franz-und-mo-wagner](https://www.spiegel.de/sport/basketball/nba-luka-doncic-und-seine-dallas-mavericks-besiegen-die-orlando-magic-mit-franz-und-mo-wagner-a-3e3a2800-2fe0-4220-abb0-8ac91be9b4d2#ref=rss)
+### norwegens
+
+* [https://www.spiegel.de/panorama/leute/norwegens-kronprinz-haakon-in-bayern-aber-ohne-mette-marit-gruess-gott-alle-miteinand](https://www.spiegel.de/panorama/leute/norwegens-kronprinz-haakon-in-bayern-aber-ohne-mette-marit-gruess-gott-alle-miteinand-a-885fe22c-dde0-4be0-b88f-a987417e37a9#ref=rss)
+### kronprinz
+
+* [https://www.spiegel.de/panorama/leute/norwegens-kronprinz-haakon-in-bayern-aber-ohne-mette-marit-gruess-gott-alle-miteinand](https://www.spiegel.de/panorama/leute/norwegens-kronprinz-haakon-in-bayern-aber-ohne-mette-marit-gruess-gott-alle-miteinand-a-885fe22c-dde0-4be0-b88f-a987417e37a9#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/panorama/leute/norwegens-kronprinz-haakon-in-bayern-aber-ohne-mette-marit-gruess-gott-alle-miteinand](https://www.spiegel.de/panorama/leute/norwegens-kronprinz-haakon-in-bayern-aber-ohne-mette-marit-gruess-gott-alle-miteinand-a-885fe22c-dde0-4be0-b88f-a987417e37a9#ref=rss)
+### mettemarit
+
+* [https://www.spiegel.de/panorama/leute/norwegens-kronprinz-haakon-in-bayern-aber-ohne-mette-marit-gruess-gott-alle-miteinand](https://www.spiegel.de/panorama/leute/norwegens-kronprinz-haakon-in-bayern-aber-ohne-mette-marit-gruess-gott-alle-miteinand-a-885fe22c-dde0-4be0-b88f-a987417e37a9#ref=rss)
+### alle
+
+* [https://www.spiegel.de/panorama/leute/norwegens-kronprinz-haakon-in-bayern-aber-ohne-mette-marit-gruess-gott-alle-miteinand](https://www.spiegel.de/panorama/leute/norwegens-kronprinz-haakon-in-bayern-aber-ohne-mette-marit-gruess-gott-alle-miteinand-a-885fe22c-dde0-4be0-b88f-a987417e37a9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gipfel-zur-fluechtlingspolitik-scholz-punktsieg-und-was-er-bedeutet](https://www.spiegel.de/politik/deutschland/gipfel-zur-fluechtlingspolitik-scholz-punktsieg-und-was-er-bedeutet-a-4337ac12-9f9e-4146-adaf-34260eaef0ee#ref=rss)
+### wework
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/wework-buerovermieter-stellt-insolvenzantrag-ex-start-up-in-der-krise](https://www.spiegel.de/wirtschaft/unternehmen/wework-buerovermieter-stellt-insolvenzantrag-ex-start-up-in-der-krise-a-5c136df5-6b16-41ca-b6d2-73eaeded2c97#ref=rss)
+### bürovermieter
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/wework-buerovermieter-stellt-insolvenzantrag-ex-start-up-in-der-krise](https://www.spiegel.de/wirtschaft/unternehmen/wework-buerovermieter-stellt-insolvenzantrag-ex-start-up-in-der-krise-a-5c136df5-6b16-41ca-b6d2-73eaeded2c97#ref=rss)
+### insolvenzantrag
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/wework-buerovermieter-stellt-insolvenzantrag-ex-start-up-in-der-krise](https://www.spiegel.de/wirtschaft/unternehmen/wework-buerovermieter-stellt-insolvenzantrag-ex-start-up-in-der-krise-a-5c136df5-6b16-41ca-b6d2-73eaeded2c97#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/ausland/donald-trump-vor-gericht-ausraster-in-saal-300](https://www.spiegel.de/ausland/donald-trump-vor-gericht-ausraster-in-saal-300-a-c894ddac-d57b-4166-9a5c-3eb358f2ee8f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-gaza-donald-trump-migration](https://www.spiegel.de/politik/deutschland/news-gaza-donald-trump-migration-a-9f91a281-6b19-4fde-900b-073ff4ee3c4e#ref=rss)
+### migration
+
+* [https://www.spiegel.de/politik/deutschland/news-gaza-donald-trump-migration](https://www.spiegel.de/politik/deutschland/news-gaza-donald-trump-migration-a-9f91a281-6b19-4fde-900b-073ff4ee3c4e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/migration-bund-und-laender-einigen-sich-auf-neue-kostenverteilung-in-asylpolitik](https://www.spiegel.de/politik/deutschland/migration-bund-und-laender-einigen-sich-auf-neue-kostenverteilung-in-asylpolitik-a-a004e4e0-a519-4724-bcbb-8754088a9f09#ref=rss)
 
