@@ -4,334 +4,322 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### leben
+### wäre
 
-* [https://www.spiegel.de/geschichte/judenfeindliche-uebergriffe-hat-deutschland-im-kampf-gegen-den-antisemitismus-versagt-frau-zadoff](https://www.spiegel.de/geschichte/judenfeindliche-uebergriffe-hat-deutschland-im-kampf-gegen-den-antisemitismus-versagt-frau-zadoff-a-4afa90eb-fd13-4049-b692-fa7c59a57a3d#ref=rss)
-* [https://www.spiegel.de/start/berufseinstieg-als-diplomatin-sabine-mehnert-ueber-ihren-job-im-kongo](https://www.spiegel.de/start/berufseinstieg-als-diplomatin-sabine-mehnert-ueber-ihren-job-im-kongo-a-dccb14da-c654-4ab7-ac37-43332400474f#ref=rss)
-* [https://www.spiegel.de/kultur/kino/ein-ganzes-leben-nach-erfolgsbuch-von-robert-seethaler-beckett-im-hochgebirge](https://www.spiegel.de/kultur/kino/ein-ganzes-leben-nach-erfolgsbuch-von-robert-seethaler-beckett-im-hochgebirge-a-4497c115-e300-4473-9a05-d2ca2851dbcb#ref=rss)
-### usa
+* [https://www.spiegel.de/ausland/hillary-clinton-zieht-parallele-zwischen-donald-trump-und-adolf-hitler](https://www.spiegel.de/ausland/hillary-clinton-zieht-parallele-zwischen-donald-trump-und-adolf-hitler-a-6063aabe-e6c1-4233-ae15-d88d2ee9c073#ref=rss)
+* [https://www.spiegel.de/kultur/100-jahre-loriot-daraus-kannst-du-gut-ein-meme-machen](https://www.spiegel.de/kultur/100-jahre-loriot-daraus-kannst-du-gut-ein-meme-machen-a-24003af0-ae80-465b-ac7b-252ef37bef41#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/boris-pistorius-die-bundeswehr-und-das-k-wort-neue-verteidigungspolitische-richtlinien](https://www.spiegel.de/politik/deutschland/boris-pistorius-die-bundeswehr-und-das-k-wort-neue-verteidigungspolitische-richtlinien-a-c7eeb4cb-5af2-471c-b60e-5ce779c6597a#ref=rss)
+* [https://www.spiegel.de/kultur/kino/zac-efron-waere-es-eine-ehre-matthew-perry-in-biopic-zu-spielen](https://www.spiegel.de/kultur/kino/zac-efron-waere-es-eine-ehre-matthew-perry-in-biopic-zu-spielen-a-e49ea4e4-3469-4cd7-969b-1c2df3968a77#ref=rss)
+### israel
 
-* [https://www.spiegel.de/ausland/usa-republikaner-und-die-dritte-tv-vorwahldebatte-du-bist-einfach-das-letzte](https://www.spiegel.de/ausland/usa-republikaner-und-die-dritte-tv-vorwahldebatte-du-bist-einfach-das-letzte-a-138e8177-d243-4e79-b543-0e10ac4221c3#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/usa-und-italien-16-mutmassliche-mafia-mitglieder-und-unterstuetzer-festgenommen](https://www.spiegel.de/panorama/justiz/usa-und-italien-16-mutmassliche-mafia-mitglieder-und-unterstuetzer-festgenommen-a-9420c453-c494-42b0-b49a-0319de138274#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-usa-greifen-waffenlager-der-islamischen-revolutionsgarden-an](https://www.spiegel.de/ausland/syrien-usa-greifen-waffenlager-der-islamischen-revolutionsgarden-an-a-00529ba9-9e6b-4da2-b462-c4e211fba0b1#ref=rss)
-### mann
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-israel-gaza-krieg-strompreispaket-carsten-coesfeld-bei-bertelsmann](https://www.spiegel.de/politik/deutschland/news-des-tages-israel-gaza-krieg-strompreispaket-carsten-coesfeld-bei-bertelsmann-a-63b5924f-5668-4156-89b0-54d39fb3aa81#ref=rss)
+* [https://www.spiegel.de/sport/fussball/maccabi-haifa-in-der-europa-league-wir-spielen-nicht-nur-fuer-die-fans-wir-spielen-fuer-das-land](https://www.spiegel.de/sport/fussball/maccabi-haifa-in-der-europa-league-wir-spielen-nicht-nur-fuer-die-fans-wir-spielen-fuer-das-land-a-d22e49d6-5480-4e41-9120-e5765068ab7a#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-news-heute-zahl-getoeteter-uno-mitarbeiter-im-gazastreifen-steigt-auf-92](https://www.spiegel.de/ausland/israel-hamas-news-heute-zahl-getoeteter-uno-mitarbeiter-im-gazastreifen-steigt-auf-92-a-d7159bb7-e146-4716-938e-0f4065fb875e#ref=rss)
+### spielen
 
-* [https://www.spiegel.de/panorama/shanghai-mann-lebt-ueber-monate-heimlich-in-einkaufszentrum](https://www.spiegel.de/panorama/shanghai-mann-lebt-ueber-monate-heimlich-in-einkaufszentrum-a-402d46b9-b8ac-40a9-89b7-064a8752ed93#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/panama-demonstranten-auf-highway-erschossen-schuetze-in-untersuchungshaft](https://www.spiegel.de/panorama/justiz/panama-demonstranten-auf-highway-erschossen-schuetze-in-untersuchungshaft-a-b2af6c75-89ec-4f92-be06-9ad46c8d92a0#ref=rss)
-* [https://www.spiegel.de/ausland/jude-in-kalifornien-getoetet-schlag-mit-dem-megafon](https://www.spiegel.de/ausland/jude-in-kalifornien-getoetet-schlag-mit-dem-megafon-a-7f3f51a7-7621-41e8-a09f-9d0587448f35#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-liefert-naechste-topleistung-ab-jokic-nicht-zu-stoppen](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-liefert-naechste-topleistung-ab-jokic-nicht-zu-stoppen-a-93ade60d-f1b3-4bbb-a7bc-30c1b20cf2ca#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/panama-demonstranten-auf-highway-erschossen-schuetze-in-untersuchungshaft](https://www.spiegel.de/panorama/justiz/panama-demonstranten-auf-highway-erschossen-schuetze-in-untersuchungshaft-a-b2af6c75-89ec-4f92-be06-9ad46c8d92a0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/china-wirtschaft-rutscht-im-oktober-zurueck-in-die-deflation](https://www.spiegel.de/wirtschaft/soziales/china-wirtschaft-rutscht-im-oktober-zurueck-in-die-deflation-a-0fb0657a-75aa-45af-b21d-9c8d6ae4ad87#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-usa-greifen-waffenlager-der-islamischen-revolutionsgarden-an](https://www.spiegel.de/ausland/syrien-usa-greifen-waffenlager-der-islamischen-revolutionsgarden-an-a-00529ba9-9e6b-4da2-b462-c4e211fba0b1#ref=rss)
-### fünf
-
-* [https://www.spiegel.de/ausland/usa-republikaner-und-die-dritte-tv-vorwahldebatte-du-bist-einfach-das-letzte](https://www.spiegel.de/ausland/usa-republikaner-und-die-dritte-tv-vorwahldebatte-du-bist-einfach-das-letzte-a-138e8177-d243-4e79-b543-0e10ac4221c3#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-liefert-naechste-topleistung-ab-jokic-nicht-zu-stoppen](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-liefert-naechste-topleistung-ab-jokic-nicht-zu-stoppen-a-93ade60d-f1b3-4bbb-a7bc-30c1b20cf2ca#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/immobilien-preise-fuer-wohnimmobilien-fallen-weiter](https://www.spiegel.de/wirtschaft/soziales/immobilien-preise-fuer-wohnimmobilien-fallen-weiter-a-300ec7ef-a053-46b5-ae60-f787afa0e9ec#ref=rss)
-### monate
-
-* [https://www.spiegel.de/panorama/shanghai-mann-lebt-ueber-monate-heimlich-in-einkaufszentrum](https://www.spiegel.de/panorama/shanghai-mann-lebt-ueber-monate-heimlich-in-einkaufszentrum-a-402d46b9-b8ac-40a9-89b7-064a8752ed93#ref=rss)
-* [https://www.spiegel.de/sport/australien-laura-enever-surft-13-3-meter-hohe-welle-weltrekord](https://www.spiegel.de/sport/australien-laura-enever-surft-13-3-meter-hohe-welle-weltrekord-a-4cbdbb44-223b-494d-bf6f-fb809938e9a1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-verteidigungsminister-will-aufgeblaehten-apparat-im-ministerium-verschlanken](https://www.spiegel.de/politik/deutschland/boris-pistorius-verteidigungsminister-will-aufgeblaehten-apparat-im-ministerium-verschlanken-a-aac72999-daf3-42b4-a352-8a4c84527857#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/shanghai-mann-lebt-ueber-monate-heimlich-in-einkaufszentrum](https://www.spiegel.de/panorama/shanghai-mann-lebt-ueber-monate-heimlich-in-einkaufszentrum-a-402d46b9-b8ac-40a9-89b7-064a8752ed93#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-antiisraelische-parolen-in-staatsbibliothek-abgespielt](https://www.spiegel.de/panorama/justiz/berlin-antiisraelische-parolen-in-staatsbibliothek-abgespielt-a-700c9043-c433-40d6-b222-b3e2a1d1e497#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/panama-demonstranten-auf-highway-erschossen-schuetze-in-untersuchungshaft](https://www.spiegel.de/panorama/justiz/panama-demonstranten-auf-highway-erschossen-schuetze-in-untersuchungshaft-a-b2af6c75-89ec-4f92-be06-9ad46c8d92a0#ref=rss)
-### industrie
-
-* [https://www.spiegel.de/wirtschaft/soziales/strompreis-regierung-einigt-sich-auf-paket-fuer-industrie](https://www.spiegel.de/wirtschaft/soziales/strompreis-regierung-einigt-sich-auf-paket-fuer-industrie-a-b1d02493-0b0b-47e2-aab1-14027bede32d#ref=rss)
-### china
-
-* [https://www.spiegel.de/ausland/myanmar-machthaber-myint-swe-warnt-vor-drohender-spaltung](https://www.spiegel.de/ausland/myanmar-machthaber-myint-swe-warnt-vor-drohender-spaltung-a-ebd7882d-1f5b-49e3-8822-c87e342bae14#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/china-wirtschaft-rutscht-im-oktober-zurueck-in-die-deflation](https://www.spiegel.de/wirtschaft/soziales/china-wirtschaft-rutscht-im-oktober-zurueck-in-die-deflation-a-0fb0657a-75aa-45af-b21d-9c8d6ae4ad87#ref=rss)
-### droht
-
-* [https://www.spiegel.de/ausland/myanmar-machthaber-myint-swe-warnt-vor-drohender-spaltung](https://www.spiegel.de/ausland/myanmar-machthaber-myint-swe-warnt-vor-drohender-spaltung-a-ebd7882d-1f5b-49e3-8822-c87e342bae14#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/apple-droht-steuernachzahlung-von-13-milliarden-euro](https://www.spiegel.de/wirtschaft/unternehmen/apple-droht-steuernachzahlung-von-13-milliarden-euro-a-a27abe5f-bb2e-460d-b7c3-04002c54e980#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/bahn-bietet-elf-prozent-mehr-lohn-und-inflationspraemie](https://www.spiegel.de/wirtschaft/soziales/bahn-bietet-elf-prozent-mehr-lohn-und-inflationspraemie-a-30accb2a-c17c-480f-ad2a-2ad3d6c8822d#ref=rss)
-### laut
-
-* [https://www.spiegel.de/ausland/myanmar-machthaber-myint-swe-warnt-vor-drohender-spaltung](https://www.spiegel.de/ausland/myanmar-machthaber-myint-swe-warnt-vor-drohender-spaltung-a-ebd7882d-1f5b-49e3-8822-c87e342bae14#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/immobilien-preise-fuer-wohnimmobilien-fallen-weiter](https://www.spiegel.de/wirtschaft/soziales/immobilien-preise-fuer-wohnimmobilien-fallen-weiter-a-300ec7ef-a053-46b5-ae60-f787afa0e9ec#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-armee-wirft-russland-beschuss-von-zivilem-frachter-vor](https://www.spiegel.de/ausland/ukraine-armee-wirft-russland-beschuss-von-zivilem-frachter-vor-a-3ab1906e-4009-46e1-93fa-fe0e916d805e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/maccabi-haifa-in-der-europa-league-wir-spielen-nicht-nur-fuer-die-fans-wir-spielen-fuer-das-land](https://www.spiegel.de/sport/fussball/maccabi-haifa-in-der-europa-league-wir-spielen-nicht-nur-fuer-die-fans-wir-spielen-fuer-das-land-a-d22e49d6-5480-4e41-9120-e5765068ab7a#ref=rss)
+* [https://www.spiegel.de/kultur/kino/zac-efron-waere-es-eine-ehre-matthew-perry-in-biopic-zu-spielen](https://www.spiegel.de/kultur/kino/zac-efron-waere-es-eine-ehre-matthew-perry-in-biopic-zu-spielen-a-e49ea4e4-3469-4cd7-969b-1c2df3968a77#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-treffen-der-g7-aussenminister-in-tokio-diplomatie-im-ausnahmezustand](https://www.spiegel.de/politik/deutschland/annalena-baerbock-treffen-der-g7-aussenminister-in-tokio-diplomatie-im-ausnahmezustand-a-562f827f-85e2-461a-ae27-5e44d1ed37d1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/bahn-bietet-elf-prozent-mehr-lohn-und-inflationspraemie](https://www.spiegel.de/wirtschaft/soziales/bahn-bietet-elf-prozent-mehr-lohn-und-inflationspraemie-a-30accb2a-c17c-480f-ad2a-2ad3d6c8822d#ref=rss)
-* [https://www.spiegel.de/auto/dacia-spring-65-im-test-der-20-ps-effekt](https://www.spiegel.de/auto/dacia-spring-65-im-test-der-20-ps-effekt-a-6ba9239d-5114-4634-8ed4-6e63698cd789#ref=rss)
-### republikaner
+* [https://www.spiegel.de/netzwelt/web/suedwestfalen-it-kommunen-wollen-online-erpressern-kein-loesegeld-zahlen](https://www.spiegel.de/netzwelt/web/suedwestfalen-it-kommunen-wollen-online-erpressern-kein-loesegeld-zahlen-a-038cf064-dc1d-47a1-bc99-38a1a2f9916d#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bafoeg-breites-buendnis-aus-hochschulrektorenkonferenz-studierendenwerk-und-hochschulgruppen-fordert-mehr-geld](https://www.spiegel.de/panorama/bildung/bafoeg-breites-buendnis-aus-hochschulrektorenkonferenz-studierendenwerk-und-hochschulgruppen-fordert-mehr-geld-a-4838f44a-7b3b-4697-b3ae-2d91e76b98a3#ref=rss)
+* [https://www.spiegel.de/panorama/wasserbueffel-in-giessen-entlaufen-polizei-hofft-auf-zeugenhinweise](https://www.spiegel.de/panorama/wasserbueffel-in-giessen-entlaufen-polizei-hofft-auf-zeugenhinweise-a-2f5dd2b6-782b-431f-8d5e-79f0b8ce944c#ref=rss)
+* [https://www.spiegel.de/kultur/jahreszeiten-verlag-kulinarik-chefredakteurin-deborah-middelhoff-will-deutschland-verlassen](https://www.spiegel.de/kultur/jahreszeiten-verlag-kulinarik-chefredakteurin-deborah-middelhoff-will-deutschland-verlassen-a-809af9e1-0048-45dd-9bcf-87c35634ef2d#ref=rss)
+### laut
 
-* [https://www.spiegel.de/ausland/usa-republikaner-und-die-dritte-tv-vorwahldebatte-du-bist-einfach-das-letzte](https://www.spiegel.de/ausland/usa-republikaner-und-die-dritte-tv-vorwahldebatte-du-bist-einfach-das-letzte-a-138e8177-d243-4e79-b543-0e10ac4221c3#ref=rss)
-### boden
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-israel-gaza-krieg-strompreispaket-carsten-coesfeld-bei-bertelsmann](https://www.spiegel.de/politik/deutschland/news-des-tages-israel-gaza-krieg-strompreispaket-carsten-coesfeld-bei-bertelsmann-a-63b5924f-5668-4156-89b0-54d39fb3aa81#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-news-heute-zahl-getoeteter-uno-mitarbeiter-im-gazastreifen-steigt-auf-92](https://www.spiegel.de/ausland/israel-hamas-news-heute-zahl-getoeteter-uno-mitarbeiter-im-gazastreifen-steigt-auf-92-a-d7159bb7-e146-4716-938e-0f4065fb875e#ref=rss)
+* [https://www.spiegel.de/ausland/spanien-rechter-politiker-alejo-vidal-quadras-in-madrid-angeschossen](https://www.spiegel.de/ausland/spanien-rechter-politiker-alejo-vidal-quadras-in-madrid-angeschossen-a-82ab134e-7010-4e2f-8f8d-2a76fec4b500#ref=rss)
+### bereit
 
-* [https://www.spiegel.de/ausland/usa-republikaner-und-die-dritte-tv-vorwahldebatte-du-bist-einfach-das-letzte](https://www.spiegel.de/ausland/usa-republikaner-und-die-dritte-tv-vorwahldebatte-du-bist-einfach-das-letzte-a-138e8177-d243-4e79-b543-0e10ac4221c3#ref=rss)
-* [https://www.spiegel.de/ausland/jude-in-kalifornien-getoetet-schlag-mit-dem-megafon](https://www.spiegel.de/ausland/jude-in-kalifornien-getoetet-schlag-mit-dem-megafon-a-7f3f51a7-7621-41e8-a09f-9d0587448f35#ref=rss)
-### gut
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-israel-gaza-krieg-strompreispaket-carsten-coesfeld-bei-bertelsmann](https://www.spiegel.de/politik/deutschland/news-des-tages-israel-gaza-krieg-strompreispaket-carsten-coesfeld-bei-bertelsmann-a-63b5924f-5668-4156-89b0-54d39fb3aa81#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-news-heute-zahl-getoeteter-uno-mitarbeiter-im-gazastreifen-steigt-auf-92](https://www.spiegel.de/ausland/israel-hamas-news-heute-zahl-getoeteter-uno-mitarbeiter-im-gazastreifen-steigt-auf-92-a-d7159bb7-e146-4716-938e-0f4065fb875e#ref=rss)
+### feuerpausen
 
-* [https://www.spiegel.de/ausland/usa-republikaner-und-die-dritte-tv-vorwahldebatte-du-bist-einfach-das-letzte](https://www.spiegel.de/ausland/usa-republikaner-und-die-dritte-tv-vorwahldebatte-du-bist-einfach-das-letzte-a-138e8177-d243-4e79-b543-0e10ac4221c3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-ueber-kuenstliche-intelligenz-wird-der-arzt-irgendwann-ueberfluessig-herr-minister](https://www.spiegel.de/politik/deutschland/karl-lauterbach-ueber-kuenstliche-intelligenz-wird-der-arzt-irgendwann-ueberfluessig-herr-minister-a-3ba0d0c1-706d-4706-ba21-899c7054c878#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/ausland/usa-republikaner-und-die-dritte-tv-vorwahldebatte-du-bist-einfach-das-letzte](https://www.spiegel.de/ausland/usa-republikaner-und-die-dritte-tv-vorwahldebatte-du-bist-einfach-das-letzte-a-138e8177-d243-4e79-b543-0e10ac4221c3#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-usa-greifen-waffenlager-der-islamischen-revolutionsgarden-an](https://www.spiegel.de/ausland/syrien-usa-greifen-waffenlager-der-islamischen-revolutionsgarden-an-a-00529ba9-9e6b-4da2-b462-c4e211fba0b1#ref=rss)
-### eigentliche
-
-* [https://www.spiegel.de/ausland/usa-republikaner-und-die-dritte-tv-vorwahldebatte-du-bist-einfach-das-letzte](https://www.spiegel.de/ausland/usa-republikaner-und-die-dritte-tv-vorwahldebatte-du-bist-einfach-das-letzte-a-138e8177-d243-4e79-b543-0e10ac4221c3#ref=rss)
-* [https://www.spiegel.de/kultur/kino/ein-ganzes-leben-nach-erfolgsbuch-von-robert-seethaler-beckett-im-hochgebirge](https://www.spiegel.de/kultur/kino/ein-ganzes-leben-nach-erfolgsbuch-von-robert-seethaler-beckett-im-hochgebirge-a-4497c115-e300-4473-9a05-d2ca2851dbcb#ref=rss)
-### landkreis
-
-* [https://www.spiegel.de/panorama/justiz/wittorf-im-landkreis-lueneburg-unbekannte-steckten-geplante-fluechtlingsunterkunft-in-brand](https://www.spiegel.de/panorama/justiz/wittorf-im-landkreis-lueneburg-unbekannte-steckten-geplante-fluechtlingsunterkunft-in-brand-a-b2944e97-d61e-42b3-8ad8-98aad35bac11#ref=rss)
-### lüneburg
-
-* [https://www.spiegel.de/panorama/justiz/wittorf-im-landkreis-lueneburg-unbekannte-steckten-geplante-fluechtlingsunterkunft-in-brand](https://www.spiegel.de/panorama/justiz/wittorf-im-landkreis-lueneburg-unbekannte-steckten-geplante-fluechtlingsunterkunft-in-brand-a-b2944e97-d61e-42b3-8ad8-98aad35bac11#ref=rss)
-### flüchtlingsunterkunft
-
-* [https://www.spiegel.de/panorama/justiz/wittorf-im-landkreis-lueneburg-unbekannte-steckten-geplante-fluechtlingsunterkunft-in-brand](https://www.spiegel.de/panorama/justiz/wittorf-im-landkreis-lueneburg-unbekannte-steckten-geplante-fluechtlingsunterkunft-in-brand-a-b2944e97-d61e-42b3-8ad8-98aad35bac11#ref=rss)
-### brandstiftung
-
-* [https://www.spiegel.de/panorama/justiz/wittorf-im-landkreis-lueneburg-unbekannte-steckten-geplante-fluechtlingsunterkunft-in-brand](https://www.spiegel.de/panorama/justiz/wittorf-im-landkreis-lueneburg-unbekannte-steckten-geplante-fluechtlingsunterkunft-in-brand-a-b2944e97-d61e-42b3-8ad8-98aad35bac11#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/usa-und-italien-16-mutmassliche-mafia-mitglieder-und-unterstuetzer-festgenommen](https://www.spiegel.de/panorama/justiz/usa-und-italien-16-mutmassliche-mafia-mitglieder-und-unterstuetzer-festgenommen-a-9420c453-c494-42b0-b49a-0319de138274#ref=rss)
-### karl
-
-* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-ueber-kuenstliche-intelligenz-wird-der-arzt-irgendwann-ueberfluessig-herr-minister](https://www.spiegel.de/politik/deutschland/karl-lauterbach-ueber-kuenstliche-intelligenz-wird-der-arzt-irgendwann-ueberfluessig-herr-minister-a-3ba0d0c1-706d-4706-ba21-899c7054c878#ref=rss)
-### lauterbach
-
-* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-ueber-kuenstliche-intelligenz-wird-der-arzt-irgendwann-ueberfluessig-herr-minister](https://www.spiegel.de/politik/deutschland/karl-lauterbach-ueber-kuenstliche-intelligenz-wird-der-arzt-irgendwann-ueberfluessig-herr-minister-a-3ba0d0c1-706d-4706-ba21-899c7054c878#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-ueber-kuenstliche-intelligenz-wird-der-arzt-irgendwann-ueberfluessig-herr-minister](https://www.spiegel.de/politik/deutschland/karl-lauterbach-ueber-kuenstliche-intelligenz-wird-der-arzt-irgendwann-ueberfluessig-herr-minister-a-3ba0d0c1-706d-4706-ba21-899c7054c878#ref=rss)
-* [https://www.spiegel.de/psychologie/wer-denkt-urlaub-sei-erholung-der-irrt](https://www.spiegel.de/psychologie/wer-denkt-urlaub-sei-erholung-der-irrt-a-a49738ec-1c86-4d86-a5f8-5db2639a5d12#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-ueber-kuenstliche-intelligenz-wird-der-arzt-irgendwann-ueberfluessig-herr-minister](https://www.spiegel.de/politik/deutschland/karl-lauterbach-ueber-kuenstliche-intelligenz-wird-der-arzt-irgendwann-ueberfluessig-herr-minister-a-3ba0d0c1-706d-4706-ba21-899c7054c878#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-zentrale-gedenkfeier-in-berlin-zum-gedenken-an-die-pogromnacht-1938](https://www.spiegel.de/politik/deutschland/olaf-scholz-zentrale-gedenkfeier-in-berlin-zum-gedenken-an-die-pogromnacht-1938-a-61c9c14c-4eeb-40d7-abcb-4e2f6e704396#ref=rss)
-### land
-
-* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-ueber-kuenstliche-intelligenz-wird-der-arzt-irgendwann-ueberfluessig-herr-minister](https://www.spiegel.de/politik/deutschland/karl-lauterbach-ueber-kuenstliche-intelligenz-wird-der-arzt-irgendwann-ueberfluessig-herr-minister-a-3ba0d0c1-706d-4706-ba21-899c7054c878#ref=rss)
-* [https://www.spiegel.de/start/berufseinstieg-als-diplomatin-sabine-mehnert-ueber-ihren-job-im-kongo](https://www.spiegel.de/start/berufseinstieg-als-diplomatin-sabine-mehnert-ueber-ihren-job-im-kongo-a-dccb14da-c654-4ab7-ac37-43332400474f#ref=rss)
-### shanghai
-
-* [https://www.spiegel.de/panorama/shanghai-mann-lebt-ueber-monate-heimlich-in-einkaufszentrum](https://www.spiegel.de/panorama/shanghai-mann-lebt-ueber-monate-heimlich-in-einkaufszentrum-a-402d46b9-b8ac-40a9-89b7-064a8752ed93#ref=rss)
-### einkaufszentrum
-
-* [https://www.spiegel.de/panorama/shanghai-mann-lebt-ueber-monate-heimlich-in-einkaufszentrum](https://www.spiegel.de/panorama/shanghai-mann-lebt-ueber-monate-heimlich-in-einkaufszentrum-a-402d46b9-b8ac-40a9-89b7-064a8752ed93#ref=rss)
-### unter
-
-* [https://www.spiegel.de/panorama/shanghai-mann-lebt-ueber-monate-heimlich-in-einkaufszentrum](https://www.spiegel.de/panorama/shanghai-mann-lebt-ueber-monate-heimlich-in-einkaufszentrum-a-402d46b9-b8ac-40a9-89b7-064a8752ed93#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-antiisraelische-parolen-in-staatsbibliothek-abgespielt](https://www.spiegel.de/panorama/justiz/berlin-antiisraelische-parolen-in-staatsbibliothek-abgespielt-a-700c9043-c433-40d6-b222-b3e2a1d1e497#ref=rss)
-### omegle
-
-* [https://www.spiegel.de/netzwelt/web/omegle-warum-eines-der-wildesten-internetangebote-offline-geht](https://www.spiegel.de/netzwelt/web/omegle-warum-eines-der-wildesten-internetangebote-offline-geht-a-b53bcf72-d681-4f1e-9049-060bbdd93106#ref=rss)
-### völlig
-
-* [https://www.spiegel.de/netzwelt/web/omegle-warum-eines-der-wildesten-internetangebote-offline-geht](https://www.spiegel.de/netzwelt/web/omegle-warum-eines-der-wildesten-internetangebote-offline-geht-a-b53bcf72-d681-4f1e-9049-060bbdd93106#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-treffen-der-g7-aussenminister-in-tokio-diplomatie-im-ausnahmezustand](https://www.spiegel.de/politik/deutschland/annalena-baerbock-treffen-der-g7-aussenminister-in-tokio-diplomatie-im-ausnahmezustand-a-562f827f-85e2-461a-ae27-5e44d1ed37d1#ref=rss)
-### machthaber
-
-* [https://www.spiegel.de/ausland/myanmar-machthaber-myint-swe-warnt-vor-drohender-spaltung](https://www.spiegel.de/ausland/myanmar-machthaber-myint-swe-warnt-vor-drohender-spaltung-a-ebd7882d-1f5b-49e3-8822-c87e342bae14#ref=rss)
-### swe
-
-* [https://www.spiegel.de/ausland/myanmar-machthaber-myint-swe-warnt-vor-drohender-spaltung](https://www.spiegel.de/ausland/myanmar-machthaber-myint-swe-warnt-vor-drohender-spaltung-a-ebd7882d-1f5b-49e3-8822-c87e342bae14#ref=rss)
-### armee
-
-* [https://www.spiegel.de/ausland/myanmar-machthaber-myint-swe-warnt-vor-drohender-spaltung](https://www.spiegel.de/ausland/myanmar-machthaber-myint-swe-warnt-vor-drohender-spaltung-a-ebd7882d-1f5b-49e3-8822-c87e342bae14#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-armee-wirft-russland-beschuss-von-zivilem-frachter-vor](https://www.spiegel.de/ausland/ukraine-armee-wirft-russland-beschuss-von-zivilem-frachter-vor-a-3ab1906e-4009-46e1-93fa-fe0e916d805e#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/ausland/myanmar-machthaber-myint-swe-warnt-vor-drohender-spaltung](https://www.spiegel.de/ausland/myanmar-machthaber-myint-swe-warnt-vor-drohender-spaltung-a-ebd7882d-1f5b-49e3-8822-c87e342bae14#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-armee-wirft-russland-beschuss-von-zivilem-frachter-vor](https://www.spiegel.de/ausland/ukraine-armee-wirft-russland-beschuss-von-zivilem-frachter-vor-a-3ab1906e-4009-46e1-93fa-fe0e916d805e#ref=rss)
-### apple
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/apple-droht-steuernachzahlung-von-13-milliarden-euro](https://www.spiegel.de/wirtschaft/unternehmen/apple-droht-steuernachzahlung-von-13-milliarden-euro-a-a27abe5f-bb2e-460d-b7c3-04002c54e980#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/geschichte/judenfeindliche-uebergriffe-hat-deutschland-im-kampf-gegen-den-antisemitismus-versagt-frau-zadoff](https://www.spiegel.de/geschichte/judenfeindliche-uebergriffe-hat-deutschland-im-kampf-gegen-den-antisemitismus-versagt-frau-zadoff-a-4afa90eb-fd13-4049-b692-fa7c59a57a3d#ref=rss)
-* [https://www.spiegel.de/auto/dacia-spring-65-im-test-der-20-ps-effekt](https://www.spiegel.de/auto/dacia-spring-65-im-test-der-20-ps-effekt-a-6ba9239d-5114-4634-8ed4-6e63698cd789#ref=rss)
-### zadoff
-
-* [https://www.spiegel.de/geschichte/judenfeindliche-uebergriffe-hat-deutschland-im-kampf-gegen-den-antisemitismus-versagt-frau-zadoff](https://www.spiegel.de/geschichte/judenfeindliche-uebergriffe-hat-deutschland-im-kampf-gegen-den-antisemitismus-versagt-frau-zadoff-a-4afa90eb-fd13-4049-b692-fa7c59a57a3d#ref=rss)
-### 85
-
-* [https://www.spiegel.de/geschichte/judenfeindliche-uebergriffe-hat-deutschland-im-kampf-gegen-den-antisemitismus-versagt-frau-zadoff](https://www.spiegel.de/geschichte/judenfeindliche-uebergriffe-hat-deutschland-im-kampf-gegen-den-antisemitismus-versagt-frau-zadoff-a-4afa90eb-fd13-4049-b692-fa7c59a57a3d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-zentrale-gedenkfeier-in-berlin-zum-gedenken-an-die-pogromnacht-1938](https://www.spiegel.de/politik/deutschland/olaf-scholz-zentrale-gedenkfeier-in-berlin-zum-gedenken-an-die-pogromnacht-1938-a-61c9c14c-4eeb-40d7-abcb-4e2f6e704396#ref=rss)
-### nationalsozialisten
-
-* [https://www.spiegel.de/geschichte/judenfeindliche-uebergriffe-hat-deutschland-im-kampf-gegen-den-antisemitismus-versagt-frau-zadoff](https://www.spiegel.de/geschichte/judenfeindliche-uebergriffe-hat-deutschland-im-kampf-gegen-den-antisemitismus-versagt-frau-zadoff-a-4afa90eb-fd13-4049-b692-fa7c59a57a3d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-zentrale-gedenkfeier-in-berlin-zum-gedenken-an-die-pogromnacht-1938](https://www.spiegel.de/politik/deutschland/olaf-scholz-zentrale-gedenkfeier-in-berlin-zum-gedenken-an-die-pogromnacht-1938-a-61c9c14c-4eeb-40d7-abcb-4e2f6e704396#ref=rss)
-### juden
-
-* [https://www.spiegel.de/geschichte/judenfeindliche-uebergriffe-hat-deutschland-im-kampf-gegen-den-antisemitismus-versagt-frau-zadoff](https://www.spiegel.de/geschichte/judenfeindliche-uebergriffe-hat-deutschland-im-kampf-gegen-den-antisemitismus-versagt-frau-zadoff-a-4afa90eb-fd13-4049-b692-fa7c59a57a3d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-zentrale-gedenkfeier-in-berlin-zum-gedenken-an-die-pogromnacht-1938](https://www.spiegel.de/politik/deutschland/olaf-scholz-zentrale-gedenkfeier-in-berlin-zum-gedenken-an-die-pogromnacht-1938-a-61c9c14c-4eeb-40d7-abcb-4e2f6e704396#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/geschichte/judenfeindliche-uebergriffe-hat-deutschland-im-kampf-gegen-den-antisemitismus-versagt-frau-zadoff](https://www.spiegel.de/geschichte/judenfeindliche-uebergriffe-hat-deutschland-im-kampf-gegen-den-antisemitismus-versagt-frau-zadoff-a-4afa90eb-fd13-4049-b692-fa7c59a57a3d#ref=rss)
-* [https://www.spiegel.de/psychologie/wer-denkt-urlaub-sei-erholung-der-irrt](https://www.spiegel.de/psychologie/wer-denkt-urlaub-sei-erholung-der-irrt-a-a49738ec-1c86-4d86-a5f8-5db2639a5d12#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/justiz/berlin-antiisraelische-parolen-in-staatsbibliothek-abgespielt](https://www.spiegel.de/panorama/justiz/berlin-antiisraelische-parolen-in-staatsbibliothek-abgespielt-a-700c9043-c433-40d6-b222-b3e2a1d1e497#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-zentrale-gedenkfeier-in-berlin-zum-gedenken-an-die-pogromnacht-1938](https://www.spiegel.de/politik/deutschland/olaf-scholz-zentrale-gedenkfeier-in-berlin-zum-gedenken-an-die-pogromnacht-1938-a-61c9c14c-4eeb-40d7-abcb-4e2f6e704396#ref=rss)
-### antiisraelische
-
-* [https://www.spiegel.de/panorama/justiz/berlin-antiisraelische-parolen-in-staatsbibliothek-abgespielt](https://www.spiegel.de/panorama/justiz/berlin-antiisraelische-parolen-in-staatsbibliothek-abgespielt-a-700c9043-c433-40d6-b222-b3e2a1d1e497#ref=rss)
-### staatsbibliothek
-
-* [https://www.spiegel.de/panorama/justiz/berlin-antiisraelische-parolen-in-staatsbibliothek-abgespielt](https://www.spiegel.de/panorama/justiz/berlin-antiisraelische-parolen-in-staatsbibliothek-abgespielt-a-700c9043-c433-40d6-b222-b3e2a1d1e497#ref=rss)
-### abgespielt
-
-* [https://www.spiegel.de/panorama/justiz/berlin-antiisraelische-parolen-in-staatsbibliothek-abgespielt](https://www.spiegel.de/panorama/justiz/berlin-antiisraelische-parolen-in-staatsbibliothek-abgespielt-a-700c9043-c433-40d6-b222-b3e2a1d1e497#ref=rss)
-### zentralen
-
-* [https://www.spiegel.de/panorama/justiz/berlin-antiisraelische-parolen-in-staatsbibliothek-abgespielt](https://www.spiegel.de/panorama/justiz/berlin-antiisraelische-parolen-in-staatsbibliothek-abgespielt-a-700c9043-c433-40d6-b222-b3e2a1d1e497#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-zentrale-gedenkfeier-in-berlin-zum-gedenken-an-die-pogromnacht-1938](https://www.spiegel.de/politik/deutschland/olaf-scholz-zentrale-gedenkfeier-in-berlin-zum-gedenken-an-die-pogromnacht-1938-a-61c9c14c-4eeb-40d7-abcb-4e2f6e704396#ref=rss)
-### täter
-
-* [https://www.spiegel.de/panorama/justiz/berlin-antiisraelische-parolen-in-staatsbibliothek-abgespielt](https://www.spiegel.de/panorama/justiz/berlin-antiisraelische-parolen-in-staatsbibliothek-abgespielt-a-700c9043-c433-40d6-b222-b3e2a1d1e497#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/panama-demonstranten-auf-highway-erschossen-schuetze-in-untersuchungshaft](https://www.spiegel.de/panorama/justiz/panama-demonstranten-auf-highway-erschossen-schuetze-in-untersuchungshaft-a-b2af6c75-89ec-4f92-be06-9ad46c8d92a0#ref=rss)
-### alle
-
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-treffen-der-g7-aussenminister-in-tokio-diplomatie-im-ausnahmezustand](https://www.spiegel.de/politik/deutschland/annalena-baerbock-treffen-der-g7-aussenminister-in-tokio-diplomatie-im-ausnahmezustand-a-562f827f-85e2-461a-ae27-5e44d1ed37d1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-in-der-champions-league-wenn-alle-nervoes-werden-ist-harry-kane-da](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-in-der-champions-league-wenn-alle-nervoes-werden-ist-harry-kane-da-a-8a2ab84a-23a7-4331-8b72-13fdf49d05aa#ref=rss)
-### erschöpft
-
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-treffen-der-g7-aussenminister-in-tokio-diplomatie-im-ausnahmezustand](https://www.spiegel.de/politik/deutschland/annalena-baerbock-treffen-der-g7-aussenminister-in-tokio-diplomatie-im-ausnahmezustand-a-562f827f-85e2-461a-ae27-5e44d1ed37d1#ref=rss)
-* [https://www.spiegel.de/psychologie/wer-denkt-urlaub-sei-erholung-der-irrt](https://www.spiegel.de/psychologie/wer-denkt-urlaub-sei-erholung-der-irrt-a-a49738ec-1c86-4d86-a5f8-5db2639a5d12#ref=rss)
-### fallen
-
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-treffen-der-g7-aussenminister-in-tokio-diplomatie-im-ausnahmezustand](https://www.spiegel.de/politik/deutschland/annalena-baerbock-treffen-der-g7-aussenminister-in-tokio-diplomatie-im-ausnahmezustand-a-562f827f-85e2-461a-ae27-5e44d1ed37d1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/immobilien-preise-fuer-wohnimmobilien-fallen-weiter](https://www.spiegel.de/wirtschaft/soziales/immobilien-preise-fuer-wohnimmobilien-fallen-weiter-a-300ec7ef-a053-46b5-ae60-f787afa0e9ec#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-in-der-champions-league-wenn-alle-nervoes-werden-ist-harry-kane-da](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-in-der-champions-league-wenn-alle-nervoes-werden-ist-harry-kane-da-a-8a2ab84a-23a7-4331-8b72-13fdf49d05aa#ref=rss)
-### harry
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-in-der-champions-league-wenn-alle-nervoes-werden-ist-harry-kane-da](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-in-der-champions-league-wenn-alle-nervoes-werden-ist-harry-kane-da-a-8a2ab84a-23a7-4331-8b72-13fdf49d05aa#ref=rss)
-### kane
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-in-der-champions-league-wenn-alle-nervoes-werden-ist-harry-kane-da](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-in-der-champions-league-wenn-alle-nervoes-werden-ist-harry-kane-da-a-8a2ab84a-23a7-4331-8b72-13fdf49d05aa#ref=rss)
-### bisher
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-in-der-champions-league-wenn-alle-nervoes-werden-ist-harry-kane-da](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-in-der-champions-league-wenn-alle-nervoes-werden-ist-harry-kane-da-a-8a2ab84a-23a7-4331-8b72-13fdf49d05aa#ref=rss)
-* [https://www.spiegel.de/auto/dacia-spring-65-im-test-der-20-ps-effekt](https://www.spiegel.de/auto/dacia-spring-65-im-test-der-20-ps-effekt-a-6ba9239d-5114-4634-8ed4-6e63698cd789#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/soziales/bahn-bietet-elf-prozent-mehr-lohn-und-inflationspraemie](https://www.spiegel.de/wirtschaft/soziales/bahn-bietet-elf-prozent-mehr-lohn-und-inflationspraemie-a-30accb2a-c17c-480f-ad2a-2ad3d6c8822d#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/wirtschaft/soziales/bahn-bietet-elf-prozent-mehr-lohn-und-inflationspraemie](https://www.spiegel.de/wirtschaft/soziales/bahn-bietet-elf-prozent-mehr-lohn-und-inflationspraemie-a-30accb2a-c17c-480f-ad2a-2ad3d6c8822d#ref=rss)
-### startet
-
-* [https://www.spiegel.de/wirtschaft/soziales/bahn-bietet-elf-prozent-mehr-lohn-und-inflationspraemie](https://www.spiegel.de/wirtschaft/soziales/bahn-bietet-elf-prozent-mehr-lohn-und-inflationspraemie-a-30accb2a-c17c-480f-ad2a-2ad3d6c8822d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-verteidigungsminister-will-aufgeblaehten-apparat-im-ministerium-verschlanken](https://www.spiegel.de/politik/deutschland/boris-pistorius-verteidigungsminister-will-aufgeblaehten-apparat-im-ministerium-verschlanken-a-aac72999-daf3-42b4-a352-8a4c84527857#ref=rss)
-### dennis
-
-* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-liefert-naechste-topleistung-ab-jokic-nicht-zu-stoppen](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-liefert-naechste-topleistung-ab-jokic-nicht-zu-stoppen-a-93ade60d-f1b3-4bbb-a7bc-30c1b20cf2ca#ref=rss)
-### schröder
-
-* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-liefert-naechste-topleistung-ab-jokic-nicht-zu-stoppen](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-liefert-naechste-topleistung-ab-jokic-nicht-zu-stoppen-a-93ade60d-f1b3-4bbb-a7bc-30c1b20cf2ca#ref=rss)
-### toronto
-
-* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-liefert-naechste-topleistung-ab-jokic-nicht-zu-stoppen](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-liefert-naechste-topleistung-ab-jokic-nicht-zu-stoppen-a-93ade60d-f1b3-4bbb-a7bc-30c1b20cf2ca#ref=rss)
-### raptors
-
-* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-liefert-naechste-topleistung-ab-jokic-nicht-zu-stoppen](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-liefert-naechste-topleistung-ab-jokic-nicht-zu-stoppen-a-93ade60d-f1b3-4bbb-a7bc-30c1b20cf2ca#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-israel-gaza-krieg-strompreispaket-carsten-coesfeld-bei-bertelsmann](https://www.spiegel.de/politik/deutschland/news-des-tages-israel-gaza-krieg-strompreispaket-carsten-coesfeld-bei-bertelsmann-a-63b5924f-5668-4156-89b0-54d39fb3aa81#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-news-heute-zahl-getoeteter-uno-mitarbeiter-im-gazastreifen-steigt-auf-92](https://www.spiegel.de/ausland/israel-hamas-news-heute-zahl-getoeteter-uno-mitarbeiter-im-gazastreifen-steigt-auf-92-a-d7159bb7-e146-4716-938e-0f4065fb875e#ref=rss)
 ### laura
 
-* [https://www.spiegel.de/sport/australien-laura-enever-surft-13-3-meter-hohe-welle-weltrekord](https://www.spiegel.de/sport/australien-laura-enever-surft-13-3-meter-hohe-welle-weltrekord-a-4cbdbb44-223b-494d-bf6f-fb809938e9a1#ref=rss)
+* [https://www.spiegel.de/sport/laura-enever-und-das-big-wave-surfen-das-ist-die-neue-weltrekordlerin-aus-australien](https://www.spiegel.de/sport/laura-enever-und-das-big-wave-surfen-das-ist-die-neue-weltrekordlerin-aus-australien-a-bfda4a1b-82bf-4b51-8e18-ccde8b2e644a#ref=rss)
+* [https://www.spiegel.de/sport/holy-cow-das-ist-die-groesste-welle-auf-der-du-je-gesurft-bist](https://www.spiegel.de/sport/holy-cow-das-ist-die-groesste-welle-auf-der-du-je-gesurft-bist-a-300c6543-1e53-46fe-881d-7d47df589027#ref=rss)
 ### enever
 
-* [https://www.spiegel.de/sport/australien-laura-enever-surft-13-3-meter-hohe-welle-weltrekord](https://www.spiegel.de/sport/australien-laura-enever-surft-13-3-meter-hohe-welle-weltrekord-a-4cbdbb44-223b-494d-bf6f-fb809938e9a1#ref=rss)
+* [https://www.spiegel.de/sport/laura-enever-und-das-big-wave-surfen-das-ist-die-neue-weltrekordlerin-aus-australien](https://www.spiegel.de/sport/laura-enever-und-das-big-wave-surfen-das-ist-die-neue-weltrekordlerin-aus-australien-a-bfda4a1b-82bf-4b51-8e18-ccde8b2e644a#ref=rss)
+* [https://www.spiegel.de/sport/holy-cow-das-ist-die-groesste-welle-auf-der-du-je-gesurft-bist](https://www.spiegel.de/sport/holy-cow-das-ist-die-groesste-welle-auf-der-du-je-gesurft-bist-a-300c6543-1e53-46fe-881d-7d47df589027#ref=rss)
 ### welle
 
-* [https://www.spiegel.de/sport/australien-laura-enever-surft-13-3-meter-hohe-welle-weltrekord](https://www.spiegel.de/sport/australien-laura-enever-surft-13-3-meter-hohe-welle-weltrekord-a-4cbdbb44-223b-494d-bf6f-fb809938e9a1#ref=rss)
-### italien
+* [https://www.spiegel.de/sport/laura-enever-und-das-big-wave-surfen-das-ist-die-neue-weltrekordlerin-aus-australien](https://www.spiegel.de/sport/laura-enever-und-das-big-wave-surfen-das-ist-die-neue-weltrekordlerin-aus-australien-a-bfda4a1b-82bf-4b51-8e18-ccde8b2e644a#ref=rss)
+* [https://www.spiegel.de/sport/holy-cow-das-ist-die-groesste-welle-auf-der-du-je-gesurft-bist](https://www.spiegel.de/sport/holy-cow-das-ist-die-groesste-welle-auf-der-du-je-gesurft-bist-a-300c6543-1e53-46fe-881d-7d47df589027#ref=rss)
+### interview
 
-* [https://www.spiegel.de/panorama/justiz/usa-und-italien-16-mutmassliche-mafia-mitglieder-und-unterstuetzer-festgenommen](https://www.spiegel.de/panorama/justiz/usa-und-italien-16-mutmassliche-mafia-mitglieder-und-unterstuetzer-festgenommen-a-9420c453-c494-42b0-b49a-0319de138274#ref=rss)
-### mutmaßliche
+* [https://www.spiegel.de/panorama/ukraine-wolodymyr-selenskyj-wuenscht-sich-in-interview-planet-der-hunde](https://www.spiegel.de/panorama/ukraine-wolodymyr-selenskyj-wuenscht-sich-in-interview-planet-der-hunde-a-601ec091-62fd-4c95-aedd-faa4fca9d182#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/adania-shibli-erstes-interview-seit-liberaturpreis-verschiebung-bei-buchmesse](https://www.spiegel.de/kultur/literatur/adania-shibli-erstes-interview-seit-liberaturpreis-verschiebung-bei-buchmesse-a-3146c331-2959-4bb0-8067-5139b9352b2b#ref=rss)
+### wir
 
-* [https://www.spiegel.de/panorama/justiz/usa-und-italien-16-mutmassliche-mafia-mitglieder-und-unterstuetzer-festgenommen](https://www.spiegel.de/panorama/justiz/usa-und-italien-16-mutmassliche-mafia-mitglieder-und-unterstuetzer-festgenommen-a-9420c453-c494-42b0-b49a-0319de138274#ref=rss)
-### unterstützer
+* [https://www.spiegel.de/sport/fussball/maccabi-haifa-in-der-europa-league-wir-spielen-nicht-nur-fuer-die-fans-wir-spielen-fuer-das-land](https://www.spiegel.de/sport/fussball/maccabi-haifa-in-der-europa-league-wir-spielen-nicht-nur-fuer-die-fans-wir-spielen-fuer-das-land-a-d22e49d6-5480-4e41-9120-e5765068ab7a#ref=rss)
+* [https://www.spiegel.de/gesundheit/alkohol-test-und-kuenstliche-intelligenz-ki-erkennt-am-zungenbrecher-ob-sie-betrunken-sind](https://www.spiegel.de/gesundheit/alkohol-test-und-kuenstliche-intelligenz-ki-erkennt-am-zungenbrecher-ob-sie-betrunken-sind-a-c5225782-f212-44dc-bb83-c3dff472766e#ref=rss)
+### land
 
-* [https://www.spiegel.de/panorama/justiz/usa-und-italien-16-mutmassliche-mafia-mitglieder-und-unterstuetzer-festgenommen](https://www.spiegel.de/panorama/justiz/usa-und-italien-16-mutmassliche-mafia-mitglieder-und-unterstuetzer-festgenommen-a-9420c453-c494-42b0-b49a-0319de138274#ref=rss)
-* [https://www.spiegel.de/ausland/jude-in-kalifornien-getoetet-schlag-mit-dem-megafon](https://www.spiegel.de/ausland/jude-in-kalifornien-getoetet-schlag-mit-dem-megafon-a-7f3f51a7-7621-41e8-a09f-9d0587448f35#ref=rss)
+* [https://www.spiegel.de/sport/fussball/maccabi-haifa-in-der-europa-league-wir-spielen-nicht-nur-fuer-die-fans-wir-spielen-fuer-das-land](https://www.spiegel.de/sport/fussball/maccabi-haifa-in-der-europa-league-wir-spielen-nicht-nur-fuer-die-fans-wir-spielen-fuer-das-land-a-d22e49d6-5480-4e41-9120-e5765068ab7a#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bafoeg-breites-buendnis-aus-hochschulrektorenkonferenz-studierendenwerk-und-hochschulgruppen-fordert-mehr-geld](https://www.spiegel.de/panorama/bildung/bafoeg-breites-buendnis-aus-hochschulrektorenkonferenz-studierendenwerk-und-hochschulgruppen-fordert-mehr-geld-a-4838f44a-7b3b-4697-b3ae-2d91e76b98a3#ref=rss)
+### geld
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/porsche-betriebsraete-klagen-erfolgreich-gegen-gehaltskuerzung](https://www.spiegel.de/wirtschaft/unternehmen/porsche-betriebsraete-klagen-erfolgreich-gegen-gehaltskuerzung-a-d04f9922-d7d5-4ab7-b12d-b713b59694ea#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bafoeg-breites-buendnis-aus-hochschulrektorenkonferenz-studierendenwerk-und-hochschulgruppen-fordert-mehr-geld](https://www.spiegel.de/panorama/bildung/bafoeg-breites-buendnis-aus-hochschulrektorenkonferenz-studierendenwerk-und-hochschulgruppen-fordert-mehr-geld-a-4838f44a-7b3b-4697-b3ae-2d91e76b98a3#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/industriestrompreis-das-milliardengeschenk-an-die-industrie-und-was-es-bringt](https://www.spiegel.de/wirtschaft/unternehmen/industriestrompreis-das-milliardengeschenk-an-die-industrie-und-was-es-bringt-a-dea4fc12-8ecf-41e0-a229-511a422d9ced#ref=rss)
+* [https://www.spiegel.de/kultur/jahreszeiten-verlag-kulinarik-chefredakteurin-deborah-middelhoff-will-deutschland-verlassen](https://www.spiegel.de/kultur/jahreszeiten-verlag-kulinarik-chefredakteurin-deborah-middelhoff-will-deutschland-verlassen-a-809af9e1-0048-45dd-9bcf-87c35634ef2d#ref=rss)
+### problem
+
+* [https://www.spiegel.de/panorama/wasserbueffel-in-giessen-entlaufen-polizei-hofft-auf-zeugenhinweise](https://www.spiegel.de/panorama/wasserbueffel-in-giessen-entlaufen-polizei-hofft-auf-zeugenhinweise-a-2f5dd2b6-782b-431f-8d5e-79f0b8ce944c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/boris-pistorius-die-bundeswehr-und-das-k-wort-neue-verteidigungspolitische-richtlinien](https://www.spiegel.de/politik/deutschland/boris-pistorius-die-bundeswehr-und-das-k-wort-neue-verteidigungspolitische-richtlinien-a-c7eeb4cb-5af2-471c-b60e-5ce779c6597a#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/hilfe-fuer-mobbing-opfer-instagram-und-tiktok-bekommen-in-frankreich-einen-alarm-button](https://www.spiegel.de/netzwelt/apps/hilfe-fuer-mobbing-opfer-instagram-und-tiktok-bekommen-in-frankreich-einen-alarm-button-a-6e06c20c-758e-4b81-a277-5834fb9919e1#ref=rss)
+### hund
+
+* [https://www.spiegel.de/panorama/weil-am-rhein-hund-soll-einen-feuerwehreinsatz-ausgeloest-haben-hundeleinen-schmorten-auf-kochfeld](https://www.spiegel.de/panorama/weil-am-rhein-hund-soll-einen-feuerwehreinsatz-ausgeloest-haben-hundeleinen-schmorten-auf-kochfeld-a-616cbaea-339c-491b-a752-5c311bae95b2#ref=rss)
+* [https://www.spiegel.de/panorama/japan-feiert-100-geburtstag-von-hund-hachiko-treuster-hund-der-welt](https://www.spiegel.de/panorama/japan-feiert-100-geburtstag-von-hund-hachiko-treuster-hund-der-welt-a-20b9d59a-2f10-4c15-b69b-619432264ac3#ref=rss)
+### jeden
+
+* [https://www.spiegel.de/ausland/israel-hamas-news-heute-zahl-getoeteter-uno-mitarbeiter-im-gazastreifen-steigt-auf-92](https://www.spiegel.de/ausland/israel-hamas-news-heute-zahl-getoeteter-uno-mitarbeiter-im-gazastreifen-steigt-auf-92-a-d7159bb7-e146-4716-938e-0f4065fb875e#ref=rss)
+* [https://www.spiegel.de/panorama/japan-feiert-100-geburtstag-von-hund-hachiko-treuster-hund-der-welt](https://www.spiegel.de/panorama/japan-feiert-100-geburtstag-von-hund-hachiko-treuster-hund-der-welt-a-20b9d59a-2f10-4c15-b69b-619432264ac3#ref=rss)
+### 100
+
+* [https://www.spiegel.de/kultur/100-jahre-loriot-daraus-kannst-du-gut-ein-meme-machen](https://www.spiegel.de/kultur/100-jahre-loriot-daraus-kannst-du-gut-ein-meme-machen-a-24003af0-ae80-465b-ac7b-252ef37bef41#ref=rss)
+* [https://www.spiegel.de/panorama/japan-feiert-100-geburtstag-von-hund-hachiko-treuster-hund-der-welt](https://www.spiegel.de/panorama/japan-feiert-100-geburtstag-von-hund-hachiko-treuster-hund-der-welt-a-20b9d59a-2f10-4c15-b69b-619432264ac3#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/kultur/100-jahre-loriot-daraus-kannst-du-gut-ein-meme-machen](https://www.spiegel.de/kultur/100-jahre-loriot-daraus-kannst-du-gut-ein-meme-machen-a-24003af0-ae80-465b-ac7b-252ef37bef41#ref=rss)
+* [https://www.spiegel.de/panorama/japan-feiert-100-geburtstag-von-hund-hachiko-treuster-hund-der-welt](https://www.spiegel.de/panorama/japan-feiert-100-geburtstag-von-hund-hachiko-treuster-hund-der-welt-a-20b9d59a-2f10-4c15-b69b-619432264ac3#ref=rss)
+### du
+
+* [https://www.spiegel.de/kultur/100-jahre-loriot-daraus-kannst-du-gut-ein-meme-machen](https://www.spiegel.de/kultur/100-jahre-loriot-daraus-kannst-du-gut-ein-meme-machen-a-24003af0-ae80-465b-ac7b-252ef37bef41#ref=rss)
+* [https://www.spiegel.de/sport/holy-cow-das-ist-die-groesste-welle-auf-der-du-je-gesurft-bist](https://www.spiegel.de/sport/holy-cow-das-ist-die-groesste-welle-auf-der-du-je-gesurft-bist-a-300c6543-1e53-46fe-881d-7d47df589027#ref=rss)
+### perry
+
+* [https://www.spiegel.de/kultur/kino/zac-efron-waere-es-eine-ehre-matthew-perry-in-biopic-zu-spielen](https://www.spiegel.de/kultur/kino/zac-efron-waere-es-eine-ehre-matthew-perry-in-biopic-zu-spielen-a-e49ea4e4-3469-4cd7-969b-1c2df3968a77#ref=rss)
+### hillary
+
+* [https://www.spiegel.de/ausland/hillary-clinton-zieht-parallele-zwischen-donald-trump-und-adolf-hitler](https://www.spiegel.de/ausland/hillary-clinton-zieht-parallele-zwischen-donald-trump-und-adolf-hitler-a-6063aabe-e6c1-4233-ae15-d88d2ee9c073#ref=rss)
+### clinton
+
+* [https://www.spiegel.de/ausland/hillary-clinton-zieht-parallele-zwischen-donald-trump-und-adolf-hitler](https://www.spiegel.de/ausland/hillary-clinton-zieht-parallele-zwischen-donald-trump-und-adolf-hitler-a-6063aabe-e6c1-4233-ae15-d88d2ee9c073#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/hillary-clinton-zieht-parallele-zwischen-donald-trump-und-adolf-hitler](https://www.spiegel.de/ausland/hillary-clinton-zieht-parallele-zwischen-donald-trump-und-adolf-hitler-a-6063aabe-e6c1-4233-ae15-d88d2ee9c073#ref=rss)
+### fast
+
+* [https://www.spiegel.de/ausland/hillary-clinton-zieht-parallele-zwischen-donald-trump-und-adolf-hitler](https://www.spiegel.de/ausland/hillary-clinton-zieht-parallele-zwischen-donald-trump-und-adolf-hitler-a-6063aabe-e6c1-4233-ae15-d88d2ee9c073#ref=rss)
+* [https://www.spiegel.de/panorama/japan-feiert-100-geburtstag-von-hund-hachiko-treuster-hund-der-welt](https://www.spiegel.de/panorama/japan-feiert-100-geburtstag-von-hund-hachiko-treuster-hund-der-welt-a-20b9d59a-2f10-4c15-b69b-619432264ac3#ref=rss)
+### news
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-israel-gaza-krieg-strompreispaket-carsten-coesfeld-bei-bertelsmann](https://www.spiegel.de/politik/deutschland/news-des-tages-israel-gaza-krieg-strompreispaket-carsten-coesfeld-bei-bertelsmann-a-63b5924f-5668-4156-89b0-54d39fb3aa81#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-news-heute-zahl-getoeteter-uno-mitarbeiter-im-gazastreifen-steigt-auf-92](https://www.spiegel.de/ausland/israel-hamas-news-heute-zahl-getoeteter-uno-mitarbeiter-im-gazastreifen-steigt-auf-92-a-d7159bb7-e146-4716-938e-0f4065fb875e#ref=rss)
+### bertelsmann
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-israel-gaza-krieg-strompreispaket-carsten-coesfeld-bei-bertelsmann](https://www.spiegel.de/politik/deutschland/news-des-tages-israel-gaza-krieg-strompreispaket-carsten-coesfeld-bei-bertelsmann-a-63b5924f-5668-4156-89b0-54d39fb3aa81#ref=rss)
+### industrie
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-israel-gaza-krieg-strompreispaket-carsten-coesfeld-bei-bertelsmann](https://www.spiegel.de/politik/deutschland/news-des-tages-israel-gaza-krieg-strompreispaket-carsten-coesfeld-bei-bertelsmann-a-63b5924f-5668-4156-89b0-54d39fb3aa81#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/industriestrompreis-das-milliardengeschenk-an-die-industrie-und-was-es-bringt](https://www.spiegel.de/wirtschaft/unternehmen/industriestrompreis-das-milliardengeschenk-an-die-industrie-und-was-es-bringt-a-dea4fc12-8ecf-41e0-a229-511a422d9ced#ref=rss)
+### usa
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-israel-gaza-krieg-strompreispaket-carsten-coesfeld-bei-bertelsmann](https://www.spiegel.de/politik/deutschland/news-des-tages-israel-gaza-krieg-strompreispaket-carsten-coesfeld-bei-bertelsmann-a-63b5924f-5668-4156-89b0-54d39fb3aa81#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-news-heute-zahl-getoeteter-uno-mitarbeiter-im-gazastreifen-steigt-auf-92](https://www.spiegel.de/ausland/israel-hamas-news-heute-zahl-getoeteter-uno-mitarbeiter-im-gazastreifen-steigt-auf-92-a-d7159bb7-e146-4716-938e-0f4065fb875e#ref=rss)
+### hamas
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-israel-gaza-krieg-strompreispaket-carsten-coesfeld-bei-bertelsmann](https://www.spiegel.de/politik/deutschland/news-des-tages-israel-gaza-krieg-strompreispaket-carsten-coesfeld-bei-bertelsmann-a-63b5924f-5668-4156-89b0-54d39fb3aa81#ref=rss)
+* [https://www.spiegel.de/sport/fussball/maccabi-haifa-in-der-europa-league-wir-spielen-nicht-nur-fuer-die-fans-wir-spielen-fuer-das-land](https://www.spiegel.de/sport/fussball/maccabi-haifa-in-der-europa-league-wir-spielen-nicht-nur-fuer-die-fans-wir-spielen-fuer-das-land-a-d22e49d6-5480-4e41-9120-e5765068ab7a#ref=rss)
+### bald
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-israel-gaza-krieg-strompreispaket-carsten-coesfeld-bei-bertelsmann](https://www.spiegel.de/politik/deutschland/news-des-tages-israel-gaza-krieg-strompreispaket-carsten-coesfeld-bei-bertelsmann-a-63b5924f-5668-4156-89b0-54d39fb3aa81#ref=rss)
+* [https://www.spiegel.de/gesundheit/alkohol-test-und-kuenstliche-intelligenz-ki-erkennt-am-zungenbrecher-ob-sie-betrunken-sind](https://www.spiegel.de/gesundheit/alkohol-test-und-kuenstliche-intelligenz-ki-erkennt-am-zungenbrecher-ob-sie-betrunken-sind-a-c5225782-f212-44dc-bb83-c3dff472766e#ref=rss)
+### sagen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-israel-gaza-krieg-strompreispaket-carsten-coesfeld-bei-bertelsmann](https://www.spiegel.de/politik/deutschland/news-des-tages-israel-gaza-krieg-strompreispaket-carsten-coesfeld-bei-bertelsmann-a-63b5924f-5668-4156-89b0-54d39fb3aa81#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bafoeg-breites-buendnis-aus-hochschulrektorenkonferenz-studierendenwerk-und-hochschulgruppen-fordert-mehr-geld](https://www.spiegel.de/panorama/bildung/bafoeg-breites-buendnis-aus-hochschulrektorenkonferenz-studierendenwerk-und-hochschulgruppen-fordert-mehr-geld-a-4838f44a-7b3b-4697-b3ae-2d91e76b98a3#ref=rss)
+### lage
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-israel-gaza-krieg-strompreispaket-carsten-coesfeld-bei-bertelsmann](https://www.spiegel.de/politik/deutschland/news-des-tages-israel-gaza-krieg-strompreispaket-carsten-coesfeld-bei-bertelsmann-a-63b5924f-5668-4156-89b0-54d39fb3aa81#ref=rss)
+* [https://www.spiegel.de/kultur/jahreszeiten-verlag-kulinarik-chefredakteurin-deborah-middelhoff-will-deutschland-verlassen](https://www.spiegel.de/kultur/jahreszeiten-verlag-kulinarik-chefredakteurin-deborah-middelhoff-will-deutschland-verlassen-a-809af9e1-0048-45dd-9bcf-87c35634ef2d#ref=rss)
+### neue
+
+* [https://www.spiegel.de/sport/laura-enever-und-das-big-wave-surfen-das-ist-die-neue-weltrekordlerin-aus-australien](https://www.spiegel.de/sport/laura-enever-und-das-big-wave-surfen-das-ist-die-neue-weltrekordlerin-aus-australien-a-bfda4a1b-82bf-4b51-8e18-ccde8b2e644a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/boris-pistorius-die-bundeswehr-und-das-k-wort-neue-verteidigungspolitische-richtlinien](https://www.spiegel.de/politik/deutschland/boris-pistorius-die-bundeswehr-und-das-k-wort-neue-verteidigungspolitische-richtlinien-a-c7eeb4cb-5af2-471c-b60e-5ce779c6597a#ref=rss)
+### australien
+
+* [https://www.spiegel.de/sport/laura-enever-und-das-big-wave-surfen-das-ist-die-neue-weltrekordlerin-aus-australien](https://www.spiegel.de/sport/laura-enever-und-das-big-wave-surfen-das-ist-die-neue-weltrekordlerin-aus-australien-a-bfda4a1b-82bf-4b51-8e18-ccde8b2e644a#ref=rss)
+* [https://www.spiegel.de/sport/holy-cow-das-ist-die-groesste-welle-auf-der-du-je-gesurft-bist](https://www.spiegel.de/sport/holy-cow-das-ist-die-groesste-welle-auf-der-du-je-gesurft-bist-a-300c6543-1e53-46fe-881d-7d47df589027#ref=rss)
+### 133
+
+* [https://www.spiegel.de/sport/laura-enever-und-das-big-wave-surfen-das-ist-die-neue-weltrekordlerin-aus-australien](https://www.spiegel.de/sport/laura-enever-und-das-big-wave-surfen-das-ist-die-neue-weltrekordlerin-aus-australien-a-bfda4a1b-82bf-4b51-8e18-ccde8b2e644a#ref=rss)
+* [https://www.spiegel.de/sport/holy-cow-das-ist-die-groesste-welle-auf-der-du-je-gesurft-bist](https://www.spiegel.de/sport/holy-cow-das-ist-die-groesste-welle-auf-der-du-je-gesurft-bist-a-300c6543-1e53-46fe-881d-7d47df589027#ref=rss)
+### meter
+
+* [https://www.spiegel.de/sport/laura-enever-und-das-big-wave-surfen-das-ist-die-neue-weltrekordlerin-aus-australien](https://www.spiegel.de/sport/laura-enever-und-das-big-wave-surfen-das-ist-die-neue-weltrekordlerin-aus-australien-a-bfda4a1b-82bf-4b51-8e18-ccde8b2e644a#ref=rss)
+* [https://www.spiegel.de/sport/holy-cow-das-ist-die-groesste-welle-auf-der-du-je-gesurft-bist](https://www.spiegel.de/sport/holy-cow-das-ist-die-groesste-welle-auf-der-du-je-gesurft-bist-a-300c6543-1e53-46fe-881d-7d47df589027#ref=rss)
+### hohe
+
+* [https://www.spiegel.de/sport/laura-enever-und-das-big-wave-surfen-das-ist-die-neue-weltrekordlerin-aus-australien](https://www.spiegel.de/sport/laura-enever-und-das-big-wave-surfen-das-ist-die-neue-weltrekordlerin-aus-australien-a-bfda4a1b-82bf-4b51-8e18-ccde8b2e644a#ref=rss)
+* [https://www.spiegel.de/sport/holy-cow-das-ist-die-groesste-welle-auf-der-du-je-gesurft-bist](https://www.spiegel.de/sport/holy-cow-das-ist-die-groesste-welle-auf-der-du-je-gesurft-bist-a-300c6543-1e53-46fe-881d-7d47df589027#ref=rss)
 ### ukraine
 
-* [https://www.spiegel.de/ausland/ukraine-armee-wirft-russland-beschuss-von-zivilem-frachter-vor](https://www.spiegel.de/ausland/ukraine-armee-wirft-russland-beschuss-von-zivilem-frachter-vor-a-3ab1906e-4009-46e1-93fa-fe0e916d805e#ref=rss)
-### getötet
+* [https://www.spiegel.de/panorama/ukraine-wolodymyr-selenskyj-wuenscht-sich-in-interview-planet-der-hunde](https://www.spiegel.de/panorama/ukraine-wolodymyr-selenskyj-wuenscht-sich-in-interview-planet-der-hunde-a-601ec091-62fd-4c95-aedd-faa4fca9d182#ref=rss)
+### wolodymyr
 
-* [https://www.spiegel.de/ausland/ukraine-armee-wirft-russland-beschuss-von-zivilem-frachter-vor](https://www.spiegel.de/ausland/ukraine-armee-wirft-russland-beschuss-von-zivilem-frachter-vor-a-3ab1906e-4009-46e1-93fa-fe0e916d805e#ref=rss)
-* [https://www.spiegel.de/ausland/jude-in-kalifornien-getoetet-schlag-mit-dem-megafon](https://www.spiegel.de/ausland/jude-in-kalifornien-getoetet-schlag-mit-dem-megafon-a-7f3f51a7-7621-41e8-a09f-9d0587448f35#ref=rss)
-### dacia
+* [https://www.spiegel.de/panorama/ukraine-wolodymyr-selenskyj-wuenscht-sich-in-interview-planet-der-hunde](https://www.spiegel.de/panorama/ukraine-wolodymyr-selenskyj-wuenscht-sich-in-interview-planet-der-hunde-a-601ec091-62fd-4c95-aedd-faa4fca9d182#ref=rss)
+### selenskyj
 
-* [https://www.spiegel.de/auto/dacia-spring-65-im-test-der-20-ps-effekt](https://www.spiegel.de/auto/dacia-spring-65-im-test-der-20-ps-effekt-a-6ba9239d-5114-4634-8ed4-6e63698cd789#ref=rss)
-### spring
+* [https://www.spiegel.de/panorama/ukraine-wolodymyr-selenskyj-wuenscht-sich-in-interview-planet-der-hunde](https://www.spiegel.de/panorama/ukraine-wolodymyr-selenskyj-wuenscht-sich-in-interview-planet-der-hunde-a-601ec091-62fd-4c95-aedd-faa4fca9d182#ref=rss)
+### hunde
 
-* [https://www.spiegel.de/auto/dacia-spring-65-im-test-der-20-ps-effekt](https://www.spiegel.de/auto/dacia-spring-65-im-test-der-20-ps-effekt-a-6ba9239d-5114-4634-8ed4-6e63698cd789#ref=rss)
-### diplomatin
+* [https://www.spiegel.de/panorama/ukraine-wolodymyr-selenskyj-wuenscht-sich-in-interview-planet-der-hunde](https://www.spiegel.de/panorama/ukraine-wolodymyr-selenskyj-wuenscht-sich-in-interview-planet-der-hunde-a-601ec091-62fd-4c95-aedd-faa4fca9d182#ref=rss)
+* [https://www.spiegel.de/panorama/weil-am-rhein-hund-soll-einen-feuerwehreinsatz-ausgeloest-haben-hundeleinen-schmorten-auf-kochfeld](https://www.spiegel.de/panorama/weil-am-rhein-hund-soll-einen-feuerwehreinsatz-ausgeloest-haben-hundeleinen-schmorten-auf-kochfeld-a-616cbaea-339c-491b-a752-5c311bae95b2#ref=rss)
+### allem
 
-* [https://www.spiegel.de/start/berufseinstieg-als-diplomatin-sabine-mehnert-ueber-ihren-job-im-kongo](https://www.spiegel.de/start/berufseinstieg-als-diplomatin-sabine-mehnert-ueber-ihren-job-im-kongo-a-dccb14da-c654-4ab7-ac37-43332400474f#ref=rss)
-### sabine
+* [https://www.spiegel.de/panorama/ukraine-wolodymyr-selenskyj-wuenscht-sich-in-interview-planet-der-hunde](https://www.spiegel.de/panorama/ukraine-wolodymyr-selenskyj-wuenscht-sich-in-interview-planet-der-hunde-a-601ec091-62fd-4c95-aedd-faa4fca9d182#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/industriestrompreis-das-milliardengeschenk-an-die-industrie-und-was-es-bringt](https://www.spiegel.de/wirtschaft/unternehmen/industriestrompreis-das-milliardengeschenk-an-die-industrie-und-was-es-bringt-a-dea4fc12-8ecf-41e0-a229-511a422d9ced#ref=rss)
+### maccabi
 
-* [https://www.spiegel.de/start/berufseinstieg-als-diplomatin-sabine-mehnert-ueber-ihren-job-im-kongo](https://www.spiegel.de/start/berufseinstieg-als-diplomatin-sabine-mehnert-ueber-ihren-job-im-kongo-a-dccb14da-c654-4ab7-ac37-43332400474f#ref=rss)
-### mehnert
+* [https://www.spiegel.de/sport/fussball/maccabi-haifa-in-der-europa-league-wir-spielen-nicht-nur-fuer-die-fans-wir-spielen-fuer-das-land](https://www.spiegel.de/sport/fussball/maccabi-haifa-in-der-europa-league-wir-spielen-nicht-nur-fuer-die-fans-wir-spielen-fuer-das-land-a-d22e49d6-5480-4e41-9120-e5765068ab7a#ref=rss)
+### haifa
 
-* [https://www.spiegel.de/start/berufseinstieg-als-diplomatin-sabine-mehnert-ueber-ihren-job-im-kongo](https://www.spiegel.de/start/berufseinstieg-als-diplomatin-sabine-mehnert-ueber-ihren-job-im-kongo-a-dccb14da-c654-4ab7-ac37-43332400474f#ref=rss)
-### kongo
+* [https://www.spiegel.de/sport/fussball/maccabi-haifa-in-der-europa-league-wir-spielen-nicht-nur-fuer-die-fans-wir-spielen-fuer-das-land](https://www.spiegel.de/sport/fussball/maccabi-haifa-in-der-europa-league-wir-spielen-nicht-nur-fuer-die-fans-wir-spielen-fuer-das-land-a-d22e49d6-5480-4e41-9120-e5765068ab7a#ref=rss)
+### abend
 
-* [https://www.spiegel.de/start/berufseinstieg-als-diplomatin-sabine-mehnert-ueber-ihren-job-im-kongo](https://www.spiegel.de/start/berufseinstieg-als-diplomatin-sabine-mehnert-ueber-ihren-job-im-kongo-a-dccb14da-c654-4ab7-ac37-43332400474f#ref=rss)
-### jahr
+* [https://www.spiegel.de/sport/fussball/maccabi-haifa-in-der-europa-league-wir-spielen-nicht-nur-fuer-die-fans-wir-spielen-fuer-das-land](https://www.spiegel.de/sport/fussball/maccabi-haifa-in-der-europa-league-wir-spielen-nicht-nur-fuer-die-fans-wir-spielen-fuer-das-land-a-d22e49d6-5480-4e41-9120-e5765068ab7a#ref=rss)
+* [https://www.spiegel.de/panorama/japan-feiert-100-geburtstag-von-hund-hachiko-treuster-hund-der-welt](https://www.spiegel.de/panorama/japan-feiert-100-geburtstag-von-hund-hachiko-treuster-hund-der-welt-a-20b9d59a-2f10-4c15-b69b-619432264ac3#ref=rss)
+### gericht
 
-* [https://www.spiegel.de/start/berufseinstieg-als-diplomatin-sabine-mehnert-ueber-ihren-job-im-kongo](https://www.spiegel.de/start/berufseinstieg-als-diplomatin-sabine-mehnert-ueber-ihren-job-im-kongo-a-dccb14da-c654-4ab7-ac37-43332400474f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/china-wirtschaft-rutscht-im-oktober-zurueck-in-die-deflation](https://www.spiegel.de/wirtschaft/soziales/china-wirtschaft-rutscht-im-oktober-zurueck-in-die-deflation-a-0fb0657a-75aa-45af-b21d-9c8d6ae4ad87#ref=rss)
-### 11
+* [https://www.spiegel.de/wirtschaft/unternehmen/porsche-betriebsraete-klagen-erfolgreich-gegen-gehaltskuerzung](https://www.spiegel.de/wirtschaft/unternehmen/porsche-betriebsraete-klagen-erfolgreich-gegen-gehaltskuerzung-a-d04f9922-d7d5-4ab7-b12d-b713b59694ea#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/christine-lambrecht-verteidigungsministerium-muss-weitere-infos-zu-hubschrauberflug-herausgeben](https://www.spiegel.de/politik/deutschland/christine-lambrecht-verteidigungsministerium-muss-weitere-infos-zu-hubschrauberflug-herausgeben-a-820c1a92-3ea2-4865-a9d8-9d182afdbb7b#ref=rss)
+### zungenbrecher
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/mobilfunk-kartellamt-springt-1-und-1-bei](https://www.spiegel.de/wirtschaft/unternehmen/mobilfunk-kartellamt-springt-1-und-1-bei-a-0090f7ce-6de7-42c3-a259-f2485406371e#ref=rss)
-### panama
+* [https://www.spiegel.de/gesundheit/alkohol-test-und-kuenstliche-intelligenz-ki-erkennt-am-zungenbrecher-ob-sie-betrunken-sind](https://www.spiegel.de/gesundheit/alkohol-test-und-kuenstliche-intelligenz-ki-erkennt-am-zungenbrecher-ob-sie-betrunken-sind-a-c5225782-f212-44dc-bb83-c3dff472766e#ref=rss)
+### forschende
 
-* [https://www.spiegel.de/panorama/justiz/panama-demonstranten-auf-highway-erschossen-schuetze-in-untersuchungshaft](https://www.spiegel.de/panorama/justiz/panama-demonstranten-auf-highway-erschossen-schuetze-in-untersuchungshaft-a-b2af6c75-89ec-4f92-be06-9ad46c8d92a0#ref=rss)
-### demonstranten
+* [https://www.spiegel.de/gesundheit/alkohol-test-und-kuenstliche-intelligenz-ki-erkennt-am-zungenbrecher-ob-sie-betrunken-sind](https://www.spiegel.de/gesundheit/alkohol-test-und-kuenstliche-intelligenz-ki-erkennt-am-zungenbrecher-ob-sie-betrunken-sind-a-c5225782-f212-44dc-bb83-c3dff472766e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/china-forschende-erschaffen-erstmals-affen-mit-manipulierten-stammzellen](https://www.spiegel.de/wissenschaft/china-forschende-erschaffen-erstmals-affen-mit-manipulierten-stammzellen-a-a1852c8c-46ad-4187-a2e5-5759c53895df#ref=rss)
+### china
 
-* [https://www.spiegel.de/panorama/justiz/panama-demonstranten-auf-highway-erschossen-schuetze-in-untersuchungshaft](https://www.spiegel.de/panorama/justiz/panama-demonstranten-auf-highway-erschossen-schuetze-in-untersuchungshaft-a-b2af6c75-89ec-4f92-be06-9ad46c8d92a0#ref=rss)
-### wirtschaftliche
+* [https://www.spiegel.de/wissenschaft/china-forschende-erschaffen-erstmals-affen-mit-manipulierten-stammzellen](https://www.spiegel.de/wissenschaft/china-forschende-erschaffen-erstmals-affen-mit-manipulierten-stammzellen-a-a1852c8c-46ad-4187-a2e5-5759c53895df#ref=rss)
+### mehreren
 
-* [https://www.spiegel.de/wirtschaft/soziales/china-wirtschaft-rutscht-im-oktober-zurueck-in-die-deflation](https://www.spiegel.de/wirtschaft/soziales/china-wirtschaft-rutscht-im-oktober-zurueck-in-die-deflation-a-0fb0657a-75aa-45af-b21d-9c8d6ae4ad87#ref=rss)
-### erholung
+* [https://www.spiegel.de/wissenschaft/china-forschende-erschaffen-erstmals-affen-mit-manipulierten-stammzellen](https://www.spiegel.de/wissenschaft/china-forschende-erschaffen-erstmals-affen-mit-manipulierten-stammzellen-a-a1852c8c-46ad-4187-a2e5-5759c53895df#ref=rss)
+### eltern
 
-* [https://www.spiegel.de/wirtschaft/soziales/china-wirtschaft-rutscht-im-oktober-zurueck-in-die-deflation](https://www.spiegel.de/wirtschaft/soziales/china-wirtschaft-rutscht-im-oktober-zurueck-in-die-deflation-a-0fb0657a-75aa-45af-b21d-9c8d6ae4ad87#ref=rss)
-### erleidet
+* [https://www.spiegel.de/wissenschaft/china-forschende-erschaffen-erstmals-affen-mit-manipulierten-stammzellen](https://www.spiegel.de/wissenschaft/china-forschende-erschaffen-erstmals-affen-mit-manipulierten-stammzellen-a-a1852c8c-46ad-4187-a2e5-5759c53895df#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-liverpool-vater-von-luis-diaz-nach-entfuehrung-in-kolumbien-wieder-frei](https://www.spiegel.de/sport/fussball/fc-liverpool-vater-von-luis-diaz-nach-entfuehrung-in-kolumbien-wieder-frei-a-f153f755-5bfc-4b1b-999d-abfd86fea4e8#ref=rss)
+### welt
 
-* [https://www.spiegel.de/wirtschaft/soziales/china-wirtschaft-rutscht-im-oktober-zurueck-in-die-deflation](https://www.spiegel.de/wirtschaft/soziales/china-wirtschaft-rutscht-im-oktober-zurueck-in-die-deflation-a-0fb0657a-75aa-45af-b21d-9c8d6ae4ad87#ref=rss)
-### rückschlag
+* [https://www.spiegel.de/wissenschaft/china-forschende-erschaffen-erstmals-affen-mit-manipulierten-stammzellen](https://www.spiegel.de/wissenschaft/china-forschende-erschaffen-erstmals-affen-mit-manipulierten-stammzellen-a-a1852c8c-46ad-4187-a2e5-5759c53895df#ref=rss)
+* [https://www.spiegel.de/panorama/japan-feiert-100-geburtstag-von-hund-hachiko-treuster-hund-der-welt](https://www.spiegel.de/panorama/japan-feiert-100-geburtstag-von-hund-hachiko-treuster-hund-der-welt-a-20b9d59a-2f10-4c15-b69b-619432264ac3#ref=rss)
+### gilt
 
-* [https://www.spiegel.de/wirtschaft/soziales/china-wirtschaft-rutscht-im-oktober-zurueck-in-die-deflation](https://www.spiegel.de/wirtschaft/soziales/china-wirtschaft-rutscht-im-oktober-zurueck-in-die-deflation-a-0fb0657a-75aa-45af-b21d-9c8d6ae4ad87#ref=rss)
-### zweiten
+* [https://www.spiegel.de/wissenschaft/china-forschende-erschaffen-erstmals-affen-mit-manipulierten-stammzellen](https://www.spiegel.de/wissenschaft/china-forschende-erschaffen-erstmals-affen-mit-manipulierten-stammzellen-a-a1852c8c-46ad-4187-a2e5-5759c53895df#ref=rss)
+* [https://www.spiegel.de/panorama/offenburg-jugendlicher-nach-angriff-durch-mitschueler-gestorben](https://www.spiegel.de/panorama/offenburg-jugendlicher-nach-angriff-durch-mitschueler-gestorben-a-c05abdab-f381-4a34-8c76-03da0e44a59b#ref=rss)
+### kuball
 
-* [https://www.spiegel.de/wirtschaft/soziales/china-wirtschaft-rutscht-im-oktober-zurueck-in-die-deflation](https://www.spiegel.de/wirtschaft/soziales/china-wirtschaft-rutscht-im-oktober-zurueck-in-die-deflation-a-0fb0657a-75aa-45af-b21d-9c8d6ae4ad87#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-usa-greifen-waffenlager-der-islamischen-revolutionsgarden-an](https://www.spiegel.de/ausland/syrien-usa-greifen-waffenlager-der-islamischen-revolutionsgarden-an-a-00529ba9-9e6b-4da2-b462-c4e211fba0b1#ref=rss)
-### syrien
+* [https://www.spiegel.de/kultur/reichspogromnacht-michael-kuball-ueber-die-lichtinstallation-zum-gedenken-an-den-9-november](https://www.spiegel.de/kultur/reichspogromnacht-michael-kuball-ueber-die-lichtinstallation-zum-gedenken-an-den-9-november-a-985ea269-4076-411a-89bb-8ca7855d73c6#ref=rss)
+### kommunen
 
-* [https://www.spiegel.de/ausland/syrien-usa-greifen-waffenlager-der-islamischen-revolutionsgarden-an](https://www.spiegel.de/ausland/syrien-usa-greifen-waffenlager-der-islamischen-revolutionsgarden-an-a-00529ba9-9e6b-4da2-b462-c4e211fba0b1#ref=rss)
-### wochen
+* [https://www.spiegel.de/netzwelt/web/suedwestfalen-it-kommunen-wollen-online-erpressern-kein-loesegeld-zahlen](https://www.spiegel.de/netzwelt/web/suedwestfalen-it-kommunen-wollen-online-erpressern-kein-loesegeld-zahlen-a-038cf064-dc1d-47a1-bc99-38a1a2f9916d#ref=rss)
+### adania
 
-* [https://www.spiegel.de/ausland/syrien-usa-greifen-waffenlager-der-islamischen-revolutionsgarden-an](https://www.spiegel.de/ausland/syrien-usa-greifen-waffenlager-der-islamischen-revolutionsgarden-an-a-00529ba9-9e6b-4da2-b462-c4e211fba0b1#ref=rss)
-### ganzes
+* [https://www.spiegel.de/kultur/literatur/adania-shibli-erstes-interview-seit-liberaturpreis-verschiebung-bei-buchmesse](https://www.spiegel.de/kultur/literatur/adania-shibli-erstes-interview-seit-liberaturpreis-verschiebung-bei-buchmesse-a-3146c331-2959-4bb0-8067-5139b9352b2b#ref=rss)
+### shibli
 
-* [https://www.spiegel.de/kultur/kino/ein-ganzes-leben-nach-erfolgsbuch-von-robert-seethaler-beckett-im-hochgebirge](https://www.spiegel.de/kultur/kino/ein-ganzes-leben-nach-erfolgsbuch-von-robert-seethaler-beckett-im-hochgebirge-a-4497c115-e300-4473-9a05-d2ca2851dbcb#ref=rss)
-### saundra
+* [https://www.spiegel.de/kultur/literatur/adania-shibli-erstes-interview-seit-liberaturpreis-verschiebung-bei-buchmesse](https://www.spiegel.de/kultur/literatur/adania-shibli-erstes-interview-seit-liberaturpreis-verschiebung-bei-buchmesse-a-3146c331-2959-4bb0-8067-5139b9352b2b#ref=rss)
+### buchmesse
 
-* [https://www.spiegel.de/psychologie/wer-denkt-urlaub-sei-erholung-der-irrt](https://www.spiegel.de/psychologie/wer-denkt-urlaub-sei-erholung-der-irrt-a-a49738ec-1c86-4d86-a5f8-5db2639a5d12#ref=rss)
-### daltonsmith
+* [https://www.spiegel.de/kultur/literatur/adania-shibli-erstes-interview-seit-liberaturpreis-verschiebung-bei-buchmesse](https://www.spiegel.de/kultur/literatur/adania-shibli-erstes-interview-seit-liberaturpreis-verschiebung-bei-buchmesse-a-3146c331-2959-4bb0-8067-5139b9352b2b#ref=rss)
+### vier
 
-* [https://www.spiegel.de/psychologie/wer-denkt-urlaub-sei-erholung-der-irrt](https://www.spiegel.de/psychologie/wer-denkt-urlaub-sei-erholung-der-irrt-a-a49738ec-1c86-4d86-a5f8-5db2639a5d12#ref=rss)
-### haare
+* [https://www.spiegel.de/kultur/literatur/adania-shibli-erstes-interview-seit-liberaturpreis-verschiebung-bei-buchmesse](https://www.spiegel.de/kultur/literatur/adania-shibli-erstes-interview-seit-liberaturpreis-verschiebung-bei-buchmesse-a-3146c331-2959-4bb0-8067-5139b9352b2b#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-news-heute-zahl-getoeteter-uno-mitarbeiter-im-gazastreifen-steigt-auf-92](https://www.spiegel.de/ausland/israel-hamas-news-heute-zahl-getoeteter-uno-mitarbeiter-im-gazastreifen-steigt-auf-92-a-d7159bb7-e146-4716-938e-0f4065fb875e#ref=rss)
+### verlassen
 
-* [https://www.spiegel.de/stil/graue-haare-nun-traegt-man-sie-als-wallemaehne](https://www.spiegel.de/stil/graue-haare-nun-traegt-man-sie-als-wallemaehne-a-583e96aa-4a00-41aa-9168-92a2891a0a55#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/adania-shibli-erstes-interview-seit-liberaturpreis-verschiebung-bei-buchmesse](https://www.spiegel.de/kultur/literatur/adania-shibli-erstes-interview-seit-liberaturpreis-verschiebung-bei-buchmesse-a-3146c331-2959-4bb0-8067-5139b9352b2b#ref=rss)
+* [https://www.spiegel.de/kultur/jahreszeiten-verlag-kulinarik-chefredakteurin-deborah-middelhoff-will-deutschland-verlassen](https://www.spiegel.de/kultur/jahreszeiten-verlag-kulinarik-chefredakteurin-deborah-middelhoff-will-deutschland-verlassen-a-809af9e1-0048-45dd-9bcf-87c35634ef2d#ref=rss)
+### reicht
+
+* [https://www.spiegel.de/panorama/bildung/bafoeg-breites-buendnis-aus-hochschulrektorenkonferenz-studierendenwerk-und-hochschulgruppen-fordert-mehr-geld](https://www.spiegel.de/panorama/bildung/bafoeg-breites-buendnis-aus-hochschulrektorenkonferenz-studierendenwerk-und-hochschulgruppen-fordert-mehr-geld-a-4838f44a-7b3b-4697-b3ae-2d91e76b98a3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/industriestrompreis-das-milliardengeschenk-an-die-industrie-und-was-es-bringt](https://www.spiegel.de/wirtschaft/unternehmen/industriestrompreis-das-milliardengeschenk-an-die-industrie-und-was-es-bringt-a-dea4fc12-8ecf-41e0-a229-511a422d9ced#ref=rss)
+### vater
+
+* [https://www.spiegel.de/sport/fussball/fc-liverpool-vater-von-luis-diaz-nach-entfuehrung-in-kolumbien-wieder-frei](https://www.spiegel.de/sport/fussball/fc-liverpool-vater-von-luis-diaz-nach-entfuehrung-in-kolumbien-wieder-frei-a-f153f755-5bfc-4b1b-999d-abfd86fea4e8#ref=rss)
+### luis
+
+* [https://www.spiegel.de/sport/fussball/fc-liverpool-vater-von-luis-diaz-nach-entfuehrung-in-kolumbien-wieder-frei](https://www.spiegel.de/sport/fussball/fc-liverpool-vater-von-luis-diaz-nach-entfuehrung-in-kolumbien-wieder-frei-a-f153f755-5bfc-4b1b-999d-abfd86fea4e8#ref=rss)
+### díaz
+
+* [https://www.spiegel.de/sport/fussball/fc-liverpool-vater-von-luis-diaz-nach-entfuehrung-in-kolumbien-wieder-frei](https://www.spiegel.de/sport/fussball/fc-liverpool-vater-von-luis-diaz-nach-entfuehrung-in-kolumbien-wieder-frei-a-f153f755-5bfc-4b1b-999d-abfd86fea4e8#ref=rss)
+### wasserbüffel
+
+* [https://www.spiegel.de/panorama/wasserbueffel-in-giessen-entlaufen-polizei-hofft-auf-zeugenhinweise](https://www.spiegel.de/panorama/wasserbueffel-in-giessen-entlaufen-polizei-hofft-auf-zeugenhinweise-a-2f5dd2b6-782b-431f-8d5e-79f0b8ce944c#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/wasserbueffel-in-giessen-entlaufen-polizei-hofft-auf-zeugenhinweise](https://www.spiegel.de/panorama/wasserbueffel-in-giessen-entlaufen-polizei-hofft-auf-zeugenhinweise-a-2f5dd2b6-782b-431f-8d5e-79f0b8ce944c#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/panorama/wasserbueffel-in-giessen-entlaufen-polizei-hofft-auf-zeugenhinweise](https://www.spiegel.de/panorama/wasserbueffel-in-giessen-entlaufen-polizei-hofft-auf-zeugenhinweise-a-2f5dd2b6-782b-431f-8d5e-79f0b8ce944c#ref=rss)
+* [https://www.spiegel.de/panorama/weil-am-rhein-hund-soll-einen-feuerwehreinsatz-ausgeloest-haben-hundeleinen-schmorten-auf-kochfeld](https://www.spiegel.de/panorama/weil-am-rhein-hund-soll-einen-feuerwehreinsatz-ausgeloest-haben-hundeleinen-schmorten-auf-kochfeld-a-616cbaea-339c-491b-a752-5c311bae95b2#ref=rss)
+### rhein
+
+* [https://www.spiegel.de/panorama/weil-am-rhein-hund-soll-einen-feuerwehreinsatz-ausgeloest-haben-hundeleinen-schmorten-auf-kochfeld](https://www.spiegel.de/panorama/weil-am-rhein-hund-soll-einen-feuerwehreinsatz-ausgeloest-haben-hundeleinen-schmorten-auf-kochfeld-a-616cbaea-339c-491b-a752-5c311bae95b2#ref=rss)
+### jugendlicher
+
+* [https://www.spiegel.de/panorama/offenburg-jugendlicher-nach-angriff-durch-mitschueler-gestorben](https://www.spiegel.de/panorama/offenburg-jugendlicher-nach-angriff-durch-mitschueler-gestorben-a-c05abdab-f381-4a34-8c76-03da0e44a59b#ref=rss)
+### mitschüler
+
+* [https://www.spiegel.de/panorama/offenburg-jugendlicher-nach-angriff-durch-mitschueler-gestorben](https://www.spiegel.de/panorama/offenburg-jugendlicher-nach-angriff-durch-mitschueler-gestorben-a-c05abdab-f381-4a34-8c76-03da0e44a59b#ref=rss)
+### euparlament
+
+* [https://www.spiegel.de/auto/bruessel-eu-parlament-stimmt-fuer-abgeschwaechte-abgasnorm-euro-7](https://www.spiegel.de/auto/bruessel-eu-parlament-stimmt-fuer-abgeschwaechte-abgasnorm-euro-7-a-a679af34-50f3-4ead-8dd1-ae2166c5fa28#ref=rss)
+### deborah
+
+* [https://www.spiegel.de/kultur/jahreszeiten-verlag-kulinarik-chefredakteurin-deborah-middelhoff-will-deutschland-verlassen](https://www.spiegel.de/kultur/jahreszeiten-verlag-kulinarik-chefredakteurin-deborah-middelhoff-will-deutschland-verlassen-a-809af9e1-0048-45dd-9bcf-87c35634ef2d#ref=rss)
+### middelhoff
+
+* [https://www.spiegel.de/kultur/jahreszeiten-verlag-kulinarik-chefredakteurin-deborah-middelhoff-will-deutschland-verlassen](https://www.spiegel.de/kultur/jahreszeiten-verlag-kulinarik-chefredakteurin-deborah-middelhoff-will-deutschland-verlassen-a-809af9e1-0048-45dd-9bcf-87c35634ef2d#ref=rss)
+### loriot
+
+* [https://www.spiegel.de/kultur/100-jahre-loriot-daraus-kannst-du-gut-ein-meme-machen](https://www.spiegel.de/kultur/100-jahre-loriot-daraus-kannst-du-gut-ein-meme-machen-a-24003af0-ae80-465b-ac7b-252ef37bef41#ref=rss)
+### gut
+
+* [https://www.spiegel.de/kultur/100-jahre-loriot-daraus-kannst-du-gut-ein-meme-machen](https://www.spiegel.de/kultur/100-jahre-loriot-daraus-kannst-du-gut-ein-meme-machen-a-24003af0-ae80-465b-ac7b-252ef37bef41#ref=rss)
+### boris
+
+* [https://www.spiegel.de/politik/deutschland/boris-pistorius-die-bundeswehr-und-das-k-wort-neue-verteidigungspolitische-richtlinien](https://www.spiegel.de/politik/deutschland/boris-pistorius-die-bundeswehr-und-das-k-wort-neue-verteidigungspolitische-richtlinien-a-c7eeb4cb-5af2-471c-b60e-5ce779c6597a#ref=rss)
 ### pistorius
 
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-verteidigungsminister-will-aufgeblaehten-apparat-im-ministerium-verschlanken](https://www.spiegel.de/politik/deutschland/boris-pistorius-verteidigungsminister-will-aufgeblaehten-apparat-im-ministerium-verschlanken-a-aac72999-daf3-42b4-a352-8a4c84527857#ref=rss)
-### verteidigungsminister
+* [https://www.spiegel.de/politik/deutschland/boris-pistorius-die-bundeswehr-und-das-k-wort-neue-verteidigungspolitische-richtlinien](https://www.spiegel.de/politik/deutschland/boris-pistorius-die-bundeswehr-und-das-k-wort-neue-verteidigungspolitische-richtlinien-a-c7eeb4cb-5af2-471c-b60e-5ce779c6597a#ref=rss)
+### hachiko
 
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-verteidigungsminister-will-aufgeblaehten-apparat-im-ministerium-verschlanken](https://www.spiegel.de/politik/deutschland/boris-pistorius-verteidigungsminister-will-aufgeblaehten-apparat-im-ministerium-verschlanken-a-aac72999-daf3-42b4-a352-8a4c84527857#ref=rss)
+* [https://www.spiegel.de/panorama/japan-feiert-100-geburtstag-von-hund-hachiko-treuster-hund-der-welt](https://www.spiegel.de/panorama/japan-feiert-100-geburtstag-von-hund-hachiko-treuster-hund-der-welt-a-20b9d59a-2f10-4c15-b69b-619432264ac3#ref=rss)
+### instagram
+
+* [https://www.spiegel.de/netzwelt/apps/hilfe-fuer-mobbing-opfer-instagram-und-tiktok-bekommen-in-frankreich-einen-alarm-button](https://www.spiegel.de/netzwelt/apps/hilfe-fuer-mobbing-opfer-instagram-und-tiktok-bekommen-in-frankreich-einen-alarm-button-a-6e06c20c-758e-4b81-a277-5834fb9919e1#ref=rss)
+### tiktok
+
+* [https://www.spiegel.de/netzwelt/apps/hilfe-fuer-mobbing-opfer-instagram-und-tiktok-bekommen-in-frankreich-einen-alarm-button](https://www.spiegel.de/netzwelt/apps/hilfe-fuer-mobbing-opfer-instagram-und-tiktok-bekommen-in-frankreich-einen-alarm-button-a-6e06c20c-758e-4b81-a277-5834fb9919e1#ref=rss)
+### alejo
+
+* [https://www.spiegel.de/ausland/spanien-rechter-politiker-alejo-vidal-quadras-in-madrid-angeschossen](https://www.spiegel.de/ausland/spanien-rechter-politiker-alejo-vidal-quadras-in-madrid-angeschossen-a-82ab134e-7010-4e2f-8f8d-2a76fec4b500#ref=rss)
+### vidalquadras
+
+* [https://www.spiegel.de/ausland/spanien-rechter-politiker-alejo-vidal-quadras-in-madrid-angeschossen](https://www.spiegel.de/ausland/spanien-rechter-politiker-alejo-vidal-quadras-in-madrid-angeschossen-a-82ab134e-7010-4e2f-8f8d-2a76fec4b500#ref=rss)
+### matthew
+
+* [https://www.spiegel.de/kultur/kino/zac-efron-waere-es-eine-ehre-matthew-perry-in-biopic-zu-spielen](https://www.spiegel.de/kultur/kino/zac-efron-waere-es-eine-ehre-matthew-perry-in-biopic-zu-spielen-a-e49ea4e4-3469-4cd7-969b-1c2df3968a77#ref=rss)
+### lebens
+
+* [https://www.spiegel.de/kultur/kino/zac-efron-waere-es-eine-ehre-matthew-perry-in-biopic-zu-spielen](https://www.spiegel.de/kultur/kino/zac-efron-waere-es-eine-ehre-matthew-perry-in-biopic-zu-spielen-a-e49ea4e4-3469-4cd7-969b-1c2df3968a77#ref=rss)
+* [https://www.spiegel.de/sport/holy-cow-das-ist-die-groesste-welle-auf-der-du-je-gesurft-bist](https://www.spiegel.de/sport/holy-cow-das-ist-die-groesste-welle-auf-der-du-je-gesurft-bist-a-300c6543-1e53-46fe-881d-7d47df589027#ref=rss)
+### christine
+
+* [https://www.spiegel.de/politik/deutschland/christine-lambrecht-verteidigungsministerium-muss-weitere-infos-zu-hubschrauberflug-herausgeben](https://www.spiegel.de/politik/deutschland/christine-lambrecht-verteidigungsministerium-muss-weitere-infos-zu-hubschrauberflug-herausgeben-a-820c1a92-3ea2-4865-a9d8-9d182afdbb7b#ref=rss)
+### lambrecht
+
+* [https://www.spiegel.de/politik/deutschland/christine-lambrecht-verteidigungsministerium-muss-weitere-infos-zu-hubschrauberflug-herausgeben](https://www.spiegel.de/politik/deutschland/christine-lambrecht-verteidigungsministerium-muss-weitere-infos-zu-hubschrauberflug-herausgeben-a-820c1a92-3ea2-4865-a9d8-9d182afdbb7b#ref=rss)
 
