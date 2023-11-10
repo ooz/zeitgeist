@@ -4,281 +4,290 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
-
-* [https://www.spiegel.de/wissenschaft/einigung-auf-eu-gesetz-zur-rettung-der-natur](https://www.spiegel.de/wissenschaft/einigung-auf-eu-gesetz-zur-rettung-der-natur-a-878892e9-7af2-4dbd-abeb-774debbf3508#ref=rss)
-* [https://www.spiegel.de/wirtschaft/antibiotika-resistenzen-durch-dreckige-arzneimittel-produktion-1-6-millionen-prozent-zu-viel](https://www.spiegel.de/wirtschaft/antibiotika-resistenzen-durch-dreckige-arzneimittel-produktion-1-6-millionen-prozent-zu-viel-a-9540f7a5-c709-423a-a46b-dfc575d1dd92#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-nahost-israel-zu-jahrelangem-krieg-gegen-hamas-bereit](https://www.spiegel.de/ausland/krieg-in-nahost-israel-zu-jahrelangem-krieg-gegen-hamas-bereit-a-4855a685-d515-40ce-a99b-f8f770e79b97#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/betrunkener-autofahrer-versteckt-sich-vor-polizei-diensthund-spuert-ihn-auf](https://www.spiegel.de/panorama/justiz/betrunkener-autofahrer-versteckt-sich-vor-polizei-diensthund-spuert-ihn-auf-a-a8ad3ce6-bb2d-48e0-ab8a-ca052fce2ade#ref=rss)
-* [https://www.spiegel.de/ausland/mexiko-polizei-befreit-123-migranten-aus-lkw-anhaenger](https://www.spiegel.de/ausland/mexiko-polizei-befreit-123-migranten-aus-lkw-anhaenger-a-1fac74dd-71db-4b22-9e00-2af5528ee190#ref=rss)
-### euro
-
-* [https://www.spiegel.de/panorama/justiz/bochum-frau-auf-dem-schulhof-erdrosselt-prozess-gegen-17-jaehrigen-hat-begonnen](https://www.spiegel.de/panorama/justiz/bochum-frau-auf-dem-schulhof-erdrosselt-prozess-gegen-17-jaehrigen-hat-begonnen-a-42a73a03-d4ab-4c67-b75a-9a815d51df88#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/grunderbe-in-deutschland-so-wuerden-100-000-euro-startkapital-das-land-veraendern](https://www.spiegel.de/wirtschaft/soziales/grunderbe-in-deutschland-so-wuerden-100-000-euro-startkapital-das-land-veraendern-a-eb8c0c56-7348-4b46-ae83-a39c3782d7a1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/fall-rene-benko-wie-der-staat-das-geld-der-steuerzahler-versenkte-meinung](https://www.spiegel.de/wirtschaft/unternehmen/fall-rene-benko-wie-der-staat-das-geld-der-steuerzahler-versenkte-meinung-a-550b88b9-2c64-415e-b95d-b5e9c7c80667#ref=rss)
-* [https://www.spiegel.de/wirtschaft/euro-so-koennten-europas-neue-schuldenregeln-aussehen](https://www.spiegel.de/wirtschaft/euro-so-koennten-europas-neue-schuldenregeln-aussehen-a-b8237b13-ec15-42d4-b584-47fd083b02f9#ref=rss)
-### hessen
-
-* [https://www.spiegel.de/politik/deutschland/hessen-boris-rhein-cdu-will-mit-spd-koalitionsgespraeche-fuehren](https://www.spiegel.de/politik/deutschland/hessen-boris-rhein-cdu-will-mit-spd-koalitionsgespraeche-fuehren-a-233d403b-06ea-4b95-a647-7197f5d5f678#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-annalena-baerbock-israel-gaza-joe-manchin-hessen](https://www.spiegel.de/politik/deutschland/news-annalena-baerbock-israel-gaza-joe-manchin-hessen-a-fb070fa6-d701-4997-a9ae-be178fa4a367#ref=rss)
-### boris
-
-* [https://www.spiegel.de/politik/deutschland/hessen-boris-rhein-cdu-will-mit-spd-koalitionsgespraeche-fuehren](https://www.spiegel.de/politik/deutschland/hessen-boris-rhein-cdu-will-mit-spd-koalitionsgespraeche-fuehren-a-233d403b-06ea-4b95-a647-7197f5d5f678#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-annalena-baerbock-israel-gaza-joe-manchin-hessen](https://www.spiegel.de/politik/deutschland/news-annalena-baerbock-israel-gaza-joe-manchin-hessen-a-fb070fa6-d701-4997-a9ae-be178fa4a367#ref=rss)
-### rhein
-
-* [https://www.spiegel.de/politik/deutschland/hessen-boris-rhein-cdu-will-mit-spd-koalitionsgespraeche-fuehren](https://www.spiegel.de/politik/deutschland/hessen-boris-rhein-cdu-will-mit-spd-koalitionsgespraeche-fuehren-a-233d403b-06ea-4b95-a647-7197f5d5f678#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-annalena-baerbock-israel-gaza-joe-manchin-hessen](https://www.spiegel.de/politik/deutschland/news-annalena-baerbock-israel-gaza-joe-manchin-hessen-a-fb070fa6-d701-4997-a9ae-be178fa4a367#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/politik/deutschland/hessen-boris-rhein-cdu-will-mit-spd-koalitionsgespraeche-fuehren](https://www.spiegel.de/politik/deutschland/hessen-boris-rhein-cdu-will-mit-spd-koalitionsgespraeche-fuehren-a-233d403b-06ea-4b95-a647-7197f5d5f678#ref=rss)
-* [https://www.spiegel.de/wirtschaft/immobilien-auch-die-banken-stellen-deutlich-sinkende-hauspreise-fest](https://www.spiegel.de/wirtschaft/immobilien-auch-die-banken-stellen-deutlich-sinkende-hauspreise-fest-a-9c17100d-bc8f-4ccb-ba02-59ae54938c09#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-roderich-kiesewetter-kritisiert-verschleppte-modernisierung](https://www.spiegel.de/politik/deutschland/bundeswehr-roderich-kiesewetter-kritisiert-verschleppte-modernisierung-a-dfcb5685-475b-48a2-a1db-3a3ab8cf32f9#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/politik/deutschland/hessen-boris-rhein-cdu-will-mit-spd-koalitionsgespraeche-fuehren](https://www.spiegel.de/politik/deutschland/hessen-boris-rhein-cdu-will-mit-spd-koalitionsgespraeche-fuehren-a-233d403b-06ea-4b95-a647-7197f5d5f678#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/dresden-gruenes-gewoelbe-erstes-urteil-nach-juwelendiebstahl-rechtskraeftig](https://www.spiegel.de/panorama/justiz/dresden-gruenes-gewoelbe-erstes-urteil-nach-juwelendiebstahl-rechtskraeftig-a-d52a71ed-4a3c-4cbe-b266-43020e84a35f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/forscher-erfolg-in-indonesien-lange-verschollenes-saeugetier-in-indonesien-wiederentdeckt](https://www.spiegel.de/wissenschaft/forscher-erfolg-in-indonesien-lange-verschollenes-saeugetier-in-indonesien-wiederentdeckt-a-83bfca9e-7fd9-4583-b94f-ef0d112526b1#ref=rss)
-### urteil
-
-* [https://www.spiegel.de/panorama/justiz/dresden-gruenes-gewoelbe-erstes-urteil-nach-juwelendiebstahl-rechtskraeftig](https://www.spiegel.de/panorama/justiz/dresden-gruenes-gewoelbe-erstes-urteil-nach-juwelendiebstahl-rechtskraeftig-a-d52a71ed-4a3c-4cbe-b266-43020e84a35f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/verurteilter-moerder-in-texas-hingerichtet](https://www.spiegel.de/panorama/justiz/verurteilter-moerder-in-texas-hingerichtet-a-3d355e80-72af-43d8-baf4-38fa756ad302#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/soziales/grunderbe-in-deutschland-so-wuerden-100-000-euro-startkapital-das-land-veraendern](https://www.spiegel.de/wirtschaft/soziales/grunderbe-in-deutschland-so-wuerden-100-000-euro-startkapital-das-land-veraendern-a-eb8c0c56-7348-4b46-ae83-a39c3782d7a1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-roderich-kiesewetter-kritisiert-verschleppte-modernisierung](https://www.spiegel.de/politik/deutschland/bundeswehr-roderich-kiesewetter-kritisiert-verschleppte-modernisierung-a-dfcb5685-475b-48a2-a1db-3a3ab8cf32f9#ref=rss)
-### staat
-
-* [https://www.spiegel.de/wirtschaft/soziales/grunderbe-in-deutschland-so-wuerden-100-000-euro-startkapital-das-land-veraendern](https://www.spiegel.de/wirtschaft/soziales/grunderbe-in-deutschland-so-wuerden-100-000-euro-startkapital-das-land-veraendern-a-eb8c0c56-7348-4b46-ae83-a39c3782d7a1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/fall-rene-benko-wie-der-staat-das-geld-der-steuerzahler-versenkte-meinung](https://www.spiegel.de/wirtschaft/unternehmen/fall-rene-benko-wie-der-staat-das-geld-der-steuerzahler-versenkte-meinung-a-550b88b9-2c64-415e-b95d-b5e9c7c80667#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/wirtschaft/antibiotika-resistenzen-durch-dreckige-arzneimittel-produktion-1-6-millionen-prozent-zu-viel](https://www.spiegel.de/wirtschaft/antibiotika-resistenzen-durch-dreckige-arzneimittel-produktion-1-6-millionen-prozent-zu-viel-a-9540f7a5-c709-423a-a46b-dfc575d1dd92#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/fall-rene-benko-wie-der-staat-das-geld-der-steuerzahler-versenkte-meinung](https://www.spiegel.de/wirtschaft/unternehmen/fall-rene-benko-wie-der-staat-das-geld-der-steuerzahler-versenkte-meinung-a-550b88b9-2c64-415e-b95d-b5e9c7c80667#ref=rss)
 ### polizei
 
-* [https://www.spiegel.de/panorama/justiz/betrunkener-autofahrer-versteckt-sich-vor-polizei-diensthund-spuert-ihn-auf](https://www.spiegel.de/panorama/justiz/betrunkener-autofahrer-versteckt-sich-vor-polizei-diensthund-spuert-ihn-auf-a-a8ad3ce6-bb2d-48e0-ab8a-ca052fce2ade#ref=rss)
-* [https://www.spiegel.de/ausland/mexiko-polizei-befreit-123-migranten-aus-lkw-anhaenger](https://www.spiegel.de/ausland/mexiko-polizei-befreit-123-migranten-aus-lkw-anhaenger-a-1fac74dd-71db-4b22-9e00-2af5528ee190#ref=rss)
-### wohl
+* [https://www.spiegel.de/panorama/justiz/hamburg-bedrohung-in-blankenese-und-bahrenfeld-muessen-familien-einsatz-bezahlen](https://www.spiegel.de/panorama/justiz/hamburg-bedrohung-in-blankenese-und-bahrenfeld-muessen-familien-einsatz-bezahlen-a-2ceb1b4a-7e5b-40df-81d0-1186985eb3e4#ref=rss)
+* [https://www.spiegel.de/panorama/bad-schandau-syrisch-deutsche-wandergruppe-mit-fluechtlingen-verwechselt-polizei-rueckt-an](https://www.spiegel.de/panorama/bad-schandau-syrisch-deutsche-wandergruppe-mit-fluechtlingen-verwechselt-polizei-rueckt-an-a-f58e1723-0680-4de4-bdfe-909f6b121c50#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/offenburg-vater-eines-schulkindes-hielt-mutmasslichen-todesschuetzen-auf](https://www.spiegel.de/panorama/justiz/offenburg-vater-eines-schulkindes-hielt-mutmasslichen-todesschuetzen-auf-a-fe90f5f0-a528-4ff0-80d2-47f1e5166852#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/polizei-ermittelt-nach-rechten-parolen-auf-einem-dorffest-in-vorpommern](https://www.spiegel.de/panorama/justiz/polizei-ermittelt-nach-rechten-parolen-auf-einem-dorffest-in-vorpommern-a-0476202e-70a1-43c0-9577-bdcc412da435#ref=rss)
+### unternehmen
 
-* [https://www.spiegel.de/panorama/justiz/betrunkener-autofahrer-versteckt-sich-vor-polizei-diensthund-spuert-ihn-auf](https://www.spiegel.de/panorama/justiz/betrunkener-autofahrer-versteckt-sich-vor-polizei-diensthund-spuert-ihn-auf-a-a8ad3ce6-bb2d-48e0-ab8a-ca052fce2ade#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/offenburg-mutmasslicher-taeter-trug-weitere-munition-bei-sich](https://www.spiegel.de/panorama/justiz/offenburg-mutmasslicher-taeter-trug-weitere-munition-bei-sich-a-31f31fb8-5932-487c-84e3-1a9f340283c8#ref=rss)
-### australien
+* [https://www.spiegel.de/wirtschaft/unternehmen/immobilienkonzern-signa-gruppe-will-noch-im-november-restrukturierungsplan-vorlegen](https://www.spiegel.de/wirtschaft/unternehmen/immobilienkonzern-signa-gruppe-will-noch-im-november-restrukturierungsplan-vorlegen-a-8723aa0c-26fb-46bd-8ba7-e1d2cd3dd020#ref=rss)
+* [https://www.spiegel.de/wirtschaft/strompreis-paket-fuer-die-industrie-viele-milliarden-wenig-effekt](https://www.spiegel.de/wirtschaft/strompreis-paket-fuer-die-industrie-viele-milliarden-wenig-effekt-a-eee05c4b-e729-440a-9fca-78ecc192a8e9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/bundestag-stimmt-fuer-globale-konzern-mindeststeuer](https://www.spiegel.de/wirtschaft/soziales/bundestag-stimmt-fuer-globale-konzern-mindeststeuer-a-ed6146eb-7157-47e2-9a59-102a68de44d6#ref=rss)
+* [https://www.spiegel.de/wissenschaft/innovation-in-san-francisco-dieses-unternehmen-will-eine-milliarde-tonnen-kohlendioxid-aus-der-luft-holen](https://www.spiegel.de/wissenschaft/innovation-in-san-francisco-dieses-unternehmen-will-eine-milliarde-tonnen-kohlendioxid-aus-der-luft-holen-a-ee2e95ce-677b-4aca-9e28-57f4551cc3fc#ref=rss)
+### afd
 
-* [https://www.spiegel.de/wissenschaft/australien-bietet-allen-einwohnern-von-tuvalu-aufnahme-als-klimafluechtlinge](https://www.spiegel.de/wissenschaft/australien-bietet-allen-einwohnern-von-tuvalu-aufnahme-als-klimafluechtlinge-a-c53fa233-173b-4afb-aa84-d77c76e5f0bc#ref=rss)
-### einigung
-
-* [https://www.spiegel.de/wissenschaft/einigung-auf-eu-gesetz-zur-rettung-der-natur](https://www.spiegel.de/wissenschaft/einigung-auf-eu-gesetz-zur-rettung-der-natur-a-878892e9-7af2-4dbd-abeb-774debbf3508#ref=rss)
-* [https://www.spiegel.de/wirtschaft/euro-so-koennten-europas-neue-schuldenregeln-aussehen](https://www.spiegel.de/wirtschaft/euro-so-koennten-europas-neue-schuldenregeln-aussehen-a-b8237b13-ec15-42d4-b584-47fd083b02f9#ref=rss)
-### gut
-
-* [https://www.spiegel.de/wissenschaft/einigung-auf-eu-gesetz-zur-rettung-der-natur](https://www.spiegel.de/wissenschaft/einigung-auf-eu-gesetz-zur-rettung-der-natur-a-878892e9-7af2-4dbd-abeb-774debbf3508#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jugendhilfeorganisationen-treten-aus-paus-buendnis-fuer-die-junge-generation-aus](https://www.spiegel.de/politik/deutschland/jugendhilfeorganisationen-treten-aus-paus-buendnis-fuer-die-junge-generation-aus-a-1bf938b6-1a70-4ae6-86b7-0a701900f44f#ref=rss)
-### beschlossen
-
-* [https://www.spiegel.de/wissenschaft/einigung-auf-eu-gesetz-zur-rettung-der-natur](https://www.spiegel.de/wissenschaft/einigung-auf-eu-gesetz-zur-rettung-der-natur-a-878892e9-7af2-4dbd-abeb-774debbf3508#ref=rss)
-* [https://www.spiegel.de/wirtschaft/nigeria-praesident-sorgt-mit-millionenausgaben-fuer-aerger-in-der-bevoelkerung](https://www.spiegel.de/wirtschaft/nigeria-praesident-sorgt-mit-millionenausgaben-fuer-aerger-in-der-bevoelkerung-a-e399a01f-e356-482c-93ce-e9a2bb168c2c#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/hessen-boris-rhein-cdu-will-mit-spd-koalitionsgespraeche-fuehren](https://www.spiegel.de/politik/deutschland/hessen-boris-rhein-cdu-will-mit-spd-koalitionsgespraeche-fuehren-a-233d403b-06ea-4b95-a647-7197f5d5f678#ref=rss)
-### koalitionsgespräche
-
-* [https://www.spiegel.de/politik/deutschland/hessen-boris-rhein-cdu-will-mit-spd-koalitionsgespraeche-fuehren](https://www.spiegel.de/politik/deutschland/hessen-boris-rhein-cdu-will-mit-spd-koalitionsgespraeche-fuehren-a-233d403b-06ea-4b95-a647-7197f5d5f678#ref=rss)
-### führen
-
-* [https://www.spiegel.de/politik/deutschland/hessen-boris-rhein-cdu-will-mit-spd-koalitionsgespraeche-fuehren](https://www.spiegel.de/politik/deutschland/hessen-boris-rhein-cdu-will-mit-spd-koalitionsgespraeche-fuehren-a-233d403b-06ea-4b95-a647-7197f5d5f678#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/politik/deutschland/hessen-boris-rhein-cdu-will-mit-spd-koalitionsgespraeche-fuehren](https://www.spiegel.de/politik/deutschland/hessen-boris-rhein-cdu-will-mit-spd-koalitionsgespraeche-fuehren-a-233d403b-06ea-4b95-a647-7197f5d5f678#ref=rss)
-* [https://www.spiegel.de/psychologie/einsamkeit-ueberwinden-diese-drei-uebungen-helfen-ihnen-dabei-an-sich-zu-arbeiten](https://www.spiegel.de/psychologie/einsamkeit-ueberwinden-diese-drei-uebungen-helfen-ihnen-dabei-an-sich-zu-arbeiten-a-4e0b2768-475f-48b2-b8f6-d2a52aceb538#ref=rss)
-### grünen
-
-* [https://www.spiegel.de/politik/deutschland/hessen-boris-rhein-cdu-will-mit-spd-koalitionsgespraeche-fuehren](https://www.spiegel.de/politik/deutschland/hessen-boris-rhein-cdu-will-mit-spd-koalitionsgespraeche-fuehren-a-233d403b-06ea-4b95-a647-7197f5d5f678#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/dresden-gruenes-gewoelbe-erstes-urteil-nach-juwelendiebstahl-rechtskraeftig](https://www.spiegel.de/panorama/justiz/dresden-gruenes-gewoelbe-erstes-urteil-nach-juwelendiebstahl-rechtskraeftig-a-d52a71ed-4a3c-4cbe-b266-43020e84a35f#ref=rss)
-### einsamkeit
-
-* [https://www.spiegel.de/psychologie/einsamkeit-ueberwinden-diese-drei-uebungen-helfen-ihnen-dabei-an-sich-zu-arbeiten](https://www.spiegel.de/psychologie/einsamkeit-ueberwinden-diese-drei-uebungen-helfen-ihnen-dabei-an-sich-zu-arbeiten-a-4e0b2768-475f-48b2-b8f6-d2a52aceb538#ref=rss)
-### unter
-
-* [https://www.spiegel.de/psychologie/einsamkeit-ueberwinden-diese-drei-uebungen-helfen-ihnen-dabei-an-sich-zu-arbeiten](https://www.spiegel.de/psychologie/einsamkeit-ueberwinden-diese-drei-uebungen-helfen-ihnen-dabei-an-sich-zu-arbeiten-a-4e0b2768-475f-48b2-b8f6-d2a52aceb538#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-news-ukraine-erwartet-weiteres-russisches-vorruecken-auf-awdijiwka](https://www.spiegel.de/ausland/ukraine-russland-news-ukraine-erwartet-weiteres-russisches-vorruecken-auf-awdijiwka-a-37f5fc9c-61e7-44e8-a249-53866d12b3aa#ref=rss)
-### gewölbe
-
-* [https://www.spiegel.de/panorama/justiz/dresden-gruenes-gewoelbe-erstes-urteil-nach-juwelendiebstahl-rechtskraeftig](https://www.spiegel.de/panorama/justiz/dresden-gruenes-gewoelbe-erstes-urteil-nach-juwelendiebstahl-rechtskraeftig-a-d52a71ed-4a3c-4cbe-b266-43020e84a35f#ref=rss)
-### täter
-
-* [https://www.spiegel.de/panorama/justiz/dresden-gruenes-gewoelbe-erstes-urteil-nach-juwelendiebstahl-rechtskraeftig](https://www.spiegel.de/panorama/justiz/dresden-gruenes-gewoelbe-erstes-urteil-nach-juwelendiebstahl-rechtskraeftig-a-d52a71ed-4a3c-4cbe-b266-43020e84a35f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/offenburg-mutmasslicher-taeter-trug-weitere-munition-bei-sich](https://www.spiegel.de/panorama/justiz/offenburg-mutmasslicher-taeter-trug-weitere-munition-bei-sich-a-31f31fb8-5932-487c-84e3-1a9f340283c8#ref=rss)
-### bochum
-
-* [https://www.spiegel.de/panorama/justiz/bochum-frau-auf-dem-schulhof-erdrosselt-prozess-gegen-17-jaehrigen-hat-begonnen](https://www.spiegel.de/panorama/justiz/bochum-frau-auf-dem-schulhof-erdrosselt-prozess-gegen-17-jaehrigen-hat-begonnen-a-42a73a03-d4ab-4c67-b75a-9a815d51df88#ref=rss)
-### schulhof
-
-* [https://www.spiegel.de/panorama/justiz/bochum-frau-auf-dem-schulhof-erdrosselt-prozess-gegen-17-jaehrigen-hat-begonnen](https://www.spiegel.de/panorama/justiz/bochum-frau-auf-dem-schulhof-erdrosselt-prozess-gegen-17-jaehrigen-hat-begonnen-a-42a73a03-d4ab-4c67-b75a-9a815d51df88#ref=rss)
-### prozess
-
-* [https://www.spiegel.de/panorama/justiz/bochum-frau-auf-dem-schulhof-erdrosselt-prozess-gegen-17-jaehrigen-hat-begonnen](https://www.spiegel.de/panorama/justiz/bochum-frau-auf-dem-schulhof-erdrosselt-prozess-gegen-17-jaehrigen-hat-begonnen-a-42a73a03-d4ab-4c67-b75a-9a815d51df88#ref=rss)
-### begonnen
-
-* [https://www.spiegel.de/panorama/justiz/bochum-frau-auf-dem-schulhof-erdrosselt-prozess-gegen-17-jaehrigen-hat-begonnen](https://www.spiegel.de/panorama/justiz/bochum-frau-auf-dem-schulhof-erdrosselt-prozess-gegen-17-jaehrigen-hat-begonnen-a-42a73a03-d4ab-4c67-b75a-9a815d51df88#ref=rss)
-### awdijiwka
-
-* [https://www.spiegel.de/ausland/ukraine-russland-news-ukraine-erwartet-weiteres-russisches-vorruecken-auf-awdijiwka](https://www.spiegel.de/ausland/ukraine-russland-news-ukraine-erwartet-weiteres-russisches-vorruecken-auf-awdijiwka-a-37f5fc9c-61e7-44e8-a249-53866d12b3aa#ref=rss)
-### entwicklungen
-
-* [https://www.spiegel.de/ausland/ukraine-russland-news-ukraine-erwartet-weiteres-russisches-vorruecken-auf-awdijiwka](https://www.spiegel.de/ausland/ukraine-russland-news-ukraine-erwartet-weiteres-russisches-vorruecken-auf-awdijiwka-a-37f5fc9c-61e7-44e8-a249-53866d12b3aa#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-nahost-israel-zu-jahrelangem-krieg-gegen-hamas-bereit](https://www.spiegel.de/ausland/krieg-in-nahost-israel-zu-jahrelangem-krieg-gegen-hamas-bereit-a-4855a685-d515-40ce-a99b-f8f770e79b97#ref=rss)
-### startkapital
-
-* [https://www.spiegel.de/wirtschaft/soziales/grunderbe-in-deutschland-so-wuerden-100-000-euro-startkapital-das-land-veraendern](https://www.spiegel.de/wirtschaft/soziales/grunderbe-in-deutschland-so-wuerden-100-000-euro-startkapital-das-land-veraendern-a-eb8c0c56-7348-4b46-ae83-a39c3782d7a1#ref=rss)
-### land
-
-* [https://www.spiegel.de/wirtschaft/soziales/grunderbe-in-deutschland-so-wuerden-100-000-euro-startkapital-das-land-veraendern](https://www.spiegel.de/wirtschaft/soziales/grunderbe-in-deutschland-so-wuerden-100-000-euro-startkapital-das-land-veraendern-a-eb8c0c56-7348-4b46-ae83-a39c3782d7a1#ref=rss)
-* [https://www.spiegel.de/wissenschaft/australien-bietet-allen-einwohnern-von-tuvalu-aufnahme-als-klimafluechtlinge](https://www.spiegel.de/wissenschaft/australien-bietet-allen-einwohnern-von-tuvalu-aufnahme-als-klimafluechtlinge-a-c53fa233-173b-4afb-aa84-d77c76e5f0bc#ref=rss)
-### deutlich
-
-* [https://www.spiegel.de/wirtschaft/soziales/grunderbe-in-deutschland-so-wuerden-100-000-euro-startkapital-das-land-veraendern](https://www.spiegel.de/wirtschaft/soziales/grunderbe-in-deutschland-so-wuerden-100-000-euro-startkapital-das-land-veraendern-a-eb8c0c56-7348-4b46-ae83-a39c3782d7a1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/immobilien-auch-die-banken-stellen-deutlich-sinkende-hauspreise-fest](https://www.spiegel.de/wirtschaft/immobilien-auch-die-banken-stellen-deutlich-sinkende-hauspreise-fest-a-9c17100d-bc8f-4ccb-ba02-59ae54938c09#ref=rss)
-### dagegen
-
-* [https://www.spiegel.de/wirtschaft/soziales/grunderbe-in-deutschland-so-wuerden-100-000-euro-startkapital-das-land-veraendern](https://www.spiegel.de/wirtschaft/soziales/grunderbe-in-deutschland-so-wuerden-100-000-euro-startkapital-das-land-veraendern-a-eb8c0c56-7348-4b46-ae83-a39c3782d7a1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/nigeria-praesident-sorgt-mit-millionenausgaben-fuer-aerger-in-der-bevoelkerung](https://www.spiegel.de/wirtschaft/nigeria-praesident-sorgt-mit-millionenausgaben-fuer-aerger-in-der-bevoelkerung-a-e399a01f-e356-482c-93ce-e9a2bb168c2c#ref=rss)
-### indonesien
-
-* [https://www.spiegel.de/wissenschaft/forscher-erfolg-in-indonesien-lange-verschollenes-saeugetier-in-indonesien-wiederentdeckt](https://www.spiegel.de/wissenschaft/forscher-erfolg-in-indonesien-lange-verschollenes-saeugetier-in-indonesien-wiederentdeckt-a-83bfca9e-7fd9-4583-b94f-ef0d112526b1#ref=rss)
-### lange
-
-* [https://www.spiegel.de/wissenschaft/forscher-erfolg-in-indonesien-lange-verschollenes-saeugetier-in-indonesien-wiederentdeckt](https://www.spiegel.de/wissenschaft/forscher-erfolg-in-indonesien-lange-verschollenes-saeugetier-in-indonesien-wiederentdeckt-a-83bfca9e-7fd9-4583-b94f-ef0d112526b1#ref=rss)
-### säugetier
-
-* [https://www.spiegel.de/wissenschaft/forscher-erfolg-in-indonesien-lange-verschollenes-saeugetier-in-indonesien-wiederentdeckt](https://www.spiegel.de/wissenschaft/forscher-erfolg-in-indonesien-lange-verschollenes-saeugetier-in-indonesien-wiederentdeckt-a-83bfca9e-7fd9-4583-b94f-ef0d112526b1#ref=rss)
-### julian
-
-* [https://www.spiegel.de/sport/fussball/dfb-kader-julian-nagelsmann-nominiert-marvin-ducksch-und-janis-blaswich](https://www.spiegel.de/sport/fussball/dfb-kader-julian-nagelsmann-nominiert-marvin-ducksch-und-janis-blaswich-a-42fefcd2-e2ce-40eb-a152-549fb2dc82b7#ref=rss)
-### nagelsmann
-
-* [https://www.spiegel.de/sport/fussball/dfb-kader-julian-nagelsmann-nominiert-marvin-ducksch-und-janis-blaswich](https://www.spiegel.de/sport/fussball/dfb-kader-julian-nagelsmann-nominiert-marvin-ducksch-und-janis-blaswich-a-42fefcd2-e2ce-40eb-a152-549fb2dc82b7#ref=rss)
-### marvin
-
-* [https://www.spiegel.de/sport/fussball/dfb-kader-julian-nagelsmann-nominiert-marvin-ducksch-und-janis-blaswich](https://www.spiegel.de/sport/fussball/dfb-kader-julian-nagelsmann-nominiert-marvin-ducksch-und-janis-blaswich-a-42fefcd2-e2ce-40eb-a152-549fb2dc82b7#ref=rss)
-### ducksch
-
-* [https://www.spiegel.de/sport/fussball/dfb-kader-julian-nagelsmann-nominiert-marvin-ducksch-und-janis-blaswich](https://www.spiegel.de/sport/fussball/dfb-kader-julian-nagelsmann-nominiert-marvin-ducksch-und-janis-blaswich-a-42fefcd2-e2ce-40eb-a152-549fb2dc82b7#ref=rss)
-### sorgt
-
-* [https://www.spiegel.de/sport/fussball/dfb-kader-julian-nagelsmann-nominiert-marvin-ducksch-und-janis-blaswich](https://www.spiegel.de/sport/fussball/dfb-kader-julian-nagelsmann-nominiert-marvin-ducksch-und-janis-blaswich-a-42fefcd2-e2ce-40eb-a152-549fb2dc82b7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/nigeria-praesident-sorgt-mit-millionenausgaben-fuer-aerger-in-der-bevoelkerung](https://www.spiegel.de/wirtschaft/nigeria-praesident-sorgt-mit-millionenausgaben-fuer-aerger-in-der-bevoelkerung-a-e399a01f-e356-482c-93ce-e9a2bb168c2c#ref=rss)
-### bundeswehr
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-olaf-scholz-spricht-sich-fuer-veteranentag-aus](https://www.spiegel.de/politik/deutschland/bundeswehr-olaf-scholz-spricht-sich-fuer-veteranentag-aus-a-070e778a-e06f-44c6-87fd-9b2347a805de#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-roderich-kiesewetter-kritisiert-verschleppte-modernisierung](https://www.spiegel.de/politik/deutschland/bundeswehr-roderich-kiesewetter-kritisiert-verschleppte-modernisierung-a-dfcb5685-475b-48a2-a1db-3a3ab8cf32f9#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/wirtschaft/antibiotika-resistenzen-durch-dreckige-arzneimittel-produktion-1-6-millionen-prozent-zu-viel](https://www.spiegel.de/wirtschaft/antibiotika-resistenzen-durch-dreckige-arzneimittel-produktion-1-6-millionen-prozent-zu-viel-a-9540f7a5-c709-423a-a46b-dfc575d1dd92#ref=rss)
-* [https://www.spiegel.de/wirtschaft/nigeria-praesident-sorgt-mit-millionenausgaben-fuer-aerger-in-der-bevoelkerung](https://www.spiegel.de/wirtschaft/nigeria-praesident-sorgt-mit-millionenausgaben-fuer-aerger-in-der-bevoelkerung-a-e399a01f-e356-482c-93ce-e9a2bb168c2c#ref=rss)
-### rené
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/fall-rene-benko-wie-der-staat-das-geld-der-steuerzahler-versenkte-meinung](https://www.spiegel.de/wirtschaft/unternehmen/fall-rene-benko-wie-der-staat-das-geld-der-steuerzahler-versenkte-meinung-a-550b88b9-2c64-415e-b95d-b5e9c7c80667#ref=rss)
-### benko
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/fall-rene-benko-wie-der-staat-das-geld-der-steuerzahler-versenkte-meinung](https://www.spiegel.de/wirtschaft/unternehmen/fall-rene-benko-wie-der-staat-das-geld-der-steuerzahler-versenkte-meinung-a-550b88b9-2c64-415e-b95d-b5e9c7c80667#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wirtschaft/euro-so-koennten-europas-neue-schuldenregeln-aussehen](https://www.spiegel.de/wirtschaft/euro-so-koennten-europas-neue-schuldenregeln-aussehen-a-b8237b13-ec15-42d4-b584-47fd083b02f9#ref=rss)
-* [https://www.spiegel.de/panorama/leute/jared-leto-klettert-an-empire-state-building-hoch](https://www.spiegel.de/panorama/leute/jared-leto-klettert-an-empire-state-building-hoch-a-187557fe-b761-4368-9672-ccb834e552fc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-hoehenflug-hilft-jetzt-nur-noch-ein-parteiverbot](https://www.spiegel.de/politik/deutschland/afd-hoehenflug-hilft-jetzt-nur-noch-ein-parteiverbot-a-cc651f72-fead-4d82-87ba-80af198df0f1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-verbot-hessen-boris-rhein-vermoegen-in-deutschland](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-verbot-hessen-boris-rhein-vermoegen-in-deutschland-a-0c5c3d83-ff95-463c-901f-755c3ddb9853#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/parteinahe-stiftungen-bundestag-beschliesst-finanzierungsregeln-afd-protestiert](https://www.spiegel.de/politik/deutschland/parteinahe-stiftungen-bundestag-beschliesst-finanzierungsregeln-afd-protestiert-a-e150ceb7-12d1-4b7b-9fc3-56e64acc044b#ref=rss)
 ### israel
 
-* [https://www.spiegel.de/ausland/krieg-in-nahost-israel-zu-jahrelangem-krieg-gegen-hamas-bereit](https://www.spiegel.de/ausland/krieg-in-nahost-israel-zu-jahrelangem-krieg-gegen-hamas-bereit-a-4855a685-d515-40ce-a99b-f8f770e79b97#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-annalena-baerbock-israel-gaza-joe-manchin-hessen](https://www.spiegel.de/politik/deutschland/news-annalena-baerbock-israel-gaza-joe-manchin-hessen-a-fb070fa6-d701-4997-a9ae-be178fa4a367#ref=rss)
-### krieg
+* [https://www.spiegel.de/ausland/israel-erneut-fliehen-offenbar-zehntausende-palaestinenser-in-den-sueden-des-gazastreifens](https://www.spiegel.de/ausland/israel-erneut-fliehen-offenbar-zehntausende-palaestinenser-in-den-sueden-des-gazastreifens-a-2cf07521-20a8-4d6a-b43a-162c609b5dba#ref=rss)
+* [https://www.spiegel.de/ausland/israel-greift-hamas-stellungen-in-gaza-an-mehr-als-50-terroristen-getoetet](https://www.spiegel.de/ausland/israel-greift-hamas-stellungen-in-gaza-an-mehr-als-50-terroristen-getoetet-a-98146842-163b-408f-8505-b2e7c065440c#ref=rss)
+### verhindern
 
-* [https://www.spiegel.de/ausland/krieg-in-nahost-israel-zu-jahrelangem-krieg-gegen-hamas-bereit](https://www.spiegel.de/ausland/krieg-in-nahost-israel-zu-jahrelangem-krieg-gegen-hamas-bereit-a-4855a685-d515-40ce-a99b-f8f770e79b97#ref=rss)
-### gaza
+* [https://www.spiegel.de/gesundheit/hpv-impfung-gegen-krebs-impfquote-besorgniserregend-niedrig](https://www.spiegel.de/gesundheit/hpv-impfung-gegen-krebs-impfquote-besorgniserregend-niedrig-a-48956fa6-9f48-4c1b-8b70-f3c2e6ac1c82#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-hoehenflug-hilft-jetzt-nur-noch-ein-parteiverbot](https://www.spiegel.de/politik/deutschland/afd-hoehenflug-hilft-jetzt-nur-noch-ein-parteiverbot-a-cc651f72-fead-4d82-87ba-80af198df0f1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/bundestag-stimmt-fuer-globale-konzern-mindeststeuer](https://www.spiegel.de/wirtschaft/soziales/bundestag-stimmt-fuer-globale-konzern-mindeststeuer-a-ed6146eb-7157-47e2-9a59-102a68de44d6#ref=rss)
+### euro
 
-* [https://www.spiegel.de/ausland/krieg-in-nahost-israel-zu-jahrelangem-krieg-gegen-hamas-bereit](https://www.spiegel.de/ausland/krieg-in-nahost-israel-zu-jahrelangem-krieg-gegen-hamas-bereit-a-4855a685-d515-40ce-a99b-f8f770e79b97#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-annalena-baerbock-israel-gaza-joe-manchin-hessen](https://www.spiegel.de/politik/deutschland/news-annalena-baerbock-israel-gaza-joe-manchin-hessen-a-fb070fa6-d701-4997-a9ae-be178fa4a367#ref=rss)
-### biden
+* [https://www.spiegel.de/politik/deutschland/eu-europaeische-union-zahlt-hunderte-millionen-euro-fuer-wein-entsorgung](https://www.spiegel.de/politik/deutschland/eu-europaeische-union-zahlt-hunderte-millionen-euro-fuer-wein-entsorgung-a-e8dcfe36-f707-470b-948d-6c45d4204ef3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-verbot-hessen-boris-rhein-vermoegen-in-deutschland](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-verbot-hessen-boris-rhein-vermoegen-in-deutschland-a-0c5c3d83-ff95-463c-901f-755c3ddb9853#ref=rss)
+### bank
 
-* [https://www.spiegel.de/ausland/krieg-in-nahost-israel-zu-jahrelangem-krieg-gegen-hamas-bereit](https://www.spiegel.de/ausland/krieg-in-nahost-israel-zu-jahrelangem-krieg-gegen-hamas-bereit-a-4855a685-d515-40ce-a99b-f8f770e79b97#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-annalena-baerbock-israel-gaza-joe-manchin-hessen](https://www.spiegel.de/politik/deutschland/news-annalena-baerbock-israel-gaza-joe-manchin-hessen-a-fb070fa6-d701-4997-a9ae-be178fa4a367#ref=rss)
-### verhandeln
-
-* [https://www.spiegel.de/wirtschaft/tarifstreit-einzelhaendler-wollen-bundesweit-verhandeln-ver-di-reagiert-mit-streikaufruf](https://www.spiegel.de/wirtschaft/tarifstreit-einzelhaendler-wollen-bundesweit-verhandeln-ver-di-reagiert-mit-streikaufruf-a-fe4c0606-8402-4166-a72d-766b0aeeaa8e#ref=rss)
-### verdi
-
-* [https://www.spiegel.de/wirtschaft/tarifstreit-einzelhaendler-wollen-bundesweit-verhandeln-ver-di-reagiert-mit-streikaufruf](https://www.spiegel.de/wirtschaft/tarifstreit-einzelhaendler-wollen-bundesweit-verhandeln-ver-di-reagiert-mit-streikaufruf-a-fe4c0606-8402-4166-a72d-766b0aeeaa8e#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/wirtschaft/nigeria-praesident-sorgt-mit-millionenausgaben-fuer-aerger-in-der-bevoelkerung](https://www.spiegel.de/wirtschaft/nigeria-praesident-sorgt-mit-millionenausgaben-fuer-aerger-in-der-bevoelkerung-a-e399a01f-e356-482c-93ce-e9a2bb168c2c#ref=rss)
-### kiesewetter
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-roderich-kiesewetter-kritisiert-verschleppte-modernisierung](https://www.spiegel.de/politik/deutschland/bundeswehr-roderich-kiesewetter-kritisiert-verschleppte-modernisierung-a-dfcb5685-475b-48a2-a1db-3a3ab8cf32f9#ref=rss)
-### autofahrer
-
-* [https://www.spiegel.de/panorama/justiz/betrunkener-autofahrer-versteckt-sich-vor-polizei-diensthund-spuert-ihn-auf](https://www.spiegel.de/panorama/justiz/betrunkener-autofahrer-versteckt-sich-vor-polizei-diensthund-spuert-ihn-auf-a-a8ad3ce6-bb2d-48e0-ab8a-ca052fce2ade#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/hackerangriff-auf-icbc-lockbit-soll-us-tochter-von-chinas-groesster-bank-attackiert-haben](https://www.spiegel.de/netzwelt/web/hackerangriff-auf-icbc-lockbit-soll-us-tochter-von-chinas-groesster-bank-attackiert-haben-a-3cb8a43d-9e59-41c4-b30b-0de5887994d4#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/union-fordert-zinssenkung-bei-studienkrediten](https://www.spiegel.de/panorama/bildung/union-fordert-zinssenkung-bei-studienkrediten-a-5e8a4f62-b63b-4a8c-be1a-f140572ac3e2#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/panorama/justiz/offenburg-mutmasslicher-taeter-trug-weitere-munition-bei-sich](https://www.spiegel.de/panorama/justiz/offenburg-mutmasslicher-taeter-trug-weitere-munition-bei-sich-a-31f31fb8-5932-487c-84e3-1a9f340283c8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/hot-chips-landesregierung-in-bayern-verbietet-verkauf](https://www.spiegel.de/wirtschaft/hot-chips-landesregierung-in-bayern-verbietet-verkauf-a-b5f6a299-b421-4bdd-9aaa-b9376ef77a5c#ref=rss)
-### hot
+* [https://www.spiegel.de/netzwelt/web/hackerangriff-auf-icbc-lockbit-soll-us-tochter-von-chinas-groesster-bank-attackiert-haben](https://www.spiegel.de/netzwelt/web/hackerangriff-auf-icbc-lockbit-soll-us-tochter-von-chinas-groesster-bank-attackiert-haben-a-3cb8a43d-9e59-41c4-b30b-0de5887994d4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/antisemitismus-innenministerium-alarmiert-ueber-judenhass-bei-tuerkischen-rechtsextremen](https://www.spiegel.de/politik/deutschland/antisemitismus-innenministerium-alarmiert-ueber-judenhass-bei-tuerkischen-rechtsextremen-a-8e1619f5-ca9f-4ea0-b23f-0464d7af641c#ref=rss)
+* [https://www.spiegel.de/ausland/israel-erneut-fliehen-offenbar-zehntausende-palaestinenser-in-den-sueden-des-gazastreifens](https://www.spiegel.de/ausland/israel-erneut-fliehen-offenbar-zehntausende-palaestinenser-in-den-sueden-des-gazastreifens-a-2cf07521-20a8-4d6a-b43a-162c609b5dba#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/wirtschaft/hot-chips-landesregierung-in-bayern-verbietet-verkauf](https://www.spiegel.de/wirtschaft/hot-chips-landesregierung-in-bayern-verbietet-verkauf-a-b5f6a299-b421-4bdd-9aaa-b9376ef77a5c#ref=rss)
-### chips
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-verbot-hessen-boris-rhein-vermoegen-in-deutschland](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-verbot-hessen-boris-rhein-vermoegen-in-deutschland-a-0c5c3d83-ff95-463c-901f-755c3ddb9853#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-im-modus-der-selbstverteidigung](https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-im-modus-der-selbstverteidigung-a-1663b8c5-a7ae-4479-803e-15cab7024f11#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/polizei-ermittelt-nach-rechten-parolen-auf-einem-dorffest-in-vorpommern](https://www.spiegel.de/panorama/justiz/polizei-ermittelt-nach-rechten-parolen-auf-einem-dorffest-in-vorpommern-a-0476202e-70a1-43c0-9577-bdcc412da435#ref=rss)
+### bundestag
 
-* [https://www.spiegel.de/wirtschaft/hot-chips-landesregierung-in-bayern-verbietet-verkauf](https://www.spiegel.de/wirtschaft/hot-chips-landesregierung-in-bayern-verbietet-verkauf-a-b5f6a299-b421-4bdd-9aaa-b9376ef77a5c#ref=rss)
-### bayern
+* [https://www.spiegel.de/politik/deutschland/parteinahe-stiftungen-bundestag-beschliesst-finanzierungsregeln-afd-protestiert](https://www.spiegel.de/politik/deutschland/parteinahe-stiftungen-bundestag-beschliesst-finanzierungsregeln-afd-protestiert-a-e150ceb7-12d1-4b7b-9fc3-56e64acc044b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/bundestag-stimmt-fuer-globale-konzern-mindeststeuer](https://www.spiegel.de/wirtschaft/soziales/bundestag-stimmt-fuer-globale-konzern-mindeststeuer-a-ed6146eb-7157-47e2-9a59-102a68de44d6#ref=rss)
+### prozent
 
-* [https://www.spiegel.de/wirtschaft/hot-chips-landesregierung-in-bayern-verbietet-verkauf](https://www.spiegel.de/wirtschaft/hot-chips-landesregierung-in-bayern-verbietet-verkauf-a-b5f6a299-b421-4bdd-9aaa-b9376ef77a5c#ref=rss)
-### jugendliche
+* [https://www.spiegel.de/wirtschaft/soziales/bundestag-stimmt-fuer-globale-konzern-mindeststeuer](https://www.spiegel.de/wirtschaft/soziales/bundestag-stimmt-fuer-globale-konzern-mindeststeuer-a-ed6146eb-7157-47e2-9a59-102a68de44d6#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/union-fordert-zinssenkung-bei-studienkrediten](https://www.spiegel.de/panorama/bildung/union-fordert-zinssenkung-bei-studienkrediten-a-5e8a4f62-b63b-4a8c-be1a-f140572ac3e2#ref=rss)
+* [https://www.spiegel.de/auto/deutsche-bahn-bauarbeiten-und-marode-infrastruktur-bahn-verpasst-eigenes-puenktlichkeitsziel-fuer-2023-deutlich](https://www.spiegel.de/auto/deutsche-bahn-bauarbeiten-und-marode-infrastruktur-bahn-verpasst-eigenes-puenktlichkeitsziel-fuer-2023-deutlich-a-1b3bc6de-feb9-48e4-8cac-fe4932f38de3#ref=rss)
+### laura
 
-* [https://www.spiegel.de/wirtschaft/hot-chips-landesregierung-in-bayern-verbietet-verkauf](https://www.spiegel.de/wirtschaft/hot-chips-landesregierung-in-bayern-verbietet-verkauf-a-b5f6a299-b421-4bdd-9aaa-b9376ef77a5c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jugendhilfeorganisationen-treten-aus-paus-buendnis-fuer-die-junge-generation-aus](https://www.spiegel.de/politik/deutschland/jugendhilfeorganisationen-treten-aus-paus-buendnis-fuer-die-junge-generation-aus-a-1bf938b6-1a70-4ae6-86b7-0a701900f44f#ref=rss)
-### jared
+* [https://www.spiegel.de/sport/tennis-spielerin-laura-siegemund-like-a-hurricane](https://www.spiegel.de/sport/tennis-spielerin-laura-siegemund-like-a-hurricane-a-780d4ea7-b8d5-492f-8f4a-c0aba0caaf58#ref=rss)
+### siegemund
 
-* [https://www.spiegel.de/panorama/leute/jared-leto-klettert-an-empire-state-building-hoch](https://www.spiegel.de/panorama/leute/jared-leto-klettert-an-empire-state-building-hoch-a-187557fe-b761-4368-9672-ccb834e552fc#ref=rss)
-### leto
+* [https://www.spiegel.de/sport/tennis-spielerin-laura-siegemund-like-a-hurricane](https://www.spiegel.de/sport/tennis-spielerin-laura-siegemund-like-a-hurricane-a-780d4ea7-b8d5-492f-8f4a-c0aba0caaf58#ref=rss)
+### vorlegen
 
-* [https://www.spiegel.de/panorama/leute/jared-leto-klettert-an-empire-state-building-hoch](https://www.spiegel.de/panorama/leute/jared-leto-klettert-an-empire-state-building-hoch-a-187557fe-b761-4368-9672-ccb834e552fc#ref=rss)
-### empire
+* [https://www.spiegel.de/wirtschaft/unternehmen/immobilienkonzern-signa-gruppe-will-noch-im-november-restrukturierungsplan-vorlegen](https://www.spiegel.de/wirtschaft/unternehmen/immobilienkonzern-signa-gruppe-will-noch-im-november-restrukturierungsplan-vorlegen-a-8723aa0c-26fb-46bd-8ba7-e1d2cd3dd020#ref=rss)
+### steckt
 
-* [https://www.spiegel.de/panorama/leute/jared-leto-klettert-an-empire-state-building-hoch](https://www.spiegel.de/panorama/leute/jared-leto-klettert-an-empire-state-building-hoch-a-187557fe-b761-4368-9672-ccb834e552fc#ref=rss)
-### state
+* [https://www.spiegel.de/wirtschaft/unternehmen/immobilienkonzern-signa-gruppe-will-noch-im-november-restrukturierungsplan-vorlegen](https://www.spiegel.de/wirtschaft/unternehmen/immobilienkonzern-signa-gruppe-will-noch-im-november-restrukturierungsplan-vorlegen-a-8723aa0c-26fb-46bd-8ba7-e1d2cd3dd020#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/hackerangriff-auf-icbc-lockbit-soll-us-tochter-von-chinas-groesster-bank-attackiert-haben](https://www.spiegel.de/netzwelt/web/hackerangriff-auf-icbc-lockbit-soll-us-tochter-von-chinas-groesster-bank-attackiert-haben-a-3cb8a43d-9e59-41c4-b30b-0de5887994d4#ref=rss)
+### diesem
 
-* [https://www.spiegel.de/panorama/leute/jared-leto-klettert-an-empire-state-building-hoch](https://www.spiegel.de/panorama/leute/jared-leto-klettert-an-empire-state-building-hoch-a-187557fe-b761-4368-9672-ccb834e552fc#ref=rss)
-### paus
+* [https://www.spiegel.de/wirtschaft/unternehmen/immobilienkonzern-signa-gruppe-will-noch-im-november-restrukturierungsplan-vorlegen](https://www.spiegel.de/wirtschaft/unternehmen/immobilienkonzern-signa-gruppe-will-noch-im-november-restrukturierungsplan-vorlegen-a-8723aa0c-26fb-46bd-8ba7-e1d2cd3dd020#ref=rss)
+* [https://www.spiegel.de/kultur/tv/prosieben-stellt-zervakis-und-opdenhoevel-live-ein](https://www.spiegel.de/kultur/tv/prosieben-stellt-zervakis-und-opdenhoevel-live-ein-a-2d7dd4a0-9c9e-445a-963f-654213b71f01#ref=rss)
+### laut
 
-* [https://www.spiegel.de/politik/deutschland/jugendhilfeorganisationen-treten-aus-paus-buendnis-fuer-die-junge-generation-aus](https://www.spiegel.de/politik/deutschland/jugendhilfeorganisationen-treten-aus-paus-buendnis-fuer-die-junge-generation-aus-a-1bf938b6-1a70-4ae6-86b7-0a701900f44f#ref=rss)
-### bündnis
+* [https://www.spiegel.de/gesundheit/hpv-impfung-gegen-krebs-impfquote-besorgniserregend-niedrig](https://www.spiegel.de/gesundheit/hpv-impfung-gegen-krebs-impfquote-besorgniserregend-niedrig-a-48956fa6-9f48-4c1b-8b70-f3c2e6ac1c82#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-hoehenflug-hilft-jetzt-nur-noch-ein-parteiverbot](https://www.spiegel.de/politik/deutschland/afd-hoehenflug-hilft-jetzt-nur-noch-ein-parteiverbot-a-cc651f72-fead-4d82-87ba-80af198df0f1#ref=rss)
+### einsatz
 
-* [https://www.spiegel.de/politik/deutschland/jugendhilfeorganisationen-treten-aus-paus-buendnis-fuer-die-junge-generation-aus](https://www.spiegel.de/politik/deutschland/jugendhilfeorganisationen-treten-aus-paus-buendnis-fuer-die-junge-generation-aus-a-1bf938b6-1a70-4ae6-86b7-0a701900f44f#ref=rss)
-### kevin
+* [https://www.spiegel.de/gesundheit/hpv-impfung-gegen-krebs-impfquote-besorgniserregend-niedrig](https://www.spiegel.de/gesundheit/hpv-impfung-gegen-krebs-impfquote-besorgniserregend-niedrig-a-48956fa6-9f48-4c1b-8b70-f3c2e6ac1c82#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-bedrohung-in-blankenese-und-bahrenfeld-muessen-familien-einsatz-bezahlen](https://www.spiegel.de/panorama/justiz/hamburg-bedrohung-in-blankenese-und-bahrenfeld-muessen-familien-einsatz-bezahlen-a-2ceb1b4a-7e5b-40df-81d0-1186985eb3e4#ref=rss)
+### cottbus
 
-* [https://www.spiegel.de/politik/deutschland/spd-kevin-kuehnert-ueber-das-steuerkonzept-und-christian-lindner](https://www.spiegel.de/politik/deutschland/spd-kevin-kuehnert-ueber-das-steuerkonzept-und-christian-lindner-a-7b4e9751-735b-4840-bddd-f9897bc03590#ref=rss)
-### kühnert
+* [https://www.spiegel.de/kultur/tv/polizeiruf-110-mit-andre-kaczmarcyk-cottbus-kopflos](https://www.spiegel.de/kultur/tv/polizeiruf-110-mit-andre-kaczmarcyk-cottbus-kopflos-a-f056c0ce-3035-4fcc-82ed-2908a6999496#ref=rss)
+### eu
 
-* [https://www.spiegel.de/politik/deutschland/spd-kevin-kuehnert-ueber-das-steuerkonzept-und-christian-lindner](https://www.spiegel.de/politik/deutschland/spd-kevin-kuehnert-ueber-das-steuerkonzept-und-christian-lindner-a-7b4e9751-735b-4840-bddd-f9897bc03590#ref=rss)
-### spdgeneralsekretär
+* [https://www.spiegel.de/politik/deutschland/eu-europaeische-union-zahlt-hunderte-millionen-euro-fuer-wein-entsorgung](https://www.spiegel.de/politik/deutschland/eu-europaeische-union-zahlt-hunderte-millionen-euro-fuer-wein-entsorgung-a-e8dcfe36-f707-470b-948d-6c45d4204ef3#ref=rss)
+### millionen
 
-* [https://www.spiegel.de/politik/deutschland/spd-kevin-kuehnert-ueber-das-steuerkonzept-und-christian-lindner](https://www.spiegel.de/politik/deutschland/spd-kevin-kuehnert-ueber-das-steuerkonzept-und-christian-lindner-a-7b4e9751-735b-4840-bddd-f9897bc03590#ref=rss)
-### christian
+* [https://www.spiegel.de/politik/deutschland/eu-europaeische-union-zahlt-hunderte-millionen-euro-fuer-wein-entsorgung](https://www.spiegel.de/politik/deutschland/eu-europaeische-union-zahlt-hunderte-millionen-euro-fuer-wein-entsorgung-a-e8dcfe36-f707-470b-948d-6c45d4204ef3#ref=rss)
+### milliarde
 
-* [https://www.spiegel.de/politik/deutschland/spd-kevin-kuehnert-ueber-das-steuerkonzept-und-christian-lindner](https://www.spiegel.de/politik/deutschland/spd-kevin-kuehnert-ueber-das-steuerkonzept-und-christian-lindner-a-7b4e9751-735b-4840-bddd-f9897bc03590#ref=rss)
-### lindner
+* [https://www.spiegel.de/politik/deutschland/eu-europaeische-union-zahlt-hunderte-millionen-euro-fuer-wein-entsorgung](https://www.spiegel.de/politik/deutschland/eu-europaeische-union-zahlt-hunderte-millionen-euro-fuer-wein-entsorgung-a-e8dcfe36-f707-470b-948d-6c45d4204ef3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/innovation-in-san-francisco-dieses-unternehmen-will-eine-milliarde-tonnen-kohlendioxid-aus-der-luft-holen](https://www.spiegel.de/wissenschaft/innovation-in-san-francisco-dieses-unternehmen-will-eine-milliarde-tonnen-kohlendioxid-aus-der-luft-holen-a-ee2e95ce-677b-4aca-9e28-57f4551cc3fc#ref=rss)
+### gut
 
-* [https://www.spiegel.de/politik/deutschland/spd-kevin-kuehnert-ueber-das-steuerkonzept-und-christian-lindner](https://www.spiegel.de/politik/deutschland/spd-kevin-kuehnert-ueber-das-steuerkonzept-und-christian-lindner-a-7b4e9751-735b-4840-bddd-f9897bc03590#ref=rss)
-### tuvalu
+* [https://www.spiegel.de/politik/deutschland/eu-europaeische-union-zahlt-hunderte-millionen-euro-fuer-wein-entsorgung](https://www.spiegel.de/politik/deutschland/eu-europaeische-union-zahlt-hunderte-millionen-euro-fuer-wein-entsorgung-a-e8dcfe36-f707-470b-948d-6c45d4204ef3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-im-modus-der-selbstverteidigung](https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-im-modus-der-selbstverteidigung-a-1663b8c5-a7ae-4479-803e-15cab7024f11#ref=rss)
+### osten
 
-* [https://www.spiegel.de/wissenschaft/australien-bietet-allen-einwohnern-von-tuvalu-aufnahme-als-klimafluechtlinge](https://www.spiegel.de/wissenschaft/australien-bietet-allen-einwohnern-von-tuvalu-aufnahme-als-klimafluechtlinge-a-c53fa233-173b-4afb-aa84-d77c76e5f0bc#ref=rss)
-### baerbock
+* [https://www.spiegel.de/politik/deutschland/afd-hoehenflug-hilft-jetzt-nur-noch-ein-parteiverbot](https://www.spiegel.de/politik/deutschland/afd-hoehenflug-hilft-jetzt-nur-noch-ein-parteiverbot-a-cc651f72-fead-4d82-87ba-80af198df0f1#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-und-xi-jinping-treffen-sich-am-mittwoch-in-kalifornien](https://www.spiegel.de/ausland/joe-biden-und-xi-jinping-treffen-sich-am-mittwoch-in-kalifornien-a-9f14818d-a658-4fe5-ba29-3c9ceac03632#ref=rss)
+### künftig
 
-* [https://www.spiegel.de/politik/deutschland/news-annalena-baerbock-israel-gaza-joe-manchin-hessen](https://www.spiegel.de/politik/deutschland/news-annalena-baerbock-israel-gaza-joe-manchin-hessen-a-fb070fa6-d701-4997-a9ae-be178fa4a367#ref=rss)
-### joe
+* [https://www.spiegel.de/politik/deutschland/afd-hoehenflug-hilft-jetzt-nur-noch-ein-parteiverbot](https://www.spiegel.de/politik/deutschland/afd-hoehenflug-hilft-jetzt-nur-noch-ein-parteiverbot-a-cc651f72-fead-4d82-87ba-80af198df0f1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/bundestag-stimmt-fuer-globale-konzern-mindeststeuer](https://www.spiegel.de/wirtschaft/soziales/bundestag-stimmt-fuer-globale-konzern-mindeststeuer-a-ed6146eb-7157-47e2-9a59-102a68de44d6#ref=rss)
+### verbot
 
-* [https://www.spiegel.de/politik/deutschland/news-annalena-baerbock-israel-gaza-joe-manchin-hessen](https://www.spiegel.de/politik/deutschland/news-annalena-baerbock-israel-gaza-joe-manchin-hessen-a-fb070fa6-d701-4997-a9ae-be178fa4a367#ref=rss)
-### mexiko
+* [https://www.spiegel.de/politik/deutschland/afd-hoehenflug-hilft-jetzt-nur-noch-ein-parteiverbot](https://www.spiegel.de/politik/deutschland/afd-hoehenflug-hilft-jetzt-nur-noch-ein-parteiverbot-a-cc651f72-fead-4d82-87ba-80af198df0f1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-verbot-hessen-boris-rhein-vermoegen-in-deutschland](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-verbot-hessen-boris-rhein-vermoegen-in-deutschland-a-0c5c3d83-ff95-463c-901f-755c3ddb9853#ref=rss)
+### all
 
-* [https://www.spiegel.de/ausland/mexiko-polizei-befreit-123-migranten-aus-lkw-anhaenger](https://www.spiegel.de/ausland/mexiko-polizei-befreit-123-migranten-aus-lkw-anhaenger-a-1fac74dd-71db-4b22-9e00-2af5528ee190#ref=rss)
-### migranten
+* [https://www.spiegel.de/kultur/musik/all-diese-gewalt-ibadet-ramadani-beirut-cat-power-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/all-diese-gewalt-ibadet-ramadani-beirut-cat-power-abgehoert-album-der-woche-a-fb5c5961-bfc7-431b-89bd-1976c83c0e44#ref=rss)
+### gewalt
 
-* [https://www.spiegel.de/ausland/mexiko-polizei-befreit-123-migranten-aus-lkw-anhaenger](https://www.spiegel.de/ausland/mexiko-polizei-befreit-123-migranten-aus-lkw-anhaenger-a-1fac74dd-71db-4b22-9e00-2af5528ee190#ref=rss)
+* [https://www.spiegel.de/kultur/musik/all-diese-gewalt-ibadet-ramadani-beirut-cat-power-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/all-diese-gewalt-ibadet-ramadani-beirut-cat-power-abgehoert-album-der-woche-a-fb5c5961-bfc7-431b-89bd-1976c83c0e44#ref=rss)
+### cat
+
+* [https://www.spiegel.de/kultur/musik/all-diese-gewalt-ibadet-ramadani-beirut-cat-power-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/all-diese-gewalt-ibadet-ramadani-beirut-cat-power-abgehoert-album-der-woche-a-fb5c5961-bfc7-431b-89bd-1976c83c0e44#ref=rss)
+### power
+
+* [https://www.spiegel.de/kultur/musik/all-diese-gewalt-ibadet-ramadani-beirut-cat-power-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/all-diese-gewalt-ibadet-ramadani-beirut-cat-power-abgehoert-album-der-woche-a-fb5c5961-bfc7-431b-89bd-1976c83c0e44#ref=rss)
+### album
+
+* [https://www.spiegel.de/kultur/musik/all-diese-gewalt-ibadet-ramadani-beirut-cat-power-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/all-diese-gewalt-ibadet-ramadani-beirut-cat-power-abgehoert-album-der-woche-a-fb5c5961-bfc7-431b-89bd-1976c83c0e44#ref=rss)
+### woche
+
+* [https://www.spiegel.de/kultur/musik/all-diese-gewalt-ibadet-ramadani-beirut-cat-power-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/all-diese-gewalt-ibadet-ramadani-beirut-cat-power-abgehoert-album-der-woche-a-fb5c5961-bfc7-431b-89bd-1976c83c0e44#ref=rss)
+### band
+
+* [https://www.spiegel.de/kultur/musik/all-diese-gewalt-ibadet-ramadani-beirut-cat-power-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/all-diese-gewalt-ibadet-ramadani-beirut-cat-power-abgehoert-album-der-woche-a-fb5c5961-bfc7-431b-89bd-1976c83c0e44#ref=rss)
+* [https://www.spiegel.de/kultur/musik/beatles-mit-now-and-then-nach-54-jahren-wieder-nummer-1-in-den-singlecharts](https://www.spiegel.de/kultur/musik/beatles-mit-now-and-then-nach-54-jahren-wieder-nummer-1-in-den-singlecharts-a-ec1ceacb-1efb-468f-8108-aa7dc9e468f3#ref=rss)
+### findet
+
+* [https://www.spiegel.de/kultur/musik/all-diese-gewalt-ibadet-ramadani-beirut-cat-power-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/all-diese-gewalt-ibadet-ramadani-beirut-cat-power-abgehoert-album-der-woche-a-fb5c5961-bfc7-431b-89bd-1976c83c0e44#ref=rss)
+* [https://www.spiegel.de/kultur/documenta-mitglied-der-findungskommission-hat-bds-statement-unterzeichnet](https://www.spiegel.de/kultur/documenta-mitglied-der-findungskommission-hat-bds-statement-unterzeichnet-a-cac2a300-440c-4fbf-99b2-60c650f688fe#ref=rss)
+### icbc
+
+* [https://www.spiegel.de/netzwelt/web/hackerangriff-auf-icbc-lockbit-soll-us-tochter-von-chinas-groesster-bank-attackiert-haben](https://www.spiegel.de/netzwelt/web/hackerangriff-auf-icbc-lockbit-soll-us-tochter-von-chinas-groesster-bank-attackiert-haben-a-3cb8a43d-9e59-41c4-b30b-0de5887994d4#ref=rss)
+### angriff
+
+* [https://www.spiegel.de/netzwelt/web/hackerangriff-auf-icbc-lockbit-soll-us-tochter-von-chinas-groesster-bank-attackiert-haben](https://www.spiegel.de/netzwelt/web/hackerangriff-auf-icbc-lockbit-soll-us-tochter-von-chinas-groesster-bank-attackiert-haben-a-3cb8a43d-9e59-41c4-b30b-0de5887994d4#ref=rss)
+* [https://www.spiegel.de/ausland/israel-greift-hamas-stellungen-in-gaza-an-mehr-als-50-terroristen-getoetet](https://www.spiegel.de/ausland/israel-greift-hamas-stellungen-in-gaza-an-mehr-als-50-terroristen-getoetet-a-98146842-163b-408f-8505-b2e7c065440c#ref=rss)
+### prosieben
+
+* [https://www.spiegel.de/kultur/tv/prosieben-stellt-zervakis-und-opdenhoevel-live-ein](https://www.spiegel.de/kultur/tv/prosieben-stellt-zervakis-und-opdenhoevel-live-ein-a-2d7dd4a0-9c9e-445a-963f-654213b71f01#ref=rss)
+### stellt
+
+* [https://www.spiegel.de/kultur/tv/prosieben-stellt-zervakis-und-opdenhoevel-live-ein](https://www.spiegel.de/kultur/tv/prosieben-stellt-zervakis-und-opdenhoevel-live-ein-a-2d7dd4a0-9c9e-445a-963f-654213b71f01#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-bedrohung-in-blankenese-und-bahrenfeld-muessen-familien-einsatz-bezahlen](https://www.spiegel.de/panorama/justiz/hamburg-bedrohung-in-blankenese-und-bahrenfeld-muessen-familien-einsatz-bezahlen-a-2ceb1b4a-7e5b-40df-81d0-1186985eb3e4#ref=rss)
+### zervakis
+
+* [https://www.spiegel.de/kultur/tv/prosieben-stellt-zervakis-und-opdenhoevel-live-ein](https://www.spiegel.de/kultur/tv/prosieben-stellt-zervakis-und-opdenhoevel-live-ein-a-2d7dd4a0-9c9e-445a-963f-654213b71f01#ref=rss)
+### opdenhövel
+
+* [https://www.spiegel.de/kultur/tv/prosieben-stellt-zervakis-und-opdenhoevel-live-ein](https://www.spiegel.de/kultur/tv/prosieben-stellt-zervakis-und-opdenhoevel-live-ein-a-2d7dd4a0-9c9e-445a-963f-654213b71f01#ref=rss)
+### ziel
+
+* [https://www.spiegel.de/kultur/tv/prosieben-stellt-zervakis-und-opdenhoevel-live-ein](https://www.spiegel.de/kultur/tv/prosieben-stellt-zervakis-und-opdenhoevel-live-ein-a-2d7dd4a0-9c9e-445a-963f-654213b71f01#ref=rss)
+* [https://www.spiegel.de/auto/deutsche-bahn-bauarbeiten-und-marode-infrastruktur-bahn-verpasst-eigenes-puenktlichkeitsziel-fuer-2023-deutlich](https://www.spiegel.de/auto/deutsche-bahn-bauarbeiten-und-marode-infrastruktur-bahn-verpasst-eigenes-puenktlichkeitsziel-fuer-2023-deutlich-a-1b3bc6de-feb9-48e4-8cac-fe4932f38de3#ref=rss)
+### unter
+
+* [https://www.spiegel.de/kultur/tv/prosieben-stellt-zervakis-und-opdenhoevel-live-ein](https://www.spiegel.de/kultur/tv/prosieben-stellt-zervakis-und-opdenhoevel-live-ein-a-2d7dd4a0-9c9e-445a-963f-654213b71f01#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-und-xi-jinping-treffen-sich-am-mittwoch-in-kalifornien](https://www.spiegel.de/ausland/joe-biden-und-xi-jinping-treffen-sich-am-mittwoch-in-kalifornien-a-9f14818d-a658-4fe5-ba29-3c9ceac03632#ref=rss)
+### milliarden
+
+* [https://www.spiegel.de/wirtschaft/strompreis-paket-fuer-die-industrie-viele-milliarden-wenig-effekt](https://www.spiegel.de/wirtschaft/strompreis-paket-fuer-die-industrie-viele-milliarden-wenig-effekt-a-eee05c4b-e729-440a-9fca-78ecc192a8e9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/innovation-in-san-francisco-dieses-unternehmen-will-eine-milliarde-tonnen-kohlendioxid-aus-der-luft-holen](https://www.spiegel.de/wissenschaft/innovation-in-san-francisco-dieses-unternehmen-will-eine-milliarde-tonnen-kohlendioxid-aus-der-luft-holen-a-ee2e95ce-677b-4aca-9e28-57f4551cc3fc#ref=rss)
+### wenig
+
+* [https://www.spiegel.de/wirtschaft/strompreis-paket-fuer-die-industrie-viele-milliarden-wenig-effekt](https://www.spiegel.de/wirtschaft/strompreis-paket-fuer-die-industrie-viele-milliarden-wenig-effekt-a-eee05c4b-e729-440a-9fca-78ecc192a8e9#ref=rss)
+### benachteiligt
+
+* [https://www.spiegel.de/wirtschaft/strompreis-paket-fuer-die-industrie-viele-milliarden-wenig-effekt](https://www.spiegel.de/wirtschaft/strompreis-paket-fuer-die-industrie-viele-milliarden-wenig-effekt-a-eee05c4b-e729-440a-9fca-78ecc192a8e9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/parteinahe-stiftungen-bundestag-beschliesst-finanzierungsregeln-afd-protestiert](https://www.spiegel.de/politik/deutschland/parteinahe-stiftungen-bundestag-beschliesst-finanzierungsregeln-afd-protestiert-a-e150ceb7-12d1-4b7b-9fc3-56e64acc044b#ref=rss)
+### boris
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-verbot-hessen-boris-rhein-vermoegen-in-deutschland](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-verbot-hessen-boris-rhein-vermoegen-in-deutschland-a-0c5c3d83-ff95-463c-901f-755c3ddb9853#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-im-modus-der-selbstverteidigung](https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-im-modus-der-selbstverteidigung-a-1663b8c5-a7ae-4479-803e-15cab7024f11#ref=rss)
+### rhein
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-verbot-hessen-boris-rhein-vermoegen-in-deutschland](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-verbot-hessen-boris-rhein-vermoegen-in-deutschland-a-0c5c3d83-ff95-463c-901f-755c3ddb9853#ref=rss)
+### mittwoch
+
+* [https://www.spiegel.de/panorama/justiz/hamburg-bedrohung-in-blankenese-und-bahrenfeld-muessen-familien-einsatz-bezahlen](https://www.spiegel.de/panorama/justiz/hamburg-bedrohung-in-blankenese-und-bahrenfeld-muessen-familien-einsatz-bezahlen-a-2ceb1b4a-7e5b-40df-81d0-1186985eb3e4#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-und-xi-jinping-treffen-sich-am-mittwoch-in-kalifornien](https://www.spiegel.de/ausland/joe-biden-und-xi-jinping-treffen-sich-am-mittwoch-in-kalifornien-a-9f14818d-a658-4fe5-ba29-3c9ceac03632#ref=rss)
+### antisemitismus
+
+* [https://www.spiegel.de/politik/deutschland/antisemitismus-innenministerium-alarmiert-ueber-judenhass-bei-tuerkischen-rechtsextremen](https://www.spiegel.de/politik/deutschland/antisemitismus-innenministerium-alarmiert-ueber-judenhass-bei-tuerkischen-rechtsextremen-a-8e1619f5-ca9f-4ea0-b23f-0464d7af641c#ref=rss)
+### zunehmend
+
+* [https://www.spiegel.de/politik/deutschland/antisemitismus-innenministerium-alarmiert-ueber-judenhass-bei-tuerkischen-rechtsextremen](https://www.spiegel.de/politik/deutschland/antisemitismus-innenministerium-alarmiert-ueber-judenhass-bei-tuerkischen-rechtsextremen-a-8e1619f5-ca9f-4ea0-b23f-0464d7af641c#ref=rss)
+* [https://www.spiegel.de/auto/deutsche-bahn-bauarbeiten-und-marode-infrastruktur-bahn-verpasst-eigenes-puenktlichkeitsziel-fuer-2023-deutlich](https://www.spiegel.de/auto/deutsche-bahn-bauarbeiten-und-marode-infrastruktur-bahn-verpasst-eigenes-puenktlichkeitsziel-fuer-2023-deutlich-a-1b3bc6de-feb9-48e4-8cac-fe4932f38de3#ref=rss)
+### besonders
+
+* [https://www.spiegel.de/politik/deutschland/antisemitismus-innenministerium-alarmiert-ueber-judenhass-bei-tuerkischen-rechtsextremen](https://www.spiegel.de/politik/deutschland/antisemitismus-innenministerium-alarmiert-ueber-judenhass-bei-tuerkischen-rechtsextremen-a-8e1619f5-ca9f-4ea0-b23f-0464d7af641c#ref=rss)
+* [https://www.spiegel.de/auto/deutsche-bahn-bauarbeiten-und-marode-infrastruktur-bahn-verpasst-eigenes-puenktlichkeitsziel-fuer-2023-deutlich](https://www.spiegel.de/auto/deutsche-bahn-bauarbeiten-und-marode-infrastruktur-bahn-verpasst-eigenes-puenktlichkeitsziel-fuer-2023-deutlich-a-1b3bc6de-feb9-48e4-8cac-fe4932f38de3#ref=rss)
+### parteinahe
+
+* [https://www.spiegel.de/politik/deutschland/parteinahe-stiftungen-bundestag-beschliesst-finanzierungsregeln-afd-protestiert](https://www.spiegel.de/politik/deutschland/parteinahe-stiftungen-bundestag-beschliesst-finanzierungsregeln-afd-protestiert-a-e150ceb7-12d1-4b7b-9fc3-56e64acc044b#ref=rss)
+### stiftungen
+
+* [https://www.spiegel.de/politik/deutschland/parteinahe-stiftungen-bundestag-beschliesst-finanzierungsregeln-afd-protestiert](https://www.spiegel.de/politik/deutschland/parteinahe-stiftungen-bundestag-beschliesst-finanzierungsregeln-afd-protestiert-a-e150ceb7-12d1-4b7b-9fc3-56e64acc044b#ref=rss)
+### gesetz
+
+* [https://www.spiegel.de/politik/deutschland/parteinahe-stiftungen-bundestag-beschliesst-finanzierungsregeln-afd-protestiert](https://www.spiegel.de/politik/deutschland/parteinahe-stiftungen-bundestag-beschliesst-finanzierungsregeln-afd-protestiert-a-e150ceb7-12d1-4b7b-9fc3-56e64acc044b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/bundestag-stimmt-fuer-globale-konzern-mindeststeuer](https://www.spiegel.de/wirtschaft/soziales/bundestag-stimmt-fuer-globale-konzern-mindeststeuer-a-ed6146eb-7157-47e2-9a59-102a68de44d6#ref=rss)
+### luft
+
+* [https://www.spiegel.de/wissenschaft/innovation-in-san-francisco-dieses-unternehmen-will-eine-milliarde-tonnen-kohlendioxid-aus-der-luft-holen](https://www.spiegel.de/wissenschaft/innovation-in-san-francisco-dieses-unternehmen-will-eine-milliarde-tonnen-kohlendioxid-aus-der-luft-holen-a-ee2e95ce-677b-4aca-9e28-57f4551cc3fc#ref=rss)
+### erste
+
+* [https://www.spiegel.de/wissenschaft/innovation-in-san-francisco-dieses-unternehmen-will-eine-milliarde-tonnen-kohlendioxid-aus-der-luft-holen](https://www.spiegel.de/wissenschaft/innovation-in-san-francisco-dieses-unternehmen-will-eine-milliarde-tonnen-kohlendioxid-aus-der-luft-holen-a-ee2e95ce-677b-4aca-9e28-57f4551cc3fc#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-und-xi-jinping-treffen-sich-am-mittwoch-in-kalifornien](https://www.spiegel.de/ausland/joe-biden-und-xi-jinping-treffen-sich-am-mittwoch-in-kalifornien-a-9f14818d-a658-4fe5-ba29-3c9ceac03632#ref=rss)
+### kfw
+
+* [https://www.spiegel.de/panorama/bildung/union-fordert-zinssenkung-bei-studienkrediten](https://www.spiegel.de/panorama/bildung/union-fordert-zinssenkung-bei-studienkrediten-a-5e8a4f62-b63b-4a8c-be1a-f140572ac3e2#ref=rss)
+### now
+
+* [https://www.spiegel.de/kultur/musik/beatles-mit-now-and-then-nach-54-jahren-wieder-nummer-1-in-den-singlecharts](https://www.spiegel.de/kultur/musik/beatles-mit-now-and-then-nach-54-jahren-wieder-nummer-1-in-den-singlecharts-a-ec1ceacb-1efb-468f-8108-aa7dc9e468f3#ref=rss)
+### and
+
+* [https://www.spiegel.de/kultur/musik/beatles-mit-now-and-then-nach-54-jahren-wieder-nummer-1-in-den-singlecharts](https://www.spiegel.de/kultur/musik/beatles-mit-now-and-then-nach-54-jahren-wieder-nummer-1-in-den-singlecharts-a-ec1ceacb-1efb-468f-8108-aa7dc9e468f3#ref=rss)
+### then
+
+* [https://www.spiegel.de/kultur/musik/beatles-mit-now-and-then-nach-54-jahren-wieder-nummer-1-in-den-singlecharts](https://www.spiegel.de/kultur/musik/beatles-mit-now-and-then-nach-54-jahren-wieder-nummer-1-in-den-singlecharts-a-ec1ceacb-1efb-468f-8108-aa7dc9e468f3#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/kultur/musik/beatles-mit-now-and-then-nach-54-jahren-wieder-nummer-1-in-den-singlecharts](https://www.spiegel.de/kultur/musik/beatles-mit-now-and-then-nach-54-jahren-wieder-nummer-1-in-den-singlecharts-a-ec1ceacb-1efb-468f-8108-aa7dc9e468f3#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/polizei-ermittelt-nach-rechten-parolen-auf-einem-dorffest-in-vorpommern](https://www.spiegel.de/panorama/justiz/polizei-ermittelt-nach-rechten-parolen-auf-einem-dorffest-in-vorpommern-a-0476202e-70a1-43c0-9577-bdcc412da435#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/auto/deutsche-bahn-bauarbeiten-und-marode-infrastruktur-bahn-verpasst-eigenes-puenktlichkeitsziel-fuer-2023-deutlich](https://www.spiegel.de/auto/deutsche-bahn-bauarbeiten-und-marode-infrastruktur-bahn-verpasst-eigenes-puenktlichkeitsziel-fuer-2023-deutlich-a-1b3bc6de-feb9-48e4-8cac-fe4932f38de3#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/auto/deutsche-bahn-bauarbeiten-und-marode-infrastruktur-bahn-verpasst-eigenes-puenktlichkeitsziel-fuer-2023-deutlich](https://www.spiegel.de/auto/deutsche-bahn-bauarbeiten-und-marode-infrastruktur-bahn-verpasst-eigenes-puenktlichkeitsziel-fuer-2023-deutlich-a-1b3bc6de-feb9-48e4-8cac-fe4932f38de3#ref=rss)
+* [https://www.spiegel.de/ausland/israel-greift-hamas-stellungen-in-gaza-an-mehr-als-50-terroristen-getoetet](https://www.spiegel.de/ausland/israel-greift-hamas-stellungen-in-gaza-an-mehr-als-50-terroristen-getoetet-a-98146842-163b-408f-8505-b2e7c065440c#ref=rss)
+### documenta
+
+* [https://www.spiegel.de/kultur/documenta-mitglied-der-findungskommission-hat-bds-statement-unterzeichnet](https://www.spiegel.de/kultur/documenta-mitglied-der-findungskommission-hat-bds-statement-unterzeichnet-a-cac2a300-440c-4fbf-99b2-60c650f688fe#ref=rss)
+### mitglied
+
+* [https://www.spiegel.de/kultur/documenta-mitglied-der-findungskommission-hat-bds-statement-unterzeichnet](https://www.spiegel.de/kultur/documenta-mitglied-der-findungskommission-hat-bds-statement-unterzeichnet-a-cac2a300-440c-4fbf-99b2-60c650f688fe#ref=rss)
+### findungskommission
+
+* [https://www.spiegel.de/kultur/documenta-mitglied-der-findungskommission-hat-bds-statement-unterzeichnet](https://www.spiegel.de/kultur/documenta-mitglied-der-findungskommission-hat-bds-statement-unterzeichnet-a-cac2a300-440c-4fbf-99b2-60c650f688fe#ref=rss)
+### süden
+
+* [https://www.spiegel.de/ausland/israel-erneut-fliehen-offenbar-zehntausende-palaestinenser-in-den-sueden-des-gazastreifens](https://www.spiegel.de/ausland/israel-erneut-fliehen-offenbar-zehntausende-palaestinenser-in-den-sueden-des-gazastreifens-a-2cf07521-20a8-4d6a-b43a-162c609b5dba#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/ausland/israel-erneut-fliehen-offenbar-zehntausende-palaestinenser-in-den-sueden-des-gazastreifens](https://www.spiegel.de/ausland/israel-erneut-fliehen-offenbar-zehntausende-palaestinenser-in-den-sueden-des-gazastreifens-a-2cf07521-20a8-4d6a-b43a-162c609b5dba#ref=rss)
+### biden
+
+* [https://www.spiegel.de/ausland/joe-biden-und-xi-jinping-treffen-sich-am-mittwoch-in-kalifornien](https://www.spiegel.de/ausland/joe-biden-und-xi-jinping-treffen-sich-am-mittwoch-in-kalifornien-a-9f14818d-a658-4fe5-ba29-3c9ceac03632#ref=rss)
+### xi
+
+* [https://www.spiegel.de/ausland/joe-biden-und-xi-jinping-treffen-sich-am-mittwoch-in-kalifornien](https://www.spiegel.de/ausland/joe-biden-und-xi-jinping-treffen-sich-am-mittwoch-in-kalifornien-a-9f14818d-a658-4fe5-ba29-3c9ceac03632#ref=rss)
+### china
+
+* [https://www.spiegel.de/wissenschaft/mensch/china-peking-mogelt-beim-methanplan](https://www.spiegel.de/wissenschaft/mensch/china-peking-mogelt-beim-methanplan-a-a127911b-2b20-4bb2-a148-6286c06204cf#ref=rss)
+### pistorius
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-im-modus-der-selbstverteidigung](https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-im-modus-der-selbstverteidigung-a-1663b8c5-a7ae-4479-803e-15cab7024f11#ref=rss)
+### offenburg
+
+* [https://www.spiegel.de/panorama/justiz/offenburg-vater-eines-schulkindes-hielt-mutmasslichen-todesschuetzen-auf](https://www.spiegel.de/panorama/justiz/offenburg-vater-eines-schulkindes-hielt-mutmasslichen-todesschuetzen-auf-a-fe90f5f0-a528-4ff0-80d2-47f1e5166852#ref=rss)
+### vater
+
+* [https://www.spiegel.de/panorama/justiz/offenburg-vater-eines-schulkindes-hielt-mutmasslichen-todesschuetzen-auf](https://www.spiegel.de/panorama/justiz/offenburg-vater-eines-schulkindes-hielt-mutmasslichen-todesschuetzen-auf-a-fe90f5f0-a528-4ff0-80d2-47f1e5166852#ref=rss)
+### hielt
+
+* [https://www.spiegel.de/panorama/justiz/offenburg-vater-eines-schulkindes-hielt-mutmasslichen-todesschuetzen-auf](https://www.spiegel.de/panorama/justiz/offenburg-vater-eines-schulkindes-hielt-mutmasslichen-todesschuetzen-auf-a-fe90f5f0-a528-4ff0-80d2-47f1e5166852#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/offenburg-vater-eines-schulkindes-hielt-mutmasslichen-todesschuetzen-auf](https://www.spiegel.de/panorama/justiz/offenburg-vater-eines-schulkindes-hielt-mutmasslichen-todesschuetzen-auf-a-fe90f5f0-a528-4ff0-80d2-47f1e5166852#ref=rss)
+* [https://www.spiegel.de/sport/fussball/marvin-ducksch-im-dfb-kader-der-mann-fuers-verrueckte](https://www.spiegel.de/sport/fussball/marvin-ducksch-im-dfb-kader-der-mann-fuers-verrueckte-a-7a4f874d-3d1d-47e4-9a1a-9e0e65353f0b#ref=rss)
+### marvin
+
+* [https://www.spiegel.de/sport/fussball/marvin-ducksch-im-dfb-kader-der-mann-fuers-verrueckte](https://www.spiegel.de/sport/fussball/marvin-ducksch-im-dfb-kader-der-mann-fuers-verrueckte-a-7a4f874d-3d1d-47e4-9a1a-9e0e65353f0b#ref=rss)
+### ducksch
+
+* [https://www.spiegel.de/sport/fussball/marvin-ducksch-im-dfb-kader-der-mann-fuers-verrueckte](https://www.spiegel.de/sport/fussball/marvin-ducksch-im-dfb-kader-der-mann-fuers-verrueckte-a-7a4f874d-3d1d-47e4-9a1a-9e0e65353f0b#ref=rss)
+### vorpommern
+
+* [https://www.spiegel.de/panorama/justiz/polizei-ermittelt-nach-rechten-parolen-auf-einem-dorffest-in-vorpommern](https://www.spiegel.de/panorama/justiz/polizei-ermittelt-nach-rechten-parolen-auf-einem-dorffest-in-vorpommern-a-0476202e-70a1-43c0-9577-bdcc412da435#ref=rss)
+### gaza
+
+* [https://www.spiegel.de/ausland/israel-greift-hamas-stellungen-in-gaza-an-mehr-als-50-terroristen-getoetet](https://www.spiegel.de/ausland/israel-greift-hamas-stellungen-in-gaza-an-mehr-als-50-terroristen-getoetet-a-98146842-163b-408f-8505-b2e7c065440c#ref=rss)
 
