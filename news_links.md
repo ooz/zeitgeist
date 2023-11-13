@@ -4,331 +4,308 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### spd
+### neue
 
-* [https://www.spiegel.de/politik/deutschland/cansel-kiziltepe-berliner-spd-sozialsenatorin-rechnet-mit-mpk-beschluessen-ab](https://www.spiegel.de/politik/deutschland/cansel-kiziltepe-berliner-spd-sozialsenatorin-rechnet-mit-mpk-beschluessen-ab-a-560d14ae-e848-441b-a511-398b2be3fe78#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-saskia-esken-und-lars-klingbeil-kandidieren-erneut-fuer-parteivorsitz](https://www.spiegel.de/politik/deutschland/spd-saskia-esken-und-lars-klingbeil-kandidieren-erneut-fuer-parteivorsitz-a-c826fd5f-79fd-4248-9c1b-f40d850ddee3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-und-spd-in-hessen-und-wieder-lockt-die-groko](https://www.spiegel.de/politik/deutschland/cdu-und-spd-in-hessen-und-wieder-lockt-die-groko-a-405398f1-611c-4f74-91db-bd6f42e69aa7#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/kultur/kino/the-marvels-schwaechster-start-aus-dem-marvel-cinematic-universe](https://www.spiegel.de/kultur/kino/the-marvels-schwaechster-start-aus-dem-marvel-cinematic-universe-a-07886890-fe36-484d-bbf0-04c2e630d579#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/einschulungen-zahl-der-schulanfaenger-auf-hoechstem-stand-seit-20-jahren](https://www.spiegel.de/panorama/bildung/einschulungen-zahl-der-schulanfaenger-auf-hoechstem-stand-seit-20-jahren-a-56dc2cb3-902e-4134-9fe1-a5ac916e157e#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/australien-haefen-nach-cyberangriff-tagelang-blockiert-zehntausende-container-stauen-sich](https://www.spiegel.de/netzwelt/web/australien-haefen-nach-cyberangriff-tagelang-blockiert-zehntausende-container-stauen-sich-a-b57c87b3-6cdf-4bc9-b8e2-92db042f143d#ref=rss)
-* [https://www.spiegel.de/panorama/leute/cem-oezdemir-und-pia-castro-haben-sich-getrennt](https://www.spiegel.de/panorama/leute/cem-oezdemir-und-pia-castro-haben-sich-getrennt-a-6835e2bd-2081-4b68-b8e2-851d2de43874#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-greta-thunberg-israel-gaza-krieg-david-cameron-ukraine-krieg](https://www.spiegel.de/politik/deutschland/news-des-tages-greta-thunberg-israel-gaza-krieg-david-cameron-ukraine-krieg-a-7398a2f6-b643-49d1-8859-e2f9f11603ae#ref=rss)
+* [https://www.spiegel.de/wirtschaft/siemens-energy-7-5-milliarden-euro-staatsgarantien-in-windkraftkrise](https://www.spiegel.de/wirtschaft/siemens-energy-7-5-milliarden-euro-staatsgarantien-in-windkraftkrise-a-7f72659d-5e5e-4af2-8ca7-21d7e6f8630f#ref=rss)
+* [https://www.spiegel.de/ausland/griechenland-45-politiker-verlassen-linke-oppositionspartei-syriza](https://www.spiegel.de/ausland/griechenland-45-politiker-verlassen-linke-oppositionspartei-syriza-a-263b4092-1225-41e6-bb1d-8ed3c4629427#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/outlook-uebertraegt-jetzt-offenbar-zugangsdaten-an-microsoft](https://www.spiegel.de/netzwelt/apps/outlook-uebertraegt-jetzt-offenbar-zugangsdaten-an-microsoft-a-af2648d7-2a83-4e5b-ac78-913713d72ab9#ref=rss)
 ### jahren
 
-* [https://www.spiegel.de/panorama/bildung/einschulungen-zahl-der-schulanfaenger-auf-hoechstem-stand-seit-20-jahren](https://www.spiegel.de/panorama/bildung/einschulungen-zahl-der-schulanfaenger-auf-hoechstem-stand-seit-20-jahren-a-56dc2cb3-902e-4134-9fe1-a5ac916e157e#ref=rss)
-* [https://www.spiegel.de/panorama/leute/cem-oezdemir-und-pia-castro-haben-sich-getrennt](https://www.spiegel.de/panorama/leute/cem-oezdemir-und-pia-castro-haben-sich-getrennt-a-6835e2bd-2081-4b68-b8e2-851d2de43874#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/brandanschlag-in-saarlouis-32-jahren-nach-mordfall-samuel-yeboah-anklage-gegen-neonazi-erhoben](https://www.spiegel.de/panorama/justiz/brandanschlag-in-saarlouis-32-jahren-nach-mordfall-samuel-yeboah-anklage-gegen-neonazi-erhoben-a-2c4cfd1d-f173-4414-9198-ccf61be8f042#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-und-spd-in-hessen-und-wieder-lockt-die-groko](https://www.spiegel.de/politik/deutschland/cdu-und-spd-in-hessen-und-wieder-lockt-die-groko-a-405398f1-611c-4f74-91db-bd6f42e69aa7#ref=rss)
-### lang
-
-* [https://www.spiegel.de/politik/deutschland/migration-gruenen-chefin-ricarda-lang-kritisiert-ueberbietungswettbewerb](https://www.spiegel.de/politik/deutschland/migration-gruenen-chefin-ricarda-lang-kritisiert-ueberbietungswettbewerb-a-03818db2-1416-4efc-93d4-91ea083d8330#ref=rss)
-* [https://www.spiegel.de/karriere/job-und-karriere-wie-finde-ich-eine-firma-mit-passender-unternehmenskultur](https://www.spiegel.de/karriere/job-und-karriere-wie-finde-ich-eine-firma-mit-passender-unternehmenskultur-a-428d1b5b-91e8-4407-b167-03a1ab2b695b#ref=rss)
-* [https://www.spiegel.de/panorama/a7-in-hamburg-elbtunnel-wird-am-wochenende-wegen-bauarbeiten-voll-gesperrt](https://www.spiegel.de/panorama/a7-in-hamburg-elbtunnel-wird-am-wochenende-wegen-bauarbeiten-voll-gesperrt-a-ebc5cc4a-54bc-4a0a-a836-38ff16fc0e2a#ref=rss)
-### berliner
-
-* [https://www.spiegel.de/politik/deutschland/cansel-kiziltepe-berliner-spd-sozialsenatorin-rechnet-mit-mpk-beschluessen-ab](https://www.spiegel.de/politik/deutschland/cansel-kiziltepe-berliner-spd-sozialsenatorin-rechnet-mit-mpk-beschluessen-ab-a-560d14ae-e848-441b-a511-398b2be3fe78#ref=rss)
-* [https://www.spiegel.de/auto/berliner-verabschieden-sich-von-coladosen-bahnen](https://www.spiegel.de/auto/berliner-verabschieden-sich-von-coladosen-bahnen-a-3dbf26bb-5dca-4ea7-a3af-7cda6c984a8f#ref=rss)
-### platz
-
-* [https://www.spiegel.de/kultur/kino/the-marvels-schwaechster-start-aus-dem-marvel-cinematic-universe](https://www.spiegel.de/kultur/kino/the-marvels-schwaechster-start-aus-dem-marvel-cinematic-universe-a-07886890-fe36-484d-bbf0-04c2e630d579#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-beendet-zum-achten-mal-ein-tennisjahr-auf-platz-eins](https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-beendet-zum-achten-mal-ein-tennisjahr-auf-platz-eins-a-8b114e21-314b-4a17-a1d2-38c32ebdc21d#ref=rss)
-### eins
-
-* [https://www.spiegel.de/kultur/kino/the-marvels-schwaechster-start-aus-dem-marvel-cinematic-universe](https://www.spiegel.de/kultur/kino/the-marvels-schwaechster-start-aus-dem-marvel-cinematic-universe-a-07886890-fe36-484d-bbf0-04c2e630d579#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-beendet-zum-achten-mal-ein-tennisjahr-auf-platz-eins](https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-beendet-zum-achten-mal-ein-tennisjahr-auf-platz-eins-a-8b114e21-314b-4a17-a1d2-38c32ebdc21d#ref=rss)
-### 20
-
-* [https://www.spiegel.de/panorama/bildung/einschulungen-zahl-der-schulanfaenger-auf-hoechstem-stand-seit-20-jahren](https://www.spiegel.de/panorama/bildung/einschulungen-zahl-der-schulanfaenger-auf-hoechstem-stand-seit-20-jahren-a-56dc2cb3-902e-4134-9fe1-a5ac916e157e#ref=rss)
-* [https://www.spiegel.de/panorama/leute/cem-oezdemir-und-pia-castro-haben-sich-getrennt](https://www.spiegel.de/panorama/leute/cem-oezdemir-und-pia-castro-haben-sich-getrennt-a-6835e2bd-2081-4b68-b8e2-851d2de43874#ref=rss)
-* [https://www.spiegel.de/reise/europa/iron-curtain-trail-abenteurerin-rebecca-maria-salentin-ueber-ihre-reise-durch-osteuropa](https://www.spiegel.de/reise/europa/iron-curtain-trail-abenteurerin-rebecca-maria-salentin-ueber-ihre-reise-durch-osteuropa-a-e25b283e-1028-4a97-a6a4-94207df62c7e#ref=rss)
-### wochenende
-
-* [https://www.spiegel.de/auto/berliner-verabschieden-sich-von-coladosen-bahnen](https://www.spiegel.de/auto/berliner-verabschieden-sich-von-coladosen-bahnen-a-3dbf26bb-5dca-4ea7-a3af-7cda6c984a8f#ref=rss)
-* [https://www.spiegel.de/panorama/a7-in-hamburg-elbtunnel-wird-am-wochenende-wegen-bauarbeiten-voll-gesperrt](https://www.spiegel.de/panorama/a7-in-hamburg-elbtunnel-wird-am-wochenende-wegen-bauarbeiten-voll-gesperrt-a-ebc5cc4a-54bc-4a0a-a836-38ff16fc0e2a#ref=rss)
-### zehn
-
-* [https://www.spiegel.de/wirtschaft/rene-benko-und-signa-zehn-grosse-baustellen-im-ueberblick](https://www.spiegel.de/wirtschaft/rene-benko-und-signa-zehn-grosse-baustellen-im-ueberblick-a-045455ae-4cf1-4eb0-b408-3847a86b2a92#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-und-spd-in-hessen-und-wieder-lockt-die-groko](https://www.spiegel.de/politik/deutschland/cdu-und-spd-in-hessen-und-wieder-lockt-die-groko-a-405398f1-611c-4f74-91db-bd6f42e69aa7#ref=rss)
-### laut
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/gastronomie-gewerkschaft-beklagt-ueberlastung-in-kuechen-und-restaurants](https://www.spiegel.de/wirtschaft/unternehmen/gastronomie-gewerkschaft-beklagt-ueberlastung-in-kuechen-und-restaurants-a-f2be245f-362c-4305-8384-a1f360a5ea72#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/oeffentlicher-dienst-befristete-vertraege-sollen-stark-angestiegen-sein](https://www.spiegel.de/wirtschaft/unternehmen/oeffentlicher-dienst-befristete-vertraege-sollen-stark-angestiegen-sein-a-a6a75b37-f9ed-446c-be9e-4eda32bf2233#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/greussen-in-thueringen-jaeger-soll-kollegen-ins-gesicht-geschossen-haben](https://www.spiegel.de/panorama/justiz/greussen-in-thueringen-jaeger-soll-kollegen-ins-gesicht-geschossen-haben-a-c7c967df-644e-4ece-a668-94aa08fd3b50#ref=rss)
-### kiziltepe
-
-* [https://www.spiegel.de/politik/deutschland/cansel-kiziltepe-berliner-spd-sozialsenatorin-rechnet-mit-mpk-beschluessen-ab](https://www.spiegel.de/politik/deutschland/cansel-kiziltepe-berliner-spd-sozialsenatorin-rechnet-mit-mpk-beschluessen-ab-a-560d14ae-e848-441b-a511-398b2be3fe78#ref=rss)
-### migration
-
-* [https://www.spiegel.de/politik/deutschland/cansel-kiziltepe-berliner-spd-sozialsenatorin-rechnet-mit-mpk-beschluessen-ab](https://www.spiegel.de/politik/deutschland/cansel-kiziltepe-berliner-spd-sozialsenatorin-rechnet-mit-mpk-beschluessen-ab-a-560d14ae-e848-441b-a511-398b2be3fe78#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/migration-gruenen-chefin-ricarda-lang-kritisiert-ueberbietungswettbewerb](https://www.spiegel.de/politik/deutschland/migration-gruenen-chefin-ricarda-lang-kritisiert-ueberbietungswettbewerb-a-03818db2-1416-4efc-93d4-91ea083d8330#ref=rss)
-### the
-
-* [https://www.spiegel.de/kultur/kino/the-marvels-schwaechster-start-aus-dem-marvel-cinematic-universe](https://www.spiegel.de/kultur/kino/the-marvels-schwaechster-start-aus-dem-marvel-cinematic-universe-a-07886890-fe36-484d-bbf0-04c2e630d579#ref=rss)
-### marvels
-
-* [https://www.spiegel.de/kultur/kino/the-marvels-schwaechster-start-aus-dem-marvel-cinematic-universe](https://www.spiegel.de/kultur/kino/the-marvels-schwaechster-start-aus-dem-marvel-cinematic-universe-a-07886890-fe36-484d-bbf0-04c2e630d579#ref=rss)
-### los
-
-* [https://www.spiegel.de/panorama/justiz/los-angeles-grossbrand-legt-autobahn-lahm](https://www.spiegel.de/panorama/justiz/los-angeles-grossbrand-legt-autobahn-lahm-a-632f29f8-3922-44a9-a02e-d788e3c9d343#ref=rss)
-### angeles
-
-* [https://www.spiegel.de/panorama/justiz/los-angeles-grossbrand-legt-autobahn-lahm](https://www.spiegel.de/panorama/justiz/los-angeles-grossbrand-legt-autobahn-lahm-a-632f29f8-3922-44a9-a02e-d788e3c9d343#ref=rss)
-### unter
-
-* [https://www.spiegel.de/panorama/justiz/los-angeles-grossbrand-legt-autobahn-lahm](https://www.spiegel.de/panorama/justiz/los-angeles-grossbrand-legt-autobahn-lahm-a-632f29f8-3922-44a9-a02e-d788e3c9d343#ref=rss)
-* [https://www.spiegel.de/sport/fussball/buhrufe-bei-der-hymne-israel-verliert-erstes-laenderspiel-nach-terrorangriff-der-hamas-gegen-kosovo](https://www.spiegel.de/sport/fussball/buhrufe-bei-der-hymne-israel-verliert-erstes-laenderspiel-nach-terrorangriff-der-hamas-gegen-kosovo-a-ef3813ab-4500-461d-a840-b56cfce83e21#ref=rss)
-### zahl
-
-* [https://www.spiegel.de/panorama/bildung/einschulungen-zahl-der-schulanfaenger-auf-hoechstem-stand-seit-20-jahren](https://www.spiegel.de/panorama/bildung/einschulungen-zahl-der-schulanfaenger-auf-hoechstem-stand-seit-20-jahren-a-56dc2cb3-902e-4134-9fe1-a5ac916e157e#ref=rss)
-### 2023
-
-* [https://www.spiegel.de/panorama/bildung/einschulungen-zahl-der-schulanfaenger-auf-hoechstem-stand-seit-20-jahren](https://www.spiegel.de/panorama/bildung/einschulungen-zahl-der-schulanfaenger-auf-hoechstem-stand-seit-20-jahren-a-56dc2cb3-902e-4134-9fe1-a5ac916e157e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/jahreshauptversammlung-des-fc-bayern-muenchen-harmonie-beim-freibier](https://www.spiegel.de/sport/fussball/jahreshauptversammlung-des-fc-bayern-muenchen-harmonie-beim-freibier-a-9c2aad91-cbd3-4404-8cb7-8316b3d6313b#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/panorama/bildung/einschulungen-zahl-der-schulanfaenger-auf-hoechstem-stand-seit-20-jahren](https://www.spiegel.de/panorama/bildung/einschulungen-zahl-der-schulanfaenger-auf-hoechstem-stand-seit-20-jahren-a-56dc2cb3-902e-4134-9fe1-a5ac916e157e#ref=rss)
-* [https://www.spiegel.de/panorama/leute/cem-oezdemir-und-pia-castro-haben-sich-getrennt](https://www.spiegel.de/panorama/leute/cem-oezdemir-und-pia-castro-haben-sich-getrennt-a-6835e2bd-2081-4b68-b8e2-851d2de43874#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/bildung/einschulungen-zahl-der-schulanfaenger-auf-hoechstem-stand-seit-20-jahren](https://www.spiegel.de/panorama/bildung/einschulungen-zahl-der-schulanfaenger-auf-hoechstem-stand-seit-20-jahren-a-56dc2cb3-902e-4134-9fe1-a5ac916e157e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-saskia-esken-und-lars-klingbeil-kandidieren-erneut-fuer-parteivorsitz](https://www.spiegel.de/politik/deutschland/spd-saskia-esken-und-lars-klingbeil-kandidieren-erneut-fuer-parteivorsitz-a-c826fd5f-79fd-4248-9c1b-f40d850ddee3#ref=rss)
-### felix
-
-* [https://www.spiegel.de/sport/fussball/felix-nmecha-mit-hueftproblemen-hoffenheimer-grischa-proemel-fuer-die-nationalmannschaft-nachnominiert](https://www.spiegel.de/sport/fussball/felix-nmecha-mit-hueftproblemen-hoffenheimer-grischa-proemel-fuer-die-nationalmannschaft-nachnominiert-a-4061d522-bf5f-491e-84d3-4032f1e5979a#ref=rss)
-### nmecha
-
-* [https://www.spiegel.de/sport/fussball/felix-nmecha-mit-hueftproblemen-hoffenheimer-grischa-proemel-fuer-die-nationalmannschaft-nachnominiert](https://www.spiegel.de/sport/fussball/felix-nmecha-mit-hueftproblemen-hoffenheimer-grischa-proemel-fuer-die-nationalmannschaft-nachnominiert-a-4061d522-bf5f-491e-84d3-4032f1e5979a#ref=rss)
-### grischa
-
-* [https://www.spiegel.de/sport/fussball/felix-nmecha-mit-hueftproblemen-hoffenheimer-grischa-proemel-fuer-die-nationalmannschaft-nachnominiert](https://www.spiegel.de/sport/fussball/felix-nmecha-mit-hueftproblemen-hoffenheimer-grischa-proemel-fuer-die-nationalmannschaft-nachnominiert-a-4061d522-bf5f-491e-84d3-4032f1e5979a#ref=rss)
-### prömel
-
-* [https://www.spiegel.de/sport/fussball/felix-nmecha-mit-hueftproblemen-hoffenheimer-grischa-proemel-fuer-die-nationalmannschaft-nachnominiert](https://www.spiegel.de/sport/fussball/felix-nmecha-mit-hueftproblemen-hoffenheimer-grischa-proemel-fuer-die-nationalmannschaft-nachnominiert-a-4061d522-bf5f-491e-84d3-4032f1e5979a#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/jahreshauptversammlung-des-fc-bayern-muenchen-harmonie-beim-freibier](https://www.spiegel.de/sport/fussball/jahreshauptversammlung-des-fc-bayern-muenchen-harmonie-beim-freibier-a-9c2aad91-cbd3-4404-8cb7-8316b3d6313b#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/jahreshauptversammlung-des-fc-bayern-muenchen-harmonie-beim-freibier](https://www.spiegel.de/sport/fussball/jahreshauptversammlung-des-fc-bayern-muenchen-harmonie-beim-freibier-a-9c2aad91-cbd3-4404-8cb7-8316b3d6313b#ref=rss)
-### anders
-
-* [https://www.spiegel.de/sport/fussball/jahreshauptversammlung-des-fc-bayern-muenchen-harmonie-beim-freibier](https://www.spiegel.de/sport/fussball/jahreshauptversammlung-des-fc-bayern-muenchen-harmonie-beim-freibier-a-9c2aad91-cbd3-4404-8cb7-8316b3d6313b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/greussen-in-thueringen-jaeger-soll-kollegen-ins-gesicht-geschossen-haben](https://www.spiegel.de/panorama/justiz/greussen-in-thueringen-jaeger-soll-kollegen-ins-gesicht-geschossen-haben-a-c7c967df-644e-4ece-a668-94aa08fd3b50#ref=rss)
-### waren
-
-* [https://www.spiegel.de/auto/berliner-verabschieden-sich-von-coladosen-bahnen](https://www.spiegel.de/auto/berliner-verabschieden-sich-von-coladosen-bahnen-a-3dbf26bb-5dca-4ea7-a3af-7cda6c984a8f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/raphael-dwamena-ex-nationalspieler-aus-ghana-stirbt-nach-kollaps-auf-dem-spielfeld](https://www.spiegel.de/sport/fussball/raphael-dwamena-ex-nationalspieler-aus-ghana-stirbt-nach-kollaps-auf-dem-spielfeld-a-95a1d99e-4e73-43c7-8308-d153b9fe0eb2#ref=rss)
-### rené
-
-* [https://www.spiegel.de/wirtschaft/rene-benko-und-signa-zehn-grosse-baustellen-im-ueberblick](https://www.spiegel.de/wirtschaft/rene-benko-und-signa-zehn-grosse-baustellen-im-ueberblick-a-045455ae-4cf1-4eb0-b408-3847a86b2a92#ref=rss)
-### große
-
-* [https://www.spiegel.de/wirtschaft/rene-benko-und-signa-zehn-grosse-baustellen-im-ueberblick](https://www.spiegel.de/wirtschaft/rene-benko-und-signa-zehn-grosse-baustellen-im-ueberblick-a-045455ae-4cf1-4eb0-b408-3847a86b2a92#ref=rss)
-### baustellen
-
-* [https://www.spiegel.de/wirtschaft/rene-benko-und-signa-zehn-grosse-baustellen-im-ueberblick](https://www.spiegel.de/wirtschaft/rene-benko-und-signa-zehn-grosse-baustellen-im-ueberblick-a-045455ae-4cf1-4eb0-b408-3847a86b2a92#ref=rss)
-### überblick
-
-* [https://www.spiegel.de/wirtschaft/rene-benko-und-signa-zehn-grosse-baustellen-im-ueberblick](https://www.spiegel.de/wirtschaft/rene-benko-und-signa-zehn-grosse-baustellen-im-ueberblick-a-045455ae-4cf1-4eb0-b408-3847a86b2a92#ref=rss)
-### liegt
-
-* [https://www.spiegel.de/wirtschaft/rene-benko-und-signa-zehn-grosse-baustellen-im-ueberblick](https://www.spiegel.de/wirtschaft/rene-benko-und-signa-zehn-grosse-baustellen-im-ueberblick-a-045455ae-4cf1-4eb0-b408-3847a86b2a92#ref=rss)
-* [https://www.spiegel.de/ausland/us-republikaner-tim-scott-zieht-praesidentschaftsbewerbung-zurueck-keine-chance-gegen-donald-trump](https://www.spiegel.de/ausland/us-republikaner-tim-scott-zieht-praesidentschaftsbewerbung-zurueck-keine-chance-gegen-donald-trump-a-d685f945-89d8-4b8d-b395-06bd1cce25f3#ref=rss)
-### saskia
-
-* [https://www.spiegel.de/politik/deutschland/spd-saskia-esken-und-lars-klingbeil-kandidieren-erneut-fuer-parteivorsitz](https://www.spiegel.de/politik/deutschland/spd-saskia-esken-und-lars-klingbeil-kandidieren-erneut-fuer-parteivorsitz-a-c826fd5f-79fd-4248-9c1b-f40d850ddee3#ref=rss)
-### esken
-
-* [https://www.spiegel.de/politik/deutschland/spd-saskia-esken-und-lars-klingbeil-kandidieren-erneut-fuer-parteivorsitz](https://www.spiegel.de/politik/deutschland/spd-saskia-esken-und-lars-klingbeil-kandidieren-erneut-fuer-parteivorsitz-a-c826fd5f-79fd-4248-9c1b-f40d850ddee3#ref=rss)
-### lars
-
-* [https://www.spiegel.de/politik/deutschland/spd-saskia-esken-und-lars-klingbeil-kandidieren-erneut-fuer-parteivorsitz](https://www.spiegel.de/politik/deutschland/spd-saskia-esken-und-lars-klingbeil-kandidieren-erneut-fuer-parteivorsitz-a-c826fd5f-79fd-4248-9c1b-f40d850ddee3#ref=rss)
-### klingbeil
-
-* [https://www.spiegel.de/politik/deutschland/spd-saskia-esken-und-lars-klingbeil-kandidieren-erneut-fuer-parteivorsitz](https://www.spiegel.de/politik/deutschland/spd-saskia-esken-und-lars-klingbeil-kandidieren-erneut-fuer-parteivorsitz-a-c826fd5f-79fd-4248-9c1b-f40d850ddee3#ref=rss)
-### australien
-
-* [https://www.spiegel.de/netzwelt/web/australien-haefen-nach-cyberangriff-tagelang-blockiert-zehntausende-container-stauen-sich](https://www.spiegel.de/netzwelt/web/australien-haefen-nach-cyberangriff-tagelang-blockiert-zehntausende-container-stauen-sich-a-b57c87b3-6cdf-4bc9-b8e2-92db042f143d#ref=rss)
-### häfen
-
-* [https://www.spiegel.de/netzwelt/web/australien-haefen-nach-cyberangriff-tagelang-blockiert-zehntausende-container-stauen-sich](https://www.spiegel.de/netzwelt/web/australien-haefen-nach-cyberangriff-tagelang-blockiert-zehntausende-container-stauen-sich-a-b57c87b3-6cdf-4bc9-b8e2-92db042f143d#ref=rss)
-### tagelang
-
-* [https://www.spiegel.de/netzwelt/web/australien-haefen-nach-cyberangriff-tagelang-blockiert-zehntausende-container-stauen-sich](https://www.spiegel.de/netzwelt/web/australien-haefen-nach-cyberangriff-tagelang-blockiert-zehntausende-container-stauen-sich-a-b57c87b3-6cdf-4bc9-b8e2-92db042f143d#ref=rss)
-### cem
-
-* [https://www.spiegel.de/panorama/leute/cem-oezdemir-und-pia-castro-haben-sich-getrennt](https://www.spiegel.de/panorama/leute/cem-oezdemir-und-pia-castro-haben-sich-getrennt-a-6835e2bd-2081-4b68-b8e2-851d2de43874#ref=rss)
-### özdemir
-
-* [https://www.spiegel.de/panorama/leute/cem-oezdemir-und-pia-castro-haben-sich-getrennt](https://www.spiegel.de/panorama/leute/cem-oezdemir-und-pia-castro-haben-sich-getrennt-a-6835e2bd-2081-4b68-b8e2-851d2de43874#ref=rss)
-### pia
-
-* [https://www.spiegel.de/panorama/leute/cem-oezdemir-und-pia-castro-haben-sich-getrennt](https://www.spiegel.de/panorama/leute/cem-oezdemir-und-pia-castro-haben-sich-getrennt-a-6835e2bd-2081-4b68-b8e2-851d2de43874#ref=rss)
-### castro
-
-* [https://www.spiegel.de/panorama/leute/cem-oezdemir-und-pia-castro-haben-sich-getrennt](https://www.spiegel.de/panorama/leute/cem-oezdemir-und-pia-castro-haben-sich-getrennt-a-6835e2bd-2081-4b68-b8e2-851d2de43874#ref=rss)
-### grünenpolitiker
-
-* [https://www.spiegel.de/panorama/leute/cem-oezdemir-und-pia-castro-haben-sich-getrennt](https://www.spiegel.de/panorama/leute/cem-oezdemir-und-pia-castro-haben-sich-getrennt-a-6835e2bd-2081-4b68-b8e2-851d2de43874#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/migration-gruenen-chefin-ricarda-lang-kritisiert-ueberbietungswettbewerb](https://www.spiegel.de/politik/deutschland/migration-gruenen-chefin-ricarda-lang-kritisiert-ueberbietungswettbewerb-a-03818db2-1416-4efc-93d4-91ea083d8330#ref=rss)
-### konnten
-
-* [https://www.spiegel.de/sport/fussball/buhrufe-bei-der-hymne-israel-verliert-erstes-laenderspiel-nach-terrorangriff-der-hamas-gegen-kosovo](https://www.spiegel.de/sport/fussball/buhrufe-bei-der-hymne-israel-verliert-erstes-laenderspiel-nach-terrorangriff-der-hamas-gegen-kosovo-a-ef3813ab-4500-461d-a840-b56cfce83e21#ref=rss)
-* [https://www.spiegel.de/panorama/indien-retter-versuchen-40-verschuettete-arbeiter-zu-befreien](https://www.spiegel.de/panorama/indien-retter-versuchen-40-verschuettete-arbeiter-zu-befreien-a-04ea2025-8e10-4f91-98a9-1bf0a316565e#ref=rss)
-### gastronomie
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/gastronomie-gewerkschaft-beklagt-ueberlastung-in-kuechen-und-restaurants](https://www.spiegel.de/wirtschaft/unternehmen/gastronomie-gewerkschaft-beklagt-ueberlastung-in-kuechen-und-restaurants-a-f2be245f-362c-4305-8384-a1f360a5ea72#ref=rss)
-### gewerkschaft
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/gastronomie-gewerkschaft-beklagt-ueberlastung-in-kuechen-und-restaurants](https://www.spiegel.de/wirtschaft/unternehmen/gastronomie-gewerkschaft-beklagt-ueberlastung-in-kuechen-und-restaurants-a-f2be245f-362c-4305-8384-a1f360a5ea72#ref=rss)
-### knapp
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/gastronomie-gewerkschaft-beklagt-ueberlastung-in-kuechen-und-restaurants](https://www.spiegel.de/wirtschaft/unternehmen/gastronomie-gewerkschaft-beklagt-ueberlastung-in-kuechen-und-restaurants-a-f2be245f-362c-4305-8384-a1f360a5ea72#ref=rss)
-* [https://www.spiegel.de/reise/europa/iron-curtain-trail-abenteurerin-rebecca-maria-salentin-ueber-ihre-reise-durch-osteuropa](https://www.spiegel.de/reise/europa/iron-curtain-trail-abenteurerin-rebecca-maria-salentin-ueber-ihre-reise-durch-osteuropa-a-e25b283e-1028-4a97-a6a4-94207df62c7e#ref=rss)
-### raphael
-
-* [https://www.spiegel.de/sport/fussball/raphael-dwamena-ex-nationalspieler-aus-ghana-stirbt-nach-kollaps-auf-dem-spielfeld](https://www.spiegel.de/sport/fussball/raphael-dwamena-ex-nationalspieler-aus-ghana-stirbt-nach-kollaps-auf-dem-spielfeld-a-95a1d99e-4e73-43c7-8308-d153b9fe0eb2#ref=rss)
-### dwamena
-
-* [https://www.spiegel.de/sport/fussball/raphael-dwamena-ex-nationalspieler-aus-ghana-stirbt-nach-kollaps-auf-dem-spielfeld](https://www.spiegel.de/sport/fussball/raphael-dwamena-ex-nationalspieler-aus-ghana-stirbt-nach-kollaps-auf-dem-spielfeld-a-95a1d99e-4e73-43c7-8308-d153b9fe0eb2#ref=rss)
-### indien
-
-* [https://www.spiegel.de/panorama/indien-retter-versuchen-40-verschuettete-arbeiter-zu-befreien](https://www.spiegel.de/panorama/indien-retter-versuchen-40-verschuettete-arbeiter-zu-befreien-a-04ea2025-8e10-4f91-98a9-1bf0a316565e#ref=rss)
-### 40
-
-* [https://www.spiegel.de/panorama/indien-retter-versuchen-40-verschuettete-arbeiter-zu-befreien](https://www.spiegel.de/panorama/indien-retter-versuchen-40-verschuettete-arbeiter-zu-befreien-a-04ea2025-8e10-4f91-98a9-1bf0a316565e#ref=rss)
-### tunnel
-
-* [https://www.spiegel.de/panorama/indien-retter-versuchen-40-verschuettete-arbeiter-zu-befreien](https://www.spiegel.de/panorama/indien-retter-versuchen-40-verschuettete-arbeiter-zu-befreien-a-04ea2025-8e10-4f91-98a9-1bf0a316565e#ref=rss)
-### befreien
-
-* [https://www.spiegel.de/panorama/indien-retter-versuchen-40-verschuettete-arbeiter-zu-befreien](https://www.spiegel.de/panorama/indien-retter-versuchen-40-verschuettete-arbeiter-zu-befreien-a-04ea2025-8e10-4f91-98a9-1bf0a316565e#ref=rss)
-### ricarda
-
-* [https://www.spiegel.de/politik/deutschland/migration-gruenen-chefin-ricarda-lang-kritisiert-ueberbietungswettbewerb](https://www.spiegel.de/politik/deutschland/migration-gruenen-chefin-ricarda-lang-kritisiert-ueberbietungswettbewerb-a-03818db2-1416-4efc-93d4-91ea083d8330#ref=rss)
-### suella
-
-* [https://www.spiegel.de/ausland/suella-braverman-umstrittene-britische-innenministerin-entlassen](https://www.spiegel.de/ausland/suella-braverman-umstrittene-britische-innenministerin-entlassen-a-de3e3981-c580-48ab-97a5-18dd5e0131c8#ref=rss)
-### braverman
-
-* [https://www.spiegel.de/ausland/suella-braverman-umstrittene-britische-innenministerin-entlassen](https://www.spiegel.de/ausland/suella-braverman-umstrittene-britische-innenministerin-entlassen-a-de3e3981-c580-48ab-97a5-18dd5e0131c8#ref=rss)
-### umstrittene
-
-* [https://www.spiegel.de/ausland/suella-braverman-umstrittene-britische-innenministerin-entlassen](https://www.spiegel.de/ausland/suella-braverman-umstrittene-britische-innenministerin-entlassen-a-de3e3981-c580-48ab-97a5-18dd5e0131c8#ref=rss)
-### britische
-
-* [https://www.spiegel.de/ausland/suella-braverman-umstrittene-britische-innenministerin-entlassen](https://www.spiegel.de/ausland/suella-braverman-umstrittene-britische-innenministerin-entlassen-a-de3e3981-c580-48ab-97a5-18dd5e0131c8#ref=rss)
-### innenministerin
-
-* [https://www.spiegel.de/ausland/suella-braverman-umstrittene-britische-innenministerin-entlassen](https://www.spiegel.de/ausland/suella-braverman-umstrittene-britische-innenministerin-entlassen-a-de3e3981-c580-48ab-97a5-18dd5e0131c8#ref=rss)
-### david
-
-* [https://www.spiegel.de/ausland/suella-braverman-umstrittene-britische-innenministerin-entlassen](https://www.spiegel.de/ausland/suella-braverman-umstrittene-britische-innenministerin-entlassen-a-de3e3981-c580-48ab-97a5-18dd5e0131c8#ref=rss)
-### cameron
-
-* [https://www.spiegel.de/ausland/suella-braverman-umstrittene-britische-innenministerin-entlassen](https://www.spiegel.de/ausland/suella-braverman-umstrittene-britische-innenministerin-entlassen-a-de3e3981-c580-48ab-97a5-18dd5e0131c8#ref=rss)
-### außenminister
-
-* [https://www.spiegel.de/ausland/suella-braverman-umstrittene-britische-innenministerin-entlassen](https://www.spiegel.de/ausland/suella-braverman-umstrittene-britische-innenministerin-entlassen-a-de3e3981-c580-48ab-97a5-18dd5e0131c8#ref=rss)
-### mario
-
-* [https://www.spiegel.de/politik/deutschland/mario-voigt-staatsanwaltschaft-stellt-ermittlungen-gegen-cdu-chef-ein](https://www.spiegel.de/politik/deutschland/mario-voigt-staatsanwaltschaft-stellt-ermittlungen-gegen-cdu-chef-ein-a-f511c963-3211-43eb-b9fd-7a7f98ebfa3d#ref=rss)
-### voigt
-
-* [https://www.spiegel.de/politik/deutschland/mario-voigt-staatsanwaltschaft-stellt-ermittlungen-gegen-cdu-chef-ein](https://www.spiegel.de/politik/deutschland/mario-voigt-staatsanwaltschaft-stellt-ermittlungen-gegen-cdu-chef-ein-a-f511c963-3211-43eb-b9fd-7a7f98ebfa3d#ref=rss)
-### staatsanwaltschaft
-
-* [https://www.spiegel.de/politik/deutschland/mario-voigt-staatsanwaltschaft-stellt-ermittlungen-gegen-cdu-chef-ein](https://www.spiegel.de/politik/deutschland/mario-voigt-staatsanwaltschaft-stellt-ermittlungen-gegen-cdu-chef-ein-a-f511c963-3211-43eb-b9fd-7a7f98ebfa3d#ref=rss)
-### iron
-
-* [https://www.spiegel.de/reise/europa/iron-curtain-trail-abenteurerin-rebecca-maria-salentin-ueber-ihre-reise-durch-osteuropa](https://www.spiegel.de/reise/europa/iron-curtain-trail-abenteurerin-rebecca-maria-salentin-ueber-ihre-reise-durch-osteuropa-a-e25b283e-1028-4a97-a6a4-94207df62c7e#ref=rss)
-### curtain
-
-* [https://www.spiegel.de/reise/europa/iron-curtain-trail-abenteurerin-rebecca-maria-salentin-ueber-ihre-reise-durch-osteuropa](https://www.spiegel.de/reise/europa/iron-curtain-trail-abenteurerin-rebecca-maria-salentin-ueber-ihre-reise-durch-osteuropa-a-e25b283e-1028-4a97-a6a4-94207df62c7e#ref=rss)
-### trail
-
-* [https://www.spiegel.de/reise/europa/iron-curtain-trail-abenteurerin-rebecca-maria-salentin-ueber-ihre-reise-durch-osteuropa](https://www.spiegel.de/reise/europa/iron-curtain-trail-abenteurerin-rebecca-maria-salentin-ueber-ihre-reise-durch-osteuropa-a-e25b283e-1028-4a97-a6a4-94207df62c7e#ref=rss)
-### rebecca
-
-* [https://www.spiegel.de/reise/europa/iron-curtain-trail-abenteurerin-rebecca-maria-salentin-ueber-ihre-reise-durch-osteuropa](https://www.spiegel.de/reise/europa/iron-curtain-trail-abenteurerin-rebecca-maria-salentin-ueber-ihre-reise-durch-osteuropa-a-e25b283e-1028-4a97-a6a4-94207df62c7e#ref=rss)
-### maria
-
-* [https://www.spiegel.de/reise/europa/iron-curtain-trail-abenteurerin-rebecca-maria-salentin-ueber-ihre-reise-durch-osteuropa](https://www.spiegel.de/reise/europa/iron-curtain-trail-abenteurerin-rebecca-maria-salentin-ueber-ihre-reise-durch-osteuropa-a-e25b283e-1028-4a97-a6a4-94207df62c7e#ref=rss)
-### salentin
-
-* [https://www.spiegel.de/reise/europa/iron-curtain-trail-abenteurerin-rebecca-maria-salentin-ueber-ihre-reise-durch-osteuropa](https://www.spiegel.de/reise/europa/iron-curtain-trail-abenteurerin-rebecca-maria-salentin-ueber-ihre-reise-durch-osteuropa-a-e25b283e-1028-4a97-a6a4-94207df62c7e#ref=rss)
-### dienst
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/oeffentlicher-dienst-befristete-vertraege-sollen-stark-angestiegen-sein](https://www.spiegel.de/wirtschaft/unternehmen/oeffentlicher-dienst-befristete-vertraege-sollen-stark-angestiegen-sein-a-a6a75b37-f9ed-446c-be9e-4eda32bf2233#ref=rss)
-### gilt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/oeffentlicher-dienst-befristete-vertraege-sollen-stark-angestiegen-sein](https://www.spiegel.de/wirtschaft/unternehmen/oeffentlicher-dienst-befristete-vertraege-sollen-stark-angestiegen-sein-a-a6a75b37-f9ed-446c-be9e-4eda32bf2233#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-drohende-streiks-in-tarifstreit-mit-gdl-volker-wissing-fuer-weihnachtsfrieden](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-drohende-streiks-in-tarifstreit-mit-gdl-volker-wissing-fuer-weihnachtsfrieden-a-1b0d9f4c-6803-448a-b350-e9d8dd8af75c#ref=rss)
-### saarlouis
-
-* [https://www.spiegel.de/panorama/justiz/brandanschlag-in-saarlouis-32-jahren-nach-mordfall-samuel-yeboah-anklage-gegen-neonazi-erhoben](https://www.spiegel.de/panorama/justiz/brandanschlag-in-saarlouis-32-jahren-nach-mordfall-samuel-yeboah-anklage-gegen-neonazi-erhoben-a-2c4cfd1d-f173-4414-9198-ccf61be8f042#ref=rss)
-### samuel
-
-* [https://www.spiegel.de/panorama/justiz/brandanschlag-in-saarlouis-32-jahren-nach-mordfall-samuel-yeboah-anklage-gegen-neonazi-erhoben](https://www.spiegel.de/panorama/justiz/brandanschlag-in-saarlouis-32-jahren-nach-mordfall-samuel-yeboah-anklage-gegen-neonazi-erhoben-a-2c4cfd1d-f173-4414-9198-ccf61be8f042#ref=rss)
-### yeboah
-
-* [https://www.spiegel.de/panorama/justiz/brandanschlag-in-saarlouis-32-jahren-nach-mordfall-samuel-yeboah-anklage-gegen-neonazi-erhoben](https://www.spiegel.de/panorama/justiz/brandanschlag-in-saarlouis-32-jahren-nach-mordfall-samuel-yeboah-anklage-gegen-neonazi-erhoben-a-2c4cfd1d-f173-4414-9198-ccf61be8f042#ref=rss)
-### anklage
-
-* [https://www.spiegel.de/panorama/justiz/brandanschlag-in-saarlouis-32-jahren-nach-mordfall-samuel-yeboah-anklage-gegen-neonazi-erhoben](https://www.spiegel.de/panorama/justiz/brandanschlag-in-saarlouis-32-jahren-nach-mordfall-samuel-yeboah-anklage-gegen-neonazi-erhoben-a-2c4cfd1d-f173-4414-9198-ccf61be8f042#ref=rss)
-### neonazi
-
-* [https://www.spiegel.de/panorama/justiz/brandanschlag-in-saarlouis-32-jahren-nach-mordfall-samuel-yeboah-anklage-gegen-neonazi-erhoben](https://www.spiegel.de/panorama/justiz/brandanschlag-in-saarlouis-32-jahren-nach-mordfall-samuel-yeboah-anklage-gegen-neonazi-erhoben-a-2c4cfd1d-f173-4414-9198-ccf61be8f042#ref=rss)
-### erhoben
-
-* [https://www.spiegel.de/panorama/justiz/brandanschlag-in-saarlouis-32-jahren-nach-mordfall-samuel-yeboah-anklage-gegen-neonazi-erhoben](https://www.spiegel.de/panorama/justiz/brandanschlag-in-saarlouis-32-jahren-nach-mordfall-samuel-yeboah-anklage-gegen-neonazi-erhoben-a-2c4cfd1d-f173-4414-9198-ccf61be8f042#ref=rss)
-### großen
-
-* [https://www.spiegel.de/karriere/job-und-karriere-wie-finde-ich-eine-firma-mit-passender-unternehmenskultur](https://www.spiegel.de/karriere/job-und-karriere-wie-finde-ich-eine-firma-mit-passender-unternehmenskultur-a-428d1b5b-91e8-4407-b167-03a1ab2b695b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-und-spd-in-hessen-und-wieder-lockt-die-groko](https://www.spiegel.de/politik/deutschland/cdu-und-spd-in-hessen-und-wieder-lockt-die-groko-a-405398f1-611c-4f74-91db-bd6f42e69aa7#ref=rss)
-### bedenken
-
-* [https://www.spiegel.de/karriere/job-und-karriere-wie-finde-ich-eine-firma-mit-passender-unternehmenskultur](https://www.spiegel.de/karriere/job-und-karriere-wie-finde-ich-eine-firma-mit-passender-unternehmenskultur-a-428d1b5b-91e8-4407-b167-03a1ab2b695b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-drohende-streiks-in-tarifstreit-mit-gdl-volker-wissing-fuer-weihnachtsfrieden](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-drohende-streiks-in-tarifstreit-mit-gdl-volker-wissing-fuer-weihnachtsfrieden-a-1b0d9f4c-6803-448a-b350-e9d8dd8af75c#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-drohende-streiks-in-tarifstreit-mit-gdl-volker-wissing-fuer-weihnachtsfrieden](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-drohende-streiks-in-tarifstreit-mit-gdl-volker-wissing-fuer-weihnachtsfrieden-a-1b0d9f4c-6803-448a-b350-e9d8dd8af75c#ref=rss)
-### wissing
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-drohende-streiks-in-tarifstreit-mit-gdl-volker-wissing-fuer-weihnachtsfrieden](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-drohende-streiks-in-tarifstreit-mit-gdl-volker-wissing-fuer-weihnachtsfrieden-a-1b0d9f4c-6803-448a-b350-e9d8dd8af75c#ref=rss)
-### elbtunnel
-
-* [https://www.spiegel.de/panorama/a7-in-hamburg-elbtunnel-wird-am-wochenende-wegen-bauarbeiten-voll-gesperrt](https://www.spiegel.de/panorama/a7-in-hamburg-elbtunnel-wird-am-wochenende-wegen-bauarbeiten-voll-gesperrt-a-ebc5cc4a-54bc-4a0a-a836-38ff16fc0e2a#ref=rss)
-### novak
-
-* [https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-beendet-zum-achten-mal-ein-tennisjahr-auf-platz-eins](https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-beendet-zum-achten-mal-ein-tennisjahr-auf-platz-eins-a-8b114e21-314b-4a17-a1d2-38c32ebdc21d#ref=rss)
-### djokovic
-
-* [https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-beendet-zum-achten-mal-ein-tennisjahr-auf-platz-eins](https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-beendet-zum-achten-mal-ein-tennisjahr-auf-platz-eins-a-8b114e21-314b-4a17-a1d2-38c32ebdc21d#ref=rss)
-### achten
-
-* [https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-beendet-zum-achten-mal-ein-tennisjahr-auf-platz-eins](https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-beendet-zum-achten-mal-ein-tennisjahr-auf-platz-eins-a-8b114e21-314b-4a17-a1d2-38c32ebdc21d#ref=rss)
-### thüringen
-
-* [https://www.spiegel.de/panorama/justiz/greussen-in-thueringen-jaeger-soll-kollegen-ins-gesicht-geschossen-haben](https://www.spiegel.de/panorama/justiz/greussen-in-thueringen-jaeger-soll-kollegen-ins-gesicht-geschossen-haben-a-c7c967df-644e-4ece-a668-94aa08fd3b50#ref=rss)
-### jäger
-
-* [https://www.spiegel.de/panorama/justiz/greussen-in-thueringen-jaeger-soll-kollegen-ins-gesicht-geschossen-haben](https://www.spiegel.de/panorama/justiz/greussen-in-thueringen-jaeger-soll-kollegen-ins-gesicht-geschossen-haben-a-c7c967df-644e-4ece-a668-94aa08fd3b50#ref=rss)
+* [https://www.spiegel.de/ausland/maryanne-trump-barry-donald-trumps-aeltere-schwester-stirbt-mit-86-jahren](https://www.spiegel.de/ausland/maryanne-trump-barry-donald-trumps-aeltere-schwester-stirbt-mit-86-jahren-a-47acddd5-5907-4379-8e2b-8cf5f78a5155#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/continental-will-in-autozuliefersparte-tausende-jobs-streichen](https://www.spiegel.de/wirtschaft/unternehmen/continental-will-in-autozuliefersparte-tausende-jobs-streichen-a-288d1513-17d7-4c53-8298-a28e2e662ab9#ref=rss)
+* [https://www.spiegel.de/auto/strassenverkehr-draengeln-hupen-ueberholen-aggressives-verhalten-nimmt-zu](https://www.spiegel.de/auto/strassenverkehr-draengeln-hupen-ueberholen-aggressives-verhalten-nimmt-zu-a-6655a347-484a-40a3-912d-74c3b0b6dfe4#ref=rss)
+### biden
+
+* [https://www.spiegel.de/ausland/naomi-biden-personenschuetzer-von-enkelin-von-joe-biden-schiesst-auf-autoeinbrecher](https://www.spiegel.de/ausland/naomi-biden-personenschuetzer-von-enkelin-von-joe-biden-schiesst-auf-autoeinbrecher-a-98636284-43d9-4938-8088-cb45a30b67d2#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/ausland/naomi-biden-personenschuetzer-von-enkelin-von-joe-biden-schiesst-auf-autoeinbrecher](https://www.spiegel.de/ausland/naomi-biden-personenschuetzer-von-enkelin-von-joe-biden-schiesst-auf-autoeinbrecher-a-98636284-43d9-4938-8088-cb45a30b67d2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/krankenhausreform-bundeslaender-rebellieren-offenbar-gegen-karl-lauterbachs-gesetz](https://www.spiegel.de/wirtschaft/unternehmen/krankenhausreform-bundeslaender-rebellieren-offenbar-gegen-karl-lauterbachs-gesetz-a-88c10ba8-7054-4fbc-8a42-1f1123dd7f17#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/outlook-uebertraegt-jetzt-offenbar-zugangsdaten-an-microsoft](https://www.spiegel.de/netzwelt/apps/outlook-uebertraegt-jetzt-offenbar-zugangsdaten-an-microsoft-a-af2648d7-2a83-4e5b-ac78-913713d72ab9#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/us-republikaner-tim-scott-zieht-praesidentschaftsbewerbung-zurueck-keine-chance-gegen-donald-trump](https://www.spiegel.de/ausland/us-republikaner-tim-scott-zieht-praesidentschaftsbewerbung-zurueck-keine-chance-gegen-donald-trump-a-d685f945-89d8-4b8d-b395-06bd1cce25f3#ref=rss)
-### rente
+* [https://www.spiegel.de/ausland/maryanne-trump-barry-donald-trumps-aeltere-schwester-stirbt-mit-86-jahren](https://www.spiegel.de/ausland/maryanne-trump-barry-donald-trumps-aeltere-schwester-stirbt-mit-86-jahren-a-47acddd5-5907-4379-8e2b-8cf5f78a5155#ref=rss)
+### krieg
 
-* [https://www.spiegel.de/wirtschaft/soziales/rente-olaf-scholz-ueber-eintrittsalter-nach-67-ist-auch-mal-gut](https://www.spiegel.de/wirtschaft/soziales/rente-olaf-scholz-ueber-eintrittsalter-nach-67-ist-auch-mal-gut-a-29270e26-6a28-4c5e-a187-419a581f0d92#ref=rss)
-### scholz
+* [https://www.spiegel.de/ausland/nahostkonflikt-wie-die-psychologin-maren-heldberg-den-krieg-im-gazastreifen-erlebte](https://www.spiegel.de/ausland/nahostkonflikt-wie-die-psychologin-maren-heldberg-den-krieg-im-gazastreifen-erlebte-a-6a163299-7f3c-4bf4-8b89-d31b2bde2fe8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/krieg-in-der-ukraine-baerbock-bestaetigt-plaene-fuer-massiven-ausbau-der-militaerhilfe](https://www.spiegel.de/politik/deutschland/krieg-in-der-ukraine-baerbock-bestaetigt-plaene-fuer-massiven-ausbau-der-militaerhilfe-a-b0bd6937-cded-448d-b14c-88a386f766ec#ref=rss)
+* [https://www.spiegel.de/kultur/nahostkonflikt-ich-fuehle-mich-so-isoliert-und-gedemuetigt-als-palaestinenserin](https://www.spiegel.de/kultur/nahostkonflikt-ich-fuehle-mich-so-isoliert-und-gedemuetigt-als-palaestinenserin-a-cf6d94f9-56b1-42a0-a343-40a803dbc5f5#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/wirtschaft/soziales/rente-olaf-scholz-ueber-eintrittsalter-nach-67-ist-auch-mal-gut](https://www.spiegel.de/wirtschaft/soziales/rente-olaf-scholz-ueber-eintrittsalter-nach-67-ist-auch-mal-gut-a-29270e26-6a28-4c5e-a187-419a581f0d92#ref=rss)
-### schule
+* [https://www.spiegel.de/ausland/nahostkonflikt-wie-die-psychologin-maren-heldberg-den-krieg-im-gazastreifen-erlebte](https://www.spiegel.de/ausland/nahostkonflikt-wie-die-psychologin-maren-heldberg-den-krieg-im-gazastreifen-erlebte-a-6a163299-7f3c-4bf4-8b89-d31b2bde2fe8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/recep-tayyip-erdogan-besucht-olaf-scholz-linke-befuerchtet-schmutzige-deals](https://www.spiegel.de/politik/deutschland/recep-tayyip-erdogan-besucht-olaf-scholz-linke-befuerchtet-schmutzige-deals-a-d938487b-a80d-4a07-9bfb-967d8a9577aa#ref=rss)
+* [https://www.spiegel.de/kultur/nahostkonflikt-ich-fuehle-mich-so-isoliert-und-gedemuetigt-als-palaestinenserin](https://www.spiegel.de/kultur/nahostkonflikt-ich-fuehle-mich-so-isoliert-und-gedemuetigt-als-palaestinenserin-a-cf6d94f9-56b1-42a0-a343-40a803dbc5f5#ref=rss)
+### wann
 
-* [https://www.spiegel.de/panorama/justiz/offenburg-schule-oeffnet-wieder-nach-toedlicher-attacke-kein-normaler-unterricht](https://www.spiegel.de/panorama/justiz/offenburg-schule-oeffnet-wieder-nach-toedlicher-attacke-kein-normaler-unterricht-a-2d77339b-321a-44c4-9a3e-52607e0fc817#ref=rss)
-### grünen
+* [https://www.spiegel.de/wissenschaft/mensch/psychologe-wann-es-gut-ist-geheimnisse-zu-verraten](https://www.spiegel.de/wissenschaft/mensch/psychologe-wann-es-gut-ist-geheimnisse-zu-verraten-a-f5ef20d5-c8ae-40e5-955f-91c1852e9ab9#ref=rss)
+### fürstenwalde
 
-* [https://www.spiegel.de/politik/deutschland/cdu-und-spd-in-hessen-und-wieder-lockt-die-groko](https://www.spiegel.de/politik/deutschland/cdu-und-spd-in-hessen-und-wieder-lockt-die-groko-a-405398f1-611c-4f74-91db-bd6f42e69aa7#ref=rss)
+* [https://www.spiegel.de/panorama/kirche-in-fuerstenwalde-unbekannte-zerstoeren-schaukasten-mit-davidstern-aushang](https://www.spiegel.de/panorama/kirche-in-fuerstenwalde-unbekannte-zerstoeren-schaukasten-mit-davidstern-aushang-a-4547338a-a0d9-4fbd-a40e-a7a231158b9b#ref=rss)
+### unbekannte
+
+* [https://www.spiegel.de/panorama/kirche-in-fuerstenwalde-unbekannte-zerstoeren-schaukasten-mit-davidstern-aushang](https://www.spiegel.de/panorama/kirche-in-fuerstenwalde-unbekannte-zerstoeren-schaukasten-mit-davidstern-aushang-a-4547338a-a0d9-4fbd-a40e-a7a231158b9b#ref=rss)
+### schaukasten
+
+* [https://www.spiegel.de/panorama/kirche-in-fuerstenwalde-unbekannte-zerstoeren-schaukasten-mit-davidstern-aushang](https://www.spiegel.de/panorama/kirche-in-fuerstenwalde-unbekannte-zerstoeren-schaukasten-mit-davidstern-aushang-a-4547338a-a0d9-4fbd-a40e-a7a231158b9b#ref=rss)
+### davidsternaushang
+
+* [https://www.spiegel.de/panorama/kirche-in-fuerstenwalde-unbekannte-zerstoeren-schaukasten-mit-davidstern-aushang](https://www.spiegel.de/panorama/kirche-in-fuerstenwalde-unbekannte-zerstoeren-schaukasten-mit-davidstern-aushang-a-4547338a-a0d9-4fbd-a40e-a7a231158b9b#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/panorama/kirche-in-fuerstenwalde-unbekannte-zerstoeren-schaukasten-mit-davidstern-aushang](https://www.spiegel.de/panorama/kirche-in-fuerstenwalde-unbekannte-zerstoeren-schaukasten-mit-davidstern-aushang-a-4547338a-a0d9-4fbd-a40e-a7a231158b9b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/fdp-ampelgegner-kommen-ziel-fuer-mitgliederbefragung-naeher](https://www.spiegel.de/politik/deutschland/fdp-ampelgegner-kommen-ziel-fuer-mitgliederbefragung-naeher-a-08b5ef61-3ebf-42ec-835b-9642fec1268c#ref=rss)
+### männer
+
+* [https://www.spiegel.de/panorama/kirche-in-fuerstenwalde-unbekannte-zerstoeren-schaukasten-mit-davidstern-aushang](https://www.spiegel.de/panorama/kirche-in-fuerstenwalde-unbekannte-zerstoeren-schaukasten-mit-davidstern-aushang-a-4547338a-a0d9-4fbd-a40e-a7a231158b9b#ref=rss)
+* [https://www.spiegel.de/ausland/naomi-biden-personenschuetzer-von-enkelin-von-joe-biden-schiesst-auf-autoeinbrecher](https://www.spiegel.de/ausland/naomi-biden-personenschuetzer-von-enkelin-von-joe-biden-schiesst-auf-autoeinbrecher-a-98636284-43d9-4938-8088-cb45a30b67d2#ref=rss)
+### naomi
+
+* [https://www.spiegel.de/ausland/naomi-biden-personenschuetzer-von-enkelin-von-joe-biden-schiesst-auf-autoeinbrecher](https://www.spiegel.de/ausland/naomi-biden-personenschuetzer-von-enkelin-von-joe-biden-schiesst-auf-autoeinbrecher-a-98636284-43d9-4938-8088-cb45a30b67d2#ref=rss)
+### drei
+
+* [https://www.spiegel.de/ausland/naomi-biden-personenschuetzer-von-enkelin-von-joe-biden-schiesst-auf-autoeinbrecher](https://www.spiegel.de/ausland/naomi-biden-personenschuetzer-von-enkelin-von-joe-biden-schiesst-auf-autoeinbrecher-a-98636284-43d9-4938-8088-cb45a30b67d2#ref=rss)
+* [https://www.spiegel.de/ausland/nahostkonflikt-wie-die-psychologin-maren-heldberg-den-krieg-im-gazastreifen-erlebte](https://www.spiegel.de/ausland/nahostkonflikt-wie-die-psychologin-maren-heldberg-den-krieg-im-gazastreifen-erlebte-a-6a163299-7f3c-4bf4-8b89-d31b2bde2fe8#ref=rss)
+### alexander
+
+* [https://www.spiegel.de/sport/tennis/atp-finals-tennisprofi-alexander-zverev-besiegt-carlos-alcaraz](https://www.spiegel.de/sport/tennis/atp-finals-tennisprofi-alexander-zverev-besiegt-carlos-alcaraz-a-ba15a542-f599-4e8b-a92a-f0fc5fa4f3da#ref=rss)
+### zverev
+
+* [https://www.spiegel.de/sport/tennis/atp-finals-tennisprofi-alexander-zverev-besiegt-carlos-alcaraz](https://www.spiegel.de/sport/tennis/atp-finals-tennisprofi-alexander-zverev-besiegt-carlos-alcaraz-a-ba15a542-f599-4e8b-a92a-f0fc5fa4f3da#ref=rss)
+### carlos
+
+* [https://www.spiegel.de/sport/tennis/atp-finals-tennisprofi-alexander-zverev-besiegt-carlos-alcaraz](https://www.spiegel.de/sport/tennis/atp-finals-tennisprofi-alexander-zverev-besiegt-carlos-alcaraz-a-ba15a542-f599-4e8b-a92a-f0fc5fa4f3da#ref=rss)
+### alcaraz
+
+* [https://www.spiegel.de/sport/tennis/atp-finals-tennisprofi-alexander-zverev-besiegt-carlos-alcaraz](https://www.spiegel.de/sport/tennis/atp-finals-tennisprofi-alexander-zverev-besiegt-carlos-alcaraz-a-ba15a542-f599-4e8b-a92a-f0fc5fa4f3da#ref=rss)
+### besten
+
+* [https://www.spiegel.de/sport/tennis/atp-finals-tennisprofi-alexander-zverev-besiegt-carlos-alcaraz](https://www.spiegel.de/sport/tennis/atp-finals-tennisprofi-alexander-zverev-besiegt-carlos-alcaraz-a-ba15a542-f599-4e8b-a92a-f0fc5fa4f3da#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/psychologe-wann-es-gut-ist-geheimnisse-zu-verraten](https://www.spiegel.de/wissenschaft/mensch/psychologe-wann-es-gut-ist-geheimnisse-zu-verraten-a-f5ef20d5-c8ae-40e5-955f-91c1852e9ab9#ref=rss)
+### david
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-greta-thunberg-israel-gaza-krieg-david-cameron-ukraine-krieg](https://www.spiegel.de/politik/deutschland/news-des-tages-greta-thunberg-israel-gaza-krieg-david-cameron-ukraine-krieg-a-7398a2f6-b643-49d1-8859-e2f9f11603ae#ref=rss)
+* [https://www.spiegel.de/ausland/david-cameron-comeback-als-britischer-aussenminister-ein-politisch-untoter-soll-es-richten](https://www.spiegel.de/ausland/david-cameron-comeback-als-britischer-aussenminister-ein-politisch-untoter-soll-es-richten-a-a272806c-21cd-49e3-b7e8-d9837396176c#ref=rss)
+### rishi
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-greta-thunberg-israel-gaza-krieg-david-cameron-ukraine-krieg](https://www.spiegel.de/politik/deutschland/news-des-tages-greta-thunberg-israel-gaza-krieg-david-cameron-ukraine-krieg-a-7398a2f6-b643-49d1-8859-e2f9f11603ae#ref=rss)
+* [https://www.spiegel.de/ausland/david-cameron-comeback-als-britischer-aussenminister-ein-politisch-untoter-soll-es-richten](https://www.spiegel.de/ausland/david-cameron-comeback-als-britischer-aussenminister-ein-politisch-untoter-soll-es-richten-a-a272806c-21cd-49e3-b7e8-d9837396176c#ref=rss)
+### sunak
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-greta-thunberg-israel-gaza-krieg-david-cameron-ukraine-krieg](https://www.spiegel.de/politik/deutschland/news-des-tages-greta-thunberg-israel-gaza-krieg-david-cameron-ukraine-krieg-a-7398a2f6-b643-49d1-8859-e2f9f11603ae#ref=rss)
+* [https://www.spiegel.de/ausland/david-cameron-comeback-als-britischer-aussenminister-ein-politisch-untoter-soll-es-richten](https://www.spiegel.de/ausland/david-cameron-comeback-als-britischer-aussenminister-ein-politisch-untoter-soll-es-richten-a-a272806c-21cd-49e3-b7e8-d9837396176c#ref=rss)
+### lage
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-greta-thunberg-israel-gaza-krieg-david-cameron-ukraine-krieg](https://www.spiegel.de/politik/deutschland/news-des-tages-greta-thunberg-israel-gaza-krieg-david-cameron-ukraine-krieg-a-7398a2f6-b643-49d1-8859-e2f9f11603ae#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/island-vulkanausbruch-befuerchtet-wie-schlimm-werden-die-folgen](https://www.spiegel.de/wissenschaft/natur/island-vulkanausbruch-befuerchtet-wie-schlimm-werden-die-folgen-a-4a07e5ae-c647-420f-a00f-29b923c25a2b#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/panorama/justiz/podcast-im-verhoer-der-jahrhundertcoup-1-die-tatnacht-spiegel-tv](https://www.spiegel.de/panorama/justiz/podcast-im-verhoer-der-jahrhundertcoup-1-die-tatnacht-spiegel-tv-a-c3884f22-b886-4c64-af1c-c5dc96c3454e#ref=rss)
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### rätsel
+
+* [https://www.spiegel.de/panorama/justiz/podcast-im-verhoer-der-jahrhundertcoup-1-die-tatnacht-spiegel-tv](https://www.spiegel.de/panorama/justiz/podcast-im-verhoer-der-jahrhundertcoup-1-die-tatnacht-spiegel-tv-a-c3884f22-b886-4c64-af1c-c5dc96c3454e#ref=rss)
+* [https://www.spiegel.de/panorama/norderney-massenhaft-blaue-quallen-angespuelt](https://www.spiegel.de/panorama/norderney-massenhaft-blaue-quallen-angespuelt-a-0895061c-3e06-44c7-ac86-3c63fbfb3a06#ref=rss)
+### gut
+
+* [https://www.spiegel.de/panorama/justiz/podcast-im-verhoer-der-jahrhundertcoup-1-die-tatnacht-spiegel-tv](https://www.spiegel.de/panorama/justiz/podcast-im-verhoer-der-jahrhundertcoup-1-die-tatnacht-spiegel-tv-a-c3884f22-b886-4c64-af1c-c5dc96c3454e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/psychologe-wann-es-gut-ist-geheimnisse-zu-verraten](https://www.spiegel.de/wissenschaft/mensch/psychologe-wann-es-gut-ist-geheimnisse-zu-verraten-a-f5ef20d5-c8ae-40e5-955f-91c1852e9ab9#ref=rss)
+### island
+
+* [https://www.spiegel.de/wissenschaft/natur/island-vulkanausbruch-befuerchtet-wie-schlimm-werden-die-folgen](https://www.spiegel.de/wissenschaft/natur/island-vulkanausbruch-befuerchtet-wie-schlimm-werden-die-folgen-a-4a07e5ae-c647-420f-a00f-29b923c25a2b#ref=rss)
+### vulkanausbruch
+
+* [https://www.spiegel.de/wissenschaft/natur/island-vulkanausbruch-befuerchtet-wie-schlimm-werden-die-folgen](https://www.spiegel.de/wissenschaft/natur/island-vulkanausbruch-befuerchtet-wie-schlimm-werden-die-folgen-a-4a07e5ae-c647-420f-a00f-29b923c25a2b#ref=rss)
+### befürchtet
+
+* [https://www.spiegel.de/wissenschaft/natur/island-vulkanausbruch-befuerchtet-wie-schlimm-werden-die-folgen](https://www.spiegel.de/wissenschaft/natur/island-vulkanausbruch-befuerchtet-wie-schlimm-werden-die-folgen-a-4a07e5ae-c647-420f-a00f-29b923c25a2b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/recep-tayyip-erdogan-besucht-olaf-scholz-linke-befuerchtet-schmutzige-deals](https://www.spiegel.de/politik/deutschland/recep-tayyip-erdogan-besucht-olaf-scholz-linke-befuerchtet-schmutzige-deals-a-d938487b-a80d-4a07-9bfb-967d8a9577aa#ref=rss)
+### insel
+
+* [https://www.spiegel.de/wissenschaft/natur/island-vulkanausbruch-befuerchtet-wie-schlimm-werden-die-folgen](https://www.spiegel.de/wissenschaft/natur/island-vulkanausbruch-befuerchtet-wie-schlimm-werden-die-folgen-a-4a07e5ae-c647-420f-a00f-29b923c25a2b#ref=rss)
+* [https://www.spiegel.de/ausland/david-cameron-comeback-als-britischer-aussenminister-ein-politisch-untoter-soll-es-richten](https://www.spiegel.de/ausland/david-cameron-comeback-als-britischer-aussenminister-ein-politisch-untoter-soll-es-richten-a-a272806c-21cd-49e3-b7e8-d9837396176c#ref=rss)
+### jacob
+
+* [https://www.spiegel.de/ausland/jacob-chansley-qanon-schamane-will-fuer-den-us-kongress-kandidieren](https://www.spiegel.de/ausland/jacob-chansley-qanon-schamane-will-fuer-den-us-kongress-kandidieren-a-bc86f8d1-d2ae-4091-84c7-dc21202a1af8#ref=rss)
+### chansley
+
+* [https://www.spiegel.de/ausland/jacob-chansley-qanon-schamane-will-fuer-den-us-kongress-kandidieren](https://www.spiegel.de/ausland/jacob-chansley-qanon-schamane-will-fuer-den-us-kongress-kandidieren-a-bc86f8d1-d2ae-4091-84c7-dc21202a1af8#ref=rss)
+### qanonschamane
+
+* [https://www.spiegel.de/ausland/jacob-chansley-qanon-schamane-will-fuer-den-us-kongress-kandidieren](https://www.spiegel.de/ausland/jacob-chansley-qanon-schamane-will-fuer-den-us-kongress-kandidieren-a-bc86f8d1-d2ae-4091-84c7-dc21202a1af8#ref=rss)
+### uskongress
+
+* [https://www.spiegel.de/ausland/jacob-chansley-qanon-schamane-will-fuer-den-us-kongress-kandidieren](https://www.spiegel.de/ausland/jacob-chansley-qanon-schamane-will-fuer-den-us-kongress-kandidieren-a-bc86f8d1-d2ae-4091-84c7-dc21202a1af8#ref=rss)
+### maryanne
+
+* [https://www.spiegel.de/ausland/maryanne-trump-barry-donald-trumps-aeltere-schwester-stirbt-mit-86-jahren](https://www.spiegel.de/ausland/maryanne-trump-barry-donald-trumps-aeltere-schwester-stirbt-mit-86-jahren-a-47acddd5-5907-4379-8e2b-8cf5f78a5155#ref=rss)
+### barry
+
+* [https://www.spiegel.de/ausland/maryanne-trump-barry-donald-trumps-aeltere-schwester-stirbt-mit-86-jahren](https://www.spiegel.de/ausland/maryanne-trump-barry-donald-trumps-aeltere-schwester-stirbt-mit-86-jahren-a-47acddd5-5907-4379-8e2b-8cf5f78a5155#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/maryanne-trump-barry-donald-trumps-aeltere-schwester-stirbt-mit-86-jahren](https://www.spiegel.de/ausland/maryanne-trump-barry-donald-trumps-aeltere-schwester-stirbt-mit-86-jahren-a-47acddd5-5907-4379-8e2b-8cf5f78a5155#ref=rss)
+### ältere
+
+* [https://www.spiegel.de/ausland/maryanne-trump-barry-donald-trumps-aeltere-schwester-stirbt-mit-86-jahren](https://www.spiegel.de/ausland/maryanne-trump-barry-donald-trumps-aeltere-schwester-stirbt-mit-86-jahren-a-47acddd5-5907-4379-8e2b-8cf5f78a5155#ref=rss)
+### schwester
+
+* [https://www.spiegel.de/ausland/maryanne-trump-barry-donald-trumps-aeltere-schwester-stirbt-mit-86-jahren](https://www.spiegel.de/ausland/maryanne-trump-barry-donald-trumps-aeltere-schwester-stirbt-mit-86-jahren-a-47acddd5-5907-4379-8e2b-8cf5f78a5155#ref=rss)
+### 86
+
+* [https://www.spiegel.de/ausland/maryanne-trump-barry-donald-trumps-aeltere-schwester-stirbt-mit-86-jahren](https://www.spiegel.de/ausland/maryanne-trump-barry-donald-trumps-aeltere-schwester-stirbt-mit-86-jahren-a-47acddd5-5907-4379-8e2b-8cf5f78a5155#ref=rss)
+### nahostkonflikt
+
+* [https://www.spiegel.de/ausland/nahostkonflikt-wie-die-psychologin-maren-heldberg-den-krieg-im-gazastreifen-erlebte](https://www.spiegel.de/ausland/nahostkonflikt-wie-die-psychologin-maren-heldberg-den-krieg-im-gazastreifen-erlebte-a-6a163299-7f3c-4bf4-8b89-d31b2bde2fe8#ref=rss)
+* [https://www.spiegel.de/kultur/nahostkonflikt-ich-fuehle-mich-so-isoliert-und-gedemuetigt-als-palaestinenserin](https://www.spiegel.de/kultur/nahostkonflikt-ich-fuehle-mich-so-isoliert-und-gedemuetigt-als-palaestinenserin-a-cf6d94f9-56b1-42a0-a343-40a803dbc5f5#ref=rss)
+### psychologin
+
+* [https://www.spiegel.de/ausland/nahostkonflikt-wie-die-psychologin-maren-heldberg-den-krieg-im-gazastreifen-erlebte](https://www.spiegel.de/ausland/nahostkonflikt-wie-die-psychologin-maren-heldberg-den-krieg-im-gazastreifen-erlebte-a-6a163299-7f3c-4bf4-8b89-d31b2bde2fe8#ref=rss)
+### maren
+
+* [https://www.spiegel.de/ausland/nahostkonflikt-wie-die-psychologin-maren-heldberg-den-krieg-im-gazastreifen-erlebte](https://www.spiegel.de/ausland/nahostkonflikt-wie-die-psychologin-maren-heldberg-den-krieg-im-gazastreifen-erlebte-a-6a163299-7f3c-4bf4-8b89-d31b2bde2fe8#ref=rss)
+### heldberg
+
+* [https://www.spiegel.de/ausland/nahostkonflikt-wie-die-psychologin-maren-heldberg-den-krieg-im-gazastreifen-erlebte](https://www.spiegel.de/ausland/nahostkonflikt-wie-die-psychologin-maren-heldberg-den-krieg-im-gazastreifen-erlebte-a-6a163299-7f3c-4bf4-8b89-d31b2bde2fe8#ref=rss)
+### gazastreifen
+
+* [https://www.spiegel.de/ausland/nahostkonflikt-wie-die-psychologin-maren-heldberg-den-krieg-im-gazastreifen-erlebte](https://www.spiegel.de/ausland/nahostkonflikt-wie-die-psychologin-maren-heldberg-den-krieg-im-gazastreifen-erlebte-a-6a163299-7f3c-4bf4-8b89-d31b2bde2fe8#ref=rss)
+### erlebte
+
+* [https://www.spiegel.de/ausland/nahostkonflikt-wie-die-psychologin-maren-heldberg-den-krieg-im-gazastreifen-erlebte](https://www.spiegel.de/ausland/nahostkonflikt-wie-die-psychologin-maren-heldberg-den-krieg-im-gazastreifen-erlebte-a-6a163299-7f3c-4bf4-8b89-d31b2bde2fe8#ref=rss)
+* [https://www.spiegel.de/panorama/ost-berlin-als-russische-soldaten-unsere-schlaghosen-bewunderten](https://www.spiegel.de/panorama/ost-berlin-als-russische-soldaten-unsere-schlaghosen-bewunderten-a-677a51d8-6a2a-4138-8d05-24755450a7fe#ref=rss)
+### djirsarai
+
+* [https://www.spiegel.de/politik/deutschland/fdp-ampelgegner-kommen-ziel-fuer-mitgliederbefragung-naeher](https://www.spiegel.de/politik/deutschland/fdp-ampelgegner-kommen-ziel-fuer-mitgliederbefragung-naeher-a-08b5ef61-3ebf-42ec-835b-9642fec1268c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/recep-tayyip-erdogan-besucht-olaf-scholz-linke-befuerchtet-schmutzige-deals](https://www.spiegel.de/politik/deutschland/recep-tayyip-erdogan-besucht-olaf-scholz-linke-befuerchtet-schmutzige-deals-a-d938487b-a80d-4a07-9bfb-967d8a9577aa#ref=rss)
+### continental
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/continental-will-in-autozuliefersparte-tausende-jobs-streichen](https://www.spiegel.de/wirtschaft/unternehmen/continental-will-in-autozuliefersparte-tausende-jobs-streichen-a-288d1513-17d7-4c53-8298-a28e2e662ab9#ref=rss)
+### massiven
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/continental-will-in-autozuliefersparte-tausende-jobs-streichen](https://www.spiegel.de/wirtschaft/unternehmen/continental-will-in-autozuliefersparte-tausende-jobs-streichen-a-288d1513-17d7-4c53-8298-a28e2e662ab9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/krieg-in-der-ukraine-baerbock-bestaetigt-plaene-fuer-massiven-ausbau-der-militaerhilfe](https://www.spiegel.de/politik/deutschland/krieg-in-der-ukraine-baerbock-bestaetigt-plaene-fuer-massiven-ausbau-der-militaerhilfe-a-b0bd6937-cded-448d-b14c-88a386f766ec#ref=rss)
+### verletzte
+
+* [https://www.spiegel.de/panorama/bad-waldsee-mehrere-verletzte-bei-schulbusunfall-in-baden-wuerttemberg](https://www.spiegel.de/panorama/bad-waldsee-mehrere-verletzte-bei-schulbusunfall-in-baden-wuerttemberg-a-d3730ad2-e92b-4d23-ba8d-dff7aacce147#ref=rss)
+### badenwürttemberg
+
+* [https://www.spiegel.de/panorama/bad-waldsee-mehrere-verletzte-bei-schulbusunfall-in-baden-wuerttemberg](https://www.spiegel.de/panorama/bad-waldsee-mehrere-verletzte-bei-schulbusunfall-in-baden-wuerttemberg-a-d3730ad2-e92b-4d23-ba8d-dff7aacce147#ref=rss)
+### ranjit
+
+* [https://www.spiegel.de/kultur/documenta-findungskommission-ranjit-hoskote-tritt-zurueck-kritisiert-pauschale-definition-von-antisemitismus](https://www.spiegel.de/kultur/documenta-findungskommission-ranjit-hoskote-tritt-zurueck-kritisiert-pauschale-definition-von-antisemitismus-a-15ade37e-d817-4706-b191-b7937b1fd909#ref=rss)
+### hoskoté
+
+* [https://www.spiegel.de/kultur/documenta-findungskommission-ranjit-hoskote-tritt-zurueck-kritisiert-pauschale-definition-von-antisemitismus](https://www.spiegel.de/kultur/documenta-findungskommission-ranjit-hoskote-tritt-zurueck-kritisiert-pauschale-definition-von-antisemitismus-a-15ade37e-d817-4706-b191-b7937b1fd909#ref=rss)
+### kritisiert
+
+* [https://www.spiegel.de/kultur/documenta-findungskommission-ranjit-hoskote-tritt-zurueck-kritisiert-pauschale-definition-von-antisemitismus](https://www.spiegel.de/kultur/documenta-findungskommission-ranjit-hoskote-tritt-zurueck-kritisiert-pauschale-definition-von-antisemitismus-a-15ade37e-d817-4706-b191-b7937b1fd909#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/recep-tayyip-erdogan-besucht-olaf-scholz-linke-befuerchtet-schmutzige-deals](https://www.spiegel.de/politik/deutschland/recep-tayyip-erdogan-besucht-olaf-scholz-linke-befuerchtet-schmutzige-deals-a-d938487b-a80d-4a07-9bfb-967d8a9577aa#ref=rss)
+### krankenhausreform
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/krankenhausreform-bundeslaender-rebellieren-offenbar-gegen-karl-lauterbachs-gesetz](https://www.spiegel.de/wirtschaft/unternehmen/krankenhausreform-bundeslaender-rebellieren-offenbar-gegen-karl-lauterbachs-gesetz-a-88c10ba8-7054-4fbc-8a42-1f1123dd7f17#ref=rss)
+### karl
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/krankenhausreform-bundeslaender-rebellieren-offenbar-gegen-karl-lauterbachs-gesetz](https://www.spiegel.de/wirtschaft/unternehmen/krankenhausreform-bundeslaender-rebellieren-offenbar-gegen-karl-lauterbachs-gesetz-a-88c10ba8-7054-4fbc-8a42-1f1123dd7f17#ref=rss)
+### bericht
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/krankenhausreform-bundeslaender-rebellieren-offenbar-gegen-karl-lauterbachs-gesetz](https://www.spiegel.de/wirtschaft/unternehmen/krankenhausreform-bundeslaender-rebellieren-offenbar-gegen-karl-lauterbachs-gesetz-a-88c10ba8-7054-4fbc-8a42-1f1123dd7f17#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/krieg-in-der-ukraine-baerbock-bestaetigt-plaene-fuer-massiven-ausbau-der-militaerhilfe](https://www.spiegel.de/politik/deutschland/krieg-in-der-ukraine-baerbock-bestaetigt-plaene-fuer-massiven-ausbau-der-militaerhilfe-a-b0bd6937-cded-448d-b14c-88a386f766ec#ref=rss)
+### psychologe
+
+* [https://www.spiegel.de/wissenschaft/mensch/psychologe-wann-es-gut-ist-geheimnisse-zu-verraten](https://www.spiegel.de/wissenschaft/mensch/psychologe-wann-es-gut-ist-geheimnisse-zu-verraten-a-f5ef20d5-c8ae-40e5-955f-91c1852e9ab9#ref=rss)
+### geheimnisse
+
+* [https://www.spiegel.de/wissenschaft/mensch/psychologe-wann-es-gut-ist-geheimnisse-zu-verraten](https://www.spiegel.de/wissenschaft/mensch/psychologe-wann-es-gut-ist-geheimnisse-zu-verraten-a-f5ef20d5-c8ae-40e5-955f-91c1852e9ab9#ref=rss)
+### erdoğan
+
+* [https://www.spiegel.de/politik/deutschland/recep-tayyip-erdogan-besucht-olaf-scholz-linke-befuerchtet-schmutzige-deals](https://www.spiegel.de/politik/deutschland/recep-tayyip-erdogan-besucht-olaf-scholz-linke-befuerchtet-schmutzige-deals-a-d938487b-a80d-4a07-9bfb-967d8a9577aa#ref=rss)
+### linke
+
+* [https://www.spiegel.de/politik/deutschland/recep-tayyip-erdogan-besucht-olaf-scholz-linke-befuerchtet-schmutzige-deals](https://www.spiegel.de/politik/deutschland/recep-tayyip-erdogan-besucht-olaf-scholz-linke-befuerchtet-schmutzige-deals-a-d938487b-a80d-4a07-9bfb-967d8a9577aa#ref=rss)
+* [https://www.spiegel.de/ausland/griechenland-45-politiker-verlassen-linke-oppositionspartei-syriza](https://www.spiegel.de/ausland/griechenland-45-politiker-verlassen-linke-oppositionspartei-syriza-a-263b4092-1225-41e6-bb1d-8ed3c4629427#ref=rss)
+### norderney
+
+* [https://www.spiegel.de/panorama/norderney-massenhaft-blaue-quallen-angespuelt](https://www.spiegel.de/panorama/norderney-massenhaft-blaue-quallen-angespuelt-a-0895061c-3e06-44c7-ac86-3c63fbfb3a06#ref=rss)
+### angespült
+
+* [https://www.spiegel.de/panorama/norderney-massenhaft-blaue-quallen-angespuelt](https://www.spiegel.de/panorama/norderney-massenhaft-blaue-quallen-angespuelt-a-0895061c-3e06-44c7-ac86-3c63fbfb3a06#ref=rss)
+### baerbock
+
+* [https://www.spiegel.de/politik/deutschland/krieg-in-der-ukraine-baerbock-bestaetigt-plaene-fuer-massiven-ausbau-der-militaerhilfe](https://www.spiegel.de/politik/deutschland/krieg-in-der-ukraine-baerbock-bestaetigt-plaene-fuer-massiven-ausbau-der-militaerhilfe-a-b0bd6937-cded-448d-b14c-88a386f766ec#ref=rss)
+### bestätigt
+
+* [https://www.spiegel.de/politik/deutschland/krieg-in-der-ukraine-baerbock-bestaetigt-plaene-fuer-massiven-ausbau-der-militaerhilfe](https://www.spiegel.de/politik/deutschland/krieg-in-der-ukraine-baerbock-bestaetigt-plaene-fuer-massiven-ausbau-der-militaerhilfe-a-b0bd6937-cded-448d-b14c-88a386f766ec#ref=rss)
+### unfall
+
+* [https://www.spiegel.de/panorama/justiz/duesseldorf-frau-fotografiert-sterbenden-und-faehrt-weiter-angeblich-fuer-ihren-chef](https://www.spiegel.de/panorama/justiz/duesseldorf-frau-fotografiert-sterbenden-und-faehrt-weiter-angeblich-fuer-ihren-chef-a-c17b782f-4e1f-44ec-a984-b081eb140773#ref=rss)
+### verursacht
+
+* [https://www.spiegel.de/panorama/justiz/duesseldorf-frau-fotografiert-sterbenden-und-faehrt-weiter-angeblich-fuer-ihren-chef](https://www.spiegel.de/panorama/justiz/duesseldorf-frau-fotografiert-sterbenden-und-faehrt-weiter-angeblich-fuer-ihren-chef-a-c17b782f-4e1f-44ec-a984-b081eb140773#ref=rss)
+### sterbenden
+
+* [https://www.spiegel.de/panorama/justiz/duesseldorf-frau-fotografiert-sterbenden-und-faehrt-weiter-angeblich-fuer-ihren-chef](https://www.spiegel.de/panorama/justiz/duesseldorf-frau-fotografiert-sterbenden-und-faehrt-weiter-angeblich-fuer-ihren-chef-a-c17b782f-4e1f-44ec-a984-b081eb140773#ref=rss)
+### fotografiert
+
+* [https://www.spiegel.de/panorama/justiz/duesseldorf-frau-fotografiert-sterbenden-und-faehrt-weiter-angeblich-fuer-ihren-chef](https://www.spiegel.de/panorama/justiz/duesseldorf-frau-fotografiert-sterbenden-und-faehrt-weiter-angeblich-fuer-ihren-chef-a-c17b782f-4e1f-44ec-a984-b081eb140773#ref=rss)
+### verhalten
+
+* [https://www.spiegel.de/auto/strassenverkehr-draengeln-hupen-ueberholen-aggressives-verhalten-nimmt-zu](https://www.spiegel.de/auto/strassenverkehr-draengeln-hupen-ueberholen-aggressives-verhalten-nimmt-zu-a-6655a347-484a-40a3-912d-74c3b0b6dfe4#ref=rss)
+### israel
+
+* [https://www.spiegel.de/kultur/nahostkonflikt-ich-fuehle-mich-so-isoliert-und-gedemuetigt-als-palaestinenserin](https://www.spiegel.de/kultur/nahostkonflikt-ich-fuehle-mich-so-isoliert-und-gedemuetigt-als-palaestinenserin-a-cf6d94f9-56b1-42a0-a343-40a803dbc5f5#ref=rss)
+### verdi
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ver-di-weitet-warnstreiks-im-oeffentlichen-dienst-aus-schulen-unis-kliniken-betroffen](https://www.spiegel.de/wirtschaft/unternehmen/ver-di-weitet-warnstreiks-im-oeffentlichen-dienst-aus-schulen-unis-kliniken-betroffen-a-9bac46c1-98fb-4a4c-b797-b3f03c25de26#ref=rss)
+### warnstreiks
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ver-di-weitet-warnstreiks-im-oeffentlichen-dienst-aus-schulen-unis-kliniken-betroffen](https://www.spiegel.de/wirtschaft/unternehmen/ver-di-weitet-warnstreiks-im-oeffentlichen-dienst-aus-schulen-unis-kliniken-betroffen-a-9bac46c1-98fb-4a4c-b797-b3f03c25de26#ref=rss)
+### öffentlichen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ver-di-weitet-warnstreiks-im-oeffentlichen-dienst-aus-schulen-unis-kliniken-betroffen](https://www.spiegel.de/wirtschaft/unternehmen/ver-di-weitet-warnstreiks-im-oeffentlichen-dienst-aus-schulen-unis-kliniken-betroffen-a-9bac46c1-98fb-4a4c-b797-b3f03c25de26#ref=rss)
+### betroffen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ver-di-weitet-warnstreiks-im-oeffentlichen-dienst-aus-schulen-unis-kliniken-betroffen](https://www.spiegel.de/wirtschaft/unternehmen/ver-di-weitet-warnstreiks-im-oeffentlichen-dienst-aus-schulen-unis-kliniken-betroffen-a-9bac46c1-98fb-4a4c-b797-b3f03c25de26#ref=rss)
+### benedikt
+
+* [https://www.spiegel.de/panorama/gesellschaft/benedikt-xvi-letzter-wohnsitz-mater-ecclesiae-im-vatikan-wird-wieder-zum-reinen-kloster](https://www.spiegel.de/panorama/gesellschaft/benedikt-xvi-letzter-wohnsitz-mater-ecclesiae-im-vatikan-wird-wieder-zum-reinen-kloster-a-3275c1d5-f3ba-4830-a11e-862b0a739d88#ref=rss)
+### mater
+
+* [https://www.spiegel.de/panorama/gesellschaft/benedikt-xvi-letzter-wohnsitz-mater-ecclesiae-im-vatikan-wird-wieder-zum-reinen-kloster](https://www.spiegel.de/panorama/gesellschaft/benedikt-xvi-letzter-wohnsitz-mater-ecclesiae-im-vatikan-wird-wieder-zum-reinen-kloster-a-3275c1d5-f3ba-4830-a11e-862b0a739d88#ref=rss)
+### ecclesiae
+
+* [https://www.spiegel.de/panorama/gesellschaft/benedikt-xvi-letzter-wohnsitz-mater-ecclesiae-im-vatikan-wird-wieder-zum-reinen-kloster](https://www.spiegel.de/panorama/gesellschaft/benedikt-xvi-letzter-wohnsitz-mater-ecclesiae-im-vatikan-wird-wieder-zum-reinen-kloster-a-3275c1d5-f3ba-4830-a11e-862b0a739d88#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
+
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### ostberlin
+
+* [https://www.spiegel.de/panorama/ost-berlin-als-russische-soldaten-unsere-schlaghosen-bewunderten](https://www.spiegel.de/panorama/ost-berlin-als-russische-soldaten-unsere-schlaghosen-bewunderten-a-677a51d8-6a2a-4138-8d05-24755450a7fe#ref=rss)
+### siemens
+
+* [https://www.spiegel.de/wirtschaft/siemens-energy-7-5-milliarden-euro-staatsgarantien-in-windkraftkrise](https://www.spiegel.de/wirtschaft/siemens-energy-7-5-milliarden-euro-staatsgarantien-in-windkraftkrise-a-7f72659d-5e5e-4af2-8ca7-21d7e6f8630f#ref=rss)
+### energy
+
+* [https://www.spiegel.de/wirtschaft/siemens-energy-7-5-milliarden-euro-staatsgarantien-in-windkraftkrise](https://www.spiegel.de/wirtschaft/siemens-energy-7-5-milliarden-euro-staatsgarantien-in-windkraftkrise-a-7f72659d-5e5e-4af2-8ca7-21d7e6f8630f#ref=rss)
+### milliarden
+
+* [https://www.spiegel.de/wirtschaft/siemens-energy-7-5-milliarden-euro-staatsgarantien-in-windkraftkrise](https://www.spiegel.de/wirtschaft/siemens-energy-7-5-milliarden-euro-staatsgarantien-in-windkraftkrise-a-7f72659d-5e5e-4af2-8ca7-21d7e6f8630f#ref=rss)
+### euro
+
+* [https://www.spiegel.de/wirtschaft/siemens-energy-7-5-milliarden-euro-staatsgarantien-in-windkraftkrise](https://www.spiegel.de/wirtschaft/siemens-energy-7-5-milliarden-euro-staatsgarantien-in-windkraftkrise-a-7f72659d-5e5e-4af2-8ca7-21d7e6f8630f#ref=rss)
+### 45
+
+* [https://www.spiegel.de/ausland/griechenland-45-politiker-verlassen-linke-oppositionspartei-syriza](https://www.spiegel.de/ausland/griechenland-45-politiker-verlassen-linke-oppositionspartei-syriza-a-263b4092-1225-41e6-bb1d-8ed3c4629427#ref=rss)
+### politiker
+
+* [https://www.spiegel.de/ausland/griechenland-45-politiker-verlassen-linke-oppositionspartei-syriza](https://www.spiegel.de/ausland/griechenland-45-politiker-verlassen-linke-oppositionspartei-syriza-a-263b4092-1225-41e6-bb1d-8ed3c4629427#ref=rss)
+### verlassen
+
+* [https://www.spiegel.de/ausland/griechenland-45-politiker-verlassen-linke-oppositionspartei-syriza](https://www.spiegel.de/ausland/griechenland-45-politiker-verlassen-linke-oppositionspartei-syriza-a-263b4092-1225-41e6-bb1d-8ed3c4629427#ref=rss)
+### syriza
+
+* [https://www.spiegel.de/ausland/griechenland-45-politiker-verlassen-linke-oppositionspartei-syriza](https://www.spiegel.de/ausland/griechenland-45-politiker-verlassen-linke-oppositionspartei-syriza-a-263b4092-1225-41e6-bb1d-8ed3c4629427#ref=rss)
 
