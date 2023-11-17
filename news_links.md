@@ -4,289 +4,354 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### euro
-
-* [https://www.spiegel.de/politik/deutschland/ampel-stockt-humanitaere-hilfe-um-700-millionen-euro-auf](https://www.spiegel.de/politik/deutschland/ampel-stockt-humanitaere-hilfe-um-700-millionen-euro-auf-a-64c8812a-d02d-4a7c-b742-b010a696ca72#ref=rss)
-* [https://www.spiegel.de/karriere/versprechen-in-stellenanzeigen-1200-euro-sorry-gibt-s-doch-nicht](https://www.spiegel.de/karriere/versprechen-in-stellenanzeigen-1200-euro-sorry-gibt-s-doch-nicht-a-8a045b3d-4b64-4d68-997b-b2a357e2f482#ref=rss)
-### türkei
-
-* [https://www.spiegel.de/ausland/tuerkei-verzoegert-abstimmung-zu-schwedens-nato-beitritt](https://www.spiegel.de/ausland/tuerkei-verzoegert-abstimmung-zu-schwedens-nato-beitritt-a-e1ca99d0-72c7-44dc-a516-8b20008cf41c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-laenderspiel-gegen-die-tuerkei-in-berlin-2010-oezil-merkel-erdogan-und-ein-foto](https://www.spiegel.de/sport/fussball/dfb-laenderspiel-gegen-die-tuerkei-in-berlin-2010-oezil-merkel-erdogan-und-ein-foto-a-fe65ff07-b60e-44fe-a399-debc5705767c#ref=rss)
-### gaza
-
-* [https://www.spiegel.de/ausland/gaza-und-israel-wie-wir-aus-dem-kriegsgebiet-berichten-podcast](https://www.spiegel.de/ausland/gaza-und-israel-wie-wir-aus-dem-kriegsgebiet-berichten-podcast-a-58900c5c-ab41-49bc-a079-39b28c4722cb#ref=rss)
-* [https://www.spiegel.de/ausland/schifa-krankenhaus-in-gaza-video-der-israelischen-armee-soll-beweise-und-waffen-zeigen](https://www.spiegel.de/ausland/schifa-krankenhaus-in-gaza-video-der-israelischen-armee-soll-beweise-und-waffen-zeigen-a-9b2786c8-84bf-489c-8f7b-512cc481107e#ref=rss)
-* [https://www.spiegel.de/ausland/65-kilometer-zu-fuss-fuer-die-geiseln-in-gaza](https://www.spiegel.de/ausland/65-kilometer-zu-fuss-fuer-die-geiseln-in-gaza-a-bb92dd42-e6a0-4d63-b7d1-4e1bd033f702#ref=rss)
-### armee
-
-* [https://www.spiegel.de/ausland/gaza-und-israel-wie-wir-aus-dem-kriegsgebiet-berichten-podcast](https://www.spiegel.de/ausland/gaza-und-israel-wie-wir-aus-dem-kriegsgebiet-berichten-podcast-a-58900c5c-ab41-49bc-a079-39b28c4722cb#ref=rss)
-* [https://www.spiegel.de/ausland/schifa-krankenhaus-in-gaza-video-der-israelischen-armee-soll-beweise-und-waffen-zeigen](https://www.spiegel.de/ausland/schifa-krankenhaus-in-gaza-video-der-israelischen-armee-soll-beweise-und-waffen-zeigen-a-9b2786c8-84bf-489c-8f7b-512cc481107e#ref=rss)
-### bundestag
-
-* [https://www.spiegel.de/politik/deutschland/asyl-recht-bundestag-erklaert-georgien-und-moldau-zu-sicheren-herkunftsstaaten](https://www.spiegel.de/politik/deutschland/asyl-recht-bundestag-erklaert-georgien-und-moldau-zu-sicheren-herkunftsstaaten-a-28af19fe-9648-42d3-b151-93ba758b4e84#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-debatte-im-bundestag-so-gespalten-ist-die-ampel-in-der-taurus-frage](https://www.spiegel.de/politik/deutschland/ukraine-debatte-im-bundestag-so-gespalten-ist-die-ampel-in-der-taurus-frage-a-9bdf14be-8038-4a8b-aa4c-e547f1d5a8e7#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/wirtschaft/service/gas-und-waerme-mehrwertsteuer-nun-doch-bis-ende-februar-niedrig](https://www.spiegel.de/wirtschaft/service/gas-und-waerme-mehrwertsteuer-nun-doch-bis-ende-februar-niedrig-a-3e98f086-19b4-46ce-bf73-cf4869ae48b5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/supraleiter-von-ranga-dias-rekonstruktion-einer-weltsensation-die-zum-debakel-wurde](https://www.spiegel.de/wissenschaft/supraleiter-von-ranga-dias-rekonstruktion-einer-weltsensation-die-zum-debakel-wurde-a-26e16d22-5b4e-41f5-914b-3650a9daf5a3#ref=rss)
-* [https://www.spiegel.de/kultur/gwyneth-paltrow-prozess-zwischen-schauspielerin-und-optiker-kommt-als-musical-auf-die-buehne](https://www.spiegel.de/kultur/gwyneth-paltrow-prozess-zwischen-schauspielerin-und-optiker-kommt-als-musical-auf-die-buehne-a-2177cd51-5355-4b85-beb6-4b51325c57d2#ref=rss)
-### netanyahu
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-haushaltsberatungen-razzia-im-islamistenmilieu-joe-biden-benjamin-netanyahu](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-haushaltsberatungen-razzia-im-islamistenmilieu-joe-biden-benjamin-netanyahu-a-e7838944-51e4-4827-821a-3a7e7816abf3#ref=rss)
-* [https://www.spiegel.de/ausland/65-kilometer-zu-fuss-fuer-die-geiseln-in-gaza](https://www.spiegel.de/ausland/65-kilometer-zu-fuss-fuer-die-geiseln-in-gaza-a-bb92dd42-e6a0-4d63-b7d1-4e1bd033f702#ref=rss)
-### russland
-
-* [https://www.spiegel.de/kultur/tv/hubert-seipel-grimme-institut-ueberprueft-auszeichnung-nach-russland-zahlungen](https://www.spiegel.de/kultur/tv/hubert-seipel-grimme-institut-ueberprueft-auszeichnung-nach-russland-zahlungen-a-0dfda3bb-22e4-4cce-8f18-b440ba776c08#ref=rss)
-* [https://www.spiegel.de/ausland/finnland-schliesst-vier-grenzuebergaenge-zu-russland](https://www.spiegel.de/ausland/finnland-schliesst-vier-grenzuebergaenge-zu-russland-a-bb141a9d-c1ba-4ad3-bc68-19c9759ecd99#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/geschichte/geschichte-newsletter-und-dann-schoss-hitler-in-die-decke](https://www.spiegel.de/geschichte/geschichte-newsletter-und-dann-schoss-hitler-in-die-decke-a-22817b72-66a9-4241-a50a-d3135fb6c752#ref=rss)
-* [https://www.spiegel.de/ausland/wahl-in-spanien-die-demokratie-hat-den-stresstest-knapp-bestanden-kommentar](https://www.spiegel.de/ausland/wahl-in-spanien-die-demokratie-hat-den-stresstest-knapp-bestanden-kommentar-a-a452c017-477f-44c3-b632-817802d1c664#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/gotha-forscher-finden-mehr-als-hundert-jahre-alte-flaschenpost](https://www.spiegel.de/wissenschaft/natur/gotha-forscher-finden-mehr-als-hundert-jahre-alte-flaschenpost-a-e070f0a5-49d9-4cf6-a8e7-40b842fcc3b5#ref=rss)
-### prozess
+* [https://www.spiegel.de/netzwelt/apps/ibm-stoppt-werbung-auf-elon-musks-x](https://www.spiegel.de/netzwelt/apps/ibm-stoppt-werbung-auf-elon-musks-x-a-f74e1eba-b32d-4ef0-93d3-307bf57b860b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/klimafonds-urteil-das-ende-des-durchmogelns-meinung](https://www.spiegel.de/politik/deutschland/klimafonds-urteil-das-ende-des-durchmogelns-meinung-a-ce2ad3ff-9ef7-4d20-aa3f-d73d822d2330#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/tiktok-kaempft-gegen-videos-mit-osama-bin-laden-brief-an](https://www.spiegel.de/netzwelt/web/tiktok-kaempft-gegen-videos-mit-osama-bin-laden-brief-an-a-9cd92914-3a65-4465-9847-e99b1cd49cde#ref=rss)
+* [https://www.spiegel.de/panorama/leute/snoop-dogg-will-das-rauchen-aufgeben](https://www.spiegel.de/panorama/leute/snoop-dogg-will-das-rauchen-aufgeben-a-28d93ea3-d80f-45c3-af20-7426ee3e39e6#ref=rss)
+* [https://www.spiegel.de/panorama/sean-combs-ex-freundin-wirft-p-diddy-vergewaltigung-vor](https://www.spiegel.de/panorama/sean-combs-ex-freundin-wirft-p-diddy-vergewaltigung-vor-a-c6065b3e-f353-4fd7-8f53-6404b9af1cf2#ref=rss)
+### männer
 
-* [https://www.spiegel.de/kultur/gwyneth-paltrow-prozess-zwischen-schauspielerin-und-optiker-kommt-als-musical-auf-die-buehne](https://www.spiegel.de/kultur/gwyneth-paltrow-prozess-zwischen-schauspielerin-und-optiker-kommt-als-musical-auf-die-buehne-a-2177cd51-5355-4b85-beb6-4b51325c57d2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/freiburg-pfleger-wegen-mordes-an-89-jaehriger-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/freiburg-pfleger-wegen-mordes-an-89-jaehriger-zu-lebenslanger-haft-verurteilt-a-e1a3dcbf-5caf-458a-af45-abe0b8f6a337#ref=rss)
+* [https://www.spiegel.de/partnerschaft/wenn-maenner-fremdgehen-warum-flirten-mich-staendig-maenner-an-die-in-einer-beziehung-sind](https://www.spiegel.de/partnerschaft/wenn-maenner-fremdgehen-warum-flirten-mich-staendig-maenner-an-die-in-einer-beziehung-sind-a-0331d439-4bf7-44f6-a9a7-57454f069373#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/usa-todesstrafe-zwei-verurteilte-moerder-in-alabama-und-texas-hingerichtet](https://www.spiegel.de/panorama/justiz/usa-todesstrafe-zwei-verurteilte-moerder-in-alabama-und-texas-hingerichtet-a-d20bb5c3-4098-409d-b62f-cd5c2660709e#ref=rss)
 ### ampel
 
-* [https://www.spiegel.de/politik/deutschland/ampel-stockt-humanitaere-hilfe-um-700-millionen-euro-auf](https://www.spiegel.de/politik/deutschland/ampel-stockt-humanitaere-hilfe-um-700-millionen-euro-auf-a-64c8812a-d02d-4a7c-b742-b010a696ca72#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-debatte-im-bundestag-so-gespalten-ist-die-ampel-in-der-taurus-frage](https://www.spiegel.de/politik/deutschland/ukraine-debatte-im-bundestag-so-gespalten-ist-die-ampel-in-der-taurus-frage-a-9bdf14be-8038-4a8b-aa4c-e547f1d5a8e7#ref=rss)
-### humanitäre
+* [https://www.spiegel.de/politik/deutschland/klimafonds-urteil-das-ende-des-durchmogelns-meinung](https://www.spiegel.de/politik/deutschland/klimafonds-urteil-das-ende-des-durchmogelns-meinung-a-ce2ad3ff-9ef7-4d20-aa3f-d73d822d2330#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampelregierung-wie-das-milliarden-loch-die-reformkoalition-infrage-stellt](https://www.spiegel.de/politik/deutschland/ampelregierung-wie-das-milliarden-loch-die-reformkoalition-infrage-stellt-a-54555274-480d-4515-bff5-9642cd1bea2b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-recep-tayyip-erdogan-ampel-hubert-seipel-wladimir-putin](https://www.spiegel.de/politik/deutschland/news-recep-tayyip-erdogan-ampel-hubert-seipel-wladimir-putin-a-bb6d160e-1ef2-4063-8a2c-c8153ec0a944#ref=rss)
+### bundesverfassungsgerichts
 
-* [https://www.spiegel.de/politik/deutschland/ampel-stockt-humanitaere-hilfe-um-700-millionen-euro-auf](https://www.spiegel.de/politik/deutschland/ampel-stockt-humanitaere-hilfe-um-700-millionen-euro-auf-a-64c8812a-d02d-4a7c-b742-b010a696ca72#ref=rss)
-### hilfe
+* [https://www.spiegel.de/politik/deutschland/klimafonds-urteil-das-ende-des-durchmogelns-meinung](https://www.spiegel.de/politik/deutschland/klimafonds-urteil-das-ende-des-durchmogelns-meinung-a-ce2ad3ff-9ef7-4d20-aa3f-d73d822d2330#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampelregierung-wie-das-milliarden-loch-die-reformkoalition-infrage-stellt](https://www.spiegel.de/politik/deutschland/ampelregierung-wie-das-milliarden-loch-die-reformkoalition-infrage-stellt-a-54555274-480d-4515-bff5-9642cd1bea2b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/long-covid-ausschuss-beschliesst-100-millionen-euro-fuer-forschung](https://www.spiegel.de/politik/deutschland/long-covid-ausschuss-beschliesst-100-millionen-euro-fuer-forschung-a-305a5af0-77cf-44ba-b7d8-f4e0fa1bbb1c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-cdu-laesst-auch-sondervermoegen-fuer-energiepreisbremsen-pruefen](https://www.spiegel.de/politik/deutschland/friedrich-merz-cdu-laesst-auch-sondervermoegen-fuer-energiepreisbremsen-pruefen-a-b927fa3e-8a22-456c-87ab-ec87696a3bd7#ref=rss)
+### parteitag
 
-* [https://www.spiegel.de/politik/deutschland/ampel-stockt-humanitaere-hilfe-um-700-millionen-euro-auf](https://www.spiegel.de/politik/deutschland/ampel-stockt-humanitaere-hilfe-um-700-millionen-euro-auf-a-64c8812a-d02d-4a7c-b742-b010a696ca72#ref=rss)
-### 700
-
-* [https://www.spiegel.de/politik/deutschland/ampel-stockt-humanitaere-hilfe-um-700-millionen-euro-auf](https://www.spiegel.de/politik/deutschland/ampel-stockt-humanitaere-hilfe-um-700-millionen-euro-auf-a-64c8812a-d02d-4a7c-b742-b010a696ca72#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/politik/deutschland/ampel-stockt-humanitaere-hilfe-um-700-millionen-euro-auf](https://www.spiegel.de/politik/deutschland/ampel-stockt-humanitaere-hilfe-um-700-millionen-euro-auf-a-64c8812a-d02d-4a7c-b742-b010a696ca72#ref=rss)
-### the
-
-* [https://www.spiegel.de/kultur/irischer-kinofilm-the-quiet-girl-sommerhorror-und-sommerglueck](https://www.spiegel.de/kultur/irischer-kinofilm-the-quiet-girl-sommerhorror-und-sommerglueck-a-1129e002-0fa5-423d-8c3d-21e903661abf#ref=rss)
-### quiet
-
-* [https://www.spiegel.de/kultur/irischer-kinofilm-the-quiet-girl-sommerhorror-und-sommerglueck](https://www.spiegel.de/kultur/irischer-kinofilm-the-quiet-girl-sommerhorror-und-sommerglueck-a-1129e002-0fa5-423d-8c3d-21e903661abf#ref=rss)
-### girl
-
-* [https://www.spiegel.de/kultur/irischer-kinofilm-the-quiet-girl-sommerhorror-und-sommerglueck](https://www.spiegel.de/kultur/irischer-kinofilm-the-quiet-girl-sommerhorror-und-sommerglueck-a-1129e002-0fa5-423d-8c3d-21e903661abf#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/gaza-und-israel-wie-wir-aus-dem-kriegsgebiet-berichten-podcast](https://www.spiegel.de/ausland/gaza-und-israel-wie-wir-aus-dem-kriegsgebiet-berichten-podcast-a-58900c5c-ab41-49bc-a079-39b28c4722cb#ref=rss)
-* [https://www.spiegel.de/ausland/65-kilometer-zu-fuss-fuer-die-geiseln-in-gaza](https://www.spiegel.de/ausland/65-kilometer-zu-fuss-fuer-die-geiseln-in-gaza-a-bb92dd42-e6a0-4d63-b7d1-4e1bd033f702#ref=rss)
-### kriegsgebiet
-
-* [https://www.spiegel.de/ausland/gaza-und-israel-wie-wir-aus-dem-kriegsgebiet-berichten-podcast](https://www.spiegel.de/ausland/gaza-und-israel-wie-wir-aus-dem-kriegsgebiet-berichten-podcast-a-58900c5c-ab41-49bc-a079-39b28c4722cb#ref=rss)
-### berichten
-
-* [https://www.spiegel.de/ausland/gaza-und-israel-wie-wir-aus-dem-kriegsgebiet-berichten-podcast](https://www.spiegel.de/ausland/gaza-und-israel-wie-wir-aus-dem-kriegsgebiet-berichten-podcast-a-58900c5c-ab41-49bc-a079-39b28c4722cb#ref=rss)
-### israelischen
-
-* [https://www.spiegel.de/ausland/gaza-und-israel-wie-wir-aus-dem-kriegsgebiet-berichten-podcast](https://www.spiegel.de/ausland/gaza-und-israel-wie-wir-aus-dem-kriegsgebiet-berichten-podcast-a-58900c5c-ab41-49bc-a079-39b28c4722cb#ref=rss)
-* [https://www.spiegel.de/ausland/schifa-krankenhaus-in-gaza-video-der-israelischen-armee-soll-beweise-und-waffen-zeigen](https://www.spiegel.de/ausland/schifa-krankenhaus-in-gaza-video-der-israelischen-armee-soll-beweise-und-waffen-zeigen-a-9b2786c8-84bf-489c-8f7b-512cc481107e#ref=rss)
-### annette
-
-* [https://www.spiegel.de/kultur/kino/annette-hess-drehbuchautorin-ueber-ihre-serie-deutsches-haus](https://www.spiegel.de/kultur/kino/annette-hess-drehbuchautorin-ueber-ihre-serie-deutsches-haus-a-317fbc53-d717-4dd2-badb-eae085ad0b5c#ref=rss)
-### hess
-
-* [https://www.spiegel.de/kultur/kino/annette-hess-drehbuchautorin-ueber-ihre-serie-deutsches-haus](https://www.spiegel.de/kultur/kino/annette-hess-drehbuchautorin-ueber-ihre-serie-deutsches-haus-a-317fbc53-d717-4dd2-badb-eae085ad0b5c#ref=rss)
-### serie
-
-* [https://www.spiegel.de/kultur/kino/annette-hess-drehbuchautorin-ueber-ihre-serie-deutsches-haus](https://www.spiegel.de/kultur/kino/annette-hess-drehbuchautorin-ueber-ihre-serie-deutsches-haus-a-317fbc53-d717-4dd2-badb-eae085ad0b5c#ref=rss)
-### niemand
-
-* [https://www.spiegel.de/kultur/kino/annette-hess-drehbuchautorin-ueber-ihre-serie-deutsches-haus](https://www.spiegel.de/kultur/kino/annette-hess-drehbuchautorin-ueber-ihre-serie-deutsches-haus-a-317fbc53-d717-4dd2-badb-eae085ad0b5c#ref=rss)
-* [https://www.spiegel.de/geschichte/geschichte-newsletter-und-dann-schoss-hitler-in-die-decke](https://www.spiegel.de/geschichte/geschichte-newsletter-und-dann-schoss-hitler-in-die-decke-a-22817b72-66a9-4241-a50a-d3135fb6c752#ref=rss)
-### eigenen
-
-* [https://www.spiegel.de/kultur/kino/annette-hess-drehbuchautorin-ueber-ihre-serie-deutsches-haus](https://www.spiegel.de/kultur/kino/annette-hess-drehbuchautorin-ueber-ihre-serie-deutsches-haus-a-317fbc53-d717-4dd2-badb-eae085ad0b5c#ref=rss)
-* [https://www.spiegel.de/ausland/schifa-krankenhaus-in-gaza-video-der-israelischen-armee-soll-beweise-und-waffen-zeigen](https://www.spiegel.de/ausland/schifa-krankenhaus-in-gaza-video-der-israelischen-armee-soll-beweise-und-waffen-zeigen-a-9b2786c8-84bf-489c-8f7b-512cc481107e#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/deutschland/asyl-recht-bundestag-erklaert-georgien-und-moldau-zu-sicheren-herkunftsstaaten](https://www.spiegel.de/politik/deutschland/asyl-recht-bundestag-erklaert-georgien-und-moldau-zu-sicheren-herkunftsstaaten-a-28af19fe-9648-42d3-b151-93ba758b4e84#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/bundesverfassungsgericht-welche-klimaschutzprojekte-jetzt-wackeln](https://www.spiegel.de/wirtschaft/soziales/bundesverfassungsgericht-welche-klimaschutzprojekte-jetzt-wackeln-a-a7ef064d-a971-4516-b74c-68b514c2d86d#ref=rss)
-### gas
-
-* [https://www.spiegel.de/wirtschaft/service/gas-und-waerme-mehrwertsteuer-nun-doch-bis-ende-februar-niedrig](https://www.spiegel.de/wirtschaft/service/gas-und-waerme-mehrwertsteuer-nun-doch-bis-ende-februar-niedrig-a-3e98f086-19b4-46ce-bf73-cf4869ae48b5#ref=rss)
-### mehrwertsteuer
-
-* [https://www.spiegel.de/wirtschaft/service/gas-und-waerme-mehrwertsteuer-nun-doch-bis-ende-februar-niedrig](https://www.spiegel.de/wirtschaft/service/gas-und-waerme-mehrwertsteuer-nun-doch-bis-ende-februar-niedrig-a-3e98f086-19b4-46ce-bf73-cf4869ae48b5#ref=rss)
-### monate
-
-* [https://www.spiegel.de/wirtschaft/service/gas-und-waerme-mehrwertsteuer-nun-doch-bis-ende-februar-niedrig](https://www.spiegel.de/wirtschaft/service/gas-und-waerme-mehrwertsteuer-nun-doch-bis-ende-februar-niedrig-a-3e98f086-19b4-46ce-bf73-cf4869ae48b5#ref=rss)
-* [https://www.spiegel.de/netzwelt/betrug-mit-falschen-paketdienst-sms-beschwerden-haben-sich-vervielfacht](https://www.spiegel.de/netzwelt/betrug-mit-falschen-paketdienst-sms-beschwerden-haben-sich-vervielfacht-a-85d4d35d-501d-4514-a6fe-d21ea06c1c09#ref=rss)
-### haushaltsberatungen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-haushaltsberatungen-razzia-im-islamistenmilieu-joe-biden-benjamin-netanyahu](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-haushaltsberatungen-razzia-im-islamistenmilieu-joe-biden-benjamin-netanyahu-a-e7838944-51e4-4827-821a-3a7e7816abf3#ref=rss)
-### joe
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-haushaltsberatungen-razzia-im-islamistenmilieu-joe-biden-benjamin-netanyahu](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-haushaltsberatungen-razzia-im-islamistenmilieu-joe-biden-benjamin-netanyahu-a-e7838944-51e4-4827-821a-3a7e7816abf3#ref=rss)
-### biden
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-haushaltsberatungen-razzia-im-islamistenmilieu-joe-biden-benjamin-netanyahu](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-haushaltsberatungen-razzia-im-islamistenmilieu-joe-biden-benjamin-netanyahu-a-e7838944-51e4-4827-821a-3a7e7816abf3#ref=rss)
-### union
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-haushaltsberatungen-razzia-im-islamistenmilieu-joe-biden-benjamin-netanyahu](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-haushaltsberatungen-razzia-im-islamistenmilieu-joe-biden-benjamin-netanyahu-a-e7838944-51e4-4827-821a-3a7e7816abf3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-debatte-im-bundestag-so-gespalten-ist-die-ampel-in-der-taurus-frage](https://www.spiegel.de/politik/deutschland/ukraine-debatte-im-bundestag-so-gespalten-ist-die-ampel-in-der-taurus-frage-a-9bdf14be-8038-4a8b-aa4c-e547f1d5a8e7#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-haushaltsberatungen-razzia-im-islamistenmilieu-joe-biden-benjamin-netanyahu](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-haushaltsberatungen-razzia-im-islamistenmilieu-joe-biden-benjamin-netanyahu-a-e7838944-51e4-4827-821a-3a7e7816abf3#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-laenderspiel-gegen-die-tuerkei-in-berlin-2010-oezil-merkel-erdogan-und-ein-foto](https://www.spiegel.de/sport/fussball/dfb-laenderspiel-gegen-die-tuerkei-in-berlin-2010-oezil-merkel-erdogan-und-ein-foto-a-fe65ff07-b60e-44fe-a399-debc5705767c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/linken-politiker-stellen-sich-hinter-greta-thunberg](https://www.spiegel.de/politik/deutschland/linken-politiker-stellen-sich-hinter-greta-thunberg-a-13d5c013-9fa8-4173-be57-77f8820ca508#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-muss-ard-monitor-zutritt-zu-parteitag-in-thueringen-gewaehren](https://www.spiegel.de/politik/deutschland/afd-muss-ard-monitor-zutritt-zu-parteitag-in-thueringen-gewaehren-a-ca4e5be2-f48e-481f-894a-e61e7d3540b7#ref=rss)
 ### deutsche
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-haushaltsberatungen-razzia-im-islamistenmilieu-joe-biden-benjamin-netanyahu](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-haushaltsberatungen-razzia-im-islamistenmilieu-joe-biden-benjamin-netanyahu-a-e7838944-51e4-4827-821a-3a7e7816abf3#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-laenderspiel-gegen-die-tuerkei-in-berlin-2010-oezil-merkel-erdogan-und-ein-foto](https://www.spiegel.de/sport/fussball/dfb-laenderspiel-gegen-die-tuerkei-in-berlin-2010-oezil-merkel-erdogan-und-ein-foto-a-fe65ff07-b60e-44fe-a399-debc5705767c#ref=rss)
-### israels
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-erwaegt-vorkaufsrecht-bei-ruestungsguetern-aus-deutscher-produktion](https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-erwaegt-vorkaufsrecht-bei-ruestungsguetern-aus-deutscher-produktion-a-7f9760bb-9969-430f-b0d5-8721f8b2519c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-verkehr-laeuft-wieder-weitgehend-ohne-einschraenkungen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-verkehr-laeuft-wieder-weitgehend-ohne-einschraenkungen-a-ce55250c-b405-4b82-b2ec-011bbeeb320f#ref=rss)
+* [https://www.spiegel.de/auto/bahn-strecken-werden-reaktiviert-mit-dem-zug-zurueck-in-die-zukunft](https://www.spiegel.de/auto/bahn-strecken-werden-reaktiviert-mit-dem-zug-zurueck-in-die-zukunft-a-0131677b-0b62-4fe4-90e9-a75a53013a07#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-haushaltsberatungen-razzia-im-islamistenmilieu-joe-biden-benjamin-netanyahu](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-haushaltsberatungen-razzia-im-islamistenmilieu-joe-biden-benjamin-netanyahu-a-e7838944-51e4-4827-821a-3a7e7816abf3#ref=rss)
-* [https://www.spiegel.de/kultur/wegen-bds-unterstuetzung-museum-folkwang-beendet-kooperation-mit-kurator](https://www.spiegel.de/kultur/wegen-bds-unterstuetzung-museum-folkwang-beendet-kooperation-mit-kurator-a-6f353112-665b-42a9-a621-f5800166fcb4#ref=rss)
-### premier
+* [https://www.spiegel.de/politik/deutschland/israel-gaza-krieg-bka-registriert-3300-straftaten-mit-bezug-zum-nahostkonflikt](https://www.spiegel.de/politik/deutschland/israel-gaza-krieg-bka-registriert-3300-straftaten-mit-bezug-zum-nahostkonflikt-a-361f4046-09d9-43f1-acb5-4ccaf6355e5c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/immobilien-baugenehmigungen-fuer-wohnungen-brechen-auch-im-september-ein](https://www.spiegel.de/wirtschaft/immobilien-baugenehmigungen-fuer-wohnungen-brechen-auch-im-september-ein-a-4f24acd1-3fc1-4eb2-956d-9f0b4b3d5945#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-verkehr-laeuft-wieder-weitgehend-ohne-einschraenkungen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-verkehr-laeuft-wieder-weitgehend-ohne-einschraenkungen-a-ce55250c-b405-4b82-b2ec-011bbeeb320f#ref=rss)
+### haushaltsurteil
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-haushaltsberatungen-razzia-im-islamistenmilieu-joe-biden-benjamin-netanyahu](https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-haushaltsberatungen-razzia-im-islamistenmilieu-joe-biden-benjamin-netanyahu-a-e7838944-51e4-4827-821a-3a7e7816abf3#ref=rss)
-* [https://www.spiegel.de/ausland/65-kilometer-zu-fuss-fuer-die-geiseln-in-gaza](https://www.spiegel.de/ausland/65-kilometer-zu-fuss-fuer-die-geiseln-in-gaza-a-bb92dd42-e6a0-4d63-b7d1-4e1bd033f702#ref=rss)
-### schifakrankenhaus
+* [https://www.spiegel.de/politik/deutschland/klimafonds-urteil-das-ende-des-durchmogelns-meinung](https://www.spiegel.de/politik/deutschland/klimafonds-urteil-das-ende-des-durchmogelns-meinung-a-ce2ad3ff-9ef7-4d20-aa3f-d73d822d2330#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampelregierung-wie-das-milliarden-loch-die-reformkoalition-infrage-stellt](https://www.spiegel.de/politik/deutschland/ampelregierung-wie-das-milliarden-loch-die-reformkoalition-infrage-stellt-a-54555274-480d-4515-bff5-9642cd1bea2b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-cdu-laesst-auch-sondervermoegen-fuer-energiepreisbremsen-pruefen](https://www.spiegel.de/politik/deutschland/friedrich-merz-cdu-laesst-auch-sondervermoegen-fuer-energiepreisbremsen-pruefen-a-b927fa3e-8a22-456c-87ab-ec87696a3bd7#ref=rss)
+### gefunden
 
-* [https://www.spiegel.de/ausland/schifa-krankenhaus-in-gaza-video-der-israelischen-armee-soll-beweise-und-waffen-zeigen](https://www.spiegel.de/ausland/schifa-krankenhaus-in-gaza-video-der-israelischen-armee-soll-beweise-und-waffen-zeigen-a-9b2786c8-84bf-489c-8f7b-512cc481107e#ref=rss)
-### video
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-offenbar-leiche-einer-verschleppten-israelischen-soldatin-gefunden](https://www.spiegel.de/ausland/israel-gaza-news-heute-offenbar-leiche-einer-verschleppten-israelischen-soldatin-gefunden-a-703bfecd-b87b-4b0e-b8f4-16f7e24717ff#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-israel-hat-offenbar-tunnel-auf-gelaende-des-schifa-krankenhauses-gefunden](https://www.spiegel.de/ausland/gaza-israel-hat-offenbar-tunnel-auf-gelaende-des-schifa-krankenhauses-gefunden-a-ff7bbe03-7a18-4a57-8200-30c864560f1e#ref=rss)
+### zweiten
 
-* [https://www.spiegel.de/ausland/schifa-krankenhaus-in-gaza-video-der-israelischen-armee-soll-beweise-und-waffen-zeigen](https://www.spiegel.de/ausland/schifa-krankenhaus-in-gaza-video-der-israelischen-armee-soll-beweise-und-waffen-zeigen-a-9b2786c8-84bf-489c-8f7b-512cc481107e#ref=rss)
-### waffen
+* [https://www.spiegel.de/wissenschaft/weltall/starship-vor-dem-zweiten-testflug-erlebt-elon-musk-ein-weiteres-debakel](https://www.spiegel.de/wissenschaft/weltall/starship-vor-dem-zweiten-testflug-erlebt-elon-musk-ein-weiteres-debakel-a-2cec5520-212e-434b-9d0d-5074cbb387f7#ref=rss)
+* [https://www.spiegel.de/sport/tennis/atp-finals-novak-djokovic-zieht-dank-jannik-sinner-ins-halbfinale-ein](https://www.spiegel.de/sport/tennis/atp-finals-novak-djokovic-zieht-dank-jannik-sinner-ins-halbfinale-ein-a-b863141c-bcc5-4d4e-bca8-610b2ff66091#ref=rss)
+### zurück
 
-* [https://www.spiegel.de/ausland/schifa-krankenhaus-in-gaza-video-der-israelischen-armee-soll-beweise-und-waffen-zeigen](https://www.spiegel.de/ausland/schifa-krankenhaus-in-gaza-video-der-israelischen-armee-soll-beweise-und-waffen-zeigen-a-9b2786c8-84bf-489c-8f7b-512cc481107e#ref=rss)
-### hamas
+* [https://www.spiegel.de/panorama/justiz/usa-todesstrafe-zwei-verurteilte-moerder-in-alabama-und-texas-hingerichtet](https://www.spiegel.de/panorama/justiz/usa-todesstrafe-zwei-verurteilte-moerder-in-alabama-und-texas-hingerichtet-a-d20bb5c3-4098-409d-b62f-cd5c2660709e#ref=rss)
+* [https://www.spiegel.de/auto/bahn-strecken-werden-reaktiviert-mit-dem-zug-zurueck-in-die-zukunft](https://www.spiegel.de/auto/bahn-strecken-werden-reaktiviert-mit-dem-zug-zurueck-in-die-zukunft-a-0131677b-0b62-4fe4-90e9-a75a53013a07#ref=rss)
+* [https://www.spiegel.de/panorama/sean-combs-ex-freundin-wirft-p-diddy-vergewaltigung-vor](https://www.spiegel.de/panorama/sean-combs-ex-freundin-wirft-p-diddy-vergewaltigung-vor-a-c6065b3e-f353-4fd7-8f53-6404b9af1cf2#ref=rss)
+### bahn
 
-* [https://www.spiegel.de/ausland/schifa-krankenhaus-in-gaza-video-der-israelischen-armee-soll-beweise-und-waffen-zeigen](https://www.spiegel.de/ausland/schifa-krankenhaus-in-gaza-video-der-israelischen-armee-soll-beweise-und-waffen-zeigen-a-9b2786c8-84bf-489c-8f7b-512cc481107e#ref=rss)
-* [https://www.spiegel.de/ausland/65-kilometer-zu-fuss-fuer-die-geiseln-in-gaza](https://www.spiegel.de/ausland/65-kilometer-zu-fuss-fuer-die-geiseln-in-gaza-a-bb92dd42-e6a0-4d63-b7d1-4e1bd033f702#ref=rss)
-### stuttgart
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-verkehr-laeuft-wieder-weitgehend-ohne-einschraenkungen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-verkehr-laeuft-wieder-weitgehend-ohne-einschraenkungen-a-ce55250c-b405-4b82-b2ec-011bbeeb320f#ref=rss)
+* [https://www.spiegel.de/auto/bahn-strecken-werden-reaktiviert-mit-dem-zug-zurueck-in-die-zukunft](https://www.spiegel.de/auto/bahn-strecken-werden-reaktiviert-mit-dem-zug-zurueck-in-die-zukunft-a-0131677b-0b62-4fe4-90e9-a75a53013a07#ref=rss)
+### schönbohm
 
-* [https://www.spiegel.de/panorama/stuttgart-mann-schlaegt-herrchen-und-raubt-hund](https://www.spiegel.de/panorama/stuttgart-mann-schlaegt-herrchen-und-raubt-hund-a-81f4e5f4-381d-494f-8788-628af196681b#ref=rss)
-### hund
+* [https://www.spiegel.de/politik/deutschland/horst-seehofer-will-in-affaere-um-arne-schoenbohm-als-zeuge-aussagen](https://www.spiegel.de/politik/deutschland/horst-seehofer-will-in-affaere-um-arne-schoenbohm-als-zeuge-aussagen-a-55c9c21c-dda9-44b6-83cb-eecc69fc3759#ref=rss)
+### stellen
 
-* [https://www.spiegel.de/panorama/stuttgart-mann-schlaegt-herrchen-und-raubt-hund](https://www.spiegel.de/panorama/stuttgart-mann-schlaegt-herrchen-und-raubt-hund-a-81f4e5f4-381d-494f-8788-628af196681b#ref=rss)
-### supraleiter
+* [https://www.spiegel.de/politik/deutschland/linken-politiker-stellen-sich-hinter-greta-thunberg](https://www.spiegel.de/politik/deutschland/linken-politiker-stellen-sich-hinter-greta-thunberg-a-13d5c013-9fa8-4173-be57-77f8820ca508#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/starship-vor-dem-zweiten-testflug-erlebt-elon-musk-ein-weiteres-debakel](https://www.spiegel.de/wissenschaft/weltall/starship-vor-dem-zweiten-testflug-erlebt-elon-musk-ein-weiteres-debakel-a-2cec5520-212e-434b-9d0d-5074cbb387f7#ref=rss)
+### greta
 
-* [https://www.spiegel.de/wissenschaft/supraleiter-von-ranga-dias-rekonstruktion-einer-weltsensation-die-zum-debakel-wurde](https://www.spiegel.de/wissenschaft/supraleiter-von-ranga-dias-rekonstruktion-einer-weltsensation-die-zum-debakel-wurde-a-26e16d22-5b4e-41f5-914b-3650a9daf5a3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/linken-politiker-stellen-sich-hinter-greta-thunberg](https://www.spiegel.de/politik/deutschland/linken-politiker-stellen-sich-hinter-greta-thunberg-a-13d5c013-9fa8-4173-be57-77f8820ca508#ref=rss)
+### thunberg
+
+* [https://www.spiegel.de/politik/deutschland/linken-politiker-stellen-sich-hinter-greta-thunberg](https://www.spiegel.de/politik/deutschland/linken-politiker-stellen-sich-hinter-greta-thunberg-a-13d5c013-9fa8-4173-be57-77f8820ca508#ref=rss)
+### nahostkonflikt
+
+* [https://www.spiegel.de/politik/deutschland/linken-politiker-stellen-sich-hinter-greta-thunberg](https://www.spiegel.de/politik/deutschland/linken-politiker-stellen-sich-hinter-greta-thunberg-a-13d5c013-9fa8-4173-be57-77f8820ca508#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/israel-gaza-krieg-bka-registriert-3300-straftaten-mit-bezug-zum-nahostkonflikt](https://www.spiegel.de/politik/deutschland/israel-gaza-krieg-bka-registriert-3300-straftaten-mit-bezug-zum-nahostkonflikt-a-361f4046-09d9-43f1-acb5-4ccaf6355e5c#ref=rss)
+### bundeswehr
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-erwaegt-vorkaufsrecht-bei-ruestungsguetern-aus-deutscher-produktion](https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-erwaegt-vorkaufsrecht-bei-ruestungsguetern-aus-deutscher-produktion-a-7f9760bb-9969-430f-b0d5-8721f8b2519c#ref=rss)
+### pistorius
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-erwaegt-vorkaufsrecht-bei-ruestungsguetern-aus-deutscher-produktion](https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-erwaegt-vorkaufsrecht-bei-ruestungsguetern-aus-deutscher-produktion-a-7f9760bb-9969-430f-b0d5-8721f8b2519c#ref=rss)
+### spiegelinformationen
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-erwaegt-vorkaufsrecht-bei-ruestungsguetern-aus-deutscher-produktion](https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-erwaegt-vorkaufsrecht-bei-ruestungsguetern-aus-deutscher-produktion-a-7f9760bb-9969-430f-b0d5-8721f8b2519c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/israel-gaza-krieg-bka-registriert-3300-straftaten-mit-bezug-zum-nahostkonflikt](https://www.spiegel.de/politik/deutschland/israel-gaza-krieg-bka-registriert-3300-straftaten-mit-bezug-zum-nahostkonflikt-a-361f4046-09d9-43f1-acb5-4ccaf6355e5c#ref=rss)
+### erste
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-erwaegt-vorkaufsrecht-bei-ruestungsguetern-aus-deutscher-produktion](https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-erwaegt-vorkaufsrecht-bei-ruestungsguetern-aus-deutscher-produktion-a-7f9760bb-9969-430f-b0d5-8721f8b2519c#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-training-muss-wegen-losem-kanaldeckel-abgebrochen-werden](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-training-muss-wegen-losem-kanaldeckel-abgebrochen-werden-a-8dde0613-3756-4491-8de0-0c276e38f825#ref=rss)
+### haushälter
+
+* [https://www.spiegel.de/politik/deutschland/bundestag-haushaelter-wollen-faxgeraete-ausmustern](https://www.spiegel.de/politik/deutschland/bundestag-haushaelter-wollen-faxgeraete-ausmustern-a-ae287681-5e59-456a-b526-60792b5bba3a#ref=rss)
+### faxgeräte
+
+* [https://www.spiegel.de/politik/deutschland/bundestag-haushaelter-wollen-faxgeraete-ausmustern](https://www.spiegel.de/politik/deutschland/bundestag-haushaelter-wollen-faxgeraete-ausmustern-a-ae287681-5e59-456a-b526-60792b5bba3a#ref=rss)
+### 2024
+
+* [https://www.spiegel.de/politik/deutschland/bundestag-haushaelter-wollen-faxgeraete-ausmustern](https://www.spiegel.de/politik/deutschland/bundestag-haushaelter-wollen-faxgeraete-ausmustern-a-ae287681-5e59-456a-b526-60792b5bba3a#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/apple-oeffnet-sich-zaghaft-fuer-den-sms-nachfolger-rcs](https://www.spiegel.de/netzwelt/gadgets/apple-oeffnet-sich-zaghaft-fuer-den-sms-nachfolger-rcs-a-5e8601e0-d543-4816-aeba-85b93134cfea#ref=rss)
+### opfer
+
+* [https://www.spiegel.de/panorama/justiz/darmstadt-15-jaehriger-nach-toedlicher-pruegelattacke-in-untersuchungshaft](https://www.spiegel.de/panorama/justiz/darmstadt-15-jaehriger-nach-toedlicher-pruegelattacke-in-untersuchungshaft-a-137b8aad-7ea5-4b6e-8d42-e4f40ca8a53b#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-israel-hat-offenbar-tunnel-auf-gelaende-des-schifa-krankenhauses-gefunden](https://www.spiegel.de/ausland/gaza-israel-hat-offenbar-tunnel-auf-gelaende-des-schifa-krankenhauses-gefunden-a-ff7bbe03-7a18-4a57-8200-30c864560f1e#ref=rss)
+### apple
+
+* [https://www.spiegel.de/netzwelt/gadgets/apple-oeffnet-sich-zaghaft-fuer-den-sms-nachfolger-rcs](https://www.spiegel.de/netzwelt/gadgets/apple-oeffnet-sich-zaghaft-fuer-den-sms-nachfolger-rcs-a-5e8601e0-d543-4816-aeba-85b93134cfea#ref=rss)
+### rcs
+
+* [https://www.spiegel.de/netzwelt/gadgets/apple-oeffnet-sich-zaghaft-fuer-den-sms-nachfolger-rcs](https://www.spiegel.de/netzwelt/gadgets/apple-oeffnet-sich-zaghaft-fuer-den-sms-nachfolger-rcs-a-5e8601e0-d543-4816-aeba-85b93134cfea#ref=rss)
+### ändern
+
+* [https://www.spiegel.de/netzwelt/gadgets/apple-oeffnet-sich-zaghaft-fuer-den-sms-nachfolger-rcs](https://www.spiegel.de/netzwelt/gadgets/apple-oeffnet-sich-zaghaft-fuer-den-sms-nachfolger-rcs-a-5e8601e0-d543-4816-aeba-85b93134cfea#ref=rss)
+### israelgazakrieg
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-und-das-voelkerrecht-der-kampf-um-das-schifa-krankenhaus](https://www.spiegel.de/ausland/israel-gaza-krieg-und-das-voelkerrecht-der-kampf-um-das-schifa-krankenhaus-a-0421b4b6-5a08-483d-9502-20668cf7aea3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/israel-gaza-krieg-bka-registriert-3300-straftaten-mit-bezug-zum-nahostkonflikt](https://www.spiegel.de/politik/deutschland/israel-gaza-krieg-bka-registriert-3300-straftaten-mit-bezug-zum-nahostkonflikt-a-361f4046-09d9-43f1-acb5-4ccaf6355e5c#ref=rss)
+### welt
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-und-das-voelkerrecht-der-kampf-um-das-schifa-krankenhaus](https://www.spiegel.de/ausland/israel-gaza-krieg-und-das-voelkerrecht-der-kampf-um-das-schifa-krankenhaus-a-0421b4b6-5a08-483d-9502-20668cf7aea3#ref=rss)
+* [https://www.spiegel.de/panorama/leute/snoop-dogg-will-das-rauchen-aufgeben](https://www.spiegel.de/panorama/leute/snoop-dogg-will-das-rauchen-aufgeben-a-28d93ea3-d80f-45c3-af20-7426ee3e39e6#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-und-das-voelkerrecht-der-kampf-um-das-schifa-krankenhaus](https://www.spiegel.de/ausland/israel-gaza-krieg-und-das-voelkerrecht-der-kampf-um-das-schifa-krankenhaus-a-0421b4b6-5a08-483d-9502-20668cf7aea3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/immobilien-baugenehmigungen-fuer-wohnungen-brechen-auch-im-september-ein](https://www.spiegel.de/wirtschaft/immobilien-baugenehmigungen-fuer-wohnungen-brechen-auch-im-september-ein-a-4f24acd1-3fc1-4eb2-956d-9f0b4b3d5945#ref=rss)
+### flirten
+
+* [https://www.spiegel.de/partnerschaft/wenn-maenner-fremdgehen-warum-flirten-mich-staendig-maenner-an-die-in-einer-beziehung-sind](https://www.spiegel.de/partnerschaft/wenn-maenner-fremdgehen-warum-flirten-mich-staendig-maenner-an-die-in-einer-beziehung-sind-a-0331d439-4bf7-44f6-a9a7-57454f069373#ref=rss)
+### mich
+
+* [https://www.spiegel.de/partnerschaft/wenn-maenner-fremdgehen-warum-flirten-mich-staendig-maenner-an-die-in-einer-beziehung-sind](https://www.spiegel.de/partnerschaft/wenn-maenner-fremdgehen-warum-flirten-mich-staendig-maenner-an-die-in-einer-beziehung-sind-a-0331d439-4bf7-44f6-a9a7-57454f069373#ref=rss)
+### ständig
+
+* [https://www.spiegel.de/partnerschaft/wenn-maenner-fremdgehen-warum-flirten-mich-staendig-maenner-an-die-in-einer-beziehung-sind](https://www.spiegel.de/partnerschaft/wenn-maenner-fremdgehen-warum-flirten-mich-staendig-maenner-an-die-in-einer-beziehung-sind-a-0331d439-4bf7-44f6-a9a7-57454f069373#ref=rss)
+### beziehung
+
+* [https://www.spiegel.de/partnerschaft/wenn-maenner-fremdgehen-warum-flirten-mich-staendig-maenner-an-die-in-einer-beziehung-sind](https://www.spiegel.de/partnerschaft/wenn-maenner-fremdgehen-warum-flirten-mich-staendig-maenner-an-die-in-einer-beziehung-sind-a-0331d439-4bf7-44f6-a9a7-57454f069373#ref=rss)
+### allem
+
+* [https://www.spiegel.de/partnerschaft/wenn-maenner-fremdgehen-warum-flirten-mich-staendig-maenner-an-die-in-einer-beziehung-sind](https://www.spiegel.de/partnerschaft/wenn-maenner-fremdgehen-warum-flirten-mich-staendig-maenner-an-die-in-einer-beziehung-sind-a-0331d439-4bf7-44f6-a9a7-57454f069373#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampelregierung-wie-das-milliarden-loch-die-reformkoalition-infrage-stellt](https://www.spiegel.de/politik/deutschland/ampelregierung-wie-das-milliarden-loch-die-reformkoalition-infrage-stellt-a-54555274-480d-4515-bff5-9642cd1bea2b#ref=rss)
+### ibm
+
+* [https://www.spiegel.de/netzwelt/apps/ibm-stoppt-werbung-auf-elon-musks-x](https://www.spiegel.de/netzwelt/apps/ibm-stoppt-werbung-auf-elon-musks-x-a-f74e1eba-b32d-4ef0-93d3-307bf57b860b#ref=rss)
+### werbung
+
+* [https://www.spiegel.de/netzwelt/apps/ibm-stoppt-werbung-auf-elon-musks-x](https://www.spiegel.de/netzwelt/apps/ibm-stoppt-werbung-auf-elon-musks-x-a-f74e1eba-b32d-4ef0-93d3-307bf57b860b#ref=rss)
+### verliert
+
+* [https://www.spiegel.de/netzwelt/apps/ibm-stoppt-werbung-auf-elon-musks-x](https://www.spiegel.de/netzwelt/apps/ibm-stoppt-werbung-auf-elon-musks-x-a-f74e1eba-b32d-4ef0-93d3-307bf57b860b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-qualifikation-argentinien-verliert-erstmals-seit-wm-triumph-brasilien-patzt-auch](https://www.spiegel.de/sport/fussball/wm-qualifikation-argentinien-verliert-erstmals-seit-wm-triumph-brasilien-patzt-auch-a-d636a14e-31f4-4b67-9530-f9ce8e80e840#ref=rss)
+### straftaten
+
+* [https://www.spiegel.de/politik/deutschland/israel-gaza-krieg-bka-registriert-3300-straftaten-mit-bezug-zum-nahostkonflikt](https://www.spiegel.de/politik/deutschland/israel-gaza-krieg-bka-registriert-3300-straftaten-mit-bezug-zum-nahostkonflikt-a-361f4046-09d9-43f1-acb5-4ccaf6355e5c#ref=rss)
+### israel
+
+* [https://www.spiegel.de/politik/deutschland/israel-gaza-krieg-bka-registriert-3300-straftaten-mit-bezug-zum-nahostkonflikt](https://www.spiegel.de/politik/deutschland/israel-gaza-krieg-bka-registriert-3300-straftaten-mit-bezug-zum-nahostkonflikt-a-361f4046-09d9-43f1-acb5-4ccaf6355e5c#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-israel-hat-offenbar-tunnel-auf-gelaende-des-schifa-krankenhauses-gefunden](https://www.spiegel.de/ausland/gaza-israel-hat-offenbar-tunnel-auf-gelaende-des-schifa-krankenhauses-gefunden-a-ff7bbe03-7a18-4a57-8200-30c864560f1e#ref=rss)
+### scheitert
+
+* [https://www.spiegel.de/politik/deutschland/klimafonds-urteil-das-ende-des-durchmogelns-meinung](https://www.spiegel.de/politik/deutschland/klimafonds-urteil-das-ende-des-durchmogelns-meinung-a-ce2ad3ff-9ef7-4d20-aa3f-d73d822d2330#ref=rss)
+### habeck
+
+* [https://www.spiegel.de/politik/deutschland/klimafonds-urteil-das-ende-des-durchmogelns-meinung](https://www.spiegel.de/politik/deutschland/klimafonds-urteil-das-ende-des-durchmogelns-meinung-a-ce2ad3ff-9ef7-4d20-aa3f-d73d822d2330#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampelregierung-wie-das-milliarden-loch-die-reformkoalition-infrage-stellt](https://www.spiegel.de/politik/deutschland/ampelregierung-wie-das-milliarden-loch-die-reformkoalition-infrage-stellt-a-54555274-480d-4515-bff5-9642cd1bea2b#ref=rss)
+### land
+
+* [https://www.spiegel.de/politik/deutschland/klimafonds-urteil-das-ende-des-durchmogelns-meinung](https://www.spiegel.de/politik/deutschland/klimafonds-urteil-das-ende-des-durchmogelns-meinung-a-ce2ad3ff-9ef7-4d20-aa3f-d73d822d2330#ref=rss)
+* [https://www.spiegel.de/auto/bahn-strecken-werden-reaktiviert-mit-dem-zug-zurueck-in-die-zukunft](https://www.spiegel.de/auto/bahn-strecken-werden-reaktiviert-mit-dem-zug-zurueck-in-die-zukunft-a-0131677b-0b62-4fe4-90e9-a75a53013a07#ref=rss)
+### las
+
+* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-training-muss-wegen-losem-kanaldeckel-abgebrochen-werden](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-training-muss-wegen-losem-kanaldeckel-abgebrochen-werden-a-8dde0613-3756-4491-8de0-0c276e38f825#ref=rss)
+### vegas
+
+* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-training-muss-wegen-losem-kanaldeckel-abgebrochen-werden](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-training-muss-wegen-losem-kanaldeckel-abgebrochen-werden-a-8dde0613-3756-4491-8de0-0c276e38f825#ref=rss)
+### training
+
+* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-training-muss-wegen-losem-kanaldeckel-abgebrochen-werden](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-training-muss-wegen-losem-kanaldeckel-abgebrochen-werden-a-8dde0613-3756-4491-8de0-0c276e38f825#ref=rss)
+### abgebrochen
+
+* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-training-muss-wegen-losem-kanaldeckel-abgebrochen-werden](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-training-muss-wegen-losem-kanaldeckel-abgebrochen-werden-a-8dde0613-3756-4491-8de0-0c276e38f825#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-offenbar-leiche-einer-verschleppten-israelischen-soldatin-gefunden](https://www.spiegel.de/ausland/israel-gaza-news-heute-offenbar-leiche-einer-verschleppten-israelischen-soldatin-gefunden-a-703bfecd-b87b-4b0e-b8f4-16f7e24717ff#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-israel-hat-offenbar-tunnel-auf-gelaende-des-schifa-krankenhauses-gefunden](https://www.spiegel.de/ausland/gaza-israel-hat-offenbar-tunnel-auf-gelaende-des-schifa-krankenhauses-gefunden-a-ff7bbe03-7a18-4a57-8200-30c864560f1e#ref=rss)
+### leiche
+
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-offenbar-leiche-einer-verschleppten-israelischen-soldatin-gefunden](https://www.spiegel.de/ausland/israel-gaza-news-heute-offenbar-leiche-einer-verschleppten-israelischen-soldatin-gefunden-a-703bfecd-b87b-4b0e-b8f4-16f7e24717ff#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-israel-hat-offenbar-tunnel-auf-gelaende-des-schifa-krankenhauses-gefunden](https://www.spiegel.de/ausland/gaza-israel-hat-offenbar-tunnel-auf-gelaende-des-schifa-krankenhauses-gefunden-a-ff7bbe03-7a18-4a57-8200-30c864560f1e#ref=rss)
+### verschleppten
+
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-offenbar-leiche-einer-verschleppten-israelischen-soldatin-gefunden](https://www.spiegel.de/ausland/israel-gaza-news-heute-offenbar-leiche-einer-verschleppten-israelischen-soldatin-gefunden-a-703bfecd-b87b-4b0e-b8f4-16f7e24717ff#ref=rss)
+### armee
+
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-offenbar-leiche-einer-verschleppten-israelischen-soldatin-gefunden](https://www.spiegel.de/ausland/israel-gaza-news-heute-offenbar-leiche-einer-verschleppten-israelischen-soldatin-gefunden-a-703bfecd-b87b-4b0e-b8f4-16f7e24717ff#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-israel-hat-offenbar-tunnel-auf-gelaende-des-schifa-krankenhauses-gefunden](https://www.spiegel.de/ausland/gaza-israel-hat-offenbar-tunnel-auf-gelaende-des-schifa-krankenhauses-gefunden-a-ff7bbe03-7a18-4a57-8200-30c864560f1e#ref=rss)
+### eigenen
+
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-offenbar-leiche-einer-verschleppten-israelischen-soldatin-gefunden](https://www.spiegel.de/ausland/israel-gaza-news-heute-offenbar-leiche-einer-verschleppten-israelischen-soldatin-gefunden-a-703bfecd-b87b-4b0e-b8f4-16f7e24717ff#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-israel-hat-offenbar-tunnel-auf-gelaende-des-schifa-krankenhauses-gefunden](https://www.spiegel.de/ausland/gaza-israel-hat-offenbar-tunnel-auf-gelaende-des-schifa-krankenhauses-gefunden-a-ff7bbe03-7a18-4a57-8200-30c864560f1e#ref=rss)
+### angaben
+
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-offenbar-leiche-einer-verschleppten-israelischen-soldatin-gefunden](https://www.spiegel.de/ausland/israel-gaza-news-heute-offenbar-leiche-einer-verschleppten-israelischen-soldatin-gefunden-a-703bfecd-b87b-4b0e-b8f4-16f7e24717ff#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-israel-hat-offenbar-tunnel-auf-gelaende-des-schifa-krankenhauses-gefunden](https://www.spiegel.de/ausland/gaza-israel-hat-offenbar-tunnel-auf-gelaende-des-schifa-krankenhauses-gefunden-a-ff7bbe03-7a18-4a57-8200-30c864560f1e#ref=rss)
+### bringen
+
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-offenbar-leiche-einer-verschleppten-israelischen-soldatin-gefunden](https://www.spiegel.de/ausland/israel-gaza-news-heute-offenbar-leiche-einer-verschleppten-israelischen-soldatin-gefunden-a-703bfecd-b87b-4b0e-b8f4-16f7e24717ff#ref=rss)
+* [https://www.spiegel.de/auto/bahn-strecken-werden-reaktiviert-mit-dem-zug-zurueck-in-die-zukunft](https://www.spiegel.de/auto/bahn-strecken-werden-reaktiviert-mit-dem-zug-zurueck-in-die-zukunft-a-0131677b-0b62-4fe4-90e9-a75a53013a07#ref=rss)
+### news
+
+* [https://www.spiegel.de/ausland/israel-gaza-news-heute-offenbar-leiche-einer-verschleppten-israelischen-soldatin-gefunden](https://www.spiegel.de/ausland/israel-gaza-news-heute-offenbar-leiche-einer-verschleppten-israelischen-soldatin-gefunden-a-703bfecd-b87b-4b0e-b8f4-16f7e24717ff#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-recep-tayyip-erdogan-ampel-hubert-seipel-wladimir-putin](https://www.spiegel.de/politik/deutschland/news-recep-tayyip-erdogan-ampel-hubert-seipel-wladimir-putin-a-bb6d160e-1ef2-4063-8a2c-c8153ec0a944#ref=rss)
+### starship
+
+* [https://www.spiegel.de/wissenschaft/weltall/starship-vor-dem-zweiten-testflug-erlebt-elon-musk-ein-weiteres-debakel](https://www.spiegel.de/wissenschaft/weltall/starship-vor-dem-zweiten-testflug-erlebt-elon-musk-ein-weiteres-debakel-a-2cec5520-212e-434b-9d0d-5074cbb387f7#ref=rss)
+### elon
+
+* [https://www.spiegel.de/wissenschaft/weltall/starship-vor-dem-zweiten-testflug-erlebt-elon-musk-ein-weiteres-debakel](https://www.spiegel.de/wissenschaft/weltall/starship-vor-dem-zweiten-testflug-erlebt-elon-musk-ein-weiteres-debakel-a-2cec5520-212e-434b-9d0d-5074cbb387f7#ref=rss)
+### wohnungen
+
+* [https://www.spiegel.de/wirtschaft/immobilien-baugenehmigungen-fuer-wohnungen-brechen-auch-im-september-ein](https://www.spiegel.de/wirtschaft/immobilien-baugenehmigungen-fuer-wohnungen-brechen-auch-im-september-ein-a-4f24acd1-3fc1-4eb2-956d-9f0b4b3d5945#ref=rss)
+### september
+
+* [https://www.spiegel.de/wirtschaft/immobilien-baugenehmigungen-fuer-wohnungen-brechen-auch-im-september-ein](https://www.spiegel.de/wirtschaft/immobilien-baugenehmigungen-fuer-wohnungen-brechen-auch-im-september-ein-a-4f24acd1-3fc1-4eb2-956d-9f0b4b3d5945#ref=rss)
+### neue
+
+* [https://www.spiegel.de/wirtschaft/immobilien-baugenehmigungen-fuer-wohnungen-brechen-auch-im-september-ein](https://www.spiegel.de/wirtschaft/immobilien-baugenehmigungen-fuer-wohnungen-brechen-auch-im-september-ein-a-4f24acd1-3fc1-4eb2-956d-9f0b4b3d5945#ref=rss)
+* [https://www.spiegel.de/panorama/bologna-angst-um-schiefen-garisenda-turm-hoechste-alarmstufe](https://www.spiegel.de/panorama/bologna-angst-um-schiefen-garisenda-turm-hoechste-alarmstufe-a-532a27ed-d0c3-45d5-a75a-db990f64de0e#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/panorama/justiz/usa-todesstrafe-zwei-verurteilte-moerder-in-alabama-und-texas-hingerichtet](https://www.spiegel.de/panorama/justiz/usa-todesstrafe-zwei-verurteilte-moerder-in-alabama-und-texas-hingerichtet-a-d20bb5c3-4098-409d-b62f-cd5c2660709e#ref=rss)
+### alabama
+
+* [https://www.spiegel.de/panorama/justiz/usa-todesstrafe-zwei-verurteilte-moerder-in-alabama-und-texas-hingerichtet](https://www.spiegel.de/panorama/justiz/usa-todesstrafe-zwei-verurteilte-moerder-in-alabama-und-texas-hingerichtet-a-d20bb5c3-4098-409d-b62f-cd5c2660709e#ref=rss)
+### texas
+
+* [https://www.spiegel.de/panorama/justiz/usa-todesstrafe-zwei-verurteilte-moerder-in-alabama-und-texas-hingerichtet](https://www.spiegel.de/panorama/justiz/usa-todesstrafe-zwei-verurteilte-moerder-in-alabama-und-texas-hingerichtet-a-d20bb5c3-4098-409d-b62f-cd5c2660709e#ref=rss)
+### argentinien
+
+* [https://www.spiegel.de/sport/fussball/wm-qualifikation-argentinien-verliert-erstmals-seit-wm-triumph-brasilien-patzt-auch](https://www.spiegel.de/sport/fussball/wm-qualifikation-argentinien-verliert-erstmals-seit-wm-triumph-brasilien-patzt-auch-a-d636a14e-31f4-4b67-9530-f9ce8e80e840#ref=rss)
+### brasilien
+
+* [https://www.spiegel.de/sport/fussball/wm-qualifikation-argentinien-verliert-erstmals-seit-wm-triumph-brasilien-patzt-auch](https://www.spiegel.de/sport/fussball/wm-qualifikation-argentinien-verliert-erstmals-seit-wm-triumph-brasilien-patzt-auch-a-d636a14e-31f4-4b67-9530-f9ce8e80e840#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/netzwelt/web/tiktok-kaempft-gegen-videos-mit-osama-bin-laden-brief-an](https://www.spiegel.de/netzwelt/web/tiktok-kaempft-gegen-videos-mit-osama-bin-laden-brief-an-a-9cd92914-3a65-4465-9847-e99b1cd49cde#ref=rss)
+* [https://www.spiegel.de/panorama/sean-combs-ex-freundin-wirft-p-diddy-vergewaltigung-vor](https://www.spiegel.de/panorama/sean-combs-ex-freundin-wirft-p-diddy-vergewaltigung-vor-a-c6065b3e-f353-4fd7-8f53-6404b9af1cf2#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/deutschland/afd-muss-ard-monitor-zutritt-zu-parteitag-in-thueringen-gewaehren](https://www.spiegel.de/politik/deutschland/afd-muss-ard-monitor-zutritt-zu-parteitag-in-thueringen-gewaehren-a-ca4e5be2-f48e-481f-894a-e61e7d3540b7#ref=rss)
+### journalisten
+
+* [https://www.spiegel.de/politik/deutschland/afd-muss-ard-monitor-zutritt-zu-parteitag-in-thueringen-gewaehren](https://www.spiegel.de/politik/deutschland/afd-muss-ard-monitor-zutritt-zu-parteitag-in-thueringen-gewaehren-a-ca4e5be2-f48e-481f-894a-e61e7d3540b7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-recep-tayyip-erdogan-ampel-hubert-seipel-wladimir-putin](https://www.spiegel.de/politik/deutschland/news-recep-tayyip-erdogan-ampel-hubert-seipel-wladimir-putin-a-bb6d160e-1ef2-4063-8a2c-c8153ec0a944#ref=rss)
+### laut
+
+* [https://www.spiegel.de/politik/deutschland/afd-muss-ard-monitor-zutritt-zu-parteitag-in-thueringen-gewaehren](https://www.spiegel.de/politik/deutschland/afd-muss-ard-monitor-zutritt-zu-parteitag-in-thueringen-gewaehren-a-ca4e5be2-f48e-481f-894a-e61e7d3540b7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/horst-seehofer-will-in-affaere-um-arne-schoenbohm-als-zeuge-aussagen](https://www.spiegel.de/politik/deutschland/horst-seehofer-will-in-affaere-um-arne-schoenbohm-als-zeuge-aussagen-a-55c9c21c-dda9-44b6-83cb-eecc69fc3759#ref=rss)
+### bologna
+
+* [https://www.spiegel.de/panorama/bologna-angst-um-schiefen-garisenda-turm-hoechste-alarmstufe](https://www.spiegel.de/panorama/bologna-angst-um-schiefen-garisenda-turm-hoechste-alarmstufe-a-532a27ed-d0c3-45d5-a75a-db990f64de0e#ref=rss)
+### schiefen
+
+* [https://www.spiegel.de/panorama/bologna-angst-um-schiefen-garisenda-turm-hoechste-alarmstufe](https://www.spiegel.de/panorama/bologna-angst-um-schiefen-garisenda-turm-hoechste-alarmstufe-a-532a27ed-d0c3-45d5-a75a-db990f64de0e#ref=rss)
+### reformkoalition
+
+* [https://www.spiegel.de/politik/deutschland/ampelregierung-wie-das-milliarden-loch-die-reformkoalition-infrage-stellt](https://www.spiegel.de/politik/deutschland/ampelregierung-wie-das-milliarden-loch-die-reformkoalition-infrage-stellt-a-54555274-480d-4515-bff5-9642cd1bea2b#ref=rss)
+### infrage
+
+* [https://www.spiegel.de/politik/deutschland/ampelregierung-wie-das-milliarden-loch-die-reformkoalition-infrage-stellt](https://www.spiegel.de/politik/deutschland/ampelregierung-wie-das-milliarden-loch-die-reformkoalition-infrage-stellt-a-54555274-480d-4515-bff5-9642cd1bea2b#ref=rss)
+### stellt
+
+* [https://www.spiegel.de/politik/deutschland/ampelregierung-wie-das-milliarden-loch-die-reformkoalition-infrage-stellt](https://www.spiegel.de/politik/deutschland/ampelregierung-wie-das-milliarden-loch-die-reformkoalition-infrage-stellt-a-54555274-480d-4515-bff5-9642cd1bea2b#ref=rss)
+### zukunft
+
+* [https://www.spiegel.de/politik/deutschland/ampelregierung-wie-das-milliarden-loch-die-reformkoalition-infrage-stellt](https://www.spiegel.de/politik/deutschland/ampelregierung-wie-das-milliarden-loch-die-reformkoalition-infrage-stellt-a-54555274-480d-4515-bff5-9642cd1bea2b#ref=rss)
+* [https://www.spiegel.de/auto/bahn-strecken-werden-reaktiviert-mit-dem-zug-zurueck-in-die-zukunft](https://www.spiegel.de/auto/bahn-strecken-werden-reaktiviert-mit-dem-zug-zurueck-in-die-zukunft-a-0131677b-0b62-4fe4-90e9-a75a53013a07#ref=rss)
+### läuft
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-verkehr-laeuft-wieder-weitgehend-ohne-einschraenkungen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-verkehr-laeuft-wieder-weitgehend-ohne-einschraenkungen-a-ce55250c-b405-4b82-b2ec-011bbeeb320f#ref=rss)
+### weitgehend
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-verkehr-laeuft-wieder-weitgehend-ohne-einschraenkungen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-verkehr-laeuft-wieder-weitgehend-ohne-einschraenkungen-a-ce55250c-b405-4b82-b2ec-011bbeeb320f#ref=rss)
+### horst
+
+* [https://www.spiegel.de/politik/deutschland/horst-seehofer-will-in-affaere-um-arne-schoenbohm-als-zeuge-aussagen](https://www.spiegel.de/politik/deutschland/horst-seehofer-will-in-affaere-um-arne-schoenbohm-als-zeuge-aussagen-a-55c9c21c-dda9-44b6-83cb-eecc69fc3759#ref=rss)
+### seehofer
+
+* [https://www.spiegel.de/politik/deutschland/horst-seehofer-will-in-affaere-um-arne-schoenbohm-als-zeuge-aussagen](https://www.spiegel.de/politik/deutschland/horst-seehofer-will-in-affaere-um-arne-schoenbohm-als-zeuge-aussagen-a-55c9c21c-dda9-44b6-83cb-eecc69fc3759#ref=rss)
+### arne
+
+* [https://www.spiegel.de/politik/deutschland/horst-seehofer-will-in-affaere-um-arne-schoenbohm-als-zeuge-aussagen](https://www.spiegel.de/politik/deutschland/horst-seehofer-will-in-affaere-um-arne-schoenbohm-als-zeuge-aussagen-a-55c9c21c-dda9-44b6-83cb-eecc69fc3759#ref=rss)
+### aussagen
+
+* [https://www.spiegel.de/politik/deutschland/horst-seehofer-will-in-affaere-um-arne-schoenbohm-als-zeuge-aussagen](https://www.spiegel.de/politik/deutschland/horst-seehofer-will-in-affaere-um-arne-schoenbohm-als-zeuge-aussagen-a-55c9c21c-dda9-44b6-83cb-eecc69fc3759#ref=rss)
+### unter
+
+* [https://www.spiegel.de/politik/deutschland/horst-seehofer-will-in-affaere-um-arne-schoenbohm-als-zeuge-aussagen](https://www.spiegel.de/politik/deutschland/horst-seehofer-will-in-affaere-um-arne-schoenbohm-als-zeuge-aussagen-a-55c9c21c-dda9-44b6-83cb-eecc69fc3759#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-israel-hat-offenbar-tunnel-auf-gelaende-des-schifa-krankenhauses-gefunden](https://www.spiegel.de/ausland/gaza-israel-hat-offenbar-tunnel-auf-gelaende-des-schifa-krankenhauses-gefunden-a-ff7bbe03-7a18-4a57-8200-30c864560f1e#ref=rss)
+### long
+
+* [https://www.spiegel.de/politik/deutschland/long-covid-ausschuss-beschliesst-100-millionen-euro-fuer-forschung](https://www.spiegel.de/politik/deutschland/long-covid-ausschuss-beschliesst-100-millionen-euro-fuer-forschung-a-305a5af0-77cf-44ba-b7d8-f4e0fa1bbb1c#ref=rss)
+### covid
+
+* [https://www.spiegel.de/politik/deutschland/long-covid-ausschuss-beschliesst-100-millionen-euro-fuer-forschung](https://www.spiegel.de/politik/deutschland/long-covid-ausschuss-beschliesst-100-millionen-euro-fuer-forschung-a-305a5af0-77cf-44ba-b7d8-f4e0fa1bbb1c#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/politik/deutschland/long-covid-ausschuss-beschliesst-100-millionen-euro-fuer-forschung](https://www.spiegel.de/politik/deutschland/long-covid-ausschuss-beschliesst-100-millionen-euro-fuer-forschung-a-305a5af0-77cf-44ba-b7d8-f4e0fa1bbb1c#ref=rss)
+### forschung
+
+* [https://www.spiegel.de/politik/deutschland/long-covid-ausschuss-beschliesst-100-millionen-euro-fuer-forschung](https://www.spiegel.de/politik/deutschland/long-covid-ausschuss-beschliesst-100-millionen-euro-fuer-forschung-a-305a5af0-77cf-44ba-b7d8-f4e0fa1bbb1c#ref=rss)
 ### hubert
 
-* [https://www.spiegel.de/kultur/tv/hubert-seipel-grimme-institut-ueberprueft-auszeichnung-nach-russland-zahlungen](https://www.spiegel.de/kultur/tv/hubert-seipel-grimme-institut-ueberprueft-auszeichnung-nach-russland-zahlungen-a-0dfda3bb-22e4-4cce-8f18-b440ba776c08#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-recep-tayyip-erdogan-ampel-hubert-seipel-wladimir-putin](https://www.spiegel.de/politik/deutschland/news-recep-tayyip-erdogan-ampel-hubert-seipel-wladimir-putin-a-bb6d160e-1ef2-4063-8a2c-c8153ec0a944#ref=rss)
 ### seipel
 
-* [https://www.spiegel.de/kultur/tv/hubert-seipel-grimme-institut-ueberprueft-auszeichnung-nach-russland-zahlungen](https://www.spiegel.de/kultur/tv/hubert-seipel-grimme-institut-ueberprueft-auszeichnung-nach-russland-zahlungen-a-0dfda3bb-22e4-4cce-8f18-b440ba776c08#ref=rss)
-### fragen
+* [https://www.spiegel.de/politik/deutschland/news-recep-tayyip-erdogan-ampel-hubert-seipel-wladimir-putin](https://www.spiegel.de/politik/deutschland/news-recep-tayyip-erdogan-ampel-hubert-seipel-wladimir-putin-a-bb6d160e-1ef2-4063-8a2c-c8153ec0a944#ref=rss)
+### tunnel
 
-* [https://www.spiegel.de/kultur/tv/hubert-seipel-grimme-institut-ueberprueft-auszeichnung-nach-russland-zahlungen](https://www.spiegel.de/kultur/tv/hubert-seipel-grimme-institut-ueberprueft-auszeichnung-nach-russland-zahlungen-a-0dfda3bb-22e4-4cce-8f18-b440ba776c08#ref=rss)
-* [https://www.spiegel.de/karriere/versprechen-in-stellenanzeigen-1200-euro-sorry-gibt-s-doch-nicht](https://www.spiegel.de/karriere/versprechen-in-stellenanzeigen-1200-euro-sorry-gibt-s-doch-nicht-a-8a045b3d-4b64-4d68-997b-b2a357e2f482#ref=rss)
-### fast
+* [https://www.spiegel.de/ausland/gaza-israel-hat-offenbar-tunnel-auf-gelaende-des-schifa-krankenhauses-gefunden](https://www.spiegel.de/ausland/gaza-israel-hat-offenbar-tunnel-auf-gelaende-des-schifa-krankenhauses-gefunden-a-ff7bbe03-7a18-4a57-8200-30c864560f1e#ref=rss)
+### snoop
 
-* [https://www.spiegel.de/netzwelt/betrug-mit-falschen-paketdienst-sms-beschwerden-haben-sich-vervielfacht](https://www.spiegel.de/netzwelt/betrug-mit-falschen-paketdienst-sms-beschwerden-haben-sich-vervielfacht-a-85d4d35d-501d-4514-a6fe-d21ea06c1c09#ref=rss)
-* [https://www.spiegel.de/auto/bahnstreik-chaos-auf-der-schiene-normalbetrieb-auf-der-strasse](https://www.spiegel.de/auto/bahnstreik-chaos-auf-der-schiene-normalbetrieb-auf-der-strasse-a-22bd6d66-2b07-49fe-b4dd-168ab4766afb#ref=rss)
-### etwas
+* [https://www.spiegel.de/panorama/leute/snoop-dogg-will-das-rauchen-aufgeben](https://www.spiegel.de/panorama/leute/snoop-dogg-will-das-rauchen-aufgeben-a-28d93ea3-d80f-45c3-af20-7426ee3e39e6#ref=rss)
+### dogg
 
-* [https://www.spiegel.de/netzwelt/betrug-mit-falschen-paketdienst-sms-beschwerden-haben-sich-vervielfacht](https://www.spiegel.de/netzwelt/betrug-mit-falschen-paketdienst-sms-beschwerden-haben-sich-vervielfacht-a-85d4d35d-501d-4514-a6fe-d21ea06c1c09#ref=rss)
-* [https://www.spiegel.de/geschichte/geschichte-newsletter-und-dann-schoss-hitler-in-die-decke](https://www.spiegel.de/geschichte/geschichte-newsletter-und-dann-schoss-hitler-in-die-decke-a-22817b72-66a9-4241-a50a-d3135fb6c752#ref=rss)
-### hitler
+* [https://www.spiegel.de/panorama/leute/snoop-dogg-will-das-rauchen-aufgeben](https://www.spiegel.de/panorama/leute/snoop-dogg-will-das-rauchen-aufgeben-a-28d93ea3-d80f-45c3-af20-7426ee3e39e6#ref=rss)
+### rapper
 
-* [https://www.spiegel.de/geschichte/geschichte-newsletter-und-dann-schoss-hitler-in-die-decke](https://www.spiegel.de/geschichte/geschichte-newsletter-und-dann-schoss-hitler-in-die-decke-a-22817b72-66a9-4241-a50a-d3135fb6c752#ref=rss)
-### münchen
+* [https://www.spiegel.de/panorama/leute/snoop-dogg-will-das-rauchen-aufgeben](https://www.spiegel.de/panorama/leute/snoop-dogg-will-das-rauchen-aufgeben-a-28d93ea3-d80f-45c3-af20-7426ee3e39e6#ref=rss)
+* [https://www.spiegel.de/panorama/sean-combs-ex-freundin-wirft-p-diddy-vergewaltigung-vor](https://www.spiegel.de/panorama/sean-combs-ex-freundin-wirft-p-diddy-vergewaltigung-vor-a-c6065b3e-f353-4fd7-8f53-6404b9af1cf2#ref=rss)
+### rauchen
 
-* [https://www.spiegel.de/geschichte/geschichte-newsletter-und-dann-schoss-hitler-in-die-decke](https://www.spiegel.de/geschichte/geschichte-newsletter-und-dann-schoss-hitler-in-die-decke-a-22817b72-66a9-4241-a50a-d3135fb6c752#ref=rss)
-* [https://www.spiegel.de/sport/fussball/uli-hoeness-vom-fc-bayern-muenchen-saudi-arabien-will-den-weltfussball-beherrschen](https://www.spiegel.de/sport/fussball/uli-hoeness-vom-fc-bayern-muenchen-saudi-arabien-will-den-weltfussball-beherrschen-a-a9655dfd-9f8c-44f3-968a-59b252bcdd52#ref=rss)
-### jahren
+* [https://www.spiegel.de/panorama/leute/snoop-dogg-will-das-rauchen-aufgeben](https://www.spiegel.de/panorama/leute/snoop-dogg-will-das-rauchen-aufgeben-a-28d93ea3-d80f-45c3-af20-7426ee3e39e6#ref=rss)
+### atpfinals
 
-* [https://www.spiegel.de/geschichte/geschichte-newsletter-und-dann-schoss-hitler-in-die-decke](https://www.spiegel.de/geschichte/geschichte-newsletter-und-dann-schoss-hitler-in-die-decke-a-22817b72-66a9-4241-a50a-d3135fb6c752#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-laenderspiel-gegen-die-tuerkei-in-berlin-2010-oezil-merkel-erdogan-und-ein-foto](https://www.spiegel.de/sport/fussball/dfb-laenderspiel-gegen-die-tuerkei-in-berlin-2010-oezil-merkel-erdogan-und-ein-foto-a-fe65ff07-b60e-44fe-a399-debc5705767c#ref=rss)
-### spanien
+* [https://www.spiegel.de/sport/tennis/atp-finals-novak-djokovic-zieht-dank-jannik-sinner-ins-halbfinale-ein](https://www.spiegel.de/sport/tennis/atp-finals-novak-djokovic-zieht-dank-jannik-sinner-ins-halbfinale-ein-a-b863141c-bcc5-4d4e-bca8-610b2ff66091#ref=rss)
+### novak
 
-* [https://www.spiegel.de/ausland/wahl-in-spanien-die-demokratie-hat-den-stresstest-knapp-bestanden-kommentar](https://www.spiegel.de/ausland/wahl-in-spanien-die-demokratie-hat-den-stresstest-knapp-bestanden-kommentar-a-a452c017-477f-44c3-b632-817802d1c664#ref=rss)
-### demokratie
+* [https://www.spiegel.de/sport/tennis/atp-finals-novak-djokovic-zieht-dank-jannik-sinner-ins-halbfinale-ein](https://www.spiegel.de/sport/tennis/atp-finals-novak-djokovic-zieht-dank-jannik-sinner-ins-halbfinale-ein-a-b863141c-bcc5-4d4e-bca8-610b2ff66091#ref=rss)
+### djokovic
 
-* [https://www.spiegel.de/ausland/wahl-in-spanien-die-demokratie-hat-den-stresstest-knapp-bestanden-kommentar](https://www.spiegel.de/ausland/wahl-in-spanien-die-demokratie-hat-den-stresstest-knapp-bestanden-kommentar-a-a452c017-477f-44c3-b632-817802d1c664#ref=rss)
-### großbritannien
+* [https://www.spiegel.de/sport/tennis/atp-finals-novak-djokovic-zieht-dank-jannik-sinner-ins-halbfinale-ein](https://www.spiegel.de/sport/tennis/atp-finals-novak-djokovic-zieht-dank-jannik-sinner-ins-halbfinale-ein-a-b863141c-bcc5-4d4e-bca8-610b2ff66091#ref=rss)
+### sean
 
-* [https://www.spiegel.de/wissenschaft/medizin/crispr-grossbritannien-laesst-weltweit-erste-gentherapie-zu](https://www.spiegel.de/wissenschaft/medizin/crispr-grossbritannien-laesst-weltweit-erste-gentherapie-zu-a-dccaeea6-2333-4101-b9ee-6ef8f6f37a49#ref=rss)
-### abstimmung
+* [https://www.spiegel.de/panorama/sean-combs-ex-freundin-wirft-p-diddy-vergewaltigung-vor](https://www.spiegel.de/panorama/sean-combs-ex-freundin-wirft-p-diddy-vergewaltigung-vor-a-c6065b3e-f353-4fd7-8f53-6404b9af1cf2#ref=rss)
+### combs
 
-* [https://www.spiegel.de/ausland/tuerkei-verzoegert-abstimmung-zu-schwedens-nato-beitritt](https://www.spiegel.de/ausland/tuerkei-verzoegert-abstimmung-zu-schwedens-nato-beitritt-a-e1ca99d0-72c7-44dc-a516-8b20008cf41c#ref=rss)
-### natobeitritt
+* [https://www.spiegel.de/panorama/sean-combs-ex-freundin-wirft-p-diddy-vergewaltigung-vor](https://www.spiegel.de/panorama/sean-combs-ex-freundin-wirft-p-diddy-vergewaltigung-vor-a-c6065b3e-f353-4fd7-8f53-6404b9af1cf2#ref=rss)
+### merz
 
-* [https://www.spiegel.de/ausland/tuerkei-verzoegert-abstimmung-zu-schwedens-nato-beitritt](https://www.spiegel.de/ausland/tuerkei-verzoegert-abstimmung-zu-schwedens-nato-beitritt-a-e1ca99d0-72c7-44dc-a516-8b20008cf41c#ref=rss)
-### sollte
-
-* [https://www.spiegel.de/ausland/tuerkei-verzoegert-abstimmung-zu-schwedens-nato-beitritt](https://www.spiegel.de/ausland/tuerkei-verzoegert-abstimmung-zu-schwedens-nato-beitritt-a-e1ca99d0-72c7-44dc-a516-8b20008cf41c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/uli-hoeness-vom-fc-bayern-muenchen-saudi-arabien-will-den-weltfussball-beherrschen](https://www.spiegel.de/sport/fussball/uli-hoeness-vom-fc-bayern-muenchen-saudi-arabien-will-den-weltfussball-beherrschen-a-a9655dfd-9f8c-44f3-968a-59b252bcdd52#ref=rss)
-### museum
-
-* [https://www.spiegel.de/kultur/wegen-bds-unterstuetzung-museum-folkwang-beendet-kooperation-mit-kurator](https://www.spiegel.de/kultur/wegen-bds-unterstuetzung-museum-folkwang-beendet-kooperation-mit-kurator-a-6f353112-665b-42a9-a621-f5800166fcb4#ref=rss)
-### folkwang
-
-* [https://www.spiegel.de/kultur/wegen-bds-unterstuetzung-museum-folkwang-beendet-kooperation-mit-kurator](https://www.spiegel.de/kultur/wegen-bds-unterstuetzung-museum-folkwang-beendet-kooperation-mit-kurator-a-6f353112-665b-42a9-a621-f5800166fcb4#ref=rss)
-### finnland
-
-* [https://www.spiegel.de/ausland/finnland-schliesst-vier-grenzuebergaenge-zu-russland](https://www.spiegel.de/ausland/finnland-schliesst-vier-grenzuebergaenge-zu-russland-a-bb141a9d-c1ba-4ad3-bc68-19c9759ecd99#ref=rss)
-### grenzübergänge
-
-* [https://www.spiegel.de/ausland/finnland-schliesst-vier-grenzuebergaenge-zu-russland](https://www.spiegel.de/ausland/finnland-schliesst-vier-grenzuebergaenge-zu-russland-a-bb141a9d-c1ba-4ad3-bc68-19c9759ecd99#ref=rss)
-### migranten
-
-* [https://www.spiegel.de/ausland/finnland-schliesst-vier-grenzuebergaenge-zu-russland](https://www.spiegel.de/ausland/finnland-schliesst-vier-grenzuebergaenge-zu-russland-a-bb141a9d-c1ba-4ad3-bc68-19c9759ecd99#ref=rss)
-* [https://www.spiegel.de/ausland/europaeischer-gerichtshof-fuer-menschenrechte-verurteilt-italien-wegen-erniedrigung-von-migranten](https://www.spiegel.de/ausland/europaeischer-gerichtshof-fuer-menschenrechte-verurteilt-italien-wegen-erniedrigung-von-migranten-a-e71f0b10-ece6-41b3-9891-19e56d28f370#ref=rss)
-### 2010
-
-* [https://www.spiegel.de/sport/fussball/dfb-laenderspiel-gegen-die-tuerkei-in-berlin-2010-oezil-merkel-erdogan-und-ein-foto](https://www.spiegel.de/sport/fussball/dfb-laenderspiel-gegen-die-tuerkei-in-berlin-2010-oezil-merkel-erdogan-und-ein-foto-a-fe65ff07-b60e-44fe-a399-debc5705767c#ref=rss)
-### mesut
-
-* [https://www.spiegel.de/sport/fussball/dfb-laenderspiel-gegen-die-tuerkei-in-berlin-2010-oezil-merkel-erdogan-und-ein-foto](https://www.spiegel.de/sport/fussball/dfb-laenderspiel-gegen-die-tuerkei-in-berlin-2010-oezil-merkel-erdogan-und-ein-foto-a-fe65ff07-b60e-44fe-a399-debc5705767c#ref=rss)
-### özil
-
-* [https://www.spiegel.de/sport/fussball/dfb-laenderspiel-gegen-die-tuerkei-in-berlin-2010-oezil-merkel-erdogan-und-ein-foto](https://www.spiegel.de/sport/fussball/dfb-laenderspiel-gegen-die-tuerkei-in-berlin-2010-oezil-merkel-erdogan-und-ein-foto-a-fe65ff07-b60e-44fe-a399-debc5705767c#ref=rss)
-### gwyneth
-
-* [https://www.spiegel.de/kultur/gwyneth-paltrow-prozess-zwischen-schauspielerin-und-optiker-kommt-als-musical-auf-die-buehne](https://www.spiegel.de/kultur/gwyneth-paltrow-prozess-zwischen-schauspielerin-und-optiker-kommt-als-musical-auf-die-buehne-a-2177cd51-5355-4b85-beb6-4b51325c57d2#ref=rss)
-### paltrow
-
-* [https://www.spiegel.de/kultur/gwyneth-paltrow-prozess-zwischen-schauspielerin-und-optiker-kommt-als-musical-auf-die-buehne](https://www.spiegel.de/kultur/gwyneth-paltrow-prozess-zwischen-schauspielerin-und-optiker-kommt-als-musical-auf-die-buehne-a-2177cd51-5355-4b85-beb6-4b51325c57d2#ref=rss)
-### optiker
-
-* [https://www.spiegel.de/kultur/gwyneth-paltrow-prozess-zwischen-schauspielerin-und-optiker-kommt-als-musical-auf-die-buehne](https://www.spiegel.de/kultur/gwyneth-paltrow-prozess-zwischen-schauspielerin-und-optiker-kommt-als-musical-auf-die-buehne-a-2177cd51-5355-4b85-beb6-4b51325c57d2#ref=rss)
-### musical
-
-* [https://www.spiegel.de/kultur/gwyneth-paltrow-prozess-zwischen-schauspielerin-und-optiker-kommt-als-musical-auf-die-buehne](https://www.spiegel.de/kultur/gwyneth-paltrow-prozess-zwischen-schauspielerin-und-optiker-kommt-als-musical-auf-die-buehne-a-2177cd51-5355-4b85-beb6-4b51325c57d2#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/kultur/gwyneth-paltrow-prozess-zwischen-schauspielerin-und-optiker-kommt-als-musical-auf-die-buehne](https://www.spiegel.de/kultur/gwyneth-paltrow-prozess-zwischen-schauspielerin-und-optiker-kommt-als-musical-auf-die-buehne-a-2177cd51-5355-4b85-beb6-4b51325c57d2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/freiburg-pfleger-wegen-mordes-an-89-jaehriger-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/freiburg-pfleger-wegen-mordes-an-89-jaehriger-zu-lebenslanger-haft-verurteilt-a-e1a3dcbf-5caf-458a-af45-abe0b8f6a337#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/ausland/europaeischer-gerichtshof-fuer-menschenrechte-verurteilt-italien-wegen-erniedrigung-von-migranten](https://www.spiegel.de/ausland/europaeischer-gerichtshof-fuer-menschenrechte-verurteilt-italien-wegen-erniedrigung-von-migranten-a-e71f0b10-ece6-41b3-9891-19e56d28f370#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/freiburg-pfleger-wegen-mordes-an-89-jaehriger-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/freiburg-pfleger-wegen-mordes-an-89-jaehriger-zu-lebenslanger-haft-verurteilt-a-e1a3dcbf-5caf-458a-af45-abe0b8f6a337#ref=rss)
-### italien
-
-* [https://www.spiegel.de/ausland/europaeischer-gerichtshof-fuer-menschenrechte-verurteilt-italien-wegen-erniedrigung-von-migranten](https://www.spiegel.de/ausland/europaeischer-gerichtshof-fuer-menschenrechte-verurteilt-italien-wegen-erniedrigung-von-migranten-a-e71f0b10-ece6-41b3-9891-19e56d28f370#ref=rss)
-### pfleger
-
-* [https://www.spiegel.de/panorama/justiz/freiburg-pfleger-wegen-mordes-an-89-jaehriger-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/freiburg-pfleger-wegen-mordes-an-89-jaehriger-zu-lebenslanger-haft-verurteilt-a-e1a3dcbf-5caf-458a-af45-abe0b8f6a337#ref=rss)
-### darauf
-
-* [https://www.spiegel.de/panorama/justiz/freiburg-pfleger-wegen-mordes-an-89-jaehriger-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/freiburg-pfleger-wegen-mordes-an-89-jaehriger-zu-lebenslanger-haft-verurteilt-a-e1a3dcbf-5caf-458a-af45-abe0b8f6a337#ref=rss)
-* [https://www.spiegel.de/sport/fussball/uli-hoeness-vom-fc-bayern-muenchen-saudi-arabien-will-den-weltfussball-beherrschen](https://www.spiegel.de/sport/fussball/uli-hoeness-vom-fc-bayern-muenchen-saudi-arabien-will-den-weltfussball-beherrschen-a-a9655dfd-9f8c-44f3-968a-59b252bcdd52#ref=rss)
-### uli
-
-* [https://www.spiegel.de/sport/fussball/uli-hoeness-vom-fc-bayern-muenchen-saudi-arabien-will-den-weltfussball-beherrschen](https://www.spiegel.de/sport/fussball/uli-hoeness-vom-fc-bayern-muenchen-saudi-arabien-will-den-weltfussball-beherrschen-a-a9655dfd-9f8c-44f3-968a-59b252bcdd52#ref=rss)
-### hoeneß
-
-* [https://www.spiegel.de/sport/fussball/uli-hoeness-vom-fc-bayern-muenchen-saudi-arabien-will-den-weltfussball-beherrschen](https://www.spiegel.de/sport/fussball/uli-hoeness-vom-fc-bayern-muenchen-saudi-arabien-will-den-weltfussball-beherrschen-a-a9655dfd-9f8c-44f3-968a-59b252bcdd52#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/uli-hoeness-vom-fc-bayern-muenchen-saudi-arabien-will-den-weltfussball-beherrschen](https://www.spiegel.de/sport/fussball/uli-hoeness-vom-fc-bayern-muenchen-saudi-arabien-will-den-weltfussball-beherrschen-a-a9655dfd-9f8c-44f3-968a-59b252bcdd52#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/uli-hoeness-vom-fc-bayern-muenchen-saudi-arabien-will-den-weltfussball-beherrschen](https://www.spiegel.de/sport/fussball/uli-hoeness-vom-fc-bayern-muenchen-saudi-arabien-will-den-weltfussball-beherrschen-a-a9655dfd-9f8c-44f3-968a-59b252bcdd52#ref=rss)
-### alte
-
-* [https://www.spiegel.de/wissenschaft/natur/gotha-forscher-finden-mehr-als-hundert-jahre-alte-flaschenpost](https://www.spiegel.de/wissenschaft/natur/gotha-forscher-finden-mehr-als-hundert-jahre-alte-flaschenpost-a-e070f0a5-49d9-4cf6-a8e7-40b842fcc3b5#ref=rss)
-### flaschenpost
-
-* [https://www.spiegel.de/wissenschaft/natur/gotha-forscher-finden-mehr-als-hundert-jahre-alte-flaschenpost](https://www.spiegel.de/wissenschaft/natur/gotha-forscher-finden-mehr-als-hundert-jahre-alte-flaschenpost-a-e070f0a5-49d9-4cf6-a8e7-40b842fcc3b5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-cdu-laesst-auch-sondervermoegen-fuer-energiepreisbremsen-pruefen](https://www.spiegel.de/politik/deutschland/friedrich-merz-cdu-laesst-auch-sondervermoegen-fuer-energiepreisbremsen-pruefen-a-b927fa3e-8a22-456c-87ab-ec87696a3bd7#ref=rss)
 
