@@ -4,278 +4,331 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### frankreich
-
-* [https://www.spiegel.de/panorama/napoleon-zweispitz-soll-bei-auktion-in-frankreich-mehr-als-600-000-euro-einbringen](https://www.spiegel.de/panorama/napoleon-zweispitz-soll-bei-auktion-in-frankreich-mehr-als-600-000-euro-einbringen-a-e7fc49f7-9036-42a8-a131-1d22f04e0207#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-frankreich-will-kranke-kinder-aus-dem-kuestenstreifen-aufnehmen](https://www.spiegel.de/ausland/gaza-frankreich-will-kranke-kinder-aus-dem-kuestenstreifen-aufnehmen-a-8c5840f5-4efd-4584-b2b9-c92f1ae07a59#ref=rss)
-* [https://www.spiegel.de/wissenschaft/frankreich-testet-erfolgreich-neue-atomrakete](https://www.spiegel.de/wissenschaft/frankreich-testet-erfolgreich-neue-atomrakete-a-0c6042ad-5571-4f94-ae77-d0a002519c13#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-regierung-will-gebaeude-verkaufen-statt-neuer-schulden](https://www.spiegel.de/ausland/frankreich-regierung-will-gebaeude-verkaufen-statt-neuer-schulden-a-aef480cc-70fe-4f63-817c-a2266b6463d7#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/deinspiegel/12-jaehrige-finja-ich-fahre-zur-wm-im-muellsammeln](https://www.spiegel.de/deinspiegel/12-jaehrige-finja-ich-fahre-zur-wm-im-muellsammeln-a-23d7aa9e-1fde-4c63-a9c8-9f98bbdd71eb#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-november-bisher-ungewoehnlich-nass-und-es-bleibt-regnerisch](https://www.spiegel.de/panorama/wetter-in-deutschland-november-bisher-ungewoehnlich-nass-und-es-bleibt-regnerisch-a-a1544161-7a12-471e-8b2d-2c4e18ac5577#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-regierung-will-gebaeude-verkaufen-statt-neuer-schulden](https://www.spiegel.de/ausland/frankreich-regierung-will-gebaeude-verkaufen-statt-neuer-schulden-a-aef480cc-70fe-4f63-817c-a2266b6463d7#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/italiener-nach-mutmasslichem-mord-an-ex-freundin-in-deutschland-festgenommen](https://www.spiegel.de/panorama/justiz/italiener-nach-mutmasslichem-mord-an-ex-freundin-in-deutschland-festgenommen-a-5534a9f2-18c8-4613-9729-11ae85b66fbc#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/ausland/rotes-meer-huthi-rebellen-huthi-rebellen-greifen-offenbar-autofrachter-im-roten-meer-an](https://www.spiegel.de/ausland/rotes-meer-huthi-rebellen-huthi-rebellen-greifen-offenbar-autofrachter-im-roten-meer-an-a-ee360143-0c32-48c5-a0b2-45ab73b34690#ref=rss)
-* [https://www.spiegel.de/panorama/napoleon-zweispitz-soll-bei-auktion-in-frankreich-mehr-als-600-000-euro-einbringen](https://www.spiegel.de/panorama/napoleon-zweispitz-soll-bei-auktion-in-frankreich-mehr-als-600-000-euro-einbringen-a-e7fc49f7-9036-42a8-a131-1d22f04e0207#ref=rss)
-* [https://www.spiegel.de/kultur/glastonbury-festival-tickets-binnen-einer-stunde-ausverkauft](https://www.spiegel.de/kultur/glastonbury-festival-tickets-binnen-einer-stunde-ausverkauft-a-00b91281-b531-4011-8d4e-6f7f4c64d397#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/schwimmunterricht-in-frachtcontainern-11-50-meter-richtung-seepferdchen](https://www.spiegel.de/panorama/bildung/schwimmunterricht-in-frachtcontainern-11-50-meter-richtung-seepferdchen-a-077be736-5eb6-4c98-aeb8-90e02b3b10ba#ref=rss)
-### schrauben
-
-* [https://www.spiegel.de/karriere/raetsel-der-woche-was-passiert-mit-den-schrauben](https://www.spiegel.de/karriere/raetsel-der-woche-was-passiert-mit-den-schrauben-a-cc47fd20-2a20-4e25-a762-9dac3305dee4#ref=rss)
-### meer
-
-* [https://www.spiegel.de/ausland/rotes-meer-huthi-rebellen-huthi-rebellen-greifen-offenbar-autofrachter-im-roten-meer-an](https://www.spiegel.de/ausland/rotes-meer-huthi-rebellen-huthi-rebellen-greifen-offenbar-autofrachter-im-roten-meer-an-a-ee360143-0c32-48c5-a0b2-45ab73b34690#ref=rss)
-### einige
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-versoehnt-sich-mit-dem-rennen-in-den-usa-nach-viel-kritik](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-versoehnt-sich-mit-dem-rennen-in-den-usa-nach-viel-kritik-a-91610c95-65e4-42a3-a1ec-b5c080f40b74#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/antisemitismus-auf-tiktok-die-afd-ist-gefaehrlicher-als-osama-bin-laden](https://www.spiegel.de/politik/deutschland/antisemitismus-auf-tiktok-die-afd-ist-gefaehrlicher-als-osama-bin-laden-a-97e2857b-83b0-4453-b203-91465fd112fa#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/corona-und-grippe-einige-kliniken-verhaengen-wieder-maskenpflicht-und-besuchseinschraenkungen](https://www.spiegel.de/wissenschaft/medizin/corona-und-grippe-einige-kliniken-verhaengen-wieder-maskenpflicht-und-besuchseinschraenkungen-a-c1da870f-284c-4644-9164-6152fec3d24e#ref=rss)
-### bin
-
-* [https://www.spiegel.de/panorama/ich-bin-kein-star-holt-mich-doch-rauf](https://www.spiegel.de/panorama/ich-bin-kein-star-holt-mich-doch-rauf-a-69a679d8-ef54-4aad-8f00-ceff8020e3db#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/antisemitismus-auf-tiktok-die-afd-ist-gefaehrlicher-als-osama-bin-laden](https://www.spiegel.de/politik/deutschland/antisemitismus-auf-tiktok-die-afd-ist-gefaehrlicher-als-osama-bin-laden-a-97e2857b-83b0-4453-b203-91465fd112fa#ref=rss)
-### taylor
-
-* [https://www.spiegel.de/panorama/ich-bin-kein-star-holt-mich-doch-rauf](https://www.spiegel.de/panorama/ich-bin-kein-star-holt-mich-doch-rauf-a-69a679d8-ef54-4aad-8f00-ceff8020e3db#ref=rss)
-* [https://www.spiegel.de/panorama/fan-stirbt-bei-taylor-swift-konzert-sie-waren-sehr-uneinsichtig-gegenueber-den-leuten](https://www.spiegel.de/panorama/fan-stirbt-bei-taylor-swift-konzert-sie-waren-sehr-uneinsichtig-gegenueber-den-leuten-a-24be3dc4-f7a1-44ca-bfb9-90f7cf05c809#ref=rss)
-### tage
-
-* [https://www.spiegel.de/panorama/ich-bin-kein-star-holt-mich-doch-rauf](https://www.spiegel.de/panorama/ich-bin-kein-star-holt-mich-doch-rauf-a-69a679d8-ef54-4aad-8f00-ceff8020e3db#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-november-bisher-ungewoehnlich-nass-und-es-bleibt-regnerisch](https://www.spiegel.de/panorama/wetter-in-deutschland-november-bisher-ungewoehnlich-nass-und-es-bleibt-regnerisch-a-a1544161-7a12-471e-8b2d-2c4e18ac5577#ref=rss)
-* [https://www.spiegel.de/panorama/indien-rettungsaktion-von-tunnel-verschuetteten-koennte-noch-mehrere-tage-dauern](https://www.spiegel.de/panorama/indien-rettungsaktion-von-tunnel-verschuetteten-koennte-noch-mehrere-tage-dauern-a-d0a5a303-b1f1-4ca9-b4bd-7ce9c51ada9e#ref=rss)
-### woche
-
-* [https://www.spiegel.de/karriere/raetsel-der-woche-was-passiert-mit-den-schrauben](https://www.spiegel.de/karriere/raetsel-der-woche-was-passiert-mit-den-schrauben-a-cc47fd20-2a20-4e25-a762-9dac3305dee4#ref=rss)
-* [https://www.spiegel.de/panorama/ich-bin-kein-star-holt-mich-doch-rauf](https://www.spiegel.de/panorama/ich-bin-kein-star-holt-mich-doch-rauf-a-69a679d8-ef54-4aad-8f00-ceff8020e3db#ref=rss)
-### greifen
-
-* [https://www.spiegel.de/karriere/raetsel-der-woche-was-passiert-mit-den-schrauben](https://www.spiegel.de/karriere/raetsel-der-woche-was-passiert-mit-den-schrauben-a-cc47fd20-2a20-4e25-a762-9dac3305dee4#ref=rss)
-* [https://www.spiegel.de/ausland/rotes-meer-huthi-rebellen-huthi-rebellen-greifen-offenbar-autofrachter-im-roten-meer-an](https://www.spiegel.de/ausland/rotes-meer-huthi-rebellen-huthi-rebellen-greifen-offenbar-autofrachter-im-roten-meer-an-a-ee360143-0c32-48c5-a0b2-45ab73b34690#ref=rss)
-### richtung
-
-* [https://www.spiegel.de/karriere/raetsel-der-woche-was-passiert-mit-den-schrauben](https://www.spiegel.de/karriere/raetsel-der-woche-was-passiert-mit-den-schrauben-a-cc47fd20-2a20-4e25-a762-9dac3305dee4#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/schwimmunterricht-in-frachtcontainern-11-50-meter-richtung-seepferdchen](https://www.spiegel.de/panorama/bildung/schwimmunterricht-in-frachtcontainern-11-50-meter-richtung-seepferdchen-a-077be736-5eb6-4c98-aeb8-90e02b3b10ba#ref=rss)
-### spogomiweltmeisterschaft
-
-* [https://www.spiegel.de/deinspiegel/12-jaehrige-finja-ich-fahre-zur-wm-im-muellsammeln](https://www.spiegel.de/deinspiegel/12-jaehrige-finja-ich-fahre-zur-wm-im-muellsammeln-a-23d7aa9e-1fde-4c63-a9c8-9f98bbdd71eb#ref=rss)
-### japan
-
-* [https://www.spiegel.de/deinspiegel/12-jaehrige-finja-ich-fahre-zur-wm-im-muellsammeln](https://www.spiegel.de/deinspiegel/12-jaehrige-finja-ich-fahre-zur-wm-im-muellsammeln-a-23d7aa9e-1fde-4c63-a9c8-9f98bbdd71eb#ref=rss)
-### ich
-
-* [https://www.spiegel.de/deinspiegel/12-jaehrige-finja-ich-fahre-zur-wm-im-muellsammeln](https://www.spiegel.de/deinspiegel/12-jaehrige-finja-ich-fahre-zur-wm-im-muellsammeln-a-23d7aa9e-1fde-4c63-a9c8-9f98bbdd71eb#ref=rss)
-* [https://www.spiegel.de/panorama/ich-bin-kein-star-holt-mich-doch-rauf](https://www.spiegel.de/panorama/ich-bin-kein-star-holt-mich-doch-rauf-a-69a679d8-ef54-4aad-8f00-ceff8020e3db#ref=rss)
-### etwas
-
-* [https://www.spiegel.de/deinspiegel/12-jaehrige-finja-ich-fahre-zur-wm-im-muellsammeln](https://www.spiegel.de/deinspiegel/12-jaehrige-finja-ich-fahre-zur-wm-im-muellsammeln-a-23d7aa9e-1fde-4c63-a9c8-9f98bbdd71eb#ref=rss)
-* [https://www.spiegel.de/auto/citroen-e-c3-elektroauto-zum-kampfpreis-warten-auf-das-wunderauto](https://www.spiegel.de/auto/citroen-e-c3-elektroauto-zum-kampfpreis-warten-auf-das-wunderauto-a-422cd320-48ac-4c28-9a2f-c16618dc4bc5#ref=rss)
-### tatort
-
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-stuttgart-vergebung-mit-lannert-und-bootz](https://www.spiegel.de/kultur/tv/tatort-heute-aus-stuttgart-vergebung-mit-lannert-und-bootz-a-582b35bd-163f-4fcd-a036-3f907d1328c2#ref=rss)
-### sucht
-
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-stuttgart-vergebung-mit-lannert-und-bootz](https://www.spiegel.de/kultur/tv/tatort-heute-aus-stuttgart-vergebung-mit-lannert-und-bootz-a-582b35bd-163f-4fcd-a036-3f907d1328c2#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-regierung-will-gebaeude-verkaufen-statt-neuer-schulden](https://www.spiegel.de/ausland/frankreich-regierung-will-gebaeude-verkaufen-statt-neuer-schulden-a-aef480cc-70fe-4f63-817c-a2266b6463d7#ref=rss)
-### diesem
-
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-stuttgart-vergebung-mit-lannert-und-bootz](https://www.spiegel.de/kultur/tv/tatort-heute-aus-stuttgart-vergebung-mit-lannert-und-bootz-a-582b35bd-163f-4fcd-a036-3f907d1328c2#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-november-bisher-ungewoehnlich-nass-und-es-bleibt-regnerisch](https://www.spiegel.de/panorama/wetter-in-deutschland-november-bisher-ungewoehnlich-nass-und-es-bleibt-regnerisch-a-a1544161-7a12-471e-8b2d-2c4e18ac5577#ref=rss)
-### leiche
-
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-stuttgart-vergebung-mit-lannert-und-bootz](https://www.spiegel.de/kultur/tv/tatort-heute-aus-stuttgart-vergebung-mit-lannert-und-bootz-a-582b35bd-163f-4fcd-a036-3f907d1328c2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/italiener-nach-mutmasslichem-mord-an-ex-freundin-in-deutschland-festgenommen](https://www.spiegel.de/panorama/justiz/italiener-nach-mutmasslichem-mord-an-ex-freundin-in-deutschland-festgenommen-a-5534a9f2-18c8-4613-9729-11ae85b66fbc#ref=rss)
-### eigenen
-
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-stuttgart-vergebung-mit-lannert-und-bootz](https://www.spiegel.de/kultur/tv/tatort-heute-aus-stuttgart-vergebung-mit-lannert-und-bootz-a-582b35bd-163f-4fcd-a036-3f907d1328c2#ref=rss)
-* [https://www.spiegel.de/panorama/ekd-ratsvorsitzende-kurschus-soll-sexuelle-uebergriffe-vertuscht-haben](https://www.spiegel.de/panorama/ekd-ratsvorsitzende-kurschus-soll-sexuelle-uebergriffe-vertuscht-haben-a-0c525bf5-375e-4d00-8a69-c444bc2a5fe7#ref=rss)
-### ekdratsvorsitzende
-
-* [https://www.spiegel.de/panorama/ekd-ratsvorsitzende-kurschus-soll-sexuelle-uebergriffe-vertuscht-haben](https://www.spiegel.de/panorama/ekd-ratsvorsitzende-kurschus-soll-sexuelle-uebergriffe-vertuscht-haben-a-0c525bf5-375e-4d00-8a69-c444bc2a5fe7#ref=rss)
-### kurschus
-
-* [https://www.spiegel.de/panorama/ekd-ratsvorsitzende-kurschus-soll-sexuelle-uebergriffe-vertuscht-haben](https://www.spiegel.de/panorama/ekd-ratsvorsitzende-kurschus-soll-sexuelle-uebergriffe-vertuscht-haben-a-0c525bf5-375e-4d00-8a69-c444bc2a5fe7#ref=rss)
-### huthirebellen
-
-* [https://www.spiegel.de/ausland/rotes-meer-huthi-rebellen-huthi-rebellen-greifen-offenbar-autofrachter-im-roten-meer-an](https://www.spiegel.de/ausland/rotes-meer-huthi-rebellen-huthi-rebellen-greifen-offenbar-autofrachter-im-roten-meer-an-a-ee360143-0c32-48c5-a0b2-45ab73b34690#ref=rss)
-### roten
-
-* [https://www.spiegel.de/ausland/rotes-meer-huthi-rebellen-huthi-rebellen-greifen-offenbar-autofrachter-im-roten-meer-an](https://www.spiegel.de/ausland/rotes-meer-huthi-rebellen-huthi-rebellen-greifen-offenbar-autofrachter-im-roten-meer-an-a-ee360143-0c32-48c5-a0b2-45ab73b34690#ref=rss)
-### las
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-versoehnt-sich-mit-dem-rennen-in-den-usa-nach-viel-kritik](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-versoehnt-sich-mit-dem-rennen-in-den-usa-nach-viel-kritik-a-91610c95-65e4-42a3-a1ec-b5c080f40b74#ref=rss)
-### vegas
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-versoehnt-sich-mit-dem-rennen-in-den-usa-nach-viel-kritik](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-versoehnt-sich-mit-dem-rennen-in-den-usa-nach-viel-kritik-a-91610c95-65e4-42a3-a1ec-b5c080f40b74#ref=rss)
-### rennen
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-versoehnt-sich-mit-dem-rennen-in-den-usa-nach-viel-kritik](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-versoehnt-sich-mit-dem-rennen-in-den-usa-nach-viel-kritik-a-91610c95-65e4-42a3-a1ec-b5c080f40b74#ref=rss)
-### usa
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-versoehnt-sich-mit-dem-rennen-in-den-usa-nach-viel-kritik](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-versoehnt-sich-mit-dem-rennen-in-den-usa-nach-viel-kritik-a-91610c95-65e4-42a3-a1ec-b5c080f40b74#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/glyphosat-bayer-zu-1-5-milliarden-dollar-schadensersatz-iverurteilt](https://www.spiegel.de/wirtschaft/unternehmen/glyphosat-bayer-zu-1-5-milliarden-dollar-schadensersatz-iverurteilt-a-8b60be8c-5748-4e33-a306-1dde7ea1b2fc#ref=rss)
-### bayer
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/glyphosat-bayer-zu-1-5-milliarden-dollar-schadensersatz-iverurteilt](https://www.spiegel.de/wirtschaft/unternehmen/glyphosat-bayer-zu-1-5-milliarden-dollar-schadensersatz-iverurteilt-a-8b60be8c-5748-4e33-a306-1dde7ea1b2fc#ref=rss)
-### euro
-
-* [https://www.spiegel.de/panorama/napoleon-zweispitz-soll-bei-auktion-in-frankreich-mehr-als-600-000-euro-einbringen](https://www.spiegel.de/panorama/napoleon-zweispitz-soll-bei-auktion-in-frankreich-mehr-als-600-000-euro-einbringen-a-e7fc49f7-9036-42a8-a131-1d22f04e0207#ref=rss)
-* [https://www.spiegel.de/panorama/weltrekordpreis-fuer-fast-100-jaehrigen-whisky](https://www.spiegel.de/panorama/weltrekordpreis-fuer-fast-100-jaehrigen-whisky-a-82b119b6-4af8-4f6c-ae71-f85e4a0e4f64#ref=rss)
-### versteigert
-
-* [https://www.spiegel.de/panorama/napoleon-zweispitz-soll-bei-auktion-in-frankreich-mehr-als-600-000-euro-einbringen](https://www.spiegel.de/panorama/napoleon-zweispitz-soll-bei-auktion-in-frankreich-mehr-als-600-000-euro-einbringen-a-e7fc49f7-9036-42a8-a131-1d22f04e0207#ref=rss)
-* [https://www.spiegel.de/panorama/weltrekordpreis-fuer-fast-100-jaehrigen-whisky](https://www.spiegel.de/panorama/weltrekordpreis-fuer-fast-100-jaehrigen-whisky-a-82b119b6-4af8-4f6c-ae71-f85e4a0e4f64#ref=rss)
-### warten
-
-* [https://www.spiegel.de/panorama/ich-bin-kein-star-holt-mich-doch-rauf](https://www.spiegel.de/panorama/ich-bin-kein-star-holt-mich-doch-rauf-a-69a679d8-ef54-4aad-8f00-ceff8020e3db#ref=rss)
-* [https://www.spiegel.de/auto/citroen-e-c3-elektroauto-zum-kampfpreis-warten-auf-das-wunderauto](https://www.spiegel.de/auto/citroen-e-c3-elektroauto-zum-kampfpreis-warten-auf-das-wunderauto-a-422cd320-48ac-4c28-9a2f-c16618dc4bc5#ref=rss)
-### swift
-
-* [https://www.spiegel.de/panorama/ich-bin-kein-star-holt-mich-doch-rauf](https://www.spiegel.de/panorama/ich-bin-kein-star-holt-mich-doch-rauf-a-69a679d8-ef54-4aad-8f00-ceff8020e3db#ref=rss)
-* [https://www.spiegel.de/panorama/fan-stirbt-bei-taylor-swift-konzert-sie-waren-sehr-uneinsichtig-gegenueber-den-leuten](https://www.spiegel.de/panorama/fan-stirbt-bei-taylor-swift-konzert-sie-waren-sehr-uneinsichtig-gegenueber-den-leuten-a-24be3dc4-f7a1-44ca-bfb9-90f7cf05c809#ref=rss)
-### sehen
-
-* [https://www.spiegel.de/panorama/ich-bin-kein-star-holt-mich-doch-rauf](https://www.spiegel.de/panorama/ich-bin-kein-star-holt-mich-doch-rauf-a-69a679d8-ef54-4aad-8f00-ceff8020e3db#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ukraine-3000-lastwagen-stehen-auf-polnischer-seite-der-grenze](https://www.spiegel.de/wirtschaft/unternehmen/ukraine-3000-lastwagen-stehen-auf-polnischer-seite-der-grenze-a-aadb2f8e-8fb2-4078-ba21-2e54d0f048b5#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/ausland/gaza-frankreich-will-kranke-kinder-aus-dem-kuestenstreifen-aufnehmen](https://www.spiegel.de/ausland/gaza-frankreich-will-kranke-kinder-aus-dem-kuestenstreifen-aufnehmen-a-8c5840f5-4efd-4584-b2b9-c92f1ae07a59#ref=rss)
-### rostock
-
-* [https://www.spiegel.de/panorama/rostock-diesel-und-oel-aus-gesunkenen-kuttern-verschmutzen-unterwarnow](https://www.spiegel.de/panorama/rostock-diesel-und-oel-aus-gesunkenen-kuttern-verschmutzen-unterwarnow-a-4a97595a-89fd-4145-8b18-3e3678c59c7c#ref=rss)
-### tiktok
-
-* [https://www.spiegel.de/politik/deutschland/antisemitismus-auf-tiktok-die-afd-ist-gefaehrlicher-als-osama-bin-laden](https://www.spiegel.de/politik/deutschland/antisemitismus-auf-tiktok-die-afd-ist-gefaehrlicher-als-osama-bin-laden-a-97e2857b-83b0-4453-b203-91465fd112fa#ref=rss)
-### osama
-
-* [https://www.spiegel.de/politik/deutschland/antisemitismus-auf-tiktok-die-afd-ist-gefaehrlicher-als-osama-bin-laden](https://www.spiegel.de/politik/deutschland/antisemitismus-auf-tiktok-die-afd-ist-gefaehrlicher-als-osama-bin-laden-a-97e2857b-83b0-4453-b203-91465fd112fa#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ukraine-3000-lastwagen-stehen-auf-polnischer-seite-der-grenze](https://www.spiegel.de/wirtschaft/unternehmen/ukraine-3000-lastwagen-stehen-auf-polnischer-seite-der-grenze-a-aadb2f8e-8fb2-4078-ba21-2e54d0f048b5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/frankreich-testet-erfolgreich-neue-atomrakete](https://www.spiegel.de/wissenschaft/frankreich-testet-erfolgreich-neue-atomrakete-a-0c6042ad-5571-4f94-ae77-d0a002519c13#ref=rss)
-### stehen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ukraine-3000-lastwagen-stehen-auf-polnischer-seite-der-grenze](https://www.spiegel.de/wirtschaft/unternehmen/ukraine-3000-lastwagen-stehen-auf-polnischer-seite-der-grenze-a-aadb2f8e-8fb2-4078-ba21-2e54d0f048b5#ref=rss)
-* [https://www.spiegel.de/kultur/glastonbury-festival-tickets-binnen-einer-stunde-ausverkauft](https://www.spiegel.de/kultur/glastonbury-festival-tickets-binnen-einer-stunde-ausverkauft-a-00b91281-b531-4011-8d4e-6f7f4c64d397#ref=rss)
-### polnischer
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ukraine-3000-lastwagen-stehen-auf-polnischer-seite-der-grenze](https://www.spiegel.de/wirtschaft/unternehmen/ukraine-3000-lastwagen-stehen-auf-polnischer-seite-der-grenze-a-aadb2f8e-8fb2-4078-ba21-2e54d0f048b5#ref=rss)
-### grenze
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ukraine-3000-lastwagen-stehen-auf-polnischer-seite-der-grenze](https://www.spiegel.de/wirtschaft/unternehmen/ukraine-3000-lastwagen-stehen-auf-polnischer-seite-der-grenze-a-aadb2f8e-8fb2-4078-ba21-2e54d0f048b5#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wissenschaft/frankreich-testet-erfolgreich-neue-atomrakete](https://www.spiegel.de/wissenschaft/frankreich-testet-erfolgreich-neue-atomrakete-a-0c6042ad-5571-4f94-ae77-d0a002519c13#ref=rss)
-### angriff
-
-* [https://www.spiegel.de/wissenschaft/frankreich-testet-erfolgreich-neue-atomrakete](https://www.spiegel.de/wissenschaft/frankreich-testet-erfolgreich-neue-atomrakete-a-0c6042ad-5571-4f94-ae77-d0a002519c13#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/reichsbuerger-treffen-in-wemding-polizei-nimmt-per-haftbefehl-gesuchte-teilnehmerin-bei-fest](https://www.spiegel.de/panorama/justiz/reichsbuerger-treffen-in-wemding-polizei-nimmt-per-haftbefehl-gesuchte-teilnehmerin-bei-fest-a-7982768d-e2fb-4102-80a2-7e53e9f5fd54#ref=rss)
-### ungewöhnlich
-
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-november-bisher-ungewoehnlich-nass-und-es-bleibt-regnerisch](https://www.spiegel.de/panorama/wetter-in-deutschland-november-bisher-ungewoehnlich-nass-und-es-bleibt-regnerisch-a-a1544161-7a12-471e-8b2d-2c4e18ac5577#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-november-bisher-ungewoehnlich-nass-und-es-bleibt-regnerisch](https://www.spiegel.de/panorama/wetter-in-deutschland-november-bisher-ungewoehnlich-nass-und-es-bleibt-regnerisch-a-a1544161-7a12-471e-8b2d-2c4e18ac5577#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/oskar-lafontaine-weist-mitverantwortung-fuer-spaltung-der-linken-von-sich](https://www.spiegel.de/politik/deutschland/oskar-lafontaine-weist-mitverantwortung-fuer-spaltung-der-linken-von-sich-a-471ac906-e573-4740-8ba2-ab89c24dbf01#ref=rss)
-### fast
-
-* [https://www.spiegel.de/panorama/weltrekordpreis-fuer-fast-100-jaehrigen-whisky](https://www.spiegel.de/panorama/weltrekordpreis-fuer-fast-100-jaehrigen-whisky-a-82b119b6-4af8-4f6c-ae71-f85e4a0e4f64#ref=rss)
-* [https://www.spiegel.de/auto/citroen-e-c3-elektroauto-zum-kampfpreis-warten-auf-das-wunderauto](https://www.spiegel.de/auto/citroen-e-c3-elektroauto-zum-kampfpreis-warten-auf-das-wunderauto-a-422cd320-48ac-4c28-9a2f-c16618dc4bc5#ref=rss)
-### konsequenzen
-
-* [https://www.spiegel.de/panorama/fan-stirbt-bei-taylor-swift-konzert-sie-waren-sehr-uneinsichtig-gegenueber-den-leuten](https://www.spiegel.de/panorama/fan-stirbt-bei-taylor-swift-konzert-sie-waren-sehr-uneinsichtig-gegenueber-den-leuten-a-24be3dc4-f7a1-44ca-bfb9-90f7cf05c809#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/oskar-lafontaine-weist-mitverantwortung-fuer-spaltung-der-linken-von-sich](https://www.spiegel.de/politik/deutschland/oskar-lafontaine-weist-mitverantwortung-fuer-spaltung-der-linken-von-sich-a-471ac906-e573-4740-8ba2-ab89c24dbf01#ref=rss)
-### glastonburyfestival
-
-* [https://www.spiegel.de/kultur/glastonbury-festival-tickets-binnen-einer-stunde-ausverkauft](https://www.spiegel.de/kultur/glastonbury-festival-tickets-binnen-einer-stunde-ausverkauft-a-00b91281-b531-4011-8d4e-6f7f4c64d397#ref=rss)
-### tickets
-
-* [https://www.spiegel.de/kultur/glastonbury-festival-tickets-binnen-einer-stunde-ausverkauft](https://www.spiegel.de/kultur/glastonbury-festival-tickets-binnen-einer-stunde-ausverkauft-a-00b91281-b531-4011-8d4e-6f7f4c64d397#ref=rss)
-### fest
-
-* [https://www.spiegel.de/kultur/glastonbury-festival-tickets-binnen-einer-stunde-ausverkauft](https://www.spiegel.de/kultur/glastonbury-festival-tickets-binnen-einer-stunde-ausverkauft-a-00b91281-b531-4011-8d4e-6f7f4c64d397#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/reichsbuerger-treffen-in-wemding-polizei-nimmt-per-haftbefehl-gesuchte-teilnehmerin-bei-fest](https://www.spiegel.de/panorama/justiz/reichsbuerger-treffen-in-wemding-polizei-nimmt-per-haftbefehl-gesuchte-teilnehmerin-bei-fest-a-7982768d-e2fb-4102-80a2-7e53e9f5fd54#ref=rss)
-### citroën
-
-* [https://www.spiegel.de/auto/citroen-e-c3-elektroauto-zum-kampfpreis-warten-auf-das-wunderauto](https://www.spiegel.de/auto/citroen-e-c3-elektroauto-zum-kampfpreis-warten-auf-das-wunderauto-a-422cd320-48ac-4c28-9a2f-c16618dc4bc5#ref=rss)
-### elektroauto
-
-* [https://www.spiegel.de/auto/citroen-e-c3-elektroauto-zum-kampfpreis-warten-auf-das-wunderauto](https://www.spiegel.de/auto/citroen-e-c3-elektroauto-zum-kampfpreis-warten-auf-das-wunderauto-a-422cd320-48ac-4c28-9a2f-c16618dc4bc5#ref=rss)
-### andere
-
-* [https://www.spiegel.de/auto/citroen-e-c3-elektroauto-zum-kampfpreis-warten-auf-das-wunderauto](https://www.spiegel.de/auto/citroen-e-c3-elektroauto-zum-kampfpreis-warten-auf-das-wunderauto-a-422cd320-48ac-4c28-9a2f-c16618dc4bc5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ampel-koalition-christian-lindner-kritisiert-ende-der-gastro-steuerausnahme](https://www.spiegel.de/politik/deutschland/ampel-koalition-christian-lindner-kritisiert-ende-der-gastro-steuerausnahme-a-81b99dcb-b531-428f-a67a-30bf45103fc3#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/ausland/frankreich-regierung-will-gebaeude-verkaufen-statt-neuer-schulden](https://www.spiegel.de/ausland/frankreich-regierung-will-gebaeude-verkaufen-statt-neuer-schulden-a-aef480cc-70fe-4f63-817c-a2266b6463d7#ref=rss)
-### verkaufen
-
-* [https://www.spiegel.de/ausland/frankreich-regierung-will-gebaeude-verkaufen-statt-neuer-schulden](https://www.spiegel.de/ausland/frankreich-regierung-will-gebaeude-verkaufen-statt-neuer-schulden-a-aef480cc-70fe-4f63-817c-a2266b6463d7#ref=rss)
-### lindner
-
-* [https://www.spiegel.de/politik/deutschland/ampel-koalition-christian-lindner-kritisiert-ende-der-gastro-steuerausnahme](https://www.spiegel.de/politik/deutschland/ampel-koalition-christian-lindner-kritisiert-ende-der-gastro-steuerausnahme-a-81b99dcb-b531-428f-a67a-30bf45103fc3#ref=rss)
-### ende
-
-* [https://www.spiegel.de/politik/deutschland/ampel-koalition-christian-lindner-kritisiert-ende-der-gastro-steuerausnahme](https://www.spiegel.de/politik/deutschland/ampel-koalition-christian-lindner-kritisiert-ende-der-gastro-steuerausnahme-a-81b99dcb-b531-428f-a67a-30bf45103fc3#ref=rss)
-* [https://www.spiegel.de/sport/fussball/zum-tod-von-ruud-geels-sie-nannten-ihn-tormaschine-aber-im-fussball-war-er-ungluecklich](https://www.spiegel.de/sport/fussball/zum-tod-von-ruud-geels-sie-nannten-ihn-tormaschine-aber-im-fussball-war-er-ungluecklich-a-150e01e2-b445-40af-aa06-cf4cefe2673a#ref=rss)
-### corona
-
-* [https://www.spiegel.de/politik/deutschland/ampel-koalition-christian-lindner-kritisiert-ende-der-gastro-steuerausnahme](https://www.spiegel.de/politik/deutschland/ampel-koalition-christian-lindner-kritisiert-ende-der-gastro-steuerausnahme-a-81b99dcb-b531-428f-a67a-30bf45103fc3#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/corona-und-grippe-einige-kliniken-verhaengen-wieder-maskenpflicht-und-besuchseinschraenkungen](https://www.spiegel.de/wissenschaft/medizin/corona-und-grippe-einige-kliniken-verhaengen-wieder-maskenpflicht-und-besuchseinschraenkungen-a-c1da870f-284c-4644-9164-6152fec3d24e#ref=rss)
-### verschütteten
-
-* [https://www.spiegel.de/panorama/indien-rettungsaktion-von-tunnel-verschuetteten-koennte-noch-mehrere-tage-dauern](https://www.spiegel.de/panorama/indien-rettungsaktion-von-tunnel-verschuetteten-koennte-noch-mehrere-tage-dauern-a-d0a5a303-b1f1-4ca9-b4bd-7ce9c51ada9e#ref=rss)
-### zweiter
-
-* [https://www.spiegel.de/panorama/indien-rettungsaktion-von-tunnel-verschuetteten-koennte-noch-mehrere-tage-dauern](https://www.spiegel.de/panorama/indien-rettungsaktion-von-tunnel-verschuetteten-koennte-noch-mehrere-tage-dauern-a-d0a5a303-b1f1-4ca9-b4bd-7ce9c51ada9e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/zum-tod-von-ruud-geels-sie-nannten-ihn-tormaschine-aber-im-fussball-war-er-ungluecklich](https://www.spiegel.de/sport/fussball/zum-tod-von-ruud-geels-sie-nannten-ihn-tormaschine-aber-im-fussball-war-er-ungluecklich-a-150e01e2-b445-40af-aa06-cf4cefe2673a#ref=rss)
-### frau
-
-* [https://www.spiegel.de/panorama/justiz/italiener-nach-mutmasslichem-mord-an-ex-freundin-in-deutschland-festgenommen](https://www.spiegel.de/panorama/justiz/italiener-nach-mutmasslichem-mord-an-ex-freundin-in-deutschland-festgenommen-a-5534a9f2-18c8-4613-9729-11ae85b66fbc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/oskar-lafontaine-weist-mitverantwortung-fuer-spaltung-der-linken-von-sich](https://www.spiegel.de/politik/deutschland/oskar-lafontaine-weist-mitverantwortung-fuer-spaltung-der-linken-von-sich-a-471ac906-e573-4740-8ba2-ab89c24dbf01#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/justiz/italiener-nach-mutmasslichem-mord-an-ex-freundin-in-deutschland-festgenommen](https://www.spiegel.de/panorama/justiz/italiener-nach-mutmasslichem-mord-an-ex-freundin-in-deutschland-festgenommen-a-5534a9f2-18c8-4613-9729-11ae85b66fbc#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/reichsbuerger-treffen-in-wemding-polizei-nimmt-per-haftbefehl-gesuchte-teilnehmerin-bei-fest](https://www.spiegel.de/panorama/justiz/reichsbuerger-treffen-in-wemding-polizei-nimmt-per-haftbefehl-gesuchte-teilnehmerin-bei-fest-a-7982768d-e2fb-4102-80a2-7e53e9f5fd54#ref=rss)
-### java
-
-* [https://www.spiegel.de/kultur/literatur/thriller-java-road-hong-kong-dramen-in-zeitlupe](https://www.spiegel.de/kultur/literatur/thriller-java-road-hong-kong-dramen-in-zeitlupe-a-510bc91a-9100-4d81-945d-8d543e2e2e3b#ref=rss)
-### road
-
-* [https://www.spiegel.de/kultur/literatur/thriller-java-road-hong-kong-dramen-in-zeitlupe](https://www.spiegel.de/kultur/literatur/thriller-java-road-hong-kong-dramen-in-zeitlupe-a-510bc91a-9100-4d81-945d-8d543e2e2e3b#ref=rss)
-### hong
-
-* [https://www.spiegel.de/kultur/literatur/thriller-java-road-hong-kong-dramen-in-zeitlupe](https://www.spiegel.de/kultur/literatur/thriller-java-road-hong-kong-dramen-in-zeitlupe-a-510bc91a-9100-4d81-945d-8d543e2e2e3b#ref=rss)
-### kong
-
-* [https://www.spiegel.de/kultur/literatur/thriller-java-road-hong-kong-dramen-in-zeitlupe](https://www.spiegel.de/kultur/literatur/thriller-java-road-hong-kong-dramen-in-zeitlupe-a-510bc91a-9100-4d81-945d-8d543e2e2e3b#ref=rss)
-### ruud
-
-* [https://www.spiegel.de/sport/fussball/zum-tod-von-ruud-geels-sie-nannten-ihn-tormaschine-aber-im-fussball-war-er-ungluecklich](https://www.spiegel.de/sport/fussball/zum-tod-von-ruud-geels-sie-nannten-ihn-tormaschine-aber-im-fussball-war-er-ungluecklich-a-150e01e2-b445-40af-aa06-cf4cefe2673a#ref=rss)
-### geels
-
-* [https://www.spiegel.de/sport/fussball/zum-tod-von-ruud-geels-sie-nannten-ihn-tormaschine-aber-im-fussball-war-er-ungluecklich](https://www.spiegel.de/sport/fussball/zum-tod-von-ruud-geels-sie-nannten-ihn-tormaschine-aber-im-fussball-war-er-ungluecklich-a-150e01e2-b445-40af-aa06-cf4cefe2673a#ref=rss)
-### fußball
-
-* [https://www.spiegel.de/sport/fussball/zum-tod-von-ruud-geels-sie-nannten-ihn-tormaschine-aber-im-fussball-war-er-ungluecklich](https://www.spiegel.de/sport/fussball/zum-tod-von-ruud-geels-sie-nannten-ihn-tormaschine-aber-im-fussball-war-er-ungluecklich-a-150e01e2-b445-40af-aa06-cf4cefe2673a#ref=rss)
-### jugendlicher
-
-* [https://www.spiegel.de/panorama/berlin-kreuzberg-jugendlicher-stuerzt-in-berlin-von-fahrender-u-bahn](https://www.spiegel.de/panorama/berlin-kreuzberg-jugendlicher-stuerzt-in-berlin-von-fahrender-u-bahn-a-ac015d94-5b75-468d-bb9a-1a28902e90b0#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/wissenschaft/deutsche-gletscher-schrumpfen-etwas-langsamer-als-zuvor](https://www.spiegel.de/wissenschaft/deutsche-gletscher-schrumpfen-etwas-langsamer-als-zuvor-a-59cb26ae-732d-482c-9173-cc8a4f604556#ref=rss)
+* [https://www.spiegel.de/kultur/kino/joss-ackland-lethal-weapon-2-darsteller-mit-95-jahren-gestorben](https://www.spiegel.de/kultur/kino/joss-ackland-lethal-weapon-2-darsteller-mit-95-jahren-gestorben-a-10c6d3f8-472b-47e2-8404-b19d3e42d3af#ref=rss)
+* [https://www.spiegel.de/panorama/annette-kurschus-ekd-ratsvorsitzende-tritt-zurueck](https://www.spiegel.de/panorama/annette-kurschus-ekd-ratsvorsitzende-tritt-zurueck-a-36731049-8d50-4665-ab61-d07c85c32309#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-franz-und-moritz-wagner-sorgen-bei-orlando-magic-fuer-aufsehen](https://www.spiegel.de/sport/basketball/nba-franz-und-moritz-wagner-sorgen-bei-orlando-magic-fuer-aufsehen-a-02373f65-158c-420e-89e1-f41abb94e735#ref=rss)
+### sam
+
+* [https://www.spiegel.de/netzwelt/web/sam-altman-faengt-bei-microsoft-an-ehemaliger-openai-chef-und-chatgpt-erfinder-hat-neuen-job](https://www.spiegel.de/netzwelt/web/sam-altman-faengt-bei-microsoft-an-ehemaliger-openai-chef-und-chatgpt-erfinder-hat-neuen-job-a-5d28db20-efaa-4aac-b958-426dd5c4d76e#ref=rss)
+* [https://www.spiegel.de/netzwelt/sam-altman-chatgpt-erfinder-kehrt-nicht-zu-openai-zurueck](https://www.spiegel.de/netzwelt/sam-altman-chatgpt-erfinder-kehrt-nicht-zu-openai-zurueck-a-40642666-1188-4851-b581-a536b0d782fe#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/kultur/literatur/pen-international-generalsekretaerin-regula-venske-tritt-zurueck](https://www.spiegel.de/kultur/literatur/pen-international-generalsekretaerin-regula-venske-tritt-zurueck-a-4763c9fb-04ab-4116-a940-8f5f479170bc#ref=rss)
+* [https://www.spiegel.de/panorama/annette-kurschus-ekd-ratsvorsitzende-tritt-zurueck](https://www.spiegel.de/panorama/annette-kurschus-ekd-ratsvorsitzende-tritt-zurueck-a-36731049-8d50-4665-ab61-d07c85c32309#ref=rss)
+* [https://www.spiegel.de/netzwelt/sam-altman-chatgpt-erfinder-kehrt-nicht-zu-openai-zurueck](https://www.spiegel.de/netzwelt/sam-altman-chatgpt-erfinder-kehrt-nicht-zu-openai-zurueck-a-40642666-1188-4851-b581-a536b0d782fe#ref=rss)
 ### berlin
 
-* [https://www.spiegel.de/panorama/berlin-kreuzberg-jugendlicher-stuerzt-in-berlin-von-fahrender-u-bahn](https://www.spiegel.de/panorama/berlin-kreuzberg-jugendlicher-stuerzt-in-berlin-von-fahrender-u-bahn-a-ac015d94-5b75-468d-bb9a-1a28902e90b0#ref=rss)
-### ubahn
+* [https://www.spiegel.de/auto/berlin-will-einsatz-von-magnetschwebebahnen-testen-und-plant-fuenf-kilometer-lange-pilotstrecke](https://www.spiegel.de/auto/berlin-will-einsatz-von-magnetschwebebahnen-testen-und-plant-fuenf-kilometer-lange-pilotstrecke-a-e3404df2-f16b-4e08-bfc0-1c6a3397379b#ref=rss)
+* [https://www.spiegel.de/panorama/leute/berlin-franziska-giffey-befuerchtet-ausschreitungen-an-silvester](https://www.spiegel.de/panorama/leute/berlin-franziska-giffey-befuerchtet-ausschreitungen-an-silvester-a-4af0354b-77e3-489b-9225-a43b1a76f17d#ref=rss)
+### spd
 
-* [https://www.spiegel.de/panorama/berlin-kreuzberg-jugendlicher-stuerzt-in-berlin-von-fahrender-u-bahn](https://www.spiegel.de/panorama/berlin-kreuzberg-jugendlicher-stuerzt-in-berlin-von-fahrender-u-bahn-a-ac015d94-5b75-468d-bb9a-1a28902e90b0#ref=rss)
-### kliniken
+* [https://www.spiegel.de/auto/berlin-will-einsatz-von-magnetschwebebahnen-testen-und-plant-fuenf-kilometer-lange-pilotstrecke](https://www.spiegel.de/auto/berlin-will-einsatz-von-magnetschwebebahnen-testen-und-plant-fuenf-kilometer-lange-pilotstrecke-a-e3404df2-f16b-4e08-bfc0-1c6a3397379b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gastro-mehrwertsteuer-gruene-und-spd-greifen-finanzminister-christian-lindner-scharf-an](https://www.spiegel.de/politik/deutschland/gastro-mehrwertsteuer-gruene-und-spd-greifen-finanzminister-christian-lindner-scharf-an-a-f22c904d-b2b5-4c09-8876-4bb7ac4b5377#ref=rss)
+### paypal
 
-* [https://www.spiegel.de/wissenschaft/medizin/corona-und-grippe-einige-kliniken-verhaengen-wieder-maskenpflicht-und-besuchseinschraenkungen](https://www.spiegel.de/wissenschaft/medizin/corona-und-grippe-einige-kliniken-verhaengen-wieder-maskenpflicht-und-besuchseinschraenkungen-a-c1da870f-284c-4644-9164-6152fec3d24e#ref=rss)
-### oskar
+* [https://www.spiegel.de/netzwelt/web/bezahlen-mit-paypal-auf-ebay-kaeuferschutz-bringt-auf-keinen-fall-absolute-sicherheit](https://www.spiegel.de/netzwelt/web/bezahlen-mit-paypal-auf-ebay-kaeuferschutz-bringt-auf-keinen-fall-absolute-sicherheit-a-0867409b-e0d9-4a61-aae2-08b6adc02cf7#ref=rss)
+### altman
 
-* [https://www.spiegel.de/politik/deutschland/oskar-lafontaine-weist-mitverantwortung-fuer-spaltung-der-linken-von-sich](https://www.spiegel.de/politik/deutschland/oskar-lafontaine-weist-mitverantwortung-fuer-spaltung-der-linken-von-sich-a-471ac906-e573-4740-8ba2-ab89c24dbf01#ref=rss)
-### lafontaine
+* [https://www.spiegel.de/netzwelt/web/sam-altman-faengt-bei-microsoft-an-ehemaliger-openai-chef-und-chatgpt-erfinder-hat-neuen-job](https://www.spiegel.de/netzwelt/web/sam-altman-faengt-bei-microsoft-an-ehemaliger-openai-chef-und-chatgpt-erfinder-hat-neuen-job-a-5d28db20-efaa-4aac-b958-426dd5c4d76e#ref=rss)
+* [https://www.spiegel.de/netzwelt/sam-altman-chatgpt-erfinder-kehrt-nicht-zu-openai-zurueck](https://www.spiegel.de/netzwelt/sam-altman-chatgpt-erfinder-kehrt-nicht-zu-openai-zurueck-a-40642666-1188-4851-b581-a536b0d782fe#ref=rss)
+### openai
 
-* [https://www.spiegel.de/politik/deutschland/oskar-lafontaine-weist-mitverantwortung-fuer-spaltung-der-linken-von-sich](https://www.spiegel.de/politik/deutschland/oskar-lafontaine-weist-mitverantwortung-fuer-spaltung-der-linken-von-sich-a-471ac906-e573-4740-8ba2-ab89c24dbf01#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/sam-altman-faengt-bei-microsoft-an-ehemaliger-openai-chef-und-chatgpt-erfinder-hat-neuen-job](https://www.spiegel.de/netzwelt/web/sam-altman-faengt-bei-microsoft-an-ehemaliger-openai-chef-und-chatgpt-erfinder-hat-neuen-job-a-5d28db20-efaa-4aac-b958-426dd5c4d76e#ref=rss)
+* [https://www.spiegel.de/netzwelt/sam-altman-chatgpt-erfinder-kehrt-nicht-zu-openai-zurueck](https://www.spiegel.de/netzwelt/sam-altman-chatgpt-erfinder-kehrt-nicht-zu-openai-zurueck-a-40642666-1188-4851-b581-a536b0d782fe#ref=rss)
+### grüne
+
+* [https://www.spiegel.de/wirtschaft/wohnungsbau-gruene-sind-gegen-neue-stadtviertel-und-widersprechen-olaf-scholz](https://www.spiegel.de/wirtschaft/wohnungsbau-gruene-sind-gegen-neue-stadtviertel-und-widersprechen-olaf-scholz-a-3e6c3ece-e758-45da-8d55-21aad40f4906#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gastro-mehrwertsteuer-gruene-und-spd-greifen-finanzminister-christian-lindner-scharf-an](https://www.spiegel.de/politik/deutschland/gastro-mehrwertsteuer-gruene-und-spd-greifen-finanzminister-christian-lindner-scharf-an-a-f22c904d-b2b5-4c09-8876-4bb7ac4b5377#ref=rss)
+* [https://www.spiegel.de/wirtschaft/mercosur-grosse-teile-des-eu-parlaments-wehren-sich-gegen-plaene-der-eu-kommission](https://www.spiegel.de/wirtschaft/mercosur-grosse-teile-des-eu-parlaments-wehren-sich-gegen-plaene-der-eu-kommission-a-8caa5653-6121-46ac-9a14-154993b9e2b4#ref=rss)
+### stadtviertel
+
+* [https://www.spiegel.de/wirtschaft/wohnungsbau-gruene-sind-gegen-neue-stadtviertel-und-widersprechen-olaf-scholz](https://www.spiegel.de/wirtschaft/wohnungsbau-gruene-sind-gegen-neue-stadtviertel-und-widersprechen-olaf-scholz-a-3e6c3ece-e758-45da-8d55-21aad40f4906#ref=rss)
+* [https://www.spiegel.de/wirtschaft/hausbau-der-holzhaus-boom-vormarsch-der-hoelzlebauer](https://www.spiegel.de/wirtschaft/hausbau-der-holzhaus-boom-vormarsch-der-hoelzlebauer-a-aeedfab9-7817-4b77-90bf-cfb88b4f20a0#ref=rss)
+### versteigert
+
+* [https://www.spiegel.de/panorama/the-crown-requisiten-aus-netflix-serie-werden-versteigert-auch-revenge-dress-von-lady-di](https://www.spiegel.de/panorama/the-crown-requisiten-aus-netflix-serie-werden-versteigert-auch-revenge-dress-von-lady-di-a-73e82cab-fbcc-44fa-ac3f-f7cd748c5ff0#ref=rss)
+* [https://www.spiegel.de/panorama/paris-napoleons-filzhut-fuer-1-9-millionen-euro-versteigert](https://www.spiegel.de/panorama/paris-napoleons-filzhut-fuer-1-9-millionen-euro-versteigert-a-554dc422-2539-48d2-873a-24f46aa6e070#ref=rss)
+### gletscher
+
+* [https://www.spiegel.de/wissenschaft/deutsche-gletscher-schrumpfen-etwas-langsamer-als-zuvor](https://www.spiegel.de/wissenschaft/deutsche-gletscher-schrumpfen-etwas-langsamer-als-zuvor-a-59cb26ae-732d-482c-9173-cc8a4f604556#ref=rss)
+### zuvor
+
+* [https://www.spiegel.de/wissenschaft/deutsche-gletscher-schrumpfen-etwas-langsamer-als-zuvor](https://www.spiegel.de/wissenschaft/deutsche-gletscher-schrumpfen-etwas-langsamer-als-zuvor-a-59cb26ae-732d-482c-9173-cc8a4f604556#ref=rss)
+* [https://www.spiegel.de/panorama/schwarzes-meer-tuerkisches-frachtschiff-gesunken-kein-lebenszeichen-von-besatzungsmitgliedern](https://www.spiegel.de/panorama/schwarzes-meer-tuerkisches-frachtschiff-gesunken-kein-lebenszeichen-von-besatzungsmitgliedern-a-cfd439cd-c510-4cb3-bf1f-5589bc0b952d#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wissenschaft/deutsche-gletscher-schrumpfen-etwas-langsamer-als-zuvor](https://www.spiegel.de/wissenschaft/deutsche-gletscher-schrumpfen-etwas-langsamer-als-zuvor-a-59cb26ae-732d-482c-9173-cc8a4f604556#ref=rss)
+* [https://www.spiegel.de/wirtschaft/hausbau-der-holzhaus-boom-vormarsch-der-hoelzlebauer](https://www.spiegel.de/wirtschaft/hausbau-der-holzhaus-boom-vormarsch-der-hoelzlebauer-a-aeedfab9-7817-4b77-90bf-cfb88b4f20a0#ref=rss)
+### zufolge
+
+* [https://www.spiegel.de/wissenschaft/deutsche-gletscher-schrumpfen-etwas-langsamer-als-zuvor](https://www.spiegel.de/wissenschaft/deutsche-gletscher-schrumpfen-etwas-langsamer-als-zuvor-a-59cb26ae-732d-482c-9173-cc8a4f604556#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/limburg-weilburg-rechtsextremistischer-18-jaehriger-soll-schweren-anschlag-vorbereitet-haben](https://www.spiegel.de/panorama/justiz/limburg-weilburg-rechtsextremistischer-18-jaehriger-soll-schweren-anschlag-vorbereitet-haben-a-04cd6a58-abbb-4dda-881f-17c79ac5063b#ref=rss)
+### kilometer
+
+* [https://www.spiegel.de/geschichte/ddr-rekordflucht-ich-wollte-mit-einem-knall-gehen](https://www.spiegel.de/geschichte/ddr-rekordflucht-ich-wollte-mit-einem-knall-gehen-a-d180b485-4a47-4178-b5f1-6fb81c399777#ref=rss)
+* [https://www.spiegel.de/auto/berlin-will-einsatz-von-magnetschwebebahnen-testen-und-plant-fuenf-kilometer-lange-pilotstrecke](https://www.spiegel.de/auto/berlin-will-einsatz-von-magnetschwebebahnen-testen-und-plant-fuenf-kilometer-lange-pilotstrecke-a-e3404df2-f16b-4e08-bfc0-1c6a3397379b#ref=rss)
+### joss
+
+* [https://www.spiegel.de/kultur/kino/joss-ackland-lethal-weapon-2-darsteller-mit-95-jahren-gestorben](https://www.spiegel.de/kultur/kino/joss-ackland-lethal-weapon-2-darsteller-mit-95-jahren-gestorben-a-10c6d3f8-472b-47e2-8404-b19d3e42d3af#ref=rss)
+### ackland
+
+* [https://www.spiegel.de/kultur/kino/joss-ackland-lethal-weapon-2-darsteller-mit-95-jahren-gestorben](https://www.spiegel.de/kultur/kino/joss-ackland-lethal-weapon-2-darsteller-mit-95-jahren-gestorben-a-10c6d3f8-472b-47e2-8404-b19d3e42d3af#ref=rss)
+### lethal
+
+* [https://www.spiegel.de/kultur/kino/joss-ackland-lethal-weapon-2-darsteller-mit-95-jahren-gestorben](https://www.spiegel.de/kultur/kino/joss-ackland-lethal-weapon-2-darsteller-mit-95-jahren-gestorben-a-10c6d3f8-472b-47e2-8404-b19d3e42d3af#ref=rss)
+### weapon
+
+* [https://www.spiegel.de/kultur/kino/joss-ackland-lethal-weapon-2-darsteller-mit-95-jahren-gestorben](https://www.spiegel.de/kultur/kino/joss-ackland-lethal-weapon-2-darsteller-mit-95-jahren-gestorben-a-10c6d3f8-472b-47e2-8404-b19d3e42d3af#ref=rss)
+### 95
+
+* [https://www.spiegel.de/kultur/kino/joss-ackland-lethal-weapon-2-darsteller-mit-95-jahren-gestorben](https://www.spiegel.de/kultur/kino/joss-ackland-lethal-weapon-2-darsteller-mit-95-jahren-gestorben-a-10c6d3f8-472b-47e2-8404-b19d3e42d3af#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/kultur/kino/joss-ackland-lethal-weapon-2-darsteller-mit-95-jahren-gestorben](https://www.spiegel.de/kultur/kino/joss-ackland-lethal-weapon-2-darsteller-mit-95-jahren-gestorben-a-10c6d3f8-472b-47e2-8404-b19d3e42d3af#ref=rss)
+### galaxy
+
+* [https://www.spiegel.de/ausland/galaxy-leader-japan-will-bei-mutmasslich-von-huthi-rebellen-gekapertem-schiff-vermitteln](https://www.spiegel.de/ausland/galaxy-leader-japan-will-bei-mutmasslich-von-huthi-rebellen-gekapertem-schiff-vermitteln-a-a1009775-05fe-40e6-8cd1-755d60477bbe#ref=rss)
+### leader
+
+* [https://www.spiegel.de/ausland/galaxy-leader-japan-will-bei-mutmasslich-von-huthi-rebellen-gekapertem-schiff-vermitteln](https://www.spiegel.de/ausland/galaxy-leader-japan-will-bei-mutmasslich-von-huthi-rebellen-gekapertem-schiff-vermitteln-a-a1009775-05fe-40e6-8cd1-755d60477bbe#ref=rss)
+### japan
+
+* [https://www.spiegel.de/ausland/galaxy-leader-japan-will-bei-mutmasslich-von-huthi-rebellen-gekapertem-schiff-vermitteln](https://www.spiegel.de/ausland/galaxy-leader-japan-will-bei-mutmasslich-von-huthi-rebellen-gekapertem-schiff-vermitteln-a-a1009775-05fe-40e6-8cd1-755d60477bbe#ref=rss)
+### huthirebellen
+
+* [https://www.spiegel.de/ausland/galaxy-leader-japan-will-bei-mutmasslich-von-huthi-rebellen-gekapertem-schiff-vermitteln](https://www.spiegel.de/ausland/galaxy-leader-japan-will-bei-mutmasslich-von-huthi-rebellen-gekapertem-schiff-vermitteln-a-a1009775-05fe-40e6-8cd1-755d60477bbe#ref=rss)
+### schiff
+
+* [https://www.spiegel.de/ausland/galaxy-leader-japan-will-bei-mutmasslich-von-huthi-rebellen-gekapertem-schiff-vermitteln](https://www.spiegel.de/ausland/galaxy-leader-japan-will-bei-mutmasslich-von-huthi-rebellen-gekapertem-schiff-vermitteln-a-a1009775-05fe-40e6-8cd1-755d60477bbe#ref=rss)
+* [https://www.spiegel.de/panorama/schwarzes-meer-tuerkisches-frachtschiff-gesunken-kein-lebenszeichen-von-besatzungsmitgliedern](https://www.spiegel.de/panorama/schwarzes-meer-tuerkisches-frachtschiff-gesunken-kein-lebenszeichen-von-besatzungsmitgliedern-a-cfd439cd-c510-4cb3-bf1f-5589bc0b952d#ref=rss)
+### vorwürfe
+
+* [https://www.spiegel.de/ausland/galaxy-leader-japan-will-bei-mutmasslich-von-huthi-rebellen-gekapertem-schiff-vermitteln](https://www.spiegel.de/ausland/galaxy-leader-japan-will-bei-mutmasslich-von-huthi-rebellen-gekapertem-schiff-vermitteln-a-a1009775-05fe-40e6-8cd1-755d60477bbe#ref=rss)
+* [https://www.spiegel.de/panorama/annette-kurschus-ekd-ratsvorsitzende-tritt-zurueck](https://www.spiegel.de/panorama/annette-kurschus-ekd-ratsvorsitzende-tritt-zurueck-a-36731049-8d50-4665-ab61-d07c85c32309#ref=rss)
+### ende
+
+* [https://www.spiegel.de/stil/rezept-fuer-den-brasilianischen-fischeintopf-moqueca](https://www.spiegel.de/stil/rezept-fuer-den-brasilianischen-fischeintopf-moqueca-a-2e5af328-b43c-40cb-a21a-5c2b0fc691dd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gastro-mehrwertsteuer-gruene-und-spd-greifen-finanzminister-christian-lindner-scharf-an](https://www.spiegel.de/politik/deutschland/gastro-mehrwertsteuer-gruene-und-spd-greifen-finanzminister-christian-lindner-scharf-an-a-f22c904d-b2b5-4c09-8876-4bb7ac4b5377#ref=rss)
+### pen
+
+* [https://www.spiegel.de/kultur/literatur/pen-international-generalsekretaerin-regula-venske-tritt-zurueck](https://www.spiegel.de/kultur/literatur/pen-international-generalsekretaerin-regula-venske-tritt-zurueck-a-4763c9fb-04ab-4116-a940-8f5f479170bc#ref=rss)
+### international
+
+* [https://www.spiegel.de/kultur/literatur/pen-international-generalsekretaerin-regula-venske-tritt-zurueck](https://www.spiegel.de/kultur/literatur/pen-international-generalsekretaerin-regula-venske-tritt-zurueck-a-4763c9fb-04ab-4116-a940-8f5f479170bc#ref=rss)
+### regula
+
+* [https://www.spiegel.de/kultur/literatur/pen-international-generalsekretaerin-regula-venske-tritt-zurueck](https://www.spiegel.de/kultur/literatur/pen-international-generalsekretaerin-regula-venske-tritt-zurueck-a-4763c9fb-04ab-4116-a940-8f5f479170bc#ref=rss)
+### venske
+
+* [https://www.spiegel.de/kultur/literatur/pen-international-generalsekretaerin-regula-venske-tritt-zurueck](https://www.spiegel.de/kultur/literatur/pen-international-generalsekretaerin-regula-venske-tritt-zurueck-a-4763c9fb-04ab-4116-a940-8f5f479170bc#ref=rss)
+### tritt
+
+* [https://www.spiegel.de/kultur/literatur/pen-international-generalsekretaerin-regula-venske-tritt-zurueck](https://www.spiegel.de/kultur/literatur/pen-international-generalsekretaerin-regula-venske-tritt-zurueck-a-4763c9fb-04ab-4116-a940-8f5f479170bc#ref=rss)
+* [https://www.spiegel.de/panorama/annette-kurschus-ekd-ratsvorsitzende-tritt-zurueck](https://www.spiegel.de/panorama/annette-kurschus-ekd-ratsvorsitzende-tritt-zurueck-a-36731049-8d50-4665-ab61-d07c85c32309#ref=rss)
+### mangel
+
+* [https://www.spiegel.de/kultur/literatur/pen-international-generalsekretaerin-regula-venske-tritt-zurueck](https://www.spiegel.de/kultur/literatur/pen-international-generalsekretaerin-regula-venske-tritt-zurueck-a-4763c9fb-04ab-4116-a940-8f5f479170bc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/fachkraeftemangel-zwingt-betriebe-zu-mehr-familienfreundlichkeit](https://www.spiegel.de/wirtschaft/fachkraeftemangel-zwingt-betriebe-zu-mehr-familienfreundlichkeit-a-ea80f402-786c-4b4e-a5af-544d09fc8f50#ref=rss)
+### londoner
+
+* [https://www.spiegel.de/kultur/literatur/pen-international-generalsekretaerin-regula-venske-tritt-zurueck](https://www.spiegel.de/kultur/literatur/pen-international-generalsekretaerin-regula-venske-tritt-zurueck-a-4763c9fb-04ab-4116-a940-8f5f479170bc#ref=rss)
+* [https://www.spiegel.de/panorama/the-crown-requisiten-aus-netflix-serie-werden-versteigert-auch-revenge-dress-von-lady-di](https://www.spiegel.de/panorama/the-crown-requisiten-aus-netflix-serie-werden-versteigert-auch-revenge-dress-von-lady-di-a-73e82cab-fbcc-44fa-ac3f-f7cd748c5ff0#ref=rss)
+### annette
+
+* [https://www.spiegel.de/panorama/annette-kurschus-ekd-ratsvorsitzende-tritt-zurueck](https://www.spiegel.de/panorama/annette-kurschus-ekd-ratsvorsitzende-tritt-zurueck-a-36731049-8d50-4665-ab61-d07c85c32309#ref=rss)
+### kurschus
+
+* [https://www.spiegel.de/panorama/annette-kurschus-ekd-ratsvorsitzende-tritt-zurueck](https://www.spiegel.de/panorama/annette-kurschus-ekd-ratsvorsitzende-tritt-zurueck-a-36731049-8d50-4665-ab61-d07c85c32309#ref=rss)
+### ekdratsvorsitzende
+
+* [https://www.spiegel.de/panorama/annette-kurschus-ekd-ratsvorsitzende-tritt-zurueck](https://www.spiegel.de/panorama/annette-kurschus-ekd-ratsvorsitzende-tritt-zurueck-a-36731049-8d50-4665-ab61-d07c85c32309#ref=rss)
+### lange
+
+* [https://www.spiegel.de/auto/berlin-will-einsatz-von-magnetschwebebahnen-testen-und-plant-fuenf-kilometer-lange-pilotstrecke](https://www.spiegel.de/auto/berlin-will-einsatz-von-magnetschwebebahnen-testen-und-plant-fuenf-kilometer-lange-pilotstrecke-a-e3404df2-f16b-4e08-bfc0-1c6a3397379b#ref=rss)
+* [https://www.spiegel.de/politik/krieg-in-der-ukraine-der-westen-muss-russland-eindaemmen](https://www.spiegel.de/politik/krieg-in-der-ukraine-der-westen-muss-russland-eindaemmen-a-c674cea2-9c8d-428b-96cb-f79262d364ae#ref=rss)
+### demnach
+
+* [https://www.spiegel.de/auto/berlin-will-einsatz-von-magnetschwebebahnen-testen-und-plant-fuenf-kilometer-lange-pilotstrecke](https://www.spiegel.de/auto/berlin-will-einsatz-von-magnetschwebebahnen-testen-und-plant-fuenf-kilometer-lange-pilotstrecke-a-e3404df2-f16b-4e08-bfc0-1c6a3397379b#ref=rss)
+* [https://www.spiegel.de/netzwelt/sam-altman-chatgpt-erfinder-kehrt-nicht-zu-openai-zurueck](https://www.spiegel.de/netzwelt/sam-altman-chatgpt-erfinder-kehrt-nicht-zu-openai-zurueck-a-40642666-1188-4851-b581-a536b0d782fe#ref=rss)
+### formel
+
+* [https://www.spiegel.de/sport/formel1/formel-1-presse-ueber-show-in-las-vegas-feier-eines-exzessiven-sports-in-der-exzessivsten-aller-staedte](https://www.spiegel.de/sport/formel1/formel-1-presse-ueber-show-in-las-vegas-feier-eines-exzessiven-sports-in-der-exzessivsten-aller-staedte-a-fb3a2775-0b1a-4700-a825-bc99e65fcec1#ref=rss)
+### 1
+
+* [https://www.spiegel.de/sport/formel1/formel-1-presse-ueber-show-in-las-vegas-feier-eines-exzessiven-sports-in-der-exzessivsten-aller-staedte](https://www.spiegel.de/sport/formel1/formel-1-presse-ueber-show-in-las-vegas-feier-eines-exzessiven-sports-in-der-exzessivsten-aller-staedte-a-fb3a2775-0b1a-4700-a825-bc99e65fcec1#ref=rss)
+### las
+
+* [https://www.spiegel.de/sport/formel1/formel-1-presse-ueber-show-in-las-vegas-feier-eines-exzessiven-sports-in-der-exzessivsten-aller-staedte](https://www.spiegel.de/sport/formel1/formel-1-presse-ueber-show-in-las-vegas-feier-eines-exzessiven-sports-in-der-exzessivsten-aller-staedte-a-fb3a2775-0b1a-4700-a825-bc99e65fcec1#ref=rss)
+### vegas
+
+* [https://www.spiegel.de/sport/formel1/formel-1-presse-ueber-show-in-las-vegas-feier-eines-exzessiven-sports-in-der-exzessivsten-aller-staedte](https://www.spiegel.de/sport/formel1/formel-1-presse-ueber-show-in-las-vegas-feier-eines-exzessiven-sports-in-der-exzessivsten-aller-staedte-a-fb3a2775-0b1a-4700-a825-bc99e65fcec1#ref=rss)
+### große
+
+* [https://www.spiegel.de/sport/formel1/formel-1-presse-ueber-show-in-las-vegas-feier-eines-exzessiven-sports-in-der-exzessivsten-aller-staedte](https://www.spiegel.de/sport/formel1/formel-1-presse-ueber-show-in-las-vegas-feier-eines-exzessiven-sports-in-der-exzessivsten-aller-staedte-a-fb3a2775-0b1a-4700-a825-bc99e65fcec1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/mercosur-grosse-teile-des-eu-parlaments-wehren-sich-gegen-plaene-der-eu-kommission](https://www.spiegel.de/wirtschaft/mercosur-grosse-teile-des-eu-parlaments-wehren-sich-gegen-plaene-der-eu-kommission-a-8caa5653-6121-46ac-9a14-154993b9e2b4#ref=rss)
+### medien
+
+* [https://www.spiegel.de/sport/formel1/formel-1-presse-ueber-show-in-las-vegas-feier-eines-exzessiven-sports-in-der-exzessivsten-aller-staedte](https://www.spiegel.de/sport/formel1/formel-1-presse-ueber-show-in-las-vegas-feier-eines-exzessiven-sports-in-der-exzessivsten-aller-staedte-a-fb3a2775-0b1a-4700-a825-bc99e65fcec1#ref=rss)
+### straßen
+
+* [https://www.spiegel.de/sport/formel1/formel-1-presse-ueber-show-in-las-vegas-feier-eines-exzessiven-sports-in-der-exzessivsten-aller-staedte](https://www.spiegel.de/sport/formel1/formel-1-presse-ueber-show-in-las-vegas-feier-eines-exzessiven-sports-in-der-exzessivsten-aller-staedte-a-fb3a2775-0b1a-4700-a825-bc99e65fcec1#ref=rss)
+* [https://www.spiegel.de/panorama/leute/berlin-franziska-giffey-befuerchtet-ausschreitungen-an-silvester](https://www.spiegel.de/panorama/leute/berlin-franziska-giffey-befuerchtet-ausschreitungen-an-silvester-a-4af0354b-77e3-489b-9225-a43b1a76f17d#ref=rss)
+### bundesnetzagentur
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/bundesnetzagentur-handynetzbetreibern-drohen-bussgelder-wegen-defiziten-beim-netzbau](https://www.spiegel.de/netzwelt/netzpolitik/bundesnetzagentur-handynetzbetreibern-drohen-bussgelder-wegen-defiziten-beim-netzbau-a-d2d1ccb4-8c7e-43de-a474-4c695e27f3da#ref=rss)
+### heide
+
+* [https://www.spiegel.de/start/studieren-in-heide-campus-wohnviertel-wg-zimmer-und-kneipen](https://www.spiegel.de/start/studieren-in-heide-campus-wohnviertel-wg-zimmer-und-kneipen-a-4e7f3c3b-1f84-48f2-872b-1b7155c6a2f1#ref=rss)
+### ebay
+
+* [https://www.spiegel.de/netzwelt/web/bezahlen-mit-paypal-auf-ebay-kaeuferschutz-bringt-auf-keinen-fall-absolute-sicherheit](https://www.spiegel.de/netzwelt/web/bezahlen-mit-paypal-auf-ebay-kaeuferschutz-bringt-auf-keinen-fall-absolute-sicherheit-a-0867409b-e0d9-4a61-aae2-08b6adc02cf7#ref=rss)
+### käuferschutz
+
+* [https://www.spiegel.de/netzwelt/web/bezahlen-mit-paypal-auf-ebay-kaeuferschutz-bringt-auf-keinen-fall-absolute-sicherheit](https://www.spiegel.de/netzwelt/web/bezahlen-mit-paypal-auf-ebay-kaeuferschutz-bringt-auf-keinen-fall-absolute-sicherheit-a-0867409b-e0d9-4a61-aae2-08b6adc02cf7#ref=rss)
+### bringt
+
+* [https://www.spiegel.de/netzwelt/web/bezahlen-mit-paypal-auf-ebay-kaeuferschutz-bringt-auf-keinen-fall-absolute-sicherheit](https://www.spiegel.de/netzwelt/web/bezahlen-mit-paypal-auf-ebay-kaeuferschutz-bringt-auf-keinen-fall-absolute-sicherheit-a-0867409b-e0d9-4a61-aae2-08b6adc02cf7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/haushaltsloch-fdp-will-sozialleistungen-kuerzen](https://www.spiegel.de/wirtschaft/haushaltsloch-fdp-will-sozialleistungen-kuerzen-a-66615f10-0ef6-48c2-b5fd-e328e6843f67#ref=rss)
+### fall
+
+* [https://www.spiegel.de/netzwelt/web/bezahlen-mit-paypal-auf-ebay-kaeuferschutz-bringt-auf-keinen-fall-absolute-sicherheit](https://www.spiegel.de/netzwelt/web/bezahlen-mit-paypal-auf-ebay-kaeuferschutz-bringt-auf-keinen-fall-absolute-sicherheit-a-0867409b-e0d9-4a61-aae2-08b6adc02cf7#ref=rss)
+### euro
+
+* [https://www.spiegel.de/netzwelt/web/bezahlen-mit-paypal-auf-ebay-kaeuferschutz-bringt-auf-keinen-fall-absolute-sicherheit](https://www.spiegel.de/netzwelt/web/bezahlen-mit-paypal-auf-ebay-kaeuferschutz-bringt-auf-keinen-fall-absolute-sicherheit-a-0867409b-e0d9-4a61-aae2-08b6adc02cf7#ref=rss)
+* [https://www.spiegel.de/panorama/paris-napoleons-filzhut-fuer-1-9-millionen-euro-versteigert](https://www.spiegel.de/panorama/paris-napoleons-filzhut-fuer-1-9-millionen-euro-versteigert-a-554dc422-2539-48d2-873a-24f46aa6e070#ref=rss)
+### chatgpterfinder
+
+* [https://www.spiegel.de/netzwelt/web/sam-altman-faengt-bei-microsoft-an-ehemaliger-openai-chef-und-chatgpt-erfinder-hat-neuen-job](https://www.spiegel.de/netzwelt/web/sam-altman-faengt-bei-microsoft-an-ehemaliger-openai-chef-und-chatgpt-erfinder-hat-neuen-job-a-5d28db20-efaa-4aac-b958-426dd5c4d76e#ref=rss)
+* [https://www.spiegel.de/netzwelt/sam-altman-chatgpt-erfinder-kehrt-nicht-zu-openai-zurueck](https://www.spiegel.de/netzwelt/sam-altman-chatgpt-erfinder-kehrt-nicht-zu-openai-zurueck-a-40642666-1188-4851-b581-a536b0d782fe#ref=rss)
+### suki
+
+* [https://www.spiegel.de/panorama/leute/robert-pattinson-und-suki-waterhouse-erwarten-erstes-kind](https://www.spiegel.de/panorama/leute/robert-pattinson-und-suki-waterhouse-erwarten-erstes-kind-a-644cb697-9166-4b49-87cc-fb43a97cec2a#ref=rss)
+### waterhouse
+
+* [https://www.spiegel.de/panorama/leute/robert-pattinson-und-suki-waterhouse-erwarten-erstes-kind](https://www.spiegel.de/panorama/leute/robert-pattinson-und-suki-waterhouse-erwarten-erstes-kind-a-644cb697-9166-4b49-87cc-fb43a97cec2a#ref=rss)
+### sudan
+
+* [https://www.spiegel.de/ausland/sudan-und-suedsudan-32-tote-bei-blutigem-konflikt-um-oelgebiet](https://www.spiegel.de/ausland/sudan-und-suedsudan-32-tote-bei-blutigem-konflikt-um-oelgebiet-a-88f09f65-6185-407b-ac31-b890f2a20cc6#ref=rss)
+### südsudan
+
+* [https://www.spiegel.de/ausland/sudan-und-suedsudan-32-tote-bei-blutigem-konflikt-um-oelgebiet](https://www.spiegel.de/ausland/sudan-und-suedsudan-32-tote-bei-blutigem-konflikt-um-oelgebiet-a-88f09f65-6185-407b-ac31-b890f2a20cc6#ref=rss)
+### gekommen
+
+* [https://www.spiegel.de/ausland/sudan-und-suedsudan-32-tote-bei-blutigem-konflikt-um-oelgebiet](https://www.spiegel.de/ausland/sudan-und-suedsudan-32-tote-bei-blutigem-konflikt-um-oelgebiet-a-88f09f65-6185-407b-ac31-b890f2a20cc6#ref=rss)
+* [https://www.spiegel.de/ausland/jair-bolsonaro-brasiliens-ex-praesident-soll-wal-gequaelt-haben](https://www.spiegel.de/ausland/jair-bolsonaro-brasiliens-ex-praesident-soll-wal-gequaelt-haben-a-463a927b-06a1-4803-99ca-2f718e97be45#ref=rss)
+### unter
+
+* [https://www.spiegel.de/ausland/sudan-und-suedsudan-32-tote-bei-blutigem-konflikt-um-oelgebiet](https://www.spiegel.de/ausland/sudan-und-suedsudan-32-tote-bei-blutigem-konflikt-um-oelgebiet-a-88f09f65-6185-407b-ac31-b890f2a20cc6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/mercosur-grosse-teile-des-eu-parlaments-wehren-sich-gegen-plaene-der-eu-kommission](https://www.spiegel.de/wirtschaft/mercosur-grosse-teile-des-eu-parlaments-wehren-sich-gegen-plaene-der-eu-kommission-a-8caa5653-6121-46ac-9a14-154993b9e2b4#ref=rss)
+### olaf
+
+* [https://www.spiegel.de/wirtschaft/wohnungsbau-gruene-sind-gegen-neue-stadtviertel-und-widersprechen-olaf-scholz](https://www.spiegel.de/wirtschaft/wohnungsbau-gruene-sind-gegen-neue-stadtviertel-und-widersprechen-olaf-scholz-a-3e6c3ece-e758-45da-8d55-21aad40f4906#ref=rss)
+### scholz
+
+* [https://www.spiegel.de/wirtschaft/wohnungsbau-gruene-sind-gegen-neue-stadtviertel-und-widersprechen-olaf-scholz](https://www.spiegel.de/wirtschaft/wohnungsbau-gruene-sind-gegen-neue-stadtviertel-und-widersprechen-olaf-scholz-a-3e6c3ece-e758-45da-8d55-21aad40f4906#ref=rss)
+### grünen
+
+* [https://www.spiegel.de/wirtschaft/wohnungsbau-gruene-sind-gegen-neue-stadtviertel-und-widersprechen-olaf-scholz](https://www.spiegel.de/wirtschaft/wohnungsbau-gruene-sind-gegen-neue-stadtviertel-und-widersprechen-olaf-scholz-a-3e6c3ece-e758-45da-8d55-21aad40f4906#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gastro-mehrwertsteuer-gruene-und-spd-greifen-finanzminister-christian-lindner-scharf-an](https://www.spiegel.de/politik/deutschland/gastro-mehrwertsteuer-gruene-und-spd-greifen-finanzminister-christian-lindner-scharf-an-a-f22c904d-b2b5-4c09-8876-4bb7ac4b5377#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/politik/krieg-in-der-ukraine-der-westen-muss-russland-eindaemmen](https://www.spiegel.de/politik/krieg-in-der-ukraine-der-westen-muss-russland-eindaemmen-a-c674cea2-9c8d-428b-96cb-f79262d364ae#ref=rss)
+### westen
+
+* [https://www.spiegel.de/politik/krieg-in-der-ukraine-der-westen-muss-russland-eindaemmen](https://www.spiegel.de/politik/krieg-in-der-ukraine-der-westen-muss-russland-eindaemmen-a-c674cea2-9c8d-428b-96cb-f79262d364ae#ref=rss)
+### russland
+
+* [https://www.spiegel.de/politik/krieg-in-der-ukraine-der-westen-muss-russland-eindaemmen](https://www.spiegel.de/politik/krieg-in-der-ukraine-der-westen-muss-russland-eindaemmen-a-c674cea2-9c8d-428b-96cb-f79262d364ae#ref=rss)
+### europäische
+
+* [https://www.spiegel.de/politik/krieg-in-der-ukraine-der-westen-muss-russland-eindaemmen](https://www.spiegel.de/politik/krieg-in-der-ukraine-der-westen-muss-russland-eindaemmen-a-c674cea2-9c8d-428b-96cb-f79262d364ae#ref=rss)
+* [https://www.spiegel.de/wirtschaft/mercosur-grosse-teile-des-eu-parlaments-wehren-sich-gegen-plaene-der-eu-kommission](https://www.spiegel.de/wirtschaft/mercosur-grosse-teile-des-eu-parlaments-wehren-sich-gegen-plaene-der-eu-kommission-a-8caa5653-6121-46ac-9a14-154993b9e2b4#ref=rss)
+### franz
+
+* [https://www.spiegel.de/sport/basketball/nba-franz-und-moritz-wagner-sorgen-bei-orlando-magic-fuer-aufsehen](https://www.spiegel.de/sport/basketball/nba-franz-und-moritz-wagner-sorgen-bei-orlando-magic-fuer-aufsehen-a-02373f65-158c-420e-89e1-f41abb94e735#ref=rss)
+### moritz
+
+* [https://www.spiegel.de/sport/basketball/nba-franz-und-moritz-wagner-sorgen-bei-orlando-magic-fuer-aufsehen](https://www.spiegel.de/sport/basketball/nba-franz-und-moritz-wagner-sorgen-bei-orlando-magic-fuer-aufsehen-a-02373f65-158c-420e-89e1-f41abb94e735#ref=rss)
+### wagner
+
+* [https://www.spiegel.de/sport/basketball/nba-franz-und-moritz-wagner-sorgen-bei-orlando-magic-fuer-aufsehen](https://www.spiegel.de/sport/basketball/nba-franz-und-moritz-wagner-sorgen-bei-orlando-magic-fuer-aufsehen-a-02373f65-158c-420e-89e1-f41abb94e735#ref=rss)
+### lindner
+
+* [https://www.spiegel.de/politik/deutschland/gastro-mehrwertsteuer-gruene-und-spd-greifen-finanzminister-christian-lindner-scharf-an](https://www.spiegel.de/politik/deutschland/gastro-mehrwertsteuer-gruene-und-spd-greifen-finanzminister-christian-lindner-scharf-an-a-f22c904d-b2b5-4c09-8876-4bb7ac4b5377#ref=rss)
+### sorgt
+
+* [https://www.spiegel.de/politik/deutschland/gastro-mehrwertsteuer-gruene-und-spd-greifen-finanzminister-christian-lindner-scharf-an](https://www.spiegel.de/politik/deutschland/gastro-mehrwertsteuer-gruene-und-spd-greifen-finanzminister-christian-lindner-scharf-an-a-f22c904d-b2b5-4c09-8876-4bb7ac4b5377#ref=rss)
+* [https://www.spiegel.de/wirtschaft/fachkraeftemangel-zwingt-betriebe-zu-mehr-familienfreundlichkeit](https://www.spiegel.de/wirtschaft/fachkraeftemangel-zwingt-betriebe-zu-mehr-familienfreundlichkeit-a-ea80f402-786c-4b4e-a5af-544d09fc8f50#ref=rss)
+### ampel
+
+* [https://www.spiegel.de/politik/deutschland/gastro-mehrwertsteuer-gruene-und-spd-greifen-finanzminister-christian-lindner-scharf-an](https://www.spiegel.de/politik/deutschland/gastro-mehrwertsteuer-gruene-und-spd-greifen-finanzminister-christian-lindner-scharf-an-a-f22c904d-b2b5-4c09-8876-4bb7ac4b5377#ref=rss)
+* [https://www.spiegel.de/wirtschaft/haushaltsloch-fdp-will-sozialleistungen-kuerzen](https://www.spiegel.de/wirtschaft/haushaltsloch-fdp-will-sozialleistungen-kuerzen-a-66615f10-0ef6-48c2-b5fd-e328e6843f67#ref=rss)
+### gesunken
+
+* [https://www.spiegel.de/panorama/schwarzes-meer-tuerkisches-frachtschiff-gesunken-kein-lebenszeichen-von-besatzungsmitgliedern](https://www.spiegel.de/panorama/schwarzes-meer-tuerkisches-frachtschiff-gesunken-kein-lebenszeichen-von-besatzungsmitgliedern-a-cfd439cd-c510-4cb3-bf1f-5589bc0b952d#ref=rss)
+### lebenszeichen
+
+* [https://www.spiegel.de/panorama/schwarzes-meer-tuerkisches-frachtschiff-gesunken-kein-lebenszeichen-von-besatzungsmitgliedern](https://www.spiegel.de/panorama/schwarzes-meer-tuerkisches-frachtschiff-gesunken-kein-lebenszeichen-von-besatzungsmitgliedern-a-cfd439cd-c510-4cb3-bf1f-5589bc0b952d#ref=rss)
+### besatzungsmitgliedern
+
+* [https://www.spiegel.de/panorama/schwarzes-meer-tuerkisches-frachtschiff-gesunken-kein-lebenszeichen-von-besatzungsmitgliedern](https://www.spiegel.de/panorama/schwarzes-meer-tuerkisches-frachtschiff-gesunken-kein-lebenszeichen-von-besatzungsmitgliedern-a-cfd439cd-c510-4cb3-bf1f-5589bc0b952d#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/panorama/schwarzes-meer-tuerkisches-frachtschiff-gesunken-kein-lebenszeichen-von-besatzungsmitgliedern](https://www.spiegel.de/panorama/schwarzes-meer-tuerkisches-frachtschiff-gesunken-kein-lebenszeichen-von-besatzungsmitgliedern-a-cfd439cd-c510-4cb3-bf1f-5589bc0b952d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/fachkraeftemangel-zwingt-betriebe-zu-mehr-familienfreundlichkeit](https://www.spiegel.de/wirtschaft/fachkraeftemangel-zwingt-betriebe-zu-mehr-familienfreundlichkeit-a-ea80f402-786c-4b4e-a5af-544d09fc8f50#ref=rss)
+### the
+
+* [https://www.spiegel.de/panorama/the-crown-requisiten-aus-netflix-serie-werden-versteigert-auch-revenge-dress-von-lady-di](https://www.spiegel.de/panorama/the-crown-requisiten-aus-netflix-serie-werden-versteigert-auch-revenge-dress-von-lady-di-a-73e82cab-fbcc-44fa-ac3f-f7cd748c5ff0#ref=rss)
+### crown
+
+* [https://www.spiegel.de/panorama/the-crown-requisiten-aus-netflix-serie-werden-versteigert-auch-revenge-dress-von-lady-di](https://www.spiegel.de/panorama/the-crown-requisiten-aus-netflix-serie-werden-versteigert-auch-revenge-dress-von-lady-di-a-73e82cab-fbcc-44fa-ac3f-f7cd748c5ff0#ref=rss)
+### requisiten
+
+* [https://www.spiegel.de/panorama/the-crown-requisiten-aus-netflix-serie-werden-versteigert-auch-revenge-dress-von-lady-di](https://www.spiegel.de/panorama/the-crown-requisiten-aus-netflix-serie-werden-versteigert-auch-revenge-dress-von-lady-di-a-73e82cab-fbcc-44fa-ac3f-f7cd748c5ff0#ref=rss)
+### revenge
+
+* [https://www.spiegel.de/panorama/the-crown-requisiten-aus-netflix-serie-werden-versteigert-auch-revenge-dress-von-lady-di](https://www.spiegel.de/panorama/the-crown-requisiten-aus-netflix-serie-werden-versteigert-auch-revenge-dress-von-lady-di-a-73e82cab-fbcc-44fa-ac3f-f7cd748c5ff0#ref=rss)
+### dress
+
+* [https://www.spiegel.de/panorama/the-crown-requisiten-aus-netflix-serie-werden-versteigert-auch-revenge-dress-von-lady-di](https://www.spiegel.de/panorama/the-crown-requisiten-aus-netflix-serie-werden-versteigert-auch-revenge-dress-von-lady-di-a-73e82cab-fbcc-44fa-ac3f-f7cd748c5ff0#ref=rss)
+### lady
+
+* [https://www.spiegel.de/panorama/the-crown-requisiten-aus-netflix-serie-werden-versteigert-auch-revenge-dress-von-lady-di](https://www.spiegel.de/panorama/the-crown-requisiten-aus-netflix-serie-werden-versteigert-auch-revenge-dress-von-lady-di-a-73e82cab-fbcc-44fa-ac3f-f7cd748c5ff0#ref=rss)
+### di
+
+* [https://www.spiegel.de/panorama/the-crown-requisiten-aus-netflix-serie-werden-versteigert-auch-revenge-dress-von-lady-di](https://www.spiegel.de/panorama/the-crown-requisiten-aus-netflix-serie-werden-versteigert-auch-revenge-dress-von-lady-di-a-73e82cab-fbcc-44fa-ac3f-f7cd748c5ff0#ref=rss)
+### jair
+
+* [https://www.spiegel.de/ausland/jair-bolsonaro-brasiliens-ex-praesident-soll-wal-gequaelt-haben](https://www.spiegel.de/ausland/jair-bolsonaro-brasiliens-ex-praesident-soll-wal-gequaelt-haben-a-463a927b-06a1-4803-99ca-2f718e97be45#ref=rss)
+### bolsonaro
+
+* [https://www.spiegel.de/ausland/jair-bolsonaro-brasiliens-ex-praesident-soll-wal-gequaelt-haben](https://www.spiegel.de/ausland/jair-bolsonaro-brasiliens-ex-praesident-soll-wal-gequaelt-haben-a-463a927b-06a1-4803-99ca-2f718e97be45#ref=rss)
+### brasiliens
+
+* [https://www.spiegel.de/ausland/jair-bolsonaro-brasiliens-ex-praesident-soll-wal-gequaelt-haben](https://www.spiegel.de/ausland/jair-bolsonaro-brasiliens-ex-praesident-soll-wal-gequaelt-haben-a-463a927b-06a1-4803-99ca-2f718e97be45#ref=rss)
+### expräsident
+
+* [https://www.spiegel.de/ausland/jair-bolsonaro-brasiliens-ex-praesident-soll-wal-gequaelt-haben](https://www.spiegel.de/ausland/jair-bolsonaro-brasiliens-ex-praesident-soll-wal-gequaelt-haben-a-463a927b-06a1-4803-99ca-2f718e97be45#ref=rss)
+### wal
+
+* [https://www.spiegel.de/ausland/jair-bolsonaro-brasiliens-ex-praesident-soll-wal-gequaelt-haben](https://www.spiegel.de/ausland/jair-bolsonaro-brasiliens-ex-praesident-soll-wal-gequaelt-haben-a-463a927b-06a1-4803-99ca-2f718e97be45#ref=rss)
+### giffey
+
+* [https://www.spiegel.de/panorama/leute/berlin-franziska-giffey-befuerchtet-ausschreitungen-an-silvester](https://www.spiegel.de/panorama/leute/berlin-franziska-giffey-befuerchtet-ausschreitungen-an-silvester-a-4af0354b-77e3-489b-9225-a43b1a76f17d#ref=rss)
+### silvester
+
+* [https://www.spiegel.de/panorama/leute/berlin-franziska-giffey-befuerchtet-ausschreitungen-an-silvester](https://www.spiegel.de/panorama/leute/berlin-franziska-giffey-befuerchtet-ausschreitungen-an-silvester-a-4af0354b-77e3-489b-9225-a43b1a76f17d#ref=rss)
+### welt
+
+* [https://www.spiegel.de/panorama/leute/berlin-franziska-giffey-befuerchtet-ausschreitungen-an-silvester](https://www.spiegel.de/panorama/leute/berlin-franziska-giffey-befuerchtet-ausschreitungen-an-silvester-a-4af0354b-77e3-489b-9225-a43b1a76f17d#ref=rss)
+* [https://www.spiegel.de/panorama/paris-napoleons-filzhut-fuer-1-9-millionen-euro-versteigert](https://www.spiegel.de/panorama/paris-napoleons-filzhut-fuer-1-9-millionen-euro-versteigert-a-554dc422-2539-48d2-873a-24f46aa6e070#ref=rss)
+### fdp
+
+* [https://www.spiegel.de/wirtschaft/haushaltsloch-fdp-will-sozialleistungen-kuerzen](https://www.spiegel.de/wirtschaft/haushaltsloch-fdp-will-sozialleistungen-kuerzen-a-66615f10-0ef6-48c2-b5fd-e328e6843f67#ref=rss)
+### filzhut
+
+* [https://www.spiegel.de/panorama/paris-napoleons-filzhut-fuer-1-9-millionen-euro-versteigert](https://www.spiegel.de/panorama/paris-napoleons-filzhut-fuer-1-9-millionen-euro-versteigert-a-554dc422-2539-48d2-873a-24f46aa6e070#ref=rss)
 
