@@ -4,304 +4,334 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### ich
+### berlin
 
-* [https://www.spiegel.de/familie/eltern-und-ihre-geschaerften-sinne-dank-meiner-kinder-habe-ich-superkraefte](https://www.spiegel.de/familie/eltern-und-ihre-geschaerften-sinne-dank-meiner-kinder-habe-ich-superkraefte-a-cc3cabe1-1d6a-478d-b2ef-314b37f7524f#ref=rss)
-* [https://www.spiegel.de/panorama/bibliotheken-gehe-ich-pleite-wenn-ich-ein-buch-meiner-vorfahren-zurueckbringe](https://www.spiegel.de/panorama/bibliotheken-gehe-ich-pleite-wenn-ich-ein-buch-meiner-vorfahren-zurueckbringe-a-2f45284b-daff-4067-a96f-08ef01a50cf9#ref=rss)
-### frank
+* [https://www.spiegel.de/politik/deutschland/nachkriegsordnung-in-nahost-berlin-sieht-wichtige-rolle-fuer-autonomiebehoerde-in-gaza](https://www.spiegel.de/politik/deutschland/nachkriegsordnung-in-nahost-berlin-sieht-wichtige-rolle-fuer-autonomiebehoerde-in-gaza-a-49f04ad0-6622-4d58-aeb2-6618db9c2e57#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-razzia-wegen-zwangsprostitution-und-zuhaelterei](https://www.spiegel.de/panorama/justiz/berlin-razzia-wegen-zwangsprostitution-und-zuhaelterei-a-663a7b11-68ff-4227-bc50-d660adfade63#ref=rss)
+* [https://www.spiegel.de/auto/magnetschwebebahn-fuer-berlin-eine-loesung-auf-der-suche-nach-einem-problem](https://www.spiegel.de/auto/magnetschwebebahn-fuer-berlin-eine-loesung-auf-der-suche-nach-einem-problem-a-833d6bcb-70c9-4b72-a443-a4d769e37f95#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-laedt-kollegen-aus-den-laendern-zum-krisengipfel](https://www.spiegel.de/politik/deutschland/robert-habeck-laedt-kollegen-aus-den-laendern-zum-krisengipfel-a-a11c0361-5157-4133-b760-4bdfde5de6d4#ref=rss)
+* [https://www.spiegel.de/auto/deutschlandticket-gueltig-nun-auch-fuer-manche-ic-und-ice-in-brandenburg](https://www.spiegel.de/auto/deutschlandticket-gueltig-nun-auch-fuer-manche-ic-und-ice-in-brandenburg-a-660cfe4c-9eca-443b-b73e-de34e157987c#ref=rss)
+### viele
 
-* [https://www.spiegel.de/kultur/tv/echt-unsere-jugend-ard-doku-von-kim-frank-ueber-teeniestars](https://www.spiegel.de/kultur/tv/echt-unsere-jugend-ard-doku-von-kim-frank-ueber-teeniestars-a-917fb143-842e-4139-b5db-565776ab6e48#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/bundesverfassungsgericht-peter-frank-bisher-generalbundesanwalt-soll-verfassungsrichter-werden](https://www.spiegel.de/panorama/gesellschaft/bundesverfassungsgericht-peter-frank-bisher-generalbundesanwalt-soll-verfassungsrichter-werden-a-8efb5e62-1d96-4da0-8b70-5661d4962753#ref=rss)
-### mehr
+* [https://www.spiegel.de/ausland/donald-trump-telefoniert-mit-designiertem-argentinischen-praesidenten-javier-milei](https://www.spiegel.de/ausland/donald-trump-telefoniert-mit-designiertem-argentinischen-praesidenten-javier-milei-a-6447f243-c541-4e08-a8fe-bddb046ab02a#ref=rss)
+* [https://www.spiegel.de/gesundheit/erkaeltungsmonitor-wie-viele-menschen-leiden-gerade-an-corona-grippe-rsv-co](https://www.spiegel.de/gesundheit/erkaeltungsmonitor-wie-viele-menschen-leiden-gerade-an-corona-grippe-rsv-co-a-f018d4b8-0629-45a7-a6d3-05fdcd2ada54#ref=rss)
+* [https://www.spiegel.de/geschichte/antisemitismus-in-deutschland-was-sie-ueber-die-wurzeln-des-judenhasses-wissen-sollten](https://www.spiegel.de/geschichte/antisemitismus-in-deutschland-was-sie-ueber-die-wurzeln-des-judenhasses-wissen-sollten-a-9e6416a5-14d5-4055-9197-395688ba053e#ref=rss)
+* [https://www.spiegel.de/ausland/voelkermord-an-den-tutsi-in-ruanda-prozess-in-frankreich-29-jahre-nach-dem-verbrechen](https://www.spiegel.de/ausland/voelkermord-an-den-tutsi-in-ruanda-prozess-in-frankreich-29-jahre-nach-dem-verbrechen-a-dcaf11fc-280c-421c-9397-0a623913170d#ref=rss)
+* [https://www.spiegel.de/start/generation-z-junge-beschaeftigte-fallen-immer-haeufiger-aus](https://www.spiegel.de/start/generation-z-junge-beschaeftigte-fallen-immer-haeufiger-aus-a-4a8dbc29-601f-4f22-a2b4-2266c98bbb8a#ref=rss)
+### lindner
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/crif-analyse-zur-gastronomie-immer-mehr-restaurants-und-bars-von-pleite-bedroht](https://www.spiegel.de/wirtschaft/unternehmen/crif-analyse-zur-gastronomie-immer-mehr-restaurants-und-bars-von-pleite-bedroht-a-5300d97e-3937-4c5f-b4c4-f93577e6978b#ref=rss)
-* [https://www.spiegel.de/auto/toyota-hilux-britische-werbeaufsicht-verbietet-spot-fuer-gelaendewagen](https://www.spiegel.de/auto/toyota-hilux-britische-werbeaufsicht-verbietet-spot-fuer-gelaendewagen-a-3542a391-9da9-4090-9aab-a157837bb327#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/china-lungenentzuendungen-bei-kindern-who-fordert-informationen](https://www.spiegel.de/wissenschaft/medizin/china-lungenentzuendungen-bei-kindern-who-fordert-informationen-a-6e989c2d-1832-4b02-aeba-d8dc72c41e92#ref=rss)
-* [https://www.spiegel.de/panorama/bibliotheken-gehe-ich-pleite-wenn-ich-ein-buch-meiner-vorfahren-zurueckbringe](https://www.spiegel.de/panorama/bibliotheken-gehe-ich-pleite-wenn-ich-ein-buch-meiner-vorfahren-zurueckbringe-a-2f45284b-daff-4067-a96f-08ef01a50cf9#ref=rss)
-### mehrere
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-so-gross-wird-der-nachtragshaushalt-2023](https://www.spiegel.de/politik/deutschland/christian-lindner-so-gross-wird-der-nachtragshaushalt-2023-a-9b34cf92-e718-4641-b3f6-85bf573d7fc9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-kuendigt-nachtragshaushalt-fuer-2023-an](https://www.spiegel.de/politik/deutschland/christian-lindner-kuendigt-nachtragshaushalt-fuer-2023-an-a-d1b26d7b-ceea-4dee-b60a-eb9988bbd4f0#ref=rss)
+### nachtragshaushalt
 
-* [https://www.spiegel.de/auto/toyota-hilux-britische-werbeaufsicht-verbietet-spot-fuer-gelaendewagen](https://www.spiegel.de/auto/toyota-hilux-britische-werbeaufsicht-verbietet-spot-fuer-gelaendewagen-a-3542a391-9da9-4090-9aab-a157837bb327#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/china-lungenentzuendungen-bei-kindern-who-fordert-informationen](https://www.spiegel.de/wissenschaft/medizin/china-lungenentzuendungen-bei-kindern-who-fordert-informationen-a-6e989c2d-1832-4b02-aeba-d8dc72c41e92#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuerger-durchsuchungen-in-acht-bundeslaendern](https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuerger-durchsuchungen-in-acht-bundeslaendern-a-12548a86-8373-4eda-bd56-ac3238c206d0#ref=rss)
-* [https://www.spiegel.de/ausland/libanon-israel-meldet-schlag-gegen-die-hisbollah](https://www.spiegel.de/ausland/libanon-israel-meldet-schlag-gegen-die-hisbollah-a-7e39e063-afca-4f65-8c5e-edc681a44a61#ref=rss)
-### geert
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-so-gross-wird-der-nachtragshaushalt-2023](https://www.spiegel.de/politik/deutschland/christian-lindner-so-gross-wird-der-nachtragshaushalt-2023-a-9b34cf92-e718-4641-b3f6-85bf573d7fc9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-kuendigt-nachtragshaushalt-fuer-2023-an](https://www.spiegel.de/politik/deutschland/christian-lindner-kuendigt-nachtragshaushalt-fuer-2023-an-a-d1b26d7b-ceea-4dee-b60a-eb9988bbd4f0#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/ausland/wahlsieg-von-geert-wilders-in-den-niederlanden-der-islamfeind-macht-auf-freundlich](https://www.spiegel.de/ausland/wahlsieg-von-geert-wilders-in-den-niederlanden-der-islamfeind-macht-auf-freundlich-a-9fe30fe6-fa00-4c14-b9f8-e6af16e5e931#ref=rss)
-* [https://www.spiegel.de/ausland/geert-wilders-in-den-niederlanden-gewaehlt-die-pressestimmen-der-monstersieg](https://www.spiegel.de/ausland/geert-wilders-in-den-niederlanden-gewaehlt-die-pressestimmen-der-monstersieg-a-2cc5ed56-a543-405a-805c-aaea33c6fa1b#ref=rss)
-### wilders
+* [https://www.spiegel.de/politik/deutschland/islamismus-terrorverdaechtiger-iraner-aus-castrop-rauxel-erhaelt-vier-jahre-haft](https://www.spiegel.de/politik/deutschland/islamismus-terrorverdaechtiger-iraner-aus-castrop-rauxel-erhaelt-vier-jahre-haft-a-38d6584d-87fb-4e7c-914c-d99c332fc22f#ref=rss)
+* [https://www.spiegel.de/ausland/voelkermord-an-den-tutsi-in-ruanda-prozess-in-frankreich-29-jahre-nach-dem-verbrechen](https://www.spiegel.de/ausland/voelkermord-an-den-tutsi-in-ruanda-prozess-in-frankreich-29-jahre-nach-dem-verbrechen-a-dcaf11fc-280c-421c-9397-0a623913170d#ref=rss)
+### frankreich
 
-* [https://www.spiegel.de/ausland/wahlsieg-von-geert-wilders-in-den-niederlanden-der-islamfeind-macht-auf-freundlich](https://www.spiegel.de/ausland/wahlsieg-von-geert-wilders-in-den-niederlanden-der-islamfeind-macht-auf-freundlich-a-9fe30fe6-fa00-4c14-b9f8-e6af16e5e931#ref=rss)
-* [https://www.spiegel.de/ausland/geert-wilders-in-den-niederlanden-gewaehlt-die-pressestimmen-der-monstersieg](https://www.spiegel.de/ausland/geert-wilders-in-den-niederlanden-gewaehlt-die-pressestimmen-der-monstersieg-a-2cc5ed56-a543-405a-805c-aaea33c6fa1b#ref=rss)
-### peter
+* [https://www.spiegel.de/sport/fussball/fussball-quiz-gegen-wen-gewann-frankreich-14-0](https://www.spiegel.de/sport/fussball/fussball-quiz-gegen-wen-gewann-frankreich-14-0-a-dbdc1fca-efd7-404f-b578-d9e711464863#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frankreich-emmanuel-macron-will-friedrich-merz-empfangen](https://www.spiegel.de/politik/deutschland/frankreich-emmanuel-macron-will-friedrich-merz-empfangen-a-f9d7ff52-781d-41a9-bae2-951294858541#ref=rss)
+* [https://www.spiegel.de/ausland/voelkermord-an-den-tutsi-in-ruanda-prozess-in-frankreich-29-jahre-nach-dem-verbrechen](https://www.spiegel.de/ausland/voelkermord-an-den-tutsi-in-ruanda-prozess-in-frankreich-29-jahre-nach-dem-verbrechen-a-dcaf11fc-280c-421c-9397-0a623913170d#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/panorama/gesellschaft/bundesverfassungsgericht-peter-frank-bisher-generalbundesanwalt-soll-verfassungsrichter-werden](https://www.spiegel.de/panorama/gesellschaft/bundesverfassungsgericht-peter-frank-bisher-generalbundesanwalt-soll-verfassungsrichter-werden-a-8efb5e62-1d96-4da0-8b70-5661d4962753#ref=rss)
-### menschen
+* [https://www.spiegel.de/ausland/ukraine-zug-soll-warme-mahlzeiten](https://www.spiegel.de/ausland/ukraine-zug-soll-warme-mahlzeiten-a-b616dd2e-1bc5-4c29-9ef4-a67601d84ef5#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-soll-eu-gelder-erhalten-trotz-blockade-in-ukraine-politik](https://www.spiegel.de/ausland/ungarn-soll-eu-gelder-erhalten-trotz-blockade-in-ukraine-politik-a-8f045579-6213-49d2-96a5-9e0d01deef32#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/polens-grenzblockade-proteste-gegen-spediteure-aus-der-ukraine-weiten-sich-aus](https://www.spiegel.de/wirtschaft/unternehmen/polens-grenzblockade-proteste-gegen-spediteure-aus-der-ukraine-weiten-sich-aus-a-c977c58c-f244-4061-b40b-42b36701e030#ref=rss)
+### christian
 
-* [https://www.spiegel.de/familie/eltern-und-ihre-geschaerften-sinne-dank-meiner-kinder-habe-ich-superkraefte](https://www.spiegel.de/familie/eltern-und-ihre-geschaerften-sinne-dank-meiner-kinder-habe-ich-superkraefte-a-cc3cabe1-1d6a-478d-b2ef-314b37f7524f#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-roter-halbmond-evakuiert-dutzende-menschen-aus-schifa-krankenhaus](https://www.spiegel.de/ausland/israel-gaza-krieg-roter-halbmond-evakuiert-dutzende-menschen-aus-schifa-krankenhaus-a-c3896c4b-97dc-4b52-a1a2-6b3f03546791#ref=rss)
-* [https://www.spiegel.de/start/ernaehrungstherapeut-werden-marvin-meyer-erzaehlt-von-seinem-berufseinstieg-als-diaetassistent](https://www.spiegel.de/start/ernaehrungstherapeut-werden-marvin-meyer-erzaehlt-von-seinem-berufseinstieg-als-diaetassistent-a-77758b92-a93a-4cb3-9b92-f2526637bbb6#ref=rss)
-### opposition
+* [https://www.spiegel.de/wirtschaft/unternehmen/evonik-chef-christian-kullmann-wer-afd-waehlt-gefaehrdet-jobs](https://www.spiegel.de/wirtschaft/unternehmen/evonik-chef-christian-kullmann-wer-afd-waehlt-gefaehrdet-jobs-a-bf527726-763d-47a6-a280-b69bc64dda66#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-so-gross-wird-der-nachtragshaushalt-2023](https://www.spiegel.de/politik/deutschland/christian-lindner-so-gross-wird-der-nachtragshaushalt-2023-a-9b34cf92-e718-4641-b3f6-85bf573d7fc9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-kuendigt-nachtragshaushalt-fuer-2023-an](https://www.spiegel.de/politik/deutschland/christian-lindner-kuendigt-nachtragshaushalt-fuer-2023-an-a-d1b26d7b-ceea-4dee-b60a-eb9988bbd4f0#ref=rss)
+### zukunft
 
-* [https://www.spiegel.de/panorama/leute/italien-minister-laesst-zug-anhalten-um-zu-einem-termin-zu-kommen](https://www.spiegel.de/panorama/leute/italien-minister-laesst-zug-anhalten-um-zu-einem-termin-zu-kommen-a-b8bed6e2-96a3-407a-ac40-851ea0e6fb72#ref=rss)
-* [https://www.spiegel.de/ausland/ungarn-ngos-prangern-victor-orbans-gesetzesentwurf-zur-unterdrueckung-der-opposition-an](https://www.spiegel.de/ausland/ungarn-ngos-prangern-victor-orbans-gesetzesentwurf-zur-unterdrueckung-der-opposition-an-a-892d0ae6-bde6-4a07-8a9f-850c2e2ad4b1#ref=rss)
-### fordert
+* [https://www.spiegel.de/wirtschaft/unternehmen/evonik-chef-christian-kullmann-wer-afd-waehlt-gefaehrdet-jobs](https://www.spiegel.de/wirtschaft/unternehmen/evonik-chef-christian-kullmann-wer-afd-waehlt-gefaehrdet-jobs-a-bf527726-763d-47a6-a280-b69bc64dda66#ref=rss)
+* [https://www.spiegel.de/wirtschaft/haushaltschaos-so-sehr-zittern-deutschlands-unternehmen-jetzt-um-ihre-zukunft](https://www.spiegel.de/wirtschaft/haushaltschaos-so-sehr-zittern-deutschlands-unternehmen-jetzt-um-ihre-zukunft-a-19b38316-2784-49f1-b7b6-6e0d42dfc96e#ref=rss)
+* [https://www.spiegel.de/auto/magnetschwebebahn-fuer-berlin-eine-loesung-auf-der-suche-nach-einem-problem](https://www.spiegel.de/auto/magnetschwebebahn-fuer-berlin-eine-loesung-auf-der-suche-nach-einem-problem-a-833d6bcb-70c9-4b72-a443-a4d769e37f95#ref=rss)
+### lage
 
-* [https://www.spiegel.de/wissenschaft/medizin/china-lungenentzuendungen-bei-kindern-who-fordert-informationen](https://www.spiegel.de/wissenschaft/medizin/china-lungenentzuendungen-bei-kindern-who-fordert-informationen-a-6e989c2d-1832-4b02-aeba-d8dc72c41e92#ref=rss)
-* [https://www.spiegel.de/sport/fussball/juergen-klinsmann-fordert-freilassung-von-nationalspieler-son-jun-ho-aus-chinesischer-haft](https://www.spiegel.de/sport/fussball/juergen-klinsmann-fordert-freilassung-von-nationalspieler-son-jun-ho-aus-chinesischer-haft-a-9ee0a1ad-1edd-4ce6-8d94-4addcae04d7b#ref=rss)
-### regierung
+* [https://www.spiegel.de/wirtschaft/haushaltschaos-so-sehr-zittern-deutschlands-unternehmen-jetzt-um-ihre-zukunft](https://www.spiegel.de/wirtschaft/haushaltschaos-so-sehr-zittern-deutschlands-unternehmen-jetzt-um-ihre-zukunft-a-19b38316-2784-49f1-b7b6-6e0d42dfc96e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-geert-wilders-niederlande-lungenkrankheit-in-china-bka-zahlen-zur-gewalt](https://www.spiegel.de/politik/deutschland/news-des-tages-geert-wilders-niederlande-lungenkrankheit-in-china-bka-zahlen-zur-gewalt-a-734a161b-b13c-4b23-bdd9-d6bf940c30d0#ref=rss)
+* [https://www.spiegel.de/gesundheit/erkaeltungsmonitor-wie-viele-menschen-leiden-gerade-an-corona-grippe-rsv-co](https://www.spiegel.de/gesundheit/erkaeltungsmonitor-wie-viele-menschen-leiden-gerade-an-corona-grippe-rsv-co-a-f018d4b8-0629-45a7-a6d3-05fdcd2ada54#ref=rss)
+### 2023
 
-* [https://www.spiegel.de/wissenschaft/medizin/china-lungenentzuendungen-bei-kindern-who-fordert-informationen](https://www.spiegel.de/wissenschaft/medizin/china-lungenentzuendungen-bei-kindern-who-fordert-informationen-a-6e989c2d-1832-4b02-aeba-d8dc72c41e92#ref=rss)
-* [https://www.spiegel.de/ausland/geert-wilders-in-den-niederlanden-gewaehlt-die-pressestimmen-der-monstersieg](https://www.spiegel.de/ausland/geert-wilders-in-den-niederlanden-gewaehlt-die-pressestimmen-der-monstersieg-a-2cc5ed56-a543-405a-805c-aaea33c6fa1b#ref=rss)
-* [https://www.spiegel.de/ausland/ungarn-ngos-prangern-victor-orbans-gesetzesentwurf-zur-unterdrueckung-der-opposition-an](https://www.spiegel.de/ausland/ungarn-ngos-prangern-victor-orbans-gesetzesentwurf-zur-unterdrueckung-der-opposition-an-a-892d0ae6-bde6-4a07-8a9f-850c2e2ad4b1#ref=rss)
-### nordkorea
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-so-gross-wird-der-nachtragshaushalt-2023](https://www.spiegel.de/politik/deutschland/christian-lindner-so-gross-wird-der-nachtragshaushalt-2023-a-9b34cf92-e718-4641-b3f6-85bf573d7fc9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-kuendigt-nachtragshaushalt-fuer-2023-an](https://www.spiegel.de/politik/deutschland/christian-lindner-kuendigt-nachtragshaushalt-fuer-2023-an-a-d1b26d7b-ceea-4dee-b60a-eb9988bbd4f0#ref=rss)
+### wissen
 
-* [https://www.spiegel.de/ausland/nordkorea-setzt-militaerabkommen-mit-suedkorea-aus-und-verlegt-waffen-an-die-grenze](https://www.spiegel.de/ausland/nordkorea-setzt-militaerabkommen-mit-suedkorea-aus-und-verlegt-waffen-an-die-grenze-a-dbc356b6-a7d6-435b-bcbf-42eea0c05180#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuerger-durchsuchungen-in-acht-bundeslaendern](https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuerger-durchsuchungen-in-acht-bundeslaendern-a-12548a86-8373-4eda-bd56-ac3238c206d0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/warnstreiks-in-gesundheitswesen-und-polizei-wo-kommende-woche-gestreikt-werden-soll](https://www.spiegel.de/wirtschaft/warnstreiks-in-gesundheitswesen-und-polizei-wo-kommende-woche-gestreikt-werden-soll-a-b51623d3-4347-44e9-bc4b-6e9847da3a20#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/wirtschaft/salzgitter-atommuelllager-schacht-konrad-wird-wohl-deutlich-teurer](https://www.spiegel.de/wirtschaft/salzgitter-atommuelllager-schacht-konrad-wird-wohl-deutlich-teurer-a-435c7d82-6ef0-4dbf-949c-8117103e66b1#ref=rss)
-* [https://www.spiegel.de/panorama/suederholz-brand-in-reihenhaus-bellender-hund-rettet-schlafende-bewohner](https://www.spiegel.de/panorama/suederholz-brand-in-reihenhaus-bellender-hund-rettet-schlafende-bewohner-a-a6a166c1-ebcc-40cc-b392-152be84e4f36#ref=rss)
-* [https://www.spiegel.de/ausland/israel-hamas-geiseln-kommen-offenbar-fruehstens-freitag-frei](https://www.spiegel.de/ausland/israel-hamas-geiseln-kommen-offenbar-fruehstens-freitag-frei-a-f3d0a871-2951-44b7-bfa1-6cb709768f50#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/libanon-israel-meldet-schlag-gegen-die-hisbollah](https://www.spiegel.de/ausland/libanon-israel-meldet-schlag-gegen-die-hisbollah-a-7e39e063-afca-4f65-8c5e-edc681a44a61#ref=rss)
-* [https://www.spiegel.de/ausland/israel-hamas-geiseln-kommen-offenbar-fruehstens-freitag-frei](https://www.spiegel.de/ausland/israel-hamas-geiseln-kommen-offenbar-fruehstens-freitag-frei-a-f3d0a871-2951-44b7-bfa1-6cb709768f50#ref=rss)
-### getötet
-
-* [https://www.spiegel.de/ausland/libanon-israel-meldet-schlag-gegen-die-hisbollah](https://www.spiegel.de/ausland/libanon-israel-meldet-schlag-gegen-die-hisbollah-a-7e39e063-afca-4f65-8c5e-edc681a44a61#ref=rss)
-* [https://www.spiegel.de/wissenschaft/vogelgrippe-in-deutschland-und-daenemark-ausbruch-auf-gefluegelhoefen-zehntausende-tiere-getoetet](https://www.spiegel.de/wissenschaft/vogelgrippe-in-deutschland-und-daenemark-ausbruch-auf-gefluegelhoefen-zehntausende-tiere-getoetet-a-6873bdd7-6705-49c6-98e6-3eb8f9465b34#ref=rss)
-### echt
-
-* [https://www.spiegel.de/kultur/tv/echt-unsere-jugend-ard-doku-von-kim-frank-ueber-teeniestars](https://www.spiegel.de/kultur/tv/echt-unsere-jugend-ard-doku-von-kim-frank-ueber-teeniestars-a-917fb143-842e-4139-b5db-565776ab6e48#ref=rss)
-### arddoku
-
-* [https://www.spiegel.de/kultur/tv/echt-unsere-jugend-ard-doku-von-kim-frank-ueber-teeniestars](https://www.spiegel.de/kultur/tv/echt-unsere-jugend-ard-doku-von-kim-frank-ueber-teeniestars-a-917fb143-842e-4139-b5db-565776ab6e48#ref=rss)
-### kim
-
-* [https://www.spiegel.de/kultur/tv/echt-unsere-jugend-ard-doku-von-kim-frank-ueber-teeniestars](https://www.spiegel.de/kultur/tv/echt-unsere-jugend-ard-doku-von-kim-frank-ueber-teeniestars-a-917fb143-842e-4139-b5db-565776ab6e48#ref=rss)
-### spielten
-
-* [https://www.spiegel.de/kultur/tv/echt-unsere-jugend-ard-doku-von-kim-frank-ueber-teeniestars](https://www.spiegel.de/kultur/tv/echt-unsere-jugend-ard-doku-von-kim-frank-ueber-teeniestars-a-917fb143-842e-4139-b5db-565776ab6e48#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-franz-wagner-fuehrt-seine-orlando-magic-zum-sieg-ueber-die-denver-nuggets](https://www.spiegel.de/sport/basketball/nba-franz-wagner-fuehrt-seine-orlando-magic-zum-sieg-ueber-die-denver-nuggets-a-6dabc4ba-5f78-446b-825a-6f6017b26470#ref=rss)
-### dezember
-
-* [https://www.spiegel.de/netzwelt/web/vodafone-verschenkt-im-dezember-500-gigabyte-datenvolumen](https://www.spiegel.de/netzwelt/web/vodafone-verschenkt-im-dezember-500-gigabyte-datenvolumen-a-b446bc26-fa61-4e00-82e7-179c531ea70d#ref=rss)
-### datenvolumen
-
-* [https://www.spiegel.de/netzwelt/web/vodafone-verschenkt-im-dezember-500-gigabyte-datenvolumen](https://www.spiegel.de/netzwelt/web/vodafone-verschenkt-im-dezember-500-gigabyte-datenvolumen-a-b446bc26-fa61-4e00-82e7-179c531ea70d#ref=rss)
-### meiner
-
-* [https://www.spiegel.de/familie/eltern-und-ihre-geschaerften-sinne-dank-meiner-kinder-habe-ich-superkraefte](https://www.spiegel.de/familie/eltern-und-ihre-geschaerften-sinne-dank-meiner-kinder-habe-ich-superkraefte-a-cc3cabe1-1d6a-478d-b2ef-314b37f7524f#ref=rss)
-* [https://www.spiegel.de/panorama/bibliotheken-gehe-ich-pleite-wenn-ich-ein-buch-meiner-vorfahren-zurueckbringe](https://www.spiegel.de/panorama/bibliotheken-gehe-ich-pleite-wenn-ich-ein-buch-meiner-vorfahren-zurueckbringe-a-2f45284b-daff-4067-a96f-08ef01a50cf9#ref=rss)
-### andere
-
-* [https://www.spiegel.de/familie/eltern-und-ihre-geschaerften-sinne-dank-meiner-kinder-habe-ich-superkraefte](https://www.spiegel.de/familie/eltern-und-ihre-geschaerften-sinne-dank-meiner-kinder-habe-ich-superkraefte-a-cc3cabe1-1d6a-478d-b2ef-314b37f7524f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/warnstreiks-in-gesundheitswesen-und-polizei-wo-kommende-woche-gestreikt-werden-soll](https://www.spiegel.de/wirtschaft/warnstreiks-in-gesundheitswesen-und-polizei-wo-kommende-woche-gestreikt-werden-soll-a-b51623d3-4347-44e9-bc4b-6e9847da3a20#ref=rss)
-### pleite
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/crif-analyse-zur-gastronomie-immer-mehr-restaurants-und-bars-von-pleite-bedroht](https://www.spiegel.de/wirtschaft/unternehmen/crif-analyse-zur-gastronomie-immer-mehr-restaurants-und-bars-von-pleite-bedroht-a-5300d97e-3937-4c5f-b4c4-f93577e6978b#ref=rss)
-* [https://www.spiegel.de/panorama/bibliotheken-gehe-ich-pleite-wenn-ich-ein-buch-meiner-vorfahren-zurueckbringe](https://www.spiegel.de/panorama/bibliotheken-gehe-ich-pleite-wenn-ich-ein-buch-meiner-vorfahren-zurueckbringe-a-2f45284b-daff-4067-a96f-08ef01a50cf9#ref=rss)
-### laut
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/crif-analyse-zur-gastronomie-immer-mehr-restaurants-und-bars-von-pleite-bedroht](https://www.spiegel.de/wirtschaft/unternehmen/crif-analyse-zur-gastronomie-immer-mehr-restaurants-und-bars-von-pleite-bedroht-a-5300d97e-3937-4c5f-b4c4-f93577e6978b#ref=rss)
-* [https://www.spiegel.de/ausland/libanon-israel-meldet-schlag-gegen-die-hisbollah](https://www.spiegel.de/ausland/libanon-israel-meldet-schlag-gegen-die-hisbollah-a-7e39e063-afca-4f65-8c5e-edc681a44a61#ref=rss)
-### fdp
-
-* [https://www.spiegel.de/politik/deutschland/fdp-39-fdp-politikerinnen-und-politiker-plaedieren-fuer-den-verbleib-in-der-ampel](https://www.spiegel.de/politik/deutschland/fdp-39-fdp-politikerinnen-und-politiker-plaedieren-fuer-den-verbleib-in-der-ampel-a-99020487-6d97-4229-bf6a-9a74aeea599d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/haushaltskrise-spd-politiker-machen-druck-auf-lindner](https://www.spiegel.de/politik/deutschland/haushaltskrise-spd-politiker-machen-druck-auf-lindner-a-1fcc7350-d1c7-417d-92fa-0cc94927415a#ref=rss)
-### 39
-
-* [https://www.spiegel.de/politik/deutschland/fdp-39-fdp-politikerinnen-und-politiker-plaedieren-fuer-den-verbleib-in-der-ampel](https://www.spiegel.de/politik/deutschland/fdp-39-fdp-politikerinnen-und-politiker-plaedieren-fuer-den-verbleib-in-der-ampel-a-99020487-6d97-4229-bf6a-9a74aeea599d#ref=rss)
-### plädieren
-
-* [https://www.spiegel.de/politik/deutschland/fdp-39-fdp-politikerinnen-und-politiker-plaedieren-fuer-den-verbleib-in-der-ampel](https://www.spiegel.de/politik/deutschland/fdp-39-fdp-politikerinnen-und-politiker-plaedieren-fuer-den-verbleib-in-der-ampel-a-99020487-6d97-4229-bf6a-9a74aeea599d#ref=rss)
-### verbleib
-
-* [https://www.spiegel.de/politik/deutschland/fdp-39-fdp-politikerinnen-und-politiker-plaedieren-fuer-den-verbleib-in-der-ampel](https://www.spiegel.de/politik/deutschland/fdp-39-fdp-politikerinnen-und-politiker-plaedieren-fuer-den-verbleib-in-der-ampel-a-99020487-6d97-4229-bf6a-9a74aeea599d#ref=rss)
-### ampel
-
-* [https://www.spiegel.de/politik/deutschland/fdp-39-fdp-politikerinnen-und-politiker-plaedieren-fuer-den-verbleib-in-der-ampel](https://www.spiegel.de/politik/deutschland/fdp-39-fdp-politikerinnen-und-politiker-plaedieren-fuer-den-verbleib-in-der-ampel-a-99020487-6d97-4229-bf6a-9a74aeea599d#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/fdp-39-fdp-politikerinnen-und-politiker-plaedieren-fuer-den-verbleib-in-der-ampel](https://www.spiegel.de/politik/deutschland/fdp-39-fdp-politikerinnen-und-politiker-plaedieren-fuer-den-verbleib-in-der-ampel-a-99020487-6d97-4229-bf6a-9a74aeea599d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/haushaltskrise-spd-politiker-machen-druck-auf-lindner](https://www.spiegel.de/politik/deutschland/haushaltskrise-spd-politiker-machen-druck-auf-lindner-a-1fcc7350-d1c7-417d-92fa-0cc94927415a#ref=rss)
-### grünen
-
-* [https://www.spiegel.de/politik/deutschland/fdp-39-fdp-politikerinnen-und-politiker-plaedieren-fuer-den-verbleib-in-der-ampel](https://www.spiegel.de/politik/deutschland/fdp-39-fdp-politikerinnen-und-politiker-plaedieren-fuer-den-verbleib-in-der-ampel-a-99020487-6d97-4229-bf6a-9a74aeea599d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ricarda-lang-haelt-eigene-partei-nicht-ganz-unschuldig-an-vorurteilen](https://www.spiegel.de/politik/deutschland/ricarda-lang-haelt-eigene-partei-nicht-ganz-unschuldig-an-vorurteilen-a-b4de1c74-2d3c-45b7-8fbd-ea08d7c418fc#ref=rss)
-### lang
-
-* [https://www.spiegel.de/politik/deutschland/ricarda-lang-haelt-eigene-partei-nicht-ganz-unschuldig-an-vorurteilen](https://www.spiegel.de/politik/deutschland/ricarda-lang-haelt-eigene-partei-nicht-ganz-unschuldig-an-vorurteilen-a-b4de1c74-2d3c-45b7-8fbd-ea08d7c418fc#ref=rss)
-### toyota
-
-* [https://www.spiegel.de/auto/toyota-hilux-britische-werbeaufsicht-verbietet-spot-fuer-gelaendewagen](https://www.spiegel.de/auto/toyota-hilux-britische-werbeaufsicht-verbietet-spot-fuer-gelaendewagen-a-3542a391-9da9-4090-9aab-a157837bb327#ref=rss)
-### verbietet
-
-* [https://www.spiegel.de/auto/toyota-hilux-britische-werbeaufsicht-verbietet-spot-fuer-gelaendewagen](https://www.spiegel.de/auto/toyota-hilux-britische-werbeaufsicht-verbietet-spot-fuer-gelaendewagen-a-3542a391-9da9-4090-9aab-a157837bb327#ref=rss)
-* [https://www.spiegel.de/ausland/ungarn-ngos-prangern-victor-orbans-gesetzesentwurf-zur-unterdrueckung-der-opposition-an](https://www.spiegel.de/ausland/ungarn-ngos-prangern-victor-orbans-gesetzesentwurf-zur-unterdrueckung-der-opposition-an-a-892d0ae6-bde6-4a07-8a9f-850c2e2ad4b1#ref=rss)
-### spot
-
-* [https://www.spiegel.de/auto/toyota-hilux-britische-werbeaufsicht-verbietet-spot-fuer-gelaendewagen](https://www.spiegel.de/auto/toyota-hilux-britische-werbeaufsicht-verbietet-spot-fuer-gelaendewagen-a-3542a391-9da9-4090-9aab-a157837bb327#ref=rss)
-### niederlanden
-
-* [https://www.spiegel.de/ausland/wahlsieg-von-geert-wilders-in-den-niederlanden-der-islamfeind-macht-auf-freundlich](https://www.spiegel.de/ausland/wahlsieg-von-geert-wilders-in-den-niederlanden-der-islamfeind-macht-auf-freundlich-a-9fe30fe6-fa00-4c14-b9f8-e6af16e5e931#ref=rss)
-* [https://www.spiegel.de/ausland/geert-wilders-in-den-niederlanden-gewaehlt-die-pressestimmen-der-monstersieg](https://www.spiegel.de/ausland/geert-wilders-in-den-niederlanden-gewaehlt-die-pressestimmen-der-monstersieg-a-2cc5ed56-a543-405a-805c-aaea33c6fa1b#ref=rss)
-### parteien
-
-* [https://www.spiegel.de/ausland/wahlsieg-von-geert-wilders-in-den-niederlanden-der-islamfeind-macht-auf-freundlich](https://www.spiegel.de/ausland/wahlsieg-von-geert-wilders-in-den-niederlanden-der-islamfeind-macht-auf-freundlich-a-9fe30fe6-fa00-4c14-b9f8-e6af16e5e931#ref=rss)
-* [https://www.spiegel.de/ausland/ungarn-ngos-prangern-victor-orbans-gesetzesentwurf-zur-unterdrueckung-der-opposition-an](https://www.spiegel.de/ausland/ungarn-ngos-prangern-victor-orbans-gesetzesentwurf-zur-unterdrueckung-der-opposition-an-a-892d0ae6-bde6-4a07-8a9f-850c2e2ad4b1#ref=rss)
-### zug
-
-* [https://www.spiegel.de/panorama/leute/italien-minister-laesst-zug-anhalten-um-zu-einem-termin-zu-kommen](https://www.spiegel.de/panorama/leute/italien-minister-laesst-zug-anhalten-um-zu-einem-termin-zu-kommen-a-b8bed6e2-96a3-407a-ac40-851ea0e6fb72#ref=rss)
-### kommen
-
-* [https://www.spiegel.de/panorama/leute/italien-minister-laesst-zug-anhalten-um-zu-einem-termin-zu-kommen](https://www.spiegel.de/panorama/leute/italien-minister-laesst-zug-anhalten-um-zu-einem-termin-zu-kommen-a-b8bed6e2-96a3-407a-ac40-851ea0e6fb72#ref=rss)
-* [https://www.spiegel.de/ausland/israel-hamas-geiseln-kommen-offenbar-fruehstens-freitag-frei](https://www.spiegel.de/ausland/israel-hamas-geiseln-kommen-offenbar-fruehstens-freitag-frei-a-f3d0a871-2951-44b7-bfa1-6cb709768f50#ref=rss)
-### san
-
-* [https://www.spiegel.de/sport/basketball/san-antonio-spurs-trainer-popovich-unterbricht-spiel-und-tadelt-die-eigenen-fans](https://www.spiegel.de/sport/basketball/san-antonio-spurs-trainer-popovich-unterbricht-spiel-und-tadelt-die-eigenen-fans-a-44d3a63f-54dd-4066-b04a-0e613853784f#ref=rss)
-### antonio
-
-* [https://www.spiegel.de/sport/basketball/san-antonio-spurs-trainer-popovich-unterbricht-spiel-und-tadelt-die-eigenen-fans](https://www.spiegel.de/sport/basketball/san-antonio-spurs-trainer-popovich-unterbricht-spiel-und-tadelt-die-eigenen-fans-a-44d3a63f-54dd-4066-b04a-0e613853784f#ref=rss)
-### spurs
-
-* [https://www.spiegel.de/sport/basketball/san-antonio-spurs-trainer-popovich-unterbricht-spiel-und-tadelt-die-eigenen-fans](https://www.spiegel.de/sport/basketball/san-antonio-spurs-trainer-popovich-unterbricht-spiel-und-tadelt-die-eigenen-fans-a-44d3a63f-54dd-4066-b04a-0e613853784f#ref=rss)
-### spiel
-
-* [https://www.spiegel.de/sport/basketball/san-antonio-spurs-trainer-popovich-unterbricht-spiel-und-tadelt-die-eigenen-fans](https://www.spiegel.de/sport/basketball/san-antonio-spurs-trainer-popovich-unterbricht-spiel-und-tadelt-die-eigenen-fans-a-44d3a63f-54dd-4066-b04a-0e613853784f#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-franz-wagner-fuehrt-seine-orlando-magic-zum-sieg-ueber-die-denver-nuggets](https://www.spiegel.de/sport/basketball/nba-franz-wagner-fuehrt-seine-orlando-magic-zum-sieg-ueber-die-denver-nuggets-a-6dabc4ba-5f78-446b-825a-6f6017b26470#ref=rss)
-### später
-
-* [https://www.spiegel.de/sport/basketball/san-antonio-spurs-trainer-popovich-unterbricht-spiel-und-tadelt-die-eigenen-fans](https://www.spiegel.de/sport/basketball/san-antonio-spurs-trainer-popovich-unterbricht-spiel-und-tadelt-die-eigenen-fans-a-44d3a63f-54dd-4066-b04a-0e613853784f#ref=rss)
-* [https://www.spiegel.de/ausland/israel-hamas-geiseln-kommen-offenbar-fruehstens-freitag-frei](https://www.spiegel.de/ausland/israel-hamas-geiseln-kommen-offenbar-fruehstens-freitag-frei-a-f3d0a871-2951-44b7-bfa1-6cb709768f50#ref=rss)
-### kindern
-
-* [https://www.spiegel.de/wissenschaft/medizin/china-lungenentzuendungen-bei-kindern-who-fordert-informationen](https://www.spiegel.de/wissenschaft/medizin/china-lungenentzuendungen-bei-kindern-who-fordert-informationen-a-6e989c2d-1832-4b02-aeba-d8dc72c41e92#ref=rss)
-### who
-
-* [https://www.spiegel.de/wissenschaft/medizin/china-lungenentzuendungen-bei-kindern-who-fordert-informationen](https://www.spiegel.de/wissenschaft/medizin/china-lungenentzuendungen-bei-kindern-who-fordert-informationen-a-6e989c2d-1832-4b02-aeba-d8dc72c41e92#ref=rss)
-### militärabkommen
-
-* [https://www.spiegel.de/ausland/nordkorea-setzt-militaerabkommen-mit-suedkorea-aus-und-verlegt-waffen-an-die-grenze](https://www.spiegel.de/ausland/nordkorea-setzt-militaerabkommen-mit-suedkorea-aus-und-verlegt-waffen-an-die-grenze-a-dbc356b6-a7d6-435b-bcbf-42eea0c05180#ref=rss)
-### südkorea
-
-* [https://www.spiegel.de/ausland/nordkorea-setzt-militaerabkommen-mit-suedkorea-aus-und-verlegt-waffen-an-die-grenze](https://www.spiegel.de/ausland/nordkorea-setzt-militaerabkommen-mit-suedkorea-aus-und-verlegt-waffen-an-die-grenze-a-dbc356b6-a7d6-435b-bcbf-42eea0c05180#ref=rss)
-### waffen
-
-* [https://www.spiegel.de/ausland/nordkorea-setzt-militaerabkommen-mit-suedkorea-aus-und-verlegt-waffen-an-die-grenze](https://www.spiegel.de/ausland/nordkorea-setzt-militaerabkommen-mit-suedkorea-aus-und-verlegt-waffen-an-die-grenze-a-dbc356b6-a7d6-435b-bcbf-42eea0c05180#ref=rss)
-### grenze
-
-* [https://www.spiegel.de/ausland/nordkorea-setzt-militaerabkommen-mit-suedkorea-aus-und-verlegt-waffen-an-die-grenze](https://www.spiegel.de/ausland/nordkorea-setzt-militaerabkommen-mit-suedkorea-aus-und-verlegt-waffen-an-die-grenze-a-dbc356b6-a7d6-435b-bcbf-42eea0c05180#ref=rss)
-### buch
-
-* [https://www.spiegel.de/panorama/bibliotheken-gehe-ich-pleite-wenn-ich-ein-buch-meiner-vorfahren-zurueckbringe](https://www.spiegel.de/panorama/bibliotheken-gehe-ich-pleite-wenn-ich-ein-buch-meiner-vorfahren-zurueckbringe-a-2f45284b-daff-4067-a96f-08ef01a50cf9#ref=rss)
-### hundert
-
-* [https://www.spiegel.de/panorama/bibliotheken-gehe-ich-pleite-wenn-ich-ein-buch-meiner-vorfahren-zurueckbringe](https://www.spiegel.de/panorama/bibliotheken-gehe-ich-pleite-wenn-ich-ein-buch-meiner-vorfahren-zurueckbringe-a-2f45284b-daff-4067-a96f-08ef01a50cf9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuerger-durchsuchungen-in-acht-bundeslaendern](https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuerger-durchsuchungen-in-acht-bundeslaendern-a-12548a86-8373-4eda-bd56-ac3238c206d0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-quiz-gegen-wen-gewann-frankreich-14-0](https://www.spiegel.de/sport/fussball/fussball-quiz-gegen-wen-gewann-frankreich-14-0-a-dbdc1fca-efd7-404f-b578-d9e711464863#ref=rss)
+* [https://www.spiegel.de/geschichte/antisemitismus-in-deutschland-was-sie-ueber-die-wurzeln-des-judenhasses-wissen-sollten](https://www.spiegel.de/geschichte/antisemitismus-in-deutschland-was-sie-ueber-die-wurzeln-des-judenhasses-wissen-sollten-a-9e6416a5-14d5-4055-9197-395688ba053e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-laedt-kollegen-aus-den-laendern-zum-krisengipfel](https://www.spiegel.de/politik/deutschland/robert-habeck-laedt-kollegen-aus-den-laendern-zum-krisengipfel-a-a11c0361-5157-4133-b760-4bdfde5de6d4#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/panorama/bibliotheken-gehe-ich-pleite-wenn-ich-ein-buch-meiner-vorfahren-zurueckbringe](https://www.spiegel.de/panorama/bibliotheken-gehe-ich-pleite-wenn-ich-ein-buch-meiner-vorfahren-zurueckbringe-a-2f45284b-daff-4067-a96f-08ef01a50cf9#ref=rss)
-* [https://www.spiegel.de/wissenschaft/vogelgrippe-in-deutschland-und-daenemark-ausbruch-auf-gefluegelhoefen-zehntausende-tiere-getoetet](https://www.spiegel.de/wissenschaft/vogelgrippe-in-deutschland-und-daenemark-ausbruch-auf-gefluegelhoefen-zehntausende-tiere-getoetet-a-6873bdd7-6705-49c6-98e6-3eb8f9465b34#ref=rss)
-### bahn
+* [https://www.spiegel.de/wirtschaft/soziales/deutschland-im-krisenmodus-zeit-fuer-ein-frauenwirtschaftswunder-gastbeitrag](https://www.spiegel.de/wirtschaft/soziales/deutschland-im-krisenmodus-zeit-fuer-ein-frauenwirtschaftswunder-gastbeitrag-a-4e4cb626-68f5-4eb1-9591-f95ca7818804#ref=rss)
+* [https://www.spiegel.de/geschichte/antisemitismus-in-deutschland-was-sie-ueber-die-wurzeln-des-judenhasses-wissen-sollten](https://www.spiegel.de/geschichte/antisemitismus-in-deutschland-was-sie-ueber-die-wurzeln-des-judenhasses-wissen-sollten-a-9e6416a5-14d5-4055-9197-395688ba053e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/oekonom-zur-haushaltskrise-etwa-50-prozent-erbschaftsteuer-waeren-optimal](https://www.spiegel.de/wirtschaft/oekonom-zur-haushaltskrise-etwa-50-prozent-erbschaftsteuer-waeren-optimal-a-8c6fc3f0-df7d-43d4-a36e-2230a4d40d62#ref=rss)
+### steckt
 
-* [https://www.spiegel.de/politik/deutschland/haushaltskrise-spd-politiker-machen-druck-auf-lindner](https://www.spiegel.de/politik/deutschland/haushaltskrise-spd-politiker-machen-druck-auf-lindner-a-1fcc7350-d1c7-417d-92fa-0cc94927415a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/warnstreiks-in-gesundheitswesen-und-polizei-wo-kommende-woche-gestreikt-werden-soll](https://www.spiegel.de/wirtschaft/warnstreiks-in-gesundheitswesen-und-polizei-wo-kommende-woche-gestreikt-werden-soll-a-b51623d3-4347-44e9-bc4b-6e9847da3a20#ref=rss)
-### halbmond
+* [https://www.spiegel.de/geschichte/napoleon-warum-steckt-seine-hand-in-der-weste-die-antwort-ist-so-profan-wie-bizarr](https://www.spiegel.de/geschichte/napoleon-warum-steckt-seine-hand-in-der-weste-die-antwort-ist-so-profan-wie-bizarr-a-a8f6ed43-cc5d-4cae-ac73-a999c2e8cb3a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/oekonom-zur-haushaltskrise-etwa-50-prozent-erbschaftsteuer-waeren-optimal](https://www.spiegel.de/wirtschaft/oekonom-zur-haushaltskrise-etwa-50-prozent-erbschaftsteuer-waeren-optimal-a-8c6fc3f0-df7d-43d4-a36e-2230a4d40d62#ref=rss)
+### hand
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-roter-halbmond-evakuiert-dutzende-menschen-aus-schifa-krankenhaus](https://www.spiegel.de/ausland/israel-gaza-krieg-roter-halbmond-evakuiert-dutzende-menschen-aus-schifa-krankenhaus-a-c3896c4b-97dc-4b52-a1a2-6b3f03546791#ref=rss)
-### schifakrankenhaus
+* [https://www.spiegel.de/geschichte/napoleon-warum-steckt-seine-hand-in-der-weste-die-antwort-ist-so-profan-wie-bizarr](https://www.spiegel.de/geschichte/napoleon-warum-steckt-seine-hand-in-der-weste-die-antwort-ist-so-profan-wie-bizarr-a-a8f6ed43-cc5d-4cae-ac73-a999c2e8cb3a#ref=rss)
+### weste
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-roter-halbmond-evakuiert-dutzende-menschen-aus-schifa-krankenhaus](https://www.spiegel.de/ausland/israel-gaza-krieg-roter-halbmond-evakuiert-dutzende-menschen-aus-schifa-krankenhaus-a-c3896c4b-97dc-4b52-a1a2-6b3f03546791#ref=rss)
-### reichsbürger
+* [https://www.spiegel.de/geschichte/napoleon-warum-steckt-seine-hand-in-der-weste-die-antwort-ist-so-profan-wie-bizarr](https://www.spiegel.de/geschichte/napoleon-warum-steckt-seine-hand-in-der-weste-die-antwort-ist-so-profan-wie-bizarr-a-a8f6ed43-cc5d-4cae-ac73-a999c2e8cb3a#ref=rss)
+### antwort
 
-* [https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuerger-durchsuchungen-in-acht-bundeslaendern](https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuerger-durchsuchungen-in-acht-bundeslaendern-a-12548a86-8373-4eda-bd56-ac3238c206d0#ref=rss)
-### acht
+* [https://www.spiegel.de/geschichte/napoleon-warum-steckt-seine-hand-in-der-weste-die-antwort-ist-so-profan-wie-bizarr](https://www.spiegel.de/geschichte/napoleon-warum-steckt-seine-hand-in-der-weste-die-antwort-ist-so-profan-wie-bizarr-a-a8f6ed43-cc5d-4cae-ac73-a999c2e8cb3a#ref=rss)
+### profan
 
-* [https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuerger-durchsuchungen-in-acht-bundeslaendern](https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuerger-durchsuchungen-in-acht-bundeslaendern-a-12548a86-8373-4eda-bd56-ac3238c206d0#ref=rss)
-### bundesländern
+* [https://www.spiegel.de/geschichte/napoleon-warum-steckt-seine-hand-in-der-weste-die-antwort-ist-so-profan-wie-bizarr](https://www.spiegel.de/geschichte/napoleon-warum-steckt-seine-hand-in-der-weste-die-antwort-ist-so-profan-wie-bizarr-a-a8f6ed43-cc5d-4cae-ac73-a999c2e8cb3a#ref=rss)
+### bizarr
 
-* [https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuerger-durchsuchungen-in-acht-bundeslaendern](https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuerger-durchsuchungen-in-acht-bundeslaendern-a-12548a86-8373-4eda-bd56-ac3238c206d0#ref=rss)
-### jürgen
+* [https://www.spiegel.de/geschichte/napoleon-warum-steckt-seine-hand-in-der-weste-die-antwort-ist-so-profan-wie-bizarr](https://www.spiegel.de/geschichte/napoleon-warum-steckt-seine-hand-in-der-weste-die-antwort-ist-so-profan-wie-bizarr-a-a8f6ed43-cc5d-4cae-ac73-a999c2e8cb3a#ref=rss)
+### donald
 
-* [https://www.spiegel.de/sport/fussball/juergen-klinsmann-fordert-freilassung-von-nationalspieler-son-jun-ho-aus-chinesischer-haft](https://www.spiegel.de/sport/fussball/juergen-klinsmann-fordert-freilassung-von-nationalspieler-son-jun-ho-aus-chinesischer-haft-a-9ee0a1ad-1edd-4ce6-8d94-4addcae04d7b#ref=rss)
-### klinsmann
+* [https://www.spiegel.de/ausland/donald-trump-telefoniert-mit-designiertem-argentinischen-praesidenten-javier-milei](https://www.spiegel.de/ausland/donald-trump-telefoniert-mit-designiertem-argentinischen-praesidenten-javier-milei-a-6447f243-c541-4e08-a8fe-bddb046ab02a#ref=rss)
+### trump
 
-* [https://www.spiegel.de/sport/fussball/juergen-klinsmann-fordert-freilassung-von-nationalspieler-son-jun-ho-aus-chinesischer-haft](https://www.spiegel.de/sport/fussball/juergen-klinsmann-fordert-freilassung-von-nationalspieler-son-jun-ho-aus-chinesischer-haft-a-9ee0a1ad-1edd-4ce6-8d94-4addcae04d7b#ref=rss)
-### son
+* [https://www.spiegel.de/ausland/donald-trump-telefoniert-mit-designiertem-argentinischen-praesidenten-javier-milei](https://www.spiegel.de/ausland/donald-trump-telefoniert-mit-designiertem-argentinischen-praesidenten-javier-milei-a-6447f243-c541-4e08-a8fe-bddb046ab02a#ref=rss)
+### javier
 
-* [https://www.spiegel.de/sport/fussball/juergen-klinsmann-fordert-freilassung-von-nationalspieler-son-jun-ho-aus-chinesischer-haft](https://www.spiegel.de/sport/fussball/juergen-klinsmann-fordert-freilassung-von-nationalspieler-son-jun-ho-aus-chinesischer-haft-a-9ee0a1ad-1edd-4ce6-8d94-4addcae04d7b#ref=rss)
-### junho
+* [https://www.spiegel.de/ausland/donald-trump-telefoniert-mit-designiertem-argentinischen-praesidenten-javier-milei](https://www.spiegel.de/ausland/donald-trump-telefoniert-mit-designiertem-argentinischen-praesidenten-javier-milei-a-6447f243-c541-4e08-a8fe-bddb046ab02a#ref=rss)
+### milei
 
-* [https://www.spiegel.de/sport/fussball/juergen-klinsmann-fordert-freilassung-von-nationalspieler-son-jun-ho-aus-chinesischer-haft](https://www.spiegel.de/sport/fussball/juergen-klinsmann-fordert-freilassung-von-nationalspieler-son-jun-ho-aus-chinesischer-haft-a-9ee0a1ad-1edd-4ce6-8d94-4addcae04d7b#ref=rss)
-### unrecht
+* [https://www.spiegel.de/ausland/donald-trump-telefoniert-mit-designiertem-argentinischen-praesidenten-javier-milei](https://www.spiegel.de/ausland/donald-trump-telefoniert-mit-designiertem-argentinischen-praesidenten-javier-milei-a-6447f243-c541-4e08-a8fe-bddb046ab02a#ref=rss)
+### kanzler
 
-* [https://www.spiegel.de/sport/fussball/juergen-klinsmann-fordert-freilassung-von-nationalspieler-son-jun-ho-aus-chinesischer-haft](https://www.spiegel.de/sport/fussball/juergen-klinsmann-fordert-freilassung-von-nationalspieler-son-jun-ho-aus-chinesischer-haft-a-9ee0a1ad-1edd-4ce6-8d94-4addcae04d7b#ref=rss)
-* [https://www.spiegel.de/start/ernaehrungstherapeut-werden-marvin-meyer-erzaehlt-von-seinem-berufseinstieg-als-diaetassistent](https://www.spiegel.de/start/ernaehrungstherapeut-werden-marvin-meyer-erzaehlt-von-seinem-berufseinstieg-als-diaetassistent-a-77758b92-a93a-4cb3-9b92-f2526637bbb6#ref=rss)
-### schacht
+* [https://www.spiegel.de/politik/deutschland/nachkriegsordnung-in-nahost-berlin-sieht-wichtige-rolle-fuer-autonomiebehoerde-in-gaza](https://www.spiegel.de/politik/deutschland/nachkriegsordnung-in-nahost-berlin-sieht-wichtige-rolle-fuer-autonomiebehoerde-in-gaza-a-49f04ad0-6622-4d58-aeb2-6618db9c2e57#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frankreich-emmanuel-macron-will-friedrich-merz-empfangen](https://www.spiegel.de/politik/deutschland/frankreich-emmanuel-macron-will-friedrich-merz-empfangen-a-f9d7ff52-781d-41a9-bae2-951294858541#ref=rss)
+### allem
 
-* [https://www.spiegel.de/wirtschaft/salzgitter-atommuelllager-schacht-konrad-wird-wohl-deutlich-teurer](https://www.spiegel.de/wirtschaft/salzgitter-atommuelllager-schacht-konrad-wird-wohl-deutlich-teurer-a-435c7d82-6ef0-4dbf-949c-8117103e66b1#ref=rss)
-### konrad
+* [https://www.spiegel.de/politik/deutschland/nachkriegsordnung-in-nahost-berlin-sieht-wichtige-rolle-fuer-autonomiebehoerde-in-gaza](https://www.spiegel.de/politik/deutschland/nachkriegsordnung-in-nahost-berlin-sieht-wichtige-rolle-fuer-autonomiebehoerde-in-gaza-a-49f04ad0-6622-4d58-aeb2-6618db9c2e57#ref=rss)
+* [https://www.spiegel.de/start/generation-z-junge-beschaeftigte-fallen-immer-haeufiger-aus](https://www.spiegel.de/start/generation-z-junge-beschaeftigte-fallen-immer-haeufiger-aus-a-4a8dbc29-601f-4f22-a2b4-2266c98bbb8a#ref=rss)
+### drei
 
-* [https://www.spiegel.de/wirtschaft/salzgitter-atommuelllager-schacht-konrad-wird-wohl-deutlich-teurer](https://www.spiegel.de/wirtschaft/salzgitter-atommuelllager-schacht-konrad-wird-wohl-deutlich-teurer-a-435c7d82-6ef0-4dbf-949c-8117103e66b1#ref=rss)
-### deutlich
+* [https://www.spiegel.de/panorama/justiz/berlin-razzia-wegen-zwangsprostitution-und-zuhaelterei](https://www.spiegel.de/panorama/justiz/berlin-razzia-wegen-zwangsprostitution-und-zuhaelterei-a-663a7b11-68ff-4227-bc50-d660adfade63#ref=rss)
+* [https://www.spiegel.de/wirtschaft/haushaltschaos-so-sehr-zittern-deutschlands-unternehmen-jetzt-um-ihre-zukunft](https://www.spiegel.de/wirtschaft/haushaltschaos-so-sehr-zittern-deutschlands-unternehmen-jetzt-um-ihre-zukunft-a-19b38316-2784-49f1-b7b6-6e0d42dfc96e#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/wirtschaft/salzgitter-atommuelllager-schacht-konrad-wird-wohl-deutlich-teurer](https://www.spiegel.de/wirtschaft/salzgitter-atommuelllager-schacht-konrad-wird-wohl-deutlich-teurer-a-435c7d82-6ef0-4dbf-949c-8117103e66b1#ref=rss)
-### teurer
+* [https://www.spiegel.de/panorama/justiz/berlin-razzia-wegen-zwangsprostitution-und-zuhaelterei](https://www.spiegel.de/panorama/justiz/berlin-razzia-wegen-zwangsprostitution-und-zuhaelterei-a-663a7b11-68ff-4227-bc50-d660adfade63#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/deutschland-im-krisenmodus-zeit-fuer-ein-frauenwirtschaftswunder-gastbeitrag](https://www.spiegel.de/wirtschaft/soziales/deutschland-im-krisenmodus-zeit-fuer-ein-frauenwirtschaftswunder-gastbeitrag-a-4e4cb626-68f5-4eb1-9591-f95ca7818804#ref=rss)
+### wohnungen
 
-* [https://www.spiegel.de/wirtschaft/salzgitter-atommuelllager-schacht-konrad-wird-wohl-deutlich-teurer](https://www.spiegel.de/wirtschaft/salzgitter-atommuelllager-schacht-konrad-wird-wohl-deutlich-teurer-a-435c7d82-6ef0-4dbf-949c-8117103e66b1#ref=rss)
-### hund
+* [https://www.spiegel.de/panorama/justiz/berlin-razzia-wegen-zwangsprostitution-und-zuhaelterei](https://www.spiegel.de/panorama/justiz/berlin-razzia-wegen-zwangsprostitution-und-zuhaelterei-a-663a7b11-68ff-4227-bc50-d660adfade63#ref=rss)
+* [https://www.spiegel.de/wissenschaft/wildkatzen-derlei-jungtiere-haben-auch-schon-wohnungen-verwuestet](https://www.spiegel.de/wissenschaft/wildkatzen-derlei-jungtiere-haben-auch-schon-wohnungen-verwuestet-a-8ae6c15a-2aa5-4754-9ebe-78d907cdcebb#ref=rss)
+### niederlande
 
-* [https://www.spiegel.de/panorama/suederholz-brand-in-reihenhaus-bellender-hund-rettet-schlafende-bewohner](https://www.spiegel.de/panorama/suederholz-brand-in-reihenhaus-bellender-hund-rettet-schlafende-bewohner-a-a6a166c1-ebcc-40cc-b392-152be84e4f36#ref=rss)
-### bewohner
+* [https://www.spiegel.de/ausland/niederlande-diese-positionen-vertritt-wahlsieger-geert-wilders](https://www.spiegel.de/ausland/niederlande-diese-positionen-vertritt-wahlsieger-geert-wilders-a-6c0b4041-9219-4029-a6d3-0826b81463ee#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-geert-wilders-niederlande-lungenkrankheit-in-china-bka-zahlen-zur-gewalt](https://www.spiegel.de/politik/deutschland/news-des-tages-geert-wilders-niederlande-lungenkrankheit-in-china-bka-zahlen-zur-gewalt-a-734a161b-b13c-4b23-bdd9-d6bf940c30d0#ref=rss)
+### geert
 
-* [https://www.spiegel.de/panorama/suederholz-brand-in-reihenhaus-bellender-hund-rettet-schlafende-bewohner](https://www.spiegel.de/panorama/suederholz-brand-in-reihenhaus-bellender-hund-rettet-schlafende-bewohner-a-a6a166c1-ebcc-40cc-b392-152be84e4f36#ref=rss)
-### marvin
+* [https://www.spiegel.de/ausland/niederlande-diese-positionen-vertritt-wahlsieger-geert-wilders](https://www.spiegel.de/ausland/niederlande-diese-positionen-vertritt-wahlsieger-geert-wilders-a-6c0b4041-9219-4029-a6d3-0826b81463ee#ref=rss)
+### wilders
 
-* [https://www.spiegel.de/start/ernaehrungstherapeut-werden-marvin-meyer-erzaehlt-von-seinem-berufseinstieg-als-diaetassistent](https://www.spiegel.de/start/ernaehrungstherapeut-werden-marvin-meyer-erzaehlt-von-seinem-berufseinstieg-als-diaetassistent-a-77758b92-a93a-4cb3-9b92-f2526637bbb6#ref=rss)
-### meyer
+* [https://www.spiegel.de/ausland/niederlande-diese-positionen-vertritt-wahlsieger-geert-wilders](https://www.spiegel.de/ausland/niederlande-diese-positionen-vertritt-wahlsieger-geert-wilders-a-6c0b4041-9219-4029-a6d3-0826b81463ee#ref=rss)
+### einst
 
-* [https://www.spiegel.de/start/ernaehrungstherapeut-werden-marvin-meyer-erzaehlt-von-seinem-berufseinstieg-als-diaetassistent](https://www.spiegel.de/start/ernaehrungstherapeut-werden-marvin-meyer-erzaehlt-von-seinem-berufseinstieg-als-diaetassistent-a-77758b92-a93a-4cb3-9b92-f2526637bbb6#ref=rss)
-### denver
+* [https://www.spiegel.de/ausland/niederlande-diese-positionen-vertritt-wahlsieger-geert-wilders](https://www.spiegel.de/ausland/niederlande-diese-positionen-vertritt-wahlsieger-geert-wilders-a-6c0b4041-9219-4029-a6d3-0826b81463ee#ref=rss)
+* [https://www.spiegel.de/kultur/tv/wetten-dass-wie-ich-als-praktikant-versuchte-thomas-gottschalks-show-zu-retten](https://www.spiegel.de/kultur/tv/wetten-dass-wie-ich-als-praktikant-versuchte-thomas-gottschalks-show-zu-retten-a-5d32be2a-84fc-4645-9d24-8db666e854f7#ref=rss)
+### land
 
-* [https://www.spiegel.de/sport/basketball/nba-franz-wagner-fuehrt-seine-orlando-magic-zum-sieg-ueber-die-denver-nuggets](https://www.spiegel.de/sport/basketball/nba-franz-wagner-fuehrt-seine-orlando-magic-zum-sieg-ueber-die-denver-nuggets-a-6dabc4ba-5f78-446b-825a-6f6017b26470#ref=rss)
-### jamie
+* [https://www.spiegel.de/ausland/niederlande-diese-positionen-vertritt-wahlsieger-geert-wilders](https://www.spiegel.de/ausland/niederlande-diese-positionen-vertritt-wahlsieger-geert-wilders-a-6c0b4041-9219-4029-a6d3-0826b81463ee#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/deutschland-im-krisenmodus-zeit-fuer-ein-frauenwirtschaftswunder-gastbeitrag](https://www.spiegel.de/wirtschaft/soziales/deutschland-im-krisenmodus-zeit-fuer-ein-frauenwirtschaftswunder-gastbeitrag-a-4e4cb626-68f5-4eb1-9591-f95ca7818804#ref=rss)
+### überblick
 
-* [https://www.spiegel.de/panorama/leute/jamie-foxx-frau-wirft-schauspieler-sexuellen-uebergriff-auf-party-vor](https://www.spiegel.de/panorama/leute/jamie-foxx-frau-wirft-schauspieler-sexuellen-uebergriff-auf-party-vor-a-8df3a8dd-ba1b-42bc-900a-0dcc0864852f#ref=rss)
-### foxx
+* [https://www.spiegel.de/ausland/niederlande-diese-positionen-vertritt-wahlsieger-geert-wilders](https://www.spiegel.de/ausland/niederlande-diese-positionen-vertritt-wahlsieger-geert-wilders-a-6c0b4041-9219-4029-a6d3-0826b81463ee#ref=rss)
+* [https://www.spiegel.de/geschichte/antisemitismus-in-deutschland-was-sie-ueber-die-wurzeln-des-judenhasses-wissen-sollten](https://www.spiegel.de/geschichte/antisemitismus-in-deutschland-was-sie-ueber-die-wurzeln-des-judenhasses-wissen-sollten-a-9e6416a5-14d5-4055-9197-395688ba053e#ref=rss)
+### afd
 
-* [https://www.spiegel.de/panorama/leute/jamie-foxx-frau-wirft-schauspieler-sexuellen-uebergriff-auf-party-vor](https://www.spiegel.de/panorama/leute/jamie-foxx-frau-wirft-schauspieler-sexuellen-uebergriff-auf-party-vor-a-8df3a8dd-ba1b-42bc-900a-0dcc0864852f#ref=rss)
-### frau
+* [https://www.spiegel.de/wirtschaft/unternehmen/evonik-chef-christian-kullmann-wer-afd-waehlt-gefaehrdet-jobs](https://www.spiegel.de/wirtschaft/unternehmen/evonik-chef-christian-kullmann-wer-afd-waehlt-gefaehrdet-jobs-a-bf527726-763d-47a6-a280-b69bc64dda66#ref=rss)
+### haushaltschaos
 
-* [https://www.spiegel.de/panorama/leute/jamie-foxx-frau-wirft-schauspieler-sexuellen-uebergriff-auf-party-vor](https://www.spiegel.de/panorama/leute/jamie-foxx-frau-wirft-schauspieler-sexuellen-uebergriff-auf-party-vor-a-8df3a8dd-ba1b-42bc-900a-0dcc0864852f#ref=rss)
-### schauspieler
+* [https://www.spiegel.de/wirtschaft/haushaltschaos-so-sehr-zittern-deutschlands-unternehmen-jetzt-um-ihre-zukunft](https://www.spiegel.de/wirtschaft/haushaltschaos-so-sehr-zittern-deutschlands-unternehmen-jetzt-um-ihre-zukunft-a-19b38316-2784-49f1-b7b6-6e0d42dfc96e#ref=rss)
+### deutschlands
 
-* [https://www.spiegel.de/panorama/leute/jamie-foxx-frau-wirft-schauspieler-sexuellen-uebergriff-auf-party-vor](https://www.spiegel.de/panorama/leute/jamie-foxx-frau-wirft-schauspieler-sexuellen-uebergriff-auf-party-vor-a-8df3a8dd-ba1b-42bc-900a-0dcc0864852f#ref=rss)
-### party
+* [https://www.spiegel.de/wirtschaft/haushaltschaos-so-sehr-zittern-deutschlands-unternehmen-jetzt-um-ihre-zukunft](https://www.spiegel.de/wirtschaft/haushaltschaos-so-sehr-zittern-deutschlands-unternehmen-jetzt-um-ihre-zukunft-a-19b38316-2784-49f1-b7b6-6e0d42dfc96e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/wildkatzen-derlei-jungtiere-haben-auch-schon-wohnungen-verwuestet](https://www.spiegel.de/wissenschaft/wildkatzen-derlei-jungtiere-haben-auch-schon-wohnungen-verwuestet-a-8ae6c15a-2aa5-4754-9ebe-78d907cdcebb#ref=rss)
+### unternehmen
 
-* [https://www.spiegel.de/panorama/leute/jamie-foxx-frau-wirft-schauspieler-sexuellen-uebergriff-auf-party-vor](https://www.spiegel.de/panorama/leute/jamie-foxx-frau-wirft-schauspieler-sexuellen-uebergriff-auf-party-vor-a-8df3a8dd-ba1b-42bc-900a-0dcc0864852f#ref=rss)
-### libanon
+* [https://www.spiegel.de/wirtschaft/haushaltschaos-so-sehr-zittern-deutschlands-unternehmen-jetzt-um-ihre-zukunft](https://www.spiegel.de/wirtschaft/haushaltschaos-so-sehr-zittern-deutschlands-unternehmen-jetzt-um-ihre-zukunft-a-19b38316-2784-49f1-b7b6-6e0d42dfc96e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/weck-finanzinvestor-aurelius-uebernimmt-insolventen-glashersteller](https://www.spiegel.de/wirtschaft/unternehmen/weck-finanzinvestor-aurelius-uebernimmt-insolventen-glashersteller-a-c6b1e760-ce8b-412b-ab25-24df9a776f32#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/ausland/libanon-israel-meldet-schlag-gegen-die-hisbollah](https://www.spiegel.de/ausland/libanon-israel-meldet-schlag-gegen-die-hisbollah-a-7e39e063-afca-4f65-8c5e-edc681a44a61#ref=rss)
-### hisbollah
+* [https://www.spiegel.de/wirtschaft/haushaltschaos-so-sehr-zittern-deutschlands-unternehmen-jetzt-um-ihre-zukunft](https://www.spiegel.de/wirtschaft/haushaltschaos-so-sehr-zittern-deutschlands-unternehmen-jetzt-um-ihre-zukunft-a-19b38316-2784-49f1-b7b6-6e0d42dfc96e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/oekonom-zur-haushaltskrise-etwa-50-prozent-erbschaftsteuer-waeren-optimal](https://www.spiegel.de/wirtschaft/oekonom-zur-haushaltskrise-etwa-50-prozent-erbschaftsteuer-waeren-optimal-a-8c6fc3f0-df7d-43d4-a36e-2230a4d40d62#ref=rss)
+### lungenkrankheit
 
-* [https://www.spiegel.de/ausland/libanon-israel-meldet-schlag-gegen-die-hisbollah](https://www.spiegel.de/ausland/libanon-israel-meldet-schlag-gegen-die-hisbollah-a-7e39e063-afca-4f65-8c5e-edc681a44a61#ref=rss)
-### offenbar
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-geert-wilders-niederlande-lungenkrankheit-in-china-bka-zahlen-zur-gewalt](https://www.spiegel.de/politik/deutschland/news-des-tages-geert-wilders-niederlande-lungenkrankheit-in-china-bka-zahlen-zur-gewalt-a-734a161b-b13c-4b23-bdd9-d6bf940c30d0#ref=rss)
+### china
 
-* [https://www.spiegel.de/ausland/israel-hamas-geiseln-kommen-offenbar-fruehstens-freitag-frei](https://www.spiegel.de/ausland/israel-hamas-geiseln-kommen-offenbar-fruehstens-freitag-frei-a-f3d0a871-2951-44b7-bfa1-6cb709768f50#ref=rss)
-### freitag
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-geert-wilders-niederlande-lungenkrankheit-in-china-bka-zahlen-zur-gewalt](https://www.spiegel.de/politik/deutschland/news-des-tages-geert-wilders-niederlande-lungenkrankheit-in-china-bka-zahlen-zur-gewalt-a-734a161b-b13c-4b23-bdd9-d6bf940c30d0#ref=rss)
+### gewalt
 
-* [https://www.spiegel.de/ausland/israel-hamas-geiseln-kommen-offenbar-fruehstens-freitag-frei](https://www.spiegel.de/ausland/israel-hamas-geiseln-kommen-offenbar-fruehstens-freitag-frei-a-f3d0a871-2951-44b7-bfa1-6cb709768f50#ref=rss)
-### vogelgrippe
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-geert-wilders-niederlande-lungenkrankheit-in-china-bka-zahlen-zur-gewalt](https://www.spiegel.de/politik/deutschland/news-des-tages-geert-wilders-niederlande-lungenkrankheit-in-china-bka-zahlen-zur-gewalt-a-734a161b-b13c-4b23-bdd9-d6bf940c30d0#ref=rss)
+### finanzminister
 
-* [https://www.spiegel.de/wissenschaft/vogelgrippe-in-deutschland-und-daenemark-ausbruch-auf-gefluegelhoefen-zehntausende-tiere-getoetet](https://www.spiegel.de/wissenschaft/vogelgrippe-in-deutschland-und-daenemark-ausbruch-auf-gefluegelhoefen-zehntausende-tiere-getoetet-a-6873bdd7-6705-49c6-98e6-3eb8f9465b34#ref=rss)
-### zehntausende
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-so-gross-wird-der-nachtragshaushalt-2023](https://www.spiegel.de/politik/deutschland/christian-lindner-so-gross-wird-der-nachtragshaushalt-2023-a-9b34cf92-e718-4641-b3f6-85bf573d7fc9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-kuendigt-nachtragshaushalt-fuer-2023-an](https://www.spiegel.de/politik/deutschland/christian-lindner-kuendigt-nachtragshaushalt-fuer-2023-an-a-d1b26d7b-ceea-4dee-b60a-eb9988bbd4f0#ref=rss)
+### vorgaben
 
-* [https://www.spiegel.de/wissenschaft/vogelgrippe-in-deutschland-und-daenemark-ausbruch-auf-gefluegelhoefen-zehntausende-tiere-getoetet](https://www.spiegel.de/wissenschaft/vogelgrippe-in-deutschland-und-daenemark-ausbruch-auf-gefluegelhoefen-zehntausende-tiere-getoetet-a-6873bdd7-6705-49c6-98e6-3eb8f9465b34#ref=rss)
-### tiere
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-so-gross-wird-der-nachtragshaushalt-2023](https://www.spiegel.de/politik/deutschland/christian-lindner-so-gross-wird-der-nachtragshaushalt-2023-a-9b34cf92-e718-4641-b3f6-85bf573d7fc9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-kuendigt-nachtragshaushalt-fuer-2023-an](https://www.spiegel.de/politik/deutschland/christian-lindner-kuendigt-nachtragshaushalt-fuer-2023-an-a-d1b26d7b-ceea-4dee-b60a-eb9988bbd4f0#ref=rss)
+### verfassungsgerichts
 
-* [https://www.spiegel.de/wissenschaft/vogelgrippe-in-deutschland-und-daenemark-ausbruch-auf-gefluegelhoefen-zehntausende-tiere-getoetet](https://www.spiegel.de/wissenschaft/vogelgrippe-in-deutschland-und-daenemark-ausbruch-auf-gefluegelhoefen-zehntausende-tiere-getoetet-a-6873bdd7-6705-49c6-98e6-3eb8f9465b34#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-so-gross-wird-der-nachtragshaushalt-2023](https://www.spiegel.de/politik/deutschland/christian-lindner-so-gross-wird-der-nachtragshaushalt-2023-a-9b34cf92-e718-4641-b3f6-85bf573d7fc9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-kuendigt-nachtragshaushalt-fuer-2023-an](https://www.spiegel.de/politik/deutschland/christian-lindner-kuendigt-nachtragshaushalt-fuer-2023-an-a-d1b26d7b-ceea-4dee-b60a-eb9988bbd4f0#ref=rss)
+### schuldenbremse
+
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-so-gross-wird-der-nachtragshaushalt-2023](https://www.spiegel.de/politik/deutschland/christian-lindner-so-gross-wird-der-nachtragshaushalt-2023-a-9b34cf92-e718-4641-b3f6-85bf573d7fc9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-kuendigt-nachtragshaushalt-fuer-2023-an](https://www.spiegel.de/politik/deutschland/christian-lindner-kuendigt-nachtragshaushalt-fuer-2023-an-a-d1b26d7b-ceea-4dee-b60a-eb9988bbd4f0#ref=rss)
+### spiegelinformationen
+
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-so-gross-wird-der-nachtragshaushalt-2023](https://www.spiegel.de/politik/deutschland/christian-lindner-so-gross-wird-der-nachtragshaushalt-2023-a-9b34cf92-e718-4641-b3f6-85bf573d7fc9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frankreich-emmanuel-macron-will-friedrich-merz-empfangen](https://www.spiegel.de/politik/deutschland/frankreich-emmanuel-macron-will-friedrich-merz-empfangen-a-f9d7ff52-781d-41a9-bae2-951294858541#ref=rss)
+### iraner
+
+* [https://www.spiegel.de/politik/deutschland/islamismus-terrorverdaechtiger-iraner-aus-castrop-rauxel-erhaelt-vier-jahre-haft](https://www.spiegel.de/politik/deutschland/islamismus-terrorverdaechtiger-iraner-aus-castrop-rauxel-erhaelt-vier-jahre-haft-a-38d6584d-87fb-4e7c-914c-d99c332fc22f#ref=rss)
+### haft
+
+* [https://www.spiegel.de/politik/deutschland/islamismus-terrorverdaechtiger-iraner-aus-castrop-rauxel-erhaelt-vier-jahre-haft](https://www.spiegel.de/politik/deutschland/islamismus-terrorverdaechtiger-iraner-aus-castrop-rauxel-erhaelt-vier-jahre-haft-a-38d6584d-87fb-4e7c-914c-d99c332fc22f#ref=rss)
+### wildkatzen
+
+* [https://www.spiegel.de/wissenschaft/wildkatzen-derlei-jungtiere-haben-auch-schon-wohnungen-verwuestet](https://www.spiegel.de/wissenschaft/wildkatzen-derlei-jungtiere-haben-auch-schon-wohnungen-verwuestet-a-8ae6c15a-2aa5-4754-9ebe-78d907cdcebb#ref=rss)
+### besonders
+
+* [https://www.spiegel.de/wissenschaft/wildkatzen-derlei-jungtiere-haben-auch-schon-wohnungen-verwuestet](https://www.spiegel.de/wissenschaft/wildkatzen-derlei-jungtiere-haben-auch-schon-wohnungen-verwuestet-a-8ae6c15a-2aa5-4754-9ebe-78d907cdcebb#ref=rss)
+* [https://www.spiegel.de/tests/haushalt/stiftung-warentest-prueft-kaffeevollautomaten-die-besten-geraete-im-test](https://www.spiegel.de/tests/haushalt/stiftung-warentest-prueft-kaffeevollautomaten-die-besten-geraete-im-test-a-7a759b47-eef1-4432-a6a3-a7178b39815d#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/wissenschaft/wildkatzen-derlei-jungtiere-haben-auch-schon-wohnungen-verwuestet](https://www.spiegel.de/wissenschaft/wildkatzen-derlei-jungtiere-haben-auch-schon-wohnungen-verwuestet-a-8ae6c15a-2aa5-4754-9ebe-78d907cdcebb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/deutschland-im-krisenmodus-zeit-fuer-ein-frauenwirtschaftswunder-gastbeitrag](https://www.spiegel.de/wirtschaft/soziales/deutschland-im-krisenmodus-zeit-fuer-ein-frauenwirtschaftswunder-gastbeitrag-a-4e4cb626-68f5-4eb1-9591-f95ca7818804#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/wissenschaft/wildkatzen-derlei-jungtiere-haben-auch-schon-wohnungen-verwuestet](https://www.spiegel.de/wissenschaft/wildkatzen-derlei-jungtiere-haben-auch-schon-wohnungen-verwuestet-a-8ae6c15a-2aa5-4754-9ebe-78d907cdcebb#ref=rss)
+* [https://www.spiegel.de/gesundheit/erkaeltungsmonitor-wie-viele-menschen-leiden-gerade-an-corona-grippe-rsv-co](https://www.spiegel.de/gesundheit/erkaeltungsmonitor-wie-viele-menschen-leiden-gerade-an-corona-grippe-rsv-co-a-f018d4b8-0629-45a7-a6d3-05fdcd2ada54#ref=rss)
+### stiftung
+
+* [https://www.spiegel.de/tests/haushalt/stiftung-warentest-prueft-kaffeevollautomaten-die-besten-geraete-im-test](https://www.spiegel.de/tests/haushalt/stiftung-warentest-prueft-kaffeevollautomaten-die-besten-geraete-im-test-a-7a759b47-eef1-4432-a6a3-a7178b39815d#ref=rss)
+### warentest
+
+* [https://www.spiegel.de/tests/haushalt/stiftung-warentest-prueft-kaffeevollautomaten-die-besten-geraete-im-test](https://www.spiegel.de/tests/haushalt/stiftung-warentest-prueft-kaffeevollautomaten-die-besten-geraete-im-test-a-7a759b47-eef1-4432-a6a3-a7178b39815d#ref=rss)
+### kaffeevollautomaten
+
+* [https://www.spiegel.de/tests/haushalt/stiftung-warentest-prueft-kaffeevollautomaten-die-besten-geraete-im-test](https://www.spiegel.de/tests/haushalt/stiftung-warentest-prueft-kaffeevollautomaten-die-besten-geraete-im-test-a-7a759b47-eef1-4432-a6a3-a7178b39815d#ref=rss)
+### meisten
+
+* [https://www.spiegel.de/tests/haushalt/stiftung-warentest-prueft-kaffeevollautomaten-die-besten-geraete-im-test](https://www.spiegel.de/tests/haushalt/stiftung-warentest-prueft-kaffeevollautomaten-die-besten-geraete-im-test-a-7a759b47-eef1-4432-a6a3-a7178b39815d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/weck-finanzinvestor-aurelius-uebernimmt-insolventen-glashersteller](https://www.spiegel.de/wirtschaft/unternehmen/weck-finanzinvestor-aurelius-uebernimmt-insolventen-glashersteller-a-c6b1e760-ce8b-412b-ab25-24df9a776f32#ref=rss)
+### großküche
+
+* [https://www.spiegel.de/ausland/ukraine-zug-soll-warme-mahlzeiten](https://www.spiegel.de/ausland/ukraine-zug-soll-warme-mahlzeiten-a-b616dd2e-1bc5-4c29-9ef4-a67601d84ef5#ref=rss)
+### versorgen
+
+* [https://www.spiegel.de/ausland/ukraine-zug-soll-warme-mahlzeiten](https://www.spiegel.de/ausland/ukraine-zug-soll-warme-mahlzeiten-a-b616dd2e-1bc5-4c29-9ef4-a67601d84ef5#ref=rss)
+### bringen
+
+* [https://www.spiegel.de/gesundheit/erkaeltungsmonitor-wie-viele-menschen-leiden-gerade-an-corona-grippe-rsv-co](https://www.spiegel.de/gesundheit/erkaeltungsmonitor-wie-viele-menschen-leiden-gerade-an-corona-grippe-rsv-co-a-f018d4b8-0629-45a7-a6d3-05fdcd2ada54#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/deutschland-im-krisenmodus-zeit-fuer-ein-frauenwirtschaftswunder-gastbeitrag](https://www.spiegel.de/wirtschaft/soziales/deutschland-im-krisenmodus-zeit-fuer-ein-frauenwirtschaftswunder-gastbeitrag-a-4e4cb626-68f5-4eb1-9591-f95ca7818804#ref=rss)
+### leben
+
+* [https://www.spiegel.de/gesundheit/erkaeltungsmonitor-wie-viele-menschen-leiden-gerade-an-corona-grippe-rsv-co](https://www.spiegel.de/gesundheit/erkaeltungsmonitor-wie-viele-menschen-leiden-gerade-an-corona-grippe-rsv-co-a-f018d4b8-0629-45a7-a6d3-05fdcd2ada54#ref=rss)
+* [https://www.spiegel.de/ausland/voelkermord-an-den-tutsi-in-ruanda-prozess-in-frankreich-29-jahre-nach-dem-verbrechen](https://www.spiegel.de/ausland/voelkermord-an-den-tutsi-in-ruanda-prozess-in-frankreich-29-jahre-nach-dem-verbrechen-a-dcaf11fc-280c-421c-9397-0a623913170d#ref=rss)
+### daten
+
+* [https://www.spiegel.de/gesundheit/erkaeltungsmonitor-wie-viele-menschen-leiden-gerade-an-corona-grippe-rsv-co](https://www.spiegel.de/gesundheit/erkaeltungsmonitor-wie-viele-menschen-leiden-gerade-an-corona-grippe-rsv-co-a-f018d4b8-0629-45a7-a6d3-05fdcd2ada54#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/microsoft-surface-gehackt-wie-forscher-fingerabdrucksensoren-ueberlisten](https://www.spiegel.de/netzwelt/gadgets/microsoft-surface-gehackt-wie-forscher-fingerabdrucksensoren-ueberlisten-a-e8ec6e0a-f0d8-496f-9a01-cc191c0b0bb7#ref=rss)
+### wetten
+
+* [https://www.spiegel.de/kultur/tv/wetten-dass-wie-ich-als-praktikant-versuchte-thomas-gottschalks-show-zu-retten](https://www.spiegel.de/kultur/tv/wetten-dass-wie-ich-als-praktikant-versuchte-thomas-gottschalks-show-zu-retten-a-5d32be2a-84fc-4645-9d24-8db666e854f7#ref=rss)
+### thomas
+
+* [https://www.spiegel.de/kultur/tv/wetten-dass-wie-ich-als-praktikant-versuchte-thomas-gottschalks-show-zu-retten](https://www.spiegel.de/kultur/tv/wetten-dass-wie-ich-als-praktikant-versuchte-thomas-gottschalks-show-zu-retten-a-5d32be2a-84fc-4645-9d24-8db666e854f7#ref=rss)
+### macron
+
+* [https://www.spiegel.de/politik/deutschland/frankreich-emmanuel-macron-will-friedrich-merz-empfangen](https://www.spiegel.de/politik/deutschland/frankreich-emmanuel-macron-will-friedrich-merz-empfangen-a-f9d7ff52-781d-41a9-bae2-951294858541#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/frankreich-emmanuel-macron-will-friedrich-merz-empfangen](https://www.spiegel.de/politik/deutschland/frankreich-emmanuel-macron-will-friedrich-merz-empfangen-a-f9d7ff52-781d-41a9-bae2-951294858541#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/frankreich-emmanuel-macron-will-friedrich-merz-empfangen](https://www.spiegel.de/politik/deutschland/frankreich-emmanuel-macron-will-friedrich-merz-empfangen-a-f9d7ff52-781d-41a9-bae2-951294858541#ref=rss)
+### lädt
+
+* [https://www.spiegel.de/politik/deutschland/frankreich-emmanuel-macron-will-friedrich-merz-empfangen](https://www.spiegel.de/politik/deutschland/frankreich-emmanuel-macron-will-friedrich-merz-empfangen-a-f9d7ff52-781d-41a9-bae2-951294858541#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-laedt-kollegen-aus-den-laendern-zum-krisengipfel](https://www.spiegel.de/politik/deutschland/robert-habeck-laedt-kollegen-aus-den-laendern-zum-krisengipfel-a-a11c0361-5157-4133-b760-4bdfde5de6d4#ref=rss)
+### andere
+
+* [https://www.spiegel.de/auto/magnetschwebebahn-fuer-berlin-eine-loesung-auf-der-suche-nach-einem-problem](https://www.spiegel.de/auto/magnetschwebebahn-fuer-berlin-eine-loesung-auf-der-suche-nach-einem-problem-a-833d6bcb-70c9-4b72-a443-a4d769e37f95#ref=rss)
+* [https://www.spiegel.de/ausland/voelkermord-an-den-tutsi-in-ruanda-prozess-in-frankreich-29-jahre-nach-dem-verbrechen](https://www.spiegel.de/ausland/voelkermord-an-den-tutsi-in-ruanda-prozess-in-frankreich-29-jahre-nach-dem-verbrechen-a-dcaf11fc-280c-421c-9397-0a623913170d#ref=rss)
+### antisemitismus
+
+* [https://www.spiegel.de/geschichte/antisemitismus-in-deutschland-was-sie-ueber-die-wurzeln-des-judenhasses-wissen-sollten](https://www.spiegel.de/geschichte/antisemitismus-in-deutschland-was-sie-ueber-die-wurzeln-des-judenhasses-wissen-sollten-a-9e6416a5-14d5-4055-9197-395688ba053e#ref=rss)
+### völkermord
+
+* [https://www.spiegel.de/ausland/voelkermord-an-den-tutsi-in-ruanda-prozess-in-frankreich-29-jahre-nach-dem-verbrechen](https://www.spiegel.de/ausland/voelkermord-an-den-tutsi-in-ruanda-prozess-in-frankreich-29-jahre-nach-dem-verbrechen-a-dcaf11fc-280c-421c-9397-0a623913170d#ref=rss)
+### tutsi
+
+* [https://www.spiegel.de/ausland/voelkermord-an-den-tutsi-in-ruanda-prozess-in-frankreich-29-jahre-nach-dem-verbrechen](https://www.spiegel.de/ausland/voelkermord-an-den-tutsi-in-ruanda-prozess-in-frankreich-29-jahre-nach-dem-verbrechen-a-dcaf11fc-280c-421c-9397-0a623913170d#ref=rss)
+### ruanda
+
+* [https://www.spiegel.de/ausland/voelkermord-an-den-tutsi-in-ruanda-prozess-in-frankreich-29-jahre-nach-dem-verbrechen](https://www.spiegel.de/ausland/voelkermord-an-den-tutsi-in-ruanda-prozess-in-frankreich-29-jahre-nach-dem-verbrechen-a-dcaf11fc-280c-421c-9397-0a623913170d#ref=rss)
+### 29
+
+* [https://www.spiegel.de/ausland/voelkermord-an-den-tutsi-in-ruanda-prozess-in-frankreich-29-jahre-nach-dem-verbrechen](https://www.spiegel.de/ausland/voelkermord-an-den-tutsi-in-ruanda-prozess-in-frankreich-29-jahre-nach-dem-verbrechen-a-dcaf11fc-280c-421c-9397-0a623913170d#ref=rss)
+### verbrechen
+
+* [https://www.spiegel.de/ausland/voelkermord-an-den-tutsi-in-ruanda-prozess-in-frankreich-29-jahre-nach-dem-verbrechen](https://www.spiegel.de/ausland/voelkermord-an-den-tutsi-in-ruanda-prozess-in-frankreich-29-jahre-nach-dem-verbrechen-a-dcaf11fc-280c-421c-9397-0a623913170d#ref=rss)
+### ungarn
+
+* [https://www.spiegel.de/ausland/ungarn-soll-eu-gelder-erhalten-trotz-blockade-in-ukraine-politik](https://www.spiegel.de/ausland/ungarn-soll-eu-gelder-erhalten-trotz-blockade-in-ukraine-politik-a-8f045579-6213-49d2-96a5-9e0d01deef32#ref=rss)
+### erhalten
+
+* [https://www.spiegel.de/ausland/ungarn-soll-eu-gelder-erhalten-trotz-blockade-in-ukraine-politik](https://www.spiegel.de/ausland/ungarn-soll-eu-gelder-erhalten-trotz-blockade-in-ukraine-politik-a-8f045579-6213-49d2-96a5-9e0d01deef32#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/weck-finanzinvestor-aurelius-uebernimmt-insolventen-glashersteller](https://www.spiegel.de/wirtschaft/unternehmen/weck-finanzinvestor-aurelius-uebernimmt-insolventen-glashersteller-a-c6b1e760-ce8b-412b-ab25-24df9a776f32#ref=rss)
+### wochen
+
+* [https://www.spiegel.de/ausland/ungarn-soll-eu-gelder-erhalten-trotz-blockade-in-ukraine-politik](https://www.spiegel.de/ausland/ungarn-soll-eu-gelder-erhalten-trotz-blockade-in-ukraine-politik-a-8f045579-6213-49d2-96a5-9e0d01deef32#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/polens-grenzblockade-proteste-gegen-spediteure-aus-der-ukraine-weiten-sich-aus](https://www.spiegel.de/wirtschaft/unternehmen/polens-grenzblockade-proteste-gegen-spediteure-aus-der-ukraine-weiten-sich-aus-a-c977c58c-f244-4061-b40b-42b36701e030#ref=rss)
+### blockieren
+
+* [https://www.spiegel.de/ausland/ungarn-soll-eu-gelder-erhalten-trotz-blockade-in-ukraine-politik](https://www.spiegel.de/ausland/ungarn-soll-eu-gelder-erhalten-trotz-blockade-in-ukraine-politik-a-8f045579-6213-49d2-96a5-9e0d01deef32#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/polens-grenzblockade-proteste-gegen-spediteure-aus-der-ukraine-weiten-sich-aus](https://www.spiegel.de/wirtschaft/unternehmen/polens-grenzblockade-proteste-gegen-spediteure-aus-der-ukraine-weiten-sich-aus-a-c977c58c-f244-4061-b40b-42b36701e030#ref=rss)
+### habeck
+
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-laedt-kollegen-aus-den-laendern-zum-krisengipfel](https://www.spiegel.de/politik/deutschland/robert-habeck-laedt-kollegen-aus-den-laendern-zum-krisengipfel-a-a11c0361-5157-4133-b760-4bdfde5de6d4#ref=rss)
+### urteil
+
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-laedt-kollegen-aus-den-laendern-zum-krisengipfel](https://www.spiegel.de/politik/deutschland/robert-habeck-laedt-kollegen-aus-den-laendern-zum-krisengipfel-a-a11c0361-5157-4133-b760-4bdfde5de6d4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-kuendigt-nachtragshaushalt-fuer-2023-an](https://www.spiegel.de/politik/deutschland/christian-lindner-kuendigt-nachtragshaushalt-fuer-2023-an-a-d1b26d7b-ceea-4dee-b60a-eb9988bbd4f0#ref=rss)
+### weck
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/weck-finanzinvestor-aurelius-uebernimmt-insolventen-glashersteller](https://www.spiegel.de/wirtschaft/unternehmen/weck-finanzinvestor-aurelius-uebernimmt-insolventen-glashersteller-a-c6b1e760-ce8b-412b-ab25-24df9a776f32#ref=rss)
+### finanzinvestor
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/weck-finanzinvestor-aurelius-uebernimmt-insolventen-glashersteller](https://www.spiegel.de/wirtschaft/unternehmen/weck-finanzinvestor-aurelius-uebernimmt-insolventen-glashersteller-a-c6b1e760-ce8b-412b-ab25-24df9a776f32#ref=rss)
+### übernimmt
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/weck-finanzinvestor-aurelius-uebernimmt-insolventen-glashersteller](https://www.spiegel.de/wirtschaft/unternehmen/weck-finanzinvestor-aurelius-uebernimmt-insolventen-glashersteller-a-c6b1e760-ce8b-412b-ab25-24df9a776f32#ref=rss)
+### microsoft
+
+* [https://www.spiegel.de/netzwelt/gadgets/microsoft-surface-gehackt-wie-forscher-fingerabdrucksensoren-ueberlisten](https://www.spiegel.de/netzwelt/gadgets/microsoft-surface-gehackt-wie-forscher-fingerabdrucksensoren-ueberlisten-a-e8ec6e0a-f0d8-496f-9a01-cc191c0b0bb7#ref=rss)
+### forscher
+
+* [https://www.spiegel.de/netzwelt/gadgets/microsoft-surface-gehackt-wie-forscher-fingerabdrucksensoren-ueberlisten](https://www.spiegel.de/netzwelt/gadgets/microsoft-surface-gehackt-wie-forscher-fingerabdrucksensoren-ueberlisten-a-e8ec6e0a-f0d8-496f-9a01-cc191c0b0bb7#ref=rss)
+### deutschlandticket
+
+* [https://www.spiegel.de/auto/deutschlandticket-gueltig-nun-auch-fuer-manche-ic-und-ice-in-brandenburg](https://www.spiegel.de/auto/deutschlandticket-gueltig-nun-auch-fuer-manche-ic-und-ice-in-brandenburg-a-660cfe4c-9eca-443b-b73e-de34e157987c#ref=rss)
+### brandenburg
+
+* [https://www.spiegel.de/auto/deutschlandticket-gueltig-nun-auch-fuer-manche-ic-und-ice-in-brandenburg](https://www.spiegel.de/auto/deutschlandticket-gueltig-nun-auch-fuer-manche-ic-und-ice-in-brandenburg-a-660cfe4c-9eca-443b-b73e-de34e157987c#ref=rss)
+### ökonom
+
+* [https://www.spiegel.de/wirtschaft/oekonom-zur-haushaltskrise-etwa-50-prozent-erbschaftsteuer-waeren-optimal](https://www.spiegel.de/wirtschaft/oekonom-zur-haushaltskrise-etwa-50-prozent-erbschaftsteuer-waeren-optimal-a-8c6fc3f0-df7d-43d4-a36e-2230a4d40d62#ref=rss)
+### haushaltskrise
+
+* [https://www.spiegel.de/wirtschaft/oekonom-zur-haushaltskrise-etwa-50-prozent-erbschaftsteuer-waeren-optimal](https://www.spiegel.de/wirtschaft/oekonom-zur-haushaltskrise-etwa-50-prozent-erbschaftsteuer-waeren-optimal-a-8c6fc3f0-df7d-43d4-a36e-2230a4d40d62#ref=rss)
+### spediteure
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/polens-grenzblockade-proteste-gegen-spediteure-aus-der-ukraine-weiten-sich-aus](https://www.spiegel.de/wirtschaft/unternehmen/polens-grenzblockade-proteste-gegen-spediteure-aus-der-ukraine-weiten-sich-aus-a-c977c58c-f244-4061-b40b-42b36701e030#ref=rss)
 
