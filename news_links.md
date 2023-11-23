@@ -4,277 +4,304 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### hamas
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-geisel-uebergabe-darauf-haben-sich-israel-und-hamas-verstaendigt](https://www.spiegel.de/ausland/israel-gaza-krieg-geisel-uebergabe-darauf-haben-sich-israel-und-hamas-verstaendigt-a-7daa796a-a55a-4ca1-b657-103787c6bf3c#ref=rss)
-* [https://www.spiegel.de/ausland/naher-osten-wie-china-auf-den-krieg-im-gazastreifen-blickt](https://www.spiegel.de/ausland/naher-osten-wie-china-auf-den-krieg-im-gazastreifen-blickt-a-6ef090b0-3a40-41ef-bd66-d54e49307fe5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-sam-altman-und-sein-triumph-bei-openai-geiselabkommen-in-gaza-kennedy-attentat](https://www.spiegel.de/politik/deutschland/news-des-tages-sam-altman-und-sein-triumph-bei-openai-geiselabkommen-in-gaza-kennedy-attentat-a-e248eccb-e35c-4f97-a457-c9baa5943f0e#ref=rss)
-* [https://www.spiegel.de/geschichte/israel-gaza-krieg-historiker-wenden-sich-gegen-vergleiche-von-hamas-mit-nazis](https://www.spiegel.de/geschichte/israel-gaza-krieg-historiker-wenden-sich-gegen-vergleiche-von-hamas-mit-nazis-a-edd3b15d-9273-44b5-90f5-f98be7d06a8c#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-feuerpause-soll-laut-hamas-am-vormittag-beginnen](https://www.spiegel.de/ausland/israel-gaza-krieg-feuerpause-soll-laut-hamas-am-vormittag-beginnen-a-ba8ebdca-ecdf-4532-8c6a-67001a7ff85d#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-geisel-uebergabe-darauf-haben-sich-israel-und-hamas-verstaendigt](https://www.spiegel.de/ausland/israel-gaza-krieg-geisel-uebergabe-darauf-haben-sich-israel-und-hamas-verstaendigt-a-7daa796a-a55a-4ca1-b657-103787c6bf3c#ref=rss)
-* [https://www.spiegel.de/panorama/paris-ich-nehme-dich-nicht-mit-du-judensau-taxifahrer-soll-juedische-familie-mit-dem-tod-bedroht-haben](https://www.spiegel.de/panorama/paris-ich-nehme-dich-nicht-mit-du-judensau-taxifahrer-soll-juedische-familie-mit-dem-tod-bedroht-haben-a-c24baf21-3a45-49f8-9138-289e4b426eb0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-sam-altman-und-sein-triumph-bei-openai-geiselabkommen-in-gaza-kennedy-attentat](https://www.spiegel.de/politik/deutschland/news-des-tages-sam-altman-und-sein-triumph-bei-openai-geiselabkommen-in-gaza-kennedy-attentat-a-e248eccb-e35c-4f97-a457-c9baa5943f0e#ref=rss)
-* [https://www.spiegel.de/ausland/israel-die-radikalen-siedler-traeumen-von-der-rueckkehr-nach-gaza](https://www.spiegel.de/ausland/israel-die-radikalen-siedler-traeumen-von-der-rueckkehr-nach-gaza-a-f2fa864f-6de0-4c0a-a973-0598070d3050#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-feuerpause-soll-laut-hamas-am-vormittag-beginnen](https://www.spiegel.de/ausland/israel-gaza-krieg-feuerpause-soll-laut-hamas-am-vormittag-beginnen-a-ba8ebdca-ecdf-4532-8c6a-67001a7ff85d#ref=rss)
-### gaza
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-geisel-uebergabe-darauf-haben-sich-israel-und-hamas-verstaendigt](https://www.spiegel.de/ausland/israel-gaza-krieg-geisel-uebergabe-darauf-haben-sich-israel-und-hamas-verstaendigt-a-7daa796a-a55a-4ca1-b657-103787c6bf3c#ref=rss)
-* [https://www.spiegel.de/ausland/naher-osten-wie-china-auf-den-krieg-im-gazastreifen-blickt](https://www.spiegel.de/ausland/naher-osten-wie-china-auf-den-krieg-im-gazastreifen-blickt-a-6ef090b0-3a40-41ef-bd66-d54e49307fe5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-sam-altman-und-sein-triumph-bei-openai-geiselabkommen-in-gaza-kennedy-attentat](https://www.spiegel.de/politik/deutschland/news-des-tages-sam-altman-und-sein-triumph-bei-openai-geiselabkommen-in-gaza-kennedy-attentat-a-e248eccb-e35c-4f97-a457-c9baa5943f0e#ref=rss)
-* [https://www.spiegel.de/ausland/israel-die-radikalen-siedler-traeumen-von-der-rueckkehr-nach-gaza](https://www.spiegel.de/ausland/israel-die-radikalen-siedler-traeumen-von-der-rueckkehr-nach-gaza-a-f2fa864f-6de0-4c0a-a973-0598070d3050#ref=rss)
-### gute
-
-* [https://www.spiegel.de/kultur/serie-ueber-den-fc-bayern-muenchen-gute-freunde-als-der-glamour-in-den-fussball-einzog](https://www.spiegel.de/kultur/serie-ueber-den-fc-bayern-muenchen-gute-freunde-als-der-glamour-in-den-fussball-einzog-a-3df3388b-3961-4fa6-81bf-dccec73abbf3#ref=rss)
-* [https://www.spiegel.de/sport/nationalmannschaft-weniger-talent-mehr-kampf](https://www.spiegel.de/sport/nationalmannschaft-weniger-talent-mehr-kampf-a-622ef8d0-9ca9-4857-a0f3-1b9c25035a43#ref=rss)
-* [https://www.spiegel.de/deinspiegel/marc-uwe-kling-im-kinder-interview-wenn-ich-schreibe-bekomme-ich-gute-laune](https://www.spiegel.de/deinspiegel/marc-uwe-kling-im-kinder-interview-wenn-ich-schreibe-bekomme-ich-gute-laune-a-320cbabe-a2c5-4c4f-8d92-27ba11436ce6#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/deutschland/asylpolitik-olaf-scholz-und-giorgia-meloni-setzen-politische-differenzen-ausser-kraft](https://www.spiegel.de/politik/deutschland/asylpolitik-olaf-scholz-und-giorgia-meloni-setzen-politische-differenzen-ausser-kraft-a-507a111b-a6cc-4406-9f68-df9a7f942825#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/haushalt-und-schuldenbremse-die-fatalen-tricks-von-scholz-lindner-und-habeck](https://www.spiegel.de/politik/deutschland/haushalt-und-schuldenbremse-die-fatalen-tricks-von-scholz-lindner-und-habeck-a-2f8363b7-0fbc-444d-b833-d19baf7d4e52#ref=rss)
-### jan
-
-* [https://www.spiegel.de/sport/ex-radprofi-jan-ullrich-gesteht-doping](https://www.spiegel.de/sport/ex-radprofi-jan-ullrich-gesteht-doping-a-e91af826-9bab-4c8a-b2f0-5e29c0787fe3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jan-bollinger-afd-fraktionsvorsitzender-in-rheinland-pfalz-tritt-nach-machtkampf-aus-fraktion-aus](https://www.spiegel.de/politik/deutschland/jan-bollinger-afd-fraktionsvorsitzender-in-rheinland-pfalz-tritt-nach-machtkampf-aus-fraktion-aus-a-ec7c676d-b7ce-457f-8242-b9085bde31e1#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/sport/ex-radprofi-jan-ullrich-gesteht-doping](https://www.spiegel.de/sport/ex-radprofi-jan-ullrich-gesteht-doping-a-e91af826-9bab-4c8a-b2f0-5e29c0787fe3#ref=rss)
-* [https://www.spiegel.de/panorama/die-geschichte-hinter-dem-bild-wie-mir-john-f-kennedy-zum-ruder-sieg-gratulierte](https://www.spiegel.de/panorama/die-geschichte-hinter-dem-bild-wie-mir-john-f-kennedy-zum-ruder-sieg-gratulierte-a-2c6386fb-582f-49eb-8f96-eaae09d7e8ba#ref=rss)
-* [https://www.spiegel.de/sport/nationalmannschaft-weniger-talent-mehr-kampf](https://www.spiegel.de/sport/nationalmannschaft-weniger-talent-mehr-kampf-a-622ef8d0-9ca9-4857-a0f3-1b9c25035a43#ref=rss)
-### israelgazakrieg
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-geisel-uebergabe-darauf-haben-sich-israel-und-hamas-verstaendigt](https://www.spiegel.de/ausland/israel-gaza-krieg-geisel-uebergabe-darauf-haben-sich-israel-und-hamas-verstaendigt-a-7daa796a-a55a-4ca1-b657-103787c6bf3c#ref=rss)
-* [https://www.spiegel.de/geschichte/israel-gaza-krieg-historiker-wenden-sich-gegen-vergleiche-von-hamas-mit-nazis](https://www.spiegel.de/geschichte/israel-gaza-krieg-historiker-wenden-sich-gegen-vergleiche-von-hamas-mit-nazis-a-edd3b15d-9273-44b5-90f5-f98be7d06a8c#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-feuerpause-soll-laut-hamas-am-vormittag-beginnen](https://www.spiegel.de/ausland/israel-gaza-krieg-feuerpause-soll-laut-hamas-am-vormittag-beginnen-a-ba8ebdca-ecdf-4532-8c6a-67001a7ff85d#ref=rss)
-### krieg
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-geisel-uebergabe-darauf-haben-sich-israel-und-hamas-verstaendigt](https://www.spiegel.de/ausland/israel-gaza-krieg-geisel-uebergabe-darauf-haben-sich-israel-und-hamas-verstaendigt-a-7daa796a-a55a-4ca1-b657-103787c6bf3c#ref=rss)
-* [https://www.spiegel.de/ausland/naher-osten-wie-china-auf-den-krieg-im-gazastreifen-blickt](https://www.spiegel.de/ausland/naher-osten-wie-china-auf-den-krieg-im-gazastreifen-blickt-a-6ef090b0-3a40-41ef-bd66-d54e49307fe5#ref=rss)
-* [https://www.spiegel.de/ausland/israel-die-radikalen-siedler-traeumen-von-der-rueckkehr-nach-gaza](https://www.spiegel.de/ausland/israel-die-radikalen-siedler-traeumen-von-der-rueckkehr-nach-gaza-a-f2fa864f-6de0-4c0a-a973-0598070d3050#ref=rss)
 ### ich
 
-* [https://www.spiegel.de/panorama/paris-ich-nehme-dich-nicht-mit-du-judensau-taxifahrer-soll-juedische-familie-mit-dem-tod-bedroht-haben](https://www.spiegel.de/panorama/paris-ich-nehme-dich-nicht-mit-du-judensau-taxifahrer-soll-juedische-familie-mit-dem-tod-bedroht-haben-a-c24baf21-3a45-49f8-9138-289e4b426eb0#ref=rss)
-* [https://www.spiegel.de/deinspiegel/marc-uwe-kling-im-kinder-interview-wenn-ich-schreibe-bekomme-ich-gute-laune](https://www.spiegel.de/deinspiegel/marc-uwe-kling-im-kinder-interview-wenn-ich-schreibe-bekomme-ich-gute-laune-a-320cbabe-a2c5-4c4f-8d92-27ba11436ce6#ref=rss)
-### prozent
+* [https://www.spiegel.de/familie/eltern-und-ihre-geschaerften-sinne-dank-meiner-kinder-habe-ich-superkraefte](https://www.spiegel.de/familie/eltern-und-ihre-geschaerften-sinne-dank-meiner-kinder-habe-ich-superkraefte-a-cc3cabe1-1d6a-478d-b2ef-314b37f7524f#ref=rss)
+* [https://www.spiegel.de/panorama/bibliotheken-gehe-ich-pleite-wenn-ich-ein-buch-meiner-vorfahren-zurueckbringe](https://www.spiegel.de/panorama/bibliotheken-gehe-ich-pleite-wenn-ich-ein-buch-meiner-vorfahren-zurueckbringe-a-2f45284b-daff-4067-a96f-08ef01a50cf9#ref=rss)
+### frank
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/vw-erhoeht-loehne-im-us-werk-um-elf-prozent](https://www.spiegel.de/wirtschaft/unternehmen/vw-erhoeht-loehne-im-us-werk-um-elf-prozent-a-75cfca10-3f88-47ab-a76d-b5c9e99db5e4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/renten-werden-bis-2037-um-knapp-43-prozent-steigen](https://www.spiegel.de/wirtschaft/soziales/renten-werden-bis-2037-um-knapp-43-prozent-steigen-a-0c7e57a9-913a-4151-811a-c76a35672a79#ref=rss)
-* [https://www.spiegel.de/auto/regierung-macht-weg-fuer-100-prozent-frittenfett-im-autotank-frei](https://www.spiegel.de/auto/regierung-macht-weg-fuer-100-prozent-frittenfett-im-autotank-frei-a-040d7262-4365-4999-914e-9d8e180913bb#ref=rss)
-### serie
+* [https://www.spiegel.de/kultur/tv/echt-unsere-jugend-ard-doku-von-kim-frank-ueber-teeniestars](https://www.spiegel.de/kultur/tv/echt-unsere-jugend-ard-doku-von-kim-frank-ueber-teeniestars-a-917fb143-842e-4139-b5db-565776ab6e48#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/bundesverfassungsgericht-peter-frank-bisher-generalbundesanwalt-soll-verfassungsrichter-werden](https://www.spiegel.de/panorama/gesellschaft/bundesverfassungsgericht-peter-frank-bisher-generalbundesanwalt-soll-verfassungsrichter-werden-a-8efb5e62-1d96-4da0-8b70-5661d4962753#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/kultur/serie-ueber-den-fc-bayern-muenchen-gute-freunde-als-der-glamour-in-den-fussball-einzog](https://www.spiegel.de/kultur/serie-ueber-den-fc-bayern-muenchen-gute-freunde-als-der-glamour-in-den-fussball-einzog-a-3df3388b-3961-4fa6-81bf-dccec73abbf3#ref=rss)
-* [https://www.spiegel.de/kultur/tv/squid-game-the-challenge-bei-netflix-menschenjagd-mit-schwarzer-tinte](https://www.spiegel.de/kultur/tv/squid-game-the-challenge-bei-netflix-menschenjagd-mit-schwarzer-tinte-a-5e8cb3e5-2a89-48a2-8aea-bfcd90f8f570#ref=rss)
-### olaf
+* [https://www.spiegel.de/wirtschaft/unternehmen/crif-analyse-zur-gastronomie-immer-mehr-restaurants-und-bars-von-pleite-bedroht](https://www.spiegel.de/wirtschaft/unternehmen/crif-analyse-zur-gastronomie-immer-mehr-restaurants-und-bars-von-pleite-bedroht-a-5300d97e-3937-4c5f-b4c4-f93577e6978b#ref=rss)
+* [https://www.spiegel.de/auto/toyota-hilux-britische-werbeaufsicht-verbietet-spot-fuer-gelaendewagen](https://www.spiegel.de/auto/toyota-hilux-britische-werbeaufsicht-verbietet-spot-fuer-gelaendewagen-a-3542a391-9da9-4090-9aab-a157837bb327#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/china-lungenentzuendungen-bei-kindern-who-fordert-informationen](https://www.spiegel.de/wissenschaft/medizin/china-lungenentzuendungen-bei-kindern-who-fordert-informationen-a-6e989c2d-1832-4b02-aeba-d8dc72c41e92#ref=rss)
+* [https://www.spiegel.de/panorama/bibliotheken-gehe-ich-pleite-wenn-ich-ein-buch-meiner-vorfahren-zurueckbringe](https://www.spiegel.de/panorama/bibliotheken-gehe-ich-pleite-wenn-ich-ein-buch-meiner-vorfahren-zurueckbringe-a-2f45284b-daff-4067-a96f-08ef01a50cf9#ref=rss)
+### mehrere
 
-* [https://www.spiegel.de/politik/deutschland/asylpolitik-olaf-scholz-und-giorgia-meloni-setzen-politische-differenzen-ausser-kraft](https://www.spiegel.de/politik/deutschland/asylpolitik-olaf-scholz-und-giorgia-meloni-setzen-politische-differenzen-ausser-kraft-a-507a111b-a6cc-4406-9f68-df9a7f942825#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/haushalt-und-schuldenbremse-die-fatalen-tricks-von-scholz-lindner-und-habeck](https://www.spiegel.de/politik/deutschland/haushalt-und-schuldenbremse-die-fatalen-tricks-von-scholz-lindner-und-habeck-a-2f8363b7-0fbc-444d-b833-d19baf7d4e52#ref=rss)
-### wendler
+* [https://www.spiegel.de/auto/toyota-hilux-britische-werbeaufsicht-verbietet-spot-fuer-gelaendewagen](https://www.spiegel.de/auto/toyota-hilux-britische-werbeaufsicht-verbietet-spot-fuer-gelaendewagen-a-3542a391-9da9-4090-9aab-a157837bb327#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/china-lungenentzuendungen-bei-kindern-who-fordert-informationen](https://www.spiegel.de/wissenschaft/medizin/china-lungenentzuendungen-bei-kindern-who-fordert-informationen-a-6e989c2d-1832-4b02-aeba-d8dc72c41e92#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuerger-durchsuchungen-in-acht-bundeslaendern](https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuerger-durchsuchungen-in-acht-bundeslaendern-a-12548a86-8373-4eda-bd56-ac3238c206d0#ref=rss)
+* [https://www.spiegel.de/ausland/libanon-israel-meldet-schlag-gegen-die-hisbollah](https://www.spiegel.de/ausland/libanon-israel-meldet-schlag-gegen-die-hisbollah-a-7e39e063-afca-4f65-8c5e-edc681a44a61#ref=rss)
+### geert
 
-* [https://www.spiegel.de/panorama/justiz/michael-wendler-muss-wegen-trickserei-mit-lied-rechten-geldstrafe-von-15-000-euro-zahlen](https://www.spiegel.de/panorama/justiz/michael-wendler-muss-wegen-trickserei-mit-lied-rechten-geldstrafe-von-15-000-euro-zahlen-a-e87a40c3-8a51-4d73-9c9e-f603b0bcdc9f#ref=rss)
-### zahlen
+* [https://www.spiegel.de/ausland/wahlsieg-von-geert-wilders-in-den-niederlanden-der-islamfeind-macht-auf-freundlich](https://www.spiegel.de/ausland/wahlsieg-von-geert-wilders-in-den-niederlanden-der-islamfeind-macht-auf-freundlich-a-9fe30fe6-fa00-4c14-b9f8-e6af16e5e931#ref=rss)
+* [https://www.spiegel.de/ausland/geert-wilders-in-den-niederlanden-gewaehlt-die-pressestimmen-der-monstersieg](https://www.spiegel.de/ausland/geert-wilders-in-den-niederlanden-gewaehlt-die-pressestimmen-der-monstersieg-a-2cc5ed56-a543-405a-805c-aaea33c6fa1b#ref=rss)
+### wilders
 
-* [https://www.spiegel.de/panorama/justiz/michael-wendler-muss-wegen-trickserei-mit-lied-rechten-geldstrafe-von-15-000-euro-zahlen](https://www.spiegel.de/panorama/justiz/michael-wendler-muss-wegen-trickserei-mit-lied-rechten-geldstrafe-von-15-000-euro-zahlen-a-e87a40c3-8a51-4d73-9c9e-f603b0bcdc9f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/celtic-glasgow-muss-strafe-zahlen-weil-fans-palaestina-flaggen-zeigten](https://www.spiegel.de/sport/fussball/celtic-glasgow-muss-strafe-zahlen-weil-fans-palaestina-flaggen-zeigten-a-fa1b0d37-3bd0-4697-a31a-213b5fee54c5#ref=rss)
+* [https://www.spiegel.de/ausland/wahlsieg-von-geert-wilders-in-den-niederlanden-der-islamfeind-macht-auf-freundlich](https://www.spiegel.de/ausland/wahlsieg-von-geert-wilders-in-den-niederlanden-der-islamfeind-macht-auf-freundlich-a-9fe30fe6-fa00-4c14-b9f8-e6af16e5e931#ref=rss)
+* [https://www.spiegel.de/ausland/geert-wilders-in-den-niederlanden-gewaehlt-die-pressestimmen-der-monstersieg](https://www.spiegel.de/ausland/geert-wilders-in-den-niederlanden-gewaehlt-die-pressestimmen-der-monstersieg-a-2cc5ed56-a543-405a-805c-aaea33c6fa1b#ref=rss)
+### peter
+
+* [https://www.spiegel.de/panorama/gesellschaft/bundesverfassungsgericht-peter-frank-bisher-generalbundesanwalt-soll-verfassungsrichter-werden](https://www.spiegel.de/panorama/gesellschaft/bundesverfassungsgericht-peter-frank-bisher-generalbundesanwalt-soll-verfassungsrichter-werden-a-8efb5e62-1d96-4da0-8b70-5661d4962753#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/familie/eltern-und-ihre-geschaerften-sinne-dank-meiner-kinder-habe-ich-superkraefte](https://www.spiegel.de/familie/eltern-und-ihre-geschaerften-sinne-dank-meiner-kinder-habe-ich-superkraefte-a-cc3cabe1-1d6a-478d-b2ef-314b37f7524f#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-roter-halbmond-evakuiert-dutzende-menschen-aus-schifa-krankenhaus](https://www.spiegel.de/ausland/israel-gaza-krieg-roter-halbmond-evakuiert-dutzende-menschen-aus-schifa-krankenhaus-a-c3896c4b-97dc-4b52-a1a2-6b3f03546791#ref=rss)
+* [https://www.spiegel.de/start/ernaehrungstherapeut-werden-marvin-meyer-erzaehlt-von-seinem-berufseinstieg-als-diaetassistent](https://www.spiegel.de/start/ernaehrungstherapeut-werden-marvin-meyer-erzaehlt-von-seinem-berufseinstieg-als-diaetassistent-a-77758b92-a93a-4cb3-9b92-f2526637bbb6#ref=rss)
+### opposition
+
+* [https://www.spiegel.de/panorama/leute/italien-minister-laesst-zug-anhalten-um-zu-einem-termin-zu-kommen](https://www.spiegel.de/panorama/leute/italien-minister-laesst-zug-anhalten-um-zu-einem-termin-zu-kommen-a-b8bed6e2-96a3-407a-ac40-851ea0e6fb72#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-ngos-prangern-victor-orbans-gesetzesentwurf-zur-unterdrueckung-der-opposition-an](https://www.spiegel.de/ausland/ungarn-ngos-prangern-victor-orbans-gesetzesentwurf-zur-unterdrueckung-der-opposition-an-a-892d0ae6-bde6-4a07-8a9f-850c2e2ad4b1#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/wissenschaft/medizin/china-lungenentzuendungen-bei-kindern-who-fordert-informationen](https://www.spiegel.de/wissenschaft/medizin/china-lungenentzuendungen-bei-kindern-who-fordert-informationen-a-6e989c2d-1832-4b02-aeba-d8dc72c41e92#ref=rss)
+* [https://www.spiegel.de/sport/fussball/juergen-klinsmann-fordert-freilassung-von-nationalspieler-son-jun-ho-aus-chinesischer-haft](https://www.spiegel.de/sport/fussball/juergen-klinsmann-fordert-freilassung-von-nationalspieler-son-jun-ho-aus-chinesischer-haft-a-9ee0a1ad-1edd-4ce6-8d94-4addcae04d7b#ref=rss)
 ### regierung
 
-* [https://www.spiegel.de/politik/deutschland/haushalt-und-schuldenbremse-die-fatalen-tricks-von-scholz-lindner-und-habeck](https://www.spiegel.de/politik/deutschland/haushalt-und-schuldenbremse-die-fatalen-tricks-von-scholz-lindner-und-habeck-a-2f8363b7-0fbc-444d-b833-d19baf7d4e52#ref=rss)
-* [https://www.spiegel.de/auto/regierung-macht-weg-fuer-100-prozent-frittenfett-im-autotank-frei](https://www.spiegel.de/auto/regierung-macht-weg-fuer-100-prozent-frittenfett-im-autotank-frei-a-040d7262-4365-4999-914e-9d8e180913bb#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-feuerpause-soll-laut-hamas-am-vormittag-beginnen](https://www.spiegel.de/ausland/israel-gaza-krieg-feuerpause-soll-laut-hamas-am-vormittag-beginnen-a-ba8ebdca-ecdf-4532-8c6a-67001a7ff85d#ref=rss)
-### macht
+* [https://www.spiegel.de/wissenschaft/medizin/china-lungenentzuendungen-bei-kindern-who-fordert-informationen](https://www.spiegel.de/wissenschaft/medizin/china-lungenentzuendungen-bei-kindern-who-fordert-informationen-a-6e989c2d-1832-4b02-aeba-d8dc72c41e92#ref=rss)
+* [https://www.spiegel.de/ausland/geert-wilders-in-den-niederlanden-gewaehlt-die-pressestimmen-der-monstersieg](https://www.spiegel.de/ausland/geert-wilders-in-den-niederlanden-gewaehlt-die-pressestimmen-der-monstersieg-a-2cc5ed56-a543-405a-805c-aaea33c6fa1b#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-ngos-prangern-victor-orbans-gesetzesentwurf-zur-unterdrueckung-der-opposition-an](https://www.spiegel.de/ausland/ungarn-ngos-prangern-victor-orbans-gesetzesentwurf-zur-unterdrueckung-der-opposition-an-a-892d0ae6-bde6-4a07-8a9f-850c2e2ad4b1#ref=rss)
+### nordkorea
 
-* [https://www.spiegel.de/kultur/tv/squid-game-the-challenge-bei-netflix-menschenjagd-mit-schwarzer-tinte](https://www.spiegel.de/kultur/tv/squid-game-the-challenge-bei-netflix-menschenjagd-mit-schwarzer-tinte-a-5e8cb3e5-2a89-48a2-8aea-bfcd90f8f570#ref=rss)
-* [https://www.spiegel.de/auto/regierung-macht-weg-fuer-100-prozent-frittenfett-im-autotank-frei](https://www.spiegel.de/auto/regierung-macht-weg-fuer-100-prozent-frittenfett-im-autotank-frei-a-040d7262-4365-4999-914e-9d8e180913bb#ref=rss)
-* [https://www.spiegel.de/deinspiegel/marc-uwe-kling-im-kinder-interview-wenn-ich-schreibe-bekomme-ich-gute-laune](https://www.spiegel.de/deinspiegel/marc-uwe-kling-im-kinder-interview-wenn-ich-schreibe-bekomme-ich-gute-laune-a-320cbabe-a2c5-4c4f-8d92-27ba11436ce6#ref=rss)
-### lukas
+* [https://www.spiegel.de/ausland/nordkorea-setzt-militaerabkommen-mit-suedkorea-aus-und-verlegt-waffen-an-die-grenze](https://www.spiegel.de/ausland/nordkorea-setzt-militaerabkommen-mit-suedkorea-aus-und-verlegt-waffen-an-die-grenze-a-dbc356b6-a7d6-435b-bcbf-42eea0c05180#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/politik/deutschland/lukas-kilian-frau-schlaegt-in-kiel-mit-hammer-auf-auto-eines-cdu-abgeordneten-ein](https://www.spiegel.de/politik/deutschland/lukas-kilian-frau-schlaegt-in-kiel-mit-hammer-auf-auto-eines-cdu-abgeordneten-ein-a-50a01193-0c90-4b97-a946-77bf6a88c01e#ref=rss)
-### kilian
+* [https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuerger-durchsuchungen-in-acht-bundeslaendern](https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuerger-durchsuchungen-in-acht-bundeslaendern-a-12548a86-8373-4eda-bd56-ac3238c206d0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/warnstreiks-in-gesundheitswesen-und-polizei-wo-kommende-woche-gestreikt-werden-soll](https://www.spiegel.de/wirtschaft/warnstreiks-in-gesundheitswesen-und-polizei-wo-kommende-woche-gestreikt-werden-soll-a-b51623d3-4347-44e9-bc4b-6e9847da3a20#ref=rss)
+### wohl
 
-* [https://www.spiegel.de/politik/deutschland/lukas-kilian-frau-schlaegt-in-kiel-mit-hammer-auf-auto-eines-cdu-abgeordneten-ein](https://www.spiegel.de/politik/deutschland/lukas-kilian-frau-schlaegt-in-kiel-mit-hammer-auf-auto-eines-cdu-abgeordneten-ein-a-50a01193-0c90-4b97-a946-77bf6a88c01e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/salzgitter-atommuelllager-schacht-konrad-wird-wohl-deutlich-teurer](https://www.spiegel.de/wirtschaft/salzgitter-atommuelllager-schacht-konrad-wird-wohl-deutlich-teurer-a-435c7d82-6ef0-4dbf-949c-8117103e66b1#ref=rss)
+* [https://www.spiegel.de/panorama/suederholz-brand-in-reihenhaus-bellender-hund-rettet-schlafende-bewohner](https://www.spiegel.de/panorama/suederholz-brand-in-reihenhaus-bellender-hund-rettet-schlafende-bewohner-a-a6a166c1-ebcc-40cc-b392-152be84e4f36#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-geiseln-kommen-offenbar-fruehstens-freitag-frei](https://www.spiegel.de/ausland/israel-hamas-geiseln-kommen-offenbar-fruehstens-freitag-frei-a-f3d0a871-2951-44b7-bfa1-6cb709768f50#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/libanon-israel-meldet-schlag-gegen-die-hisbollah](https://www.spiegel.de/ausland/libanon-israel-meldet-schlag-gegen-die-hisbollah-a-7e39e063-afca-4f65-8c5e-edc681a44a61#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-geiseln-kommen-offenbar-fruehstens-freitag-frei](https://www.spiegel.de/ausland/israel-hamas-geiseln-kommen-offenbar-fruehstens-freitag-frei-a-f3d0a871-2951-44b7-bfa1-6cb709768f50#ref=rss)
+### getötet
+
+* [https://www.spiegel.de/ausland/libanon-israel-meldet-schlag-gegen-die-hisbollah](https://www.spiegel.de/ausland/libanon-israel-meldet-schlag-gegen-die-hisbollah-a-7e39e063-afca-4f65-8c5e-edc681a44a61#ref=rss)
+* [https://www.spiegel.de/wissenschaft/vogelgrippe-in-deutschland-und-daenemark-ausbruch-auf-gefluegelhoefen-zehntausende-tiere-getoetet](https://www.spiegel.de/wissenschaft/vogelgrippe-in-deutschland-und-daenemark-ausbruch-auf-gefluegelhoefen-zehntausende-tiere-getoetet-a-6873bdd7-6705-49c6-98e6-3eb8f9465b34#ref=rss)
+### echt
+
+* [https://www.spiegel.de/kultur/tv/echt-unsere-jugend-ard-doku-von-kim-frank-ueber-teeniestars](https://www.spiegel.de/kultur/tv/echt-unsere-jugend-ard-doku-von-kim-frank-ueber-teeniestars-a-917fb143-842e-4139-b5db-565776ab6e48#ref=rss)
+### arddoku
+
+* [https://www.spiegel.de/kultur/tv/echt-unsere-jugend-ard-doku-von-kim-frank-ueber-teeniestars](https://www.spiegel.de/kultur/tv/echt-unsere-jugend-ard-doku-von-kim-frank-ueber-teeniestars-a-917fb143-842e-4139-b5db-565776ab6e48#ref=rss)
+### kim
+
+* [https://www.spiegel.de/kultur/tv/echt-unsere-jugend-ard-doku-von-kim-frank-ueber-teeniestars](https://www.spiegel.de/kultur/tv/echt-unsere-jugend-ard-doku-von-kim-frank-ueber-teeniestars-a-917fb143-842e-4139-b5db-565776ab6e48#ref=rss)
+### spielten
+
+* [https://www.spiegel.de/kultur/tv/echt-unsere-jugend-ard-doku-von-kim-frank-ueber-teeniestars](https://www.spiegel.de/kultur/tv/echt-unsere-jugend-ard-doku-von-kim-frank-ueber-teeniestars-a-917fb143-842e-4139-b5db-565776ab6e48#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-franz-wagner-fuehrt-seine-orlando-magic-zum-sieg-ueber-die-denver-nuggets](https://www.spiegel.de/sport/basketball/nba-franz-wagner-fuehrt-seine-orlando-magic-zum-sieg-ueber-die-denver-nuggets-a-6dabc4ba-5f78-446b-825a-6f6017b26470#ref=rss)
+### dezember
+
+* [https://www.spiegel.de/netzwelt/web/vodafone-verschenkt-im-dezember-500-gigabyte-datenvolumen](https://www.spiegel.de/netzwelt/web/vodafone-verschenkt-im-dezember-500-gigabyte-datenvolumen-a-b446bc26-fa61-4e00-82e7-179c531ea70d#ref=rss)
+### datenvolumen
+
+* [https://www.spiegel.de/netzwelt/web/vodafone-verschenkt-im-dezember-500-gigabyte-datenvolumen](https://www.spiegel.de/netzwelt/web/vodafone-verschenkt-im-dezember-500-gigabyte-datenvolumen-a-b446bc26-fa61-4e00-82e7-179c531ea70d#ref=rss)
+### meiner
+
+* [https://www.spiegel.de/familie/eltern-und-ihre-geschaerften-sinne-dank-meiner-kinder-habe-ich-superkraefte](https://www.spiegel.de/familie/eltern-und-ihre-geschaerften-sinne-dank-meiner-kinder-habe-ich-superkraefte-a-cc3cabe1-1d6a-478d-b2ef-314b37f7524f#ref=rss)
+* [https://www.spiegel.de/panorama/bibliotheken-gehe-ich-pleite-wenn-ich-ein-buch-meiner-vorfahren-zurueckbringe](https://www.spiegel.de/panorama/bibliotheken-gehe-ich-pleite-wenn-ich-ein-buch-meiner-vorfahren-zurueckbringe-a-2f45284b-daff-4067-a96f-08ef01a50cf9#ref=rss)
+### andere
+
+* [https://www.spiegel.de/familie/eltern-und-ihre-geschaerften-sinne-dank-meiner-kinder-habe-ich-superkraefte](https://www.spiegel.de/familie/eltern-und-ihre-geschaerften-sinne-dank-meiner-kinder-habe-ich-superkraefte-a-cc3cabe1-1d6a-478d-b2ef-314b37f7524f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/warnstreiks-in-gesundheitswesen-und-polizei-wo-kommende-woche-gestreikt-werden-soll](https://www.spiegel.de/wirtschaft/warnstreiks-in-gesundheitswesen-und-polizei-wo-kommende-woche-gestreikt-werden-soll-a-b51623d3-4347-44e9-bc4b-6e9847da3a20#ref=rss)
+### pleite
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/crif-analyse-zur-gastronomie-immer-mehr-restaurants-und-bars-von-pleite-bedroht](https://www.spiegel.de/wirtschaft/unternehmen/crif-analyse-zur-gastronomie-immer-mehr-restaurants-und-bars-von-pleite-bedroht-a-5300d97e-3937-4c5f-b4c4-f93577e6978b#ref=rss)
+* [https://www.spiegel.de/panorama/bibliotheken-gehe-ich-pleite-wenn-ich-ein-buch-meiner-vorfahren-zurueckbringe](https://www.spiegel.de/panorama/bibliotheken-gehe-ich-pleite-wenn-ich-ein-buch-meiner-vorfahren-zurueckbringe-a-2f45284b-daff-4067-a96f-08ef01a50cf9#ref=rss)
+### laut
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/crif-analyse-zur-gastronomie-immer-mehr-restaurants-und-bars-von-pleite-bedroht](https://www.spiegel.de/wirtschaft/unternehmen/crif-analyse-zur-gastronomie-immer-mehr-restaurants-und-bars-von-pleite-bedroht-a-5300d97e-3937-4c5f-b4c4-f93577e6978b#ref=rss)
+* [https://www.spiegel.de/ausland/libanon-israel-meldet-schlag-gegen-die-hisbollah](https://www.spiegel.de/ausland/libanon-israel-meldet-schlag-gegen-die-hisbollah-a-7e39e063-afca-4f65-8c5e-edc681a44a61#ref=rss)
+### fdp
+
+* [https://www.spiegel.de/politik/deutschland/fdp-39-fdp-politikerinnen-und-politiker-plaedieren-fuer-den-verbleib-in-der-ampel](https://www.spiegel.de/politik/deutschland/fdp-39-fdp-politikerinnen-und-politiker-plaedieren-fuer-den-verbleib-in-der-ampel-a-99020487-6d97-4229-bf6a-9a74aeea599d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/haushaltskrise-spd-politiker-machen-druck-auf-lindner](https://www.spiegel.de/politik/deutschland/haushaltskrise-spd-politiker-machen-druck-auf-lindner-a-1fcc7350-d1c7-417d-92fa-0cc94927415a#ref=rss)
+### 39
+
+* [https://www.spiegel.de/politik/deutschland/fdp-39-fdp-politikerinnen-und-politiker-plaedieren-fuer-den-verbleib-in-der-ampel](https://www.spiegel.de/politik/deutschland/fdp-39-fdp-politikerinnen-und-politiker-plaedieren-fuer-den-verbleib-in-der-ampel-a-99020487-6d97-4229-bf6a-9a74aeea599d#ref=rss)
+### plädieren
+
+* [https://www.spiegel.de/politik/deutschland/fdp-39-fdp-politikerinnen-und-politiker-plaedieren-fuer-den-verbleib-in-der-ampel](https://www.spiegel.de/politik/deutschland/fdp-39-fdp-politikerinnen-und-politiker-plaedieren-fuer-den-verbleib-in-der-ampel-a-99020487-6d97-4229-bf6a-9a74aeea599d#ref=rss)
+### verbleib
+
+* [https://www.spiegel.de/politik/deutschland/fdp-39-fdp-politikerinnen-und-politiker-plaedieren-fuer-den-verbleib-in-der-ampel](https://www.spiegel.de/politik/deutschland/fdp-39-fdp-politikerinnen-und-politiker-plaedieren-fuer-den-verbleib-in-der-ampel-a-99020487-6d97-4229-bf6a-9a74aeea599d#ref=rss)
+### ampel
+
+* [https://www.spiegel.de/politik/deutschland/fdp-39-fdp-politikerinnen-und-politiker-plaedieren-fuer-den-verbleib-in-der-ampel](https://www.spiegel.de/politik/deutschland/fdp-39-fdp-politikerinnen-und-politiker-plaedieren-fuer-den-verbleib-in-der-ampel-a-99020487-6d97-4229-bf6a-9a74aeea599d#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/fdp-39-fdp-politikerinnen-und-politiker-plaedieren-fuer-den-verbleib-in-der-ampel](https://www.spiegel.de/politik/deutschland/fdp-39-fdp-politikerinnen-und-politiker-plaedieren-fuer-den-verbleib-in-der-ampel-a-99020487-6d97-4229-bf6a-9a74aeea599d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/haushaltskrise-spd-politiker-machen-druck-auf-lindner](https://www.spiegel.de/politik/deutschland/haushaltskrise-spd-politiker-machen-druck-auf-lindner-a-1fcc7350-d1c7-417d-92fa-0cc94927415a#ref=rss)
+### grünen
+
+* [https://www.spiegel.de/politik/deutschland/fdp-39-fdp-politikerinnen-und-politiker-plaedieren-fuer-den-verbleib-in-der-ampel](https://www.spiegel.de/politik/deutschland/fdp-39-fdp-politikerinnen-und-politiker-plaedieren-fuer-den-verbleib-in-der-ampel-a-99020487-6d97-4229-bf6a-9a74aeea599d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ricarda-lang-haelt-eigene-partei-nicht-ganz-unschuldig-an-vorurteilen](https://www.spiegel.de/politik/deutschland/ricarda-lang-haelt-eigene-partei-nicht-ganz-unschuldig-an-vorurteilen-a-b4de1c74-2d3c-45b7-8fbd-ea08d7c418fc#ref=rss)
+### lang
+
+* [https://www.spiegel.de/politik/deutschland/ricarda-lang-haelt-eigene-partei-nicht-ganz-unschuldig-an-vorurteilen](https://www.spiegel.de/politik/deutschland/ricarda-lang-haelt-eigene-partei-nicht-ganz-unschuldig-an-vorurteilen-a-b4de1c74-2d3c-45b7-8fbd-ea08d7c418fc#ref=rss)
+### toyota
+
+* [https://www.spiegel.de/auto/toyota-hilux-britische-werbeaufsicht-verbietet-spot-fuer-gelaendewagen](https://www.spiegel.de/auto/toyota-hilux-britische-werbeaufsicht-verbietet-spot-fuer-gelaendewagen-a-3542a391-9da9-4090-9aab-a157837bb327#ref=rss)
+### verbietet
+
+* [https://www.spiegel.de/auto/toyota-hilux-britische-werbeaufsicht-verbietet-spot-fuer-gelaendewagen](https://www.spiegel.de/auto/toyota-hilux-britische-werbeaufsicht-verbietet-spot-fuer-gelaendewagen-a-3542a391-9da9-4090-9aab-a157837bb327#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-ngos-prangern-victor-orbans-gesetzesentwurf-zur-unterdrueckung-der-opposition-an](https://www.spiegel.de/ausland/ungarn-ngos-prangern-victor-orbans-gesetzesentwurf-zur-unterdrueckung-der-opposition-an-a-892d0ae6-bde6-4a07-8a9f-850c2e2ad4b1#ref=rss)
+### spot
+
+* [https://www.spiegel.de/auto/toyota-hilux-britische-werbeaufsicht-verbietet-spot-fuer-gelaendewagen](https://www.spiegel.de/auto/toyota-hilux-britische-werbeaufsicht-verbietet-spot-fuer-gelaendewagen-a-3542a391-9da9-4090-9aab-a157837bb327#ref=rss)
+### niederlanden
+
+* [https://www.spiegel.de/ausland/wahlsieg-von-geert-wilders-in-den-niederlanden-der-islamfeind-macht-auf-freundlich](https://www.spiegel.de/ausland/wahlsieg-von-geert-wilders-in-den-niederlanden-der-islamfeind-macht-auf-freundlich-a-9fe30fe6-fa00-4c14-b9f8-e6af16e5e931#ref=rss)
+* [https://www.spiegel.de/ausland/geert-wilders-in-den-niederlanden-gewaehlt-die-pressestimmen-der-monstersieg](https://www.spiegel.de/ausland/geert-wilders-in-den-niederlanden-gewaehlt-die-pressestimmen-der-monstersieg-a-2cc5ed56-a543-405a-805c-aaea33c6fa1b#ref=rss)
+### parteien
+
+* [https://www.spiegel.de/ausland/wahlsieg-von-geert-wilders-in-den-niederlanden-der-islamfeind-macht-auf-freundlich](https://www.spiegel.de/ausland/wahlsieg-von-geert-wilders-in-den-niederlanden-der-islamfeind-macht-auf-freundlich-a-9fe30fe6-fa00-4c14-b9f8-e6af16e5e931#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-ngos-prangern-victor-orbans-gesetzesentwurf-zur-unterdrueckung-der-opposition-an](https://www.spiegel.de/ausland/ungarn-ngos-prangern-victor-orbans-gesetzesentwurf-zur-unterdrueckung-der-opposition-an-a-892d0ae6-bde6-4a07-8a9f-850c2e2ad4b1#ref=rss)
+### zug
+
+* [https://www.spiegel.de/panorama/leute/italien-minister-laesst-zug-anhalten-um-zu-einem-termin-zu-kommen](https://www.spiegel.de/panorama/leute/italien-minister-laesst-zug-anhalten-um-zu-einem-termin-zu-kommen-a-b8bed6e2-96a3-407a-ac40-851ea0e6fb72#ref=rss)
+### kommen
+
+* [https://www.spiegel.de/panorama/leute/italien-minister-laesst-zug-anhalten-um-zu-einem-termin-zu-kommen](https://www.spiegel.de/panorama/leute/italien-minister-laesst-zug-anhalten-um-zu-einem-termin-zu-kommen-a-b8bed6e2-96a3-407a-ac40-851ea0e6fb72#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-geiseln-kommen-offenbar-fruehstens-freitag-frei](https://www.spiegel.de/ausland/israel-hamas-geiseln-kommen-offenbar-fruehstens-freitag-frei-a-f3d0a871-2951-44b7-bfa1-6cb709768f50#ref=rss)
+### san
+
+* [https://www.spiegel.de/sport/basketball/san-antonio-spurs-trainer-popovich-unterbricht-spiel-und-tadelt-die-eigenen-fans](https://www.spiegel.de/sport/basketball/san-antonio-spurs-trainer-popovich-unterbricht-spiel-und-tadelt-die-eigenen-fans-a-44d3a63f-54dd-4066-b04a-0e613853784f#ref=rss)
+### antonio
+
+* [https://www.spiegel.de/sport/basketball/san-antonio-spurs-trainer-popovich-unterbricht-spiel-und-tadelt-die-eigenen-fans](https://www.spiegel.de/sport/basketball/san-antonio-spurs-trainer-popovich-unterbricht-spiel-und-tadelt-die-eigenen-fans-a-44d3a63f-54dd-4066-b04a-0e613853784f#ref=rss)
+### spurs
+
+* [https://www.spiegel.de/sport/basketball/san-antonio-spurs-trainer-popovich-unterbricht-spiel-und-tadelt-die-eigenen-fans](https://www.spiegel.de/sport/basketball/san-antonio-spurs-trainer-popovich-unterbricht-spiel-und-tadelt-die-eigenen-fans-a-44d3a63f-54dd-4066-b04a-0e613853784f#ref=rss)
+### spiel
+
+* [https://www.spiegel.de/sport/basketball/san-antonio-spurs-trainer-popovich-unterbricht-spiel-und-tadelt-die-eigenen-fans](https://www.spiegel.de/sport/basketball/san-antonio-spurs-trainer-popovich-unterbricht-spiel-und-tadelt-die-eigenen-fans-a-44d3a63f-54dd-4066-b04a-0e613853784f#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-franz-wagner-fuehrt-seine-orlando-magic-zum-sieg-ueber-die-denver-nuggets](https://www.spiegel.de/sport/basketball/nba-franz-wagner-fuehrt-seine-orlando-magic-zum-sieg-ueber-die-denver-nuggets-a-6dabc4ba-5f78-446b-825a-6f6017b26470#ref=rss)
+### später
+
+* [https://www.spiegel.de/sport/basketball/san-antonio-spurs-trainer-popovich-unterbricht-spiel-und-tadelt-die-eigenen-fans](https://www.spiegel.de/sport/basketball/san-antonio-spurs-trainer-popovich-unterbricht-spiel-und-tadelt-die-eigenen-fans-a-44d3a63f-54dd-4066-b04a-0e613853784f#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-geiseln-kommen-offenbar-fruehstens-freitag-frei](https://www.spiegel.de/ausland/israel-hamas-geiseln-kommen-offenbar-fruehstens-freitag-frei-a-f3d0a871-2951-44b7-bfa1-6cb709768f50#ref=rss)
+### kindern
+
+* [https://www.spiegel.de/wissenschaft/medizin/china-lungenentzuendungen-bei-kindern-who-fordert-informationen](https://www.spiegel.de/wissenschaft/medizin/china-lungenentzuendungen-bei-kindern-who-fordert-informationen-a-6e989c2d-1832-4b02-aeba-d8dc72c41e92#ref=rss)
+### who
+
+* [https://www.spiegel.de/wissenschaft/medizin/china-lungenentzuendungen-bei-kindern-who-fordert-informationen](https://www.spiegel.de/wissenschaft/medizin/china-lungenentzuendungen-bei-kindern-who-fordert-informationen-a-6e989c2d-1832-4b02-aeba-d8dc72c41e92#ref=rss)
+### militärabkommen
+
+* [https://www.spiegel.de/ausland/nordkorea-setzt-militaerabkommen-mit-suedkorea-aus-und-verlegt-waffen-an-die-grenze](https://www.spiegel.de/ausland/nordkorea-setzt-militaerabkommen-mit-suedkorea-aus-und-verlegt-waffen-an-die-grenze-a-dbc356b6-a7d6-435b-bcbf-42eea0c05180#ref=rss)
+### südkorea
+
+* [https://www.spiegel.de/ausland/nordkorea-setzt-militaerabkommen-mit-suedkorea-aus-und-verlegt-waffen-an-die-grenze](https://www.spiegel.de/ausland/nordkorea-setzt-militaerabkommen-mit-suedkorea-aus-und-verlegt-waffen-an-die-grenze-a-dbc356b6-a7d6-435b-bcbf-42eea0c05180#ref=rss)
+### waffen
+
+* [https://www.spiegel.de/ausland/nordkorea-setzt-militaerabkommen-mit-suedkorea-aus-und-verlegt-waffen-an-die-grenze](https://www.spiegel.de/ausland/nordkorea-setzt-militaerabkommen-mit-suedkorea-aus-und-verlegt-waffen-an-die-grenze-a-dbc356b6-a7d6-435b-bcbf-42eea0c05180#ref=rss)
+### grenze
+
+* [https://www.spiegel.de/ausland/nordkorea-setzt-militaerabkommen-mit-suedkorea-aus-und-verlegt-waffen-an-die-grenze](https://www.spiegel.de/ausland/nordkorea-setzt-militaerabkommen-mit-suedkorea-aus-und-verlegt-waffen-an-die-grenze-a-dbc356b6-a7d6-435b-bcbf-42eea0c05180#ref=rss)
+### buch
+
+* [https://www.spiegel.de/panorama/bibliotheken-gehe-ich-pleite-wenn-ich-ein-buch-meiner-vorfahren-zurueckbringe](https://www.spiegel.de/panorama/bibliotheken-gehe-ich-pleite-wenn-ich-ein-buch-meiner-vorfahren-zurueckbringe-a-2f45284b-daff-4067-a96f-08ef01a50cf9#ref=rss)
+### hundert
+
+* [https://www.spiegel.de/panorama/bibliotheken-gehe-ich-pleite-wenn-ich-ein-buch-meiner-vorfahren-zurueckbringe](https://www.spiegel.de/panorama/bibliotheken-gehe-ich-pleite-wenn-ich-ein-buch-meiner-vorfahren-zurueckbringe-a-2f45284b-daff-4067-a96f-08ef01a50cf9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuerger-durchsuchungen-in-acht-bundeslaendern](https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuerger-durchsuchungen-in-acht-bundeslaendern-a-12548a86-8373-4eda-bd56-ac3238c206d0#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/panorama/bibliotheken-gehe-ich-pleite-wenn-ich-ein-buch-meiner-vorfahren-zurueckbringe](https://www.spiegel.de/panorama/bibliotheken-gehe-ich-pleite-wenn-ich-ein-buch-meiner-vorfahren-zurueckbringe-a-2f45284b-daff-4067-a96f-08ef01a50cf9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/vogelgrippe-in-deutschland-und-daenemark-ausbruch-auf-gefluegelhoefen-zehntausende-tiere-getoetet](https://www.spiegel.de/wissenschaft/vogelgrippe-in-deutschland-und-daenemark-ausbruch-auf-gefluegelhoefen-zehntausende-tiere-getoetet-a-6873bdd7-6705-49c6-98e6-3eb8f9465b34#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/politik/deutschland/haushaltskrise-spd-politiker-machen-druck-auf-lindner](https://www.spiegel.de/politik/deutschland/haushaltskrise-spd-politiker-machen-druck-auf-lindner-a-1fcc7350-d1c7-417d-92fa-0cc94927415a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/warnstreiks-in-gesundheitswesen-und-polizei-wo-kommende-woche-gestreikt-werden-soll](https://www.spiegel.de/wirtschaft/warnstreiks-in-gesundheitswesen-und-polizei-wo-kommende-woche-gestreikt-werden-soll-a-b51623d3-4347-44e9-bc4b-6e9847da3a20#ref=rss)
+### halbmond
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-roter-halbmond-evakuiert-dutzende-menschen-aus-schifa-krankenhaus](https://www.spiegel.de/ausland/israel-gaza-krieg-roter-halbmond-evakuiert-dutzende-menschen-aus-schifa-krankenhaus-a-c3896c4b-97dc-4b52-a1a2-6b3f03546791#ref=rss)
+### schifakrankenhaus
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-roter-halbmond-evakuiert-dutzende-menschen-aus-schifa-krankenhaus](https://www.spiegel.de/ausland/israel-gaza-krieg-roter-halbmond-evakuiert-dutzende-menschen-aus-schifa-krankenhaus-a-c3896c4b-97dc-4b52-a1a2-6b3f03546791#ref=rss)
+### reichsbürger
+
+* [https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuerger-durchsuchungen-in-acht-bundeslaendern](https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuerger-durchsuchungen-in-acht-bundeslaendern-a-12548a86-8373-4eda-bd56-ac3238c206d0#ref=rss)
+### acht
+
+* [https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuerger-durchsuchungen-in-acht-bundeslaendern](https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuerger-durchsuchungen-in-acht-bundeslaendern-a-12548a86-8373-4eda-bd56-ac3238c206d0#ref=rss)
+### bundesländern
+
+* [https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuerger-durchsuchungen-in-acht-bundeslaendern](https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuerger-durchsuchungen-in-acht-bundeslaendern-a-12548a86-8373-4eda-bd56-ac3238c206d0#ref=rss)
+### jürgen
+
+* [https://www.spiegel.de/sport/fussball/juergen-klinsmann-fordert-freilassung-von-nationalspieler-son-jun-ho-aus-chinesischer-haft](https://www.spiegel.de/sport/fussball/juergen-klinsmann-fordert-freilassung-von-nationalspieler-son-jun-ho-aus-chinesischer-haft-a-9ee0a1ad-1edd-4ce6-8d94-4addcae04d7b#ref=rss)
+### klinsmann
+
+* [https://www.spiegel.de/sport/fussball/juergen-klinsmann-fordert-freilassung-von-nationalspieler-son-jun-ho-aus-chinesischer-haft](https://www.spiegel.de/sport/fussball/juergen-klinsmann-fordert-freilassung-von-nationalspieler-son-jun-ho-aus-chinesischer-haft-a-9ee0a1ad-1edd-4ce6-8d94-4addcae04d7b#ref=rss)
+### son
+
+* [https://www.spiegel.de/sport/fussball/juergen-klinsmann-fordert-freilassung-von-nationalspieler-son-jun-ho-aus-chinesischer-haft](https://www.spiegel.de/sport/fussball/juergen-klinsmann-fordert-freilassung-von-nationalspieler-son-jun-ho-aus-chinesischer-haft-a-9ee0a1ad-1edd-4ce6-8d94-4addcae04d7b#ref=rss)
+### junho
+
+* [https://www.spiegel.de/sport/fussball/juergen-klinsmann-fordert-freilassung-von-nationalspieler-son-jun-ho-aus-chinesischer-haft](https://www.spiegel.de/sport/fussball/juergen-klinsmann-fordert-freilassung-von-nationalspieler-son-jun-ho-aus-chinesischer-haft-a-9ee0a1ad-1edd-4ce6-8d94-4addcae04d7b#ref=rss)
+### unrecht
+
+* [https://www.spiegel.de/sport/fussball/juergen-klinsmann-fordert-freilassung-von-nationalspieler-son-jun-ho-aus-chinesischer-haft](https://www.spiegel.de/sport/fussball/juergen-klinsmann-fordert-freilassung-von-nationalspieler-son-jun-ho-aus-chinesischer-haft-a-9ee0a1ad-1edd-4ce6-8d94-4addcae04d7b#ref=rss)
+* [https://www.spiegel.de/start/ernaehrungstherapeut-werden-marvin-meyer-erzaehlt-von-seinem-berufseinstieg-als-diaetassistent](https://www.spiegel.de/start/ernaehrungstherapeut-werden-marvin-meyer-erzaehlt-von-seinem-berufseinstieg-als-diaetassistent-a-77758b92-a93a-4cb3-9b92-f2526637bbb6#ref=rss)
+### schacht
+
+* [https://www.spiegel.de/wirtschaft/salzgitter-atommuelllager-schacht-konrad-wird-wohl-deutlich-teurer](https://www.spiegel.de/wirtschaft/salzgitter-atommuelllager-schacht-konrad-wird-wohl-deutlich-teurer-a-435c7d82-6ef0-4dbf-949c-8117103e66b1#ref=rss)
+### konrad
+
+* [https://www.spiegel.de/wirtschaft/salzgitter-atommuelllager-schacht-konrad-wird-wohl-deutlich-teurer](https://www.spiegel.de/wirtschaft/salzgitter-atommuelllager-schacht-konrad-wird-wohl-deutlich-teurer-a-435c7d82-6ef0-4dbf-949c-8117103e66b1#ref=rss)
+### deutlich
+
+* [https://www.spiegel.de/wirtschaft/salzgitter-atommuelllager-schacht-konrad-wird-wohl-deutlich-teurer](https://www.spiegel.de/wirtschaft/salzgitter-atommuelllager-schacht-konrad-wird-wohl-deutlich-teurer-a-435c7d82-6ef0-4dbf-949c-8117103e66b1#ref=rss)
+### teurer
+
+* [https://www.spiegel.de/wirtschaft/salzgitter-atommuelllager-schacht-konrad-wird-wohl-deutlich-teurer](https://www.spiegel.de/wirtschaft/salzgitter-atommuelllager-schacht-konrad-wird-wohl-deutlich-teurer-a-435c7d82-6ef0-4dbf-949c-8117103e66b1#ref=rss)
+### hund
+
+* [https://www.spiegel.de/panorama/suederholz-brand-in-reihenhaus-bellender-hund-rettet-schlafende-bewohner](https://www.spiegel.de/panorama/suederholz-brand-in-reihenhaus-bellender-hund-rettet-schlafende-bewohner-a-a6a166c1-ebcc-40cc-b392-152be84e4f36#ref=rss)
+### bewohner
+
+* [https://www.spiegel.de/panorama/suederholz-brand-in-reihenhaus-bellender-hund-rettet-schlafende-bewohner](https://www.spiegel.de/panorama/suederholz-brand-in-reihenhaus-bellender-hund-rettet-schlafende-bewohner-a-a6a166c1-ebcc-40cc-b392-152be84e4f36#ref=rss)
+### marvin
+
+* [https://www.spiegel.de/start/ernaehrungstherapeut-werden-marvin-meyer-erzaehlt-von-seinem-berufseinstieg-als-diaetassistent](https://www.spiegel.de/start/ernaehrungstherapeut-werden-marvin-meyer-erzaehlt-von-seinem-berufseinstieg-als-diaetassistent-a-77758b92-a93a-4cb3-9b92-f2526637bbb6#ref=rss)
+### meyer
+
+* [https://www.spiegel.de/start/ernaehrungstherapeut-werden-marvin-meyer-erzaehlt-von-seinem-berufseinstieg-als-diaetassistent](https://www.spiegel.de/start/ernaehrungstherapeut-werden-marvin-meyer-erzaehlt-von-seinem-berufseinstieg-als-diaetassistent-a-77758b92-a93a-4cb3-9b92-f2526637bbb6#ref=rss)
+### denver
+
+* [https://www.spiegel.de/sport/basketball/nba-franz-wagner-fuehrt-seine-orlando-magic-zum-sieg-ueber-die-denver-nuggets](https://www.spiegel.de/sport/basketball/nba-franz-wagner-fuehrt-seine-orlando-magic-zum-sieg-ueber-die-denver-nuggets-a-6dabc4ba-5f78-446b-825a-6f6017b26470#ref=rss)
+### jamie
+
+* [https://www.spiegel.de/panorama/leute/jamie-foxx-frau-wirft-schauspieler-sexuellen-uebergriff-auf-party-vor](https://www.spiegel.de/panorama/leute/jamie-foxx-frau-wirft-schauspieler-sexuellen-uebergriff-auf-party-vor-a-8df3a8dd-ba1b-42bc-900a-0dcc0864852f#ref=rss)
+### foxx
+
+* [https://www.spiegel.de/panorama/leute/jamie-foxx-frau-wirft-schauspieler-sexuellen-uebergriff-auf-party-vor](https://www.spiegel.de/panorama/leute/jamie-foxx-frau-wirft-schauspieler-sexuellen-uebergriff-auf-party-vor-a-8df3a8dd-ba1b-42bc-900a-0dcc0864852f#ref=rss)
 ### frau
 
-* [https://www.spiegel.de/politik/deutschland/lukas-kilian-frau-schlaegt-in-kiel-mit-hammer-auf-auto-eines-cdu-abgeordneten-ein](https://www.spiegel.de/politik/deutschland/lukas-kilian-frau-schlaegt-in-kiel-mit-hammer-auf-auto-eines-cdu-abgeordneten-ein-a-50a01193-0c90-4b97-a946-77bf6a88c01e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-krankenpfleger-soll-patientin-sediert-und-sexuell-missbraucht-haben](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-krankenpfleger-soll-patientin-sediert-und-sexuell-missbraucht-haben-a-61b818f0-8f12-4c5e-87d4-36530cd85d33#ref=rss)
-### auto
+* [https://www.spiegel.de/panorama/leute/jamie-foxx-frau-wirft-schauspieler-sexuellen-uebergriff-auf-party-vor](https://www.spiegel.de/panorama/leute/jamie-foxx-frau-wirft-schauspieler-sexuellen-uebergriff-auf-party-vor-a-8df3a8dd-ba1b-42bc-900a-0dcc0864852f#ref=rss)
+### schauspieler
 
-* [https://www.spiegel.de/politik/deutschland/lukas-kilian-frau-schlaegt-in-kiel-mit-hammer-auf-auto-eines-cdu-abgeordneten-ein](https://www.spiegel.de/politik/deutschland/lukas-kilian-frau-schlaegt-in-kiel-mit-hammer-auf-auto-eines-cdu-abgeordneten-ein-a-50a01193-0c90-4b97-a946-77bf6a88c01e#ref=rss)
-### ermittelt
+* [https://www.spiegel.de/panorama/leute/jamie-foxx-frau-wirft-schauspieler-sexuellen-uebergriff-auf-party-vor](https://www.spiegel.de/panorama/leute/jamie-foxx-frau-wirft-schauspieler-sexuellen-uebergriff-auf-party-vor-a-8df3a8dd-ba1b-42bc-900a-0dcc0864852f#ref=rss)
+### party
 
-* [https://www.spiegel.de/politik/deutschland/lukas-kilian-frau-schlaegt-in-kiel-mit-hammer-auf-auto-eines-cdu-abgeordneten-ein](https://www.spiegel.de/politik/deutschland/lukas-kilian-frau-schlaegt-in-kiel-mit-hammer-auf-auto-eines-cdu-abgeordneten-ein-a-50a01193-0c90-4b97-a946-77bf6a88c01e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-jugendliche-sollen-einkaufswagen-von-hochhaus-geworfen-haben](https://www.spiegel.de/panorama/justiz/berlin-jugendliche-sollen-einkaufswagen-von-hochhaus-geworfen-haben-a-ca6b58bd-d374-4729-9cae-4afd8a1887a2#ref=rss)
-### ullrich
+* [https://www.spiegel.de/panorama/leute/jamie-foxx-frau-wirft-schauspieler-sexuellen-uebergriff-auf-party-vor](https://www.spiegel.de/panorama/leute/jamie-foxx-frau-wirft-schauspieler-sexuellen-uebergriff-auf-party-vor-a-8df3a8dd-ba1b-42bc-900a-0dcc0864852f#ref=rss)
+### libanon
 
-* [https://www.spiegel.de/sport/ex-radprofi-jan-ullrich-gesteht-doping](https://www.spiegel.de/sport/ex-radprofi-jan-ullrich-gesteht-doping-a-e91af826-9bab-4c8a-b2f0-5e29c0787fe3#ref=rss)
-### erstmals
+* [https://www.spiegel.de/ausland/libanon-israel-meldet-schlag-gegen-die-hisbollah](https://www.spiegel.de/ausland/libanon-israel-meldet-schlag-gegen-die-hisbollah-a-7e39e063-afca-4f65-8c5e-edc681a44a61#ref=rss)
+### hisbollah
 
-* [https://www.spiegel.de/sport/ex-radprofi-jan-ullrich-gesteht-doping](https://www.spiegel.de/sport/ex-radprofi-jan-ullrich-gesteht-doping-a-e91af826-9bab-4c8a-b2f0-5e29c0787fe3#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-geisel-uebergabe-darauf-haben-sich-israel-und-hamas-verstaendigt](https://www.spiegel.de/ausland/israel-gaza-krieg-geisel-uebergabe-darauf-haben-sich-israel-und-hamas-verstaendigt-a-7daa796a-a55a-4ca1-b657-103787c6bf3c#ref=rss)
-### geiselübergabe
+* [https://www.spiegel.de/ausland/libanon-israel-meldet-schlag-gegen-die-hisbollah](https://www.spiegel.de/ausland/libanon-israel-meldet-schlag-gegen-die-hisbollah-a-7e39e063-afca-4f65-8c5e-edc681a44a61#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-geisel-uebergabe-darauf-haben-sich-israel-und-hamas-verstaendigt](https://www.spiegel.de/ausland/israel-gaza-krieg-geisel-uebergabe-darauf-haben-sich-israel-und-hamas-verstaendigt-a-7daa796a-a55a-4ca1-b657-103787c6bf3c#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-feuerpause-soll-laut-hamas-am-vormittag-beginnen](https://www.spiegel.de/ausland/israel-gaza-krieg-feuerpause-soll-laut-hamas-am-vormittag-beginnen-a-ba8ebdca-ecdf-4532-8c6a-67001a7ff85d#ref=rss)
-### geiseln
+* [https://www.spiegel.de/ausland/israel-hamas-geiseln-kommen-offenbar-fruehstens-freitag-frei](https://www.spiegel.de/ausland/israel-hamas-geiseln-kommen-offenbar-fruehstens-freitag-frei-a-f3d0a871-2951-44b7-bfa1-6cb709768f50#ref=rss)
+### freitag
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-geisel-uebergabe-darauf-haben-sich-israel-und-hamas-verstaendigt](https://www.spiegel.de/ausland/israel-gaza-krieg-geisel-uebergabe-darauf-haben-sich-israel-und-hamas-verstaendigt-a-7daa796a-a55a-4ca1-b657-103787c6bf3c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-sam-altman-und-sein-triumph-bei-openai-geiselabkommen-in-gaza-kennedy-attentat](https://www.spiegel.de/politik/deutschland/news-des-tages-sam-altman-und-sein-triumph-bei-openai-geiselabkommen-in-gaza-kennedy-attentat-a-e248eccb-e35c-4f97-a457-c9baa5943f0e#ref=rss)
-### paris
+* [https://www.spiegel.de/ausland/israel-hamas-geiseln-kommen-offenbar-fruehstens-freitag-frei](https://www.spiegel.de/ausland/israel-hamas-geiseln-kommen-offenbar-fruehstens-freitag-frei-a-f3d0a871-2951-44b7-bfa1-6cb709768f50#ref=rss)
+### vogelgrippe
 
-* [https://www.spiegel.de/panorama/paris-ich-nehme-dich-nicht-mit-du-judensau-taxifahrer-soll-juedische-familie-mit-dem-tod-bedroht-haben](https://www.spiegel.de/panorama/paris-ich-nehme-dich-nicht-mit-du-judensau-taxifahrer-soll-juedische-familie-mit-dem-tod-bedroht-haben-a-c24baf21-3a45-49f8-9138-289e4b426eb0#ref=rss)
-### familie
+* [https://www.spiegel.de/wissenschaft/vogelgrippe-in-deutschland-und-daenemark-ausbruch-auf-gefluegelhoefen-zehntausende-tiere-getoetet](https://www.spiegel.de/wissenschaft/vogelgrippe-in-deutschland-und-daenemark-ausbruch-auf-gefluegelhoefen-zehntausende-tiere-getoetet-a-6873bdd7-6705-49c6-98e6-3eb8f9465b34#ref=rss)
+### zehntausende
 
-* [https://www.spiegel.de/panorama/paris-ich-nehme-dich-nicht-mit-du-judensau-taxifahrer-soll-juedische-familie-mit-dem-tod-bedroht-haben](https://www.spiegel.de/panorama/paris-ich-nehme-dich-nicht-mit-du-judensau-taxifahrer-soll-juedische-familie-mit-dem-tod-bedroht-haben-a-c24baf21-3a45-49f8-9138-289e4b426eb0#ref=rss)
-### bedroht
+* [https://www.spiegel.de/wissenschaft/vogelgrippe-in-deutschland-und-daenemark-ausbruch-auf-gefluegelhoefen-zehntausende-tiere-getoetet](https://www.spiegel.de/wissenschaft/vogelgrippe-in-deutschland-und-daenemark-ausbruch-auf-gefluegelhoefen-zehntausende-tiere-getoetet-a-6873bdd7-6705-49c6-98e6-3eb8f9465b34#ref=rss)
+### tiere
 
-* [https://www.spiegel.de/panorama/paris-ich-nehme-dich-nicht-mit-du-judensau-taxifahrer-soll-juedische-familie-mit-dem-tod-bedroht-haben](https://www.spiegel.de/panorama/paris-ich-nehme-dich-nicht-mit-du-judensau-taxifahrer-soll-juedische-familie-mit-dem-tod-bedroht-haben-a-c24baf21-3a45-49f8-9138-289e4b426eb0#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/panorama/paris-ich-nehme-dich-nicht-mit-du-judensau-taxifahrer-soll-juedische-familie-mit-dem-tod-bedroht-haben](https://www.spiegel.de/panorama/paris-ich-nehme-dich-nicht-mit-du-judensau-taxifahrer-soll-juedische-familie-mit-dem-tod-bedroht-haben-a-c24baf21-3a45-49f8-9138-289e4b426eb0#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/michael-wendler-muss-wegen-trickserei-mit-lied-rechten-geldstrafe-von-15-000-euro-zahlen](https://www.spiegel.de/panorama/justiz/michael-wendler-muss-wegen-trickserei-mit-lied-rechten-geldstrafe-von-15-000-euro-zahlen-a-e87a40c3-8a51-4d73-9c9e-f603b0bcdc9f#ref=rss)
-### großen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/vw-erhoeht-loehne-im-us-werk-um-elf-prozent](https://www.spiegel.de/wirtschaft/unternehmen/vw-erhoeht-loehne-im-us-werk-um-elf-prozent-a-75cfca10-3f88-47ab-a76d-b5c9e99db5e4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/franzoesischer-kaesehersteller-zahlt-praemie-damit-kuehe-weniger-pupsen](https://www.spiegel.de/wirtschaft/unternehmen/franzoesischer-kaesehersteller-zahlt-praemie-damit-kuehe-weniger-pupsen-a-a4450240-9cce-48bc-b791-d70a1de64dcf#ref=rss)
-### fc
-
-* [https://www.spiegel.de/kultur/serie-ueber-den-fc-bayern-muenchen-gute-freunde-als-der-glamour-in-den-fussball-einzog](https://www.spiegel.de/kultur/serie-ueber-den-fc-bayern-muenchen-gute-freunde-als-der-glamour-in-den-fussball-einzog-a-3df3388b-3961-4fa6-81bf-dccec73abbf3#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/kultur/serie-ueber-den-fc-bayern-muenchen-gute-freunde-als-der-glamour-in-den-fussball-einzog](https://www.spiegel.de/kultur/serie-ueber-den-fc-bayern-muenchen-gute-freunde-als-der-glamour-in-den-fussball-einzog-a-3df3388b-3961-4fa6-81bf-dccec73abbf3#ref=rss)
-### freunde
-
-* [https://www.spiegel.de/kultur/serie-ueber-den-fc-bayern-muenchen-gute-freunde-als-der-glamour-in-den-fussball-einzog](https://www.spiegel.de/kultur/serie-ueber-den-fc-bayern-muenchen-gute-freunde-als-der-glamour-in-den-fussball-einzog-a-3df3388b-3961-4fa6-81bf-dccec73abbf3#ref=rss)
-### team
-
-* [https://www.spiegel.de/kultur/serie-ueber-den-fc-bayern-muenchen-gute-freunde-als-der-glamour-in-den-fussball-einzog](https://www.spiegel.de/kultur/serie-ueber-den-fc-bayern-muenchen-gute-freunde-als-der-glamour-in-den-fussball-einzog-a-3df3388b-3961-4fa6-81bf-dccec73abbf3#ref=rss)
-* [https://www.spiegel.de/sport/nationalmannschaft-weniger-talent-mehr-kampf](https://www.spiegel.de/sport/nationalmannschaft-weniger-talent-mehr-kampf-a-622ef8d0-9ca9-4857-a0f3-1b9c25035a43#ref=rss)
-### hinter
-
-* [https://www.spiegel.de/sport/thailand-weltmeisterschaft-im-stand-up-paddling](https://www.spiegel.de/sport/thailand-weltmeisterschaft-im-stand-up-paddling-a-5bde2038-42e5-49dc-ab31-8daa2a512bfe#ref=rss)
-* [https://www.spiegel.de/panorama/die-geschichte-hinter-dem-bild-wie-mir-john-f-kennedy-zum-ruder-sieg-gratulierte](https://www.spiegel.de/panorama/die-geschichte-hinter-dem-bild-wie-mir-john-f-kennedy-zum-ruder-sieg-gratulierte-a-2c6386fb-582f-49eb-8f96-eaae09d7e8ba#ref=rss)
-### china
-
-* [https://www.spiegel.de/ausland/naher-osten-wie-china-auf-den-krieg-im-gazastreifen-blickt](https://www.spiegel.de/ausland/naher-osten-wie-china-auf-den-krieg-im-gazastreifen-blickt-a-6ef090b0-3a40-41ef-bd66-d54e49307fe5#ref=rss)
-### gazastreifen
-
-* [https://www.spiegel.de/ausland/naher-osten-wie-china-auf-den-krieg-im-gazastreifen-blickt](https://www.spiegel.de/ausland/naher-osten-wie-china-auf-den-krieg-im-gazastreifen-blickt-a-6ef090b0-3a40-41ef-bd66-d54e49307fe5#ref=rss)
-* [https://www.spiegel.de/ausland/israel-die-radikalen-siedler-traeumen-von-der-rueckkehr-nach-gaza](https://www.spiegel.de/ausland/israel-die-radikalen-siedler-traeumen-von-der-rueckkehr-nach-gaza-a-f2fa864f-6de0-4c0a-a973-0598070d3050#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/ausland/naher-osten-wie-china-auf-den-krieg-im-gazastreifen-blickt](https://www.spiegel.de/ausland/naher-osten-wie-china-auf-den-krieg-im-gazastreifen-blickt-a-6ef090b0-3a40-41ef-bd66-d54e49307fe5#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-feuerpause-soll-laut-hamas-am-vormittag-beginnen](https://www.spiegel.de/ausland/israel-gaza-krieg-feuerpause-soll-laut-hamas-am-vormittag-beginnen-a-ba8ebdca-ecdf-4532-8c6a-67001a7ff85d#ref=rss)
-### spielen
-
-* [https://www.spiegel.de/ausland/naher-osten-wie-china-auf-den-krieg-im-gazastreifen-blickt](https://www.spiegel.de/ausland/naher-osten-wie-china-auf-den-krieg-im-gazastreifen-blickt-a-6ef090b0-3a40-41ef-bd66-d54e49307fe5#ref=rss)
-* [https://www.spiegel.de/panorama/die-geschichte-hinter-dem-bild-wie-mir-john-f-kennedy-zum-ruder-sieg-gratulierte](https://www.spiegel.de/panorama/die-geschichte-hinter-dem-bild-wie-mir-john-f-kennedy-zum-ruder-sieg-gratulierte-a-2c6386fb-582f-49eb-8f96-eaae09d7e8ba#ref=rss)
-### kennedy
-
-* [https://www.spiegel.de/panorama/die-geschichte-hinter-dem-bild-wie-mir-john-f-kennedy-zum-ruder-sieg-gratulierte](https://www.spiegel.de/panorama/die-geschichte-hinter-dem-bild-wie-mir-john-f-kennedy-zum-ruder-sieg-gratulierte-a-2c6386fb-582f-49eb-8f96-eaae09d7e8ba#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-sam-altman-und-sein-triumph-bei-openai-geiselabkommen-in-gaza-kennedy-attentat](https://www.spiegel.de/politik/deutschland/news-des-tages-sam-altman-und-sein-triumph-bei-openai-geiselabkommen-in-gaza-kennedy-attentat-a-e248eccb-e35c-4f97-a457-c9baa5943f0e#ref=rss)
-### triumph
-
-* [https://www.spiegel.de/panorama/die-geschichte-hinter-dem-bild-wie-mir-john-f-kennedy-zum-ruder-sieg-gratulierte](https://www.spiegel.de/panorama/die-geschichte-hinter-dem-bild-wie-mir-john-f-kennedy-zum-ruder-sieg-gratulierte-a-2c6386fb-582f-49eb-8f96-eaae09d7e8ba#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-sam-altman-und-sein-triumph-bei-openai-geiselabkommen-in-gaza-kennedy-attentat](https://www.spiegel.de/politik/deutschland/news-des-tages-sam-altman-und-sein-triumph-bei-openai-geiselabkommen-in-gaza-kennedy-attentat-a-e248eccb-e35c-4f97-a457-c9baa5943f0e#ref=rss)
-### giorgia
-
-* [https://www.spiegel.de/politik/deutschland/asylpolitik-olaf-scholz-und-giorgia-meloni-setzen-politische-differenzen-ausser-kraft](https://www.spiegel.de/politik/deutschland/asylpolitik-olaf-scholz-und-giorgia-meloni-setzen-politische-differenzen-ausser-kraft-a-507a111b-a6cc-4406-9f68-df9a7f942825#ref=rss)
-### meloni
-
-* [https://www.spiegel.de/politik/deutschland/asylpolitik-olaf-scholz-und-giorgia-meloni-setzen-politische-differenzen-ausser-kraft](https://www.spiegel.de/politik/deutschland/asylpolitik-olaf-scholz-und-giorgia-meloni-setzen-politische-differenzen-ausser-kraft-a-507a111b-a6cc-4406-9f68-df9a7f942825#ref=rss)
-### sam
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-sam-altman-und-sein-triumph-bei-openai-geiselabkommen-in-gaza-kennedy-attentat](https://www.spiegel.de/politik/deutschland/news-des-tages-sam-altman-und-sein-triumph-bei-openai-geiselabkommen-in-gaza-kennedy-attentat-a-e248eccb-e35c-4f97-a457-c9baa5943f0e#ref=rss)
-### altman
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-sam-altman-und-sein-triumph-bei-openai-geiselabkommen-in-gaza-kennedy-attentat](https://www.spiegel.de/politik/deutschland/news-des-tages-sam-altman-und-sein-triumph-bei-openai-geiselabkommen-in-gaza-kennedy-attentat-a-e248eccb-e35c-4f97-a457-c9baa5943f0e#ref=rss)
-### 13
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-sam-altman-und-sein-triumph-bei-openai-geiselabkommen-in-gaza-kennedy-attentat](https://www.spiegel.de/politik/deutschland/news-des-tages-sam-altman-und-sein-triumph-bei-openai-geiselabkommen-in-gaza-kennedy-attentat-a-e248eccb-e35c-4f97-a457-c9baa5943f0e#ref=rss)
-* [https://www.spiegel.de/deinspiegel/marc-uwe-kling-im-kinder-interview-wenn-ich-schreibe-bekomme-ich-gute-laune](https://www.spiegel.de/deinspiegel/marc-uwe-kling-im-kinder-interview-wenn-ich-schreibe-bekomme-ich-gute-laune-a-320cbabe-a2c5-4c4f-8d92-27ba11436ce6#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-sam-altman-und-sein-triumph-bei-openai-geiselabkommen-in-gaza-kennedy-attentat](https://www.spiegel.de/politik/deutschland/news-des-tages-sam-altman-und-sein-triumph-bei-openai-geiselabkommen-in-gaza-kennedy-attentat-a-e248eccb-e35c-4f97-a457-c9baa5943f0e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/renten-werden-bis-2037-um-knapp-43-prozent-steigen](https://www.spiegel.de/wirtschaft/soziales/renten-werden-bis-2037-um-knapp-43-prozent-steigen-a-0c7e57a9-913a-4151-811a-c76a35672a79#ref=rss)
-### weniger
-
-* [https://www.spiegel.de/sport/nationalmannschaft-weniger-talent-mehr-kampf](https://www.spiegel.de/sport/nationalmannschaft-weniger-talent-mehr-kampf-a-622ef8d0-9ca9-4857-a0f3-1b9c25035a43#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/franzoesischer-kaesehersteller-zahlt-praemie-damit-kuehe-weniger-pupsen](https://www.spiegel.de/wirtschaft/unternehmen/franzoesischer-kaesehersteller-zahlt-praemie-damit-kuehe-weniger-pupsen-a-a4450240-9cce-48bc-b791-d70a1de64dcf#ref=rss)
-### darüber
-
-* [https://www.spiegel.de/sport/nationalmannschaft-weniger-talent-mehr-kampf](https://www.spiegel.de/sport/nationalmannschaft-weniger-talent-mehr-kampf-a-622ef8d0-9ca9-4857-a0f3-1b9c25035a43#ref=rss)
-* [https://www.spiegel.de/deinspiegel/marc-uwe-kling-im-kinder-interview-wenn-ich-schreibe-bekomme-ich-gute-laune](https://www.spiegel.de/deinspiegel/marc-uwe-kling-im-kinder-interview-wenn-ich-schreibe-bekomme-ich-gute-laune-a-320cbabe-a2c5-4c4f-8d92-27ba11436ce6#ref=rss)
-### frankfurt
-
-* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-krankenpfleger-soll-patientin-sediert-und-sexuell-missbraucht-haben](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-krankenpfleger-soll-patientin-sediert-und-sexuell-missbraucht-haben-a-61b818f0-8f12-4c5e-87d4-36530cd85d33#ref=rss)
-### renten
-
-* [https://www.spiegel.de/wirtschaft/soziales/renten-werden-bis-2037-um-knapp-43-prozent-steigen](https://www.spiegel.de/wirtschaft/soziales/renten-werden-bis-2037-um-knapp-43-prozent-steigen-a-0c7e57a9-913a-4151-811a-c76a35672a79#ref=rss)
-### steigen
-
-* [https://www.spiegel.de/wirtschaft/soziales/renten-werden-bis-2037-um-knapp-43-prozent-steigen](https://www.spiegel.de/wirtschaft/soziales/renten-werden-bis-2037-um-knapp-43-prozent-steigen-a-0c7e57a9-913a-4151-811a-c76a35672a79#ref=rss)
-### klimawandel
-
-* [https://www.spiegel.de/wissenschaft/klimawandel-kohlenstoffemissionen-werden-unterschiedlich-berechnet-das-gefaehrdet-das-1-5-grad-ziel-zusaetzlich](https://www.spiegel.de/wissenschaft/klimawandel-kohlenstoffemissionen-werden-unterschiedlich-berechnet-das-gefaehrdet-das-1-5-grad-ziel-zusaetzlich-a-0553c423-4d6c-4670-9966-07ec90892ca3#ref=rss)
-### verringern
-
-* [https://www.spiegel.de/wissenschaft/klimawandel-kohlenstoffemissionen-werden-unterschiedlich-berechnet-das-gefaehrdet-das-1-5-grad-ziel-zusaetzlich](https://www.spiegel.de/wissenschaft/klimawandel-kohlenstoffemissionen-werden-unterschiedlich-berechnet-das-gefaehrdet-das-1-5-grad-ziel-zusaetzlich-a-0553c423-4d6c-4670-9966-07ec90892ca3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/franzoesischer-kaesehersteller-zahlt-praemie-damit-kuehe-weniger-pupsen](https://www.spiegel.de/wirtschaft/unternehmen/franzoesischer-kaesehersteller-zahlt-praemie-damit-kuehe-weniger-pupsen-a-a4450240-9cce-48bc-b791-d70a1de64dcf#ref=rss)
-### michael
-
-* [https://www.spiegel.de/panorama/justiz/michael-wendler-muss-wegen-trickserei-mit-lied-rechten-geldstrafe-von-15-000-euro-zahlen](https://www.spiegel.de/panorama/justiz/michael-wendler-muss-wegen-trickserei-mit-lied-rechten-geldstrafe-von-15-000-euro-zahlen-a-e87a40c3-8a51-4d73-9c9e-f603b0bcdc9f#ref=rss)
-### geldstrafe
-
-* [https://www.spiegel.de/panorama/justiz/michael-wendler-muss-wegen-trickserei-mit-lied-rechten-geldstrafe-von-15-000-euro-zahlen](https://www.spiegel.de/panorama/justiz/michael-wendler-muss-wegen-trickserei-mit-lied-rechten-geldstrafe-von-15-000-euro-zahlen-a-e87a40c3-8a51-4d73-9c9e-f603b0bcdc9f#ref=rss)
-### nazis
-
-* [https://www.spiegel.de/geschichte/israel-gaza-krieg-historiker-wenden-sich-gegen-vergleiche-von-hamas-mit-nazis](https://www.spiegel.de/geschichte/israel-gaza-krieg-historiker-wenden-sich-gegen-vergleiche-von-hamas-mit-nazis-a-edd3b15d-9273-44b5-90f5-f98be7d06a8c#ref=rss)
-### schuldenbremse
-
-* [https://www.spiegel.de/politik/deutschland/haushalt-und-schuldenbremse-die-fatalen-tricks-von-scholz-lindner-und-habeck](https://www.spiegel.de/politik/deutschland/haushalt-und-schuldenbremse-die-fatalen-tricks-von-scholz-lindner-und-habeck-a-2f8363b7-0fbc-444d-b833-d19baf7d4e52#ref=rss)
-### squid
-
-* [https://www.spiegel.de/kultur/tv/squid-game-the-challenge-bei-netflix-menschenjagd-mit-schwarzer-tinte](https://www.spiegel.de/kultur/tv/squid-game-the-challenge-bei-netflix-menschenjagd-mit-schwarzer-tinte-a-5e8cb3e5-2a89-48a2-8aea-bfcd90f8f570#ref=rss)
-### game
-
-* [https://www.spiegel.de/kultur/tv/squid-game-the-challenge-bei-netflix-menschenjagd-mit-schwarzer-tinte](https://www.spiegel.de/kultur/tv/squid-game-the-challenge-bei-netflix-menschenjagd-mit-schwarzer-tinte-a-5e8cb3e5-2a89-48a2-8aea-bfcd90f8f570#ref=rss)
-### parlament
-
-* [https://www.spiegel.de/wissenschaft/natur/europaeisches-parlament-kippt-gesetz-zur-reduktion-von-pestiziden](https://www.spiegel.de/wissenschaft/natur/europaeisches-parlament-kippt-gesetz-zur-reduktion-von-pestiziden-a-5f786ce7-96bd-49ce-95eb-0e4095ac2606#ref=rss)
-### gesetz
-
-* [https://www.spiegel.de/wissenschaft/natur/europaeisches-parlament-kippt-gesetz-zur-reduktion-von-pestiziden](https://www.spiegel.de/wissenschaft/natur/europaeisches-parlament-kippt-gesetz-zur-reduktion-von-pestiziden-a-5f786ce7-96bd-49ce-95eb-0e4095ac2606#ref=rss)
-### helfen
-
-* [https://www.spiegel.de/auto/regierung-macht-weg-fuer-100-prozent-frittenfett-im-autotank-frei](https://www.spiegel.de/auto/regierung-macht-weg-fuer-100-prozent-frittenfett-im-autotank-frei-a-040d7262-4365-4999-914e-9d8e180913bb#ref=rss)
-* [https://www.spiegel.de/deinspiegel/marc-uwe-kling-im-kinder-interview-wenn-ich-schreibe-bekomme-ich-gute-laune](https://www.spiegel.de/deinspiegel/marc-uwe-kling-im-kinder-interview-wenn-ich-schreibe-bekomme-ich-gute-laune-a-320cbabe-a2c5-4c4f-8d92-27ba11436ce6#ref=rss)
-### marcuwe
-
-* [https://www.spiegel.de/deinspiegel/marc-uwe-kling-im-kinder-interview-wenn-ich-schreibe-bekomme-ich-gute-laune](https://www.spiegel.de/deinspiegel/marc-uwe-kling-im-kinder-interview-wenn-ich-schreibe-bekomme-ich-gute-laune-a-320cbabe-a2c5-4c4f-8d92-27ba11436ce6#ref=rss)
-### kling
-
-* [https://www.spiegel.de/deinspiegel/marc-uwe-kling-im-kinder-interview-wenn-ich-schreibe-bekomme-ich-gute-laune](https://www.spiegel.de/deinspiegel/marc-uwe-kling-im-kinder-interview-wenn-ich-schreibe-bekomme-ich-gute-laune-a-320cbabe-a2c5-4c4f-8d92-27ba11436ce6#ref=rss)
-### tritt
-
-* [https://www.spiegel.de/politik/deutschland/jan-bollinger-afd-fraktionsvorsitzender-in-rheinland-pfalz-tritt-nach-machtkampf-aus-fraktion-aus](https://www.spiegel.de/politik/deutschland/jan-bollinger-afd-fraktionsvorsitzender-in-rheinland-pfalz-tritt-nach-machtkampf-aus-fraktion-aus-a-ec7c676d-b7ce-457f-8242-b9085bde31e1#ref=rss)
-### fraktion
-
-* [https://www.spiegel.de/politik/deutschland/jan-bollinger-afd-fraktionsvorsitzender-in-rheinland-pfalz-tritt-nach-machtkampf-aus-fraktion-aus](https://www.spiegel.de/politik/deutschland/jan-bollinger-afd-fraktionsvorsitzender-in-rheinland-pfalz-tritt-nach-machtkampf-aus-fraktion-aus-a-ec7c676d-b7ce-457f-8242-b9085bde31e1#ref=rss)
-### feuerpause
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-feuerpause-soll-laut-hamas-am-vormittag-beginnen](https://www.spiegel.de/ausland/israel-gaza-krieg-feuerpause-soll-laut-hamas-am-vormittag-beginnen-a-ba8ebdca-ecdf-4532-8c6a-67001a7ff85d#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/justiz/berlin-jugendliche-sollen-einkaufswagen-von-hochhaus-geworfen-haben](https://www.spiegel.de/panorama/justiz/berlin-jugendliche-sollen-einkaufswagen-von-hochhaus-geworfen-haben-a-ca6b58bd-d374-4729-9cae-4afd8a1887a2#ref=rss)
-### einkaufswagen
-
-* [https://www.spiegel.de/panorama/justiz/berlin-jugendliche-sollen-einkaufswagen-von-hochhaus-geworfen-haben](https://www.spiegel.de/panorama/justiz/berlin-jugendliche-sollen-einkaufswagen-von-hochhaus-geworfen-haben-a-ca6b58bd-d374-4729-9cae-4afd8a1887a2#ref=rss)
-### celtic
-
-* [https://www.spiegel.de/sport/fussball/celtic-glasgow-muss-strafe-zahlen-weil-fans-palaestina-flaggen-zeigten](https://www.spiegel.de/sport/fussball/celtic-glasgow-muss-strafe-zahlen-weil-fans-palaestina-flaggen-zeigten-a-fa1b0d37-3bd0-4697-a31a-213b5fee54c5#ref=rss)
-### glasgow
-
-* [https://www.spiegel.de/sport/fussball/celtic-glasgow-muss-strafe-zahlen-weil-fans-palaestina-flaggen-zeigten](https://www.spiegel.de/sport/fussball/celtic-glasgow-muss-strafe-zahlen-weil-fans-palaestina-flaggen-zeigten-a-fa1b0d37-3bd0-4697-a31a-213b5fee54c5#ref=rss)
-### fans
-
-* [https://www.spiegel.de/sport/fussball/celtic-glasgow-muss-strafe-zahlen-weil-fans-palaestina-flaggen-zeigten](https://www.spiegel.de/sport/fussball/celtic-glasgow-muss-strafe-zahlen-weil-fans-palaestina-flaggen-zeigten-a-fa1b0d37-3bd0-4697-a31a-213b5fee54c5#ref=rss)
+* [https://www.spiegel.de/wissenschaft/vogelgrippe-in-deutschland-und-daenemark-ausbruch-auf-gefluegelhoefen-zehntausende-tiere-getoetet](https://www.spiegel.de/wissenschaft/vogelgrippe-in-deutschland-und-daenemark-ausbruch-auf-gefluegelhoefen-zehntausende-tiere-getoetet-a-6873bdd7-6705-49c6-98e6-3eb8f9465b34#ref=rss)
 
