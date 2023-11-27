@@ -4,352 +4,357 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### regierung
-
-* [https://www.spiegel.de/netzwelt/israel-einigt-sich-mit-elon-musk-auf-starlink-einsatz-im-gazastreifen](https://www.spiegel.de/netzwelt/israel-einigt-sich-mit-elon-musk-auf-starlink-einsatz-im-gazastreifen-a-08abb785-7051-4cfc-b7b3-bc4ddefd8824#ref=rss)
-* [https://www.spiegel.de/wirtschaft/meyer-burger-groesster-deutscher-solarzellen-hersteller-droht-mit-abwanderung](https://www.spiegel.de/wirtschaft/meyer-burger-groesster-deutscher-solarzellen-hersteller-droht-mit-abwanderung-a-79e4c1cb-1fe7-4c61-89e4-a10b96501be3#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-israel-bekommt-liste-weitere-geiseln-sollen-freikommen](https://www.spiegel.de/ausland/israel-gaza-krieg-israel-bekommt-liste-weitere-geiseln-sollen-freikommen-a-d9f3c108-1c62-4fce-b320-f893645878ab#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-krieg-druck-auf-israels-regierung-kampf-gegen-hamas-oder-geiseln-zurueckbringen](https://www.spiegel.de/ausland/gaza-krieg-druck-auf-israels-regierung-kampf-gegen-hamas-oder-geiseln-zurueckbringen-a-2fc2a3d9-fe3a-4004-8880-aa73b65a551a#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/booker-prize-2023-irischer-autor-paul-lynch-fuer-roman-prophet-song-ausgezeichnet](https://www.spiegel.de/kultur/literatur/booker-prize-2023-irischer-autor-paul-lynch-fuer-roman-prophet-song-ausgezeichnet-a-1e534a53-3cd3-44e4-a0c8-74fd8ce9d97d#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/politik/deutschland/csu-markus-soeder-fordert-neuwahlen-parallel-zur-europawahl-im-juni-2024](https://www.spiegel.de/politik/deutschland/csu-markus-soeder-fordert-neuwahlen-parallel-zur-europawahl-im-juni-2024-a-50128b54-47c7-4d4f-93c9-1e4cb9b6af3f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/netzbetreiber-duerfen-bei-ueberlastung-strombezug-einschraenken](https://www.spiegel.de/wirtschaft/netzbetreiber-duerfen-bei-ueberlastung-strombezug-einschraenken-a-afe9faee-70d6-490d-9f72-67f93c784f7d#ref=rss)
-* [https://www.spiegel.de/panorama/hamburg-alsterschwimmhalle-nach-drei-jahren-bauzeit-wieder-offen](https://www.spiegel.de/panorama/hamburg-alsterschwimmhalle-nach-drei-jahren-bauzeit-wieder-offen-a-5982f6b0-0afd-4906-b21e-900f459ac6d1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/volkswagen-in-die-krise-wir-muessen-an-vielen-ecken-mit-weniger-leuten-auskommen](https://www.spiegel.de/wirtschaft/volkswagen-in-die-krise-wir-muessen-an-vielen-ecken-mit-weniger-leuten-auskommen-a-17d1214c-e5af-49ee-8230-a600cdf13043#ref=rss)
-* [https://www.spiegel.de/panorama/leute/linda-evangelista-hat-keine-lust-mehr-auf-dates](https://www.spiegel.de/panorama/leute/linda-evangelista-hat-keine-lust-mehr-auf-dates-a-a230b391-02f9-4608-b68f-2f71ada2d0de#ref=rss)
-* [https://www.spiegel.de/karriere/bin-ich-denn-hier-der-depp-fuer-alles-tipps-vom-karrierecoach](https://www.spiegel.de/karriere/bin-ich-denn-hier-der-depp-fuer-alles-tipps-vom-karrierecoach-a-7386aeb9-ea77-4106-83f3-2e0944cf61fe#ref=rss)
-### hamas
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-israel-bekommt-liste-weitere-geiseln-sollen-freikommen](https://www.spiegel.de/ausland/israel-gaza-krieg-israel-bekommt-liste-weitere-geiseln-sollen-freikommen-a-d9f3c108-1c62-4fce-b320-f893645878ab#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-krieg-druck-auf-israels-regierung-kampf-gegen-hamas-oder-geiseln-zurueckbringen](https://www.spiegel.de/ausland/gaza-krieg-druck-auf-israels-regierung-kampf-gegen-hamas-oder-geiseln-zurueckbringen-a-2fc2a3d9-fe3a-4004-8880-aa73b65a551a#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-vierjaehrige-abigail-ueberlebte-hamas-horror-unter-leiche-ihres-vaters](https://www.spiegel.de/ausland/israel-gaza-krieg-vierjaehrige-abigail-ueberlebte-hamas-horror-unter-leiche-ihres-vaters-a-2789656e-ff83-4e1f-af6c-0c436c68c0de#ref=rss)
 ### israel
 
-* [https://www.spiegel.de/netzwelt/israel-einigt-sich-mit-elon-musk-auf-starlink-einsatz-im-gazastreifen](https://www.spiegel.de/netzwelt/israel-einigt-sich-mit-elon-musk-auf-starlink-einsatz-im-gazastreifen-a-08abb785-7051-4cfc-b7b3-bc4ddefd8824#ref=rss)
-* [https://www.spiegel.de/geschichte/israel-und-palaestina-warum-bisher-jeder-vorstoss-zum-frieden-scheiterte](https://www.spiegel.de/geschichte/israel-und-palaestina-warum-bisher-jeder-vorstoss-zum-frieden-scheiterte-a-46499dc8-8643-42fe-8aed-93fa71ce1e23#ref=rss)
-* [https://www.spiegel.de/ausland/us-marine-befreit-gekaperten-tanker-im-golf-von-aden](https://www.spiegel.de/ausland/us-marine-befreit-gekaperten-tanker-im-golf-von-aden-a-de2420c6-b7ca-4e83-879d-8bda53e88f9b#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-israel-bekommt-liste-weitere-geiseln-sollen-freikommen](https://www.spiegel.de/ausland/israel-gaza-krieg-israel-bekommt-liste-weitere-geiseln-sollen-freikommen-a-d9f3c108-1c62-4fce-b320-f893645878ab#ref=rss)
-### offenbar
+* [https://www.spiegel.de/kultur/index-palestine-haltung-zu-gaza-aufgelistet-denunziatorische-absicht](https://www.spiegel.de/kultur/index-palestine-haltung-zu-gaza-aufgelistet-denunziatorische-absicht-a-fb8f8dbc-3afc-4c21-96ad-8dbd89f0da49#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/israel-besuch-von-frank-walter-steinmeier-es-versagt-auch-mir-die-sprache](https://www.spiegel.de/politik/deutschland/israel-besuch-von-frank-walter-steinmeier-es-versagt-auch-mir-die-sprache-a-a377819c-a21f-4421-b746-62497fc861f4#ref=rss)
+* [https://www.spiegel.de/ausland/gazastreifen-waffenruhe-zwischen-israel-und-hamas-wird-um-zwei-tage-verlaengert](https://www.spiegel.de/ausland/gazastreifen-waffenruhe-zwischen-israel-und-hamas-wird-um-zwei-tage-verlaengert-a-2a9b1fab-636a-4f31-b563-b405cd27e2a4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-in-israel-deutschland-unterstuetzt-kibbuz-wiederaufbau](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-in-israel-deutschland-unterstuetzt-kibbuz-wiederaufbau-a-f5cdbef0-0144-4aa0-bb28-fdf440b4ec88#ref=rss)
+* [https://www.spiegel.de/ausland/israel-wie-die-familien-die-freilassung-der-hamas-geiseln-erlebt-haben](https://www.spiegel.de/ausland/israel-wie-die-familien-die-freilassung-der-hamas-geiseln-erlebt-haben-a-9851e77c-6549-4e72-b6cd-b419821a6b3e#ref=rss)
+### hamas
 
-* [https://www.spiegel.de/netzwelt/israel-einigt-sich-mit-elon-musk-auf-starlink-einsatz-im-gazastreifen](https://www.spiegel.de/netzwelt/israel-einigt-sich-mit-elon-musk-auf-starlink-einsatz-im-gazastreifen-a-08abb785-7051-4cfc-b7b3-bc4ddefd8824#ref=rss)
-* [https://www.spiegel.de/ausland/vermont-polizei-nimmt-verdaechtigen-nach-schuessen-auf-palaestinenser-fest](https://www.spiegel.de/ausland/vermont-polizei-nimmt-verdaechtigen-nach-schuessen-auf-palaestinenser-fest-a-08c39658-c124-434c-806b-7ecc8fb84dea#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-israel-bekommt-liste-weitere-geiseln-sollen-freikommen](https://www.spiegel.de/ausland/israel-gaza-krieg-israel-bekommt-liste-weitere-geiseln-sollen-freikommen-a-d9f3c108-1c62-4fce-b320-f893645878ab#ref=rss)
-* [https://www.spiegel.de/wirtschaft/hamburger-elbtower-milliardaer-klaus-michael-kuehne-prueft-nach-signa-krise-offenbar-uebernahme](https://www.spiegel.de/wirtschaft/hamburger-elbtower-milliardaer-klaus-michael-kuehne-prueft-nach-signa-krise-offenbar-uebernahme-a-2a2cf982-1390-48b6-901d-c3b315031aaa#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-polen-und-die-unabhaengigkeit-der-justiz-benachteiligte-schueler-mit-migrationshintergrund-geiseln-der-hamas](https://www.spiegel.de/politik/deutschland/news-des-tages-polen-und-die-unabhaengigkeit-der-justiz-benachteiligte-schueler-mit-migrationshintergrund-geiseln-der-hamas-a-b8762d6c-1d5c-43c2-970f-32769e5911ac#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/israel-besuch-von-frank-walter-steinmeier-es-versagt-auch-mir-die-sprache](https://www.spiegel.de/politik/deutschland/israel-besuch-von-frank-walter-steinmeier-es-versagt-auch-mir-die-sprache-a-a377819c-a21f-4421-b746-62497fc861f4#ref=rss)
+* [https://www.spiegel.de/ausland/gazastreifen-waffenruhe-zwischen-israel-und-hamas-wird-um-zwei-tage-verlaengert](https://www.spiegel.de/ausland/gazastreifen-waffenruhe-zwischen-israel-und-hamas-wird-um-zwei-tage-verlaengert-a-2a9b1fab-636a-4f31-b563-b405cd27e2a4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-in-israel-deutschland-unterstuetzt-kibbuz-wiederaufbau](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-in-israel-deutschland-unterstuetzt-kibbuz-wiederaufbau-a-f5cdbef0-0144-4aa0-bb28-fdf440b4ec88#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/auto/auto-gipfel-im-kanzleramt-warum-das-elektroautoziel-der-regierung-zu-kippen-droht](https://www.spiegel.de/auto/auto-gipfel-im-kanzleramt-warum-das-elektroautoziel-der-regierung-zu-kippen-droht-a-ac82cf23-89bf-4ca6-92cd-e19ad1908b8b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-auswahl-bei-u17-wm-im-halbfinale-ein-deutsches-team-das-sogar-verteidigen-kann](https://www.spiegel.de/sport/fussball/dfb-auswahl-bei-u17-wm-im-halbfinale-ein-deutsches-team-das-sogar-verteidigen-kann-a-35fcd885-7bf8-484c-9f70-cd6379cf063c#ref=rss)
+* [https://www.spiegel.de/ausland/politik-mehrheit-der-deutschen-lehnen-deutsche-fuehrungsrolle-in-der-welt-ab](https://www.spiegel.de/ausland/politik-mehrheit-der-deutschen-lehnen-deutsche-fuehrungsrolle-in-der-welt-ab-a-db327f64-629a-4f92-bae3-a9804e131231#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/daenischer-oekonom-ueber-deutschlands-haushalt-die-schuldenbremse-ist-eine-verruecktheit](https://www.spiegel.de/wirtschaft/soziales/daenischer-oekonom-ueber-deutschlands-haushalt-die-schuldenbremse-ist-eine-verruecktheit-a-c5a9ed99-19a0-4043-8780-42d9356da11e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-in-israel-deutschland-unterstuetzt-kibbuz-wiederaufbau](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-in-israel-deutschland-unterstuetzt-kibbuz-wiederaufbau-a-f5cdbef0-0144-4aa0-bb28-fdf440b4ec88#ref=rss)
+### polen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-polen-und-die-unabhaengigkeit-der-justiz-benachteiligte-schueler-mit-migrationshintergrund-geiseln-der-hamas](https://www.spiegel.de/politik/deutschland/news-des-tages-polen-und-die-unabhaengigkeit-der-justiz-benachteiligte-schueler-mit-migrationshintergrund-geiseln-der-hamas-a-b8762d6c-1d5c-43c2-970f-32769e5911ac#ref=rss)
+* [https://www.spiegel.de/ausland/polen-praesident-andrzej-duda-vereidigt-chancenlose-pis-regierung-von-mateusz-morawiecki](https://www.spiegel.de/ausland/polen-praesident-andrzej-duda-vereidigt-chancenlose-pis-regierung-von-mateusz-morawiecki-a-d85ac4c9-eac1-4f53-baa3-78d81cb75d48#ref=rss)
 ### geiseln
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-israel-bekommt-liste-weitere-geiseln-sollen-freikommen](https://www.spiegel.de/ausland/israel-gaza-krieg-israel-bekommt-liste-weitere-geiseln-sollen-freikommen-a-d9f3c108-1c62-4fce-b320-f893645878ab#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-krieg-druck-auf-israels-regierung-kampf-gegen-hamas-oder-geiseln-zurueckbringen](https://www.spiegel.de/ausland/gaza-krieg-druck-auf-israels-regierung-kampf-gegen-hamas-oder-geiseln-zurueckbringen-a-2fc2a3d9-fe3a-4004-8880-aa73b65a551a#ref=rss)
-### max
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-polen-und-die-unabhaengigkeit-der-justiz-benachteiligte-schueler-mit-migrationshintergrund-geiseln-der-hamas](https://www.spiegel.de/politik/deutschland/news-des-tages-polen-und-die-unabhaengigkeit-der-justiz-benachteiligte-schueler-mit-migrationshintergrund-geiseln-der-hamas-a-b8762d6c-1d5c-43c2-970f-32769e5911ac#ref=rss)
+* [https://www.spiegel.de/ausland/gazastreifen-waffenruhe-zwischen-israel-und-hamas-wird-um-zwei-tage-verlaengert](https://www.spiegel.de/ausland/gazastreifen-waffenruhe-zwischen-israel-und-hamas-wird-um-zwei-tage-verlaengert-a-2a9b1fab-636a-4f31-b563-b405cd27e2a4#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/sport/formel1/formel-1-presse-ueber-saisonabschluss-in-abu-dhabi-max-verstappen-der-allesfresser](https://www.spiegel.de/sport/formel1/formel-1-presse-ueber-saisonabschluss-in-abu-dhabi-max-verstappen-der-allesfresser-a-f91e245e-2b5d-4e1f-ae76-cf41f0066377#ref=rss)
-### viele
+* [https://www.spiegel.de/start/tarifvertrag-fuer-studentische-beschaeftigte-warum-hiwis-keine-ausnahme-mehr-sein-wollen](https://www.spiegel.de/start/tarifvertrag-fuer-studentische-beschaeftigte-warum-hiwis-keine-ausnahme-mehr-sein-wollen-a-7fe13c76-1b29-4a3f-b8c9-2453975b375a#ref=rss)
+* [https://www.spiegel.de/panorama/acapulco-drohnenaufnahmen-zeigen-zerstoerungen](https://www.spiegel.de/panorama/acapulco-drohnenaufnahmen-zeigen-zerstoerungen-a-4feca7e2-eee8-4860-bfa6-cd521408c10f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-cdu-fraktion-fordert-mehr-hochhaeuser-in-der-hauptstadt](https://www.spiegel.de/politik/deutschland/berlin-cdu-fraktion-fordert-mehr-hochhaeuser-in-der-hauptstadt-a-d31b247d-ac3e-4bd9-bff0-1d03308a9a13#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/lisa-paus-ueber-haeusliche-gewalt-das-ausmass-ist-unertraeglich](https://www.spiegel.de/panorama/gesellschaft/lisa-paus-ueber-haeusliche-gewalt-das-ausmass-ist-unertraeglich-a-4756dc8e-a09b-4e19-9f80-f65aa4026124#ref=rss)
+### schuldenbremse
 
-* [https://www.spiegel.de/geschichte/israel-und-palaestina-warum-bisher-jeder-vorstoss-zum-frieden-scheiterte](https://www.spiegel.de/geschichte/israel-und-palaestina-warum-bisher-jeder-vorstoss-zum-frieden-scheiterte-a-46499dc8-8643-42fe-8aed-93fa71ce1e23#ref=rss)
-* [https://www.spiegel.de/karriere/bin-ich-denn-hier-der-depp-fuer-alles-tipps-vom-karrierecoach](https://www.spiegel.de/karriere/bin-ich-denn-hier-der-depp-fuer-alles-tipps-vom-karrierecoach-a-7386aeb9-ea77-4106-83f3-2e0944cf61fe#ref=rss)
-* [https://www.spiegel.de/tests/haushalt/diese-kaffeemaschinen-mit-pads-und-kapseln-empfiehlt-die-stiftung-warentest](https://www.spiegel.de/tests/haushalt/diese-kaffeemaschinen-mit-pads-und-kapseln-empfiehlt-die-stiftung-warentest-a-62d1d376-90ae-41db-a4c3-54aa55bf74b3#ref=rss)
-### ganz
+* [https://www.spiegel.de/start/tarifvertrag-fuer-studentische-beschaeftigte-warum-hiwis-keine-ausnahme-mehr-sein-wollen](https://www.spiegel.de/start/tarifvertrag-fuer-studentische-beschaeftigte-warum-hiwis-keine-ausnahme-mehr-sein-wollen-a-7fe13c76-1b29-4a3f-b8c9-2453975b375a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/daenischer-oekonom-ueber-deutschlands-haushalt-die-schuldenbremse-ist-eine-verruecktheit](https://www.spiegel.de/wirtschaft/soziales/daenischer-oekonom-ueber-deutschlands-haushalt-die-schuldenbremse-ist-eine-verruecktheit-a-c5a9ed99-19a0-4043-8780-42d9356da11e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/haushalt-gruenen-fraktionschefin-katharina-droege-will-reform-der-schuldenbremse-mit-union](https://www.spiegel.de/politik/deutschland/haushalt-gruenen-fraktionschefin-katharina-droege-will-reform-der-schuldenbremse-mit-union-a-c71a3a5b-84c4-4e16-b8ff-6503a8b822b3#ref=rss)
+### millionen
 
-* [https://www.spiegel.de/sport/basketball/nba-siebter-sieg-in-folge-franz-und-moritz-wagner-bauen-serie-mit-orlando-magic-aus](https://www.spiegel.de/sport/basketball/nba-siebter-sieg-in-folge-franz-und-moritz-wagner-bauen-serie-mit-orlando-magic-aus-a-99cf5d72-2ca3-410f-89df-4e46d4216279#ref=rss)
-* [https://www.spiegel.de/sport/amazon-doku-der-gejagte-ueber-jan-ullrich-ganz-oben-ganz-unten](https://www.spiegel.de/sport/amazon-doku-der-gejagte-ueber-jan-ullrich-ganz-oben-ganz-unten-a-efc5a1ef-d917-4d98-b314-29870af4d039#ref=rss)
-### elon
+* [https://www.spiegel.de/panorama/justiz/bamberg-zwoelf-mutmassliche-geldautomatensprenger-in-bayern-angeklagt](https://www.spiegel.de/panorama/justiz/bamberg-zwoelf-mutmassliche-geldautomatensprenger-in-bayern-angeklagt-a-99df3259-948f-45b0-85c7-6e98d324e3db#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/europaeische-ermittler-decken-millionenbetrug-per-mehrwertsteuer-karussell-auf](https://www.spiegel.de/panorama/justiz/europaeische-ermittler-decken-millionenbetrug-per-mehrwertsteuer-karussell-auf-a-b4c91831-276a-4e28-9024-d74ac7a27154#ref=rss)
+* [https://www.spiegel.de/panorama/wintersturm-in-russland-und-ukraine-millionen-menschen-ohne-strom](https://www.spiegel.de/panorama/wintersturm-in-russland-und-ukraine-millionen-menschen-ohne-strom-a-06df4273-5614-4257-8ace-4af952d1708d#ref=rss)
+### frankwalter
 
-* [https://www.spiegel.de/netzwelt/israel-einigt-sich-mit-elon-musk-auf-starlink-einsatz-im-gazastreifen](https://www.spiegel.de/netzwelt/israel-einigt-sich-mit-elon-musk-auf-starlink-einsatz-im-gazastreifen-a-08abb785-7051-4cfc-b7b3-bc4ddefd8824#ref=rss)
-### musk
+* [https://www.spiegel.de/politik/deutschland/israel-besuch-von-frank-walter-steinmeier-es-versagt-auch-mir-die-sprache](https://www.spiegel.de/politik/deutschland/israel-besuch-von-frank-walter-steinmeier-es-versagt-auch-mir-die-sprache-a-a377819c-a21f-4421-b746-62497fc861f4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-in-israel-deutschland-unterstuetzt-kibbuz-wiederaufbau](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-in-israel-deutschland-unterstuetzt-kibbuz-wiederaufbau-a-f5cdbef0-0144-4aa0-bb28-fdf440b4ec88#ref=rss)
+### steinmeier
 
-* [https://www.spiegel.de/netzwelt/israel-einigt-sich-mit-elon-musk-auf-starlink-einsatz-im-gazastreifen](https://www.spiegel.de/netzwelt/israel-einigt-sich-mit-elon-musk-auf-starlink-einsatz-im-gazastreifen-a-08abb785-7051-4cfc-b7b3-bc4ddefd8824#ref=rss)
-### gazastreifen
+* [https://www.spiegel.de/politik/deutschland/israel-besuch-von-frank-walter-steinmeier-es-versagt-auch-mir-die-sprache](https://www.spiegel.de/politik/deutschland/israel-besuch-von-frank-walter-steinmeier-es-versagt-auch-mir-die-sprache-a-a377819c-a21f-4421-b746-62497fc861f4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-in-israel-deutschland-unterstuetzt-kibbuz-wiederaufbau](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-in-israel-deutschland-unterstuetzt-kibbuz-wiederaufbau-a-f5cdbef0-0144-4aa0-bb28-fdf440b4ec88#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/netzwelt/israel-einigt-sich-mit-elon-musk-auf-starlink-einsatz-im-gazastreifen](https://www.spiegel.de/netzwelt/israel-einigt-sich-mit-elon-musk-auf-starlink-einsatz-im-gazastreifen-a-08abb785-7051-4cfc-b7b3-bc4ddefd8824#ref=rss)
-### ende
+* [https://www.spiegel.de/ausland/ukraine-russland-krieg-verhandlungen-mit-russland-waeren-kapitulationsmonolog-der-ukraine](https://www.spiegel.de/ausland/ukraine-russland-krieg-verhandlungen-mit-russland-waeren-kapitulationsmonolog-der-ukraine-a-04b1082a-b560-464a-a257-4c83a8c8c9db#ref=rss)
+* [https://www.spiegel.de/panorama/wintersturm-in-russland-und-ukraine-millionen-menschen-ohne-strom](https://www.spiegel.de/panorama/wintersturm-in-russland-und-ukraine-millionen-menschen-ohne-strom-a-06df4273-5614-4257-8ace-4af952d1708d#ref=rss)
+### spd
 
-* [https://www.spiegel.de/netzwelt/israel-einigt-sich-mit-elon-musk-auf-starlink-einsatz-im-gazastreifen](https://www.spiegel.de/netzwelt/israel-einigt-sich-mit-elon-musk-auf-starlink-einsatz-im-gazastreifen-a-08abb785-7051-4cfc-b7b3-bc4ddefd8824#ref=rss)
-* [https://www.spiegel.de/kultur/tv/kim-kardashian-netflix-bekommt-zuschlag-fuer-comedy-the-fifth-wheel](https://www.spiegel.de/kultur/tv/kim-kardashian-netflix-bekommt-zuschlag-fuer-comedy-the-fifth-wheel-a-ff91afae-dfde-40cf-8b05-f5692d62b46e#ref=rss)
-### verkündete
+* [https://www.spiegel.de/politik/deutschland/peter-mueller-spd-kritisiert-verfassungsrichter-fuer-applaus-bei-cdu-parteitag](https://www.spiegel.de/politik/deutschland/peter-mueller-spd-kritisiert-verfassungsrichter-fuer-applaus-bei-cdu-parteitag-a-440e57f2-cec7-4309-8821-321e528e909b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/hannover-spd-beendet-rot-gruene-koalition-im-rathaus](https://www.spiegel.de/politik/deutschland/hannover-spd-beendet-rot-gruene-koalition-im-rathaus-a-8facc485-61e7-43b8-889b-2d961c09a163#ref=rss)
+### zwölf
 
-* [https://www.spiegel.de/netzwelt/israel-einigt-sich-mit-elon-musk-auf-starlink-einsatz-im-gazastreifen](https://www.spiegel.de/netzwelt/israel-einigt-sich-mit-elon-musk-auf-starlink-einsatz-im-gazastreifen-a-08abb785-7051-4cfc-b7b3-bc4ddefd8824#ref=rss)
-* [https://www.spiegel.de/panorama/leute/rita-ora-feiert-geburtstag-im-kosovo-empfang-beim-premierminister](https://www.spiegel.de/panorama/leute/rita-ora-feiert-geburtstag-im-kosovo-empfang-beim-premierminister-a-dd93ace1-9198-40d3-a9e3-b232ff31f0c3#ref=rss)
-### israelischen
+* [https://www.spiegel.de/panorama/justiz/berlin-auf-ex-partnerin-geschossen-72-jaehriger-soll-zwoelf-jahre-in-haft](https://www.spiegel.de/panorama/justiz/berlin-auf-ex-partnerin-geschossen-72-jaehriger-soll-zwoelf-jahre-in-haft-a-a8856c6b-0f4c-4580-9881-ddc52cb2ff2b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bamberg-zwoelf-mutmassliche-geldautomatensprenger-in-bayern-angeklagt](https://www.spiegel.de/panorama/justiz/bamberg-zwoelf-mutmassliche-geldautomatensprenger-in-bayern-angeklagt-a-99df3259-948f-45b0-85c7-6e98d324e3db#ref=rss)
+### präsident
 
-* [https://www.spiegel.de/netzwelt/israel-einigt-sich-mit-elon-musk-auf-starlink-einsatz-im-gazastreifen](https://www.spiegel.de/netzwelt/israel-einigt-sich-mit-elon-musk-auf-starlink-einsatz-im-gazastreifen-a-08abb785-7051-4cfc-b7b3-bc4ddefd8824#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-israel-bekommt-liste-weitere-geiseln-sollen-freikommen](https://www.spiegel.de/ausland/israel-gaza-krieg-israel-bekommt-liste-weitere-geiseln-sollen-freikommen-a-d9f3c108-1c62-4fce-b320-f893645878ab#ref=rss)
-### streit
+* [https://www.spiegel.de/ausland/polen-praesident-andrzej-duda-vereidigt-chancenlose-pis-regierung-von-mateusz-morawiecki](https://www.spiegel.de/ausland/polen-praesident-andrzej-duda-vereidigt-chancenlose-pis-regierung-von-mateusz-morawiecki-a-d85ac4c9-eac1-4f53-baa3-78d81cb75d48#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/israel-besuch-von-frank-walter-steinmeier-es-versagt-auch-mir-die-sprache](https://www.spiegel.de/politik/deutschland/israel-besuch-von-frank-walter-steinmeier-es-versagt-auch-mir-die-sprache-a-a377819c-a21f-4421-b746-62497fc861f4#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/netzwelt/israel-einigt-sich-mit-elon-musk-auf-starlink-einsatz-im-gazastreifen](https://www.spiegel.de/netzwelt/israel-einigt-sich-mit-elon-musk-auf-starlink-einsatz-im-gazastreifen-a-08abb785-7051-4cfc-b7b3-bc4ddefd8824#ref=rss)
-* [https://www.spiegel.de/ausland/nordkorea-verlegt-soldaten-und-schwere-waffen-an-die-grenze](https://www.spiegel.de/ausland/nordkorea-verlegt-soldaten-und-schwere-waffen-an-die-grenze-a-9d7fe23c-7914-4e1d-abe8-34704e76eb7e#ref=rss)
-### indonesien
+* [https://www.spiegel.de/auto/auto-gipfel-im-kanzleramt-warum-das-elektroautoziel-der-regierung-zu-kippen-droht](https://www.spiegel.de/auto/auto-gipfel-im-kanzleramt-warum-das-elektroautoziel-der-regierung-zu-kippen-droht-a-ac82cf23-89bf-4ca6-92cd-e19ad1908b8b#ref=rss)
+* [https://www.spiegel.de/ausland/politik-mehrheit-der-deutschen-lehnen-deutsche-fuehrungsrolle-in-der-welt-ab](https://www.spiegel.de/ausland/politik-mehrheit-der-deutschen-lehnen-deutsche-fuehrungsrolle-in-der-welt-ab-a-db327f64-629a-4f92-bae3-a9804e131231#ref=rss)
+### zeigen
 
-* [https://www.spiegel.de/wissenschaft/indonesien-bedrohtes-sumatra-nashorn-geboren](https://www.spiegel.de/wissenschaft/indonesien-bedrohtes-sumatra-nashorn-geboren-a-8beba508-f0c4-4987-97eb-da64b1eaf6c5#ref=rss)
-### geboren
+* [https://www.spiegel.de/panorama/acapulco-drohnenaufnahmen-zeigen-zerstoerungen](https://www.spiegel.de/panorama/acapulco-drohnenaufnahmen-zeigen-zerstoerungen-a-4feca7e2-eee8-4860-bfa6-cd521408c10f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/israel-besuch-von-frank-walter-steinmeier-es-versagt-auch-mir-die-sprache](https://www.spiegel.de/politik/deutschland/israel-besuch-von-frank-walter-steinmeier-es-versagt-auch-mir-die-sprache-a-a377819c-a21f-4421-b746-62497fc861f4#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/wissenschaft/indonesien-bedrohtes-sumatra-nashorn-geboren](https://www.spiegel.de/wissenschaft/indonesien-bedrohtes-sumatra-nashorn-geboren-a-8beba508-f0c4-4987-97eb-da64b1eaf6c5#ref=rss)
-* [https://www.spiegel.de/panorama/leute/rita-ora-feiert-geburtstag-im-kosovo-empfang-beim-premierminister](https://www.spiegel.de/panorama/leute/rita-ora-feiert-geburtstag-im-kosovo-empfang-beim-premierminister-a-dd93ace1-9198-40d3-a9e3-b232ff31f0c3#ref=rss)
-### welt
+* [https://www.spiegel.de/sport/fussball/dfb-auswahl-bei-u17-wm-im-halbfinale-ein-deutsches-team-das-sogar-verteidigen-kann](https://www.spiegel.de/sport/fussball/dfb-auswahl-bei-u17-wm-im-halbfinale-ein-deutsches-team-das-sogar-verteidigen-kann-a-35fcd885-7bf8-484c-9f70-cd6379cf063c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-cdu-fraktion-fordert-mehr-hochhaeuser-in-der-hauptstadt](https://www.spiegel.de/politik/deutschland/berlin-cdu-fraktion-fordert-mehr-hochhaeuser-in-der-hauptstadt-a-d31b247d-ac3e-4bd9-bff0-1d03308a9a13#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/peter-mueller-spd-kritisiert-verfassungsrichter-fuer-applaus-bei-cdu-parteitag](https://www.spiegel.de/politik/deutschland/peter-mueller-spd-kritisiert-verfassungsrichter-fuer-applaus-bei-cdu-parteitag-a-440e57f2-cec7-4309-8821-321e528e909b#ref=rss)
+### 7
 
-* [https://www.spiegel.de/wissenschaft/indonesien-bedrohtes-sumatra-nashorn-geboren](https://www.spiegel.de/wissenschaft/indonesien-bedrohtes-sumatra-nashorn-geboren-a-8beba508-f0c4-4987-97eb-da64b1eaf6c5#ref=rss)
-* [https://www.spiegel.de/panorama/leute/linda-evangelista-hat-keine-lust-mehr-auf-dates](https://www.spiegel.de/panorama/leute/linda-evangelista-hat-keine-lust-mehr-auf-dates-a-a230b391-02f9-4608-b68f-2f71ada2d0de#ref=rss)
-### gekommen
+* [https://www.spiegel.de/kultur/index-palestine-haltung-zu-gaza-aufgelistet-denunziatorische-absicht](https://www.spiegel.de/kultur/index-palestine-haltung-zu-gaza-aufgelistet-denunziatorische-absicht-a-fb8f8dbc-3afc-4c21-96ad-8dbd89f0da49#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/israel-besuch-von-frank-walter-steinmeier-es-versagt-auch-mir-die-sprache](https://www.spiegel.de/politik/deutschland/israel-besuch-von-frank-walter-steinmeier-es-versagt-auch-mir-die-sprache-a-a377819c-a21f-4421-b746-62497fc861f4#ref=rss)
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### drei
 
-* [https://www.spiegel.de/wissenschaft/indonesien-bedrohtes-sumatra-nashorn-geboren](https://www.spiegel.de/wissenschaft/indonesien-bedrohtes-sumatra-nashorn-geboren-a-8beba508-f0c4-4987-97eb-da64b1eaf6c5#ref=rss)
-* [https://www.spiegel.de/panorama/winterwetter-glaetteunfaelle-auf-schneebedeckten-strassen-mehrere-verletzte](https://www.spiegel.de/panorama/winterwetter-glaetteunfaelle-auf-schneebedeckten-strassen-mehrere-verletzte-a-8bd864ff-8ae8-49b4-8fb6-9e33129fb792#ref=rss)
-### eigentlich
+* [https://www.spiegel.de/panorama/justiz/bamberg-zwoelf-mutmassliche-geldautomatensprenger-in-bayern-angeklagt](https://www.spiegel.de/panorama/justiz/bamberg-zwoelf-mutmassliche-geldautomatensprenger-in-bayern-angeklagt-a-99df3259-948f-45b0-85c7-6e98d324e3db#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/thailand-braeutigam-erschiesst-braut-und-drei-weitere-gaeste-auf-hochzeit](https://www.spiegel.de/panorama/justiz/thailand-braeutigam-erschiesst-braut-und-drei-weitere-gaeste-auf-hochzeit-a-cbfecff6-b977-4fcb-929c-05441beaccc4#ref=rss)
+* [https://www.spiegel.de/panorama/wintersturm-in-russland-und-ukraine-millionen-menschen-ohne-strom](https://www.spiegel.de/panorama/wintersturm-in-russland-und-ukraine-millionen-menschen-ohne-strom-a-06df4273-5614-4257-8ace-4af952d1708d#ref=rss)
+### euro
 
-* [https://www.spiegel.de/stil/rezept-fuer-tartiflette](https://www.spiegel.de/stil/rezept-fuer-tartiflette-a-e622d445-4d5e-49d3-85a2-035a395372a7#ref=rss)
-* [https://www.spiegel.de/karriere/bin-ich-denn-hier-der-depp-fuer-alles-tipps-vom-karrierecoach](https://www.spiegel.de/karriere/bin-ich-denn-hier-der-depp-fuer-alles-tipps-vom-karrierecoach-a-7386aeb9-ea77-4106-83f3-2e0944cf61fe#ref=rss)
-### markus
-
-* [https://www.spiegel.de/politik/deutschland/csu-markus-soeder-fordert-neuwahlen-parallel-zur-europawahl-im-juni-2024](https://www.spiegel.de/politik/deutschland/csu-markus-soeder-fordert-neuwahlen-parallel-zur-europawahl-im-juni-2024-a-50128b54-47c7-4d4f-93c9-1e4cb9b6af3f#ref=rss)
-### söder
-
-* [https://www.spiegel.de/politik/deutschland/csu-markus-soeder-fordert-neuwahlen-parallel-zur-europawahl-im-juni-2024](https://www.spiegel.de/politik/deutschland/csu-markus-soeder-fordert-neuwahlen-parallel-zur-europawahl-im-juni-2024-a-50128b54-47c7-4d4f-93c9-1e4cb9b6af3f#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/politik/deutschland/csu-markus-soeder-fordert-neuwahlen-parallel-zur-europawahl-im-juni-2024](https://www.spiegel.de/politik/deutschland/csu-markus-soeder-fordert-neuwahlen-parallel-zur-europawahl-im-juni-2024-a-50128b54-47c7-4d4f-93c9-1e4cb9b6af3f#ref=rss)
-### parallel
-
-* [https://www.spiegel.de/politik/deutschland/csu-markus-soeder-fordert-neuwahlen-parallel-zur-europawahl-im-juni-2024](https://www.spiegel.de/politik/deutschland/csu-markus-soeder-fordert-neuwahlen-parallel-zur-europawahl-im-juni-2024-a-50128b54-47c7-4d4f-93c9-1e4cb9b6af3f#ref=rss)
-### europawahl
-
-* [https://www.spiegel.de/politik/deutschland/csu-markus-soeder-fordert-neuwahlen-parallel-zur-europawahl-im-juni-2024](https://www.spiegel.de/politik/deutschland/csu-markus-soeder-fordert-neuwahlen-parallel-zur-europawahl-im-juni-2024-a-50128b54-47c7-4d4f-93c9-1e4cb9b6af3f#ref=rss)
-### 2024
-
-* [https://www.spiegel.de/politik/deutschland/csu-markus-soeder-fordert-neuwahlen-parallel-zur-europawahl-im-juni-2024](https://www.spiegel.de/politik/deutschland/csu-markus-soeder-fordert-neuwahlen-parallel-zur-europawahl-im-juni-2024-a-50128b54-47c7-4d4f-93c9-1e4cb9b6af3f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/haushaltsnotlage-rolf-muetzenich-sieht-gruende-fuer-verlaengerung-im-kommenden-jahr](https://www.spiegel.de/politik/deutschland/haushaltsnotlage-rolf-muetzenich-sieht-gruende-fuer-verlaengerung-im-kommenden-jahr-a-59cc6bed-7d42-403f-bcb3-96f28e713e4d#ref=rss)
-### verstappen
-
-* [https://www.spiegel.de/sport/formel1/formel-1-presse-ueber-saisonabschluss-in-abu-dhabi-max-verstappen-der-allesfresser](https://www.spiegel.de/sport/formel1/formel-1-presse-ueber-saisonabschluss-in-abu-dhabi-max-verstappen-der-allesfresser-a-f91e245e-2b5d-4e1f-ae76-cf41f0066377#ref=rss)
-### feiern
-
-* [https://www.spiegel.de/sport/formel1/formel-1-presse-ueber-saisonabschluss-in-abu-dhabi-max-verstappen-der-allesfresser](https://www.spiegel.de/sport/formel1/formel-1-presse-ueber-saisonabschluss-in-abu-dhabi-max-verstappen-der-allesfresser-a-f91e245e-2b5d-4e1f-ae76-cf41f0066377#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-krieg-druck-auf-israels-regierung-kampf-gegen-hamas-oder-geiseln-zurueckbringen](https://www.spiegel.de/ausland/gaza-krieg-druck-auf-israels-regierung-kampf-gegen-hamas-oder-geiseln-zurueckbringen-a-2fc2a3d9-fe3a-4004-8880-aa73b65a551a#ref=rss)
-### alsterschwimmhalle
-
-* [https://www.spiegel.de/panorama/hamburg-alsterschwimmhalle-nach-drei-jahren-bauzeit-wieder-offen](https://www.spiegel.de/panorama/hamburg-alsterschwimmhalle-nach-drei-jahren-bauzeit-wieder-offen-a-5982f6b0-0afd-4906-b21e-900f459ac6d1#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/panorama/hamburg-alsterschwimmhalle-nach-drei-jahren-bauzeit-wieder-offen](https://www.spiegel.de/panorama/hamburg-alsterschwimmhalle-nach-drei-jahren-bauzeit-wieder-offen-a-5982f6b0-0afd-4906-b21e-900f459ac6d1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/verbraucherpreise-fast-die-haelfte-der-menschen-fuerchtet-verschlechterung-ihrer-lage](https://www.spiegel.de/wirtschaft/verbraucherpreise-fast-die-haelfte-der-menschen-fuerchtet-verschlechterung-ihrer-lage-a-ba001431-f962-475a-9f72-332d28ebe802#ref=rss)
-### fünf
-
-* [https://www.spiegel.de/panorama/hamburg-alsterschwimmhalle-nach-drei-jahren-bauzeit-wieder-offen](https://www.spiegel.de/panorama/hamburg-alsterschwimmhalle-nach-drei-jahren-bauzeit-wieder-offen-a-5982f6b0-0afd-4906-b21e-900f459ac6d1#ref=rss)
-* [https://www.spiegel.de/kultur/tv/kim-kardashian-netflix-bekommt-zuschlag-fuer-comedy-the-fifth-wheel](https://www.spiegel.de/kultur/tv/kim-kardashian-netflix-bekommt-zuschlag-fuer-comedy-the-fifth-wheel-a-ff91afae-dfde-40cf-8b05-f5692d62b46e#ref=rss)
-### hamburger
-
-* [https://www.spiegel.de/panorama/hamburg-alsterschwimmhalle-nach-drei-jahren-bauzeit-wieder-offen](https://www.spiegel.de/panorama/hamburg-alsterschwimmhalle-nach-drei-jahren-bauzeit-wieder-offen-a-5982f6b0-0afd-4906-b21e-900f459ac6d1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/hamburger-elbtower-milliardaer-klaus-michael-kuehne-prueft-nach-signa-krise-offenbar-uebernahme](https://www.spiegel.de/wirtschaft/hamburger-elbtower-milliardaer-klaus-michael-kuehne-prueft-nach-signa-krise-offenbar-uebernahme-a-2a2cf982-1390-48b6-901d-c3b315031aaa#ref=rss)
-### volkswagen
-
-* [https://www.spiegel.de/wirtschaft/volkswagen-in-die-krise-wir-muessen-an-vielen-ecken-mit-weniger-leuten-auskommen](https://www.spiegel.de/wirtschaft/volkswagen-in-die-krise-wir-muessen-an-vielen-ecken-mit-weniger-leuten-auskommen-a-17d1214c-e5af-49ee-8230-a600cdf13043#ref=rss)
-### wir
-
-* [https://www.spiegel.de/wirtschaft/volkswagen-in-die-krise-wir-muessen-an-vielen-ecken-mit-weniger-leuten-auskommen](https://www.spiegel.de/wirtschaft/volkswagen-in-die-krise-wir-muessen-an-vielen-ecken-mit-weniger-leuten-auskommen-a-17d1214c-e5af-49ee-8230-a600cdf13043#ref=rss)
-### vielen
-
-* [https://www.spiegel.de/wirtschaft/volkswagen-in-die-krise-wir-muessen-an-vielen-ecken-mit-weniger-leuten-auskommen](https://www.spiegel.de/wirtschaft/volkswagen-in-die-krise-wir-muessen-an-vielen-ecken-mit-weniger-leuten-auskommen-a-17d1214c-e5af-49ee-8230-a600cdf13043#ref=rss)
-* [https://www.spiegel.de/panorama/winterwetter-glaetteunfaelle-auf-schneebedeckten-strassen-mehrere-verletzte](https://www.spiegel.de/panorama/winterwetter-glaetteunfaelle-auf-schneebedeckten-strassen-mehrere-verletzte-a-8bd864ff-8ae8-49b4-8fb6-9e33129fb792#ref=rss)
-### weniger
-
-* [https://www.spiegel.de/wirtschaft/volkswagen-in-die-krise-wir-muessen-an-vielen-ecken-mit-weniger-leuten-auskommen](https://www.spiegel.de/wirtschaft/volkswagen-in-die-krise-wir-muessen-an-vielen-ecken-mit-weniger-leuten-auskommen-a-17d1214c-e5af-49ee-8230-a600cdf13043#ref=rss)
-* [https://www.spiegel.de/tests/haushalt/diese-kaffeemaschinen-mit-pads-und-kapseln-empfiehlt-die-stiftung-warentest](https://www.spiegel.de/tests/haushalt/diese-kaffeemaschinen-mit-pads-und-kapseln-empfiehlt-die-stiftung-warentest-a-62d1d376-90ae-41db-a4c3-54aa55bf74b3#ref=rss)
-### lage
-
-* [https://www.spiegel.de/wirtschaft/volkswagen-in-die-krise-wir-muessen-an-vielen-ecken-mit-weniger-leuten-auskommen](https://www.spiegel.de/wirtschaft/volkswagen-in-die-krise-wir-muessen-an-vielen-ecken-mit-weniger-leuten-auskommen-a-17d1214c-e5af-49ee-8230-a600cdf13043#ref=rss)
-* [https://www.spiegel.de/wirtschaft/verbraucherpreise-fast-die-haelfte-der-menschen-fuerchtet-verschlechterung-ihrer-lage](https://www.spiegel.de/wirtschaft/verbraucherpreise-fast-die-haelfte-der-menschen-fuerchtet-verschlechterung-ihrer-lage-a-ba001431-f962-475a-9f72-332d28ebe802#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/wirtschaft/volkswagen-in-die-krise-wir-muessen-an-vielen-ecken-mit-weniger-leuten-auskommen](https://www.spiegel.de/wirtschaft/volkswagen-in-die-krise-wir-muessen-an-vielen-ecken-mit-weniger-leuten-auskommen-a-17d1214c-e5af-49ee-8230-a600cdf13043#ref=rss)
-* [https://www.spiegel.de/panorama/winterwetter-glaetteunfaelle-auf-schneebedeckten-strassen-mehrere-verletzte](https://www.spiegel.de/panorama/winterwetter-glaetteunfaelle-auf-schneebedeckten-strassen-mehrere-verletzte-a-8bd864ff-8ae8-49b4-8fb6-9e33129fb792#ref=rss)
-### vermont
-
-* [https://www.spiegel.de/ausland/vermont-polizei-nimmt-verdaechtigen-nach-schuessen-auf-palaestinenser-fest](https://www.spiegel.de/ausland/vermont-polizei-nimmt-verdaechtigen-nach-schuessen-auf-palaestinenser-fest-a-08c39658-c124-434c-806b-7ecc8fb84dea#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/ausland/vermont-polizei-nimmt-verdaechtigen-nach-schuessen-auf-palaestinenser-fest](https://www.spiegel.de/ausland/vermont-polizei-nimmt-verdaechtigen-nach-schuessen-auf-palaestinenser-fest-a-08c39658-c124-434c-806b-7ecc8fb84dea#ref=rss)
-### fest
-
-* [https://www.spiegel.de/ausland/vermont-polizei-nimmt-verdaechtigen-nach-schuessen-auf-palaestinenser-fest](https://www.spiegel.de/ausland/vermont-polizei-nimmt-verdaechtigen-nach-schuessen-auf-palaestinenser-fest-a-08c39658-c124-434c-806b-7ecc8fb84dea#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-krieg-druck-auf-israels-regierung-kampf-gegen-hamas-oder-geiseln-zurueckbringen](https://www.spiegel.de/ausland/gaza-krieg-druck-auf-israels-regierung-kampf-gegen-hamas-oder-geiseln-zurueckbringen-a-2fc2a3d9-fe3a-4004-8880-aa73b65a551a#ref=rss)
-### gemacht
-
-* [https://www.spiegel.de/ausland/vermont-polizei-nimmt-verdaechtigen-nach-schuessen-auf-palaestinenser-fest](https://www.spiegel.de/ausland/vermont-polizei-nimmt-verdaechtigen-nach-schuessen-auf-palaestinenser-fest-a-08c39658-c124-434c-806b-7ecc8fb84dea#ref=rss)
-* [https://www.spiegel.de/panorama/leute/rita-ora-feiert-geburtstag-im-kosovo-empfang-beim-premierminister](https://www.spiegel.de/panorama/leute/rita-ora-feiert-geburtstag-im-kosovo-empfang-beim-premierminister-a-dd93ace1-9198-40d3-a9e3-b232ff31f0c3#ref=rss)
-### kim
-
-* [https://www.spiegel.de/kultur/tv/kim-kardashian-netflix-bekommt-zuschlag-fuer-comedy-the-fifth-wheel](https://www.spiegel.de/kultur/tv/kim-kardashian-netflix-bekommt-zuschlag-fuer-comedy-the-fifth-wheel-a-ff91afae-dfde-40cf-8b05-f5692d62b46e#ref=rss)
-### kardashian
-
-* [https://www.spiegel.de/kultur/tv/kim-kardashian-netflix-bekommt-zuschlag-fuer-comedy-the-fifth-wheel](https://www.spiegel.de/kultur/tv/kim-kardashian-netflix-bekommt-zuschlag-fuer-comedy-the-fifth-wheel-a-ff91afae-dfde-40cf-8b05-f5692d62b46e#ref=rss)
-### netflix
-
-* [https://www.spiegel.de/kultur/tv/kim-kardashian-netflix-bekommt-zuschlag-fuer-comedy-the-fifth-wheel](https://www.spiegel.de/kultur/tv/kim-kardashian-netflix-bekommt-zuschlag-fuer-comedy-the-fifth-wheel-a-ff91afae-dfde-40cf-8b05-f5692d62b46e#ref=rss)
-### bekommt
-
-* [https://www.spiegel.de/kultur/tv/kim-kardashian-netflix-bekommt-zuschlag-fuer-comedy-the-fifth-wheel](https://www.spiegel.de/kultur/tv/kim-kardashian-netflix-bekommt-zuschlag-fuer-comedy-the-fifth-wheel-a-ff91afae-dfde-40cf-8b05-f5692d62b46e#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-israel-bekommt-liste-weitere-geiseln-sollen-freikommen](https://www.spiegel.de/ausland/israel-gaza-krieg-israel-bekommt-liste-weitere-geiseln-sollen-freikommen-a-d9f3c108-1c62-4fce-b320-f893645878ab#ref=rss)
-### the
-
-* [https://www.spiegel.de/kultur/tv/kim-kardashian-netflix-bekommt-zuschlag-fuer-comedy-the-fifth-wheel](https://www.spiegel.de/kultur/tv/kim-kardashian-netflix-bekommt-zuschlag-fuer-comedy-the-fifth-wheel-a-ff91afae-dfde-40cf-8b05-f5692d62b46e#ref=rss)
-### fifth
-
-* [https://www.spiegel.de/kultur/tv/kim-kardashian-netflix-bekommt-zuschlag-fuer-comedy-the-fifth-wheel](https://www.spiegel.de/kultur/tv/kim-kardashian-netflix-bekommt-zuschlag-fuer-comedy-the-fifth-wheel-a-ff91afae-dfde-40cf-8b05-f5692d62b46e#ref=rss)
-### wheel
-
-* [https://www.spiegel.de/kultur/tv/kim-kardashian-netflix-bekommt-zuschlag-fuer-comedy-the-fifth-wheel](https://www.spiegel.de/kultur/tv/kim-kardashian-netflix-bekommt-zuschlag-fuer-comedy-the-fifth-wheel-a-ff91afae-dfde-40cf-8b05-f5692d62b46e#ref=rss)
-### robert
-
-* [https://www.spiegel.de/politik/deutschland/haushalt-robert-habeck-will-bereits-geplante-projekte-finanzieren](https://www.spiegel.de/politik/deutschland/haushalt-robert-habeck-will-bereits-geplante-projekte-finanzieren-a-e72872a0-189c-48d0-8a93-1e767eb74a5e#ref=rss)
-### habeck
-
-* [https://www.spiegel.de/politik/deutschland/haushalt-robert-habeck-will-bereits-geplante-projekte-finanzieren](https://www.spiegel.de/politik/deutschland/haushalt-robert-habeck-will-bereits-geplante-projekte-finanzieren-a-e72872a0-189c-48d0-8a93-1e767eb74a5e#ref=rss)
-### linda
-
-* [https://www.spiegel.de/panorama/leute/linda-evangelista-hat-keine-lust-mehr-auf-dates](https://www.spiegel.de/panorama/leute/linda-evangelista-hat-keine-lust-mehr-auf-dates-a-a230b391-02f9-4608-b68f-2f71ada2d0de#ref=rss)
-### evangelista
-
-* [https://www.spiegel.de/panorama/leute/linda-evangelista-hat-keine-lust-mehr-auf-dates](https://www.spiegel.de/panorama/leute/linda-evangelista-hat-keine-lust-mehr-auf-dates-a-a230b391-02f9-4608-b68f-2f71ada2d0de#ref=rss)
-### dates
-
-* [https://www.spiegel.de/panorama/leute/linda-evangelista-hat-keine-lust-mehr-auf-dates](https://www.spiegel.de/panorama/leute/linda-evangelista-hat-keine-lust-mehr-auf-dates-a-a230b391-02f9-4608-b68f-2f71ada2d0de#ref=rss)
-### nennt
-
-* [https://www.spiegel.de/wirtschaft/verbraucherpreise-fast-die-haelfte-der-menschen-fuerchtet-verschlechterung-ihrer-lage](https://www.spiegel.de/wirtschaft/verbraucherpreise-fast-die-haelfte-der-menschen-fuerchtet-verschlechterung-ihrer-lage-a-ba001431-f962-475a-9f72-332d28ebe802#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-reist-laut-medienbericht-nicht-zur-klimakonferenz-in-dubai](https://www.spiegel.de/ausland/joe-biden-reist-laut-medienbericht-nicht-zur-klimakonferenz-in-dubai-a-988177a4-b9fd-481e-b2d1-853b1efdda07#ref=rss)
-### laut
-
-* [https://www.spiegel.de/wirtschaft/verbraucherpreise-fast-die-haelfte-der-menschen-fuerchtet-verschlechterung-ihrer-lage](https://www.spiegel.de/wirtschaft/verbraucherpreise-fast-die-haelfte-der-menschen-fuerchtet-verschlechterung-ihrer-lage-a-ba001431-f962-475a-9f72-332d28ebe802#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-reist-laut-medienbericht-nicht-zur-klimakonferenz-in-dubai](https://www.spiegel.de/ausland/joe-biden-reist-laut-medienbericht-nicht-zur-klimakonferenz-in-dubai-a-988177a4-b9fd-481e-b2d1-853b1efdda07#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bamberg-zwoelf-mutmassliche-geldautomatensprenger-in-bayern-angeklagt](https://www.spiegel.de/panorama/justiz/bamberg-zwoelf-mutmassliche-geldautomatensprenger-in-bayern-angeklagt-a-99df3259-948f-45b0-85c7-6e98d324e3db#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/europaeische-ermittler-decken-millionenbetrug-per-mehrwertsteuer-karussell-auf](https://www.spiegel.de/panorama/justiz/europaeische-ermittler-decken-millionenbetrug-per-mehrwertsteuer-karussell-auf-a-b4c91831-276a-4e28-9024-d74ac7a27154#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kabinett-stimmt-nachtragshaushalt-fuer-2023-zu](https://www.spiegel.de/politik/deutschland/kabinett-stimmt-nachtragshaushalt-fuer-2023-zu-a-309b4853-da1e-4b05-ab6f-ccee5131052b#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/wirtschaft/verbraucherpreise-fast-die-haelfte-der-menschen-fuerchtet-verschlechterung-ihrer-lage](https://www.spiegel.de/wirtschaft/verbraucherpreise-fast-die-haelfte-der-menschen-fuerchtet-verschlechterung-ihrer-lage-a-ba001431-f962-475a-9f72-332d28ebe802#ref=rss)
-* [https://www.spiegel.de/wirtschaft/meyer-burger-groesster-deutscher-solarzellen-hersteller-droht-mit-abwanderung](https://www.spiegel.de/wirtschaft/meyer-burger-groesster-deutscher-solarzellen-hersteller-droht-mit-abwanderung-a-79e4c1cb-1fe7-4c61-89e4-a10b96501be3#ref=rss)
-### meyer
+* [https://www.spiegel.de/panorama/justiz/bamberg-zwoelf-mutmassliche-geldautomatensprenger-in-bayern-angeklagt](https://www.spiegel.de/panorama/justiz/bamberg-zwoelf-mutmassliche-geldautomatensprenger-in-bayern-angeklagt-a-99df3259-948f-45b0-85c7-6e98d324e3db#ref=rss)
+* [https://www.spiegel.de/ausland/politik-mehrheit-der-deutschen-lehnen-deutsche-fuehrungsrolle-in-der-welt-ab](https://www.spiegel.de/ausland/politik-mehrheit-der-deutschen-lehnen-deutsche-fuehrungsrolle-in-der-welt-ab-a-db327f64-629a-4f92-bae3-a9804e131231#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-in-israel-deutschland-unterstuetzt-kibbuz-wiederaufbau](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-in-israel-deutschland-unterstuetzt-kibbuz-wiederaufbau-a-f5cdbef0-0144-4aa0-bb28-fdf440b4ec88#ref=rss)
+### gazastreifen
 
-* [https://www.spiegel.de/wirtschaft/meyer-burger-groesster-deutscher-solarzellen-hersteller-droht-mit-abwanderung](https://www.spiegel.de/wirtschaft/meyer-burger-groesster-deutscher-solarzellen-hersteller-droht-mit-abwanderung-a-79e4c1cb-1fe7-4c61-89e4-a10b96501be3#ref=rss)
-### burger
+* [https://www.spiegel.de/ausland/gazastreifen-waffenruhe-zwischen-israel-und-hamas-wird-um-zwei-tage-verlaengert](https://www.spiegel.de/ausland/gazastreifen-waffenruhe-zwischen-israel-und-hamas-wird-um-zwei-tage-verlaengert-a-2a9b1fab-636a-4f31-b563-b405cd27e2a4#ref=rss)
+### russland
 
-* [https://www.spiegel.de/wirtschaft/meyer-burger-groesster-deutscher-solarzellen-hersteller-droht-mit-abwanderung](https://www.spiegel.de/wirtschaft/meyer-burger-groesster-deutscher-solarzellen-hersteller-droht-mit-abwanderung-a-79e4c1cb-1fe7-4c61-89e4-a10b96501be3#ref=rss)
-### kämpft
+* [https://www.spiegel.de/ausland/ukraine-russland-krieg-verhandlungen-mit-russland-waeren-kapitulationsmonolog-der-ukraine](https://www.spiegel.de/ausland/ukraine-russland-krieg-verhandlungen-mit-russland-waeren-kapitulationsmonolog-der-ukraine-a-04b1082a-b560-464a-a257-4c83a8c8c9db#ref=rss)
+* [https://www.spiegel.de/panorama/wintersturm-in-russland-und-ukraine-millionen-menschen-ohne-strom](https://www.spiegel.de/panorama/wintersturm-in-russland-und-ukraine-millionen-menschen-ohne-strom-a-06df4273-5614-4257-8ace-4af952d1708d#ref=rss)
+### haushalt
 
-* [https://www.spiegel.de/wirtschaft/meyer-burger-groesster-deutscher-solarzellen-hersteller-droht-mit-abwanderung](https://www.spiegel.de/wirtschaft/meyer-burger-groesster-deutscher-solarzellen-hersteller-droht-mit-abwanderung-a-79e4c1cb-1fe7-4c61-89e4-a10b96501be3#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-siebter-sieg-in-folge-franz-und-moritz-wagner-bauen-serie-mit-orlando-magic-aus](https://www.spiegel.de/sport/basketball/nba-siebter-sieg-in-folge-franz-und-moritz-wagner-bauen-serie-mit-orlando-magic-aus-a-99cf5d72-2ca3-410f-89df-4e46d4216279#ref=rss)
-### konkurrenz
+* [https://www.spiegel.de/wirtschaft/soziales/daenischer-oekonom-ueber-deutschlands-haushalt-die-schuldenbremse-ist-eine-verruecktheit](https://www.spiegel.de/wirtschaft/soziales/daenischer-oekonom-ueber-deutschlands-haushalt-die-schuldenbremse-ist-eine-verruecktheit-a-c5a9ed99-19a0-4043-8780-42d9356da11e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kabinett-stimmt-nachtragshaushalt-fuer-2023-zu](https://www.spiegel.de/politik/deutschland/kabinett-stimmt-nachtragshaushalt-fuer-2023-zu-a-309b4853-da1e-4b05-ab6f-ccee5131052b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/haushalt-gruenen-fraktionschefin-katharina-droege-will-reform-der-schuldenbremse-mit-union](https://www.spiegel.de/politik/deutschland/haushalt-gruenen-fraktionschefin-katharina-droege-will-reform-der-schuldenbremse-mit-union-a-c71a3a5b-84c4-4e16-b8ff-6503a8b822b3#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/wirtschaft/meyer-burger-groesster-deutscher-solarzellen-hersteller-droht-mit-abwanderung](https://www.spiegel.de/wirtschaft/meyer-burger-groesster-deutscher-solarzellen-hersteller-droht-mit-abwanderung-a-79e4c1cb-1fe7-4c61-89e4-a10b96501be3#ref=rss)
-* [https://www.spiegel.de/tests/haushalt/diese-kaffeemaschinen-mit-pads-und-kapseln-empfiehlt-die-stiftung-warentest](https://www.spiegel.de/tests/haushalt/diese-kaffeemaschinen-mit-pads-und-kapseln-empfiehlt-die-stiftung-warentest-a-62d1d376-90ae-41db-a4c3-54aa55bf74b3#ref=rss)
-### befreit
+* [https://www.spiegel.de/wissenschaft/insektizide-in-lebensmitteln-studie-zeigt-zusammenhang-mit-spermienkonzentration](https://www.spiegel.de/wissenschaft/insektizide-in-lebensmitteln-studie-zeigt-zusammenhang-mit-spermienkonzentration-a-16870a66-60c3-4904-9235-f3f489212a33#ref=rss)
+* [https://www.spiegel.de/panorama/wintersturm-in-russland-und-ukraine-millionen-menschen-ohne-strom](https://www.spiegel.de/panorama/wintersturm-in-russland-und-ukraine-millionen-menschen-ohne-strom-a-06df4273-5614-4257-8ace-4af952d1708d#ref=rss)
+### müller
 
-* [https://www.spiegel.de/ausland/us-marine-befreit-gekaperten-tanker-im-golf-von-aden](https://www.spiegel.de/ausland/us-marine-befreit-gekaperten-tanker-im-golf-von-aden-a-de2420c6-b7ca-4e83-879d-8bda53e88f9b#ref=rss)
-### tanker
+* [https://www.spiegel.de/politik/deutschland/peter-mueller-spd-kritisiert-verfassungsrichter-fuer-applaus-bei-cdu-parteitag](https://www.spiegel.de/politik/deutschland/peter-mueller-spd-kritisiert-verfassungsrichter-fuer-applaus-bei-cdu-parteitag-a-440e57f2-cec7-4309-8821-321e528e909b#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/ausland/us-marine-befreit-gekaperten-tanker-im-golf-von-aden](https://www.spiegel.de/ausland/us-marine-befreit-gekaperten-tanker-im-golf-von-aden-a-de2420c6-b7ca-4e83-879d-8bda53e88f9b#ref=rss)
-### roten
+* [https://www.spiegel.de/panorama/justiz/berlin-auf-ex-partnerin-geschossen-72-jaehriger-soll-zwoelf-jahre-in-haft](https://www.spiegel.de/panorama/justiz/berlin-auf-ex-partnerin-geschossen-72-jaehriger-soll-zwoelf-jahre-in-haft-a-a8856c6b-0f4c-4580-9881-ddc52cb2ff2b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-cdu-fraktion-fordert-mehr-hochhaeuser-in-der-hauptstadt](https://www.spiegel.de/politik/deutschland/berlin-cdu-fraktion-fordert-mehr-hochhaeuser-in-der-hauptstadt-a-d31b247d-ac3e-4bd9-bff0-1d03308a9a13#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/ausland/us-marine-befreit-gekaperten-tanker-im-golf-von-aden](https://www.spiegel.de/ausland/us-marine-befreit-gekaperten-tanker-im-golf-von-aden-a-de2420c6-b7ca-4e83-879d-8bda53e88f9b#ref=rss)
-### meer
+* [https://www.spiegel.de/panorama/justiz/berlin-auf-ex-partnerin-geschossen-72-jaehriger-soll-zwoelf-jahre-in-haft](https://www.spiegel.de/panorama/justiz/berlin-auf-ex-partnerin-geschossen-72-jaehriger-soll-zwoelf-jahre-in-haft-a-a8856c6b-0f4c-4580-9881-ddc52cb2ff2b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/hannover-spd-beendet-rot-gruene-koalition-im-rathaus](https://www.spiegel.de/politik/deutschland/hannover-spd-beendet-rot-gruene-koalition-im-rathaus-a-8facc485-61e7-43b8-889b-2d961c09a163#ref=rss)
+### frau
 
-* [https://www.spiegel.de/ausland/us-marine-befreit-gekaperten-tanker-im-golf-von-aden](https://www.spiegel.de/ausland/us-marine-befreit-gekaperten-tanker-im-golf-von-aden-a-de2420c6-b7ca-4e83-879d-8bda53e88f9b#ref=rss)
-### israelgazakrieg
+* [https://www.spiegel.de/panorama/justiz/berlin-auf-ex-partnerin-geschossen-72-jaehriger-soll-zwoelf-jahre-in-haft](https://www.spiegel.de/panorama/justiz/berlin-auf-ex-partnerin-geschossen-72-jaehriger-soll-zwoelf-jahre-in-haft-a-a8856c6b-0f4c-4580-9881-ddc52cb2ff2b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/thailand-braeutigam-erschiesst-braut-und-drei-weitere-gaeste-auf-hochzeit](https://www.spiegel.de/panorama/justiz/thailand-braeutigam-erschiesst-braut-und-drei-weitere-gaeste-auf-hochzeit-a-cbfecff6-b977-4fcb-929c-05441beaccc4#ref=rss)
+### unabhängigkeit
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-israel-bekommt-liste-weitere-geiseln-sollen-freikommen](https://www.spiegel.de/ausland/israel-gaza-krieg-israel-bekommt-liste-weitere-geiseln-sollen-freikommen-a-d9f3c108-1c62-4fce-b320-f893645878ab#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-vierjaehrige-abigail-ueberlebte-hamas-horror-unter-leiche-ihres-vaters](https://www.spiegel.de/ausland/israel-gaza-krieg-vierjaehrige-abigail-ueberlebte-hamas-horror-unter-leiche-ihres-vaters-a-2789656e-ff83-4e1f-af6c-0c436c68c0de#ref=rss)
-### liste
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-polen-und-die-unabhaengigkeit-der-justiz-benachteiligte-schueler-mit-migrationshintergrund-geiseln-der-hamas](https://www.spiegel.de/politik/deutschland/news-des-tages-polen-und-die-unabhaengigkeit-der-justiz-benachteiligte-schueler-mit-migrationshintergrund-geiseln-der-hamas-a-b8762d6c-1d5c-43c2-970f-32769e5911ac#ref=rss)
+### justiz
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-israel-bekommt-liste-weitere-geiseln-sollen-freikommen](https://www.spiegel.de/ausland/israel-gaza-krieg-israel-bekommt-liste-weitere-geiseln-sollen-freikommen-a-d9f3c108-1c62-4fce-b320-f893645878ab#ref=rss)
-### freikommen
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-polen-und-die-unabhaengigkeit-der-justiz-benachteiligte-schueler-mit-migrationshintergrund-geiseln-der-hamas](https://www.spiegel.de/politik/deutschland/news-des-tages-polen-und-die-unabhaengigkeit-der-justiz-benachteiligte-schueler-mit-migrationshintergrund-geiseln-der-hamas-a-b8762d6c-1d5c-43c2-970f-32769e5911ac#ref=rss)
+### schüler
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-israel-bekommt-liste-weitere-geiseln-sollen-freikommen](https://www.spiegel.de/ausland/israel-gaza-krieg-israel-bekommt-liste-weitere-geiseln-sollen-freikommen-a-d9f3c108-1c62-4fce-b320-f893645878ab#ref=rss)
-### nba
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-polen-und-die-unabhaengigkeit-der-justiz-benachteiligte-schueler-mit-migrationshintergrund-geiseln-der-hamas](https://www.spiegel.de/politik/deutschland/news-des-tages-polen-und-die-unabhaengigkeit-der-justiz-benachteiligte-schueler-mit-migrationshintergrund-geiseln-der-hamas-a-b8762d6c-1d5c-43c2-970f-32769e5911ac#ref=rss)
+### migrationshintergrund
 
-* [https://www.spiegel.de/sport/basketball/nba-siebter-sieg-in-folge-franz-und-moritz-wagner-bauen-serie-mit-orlando-magic-aus](https://www.spiegel.de/sport/basketball/nba-siebter-sieg-in-folge-franz-und-moritz-wagner-bauen-serie-mit-orlando-magic-aus-a-99cf5d72-2ca3-410f-89df-4e46d4216279#ref=rss)
-### folge
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-polen-und-die-unabhaengigkeit-der-justiz-benachteiligte-schueler-mit-migrationshintergrund-geiseln-der-hamas](https://www.spiegel.de/politik/deutschland/news-des-tages-polen-und-die-unabhaengigkeit-der-justiz-benachteiligte-schueler-mit-migrationshintergrund-geiseln-der-hamas-a-b8762d6c-1d5c-43c2-970f-32769e5911ac#ref=rss)
+### angehörigen
 
-* [https://www.spiegel.de/sport/basketball/nba-siebter-sieg-in-folge-franz-und-moritz-wagner-bauen-serie-mit-orlando-magic-aus](https://www.spiegel.de/sport/basketball/nba-siebter-sieg-in-folge-franz-und-moritz-wagner-bauen-serie-mit-orlando-magic-aus-a-99cf5d72-2ca3-410f-89df-4e46d4216279#ref=rss)
-### franz
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-polen-und-die-unabhaengigkeit-der-justiz-benachteiligte-schueler-mit-migrationshintergrund-geiseln-der-hamas](https://www.spiegel.de/politik/deutschland/news-des-tages-polen-und-die-unabhaengigkeit-der-justiz-benachteiligte-schueler-mit-migrationshintergrund-geiseln-der-hamas-a-b8762d6c-1d5c-43c2-970f-32769e5911ac#ref=rss)
+* [https://www.spiegel.de/ausland/israel-wie-die-familien-die-freilassung-der-hamas-geiseln-erlebt-haben](https://www.spiegel.de/ausland/israel-wie-die-familien-die-freilassung-der-hamas-geiseln-erlebt-haben-a-9851e77c-6549-4e72-b6cd-b419821a6b3e#ref=rss)
+### duda
 
-* [https://www.spiegel.de/sport/basketball/nba-siebter-sieg-in-folge-franz-und-moritz-wagner-bauen-serie-mit-orlando-magic-aus](https://www.spiegel.de/sport/basketball/nba-siebter-sieg-in-folge-franz-und-moritz-wagner-bauen-serie-mit-orlando-magic-aus-a-99cf5d72-2ca3-410f-89df-4e46d4216279#ref=rss)
-### moritz
+* [https://www.spiegel.de/ausland/polen-praesident-andrzej-duda-vereidigt-chancenlose-pis-regierung-von-mateusz-morawiecki](https://www.spiegel.de/ausland/polen-praesident-andrzej-duda-vereidigt-chancenlose-pis-regierung-von-mateusz-morawiecki-a-d85ac4c9-eac1-4f53-baa3-78d81cb75d48#ref=rss)
+### vereidigt
 
-* [https://www.spiegel.de/sport/basketball/nba-siebter-sieg-in-folge-franz-und-moritz-wagner-bauen-serie-mit-orlando-magic-aus](https://www.spiegel.de/sport/basketball/nba-siebter-sieg-in-folge-franz-und-moritz-wagner-bauen-serie-mit-orlando-magic-aus-a-99cf5d72-2ca3-410f-89df-4e46d4216279#ref=rss)
-### wagner
+* [https://www.spiegel.de/ausland/polen-praesident-andrzej-duda-vereidigt-chancenlose-pis-regierung-von-mateusz-morawiecki](https://www.spiegel.de/ausland/polen-praesident-andrzej-duda-vereidigt-chancenlose-pis-regierung-von-mateusz-morawiecki-a-d85ac4c9-eac1-4f53-baa3-78d81cb75d48#ref=rss)
+### sieben
 
-* [https://www.spiegel.de/sport/basketball/nba-siebter-sieg-in-folge-franz-und-moritz-wagner-bauen-serie-mit-orlando-magic-aus](https://www.spiegel.de/sport/basketball/nba-siebter-sieg-in-folge-franz-und-moritz-wagner-bauen-serie-mit-orlando-magic-aus-a-99cf5d72-2ca3-410f-89df-4e46d4216279#ref=rss)
-### serie
+* [https://www.spiegel.de/ausland/polen-praesident-andrzej-duda-vereidigt-chancenlose-pis-regierung-von-mateusz-morawiecki](https://www.spiegel.de/ausland/polen-praesident-andrzej-duda-vereidigt-chancenlose-pis-regierung-von-mateusz-morawiecki-a-d85ac4c9-eac1-4f53-baa3-78d81cb75d48#ref=rss)
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### kabinett
 
-* [https://www.spiegel.de/sport/basketball/nba-siebter-sieg-in-folge-franz-und-moritz-wagner-bauen-serie-mit-orlando-magic-aus](https://www.spiegel.de/sport/basketball/nba-siebter-sieg-in-folge-franz-und-moritz-wagner-bauen-serie-mit-orlando-magic-aus-a-99cf5d72-2ca3-410f-89df-4e46d4216279#ref=rss)
-### orlando
+* [https://www.spiegel.de/ausland/polen-praesident-andrzej-duda-vereidigt-chancenlose-pis-regierung-von-mateusz-morawiecki](https://www.spiegel.de/ausland/polen-praesident-andrzej-duda-vereidigt-chancenlose-pis-regierung-von-mateusz-morawiecki-a-d85ac4c9-eac1-4f53-baa3-78d81cb75d48#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kabinett-stimmt-nachtragshaushalt-fuer-2023-zu](https://www.spiegel.de/politik/deutschland/kabinett-stimmt-nachtragshaushalt-fuer-2023-zu-a-309b4853-da1e-4b05-ab6f-ccee5131052b#ref=rss)
+### kanzleramt
 
-* [https://www.spiegel.de/sport/basketball/nba-siebter-sieg-in-folge-franz-und-moritz-wagner-bauen-serie-mit-orlando-magic-aus](https://www.spiegel.de/sport/basketball/nba-siebter-sieg-in-folge-franz-und-moritz-wagner-bauen-serie-mit-orlando-magic-aus-a-99cf5d72-2ca3-410f-89df-4e46d4216279#ref=rss)
-### magic
+* [https://www.spiegel.de/auto/auto-gipfel-im-kanzleramt-warum-das-elektroautoziel-der-regierung-zu-kippen-droht](https://www.spiegel.de/auto/auto-gipfel-im-kanzleramt-warum-das-elektroautoziel-der-regierung-zu-kippen-droht-a-ac82cf23-89bf-4ca6-92cd-e19ad1908b8b#ref=rss)
+### tarifvertrag
 
-* [https://www.spiegel.de/sport/basketball/nba-siebter-sieg-in-folge-franz-und-moritz-wagner-bauen-serie-mit-orlando-magic-aus](https://www.spiegel.de/sport/basketball/nba-siebter-sieg-in-folge-franz-und-moritz-wagner-bauen-serie-mit-orlando-magic-aus-a-99cf5d72-2ca3-410f-89df-4e46d4216279#ref=rss)
-### mützenich
+* [https://www.spiegel.de/start/tarifvertrag-fuer-studentische-beschaeftigte-warum-hiwis-keine-ausnahme-mehr-sein-wollen](https://www.spiegel.de/start/tarifvertrag-fuer-studentische-beschaeftigte-warum-hiwis-keine-ausnahme-mehr-sein-wollen-a-7fe13c76-1b29-4a3f-b8c9-2453975b375a#ref=rss)
+### studentische
 
-* [https://www.spiegel.de/politik/deutschland/haushaltsnotlage-rolf-muetzenich-sieht-gruende-fuer-verlaengerung-im-kommenden-jahr](https://www.spiegel.de/politik/deutschland/haushaltsnotlage-rolf-muetzenich-sieht-gruende-fuer-verlaengerung-im-kommenden-jahr-a-59cc6bed-7d42-403f-bcb3-96f28e713e4d#ref=rss)
+* [https://www.spiegel.de/start/tarifvertrag-fuer-studentische-beschaeftigte-warum-hiwis-keine-ausnahme-mehr-sein-wollen](https://www.spiegel.de/start/tarifvertrag-fuer-studentische-beschaeftigte-warum-hiwis-keine-ausnahme-mehr-sein-wollen-a-7fe13c76-1b29-4a3f-b8c9-2453975b375a#ref=rss)
+### beschäftigte
+
+* [https://www.spiegel.de/start/tarifvertrag-fuer-studentische-beschaeftigte-warum-hiwis-keine-ausnahme-mehr-sein-wollen](https://www.spiegel.de/start/tarifvertrag-fuer-studentische-beschaeftigte-warum-hiwis-keine-ausnahme-mehr-sein-wollen-a-7fe13c76-1b29-4a3f-b8c9-2453975b375a#ref=rss)
+### ausnahme
+
+* [https://www.spiegel.de/start/tarifvertrag-fuer-studentische-beschaeftigte-warum-hiwis-keine-ausnahme-mehr-sein-wollen](https://www.spiegel.de/start/tarifvertrag-fuer-studentische-beschaeftigte-warum-hiwis-keine-ausnahme-mehr-sein-wollen-a-7fe13c76-1b29-4a3f-b8c9-2453975b375a#ref=rss)
+* [https://www.spiegel.de/ausland/politik-mehrheit-der-deutschen-lehnen-deutsche-fuehrungsrolle-in-der-welt-ab](https://www.spiegel.de/ausland/politik-mehrheit-der-deutschen-lehnen-deutsche-fuehrungsrolle-in-der-welt-ab-a-db327f64-629a-4f92-bae3-a9804e131231#ref=rss)
+### fordern
+
+* [https://www.spiegel.de/start/tarifvertrag-fuer-studentische-beschaeftigte-warum-hiwis-keine-ausnahme-mehr-sein-wollen](https://www.spiegel.de/start/tarifvertrag-fuer-studentische-beschaeftigte-warum-hiwis-keine-ausnahme-mehr-sein-wollen-a-7fe13c76-1b29-4a3f-b8c9-2453975b375a#ref=rss)
+* [https://www.spiegel.de/panorama/acapulco-drohnenaufnahmen-zeigen-zerstoerungen](https://www.spiegel.de/panorama/acapulco-drohnenaufnahmen-zeigen-zerstoerungen-a-4feca7e2-eee8-4860-bfa6-cd521408c10f#ref=rss)
+### acapulco
+
+* [https://www.spiegel.de/panorama/acapulco-drohnenaufnahmen-zeigen-zerstoerungen](https://www.spiegel.de/panorama/acapulco-drohnenaufnahmen-zeigen-zerstoerungen-a-4feca7e2-eee8-4860-bfa6-cd521408c10f#ref=rss)
+### drohnenaufnahmen
+
+* [https://www.spiegel.de/panorama/acapulco-drohnenaufnahmen-zeigen-zerstoerungen](https://www.spiegel.de/panorama/acapulco-drohnenaufnahmen-zeigen-zerstoerungen-a-4feca7e2-eee8-4860-bfa6-cd521408c10f#ref=rss)
+### halbfinale
+
+* [https://www.spiegel.de/sport/fussball/dfb-auswahl-bei-u17-wm-im-halbfinale-ein-deutsches-team-das-sogar-verteidigen-kann](https://www.spiegel.de/sport/fussball/dfb-auswahl-bei-u17-wm-im-halbfinale-ein-deutsches-team-das-sogar-verteidigen-kann-a-35fcd885-7bf8-484c-9f70-cd6379cf063c#ref=rss)
+### gaza
+
+* [https://www.spiegel.de/kultur/index-palestine-haltung-zu-gaza-aufgelistet-denunziatorische-absicht](https://www.spiegel.de/kultur/index-palestine-haltung-zu-gaza-aufgelistet-denunziatorische-absicht-a-fb8f8dbc-3afc-4c21-96ad-8dbd89f0da49#ref=rss)
+* [https://www.spiegel.de/ausland/israel-wie-die-familien-die-freilassung-der-hamas-geiseln-erlebt-haben](https://www.spiegel.de/ausland/israel-wie-die-familien-die-freilassung-der-hamas-geiseln-erlebt-haben-a-9851e77c-6549-4e72-b6cd-b419821a6b3e#ref=rss)
+### oktober
+
+* [https://www.spiegel.de/kultur/index-palestine-haltung-zu-gaza-aufgelistet-denunziatorische-absicht](https://www.spiegel.de/kultur/index-palestine-haltung-zu-gaza-aufgelistet-denunziatorische-absicht-a-fb8f8dbc-3afc-4c21-96ad-8dbd89f0da49#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/israel-besuch-von-frank-walter-steinmeier-es-versagt-auch-mir-die-sprache](https://www.spiegel.de/politik/deutschland/israel-besuch-von-frank-walter-steinmeier-es-versagt-auch-mir-die-sprache-a-a377819c-a21f-4421-b746-62497fc861f4#ref=rss)
+### rund
+
+* [https://www.spiegel.de/panorama/justiz/bamberg-zwoelf-mutmassliche-geldautomatensprenger-in-bayern-angeklagt](https://www.spiegel.de/panorama/justiz/bamberg-zwoelf-mutmassliche-geldautomatensprenger-in-bayern-angeklagt-a-99df3259-948f-45b0-85c7-6e98d324e3db#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/europaeische-ermittler-decken-millionenbetrug-per-mehrwertsteuer-karussell-auf](https://www.spiegel.de/panorama/justiz/europaeische-ermittler-decken-millionenbetrug-per-mehrwertsteuer-karussell-auf-a-b4c91831-276a-4e28-9024-d74ac7a27154#ref=rss)
+### bande
+
+* [https://www.spiegel.de/panorama/justiz/bamberg-zwoelf-mutmassliche-geldautomatensprenger-in-bayern-angeklagt](https://www.spiegel.de/panorama/justiz/bamberg-zwoelf-mutmassliche-geldautomatensprenger-in-bayern-angeklagt-a-99df3259-948f-45b0-85c7-6e98d324e3db#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/europaeische-ermittler-decken-millionenbetrug-per-mehrwertsteuer-karussell-auf](https://www.spiegel.de/panorama/justiz/europaeische-ermittler-decken-millionenbetrug-per-mehrwertsteuer-karussell-auf-a-b4c91831-276a-4e28-9024-d74ac7a27154#ref=rss)
+### kibbuz
+
+* [https://www.spiegel.de/politik/deutschland/israel-besuch-von-frank-walter-steinmeier-es-versagt-auch-mir-die-sprache](https://www.spiegel.de/politik/deutschland/israel-besuch-von-frank-walter-steinmeier-es-versagt-auch-mir-die-sprache-a-a377819c-a21f-4421-b746-62497fc861f4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-in-israel-deutschland-unterstuetzt-kibbuz-wiederaufbau](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-in-israel-deutschland-unterstuetzt-kibbuz-wiederaufbau-a-f5cdbef0-0144-4aa0-bb28-fdf440b4ec88#ref=rss)
+### palästinenser
+
+* [https://www.spiegel.de/politik/deutschland/israel-besuch-von-frank-walter-steinmeier-es-versagt-auch-mir-die-sprache](https://www.spiegel.de/politik/deutschland/israel-besuch-von-frank-walter-steinmeier-es-versagt-auch-mir-die-sprache-a-a377819c-a21f-4421-b746-62497fc861f4#ref=rss)
+* [https://www.spiegel.de/ausland/gazastreifen-waffenruhe-zwischen-israel-und-hamas-wird-um-zwei-tage-verlaengert](https://www.spiegel.de/ausland/gazastreifen-waffenruhe-zwischen-israel-und-hamas-wird-um-zwei-tage-verlaengert-a-2a9b1fab-636a-4f31-b563-b405cd27e2a4#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/ausland/gazastreifen-waffenruhe-zwischen-israel-und-hamas-wird-um-zwei-tage-verlaengert](https://www.spiegel.de/ausland/gazastreifen-waffenruhe-zwischen-israel-und-hamas-wird-um-zwei-tage-verlaengert-a-2a9b1fab-636a-4f31-b563-b405cd27e2a4#ref=rss)
+### tage
+
+* [https://www.spiegel.de/ausland/gazastreifen-waffenruhe-zwischen-israel-und-hamas-wird-um-zwei-tage-verlaengert](https://www.spiegel.de/ausland/gazastreifen-waffenruhe-zwischen-israel-und-hamas-wird-um-zwei-tage-verlaengert-a-2a9b1fab-636a-4f31-b563-b405cd27e2a4#ref=rss)
+### kommen
+
+* [https://www.spiegel.de/ausland/gazastreifen-waffenruhe-zwischen-israel-und-hamas-wird-um-zwei-tage-verlaengert](https://www.spiegel.de/ausland/gazastreifen-waffenruhe-zwischen-israel-und-hamas-wird-um-zwei-tage-verlaengert-a-2a9b1fab-636a-4f31-b563-b405cd27e2a4#ref=rss)
+* [https://www.spiegel.de/ausland/israel-wie-die-familien-die-freilassung-der-hamas-geiseln-erlebt-haben](https://www.spiegel.de/ausland/israel-wie-die-familien-die-freilassung-der-hamas-geiseln-erlebt-haben-a-9851e77c-6549-4e72-b6cd-b419821a6b3e#ref=rss)
+### europäische
+
+* [https://www.spiegel.de/panorama/justiz/europaeische-ermittler-decken-millionenbetrug-per-mehrwertsteuer-karussell-auf](https://www.spiegel.de/panorama/justiz/europaeische-ermittler-decken-millionenbetrug-per-mehrwertsteuer-karussell-auf-a-b4c91831-276a-4e28-9024-d74ac7a27154#ref=rss)
+### ermittler
+
+* [https://www.spiegel.de/panorama/justiz/europaeische-ermittler-decken-millionenbetrug-per-mehrwertsteuer-karussell-auf](https://www.spiegel.de/panorama/justiz/europaeische-ermittler-decken-millionenbetrug-per-mehrwertsteuer-karussell-auf-a-b4c91831-276a-4e28-9024-d74ac7a27154#ref=rss)
+### sollte
+
+* [https://www.spiegel.de/ausland/politik-mehrheit-der-deutschen-lehnen-deutsche-fuehrungsrolle-in-der-welt-ab](https://www.spiegel.de/ausland/politik-mehrheit-der-deutschen-lehnen-deutsche-fuehrungsrolle-in-der-welt-ab-a-db327f64-629a-4f92-bae3-a9804e131231#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/thailand-braeutigam-erschiesst-braut-und-drei-weitere-gaeste-auf-hochzeit](https://www.spiegel.de/panorama/justiz/thailand-braeutigam-erschiesst-braut-und-drei-weitere-gaeste-auf-hochzeit-a-cbfecff6-b977-4fcb-929c-05441beaccc4#ref=rss)
+### letzten
+
+* [https://www.spiegel.de/politik/deutschland/die-linke-die-linksfraktion-kommt-zur-letzten-sitzung-vor-aufloesung-zusammen](https://www.spiegel.de/politik/deutschland/die-linke-die-linksfraktion-kommt-zur-letzten-sitzung-vor-aufloesung-zusammen-a-0e8660a4-d324-4803-9a59-052cbd7dfd60#ref=rss)
+### auflösung
+
+* [https://www.spiegel.de/politik/deutschland/die-linke-die-linksfraktion-kommt-zur-letzten-sitzung-vor-aufloesung-zusammen](https://www.spiegel.de/politik/deutschland/die-linke-die-linksfraktion-kommt-zur-letzten-sitzung-vor-aufloesung-zusammen-a-0e8660a4-d324-4803-9a59-052cbd7dfd60#ref=rss)
+### thailand
+
+* [https://www.spiegel.de/panorama/justiz/thailand-braeutigam-erschiesst-braut-und-drei-weitere-gaeste-auf-hochzeit](https://www.spiegel.de/panorama/justiz/thailand-braeutigam-erschiesst-braut-und-drei-weitere-gaeste-auf-hochzeit-a-cbfecff6-b977-4fcb-929c-05441beaccc4#ref=rss)
+### bräutigam
+
+* [https://www.spiegel.de/panorama/justiz/thailand-braeutigam-erschiesst-braut-und-drei-weitere-gaeste-auf-hochzeit](https://www.spiegel.de/panorama/justiz/thailand-braeutigam-erschiesst-braut-und-drei-weitere-gaeste-auf-hochzeit-a-cbfecff6-b977-4fcb-929c-05441beaccc4#ref=rss)
+### hochzeit
+
+* [https://www.spiegel.de/panorama/justiz/thailand-braeutigam-erschiesst-braut-und-drei-weitere-gaeste-auf-hochzeit](https://www.spiegel.de/panorama/justiz/thailand-braeutigam-erschiesst-braut-und-drei-weitere-gaeste-auf-hochzeit-a-cbfecff6-b977-4fcb-929c-05441beaccc4#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/panorama/justiz/thailand-braeutigam-erschiesst-braut-und-drei-weitere-gaeste-auf-hochzeit](https://www.spiegel.de/panorama/justiz/thailand-braeutigam-erschiesst-braut-und-drei-weitere-gaeste-auf-hochzeit-a-cbfecff6-b977-4fcb-929c-05441beaccc4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/peter-mueller-spd-kritisiert-verfassungsrichter-fuer-applaus-bei-cdu-parteitag](https://www.spiegel.de/politik/deutschland/peter-mueller-spd-kritisiert-verfassungsrichter-fuer-applaus-bei-cdu-parteitag-a-440e57f2-cec7-4309-8821-321e528e909b#ref=rss)
+### dazu
+
+* [https://www.spiegel.de/ausland/ukraine-russland-krieg-verhandlungen-mit-russland-waeren-kapitulationsmonolog-der-ukraine](https://www.spiegel.de/ausland/ukraine-russland-krieg-verhandlungen-mit-russland-waeren-kapitulationsmonolog-der-ukraine-a-04b1082a-b560-464a-a257-4c83a8c8c9db#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/peter-mueller-spd-kritisiert-verfassungsrichter-fuer-applaus-bei-cdu-parteitag](https://www.spiegel.de/politik/deutschland/peter-mueller-spd-kritisiert-verfassungsrichter-fuer-applaus-bei-cdu-parteitag-a-440e57f2-cec7-4309-8821-321e528e909b#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/ausland/ukraine-russland-krieg-verhandlungen-mit-russland-waeren-kapitulationsmonolog-der-ukraine](https://www.spiegel.de/ausland/ukraine-russland-krieg-verhandlungen-mit-russland-waeren-kapitulationsmonolog-der-ukraine-a-04b1082a-b560-464a-a257-4c83a8c8c9db#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/lisa-paus-ueber-haeusliche-gewalt-das-ausmass-ist-unertraeglich](https://www.spiegel.de/panorama/gesellschaft/lisa-paus-ueber-haeusliche-gewalt-das-ausmass-ist-unertraeglich-a-4756dc8e-a09b-4e19-9f80-f65aa4026124#ref=rss)
+### ökonom
+
+* [https://www.spiegel.de/wirtschaft/soziales/daenischer-oekonom-ueber-deutschlands-haushalt-die-schuldenbremse-ist-eine-verruecktheit](https://www.spiegel.de/wirtschaft/soziales/daenischer-oekonom-ueber-deutschlands-haushalt-die-schuldenbremse-ist-eine-verruecktheit-a-c5a9ed99-19a0-4043-8780-42d9356da11e#ref=rss)
+### insektizide
+
+* [https://www.spiegel.de/wissenschaft/insektizide-in-lebensmitteln-studie-zeigt-zusammenhang-mit-spermienkonzentration](https://www.spiegel.de/wissenschaft/insektizide-in-lebensmitteln-studie-zeigt-zusammenhang-mit-spermienkonzentration-a-16870a66-60c3-4904-9235-f3f489212a33#ref=rss)
+### nachtragshaushalt
+
+* [https://www.spiegel.de/politik/deutschland/kabinett-stimmt-nachtragshaushalt-fuer-2023-zu](https://www.spiegel.de/politik/deutschland/kabinett-stimmt-nachtragshaushalt-fuer-2023-zu-a-309b4853-da1e-4b05-ab6f-ccee5131052b#ref=rss)
 ### 2023
 
-* [https://www.spiegel.de/politik/deutschland/haushaltsnotlage-rolf-muetzenich-sieht-gruende-fuer-verlaengerung-im-kommenden-jahr](https://www.spiegel.de/politik/deutschland/haushaltsnotlage-rolf-muetzenich-sieht-gruende-fuer-verlaengerung-im-kommenden-jahr-a-59cc6bed-7d42-403f-bcb3-96f28e713e4d#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/booker-prize-2023-irischer-autor-paul-lynch-fuer-roman-prophet-song-ausgezeichnet](https://www.spiegel.de/kultur/literatur/booker-prize-2023-irischer-autor-paul-lynch-fuer-roman-prophet-song-ausgezeichnet-a-1e534a53-3cd3-44e4-a0c8-74fd8ce9d97d#ref=rss)
-### alles
+* [https://www.spiegel.de/politik/deutschland/kabinett-stimmt-nachtragshaushalt-fuer-2023-zu](https://www.spiegel.de/politik/deutschland/kabinett-stimmt-nachtragshaushalt-fuer-2023-zu-a-309b4853-da1e-4b05-ab6f-ccee5131052b#ref=rss)
+### unter
 
-* [https://www.spiegel.de/karriere/bin-ich-denn-hier-der-depp-fuer-alles-tipps-vom-karrierecoach](https://www.spiegel.de/karriere/bin-ich-denn-hier-der-depp-fuer-alles-tipps-vom-karrierecoach-a-7386aeb9-ea77-4106-83f3-2e0944cf61fe#ref=rss)
-### nordkorea
+* [https://www.spiegel.de/politik/deutschland/kabinett-stimmt-nachtragshaushalt-fuer-2023-zu](https://www.spiegel.de/politik/deutschland/kabinett-stimmt-nachtragshaushalt-fuer-2023-zu-a-309b4853-da1e-4b05-ab6f-ccee5131052b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/hannover-spd-beendet-rot-gruene-koalition-im-rathaus](https://www.spiegel.de/politik/deutschland/hannover-spd-beendet-rot-gruene-koalition-im-rathaus-a-8facc485-61e7-43b8-889b-2d961c09a163#ref=rss)
+### anderem
 
-* [https://www.spiegel.de/ausland/nordkorea-verlegt-soldaten-und-schwere-waffen-an-die-grenze](https://www.spiegel.de/ausland/nordkorea-verlegt-soldaten-und-schwere-waffen-an-die-grenze-a-9d7fe23c-7914-4e1d-abe8-34704e76eb7e#ref=rss)
-### rita
+* [https://www.spiegel.de/politik/deutschland/kabinett-stimmt-nachtragshaushalt-fuer-2023-zu](https://www.spiegel.de/politik/deutschland/kabinett-stimmt-nachtragshaushalt-fuer-2023-zu-a-309b4853-da1e-4b05-ab6f-ccee5131052b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/hannover-spd-beendet-rot-gruene-koalition-im-rathaus](https://www.spiegel.de/politik/deutschland/hannover-spd-beendet-rot-gruene-koalition-im-rathaus-a-8facc485-61e7-43b8-889b-2d961c09a163#ref=rss)
+### hauptstadt
 
-* [https://www.spiegel.de/panorama/leute/rita-ora-feiert-geburtstag-im-kosovo-empfang-beim-premierminister](https://www.spiegel.de/panorama/leute/rita-ora-feiert-geburtstag-im-kosovo-empfang-beim-premierminister-a-dd93ace1-9198-40d3-a9e3-b232ff31f0c3#ref=rss)
-### ora
+* [https://www.spiegel.de/politik/deutschland/berlin-cdu-fraktion-fordert-mehr-hochhaeuser-in-der-hauptstadt](https://www.spiegel.de/politik/deutschland/berlin-cdu-fraktion-fordert-mehr-hochhaeuser-in-der-hauptstadt-a-d31b247d-ac3e-4bd9-bff0-1d03308a9a13#ref=rss)
+### grüne
 
-* [https://www.spiegel.de/panorama/leute/rita-ora-feiert-geburtstag-im-kosovo-empfang-beim-premierminister](https://www.spiegel.de/panorama/leute/rita-ora-feiert-geburtstag-im-kosovo-empfang-beim-premierminister-a-dd93ace1-9198-40d3-a9e3-b232ff31f0c3#ref=rss)
-### geburtstag
+* [https://www.spiegel.de/politik/deutschland/berlin-cdu-fraktion-fordert-mehr-hochhaeuser-in-der-hauptstadt](https://www.spiegel.de/politik/deutschland/berlin-cdu-fraktion-fordert-mehr-hochhaeuser-in-der-hauptstadt-a-d31b247d-ac3e-4bd9-bff0-1d03308a9a13#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/hannover-spd-beendet-rot-gruene-koalition-im-rathaus](https://www.spiegel.de/politik/deutschland/hannover-spd-beendet-rot-gruene-koalition-im-rathaus-a-8facc485-61e7-43b8-889b-2d961c09a163#ref=rss)
+### peter
 
-* [https://www.spiegel.de/panorama/leute/rita-ora-feiert-geburtstag-im-kosovo-empfang-beim-premierminister](https://www.spiegel.de/panorama/leute/rita-ora-feiert-geburtstag-im-kosovo-empfang-beim-premierminister-a-dd93ace1-9198-40d3-a9e3-b232ff31f0c3#ref=rss)
-### kosovo
+* [https://www.spiegel.de/politik/deutschland/peter-mueller-spd-kritisiert-verfassungsrichter-fuer-applaus-bei-cdu-parteitag](https://www.spiegel.de/politik/deutschland/peter-mueller-spd-kritisiert-verfassungsrichter-fuer-applaus-bei-cdu-parteitag-a-440e57f2-cec7-4309-8821-321e528e909b#ref=rss)
+### kritisiert
 
-* [https://www.spiegel.de/panorama/leute/rita-ora-feiert-geburtstag-im-kosovo-empfang-beim-premierminister](https://www.spiegel.de/panorama/leute/rita-ora-feiert-geburtstag-im-kosovo-empfang-beim-premierminister-a-dd93ace1-9198-40d3-a9e3-b232ff31f0c3#ref=rss)
-### jan
+* [https://www.spiegel.de/politik/deutschland/peter-mueller-spd-kritisiert-verfassungsrichter-fuer-applaus-bei-cdu-parteitag](https://www.spiegel.de/politik/deutschland/peter-mueller-spd-kritisiert-verfassungsrichter-fuer-applaus-bei-cdu-parteitag-a-440e57f2-cec7-4309-8821-321e528e909b#ref=rss)
+### verfassungsrichter
 
-* [https://www.spiegel.de/sport/amazon-doku-der-gejagte-ueber-jan-ullrich-ganz-oben-ganz-unten](https://www.spiegel.de/sport/amazon-doku-der-gejagte-ueber-jan-ullrich-ganz-oben-ganz-unten-a-efc5a1ef-d917-4d98-b314-29870af4d039#ref=rss)
-### ullrich
+* [https://www.spiegel.de/politik/deutschland/peter-mueller-spd-kritisiert-verfassungsrichter-fuer-applaus-bei-cdu-parteitag](https://www.spiegel.de/politik/deutschland/peter-mueller-spd-kritisiert-verfassungsrichter-fuer-applaus-bei-cdu-parteitag-a-440e57f2-cec7-4309-8821-321e528e909b#ref=rss)
+### cduparteitag
 
-* [https://www.spiegel.de/sport/amazon-doku-der-gejagte-ueber-jan-ullrich-ganz-oben-ganz-unten](https://www.spiegel.de/sport/amazon-doku-der-gejagte-ueber-jan-ullrich-ganz-oben-ganz-unten-a-efc5a1ef-d917-4d98-b314-29870af4d039#ref=rss)
-### kühne
+* [https://www.spiegel.de/politik/deutschland/peter-mueller-spd-kritisiert-verfassungsrichter-fuer-applaus-bei-cdu-parteitag](https://www.spiegel.de/politik/deutschland/peter-mueller-spd-kritisiert-verfassungsrichter-fuer-applaus-bei-cdu-parteitag-a-440e57f2-cec7-4309-8821-321e528e909b#ref=rss)
+### haushaltsurteil
 
-* [https://www.spiegel.de/wirtschaft/hamburger-elbtower-milliardaer-klaus-michael-kuehne-prueft-nach-signa-krise-offenbar-uebernahme](https://www.spiegel.de/wirtschaft/hamburger-elbtower-milliardaer-klaus-michael-kuehne-prueft-nach-signa-krise-offenbar-uebernahme-a-2a2cf982-1390-48b6-901d-c3b315031aaa#ref=rss)
-### zurückbringen
+* [https://www.spiegel.de/politik/deutschland/peter-mueller-spd-kritisiert-verfassungsrichter-fuer-applaus-bei-cdu-parteitag](https://www.spiegel.de/politik/deutschland/peter-mueller-spd-kritisiert-verfassungsrichter-fuer-applaus-bei-cdu-parteitag-a-440e57f2-cec7-4309-8821-321e528e909b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/haushalt-gruenen-fraktionschefin-katharina-droege-will-reform-der-schuldenbremse-mit-union](https://www.spiegel.de/politik/deutschland/haushalt-gruenen-fraktionschefin-katharina-droege-will-reform-der-schuldenbremse-mit-union-a-c71a3a5b-84c4-4e16-b8ff-6503a8b822b3#ref=rss)
+### katharina
 
-* [https://www.spiegel.de/ausland/gaza-krieg-druck-auf-israels-regierung-kampf-gegen-hamas-oder-geiseln-zurueckbringen](https://www.spiegel.de/ausland/gaza-krieg-druck-auf-israels-regierung-kampf-gegen-hamas-oder-geiseln-zurueckbringen-a-2fc2a3d9-fe3a-4004-8880-aa73b65a551a#ref=rss)
-### biden
+* [https://www.spiegel.de/politik/deutschland/haushalt-gruenen-fraktionschefin-katharina-droege-will-reform-der-schuldenbremse-mit-union](https://www.spiegel.de/politik/deutschland/haushalt-gruenen-fraktionschefin-katharina-droege-will-reform-der-schuldenbremse-mit-union-a-c71a3a5b-84c4-4e16-b8ff-6503a8b822b3#ref=rss)
+### dröge
 
-* [https://www.spiegel.de/ausland/joe-biden-reist-laut-medienbericht-nicht-zur-klimakonferenz-in-dubai](https://www.spiegel.de/ausland/joe-biden-reist-laut-medienbericht-nicht-zur-klimakonferenz-in-dubai-a-988177a4-b9fd-481e-b2d1-853b1efdda07#ref=rss)
-### klimakonferenz
+* [https://www.spiegel.de/politik/deutschland/haushalt-gruenen-fraktionschefin-katharina-droege-will-reform-der-schuldenbremse-mit-union](https://www.spiegel.de/politik/deutschland/haushalt-gruenen-fraktionschefin-katharina-droege-will-reform-der-schuldenbremse-mit-union-a-c71a3a5b-84c4-4e16-b8ff-6503a8b822b3#ref=rss)
+### reform
 
-* [https://www.spiegel.de/ausland/joe-biden-reist-laut-medienbericht-nicht-zur-klimakonferenz-in-dubai](https://www.spiegel.de/ausland/joe-biden-reist-laut-medienbericht-nicht-zur-klimakonferenz-in-dubai-a-988177a4-b9fd-481e-b2d1-853b1efdda07#ref=rss)
-### dubai
+* [https://www.spiegel.de/politik/deutschland/haushalt-gruenen-fraktionschefin-katharina-droege-will-reform-der-schuldenbremse-mit-union](https://www.spiegel.de/politik/deutschland/haushalt-gruenen-fraktionschefin-katharina-droege-will-reform-der-schuldenbremse-mit-union-a-c71a3a5b-84c4-4e16-b8ff-6503a8b822b3#ref=rss)
+### union
 
-* [https://www.spiegel.de/ausland/joe-biden-reist-laut-medienbericht-nicht-zur-klimakonferenz-in-dubai](https://www.spiegel.de/ausland/joe-biden-reist-laut-medienbericht-nicht-zur-klimakonferenz-in-dubai-a-988177a4-b9fd-481e-b2d1-853b1efdda07#ref=rss)
-### vierjährige
+* [https://www.spiegel.de/politik/deutschland/haushalt-gruenen-fraktionschefin-katharina-droege-will-reform-der-schuldenbremse-mit-union](https://www.spiegel.de/politik/deutschland/haushalt-gruenen-fraktionschefin-katharina-droege-will-reform-der-schuldenbremse-mit-union-a-c71a3a5b-84c4-4e16-b8ff-6503a8b822b3#ref=rss)
+### hannover
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-vierjaehrige-abigail-ueberlebte-hamas-horror-unter-leiche-ihres-vaters](https://www.spiegel.de/ausland/israel-gaza-krieg-vierjaehrige-abigail-ueberlebte-hamas-horror-unter-leiche-ihres-vaters-a-2789656e-ff83-4e1f-af6c-0c436c68c0de#ref=rss)
-### abigail
+* [https://www.spiegel.de/politik/deutschland/hannover-spd-beendet-rot-gruene-koalition-im-rathaus](https://www.spiegel.de/politik/deutschland/hannover-spd-beendet-rot-gruene-koalition-im-rathaus-a-8facc485-61e7-43b8-889b-2d961c09a163#ref=rss)
+### beendet
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-vierjaehrige-abigail-ueberlebte-hamas-horror-unter-leiche-ihres-vaters](https://www.spiegel.de/ausland/israel-gaza-krieg-vierjaehrige-abigail-ueberlebte-hamas-horror-unter-leiche-ihres-vaters-a-2789656e-ff83-4e1f-af6c-0c436c68c0de#ref=rss)
-### paul
+* [https://www.spiegel.de/politik/deutschland/hannover-spd-beendet-rot-gruene-koalition-im-rathaus](https://www.spiegel.de/politik/deutschland/hannover-spd-beendet-rot-gruene-koalition-im-rathaus-a-8facc485-61e7-43b8-889b-2d961c09a163#ref=rss)
+### lisa
 
-* [https://www.spiegel.de/kultur/literatur/booker-prize-2023-irischer-autor-paul-lynch-fuer-roman-prophet-song-ausgezeichnet](https://www.spiegel.de/kultur/literatur/booker-prize-2023-irischer-autor-paul-lynch-fuer-roman-prophet-song-ausgezeichnet-a-1e534a53-3cd3-44e4-a0c8-74fd8ce9d97d#ref=rss)
-### lynch
+* [https://www.spiegel.de/panorama/gesellschaft/lisa-paus-ueber-haeusliche-gewalt-das-ausmass-ist-unertraeglich](https://www.spiegel.de/panorama/gesellschaft/lisa-paus-ueber-haeusliche-gewalt-das-ausmass-ist-unertraeglich-a-4756dc8e-a09b-4e19-9f80-f65aa4026124#ref=rss)
+### paus
 
-* [https://www.spiegel.de/kultur/literatur/booker-prize-2023-irischer-autor-paul-lynch-fuer-roman-prophet-song-ausgezeichnet](https://www.spiegel.de/kultur/literatur/booker-prize-2023-irischer-autor-paul-lynch-fuer-roman-prophet-song-ausgezeichnet-a-1e534a53-3cd3-44e4-a0c8-74fd8ce9d97d#ref=rss)
-### roman
+* [https://www.spiegel.de/panorama/gesellschaft/lisa-paus-ueber-haeusliche-gewalt-das-ausmass-ist-unertraeglich](https://www.spiegel.de/panorama/gesellschaft/lisa-paus-ueber-haeusliche-gewalt-das-ausmass-ist-unertraeglich-a-4756dc8e-a09b-4e19-9f80-f65aa4026124#ref=rss)
+### gewalt
 
-* [https://www.spiegel.de/kultur/literatur/booker-prize-2023-irischer-autor-paul-lynch-fuer-roman-prophet-song-ausgezeichnet](https://www.spiegel.de/kultur/literatur/booker-prize-2023-irischer-autor-paul-lynch-fuer-roman-prophet-song-ausgezeichnet-a-1e534a53-3cd3-44e4-a0c8-74fd8ce9d97d#ref=rss)
-### ausgezeichnet
+* [https://www.spiegel.de/panorama/gesellschaft/lisa-paus-ueber-haeusliche-gewalt-das-ausmass-ist-unertraeglich](https://www.spiegel.de/panorama/gesellschaft/lisa-paus-ueber-haeusliche-gewalt-das-ausmass-ist-unertraeglich-a-4756dc8e-a09b-4e19-9f80-f65aa4026124#ref=rss)
+### familien
 
-* [https://www.spiegel.de/kultur/literatur/booker-prize-2023-irischer-autor-paul-lynch-fuer-roman-prophet-song-ausgezeichnet](https://www.spiegel.de/kultur/literatur/booker-prize-2023-irischer-autor-paul-lynch-fuer-roman-prophet-song-ausgezeichnet-a-1e534a53-3cd3-44e4-a0c8-74fd8ce9d97d#ref=rss)
-### stiftung
+* [https://www.spiegel.de/ausland/israel-wie-die-familien-die-freilassung-der-hamas-geiseln-erlebt-haben](https://www.spiegel.de/ausland/israel-wie-die-familien-die-freilassung-der-hamas-geiseln-erlebt-haben-a-9851e77c-6549-4e72-b6cd-b419821a6b3e#ref=rss)
+### thesen
 
-* [https://www.spiegel.de/tests/haushalt/diese-kaffeemaschinen-mit-pads-und-kapseln-empfiehlt-die-stiftung-warentest](https://www.spiegel.de/tests/haushalt/diese-kaffeemaschinen-mit-pads-und-kapseln-empfiehlt-die-stiftung-warentest-a-62d1d376-90ae-41db-a4c3-54aa55bf74b3#ref=rss)
-### warentest
+* [https://www.spiegel.de/sport/formel1/formel-1-finale-warum-mercedes-ins-risiko-gehen-muss-thesen-zum-saisonabschluss](https://www.spiegel.de/sport/formel1/formel-1-finale-warum-mercedes-ins-risiko-gehen-muss-thesen-zum-saisonabschluss-a-60ca459c-d237-4b14-97a1-ab57058bcac5#ref=rss)
+### wintersturm
 
-* [https://www.spiegel.de/tests/haushalt/diese-kaffeemaschinen-mit-pads-und-kapseln-empfiehlt-die-stiftung-warentest](https://www.spiegel.de/tests/haushalt/diese-kaffeemaschinen-mit-pads-und-kapseln-empfiehlt-die-stiftung-warentest-a-62d1d376-90ae-41db-a4c3-54aa55bf74b3#ref=rss)
+* [https://www.spiegel.de/panorama/wintersturm-in-russland-und-ukraine-millionen-menschen-ohne-strom](https://www.spiegel.de/panorama/wintersturm-in-russland-und-ukraine-millionen-menschen-ohne-strom-a-06df4273-5614-4257-8ace-4af952d1708d#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/panorama/wintersturm-in-russland-und-ukraine-millionen-menschen-ohne-strom](https://www.spiegel.de/panorama/wintersturm-in-russland-und-ukraine-millionen-menschen-ohne-strom-a-06df4273-5614-4257-8ace-4af952d1708d#ref=rss)
+### strom
+
+* [https://www.spiegel.de/panorama/wintersturm-in-russland-und-ukraine-millionen-menschen-ohne-strom](https://www.spiegel.de/panorama/wintersturm-in-russland-und-ukraine-millionen-menschen-ohne-strom-a-06df4273-5614-4257-8ace-4af952d1708d#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
+
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
 
