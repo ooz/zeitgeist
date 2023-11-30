@@ -4,300 +4,263 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### gil
+### henry
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-rene-benko-gil-ofarim-klimakonferenz-in-dubai](https://www.spiegel.de/politik/deutschland/news-des-tages-rene-benko-gil-ofarim-klimakonferenz-in-dubai-a-2edd4a66-f6fd-4775-b710-27efb9d6e7a5#ref=rss)
-* [https://www.spiegel.de/panorama/gil-ofarim-und-antisemitismus-der-trugschluss](https://www.spiegel.de/panorama/gil-ofarim-und-antisemitismus-der-trugschluss-a-6b825a8b-7dc4-4d56-881b-929cf929fe14#ref=rss)
-* [https://www.spiegel.de/panorama/leute/gil-ofarim-gestaendnis-karin-prien-cdu-bittet-um-entschuldigung](https://www.spiegel.de/panorama/leute/gil-ofarim-gestaendnis-karin-prien-cdu-bittet-um-entschuldigung-a-12dd6971-9d48-4d9a-8818-4e7a7498496c#ref=rss)
-### ofarim
+* [https://www.spiegel.de/ausland/henry-kissinger-sein-leben-in-bildern](https://www.spiegel.de/ausland/henry-kissinger-sein-leben-in-bildern-a-31219bbc-1084-4257-b896-c97e611724ef#ref=rss)
+* [https://www.spiegel.de/ausland/henry-kissinger-ist-tot-der-jahrhundert-diplomat-nachruf](https://www.spiegel.de/ausland/henry-kissinger-ist-tot-der-jahrhundert-diplomat-nachruf-a-73bb698c-d321-415c-b99f-2b30936cefbe#ref=rss)
+* [https://www.spiegel.de/ausland/henry-kissingers-tod-die-welt-verliert-einen-besonderen-diplomaten](https://www.spiegel.de/ausland/henry-kissingers-tod-die-welt-verliert-einen-besonderen-diplomaten-a-895c72b1-6863-4fb2-9f08-5b3a14f15e4b#ref=rss)
+* [https://www.spiegel.de/geschichte/henry-kissinger-wird-100-der-solist](https://www.spiegel.de/geschichte/henry-kissinger-wird-100-der-solist-a-4fe0c0e4-3f89-4f9b-b519-ad4c44789b18#ref=rss)
+### kissinger
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-rene-benko-gil-ofarim-klimakonferenz-in-dubai](https://www.spiegel.de/politik/deutschland/news-des-tages-rene-benko-gil-ofarim-klimakonferenz-in-dubai-a-2edd4a66-f6fd-4775-b710-27efb9d6e7a5#ref=rss)
-* [https://www.spiegel.de/panorama/gil-ofarim-und-antisemitismus-der-trugschluss](https://www.spiegel.de/panorama/gil-ofarim-und-antisemitismus-der-trugschluss-a-6b825a8b-7dc4-4d56-881b-929cf929fe14#ref=rss)
-* [https://www.spiegel.de/panorama/leute/gil-ofarim-gestaendnis-karin-prien-cdu-bittet-um-entschuldigung](https://www.spiegel.de/panorama/leute/gil-ofarim-gestaendnis-karin-prien-cdu-bittet-um-entschuldigung-a-12dd6971-9d48-4d9a-8818-4e7a7498496c#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/sport/olympia/olympische-winterspiele-2026-deutschland-bewirbt-sich-um-schlittenrennen](https://www.spiegel.de/sport/olympia/olympische-winterspiele-2026-deutschland-bewirbt-sich-um-schlittenrennen-a-178475ef-671c-47ed-bc07-c66b018799e6#ref=rss)
-* [https://www.spiegel.de/sport/handball/handball-wm-der-frauen-2023-spielplan-ergebnisse-modus](https://www.spiegel.de/sport/handball/handball-wm-der-frauen-2023-spielplan-ergebnisse-modus-a-4f816d71-ef30-46de-ac12-9218e5d55cd6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/konjunktur-inflationsrate-sinkt-im-november-auf-3-2-prozent](https://www.spiegel.de/wirtschaft/konjunktur-inflationsrate-sinkt-im-november-auf-3-2-prozent-a-12d0b40e-6e4f-4e48-8147-95f98b7c4d53#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-furcht-vor-dem-stillstand](https://www.spiegel.de/ausland/krieg-in-der-ukraine-furcht-vor-dem-stillstand-a-2e135100-1114-4c11-980c-9c7fa36cfd52#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-nato-geht-von-enormen-russischen-verlusten-aus](https://www.spiegel.de/ausland/ukraine-nato-geht-von-enormen-russischen-verlusten-aus-a-33dd1d72-89ea-49c6-9326-23087d5bbb04#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-showkampf-in-st-petersburg-wta-und-atp-verzichten-auf-sanktionen](https://www.spiegel.de/sport/tennis/tennis-showkampf-in-st-petersburg-wta-und-atp-verzichten-auf-sanktionen-a-966b6a03-9a48-425b-b00d-33726ad45fe2#ref=rss)
-### klimakonferenz
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-rene-benko-gil-ofarim-klimakonferenz-in-dubai](https://www.spiegel.de/politik/deutschland/news-des-tages-rene-benko-gil-ofarim-klimakonferenz-in-dubai-a-2edd4a66-f6fd-4775-b710-27efb9d6e7a5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/uno-gipfel-in-dubai-der-chef-der-klimakonferenz-muss-sehr-achtsam-sein](https://www.spiegel.de/wissenschaft/uno-gipfel-in-dubai-der-chef-der-klimakonferenz-muss-sehr-achtsam-sein-a-b588be7b-4402-4d9d-a10d-767f3bdadbd3#ref=rss)
-### wiesbaden
-
-* [https://www.spiegel.de/panorama/gesellschaft/wiesbaden-helfer-versorgten-kinder-in-eingeschneiter-schule-ich-hatte-nicht-den-eindruck-dass-die-stadt-darauf-vorbereitet-war](https://www.spiegel.de/panorama/gesellschaft/wiesbaden-helfer-versorgten-kinder-in-eingeschneiter-schule-ich-hatte-nicht-den-eindruck-dass-die-stadt-darauf-vorbereitet-war-a-48ab4aba-9847-46a6-9934-82576b75ba50#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/wiesbaden-toedlicher-unfall-raser-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/wiesbaden-toedlicher-unfall-raser-zu-lebenslanger-haft-verurteilt-a-0f2522a6-15af-48ec-a3d9-d4751b89e6ff#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/panorama/gesellschaft/wiesbaden-helfer-versorgten-kinder-in-eingeschneiter-schule-ich-hatte-nicht-den-eindruck-dass-die-stadt-darauf-vorbereitet-war](https://www.spiegel.de/panorama/gesellschaft/wiesbaden-helfer-versorgten-kinder-in-eingeschneiter-schule-ich-hatte-nicht-den-eindruck-dass-die-stadt-darauf-vorbereitet-war-a-48ab4aba-9847-46a6-9934-82576b75ba50#ref=rss)
-### laut
-
-* [https://www.spiegel.de/ausland/ukraine-nato-geht-von-enormen-russischen-verlusten-aus](https://www.spiegel.de/ausland/ukraine-nato-geht-von-enormen-russischen-verlusten-aus-a-33dd1d72-89ea-49c6-9326-23087d5bbb04#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-israel-krieg-drei-geiseln-laut-hamas-bei-angriffen-getoetet](https://www.spiegel.de/ausland/gaza-israel-krieg-drei-geiseln-laut-hamas-bei-angriffen-getoetet-a-02b1021a-6184-40e2-a106-48f4a955ba5a#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-showkampf-in-st-petersburg-wta-und-atp-verzichten-auf-sanktionen](https://www.spiegel.de/sport/tennis/tennis-showkampf-in-st-petersburg-wta-und-atp-verzichten-auf-sanktionen-a-966b6a03-9a48-425b-b00d-33726ad45fe2#ref=rss)
-### schweden
-
-* [https://www.spiegel.de/panorama/justiz/schweden-fuenf-teenager-wegen-toetung-eines-26-jaehrigen-verurteilt](https://www.spiegel.de/panorama/justiz/schweden-fuenf-teenager-wegen-toetung-eines-26-jaehrigen-verurteilt-a-4b1ea23e-6692-4889-b065-115ae541eee4#ref=rss)
-* [https://www.spiegel.de/sport/handball/handball-wm-der-frauen-2023-spielplan-ergebnisse-modus](https://www.spiegel.de/sport/handball/handball-wm-der-frauen-2023-spielplan-ergebnisse-modus-a-4f816d71-ef30-46de-ac12-9218e5d55cd6#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/politik/deutschland/weihnachtsmarkt-und-synagoge-teenager-sollen-anschlaege-geplant-haben](https://www.spiegel.de/politik/deutschland/weihnachtsmarkt-und-synagoge-teenager-sollen-anschlaege-geplant-haben-a-53e6f620-6930-4422-99f9-5496a570e2a5#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-soll-raymond-leo-burke-dienstwohnung-und-kardinalsgehalt-entzogen-haben](https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-soll-raymond-leo-burke-dienstwohnung-und-kardinalsgehalt-entzogen-haben-a-eef72559-9bca-4121-92d9-7b1153840813#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/omid-scobie-niederlaendischer-verlag-stoppt-verkauf-von-enthuellungsbuch-ueber-britische-royals](https://www.spiegel.de/panorama/gesellschaft/omid-scobie-niederlaendischer-verlag-stoppt-verkauf-von-enthuellungsbuch-ueber-britische-royals-a-b3ecc0d6-e454-480d-8776-d8214d2abf27#ref=rss)
-### 2023
-
-* [https://www.spiegel.de/kultur/musik/taylor-swift-global-top-artist-2023-bei-spotify](https://www.spiegel.de/kultur/musik/taylor-swift-global-top-artist-2023-bei-spotify-a-550d0ac9-4ada-487f-8102-4e267fa2c338#ref=rss)
-* [https://www.spiegel.de/sport/handball/handball-wm-der-frauen-2023-spielplan-ergebnisse-modus](https://www.spiegel.de/sport/handball/handball-wm-der-frauen-2023-spielplan-ergebnisse-modus-a-4f816d71-ef30-46de-ac12-9218e5d55cd6#ref=rss)
-### november
-
-* [https://www.spiegel.de/sport/handball/handball-wm-der-frauen-2023-spielplan-ergebnisse-modus](https://www.spiegel.de/sport/handball/handball-wm-der-frauen-2023-spielplan-ergebnisse-modus-a-4f816d71-ef30-46de-ac12-9218e5d55cd6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/konjunktur-inflationsrate-sinkt-im-november-auf-3-2-prozent](https://www.spiegel.de/wirtschaft/konjunktur-inflationsrate-sinkt-im-november-auf-3-2-prozent-a-12d0b40e-6e4f-4e48-8147-95f98b7c4d53#ref=rss)
-### krieg
-
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-furcht-vor-dem-stillstand](https://www.spiegel.de/ausland/krieg-in-der-ukraine-furcht-vor-dem-stillstand-a-2e135100-1114-4c11-980c-9c7fa36cfd52#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/panorama/justiz/brandenburg-vermisste-pistole-nach-jahren-wieder-aufgetaucht](https://www.spiegel.de/panorama/justiz/brandenburg-vermisste-pistole-nach-jahren-wieder-aufgetaucht-a-239270f3-9770-4fb9-b70a-c56dbff8c88e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/astronomie-system-aus-sechs-planeten-um-stern-hd110067-stabil-und-synchron](https://www.spiegel.de/wissenschaft/weltall/astronomie-system-aus-sechs-planeten-um-stern-hd110067-stabil-und-synchron-a-45a182cd-b1a6-47ed-ac05-a5c7952e297c#ref=rss)
-### rené
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-rene-benko-gil-ofarim-klimakonferenz-in-dubai](https://www.spiegel.de/politik/deutschland/news-des-tages-rene-benko-gil-ofarim-klimakonferenz-in-dubai-a-2edd4a66-f6fd-4775-b710-27efb9d6e7a5#ref=rss)
-### dubai
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-rene-benko-gil-ofarim-klimakonferenz-in-dubai](https://www.spiegel.de/politik/deutschland/news-des-tages-rene-benko-gil-ofarim-klimakonferenz-in-dubai-a-2edd4a66-f6fd-4775-b710-27efb9d6e7a5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/uno-gipfel-in-dubai-der-chef-der-klimakonferenz-muss-sehr-achtsam-sein](https://www.spiegel.de/wissenschaft/uno-gipfel-in-dubai-der-chef-der-klimakonferenz-muss-sehr-achtsam-sein-a-b588be7b-4402-4d9d-a10d-767f3bdadbd3#ref=rss)
-### unterstützer
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-rene-benko-gil-ofarim-klimakonferenz-in-dubai](https://www.spiegel.de/politik/deutschland/news-des-tages-rene-benko-gil-ofarim-klimakonferenz-in-dubai-a-2edd4a66-f6fd-4775-b710-27efb9d6e7a5#ref=rss)
-* [https://www.spiegel.de/panorama/leute/gil-ofarim-gestaendnis-karin-prien-cdu-bittet-um-entschuldigung](https://www.spiegel.de/panorama/leute/gil-ofarim-gestaendnis-karin-prien-cdu-bittet-um-entschuldigung-a-12dd6971-9d48-4d9a-8818-4e7a7498496c#ref=rss)
-### zeigen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-rene-benko-gil-ofarim-klimakonferenz-in-dubai](https://www.spiegel.de/politik/deutschland/news-des-tages-rene-benko-gil-ofarim-klimakonferenz-in-dubai-a-2edd4a66-f6fd-4775-b710-27efb9d6e7a5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/astronomie-system-aus-sechs-planeten-um-stern-hd110067-stabil-und-synchron](https://www.spiegel.de/wissenschaft/weltall/astronomie-system-aus-sechs-planeten-um-stern-hd110067-stabil-und-synchron-a-45a182cd-b1a6-47ed-ac05-a5c7952e297c#ref=rss)
-### schule
-
-* [https://www.spiegel.de/panorama/gesellschaft/wiesbaden-helfer-versorgten-kinder-in-eingeschneiter-schule-ich-hatte-nicht-den-eindruck-dass-die-stadt-darauf-vorbereitet-war](https://www.spiegel.de/panorama/gesellschaft/wiesbaden-helfer-versorgten-kinder-in-eingeschneiter-schule-ich-hatte-nicht-den-eindruck-dass-die-stadt-darauf-vorbereitet-war-a-48ab4aba-9847-46a6-9934-82576b75ba50#ref=rss)
-### vorbereitet
-
-* [https://www.spiegel.de/panorama/gesellschaft/wiesbaden-helfer-versorgten-kinder-in-eingeschneiter-schule-ich-hatte-nicht-den-eindruck-dass-die-stadt-darauf-vorbereitet-war](https://www.spiegel.de/panorama/gesellschaft/wiesbaden-helfer-versorgten-kinder-in-eingeschneiter-schule-ich-hatte-nicht-den-eindruck-dass-die-stadt-darauf-vorbereitet-war-a-48ab4aba-9847-46a6-9934-82576b75ba50#ref=rss)
-* [https://www.spiegel.de/panorama/riesa-knapp-sieben-monate-keinen-lohn-fuer-pflegekraefte-heimbewohner-muessen-ausziehen](https://www.spiegel.de/panorama/riesa-knapp-sieben-monate-keinen-lohn-fuer-pflegekraefte-heimbewohner-muessen-ausziehen-a-1b85cca8-5eb7-4d0f-89d4-8a5fab5a8a14#ref=rss)
-### antisemitismus
-
-* [https://www.spiegel.de/panorama/gil-ofarim-und-antisemitismus-der-trugschluss](https://www.spiegel.de/panorama/gil-ofarim-und-antisemitismus-der-trugschluss-a-6b825a8b-7dc4-4d56-881b-929cf929fe14#ref=rss)
-### anderem
-
-* [https://www.spiegel.de/panorama/gil-ofarim-und-antisemitismus-der-trugschluss](https://www.spiegel.de/panorama/gil-ofarim-und-antisemitismus-der-trugschluss-a-6b825a8b-7dc4-4d56-881b-929cf929fe14#ref=rss)
-* [https://www.spiegel.de/kultur/musik/taylor-swift-global-top-artist-2023-bei-spotify](https://www.spiegel.de/kultur/musik/taylor-swift-global-top-artist-2023-bei-spotify-a-550d0ac9-4ada-487f-8102-4e267fa2c338#ref=rss)
-### woran
-
-* [https://www.spiegel.de/gesundheit/ernaehrung/ernaehrungsstudie-deutsche-wollen-sich-gesund-ernaehren-schaffen-es-aber-nicht](https://www.spiegel.de/gesundheit/ernaehrung/ernaehrungsstudie-deutsche-wollen-sich-gesund-ernaehren-schaffen-es-aber-nicht-a-c947da2d-8c84-4395-89cf-2c654a08de2a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/uno-gipfel-in-dubai-der-chef-der-klimakonferenz-muss-sehr-achtsam-sein](https://www.spiegel.de/wissenschaft/uno-gipfel-in-dubai-der-chef-der-klimakonferenz-muss-sehr-achtsam-sein-a-b588be7b-4402-4d9d-a10d-767f3bdadbd3#ref=rss)
-### olympische
-
-* [https://www.spiegel.de/sport/olympia/olympische-winterspiele-2026-deutschland-bewirbt-sich-um-schlittenrennen](https://www.spiegel.de/sport/olympia/olympische-winterspiele-2026-deutschland-bewirbt-sich-um-schlittenrennen-a-178475ef-671c-47ed-bc07-c66b018799e6#ref=rss)
-### winterspiele
-
-* [https://www.spiegel.de/sport/olympia/olympische-winterspiele-2026-deutschland-bewirbt-sich-um-schlittenrennen](https://www.spiegel.de/sport/olympia/olympische-winterspiele-2026-deutschland-bewirbt-sich-um-schlittenrennen-a-178475ef-671c-47ed-bc07-c66b018799e6#ref=rss)
-### 2026
-
-* [https://www.spiegel.de/sport/olympia/olympische-winterspiele-2026-deutschland-bewirbt-sich-um-schlittenrennen](https://www.spiegel.de/sport/olympia/olympische-winterspiele-2026-deutschland-bewirbt-sich-um-schlittenrennen-a-178475ef-671c-47ed-bc07-c66b018799e6#ref=rss)
-### sawsan
-
-* [https://www.spiegel.de/politik/deutschland/sawsan-chebli-spd-politikerin-muss-schmaehkritik-nicht-hinnehmen](https://www.spiegel.de/politik/deutschland/sawsan-chebli-spd-politikerin-muss-schmaehkritik-nicht-hinnehmen-a-561e9d86-9db7-4db6-abe3-80ca927b1e7f#ref=rss)
-### chebli
-
-* [https://www.spiegel.de/politik/deutschland/sawsan-chebli-spd-politikerin-muss-schmaehkritik-nicht-hinnehmen](https://www.spiegel.de/politik/deutschland/sawsan-chebli-spd-politikerin-muss-schmaehkritik-nicht-hinnehmen-a-561e9d86-9db7-4db6-abe3-80ca927b1e7f#ref=rss)
-### spdpolitikerin
-
-* [https://www.spiegel.de/politik/deutschland/sawsan-chebli-spd-politikerin-muss-schmaehkritik-nicht-hinnehmen](https://www.spiegel.de/politik/deutschland/sawsan-chebli-spd-politikerin-muss-schmaehkritik-nicht-hinnehmen-a-561e9d86-9db7-4db6-abe3-80ca927b1e7f#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/politik/deutschland/sawsan-chebli-spd-politikerin-muss-schmaehkritik-nicht-hinnehmen](https://www.spiegel.de/politik/deutschland/sawsan-chebli-spd-politikerin-muss-schmaehkritik-nicht-hinnehmen-a-561e9d86-9db7-4db6-abe3-80ca927b1e7f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/wiesbaden-toedlicher-unfall-raser-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/wiesbaden-toedlicher-unfall-raser-zu-lebenslanger-haft-verurteilt-a-0f2522a6-15af-48ec-a3d9-d4751b89e6ff#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/panorama/justiz/wiesbaden-toedlicher-unfall-raser-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/wiesbaden-toedlicher-unfall-raser-zu-lebenslanger-haft-verurteilt-a-0f2522a6-15af-48ec-a3d9-d4751b89e6ff#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/schweden-fuenf-teenager-wegen-toetung-eines-26-jaehrigen-verurteilt](https://www.spiegel.de/panorama/justiz/schweden-fuenf-teenager-wegen-toetung-eines-26-jaehrigen-verurteilt-a-4b1ea23e-6692-4889-b065-115ae541eee4#ref=rss)
-### schuldig
-
-* [https://www.spiegel.de/panorama/justiz/wiesbaden-toedlicher-unfall-raser-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/wiesbaden-toedlicher-unfall-raser-zu-lebenslanger-haft-verurteilt-a-0f2522a6-15af-48ec-a3d9-d4751b89e6ff#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/schweden-fuenf-teenager-wegen-toetung-eines-26-jaehrigen-verurteilt](https://www.spiegel.de/panorama/justiz/schweden-fuenf-teenager-wegen-toetung-eines-26-jaehrigen-verurteilt-a-4b1ea23e-6692-4889-b065-115ae541eee4#ref=rss)
-### gesprochen
-
-* [https://www.spiegel.de/panorama/justiz/wiesbaden-toedlicher-unfall-raser-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/wiesbaden-toedlicher-unfall-raser-zu-lebenslanger-haft-verurteilt-a-0f2522a6-15af-48ec-a3d9-d4751b89e6ff#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/schweden-fuenf-teenager-wegen-toetung-eines-26-jaehrigen-verurteilt](https://www.spiegel.de/panorama/justiz/schweden-fuenf-teenager-wegen-toetung-eines-26-jaehrigen-verurteilt-a-4b1ea23e-6692-4889-b065-115ae541eee4#ref=rss)
-### reue
-
-* [https://www.spiegel.de/panorama/justiz/wiesbaden-toedlicher-unfall-raser-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/wiesbaden-toedlicher-unfall-raser-zu-lebenslanger-haft-verurteilt-a-0f2522a6-15af-48ec-a3d9-d4751b89e6ff#ref=rss)
-* [https://www.spiegel.de/panorama/leute/gil-ofarim-gestaendnis-karin-prien-cdu-bittet-um-entschuldigung](https://www.spiegel.de/panorama/leute/gil-ofarim-gestaendnis-karin-prien-cdu-bittet-um-entschuldigung-a-12dd6971-9d48-4d9a-8818-4e7a7498496c#ref=rss)
-### bad
-
-* [https://www.spiegel.de/wirtschaft/vr-bank-bad-salzungen-schmalkalden-in-thueringen-endspiel-fuer-die-effenberg-bank](https://www.spiegel.de/wirtschaft/vr-bank-bad-salzungen-schmalkalden-in-thueringen-endspiel-fuer-die-effenberg-bank-a-7f3a0610-56a2-4f86-a2cd-9a392002453a#ref=rss)
-* [https://www.spiegel.de/kultur/musik/taylor-swift-global-top-artist-2023-bei-spotify](https://www.spiegel.de/kultur/musik/taylor-swift-global-top-artist-2023-bei-spotify-a-550d0ac9-4ada-487f-8102-4e267fa2c338#ref=rss)
-### thüringen
-
-* [https://www.spiegel.de/wirtschaft/vr-bank-bad-salzungen-schmalkalden-in-thueringen-endspiel-fuer-die-effenberg-bank](https://www.spiegel.de/wirtschaft/vr-bank-bad-salzungen-schmalkalden-in-thueringen-endspiel-fuer-die-effenberg-bank-a-7f3a0610-56a2-4f86-a2cd-9a392002453a#ref=rss)
-### sechs
-
-* [https://www.spiegel.de/wissenschaft/weltall/astronomie-system-aus-sechs-planeten-um-stern-hd110067-stabil-und-synchron](https://www.spiegel.de/wissenschaft/weltall/astronomie-system-aus-sechs-planeten-um-stern-hd110067-stabil-und-synchron-a-45a182cd-b1a6-47ed-ac05-a5c7952e297c#ref=rss)
-### stern
-
-* [https://www.spiegel.de/wissenschaft/weltall/astronomie-system-aus-sechs-planeten-um-stern-hd110067-stabil-und-synchron](https://www.spiegel.de/wissenschaft/weltall/astronomie-system-aus-sechs-planeten-um-stern-hd110067-stabil-und-synchron-a-45a182cd-b1a6-47ed-ac05-a5c7952e297c#ref=rss)
-### hd110067
-
-* [https://www.spiegel.de/wissenschaft/weltall/astronomie-system-aus-sechs-planeten-um-stern-hd110067-stabil-und-synchron](https://www.spiegel.de/wissenschaft/weltall/astronomie-system-aus-sechs-planeten-um-stern-hd110067-stabil-und-synchron-a-45a182cd-b1a6-47ed-ac05-a5c7952e297c#ref=rss)
-### archäologen
-
-* [https://www.spiegel.de/wissenschaft/mensch/indonesien-archaeologen-streiten-um-pyramide-gunung-padang](https://www.spiegel.de/wissenschaft/mensch/indonesien-archaeologen-streiten-um-pyramide-gunung-padang-a-426b51c7-f3ee-44f5-a36b-42df8490dc54#ref=rss)
-### pyramide
-
-* [https://www.spiegel.de/wissenschaft/mensch/indonesien-archaeologen-streiten-um-pyramide-gunung-padang](https://www.spiegel.de/wissenschaft/mensch/indonesien-archaeologen-streiten-um-pyramide-gunung-padang-a-426b51c7-f3ee-44f5-a36b-42df8490dc54#ref=rss)
-### gunung
-
-* [https://www.spiegel.de/wissenschaft/mensch/indonesien-archaeologen-streiten-um-pyramide-gunung-padang](https://www.spiegel.de/wissenschaft/mensch/indonesien-archaeologen-streiten-um-pyramide-gunung-padang-a-426b51c7-f3ee-44f5-a36b-42df8490dc54#ref=rss)
-### padang
-
-* [https://www.spiegel.de/wissenschaft/mensch/indonesien-archaeologen-streiten-um-pyramide-gunung-padang](https://www.spiegel.de/wissenschaft/mensch/indonesien-archaeologen-streiten-um-pyramide-gunung-padang-a-426b51c7-f3ee-44f5-a36b-42df8490dc54#ref=rss)
-### nato
-
-* [https://www.spiegel.de/ausland/ukraine-nato-geht-von-enormen-russischen-verlusten-aus](https://www.spiegel.de/ausland/ukraine-nato-geht-von-enormen-russischen-verlusten-aus-a-33dd1d72-89ea-49c6-9326-23087d5bbb04#ref=rss)
+* [https://www.spiegel.de/ausland/henry-kissinger-sein-leben-in-bildern](https://www.spiegel.de/ausland/henry-kissinger-sein-leben-in-bildern-a-31219bbc-1084-4257-b896-c97e611724ef#ref=rss)
+* [https://www.spiegel.de/ausland/henry-kissinger-ist-tot-der-jahrhundert-diplomat-nachruf](https://www.spiegel.de/ausland/henry-kissinger-ist-tot-der-jahrhundert-diplomat-nachruf-a-73bb698c-d321-415c-b99f-2b30936cefbe#ref=rss)
+* [https://www.spiegel.de/ausland/henry-kissingers-tod-die-welt-verliert-einen-besonderen-diplomaten](https://www.spiegel.de/ausland/henry-kissingers-tod-die-welt-verliert-einen-besonderen-diplomaten-a-895c72b1-6863-4fb2-9f08-5b3a14f15e4b#ref=rss)
+* [https://www.spiegel.de/geschichte/henry-kissinger-wird-100-der-solist](https://www.spiegel.de/geschichte/henry-kissinger-wird-100-der-solist-a-4fe0c0e4-3f89-4f9b-b519-ad4c44789b18#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/ausland/ukraine-nato-geht-von-enormen-russischen-verlusten-aus](https://www.spiegel.de/ausland/ukraine-nato-geht-von-enormen-russischen-verlusten-aus-a-33dd1d72-89ea-49c6-9326-23087d5bbb04#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/eu-kommission-will-rechte-von-reisenden-staerken](https://www.spiegel.de/wirtschaft/service/eu-kommission-will-rechte-von-reisenden-staerken-a-7c59c3d9-df6e-4636-8394-9da07ddd4d8c#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/ukraine-nato-geht-von-enormen-russischen-verlusten-aus](https://www.spiegel.de/ausland/ukraine-nato-geht-von-enormen-russischen-verlusten-aus-a-33dd1d72-89ea-49c6-9326-23087d5bbb04#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-showkampf-in-st-petersburg-wta-und-atp-verzichten-auf-sanktionen](https://www.spiegel.de/sport/tennis/tennis-showkampf-in-st-petersburg-wta-und-atp-verzichten-auf-sanktionen-a-966b6a03-9a48-425b-b00d-33726ad45fe2#ref=rss)
-### führen
-
-* [https://www.spiegel.de/ausland/ukraine-nato-geht-von-enormen-russischen-verlusten-aus](https://www.spiegel.de/ausland/ukraine-nato-geht-von-enormen-russischen-verlusten-aus-a-33dd1d72-89ea-49c6-9326-23087d5bbb04#ref=rss)
-* [https://www.spiegel.de/kultur/musik/herbert-von-karajan-theater-aachen-entfernt-bueste-wegen-rolle-in-der-ns-zeit](https://www.spiegel.de/kultur/musik/herbert-von-karajan-theater-aachen-entfernt-bueste-wegen-rolle-in-der-ns-zeit-a-00166399-7233-4235-bb9b-c0cf23131e69#ref=rss)
-### drei
-
-* [https://www.spiegel.de/ausland/gaza-israel-krieg-drei-geiseln-laut-hamas-bei-angriffen-getoetet](https://www.spiegel.de/ausland/gaza-israel-krieg-drei-geiseln-laut-hamas-bei-angriffen-getoetet-a-02b1021a-6184-40e2-a106-48f4a955ba5a#ref=rss)
-### geiseln
-
-* [https://www.spiegel.de/ausland/gaza-israel-krieg-drei-geiseln-laut-hamas-bei-angriffen-getoetet](https://www.spiegel.de/ausland/gaza-israel-krieg-drei-geiseln-laut-hamas-bei-angriffen-getoetet-a-02b1021a-6184-40e2-a106-48f4a955ba5a#ref=rss)
-### hamas
-
-* [https://www.spiegel.de/ausland/gaza-israel-krieg-drei-geiseln-laut-hamas-bei-angriffen-getoetet](https://www.spiegel.de/ausland/gaza-israel-krieg-drei-geiseln-laut-hamas-bei-angriffen-getoetet-a-02b1021a-6184-40e2-a106-48f4a955ba5a#ref=rss)
-### herbert
-
-* [https://www.spiegel.de/kultur/musik/herbert-von-karajan-theater-aachen-entfernt-bueste-wegen-rolle-in-der-ns-zeit](https://www.spiegel.de/kultur/musik/herbert-von-karajan-theater-aachen-entfernt-bueste-wegen-rolle-in-der-ns-zeit-a-00166399-7233-4235-bb9b-c0cf23131e69#ref=rss)
-### karajan
-
-* [https://www.spiegel.de/kultur/musik/herbert-von-karajan-theater-aachen-entfernt-bueste-wegen-rolle-in-der-ns-zeit](https://www.spiegel.de/kultur/musik/herbert-von-karajan-theater-aachen-entfernt-bueste-wegen-rolle-in-der-ns-zeit-a-00166399-7233-4235-bb9b-c0cf23131e69#ref=rss)
-### aachen
-
-* [https://www.spiegel.de/kultur/musik/herbert-von-karajan-theater-aachen-entfernt-bueste-wegen-rolle-in-der-ns-zeit](https://www.spiegel.de/kultur/musik/herbert-von-karajan-theater-aachen-entfernt-bueste-wegen-rolle-in-der-ns-zeit-a-00166399-7233-4235-bb9b-c0cf23131e69#ref=rss)
-### teenager
-
-* [https://www.spiegel.de/panorama/justiz/schweden-fuenf-teenager-wegen-toetung-eines-26-jaehrigen-verurteilt](https://www.spiegel.de/panorama/justiz/schweden-fuenf-teenager-wegen-toetung-eines-26-jaehrigen-verurteilt-a-4b1ea23e-6692-4889-b065-115ae541eee4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/weihnachtsmarkt-und-synagoge-teenager-sollen-anschlaege-geplant-haben](https://www.spiegel.de/politik/deutschland/weihnachtsmarkt-und-synagoge-teenager-sollen-anschlaege-geplant-haben-a-53e6f620-6930-4422-99f9-5496a570e2a5#ref=rss)
+* [https://www.spiegel.de/psychologie/selbsttest-zur-stressbelastung-sind-sie-leistungsstark-oder-doch-schon-im-burn-on](https://www.spiegel.de/psychologie/selbsttest-zur-stressbelastung-sind-sie-leistungsstark-oder-doch-schon-im-burn-on-a-a3da53a1-c29e-4632-8b46-e384a9eb2d80#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/klimaschutz-gericht-verpflichtet-regierung-zu-sofortmassnahmen](https://www.spiegel.de/politik/deutschland/klimaschutz-gericht-verpflichtet-regierung-zu-sofortmassnahmen-a-2fc69d85-b9a3-4ec8-aba7-5d60c26f5f84#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/diesel-pendlerpauschale-dienstwagen-wie-ein-abbau-von-subventionen-die-haushaltskrise-loesen-koennte](https://www.spiegel.de/wirtschaft/soziales/diesel-pendlerpauschale-dienstwagen-wie-ein-abbau-von-subventionen-die-haushaltskrise-loesen-koennte-a-b36927e9-1862-4ad7-8782-6144c0ff2656#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/schufa-verbraucher-sollen-fuer-positive-kredit-bewertung-freiwillig-daten-abgeben](https://www.spiegel.de/wirtschaft/service/schufa-verbraucher-sollen-fuer-positive-kredit-bewertung-freiwillig-daten-abgeben-a-7a7fb3f3-81f6-4649-b9a1-2cd632fc4327#ref=rss)
+* [https://www.spiegel.de/geschichte/henry-kissinger-wird-100-der-solist](https://www.spiegel.de/geschichte/henry-kissinger-wird-100-der-solist-a-4fe0c0e4-3f89-4f9b-b519-ad4c44789b18#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/politik/deutschland/weihnachtsmarkt-und-synagoge-teenager-sollen-anschlaege-geplant-haben](https://www.spiegel.de/politik/deutschland/weihnachtsmarkt-und-synagoge-teenager-sollen-anschlaege-geplant-haben-a-53e6f620-6930-4422-99f9-5496a570e2a5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/uno-gipfel-in-dubai-der-chef-der-klimakonferenz-muss-sehr-achtsam-sein](https://www.spiegel.de/wissenschaft/uno-gipfel-in-dubai-der-chef-der-klimakonferenz-muss-sehr-achtsam-sein-a-b588be7b-4402-4d9d-a10d-767f3bdadbd3#ref=rss)
-### eukommission
+* [https://www.spiegel.de/politik/deutschland/boris-pistorius-verteidigungsausgaben-sollen-2024-zwei-prozent-ziel-ueberschreiten](https://www.spiegel.de/politik/deutschland/boris-pistorius-verteidigungsausgaben-sollen-2024-zwei-prozent-ziel-ueberschreiten-a-c0dc0112-5c5e-42c5-af71-2d38e9493741#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/leverkusen-haftbefehl-gegen-16-jaehrigen-terrorverdaechtigen-wegen-geplantem-anschlag](https://www.spiegel.de/politik/deutschland/leverkusen-haftbefehl-gegen-16-jaehrigen-terrorverdaechtigen-wegen-geplantem-anschlag-a-3b42fb9f-3056-4887-b334-4fbda304d79e#ref=rss)
+* [https://www.spiegel.de/ausland/israel-schuesse-an-bushaltestelle-in-jerusalem-zwei-tote](https://www.spiegel.de/ausland/israel-schuesse-an-bushaltestelle-in-jerusalem-zwei-tote-a-6d14868d-3c6c-44a7-a590-565a4cecd399#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/wirtschaft/service/eu-kommission-will-rechte-von-reisenden-staerken](https://www.spiegel.de/wirtschaft/service/eu-kommission-will-rechte-von-reisenden-staerken-a-7c59c3d9-df6e-4636-8394-9da07ddd4d8c#ref=rss)
-### rechte
+* [https://www.spiegel.de/wirtschaft/service/lebensversicherungen-garantiezins-koennte-erstmals-seit-jahren-steigen](https://www.spiegel.de/wirtschaft/service/lebensversicherungen-garantiezins-koennte-erstmals-seit-jahren-steigen-a-0b3395f5-5e29-4f72-a333-87714e605932#ref=rss)
+* [https://www.spiegel.de/karriere/menschen-mit-behinderung-am-arbeitsmarkt-doppelt-so-schlechte-chancen-fuer-menschen-mit-handicap](https://www.spiegel.de/karriere/menschen-mit-behinderung-am-arbeitsmarkt-doppelt-so-schlechte-chancen-fuer-menschen-mit-handicap-a-6cf3e988-f47c-4311-828d-dd5befd8fc48#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/diesel-pendlerpauschale-dienstwagen-wie-ein-abbau-von-subventionen-die-haushaltskrise-loesen-koennte](https://www.spiegel.de/wirtschaft/soziales/diesel-pendlerpauschale-dienstwagen-wie-ein-abbau-von-subventionen-die-haushaltskrise-loesen-koennte-a-b36927e9-1862-4ad7-8782-6144c0ff2656#ref=rss)
+* [https://www.spiegel.de/kultur/frances-sternhagen-ist-tot-schauspielerin-mit-93-jahren-gestorben](https://www.spiegel.de/kultur/frances-sternhagen-ist-tot-schauspielerin-mit-93-jahren-gestorben-a-15840adb-7fbf-4e92-8520-ab677b65e2ac#ref=rss)
+### weiß
 
-* [https://www.spiegel.de/wirtschaft/service/eu-kommission-will-rechte-von-reisenden-staerken](https://www.spiegel.de/wirtschaft/service/eu-kommission-will-rechte-von-reisenden-staerken-a-7c59c3d9-df6e-4636-8394-9da07ddd4d8c#ref=rss)
-### neuen
+* [https://www.spiegel.de/politik/deutschland/otto-fricke-fdp-ueber-die-liquidierung-einer-fraktion-am-ende-blieben-noch-einzelne-lampen](https://www.spiegel.de/politik/deutschland/otto-fricke-fdp-ueber-die-liquidierung-einer-fraktion-am-ende-blieben-noch-einzelne-lampen-a-d555a0c2-d4c6-4831-93c2-2c81d062d95c#ref=rss)
+* [https://www.spiegel.de/panorama/leute/beyonce-mutter-ueber-die-vorwuerfe-der-hautaufhellung](https://www.spiegel.de/panorama/leute/beyonce-mutter-ueber-die-vorwuerfe-der-hautaufhellung-a-7a07d458-1250-4a44-b1ec-96462d91faef#ref=rss)
+### verbraucher
 
-* [https://www.spiegel.de/wirtschaft/service/eu-kommission-will-rechte-von-reisenden-staerken](https://www.spiegel.de/wirtschaft/service/eu-kommission-will-rechte-von-reisenden-staerken-a-7c59c3d9-df6e-4636-8394-9da07ddd4d8c#ref=rss)
-* [https://www.spiegel.de/sport/handball/handball-wm-der-frauen-2023-spielplan-ergebnisse-modus](https://www.spiegel.de/sport/handball/handball-wm-der-frauen-2023-spielplan-ergebnisse-modus-a-4f816d71-ef30-46de-ac12-9218e5d55cd6#ref=rss)
-### papst
+* [https://www.spiegel.de/wirtschaft/service/lebensversicherungen-garantiezins-koennte-erstmals-seit-jahren-steigen](https://www.spiegel.de/wirtschaft/service/lebensversicherungen-garantiezins-koennte-erstmals-seit-jahren-steigen-a-0b3395f5-5e29-4f72-a333-87714e605932#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/schufa-verbraucher-sollen-fuer-positive-kredit-bewertung-freiwillig-daten-abgeben](https://www.spiegel.de/wirtschaft/service/schufa-verbraucher-sollen-fuer-positive-kredit-bewertung-freiwillig-daten-abgeben-a-7a7fb3f3-81f6-4649-b9a1-2cd632fc4327#ref=rss)
+### altman
 
-* [https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-soll-raymond-leo-burke-dienstwohnung-und-kardinalsgehalt-entzogen-haben](https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-soll-raymond-leo-burke-dienstwohnung-und-kardinalsgehalt-entzogen-haben-a-eef72559-9bca-4121-92d9-7b1153840813#ref=rss)
-### franziskus
+* [https://www.spiegel.de/netzwelt/web/openai-sam-altman-ist-wieder-chef-die-rebellen-sind-geschlagen](https://www.spiegel.de/netzwelt/web/openai-sam-altman-ist-wieder-chef-die-rebellen-sind-geschlagen-a-f99cd1fc-b967-46e6-a99f-45c53321f0b1#ref=rss)
+### ich
 
-* [https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-soll-raymond-leo-burke-dienstwohnung-und-kardinalsgehalt-entzogen-haben](https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-soll-raymond-leo-burke-dienstwohnung-und-kardinalsgehalt-entzogen-haben-a-eef72559-9bca-4121-92d9-7b1153840813#ref=rss)
-### raymond
+* [https://www.spiegel.de/panorama/leute/beyonce-mutter-ueber-die-vorwuerfe-der-hautaufhellung](https://www.spiegel.de/panorama/leute/beyonce-mutter-ueber-die-vorwuerfe-der-hautaufhellung-a-7a07d458-1250-4a44-b1ec-96462d91faef#ref=rss)
+* [https://www.spiegel.de/sport/fussball/manuel-neuer-beim-fc-bayern-muenchen-happy-dass-ich-dabei-sein-darf](https://www.spiegel.de/sport/fussball/manuel-neuer-beim-fc-bayern-muenchen-happy-dass-ich-dabei-sein-darf-a-da03f902-5ee1-4b95-8053-ed6b0067cf8f#ref=rss)
+* [https://www.spiegel.de/start/bier-brauerin-werden-verena-cyllok-erzaehlt-vom-berufseinstieg-ich-trinke-bier-gar-nicht-so-gern](https://www.spiegel.de/start/bier-brauerin-werden-verena-cyllok-erzaehlt-vom-berufseinstieg-ich-trinke-bier-gar-nicht-so-gern-a-36689d7d-df2e-4455-93d3-34a31851d288#ref=rss)
+### zuletzt
 
-* [https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-soll-raymond-leo-burke-dienstwohnung-und-kardinalsgehalt-entzogen-haben](https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-soll-raymond-leo-burke-dienstwohnung-und-kardinalsgehalt-entzogen-haben-a-eef72559-9bca-4121-92d9-7b1153840813#ref=rss)
-### leo
+* [https://www.spiegel.de/wissenschaft/natur/groesste-zerstoerung-der-brasilianischen-savannen-seit-2015](https://www.spiegel.de/wissenschaft/natur/groesste-zerstoerung-der-brasilianischen-savannen-seit-2015-a-738ecc4b-c4fd-47ec-94c4-d9bda4f94867#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/bundesagentur-fuer-arbeit-zahl-der-arbeitslosen-in-deutschland-sinkt-im-november-nur-leicht](https://www.spiegel.de/wirtschaft/soziales/bundesagentur-fuer-arbeit-zahl-der-arbeitslosen-in-deutschland-sinkt-im-november-nur-leicht-a-a59fe2d6-9318-476f-af3b-741ce245fabf#ref=rss)
+* [https://www.spiegel.de/geschichte/henry-kissinger-wird-100-der-solist](https://www.spiegel.de/geschichte/henry-kissinger-wird-100-der-solist-a-4fe0c0e4-3f89-4f9b-b519-ad4c44789b18#ref=rss)
+### anschlag
 
-* [https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-soll-raymond-leo-burke-dienstwohnung-und-kardinalsgehalt-entzogen-haben](https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-soll-raymond-leo-burke-dienstwohnung-und-kardinalsgehalt-entzogen-haben-a-eef72559-9bca-4121-92d9-7b1153840813#ref=rss)
-### burke
+* [https://www.spiegel.de/ausland/anschlag-auf-nordstream-pipeline-britische-kriegsschiffe-sollen-unterwasser-infrastruktur-schuetzen](https://www.spiegel.de/ausland/anschlag-auf-nordstream-pipeline-britische-kriegsschiffe-sollen-unterwasser-infrastruktur-schuetzen-a-8cf3059e-0187-46dc-9a73-8cdaff1ac4f0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/leverkusen-haftbefehl-gegen-16-jaehrigen-terrorverdaechtigen-wegen-geplantem-anschlag](https://www.spiegel.de/politik/deutschland/leverkusen-haftbefehl-gegen-16-jaehrigen-terrorverdaechtigen-wegen-geplantem-anschlag-a-3b42fb9f-3056-4887-b334-4fbda304d79e#ref=rss)
+### unter
 
-* [https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-soll-raymond-leo-burke-dienstwohnung-und-kardinalsgehalt-entzogen-haben](https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-soll-raymond-leo-burke-dienstwohnung-und-kardinalsgehalt-entzogen-haben-a-eef72559-9bca-4121-92d9-7b1153840813#ref=rss)
-### entzogen
+* [https://www.spiegel.de/ausland/anschlag-auf-nordstream-pipeline-britische-kriegsschiffe-sollen-unterwasser-infrastruktur-schuetzen](https://www.spiegel.de/ausland/anschlag-auf-nordstream-pipeline-britische-kriegsschiffe-sollen-unterwasser-infrastruktur-schuetzen-a-8cf3059e-0187-46dc-9a73-8cdaff1ac4f0#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/celle-mann-aus-gambia-wegen-voelkerrechtsverbrechen-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/celle-mann-aus-gambia-wegen-voelkerrechtsverbrechen-zu-lebenslanger-haft-verurteilt-a-b1a09ee7-e605-4274-b5ff-a527be0a273f#ref=rss)
+### gruppe
 
-* [https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-soll-raymond-leo-burke-dienstwohnung-und-kardinalsgehalt-entzogen-haben](https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-soll-raymond-leo-burke-dienstwohnung-und-kardinalsgehalt-entzogen-haben-a-eef72559-9bca-4121-92d9-7b1153840813#ref=rss)
-### riesa
-
-* [https://www.spiegel.de/panorama/riesa-knapp-sieben-monate-keinen-lohn-fuer-pflegekraefte-heimbewohner-muessen-ausziehen](https://www.spiegel.de/panorama/riesa-knapp-sieben-monate-keinen-lohn-fuer-pflegekraefte-heimbewohner-muessen-ausziehen-a-1b85cca8-5eb7-4d0f-89d4-8a5fab5a8a14#ref=rss)
-### keinen
-
-* [https://www.spiegel.de/panorama/riesa-knapp-sieben-monate-keinen-lohn-fuer-pflegekraefte-heimbewohner-muessen-ausziehen](https://www.spiegel.de/panorama/riesa-knapp-sieben-monate-keinen-lohn-fuer-pflegekraefte-heimbewohner-muessen-ausziehen-a-1b85cca8-5eb7-4d0f-89d4-8a5fab5a8a14#ref=rss)
-### lohn
-
-* [https://www.spiegel.de/panorama/riesa-knapp-sieben-monate-keinen-lohn-fuer-pflegekraefte-heimbewohner-muessen-ausziehen](https://www.spiegel.de/panorama/riesa-knapp-sieben-monate-keinen-lohn-fuer-pflegekraefte-heimbewohner-muessen-ausziehen-a-1b85cca8-5eb7-4d0f-89d4-8a5fab5a8a14#ref=rss)
-### pflegekräfte
-
-* [https://www.spiegel.de/panorama/riesa-knapp-sieben-monate-keinen-lohn-fuer-pflegekraefte-heimbewohner-muessen-ausziehen](https://www.spiegel.de/panorama/riesa-knapp-sieben-monate-keinen-lohn-fuer-pflegekraefte-heimbewohner-muessen-ausziehen-a-1b85cca8-5eb7-4d0f-89d4-8a5fab5a8a14#ref=rss)
-### arbeit
-
-* [https://www.spiegel.de/panorama/riesa-knapp-sieben-monate-keinen-lohn-fuer-pflegekraefte-heimbewohner-muessen-ausziehen](https://www.spiegel.de/panorama/riesa-knapp-sieben-monate-keinen-lohn-fuer-pflegekraefte-heimbewohner-muessen-ausziehen-a-1b85cca8-5eb7-4d0f-89d4-8a5fab5a8a14#ref=rss)
-* [https://www.spiegel.de/panorama/eingestuerzter-tunnel-in-indien-die-retter-aus-der-verbotenen-zone](https://www.spiegel.de/panorama/eingestuerzter-tunnel-in-indien-die-retter-aus-der-verbotenen-zone-a-9365d707-2a3c-4ff1-b2fa-11549365a6bd#ref=rss)
-### herfried
-
-* [https://www.spiegel.de/politik/deutschland/verteidigung-herfried-muenkler-raet-europa-zur-atomaren-aufruestung](https://www.spiegel.de/politik/deutschland/verteidigung-herfried-muenkler-raet-europa-zur-atomaren-aufruestung-a-49e8f606-1ca4-4b48-82dd-099d611f33d6#ref=rss)
-### münkler
-
-* [https://www.spiegel.de/politik/deutschland/verteidigung-herfried-muenkler-raet-europa-zur-atomaren-aufruestung](https://www.spiegel.de/politik/deutschland/verteidigung-herfried-muenkler-raet-europa-zur-atomaren-aufruestung-a-49e8f606-1ca4-4b48-82dd-099d611f33d6#ref=rss)
-### europa
-
-* [https://www.spiegel.de/politik/deutschland/verteidigung-herfried-muenkler-raet-europa-zur-atomaren-aufruestung](https://www.spiegel.de/politik/deutschland/verteidigung-herfried-muenkler-raet-europa-zur-atomaren-aufruestung-a-49e8f606-1ca4-4b48-82dd-099d611f33d6#ref=rss)
-### taylor
-
-* [https://www.spiegel.de/kultur/musik/taylor-swift-global-top-artist-2023-bei-spotify](https://www.spiegel.de/kultur/musik/taylor-swift-global-top-artist-2023-bei-spotify-a-550d0ac9-4ada-487f-8102-4e267fa2c338#ref=rss)
-### swift
-
-* [https://www.spiegel.de/kultur/musik/taylor-swift-global-top-artist-2023-bei-spotify](https://www.spiegel.de/kultur/musik/taylor-swift-global-top-artist-2023-bei-spotify-a-550d0ac9-4ada-487f-8102-4e267fa2c338#ref=rss)
-### global
-
-* [https://www.spiegel.de/kultur/musik/taylor-swift-global-top-artist-2023-bei-spotify](https://www.spiegel.de/kultur/musik/taylor-swift-global-top-artist-2023-bei-spotify-a-550d0ac9-4ada-487f-8102-4e267fa2c338#ref=rss)
-### top
-
-* [https://www.spiegel.de/kultur/musik/taylor-swift-global-top-artist-2023-bei-spotify](https://www.spiegel.de/kultur/musik/taylor-swift-global-top-artist-2023-bei-spotify-a-550d0ac9-4ada-487f-8102-4e267fa2c338#ref=rss)
-### artist
-
-* [https://www.spiegel.de/kultur/musik/taylor-swift-global-top-artist-2023-bei-spotify](https://www.spiegel.de/kultur/musik/taylor-swift-global-top-artist-2023-bei-spotify-a-550d0ac9-4ada-487f-8102-4e267fa2c338#ref=rss)
-### spotify
-
-* [https://www.spiegel.de/kultur/musik/taylor-swift-global-top-artist-2023-bei-spotify](https://www.spiegel.de/kultur/musik/taylor-swift-global-top-artist-2023-bei-spotify-a-550d0ac9-4ada-487f-8102-4e267fa2c338#ref=rss)
-### erste
-
-* [https://www.spiegel.de/kultur/musik/taylor-swift-global-top-artist-2023-bei-spotify](https://www.spiegel.de/kultur/musik/taylor-swift-global-top-artist-2023-bei-spotify-a-550d0ac9-4ada-487f-8102-4e267fa2c338#ref=rss)
-* [https://www.spiegel.de/sport/handball/handball-wm-der-frauen-2023-spielplan-ergebnisse-modus](https://www.spiegel.de/sport/handball/handball-wm-der-frauen-2023-spielplan-ergebnisse-modus-a-4f816d71-ef30-46de-ac12-9218e5d55cd6#ref=rss)
-### söldner
-
-* [https://www.spiegel.de/geschichte/wie-soeldner-zu-helden-wurden-wahre-rambos](https://www.spiegel.de/geschichte/wie-soeldner-zu-helden-wurden-wahre-rambos-a-6ba615c2-8af3-43b7-a84e-1b216a8d4c8c#ref=rss)
-### petersburg
-
-* [https://www.spiegel.de/sport/tennis/tennis-showkampf-in-st-petersburg-wta-und-atp-verzichten-auf-sanktionen](https://www.spiegel.de/sport/tennis/tennis-showkampf-in-st-petersburg-wta-und-atp-verzichten-auf-sanktionen-a-966b6a03-9a48-425b-b00d-33726ad45fe2#ref=rss)
-### wta
-
-* [https://www.spiegel.de/sport/tennis/tennis-showkampf-in-st-petersburg-wta-und-atp-verzichten-auf-sanktionen](https://www.spiegel.de/sport/tennis/tennis-showkampf-in-st-petersburg-wta-und-atp-verzichten-auf-sanktionen-a-966b6a03-9a48-425b-b00d-33726ad45fe2#ref=rss)
-### atp
-
-* [https://www.spiegel.de/sport/tennis/tennis-showkampf-in-st-petersburg-wta-und-atp-verzichten-auf-sanktionen](https://www.spiegel.de/sport/tennis/tennis-showkampf-in-st-petersburg-wta-und-atp-verzichten-auf-sanktionen-a-966b6a03-9a48-425b-b00d-33726ad45fe2#ref=rss)
-### indien
-
-* [https://www.spiegel.de/panorama/eingestuerzter-tunnel-in-indien-die-retter-aus-der-verbotenen-zone](https://www.spiegel.de/panorama/eingestuerzter-tunnel-in-indien-die-retter-aus-der-verbotenen-zone-a-9365d707-2a3c-4ff1-b2fa-11549365a6bd#ref=rss)
-### 32
-
-* [https://www.spiegel.de/wirtschaft/konjunktur-inflationsrate-sinkt-im-november-auf-3-2-prozent](https://www.spiegel.de/wirtschaft/konjunktur-inflationsrate-sinkt-im-november-auf-3-2-prozent-a-12d0b40e-6e4f-4e48-8147-95f98b7c4d53#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/celle-mann-aus-gambia-wegen-voelkerrechtsverbrechen-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/celle-mann-aus-gambia-wegen-voelkerrechtsverbrechen-zu-lebenslanger-haft-verurteilt-a-b1a09ee7-e605-4274-b5ff-a527be0a273f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/stuttgart-lange-haftstrafe-fuer-raedelsfuehrer-der-gruppe-s](https://www.spiegel.de/panorama/justiz/stuttgart-lange-haftstrafe-fuer-raedelsfuehrer-der-gruppe-s-a-3570ce22-faf5-44ba-bc71-12f98c939ee1#ref=rss)
 ### prozent
 
-* [https://www.spiegel.de/wirtschaft/konjunktur-inflationsrate-sinkt-im-november-auf-3-2-prozent](https://www.spiegel.de/wirtschaft/konjunktur-inflationsrate-sinkt-im-november-auf-3-2-prozent-a-12d0b40e-6e4f-4e48-8147-95f98b7c4d53#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/boris-pistorius-verteidigungsausgaben-sollen-2024-zwei-prozent-ziel-ueberschreiten](https://www.spiegel.de/politik/deutschland/boris-pistorius-verteidigungsausgaben-sollen-2024-zwei-prozent-ziel-ueberschreiten-a-c0dc0112-5c5e-42c5-af71-2d38e9493741#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/bundesagentur-fuer-arbeit-zahl-der-arbeitslosen-in-deutschland-sinkt-im-november-nur-leicht](https://www.spiegel.de/wirtschaft/soziales/bundesagentur-fuer-arbeit-zahl-der-arbeitslosen-in-deutschland-sinkt-im-november-nur-leicht-a-a59fe2d6-9318-476f-af3b-741ce245fabf#ref=rss)
+* [https://www.spiegel.de/karriere/menschen-mit-behinderung-am-arbeitsmarkt-doppelt-so-schlechte-chancen-fuer-menschen-mit-handicap](https://www.spiegel.de/karriere/menschen-mit-behinderung-am-arbeitsmarkt-doppelt-so-schlechte-chancen-fuer-menschen-mit-handicap-a-6cf3e988-f47c-4311-828d-dd5befd8fc48#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/politik/deutschland/boris-pistorius-verteidigungsausgaben-sollen-2024-zwei-prozent-ziel-ueberschreiten](https://www.spiegel.de/politik/deutschland/boris-pistorius-verteidigungsausgaben-sollen-2024-zwei-prozent-ziel-ueberschreiten-a-c0dc0112-5c5e-42c5-af71-2d38e9493741#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/bundesagentur-fuer-arbeit-zahl-der-arbeitslosen-in-deutschland-sinkt-im-november-nur-leicht](https://www.spiegel.de/wirtschaft/soziales/bundesagentur-fuer-arbeit-zahl-der-arbeitslosen-in-deutschland-sinkt-im-november-nur-leicht-a-a59fe2d6-9318-476f-af3b-741ce245fabf#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/einzelhandel-ueberraschend-deutliches-umsatzplus-aber-wohl-keine-trendwende](https://www.spiegel.de/wirtschaft/unternehmen/einzelhandel-ueberraschend-deutliches-umsatzplus-aber-wohl-keine-trendwende-a-a849ba1b-2c8d-4336-ab9a-fdf5f721dbe4#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/karriere/menschen-mit-behinderung-am-arbeitsmarkt-doppelt-so-schlechte-chancen-fuer-menschen-mit-handicap](https://www.spiegel.de/karriere/menschen-mit-behinderung-am-arbeitsmarkt-doppelt-so-schlechte-chancen-fuer-menschen-mit-handicap-a-6cf3e988-f47c-4311-828d-dd5befd8fc48#ref=rss)
+### neuer
+
+* [https://www.spiegel.de/sport/fussball/manuel-neuer-beim-fc-bayern-muenchen-happy-dass-ich-dabei-sein-darf](https://www.spiegel.de/sport/fussball/manuel-neuer-beim-fc-bayern-muenchen-happy-dass-ich-dabei-sein-darf-a-da03f902-5ee1-4b95-8053-ed6b0067cf8f#ref=rss)
+* [https://www.spiegel.de/geschichte/ukraine-krieg-russland-setzt-die-ausloeschung-historischer-erinnerungen-als-waffe-ein](https://www.spiegel.de/geschichte/ukraine-krieg-russland-setzt-die-ausloeschung-historischer-erinnerungen-als-waffe-ein-a-8a09e8aa-3b21-4c35-a470-4676a3e64648#ref=rss)
+### bier
+
+* [https://www.spiegel.de/start/bier-brauerin-werden-verena-cyllok-erzaehlt-vom-berufseinstieg-ich-trinke-bier-gar-nicht-so-gern](https://www.spiegel.de/start/bier-brauerin-werden-verena-cyllok-erzaehlt-vom-berufseinstieg-ich-trinke-bier-gar-nicht-so-gern-a-36689d7d-df2e-4455-93d3-34a31851d288#ref=rss)
+### otto
+
+* [https://www.spiegel.de/politik/deutschland/otto-fricke-fdp-ueber-die-liquidierung-einer-fraktion-am-ende-blieben-noch-einzelne-lampen](https://www.spiegel.de/politik/deutschland/otto-fricke-fdp-ueber-die-liquidierung-einer-fraktion-am-ende-blieben-noch-einzelne-lampen-a-d555a0c2-d4c6-4831-93c2-2c81d062d95c#ref=rss)
+### fricke
+
+* [https://www.spiegel.de/politik/deutschland/otto-fricke-fdp-ueber-die-liquidierung-einer-fraktion-am-ende-blieben-noch-einzelne-lampen](https://www.spiegel.de/politik/deutschland/otto-fricke-fdp-ueber-die-liquidierung-einer-fraktion-am-ende-blieben-noch-einzelne-lampen-a-d555a0c2-d4c6-4831-93c2-2c81d062d95c#ref=rss)
+### liquidierung
+
+* [https://www.spiegel.de/politik/deutschland/otto-fricke-fdp-ueber-die-liquidierung-einer-fraktion-am-ende-blieben-noch-einzelne-lampen](https://www.spiegel.de/politik/deutschland/otto-fricke-fdp-ueber-die-liquidierung-einer-fraktion-am-ende-blieben-noch-einzelne-lampen-a-d555a0c2-d4c6-4831-93c2-2c81d062d95c#ref=rss)
+### verliert
+
+* [https://www.spiegel.de/politik/deutschland/otto-fricke-fdp-ueber-die-liquidierung-einer-fraktion-am-ende-blieben-noch-einzelne-lampen](https://www.spiegel.de/politik/deutschland/otto-fricke-fdp-ueber-die-liquidierung-einer-fraktion-am-ende-blieben-noch-einzelne-lampen-a-d555a0c2-d4c6-4831-93c2-2c81d062d95c#ref=rss)
+* [https://www.spiegel.de/ausland/henry-kissingers-tod-die-welt-verliert-einen-besonderen-diplomaten](https://www.spiegel.de/ausland/henry-kissingers-tod-die-welt-verliert-einen-besonderen-diplomaten-a-895c72b1-6863-4fb2-9f08-5b3a14f15e4b#ref=rss)
+### bedeutet
+
+* [https://www.spiegel.de/politik/deutschland/otto-fricke-fdp-ueber-die-liquidierung-einer-fraktion-am-ende-blieben-noch-einzelne-lampen](https://www.spiegel.de/politik/deutschland/otto-fricke-fdp-ueber-die-liquidierung-einer-fraktion-am-ende-blieben-noch-einzelne-lampen-a-d555a0c2-d4c6-4831-93c2-2c81d062d95c#ref=rss)
+* [https://www.spiegel.de/ausland/henry-kissinger-ist-tot-der-jahrhundert-diplomat-nachruf](https://www.spiegel.de/ausland/henry-kissinger-ist-tot-der-jahrhundert-diplomat-nachruf-a-73bb698c-d321-415c-b99f-2b30936cefbe#ref=rss)
+### gar
+
+* [https://www.spiegel.de/psychologie/selbsttest-zur-stressbelastung-sind-sie-leistungsstark-oder-doch-schon-im-burn-on](https://www.spiegel.de/psychologie/selbsttest-zur-stressbelastung-sind-sie-leistungsstark-oder-doch-schon-im-burn-on-a-a3da53a1-c29e-4632-8b46-e384a9eb2d80#ref=rss)
+* [https://www.spiegel.de/start/bier-brauerin-werden-verena-cyllok-erzaehlt-vom-berufseinstieg-ich-trinke-bier-gar-nicht-so-gern](https://www.spiegel.de/start/bier-brauerin-werden-verena-cyllok-erzaehlt-vom-berufseinstieg-ich-trinke-bier-gar-nicht-so-gern-a-36689d7d-df2e-4455-93d3-34a31851d288#ref=rss)
+### openai
+
+* [https://www.spiegel.de/netzwelt/web/openai-sam-altman-ist-wieder-chef-die-rebellen-sind-geschlagen](https://www.spiegel.de/netzwelt/web/openai-sam-altman-ist-wieder-chef-die-rebellen-sind-geschlagen-a-f99cd1fc-b967-46e6-a99f-45c53321f0b1#ref=rss)
+### sam
+
+* [https://www.spiegel.de/netzwelt/web/openai-sam-altman-ist-wieder-chef-die-rebellen-sind-geschlagen](https://www.spiegel.de/netzwelt/web/openai-sam-altman-ist-wieder-chef-die-rebellen-sind-geschlagen-a-f99cd1fc-b967-46e6-a99f-45c53321f0b1#ref=rss)
+### mutter
+
+* [https://www.spiegel.de/panorama/leute/beyonce-mutter-ueber-die-vorwuerfe-der-hautaufhellung](https://www.spiegel.de/panorama/leute/beyonce-mutter-ueber-die-vorwuerfe-der-hautaufhellung-a-7a07d458-1250-4a44-b1ec-96462d91faef#ref=rss)
+### vorwürfe
+
+* [https://www.spiegel.de/panorama/leute/beyonce-mutter-ueber-die-vorwuerfe-der-hautaufhellung](https://www.spiegel.de/panorama/leute/beyonce-mutter-ueber-die-vorwuerfe-der-hautaufhellung-a-7a07d458-1250-4a44-b1ec-96462d91faef#ref=rss)
+### zerstörung
+
+* [https://www.spiegel.de/wissenschaft/natur/groesste-zerstoerung-der-brasilianischen-savannen-seit-2015](https://www.spiegel.de/wissenschaft/natur/groesste-zerstoerung-der-brasilianischen-savannen-seit-2015-a-738ecc4b-c4fd-47ec-94c4-d9bda4f94867#ref=rss)
+* [https://www.spiegel.de/ausland/anschlag-auf-nordstream-pipeline-britische-kriegsschiffe-sollen-unterwasser-infrastruktur-schuetzen](https://www.spiegel.de/ausland/anschlag-auf-nordstream-pipeline-britische-kriegsschiffe-sollen-unterwasser-infrastruktur-schuetzen-a-8cf3059e-0187-46dc-9a73-8cdaff1ac4f0#ref=rss)
+### brasilianischen
+
+* [https://www.spiegel.de/wissenschaft/natur/groesste-zerstoerung-der-brasilianischen-savannen-seit-2015](https://www.spiegel.de/wissenschaft/natur/groesste-zerstoerung-der-brasilianischen-savannen-seit-2015-a-738ecc4b-c4fd-47ec-94c4-d9bda4f94867#ref=rss)
+### dies
+
+* [https://www.spiegel.de/ausland/anschlag-auf-nordstream-pipeline-britische-kriegsschiffe-sollen-unterwasser-infrastruktur-schuetzen](https://www.spiegel.de/ausland/anschlag-auf-nordstream-pipeline-britische-kriegsschiffe-sollen-unterwasser-infrastruktur-schuetzen-a-8cf3059e-0187-46dc-9a73-8cdaff1ac4f0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/klimaschutz-gericht-verpflichtet-regierung-zu-sofortmassnahmen](https://www.spiegel.de/politik/deutschland/klimaschutz-gericht-verpflichtet-regierung-zu-sofortmassnahmen-a-2fc69d85-b9a3-4ec8-aba7-5d60c26f5f84#ref=rss)
+### gambia
+
+* [https://www.spiegel.de/panorama/justiz/celle-mann-aus-gambia-wegen-voelkerrechtsverbrechen-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/celle-mann-aus-gambia-wegen-voelkerrechtsverbrechen-zu-lebenslanger-haft-verurteilt-a-b1a09ee7-e605-4274-b5ff-a527be0a273f#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/panorama/justiz/celle-mann-aus-gambia-wegen-voelkerrechtsverbrechen-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/celle-mann-aus-gambia-wegen-voelkerrechtsverbrechen-zu-lebenslanger-haft-verurteilt-a-b1a09ee7-e605-4274-b5ff-a527be0a273f#ref=rss)
+### bildern
+
+* [https://www.spiegel.de/ausland/henry-kissinger-sein-leben-in-bildern](https://www.spiegel.de/ausland/henry-kissinger-sein-leben-in-bildern-a-31219bbc-1084-4257-b896-c97e611724ef#ref=rss)
+### außenminister
+
+* [https://www.spiegel.de/ausland/henry-kissinger-sein-leben-in-bildern](https://www.spiegel.de/ausland/henry-kissinger-sein-leben-in-bildern-a-31219bbc-1084-4257-b896-c97e611724ef#ref=rss)
+* [https://www.spiegel.de/geschichte/henry-kissinger-wird-100-der-solist](https://www.spiegel.de/geschichte/henry-kissinger-wird-100-der-solist-a-4fe0c0e4-3f89-4f9b-b519-ad4c44789b18#ref=rss)
+### kissingers
+
+* [https://www.spiegel.de/ausland/henry-kissinger-sein-leben-in-bildern](https://www.spiegel.de/ausland/henry-kissinger-sein-leben-in-bildern-a-31219bbc-1084-4257-b896-c97e611724ef#ref=rss)
+* [https://www.spiegel.de/ausland/henry-kissingers-tod-die-welt-verliert-einen-besonderen-diplomaten](https://www.spiegel.de/ausland/henry-kissingers-tod-die-welt-verliert-einen-besonderen-diplomaten-a-895c72b1-6863-4fb2-9f08-5b3a14f15e4b#ref=rss)
+### überblick
+
+* [https://www.spiegel.de/ausland/henry-kissinger-sein-leben-in-bildern](https://www.spiegel.de/ausland/henry-kissinger-sein-leben-in-bildern-a-31219bbc-1084-4257-b896-c97e611724ef#ref=rss)
+* [https://www.spiegel.de/ausland/henry-kissingers-tod-die-welt-verliert-einen-besonderen-diplomaten](https://www.spiegel.de/ausland/henry-kissingers-tod-die-welt-verliert-einen-besonderen-diplomaten-a-895c72b1-6863-4fb2-9f08-5b3a14f15e4b#ref=rss)
+### pistorius
+
+* [https://www.spiegel.de/politik/deutschland/boris-pistorius-verteidigungsausgaben-sollen-2024-zwei-prozent-ziel-ueberschreiten](https://www.spiegel.de/politik/deutschland/boris-pistorius-verteidigungsausgaben-sollen-2024-zwei-prozent-ziel-ueberschreiten-a-c0dc0112-5c5e-42c5-af71-2d38e9493741#ref=rss)
+### ziel
+
+* [https://www.spiegel.de/politik/deutschland/boris-pistorius-verteidigungsausgaben-sollen-2024-zwei-prozent-ziel-ueberschreiten](https://www.spiegel.de/politik/deutschland/boris-pistorius-verteidigungsausgaben-sollen-2024-zwei-prozent-ziel-ueberschreiten-a-c0dc0112-5c5e-42c5-af71-2d38e9493741#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/leverkusen-haftbefehl-gegen-16-jaehrigen-terrorverdaechtigen-wegen-geplantem-anschlag](https://www.spiegel.de/politik/deutschland/leverkusen-haftbefehl-gegen-16-jaehrigen-terrorverdaechtigen-wegen-geplantem-anschlag-a-3b42fb9f-3056-4887-b334-4fbda304d79e#ref=rss)
+### lange
+
+* [https://www.spiegel.de/politik/deutschland/boris-pistorius-verteidigungsausgaben-sollen-2024-zwei-prozent-ziel-ueberschreiten](https://www.spiegel.de/politik/deutschland/boris-pistorius-verteidigungsausgaben-sollen-2024-zwei-prozent-ziel-ueberschreiten-a-c0dc0112-5c5e-42c5-af71-2d38e9493741#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/stuttgart-lange-haftstrafe-fuer-raedelsfuehrer-der-gruppe-s](https://www.spiegel.de/panorama/justiz/stuttgart-lange-haftstrafe-fuer-raedelsfuehrer-der-gruppe-s-a-3570ce22-faf5-44ba-bc71-12f98c939ee1#ref=rss)
+### tot
+
+* [https://www.spiegel.de/ausland/henry-kissinger-ist-tot-der-jahrhundert-diplomat-nachruf](https://www.spiegel.de/ausland/henry-kissinger-ist-tot-der-jahrhundert-diplomat-nachruf-a-73bb698c-d321-415c-b99f-2b30936cefbe#ref=rss)
+* [https://www.spiegel.de/kultur/frances-sternhagen-ist-tot-schauspielerin-mit-93-jahren-gestorben](https://www.spiegel.de/kultur/frances-sternhagen-ist-tot-schauspielerin-mit-93-jahren-gestorben-a-15840adb-7fbf-4e92-8520-ab677b65e2ac#ref=rss)
+### haftbefehl
+
+* [https://www.spiegel.de/politik/deutschland/leverkusen-haftbefehl-gegen-16-jaehrigen-terrorverdaechtigen-wegen-geplantem-anschlag](https://www.spiegel.de/politik/deutschland/leverkusen-haftbefehl-gegen-16-jaehrigen-terrorverdaechtigen-wegen-geplantem-anschlag-a-3b42fb9f-3056-4887-b334-4fbda304d79e#ref=rss)
+### 16jährigen
+
+* [https://www.spiegel.de/politik/deutschland/leverkusen-haftbefehl-gegen-16-jaehrigen-terrorverdaechtigen-wegen-geplantem-anschlag](https://www.spiegel.de/politik/deutschland/leverkusen-haftbefehl-gegen-16-jaehrigen-terrorverdaechtigen-wegen-geplantem-anschlag-a-3b42fb9f-3056-4887-b334-4fbda304d79e#ref=rss)
+### johan
+
+* [https://www.spiegel.de/wissenschaft/mensch/johan-rockstroem-vor-cop28-forscher-fordert-reform-von-klimakonferenzen](https://www.spiegel.de/wissenschaft/mensch/johan-rockstroem-vor-cop28-forscher-fordert-reform-von-klimakonferenzen-a-a7f65563-7f6a-4a5a-9ebc-1f1f45b9bbce#ref=rss)
+### rockström
+
+* [https://www.spiegel.de/wissenschaft/mensch/johan-rockstroem-vor-cop28-forscher-fordert-reform-von-klimakonferenzen](https://www.spiegel.de/wissenschaft/mensch/johan-rockstroem-vor-cop28-forscher-fordert-reform-von-klimakonferenzen-a-a7f65563-7f6a-4a5a-9ebc-1f1f45b9bbce#ref=rss)
+### cop28
+
+* [https://www.spiegel.de/wissenschaft/mensch/johan-rockstroem-vor-cop28-forscher-fordert-reform-von-klimakonferenzen](https://www.spiegel.de/wissenschaft/mensch/johan-rockstroem-vor-cop28-forscher-fordert-reform-von-klimakonferenzen-a-a7f65563-7f6a-4a5a-9ebc-1f1f45b9bbce#ref=rss)
+### wenig
+
+* [https://www.spiegel.de/wissenschaft/mensch/johan-rockstroem-vor-cop28-forscher-fordert-reform-von-klimakonferenzen](https://www.spiegel.de/wissenschaft/mensch/johan-rockstroem-vor-cop28-forscher-fordert-reform-von-klimakonferenzen-a-a7f65563-7f6a-4a5a-9ebc-1f1f45b9bbce#ref=rss)
+* [https://www.spiegel.de/start/bier-brauerin-werden-verena-cyllok-erzaehlt-vom-berufseinstieg-ich-trinke-bier-gar-nicht-so-gern](https://www.spiegel.de/start/bier-brauerin-werden-verena-cyllok-erzaehlt-vom-berufseinstieg-ich-trinke-bier-gar-nicht-so-gern-a-36689d7d-df2e-4455-93d3-34a31851d288#ref=rss)
+### s
+
+* [https://www.spiegel.de/panorama/justiz/stuttgart-lange-haftstrafe-fuer-raedelsfuehrer-der-gruppe-s](https://www.spiegel.de/panorama/justiz/stuttgart-lange-haftstrafe-fuer-raedelsfuehrer-der-gruppe-s-a-3570ce22-faf5-44ba-bc71-12f98c939ee1#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/panorama/justiz/stuttgart-lange-haftstrafe-fuer-raedelsfuehrer-der-gruppe-s](https://www.spiegel.de/panorama/justiz/stuttgart-lange-haftstrafe-fuer-raedelsfuehrer-der-gruppe-s-a-3570ce22-faf5-44ba-bc71-12f98c939ee1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/klimaschutz-gericht-verpflichtet-regierung-zu-sofortmassnahmen](https://www.spiegel.de/politik/deutschland/klimaschutz-gericht-verpflichtet-regierung-zu-sofortmassnahmen-a-2fc69d85-b9a3-4ec8-aba7-5d60c26f5f84#ref=rss)
+### verpflichtet
+
+* [https://www.spiegel.de/politik/deutschland/klimaschutz-gericht-verpflichtet-regierung-zu-sofortmassnahmen](https://www.spiegel.de/politik/deutschland/klimaschutz-gericht-verpflichtet-regierung-zu-sofortmassnahmen-a-2fc69d85-b9a3-4ec8-aba7-5d60c26f5f84#ref=rss)
+* [https://www.spiegel.de/karriere/menschen-mit-behinderung-am-arbeitsmarkt-doppelt-so-schlechte-chancen-fuer-menschen-mit-handicap](https://www.spiegel.de/karriere/menschen-mit-behinderung-am-arbeitsmarkt-doppelt-so-schlechte-chancen-fuer-menschen-mit-handicap-a-6cf3e988-f47c-4311-828d-dd5befd8fc48#ref=rss)
+### trendwende
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/einzelhandel-ueberraschend-deutliches-umsatzplus-aber-wohl-keine-trendwende](https://www.spiegel.de/wirtschaft/unternehmen/einzelhandel-ueberraschend-deutliches-umsatzplus-aber-wohl-keine-trendwende-a-a849ba1b-2c8d-4336-ab9a-fdf5f721dbe4#ref=rss)
+### umsätze
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/einzelhandel-ueberraschend-deutliches-umsatzplus-aber-wohl-keine-trendwende](https://www.spiegel.de/wirtschaft/unternehmen/einzelhandel-ueberraschend-deutliches-umsatzplus-aber-wohl-keine-trendwende-a-a849ba1b-2c8d-4336-ab9a-fdf5f721dbe4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/commerzbank-raeumt-panne-an-geldautomaten-ein-mehrfachabbuchung-bei-fremdkunden](https://www.spiegel.de/wirtschaft/service/commerzbank-raeumt-panne-an-geldautomaten-ein-mehrfachabbuchung-bei-fremdkunden-a-2e41502a-b935-483d-a13e-9ea2951435f7#ref=rss)
+### manuel
+
+* [https://www.spiegel.de/sport/fussball/manuel-neuer-beim-fc-bayern-muenchen-happy-dass-ich-dabei-sein-darf](https://www.spiegel.de/sport/fussball/manuel-neuer-beim-fc-bayern-muenchen-happy-dass-ich-dabei-sein-darf-a-da03f902-5ee1-4b95-8053-ed6b0067cf8f#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/wirtschaft/soziales/diesel-pendlerpauschale-dienstwagen-wie-ein-abbau-von-subventionen-die-haushaltskrise-loesen-koennte](https://www.spiegel.de/wirtschaft/soziales/diesel-pendlerpauschale-dienstwagen-wie-ein-abbau-von-subventionen-die-haushaltskrise-loesen-koennte-a-b36927e9-1862-4ad7-8782-6144c0ff2656#ref=rss)
+* [https://www.spiegel.de/start/bier-brauerin-werden-verena-cyllok-erzaehlt-vom-berufseinstieg-ich-trinke-bier-gar-nicht-so-gern](https://www.spiegel.de/start/bier-brauerin-werden-verena-cyllok-erzaehlt-vom-berufseinstieg-ich-trinke-bier-gar-nicht-so-gern-a-36689d7d-df2e-4455-93d3-34a31851d288#ref=rss)
+### geld
+
+* [https://www.spiegel.de/wirtschaft/soziales/diesel-pendlerpauschale-dienstwagen-wie-ein-abbau-von-subventionen-die-haushaltskrise-loesen-koennte](https://www.spiegel.de/wirtschaft/soziales/diesel-pendlerpauschale-dienstwagen-wie-ein-abbau-von-subventionen-die-haushaltskrise-loesen-koennte-a-b36927e9-1862-4ad7-8782-6144c0ff2656#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/commerzbank-raeumt-panne-an-geldautomaten-ein-mehrfachabbuchung-bei-fremdkunden](https://www.spiegel.de/wirtschaft/service/commerzbank-raeumt-panne-an-geldautomaten-ein-mehrfachabbuchung-bei-fremdkunden-a-2e41502a-b935-483d-a13e-9ea2951435f7#ref=rss)
+### positive
+
+* [https://www.spiegel.de/wirtschaft/service/schufa-verbraucher-sollen-fuer-positive-kredit-bewertung-freiwillig-daten-abgeben](https://www.spiegel.de/wirtschaft/service/schufa-verbraucher-sollen-fuer-positive-kredit-bewertung-freiwillig-daten-abgeben-a-7a7fb3f3-81f6-4649-b9a1-2cd632fc4327#ref=rss)
+### freiwillig
+
+* [https://www.spiegel.de/wirtschaft/service/schufa-verbraucher-sollen-fuer-positive-kredit-bewertung-freiwillig-daten-abgeben](https://www.spiegel.de/wirtschaft/service/schufa-verbraucher-sollen-fuer-positive-kredit-bewertung-freiwillig-daten-abgeben-a-7a7fb3f3-81f6-4649-b9a1-2cd632fc4327#ref=rss)
+### 100
+
+* [https://www.spiegel.de/geschichte/henry-kissinger-wird-100-der-solist](https://www.spiegel.de/geschichte/henry-kissinger-wird-100-der-solist-a-4fe0c0e4-3f89-4f9b-b519-ad4c44789b18#ref=rss)
+### commerzbank
+
+* [https://www.spiegel.de/wirtschaft/service/commerzbank-raeumt-panne-an-geldautomaten-ein-mehrfachabbuchung-bei-fremdkunden](https://www.spiegel.de/wirtschaft/service/commerzbank-raeumt-panne-an-geldautomaten-ein-mehrfachabbuchung-bei-fremdkunden-a-2e41502a-b935-483d-a13e-9ea2951435f7#ref=rss)
+### bushaltestelle
+
+* [https://www.spiegel.de/ausland/israel-schuesse-an-bushaltestelle-in-jerusalem-zwei-tote](https://www.spiegel.de/ausland/israel-schuesse-an-bushaltestelle-in-jerusalem-zwei-tote-a-6d14868d-3c6c-44a7-a590-565a4cecd399#ref=rss)
+### jerusalem
+
+* [https://www.spiegel.de/ausland/israel-schuesse-an-bushaltestelle-in-jerusalem-zwei-tote](https://www.spiegel.de/ausland/israel-schuesse-an-bushaltestelle-in-jerusalem-zwei-tote-a-6d14868d-3c6c-44a7-a590-565a4cecd399#ref=rss)
+### opel
+
+* [https://www.spiegel.de/auto/opel-astra-sports-tourer-electric-im-test-elektrischer-lademeister](https://www.spiegel.de/auto/opel-astra-sports-tourer-electric-im-test-elektrischer-lademeister-a-6cdbd293-e172-48cc-a4c7-0b64d93c8874#ref=rss)
+### astra
+
+* [https://www.spiegel.de/auto/opel-astra-sports-tourer-electric-im-test-elektrischer-lademeister](https://www.spiegel.de/auto/opel-astra-sports-tourer-electric-im-test-elektrischer-lademeister-a-6cdbd293-e172-48cc-a4c7-0b64d93c8874#ref=rss)
+### sports
+
+* [https://www.spiegel.de/auto/opel-astra-sports-tourer-electric-im-test-elektrischer-lademeister](https://www.spiegel.de/auto/opel-astra-sports-tourer-electric-im-test-elektrischer-lademeister-a-6cdbd293-e172-48cc-a4c7-0b64d93c8874#ref=rss)
+### tourer
+
+* [https://www.spiegel.de/auto/opel-astra-sports-tourer-electric-im-test-elektrischer-lademeister](https://www.spiegel.de/auto/opel-astra-sports-tourer-electric-im-test-elektrischer-lademeister-a-6cdbd293-e172-48cc-a4c7-0b64d93c8874#ref=rss)
+### frances
+
+* [https://www.spiegel.de/kultur/frances-sternhagen-ist-tot-schauspielerin-mit-93-jahren-gestorben](https://www.spiegel.de/kultur/frances-sternhagen-ist-tot-schauspielerin-mit-93-jahren-gestorben-a-15840adb-7fbf-4e92-8520-ab677b65e2ac#ref=rss)
+### sternhagen
+
+* [https://www.spiegel.de/kultur/frances-sternhagen-ist-tot-schauspielerin-mit-93-jahren-gestorben](https://www.spiegel.de/kultur/frances-sternhagen-ist-tot-schauspielerin-mit-93-jahren-gestorben-a-15840adb-7fbf-4e92-8520-ab677b65e2ac#ref=rss)
+### schauspielerin
+
+* [https://www.spiegel.de/kultur/frances-sternhagen-ist-tot-schauspielerin-mit-93-jahren-gestorben](https://www.spiegel.de/kultur/frances-sternhagen-ist-tot-schauspielerin-mit-93-jahren-gestorben-a-15840adb-7fbf-4e92-8520-ab677b65e2ac#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/kultur/frances-sternhagen-ist-tot-schauspielerin-mit-93-jahren-gestorben](https://www.spiegel.de/kultur/frances-sternhagen-ist-tot-schauspielerin-mit-93-jahren-gestorben-a-15840adb-7fbf-4e92-8520-ab677b65e2ac#ref=rss)
+### verena
+
+* [https://www.spiegel.de/start/bier-brauerin-werden-verena-cyllok-erzaehlt-vom-berufseinstieg-ich-trinke-bier-gar-nicht-so-gern](https://www.spiegel.de/start/bier-brauerin-werden-verena-cyllok-erzaehlt-vom-berufseinstieg-ich-trinke-bier-gar-nicht-so-gern-a-36689d7d-df2e-4455-93d3-34a31851d288#ref=rss)
+### cyllok
+
+* [https://www.spiegel.de/start/bier-brauerin-werden-verena-cyllok-erzaehlt-vom-berufseinstieg-ich-trinke-bier-gar-nicht-so-gern](https://www.spiegel.de/start/bier-brauerin-werden-verena-cyllok-erzaehlt-vom-berufseinstieg-ich-trinke-bier-gar-nicht-so-gern-a-36689d7d-df2e-4455-93d3-34a31851d288#ref=rss)
 
