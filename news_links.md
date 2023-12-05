@@ -4,339 +4,301 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
-
-* [https://www.spiegel.de/panorama/bildung/pisa-debakel-deutschlands-15-jaehrige-rutschen-massiv-ab](https://www.spiegel.de/panorama/bildung/pisa-debakel-deutschlands-15-jaehrige-rutschen-massiv-ab-a-ffc50f6e-e2d3-4ac6-9123-9ceb53c930b9#ref=rss)
-* [https://www.spiegel.de/wissenschaft/cop28-mehr-als-2400-oel-gas-und-kohlelobbyisten-auf-der-uno-klimakonferenz](https://www.spiegel.de/wissenschaft/cop28-mehr-als-2400-oel-gas-und-kohlelobbyisten-auf-der-uno-klimakonferenz-a-97847fdc-1dae-479d-95fe-98001a2a8c36#ref=rss)
-* [https://www.spiegel.de/wirtschaft/modeindustrie-eu-beschliesst-vernichtungsverbot-fuer-unverkaufte-kleidung](https://www.spiegel.de/wirtschaft/modeindustrie-eu-beschliesst-vernichtungsverbot-fuer-unverkaufte-kleidung-a-a609a152-1148-4e8b-89a8-3043d13ac0be#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ukrainekrieg-eu-will-sanktionen-gegen-russlands-exporte-verschaerfen](https://www.spiegel.de/wirtschaft/ukrainekrieg-eu-will-sanktionen-gegen-russlands-exporte-verschaerfen-a-d7dee461-6031-4fc6-8b40-d4e97e2a24bb#ref=rss)
-* [https://www.spiegel.de/netzwelt/games/gta-6-rockstar-games-hat-den-ersten-trailer-zum-neuen-grand-theft-auto-vi-veroeffentlicht](https://www.spiegel.de/netzwelt/games/gta-6-rockstar-games-hat-den-ersten-trailer-zum-neuen-grand-theft-auto-vi-veroeffentlicht-a-737158e9-2da8-4c64-9f20-7ab10545102f#ref=rss)
-### eu
-
-* [https://www.spiegel.de/wissenschaft/cop28-mehr-als-2400-oel-gas-und-kohlelobbyisten-auf-der-uno-klimakonferenz](https://www.spiegel.de/wissenschaft/cop28-mehr-als-2400-oel-gas-und-kohlelobbyisten-auf-der-uno-klimakonferenz-a-97847fdc-1dae-479d-95fe-98001a2a8c36#ref=rss)
-* [https://www.spiegel.de/wirtschaft/modeindustrie-eu-beschliesst-vernichtungsverbot-fuer-unverkaufte-kleidung](https://www.spiegel.de/wirtschaft/modeindustrie-eu-beschliesst-vernichtungsverbot-fuer-unverkaufte-kleidung-a-a609a152-1148-4e8b-89a8-3043d13ac0be#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ukrainekrieg-eu-will-sanktionen-gegen-russlands-exporte-verschaerfen](https://www.spiegel.de/wirtschaft/ukrainekrieg-eu-will-sanktionen-gegen-russlands-exporte-verschaerfen-a-d7dee461-6031-4fc6-8b40-d4e97e2a24bb#ref=rss)
-### wir
-
-* [https://www.spiegel.de/backstage/community-wir-starten-spiegel-debatte](https://www.spiegel.de/backstage/community-wir-starten-spiegel-debatte-a-8df0d3e4-722a-4cd9-87cf-6f809bb767ce#ref=rss)
-* [https://www.spiegel.de/geschichte/nahostkrieg-als-es-noch-hoffnung-fuer-gaza-gab-vergessene-geschichte-einer-region](https://www.spiegel.de/geschichte/nahostkrieg-als-es-noch-hoffnung-fuer-gaza-gab-vergessene-geschichte-einer-region-a-ca6a1743-e2c5-4616-8531-8599e0f38b52#ref=rss)
-### neue
-
-* [https://www.spiegel.de/panorama/bildung/pisa-debakel-deutschlands-15-jaehrige-rutschen-massiv-ab](https://www.spiegel.de/panorama/bildung/pisa-debakel-deutschlands-15-jaehrige-rutschen-massiv-ab-a-ffc50f6e-e2d3-4ac6-9123-9ceb53c930b9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/modeindustrie-eu-beschliesst-vernichtungsverbot-fuer-unverkaufte-kleidung](https://www.spiegel.de/wirtschaft/modeindustrie-eu-beschliesst-vernichtungsverbot-fuer-unverkaufte-kleidung-a-a609a152-1148-4e8b-89a8-3043d13ac0be#ref=rss)
-* [https://www.spiegel.de/netzwelt/games/gta-6-rockstar-games-hat-den-ersten-trailer-zum-neuen-grand-theft-auto-vi-veroeffentlicht](https://www.spiegel.de/netzwelt/games/gta-6-rockstar-games-hat-den-ersten-trailer-zum-neuen-grand-theft-auto-vi-veroeffentlicht-a-737158e9-2da8-4c64-9f20-7ab10545102f#ref=rss)
-* [https://www.spiegel.de/geschichte/nahostkrieg-als-es-noch-hoffnung-fuer-gaza-gab-vergessene-geschichte-einer-region](https://www.spiegel.de/geschichte/nahostkrieg-als-es-noch-hoffnung-fuer-gaza-gab-vergessene-geschichte-einer-region-a-ca6a1743-e2c5-4616-8531-8599e0f38b52#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-bittet-us-senatoren-um-neues-geld](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-bittet-us-senatoren-um-neues-geld-a-c42c523c-a357-4216-9c01-809f9dafea9c#ref=rss)
-* [https://www.spiegel.de/ausland/rotes-meer-usa-pruefen-einrichtung-maritimer-taskforce-iran-bestreitet-angriff-auf-us-zerstoerer](https://www.spiegel.de/ausland/rotes-meer-usa-pruefen-einrichtung-maritimer-taskforce-iran-bestreitet-angriff-auf-us-zerstoerer-a-0b80629d-a042-4432-b1d7-1c9f0b13d7c8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/lagerraeume-mieten-in-den-usa-das-grosse-geschaeft-mit-dem-kleinen-raum](https://www.spiegel.de/wirtschaft/soziales/lagerraeume-mieten-in-den-usa-das-grosse-geschaeft-mit-dem-kleinen-raum-a-c615e38e-b6c7-484b-8e8c-ba78aa268ba7#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/iran-ebrahim-raisi-reist-fuer-gespraeche-mit-wladimir-putin-nach-russland](https://www.spiegel.de/ausland/iran-ebrahim-raisi-reist-fuer-gespraeche-mit-wladimir-putin-nach-russland-a-1ce10240-ae94-4dd2-b4d0-a96d7db36feb#ref=rss)
-* [https://www.spiegel.de/ausland/rotes-meer-usa-pruefen-einrichtung-maritimer-taskforce-iran-bestreitet-angriff-auf-us-zerstoerer](https://www.spiegel.de/ausland/rotes-meer-usa-pruefen-einrichtung-maritimer-taskforce-iran-bestreitet-angriff-auf-us-zerstoerer-a-0b80629d-a042-4432-b1d7-1c9f0b13d7c8#ref=rss)
-### deutschlands
-
-* [https://www.spiegel.de/panorama/bildung/pisa-debakel-deutschlands-15-jaehrige-rutschen-massiv-ab](https://www.spiegel.de/panorama/bildung/pisa-debakel-deutschlands-15-jaehrige-rutschen-massiv-ab-a-ffc50f6e-e2d3-4ac6-9123-9ceb53c930b9#ref=rss)
-* [https://www.spiegel.de/panorama/schnee-und-eisregen-mehrere-tote-bei-unfaellen-durch-glatteis](https://www.spiegel.de/panorama/schnee-und-eisregen-mehrere-tote-bei-unfaellen-durch-glatteis-a-c3345e5e-32c9-422b-89a3-d3ec9355a40a#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-warnung-vor-glatteis-vor-allem-in-bayern](https://www.spiegel.de/panorama/wetter-in-deutschland-warnung-vor-glatteis-vor-allem-in-bayern-a-b508969a-ee2b-4b1b-ae8d-a92ea3653589#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/politik/deutschland/werdau-in-sachsen-sahra-wagenknecht-anhaenger-bilden-stadtratsfraktion-mit-gruenem](https://www.spiegel.de/politik/deutschland/werdau-in-sachsen-sahra-wagenknecht-anhaenger-bilden-stadtratsfraktion-mit-gruenem-a-b682171e-da0e-42df-a91f-7b7628ed1e4b#ref=rss)
-* [https://www.spiegel.de/netzwelt/games/gta-6-rockstar-games-hat-den-ersten-trailer-zum-neuen-grand-theft-auto-vi-veroeffentlicht](https://www.spiegel.de/netzwelt/games/gta-6-rockstar-games-hat-den-ersten-trailer-zum-neuen-grand-theft-auto-vi-veroeffentlicht-a-737158e9-2da8-4c64-9f20-7ab10545102f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/retouren-kosten-onlinehaendler-im-schnitt-bis-zu-zehn-euro-pro-artikel](https://www.spiegel.de/wirtschaft/retouren-kosten-onlinehaendler-im-schnitt-bis-zu-zehn-euro-pro-artikel-a-22332bbc-6fb3-4293-9713-57ed86d2c5ad#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/panorama/schnee-und-eisregen-mehrere-tote-bei-unfaellen-durch-glatteis](https://www.spiegel.de/panorama/schnee-und-eisregen-mehrere-tote-bei-unfaellen-durch-glatteis-a-c3345e5e-32c9-422b-89a3-d3ec9355a40a#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-warnung-vor-glatteis-vor-allem-in-bayern](https://www.spiegel.de/panorama/wetter-in-deutschland-warnung-vor-glatteis-vor-allem-in-bayern-a-b508969a-ee2b-4b1b-ae8d-a92ea3653589#ref=rss)
-### auto
-
-* [https://www.spiegel.de/panorama/schnee-und-eisregen-mehrere-tote-bei-unfaellen-durch-glatteis](https://www.spiegel.de/panorama/schnee-und-eisregen-mehrere-tote-bei-unfaellen-durch-glatteis-a-c3345e5e-32c9-422b-89a3-d3ec9355a40a#ref=rss)
-* [https://www.spiegel.de/netzwelt/games/gta-6-rockstar-games-hat-den-ersten-trailer-zum-neuen-grand-theft-auto-vi-veroeffentlicht](https://www.spiegel.de/netzwelt/games/gta-6-rockstar-games-hat-den-ersten-trailer-zum-neuen-grand-theft-auto-vi-veroeffentlicht-a-737158e9-2da8-4c64-9f20-7ab10545102f#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/israel-gaza-news-israel-erwaegt-womoeglich-die-flutung-des-hamas-tunnelsystems-im-gazstreifen](https://www.spiegel.de/ausland/israel-gaza-news-israel-erwaegt-womoeglich-die-flutung-des-hamas-tunnelsystems-im-gazstreifen-a-0c08b645-7952-4ef4-a919-7e66837b5ac7#ref=rss)
-* [https://www.spiegel.de/kultur/anti-israel-proteste-an-universitaeten-kein-neues-68-meinung](https://www.spiegel.de/kultur/anti-israel-proteste-an-universitaeten-kein-neues-68-meinung-a-647df088-ce79-42d6-b9af-c574e7b16440#ref=rss)
-### flutung
-
-* [https://www.spiegel.de/ausland/israel-gaza-news-israel-erwaegt-womoeglich-die-flutung-des-hamas-tunnelsystems-im-gazstreifen](https://www.spiegel.de/ausland/israel-gaza-news-israel-erwaegt-womoeglich-die-flutung-des-hamas-tunnelsystems-im-gazstreifen-a-0c08b645-7952-4ef4-a919-7e66837b5ac7#ref=rss)
-* [https://www.spiegel.de/ausland/israel-hamas-krieg-kaempfe-im-sueden-gazas-werden-intensiver-flutung-von-tunneln-erwaegt](https://www.spiegel.de/ausland/israel-hamas-krieg-kaempfe-im-sueden-gazas-werden-intensiver-flutung-von-tunneln-erwaegt-a-8127a331-c54f-4c82-a69c-29a6039c5308#ref=rss)
-### tate
-
-* [https://www.spiegel.de/ausland/andrew-tate-wie-der-influencer-frauen-ausgebeutet-haben-soll](https://www.spiegel.de/ausland/andrew-tate-wie-der-influencer-frauen-ausgebeutet-haben-soll-a-59cc5455-c331-47ea-9667-b02c0d5338e9#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/ausland/andrew-tate-wie-der-influencer-frauen-ausgebeutet-haben-soll](https://www.spiegel.de/ausland/andrew-tate-wie-der-influencer-frauen-ausgebeutet-haben-soll-a-59cc5455-c331-47ea-9667-b02c0d5338e9#ref=rss)
-* [https://www.spiegel.de/ausland/nigeria-armee-toetet-versehentlich-mindestens-85-zivilisten](https://www.spiegel.de/ausland/nigeria-armee-toetet-versehentlich-mindestens-85-zivilisten-a-b319fde2-4628-41d9-9f05-b47bac3b8d53#ref=rss)
-### neues
-
-* [https://www.spiegel.de/kultur/anti-israel-proteste-an-universitaeten-kein-neues-68-meinung](https://www.spiegel.de/kultur/anti-israel-proteste-an-universitaeten-kein-neues-68-meinung-a-647df088-ce79-42d6-b9af-c574e7b16440#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-bittet-us-senatoren-um-neues-geld](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-bittet-us-senatoren-um-neues-geld-a-c42c523c-a357-4216-9c01-809f9dafea9c#ref=rss)
-### ampel
-
-* [https://www.spiegel.de/politik/deutschland/dienstwagenprivileg-gruenen-fraktionsvize-andreas-audretsch-draengt-auf-streichung](https://www.spiegel.de/politik/deutschland/dienstwagenprivileg-gruenen-fraktionsvize-andreas-audretsch-draengt-auf-streichung-a-09af73ae-a6ae-421b-98ac-19d05f414bb3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/anja-hajduk-wolfgang-schmidt-steffen-saebisch-dieses-trio-haelt-die-ampel-am-laufen](https://www.spiegel.de/politik/deutschland/anja-hajduk-wolfgang-schmidt-steffen-saebisch-dieses-trio-haelt-die-ampel-am-laufen-a-1e30c5a8-5269-45e0-975c-1d65e4554030#ref=rss)
-### allem
-
-* [https://www.spiegel.de/politik/deutschland/dienstwagenprivileg-gruenen-fraktionsvize-andreas-audretsch-draengt-auf-streichung](https://www.spiegel.de/politik/deutschland/dienstwagenprivileg-gruenen-fraktionsvize-andreas-audretsch-draengt-auf-streichung-a-09af73ae-a6ae-421b-98ac-19d05f414bb3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/modeindustrie-eu-beschliesst-vernichtungsverbot-fuer-unverkaufte-kleidung](https://www.spiegel.de/wirtschaft/modeindustrie-eu-beschliesst-vernichtungsverbot-fuer-unverkaufte-kleidung-a-a609a152-1148-4e8b-89a8-3043d13ac0be#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-warnung-vor-glatteis-vor-allem-in-bayern](https://www.spiegel.de/panorama/wetter-in-deutschland-warnung-vor-glatteis-vor-allem-in-bayern-a-b508969a-ee2b-4b1b-ae8d-a92ea3653589#ref=rss)
-### armee
-
-* [https://www.spiegel.de/ausland/nigeria-armee-toetet-versehentlich-mindestens-85-zivilisten](https://www.spiegel.de/ausland/nigeria-armee-toetet-versehentlich-mindestens-85-zivilisten-a-b319fde2-4628-41d9-9f05-b47bac3b8d53#ref=rss)
-* [https://www.spiegel.de/ausland/israel-hamas-krieg-kaempfe-im-sueden-gazas-werden-intensiver-flutung-von-tunneln-erwaegt](https://www.spiegel.de/ausland/israel-hamas-krieg-kaempfe-im-sueden-gazas-werden-intensiver-flutung-von-tunneln-erwaegt-a-8127a331-c54f-4c82-a69c-29a6039c5308#ref=rss)
-### welt
-
-* [https://www.spiegel.de/sport/eishockey/eishockey-weltverband-beschliesst-nach-tod-von-adam-johnson-halsschutz-pflicht](https://www.spiegel.de/sport/eishockey/eishockey-weltverband-beschliesst-nach-tod-von-adam-johnson-halsschutz-pflicht-a-5b6e1948-31cb-4da1-9bba-d05473d519f9#ref=rss)
-* [https://www.spiegel.de/geschichte/nahostkrieg-als-es-noch-hoffnung-fuer-gaza-gab-vergessene-geschichte-einer-region](https://www.spiegel.de/geschichte/nahostkrieg-als-es-noch-hoffnung-fuer-gaza-gab-vergessene-geschichte-einer-region-a-ca6a1743-e2c5-4616-8531-8599e0f38b52#ref=rss)
-* [https://www.spiegel.de/reise/fernweh/youtuber-von-notizenvonunterwegs-was-die-generation-weltreise-gern-verschweigt](https://www.spiegel.de/reise/fernweh/youtuber-von-notizenvonunterwegs-was-die-generation-weltreise-gern-verschweigt-a-c43fb658-79ca-4fe7-8b25-1bb0a0d493a4#ref=rss)
-### ebrahim
-
-* [https://www.spiegel.de/ausland/iran-ebrahim-raisi-reist-fuer-gespraeche-mit-wladimir-putin-nach-russland](https://www.spiegel.de/ausland/iran-ebrahim-raisi-reist-fuer-gespraeche-mit-wladimir-putin-nach-russland-a-1ce10240-ae94-4dd2-b4d0-a96d7db36feb#ref=rss)
-### raisi
-
-* [https://www.spiegel.de/ausland/iran-ebrahim-raisi-reist-fuer-gespraeche-mit-wladimir-putin-nach-russland](https://www.spiegel.de/ausland/iran-ebrahim-raisi-reist-fuer-gespraeche-mit-wladimir-putin-nach-russland-a-1ce10240-ae94-4dd2-b4d0-a96d7db36feb#ref=rss)
-### wladimir
-
-* [https://www.spiegel.de/ausland/iran-ebrahim-raisi-reist-fuer-gespraeche-mit-wladimir-putin-nach-russland](https://www.spiegel.de/ausland/iran-ebrahim-raisi-reist-fuer-gespraeche-mit-wladimir-putin-nach-russland-a-1ce10240-ae94-4dd2-b4d0-a96d7db36feb#ref=rss)
-### putin
-
-* [https://www.spiegel.de/ausland/iran-ebrahim-raisi-reist-fuer-gespraeche-mit-wladimir-putin-nach-russland](https://www.spiegel.de/ausland/iran-ebrahim-raisi-reist-fuer-gespraeche-mit-wladimir-putin-nach-russland-a-1ce10240-ae94-4dd2-b4d0-a96d7db36feb#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/iran-ebrahim-raisi-reist-fuer-gespraeche-mit-wladimir-putin-nach-russland](https://www.spiegel.de/ausland/iran-ebrahim-raisi-reist-fuer-gespraeche-mit-wladimir-putin-nach-russland-a-1ce10240-ae94-4dd2-b4d0-a96d7db36feb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ukrainekrieg-eu-will-sanktionen-gegen-russlands-exporte-verschaerfen](https://www.spiegel.de/wirtschaft/ukrainekrieg-eu-will-sanktionen-gegen-russlands-exporte-verschaerfen-a-d7dee461-6031-4fc6-8b40-d4e97e2a24bb#ref=rss)
-### nahostkrieg
-
-* [https://www.spiegel.de/ausland/iran-ebrahim-raisi-reist-fuer-gespraeche-mit-wladimir-putin-nach-russland](https://www.spiegel.de/ausland/iran-ebrahim-raisi-reist-fuer-gespraeche-mit-wladimir-putin-nach-russland-a-1ce10240-ae94-4dd2-b4d0-a96d7db36feb#ref=rss)
-* [https://www.spiegel.de/geschichte/nahostkrieg-als-es-noch-hoffnung-fuer-gaza-gab-vergessene-geschichte-einer-region](https://www.spiegel.de/geschichte/nahostkrieg-als-es-noch-hoffnung-fuer-gaza-gab-vergessene-geschichte-einer-region-a-ca6a1743-e2c5-4616-8531-8599e0f38b52#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/iran-ebrahim-raisi-reist-fuer-gespraeche-mit-wladimir-putin-nach-russland](https://www.spiegel.de/ausland/iran-ebrahim-raisi-reist-fuer-gespraeche-mit-wladimir-putin-nach-russland-a-1ce10240-ae94-4dd2-b4d0-a96d7db36feb#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-bittet-us-senatoren-um-neues-geld](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-bittet-us-senatoren-um-neues-geld-a-c42c523c-a357-4216-9c01-809f9dafea9c#ref=rss)
-### russlands
-
-* [https://www.spiegel.de/ausland/iran-ebrahim-raisi-reist-fuer-gespraeche-mit-wladimir-putin-nach-russland](https://www.spiegel.de/ausland/iran-ebrahim-raisi-reist-fuer-gespraeche-mit-wladimir-putin-nach-russland-a-1ce10240-ae94-4dd2-b4d0-a96d7db36feb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ukrainekrieg-eu-will-sanktionen-gegen-russlands-exporte-verschaerfen](https://www.spiegel.de/wirtschaft/ukrainekrieg-eu-will-sanktionen-gegen-russlands-exporte-verschaerfen-a-d7dee461-6031-4fc6-8b40-d4e97e2a24bb#ref=rss)
-### geplant
-
-* [https://www.spiegel.de/ausland/iran-ebrahim-raisi-reist-fuer-gespraeche-mit-wladimir-putin-nach-russland](https://www.spiegel.de/ausland/iran-ebrahim-raisi-reist-fuer-gespraeche-mit-wladimir-putin-nach-russland-a-1ce10240-ae94-4dd2-b4d0-a96d7db36feb#ref=rss)
-* [https://www.spiegel.de/netzwelt/games/gta-6-rockstar-games-hat-den-ersten-trailer-zum-neuen-grand-theft-auto-vi-veroeffentlicht](https://www.spiegel.de/netzwelt/games/gta-6-rockstar-games-hat-den-ersten-trailer-zum-neuen-grand-theft-auto-vi-veroeffentlicht-a-737158e9-2da8-4c64-9f20-7ab10545102f#ref=rss)
-### maggie
-
-* [https://www.spiegel.de/stil/maggie-smith-diane-keaton-harriet-walter-ue70-graues-haar-falten-und-stilikone](https://www.spiegel.de/stil/maggie-smith-diane-keaton-harriet-walter-ue70-graues-haar-falten-und-stilikone-a-e18dc635-8985-4c81-be1e-d8b62dd5ff83#ref=rss)
-### smith
-
-* [https://www.spiegel.de/stil/maggie-smith-diane-keaton-harriet-walter-ue70-graues-haar-falten-und-stilikone](https://www.spiegel.de/stil/maggie-smith-diane-keaton-harriet-walter-ue70-graues-haar-falten-und-stilikone-a-e18dc635-8985-4c81-be1e-d8b62dd5ff83#ref=rss)
-### etwa
-
-* [https://www.spiegel.de/stil/maggie-smith-diane-keaton-harriet-walter-ue70-graues-haar-falten-und-stilikone](https://www.spiegel.de/stil/maggie-smith-diane-keaton-harriet-walter-ue70-graues-haar-falten-und-stilikone-a-e18dc635-8985-4c81-be1e-d8b62dd5ff83#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ukrainekrieg-eu-will-sanktionen-gegen-russlands-exporte-verschaerfen](https://www.spiegel.de/wirtschaft/ukrainekrieg-eu-will-sanktionen-gegen-russlands-exporte-verschaerfen-a-d7dee461-6031-4fc6-8b40-d4e97e2a24bb#ref=rss)
-### internet
-
-* [https://www.spiegel.de/stil/maggie-smith-diane-keaton-harriet-walter-ue70-graues-haar-falten-und-stilikone](https://www.spiegel.de/stil/maggie-smith-diane-keaton-harriet-walter-ue70-graues-haar-falten-und-stilikone-a-e18dc635-8985-4c81-be1e-d8b62dd5ff83#ref=rss)
-* [https://www.spiegel.de/wirtschaft/retouren-kosten-onlinehaendler-im-schnitt-bis-zu-zehn-euro-pro-artikel](https://www.spiegel.de/wirtschaft/retouren-kosten-onlinehaendler-im-schnitt-bis-zu-zehn-euro-pro-artikel-a-22332bbc-6fb3-4293-9713-57ed86d2c5ad#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/panorama/bildung/pisa-debakel-deutschlands-15-jaehrige-rutschen-massiv-ab](https://www.spiegel.de/panorama/bildung/pisa-debakel-deutschlands-15-jaehrige-rutschen-massiv-ab-a-ffc50f6e-e2d3-4ac6-9123-9ceb53c930b9#ref=rss)
-* [https://www.spiegel.de/netzwelt/games/gta-6-rockstar-games-hat-den-ersten-trailer-zum-neuen-grand-theft-auto-vi-veroeffentlicht](https://www.spiegel.de/netzwelt/games/gta-6-rockstar-games-hat-den-ersten-trailer-zum-neuen-grand-theft-auto-vi-veroeffentlicht-a-737158e9-2da8-4c64-9f20-7ab10545102f#ref=rss)
-### pisaschock
-
-* [https://www.spiegel.de/panorama/bildung/pisa-debakel-deutschlands-15-jaehrige-rutschen-massiv-ab](https://www.spiegel.de/panorama/bildung/pisa-debakel-deutschlands-15-jaehrige-rutschen-massiv-ab-a-ffc50f6e-e2d3-4ac6-9123-9ceb53c930b9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-ampel-koalition-haushalt-pisa-studie-weltklimakonferenz-cop28](https://www.spiegel.de/politik/deutschland/news-ampel-koalition-haushalt-pisa-studie-weltklimakonferenz-cop28-a-e72846e3-ec24-4907-98a6-06800e3c81d8#ref=rss)
-### cop28
-
-* [https://www.spiegel.de/wissenschaft/cop28-mehr-als-2400-oel-gas-und-kohlelobbyisten-auf-der-uno-klimakonferenz](https://www.spiegel.de/wissenschaft/cop28-mehr-als-2400-oel-gas-und-kohlelobbyisten-auf-der-uno-klimakonferenz-a-97847fdc-1dae-479d-95fe-98001a2a8c36#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-ampel-koalition-haushalt-pisa-studie-weltklimakonferenz-cop28](https://www.spiegel.de/politik/deutschland/news-ampel-koalition-haushalt-pisa-studie-weltklimakonferenz-cop28-a-e72846e3-ec24-4907-98a6-06800e3c81d8#ref=rss)
-### weltklimakonferenz
-
-* [https://www.spiegel.de/wissenschaft/cop28-mehr-als-2400-oel-gas-und-kohlelobbyisten-auf-der-uno-klimakonferenz](https://www.spiegel.de/wissenschaft/cop28-mehr-als-2400-oel-gas-und-kohlelobbyisten-auf-der-uno-klimakonferenz-a-97847fdc-1dae-479d-95fe-98001a2a8c36#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-ampel-koalition-haushalt-pisa-studie-weltklimakonferenz-cop28](https://www.spiegel.de/politik/deutschland/news-ampel-koalition-haushalt-pisa-studie-weltklimakonferenz-cop28-a-e72846e3-ec24-4907-98a6-06800e3c81d8#ref=rss)
-### staaten
-
-* [https://www.spiegel.de/wissenschaft/cop28-mehr-als-2400-oel-gas-und-kohlelobbyisten-auf-der-uno-klimakonferenz](https://www.spiegel.de/wissenschaft/cop28-mehr-als-2400-oel-gas-und-kohlelobbyisten-auf-der-uno-klimakonferenz-a-97847fdc-1dae-479d-95fe-98001a2a8c36#ref=rss)
-* [https://www.spiegel.de/ausland/rotes-meer-usa-pruefen-einrichtung-maritimer-taskforce-iran-bestreitet-angriff-auf-us-zerstoerer](https://www.spiegel.de/ausland/rotes-meer-usa-pruefen-einrichtung-maritimer-taskforce-iran-bestreitet-angriff-auf-us-zerstoerer-a-0b80629d-a042-4432-b1d7-1c9f0b13d7c8#ref=rss)
-### teil
-
-* [https://www.spiegel.de/wissenschaft/cop28-mehr-als-2400-oel-gas-und-kohlelobbyisten-auf-der-uno-klimakonferenz](https://www.spiegel.de/wissenschaft/cop28-mehr-als-2400-oel-gas-und-kohlelobbyisten-auf-der-uno-klimakonferenz-a-97847fdc-1dae-479d-95fe-98001a2a8c36#ref=rss)
-* [https://www.spiegel.de/netzwelt/games/gta-6-rockstar-games-hat-den-ersten-trailer-zum-neuen-grand-theft-auto-vi-veroeffentlicht](https://www.spiegel.de/netzwelt/games/gta-6-rockstar-games-hat-den-ersten-trailer-zum-neuen-grand-theft-auto-vi-veroeffentlicht-a-737158e9-2da8-4c64-9f20-7ab10545102f#ref=rss)
-### werdau
-
-* [https://www.spiegel.de/politik/deutschland/werdau-in-sachsen-sahra-wagenknecht-anhaenger-bilden-stadtratsfraktion-mit-gruenem](https://www.spiegel.de/politik/deutschland/werdau-in-sachsen-sahra-wagenknecht-anhaenger-bilden-stadtratsfraktion-mit-gruenem-a-b682171e-da0e-42df-a91f-7b7628ed1e4b#ref=rss)
-### eisregen
-
-* [https://www.spiegel.de/panorama/schnee-und-eisregen-mehrere-tote-bei-unfaellen-durch-glatteis](https://www.spiegel.de/panorama/schnee-und-eisregen-mehrere-tote-bei-unfaellen-durch-glatteis-a-c3345e5e-32c9-422b-89a3-d3ec9355a40a#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-warnung-vor-glatteis-vor-allem-in-bayern](https://www.spiegel.de/panorama/wetter-in-deutschland-warnung-vor-glatteis-vor-allem-in-bayern-a-b508969a-ee2b-4b1b-ae8d-a92ea3653589#ref=rss)
-### glatteis
-
-* [https://www.spiegel.de/panorama/schnee-und-eisregen-mehrere-tote-bei-unfaellen-durch-glatteis](https://www.spiegel.de/panorama/schnee-und-eisregen-mehrere-tote-bei-unfaellen-durch-glatteis-a-c3345e5e-32c9-422b-89a3-d3ec9355a40a#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-warnung-vor-glatteis-vor-allem-in-bayern](https://www.spiegel.de/panorama/wetter-in-deutschland-warnung-vor-glatteis-vor-allem-in-bayern-a-b508969a-ee2b-4b1b-ae8d-a92ea3653589#ref=rss)
-### winterwetter
-
-* [https://www.spiegel.de/panorama/schnee-und-eisregen-mehrere-tote-bei-unfaellen-durch-glatteis](https://www.spiegel.de/panorama/schnee-und-eisregen-mehrere-tote-bei-unfaellen-durch-glatteis-a-c3345e5e-32c9-422b-89a3-d3ec9355a40a#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-warnung-vor-glatteis-vor-allem-in-bayern](https://www.spiegel.de/panorama/wetter-in-deutschland-warnung-vor-glatteis-vor-allem-in-bayern-a-b508969a-ee2b-4b1b-ae8d-a92ea3653589#ref=rss)
-### teilen
-
-* [https://www.spiegel.de/panorama/schnee-und-eisregen-mehrere-tote-bei-unfaellen-durch-glatteis](https://www.spiegel.de/panorama/schnee-und-eisregen-mehrere-tote-bei-unfaellen-durch-glatteis-a-c3345e5e-32c9-422b-89a3-d3ec9355a40a#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-warnung-vor-glatteis-vor-allem-in-bayern](https://www.spiegel.de/panorama/wetter-in-deutschland-warnung-vor-glatteis-vor-allem-in-bayern-a-b508969a-ee2b-4b1b-ae8d-a92ea3653589#ref=rss)
-### erwägt
-
-* [https://www.spiegel.de/ausland/israel-gaza-news-israel-erwaegt-womoeglich-die-flutung-des-hamas-tunnelsystems-im-gazstreifen](https://www.spiegel.de/ausland/israel-gaza-news-israel-erwaegt-womoeglich-die-flutung-des-hamas-tunnelsystems-im-gazstreifen-a-0c08b645-7952-4ef4-a919-7e66837b5ac7#ref=rss)
-* [https://www.spiegel.de/ausland/israel-hamas-krieg-kaempfe-im-sueden-gazas-werden-intensiver-flutung-von-tunneln-erwaegt](https://www.spiegel.de/ausland/israel-hamas-krieg-kaempfe-im-sueden-gazas-werden-intensiver-flutung-von-tunneln-erwaegt-a-8127a331-c54f-4c82-a69c-29a6039c5308#ref=rss)
-### womöglich
-
-* [https://www.spiegel.de/ausland/israel-gaza-news-israel-erwaegt-womoeglich-die-flutung-des-hamas-tunnelsystems-im-gazstreifen](https://www.spiegel.de/ausland/israel-gaza-news-israel-erwaegt-womoeglich-die-flutung-des-hamas-tunnelsystems-im-gazstreifen-a-0c08b645-7952-4ef4-a919-7e66837b5ac7#ref=rss)
-### geiseln
-
-* [https://www.spiegel.de/ausland/israel-gaza-news-israel-erwaegt-womoeglich-die-flutung-des-hamas-tunnelsystems-im-gazstreifen](https://www.spiegel.de/ausland/israel-gaza-news-israel-erwaegt-womoeglich-die-flutung-des-hamas-tunnelsystems-im-gazstreifen-a-0c08b645-7952-4ef4-a919-7e66837b5ac7#ref=rss)
-* [https://www.spiegel.de/ausland/israel-hamas-krieg-kaempfe-im-sueden-gazas-werden-intensiver-flutung-von-tunneln-erwaegt](https://www.spiegel.de/ausland/israel-hamas-krieg-kaempfe-im-sueden-gazas-werden-intensiver-flutung-von-tunneln-erwaegt-a-8127a331-c54f-4c82-a69c-29a6039c5308#ref=rss)
-### andrew
-
-* [https://www.spiegel.de/ausland/andrew-tate-wie-der-influencer-frauen-ausgebeutet-haben-soll](https://www.spiegel.de/ausland/andrew-tate-wie-der-influencer-frauen-ausgebeutet-haben-soll-a-59cc5455-c331-47ea-9667-b02c0d5338e9#ref=rss)
-### influencer
-
-* [https://www.spiegel.de/ausland/andrew-tate-wie-der-influencer-frauen-ausgebeutet-haben-soll](https://www.spiegel.de/ausland/andrew-tate-wie-der-influencer-frauen-ausgebeutet-haben-soll-a-59cc5455-c331-47ea-9667-b02c0d5338e9#ref=rss)
-### viele
-
-* [https://www.spiegel.de/ausland/andrew-tate-wie-der-influencer-frauen-ausgebeutet-haben-soll](https://www.spiegel.de/ausland/andrew-tate-wie-der-influencer-frauen-ausgebeutet-haben-soll-a-59cc5455-c331-47ea-9667-b02c0d5338e9#ref=rss)
-* [https://www.spiegel.de/ausland/nigeria-armee-toetet-versehentlich-mindestens-85-zivilisten](https://www.spiegel.de/ausland/nigeria-armee-toetet-versehentlich-mindestens-85-zivilisten-a-b319fde2-4628-41d9-9f05-b47bac3b8d53#ref=rss)
-### sehen
-
-* [https://www.spiegel.de/ausland/andrew-tate-wie-der-influencer-frauen-ausgebeutet-haben-soll](https://www.spiegel.de/ausland/andrew-tate-wie-der-influencer-frauen-ausgebeutet-haben-soll-a-59cc5455-c331-47ea-9667-b02c0d5338e9#ref=rss)
-* [https://www.spiegel.de/kultur/anti-israel-proteste-an-universitaeten-kein-neues-68-meinung](https://www.spiegel.de/kultur/anti-israel-proteste-an-universitaeten-kein-neues-68-meinung-a-647df088-ce79-42d6-b9af-c574e7b16440#ref=rss)
-### macht
-
-* [https://www.spiegel.de/ausland/andrew-tate-wie-der-influencer-frauen-ausgebeutet-haben-soll](https://www.spiegel.de/ausland/andrew-tate-wie-der-influencer-frauen-ausgebeutet-haben-soll-a-59cc5455-c331-47ea-9667-b02c0d5338e9#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-warnung-vor-glatteis-vor-allem-in-bayern](https://www.spiegel.de/panorama/wetter-in-deutschland-warnung-vor-glatteis-vor-allem-in-bayern-a-b508969a-ee2b-4b1b-ae8d-a92ea3653589#ref=rss)
-### universitäten
-
-* [https://www.spiegel.de/kultur/anti-israel-proteste-an-universitaeten-kein-neues-68-meinung](https://www.spiegel.de/kultur/anti-israel-proteste-an-universitaeten-kein-neues-68-meinung-a-647df088-ce79-42d6-b9af-c574e7b16440#ref=rss)
-### audretsch
-
-* [https://www.spiegel.de/politik/deutschland/dienstwagenprivileg-gruenen-fraktionsvize-andreas-audretsch-draengt-auf-streichung](https://www.spiegel.de/politik/deutschland/dienstwagenprivileg-gruenen-fraktionsvize-andreas-audretsch-draengt-auf-streichung-a-09af73ae-a6ae-421b-98ac-19d05f414bb3#ref=rss)
-### geld
-
-* [https://www.spiegel.de/politik/deutschland/dienstwagenprivileg-gruenen-fraktionsvize-andreas-audretsch-draengt-auf-streichung](https://www.spiegel.de/politik/deutschland/dienstwagenprivileg-gruenen-fraktionsvize-andreas-audretsch-draengt-auf-streichung-a-09af73ae-a6ae-421b-98ac-19d05f414bb3#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-bittet-us-senatoren-um-neues-geld](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-bittet-us-senatoren-um-neues-geld-a-c42c523c-a357-4216-9c01-809f9dafea9c#ref=rss)
-### anderen
-
-* [https://www.spiegel.de/politik/deutschland/dienstwagenprivileg-gruenen-fraktionsvize-andreas-audretsch-draengt-auf-streichung](https://www.spiegel.de/politik/deutschland/dienstwagenprivileg-gruenen-fraktionsvize-andreas-audretsch-draengt-auf-streichung-a-09af73ae-a6ae-421b-98ac-19d05f414bb3#ref=rss)
-* [https://www.spiegel.de/ausland/rotes-meer-usa-pruefen-einrichtung-maritimer-taskforce-iran-bestreitet-angriff-auf-us-zerstoerer](https://www.spiegel.de/ausland/rotes-meer-usa-pruefen-einrichtung-maritimer-taskforce-iran-bestreitet-angriff-auf-us-zerstoerer-a-0b80629d-a042-4432-b1d7-1c9f0b13d7c8#ref=rss)
-### beschließt
-
-* [https://www.spiegel.de/wirtschaft/modeindustrie-eu-beschliesst-vernichtungsverbot-fuer-unverkaufte-kleidung](https://www.spiegel.de/wirtschaft/modeindustrie-eu-beschliesst-vernichtungsverbot-fuer-unverkaufte-kleidung-a-a609a152-1148-4e8b-89a8-3043d13ac0be#ref=rss)
-* [https://www.spiegel.de/sport/eishockey/eishockey-weltverband-beschliesst-nach-tod-von-adam-johnson-halsschutz-pflicht](https://www.spiegel.de/sport/eishockey/eishockey-weltverband-beschliesst-nach-tod-von-adam-johnson-halsschutz-pflicht-a-5b6e1948-31cb-4da1-9bba-d05473d519f9#ref=rss)
-### firmen
-
-* [https://www.spiegel.de/wirtschaft/modeindustrie-eu-beschliesst-vernichtungsverbot-fuer-unverkaufte-kleidung](https://www.spiegel.de/wirtschaft/modeindustrie-eu-beschliesst-vernichtungsverbot-fuer-unverkaufte-kleidung-a-a609a152-1148-4e8b-89a8-3043d13ac0be#ref=rss)
-* [https://www.spiegel.de/wirtschaft/retouren-kosten-onlinehaendler-im-schnitt-bis-zu-zehn-euro-pro-artikel](https://www.spiegel.de/wirtschaft/retouren-kosten-onlinehaendler-im-schnitt-bis-zu-zehn-euro-pro-artikel-a-22332bbc-6fb3-4293-9713-57ed86d2c5ad#ref=rss)
-### angriff
-
-* [https://www.spiegel.de/ausland/nigeria-armee-toetet-versehentlich-mindestens-85-zivilisten](https://www.spiegel.de/ausland/nigeria-armee-toetet-versehentlich-mindestens-85-zivilisten-a-b319fde2-4628-41d9-9f05-b47bac3b8d53#ref=rss)
-* [https://www.spiegel.de/ausland/rotes-meer-usa-pruefen-einrichtung-maritimer-taskforce-iran-bestreitet-angriff-auf-us-zerstoerer](https://www.spiegel.de/ausland/rotes-meer-usa-pruefen-einrichtung-maritimer-taskforce-iran-bestreitet-angriff-auf-us-zerstoerer-a-0b80629d-a042-4432-b1d7-1c9f0b13d7c8#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-bittet-us-senatoren-um-neues-geld](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-bittet-us-senatoren-um-neues-geld-a-c42c523c-a357-4216-9c01-809f9dafea9c#ref=rss)
-### selenskyj
-
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-bittet-us-senatoren-um-neues-geld](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-bittet-us-senatoren-um-neues-geld-a-c42c523c-a357-4216-9c01-809f9dafea9c#ref=rss)
-### bittet
-
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-bittet-us-senatoren-um-neues-geld](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-bittet-us-senatoren-um-neues-geld-a-c42c523c-a357-4216-9c01-809f9dafea9c#ref=rss)
-### fast
-
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-bittet-us-senatoren-um-neues-geld](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-bittet-us-senatoren-um-neues-geld-a-c42c523c-a357-4216-9c01-809f9dafea9c#ref=rss)
-* [https://www.spiegel.de/karriere/fristen-irrtuemer-zu-probezeit-urlaub-und-kuendigung-im-faktencheck](https://www.spiegel.de/karriere/fristen-irrtuemer-zu-probezeit-urlaub-und-kuendigung-im-faktencheck-a-b32e26f7-ff0a-4437-bcb6-0384a02ff178#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-bittet-us-senatoren-um-neues-geld](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-bittet-us-senatoren-um-neues-geld-a-c42c523c-a357-4216-9c01-809f9dafea9c#ref=rss)
-* [https://www.spiegel.de/reise/fernweh/youtuber-von-notizenvonunterwegs-was-die-generation-weltreise-gern-verschweigt](https://www.spiegel.de/reise/fernweh/youtuber-von-notizenvonunterwegs-was-die-generation-weltreise-gern-verschweigt-a-c43fb658-79ca-4fe7-8b25-1bb0a0d493a4#ref=rss)
-### hilfe
-
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-bittet-us-senatoren-um-neues-geld](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-bittet-us-senatoren-um-neues-geld-a-c42c523c-a357-4216-9c01-809f9dafea9c#ref=rss)
-### sanktionen
-
-* [https://www.spiegel.de/wirtschaft/ukrainekrieg-eu-will-sanktionen-gegen-russlands-exporte-verschaerfen](https://www.spiegel.de/wirtschaft/ukrainekrieg-eu-will-sanktionen-gegen-russlands-exporte-verschaerfen-a-d7dee461-6031-4fc6-8b40-d4e97e2a24bb#ref=rss)
-### handel
-
-* [https://www.spiegel.de/wirtschaft/ukrainekrieg-eu-will-sanktionen-gegen-russlands-exporte-verschaerfen](https://www.spiegel.de/wirtschaft/ukrainekrieg-eu-will-sanktionen-gegen-russlands-exporte-verschaerfen-a-d7dee461-6031-4fc6-8b40-d4e97e2a24bb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/retouren-kosten-onlinehaendler-im-schnitt-bis-zu-zehn-euro-pro-artikel](https://www.spiegel.de/wirtschaft/retouren-kosten-onlinehaendler-im-schnitt-bis-zu-zehn-euro-pro-artikel-a-22332bbc-6fb3-4293-9713-57ed86d2c5ad#ref=rss)
-### rockstar
-
-* [https://www.spiegel.de/netzwelt/games/gta-6-rockstar-games-hat-den-ersten-trailer-zum-neuen-grand-theft-auto-vi-veroeffentlicht](https://www.spiegel.de/netzwelt/games/gta-6-rockstar-games-hat-den-ersten-trailer-zum-neuen-grand-theft-auto-vi-veroeffentlicht-a-737158e9-2da8-4c64-9f20-7ab10545102f#ref=rss)
-### games
-
-* [https://www.spiegel.de/netzwelt/games/gta-6-rockstar-games-hat-den-ersten-trailer-zum-neuen-grand-theft-auto-vi-veroeffentlicht](https://www.spiegel.de/netzwelt/games/gta-6-rockstar-games-hat-den-ersten-trailer-zum-neuen-grand-theft-auto-vi-veroeffentlicht-a-737158e9-2da8-4c64-9f20-7ab10545102f#ref=rss)
-### grand
-
-* [https://www.spiegel.de/netzwelt/games/gta-6-rockstar-games-hat-den-ersten-trailer-zum-neuen-grand-theft-auto-vi-veroeffentlicht](https://www.spiegel.de/netzwelt/games/gta-6-rockstar-games-hat-den-ersten-trailer-zum-neuen-grand-theft-auto-vi-veroeffentlicht-a-737158e9-2da8-4c64-9f20-7ab10545102f#ref=rss)
-### theft
-
-* [https://www.spiegel.de/netzwelt/games/gta-6-rockstar-games-hat-den-ersten-trailer-zum-neuen-grand-theft-auto-vi-veroeffentlicht](https://www.spiegel.de/netzwelt/games/gta-6-rockstar-games-hat-den-ersten-trailer-zum-neuen-grand-theft-auto-vi-veroeffentlicht-a-737158e9-2da8-4c64-9f20-7ab10545102f#ref=rss)
-### zehn
-
-* [https://www.spiegel.de/netzwelt/games/gta-6-rockstar-games-hat-den-ersten-trailer-zum-neuen-grand-theft-auto-vi-veroeffentlicht](https://www.spiegel.de/netzwelt/games/gta-6-rockstar-games-hat-den-ersten-trailer-zum-neuen-grand-theft-auto-vi-veroeffentlicht-a-737158e9-2da8-4c64-9f20-7ab10545102f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/retouren-kosten-onlinehaendler-im-schnitt-bis-zu-zehn-euro-pro-artikel](https://www.spiegel.de/wirtschaft/retouren-kosten-onlinehaendler-im-schnitt-bis-zu-zehn-euro-pro-artikel-a-22332bbc-6fb3-4293-9713-57ed86d2c5ad#ref=rss)
-### hajduk
-
-* [https://www.spiegel.de/politik/deutschland/anja-hajduk-wolfgang-schmidt-steffen-saebisch-dieses-trio-haelt-die-ampel-am-laufen](https://www.spiegel.de/politik/deutschland/anja-hajduk-wolfgang-schmidt-steffen-saebisch-dieses-trio-haelt-die-ampel-am-laufen-a-1e30c5a8-5269-45e0-975c-1d65e4554030#ref=rss)
-### schmidt
-
-* [https://www.spiegel.de/politik/deutschland/anja-hajduk-wolfgang-schmidt-steffen-saebisch-dieses-trio-haelt-die-ampel-am-laufen](https://www.spiegel.de/politik/deutschland/anja-hajduk-wolfgang-schmidt-steffen-saebisch-dieses-trio-haelt-die-ampel-am-laufen-a-1e30c5a8-5269-45e0-975c-1d65e4554030#ref=rss)
-### saebisch
-
-* [https://www.spiegel.de/politik/deutschland/anja-hajduk-wolfgang-schmidt-steffen-saebisch-dieses-trio-haelt-die-ampel-am-laufen](https://www.spiegel.de/politik/deutschland/anja-hajduk-wolfgang-schmidt-steffen-saebisch-dieses-trio-haelt-die-ampel-am-laufen-a-1e30c5a8-5269-45e0-975c-1d65e4554030#ref=rss)
-### florida
-
-* [https://www.spiegel.de/wirtschaft/florida-vorwuerfe-gegen-disney-im-machtkampf-mit-gouverneur-ron-desantis](https://www.spiegel.de/wirtschaft/florida-vorwuerfe-gegen-disney-im-machtkampf-mit-gouverneur-ron-desantis-a-02212f3a-d6a3-42e6-8762-dd08d459adb2#ref=rss)
-### gouverneur
-
-* [https://www.spiegel.de/wirtschaft/florida-vorwuerfe-gegen-disney-im-machtkampf-mit-gouverneur-ron-desantis](https://www.spiegel.de/wirtschaft/florida-vorwuerfe-gegen-disney-im-machtkampf-mit-gouverneur-ron-desantis-a-02212f3a-d6a3-42e6-8762-dd08d459adb2#ref=rss)
-### ron
-
-* [https://www.spiegel.de/wirtschaft/florida-vorwuerfe-gegen-disney-im-machtkampf-mit-gouverneur-ron-desantis](https://www.spiegel.de/wirtschaft/florida-vorwuerfe-gegen-disney-im-machtkampf-mit-gouverneur-ron-desantis-a-02212f3a-d6a3-42e6-8762-dd08d459adb2#ref=rss)
-### desantis
-
-* [https://www.spiegel.de/wirtschaft/florida-vorwuerfe-gegen-disney-im-machtkampf-mit-gouverneur-ron-desantis](https://www.spiegel.de/wirtschaft/florida-vorwuerfe-gegen-disney-im-machtkampf-mit-gouverneur-ron-desantis-a-02212f3a-d6a3-42e6-8762-dd08d459adb2#ref=rss)
-### süden
-
-* [https://www.spiegel.de/ausland/israel-hamas-krieg-kaempfe-im-sueden-gazas-werden-intensiver-flutung-von-tunneln-erwaegt](https://www.spiegel.de/ausland/israel-hamas-krieg-kaempfe-im-sueden-gazas-werden-intensiver-flutung-von-tunneln-erwaegt-a-8127a331-c54f-4c82-a69c-29a6039c5308#ref=rss)
-### gazas
-
-* [https://www.spiegel.de/ausland/israel-hamas-krieg-kaempfe-im-sueden-gazas-werden-intensiver-flutung-von-tunneln-erwaegt](https://www.spiegel.de/ausland/israel-hamas-krieg-kaempfe-im-sueden-gazas-werden-intensiver-flutung-von-tunneln-erwaegt-a-8127a331-c54f-4c82-a69c-29a6039c5308#ref=rss)
-### meer
-
-* [https://www.spiegel.de/ausland/rotes-meer-usa-pruefen-einrichtung-maritimer-taskforce-iran-bestreitet-angriff-auf-us-zerstoerer](https://www.spiegel.de/ausland/rotes-meer-usa-pruefen-einrichtung-maritimer-taskforce-iran-bestreitet-angriff-auf-us-zerstoerer-a-0b80629d-a042-4432-b1d7-1c9f0b13d7c8#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-warnung-vor-glatteis-vor-allem-in-bayern](https://www.spiegel.de/panorama/wetter-in-deutschland-warnung-vor-glatteis-vor-allem-in-bayern-a-b508969a-ee2b-4b1b-ae8d-a92ea3653589#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-ampel-koalition-haushalt-pisa-studie-weltklimakonferenz-cop28](https://www.spiegel.de/politik/deutschland/news-ampel-koalition-haushalt-pisa-studie-weltklimakonferenz-cop28-a-e72846e3-ec24-4907-98a6-06800e3c81d8#ref=rss)
-### droht
+* [https://www.spiegel.de/panorama/bildung/das-neue-pisa-debakel](https://www.spiegel.de/panorama/bildung/das-neue-pisa-debakel-a-c55bda9e-ec75-4c13-b97e-6b05784b5aeb#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/deutsches-pisa-debakel-die-suche-nach-einer-neuen-schulstrategie](https://www.spiegel.de/panorama/bildung/deutsches-pisa-debakel-die-suche-nach-einer-neuen-schulstrategie-a-20f45096-2b78-42ec-a858-156f07eaf25b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-glatteis-und-winter-in-deutschland-hamas-donald-trump-grand-theft-auto-vi](https://www.spiegel.de/politik/deutschland/news-des-tages-glatteis-und-winter-in-deutschland-hamas-donald-trump-grand-theft-auto-vi-a-cddc9e4b-121e-46e1-ba28-cc3bcdb2e2cb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bayern-markus-soeder-kuendigt-gender-verbot-fuer-behoerden-und-schulen-an](https://www.spiegel.de/politik/deutschland/bayern-markus-soeder-kuendigt-gender-verbot-fuer-behoerden-und-schulen-an-a-fd14eb64-49ee-4428-99c2-5cf4f0206164#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/portugal-corona-massnahmen-gegner-aus-deutschland-festgenommen](https://www.spiegel.de/panorama/justiz/portugal-corona-massnahmen-gegner-aus-deutschland-festgenommen-a-72b979f3-d7e6-46fa-8876-8f9f2127e348#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-warnung-vor-glatteis-vor-allem-in-bayern](https://www.spiegel.de/panorama/wetter-in-deutschland-warnung-vor-glatteis-vor-allem-in-bayern-a-b508969a-ee2b-4b1b-ae8d-a92ea3653589#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-ampel-koalition-haushalt-pisa-studie-weltklimakonferenz-cop28](https://www.spiegel.de/politik/deutschland/news-ampel-koalition-haushalt-pisa-studie-weltklimakonferenz-cop28-a-e72846e3-ec24-4907-98a6-06800e3c81d8#ref=rss)
-### probezeit
+* [https://www.spiegel.de/wirtschaft/fachkraefteluecke-in-der-chipindustrie-waechst-drastisch](https://www.spiegel.de/wirtschaft/fachkraefteluecke-in-der-chipindustrie-waechst-drastisch-a-537d6601-6310-4573-9518-47027495cfbd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/was-macht-die-bundeswehr-in-rumaenien](https://www.spiegel.de/politik/deutschland/was-macht-die-bundeswehr-in-rumaenien-a-a3a0d32f-d779-4eaf-a740-95022adcf731#ref=rss)
+* [https://www.spiegel.de/auto/elektroautos-kraftfahrt-bundesamt-meldet-deutlich-weniger-neuzulassungen](https://www.spiegel.de/auto/elektroautos-kraftfahrt-bundesamt-meldet-deutlich-weniger-neuzulassungen-a-8ccf4aa3-1dc7-40dd-8f30-5be52f9969bd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wie-die-deutschen-ueber-den-nahostkonflikt-denken](https://www.spiegel.de/politik/deutschland/wie-die-deutschen-ueber-den-nahostkonflikt-denken-a-c1f97abd-ea03-4277-bcd7-d52ae92d8f0b#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/karriere/fristen-irrtuemer-zu-probezeit-urlaub-und-kuendigung-im-faktencheck](https://www.spiegel.de/karriere/fristen-irrtuemer-zu-probezeit-urlaub-und-kuendigung-im-faktencheck-a-b32e26f7-ff0a-4437-bcb6-0384a02ff178#ref=rss)
-### urlaub
+* [https://www.spiegel.de/wirtschaft/boerse-dax-steigt-auf-rekordhoch](https://www.spiegel.de/wirtschaft/boerse-dax-steigt-auf-rekordhoch-a-f9cffde5-de34-48dc-834a-fd479316e67e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/das-bahn-fiasko-trailer](https://www.spiegel.de/wirtschaft/das-bahn-fiasko-trailer-a-ea877c8b-34ad-4892-86cc-3cf536197da2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wie-die-deutschen-ueber-den-nahostkonflikt-denken](https://www.spiegel.de/politik/deutschland/wie-die-deutschen-ueber-den-nahostkonflikt-denken-a-c1f97abd-ea03-4277-bcd7-d52ae92d8f0b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/steuerzahler-werden-um-bis-zu-1600-euro-entlastet-neue-regeln-2024](https://www.spiegel.de/wirtschaft/steuerzahler-werden-um-bis-zu-1600-euro-entlastet-neue-regeln-2024-a-36778a46-eef9-4c71-b3d9-70b591799f65#ref=rss)
+### donald
 
-* [https://www.spiegel.de/karriere/fristen-irrtuemer-zu-probezeit-urlaub-und-kuendigung-im-faktencheck](https://www.spiegel.de/karriere/fristen-irrtuemer-zu-probezeit-urlaub-und-kuendigung-im-faktencheck-a-b32e26f7-ff0a-4437-bcb6-0384a02ff178#ref=rss)
-### kündigung
+* [https://www.spiegel.de/ausland/ron-desantis-eine-million-fuer-moeglichen-rechtstreit-im-college-football](https://www.spiegel.de/ausland/ron-desantis-eine-million-fuer-moeglichen-rechtstreit-im-college-football-a-a74a5420-e4d0-45ef-8408-551bb256e087#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-glatteis-und-winter-in-deutschland-hamas-donald-trump-grand-theft-auto-vi](https://www.spiegel.de/politik/deutschland/news-des-tages-glatteis-und-winter-in-deutschland-hamas-donald-trump-grand-theft-auto-vi-a-cddc9e4b-121e-46e1-ba28-cc3bcdb2e2cb#ref=rss)
+* [https://www.spiegel.de/ausland/usa-liz-cheney-ueberlegt-fuer-dritte-partei-als-praesidentschaftskandidatin-anzutreten](https://www.spiegel.de/ausland/usa-liz-cheney-ueberlegt-fuer-dritte-partei-als-praesidentschaftskandidatin-anzutreten-a-e51de0fe-b748-4bb0-ad8d-aa20391e620a#ref=rss)
+### trump
 
-* [https://www.spiegel.de/karriere/fristen-irrtuemer-zu-probezeit-urlaub-und-kuendigung-im-faktencheck](https://www.spiegel.de/karriere/fristen-irrtuemer-zu-probezeit-urlaub-und-kuendigung-im-faktencheck-a-b32e26f7-ff0a-4437-bcb6-0384a02ff178#ref=rss)
+* [https://www.spiegel.de/ausland/ron-desantis-eine-million-fuer-moeglichen-rechtstreit-im-college-football](https://www.spiegel.de/ausland/ron-desantis-eine-million-fuer-moeglichen-rechtstreit-im-college-football-a-a74a5420-e4d0-45ef-8408-551bb256e087#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-glatteis-und-winter-in-deutschland-hamas-donald-trump-grand-theft-auto-vi](https://www.spiegel.de/politik/deutschland/news-des-tages-glatteis-und-winter-in-deutschland-hamas-donald-trump-grand-theft-auto-vi-a-cddc9e4b-121e-46e1-ba28-cc3bcdb2e2cb#ref=rss)
+* [https://www.spiegel.de/ausland/usa-liz-cheney-ueberlegt-fuer-dritte-partei-als-praesidentschaftskandidatin-anzutreten](https://www.spiegel.de/ausland/usa-liz-cheney-ueberlegt-fuer-dritte-partei-als-praesidentschaftskandidatin-anzutreten-a-e51de0fe-b748-4bb0-ad8d-aa20391e620a#ref=rss)
+### deutlich
+
+* [https://www.spiegel.de/panorama/bildung/das-neue-pisa-debakel](https://www.spiegel.de/panorama/bildung/das-neue-pisa-debakel-a-c55bda9e-ec75-4c13-b97e-6b05784b5aeb#ref=rss)
+* [https://www.spiegel.de/auto/elektroautos-kraftfahrt-bundesamt-meldet-deutlich-weniger-neuzulassungen](https://www.spiegel.de/auto/elektroautos-kraftfahrt-bundesamt-meldet-deutlich-weniger-neuzulassungen-a-8ccf4aa3-1dc7-40dd-8f30-5be52f9969bd#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/panorama/bildung/das-neue-pisa-debakel](https://www.spiegel.de/panorama/bildung/das-neue-pisa-debakel-a-c55bda9e-ec75-4c13-b97e-6b05784b5aeb#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-e-roller-von-bruecke-geworfen-44-jaehriger-zu-sechs-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/berlin-e-roller-von-bruecke-geworfen-44-jaehriger-zu-sechs-jahren-haft-verurteilt-a-afe0f3ba-936f-4e08-8177-ccee8110fef5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/chef-des-flughafen-hamburg-ich-habe-sicher-fehler-gemacht](https://www.spiegel.de/wirtschaft/chef-des-flughafen-hamburg-ich-habe-sicher-fehler-gemacht-a-32d418b0-4fd3-472c-a44a-4f186d8d15e3#ref=rss)
+### eigene
+
+* [https://www.spiegel.de/panorama/bildung/das-neue-pisa-debakel](https://www.spiegel.de/panorama/bildung/das-neue-pisa-debakel-a-c55bda9e-ec75-4c13-b97e-6b05784b5aeb#ref=rss)
+* [https://www.spiegel.de/ausland/usa-liz-cheney-ueberlegt-fuer-dritte-partei-als-praesidentschaftskandidatin-anzutreten](https://www.spiegel.de/ausland/usa-liz-cheney-ueberlegt-fuer-dritte-partei-als-praesidentschaftskandidatin-anzutreten-a-e51de0fe-b748-4bb0-ad8d-aa20391e620a#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/berlin-e-roller-von-bruecke-geworfen-44-jaehriger-zu-sechs-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/berlin-e-roller-von-bruecke-geworfen-44-jaehriger-zu-sechs-jahren-haft-verurteilt-a-afe0f3ba-936f-4e08-8177-ccee8110fef5#ref=rss)
+* [https://www.spiegel.de/panorama/russland-sibirischer-tiger-toetet-mann-und-hund](https://www.spiegel.de/panorama/russland-sibirischer-tiger-toetet-mann-und-hund-a-9d8dfc7f-b783-423d-933b-41771591f4f6#ref=rss)
+### russland
+
+* [https://www.spiegel.de/politik/deutschland/was-macht-die-bundeswehr-in-rumaenien](https://www.spiegel.de/politik/deutschland/was-macht-die-bundeswehr-in-rumaenien-a-a3a0d32f-d779-4eaf-a740-95022adcf731#ref=rss)
+* [https://www.spiegel.de/panorama/russland-sibirischer-tiger-toetet-mann-und-hund](https://www.spiegel.de/panorama/russland-sibirischer-tiger-toetet-mann-und-hund-a-9d8dfc7f-b783-423d-933b-41771591f4f6#ref=rss)
+### winter
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-glatteis-und-winter-in-deutschland-hamas-donald-trump-grand-theft-auto-vi](https://www.spiegel.de/politik/deutschland/news-des-tages-glatteis-und-winter-in-deutschland-hamas-donald-trump-grand-theft-auto-vi-a-cddc9e4b-121e-46e1-ba28-cc3bcdb2e2cb#ref=rss)
+* [https://www.spiegel.de/kultur/kulturtipps-fuer-den-winter-schubert-haftbefehl-und-game-of-thrones](https://www.spiegel.de/kultur/kulturtipps-fuer-den-winter-schubert-haftbefehl-und-game-of-thrones-a-c9ea5bbe-ef32-4688-bcc2-5de15178273e#ref=rss)
+### anderen
+
+* [https://www.spiegel.de/auto/elektroautos-kraftfahrt-bundesamt-meldet-deutlich-weniger-neuzulassungen](https://www.spiegel.de/auto/elektroautos-kraftfahrt-bundesamt-meldet-deutlich-weniger-neuzulassungen-a-8ccf4aa3-1dc7-40dd-8f30-5be52f9969bd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bayern-markus-soeder-kuendigt-gender-verbot-fuer-behoerden-und-schulen-an](https://www.spiegel.de/politik/deutschland/bayern-markus-soeder-kuendigt-gender-verbot-fuer-behoerden-und-schulen-an-a-fd14eb64-49ee-4428-99c2-5cf4f0206164#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/muenchen-andrea-tandler-raeumt-im-masken-prozess-fehler-ein](https://www.spiegel.de/panorama/justiz/muenchen-andrea-tandler-raeumt-im-masken-prozess-fehler-ein-a-4eec09d0-3664-43ea-ba22-6c6c3bd36b70#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/politik/deutschland/bayern-markus-soeder-kuendigt-gender-verbot-fuer-behoerden-und-schulen-an](https://www.spiegel.de/politik/deutschland/bayern-markus-soeder-kuendigt-gender-verbot-fuer-behoerden-und-schulen-an-a-fd14eb64-49ee-4428-99c2-5cf4f0206164#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wie-die-deutschen-ueber-den-nahostkonflikt-denken](https://www.spiegel.de/politik/deutschland/wie-die-deutschen-ueber-den-nahostkonflikt-denken-a-c1f97abd-ea03-4277-bcd7-d52ae92d8f0b#ref=rss)
+* [https://www.spiegel.de/ausland/usa-liz-cheney-ueberlegt-fuer-dritte-partei-als-praesidentschaftskandidatin-anzutreten](https://www.spiegel.de/ausland/usa-liz-cheney-ueberlegt-fuer-dritte-partei-als-praesidentschaftskandidatin-anzutreten-a-e51de0fe-b748-4bb0-ad8d-aa20391e620a#ref=rss)
+### who
+
+* [https://www.spiegel.de/wirtschaft/weltgesundheitsorganisation-who-fordert-hoehere-steuern-auf-alkohol](https://www.spiegel.de/wirtschaft/weltgesundheitsorganisation-who-fordert-hoehere-steuern-auf-alkohol-a-1a96d95d-c3f5-4619-8a15-56e03d93c64b#ref=rss)
+### manchester
+
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-schliesst-nach-kritik-am-trainer-journalisten-aus](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-schliesst-nach-kritik-am-trainer-journalisten-aus-a-64133a3f-ad39-410b-9370-ea7b8dbe9357#ref=rss)
+### united
+
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-schliesst-nach-kritik-am-trainer-journalisten-aus](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-schliesst-nach-kritik-am-trainer-journalisten-aus-a-64133a3f-ad39-410b-9370-ea7b8dbe9357#ref=rss)
+### schließt
+
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-schliesst-nach-kritik-am-trainer-journalisten-aus](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-schliesst-nach-kritik-am-trainer-journalisten-aus-a-64133a3f-ad39-410b-9370-ea7b8dbe9357#ref=rss)
+* [https://www.spiegel.de/ausland/usa-liz-cheney-ueberlegt-fuer-dritte-partei-als-praesidentschaftskandidatin-anzutreten](https://www.spiegel.de/ausland/usa-liz-cheney-ueberlegt-fuer-dritte-partei-als-praesidentschaftskandidatin-anzutreten-a-e51de0fe-b748-4bb0-ad8d-aa20391e620a#ref=rss)
+### verein
+
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-schliesst-nach-kritik-am-trainer-journalisten-aus](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-schliesst-nach-kritik-am-trainer-journalisten-aus-a-64133a3f-ad39-410b-9370-ea7b8dbe9357#ref=rss)
+### hätten
+
+* [https://www.spiegel.de/panorama/bildung/pisa-aufgaben-mathematik-haetten-sie-es-gewusst](https://www.spiegel.de/panorama/bildung/pisa-aufgaben-mathematik-haetten-sie-es-gewusst-a-8d71d5ec-c112-42f9-b7e7-dd34453c0b9c#ref=rss)
+### ron
+
+* [https://www.spiegel.de/ausland/ron-desantis-eine-million-fuer-moeglichen-rechtstreit-im-college-football](https://www.spiegel.de/ausland/ron-desantis-eine-million-fuer-moeglichen-rechtstreit-im-college-football-a-a74a5420-e4d0-45ef-8408-551bb256e087#ref=rss)
+### desantis
+
+* [https://www.spiegel.de/ausland/ron-desantis-eine-million-fuer-moeglichen-rechtstreit-im-college-football](https://www.spiegel.de/ausland/ron-desantis-eine-million-fuer-moeglichen-rechtstreit-im-college-football-a-a74a5420-e4d0-45ef-8408-551bb256e087#ref=rss)
+### college
+
+* [https://www.spiegel.de/ausland/ron-desantis-eine-million-fuer-moeglichen-rechtstreit-im-college-football](https://www.spiegel.de/ausland/ron-desantis-eine-million-fuer-moeglichen-rechtstreit-im-college-football-a-a74a5420-e4d0-45ef-8408-551bb256e087#ref=rss)
+### football
+
+* [https://www.spiegel.de/ausland/ron-desantis-eine-million-fuer-moeglichen-rechtstreit-im-college-football](https://www.spiegel.de/ausland/ron-desantis-eine-million-fuer-moeglichen-rechtstreit-im-college-football-a-a74a5420-e4d0-45ef-8408-551bb256e087#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/ron-desantis-eine-million-fuer-moeglichen-rechtstreit-im-college-football](https://www.spiegel.de/ausland/ron-desantis-eine-million-fuer-moeglichen-rechtstreit-im-college-football-a-a74a5420-e4d0-45ef-8408-551bb256e087#ref=rss)
+* [https://www.spiegel.de/ausland/usa-liz-cheney-ueberlegt-fuer-dritte-partei-als-praesidentschaftskandidatin-anzutreten](https://www.spiegel.de/ausland/usa-liz-cheney-ueberlegt-fuer-dritte-partei-als-praesidentschaftskandidatin-anzutreten-a-e51de0fe-b748-4bb0-ad8d-aa20391e620a#ref=rss)
+### neue
+
+* [https://www.spiegel.de/panorama/bildung/das-neue-pisa-debakel](https://www.spiegel.de/panorama/bildung/das-neue-pisa-debakel-a-c55bda9e-ec75-4c13-b97e-6b05784b5aeb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/steuerzahler-werden-um-bis-zu-1600-euro-entlastet-neue-regeln-2024](https://www.spiegel.de/wirtschaft/steuerzahler-werden-um-bis-zu-1600-euro-entlastet-neue-regeln-2024-a-36778a46-eef9-4c71-b3d9-70b591799f65#ref=rss)
+### pisadebakel
+
+* [https://www.spiegel.de/panorama/bildung/das-neue-pisa-debakel](https://www.spiegel.de/panorama/bildung/das-neue-pisa-debakel-a-c55bda9e-ec75-4c13-b97e-6b05784b5aeb#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/deutsches-pisa-debakel-die-suche-nach-einer-neuen-schulstrategie](https://www.spiegel.de/panorama/bildung/deutsches-pisa-debakel-die-suche-nach-einer-neuen-schulstrategie-a-20f45096-2b78-42ec-a858-156f07eaf25b#ref=rss)
+### hamburger
+
+* [https://www.spiegel.de/panorama/bildung/das-neue-pisa-debakel](https://www.spiegel.de/panorama/bildung/das-neue-pisa-debakel-a-c55bda9e-ec75-4c13-b97e-6b05784b5aeb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/chef-des-flughafen-hamburg-ich-habe-sicher-fehler-gemacht](https://www.spiegel.de/wirtschaft/chef-des-flughafen-hamburg-ich-habe-sicher-fehler-gemacht-a-32d418b0-4fd3-472c-a44a-4f186d8d15e3#ref=rss)
+### sollte
+
+* [https://www.spiegel.de/panorama/bildung/deutsches-pisa-debakel-die-suche-nach-einer-neuen-schulstrategie](https://www.spiegel.de/panorama/bildung/deutsches-pisa-debakel-die-suche-nach-einer-neuen-schulstrategie-a-20f45096-2b78-42ec-a858-156f07eaf25b#ref=rss)
+* [https://www.spiegel.de/kultur/lumumba-warum-kakao-mit-schuss-wirklich-nicht-so-heissen-sollte](https://www.spiegel.de/kultur/lumumba-warum-kakao-mit-schuss-wirklich-nicht-so-heissen-sollte-a-dcb44067-2662-4759-945c-fc8a490e080f#ref=rss)
+### drastisch
+
+* [https://www.spiegel.de/panorama/bildung/deutsches-pisa-debakel-die-suche-nach-einer-neuen-schulstrategie](https://www.spiegel.de/panorama/bildung/deutsches-pisa-debakel-die-suche-nach-einer-neuen-schulstrategie-a-20f45096-2b78-42ec-a858-156f07eaf25b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/fachkraefteluecke-in-der-chipindustrie-waechst-drastisch](https://www.spiegel.de/wirtschaft/fachkraefteluecke-in-der-chipindustrie-waechst-drastisch-a-537d6601-6310-4573-9518-47027495cfbd#ref=rss)
+### eroller
+
+* [https://www.spiegel.de/panorama/justiz/berlin-e-roller-von-bruecke-geworfen-44-jaehriger-zu-sechs-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/berlin-e-roller-von-bruecke-geworfen-44-jaehriger-zu-sechs-jahren-haft-verurteilt-a-afe0f3ba-936f-4e08-8177-ccee8110fef5#ref=rss)
+### brücke
+
+* [https://www.spiegel.de/panorama/justiz/berlin-e-roller-von-bruecke-geworfen-44-jaehriger-zu-sechs-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/berlin-e-roller-von-bruecke-geworfen-44-jaehriger-zu-sechs-jahren-haft-verurteilt-a-afe0f3ba-936f-4e08-8177-ccee8110fef5#ref=rss)
+### 44jähriger
+
+* [https://www.spiegel.de/panorama/justiz/berlin-e-roller-von-bruecke-geworfen-44-jaehriger-zu-sechs-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/berlin-e-roller-von-bruecke-geworfen-44-jaehriger-zu-sechs-jahren-haft-verurteilt-a-afe0f3ba-936f-4e08-8177-ccee8110fef5#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/panorama/justiz/berlin-e-roller-von-bruecke-geworfen-44-jaehriger-zu-sechs-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/berlin-e-roller-von-bruecke-geworfen-44-jaehriger-zu-sechs-jahren-haft-verurteilt-a-afe0f3ba-936f-4e08-8177-ccee8110fef5#ref=rss)
+### tesla
+
+* [https://www.spiegel.de/wirtschaft/streiks-bei-tesla-in-schweden-weiten-sich-auf-daenemark-aus](https://www.spiegel.de/wirtschaft/streiks-bei-tesla-in-schweden-weiten-sich-auf-daenemark-aus-a-740c51dd-5714-4481-a541-6c0258e445d7#ref=rss)
+### schweden
+
+* [https://www.spiegel.de/wirtschaft/streiks-bei-tesla-in-schweden-weiten-sich-auf-daenemark-aus](https://www.spiegel.de/wirtschaft/streiks-bei-tesla-in-schweden-weiten-sich-auf-daenemark-aus-a-740c51dd-5714-4481-a541-6c0258e445d7#ref=rss)
+### bleiben
+
+* [https://www.spiegel.de/wirtschaft/fachkraefteluecke-in-der-chipindustrie-waechst-drastisch](https://www.spiegel.de/wirtschaft/fachkraefteluecke-in-der-chipindustrie-waechst-drastisch-a-537d6601-6310-4573-9518-47027495cfbd#ref=rss)
+* [https://www.spiegel.de/karriere/arbeitsrecht-winter-wetter-schnee-und-glaette-darf-ich-jetzt-einfach-zu-hause-bleiben](https://www.spiegel.de/karriere/arbeitsrecht-winter-wetter-schnee-und-glaette-darf-ich-jetzt-einfach-zu-hause-bleiben-a-a163c825-c1c5-4db4-998b-f0c55405c331#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/wirtschaft/fachkraefteluecke-in-der-chipindustrie-waechst-drastisch](https://www.spiegel.de/wirtschaft/fachkraefteluecke-in-der-chipindustrie-waechst-drastisch-a-537d6601-6310-4573-9518-47027495cfbd#ref=rss)
+### gefährdet
+
+* [https://www.spiegel.de/wirtschaft/fachkraefteluecke-in-der-chipindustrie-waechst-drastisch](https://www.spiegel.de/wirtschaft/fachkraefteluecke-in-der-chipindustrie-waechst-drastisch-a-537d6601-6310-4573-9518-47027495cfbd#ref=rss)
+* [https://www.spiegel.de/ausland/usa-liz-cheney-ueberlegt-fuer-dritte-partei-als-praesidentschaftskandidatin-anzutreten](https://www.spiegel.de/ausland/usa-liz-cheney-ueberlegt-fuer-dritte-partei-als-praesidentschaftskandidatin-anzutreten-a-e51de0fe-b748-4bb0-ad8d-aa20391e620a#ref=rss)
+### ruanda
+
+* [https://www.spiegel.de/ausland/grossbritannien-unterzeichnet-umstrittenes-asylabkommen-mit-ruanda](https://www.spiegel.de/ausland/grossbritannien-unterzeichnet-umstrittenes-asylabkommen-mit-ruanda-a-7d5bf93b-bc4a-48c4-800f-f165e13f11f0#ref=rss)
+### zuletzt
+
+* [https://www.spiegel.de/ausland/grossbritannien-unterzeichnet-umstrittenes-asylabkommen-mit-ruanda](https://www.spiegel.de/ausland/grossbritannien-unterzeichnet-umstrittenes-asylabkommen-mit-ruanda-a-7d5bf93b-bc4a-48c4-800f-f165e13f11f0#ref=rss)
+* [https://www.spiegel.de/auto/elektroautos-kraftfahrt-bundesamt-meldet-deutlich-weniger-neuzulassungen](https://www.spiegel.de/auto/elektroautos-kraftfahrt-bundesamt-meldet-deutlich-weniger-neuzulassungen-a-8ccf4aa3-1dc7-40dd-8f30-5be52f9969bd#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/ausland/grossbritannien-unterzeichnet-umstrittenes-asylabkommen-mit-ruanda](https://www.spiegel.de/ausland/grossbritannien-unterzeichnet-umstrittenes-asylabkommen-mit-ruanda-a-7d5bf93b-bc4a-48c4-800f-f165e13f11f0#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/muenchen-andrea-tandler-raeumt-im-masken-prozess-fehler-ein](https://www.spiegel.de/panorama/justiz/muenchen-andrea-tandler-raeumt-im-masken-prozess-fehler-ein-a-4eec09d0-3664-43ea-ba22-6c6c3bd36b70#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/ausland/grossbritannien-unterzeichnet-umstrittenes-asylabkommen-mit-ruanda](https://www.spiegel.de/ausland/grossbritannien-unterzeichnet-umstrittenes-asylabkommen-mit-ruanda-a-7d5bf93b-bc4a-48c4-800f-f165e13f11f0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/boerse-dax-steigt-auf-rekordhoch](https://www.spiegel.de/wirtschaft/boerse-dax-steigt-auf-rekordhoch-a-f9cffde5-de34-48dc-834a-fd479316e67e#ref=rss)
+### macht
+
+* [https://www.spiegel.de/politik/deutschland/was-macht-die-bundeswehr-in-rumaenien](https://www.spiegel.de/politik/deutschland/was-macht-die-bundeswehr-in-rumaenien-a-a3a0d32f-d779-4eaf-a740-95022adcf731#ref=rss)
+* [https://www.spiegel.de/netzwelt/paddington-als-paddington-eine-rolle-bei-star-wars-und-den-peanuts-bekam](https://www.spiegel.de/netzwelt/paddington-als-paddington-eine-rolle-bei-star-wars-und-den-peanuts-bekam-a-f381e5ed-5c56-4c99-9cc8-c4136aed0d58#ref=rss)
+### hamas
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-glatteis-und-winter-in-deutschland-hamas-donald-trump-grand-theft-auto-vi](https://www.spiegel.de/politik/deutschland/news-des-tages-glatteis-und-winter-in-deutschland-hamas-donald-trump-grand-theft-auto-vi-a-cddc9e4b-121e-46e1-ba28-cc3bcdb2e2cb#ref=rss)
+### grand
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-glatteis-und-winter-in-deutschland-hamas-donald-trump-grand-theft-auto-vi](https://www.spiegel.de/politik/deutschland/news-des-tages-glatteis-und-winter-in-deutschland-hamas-donald-trump-grand-theft-auto-vi-a-cddc9e4b-121e-46e1-ba28-cc3bcdb2e2cb#ref=rss)
+### theft
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-glatteis-und-winter-in-deutschland-hamas-donald-trump-grand-theft-auto-vi](https://www.spiegel.de/politik/deutschland/news-des-tages-glatteis-und-winter-in-deutschland-hamas-donald-trump-grand-theft-auto-vi-a-cddc9e4b-121e-46e1-ba28-cc3bcdb2e2cb#ref=rss)
+### auto
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-glatteis-und-winter-in-deutschland-hamas-donald-trump-grand-theft-auto-vi](https://www.spiegel.de/politik/deutschland/news-des-tages-glatteis-und-winter-in-deutschland-hamas-donald-trump-grand-theft-auto-vi-a-cddc9e4b-121e-46e1-ba28-cc3bcdb2e2cb#ref=rss)
+### vi
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-glatteis-und-winter-in-deutschland-hamas-donald-trump-grand-theft-auto-vi](https://www.spiegel.de/politik/deutschland/news-des-tages-glatteis-und-winter-in-deutschland-hamas-donald-trump-grand-theft-auto-vi-a-cddc9e4b-121e-46e1-ba28-cc3bcdb2e2cb#ref=rss)
+### kommen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-glatteis-und-winter-in-deutschland-hamas-donald-trump-grand-theft-auto-vi](https://www.spiegel.de/politik/deutschland/news-des-tages-glatteis-und-winter-in-deutschland-hamas-donald-trump-grand-theft-auto-vi-a-cddc9e4b-121e-46e1-ba28-cc3bcdb2e2cb#ref=rss)
+* [https://www.spiegel.de/karriere/arbeitsrecht-winter-wetter-schnee-und-glaette-darf-ich-jetzt-einfach-zu-hause-bleiben](https://www.spiegel.de/karriere/arbeitsrecht-winter-wetter-schnee-und-glaette-darf-ich-jetzt-einfach-zu-hause-bleiben-a-a163c825-c1c5-4db4-998b-f0c55405c331#ref=rss)
+### schubert
+
+* [https://www.spiegel.de/kultur/kulturtipps-fuer-den-winter-schubert-haftbefehl-und-game-of-thrones](https://www.spiegel.de/kultur/kulturtipps-fuer-den-winter-schubert-haftbefehl-und-game-of-thrones-a-c9ea5bbe-ef32-4688-bcc2-5de15178273e#ref=rss)
+### haftbefehl
+
+* [https://www.spiegel.de/kultur/kulturtipps-fuer-den-winter-schubert-haftbefehl-und-game-of-thrones](https://www.spiegel.de/kultur/kulturtipps-fuer-den-winter-schubert-haftbefehl-und-game-of-thrones-a-c9ea5bbe-ef32-4688-bcc2-5de15178273e#ref=rss)
+### game
+
+* [https://www.spiegel.de/kultur/kulturtipps-fuer-den-winter-schubert-haftbefehl-und-game-of-thrones](https://www.spiegel.de/kultur/kulturtipps-fuer-den-winter-schubert-haftbefehl-und-game-of-thrones-a-c9ea5bbe-ef32-4688-bcc2-5de15178273e#ref=rss)
+### of
+
+* [https://www.spiegel.de/kultur/kulturtipps-fuer-den-winter-schubert-haftbefehl-und-game-of-thrones](https://www.spiegel.de/kultur/kulturtipps-fuer-den-winter-schubert-haftbefehl-und-game-of-thrones-a-c9ea5bbe-ef32-4688-bcc2-5de15178273e#ref=rss)
+### thrones
+
+* [https://www.spiegel.de/kultur/kulturtipps-fuer-den-winter-schubert-haftbefehl-und-game-of-thrones](https://www.spiegel.de/kultur/kulturtipps-fuer-den-winter-schubert-haftbefehl-und-game-of-thrones-a-c9ea5bbe-ef32-4688-bcc2-5de15178273e#ref=rss)
+### schnee
+
+* [https://www.spiegel.de/kultur/kulturtipps-fuer-den-winter-schubert-haftbefehl-und-game-of-thrones](https://www.spiegel.de/kultur/kulturtipps-fuer-den-winter-schubert-haftbefehl-und-game-of-thrones-a-c9ea5bbe-ef32-4688-bcc2-5de15178273e#ref=rss)
+* [https://www.spiegel.de/karriere/arbeitsrecht-winter-wetter-schnee-und-glaette-darf-ich-jetzt-einfach-zu-hause-bleiben](https://www.spiegel.de/karriere/arbeitsrecht-winter-wetter-schnee-und-glaette-darf-ich-jetzt-einfach-zu-hause-bleiben-a-a163c825-c1c5-4db4-998b-f0c55405c331#ref=rss)
+### sibirischer
+
+* [https://www.spiegel.de/panorama/russland-sibirischer-tiger-toetet-mann-und-hund](https://www.spiegel.de/panorama/russland-sibirischer-tiger-toetet-mann-und-hund-a-9d8dfc7f-b783-423d-933b-41771591f4f6#ref=rss)
+### tiger
+
+* [https://www.spiegel.de/panorama/russland-sibirischer-tiger-toetet-mann-und-hund](https://www.spiegel.de/panorama/russland-sibirischer-tiger-toetet-mann-und-hund-a-9d8dfc7f-b783-423d-933b-41771591f4f6#ref=rss)
+### hund
+
+* [https://www.spiegel.de/panorama/russland-sibirischer-tiger-toetet-mann-und-hund](https://www.spiegel.de/panorama/russland-sibirischer-tiger-toetet-mann-und-hund-a-9d8dfc7f-b783-423d-933b-41771591f4f6#ref=rss)
+### paddington
+
+* [https://www.spiegel.de/netzwelt/paddington-als-paddington-eine-rolle-bei-star-wars-und-den-peanuts-bekam](https://www.spiegel.de/netzwelt/paddington-als-paddington-eine-rolle-bei-star-wars-und-den-peanuts-bekam-a-f381e5ed-5c56-4c99-9cc8-c4136aed0d58#ref=rss)
+### börse
+
+* [https://www.spiegel.de/wirtschaft/boerse-dax-steigt-auf-rekordhoch](https://www.spiegel.de/wirtschaft/boerse-dax-steigt-auf-rekordhoch-a-f9cffde5-de34-48dc-834a-fd479316e67e#ref=rss)
+### boris
+
+* [https://www.spiegel.de/ausland/boris-johnson-und-die-corona-pandemie-wir-sind-zu-beschissen-um-es-auf-die-reihe-zu-kriegen](https://www.spiegel.de/ausland/boris-johnson-und-die-corona-pandemie-wir-sind-zu-beschissen-um-es-auf-die-reihe-zu-kriegen-a-8c9da352-8b29-47c0-94c3-088b6afc7825#ref=rss)
+### johnson
+
+* [https://www.spiegel.de/ausland/boris-johnson-und-die-corona-pandemie-wir-sind-zu-beschissen-um-es-auf-die-reihe-zu-kriegen](https://www.spiegel.de/ausland/boris-johnson-und-die-corona-pandemie-wir-sind-zu-beschissen-um-es-auf-die-reihe-zu-kriegen-a-8c9da352-8b29-47c0-94c3-088b6afc7825#ref=rss)
+### wir
+
+* [https://www.spiegel.de/ausland/boris-johnson-und-die-corona-pandemie-wir-sind-zu-beschissen-um-es-auf-die-reihe-zu-kriegen](https://www.spiegel.de/ausland/boris-johnson-und-die-corona-pandemie-wir-sind-zu-beschissen-um-es-auf-die-reihe-zu-kriegen-a-8c9da352-8b29-47c0-94c3-088b6afc7825#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bayern-markus-soeder-kuendigt-gender-verbot-fuer-behoerden-und-schulen-an](https://www.spiegel.de/politik/deutschland/bayern-markus-soeder-kuendigt-gender-verbot-fuer-behoerden-und-schulen-an-a-fd14eb64-49ee-4428-99c2-5cf4f0206164#ref=rss)
+### ich
+
+* [https://www.spiegel.de/karriere/arbeitsrecht-winter-wetter-schnee-und-glaette-darf-ich-jetzt-einfach-zu-hause-bleiben](https://www.spiegel.de/karriere/arbeitsrecht-winter-wetter-schnee-und-glaette-darf-ich-jetzt-einfach-zu-hause-bleiben-a-a163c825-c1c5-4db4-998b-f0c55405c331#ref=rss)
+* [https://www.spiegel.de/wirtschaft/chef-des-flughafen-hamburg-ich-habe-sicher-fehler-gemacht](https://www.spiegel.de/wirtschaft/chef-des-flughafen-hamburg-ich-habe-sicher-fehler-gemacht-a-32d418b0-4fd3-472c-a44a-4f186d8d15e3#ref=rss)
+### 344
+
+* [https://www.spiegel.de/wirtschaft/das-bahn-fiasko-trailer](https://www.spiegel.de/wirtschaft/das-bahn-fiasko-trailer-a-ea877c8b-34ad-4892-86cc-3cf536197da2#ref=rss)
+### minuten
+
+* [https://www.spiegel.de/wirtschaft/das-bahn-fiasko-trailer](https://www.spiegel.de/wirtschaft/das-bahn-fiasko-trailer-a-ea877c8b-34ad-4892-86cc-3cf536197da2#ref=rss)
+### kraftfahrtbundesamt
+
+* [https://www.spiegel.de/auto/elektroautos-kraftfahrt-bundesamt-meldet-deutlich-weniger-neuzulassungen](https://www.spiegel.de/auto/elektroautos-kraftfahrt-bundesamt-meldet-deutlich-weniger-neuzulassungen-a-8ccf4aa3-1dc7-40dd-8f30-5be52f9969bd#ref=rss)
+### weniger
+
+* [https://www.spiegel.de/auto/elektroautos-kraftfahrt-bundesamt-meldet-deutlich-weniger-neuzulassungen](https://www.spiegel.de/auto/elektroautos-kraftfahrt-bundesamt-meldet-deutlich-weniger-neuzulassungen-a-8ccf4aa3-1dc7-40dd-8f30-5be52f9969bd#ref=rss)
 ### markus
 
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-ueber-kanzlerkandidatur-bei-der-union-wie-beim-elfmeterschiessen](https://www.spiegel.de/politik/deutschland/markus-soeder-ueber-kanzlerkandidatur-bei-der-union-wie-beim-elfmeterschiessen-a-e08b9986-574a-4f8c-9e7c-e493b8922522#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bayern-markus-soeder-kuendigt-gender-verbot-fuer-behoerden-und-schulen-an](https://www.spiegel.de/politik/deutschland/bayern-markus-soeder-kuendigt-gender-verbot-fuer-behoerden-und-schulen-an-a-fd14eb64-49ee-4428-99c2-5cf4f0206164#ref=rss)
 ### söder
 
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-ueber-kanzlerkandidatur-bei-der-union-wie-beim-elfmeterschiessen](https://www.spiegel.de/politik/deutschland/markus-soeder-ueber-kanzlerkandidatur-bei-der-union-wie-beim-elfmeterschiessen-a-e08b9986-574a-4f8c-9e7c-e493b8922522#ref=rss)
-### kanzlerkandidatur
+* [https://www.spiegel.de/politik/deutschland/bayern-markus-soeder-kuendigt-gender-verbot-fuer-behoerden-und-schulen-an](https://www.spiegel.de/politik/deutschland/bayern-markus-soeder-kuendigt-gender-verbot-fuer-behoerden-und-schulen-an-a-fd14eb64-49ee-4428-99c2-5cf4f0206164#ref=rss)
+### viele
 
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-ueber-kanzlerkandidatur-bei-der-union-wie-beim-elfmeterschiessen](https://www.spiegel.de/politik/deutschland/markus-soeder-ueber-kanzlerkandidatur-bei-der-union-wie-beim-elfmeterschiessen-a-e08b9986-574a-4f8c-9e7c-e493b8922522#ref=rss)
-### union
+* [https://www.spiegel.de/politik/deutschland/wie-die-deutschen-ueber-den-nahostkonflikt-denken](https://www.spiegel.de/politik/deutschland/wie-die-deutschen-ueber-den-nahostkonflikt-denken-a-c1f97abd-ea03-4277-bcd7-d52ae92d8f0b#ref=rss)
+* [https://www.spiegel.de/kultur/lumumba-warum-kakao-mit-schuss-wirklich-nicht-so-heissen-sollte](https://www.spiegel.de/kultur/lumumba-warum-kakao-mit-schuss-wirklich-nicht-so-heissen-sollte-a-dcb44067-2662-4759-945c-fc8a490e080f#ref=rss)
+### portugal
 
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-ueber-kanzlerkandidatur-bei-der-union-wie-beim-elfmeterschiessen](https://www.spiegel.de/politik/deutschland/markus-soeder-ueber-kanzlerkandidatur-bei-der-union-wie-beim-elfmeterschiessen-a-e08b9986-574a-4f8c-9e7c-e493b8922522#ref=rss)
-### youtuber
+* [https://www.spiegel.de/panorama/justiz/portugal-corona-massnahmen-gegner-aus-deutschland-festgenommen](https://www.spiegel.de/panorama/justiz/portugal-corona-massnahmen-gegner-aus-deutschland-festgenommen-a-72b979f3-d7e6-46fa-8876-8f9f2127e348#ref=rss)
+### steuerzahler
 
-* [https://www.spiegel.de/reise/fernweh/youtuber-von-notizenvonunterwegs-was-die-generation-weltreise-gern-verschweigt](https://www.spiegel.de/reise/fernweh/youtuber-von-notizenvonunterwegs-was-die-generation-weltreise-gern-verschweigt-a-c43fb658-79ca-4fe7-8b25-1bb0a0d493a4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/steuerzahler-werden-um-bis-zu-1600-euro-entlastet-neue-regeln-2024](https://www.spiegel.de/wirtschaft/steuerzahler-werden-um-bis-zu-1600-euro-entlastet-neue-regeln-2024-a-36778a46-eef9-4c71-b3d9-70b591799f65#ref=rss)
+### 2024
+
+* [https://www.spiegel.de/wirtschaft/steuerzahler-werden-um-bis-zu-1600-euro-entlastet-neue-regeln-2024](https://www.spiegel.de/wirtschaft/steuerzahler-werden-um-bis-zu-1600-euro-entlastet-neue-regeln-2024-a-36778a46-eef9-4c71-b3d9-70b591799f65#ref=rss)
+### allerdings
+
+* [https://www.spiegel.de/wirtschaft/steuerzahler-werden-um-bis-zu-1600-euro-entlastet-neue-regeln-2024](https://www.spiegel.de/wirtschaft/steuerzahler-werden-um-bis-zu-1600-euro-entlastet-neue-regeln-2024-a-36778a46-eef9-4c71-b3d9-70b591799f65#ref=rss)
+* [https://www.spiegel.de/ausland/usa-liz-cheney-ueberlegt-fuer-dritte-partei-als-praesidentschaftskandidatin-anzutreten](https://www.spiegel.de/ausland/usa-liz-cheney-ueberlegt-fuer-dritte-partei-als-praesidentschaftskandidatin-anzutreten-a-e51de0fe-b748-4bb0-ad8d-aa20391e620a#ref=rss)
+### liz
+
+* [https://www.spiegel.de/ausland/usa-liz-cheney-ueberlegt-fuer-dritte-partei-als-praesidentschaftskandidatin-anzutreten](https://www.spiegel.de/ausland/usa-liz-cheney-ueberlegt-fuer-dritte-partei-als-praesidentschaftskandidatin-anzutreten-a-e51de0fe-b748-4bb0-ad8d-aa20391e620a#ref=rss)
+### cheney
+
+* [https://www.spiegel.de/ausland/usa-liz-cheney-ueberlegt-fuer-dritte-partei-als-praesidentschaftskandidatin-anzutreten](https://www.spiegel.de/ausland/usa-liz-cheney-ueberlegt-fuer-dritte-partei-als-praesidentschaftskandidatin-anzutreten-a-e51de0fe-b748-4bb0-ad8d-aa20391e620a#ref=rss)
+### partei
+
+* [https://www.spiegel.de/ausland/usa-liz-cheney-ueberlegt-fuer-dritte-partei-als-praesidentschaftskandidatin-anzutreten](https://www.spiegel.de/ausland/usa-liz-cheney-ueberlegt-fuer-dritte-partei-als-praesidentschaftskandidatin-anzutreten-a-e51de0fe-b748-4bb0-ad8d-aa20391e620a#ref=rss)
+### lumumba
+
+* [https://www.spiegel.de/kultur/lumumba-warum-kakao-mit-schuss-wirklich-nicht-so-heissen-sollte](https://www.spiegel.de/kultur/lumumba-warum-kakao-mit-schuss-wirklich-nicht-so-heissen-sollte-a-dcb44067-2662-4759-945c-fc8a490e080f#ref=rss)
+### münchen
+
+* [https://www.spiegel.de/panorama/justiz/muenchen-andrea-tandler-raeumt-im-masken-prozess-fehler-ein](https://www.spiegel.de/panorama/justiz/muenchen-andrea-tandler-raeumt-im-masken-prozess-fehler-ein-a-4eec09d0-3664-43ea-ba22-6c6c3bd36b70#ref=rss)
+### andrea
+
+* [https://www.spiegel.de/panorama/justiz/muenchen-andrea-tandler-raeumt-im-masken-prozess-fehler-ein](https://www.spiegel.de/panorama/justiz/muenchen-andrea-tandler-raeumt-im-masken-prozess-fehler-ein-a-4eec09d0-3664-43ea-ba22-6c6c3bd36b70#ref=rss)
+### tandler
+
+* [https://www.spiegel.de/panorama/justiz/muenchen-andrea-tandler-raeumt-im-masken-prozess-fehler-ein](https://www.spiegel.de/panorama/justiz/muenchen-andrea-tandler-raeumt-im-masken-prozess-fehler-ein-a-4eec09d0-3664-43ea-ba22-6c6c3bd36b70#ref=rss)
+### fehler
+
+* [https://www.spiegel.de/panorama/justiz/muenchen-andrea-tandler-raeumt-im-masken-prozess-fehler-ein](https://www.spiegel.de/panorama/justiz/muenchen-andrea-tandler-raeumt-im-masken-prozess-fehler-ein-a-4eec09d0-3664-43ea-ba22-6c6c3bd36b70#ref=rss)
+* [https://www.spiegel.de/wirtschaft/chef-des-flughafen-hamburg-ich-habe-sicher-fehler-gemacht](https://www.spiegel.de/wirtschaft/chef-des-flughafen-hamburg-ich-habe-sicher-fehler-gemacht-a-32d418b0-4fd3-472c-a44a-4f186d8d15e3#ref=rss)
+### chef
+
+* [https://www.spiegel.de/wirtschaft/chef-des-flughafen-hamburg-ich-habe-sicher-fehler-gemacht](https://www.spiegel.de/wirtschaft/chef-des-flughafen-hamburg-ich-habe-sicher-fehler-gemacht-a-32d418b0-4fd3-472c-a44a-4f186d8d15e3#ref=rss)
 
