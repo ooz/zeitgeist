@@ -4,220 +4,288 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
+### viele
+
+* [https://www.spiegel.de/wissenschaft/medizin/rsv-welle-in-deutschland-hat-begonnen](https://www.spiegel.de/wissenschaft/medizin/rsv-welle-in-deutschland-hat-begonnen-a-f9b08191-4b86-4539-ac1d-0f20daf03899#ref=rss)
+* [https://www.spiegel.de/karriere/arbeiten-im-homeoffice-freitags-am-liebsten](https://www.spiegel.de/karriere/arbeiten-im-homeoffice-freitags-am-liebsten-a-3db79aa0-8f45-43f9-a5a8-3b186f3dd145#ref=rss)
+* [https://www.spiegel.de/wirtschaft/europaeische-union-warum-die-eu-subventionsbetrueger-gewaehren-laesst](https://www.spiegel.de/wirtschaft/europaeische-union-warum-die-eu-subventionsbetrueger-gewaehren-laesst-a-ffe29bd6-61bb-48eb-b8ec-b4b090c0b3d0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/wein-und-sektflaschen-neue-naehrwert-und-zutatenkennzeichnung](https://www.spiegel.de/wirtschaft/service/wein-und-sektflaschen-neue-naehrwert-und-zutatenkennzeichnung-a-d6ddd293-3ce1-4d10-992e-9f35babd3f8d#ref=rss)
+* [https://www.spiegel.de/ausland/russland-frauen-wollen-ihre-eingezogenen-maenner-von-der-front-holen](https://www.spiegel.de/ausland/russland-frauen-wollen-ihre-eingezogenen-maenner-von-der-front-holen-a-4839e11d-7567-49a4-bb45-e572369525b4#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-offenbar-hafeninfrastruktur-an-der-ueberblick](https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-offenbar-hafeninfrastruktur-an-der-ueberblick-a-dacb2916-e821-441f-b1b6-1ed62b4342bf#ref=rss)
+* [https://www.spiegel.de/ausland/russland-praesidentschaftswahl-findet-am-17-maerz-statt](https://www.spiegel.de/ausland/russland-praesidentschaftswahl-findet-am-17-maerz-statt-a-fb739fef-e686-41b2-bc45-915dbcb0c952#ref=rss)
+* [https://www.spiegel.de/ausland/russland-frauen-wollen-ihre-eingezogenen-maenner-von-der-front-holen](https://www.spiegel.de/ausland/russland-frauen-wollen-ihre-eingezogenen-maenner-von-der-front-holen-a-4839e11d-7567-49a4-bb45-e572369525b4#ref=rss)
+### ändern
+
+* [https://www.spiegel.de/wissenschaft/natur/klima-krise-forschende-fordern-strengere-definition-fuer-die-1-5-grad-grenze](https://www.spiegel.de/wissenschaft/natur/klima-krise-forschende-fordern-strengere-definition-fuer-die-1-5-grad-grenze-a-ff19374b-567a-4de4-9d7e-6d50b485085a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-und-die-spd-still-und-starr-ruht-die-kanzlerpartei-kommentar](https://www.spiegel.de/politik/deutschland/olaf-scholz-und-die-spd-still-und-starr-ruht-die-kanzlerpartei-kommentar-a-e9af800b-03e8-4827-8c6d-c258177a03aa#ref=rss)
+* [https://www.spiegel.de/karriere/mutterschutz-nach-fehlgeburten-ich-habe-es-geschafft-mein-anliegen-in-den-bundestag-zu-bringen](https://www.spiegel.de/karriere/mutterschutz-nach-fehlgeburten-ich-habe-es-geschafft-mein-anliegen-in-den-bundestag-zu-bringen-a-c55a4deb-ec14-4418-989a-914c6ae1154f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/wein-und-sektflaschen-neue-naehrwert-und-zutatenkennzeichnung](https://www.spiegel.de/wirtschaft/service/wein-und-sektflaschen-neue-naehrwert-und-zutatenkennzeichnung-a-d6ddd293-3ce1-4d10-992e-9f35babd3f8d#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/sport/fussball/fussball-der-frauen-luis-rubiales-werden-uebergriffe-auf-englische-spielerinnen-vorgeworfen](https://www.spiegel.de/sport/fussball/fussball-der-frauen-luis-rubiales-werden-uebergriffe-auf-englische-spielerinnen-vorgeworfen-a-0bb88583-565d-47de-a832-6fc97b6df44a#ref=rss)
+* [https://www.spiegel.de/ausland/russland-frauen-wollen-ihre-eingezogenen-maenner-von-der-front-holen](https://www.spiegel.de/ausland/russland-frauen-wollen-ihre-eingezogenen-maenner-von-der-front-holen-a-4839e11d-7567-49a4-bb45-e572369525b4#ref=rss)
+### stuttgart
+
+* [https://www.spiegel.de/panorama/justiz/altbach-bei-esslingen-mann-warf-handgranate-auf-trauergemeinde](https://www.spiegel.de/panorama/justiz/altbach-bei-esslingen-mann-warf-handgranate-auf-trauergemeinde-a-16aa831f-98b1-421a-be3f-268f2283f59b#ref=rss)
+* [https://www.spiegel.de/sport/nachruf-auf-tore-aleksandersen-er-machte-stuttgart-zum-volleyball-champion-obwohl-er-selbst-sterbenskrank-war](https://www.spiegel.de/sport/nachruf-auf-tore-aleksandersen-er-machte-stuttgart-zum-volleyball-champion-obwohl-er-selbst-sterbenskrank-war-a-0a88a5d1-d3c3-4a99-b8ba-fec942fb5f62#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-rechnet-mit-ausfall-von-80-prozent-der-fernzuege](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-rechnet-mit-ausfall-von-80-prozent-der-fernzuege-a-b0da41f5-1ac5-4e60-8830-b763fa3f6a90#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-haushalt-chanukka-donald-trump-nikki-haley-bahn](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-haushalt-chanukka-donald-trump-nikki-haley-bahn-a-8d3f6956-9763-442a-a02e-edb4bb237804#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-rechnet-mit-ausfall-von-80-prozent-der-fernzuege](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-rechnet-mit-ausfall-von-80-prozent-der-fernzuege-a-b0da41f5-1ac5-4e60-8830-b763fa3f6a90#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-haushalt-chanukka-donald-trump-nikki-haley-bahn](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-haushalt-chanukka-donald-trump-nikki-haley-bahn-a-8d3f6956-9763-442a-a02e-edb4bb237804#ref=rss)
+### verloren
+
+* [https://www.spiegel.de/sport/fussball/fussballquiz-welcher-klub-hat-das-pokalfinale-am-haeufigsten-verloren](https://www.spiegel.de/sport/fussball/fussballquiz-welcher-klub-hat-das-pokalfinale-am-haeufigsten-verloren-a-08d04273-a60e-443f-ae9d-a0bdc1bf781f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/europaeische-union-warum-die-eu-subventionsbetrueger-gewaehren-laesst](https://www.spiegel.de/wirtschaft/europaeische-union-warum-die-eu-subventionsbetrueger-gewaehren-laesst-a-ffe29bd6-61bb-48eb-b8ec-b4b090c0b3d0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-manchester-city-in-der-premier-league-nur-noch-vierter-pleite-gegen-aston-villa](https://www.spiegel.de/sport/fussball/fussball-manchester-city-in-der-premier-league-nur-noch-vierter-pleite-gegen-aston-villa-a-973a8b5e-79d7-4c24-904d-d7cea4150cab#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/wissenschaft/medizin/rsv-welle-in-deutschland-hat-begonnen](https://www.spiegel.de/wissenschaft/medizin/rsv-welle-in-deutschland-hat-begonnen-a-f9b08191-4b86-4539-ac1d-0f20daf03899#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/geschenkideen-von-und-fuer-nerds-sechs-empfehlungen-der-netzwelt-redaktion](https://www.spiegel.de/netzwelt/web/geschenkideen-von-und-fuer-nerds-sechs-empfehlungen-der-netzwelt-redaktion-a-ebe00ba2-d29e-4ddd-b213-d2d95aac85c3#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/japanische-staatsanwaltschaft-fordert-todesstrafe-fuer-angeklagten](https://www.spiegel.de/panorama/justiz/japanische-staatsanwaltschaft-fordert-todesstrafe-fuer-angeklagten-a-566b243c-bb3b-4f04-808c-b533e73dc08d#ref=rss)
+### scholz
+
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-und-die-spd-still-und-starr-ruht-die-kanzlerpartei-kommentar](https://www.spiegel.de/politik/deutschland/olaf-scholz-und-die-spd-still-und-starr-ruht-die-kanzlerpartei-kommentar-a-e9af800b-03e8-4827-8c6d-c258177a03aa#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/haushalt-christian-lindner-hinterfragt-milliardenschwere-industrie-subventionen](https://www.spiegel.de/wirtschaft/unternehmen/haushalt-christian-lindner-hinterfragt-milliardenschwere-industrie-subventionen-a-d2af6deb-62a9-4250-b7b3-9a06b01954eb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-haushalt-chanukka-donald-trump-nikki-haley-bahn](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-haushalt-chanukka-donald-trump-nikki-haley-bahn-a-8d3f6956-9763-442a-a02e-edb4bb237804#ref=rss)
+### laut
+
+* [https://www.spiegel.de/ausland/sudan-beide-konfliktparteien-haben-laut-us-einschaetzung-kriegsverbrechen-begangen](https://www.spiegel.de/ausland/sudan-beide-konfliktparteien-haben-laut-us-einschaetzung-kriegsverbrechen-begangen-a-3e1278a4-4119-4ddf-bfdc-d9d3d02f2340#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/karl-lauterbach-telefonische-krankschreibung-soll-ab-heute-wieder-moeglich-sein](https://www.spiegel.de/wirtschaft/service/karl-lauterbach-telefonische-krankschreibung-soll-ab-heute-wieder-moeglich-sein-a-125319a9-c4ce-4ae2-885a-57288935dd49#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/altbach-bei-esslingen-mann-warf-handgranate-auf-trauergemeinde](https://www.spiegel.de/panorama/justiz/altbach-bei-esslingen-mann-warf-handgranate-auf-trauergemeinde-a-16aa831f-98b1-421a-be3f-268f2283f59b#ref=rss)
+* [https://www.spiegel.de/ausland/russland-frauen-wollen-ihre-eingezogenen-maenner-von-der-front-holen](https://www.spiegel.de/ausland/russland-frauen-wollen-ihre-eingezogenen-maenner-von-der-front-holen-a-4839e11d-7567-49a4-bb45-e572369525b4#ref=rss)
+### handgranate
+
+* [https://www.spiegel.de/panorama/justiz/altbach-bei-esslingen-mann-warf-handgranate-auf-trauergemeinde](https://www.spiegel.de/panorama/justiz/altbach-bei-esslingen-mann-warf-handgranate-auf-trauergemeinde-a-16aa831f-98b1-421a-be3f-268f2283f59b#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/panorama/justiz/altbach-bei-esslingen-mann-warf-handgranate-auf-trauergemeinde](https://www.spiegel.de/panorama/justiz/altbach-bei-esslingen-mann-warf-handgranate-auf-trauergemeinde-a-16aa831f-98b1-421a-be3f-268f2283f59b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-und-die-spd-still-und-starr-ruht-die-kanzlerpartei-kommentar](https://www.spiegel.de/politik/deutschland/olaf-scholz-und-die-spd-still-und-starr-ruht-die-kanzlerpartei-kommentar-a-e9af800b-03e8-4827-8c6d-c258177a03aa#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/kultur/kino/margot-robbie-oppenheimer-produzent-bat-barbie-start-zu-verschieben](https://www.spiegel.de/kultur/kino/margot-robbie-oppenheimer-produzent-bat-barbie-start-zu-verschieben-a-de301365-9562-4d25-910f-70b34049711c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/eschweiler-aachen-explosion-in-modegeschaeft-vater-und-sohn-vor-gericht](https://www.spiegel.de/panorama/justiz/eschweiler-aachen-explosion-in-modegeschaeft-vater-und-sohn-vor-gericht-a-153b137d-a6de-4fc7-888c-26f1a06648f5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-zwei-weitere-signa-unternehmen-sind-insolvent](https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-zwei-weitere-signa-unternehmen-sind-insolvent-a-05559d2d-4cda-4c67-b542-e322d28dc513#ref=rss)
-### israel
+* [https://www.spiegel.de/panorama/justiz/altbach-bei-esslingen-mann-warf-handgranate-auf-trauergemeinde](https://www.spiegel.de/panorama/justiz/altbach-bei-esslingen-mann-warf-handgranate-auf-trauergemeinde-a-16aa831f-98b1-421a-be3f-268f2283f59b#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-offenbar-hafeninfrastruktur-an-der-ueberblick](https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-offenbar-hafeninfrastruktur-an-der-ueberblick-a-dacb2916-e821-441f-b1b6-1ed62b4342bf#ref=rss)
+### probleme
 
-* [https://www.spiegel.de/ausland/israel-armee-dringt-in-hamas-hochburg-in-gaza-ein](https://www.spiegel.de/ausland/israel-armee-dringt-in-hamas-hochburg-in-gaza-ein-a-f1dafacf-c4e2-464d-9023-af5151f0b2a6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/israel-deutschland-will-eu-einreise-fuer-radikale-siedler-beschraenken](https://www.spiegel.de/politik/deutschland/israel-deutschland-will-eu-einreise-fuer-radikale-siedler-beschraenken-a-f05b0a85-a5ac-4826-add9-a8d760b226d9#ref=rss)
-### münchen
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-rechnet-mit-ausfall-von-80-prozent-der-fernzuege](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-rechnet-mit-ausfall-von-80-prozent-der-fernzuege-a-b0da41f5-1ac5-4e60-8830-b763fa3f6a90#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-manchester-city-in-der-premier-league-nur-noch-vierter-pleite-gegen-aston-villa](https://www.spiegel.de/sport/fussball/fussball-manchester-city-in-der-premier-league-nur-noch-vierter-pleite-gegen-aston-villa-a-973a8b5e-79d7-4c24-904d-d7cea4150cab#ref=rss)
+### klimakrise
 
-* [https://www.spiegel.de/panorama/muenchen-aufzug-stoppt-nicht-feuerwehr-rettet-vater-und-kleinkind](https://www.spiegel.de/panorama/muenchen-aufzug-stoppt-nicht-feuerwehr-rettet-vater-und-kleinkind-a-bdac5ff6-5971-4d30-9ac6-6fdec2b2de52#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-verpflichtet-bryan-zaragoza-offensivtalent-wechselt-im-sommer-2024](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-verpflichtet-bryan-zaragoza-offensivtalent-wechselt-im-sommer-2024-a-1ad4ed74-2e46-444b-9691-497342a8871a#ref=rss)
-### vater
+* [https://www.spiegel.de/wissenschaft/natur/klima-krise-forschende-fordern-strengere-definition-fuer-die-1-5-grad-grenze](https://www.spiegel.de/wissenschaft/natur/klima-krise-forschende-fordern-strengere-definition-fuer-die-1-5-grad-grenze-a-ff19374b-567a-4de4-9d7e-6d50b485085a#ref=rss)
+### kampf
 
-* [https://www.spiegel.de/panorama/muenchen-aufzug-stoppt-nicht-feuerwehr-rettet-vater-und-kleinkind](https://www.spiegel.de/panorama/muenchen-aufzug-stoppt-nicht-feuerwehr-rettet-vater-und-kleinkind-a-bdac5ff6-5971-4d30-9ac6-6fdec2b2de52#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/eschweiler-aachen-explosion-in-modegeschaeft-vater-und-sohn-vor-gericht](https://www.spiegel.de/panorama/justiz/eschweiler-aachen-explosion-in-modegeschaeft-vater-und-sohn-vor-gericht-a-153b137d-a6de-4fc7-888c-26f1a06648f5#ref=rss)
-### präsident
+* [https://www.spiegel.de/wissenschaft/natur/klima-krise-forschende-fordern-strengere-definition-fuer-die-1-5-grad-grenze](https://www.spiegel.de/wissenschaft/natur/klima-krise-forschende-fordern-strengere-definition-fuer-die-1-5-grad-grenze-a-ff19374b-567a-4de4-9d7e-6d50b485085a#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-romans-kampf-zurueck-ins-leben](https://www.spiegel.de/ausland/ukraine-krieg-romans-kampf-zurueck-ins-leben-a-8bb54a7e-74c3-4b4f-847b-8c0b6336dee3#ref=rss)
+### klub
 
-* [https://www.spiegel.de/wirtschaft/argentinien-kuenftiger-praesident-javier-milei-ernennt-doch-einen-notenbankchef](https://www.spiegel.de/wirtschaft/argentinien-kuenftiger-praesident-javier-milei-ernennt-doch-einen-notenbankchef-a-7a89d6b6-ffda-4048-84ee-25fcd111cf5a#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-nicolas-maduro-will-sofort-erdoel-und-gas-in-essequibo-foerdern](https://www.spiegel.de/ausland/venezuela-nicolas-maduro-will-sofort-erdoel-und-gas-in-essequibo-foerdern-a-8a568832-e984-406a-862a-1533f4aa61a3#ref=rss)
-* [https://www.spiegel.de/ausland/vereinigte-arabische-emirate-wladimir-putin-trifft-zu-kurzbesuch-am-golf-ein](https://www.spiegel.de/ausland/vereinigte-arabische-emirate-wladimir-putin-trifft-zu-kurzbesuch-am-golf-ein-a-5c0c16e6-8171-4205-b4a0-c1994d945a2b#ref=rss)
-### länder
+* [https://www.spiegel.de/sport/fussball/fussballquiz-welcher-klub-hat-das-pokalfinale-am-haeufigsten-verloren](https://www.spiegel.de/sport/fussball/fussballquiz-welcher-klub-hat-das-pokalfinale-am-haeufigsten-verloren-a-08d04273-a60e-443f-ae9d-a0bdc1bf781f#ref=rss)
+### pokalfinale
 
-* [https://www.spiegel.de/politik/gerichtsverfahren-justizminister-der-laender-lehnen-tonaufnahmen-in-gerichtsverfahren-ab](https://www.spiegel.de/politik/gerichtsverfahren-justizminister-der-laender-lehnen-tonaufnahmen-in-gerichtsverfahren-ab-a-fd784921-ddcb-4347-a8ef-22bc1f66f457#ref=rss)
-* [https://www.spiegel.de/ausland/vereinigte-arabische-emirate-wladimir-putin-trifft-zu-kurzbesuch-am-golf-ein](https://www.spiegel.de/ausland/vereinigte-arabische-emirate-wladimir-putin-trifft-zu-kurzbesuch-am-golf-ein-a-5c0c16e6-8171-4205-b4a0-c1994d945a2b#ref=rss)
-### italien
+* [https://www.spiegel.de/sport/fussball/fussballquiz-welcher-klub-hat-das-pokalfinale-am-haeufigsten-verloren](https://www.spiegel.de/sport/fussball/fussballquiz-welcher-klub-hat-das-pokalfinale-am-haeufigsten-verloren-a-08d04273-a60e-443f-ae9d-a0bdc1bf781f#ref=rss)
+### meisten
 
-* [https://www.spiegel.de/ausland/giorgia-meloni-rechte-regierungsmehrheit-in-italien-stimmt-gegen-mindestlohn](https://www.spiegel.de/ausland/giorgia-meloni-rechte-regierungsmehrheit-in-italien-stimmt-gegen-mindestlohn-a-64a1a19d-390b-4b92-8a0c-b0329813ea1c#ref=rss)
-### mindestlohn
+* [https://www.spiegel.de/sport/fussball/fussballquiz-welcher-klub-hat-das-pokalfinale-am-haeufigsten-verloren](https://www.spiegel.de/sport/fussball/fussballquiz-welcher-klub-hat-das-pokalfinale-am-haeufigsten-verloren-a-08d04273-a60e-443f-ae9d-a0bdc1bf781f#ref=rss)
+* [https://www.spiegel.de/karriere/arbeiten-im-homeoffice-freitags-am-liebsten](https://www.spiegel.de/karriere/arbeiten-im-homeoffice-freitags-am-liebsten-a-3db79aa0-8f45-43f9-a5a8-3b186f3dd145#ref=rss)
+### efuels
 
-* [https://www.spiegel.de/ausland/giorgia-meloni-rechte-regierungsmehrheit-in-italien-stimmt-gegen-mindestlohn](https://www.spiegel.de/ausland/giorgia-meloni-rechte-regierungsmehrheit-in-italien-stimmt-gegen-mindestlohn-a-64a1a19d-390b-4b92-8a0c-b0329813ea1c#ref=rss)
-### keinen
+* [https://www.spiegel.de/auto/e-fuels-erste-grosse-fabrik-fuer-synthetisches-benzin-in-niedersachsen-geplant](https://www.spiegel.de/auto/e-fuels-erste-grosse-fabrik-fuer-synthetisches-benzin-in-niedersachsen-geplant-a-5c298512-4b8b-43c0-8f9c-8befa9712ef1#ref=rss)
+### benzin
 
-* [https://www.spiegel.de/ausland/giorgia-meloni-rechte-regierungsmehrheit-in-italien-stimmt-gegen-mindestlohn](https://www.spiegel.de/ausland/giorgia-meloni-rechte-regierungsmehrheit-in-italien-stimmt-gegen-mindestlohn-a-64a1a19d-390b-4b92-8a0c-b0329813ea1c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/corona-impfung-mrna-impfstoffe-koennen-unbeabsichtigte-proteine-hervorrufen-fachleute-geben-entwarnung](https://www.spiegel.de/wissenschaft/medizin/corona-impfung-mrna-impfstoffe-koennen-unbeabsichtigte-proteine-hervorrufen-fachleute-geben-entwarnung-a-bbb4ba90-0dab-4f59-ba07-6eb0aaa6062c#ref=rss)
-### rom
+* [https://www.spiegel.de/auto/e-fuels-erste-grosse-fabrik-fuer-synthetisches-benzin-in-niedersachsen-geplant](https://www.spiegel.de/auto/e-fuels-erste-grosse-fabrik-fuer-synthetisches-benzin-in-niedersachsen-geplant-a-5c298512-4b8b-43c0-8f9c-8befa9712ef1#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/japanische-staatsanwaltschaft-fordert-todesstrafe-fuer-angeklagten](https://www.spiegel.de/panorama/justiz/japanische-staatsanwaltschaft-fordert-todesstrafe-fuer-angeklagten-a-566b243c-bb3b-4f04-808c-b533e73dc08d#ref=rss)
+### umstrittenen
 
-* [https://www.spiegel.de/ausland/giorgia-meloni-rechte-regierungsmehrheit-in-italien-stimmt-gegen-mindestlohn](https://www.spiegel.de/ausland/giorgia-meloni-rechte-regierungsmehrheit-in-italien-stimmt-gegen-mindestlohn-a-64a1a19d-390b-4b92-8a0c-b0329813ea1c#ref=rss)
-* [https://www.spiegel.de/geschichte/geschichte-des-tunnelkriegs-der-feind-im-untergrund](https://www.spiegel.de/geschichte/geschichte-des-tunnelkriegs-der-feind-im-untergrund-a-5a439d66-0492-4776-a4a2-10e14ff4dee9#ref=rss)
-### synagoge
-
-* [https://www.spiegel.de/panorama/justiz/bochum-schuesse-auf-synagoge-angeklagter-zu-knapp-vier-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/bochum-schuesse-auf-synagoge-angeklagter-zu-knapp-vier-jahren-haft-verurteilt-a-379d41e1-b6f3-4349-b5d3-77dbd73bc748#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/panorama/justiz/bochum-schuesse-auf-synagoge-angeklagter-zu-knapp-vier-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/bochum-schuesse-auf-synagoge-angeklagter-zu-knapp-vier-jahren-haft-verurteilt-a-379d41e1-b6f3-4349-b5d3-77dbd73bc748#ref=rss)
-* [https://www.spiegel.de/sport/volleyball-ex-stuttgart-trainer-tore-aleksandersen-ist-tot](https://www.spiegel.de/sport/volleyball-ex-stuttgart-trainer-tore-aleksandersen-ist-tot-a-babc5977-7e8f-4472-88c7-2bae3556b525#ref=rss)
-### thomas
-
-* [https://www.spiegel.de/sport/olympia/olympia-beschluesse-des-ioc-thomas-bach-arbeitet-am-russland-comeback](https://www.spiegel.de/sport/olympia/olympia-beschluesse-des-ioc-thomas-bach-arbeitet-am-russland-comeback-a-ce0a9cf9-371a-48df-89a4-651093cf1db3#ref=rss)
-### bach
-
-* [https://www.spiegel.de/sport/olympia/olympia-beschluesse-des-ioc-thomas-bach-arbeitet-am-russland-comeback](https://www.spiegel.de/sport/olympia/olympia-beschluesse-des-ioc-thomas-bach-arbeitet-am-russland-comeback-a-ce0a9cf9-371a-48df-89a4-651093cf1db3#ref=rss)
-### unter
-
-* [https://www.spiegel.de/geschichte/geschichte-des-tunnelkriegs-der-feind-im-untergrund](https://www.spiegel.de/geschichte/geschichte-des-tunnelkriegs-der-feind-im-untergrund-a-5a439d66-0492-4776-a4a2-10e14ff4dee9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/haushalt-gruene-stemmen-sich-gegen-kuerzungen-bei-internationalen-hilfen](https://www.spiegel.de/politik/deutschland/haushalt-gruene-stemmen-sich-gegen-kuerzungen-bei-internationalen-hilfen-a-23880d0e-9f4c-4d1a-a61c-59b8c8b8a3ea#ref=rss)
-### margot
-
-* [https://www.spiegel.de/kultur/kino/margot-robbie-oppenheimer-produzent-bat-barbie-start-zu-verschieben](https://www.spiegel.de/kultur/kino/margot-robbie-oppenheimer-produzent-bat-barbie-start-zu-verschieben-a-de301365-9562-4d25-910f-70b34049711c#ref=rss)
-### robbie
-
-* [https://www.spiegel.de/kultur/kino/margot-robbie-oppenheimer-produzent-bat-barbie-start-zu-verschieben](https://www.spiegel.de/kultur/kino/margot-robbie-oppenheimer-produzent-bat-barbie-start-zu-verschieben-a-de301365-9562-4d25-910f-70b34049711c#ref=rss)
-### hamashochburg
-
-* [https://www.spiegel.de/ausland/israel-armee-dringt-in-hamas-hochburg-in-gaza-ein](https://www.spiegel.de/ausland/israel-armee-dringt-in-hamas-hochburg-in-gaza-ein-a-f1dafacf-c4e2-464d-9023-af5151f0b2a6#ref=rss)
-### sollten
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-steuererhoehungen-pisa-studie-bauen-mit-stroh](https://www.spiegel.de/politik/deutschland/news-des-tages-steuererhoehungen-pisa-studie-bauen-mit-stroh-a-2311db4d-d511-4f85-b8ba-659ce8d91398#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/goldpreis-rekord-was-sie-bei-einem-gold-investment-beachten-sollten](https://www.spiegel.de/wirtschaft/service/goldpreis-rekord-was-sie-bei-einem-gold-investment-beachten-sollten-a-510e5641-9764-491c-8b7c-bbf9f0aab9fb#ref=rss)
-### freitagabend
-
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-gdl-lokfuehrer-der-bahn-streiken-ab-donnerstag-bis-freitagabend](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-gdl-lokfuehrer-der-bahn-streiken-ab-donnerstag-bis-freitagabend-a-2a7d59e2-0f95-45ab-891d-286710b51b51#ref=rss)
-### land
-
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-gdl-lokfuehrer-der-bahn-streiken-ab-donnerstag-bis-freitagabend](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-gdl-lokfuehrer-der-bahn-streiken-ab-donnerstag-bis-freitagabend-a-2a7d59e2-0f95-45ab-891d-286710b51b51#ref=rss)
-* [https://www.spiegel.de/geschichte/verschwundenes-sed-vermoegen-plastiktueten-voller-geld-ard-dokuserie-die-milliardenjagd](https://www.spiegel.de/geschichte/verschwundenes-sed-vermoegen-plastiktueten-voller-geld-ard-dokuserie-die-milliardenjagd-a-ad96cae1-084a-412e-a25d-f5e95357da3e#ref=rss)
-### beginnen
-
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-gdl-lokfuehrer-der-bahn-streiken-ab-donnerstag-bis-freitagabend](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-gdl-lokfuehrer-der-bahn-streiken-ab-donnerstag-bis-freitagabend-a-2a7d59e2-0f95-45ab-891d-286710b51b51#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-politiker-thorsten-frei-zum-haushaltsstreit-ampelkoalition-beschert-uns-eine-phase-der-unsicherheit](https://www.spiegel.de/politik/deutschland/cdu-politiker-thorsten-frei-zum-haushaltsstreit-ampelkoalition-beschert-uns-eine-phase-der-unsicherheit-a-8545b978-a1d0-494a-ab6d-7e75eac3faad#ref=rss)
+* [https://www.spiegel.de/auto/e-fuels-erste-grosse-fabrik-fuer-synthetisches-benzin-in-niedersachsen-geplant](https://www.spiegel.de/auto/e-fuels-erste-grosse-fabrik-fuer-synthetisches-benzin-in-niedersachsen-geplant-a-5c298512-4b8b-43c0-8f9c-8befa9712ef1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/schufa-eugh-schraenkt-nutzung-des-umstrittenen-scores-ein](https://www.spiegel.de/wirtschaft/service/schufa-eugh-schraenkt-nutzung-des-umstrittenen-scores-ein-a-c4d5381e-2fe1-41e6-a00b-02e083a9c0c3#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-gdl-lokfuehrer-der-bahn-streiken-ab-donnerstag-bis-freitagabend](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-gdl-lokfuehrer-der-bahn-streiken-ab-donnerstag-bis-freitagabend-a-2a7d59e2-0f95-45ab-891d-286710b51b51#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/israel-deutschland-will-eu-einreise-fuer-radikale-siedler-beschraenken](https://www.spiegel.de/politik/deutschland/israel-deutschland-will-eu-einreise-fuer-radikale-siedler-beschraenken-a-f05b0a85-a5ac-4826-add9-a8d760b226d9#ref=rss)
-### studie
+* [https://www.spiegel.de/wissenschaft/medizin/rsv-welle-in-deutschland-hat-begonnen](https://www.spiegel.de/wissenschaft/medizin/rsv-welle-in-deutschland-hat-begonnen-a-f9b08191-4b86-4539-ac1d-0f20daf03899#ref=rss)
+### datteln
 
-* [https://www.spiegel.de/wissenschaft/medizin/corona-impfung-mrna-impfstoffe-koennen-unbeabsichtigte-proteine-hervorrufen-fachleute-geben-entwarnung](https://www.spiegel.de/wissenschaft/medizin/corona-impfung-mrna-impfstoffe-koennen-unbeabsichtigte-proteine-hervorrufen-fachleute-geben-entwarnung-a-bbb4ba90-0dab-4f59-ba07-6eb0aaa6062c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/linguistik-sprachen-aus-tropischen-regionen-sind-lauter](https://www.spiegel.de/wissenschaft/mensch/linguistik-sprachen-aus-tropischen-regionen-sind-lauter-a-8c35a537-efc5-4f6c-b251-f90655d53e47#ref=rss)
-### aufzug
+* [https://www.spiegel.de/panorama/datteln-unfall-zerstoert-vier-autos-175-000-euro-schaden](https://www.spiegel.de/panorama/datteln-unfall-zerstoert-vier-autos-175-000-euro-schaden-a-7aacaa5c-6f92-4fb9-be7a-aa12f124fe47#ref=rss)
+### schaden
 
-* [https://www.spiegel.de/panorama/muenchen-aufzug-stoppt-nicht-feuerwehr-rettet-vater-und-kleinkind](https://www.spiegel.de/panorama/muenchen-aufzug-stoppt-nicht-feuerwehr-rettet-vater-und-kleinkind-a-bdac5ff6-5971-4d30-9ac6-6fdec2b2de52#ref=rss)
-### feuerwehr
+* [https://www.spiegel.de/panorama/datteln-unfall-zerstoert-vier-autos-175-000-euro-schaden](https://www.spiegel.de/panorama/datteln-unfall-zerstoert-vier-autos-175-000-euro-schaden-a-7aacaa5c-6f92-4fb9-be7a-aa12f124fe47#ref=rss)
+### fußball
 
-* [https://www.spiegel.de/panorama/muenchen-aufzug-stoppt-nicht-feuerwehr-rettet-vater-und-kleinkind](https://www.spiegel.de/panorama/muenchen-aufzug-stoppt-nicht-feuerwehr-rettet-vater-und-kleinkind-a-bdac5ff6-5971-4d30-9ac6-6fdec2b2de52#ref=rss)
-### sohn
+* [https://www.spiegel.de/sport/fussball/fussball-der-frauen-luis-rubiales-werden-uebergriffe-auf-englische-spielerinnen-vorgeworfen](https://www.spiegel.de/sport/fussball/fussball-der-frauen-luis-rubiales-werden-uebergriffe-auf-englische-spielerinnen-vorgeworfen-a-0bb88583-565d-47de-a832-6fc97b6df44a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-manchester-city-in-der-premier-league-nur-noch-vierter-pleite-gegen-aston-villa](https://www.spiegel.de/sport/fussball/fussball-manchester-city-in-der-premier-league-nur-noch-vierter-pleite-gegen-aston-villa-a-973a8b5e-79d7-4c24-904d-d7cea4150cab#ref=rss)
+### luis
 
-* [https://www.spiegel.de/panorama/muenchen-aufzug-stoppt-nicht-feuerwehr-rettet-vater-und-kleinkind](https://www.spiegel.de/panorama/muenchen-aufzug-stoppt-nicht-feuerwehr-rettet-vater-und-kleinkind-a-bdac5ff6-5971-4d30-9ac6-6fdec2b2de52#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/eschweiler-aachen-explosion-in-modegeschaeft-vater-und-sohn-vor-gericht](https://www.spiegel.de/panorama/justiz/eschweiler-aachen-explosion-in-modegeschaeft-vater-und-sohn-vor-gericht-a-153b137d-a6de-4fc7-888c-26f1a06648f5#ref=rss)
-### aachen
+* [https://www.spiegel.de/sport/fussball/fussball-der-frauen-luis-rubiales-werden-uebergriffe-auf-englische-spielerinnen-vorgeworfen](https://www.spiegel.de/sport/fussball/fussball-der-frauen-luis-rubiales-werden-uebergriffe-auf-englische-spielerinnen-vorgeworfen-a-0bb88583-565d-47de-a832-6fc97b6df44a#ref=rss)
+### rubiales
 
-* [https://www.spiegel.de/panorama/justiz/eschweiler-aachen-explosion-in-modegeschaeft-vater-und-sohn-vor-gericht](https://www.spiegel.de/panorama/justiz/eschweiler-aachen-explosion-in-modegeschaeft-vater-und-sohn-vor-gericht-a-153b137d-a6de-4fc7-888c-26f1a06648f5#ref=rss)
-### explosion
+* [https://www.spiegel.de/sport/fussball/fussball-der-frauen-luis-rubiales-werden-uebergriffe-auf-englische-spielerinnen-vorgeworfen](https://www.spiegel.de/sport/fussball/fussball-der-frauen-luis-rubiales-werden-uebergriffe-auf-englische-spielerinnen-vorgeworfen-a-0bb88583-565d-47de-a832-6fc97b6df44a#ref=rss)
+### englische
 
-* [https://www.spiegel.de/panorama/justiz/eschweiler-aachen-explosion-in-modegeschaeft-vater-und-sohn-vor-gericht](https://www.spiegel.de/panorama/justiz/eschweiler-aachen-explosion-in-modegeschaeft-vater-und-sohn-vor-gericht-a-153b137d-a6de-4fc7-888c-26f1a06648f5#ref=rss)
-### geld
+* [https://www.spiegel.de/sport/fussball/fussball-der-frauen-luis-rubiales-werden-uebergriffe-auf-englische-spielerinnen-vorgeworfen](https://www.spiegel.de/sport/fussball/fussball-der-frauen-luis-rubiales-werden-uebergriffe-auf-englische-spielerinnen-vorgeworfen-a-0bb88583-565d-47de-a832-6fc97b6df44a#ref=rss)
+### spielerinnen
 
-* [https://www.spiegel.de/panorama/justiz/eschweiler-aachen-explosion-in-modegeschaeft-vater-und-sohn-vor-gericht](https://www.spiegel.de/panorama/justiz/eschweiler-aachen-explosion-in-modegeschaeft-vater-und-sohn-vor-gericht-a-153b137d-a6de-4fc7-888c-26f1a06648f5#ref=rss)
-* [https://www.spiegel.de/geschichte/verschwundenes-sed-vermoegen-plastiktueten-voller-geld-ard-dokuserie-die-milliardenjagd](https://www.spiegel.de/geschichte/verschwundenes-sed-vermoegen-plastiktueten-voller-geld-ard-dokuserie-die-milliardenjagd-a-ad96cae1-084a-412e-a25d-f5e95357da3e#ref=rss)
-### javier
+* [https://www.spiegel.de/sport/fussball/fussball-der-frauen-luis-rubiales-werden-uebergriffe-auf-englische-spielerinnen-vorgeworfen](https://www.spiegel.de/sport/fussball/fussball-der-frauen-luis-rubiales-werden-uebergriffe-auf-englische-spielerinnen-vorgeworfen-a-0bb88583-565d-47de-a832-6fc97b6df44a#ref=rss)
+* [https://www.spiegel.de/sport/nachruf-auf-tore-aleksandersen-er-machte-stuttgart-zum-volleyball-champion-obwohl-er-selbst-sterbenskrank-war](https://www.spiegel.de/sport/nachruf-auf-tore-aleksandersen-er-machte-stuttgart-zum-volleyball-champion-obwohl-er-selbst-sterbenskrank-war-a-0a88a5d1-d3c3-4a99-b8ba-fec942fb5f62#ref=rss)
+### olaf
 
-* [https://www.spiegel.de/wirtschaft/argentinien-kuenftiger-praesident-javier-milei-ernennt-doch-einen-notenbankchef](https://www.spiegel.de/wirtschaft/argentinien-kuenftiger-praesident-javier-milei-ernennt-doch-einen-notenbankchef-a-7a89d6b6-ffda-4048-84ee-25fcd111cf5a#ref=rss)
-### milei
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-und-die-spd-still-und-starr-ruht-die-kanzlerpartei-kommentar](https://www.spiegel.de/politik/deutschland/olaf-scholz-und-die-spd-still-und-starr-ruht-die-kanzlerpartei-kommentar-a-e9af800b-03e8-4827-8c6d-c258177a03aa#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-haushalt-chanukka-donald-trump-nikki-haley-bahn](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-haushalt-chanukka-donald-trump-nikki-haley-bahn-a-8d3f6956-9763-442a-a02e-edb4bb237804#ref=rss)
+### spd
 
-* [https://www.spiegel.de/wirtschaft/argentinien-kuenftiger-praesident-javier-milei-ernennt-doch-einen-notenbankchef](https://www.spiegel.de/wirtschaft/argentinien-kuenftiger-praesident-javier-milei-ernennt-doch-einen-notenbankchef-a-7a89d6b6-ffda-4048-84ee-25fcd111cf5a#ref=rss)
-### radikale
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-und-die-spd-still-und-starr-ruht-die-kanzlerpartei-kommentar](https://www.spiegel.de/politik/deutschland/olaf-scholz-und-die-spd-still-und-starr-ruht-die-kanzlerpartei-kommentar-a-e9af800b-03e8-4827-8c6d-c258177a03aa#ref=rss)
+### homeoffice
 
-* [https://www.spiegel.de/wirtschaft/argentinien-kuenftiger-praesident-javier-milei-ernennt-doch-einen-notenbankchef](https://www.spiegel.de/wirtschaft/argentinien-kuenftiger-praesident-javier-milei-ernennt-doch-einen-notenbankchef-a-7a89d6b6-ffda-4048-84ee-25fcd111cf5a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/israel-deutschland-will-eu-einreise-fuer-radikale-siedler-beschraenken](https://www.spiegel.de/politik/deutschland/israel-deutschland-will-eu-einreise-fuer-radikale-siedler-beschraenken-a-f05b0a85-a5ac-4826-add9-a8d760b226d9#ref=rss)
-### milliardenjagd
+* [https://www.spiegel.de/karriere/arbeiten-im-homeoffice-freitags-am-liebsten](https://www.spiegel.de/karriere/arbeiten-im-homeoffice-freitags-am-liebsten-a-3db79aa0-8f45-43f9-a5a8-3b186f3dd145#ref=rss)
+### ukrainekrieg
 
-* [https://www.spiegel.de/geschichte/verschwundenes-sed-vermoegen-plastiktueten-voller-geld-ard-dokuserie-die-milliardenjagd](https://www.spiegel.de/geschichte/verschwundenes-sed-vermoegen-plastiktueten-voller-geld-ard-dokuserie-die-milliardenjagd-a-ad96cae1-084a-412e-a25d-f5e95357da3e#ref=rss)
-### venezuela
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-offenbar-hafeninfrastruktur-an-der-ueberblick](https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-offenbar-hafeninfrastruktur-an-der-ueberblick-a-dacb2916-e821-441f-b1b6-1ed62b4342bf#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-romans-kampf-zurueck-ins-leben](https://www.spiegel.de/ausland/ukraine-krieg-romans-kampf-zurueck-ins-leben-a-8bb54a7e-74c3-4b4f-847b-8c0b6336dee3#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/ausland/venezuela-nicolas-maduro-will-sofort-erdoel-und-gas-in-essequibo-foerdern](https://www.spiegel.de/ausland/venezuela-nicolas-maduro-will-sofort-erdoel-und-gas-in-essequibo-foerdern-a-8a568832-e984-406a-862a-1533f4aa61a3#ref=rss)
-### nicolás
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-offenbar-hafeninfrastruktur-an-der-ueberblick](https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-offenbar-hafeninfrastruktur-an-der-ueberblick-a-dacb2916-e821-441f-b1b6-1ed62b4342bf#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/ausland/venezuela-nicolas-maduro-will-sofort-erdoel-und-gas-in-essequibo-foerdern](https://www.spiegel.de/ausland/venezuela-nicolas-maduro-will-sofort-erdoel-und-gas-in-essequibo-foerdern-a-8a568832-e984-406a-862a-1533f4aa61a3#ref=rss)
-### maduro
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-offenbar-hafeninfrastruktur-an-der-ueberblick](https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-offenbar-hafeninfrastruktur-an-der-ueberblick-a-dacb2916-e821-441f-b1b6-1ed62b4342bf#ref=rss)
+* [https://www.spiegel.de/ausland/russland-frauen-wollen-ihre-eingezogenen-maenner-von-der-front-holen](https://www.spiegel.de/ausland/russland-frauen-wollen-ihre-eingezogenen-maenner-von-der-front-holen-a-4839e11d-7567-49a4-bb45-e572369525b4#ref=rss)
+### entwicklungen
 
-* [https://www.spiegel.de/ausland/venezuela-nicolas-maduro-will-sofort-erdoel-und-gas-in-essequibo-foerdern](https://www.spiegel.de/ausland/venezuela-nicolas-maduro-will-sofort-erdoel-und-gas-in-essequibo-foerdern-a-8a568832-e984-406a-862a-1533f4aa61a3#ref=rss)
-### rené
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-zwei-weitere-signa-unternehmen-sind-insolvent](https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-zwei-weitere-signa-unternehmen-sind-insolvent-a-05559d2d-4cda-4c67-b542-e322d28dc513#ref=rss)
-### benko
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-zwei-weitere-signa-unternehmen-sind-insolvent](https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-zwei-weitere-signa-unternehmen-sind-insolvent-a-05559d2d-4cda-4c67-b542-e322d28dc513#ref=rss)
-### volleyball
-
-* [https://www.spiegel.de/sport/volleyball-ex-stuttgart-trainer-tore-aleksandersen-ist-tot](https://www.spiegel.de/sport/volleyball-ex-stuttgart-trainer-tore-aleksandersen-ist-tot-a-babc5977-7e8f-4472-88c7-2bae3556b525#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-offenbar-hafeninfrastruktur-an-der-ueberblick](https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-offenbar-hafeninfrastruktur-an-der-ueberblick-a-dacb2916-e821-441f-b1b6-1ed62b4342bf#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-schwere-gefechte-mit-hamas-kaempfern-in-chan-junis](https://www.spiegel.de/ausland/israel-gaza-krieg-schwere-gefechte-mit-hamas-kaempfern-in-chan-junis-a-c580a237-b323-4cf5-8bb9-82dc56e36785#ref=rss)
 ### tore
 
-* [https://www.spiegel.de/sport/volleyball-ex-stuttgart-trainer-tore-aleksandersen-ist-tot](https://www.spiegel.de/sport/volleyball-ex-stuttgart-trainer-tore-aleksandersen-ist-tot-a-babc5977-7e8f-4472-88c7-2bae3556b525#ref=rss)
+* [https://www.spiegel.de/sport/nachruf-auf-tore-aleksandersen-er-machte-stuttgart-zum-volleyball-champion-obwohl-er-selbst-sterbenskrank-war](https://www.spiegel.de/sport/nachruf-auf-tore-aleksandersen-er-machte-stuttgart-zum-volleyball-champion-obwohl-er-selbst-sterbenskrank-war-a-0a88a5d1-d3c3-4a99-b8ba-fec942fb5f62#ref=rss)
 ### aleksandersen
 
-* [https://www.spiegel.de/sport/volleyball-ex-stuttgart-trainer-tore-aleksandersen-ist-tot](https://www.spiegel.de/sport/volleyball-ex-stuttgart-trainer-tore-aleksandersen-ist-tot-a-babc5977-7e8f-4472-88c7-2bae3556b525#ref=rss)
-### gemini
+* [https://www.spiegel.de/sport/nachruf-auf-tore-aleksandersen-er-machte-stuttgart-zum-volleyball-champion-obwohl-er-selbst-sterbenskrank-war](https://www.spiegel.de/sport/nachruf-auf-tore-aleksandersen-er-machte-stuttgart-zum-volleyball-champion-obwohl-er-selbst-sterbenskrank-war-a-0a88a5d1-d3c3-4a99-b8ba-fec942fb5f62#ref=rss)
+### obwohl
 
-* [https://www.spiegel.de/netzwelt/web/gemini-google-stellt-neues-ki-modell-vor-und-spricht-von-einer-neuen-aera](https://www.spiegel.de/netzwelt/web/gemini-google-stellt-neues-ki-modell-vor-und-spricht-von-einer-neuen-aera-a-8029db34-5ca3-417a-b768-2968701dae7e#ref=rss)
-### google
+* [https://www.spiegel.de/sport/nachruf-auf-tore-aleksandersen-er-machte-stuttgart-zum-volleyball-champion-obwohl-er-selbst-sterbenskrank-war](https://www.spiegel.de/sport/nachruf-auf-tore-aleksandersen-er-machte-stuttgart-zum-volleyball-champion-obwohl-er-selbst-sterbenskrank-war-a-0a88a5d1-d3c3-4a99-b8ba-fec942fb5f62#ref=rss)
+* [https://www.spiegel.de/ausland/russland-praesidentschaftswahl-findet-am-17-maerz-statt](https://www.spiegel.de/ausland/russland-praesidentschaftswahl-findet-am-17-maerz-statt-a-fb739fef-e686-41b2-bc45-915dbcb0c952#ref=rss)
+### krank
 
-* [https://www.spiegel.de/netzwelt/web/gemini-google-stellt-neues-ki-modell-vor-und-spricht-von-einer-neuen-aera](https://www.spiegel.de/netzwelt/web/gemini-google-stellt-neues-ki-modell-vor-und-spricht-von-einer-neuen-aera-a-8029db34-5ca3-417a-b768-2968701dae7e#ref=rss)
-### neues
+* [https://www.spiegel.de/sport/nachruf-auf-tore-aleksandersen-er-machte-stuttgart-zum-volleyball-champion-obwohl-er-selbst-sterbenskrank-war](https://www.spiegel.de/sport/nachruf-auf-tore-aleksandersen-er-machte-stuttgart-zum-volleyball-champion-obwohl-er-selbst-sterbenskrank-war-a-0a88a5d1-d3c3-4a99-b8ba-fec942fb5f62#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/karl-lauterbach-telefonische-krankschreibung-soll-ab-heute-wieder-moeglich-sein](https://www.spiegel.de/wirtschaft/service/karl-lauterbach-telefonische-krankschreibung-soll-ab-heute-wieder-moeglich-sein-a-125319a9-c4ce-4ae2-885a-57288935dd49#ref=rss)
+### europäische
 
-* [https://www.spiegel.de/netzwelt/web/gemini-google-stellt-neues-ki-modell-vor-und-spricht-von-einer-neuen-aera](https://www.spiegel.de/netzwelt/web/gemini-google-stellt-neues-ki-modell-vor-und-spricht-von-einer-neuen-aera-a-8029db34-5ca3-417a-b768-2968701dae7e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/goldpreis-rekord-was-sie-bei-einem-gold-investment-beachten-sollten](https://www.spiegel.de/wirtschaft/service/goldpreis-rekord-was-sie-bei-einem-gold-investment-beachten-sollten-a-510e5641-9764-491c-8b7c-bbf9f0aab9fb#ref=rss)
-### kimodell
+* [https://www.spiegel.de/wirtschaft/europaeische-union-warum-die-eu-subventionsbetrueger-gewaehren-laesst](https://www.spiegel.de/wirtschaft/europaeische-union-warum-die-eu-subventionsbetrueger-gewaehren-laesst-a-ffe29bd6-61bb-48eb-b8ec-b4b090c0b3d0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/schufa-eugh-schraenkt-nutzung-des-umstrittenen-scores-ein](https://www.spiegel.de/wirtschaft/service/schufa-eugh-schraenkt-nutzung-des-umstrittenen-scores-ein-a-c4d5381e-2fe1-41e6-a00b-02e083a9c0c3#ref=rss)
+### union
 
-* [https://www.spiegel.de/netzwelt/web/gemini-google-stellt-neues-ki-modell-vor-und-spricht-von-einer-neuen-aera](https://www.spiegel.de/netzwelt/web/gemini-google-stellt-neues-ki-modell-vor-und-spricht-von-einer-neuen-aera-a-8029db34-5ca3-417a-b768-2968701dae7e#ref=rss)
-### frei
+* [https://www.spiegel.de/wirtschaft/europaeische-union-warum-die-eu-subventionsbetrueger-gewaehren-laesst](https://www.spiegel.de/wirtschaft/europaeische-union-warum-die-eu-subventionsbetrueger-gewaehren-laesst-a-ffe29bd6-61bb-48eb-b8ec-b4b090c0b3d0#ref=rss)
+### eu
 
-* [https://www.spiegel.de/politik/deutschland/cdu-politiker-thorsten-frei-zum-haushaltsstreit-ampelkoalition-beschert-uns-eine-phase-der-unsicherheit](https://www.spiegel.de/politik/deutschland/cdu-politiker-thorsten-frei-zum-haushaltsstreit-ampelkoalition-beschert-uns-eine-phase-der-unsicherheit-a-8545b978-a1d0-494a-ab6d-7e75eac3faad#ref=rss)
-### haushaltsstreit
+* [https://www.spiegel.de/wirtschaft/europaeische-union-warum-die-eu-subventionsbetrueger-gewaehren-laesst](https://www.spiegel.de/wirtschaft/europaeische-union-warum-die-eu-subventionsbetrueger-gewaehren-laesst-a-ffe29bd6-61bb-48eb-b8ec-b4b090c0b3d0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/umgehung-von-sanktionen-gegen-russische-oligarchen-fbi-hilft-zypern-bei-ermittlungen](https://www.spiegel.de/wirtschaft/umgehung-von-sanktionen-gegen-russische-oligarchen-fbi-hilft-zypern-bei-ermittlungen-a-dddc5d47-e8c3-4b73-9d1a-abdf616f4bb8#ref=rss)
+### russische
 
-* [https://www.spiegel.de/politik/deutschland/cdu-politiker-thorsten-frei-zum-haushaltsstreit-ampelkoalition-beschert-uns-eine-phase-der-unsicherheit](https://www.spiegel.de/politik/deutschland/cdu-politiker-thorsten-frei-zum-haushaltsstreit-ampelkoalition-beschert-uns-eine-phase-der-unsicherheit-a-8545b978-a1d0-494a-ab6d-7e75eac3faad#ref=rss)
-### unsicherheit
+* [https://www.spiegel.de/wirtschaft/umgehung-von-sanktionen-gegen-russische-oligarchen-fbi-hilft-zypern-bei-ermittlungen](https://www.spiegel.de/wirtschaft/umgehung-von-sanktionen-gegen-russische-oligarchen-fbi-hilft-zypern-bei-ermittlungen-a-dddc5d47-e8c3-4b73-9d1a-abdf616f4bb8#ref=rss)
+### oligarchen
 
-* [https://www.spiegel.de/politik/deutschland/cdu-politiker-thorsten-frei-zum-haushaltsstreit-ampelkoalition-beschert-uns-eine-phase-der-unsicherheit](https://www.spiegel.de/politik/deutschland/cdu-politiker-thorsten-frei-zum-haushaltsstreit-ampelkoalition-beschert-uns-eine-phase-der-unsicherheit-a-8545b978-a1d0-494a-ab6d-7e75eac3faad#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/goldpreis-rekord-was-sie-bei-einem-gold-investment-beachten-sollten](https://www.spiegel.de/wirtschaft/service/goldpreis-rekord-was-sie-bei-einem-gold-investment-beachten-sollten-a-510e5641-9764-491c-8b7c-bbf9f0aab9fb#ref=rss)
-### druck
+* [https://www.spiegel.de/wirtschaft/umgehung-von-sanktionen-gegen-russische-oligarchen-fbi-hilft-zypern-bei-ermittlungen](https://www.spiegel.de/wirtschaft/umgehung-von-sanktionen-gegen-russische-oligarchen-fbi-hilft-zypern-bei-ermittlungen-a-dddc5d47-e8c3-4b73-9d1a-abdf616f4bb8#ref=rss)
+### zypern
 
-* [https://www.spiegel.de/politik/deutschland/cdu-politiker-thorsten-frei-zum-haushaltsstreit-ampelkoalition-beschert-uns-eine-phase-der-unsicherheit](https://www.spiegel.de/politik/deutschland/cdu-politiker-thorsten-frei-zum-haushaltsstreit-ampelkoalition-beschert-uns-eine-phase-der-unsicherheit-a-8545b978-a1d0-494a-ab6d-7e75eac3faad#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/haushalt-gruene-stemmen-sich-gegen-kuerzungen-bei-internationalen-hilfen](https://www.spiegel.de/politik/deutschland/haushalt-gruene-stemmen-sich-gegen-kuerzungen-bei-internationalen-hilfen-a-23880d0e-9f4c-4d1a-a61c-59b8c8b8a3ea#ref=rss)
-### time
+* [https://www.spiegel.de/wirtschaft/umgehung-von-sanktionen-gegen-russische-oligarchen-fbi-hilft-zypern-bei-ermittlungen](https://www.spiegel.de/wirtschaft/umgehung-von-sanktionen-gegen-russische-oligarchen-fbi-hilft-zypern-bei-ermittlungen-a-dddc5d47-e8c3-4b73-9d1a-abdf616f4bb8#ref=rss)
+### teilen
 
-* [https://www.spiegel.de/kultur/musik/time-taylor-swift-ist-person-of-the-year-2023](https://www.spiegel.de/kultur/musik/time-taylor-swift-ist-person-of-the-year-2023-a-cc08b4e4-7461-460e-9e54-7b137a9a1793#ref=rss)
-### taylor
+* [https://www.spiegel.de/wirtschaft/service/schufa-eugh-schraenkt-nutzung-des-umstrittenen-scores-ein](https://www.spiegel.de/wirtschaft/service/schufa-eugh-schraenkt-nutzung-des-umstrittenen-scores-ein-a-c4d5381e-2fe1-41e6-a00b-02e083a9c0c3#ref=rss)
+* [https://www.spiegel.de/ausland/russland-frauen-wollen-ihre-eingezogenen-maenner-von-der-front-holen](https://www.spiegel.de/ausland/russland-frauen-wollen-ihre-eingezogenen-maenner-von-der-front-holen-a-4839e11d-7567-49a4-bb45-e572369525b4#ref=rss)
+### märz
 
-* [https://www.spiegel.de/kultur/musik/time-taylor-swift-ist-person-of-the-year-2023](https://www.spiegel.de/kultur/musik/time-taylor-swift-ist-person-of-the-year-2023-a-cc08b4e4-7461-460e-9e54-7b137a9a1793#ref=rss)
-### swift
+* [https://www.spiegel.de/ausland/russland-praesidentschaftswahl-findet-am-17-maerz-statt](https://www.spiegel.de/ausland/russland-praesidentschaftswahl-findet-am-17-maerz-statt-a-fb739fef-e686-41b2-bc45-915dbcb0c952#ref=rss)
+### statt
 
-* [https://www.spiegel.de/kultur/musik/time-taylor-swift-ist-person-of-the-year-2023](https://www.spiegel.de/kultur/musik/time-taylor-swift-ist-person-of-the-year-2023-a-cc08b4e4-7461-460e-9e54-7b137a9a1793#ref=rss)
-### person
+* [https://www.spiegel.de/ausland/russland-praesidentschaftswahl-findet-am-17-maerz-statt](https://www.spiegel.de/ausland/russland-praesidentschaftswahl-findet-am-17-maerz-statt-a-fb739fef-e686-41b2-bc45-915dbcb0c952#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/haushalt-christian-lindner-hinterfragt-milliardenschwere-industrie-subventionen](https://www.spiegel.de/wirtschaft/unternehmen/haushalt-christian-lindner-hinterfragt-milliardenschwere-industrie-subventionen-a-d2af6deb-62a9-4250-b7b3-9a06b01954eb#ref=rss)
+### seychellen
 
-* [https://www.spiegel.de/kultur/musik/time-taylor-swift-ist-person-of-the-year-2023](https://www.spiegel.de/kultur/musik/time-taylor-swift-ist-person-of-the-year-2023-a-cc08b4e4-7461-460e-9e54-7b137a9a1793#ref=rss)
-### 2023
+* [https://www.spiegel.de/panorama/sprengstoffexplosion-auf-den-seychellen](https://www.spiegel.de/panorama/sprengstoffexplosion-auf-den-seychellen-a-ca90147f-5cb5-4946-961a-f75389445fc0#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/kultur/musik/time-taylor-swift-ist-person-of-the-year-2023](https://www.spiegel.de/kultur/musik/time-taylor-swift-ist-person-of-the-year-2023-a-cc08b4e4-7461-460e-9e54-7b137a9a1793#ref=rss)
-### widerstand
+* [https://www.spiegel.de/karriere/mutterschutz-nach-fehlgeburten-ich-habe-es-geschafft-mein-anliegen-in-den-bundestag-zu-bringen](https://www.spiegel.de/karriere/mutterschutz-nach-fehlgeburten-ich-habe-es-geschafft-mein-anliegen-in-den-bundestag-zu-bringen-a-c55a4deb-ec14-4418-989a-914c6ae1154f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/karl-lauterbach-telefonische-krankschreibung-soll-ab-heute-wieder-moeglich-sein](https://www.spiegel.de/wirtschaft/service/karl-lauterbach-telefonische-krankschreibung-soll-ab-heute-wieder-moeglich-sein-a-125319a9-c4ce-4ae2-885a-57288935dd49#ref=rss)
+### manchester
 
-* [https://www.spiegel.de/politik/deutschland/haushalt-gruene-stemmen-sich-gegen-kuerzungen-bei-internationalen-hilfen](https://www.spiegel.de/politik/deutschland/haushalt-gruene-stemmen-sich-gegen-kuerzungen-bei-internationalen-hilfen-a-23880d0e-9f4c-4d1a-a61c-59b8c8b8a3ea#ref=rss)
-* [https://www.spiegel.de/politik/gerichtsverfahren-justizminister-der-laender-lehnen-tonaufnahmen-in-gerichtsverfahren-ab](https://www.spiegel.de/politik/gerichtsverfahren-justizminister-der-laender-lehnen-tonaufnahmen-in-gerichtsverfahren-ab-a-fd784921-ddcb-4347-a8ef-22bc1f66f457#ref=rss)
-### gerichtsverfahren
+* [https://www.spiegel.de/sport/fussball/fussball-manchester-city-in-der-premier-league-nur-noch-vierter-pleite-gegen-aston-villa](https://www.spiegel.de/sport/fussball/fussball-manchester-city-in-der-premier-league-nur-noch-vierter-pleite-gegen-aston-villa-a-973a8b5e-79d7-4c24-904d-d7cea4150cab#ref=rss)
+### city
 
-* [https://www.spiegel.de/politik/gerichtsverfahren-justizminister-der-laender-lehnen-tonaufnahmen-in-gerichtsverfahren-ab](https://www.spiegel.de/politik/gerichtsverfahren-justizminister-der-laender-lehnen-tonaufnahmen-in-gerichtsverfahren-ab-a-fd784921-ddcb-4347-a8ef-22bc1f66f457#ref=rss)
-### fc
+* [https://www.spiegel.de/sport/fussball/fussball-manchester-city-in-der-premier-league-nur-noch-vierter-pleite-gegen-aston-villa](https://www.spiegel.de/sport/fussball/fussball-manchester-city-in-der-premier-league-nur-noch-vierter-pleite-gegen-aston-villa-a-973a8b5e-79d7-4c24-904d-d7cea4150cab#ref=rss)
+### premier
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-verpflichtet-bryan-zaragoza-offensivtalent-wechselt-im-sommer-2024](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-verpflichtet-bryan-zaragoza-offensivtalent-wechselt-im-sommer-2024-a-1ad4ed74-2e46-444b-9691-497342a8871a#ref=rss)
-### bayern
+* [https://www.spiegel.de/sport/fussball/fussball-manchester-city-in-der-premier-league-nur-noch-vierter-pleite-gegen-aston-villa](https://www.spiegel.de/sport/fussball/fussball-manchester-city-in-der-premier-league-nur-noch-vierter-pleite-gegen-aston-villa-a-973a8b5e-79d7-4c24-904d-d7cea4150cab#ref=rss)
+### league
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-verpflichtet-bryan-zaragoza-offensivtalent-wechselt-im-sommer-2024](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-verpflichtet-bryan-zaragoza-offensivtalent-wechselt-im-sommer-2024-a-1ad4ed74-2e46-444b-9691-497342a8871a#ref=rss)
-### bryan
+* [https://www.spiegel.de/sport/fussball/fussball-manchester-city-in-der-premier-league-nur-noch-vierter-pleite-gegen-aston-villa](https://www.spiegel.de/sport/fussball/fussball-manchester-city-in-der-premier-league-nur-noch-vierter-pleite-gegen-aston-villa-a-973a8b5e-79d7-4c24-904d-d7cea4150cab#ref=rss)
+### aston
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-verpflichtet-bryan-zaragoza-offensivtalent-wechselt-im-sommer-2024](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-verpflichtet-bryan-zaragoza-offensivtalent-wechselt-im-sommer-2024-a-1ad4ed74-2e46-444b-9691-497342a8871a#ref=rss)
-### zaragoza
+* [https://www.spiegel.de/sport/fussball/fussball-manchester-city-in-der-premier-league-nur-noch-vierter-pleite-gegen-aston-villa](https://www.spiegel.de/sport/fussball/fussball-manchester-city-in-der-premier-league-nur-noch-vierter-pleite-gegen-aston-villa-a-973a8b5e-79d7-4c24-904d-d7cea4150cab#ref=rss)
+### villa
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-verpflichtet-bryan-zaragoza-offensivtalent-wechselt-im-sommer-2024](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-verpflichtet-bryan-zaragoza-offensivtalent-wechselt-im-sommer-2024-a-1ad4ed74-2e46-444b-9691-497342a8871a#ref=rss)
-### emirate
+* [https://www.spiegel.de/sport/fussball/fussball-manchester-city-in-der-premier-league-nur-noch-vierter-pleite-gegen-aston-villa](https://www.spiegel.de/sport/fussball/fussball-manchester-city-in-der-premier-league-nur-noch-vierter-pleite-gegen-aston-villa-a-973a8b5e-79d7-4c24-904d-d7cea4150cab#ref=rss)
+### sechs
 
-* [https://www.spiegel.de/ausland/vereinigte-arabische-emirate-wladimir-putin-trifft-zu-kurzbesuch-am-golf-ein](https://www.spiegel.de/ausland/vereinigte-arabische-emirate-wladimir-putin-trifft-zu-kurzbesuch-am-golf-ein-a-5c0c16e6-8171-4205-b4a0-c1994d945a2b#ref=rss)
-### putin
+* [https://www.spiegel.de/sport/fussball/fussball-manchester-city-in-der-premier-league-nur-noch-vierter-pleite-gegen-aston-villa](https://www.spiegel.de/sport/fussball/fussball-manchester-city-in-der-premier-league-nur-noch-vierter-pleite-gegen-aston-villa-a-973a8b5e-79d7-4c24-904d-d7cea4150cab#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/geschenkideen-von-und-fuer-nerds-sechs-empfehlungen-der-netzwelt-redaktion](https://www.spiegel.de/netzwelt/web/geschenkideen-von-und-fuer-nerds-sechs-empfehlungen-der-netzwelt-redaktion-a-ebe00ba2-d29e-4ddd-b213-d2d95aac85c3#ref=rss)
+### wein
 
-* [https://www.spiegel.de/ausland/vereinigte-arabische-emirate-wladimir-putin-trifft-zu-kurzbesuch-am-golf-ein](https://www.spiegel.de/ausland/vereinigte-arabische-emirate-wladimir-putin-trifft-zu-kurzbesuch-am-golf-ein-a-5c0c16e6-8171-4205-b4a0-c1994d945a2b#ref=rss)
-### ersatzteile
+* [https://www.spiegel.de/wirtschaft/service/wein-und-sektflaschen-neue-naehrwert-und-zutatenkennzeichnung](https://www.spiegel.de/wirtschaft/service/wein-und-sektflaschen-neue-naehrwert-und-zutatenkennzeichnung-a-d6ddd293-3ce1-4d10-992e-9f35babd3f8d#ref=rss)
+### neue
 
-* [https://www.spiegel.de/wirtschaft/service/ersatzteile-eu-einigung-reparatur-defekter-produkte-soll-guenstiger-werden](https://www.spiegel.de/wirtschaft/service/ersatzteile-eu-einigung-reparatur-defekter-produkte-soll-guenstiger-werden-a-7ffbc9ed-419f-499f-8212-ae45ad9a7427#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/wein-und-sektflaschen-neue-naehrwert-und-zutatenkennzeichnung](https://www.spiegel.de/wirtschaft/service/wein-und-sektflaschen-neue-naehrwert-und-zutatenkennzeichnung-a-d6ddd293-3ce1-4d10-992e-9f35babd3f8d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/haushalt-christian-lindner-hinterfragt-milliardenschwere-industrie-subventionen](https://www.spiegel.de/wirtschaft/unternehmen/haushalt-christian-lindner-hinterfragt-milliardenschwere-industrie-subventionen-a-d2af6deb-62a9-4250-b7b3-9a06b01954eb#ref=rss)
+### nährwert
+
+* [https://www.spiegel.de/wirtschaft/service/wein-und-sektflaschen-neue-naehrwert-und-zutatenkennzeichnung](https://www.spiegel.de/wirtschaft/service/wein-und-sektflaschen-neue-naehrwert-und-zutatenkennzeichnung-a-d6ddd293-3ce1-4d10-992e-9f35babd3f8d#ref=rss)
+### empfehlungen
+
+* [https://www.spiegel.de/netzwelt/web/geschenkideen-von-und-fuer-nerds-sechs-empfehlungen-der-netzwelt-redaktion](https://www.spiegel.de/netzwelt/web/geschenkideen-von-und-fuer-nerds-sechs-empfehlungen-der-netzwelt-redaktion-a-ebe00ba2-d29e-4ddd-b213-d2d95aac85c3#ref=rss)
+### haushalt
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/haushalt-christian-lindner-hinterfragt-milliardenschwere-industrie-subventionen](https://www.spiegel.de/wirtschaft/unternehmen/haushalt-christian-lindner-hinterfragt-milliardenschwere-industrie-subventionen-a-d2af6deb-62a9-4250-b7b3-9a06b01954eb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-haushalt-chanukka-donald-trump-nikki-haley-bahn](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-haushalt-chanukka-donald-trump-nikki-haley-bahn-a-8d3f6956-9763-442a-a02e-edb4bb237804#ref=rss)
+### lindner
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/haushalt-christian-lindner-hinterfragt-milliardenschwere-industrie-subventionen](https://www.spiegel.de/wirtschaft/unternehmen/haushalt-christian-lindner-hinterfragt-milliardenschwere-industrie-subventionen-a-d2af6deb-62a9-4250-b7b3-9a06b01954eb#ref=rss)
+### sudan
+
+* [https://www.spiegel.de/ausland/sudan-beide-konfliktparteien-haben-laut-us-einschaetzung-kriegsverbrechen-begangen](https://www.spiegel.de/ausland/sudan-beide-konfliktparteien-haben-laut-us-einschaetzung-kriegsverbrechen-begangen-a-3e1278a4-4119-4ddf-bfdc-d9d3d02f2340#ref=rss)
+### beide
+
+* [https://www.spiegel.de/ausland/sudan-beide-konfliktparteien-haben-laut-us-einschaetzung-kriegsverbrechen-begangen](https://www.spiegel.de/ausland/sudan-beide-konfliktparteien-haben-laut-us-einschaetzung-kriegsverbrechen-begangen-a-3e1278a4-4119-4ddf-bfdc-d9d3d02f2340#ref=rss)
+### todesstrafe
+
+* [https://www.spiegel.de/panorama/justiz/japanische-staatsanwaltschaft-fordert-todesstrafe-fuer-angeklagten](https://www.spiegel.de/panorama/justiz/japanische-staatsanwaltschaft-fordert-todesstrafe-fuer-angeklagten-a-566b243c-bb3b-4f04-808c-b533e73dc08d#ref=rss)
+### angeklagten
+
+* [https://www.spiegel.de/panorama/justiz/japanische-staatsanwaltschaft-fordert-todesstrafe-fuer-angeklagten](https://www.spiegel.de/panorama/justiz/japanische-staatsanwaltschaft-fordert-todesstrafe-fuer-angeklagten-a-566b243c-bb3b-4f04-808c-b533e73dc08d#ref=rss)
+### krankschreibung
+
+* [https://www.spiegel.de/wirtschaft/service/karl-lauterbach-telefonische-krankschreibung-soll-ab-heute-wieder-moeglich-sein](https://www.spiegel.de/wirtschaft/service/karl-lauterbach-telefonische-krankschreibung-soll-ab-heute-wieder-moeglich-sein-a-125319a9-c4ce-4ae2-885a-57288935dd49#ref=rss)
+### attersee
+
+* [https://www.spiegel.de/reise/europa/wintertauchen-im-attersee-trockenuebung-im-wasser](https://www.spiegel.de/reise/europa/wintertauchen-im-attersee-trockenuebung-im-wasser-a-9466a31a-1d5e-40ab-bfb4-3a362419500f#ref=rss)
+### wasser
+
+* [https://www.spiegel.de/reise/europa/wintertauchen-im-attersee-trockenuebung-im-wasser](https://www.spiegel.de/reise/europa/wintertauchen-im-attersee-trockenuebung-im-wasser-a-9466a31a-1d5e-40ab-bfb4-3a362419500f#ref=rss)
+### donald
+
+* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-haushalt-chanukka-donald-trump-nikki-haley-bahn](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-haushalt-chanukka-donald-trump-nikki-haley-bahn-a-8d3f6956-9763-442a-a02e-edb4bb237804#ref=rss)
+### trump
+
+* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-haushalt-chanukka-donald-trump-nikki-haley-bahn](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-haushalt-chanukka-donald-trump-nikki-haley-bahn-a-8d3f6956-9763-442a-a02e-edb4bb237804#ref=rss)
+### nikki
+
+* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-haushalt-chanukka-donald-trump-nikki-haley-bahn](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-haushalt-chanukka-donald-trump-nikki-haley-bahn-a-8d3f6956-9763-442a-a02e-edb4bb237804#ref=rss)
+### haley
+
+* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-haushalt-chanukka-donald-trump-nikki-haley-bahn](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-haushalt-chanukka-donald-trump-nikki-haley-bahn-a-8d3f6956-9763-442a-a02e-edb4bb237804#ref=rss)
+### chan
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-schwere-gefechte-mit-hamas-kaempfern-in-chan-junis](https://www.spiegel.de/ausland/israel-gaza-krieg-schwere-gefechte-mit-hamas-kaempfern-in-chan-junis-a-c580a237-b323-4cf5-8bb9-82dc56e36785#ref=rss)
+### junis
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-schwere-gefechte-mit-hamas-kaempfern-in-chan-junis](https://www.spiegel.de/ausland/israel-gaza-krieg-schwere-gefechte-mit-hamas-kaempfern-in-chan-junis-a-c580a237-b323-4cf5-8bb9-82dc56e36785#ref=rss)
 
