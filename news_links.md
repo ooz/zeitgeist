@@ -4,289 +4,275 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
-
-* [https://www.spiegel.de/politik/deutschland/das-steht-in-der-ampel-strategie-gegen-einsamkeit-in-deutschland](https://www.spiegel.de/politik/deutschland/das-steht-in-der-ampel-strategie-gegen-einsamkeit-in-deutschland-a-907abe5e-c891-437c-bc23-605adf645454#ref=rss)
-* [https://www.spiegel.de/wirtschaft/blockade-an-erstem-polnisch-ukrainischen-grenzuebergang-aufgehoben](https://www.spiegel.de/wirtschaft/blockade-an-erstem-polnisch-ukrainischen-grenzuebergang-aufgehoben-a-fe05c2c2-52c0-472a-991b-2f06cd0da110#ref=rss)
-* [https://www.spiegel.de/auto/verkehrsunfaelle-statistisches-bundesamt-erwartet-2023-mehr-als-2-5-millionen-unfaelle](https://www.spiegel.de/auto/verkehrsunfaelle-statistisches-bundesamt-erwartet-2023-mehr-als-2-5-millionen-unfaelle-a-9fe25835-eef7-4988-8143-89219d967992#ref=rss)
-* [https://www.spiegel.de/wissenschaft/annalena-baerbock-deutschland-und-die-eu-lehnen-cop28-beschlussentwurf-ab](https://www.spiegel.de/wissenschaft/annalena-baerbock-deutschland-und-die-eu-lehnen-cop28-beschlussentwurf-ab-a-f4626f42-b6fe-4098-824b-af7e4bc78b6b#ref=rss)
-* [https://www.spiegel.de/ausland/polen-mateusz-morawiecki-verliert-vertrauensfrage-land-vor-regierungswechsel](https://www.spiegel.de/ausland/polen-mateusz-morawiecki-verliert-vertrauensfrage-land-vor-regierungswechsel-a-40787b59-8788-4af5-91bd-31e1c58faf5b#ref=rss)
-* [https://www.spiegel.de/ausland/russland-alexej-nawalny-offenbar-nicht-mehr-in-seiner-strafkolonie-inhaftiert](https://www.spiegel.de/ausland/russland-alexej-nawalny-offenbar-nicht-mehr-in-seiner-strafkolonie-inhaftiert-a-a1cfb0a6-1607-42f8-9686-617bf22c1142#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/deutschland/das-steht-in-der-ampel-strategie-gegen-einsamkeit-in-deutschland](https://www.spiegel.de/politik/deutschland/das-steht-in-der-ampel-strategie-gegen-einsamkeit-in-deutschland-a-907abe5e-c891-437c-bc23-605adf645454#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/haushalt-2024-droht-deutschland-jetzt-ein-shutdown-wie-in-den-usa](https://www.spiegel.de/politik/deutschland/haushalt-2024-droht-deutschland-jetzt-ein-shutdown-wie-in-den-usa-a-7f33e8f8-4482-4ad2-bdbc-fbf98ab00dd7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/annalena-baerbock-deutschland-und-die-eu-lehnen-cop28-beschlussentwurf-ab](https://www.spiegel.de/wissenschaft/annalena-baerbock-deutschland-und-die-eu-lehnen-cop28-beschlussentwurf-ab-a-f4626f42-b6fe-4098-824b-af7e4bc78b6b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-und-signa-fuer-die-innenstaedte-kann-der-galeria-niedergang-eine-grosse-chance-sein](https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-und-signa-fuer-die-innenstaedte-kann-der-galeria-niedergang-eine-grosse-chance-sein-a-5fef5069-efc3-4279-b5a5-9bb093a4bfc1#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/israelischer-soldat-auf-fronturlaub-in-berlin-morgen-geht-lev-zurueck-in-den-krieg](https://www.spiegel.de/panorama/gesellschaft/israelischer-soldat-auf-fronturlaub-in-berlin-morgen-geht-lev-zurueck-in-den-krieg-a-fd545f82-e6bf-4c94-9d22-3eafadc64c87#ref=rss)
-### cdu
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-angela-merkel-und-die-cdu-fluechtlingsrouten-hotelbuchung-mit-booking-com](https://www.spiegel.de/politik/deutschland/news-des-tages-angela-merkel-und-die-cdu-fluechtlingsrouten-hotelbuchung-mit-booking-com-a-9556c764-37c8-4ba6-997b-783ad4e6bcad#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-entwurf-zum-neuen-grundsatzprogramm-die-fuenf-groessten-aufreger](https://www.spiegel.de/politik/deutschland/cdu-entwurf-zum-neuen-grundsatzprogramm-die-fuenf-groessten-aufreger-a-7e27f063-efa0-4517-8ad2-3fc49ce57b23#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-entwurf-zum-grundsatzprogramm-mit-diesen-themen-will-die-union-den-machtwechsel-schaffen](https://www.spiegel.de/politik/deutschland/cdu-entwurf-zum-grundsatzprogramm-mit-diesen-themen-will-die-union-den-machtwechsel-schaffen-a-d1f8c831-25c9-4a8c-8edc-833e407dd4f1#ref=rss)
-### wo
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-angela-merkel-und-die-cdu-fluechtlingsrouten-hotelbuchung-mit-booking-com](https://www.spiegel.de/politik/deutschland/news-des-tages-angela-merkel-und-die-cdu-fluechtlingsrouten-hotelbuchung-mit-booking-com-a-9556c764-37c8-4ba6-997b-783ad4e6bcad#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/weltklimakonferenz-in-dubai-wo-stehen-die-verhandlungen-jetzt-wo-hakt-es-wie-geht-es-weiter](https://www.spiegel.de/wissenschaft/natur/weltklimakonferenz-in-dubai-wo-stehen-die-verhandlungen-jetzt-wo-hakt-es-wie-geht-es-weiter-a-bad0133a-4d9b-453b-892d-04b938080af2#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussballnationalmannschaft-der-frauen-in-der-krise-vor-dem-schicksalsjahr](https://www.spiegel.de/sport/fussball/fussballnationalmannschaft-der-frauen-in-der-krise-vor-dem-schicksalsjahr-a-1b490cf5-c52d-4a42-a537-a8d48fa00e08#ref=rss)
-### fußball
-
-* [https://www.spiegel.de/sport/fussball/fussball-deutsche-fussball-liga-entscheidet-sich-knapp-fuer-einstieg-eines-investors](https://www.spiegel.de/sport/fussball/fussball-deutsche-fussball-liga-entscheidet-sich-knapp-fuer-einstieg-eines-investors-a-e79fb147-039e-44d3-8e78-18bcc27e020d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussballnationalmannschaft-der-frauen-in-der-krise-vor-dem-schicksalsjahr](https://www.spiegel.de/sport/fussball/fussballnationalmannschaft-der-frauen-in-der-krise-vor-dem-schicksalsjahr-a-1b490cf5-c52d-4a42-a537-a8d48fa00e08#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/sport/fussball/fussball-deutsche-fussball-liga-entscheidet-sich-knapp-fuer-einstieg-eines-investors](https://www.spiegel.de/sport/fussball/fussball-deutsche-fussball-liga-entscheidet-sich-knapp-fuer-einstieg-eines-investors-a-e79fb147-039e-44d3-8e78-18bcc27e020d#ref=rss)
-* [https://www.spiegel.de/kultur/kino/golden-globes-barbie-neunmal-nominiert-dicht-gefolgt-von-oppenheimer](https://www.spiegel.de/kultur/kino/golden-globes-barbie-neunmal-nominiert-dicht-gefolgt-von-oppenheimer-a-cecfd40a-eeb2-4db4-929b-76e2ac1fd384#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussballnationalmannschaft-der-frauen-in-der-krise-vor-dem-schicksalsjahr](https://www.spiegel.de/sport/fussball/fussballnationalmannschaft-der-frauen-in-der-krise-vor-dem-schicksalsjahr-a-1b490cf5-c52d-4a42-a537-a8d48fa00e08#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-gdl-chef-claus-weselsky-poltert-gegen-bahn-vorstand-wegen-boni](https://www.spiegel.de/wirtschaft/deutsche-bahn-gdl-chef-claus-weselsky-poltert-gegen-bahn-vorstand-wegen-boni-a-63dc4305-9037-4ece-b886-fa9bc415d689#ref=rss)
-### entwurf
-
-* [https://www.spiegel.de/wissenschaft/annalena-baerbock-deutschland-und-die-eu-lehnen-cop28-beschlussentwurf-ab](https://www.spiegel.de/wissenschaft/annalena-baerbock-deutschland-und-die-eu-lehnen-cop28-beschlussentwurf-ab-a-f4626f42-b6fe-4098-824b-af7e4bc78b6b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-entwurf-zum-neuen-grundsatzprogramm-die-fuenf-groessten-aufreger](https://www.spiegel.de/politik/deutschland/cdu-entwurf-zum-neuen-grundsatzprogramm-die-fuenf-groessten-aufreger-a-7e27f063-efa0-4517-8ad2-3fc49ce57b23#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-entwurf-zum-grundsatzprogramm-mit-diesen-themen-will-die-union-den-machtwechsel-schaffen](https://www.spiegel.de/politik/deutschland/cdu-entwurf-zum-grundsatzprogramm-mit-diesen-themen-will-die-union-den-machtwechsel-schaffen-a-d1f8c831-25c9-4a8c-8edc-833e407dd4f1#ref=rss)
-### anklage
-
-* [https://www.spiegel.de/panorama/mutmassliche-reichsbuerger-terroristen-generalbundesanwalt-erhebt-anklage-gegen-prinz-reuss-gruppe](https://www.spiegel.de/panorama/mutmassliche-reichsbuerger-terroristen-generalbundesanwalt-erhebt-anklage-gegen-prinz-reuss-gruppe-a-71f25b44-2d7d-46f0-8190-e370a8e5e7e6#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ratingen-rettungskraefte-in-brand-gesteckt-anklage-fordert-lebenslange-haft](https://www.spiegel.de/panorama/justiz/ratingen-rettungskraefte-in-brand-gesteckt-anklage-fordert-lebenslange-haft-a-795a97de-39b3-4ad3-b3df-12434a350dd4#ref=rss)
-### leben
-
-* [https://www.spiegel.de/wissenschaft/technik/suizide-an-der-golden-gate-bruecke-ein-netz-aus-stahl-soll-leben-retten](https://www.spiegel.de/wissenschaft/technik/suizide-an-der-golden-gate-bruecke-ein-netz-aus-stahl-soll-leben-retten-a-0df68803-8a70-432f-a8d6-d52cc6ba425d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-und-signa-fuer-die-innenstaedte-kann-der-galeria-niedergang-eine-grosse-chance-sein](https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-und-signa-fuer-die-innenstaedte-kann-der-galeria-niedergang-eine-grosse-chance-sein-a-5fef5069-efc3-4279-b5a5-9bb093a4bfc1#ref=rss)
-### themen
-
-* [https://www.spiegel.de/politik/deutschland/das-steht-in-der-ampel-strategie-gegen-einsamkeit-in-deutschland](https://www.spiegel.de/politik/deutschland/das-steht-in-der-ampel-strategie-gegen-einsamkeit-in-deutschland-a-907abe5e-c891-437c-bc23-605adf645454#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-entwurf-zum-neuen-grundsatzprogramm-die-fuenf-groessten-aufreger](https://www.spiegel.de/politik/deutschland/cdu-entwurf-zum-neuen-grundsatzprogramm-die-fuenf-groessten-aufreger-a-7e27f063-efa0-4517-8ad2-3fc49ce57b23#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-entwurf-zum-grundsatzprogramm-mit-diesen-themen-will-die-union-den-machtwechsel-schaffen](https://www.spiegel.de/politik/deutschland/cdu-entwurf-zum-grundsatzprogramm-mit-diesen-themen-will-die-union-den-machtwechsel-schaffen-a-d1f8c831-25c9-4a8c-8edc-833e407dd4f1#ref=rss)
-### unter
-
-* [https://www.spiegel.de/politik/deutschland/haushalt-2024-droht-deutschland-jetzt-ein-shutdown-wie-in-den-usa](https://www.spiegel.de/politik/deutschland/haushalt-2024-droht-deutschland-jetzt-ein-shutdown-wie-in-den-usa-a-7f33e8f8-4482-4ad2-bdbc-fbf98ab00dd7#ref=rss)
-* [https://www.spiegel.de/panorama/im-pariser-hotel-ritz-angeblich-geklauter-ring-taucht-wieder-auf-in-staubsaugerbeutel](https://www.spiegel.de/panorama/im-pariser-hotel-ritz-angeblich-geklauter-ring-taucht-wieder-auf-in-staubsaugerbeutel-a-77f79395-e2ba-4952-84ce-12fe040f3042#ref=rss)
-* [https://www.spiegel.de/wissenschaft/atlantischer-lachs-weltnaturschutzunion-stuft-fisch-als-potenziell-gefaehrdet-ein](https://www.spiegel.de/wissenschaft/atlantischer-lachs-weltnaturschutzunion-stuft-fisch-als-potenziell-gefaehrdet-ein-a-fba2ec13-d2c0-4599-84ba-ba5fc59e17e2#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/ukraine-und-polen-warum-blockieren-polens-trucker-die-grenze](https://www.spiegel.de/ausland/ukraine-und-polen-warum-blockieren-polens-trucker-die-grenze-a-fc311de9-3fcf-4e5e-9e5d-5af47c6d24ca#ref=rss)
-* [https://www.spiegel.de/wirtschaft/blockade-an-erstem-polnisch-ukrainischen-grenzuebergang-aufgehoben](https://www.spiegel.de/wirtschaft/blockade-an-erstem-polnisch-ukrainischen-grenzuebergang-aufgehoben-a-fe05c2c2-52c0-472a-991b-2f06cd0da110#ref=rss)
-### eu
-
-* [https://www.spiegel.de/ausland/ukraine-und-polen-warum-blockieren-polens-trucker-die-grenze](https://www.spiegel.de/ausland/ukraine-und-polen-warum-blockieren-polens-trucker-die-grenze-a-fc311de9-3fcf-4e5e-9e5d-5af47c6d24ca#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-angela-merkel-und-die-cdu-fluechtlingsrouten-hotelbuchung-mit-booking-com](https://www.spiegel.de/politik/deutschland/news-des-tages-angela-merkel-und-die-cdu-fluechtlingsrouten-hotelbuchung-mit-booking-com-a-9556c764-37c8-4ba6-997b-783ad4e6bcad#ref=rss)
-* [https://www.spiegel.de/wissenschaft/annalena-baerbock-deutschland-und-die-eu-lehnen-cop28-beschlussentwurf-ab](https://www.spiegel.de/wissenschaft/annalena-baerbock-deutschland-und-die-eu-lehnen-cop28-beschlussentwurf-ab-a-f4626f42-b6fe-4098-824b-af7e4bc78b6b#ref=rss)
-### weltklimakonferenz
-
-* [https://www.spiegel.de/wissenschaft/annalena-baerbock-deutschland-und-die-eu-lehnen-cop28-beschlussentwurf-ab](https://www.spiegel.de/wissenschaft/annalena-baerbock-deutschland-und-die-eu-lehnen-cop28-beschlussentwurf-ab-a-f4626f42-b6fe-4098-824b-af7e4bc78b6b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/weltklimakonferenz-in-dubai-wo-stehen-die-verhandlungen-jetzt-wo-hakt-es-wie-geht-es-weiter](https://www.spiegel.de/wissenschaft/natur/weltklimakonferenz-in-dubai-wo-stehen-die-verhandlungen-jetzt-wo-hakt-es-wie-geht-es-weiter-a-bad0133a-4d9b-453b-892d-04b938080af2#ref=rss)
-### stehen
-
-* [https://www.spiegel.de/wissenschaft/natur/weltklimakonferenz-in-dubai-wo-stehen-die-verhandlungen-jetzt-wo-hakt-es-wie-geht-es-weiter](https://www.spiegel.de/wissenschaft/natur/weltklimakonferenz-in-dubai-wo-stehen-die-verhandlungen-jetzt-wo-hakt-es-wie-geht-es-weiter-a-bad0133a-4d9b-453b-892d-04b938080af2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-entwurf-zum-grundsatzprogramm-mit-diesen-themen-will-die-union-den-machtwechsel-schaffen](https://www.spiegel.de/politik/deutschland/cdu-entwurf-zum-grundsatzprogramm-mit-diesen-themen-will-die-union-den-machtwechsel-schaffen-a-d1f8c831-25c9-4a8c-8edc-833e407dd4f1#ref=rss)
-### grundsatzprogramm
-
-* [https://www.spiegel.de/politik/deutschland/cdu-entwurf-zum-neuen-grundsatzprogramm-die-fuenf-groessten-aufreger](https://www.spiegel.de/politik/deutschland/cdu-entwurf-zum-neuen-grundsatzprogramm-die-fuenf-groessten-aufreger-a-7e27f063-efa0-4517-8ad2-3fc49ce57b23#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-entwurf-zum-grundsatzprogramm-mit-diesen-themen-will-die-union-den-machtwechsel-schaffen](https://www.spiegel.de/politik/deutschland/cdu-entwurf-zum-grundsatzprogramm-mit-diesen-themen-will-die-union-den-machtwechsel-schaffen-a-d1f8c831-25c9-4a8c-8edc-833e407dd4f1#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/sport/fussball/fussballnationalmannschaft-der-frauen-in-der-krise-vor-dem-schicksalsjahr](https://www.spiegel.de/sport/fussball/fussballnationalmannschaft-der-frauen-in-der-krise-vor-dem-schicksalsjahr-a-1b490cf5-c52d-4a42-a537-a8d48fa00e08#ref=rss)
-* [https://www.spiegel.de/kultur/enid-blyton-hatte-die-autorin-eine-lesbische-affaere-das-war-meine-grossmutter](https://www.spiegel.de/kultur/enid-blyton-hatte-die-autorin-eine-lesbische-affaere-das-war-meine-grossmutter-a-4ae3d8e7-c32a-4512-a3bf-6148e0cc7dde#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/wissenschaft/technik/suizide-an-der-golden-gate-bruecke-ein-netz-aus-stahl-soll-leben-retten](https://www.spiegel.de/wissenschaft/technik/suizide-an-der-golden-gate-bruecke-ein-netz-aus-stahl-soll-leben-retten-a-0df68803-8a70-432f-a8d6-d52cc6ba425d#ref=rss)
-* [https://www.spiegel.de/auto/verkehrsunfaelle-statistisches-bundesamt-erwartet-2023-mehr-als-2-5-millionen-unfaelle](https://www.spiegel.de/auto/verkehrsunfaelle-statistisches-bundesamt-erwartet-2023-mehr-als-2-5-millionen-unfaelle-a-9fe25835-eef7-4988-8143-89219d967992#ref=rss)
-### einsamkeit
-
-* [https://www.spiegel.de/politik/deutschland/das-steht-in-der-ampel-strategie-gegen-einsamkeit-in-deutschland](https://www.spiegel.de/politik/deutschland/das-steht-in-der-ampel-strategie-gegen-einsamkeit-in-deutschland-a-907abe5e-c891-437c-bc23-605adf645454#ref=rss)
-### 2024
-
-* [https://www.spiegel.de/politik/deutschland/haushalt-2024-droht-deutschland-jetzt-ein-shutdown-wie-in-den-usa](https://www.spiegel.de/politik/deutschland/haushalt-2024-droht-deutschland-jetzt-ein-shutdown-wie-in-den-usa-a-7f33e8f8-4482-4ad2-bdbc-fbf98ab00dd7#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussballnationalmannschaft-der-frauen-in-der-krise-vor-dem-schicksalsjahr](https://www.spiegel.de/sport/fussball/fussballnationalmannschaft-der-frauen-in-der-krise-vor-dem-schicksalsjahr-a-1b490cf5-c52d-4a42-a537-a8d48fa00e08#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/politik/deutschland/haushalt-2024-droht-deutschland-jetzt-ein-shutdown-wie-in-den-usa](https://www.spiegel.de/politik/deutschland/haushalt-2024-droht-deutschland-jetzt-ein-shutdown-wie-in-den-usa-a-7f33e8f8-4482-4ad2-bdbc-fbf98ab00dd7#ref=rss)
-* [https://www.spiegel.de/auto/verkehrsunfaelle-statistisches-bundesamt-erwartet-2023-mehr-als-2-5-millionen-unfaelle](https://www.spiegel.de/auto/verkehrsunfaelle-statistisches-bundesamt-erwartet-2023-mehr-als-2-5-millionen-unfaelle-a-9fe25835-eef7-4988-8143-89219d967992#ref=rss)
-### neue
-
-* [https://www.spiegel.de/politik/deutschland/haushalt-2024-droht-deutschland-jetzt-ein-shutdown-wie-in-den-usa](https://www.spiegel.de/politik/deutschland/haushalt-2024-droht-deutschland-jetzt-ein-shutdown-wie-in-den-usa-a-7f33e8f8-4482-4ad2-bdbc-fbf98ab00dd7#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussballnationalmannschaft-der-frauen-in-der-krise-vor-dem-schicksalsjahr](https://www.spiegel.de/sport/fussball/fussballnationalmannschaft-der-frauen-in-der-krise-vor-dem-schicksalsjahr-a-1b490cf5-c52d-4a42-a537-a8d48fa00e08#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/politik/deutschland/haushalt-2024-droht-deutschland-jetzt-ein-shutdown-wie-in-den-usa](https://www.spiegel.de/politik/deutschland/haushalt-2024-droht-deutschland-jetzt-ein-shutdown-wie-in-den-usa-a-7f33e8f8-4482-4ad2-bdbc-fbf98ab00dd7#ref=rss)
-* [https://www.spiegel.de/panorama/mutmassliche-reichsbuerger-terroristen-generalbundesanwalt-erhebt-anklage-gegen-prinz-reuss-gruppe](https://www.spiegel.de/panorama/mutmassliche-reichsbuerger-terroristen-generalbundesanwalt-erhebt-anklage-gegen-prinz-reuss-gruppe-a-71f25b44-2d7d-46f0-8190-e370a8e5e7e6#ref=rss)
-### anderem
-
-* [https://www.spiegel.de/politik/deutschland/haushalt-2024-droht-deutschland-jetzt-ein-shutdown-wie-in-den-usa](https://www.spiegel.de/politik/deutschland/haushalt-2024-droht-deutschland-jetzt-ein-shutdown-wie-in-den-usa-a-7f33e8f8-4482-4ad2-bdbc-fbf98ab00dd7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/atlantischer-lachs-weltnaturschutzunion-stuft-fisch-als-potenziell-gefaehrdet-ein](https://www.spiegel.de/wissenschaft/atlantischer-lachs-weltnaturschutzunion-stuft-fisch-als-potenziell-gefaehrdet-ein-a-fba2ec13-d2c0-4599-84ba-ba5fc59e17e2#ref=rss)
-### polen
-
-* [https://www.spiegel.de/ausland/ukraine-und-polen-warum-blockieren-polens-trucker-die-grenze](https://www.spiegel.de/ausland/ukraine-und-polen-warum-blockieren-polens-trucker-die-grenze-a-fc311de9-3fcf-4e5e-9e5d-5af47c6d24ca#ref=rss)
-* [https://www.spiegel.de/ausland/polen-mateusz-morawiecki-verliert-vertrauensfrage-land-vor-regierungswechsel](https://www.spiegel.de/ausland/polen-mateusz-morawiecki-verliert-vertrauensfrage-land-vor-regierungswechsel-a-40787b59-8788-4af5-91bd-31e1c58faf5b#ref=rss)
-### blockieren
-
-* [https://www.spiegel.de/ausland/ukraine-und-polen-warum-blockieren-polens-trucker-die-grenze](https://www.spiegel.de/ausland/ukraine-und-polen-warum-blockieren-polens-trucker-die-grenze-a-fc311de9-3fcf-4e5e-9e5d-5af47c6d24ca#ref=rss)
-### trucker
-
-* [https://www.spiegel.de/ausland/ukraine-und-polen-warum-blockieren-polens-trucker-die-grenze](https://www.spiegel.de/ausland/ukraine-und-polen-warum-blockieren-polens-trucker-die-grenze-a-fc311de9-3fcf-4e5e-9e5d-5af47c6d24ca#ref=rss)
-### grenze
-
-* [https://www.spiegel.de/ausland/ukraine-und-polen-warum-blockieren-polens-trucker-die-grenze](https://www.spiegel.de/ausland/ukraine-und-polen-warum-blockieren-polens-trucker-die-grenze-a-fc311de9-3fcf-4e5e-9e5d-5af47c6d24ca#ref=rss)
-* [https://www.spiegel.de/wirtschaft/blockade-an-erstem-polnisch-ukrainischen-grenzuebergang-aufgehoben](https://www.spiegel.de/wirtschaft/blockade-an-erstem-polnisch-ukrainischen-grenzuebergang-aufgehoben-a-fe05c2c2-52c0-472a-991b-2f06cd0da110#ref=rss)
-### polnische
-
-* [https://www.spiegel.de/ausland/ukraine-und-polen-warum-blockieren-polens-trucker-die-grenze](https://www.spiegel.de/ausland/ukraine-und-polen-warum-blockieren-polens-trucker-die-grenze-a-fc311de9-3fcf-4e5e-9e5d-5af47c6d24ca#ref=rss)
-* [https://www.spiegel.de/wirtschaft/blockade-an-erstem-polnisch-ukrainischen-grenzuebergang-aufgehoben](https://www.spiegel.de/wirtschaft/blockade-an-erstem-polnisch-ukrainischen-grenzuebergang-aufgehoben-a-fe05c2c2-52c0-472a-991b-2f06cd0da110#ref=rss)
-### merkel
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-angela-merkel-und-die-cdu-fluechtlingsrouten-hotelbuchung-mit-booking-com](https://www.spiegel.de/politik/deutschland/news-des-tages-angela-merkel-und-die-cdu-fluechtlingsrouten-hotelbuchung-mit-booking-com-a-9556c764-37c8-4ba6-997b-783ad4e6bcad#ref=rss)
-### bookingcom
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-angela-merkel-und-die-cdu-fluechtlingsrouten-hotelbuchung-mit-booking-com](https://www.spiegel.de/politik/deutschland/news-des-tages-angela-merkel-und-die-cdu-fluechtlingsrouten-hotelbuchung-mit-booking-com-a-9556c764-37c8-4ba6-997b-783ad4e6bcad#ref=rss)
-### ring
-
-* [https://www.spiegel.de/panorama/im-pariser-hotel-ritz-angeblich-geklauter-ring-taucht-wieder-auf-in-staubsaugerbeutel](https://www.spiegel.de/panorama/im-pariser-hotel-ritz-angeblich-geklauter-ring-taucht-wieder-auf-in-staubsaugerbeutel-a-77f79395-e2ba-4952-84ce-12fe040f3042#ref=rss)
-### erwartet
-
-* [https://www.spiegel.de/auto/verkehrsunfaelle-statistisches-bundesamt-erwartet-2023-mehr-als-2-5-millionen-unfaelle](https://www.spiegel.de/auto/verkehrsunfaelle-statistisches-bundesamt-erwartet-2023-mehr-als-2-5-millionen-unfaelle-a-9fe25835-eef7-4988-8143-89219d967992#ref=rss)
-* [https://www.spiegel.de/ausland/polen-mateusz-morawiecki-verliert-vertrauensfrage-land-vor-regierungswechsel](https://www.spiegel.de/ausland/polen-mateusz-morawiecki-verliert-vertrauensfrage-land-vor-regierungswechsel-a-40787b59-8788-4af5-91bd-31e1c58faf5b#ref=rss)
-### einstieg
-
-* [https://www.spiegel.de/sport/fussball/fussball-deutsche-fussball-liga-entscheidet-sich-knapp-fuer-einstieg-eines-investors](https://www.spiegel.de/sport/fussball/fussball-deutsche-fussball-liga-entscheidet-sich-knapp-fuer-einstieg-eines-investors-a-e79fb147-039e-44d3-8e78-18bcc27e020d#ref=rss)
-### investors
-
-* [https://www.spiegel.de/sport/fussball/fussball-deutsche-fussball-liga-entscheidet-sich-knapp-fuer-einstieg-eines-investors](https://www.spiegel.de/sport/fussball/fussball-deutsche-fussball-liga-entscheidet-sich-knapp-fuer-einstieg-eines-investors-a-e79fb147-039e-44d3-8e78-18bcc27e020d#ref=rss)
-### mehrheit
-
-* [https://www.spiegel.de/sport/fussball/fussball-deutsche-fussball-liga-entscheidet-sich-knapp-fuer-einstieg-eines-investors](https://www.spiegel.de/sport/fussball/fussball-deutsche-fussball-liga-entscheidet-sich-knapp-fuer-einstieg-eines-investors-a-e79fb147-039e-44d3-8e78-18bcc27e020d#ref=rss)
-* [https://www.spiegel.de/ausland/polen-mateusz-morawiecki-verliert-vertrauensfrage-land-vor-regierungswechsel](https://www.spiegel.de/ausland/polen-mateusz-morawiecki-verliert-vertrauensfrage-land-vor-regierungswechsel-a-40787b59-8788-4af5-91bd-31e1c58faf5b#ref=rss)
-### ariarne
-
-* [https://www.spiegel.de/sport/ariarne-titmus-warum-eine-olympiasiegerin-sich-genoetigt-fuehlt-ihre-eierstock-operation-oeffentlich-zu-machen](https://www.spiegel.de/sport/ariarne-titmus-warum-eine-olympiasiegerin-sich-genoetigt-fuehlt-ihre-eierstock-operation-oeffentlich-zu-machen-a-ccfc6b3a-4388-4588-9200-1ffe64d02f3b#ref=rss)
-### titmus
-
-* [https://www.spiegel.de/sport/ariarne-titmus-warum-eine-olympiasiegerin-sich-genoetigt-fuehlt-ihre-eierstock-operation-oeffentlich-zu-machen](https://www.spiegel.de/sport/ariarne-titmus-warum-eine-olympiasiegerin-sich-genoetigt-fuehlt-ihre-eierstock-operation-oeffentlich-zu-machen-a-ccfc6b3a-4388-4588-9200-1ffe64d02f3b#ref=rss)
-### kurz
-
-* [https://www.spiegel.de/sport/ariarne-titmus-warum-eine-olympiasiegerin-sich-genoetigt-fuehlt-ihre-eierstock-operation-oeffentlich-zu-machen](https://www.spiegel.de/sport/ariarne-titmus-warum-eine-olympiasiegerin-sich-genoetigt-fuehlt-ihre-eierstock-operation-oeffentlich-zu-machen-a-ccfc6b3a-4388-4588-9200-1ffe64d02f3b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/weltklimakonferenz-in-dubai-wo-stehen-die-verhandlungen-jetzt-wo-hakt-es-wie-geht-es-weiter](https://www.spiegel.de/wissenschaft/natur/weltklimakonferenz-in-dubai-wo-stehen-die-verhandlungen-jetzt-wo-hakt-es-wie-geht-es-weiter-a-bad0133a-4d9b-453b-892d-04b938080af2#ref=rss)
-### annalena
-
-* [https://www.spiegel.de/wissenschaft/annalena-baerbock-deutschland-und-die-eu-lehnen-cop28-beschlussentwurf-ab](https://www.spiegel.de/wissenschaft/annalena-baerbock-deutschland-und-die-eu-lehnen-cop28-beschlussentwurf-ab-a-f4626f42-b6fe-4098-824b-af7e4bc78b6b#ref=rss)
-### baerbock
-
-* [https://www.spiegel.de/wissenschaft/annalena-baerbock-deutschland-und-die-eu-lehnen-cop28-beschlussentwurf-ab](https://www.spiegel.de/wissenschaft/annalena-baerbock-deutschland-und-die-eu-lehnen-cop28-beschlussentwurf-ab-a-f4626f42-b6fe-4098-824b-af7e4bc78b6b#ref=rss)
-### dubai
-
-* [https://www.spiegel.de/wissenschaft/annalena-baerbock-deutschland-und-die-eu-lehnen-cop28-beschlussentwurf-ab](https://www.spiegel.de/wissenschaft/annalena-baerbock-deutschland-und-die-eu-lehnen-cop28-beschlussentwurf-ab-a-f4626f42-b6fe-4098-824b-af7e4bc78b6b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/weltklimakonferenz-in-dubai-wo-stehen-die-verhandlungen-jetzt-wo-hakt-es-wie-geht-es-weiter](https://www.spiegel.de/wissenschaft/natur/weltklimakonferenz-in-dubai-wo-stehen-die-verhandlungen-jetzt-wo-hakt-es-wie-geht-es-weiter-a-bad0133a-4d9b-453b-892d-04b938080af2#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/wissenschaft/annalena-baerbock-deutschland-und-die-eu-lehnen-cop28-beschlussentwurf-ab](https://www.spiegel.de/wissenschaft/annalena-baerbock-deutschland-und-die-eu-lehnen-cop28-beschlussentwurf-ab-a-f4626f42-b6fe-4098-824b-af7e4bc78b6b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-und-signa-fuer-die-innenstaedte-kann-der-galeria-niedergang-eine-grosse-chance-sein](https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-und-signa-fuer-die-innenstaedte-kann-der-galeria-niedergang-eine-grosse-chance-sein-a-5fef5069-efc3-4279-b5a5-9bb093a4bfc1#ref=rss)
-### ausstieg
-
-* [https://www.spiegel.de/wissenschaft/annalena-baerbock-deutschland-und-die-eu-lehnen-cop28-beschlussentwurf-ab](https://www.spiegel.de/wissenschaft/annalena-baerbock-deutschland-und-die-eu-lehnen-cop28-beschlussentwurf-ab-a-f4626f42-b6fe-4098-824b-af7e4bc78b6b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fdp-bundesvorstand-leitet-basisvotum-ueber-aus-der-ampel-ein](https://www.spiegel.de/politik/deutschland/fdp-bundesvorstand-leitet-basisvotum-ueber-aus-der-ampel-ein-a-14e492aa-0331-439c-b65e-055236fa6d6e#ref=rss)
-### verhandlungen
-
-* [https://www.spiegel.de/wissenschaft/natur/weltklimakonferenz-in-dubai-wo-stehen-die-verhandlungen-jetzt-wo-hakt-es-wie-geht-es-weiter](https://www.spiegel.de/wissenschaft/natur/weltklimakonferenz-in-dubai-wo-stehen-die-verhandlungen-jetzt-wo-hakt-es-wie-geht-es-weiter-a-bad0133a-4d9b-453b-892d-04b938080af2#ref=rss)
-### hakt
-
-* [https://www.spiegel.de/wissenschaft/natur/weltklimakonferenz-in-dubai-wo-stehen-die-verhandlungen-jetzt-wo-hakt-es-wie-geht-es-weiter](https://www.spiegel.de/wissenschaft/natur/weltklimakonferenz-in-dubai-wo-stehen-die-verhandlungen-jetzt-wo-hakt-es-wie-geht-es-weiter-a-bad0133a-4d9b-453b-892d-04b938080af2#ref=rss)
-### ende
-
-* [https://www.spiegel.de/wissenschaft/natur/weltklimakonferenz-in-dubai-wo-stehen-die-verhandlungen-jetzt-wo-hakt-es-wie-geht-es-weiter](https://www.spiegel.de/wissenschaft/natur/weltklimakonferenz-in-dubai-wo-stehen-die-verhandlungen-jetzt-wo-hakt-es-wie-geht-es-weiter-a-bad0133a-4d9b-453b-892d-04b938080af2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-und-signa-fuer-die-innenstaedte-kann-der-galeria-niedergang-eine-grosse-chance-sein](https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-und-signa-fuer-die-innenstaedte-kann-der-galeria-niedergang-eine-grosse-chance-sein-a-5fef5069-efc3-4279-b5a5-9bb093a4bfc1#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/panorama/landshut-kinder-finden-geladene-schreckschusswaffe-in-zu-verschenken-kiste](https://www.spiegel.de/panorama/landshut-kinder-finden-geladene-schreckschusswaffe-in-zu-verschenken-kiste-a-e7d3d0e2-f0a4-45ec-9c97-de052fb0353b#ref=rss)
-### geladene
-
-* [https://www.spiegel.de/panorama/landshut-kinder-finden-geladene-schreckschusswaffe-in-zu-verschenken-kiste](https://www.spiegel.de/panorama/landshut-kinder-finden-geladene-schreckschusswaffe-in-zu-verschenken-kiste-a-e7d3d0e2-f0a4-45ec-9c97-de052fb0353b#ref=rss)
 ### gericht
 
-* [https://www.spiegel.de/panorama/mutmassliche-reichsbuerger-terroristen-generalbundesanwalt-erhebt-anklage-gegen-prinz-reuss-gruppe](https://www.spiegel.de/panorama/mutmassliche-reichsbuerger-terroristen-generalbundesanwalt-erhebt-anklage-gegen-prinz-reuss-gruppe-a-71f25b44-2d7d-46f0-8190-e370a8e5e7e6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-gdl-chef-claus-weselsky-poltert-gegen-bahn-vorstand-wegen-boni](https://www.spiegel.de/wirtschaft/deutsche-bahn-gdl-chef-claus-weselsky-poltert-gegen-bahn-vorstand-wegen-boni-a-63dc4305-9037-4ece-b886-fa9bc415d689#ref=rss)
-### mordes
+* [https://www.spiegel.de/panorama/justiz/muenchen-maskenmillionaerin-andrea-tandler-einigt-sich-mit-gericht-auf-deal](https://www.spiegel.de/panorama/justiz/muenchen-maskenmillionaerin-andrea-tandler-einigt-sich-mit-gericht-auf-deal-a-f1cace07-6f38-4c1c-8694-761d66e1ddc0#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/japan-gericht-spricht-drei-ex-soldaten-wegen-sexueller-gewalt-an-kameradin-rina-gonoi-schuldig](https://www.spiegel.de/panorama/gesellschaft/japan-gericht-spricht-drei-ex-soldaten-wegen-sexueller-gewalt-an-kameradin-rina-gonoi-schuldig-a-5ae1312c-fe04-4c52-b173-3ad8c6737b70#ref=rss)
+* [https://www.spiegel.de/ausland/rudy-giuliani-40-millionen-dollar-prozess-wegen-verleumdung-eroeffnet](https://www.spiegel.de/ausland/rudy-giuliani-40-millionen-dollar-prozess-wegen-verleumdung-eroeffnet-a-f64e9649-1575-4a69-84dd-9a101988b0e6#ref=rss)
+### washington
 
-* [https://www.spiegel.de/panorama/justiz/bramsche-teenager-erschossen-82-jaehriger-wegen-mordes-zu-haftstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/bramsche-teenager-erschossen-82-jaehriger-wegen-mordes-zu-haftstrafe-verurteilt-a-8935e686-3d01-4905-967e-5624613bc91d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ratingen-rettungskraefte-in-brand-gesteckt-anklage-fordert-lebenslange-haft](https://www.spiegel.de/panorama/justiz/ratingen-rettungskraefte-in-brand-gesteckt-anklage-fordert-lebenslange-haft-a-795a97de-39b3-4ad3-b3df-12434a350dd4#ref=rss)
-### verurteilt
+* [https://www.spiegel.de/panorama/gesellschaft/netflix-film-hannibal-denzel-washington-kontroverse-in-tunesien-ueber-denzel-washington](https://www.spiegel.de/panorama/gesellschaft/netflix-film-hannibal-denzel-washington-kontroverse-in-tunesien-ueber-denzel-washington-a-2847c58a-c20e-407a-8ec1-9f04f97c0d19#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-haushaltkrise-wagenknecht-gruppe-selenskyj-in-washington](https://www.spiegel.de/politik/deutschland/news-haushaltkrise-wagenknecht-gruppe-selenskyj-in-washington-a-b62a242e-1678-4f9a-b91a-2847fb4dc530#ref=rss)
+### ich
 
-* [https://www.spiegel.de/panorama/justiz/bramsche-teenager-erschossen-82-jaehriger-wegen-mordes-zu-haftstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/bramsche-teenager-erschossen-82-jaehriger-wegen-mordes-zu-haftstrafe-verurteilt-a-8935e686-3d01-4905-967e-5624613bc91d#ref=rss)
-### jahren
+* [https://www.spiegel.de/start/spenden-zur-weihnachtszeit-wie-kann-ich-spenden-wenn-ich-selbst-fast-pleite-bin](https://www.spiegel.de/start/spenden-zur-weihnachtszeit-wie-kann-ich-spenden-wenn-ich-selbst-fast-pleite-bin-a-f6df454f-c944-4ec1-a1cf-c68beb67b636#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/panorama/justiz/bramsche-teenager-erschossen-82-jaehriger-wegen-mordes-zu-haftstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/bramsche-teenager-erschossen-82-jaehriger-wegen-mordes-zu-haftstrafe-verurteilt-a-8935e686-3d01-4905-967e-5624613bc91d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/atlantischer-lachs-weltnaturschutzunion-stuft-fisch-als-potenziell-gefaehrdet-ein](https://www.spiegel.de/wissenschaft/atlantischer-lachs-weltnaturschutzunion-stuft-fisch-als-potenziell-gefaehrdet-ein-a-fba2ec13-d2c0-4599-84ba-ba5fc59e17e2#ref=rss)
-### haft
+* [https://www.spiegel.de/wirtschaft/service/umfrage-konsumenten-blicken-mit-sorge-aufs-kommende-jahr](https://www.spiegel.de/wirtschaft/service/umfrage-konsumenten-blicken-mit-sorge-aufs-kommende-jahr-a-b8f2581e-76ca-44c7-8f2c-1bb7ada004fb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/hasbro-monopoly-spielzeughersteller-kuendigt-erneut-massenentlassungen-an](https://www.spiegel.de/wirtschaft/unternehmen/hasbro-monopoly-spielzeughersteller-kuendigt-erneut-massenentlassungen-an-a-c1802cfe-1f09-4841-b92b-4ab3b2236cce#ref=rss)
+### bund
 
-* [https://www.spiegel.de/panorama/justiz/bramsche-teenager-erschossen-82-jaehriger-wegen-mordes-zu-haftstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/bramsche-teenager-erschossen-82-jaehriger-wegen-mordes-zu-haftstrafe-verurteilt-a-8935e686-3d01-4905-967e-5624613bc91d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ratingen-rettungskraefte-in-brand-gesteckt-anklage-fordert-lebenslange-haft](https://www.spiegel.de/panorama/justiz/ratingen-rettungskraefte-in-brand-gesteckt-anklage-fordert-lebenslange-haft-a-795a97de-39b3-4ad3-b3df-12434a350dd4#ref=rss)
-### morawiecki
+* [https://www.spiegel.de/wirtschaft/finanzexperte-gerhard-schick-zum-haushaltsloch-wir-muessen-an-die-leistungslosen-gewinne-heran](https://www.spiegel.de/wirtschaft/finanzexperte-gerhard-schick-zum-haushaltsloch-wir-muessen-an-die-leistungslosen-gewinne-heran-a-d4333839-7e90-437a-8edc-7d8508dfcdb5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/bund-der-steuerzahlerbund-wird-beim-finanzamt-angeschwaerzt](https://www.spiegel.de/wirtschaft/soziales/bund-der-steuerzahlerbund-wird-beim-finanzamt-angeschwaerzt-a-7c7601b6-d488-4120-96b2-e1c51df50bc1#ref=rss)
+### weltklimakonferenz
 
-* [https://www.spiegel.de/ausland/polen-mateusz-morawiecki-verliert-vertrauensfrage-land-vor-regierungswechsel](https://www.spiegel.de/ausland/polen-mateusz-morawiecki-verliert-vertrauensfrage-land-vor-regierungswechsel-a-40787b59-8788-4af5-91bd-31e1c58faf5b#ref=rss)
-### vertrauensfrage
+* [https://www.spiegel.de/ausland/cop28-weltklimakonferenz-in-dubai-geht-in-die-verlaengerung](https://www.spiegel.de/ausland/cop28-weltklimakonferenz-in-dubai-geht-in-die-verlaengerung-a-f84aa7cb-3149-4b69-8377-b71359d14fca#ref=rss)
+* [https://www.spiegel.de/ausland/cop-28-in-dubai-deutschland-weist-abschlusserklaerung-aus-den-emiraten-zurueck-verlaengerung-wahrscheinlich](https://www.spiegel.de/ausland/cop-28-in-dubai-deutschland-weist-abschlusserklaerung-aus-den-emiraten-zurueck-verlaengerung-wahrscheinlich-a-398dc518-0256-48a8-a489-2ce052d96eca#ref=rss)
+### dubai
 
-* [https://www.spiegel.de/ausland/polen-mateusz-morawiecki-verliert-vertrauensfrage-land-vor-regierungswechsel](https://www.spiegel.de/ausland/polen-mateusz-morawiecki-verliert-vertrauensfrage-land-vor-regierungswechsel-a-40787b59-8788-4af5-91bd-31e1c58faf5b#ref=rss)
-### machtwechsel
+* [https://www.spiegel.de/ausland/cop28-weltklimakonferenz-in-dubai-geht-in-die-verlaengerung](https://www.spiegel.de/ausland/cop28-weltklimakonferenz-in-dubai-geht-in-die-verlaengerung-a-f84aa7cb-3149-4b69-8377-b71359d14fca#ref=rss)
+* [https://www.spiegel.de/ausland/cop-28-in-dubai-deutschland-weist-abschlusserklaerung-aus-den-emiraten-zurueck-verlaengerung-wahrscheinlich](https://www.spiegel.de/ausland/cop-28-in-dubai-deutschland-weist-abschlusserklaerung-aus-den-emiraten-zurueck-verlaengerung-wahrscheinlich-a-398dc518-0256-48a8-a489-2ce052d96eca#ref=rss)
+### denzel
 
-* [https://www.spiegel.de/ausland/polen-mateusz-morawiecki-verliert-vertrauensfrage-land-vor-regierungswechsel](https://www.spiegel.de/ausland/polen-mateusz-morawiecki-verliert-vertrauensfrage-land-vor-regierungswechsel-a-40787b59-8788-4af5-91bd-31e1c58faf5b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-entwurf-zum-grundsatzprogramm-mit-diesen-themen-will-die-union-den-machtwechsel-schaffen](https://www.spiegel.de/politik/deutschland/cdu-entwurf-zum-grundsatzprogramm-mit-diesen-themen-will-die-union-den-machtwechsel-schaffen-a-d1f8c831-25c9-4a8c-8edc-833e407dd4f1#ref=rss)
-### fünf
+* [https://www.spiegel.de/panorama/gesellschaft/netflix-film-hannibal-denzel-washington-kontroverse-in-tunesien-ueber-denzel-washington](https://www.spiegel.de/panorama/gesellschaft/netflix-film-hannibal-denzel-washington-kontroverse-in-tunesien-ueber-denzel-washington-a-2847c58a-c20e-407a-8ec1-9f04f97c0d19#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/cdu-entwurf-zum-neuen-grundsatzprogramm-die-fuenf-groessten-aufreger](https://www.spiegel.de/politik/deutschland/cdu-entwurf-zum-neuen-grundsatzprogramm-die-fuenf-groessten-aufreger-a-7e27f063-efa0-4517-8ad2-3fc49ce57b23#ref=rss)
-* [https://www.spiegel.de/kultur/enid-blyton-hatte-die-autorin-eine-lesbische-affaere-das-war-meine-grossmutter](https://www.spiegel.de/kultur/enid-blyton-hatte-die-autorin-eine-lesbische-affaere-das-war-meine-grossmutter-a-4ae3d8e7-c32a-4512-a3bf-6148e0cc7dde#ref=rss)
-### atomkraft
+* [https://www.spiegel.de/sport/handball/handball-wm-der-frauen-deutschland-verpasst-gruppensieg-nach-niederlage-gegen-daenemark](https://www.spiegel.de/sport/handball/handball-wm-der-frauen-deutschland-verpasst-gruppensieg-nach-niederlage-gegen-daenemark-a-4e814deb-284b-4500-8d49-84a2ae57a5d5#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/gesichter-einer-krise](https://www.spiegel.de/panorama/bildung/gesichter-einer-krise-a-ca8c4fff-236a-4783-82d2-5d6a0ad98216#ref=rss)
+* [https://www.spiegel.de/ausland/cop-28-in-dubai-deutschland-weist-abschlusserklaerung-aus-den-emiraten-zurueck-verlaengerung-wahrscheinlich](https://www.spiegel.de/ausland/cop-28-in-dubai-deutschland-weist-abschlusserklaerung-aus-den-emiraten-zurueck-verlaengerung-wahrscheinlich-a-398dc518-0256-48a8-a489-2ce052d96eca#ref=rss)
+### andrea
 
-* [https://www.spiegel.de/politik/deutschland/cdu-entwurf-zum-neuen-grundsatzprogramm-die-fuenf-groessten-aufreger](https://www.spiegel.de/politik/deutschland/cdu-entwurf-zum-neuen-grundsatzprogramm-die-fuenf-groessten-aufreger-a-7e27f063-efa0-4517-8ad2-3fc49ce57b23#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-entwurf-zum-grundsatzprogramm-mit-diesen-themen-will-die-union-den-machtwechsel-schaffen](https://www.spiegel.de/politik/deutschland/cdu-entwurf-zum-grundsatzprogramm-mit-diesen-themen-will-die-union-den-machtwechsel-schaffen-a-d1f8c831-25c9-4a8c-8edc-833e407dd4f1#ref=rss)
-### ampel
+* [https://www.spiegel.de/panorama/justiz/muenchen-maskenmillionaerin-andrea-tandler-einigt-sich-mit-gericht-auf-deal](https://www.spiegel.de/panorama/justiz/muenchen-maskenmillionaerin-andrea-tandler-einigt-sich-mit-gericht-auf-deal-a-f1cace07-6f38-4c1c-8694-761d66e1ddc0#ref=rss)
+### tandler
 
-* [https://www.spiegel.de/politik/deutschland/fdp-bundesvorstand-leitet-basisvotum-ueber-aus-der-ampel-ein](https://www.spiegel.de/politik/deutschland/fdp-bundesvorstand-leitet-basisvotum-ueber-aus-der-ampel-ein-a-14e492aa-0331-439c-b65e-055236fa6d6e#ref=rss)
-### alexej
+* [https://www.spiegel.de/panorama/justiz/muenchen-maskenmillionaerin-andrea-tandler-einigt-sich-mit-gericht-auf-deal](https://www.spiegel.de/panorama/justiz/muenchen-maskenmillionaerin-andrea-tandler-einigt-sich-mit-gericht-auf-deal-a-f1cace07-6f38-4c1c-8694-761d66e1ddc0#ref=rss)
+### euro
 
-* [https://www.spiegel.de/ausland/russland-alexej-nawalny-offenbar-nicht-mehr-in-seiner-strafkolonie-inhaftiert](https://www.spiegel.de/ausland/russland-alexej-nawalny-offenbar-nicht-mehr-in-seiner-strafkolonie-inhaftiert-a-a1cfb0a6-1607-42f8-9686-617bf22c1142#ref=rss)
-### nawalny
+* [https://www.spiegel.de/panorama/justiz/muenchen-maskenmillionaerin-andrea-tandler-einigt-sich-mit-gericht-auf-deal](https://www.spiegel.de/panorama/justiz/muenchen-maskenmillionaerin-andrea-tandler-einigt-sich-mit-gericht-auf-deal-a-f1cace07-6f38-4c1c-8694-761d66e1ddc0#ref=rss)
+* [https://www.spiegel.de/start/spenden-zur-weihnachtszeit-wie-kann-ich-spenden-wenn-ich-selbst-fast-pleite-bin](https://www.spiegel.de/start/spenden-zur-weihnachtszeit-wie-kann-ich-spenden-wenn-ich-selbst-fast-pleite-bin-a-f6df454f-c944-4ec1-a1cf-c68beb67b636#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/ausland/russland-alexej-nawalny-offenbar-nicht-mehr-in-seiner-strafkolonie-inhaftiert](https://www.spiegel.de/ausland/russland-alexej-nawalny-offenbar-nicht-mehr-in-seiner-strafkolonie-inhaftiert-a-a1cfb0a6-1607-42f8-9686-617bf22c1142#ref=rss)
-### golden
+* [https://www.spiegel.de/panorama/justiz/muenchen-maskenmillionaerin-andrea-tandler-einigt-sich-mit-gericht-auf-deal](https://www.spiegel.de/panorama/justiz/muenchen-maskenmillionaerin-andrea-tandler-einigt-sich-mit-gericht-auf-deal-a-f1cace07-6f38-4c1c-8694-761d66e1ddc0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/hasbro-monopoly-spielzeughersteller-kuendigt-erneut-massenentlassungen-an](https://www.spiegel.de/wirtschaft/unternehmen/hasbro-monopoly-spielzeughersteller-kuendigt-erneut-massenentlassungen-an-a-c1802cfe-1f09-4841-b92b-4ab3b2236cce#ref=rss)
+### umfrage
 
-* [https://www.spiegel.de/kultur/kino/golden-globes-barbie-neunmal-nominiert-dicht-gefolgt-von-oppenheimer](https://www.spiegel.de/kultur/kino/golden-globes-barbie-neunmal-nominiert-dicht-gefolgt-von-oppenheimer-a-cecfd40a-eeb2-4db4-929b-76e2ac1fd384#ref=rss)
-### globes
+* [https://www.spiegel.de/wirtschaft/service/umfrage-konsumenten-blicken-mit-sorge-aufs-kommende-jahr](https://www.spiegel.de/wirtschaft/service/umfrage-konsumenten-blicken-mit-sorge-aufs-kommende-jahr-a-b8f2581e-76ca-44c7-8f2c-1bb7ada004fb#ref=rss)
+### sorge
 
-* [https://www.spiegel.de/kultur/kino/golden-globes-barbie-neunmal-nominiert-dicht-gefolgt-von-oppenheimer](https://www.spiegel.de/kultur/kino/golden-globes-barbie-neunmal-nominiert-dicht-gefolgt-von-oppenheimer-a-cecfd40a-eeb2-4db4-929b-76e2ac1fd384#ref=rss)
-### nominiert
+* [https://www.spiegel.de/wirtschaft/service/umfrage-konsumenten-blicken-mit-sorge-aufs-kommende-jahr](https://www.spiegel.de/wirtschaft/service/umfrage-konsumenten-blicken-mit-sorge-aufs-kommende-jahr-a-b8f2581e-76ca-44c7-8f2c-1bb7ada004fb#ref=rss)
+### kommende
 
-* [https://www.spiegel.de/kultur/kino/golden-globes-barbie-neunmal-nominiert-dicht-gefolgt-von-oppenheimer](https://www.spiegel.de/kultur/kino/golden-globes-barbie-neunmal-nominiert-dicht-gefolgt-von-oppenheimer-a-cecfd40a-eeb2-4db4-929b-76e2ac1fd384#ref=rss)
-### claus
+* [https://www.spiegel.de/wirtschaft/service/umfrage-konsumenten-blicken-mit-sorge-aufs-kommende-jahr](https://www.spiegel.de/wirtschaft/service/umfrage-konsumenten-blicken-mit-sorge-aufs-kommende-jahr-a-b8f2581e-76ca-44c7-8f2c-1bb7ada004fb#ref=rss)
+### oft
 
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-gdl-chef-claus-weselsky-poltert-gegen-bahn-vorstand-wegen-boni](https://www.spiegel.de/wirtschaft/deutsche-bahn-gdl-chef-claus-weselsky-poltert-gegen-bahn-vorstand-wegen-boni-a-63dc4305-9037-4ece-b886-fa9bc415d689#ref=rss)
-### weselsky
+* [https://www.spiegel.de/wirtschaft/service/umfrage-konsumenten-blicken-mit-sorge-aufs-kommende-jahr](https://www.spiegel.de/wirtschaft/service/umfrage-konsumenten-blicken-mit-sorge-aufs-kommende-jahr-a-b8f2581e-76ca-44c7-8f2c-1bb7ada004fb#ref=rss)
+* [https://www.spiegel.de/familie/konflikte-in-patchworkfamilien-warum-stiefmuetter-sich-oft-ohnmaechtig-fuehlen](https://www.spiegel.de/familie/konflikte-in-patchworkfamilien-warum-stiefmuetter-sich-oft-ohnmaechtig-fuehlen-a-031929c4-77ba-41ca-931e-5b79971f857c#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-gdl-chef-claus-weselsky-poltert-gegen-bahn-vorstand-wegen-boni](https://www.spiegel.de/wirtschaft/deutsche-bahn-gdl-chef-claus-weselsky-poltert-gegen-bahn-vorstand-wegen-boni-a-63dc4305-9037-4ece-b886-fa9bc415d689#ref=rss)
-### bahnvorstand
+* [https://www.spiegel.de/wirtschaft/service/umfrage-konsumenten-blicken-mit-sorge-aufs-kommende-jahr](https://www.spiegel.de/wirtschaft/service/umfrage-konsumenten-blicken-mit-sorge-aufs-kommende-jahr-a-b8f2581e-76ca-44c7-8f2c-1bb7ada004fb#ref=rss)
+* [https://www.spiegel.de/stil/rezept-fuer-boeuf-bourguignon](https://www.spiegel.de/stil/rezept-fuer-boeuf-bourguignon-a-de31c117-fe74-480e-9f69-56c444d35880#ref=rss)
+### laut
 
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-gdl-chef-claus-weselsky-poltert-gegen-bahn-vorstand-wegen-boni](https://www.spiegel.de/wirtschaft/deutsche-bahn-gdl-chef-claus-weselsky-poltert-gegen-bahn-vorstand-wegen-boni-a-63dc4305-9037-4ece-b886-fa9bc415d689#ref=rss)
-### population
+* [https://www.spiegel.de/wirtschaft/service/umfrage-konsumenten-blicken-mit-sorge-aufs-kommende-jahr](https://www.spiegel.de/wirtschaft/service/umfrage-konsumenten-blicken-mit-sorge-aufs-kommende-jahr-a-b8f2581e-76ca-44c7-8f2c-1bb7ada004fb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-verfassungsschutz-in-nrw-stuft-junge-alternative-als-verdachtsfall-ein](https://www.spiegel.de/politik/deutschland/afd-verfassungsschutz-in-nrw-stuft-junge-alternative-als-verdachtsfall-ein-a-5fcb2858-01ad-40b3-b473-e96169d9fb23#ref=rss)
+### große
 
-* [https://www.spiegel.de/wissenschaft/atlantischer-lachs-weltnaturschutzunion-stuft-fisch-als-potenziell-gefaehrdet-ein](https://www.spiegel.de/wissenschaft/atlantischer-lachs-weltnaturschutzunion-stuft-fisch-als-potenziell-gefaehrdet-ein-a-fba2ec13-d2c0-4599-84ba-ba5fc59e17e2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/umfrage-konsumenten-blicken-mit-sorge-aufs-kommende-jahr](https://www.spiegel.de/wirtschaft/service/umfrage-konsumenten-blicken-mit-sorge-aufs-kommende-jahr-a-b8f2581e-76ca-44c7-8f2c-1bb7ada004fb#ref=rss)
+* [https://www.spiegel.de/stil/klimawandel-koennten-deutsche-biowinzer-profitieren](https://www.spiegel.de/stil/klimawandel-koennten-deutsche-biowinzer-profitieren-a-88066770-3622-4379-82fc-ac0f06ddc690#ref=rss)
+### klimawandel
+
+* [https://www.spiegel.de/stil/klimawandel-koennten-deutsche-biowinzer-profitieren](https://www.spiegel.de/stil/klimawandel-koennten-deutsche-biowinzer-profitieren-a-88066770-3622-4379-82fc-ac0f06ddc690#ref=rss)
+### profitieren
+
+* [https://www.spiegel.de/stil/klimawandel-koennten-deutsche-biowinzer-profitieren](https://www.spiegel.de/stil/klimawandel-koennten-deutsche-biowinzer-profitieren-a-88066770-3622-4379-82fc-ac0f06ddc690#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/jobrad-und-co-wer-vom-leasing-boom-auf-dem-fahrradmarkt-profitiert](https://www.spiegel.de/wirtschaft/unternehmen/jobrad-und-co-wer-vom-leasing-boom-auf-dem-fahrradmarkt-profitiert-a-5d3f4739-95fd-4a67-9d41-56a415282194#ref=rss)
+### deutschlands
+
+* [https://www.spiegel.de/stil/klimawandel-koennten-deutsche-biowinzer-profitieren](https://www.spiegel.de/stil/klimawandel-koennten-deutsche-biowinzer-profitieren-a-88066770-3622-4379-82fc-ac0f06ddc690#ref=rss)
+* [https://www.spiegel.de/sport/handball/handball-wm-der-frauen-deutschland-verpasst-gruppensieg-nach-niederlage-gegen-daenemark](https://www.spiegel.de/sport/handball/handball-wm-der-frauen-deutschland-verpasst-gruppensieg-nach-niederlage-gegen-daenemark-a-4e814deb-284b-4500-8d49-84a2ae57a5d5#ref=rss)
+### allerdings
+
+* [https://www.spiegel.de/stil/klimawandel-koennten-deutsche-biowinzer-profitieren](https://www.spiegel.de/stil/klimawandel-koennten-deutsche-biowinzer-profitieren-a-88066770-3622-4379-82fc-ac0f06ddc690#ref=rss)
+* [https://www.spiegel.de/ausland/cop28-weltklimakonferenz-in-dubai-geht-in-die-verlaengerung](https://www.spiegel.de/ausland/cop28-weltklimakonferenz-in-dubai-geht-in-die-verlaengerung-a-f84aa7cb-3149-4b69-8377-b71359d14fca#ref=rss)
+### gut
+
+* [https://www.spiegel.de/stil/klimawandel-koennten-deutsche-biowinzer-profitieren](https://www.spiegel.de/stil/klimawandel-koennten-deutsche-biowinzer-profitieren-a-88066770-3622-4379-82fc-ac0f06ddc690#ref=rss)
+* [https://www.spiegel.de/geschichte/geschenk-tipps-hier-sind-14-buecher-fuer-geschichtsliebhaber](https://www.spiegel.de/geschichte/geschenk-tipps-hier-sind-14-buecher-fuer-geschichtsliebhaber-a-2e535d2b-4fcd-4797-bac8-d7b75ddf65b1#ref=rss)
 ### macht
 
-* [https://www.spiegel.de/wissenschaft/atlantischer-lachs-weltnaturschutzunion-stuft-fisch-als-potenziell-gefaehrdet-ein](https://www.spiegel.de/wissenschaft/atlantischer-lachs-weltnaturschutzunion-stuft-fisch-als-potenziell-gefaehrdet-ein-a-fba2ec13-d2c0-4599-84ba-ba5fc59e17e2#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/israelischer-soldat-auf-fronturlaub-in-berlin-morgen-geht-lev-zurueck-in-den-krieg](https://www.spiegel.de/panorama/gesellschaft/israelischer-soldat-auf-fronturlaub-in-berlin-morgen-geht-lev-zurueck-in-den-krieg-a-fd545f82-e6bf-4c94-9d22-3eafadc64c87#ref=rss)
-### schaffen
+* [https://www.spiegel.de/stil/klimawandel-koennten-deutsche-biowinzer-profitieren](https://www.spiegel.de/stil/klimawandel-koennten-deutsche-biowinzer-profitieren-a-88066770-3622-4379-82fc-ac0f06ddc690#ref=rss)
+* [https://www.spiegel.de/geschichte/geschenk-tipps-hier-sind-14-buecher-fuer-geschichtsliebhaber](https://www.spiegel.de/geschichte/geschenk-tipps-hier-sind-14-buecher-fuer-geschichtsliebhaber-a-2e535d2b-4fcd-4797-bac8-d7b75ddf65b1#ref=rss)
+### google
 
-* [https://www.spiegel.de/wissenschaft/atlantischer-lachs-weltnaturschutzunion-stuft-fisch-als-potenziell-gefaehrdet-ein](https://www.spiegel.de/wissenschaft/atlantischer-lachs-weltnaturschutzunion-stuft-fisch-als-potenziell-gefaehrdet-ein-a-fba2ec13-d2c0-4599-84ba-ba5fc59e17e2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-entwurf-zum-grundsatzprogramm-mit-diesen-themen-will-die-union-den-machtwechsel-schaffen](https://www.spiegel.de/politik/deutschland/cdu-entwurf-zum-grundsatzprogramm-mit-diesen-themen-will-die-union-den-machtwechsel-schaffen-a-d1f8c831-25c9-4a8c-8edc-833e407dd4f1#ref=rss)
-### fronturlaub
+* [https://www.spiegel.de/netzwelt/apps/fortnite-entwickler-epic-games-gewinnt-gegen-google](https://www.spiegel.de/netzwelt/apps/fortnite-entwickler-epic-games-gewinnt-gegen-google-a-6dc2baa0-b03a-4492-a1dc-faf098176241#ref=rss)
+### wort
 
-* [https://www.spiegel.de/panorama/gesellschaft/israelischer-soldat-auf-fronturlaub-in-berlin-morgen-geht-lev-zurueck-in-den-krieg](https://www.spiegel.de/panorama/gesellschaft/israelischer-soldat-auf-fronturlaub-in-berlin-morgen-geht-lev-zurueck-in-den-krieg-a-fd545f82-e6bf-4c94-9d22-3eafadc64c87#ref=rss)
-### berlin
+* [https://www.spiegel.de/netzwelt/apps/fortnite-entwickler-epic-games-gewinnt-gegen-google](https://www.spiegel.de/netzwelt/apps/fortnite-entwickler-epic-games-gewinnt-gegen-google-a-6dc2baa0-b03a-4492-a1dc-faf098176241#ref=rss)
+* [https://www.spiegel.de/familie/konflikte-in-patchworkfamilien-warum-stiefmuetter-sich-oft-ohnmaechtig-fuehlen](https://www.spiegel.de/familie/konflikte-in-patchworkfamilien-warum-stiefmuetter-sich-oft-ohnmaechtig-fuehlen-a-031929c4-77ba-41ca-931e-5b79971f857c#ref=rss)
+### gesprochen
 
-* [https://www.spiegel.de/panorama/gesellschaft/israelischer-soldat-auf-fronturlaub-in-berlin-morgen-geht-lev-zurueck-in-den-krieg](https://www.spiegel.de/panorama/gesellschaft/israelischer-soldat-auf-fronturlaub-in-berlin-morgen-geht-lev-zurueck-in-den-krieg-a-fd545f82-e6bf-4c94-9d22-3eafadc64c87#ref=rss)
-### lev
+* [https://www.spiegel.de/netzwelt/apps/fortnite-entwickler-epic-games-gewinnt-gegen-google](https://www.spiegel.de/netzwelt/apps/fortnite-entwickler-epic-games-gewinnt-gegen-google-a-6dc2baa0-b03a-4492-a1dc-faf098176241#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/japan-gericht-spricht-drei-ex-soldaten-wegen-sexueller-gewalt-an-kameradin-rina-gonoi-schuldig](https://www.spiegel.de/panorama/gesellschaft/japan-gericht-spricht-drei-ex-soldaten-wegen-sexueller-gewalt-an-kameradin-rina-gonoi-schuldig-a-5ae1312c-fe04-4c52-b173-3ad8c6737b70#ref=rss)
+### finanzexperte
 
-* [https://www.spiegel.de/panorama/gesellschaft/israelischer-soldat-auf-fronturlaub-in-berlin-morgen-geht-lev-zurueck-in-den-krieg](https://www.spiegel.de/panorama/gesellschaft/israelischer-soldat-auf-fronturlaub-in-berlin-morgen-geht-lev-zurueck-in-den-krieg-a-fd545f82-e6bf-4c94-9d22-3eafadc64c87#ref=rss)
-### enid
+* [https://www.spiegel.de/wirtschaft/finanzexperte-gerhard-schick-zum-haushaltsloch-wir-muessen-an-die-leistungslosen-gewinne-heran](https://www.spiegel.de/wirtschaft/finanzexperte-gerhard-schick-zum-haushaltsloch-wir-muessen-an-die-leistungslosen-gewinne-heran-a-d4333839-7e90-437a-8edc-7d8508dfcdb5#ref=rss)
+### gerhard
 
-* [https://www.spiegel.de/kultur/enid-blyton-hatte-die-autorin-eine-lesbische-affaere-das-war-meine-grossmutter](https://www.spiegel.de/kultur/enid-blyton-hatte-die-autorin-eine-lesbische-affaere-das-war-meine-grossmutter-a-4ae3d8e7-c32a-4512-a3bf-6148e0cc7dde#ref=rss)
-### blyton
+* [https://www.spiegel.de/wirtschaft/finanzexperte-gerhard-schick-zum-haushaltsloch-wir-muessen-an-die-leistungslosen-gewinne-heran](https://www.spiegel.de/wirtschaft/finanzexperte-gerhard-schick-zum-haushaltsloch-wir-muessen-an-die-leistungslosen-gewinne-heran-a-d4333839-7e90-437a-8edc-7d8508dfcdb5#ref=rss)
+### schick
 
-* [https://www.spiegel.de/kultur/enid-blyton-hatte-die-autorin-eine-lesbische-affaere-das-war-meine-grossmutter](https://www.spiegel.de/kultur/enid-blyton-hatte-die-autorin-eine-lesbische-affaere-das-war-meine-grossmutter-a-4ae3d8e7-c32a-4512-a3bf-6148e0cc7dde#ref=rss)
+* [https://www.spiegel.de/wirtschaft/finanzexperte-gerhard-schick-zum-haushaltsloch-wir-muessen-an-die-leistungslosen-gewinne-heran](https://www.spiegel.de/wirtschaft/finanzexperte-gerhard-schick-zum-haushaltsloch-wir-muessen-an-die-leistungslosen-gewinne-heran-a-d4333839-7e90-437a-8edc-7d8508dfcdb5#ref=rss)
+### bundeshaushalt
+
+* [https://www.spiegel.de/wirtschaft/finanzexperte-gerhard-schick-zum-haushaltsloch-wir-muessen-an-die-leistungslosen-gewinne-heran](https://www.spiegel.de/wirtschaft/finanzexperte-gerhard-schick-zum-haushaltsloch-wir-muessen-an-die-leistungslosen-gewinne-heran-a-d4333839-7e90-437a-8edc-7d8508dfcdb5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/haushaltsstreit-arbeitgeberpraesident-wirft-regierung-entscheidungsschwaeche-vor](https://www.spiegel.de/wirtschaft/unternehmen/haushaltsstreit-arbeitgeberpraesident-wirft-regierung-entscheidungsschwaeche-vor-a-82ce5e1c-1d74-4940-9b01-9c35d612f753#ref=rss)
+### dank
+
+* [https://www.spiegel.de/wirtschaft/finanzexperte-gerhard-schick-zum-haushaltsloch-wir-muessen-an-die-leistungslosen-gewinne-heran](https://www.spiegel.de/wirtschaft/finanzexperte-gerhard-schick-zum-haushaltsloch-wir-muessen-an-die-leistungslosen-gewinne-heran-a-d4333839-7e90-437a-8edc-7d8508dfcdb5#ref=rss)
+* [https://www.spiegel.de/familie/konflikte-in-patchworkfamilien-warum-stiefmuetter-sich-oft-ohnmaechtig-fuehlen](https://www.spiegel.de/familie/konflikte-in-patchworkfamilien-warum-stiefmuetter-sich-oft-ohnmaechtig-fuehlen-a-031929c4-77ba-41ca-931e-5b79971f857c#ref=rss)
+### cop28
+
+* [https://www.spiegel.de/ausland/cop28-weltklimakonferenz-in-dubai-geht-in-die-verlaengerung](https://www.spiegel.de/ausland/cop28-weltklimakonferenz-in-dubai-geht-in-die-verlaengerung-a-f84aa7cb-3149-4b69-8377-b71359d14fca#ref=rss)
+### abschlusserklärung
+
+* [https://www.spiegel.de/ausland/cop28-weltklimakonferenz-in-dubai-geht-in-die-verlaengerung](https://www.spiegel.de/ausland/cop28-weltklimakonferenz-in-dubai-geht-in-die-verlaengerung-a-f84aa7cb-3149-4b69-8377-b71359d14fca#ref=rss)
+* [https://www.spiegel.de/ausland/cop-28-in-dubai-deutschland-weist-abschlusserklaerung-aus-den-emiraten-zurueck-verlaengerung-wahrscheinlich](https://www.spiegel.de/ausland/cop-28-in-dubai-deutschland-weist-abschlusserklaerung-aus-den-emiraten-zurueck-verlaengerung-wahrscheinlich-a-398dc518-0256-48a8-a489-2ce052d96eca#ref=rss)
+### netflixfilm
+
+* [https://www.spiegel.de/panorama/gesellschaft/netflix-film-hannibal-denzel-washington-kontroverse-in-tunesien-ueber-denzel-washington](https://www.spiegel.de/panorama/gesellschaft/netflix-film-hannibal-denzel-washington-kontroverse-in-tunesien-ueber-denzel-washington-a-2847c58a-c20e-407a-8ec1-9f04f97c0d19#ref=rss)
+### hannibal
+
+* [https://www.spiegel.de/panorama/gesellschaft/netflix-film-hannibal-denzel-washington-kontroverse-in-tunesien-ueber-denzel-washington](https://www.spiegel.de/panorama/gesellschaft/netflix-film-hannibal-denzel-washington-kontroverse-in-tunesien-ueber-denzel-washington-a-2847c58a-c20e-407a-8ec1-9f04f97c0d19#ref=rss)
+### tunesien
+
+* [https://www.spiegel.de/panorama/gesellschaft/netflix-film-hannibal-denzel-washington-kontroverse-in-tunesien-ueber-denzel-washington](https://www.spiegel.de/panorama/gesellschaft/netflix-film-hannibal-denzel-washington-kontroverse-in-tunesien-ueber-denzel-washington-a-2847c58a-c20e-407a-8ec1-9f04f97c0d19#ref=rss)
+### dänemark
+
+* [https://www.spiegel.de/sport/handball/handball-wm-der-frauen-deutschland-verpasst-gruppensieg-nach-niederlage-gegen-daenemark](https://www.spiegel.de/sport/handball/handball-wm-der-frauen-deutschland-verpasst-gruppensieg-nach-niederlage-gegen-daenemark-a-4e814deb-284b-4500-8d49-84a2ae57a5d5#ref=rss)
+### spenden
+
+* [https://www.spiegel.de/start/spenden-zur-weihnachtszeit-wie-kann-ich-spenden-wenn-ich-selbst-fast-pleite-bin](https://www.spiegel.de/start/spenden-zur-weihnachtszeit-wie-kann-ich-spenden-wenn-ich-selbst-fast-pleite-bin-a-f6df454f-c944-4ec1-a1cf-c68beb67b636#ref=rss)
+### weihnachtszeit
+
+* [https://www.spiegel.de/start/spenden-zur-weihnachtszeit-wie-kann-ich-spenden-wenn-ich-selbst-fast-pleite-bin](https://www.spiegel.de/start/spenden-zur-weihnachtszeit-wie-kann-ich-spenden-wenn-ich-selbst-fast-pleite-bin-a-f6df454f-c944-4ec1-a1cf-c68beb67b636#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/start/spenden-zur-weihnachtszeit-wie-kann-ich-spenden-wenn-ich-selbst-fast-pleite-bin](https://www.spiegel.de/start/spenden-zur-weihnachtszeit-wie-kann-ich-spenden-wenn-ich-selbst-fast-pleite-bin-a-f6df454f-c944-4ec1-a1cf-c68beb67b636#ref=rss)
+### jobrad
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/jobrad-und-co-wer-vom-leasing-boom-auf-dem-fahrradmarkt-profitiert](https://www.spiegel.de/wirtschaft/unternehmen/jobrad-und-co-wer-vom-leasing-boom-auf-dem-fahrradmarkt-profitiert-a-5d3f4739-95fd-4a67-9d41-56a415282194#ref=rss)
+### unternehmen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/jobrad-und-co-wer-vom-leasing-boom-auf-dem-fahrradmarkt-profitiert](https://www.spiegel.de/wirtschaft/unternehmen/jobrad-und-co-wer-vom-leasing-boom-auf-dem-fahrradmarkt-profitiert-a-5d3f4739-95fd-4a67-9d41-56a415282194#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/hasbro-monopoly-spielzeughersteller-kuendigt-erneut-massenentlassungen-an](https://www.spiegel.de/wirtschaft/unternehmen/hasbro-monopoly-spielzeughersteller-kuendigt-erneut-massenentlassungen-an-a-c1802cfe-1f09-4841-b92b-4ab3b2236cce#ref=rss)
+### meer
+
+* [https://www.spiegel.de/ausland/rotes-meer-huthi-bestaetigen-angriff-auf-norwegischen-tanker-schiff-laeuft-hafen-an](https://www.spiegel.de/ausland/rotes-meer-huthi-bestaetigen-angriff-auf-norwegischen-tanker-schiff-laeuft-hafen-an-a-9dc0152a-ea7a-46aa-a3b8-61d559ef64c5#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-marschflugkoerper-aus-dem-jemen-trifft-tanker-us-zerstoerer-involviert](https://www.spiegel.de/ausland/israel-gaza-krieg-marschflugkoerper-aus-dem-jemen-trifft-tanker-us-zerstoerer-involviert-a-a3473ef6-1aca-4374-8c8b-2a19937881ee#ref=rss)
+### angriff
+
+* [https://www.spiegel.de/ausland/rotes-meer-huthi-bestaetigen-angriff-auf-norwegischen-tanker-schiff-laeuft-hafen-an](https://www.spiegel.de/ausland/rotes-meer-huthi-bestaetigen-angriff-auf-norwegischen-tanker-schiff-laeuft-hafen-an-a-9dc0152a-ea7a-46aa-a3b8-61d559ef64c5#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-marschflugkoerper-aus-dem-jemen-trifft-tanker-us-zerstoerer-involviert](https://www.spiegel.de/ausland/israel-gaza-krieg-marschflugkoerper-aus-dem-jemen-trifft-tanker-us-zerstoerer-involviert-a-a3473ef6-1aca-4374-8c8b-2a19937881ee#ref=rss)
+### tanker
+
+* [https://www.spiegel.de/ausland/rotes-meer-huthi-bestaetigen-angriff-auf-norwegischen-tanker-schiff-laeuft-hafen-an](https://www.spiegel.de/ausland/rotes-meer-huthi-bestaetigen-angriff-auf-norwegischen-tanker-schiff-laeuft-hafen-an-a-9dc0152a-ea7a-46aa-a3b8-61d559ef64c5#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-marschflugkoerper-aus-dem-jemen-trifft-tanker-us-zerstoerer-involviert](https://www.spiegel.de/ausland/israel-gaza-krieg-marschflugkoerper-aus-dem-jemen-trifft-tanker-us-zerstoerer-involviert-a-a3473ef6-1aca-4374-8c8b-2a19937881ee#ref=rss)
+### frachtschiff
+
+* [https://www.spiegel.de/ausland/rotes-meer-huthi-bestaetigen-angriff-auf-norwegischen-tanker-schiff-laeuft-hafen-an](https://www.spiegel.de/ausland/rotes-meer-huthi-bestaetigen-angriff-auf-norwegischen-tanker-schiff-laeuft-hafen-an-a-9dc0152a-ea7a-46aa-a3b8-61d559ef64c5#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-marschflugkoerper-aus-dem-jemen-trifft-tanker-us-zerstoerer-involviert](https://www.spiegel.de/ausland/israel-gaza-krieg-marschflugkoerper-aus-dem-jemen-trifft-tanker-us-zerstoerer-involviert-a-a3473ef6-1aca-4374-8c8b-2a19937881ee#ref=rss)
+### attacke
+
+* [https://www.spiegel.de/ausland/rotes-meer-huthi-bestaetigen-angriff-auf-norwegischen-tanker-schiff-laeuft-hafen-an](https://www.spiegel.de/ausland/rotes-meer-huthi-bestaetigen-angriff-auf-norwegischen-tanker-schiff-laeuft-hafen-an-a-9dc0152a-ea7a-46aa-a3b8-61d559ef64c5#ref=rss)
+* [https://www.spiegel.de/sport/fussball-in-der-tuerkei-spielbetrieb-der-sueperlig-nach-attacke-gegen-schiedsrichter-ausgesetzt](https://www.spiegel.de/sport/fussball-in-der-tuerkei-spielbetrieb-der-sueperlig-nach-attacke-gegen-schiedsrichter-ausgesetzt-a-634c9f9c-5832-41a2-a088-6d2fc5b38e4e#ref=rss)
+### spielbetrieb
+
+* [https://www.spiegel.de/sport/fussball-in-der-tuerkei-spielbetrieb-der-sueperlig-nach-attacke-gegen-schiedsrichter-ausgesetzt](https://www.spiegel.de/sport/fussball-in-der-tuerkei-spielbetrieb-der-sueperlig-nach-attacke-gegen-schiedsrichter-ausgesetzt-a-634c9f9c-5832-41a2-a088-6d2fc5b38e4e#ref=rss)
+### süper
+
+* [https://www.spiegel.de/sport/fussball-in-der-tuerkei-spielbetrieb-der-sueperlig-nach-attacke-gegen-schiedsrichter-ausgesetzt](https://www.spiegel.de/sport/fussball-in-der-tuerkei-spielbetrieb-der-sueperlig-nach-attacke-gegen-schiedsrichter-ausgesetzt-a-634c9f9c-5832-41a2-a088-6d2fc5b38e4e#ref=rss)
+### lig
+
+* [https://www.spiegel.de/sport/fussball-in-der-tuerkei-spielbetrieb-der-sueperlig-nach-attacke-gegen-schiedsrichter-ausgesetzt](https://www.spiegel.de/sport/fussball-in-der-tuerkei-spielbetrieb-der-sueperlig-nach-attacke-gegen-schiedsrichter-ausgesetzt-a-634c9f9c-5832-41a2-a088-6d2fc5b38e4e#ref=rss)
+### gekommen
+
+* [https://www.spiegel.de/sport/fussball-in-der-tuerkei-spielbetrieb-der-sueperlig-nach-attacke-gegen-schiedsrichter-ausgesetzt](https://www.spiegel.de/sport/fussball-in-der-tuerkei-spielbetrieb-der-sueperlig-nach-attacke-gegen-schiedsrichter-ausgesetzt-a-634c9f9c-5832-41a2-a088-6d2fc5b38e4e#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-marschflugkoerper-aus-dem-jemen-trifft-tanker-us-zerstoerer-involviert](https://www.spiegel.de/ausland/israel-gaza-krieg-marschflugkoerper-aus-dem-jemen-trifft-tanker-us-zerstoerer-involviert-a-a3473ef6-1aca-4374-8c8b-2a19937881ee#ref=rss)
+### koca
+
+* [https://www.spiegel.de/sport/fussball-in-der-tuerkei-spielbetrieb-der-sueperlig-nach-attacke-gegen-schiedsrichter-ausgesetzt](https://www.spiegel.de/sport/fussball-in-der-tuerkei-spielbetrieb-der-sueperlig-nach-attacke-gegen-schiedsrichter-ausgesetzt-a-634c9f9c-5832-41a2-a088-6d2fc5b38e4e#ref=rss)
+### hasbro
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/hasbro-monopoly-spielzeughersteller-kuendigt-erneut-massenentlassungen-an](https://www.spiegel.de/wirtschaft/unternehmen/hasbro-monopoly-spielzeughersteller-kuendigt-erneut-massenentlassungen-an-a-c1802cfe-1f09-4841-b92b-4ab3b2236cce#ref=rss)
+### kündigt
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/hasbro-monopoly-spielzeughersteller-kuendigt-erneut-massenentlassungen-an](https://www.spiegel.de/wirtschaft/unternehmen/hasbro-monopoly-spielzeughersteller-kuendigt-erneut-massenentlassungen-an-a-c1802cfe-1f09-4841-b92b-4ab3b2236cce#ref=rss)
+### groß
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/hasbro-monopoly-spielzeughersteller-kuendigt-erneut-massenentlassungen-an](https://www.spiegel.de/wirtschaft/unternehmen/hasbro-monopoly-spielzeughersteller-kuendigt-erneut-massenentlassungen-an-a-c1802cfe-1f09-4841-b92b-4ab3b2236cce#ref=rss)
+* [https://www.spiegel.de/ausland/cop-28-in-dubai-deutschland-weist-abschlusserklaerung-aus-den-emiraten-zurueck-verlaengerung-wahrscheinlich](https://www.spiegel.de/ausland/cop-28-in-dubai-deutschland-weist-abschlusserklaerung-aus-den-emiraten-zurueck-verlaengerung-wahrscheinlich-a-398dc518-0256-48a8-a489-2ce052d96eca#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/deutschland/afd-verfassungsschutz-in-nrw-stuft-junge-alternative-als-verdachtsfall-ein](https://www.spiegel.de/politik/deutschland/afd-verfassungsschutz-in-nrw-stuft-junge-alternative-als-verdachtsfall-ein-a-5fcb2858-01ad-40b3-b473-e96169d9fb23#ref=rss)
+### verfassungsschutz
+
+* [https://www.spiegel.de/politik/deutschland/afd-verfassungsschutz-in-nrw-stuft-junge-alternative-als-verdachtsfall-ein](https://www.spiegel.de/politik/deutschland/afd-verfassungsschutz-in-nrw-stuft-junge-alternative-als-verdachtsfall-ein-a-5fcb2858-01ad-40b3-b473-e96169d9fb23#ref=rss)
+### nrw
+
+* [https://www.spiegel.de/politik/deutschland/afd-verfassungsschutz-in-nrw-stuft-junge-alternative-als-verdachtsfall-ein](https://www.spiegel.de/politik/deutschland/afd-verfassungsschutz-in-nrw-stuft-junge-alternative-als-verdachtsfall-ein-a-5fcb2858-01ad-40b3-b473-e96169d9fb23#ref=rss)
+### junge
+
+* [https://www.spiegel.de/politik/deutschland/afd-verfassungsschutz-in-nrw-stuft-junge-alternative-als-verdachtsfall-ein](https://www.spiegel.de/politik/deutschland/afd-verfassungsschutz-in-nrw-stuft-junge-alternative-als-verdachtsfall-ein-a-5fcb2858-01ad-40b3-b473-e96169d9fb23#ref=rss)
+### alternative
+
+* [https://www.spiegel.de/politik/deutschland/afd-verfassungsschutz-in-nrw-stuft-junge-alternative-als-verdachtsfall-ein](https://www.spiegel.de/politik/deutschland/afd-verfassungsschutz-in-nrw-stuft-junge-alternative-als-verdachtsfall-ein-a-5fcb2858-01ad-40b3-b473-e96169d9fb23#ref=rss)
+### japan
+
+* [https://www.spiegel.de/panorama/gesellschaft/japan-gericht-spricht-drei-ex-soldaten-wegen-sexueller-gewalt-an-kameradin-rina-gonoi-schuldig](https://www.spiegel.de/panorama/gesellschaft/japan-gericht-spricht-drei-ex-soldaten-wegen-sexueller-gewalt-an-kameradin-rina-gonoi-schuldig-a-5ae1312c-fe04-4c52-b173-3ad8c6737b70#ref=rss)
+### gewalt
+
+* [https://www.spiegel.de/panorama/gesellschaft/japan-gericht-spricht-drei-ex-soldaten-wegen-sexueller-gewalt-an-kameradin-rina-gonoi-schuldig](https://www.spiegel.de/panorama/gesellschaft/japan-gericht-spricht-drei-ex-soldaten-wegen-sexueller-gewalt-an-kameradin-rina-gonoi-schuldig-a-5ae1312c-fe04-4c52-b173-3ad8c6737b70#ref=rss)
+### rina
+
+* [https://www.spiegel.de/panorama/gesellschaft/japan-gericht-spricht-drei-ex-soldaten-wegen-sexueller-gewalt-an-kameradin-rina-gonoi-schuldig](https://www.spiegel.de/panorama/gesellschaft/japan-gericht-spricht-drei-ex-soldaten-wegen-sexueller-gewalt-an-kameradin-rina-gonoi-schuldig-a-5ae1312c-fe04-4c52-b173-3ad8c6737b70#ref=rss)
+### gonoi
+
+* [https://www.spiegel.de/panorama/gesellschaft/japan-gericht-spricht-drei-ex-soldaten-wegen-sexueller-gewalt-an-kameradin-rina-gonoi-schuldig](https://www.spiegel.de/panorama/gesellschaft/japan-gericht-spricht-drei-ex-soldaten-wegen-sexueller-gewalt-an-kameradin-rina-gonoi-schuldig-a-5ae1312c-fe04-4c52-b173-3ad8c6737b70#ref=rss)
+### landes
+
+* [https://www.spiegel.de/panorama/gesellschaft/japan-gericht-spricht-drei-ex-soldaten-wegen-sexueller-gewalt-an-kameradin-rina-gonoi-schuldig](https://www.spiegel.de/panorama/gesellschaft/japan-gericht-spricht-drei-ex-soldaten-wegen-sexueller-gewalt-an-kameradin-rina-gonoi-schuldig-a-5ae1312c-fe04-4c52-b173-3ad8c6737b70#ref=rss)
+* [https://www.spiegel.de/wirtschaft/arbeitgeber-wollen-lieferkettengesetz-kippen](https://www.spiegel.de/wirtschaft/arbeitgeber-wollen-lieferkettengesetz-kippen-a-d7f2eaf7-6cfa-4be9-b05a-73d55ea11cd2#ref=rss)
+### arbeitgeberpräsident
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/haushaltsstreit-arbeitgeberpraesident-wirft-regierung-entscheidungsschwaeche-vor](https://www.spiegel.de/wirtschaft/unternehmen/haushaltsstreit-arbeitgeberpraesident-wirft-regierung-entscheidungsschwaeche-vor-a-82ce5e1c-1d74-4940-9b01-9c35d612f753#ref=rss)
+### neue
+
+* [https://www.spiegel.de/wirtschaft/arbeitgeber-wollen-lieferkettengesetz-kippen](https://www.spiegel.de/wirtschaft/arbeitgeber-wollen-lieferkettengesetz-kippen-a-d7f2eaf7-6cfa-4be9-b05a-73d55ea11cd2#ref=rss)
+* [https://www.spiegel.de/politik/der-kurze-olaf-ist-eine-chance-fuer-die-staedte](https://www.spiegel.de/politik/der-kurze-olaf-ist-eine-chance-fuer-die-staedte-a-78812244-c912-4e1f-a2da-ee89247872d0#ref=rss)
+### hilfe
+
+* [https://www.spiegel.de/wirtschaft/arbeitgeber-wollen-lieferkettengesetz-kippen](https://www.spiegel.de/wirtschaft/arbeitgeber-wollen-lieferkettengesetz-kippen-a-d7f2eaf7-6cfa-4be9-b05a-73d55ea11cd2#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-marschflugkoerper-aus-dem-jemen-trifft-tanker-us-zerstoerer-involviert](https://www.spiegel.de/ausland/israel-gaza-krieg-marschflugkoerper-aus-dem-jemen-trifft-tanker-us-zerstoerer-involviert-a-a3473ef6-1aca-4374-8c8b-2a19937881ee#ref=rss)
+### streit
+
+* [https://www.spiegel.de/ausland/cop-28-in-dubai-deutschland-weist-abschlusserklaerung-aus-den-emiraten-zurueck-verlaengerung-wahrscheinlich](https://www.spiegel.de/ausland/cop-28-in-dubai-deutschland-weist-abschlusserklaerung-aus-den-emiraten-zurueck-verlaengerung-wahrscheinlich-a-398dc518-0256-48a8-a489-2ce052d96eca#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/bund-der-steuerzahlerbund-wird-beim-finanzamt-angeschwaerzt](https://www.spiegel.de/wirtschaft/soziales/bund-der-steuerzahlerbund-wird-beim-finanzamt-angeschwaerzt-a-7c7601b6-d488-4120-96b2-e1c51df50bc1#ref=rss)
+### bücher
+
+* [https://www.spiegel.de/geschichte/geschenk-tipps-hier-sind-14-buecher-fuer-geschichtsliebhaber](https://www.spiegel.de/geschichte/geschenk-tipps-hier-sind-14-buecher-fuer-geschichtsliebhaber-a-2e535d2b-4fcd-4797-bac8-d7b75ddf65b1#ref=rss)
+### gemeinnützigkeit
+
+* [https://www.spiegel.de/wirtschaft/soziales/bund-der-steuerzahlerbund-wird-beim-finanzamt-angeschwaerzt](https://www.spiegel.de/wirtschaft/soziales/bund-der-steuerzahlerbund-wird-beim-finanzamt-angeschwaerzt-a-7c7601b6-d488-4120-96b2-e1c51df50bc1#ref=rss)
+### steuerzahler
+
+* [https://www.spiegel.de/wirtschaft/soziales/bund-der-steuerzahlerbund-wird-beim-finanzamt-angeschwaerzt](https://www.spiegel.de/wirtschaft/soziales/bund-der-steuerzahlerbund-wird-beim-finanzamt-angeschwaerzt-a-7c7601b6-d488-4120-96b2-e1c51df50bc1#ref=rss)
+### rudy
+
+* [https://www.spiegel.de/ausland/rudy-giuliani-40-millionen-dollar-prozess-wegen-verleumdung-eroeffnet](https://www.spiegel.de/ausland/rudy-giuliani-40-millionen-dollar-prozess-wegen-verleumdung-eroeffnet-a-f64e9649-1575-4a69-84dd-9a101988b0e6#ref=rss)
+### giuliani
+
+* [https://www.spiegel.de/ausland/rudy-giuliani-40-millionen-dollar-prozess-wegen-verleumdung-eroeffnet](https://www.spiegel.de/ausland/rudy-giuliani-40-millionen-dollar-prozess-wegen-verleumdung-eroeffnet-a-f64e9649-1575-4a69-84dd-9a101988b0e6#ref=rss)
+### verleumdung
+
+* [https://www.spiegel.de/ausland/rudy-giuliani-40-millionen-dollar-prozess-wegen-verleumdung-eroeffnet](https://www.spiegel.de/ausland/rudy-giuliani-40-millionen-dollar-prozess-wegen-verleumdung-eroeffnet-a-f64e9649-1575-4a69-84dd-9a101988b0e6#ref=rss)
 
