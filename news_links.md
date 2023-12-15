@@ -4,249 +4,287 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### eu
+### laut
 
-* [https://www.spiegel.de/ausland/eu-eroeffnet-beitrittsverhandlungen-mit-ukraine](https://www.spiegel.de/ausland/eu-eroeffnet-beitrittsverhandlungen-mit-ukraine-a-dfbc931b-e2f9-4609-bbe2-be8ac7f1f2c3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/eu-schuetzt-verbraucher-vor-ploetzlichen-strompreis-erhoehungen](https://www.spiegel.de/wirtschaft/service/eu-schuetzt-verbraucher-vor-ploetzlichen-strompreis-erhoehungen-a-74208e1c-aed9-4e0c-9f32-4389429921b0#ref=rss)
-### polen
-
-* [https://www.spiegel.de/ausland/polen-chanukka-leuchter-im-parlament-in-warschau-neu-entzuendet](https://www.spiegel.de/ausland/polen-chanukka-leuchter-im-parlament-in-warschau-neu-entzuendet-a-7396ed34-da9b-4f26-a23f-d67f91215eb5#ref=rss)
-* [https://www.spiegel.de/ausland/regierungswechsel-in-polen-das-sind-die-menschen-die-das-land-gedreht-haben](https://www.spiegel.de/ausland/regierungswechsel-in-polen-das-sind-die-menschen-die-das-land-gedreht-haben-a-2128da63-85a1-4497-9eff-83154697ac59#ref=rss)
-### ampel
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wladimir-putin-heizungsfoerderung-datenpanne-bei-tesla](https://www.spiegel.de/politik/deutschland/news-des-tages-wladimir-putin-heizungsfoerderung-datenpanne-bei-tesla-a-66c67823-caf5-4ce6-970f-9ef133871dc7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/ampel-zapft-reserve-der-bundesagentur-an-gewerkschaften-und-arbeitgeber-empoert](https://www.spiegel.de/wirtschaft/soziales/ampel-zapft-reserve-der-bundesagentur-an-gewerkschaften-und-arbeitgeber-empoert-a-08f0d3d1-59e1-4452-8a7d-12d93a6fb645#ref=rss)
-### patienten
-
-* [https://www.spiegel.de/panorama/justiz/bundesgerichtshof-bestaetigt-urteil-gegen-arzt-der-patienten-mit-hepatitis-c-infizierte](https://www.spiegel.de/panorama/justiz/bundesgerichtshof-bestaetigt-urteil-gegen-arzt-der-patienten-mit-hepatitis-c-infizierte-a-1f0531ce-992d-4865-ade4-c1c65de92ec5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kinderkrankmeldung-fuer-eltern-ab-18-dezember-auch-per-telefon](https://www.spiegel.de/politik/deutschland/kinderkrankmeldung-fuer-eltern-ab-18-dezember-auch-per-telefon-a-60dc5862-509e-49f9-93f0-3190845cb7d9#ref=rss)
-### männer
-
-* [https://www.spiegel.de/politik/hamas-mitglieder-sollen-anschlaege-in-europa-geplant-haben-vier-festnahmen](https://www.spiegel.de/politik/hamas-mitglieder-sollen-anschlaege-in-europa-geplant-haben-vier-festnahmen-a-bbcceea4-336f-46ae-8f2a-a21808c929fd#ref=rss)
-* [https://www.spiegel.de/netzwelt/jeremy-fragrance-und-andere-maenner-mit-gottkomplex-lasst-sie-uns-froh-und-munter-canceln](https://www.spiegel.de/netzwelt/jeremy-fragrance-und-andere-maenner-mit-gottkomplex-lasst-sie-uns-froh-und-munter-canceln-a-f57dfc3b-f693-4071-95ca-deaebc08763b#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/hamas-mitglieder-sollen-anschlaege-in-europa-geplant-haben-vier-festnahmen](https://www.spiegel.de/politik/hamas-mitglieder-sollen-anschlaege-in-europa-geplant-haben-vier-festnahmen-a-bbcceea4-336f-46ae-8f2a-a21808c929fd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/china-und-deutschland-abbruch-der-wirtschaftsbeziehungen-waere-wohl-verkraftbar](https://www.spiegel.de/wirtschaft/china-und-deutschland-abbruch-der-wirtschaftsbeziehungen-waere-wohl-verkraftbar-a-4d655e6a-04f9-4826-b8c1-6942752b2ac3#ref=rss)
-### andere
-
-* [https://www.spiegel.de/netzwelt/jeremy-fragrance-und-andere-maenner-mit-gottkomplex-lasst-sie-uns-froh-und-munter-canceln](https://www.spiegel.de/netzwelt/jeremy-fragrance-und-andere-maenner-mit-gottkomplex-lasst-sie-uns-froh-und-munter-canceln-a-f57dfc3b-f693-4071-95ca-deaebc08763b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/china-und-deutschland-abbruch-der-wirtschaftsbeziehungen-waere-wohl-verkraftbar](https://www.spiegel.de/wirtschaft/china-und-deutschland-abbruch-der-wirtschaftsbeziehungen-waere-wohl-verkraftbar-a-4d655e6a-04f9-4826-b8c1-6942752b2ac3#ref=rss)
-### wäre
-
-* [https://www.spiegel.de/netzwelt/jeremy-fragrance-und-andere-maenner-mit-gottkomplex-lasst-sie-uns-froh-und-munter-canceln](https://www.spiegel.de/netzwelt/jeremy-fragrance-und-andere-maenner-mit-gottkomplex-lasst-sie-uns-froh-und-munter-canceln-a-f57dfc3b-f693-4071-95ca-deaebc08763b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/china-und-deutschland-abbruch-der-wirtschaftsbeziehungen-waere-wohl-verkraftbar](https://www.spiegel.de/wirtschaft/china-und-deutschland-abbruch-der-wirtschaftsbeziehungen-waere-wohl-verkraftbar-a-4d655e6a-04f9-4826-b8c1-6942752b2ac3#ref=rss)
-### universität
-
-* [https://www.spiegel.de/panorama/justiz/freie-universitaet-berlin-polizei-raeumt-hoersaal-nach-besetzung-durch-palaestina-aktivisten](https://www.spiegel.de/panorama/justiz/freie-universitaet-berlin-polizei-raeumt-hoersaal-nach-besetzung-durch-palaestina-aktivisten-a-27c25851-2216-43b9-b2a2-2eb52ce4f22a#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/justiz/freie-universitaet-berlin-polizei-raeumt-hoersaal-nach-besetzung-durch-palaestina-aktivisten](https://www.spiegel.de/panorama/justiz/freie-universitaet-berlin-polizei-raeumt-hoersaal-nach-besetzung-durch-palaestina-aktivisten-a-27c25851-2216-43b9-b2a2-2eb52ce4f22a#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/justiz/freie-universitaet-berlin-polizei-raeumt-hoersaal-nach-besetzung-durch-palaestina-aktivisten](https://www.spiegel.de/panorama/justiz/freie-universitaet-berlin-polizei-raeumt-hoersaal-nach-besetzung-durch-palaestina-aktivisten-a-27c25851-2216-43b9-b2a2-2eb52ce4f22a#ref=rss)
-### hörsaal
-
-* [https://www.spiegel.de/panorama/justiz/freie-universitaet-berlin-polizei-raeumt-hoersaal-nach-besetzung-durch-palaestina-aktivisten](https://www.spiegel.de/panorama/justiz/freie-universitaet-berlin-polizei-raeumt-hoersaal-nach-besetzung-durch-palaestina-aktivisten-a-27c25851-2216-43b9-b2a2-2eb52ce4f22a#ref=rss)
-### empört
-
-* [https://www.spiegel.de/panorama/justiz/freie-universitaet-berlin-polizei-raeumt-hoersaal-nach-besetzung-durch-palaestina-aktivisten](https://www.spiegel.de/panorama/justiz/freie-universitaet-berlin-polizei-raeumt-hoersaal-nach-besetzung-durch-palaestina-aktivisten-a-27c25851-2216-43b9-b2a2-2eb52ce4f22a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/ampel-zapft-reserve-der-bundesagentur-an-gewerkschaften-und-arbeitgeber-empoert](https://www.spiegel.de/wirtschaft/soziales/ampel-zapft-reserve-der-bundesagentur-an-gewerkschaften-und-arbeitgeber-empoert-a-08f0d3d1-59e1-4452-8a7d-12d93a6fb645#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/eu-eroeffnet-beitrittsverhandlungen-mit-ukraine](https://www.spiegel.de/ausland/eu-eroeffnet-beitrittsverhandlungen-mit-ukraine-a-dfbc931b-e2f9-4609-bbe2-be8ac7f1f2c3#ref=rss)
-### rechtsextremen
-
-* [https://www.spiegel.de/ausland/polen-chanukka-leuchter-im-parlament-in-warschau-neu-entzuendet](https://www.spiegel.de/ausland/polen-chanukka-leuchter-im-parlament-in-warschau-neu-entzuendet-a-7396ed34-da9b-4f26-a23f-d67f91215eb5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/muenchen-haengt-die-gruenen-plakate-freispruch-fuer-neonazi-aufgehoben](https://www.spiegel.de/panorama/justiz/muenchen-haengt-die-gruenen-plakate-freispruch-fuer-neonazi-aufgehoben-a-0082ea7a-5585-4cfb-96bd-c163b79c2e41#ref=rss)
-### putin
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wladimir-putin-heizungsfoerderung-datenpanne-bei-tesla](https://www.spiegel.de/politik/deutschland/news-des-tages-wladimir-putin-heizungsfoerderung-datenpanne-bei-tesla-a-66c67823-caf5-4ce6-970f-9ef133871dc7#ref=rss)
-### tesla
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wladimir-putin-heizungsfoerderung-datenpanne-bei-tesla](https://www.spiegel.de/politik/deutschland/news-des-tages-wladimir-putin-heizungsfoerderung-datenpanne-bei-tesla-a-66c67823-caf5-4ce6-970f-9ef133871dc7#ref=rss)
-### pushbacks
-
-* [https://www.spiegel.de/ausland/pushbacks-in-der-aegaeis-europaparlament-draengt-auf-weitgehenden-frontex-rueckzug-aus-griechenland](https://www.spiegel.de/ausland/pushbacks-in-der-aegaeis-europaparlament-draengt-auf-weitgehenden-frontex-rueckzug-aus-griechenland-a-a1ef75f3-1d71-4667-b025-f02afab05bce#ref=rss)
-### ägäis
-
-* [https://www.spiegel.de/ausland/pushbacks-in-der-aegaeis-europaparlament-draengt-auf-weitgehenden-frontex-rueckzug-aus-griechenland](https://www.spiegel.de/ausland/pushbacks-in-der-aegaeis-europaparlament-draengt-auf-weitgehenden-frontex-rueckzug-aus-griechenland-a-a1ef75f3-1d71-4667-b025-f02afab05bce#ref=rss)
-### europaparlament
-
-* [https://www.spiegel.de/ausland/pushbacks-in-der-aegaeis-europaparlament-draengt-auf-weitgehenden-frontex-rueckzug-aus-griechenland](https://www.spiegel.de/ausland/pushbacks-in-der-aegaeis-europaparlament-draengt-auf-weitgehenden-frontex-rueckzug-aus-griechenland-a-a1ef75f3-1d71-4667-b025-f02afab05bce#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/israel-mit-der-hisbollah-im-norden-und-den-huthis-im-sueden-droht-ein-mehrfrontenkrieg](https://www.spiegel.de/ausland/israel-mit-der-hisbollah-im-norden-und-den-huthis-im-sueden-droht-ein-mehrfrontenkrieg-a-fb02940d-2988-4383-919c-0c0b64077a23#ref=rss)
-### hisbollah
-
-* [https://www.spiegel.de/ausland/israel-mit-der-hisbollah-im-norden-und-den-huthis-im-sueden-droht-ein-mehrfrontenkrieg](https://www.spiegel.de/ausland/israel-mit-der-hisbollah-im-norden-und-den-huthis-im-sueden-droht-ein-mehrfrontenkrieg-a-fb02940d-2988-4383-919c-0c0b64077a23#ref=rss)
-### norden
-
-* [https://www.spiegel.de/ausland/israel-mit-der-hisbollah-im-norden-und-den-huthis-im-sueden-droht-ein-mehrfrontenkrieg](https://www.spiegel.de/ausland/israel-mit-der-hisbollah-im-norden-und-den-huthis-im-sueden-droht-ein-mehrfrontenkrieg-a-fb02940d-2988-4383-919c-0c0b64077a23#ref=rss)
-### süden
-
-* [https://www.spiegel.de/ausland/israel-mit-der-hisbollah-im-norden-und-den-huthis-im-sueden-droht-ein-mehrfrontenkrieg](https://www.spiegel.de/ausland/israel-mit-der-hisbollah-im-norden-und-den-huthis-im-sueden-droht-ein-mehrfrontenkrieg-a-fb02940d-2988-4383-919c-0c0b64077a23#ref=rss)
-### raketen
-
-* [https://www.spiegel.de/ausland/israel-mit-der-hisbollah-im-norden-und-den-huthis-im-sueden-droht-ein-mehrfrontenkrieg](https://www.spiegel.de/ausland/israel-mit-der-hisbollah-im-norden-und-den-huthis-im-sueden-droht-ein-mehrfrontenkrieg-a-fb02940d-2988-4383-919c-0c0b64077a23#ref=rss)
-* [https://www.spiegel.de/ausland/kiew-die-explosionswelle-schleuderte-mich-gegen-die-tuer](https://www.spiegel.de/ausland/kiew-die-explosionswelle-schleuderte-mich-gegen-die-tuer-a-f113dd5c-6392-46b7-8174-f6215467cc56#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/israel-mit-der-hisbollah-im-norden-und-den-huthis-im-sueden-droht-ein-mehrfrontenkrieg](https://www.spiegel.de/ausland/israel-mit-der-hisbollah-im-norden-und-den-huthis-im-sueden-droht-ein-mehrfrontenkrieg-a-fb02940d-2988-4383-919c-0c0b64077a23#ref=rss)
-* [https://www.spiegel.de/ausland/rumaenien-russische-drohne-in-nato-gebiet-abgestuerzt](https://www.spiegel.de/ausland/rumaenien-russische-drohne-in-nato-gebiet-abgestuerzt-a-53a1c662-cee7-4ab0-82ea-7776dd30ce41#ref=rss)
-### bundesagentur
-
-* [https://www.spiegel.de/wirtschaft/soziales/ampel-zapft-reserve-der-bundesagentur-an-gewerkschaften-und-arbeitgeber-empoert](https://www.spiegel.de/wirtschaft/soziales/ampel-zapft-reserve-der-bundesagentur-an-gewerkschaften-und-arbeitgeber-empoert-a-08f0d3d1-59e1-4452-8a7d-12d93a6fb645#ref=rss)
-### arbeit
-
-* [https://www.spiegel.de/wirtschaft/soziales/ampel-zapft-reserve-der-bundesagentur-an-gewerkschaften-und-arbeitgeber-empoert](https://www.spiegel.de/wirtschaft/soziales/ampel-zapft-reserve-der-bundesagentur-an-gewerkschaften-und-arbeitgeber-empoert-a-08f0d3d1-59e1-4452-8a7d-12d93a6fb645#ref=rss)
-* [https://www.spiegel.de/start/berufseinstieg-bei-der-esa-constanze-nghiem-erzaehlt-vom-young-graduate-trainee-programm](https://www.spiegel.de/start/berufseinstieg-bei-der-esa-constanze-nghiem-erzaehlt-vom-young-graduate-trainee-programm-a-c18dad8a-f4ed-45a8-9532-1e1bf49058bd#ref=rss)
-### bundesgerichtshof
-
-* [https://www.spiegel.de/panorama/justiz/bundesgerichtshof-bestaetigt-urteil-gegen-arzt-der-patienten-mit-hepatitis-c-infizierte](https://www.spiegel.de/panorama/justiz/bundesgerichtshof-bestaetigt-urteil-gegen-arzt-der-patienten-mit-hepatitis-c-infizierte-a-1f0531ce-992d-4865-ade4-c1c65de92ec5#ref=rss)
-### hepatitis
-
-* [https://www.spiegel.de/panorama/justiz/bundesgerichtshof-bestaetigt-urteil-gegen-arzt-der-patienten-mit-hepatitis-c-infizierte](https://www.spiegel.de/panorama/justiz/bundesgerichtshof-bestaetigt-urteil-gegen-arzt-der-patienten-mit-hepatitis-c-infizierte-a-1f0531ce-992d-4865-ade4-c1c65de92ec5#ref=rss)
-### c
-
-* [https://www.spiegel.de/panorama/justiz/bundesgerichtshof-bestaetigt-urteil-gegen-arzt-der-patienten-mit-hepatitis-c-infizierte](https://www.spiegel.de/panorama/justiz/bundesgerichtshof-bestaetigt-urteil-gegen-arzt-der-patienten-mit-hepatitis-c-infizierte-a-1f0531ce-992d-4865-ade4-c1c65de92ec5#ref=rss)
-### niklas
-
-* [https://www.spiegel.de/sport/fussball/niklas-suele-vs-kylian-mbappe-die-ambivalenz-der-graetsche](https://www.spiegel.de/sport/fussball/niklas-suele-vs-kylian-mbappe-die-ambivalenz-der-graetsche-a-4c30039f-1311-4873-812e-84ae8f7e1abc#ref=rss)
-### süle
-
-* [https://www.spiegel.de/sport/fussball/niklas-suele-vs-kylian-mbappe-die-ambivalenz-der-graetsche](https://www.spiegel.de/sport/fussball/niklas-suele-vs-kylian-mbappe-die-ambivalenz-der-graetsche-a-4c30039f-1311-4873-812e-84ae8f7e1abc#ref=rss)
-### grätsche
-
-* [https://www.spiegel.de/sport/fussball/niklas-suele-vs-kylian-mbappe-die-ambivalenz-der-graetsche](https://www.spiegel.de/sport/fussball/niklas-suele-vs-kylian-mbappe-die-ambivalenz-der-graetsche-a-4c30039f-1311-4873-812e-84ae8f7e1abc#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/sport/fussball/niklas-suele-vs-kylian-mbappe-die-ambivalenz-der-graetsche](https://www.spiegel.de/sport/fussball/niklas-suele-vs-kylian-mbappe-die-ambivalenz-der-graetsche-a-4c30039f-1311-4873-812e-84ae8f7e1abc#ref=rss)
-* [https://www.spiegel.de/gesundheit/schwangerschaft/schwangerschaftsuebelkeit-forschende-finden-ursache](https://www.spiegel.de/gesundheit/schwangerschaft/schwangerschaftsuebelkeit-forschende-finden-ursache-a-3773350e-a6fa-4b35-8358-0beae1c0e681#ref=rss)
-### beginnt
-
-* [https://www.spiegel.de/gesundheit/schwangerschaft/schwangerschaftsuebelkeit-forschende-finden-ursache](https://www.spiegel.de/gesundheit/schwangerschaft/schwangerschaftsuebelkeit-forschende-finden-ursache-a-3773350e-a6fa-4b35-8358-0beae1c0e681#ref=rss)
-* [https://www.spiegel.de/kultur/kino/emmanuelle-debever-erhob-vorwuerfe-gegen-gerard-depardieu-nun-ist-sie-tot-die-staatsanwaltschaft-ermittelt](https://www.spiegel.de/kultur/kino/emmanuelle-debever-erhob-vorwuerfe-gegen-gerard-depardieu-nun-ist-sie-tot-die-staatsanwaltschaft-ermittelt-a-25e2344f-ddf1-4b6a-b1af-e47abe0086b5#ref=rss)
-### viele
-
-* [https://www.spiegel.de/gesundheit/schwangerschaft/schwangerschaftsuebelkeit-forschende-finden-ursache](https://www.spiegel.de/gesundheit/schwangerschaft/schwangerschaftsuebelkeit-forschende-finden-ursache-a-3773350e-a6fa-4b35-8358-0beae1c0e681#ref=rss)
-* [https://www.spiegel.de/netzwelt/jeremy-fragrance-und-andere-maenner-mit-gottkomplex-lasst-sie-uns-froh-und-munter-canceln](https://www.spiegel.de/netzwelt/jeremy-fragrance-und-andere-maenner-mit-gottkomplex-lasst-sie-uns-froh-und-munter-canceln-a-f57dfc3b-f693-4071-95ca-deaebc08763b#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/gesundheit/schwangerschaft/schwangerschaftsuebelkeit-forschende-finden-ursache](https://www.spiegel.de/gesundheit/schwangerschaft/schwangerschaftsuebelkeit-forschende-finden-ursache-a-3773350e-a6fa-4b35-8358-0beae1c0e681#ref=rss)
-* [https://www.spiegel.de/kultur/kino/emmanuelle-debever-erhob-vorwuerfe-gegen-gerard-depardieu-nun-ist-sie-tot-die-staatsanwaltschaft-ermittelt](https://www.spiegel.de/kultur/kino/emmanuelle-debever-erhob-vorwuerfe-gegen-gerard-depardieu-nun-ist-sie-tot-die-staatsanwaltschaft-ermittelt-a-25e2344f-ddf1-4b6a-b1af-e47abe0086b5#ref=rss)
-### russische
-
-* [https://www.spiegel.de/ausland/rumaenien-russische-drohne-in-nato-gebiet-abgestuerzt](https://www.spiegel.de/ausland/rumaenien-russische-drohne-in-nato-gebiet-abgestuerzt-a-53a1c662-cee7-4ab0-82ea-7776dd30ce41#ref=rss)
-* [https://www.spiegel.de/ausland/kiew-die-explosionswelle-schleuderte-mich-gegen-die-tuer](https://www.spiegel.de/ausland/kiew-die-explosionswelle-schleuderte-mich-gegen-die-tuer-a-f113dd5c-6392-46b7-8174-f6215467cc56#ref=rss)
-### drohne
-
-* [https://www.spiegel.de/ausland/rumaenien-russische-drohne-in-nato-gebiet-abgestuerzt](https://www.spiegel.de/ausland/rumaenien-russische-drohne-in-nato-gebiet-abgestuerzt-a-53a1c662-cee7-4ab0-82ea-7776dd30ce41#ref=rss)
-### eukommission
-
-* [https://www.spiegel.de/wirtschaft/eu-kommission-gegen-luxemburg-amazon-muss-doch-keine-250-millionen-euro-steuern-nachzahlen](https://www.spiegel.de/wirtschaft/eu-kommission-gegen-luxemburg-amazon-muss-doch-keine-250-millionen-euro-steuern-nachzahlen-a-049b7510-4bdc-4e74-bd1c-e72802e1b2e6#ref=rss)
-### luxemburg
-
-* [https://www.spiegel.de/wirtschaft/eu-kommission-gegen-luxemburg-amazon-muss-doch-keine-250-millionen-euro-steuern-nachzahlen](https://www.spiegel.de/wirtschaft/eu-kommission-gegen-luxemburg-amazon-muss-doch-keine-250-millionen-euro-steuern-nachzahlen-a-049b7510-4bdc-4e74-bd1c-e72802e1b2e6#ref=rss)
-### amazon
-
-* [https://www.spiegel.de/wirtschaft/eu-kommission-gegen-luxemburg-amazon-muss-doch-keine-250-millionen-euro-steuern-nachzahlen](https://www.spiegel.de/wirtschaft/eu-kommission-gegen-luxemburg-amazon-muss-doch-keine-250-millionen-euro-steuern-nachzahlen-a-049b7510-4bdc-4e74-bd1c-e72802e1b2e6#ref=rss)
-### verbraucher
-
-* [https://www.spiegel.de/wirtschaft/service/eu-schuetzt-verbraucher-vor-ploetzlichen-strompreis-erhoehungen](https://www.spiegel.de/wirtschaft/service/eu-schuetzt-verbraucher-vor-ploetzlichen-strompreis-erhoehungen-a-74208e1c-aed9-4e0c-9f32-4389429921b0#ref=rss)
-### emmanuelle
-
-* [https://www.spiegel.de/kultur/kino/emmanuelle-debever-erhob-vorwuerfe-gegen-gerard-depardieu-nun-ist-sie-tot-die-staatsanwaltschaft-ermittelt](https://www.spiegel.de/kultur/kino/emmanuelle-debever-erhob-vorwuerfe-gegen-gerard-depardieu-nun-ist-sie-tot-die-staatsanwaltschaft-ermittelt-a-25e2344f-ddf1-4b6a-b1af-e47abe0086b5#ref=rss)
-### debever
-
-* [https://www.spiegel.de/kultur/kino/emmanuelle-debever-erhob-vorwuerfe-gegen-gerard-depardieu-nun-ist-sie-tot-die-staatsanwaltschaft-ermittelt](https://www.spiegel.de/kultur/kino/emmanuelle-debever-erhob-vorwuerfe-gegen-gerard-depardieu-nun-ist-sie-tot-die-staatsanwaltschaft-ermittelt-a-25e2344f-ddf1-4b6a-b1af-e47abe0086b5#ref=rss)
-### gérard
-
-* [https://www.spiegel.de/kultur/kino/emmanuelle-debever-erhob-vorwuerfe-gegen-gerard-depardieu-nun-ist-sie-tot-die-staatsanwaltschaft-ermittelt](https://www.spiegel.de/kultur/kino/emmanuelle-debever-erhob-vorwuerfe-gegen-gerard-depardieu-nun-ist-sie-tot-die-staatsanwaltschaft-ermittelt-a-25e2344f-ddf1-4b6a-b1af-e47abe0086b5#ref=rss)
-### depardieu
-
-* [https://www.spiegel.de/kultur/kino/emmanuelle-debever-erhob-vorwuerfe-gegen-gerard-depardieu-nun-ist-sie-tot-die-staatsanwaltschaft-ermittelt](https://www.spiegel.de/kultur/kino/emmanuelle-debever-erhob-vorwuerfe-gegen-gerard-depardieu-nun-ist-sie-tot-die-staatsanwaltschaft-ermittelt-a-25e2344f-ddf1-4b6a-b1af-e47abe0086b5#ref=rss)
-### tot
-
-* [https://www.spiegel.de/kultur/kino/emmanuelle-debever-erhob-vorwuerfe-gegen-gerard-depardieu-nun-ist-sie-tot-die-staatsanwaltschaft-ermittelt](https://www.spiegel.de/kultur/kino/emmanuelle-debever-erhob-vorwuerfe-gegen-gerard-depardieu-nun-ist-sie-tot-die-staatsanwaltschaft-ermittelt-a-25e2344f-ddf1-4b6a-b1af-e47abe0086b5#ref=rss)
-### staatsanwaltschaft
-
-* [https://www.spiegel.de/kultur/kino/emmanuelle-debever-erhob-vorwuerfe-gegen-gerard-depardieu-nun-ist-sie-tot-die-staatsanwaltschaft-ermittelt](https://www.spiegel.de/kultur/kino/emmanuelle-debever-erhob-vorwuerfe-gegen-gerard-depardieu-nun-ist-sie-tot-die-staatsanwaltschaft-ermittelt-a-25e2344f-ddf1-4b6a-b1af-e47abe0086b5#ref=rss)
-### nick
-
-* [https://www.spiegel.de/sport/tennis/tennis-social-media-streit-zwischen-nick-kyrgios-und-boris-becker](https://www.spiegel.de/sport/tennis/tennis-social-media-streit-zwischen-nick-kyrgios-und-boris-becker-a-b73a165b-44e5-4268-a0b8-d9ae729dfb28#ref=rss)
-### kyrgios
-
-* [https://www.spiegel.de/sport/tennis/tennis-social-media-streit-zwischen-nick-kyrgios-und-boris-becker](https://www.spiegel.de/sport/tennis/tennis-social-media-streit-zwischen-nick-kyrgios-und-boris-becker-a-b73a165b-44e5-4268-a0b8-d9ae729dfb28#ref=rss)
-### boris
-
-* [https://www.spiegel.de/sport/tennis/tennis-social-media-streit-zwischen-nick-kyrgios-und-boris-becker](https://www.spiegel.de/sport/tennis/tennis-social-media-streit-zwischen-nick-kyrgios-und-boris-becker-a-b73a165b-44e5-4268-a0b8-d9ae729dfb28#ref=rss)
-### becker
-
-* [https://www.spiegel.de/sport/tennis/tennis-social-media-streit-zwischen-nick-kyrgios-und-boris-becker](https://www.spiegel.de/sport/tennis/tennis-social-media-streit-zwischen-nick-kyrgios-und-boris-becker-a-b73a165b-44e5-4268-a0b8-d9ae729dfb28#ref=rss)
-### hängt
-
-* [https://www.spiegel.de/panorama/justiz/muenchen-haengt-die-gruenen-plakate-freispruch-fuer-neonazi-aufgehoben](https://www.spiegel.de/panorama/justiz/muenchen-haengt-die-gruenen-plakate-freispruch-fuer-neonazi-aufgehoben-a-0082ea7a-5585-4cfb-96bd-c163b79c2e41#ref=rss)
-### freispruch
-
-* [https://www.spiegel.de/panorama/justiz/muenchen-haengt-die-gruenen-plakate-freispruch-fuer-neonazi-aufgehoben](https://www.spiegel.de/panorama/justiz/muenchen-haengt-die-gruenen-plakate-freispruch-fuer-neonazi-aufgehoben-a-0082ea7a-5585-4cfb-96bd-c163b79c2e41#ref=rss)
-### bayerische
-
-* [https://www.spiegel.de/panorama/justiz/muenchen-haengt-die-gruenen-plakate-freispruch-fuer-neonazi-aufgehoben](https://www.spiegel.de/panorama/justiz/muenchen-haengt-die-gruenen-plakate-freispruch-fuer-neonazi-aufgehoben-a-0082ea7a-5585-4cfb-96bd-c163b79c2e41#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-fuer-neuwahlen-und-gegen-gendern-captain-kulturkampf-podcast](https://www.spiegel.de/politik/deutschland/markus-soeder-fuer-neuwahlen-und-gegen-gendern-captain-kulturkampf-podcast-a-da108ca9-96ae-483b-ada2-fd6728b05364#ref=rss)
-### wolodymyr
-
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-ukrainischer-praesident-besucht-ueberraschend-hessen](https://www.spiegel.de/ausland/wolodymyr-selenskyj-ukrainischer-praesident-besucht-ueberraschend-hessen-a-465b028a-35e3-4454-9dda-59bc1016526e#ref=rss)
-### selenskyj
-
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-ukrainischer-praesident-besucht-ueberraschend-hessen](https://www.spiegel.de/ausland/wolodymyr-selenskyj-ukrainischer-praesident-besucht-ueberraschend-hessen-a-465b028a-35e3-4454-9dda-59bc1016526e#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-ukrainischer-praesident-besucht-ueberraschend-hessen](https://www.spiegel.de/ausland/wolodymyr-selenskyj-ukrainischer-praesident-besucht-ueberraschend-hessen-a-465b028a-35e3-4454-9dda-59bc1016526e#ref=rss)
-### hamas
-
-* [https://www.spiegel.de/politik/hamas-mitglieder-sollen-anschlaege-in-europa-geplant-haben-vier-festnahmen](https://www.spiegel.de/politik/hamas-mitglieder-sollen-anschlaege-in-europa-geplant-haben-vier-festnahmen-a-bbcceea4-336f-46ae-8f2a-a21808c929fd#ref=rss)
-### vier
-
-* [https://www.spiegel.de/politik/hamas-mitglieder-sollen-anschlaege-in-europa-geplant-haben-vier-festnahmen](https://www.spiegel.de/politik/hamas-mitglieder-sollen-anschlaege-in-europa-geplant-haben-vier-festnahmen-a-bbcceea4-336f-46ae-8f2a-a21808c929fd#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/mark-zuckerberg-soll-bunker-auf-hawaii-insel-bauen-lassen](https://www.spiegel.de/netzwelt/web/mark-zuckerberg-soll-bunker-auf-hawaii-insel-bauen-lassen-a-893bf67a-8135-42e4-80c3-a7617b5a08a5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bundesbank-reduziert-wachstumsprognose-fuer-2024-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/bundesbank-reduziert-wachstumsprognose-fuer-2024-deutlich-a-ea6ff6a0-f370-4be2-8e8b-719991f157dc#ref=rss)
+* [https://www.spiegel.de/gesundheit/adhs-bei-erwachsenen-alles-ist-immer-laut-und-hell-und-anstrengend](https://www.spiegel.de/gesundheit/adhs-bei-erwachsenen-alles-ist-immer-laut-und-hell-und-anstrengend-a-c67a544d-ef2b-40ce-95d4-373610a044be#ref=rss)
+* [https://www.spiegel.de/panorama/querfurt-unfall-mit-falschfahrer-auf-a38-mehrere-tote](https://www.spiegel.de/panorama/querfurt-unfall-mit-falschfahrer-auf-a38-mehrere-tote-a-972dab58-ab52-4cfa-b5f2-3202a20437d7#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/ausland/regierungswechsel-in-polen-das-sind-die-menschen-die-das-land-gedreht-haben](https://www.spiegel.de/ausland/regierungswechsel-in-polen-das-sind-die-menschen-die-das-land-gedreht-haben-a-2128da63-85a1-4497-9eff-83154697ac59#ref=rss)
-### land
+* [https://www.spiegel.de/ausland/israel-hamas-krieg-israels-armee-birgt-leiche-von-verschleppter-franzoesischer-geisel](https://www.spiegel.de/ausland/israel-hamas-krieg-israels-armee-birgt-leiche-von-verschleppter-franzoesischer-geisel-a-37cabaf0-5e8a-4e7b-a573-cfc66f607164#ref=rss)
+* [https://www.spiegel.de/panorama/peking-rund-hundert-schwerer-verletzte-bei-u-bahn-unglueck](https://www.spiegel.de/panorama/peking-rund-hundert-schwerer-verletzte-bei-u-bahn-unglueck-a-6998d238-8391-4374-835e-46be8219e3f8#ref=rss)
+* [https://www.spiegel.de/sport/fussball/europa-league-spiel-zwischen-ajax-amsterdam-und-aek-athen-fan-ausschreitungen-und-147-festnahmen](https://www.spiegel.de/sport/fussball/europa-league-spiel-zwischen-ajax-amsterdam-und-aek-athen-fan-ausschreitungen-und-147-festnahmen-a-a4889179-91dc-45c5-9cf9-eab328b22cb4#ref=rss)
+* [https://www.spiegel.de/ausland/iran-mindestens-elf-tote-bei-angriff-auf-polizeistation-im-suedosten-des-landes](https://www.spiegel.de/ausland/iran-mindestens-elf-tote-bei-angriff-auf-polizeistation-im-suedosten-des-landes-a-c33d6684-c969-4ab0-8cbd-a1d525cffed0#ref=rss)
+* [https://www.spiegel.de/panorama/querfurt-unfall-mit-falschfahrer-auf-a38-mehrere-tote](https://www.spiegel.de/panorama/querfurt-unfall-mit-falschfahrer-auf-a38-mehrere-tote-a-972dab58-ab52-4cfa-b5f2-3202a20437d7#ref=rss)
+### unter
 
-* [https://www.spiegel.de/ausland/regierungswechsel-in-polen-das-sind-die-menschen-die-das-land-gedreht-haben](https://www.spiegel.de/ausland/regierungswechsel-in-polen-das-sind-die-menschen-die-das-land-gedreht-haben-a-2128da63-85a1-4497-9eff-83154697ac59#ref=rss)
-* [https://www.spiegel.de/netzwelt/jeremy-fragrance-und-andere-maenner-mit-gottkomplex-lasst-sie-uns-froh-und-munter-canceln](https://www.spiegel.de/netzwelt/jeremy-fragrance-und-andere-maenner-mit-gottkomplex-lasst-sie-uns-froh-und-munter-canceln-a-f57dfc3b-f693-4071-95ca-deaebc08763b#ref=rss)
-### jeremy
+* [https://www.spiegel.de/wirtschaft/unternehmen/pck-oelraffinerie-in-schwedt-shell-verkauft-anteil-an-britischen-konzern](https://www.spiegel.de/wirtschaft/unternehmen/pck-oelraffinerie-in-schwedt-shell-verkauft-anteil-an-britischen-konzern-a-dfc02a93-2a29-49fd-b2f5-9783eec4b78e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elbtower-in-hamburg-klaus-michael-kuehne-setzt-stadt-vor-moeglichem-einstieg-unter-druck](https://www.spiegel.de/wirtschaft/elbtower-in-hamburg-klaus-michael-kuehne-setzt-stadt-vor-moeglichem-einstieg-unter-druck-a-6e37c9d8-3af8-41ab-999a-bace3ca43104#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/mark-zuckerberg-soll-bunker-auf-hawaii-insel-bauen-lassen](https://www.spiegel.de/netzwelt/web/mark-zuckerberg-soll-bunker-auf-hawaii-insel-bauen-lassen-a-893bf67a-8135-42e4-80c3-a7617b5a08a5#ref=rss)
+* [https://www.spiegel.de/gesundheit/alternativmedizin-schadet-das-einrenken-beim-chiropraktiker-oft-mehr-als-es-nuetzt](https://www.spiegel.de/gesundheit/alternativmedizin-schadet-das-einrenken-beim-chiropraktiker-oft-mehr-als-es-nuetzt-a-04c7b152-f915-4751-82b5-1d04c6d3ca32#ref=rss)
+### schuldenbremse
 
-* [https://www.spiegel.de/netzwelt/jeremy-fragrance-und-andere-maenner-mit-gottkomplex-lasst-sie-uns-froh-und-munter-canceln](https://www.spiegel.de/netzwelt/jeremy-fragrance-und-andere-maenner-mit-gottkomplex-lasst-sie-uns-froh-und-munter-canceln-a-f57dfc3b-f693-4071-95ca-deaebc08763b#ref=rss)
-### fragrance
+* [https://www.spiegel.de/politik/deutschland/bundestag-stimmt-fuer-aussetzung-der-schuldenbremse-2023](https://www.spiegel.de/politik/deutschland/bundestag-stimmt-fuer-aussetzung-der-schuldenbremse-2023-a-a6588893-71db-4e37-9a8d-8e00cb180dc3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/schuldenbremse-daniel-bayaz-und-stefan-evers-fordern-kommission-zur-reform](https://www.spiegel.de/wirtschaft/unternehmen/schuldenbremse-daniel-bayaz-und-stefan-evers-fordern-kommission-zur-reform-a-83e8f663-8002-4055-a320-0b11f80a28e6#ref=rss)
+### rund
 
-* [https://www.spiegel.de/netzwelt/jeremy-fragrance-und-andere-maenner-mit-gottkomplex-lasst-sie-uns-froh-und-munter-canceln](https://www.spiegel.de/netzwelt/jeremy-fragrance-und-andere-maenner-mit-gottkomplex-lasst-sie-uns-froh-und-munter-canceln-a-f57dfc3b-f693-4071-95ca-deaebc08763b#ref=rss)
-### gottkomplex
+* [https://www.spiegel.de/politik/deutschland/co2-preis-erhoehung-warum-die-ampel-tanken-und-heizen-teurer-macht](https://www.spiegel.de/politik/deutschland/co2-preis-erhoehung-warum-die-ampel-tanken-und-heizen-teurer-macht-a-cafb80f7-cc06-41c9-bd07-b63296596984#ref=rss)
+* [https://www.spiegel.de/panorama/peking-rund-hundert-schwerer-verletzte-bei-u-bahn-unglueck](https://www.spiegel.de/panorama/peking-rund-hundert-schwerer-verletzte-bei-u-bahn-unglueck-a-6998d238-8391-4374-835e-46be8219e3f8#ref=rss)
+* [https://www.spiegel.de/sport/fussball/europa-league-spiel-zwischen-ajax-amsterdam-und-aek-athen-fan-ausschreitungen-und-147-festnahmen](https://www.spiegel.de/sport/fussball/europa-league-spiel-zwischen-ajax-amsterdam-und-aek-athen-fan-ausschreitungen-und-147-festnahmen-a-a4889179-91dc-45c5-9cf9-eab328b22cb4#ref=rss)
+### bundesregierung
 
-* [https://www.spiegel.de/netzwelt/jeremy-fragrance-und-andere-maenner-mit-gottkomplex-lasst-sie-uns-froh-und-munter-canceln](https://www.spiegel.de/netzwelt/jeremy-fragrance-und-andere-maenner-mit-gottkomplex-lasst-sie-uns-froh-und-munter-canceln-a-f57dfc3b-f693-4071-95ca-deaebc08763b#ref=rss)
-### china
+* [https://www.spiegel.de/politik/deutschland/migration-bundesregierung-schliesst-abkommen-mit-georgien](https://www.spiegel.de/politik/deutschland/migration-bundesregierung-schliesst-abkommen-mit-georgien-a-5cd5e94d-02eb-43a9-82d8-edc5addbd4d0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/waffenexport-bundesregierung-genehmigt-kaum-noch-lieferungen-an-die-tuerkei](https://www.spiegel.de/politik/deutschland/waffenexport-bundesregierung-genehmigt-kaum-noch-lieferungen-an-die-tuerkei-a-5aef1b6c-64ec-49ab-81a2-78a20d38d7c4#ref=rss)
+### 2024
 
-* [https://www.spiegel.de/wirtschaft/china-und-deutschland-abbruch-der-wirtschaftsbeziehungen-waere-wohl-verkraftbar](https://www.spiegel.de/wirtschaft/china-und-deutschland-abbruch-der-wirtschaftsbeziehungen-waere-wohl-verkraftbar-a-4d655e6a-04f9-4826-b8c1-6942752b2ac3#ref=rss)
-### markus
+* [https://www.spiegel.de/sport/fussball/quiz-zur-darts-wm-2024-sind-sie-bereit-fuer-den-ally-pally](https://www.spiegel.de/sport/fussball/quiz-zur-darts-wm-2024-sind-sie-bereit-fuer-den-ally-pally-a-01cd99e7-f3f2-455d-b8d8-abbd6600e343#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bundesbank-reduziert-wachstumsprognose-fuer-2024-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/bundesbank-reduziert-wachstumsprognose-fuer-2024-deutlich-a-ea6ff6a0-f370-4be2-8e8b-719991f157dc#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-2024-spielplan-ergebnisse-tv-uebertragung](https://www.spiegel.de/sport/darts-wm-2024-spielplan-ergebnisse-tv-uebertragung-a-9c35ca03-4a0d-4002-bb73-1c393c76d5fb#ref=rss)
+### türkei
 
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-fuer-neuwahlen-und-gegen-gendern-captain-kulturkampf-podcast](https://www.spiegel.de/politik/deutschland/markus-soeder-fuer-neuwahlen-und-gegen-gendern-captain-kulturkampf-podcast-a-da108ca9-96ae-483b-ada2-fd6728b05364#ref=rss)
-### söder
+* [https://www.spiegel.de/politik/deutschland/waffenexport-bundesregierung-genehmigt-kaum-noch-lieferungen-an-die-tuerkei](https://www.spiegel.de/politik/deutschland/waffenexport-bundesregierung-genehmigt-kaum-noch-lieferungen-an-die-tuerkei-a-5aef1b6c-64ec-49ab-81a2-78a20d38d7c4#ref=rss)
+### ich
 
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-fuer-neuwahlen-und-gegen-gendern-captain-kulturkampf-podcast](https://www.spiegel.de/politik/deutschland/markus-soeder-fuer-neuwahlen-und-gegen-gendern-captain-kulturkampf-podcast-a-da108ca9-96ae-483b-ada2-fd6728b05364#ref=rss)
-### chiasamen
+* [https://www.spiegel.de/gesundheit/adhs-bei-erwachsenen-alles-ist-immer-laut-und-hell-und-anstrengend](https://www.spiegel.de/gesundheit/adhs-bei-erwachsenen-alles-ist-immer-laut-und-hell-und-anstrengend-a-c67a544d-ef2b-40ce-95d4-373610a044be#ref=rss)
+### israel
 
-* [https://www.spiegel.de/gesundheit/ernaehrung/chiasamen-als-superfood-wie-sie-die-gesundheit-verbessern-koennen](https://www.spiegel.de/gesundheit/ernaehrung/chiasamen-als-superfood-wie-sie-die-gesundheit-verbessern-koennen-a-29280335-e5df-4d71-a812-47f68bf73921#ref=rss)
-### gesundheit
+* [https://www.spiegel.de/ausland/israel-schwoert-usa-auf-langen-krieg-im-gazastreifen-ein](https://www.spiegel.de/ausland/israel-schwoert-usa-auf-langen-krieg-im-gazastreifen-ein-a-bcaf42d2-2e47-4384-b540-aedeff339897#ref=rss)
+### anteil
 
-* [https://www.spiegel.de/gesundheit/ernaehrung/chiasamen-als-superfood-wie-sie-die-gesundheit-verbessern-koennen](https://www.spiegel.de/gesundheit/ernaehrung/chiasamen-als-superfood-wie-sie-die-gesundheit-verbessern-koennen-a-29280335-e5df-4d71-a812-47f68bf73921#ref=rss)
-### leitzins
+* [https://www.spiegel.de/wirtschaft/unternehmen/pck-oelraffinerie-in-schwedt-shell-verkauft-anteil-an-britischen-konzern](https://www.spiegel.de/wirtschaft/unternehmen/pck-oelraffinerie-in-schwedt-shell-verkauft-anteil-an-britischen-konzern-a-dfc02a93-2a29-49fd-b2f5-9783eec4b78e#ref=rss)
+### ampel
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/ezb-laesst-leitzins-im-euroraum-erneut-unveraendert](https://www.spiegel.de/wirtschaft/unternehmen/ezb-laesst-leitzins-im-euroraum-erneut-unveraendert-a-2f41c038-d31d-48cc-8de2-0c1e93ae4fc8#ref=rss)
-### constanze
+* [https://www.spiegel.de/politik/deutschland/co2-preis-erhoehung-warum-die-ampel-tanken-und-heizen-teurer-macht](https://www.spiegel.de/politik/deutschland/co2-preis-erhoehung-warum-die-ampel-tanken-und-heizen-teurer-macht-a-cafb80f7-cc06-41c9-bd07-b63296596984#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/fdp-startet-mitgliederbefragung-zum-ampel-aus-kommende-woche](https://www.spiegel.de/politik/deutschland/fdp-startet-mitgliederbefragung-zum-ampel-aus-kommende-woche-a-595125dc-e3aa-43f1-b25b-be05fe13bb50#ref=rss)
+### macht
 
-* [https://www.spiegel.de/start/berufseinstieg-bei-der-esa-constanze-nghiem-erzaehlt-vom-young-graduate-trainee-programm](https://www.spiegel.de/start/berufseinstieg-bei-der-esa-constanze-nghiem-erzaehlt-vom-young-graduate-trainee-programm-a-c18dad8a-f4ed-45a8-9532-1e1bf49058bd#ref=rss)
-### nghiem
+* [https://www.spiegel.de/politik/deutschland/co2-preis-erhoehung-warum-die-ampel-tanken-und-heizen-teurer-macht](https://www.spiegel.de/politik/deutschland/co2-preis-erhoehung-warum-die-ampel-tanken-und-heizen-teurer-macht-a-cafb80f7-cc06-41c9-bd07-b63296596984#ref=rss)
+* [https://www.spiegel.de/ausland/viktor-orban-macht-zustimmung-zu-ukraine-hilfen-von-freigabe-aller-eu-mittel-fuer-ungarn-abhaengig](https://www.spiegel.de/ausland/viktor-orban-macht-zustimmung-zu-ukraine-hilfen-von-freigabe-aller-eu-mittel-fuer-ungarn-abhaengig-a-72a99ea4-574f-4ae9-81e9-efcf4033ff9e#ref=rss)
+### gesellschaft
 
-* [https://www.spiegel.de/start/berufseinstieg-bei-der-esa-constanze-nghiem-erzaehlt-vom-young-graduate-trainee-programm](https://www.spiegel.de/start/berufseinstieg-bei-der-esa-constanze-nghiem-erzaehlt-vom-young-graduate-trainee-programm-a-c18dad8a-f4ed-45a8-9532-1e1bf49058bd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/co2-preis-erhoehung-warum-die-ampel-tanken-und-heizen-teurer-macht](https://www.spiegel.de/politik/deutschland/co2-preis-erhoehung-warum-die-ampel-tanken-und-heizen-teurer-macht-a-cafb80f7-cc06-41c9-bd07-b63296596984#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-und-muslime-die-endgueltige-abkehr-von-angela-merkel-meinung](https://www.spiegel.de/politik/deutschland/cdu-und-muslime-die-endgueltige-abkehr-von-angela-merkel-meinung-a-811b0471-ba40-4396-bc84-038bebefd250#ref=rss)
+### fordern
+
+* [https://www.spiegel.de/politik/deutschland/co2-preis-erhoehung-warum-die-ampel-tanken-und-heizen-teurer-macht](https://www.spiegel.de/politik/deutschland/co2-preis-erhoehung-warum-die-ampel-tanken-und-heizen-teurer-macht-a-cafb80f7-cc06-41c9-bd07-b63296596984#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/schuldenbremse-daniel-bayaz-und-stefan-evers-fordern-kommission-zur-reform](https://www.spiegel.de/wirtschaft/unternehmen/schuldenbremse-daniel-bayaz-und-stefan-evers-fordern-kommission-zur-reform-a-83e8f663-8002-4055-a320-0b11f80a28e6#ref=rss)
+### abkommen
+
+* [https://www.spiegel.de/politik/deutschland/migration-bundesregierung-schliesst-abkommen-mit-georgien](https://www.spiegel.de/politik/deutschland/migration-bundesregierung-schliesst-abkommen-mit-georgien-a-5cd5e94d-02eb-43a9-82d8-edc5addbd4d0#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/politik/deutschland/migration-bundesregierung-schliesst-abkommen-mit-georgien](https://www.spiegel.de/politik/deutschland/migration-bundesregierung-schliesst-abkommen-mit-georgien-a-5cd5e94d-02eb-43a9-82d8-edc5addbd4d0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/waffenexport-bundesregierung-genehmigt-kaum-noch-lieferungen-an-die-tuerkei](https://www.spiegel.de/politik/deutschland/waffenexport-bundesregierung-genehmigt-kaum-noch-lieferungen-an-die-tuerkei-a-5aef1b6c-64ec-49ab-81a2-78a20d38d7c4#ref=rss)
+### bundestag
+
+* [https://www.spiegel.de/politik/deutschland/bundestag-stimmt-fuer-aussetzung-der-schuldenbremse-2023](https://www.spiegel.de/politik/deutschland/bundestag-stimmt-fuer-aussetzung-der-schuldenbremse-2023-a-a6588893-71db-4e37-9a8d-8e00cb180dc3#ref=rss)
+### 2023
+
+* [https://www.spiegel.de/politik/deutschland/bundestag-stimmt-fuer-aussetzung-der-schuldenbremse-2023](https://www.spiegel.de/politik/deutschland/bundestag-stimmt-fuer-aussetzung-der-schuldenbremse-2023-a-a6588893-71db-4e37-9a8d-8e00cb180dc3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/waffenexport-bundesregierung-genehmigt-kaum-noch-lieferungen-an-die-tuerkei](https://www.spiegel.de/politik/deutschland/waffenexport-bundesregierung-genehmigt-kaum-noch-lieferungen-an-die-tuerkei-a-5aef1b6c-64ec-49ab-81a2-78a20d38d7c4#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/politik/deutschland/bundestag-stimmt-fuer-aussetzung-der-schuldenbremse-2023](https://www.spiegel.de/politik/deutschland/bundestag-stimmt-fuer-aussetzung-der-schuldenbremse-2023-a-a6588893-71db-4e37-9a8d-8e00cb180dc3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bundesbank-reduziert-wachstumsprognose-fuer-2024-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/bundesbank-reduziert-wachstumsprognose-fuer-2024-deutlich-a-ea6ff6a0-f370-4be2-8e8b-719991f157dc#ref=rss)
+### ausgesetzt
+
+* [https://www.spiegel.de/politik/deutschland/bundestag-stimmt-fuer-aussetzung-der-schuldenbremse-2023](https://www.spiegel.de/politik/deutschland/bundestag-stimmt-fuer-aussetzung-der-schuldenbremse-2023-a-a6588893-71db-4e37-9a8d-8e00cb180dc3#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/vorwuerfe-gegen-gruenen-politiker-limbach-richtervereinigung-haelt-nrw-justizminister-fuer-untragbar](https://www.spiegel.de/panorama/justiz/vorwuerfe-gegen-gruenen-politiker-limbach-richtervereinigung-haelt-nrw-justizminister-fuer-untragbar-a-332f674d-5dd0-4d18-995f-f37f8d42b0c2#ref=rss)
+### mehrheit
+
+* [https://www.spiegel.de/politik/deutschland/bundestag-stimmt-fuer-aussetzung-der-schuldenbremse-2023](https://www.spiegel.de/politik/deutschland/bundestag-stimmt-fuer-aussetzung-der-schuldenbremse-2023-a-a6588893-71db-4e37-9a8d-8e00cb180dc3#ref=rss)
+* [https://www.spiegel.de/start/studienfinanzierung-studierende-greifen-eher-auf-eltern-als-auf-bafoeg-zurueck](https://www.spiegel.de/start/studienfinanzierung-studierende-greifen-eher-auf-eltern-als-auf-bafoeg-zurueck-a-c4eba06a-2684-4a0a-a166-4c14aaa3ed43#ref=rss)
+### elbtower
+
+* [https://www.spiegel.de/wirtschaft/elbtower-in-hamburg-klaus-michael-kuehne-setzt-stadt-vor-moeglichem-einstieg-unter-druck](https://www.spiegel.de/wirtschaft/elbtower-in-hamburg-klaus-michael-kuehne-setzt-stadt-vor-moeglichem-einstieg-unter-druck-a-6e37c9d8-3af8-41ab-999a-bace3ca43104#ref=rss)
+### wochen
+
+* [https://www.spiegel.de/wirtschaft/elbtower-in-hamburg-klaus-michael-kuehne-setzt-stadt-vor-moeglichem-einstieg-unter-druck](https://www.spiegel.de/wirtschaft/elbtower-in-hamburg-klaus-michael-kuehne-setzt-stadt-vor-moeglichem-einstieg-unter-druck-a-6e37c9d8-3af8-41ab-999a-bace3ca43104#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/vorwuerfe-gegen-gruenen-politiker-limbach-richtervereinigung-haelt-nrw-justizminister-fuer-untragbar](https://www.spiegel.de/panorama/justiz/vorwuerfe-gegen-gruenen-politiker-limbach-richtervereinigung-haelt-nrw-justizminister-fuer-untragbar-a-332f674d-5dd0-4d18-995f-f37f8d42b0c2#ref=rss)
+### bunker
+
+* [https://www.spiegel.de/netzwelt/web/mark-zuckerberg-soll-bunker-auf-hawaii-insel-bauen-lassen](https://www.spiegel.de/netzwelt/web/mark-zuckerberg-soll-bunker-auf-hawaii-insel-bauen-lassen-a-893bf67a-8135-42e4-80c3-a7617b5a08a5#ref=rss)
+### großer
+
+* [https://www.spiegel.de/netzwelt/web/mark-zuckerberg-soll-bunker-auf-hawaii-insel-bauen-lassen](https://www.spiegel.de/netzwelt/web/mark-zuckerberg-soll-bunker-auf-hawaii-insel-bauen-lassen-a-893bf67a-8135-42e4-80c3-a7617b5a08a5#ref=rss)
+### bekamen
+
+* [https://www.spiegel.de/ausland/kanada-muss-wegen-seiner-klimapolitik-vor-gericht](https://www.spiegel.de/ausland/kanada-muss-wegen-seiner-klimapolitik-vor-gericht-a-71facc51-f3c7-41a4-b15f-0fa4422c7bdd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/waffenexport-bundesregierung-genehmigt-kaum-noch-lieferungen-an-die-tuerkei](https://www.spiegel.de/politik/deutschland/waffenexport-bundesregierung-genehmigt-kaum-noch-lieferungen-an-die-tuerkei-a-5aef1b6c-64ec-49ab-81a2-78a20d38d7c4#ref=rss)
+### andré
+
+* [https://www.spiegel.de/panorama/leute/andre-braugher-emmy-preistraeger-starb-an-lungenkrebs](https://www.spiegel.de/panorama/leute/andre-braugher-emmy-preistraeger-starb-an-lungenkrebs-a-cdd8b7c3-5481-4a95-babc-f237c15cc55e#ref=rss)
+### braugher
+
+* [https://www.spiegel.de/panorama/leute/andre-braugher-emmy-preistraeger-starb-an-lungenkrebs](https://www.spiegel.de/panorama/leute/andre-braugher-emmy-preistraeger-starb-an-lungenkrebs-a-cdd8b7c3-5481-4a95-babc-f237c15cc55e#ref=rss)
+### starb
+
+* [https://www.spiegel.de/panorama/leute/andre-braugher-emmy-preistraeger-starb-an-lungenkrebs](https://www.spiegel.de/panorama/leute/andre-braugher-emmy-preistraeger-starb-an-lungenkrebs-a-cdd8b7c3-5481-4a95-babc-f237c15cc55e#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/panorama/leute/andre-braugher-emmy-preistraeger-starb-an-lungenkrebs](https://www.spiegel.de/panorama/leute/andre-braugher-emmy-preistraeger-starb-an-lungenkrebs-a-cdd8b7c3-5481-4a95-babc-f237c15cc55e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/haustier-von-indigenen-in-nordamerika-die-kuesten-salish-und-ihr-wollhund](https://www.spiegel.de/wissenschaft/natur/haustier-von-indigenen-in-nordamerika-die-kuesten-salish-und-ihr-wollhund-a-ab3dadf5-ec95-4e76-8171-b1de75c99105#ref=rss)
+### limbach
+
+* [https://www.spiegel.de/panorama/justiz/vorwuerfe-gegen-gruenen-politiker-limbach-richtervereinigung-haelt-nrw-justizminister-fuer-untragbar](https://www.spiegel.de/panorama/justiz/vorwuerfe-gegen-gruenen-politiker-limbach-richtervereinigung-haelt-nrw-justizminister-fuer-untragbar-a-332f674d-5dd0-4d18-995f-f37f8d42b0c2#ref=rss)
+### richtervereinigung
+
+* [https://www.spiegel.de/panorama/justiz/vorwuerfe-gegen-gruenen-politiker-limbach-richtervereinigung-haelt-nrw-justizminister-fuer-untragbar](https://www.spiegel.de/panorama/justiz/vorwuerfe-gegen-gruenen-politiker-limbach-richtervereinigung-haelt-nrw-justizminister-fuer-untragbar-a-332f674d-5dd0-4d18-995f-f37f8d42b0c2#ref=rss)
+### nrwjustizminister
+
+* [https://www.spiegel.de/panorama/justiz/vorwuerfe-gegen-gruenen-politiker-limbach-richtervereinigung-haelt-nrw-justizminister-fuer-untragbar](https://www.spiegel.de/panorama/justiz/vorwuerfe-gegen-gruenen-politiker-limbach-richtervereinigung-haelt-nrw-justizminister-fuer-untragbar-a-332f674d-5dd0-4d18-995f-f37f8d42b0c2#ref=rss)
+### neue
+
+* [https://www.spiegel.de/panorama/justiz/vorwuerfe-gegen-gruenen-politiker-limbach-richtervereinigung-haelt-nrw-justizminister-fuer-untragbar](https://www.spiegel.de/panorama/justiz/vorwuerfe-gegen-gruenen-politiker-limbach-richtervereinigung-haelt-nrw-justizminister-fuer-untragbar-a-332f674d-5dd0-4d18-995f-f37f8d42b0c2#ref=rss)
+* [https://www.spiegel.de/start/studienfinanzierung-studierende-greifen-eher-auf-eltern-als-auf-bafoeg-zurueck](https://www.spiegel.de/start/studienfinanzierung-studierende-greifen-eher-auf-eltern-als-auf-bafoeg-zurueck-a-c4eba06a-2684-4a0a-a166-4c14aaa3ed43#ref=rss)
+### eltern
+
+* [https://www.spiegel.de/start/studienfinanzierung-studierende-greifen-eher-auf-eltern-als-auf-bafoeg-zurueck](https://www.spiegel.de/start/studienfinanzierung-studierende-greifen-eher-auf-eltern-als-auf-bafoeg-zurueck-a-c4eba06a-2684-4a0a-a166-4c14aaa3ed43#ref=rss)
+### ungarn
+
+* [https://www.spiegel.de/ausland/viktor-orban-macht-zustimmung-zu-ukraine-hilfen-von-freigabe-aller-eu-mittel-fuer-ungarn-abhaengig](https://www.spiegel.de/ausland/viktor-orban-macht-zustimmung-zu-ukraine-hilfen-von-freigabe-aller-eu-mittel-fuer-ungarn-abhaengig-a-72a99ea4-574f-4ae9-81e9-efcf4033ff9e#ref=rss)
+### treffen
+
+* [https://www.spiegel.de/ausland/viktor-orban-macht-zustimmung-zu-ukraine-hilfen-von-freigabe-aller-eu-mittel-fuer-ungarn-abhaengig](https://www.spiegel.de/ausland/viktor-orban-macht-zustimmung-zu-ukraine-hilfen-von-freigabe-aller-eu-mittel-fuer-ungarn-abhaengig-a-72a99ea4-574f-4ae9-81e9-efcf4033ff9e#ref=rss)
+* [https://www.spiegel.de/kultur/tv/das-fest-der-liebe-weihnachts-comedy-mit-charly-huebner-claudia-michelsen-und-devid-striesow](https://www.spiegel.de/kultur/tv/das-fest-der-liebe-weihnachts-comedy-mit-charly-huebner-claudia-michelsen-und-devid-striesow-a-234499cb-2eed-4aad-9e4d-f9a504773b46#ref=rss)
+### fest
+
+* [https://www.spiegel.de/kultur/tv/das-fest-der-liebe-weihnachts-comedy-mit-charly-huebner-claudia-michelsen-und-devid-striesow](https://www.spiegel.de/kultur/tv/das-fest-der-liebe-weihnachts-comedy-mit-charly-huebner-claudia-michelsen-und-devid-striesow-a-234499cb-2eed-4aad-9e4d-f9a504773b46#ref=rss)
+### liebe
+
+* [https://www.spiegel.de/kultur/tv/das-fest-der-liebe-weihnachts-comedy-mit-charly-huebner-claudia-michelsen-und-devid-striesow](https://www.spiegel.de/kultur/tv/das-fest-der-liebe-weihnachts-comedy-mit-charly-huebner-claudia-michelsen-und-devid-striesow-a-234499cb-2eed-4aad-9e4d-f9a504773b46#ref=rss)
+### cdu
+
+* [https://www.spiegel.de/politik/deutschland/cdu-und-muslime-die-endgueltige-abkehr-von-angela-merkel-meinung](https://www.spiegel.de/politik/deutschland/cdu-und-muslime-die-endgueltige-abkehr-von-angela-merkel-meinung-a-811b0471-ba40-4396-bc84-038bebefd250#ref=rss)
+### muslime
+
+* [https://www.spiegel.de/politik/deutschland/cdu-und-muslime-die-endgueltige-abkehr-von-angela-merkel-meinung](https://www.spiegel.de/politik/deutschland/cdu-und-muslime-die-endgueltige-abkehr-von-angela-merkel-meinung-a-811b0471-ba40-4396-bc84-038bebefd250#ref=rss)
+### hamas
+
+* [https://www.spiegel.de/ausland/israel-hamas-krieg-israels-armee-birgt-leiche-von-verschleppter-franzoesischer-geisel](https://www.spiegel.de/ausland/israel-hamas-krieg-israels-armee-birgt-leiche-von-verschleppter-franzoesischer-geisel-a-37cabaf0-5e8a-4e7b-a573-cfc66f607164#ref=rss)
+* [https://www.spiegel.de/ausland/israel-schwoert-usa-auf-langen-krieg-im-gazastreifen-ein](https://www.spiegel.de/ausland/israel-schwoert-usa-auf-langen-krieg-im-gazastreifen-ein-a-bcaf42d2-2e47-4384-b540-aedeff339897#ref=rss)
+### gewissheit
+
+* [https://www.spiegel.de/ausland/israel-hamas-krieg-israels-armee-birgt-leiche-von-verschleppter-franzoesischer-geisel](https://www.spiegel.de/ausland/israel-hamas-krieg-israels-armee-birgt-leiche-von-verschleppter-franzoesischer-geisel-a-37cabaf0-5e8a-4e7b-a573-cfc66f607164#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/fdp-startet-mitgliederbefragung-zum-ampel-aus-kommende-woche](https://www.spiegel.de/politik/deutschland/fdp-startet-mitgliederbefragung-zum-ampel-aus-kommende-woche-a-595125dc-e3aa-43f1-b25b-be05fe13bb50#ref=rss)
+### hapaglloyd
+
+* [https://www.spiegel.de/ausland/rotes-meer-containerschiff-von-hapag-lloyd-mutmasslich-aus-dem-jemen-attackiert](https://www.spiegel.de/ausland/rotes-meer-containerschiff-von-hapag-lloyd-mutmasslich-aus-dem-jemen-attackiert-a-a2875c51-db40-43cf-9449-44bbc9b7aba9#ref=rss)
+### jemen
+
+* [https://www.spiegel.de/ausland/rotes-meer-containerschiff-von-hapag-lloyd-mutmasslich-aus-dem-jemen-attackiert](https://www.spiegel.de/ausland/rotes-meer-containerschiff-von-hapag-lloyd-mutmasslich-aus-dem-jemen-attackiert-a-a2875c51-db40-43cf-9449-44bbc9b7aba9#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/ausland/rotes-meer-containerschiff-von-hapag-lloyd-mutmasslich-aus-dem-jemen-attackiert](https://www.spiegel.de/ausland/rotes-meer-containerschiff-von-hapag-lloyd-mutmasslich-aus-dem-jemen-attackiert-a-a2875c51-db40-43cf-9449-44bbc9b7aba9#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-2024-spielplan-ergebnisse-tv-uebertragung](https://www.spiegel.de/sport/darts-wm-2024-spielplan-ergebnisse-tv-uebertragung-a-9c35ca03-4a0d-4002-bb73-1c393c76d5fb#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/ausland/rotes-meer-containerschiff-von-hapag-lloyd-mutmasslich-aus-dem-jemen-attackiert](https://www.spiegel.de/ausland/rotes-meer-containerschiff-von-hapag-lloyd-mutmasslich-aus-dem-jemen-attackiert-a-a2875c51-db40-43cf-9449-44bbc9b7aba9#ref=rss)
+* [https://www.spiegel.de/panorama/querfurt-unfall-mit-falschfahrer-auf-a38-mehrere-tote](https://www.spiegel.de/panorama/querfurt-unfall-mit-falschfahrer-auf-a38-mehrere-tote-a-972dab58-ab52-4cfa-b5f2-3202a20437d7#ref=rss)
+### dartswm
+
+* [https://www.spiegel.de/sport/fussball/quiz-zur-darts-wm-2024-sind-sie-bereit-fuer-den-ally-pally](https://www.spiegel.de/sport/fussball/quiz-zur-darts-wm-2024-sind-sie-bereit-fuer-den-ally-pally-a-01cd99e7-f3f2-455d-b8d8-abbd6600e343#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-2024-spielplan-ergebnisse-tv-uebertragung](https://www.spiegel.de/sport/darts-wm-2024-spielplan-ergebnisse-tv-uebertragung-a-9c35ca03-4a0d-4002-bb73-1c393c76d5fb#ref=rss)
+### ally
+
+* [https://www.spiegel.de/sport/fussball/quiz-zur-darts-wm-2024-sind-sie-bereit-fuer-den-ally-pally](https://www.spiegel.de/sport/fussball/quiz-zur-darts-wm-2024-sind-sie-bereit-fuer-den-ally-pally-a-01cd99e7-f3f2-455d-b8d8-abbd6600e343#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-2024-spielplan-ergebnisse-tv-uebertragung](https://www.spiegel.de/sport/darts-wm-2024-spielplan-ergebnisse-tv-uebertragung-a-9c35ca03-4a0d-4002-bb73-1c393c76d5fb#ref=rss)
+### pally
+
+* [https://www.spiegel.de/sport/fussball/quiz-zur-darts-wm-2024-sind-sie-bereit-fuer-den-ally-pally](https://www.spiegel.de/sport/fussball/quiz-zur-darts-wm-2024-sind-sie-bereit-fuer-den-ally-pally-a-01cd99e7-f3f2-455d-b8d8-abbd6600e343#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-2024-spielplan-ergebnisse-tv-uebertragung](https://www.spiegel.de/sport/darts-wm-2024-spielplan-ergebnisse-tv-uebertragung-a-9c35ca03-4a0d-4002-bb73-1c393c76d5fb#ref=rss)
+### peking
+
+* [https://www.spiegel.de/panorama/peking-rund-hundert-schwerer-verletzte-bei-u-bahn-unglueck](https://www.spiegel.de/panorama/peking-rund-hundert-schwerer-verletzte-bei-u-bahn-unglueck-a-6998d238-8391-4374-835e-46be8219e3f8#ref=rss)
+### bundesbank
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bundesbank-reduziert-wachstumsprognose-fuer-2024-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/bundesbank-reduziert-wachstumsprognose-fuer-2024-deutlich-a-ea6ff6a0-f370-4be2-8e8b-719991f157dc#ref=rss)
+### deutlich
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bundesbank-reduziert-wachstumsprognose-fuer-2024-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/bundesbank-reduziert-wachstumsprognose-fuer-2024-deutlich-a-ea6ff6a0-f370-4be2-8e8b-719991f157dc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/waffenexport-bundesregierung-genehmigt-kaum-noch-lieferungen-an-die-tuerkei](https://www.spiegel.de/politik/deutschland/waffenexport-bundesregierung-genehmigt-kaum-noch-lieferungen-an-die-tuerkei-a-5aef1b6c-64ec-49ab-81a2-78a20d38d7c4#ref=rss)
+### kommission
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/schuldenbremse-daniel-bayaz-und-stefan-evers-fordern-kommission-zur-reform](https://www.spiegel.de/wirtschaft/unternehmen/schuldenbremse-daniel-bayaz-und-stefan-evers-fordern-kommission-zur-reform-a-83e8f663-8002-4055-a320-0b11f80a28e6#ref=rss)
+### reform
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/schuldenbremse-daniel-bayaz-und-stefan-evers-fordern-kommission-zur-reform](https://www.spiegel.de/wirtschaft/unternehmen/schuldenbremse-daniel-bayaz-und-stefan-evers-fordern-kommission-zur-reform-a-83e8f663-8002-4055-a320-0b11f80a28e6#ref=rss)
+### ajax
+
+* [https://www.spiegel.de/sport/fussball/europa-league-spiel-zwischen-ajax-amsterdam-und-aek-athen-fan-ausschreitungen-und-147-festnahmen](https://www.spiegel.de/sport/fussball/europa-league-spiel-zwischen-ajax-amsterdam-und-aek-athen-fan-ausschreitungen-und-147-festnahmen-a-a4889179-91dc-45c5-9cf9-eab328b22cb4#ref=rss)
+### amsterdam
+
+* [https://www.spiegel.de/sport/fussball/europa-league-spiel-zwischen-ajax-amsterdam-und-aek-athen-fan-ausschreitungen-und-147-festnahmen](https://www.spiegel.de/sport/fussball/europa-league-spiel-zwischen-ajax-amsterdam-und-aek-athen-fan-ausschreitungen-und-147-festnahmen-a-a4889179-91dc-45c5-9cf9-eab328b22cb4#ref=rss)
+### aek
+
+* [https://www.spiegel.de/sport/fussball/europa-league-spiel-zwischen-ajax-amsterdam-und-aek-athen-fan-ausschreitungen-und-147-festnahmen](https://www.spiegel.de/sport/fussball/europa-league-spiel-zwischen-ajax-amsterdam-und-aek-athen-fan-ausschreitungen-und-147-festnahmen-a-a4889179-91dc-45c5-9cf9-eab328b22cb4#ref=rss)
+### athen
+
+* [https://www.spiegel.de/sport/fussball/europa-league-spiel-zwischen-ajax-amsterdam-und-aek-athen-fan-ausschreitungen-und-147-festnahmen](https://www.spiegel.de/sport/fussball/europa-league-spiel-zwischen-ajax-amsterdam-und-aek-athen-fan-ausschreitungen-und-147-festnahmen-a-a4889179-91dc-45c5-9cf9-eab328b22cb4#ref=rss)
+### 147
+
+* [https://www.spiegel.de/sport/fussball/europa-league-spiel-zwischen-ajax-amsterdam-und-aek-athen-fan-ausschreitungen-und-147-festnahmen](https://www.spiegel.de/sport/fussball/europa-league-spiel-zwischen-ajax-amsterdam-und-aek-athen-fan-ausschreitungen-und-147-festnahmen-a-a4889179-91dc-45c5-9cf9-eab328b22cb4#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/sport/fussball/europa-league-spiel-zwischen-ajax-amsterdam-und-aek-athen-fan-ausschreitungen-und-147-festnahmen](https://www.spiegel.de/sport/fussball/europa-league-spiel-zwischen-ajax-amsterdam-und-aek-athen-fan-ausschreitungen-und-147-festnahmen-a-a4889179-91dc-45c5-9cf9-eab328b22cb4#ref=rss)
+* [https://www.spiegel.de/panorama/querfurt-unfall-mit-falschfahrer-auf-a38-mehrere-tote](https://www.spiegel.de/panorama/querfurt-unfall-mit-falschfahrer-auf-a38-mehrere-tote-a-972dab58-ab52-4cfa-b5f2-3202a20437d7#ref=rss)
+### lieferungen
+
+* [https://www.spiegel.de/politik/deutschland/waffenexport-bundesregierung-genehmigt-kaum-noch-lieferungen-an-die-tuerkei](https://www.spiegel.de/politik/deutschland/waffenexport-bundesregierung-genehmigt-kaum-noch-lieferungen-an-die-tuerkei-a-5aef1b6c-64ec-49ab-81a2-78a20d38d7c4#ref=rss)
+### andrea
+
+* [https://www.spiegel.de/panorama/justiz/andrea-tandler-knapp-viereinhalb-jahre-haft-wegen-maskenaffaere](https://www.spiegel.de/panorama/justiz/andrea-tandler-knapp-viereinhalb-jahre-haft-wegen-maskenaffaere-a-d4507c18-300f-439e-b35d-4689b68ebb00#ref=rss)
+### tandler
+
+* [https://www.spiegel.de/panorama/justiz/andrea-tandler-knapp-viereinhalb-jahre-haft-wegen-maskenaffaere](https://www.spiegel.de/panorama/justiz/andrea-tandler-knapp-viereinhalb-jahre-haft-wegen-maskenaffaere-a-d4507c18-300f-439e-b35d-4689b68ebb00#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/panorama/justiz/andrea-tandler-knapp-viereinhalb-jahre-haft-wegen-maskenaffaere](https://www.spiegel.de/panorama/justiz/andrea-tandler-knapp-viereinhalb-jahre-haft-wegen-maskenaffaere-a-d4507c18-300f-439e-b35d-4689b68ebb00#ref=rss)
+### haft
+
+* [https://www.spiegel.de/panorama/justiz/andrea-tandler-knapp-viereinhalb-jahre-haft-wegen-maskenaffaere](https://www.spiegel.de/panorama/justiz/andrea-tandler-knapp-viereinhalb-jahre-haft-wegen-maskenaffaere-a-d4507c18-300f-439e-b35d-4689b68ebb00#ref=rss)
+### fünf
+
+* [https://www.spiegel.de/panorama/justiz/andrea-tandler-knapp-viereinhalb-jahre-haft-wegen-maskenaffaere](https://www.spiegel.de/panorama/justiz/andrea-tandler-knapp-viereinhalb-jahre-haft-wegen-maskenaffaere-a-d4507c18-300f-439e-b35d-4689b68ebb00#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-2024-spielplan-ergebnisse-tv-uebertragung](https://www.spiegel.de/sport/darts-wm-2024-spielplan-ergebnisse-tv-uebertragung-a-9c35ca03-4a0d-4002-bb73-1c393c76d5fb#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/iran-mindestens-elf-tote-bei-angriff-auf-polizeistation-im-suedosten-des-landes](https://www.spiegel.de/ausland/iran-mindestens-elf-tote-bei-angriff-auf-polizeistation-im-suedosten-des-landes-a-c33d6684-c969-4ab0-8cbd-a1d525cffed0#ref=rss)
+### mindestens
+
+* [https://www.spiegel.de/ausland/iran-mindestens-elf-tote-bei-angriff-auf-polizeistation-im-suedosten-des-landes](https://www.spiegel.de/ausland/iran-mindestens-elf-tote-bei-angriff-auf-polizeistation-im-suedosten-des-landes-a-c33d6684-c969-4ab0-8cbd-a1d525cffed0#ref=rss)
+### elf
+
+* [https://www.spiegel.de/ausland/iran-mindestens-elf-tote-bei-angriff-auf-polizeistation-im-suedosten-des-landes](https://www.spiegel.de/ausland/iran-mindestens-elf-tote-bei-angriff-auf-polizeistation-im-suedosten-des-landes-a-c33d6684-c969-4ab0-8cbd-a1d525cffed0#ref=rss)
+### tote
+
+* [https://www.spiegel.de/ausland/iran-mindestens-elf-tote-bei-angriff-auf-polizeistation-im-suedosten-des-landes](https://www.spiegel.de/ausland/iran-mindestens-elf-tote-bei-angriff-auf-polizeistation-im-suedosten-des-landes-a-c33d6684-c969-4ab0-8cbd-a1d525cffed0#ref=rss)
+* [https://www.spiegel.de/panorama/querfurt-unfall-mit-falschfahrer-auf-a38-mehrere-tote](https://www.spiegel.de/panorama/querfurt-unfall-mit-falschfahrer-auf-a38-mehrere-tote-a-972dab58-ab52-4cfa-b5f2-3202a20437d7#ref=rss)
+### bin
+
+* [https://www.spiegel.de/gesundheit/adhs-bei-erwachsenen-alles-ist-immer-laut-und-hell-und-anstrengend](https://www.spiegel.de/gesundheit/adhs-bei-erwachsenen-alles-ist-immer-laut-und-hell-und-anstrengend-a-c67a544d-ef2b-40ce-95d4-373610a044be#ref=rss)
+### startet
+
+* [https://www.spiegel.de/sport/darts-wm-2024-spielplan-ergebnisse-tv-uebertragung](https://www.spiegel.de/sport/darts-wm-2024-spielplan-ergebnisse-tv-uebertragung-a-9c35ca03-4a0d-4002-bb73-1c393c76d5fb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/fdp-startet-mitgliederbefragung-zum-ampel-aus-kommende-woche](https://www.spiegel.de/politik/deutschland/fdp-startet-mitgliederbefragung-zum-ampel-aus-kommende-woche-a-595125dc-e3aa-43f1-b25b-be05fe13bb50#ref=rss)
+### unfall
+
+* [https://www.spiegel.de/panorama/querfurt-unfall-mit-falschfahrer-auf-a38-mehrere-tote](https://www.spiegel.de/panorama/querfurt-unfall-mit-falschfahrer-auf-a38-mehrere-tote-a-972dab58-ab52-4cfa-b5f2-3202a20437d7#ref=rss)
+### falschfahrer
+
+* [https://www.spiegel.de/panorama/querfurt-unfall-mit-falschfahrer-auf-a38-mehrere-tote](https://www.spiegel.de/panorama/querfurt-unfall-mit-falschfahrer-auf-a38-mehrere-tote-a-972dab58-ab52-4cfa-b5f2-3202a20437d7#ref=rss)
+### starben
+
+* [https://www.spiegel.de/panorama/querfurt-unfall-mit-falschfahrer-auf-a38-mehrere-tote](https://www.spiegel.de/panorama/querfurt-unfall-mit-falschfahrer-auf-a38-mehrere-tote-a-972dab58-ab52-4cfa-b5f2-3202a20437d7#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/haustier-von-indigenen-in-nordamerika-die-kuesten-salish-und-ihr-wollhund](https://www.spiegel.de/wissenschaft/natur/haustier-von-indigenen-in-nordamerika-die-kuesten-salish-und-ihr-wollhund-a-ab3dadf5-ec95-4e76-8171-b1de75c99105#ref=rss)
+### chiropraktiker
+
+* [https://www.spiegel.de/gesundheit/alternativmedizin-schadet-das-einrenken-beim-chiropraktiker-oft-mehr-als-es-nuetzt](https://www.spiegel.de/gesundheit/alternativmedizin-schadet-das-einrenken-beim-chiropraktiker-oft-mehr-als-es-nuetzt-a-04c7b152-f915-4751-82b5-1d04c6d3ca32#ref=rss)
+### mitgliederbefragung
+
+* [https://www.spiegel.de/politik/deutschland/fdp-startet-mitgliederbefragung-zum-ampel-aus-kommende-woche](https://www.spiegel.de/politik/deutschland/fdp-startet-mitgliederbefragung-zum-ampel-aus-kommende-woche-a-595125dc-e3aa-43f1-b25b-be05fe13bb50#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/ausland/israel-schwoert-usa-auf-langen-krieg-im-gazastreifen-ein](https://www.spiegel.de/ausland/israel-schwoert-usa-auf-langen-krieg-im-gazastreifen-ein-a-bcaf42d2-2e47-4384-b540-aedeff339897#ref=rss)
 
