@@ -4,289 +4,279 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### hamas
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-fliegt-bald-wieder-nach-tel-aviv](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-fliegt-bald-wieder-nach-tel-aviv-a-83c0dd7e-86e5-464b-99fb-2d57c4340e4f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-viktor-orban-hamas-israel-gaza-krieg-andrea-tandler](https://www.spiegel.de/politik/deutschland/news-des-tages-viktor-orban-hamas-israel-gaza-krieg-andrea-tandler-a-aacb7492-a4b8-4ada-80ff-899234126bb7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hamas-in-europa-festnahmen-in-berlin-und-rotterdam-drei-personen-in-untersuchungshaft](https://www.spiegel.de/politik/deutschland/hamas-in-europa-festnahmen-in-berlin-und-rotterdam-drei-personen-in-untersuchungshaft-a-218810ce-93dc-4ebd-b69e-31f6ac416487#ref=rss)
-### vier
-
-* [https://www.spiegel.de/panorama/justiz/landgericht-koeln-reemtsma-entfuehrer-drach-entzieht-verteidigern-das-vertrauen](https://www.spiegel.de/panorama/justiz/landgericht-koeln-reemtsma-entfuehrer-drach-entzieht-verteidigern-das-vertrauen-a-d0d5afac-b044-4ae3-b207-5b8527c8f31c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hamas-in-europa-festnahmen-in-berlin-und-rotterdam-drei-personen-in-untersuchungshaft](https://www.spiegel.de/politik/deutschland/hamas-in-europa-festnahmen-in-berlin-und-rotterdam-drei-personen-in-untersuchungshaft-a-218810ce-93dc-4ebd-b69e-31f6ac416487#ref=rss)
-* [https://www.spiegel.de/sport/american-football/nfl-wie-ein-mitarbeiter-dem-klub-jacksonville-jaguars-22-millionen-dollar-stahl](https://www.spiegel.de/sport/american-football/nfl-wie-ein-mitarbeiter-dem-klub-jacksonville-jaguars-22-millionen-dollar-stahl-a-8ec1bc72-477c-45c8-9426-02484bfbe941#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/haushaltsstreit-zwischen-spd-fdp-und-gruenen-als-die-ampel-kurz-vor-dem-bruch-stand](https://www.spiegel.de/politik/deutschland/haushaltsstreit-zwischen-spd-fdp-und-gruenen-als-die-ampel-kurz-vor-dem-bruch-stand-a-88cca44a-ed47-4366-b16f-e855cf7bcaeb#ref=rss)
-### meer
-
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-verurteilt-huthi-angriffe-auf-schiffe-im-roten-meer](https://www.spiegel.de/politik/deutschland/annalena-baerbock-verurteilt-huthi-angriffe-auf-schiffe-im-roten-meer-a-1b30a9c9-a288-4337-9145-4ed6208495d8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/maersk-und-hapag-lloyd-stoppen-containerverkehr-durch-das-rote-meer](https://www.spiegel.de/wirtschaft/unternehmen/maersk-und-hapag-lloyd-stoppen-containerverkehr-durch-das-rote-meer-a-36c1150d-8077-4689-a6fe-31dcc9c1b09d#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-verurteilt-huthi-angriffe-auf-schiffe-im-roten-meer](https://www.spiegel.de/politik/deutschland/annalena-baerbock-verurteilt-huthi-angriffe-auf-schiffe-im-roten-meer-a-1b30a9c9-a288-4337-9145-4ed6208495d8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-viktor-orban-hamas-israel-gaza-krieg-andrea-tandler](https://www.spiegel.de/politik/deutschland/news-des-tages-viktor-orban-hamas-israel-gaza-krieg-andrea-tandler-a-aacb7492-a4b8-4ada-80ff-899234126bb7#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/biathlon-weltcup-in-lenzerheide-benedikt-doll-gewinnt-vor-johannes-thingnes-bo](https://www.spiegel.de/sport/wintersport/biathlon-weltcup-in-lenzerheide-benedikt-doll-gewinnt-vor-johannes-thingnes-bo-a-4aee22bd-4e71-4ec0-a754-91ce9b1f57f2#ref=rss)
-* [https://www.spiegel.de/sport/handball/handball-wm-der-frauen-deutsches-team-siegt-gegen-tschechien-und-spielen-um-platz-fuenf](https://www.spiegel.de/sport/handball/handball-wm-der-frauen-deutsches-team-siegt-gegen-tschechien-und-spielen-um-platz-fuenf-a-b9bd32b1-3b6d-4ace-8e5d-fab479759c23#ref=rss)
-### tschechien
-
-* [https://www.spiegel.de/politik/deutschland/migration-nancy-faeser-verlaengert-grenzkontrollen-zu-polen-tschechien-und-schweiz](https://www.spiegel.de/politik/deutschland/migration-nancy-faeser-verlaengert-grenzkontrollen-zu-polen-tschechien-und-schweiz-a-f4507d32-2699-43f1-84f5-26884048c307#ref=rss)
-* [https://www.spiegel.de/sport/handball/handball-wm-der-frauen-deutsches-team-siegt-gegen-tschechien-und-spielen-um-platz-fuenf](https://www.spiegel.de/sport/handball/handball-wm-der-frauen-deutsches-team-siegt-gegen-tschechien-und-spielen-um-platz-fuenf-a-b9bd32b1-3b6d-4ace-8e5d-fab479759c23#ref=rss)
-### wichtigsten
-
-* [https://www.spiegel.de/wissenschaft/angriff-im-suezkanal-wassernot-am-panamakanal-die-globale-handelsschifffahrt-fuerchtet-den-doppelstau](https://www.spiegel.de/wissenschaft/angriff-im-suezkanal-wassernot-am-panamakanal-die-globale-handelsschifffahrt-fuerchtet-den-doppelstau-a-e63251d5-b16e-4bab-9dd1-e5ead3d03f11#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-verurteilt-huthi-angriffe-auf-schiffe-im-roten-meer](https://www.spiegel.de/politik/deutschland/annalena-baerbock-verurteilt-huthi-angriffe-auf-schiffe-im-roten-meer-a-1b30a9c9-a288-4337-9145-4ed6208495d8#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-was-die-eu-beitrittsgespraeche-fuer-das-land-bedeuten](https://www.spiegel.de/ausland/ukraine-was-die-eu-beitrittsgespraeche-fuer-das-land-bedeuten-a-9ecb0d44-ff0f-488a-b10a-c2784db6171b#ref=rss)
 ### deutsche
 
-* [https://www.spiegel.de/politik/deutschland/china-und-seine-spionage-in-europa-eine-direkte-gefahr-fuer-die-demokratie](https://www.spiegel.de/politik/deutschland/china-und-seine-spionage-in-europa-eine-direkte-gefahr-fuer-die-demokratie-a-2a3f21f9-2e84-4148-8683-29922cb1f34d#ref=rss)
-* [https://www.spiegel.de/panorama/organspende-jeder-soll-spender-sein-bundesrat-fordert-widerspruchsloesung](https://www.spiegel.de/panorama/organspende-jeder-soll-spender-sein-bundesrat-fordert-widerspruchsloesung-a-612addaf-15bc-4074-a103-db5457273af6#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/biathlon-weltcup-in-lenzerheide-benedikt-doll-gewinnt-vor-johannes-thingnes-bo](https://www.spiegel.de/sport/wintersport/biathlon-weltcup-in-lenzerheide-benedikt-doll-gewinnt-vor-johannes-thingnes-bo-a-4aee22bd-4e71-4ec0-a754-91ce9b1f57f2#ref=rss)
-### kurz
+* [https://www.spiegel.de/kultur/literatur/literatur-2023-das-sind-die-besten-romane-des-jahres](https://www.spiegel.de/kultur/literatur/literatur-2023-das-sind-die-besten-romane-des-jahres-a-70161330-c1c8-4a7d-ab57-bd8df389a84a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/euro-deutsche-tauschen-noch-immer-d-mark-in-millionenhoehe-um](https://www.spiegel.de/wirtschaft/euro-deutsche-tauschen-noch-immer-d-mark-in-millionenhoehe-um-a-7d76b41c-ec09-41c5-a1e3-8bea0fa345bf#ref=rss)
+* [https://www.spiegel.de/karriere/arbeiten-in-den-niederlanden-warum-es-immer-mehr-deutsche-ins-nachbarland-zieht](https://www.spiegel.de/karriere/arbeiten-in-den-niederlanden-warum-es-immer-mehr-deutsche-ins-nachbarland-zieht-a-95df70f4-2fbd-4fdd-ab73-251ff3e20131#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-hessen-rotes-meer-buergergeld](https://www.spiegel.de/politik/deutschland/news-hessen-rotes-meer-buergergeld-a-e73f5945-b427-4925-b7c6-9dd2189d0760#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-fliegt-bald-wieder-nach-tel-aviv](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-fliegt-bald-wieder-nach-tel-aviv-a-83c0dd7e-86e5-464b-99fb-2d57c4340e4f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/einzelhandel-streik-kurz-vor-weihnachten-beschaeftigte-legen-arbeit-nieder](https://www.spiegel.de/wirtschaft/soziales/einzelhandel-streik-kurz-vor-weihnachten-beschaeftigte-legen-arbeit-nieder-a-03f21f90-479c-4efc-ac93-a5f283a45bae#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/haushaltsstreit-zwischen-spd-fdp-und-gruenen-als-die-ampel-kurz-vor-dem-bruch-stand](https://www.spiegel.de/politik/deutschland/haushaltsstreit-zwischen-spd-fdp-und-gruenen-als-die-ampel-kurz-vor-dem-bruch-stand-a-88cca44a-ed47-4366-b16f-e855cf7bcaeb#ref=rss)
-### jahren
+* [https://www.spiegel.de/wirtschaft/inflationsrate-bundesbank-erwartet-halbierung-im-jahr-2024](https://www.spiegel.de/wirtschaft/inflationsrate-bundesbank-erwartet-halbierung-im-jahr-2024-a-27465ed9-14a1-4f23-b4a7-2713192533bd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/euro-deutsche-tauschen-noch-immer-d-mark-in-millionenhoehe-um](https://www.spiegel.de/wirtschaft/euro-deutsche-tauschen-noch-immer-d-mark-in-millionenhoehe-um-a-7d76b41c-ec09-41c5-a1e3-8bea0fa345bf#ref=rss)
+* [https://www.spiegel.de/start/resturlaub-bildungsurlaub-sabbatical-wie-wir-nehmen-was-uns-zusteht](https://www.spiegel.de/start/resturlaub-bildungsurlaub-sabbatical-wie-wir-nehmen-was-uns-zusteht-a-e0966592-4c34-4b69-83e4-b47314f26bd3#ref=rss)
+### euro
 
-* [https://www.spiegel.de/panorama/justiz/landgericht-koeln-reemtsma-entfuehrer-drach-entzieht-verteidigern-das-vertrauen](https://www.spiegel.de/panorama/justiz/landgericht-koeln-reemtsma-entfuehrer-drach-entzieht-verteidigern-das-vertrauen-a-d0d5afac-b044-4ae3-b207-5b8527c8f31c#ref=rss)
-* [https://www.spiegel.de/sport/handball/handball-wm-der-frauen-deutsches-team-siegt-gegen-tschechien-und-spielen-um-platz-fuenf](https://www.spiegel.de/sport/handball/handball-wm-der-frauen-deutsches-team-siegt-gegen-tschechien-und-spielen-um-platz-fuenf-a-b9bd32b1-3b6d-4ace-8e5d-fab479759c23#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/volkszaehlungsurteil-von-1983-damalige-anwaeltin-ueber-das-heutige-datensammeln](https://www.spiegel.de/panorama/gesellschaft/volkszaehlungsurteil-von-1983-damalige-anwaeltin-ueber-das-heutige-datensammeln-a-44226fbc-9f71-4546-855d-bde328fc6ba1#ref=rss)
-### ampel
+* [https://www.spiegel.de/wirtschaft/e-auto-foerderung-laeuft-bereits-am-sonntag-aus-von-4500-euro-auf-null](https://www.spiegel.de/wirtschaft/e-auto-foerderung-laeuft-bereits-am-sonntag-aus-von-4500-euro-auf-null-a-9f19e332-131e-4c28-8b83-5a0683848e2b#ref=rss)
+* [https://www.spiegel.de/reise/europa/anbieter-von-airbnb-arbitrage-glaubt-man-ihnen-machen-sie-100-000-euro-monatlich](https://www.spiegel.de/reise/europa/anbieter-von-airbnb-arbitrage-glaubt-man-ihnen-machen-sie-100-000-euro-monatlich-a-d3790f23-e459-44cf-875d-566fc95a4625#ref=rss)
+* [https://www.spiegel.de/wirtschaft/euro-deutsche-tauschen-noch-immer-d-mark-in-millionenhoehe-um](https://www.spiegel.de/wirtschaft/euro-deutsche-tauschen-noch-immer-d-mark-in-millionenhoehe-um-a-7d76b41c-ec09-41c5-a1e3-8bea0fa345bf#ref=rss)
+### meer
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-spd-abgeordnete-werfen-ihm-taktisch-kalkuliertes-klage-manoever-vor](https://www.spiegel.de/politik/deutschland/friedrich-merz-spd-abgeordnete-werfen-ihm-taktisch-kalkuliertes-klage-manoever-vor-a-6f5b6dd9-f33f-4157-9a03-3ac97ea38d11#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/haushaltsstreit-zwischen-spd-fdp-und-gruenen-als-die-ampel-kurz-vor-dem-bruch-stand](https://www.spiegel.de/politik/deutschland/haushaltsstreit-zwischen-spd-fdp-und-gruenen-als-die-ampel-kurz-vor-dem-bruch-stand-a-88cca44a-ed47-4366-b16f-e855cf7bcaeb#ref=rss)
-### gericht
+* [https://www.spiegel.de/politik/marie-agnes-strack-zimmermann-befuerwortet-einsatz-der-deutschen-marine-im-roten-meer](https://www.spiegel.de/politik/marie-agnes-strack-zimmermann-befuerwortet-einsatz-der-deutschen-marine-im-roten-meer-a-ca88fd23-4389-427d-a4d2-eccac522e87f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-hessen-rotes-meer-buergergeld](https://www.spiegel.de/politik/deutschland/news-hessen-rotes-meer-buergergeld-a-e73f5945-b427-4925-b7c6-9dd2189d0760#ref=rss)
+### bundesbank
 
-* [https://www.spiegel.de/sport/american-football/nfl-wie-ein-mitarbeiter-dem-klub-jacksonville-jaguars-22-millionen-dollar-stahl](https://www.spiegel.de/sport/american-football/nfl-wie-ein-mitarbeiter-dem-klub-jacksonville-jaguars-22-millionen-dollar-stahl-a-8ec1bc72-477c-45c8-9426-02484bfbe941#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/volkszaehlungsurteil-von-1983-damalige-anwaeltin-ueber-das-heutige-datensammeln](https://www.spiegel.de/panorama/gesellschaft/volkszaehlungsurteil-von-1983-damalige-anwaeltin-ueber-das-heutige-datensammeln-a-44226fbc-9f71-4546-855d-bde328fc6ba1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/frankfurt-am-main-anklage-gegen-17-jaehrigen-nach-toedlichem-faustschlag-auf-fussballplatz](https://www.spiegel.de/sport/fussball/frankfurt-am-main-anklage-gegen-17-jaehrigen-nach-toedlichem-faustschlag-auf-fussballplatz-a-32697fea-82a5-4383-bb34-5f3a449781f6#ref=rss)
-### angriff
-
-* [https://www.spiegel.de/wissenschaft/angriff-im-suezkanal-wassernot-am-panamakanal-die-globale-handelsschifffahrt-fuerchtet-den-doppelstau](https://www.spiegel.de/wissenschaft/angriff-im-suezkanal-wassernot-am-panamakanal-die-globale-handelsschifffahrt-fuerchtet-den-doppelstau-a-e63251d5-b16e-4bab-9dd1-e5ead3d03f11#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-fliegt-bald-wieder-nach-tel-aviv](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-fliegt-bald-wieder-nach-tel-aviv-a-83c0dd7e-86e5-464b-99fb-2d57c4340e4f#ref=rss)
-### suezkanal
-
-* [https://www.spiegel.de/wissenschaft/angriff-im-suezkanal-wassernot-am-panamakanal-die-globale-handelsschifffahrt-fuerchtet-den-doppelstau](https://www.spiegel.de/wissenschaft/angriff-im-suezkanal-wassernot-am-panamakanal-die-globale-handelsschifffahrt-fuerchtet-den-doppelstau-a-e63251d5-b16e-4bab-9dd1-e5ead3d03f11#ref=rss)
-### panamakanal
-
-* [https://www.spiegel.de/wissenschaft/angriff-im-suezkanal-wassernot-am-panamakanal-die-globale-handelsschifffahrt-fuerchtet-den-doppelstau](https://www.spiegel.de/wissenschaft/angriff-im-suezkanal-wassernot-am-panamakanal-die-globale-handelsschifffahrt-fuerchtet-den-doppelstau-a-e63251d5-b16e-4bab-9dd1-e5ead3d03f11#ref=rss)
+* [https://www.spiegel.de/wirtschaft/inflationsrate-bundesbank-erwartet-halbierung-im-jahr-2024](https://www.spiegel.de/wirtschaft/inflationsrate-bundesbank-erwartet-halbierung-im-jahr-2024-a-27465ed9-14a1-4f23-b4a7-2713192533bd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/euro-deutsche-tauschen-noch-immer-d-mark-in-millionenhoehe-um](https://www.spiegel.de/wirtschaft/euro-deutsche-tauschen-noch-immer-d-mark-in-millionenhoehe-um-a-7d76b41c-ec09-41c5-a1e3-8bea0fa345bf#ref=rss)
 ### 2024
 
-* [https://www.spiegel.de/sport/fussball/europameisterschaft-2024-dfb-team-bereitet-sich-in-der-naehe-von-weimar-vor](https://www.spiegel.de/sport/fussball/europameisterschaft-2024-dfb-team-bereitet-sich-in-der-naehe-von-weimar-vor-a-27b6e18c-fcc7-4204-baef-eb73d95b9af3#ref=rss)
-### fast
+* [https://www.spiegel.de/wirtschaft/inflationsrate-bundesbank-erwartet-halbierung-im-jahr-2024](https://www.spiegel.de/wirtschaft/inflationsrate-bundesbank-erwartet-halbierung-im-jahr-2024-a-27465ed9-14a1-4f23-b4a7-2713192533bd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/e-auto-foerderung-laeuft-bereits-am-sonntag-aus-von-4500-euro-auf-null](https://www.spiegel.de/wirtschaft/e-auto-foerderung-laeuft-bereits-am-sonntag-aus-von-4500-euro-auf-null-a-9f19e332-131e-4c28-8b83-5a0683848e2b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/quiz-zur-darts-wm-2024-sind-sie-bereit-fuer-den-ally-pally](https://www.spiegel.de/sport/fussball/quiz-zur-darts-wm-2024-sind-sie-bereit-fuer-den-ally-pally-a-01cd99e7-f3f2-455d-b8d8-abbd6600e343#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/sport/fussball/europameisterschaft-2024-dfb-team-bereitet-sich-in-der-naehe-von-weimar-vor](https://www.spiegel.de/sport/fussball/europameisterschaft-2024-dfb-team-bereitet-sich-in-der-naehe-von-weimar-vor-a-27b6e18c-fcc7-4204-baef-eb73d95b9af3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/haushaltsstreit-zwischen-spd-fdp-und-gruenen-als-die-ampel-kurz-vor-dem-bruch-stand](https://www.spiegel.de/politik/deutschland/haushaltsstreit-zwischen-spd-fdp-und-gruenen-als-die-ampel-kurz-vor-dem-bruch-stand-a-88cca44a-ed47-4366-b16f-e855cf7bcaeb#ref=rss)
-### europa
+* [https://www.spiegel.de/wirtschaft/e-auto-foerderung-laeuft-bereits-am-sonntag-aus-von-4500-euro-auf-null](https://www.spiegel.de/wirtschaft/e-auto-foerderung-laeuft-bereits-am-sonntag-aus-von-4500-euro-auf-null-a-9f19e332-131e-4c28-8b83-5a0683848e2b#ref=rss)
+* [https://www.spiegel.de/ausland/148-millonen-dollar-strafe-fuer-trumps-ex-anwalt-der-kollaps-des-rudy-giuliani](https://www.spiegel.de/ausland/148-millonen-dollar-strafe-fuer-trumps-ex-anwalt-der-kollaps-des-rudy-giuliani-a-d1198d5f-2ea7-4347-a197-5b19b4006b4b#ref=rss)
+* [https://www.spiegel.de/karriere/arbeiten-in-den-niederlanden-warum-es-immer-mehr-deutsche-ins-nachbarland-zieht](https://www.spiegel.de/karriere/arbeiten-in-den-niederlanden-warum-es-immer-mehr-deutsche-ins-nachbarland-zieht-a-95df70f4-2fbd-4fdd-ab73-251ff3e20131#ref=rss)
+### uns
 
-* [https://www.spiegel.de/politik/deutschland/china-und-seine-spionage-in-europa-eine-direkte-gefahr-fuer-die-demokratie](https://www.spiegel.de/politik/deutschland/china-und-seine-spionage-in-europa-eine-direkte-gefahr-fuer-die-demokratie-a-2a3f21f9-2e84-4148-8683-29922cb1f34d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hamas-in-europa-festnahmen-in-berlin-und-rotterdam-drei-personen-in-untersuchungshaft](https://www.spiegel.de/politik/deutschland/hamas-in-europa-festnahmen-in-berlin-und-rotterdam-drei-personen-in-untersuchungshaft-a-218810ce-93dc-4ebd-b69e-31f6ac416487#ref=rss)
-### unter
+* [https://www.spiegel.de/gesundheit/hoffnung-wie-sie-entsteht-und-warum-sie-uns-hilft-podcast-mit-andreas-krafft](https://www.spiegel.de/gesundheit/hoffnung-wie-sie-entsteht-und-warum-sie-uns-hilft-podcast-mit-andreas-krafft-a-ccdec3b9-7305-47a1-a8a7-8978525338dc#ref=rss)
+* [https://www.spiegel.de/start/resturlaub-bildungsurlaub-sabbatical-wie-wir-nehmen-was-uns-zusteht](https://www.spiegel.de/start/resturlaub-bildungsurlaub-sabbatical-wie-wir-nehmen-was-uns-zusteht-a-e0966592-4c34-4b69-83e4-b47314f26bd3#ref=rss)
+### wir
 
-* [https://www.spiegel.de/politik/deutschland/streichung-von-subventionen-bauern-machen-gegen-plaene-der-regierung-mobil](https://www.spiegel.de/politik/deutschland/streichung-von-subventionen-bauern-machen-gegen-plaene-der-regierung-mobil-a-609408e7-4998-4412-9a53-7abc328a704f#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/weltcup-in-engelberg-skispringerin-anna-odine-stroem-bleibt-nach-sturz-regungslos-liegen](https://www.spiegel.de/sport/wintersport/weltcup-in-engelberg-skispringerin-anna-odine-stroem-bleibt-nach-sturz-regungslos-liegen-a-4ea2a1ac-8d61-493f-a844-9e143c139bfd#ref=rss)
-### lufthansa
+* [https://www.spiegel.de/politik/deutschland/daniel-guenther-wir-haben-einen-kanzler-dem-die-menschen-nicht-vertrauen](https://www.spiegel.de/politik/deutschland/daniel-guenther-wir-haben-einen-kanzler-dem-die-menschen-nicht-vertrauen-a-8bea3be9-033d-4e57-9777-27ebf2225259#ref=rss)
+* [https://www.spiegel.de/politik/marie-agnes-strack-zimmermann-befuerwortet-einsatz-der-deutschen-marine-im-roten-meer](https://www.spiegel.de/politik/marie-agnes-strack-zimmermann-befuerwortet-einsatz-der-deutschen-marine-im-roten-meer-a-ca88fd23-4389-427d-a4d2-eccac522e87f#ref=rss)
+* [https://www.spiegel.de/start/resturlaub-bildungsurlaub-sabbatical-wie-wir-nehmen-was-uns-zusteht](https://www.spiegel.de/start/resturlaub-bildungsurlaub-sabbatical-wie-wir-nehmen-was-uns-zusteht-a-e0966592-4c34-4b69-83e4-b47314f26bd3#ref=rss)
+### kanzlerkandidatur
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-fliegt-bald-wieder-nach-tel-aviv](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-fliegt-bald-wieder-nach-tel-aviv-a-83c0dd7e-86e5-464b-99fb-2d57c4340e4f#ref=rss)
-### bald
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-fliegt-bald-wieder-nach-tel-aviv](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-fliegt-bald-wieder-nach-tel-aviv-a-83c0dd7e-86e5-464b-99fb-2d57c4340e4f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/landgericht-koeln-reemtsma-entfuehrer-drach-entzieht-verteidigern-das-vertrauen](https://www.spiegel.de/panorama/justiz/landgericht-koeln-reemtsma-entfuehrer-drach-entzieht-verteidigern-das-vertrauen-a-d0d5afac-b044-4ae3-b207-5b8527c8f31c#ref=rss)
-### stoppte
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-fliegt-bald-wieder-nach-tel-aviv](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-fliegt-bald-wieder-nach-tel-aviv-a-83c0dd7e-86e5-464b-99fb-2d57c4340e4f#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/volkszaehlungsurteil-von-1983-damalige-anwaeltin-ueber-das-heutige-datensammeln](https://www.spiegel.de/panorama/gesellschaft/volkszaehlungsurteil-von-1983-damalige-anwaeltin-ueber-das-heutige-datensammeln-a-44226fbc-9f71-4546-855d-bde328fc6ba1#ref=rss)
-### weg
-
-* [https://www.spiegel.de/panorama/irland-macht-den-luftraum-frei-fuer-den-rentierschlitten-des-weihnachtsmanns](https://www.spiegel.de/panorama/irland-macht-den-luftraum-frei-fuer-den-rentierschlitten-des-weihnachtsmanns-a-83837fca-c23a-4eac-b808-c39373f9cace#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-was-die-eu-beitrittsgespraeche-fuer-das-land-bedeuten](https://www.spiegel.de/ausland/ukraine-was-die-eu-beitrittsgespraeche-fuer-das-land-bedeuten-a-9ecb0d44-ff0f-488a-b10a-c2784db6171b#ref=rss)
-### reemtsmaentführer
-
-* [https://www.spiegel.de/panorama/justiz/landgericht-koeln-reemtsma-entfuehrer-drach-entzieht-verteidigern-das-vertrauen](https://www.spiegel.de/panorama/justiz/landgericht-koeln-reemtsma-entfuehrer-drach-entzieht-verteidigern-das-vertrauen-a-d0d5afac-b044-4ae3-b207-5b8527c8f31c#ref=rss)
-### drach
-
-* [https://www.spiegel.de/panorama/justiz/landgericht-koeln-reemtsma-entfuehrer-drach-entzieht-verteidigern-das-vertrauen](https://www.spiegel.de/panorama/justiz/landgericht-koeln-reemtsma-entfuehrer-drach-entzieht-verteidigern-das-vertrauen-a-d0d5afac-b044-4ae3-b207-5b8527c8f31c#ref=rss)
-### vorwürfe
-
-* [https://www.spiegel.de/panorama/justiz/landgericht-koeln-reemtsma-entfuehrer-drach-entzieht-verteidigern-das-vertrauen](https://www.spiegel.de/panorama/justiz/landgericht-koeln-reemtsma-entfuehrer-drach-entzieht-verteidigern-das-vertrauen-a-d0d5afac-b044-4ae3-b207-5b8527c8f31c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/alice-weidel-uni-bayreuth-geht-plagiatsvorwuerfen-nach](https://www.spiegel.de/politik/deutschland/alice-weidel-uni-bayreuth-geht-plagiatsvorwuerfen-nach-a-b4a27287-3229-49ab-aa8c-d7ef999a67a6#ref=rss)
-### baerbock
-
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-verurteilt-huthi-angriffe-auf-schiffe-im-roten-meer](https://www.spiegel.de/politik/deutschland/annalena-baerbock-verurteilt-huthi-angriffe-auf-schiffe-im-roten-meer-a-1b30a9c9-a288-4337-9145-4ed6208495d8#ref=rss)
-### schiffe
-
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-verurteilt-huthi-angriffe-auf-schiffe-im-roten-meer](https://www.spiegel.de/politik/deutschland/annalena-baerbock-verurteilt-huthi-angriffe-auf-schiffe-im-roten-meer-a-1b30a9c9-a288-4337-9145-4ed6208495d8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/maersk-und-hapag-lloyd-stoppen-containerverkehr-durch-das-rote-meer](https://www.spiegel.de/wirtschaft/unternehmen/maersk-und-hapag-lloyd-stoppen-containerverkehr-durch-das-rote-meer-a-36c1150d-8077-4689-a6fe-31dcc9c1b09d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/daniel-guenther-wir-haben-einen-kanzler-dem-die-menschen-nicht-vertrauen](https://www.spiegel.de/politik/deutschland/daniel-guenther-wir-haben-einen-kanzler-dem-die-menschen-nicht-vertrauen-a-8bea3be9-033d-4e57-9777-27ebf2225259#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-und-csu-friedrich-merz-ist-laut-alexander-dobrindt-klarer-favorit-fuer-kanzlerkandidatur](https://www.spiegel.de/politik/deutschland/cdu-und-csu-friedrich-merz-ist-laut-alexander-dobrindt-klarer-favorit-fuer-kanzlerkandidatur-a-4177d042-f6e2-4730-9e7e-e5914de42ab0#ref=rss)
 ### roten
 
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-verurteilt-huthi-angriffe-auf-schiffe-im-roten-meer](https://www.spiegel.de/politik/deutschland/annalena-baerbock-verurteilt-huthi-angriffe-auf-schiffe-im-roten-meer-a-1b30a9c9-a288-4337-9145-4ed6208495d8#ref=rss)
-### welt
+* [https://www.spiegel.de/politik/marie-agnes-strack-zimmermann-befuerwortet-einsatz-der-deutschen-marine-im-roten-meer](https://www.spiegel.de/politik/marie-agnes-strack-zimmermann-befuerwortet-einsatz-der-deutschen-marine-im-roten-meer-a-ca88fd23-4389-427d-a4d2-eccac522e87f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-hessen-rotes-meer-buergergeld](https://www.spiegel.de/politik/deutschland/news-hessen-rotes-meer-buergergeld-a-e73f5945-b427-4925-b7c6-9dd2189d0760#ref=rss)
+### cdu
 
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-verurteilt-huthi-angriffe-auf-schiffe-im-roten-meer](https://www.spiegel.de/politik/deutschland/annalena-baerbock-verurteilt-huthi-angriffe-auf-schiffe-im-roten-meer-a-1b30a9c9-a288-4337-9145-4ed6208495d8#ref=rss)
-* [https://www.spiegel.de/ausland/klimakonferenz-cop28-wo-steht-die-welt-nach-dem-gipfel-von-dubai](https://www.spiegel.de/ausland/klimakonferenz-cop28-wo-steht-die-welt-nach-dem-gipfel-von-dubai-a-dbb872a1-3b3a-4812-b6d0-2f6dc7ff14b0#ref=rss)
-### engelberg
+* [https://www.spiegel.de/politik/deutschland/cdu-und-csu-friedrich-merz-ist-laut-alexander-dobrindt-klarer-favorit-fuer-kanzlerkandidatur](https://www.spiegel.de/politik/deutschland/cdu-und-csu-friedrich-merz-ist-laut-alexander-dobrindt-klarer-favorit-fuer-kanzlerkandidatur-a-4177d042-f6e2-4730-9e7e-e5914de42ab0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-hessen-rotes-meer-buergergeld](https://www.spiegel.de/politik/deutschland/news-hessen-rotes-meer-buergergeld-a-e73f5945-b427-4925-b7c6-9dd2189d0760#ref=rss)
+### erwartet
 
-* [https://www.spiegel.de/sport/wintersport/weltcup-in-engelberg-skispringerin-anna-odine-stroem-bleibt-nach-sturz-regungslos-liegen](https://www.spiegel.de/sport/wintersport/weltcup-in-engelberg-skispringerin-anna-odine-stroem-bleibt-nach-sturz-regungslos-liegen-a-4ea2a1ac-8d61-493f-a844-9e143c139bfd#ref=rss)
-### anna
+* [https://www.spiegel.de/wirtschaft/inflationsrate-bundesbank-erwartet-halbierung-im-jahr-2024](https://www.spiegel.de/wirtschaft/inflationsrate-bundesbank-erwartet-halbierung-im-jahr-2024-a-27465ed9-14a1-4f23-b4a7-2713192533bd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/daniel-guenther-wir-haben-einen-kanzler-dem-die-menschen-nicht-vertrauen](https://www.spiegel.de/politik/deutschland/daniel-guenther-wir-haben-einen-kanzler-dem-die-menschen-nicht-vertrauen-a-8bea3be9-033d-4e57-9777-27ebf2225259#ref=rss)
+### rechnet
 
-* [https://www.spiegel.de/sport/wintersport/weltcup-in-engelberg-skispringerin-anna-odine-stroem-bleibt-nach-sturz-regungslos-liegen](https://www.spiegel.de/sport/wintersport/weltcup-in-engelberg-skispringerin-anna-odine-stroem-bleibt-nach-sturz-regungslos-liegen-a-4ea2a1ac-8d61-493f-a844-9e143c139bfd#ref=rss)
-### odine
-
-* [https://www.spiegel.de/sport/wintersport/weltcup-in-engelberg-skispringerin-anna-odine-stroem-bleibt-nach-sturz-regungslos-liegen](https://www.spiegel.de/sport/wintersport/weltcup-in-engelberg-skispringerin-anna-odine-stroem-bleibt-nach-sturz-regungslos-liegen-a-4ea2a1ac-8d61-493f-a844-9e143c139bfd#ref=rss)
-### ström
-
-* [https://www.spiegel.de/sport/wintersport/weltcup-in-engelberg-skispringerin-anna-odine-stroem-bleibt-nach-sturz-regungslos-liegen](https://www.spiegel.de/sport/wintersport/weltcup-in-engelberg-skispringerin-anna-odine-stroem-bleibt-nach-sturz-regungslos-liegen-a-4ea2a1ac-8d61-493f-a844-9e143c139bfd#ref=rss)
-### alice
-
-* [https://www.spiegel.de/politik/deutschland/alice-weidel-uni-bayreuth-geht-plagiatsvorwuerfen-nach](https://www.spiegel.de/politik/deutschland/alice-weidel-uni-bayreuth-geht-plagiatsvorwuerfen-nach-a-b4a27287-3229-49ab-aa8c-d7ef999a67a6#ref=rss)
-### weidel
-
-* [https://www.spiegel.de/politik/deutschland/alice-weidel-uni-bayreuth-geht-plagiatsvorwuerfen-nach](https://www.spiegel.de/politik/deutschland/alice-weidel-uni-bayreuth-geht-plagiatsvorwuerfen-nach-a-b4a27287-3229-49ab-aa8c-d7ef999a67a6#ref=rss)
-### uni
-
-* [https://www.spiegel.de/politik/deutschland/alice-weidel-uni-bayreuth-geht-plagiatsvorwuerfen-nach](https://www.spiegel.de/politik/deutschland/alice-weidel-uni-bayreuth-geht-plagiatsvorwuerfen-nach-a-b4a27287-3229-49ab-aa8c-d7ef999a67a6#ref=rss)
-### bayreuth
-
-* [https://www.spiegel.de/politik/deutschland/alice-weidel-uni-bayreuth-geht-plagiatsvorwuerfen-nach](https://www.spiegel.de/politik/deutschland/alice-weidel-uni-bayreuth-geht-plagiatsvorwuerfen-nach-a-b4a27287-3229-49ab-aa8c-d7ef999a67a6#ref=rss)
-### zweifel
-
-* [https://www.spiegel.de/politik/deutschland/alice-weidel-uni-bayreuth-geht-plagiatsvorwuerfen-nach](https://www.spiegel.de/politik/deutschland/alice-weidel-uni-bayreuth-geht-plagiatsvorwuerfen-nach-a-b4a27287-3229-49ab-aa8c-d7ef999a67a6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/einzelhandel-streik-kurz-vor-weihnachten-beschaeftigte-legen-arbeit-nieder](https://www.spiegel.de/wirtschaft/soziales/einzelhandel-streik-kurz-vor-weihnachten-beschaeftigte-legen-arbeit-nieder-a-03f21f90-479c-4efc-ac93-a5f283a45bae#ref=rss)
-### thema
-
-* [https://www.spiegel.de/politik/deutschland/alice-weidel-uni-bayreuth-geht-plagiatsvorwuerfen-nach](https://www.spiegel.de/politik/deutschland/alice-weidel-uni-bayreuth-geht-plagiatsvorwuerfen-nach-a-b4a27287-3229-49ab-aa8c-d7ef999a67a6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/haushaltsstreit-zwischen-spd-fdp-und-gruenen-als-die-ampel-kurz-vor-dem-bruch-stand](https://www.spiegel.de/politik/deutschland/haushaltsstreit-zwischen-spd-fdp-und-gruenen-als-die-ampel-kurz-vor-dem-bruch-stand-a-88cca44a-ed47-4366-b16f-e855cf7bcaeb#ref=rss)
-### eu
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-viktor-orban-hamas-israel-gaza-krieg-andrea-tandler](https://www.spiegel.de/politik/deutschland/news-des-tages-viktor-orban-hamas-israel-gaza-krieg-andrea-tandler-a-aacb7492-a4b8-4ada-80ff-899234126bb7#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-was-die-eu-beitrittsgespraeche-fuer-das-land-bedeuten](https://www.spiegel.de/ausland/ukraine-was-die-eu-beitrittsgespraeche-fuer-das-land-bedeuten-a-9ecb0d44-ff0f-488a-b10a-c2784db6171b#ref=rss)
-### nimmt
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-viktor-orban-hamas-israel-gaza-krieg-andrea-tandler](https://www.spiegel.de/politik/deutschland/news-des-tages-viktor-orban-hamas-israel-gaza-krieg-andrea-tandler-a-aacb7492-a4b8-4ada-80ff-899234126bb7#ref=rss)
-* [https://www.spiegel.de/panorama/organspende-jeder-soll-spender-sein-bundesrat-fordert-widerspruchsloesung](https://www.spiegel.de/panorama/organspende-jeder-soll-spender-sein-bundesrat-fordert-widerspruchsloesung-a-612addaf-15bc-4074-a103-db5457273af6#ref=rss)
-### hapaglloyd
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/maersk-und-hapag-lloyd-stoppen-containerverkehr-durch-das-rote-meer](https://www.spiegel.de/wirtschaft/unternehmen/maersk-und-hapag-lloyd-stoppen-containerverkehr-durch-das-rote-meer-a-36c1150d-8077-4689-a6fe-31dcc9c1b09d#ref=rss)
-### rote
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/maersk-und-hapag-lloyd-stoppen-containerverkehr-durch-das-rote-meer](https://www.spiegel.de/wirtschaft/unternehmen/maersk-und-hapag-lloyd-stoppen-containerverkehr-durch-das-rote-meer-a-36c1150d-8077-4689-a6fe-31dcc9c1b09d#ref=rss)
-### chiara
-
-* [https://www.spiegel.de/netzwelt/kuchen-skandal-influencerin-chiara-ferragni-muss-millionenstrafe-zahlen](https://www.spiegel.de/netzwelt/kuchen-skandal-influencerin-chiara-ferragni-muss-millionenstrafe-zahlen-a-b4d2f31a-3a7e-4d83-a28c-e05fa0c68211#ref=rss)
-### ferragni
-
-* [https://www.spiegel.de/netzwelt/kuchen-skandal-influencerin-chiara-ferragni-muss-millionenstrafe-zahlen](https://www.spiegel.de/netzwelt/kuchen-skandal-influencerin-chiara-ferragni-muss-millionenstrafe-zahlen-a-b4d2f31a-3a7e-4d83-a28c-e05fa0c68211#ref=rss)
-### geld
-
-* [https://www.spiegel.de/netzwelt/kuchen-skandal-influencerin-chiara-ferragni-muss-millionenstrafe-zahlen](https://www.spiegel.de/netzwelt/kuchen-skandal-influencerin-chiara-ferragni-muss-millionenstrafe-zahlen-a-b4d2f31a-3a7e-4d83-a28c-e05fa0c68211#ref=rss)
-### organspende
-
-* [https://www.spiegel.de/panorama/organspende-jeder-soll-spender-sein-bundesrat-fordert-widerspruchsloesung](https://www.spiegel.de/panorama/organspende-jeder-soll-spender-sein-bundesrat-fordert-widerspruchsloesung-a-612addaf-15bc-4074-a103-db5457273af6#ref=rss)
-### jeder
-
-* [https://www.spiegel.de/panorama/organspende-jeder-soll-spender-sein-bundesrat-fordert-widerspruchsloesung](https://www.spiegel.de/panorama/organspende-jeder-soll-spender-sein-bundesrat-fordert-widerspruchsloesung-a-612addaf-15bc-4074-a103-db5457273af6#ref=rss)
-### spender
-
-* [https://www.spiegel.de/panorama/organspende-jeder-soll-spender-sein-bundesrat-fordert-widerspruchsloesung](https://www.spiegel.de/panorama/organspende-jeder-soll-spender-sein-bundesrat-fordert-widerspruchsloesung-a-612addaf-15bc-4074-a103-db5457273af6#ref=rss)
-### bundesrat
-
-* [https://www.spiegel.de/panorama/organspende-jeder-soll-spender-sein-bundesrat-fordert-widerspruchsloesung](https://www.spiegel.de/panorama/organspende-jeder-soll-spender-sein-bundesrat-fordert-widerspruchsloesung-a-612addaf-15bc-4074-a103-db5457273af6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/asylrecht-bundesrat-bestaetigt-moldau-und-georgien-als-sichere-herkunftsstaaten](https://www.spiegel.de/politik/deutschland/asylrecht-bundesrat-bestaetigt-moldau-und-georgien-als-sichere-herkunftsstaaten-a-b70c3618-36e7-4874-87b2-a19ea0177c28#ref=rss)
-### team
-
-* [https://www.spiegel.de/sport/wintersport/biathlon-weltcup-in-lenzerheide-benedikt-doll-gewinnt-vor-johannes-thingnes-bo](https://www.spiegel.de/sport/wintersport/biathlon-weltcup-in-lenzerheide-benedikt-doll-gewinnt-vor-johannes-thingnes-bo-a-4aee22bd-4e71-4ec0-a754-91ce9b1f57f2#ref=rss)
-* [https://www.spiegel.de/sport/handball/handball-wm-der-frauen-deutsches-team-siegt-gegen-tschechien-und-spielen-um-platz-fuenf](https://www.spiegel.de/sport/handball/handball-wm-der-frauen-deutsches-team-siegt-gegen-tschechien-und-spielen-um-platz-fuenf-a-b9bd32b1-3b6d-4ace-8e5d-fab479759c23#ref=rss)
+* [https://www.spiegel.de/wirtschaft/inflationsrate-bundesbank-erwartet-halbierung-im-jahr-2024](https://www.spiegel.de/wirtschaft/inflationsrate-bundesbank-erwartet-halbierung-im-jahr-2024-a-27465ed9-14a1-4f23-b4a7-2713192533bd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/euro-deutsche-tauschen-noch-immer-d-mark-in-millionenhoehe-um](https://www.spiegel.de/wirtschaft/euro-deutsche-tauschen-noch-immer-d-mark-in-millionenhoehe-um-a-7d76b41c-ec09-41c5-a1e3-8bea0fa345bf#ref=rss)
 ### ende
 
-* [https://www.spiegel.de/wirtschaft/soziales/einzelhandel-streik-kurz-vor-weihnachten-beschaeftigte-legen-arbeit-nieder](https://www.spiegel.de/wirtschaft/soziales/einzelhandel-streik-kurz-vor-weihnachten-beschaeftigte-legen-arbeit-nieder-a-03f21f90-479c-4efc-ac93-a5f283a45bae#ref=rss)
-* [https://www.spiegel.de/sport/fussball/frankfurt-am-main-anklage-gegen-17-jaehrigen-nach-toedlichem-faustschlag-auf-fussballplatz](https://www.spiegel.de/sport/fussball/frankfurt-am-main-anklage-gegen-17-jaehrigen-nach-toedlichem-faustschlag-auf-fussballplatz-a-32697fea-82a5-4383-bb34-5f3a449781f6#ref=rss)
-### faeser
+* [https://www.spiegel.de/wirtschaft/e-auto-foerderung-laeuft-bereits-am-sonntag-aus-von-4500-euro-auf-null](https://www.spiegel.de/wirtschaft/e-auto-foerderung-laeuft-bereits-am-sonntag-aus-von-4500-euro-auf-null-a-9f19e332-131e-4c28-8b83-5a0683848e2b#ref=rss)
+* [https://www.spiegel.de/start/resturlaub-bildungsurlaub-sabbatical-wie-wir-nehmen-was-uns-zusteht](https://www.spiegel.de/start/resturlaub-bildungsurlaub-sabbatical-wie-wir-nehmen-was-uns-zusteht-a-e0966592-4c34-4b69-83e4-b47314f26bd3#ref=rss)
+### wochen
 
-* [https://www.spiegel.de/politik/deutschland/migration-nancy-faeser-verlaengert-grenzkontrollen-zu-polen-tschechien-und-schweiz](https://www.spiegel.de/politik/deutschland/migration-nancy-faeser-verlaengert-grenzkontrollen-zu-polen-tschechien-und-schweiz-a-f4507d32-2699-43f1-84f5-26884048c307#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/asylrecht-bundesrat-bestaetigt-moldau-und-georgien-als-sichere-herkunftsstaaten](https://www.spiegel.de/politik/deutschland/asylrecht-bundesrat-bestaetigt-moldau-und-georgien-als-sichere-herkunftsstaaten-a-b70c3618-36e7-4874-87b2-a19ea0177c28#ref=rss)
-### polen
+* [https://www.spiegel.de/wirtschaft/e-auto-foerderung-laeuft-bereits-am-sonntag-aus-von-4500-euro-auf-null](https://www.spiegel.de/wirtschaft/e-auto-foerderung-laeuft-bereits-am-sonntag-aus-von-4500-euro-auf-null-a-9f19e332-131e-4c28-8b83-5a0683848e2b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mutmassliche-anschlagsplaene-20-jaehriger-iraker-nach-terrorverdacht-abgeschoben](https://www.spiegel.de/panorama/justiz/mutmassliche-anschlagsplaene-20-jaehriger-iraker-nach-terrorverdacht-abgeschoben-a-f8c78879-f5f4-4a40-a612-c921f1ef6de1#ref=rss)
+### 2023
 
-* [https://www.spiegel.de/politik/deutschland/migration-nancy-faeser-verlaengert-grenzkontrollen-zu-polen-tschechien-und-schweiz](https://www.spiegel.de/politik/deutschland/migration-nancy-faeser-verlaengert-grenzkontrollen-zu-polen-tschechien-und-schweiz-a-f4507d32-2699-43f1-84f5-26884048c307#ref=rss)
-### schweiz
+* [https://www.spiegel.de/kultur/literatur/literatur-2023-das-sind-die-besten-romane-des-jahres](https://www.spiegel.de/kultur/literatur/literatur-2023-das-sind-die-besten-romane-des-jahres-a-70161330-c1c8-4a7d-ab57-bd8df389a84a#ref=rss)
+### romane
 
-* [https://www.spiegel.de/politik/deutschland/migration-nancy-faeser-verlaengert-grenzkontrollen-zu-polen-tschechien-und-schweiz](https://www.spiegel.de/politik/deutschland/migration-nancy-faeser-verlaengert-grenzkontrollen-zu-polen-tschechien-und-schweiz-a-f4507d32-2699-43f1-84f5-26884048c307#ref=rss)
-### erfolg
+* [https://www.spiegel.de/kultur/literatur/literatur-2023-das-sind-die-besten-romane-des-jahres](https://www.spiegel.de/kultur/literatur/literatur-2023-das-sind-die-besten-romane-des-jahres-a-70161330-c1c8-4a7d-ab57-bd8df389a84a#ref=rss)
+### quiz
 
-* [https://www.spiegel.de/politik/deutschland/migration-nancy-faeser-verlaengert-grenzkontrollen-zu-polen-tschechien-und-schweiz](https://www.spiegel.de/politik/deutschland/migration-nancy-faeser-verlaengert-grenzkontrollen-zu-polen-tschechien-und-schweiz-a-f4507d32-2699-43f1-84f5-26884048c307#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-spd-abgeordnete-werfen-ihm-taktisch-kalkuliertes-klage-manoever-vor](https://www.spiegel.de/politik/deutschland/friedrich-merz-spd-abgeordnete-werfen-ihm-taktisch-kalkuliertes-klage-manoever-vor-a-6f5b6dd9-f33f-4157-9a03-3ac97ea38d11#ref=rss)
-### friedrich
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/quiz-zur-darts-wm-2024-sind-sie-bereit-fuer-den-ally-pally](https://www.spiegel.de/sport/fussball/quiz-zur-darts-wm-2024-sind-sie-bereit-fuer-den-ally-pally-a-01cd99e7-f3f2-455d-b8d8-abbd6600e343#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-spd-abgeordnete-werfen-ihm-taktisch-kalkuliertes-klage-manoever-vor](https://www.spiegel.de/politik/deutschland/friedrich-merz-spd-abgeordnete-werfen-ihm-taktisch-kalkuliertes-klage-manoever-vor-a-6f5b6dd9-f33f-4157-9a03-3ac97ea38d11#ref=rss)
-### merz
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-spd-abgeordnete-werfen-ihm-taktisch-kalkuliertes-klage-manoever-vor](https://www.spiegel.de/politik/deutschland/friedrich-merz-spd-abgeordnete-werfen-ihm-taktisch-kalkuliertes-klage-manoever-vor-a-6f5b6dd9-f33f-4157-9a03-3ac97ea38d11#ref=rss)
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### testen
+
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/quiz-zur-darts-wm-2024-sind-sie-bereit-fuer-den-ally-pally](https://www.spiegel.de/sport/fussball/quiz-zur-darts-wm-2024-sind-sie-bereit-fuer-den-ally-pally-a-01cd99e7-f3f2-455d-b8d8-abbd6600e343#ref=rss)
+### hoffnung
+
+* [https://www.spiegel.de/gesundheit/hoffnung-wie-sie-entsteht-und-warum-sie-uns-hilft-podcast-mit-andreas-krafft](https://www.spiegel.de/gesundheit/hoffnung-wie-sie-entsteht-und-warum-sie-uns-hilft-podcast-mit-andreas-krafft-a-ccdec3b9-7305-47a1-a8a7-8978525338dc#ref=rss)
+### entsteht
+
+* [https://www.spiegel.de/gesundheit/hoffnung-wie-sie-entsteht-und-warum-sie-uns-hilft-podcast-mit-andreas-krafft](https://www.spiegel.de/gesundheit/hoffnung-wie-sie-entsteht-und-warum-sie-uns-hilft-podcast-mit-andreas-krafft-a-ccdec3b9-7305-47a1-a8a7-8978525338dc#ref=rss)
+### hilft
+
+* [https://www.spiegel.de/gesundheit/hoffnung-wie-sie-entsteht-und-warum-sie-uns-hilft-podcast-mit-andreas-krafft](https://www.spiegel.de/gesundheit/hoffnung-wie-sie-entsteht-und-warum-sie-uns-hilft-podcast-mit-andreas-krafft-a-ccdec3b9-7305-47a1-a8a7-8978525338dc#ref=rss)
+### podcast
+
+* [https://www.spiegel.de/gesundheit/hoffnung-wie-sie-entsteht-und-warum-sie-uns-hilft-podcast-mit-andreas-krafft](https://www.spiegel.de/gesundheit/hoffnung-wie-sie-entsteht-und-warum-sie-uns-hilft-podcast-mit-andreas-krafft-a-ccdec3b9-7305-47a1-a8a7-8978525338dc#ref=rss)
+* [https://www.spiegel.de/ausland/rene-benko-warum-haben-alle-an-den-immobilienmogul-geglaubt-podcast](https://www.spiegel.de/ausland/rene-benko-warum-haben-alle-an-den-immobilienmogul-geglaubt-podcast-a-6ea0d551-aa7f-46c4-95a9-0d707866de6e#ref=rss)
+### andreas
+
+* [https://www.spiegel.de/gesundheit/hoffnung-wie-sie-entsteht-und-warum-sie-uns-hilft-podcast-mit-andreas-krafft](https://www.spiegel.de/gesundheit/hoffnung-wie-sie-entsteht-und-warum-sie-uns-hilft-podcast-mit-andreas-krafft-a-ccdec3b9-7305-47a1-a8a7-8978525338dc#ref=rss)
+### krafft
+
+* [https://www.spiegel.de/gesundheit/hoffnung-wie-sie-entsteht-und-warum-sie-uns-hilft-podcast-mit-andreas-krafft](https://www.spiegel.de/gesundheit/hoffnung-wie-sie-entsteht-und-warum-sie-uns-hilft-podcast-mit-andreas-krafft-a-ccdec3b9-7305-47a1-a8a7-8978525338dc#ref=rss)
+### kommen
+
+* [https://www.spiegel.de/gesundheit/hoffnung-wie-sie-entsteht-und-warum-sie-uns-hilft-podcast-mit-andreas-krafft](https://www.spiegel.de/gesundheit/hoffnung-wie-sie-entsteht-und-warum-sie-uns-hilft-podcast-mit-andreas-krafft-a-ccdec3b9-7305-47a1-a8a7-8978525338dc#ref=rss)
+* [https://www.spiegel.de/ausland/rene-benko-warum-haben-alle-an-den-immobilienmogul-geglaubt-podcast](https://www.spiegel.de/ausland/rene-benko-warum-haben-alle-an-den-immobilienmogul-geglaubt-podcast-a-6ea0d551-aa7f-46c4-95a9-0d707866de6e#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/gesundheit/hoffnung-wie-sie-entsteht-und-warum-sie-uns-hilft-podcast-mit-andreas-krafft](https://www.spiegel.de/gesundheit/hoffnung-wie-sie-entsteht-und-warum-sie-uns-hilft-podcast-mit-andreas-krafft-a-ccdec3b9-7305-47a1-a8a7-8978525338dc#ref=rss)
+* [https://www.spiegel.de/start/resturlaub-bildungsurlaub-sabbatical-wie-wir-nehmen-was-uns-zusteht](https://www.spiegel.de/start/resturlaub-bildungsurlaub-sabbatical-wie-wir-nehmen-was-uns-zusteht-a-e0966592-4c34-4b69-83e4-b47314f26bd3#ref=rss)
+### kuwait
+
+* [https://www.spiegel.de/ausland/kuwait-herrschender-emir-des-golfstaats-gestorben](https://www.spiegel.de/ausland/kuwait-herrschender-emir-des-golfstaats-gestorben-a-bef03455-a19c-427a-a5ff-bebf5fa7fa0d#ref=rss)
+* [https://www.spiegel.de/panorama/die-bilder-der-woche-einfach-spitze](https://www.spiegel.de/panorama/die-bilder-der-woche-einfach-spitze-a-21b990cb-b09f-4b18-bd8e-3adf56facc79#ref=rss)
+### golfstaats
+
+* [https://www.spiegel.de/ausland/kuwait-herrschender-emir-des-golfstaats-gestorben](https://www.spiegel.de/ausland/kuwait-herrschender-emir-des-golfstaats-gestorben-a-bef03455-a19c-427a-a5ff-bebf5fa7fa0d#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/ausland/kuwait-herrschender-emir-des-golfstaats-gestorben](https://www.spiegel.de/ausland/kuwait-herrschender-emir-des-golfstaats-gestorben-a-bef03455-a19c-427a-a5ff-bebf5fa7fa0d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/euro-deutsche-tauschen-noch-immer-d-mark-in-millionenhoehe-um](https://www.spiegel.de/wirtschaft/euro-deutsche-tauschen-noch-immer-d-mark-in-millionenhoehe-um-a-7d76b41c-ec09-41c5-a1e3-8bea0fa345bf#ref=rss)
+### abgeschoben
+
+* [https://www.spiegel.de/panorama/justiz/mutmassliche-anschlagsplaene-20-jaehriger-iraker-nach-terrorverdacht-abgeschoben](https://www.spiegel.de/panorama/justiz/mutmassliche-anschlagsplaene-20-jaehriger-iraker-nach-terrorverdacht-abgeschoben-a-f8c78879-f5f4-4a40-a612-c921f1ef6de1#ref=rss)
+### ich
+
+* [https://www.spiegel.de/psychologie/soziologie-des-schenkens-sind-sie-auch-ein-schwieriger-geber](https://www.spiegel.de/psychologie/soziologie-des-schenkens-sind-sie-auch-ein-schwieriger-geber-a-5eb1df98-62c1-4752-bcbd-ec83f449525d#ref=rss)
+### team
+
+* [https://www.spiegel.de/wirtschaft/service/immobilien-ein-haus-sanieren-in-22-tagen-kann-das-gelingen](https://www.spiegel.de/wirtschaft/service/immobilien-ein-haus-sanieren-in-22-tagen-kann-das-gelingen-a-1b19c3e0-7e8d-4b46-bf38-55793cb0ef8c#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-basektball-toptalent-victor-wembanyama-gewinnt-erstes-duell-mit-lebron-james](https://www.spiegel.de/sport/basketball/nba-basektball-toptalent-victor-wembanyama-gewinnt-erstes-duell-mit-lebron-james-a-85b91001-dded-483e-b952-dd82f0365ed2#ref=rss)
+### 21
+
+* [https://www.spiegel.de/panorama/justiz/21-tote-bei-ultramarathon-haftstrafen-fuer-organisatoren](https://www.spiegel.de/panorama/justiz/21-tote-bei-ultramarathon-haftstrafen-fuer-organisatoren-a-bac8b647-cc10-49e5-884b-798df0d5efbd#ref=rss)
+### ultramarathon
+
+* [https://www.spiegel.de/panorama/justiz/21-tote-bei-ultramarathon-haftstrafen-fuer-organisatoren](https://www.spiegel.de/panorama/justiz/21-tote-bei-ultramarathon-haftstrafen-fuer-organisatoren-a-bac8b647-cc10-49e5-884b-798df0d5efbd#ref=rss)
+### organisatoren
+
+* [https://www.spiegel.de/panorama/justiz/21-tote-bei-ultramarathon-haftstrafen-fuer-organisatoren](https://www.spiegel.de/panorama/justiz/21-tote-bei-ultramarathon-haftstrafen-fuer-organisatoren-a-bac8b647-cc10-49e5-884b-798df0d5efbd#ref=rss)
+### 2021
+
+* [https://www.spiegel.de/panorama/justiz/21-tote-bei-ultramarathon-haftstrafen-fuer-organisatoren](https://www.spiegel.de/panorama/justiz/21-tote-bei-ultramarathon-haftstrafen-fuer-organisatoren-a-bac8b647-cc10-49e5-884b-798df0d5efbd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-und-csu-friedrich-merz-ist-laut-alexander-dobrindt-klarer-favorit-fuer-kanzlerkandidatur](https://www.spiegel.de/politik/deutschland/cdu-und-csu-friedrich-merz-ist-laut-alexander-dobrindt-klarer-favorit-fuer-kanzlerkandidatur-a-4177d042-f6e2-4730-9e7e-e5914de42ab0#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/panorama/justiz/21-tote-bei-ultramarathon-haftstrafen-fuer-organisatoren](https://www.spiegel.de/panorama/justiz/21-tote-bei-ultramarathon-haftstrafen-fuer-organisatoren-a-bac8b647-cc10-49e5-884b-798df0d5efbd#ref=rss)
+* [https://www.spiegel.de/ausland/wie-polen-sich-seine-politische-wuerde-zurueckholte](https://www.spiegel.de/ausland/wie-polen-sich-seine-politische-wuerde-zurueckholte-a-bda1ab5a-7831-461c-b0e0-debe95fd5a3d#ref=rss)
+### frage
+
+* [https://www.spiegel.de/ausland/italien-die-kueche-und-das-weltkulturerbe-die-alles-entscheidende-carbonara-frage](https://www.spiegel.de/ausland/italien-die-kueche-und-das-weltkulturerbe-die-alles-entscheidende-carbonara-frage-a-a5613313-5a7e-4ab0-ad99-a3fd01d10474#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-und-csu-friedrich-merz-ist-laut-alexander-dobrindt-klarer-favorit-fuer-kanzlerkandidatur](https://www.spiegel.de/politik/deutschland/cdu-und-csu-friedrich-merz-ist-laut-alexander-dobrindt-klarer-favorit-fuer-kanzlerkandidatur-a-4177d042-f6e2-4730-9e7e-e5914de42ab0#ref=rss)
+### daniel
+
+* [https://www.spiegel.de/politik/deutschland/daniel-guenther-wir-haben-einen-kanzler-dem-die-menschen-nicht-vertrauen](https://www.spiegel.de/politik/deutschland/daniel-guenther-wir-haben-einen-kanzler-dem-die-menschen-nicht-vertrauen-a-8bea3be9-033d-4e57-9777-27ebf2225259#ref=rss)
+### günther
+
+* [https://www.spiegel.de/politik/deutschland/daniel-guenther-wir-haben-einen-kanzler-dem-die-menschen-nicht-vertrauen](https://www.spiegel.de/politik/deutschland/daniel-guenther-wir-haben-einen-kanzler-dem-die-menschen-nicht-vertrauen-a-8bea3be9-033d-4e57-9777-27ebf2225259#ref=rss)
+### druck
+
+* [https://www.spiegel.de/politik/deutschland/daniel-guenther-wir-haben-einen-kanzler-dem-die-menschen-nicht-vertrauen](https://www.spiegel.de/politik/deutschland/daniel-guenther-wir-haben-einen-kanzler-dem-die-menschen-nicht-vertrauen-a-8bea3be9-033d-4e57-9777-27ebf2225259#ref=rss)
+* [https://www.spiegel.de/ausland/japan-parteispendenskandal-erschuettert-die-regierung-um-premier-fumio-kishida](https://www.spiegel.de/ausland/japan-parteispendenskandal-erschuettert-die-regierung-um-premier-fumio-kishida-a-e974273c-63be-4082-9389-c5ab4c0370e3#ref=rss)
+### union
+
+* [https://www.spiegel.de/politik/deutschland/daniel-guenther-wir-haben-einen-kanzler-dem-die-menschen-nicht-vertrauen](https://www.spiegel.de/politik/deutschland/daniel-guenther-wir-haben-einen-kanzler-dem-die-menschen-nicht-vertrauen-a-8bea3be9-033d-4e57-9777-27ebf2225259#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-und-csu-friedrich-merz-ist-laut-alexander-dobrindt-klarer-favorit-fuer-kanzlerkandidatur](https://www.spiegel.de/politik/deutschland/cdu-und-csu-friedrich-merz-ist-laut-alexander-dobrindt-klarer-favorit-fuer-kanzlerkandidatur-a-4177d042-f6e2-4730-9e7e-e5914de42ab0#ref=rss)
+### thailändische
+
+* [https://www.spiegel.de/ausland/thailaendische-geiseln-in-gaza-warum-wichian-temthong-am-liebsten-sofort-zurueck-nach-israel-will](https://www.spiegel.de/ausland/thailaendische-geiseln-in-gaza-warum-wichian-temthong-am-liebsten-sofort-zurueck-nach-israel-will-a-b7c0699b-ed68-4cc2-b65a-da5af448ed27#ref=rss)
+### wichian
+
+* [https://www.spiegel.de/ausland/thailaendische-geiseln-in-gaza-warum-wichian-temthong-am-liebsten-sofort-zurueck-nach-israel-will](https://www.spiegel.de/ausland/thailaendische-geiseln-in-gaza-warum-wichian-temthong-am-liebsten-sofort-zurueck-nach-israel-will-a-b7c0699b-ed68-4cc2-b65a-da5af448ed27#ref=rss)
+### temthong
+
+* [https://www.spiegel.de/ausland/thailaendische-geiseln-in-gaza-warum-wichian-temthong-am-liebsten-sofort-zurueck-nach-israel-will](https://www.spiegel.de/ausland/thailaendische-geiseln-in-gaza-warum-wichian-temthong-am-liebsten-sofort-zurueck-nach-israel-will-a-b7c0699b-ed68-4cc2-b65a-da5af448ed27#ref=rss)
+### tage
+
+* [https://www.spiegel.de/ausland/thailaendische-geiseln-in-gaza-warum-wichian-temthong-am-liebsten-sofort-zurueck-nach-israel-will](https://www.spiegel.de/ausland/thailaendische-geiseln-in-gaza-warum-wichian-temthong-am-liebsten-sofort-zurueck-nach-israel-will-a-b7c0699b-ed68-4cc2-b65a-da5af448ed27#ref=rss)
+* [https://www.spiegel.de/start/resturlaub-bildungsurlaub-sabbatical-wie-wir-nehmen-was-uns-zusteht](https://www.spiegel.de/start/resturlaub-bildungsurlaub-sabbatical-wie-wir-nehmen-was-uns-zusteht-a-e0966592-4c34-4b69-83e4-b47314f26bd3#ref=rss)
+### marieagnes
+
+* [https://www.spiegel.de/politik/marie-agnes-strack-zimmermann-befuerwortet-einsatz-der-deutschen-marine-im-roten-meer](https://www.spiegel.de/politik/marie-agnes-strack-zimmermann-befuerwortet-einsatz-der-deutschen-marine-im-roten-meer-a-ca88fd23-4389-427d-a4d2-eccac522e87f#ref=rss)
+### strackzimmermann
+
+* [https://www.spiegel.de/politik/marie-agnes-strack-zimmermann-befuerwortet-einsatz-der-deutschen-marine-im-roten-meer](https://www.spiegel.de/politik/marie-agnes-strack-zimmermann-befuerwortet-einsatz-der-deutschen-marine-im-roten-meer-a-ca88fd23-4389-427d-a4d2-eccac522e87f#ref=rss)
+### pistorius
+
+* [https://www.spiegel.de/politik/deutschland/boris-pistorius-spd-bringt-schwedisches-wehrpflichtmodell-ins-spiel](https://www.spiegel.de/politik/deutschland/boris-pistorius-spd-bringt-schwedisches-wehrpflichtmodell-ins-spiel-a-9b009beb-6b07-4401-b761-b040510cab55#ref=rss)
 ### spd
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-spd-abgeordnete-werfen-ihm-taktisch-kalkuliertes-klage-manoever-vor](https://www.spiegel.de/politik/deutschland/friedrich-merz-spd-abgeordnete-werfen-ihm-taktisch-kalkuliertes-klage-manoever-vor-a-6f5b6dd9-f33f-4157-9a03-3ac97ea38d11#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/haushaltsstreit-zwischen-spd-fdp-und-gruenen-als-die-ampel-kurz-vor-dem-bruch-stand](https://www.spiegel.de/politik/deutschland/haushaltsstreit-zwischen-spd-fdp-und-gruenen-als-die-ampel-kurz-vor-dem-bruch-stand-a-88cca44a-ed47-4366-b16f-e855cf7bcaeb#ref=rss)
-### allem
+* [https://www.spiegel.de/politik/deutschland/boris-pistorius-spd-bringt-schwedisches-wehrpflichtmodell-ins-spiel](https://www.spiegel.de/politik/deutschland/boris-pistorius-spd-bringt-schwedisches-wehrpflichtmodell-ins-spiel-a-9b009beb-6b07-4401-b761-b040510cab55#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-hessen-rotes-meer-buergergeld](https://www.spiegel.de/politik/deutschland/news-hessen-rotes-meer-buergergeld-a-e73f5945-b427-4925-b7c6-9dd2189d0760#ref=rss)
+### alle
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-spd-abgeordnete-werfen-ihm-taktisch-kalkuliertes-klage-manoever-vor](https://www.spiegel.de/politik/deutschland/friedrich-merz-spd-abgeordnete-werfen-ihm-taktisch-kalkuliertes-klage-manoever-vor-a-6f5b6dd9-f33f-4157-9a03-3ac97ea38d11#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/haushaltsstreit-zwischen-spd-fdp-und-gruenen-als-die-ampel-kurz-vor-dem-bruch-stand](https://www.spiegel.de/politik/deutschland/haushaltsstreit-zwischen-spd-fdp-und-gruenen-als-die-ampel-kurz-vor-dem-bruch-stand-a-88cca44a-ed47-4366-b16f-e855cf7bcaeb#ref=rss)
-### jacksonville
+* [https://www.spiegel.de/politik/deutschland/boris-pistorius-spd-bringt-schwedisches-wehrpflichtmodell-ins-spiel](https://www.spiegel.de/politik/deutschland/boris-pistorius-spd-bringt-schwedisches-wehrpflichtmodell-ins-spiel-a-9b009beb-6b07-4401-b761-b040510cab55#ref=rss)
+* [https://www.spiegel.de/ausland/rene-benko-warum-haben-alle-an-den-immobilienmogul-geglaubt-podcast](https://www.spiegel.de/ausland/rene-benko-warum-haben-alle-an-den-immobilienmogul-geglaubt-podcast-a-6ea0d551-aa7f-46c4-95a9-0d707866de6e#ref=rss)
+### victor
 
-* [https://www.spiegel.de/sport/american-football/nfl-wie-ein-mitarbeiter-dem-klub-jacksonville-jaguars-22-millionen-dollar-stahl](https://www.spiegel.de/sport/american-football/nfl-wie-ein-mitarbeiter-dem-klub-jacksonville-jaguars-22-millionen-dollar-stahl-a-8ec1bc72-477c-45c8-9426-02484bfbe941#ref=rss)
-### jaguars
+* [https://www.spiegel.de/sport/basketball/nba-basektball-toptalent-victor-wembanyama-gewinnt-erstes-duell-mit-lebron-james](https://www.spiegel.de/sport/basketball/nba-basektball-toptalent-victor-wembanyama-gewinnt-erstes-duell-mit-lebron-james-a-85b91001-dded-483e-b952-dd82f0365ed2#ref=rss)
+### wembanyama
 
-* [https://www.spiegel.de/sport/american-football/nfl-wie-ein-mitarbeiter-dem-klub-jacksonville-jaguars-22-millionen-dollar-stahl](https://www.spiegel.de/sport/american-football/nfl-wie-ein-mitarbeiter-dem-klub-jacksonville-jaguars-22-millionen-dollar-stahl-a-8ec1bc72-477c-45c8-9426-02484bfbe941#ref=rss)
-### jahre
+* [https://www.spiegel.de/sport/basketball/nba-basektball-toptalent-victor-wembanyama-gewinnt-erstes-duell-mit-lebron-james](https://www.spiegel.de/sport/basketball/nba-basektball-toptalent-victor-wembanyama-gewinnt-erstes-duell-mit-lebron-james-a-85b91001-dded-483e-b952-dd82f0365ed2#ref=rss)
+### woche
 
-* [https://www.spiegel.de/sport/american-football/nfl-wie-ein-mitarbeiter-dem-klub-jacksonville-jaguars-22-millionen-dollar-stahl](https://www.spiegel.de/sport/american-football/nfl-wie-ein-mitarbeiter-dem-klub-jacksonville-jaguars-22-millionen-dollar-stahl-a-8ec1bc72-477c-45c8-9426-02484bfbe941#ref=rss)
-### 30
+* [https://www.spiegel.de/panorama/die-bilder-der-woche-einfach-spitze](https://www.spiegel.de/panorama/die-bilder-der-woche-einfach-spitze-a-21b990cb-b09f-4b18-bd8e-3adf56facc79#ref=rss)
+### rené
 
-* [https://www.spiegel.de/sport/american-football/nfl-wie-ein-mitarbeiter-dem-klub-jacksonville-jaguars-22-millionen-dollar-stahl](https://www.spiegel.de/sport/american-football/nfl-wie-ein-mitarbeiter-dem-klub-jacksonville-jaguars-22-millionen-dollar-stahl-a-8ec1bc72-477c-45c8-9426-02484bfbe941#ref=rss)
-* [https://www.spiegel.de/sport/fussball/uli-hoeness-der-rekord-weihnachtsbaum-am-tegernsee](https://www.spiegel.de/sport/fussball/uli-hoeness-der-rekord-weihnachtsbaum-am-tegernsee-a-0bd38f5a-304d-49f7-81ca-47b40bd1a717#ref=rss)
-### haushaltsstreit
+* [https://www.spiegel.de/ausland/rene-benko-warum-haben-alle-an-den-immobilienmogul-geglaubt-podcast](https://www.spiegel.de/ausland/rene-benko-warum-haben-alle-an-den-immobilienmogul-geglaubt-podcast-a-6ea0d551-aa7f-46c4-95a9-0d707866de6e#ref=rss)
+### rudy
 
-* [https://www.spiegel.de/politik/deutschland/haushaltsstreit-zwischen-spd-fdp-und-gruenen-als-die-ampel-kurz-vor-dem-bruch-stand](https://www.spiegel.de/politik/deutschland/haushaltsstreit-zwischen-spd-fdp-und-gruenen-als-die-ampel-kurz-vor-dem-bruch-stand-a-88cca44a-ed47-4366-b16f-e855cf7bcaeb#ref=rss)
-### lange
+* [https://www.spiegel.de/ausland/148-millonen-dollar-strafe-fuer-trumps-ex-anwalt-der-kollaps-des-rudy-giuliani](https://www.spiegel.de/ausland/148-millonen-dollar-strafe-fuer-trumps-ex-anwalt-der-kollaps-des-rudy-giuliani-a-d1198d5f-2ea7-4347-a197-5b19b4006b4b#ref=rss)
+### giuliani
 
-* [https://www.spiegel.de/politik/deutschland/haushaltsstreit-zwischen-spd-fdp-und-gruenen-als-die-ampel-kurz-vor-dem-bruch-stand](https://www.spiegel.de/politik/deutschland/haushaltsstreit-zwischen-spd-fdp-und-gruenen-als-die-ampel-kurz-vor-dem-bruch-stand-a-88cca44a-ed47-4366-b16f-e855cf7bcaeb#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-was-die-eu-beitrittsgespraeche-fuer-das-land-bedeuten](https://www.spiegel.de/ausland/ukraine-was-die-eu-beitrittsgespraeche-fuer-das-land-bedeuten-a-9ecb0d44-ff0f-488a-b10a-c2784db6171b#ref=rss)
+* [https://www.spiegel.de/ausland/148-millonen-dollar-strafe-fuer-trumps-ex-anwalt-der-kollaps-des-rudy-giuliani](https://www.spiegel.de/ausland/148-millonen-dollar-strafe-fuer-trumps-ex-anwalt-der-kollaps-des-rudy-giuliani-a-d1198d5f-2ea7-4347-a197-5b19b4006b4b#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/ausland/148-millonen-dollar-strafe-fuer-trumps-ex-anwalt-der-kollaps-des-rudy-giuliani](https://www.spiegel.de/ausland/148-millonen-dollar-strafe-fuer-trumps-ex-anwalt-der-kollaps-des-rudy-giuliani-a-d1198d5f-2ea7-4347-a197-5b19b4006b4b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/euro-deutsche-tauschen-noch-immer-d-mark-in-millionenhoehe-um](https://www.spiegel.de/wirtschaft/euro-deutsche-tauschen-noch-immer-d-mark-in-millionenhoehe-um-a-7d76b41c-ec09-41c5-a1e3-8bea0fa345bf#ref=rss)
+### dmark
+
+* [https://www.spiegel.de/wirtschaft/euro-deutsche-tauschen-noch-immer-d-mark-in-millionenhoehe-um](https://www.spiegel.de/wirtschaft/euro-deutsche-tauschen-noch-immer-d-mark-in-millionenhoehe-um-a-7d76b41c-ec09-41c5-a1e3-8bea0fa345bf#ref=rss)
+### premier
+
+* [https://www.spiegel.de/ausland/japan-parteispendenskandal-erschuettert-die-regierung-um-premier-fumio-kishida](https://www.spiegel.de/ausland/japan-parteispendenskandal-erschuettert-die-regierung-um-premier-fumio-kishida-a-e974273c-63be-4082-9389-c5ab4c0370e3#ref=rss)
+### kishida
+
+* [https://www.spiegel.de/ausland/japan-parteispendenskandal-erschuettert-die-regierung-um-premier-fumio-kishida](https://www.spiegel.de/ausland/japan-parteispendenskandal-erschuettert-die-regierung-um-premier-fumio-kishida-a-e974273c-63be-4082-9389-c5ab4c0370e3#ref=rss)
+### setzt
+
+* [https://www.spiegel.de/ausland/japan-parteispendenskandal-erschuettert-die-regierung-um-premier-fumio-kishida](https://www.spiegel.de/ausland/japan-parteispendenskandal-erschuettert-die-regierung-um-premier-fumio-kishida-a-e974273c-63be-4082-9389-c5ab4c0370e3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-hessen-rotes-meer-buergergeld](https://www.spiegel.de/politik/deutschland/news-hessen-rotes-meer-buergergeld-a-e73f5945-b427-4925-b7c6-9dd2189d0760#ref=rss)
+### bmw
+
+* [https://www.spiegel.de/auto/bmw-i5-im-test-das-auge-faehrt-mit](https://www.spiegel.de/auto/bmw-i5-im-test-das-auge-faehrt-mit-a-b8bd2786-cb07-42b3-a7e2-5b4601c61c65#ref=rss)
+### i5
+
+* [https://www.spiegel.de/auto/bmw-i5-im-test-das-auge-faehrt-mit](https://www.spiegel.de/auto/bmw-i5-im-test-das-auge-faehrt-mit-a-b8bd2786-cb07-42b3-a7e2-5b4601c61c65#ref=rss)
+### fährt
+
+* [https://www.spiegel.de/auto/bmw-i5-im-test-das-auge-faehrt-mit](https://www.spiegel.de/auto/bmw-i5-im-test-das-auge-faehrt-mit-a-b8bd2786-cb07-42b3-a7e2-5b4601c61c65#ref=rss)
+### arbeiten
+
+* [https://www.spiegel.de/karriere/arbeiten-in-den-niederlanden-warum-es-immer-mehr-deutsche-ins-nachbarland-zieht](https://www.spiegel.de/karriere/arbeiten-in-den-niederlanden-warum-es-immer-mehr-deutsche-ins-nachbarland-zieht-a-95df70f4-2fbd-4fdd-ab73-251ff3e20131#ref=rss)
+### niederlanden
+
+* [https://www.spiegel.de/karriere/arbeiten-in-den-niederlanden-warum-es-immer-mehr-deutsche-ins-nachbarland-zieht](https://www.spiegel.de/karriere/arbeiten-in-den-niederlanden-warum-es-immer-mehr-deutsche-ins-nachbarland-zieht-a-95df70f4-2fbd-4fdd-ab73-251ff3e20131#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/karriere/arbeiten-in-den-niederlanden-warum-es-immer-mehr-deutsche-ins-nachbarland-zieht](https://www.spiegel.de/karriere/arbeiten-in-den-niederlanden-warum-es-immer-mehr-deutsche-ins-nachbarland-zieht-a-95df70f4-2fbd-4fdd-ab73-251ff3e20131#ref=rss)
 ### gérard
 
-* [https://www.spiegel.de/kultur/kino/gerard-depardieu-verhalten-schande-fuer-frankreich-so-kulturministerin-rima-abdul-malak](https://www.spiegel.de/kultur/kino/gerard-depardieu-verhalten-schande-fuer-frankreich-so-kulturministerin-rima-abdul-malak-a-ef29753e-152b-4dde-b1ff-c3b0d3b102a4#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gerard-depardieu-droht-ausschluss-aus-ehrenlegion](https://www.spiegel.de/panorama/justiz/gerard-depardieu-droht-ausschluss-aus-ehrenlegion-a-85edd82e-b68a-4dd9-b4fb-0a26a43bb33f#ref=rss)
 ### depardieu
 
-* [https://www.spiegel.de/kultur/kino/gerard-depardieu-verhalten-schande-fuer-frankreich-so-kulturministerin-rima-abdul-malak](https://www.spiegel.de/kultur/kino/gerard-depardieu-verhalten-schande-fuer-frankreich-so-kulturministerin-rima-abdul-malak-a-ef29753e-152b-4dde-b1ff-c3b0d3b102a4#ref=rss)
-### frankreich
+* [https://www.spiegel.de/panorama/justiz/gerard-depardieu-droht-ausschluss-aus-ehrenlegion](https://www.spiegel.de/panorama/justiz/gerard-depardieu-droht-ausschluss-aus-ehrenlegion-a-85edd82e-b68a-4dd9-b4fb-0a26a43bb33f#ref=rss)
+### ehrenlegion
 
-* [https://www.spiegel.de/kultur/kino/gerard-depardieu-verhalten-schande-fuer-frankreich-so-kulturministerin-rima-abdul-malak](https://www.spiegel.de/kultur/kino/gerard-depardieu-verhalten-schande-fuer-frankreich-so-kulturministerin-rima-abdul-malak-a-ef29753e-152b-4dde-b1ff-c3b0d3b102a4#ref=rss)
-### kulturministerin
+* [https://www.spiegel.de/panorama/justiz/gerard-depardieu-droht-ausschluss-aus-ehrenlegion](https://www.spiegel.de/panorama/justiz/gerard-depardieu-droht-ausschluss-aus-ehrenlegion-a-85edd82e-b68a-4dd9-b4fb-0a26a43bb33f#ref=rss)
+### csu
 
-* [https://www.spiegel.de/kultur/kino/gerard-depardieu-verhalten-schande-fuer-frankreich-so-kulturministerin-rima-abdul-malak](https://www.spiegel.de/kultur/kino/gerard-depardieu-verhalten-schande-fuer-frankreich-so-kulturministerin-rima-abdul-malak-a-ef29753e-152b-4dde-b1ff-c3b0d3b102a4#ref=rss)
-### abdul
+* [https://www.spiegel.de/politik/deutschland/cdu-und-csu-friedrich-merz-ist-laut-alexander-dobrindt-klarer-favorit-fuer-kanzlerkandidatur](https://www.spiegel.de/politik/deutschland/cdu-und-csu-friedrich-merz-ist-laut-alexander-dobrindt-klarer-favorit-fuer-kanzlerkandidatur-a-4177d042-f6e2-4730-9e7e-e5914de42ab0#ref=rss)
+### dobrindt
 
-* [https://www.spiegel.de/kultur/kino/gerard-depardieu-verhalten-schande-fuer-frankreich-so-kulturministerin-rima-abdul-malak](https://www.spiegel.de/kultur/kino/gerard-depardieu-verhalten-schande-fuer-frankreich-so-kulturministerin-rima-abdul-malak-a-ef29753e-152b-4dde-b1ff-c3b0d3b102a4#ref=rss)
-### malak
+* [https://www.spiegel.de/politik/deutschland/cdu-und-csu-friedrich-merz-ist-laut-alexander-dobrindt-klarer-favorit-fuer-kanzlerkandidatur](https://www.spiegel.de/politik/deutschland/cdu-und-csu-friedrich-merz-ist-laut-alexander-dobrindt-klarer-favorit-fuer-kanzlerkandidatur-a-4177d042-f6e2-4730-9e7e-e5914de42ab0#ref=rss)
+### hessen
 
-* [https://www.spiegel.de/kultur/kino/gerard-depardieu-verhalten-schande-fuer-frankreich-so-kulturministerin-rima-abdul-malak](https://www.spiegel.de/kultur/kino/gerard-depardieu-verhalten-schande-fuer-frankreich-so-kulturministerin-rima-abdul-malak-a-ef29753e-152b-4dde-b1ff-c3b0d3b102a4#ref=rss)
-### klimakonferenz
-
-* [https://www.spiegel.de/ausland/klimakonferenz-cop28-wo-steht-die-welt-nach-dem-gipfel-von-dubai](https://www.spiegel.de/ausland/klimakonferenz-cop28-wo-steht-die-welt-nach-dem-gipfel-von-dubai-a-dbb872a1-3b3a-4812-b6d0-2f6dc7ff14b0#ref=rss)
-### antworten
-
-* [https://www.spiegel.de/ausland/klimakonferenz-cop28-wo-steht-die-welt-nach-dem-gipfel-von-dubai](https://www.spiegel.de/ausland/klimakonferenz-cop28-wo-steht-die-welt-nach-dem-gipfel-von-dubai-a-dbb872a1-3b3a-4812-b6d0-2f6dc7ff14b0#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-was-die-eu-beitrittsgespraeche-fuer-das-land-bedeuten](https://www.spiegel.de/ausland/ukraine-was-die-eu-beitrittsgespraeche-fuer-das-land-bedeuten-a-9ecb0d44-ff0f-488a-b10a-c2784db6171b#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/ukraine-was-die-eu-beitrittsgespraeche-fuer-das-land-bedeuten](https://www.spiegel.de/ausland/ukraine-was-die-eu-beitrittsgespraeche-fuer-das-land-bedeuten-a-9ecb0d44-ff0f-488a-b10a-c2784db6171b#ref=rss)
-### land
-
-* [https://www.spiegel.de/ausland/ukraine-was-die-eu-beitrittsgespraeche-fuer-das-land-bedeuten](https://www.spiegel.de/ausland/ukraine-was-die-eu-beitrittsgespraeche-fuer-das-land-bedeuten-a-9ecb0d44-ff0f-488a-b10a-c2784db6171b#ref=rss)
-### anwältin
-
-* [https://www.spiegel.de/panorama/gesellschaft/volkszaehlungsurteil-von-1983-damalige-anwaeltin-ueber-das-heutige-datensammeln](https://www.spiegel.de/panorama/gesellschaft/volkszaehlungsurteil-von-1983-damalige-anwaeltin-ueber-das-heutige-datensammeln-a-44226fbc-9f71-4546-855d-bde328fc6ba1#ref=rss)
-### uli
-
-* [https://www.spiegel.de/sport/fussball/uli-hoeness-der-rekord-weihnachtsbaum-am-tegernsee](https://www.spiegel.de/sport/fussball/uli-hoeness-der-rekord-weihnachtsbaum-am-tegernsee-a-0bd38f5a-304d-49f7-81ca-47b40bd1a717#ref=rss)
-### hoeneß
-
-* [https://www.spiegel.de/sport/fussball/uli-hoeness-der-rekord-weihnachtsbaum-am-tegernsee](https://www.spiegel.de/sport/fussball/uli-hoeness-der-rekord-weihnachtsbaum-am-tegernsee-a-0bd38f5a-304d-49f7-81ca-47b40bd1a717#ref=rss)
-### frankfurt
-
-* [https://www.spiegel.de/sport/fussball/frankfurt-am-main-anklage-gegen-17-jaehrigen-nach-toedlichem-faustschlag-auf-fussballplatz](https://www.spiegel.de/sport/fussball/frankfurt-am-main-anklage-gegen-17-jaehrigen-nach-toedlichem-faustschlag-auf-fussballplatz-a-32697fea-82a5-4383-bb34-5f3a449781f6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-hessen-rotes-meer-buergergeld](https://www.spiegel.de/politik/deutschland/news-hessen-rotes-meer-buergergeld-a-e73f5945-b427-4925-b7c6-9dd2189d0760#ref=rss)
 
