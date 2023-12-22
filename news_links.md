@@ -4,326 +4,251 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### polizei
-
-* [https://www.spiegel.de/panorama/justiz/berlin-gefangenenbefreiung-eines-clan-mitglieds-scheitert-wachleute-greifen-ein](https://www.spiegel.de/panorama/justiz/berlin-gefangenenbefreiung-eines-clan-mitglieds-scheitert-wachleute-greifen-ein-a-4735dca0-9039-4d26-8eca-f06c20fe6e2a#ref=rss)
-* [https://www.spiegel.de/ausland/israel-palaestinensischer-haeftling-mutmasslich-durch-gefaengniswaerter-getoetet-polizei-ermittelt](https://www.spiegel.de/ausland/israel-palaestinensischer-haeftling-mutmasslich-durch-gefaengniswaerter-getoetet-polizei-ermittelt-a-1468b90d-d655-4357-90cb-f23f15482034#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bei-ulm-66-jaehrige-faehrt-mit-aufsitzrasenmaeher-zum-einkaufen](https://www.spiegel.de/panorama/justiz/bei-ulm-66-jaehrige-faehrt-mit-aufsitzrasenmaeher-zum-einkaufen-a-662d597e-55de-4df8-b713-7a75de1de104#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/prag-schuesse-an-karls-universitaet-offenbar-tote-und-verletzte](https://www.spiegel.de/panorama/justiz/prag-schuesse-an-karls-universitaet-offenbar-tote-und-verletzte-a-33887b1e-8fb0-47b9-a694-75bada55a0c0#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/muenchen-mord-an-einer-vierfachen-mutter-im-jahr-2000-ehemann-festgenommen](https://www.spiegel.de/panorama/justiz/muenchen-mord-an-einer-vierfachen-mutter-im-jahr-2000-ehemann-festgenommen-a-08f6ec0d-d65d-457d-ae82-000d9af4afdd#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/ausland/orban-bemaengelt-sonderbare-dinge-in-der-westlichen-demokratischen-welt](https://www.spiegel.de/ausland/orban-bemaengelt-sonderbare-dinge-in-der-westlichen-demokratischen-welt-a-2dd944ea-5b7c-4d34-a126-4ff0d62cd6cf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/verteidigungsfaehigkeit-donald-trump-und-die-deutsche-bombe](https://www.spiegel.de/politik/deutschland/verteidigungsfaehigkeit-donald-trump-und-die-deutsche-bombe-a-3c553e26-b54a-4608-a3ae-70816b4e6f10#ref=rss)
-* [https://www.spiegel.de/geschichte/geschichte-newsletter-masha-gessen-und-der-holocaust-vergleich](https://www.spiegel.de/geschichte/geschichte-newsletter-masha-gessen-und-der-holocaust-vergleich-a-deec57b9-4dbc-4134-8b21-ccf806a3425f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/prag-schuesse-an-karls-universitaet-offenbar-tote-und-verletzte](https://www.spiegel.de/panorama/justiz/prag-schuesse-an-karls-universitaet-offenbar-tote-und-verletzte-a-33887b1e-8fb0-47b9-a694-75bada55a0c0#ref=rss)
-* [https://www.spiegel.de/sport/fussball/1-fc-koeln-und-trainer-steffen-baumgart-trennen-sich](https://www.spiegel.de/sport/fussball/1-fc-koeln-und-trainer-steffen-baumgart-trennen-sich-a-66bc1f3d-d20b-4257-85ac-0da3d0a5f256#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/eugh-urteil-zur-super-league-darum-koennte-die-liga-nun-doch-kommen](https://www.spiegel.de/sport/fussball/eugh-urteil-zur-super-league-darum-koennte-die-liga-nun-doch-kommen-a-8913e90c-5a88-441c-ba58-37d00b962df6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/1-fc-koeln-darf-ein-jahr-lange-keine-neuen-spieler-verpflichten-transfersperre-bestaetigt](https://www.spiegel.de/sport/fussball/1-fc-koeln-darf-ein-jahr-lange-keine-neuen-spieler-verpflichten-transfersperre-bestaetigt-a-8df8e1d3-3344-44da-9b56-bdb47a6442a6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/1-fc-koeln-und-trainer-steffen-baumgart-trennen-sich](https://www.spiegel.de/sport/fussball/1-fc-koeln-und-trainer-steffen-baumgart-trennen-sich-a-66bc1f3d-d20b-4257-85ac-0da3d0a5f256#ref=rss)
-### landwirte
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-protest-der-landwirte-martin-scorsese](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-protest-der-landwirte-martin-scorsese-a-b3a0c436-74cb-4583-8128-075211e48070#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/klare-mehrheit-der-deutschen-will-steuerprivilegien-fuer-landwirte-beibehalten](https://www.spiegel.de/politik/deutschland/klare-mehrheit-der-deutschen-will-steuerprivilegien-fuer-landwirte-beibehalten-a-8e4c1531-e7b1-48ee-abe8-1fe9d3a1abf3#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/israel-palaestinensischer-haeftling-mutmasslich-durch-gefaengniswaerter-getoetet-polizei-ermittelt](https://www.spiegel.de/ausland/israel-palaestinensischer-haeftling-mutmasslich-durch-gefaengniswaerter-getoetet-polizei-ermittelt-a-1468b90d-d655-4357-90cb-f23f15482034#ref=rss)
-* [https://www.spiegel.de/geschichte/geschichte-newsletter-masha-gessen-und-der-holocaust-vergleich](https://www.spiegel.de/geschichte/geschichte-newsletter-masha-gessen-und-der-holocaust-vergleich-a-deec57b9-4dbc-4134-8b21-ccf806a3425f#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-startet-raketenangriff-auf-tel-aviv](https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-startet-raketenangriff-auf-tel-aviv-a-dc8e7767-dfb1-47ed-9b43-1c4d1f48098c#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/israel-palaestinensischer-haeftling-mutmasslich-durch-gefaengniswaerter-getoetet-polizei-ermittelt](https://www.spiegel.de/ausland/israel-palaestinensischer-haeftling-mutmasslich-durch-gefaengniswaerter-getoetet-polizei-ermittelt-a-1468b90d-d655-4357-90cb-f23f15482034#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-startet-raketenangriff-auf-tel-aviv](https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-startet-raketenangriff-auf-tel-aviv-a-dc8e7767-dfb1-47ed-9b43-1c4d1f48098c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bei-ulm-66-jaehrige-faehrt-mit-aufsitzrasenmaeher-zum-einkaufen](https://www.spiegel.de/panorama/justiz/bei-ulm-66-jaehrige-faehrt-mit-aufsitzrasenmaeher-zum-einkaufen-a-662d597e-55de-4df8-b713-7a75de1de104#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/prag-schuesse-an-karls-universitaet-offenbar-tote-und-verletzte](https://www.spiegel.de/panorama/justiz/prag-schuesse-an-karls-universitaet-offenbar-tote-und-verletzte-a-33887b1e-8fb0-47b9-a694-75bada55a0c0#ref=rss)
-### 1
-
-* [https://www.spiegel.de/sport/fussball/1-fc-koeln-darf-ein-jahr-lange-keine-neuen-spieler-verpflichten-transfersperre-bestaetigt](https://www.spiegel.de/sport/fussball/1-fc-koeln-darf-ein-jahr-lange-keine-neuen-spieler-verpflichten-transfersperre-bestaetigt-a-8df8e1d3-3344-44da-9b56-bdb47a6442a6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/1-fc-koeln-und-trainer-steffen-baumgart-trennen-sich](https://www.spiegel.de/sport/fussball/1-fc-koeln-und-trainer-steffen-baumgart-trennen-sich-a-66bc1f3d-d20b-4257-85ac-0da3d0a5f256#ref=rss)
-### köln
-
-* [https://www.spiegel.de/sport/fussball/1-fc-koeln-darf-ein-jahr-lange-keine-neuen-spieler-verpflichten-transfersperre-bestaetigt](https://www.spiegel.de/sport/fussball/1-fc-koeln-darf-ein-jahr-lange-keine-neuen-spieler-verpflichten-transfersperre-bestaetigt-a-8df8e1d3-3344-44da-9b56-bdb47a6442a6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/1-fc-koeln-und-trainer-steffen-baumgart-trennen-sich](https://www.spiegel.de/sport/fussball/1-fc-koeln-und-trainer-steffen-baumgart-trennen-sich-a-66bc1f3d-d20b-4257-85ac-0da3d0a5f256#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/ausland/orban-bemaengelt-sonderbare-dinge-in-der-westlichen-demokratischen-welt](https://www.spiegel.de/ausland/orban-bemaengelt-sonderbare-dinge-in-der-westlichen-demokratischen-welt-a-2dd944ea-5b7c-4d34-a126-4ff0d62cd6cf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-protest-der-landwirte-martin-scorsese](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-protest-der-landwirte-martin-scorsese-a-b3a0c436-74cb-4583-8128-075211e48070#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-muessen-ukrainische-gefluechtete-bald-an-die-front](https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-muessen-ukrainische-gefluechtete-bald-an-die-front-a-6c170efd-5ca4-4dad-9aad-ee329b021e7d#ref=rss)
-### martin
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-protest-der-landwirte-martin-scorsese](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-protest-der-landwirte-martin-scorsese-a-b3a0c436-74cb-4583-8128-075211e48070#ref=rss)
-* [https://www.spiegel.de/sport/handball/handball-em-2024-alfred-gislason-beruft-debuetant-martin-hanne-in-den-kader](https://www.spiegel.de/sport/handball/handball-em-2024-alfred-gislason-beruft-debuetant-martin-hanne-in-den-kader-a-c795a6bf-d2e8-499a-865f-f787cbb75e54#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-protest-der-landwirte-martin-scorsese](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-protest-der-landwirte-martin-scorsese-a-b3a0c436-74cb-4583-8128-075211e48070#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/verteidigungsfaehigkeit-donald-trump-und-die-deutsche-bombe](https://www.spiegel.de/politik/deutschland/verteidigungsfaehigkeit-donald-trump-und-die-deutsche-bombe-a-3c553e26-b54a-4608-a3ae-70816b4e6f10#ref=rss)
-* [https://www.spiegel.de/sport/handball/handball-em-2024-alfred-gislason-beruft-debuetant-martin-hanne-in-den-kader](https://www.spiegel.de/sport/handball/handball-em-2024-alfred-gislason-beruft-debuetant-martin-hanne-in-den-kader-a-c795a6bf-d2e8-499a-865f-f787cbb75e54#ref=rss)
-### ukrainische
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-protest-der-landwirte-martin-scorsese](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-protest-der-landwirte-martin-scorsese-a-b3a0c436-74cb-4583-8128-075211e48070#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-muessen-ukrainische-gefluechtete-bald-an-die-front](https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-muessen-ukrainische-gefluechtete-bald-an-die-front-a-6c170efd-5ca4-4dad-9aad-ee329b021e7d#ref=rss)
-### drei
-
-* [https://www.spiegel.de/politik/deutschland/verteidigungsfaehigkeit-donald-trump-und-die-deutsche-bombe](https://www.spiegel.de/politik/deutschland/verteidigungsfaehigkeit-donald-trump-und-die-deutsche-bombe-a-3c553e26-b54a-4608-a3ae-70816b4e6f10#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/auto-attacke-bei-afd-veranstaltung-melvin-s-zu-jugendstrafe-von-drei-jahren-verurteilt](https://www.spiegel.de/panorama/justiz/auto-attacke-bei-afd-veranstaltung-melvin-s-zu-jugendstrafe-von-drei-jahren-verurteilt-a-dfd92612-b027-44ed-9390-075c5852fccb#ref=rss)
-* [https://www.spiegel.de/ausland/unicef-foto-des-jahres-zeigt-spielende-maedchen-im-ukrainekrieg](https://www.spiegel.de/ausland/unicef-foto-des-jahres-zeigt-spielende-maedchen-im-ukrainekrieg-a-823cbb8e-0b96-4de4-a38a-e599d9e76a8f#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/sport/fussball/1-fc-koeln-darf-ein-jahr-lange-keine-neuen-spieler-verpflichten-transfersperre-bestaetigt](https://www.spiegel.de/sport/fussball/1-fc-koeln-darf-ein-jahr-lange-keine-neuen-spieler-verpflichten-transfersperre-bestaetigt-a-8df8e1d3-3344-44da-9b56-bdb47a6442a6#ref=rss)
-* [https://www.spiegel.de/auto/weihnachten-wann-und-wo-der-adac-die-laengsten-staus-erwartet](https://www.spiegel.de/auto/weihnachten-wann-und-wo-der-adac-die-laengsten-staus-erwartet-a-4c963930-188f-4653-a905-f7aa051a050e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/muenchen-mord-an-einer-vierfachen-mutter-im-jahr-2000-ehemann-festgenommen](https://www.spiegel.de/panorama/justiz/muenchen-mord-an-einer-vierfachen-mutter-im-jahr-2000-ehemann-festgenommen-a-08f6ec0d-d65d-457d-ae82-000d9af4afdd#ref=rss)
-### türkei
-
-* [https://www.spiegel.de/politik/deutschland/brandanschlag-auf-ulmer-synagoge-47-jaehriger-gesteht-antisemitische-tat-beim-psychiater](https://www.spiegel.de/politik/deutschland/brandanschlag-auf-ulmer-synagoge-47-jaehriger-gesteht-antisemitische-tat-beim-psychiater-a-49a9816c-169e-4e2f-9d21-5a134e63186b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tuerkei-zentralbank-hebt-leitzins-auf-42-5-prozent-an](https://www.spiegel.de/wirtschaft/tuerkei-zentralbank-hebt-leitzins-auf-42-5-prozent-an-a-c293b8ff-71b7-48f2-a655-e55b6f458e8b#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/wirtschaft/soziales/andrea-nahles-bundesagentur-chefin-sieht-zusammenarbeit-mit-regierung-belastet](https://www.spiegel.de/wirtschaft/soziales/andrea-nahles-bundesagentur-chefin-sieht-zusammenarbeit-mit-regierung-belastet-a-2d0eb3b7-13ad-4190-9999-f7837d23205a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sparpolitik-die-ampel-hat-angst-vor-den-deutschen-und-olaf-scholz-vor-christian-lindner](https://www.spiegel.de/politik/deutschland/sparpolitik-die-ampel-hat-angst-vor-den-deutschen-und-olaf-scholz-vor-christian-lindner-a-13f7bc96-b531-47d5-af53-e93eb92cb142#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/politik/deutschland/klare-mehrheit-der-deutschen-will-steuerprivilegien-fuer-landwirte-beibehalten](https://www.spiegel.de/politik/deutschland/klare-mehrheit-der-deutschen-will-steuerprivilegien-fuer-landwirte-beibehalten-a-8e4c1531-e7b1-48ee-abe8-1fe9d3a1abf3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sparpolitik-die-ampel-hat-angst-vor-den-deutschen-und-olaf-scholz-vor-christian-lindner](https://www.spiegel.de/politik/deutschland/sparpolitik-die-ampel-hat-angst-vor-den-deutschen-und-olaf-scholz-vor-christian-lindner-a-13f7bc96-b531-47d5-af53-e93eb92cb142#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/justiz/berlin-gefangenenbefreiung-eines-clan-mitglieds-scheitert-wachleute-greifen-ein](https://www.spiegel.de/panorama/justiz/berlin-gefangenenbefreiung-eines-clan-mitglieds-scheitert-wachleute-greifen-ein-a-4735dca0-9039-4d26-8eca-f06c20fe6e2a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/brandanschlag-auf-ulmer-synagoge-47-jaehriger-gesteht-antisemitische-tat-beim-psychiater](https://www.spiegel.de/politik/deutschland/brandanschlag-auf-ulmer-synagoge-47-jaehriger-gesteht-antisemitische-tat-beim-psychiater-a-49a9816c-169e-4e2f-9d21-5a134e63186b#ref=rss)
-### orbán
-
-* [https://www.spiegel.de/ausland/orban-bemaengelt-sonderbare-dinge-in-der-westlichen-demokratischen-welt](https://www.spiegel.de/ausland/orban-bemaengelt-sonderbare-dinge-in-der-westlichen-demokratischen-welt-a-2dd944ea-5b7c-4d34-a126-4ff0d62cd6cf#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/orban-bemaengelt-sonderbare-dinge-in-der-westlichen-demokratischen-welt](https://www.spiegel.de/ausland/orban-bemaengelt-sonderbare-dinge-in-der-westlichen-demokratischen-welt-a-2dd944ea-5b7c-4d34-a126-4ff0d62cd6cf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/verteidigungsfaehigkeit-donald-trump-und-die-deutsche-bombe](https://www.spiegel.de/politik/deutschland/verteidigungsfaehigkeit-donald-trump-und-die-deutsche-bombe-a-3c553e26-b54a-4608-a3ae-70816b4e6f10#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/orban-bemaengelt-sonderbare-dinge-in-der-westlichen-demokratischen-welt](https://www.spiegel.de/ausland/orban-bemaengelt-sonderbare-dinge-in-der-westlichen-demokratischen-welt-a-2dd944ea-5b7c-4d34-a126-4ff0d62cd6cf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/verteidigungsfaehigkeit-donald-trump-und-die-deutsche-bombe](https://www.spiegel.de/politik/deutschland/verteidigungsfaehigkeit-donald-trump-und-die-deutsche-bombe-a-3c553e26-b54a-4608-a3ae-70816b4e6f10#ref=rss)
-### ukrainekrieg
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-protest-der-landwirte-martin-scorsese](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-protest-der-landwirte-martin-scorsese-a-b3a0c436-74cb-4583-8128-075211e48070#ref=rss)
-* [https://www.spiegel.de/ausland/unicef-foto-des-jahres-zeigt-spielende-maedchen-im-ukrainekrieg](https://www.spiegel.de/ausland/unicef-foto-des-jahres-zeigt-spielende-maedchen-im-ukrainekrieg-a-823cbb8e-0b96-4de4-a38a-e599d9e76a8f#ref=rss)
-### scorsese
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-protest-der-landwirte-martin-scorsese](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-protest-der-landwirte-martin-scorsese-a-b3a0c436-74cb-4583-8128-075211e48070#ref=rss)
-### verteidigungsminister
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-protest-der-landwirte-martin-scorsese](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-protest-der-landwirte-martin-scorsese-a-b3a0c436-74cb-4583-8128-075211e48070#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-muessen-ukrainische-gefluechtete-bald-an-die-front](https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-muessen-ukrainische-gefluechtete-bald-an-die-front-a-6c170efd-5ca4-4dad-9aad-ee329b021e7d#ref=rss)
-### lage
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-protest-der-landwirte-martin-scorsese](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-protest-der-landwirte-martin-scorsese-a-b3a0c436-74cb-4583-8128-075211e48070#ref=rss)
-* [https://www.spiegel.de/geschichte/geschichte-newsletter-masha-gessen-und-der-holocaust-vergleich](https://www.spiegel.de/geschichte/geschichte-newsletter-masha-gessen-und-der-holocaust-vergleich-a-deec57b9-4dbc-4134-8b21-ccf806a3425f#ref=rss)
-### super
-
-* [https://www.spiegel.de/sport/fussball/eugh-urteil-zur-super-league-darum-koennte-die-liga-nun-doch-kommen](https://www.spiegel.de/sport/fussball/eugh-urteil-zur-super-league-darum-koennte-die-liga-nun-doch-kommen-a-8913e90c-5a88-441c-ba58-37d00b962df6#ref=rss)
-### league
-
-* [https://www.spiegel.de/sport/fussball/eugh-urteil-zur-super-league-darum-koennte-die-liga-nun-doch-kommen](https://www.spiegel.de/sport/fussball/eugh-urteil-zur-super-league-darum-koennte-die-liga-nun-doch-kommen-a-8913e90c-5a88-441c-ba58-37d00b962df6#ref=rss)
-### liga
-
-* [https://www.spiegel.de/sport/fussball/eugh-urteil-zur-super-league-darum-koennte-die-liga-nun-doch-kommen](https://www.spiegel.de/sport/fussball/eugh-urteil-zur-super-league-darum-koennte-die-liga-nun-doch-kommen-a-8913e90c-5a88-441c-ba58-37d00b962df6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/1-fc-koeln-und-trainer-steffen-baumgart-trennen-sich](https://www.spiegel.de/sport/fussball/1-fc-koeln-und-trainer-steffen-baumgart-trennen-sich-a-66bc1f3d-d20b-4257-85ac-0da3d0a5f256#ref=rss)
-### bald
-
-* [https://www.spiegel.de/politik/deutschland/verteidigungsfaehigkeit-donald-trump-und-die-deutsche-bombe](https://www.spiegel.de/politik/deutschland/verteidigungsfaehigkeit-donald-trump-und-die-deutsche-bombe-a-3c553e26-b54a-4608-a3ae-70816b4e6f10#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-muessen-ukrainische-gefluechtete-bald-an-die-front](https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-muessen-ukrainische-gefluechtete-bald-an-die-front-a-6c170efd-5ca4-4dad-9aad-ee329b021e7d#ref=rss)
-### deutscher
-
-* [https://www.spiegel.de/politik/deutschland/verteidigungsfaehigkeit-donald-trump-und-die-deutsche-bombe](https://www.spiegel.de/politik/deutschland/verteidigungsfaehigkeit-donald-trump-und-die-deutsche-bombe-a-3c553e26-b54a-4608-a3ae-70816b4e6f10#ref=rss)
-* [https://www.spiegel.de/ausland/unicef-foto-des-jahres-zeigt-spielende-maedchen-im-ukrainekrieg](https://www.spiegel.de/ausland/unicef-foto-des-jahres-zeigt-spielende-maedchen-im-ukrainekrieg-a-823cbb8e-0b96-4de4-a38a-e599d9e76a8f#ref=rss)
-### basf
-
-* [https://www.spiegel.de/wirtschaft/basf-verkauft-wintershall-dea-an-oelkonzern-harbour](https://www.spiegel.de/wirtschaft/basf-verkauft-wintershall-dea-an-oelkonzern-harbour-a-1977fd16-0fff-4d49-822e-51b47b609c12#ref=rss)
-### wintershall
-
-* [https://www.spiegel.de/wirtschaft/basf-verkauft-wintershall-dea-an-oelkonzern-harbour](https://www.spiegel.de/wirtschaft/basf-verkauft-wintershall-dea-an-oelkonzern-harbour-a-1977fd16-0fff-4d49-822e-51b47b609c12#ref=rss)
-### dea
-
-* [https://www.spiegel.de/wirtschaft/basf-verkauft-wintershall-dea-an-oelkonzern-harbour](https://www.spiegel.de/wirtschaft/basf-verkauft-wintershall-dea-an-oelkonzern-harbour-a-1977fd16-0fff-4d49-822e-51b47b609c12#ref=rss)
-### stellen
-
-* [https://www.spiegel.de/wirtschaft/basf-verkauft-wintershall-dea-an-oelkonzern-harbour](https://www.spiegel.de/wirtschaft/basf-verkauft-wintershall-dea-an-oelkonzern-harbour-a-1977fd16-0fff-4d49-822e-51b47b609c12#ref=rss)
-* [https://www.spiegel.de/auto/weihnachten-wann-und-wo-der-adac-die-laengsten-staus-erwartet](https://www.spiegel.de/auto/weihnachten-wann-und-wo-der-adac-die-laengsten-staus-erwartet-a-4c963930-188f-4653-a905-f7aa051a050e#ref=rss)
-### rebel
-
-* [https://www.spiegel.de/kultur/kino/rebel-moon-bei-netflix-ein-star-wars-fuer-das-21-jahrhundert-geht-das](https://www.spiegel.de/kultur/kino/rebel-moon-bei-netflix-ein-star-wars-fuer-das-21-jahrhundert-geht-das-a-31156bb0-f3c0-4416-be25-17819925b2d5#ref=rss)
-### netflix
-
-* [https://www.spiegel.de/kultur/kino/rebel-moon-bei-netflix-ein-star-wars-fuer-das-21-jahrhundert-geht-das](https://www.spiegel.de/kultur/kino/rebel-moon-bei-netflix-ein-star-wars-fuer-das-21-jahrhundert-geht-das-a-31156bb0-f3c0-4416-be25-17819925b2d5#ref=rss)
-### star
-
-* [https://www.spiegel.de/kultur/kino/rebel-moon-bei-netflix-ein-star-wars-fuer-das-21-jahrhundert-geht-das](https://www.spiegel.de/kultur/kino/rebel-moon-bei-netflix-ein-star-wars-fuer-das-21-jahrhundert-geht-das-a-31156bb0-f3c0-4416-be25-17819925b2d5#ref=rss)
-### film
-
-* [https://www.spiegel.de/kultur/kino/rebel-moon-bei-netflix-ein-star-wars-fuer-das-21-jahrhundert-geht-das](https://www.spiegel.de/kultur/kino/rebel-moon-bei-netflix-ein-star-wars-fuer-das-21-jahrhundert-geht-das-a-31156bb0-f3c0-4416-be25-17819925b2d5#ref=rss)
-* [https://www.spiegel.de/kultur/tv/kevin-allein-zu-haus-so-reich-sind-die-mccallisters-und-sieben-weitere-schraege-fakten-ueber-den-film](https://www.spiegel.de/kultur/tv/kevin-allein-zu-haus-so-reich-sind-die-mccallisters-und-sieben-weitere-schraege-fakten-ueber-den-film-a-f0c01ebb-0026-41b8-afe0-778871f82e3f#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/kultur/kino/rebel-moon-bei-netflix-ein-star-wars-fuer-das-21-jahrhundert-geht-das](https://www.spiegel.de/kultur/kino/rebel-moon-bei-netflix-ein-star-wars-fuer-das-21-jahrhundert-geht-das-a-31156bb0-f3c0-4416-be25-17819925b2d5#ref=rss)
-* [https://www.spiegel.de/sport/fussball/1-fc-koeln-darf-ein-jahr-lange-keine-neuen-spieler-verpflichten-transfersperre-bestaetigt](https://www.spiegel.de/sport/fussball/1-fc-koeln-darf-ein-jahr-lange-keine-neuen-spieler-verpflichten-transfersperre-bestaetigt-a-8df8e1d3-3344-44da-9b56-bdb47a6442a6#ref=rss)
-### kevin
-
-* [https://www.spiegel.de/kultur/tv/kevin-allein-zu-haus-so-reich-sind-die-mccallisters-und-sieben-weitere-schraege-fakten-ueber-den-film](https://www.spiegel.de/kultur/tv/kevin-allein-zu-haus-so-reich-sind-die-mccallisters-und-sieben-weitere-schraege-fakten-ueber-den-film-a-f0c01ebb-0026-41b8-afe0-778871f82e3f#ref=rss)
-### allein
-
-* [https://www.spiegel.de/kultur/tv/kevin-allein-zu-haus-so-reich-sind-die-mccallisters-und-sieben-weitere-schraege-fakten-ueber-den-film](https://www.spiegel.de/kultur/tv/kevin-allein-zu-haus-so-reich-sind-die-mccallisters-und-sieben-weitere-schraege-fakten-ueber-den-film-a-f0c01ebb-0026-41b8-afe0-778871f82e3f#ref=rss)
-### haus
-
-* [https://www.spiegel.de/kultur/tv/kevin-allein-zu-haus-so-reich-sind-die-mccallisters-und-sieben-weitere-schraege-fakten-ueber-den-film](https://www.spiegel.de/kultur/tv/kevin-allein-zu-haus-so-reich-sind-die-mccallisters-und-sieben-weitere-schraege-fakten-ueber-den-film-a-f0c01ebb-0026-41b8-afe0-778871f82e3f#ref=rss)
-### sieben
-
-* [https://www.spiegel.de/kultur/tv/kevin-allein-zu-haus-so-reich-sind-die-mccallisters-und-sieben-weitere-schraege-fakten-ueber-den-film](https://www.spiegel.de/kultur/tv/kevin-allein-zu-haus-so-reich-sind-die-mccallisters-und-sieben-weitere-schraege-fakten-ueber-den-film-a-f0c01ebb-0026-41b8-afe0-778871f82e3f#ref=rss)
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### tote
-
-* [https://www.spiegel.de/ausland/israel-palaestinensischer-haeftling-mutmasslich-durch-gefaengniswaerter-getoetet-polizei-ermittelt](https://www.spiegel.de/ausland/israel-palaestinensischer-haeftling-mutmasslich-durch-gefaengniswaerter-getoetet-polizei-ermittelt-a-1468b90d-d655-4357-90cb-f23f15482034#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/prag-schuesse-an-karls-universitaet-offenbar-tote-und-verletzte](https://www.spiegel.de/panorama/justiz/prag-schuesse-an-karls-universitaet-offenbar-tote-und-verletzte-a-33887b1e-8fb0-47b9-a694-75bada55a0c0#ref=rss)
-### spieler
-
-* [https://www.spiegel.de/sport/fussball/1-fc-koeln-darf-ein-jahr-lange-keine-neuen-spieler-verpflichten-transfersperre-bestaetigt](https://www.spiegel.de/sport/fussball/1-fc-koeln-darf-ein-jahr-lange-keine-neuen-spieler-verpflichten-transfersperre-bestaetigt-a-8df8e1d3-3344-44da-9b56-bdb47a6442a6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-christoph-galtier-von-rassismusvorwuerfen-beim-ogc-nizza-freigesprochen](https://www.spiegel.de/sport/fussball/fussball-christoph-galtier-von-rassismusvorwuerfen-beim-ogc-nizza-freigesprochen-a-ab3aa2f5-0f6f-4126-9550-b1dbdaaa7d0b#ref=rss)
-### transfersperre
-
-* [https://www.spiegel.de/sport/fussball/1-fc-koeln-darf-ein-jahr-lange-keine-neuen-spieler-verpflichten-transfersperre-bestaetigt](https://www.spiegel.de/sport/fussball/1-fc-koeln-darf-ein-jahr-lange-keine-neuen-spieler-verpflichten-transfersperre-bestaetigt-a-8df8e1d3-3344-44da-9b56-bdb47a6442a6#ref=rss)
-### bestätigt
-
-* [https://www.spiegel.de/sport/fussball/1-fc-koeln-darf-ein-jahr-lange-keine-neuen-spieler-verpflichten-transfersperre-bestaetigt](https://www.spiegel.de/sport/fussball/1-fc-koeln-darf-ein-jahr-lange-keine-neuen-spieler-verpflichten-transfersperre-bestaetigt-a-8df8e1d3-3344-44da-9b56-bdb47a6442a6#ref=rss)
-### klub
-
-* [https://www.spiegel.de/sport/fussball/1-fc-koeln-darf-ein-jahr-lange-keine-neuen-spieler-verpflichten-transfersperre-bestaetigt](https://www.spiegel.de/sport/fussball/1-fc-koeln-darf-ein-jahr-lange-keine-neuen-spieler-verpflichten-transfersperre-bestaetigt-a-8df8e1d3-3344-44da-9b56-bdb47a6442a6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/1-fc-koeln-und-trainer-steffen-baumgart-trennen-sich](https://www.spiegel.de/sport/fussball/1-fc-koeln-und-trainer-steffen-baumgart-trennen-sich-a-66bc1f3d-d20b-4257-85ac-0da3d0a5f256#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/panorama/justiz/auto-attacke-bei-afd-veranstaltung-melvin-s-zu-jugendstrafe-von-drei-jahren-verurteilt](https://www.spiegel.de/panorama/justiz/auto-attacke-bei-afd-veranstaltung-melvin-s-zu-jugendstrafe-von-drei-jahren-verurteilt-a-dfd92612-b027-44ed-9390-075c5852fccb#ref=rss)
-* [https://www.spiegel.de/sport/fussball/max-kruse-beendet-karriere-die-volle-packung-leben](https://www.spiegel.de/sport/fussball/max-kruse-beendet-karriere-die-volle-packung-leben-a-b7d0f414-c9a7-4735-9a71-fc29492a71a3#ref=rss)
-### fährt
-
-* [https://www.spiegel.de/panorama/justiz/auto-attacke-bei-afd-veranstaltung-melvin-s-zu-jugendstrafe-von-drei-jahren-verurteilt](https://www.spiegel.de/panorama/justiz/auto-attacke-bei-afd-veranstaltung-melvin-s-zu-jugendstrafe-von-drei-jahren-verurteilt-a-dfd92612-b027-44ed-9390-075c5852fccb#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bei-ulm-66-jaehrige-faehrt-mit-aufsitzrasenmaeher-zum-einkaufen](https://www.spiegel.de/panorama/justiz/bei-ulm-66-jaehrige-faehrt-mit-aufsitzrasenmaeher-zum-einkaufen-a-662d597e-55de-4df8-b713-7a75de1de104#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/panorama/justiz/auto-attacke-bei-afd-veranstaltung-melvin-s-zu-jugendstrafe-von-drei-jahren-verurteilt](https://www.spiegel.de/panorama/justiz/auto-attacke-bei-afd-veranstaltung-melvin-s-zu-jugendstrafe-von-drei-jahren-verurteilt-a-dfd92612-b027-44ed-9390-075c5852fccb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/andrea-nahles-bundesagentur-chefin-sieht-zusammenarbeit-mit-regierung-belastet](https://www.spiegel.de/wirtschaft/soziales/andrea-nahles-bundesagentur-chefin-sieht-zusammenarbeit-mit-regierung-belastet-a-2d0eb3b7-13ad-4190-9999-f7837d23205a#ref=rss)
-### synagoge
-
-* [https://www.spiegel.de/politik/deutschland/brandanschlag-auf-ulmer-synagoge-47-jaehriger-gesteht-antisemitische-tat-beim-psychiater](https://www.spiegel.de/politik/deutschland/brandanschlag-auf-ulmer-synagoge-47-jaehriger-gesteht-antisemitische-tat-beim-psychiater-a-49a9816c-169e-4e2f-9d21-5a134e63186b#ref=rss)
-### 47jähriger
-
-* [https://www.spiegel.de/politik/deutschland/brandanschlag-auf-ulmer-synagoge-47-jaehriger-gesteht-antisemitische-tat-beim-psychiater](https://www.spiegel.de/politik/deutschland/brandanschlag-auf-ulmer-synagoge-47-jaehriger-gesteht-antisemitische-tat-beim-psychiater-a-49a9816c-169e-4e2f-9d21-5a134e63186b#ref=rss)
-### ulm
-
-* [https://www.spiegel.de/politik/deutschland/brandanschlag-auf-ulmer-synagoge-47-jaehriger-gesteht-antisemitische-tat-beim-psychiater](https://www.spiegel.de/politik/deutschland/brandanschlag-auf-ulmer-synagoge-47-jaehriger-gesteht-antisemitische-tat-beim-psychiater-a-49a9816c-169e-4e2f-9d21-5a134e63186b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bei-ulm-66-jaehrige-faehrt-mit-aufsitzrasenmaeher-zum-einkaufen](https://www.spiegel.de/panorama/justiz/bei-ulm-66-jaehrige-faehrt-mit-aufsitzrasenmaeher-zum-einkaufen-a-662d597e-55de-4df8-b713-7a75de1de104#ref=rss)
-### masha
-
-* [https://www.spiegel.de/geschichte/geschichte-newsletter-masha-gessen-und-der-holocaust-vergleich](https://www.spiegel.de/geschichte/geschichte-newsletter-masha-gessen-und-der-holocaust-vergleich-a-deec57b9-4dbc-4134-8b21-ccf806a3425f#ref=rss)
-### gessen
-
-* [https://www.spiegel.de/geschichte/geschichte-newsletter-masha-gessen-und-der-holocaust-vergleich](https://www.spiegel.de/geschichte/geschichte-newsletter-masha-gessen-und-der-holocaust-vergleich-a-deec57b9-4dbc-4134-8b21-ccf806a3425f#ref=rss)
-### katzenvideo
-
-* [https://www.spiegel.de/wissenschaft/natur/nasa-schickt-katzenvideo-aus-den-tiefen-des-alls](https://www.spiegel.de/wissenschaft/natur/nasa-schickt-katzenvideo-aus-den-tiefen-des-alls-a-3aca6524-3fec-4381-bdf9-5df8765317e6#ref=rss)
-### hamas
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-startet-raketenangriff-auf-tel-aviv](https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-startet-raketenangriff-auf-tel-aviv-a-dc8e7767-dfb1-47ed-9b43-1c4d1f48098c#ref=rss)
-### startet
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-startet-raketenangriff-auf-tel-aviv](https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-startet-raketenangriff-auf-tel-aviv-a-dc8e7767-dfb1-47ed-9b43-1c4d1f48098c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/1-fc-koeln-und-trainer-steffen-baumgart-trennen-sich](https://www.spiegel.de/sport/fussball/1-fc-koeln-und-trainer-steffen-baumgart-trennen-sich-a-66bc1f3d-d20b-4257-85ac-0da3d0a5f256#ref=rss)
-### geflüchtete
-
-* [https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-muessen-ukrainische-gefluechtete-bald-an-die-front](https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-muessen-ukrainische-gefluechtete-bald-an-die-front-a-6c170efd-5ca4-4dad-9aad-ee329b021e7d#ref=rss)
-### aufsitzrasenmäher
-
-* [https://www.spiegel.de/panorama/justiz/bei-ulm-66-jaehrige-faehrt-mit-aufsitzrasenmaeher-zum-einkaufen](https://www.spiegel.de/panorama/justiz/bei-ulm-66-jaehrige-faehrt-mit-aufsitzrasenmaeher-zum-einkaufen-a-662d597e-55de-4df8-b713-7a75de1de104#ref=rss)
-### max
-
-* [https://www.spiegel.de/sport/fussball/max-kruse-beendet-karriere-die-volle-packung-leben](https://www.spiegel.de/sport/fussball/max-kruse-beendet-karriere-die-volle-packung-leben-a-b7d0f414-c9a7-4735-9a71-fc29492a71a3#ref=rss)
-### kruse
-
-* [https://www.spiegel.de/sport/fussball/max-kruse-beendet-karriere-die-volle-packung-leben](https://www.spiegel.de/sport/fussball/max-kruse-beendet-karriere-die-volle-packung-leben-a-b7d0f414-c9a7-4735-9a71-fc29492a71a3#ref=rss)
-### beendet
-
-* [https://www.spiegel.de/sport/fussball/max-kruse-beendet-karriere-die-volle-packung-leben](https://www.spiegel.de/sport/fussball/max-kruse-beendet-karriere-die-volle-packung-leben-a-b7d0f414-c9a7-4735-9a71-fc29492a71a3#ref=rss)
-### vorgeworfen
-
-* [https://www.spiegel.de/sport/fussball/max-kruse-beendet-karriere-die-volle-packung-leben](https://www.spiegel.de/sport/fussball/max-kruse-beendet-karriere-die-volle-packung-leben-a-b7d0f414-c9a7-4735-9a71-fc29492a71a3#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-christoph-galtier-von-rassismusvorwuerfen-beim-ogc-nizza-freigesprochen](https://www.spiegel.de/sport/fussball/fussball-christoph-galtier-von-rassismusvorwuerfen-beim-ogc-nizza-freigesprochen-a-ab3aa2f5-0f6f-4126-9550-b1dbdaaa7d0b#ref=rss)
-### leitzins
-
-* [https://www.spiegel.de/wirtschaft/tuerkei-zentralbank-hebt-leitzins-auf-42-5-prozent-an](https://www.spiegel.de/wirtschaft/tuerkei-zentralbank-hebt-leitzins-auf-42-5-prozent-an-a-c293b8ff-71b7-48f2-a655-e55b6f458e8b#ref=rss)
-### prozent
-
-* [https://www.spiegel.de/wirtschaft/tuerkei-zentralbank-hebt-leitzins-auf-42-5-prozent-an](https://www.spiegel.de/wirtschaft/tuerkei-zentralbank-hebt-leitzins-auf-42-5-prozent-an-a-c293b8ff-71b7-48f2-a655-e55b6f458e8b#ref=rss)
-### prag
-
-* [https://www.spiegel.de/panorama/justiz/prag-schuesse-an-karls-universitaet-offenbar-tote-und-verletzte](https://www.spiegel.de/panorama/justiz/prag-schuesse-an-karls-universitaet-offenbar-tote-und-verletzte-a-33887b1e-8fb0-47b9-a694-75bada55a0c0#ref=rss)
+### weihnachten
+
+* [https://www.spiegel.de/wissenschaft/medizin/penisbruch-risiko-steigt-zu-weihnachten](https://www.spiegel.de/wissenschaft/medizin/penisbruch-risiko-steigt-zu-weihnachten-a-001fdec6-2b3c-4bc7-ba21-60bb021d7512#ref=rss)
+* [https://www.spiegel.de/wirtschaft/weihnachten-etwa-jeder-zehnte-beschaeftigte-muss-an-festtagen-arbeiten](https://www.spiegel.de/wirtschaft/weihnachten-etwa-jeder-zehnte-beschaeftigte-muss-an-festtagen-arbeiten-a-e81bce07-4f57-4751-8572-772c8e065065#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/weihnachten-und-ein-perspektivwechsel-und-nun-die-guten-nachrichten-meinung](https://www.spiegel.de/politik/deutschland/weihnachten-und-ein-perspektivwechsel-und-nun-die-guten-nachrichten-meinung-a-e95687e7-b845-4fd8-87f6-e835bc5a4dda#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-sturm-tief-zoltan-wirbelt-weihnachtsbahnverkehr-durcheinander](https://www.spiegel.de/panorama/wetter-sturm-tief-zoltan-wirbelt-weihnachtsbahnverkehr-durcheinander-a-47571f96-95ff-4fb1-86e0-8bd20d8e2c93#ref=rss)
+* [https://www.spiegel.de/panorama/leute/frank-zander-fehlt-bei-seiner-weihnachtsfeier-fuer-obdachlose](https://www.spiegel.de/panorama/leute/frank-zander-fehlt-bei-seiner-weihnachtsfeier-fuer-obdachlose-a-bffd7fae-46d1-48fe-85b3-05b906399e65#ref=rss)
+### russland
+
+* [https://www.spiegel.de/auto/elektroauto-amber-aus-russland-prototyp-erntet-spott](https://www.spiegel.de/auto/elektroauto-amber-aus-russland-prototyp-erntet-spott-a-f9c509ea-03d1-48cc-8c46-8d139248b818#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-das-heikle-russland-dinner-beim-deutschen-botschafter](https://www.spiegel.de/politik/deutschland/ukraine-krieg-das-heikle-russland-dinner-beim-deutschen-botschafter-a-15af8321-0f03-475b-ae24-ec18cc6a0426#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-jens-stoltenberg-haelt-russlands-kriegsziel-fuer-nicht-mehr-erreichbar](https://www.spiegel.de/ausland/ukraine-krieg-jens-stoltenberg-haelt-russlands-kriegsziel-fuer-nicht-mehr-erreichbar-a-4bf77f45-d093-42b1-ab47-c9bd300a1767#ref=rss)
+### jens
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-jens-stoltenberg-haelt-russlands-kriegsziel-fuer-nicht-mehr-erreichbar](https://www.spiegel.de/ausland/ukraine-krieg-jens-stoltenberg-haelt-russlands-kriegsziel-fuer-nicht-mehr-erreichbar-a-4bf77f45-d093-42b1-ab47-c9bd300a1767#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-attacke-in-prag-donald-trump-jens-lehmann](https://www.spiegel.de/politik/deutschland/news-attacke-in-prag-donald-trump-jens-lehmann-a-69e2f6d8-cc4b-4e51-b27a-54494fee347d#ref=rss)
+### scholz
+
+* [https://www.spiegel.de/politik/deutschland/spiegel-politikertreppe-olaf-scholz-rutscht-ab-markus-soeder-und-sahra-wagenknecht-legen-zu](https://www.spiegel.de/politik/deutschland/spiegel-politikertreppe-olaf-scholz-rutscht-ab-markus-soeder-und-sahra-wagenknecht-legen-zu-a-00985d51-2773-408f-b2d3-6bddacc97c2c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-das-heikle-russland-dinner-beim-deutschen-botschafter](https://www.spiegel.de/politik/deutschland/ukraine-krieg-das-heikle-russland-dinner-beim-deutschen-botschafter-a-15af8321-0f03-475b-ae24-ec18cc6a0426#ref=rss)
+### verliert
+
+* [https://www.spiegel.de/politik/deutschland/spiegel-politikertreppe-olaf-scholz-rutscht-ab-markus-soeder-und-sahra-wagenknecht-legen-zu](https://www.spiegel.de/politik/deutschland/spiegel-politikertreppe-olaf-scholz-rutscht-ab-markus-soeder-und-sahra-wagenknecht-legen-zu-a-00985d51-2773-408f-b2d3-6bddacc97c2c#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/angriffe-auf-uber-nvidia-rockstar-games-teenager-hacker-wird-dauerhaft-in-klinik-eingewiesen](https://www.spiegel.de/netzwelt/web/angriffe-auf-uber-nvidia-rockstar-games-teenager-hacker-wird-dauerhaft-in-klinik-eingewiesen-a-40266cd5-5606-4898-8ca4-0e7766d1860f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/ajax-amsterdam-verliert-erstmals-in-der-pokal-geschichte-gegen-einen-amateurklub](https://www.spiegel.de/sport/fussball/ajax-amsterdam-verliert-erstmals-in-der-pokal-geschichte-gegen-einen-amateurklub-a-df96455a-36bb-4ecd-93d4-847bef537dd7#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/panorama/justiz/prag-schuesse-an-karls-universitaet-offenbar-tote-und-verletzte](https://www.spiegel.de/panorama/justiz/prag-schuesse-an-karls-universitaet-offenbar-tote-und-verletzte-a-33887b1e-8fb0-47b9-a694-75bada55a0c0#ref=rss)
-### karlsuniversität
+* [https://www.spiegel.de/politik/deutschland/spiegel-politikertreppe-olaf-scholz-rutscht-ab-markus-soeder-und-sahra-wagenknecht-legen-zu](https://www.spiegel.de/politik/deutschland/spiegel-politikertreppe-olaf-scholz-rutscht-ab-markus-soeder-und-sahra-wagenknecht-legen-zu-a-00985d51-2773-408f-b2d3-6bddacc97c2c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/arthrose-neuer-knorpel-fuers-kaputte-knie-forscher-machen-hoffnung](https://www.spiegel.de/wissenschaft/medizin/arthrose-neuer-knorpel-fuers-kaputte-knie-forscher-machen-hoffnung-a-cdcdbe92-a11a-4386-91bf-3a0078c433cf#ref=rss)
+* [https://www.spiegel.de/panorama/leute/frank-zander-fehlt-bei-seiner-weihnachtsfeier-fuer-obdachlose](https://www.spiegel.de/panorama/leute/frank-zander-fehlt-bei-seiner-weihnachtsfeier-fuer-obdachlose-a-bffd7fae-46d1-48fe-85b3-05b906399e65#ref=rss)
+### preise
 
-* [https://www.spiegel.de/panorama/justiz/prag-schuesse-an-karls-universitaet-offenbar-tote-und-verletzte](https://www.spiegel.de/panorama/justiz/prag-schuesse-an-karls-universitaet-offenbar-tote-und-verletzte-a-33887b1e-8fb0-47b9-a694-75bada55a0c0#ref=rss)
-### galtier
+* [https://www.spiegel.de/wirtschaft/service/ploetzlich-gibt-es-am-immobilienmarkt-wieder-schnaeppchen](https://www.spiegel.de/wirtschaft/service/ploetzlich-gibt-es-am-immobilienmarkt-wieder-schnaeppchen-a-63cb1129-045a-4849-80d1-44cefd0b754d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/immobilien-verlieren-immer-schneller-an-wert](https://www.spiegel.de/wirtschaft/immobilien-verlieren-immer-schneller-an-wert-a-90b4f777-6e8d-4c2b-a537-60453edbcac8#ref=rss)
+### häuser
 
-* [https://www.spiegel.de/sport/fussball/fussball-christoph-galtier-von-rassismusvorwuerfen-beim-ogc-nizza-freigesprochen](https://www.spiegel.de/sport/fussball/fussball-christoph-galtier-von-rassismusvorwuerfen-beim-ogc-nizza-freigesprochen-a-ab3aa2f5-0f6f-4126-9550-b1dbdaaa7d0b#ref=rss)
-### ogc
+* [https://www.spiegel.de/wirtschaft/service/ploetzlich-gibt-es-am-immobilienmarkt-wieder-schnaeppchen](https://www.spiegel.de/wirtschaft/service/ploetzlich-gibt-es-am-immobilienmarkt-wieder-schnaeppchen-a-63cb1129-045a-4849-80d1-44cefd0b754d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/immobilien-verlieren-immer-schneller-an-wert](https://www.spiegel.de/wirtschaft/immobilien-verlieren-immer-schneller-an-wert-a-90b4f777-6e8d-4c2b-a537-60453edbcac8#ref=rss)
+### wohnungen
 
-* [https://www.spiegel.de/sport/fussball/fussball-christoph-galtier-von-rassismusvorwuerfen-beim-ogc-nizza-freigesprochen](https://www.spiegel.de/sport/fussball/fussball-christoph-galtier-von-rassismusvorwuerfen-beim-ogc-nizza-freigesprochen-a-ab3aa2f5-0f6f-4126-9550-b1dbdaaa7d0b#ref=rss)
-### nizza
+* [https://www.spiegel.de/wirtschaft/service/ploetzlich-gibt-es-am-immobilienmarkt-wieder-schnaeppchen](https://www.spiegel.de/wirtschaft/service/ploetzlich-gibt-es-am-immobilienmarkt-wieder-schnaeppchen-a-63cb1129-045a-4849-80d1-44cefd0b754d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/immobilien-verlieren-immer-schneller-an-wert](https://www.spiegel.de/wirtschaft/immobilien-verlieren-immer-schneller-an-wert-a-90b4f777-6e8d-4c2b-a537-60453edbcac8#ref=rss)
+### fallen
 
-* [https://www.spiegel.de/sport/fussball/fussball-christoph-galtier-von-rassismusvorwuerfen-beim-ogc-nizza-freigesprochen](https://www.spiegel.de/sport/fussball/fussball-christoph-galtier-von-rassismusvorwuerfen-beim-ogc-nizza-freigesprochen-a-ab3aa2f5-0f6f-4126-9550-b1dbdaaa7d0b#ref=rss)
-### andrea
+* [https://www.spiegel.de/wirtschaft/service/ploetzlich-gibt-es-am-immobilienmarkt-wieder-schnaeppchen](https://www.spiegel.de/wirtschaft/service/ploetzlich-gibt-es-am-immobilienmarkt-wieder-schnaeppchen-a-63cb1129-045a-4849-80d1-44cefd0b754d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/immobilien-verlieren-immer-schneller-an-wert](https://www.spiegel.de/wirtschaft/immobilien-verlieren-immer-schneller-an-wert-a-90b4f777-6e8d-4c2b-a537-60453edbcac8#ref=rss)
+### lange
 
-* [https://www.spiegel.de/wirtschaft/soziales/andrea-nahles-bundesagentur-chefin-sieht-zusammenarbeit-mit-regierung-belastet](https://www.spiegel.de/wirtschaft/soziales/andrea-nahles-bundesagentur-chefin-sieht-zusammenarbeit-mit-regierung-belastet-a-2d0eb3b7-13ad-4190-9999-f7837d23205a#ref=rss)
-### nahles
+* [https://www.spiegel.de/wirtschaft/service/ploetzlich-gibt-es-am-immobilienmarkt-wieder-schnaeppchen](https://www.spiegel.de/wirtschaft/service/ploetzlich-gibt-es-am-immobilienmarkt-wieder-schnaeppchen-a-63cb1129-045a-4849-80d1-44cefd0b754d#ref=rss)
+* [https://www.spiegel.de/panorama/kirchenaustritte-auch-2023-kehrten-zehntausende-der-kirche-den-ruecken](https://www.spiegel.de/panorama/kirchenaustritte-auch-2023-kehrten-zehntausende-der-kirche-den-ruecken-a-99d04ccc-b15e-4114-add2-df2c5affadfb#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-der-frauen-eintracht-frankfurt-droht-das-aus-in-der-champions-league-gruppenphase](https://www.spiegel.de/sport/fussball/fussball-der-frauen-eintracht-frankfurt-droht-das-aus-in-der-champions-league-gruppenphase-a-716b3d66-44c0-4ff1-9868-8318a13fad83#ref=rss)
+### kirche
 
-* [https://www.spiegel.de/wirtschaft/soziales/andrea-nahles-bundesagentur-chefin-sieht-zusammenarbeit-mit-regierung-belastet](https://www.spiegel.de/wirtschaft/soziales/andrea-nahles-bundesagentur-chefin-sieht-zusammenarbeit-mit-regierung-belastet-a-2d0eb3b7-13ad-4190-9999-f7837d23205a#ref=rss)
-### zusammenarbeit
+* [https://www.spiegel.de/panorama/hulk-hogan-wrestling-legende-laesst-sich-taufen](https://www.spiegel.de/panorama/hulk-hogan-wrestling-legende-laesst-sich-taufen-a-18dd3bcb-ee2d-4c29-8530-37563cd01d47#ref=rss)
+* [https://www.spiegel.de/panorama/kirchenaustritte-auch-2023-kehrten-zehntausende-der-kirche-den-ruecken](https://www.spiegel.de/panorama/kirchenaustritte-auch-2023-kehrten-zehntausende-der-kirche-den-ruecken-a-99d04ccc-b15e-4114-add2-df2c5affadfb#ref=rss)
+### euro
 
-* [https://www.spiegel.de/wirtschaft/soziales/andrea-nahles-bundesagentur-chefin-sieht-zusammenarbeit-mit-regierung-belastet](https://www.spiegel.de/wirtschaft/soziales/andrea-nahles-bundesagentur-chefin-sieht-zusammenarbeit-mit-regierung-belastet-a-2d0eb3b7-13ad-4190-9999-f7837d23205a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/1-fc-koeln-und-trainer-steffen-baumgart-trennen-sich](https://www.spiegel.de/sport/fussball/1-fc-koeln-und-trainer-steffen-baumgart-trennen-sich-a-66bc1f3d-d20b-4257-85ac-0da3d0a5f256#ref=rss)
-### mädchen
+* [https://www.spiegel.de/panorama/justiz/niederlande-fahnder-stellen-knapp-1200-kilogramm-kokain-sicher](https://www.spiegel.de/panorama/justiz/niederlande-fahnder-stellen-knapp-1200-kilogramm-kokain-sicher-a-488a47d6-4899-4310-8494-a731367a8531#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/letzte-generation-700-000-euro-zu-viel-bei-ermittlungen-in-bayern-beschlagnahmt](https://www.spiegel.de/panorama/justiz/letzte-generation-700-000-euro-zu-viel-bei-ermittlungen-in-bayern-beschlagnahmt-a-76cede6f-0632-48f8-be9e-12ec1b5ed1c1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/baden-wuerttembergs-verkehrsminister-winfried-hermann-wer-kauft-denn-ein-deutschlandticket-fuer-89-euro-kommentar](https://www.spiegel.de/politik/deutschland/baden-wuerttembergs-verkehrsminister-winfried-hermann-wer-kauft-denn-ein-deutschlandticket-fuer-89-euro-kommentar-a-8792c44d-f970-433c-90c9-5319c092a8f1#ref=rss)
+### sagen
 
-* [https://www.spiegel.de/ausland/unicef-foto-des-jahres-zeigt-spielende-maedchen-im-ukrainekrieg](https://www.spiegel.de/ausland/unicef-foto-des-jahres-zeigt-spielende-maedchen-im-ukrainekrieg-a-823cbb8e-0b96-4de4-a38a-e599d9e76a8f#ref=rss)
-### fotograf
+* [https://www.spiegel.de/wissenschaft/mensch/blutige-gelage-so-sollen-die-wikinger-zur-weihnachtszeit-gefeiert-haben](https://www.spiegel.de/wissenschaft/mensch/blutige-gelage-so-sollen-die-wikinger-zur-weihnachtszeit-gefeiert-haben-a-d9d9bc43-ced8-4ec1-8995-f7656fac548d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-das-heikle-russland-dinner-beim-deutschen-botschafter](https://www.spiegel.de/politik/deutschland/ukraine-krieg-das-heikle-russland-dinner-beim-deutschen-botschafter-a-15af8321-0f03-475b-ae24-ec18cc6a0426#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/weihnachten-und-ein-perspektivwechsel-und-nun-die-guten-nachrichten-meinung](https://www.spiegel.de/politik/deutschland/weihnachten-und-ein-perspektivwechsel-und-nun-die-guten-nachrichten-meinung-a-e95687e7-b845-4fd8-87f6-e835bc5a4dda#ref=rss)
+### olaf
 
-* [https://www.spiegel.de/ausland/unicef-foto-des-jahres-zeigt-spielende-maedchen-im-ukrainekrieg](https://www.spiegel.de/ausland/unicef-foto-des-jahres-zeigt-spielende-maedchen-im-ukrainekrieg-a-823cbb8e-0b96-4de4-a38a-e599d9e76a8f#ref=rss)
-### adac
+* [https://www.spiegel.de/politik/deutschland/spiegel-politikertreppe-olaf-scholz-rutscht-ab-markus-soeder-und-sahra-wagenknecht-legen-zu](https://www.spiegel.de/politik/deutschland/spiegel-politikertreppe-olaf-scholz-rutscht-ab-markus-soeder-und-sahra-wagenknecht-legen-zu-a-00985d51-2773-408f-b2d3-6bddacc97c2c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-das-heikle-russland-dinner-beim-deutschen-botschafter](https://www.spiegel.de/politik/deutschland/ukraine-krieg-das-heikle-russland-dinner-beim-deutschen-botschafter-a-15af8321-0f03-475b-ae24-ec18cc6a0426#ref=rss)
+### söder
 
-* [https://www.spiegel.de/auto/weihnachten-wann-und-wo-der-adac-die-laengsten-staus-erwartet](https://www.spiegel.de/auto/weihnachten-wann-und-wo-der-adac-die-laengsten-staus-erwartet-a-4c963930-188f-4653-a905-f7aa051a050e#ref=rss)
-### staus
+* [https://www.spiegel.de/politik/deutschland/spiegel-politikertreppe-olaf-scholz-rutscht-ab-markus-soeder-und-sahra-wagenknecht-legen-zu](https://www.spiegel.de/politik/deutschland/spiegel-politikertreppe-olaf-scholz-rutscht-ab-markus-soeder-und-sahra-wagenknecht-legen-zu-a-00985d51-2773-408f-b2d3-6bddacc97c2c#ref=rss)
+### wagenknecht
 
-* [https://www.spiegel.de/auto/weihnachten-wann-und-wo-der-adac-die-laengsten-staus-erwartet](https://www.spiegel.de/auto/weihnachten-wann-und-wo-der-adac-die-laengsten-staus-erwartet-a-4c963930-188f-4653-a905-f7aa051a050e#ref=rss)
-### ampel
+* [https://www.spiegel.de/politik/deutschland/spiegel-politikertreppe-olaf-scholz-rutscht-ab-markus-soeder-und-sahra-wagenknecht-legen-zu](https://www.spiegel.de/politik/deutschland/spiegel-politikertreppe-olaf-scholz-rutscht-ab-markus-soeder-und-sahra-wagenknecht-legen-zu-a-00985d51-2773-408f-b2d3-6bddacc97c2c#ref=rss)
+### steigt
 
-* [https://www.spiegel.de/politik/deutschland/klare-mehrheit-der-deutschen-will-steuerprivilegien-fuer-landwirte-beibehalten](https://www.spiegel.de/politik/deutschland/klare-mehrheit-der-deutschen-will-steuerprivilegien-fuer-landwirte-beibehalten-a-8e4c1531-e7b1-48ee-abe8-1fe9d3a1abf3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sparpolitik-die-ampel-hat-angst-vor-den-deutschen-und-olaf-scholz-vor-christian-lindner](https://www.spiegel.de/politik/deutschland/sparpolitik-die-ampel-hat-angst-vor-den-deutschen-und-olaf-scholz-vor-christian-lindner-a-13f7bc96-b531-47d5-af53-e93eb92cb142#ref=rss)
-### angst
+* [https://www.spiegel.de/wirtschaft/service/ploetzlich-gibt-es-am-immobilienmarkt-wieder-schnaeppchen](https://www.spiegel.de/wirtschaft/service/ploetzlich-gibt-es-am-immobilienmarkt-wieder-schnaeppchen-a-63cb1129-045a-4849-80d1-44cefd0b754d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/penisbruch-risiko-steigt-zu-weihnachten](https://www.spiegel.de/wissenschaft/medizin/penisbruch-risiko-steigt-zu-weihnachten-a-001fdec6-2b3c-4bc7-ba21-60bb021d7512#ref=rss)
+### hulk
 
-* [https://www.spiegel.de/politik/deutschland/sparpolitik-die-ampel-hat-angst-vor-den-deutschen-und-olaf-scholz-vor-christian-lindner](https://www.spiegel.de/politik/deutschland/sparpolitik-die-ampel-hat-angst-vor-den-deutschen-und-olaf-scholz-vor-christian-lindner-a-13f7bc96-b531-47d5-af53-e93eb92cb142#ref=rss)
-### trainer
+* [https://www.spiegel.de/panorama/hulk-hogan-wrestling-legende-laesst-sich-taufen](https://www.spiegel.de/panorama/hulk-hogan-wrestling-legende-laesst-sich-taufen-a-18dd3bcb-ee2d-4c29-8530-37563cd01d47#ref=rss)
+### hogan
 
-* [https://www.spiegel.de/sport/fussball/1-fc-koeln-und-trainer-steffen-baumgart-trennen-sich](https://www.spiegel.de/sport/fussball/1-fc-koeln-und-trainer-steffen-baumgart-trennen-sich-a-66bc1f3d-d20b-4257-85ac-0da3d0a5f256#ref=rss)
-### steffen
+* [https://www.spiegel.de/panorama/hulk-hogan-wrestling-legende-laesst-sich-taufen](https://www.spiegel.de/panorama/hulk-hogan-wrestling-legende-laesst-sich-taufen-a-18dd3bcb-ee2d-4c29-8530-37563cd01d47#ref=rss)
+### taufen
 
-* [https://www.spiegel.de/sport/fussball/1-fc-koeln-und-trainer-steffen-baumgart-trennen-sich](https://www.spiegel.de/sport/fussball/1-fc-koeln-und-trainer-steffen-baumgart-trennen-sich-a-66bc1f3d-d20b-4257-85ac-0da3d0a5f256#ref=rss)
-### baumgart
+* [https://www.spiegel.de/panorama/hulk-hogan-wrestling-legende-laesst-sich-taufen](https://www.spiegel.de/panorama/hulk-hogan-wrestling-legende-laesst-sich-taufen-a-18dd3bcb-ee2d-4c29-8530-37563cd01d47#ref=rss)
+### kokain
 
-* [https://www.spiegel.de/sport/fussball/1-fc-koeln-und-trainer-steffen-baumgart-trennen-sich](https://www.spiegel.de/sport/fussball/1-fc-koeln-und-trainer-steffen-baumgart-trennen-sich-a-66bc1f3d-d20b-4257-85ac-0da3d0a5f256#ref=rss)
-### münchen
+* [https://www.spiegel.de/panorama/justiz/niederlande-fahnder-stellen-knapp-1200-kilogramm-kokain-sicher](https://www.spiegel.de/panorama/justiz/niederlande-fahnder-stellen-knapp-1200-kilogramm-kokain-sicher-a-488a47d6-4899-4310-8494-a731367a8531#ref=rss)
+### ermittler
 
-* [https://www.spiegel.de/panorama/justiz/muenchen-mord-an-einer-vierfachen-mutter-im-jahr-2000-ehemann-festgenommen](https://www.spiegel.de/panorama/justiz/muenchen-mord-an-einer-vierfachen-mutter-im-jahr-2000-ehemann-festgenommen-a-08f6ec0d-d65d-457d-ae82-000d9af4afdd#ref=rss)
-### fragen
+* [https://www.spiegel.de/panorama/justiz/niederlande-fahnder-stellen-knapp-1200-kilogramm-kokain-sicher](https://www.spiegel.de/panorama/justiz/niederlande-fahnder-stellen-knapp-1200-kilogramm-kokain-sicher-a-488a47d6-4899-4310-8494-a731367a8531#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/letzte-generation-700-000-euro-zu-viel-bei-ermittlungen-in-bayern-beschlagnahmt](https://www.spiegel.de/panorama/justiz/letzte-generation-700-000-euro-zu-viel-bei-ermittlungen-in-bayern-beschlagnahmt-a-76cede6f-0632-48f8-be9e-12ec1b5ed1c1#ref=rss)
+### byd
 
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### tag
+* [https://www.spiegel.de/wirtschaft/chinesischer-e-autobauer-byd-errichtet-erstes-werk-in-europa](https://www.spiegel.de/wirtschaft/chinesischer-e-autobauer-byd-errichtet-erstes-werk-in-europa-a-f4f11a69-dbdd-4740-a12c-f2c9941ff2b7#ref=rss)
+### erstes
 
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### alfred
+* [https://www.spiegel.de/wirtschaft/chinesischer-e-autobauer-byd-errichtet-erstes-werk-in-europa](https://www.spiegel.de/wirtschaft/chinesischer-e-autobauer-byd-errichtet-erstes-werk-in-europa-a-f4f11a69-dbdd-4740-a12c-f2c9941ff2b7#ref=rss)
+### werk
 
-* [https://www.spiegel.de/sport/handball/handball-em-2024-alfred-gislason-beruft-debuetant-martin-hanne-in-den-kader](https://www.spiegel.de/sport/handball/handball-em-2024-alfred-gislason-beruft-debuetant-martin-hanne-in-den-kader-a-c795a6bf-d2e8-499a-865f-f787cbb75e54#ref=rss)
+* [https://www.spiegel.de/wirtschaft/chinesischer-e-autobauer-byd-errichtet-erstes-werk-in-europa](https://www.spiegel.de/wirtschaft/chinesischer-e-autobauer-byd-errichtet-erstes-werk-in-europa-a-f4f11a69-dbdd-4740-a12c-f2c9941ff2b7#ref=rss)
+### europa
+
+* [https://www.spiegel.de/wirtschaft/chinesischer-e-autobauer-byd-errichtet-erstes-werk-in-europa](https://www.spiegel.de/wirtschaft/chinesischer-e-autobauer-byd-errichtet-erstes-werk-in-europa-a-f4f11a69-dbdd-4740-a12c-f2c9941ff2b7#ref=rss)
+### großen
+
+* [https://www.spiegel.de/wirtschaft/chinesischer-e-autobauer-byd-errichtet-erstes-werk-in-europa](https://www.spiegel.de/wirtschaft/chinesischer-e-autobauer-byd-errichtet-erstes-werk-in-europa-a-f4f11a69-dbdd-4740-a12c-f2c9941ff2b7#ref=rss)
+* [https://www.spiegel.de/panorama/leute/frank-zander-fehlt-bei-seiner-weihnachtsfeier-fuer-obdachlose](https://www.spiegel.de/panorama/leute/frank-zander-fehlt-bei-seiner-weihnachtsfeier-fuer-obdachlose-a-bffd7fae-46d1-48fe-85b3-05b906399e65#ref=rss)
+### ambitionen
+
+* [https://www.spiegel.de/wirtschaft/chinesischer-e-autobauer-byd-errichtet-erstes-werk-in-europa](https://www.spiegel.de/wirtschaft/chinesischer-e-autobauer-byd-errichtet-erstes-werk-in-europa-a-f4f11a69-dbdd-4740-a12c-f2c9941ff2b7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/baden-wuerttembergs-verkehrsminister-winfried-hermann-wer-kauft-denn-ein-deutschlandticket-fuer-89-euro-kommentar](https://www.spiegel.de/politik/deutschland/baden-wuerttembergs-verkehrsminister-winfried-hermann-wer-kauft-denn-ein-deutschlandticket-fuer-89-euro-kommentar-a-8792c44d-f970-433c-90c9-5319c092a8f1#ref=rss)
+### elektroauto
+
+* [https://www.spiegel.de/auto/elektroauto-amber-aus-russland-prototyp-erntet-spott](https://www.spiegel.de/auto/elektroauto-amber-aus-russland-prototyp-erntet-spott-a-f9c509ea-03d1-48cc-8c46-8d139248b818#ref=rss)
+### amber
+
+* [https://www.spiegel.de/auto/elektroauto-amber-aus-russland-prototyp-erntet-spott](https://www.spiegel.de/auto/elektroauto-amber-aus-russland-prototyp-erntet-spott-a-f9c509ea-03d1-48cc-8c46-8d139248b818#ref=rss)
+### forscher
+
+* [https://www.spiegel.de/wissenschaft/medizin/penisbruch-risiko-steigt-zu-weihnachten](https://www.spiegel.de/wissenschaft/medizin/penisbruch-risiko-steigt-zu-weihnachten-a-001fdec6-2b3c-4bc7-ba21-60bb021d7512#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/arthrose-neuer-knorpel-fuers-kaputte-knie-forscher-machen-hoffnung](https://www.spiegel.de/wissenschaft/medizin/arthrose-neuer-knorpel-fuers-kaputte-knie-forscher-machen-hoffnung-a-cdcdbe92-a11a-4386-91bf-3a0078c433cf#ref=rss)
+### suchen
+
+* [https://www.spiegel.de/wissenschaft/medizin/penisbruch-risiko-steigt-zu-weihnachten](https://www.spiegel.de/wissenschaft/medizin/penisbruch-risiko-steigt-zu-weihnachten-a-001fdec6-2b3c-4bc7-ba21-60bb021d7512#ref=rss)
+* [https://www.spiegel.de/wirtschaft/immobilien-verlieren-immer-schneller-an-wert](https://www.spiegel.de/wirtschaft/immobilien-verlieren-immer-schneller-an-wert-a-90b4f777-6e8d-4c2b-a537-60453edbcac8#ref=rss)
+### diesem
+
+* [https://www.spiegel.de/panorama/kirchenaustritte-auch-2023-kehrten-zehntausende-der-kirche-den-ruecken](https://www.spiegel.de/panorama/kirchenaustritte-auch-2023-kehrten-zehntausende-der-kirche-den-ruecken-a-99d04ccc-b15e-4114-add2-df2c5affadfb#ref=rss)
+* [https://www.spiegel.de/kultur/musik/streaming-das-sind-die-weihnachtsfilme-der-saison](https://www.spiegel.de/kultur/musik/streaming-das-sind-die-weihnachtsfilme-der-saison-a-a9160c97-c5df-421f-a657-437304e70cbd#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/panorama/kirchenaustritte-auch-2023-kehrten-zehntausende-der-kirche-den-ruecken](https://www.spiegel.de/panorama/kirchenaustritte-auch-2023-kehrten-zehntausende-der-kirche-den-ruecken-a-99d04ccc-b15e-4114-add2-df2c5affadfb#ref=rss)
+* [https://www.spiegel.de/kultur/musik/streaming-das-sind-die-weihnachtsfilme-der-saison](https://www.spiegel.de/kultur/musik/streaming-das-sind-die-weihnachtsfilme-der-saison-a-a9160c97-c5df-421f-a657-437304e70cbd#ref=rss)
+### weihnachtszeit
+
+* [https://www.spiegel.de/wissenschaft/mensch/blutige-gelage-so-sollen-die-wikinger-zur-weihnachtszeit-gefeiert-haben](https://www.spiegel.de/wissenschaft/mensch/blutige-gelage-so-sollen-die-wikinger-zur-weihnachtszeit-gefeiert-haben-a-d9d9bc43-ced8-4ec1-8995-f7656fac548d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/weihnachten-und-ein-perspektivwechsel-und-nun-die-guten-nachrichten-meinung](https://www.spiegel.de/politik/deutschland/weihnachten-und-ein-perspektivwechsel-und-nun-die-guten-nachrichten-meinung-a-e95687e7-b845-4fd8-87f6-e835bc5a4dda#ref=rss)
+### forschende
+
+* [https://www.spiegel.de/wissenschaft/mensch/blutige-gelage-so-sollen-die-wikinger-zur-weihnachtszeit-gefeiert-haben](https://www.spiegel.de/wissenschaft/mensch/blutige-gelage-so-sollen-die-wikinger-zur-weihnachtszeit-gefeiert-haben-a-d9d9bc43-ced8-4ec1-8995-f7656fac548d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/arthrose-neuer-knorpel-fuers-kaputte-knie-forscher-machen-hoffnung](https://www.spiegel.de/wissenschaft/medizin/arthrose-neuer-knorpel-fuers-kaputte-knie-forscher-machen-hoffnung-a-cdcdbe92-a11a-4386-91bf-3a0078c433cf#ref=rss)
+### fest
+
+* [https://www.spiegel.de/wissenschaft/mensch/blutige-gelage-so-sollen-die-wikinger-zur-weihnachtszeit-gefeiert-haben](https://www.spiegel.de/wissenschaft/mensch/blutige-gelage-so-sollen-die-wikinger-zur-weihnachtszeit-gefeiert-haben-a-d9d9bc43-ced8-4ec1-8995-f7656fac548d#ref=rss)
+* [https://www.spiegel.de/panorama/leute/frank-zander-fehlt-bei-seiner-weihnachtsfeier-fuer-obdachlose](https://www.spiegel.de/panorama/leute/frank-zander-fehlt-bei-seiner-weihnachtsfeier-fuer-obdachlose-a-bffd7fae-46d1-48fe-85b3-05b906399e65#ref=rss)
+### viele
+
+* [https://www.spiegel.de/wissenschaft/mensch/blutige-gelage-so-sollen-die-wikinger-zur-weihnachtszeit-gefeiert-haben](https://www.spiegel.de/wissenschaft/mensch/blutige-gelage-so-sollen-die-wikinger-zur-weihnachtszeit-gefeiert-haben-a-d9d9bc43-ced8-4ec1-8995-f7656fac548d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-der-frauen-eintracht-frankfurt-droht-das-aus-in-der-champions-league-gruppenphase](https://www.spiegel.de/sport/fussball/fussball-der-frauen-eintracht-frankfurt-droht-das-aus-in-der-champions-league-gruppenphase-a-716b3d66-44c0-4ff1-9868-8318a13fad83#ref=rss)
+### angriffe
+
+* [https://www.spiegel.de/netzwelt/web/angriffe-auf-uber-nvidia-rockstar-games-teenager-hacker-wird-dauerhaft-in-klinik-eingewiesen](https://www.spiegel.de/netzwelt/web/angriffe-auf-uber-nvidia-rockstar-games-teenager-hacker-wird-dauerhaft-in-klinik-eingewiesen-a-40266cd5-5606-4898-8ca4-0e7766d1860f#ref=rss)
+### zeit
+
+* [https://www.spiegel.de/netzwelt/web/angriffe-auf-uber-nvidia-rockstar-games-teenager-hacker-wird-dauerhaft-in-klinik-eingewiesen](https://www.spiegel.de/netzwelt/web/angriffe-auf-uber-nvidia-rockstar-games-teenager-hacker-wird-dauerhaft-in-klinik-eingewiesen-a-40266cd5-5606-4898-8ca4-0e7766d1860f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-das-heikle-russland-dinner-beim-deutschen-botschafter](https://www.spiegel.de/politik/deutschland/ukraine-krieg-das-heikle-russland-dinner-beim-deutschen-botschafter-a-15af8321-0f03-475b-ae24-ec18cc6a0426#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/ausland/krieg-in-gaza-israel-fuehrt-eine-der-zerstoererischsten-militaeroffensiven-der-geschichte](https://www.spiegel.de/ausland/krieg-in-gaza-israel-fuehrt-eine-der-zerstoererischsten-militaeroffensiven-der-geschichte-a-3d7055dc-2b3d-462b-a58e-9916dc3ef381#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-jens-stoltenberg-haelt-russlands-kriegsziel-fuer-nicht-mehr-erreichbar](https://www.spiegel.de/ausland/ukraine-krieg-jens-stoltenberg-haelt-russlands-kriegsziel-fuer-nicht-mehr-erreichbar-a-4bf77f45-d093-42b1-ab47-c9bd300a1767#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-das-heikle-russland-dinner-beim-deutschen-botschafter](https://www.spiegel.de/politik/deutschland/ukraine-krieg-das-heikle-russland-dinner-beim-deutschen-botschafter-a-15af8321-0f03-475b-ae24-ec18cc6a0426#ref=rss)
+### botschafter
+
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-das-heikle-russland-dinner-beim-deutschen-botschafter](https://www.spiegel.de/politik/deutschland/ukraine-krieg-das-heikle-russland-dinner-beim-deutschen-botschafter-a-15af8321-0f03-475b-ae24-ec18cc6a0426#ref=rss)
+### letzte
+
+* [https://www.spiegel.de/panorama/justiz/letzte-generation-700-000-euro-zu-viel-bei-ermittlungen-in-bayern-beschlagnahmt](https://www.spiegel.de/panorama/justiz/letzte-generation-700-000-euro-zu-viel-bei-ermittlungen-in-bayern-beschlagnahmt-a-76cede6f-0632-48f8-be9e-12ec1b5ed1c1#ref=rss)
+### generation
+
+* [https://www.spiegel.de/panorama/justiz/letzte-generation-700-000-euro-zu-viel-bei-ermittlungen-in-bayern-beschlagnahmt](https://www.spiegel.de/panorama/justiz/letzte-generation-700-000-euro-zu-viel-bei-ermittlungen-in-bayern-beschlagnahmt-a-76cede6f-0632-48f8-be9e-12ec1b5ed1c1#ref=rss)
+### ajax
+
+* [https://www.spiegel.de/sport/fussball/ajax-amsterdam-verliert-erstmals-in-der-pokal-geschichte-gegen-einen-amateurklub](https://www.spiegel.de/sport/fussball/ajax-amsterdam-verliert-erstmals-in-der-pokal-geschichte-gegen-einen-amateurklub-a-df96455a-36bb-4ecd-93d4-847bef537dd7#ref=rss)
+### amsterdam
+
+* [https://www.spiegel.de/sport/fussball/ajax-amsterdam-verliert-erstmals-in-der-pokal-geschichte-gegen-einen-amateurklub](https://www.spiegel.de/sport/fussball/ajax-amsterdam-verliert-erstmals-in-der-pokal-geschichte-gegen-einen-amateurklub-a-df96455a-36bb-4ecd-93d4-847bef537dd7#ref=rss)
+### erstmals
+
+* [https://www.spiegel.de/sport/fussball/ajax-amsterdam-verliert-erstmals-in-der-pokal-geschichte-gegen-einen-amateurklub](https://www.spiegel.de/sport/fussball/ajax-amsterdam-verliert-erstmals-in-der-pokal-geschichte-gegen-einen-amateurklub-a-df96455a-36bb-4ecd-93d4-847bef537dd7#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/panorama/wetter-sturm-tief-zoltan-wirbelt-weihnachtsbahnverkehr-durcheinander](https://www.spiegel.de/panorama/wetter-sturm-tief-zoltan-wirbelt-weihnachtsbahnverkehr-durcheinander-a-47571f96-95ff-4fb1-86e0-8bd20d8e2c93#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/panorama/wetter-sturm-tief-zoltan-wirbelt-weihnachtsbahnverkehr-durcheinander](https://www.spiegel.de/panorama/wetter-sturm-tief-zoltan-wirbelt-weihnachtsbahnverkehr-durcheinander-a-47571f96-95ff-4fb1-86e0-8bd20d8e2c93#ref=rss)
+* [https://www.spiegel.de/ausland/rotes-meer-pentagon-ueber-20-laender-beteiligen-sich-an-militaerbuendnis-zur-handelssicherung](https://www.spiegel.de/ausland/rotes-meer-pentagon-ueber-20-laender-beteiligen-sich-an-militaerbuendnis-zur-handelssicherung-a-2290d6da-2b37-4b86-8192-47f7ad16e2a7#ref=rss)
+### schneller
+
+* [https://www.spiegel.de/wirtschaft/immobilien-verlieren-immer-schneller-an-wert](https://www.spiegel.de/wirtschaft/immobilien-verlieren-immer-schneller-an-wert-a-90b4f777-6e8d-4c2b-a537-60453edbcac8#ref=rss)
+### knorpel
+
+* [https://www.spiegel.de/wissenschaft/medizin/arthrose-neuer-knorpel-fuers-kaputte-knie-forscher-machen-hoffnung](https://www.spiegel.de/wissenschaft/medizin/arthrose-neuer-knorpel-fuers-kaputte-knie-forscher-machen-hoffnung-a-cdcdbe92-a11a-4386-91bf-3a0078c433cf#ref=rss)
+### hoffnung
+
+* [https://www.spiegel.de/wissenschaft/medizin/arthrose-neuer-knorpel-fuers-kaputte-knie-forscher-machen-hoffnung](https://www.spiegel.de/wissenschaft/medizin/arthrose-neuer-knorpel-fuers-kaputte-knie-forscher-machen-hoffnung-a-cdcdbe92-a11a-4386-91bf-3a0078c433cf#ref=rss)
+### weihnachtslotterie
+
+* [https://www.spiegel.de/wirtschaft/spanien-die-weihnachtslotterie-haelt-das-volk-in-atem](https://www.spiegel.de/wirtschaft/spanien-die-weihnachtslotterie-haelt-das-volk-in-atem-a-290dc241-eca7-48b6-811f-1fc3f215b107#ref=rss)
+### solarkonzern
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/solarkonzern-meyer-burger-zweifel-am-retter-der-solarindustrie](https://www.spiegel.de/wirtschaft/unternehmen/solarkonzern-meyer-burger-zweifel-am-retter-der-solarindustrie-a-1b704e2a-dfcb-4aac-b0ca-262b8f07c186#ref=rss)
+### meyer
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/solarkonzern-meyer-burger-zweifel-am-retter-der-solarindustrie](https://www.spiegel.de/wirtschaft/unternehmen/solarkonzern-meyer-burger-zweifel-am-retter-der-solarindustrie-a-1b704e2a-dfcb-4aac-b0ca-262b8f07c186#ref=rss)
+### burger
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/solarkonzern-meyer-burger-zweifel-am-retter-der-solarindustrie](https://www.spiegel.de/wirtschaft/unternehmen/solarkonzern-meyer-burger-zweifel-am-retter-der-solarindustrie-a-1b704e2a-dfcb-4aac-b0ca-262b8f07c186#ref=rss)
+### eintracht
+
+* [https://www.spiegel.de/sport/fussball/fussball-der-frauen-eintracht-frankfurt-droht-das-aus-in-der-champions-league-gruppenphase](https://www.spiegel.de/sport/fussball/fussball-der-frauen-eintracht-frankfurt-droht-das-aus-in-der-champions-league-gruppenphase-a-716b3d66-44c0-4ff1-9868-8318a13fad83#ref=rss)
+### frankfurt
+
+* [https://www.spiegel.de/sport/fussball/fussball-der-frauen-eintracht-frankfurt-droht-das-aus-in-der-champions-league-gruppenphase](https://www.spiegel.de/sport/fussball/fussball-der-frauen-eintracht-frankfurt-droht-das-aus-in-der-champions-league-gruppenphase-a-716b3d66-44c0-4ff1-9868-8318a13fad83#ref=rss)
+### bundesregierung
+
+* [https://www.spiegel.de/wirtschaft/gebaeudeenergiegesetz-so-sieht-die-neue-heizungsfoerderung-aus](https://www.spiegel.de/wirtschaft/gebaeudeenergiegesetz-so-sieht-die-neue-heizungsfoerderung-aus-a-43726233-7e45-4486-9d76-78533845c138#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/baden-wuerttembergs-verkehrsminister-winfried-hermann-wer-kauft-denn-ein-deutschlandticket-fuer-89-euro-kommentar](https://www.spiegel.de/politik/deutschland/baden-wuerttembergs-verkehrsminister-winfried-hermann-wer-kauft-denn-ein-deutschlandticket-fuer-89-euro-kommentar-a-8792c44d-f970-433c-90c9-5319c092a8f1#ref=rss)
+### meer
+
+* [https://www.spiegel.de/ausland/rotes-meer-pentagon-ueber-20-laender-beteiligen-sich-an-militaerbuendnis-zur-handelssicherung](https://www.spiegel.de/ausland/rotes-meer-pentagon-ueber-20-laender-beteiligen-sich-an-militaerbuendnis-zur-handelssicherung-a-2290d6da-2b37-4b86-8192-47f7ad16e2a7#ref=rss)
+### militärbündnis
+
+* [https://www.spiegel.de/ausland/rotes-meer-pentagon-ueber-20-laender-beteiligen-sich-an-militaerbuendnis-zur-handelssicherung](https://www.spiegel.de/ausland/rotes-meer-pentagon-ueber-20-laender-beteiligen-sich-an-militaerbuendnis-zur-handelssicherung-a-2290d6da-2b37-4b86-8192-47f7ad16e2a7#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-jens-stoltenberg-haelt-russlands-kriegsziel-fuer-nicht-mehr-erreichbar](https://www.spiegel.de/ausland/ukraine-krieg-jens-stoltenberg-haelt-russlands-kriegsziel-fuer-nicht-mehr-erreichbar-a-4bf77f45-d093-42b1-ab47-c9bd300a1767#ref=rss)
+### stoltenberg
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-jens-stoltenberg-haelt-russlands-kriegsziel-fuer-nicht-mehr-erreichbar](https://www.spiegel.de/ausland/ukraine-krieg-jens-stoltenberg-haelt-russlands-kriegsziel-fuer-nicht-mehr-erreichbar-a-4bf77f45-d093-42b1-ab47-c9bd300a1767#ref=rss)
+### frank
+
+* [https://www.spiegel.de/panorama/leute/frank-zander-fehlt-bei-seiner-weihnachtsfeier-fuer-obdachlose](https://www.spiegel.de/panorama/leute/frank-zander-fehlt-bei-seiner-weihnachtsfeier-fuer-obdachlose-a-bffd7fae-46d1-48fe-85b3-05b906399e65#ref=rss)
+### zander
+
+* [https://www.spiegel.de/panorama/leute/frank-zander-fehlt-bei-seiner-weihnachtsfeier-fuer-obdachlose](https://www.spiegel.de/panorama/leute/frank-zander-fehlt-bei-seiner-weihnachtsfeier-fuer-obdachlose-a-bffd7fae-46d1-48fe-85b3-05b906399e65#ref=rss)
+### deutschlandticket
+
+* [https://www.spiegel.de/politik/deutschland/baden-wuerttembergs-verkehrsminister-winfried-hermann-wer-kauft-denn-ein-deutschlandticket-fuer-89-euro-kommentar](https://www.spiegel.de/politik/deutschland/baden-wuerttembergs-verkehrsminister-winfried-hermann-wer-kauft-denn-ein-deutschlandticket-fuer-89-euro-kommentar-a-8792c44d-f970-433c-90c9-5319c092a8f1#ref=rss)
+### lehmann
+
+* [https://www.spiegel.de/politik/deutschland/news-attacke-in-prag-donald-trump-jens-lehmann](https://www.spiegel.de/politik/deutschland/news-attacke-in-prag-donald-trump-jens-lehmann-a-69e2f6d8-cc4b-4e51-b27a-54494fee347d#ref=rss)
 
