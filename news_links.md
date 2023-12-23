@@ -4,259 +4,289 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
+### zwei
+
+* [https://www.spiegel.de/sport/darts-wm-2024-pietreczko-weiter-vier-deutsche-in-runde-drei](https://www.spiegel.de/sport/darts-wm-2024-pietreczko-weiter-vier-deutsche-in-runde-drei-a-56d5f591-f5d6-4918-970d-a143904ea7a0#ref=rss)
+* [https://www.spiegel.de/familie/schueleraustausch-in-neuseeland-so-war-die-rueckkehr-nach-deutschland](https://www.spiegel.de/familie/schueleraustausch-in-neuseeland-so-war-die-rueckkehr-nach-deutschland-a-c44e5a90-160d-4e95-96ba-aca104b510ec#ref=rss)
+* [https://www.spiegel.de/panorama/amy-winehouse-vater-verklagt-zwei-ihrer-freunde](https://www.spiegel.de/panorama/amy-winehouse-vater-verklagt-zwei-ihrer-freunde-a-6ce359f6-2d90-488a-b858-53c5d2317aa6#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/frau-mit-zwei-gebaermuettern-in-den-usa-unsere-wunderbabys-wurden-geboren](https://www.spiegel.de/wissenschaft/medizin/frau-mit-zwei-gebaermuettern-in-den-usa-unsere-wunderbabys-wurden-geboren-a-8c6734d2-87dd-4110-9274-210158a849bf#ref=rss)
+### weihnachten
+
+* [https://www.spiegel.de/panorama/feiertags-konflikte-wie-uebersteht-man-weihnachten-ohne-familienstreit](https://www.spiegel.de/panorama/feiertags-konflikte-wie-uebersteht-man-weihnachten-ohne-familienstreit-a-44a30fc5-b829-4b2e-af87-1684509e78c4#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/weihnachten-so-koennen-sie-technik-laien-unkompliziert-eine-freude-machen](https://www.spiegel.de/netzwelt/web/weihnachten-so-koennen-sie-technik-laien-unkompliziert-eine-freude-machen-a-9cb10121-2da2-4277-b53e-165b4aef1379#ref=rss)
+* [https://www.spiegel.de/familie/familiennewsletter-zu-weihnachten-als-meine-tochter-rudolf-das-rentier-sah](https://www.spiegel.de/familie/familiennewsletter-zu-weihnachten-als-meine-tochter-rudolf-das-rentier-sah-a-fec2ed53-5c70-45d4-b937-15c5c5baea09#ref=rss)
+* [https://www.spiegel.de/panorama/bilder-der-woche-spinnefreund](https://www.spiegel.de/panorama/bilder-der-woche-spinnefreund-a-2992ba8c-9b59-427b-8b61-fa29a370b60e#ref=rss)
 ### menschen
 
+* [https://www.spiegel.de/netzwelt/web/weihnachten-so-koennen-sie-technik-laien-unkompliziert-eine-freude-machen](https://www.spiegel.de/netzwelt/web/weihnachten-so-koennen-sie-technik-laien-unkompliziert-eine-freude-machen-a-9cb10121-2da2-4277-b53e-165b4aef1379#ref=rss)
 * [https://www.spiegel.de/panorama/kadewe-in-berlin-wo-ein-to-go-kaffeebecher-200-euro-kostet](https://www.spiegel.de/panorama/kadewe-in-berlin-wo-ein-to-go-kaffeebecher-200-euro-kostet-a-19664431-9259-449e-b6ce-48c006711d68#ref=rss)
 * [https://www.spiegel.de/gesundheit/diagnose/long-covid-und-post-vac-die-pandemie-ist-vorbei-aber-nicht-fuer-uns](https://www.spiegel.de/gesundheit/diagnose/long-covid-und-post-vac-die-pandemie-ist-vorbei-aber-nicht-fuer-uns-a-085358d7-66f5-42be-8ddb-103fb57b0334#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-nahost-generalsekretaer-guterres-gedenkt-getoeteter-uno-mitarbeiter-in-gaza](https://www.spiegel.de/ausland/krieg-in-nahost-generalsekretaer-guterres-gedenkt-getoeteter-uno-mitarbeiter-in-gaza-a-376b12a6-4105-47a3-8c2f-c102ec6222e5#ref=rss)
-* [https://www.spiegel.de/start/ausbildung-im-demenz-dorf-was-tun-gegen-die-pandemie-des-vergessens](https://www.spiegel.de/start/ausbildung-im-demenz-dorf-was-tun-gegen-die-pandemie-des-vergessens-a-81e65fa4-a1aa-4f0f-a80a-950b06dc65cd#ref=rss)
-### mehr
+### familie
 
-* [https://www.spiegel.de/wissenschaft/forschung-uv-sehen-hilft-rentieren-bei-lieblingsfuttersuche](https://www.spiegel.de/wissenschaft/forschung-uv-sehen-hilft-rentieren-bei-lieblingsfuttersuche-a-e7944cd5-f2f4-419b-a54c-149def3db2a6#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-joel-embiid-ist-auch-von-dennis-schroeder-nicht-zu-stoppen-und-schreibt-geschichte](https://www.spiegel.de/sport/basketball/nba-joel-embiid-ist-auch-von-dennis-schroeder-nicht-zu-stoppen-und-schreibt-geschichte-a-53dc5cd2-9d07-4d85-972a-d0b6135184f7#ref=rss)
-* [https://www.spiegel.de/gesundheit/hilfe-bei-heuschnupfen-niemand-muss-diese-beschwerden-aushalten](https://www.spiegel.de/gesundheit/hilfe-bei-heuschnupfen-niemand-muss-diese-beschwerden-aushalten-a-988e33d2-77c1-4dd0-bce0-aea4e2cf795a#ref=rss)
-* [https://www.spiegel.de/start/ausbildung-im-demenz-dorf-was-tun-gegen-die-pandemie-des-vergessens](https://www.spiegel.de/start/ausbildung-im-demenz-dorf-was-tun-gegen-die-pandemie-des-vergessens-a-81e65fa4-a1aa-4f0f-a80a-950b06dc65cd#ref=rss)
-* [https://www.spiegel.de/ausland/rotes-meer-die-gefaehrlichste-schiffspassage-der-welt](https://www.spiegel.de/ausland/rotes-meer-die-gefaehrlichste-schiffspassage-der-welt-a-eb254889-a53c-4205-b1cb-54fa33ae384e#ref=rss)
-### wir
+* [https://www.spiegel.de/netzwelt/web/weihnachten-so-koennen-sie-technik-laien-unkompliziert-eine-freude-machen](https://www.spiegel.de/netzwelt/web/weihnachten-so-koennen-sie-technik-laien-unkompliziert-eine-freude-machen-a-9cb10121-2da2-4277-b53e-165b4aef1379#ref=rss)
+* [https://www.spiegel.de/kultur/tv/weihnachtsfilme-in-tv-und-streaming-alle-klassiker-von-kevin-allein-zu-haus-bis-der-grinch](https://www.spiegel.de/kultur/tv/weihnachtsfilme-in-tv-und-streaming-alle-klassiker-von-kevin-allein-zu-haus-bis-der-grinch-a-e7a2d010-c16e-4824-9a6d-eb3dceda6ab4#ref=rss)
+* [https://www.spiegel.de/panorama/kourtney-kardashian-und-travis-barker-praesentieren-ihren-sohn](https://www.spiegel.de/panorama/kourtney-kardashian-und-travis-barker-praesentieren-ihren-sohn-a-82e8a2d4-b3f0-4841-bf56-380a2b2f323f#ref=rss)
+### meer
 
-* [https://www.spiegel.de/fitness/newsletter-spiegel-laeuft-das-waren-unsere-laufhighlights-2023](https://www.spiegel.de/fitness/newsletter-spiegel-laeuft-das-waren-unsere-laufhighlights-2023-a-8c1225bc-98b3-4f3a-99ec-ab35a936b165#ref=rss)
-* [https://www.spiegel.de/gesundheit/erholung-wie-wir-sinnvoll-pause-machen-podcast-mit-sebastian-altfeld-best-of-2023](https://www.spiegel.de/gesundheit/erholung-wie-wir-sinnvoll-pause-machen-podcast-mit-sebastian-altfeld-best-of-2023-a-13554f38-509a-4fc7-b1ea-f7c71a40ff16#ref=rss)
+* [https://www.spiegel.de/ausland/indischer-ozean-chemikalien-tanker-von-drohne-getroffen](https://www.spiegel.de/ausland/indischer-ozean-chemikalien-tanker-von-drohne-getroffen-a-e756e82a-831f-44e2-b682-014c0db68919#ref=rss)
+* [https://www.spiegel.de/ausland/rotes-meer-iran-soll-an-den-anschlaegen-der-huthi-miliz-im-roten-meer-beteiligt-sein](https://www.spiegel.de/ausland/rotes-meer-iran-soll-an-den-anschlaegen-der-huthi-miliz-im-roten-meer-beteiligt-sein-a-bc21461b-cbf9-473d-9f31-c3213c51ee23#ref=rss)
+### meisten
+
+* [https://www.spiegel.de/panorama/gesellschaft/weihnachtspost-filiale-himmelpfort-was-sich-die-meisten-kinder-wuenschen](https://www.spiegel.de/panorama/gesellschaft/weihnachtspost-filiale-himmelpfort-was-sich-die-meisten-kinder-wuenschen-a-e78fca28-c968-4cd5-ace7-7d2ddb1dc2c9#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/bsi-chefin-claudia-plattner-ueber-cyberattacken-es-gibt-taeglich-angriffe](https://www.spiegel.de/netzwelt/netzpolitik/bsi-chefin-claudia-plattner-ueber-cyberattacken-es-gibt-taeglich-angriffe-a-ef6c1a78-06d4-47d0-ae84-71d72a1ce014#ref=rss)
+* [https://www.spiegel.de/gesundheit/diagnose/long-covid-und-post-vac-die-pandemie-ist-vorbei-aber-nicht-fuer-uns](https://www.spiegel.de/gesundheit/diagnose/long-covid-und-post-vac-die-pandemie-ist-vorbei-aber-nicht-fuer-uns-a-085358d7-66f5-42be-8ddb-103fb57b0334#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/panorama/gesellschaft/weihnachtspost-filiale-himmelpfort-was-sich-die-meisten-kinder-wuenschen](https://www.spiegel.de/panorama/gesellschaft/weihnachtspost-filiale-himmelpfort-was-sich-die-meisten-kinder-wuenschen-a-e78fca28-c968-4cd5-ace7-7d2ddb1dc2c9#ref=rss)
+* [https://www.spiegel.de/panorama/feiertags-konflikte-wie-uebersteht-man-weihnachten-ohne-familienstreit](https://www.spiegel.de/panorama/feiertags-konflikte-wie-uebersteht-man-weihnachten-ohne-familienstreit-a-44a30fc5-b829-4b2e-af87-1684509e78c4#ref=rss)
+### österreich
+
+* [https://www.spiegel.de/ausland/oesterreich-wie-sich-der-nobelskiort-lech-am-arlberg-mit-einer-millionen-investition-selbst-ruiniert](https://www.spiegel.de/ausland/oesterreich-wie-sich-der-nobelskiort-lech-am-arlberg-mit-einer-millionen-investition-selbst-ruiniert-a-46a35f5f-2913-4700-851c-9a6b2a84df45#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-thomas-schmid-als-zeuge-gegen-sebastian-kurz](https://www.spiegel.de/ausland/oesterreich-thomas-schmid-als-zeuge-gegen-sebastian-kurz-a-3ac07716-6669-44aa-a460-145d7e50b49e#ref=rss)
+### kurz
+
+* [https://www.spiegel.de/ausland/oesterreich-thomas-schmid-als-zeuge-gegen-sebastian-kurz](https://www.spiegel.de/ausland/oesterreich-thomas-schmid-als-zeuge-gegen-sebastian-kurz-a-3ac07716-6669-44aa-a460-145d7e50b49e#ref=rss)
+* [https://www.spiegel.de/politik/bundesjustizminister-buschmann-plaediert-fuer-einsatz-von-tasern](https://www.spiegel.de/politik/bundesjustizminister-buschmann-plaediert-fuer-einsatz-von-tasern-a-1ec5c4a1-4dae-402f-872c-9796b5dcc8b9#ref=rss)
+### kommen
+
+* [https://www.spiegel.de/ausland/oesterreich-thomas-schmid-als-zeuge-gegen-sebastian-kurz](https://www.spiegel.de/ausland/oesterreich-thomas-schmid-als-zeuge-gegen-sebastian-kurz-a-3ac07716-6669-44aa-a460-145d7e50b49e#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/bsi-chefin-claudia-plattner-ueber-cyberattacken-es-gibt-taeglich-angriffe](https://www.spiegel.de/netzwelt/netzpolitik/bsi-chefin-claudia-plattner-ueber-cyberattacken-es-gibt-taeglich-angriffe-a-ef6c1a78-06d4-47d0-ae84-71d72a1ce014#ref=rss)
+* [https://www.spiegel.de/wissenschaft/norwegen-rentiere-kauen-im-schlaf-damit-sie-noch-mehr-essen-koennen](https://www.spiegel.de/wissenschaft/norwegen-rentiere-kauen-im-schlaf-damit-sie-noch-mehr-essen-koennen-a-dd71c226-f70f-46ec-974e-d9ff18b8f957#ref=rss)
 ### deutsche
 
-* [https://www.spiegel.de/reise/nach-sturmtief-zoltan-fernverkehr-normalisiert-sich-laut-bahn-wieder](https://www.spiegel.de/reise/nach-sturmtief-zoltan-fernverkehr-normalisiert-sich-laut-bahn-wieder-a-0d1d673a-5fd7-4be0-b032-15394e7aed4d#ref=rss)
-* [https://www.spiegel.de/ausland/news-israel-hamas-gazastreifen-donald-trump-russland](https://www.spiegel.de/ausland/news-israel-hamas-gazastreifen-donald-trump-russland-a-8ce3445b-83bf-4aaf-8c4b-4487912cf779#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-endstation-podcast-344-minuten-folge-4](https://www.spiegel.de/wirtschaft/deutsche-bahn-endstation-podcast-344-minuten-folge-4-a-0421b8e1-28c5-4c94-a046-43adf6c51650#ref=rss)
-### bahn
+* [https://www.spiegel.de/netzwelt/netzpolitik/bsi-chefin-claudia-plattner-ueber-cyberattacken-es-gibt-taeglich-angriffe](https://www.spiegel.de/netzwelt/netzpolitik/bsi-chefin-claudia-plattner-ueber-cyberattacken-es-gibt-taeglich-angriffe-a-ef6c1a78-06d4-47d0-ae84-71d72a1ce014#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-2024-pietreczko-weiter-vier-deutsche-in-runde-drei](https://www.spiegel.de/sport/darts-wm-2024-pietreczko-weiter-vier-deutsche-in-runde-drei-a-56d5f591-f5d6-4918-970d-a143904ea7a0#ref=rss)
+* [https://www.spiegel.de/sport/hobby-horsing-der-erstaunliche-boom-des-steckenpferdreitens](https://www.spiegel.de/sport/hobby-horsing-der-erstaunliche-boom-des-steckenpferdreitens-a-0a1e46f4-de5a-4d2d-a1d3-f279ac34f47b#ref=rss)
+### ukrainekrieg
 
-* [https://www.spiegel.de/reise/nach-sturmtief-zoltan-fernverkehr-normalisiert-sich-laut-bahn-wieder](https://www.spiegel.de/reise/nach-sturmtief-zoltan-fernverkehr-normalisiert-sich-laut-bahn-wieder-a-0d1d673a-5fd7-4be0-b032-15394e7aed4d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-endstation-podcast-344-minuten-folge-4](https://www.spiegel.de/wirtschaft/deutsche-bahn-endstation-podcast-344-minuten-folge-4-a-0421b8e1-28c5-4c94-a046-43adf6c51650#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-soldaten-mit-kriegstraumata-der-unsichtbare-feind](https://www.spiegel.de/ausland/ukraine-krieg-soldaten-mit-kriegstraumata-der-unsichtbare-feind-a-67270966-51f8-400c-ac05-e0f9ee134a88#ref=rss)
+* [https://www.spiegel.de/ausland/russland-der-ukraine-krieg-und-zensur-wie-kann-man-als-journalist-noch-arbeiten](https://www.spiegel.de/ausland/russland-der-ukraine-krieg-und-zensur-wie-kann-man-als-journalist-noch-arbeiten-a-f8f7d468-61c8-44ec-842b-243ce905319b#ref=rss)
+* [https://www.spiegel.de/ausland/wladimir-putin-laut-alexander-graf-lambsdorff-ueberhaupt-nicht-verhandlungsbereit](https://www.spiegel.de/ausland/wladimir-putin-laut-alexander-graf-lambsdorff-ueberhaupt-nicht-verhandlungsbereit-a-548319c5-9e50-42b0-900b-ff26eba9b044#ref=rss)
+### vier
+
+* [https://www.spiegel.de/sport/darts-wm-2024-pietreczko-weiter-vier-deutsche-in-runde-drei](https://www.spiegel.de/sport/darts-wm-2024-pietreczko-weiter-vier-deutsche-in-runde-drei-a-56d5f591-f5d6-4918-970d-a143904ea7a0#ref=rss)
+* [https://www.spiegel.de/ausland/rotes-meer-iran-soll-an-den-anschlaegen-der-huthi-miliz-im-roten-meer-beteiligt-sein](https://www.spiegel.de/ausland/rotes-meer-iran-soll-an-den-anschlaegen-der-huthi-miliz-im-roten-meer-beteiligt-sein-a-bc21461b-cbf9-473d-9f31-c3213c51ee23#ref=rss)
+### zeit
+
+* [https://www.spiegel.de/wissenschaft/norwegen-rentiere-kauen-im-schlaf-damit-sie-noch-mehr-essen-koennen](https://www.spiegel.de/wissenschaft/norwegen-rentiere-kauen-im-schlaf-damit-sie-noch-mehr-essen-koennen-a-dd71c226-f70f-46ec-974e-d9ff18b8f957#ref=rss)
+* [https://www.spiegel.de/kultur/tv/weihnachtsfilme-in-tv-und-streaming-alle-klassiker-von-kevin-allein-zu-haus-bis-der-grinch](https://www.spiegel.de/kultur/tv/weihnachtsfilme-in-tv-und-streaming-alle-klassiker-von-kevin-allein-zu-haus-bis-der-grinch-a-e7a2d010-c16e-4824-9a6d-eb3dceda6ab4#ref=rss)
+* [https://www.spiegel.de/familie/familiennewsletter-zu-weihnachten-als-meine-tochter-rudolf-das-rentier-sah](https://www.spiegel.de/familie/familiennewsletter-zu-weihnachten-als-meine-tochter-rudolf-das-rentier-sah-a-fec2ed53-5c70-45d4-b937-15c5c5baea09#ref=rss)
+### roten
+
+* [https://www.spiegel.de/ausland/indischer-ozean-chemikalien-tanker-von-drohne-getroffen](https://www.spiegel.de/ausland/indischer-ozean-chemikalien-tanker-von-drohne-getroffen-a-e756e82a-831f-44e2-b682-014c0db68919#ref=rss)
+* [https://www.spiegel.de/ausland/rotes-meer-iran-soll-an-den-anschlaegen-der-huthi-miliz-im-roten-meer-beteiligt-sein](https://www.spiegel.de/ausland/rotes-meer-iran-soll-an-den-anschlaegen-der-huthi-miliz-im-roten-meer-beteiligt-sein-a-bc21461b-cbf9-473d-9f31-c3213c51ee23#ref=rss)
+### weihnachtspostfiliale
+
+* [https://www.spiegel.de/panorama/gesellschaft/weihnachtspost-filiale-himmelpfort-was-sich-die-meisten-kinder-wuenschen](https://www.spiegel.de/panorama/gesellschaft/weihnachtspost-filiale-himmelpfort-was-sich-die-meisten-kinder-wuenschen-a-e78fca28-c968-4cd5-ace7-7d2ddb1dc2c9#ref=rss)
+### himmelpfort
+
+* [https://www.spiegel.de/panorama/gesellschaft/weihnachtspost-filiale-himmelpfort-was-sich-die-meisten-kinder-wuenschen](https://www.spiegel.de/panorama/gesellschaft/weihnachtspost-filiale-himmelpfort-was-sich-die-meisten-kinder-wuenschen-a-e78fca28-c968-4cd5-ace7-7d2ddb1dc2c9#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/panorama/gesellschaft/weihnachtspost-filiale-himmelpfort-was-sich-die-meisten-kinder-wuenschen](https://www.spiegel.de/panorama/gesellschaft/weihnachtspost-filiale-himmelpfort-was-sich-die-meisten-kinder-wuenschen-a-e78fca28-c968-4cd5-ace7-7d2ddb1dc2c9#ref=rss)
+* [https://www.spiegel.de/familie/schueleraustausch-in-neuseeland-so-war-die-rueckkehr-nach-deutschland](https://www.spiegel.de/familie/schueleraustausch-in-neuseeland-so-war-die-rueckkehr-nach-deutschland-a-c44e5a90-160d-4e95-96ba-aca104b510ec#ref=rss)
+### essen
+
+* [https://www.spiegel.de/panorama/feiertags-konflikte-wie-uebersteht-man-weihnachten-ohne-familienstreit](https://www.spiegel.de/panorama/feiertags-konflikte-wie-uebersteht-man-weihnachten-ohne-familienstreit-a-44a30fc5-b829-4b2e-af87-1684509e78c4#ref=rss)
+* [https://www.spiegel.de/wissenschaft/norwegen-rentiere-kauen-im-schlaf-damit-sie-noch-mehr-essen-koennen](https://www.spiegel.de/wissenschaft/norwegen-rentiere-kauen-im-schlaf-damit-sie-noch-mehr-essen-koennen-a-dd71c226-f70f-46ec-974e-d9ff18b8f957#ref=rss)
+### feiertage
+
+* [https://www.spiegel.de/panorama/feiertags-konflikte-wie-uebersteht-man-weihnachten-ohne-familienstreit](https://www.spiegel.de/panorama/feiertags-konflikte-wie-uebersteht-man-weihnachten-ohne-familienstreit-a-44a30fc5-b829-4b2e-af87-1684509e78c4#ref=rss)
+* [https://www.spiegel.de/kultur/tv/weihnachtsfilme-in-tv-und-streaming-alle-klassiker-von-kevin-allein-zu-haus-bis-der-grinch](https://www.spiegel.de/kultur/tv/weihnachtsfilme-in-tv-und-streaming-alle-klassiker-von-kevin-allein-zu-haus-bis-der-grinch-a-e7a2d010-c16e-4824-9a6d-eb3dceda6ab4#ref=rss)
+### unkompliziert
+
+* [https://www.spiegel.de/netzwelt/web/weihnachten-so-koennen-sie-technik-laien-unkompliziert-eine-freude-machen](https://www.spiegel.de/netzwelt/web/weihnachten-so-koennen-sie-technik-laien-unkompliziert-eine-freude-machen-a-9cb10121-2da2-4277-b53e-165b4aef1379#ref=rss)
+### leute
+
+* [https://www.spiegel.de/netzwelt/web/weihnachten-so-koennen-sie-technik-laien-unkompliziert-eine-freude-machen](https://www.spiegel.de/netzwelt/web/weihnachten-so-koennen-sie-technik-laien-unkompliziert-eine-freude-machen-a-9cb10121-2da2-4277-b53e-165b4aef1379#ref=rss)
+* [https://www.spiegel.de/familie/schueleraustausch-in-neuseeland-so-war-die-rueckkehr-nach-deutschland](https://www.spiegel.de/familie/schueleraustausch-in-neuseeland-so-war-die-rueckkehr-nach-deutschland-a-c44e5a90-160d-4e95-96ba-aca104b510ec#ref=rss)
+### liegt
+
+* [https://www.spiegel.de/netzwelt/web/weihnachten-so-koennen-sie-technik-laien-unkompliziert-eine-freude-machen](https://www.spiegel.de/netzwelt/web/weihnachten-so-koennen-sie-technik-laien-unkompliziert-eine-freude-machen-a-9cb10121-2da2-4277-b53e-165b4aef1379#ref=rss)
+* [https://www.spiegel.de/sport/hobby-horsing-der-erstaunliche-boom-des-steckenpferdreitens](https://www.spiegel.de/sport/hobby-horsing-der-erstaunliche-boom-des-steckenpferdreitens-a-0a1e46f4-de5a-4d2d-a1d3-f279ac34f47b#ref=rss)
+### nobelskiort
+
+* [https://www.spiegel.de/ausland/oesterreich-wie-sich-der-nobelskiort-lech-am-arlberg-mit-einer-millionen-investition-selbst-ruiniert](https://www.spiegel.de/ausland/oesterreich-wie-sich-der-nobelskiort-lech-am-arlberg-mit-einer-millionen-investition-selbst-ruiniert-a-46a35f5f-2913-4700-851c-9a6b2a84df45#ref=rss)
+### lech
+
+* [https://www.spiegel.de/ausland/oesterreich-wie-sich-der-nobelskiort-lech-am-arlberg-mit-einer-millionen-investition-selbst-ruiniert](https://www.spiegel.de/ausland/oesterreich-wie-sich-der-nobelskiort-lech-am-arlberg-mit-einer-millionen-investition-selbst-ruiniert-a-46a35f5f-2913-4700-851c-9a6b2a84df45#ref=rss)
+### arlberg
+
+* [https://www.spiegel.de/ausland/oesterreich-wie-sich-der-nobelskiort-lech-am-arlberg-mit-einer-millionen-investition-selbst-ruiniert](https://www.spiegel.de/ausland/oesterreich-wie-sich-der-nobelskiort-lech-am-arlberg-mit-einer-millionen-investition-selbst-ruiniert-a-46a35f5f-2913-4700-851c-9a6b2a84df45#ref=rss)
+### russische
+
+* [https://www.spiegel.de/ausland/oesterreich-wie-sich-der-nobelskiort-lech-am-arlberg-mit-einer-millionen-investition-selbst-ruiniert](https://www.spiegel.de/ausland/oesterreich-wie-sich-der-nobelskiort-lech-am-arlberg-mit-einer-millionen-investition-selbst-ruiniert-a-46a35f5f-2913-4700-851c-9a6b2a84df45#ref=rss)
+* [https://www.spiegel.de/ausland/russland-der-ukraine-krieg-und-zensur-wie-kann-man-als-journalist-noch-arbeiten](https://www.spiegel.de/ausland/russland-der-ukraine-krieg-und-zensur-wie-kann-man-als-journalist-noch-arbeiten-a-f8f7d468-61c8-44ec-842b-243ce905319b#ref=rss)
+### arbeiten
+
+* [https://www.spiegel.de/karriere/deutschland-13-prozent-der-fuehrungskraefte-arbeiten-teilzeit](https://www.spiegel.de/karriere/deutschland-13-prozent-der-fuehrungskraefte-arbeiten-teilzeit-a-bed379d5-bd7e-4e93-962c-3c2a94915299#ref=rss)
+* [https://www.spiegel.de/ausland/russland-der-ukraine-krieg-und-zensur-wie-kann-man-als-journalist-noch-arbeiten](https://www.spiegel.de/ausland/russland-der-ukraine-krieg-und-zensur-wie-kann-man-als-journalist-noch-arbeiten-a-f8f7d468-61c8-44ec-842b-243ce905319b#ref=rss)
+### teilzeit
+
+* [https://www.spiegel.de/karriere/deutschland-13-prozent-der-fuehrungskraefte-arbeiten-teilzeit](https://www.spiegel.de/karriere/deutschland-13-prozent-der-fuehrungskraefte-arbeiten-teilzeit-a-bed379d5-bd7e-4e93-962c-3c2a94915299#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/karriere/deutschland-13-prozent-der-fuehrungskraefte-arbeiten-teilzeit](https://www.spiegel.de/karriere/deutschland-13-prozent-der-fuehrungskraefte-arbeiten-teilzeit-a-bed379d5-bd7e-4e93-962c-3c2a94915299#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-2024-pietreczko-weiter-vier-deutsche-in-runde-drei](https://www.spiegel.de/sport/darts-wm-2024-pietreczko-weiter-vier-deutsche-in-runde-drei-a-56d5f591-f5d6-4918-970d-a143904ea7a0#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
+
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### thomas
+
+* [https://www.spiegel.de/ausland/oesterreich-thomas-schmid-als-zeuge-gegen-sebastian-kurz](https://www.spiegel.de/ausland/oesterreich-thomas-schmid-als-zeuge-gegen-sebastian-kurz-a-3ac07716-6669-44aa-a460-145d7e50b49e#ref=rss)
+### schmid
+
+* [https://www.spiegel.de/ausland/oesterreich-thomas-schmid-als-zeuge-gegen-sebastian-kurz](https://www.spiegel.de/ausland/oesterreich-thomas-schmid-als-zeuge-gegen-sebastian-kurz-a-3ac07716-6669-44aa-a460-145d7e50b49e#ref=rss)
+### sebastian
+
+* [https://www.spiegel.de/ausland/oesterreich-thomas-schmid-als-zeuge-gegen-sebastian-kurz](https://www.spiegel.de/ausland/oesterreich-thomas-schmid-als-zeuge-gegen-sebastian-kurz-a-3ac07716-6669-44aa-a460-145d7e50b49e#ref=rss)
+### macht
+
+* [https://www.spiegel.de/ausland/oesterreich-thomas-schmid-als-zeuge-gegen-sebastian-kurz](https://www.spiegel.de/ausland/oesterreich-thomas-schmid-als-zeuge-gegen-sebastian-kurz-a-3ac07716-6669-44aa-a460-145d7e50b49e#ref=rss)
+* [https://www.spiegel.de/politik/bundesjustizminister-buschmann-plaediert-fuer-einsatz-von-tasern](https://www.spiegel.de/politik/bundesjustizminister-buschmann-plaediert-fuer-einsatz-von-tasern-a-1ec5c4a1-4dae-402f-872c-9796b5dcc8b9#ref=rss)
+### claudia
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/bsi-chefin-claudia-plattner-ueber-cyberattacken-es-gibt-taeglich-angriffe](https://www.spiegel.de/netzwelt/netzpolitik/bsi-chefin-claudia-plattner-ueber-cyberattacken-es-gibt-taeglich-angriffe-a-ef6c1a78-06d4-47d0-ae84-71d72a1ce014#ref=rss)
+### plattner
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/bsi-chefin-claudia-plattner-ueber-cyberattacken-es-gibt-taeglich-angriffe](https://www.spiegel.de/netzwelt/netzpolitik/bsi-chefin-claudia-plattner-ueber-cyberattacken-es-gibt-taeglich-angriffe-a-ef6c1a78-06d4-47d0-ae84-71d72a1ce014#ref=rss)
+### täglich
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/bsi-chefin-claudia-plattner-ueber-cyberattacken-es-gibt-taeglich-angriffe](https://www.spiegel.de/netzwelt/netzpolitik/bsi-chefin-claudia-plattner-ueber-cyberattacken-es-gibt-taeglich-angriffe-a-ef6c1a78-06d4-47d0-ae84-71d72a1ce014#ref=rss)
+### angriffe
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/bsi-chefin-claudia-plattner-ueber-cyberattacken-es-gibt-taeglich-angriffe](https://www.spiegel.de/netzwelt/netzpolitik/bsi-chefin-claudia-plattner-ueber-cyberattacken-es-gibt-taeglich-angriffe-a-ef6c1a78-06d4-47d0-ae84-71d72a1ce014#ref=rss)
+* [https://www.spiegel.de/ausland/rotes-meer-iran-soll-an-den-anschlaegen-der-huthi-miliz-im-roten-meer-beteiligt-sein](https://www.spiegel.de/ausland/rotes-meer-iran-soll-an-den-anschlaegen-der-huthi-miliz-im-roten-meer-beteiligt-sein-a-bc21461b-cbf9-473d-9f31-c3213c51ee23#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/bsi-chefin-claudia-plattner-ueber-cyberattacken-es-gibt-taeglich-angriffe](https://www.spiegel.de/netzwelt/netzpolitik/bsi-chefin-claudia-plattner-ueber-cyberattacken-es-gibt-taeglich-angriffe-a-ef6c1a78-06d4-47d0-ae84-71d72a1ce014#ref=rss)
+* [https://www.spiegel.de/familie/schueleraustausch-in-neuseeland-so-war-die-rueckkehr-nach-deutschland](https://www.spiegel.de/familie/schueleraustausch-in-neuseeland-so-war-die-rueckkehr-nach-deutschland-a-c44e5a90-160d-4e95-96ba-aca104b510ec#ref=rss)
+### soldaten
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-soldaten-mit-kriegstraumata-der-unsichtbare-feind](https://www.spiegel.de/ausland/ukraine-krieg-soldaten-mit-kriegstraumata-der-unsichtbare-feind-a-67270966-51f8-400c-ac05-e0f9ee134a88#ref=rss)
+### bundesjustizminister
+
+* [https://www.spiegel.de/politik/bundesjustizminister-buschmann-plaediert-fuer-einsatz-von-tasern](https://www.spiegel.de/politik/bundesjustizminister-buschmann-plaediert-fuer-einsatz-von-tasern-a-1ec5c4a1-4dae-402f-872c-9796b5dcc8b9#ref=rss)
+### möchte
+
+* [https://www.spiegel.de/politik/bundesjustizminister-buschmann-plaediert-fuer-einsatz-von-tasern](https://www.spiegel.de/politik/bundesjustizminister-buschmann-plaediert-fuer-einsatz-von-tasern-a-1ec5c4a1-4dae-402f-872c-9796b5dcc8b9#ref=rss)
+* [https://www.spiegel.de/familie/familiennewsletter-zu-weihnachten-als-meine-tochter-rudolf-das-rentier-sah](https://www.spiegel.de/familie/familiennewsletter-zu-weihnachten-als-meine-tochter-rudolf-das-rentier-sah-a-fec2ed53-5c70-45d4-b937-15c5c5baea09#ref=rss)
+### dartswm
+
+* [https://www.spiegel.de/sport/darts-wm-2024-pietreczko-weiter-vier-deutsche-in-runde-drei](https://www.spiegel.de/sport/darts-wm-2024-pietreczko-weiter-vier-deutsche-in-runde-drei-a-56d5f591-f5d6-4918-970d-a143904ea7a0#ref=rss)
+### pietreczko
+
+* [https://www.spiegel.de/sport/darts-wm-2024-pietreczko-weiter-vier-deutsche-in-runde-drei](https://www.spiegel.de/sport/darts-wm-2024-pietreczko-weiter-vier-deutsche-in-runde-drei-a-56d5f591-f5d6-4918-970d-a143904ea7a0#ref=rss)
+### runde
+
+* [https://www.spiegel.de/sport/darts-wm-2024-pietreczko-weiter-vier-deutsche-in-runde-drei](https://www.spiegel.de/sport/darts-wm-2024-pietreczko-weiter-vier-deutsche-in-runde-drei-a-56d5f591-f5d6-4918-970d-a143904ea7a0#ref=rss)
+### hobby
+
+* [https://www.spiegel.de/sport/hobby-horsing-der-erstaunliche-boom-des-steckenpferdreitens](https://www.spiegel.de/sport/hobby-horsing-der-erstaunliche-boom-des-steckenpferdreitens-a-0a1e46f4-de5a-4d2d-a1d3-f279ac34f47b#ref=rss)
+### horsing
+
+* [https://www.spiegel.de/sport/hobby-horsing-der-erstaunliche-boom-des-steckenpferdreitens](https://www.spiegel.de/sport/hobby-horsing-der-erstaunliche-boom-des-steckenpferdreitens-a-0a1e46f4-de5a-4d2d-a1d3-f279ac34f47b#ref=rss)
+### euro
+
+* [https://www.spiegel.de/sport/hobby-horsing-der-erstaunliche-boom-des-steckenpferdreitens](https://www.spiegel.de/sport/hobby-horsing-der-erstaunliche-boom-des-steckenpferdreitens-a-0a1e46f4-de5a-4d2d-a1d3-f279ac34f47b#ref=rss)
+* [https://www.spiegel.de/panorama/kadewe-in-berlin-wo-ein-to-go-kaffeebecher-200-euro-kostet](https://www.spiegel.de/panorama/kadewe-in-berlin-wo-ein-to-go-kaffeebecher-200-euro-kostet-a-19664431-9259-449e-b6ce-48c006711d68#ref=rss)
+### rentiere
+
+* [https://www.spiegel.de/wissenschaft/norwegen-rentiere-kauen-im-schlaf-damit-sie-noch-mehr-essen-koennen](https://www.spiegel.de/wissenschaft/norwegen-rentiere-kauen-im-schlaf-damit-sie-noch-mehr-essen-koennen-a-dd71c226-f70f-46ec-974e-d9ff18b8f957#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/wissenschaft/norwegen-rentiere-kauen-im-schlaf-damit-sie-noch-mehr-essen-koennen](https://www.spiegel.de/wissenschaft/norwegen-rentiere-kauen-im-schlaf-damit-sie-noch-mehr-essen-koennen-a-dd71c226-f70f-46ec-974e-d9ff18b8f957#ref=rss)
+* [https://www.spiegel.de/ausland/rotes-meer-iran-soll-an-den-anschlaegen-der-huthi-miliz-im-roten-meer-beteiligt-sein](https://www.spiegel.de/ausland/rotes-meer-iran-soll-an-den-anschlaegen-der-huthi-miliz-im-roten-meer-beteiligt-sein-a-bc21461b-cbf9-473d-9f31-c3213c51ee23#ref=rss)
+### ozean
+
+* [https://www.spiegel.de/ausland/indischer-ozean-chemikalien-tanker-von-drohne-getroffen](https://www.spiegel.de/ausland/indischer-ozean-chemikalien-tanker-von-drohne-getroffen-a-e756e82a-831f-44e2-b682-014c0db68919#ref=rss)
+### drohne
+
+* [https://www.spiegel.de/ausland/indischer-ozean-chemikalien-tanker-von-drohne-getroffen](https://www.spiegel.de/ausland/indischer-ozean-chemikalien-tanker-von-drohne-getroffen-a-e756e82a-831f-44e2-b682-014c0db68919#ref=rss)
+### handelsschiffe
+
+* [https://www.spiegel.de/ausland/indischer-ozean-chemikalien-tanker-von-drohne-getroffen](https://www.spiegel.de/ausland/indischer-ozean-chemikalien-tanker-von-drohne-getroffen-a-e756e82a-831f-44e2-b682-014c0db68919#ref=rss)
+* [https://www.spiegel.de/ausland/rotes-meer-iran-soll-an-den-anschlaegen-der-huthi-miliz-im-roten-meer-beteiligt-sein](https://www.spiegel.de/ausland/rotes-meer-iran-soll-an-den-anschlaegen-der-huthi-miliz-im-roten-meer-beteiligt-sein-a-bc21461b-cbf9-473d-9f31-c3213c51ee23#ref=rss)
+### tschechien
+
+* [https://www.spiegel.de/panorama/justiz/tschechien-gedenkt-opfern-mit-staatstrauer-nach-amoklauf-an-prager-uni](https://www.spiegel.de/panorama/justiz/tschechien-gedenkt-opfern-mit-staatstrauer-nach-amoklauf-an-prager-uni-a-67980bb7-e042-4d26-a269-d0d42f3db5ec#ref=rss)
+### opfer
+
+* [https://www.spiegel.de/panorama/justiz/tschechien-gedenkt-opfern-mit-staatstrauer-nach-amoklauf-an-prager-uni](https://www.spiegel.de/panorama/justiz/tschechien-gedenkt-opfern-mit-staatstrauer-nach-amoklauf-an-prager-uni-a-67980bb7-e042-4d26-a269-d0d42f3db5ec#ref=rss)
+### karlsuniversität
+
+* [https://www.spiegel.de/panorama/justiz/tschechien-gedenkt-opfern-mit-staatstrauer-nach-amoklauf-an-prager-uni](https://www.spiegel.de/panorama/justiz/tschechien-gedenkt-opfern-mit-staatstrauer-nach-amoklauf-an-prager-uni-a-67980bb7-e042-4d26-a269-d0d42f3db5ec#ref=rss)
+### ganzen
+
+* [https://www.spiegel.de/panorama/justiz/tschechien-gedenkt-opfern-mit-staatstrauer-nach-amoklauf-an-prager-uni](https://www.spiegel.de/panorama/justiz/tschechien-gedenkt-opfern-mit-staatstrauer-nach-amoklauf-an-prager-uni-a-67980bb7-e042-4d26-a269-d0d42f3db5ec#ref=rss)
+* [https://www.spiegel.de/familie/schueleraustausch-in-neuseeland-so-war-die-rueckkehr-nach-deutschland](https://www.spiegel.de/familie/schueleraustausch-in-neuseeland-so-war-die-rueckkehr-nach-deutschland-a-c44e5a90-160d-4e95-96ba-aca104b510ec#ref=rss)
+### land
+
+* [https://www.spiegel.de/panorama/justiz/tschechien-gedenkt-opfern-mit-staatstrauer-nach-amoklauf-an-prager-uni](https://www.spiegel.de/panorama/justiz/tschechien-gedenkt-opfern-mit-staatstrauer-nach-amoklauf-an-prager-uni-a-67980bb7-e042-4d26-a269-d0d42f3db5ec#ref=rss)
+* [https://www.spiegel.de/ausland/russland-der-ukraine-krieg-und-zensur-wie-kann-man-als-journalist-noch-arbeiten](https://www.spiegel.de/ausland/russland-der-ukraine-krieg-und-zensur-wie-kann-man-als-journalist-noch-arbeiten-a-f8f7d468-61c8-44ec-842b-243ce905319b#ref=rss)
+### ich
+
+* [https://www.spiegel.de/familie/schueleraustausch-in-neuseeland-so-war-die-rueckkehr-nach-deutschland](https://www.spiegel.de/familie/schueleraustausch-in-neuseeland-so-war-die-rueckkehr-nach-deutschland-a-c44e5a90-160d-4e95-96ba-aca104b510ec#ref=rss)
+* [https://www.spiegel.de/familie/familiennewsletter-zu-weihnachten-als-meine-tochter-rudolf-das-rentier-sah](https://www.spiegel.de/familie/familiennewsletter-zu-weihnachten-als-meine-tochter-rudolf-das-rentier-sah-a-fec2ed53-5c70-45d4-b937-15c5c5baea09#ref=rss)
+### welt
+
+* [https://www.spiegel.de/familie/schueleraustausch-in-neuseeland-so-war-die-rueckkehr-nach-deutschland](https://www.spiegel.de/familie/schueleraustausch-in-neuseeland-so-war-die-rueckkehr-nach-deutschland-a-c44e5a90-160d-4e95-96ba-aca104b510ec#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/frau-mit-zwei-gebaermuettern-in-den-usa-unsere-wunderbabys-wurden-geboren](https://www.spiegel.de/wissenschaft/medizin/frau-mit-zwei-gebaermuettern-in-den-usa-unsere-wunderbabys-wurden-geboren-a-8c6734d2-87dd-4110-9274-210158a849bf#ref=rss)
+### sohn
+
+* [https://www.spiegel.de/familie/schueleraustausch-in-neuseeland-so-war-die-rueckkehr-nach-deutschland](https://www.spiegel.de/familie/schueleraustausch-in-neuseeland-so-war-die-rueckkehr-nach-deutschland-a-c44e5a90-160d-4e95-96ba-aca104b510ec#ref=rss)
+* [https://www.spiegel.de/panorama/kourtney-kardashian-und-travis-barker-praesentieren-ihren-sohn](https://www.spiegel.de/panorama/kourtney-kardashian-und-travis-barker-praesentieren-ihren-sohn-a-82e8a2d4-b3f0-4841-bf56-380a2b2f323f#ref=rss)
+### mutter
+
+* [https://www.spiegel.de/familie/schueleraustausch-in-neuseeland-so-war-die-rueckkehr-nach-deutschland](https://www.spiegel.de/familie/schueleraustausch-in-neuseeland-so-war-die-rueckkehr-nach-deutschland-a-c44e5a90-160d-4e95-96ba-aca104b510ec#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/frau-mit-zwei-gebaermuettern-in-den-usa-unsere-wunderbabys-wurden-geboren](https://www.spiegel.de/wissenschaft/medizin/frau-mit-zwei-gebaermuettern-in-den-usa-unsere-wunderbabys-wurden-geboren-a-8c6734d2-87dd-4110-9274-210158a849bf#ref=rss)
+### streichung
+
+* [https://www.spiegel.de/politik/deutschland/csu-fraktionschef-klaus-holetschek-fordert-verzicht-auf-streichung-der-agrarsubventionen](https://www.spiegel.de/politik/deutschland/csu-fraktionschef-klaus-holetschek-fordert-verzicht-auf-streichung-der-agrarsubventionen-a-0fcf6089-bbd1-4cad-a3eb-00bd18842ccf#ref=rss)
+### hingegen
+
+* [https://www.spiegel.de/politik/deutschland/csu-fraktionschef-klaus-holetschek-fordert-verzicht-auf-streichung-der-agrarsubventionen](https://www.spiegel.de/politik/deutschland/csu-fraktionschef-klaus-holetschek-fordert-verzicht-auf-streichung-der-agrarsubventionen-a-0fcf6089-bbd1-4cad-a3eb-00bd18842ccf#ref=rss)
+* [https://www.spiegel.de/ausland/wladimir-putin-laut-alexander-graf-lambsdorff-ueberhaupt-nicht-verhandlungsbereit](https://www.spiegel.de/ausland/wladimir-putin-laut-alexander-graf-lambsdorff-ueberhaupt-nicht-verhandlungsbereit-a-548319c5-9e50-42b0-900b-ff26eba9b044#ref=rss)
+### bilder
+
+* [https://www.spiegel.de/panorama/kourtney-kardashian-und-travis-barker-praesentieren-ihren-sohn](https://www.spiegel.de/panorama/kourtney-kardashian-und-travis-barker-praesentieren-ihren-sohn-a-82e8a2d4-b3f0-4841-bf56-380a2b2f323f#ref=rss)
+* [https://www.spiegel.de/panorama/bilder-der-woche-spinnefreund](https://www.spiegel.de/panorama/bilder-der-woche-spinnefreund-a-2992ba8c-9b59-427b-8b61-fa29a370b60e#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/rotes-meer-iran-soll-an-den-anschlaegen-der-huthi-miliz-im-roten-meer-beteiligt-sein](https://www.spiegel.de/ausland/rotes-meer-iran-soll-an-den-anschlaegen-der-huthi-miliz-im-roten-meer-beteiligt-sein-a-bc21461b-cbf9-473d-9f31-c3213c51ee23#ref=rss)
+### huthimiliz
+
+* [https://www.spiegel.de/ausland/rotes-meer-iran-soll-an-den-anschlaegen-der-huthi-miliz-im-roten-meer-beteiligt-sein](https://www.spiegel.de/ausland/rotes-meer-iran-soll-an-den-anschlaegen-der-huthi-miliz-im-roten-meer-beteiligt-sein-a-bc21461b-cbf9-473d-9f31-c3213c51ee23#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/rotes-meer-iran-soll-an-den-anschlaegen-der-huthi-miliz-im-roten-meer-beteiligt-sein](https://www.spiegel.de/ausland/rotes-meer-iran-soll-an-den-anschlaegen-der-huthi-miliz-im-roten-meer-beteiligt-sein-a-bc21461b-cbf9-473d-9f31-c3213c51ee23#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/frau-mit-zwei-gebaermuettern-in-den-usa-unsere-wunderbabys-wurden-geboren](https://www.spiegel.de/wissenschaft/medizin/frau-mit-zwei-gebaermuettern-in-den-usa-unsere-wunderbabys-wurden-geboren-a-8c6734d2-87dd-4110-9274-210158a849bf#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/russland-der-ukraine-krieg-und-zensur-wie-kann-man-als-journalist-noch-arbeiten](https://www.spiegel.de/ausland/russland-der-ukraine-krieg-und-zensur-wie-kann-man-als-journalist-noch-arbeiten-a-f8f7d468-61c8-44ec-842b-243ce905319b#ref=rss)
+### wladimir
+
+* [https://www.spiegel.de/ausland/wladimir-putin-laut-alexander-graf-lambsdorff-ueberhaupt-nicht-verhandlungsbereit](https://www.spiegel.de/ausland/wladimir-putin-laut-alexander-graf-lambsdorff-ueberhaupt-nicht-verhandlungsbereit-a-548319c5-9e50-42b0-900b-ff26eba9b044#ref=rss)
+### putin
+
+* [https://www.spiegel.de/ausland/wladimir-putin-laut-alexander-graf-lambsdorff-ueberhaupt-nicht-verhandlungsbereit](https://www.spiegel.de/ausland/wladimir-putin-laut-alexander-graf-lambsdorff-ueberhaupt-nicht-verhandlungsbereit-a-548319c5-9e50-42b0-900b-ff26eba9b044#ref=rss)
+### alexander
+
+* [https://www.spiegel.de/ausland/wladimir-putin-laut-alexander-graf-lambsdorff-ueberhaupt-nicht-verhandlungsbereit](https://www.spiegel.de/ausland/wladimir-putin-laut-alexander-graf-lambsdorff-ueberhaupt-nicht-verhandlungsbereit-a-548319c5-9e50-42b0-900b-ff26eba9b044#ref=rss)
+### graf
+
+* [https://www.spiegel.de/ausland/wladimir-putin-laut-alexander-graf-lambsdorff-ueberhaupt-nicht-verhandlungsbereit](https://www.spiegel.de/ausland/wladimir-putin-laut-alexander-graf-lambsdorff-ueberhaupt-nicht-verhandlungsbereit-a-548319c5-9e50-42b0-900b-ff26eba9b044#ref=rss)
+### lambsdorff
+
+* [https://www.spiegel.de/ausland/wladimir-putin-laut-alexander-graf-lambsdorff-ueberhaupt-nicht-verhandlungsbereit](https://www.spiegel.de/ausland/wladimir-putin-laut-alexander-graf-lambsdorff-ueberhaupt-nicht-verhandlungsbereit-a-548319c5-9e50-42b0-900b-ff26eba9b044#ref=rss)
+### frau
+
+* [https://www.spiegel.de/wissenschaft/medizin/frau-mit-zwei-gebaermuettern-in-den-usa-unsere-wunderbabys-wurden-geboren](https://www.spiegel.de/wissenschaft/medizin/frau-mit-zwei-gebaermuettern-in-den-usa-unsere-wunderbabys-wurden-geboren-a-8c6734d2-87dd-4110-9274-210158a849bf#ref=rss)
+* [https://www.spiegel.de/panorama/hamburg-grab-von-helmut-schmidt-mit-hakenkreuzen-beschmiert](https://www.spiegel.de/panorama/hamburg-grab-von-helmut-schmidt-mit-hakenkreuzen-beschmiert-a-63632e0f-7e3e-4f8f-a83b-c845e0f0ed1b#ref=rss)
 ### berlin
 
 * [https://www.spiegel.de/panorama/kadewe-in-berlin-wo-ein-to-go-kaffeebecher-200-euro-kostet](https://www.spiegel.de/panorama/kadewe-in-berlin-wo-ein-to-go-kaffeebecher-200-euro-kostet-a-19664431-9259-449e-b6ce-48c006711d68#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-polizei-findet-kugelbomben-und-30-000-boeller-in-wohnungen-in-neukoelln-britz](https://www.spiegel.de/panorama/berlin-polizei-findet-kugelbomben-und-30-000-boeller-in-wohnungen-in-neukoelln-britz-a-eebd2d24-8892-4e98-aeef-2fe89e627f21#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/tod-nach-polizeieinsatz-in-den-usa-zwei-rettungssanitaeter-der-fahrlaessigen-toetung-von-elijah-mcclain-fuer-schuldig-befunden](https://www.spiegel.de/ausland/tod-nach-polizeieinsatz-in-den-usa-zwei-rettungssanitaeter-der-fahrlaessigen-toetung-von-elijah-mcclain-fuer-schuldig-befunden-a-eb911641-759f-415a-a346-396cf20dc8a4#ref=rss)
-* [https://www.spiegel.de/ausland/wisconsin-usa-niederlage-fuer-republikaner-wahlbezirke-muessen-neu-zugeschnitten-werden](https://www.spiegel.de/ausland/wisconsin-usa-niederlage-fuer-republikaner-wahlbezirke-muessen-neu-zugeschnitten-werden-a-b1706dd2-7a53-4627-9152-028a5fa677d0#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/ausland/tod-nach-polizeieinsatz-in-den-usa-zwei-rettungssanitaeter-der-fahrlaessigen-toetung-von-elijah-mcclain-fuer-schuldig-befunden](https://www.spiegel.de/ausland/tod-nach-polizeieinsatz-in-den-usa-zwei-rettungssanitaeter-der-fahrlaessigen-toetung-von-elijah-mcclain-fuer-schuldig-befunden-a-eb911641-759f-415a-a346-396cf20dc8a4#ref=rss)
-* [https://www.spiegel.de/familie/weihnachten-13-familienregeln-fuer-harmonische-feiertage](https://www.spiegel.de/familie/weihnachten-13-familienregeln-fuer-harmonische-feiertage-a-84276ef3-9353-47b7-af93-28a71456ae28#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/john-kornblum-ehemaliger-us-botschafter-in-deutschland-ist-tot](https://www.spiegel.de/politik/deutschland/john-kornblum-ehemaliger-us-botschafter-in-deutschland-ist-tot-a-5c59ae73-229e-4993-898b-72d84d8de370#ref=rss)
-### gaza
-
-* [https://www.spiegel.de/ausland/krieg-in-nahost-generalsekretaer-guterres-gedenkt-getoeteter-uno-mitarbeiter-in-gaza](https://www.spiegel.de/ausland/krieg-in-nahost-generalsekretaer-guterres-gedenkt-getoeteter-uno-mitarbeiter-in-gaza-a-376b12a6-4105-47a3-8c2f-c102ec6222e5#ref=rss)
-* [https://www.spiegel.de/ausland/news-israel-hamas-gazastreifen-donald-trump-russland](https://www.spiegel.de/ausland/news-israel-hamas-gazastreifen-donald-trump-russland-a-8ce3445b-83bf-4aaf-8c4b-4487912cf779#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/ausland/demokratische-republik-kongo-wie-inselbewohner-durch-guten-sex-den-frieden-sichern](https://www.spiegel.de/ausland/demokratische-republik-kongo-wie-inselbewohner-durch-guten-sex-den-frieden-sichern-a-03c0d19f-58c9-439d-ac98-075d0caf9ec3#ref=rss)
-* [https://www.spiegel.de/gesundheit/erholung-wie-wir-sinnvoll-pause-machen-podcast-mit-sebastian-altfeld-best-of-2023](https://www.spiegel.de/gesundheit/erholung-wie-wir-sinnvoll-pause-machen-podcast-mit-sebastian-altfeld-best-of-2023-a-13554f38-509a-4fc7-b1ea-f7c71a40ff16#ref=rss)
-* [https://www.spiegel.de/gesundheit/hilfe-bei-heuschnupfen-niemand-muss-diese-beschwerden-aushalten](https://www.spiegel.de/gesundheit/hilfe-bei-heuschnupfen-niemand-muss-diese-beschwerden-aushalten-a-988e33d2-77c1-4dd0-bce0-aea4e2cf795a#ref=rss)
-### neue
-
-* [https://www.spiegel.de/ausland/russland-sanktionen-der-neue-eiserne-vorhang-schliesst-sich-nur-fuer-den-westen](https://www.spiegel.de/ausland/russland-sanktionen-der-neue-eiserne-vorhang-schliesst-sich-nur-fuer-den-westen-a-a2f14d1a-4f3c-4fcd-b7fe-16b0ed04ab6e#ref=rss)
-* [https://www.spiegel.de/kultur/banksy-neues-kunstwerk-in-london-vermutlich-gestohlen](https://www.spiegel.de/kultur/banksy-neues-kunstwerk-in-london-vermutlich-gestohlen-a-3a59514f-cf27-4793-b5e3-8f0dd4334b04#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/russland-sanktionen-der-neue-eiserne-vorhang-schliesst-sich-nur-fuer-den-westen](https://www.spiegel.de/ausland/russland-sanktionen-der-neue-eiserne-vorhang-schliesst-sich-nur-fuer-den-westen-a-a2f14d1a-4f3c-4fcd-b7fe-16b0ed04ab6e#ref=rss)
-* [https://www.spiegel.de/ausland/news-israel-hamas-gazastreifen-donald-trump-russland](https://www.spiegel.de/ausland/news-israel-hamas-gazastreifen-donald-trump-russland-a-8ce3445b-83bf-4aaf-8c4b-4487912cf779#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/news-israel-hamas-gazastreifen-donald-trump-russland](https://www.spiegel.de/ausland/news-israel-hamas-gazastreifen-donald-trump-russland-a-8ce3445b-83bf-4aaf-8c4b-4487912cf779#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-erzielt-erfolg-vor-supreme-court-immunitaet-vorerst-kein-thema](https://www.spiegel.de/ausland/donald-trump-erzielt-erfolg-vor-supreme-court-immunitaet-vorerst-kein-thema-a-ad6ceb79-d2cf-4180-9315-120704cfda78#ref=rss)
-### unbekannte
-
-* [https://www.spiegel.de/panorama/hamburg-grab-von-helmut-schmidt-mit-hakenkreuzen-beschmiert](https://www.spiegel.de/panorama/hamburg-grab-von-helmut-schmidt-mit-hakenkreuzen-beschmiert-a-63632e0f-7e3e-4f8f-a83b-c845e0f0ed1b#ref=rss)
-* [https://www.spiegel.de/kultur/banksy-neues-kunstwerk-in-london-vermutlich-gestohlen](https://www.spiegel.de/kultur/banksy-neues-kunstwerk-in-london-vermutlich-gestohlen-a-3a59514f-cf27-4793-b5e3-8f0dd4334b04#ref=rss)
-### frau
-
-* [https://www.spiegel.de/panorama/hamburg-grab-von-helmut-schmidt-mit-hakenkreuzen-beschmiert](https://www.spiegel.de/panorama/hamburg-grab-von-helmut-schmidt-mit-hakenkreuzen-beschmiert-a-63632e0f-7e3e-4f8f-a83b-c845e0f0ed1b#ref=rss)
-* [https://www.spiegel.de/panorama/leute/charlie-sheen-frau-attackiert-two-and-a-half-men-star-in-seinem-haus](https://www.spiegel.de/panorama/leute/charlie-sheen-frau-attackiert-two-and-a-half-men-star-in-seinem-haus-a-e912403a-7ae8-49f8-91b5-77261ca7b4e8#ref=rss)
-### entfernt
-
-* [https://www.spiegel.de/panorama/hamburg-grab-von-helmut-schmidt-mit-hakenkreuzen-beschmiert](https://www.spiegel.de/panorama/hamburg-grab-von-helmut-schmidt-mit-hakenkreuzen-beschmiert-a-63632e0f-7e3e-4f8f-a83b-c845e0f0ed1b#ref=rss)
-* [https://www.spiegel.de/kultur/banksy-neues-kunstwerk-in-london-vermutlich-gestohlen](https://www.spiegel.de/kultur/banksy-neues-kunstwerk-in-london-vermutlich-gestohlen-a-3a59514f-cf27-4793-b5e3-8f0dd4334b04#ref=rss)
-### 2023
-
-* [https://www.spiegel.de/fitness/newsletter-spiegel-laeuft-das-waren-unsere-laufhighlights-2023](https://www.spiegel.de/fitness/newsletter-spiegel-laeuft-das-waren-unsere-laufhighlights-2023-a-8c1225bc-98b3-4f3a-99ec-ab35a936b165#ref=rss)
-* [https://www.spiegel.de/gesundheit/erholung-wie-wir-sinnvoll-pause-machen-podcast-mit-sebastian-altfeld-best-of-2023](https://www.spiegel.de/gesundheit/erholung-wie-wir-sinnvoll-pause-machen-podcast-mit-sebastian-altfeld-best-of-2023-a-13554f38-509a-4fc7-b1ea-f7c71a40ff16#ref=rss)
-### jahres
-
-* [https://www.spiegel.de/fitness/newsletter-spiegel-laeuft-das-waren-unsere-laufhighlights-2023](https://www.spiegel.de/fitness/newsletter-spiegel-laeuft-das-waren-unsere-laufhighlights-2023-a-8c1225bc-98b3-4f3a-99ec-ab35a936b165#ref=rss)
-* [https://www.spiegel.de/gesundheit/erholung-wie-wir-sinnvoll-pause-machen-podcast-mit-sebastian-altfeld-best-of-2023](https://www.spiegel.de/gesundheit/erholung-wie-wir-sinnvoll-pause-machen-podcast-mit-sebastian-altfeld-best-of-2023-a-13554f38-509a-4fc7-b1ea-f7c71a40ff16#ref=rss)
-### pandemie
-
-* [https://www.spiegel.de/gesundheit/diagnose/long-covid-und-post-vac-die-pandemie-ist-vorbei-aber-nicht-fuer-uns](https://www.spiegel.de/gesundheit/diagnose/long-covid-und-post-vac-die-pandemie-ist-vorbei-aber-nicht-fuer-uns-a-085358d7-66f5-42be-8ddb-103fb57b0334#ref=rss)
-* [https://www.spiegel.de/start/ausbildung-im-demenz-dorf-was-tun-gegen-die-pandemie-des-vergessens](https://www.spiegel.de/start/ausbildung-im-demenz-dorf-was-tun-gegen-die-pandemie-des-vergessens-a-81e65fa4-a1aa-4f0f-a80a-950b06dc65cd#ref=rss)
-### meisten
-
-* [https://www.spiegel.de/gesundheit/diagnose/long-covid-und-post-vac-die-pandemie-ist-vorbei-aber-nicht-fuer-uns](https://www.spiegel.de/gesundheit/diagnose/long-covid-und-post-vac-die-pandemie-ist-vorbei-aber-nicht-fuer-uns-a-085358d7-66f5-42be-8ddb-103fb57b0334#ref=rss)
-* [https://www.spiegel.de/wissenschaft/forschung-uv-sehen-hilft-rentieren-bei-lieblingsfuttersuche](https://www.spiegel.de/wissenschaft/forschung-uv-sehen-hilft-rentieren-bei-lieblingsfuttersuche-a-e7944cd5-f2f4-419b-a54c-149def3db2a6#ref=rss)
-### hilft
-
-* [https://www.spiegel.de/wissenschaft/forschung-uv-sehen-hilft-rentieren-bei-lieblingsfuttersuche](https://www.spiegel.de/wissenschaft/forschung-uv-sehen-hilft-rentieren-bei-lieblingsfuttersuche-a-e7944cd5-f2f4-419b-a54c-149def3db2a6#ref=rss)
-* [https://www.spiegel.de/gesundheit/hilfe-bei-heuschnupfen-niemand-muss-diese-beschwerden-aushalten](https://www.spiegel.de/gesundheit/hilfe-bei-heuschnupfen-niemand-muss-diese-beschwerden-aushalten-a-988e33d2-77c1-4dd0-bce0-aea4e2cf795a#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/ausland/tod-nach-polizeieinsatz-in-den-usa-zwei-rettungssanitaeter-der-fahrlaessigen-toetung-von-elijah-mcclain-fuer-schuldig-befunden](https://www.spiegel.de/ausland/tod-nach-polizeieinsatz-in-den-usa-zwei-rettungssanitaeter-der-fahrlaessigen-toetung-von-elijah-mcclain-fuer-schuldig-befunden-a-eb911641-759f-415a-a346-396cf20dc8a4#ref=rss)
-### elijah
-
-* [https://www.spiegel.de/ausland/tod-nach-polizeieinsatz-in-den-usa-zwei-rettungssanitaeter-der-fahrlaessigen-toetung-von-elijah-mcclain-fuer-schuldig-befunden](https://www.spiegel.de/ausland/tod-nach-polizeieinsatz-in-den-usa-zwei-rettungssanitaeter-der-fahrlaessigen-toetung-von-elijah-mcclain-fuer-schuldig-befunden-a-eb911641-759f-415a-a346-396cf20dc8a4#ref=rss)
-### mcclain
-
-* [https://www.spiegel.de/ausland/tod-nach-polizeieinsatz-in-den-usa-zwei-rettungssanitaeter-der-fahrlaessigen-toetung-von-elijah-mcclain-fuer-schuldig-befunden](https://www.spiegel.de/ausland/tod-nach-polizeieinsatz-in-den-usa-zwei-rettungssanitaeter-der-fahrlaessigen-toetung-von-elijah-mcclain-fuer-schuldig-befunden-a-eb911641-759f-415a-a346-396cf20dc8a4#ref=rss)
-### vier
-
-* [https://www.spiegel.de/ausland/tod-nach-polizeieinsatz-in-den-usa-zwei-rettungssanitaeter-der-fahrlaessigen-toetung-von-elijah-mcclain-fuer-schuldig-befunden](https://www.spiegel.de/ausland/tod-nach-polizeieinsatz-in-den-usa-zwei-rettungssanitaeter-der-fahrlaessigen-toetung-von-elijah-mcclain-fuer-schuldig-befunden-a-eb911641-759f-415a-a346-396cf20dc8a4#ref=rss)
-* [https://www.spiegel.de/ausland/rotes-meer-die-gefaehrlichste-schiffspassage-der-welt](https://www.spiegel.de/ausland/rotes-meer-die-gefaehrlichste-schiffspassage-der-welt-a-eb254889-a53c-4205-b1cb-54fa33ae384e#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/israel-ex-mossad-agent-david-meidan-ueber-die-verhandlungen-zum-austausch-der-hamas-geiseln](https://www.spiegel.de/ausland/israel-ex-mossad-agent-david-meidan-ueber-die-verhandlungen-zum-austausch-der-hamas-geiseln-a-029f34a6-9b33-4c78-a9d2-2671b8e8d53c#ref=rss)
-* [https://www.spiegel.de/ausland/news-israel-hamas-gazastreifen-donald-trump-russland](https://www.spiegel.de/ausland/news-israel-hamas-gazastreifen-donald-trump-russland-a-8ce3445b-83bf-4aaf-8c4b-4487912cf779#ref=rss)
-### exmossadagent
-
-* [https://www.spiegel.de/ausland/israel-ex-mossad-agent-david-meidan-ueber-die-verhandlungen-zum-austausch-der-hamas-geiseln](https://www.spiegel.de/ausland/israel-ex-mossad-agent-david-meidan-ueber-die-verhandlungen-zum-austausch-der-hamas-geiseln-a-029f34a6-9b33-4c78-a9d2-2671b8e8d53c#ref=rss)
-### david
-
-* [https://www.spiegel.de/ausland/israel-ex-mossad-agent-david-meidan-ueber-die-verhandlungen-zum-austausch-der-hamas-geiseln](https://www.spiegel.de/ausland/israel-ex-mossad-agent-david-meidan-ueber-die-verhandlungen-zum-austausch-der-hamas-geiseln-a-029f34a6-9b33-4c78-a9d2-2671b8e8d53c#ref=rss)
-### meidan
-
-* [https://www.spiegel.de/ausland/israel-ex-mossad-agent-david-meidan-ueber-die-verhandlungen-zum-austausch-der-hamas-geiseln](https://www.spiegel.de/ausland/israel-ex-mossad-agent-david-meidan-ueber-die-verhandlungen-zum-austausch-der-hamas-geiseln-a-029f34a6-9b33-4c78-a9d2-2671b8e8d53c#ref=rss)
-### hamasgeiseln
-
-* [https://www.spiegel.de/ausland/israel-ex-mossad-agent-david-meidan-ueber-die-verhandlungen-zum-austausch-der-hamas-geiseln](https://www.spiegel.de/ausland/israel-ex-mossad-agent-david-meidan-ueber-die-verhandlungen-zum-austausch-der-hamas-geiseln-a-029f34a6-9b33-4c78-a9d2-2671b8e8d53c#ref=rss)
-### joel
-
-* [https://www.spiegel.de/sport/basketball/nba-joel-embiid-ist-auch-von-dennis-schroeder-nicht-zu-stoppen-und-schreibt-geschichte](https://www.spiegel.de/sport/basketball/nba-joel-embiid-ist-auch-von-dennis-schroeder-nicht-zu-stoppen-und-schreibt-geschichte-a-53dc5cd2-9d07-4d85-972a-d0b6135184f7#ref=rss)
-### embiid
-
-* [https://www.spiegel.de/sport/basketball/nba-joel-embiid-ist-auch-von-dennis-schroeder-nicht-zu-stoppen-und-schreibt-geschichte](https://www.spiegel.de/sport/basketball/nba-joel-embiid-ist-auch-von-dennis-schroeder-nicht-zu-stoppen-und-schreibt-geschichte-a-53dc5cd2-9d07-4d85-972a-d0b6135184f7#ref=rss)
-### dennis
-
-* [https://www.spiegel.de/sport/basketball/nba-joel-embiid-ist-auch-von-dennis-schroeder-nicht-zu-stoppen-und-schreibt-geschichte](https://www.spiegel.de/sport/basketball/nba-joel-embiid-ist-auch-von-dennis-schroeder-nicht-zu-stoppen-und-schreibt-geschichte-a-53dc5cd2-9d07-4d85-972a-d0b6135184f7#ref=rss)
-### schröder
-
-* [https://www.spiegel.de/sport/basketball/nba-joel-embiid-ist-auch-von-dennis-schroeder-nicht-zu-stoppen-und-schreibt-geschichte](https://www.spiegel.de/sport/basketball/nba-joel-embiid-ist-auch-von-dennis-schroeder-nicht-zu-stoppen-und-schreibt-geschichte-a-53dc5cd2-9d07-4d85-972a-d0b6135184f7#ref=rss)
-### krieg
-
-* [https://www.spiegel.de/ausland/krieg-in-nahost-generalsekretaer-guterres-gedenkt-getoeteter-uno-mitarbeiter-in-gaza](https://www.spiegel.de/ausland/krieg-in-nahost-generalsekretaer-guterres-gedenkt-getoeteter-uno-mitarbeiter-in-gaza-a-376b12a6-4105-47a3-8c2f-c102ec6222e5#ref=rss)
-### guterres
-
-* [https://www.spiegel.de/ausland/krieg-in-nahost-generalsekretaer-guterres-gedenkt-getoeteter-uno-mitarbeiter-in-gaza](https://www.spiegel.de/ausland/krieg-in-nahost-generalsekretaer-guterres-gedenkt-getoeteter-uno-mitarbeiter-in-gaza-a-376b12a6-4105-47a3-8c2f-c102ec6222e5#ref=rss)
-### unomitarbeiter
-
-* [https://www.spiegel.de/ausland/krieg-in-nahost-generalsekretaer-guterres-gedenkt-getoeteter-uno-mitarbeiter-in-gaza](https://www.spiegel.de/ausland/krieg-in-nahost-generalsekretaer-guterres-gedenkt-getoeteter-uno-mitarbeiter-in-gaza-a-376b12a6-4105-47a3-8c2f-c102ec6222e5#ref=rss)
-### frieden
-
-* [https://www.spiegel.de/ausland/demokratische-republik-kongo-wie-inselbewohner-durch-guten-sex-den-frieden-sichern](https://www.spiegel.de/ausland/demokratische-republik-kongo-wie-inselbewohner-durch-guten-sex-den-frieden-sichern-a-03c0d19f-58c9-439d-ac98-075d0caf9ec3#ref=rss)
-* [https://www.spiegel.de/ausland/news-israel-hamas-gazastreifen-donald-trump-russland](https://www.spiegel.de/ausland/news-israel-hamas-gazastreifen-donald-trump-russland-a-8ce3445b-83bf-4aaf-8c4b-4487912cf779#ref=rss)
-### sebastian
-
-* [https://www.spiegel.de/gesundheit/erholung-wie-wir-sinnvoll-pause-machen-podcast-mit-sebastian-altfeld-best-of-2023](https://www.spiegel.de/gesundheit/erholung-wie-wir-sinnvoll-pause-machen-podcast-mit-sebastian-altfeld-best-of-2023-a-13554f38-509a-4fc7-b1ea-f7c71a40ff16#ref=rss)
-### altfeld
-
-* [https://www.spiegel.de/gesundheit/erholung-wie-wir-sinnvoll-pause-machen-podcast-mit-sebastian-altfeld-best-of-2023](https://www.spiegel.de/gesundheit/erholung-wie-wir-sinnvoll-pause-machen-podcast-mit-sebastian-altfeld-best-of-2023-a-13554f38-509a-4fc7-b1ea-f7c71a40ff16#ref=rss)
-### alle
-
-* [https://www.spiegel.de/gesundheit/erholung-wie-wir-sinnvoll-pause-machen-podcast-mit-sebastian-altfeld-best-of-2023](https://www.spiegel.de/gesundheit/erholung-wie-wir-sinnvoll-pause-machen-podcast-mit-sebastian-altfeld-best-of-2023-a-13554f38-509a-4fc7-b1ea-f7c71a40ff16#ref=rss)
-* [https://www.spiegel.de/familie/weihnachten-13-familienregeln-fuer-harmonische-feiertage](https://www.spiegel.de/familie/weihnachten-13-familienregeln-fuer-harmonische-feiertage-a-84276ef3-9353-47b7-af93-28a71456ae28#ref=rss)
-### weihnachten
-
-* [https://www.spiegel.de/familie/weihnachten-13-familienregeln-fuer-harmonische-feiertage](https://www.spiegel.de/familie/weihnachten-13-familienregeln-fuer-harmonische-feiertage-a-84276ef3-9353-47b7-af93-28a71456ae28#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-vor-weihnachten-heftige-regenfaelle-und-schnee-erwartet](https://www.spiegel.de/panorama/wetter-vor-weihnachten-heftige-regenfaelle-und-schnee-erwartet-a-cc1f63b3-6937-4d8b-a381-5a1dd842f575#ref=rss)
-### halten
-
-* [https://www.spiegel.de/familie/weihnachten-13-familienregeln-fuer-harmonische-feiertage](https://www.spiegel.de/familie/weihnachten-13-familienregeln-fuer-harmonische-feiertage-a-84276ef3-9353-47b7-af93-28a71456ae28#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-erzielt-erfolg-vor-supreme-court-immunitaet-vorerst-kein-thema](https://www.spiegel.de/ausland/donald-trump-erzielt-erfolg-vor-supreme-court-immunitaet-vorerst-kein-thema-a-ad6ceb79-d2cf-4180-9315-120704cfda78#ref=rss)
-### westen
-
-* [https://www.spiegel.de/ausland/russland-sanktionen-der-neue-eiserne-vorhang-schliesst-sich-nur-fuer-den-westen](https://www.spiegel.de/ausland/russland-sanktionen-der-neue-eiserne-vorhang-schliesst-sich-nur-fuer-den-westen-a-a2f14d1a-4f3c-4fcd-b7fe-16b0ed04ab6e#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/ausland/russland-sanktionen-der-neue-eiserne-vorhang-schliesst-sich-nur-fuer-den-westen](https://www.spiegel.de/ausland/russland-sanktionen-der-neue-eiserne-vorhang-schliesst-sich-nur-fuer-den-westen-a-a2f14d1a-4f3c-4fcd-b7fe-16b0ed04ab6e#ref=rss)
-* [https://www.spiegel.de/sport/darts-wm-florian-hempel-nach-starker-aufholjagd-gegen-dimitri-van-den-bergh-in-runde-drei](https://www.spiegel.de/sport/darts-wm-florian-hempel-nach-starker-aufholjagd-gegen-dimitri-van-den-bergh-in-runde-drei-a-ebc68278-074c-40eb-b53e-395694e94843#ref=rss)
-### heuschnupfen
-
-* [https://www.spiegel.de/gesundheit/hilfe-bei-heuschnupfen-niemand-muss-diese-beschwerden-aushalten](https://www.spiegel.de/gesundheit/hilfe-bei-heuschnupfen-niemand-muss-diese-beschwerden-aushalten-a-988e33d2-77c1-4dd0-bce0-aea4e2cf795a#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/gesundheit/hilfe-bei-heuschnupfen-niemand-muss-diese-beschwerden-aushalten](https://www.spiegel.de/gesundheit/hilfe-bei-heuschnupfen-niemand-muss-diese-beschwerden-aushalten-a-988e33d2-77c1-4dd0-bce0-aea4e2cf795a#ref=rss)
-* [https://www.spiegel.de/kultur/musik/last-christmas-von-wham-erstmals-auf-platz-eins-der-britischen-weihnachtscharts](https://www.spiegel.de/kultur/musik/last-christmas-von-wham-erstmals-auf-platz-eins-der-britischen-weihnachtscharts-a-eb865647-a6ea-4efd-b505-f2f42edea04e#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/start/ausbildung-im-demenz-dorf-was-tun-gegen-die-pandemie-des-vergessens](https://www.spiegel.de/start/ausbildung-im-demenz-dorf-was-tun-gegen-die-pandemie-des-vergessens-a-81e65fa4-a1aa-4f0f-a80a-950b06dc65cd#ref=rss)
-* [https://www.spiegel.de/sport/fussball/manchester-city-sichert-sich-klub-wm-sieg-gegen-fluminense](https://www.spiegel.de/sport/fussball/manchester-city-sichert-sich-klub-wm-sieg-gegen-fluminense-a-bd21d10f-24fe-4f4e-934d-bb0e91110d1d#ref=rss)
-### davon
-
-* [https://www.spiegel.de/start/ausbildung-im-demenz-dorf-was-tun-gegen-die-pandemie-des-vergessens](https://www.spiegel.de/start/ausbildung-im-demenz-dorf-was-tun-gegen-die-pandemie-des-vergessens-a-81e65fa4-a1aa-4f0f-a80a-950b06dc65cd#ref=rss)
-* [https://www.spiegel.de/ausland/rotes-meer-die-gefaehrlichste-schiffspassage-der-welt](https://www.spiegel.de/ausland/rotes-meer-die-gefaehrlichste-schiffspassage-der-welt-a-eb254889-a53c-4205-b1cb-54fa33ae384e#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/news-israel-hamas-gazastreifen-donald-trump-russland](https://www.spiegel.de/ausland/news-israel-hamas-gazastreifen-donald-trump-russland-a-8ce3445b-83bf-4aaf-8c4b-4487912cf779#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-erzielt-erfolg-vor-supreme-court-immunitaet-vorerst-kein-thema](https://www.spiegel.de/ausland/donald-trump-erzielt-erfolg-vor-supreme-court-immunitaet-vorerst-kein-thema-a-ad6ceb79-d2cf-4180-9315-120704cfda78#ref=rss)
-### schnee
-
-* [https://www.spiegel.de/panorama/wetter-vor-weihnachten-heftige-regenfaelle-und-schnee-erwartet](https://www.spiegel.de/panorama/wetter-vor-weihnachten-heftige-regenfaelle-und-schnee-erwartet-a-cc1f63b3-6937-4d8b-a381-5a1dd842f575#ref=rss)
-### minuten
-
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-endstation-podcast-344-minuten-folge-4](https://www.spiegel.de/wirtschaft/deutsche-bahn-endstation-podcast-344-minuten-folge-4-a-0421b8e1-28c5-4c94-a046-43adf6c51650#ref=rss)
-* [https://www.spiegel.de/kultur/banksy-neues-kunstwerk-in-london-vermutlich-gestohlen](https://www.spiegel.de/kultur/banksy-neues-kunstwerk-in-london-vermutlich-gestohlen-a-3a59514f-cf27-4793-b5e3-8f0dd4334b04#ref=rss)
-### stunden
-
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-endstation-podcast-344-minuten-folge-4](https://www.spiegel.de/wirtschaft/deutsche-bahn-endstation-podcast-344-minuten-folge-4-a-0421b8e1-28c5-4c94-a046-43adf6c51650#ref=rss)
-### london
-
-* [https://www.spiegel.de/kultur/banksy-neues-kunstwerk-in-london-vermutlich-gestohlen](https://www.spiegel.de/kultur/banksy-neues-kunstwerk-in-london-vermutlich-gestohlen-a-3a59514f-cf27-4793-b5e3-8f0dd4334b04#ref=rss)
-### manchester
-
-* [https://www.spiegel.de/sport/fussball/manchester-city-sichert-sich-klub-wm-sieg-gegen-fluminense](https://www.spiegel.de/sport/fussball/manchester-city-sichert-sich-klub-wm-sieg-gegen-fluminense-a-bd21d10f-24fe-4f4e-934d-bb0e91110d1d#ref=rss)
-### city
-
-* [https://www.spiegel.de/sport/fussball/manchester-city-sichert-sich-klub-wm-sieg-gegen-fluminense](https://www.spiegel.de/sport/fussball/manchester-city-sichert-sich-klub-wm-sieg-gegen-fluminense-a-bd21d10f-24fe-4f4e-934d-bb0e91110d1d#ref=rss)
-### klubwm
-
-* [https://www.spiegel.de/sport/fussball/manchester-city-sichert-sich-klub-wm-sieg-gegen-fluminense](https://www.spiegel.de/sport/fussball/manchester-city-sichert-sich-klub-wm-sieg-gegen-fluminense-a-bd21d10f-24fe-4f4e-934d-bb0e91110d1d#ref=rss)
-### sieg
-
-* [https://www.spiegel.de/sport/fussball/manchester-city-sichert-sich-klub-wm-sieg-gegen-fluminense](https://www.spiegel.de/sport/fussball/manchester-city-sichert-sich-klub-wm-sieg-gegen-fluminense-a-bd21d10f-24fe-4f4e-934d-bb0e91110d1d#ref=rss)
-* [https://www.spiegel.de/sport/darts-wm-florian-hempel-nach-starker-aufholjagd-gegen-dimitri-van-den-bergh-in-runde-drei](https://www.spiegel.de/sport/darts-wm-florian-hempel-nach-starker-aufholjagd-gegen-dimitri-van-den-bergh-in-runde-drei-a-ebc68278-074c-40eb-b53e-395694e94843#ref=rss)
-### last
-
-* [https://www.spiegel.de/kultur/musik/last-christmas-von-wham-erstmals-auf-platz-eins-der-britischen-weihnachtscharts](https://www.spiegel.de/kultur/musik/last-christmas-von-wham-erstmals-auf-platz-eins-der-britischen-weihnachtscharts-a-eb865647-a6ea-4efd-b505-f2f42edea04e#ref=rss)
-### christmas
-
-* [https://www.spiegel.de/kultur/musik/last-christmas-von-wham-erstmals-auf-platz-eins-der-britischen-weihnachtscharts](https://www.spiegel.de/kultur/musik/last-christmas-von-wham-erstmals-auf-platz-eins-der-britischen-weihnachtscharts-a-eb865647-a6ea-4efd-b505-f2f42edea04e#ref=rss)
-### weihnachtscharts
-
-* [https://www.spiegel.de/kultur/musik/last-christmas-von-wham-erstmals-auf-platz-eins-der-britischen-weihnachtscharts](https://www.spiegel.de/kultur/musik/last-christmas-von-wham-erstmals-auf-platz-eins-der-britischen-weihnachtscharts-a-eb865647-a6ea-4efd-b505-f2f42edea04e#ref=rss)
-### charlie
-
-* [https://www.spiegel.de/panorama/leute/charlie-sheen-frau-attackiert-two-and-a-half-men-star-in-seinem-haus](https://www.spiegel.de/panorama/leute/charlie-sheen-frau-attackiert-two-and-a-half-men-star-in-seinem-haus-a-e912403a-7ae8-49f8-91b5-77261ca7b4e8#ref=rss)
-### sheen
-
-* [https://www.spiegel.de/panorama/leute/charlie-sheen-frau-attackiert-two-and-a-half-men-star-in-seinem-haus](https://www.spiegel.de/panorama/leute/charlie-sheen-frau-attackiert-two-and-a-half-men-star-in-seinem-haus-a-e912403a-7ae8-49f8-91b5-77261ca7b4e8#ref=rss)
-### haus
-
-* [https://www.spiegel.de/panorama/leute/charlie-sheen-frau-attackiert-two-and-a-half-men-star-in-seinem-haus](https://www.spiegel.de/panorama/leute/charlie-sheen-frau-attackiert-two-and-a-half-men-star-in-seinem-haus-a-e912403a-7ae8-49f8-91b5-77261ca7b4e8#ref=rss)
-### supreme
-
-* [https://www.spiegel.de/ausland/donald-trump-erzielt-erfolg-vor-supreme-court-immunitaet-vorerst-kein-thema](https://www.spiegel.de/ausland/donald-trump-erzielt-erfolg-vor-supreme-court-immunitaet-vorerst-kein-thema-a-ad6ceb79-d2cf-4180-9315-120704cfda78#ref=rss)
-### court
-
-* [https://www.spiegel.de/ausland/donald-trump-erzielt-erfolg-vor-supreme-court-immunitaet-vorerst-kein-thema](https://www.spiegel.de/ausland/donald-trump-erzielt-erfolg-vor-supreme-court-immunitaet-vorerst-kein-thema-a-ad6ceb79-d2cf-4180-9315-120704cfda78#ref=rss)
-### immunität
-
-* [https://www.spiegel.de/ausland/donald-trump-erzielt-erfolg-vor-supreme-court-immunitaet-vorerst-kein-thema](https://www.spiegel.de/ausland/donald-trump-erzielt-erfolg-vor-supreme-court-immunitaet-vorerst-kein-thema-a-ad6ceb79-d2cf-4180-9315-120704cfda78#ref=rss)
-### florian
-
-* [https://www.spiegel.de/sport/darts-wm-florian-hempel-nach-starker-aufholjagd-gegen-dimitri-van-den-bergh-in-runde-drei](https://www.spiegel.de/sport/darts-wm-florian-hempel-nach-starker-aufholjagd-gegen-dimitri-van-den-bergh-in-runde-drei-a-ebc68278-074c-40eb-b53e-395694e94843#ref=rss)
-### hempel
-
-* [https://www.spiegel.de/sport/darts-wm-florian-hempel-nach-starker-aufholjagd-gegen-dimitri-van-den-bergh-in-runde-drei](https://www.spiegel.de/sport/darts-wm-florian-hempel-nach-starker-aufholjagd-gegen-dimitri-van-den-bergh-in-runde-drei-a-ebc68278-074c-40eb-b53e-395694e94843#ref=rss)
-### john
-
-* [https://www.spiegel.de/politik/deutschland/john-kornblum-ehemaliger-us-botschafter-in-deutschland-ist-tot](https://www.spiegel.de/politik/deutschland/john-kornblum-ehemaliger-us-botschafter-in-deutschland-ist-tot-a-5c59ae73-229e-4993-898b-72d84d8de370#ref=rss)
-### kornblum
-
-* [https://www.spiegel.de/politik/deutschland/john-kornblum-ehemaliger-us-botschafter-in-deutschland-ist-tot](https://www.spiegel.de/politik/deutschland/john-kornblum-ehemaliger-us-botschafter-in-deutschland-ist-tot-a-5c59ae73-229e-4993-898b-72d84d8de370#ref=rss)
 
