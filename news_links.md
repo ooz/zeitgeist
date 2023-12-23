@@ -4,289 +4,259 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### gericht
+### menschen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/harry-potter-zug-echter-hogwarts-express-erleidet-schlappe-vor-gericht](https://www.spiegel.de/wirtschaft/unternehmen/harry-potter-zug-echter-hogwarts-express-erleidet-schlappe-vor-gericht-a-b8fc41d9-b8db-4f3c-8f6c-5de5589bd793#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/hoevding-hersteller-des-airbag-helms-fuers-rad-ist-insolvent](https://www.spiegel.de/wirtschaft/unternehmen/hoevding-hersteller-des-airbag-helms-fuers-rad-ist-insolvent-a-0d604b01-56c9-46fc-9cf3-5f5b5bed4f72#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/pornhub-konzern-zahlt-millionen-wegen-verbreitung-erzwungener-aufnahmen](https://www.spiegel.de/netzwelt/web/pornhub-konzern-zahlt-millionen-wegen-verbreitung-erzwungener-aufnahmen-a-def235fe-7c46-48ad-83a3-33ba1d16a21f#ref=rss)
-* [https://www.spiegel.de/panorama/jens-lehmann-gericht-verurteilt-ex-nationaltorwart-zu-geldstrafe](https://www.spiegel.de/panorama/jens-lehmann-gericht-verurteilt-ex-nationaltorwart-zu-geldstrafe-a-1d0dac11-b9f8-4156-bab7-880f69cfe8ca#ref=rss)
+* [https://www.spiegel.de/panorama/kadewe-in-berlin-wo-ein-to-go-kaffeebecher-200-euro-kostet](https://www.spiegel.de/panorama/kadewe-in-berlin-wo-ein-to-go-kaffeebecher-200-euro-kostet-a-19664431-9259-449e-b6ce-48c006711d68#ref=rss)
+* [https://www.spiegel.de/gesundheit/diagnose/long-covid-und-post-vac-die-pandemie-ist-vorbei-aber-nicht-fuer-uns](https://www.spiegel.de/gesundheit/diagnose/long-covid-und-post-vac-die-pandemie-ist-vorbei-aber-nicht-fuer-uns-a-085358d7-66f5-42be-8ddb-103fb57b0334#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-nahost-generalsekretaer-guterres-gedenkt-getoeteter-uno-mitarbeiter-in-gaza](https://www.spiegel.de/ausland/krieg-in-nahost-generalsekretaer-guterres-gedenkt-getoeteter-uno-mitarbeiter-in-gaza-a-376b12a6-4105-47a3-8c2f-c102ec6222e5#ref=rss)
+* [https://www.spiegel.de/start/ausbildung-im-demenz-dorf-was-tun-gegen-die-pandemie-des-vergessens](https://www.spiegel.de/start/ausbildung-im-demenz-dorf-was-tun-gegen-die-pandemie-des-vergessens-a-81e65fa4-a1aa-4f0f-a80a-950b06dc65cd#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/sport/fussball/wechsel-zu-inter-miami-luis-suarez-und-lionel-messi-sind-wieder-vereint](https://www.spiegel.de/sport/fussball/wechsel-zu-inter-miami-luis-suarez-und-lionel-messi-sind-wieder-vereint-a-94434da6-706d-42cf-be31-81e54ca0d0da#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-politikertreppe-und-olaf-scholz-kreuzberg-und-friedrich-merz](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-politikertreppe-und-olaf-scholz-kreuzberg-und-friedrich-merz-a-181ddc54-d37c-49f4-9641-fd14434087e8#ref=rss)
-* [https://www.spiegel.de/ausland/nahost-palaestinenserbehoerde-erhaelt-millionenbetrag-von-der-eu](https://www.spiegel.de/ausland/nahost-palaestinenserbehoerde-erhaelt-millionenbetrag-von-der-eu-a-060d3517-d767-4862-9867-af83920e3d50#ref=rss)
-* [https://www.spiegel.de/sport/fussball/steffen-baumgart-bo-svensson-urs-fischer-drei-aussergewoehnliche-trainerwechsel](https://www.spiegel.de/sport/fussball/steffen-baumgart-bo-svensson-urs-fischer-drei-aussergewoehnliche-trainerwechsel-a-73e056e5-9ada-48ca-bfa6-0b5a1bdce596#ref=rss)
-* [https://www.spiegel.de/panorama/rheinland-pfalz-beamter-wurde-jahrelang-fuers-nichtstun-bezahlt](https://www.spiegel.de/panorama/rheinland-pfalz-beamter-wurde-jahrelang-fuers-nichtstun-bezahlt-a-ab9329b5-4e03-4290-b0c5-9f679ec06727#ref=rss)
-### weihnachten
-
-* [https://www.spiegel.de/wissenschaft/natur/schnee-an-weihnachten-daten-zeigen-wie-selten-das-ist](https://www.spiegel.de/wissenschaft/natur/schnee-an-weihnachten-daten-zeigen-wie-selten-das-ist-a-99217790-6a8f-4d4e-8fdd-90f141fdc0a4#ref=rss)
-* [https://www.spiegel.de/panorama/sturmtief-zoltan-sturmflut-hochwasser-umgestuerzte-baeume](https://www.spiegel.de/panorama/sturmtief-zoltan-sturmflut-hochwasser-umgestuerzte-baeume-a-020eebdc-7aa1-49b8-82e4-bdd199c75195#ref=rss)
-* [https://www.spiegel.de/auto/zoltan-was-autofahrer-tun-muessen-um-nicht-von-der-strasse-geweht-zu-werden](https://www.spiegel.de/auto/zoltan-was-autofahrer-tun-muessen-um-nicht-von-der-strasse-geweht-zu-werden-a-5dd72edd-a610-430a-84b8-98bb02166898#ref=rss)
-* [https://www.spiegel.de/stil/cocktail-empfehlungen-zu-weihnachten-wie-gluehwein-mit-tortillachips](https://www.spiegel.de/stil/cocktail-empfehlungen-zu-weihnachten-wie-gluehwein-mit-tortillachips-a-661a8e81-f9e9-4a3d-82f8-59e4396e4b4c#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/panorama/justiz/mordfall-jutta-in-lindenfels-taeter-nach-37-jahren-verurteilt](https://www.spiegel.de/panorama/justiz/mordfall-jutta-in-lindenfels-taeter-nach-37-jahren-verurteilt-a-7be36e6e-8912-4a98-9f74-6ec67bbd8d4b#ref=rss)
-* [https://www.spiegel.de/panorama/jens-lehmann-gericht-verurteilt-ex-nationaltorwart-zu-geldstrafe](https://www.spiegel.de/panorama/jens-lehmann-gericht-verurteilt-ex-nationaltorwart-zu-geldstrafe-a-1d0dac11-b9f8-4156-bab7-880f69cfe8ca#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/panorama/justiz/mordfall-jutta-in-lindenfels-taeter-nach-37-jahren-verurteilt](https://www.spiegel.de/panorama/justiz/mordfall-jutta-in-lindenfels-taeter-nach-37-jahren-verurteilt-a-7be36e6e-8912-4a98-9f74-6ec67bbd8d4b#ref=rss)
-* [https://www.spiegel.de/stil/cocktail-empfehlungen-zu-weihnachten-wie-gluehwein-mit-tortillachips](https://www.spiegel.de/stil/cocktail-empfehlungen-zu-weihnachten-wie-gluehwein-mit-tortillachips-a-661a8e81-f9e9-4a3d-82f8-59e4396e4b4c#ref=rss)
-* [https://www.spiegel.de/sport/hockey-deutschland-feiert-zwei-wm-titel-in-einem-jahr](https://www.spiegel.de/sport/hockey-deutschland-feiert-zwei-wm-titel-in-einem-jahr-a-ea5f0f56-c28b-4fbc-a6e8-b1bf17fcd0c4#ref=rss)
-### zoltan
-
-* [https://www.spiegel.de/panorama/sturmtief-zoltan-sturmflut-hochwasser-umgestuerzte-baeume](https://www.spiegel.de/panorama/sturmtief-zoltan-sturmflut-hochwasser-umgestuerzte-baeume-a-020eebdc-7aa1-49b8-82e4-bdd199c75195#ref=rss)
-* [https://www.spiegel.de/auto/zoltan-was-autofahrer-tun-muessen-um-nicht-von-der-strasse-geweht-zu-werden](https://www.spiegel.de/auto/zoltan-was-autofahrer-tun-muessen-um-nicht-von-der-strasse-geweht-zu-werden-a-5dd72edd-a610-430a-84b8-98bb02166898#ref=rss)
-### messi
-
-* [https://www.spiegel.de/sport/fussball/wechsel-zu-inter-miami-luis-suarez-und-lionel-messi-sind-wieder-vereint](https://www.spiegel.de/sport/fussball/wechsel-zu-inter-miami-luis-suarez-und-lionel-messi-sind-wieder-vereint-a-94434da6-706d-42cf-be31-81e54ca0d0da#ref=rss)
-### news
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-politikertreppe-und-olaf-scholz-kreuzberg-und-friedrich-merz](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-politikertreppe-und-olaf-scholz-kreuzberg-und-friedrich-merz-a-181ddc54-d37c-49f4-9641-fd14434087e8#ref=rss)
-* [https://www.spiegel.de/politik/europawahl-experten-warnen-vor-fake-news-aus-russland](https://www.spiegel.de/politik/europawahl-experten-warnen-vor-fake-news-aus-russland-a-ce49e18e-5b2c-4095-b7cc-0e03f691b888#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-politikertreppe-und-olaf-scholz-kreuzberg-und-friedrich-merz](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-politikertreppe-und-olaf-scholz-kreuzberg-und-friedrich-merz-a-181ddc54-d37c-49f4-9641-fd14434087e8#ref=rss)
-* [https://www.spiegel.de/panorama/sturmtief-zoltan-sturmflut-hochwasser-umgestuerzte-baeume](https://www.spiegel.de/panorama/sturmtief-zoltan-sturmflut-hochwasser-umgestuerzte-baeume-a-020eebdc-7aa1-49b8-82e4-bdd199c75195#ref=rss)
-* [https://www.spiegel.de/sport/hockey-deutschland-feiert-zwei-wm-titel-in-einem-jahr](https://www.spiegel.de/sport/hockey-deutschland-feiert-zwei-wm-titel-in-einem-jahr-a-ea5f0f56-c28b-4fbc-a6e8-b1bf17fcd0c4#ref=rss)
-### fürs
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/hoevding-hersteller-des-airbag-helms-fuers-rad-ist-insolvent](https://www.spiegel.de/wirtschaft/unternehmen/hoevding-hersteller-des-airbag-helms-fuers-rad-ist-insolvent-a-0d604b01-56c9-46fc-9cf3-5f5b5bed4f72#ref=rss)
-* [https://www.spiegel.de/panorama/rheinland-pfalz-beamter-wurde-jahrelang-fuers-nichtstun-bezahlt](https://www.spiegel.de/panorama/rheinland-pfalz-beamter-wurde-jahrelang-fuers-nichtstun-bezahlt-a-ab9329b5-4e03-4290-b0c5-9f679ec06727#ref=rss)
-### drei
-
-* [https://www.spiegel.de/panorama/moers-am-niederrhein-14-jaehriger-nach-unfall-zurueckgelassen-und-gestorben](https://www.spiegel.de/panorama/moers-am-niederrhein-14-jaehriger-nach-unfall-zurueckgelassen-und-gestorben-a-6d62c2e8-d004-4cb7-92d1-e1b6532b929c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/steffen-baumgart-bo-svensson-urs-fischer-drei-aussergewoehnliche-trainerwechsel](https://www.spiegel.de/sport/fussball/steffen-baumgart-bo-svensson-urs-fischer-drei-aussergewoehnliche-trainerwechsel-a-73e056e5-9ada-48ca-bfa6-0b5a1bdce596#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-das-sind-die-besten-weihnachtspullis-der-klubs](https://www.spiegel.de/sport/fussball/fussball-bundesliga-das-sind-die-besten-weihnachtspullis-der-klubs-a-ea20accc-299d-4334-81c3-5b0586f6cdae#ref=rss)
-* [https://www.spiegel.de/sport/hockey-deutschland-feiert-zwei-wm-titel-in-einem-jahr](https://www.spiegel.de/sport/hockey-deutschland-feiert-zwei-wm-titel-in-einem-jahr-a-ea5f0f56-c28b-4fbc-a6e8-b1bf17fcd0c4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/visa-vergabe-viele-studierende-aus-afrika-gelangen-nur-schwer-an-deutschen-aufenthaltstitel](https://www.spiegel.de/politik/deutschland/visa-vergabe-viele-studierende-aus-afrika-gelangen-nur-schwer-an-deutschen-aufenthaltstitel-a-3ba362f3-9c23-4e6b-b631-10c0d9f50456#ref=rss)
-### zeigen
-
-* [https://www.spiegel.de/wissenschaft/natur/schnee-an-weihnachten-daten-zeigen-wie-selten-das-ist](https://www.spiegel.de/wissenschaft/natur/schnee-an-weihnachten-daten-zeigen-wie-selten-das-ist-a-99217790-6a8f-4d4e-8fdd-90f141fdc0a4#ref=rss)
-* [https://www.spiegel.de/panorama/sturmtief-zoltan-sturmflut-hochwasser-umgestuerzte-baeume](https://www.spiegel.de/panorama/sturmtief-zoltan-sturmflut-hochwasser-umgestuerzte-baeume-a-020eebdc-7aa1-49b8-82e4-bdd199c75195#ref=rss)
-### bezahlt
-
-* [https://www.spiegel.de/ausland/nahost-palaestinenserbehoerde-erhaelt-millionenbetrag-von-der-eu](https://www.spiegel.de/ausland/nahost-palaestinenserbehoerde-erhaelt-millionenbetrag-von-der-eu-a-060d3517-d767-4862-9867-af83920e3d50#ref=rss)
-* [https://www.spiegel.de/panorama/rheinland-pfalz-beamter-wurde-jahrelang-fuers-nichtstun-bezahlt](https://www.spiegel.de/panorama/rheinland-pfalz-beamter-wurde-jahrelang-fuers-nichtstun-bezahlt-a-ab9329b5-4e03-4290-b0c5-9f679ec06727#ref=rss)
-### sturmtief
-
-* [https://www.spiegel.de/panorama/sturmtief-zoltan-sturmflut-hochwasser-umgestuerzte-baeume](https://www.spiegel.de/panorama/sturmtief-zoltan-sturmflut-hochwasser-umgestuerzte-baeume-a-020eebdc-7aa1-49b8-82e4-bdd199c75195#ref=rss)
-* [https://www.spiegel.de/auto/zoltan-was-autofahrer-tun-muessen-um-nicht-von-der-strasse-geweht-zu-werden](https://www.spiegel.de/auto/zoltan-was-autofahrer-tun-muessen-um-nicht-von-der-strasse-geweht-zu-werden-a-5dd72edd-a610-430a-84b8-98bb02166898#ref=rss)
-### harry
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/harry-potter-zug-echter-hogwarts-express-erleidet-schlappe-vor-gericht](https://www.spiegel.de/wirtschaft/unternehmen/harry-potter-zug-echter-hogwarts-express-erleidet-schlappe-vor-gericht-a-b8fc41d9-b8db-4f3c-8f6c-5de5589bd793#ref=rss)
-### unosicherheitsrat
-
-* [https://www.spiegel.de/ausland/uno-sicherheitsrat-verlangt-umfassende-humanitaere-hilfe-fuer-gaza](https://www.spiegel.de/ausland/uno-sicherheitsrat-verlangt-umfassende-humanitaere-hilfe-fuer-gaza-a-9902e653-58ba-44b8-95a6-3f7b670c7981#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/uno-sicherheitsrat-verlangt-umfassende-humanitaere-hilfe-fuer-gaza](https://www.spiegel.de/ausland/uno-sicherheitsrat-verlangt-umfassende-humanitaere-hilfe-fuer-gaza-a-9902e653-58ba-44b8-95a6-3f7b670c7981#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-politikertreppe-und-olaf-scholz-kreuzberg-und-friedrich-merz](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-politikertreppe-und-olaf-scholz-kreuzberg-und-friedrich-merz-a-181ddc54-d37c-49f4-9641-fd14434087e8#ref=rss)
-### täter
-
-* [https://www.spiegel.de/panorama/justiz/mordfall-jutta-in-lindenfels-taeter-nach-37-jahren-verurteilt](https://www.spiegel.de/panorama/justiz/mordfall-jutta-in-lindenfels-taeter-nach-37-jahren-verurteilt-a-7be36e6e-8912-4a98-9f74-6ec67bbd8d4b#ref=rss)
-* [https://www.spiegel.de/panorama/jens-lehmann-gericht-verurteilt-ex-nationaltorwart-zu-geldstrafe](https://www.spiegel.de/panorama/jens-lehmann-gericht-verurteilt-ex-nationaltorwart-zu-geldstrafe-a-1d0dac11-b9f8-4156-bab7-880f69cfe8ca#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/panorama/justiz/mordfall-jutta-in-lindenfels-taeter-nach-37-jahren-verurteilt](https://www.spiegel.de/panorama/justiz/mordfall-jutta-in-lindenfels-taeter-nach-37-jahren-verurteilt-a-7be36e6e-8912-4a98-9f74-6ec67bbd8d4b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/schnee-an-weihnachten-daten-zeigen-wie-selten-das-ist](https://www.spiegel.de/wissenschaft/natur/schnee-an-weihnachten-daten-zeigen-wie-selten-das-ist-a-99217790-6a8f-4d4e-8fdd-90f141fdc0a4#ref=rss)
-### miami
-
-* [https://www.spiegel.de/sport/fussball/wechsel-zu-inter-miami-luis-suarez-und-lionel-messi-sind-wieder-vereint](https://www.spiegel.de/sport/fussball/wechsel-zu-inter-miami-luis-suarez-und-lionel-messi-sind-wieder-vereint-a-94434da6-706d-42cf-be31-81e54ca0d0da#ref=rss)
-### luis
-
-* [https://www.spiegel.de/sport/fussball/wechsel-zu-inter-miami-luis-suarez-und-lionel-messi-sind-wieder-vereint](https://www.spiegel.de/sport/fussball/wechsel-zu-inter-miami-luis-suarez-und-lionel-messi-sind-wieder-vereint-a-94434da6-706d-42cf-be31-81e54ca0d0da#ref=rss)
-### suárez
-
-* [https://www.spiegel.de/sport/fussball/wechsel-zu-inter-miami-luis-suarez-und-lionel-messi-sind-wieder-vereint](https://www.spiegel.de/sport/fussball/wechsel-zu-inter-miami-luis-suarez-und-lionel-messi-sind-wieder-vereint-a-94434da6-706d-42cf-be31-81e54ca0d0da#ref=rss)
-### lionel
-
-* [https://www.spiegel.de/sport/fussball/wechsel-zu-inter-miami-luis-suarez-und-lionel-messi-sind-wieder-vereint](https://www.spiegel.de/sport/fussball/wechsel-zu-inter-miami-luis-suarez-und-lionel-messi-sind-wieder-vereint-a-94434da6-706d-42cf-be31-81e54ca0d0da#ref=rss)
-### titel
-
-* [https://www.spiegel.de/sport/fussball/wechsel-zu-inter-miami-luis-suarez-und-lionel-messi-sind-wieder-vereint](https://www.spiegel.de/sport/fussball/wechsel-zu-inter-miami-luis-suarez-und-lionel-messi-sind-wieder-vereint-a-94434da6-706d-42cf-be31-81e54ca0d0da#ref=rss)
-### schababmiliz
-
-* [https://www.spiegel.de/ausland/ranghohes-mitglied-der-schabab-miliz-bei-us-luftangriff-in-somalia-getoetet](https://www.spiegel.de/ausland/ranghohes-mitglied-der-schabab-miliz-bei-us-luftangriff-in-somalia-getoetet-a-b22bbe27-328e-4cf4-91f1-0a29ac2b69c7#ref=rss)
-### getötet
-
-* [https://www.spiegel.de/ausland/ranghohes-mitglied-der-schabab-miliz-bei-us-luftangriff-in-somalia-getoetet](https://www.spiegel.de/ausland/ranghohes-mitglied-der-schabab-miliz-bei-us-luftangriff-in-somalia-getoetet-a-b22bbe27-328e-4cf4-91f1-0a29ac2b69c7#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/ausland/ranghohes-mitglied-der-schabab-miliz-bei-us-luftangriff-in-somalia-getoetet](https://www.spiegel.de/ausland/ranghohes-mitglied-der-schabab-miliz-bei-us-luftangriff-in-somalia-getoetet-a-b22bbe27-328e-4cf4-91f1-0a29ac2b69c7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/hoevding-hersteller-des-airbag-helms-fuers-rad-ist-insolvent](https://www.spiegel.de/wirtschaft/unternehmen/hoevding-hersteller-des-airbag-helms-fuers-rad-ist-insolvent-a-0d604b01-56c9-46fc-9cf3-5f5b5bed4f72#ref=rss)
-### diamanten
-
-* [https://www.spiegel.de/wissenschaft/technik/diamanten-die-aus-dem-labor-sind-den-natuerlichen-ebenbuertig](https://www.spiegel.de/wissenschaft/technik/diamanten-die-aus-dem-labor-sind-den-natuerlichen-ebenbuertig-a-91a344c9-80d4-4b9d-b0aa-59b4d5253d44#ref=rss)
-### labor
-
-* [https://www.spiegel.de/wissenschaft/technik/diamanten-die-aus-dem-labor-sind-den-natuerlichen-ebenbuertig](https://www.spiegel.de/wissenschaft/technik/diamanten-die-aus-dem-labor-sind-den-natuerlichen-ebenbuertig-a-91a344c9-80d4-4b9d-b0aa-59b4d5253d44#ref=rss)
-### juden
-
-* [https://www.spiegel.de/ausland/nahostkonflikt-wie-der-konflikt-zwischen-juden-und-palaestinensern-entstand-podcast](https://www.spiegel.de/ausland/nahostkonflikt-wie-der-konflikt-zwischen-juden-und-palaestinensern-entstand-podcast-a-d58b34c5-415d-46ef-a6da-d99b19c6cc2b#ref=rss)
-### palästinensern
-
-* [https://www.spiegel.de/ausland/nahostkonflikt-wie-der-konflikt-zwischen-juden-und-palaestinensern-entstand-podcast](https://www.spiegel.de/ausland/nahostkonflikt-wie-der-konflikt-zwischen-juden-und-palaestinensern-entstand-podcast-a-d58b34c5-415d-46ef-a6da-d99b19c6cc2b#ref=rss)
-### geschichte
-
-* [https://www.spiegel.de/ausland/nahostkonflikt-wie-der-konflikt-zwischen-juden-und-palaestinensern-entstand-podcast](https://www.spiegel.de/ausland/nahostkonflikt-wie-der-konflikt-zwischen-juden-und-palaestinensern-entstand-podcast-a-d58b34c5-415d-46ef-a6da-d99b19c6cc2b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/hoevding-hersteller-des-airbag-helms-fuers-rad-ist-insolvent](https://www.spiegel.de/wirtschaft/unternehmen/hoevding-hersteller-des-airbag-helms-fuers-rad-ist-insolvent-a-0d604b01-56c9-46fc-9cf3-5f5b5bed4f72#ref=rss)
-### politikertreppe
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-politikertreppe-und-olaf-scholz-kreuzberg-und-friedrich-merz](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-politikertreppe-und-olaf-scholz-kreuzberg-und-friedrich-merz-a-181ddc54-d37c-49f4-9641-fd14434087e8#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-politikertreppe-und-olaf-scholz-kreuzberg-und-friedrich-merz](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-politikertreppe-und-olaf-scholz-kreuzberg-und-friedrich-merz-a-181ddc54-d37c-49f4-9641-fd14434087e8#ref=rss)
-### kreuzberg
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-politikertreppe-und-olaf-scholz-kreuzberg-und-friedrich-merz](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-politikertreppe-und-olaf-scholz-kreuzberg-und-friedrich-merz-a-181ddc54-d37c-49f4-9641-fd14434087e8#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-politikertreppe-und-olaf-scholz-kreuzberg-und-friedrich-merz](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-politikertreppe-und-olaf-scholz-kreuzberg-und-friedrich-merz-a-181ddc54-d37c-49f4-9641-fd14434087e8#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-politikertreppe-und-olaf-scholz-kreuzberg-und-friedrich-merz](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-politikertreppe-und-olaf-scholz-kreuzberg-und-friedrich-merz-a-181ddc54-d37c-49f4-9641-fd14434087e8#ref=rss)
-### japan
-
-* [https://www.spiegel.de/ausland/furoshiki-verpackungskunst-in-japan-und-suedkorea](https://www.spiegel.de/ausland/furoshiki-verpackungskunst-in-japan-und-suedkorea-a-43bb9b10-d651-45b2-82ca-806436e20afd#ref=rss)
-### südkorea
-
-* [https://www.spiegel.de/ausland/furoshiki-verpackungskunst-in-japan-und-suedkorea](https://www.spiegel.de/ausland/furoshiki-verpackungskunst-in-japan-und-suedkorea-a-43bb9b10-d651-45b2-82ca-806436e20afd#ref=rss)
-### hövding
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/hoevding-hersteller-des-airbag-helms-fuers-rad-ist-insolvent](https://www.spiegel.de/wirtschaft/unternehmen/hoevding-hersteller-des-airbag-helms-fuers-rad-ist-insolvent-a-0d604b01-56c9-46fc-9cf3-5f5b5bed4f72#ref=rss)
-### hersteller
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/hoevding-hersteller-des-airbag-helms-fuers-rad-ist-insolvent](https://www.spiegel.de/wirtschaft/unternehmen/hoevding-hersteller-des-airbag-helms-fuers-rad-ist-insolvent-a-0d604b01-56c9-46fc-9cf3-5f5b5bed4f72#ref=rss)
-### moers
-
-* [https://www.spiegel.de/panorama/moers-am-niederrhein-14-jaehriger-nach-unfall-zurueckgelassen-und-gestorben](https://www.spiegel.de/panorama/moers-am-niederrhein-14-jaehriger-nach-unfall-zurueckgelassen-und-gestorben-a-6d62c2e8-d004-4cb7-92d1-e1b6532b929c#ref=rss)
-### 14jähriger
-
-* [https://www.spiegel.de/panorama/moers-am-niederrhein-14-jaehriger-nach-unfall-zurueckgelassen-und-gestorben](https://www.spiegel.de/panorama/moers-am-niederrhein-14-jaehriger-nach-unfall-zurueckgelassen-und-gestorben-a-6d62c2e8-d004-4cb7-92d1-e1b6532b929c#ref=rss)
-### unfall
-
-* [https://www.spiegel.de/panorama/moers-am-niederrhein-14-jaehriger-nach-unfall-zurueckgelassen-und-gestorben](https://www.spiegel.de/panorama/moers-am-niederrhein-14-jaehriger-nach-unfall-zurueckgelassen-und-gestorben-a-6d62c2e8-d004-4cb7-92d1-e1b6532b929c#ref=rss)
-### zurückgelassen
-
-* [https://www.spiegel.de/panorama/moers-am-niederrhein-14-jaehriger-nach-unfall-zurueckgelassen-und-gestorben](https://www.spiegel.de/panorama/moers-am-niederrhein-14-jaehriger-nach-unfall-zurueckgelassen-und-gestorben-a-6d62c2e8-d004-4cb7-92d1-e1b6532b929c#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/panorama/moers-am-niederrhein-14-jaehriger-nach-unfall-zurueckgelassen-und-gestorben](https://www.spiegel.de/panorama/moers-am-niederrhein-14-jaehriger-nach-unfall-zurueckgelassen-und-gestorben-a-6d62c2e8-d004-4cb7-92d1-e1b6532b929c#ref=rss)
-### zeit
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-das-sind-die-besten-weihnachtspullis-der-klubs](https://www.spiegel.de/sport/fussball/fussball-bundesliga-das-sind-die-besten-weihnachtspullis-der-klubs-a-ea20accc-299d-4334-81c3-5b0586f6cdae#ref=rss)
-* [https://www.spiegel.de/deinspiegel/bastelideen-fuer-kinder-last-minute-geschenke-selber-machen](https://www.spiegel.de/deinspiegel/bastelideen-fuer-kinder-last-minute-geschenke-selber-machen-a-f0551933-04d3-4110-bdfc-2051773654bc#ref=rss)
-### linke
-
-* [https://www.spiegel.de/ausland/israel-linke-nach-dem-hamas-angriff-glaube-nicht-dass-wir-noch-ueber-frieden-sprechen-koennen](https://www.spiegel.de/ausland/israel-linke-nach-dem-hamas-angriff-glaube-nicht-dass-wir-noch-ueber-frieden-sprechen-koennen-a-1ebbf066-9277-44d2-b42c-1cd2ce41cade#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/visa-vergabe-viele-studierende-aus-afrika-gelangen-nur-schwer-an-deutschen-aufenthaltstitel](https://www.spiegel.de/politik/deutschland/visa-vergabe-viele-studierende-aus-afrika-gelangen-nur-schwer-an-deutschen-aufenthaltstitel-a-3ba362f3-9c23-4e6b-b631-10c0d9f50456#ref=rss)
+* [https://www.spiegel.de/wissenschaft/forschung-uv-sehen-hilft-rentieren-bei-lieblingsfuttersuche](https://www.spiegel.de/wissenschaft/forschung-uv-sehen-hilft-rentieren-bei-lieblingsfuttersuche-a-e7944cd5-f2f4-419b-a54c-149def3db2a6#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-joel-embiid-ist-auch-von-dennis-schroeder-nicht-zu-stoppen-und-schreibt-geschichte](https://www.spiegel.de/sport/basketball/nba-joel-embiid-ist-auch-von-dennis-schroeder-nicht-zu-stoppen-und-schreibt-geschichte-a-53dc5cd2-9d07-4d85-972a-d0b6135184f7#ref=rss)
+* [https://www.spiegel.de/gesundheit/hilfe-bei-heuschnupfen-niemand-muss-diese-beschwerden-aushalten](https://www.spiegel.de/gesundheit/hilfe-bei-heuschnupfen-niemand-muss-diese-beschwerden-aushalten-a-988e33d2-77c1-4dd0-bce0-aea4e2cf795a#ref=rss)
+* [https://www.spiegel.de/start/ausbildung-im-demenz-dorf-was-tun-gegen-die-pandemie-des-vergessens](https://www.spiegel.de/start/ausbildung-im-demenz-dorf-was-tun-gegen-die-pandemie-des-vergessens-a-81e65fa4-a1aa-4f0f-a80a-950b06dc65cd#ref=rss)
+* [https://www.spiegel.de/ausland/rotes-meer-die-gefaehrlichste-schiffspassage-der-welt](https://www.spiegel.de/ausland/rotes-meer-die-gefaehrlichste-schiffspassage-der-welt-a-eb254889-a53c-4205-b1cb-54fa33ae384e#ref=rss)
 ### wir
 
-* [https://www.spiegel.de/ausland/israel-linke-nach-dem-hamas-angriff-glaube-nicht-dass-wir-noch-ueber-frieden-sprechen-koennen](https://www.spiegel.de/ausland/israel-linke-nach-dem-hamas-angriff-glaube-nicht-dass-wir-noch-ueber-frieden-sprechen-koennen-a-1ebbf066-9277-44d2-b42c-1cd2ce41cade#ref=rss)
-* [https://www.spiegel.de/auto/zoltan-was-autofahrer-tun-muessen-um-nicht-von-der-strasse-geweht-zu-werden](https://www.spiegel.de/auto/zoltan-was-autofahrer-tun-muessen-um-nicht-von-der-strasse-geweht-zu-werden-a-5dd72edd-a610-430a-84b8-98bb02166898#ref=rss)
-### 7
+* [https://www.spiegel.de/fitness/newsletter-spiegel-laeuft-das-waren-unsere-laufhighlights-2023](https://www.spiegel.de/fitness/newsletter-spiegel-laeuft-das-waren-unsere-laufhighlights-2023-a-8c1225bc-98b3-4f3a-99ec-ab35a936b165#ref=rss)
+* [https://www.spiegel.de/gesundheit/erholung-wie-wir-sinnvoll-pause-machen-podcast-mit-sebastian-altfeld-best-of-2023](https://www.spiegel.de/gesundheit/erholung-wie-wir-sinnvoll-pause-machen-podcast-mit-sebastian-altfeld-best-of-2023-a-13554f38-509a-4fc7-b1ea-f7c71a40ff16#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/ausland/israel-linke-nach-dem-hamas-angriff-glaube-nicht-dass-wir-noch-ueber-frieden-sprechen-koennen](https://www.spiegel.de/ausland/israel-linke-nach-dem-hamas-angriff-glaube-nicht-dass-wir-noch-ueber-frieden-sprechen-koennen-a-1ebbf066-9277-44d2-b42c-1cd2ce41cade#ref=rss)
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### daten
+* [https://www.spiegel.de/reise/nach-sturmtief-zoltan-fernverkehr-normalisiert-sich-laut-bahn-wieder](https://www.spiegel.de/reise/nach-sturmtief-zoltan-fernverkehr-normalisiert-sich-laut-bahn-wieder-a-0d1d673a-5fd7-4be0-b032-15394e7aed4d#ref=rss)
+* [https://www.spiegel.de/ausland/news-israel-hamas-gazastreifen-donald-trump-russland](https://www.spiegel.de/ausland/news-israel-hamas-gazastreifen-donald-trump-russland-a-8ce3445b-83bf-4aaf-8c4b-4487912cf779#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-endstation-podcast-344-minuten-folge-4](https://www.spiegel.de/wirtschaft/deutsche-bahn-endstation-podcast-344-minuten-folge-4-a-0421b8e1-28c5-4c94-a046-43adf6c51650#ref=rss)
+### bahn
 
-* [https://www.spiegel.de/wissenschaft/natur/schnee-an-weihnachten-daten-zeigen-wie-selten-das-ist](https://www.spiegel.de/wissenschaft/natur/schnee-an-weihnachten-daten-zeigen-wie-selten-das-ist-a-99217790-6a8f-4d4e-8fdd-90f141fdc0a4#ref=rss)
-### selten
+* [https://www.spiegel.de/reise/nach-sturmtief-zoltan-fernverkehr-normalisiert-sich-laut-bahn-wieder](https://www.spiegel.de/reise/nach-sturmtief-zoltan-fernverkehr-normalisiert-sich-laut-bahn-wieder-a-0d1d673a-5fd7-4be0-b032-15394e7aed4d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-endstation-podcast-344-minuten-folge-4](https://www.spiegel.de/wirtschaft/deutsche-bahn-endstation-podcast-344-minuten-folge-4-a-0421b8e1-28c5-4c94-a046-43adf6c51650#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/wissenschaft/natur/schnee-an-weihnachten-daten-zeigen-wie-selten-das-ist](https://www.spiegel.de/wissenschaft/natur/schnee-an-weihnachten-daten-zeigen-wie-selten-das-ist-a-99217790-6a8f-4d4e-8fdd-90f141fdc0a4#ref=rss)
-### viele
+* [https://www.spiegel.de/panorama/kadewe-in-berlin-wo-ein-to-go-kaffeebecher-200-euro-kostet](https://www.spiegel.de/panorama/kadewe-in-berlin-wo-ein-to-go-kaffeebecher-200-euro-kostet-a-19664431-9259-449e-b6ce-48c006711d68#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-polizei-findet-kugelbomben-und-30-000-boeller-in-wohnungen-in-neukoelln-britz](https://www.spiegel.de/panorama/berlin-polizei-findet-kugelbomben-und-30-000-boeller-in-wohnungen-in-neukoelln-britz-a-eebd2d24-8892-4e98-aeef-2fe89e627f21#ref=rss)
+### usa
 
-* [https://www.spiegel.de/wissenschaft/natur/schnee-an-weihnachten-daten-zeigen-wie-selten-das-ist](https://www.spiegel.de/wissenschaft/natur/schnee-an-weihnachten-daten-zeigen-wie-selten-das-ist-a-99217790-6a8f-4d4e-8fdd-90f141fdc0a4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/visa-vergabe-viele-studierende-aus-afrika-gelangen-nur-schwer-an-deutschen-aufenthaltstitel](https://www.spiegel.de/politik/deutschland/visa-vergabe-viele-studierende-aus-afrika-gelangen-nur-schwer-an-deutschen-aufenthaltstitel-a-3ba362f3-9c23-4e6b-b631-10c0d9f50456#ref=rss)
-### straße
+* [https://www.spiegel.de/ausland/tod-nach-polizeieinsatz-in-den-usa-zwei-rettungssanitaeter-der-fahrlaessigen-toetung-von-elijah-mcclain-fuer-schuldig-befunden](https://www.spiegel.de/ausland/tod-nach-polizeieinsatz-in-den-usa-zwei-rettungssanitaeter-der-fahrlaessigen-toetung-von-elijah-mcclain-fuer-schuldig-befunden-a-eb911641-759f-415a-a346-396cf20dc8a4#ref=rss)
+* [https://www.spiegel.de/ausland/wisconsin-usa-niederlage-fuer-republikaner-wahlbezirke-muessen-neu-zugeschnitten-werden](https://www.spiegel.de/ausland/wisconsin-usa-niederlage-fuer-republikaner-wahlbezirke-muessen-neu-zugeschnitten-werden-a-b1706dd2-7a53-4627-9152-028a5fa677d0#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/wirtschaft/bauernverband-kuendigt-proteste-ab-zweiter-januarwoche-an](https://www.spiegel.de/wirtschaft/bauernverband-kuendigt-proteste-ab-zweiter-januarwoche-an-a-7edd4ef6-8bae-46de-9388-25abac8a00b0#ref=rss)
-* [https://www.spiegel.de/auto/zoltan-was-autofahrer-tun-muessen-um-nicht-von-der-strasse-geweht-zu-werden](https://www.spiegel.de/auto/zoltan-was-autofahrer-tun-muessen-um-nicht-von-der-strasse-geweht-zu-werden-a-5dd72edd-a610-430a-84b8-98bb02166898#ref=rss)
-### dazu
+* [https://www.spiegel.de/ausland/tod-nach-polizeieinsatz-in-den-usa-zwei-rettungssanitaeter-der-fahrlaessigen-toetung-von-elijah-mcclain-fuer-schuldig-befunden](https://www.spiegel.de/ausland/tod-nach-polizeieinsatz-in-den-usa-zwei-rettungssanitaeter-der-fahrlaessigen-toetung-von-elijah-mcclain-fuer-schuldig-befunden-a-eb911641-759f-415a-a346-396cf20dc8a4#ref=rss)
+* [https://www.spiegel.de/familie/weihnachten-13-familienregeln-fuer-harmonische-feiertage](https://www.spiegel.de/familie/weihnachten-13-familienregeln-fuer-harmonische-feiertage-a-84276ef3-9353-47b7-af93-28a71456ae28#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/john-kornblum-ehemaliger-us-botschafter-in-deutschland-ist-tot](https://www.spiegel.de/politik/deutschland/john-kornblum-ehemaliger-us-botschafter-in-deutschland-ist-tot-a-5c59ae73-229e-4993-898b-72d84d8de370#ref=rss)
+### gaza
 
-* [https://www.spiegel.de/wirtschaft/bauernverband-kuendigt-proteste-ab-zweiter-januarwoche-an](https://www.spiegel.de/wirtschaft/bauernverband-kuendigt-proteste-ab-zweiter-januarwoche-an-a-7edd4ef6-8bae-46de-9388-25abac8a00b0#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/pornhub-konzern-zahlt-millionen-wegen-verbreitung-erzwungener-aufnahmen](https://www.spiegel.de/netzwelt/web/pornhub-konzern-zahlt-millionen-wegen-verbreitung-erzwungener-aufnahmen-a-def235fe-7c46-48ad-83a3-33ba1d16a21f#ref=rss)
-### palästinenserbehörde
+* [https://www.spiegel.de/ausland/krieg-in-nahost-generalsekretaer-guterres-gedenkt-getoeteter-uno-mitarbeiter-in-gaza](https://www.spiegel.de/ausland/krieg-in-nahost-generalsekretaer-guterres-gedenkt-getoeteter-uno-mitarbeiter-in-gaza-a-376b12a6-4105-47a3-8c2f-c102ec6222e5#ref=rss)
+* [https://www.spiegel.de/ausland/news-israel-hamas-gazastreifen-donald-trump-russland](https://www.spiegel.de/ausland/news-israel-hamas-gazastreifen-donald-trump-russland-a-8ce3445b-83bf-4aaf-8c4b-4487912cf779#ref=rss)
+### erklärt
 
-* [https://www.spiegel.de/ausland/nahost-palaestinenserbehoerde-erhaelt-millionenbetrag-von-der-eu](https://www.spiegel.de/ausland/nahost-palaestinenserbehoerde-erhaelt-millionenbetrag-von-der-eu-a-060d3517-d767-4862-9867-af83920e3d50#ref=rss)
-### eu
+* [https://www.spiegel.de/ausland/demokratische-republik-kongo-wie-inselbewohner-durch-guten-sex-den-frieden-sichern](https://www.spiegel.de/ausland/demokratische-republik-kongo-wie-inselbewohner-durch-guten-sex-den-frieden-sichern-a-03c0d19f-58c9-439d-ac98-075d0caf9ec3#ref=rss)
+* [https://www.spiegel.de/gesundheit/erholung-wie-wir-sinnvoll-pause-machen-podcast-mit-sebastian-altfeld-best-of-2023](https://www.spiegel.de/gesundheit/erholung-wie-wir-sinnvoll-pause-machen-podcast-mit-sebastian-altfeld-best-of-2023-a-13554f38-509a-4fc7-b1ea-f7c71a40ff16#ref=rss)
+* [https://www.spiegel.de/gesundheit/hilfe-bei-heuschnupfen-niemand-muss-diese-beschwerden-aushalten](https://www.spiegel.de/gesundheit/hilfe-bei-heuschnupfen-niemand-muss-diese-beschwerden-aushalten-a-988e33d2-77c1-4dd0-bce0-aea4e2cf795a#ref=rss)
+### neue
 
-* [https://www.spiegel.de/ausland/nahost-palaestinenserbehoerde-erhaelt-millionenbetrag-von-der-eu](https://www.spiegel.de/ausland/nahost-palaestinenserbehoerde-erhaelt-millionenbetrag-von-der-eu-a-060d3517-d767-4862-9867-af83920e3d50#ref=rss)
-### millionen
+* [https://www.spiegel.de/ausland/russland-sanktionen-der-neue-eiserne-vorhang-schliesst-sich-nur-fuer-den-westen](https://www.spiegel.de/ausland/russland-sanktionen-der-neue-eiserne-vorhang-schliesst-sich-nur-fuer-den-westen-a-a2f14d1a-4f3c-4fcd-b7fe-16b0ed04ab6e#ref=rss)
+* [https://www.spiegel.de/kultur/banksy-neues-kunstwerk-in-london-vermutlich-gestohlen](https://www.spiegel.de/kultur/banksy-neues-kunstwerk-in-london-vermutlich-gestohlen-a-3a59514f-cf27-4793-b5e3-8f0dd4334b04#ref=rss)
+### russland
 
-* [https://www.spiegel.de/ausland/nahost-palaestinenserbehoerde-erhaelt-millionenbetrag-von-der-eu](https://www.spiegel.de/ausland/nahost-palaestinenserbehoerde-erhaelt-millionenbetrag-von-der-eu-a-060d3517-d767-4862-9867-af83920e3d50#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/pornhub-konzern-zahlt-millionen-wegen-verbreitung-erzwungener-aufnahmen](https://www.spiegel.de/netzwelt/web/pornhub-konzern-zahlt-millionen-wegen-verbreitung-erzwungener-aufnahmen-a-def235fe-7c46-48ad-83a3-33ba1d16a21f#ref=rss)
-### aufnahmen
+* [https://www.spiegel.de/ausland/russland-sanktionen-der-neue-eiserne-vorhang-schliesst-sich-nur-fuer-den-westen](https://www.spiegel.de/ausland/russland-sanktionen-der-neue-eiserne-vorhang-schliesst-sich-nur-fuer-den-westen-a-a2f14d1a-4f3c-4fcd-b7fe-16b0ed04ab6e#ref=rss)
+* [https://www.spiegel.de/ausland/news-israel-hamas-gazastreifen-donald-trump-russland](https://www.spiegel.de/ausland/news-israel-hamas-gazastreifen-donald-trump-russland-a-8ce3445b-83bf-4aaf-8c4b-4487912cf779#ref=rss)
+### donald
 
-* [https://www.spiegel.de/netzwelt/web/pornhub-konzern-zahlt-millionen-wegen-verbreitung-erzwungener-aufnahmen](https://www.spiegel.de/netzwelt/web/pornhub-konzern-zahlt-millionen-wegen-verbreitung-erzwungener-aufnahmen-a-def235fe-7c46-48ad-83a3-33ba1d16a21f#ref=rss)
-### jahrelang
+* [https://www.spiegel.de/ausland/news-israel-hamas-gazastreifen-donald-trump-russland](https://www.spiegel.de/ausland/news-israel-hamas-gazastreifen-donald-trump-russland-a-8ce3445b-83bf-4aaf-8c4b-4487912cf779#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-erzielt-erfolg-vor-supreme-court-immunitaet-vorerst-kein-thema](https://www.spiegel.de/ausland/donald-trump-erzielt-erfolg-vor-supreme-court-immunitaet-vorerst-kein-thema-a-ad6ceb79-d2cf-4180-9315-120704cfda78#ref=rss)
+### unbekannte
 
-* [https://www.spiegel.de/netzwelt/web/pornhub-konzern-zahlt-millionen-wegen-verbreitung-erzwungener-aufnahmen](https://www.spiegel.de/netzwelt/web/pornhub-konzern-zahlt-millionen-wegen-verbreitung-erzwungener-aufnahmen-a-def235fe-7c46-48ad-83a3-33ba1d16a21f#ref=rss)
-* [https://www.spiegel.de/panorama/rheinland-pfalz-beamter-wurde-jahrelang-fuers-nichtstun-bezahlt](https://www.spiegel.de/panorama/rheinland-pfalz-beamter-wurde-jahrelang-fuers-nichtstun-bezahlt-a-ab9329b5-4e03-4290-b0c5-9f679ec06727#ref=rss)
-### steffen
+* [https://www.spiegel.de/panorama/hamburg-grab-von-helmut-schmidt-mit-hakenkreuzen-beschmiert](https://www.spiegel.de/panorama/hamburg-grab-von-helmut-schmidt-mit-hakenkreuzen-beschmiert-a-63632e0f-7e3e-4f8f-a83b-c845e0f0ed1b#ref=rss)
+* [https://www.spiegel.de/kultur/banksy-neues-kunstwerk-in-london-vermutlich-gestohlen](https://www.spiegel.de/kultur/banksy-neues-kunstwerk-in-london-vermutlich-gestohlen-a-3a59514f-cf27-4793-b5e3-8f0dd4334b04#ref=rss)
+### frau
 
-* [https://www.spiegel.de/sport/fussball/steffen-baumgart-bo-svensson-urs-fischer-drei-aussergewoehnliche-trainerwechsel](https://www.spiegel.de/sport/fussball/steffen-baumgart-bo-svensson-urs-fischer-drei-aussergewoehnliche-trainerwechsel-a-73e056e5-9ada-48ca-bfa6-0b5a1bdce596#ref=rss)
-### baumgart
+* [https://www.spiegel.de/panorama/hamburg-grab-von-helmut-schmidt-mit-hakenkreuzen-beschmiert](https://www.spiegel.de/panorama/hamburg-grab-von-helmut-schmidt-mit-hakenkreuzen-beschmiert-a-63632e0f-7e3e-4f8f-a83b-c845e0f0ed1b#ref=rss)
+* [https://www.spiegel.de/panorama/leute/charlie-sheen-frau-attackiert-two-and-a-half-men-star-in-seinem-haus](https://www.spiegel.de/panorama/leute/charlie-sheen-frau-attackiert-two-and-a-half-men-star-in-seinem-haus-a-e912403a-7ae8-49f8-91b5-77261ca7b4e8#ref=rss)
+### entfernt
 
-* [https://www.spiegel.de/sport/fussball/steffen-baumgart-bo-svensson-urs-fischer-drei-aussergewoehnliche-trainerwechsel](https://www.spiegel.de/sport/fussball/steffen-baumgart-bo-svensson-urs-fischer-drei-aussergewoehnliche-trainerwechsel-a-73e056e5-9ada-48ca-bfa6-0b5a1bdce596#ref=rss)
-### bo
+* [https://www.spiegel.de/panorama/hamburg-grab-von-helmut-schmidt-mit-hakenkreuzen-beschmiert](https://www.spiegel.de/panorama/hamburg-grab-von-helmut-schmidt-mit-hakenkreuzen-beschmiert-a-63632e0f-7e3e-4f8f-a83b-c845e0f0ed1b#ref=rss)
+* [https://www.spiegel.de/kultur/banksy-neues-kunstwerk-in-london-vermutlich-gestohlen](https://www.spiegel.de/kultur/banksy-neues-kunstwerk-in-london-vermutlich-gestohlen-a-3a59514f-cf27-4793-b5e3-8f0dd4334b04#ref=rss)
+### 2023
 
-* [https://www.spiegel.de/sport/fussball/steffen-baumgart-bo-svensson-urs-fischer-drei-aussergewoehnliche-trainerwechsel](https://www.spiegel.de/sport/fussball/steffen-baumgart-bo-svensson-urs-fischer-drei-aussergewoehnliche-trainerwechsel-a-73e056e5-9ada-48ca-bfa6-0b5a1bdce596#ref=rss)
-### svensson
+* [https://www.spiegel.de/fitness/newsletter-spiegel-laeuft-das-waren-unsere-laufhighlights-2023](https://www.spiegel.de/fitness/newsletter-spiegel-laeuft-das-waren-unsere-laufhighlights-2023-a-8c1225bc-98b3-4f3a-99ec-ab35a936b165#ref=rss)
+* [https://www.spiegel.de/gesundheit/erholung-wie-wir-sinnvoll-pause-machen-podcast-mit-sebastian-altfeld-best-of-2023](https://www.spiegel.de/gesundheit/erholung-wie-wir-sinnvoll-pause-machen-podcast-mit-sebastian-altfeld-best-of-2023-a-13554f38-509a-4fc7-b1ea-f7c71a40ff16#ref=rss)
+### jahres
 
-* [https://www.spiegel.de/sport/fussball/steffen-baumgart-bo-svensson-urs-fischer-drei-aussergewoehnliche-trainerwechsel](https://www.spiegel.de/sport/fussball/steffen-baumgart-bo-svensson-urs-fischer-drei-aussergewoehnliche-trainerwechsel-a-73e056e5-9ada-48ca-bfa6-0b5a1bdce596#ref=rss)
-### urs
+* [https://www.spiegel.de/fitness/newsletter-spiegel-laeuft-das-waren-unsere-laufhighlights-2023](https://www.spiegel.de/fitness/newsletter-spiegel-laeuft-das-waren-unsere-laufhighlights-2023-a-8c1225bc-98b3-4f3a-99ec-ab35a936b165#ref=rss)
+* [https://www.spiegel.de/gesundheit/erholung-wie-wir-sinnvoll-pause-machen-podcast-mit-sebastian-altfeld-best-of-2023](https://www.spiegel.de/gesundheit/erholung-wie-wir-sinnvoll-pause-machen-podcast-mit-sebastian-altfeld-best-of-2023-a-13554f38-509a-4fc7-b1ea-f7c71a40ff16#ref=rss)
+### pandemie
 
-* [https://www.spiegel.de/sport/fussball/steffen-baumgart-bo-svensson-urs-fischer-drei-aussergewoehnliche-trainerwechsel](https://www.spiegel.de/sport/fussball/steffen-baumgart-bo-svensson-urs-fischer-drei-aussergewoehnliche-trainerwechsel-a-73e056e5-9ada-48ca-bfa6-0b5a1bdce596#ref=rss)
-### fischer
+* [https://www.spiegel.de/gesundheit/diagnose/long-covid-und-post-vac-die-pandemie-ist-vorbei-aber-nicht-fuer-uns](https://www.spiegel.de/gesundheit/diagnose/long-covid-und-post-vac-die-pandemie-ist-vorbei-aber-nicht-fuer-uns-a-085358d7-66f5-42be-8ddb-103fb57b0334#ref=rss)
+* [https://www.spiegel.de/start/ausbildung-im-demenz-dorf-was-tun-gegen-die-pandemie-des-vergessens](https://www.spiegel.de/start/ausbildung-im-demenz-dorf-was-tun-gegen-die-pandemie-des-vergessens-a-81e65fa4-a1aa-4f0f-a80a-950b06dc65cd#ref=rss)
+### meisten
 
-* [https://www.spiegel.de/sport/fussball/steffen-baumgart-bo-svensson-urs-fischer-drei-aussergewoehnliche-trainerwechsel](https://www.spiegel.de/sport/fussball/steffen-baumgart-bo-svensson-urs-fischer-drei-aussergewoehnliche-trainerwechsel-a-73e056e5-9ada-48ca-bfa6-0b5a1bdce596#ref=rss)
-### beamter
+* [https://www.spiegel.de/gesundheit/diagnose/long-covid-und-post-vac-die-pandemie-ist-vorbei-aber-nicht-fuer-uns](https://www.spiegel.de/gesundheit/diagnose/long-covid-und-post-vac-die-pandemie-ist-vorbei-aber-nicht-fuer-uns-a-085358d7-66f5-42be-8ddb-103fb57b0334#ref=rss)
+* [https://www.spiegel.de/wissenschaft/forschung-uv-sehen-hilft-rentieren-bei-lieblingsfuttersuche](https://www.spiegel.de/wissenschaft/forschung-uv-sehen-hilft-rentieren-bei-lieblingsfuttersuche-a-e7944cd5-f2f4-419b-a54c-149def3db2a6#ref=rss)
+### hilft
 
-* [https://www.spiegel.de/panorama/rheinland-pfalz-beamter-wurde-jahrelang-fuers-nichtstun-bezahlt](https://www.spiegel.de/panorama/rheinland-pfalz-beamter-wurde-jahrelang-fuers-nichtstun-bezahlt-a-ab9329b5-4e03-4290-b0c5-9f679ec06727#ref=rss)
-### nichtstun
-
-* [https://www.spiegel.de/panorama/rheinland-pfalz-beamter-wurde-jahrelang-fuers-nichtstun-bezahlt](https://www.spiegel.de/panorama/rheinland-pfalz-beamter-wurde-jahrelang-fuers-nichtstun-bezahlt-a-ab9329b5-4e03-4290-b0c5-9f679ec06727#ref=rss)
-### jens
-
-* [https://www.spiegel.de/panorama/jens-lehmann-gericht-verurteilt-ex-nationaltorwart-zu-geldstrafe](https://www.spiegel.de/panorama/jens-lehmann-gericht-verurteilt-ex-nationaltorwart-zu-geldstrafe-a-1d0dac11-b9f8-4156-bab7-880f69cfe8ca#ref=rss)
-### lehmann
-
-* [https://www.spiegel.de/panorama/jens-lehmann-gericht-verurteilt-ex-nationaltorwart-zu-geldstrafe](https://www.spiegel.de/panorama/jens-lehmann-gericht-verurteilt-ex-nationaltorwart-zu-geldstrafe-a-1d0dac11-b9f8-4156-bab7-880f69cfe8ca#ref=rss)
-### geldstrafe
-
-* [https://www.spiegel.de/panorama/jens-lehmann-gericht-verurteilt-ex-nationaltorwart-zu-geldstrafe](https://www.spiegel.de/panorama/jens-lehmann-gericht-verurteilt-ex-nationaltorwart-zu-geldstrafe-a-1d0dac11-b9f8-4156-bab7-880f69cfe8ca#ref=rss)
-### hamburg
-
-* [https://www.spiegel.de/panorama/justiz/hamburg-31-jaehriger-haelt-sich-in-internetvideo-offenbar-waffe-ans-kinn-sek-einsatz](https://www.spiegel.de/panorama/justiz/hamburg-31-jaehriger-haelt-sich-in-internetvideo-offenbar-waffe-ans-kinn-sek-einsatz-a-a56fcba6-7b91-44d5-8e95-d4e46a689543#ref=rss)
-### 31jähriger
-
-* [https://www.spiegel.de/panorama/justiz/hamburg-31-jaehriger-haelt-sich-in-internetvideo-offenbar-waffe-ans-kinn-sek-einsatz](https://www.spiegel.de/panorama/justiz/hamburg-31-jaehriger-haelt-sich-in-internetvideo-offenbar-waffe-ans-kinn-sek-einsatz-a-a56fcba6-7b91-44d5-8e95-d4e46a689543#ref=rss)
-### internetvideo
-
-* [https://www.spiegel.de/panorama/justiz/hamburg-31-jaehriger-haelt-sich-in-internetvideo-offenbar-waffe-ans-kinn-sek-einsatz](https://www.spiegel.de/panorama/justiz/hamburg-31-jaehriger-haelt-sich-in-internetvideo-offenbar-waffe-ans-kinn-sek-einsatz-a-a56fcba6-7b91-44d5-8e95-d4e46a689543#ref=rss)
-### bastelideen
-
-* [https://www.spiegel.de/deinspiegel/bastelideen-fuer-kinder-last-minute-geschenke-selber-machen](https://www.spiegel.de/deinspiegel/bastelideen-fuer-kinder-last-minute-geschenke-selber-machen-a-f0551933-04d3-4110-bdfc-2051773654bc#ref=rss)
-### europawahl
-
-* [https://www.spiegel.de/politik/europawahl-experten-warnen-vor-fake-news-aus-russland](https://www.spiegel.de/politik/europawahl-experten-warnen-vor-fake-news-aus-russland-a-ce49e18e-5b2c-4095-b7cc-0e03f691b888#ref=rss)
-### fake
-
-* [https://www.spiegel.de/politik/europawahl-experten-warnen-vor-fake-news-aus-russland](https://www.spiegel.de/politik/europawahl-experten-warnen-vor-fake-news-aus-russland-a-ce49e18e-5b2c-4095-b7cc-0e03f691b888#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### tag
-
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/auto/zoltan-was-autofahrer-tun-muessen-um-nicht-von-der-strasse-geweht-zu-werden](https://www.spiegel.de/auto/zoltan-was-autofahrer-tun-muessen-um-nicht-von-der-strasse-geweht-zu-werden-a-5dd72edd-a610-430a-84b8-98bb02166898#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/visa-vergabe-viele-studierende-aus-afrika-gelangen-nur-schwer-an-deutschen-aufenthaltstitel](https://www.spiegel.de/politik/deutschland/visa-vergabe-viele-studierende-aus-afrika-gelangen-nur-schwer-an-deutschen-aufenthaltstitel-a-3ba362f3-9c23-4e6b-b631-10c0d9f50456#ref=rss)
+* [https://www.spiegel.de/wissenschaft/forschung-uv-sehen-hilft-rentieren-bei-lieblingsfuttersuche](https://www.spiegel.de/wissenschaft/forschung-uv-sehen-hilft-rentieren-bei-lieblingsfuttersuche-a-e7944cd5-f2f4-419b-a54c-149def3db2a6#ref=rss)
+* [https://www.spiegel.de/gesundheit/hilfe-bei-heuschnupfen-niemand-muss-diese-beschwerden-aushalten](https://www.spiegel.de/gesundheit/hilfe-bei-heuschnupfen-niemand-muss-diese-beschwerden-aushalten-a-988e33d2-77c1-4dd0-bce0-aea4e2cf795a#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/sport/hockey-deutschland-feiert-zwei-wm-titel-in-einem-jahr](https://www.spiegel.de/sport/hockey-deutschland-feiert-zwei-wm-titel-in-einem-jahr-a-ea5f0f56-c28b-4fbc-a6e8-b1bf17fcd0c4#ref=rss)
+* [https://www.spiegel.de/ausland/tod-nach-polizeieinsatz-in-den-usa-zwei-rettungssanitaeter-der-fahrlaessigen-toetung-von-elijah-mcclain-fuer-schuldig-befunden](https://www.spiegel.de/ausland/tod-nach-polizeieinsatz-in-den-usa-zwei-rettungssanitaeter-der-fahrlaessigen-toetung-von-elijah-mcclain-fuer-schuldig-befunden-a-eb911641-759f-415a-a346-396cf20dc8a4#ref=rss)
+### elijah
+
+* [https://www.spiegel.de/ausland/tod-nach-polizeieinsatz-in-den-usa-zwei-rettungssanitaeter-der-fahrlaessigen-toetung-von-elijah-mcclain-fuer-schuldig-befunden](https://www.spiegel.de/ausland/tod-nach-polizeieinsatz-in-den-usa-zwei-rettungssanitaeter-der-fahrlaessigen-toetung-von-elijah-mcclain-fuer-schuldig-befunden-a-eb911641-759f-415a-a346-396cf20dc8a4#ref=rss)
+### mcclain
+
+* [https://www.spiegel.de/ausland/tod-nach-polizeieinsatz-in-den-usa-zwei-rettungssanitaeter-der-fahrlaessigen-toetung-von-elijah-mcclain-fuer-schuldig-befunden](https://www.spiegel.de/ausland/tod-nach-polizeieinsatz-in-den-usa-zwei-rettungssanitaeter-der-fahrlaessigen-toetung-von-elijah-mcclain-fuer-schuldig-befunden-a-eb911641-759f-415a-a346-396cf20dc8a4#ref=rss)
+### vier
+
+* [https://www.spiegel.de/ausland/tod-nach-polizeieinsatz-in-den-usa-zwei-rettungssanitaeter-der-fahrlaessigen-toetung-von-elijah-mcclain-fuer-schuldig-befunden](https://www.spiegel.de/ausland/tod-nach-polizeieinsatz-in-den-usa-zwei-rettungssanitaeter-der-fahrlaessigen-toetung-von-elijah-mcclain-fuer-schuldig-befunden-a-eb911641-759f-415a-a346-396cf20dc8a4#ref=rss)
+* [https://www.spiegel.de/ausland/rotes-meer-die-gefaehrlichste-schiffspassage-der-welt](https://www.spiegel.de/ausland/rotes-meer-die-gefaehrlichste-schiffspassage-der-welt-a-eb254889-a53c-4205-b1cb-54fa33ae384e#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/israel-ex-mossad-agent-david-meidan-ueber-die-verhandlungen-zum-austausch-der-hamas-geiseln](https://www.spiegel.de/ausland/israel-ex-mossad-agent-david-meidan-ueber-die-verhandlungen-zum-austausch-der-hamas-geiseln-a-029f34a6-9b33-4c78-a9d2-2671b8e8d53c#ref=rss)
+* [https://www.spiegel.de/ausland/news-israel-hamas-gazastreifen-donald-trump-russland](https://www.spiegel.de/ausland/news-israel-hamas-gazastreifen-donald-trump-russland-a-8ce3445b-83bf-4aaf-8c4b-4487912cf779#ref=rss)
+### exmossadagent
+
+* [https://www.spiegel.de/ausland/israel-ex-mossad-agent-david-meidan-ueber-die-verhandlungen-zum-austausch-der-hamas-geiseln](https://www.spiegel.de/ausland/israel-ex-mossad-agent-david-meidan-ueber-die-verhandlungen-zum-austausch-der-hamas-geiseln-a-029f34a6-9b33-4c78-a9d2-2671b8e8d53c#ref=rss)
+### david
+
+* [https://www.spiegel.de/ausland/israel-ex-mossad-agent-david-meidan-ueber-die-verhandlungen-zum-austausch-der-hamas-geiseln](https://www.spiegel.de/ausland/israel-ex-mossad-agent-david-meidan-ueber-die-verhandlungen-zum-austausch-der-hamas-geiseln-a-029f34a6-9b33-4c78-a9d2-2671b8e8d53c#ref=rss)
+### meidan
+
+* [https://www.spiegel.de/ausland/israel-ex-mossad-agent-david-meidan-ueber-die-verhandlungen-zum-austausch-der-hamas-geiseln](https://www.spiegel.de/ausland/israel-ex-mossad-agent-david-meidan-ueber-die-verhandlungen-zum-austausch-der-hamas-geiseln-a-029f34a6-9b33-4c78-a9d2-2671b8e8d53c#ref=rss)
+### hamasgeiseln
+
+* [https://www.spiegel.de/ausland/israel-ex-mossad-agent-david-meidan-ueber-die-verhandlungen-zum-austausch-der-hamas-geiseln](https://www.spiegel.de/ausland/israel-ex-mossad-agent-david-meidan-ueber-die-verhandlungen-zum-austausch-der-hamas-geiseln-a-029f34a6-9b33-4c78-a9d2-2671b8e8d53c#ref=rss)
+### joel
+
+* [https://www.spiegel.de/sport/basketball/nba-joel-embiid-ist-auch-von-dennis-schroeder-nicht-zu-stoppen-und-schreibt-geschichte](https://www.spiegel.de/sport/basketball/nba-joel-embiid-ist-auch-von-dennis-schroeder-nicht-zu-stoppen-und-schreibt-geschichte-a-53dc5cd2-9d07-4d85-972a-d0b6135184f7#ref=rss)
+### embiid
+
+* [https://www.spiegel.de/sport/basketball/nba-joel-embiid-ist-auch-von-dennis-schroeder-nicht-zu-stoppen-und-schreibt-geschichte](https://www.spiegel.de/sport/basketball/nba-joel-embiid-ist-auch-von-dennis-schroeder-nicht-zu-stoppen-und-schreibt-geschichte-a-53dc5cd2-9d07-4d85-972a-d0b6135184f7#ref=rss)
+### dennis
+
+* [https://www.spiegel.de/sport/basketball/nba-joel-embiid-ist-auch-von-dennis-schroeder-nicht-zu-stoppen-und-schreibt-geschichte](https://www.spiegel.de/sport/basketball/nba-joel-embiid-ist-auch-von-dennis-schroeder-nicht-zu-stoppen-und-schreibt-geschichte-a-53dc5cd2-9d07-4d85-972a-d0b6135184f7#ref=rss)
+### schröder
+
+* [https://www.spiegel.de/sport/basketball/nba-joel-embiid-ist-auch-von-dennis-schroeder-nicht-zu-stoppen-und-schreibt-geschichte](https://www.spiegel.de/sport/basketball/nba-joel-embiid-ist-auch-von-dennis-schroeder-nicht-zu-stoppen-und-schreibt-geschichte-a-53dc5cd2-9d07-4d85-972a-d0b6135184f7#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/ausland/krieg-in-nahost-generalsekretaer-guterres-gedenkt-getoeteter-uno-mitarbeiter-in-gaza](https://www.spiegel.de/ausland/krieg-in-nahost-generalsekretaer-guterres-gedenkt-getoeteter-uno-mitarbeiter-in-gaza-a-376b12a6-4105-47a3-8c2f-c102ec6222e5#ref=rss)
+### guterres
+
+* [https://www.spiegel.de/ausland/krieg-in-nahost-generalsekretaer-guterres-gedenkt-getoeteter-uno-mitarbeiter-in-gaza](https://www.spiegel.de/ausland/krieg-in-nahost-generalsekretaer-guterres-gedenkt-getoeteter-uno-mitarbeiter-in-gaza-a-376b12a6-4105-47a3-8c2f-c102ec6222e5#ref=rss)
+### unomitarbeiter
+
+* [https://www.spiegel.de/ausland/krieg-in-nahost-generalsekretaer-guterres-gedenkt-getoeteter-uno-mitarbeiter-in-gaza](https://www.spiegel.de/ausland/krieg-in-nahost-generalsekretaer-guterres-gedenkt-getoeteter-uno-mitarbeiter-in-gaza-a-376b12a6-4105-47a3-8c2f-c102ec6222e5#ref=rss)
+### frieden
+
+* [https://www.spiegel.de/ausland/demokratische-republik-kongo-wie-inselbewohner-durch-guten-sex-den-frieden-sichern](https://www.spiegel.de/ausland/demokratische-republik-kongo-wie-inselbewohner-durch-guten-sex-den-frieden-sichern-a-03c0d19f-58c9-439d-ac98-075d0caf9ec3#ref=rss)
+* [https://www.spiegel.de/ausland/news-israel-hamas-gazastreifen-donald-trump-russland](https://www.spiegel.de/ausland/news-israel-hamas-gazastreifen-donald-trump-russland-a-8ce3445b-83bf-4aaf-8c4b-4487912cf779#ref=rss)
+### sebastian
+
+* [https://www.spiegel.de/gesundheit/erholung-wie-wir-sinnvoll-pause-machen-podcast-mit-sebastian-altfeld-best-of-2023](https://www.spiegel.de/gesundheit/erholung-wie-wir-sinnvoll-pause-machen-podcast-mit-sebastian-altfeld-best-of-2023-a-13554f38-509a-4fc7-b1ea-f7c71a40ff16#ref=rss)
+### altfeld
+
+* [https://www.spiegel.de/gesundheit/erholung-wie-wir-sinnvoll-pause-machen-podcast-mit-sebastian-altfeld-best-of-2023](https://www.spiegel.de/gesundheit/erholung-wie-wir-sinnvoll-pause-machen-podcast-mit-sebastian-altfeld-best-of-2023-a-13554f38-509a-4fc7-b1ea-f7c71a40ff16#ref=rss)
+### alle
+
+* [https://www.spiegel.de/gesundheit/erholung-wie-wir-sinnvoll-pause-machen-podcast-mit-sebastian-altfeld-best-of-2023](https://www.spiegel.de/gesundheit/erholung-wie-wir-sinnvoll-pause-machen-podcast-mit-sebastian-altfeld-best-of-2023-a-13554f38-509a-4fc7-b1ea-f7c71a40ff16#ref=rss)
+* [https://www.spiegel.de/familie/weihnachten-13-familienregeln-fuer-harmonische-feiertage](https://www.spiegel.de/familie/weihnachten-13-familienregeln-fuer-harmonische-feiertage-a-84276ef3-9353-47b7-af93-28a71456ae28#ref=rss)
+### weihnachten
+
+* [https://www.spiegel.de/familie/weihnachten-13-familienregeln-fuer-harmonische-feiertage](https://www.spiegel.de/familie/weihnachten-13-familienregeln-fuer-harmonische-feiertage-a-84276ef3-9353-47b7-af93-28a71456ae28#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-vor-weihnachten-heftige-regenfaelle-und-schnee-erwartet](https://www.spiegel.de/panorama/wetter-vor-weihnachten-heftige-regenfaelle-und-schnee-erwartet-a-cc1f63b3-6937-4d8b-a381-5a1dd842f575#ref=rss)
+### halten
+
+* [https://www.spiegel.de/familie/weihnachten-13-familienregeln-fuer-harmonische-feiertage](https://www.spiegel.de/familie/weihnachten-13-familienregeln-fuer-harmonische-feiertage-a-84276ef3-9353-47b7-af93-28a71456ae28#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-erzielt-erfolg-vor-supreme-court-immunitaet-vorerst-kein-thema](https://www.spiegel.de/ausland/donald-trump-erzielt-erfolg-vor-supreme-court-immunitaet-vorerst-kein-thema-a-ad6ceb79-d2cf-4180-9315-120704cfda78#ref=rss)
+### westen
+
+* [https://www.spiegel.de/ausland/russland-sanktionen-der-neue-eiserne-vorhang-schliesst-sich-nur-fuer-den-westen](https://www.spiegel.de/ausland/russland-sanktionen-der-neue-eiserne-vorhang-schliesst-sich-nur-fuer-den-westen-a-a2f14d1a-4f3c-4fcd-b7fe-16b0ed04ab6e#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/ausland/russland-sanktionen-der-neue-eiserne-vorhang-schliesst-sich-nur-fuer-den-westen](https://www.spiegel.de/ausland/russland-sanktionen-der-neue-eiserne-vorhang-schliesst-sich-nur-fuer-den-westen-a-a2f14d1a-4f3c-4fcd-b7fe-16b0ed04ab6e#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-florian-hempel-nach-starker-aufholjagd-gegen-dimitri-van-den-bergh-in-runde-drei](https://www.spiegel.de/sport/darts-wm-florian-hempel-nach-starker-aufholjagd-gegen-dimitri-van-den-bergh-in-runde-drei-a-ebc68278-074c-40eb-b53e-395694e94843#ref=rss)
+### heuschnupfen
+
+* [https://www.spiegel.de/gesundheit/hilfe-bei-heuschnupfen-niemand-muss-diese-beschwerden-aushalten](https://www.spiegel.de/gesundheit/hilfe-bei-heuschnupfen-niemand-muss-diese-beschwerden-aushalten-a-988e33d2-77c1-4dd0-bce0-aea4e2cf795a#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/gesundheit/hilfe-bei-heuschnupfen-niemand-muss-diese-beschwerden-aushalten](https://www.spiegel.de/gesundheit/hilfe-bei-heuschnupfen-niemand-muss-diese-beschwerden-aushalten-a-988e33d2-77c1-4dd0-bce0-aea4e2cf795a#ref=rss)
+* [https://www.spiegel.de/kultur/musik/last-christmas-von-wham-erstmals-auf-platz-eins-der-britischen-weihnachtscharts](https://www.spiegel.de/kultur/musik/last-christmas-von-wham-erstmals-auf-platz-eins-der-britischen-weihnachtscharts-a-eb865647-a6ea-4efd-b505-f2f42edea04e#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/start/ausbildung-im-demenz-dorf-was-tun-gegen-die-pandemie-des-vergessens](https://www.spiegel.de/start/ausbildung-im-demenz-dorf-was-tun-gegen-die-pandemie-des-vergessens-a-81e65fa4-a1aa-4f0f-a80a-950b06dc65cd#ref=rss)
+* [https://www.spiegel.de/sport/fussball/manchester-city-sichert-sich-klub-wm-sieg-gegen-fluminense](https://www.spiegel.de/sport/fussball/manchester-city-sichert-sich-klub-wm-sieg-gegen-fluminense-a-bd21d10f-24fe-4f4e-934d-bb0e91110d1d#ref=rss)
+### davon
+
+* [https://www.spiegel.de/start/ausbildung-im-demenz-dorf-was-tun-gegen-die-pandemie-des-vergessens](https://www.spiegel.de/start/ausbildung-im-demenz-dorf-was-tun-gegen-die-pandemie-des-vergessens-a-81e65fa4-a1aa-4f0f-a80a-950b06dc65cd#ref=rss)
+* [https://www.spiegel.de/ausland/rotes-meer-die-gefaehrlichste-schiffspassage-der-welt](https://www.spiegel.de/ausland/rotes-meer-die-gefaehrlichste-schiffspassage-der-welt-a-eb254889-a53c-4205-b1cb-54fa33ae384e#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/news-israel-hamas-gazastreifen-donald-trump-russland](https://www.spiegel.de/ausland/news-israel-hamas-gazastreifen-donald-trump-russland-a-8ce3445b-83bf-4aaf-8c4b-4487912cf779#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-erzielt-erfolg-vor-supreme-court-immunitaet-vorerst-kein-thema](https://www.spiegel.de/ausland/donald-trump-erzielt-erfolg-vor-supreme-court-immunitaet-vorerst-kein-thema-a-ad6ceb79-d2cf-4180-9315-120704cfda78#ref=rss)
+### schnee
+
+* [https://www.spiegel.de/panorama/wetter-vor-weihnachten-heftige-regenfaelle-und-schnee-erwartet](https://www.spiegel.de/panorama/wetter-vor-weihnachten-heftige-regenfaelle-und-schnee-erwartet-a-cc1f63b3-6937-4d8b-a381-5a1dd842f575#ref=rss)
+### minuten
+
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-endstation-podcast-344-minuten-folge-4](https://www.spiegel.de/wirtschaft/deutsche-bahn-endstation-podcast-344-minuten-folge-4-a-0421b8e1-28c5-4c94-a046-43adf6c51650#ref=rss)
+* [https://www.spiegel.de/kultur/banksy-neues-kunstwerk-in-london-vermutlich-gestohlen](https://www.spiegel.de/kultur/banksy-neues-kunstwerk-in-london-vermutlich-gestohlen-a-3a59514f-cf27-4793-b5e3-8f0dd4334b04#ref=rss)
+### stunden
+
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-endstation-podcast-344-minuten-folge-4](https://www.spiegel.de/wirtschaft/deutsche-bahn-endstation-podcast-344-minuten-folge-4-a-0421b8e1-28c5-4c94-a046-43adf6c51650#ref=rss)
+### london
+
+* [https://www.spiegel.de/kultur/banksy-neues-kunstwerk-in-london-vermutlich-gestohlen](https://www.spiegel.de/kultur/banksy-neues-kunstwerk-in-london-vermutlich-gestohlen-a-3a59514f-cf27-4793-b5e3-8f0dd4334b04#ref=rss)
+### manchester
+
+* [https://www.spiegel.de/sport/fussball/manchester-city-sichert-sich-klub-wm-sieg-gegen-fluminense](https://www.spiegel.de/sport/fussball/manchester-city-sichert-sich-klub-wm-sieg-gegen-fluminense-a-bd21d10f-24fe-4f4e-934d-bb0e91110d1d#ref=rss)
+### city
+
+* [https://www.spiegel.de/sport/fussball/manchester-city-sichert-sich-klub-wm-sieg-gegen-fluminense](https://www.spiegel.de/sport/fussball/manchester-city-sichert-sich-klub-wm-sieg-gegen-fluminense-a-bd21d10f-24fe-4f4e-934d-bb0e91110d1d#ref=rss)
+### klubwm
+
+* [https://www.spiegel.de/sport/fussball/manchester-city-sichert-sich-klub-wm-sieg-gegen-fluminense](https://www.spiegel.de/sport/fussball/manchester-city-sichert-sich-klub-wm-sieg-gegen-fluminense-a-bd21d10f-24fe-4f4e-934d-bb0e91110d1d#ref=rss)
+### sieg
+
+* [https://www.spiegel.de/sport/fussball/manchester-city-sichert-sich-klub-wm-sieg-gegen-fluminense](https://www.spiegel.de/sport/fussball/manchester-city-sichert-sich-klub-wm-sieg-gegen-fluminense-a-bd21d10f-24fe-4f4e-934d-bb0e91110d1d#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-florian-hempel-nach-starker-aufholjagd-gegen-dimitri-van-den-bergh-in-runde-drei](https://www.spiegel.de/sport/darts-wm-florian-hempel-nach-starker-aufholjagd-gegen-dimitri-van-den-bergh-in-runde-drei-a-ebc68278-074c-40eb-b53e-395694e94843#ref=rss)
+### last
+
+* [https://www.spiegel.de/kultur/musik/last-christmas-von-wham-erstmals-auf-platz-eins-der-britischen-weihnachtscharts](https://www.spiegel.de/kultur/musik/last-christmas-von-wham-erstmals-auf-platz-eins-der-britischen-weihnachtscharts-a-eb865647-a6ea-4efd-b505-f2f42edea04e#ref=rss)
+### christmas
+
+* [https://www.spiegel.de/kultur/musik/last-christmas-von-wham-erstmals-auf-platz-eins-der-britischen-weihnachtscharts](https://www.spiegel.de/kultur/musik/last-christmas-von-wham-erstmals-auf-platz-eins-der-britischen-weihnachtscharts-a-eb865647-a6ea-4efd-b505-f2f42edea04e#ref=rss)
+### weihnachtscharts
+
+* [https://www.spiegel.de/kultur/musik/last-christmas-von-wham-erstmals-auf-platz-eins-der-britischen-weihnachtscharts](https://www.spiegel.de/kultur/musik/last-christmas-von-wham-erstmals-auf-platz-eins-der-britischen-weihnachtscharts-a-eb865647-a6ea-4efd-b505-f2f42edea04e#ref=rss)
+### charlie
+
+* [https://www.spiegel.de/panorama/leute/charlie-sheen-frau-attackiert-two-and-a-half-men-star-in-seinem-haus](https://www.spiegel.de/panorama/leute/charlie-sheen-frau-attackiert-two-and-a-half-men-star-in-seinem-haus-a-e912403a-7ae8-49f8-91b5-77261ca7b4e8#ref=rss)
+### sheen
+
+* [https://www.spiegel.de/panorama/leute/charlie-sheen-frau-attackiert-two-and-a-half-men-star-in-seinem-haus](https://www.spiegel.de/panorama/leute/charlie-sheen-frau-attackiert-two-and-a-half-men-star-in-seinem-haus-a-e912403a-7ae8-49f8-91b5-77261ca7b4e8#ref=rss)
+### haus
+
+* [https://www.spiegel.de/panorama/leute/charlie-sheen-frau-attackiert-two-and-a-half-men-star-in-seinem-haus](https://www.spiegel.de/panorama/leute/charlie-sheen-frau-attackiert-two-and-a-half-men-star-in-seinem-haus-a-e912403a-7ae8-49f8-91b5-77261ca7b4e8#ref=rss)
+### supreme
+
+* [https://www.spiegel.de/ausland/donald-trump-erzielt-erfolg-vor-supreme-court-immunitaet-vorerst-kein-thema](https://www.spiegel.de/ausland/donald-trump-erzielt-erfolg-vor-supreme-court-immunitaet-vorerst-kein-thema-a-ad6ceb79-d2cf-4180-9315-120704cfda78#ref=rss)
+### court
+
+* [https://www.spiegel.de/ausland/donald-trump-erzielt-erfolg-vor-supreme-court-immunitaet-vorerst-kein-thema](https://www.spiegel.de/ausland/donald-trump-erzielt-erfolg-vor-supreme-court-immunitaet-vorerst-kein-thema-a-ad6ceb79-d2cf-4180-9315-120704cfda78#ref=rss)
+### immunität
+
+* [https://www.spiegel.de/ausland/donald-trump-erzielt-erfolg-vor-supreme-court-immunitaet-vorerst-kein-thema](https://www.spiegel.de/ausland/donald-trump-erzielt-erfolg-vor-supreme-court-immunitaet-vorerst-kein-thema-a-ad6ceb79-d2cf-4180-9315-120704cfda78#ref=rss)
+### florian
+
+* [https://www.spiegel.de/sport/darts-wm-florian-hempel-nach-starker-aufholjagd-gegen-dimitri-van-den-bergh-in-runde-drei](https://www.spiegel.de/sport/darts-wm-florian-hempel-nach-starker-aufholjagd-gegen-dimitri-van-den-bergh-in-runde-drei-a-ebc68278-074c-40eb-b53e-395694e94843#ref=rss)
+### hempel
+
+* [https://www.spiegel.de/sport/darts-wm-florian-hempel-nach-starker-aufholjagd-gegen-dimitri-van-den-bergh-in-runde-drei](https://www.spiegel.de/sport/darts-wm-florian-hempel-nach-starker-aufholjagd-gegen-dimitri-van-den-bergh-in-runde-drei-a-ebc68278-074c-40eb-b53e-395694e94843#ref=rss)
+### john
+
+* [https://www.spiegel.de/politik/deutschland/john-kornblum-ehemaliger-us-botschafter-in-deutschland-ist-tot](https://www.spiegel.de/politik/deutschland/john-kornblum-ehemaliger-us-botschafter-in-deutschland-ist-tot-a-5c59ae73-229e-4993-898b-72d84d8de370#ref=rss)
+### kornblum
+
+* [https://www.spiegel.de/politik/deutschland/john-kornblum-ehemaliger-us-botschafter-in-deutschland-ist-tot](https://www.spiegel.de/politik/deutschland/john-kornblum-ehemaliger-us-botschafter-in-deutschland-ist-tot-a-5c59ae73-229e-4993-898b-72d84d8de370#ref=rss)
 
