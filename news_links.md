@@ -4,134 +4,278 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### israel
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-zunehmende-verluste-bei-israels-armee-durch-guerilla-taktik](https://www.spiegel.de/ausland/israel-gaza-krieg-zunehmende-verluste-bei-israels-armee-durch-guerilla-taktik-a-73a2e2c9-f73d-4c2a-8088-b727fb6f67fc#ref=rss)
-* [https://www.spiegel.de/ausland/palaestinenser-beklagen-viele-tote-nach-israelischem-luftangriff](https://www.spiegel.de/ausland/palaestinenser-beklagen-viele-tote-nach-israelischem-luftangriff-a-2365b610-93dd-42dd-9601-f733e5dd9339#ref=rss)
-* [https://www.spiegel.de/ausland/israel-praesident-yitzhak-herzog-warnt-vor-spaltung](https://www.spiegel.de/ausland/israel-praesident-yitzhak-herzog-warnt-vor-spaltung-a-f2bad873-f665-4910-844e-826668b906c6#ref=rss)
-* [https://www.spiegel.de/ausland/uno-meldet-rund-50-000-schwangere-und-israel-den-fund-von-angeblichen-kinder-sprengstoffguerteln](https://www.spiegel.de/ausland/uno-meldet-rund-50-000-schwangere-und-israel-den-fund-von-angeblichen-kinder-sprengstoffguerteln-a-948cbbac-62f5-4add-a9b9-8bedf699386a#ref=rss)
-* [https://www.spiegel.de/ausland/israel-und-hisbollah-liefen-sich-feuergefechte](https://www.spiegel.de/ausland/israel-und-hisbollah-liefen-sich-feuergefechte-a-664f0375-80e4-4f7a-96a3-40b3a58a6573#ref=rss)
-### china
-
-* [https://www.spiegel.de/ausland/suedchinesisches-meer-china-warnt-philippinen-vor-extrem-gefaehrlichem-verhalten](https://www.spiegel.de/ausland/suedchinesisches-meer-china-warnt-philippinen-vor-extrem-gefaehrlichem-verhalten-a-e624ec32-c240-4c4e-acf7-4ae6b04bd5ec#ref=rss)
-* [https://www.spiegel.de/panorama/chinesische-behoerden-warnen-vor-weihnachts-traditionen](https://www.spiegel.de/panorama/chinesische-behoerden-warnen-vor-weihnachts-traditionen-a-8d92f7c6-8893-4ccd-b0b3-e5c68068477d#ref=rss)
-### viele
-
-* [https://www.spiegel.de/sport/basketball/nba-wird-die-beste-basketball-liga-der-welt-den-fans-zu-weich](https://www.spiegel.de/sport/basketball/nba-wird-die-beste-basketball-liga-der-welt-den-fans-zu-weich-a-19c3238b-17ac-4830-821e-d2b5ecd1bef4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/der-fluch-der-hohen-zinsen](https://www.spiegel.de/wirtschaft/service/der-fluch-der-hohen-zinsen-a-f5e29622-782e-477b-a832-dbcbd35e6206#ref=rss)
-* [https://www.spiegel.de/panorama/chinesische-behoerden-warnen-vor-weihnachts-traditionen](https://www.spiegel.de/panorama/chinesische-behoerden-warnen-vor-weihnachts-traditionen-a-8d92f7c6-8893-4ccd-b0b3-e5c68068477d#ref=rss)
-* [https://www.spiegel.de/ausland/palaestinenser-beklagen-viele-tote-nach-israelischem-luftangriff](https://www.spiegel.de/ausland/palaestinenser-beklagen-viele-tote-nach-israelischem-luftangriff-a-2365b610-93dd-42dd-9601-f733e5dd9339#ref=rss)
 ### deutschland
 
+* [https://www.spiegel.de/wirtschaft/betreuungsmaengel-in-deutschland-hort-des-schreckens](https://www.spiegel.de/wirtschaft/betreuungsmaengel-in-deutschland-hort-des-schreckens-a-a5b8e85e-4a4d-4892-893f-decb573ba597#ref=rss)
+* [https://www.spiegel.de/panorama/abschiebung-einer-familie-nach-nigeria-ich-vermisse-sogar-die-ampeln](https://www.spiegel.de/panorama/abschiebung-einer-familie-nach-nigeria-ich-vermisse-sogar-die-ampeln-a-f16af5be-87e4-4ce6-8b85-a3066a7c8ae2#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-hochwassergefahr-bleibt-in-teilen-deutschlands-hoch-windehausen-in-thueringen-evakuiert](https://www.spiegel.de/panorama/wetter-in-deutschland-hochwassergefahr-bleibt-in-teilen-deutschlands-hoch-windehausen-in-thueringen-evakuiert-a-76ad761b-9b49-4c4c-a24f-df54761503cb#ref=rss)
+* [https://www.spiegel.de/ausland/wetter-schweiz-erlebt-teils-waermsten-heiligabend-seit-mehr-als-100-jahren](https://www.spiegel.de/ausland/wetter-schweiz-erlebt-teils-waermsten-heiligabend-seit-mehr-als-100-jahren-a-90a6e81c-0024-428a-92cd-b40c67c5f153#ref=rss)
+* [https://www.spiegel.de/kultur/filmgeschichte-in-streaming-zeiten-vom-streaming-verweht](https://www.spiegel.de/kultur/filmgeschichte-in-streaming-zeiten-vom-streaming-verweht-a-29b0ac4c-76c8-49ae-8982-1b0e9c821707#ref=rss)
 * [https://www.spiegel.de/wirtschaft/unternehmen/gueterverkehr-bahn-industrieverband-sieht-deutschland-massiv-auf-der-bremse](https://www.spiegel.de/wirtschaft/unternehmen/gueterverkehr-bahn-industrieverband-sieht-deutschland-massiv-auf-der-bremse-a-2c4b5b57-0848-43c2-863a-dcb372df9289#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/asylantraege-ueber-eine-million-in-europa-im-jahr-2023](https://www.spiegel.de/politik/deutschland/asylantraege-ueber-eine-million-in-europa-im-jahr-2023-a-8e7864df-686c-43c2-99d8-f33571286e2c#ref=rss)
-* [https://www.spiegel.de/panorama/zentralrat-der-juden-beklagt-muslimische-reaktion-auf-hamas-massaker](https://www.spiegel.de/panorama/zentralrat-der-juden-beklagt-muslimische-reaktion-auf-hamas-massaker-a-366ef7d2-a62a-448e-b25f-c5192e5fddbd#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/gueterverkehr-bahn-industrieverband-sieht-deutschland-massiv-auf-der-bremse](https://www.spiegel.de/wirtschaft/unternehmen/gueterverkehr-bahn-industrieverband-sieht-deutschland-massiv-auf-der-bremse-a-2c4b5b57-0848-43c2-863a-dcb372df9289#ref=rss)
-* [https://www.spiegel.de/ausland/israel-praesident-yitzhak-herzog-warnt-vor-spaltung](https://www.spiegel.de/ausland/israel-praesident-yitzhak-herzog-warnt-vor-spaltung-a-f2bad873-f665-4910-844e-826668b906c6#ref=rss)
-* [https://www.spiegel.de/panorama/zentralrat-der-juden-beklagt-muslimische-reaktion-auf-hamas-massaker](https://www.spiegel.de/panorama/zentralrat-der-juden-beklagt-muslimische-reaktion-auf-hamas-massaker-a-366ef7d2-a62a-448e-b25f-c5192e5fddbd#ref=rss)
-### weihnachten
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/microsoft-zahlt-76-millionen-dollar-fuer-ein-maislabyrinth-in-wisconsin](https://www.spiegel.de/wirtschaft/unternehmen/microsoft-zahlt-76-millionen-dollar-fuer-ein-maislabyrinth-in-wisconsin-a-a817596c-106f-41c4-8160-909ccca3bdbb#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-macht-ukrainern-zu-weihnachten-mut](https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-macht-ukrainern-zu-weihnachten-mut-a-fb071c14-36d5-43ae-b1fe-2129c1d086f6#ref=rss)
-* [https://www.spiegel.de/karriere/job-und-karriere-mit-streit-und-konflikten-souveraen-umgehen-tipps-von-der-expertin](https://www.spiegel.de/karriere/job-und-karriere-mit-streit-und-konflikten-souveraen-umgehen-tipps-von-der-expertin-a-9d4875f9-feca-4039-8f93-f41b7a5384e8#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/ausland/sri-lanka-entlaesst-mehr-als-tausend-haeftlinge](https://www.spiegel.de/ausland/sri-lanka-entlaesst-mehr-als-tausend-haeftlinge-a-f0fb0f32-bac1-4274-bbd7-c0e91d1d4720#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/asylantraege-ueber-eine-million-in-europa-im-jahr-2023](https://www.spiegel.de/politik/deutschland/asylantraege-ueber-eine-million-in-europa-im-jahr-2023-a-8e7864df-686c-43c2-99d8-f33571286e2c#ref=rss)
-* [https://www.spiegel.de/ausland/uno-meldet-rund-50-000-schwangere-und-israel-den-fund-von-angeblichen-kinder-sprengstoffguerteln](https://www.spiegel.de/ausland/uno-meldet-rund-50-000-schwangere-und-israel-den-fund-von-angeblichen-kinder-sprengstoffguerteln-a-948cbbac-62f5-4add-a9b9-8bedf699386a#ref=rss)
-* [https://www.spiegel.de/panorama/zentralrat-der-juden-beklagt-muslimische-reaktion-auf-hamas-massaker](https://www.spiegel.de/panorama/zentralrat-der-juden-beklagt-muslimische-reaktion-auf-hamas-massaker-a-366ef7d2-a62a-448e-b25f-c5192e5fddbd#ref=rss)
-### jahr
+* [https://www.spiegel.de/gesundheit/alkohol-trinken-sie-mehr-als-der-durchschnitt](https://www.spiegel.de/gesundheit/alkohol-trinken-sie-mehr-als-der-durchschnitt-a-699f900d-6ae0-4dc7-81fd-1b5885e900f0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-blockade-in-schweden-das-schiff-muss-dann-mit-den-teslas-wieder-ablegen](https://www.spiegel.de/wirtschaft/unternehmen/tesla-blockade-in-schweden-das-schiff-muss-dann-mit-den-teslas-wieder-ablegen-a-73579d7f-f6d3-43f4-b380-a138c38407a1#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-greift-kurdische-gebiete-in-syrien-und-im-irak-an](https://www.spiegel.de/ausland/tuerkei-greift-kurdische-gebiete-in-syrien-und-im-irak-an-a-e9583fd0-6fac-491f-a9ed-03cd8305e6b0#ref=rss)
+* [https://www.spiegel.de/ausland/alexej-nawalny-in-strafkolonie-in-der-polarregion-verlegt](https://www.spiegel.de/ausland/alexej-nawalny-in-strafkolonie-in-der-polarregion-verlegt-a-982d1734-43c5-4d7a-9a25-055ab997b5a8#ref=rss)
+* [https://www.spiegel.de/ausland/wetter-schweiz-erlebt-teils-waermsten-heiligabend-seit-mehr-als-100-jahren](https://www.spiegel.de/ausland/wetter-schweiz-erlebt-teils-waermsten-heiligabend-seit-mehr-als-100-jahren-a-90a6e81c-0024-428a-92cd-b40c67c5f153#ref=rss)
+* [https://www.spiegel.de/netzwelt/games/china-laesst-rekordzahl-neuer-onlinespiele-zu-nach-milliardenverlusten-an-den-boersen](https://www.spiegel.de/netzwelt/games/china-laesst-rekordzahl-neuer-onlinespiele-zu-nach-milliardenverlusten-an-den-boersen-a-f313e01c-4592-4f42-9f77-411211c15386#ref=rss)
+### china
 
-* [https://www.spiegel.de/politik/deutschland/asylantraege-ueber-eine-million-in-europa-im-jahr-2023](https://www.spiegel.de/politik/deutschland/asylantraege-ueber-eine-million-in-europa-im-jahr-2023-a-8e7864df-686c-43c2-99d8-f33571286e2c#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/die-welt-als-petrischale](https://www.spiegel.de/netzwelt/web/die-welt-als-petrischale-a-204f0e59-e676-4331-8c1f-e4736b5dc9a1#ref=rss)
-### armee
+* [https://www.spiegel.de/netzwelt/games/china-laesst-rekordzahl-neuer-onlinespiele-zu-nach-milliardenverlusten-an-den-boersen](https://www.spiegel.de/netzwelt/games/china-laesst-rekordzahl-neuer-onlinespiele-zu-nach-milliardenverlusten-an-den-boersen-a-f313e01c-4592-4f42-9f77-411211c15386#ref=rss)
+* [https://www.spiegel.de/ausland/suedchinesisches-meer-china-warnt-philippinen-vor-extrem-gefaehrlichem-verhalten](https://www.spiegel.de/ausland/suedchinesisches-meer-china-warnt-philippinen-vor-extrem-gefaehrlichem-verhalten-a-e624ec32-c240-4c4e-acf7-4ae6b04bd5ec#ref=rss)
+### iran
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-zunehmende-verluste-bei-israels-armee-durch-guerilla-taktik](https://www.spiegel.de/ausland/israel-gaza-krieg-zunehmende-verluste-bei-israels-armee-durch-guerilla-taktik-a-73a2e2c9-f73d-4c2a-8088-b727fb6f67fc#ref=rss)
-* [https://www.spiegel.de/ausland/israel-hamas-krieg-militaer-birgt-leichen-von-fuenf-hamas-geiseln](https://www.spiegel.de/ausland/israel-hamas-krieg-militaer-birgt-leichen-von-fuenf-hamas-geiseln-a-a50d10a3-cff1-42c2-acc6-0afe0548fb61#ref=rss)
-* [https://www.spiegel.de/ausland/uno-meldet-rund-50-000-schwangere-und-israel-den-fund-von-angeblichen-kinder-sprengstoffguerteln](https://www.spiegel.de/ausland/uno-meldet-rund-50-000-schwangere-und-israel-den-fund-von-angeblichen-kinder-sprengstoffguerteln-a-948cbbac-62f5-4add-a9b9-8bedf699386a#ref=rss)
-* [https://www.spiegel.de/ausland/israel-und-hisbollah-liefen-sich-feuergefechte](https://www.spiegel.de/ausland/israel-und-hisbollah-liefen-sich-feuergefechte-a-664f0375-80e4-4f7a-96a3-40b3a58a6573#ref=rss)
-### krieg
-
-* [https://www.spiegel.de/panorama/livestream-papst-erteilt-segen-und-verkuendet-weihnachtsbotschaft](https://www.spiegel.de/panorama/livestream-papst-erteilt-segen-und-verkuendet-weihnachtsbotschaft-a-0aee9fbd-daa3-4192-b07c-5d68e3578968#ref=rss)
-* [https://www.spiegel.de/ausland/israel-praesident-yitzhak-herzog-warnt-vor-spaltung](https://www.spiegel.de/ausland/israel-praesident-yitzhak-herzog-warnt-vor-spaltung-a-f2bad873-f665-4910-844e-826668b906c6#ref=rss)
-* [https://www.spiegel.de/ausland/uno-meldet-rund-50-000-schwangere-und-israel-den-fund-von-angeblichen-kinder-sprengstoffguerteln](https://www.spiegel.de/ausland/uno-meldet-rund-50-000-schwangere-und-israel-den-fund-von-angeblichen-kinder-sprengstoffguerteln-a-948cbbac-62f5-4add-a9b9-8bedf699386a#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/livestream-papst-erteilt-segen-und-verkuendet-weihnachtsbotschaft](https://www.spiegel.de/panorama/livestream-papst-erteilt-segen-und-verkuendet-weihnachtsbotschaft-a-0aee9fbd-daa3-4192-b07c-5d68e3578968#ref=rss)
-* [https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-und-seine-detroit-lions-erreichen-die-playoffs](https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-und-seine-detroit-lions-erreichen-die-playoffs-a-e1a7283b-bad3-46a8-ba1d-decc7b9bbc0e#ref=rss)
-* [https://www.spiegel.de/ausland/israel-hamas-krieg-militaer-birgt-leichen-von-fuenf-hamas-geiseln](https://www.spiegel.de/ausland/israel-hamas-krieg-militaer-birgt-leichen-von-fuenf-hamas-geiseln-a-a50d10a3-cff1-42c2-acc6-0afe0548fb61#ref=rss)
+* [https://www.spiegel.de/ausland/iran-general-der-revolutionsgarden-bei-israelischem-angriff-in-syrien-getoetet](https://www.spiegel.de/ausland/iran-general-der-revolutionsgarden-bei-israelischem-angriff-in-syrien-getoetet-a-9e4e1bc5-871a-4175-90c7-8d576726b5f0#ref=rss)
+* [https://www.spiegel.de/ausland/huthi-angriffe-maersk-will-schiffe-wieder-durchs-rote-meer-fahren-lassen-iran-weist-beteiligung-an-angriffen-auf-handelsschiffe-zurueck](https://www.spiegel.de/ausland/huthi-angriffe-maersk-will-schiffe-wieder-durchs-rote-meer-fahren-lassen-iran-weist-beteiligung-an-angriffen-auf-handelsschiffe-zurueck-a-aa4919ad-9ec4-4eb4-a4f3-3f2c43efd85c#ref=rss)
 ### meer
 
+* [https://www.spiegel.de/ausland/huthi-angriffe-maersk-will-schiffe-wieder-durchs-rote-meer-fahren-lassen-iran-weist-beteiligung-an-angriffen-auf-handelsschiffe-zurueck](https://www.spiegel.de/ausland/huthi-angriffe-maersk-will-schiffe-wieder-durchs-rote-meer-fahren-lassen-iran-weist-beteiligung-an-angriffen-auf-handelsschiffe-zurueck-a-aa4919ad-9ec4-4eb4-a4f3-3f2c43efd85c#ref=rss)
 * [https://www.spiegel.de/ausland/suedchinesisches-meer-china-warnt-philippinen-vor-extrem-gefaehrlichem-verhalten](https://www.spiegel.de/ausland/suedchinesisches-meer-china-warnt-philippinen-vor-extrem-gefaehrlichem-verhalten-a-e624ec32-c240-4c4e-acf7-4ae6b04bd5ec#ref=rss)
-* [https://www.spiegel.de/ausland/israel-und-hisbollah-liefen-sich-feuergefechte](https://www.spiegel.de/ausland/israel-und-hisbollah-liefen-sich-feuergefechte-a-664f0375-80e4-4f7a-96a3-40b3a58a6573#ref=rss)
-### welt
+### kevin
 
+* [https://www.spiegel.de/panorama/kevin-allein-in-new-york-das-haus-von-kevins-onkel-steht-zum-verkauf](https://www.spiegel.de/panorama/kevin-allein-in-new-york-das-haus-von-kevins-onkel-steht-zum-verkauf-a-355a4f50-f3da-45b7-aec5-9e2a702a12a4#ref=rss)
+### haus
+
+* [https://www.spiegel.de/panorama/kevin-allein-in-new-york-das-haus-von-kevins-onkel-steht-zum-verkauf](https://www.spiegel.de/panorama/kevin-allein-in-new-york-das-haus-von-kevins-onkel-steht-zum-verkauf-a-355a4f50-f3da-45b7-aec5-9e2a702a12a4#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/panorama/kevin-allein-in-new-york-das-haus-von-kevins-onkel-steht-zum-verkauf](https://www.spiegel.de/panorama/kevin-allein-in-new-york-das-haus-von-kevins-onkel-steht-zum-verkauf-a-355a4f50-f3da-45b7-aec5-9e2a702a12a4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/wisconsin-microsoft-zahlt-76-millionen-dollar-fuer-ein-maislabyrinth](https://www.spiegel.de/wirtschaft/unternehmen/wisconsin-microsoft-zahlt-76-millionen-dollar-fuer-ein-maislabyrinth-a-a817596c-106f-41c4-8160-909ccca3bdbb#ref=rss)
+### dollar
+
+* [https://www.spiegel.de/panorama/kevin-allein-in-new-york-das-haus-von-kevins-onkel-steht-zum-verkauf](https://www.spiegel.de/panorama/kevin-allein-in-new-york-das-haus-von-kevins-onkel-steht-zum-verkauf-a-355a4f50-f3da-45b7-aec5-9e2a702a12a4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/wisconsin-microsoft-zahlt-76-millionen-dollar-fuer-ein-maislabyrinth](https://www.spiegel.de/wirtschaft/unternehmen/wisconsin-microsoft-zahlt-76-millionen-dollar-fuer-ein-maislabyrinth-a-a817596c-106f-41c4-8160-909ccca3bdbb#ref=rss)
+### syrien
+
+* [https://www.spiegel.de/ausland/iran-general-der-revolutionsgarden-bei-israelischem-angriff-in-syrien-getoetet](https://www.spiegel.de/ausland/iran-general-der-revolutionsgarden-bei-israelischem-angriff-in-syrien-getoetet-a-9e4e1bc5-871a-4175-90c7-8d576726b5f0#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-greift-kurdische-gebiete-in-syrien-und-im-irak-an](https://www.spiegel.de/ausland/tuerkei-greift-kurdische-gebiete-in-syrien-und-im-irak-an-a-e9583fd0-6fac-491f-a9ed-03cd8305e6b0#ref=rss)
+### getötet
+
+* [https://www.spiegel.de/ausland/iran-general-der-revolutionsgarden-bei-israelischem-angriff-in-syrien-getoetet](https://www.spiegel.de/ausland/iran-general-der-revolutionsgarden-bei-israelischem-angriff-in-syrien-getoetet-a-9e4e1bc5-871a-4175-90c7-8d576726b5f0#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-greift-kurdische-gebiete-in-syrien-und-im-irak-an](https://www.spiegel.de/ausland/tuerkei-greift-kurdische-gebiete-in-syrien-und-im-irak-an-a-e9583fd0-6fac-491f-a9ed-03cd8305e6b0#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/psychologie/uebers-traeumen](https://www.spiegel.de/psychologie/uebers-traeumen-a-ba69150f-eca6-4951-a59a-af57e2957aa3#ref=rss)
+* [https://www.spiegel.de/panorama/abschiebung-einer-familie-nach-nigeria-ich-vermisse-sogar-die-ampeln](https://www.spiegel.de/panorama/abschiebung-einer-familie-nach-nigeria-ich-vermisse-sogar-die-ampeln-a-f16af5be-87e4-4ce6-8b85-a3066a7c8ae2#ref=rss)
+* [https://www.spiegel.de/ausland/wetter-schweiz-erlebt-teils-waermsten-heiligabend-seit-mehr-als-100-jahren](https://www.spiegel.de/ausland/wetter-schweiz-erlebt-teils-waermsten-heiligabend-seit-mehr-als-100-jahren-a-90a6e81c-0024-428a-92cd-b40c67c5f153#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/bielefeld-hauptbahnhof-wegen-grosseinsatzes-abgesperrt](https://www.spiegel.de/panorama/bielefeld-hauptbahnhof-wegen-grosseinsatzes-abgesperrt-a-94de473e-dc04-4bf4-83cd-92843bcf5028#ref=rss)
+* [https://www.spiegel.de/panorama/abschiebung-einer-familie-nach-nigeria-ich-vermisse-sogar-die-ampeln](https://www.spiegel.de/panorama/abschiebung-einer-familie-nach-nigeria-ich-vermisse-sogar-die-ampeln-a-f16af5be-87e4-4ce6-8b85-a3066a7c8ae2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-silvester-polizei-bereitet-sich-auf-krawalle-vor](https://www.spiegel.de/panorama/justiz/berlin-silvester-polizei-bereitet-sich-auf-krawalle-vor-a-6e3139ea-d059-4687-a77c-f80b88da0712#ref=rss)
+### heiligabend
+
+* [https://www.spiegel.de/ausland/sea-watch-rettet-an-heiligabend-118-menschen-aus-dem-mittelmeer](https://www.spiegel.de/ausland/sea-watch-rettet-an-heiligabend-118-menschen-aus-dem-mittelmeer-a-d3ca46ce-1ce4-4421-ae4d-363748d3a3e1#ref=rss)
+* [https://www.spiegel.de/ausland/wetter-schweiz-erlebt-teils-waermsten-heiligabend-seit-mehr-als-100-jahren](https://www.spiegel.de/ausland/wetter-schweiz-erlebt-teils-waermsten-heiligabend-seit-mehr-als-100-jahren-a-90a6e81c-0024-428a-92cd-b40c67c5f153#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/ausland/sea-watch-rettet-an-heiligabend-118-menschen-aus-dem-mittelmeer](https://www.spiegel.de/ausland/sea-watch-rettet-an-heiligabend-118-menschen-aus-dem-mittelmeer-a-d3ca46ce-1ce4-4421-ae4d-363748d3a3e1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/waermepumpen-werden-bei-kriminellen-immer-beliebter](https://www.spiegel.de/wirtschaft/waermepumpen-werden-bei-kriminellen-immer-beliebter-a-e7085236-a65b-43b1-932d-9555b19a06c6#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/ausland/sea-watch-rettet-an-heiligabend-118-menschen-aus-dem-mittelmeer](https://www.spiegel.de/ausland/sea-watch-rettet-an-heiligabend-118-menschen-aus-dem-mittelmeer-a-d3ca46ce-1ce4-4421-ae4d-363748d3a3e1#ref=rss)
+* [https://www.spiegel.de/ausland/alexej-nawalny-in-strafkolonie-in-der-polarregion-verlegt](https://www.spiegel.de/ausland/alexej-nawalny-in-strafkolonie-in-der-polarregion-verlegt-a-982d1734-43c5-4d7a-9a25-055ab997b5a8#ref=rss)
+* [https://www.spiegel.de/panorama/livestream-papst-erteilt-segen-und-verkuendet-weihnachtsbotschaft](https://www.spiegel.de/panorama/livestream-papst-erteilt-segen-und-verkuendet-weihnachtsbotschaft-a-0aee9fbd-daa3-4192-b07c-5d68e3578968#ref=rss)
+### schiffe
+
+* [https://www.spiegel.de/ausland/huthi-angriffe-maersk-will-schiffe-wieder-durchs-rote-meer-fahren-lassen-iran-weist-beteiligung-an-angriffen-auf-handelsschiffe-zurueck](https://www.spiegel.de/ausland/huthi-angriffe-maersk-will-schiffe-wieder-durchs-rote-meer-fahren-lassen-iran-weist-beteiligung-an-angriffen-auf-handelsschiffe-zurueck-a-aa4919ad-9ec4-4eb4-a4f3-3f2c43efd85c#ref=rss)
+* [https://www.spiegel.de/ausland/suedchinesisches-meer-china-warnt-philippinen-vor-extrem-gefaehrlichem-verhalten](https://www.spiegel.de/ausland/suedchinesisches-meer-china-warnt-philippinen-vor-extrem-gefaehrlichem-verhalten-a-e624ec32-c240-4c4e-acf7-4ae6b04bd5ec#ref=rss)
+### viele
+
+* [https://www.spiegel.de/wirtschaft/waermepumpen-werden-bei-kriminellen-immer-beliebter](https://www.spiegel.de/wirtschaft/waermepumpen-werden-bei-kriminellen-immer-beliebter-a-e7085236-a65b-43b1-932d-9555b19a06c6#ref=rss)
 * [https://www.spiegel.de/sport/basketball/nba-wird-die-beste-basketball-liga-der-welt-den-fans-zu-weich](https://www.spiegel.de/sport/basketball/nba-wird-die-beste-basketball-liga-der-welt-den-fans-zu-weich-a-19c3238b-17ac-4830-821e-d2b5ecd1bef4#ref=rss)
-* [https://www.spiegel.de/ausland/koenig-charles-iii-vom-monarchiepraktikanten-zum-gekroenten-koenig](https://www.spiegel.de/ausland/koenig-charles-iii-vom-monarchiepraktikanten-zum-gekroenten-koenig-a-24991067-c256-40c3-a6a9-e23f98451871#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/die-welt-als-petrischale](https://www.spiegel.de/netzwelt/web/die-welt-als-petrischale-a-204f0e59-e676-4331-8c1f-e4736b5dc9a1#ref=rss)
-### ersten
+* [https://www.spiegel.de/wirtschaft/service/der-fluch-der-hohen-zinsen](https://www.spiegel.de/wirtschaft/service/der-fluch-der-hohen-zinsen-a-f5e29622-782e-477b-a832-dbcbd35e6206#ref=rss)
+### waren
 
+* [https://www.spiegel.de/panorama/jahresrueckblick-das-waren-die-kuriosesten-tiermeldungen-2023](https://www.spiegel.de/panorama/jahresrueckblick-das-waren-die-kuriosesten-tiermeldungen-2023-a-19200d49-1708-4f19-a02c-67544f71872c#ref=rss)
+* [https://www.spiegel.de/ausland/sea-watch-rettet-an-heiligabend-118-menschen-aus-dem-mittelmeer](https://www.spiegel.de/ausland/sea-watch-rettet-an-heiligabend-118-menschen-aus-dem-mittelmeer-a-d3ca46ce-1ce4-4421-ae4d-363748d3a3e1#ref=rss)
+### kuriosesten
+
+* [https://www.spiegel.de/panorama/jahresrueckblick-das-waren-die-kuriosesten-tiermeldungen-2023](https://www.spiegel.de/panorama/jahresrueckblick-das-waren-die-kuriosesten-tiermeldungen-2023-a-19200d49-1708-4f19-a02c-67544f71872c#ref=rss)
+### tiermeldungen
+
+* [https://www.spiegel.de/panorama/jahresrueckblick-das-waren-die-kuriosesten-tiermeldungen-2023](https://www.spiegel.de/panorama/jahresrueckblick-das-waren-die-kuriosesten-tiermeldungen-2023-a-19200d49-1708-4f19-a02c-67544f71872c#ref=rss)
+### allein
+
+* [https://www.spiegel.de/panorama/kevin-allein-in-new-york-das-haus-von-kevins-onkel-steht-zum-verkauf](https://www.spiegel.de/panorama/kevin-allein-in-new-york-das-haus-von-kevins-onkel-steht-zum-verkauf-a-355a4f50-f3da-45b7-aec5-9e2a702a12a4#ref=rss)
+### new
+
+* [https://www.spiegel.de/panorama/kevin-allein-in-new-york-das-haus-von-kevins-onkel-steht-zum-verkauf](https://www.spiegel.de/panorama/kevin-allein-in-new-york-das-haus-von-kevins-onkel-steht-zum-verkauf-a-355a4f50-f3da-45b7-aec5-9e2a702a12a4#ref=rss)
+### york
+
+* [https://www.spiegel.de/panorama/kevin-allein-in-new-york-das-haus-von-kevins-onkel-steht-zum-verkauf](https://www.spiegel.de/panorama/kevin-allein-in-new-york-das-haus-von-kevins-onkel-steht-zum-verkauf-a-355a4f50-f3da-45b7-aec5-9e2a702a12a4#ref=rss)
+### verkauf
+
+* [https://www.spiegel.de/panorama/kevin-allein-in-new-york-das-haus-von-kevins-onkel-steht-zum-verkauf](https://www.spiegel.de/panorama/kevin-allein-in-new-york-das-haus-von-kevins-onkel-steht-zum-verkauf-a-355a4f50-f3da-45b7-aec5-9e2a702a12a4#ref=rss)
+### general
+
+* [https://www.spiegel.de/ausland/iran-general-der-revolutionsgarden-bei-israelischem-angriff-in-syrien-getoetet](https://www.spiegel.de/ausland/iran-general-der-revolutionsgarden-bei-israelischem-angriff-in-syrien-getoetet-a-9e4e1bc5-871a-4175-90c7-8d576726b5f0#ref=rss)
+### macht
+
+* [https://www.spiegel.de/ausland/iran-general-der-revolutionsgarden-bei-israelischem-angriff-in-syrien-getoetet](https://www.spiegel.de/ausland/iran-general-der-revolutionsgarden-bei-israelischem-angriff-in-syrien-getoetet-a-9e4e1bc5-871a-4175-90c7-8d576726b5f0#ref=rss)
+* [https://www.spiegel.de/wissenschaft/historiker-simon-sebag-montefiore-die-macht-von-frauen-lag-in-der-kontrolle-ihres-sohnes](https://www.spiegel.de/wissenschaft/historiker-simon-sebag-montefiore-die-macht-von-frauen-lag-in-der-kontrolle-ihres-sohnes-a-6d95654f-368f-4b51-9870-3ed6e9131bbc#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/iran-general-der-revolutionsgarden-bei-israelischem-angriff-in-syrien-getoetet](https://www.spiegel.de/ausland/iran-general-der-revolutionsgarden-bei-israelischem-angriff-in-syrien-getoetet-a-9e4e1bc5-871a-4175-90c7-8d576726b5f0#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-chef-yahya-sinwar-will-sich-israel-nicht-unterwerfen](https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-chef-yahya-sinwar-will-sich-israel-nicht-unterwerfen-a-8f34fbe1-8307-423c-9bd7-314ca6f66dfc#ref=rss)
+### aki
+
+* [https://www.spiegel.de/psychologie/uebers-traeumen](https://www.spiegel.de/psychologie/uebers-traeumen-a-ba69150f-eca6-4951-a59a-af57e2957aa3#ref=rss)
+### bosse
+
+* [https://www.spiegel.de/psychologie/uebers-traeumen](https://www.spiegel.de/psychologie/uebers-traeumen-a-ba69150f-eca6-4951-a59a-af57e2957aa3#ref=rss)
+### stress
+
+* [https://www.spiegel.de/psychologie/uebers-traeumen](https://www.spiegel.de/psychologie/uebers-traeumen-a-ba69150f-eca6-4951-a59a-af57e2957aa3#ref=rss)
+### bielefeld
+
+* [https://www.spiegel.de/panorama/bielefeld-hauptbahnhof-wegen-grosseinsatzes-abgesperrt](https://www.spiegel.de/panorama/bielefeld-hauptbahnhof-wegen-grosseinsatzes-abgesperrt-a-94de473e-dc04-4bf4-83cd-92843bcf5028#ref=rss)
+### hauptbahnhof
+
+* [https://www.spiegel.de/panorama/bielefeld-hauptbahnhof-wegen-grosseinsatzes-abgesperrt](https://www.spiegel.de/panorama/bielefeld-hauptbahnhof-wegen-grosseinsatzes-abgesperrt-a-94de473e-dc04-4bf4-83cd-92843bcf5028#ref=rss)
+### betreuungsmängel
+
+* [https://www.spiegel.de/wirtschaft/betreuungsmaengel-in-deutschland-hort-des-schreckens](https://www.spiegel.de/wirtschaft/betreuungsmaengel-in-deutschland-hort-des-schreckens-a-a5b8e85e-4a4d-4892-893f-decb573ba597#ref=rss)
+### wir
+
+* [https://www.spiegel.de/wirtschaft/betreuungsmaengel-in-deutschland-hort-des-schreckens](https://www.spiegel.de/wirtschaft/betreuungsmaengel-in-deutschland-hort-des-schreckens-a-a5b8e85e-4a4d-4892-893f-decb573ba597#ref=rss)
+### familie
+
+* [https://www.spiegel.de/panorama/abschiebung-einer-familie-nach-nigeria-ich-vermisse-sogar-die-ampeln](https://www.spiegel.de/panorama/abschiebung-einer-familie-nach-nigeria-ich-vermisse-sogar-die-ampeln-a-f16af5be-87e4-4ce6-8b85-a3066a7c8ae2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/wisconsin-microsoft-zahlt-76-millionen-dollar-fuer-ein-maislabyrinth](https://www.spiegel.de/wirtschaft/unternehmen/wisconsin-microsoft-zahlt-76-millionen-dollar-fuer-ein-maislabyrinth-a-a817596c-106f-41c4-8160-909ccca3bdbb#ref=rss)
+### nigeria
+
+* [https://www.spiegel.de/panorama/abschiebung-einer-familie-nach-nigeria-ich-vermisse-sogar-die-ampeln](https://www.spiegel.de/panorama/abschiebung-einer-familie-nach-nigeria-ich-vermisse-sogar-die-ampeln-a-f16af5be-87e4-4ce6-8b85-a3066a7c8ae2#ref=rss)
+### gut
+
+* [https://www.spiegel.de/panorama/abschiebung-einer-familie-nach-nigeria-ich-vermisse-sogar-die-ampeln](https://www.spiegel.de/panorama/abschiebung-einer-familie-nach-nigeria-ich-vermisse-sogar-die-ampeln-a-f16af5be-87e4-4ce6-8b85-a3066a7c8ae2#ref=rss)
+* [https://www.spiegel.de/ausland/alexej-nawalny-in-strafkolonie-in-der-polarregion-verlegt](https://www.spiegel.de/ausland/alexej-nawalny-in-strafkolonie-in-der-polarregion-verlegt-a-982d1734-43c5-4d7a-9a25-055ab997b5a8#ref=rss)
+### wetter
+
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-hochwassergefahr-bleibt-in-teilen-deutschlands-hoch-windehausen-in-thueringen-evakuiert](https://www.spiegel.de/panorama/wetter-in-deutschland-hochwassergefahr-bleibt-in-teilen-deutschlands-hoch-windehausen-in-thueringen-evakuiert-a-76ad761b-9b49-4c4c-a24f-df54761503cb#ref=rss)
+* [https://www.spiegel.de/ausland/wetter-schweiz-erlebt-teils-waermsten-heiligabend-seit-mehr-als-100-jahren](https://www.spiegel.de/ausland/wetter-schweiz-erlebt-teils-waermsten-heiligabend-seit-mehr-als-100-jahren-a-90a6e81c-0024-428a-92cd-b40c67c5f153#ref=rss)
+### bleibt
+
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-hochwassergefahr-bleibt-in-teilen-deutschlands-hoch-windehausen-in-thueringen-evakuiert](https://www.spiegel.de/panorama/wetter-in-deutschland-hochwassergefahr-bleibt-in-teilen-deutschlands-hoch-windehausen-in-thueringen-evakuiert-a-76ad761b-9b49-4c4c-a24f-df54761503cb#ref=rss)
 * [https://www.spiegel.de/panorama/nordseekueste-sturmflut-erwartet-im-wesergebiet-und-wilhelmshaven](https://www.spiegel.de/panorama/nordseekueste-sturmflut-erwartet-im-wesergebiet-und-wilhelmshaven-a-d74451ea-c06b-4897-baeb-4e581e86a750#ref=rss)
-* [https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-und-seine-detroit-lions-erreichen-die-playoffs](https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-und-seine-detroit-lions-erreichen-die-playoffs-a-e1a7283b-bad3-46a8-ba1d-decc7b9bbc0e#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-macht-ukrainern-zu-weihnachten-mut](https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-macht-ukrainern-zu-weihnachten-mut-a-fb071c14-36d5-43ae-b1fe-2129c1d086f6#ref=rss)
+### teilen
+
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-hochwassergefahr-bleibt-in-teilen-deutschlands-hoch-windehausen-in-thueringen-evakuiert](https://www.spiegel.de/panorama/wetter-in-deutschland-hochwassergefahr-bleibt-in-teilen-deutschlands-hoch-windehausen-in-thueringen-evakuiert-a-76ad761b-9b49-4c4c-a24f-df54761503cb#ref=rss)
+### deutschlands
+
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-hochwassergefahr-bleibt-in-teilen-deutschlands-hoch-windehausen-in-thueringen-evakuiert](https://www.spiegel.de/panorama/wetter-in-deutschland-hochwassergefahr-bleibt-in-teilen-deutschlands-hoch-windehausen-in-thueringen-evakuiert-a-76ad761b-9b49-4c4c-a24f-df54761503cb#ref=rss)
+### thüringen
+
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-hochwassergefahr-bleibt-in-teilen-deutschlands-hoch-windehausen-in-thueringen-evakuiert](https://www.spiegel.de/panorama/wetter-in-deutschland-hochwassergefahr-bleibt-in-teilen-deutschlands-hoch-windehausen-in-thueringen-evakuiert-a-76ad761b-9b49-4c4c-a24f-df54761503cb#ref=rss)
+### drohen
+
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-hochwassergefahr-bleibt-in-teilen-deutschlands-hoch-windehausen-in-thueringen-evakuiert](https://www.spiegel.de/panorama/wetter-in-deutschland-hochwassergefahr-bleibt-in-teilen-deutschlands-hoch-windehausen-in-thueringen-evakuiert-a-76ad761b-9b49-4c4c-a24f-df54761503cb#ref=rss)
+* [https://www.spiegel.de/kultur/filmgeschichte-in-streaming-zeiten-vom-streaming-verweht](https://www.spiegel.de/kultur/filmgeschichte-in-streaming-zeiten-vom-streaming-verweht-a-29b0ac4c-76c8-49ae-8982-1b0e9c821707#ref=rss)
+### seawatch
+
+* [https://www.spiegel.de/ausland/sea-watch-rettet-an-heiligabend-118-menschen-aus-dem-mittelmeer](https://www.spiegel.de/ausland/sea-watch-rettet-an-heiligabend-118-menschen-aus-dem-mittelmeer-a-d3ca46ce-1ce4-4421-ae4d-363748d3a3e1#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/ausland/sea-watch-rettet-an-heiligabend-118-menschen-aus-dem-mittelmeer](https://www.spiegel.de/ausland/sea-watch-rettet-an-heiligabend-118-menschen-aus-dem-mittelmeer-a-d3ca46ce-1ce4-4421-ae4d-363748d3a3e1#ref=rss)
+* [https://www.spiegel.de/wissenschaft/historiker-simon-sebag-montefiore-die-macht-von-frauen-lag-in-der-kontrolle-ihres-sohnes](https://www.spiegel.de/wissenschaft/historiker-simon-sebag-montefiore-die-macht-von-frauen-lag-in-der-kontrolle-ihres-sohnes-a-6d95654f-368f-4b51-9870-3ed6e9131bbc#ref=rss)
+### alkohol
+
+* [https://www.spiegel.de/gesundheit/alkohol-trinken-sie-mehr-als-der-durchschnitt](https://www.spiegel.de/gesundheit/alkohol-trinken-sie-mehr-als-der-durchschnitt-a-699f900d-6ae0-4dc7-81fd-1b5885e900f0#ref=rss)
+### trinken
+
+* [https://www.spiegel.de/gesundheit/alkohol-trinken-sie-mehr-als-der-durchschnitt](https://www.spiegel.de/gesundheit/alkohol-trinken-sie-mehr-als-der-durchschnitt-a-699f900d-6ae0-4dc7-81fd-1b5885e900f0#ref=rss)
+### durchschnitt
+
+* [https://www.spiegel.de/gesundheit/alkohol-trinken-sie-mehr-als-der-durchschnitt](https://www.spiegel.de/gesundheit/alkohol-trinken-sie-mehr-als-der-durchschnitt-a-699f900d-6ae0-4dc7-81fd-1b5885e900f0#ref=rss)
+### schweden
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-blockade-in-schweden-das-schiff-muss-dann-mit-den-teslas-wieder-ablegen](https://www.spiegel.de/wirtschaft/unternehmen/tesla-blockade-in-schweden-das-schiff-muss-dann-mit-den-teslas-wieder-ablegen-a-73579d7f-f6d3-43f4-b380-a138c38407a1#ref=rss)
+### gemeldet
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-chef-yahya-sinwar-will-sich-israel-nicht-unterwerfen](https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-chef-yahya-sinwar-will-sich-israel-nicht-unterwerfen-a-8f34fbe1-8307-423c-9bd7-314ca6f66dfc#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-greift-kurdische-gebiete-in-syrien-und-im-irak-an](https://www.spiegel.de/ausland/tuerkei-greift-kurdische-gebiete-in-syrien-und-im-irak-an-a-e9583fd0-6fac-491f-a9ed-03cd8305e6b0#ref=rss)
+### türkei
+
+* [https://www.spiegel.de/ausland/tuerkei-greift-kurdische-gebiete-in-syrien-und-im-irak-an](https://www.spiegel.de/ausland/tuerkei-greift-kurdische-gebiete-in-syrien-und-im-irak-an-a-e9583fd0-6fac-491f-a9ed-03cd8305e6b0#ref=rss)
+### irak
+
+* [https://www.spiegel.de/ausland/tuerkei-greift-kurdische-gebiete-in-syrien-und-im-irak-an](https://www.spiegel.de/ausland/tuerkei-greift-kurdische-gebiete-in-syrien-und-im-irak-an-a-e9583fd0-6fac-491f-a9ed-03cd8305e6b0#ref=rss)
+### alexej
+
+* [https://www.spiegel.de/ausland/alexej-nawalny-in-strafkolonie-in-der-polarregion-verlegt](https://www.spiegel.de/ausland/alexej-nawalny-in-strafkolonie-in-der-polarregion-verlegt-a-982d1734-43c5-4d7a-9a25-055ab997b5a8#ref=rss)
+### nawalny
+
+* [https://www.spiegel.de/ausland/alexej-nawalny-in-strafkolonie-in-der-polarregion-verlegt](https://www.spiegel.de/ausland/alexej-nawalny-in-strafkolonie-in-der-polarregion-verlegt-a-982d1734-43c5-4d7a-9a25-055ab997b5a8#ref=rss)
+### strafkolonie
+
+* [https://www.spiegel.de/ausland/alexej-nawalny-in-strafkolonie-in-der-polarregion-verlegt](https://www.spiegel.de/ausland/alexej-nawalny-in-strafkolonie-in-der-polarregion-verlegt-a-982d1734-43c5-4d7a-9a25-055ab997b5a8#ref=rss)
+### polarregion
+
+* [https://www.spiegel.de/ausland/alexej-nawalny-in-strafkolonie-in-der-polarregion-verlegt](https://www.spiegel.de/ausland/alexej-nawalny-in-strafkolonie-in-der-polarregion-verlegt-a-982d1734-43c5-4d7a-9a25-055ab997b5a8#ref=rss)
+### verlegt
+
+* [https://www.spiegel.de/ausland/alexej-nawalny-in-strafkolonie-in-der-polarregion-verlegt](https://www.spiegel.de/ausland/alexej-nawalny-in-strafkolonie-in-der-polarregion-verlegt-a-982d1734-43c5-4d7a-9a25-055ab997b5a8#ref=rss)
+### maersk
+
+* [https://www.spiegel.de/ausland/huthi-angriffe-maersk-will-schiffe-wieder-durchs-rote-meer-fahren-lassen-iran-weist-beteiligung-an-angriffen-auf-handelsschiffe-zurueck](https://www.spiegel.de/ausland/huthi-angriffe-maersk-will-schiffe-wieder-durchs-rote-meer-fahren-lassen-iran-weist-beteiligung-an-angriffen-auf-handelsschiffe-zurueck-a-aa4919ad-9ec4-4eb4-a4f3-3f2c43efd85c#ref=rss)
+### fahren
+
+* [https://www.spiegel.de/ausland/huthi-angriffe-maersk-will-schiffe-wieder-durchs-rote-meer-fahren-lassen-iran-weist-beteiligung-an-angriffen-auf-handelsschiffe-zurueck](https://www.spiegel.de/ausland/huthi-angriffe-maersk-will-schiffe-wieder-durchs-rote-meer-fahren-lassen-iran-weist-beteiligung-an-angriffen-auf-handelsschiffe-zurueck-a-aa4919ad-9ec4-4eb4-a4f3-3f2c43efd85c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/gueterverkehr-bahn-industrieverband-sieht-deutschland-massiv-auf-der-bremse](https://www.spiegel.de/wirtschaft/unternehmen/gueterverkehr-bahn-industrieverband-sieht-deutschland-massiv-auf-der-bremse-a-2c4b5b57-0848-43c2-863a-dcb372df9289#ref=rss)
+### weist
+
+* [https://www.spiegel.de/ausland/huthi-angriffe-maersk-will-schiffe-wieder-durchs-rote-meer-fahren-lassen-iran-weist-beteiligung-an-angriffen-auf-handelsschiffe-zurueck](https://www.spiegel.de/ausland/huthi-angriffe-maersk-will-schiffe-wieder-durchs-rote-meer-fahren-lassen-iran-weist-beteiligung-an-angriffen-auf-handelsschiffe-zurueck-a-aa4919ad-9ec4-4eb4-a4f3-3f2c43efd85c#ref=rss)
+### beteiligung
+
+* [https://www.spiegel.de/ausland/huthi-angriffe-maersk-will-schiffe-wieder-durchs-rote-meer-fahren-lassen-iran-weist-beteiligung-an-angriffen-auf-handelsschiffe-zurueck](https://www.spiegel.de/ausland/huthi-angriffe-maersk-will-schiffe-wieder-durchs-rote-meer-fahren-lassen-iran-weist-beteiligung-an-angriffen-auf-handelsschiffe-zurueck-a-aa4919ad-9ec4-4eb4-a4f3-3f2c43efd85c#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/ausland/huthi-angriffe-maersk-will-schiffe-wieder-durchs-rote-meer-fahren-lassen-iran-weist-beteiligung-an-angriffen-auf-handelsschiffe-zurueck](https://www.spiegel.de/ausland/huthi-angriffe-maersk-will-schiffe-wieder-durchs-rote-meer-fahren-lassen-iran-weist-beteiligung-an-angriffen-auf-handelsschiffe-zurueck-a-aa4919ad-9ec4-4eb4-a4f3-3f2c43efd85c#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/ausland/huthi-angriffe-maersk-will-schiffe-wieder-durchs-rote-meer-fahren-lassen-iran-weist-beteiligung-an-angriffen-auf-handelsschiffe-zurueck](https://www.spiegel.de/ausland/huthi-angriffe-maersk-will-schiffe-wieder-durchs-rote-meer-fahren-lassen-iran-weist-beteiligung-an-angriffen-auf-handelsschiffe-zurueck-a-aa4919ad-9ec4-4eb4-a4f3-3f2c43efd85c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-silvester-polizei-bereitet-sich-auf-krawalle-vor](https://www.spiegel.de/panorama/justiz/berlin-silvester-polizei-bereitet-sich-auf-krawalle-vor-a-6e3139ea-d059-4687-a77c-f80b88da0712#ref=rss)
+### droht
+
+* [https://www.spiegel.de/sport/fussball/fifa-droht-brasilianischem-fussball-verband-mit-sanktionen](https://www.spiegel.de/sport/fussball/fifa-droht-brasilianischem-fussball-verband-mit-sanktionen-a-cc7c9eb5-125e-4a7a-adff-41f1800bb662#ref=rss)
+### 100
+
+* [https://www.spiegel.de/ausland/wetter-schweiz-erlebt-teils-waermsten-heiligabend-seit-mehr-als-100-jahren](https://www.spiegel.de/ausland/wetter-schweiz-erlebt-teils-waermsten-heiligabend-seit-mehr-als-100-jahren-a-90a6e81c-0024-428a-92cd-b40c67c5f153#ref=rss)
+* [https://www.spiegel.de/netzwelt/games/china-laesst-rekordzahl-neuer-onlinespiele-zu-nach-milliardenverlusten-an-den-boersen](https://www.spiegel.de/netzwelt/games/china-laesst-rekordzahl-neuer-onlinespiele-zu-nach-milliardenverlusten-an-den-boersen-a-f313e01c-4592-4f42-9f77-411211c15386#ref=rss)
+### filmgeschichte
+
+* [https://www.spiegel.de/kultur/filmgeschichte-in-streaming-zeiten-vom-streaming-verweht](https://www.spiegel.de/kultur/filmgeschichte-in-streaming-zeiten-vom-streaming-verweht-a-29b0ac4c-76c8-49ae-8982-1b0e9c821707#ref=rss)
+### wärmepumpen
+
+* [https://www.spiegel.de/wirtschaft/waermepumpen-werden-bei-kriminellen-immer-beliebter](https://www.spiegel.de/wirtschaft/waermepumpen-werden-bei-kriminellen-immer-beliebter-a-e7085236-a65b-43b1-932d-9555b19a06c6#ref=rss)
+### neuer
+
+* [https://www.spiegel.de/netzwelt/games/china-laesst-rekordzahl-neuer-onlinespiele-zu-nach-milliardenverlusten-an-den-boersen](https://www.spiegel.de/netzwelt/games/china-laesst-rekordzahl-neuer-onlinespiele-zu-nach-milliardenverlusten-an-den-boersen-a-f313e01c-4592-4f42-9f77-411211c15386#ref=rss)
 ### behörden
 
+* [https://www.spiegel.de/netzwelt/games/china-laesst-rekordzahl-neuer-onlinespiele-zu-nach-milliardenverlusten-an-den-boersen](https://www.spiegel.de/netzwelt/games/china-laesst-rekordzahl-neuer-onlinespiele-zu-nach-milliardenverlusten-an-den-boersen-a-f313e01c-4592-4f42-9f77-411211c15386#ref=rss)
 * [https://www.spiegel.de/panorama/nordseekueste-sturmflut-erwartet-im-wesergebiet-und-wilhelmshaven](https://www.spiegel.de/panorama/nordseekueste-sturmflut-erwartet-im-wesergebiet-und-wilhelmshaven-a-d74451ea-c06b-4897-baeb-4e581e86a750#ref=rss)
-* [https://www.spiegel.de/panorama/chinesische-behoerden-warnen-vor-weihnachts-traditionen](https://www.spiegel.de/panorama/chinesische-behoerden-warnen-vor-weihnachts-traditionen-a-8d92f7c6-8893-4ccd-b0b3-e5c68068477d#ref=rss)
-* [https://www.spiegel.de/ausland/sri-lanka-entlaesst-mehr-als-tausend-haeftlinge](https://www.spiegel.de/ausland/sri-lanka-entlaesst-mehr-als-tausend-haeftlinge-a-f0fb0f32-bac1-4274-bbd7-c0e91d1d4720#ref=rss)
-### könig
+### silvester
 
-* [https://www.spiegel.de/ausland/koenig-charles-iii-vom-monarchiepraktikanten-zum-gekroenten-koenig](https://www.spiegel.de/ausland/koenig-charles-iii-vom-monarchiepraktikanten-zum-gekroenten-koenig-a-24991067-c256-40c3-a6a9-e23f98451871#ref=rss)
-### davon
+* [https://www.spiegel.de/panorama/justiz/berlin-silvester-polizei-bereitet-sich-auf-krawalle-vor](https://www.spiegel.de/panorama/justiz/berlin-silvester-polizei-bereitet-sich-auf-krawalle-vor-a-6e3139ea-d059-4687-a77c-f80b88da0712#ref=rss)
+### kontrolle
 
-* [https://www.spiegel.de/ausland/koenig-charles-iii-vom-monarchiepraktikanten-zum-gekroenten-koenig](https://www.spiegel.de/ausland/koenig-charles-iii-vom-monarchiepraktikanten-zum-gekroenten-koenig-a-24991067-c256-40c3-a6a9-e23f98451871#ref=rss)
-* [https://www.spiegel.de/karriere/job-und-karriere-mit-streit-und-konflikten-souveraen-umgehen-tipps-von-der-expertin](https://www.spiegel.de/karriere/job-und-karriere-mit-streit-und-konflikten-souveraen-umgehen-tipps-von-der-expertin-a-9d4875f9-feca-4039-8f93-f41b7a5384e8#ref=rss)
-* [https://www.spiegel.de/ausland/belgrad-polizei-setzt-traenengas-gegen-oppositionelle-demonstranten-ein](https://www.spiegel.de/ausland/belgrad-polizei-setzt-traenengas-gegen-oppositionelle-demonstranten-ein-a-01c74010-cdd3-465b-9fa8-4ad35afa4004#ref=rss)
-### zufolge
+* [https://www.spiegel.de/panorama/justiz/berlin-silvester-polizei-bereitet-sich-auf-krawalle-vor](https://www.spiegel.de/panorama/justiz/berlin-silvester-polizei-bereitet-sich-auf-krawalle-vor-a-6e3139ea-d059-4687-a77c-f80b88da0712#ref=rss)
+* [https://www.spiegel.de/wissenschaft/historiker-simon-sebag-montefiore-die-macht-von-frauen-lag-in-der-kontrolle-ihres-sohnes](https://www.spiegel.de/wissenschaft/historiker-simon-sebag-montefiore-die-macht-von-frauen-lag-in-der-kontrolle-ihres-sohnes-a-6d95654f-368f-4b51-9870-3ed6e9131bbc#ref=rss)
+### warnt
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-zunehmende-verluste-bei-israels-armee-durch-guerilla-taktik](https://www.spiegel.de/ausland/israel-gaza-krieg-zunehmende-verluste-bei-israels-armee-durch-guerilla-taktik-a-73a2e2c9-f73d-4c2a-8088-b727fb6f67fc#ref=rss)
-* [https://www.spiegel.de/ausland/palaestinenser-beklagen-viele-tote-nach-israelischem-luftangriff](https://www.spiegel.de/ausland/palaestinenser-beklagen-viele-tote-nach-israelischem-luftangriff-a-2365b610-93dd-42dd-9601-f733e5dd9339#ref=rss)
-* [https://www.spiegel.de/ausland/israel-hamas-krieg-militaer-birgt-leichen-von-fuenf-hamas-geiseln](https://www.spiegel.de/ausland/israel-hamas-krieg-militaer-birgt-leichen-von-fuenf-hamas-geiseln-a-a50d10a3-cff1-42c2-acc6-0afe0548fb61#ref=rss)
-### ich
-
-* [https://www.spiegel.de/start/tod-der-grossmutter-dank-ihr-lernte-ich-anderen-generationen-zuzuhoeren](https://www.spiegel.de/start/tod-der-grossmutter-dank-ihr-lernte-ich-anderen-generationen-zuzuhoeren-a-2b442446-3bd1-48cc-a485-8b6863bb3f3f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/alfons-schuhbeck-die-ruhe-vor-dem-knast](https://www.spiegel.de/wirtschaft/alfons-schuhbeck-die-ruhe-vor-dem-knast-a-5248d726-9bd2-4967-8913-55f2166fd73f#ref=rss)
-### israelische
-
-* [https://www.spiegel.de/ausland/israel-hamas-krieg-militaer-birgt-leichen-von-fuenf-hamas-geiseln](https://www.spiegel.de/ausland/israel-hamas-krieg-militaer-birgt-leichen-von-fuenf-hamas-geiseln-a-a50d10a3-cff1-42c2-acc6-0afe0548fb61#ref=rss)
-* [https://www.spiegel.de/ausland/uno-meldet-rund-50-000-schwangere-und-israel-den-fund-von-angeblichen-kinder-sprengstoffguerteln](https://www.spiegel.de/ausland/uno-meldet-rund-50-000-schwangere-und-israel-den-fund-von-angeblichen-kinder-sprengstoffguerteln-a-948cbbac-62f5-4add-a9b9-8bedf699386a#ref=rss)
-* [https://www.spiegel.de/ausland/israel-und-hisbollah-liefen-sich-feuergefechte](https://www.spiegel.de/ausland/israel-und-hisbollah-liefen-sich-feuergefechte-a-664f0375-80e4-4f7a-96a3-40b3a58a6573#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-silvester-polizei-bereitet-sich-auf-krawalle-vor](https://www.spiegel.de/panorama/justiz/berlin-silvester-polizei-bereitet-sich-auf-krawalle-vor-a-6e3139ea-d059-4687-a77c-f80b88da0712#ref=rss)
+* [https://www.spiegel.de/ausland/suedchinesisches-meer-china-warnt-philippinen-vor-extrem-gefaehrlichem-verhalten](https://www.spiegel.de/ausland/suedchinesisches-meer-china-warnt-philippinen-vor-extrem-gefaehrlichem-verhalten-a-e624ec32-c240-4c4e-acf7-4ae6b04bd5ec#ref=rss)
 ### papst
 
 * [https://www.spiegel.de/panorama/livestream-papst-erteilt-segen-und-verkuendet-weihnachtsbotschaft](https://www.spiegel.de/panorama/livestream-papst-erteilt-segen-und-verkuendet-weihnachtsbotschaft-a-0aee9fbd-daa3-4192-b07c-5d68e3578968#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/panorama/livestream-papst-erteilt-segen-und-verkuendet-weihnachtsbotschaft](https://www.spiegel.de/panorama/livestream-papst-erteilt-segen-und-verkuendet-weihnachtsbotschaft-a-0aee9fbd-daa3-4192-b07c-5d68e3578968#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-macht-ukrainern-zu-weihnachten-mut](https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-macht-ukrainern-zu-weihnachten-mut-a-fb071c14-36d5-43ae-b1fe-2129c1d086f6#ref=rss)
-### konflikte
-
-* [https://www.spiegel.de/panorama/livestream-papst-erteilt-segen-und-verkuendet-weihnachtsbotschaft](https://www.spiegel.de/panorama/livestream-papst-erteilt-segen-und-verkuendet-weihnachtsbotschaft-a-0aee9fbd-daa3-4192-b07c-5d68e3578968#ref=rss)
-* [https://www.spiegel.de/karriere/job-und-karriere-mit-streit-und-konflikten-souveraen-umgehen-tipps-von-der-expertin](https://www.spiegel.de/karriere/job-und-karriere-mit-streit-und-konflikten-souveraen-umgehen-tipps-von-der-expertin-a-9d4875f9-feca-4039-8f93-f41b7a5384e8#ref=rss)
-### sehen
-
-* [https://www.spiegel.de/panorama/livestream-papst-erteilt-segen-und-verkuendet-weihnachtsbotschaft](https://www.spiegel.de/panorama/livestream-papst-erteilt-segen-und-verkuendet-weihnachtsbotschaft-a-0aee9fbd-daa3-4192-b07c-5d68e3578968#ref=rss)
-* [https://www.spiegel.de/ausland/israel-praesident-yitzhak-herzog-warnt-vor-spaltung](https://www.spiegel.de/ausland/israel-praesident-yitzhak-herzog-warnt-vor-spaltung-a-f2bad873-f665-4910-844e-826668b906c6#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/ausland/suedchinesisches-meer-china-warnt-philippinen-vor-extrem-gefaehrlichem-verhalten](https://www.spiegel.de/ausland/suedchinesisches-meer-china-warnt-philippinen-vor-extrem-gefaehrlichem-verhalten-a-e624ec32-c240-4c4e-acf7-4ae6b04bd5ec#ref=rss)
-* [https://www.spiegel.de/ausland/israel-praesident-yitzhak-herzog-warnt-vor-spaltung](https://www.spiegel.de/ausland/israel-praesident-yitzhak-herzog-warnt-vor-spaltung-a-f2bad873-f665-4910-844e-826668b906c6#ref=rss)
 ### philippinen
 
 * [https://www.spiegel.de/ausland/suedchinesisches-meer-china-warnt-philippinen-vor-extrem-gefaehrlichem-verhalten](https://www.spiegel.de/ausland/suedchinesisches-meer-china-warnt-philippinen-vor-extrem-gefaehrlichem-verhalten-a-e624ec32-c240-4c4e-acf7-4ae6b04bd5ec#ref=rss)
 ### nba
 
 * [https://www.spiegel.de/sport/basketball/nba-wird-die-beste-basketball-liga-der-welt-den-fans-zu-weich](https://www.spiegel.de/sport/basketball/nba-wird-die-beste-basketball-liga-der-welt-den-fans-zu-weich-a-19c3238b-17ac-4830-821e-d2b5ecd1bef4#ref=rss)
-### fans
-
-* [https://www.spiegel.de/sport/basketball/nba-wird-die-beste-basketball-liga-der-welt-den-fans-zu-weich](https://www.spiegel.de/sport/basketball/nba-wird-die-beste-basketball-liga-der-welt-den-fans-zu-weich-a-19c3238b-17ac-4830-821e-d2b5ecd1bef4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/alfons-schuhbeck-die-ruhe-vor-dem-knast](https://www.spiegel.de/wirtschaft/alfons-schuhbeck-die-ruhe-vor-dem-knast-a-5248d726-9bd2-4967-8913-55f2166fd73f#ref=rss)
 ### brasilien
 
 * [https://www.spiegel.de/ausland/brasilien-und-venezuela-streiten-um-seekuh-tico-gestrandet-in-der-diktatur](https://www.spiegel.de/ausland/brasilien-und-venezuela-streiten-um-seekuh-tico-gestrandet-in-der-diktatur-a-cc25542b-812f-4687-99cb-971be16c54a7#ref=rss)
@@ -144,17 +288,9 @@ tags: __no_header__
 ### seekuh
 
 * [https://www.spiegel.de/ausland/brasilien-und-venezuela-streiten-um-seekuh-tico-gestrandet-in-der-diktatur](https://www.spiegel.de/ausland/brasilien-und-venezuela-streiten-um-seekuh-tico-gestrandet-in-der-diktatur-a-cc25542b-812f-4687-99cb-971be16c54a7#ref=rss)
-### unser
-
-* [https://www.spiegel.de/ausland/brasilien-und-venezuela-streiten-um-seekuh-tico-gestrandet-in-der-diktatur](https://www.spiegel.de/ausland/brasilien-und-venezuela-streiten-um-seekuh-tico-gestrandet-in-der-diktatur-a-cc25542b-812f-4687-99cb-971be16c54a7#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/iphone-neu-einrichten-die-elf-besten-tipps-zum-start](https://www.spiegel.de/netzwelt/gadgets/iphone-neu-einrichten-die-elf-besten-tipps-zum-start-a-d7539c30-0f6f-4434-8bef-c5d9539021b2#ref=rss)
 ### sturmflut
 
 * [https://www.spiegel.de/panorama/nordseekueste-sturmflut-erwartet-im-wesergebiet-und-wilhelmshaven](https://www.spiegel.de/panorama/nordseekueste-sturmflut-erwartet-im-wesergebiet-und-wilhelmshaven-a-d74451ea-c06b-4897-baeb-4e581e86a750#ref=rss)
-### bleibt
-
-* [https://www.spiegel.de/panorama/nordseekueste-sturmflut-erwartet-im-wesergebiet-und-wilhelmshaven](https://www.spiegel.de/panorama/nordseekueste-sturmflut-erwartet-im-wesergebiet-und-wilhelmshaven-a-d74451ea-c06b-4897-baeb-4e581e86a750#ref=rss)
-* [https://www.spiegel.de/ausland/israel-und-hisbollah-liefen-sich-feuergefechte](https://www.spiegel.de/ausland/israel-und-hisbollah-liefen-sich-feuergefechte-a-664f0375-80e4-4f7a-96a3-40b3a58a6573#ref=rss)
 ### historiker
 
 * [https://www.spiegel.de/wissenschaft/historiker-simon-sebag-montefiore-die-macht-von-frauen-lag-in-der-kontrolle-ihres-sohnes](https://www.spiegel.de/wissenschaft/historiker-simon-sebag-montefiore-die-macht-von-frauen-lag-in-der-kontrolle-ihres-sohnes-a-6d95654f-368f-4b51-9870-3ed6e9131bbc#ref=rss)
@@ -164,186 +300,10 @@ tags: __no_header__
 ### montefiore
 
 * [https://www.spiegel.de/wissenschaft/historiker-simon-sebag-montefiore-die-macht-von-frauen-lag-in-der-kontrolle-ihres-sohnes](https://www.spiegel.de/wissenschaft/historiker-simon-sebag-montefiore-die-macht-von-frauen-lag-in-der-kontrolle-ihres-sohnes-a-6d95654f-368f-4b51-9870-3ed6e9131bbc#ref=rss)
-### macht
-
-* [https://www.spiegel.de/wissenschaft/historiker-simon-sebag-montefiore-die-macht-von-frauen-lag-in-der-kontrolle-ihres-sohnes](https://www.spiegel.de/wissenschaft/historiker-simon-sebag-montefiore-die-macht-von-frauen-lag-in-der-kontrolle-ihres-sohnes-a-6d95654f-368f-4b51-9870-3ed6e9131bbc#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-macht-ukrainern-zu-weihnachten-mut](https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-macht-ukrainern-zu-weihnachten-mut-a-fb071c14-36d5-43ae-b1fe-2129c1d086f6#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/wissenschaft/historiker-simon-sebag-montefiore-die-macht-von-frauen-lag-in-der-kontrolle-ihres-sohnes](https://www.spiegel.de/wissenschaft/historiker-simon-sebag-montefiore-die-macht-von-frauen-lag-in-der-kontrolle-ihres-sohnes-a-6d95654f-368f-4b51-9870-3ed6e9131bbc#ref=rss)
-* [https://www.spiegel.de/ausland/israel-hamas-krieg-militaer-birgt-leichen-von-fuenf-hamas-geiseln](https://www.spiegel.de/ausland/israel-hamas-krieg-militaer-birgt-leichen-von-fuenf-hamas-geiseln-a-a50d10a3-cff1-42c2-acc6-0afe0548fb61#ref=rss)
-### lag
-
-* [https://www.spiegel.de/wissenschaft/historiker-simon-sebag-montefiore-die-macht-von-frauen-lag-in-der-kontrolle-ihres-sohnes](https://www.spiegel.de/wissenschaft/historiker-simon-sebag-montefiore-die-macht-von-frauen-lag-in-der-kontrolle-ihres-sohnes-a-6d95654f-368f-4b51-9870-3ed6e9131bbc#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/iphone-neu-einrichten-die-elf-besten-tipps-zum-start](https://www.spiegel.de/netzwelt/gadgets/iphone-neu-einrichten-die-elf-besten-tipps-zum-start-a-d7539c30-0f6f-4434-8bef-c5d9539021b2#ref=rss)
-### dazu
-
-* [https://www.spiegel.de/wissenschaft/historiker-simon-sebag-montefiore-die-macht-von-frauen-lag-in-der-kontrolle-ihres-sohnes](https://www.spiegel.de/wissenschaft/historiker-simon-sebag-montefiore-die-macht-von-frauen-lag-in-der-kontrolle-ihres-sohnes-a-6d95654f-368f-4b51-9870-3ed6e9131bbc#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/die-welt-als-petrischale](https://www.spiegel.de/netzwelt/web/die-welt-als-petrischale-a-204f0e59-e676-4331-8c1f-e4736b5dc9a1#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/wissenschaft/historiker-simon-sebag-montefiore-die-macht-von-frauen-lag-in-der-kontrolle-ihres-sohnes](https://www.spiegel.de/wissenschaft/historiker-simon-sebag-montefiore-die-macht-von-frauen-lag-in-der-kontrolle-ihres-sohnes-a-6d95654f-368f-4b51-9870-3ed6e9131bbc#ref=rss)
-* [https://www.spiegel.de/ausland/uno-meldet-rund-50-000-schwangere-und-israel-den-fund-von-angeblichen-kinder-sprengstoffguerteln](https://www.spiegel.de/ausland/uno-meldet-rund-50-000-schwangere-und-israel-den-fund-von-angeblichen-kinder-sprengstoffguerteln-a-948cbbac-62f5-4add-a9b9-8bedf699386a#ref=rss)
-### 76
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/microsoft-zahlt-76-millionen-dollar-fuer-ein-maislabyrinth-in-wisconsin](https://www.spiegel.de/wirtschaft/unternehmen/microsoft-zahlt-76-millionen-dollar-fuer-ein-maislabyrinth-in-wisconsin-a-a817596c-106f-41c4-8160-909ccca3bdbb#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/microsoft-zahlt-76-millionen-dollar-fuer-ein-maislabyrinth-in-wisconsin](https://www.spiegel.de/wirtschaft/unternehmen/microsoft-zahlt-76-millionen-dollar-fuer-ein-maislabyrinth-in-wisconsin-a-a817596c-106f-41c4-8160-909ccca3bdbb#ref=rss)
-### dollar
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/microsoft-zahlt-76-millionen-dollar-fuer-ein-maislabyrinth-in-wisconsin](https://www.spiegel.de/wirtschaft/unternehmen/microsoft-zahlt-76-millionen-dollar-fuer-ein-maislabyrinth-in-wisconsin-a-a817596c-106f-41c4-8160-909ccca3bdbb#ref=rss)
 ### wisconsin
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/microsoft-zahlt-76-millionen-dollar-fuer-ein-maislabyrinth-in-wisconsin](https://www.spiegel.de/wirtschaft/unternehmen/microsoft-zahlt-76-millionen-dollar-fuer-ein-maislabyrinth-in-wisconsin-a-a817596c-106f-41c4-8160-909ccca3bdbb#ref=rss)
-### charles
+* [https://www.spiegel.de/wirtschaft/unternehmen/wisconsin-microsoft-zahlt-76-millionen-dollar-fuer-ein-maislabyrinth](https://www.spiegel.de/wirtschaft/unternehmen/wisconsin-microsoft-zahlt-76-millionen-dollar-fuer-ein-maislabyrinth-a-a817596c-106f-41c4-8160-909ccca3bdbb#ref=rss)
+### 76
 
-* [https://www.spiegel.de/ausland/koenig-charles-iii-vom-monarchiepraktikanten-zum-gekroenten-koenig](https://www.spiegel.de/ausland/koenig-charles-iii-vom-monarchiepraktikanten-zum-gekroenten-koenig-a-24991067-c256-40c3-a6a9-e23f98451871#ref=rss)
-### iii
-
-* [https://www.spiegel.de/ausland/koenig-charles-iii-vom-monarchiepraktikanten-zum-gekroenten-koenig](https://www.spiegel.de/ausland/koenig-charles-iii-vom-monarchiepraktikanten-zum-gekroenten-koenig-a-24991067-c256-40c3-a6a9-e23f98451871#ref=rss)
-### dagegen
-
-* [https://www.spiegel.de/panorama/chinesische-behoerden-warnen-vor-weihnachts-traditionen](https://www.spiegel.de/panorama/chinesische-behoerden-warnen-vor-weihnachts-traditionen-a-8d92f7c6-8893-4ccd-b0b3-e5c68068477d#ref=rss)
-* [https://www.spiegel.de/ausland/israel-und-hisbollah-liefen-sich-feuergefechte](https://www.spiegel.de/ausland/israel-und-hisbollah-liefen-sich-feuergefechte-a-664f0375-80e4-4f7a-96a3-40b3a58a6573#ref=rss)
-### iphone
-
-* [https://www.spiegel.de/netzwelt/gadgets/iphone-neu-einrichten-die-elf-besten-tipps-zum-start](https://www.spiegel.de/netzwelt/gadgets/iphone-neu-einrichten-die-elf-besten-tipps-zum-start-a-d7539c30-0f6f-4434-8bef-c5d9539021b2#ref=rss)
-### tipps
-
-* [https://www.spiegel.de/netzwelt/gadgets/iphone-neu-einrichten-die-elf-besten-tipps-zum-start](https://www.spiegel.de/netzwelt/gadgets/iphone-neu-einrichten-die-elf-besten-tipps-zum-start-a-d7539c30-0f6f-4434-8bef-c5d9539021b2#ref=rss)
-* [https://www.spiegel.de/karriere/job-und-karriere-mit-streit-und-konflikten-souveraen-umgehen-tipps-von-der-expertin](https://www.spiegel.de/karriere/job-und-karriere-mit-streit-und-konflikten-souveraen-umgehen-tipps-von-der-expertin-a-9d4875f9-feca-4039-8f93-f41b7a5384e8#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/netzwelt/gadgets/iphone-neu-einrichten-die-elf-besten-tipps-zum-start](https://www.spiegel.de/netzwelt/gadgets/iphone-neu-einrichten-die-elf-besten-tipps-zum-start-a-d7539c30-0f6f-4434-8bef-c5d9539021b2#ref=rss)
-* [https://www.spiegel.de/karriere/job-und-karriere-mit-streit-und-konflikten-souveraen-umgehen-tipps-von-der-expertin](https://www.spiegel.de/karriere/job-und-karriere-mit-streit-und-konflikten-souveraen-umgehen-tipps-von-der-expertin-a-9d4875f9-feca-4039-8f93-f41b7a5384e8#ref=rss)
-### sri
-
-* [https://www.spiegel.de/ausland/sri-lanka-entlaesst-mehr-als-tausend-haeftlinge](https://www.spiegel.de/ausland/sri-lanka-entlaesst-mehr-als-tausend-haeftlinge-a-f0fb0f32-bac1-4274-bbd7-c0e91d1d4720#ref=rss)
-### lanka
-
-* [https://www.spiegel.de/ausland/sri-lanka-entlaesst-mehr-als-tausend-haeftlinge](https://www.spiegel.de/ausland/sri-lanka-entlaesst-mehr-als-tausend-haeftlinge-a-f0fb0f32-bac1-4274-bbd7-c0e91d1d4720#ref=rss)
-### amonra
-
-* [https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-und-seine-detroit-lions-erreichen-die-playoffs](https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-und-seine-detroit-lions-erreichen-die-playoffs-a-e1a7283b-bad3-46a8-ba1d-decc7b9bbc0e#ref=rss)
-### st
-
-* [https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-und-seine-detroit-lions-erreichen-die-playoffs](https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-und-seine-detroit-lions-erreichen-die-playoffs-a-e1a7283b-bad3-46a8-ba1d-decc7b9bbc0e#ref=rss)
-### brown
-
-* [https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-und-seine-detroit-lions-erreichen-die-playoffs](https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-und-seine-detroit-lions-erreichen-die-playoffs-a-e1a7283b-bad3-46a8-ba1d-decc7b9bbc0e#ref=rss)
-### detroit
-
-* [https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-und-seine-detroit-lions-erreichen-die-playoffs](https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-und-seine-detroit-lions-erreichen-die-playoffs-a-e1a7283b-bad3-46a8-ba1d-decc7b9bbc0e#ref=rss)
-### lions
-
-* [https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-und-seine-detroit-lions-erreichen-die-playoffs](https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-und-seine-detroit-lions-erreichen-die-playoffs-a-e1a7283b-bad3-46a8-ba1d-decc7b9bbc0e#ref=rss)
-### erreichen
-
-* [https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-und-seine-detroit-lions-erreichen-die-playoffs](https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-und-seine-detroit-lions-erreichen-die-playoffs-a-e1a7283b-bad3-46a8-ba1d-decc7b9bbc0e#ref=rss)
-### playoffs
-
-* [https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-und-seine-detroit-lions-erreichen-die-playoffs](https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-und-seine-detroit-lions-erreichen-die-playoffs-a-e1a7283b-bad3-46a8-ba1d-decc7b9bbc0e#ref=rss)
-### dank
-
-* [https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-und-seine-detroit-lions-erreichen-die-playoffs](https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-und-seine-detroit-lions-erreichen-die-playoffs-a-e1a7283b-bad3-46a8-ba1d-decc7b9bbc0e#ref=rss)
-* [https://www.spiegel.de/start/tod-der-grossmutter-dank-ihr-lernte-ich-anderen-generationen-zuzuhoeren](https://www.spiegel.de/start/tod-der-grossmutter-dank-ihr-lernte-ich-anderen-generationen-zuzuhoeren-a-2b442446-3bd1-48cc-a485-8b6863bb3f3f#ref=rss)
-### gazastreifen
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-zunehmende-verluste-bei-israels-armee-durch-guerilla-taktik](https://www.spiegel.de/ausland/israel-gaza-krieg-zunehmende-verluste-bei-israels-armee-durch-guerilla-taktik-a-73a2e2c9-f73d-4c2a-8088-b727fb6f67fc#ref=rss)
-* [https://www.spiegel.de/ausland/israel-hamas-krieg-militaer-birgt-leichen-von-fuenf-hamas-geiseln](https://www.spiegel.de/ausland/israel-hamas-krieg-militaer-birgt-leichen-von-fuenf-hamas-geiseln-a-a50d10a3-cff1-42c2-acc6-0afe0548fb61#ref=rss)
-### hamas
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-zunehmende-verluste-bei-israels-armee-durch-guerilla-taktik](https://www.spiegel.de/ausland/israel-gaza-krieg-zunehmende-verluste-bei-israels-armee-durch-guerilla-taktik-a-73a2e2c9-f73d-4c2a-8088-b727fb6f67fc#ref=rss)
-* [https://www.spiegel.de/ausland/israel-praesident-yitzhak-herzog-warnt-vor-spaltung](https://www.spiegel.de/ausland/israel-praesident-yitzhak-herzog-warnt-vor-spaltung-a-f2bad873-f665-4910-844e-826668b906c6#ref=rss)
-### chatgpt
-
-* [https://www.spiegel.de/netzwelt/web/die-welt-als-petrischale](https://www.spiegel.de/netzwelt/web/die-welt-als-petrischale-a-204f0e59-e676-4331-8c1f-e4736b5dc9a1#ref=rss)
-### später
-
-* [https://www.spiegel.de/netzwelt/web/die-welt-als-petrischale](https://www.spiegel.de/netzwelt/web/die-welt-als-petrischale-a-204f0e59-e676-4331-8c1f-e4736b5dc9a1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/alfons-schuhbeck-die-ruhe-vor-dem-knast](https://www.spiegel.de/wirtschaft/alfons-schuhbeck-die-ruhe-vor-dem-knast-a-5248d726-9bd2-4967-8913-55f2166fd73f#ref=rss)
-### migranten
-
-* [https://www.spiegel.de/ausland/mexiko-tausende-migranten-starten-mit-treck-in-richtung-usa](https://www.spiegel.de/ausland/mexiko-tausende-migranten-starten-mit-treck-in-richtung-usa-a-f553aa60-6bd3-4b8f-8d12-4ba0ff4aa446#ref=rss)
-### treck
-
-* [https://www.spiegel.de/ausland/mexiko-tausende-migranten-starten-mit-treck-in-richtung-usa](https://www.spiegel.de/ausland/mexiko-tausende-migranten-starten-mit-treck-in-richtung-usa-a-f553aa60-6bd3-4b8f-8d12-4ba0ff4aa446#ref=rss)
-### richtung
-
-* [https://www.spiegel.de/ausland/mexiko-tausende-migranten-starten-mit-treck-in-richtung-usa](https://www.spiegel.de/ausland/mexiko-tausende-migranten-starten-mit-treck-in-richtung-usa-a-f553aa60-6bd3-4b8f-8d12-4ba0ff4aa446#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/mexiko-tausende-migranten-starten-mit-treck-in-richtung-usa](https://www.spiegel.de/ausland/mexiko-tausende-migranten-starten-mit-treck-in-richtung-usa-a-f553aa60-6bd3-4b8f-8d12-4ba0ff4aa446#ref=rss)
-* [https://www.spiegel.de/ausland/palaestinenser-beklagen-viele-tote-nach-israelischem-luftangriff](https://www.spiegel.de/ausland/palaestinenser-beklagen-viele-tote-nach-israelischem-luftangriff-a-2365b610-93dd-42dd-9601-f733e5dd9339#ref=rss)
-### großmutter
-
-* [https://www.spiegel.de/start/tod-der-grossmutter-dank-ihr-lernte-ich-anderen-generationen-zuzuhoeren](https://www.spiegel.de/start/tod-der-grossmutter-dank-ihr-lernte-ich-anderen-generationen-zuzuhoeren-a-2b442446-3bd1-48cc-a485-8b6863bb3f3f#ref=rss)
-### fest
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-macht-ukrainern-zu-weihnachten-mut](https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-macht-ukrainern-zu-weihnachten-mut-a-fb071c14-36d5-43ae-b1fe-2129c1d086f6#ref=rss)
-* [https://www.spiegel.de/karriere/job-und-karriere-mit-streit-und-konflikten-souveraen-umgehen-tipps-von-der-expertin](https://www.spiegel.de/karriere/job-und-karriere-mit-streit-und-konflikten-souveraen-umgehen-tipps-von-der-expertin-a-9d4875f9-feca-4039-8f93-f41b7a5384e8#ref=rss)
-### alfons
-
-* [https://www.spiegel.de/wirtschaft/alfons-schuhbeck-die-ruhe-vor-dem-knast](https://www.spiegel.de/wirtschaft/alfons-schuhbeck-die-ruhe-vor-dem-knast-a-5248d726-9bd2-4967-8913-55f2166fd73f#ref=rss)
-### schuhbeck
-
-* [https://www.spiegel.de/wirtschaft/alfons-schuhbeck-die-ruhe-vor-dem-knast](https://www.spiegel.de/wirtschaft/alfons-schuhbeck-die-ruhe-vor-dem-knast-a-5248d726-9bd2-4967-8913-55f2166fd73f#ref=rss)
-### tag
-
-* [https://www.spiegel.de/wirtschaft/alfons-schuhbeck-die-ruhe-vor-dem-knast](https://www.spiegel.de/wirtschaft/alfons-schuhbeck-die-ruhe-vor-dem-knast-a-5248d726-9bd2-4967-8913-55f2166fd73f#ref=rss)
-* [https://www.spiegel.de/ausland/uno-meldet-rund-50-000-schwangere-und-israel-den-fund-von-angeblichen-kinder-sprengstoffguerteln](https://www.spiegel.de/ausland/uno-meldet-rund-50-000-schwangere-und-israel-den-fund-von-angeblichen-kinder-sprengstoffguerteln-a-948cbbac-62f5-4add-a9b9-8bedf699386a#ref=rss)
-### job
-
-* [https://www.spiegel.de/karriere/job-und-karriere-mit-streit-und-konflikten-souveraen-umgehen-tipps-von-der-expertin](https://www.spiegel.de/karriere/job-und-karriere-mit-streit-und-konflikten-souveraen-umgehen-tipps-von-der-expertin-a-9d4875f9-feca-4039-8f93-f41b7a5384e8#ref=rss)
-### tote
-
-* [https://www.spiegel.de/ausland/palaestinenser-beklagen-viele-tote-nach-israelischem-luftangriff](https://www.spiegel.de/ausland/palaestinenser-beklagen-viele-tote-nach-israelischem-luftangriff-a-2365b610-93dd-42dd-9601-f733e5dd9339#ref=rss)
-* [https://www.spiegel.de/ausland/israel-hamas-krieg-militaer-birgt-leichen-von-fuenf-hamas-geiseln](https://www.spiegel.de/ausland/israel-hamas-krieg-militaer-birgt-leichen-von-fuenf-hamas-geiseln-a-a50d10a3-cff1-42c2-acc6-0afe0548fb61#ref=rss)
-### luftangriff
-
-* [https://www.spiegel.de/ausland/palaestinenser-beklagen-viele-tote-nach-israelischem-luftangriff](https://www.spiegel.de/ausland/palaestinenser-beklagen-viele-tote-nach-israelischem-luftangriff-a-2365b610-93dd-42dd-9601-f733e5dd9339#ref=rss)
-### angaben
-
-* [https://www.spiegel.de/ausland/palaestinenser-beklagen-viele-tote-nach-israelischem-luftangriff](https://www.spiegel.de/ausland/palaestinenser-beklagen-viele-tote-nach-israelischem-luftangriff-a-2365b610-93dd-42dd-9601-f733e5dd9339#ref=rss)
-* [https://www.spiegel.de/ausland/israel-hamas-krieg-militaer-birgt-leichen-von-fuenf-hamas-geiseln](https://www.spiegel.de/ausland/israel-hamas-krieg-militaer-birgt-leichen-von-fuenf-hamas-geiseln-a-a50d10a3-cff1-42c2-acc6-0afe0548fb61#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/palaestinenser-beklagen-viele-tote-nach-israelischem-luftangriff](https://www.spiegel.de/ausland/palaestinenser-beklagen-viele-tote-nach-israelischem-luftangriff-a-2365b610-93dd-42dd-9601-f733e5dd9339#ref=rss)
-* [https://www.spiegel.de/ausland/uno-meldet-rund-50-000-schwangere-und-israel-den-fund-von-angeblichen-kinder-sprengstoffguerteln](https://www.spiegel.de/ausland/uno-meldet-rund-50-000-schwangere-und-israel-den-fund-von-angeblichen-kinder-sprengstoffguerteln-a-948cbbac-62f5-4add-a9b9-8bedf699386a#ref=rss)
-### fünf
-
-* [https://www.spiegel.de/ausland/israel-hamas-krieg-militaer-birgt-leichen-von-fuenf-hamas-geiseln](https://www.spiegel.de/ausland/israel-hamas-krieg-militaer-birgt-leichen-von-fuenf-hamas-geiseln-a-a50d10a3-cff1-42c2-acc6-0afe0548fb61#ref=rss)
-### yitzhak
-
-* [https://www.spiegel.de/ausland/israel-praesident-yitzhak-herzog-warnt-vor-spaltung](https://www.spiegel.de/ausland/israel-praesident-yitzhak-herzog-warnt-vor-spaltung-a-f2bad873-f665-4910-844e-826668b906c6#ref=rss)
-### herzog
-
-* [https://www.spiegel.de/ausland/israel-praesident-yitzhak-herzog-warnt-vor-spaltung](https://www.spiegel.de/ausland/israel-praesident-yitzhak-herzog-warnt-vor-spaltung-a-f2bad873-f665-4910-844e-826668b906c6#ref=rss)
-### spaltung
-
-* [https://www.spiegel.de/ausland/israel-praesident-yitzhak-herzog-warnt-vor-spaltung](https://www.spiegel.de/ausland/israel-praesident-yitzhak-herzog-warnt-vor-spaltung-a-f2bad873-f665-4910-844e-826668b906c6#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/ausland/israel-praesident-yitzhak-herzog-warnt-vor-spaltung](https://www.spiegel.de/ausland/israel-praesident-yitzhak-herzog-warnt-vor-spaltung-a-f2bad873-f665-4910-844e-826668b906c6#ref=rss)
-* [https://www.spiegel.de/panorama/zentralrat-der-juden-beklagt-muslimische-reaktion-auf-hamas-massaker](https://www.spiegel.de/panorama/zentralrat-der-juden-beklagt-muslimische-reaktion-auf-hamas-massaker-a-366ef7d2-a62a-448e-b25f-c5192e5fddbd#ref=rss)
-### uno
-
-* [https://www.spiegel.de/ausland/uno-meldet-rund-50-000-schwangere-und-israel-den-fund-von-angeblichen-kinder-sprengstoffguerteln](https://www.spiegel.de/ausland/uno-meldet-rund-50-000-schwangere-und-israel-den-fund-von-angeblichen-kinder-sprengstoffguerteln-a-948cbbac-62f5-4add-a9b9-8bedf699386a#ref=rss)
-### hisbollah
-
-* [https://www.spiegel.de/ausland/israel-und-hisbollah-liefen-sich-feuergefechte](https://www.spiegel.de/ausland/israel-und-hisbollah-liefen-sich-feuergefechte-a-664f0375-80e4-4f7a-96a3-40b3a58a6573#ref=rss)
-### hielt
-
-* [https://www.spiegel.de/ausland/israel-und-hisbollah-liefen-sich-feuergefechte](https://www.spiegel.de/ausland/israel-und-hisbollah-liefen-sich-feuergefechte-a-664f0375-80e4-4f7a-96a3-40b3a58a6573#ref=rss)
-* [https://www.spiegel.de/ausland/belgrad-polizei-setzt-traenengas-gegen-oppositionelle-demonstranten-ein](https://www.spiegel.de/ausland/belgrad-polizei-setzt-traenengas-gegen-oppositionelle-demonstranten-ein-a-01c74010-cdd3-465b-9fa8-4ad35afa4004#ref=rss)
-### belgrad
-
-* [https://www.spiegel.de/ausland/belgrad-polizei-setzt-traenengas-gegen-oppositionelle-demonstranten-ein](https://www.spiegel.de/ausland/belgrad-polizei-setzt-traenengas-gegen-oppositionelle-demonstranten-ein-a-01c74010-cdd3-465b-9fa8-4ad35afa4004#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/ausland/belgrad-polizei-setzt-traenengas-gegen-oppositionelle-demonstranten-ein](https://www.spiegel.de/ausland/belgrad-polizei-setzt-traenengas-gegen-oppositionelle-demonstranten-ein-a-01c74010-cdd3-465b-9fa8-4ad35afa4004#ref=rss)
-### juden
-
-* [https://www.spiegel.de/panorama/zentralrat-der-juden-beklagt-muslimische-reaktion-auf-hamas-massaker](https://www.spiegel.de/panorama/zentralrat-der-juden-beklagt-muslimische-reaktion-auf-hamas-massaker-a-366ef7d2-a62a-448e-b25f-c5192e5fddbd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/wisconsin-microsoft-zahlt-76-millionen-dollar-fuer-ein-maislabyrinth](https://www.spiegel.de/wirtschaft/unternehmen/wisconsin-microsoft-zahlt-76-millionen-dollar-fuer-ein-maislabyrinth-a-a817596c-106f-41c4-8160-909ccca3bdbb#ref=rss)
 
