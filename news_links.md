@@ -4,297 +4,359 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
-
-* [https://www.spiegel.de/wissenschaft/natur/wwf-aussterbewelle-rollt-2023-praktisch-ungebremst](https://www.spiegel.de/wissenschaft/natur/wwf-aussterbewelle-rollt-2023-praktisch-ungebremst-a-d89ea9fc-a47f-4556-a24f-a21e8116fd54#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/australien-mehr-als-100-kilo-kokain-an-australischer-kueste-entdeckt](https://www.spiegel.de/panorama/justiz/australien-mehr-als-100-kilo-kokain-an-australischer-kueste-entdeckt-a-651cd232-9f49-4400-b330-f7e3ac5829a0#ref=rss)
-* [https://www.spiegel.de/auto/e-bike-boom-und-schlechte-infrastruktur-warum-wieder-mehr-radfahrer-sterben](https://www.spiegel.de/auto/e-bike-boom-und-schlechte-infrastruktur-warum-wieder-mehr-radfahrer-sterben-a-fb266f24-fae3-4a19-b841-f79e61656ed4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-genehmigt-2023-ruestungsexporte-auf-rekordniveau](https://www.spiegel.de/politik/deutschland/bundesregierung-genehmigt-2023-ruestungsexporte-auf-rekordniveau-a-470d06a2-2ae6-4d3c-bc1b-bdee18ebd642#ref=rss)
-* [https://www.spiegel.de/stil/ikea-vintage-der-stuhl-vilbert-kostet-inzwischen-mehr-als-tausend-euro](https://www.spiegel.de/stil/ikea-vintage-der-stuhl-vilbert-kostet-inzwischen-mehr-als-tausend-euro-a-d05c6249-e583-425d-81b0-ed063f907d4c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-michael-kretschmer-schlaegt-ukraine-voruebergehenden-gebietsverzicht-vor](https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-michael-kretschmer-schlaegt-ukraine-voruebergehenden-gebietsverzicht-vor-a-2ecab94c-aa34-4a8d-854b-c3552981e8bc#ref=rss)
 ### wolfgang
 
-* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot-rueckblick-auf-sein-politisches-leben-in-bildern](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot-rueckblick-auf-sein-politisches-leben-in-bildern-a-6b5d8353-331c-47a3-b995-dbabbf4bb107#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/reaktionen-auf-den-tod-von-wolfgang-schaeuble-cdu-chef-friedrich-merz-trauert-um-engsten-freund-und-ratgeber](https://www.spiegel.de/politik/deutschland/reaktionen-auf-den-tod-von-wolfgang-schaeuble-cdu-chef-friedrich-merz-trauert-um-engsten-freund-und-ratgeber-a-d0fea694-09ef-47dc-8306-a4418ae99d73#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot-a-33e8129f-b41d-4b5d-9a10-fd8aedbbe08d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ueber-wolfgang-schaeuble-waere-er-ein-guter-kanzler-gewesen-ja](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ueber-wolfgang-schaeuble-waere-er-ein-guter-kanzler-gewesen-ja-a-0e444814-8ffa-4a3e-8db3-7c2e3bce2001#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-sind-sie-eher-so-homo-faber-oder-homo-ludens](https://www.spiegel.de/politik/deutschland/news-des-tages-sind-sie-eher-so-homo-faber-oder-homo-ludens-a-2b5a4ad7-7995-48f4-9fd5-c870f55d09c0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-das-waren-die-5-wichtigsten-stationen-seines-politischen-lebens](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-das-waren-die-5-wichtigsten-stationen-seines-politischen-lebens-a-9f595b67-9c95-4a20-bc37-ede31bed9f0e#ref=rss)
+* [https://www.spiegel.de/politik/wolfgang-schaeuble-ist-tot-der-durchhalter-szenen-seiner-karriere](https://www.spiegel.de/politik/wolfgang-schaeuble-ist-tot-der-durchhalter-szenen-seiner-karriere-a-cf935cb9-472a-4550-bbec-cc9a4a5c427b#ref=rss)
 ### schäuble
 
-* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot-rueckblick-auf-sein-politisches-leben-in-bildern](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot-rueckblick-auf-sein-politisches-leben-in-bildern-a-6b5d8353-331c-47a3-b995-dbabbf4bb107#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/reaktionen-auf-den-tod-von-wolfgang-schaeuble-cdu-chef-friedrich-merz-trauert-um-engsten-freund-und-ratgeber](https://www.spiegel.de/politik/deutschland/reaktionen-auf-den-tod-von-wolfgang-schaeuble-cdu-chef-friedrich-merz-trauert-um-engsten-freund-und-ratgeber-a-d0fea694-09ef-47dc-8306-a4418ae99d73#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot-a-33e8129f-b41d-4b5d-9a10-fd8aedbbe08d#ref=rss)
-### ukraine
+* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ueber-wolfgang-schaeuble-waere-er-ein-guter-kanzler-gewesen-ja](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ueber-wolfgang-schaeuble-waere-er-ein-guter-kanzler-gewesen-ja-a-0e444814-8ffa-4a3e-8db3-7c2e3bce2001#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-sind-sie-eher-so-homo-faber-oder-homo-ludens](https://www.spiegel.de/politik/deutschland/news-des-tages-sind-sie-eher-so-homo-faber-oder-homo-ludens-a-2b5a4ad7-7995-48f4-9fd5-c870f55d09c0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-das-waren-die-5-wichtigsten-stationen-seines-politischen-lebens](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-das-waren-die-5-wichtigsten-stationen-seines-politischen-lebens-a-9f595b67-9c95-4a20-bc37-ede31bed9f0e#ref=rss)
+* [https://www.spiegel.de/politik/wolfgang-schaeuble-ist-tot-der-durchhalter-szenen-seiner-karriere](https://www.spiegel.de/politik/wolfgang-schaeuble-ist-tot-der-durchhalter-szenen-seiner-karriere-a-cf935cb9-472a-4550-bbec-cc9a4a5c427b#ref=rss)
+### mann
 
-* [https://www.spiegel.de/panorama/treffen-mit-putins-soldaten-was-wurde-aus-den-russischen-deserteuren](https://www.spiegel.de/panorama/treffen-mit-putins-soldaten-was-wurde-aus-den-russischen-deserteuren-a-cadf61ae-4efc-470e-be4a-1e5e28f87ef8#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-tatverdaechtige-von-kriegsverbrechen-in-hostomel-identifiziert](https://www.spiegel.de/ausland/ukraine-tatverdaechtige-von-kriegsverbrechen-in-hostomel-identifiziert-a-812aaa27-455c-4c89-bb8f-fc5f79b3de0b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-genehmigt-2023-ruestungsexporte-auf-rekordniveau](https://www.spiegel.de/politik/deutschland/bundesregierung-genehmigt-2023-ruestungsexporte-auf-rekordniveau-a-470d06a2-2ae6-4d3c-bc1b-bdee18ebd642#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-michael-kretschmer-schlaegt-ukraine-voruebergehenden-gebietsverzicht-vor](https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-michael-kretschmer-schlaegt-ukraine-voruebergehenden-gebietsverzicht-vor-a-2ecab94c-aa34-4a8d-854b-c3552981e8bc#ref=rss)
-### bundesregierung
+* [https://www.spiegel.de/panorama/indiana-helfer-befreien-mann-aus-pick-up-nach-sechs-tagen](https://www.spiegel.de/panorama/indiana-helfer-befreien-mann-aus-pick-up-nach-sechs-tagen-a-4a0c3df4-b837-437f-9f9f-56da58a25b4b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/paderborn-toedlicher-unfall-mit-muellwagen-zwei-maenner-angeklagt](https://www.spiegel.de/panorama/justiz/paderborn-toedlicher-unfall-mit-muellwagen-zwei-maenner-angeklagt-a-ee039b59-6313-4f62-9e1e-3cf8b755acba#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/england-mann-fuhr-60-jahre-lang-ohne-fuehrerschein-auto](https://www.spiegel.de/panorama/justiz/england-mann-fuhr-60-jahre-lang-ohne-fuehrerschein-auto-a-9c98eac1-9b75-4d2c-b9d4-dc9ebd8dc307#ref=rss)
+### gabriel
 
-* [https://www.spiegel.de/wirtschaft/soziales/digitalisierung-der-verwaltung-bundesregierung-bricht-ihr-eigenes-gesetz](https://www.spiegel.de/wirtschaft/soziales/digitalisierung-der-verwaltung-bundesregierung-bricht-ihr-eigenes-gesetz-a-b46ab730-46d5-44c3-a7f7-3eb4b60d832d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/haben-wir-gleichberechtigung-erreicht-jutta-allmendinger-podcast](https://www.spiegel.de/politik/deutschland/haben-wir-gleichberechtigung-erreicht-jutta-allmendinger-podcast-a-97a64e93-06a4-408d-9884-ff6e07b02202#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-genehmigt-2023-ruestungsexporte-auf-rekordniveau](https://www.spiegel.de/politik/deutschland/bundesregierung-genehmigt-2023-ruestungsexporte-auf-rekordniveau-a-470d06a2-2ae6-4d3c-bc1b-bdee18ebd642#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-michael-kretschmer-schlaegt-ukraine-voruebergehenden-gebietsverzicht-vor](https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-michael-kretschmer-schlaegt-ukraine-voruebergehenden-gebietsverzicht-vor-a-2ecab94c-aa34-4a8d-854b-c3552981e8bc#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/wirtschaft/soziales/digitalisierung-der-verwaltung-bundesregierung-bricht-ihr-eigenes-gesetz](https://www.spiegel.de/wirtschaft/soziales/digitalisierung-der-verwaltung-bundesregierung-bricht-ihr-eigenes-gesetz-a-b46ab730-46d5-44c3-a7f7-3eb4b60d832d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gesundheitssystem-welche-krankenkassen-2024-die-beitraege-erhoehen](https://www.spiegel.de/wirtschaft/gesundheitssystem-welche-krankenkassen-2024-die-beitraege-erhoehen-a-54ccb1ea-011e-4ab6-8b7d-29be5cc9cbf7#ref=rss)
-* [https://www.spiegel.de/auto/e-bike-boom-und-schlechte-infrastruktur-warum-wieder-mehr-radfahrer-sterben](https://www.spiegel.de/auto/e-bike-boom-und-schlechte-infrastruktur-warum-wieder-mehr-radfahrer-sterben-a-fb266f24-fae3-4a19-b841-f79e61656ed4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/krankenhaeuser-deutsche-kliniken-erwarten-2024-drastische-pleitewelle](https://www.spiegel.de/wirtschaft/soziales/krankenhaeuser-deutsche-kliniken-erwarten-2024-drastische-pleitewelle-a-da3b89ce-1d85-4bc0-b0ec-044cccc96a1d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/arztpraxen-bleiben-aus-protest-bis-ins-kommende-jahr-geschlossen](https://www.spiegel.de/wirtschaft/service/arztpraxen-bleiben-aus-protest-bis-ins-kommende-jahr-geschlossen-a-57db9675-6fd5-408e-9446-c157458d89ff#ref=rss)
-### 2023
-
-* [https://www.spiegel.de/wirtschaft/soziales/digitalisierung-der-verwaltung-bundesregierung-bricht-ihr-eigenes-gesetz](https://www.spiegel.de/wirtschaft/soziales/digitalisierung-der-verwaltung-bundesregierung-bricht-ihr-eigenes-gesetz-a-b46ab730-46d5-44c3-a7f7-3eb4b60d832d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/wwf-aussterbewelle-rollt-2023-praktisch-ungebremst](https://www.spiegel.de/wissenschaft/natur/wwf-aussterbewelle-rollt-2023-praktisch-ungebremst-a-d89ea9fc-a47f-4556-a24f-a21e8116fd54#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-genehmigt-2023-ruestungsexporte-auf-rekordniveau](https://www.spiegel.de/politik/deutschland/bundesregierung-genehmigt-2023-ruestungsexporte-auf-rekordniveau-a-470d06a2-2ae6-4d3c-bc1b-bdee18ebd642#ref=rss)
-### fast
-
-* [https://www.spiegel.de/wirtschaft/soziales/digitalisierung-der-verwaltung-bundesregierung-bricht-ihr-eigenes-gesetz](https://www.spiegel.de/wirtschaft/soziales/digitalisierung-der-verwaltung-bundesregierung-bricht-ihr-eigenes-gesetz-a-b46ab730-46d5-44c3-a7f7-3eb4b60d832d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/plastikmuell-pfandpflicht-wird-ab-januar-auf-milchprodukte-ausgeweitet](https://www.spiegel.de/wirtschaft/service/plastikmuell-pfandpflicht-wird-ab-januar-auf-milchprodukte-ausgeweitet-a-34774749-8262-412a-967f-38940af603f3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/arztpraxen-bleiben-aus-protest-bis-ins-kommende-jahr-geschlossen](https://www.spiegel.de/wirtschaft/service/arztpraxen-bleiben-aus-protest-bis-ins-kommende-jahr-geschlossen-a-57db9675-6fd5-408e-9446-c157458d89ff#ref=rss)
-### zeit
-
-* [https://www.spiegel.de/stil/rezept-fuer-spaghetti-ubriachi-genau-das-richtige-fuer-die-zeit-zwischen-den-jahren](https://www.spiegel.de/stil/rezept-fuer-spaghetti-ubriachi-genau-das-richtige-fuer-die-zeit-zwischen-den-jahren-a-41c5ef2a-991d-444d-aabf-9b5e1bb9e292#ref=rss)
-* [https://www.spiegel.de/geschichte/nostalgie-zum-jahresende-ehrenrettung-eines-verrufenen-gefuehls](https://www.spiegel.de/geschichte/nostalgie-zum-jahresende-ehrenrettung-eines-verrufenen-gefuehls-a-e88f537b-99a5-43c9-8cbd-62981cf922eb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/strom-bundesnetzagentur-rechnet-mit-dauerhaft-hohen-strompreisen](https://www.spiegel.de/wirtschaft/service/strom-bundesnetzagentur-rechnet-mit-dauerhaft-hohen-strompreisen-a-7de03247-5c1e-4083-9320-93cb9b58fe52#ref=rss)
-### tot
-
-* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot-rueckblick-auf-sein-politisches-leben-in-bildern](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot-rueckblick-auf-sein-politisches-leben-in-bildern-a-6b5d8353-331c-47a3-b995-dbabbf4bb107#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot-a-33e8129f-b41d-4b5d-9a10-fd8aedbbe08d#ref=rss)
-* [https://www.spiegel.de/panorama/leute/parasite-darsteller-lee-sun-kyun-tot-aufgefunden](https://www.spiegel.de/panorama/leute/parasite-darsteller-lee-sun-kyun-tot-aufgefunden-a-84f6c22c-8673-47f1-853d-d131e602de53#ref=rss)
-### 2024
-
-* [https://www.spiegel.de/wirtschaft/gesundheitssystem-welche-krankenkassen-2024-die-beitraege-erhoehen](https://www.spiegel.de/wirtschaft/gesundheitssystem-welche-krankenkassen-2024-die-beitraege-erhoehen-a-54ccb1ea-011e-4ab6-8b7d-29be5cc9cbf7#ref=rss)
-* [https://www.spiegel.de/sport/darts-wm-2024-die-chancen-von-gabriel-clemens-martin-schindler-ricardo-pietreczko-und-florian-hempel](https://www.spiegel.de/sport/darts-wm-2024-die-chancen-von-gabriel-clemens-martin-schindler-ricardo-pietreczko-und-florian-hempel-a-7bc64458-5a84-496f-8b4b-9807824f5529#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/krankenhaeuser-deutsche-kliniken-erwarten-2024-drastische-pleitewelle](https://www.spiegel.de/wirtschaft/soziales/krankenhaeuser-deutsche-kliniken-erwarten-2024-drastische-pleitewelle-a-da3b89ce-1d85-4bc0-b0ec-044cccc96a1d#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/sport/darts-wm-2024-die-chancen-von-gabriel-clemens-martin-schindler-ricardo-pietreczko-und-florian-hempel](https://www.spiegel.de/sport/darts-wm-2024-die-chancen-von-gabriel-clemens-martin-schindler-ricardo-pietreczko-und-florian-hempel-a-7bc64458-5a84-496f-8b4b-9807824f5529#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/krankenhaeuser-deutsche-kliniken-erwarten-2024-drastische-pleitewelle](https://www.spiegel.de/wirtschaft/soziales/krankenhaeuser-deutsche-kliniken-erwarten-2024-drastische-pleitewelle-a-da3b89ce-1d85-4bc0-b0ec-044cccc96a1d#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-tatverdaechtige-von-kriegsverbrechen-in-hostomel-identifiziert](https://www.spiegel.de/ausland/ukraine-tatverdaechtige-von-kriegsverbrechen-in-hostomel-identifiziert-a-812aaa27-455c-4c89-bb8f-fc5f79b3de0b#ref=rss)
-### soldaten
-
-* [https://www.spiegel.de/panorama/treffen-mit-putins-soldaten-was-wurde-aus-den-russischen-deserteuren](https://www.spiegel.de/panorama/treffen-mit-putins-soldaten-was-wurde-aus-den-russischen-deserteuren-a-cadf61ae-4efc-470e-be4a-1e5e28f87ef8#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-tatverdaechtige-von-kriegsverbrechen-in-hostomel-identifiziert](https://www.spiegel.de/ausland/ukraine-tatverdaechtige-von-kriegsverbrechen-in-hostomel-identifiziert-a-812aaa27-455c-4c89-bb8f-fc5f79b3de0b#ref=rss)
-### spacey
-
-* [https://www.spiegel.de/panorama/leute/kevin-spacey-verurteilt-netflix-fuer-rauswurf-aus-house-of-cards](https://www.spiegel.de/panorama/leute/kevin-spacey-verurteilt-netflix-fuer-rauswurf-aus-house-of-cards-a-79180c10-b0fa-4a78-acb9-68545638df38#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/hochwasser-hunderte-menschen-mussten-ueber-weihnachten-ihr-zuhause-verlassen](https://www.spiegel.de/panorama/hochwasser-hunderte-menschen-mussten-ueber-weihnachten-ihr-zuhause-verlassen-a-37e776d2-6d45-4794-9994-e8c096d7ab0b#ref=rss)
-* [https://www.spiegel.de/psychologie/benimmregeln-100-dinge-die-hoefliche-menschen-beachten-sollten](https://www.spiegel.de/psychologie/benimmregeln-100-dinge-die-hoefliche-menschen-beachten-sollten-a-fbd2fba4-1991-4261-981a-a02693c19b79#ref=rss)
-### lee
-
-* [https://www.spiegel.de/panorama/leute/parasite-darsteller-lee-sun-kyun-tot-aufgefunden](https://www.spiegel.de/panorama/leute/parasite-darsteller-lee-sun-kyun-tot-aufgefunden-a-84f6c22c-8673-47f1-853d-d131e602de53#ref=rss)
-### erreicht
-
-* [https://www.spiegel.de/politik/deutschland/haben-wir-gleichberechtigung-erreicht-jutta-allmendinger-podcast](https://www.spiegel.de/politik/deutschland/haben-wir-gleichberechtigung-erreicht-jutta-allmendinger-podcast-a-97a64e93-06a4-408d-9884-ff6e07b02202#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-genehmigt-2023-ruestungsexporte-auf-rekordniveau](https://www.spiegel.de/politik/deutschland/bundesregierung-genehmigt-2023-ruestungsexporte-auf-rekordniveau-a-470d06a2-2ae6-4d3c-bc1b-bdee18ebd642#ref=rss)
-### jutta
-
-* [https://www.spiegel.de/politik/deutschland/haben-wir-gleichberechtigung-erreicht-jutta-allmendinger-podcast](https://www.spiegel.de/politik/deutschland/haben-wir-gleichberechtigung-erreicht-jutta-allmendinger-podcast-a-97a64e93-06a4-408d-9884-ff6e07b02202#ref=rss)
-### allmendinger
-
-* [https://www.spiegel.de/politik/deutschland/haben-wir-gleichberechtigung-erreicht-jutta-allmendinger-podcast](https://www.spiegel.de/politik/deutschland/haben-wir-gleichberechtigung-erreicht-jutta-allmendinger-podcast-a-97a64e93-06a4-408d-9884-ff6e07b02202#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ueber-wolfgang-schaeuble-waere-er-ein-guter-kanzler-gewesen-ja](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ueber-wolfgang-schaeuble-waere-er-ein-guter-kanzler-gewesen-ja-a-0e444814-8ffa-4a3e-8db3-7c2e3bce2001#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-gabriel-clemens-und-martin-schindler-verpassen-achtelfinale](https://www.spiegel.de/sport/darts-wm-gabriel-clemens-und-martin-schindler-verpassen-achtelfinale-a-fefdbf7a-fbcd-4c68-898e-1a849c1a1756#ref=rss)
 ### jahren
 
-* [https://www.spiegel.de/stil/rezept-fuer-spaghetti-ubriachi-genau-das-richtige-fuer-die-zeit-zwischen-den-jahren](https://www.spiegel.de/stil/rezept-fuer-spaghetti-ubriachi-genau-das-richtige-fuer-die-zeit-zwischen-den-jahren-a-41c5ef2a-991d-444d-aabf-9b5e1bb9e292#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot-a-33e8129f-b41d-4b5d-9a10-fd8aedbbe08d#ref=rss)
-### vielen
+* [https://www.spiegel.de/sport/basketball/nba-adelson-familie-vor-kauf-der-dallas-mavericks](https://www.spiegel.de/sport/basketball/nba-adelson-familie-vor-kauf-der-dallas-mavericks-a-c2a33cc6-e9ac-4f0e-8c9a-c7f529dc9b6e#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/berlin-schliessung-der-rushd-moschee-ich-gefaehrde-mein-leben-mit-diesem-job](https://www.spiegel.de/panorama/gesellschaft/berlin-schliessung-der-rushd-moschee-ich-gefaehrde-mein-leben-mit-diesem-job-a-3a512dfc-a102-4bb4-a07f-fb4028cd0b61#ref=rss)
+* [https://www.spiegel.de/kultur/tv/game-of-thrones-die-buchenallee-dark-hedges-in-nordirland-ist-bedroht](https://www.spiegel.de/kultur/tv/game-of-thrones-die-buchenallee-dark-hedges-in-nordirland-ist-bedroht-a-d2be9d82-267c-4040-b3c8-4fe0f125cbab#ref=rss)
+* [https://www.spiegel.de/politik/wolfgang-schaeuble-ist-tot-der-durchhalter-szenen-seiner-karriere](https://www.spiegel.de/politik/wolfgang-schaeuble-ist-tot-der-durchhalter-szenen-seiner-karriere-a-cf935cb9-472a-4550-bbec-cc9a4a5c427b#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/stil/rezept-fuer-spaghetti-ubriachi-genau-das-richtige-fuer-die-zeit-zwischen-den-jahren](https://www.spiegel.de/stil/rezept-fuer-spaghetti-ubriachi-genau-das-richtige-fuer-die-zeit-zwischen-den-jahren-a-41c5ef2a-991d-444d-aabf-9b5e1bb9e292#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/krankenhaeuser-deutsche-kliniken-erwarten-2024-drastische-pleitewelle](https://www.spiegel.de/wirtschaft/soziales/krankenhaeuser-deutsche-kliniken-erwarten-2024-drastische-pleitewelle-a-da3b89ce-1d85-4bc0-b0ec-044cccc96a1d#ref=rss)
-### wwf
+* [https://www.spiegel.de/wirtschaft/jan-otmar-hesse-ueber-wohlstand-der-exportstolz-der-deutschen-ist-irrational](https://www.spiegel.de/wirtschaft/jan-otmar-hesse-ueber-wohlstand-der-exportstolz-der-deutschen-ist-irrational-a-cd8a20f3-8d97-4c5d-962a-6c888dfd0187#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-gabriel-clemens-und-martin-schindler-verpassen-achtelfinale](https://www.spiegel.de/sport/darts-wm-gabriel-clemens-und-martin-schindler-verpassen-achtelfinale-a-fefdbf7a-fbcd-4c68-898e-1a849c1a1756#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-das-waren-die-5-wichtigsten-stationen-seines-politischen-lebens](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-das-waren-die-5-wichtigsten-stationen-seines-politischen-lebens-a-9f595b67-9c95-4a20-bc37-ede31bed9f0e#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/wissenschaft/natur/wwf-aussterbewelle-rollt-2023-praktisch-ungebremst](https://www.spiegel.de/wissenschaft/natur/wwf-aussterbewelle-rollt-2023-praktisch-ungebremst-a-d89ea9fc-a47f-4556-a24f-a21e8116fd54#ref=rss)
-### gute
+* [https://www.spiegel.de/panorama/justiz/florida-14-jaehriger-soll-schwester-nach-streit-ueber-weihnachtsgeschenke-erschossen-haben](https://www.spiegel.de/panorama/justiz/florida-14-jaehriger-soll-schwester-nach-streit-ueber-weihnachtsgeschenke-erschossen-haben-a-4b324b21-4cff-45a0-a617-ebc06650b0da#ref=rss)
+* [https://www.spiegel.de/panorama/indiana-helfer-befreien-mann-aus-pick-up-nach-sechs-tagen](https://www.spiegel.de/panorama/indiana-helfer-befreien-mann-aus-pick-up-nach-sechs-tagen-a-4a0c3df4-b837-437f-9f9f-56da58a25b4b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/paderborn-toedlicher-unfall-mit-muellwagen-zwei-maenner-angeklagt](https://www.spiegel.de/panorama/justiz/paderborn-toedlicher-unfall-mit-muellwagen-zwei-maenner-angeklagt-a-ee039b59-6313-4f62-9e1e-3cf8b755acba#ref=rss)
+### tot
 
-* [https://www.spiegel.de/wissenschaft/natur/wwf-aussterbewelle-rollt-2023-praktisch-ungebremst](https://www.spiegel.de/wissenschaft/natur/wwf-aussterbewelle-rollt-2023-praktisch-ungebremst-a-d89ea9fc-a47f-4556-a24f-a21e8116fd54#ref=rss)
-* [https://www.spiegel.de/psychologie/benimmregeln-100-dinge-die-hoefliche-menschen-beachten-sollten](https://www.spiegel.de/psychologie/benimmregeln-100-dinge-die-hoefliche-menschen-beachten-sollten-a-fbd2fba4-1991-4261-981a-a02693c19b79#ref=rss)
-### kommen
+* [https://www.spiegel.de/panorama/justiz/florida-14-jaehriger-soll-schwester-nach-streit-ueber-weihnachtsgeschenke-erschossen-haben](https://www.spiegel.de/panorama/justiz/florida-14-jaehriger-soll-schwester-nach-streit-ueber-weihnachtsgeschenke-erschossen-haben-a-4b324b21-4cff-45a0-a617-ebc06650b0da#ref=rss)
+* [https://www.spiegel.de/panorama/leute/lee-sun-kyun-ist-tot-parasite-schauspieler-hatte-drogenvorwuerfe-bestritten](https://www.spiegel.de/panorama/leute/lee-sun-kyun-ist-tot-parasite-schauspieler-hatte-drogenvorwuerfe-bestritten-a-7339a798-199a-4b9d-a3bd-fe0a0aa17968#ref=rss)
+* [https://www.spiegel.de/politik/wolfgang-schaeuble-ist-tot-der-durchhalter-szenen-seiner-karriere](https://www.spiegel.de/politik/wolfgang-schaeuble-ist-tot-der-durchhalter-szenen-seiner-karriere-a-cf935cb9-472a-4550-bbec-cc9a4a5c427b#ref=rss)
+### sechs
 
-* [https://www.spiegel.de/wissenschaft/natur/wwf-aussterbewelle-rollt-2023-praktisch-ungebremst](https://www.spiegel.de/wissenschaft/natur/wwf-aussterbewelle-rollt-2023-praktisch-ungebremst-a-d89ea9fc-a47f-4556-a24f-a21e8116fd54#ref=rss)
-* [https://www.spiegel.de/psychologie/benimmregeln-100-dinge-die-hoefliche-menschen-beachten-sollten](https://www.spiegel.de/psychologie/benimmregeln-100-dinge-die-hoefliche-menschen-beachten-sollten-a-fbd2fba4-1991-4261-981a-a02693c19b79#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wissenschaft/natur/wwf-aussterbewelle-rollt-2023-praktisch-ungebremst](https://www.spiegel.de/wissenschaft/natur/wwf-aussterbewelle-rollt-2023-praktisch-ungebremst-a-d89ea9fc-a47f-4556-a24f-a21e8116fd54#ref=rss)
-* [https://www.spiegel.de/panorama/hochwasser-hunderte-menschen-mussten-ueber-weihnachten-ihr-zuhause-verlassen](https://www.spiegel.de/panorama/hochwasser-hunderte-menschen-mussten-ueber-weihnachten-ihr-zuhause-verlassen-a-37e776d2-6d45-4794-9994-e8c096d7ab0b#ref=rss)
-### rückblick
-
-* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot-rueckblick-auf-sein-politisches-leben-in-bildern](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot-rueckblick-auf-sein-politisches-leben-in-bildern-a-6b5d8353-331c-47a3-b995-dbabbf4bb107#ref=rss)
-### politisches
-
-* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot-rueckblick-auf-sein-politisches-leben-in-bildern](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot-rueckblick-auf-sein-politisches-leben-in-bildern-a-6b5d8353-331c-47a3-b995-dbabbf4bb107#ref=rss)
+* [https://www.spiegel.de/panorama/indiana-helfer-befreien-mann-aus-pick-up-nach-sechs-tagen](https://www.spiegel.de/panorama/indiana-helfer-befreien-mann-aus-pick-up-nach-sechs-tagen-a-4a0c3df4-b837-437f-9f9f-56da58a25b4b#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/berlin-schliessung-der-rushd-moschee-ich-gefaehrde-mein-leben-mit-diesem-job](https://www.spiegel.de/panorama/gesellschaft/berlin-schliessung-der-rushd-moschee-ich-gefaehrde-mein-leben-mit-diesem-job-a-3a512dfc-a102-4bb4-a07f-fb4028cd0b61#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/england-mann-fuhr-60-jahre-lang-ohne-fuehrerschein-auto](https://www.spiegel.de/panorama/justiz/england-mann-fuhr-60-jahre-lang-ohne-fuehrerschein-auto-a-9c98eac1-9b75-4d2c-b9d4-dc9ebd8dc307#ref=rss)
 ### leben
 
-* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot-rueckblick-auf-sein-politisches-leben-in-bildern](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot-rueckblick-auf-sein-politisches-leben-in-bildern-a-6b5d8353-331c-47a3-b995-dbabbf4bb107#ref=rss)
-### bildern
+* [https://www.spiegel.de/panorama/indiana-helfer-befreien-mann-aus-pick-up-nach-sechs-tagen](https://www.spiegel.de/panorama/indiana-helfer-befreien-mann-aus-pick-up-nach-sechs-tagen-a-4a0c3df4-b837-437f-9f9f-56da58a25b4b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/asteroid-ryugu-forschende-finden-molekuele-die-aelter-sind-als-das-sonnensystem](https://www.spiegel.de/wissenschaft/weltall/asteroid-ryugu-forschende-finden-molekuele-die-aelter-sind-als-das-sonnensystem-a-afc83bad-4193-4f99-a8bc-eeed41388c8e#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/berlin-schliessung-der-rushd-moschee-ich-gefaehrde-mein-leben-mit-diesem-job](https://www.spiegel.de/panorama/gesellschaft/berlin-schliessung-der-rushd-moschee-ich-gefaehrde-mein-leben-mit-diesem-job-a-3a512dfc-a102-4bb4-a07f-fb4028cd0b61#ref=rss)
+### gericht
 
-* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot-rueckblick-auf-sein-politisches-leben-in-bildern](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot-rueckblick-auf-sein-politisches-leben-in-bildern-a-6b5d8353-331c-47a3-b995-dbabbf4bb107#ref=rss)
-### bundestag
+* [https://www.spiegel.de/wirtschaft/unternehmen/apple-darf-watches-weiterverkaufen](https://www.spiegel.de/wirtschaft/unternehmen/apple-darf-watches-weiterverkaufen-a-8b95395e-aafd-4040-99f3-6ce248195a44#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/eine-ueberforderte-mutter-und-ihre-drei-soehne-wenn-das-jugendamt-die-kinder-wegnimmt-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/eine-ueberforderte-mutter-und-ihre-drei-soehne-wenn-das-jugendamt-die-kinder-wegnimmt-spiegel-tv-a-35451c3a-24db-40e7-8d3b-a486d89c72a0#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/rechtsstreit-ueber-chatgpt-new-york-times-verklagt-openai-und-microsoft](https://www.spiegel.de/netzwelt/web/rechtsstreit-ueber-chatgpt-new-york-times-verklagt-openai-und-microsoft-a-6a339655-8c89-453a-abd1-fb7fd649ec7b#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot-rueckblick-auf-sein-politisches-leben-in-bildern](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot-rueckblick-auf-sein-politisches-leben-in-bildern-a-6b5d8353-331c-47a3-b995-dbabbf4bb107#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot-a-33e8129f-b41d-4b5d-9a10-fd8aedbbe08d#ref=rss)
-### jahrzehnte
+* [https://www.spiegel.de/panorama/hochwasseralarm-in-deutschland-wo-die-lage-noch-angespannter-werden-koennte](https://www.spiegel.de/panorama/hochwasseralarm-in-deutschland-wo-die-lage-noch-angespannter-werden-koennte-a-c4a444a9-f088-4d38-9dbf-34974340e1e1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-sind-sie-eher-so-homo-faber-oder-homo-ludens](https://www.spiegel.de/politik/deutschland/news-des-tages-sind-sie-eher-so-homo-faber-oder-homo-ludens-a-2b5a4ad7-7995-48f4-9fd5-c870f55d09c0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/jan-otmar-hesse-ueber-wohlstand-der-exportstolz-der-deutschen-ist-irrational](https://www.spiegel.de/wirtschaft/jan-otmar-hesse-ueber-wohlstand-der-exportstolz-der-deutschen-ist-irrational-a-cd8a20f3-8d97-4c5d-962a-6c888dfd0187#ref=rss)
+### lang
 
-* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot-rueckblick-auf-sein-politisches-leben-in-bildern](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot-rueckblick-auf-sein-politisches-leben-in-bildern-a-6b5d8353-331c-47a3-b995-dbabbf4bb107#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot-a-33e8129f-b41d-4b5d-9a10-fd8aedbbe08d#ref=rss)
-### stand
+* [https://www.spiegel.de/ausland/jacques-delors-frueherer-eu-kommissionspraesident-gestorben](https://www.spiegel.de/ausland/jacques-delors-frueherer-eu-kommissionspraesident-gestorben-a-c7e7a350-36c3-42bd-aa9d-132bd2d912ec#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/england-mann-fuhr-60-jahre-lang-ohne-fuehrerschein-auto](https://www.spiegel.de/panorama/justiz/england-mann-fuhr-60-jahre-lang-ohne-fuehrerschein-auto-a-9c98eac1-9b75-4d2c-b9d4-dc9ebd8dc307#ref=rss)
+### ohne
 
-* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot-rueckblick-auf-sein-politisches-leben-in-bildern](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot-rueckblick-auf-sein-politisches-leben-in-bildern-a-6b5d8353-331c-47a3-b995-dbabbf4bb107#ref=rss)
-* [https://www.spiegel.de/panorama/leute/parasite-darsteller-lee-sun-kyun-tot-aufgefunden](https://www.spiegel.de/panorama/leute/parasite-darsteller-lee-sun-kyun-tot-aufgefunden-a-84f6c22c-8673-47f1-853d-d131e602de53#ref=rss)
-### bundespolitik
-
-* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot-rueckblick-auf-sein-politisches-leben-in-bildern](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot-rueckblick-auf-sein-politisches-leben-in-bildern-a-6b5d8353-331c-47a3-b995-dbabbf4bb107#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot-a-33e8129f-b41d-4b5d-9a10-fd8aedbbe08d#ref=rss)
-### cduchef
-
-* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot-rueckblick-auf-sein-politisches-leben-in-bildern](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot-rueckblick-auf-sein-politisches-leben-in-bildern-a-6b5d8353-331c-47a3-b995-dbabbf4bb107#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/reaktionen-auf-den-tod-von-wolfgang-schaeuble-cdu-chef-friedrich-merz-trauert-um-engsten-freund-und-ratgeber](https://www.spiegel.de/politik/deutschland/reaktionen-auf-den-tod-von-wolfgang-schaeuble-cdu-chef-friedrich-merz-trauert-um-engsten-freund-und-ratgeber-a-d0fea694-09ef-47dc-8306-a4418ae99d73#ref=rss)
-### reaktionen
-
-* [https://www.spiegel.de/politik/deutschland/reaktionen-auf-den-tod-von-wolfgang-schaeuble-cdu-chef-friedrich-merz-trauert-um-engsten-freund-und-ratgeber](https://www.spiegel.de/politik/deutschland/reaktionen-auf-den-tod-von-wolfgang-schaeuble-cdu-chef-friedrich-merz-trauert-um-engsten-freund-und-ratgeber-a-d0fea694-09ef-47dc-8306-a4418ae99d73#ref=rss)
-### 100
-
-* [https://www.spiegel.de/panorama/justiz/australien-mehr-als-100-kilo-kokain-an-australischer-kueste-entdeckt](https://www.spiegel.de/panorama/justiz/australien-mehr-als-100-kilo-kokain-an-australischer-kueste-entdeckt-a-651cd232-9f49-4400-b330-f7e3ac5829a0#ref=rss)
-* [https://www.spiegel.de/psychologie/benimmregeln-100-dinge-die-hoefliche-menschen-beachten-sollten](https://www.spiegel.de/psychologie/benimmregeln-100-dinge-die-hoefliche-menschen-beachten-sollten-a-fbd2fba4-1991-4261-981a-a02693c19b79#ref=rss)
-### kokain
-
-* [https://www.spiegel.de/panorama/justiz/australien-mehr-als-100-kilo-kokain-an-australischer-kueste-entdeckt](https://www.spiegel.de/panorama/justiz/australien-mehr-als-100-kilo-kokain-an-australischer-kueste-entdeckt-a-651cd232-9f49-4400-b330-f7e3ac5829a0#ref=rss)
+* [https://www.spiegel.de/kultur/tv/game-of-thrones-die-buchenallee-dark-hedges-in-nordirland-ist-bedroht](https://www.spiegel.de/kultur/tv/game-of-thrones-die-buchenallee-dark-hedges-in-nordirland-ist-bedroht-a-d2be9d82-267c-4040-b3c8-4fe0f125cbab#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/england-mann-fuhr-60-jahre-lang-ohne-fuehrerschein-auto](https://www.spiegel.de/panorama/justiz/england-mann-fuhr-60-jahre-lang-ohne-fuehrerschein-auto-a-9c98eac1-9b75-4d2c-b9d4-dc9ebd8dc307#ref=rss)
 ### polizei
 
-* [https://www.spiegel.de/panorama/justiz/australien-mehr-als-100-kilo-kokain-an-australischer-kueste-entdeckt](https://www.spiegel.de/panorama/justiz/australien-mehr-als-100-kilo-kokain-an-australischer-kueste-entdeckt-a-651cd232-9f49-4400-b330-f7e3ac5829a0#ref=rss)
-* [https://www.spiegel.de/panorama/leute/parasite-darsteller-lee-sun-kyun-tot-aufgefunden](https://www.spiegel.de/panorama/leute/parasite-darsteller-lee-sun-kyun-tot-aufgefunden-a-84f6c22c-8673-47f1-853d-d131e602de53#ref=rss)
-### besonders
+* [https://www.spiegel.de/panorama/justiz/england-mann-fuhr-60-jahre-lang-ohne-fuehrerschein-auto](https://www.spiegel.de/panorama/justiz/england-mann-fuhr-60-jahre-lang-ohne-fuehrerschein-auto-a-9c98eac1-9b75-4d2c-b9d4-dc9ebd8dc307#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-wenn-die-polizei-in-istanbul-gangster-protzkarren-faehrt](https://www.spiegel.de/ausland/tuerkei-wenn-die-polizei-in-istanbul-gangster-protzkarren-faehrt-a-d582ddd8-a0c1-490c-a283-ad15ee585150#ref=rss)
+### russische
 
-* [https://www.spiegel.de/wirtschaft/gesundheitssystem-welche-krankenkassen-2024-die-beitraege-erhoehen](https://www.spiegel.de/wirtschaft/gesundheitssystem-welche-krankenkassen-2024-die-beitraege-erhoehen-a-54ccb1ea-011e-4ab6-8b7d-29be5cc9cbf7#ref=rss)
-* [https://www.spiegel.de/auto/e-bike-boom-und-schlechte-infrastruktur-warum-wieder-mehr-radfahrer-sterben](https://www.spiegel.de/auto/e-bike-boom-und-schlechte-infrastruktur-warum-wieder-mehr-radfahrer-sterben-a-fb266f24-fae3-4a19-b841-f79e61656ed4#ref=rss)
-### dartswm
+* [https://www.spiegel.de/ausland/russische-journalistin-jekaterina-dunzowa-gruendet-eigene-partei](https://www.spiegel.de/ausland/russische-journalistin-jekaterina-dunzowa-gruendet-eigene-partei-a-ec0fb380-04de-4be0-afed-8a611714044a#ref=rss)
+* [https://www.spiegel.de/ausland/niederlande-geheimdienstchef-erik-akerboom-ueber-die-gefahr-islamistischer-terroranschlaege](https://www.spiegel.de/ausland/niederlande-geheimdienstchef-erik-akerboom-ueber-die-gefahr-islamistischer-terroranschlaege-a-2a21d4d8-8f48-4079-a931-6c1e340417a8#ref=rss)
+### journalistin
 
-* [https://www.spiegel.de/sport/darts-wm-2024-die-chancen-von-gabriel-clemens-martin-schindler-ricardo-pietreczko-und-florian-hempel](https://www.spiegel.de/sport/darts-wm-2024-die-chancen-von-gabriel-clemens-martin-schindler-ricardo-pietreczko-und-florian-hempel-a-7bc64458-5a84-496f-8b4b-9807824f5529#ref=rss)
-### cdupolitiker
+* [https://www.spiegel.de/ausland/russische-journalistin-jekaterina-dunzowa-gruendet-eigene-partei](https://www.spiegel.de/ausland/russische-journalistin-jekaterina-dunzowa-gruendet-eigene-partei-a-ec0fb380-04de-4be0-afed-8a611714044a#ref=rss)
+### jekaterina
 
-* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot-a-33e8129f-b41d-4b5d-9a10-fd8aedbbe08d#ref=rss)
-### 81
+* [https://www.spiegel.de/ausland/russische-journalistin-jekaterina-dunzowa-gruendet-eigene-partei](https://www.spiegel.de/ausland/russische-journalistin-jekaterina-dunzowa-gruendet-eigene-partei-a-ec0fb380-04de-4be0-afed-8a611714044a#ref=rss)
+### dunzowa
 
-* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot-a-33e8129f-b41d-4b5d-9a10-fd8aedbbe08d#ref=rss)
-### gestorben
+* [https://www.spiegel.de/ausland/russische-journalistin-jekaterina-dunzowa-gruendet-eigene-partei](https://www.spiegel.de/ausland/russische-journalistin-jekaterina-dunzowa-gruendet-eigene-partei-a-ec0fb380-04de-4be0-afed-8a611714044a#ref=rss)
+### eigene
 
-* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot-a-33e8129f-b41d-4b5d-9a10-fd8aedbbe08d#ref=rss)
-### jahre
+* [https://www.spiegel.de/ausland/russische-journalistin-jekaterina-dunzowa-gruendet-eigene-partei](https://www.spiegel.de/ausland/russische-journalistin-jekaterina-dunzowa-gruendet-eigene-partei-a-ec0fb380-04de-4be0-afed-8a611714044a#ref=rss)
+### partei
 
-* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-ist-tot-a-33e8129f-b41d-4b5d-9a10-fd8aedbbe08d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/strom-bundesnetzagentur-rechnet-mit-dauerhaft-hohen-strompreisen](https://www.spiegel.de/wirtschaft/service/strom-bundesnetzagentur-rechnet-mit-dauerhaft-hohen-strompreisen-a-7de03247-5c1e-4083-9320-93cb9b58fe52#ref=rss)
-### detroit
+* [https://www.spiegel.de/ausland/russische-journalistin-jekaterina-dunzowa-gruendet-eigene-partei](https://www.spiegel.de/ausland/russische-journalistin-jekaterina-dunzowa-gruendet-eigene-partei-a-ec0fb380-04de-4be0-afed-8a611714044a#ref=rss)
+### schwester
 
-* [https://www.spiegel.de/sport/basketball/nba-detroit-pistons-verlieren-gegen-brooklyn-nets-das-27-spiel-in-folge](https://www.spiegel.de/sport/basketball/nba-detroit-pistons-verlieren-gegen-brooklyn-nets-das-27-spiel-in-folge-a-23288b85-8b45-472b-b558-4eb484a7e9f1#ref=rss)
-### pistons
+* [https://www.spiegel.de/panorama/justiz/florida-14-jaehriger-soll-schwester-nach-streit-ueber-weihnachtsgeschenke-erschossen-haben](https://www.spiegel.de/panorama/justiz/florida-14-jaehriger-soll-schwester-nach-streit-ueber-weihnachtsgeschenke-erschossen-haben-a-4b324b21-4cff-45a0-a617-ebc06650b0da#ref=rss)
+### weihnachtsgeschenke
 
-* [https://www.spiegel.de/sport/basketball/nba-detroit-pistons-verlieren-gegen-brooklyn-nets-das-27-spiel-in-folge](https://www.spiegel.de/sport/basketball/nba-detroit-pistons-verlieren-gegen-brooklyn-nets-das-27-spiel-in-folge-a-23288b85-8b45-472b-b558-4eb484a7e9f1#ref=rss)
-### 27
+* [https://www.spiegel.de/panorama/justiz/florida-14-jaehriger-soll-schwester-nach-streit-ueber-weihnachtsgeschenke-erschossen-haben](https://www.spiegel.de/panorama/justiz/florida-14-jaehriger-soll-schwester-nach-streit-ueber-weihnachtsgeschenke-erschossen-haben-a-4b324b21-4cff-45a0-a617-ebc06650b0da#ref=rss)
+### usa
 
-* [https://www.spiegel.de/sport/basketball/nba-detroit-pistons-verlieren-gegen-brooklyn-nets-das-27-spiel-in-folge](https://www.spiegel.de/sport/basketball/nba-detroit-pistons-verlieren-gegen-brooklyn-nets-das-27-spiel-in-folge-a-23288b85-8b45-472b-b558-4eb484a7e9f1#ref=rss)
-### putins
+* [https://www.spiegel.de/panorama/justiz/florida-14-jaehriger-soll-schwester-nach-streit-ueber-weihnachtsgeschenke-erschossen-haben](https://www.spiegel.de/panorama/justiz/florida-14-jaehriger-soll-schwester-nach-streit-ueber-weihnachtsgeschenke-erschossen-haben-a-4b324b21-4cff-45a0-a617-ebc06650b0da#ref=rss)
+* [https://www.spiegel.de/panorama/indiana-helfer-befreien-mann-aus-pick-up-nach-sechs-tagen](https://www.spiegel.de/panorama/indiana-helfer-befreien-mann-aus-pick-up-nach-sechs-tagen-a-4a0c3df4-b837-437f-9f9f-56da58a25b4b#ref=rss)
+### frau
 
-* [https://www.spiegel.de/panorama/treffen-mit-putins-soldaten-was-wurde-aus-den-russischen-deserteuren](https://www.spiegel.de/panorama/treffen-mit-putins-soldaten-was-wurde-aus-den-russischen-deserteuren-a-cadf61ae-4efc-470e-be4a-1e5e28f87ef8#ref=rss)
-### russischen
+* [https://www.spiegel.de/panorama/justiz/florida-14-jaehriger-soll-schwester-nach-streit-ueber-weihnachtsgeschenke-erschossen-haben](https://www.spiegel.de/panorama/justiz/florida-14-jaehriger-soll-schwester-nach-streit-ueber-weihnachtsgeschenke-erschossen-haben-a-4b324b21-4cff-45a0-a617-ebc06650b0da#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/eine-ueberforderte-mutter-und-ihre-drei-soehne-wenn-das-jugendamt-die-kinder-wegnimmt-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/eine-ueberforderte-mutter-und-ihre-drei-soehne-wenn-das-jugendamt-die-kinder-wegnimmt-spiegel-tv-a-35451c3a-24db-40e7-8d3b-a486d89c72a0#ref=rss)
+### männer
 
-* [https://www.spiegel.de/panorama/treffen-mit-putins-soldaten-was-wurde-aus-den-russischen-deserteuren](https://www.spiegel.de/panorama/treffen-mit-putins-soldaten-was-wurde-aus-den-russischen-deserteuren-a-cadf61ae-4efc-470e-be4a-1e5e28f87ef8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-michael-kretschmer-schlaegt-ukraine-voruebergehenden-gebietsverzicht-vor](https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-michael-kretschmer-schlaegt-ukraine-voruebergehenden-gebietsverzicht-vor-a-2ecab94c-aa34-4a8d-854b-c3552981e8bc#ref=rss)
-### vorbei
+* [https://www.spiegel.de/panorama/indiana-helfer-befreien-mann-aus-pick-up-nach-sechs-tagen](https://www.spiegel.de/panorama/indiana-helfer-befreien-mann-aus-pick-up-nach-sechs-tagen-a-4a0c3df4-b837-437f-9f9f-56da58a25b4b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/paderborn-toedlicher-unfall-mit-muellwagen-zwei-maenner-angeklagt](https://www.spiegel.de/panorama/justiz/paderborn-toedlicher-unfall-mit-muellwagen-zwei-maenner-angeklagt-a-ee039b59-6313-4f62-9e1e-3cf8b755acba#ref=rss)
+### fahrzeug
 
-* [https://www.spiegel.de/ausland/chinas-konjunkturflaute-die-wunderjahre-sind-vorbei](https://www.spiegel.de/ausland/chinas-konjunkturflaute-die-wunderjahre-sind-vorbei-a-6e69509f-3e4f-4a36-9485-d2f600cc13d4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/strom-bundesnetzagentur-rechnet-mit-dauerhaft-hohen-strompreisen](https://www.spiegel.de/wirtschaft/service/strom-bundesnetzagentur-rechnet-mit-dauerhaft-hohen-strompreisen-a-7de03247-5c1e-4083-9320-93cb9b58fe52#ref=rss)
-### kevin
+* [https://www.spiegel.de/panorama/indiana-helfer-befreien-mann-aus-pick-up-nach-sechs-tagen](https://www.spiegel.de/panorama/indiana-helfer-befreien-mann-aus-pick-up-nach-sechs-tagen-a-4a0c3df4-b837-437f-9f9f-56da58a25b4b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/paderborn-toedlicher-unfall-mit-muellwagen-zwei-maenner-angeklagt](https://www.spiegel.de/panorama/justiz/paderborn-toedlicher-unfall-mit-muellwagen-zwei-maenner-angeklagt-a-ee039b59-6313-4f62-9e1e-3cf8b755acba#ref=rss)
+### apple
 
-* [https://www.spiegel.de/panorama/leute/kevin-spacey-verurteilt-netflix-fuer-rauswurf-aus-house-of-cards](https://www.spiegel.de/panorama/leute/kevin-spacey-verurteilt-netflix-fuer-rauswurf-aus-house-of-cards-a-79180c10-b0fa-4a78-acb9-68545638df38#ref=rss)
-### netflix
+* [https://www.spiegel.de/wirtschaft/unternehmen/apple-darf-watches-weiterverkaufen](https://www.spiegel.de/wirtschaft/unternehmen/apple-darf-watches-weiterverkaufen-a-8b95395e-aafd-4040-99f3-6ce248195a44#ref=rss)
+### wo
 
-* [https://www.spiegel.de/panorama/leute/kevin-spacey-verurteilt-netflix-fuer-rauswurf-aus-house-of-cards](https://www.spiegel.de/panorama/leute/kevin-spacey-verurteilt-netflix-fuer-rauswurf-aus-house-of-cards-a-79180c10-b0fa-4a78-acb9-68545638df38#ref=rss)
-### schauspieler
+* [https://www.spiegel.de/panorama/hochwasseralarm-in-deutschland-wo-die-lage-noch-angespannter-werden-koennte](https://www.spiegel.de/panorama/hochwasseralarm-in-deutschland-wo-die-lage-noch-angespannter-werden-koennte-a-c4a444a9-f088-4d38-9dbf-34974340e1e1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-sind-sie-eher-so-homo-faber-oder-homo-ludens](https://www.spiegel.de/politik/deutschland/news-des-tages-sind-sie-eher-so-homo-faber-oder-homo-ludens-a-2b5a4ad7-7995-48f4-9fd5-c870f55d09c0#ref=rss)
+### lage
 
-* [https://www.spiegel.de/panorama/leute/kevin-spacey-verurteilt-netflix-fuer-rauswurf-aus-house-of-cards](https://www.spiegel.de/panorama/leute/kevin-spacey-verurteilt-netflix-fuer-rauswurf-aus-house-of-cards-a-79180c10-b0fa-4a78-acb9-68545638df38#ref=rss)
-* [https://www.spiegel.de/panorama/leute/parasite-darsteller-lee-sun-kyun-tot-aufgefunden](https://www.spiegel.de/panorama/leute/parasite-darsteller-lee-sun-kyun-tot-aufgefunden-a-84f6c22c-8673-47f1-853d-d131e602de53#ref=rss)
-### radfahrer
+* [https://www.spiegel.de/panorama/hochwasseralarm-in-deutschland-wo-die-lage-noch-angespannter-werden-koennte](https://www.spiegel.de/panorama/hochwasseralarm-in-deutschland-wo-die-lage-noch-angespannter-werden-koennte-a-c4a444a9-f088-4d38-9dbf-34974340e1e1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-sind-sie-eher-so-homo-faber-oder-homo-ludens](https://www.spiegel.de/politik/deutschland/news-des-tages-sind-sie-eher-so-homo-faber-oder-homo-ludens-a-2b5a4ad7-7995-48f4-9fd5-c870f55d09c0#ref=rss)
+### hochwasser
 
-* [https://www.spiegel.de/auto/e-bike-boom-und-schlechte-infrastruktur-warum-wieder-mehr-radfahrer-sterben](https://www.spiegel.de/auto/e-bike-boom-und-schlechte-infrastruktur-warum-wieder-mehr-radfahrer-sterben-a-fb266f24-fae3-4a19-b841-f79e61656ed4#ref=rss)
-### kommenden
+* [https://www.spiegel.de/panorama/hochwasseralarm-in-deutschland-wo-die-lage-noch-angespannter-werden-koennte](https://www.spiegel.de/panorama/hochwasseralarm-in-deutschland-wo-die-lage-noch-angespannter-werden-koennte-a-c4a444a9-f088-4d38-9dbf-34974340e1e1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-sind-sie-eher-so-homo-faber-oder-homo-ludens](https://www.spiegel.de/politik/deutschland/news-des-tages-sind-sie-eher-so-homo-faber-oder-homo-ludens-a-2b5a4ad7-7995-48f4-9fd5-c870f55d09c0#ref=rss)
+### zurück
 
-* [https://www.spiegel.de/wirtschaft/soziales/krankenhaeuser-deutsche-kliniken-erwarten-2024-drastische-pleitewelle](https://www.spiegel.de/wirtschaft/soziales/krankenhaeuser-deutsche-kliniken-erwarten-2024-drastische-pleitewelle-a-da3b89ce-1d85-4bc0-b0ec-044cccc96a1d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/strom-bundesnetzagentur-rechnet-mit-dauerhaft-hohen-strompreisen](https://www.spiegel.de/wirtschaft/service/strom-bundesnetzagentur-rechnet-mit-dauerhaft-hohen-strompreisen-a-7de03247-5c1e-4083-9320-93cb9b58fe52#ref=rss)
-### kriegsverbrechen
-
-* [https://www.spiegel.de/ausland/ukraine-tatverdaechtige-von-kriegsverbrechen-in-hostomel-identifiziert](https://www.spiegel.de/ausland/ukraine-tatverdaechtige-von-kriegsverbrechen-in-hostomel-identifiziert-a-812aaa27-455c-4c89-bb8f-fc5f79b3de0b#ref=rss)
-### identifiziert
-
-* [https://www.spiegel.de/ausland/ukraine-tatverdaechtige-von-kriegsverbrechen-in-hostomel-identifiziert](https://www.spiegel.de/ausland/ukraine-tatverdaechtige-von-kriegsverbrechen-in-hostomel-identifiziert-a-812aaa27-455c-4c89-bb8f-fc5f79b3de0b#ref=rss)
-### bundesnetzagentur
-
-* [https://www.spiegel.de/wirtschaft/service/strom-bundesnetzagentur-rechnet-mit-dauerhaft-hohen-strompreisen](https://www.spiegel.de/wirtschaft/service/strom-bundesnetzagentur-rechnet-mit-dauerhaft-hohen-strompreisen-a-7de03247-5c1e-4083-9320-93cb9b58fe52#ref=rss)
-### rechnet
-
-* [https://www.spiegel.de/wirtschaft/service/strom-bundesnetzagentur-rechnet-mit-dauerhaft-hohen-strompreisen](https://www.spiegel.de/wirtschaft/service/strom-bundesnetzagentur-rechnet-mit-dauerhaft-hohen-strompreisen-a-7de03247-5c1e-4083-9320-93cb9b58fe52#ref=rss)
-### hohen
-
-* [https://www.spiegel.de/wirtschaft/service/strom-bundesnetzagentur-rechnet-mit-dauerhaft-hohen-strompreisen](https://www.spiegel.de/wirtschaft/service/strom-bundesnetzagentur-rechnet-mit-dauerhaft-hohen-strompreisen-a-7de03247-5c1e-4083-9320-93cb9b58fe52#ref=rss)
-### strompreisen
-
-* [https://www.spiegel.de/wirtschaft/service/strom-bundesnetzagentur-rechnet-mit-dauerhaft-hohen-strompreisen](https://www.spiegel.de/wirtschaft/service/strom-bundesnetzagentur-rechnet-mit-dauerhaft-hohen-strompreisen-a-7de03247-5c1e-4083-9320-93cb9b58fe52#ref=rss)
-### kanye
-
-* [https://www.spiegel.de/panorama/leute/kanye-west-rapper-entschuldigt-sich-fuer-antisemitische-aeusserungen](https://www.spiegel.de/panorama/leute/kanye-west-rapper-entschuldigt-sich-fuer-antisemitische-aeusserungen-a-78c7efb7-958a-4c7a-86ff-8b8ab65e3a44#ref=rss)
-### west
-
-* [https://www.spiegel.de/panorama/leute/kanye-west-rapper-entschuldigt-sich-fuer-antisemitische-aeusserungen](https://www.spiegel.de/panorama/leute/kanye-west-rapper-entschuldigt-sich-fuer-antisemitische-aeusserungen-a-78c7efb7-958a-4c7a-86ff-8b8ab65e3a44#ref=rss)
-### entschuldigt
-
-* [https://www.spiegel.de/panorama/leute/kanye-west-rapper-entschuldigt-sich-fuer-antisemitische-aeusserungen](https://www.spiegel.de/panorama/leute/kanye-west-rapper-entschuldigt-sich-fuer-antisemitische-aeusserungen-a-78c7efb7-958a-4c7a-86ff-8b8ab65e3a44#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/iran-faehrt-laut-internationaler-atomenergiebehoerde-erneut-uran-produktion-hoch](https://www.spiegel.de/ausland/iran-faehrt-laut-internationaler-atomenergiebehoerde-erneut-uran-produktion-hoch-a-ace4ea8c-928a-4cf3-911d-7771da76b60c#ref=rss)
+* [https://www.spiegel.de/panorama/hochwasseralarm-in-deutschland-wo-die-lage-noch-angespannter-werden-koennte](https://www.spiegel.de/panorama/hochwasseralarm-in-deutschland-wo-die-lage-noch-angespannter-werden-koennte-a-c4a444a9-f088-4d38-9dbf-34974340e1e1#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wiktor-zaehlt-die-toten-und-viele-wollen-die-zahl-nicht-wissen](https://www.spiegel.de/ausland/ukraine-wiktor-zaehlt-die-toten-und-viele-wollen-die-zahl-nicht-wissen-a-05aa13d6-3cf9-488a-9b2f-19b3d2c58806#ref=rss)
 ### laut
 
-* [https://www.spiegel.de/ausland/iran-faehrt-laut-internationaler-atomenergiebehoerde-erneut-uran-produktion-hoch](https://www.spiegel.de/ausland/iran-faehrt-laut-internationaler-atomenergiebehoerde-erneut-uran-produktion-hoch-a-ace4ea8c-928a-4cf3-911d-7771da76b60c#ref=rss)
-### internationaler
+* [https://www.spiegel.de/panorama/hochwasseralarm-in-deutschland-wo-die-lage-noch-angespannter-werden-koennte](https://www.spiegel.de/panorama/hochwasseralarm-in-deutschland-wo-die-lage-noch-angespannter-werden-koennte-a-c4a444a9-f088-4d38-9dbf-34974340e1e1#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/paderborn-toedlicher-unfall-mit-muellwagen-zwei-maenner-angeklagt](https://www.spiegel.de/panorama/justiz/paderborn-toedlicher-unfall-mit-muellwagen-zwei-maenner-angeklagt-a-ee039b59-6313-4f62-9e1e-3cf8b755acba#ref=rss)
+### sigmar
 
-* [https://www.spiegel.de/ausland/iran-faehrt-laut-internationaler-atomenergiebehoerde-erneut-uran-produktion-hoch](https://www.spiegel.de/ausland/iran-faehrt-laut-internationaler-atomenergiebehoerde-erneut-uran-produktion-hoch-a-ace4ea8c-928a-4cf3-911d-7771da76b60c#ref=rss)
-### atomenergiebehörde
+* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ueber-wolfgang-schaeuble-waere-er-ein-guter-kanzler-gewesen-ja](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ueber-wolfgang-schaeuble-waere-er-ein-guter-kanzler-gewesen-ja-a-0e444814-8ffa-4a3e-8db3-7c2e3bce2001#ref=rss)
+### jacques
 
-* [https://www.spiegel.de/ausland/iran-faehrt-laut-internationaler-atomenergiebehoerde-erneut-uran-produktion-hoch](https://www.spiegel.de/ausland/iran-faehrt-laut-internationaler-atomenergiebehoerde-erneut-uran-produktion-hoch-a-ace4ea8c-928a-4cf3-911d-7771da76b60c#ref=rss)
-### rüstungsexporte
+* [https://www.spiegel.de/ausland/jacques-delors-frueherer-eu-kommissionspraesident-gestorben](https://www.spiegel.de/ausland/jacques-delors-frueherer-eu-kommissionspraesident-gestorben-a-c7e7a350-36c3-42bd-aa9d-132bd2d912ec#ref=rss)
+### delors
 
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-genehmigt-2023-ruestungsexporte-auf-rekordniveau](https://www.spiegel.de/politik/deutschland/bundesregierung-genehmigt-2023-ruestungsexporte-auf-rekordniveau-a-470d06a2-2ae6-4d3c-bc1b-bdee18ebd642#ref=rss)
-### waffenlieferungen
+* [https://www.spiegel.de/ausland/jacques-delors-frueherer-eu-kommissionspraesident-gestorben](https://www.spiegel.de/ausland/jacques-delors-frueherer-eu-kommissionspraesident-gestorben-a-c7e7a350-36c3-42bd-aa9d-132bd2d912ec#ref=rss)
+### gestorben
 
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-genehmigt-2023-ruestungsexporte-auf-rekordniveau](https://www.spiegel.de/politik/deutschland/bundesregierung-genehmigt-2023-ruestungsexporte-auf-rekordniveau-a-470d06a2-2ae6-4d3c-bc1b-bdee18ebd642#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-michael-kretschmer-schlaegt-ukraine-voruebergehenden-gebietsverzicht-vor](https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-michael-kretschmer-schlaegt-ukraine-voruebergehenden-gebietsverzicht-vor-a-2ecab94c-aa34-4a8d-854b-c3552981e8bc#ref=rss)
-### hunderte
+* [https://www.spiegel.de/ausland/jacques-delors-frueherer-eu-kommissionspraesident-gestorben](https://www.spiegel.de/ausland/jacques-delors-frueherer-eu-kommissionspraesident-gestorben-a-c7e7a350-36c3-42bd-aa9d-132bd2d912ec#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/panorama/hochwasser-hunderte-menschen-mussten-ueber-weihnachten-ihr-zuhause-verlassen](https://www.spiegel.de/panorama/hochwasser-hunderte-menschen-mussten-ueber-weihnachten-ihr-zuhause-verlassen-a-37e776d2-6d45-4794-9994-e8c096d7ab0b#ref=rss)
-### mussten
+* [https://www.spiegel.de/ausland/jacques-delors-frueherer-eu-kommissionspraesident-gestorben](https://www.spiegel.de/ausland/jacques-delors-frueherer-eu-kommissionspraesident-gestorben-a-c7e7a350-36c3-42bd-aa9d-132bd2d912ec#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/england-mann-fuhr-60-jahre-lang-ohne-fuehrerschein-auto](https://www.spiegel.de/panorama/justiz/england-mann-fuhr-60-jahre-lang-ohne-fuehrerschein-auto-a-9c98eac1-9b75-4d2c-b9d4-dc9ebd8dc307#ref=rss)
+### dallas
 
-* [https://www.spiegel.de/panorama/hochwasser-hunderte-menschen-mussten-ueber-weihnachten-ihr-zuhause-verlassen](https://www.spiegel.de/panorama/hochwasser-hunderte-menschen-mussten-ueber-weihnachten-ihr-zuhause-verlassen-a-37e776d2-6d45-4794-9994-e8c096d7ab0b#ref=rss)
-### zuhause
+* [https://www.spiegel.de/sport/basketball/nba-adelson-familie-vor-kauf-der-dallas-mavericks](https://www.spiegel.de/sport/basketball/nba-adelson-familie-vor-kauf-der-dallas-mavericks-a-c2a33cc6-e9ac-4f0e-8c9a-c7f529dc9b6e#ref=rss)
+### mavericks
 
-* [https://www.spiegel.de/panorama/hochwasser-hunderte-menschen-mussten-ueber-weihnachten-ihr-zuhause-verlassen](https://www.spiegel.de/panorama/hochwasser-hunderte-menschen-mussten-ueber-weihnachten-ihr-zuhause-verlassen-a-37e776d2-6d45-4794-9994-e8c096d7ab0b#ref=rss)
-### verlassen
+* [https://www.spiegel.de/sport/basketball/nba-adelson-familie-vor-kauf-der-dallas-mavericks](https://www.spiegel.de/sport/basketball/nba-adelson-familie-vor-kauf-der-dallas-mavericks-a-c2a33cc6-e9ac-4f0e-8c9a-c7f529dc9b6e#ref=rss)
+### sympathien
 
-* [https://www.spiegel.de/panorama/hochwasser-hunderte-menschen-mussten-ueber-weihnachten-ihr-zuhause-verlassen](https://www.spiegel.de/panorama/hochwasser-hunderte-menschen-mussten-ueber-weihnachten-ihr-zuhause-verlassen-a-37e776d2-6d45-4794-9994-e8c096d7ab0b#ref=rss)
-### ikea
+* [https://www.spiegel.de/sport/basketball/nba-adelson-familie-vor-kauf-der-dallas-mavericks](https://www.spiegel.de/sport/basketball/nba-adelson-familie-vor-kauf-der-dallas-mavericks-a-c2a33cc6-e9ac-4f0e-8c9a-c7f529dc9b6e#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-nahost-heftiger-schlagabtausch-zwischen-recep-tayyip-erdogan-und-benjamin-netanyahu](https://www.spiegel.de/ausland/krieg-in-nahost-heftiger-schlagabtausch-zwischen-recep-tayyip-erdogan-und-benjamin-netanyahu-a-49512754-cdbc-411e-bac7-2b2a37a92c2f#ref=rss)
+### zahlreiche
 
-* [https://www.spiegel.de/stil/ikea-vintage-der-stuhl-vilbert-kostet-inzwischen-mehr-als-tausend-euro](https://www.spiegel.de/stil/ikea-vintage-der-stuhl-vilbert-kostet-inzwischen-mehr-als-tausend-euro-a-d05c6249-e583-425d-81b0-ed063f907d4c#ref=rss)
-### sun
+* [https://www.spiegel.de/panorama/japan-kaufhaus-kette-liefert-807-beschaedigte-weihnachts-torten-aus](https://www.spiegel.de/panorama/japan-kaufhaus-kette-liefert-807-beschaedigte-weihnachts-torten-aus-a-3570e059-b47a-45a2-9374-520652cc8509#ref=rss)
+* [https://www.spiegel.de/ausland/israel-berichte-ueber-zahlreiche-tote-im-sueden-des-gazastreifens](https://www.spiegel.de/ausland/israel-berichte-ueber-zahlreiche-tote-im-sueden-des-gazastreifens-a-38b2cadb-97b4-4784-8e8b-4856f5e04dda#ref=rss)
+### erdoğan
 
-* [https://www.spiegel.de/panorama/leute/parasite-darsteller-lee-sun-kyun-tot-aufgefunden](https://www.spiegel.de/panorama/leute/parasite-darsteller-lee-sun-kyun-tot-aufgefunden-a-84f6c22c-8673-47f1-853d-d131e602de53#ref=rss)
-### kyun
+* [https://www.spiegel.de/ausland/krieg-in-nahost-heftiger-schlagabtausch-zwischen-recep-tayyip-erdogan-und-benjamin-netanyahu](https://www.spiegel.de/ausland/krieg-in-nahost-heftiger-schlagabtausch-zwischen-recep-tayyip-erdogan-und-benjamin-netanyahu-a-49512754-cdbc-411e-bac7-2b2a37a92c2f#ref=rss)
+### netanyahu
 
-* [https://www.spiegel.de/panorama/leute/parasite-darsteller-lee-sun-kyun-tot-aufgefunden](https://www.spiegel.de/panorama/leute/parasite-darsteller-lee-sun-kyun-tot-aufgefunden-a-84f6c22c-8673-47f1-853d-d131e602de53#ref=rss)
-### aufgefunden
+* [https://www.spiegel.de/ausland/krieg-in-nahost-heftiger-schlagabtausch-zwischen-recep-tayyip-erdogan-und-benjamin-netanyahu](https://www.spiegel.de/ausland/krieg-in-nahost-heftiger-schlagabtausch-zwischen-recep-tayyip-erdogan-und-benjamin-netanyahu-a-49512754-cdbc-411e-bac7-2b2a37a92c2f#ref=rss)
+### homo
 
-* [https://www.spiegel.de/panorama/leute/parasite-darsteller-lee-sun-kyun-tot-aufgefunden](https://www.spiegel.de/panorama/leute/parasite-darsteller-lee-sun-kyun-tot-aufgefunden-a-84f6c22c-8673-47f1-853d-d131e602de53#ref=rss)
-### protest
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-sind-sie-eher-so-homo-faber-oder-homo-ludens](https://www.spiegel.de/politik/deutschland/news-des-tages-sind-sie-eher-so-homo-faber-oder-homo-ludens-a-2b5a4ad7-7995-48f4-9fd5-c870f55d09c0#ref=rss)
+### ryugu
 
-* [https://www.spiegel.de/wirtschaft/service/arztpraxen-bleiben-aus-protest-bis-ins-kommende-jahr-geschlossen](https://www.spiegel.de/wirtschaft/service/arztpraxen-bleiben-aus-protest-bis-ins-kommende-jahr-geschlossen-a-57db9675-6fd5-408e-9446-c157458d89ff#ref=rss)
-### kretschmer
+* [https://www.spiegel.de/wissenschaft/weltall/asteroid-ryugu-forschende-finden-molekuele-die-aelter-sind-als-das-sonnensystem](https://www.spiegel.de/wissenschaft/weltall/asteroid-ryugu-forschende-finden-molekuele-die-aelter-sind-als-das-sonnensystem-a-afc83bad-4193-4f99-a8bc-eeed41388c8e#ref=rss)
+### moleküle
 
-* [https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-michael-kretschmer-schlaegt-ukraine-voruebergehenden-gebietsverzicht-vor](https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-michael-kretschmer-schlaegt-ukraine-voruebergehenden-gebietsverzicht-vor-a-2ecab94c-aa34-4a8d-854b-c3552981e8bc#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/asteroid-ryugu-forschende-finden-molekuele-die-aelter-sind-als-das-sonnensystem](https://www.spiegel.de/wissenschaft/weltall/asteroid-ryugu-forschende-finden-molekuele-die-aelter-sind-als-das-sonnensystem-a-afc83bad-4193-4f99-a8bc-eeed41388c8e#ref=rss)
+### besonders
+
+* [https://www.spiegel.de/wissenschaft/weltall/asteroid-ryugu-forschende-finden-molekuele-die-aelter-sind-als-das-sonnensystem](https://www.spiegel.de/wissenschaft/weltall/asteroid-ryugu-forschende-finden-molekuele-die-aelter-sind-als-das-sonnensystem-a-afc83bad-4193-4f99-a8bc-eeed41388c8e#ref=rss)
+* [https://www.spiegel.de/ausland/niederlande-geheimdienstchef-erik-akerboom-ueber-die-gefahr-islamistischer-terroranschlaege](https://www.spiegel.de/ausland/niederlande-geheimdienstchef-erik-akerboom-ueber-die-gefahr-islamistischer-terroranschlaege-a-2a21d4d8-8f48-4079-a931-6c1e340417a8#ref=rss)
+### süden
+
+* [https://www.spiegel.de/ausland/israel-berichte-ueber-zahlreiche-tote-im-sueden-des-gazastreifens](https://www.spiegel.de/ausland/israel-berichte-ueber-zahlreiche-tote-im-sueden-des-gazastreifens-a-38b2cadb-97b4-4784-8e8b-4856f5e04dda#ref=rss)
+### gazastreifens
+
+* [https://www.spiegel.de/ausland/israel-berichte-ueber-zahlreiche-tote-im-sueden-des-gazastreifens](https://www.spiegel.de/ausland/israel-berichte-ueber-zahlreiche-tote-im-sueden-des-gazastreifens-a-38b2cadb-97b4-4784-8e8b-4856f5e04dda#ref=rss)
+### behörden
+
+* [https://www.spiegel.de/ausland/israel-berichte-ueber-zahlreiche-tote-im-sueden-des-gazastreifens](https://www.spiegel.de/ausland/israel-berichte-ueber-zahlreiche-tote-im-sueden-des-gazastreifens-a-38b2cadb-97b4-4784-8e8b-4856f5e04dda#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-wenn-die-polizei-in-istanbul-gangster-protzkarren-faehrt](https://www.spiegel.de/ausland/tuerkei-wenn-die-polizei-in-istanbul-gangster-protzkarren-faehrt-a-d582ddd8-a0c1-490c-a283-ad15ee585150#ref=rss)
+### toten
+
+* [https://www.spiegel.de/ausland/israel-berichte-ueber-zahlreiche-tote-im-sueden-des-gazastreifens](https://www.spiegel.de/ausland/israel-berichte-ueber-zahlreiche-tote-im-sueden-des-gazastreifens-a-38b2cadb-97b4-4784-8e8b-4856f5e04dda#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wiktor-zaehlt-die-toten-und-viele-wollen-die-zahl-nicht-wissen](https://www.spiegel.de/ausland/ukraine-wiktor-zaehlt-die-toten-und-viele-wollen-die-zahl-nicht-wissen-a-05aa13d6-3cf9-488a-9b2f-19b3d2c58806#ref=rss)
+### janotmar
+
+* [https://www.spiegel.de/wirtschaft/jan-otmar-hesse-ueber-wohlstand-der-exportstolz-der-deutschen-ist-irrational](https://www.spiegel.de/wirtschaft/jan-otmar-hesse-ueber-wohlstand-der-exportstolz-der-deutschen-ist-irrational-a-cd8a20f3-8d97-4c5d-962a-6c888dfd0187#ref=rss)
+### hesse
+
+* [https://www.spiegel.de/wirtschaft/jan-otmar-hesse-ueber-wohlstand-der-exportstolz-der-deutschen-ist-irrational](https://www.spiegel.de/wirtschaft/jan-otmar-hesse-ueber-wohlstand-der-exportstolz-der-deutschen-ist-irrational-a-cd8a20f3-8d97-4c5d-962a-6c888dfd0187#ref=rss)
+### dahinter
+
+* [https://www.spiegel.de/wirtschaft/jan-otmar-hesse-ueber-wohlstand-der-exportstolz-der-deutschen-ist-irrational](https://www.spiegel.de/wirtschaft/jan-otmar-hesse-ueber-wohlstand-der-exportstolz-der-deutschen-ist-irrational-a-cd8a20f3-8d97-4c5d-962a-6c888dfd0187#ref=rss)
+* [https://www.spiegel.de/ausland/serbien-anhaltende-proteste-gegen-die-regierung-in-belgrad](https://www.spiegel.de/ausland/serbien-anhaltende-proteste-gegen-die-regierung-in-belgrad-a-59131040-3b71-4d93-a161-f768d230245b#ref=rss)
+### steckt
+
+* [https://www.spiegel.de/wirtschaft/jan-otmar-hesse-ueber-wohlstand-der-exportstolz-der-deutschen-ist-irrational](https://www.spiegel.de/wirtschaft/jan-otmar-hesse-ueber-wohlstand-der-exportstolz-der-deutschen-ist-irrational-a-cd8a20f3-8d97-4c5d-962a-6c888dfd0187#ref=rss)
+* [https://www.spiegel.de/ausland/serbien-anhaltende-proteste-gegen-die-regierung-in-belgrad](https://www.spiegel.de/ausland/serbien-anhaltende-proteste-gegen-die-regierung-in-belgrad-a-59131040-3b71-4d93-a161-f768d230245b#ref=rss)
+### land
+
+* [https://www.spiegel.de/wirtschaft/jan-otmar-hesse-ueber-wohlstand-der-exportstolz-der-deutschen-ist-irrational](https://www.spiegel.de/wirtschaft/jan-otmar-hesse-ueber-wohlstand-der-exportstolz-der-deutschen-ist-irrational-a-cd8a20f3-8d97-4c5d-962a-6c888dfd0187#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wiktor-zaehlt-die-toten-und-viele-wollen-die-zahl-nicht-wissen](https://www.spiegel.de/ausland/ukraine-wiktor-zaehlt-die-toten-und-viele-wollen-die-zahl-nicht-wissen-a-05aa13d6-3cf9-488a-9b2f-19b3d2c58806#ref=rss)
+### söhne
+
+* [https://www.spiegel.de/panorama/gesellschaft/eine-ueberforderte-mutter-und-ihre-drei-soehne-wenn-das-jugendamt-die-kinder-wegnimmt-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/eine-ueberforderte-mutter-und-ihre-drei-soehne-wenn-das-jugendamt-die-kinder-wegnimmt-spiegel-tv-a-35451c3a-24db-40e7-8d3b-a486d89c72a0#ref=rss)
+### jugendamt
+
+* [https://www.spiegel.de/panorama/gesellschaft/eine-ueberforderte-mutter-und-ihre-drei-soehne-wenn-das-jugendamt-die-kinder-wegnimmt-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/eine-ueberforderte-mutter-und-ihre-drei-soehne-wenn-das-jugendamt-die-kinder-wegnimmt-spiegel-tv-a-35451c3a-24db-40e7-8d3b-a486d89c72a0#ref=rss)
+### ende
+
+* [https://www.spiegel.de/panorama/gesellschaft/eine-ueberforderte-mutter-und-ihre-drei-soehne-wenn-das-jugendamt-die-kinder-wegnimmt-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/eine-ueberforderte-mutter-und-ihre-drei-soehne-wenn-das-jugendamt-die-kinder-wegnimmt-spiegel-tv-a-35451c3a-24db-40e7-8d3b-a486d89c72a0#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/berlin-schliessung-der-rushd-moschee-ich-gefaehrde-mein-leben-mit-diesem-job](https://www.spiegel.de/panorama/gesellschaft/berlin-schliessung-der-rushd-moschee-ich-gefaehrde-mein-leben-mit-diesem-job-a-3a512dfc-a102-4bb4-a07f-fb4028cd0b61#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/panorama/gesellschaft/berlin-schliessung-der-rushd-moschee-ich-gefaehrde-mein-leben-mit-diesem-job](https://www.spiegel.de/panorama/gesellschaft/berlin-schliessung-der-rushd-moschee-ich-gefaehrde-mein-leben-mit-diesem-job-a-3a512dfc-a102-4bb4-a07f-fb4028cd0b61#ref=rss)
+### erik
+
+* [https://www.spiegel.de/ausland/niederlande-geheimdienstchef-erik-akerboom-ueber-die-gefahr-islamistischer-terroranschlaege](https://www.spiegel.de/ausland/niederlande-geheimdienstchef-erik-akerboom-ueber-die-gefahr-islamistischer-terroranschlaege-a-2a21d4d8-8f48-4079-a931-6c1e340417a8#ref=rss)
+### akerboom
+
+* [https://www.spiegel.de/ausland/niederlande-geheimdienstchef-erik-akerboom-ueber-die-gefahr-islamistischer-terroranschlaege](https://www.spiegel.de/ausland/niederlande-geheimdienstchef-erik-akerboom-ueber-die-gefahr-islamistischer-terroranschlaege-a-2a21d4d8-8f48-4079-a931-6c1e340417a8#ref=rss)
+### gefahr
+
+* [https://www.spiegel.de/ausland/niederlande-geheimdienstchef-erik-akerboom-ueber-die-gefahr-islamistischer-terroranschlaege](https://www.spiegel.de/ausland/niederlande-geheimdienstchef-erik-akerboom-ueber-die-gefahr-islamistischer-terroranschlaege-a-2a21d4d8-8f48-4079-a931-6c1e340417a8#ref=rss)
+### islamistischer
+
+* [https://www.spiegel.de/ausland/niederlande-geheimdienstchef-erik-akerboom-ueber-die-gefahr-islamistischer-terroranschlaege](https://www.spiegel.de/ausland/niederlande-geheimdienstchef-erik-akerboom-ueber-die-gefahr-islamistischer-terroranschlaege-a-2a21d4d8-8f48-4079-a931-6c1e340417a8#ref=rss)
+### terroranschläge
+
+* [https://www.spiegel.de/ausland/niederlande-geheimdienstchef-erik-akerboom-ueber-die-gefahr-islamistischer-terroranschlaege](https://www.spiegel.de/ausland/niederlande-geheimdienstchef-erik-akerboom-ueber-die-gefahr-islamistischer-terroranschlaege-a-2a21d4d8-8f48-4079-a931-6c1e340417a8#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/ausland/serbien-anhaltende-proteste-gegen-die-regierung-in-belgrad](https://www.spiegel.de/ausland/serbien-anhaltende-proteste-gegen-die-regierung-in-belgrad-a-59131040-3b71-4d93-a161-f768d230245b#ref=rss)
+### belgrad
+
+* [https://www.spiegel.de/ausland/serbien-anhaltende-proteste-gegen-die-regierung-in-belgrad](https://www.spiegel.de/ausland/serbien-anhaltende-proteste-gegen-die-regierung-in-belgrad-a-59131040-3b71-4d93-a161-f768d230245b#ref=rss)
+### new
+
+* [https://www.spiegel.de/netzwelt/web/rechtsstreit-ueber-chatgpt-new-york-times-verklagt-openai-und-microsoft](https://www.spiegel.de/netzwelt/web/rechtsstreit-ueber-chatgpt-new-york-times-verklagt-openai-und-microsoft-a-6a339655-8c89-453a-abd1-fb7fd649ec7b#ref=rss)
+### york
+
+* [https://www.spiegel.de/netzwelt/web/rechtsstreit-ueber-chatgpt-new-york-times-verklagt-openai-und-microsoft](https://www.spiegel.de/netzwelt/web/rechtsstreit-ueber-chatgpt-new-york-times-verklagt-openai-und-microsoft-a-6a339655-8c89-453a-abd1-fb7fd649ec7b#ref=rss)
+### times
+
+* [https://www.spiegel.de/netzwelt/web/rechtsstreit-ueber-chatgpt-new-york-times-verklagt-openai-und-microsoft](https://www.spiegel.de/netzwelt/web/rechtsstreit-ueber-chatgpt-new-york-times-verklagt-openai-und-microsoft-a-6a339655-8c89-453a-abd1-fb7fd649ec7b#ref=rss)
+### openai
+
+* [https://www.spiegel.de/netzwelt/web/rechtsstreit-ueber-chatgpt-new-york-times-verklagt-openai-und-microsoft](https://www.spiegel.de/netzwelt/web/rechtsstreit-ueber-chatgpt-new-york-times-verklagt-openai-und-microsoft-a-6a339655-8c89-453a-abd1-fb7fd649ec7b#ref=rss)
+### microsoft
+
+* [https://www.spiegel.de/netzwelt/web/rechtsstreit-ueber-chatgpt-new-york-times-verklagt-openai-und-microsoft](https://www.spiegel.de/netzwelt/web/rechtsstreit-ueber-chatgpt-new-york-times-verklagt-openai-und-microsoft-a-6a339655-8c89-453a-abd1-fb7fd649ec7b#ref=rss)
+### clemens
+
+* [https://www.spiegel.de/sport/darts-wm-gabriel-clemens-und-martin-schindler-verpassen-achtelfinale](https://www.spiegel.de/sport/darts-wm-gabriel-clemens-und-martin-schindler-verpassen-achtelfinale-a-fefdbf7a-fbcd-4c68-898e-1a849c1a1756#ref=rss)
+### martin
+
+* [https://www.spiegel.de/sport/darts-wm-gabriel-clemens-und-martin-schindler-verpassen-achtelfinale](https://www.spiegel.de/sport/darts-wm-gabriel-clemens-und-martin-schindler-verpassen-achtelfinale-a-fefdbf7a-fbcd-4c68-898e-1a849c1a1756#ref=rss)
+### schindler
+
+* [https://www.spiegel.de/sport/darts-wm-gabriel-clemens-und-martin-schindler-verpassen-achtelfinale](https://www.spiegel.de/sport/darts-wm-gabriel-clemens-und-martin-schindler-verpassen-achtelfinale-a-fefdbf7a-fbcd-4c68-898e-1a849c1a1756#ref=rss)
+### graue
+
+* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-das-waren-die-5-wichtigsten-stationen-seines-politischen-lebens](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-das-waren-die-5-wichtigsten-stationen-seines-politischen-lebens-a-9f595b67-9c95-4a20-bc37-ede31bed9f0e#ref=rss)
+* [https://www.spiegel.de/politik/wolfgang-schaeuble-ist-tot-der-durchhalter-szenen-seiner-karriere](https://www.spiegel.de/politik/wolfgang-schaeuble-ist-tot-der-durchhalter-szenen-seiner-karriere-a-cf935cb9-472a-4550-bbec-cc9a4a5c427b#ref=rss)
+### eminenz
+
+* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-das-waren-die-5-wichtigsten-stationen-seines-politischen-lebens](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-das-waren-die-5-wichtigsten-stationen-seines-politischen-lebens-a-9f595b67-9c95-4a20-bc37-ede31bed9f0e#ref=rss)
+* [https://www.spiegel.de/politik/wolfgang-schaeuble-ist-tot-der-durchhalter-szenen-seiner-karriere](https://www.spiegel.de/politik/wolfgang-schaeuble-ist-tot-der-durchhalter-szenen-seiner-karriere-a-cf935cb9-472a-4550-bbec-cc9a4a5c427b#ref=rss)
+### verstorbene
+
+* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-das-waren-die-5-wichtigsten-stationen-seines-politischen-lebens](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-das-waren-die-5-wichtigsten-stationen-seines-politischen-lebens-a-9f595b67-9c95-4a20-bc37-ede31bed9f0e#ref=rss)
+* [https://www.spiegel.de/panorama/leute/lee-sun-kyun-ist-tot-parasite-schauspieler-hatte-drogenvorwuerfe-bestritten](https://www.spiegel.de/panorama/leute/lee-sun-kyun-ist-tot-parasite-schauspieler-hatte-drogenvorwuerfe-bestritten-a-7339a798-199a-4b9d-a3bd-fe0a0aa17968#ref=rss)
+### viele
+
+* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-das-waren-die-5-wichtigsten-stationen-seines-politischen-lebens](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-das-waren-die-5-wichtigsten-stationen-seines-politischen-lebens-a-9f595b67-9c95-4a20-bc37-ede31bed9f0e#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wiktor-zaehlt-die-toten-und-viele-wollen-die-zahl-nicht-wissen](https://www.spiegel.de/ausland/ukraine-wiktor-zaehlt-die-toten-und-viele-wollen-die-zahl-nicht-wissen-a-05aa13d6-3cf9-488a-9b2f-19b3d2c58806#ref=rss)
+### rammsteinenthüllungen
+
+* [https://www.spiegel.de/kultur/rammstein-enthuellungen-werden-zur-herausforderung-fuer-fans](https://www.spiegel.de/kultur/rammstein-enthuellungen-werden-zur-herausforderung-fuer-fans-a-275c3375-5ece-4a6e-a51f-1a1f79eff57d#ref=rss)
+### problematische
+
+* [https://www.spiegel.de/kultur/rammstein-enthuellungen-werden-zur-herausforderung-fuer-fans](https://www.spiegel.de/kultur/rammstein-enthuellungen-werden-zur-herausforderung-fuer-fans-a-275c3375-5ece-4a6e-a51f-1a1f79eff57d#ref=rss)
+### band
+
+* [https://www.spiegel.de/kultur/rammstein-enthuellungen-werden-zur-herausforderung-fuer-fans](https://www.spiegel.de/kultur/rammstein-enthuellungen-werden-zur-herausforderung-fuer-fans-a-275c3375-5ece-4a6e-a51f-1a1f79eff57d#ref=rss)
+### lieben
+
+* [https://www.spiegel.de/kultur/rammstein-enthuellungen-werden-zur-herausforderung-fuer-fans](https://www.spiegel.de/kultur/rammstein-enthuellungen-werden-zur-herausforderung-fuer-fans-a-275c3375-5ece-4a6e-a51f-1a1f79eff57d#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/kultur/rammstein-enthuellungen-werden-zur-herausforderung-fuer-fans](https://www.spiegel.de/kultur/rammstein-enthuellungen-werden-zur-herausforderung-fuer-fans-a-275c3375-5ece-4a6e-a51f-1a1f79eff57d#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wiktor-zaehlt-die-toten-und-viele-wollen-die-zahl-nicht-wissen](https://www.spiegel.de/ausland/ukraine-wiktor-zaehlt-die-toten-und-viele-wollen-die-zahl-nicht-wissen-a-05aa13d6-3cf9-488a-9b2f-19b3d2c58806#ref=rss)
+### lee
+
+* [https://www.spiegel.de/panorama/leute/lee-sun-kyun-ist-tot-parasite-schauspieler-hatte-drogenvorwuerfe-bestritten](https://www.spiegel.de/panorama/leute/lee-sun-kyun-ist-tot-parasite-schauspieler-hatte-drogenvorwuerfe-bestritten-a-7339a798-199a-4b9d-a3bd-fe0a0aa17968#ref=rss)
+### paderborn
+
+* [https://www.spiegel.de/panorama/justiz/paderborn-toedlicher-unfall-mit-muellwagen-zwei-maenner-angeklagt](https://www.spiegel.de/panorama/justiz/paderborn-toedlicher-unfall-mit-muellwagen-zwei-maenner-angeklagt-a-ee039b59-6313-4f62-9e1e-3cf8b755acba#ref=rss)
+### game
+
+* [https://www.spiegel.de/kultur/tv/game-of-thrones-die-buchenallee-dark-hedges-in-nordirland-ist-bedroht](https://www.spiegel.de/kultur/tv/game-of-thrones-die-buchenallee-dark-hedges-in-nordirland-ist-bedroht-a-d2be9d82-267c-4040-b3c8-4fe0f125cbab#ref=rss)
+### of
+
+* [https://www.spiegel.de/kultur/tv/game-of-thrones-die-buchenallee-dark-hedges-in-nordirland-ist-bedroht](https://www.spiegel.de/kultur/tv/game-of-thrones-die-buchenallee-dark-hedges-in-nordirland-ist-bedroht-a-d2be9d82-267c-4040-b3c8-4fe0f125cbab#ref=rss)
+### thrones
+
+* [https://www.spiegel.de/kultur/tv/game-of-thrones-die-buchenallee-dark-hedges-in-nordirland-ist-bedroht](https://www.spiegel.de/kultur/tv/game-of-thrones-die-buchenallee-dark-hedges-in-nordirland-ist-bedroht-a-d2be9d82-267c-4040-b3c8-4fe0f125cbab#ref=rss)
+### dark
+
+* [https://www.spiegel.de/kultur/tv/game-of-thrones-die-buchenallee-dark-hedges-in-nordirland-ist-bedroht](https://www.spiegel.de/kultur/tv/game-of-thrones-die-buchenallee-dark-hedges-in-nordirland-ist-bedroht-a-d2be9d82-267c-4040-b3c8-4fe0f125cbab#ref=rss)
+### hedges
+
+* [https://www.spiegel.de/kultur/tv/game-of-thrones-die-buchenallee-dark-hedges-in-nordirland-ist-bedroht](https://www.spiegel.de/kultur/tv/game-of-thrones-die-buchenallee-dark-hedges-in-nordirland-ist-bedroht-a-d2be9d82-267c-4040-b3c8-4fe0f125cbab#ref=rss)
+### england
+
+* [https://www.spiegel.de/panorama/justiz/england-mann-fuhr-60-jahre-lang-ohne-fuehrerschein-auto](https://www.spiegel.de/panorama/justiz/england-mann-fuhr-60-jahre-lang-ohne-fuehrerschein-auto-a-9c98eac1-9b75-4d2c-b9d4-dc9ebd8dc307#ref=rss)
+### fuhr
+
+* [https://www.spiegel.de/panorama/justiz/england-mann-fuhr-60-jahre-lang-ohne-fuehrerschein-auto](https://www.spiegel.de/panorama/justiz/england-mann-fuhr-60-jahre-lang-ohne-fuehrerschein-auto-a-9c98eac1-9b75-4d2c-b9d4-dc9ebd8dc307#ref=rss)
+### führerschein
+
+* [https://www.spiegel.de/panorama/justiz/england-mann-fuhr-60-jahre-lang-ohne-fuehrerschein-auto](https://www.spiegel.de/panorama/justiz/england-mann-fuhr-60-jahre-lang-ohne-fuehrerschein-auto-a-9c98eac1-9b75-4d2c-b9d4-dc9ebd8dc307#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/ukraine-wiktor-zaehlt-die-toten-und-viele-wollen-die-zahl-nicht-wissen](https://www.spiegel.de/ausland/ukraine-wiktor-zaehlt-die-toten-und-viele-wollen-die-zahl-nicht-wissen-a-05aa13d6-3cf9-488a-9b2f-19b3d2c58806#ref=rss)
+### szenen
+
+* [https://www.spiegel.de/politik/wolfgang-schaeuble-ist-tot-der-durchhalter-szenen-seiner-karriere](https://www.spiegel.de/politik/wolfgang-schaeuble-ist-tot-der-durchhalter-szenen-seiner-karriere-a-cf935cb9-472a-4550-bbec-cc9a4a5c427b#ref=rss)
+### karriere
+
+* [https://www.spiegel.de/politik/wolfgang-schaeuble-ist-tot-der-durchhalter-szenen-seiner-karriere](https://www.spiegel.de/politik/wolfgang-schaeuble-ist-tot-der-durchhalter-szenen-seiner-karriere-a-cf935cb9-472a-4550-bbec-cc9a4a5c427b#ref=rss)
+### fährt
+
+* [https://www.spiegel.de/kultur/tv/tatort-ard-krimi-klassiker-verliert-zuschauer](https://www.spiegel.de/kultur/tv/tatort-ard-krimi-klassiker-verliert-zuschauer-a-6ba1dce1-4a96-4b98-9018-ddc138ad4d51#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-wenn-die-polizei-in-istanbul-gangster-protzkarren-faehrt](https://www.spiegel.de/ausland/tuerkei-wenn-die-polizei-in-istanbul-gangster-protzkarren-faehrt-a-d582ddd8-a0c1-490c-a283-ad15ee585150#ref=rss)
+### istanbul
+
+* [https://www.spiegel.de/ausland/tuerkei-wenn-die-polizei-in-istanbul-gangster-protzkarren-faehrt](https://www.spiegel.de/ausland/tuerkei-wenn-die-polizei-in-istanbul-gangster-protzkarren-faehrt-a-d582ddd8-a0c1-490c-a283-ad15ee585150#ref=rss)
 
