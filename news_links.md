@@ -4,304 +4,349 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### usa
-
-* [https://www.spiegel.de/ausland/usa-was-hat-die-ukraine-hilfe-mit-den-fluechtlingstrecks-in-mexiko-zu-tun](https://www.spiegel.de/ausland/usa-was-hat-die-ukraine-hilfe-mit-den-fluechtlingstrecks-in-mexiko-zu-tun-a-e0db8c6b-221d-470b-a84b-42887033c837#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-nahost-journalistenvereinigung-spricht-von-mindestens-65-getoeteten-medienvertretern](https://www.spiegel.de/ausland/krieg-in-nahost-journalistenvereinigung-spricht-von-mindestens-65-getoeteten-medienvertretern-a-f0bfa087-69f6-4023-a992-aa4ff5d3d4c4#ref=rss)
-* [https://www.spiegel.de/ausland/chinesischer-spionageballon-soll-us-internetanbieter-genutzt-haben-um-position-zu-melden](https://www.spiegel.de/ausland/chinesischer-spionageballon-soll-us-internetanbieter-genutzt-haben-um-position-zu-melden-a-28d22ad9-bbda-420f-aff0-98318fe8c900#ref=rss)
-* [https://www.spiegel.de/panorama/indiana-mann-ueberlebt-sechs-tage-lang-in-verungluecktem-truck](https://www.spiegel.de/panorama/indiana-mann-ueberlebt-sechs-tage-lang-in-verungluecktem-truck-a-f5688904-b1da-4b6f-b668-3f45e53c3550#ref=rss)
 ### jahr
 
-* [https://www.spiegel.de/ausland/usa-was-hat-die-ukraine-hilfe-mit-den-fluechtlingstrecks-in-mexiko-zu-tun](https://www.spiegel.de/ausland/usa-was-hat-die-ukraine-hilfe-mit-den-fluechtlingstrecks-in-mexiko-zu-tun-a-e0db8c6b-221d-470b-a84b-42887033c837#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/geldanlage-was-aus-10-000-euro-in-diesem-jahr-wurde](https://www.spiegel.de/wirtschaft/service/geldanlage-was-aus-10-000-euro-in-diesem-jahr-wurde-a-42561f3d-aee8-40bf-8c97-f11d923a629a#ref=rss)
-* [https://www.spiegel.de/ausland/extremwetter-im-jahr-2023-unterwegs-wo-es-brennt](https://www.spiegel.de/ausland/extremwetter-im-jahr-2023-unterwegs-wo-es-brennt-a-6f35b0dc-8137-4ac5-8097-f37b9e875883#ref=rss)
-* [https://www.spiegel.de/panorama/rio-de-janeiro-christusstatue-erscheint-im-pele-trikot](https://www.spiegel.de/panorama/rio-de-janeiro-christusstatue-erscheint-im-pele-trikot-a-ea095cb6-ce01-439a-8a23-a429a0246fde#ref=rss)
+* [https://www.spiegel.de/panorama/jahresrueckblick-2023-das-jahr-in-bildern](https://www.spiegel.de/panorama/jahresrueckblick-2023-das-jahr-in-bildern-a-381f9836-1f0d-49d1-a8dd-124712cf5a95#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/trennung-adoption-lebensgemeinschaft-so-will-marco-buschmann-das-familienrecht-modernisieren](https://www.spiegel.de/politik/deutschland/trennung-adoption-lebensgemeinschaft-so-will-marco-buschmann-das-familienrecht-modernisieren-a-25f0a17c-03e4-43b6-ab7c-5dc75b42c4c0#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-feuerwerksrakete-explodiert-mann-verliert-hand](https://www.spiegel.de/panorama/berlin-feuerwerksrakete-explodiert-mann-verliert-hand-a-6ada95e6-adf3-49fd-9527-12674575b227#ref=rss)
+* [https://www.spiegel.de/reise/fernweh/urlaub-2023-spiegel-leserinnen-und-lesern-beschreiben-ihre-schoensten-reiseerlebnisse](https://www.spiegel.de/reise/fernweh/urlaub-2023-spiegel-leserinnen-und-lesern-beschreiben-ihre-schoensten-reiseerlebnisse-a-172aecc7-7ddd-40d4-b4c4-3b59a8989766#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-mit-optimistischer-neujahrsansprache-wir-in-deutschland-kommen-da-durch](https://www.spiegel.de/politik/deutschland/olaf-scholz-mit-optimistischer-neujahrsansprache-wir-in-deutschland-kommen-da-durch-a-f1a779a7-dfdd-4706-9879-3091f58434af#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-2024-16-jaehriger-luke-littler-nach-sieg-gegen-raymond-van-barneveld-im-viertelfinale](https://www.spiegel.de/sport/darts-wm-2024-16-jaehriger-luke-littler-nach-sieg-gegen-raymond-van-barneveld-im-viertelfinale-a-5d118b85-0a90-4f81-ade4-4eceb538cad7#ref=rss)
+### scholz
+
+* [https://www.spiegel.de/politik/verden-an-der-aller-scholz-zu-besuch-in-niedersaechsischem-hochwassergebiet-eingetroffen](https://www.spiegel.de/politik/verden-an-der-aller-scholz-zu-besuch-in-niedersaechsischem-hochwassergebiet-eingetroffen-a-20a65715-b3fd-4cb0-8110-f7959ffb66a9#ref=rss)
+* [https://www.spiegel.de/panorama/hochwasser-steigende-pegelstaende-an-der-elbe-erwartet-ausbau-des-katastrophenschutzes-gefordert](https://www.spiegel.de/panorama/hochwasser-steigende-pegelstaende-an-der-elbe-erwartet-ausbau-des-katastrophenschutzes-gefordert-a-d4055ffd-0784-4b5f-ac36-f9eec6655a46#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-mit-optimistischer-neujahrsansprache-wir-in-deutschland-kommen-da-durch](https://www.spiegel.de/politik/deutschland/olaf-scholz-mit-optimistischer-neujahrsansprache-wir-in-deutschland-kommen-da-durch-a-f1a779a7-dfdd-4706-9879-3091f58434af#ref=rss)
 ### lage
 
-* [https://www.spiegel.de/ausland/usa-was-hat-die-ukraine-hilfe-mit-den-fluechtlingstrecks-in-mexiko-zu-tun](https://www.spiegel.de/ausland/usa-was-hat-die-ukraine-hilfe-mit-den-fluechtlingstrecks-in-mexiko-zu-tun-a-e0db8c6b-221d-470b-a84b-42887033c837#ref=rss)
+* [https://www.spiegel.de/politik/verden-an-der-aller-scholz-zu-besuch-in-niedersaechsischem-hochwassergebiet-eingetroffen](https://www.spiegel.de/politik/verden-an-der-aller-scholz-zu-besuch-in-niedersaechsischem-hochwassergebiet-eingetroffen-a-20a65715-b3fd-4cb0-8110-f7959ffb66a9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-wahlen-in-den-usa-afd-mond](https://www.spiegel.de/politik/deutschland/news-wahlen-in-den-usa-afd-mond-a-cae2fe3f-fb64-444e-ab22-3525fd8747c6#ref=rss)
+* [https://www.spiegel.de/panorama/hochwasser-steigende-pegelstaende-an-der-elbe-erwartet-ausbau-des-katastrophenschutzes-gefordert](https://www.spiegel.de/panorama/hochwasser-steigende-pegelstaende-an-der-elbe-erwartet-ausbau-des-katastrophenschutzes-gefordert-a-d4055ffd-0784-4b5f-ac36-f9eec6655a46#ref=rss)
 * [https://www.spiegel.de/panorama/hochwasser-in-deutschland-lage-bleibt-angespannt-pegelstaende-steigen-vielerorts-weiter](https://www.spiegel.de/panorama/hochwasser-in-deutschland-lage-bleibt-angespannt-pegelstaende-steigen-vielerorts-weiter-a-70ccf892-6a66-41c2-964a-a4a6dc063d7f#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/niedersachsens-innenministerin-daniela-behrens-es-gibt-sichtungen-von-kite-surfern-in-hochwasser-gebieten](https://www.spiegel.de/panorama/gesellschaft/niedersachsens-innenministerin-daniela-behrens-es-gibt-sichtungen-von-kite-surfern-in-hochwasser-gebieten-a-3350ad51-53c3-4710-a5bc-4fed61fe3070#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-krieg-israel-verkuendet-vierstuendige-kampfpause-in-lager-in-rafah](https://www.spiegel.de/ausland/gaza-krieg-israel-verkuendet-vierstuendige-kampfpause-in-lager-in-rafah-a-07ae7901-7faf-4f9f-ae4e-75044b9cdfe9#ref=rss)
+### silvester
+
+* [https://www.spiegel.de/kultur/silvester-bbc-uebertraegt-zum-100-mal-den-big-ben-glockenschlag](https://www.spiegel.de/kultur/silvester-bbc-uebertraegt-zum-100-mal-den-big-ben-glockenschlag-a-b9663c71-11d9-4d77-98d5-296d19975ba4#ref=rss)
+* [https://www.spiegel.de/panorama/silvester-sydney-will-erstmals-ki-beim-riesenfeuerwerk-einsetzen](https://www.spiegel.de/panorama/silvester-sydney-will-erstmals-ki-beim-riesenfeuerwerk-einsetzen-a-80cddfc7-e094-45aa-9d6f-56418432c716#ref=rss)
+* [https://www.spiegel.de/panorama/london-eurostar-zuege-fahren-an-silvester-wieder-einschraenkungen-wegen-ueberflutung-moeglich](https://www.spiegel.de/panorama/london-eurostar-zuege-fahren-an-silvester-wieder-einschraenkungen-wegen-ueberflutung-moeglich-a-f6064f7b-5201-4ef3-b0b1-24d0b064c2fe#ref=rss)
 ### 2024
 
-* [https://www.spiegel.de/auto/wie-e-auto-besitzer-die-naechste-subvention-verlieren-oder-gewinnen](https://www.spiegel.de/auto/wie-e-auto-besitzer-die-naechste-subvention-verlieren-oder-gewinnen-a-9b626f8f-e140-4fea-875c-ba5c2ea012a6#ref=rss)
-* [https://www.spiegel.de/kultur/kino/filme-und-serien-2024-auf-diese-highlights-koennen-sie-sich-feuen](https://www.spiegel.de/kultur/kino/filme-und-serien-2024-auf-diese-highlights-koennen-sie-sich-feuen-a-17469ec8-d1c6-42ff-a6e4-c14835164d85#ref=rss)
-* [https://www.spiegel.de/sport/darts-wm-2024-michael-van-gerwen-attackiert-deutschen-ricardo-pietreczko-keine-eier](https://www.spiegel.de/sport/darts-wm-2024-michael-van-gerwen-attackiert-deutschen-ricardo-pietreczko-keine-eier-a-4939ba3c-2bcf-4473-91f3-5aad8a8f9047#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/panorama/justiz/berlin-29-jaehriger-auf-hochzeitsfeier-erstochen](https://www.spiegel.de/panorama/justiz/berlin-29-jaehriger-auf-hochzeitsfeier-erstochen-a-97f1df70-7227-4ad5-8955-43e8c185a088#ref=rss)
-* [https://www.spiegel.de/panorama/rottenburg-boeller-gezuendet-13-jaehriger-schwer-im-gesicht-verletzt](https://www.spiegel.de/panorama/rottenburg-boeller-gezuendet-13-jaehriger-schwer-im-gesicht-verletzt-a-e6d8f169-186c-4568-8ed4-693d6b6625bf#ref=rss)
-* [https://www.spiegel.de/panorama/indiana-mann-ueberlebt-sechs-tage-lang-in-verungluecktem-truck](https://www.spiegel.de/panorama/indiana-mann-ueberlebt-sechs-tage-lang-in-verungluecktem-truck-a-f5688904-b1da-4b6f-b668-3f45e53c3550#ref=rss)
-* [https://www.spiegel.de/panorama/a31-bei-borken-frau-stirbt-bei-massenkarambolage-durch-hagel](https://www.spiegel.de/panorama/a31-bei-borken-frau-stirbt-bei-massenkarambolage-durch-hagel-a-b8c13eb6-cf66-46a2-9d00-fc98ceb71093#ref=rss)
-### de
-
-* [https://www.spiegel.de/panorama/rio-de-janeiro-christusstatue-erscheint-im-pele-trikot](https://www.spiegel.de/panorama/rio-de-janeiro-christusstatue-erscheint-im-pele-trikot-a-ea095cb6-ce01-439a-8a23-a429a0246fde#ref=rss)
-* [https://www.spiegel.de/sport/formel1/gil-de-ferran-ist-tot-frueherer-mclaren-sportdirektor-im-alter-von-56-jahren-gestorben](https://www.spiegel.de/sport/formel1/gil-de-ferran-ist-tot-frueherer-mclaren-sportdirektor-im-alter-von-56-jahren-gestorben-a-57a88f7e-1347-48f9-bffa-73d87e42c20f#ref=rss)
-### stadt
-
-* [https://www.spiegel.de/reise/europa/venedig-stadt-begrenzt-reisegruppen-auf-25-touristen](https://www.spiegel.de/reise/europa/venedig-stadt-begrenzt-reisegruppen-auf-25-touristen-a-d55244e1-573b-436d-aaa1-d7c4b24734ea#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/ausland/krieg-in-nahost-journalistenvereinigung-spricht-von-mindestens-65-getoeteten-medienvertretern](https://www.spiegel.de/ausland/krieg-in-nahost-journalistenvereinigung-spricht-von-mindestens-65-getoeteten-medienvertretern-a-f0bfa087-69f6-4023-a992-aa4ff5d3d4c4#ref=rss)
-* [https://www.spiegel.de/sport/formel1/gil-de-ferran-ist-tot-frueherer-mclaren-sportdirektor-im-alter-von-56-jahren-gestorben](https://www.spiegel.de/sport/formel1/gil-de-ferran-ist-tot-frueherer-mclaren-sportdirektor-im-alter-von-56-jahren-gestorben-a-57a88f7e-1347-48f9-bffa-73d87e42c20f#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/politik/deutschland/aufruestung-der-gefaehrliche-traum-von-der-deutschen-atombombe-gastbeitrag](https://www.spiegel.de/politik/deutschland/aufruestung-der-gefaehrliche-traum-von-der-deutschen-atombombe-gastbeitrag-a-a2cbeefb-22f7-4e88-8880-69915d9a56cf#ref=rss)
-* [https://www.spiegel.de/sport/darts-wm-2024-michael-van-gerwen-attackiert-deutschen-ricardo-pietreczko-keine-eier](https://www.spiegel.de/sport/darts-wm-2024-michael-van-gerwen-attackiert-deutschen-ricardo-pietreczko-keine-eier-a-4939ba3c-2bcf-4473-91f3-5aad8a8f9047#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/justiz/berlin-29-jaehriger-auf-hochzeitsfeier-erstochen](https://www.spiegel.de/panorama/justiz/berlin-29-jaehriger-auf-hochzeitsfeier-erstochen-a-97f1df70-7227-4ad5-8955-43e8c185a088#ref=rss)
-* [https://www.spiegel.de/panorama/indiana-mann-ueberlebt-sechs-tage-lang-in-verungluecktem-truck](https://www.spiegel.de/panorama/indiana-mann-ueberlebt-sechs-tage-lang-in-verungluecktem-truck-a-f5688904-b1da-4b6f-b668-3f45e53c3550#ref=rss)
-### tödlich
-
-* [https://www.spiegel.de/panorama/justiz/berlin-29-jaehriger-auf-hochzeitsfeier-erstochen](https://www.spiegel.de/panorama/justiz/berlin-29-jaehriger-auf-hochzeitsfeier-erstochen-a-97f1df70-7227-4ad5-8955-43e8c185a088#ref=rss)
-* [https://www.spiegel.de/panorama/passau-lkw-fahrer-nach-vernehmung-wieder-frei](https://www.spiegel.de/panorama/passau-lkw-fahrer-nach-vernehmung-wieder-frei-a-ebc6a09c-66f4-4c7d-bf92-871e3c578454#ref=rss)
-* [https://www.spiegel.de/panorama/a31-bei-borken-frau-stirbt-bei-massenkarambolage-durch-hagel](https://www.spiegel.de/panorama/a31-bei-borken-frau-stirbt-bei-massenkarambolage-durch-hagel-a-b8c13eb6-cf66-46a2-9d00-fc98ceb71093#ref=rss)
-### 2023
-
-* [https://www.spiegel.de/wirtschaft/service/geldanlage-was-aus-10-000-euro-in-diesem-jahr-wurde](https://www.spiegel.de/wirtschaft/service/geldanlage-was-aus-10-000-euro-in-diesem-jahr-wurde-a-42561f3d-aee8-40bf-8c97-f11d923a629a#ref=rss)
-* [https://www.spiegel.de/ausland/extremwetter-im-jahr-2023-unterwegs-wo-es-brennt](https://www.spiegel.de/ausland/extremwetter-im-jahr-2023-unterwegs-wo-es-brennt-a-6f35b0dc-8137-4ac5-8097-f37b9e875883#ref=rss)
-### venedig
-
-* [https://www.spiegel.de/reise/europa/venedig-stadt-begrenzt-reisegruppen-auf-25-touristen](https://www.spiegel.de/reise/europa/venedig-stadt-begrenzt-reisegruppen-auf-25-touristen-a-d55244e1-573b-436d-aaa1-d7c4b24734ea#ref=rss)
-### begrenzt
-
-* [https://www.spiegel.de/reise/europa/venedig-stadt-begrenzt-reisegruppen-auf-25-touristen](https://www.spiegel.de/reise/europa/venedig-stadt-begrenzt-reisegruppen-auf-25-touristen-a-d55244e1-573b-436d-aaa1-d7c4b24734ea#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-krieg-israel-verkuendet-vierstuendige-kampfpause-in-lager-in-rafah](https://www.spiegel.de/ausland/gaza-krieg-israel-verkuendet-vierstuendige-kampfpause-in-lager-in-rafah-a-07ae7901-7faf-4f9f-ae4e-75044b9cdfe9#ref=rss)
-### reisegruppen
-
-* [https://www.spiegel.de/reise/europa/venedig-stadt-begrenzt-reisegruppen-auf-25-touristen](https://www.spiegel.de/reise/europa/venedig-stadt-begrenzt-reisegruppen-auf-25-touristen-a-d55244e1-573b-436d-aaa1-d7c4b24734ea#ref=rss)
-### sommer
-
-* [https://www.spiegel.de/reise/europa/venedig-stadt-begrenzt-reisegruppen-auf-25-touristen](https://www.spiegel.de/reise/europa/venedig-stadt-begrenzt-reisegruppen-auf-25-touristen-a-d55244e1-573b-436d-aaa1-d7c4b24734ea#ref=rss)
-* [https://www.spiegel.de/ausland/extremwetter-im-jahr-2023-unterwegs-wo-es-brennt](https://www.spiegel.de/ausland/extremwetter-im-jahr-2023-unterwegs-wo-es-brennt-a-6f35b0dc-8137-4ac5-8097-f37b9e875883#ref=rss)
-### neue
-
-* [https://www.spiegel.de/reise/europa/venedig-stadt-begrenzt-reisegruppen-auf-25-touristen](https://www.spiegel.de/reise/europa/venedig-stadt-begrenzt-reisegruppen-auf-25-touristen-a-d55244e1-573b-436d-aaa1-d7c4b24734ea#ref=rss)
-* [https://www.spiegel.de/auto/wie-e-auto-besitzer-die-naechste-subvention-verlieren-oder-gewinnen](https://www.spiegel.de/auto/wie-e-auto-besitzer-die-naechste-subvention-verlieren-oder-gewinnen-a-9b626f8f-e140-4fea-875c-ba5c2ea012a6#ref=rss)
-### prostitution
-
-* [https://www.spiegel.de/politik/deutschland/prostitution-marco-buschmann-gegen-nordisches-modell-verstoss-gegen-sperrbezirk-nur-noch-ordnungswidrig](https://www.spiegel.de/politik/deutschland/prostitution-marco-buschmann-gegen-nordisches-modell-verstoss-gegen-sperrbezirk-nur-noch-ordnungswidrig-a-91271b4b-82d8-4b7f-941b-3e3cb92d1bbf#ref=rss)
-### marco
-
-* [https://www.spiegel.de/politik/deutschland/prostitution-marco-buschmann-gegen-nordisches-modell-verstoss-gegen-sperrbezirk-nur-noch-ordnungswidrig](https://www.spiegel.de/politik/deutschland/prostitution-marco-buschmann-gegen-nordisches-modell-verstoss-gegen-sperrbezirk-nur-noch-ordnungswidrig-a-91271b4b-82d8-4b7f-941b-3e3cb92d1bbf#ref=rss)
-### buschmann
-
-* [https://www.spiegel.de/politik/deutschland/prostitution-marco-buschmann-gegen-nordisches-modell-verstoss-gegen-sperrbezirk-nur-noch-ordnungswidrig](https://www.spiegel.de/politik/deutschland/prostitution-marco-buschmann-gegen-nordisches-modell-verstoss-gegen-sperrbezirk-nur-noch-ordnungswidrig-a-91271b4b-82d8-4b7f-941b-3e3cb92d1bbf#ref=rss)
-### ukrainehilfe
-
-* [https://www.spiegel.de/ausland/usa-was-hat-die-ukraine-hilfe-mit-den-fluechtlingstrecks-in-mexiko-zu-tun](https://www.spiegel.de/ausland/usa-was-hat-die-ukraine-hilfe-mit-den-fluechtlingstrecks-in-mexiko-zu-tun-a-e0db8c6b-221d-470b-a84b-42887033c837#ref=rss)
-### nutzen
-
-* [https://www.spiegel.de/ausland/usa-was-hat-die-ukraine-hilfe-mit-den-fluechtlingstrecks-in-mexiko-zu-tun](https://www.spiegel.de/ausland/usa-was-hat-die-ukraine-hilfe-mit-den-fluechtlingstrecks-in-mexiko-zu-tun-a-e0db8c6b-221d-470b-a84b-42887033c837#ref=rss)
-* [https://www.spiegel.de/familie/serendipitaet-wie-wir-fuer-mehr-positive-zufaelle-sorgen-podcast](https://www.spiegel.de/familie/serendipitaet-wie-wir-fuer-mehr-positive-zufaelle-sorgen-podcast-a-f0a3279c-0dfb-4df5-add3-1f3c867f8123#ref=rss)
-### veranstalter
-
-* [https://www.spiegel.de/sport/fussball/tuerkischer-fussball-saudische-veranstalter-werfen-galatasaray-und-fenerbahce-istanbul-wortbruch-vor](https://www.spiegel.de/sport/fussball/tuerkischer-fussball-saudische-veranstalter-werfen-galatasaray-und-fenerbahce-istanbul-wortbruch-vor-a-50329aef-f7f1-43ff-ae56-eae168ebc536#ref=rss)
-### galatasaray
-
-* [https://www.spiegel.de/sport/fussball/tuerkischer-fussball-saudische-veranstalter-werfen-galatasaray-und-fenerbahce-istanbul-wortbruch-vor](https://www.spiegel.de/sport/fussball/tuerkischer-fussball-saudische-veranstalter-werfen-galatasaray-und-fenerbahce-istanbul-wortbruch-vor-a-50329aef-f7f1-43ff-ae56-eae168ebc536#ref=rss)
-### fenerbahçe
-
-* [https://www.spiegel.de/sport/fussball/tuerkischer-fussball-saudische-veranstalter-werfen-galatasaray-und-fenerbahce-istanbul-wortbruch-vor](https://www.spiegel.de/sport/fussball/tuerkischer-fussball-saudische-veranstalter-werfen-galatasaray-und-fenerbahce-istanbul-wortbruch-vor-a-50329aef-f7f1-43ff-ae56-eae168ebc536#ref=rss)
-### istanbul
-
-* [https://www.spiegel.de/sport/fussball/tuerkischer-fussball-saudische-veranstalter-werfen-galatasaray-und-fenerbahce-istanbul-wortbruch-vor](https://www.spiegel.de/sport/fussball/tuerkischer-fussball-saudische-veranstalter-werfen-galatasaray-und-fenerbahce-istanbul-wortbruch-vor-a-50329aef-f7f1-43ff-ae56-eae168ebc536#ref=rss)
-### bilder
-
-* [https://www.spiegel.de/sport/fussball/tuerkischer-fussball-saudische-veranstalter-werfen-galatasaray-und-fenerbahce-istanbul-wortbruch-vor](https://www.spiegel.de/sport/fussball/tuerkischer-fussball-saudische-veranstalter-werfen-galatasaray-und-fenerbahce-istanbul-wortbruch-vor-a-50329aef-f7f1-43ff-ae56-eae168ebc536#ref=rss)
-* [https://www.spiegel.de/panorama/bilder-der-woche-suesse-ware-schlechte-sicht](https://www.spiegel.de/panorama/bilder-der-woche-suesse-ware-schlechte-sicht-a-4f8dc3c7-ea33-47f8-b770-812411e7095f#ref=rss)
-### zeigen
-
-* [https://www.spiegel.de/sport/fussball/tuerkischer-fussball-saudische-veranstalter-werfen-galatasaray-und-fenerbahce-istanbul-wortbruch-vor](https://www.spiegel.de/sport/fussball/tuerkischer-fussball-saudische-veranstalter-werfen-galatasaray-und-fenerbahce-istanbul-wortbruch-vor-a-50329aef-f7f1-43ff-ae56-eae168ebc536#ref=rss)
-* [https://www.spiegel.de/panorama/riesenwellen-an-us-westkueste-extrem-gefaehrliche-bedingungen](https://www.spiegel.de/panorama/riesenwellen-an-us-westkueste-extrem-gefaehrliche-bedingungen-a-06bb7061-2fa7-485e-8f60-bb63b36a0858#ref=rss)
-### mindestens
-
-* [https://www.spiegel.de/ausland/krieg-in-nahost-journalistenvereinigung-spricht-von-mindestens-65-getoeteten-medienvertretern](https://www.spiegel.de/ausland/krieg-in-nahost-journalistenvereinigung-spricht-von-mindestens-65-getoeteten-medienvertretern-a-f0bfa087-69f6-4023-a992-aa4ff5d3d4c4#ref=rss)
-### 65
-
-* [https://www.spiegel.de/ausland/krieg-in-nahost-journalistenvereinigung-spricht-von-mindestens-65-getoeteten-medienvertretern](https://www.spiegel.de/ausland/krieg-in-nahost-journalistenvereinigung-spricht-von-mindestens-65-getoeteten-medienvertretern-a-f0bfa087-69f6-4023-a992-aa4ff5d3d4c4#ref=rss)
-### getöteten
-
-* [https://www.spiegel.de/ausland/krieg-in-nahost-journalistenvereinigung-spricht-von-mindestens-65-getoeteten-medienvertretern](https://www.spiegel.de/ausland/krieg-in-nahost-journalistenvereinigung-spricht-von-mindestens-65-getoeteten-medienvertretern-a-f0bfa087-69f6-4023-a992-aa4ff5d3d4c4#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-krieg-israel-verkuendet-vierstuendige-kampfpause-in-lager-in-rafah](https://www.spiegel.de/ausland/gaza-krieg-israel-verkuendet-vierstuendige-kampfpause-in-lager-in-rafah-a-07ae7901-7faf-4f9f-ae4e-75044b9cdfe9#ref=rss)
-### gefährliche
-
-* [https://www.spiegel.de/politik/deutschland/aufruestung-der-gefaehrliche-traum-von-der-deutschen-atombombe-gastbeitrag](https://www.spiegel.de/politik/deutschland/aufruestung-der-gefaehrliche-traum-von-der-deutschen-atombombe-gastbeitrag-a-a2cbeefb-22f7-4e88-8880-69915d9a56cf#ref=rss)
-* [https://www.spiegel.de/panorama/riesenwellen-an-us-westkueste-extrem-gefaehrliche-bedingungen](https://www.spiegel.de/panorama/riesenwellen-an-us-westkueste-extrem-gefaehrliche-bedingungen-a-06bb7061-2fa7-485e-8f60-bb63b36a0858#ref=rss)
-### hochwasser
-
-* [https://www.spiegel.de/panorama/hochwasser-in-deutschland-lage-bleibt-angespannt-pegelstaende-steigen-vielerorts-weiter](https://www.spiegel.de/panorama/hochwasser-in-deutschland-lage-bleibt-angespannt-pegelstaende-steigen-vielerorts-weiter-a-70ccf892-6a66-41c2-964a-a4a6dc063d7f#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/niedersachsens-innenministerin-daniela-behrens-es-gibt-sichtungen-von-kite-surfern-in-hochwasser-gebieten](https://www.spiegel.de/panorama/gesellschaft/niedersachsens-innenministerin-daniela-behrens-es-gibt-sichtungen-von-kite-surfern-in-hochwasser-gebieten-a-3350ad51-53c3-4710-a5bc-4fed61fe3070#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/panorama/hochwasser-in-deutschland-lage-bleibt-angespannt-pegelstaende-steigen-vielerorts-weiter](https://www.spiegel.de/panorama/hochwasser-in-deutschland-lage-bleibt-angespannt-pegelstaende-steigen-vielerorts-weiter-a-70ccf892-6a66-41c2-964a-a4a6dc063d7f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/trennung-adoption-lebensgemeinschaft-so-will-marco-buschmann-das-familienrecht-modernisieren](https://www.spiegel.de/politik/deutschland/trennung-adoption-lebensgemeinschaft-so-will-marco-buschmann-das-familienrecht-modernisieren-a-25f0a17c-03e4-43b6-ab7c-5dc75b42c4c0#ref=rss)
+* [https://www.spiegel.de/ausland/nordkorea-will-2024-drei-weitere-spionagesatelliten-ins-all-schicken](https://www.spiegel.de/ausland/nordkorea-will-2024-drei-weitere-spionagesatelliten-ins-all-schicken-a-0937d4e1-086c-42a7-bddc-9fc6b323797c#ref=rss)
+* [https://www.spiegel.de/ausland/joe-bidens-antritt-zur-us-wahl-2024-ein-haarstraeubend-gefaehrliches-experiment](https://www.spiegel.de/ausland/joe-bidens-antritt-zur-us-wahl-2024-ein-haarstraeubend-gefaehrliches-experiment-a-a4c603ff-6af3-47d8-8d02-531e96322fc3#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-2024-16-jaehriger-luke-littler-nach-sieg-gegen-raymond-van-barneveld-im-viertelfinale](https://www.spiegel.de/sport/darts-wm-2024-16-jaehriger-luke-littler-nach-sieg-gegen-raymond-van-barneveld-im-viertelfinale-a-5d118b85-0a90-4f81-ade4-4eceb538cad7#ref=rss)
 ### bleibt
 
+* [https://www.spiegel.de/panorama/hochwasser-steigende-pegelstaende-an-der-elbe-erwartet-ausbau-des-katastrophenschutzes-gefordert](https://www.spiegel.de/panorama/hochwasser-steigende-pegelstaende-an-der-elbe-erwartet-ausbau-des-katastrophenschutzes-gefordert-a-d4055ffd-0784-4b5f-ac36-f9eec6655a46#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-mit-optimistischer-neujahrsansprache-wir-in-deutschland-kommen-da-durch](https://www.spiegel.de/politik/deutschland/olaf-scholz-mit-optimistischer-neujahrsansprache-wir-in-deutschland-kommen-da-durch-a-f1a779a7-dfdd-4706-9879-3091f58434af#ref=rss)
 * [https://www.spiegel.de/panorama/hochwasser-in-deutschland-lage-bleibt-angespannt-pegelstaende-steigen-vielerorts-weiter](https://www.spiegel.de/panorama/hochwasser-in-deutschland-lage-bleibt-angespannt-pegelstaende-steigen-vielerorts-weiter-a-70ccf892-6a66-41c2-964a-a4a6dc063d7f#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/panorama/silvester-sydney-will-erstmals-ki-beim-riesenfeuerwerk-einsetzen](https://www.spiegel.de/panorama/silvester-sydney-will-erstmals-ki-beim-riesenfeuerwerk-einsetzen-a-80cddfc7-e094-45aa-9d6f-56418432c716#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-mit-optimistischer-neujahrsansprache-wir-in-deutschland-kommen-da-durch](https://www.spiegel.de/politik/deutschland/olaf-scholz-mit-optimistischer-neujahrsansprache-wir-in-deutschland-kommen-da-durch-a-f1a779a7-dfdd-4706-9879-3091f58434af#ref=rss)
+* [https://www.spiegel.de/panorama/hochwasser-in-deutschland-lage-bleibt-angespannt-pegelstaende-steigen-vielerorts-weiter](https://www.spiegel.de/panorama/hochwasser-in-deutschland-lage-bleibt-angespannt-pegelstaende-steigen-vielerorts-weiter-a-70ccf892-6a66-41c2-964a-a4a6dc063d7f#ref=rss)
+### niedersachsen
+
+* [https://www.spiegel.de/politik/verden-an-der-aller-scholz-zu-besuch-in-niedersaechsischem-hochwassergebiet-eingetroffen](https://www.spiegel.de/politik/verden-an-der-aller-scholz-zu-besuch-in-niedersaechsischem-hochwassergebiet-eingetroffen-a-20a65715-b3fd-4cb0-8110-f7959ffb66a9#ref=rss)
+* [https://www.spiegel.de/panorama/hochwasser-steigende-pegelstaende-an-der-elbe-erwartet-ausbau-des-katastrophenschutzes-gefordert](https://www.spiegel.de/panorama/hochwasser-steigende-pegelstaende-an-der-elbe-erwartet-ausbau-des-katastrophenschutzes-gefordert-a-d4055ffd-0784-4b5f-ac36-f9eec6655a46#ref=rss)
+### auto
+
+* [https://www.spiegel.de/auto/hyundai-kona-elektro-im-test-wie-war-noch-mal-der-name](https://www.spiegel.de/auto/hyundai-kona-elektro-im-test-wie-war-noch-mal-der-name-a-1243e725-5d36-4d73-8e96-d9bfcaccc438#ref=rss)
+* [https://www.spiegel.de/panorama/niederkassel-bei-bonn-auto-faehrt-gegen-bushaltestelle-14-jaehriger-stirbt](https://www.spiegel.de/panorama/niederkassel-bei-bonn-auto-faehrt-gegen-bushaltestelle-14-jaehriger-stirbt-a-226d0037-54d7-41c4-a8f1-620ec4d29812#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/rotes-meer-usa-melden-huthi-angriffe-auf-frachter-maersk-hangzhou](https://www.spiegel.de/ausland/rotes-meer-usa-melden-huthi-angriffe-auf-frachter-maersk-hangzhou-a-48ac6dd4-218e-414d-a34a-6ab4ef4b63c8#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trumps-immunitaetsanspruch-sonderermittler-gruender-der-verfassung-haetten-das-nie-gebilligt](https://www.spiegel.de/ausland/donald-trumps-immunitaetsanspruch-sonderermittler-gruender-der-verfassung-haetten-das-nie-gebilligt-a-0090e2ae-7f61-4b57-9987-754c5ea0e71b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-wahlen-in-den-usa-afd-mond](https://www.spiegel.de/politik/deutschland/news-wahlen-in-den-usa-afd-mond-a-cae2fe3f-fb64-444e-ab22-3525fd8747c6#ref=rss)
+### 2023
+
+* [https://www.spiegel.de/panorama/jahresrueckblick-2023-das-jahr-in-bildern](https://www.spiegel.de/panorama/jahresrueckblick-2023-das-jahr-in-bildern-a-381f9836-1f0d-49d1-a8dd-124712cf5a95#ref=rss)
+* [https://www.spiegel.de/reise/fernweh/urlaub-2023-spiegel-leserinnen-und-lesern-beschreiben-ihre-schoensten-reiseerlebnisse](https://www.spiegel.de/reise/fernweh/urlaub-2023-spiegel-leserinnen-und-lesern-beschreiben-ihre-schoensten-reiseerlebnisse-a-172aecc7-7ddd-40d4-b4c4-3b59a8989766#ref=rss)
+### viele
+
+* [https://www.spiegel.de/ausland/russland-fliegt-luftangriffe-auf-charkiw-zahlreiche-gebaeude-zerstoert](https://www.spiegel.de/ausland/russland-fliegt-luftangriffe-auf-charkiw-zahlreiche-gebaeude-zerstoert-a-4b1fa37b-c407-4afc-bbd0-f242ea47a15c#ref=rss)
+* [https://www.spiegel.de/reise/fernweh/urlaub-2023-spiegel-leserinnen-und-lesern-beschreiben-ihre-schoensten-reiseerlebnisse](https://www.spiegel.de/reise/fernweh/urlaub-2023-spiegel-leserinnen-und-lesern-beschreiben-ihre-schoensten-reiseerlebnisse-a-172aecc7-7ddd-40d4-b4c4-3b59a8989766#ref=rss)
+* [https://www.spiegel.de/panorama/silvester-sydney-will-erstmals-ki-beim-riesenfeuerwerk-einsetzen](https://www.spiegel.de/panorama/silvester-sydney-will-erstmals-ki-beim-riesenfeuerwerk-einsetzen-a-80cddfc7-e094-45aa-9d6f-56418432c716#ref=rss)
+### verden
+
+* [https://www.spiegel.de/politik/verden-an-der-aller-scholz-zu-besuch-in-niedersaechsischem-hochwassergebiet-eingetroffen](https://www.spiegel.de/politik/verden-an-der-aller-scholz-zu-besuch-in-niedersaechsischem-hochwassergebiet-eingetroffen-a-20a65715-b3fd-4cb0-8110-f7959ffb66a9#ref=rss)
+* [https://www.spiegel.de/panorama/hochwasser-steigende-pegelstaende-an-der-elbe-erwartet-ausbau-des-katastrophenschutzes-gefordert](https://www.spiegel.de/panorama/hochwasser-steigende-pegelstaende-an-der-elbe-erwartet-ausbau-des-katastrophenschutzes-gefordert-a-d4055ffd-0784-4b5f-ac36-f9eec6655a46#ref=rss)
+### kritisch
+
+* [https://www.spiegel.de/politik/verden-an-der-aller-scholz-zu-besuch-in-niedersaechsischem-hochwassergebiet-eingetroffen](https://www.spiegel.de/politik/verden-an-der-aller-scholz-zu-besuch-in-niedersaechsischem-hochwassergebiet-eingetroffen-a-20a65715-b3fd-4cb0-8110-f7959ffb66a9#ref=rss)
+* [https://www.spiegel.de/panorama/hochwasser-in-deutschland-lage-bleibt-angespannt-pegelstaende-steigen-vielerorts-weiter](https://www.spiegel.de/panorama/hochwasser-in-deutschland-lage-bleibt-angespannt-pegelstaende-steigen-vielerorts-weiter-a-70ccf892-6a66-41c2-964a-a4a6dc063d7f#ref=rss)
+### bundeskanzler
+
+* [https://www.spiegel.de/politik/verden-an-der-aller-scholz-zu-besuch-in-niedersaechsischem-hochwassergebiet-eingetroffen](https://www.spiegel.de/politik/verden-an-der-aller-scholz-zu-besuch-in-niedersaechsischem-hochwassergebiet-eingetroffen-a-20a65715-b3fd-4cb0-8110-f7959ffb66a9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-mit-optimistischer-neujahrsansprache-wir-in-deutschland-kommen-da-durch](https://www.spiegel.de/politik/deutschland/olaf-scholz-mit-optimistischer-neujahrsansprache-wir-in-deutschland-kommen-da-durch-a-f1a779a7-dfdd-4706-9879-3091f58434af#ref=rss)
+### hyundai
+
+* [https://www.spiegel.de/auto/hyundai-kona-elektro-im-test-wie-war-noch-mal-der-name](https://www.spiegel.de/auto/hyundai-kona-elektro-im-test-wie-war-noch-mal-der-name-a-1243e725-5d36-4d73-8e96-d9bfcaccc438#ref=rss)
+### kona
+
+* [https://www.spiegel.de/auto/hyundai-kona-elektro-im-test-wie-war-noch-mal-der-name](https://www.spiegel.de/auto/hyundai-kona-elektro-im-test-wie-war-noch-mal-der-name-a-1243e725-5d36-4d73-8e96-d9bfcaccc438#ref=rss)
+### elektro
+
+* [https://www.spiegel.de/auto/hyundai-kona-elektro-im-test-wie-war-noch-mal-der-name](https://www.spiegel.de/auto/hyundai-kona-elektro-im-test-wie-war-noch-mal-der-name-a-1243e725-5d36-4d73-8e96-d9bfcaccc438#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/auto/hyundai-kona-elektro-im-test-wie-war-noch-mal-der-name](https://www.spiegel.de/auto/hyundai-kona-elektro-im-test-wie-war-noch-mal-der-name-a-1243e725-5d36-4d73-8e96-d9bfcaccc438#ref=rss)
+* [https://www.spiegel.de/ausland/schweden-wie-das-land-zum-schauplatz-blutiger-bandenkriege-wurde](https://www.spiegel.de/ausland/schweden-wie-das-land-zum-schauplatz-blutiger-bandenkriege-wurde-a-84b95cc3-cb58-4d93-8e6e-4ef5292aa705#ref=rss)
+### maersk
+
+* [https://www.spiegel.de/ausland/rotes-meer-usa-melden-huthi-angriffe-auf-frachter-maersk-hangzhou](https://www.spiegel.de/ausland/rotes-meer-usa-melden-huthi-angriffe-auf-frachter-maersk-hangzhou-a-48ac6dd4-218e-414d-a34a-6ab4ef4b63c8#ref=rss)
+### hangzhou
+
+* [https://www.spiegel.de/ausland/rotes-meer-usa-melden-huthi-angriffe-auf-frachter-maersk-hangzhou](https://www.spiegel.de/ausland/rotes-meer-usa-melden-huthi-angriffe-auf-frachter-maersk-hangzhou-a-48ac6dd4-218e-414d-a34a-6ab4ef4b63c8#ref=rss)
+### concierge
+
+* [https://www.spiegel.de/karriere/concierge-im-hamburger-hotel-atlantic-thorsten-wagenfuehr-ueber-seinen-berufsalltag](https://www.spiegel.de/karriere/concierge-im-hamburger-hotel-atlantic-thorsten-wagenfuehr-ueber-seinen-berufsalltag-a-997e0e98-6d19-4fc9-88a2-a0c7d3fa4d2c#ref=rss)
+### thorsten
+
+* [https://www.spiegel.de/karriere/concierge-im-hamburger-hotel-atlantic-thorsten-wagenfuehr-ueber-seinen-berufsalltag](https://www.spiegel.de/karriere/concierge-im-hamburger-hotel-atlantic-thorsten-wagenfuehr-ueber-seinen-berufsalltag-a-997e0e98-6d19-4fc9-88a2-a0c7d3fa4d2c#ref=rss)
+### wagenführ
+
+* [https://www.spiegel.de/karriere/concierge-im-hamburger-hotel-atlantic-thorsten-wagenfuehr-ueber-seinen-berufsalltag](https://www.spiegel.de/karriere/concierge-im-hamburger-hotel-atlantic-thorsten-wagenfuehr-ueber-seinen-berufsalltag-a-997e0e98-6d19-4fc9-88a2-a0c7d3fa4d2c#ref=rss)
+### wünsche
+
+* [https://www.spiegel.de/karriere/concierge-im-hamburger-hotel-atlantic-thorsten-wagenfuehr-ueber-seinen-berufsalltag](https://www.spiegel.de/karriere/concierge-im-hamburger-hotel-atlantic-thorsten-wagenfuehr-ueber-seinen-berufsalltag-a-997e0e98-6d19-4fc9-88a2-a0c7d3fa4d2c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/spiritualitaet-wer-nimmt-den-mond-fuer-voll](https://www.spiegel.de/wissenschaft/spiritualitaet-wer-nimmt-den-mond-fuer-voll-a-8148f619-c142-4eef-b9fe-a484fcadbf23#ref=rss)
+### andere
+
+* [https://www.spiegel.de/karriere/concierge-im-hamburger-hotel-atlantic-thorsten-wagenfuehr-ueber-seinen-berufsalltag](https://www.spiegel.de/karriere/concierge-im-hamburger-hotel-atlantic-thorsten-wagenfuehr-ueber-seinen-berufsalltag-a-997e0e98-6d19-4fc9-88a2-a0c7d3fa4d2c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-csu-chef-fordert-wehrpflicht-von-mindestens-sieben-monaten](https://www.spiegel.de/politik/deutschland/markus-soeder-csu-chef-fordert-wehrpflicht-von-mindestens-sieben-monaten-a-6a768d54-a30e-4e8c-9557-08d1d4a4ec82#ref=rss)
+### bildern
+
+* [https://www.spiegel.de/panorama/jahresrueckblick-2023-das-jahr-in-bildern](https://www.spiegel.de/panorama/jahresrueckblick-2023-das-jahr-in-bildern-a-381f9836-1f0d-49d1-a8dd-124712cf5a95#ref=rss)
+* [https://www.spiegel.de/ausland/nordkorea-will-2024-drei-weitere-spionagesatelliten-ins-all-schicken](https://www.spiegel.de/ausland/nordkorea-will-2024-drei-weitere-spionagesatelliten-ins-all-schicken-a-0937d4e1-086c-42a7-bddc-9fc6b323797c#ref=rss)
+### welt
+
+* [https://www.spiegel.de/panorama/jahresrueckblick-2023-das-jahr-in-bildern](https://www.spiegel.de/panorama/jahresrueckblick-2023-das-jahr-in-bildern-a-381f9836-1f0d-49d1-a8dd-124712cf5a95#ref=rss)
+* [https://www.spiegel.de/panorama/silvester-sydney-will-erstmals-ki-beim-riesenfeuerwerk-einsetzen](https://www.spiegel.de/panorama/silvester-sydney-will-erstmals-ki-beim-riesenfeuerwerk-einsetzen-a-80cddfc7-e094-45aa-9d6f-56418432c716#ref=rss)
+### buschmann
+
+* [https://www.spiegel.de/politik/deutschland/trennung-adoption-lebensgemeinschaft-so-will-marco-buschmann-das-familienrecht-modernisieren](https://www.spiegel.de/politik/deutschland/trennung-adoption-lebensgemeinschaft-so-will-marco-buschmann-das-familienrecht-modernisieren-a-25f0a17c-03e4-43b6-ab7c-5dc75b42c4c0#ref=rss)
+### wir
+
+* [https://www.spiegel.de/politik/deutschland/trennung-adoption-lebensgemeinschaft-so-will-marco-buschmann-das-familienrecht-modernisieren](https://www.spiegel.de/politik/deutschland/trennung-adoption-lebensgemeinschaft-so-will-marco-buschmann-das-familienrecht-modernisieren-a-25f0a17c-03e4-43b6-ab7c-5dc75b42c4c0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-mit-optimistischer-neujahrsansprache-wir-in-deutschland-kommen-da-durch](https://www.spiegel.de/politik/deutschland/olaf-scholz-mit-optimistischer-neujahrsansprache-wir-in-deutschland-kommen-da-durch-a-f1a779a7-dfdd-4706-9879-3091f58434af#ref=rss)
+### leben
+
+* [https://www.spiegel.de/politik/deutschland/trennung-adoption-lebensgemeinschaft-so-will-marco-buschmann-das-familienrecht-modernisieren](https://www.spiegel.de/politik/deutschland/trennung-adoption-lebensgemeinschaft-so-will-marco-buschmann-das-familienrecht-modernisieren-a-25f0a17c-03e4-43b6-ab7c-5dc75b42c4c0#ref=rss)
+* [https://www.spiegel.de/panorama/oesterreich-deutsche-skitourengaengerin-in-allgaeuer-alpen-toedlich-verunglueckt](https://www.spiegel.de/panorama/oesterreich-deutsche-skitourengaengerin-in-allgaeuer-alpen-toedlich-verunglueckt-a-b48263ad-b998-48f4-b78c-23b633cd25ac#ref=rss)
+### bbc
+
+* [https://www.spiegel.de/kultur/silvester-bbc-uebertraegt-zum-100-mal-den-big-ben-glockenschlag](https://www.spiegel.de/kultur/silvester-bbc-uebertraegt-zum-100-mal-den-big-ben-glockenschlag-a-b9663c71-11d9-4d77-98d5-296d19975ba4#ref=rss)
+### 100
+
+* [https://www.spiegel.de/kultur/silvester-bbc-uebertraegt-zum-100-mal-den-big-ben-glockenschlag](https://www.spiegel.de/kultur/silvester-bbc-uebertraegt-zum-100-mal-den-big-ben-glockenschlag-a-b9663c71-11d9-4d77-98d5-296d19975ba4#ref=rss)
+### jubiläum
+
+* [https://www.spiegel.de/kultur/silvester-bbc-uebertraegt-zum-100-mal-den-big-ben-glockenschlag](https://www.spiegel.de/kultur/silvester-bbc-uebertraegt-zum-100-mal-den-big-ben-glockenschlag-a-b9663c71-11d9-4d77-98d5-296d19975ba4#ref=rss)
+* [https://www.spiegel.de/kultur/tv/traumschiff-im-zdf-der-pott-der-utopie-segelt-hart-am-kopulierwind](https://www.spiegel.de/kultur/tv/traumschiff-im-zdf-der-pott-der-utopie-segelt-hart-am-kopulierwind-a-4264948a-3836-48e4-8733-3e36d36efe3c#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/panorama/oesterreich-deutsche-skitourengaengerin-in-allgaeuer-alpen-toedlich-verunglueckt](https://www.spiegel.de/panorama/oesterreich-deutsche-skitourengaengerin-in-allgaeuer-alpen-toedlich-verunglueckt-a-b48263ad-b998-48f4-b78c-23b633cd25ac#ref=rss)
+* [https://www.spiegel.de/psychologie/neujahrsvorsaetze-endlich-haeufiger-nein-sagen](https://www.spiegel.de/psychologie/neujahrsvorsaetze-endlich-haeufiger-nein-sagen-a-8b938694-dce8-4c2c-aee8-97080b8e0868#ref=rss)
+### skitourengängerin
+
+* [https://www.spiegel.de/panorama/oesterreich-deutsche-skitourengaengerin-in-allgaeuer-alpen-toedlich-verunglueckt](https://www.spiegel.de/panorama/oesterreich-deutsche-skitourengaengerin-in-allgaeuer-alpen-toedlich-verunglueckt-a-b48263ad-b998-48f4-b78c-23b633cd25ac#ref=rss)
+### tödlich
+
+* [https://www.spiegel.de/panorama/oesterreich-deutsche-skitourengaengerin-in-allgaeuer-alpen-toedlich-verunglueckt](https://www.spiegel.de/panorama/oesterreich-deutsche-skitourengaengerin-in-allgaeuer-alpen-toedlich-verunglueckt-a-b48263ad-b998-48f4-b78c-23b633cd25ac#ref=rss)
+* [https://www.spiegel.de/panorama/niederkassel-bei-bonn-auto-faehrt-gegen-bushaltestelle-14-jaehriger-stirbt](https://www.spiegel.de/panorama/niederkassel-bei-bonn-auto-faehrt-gegen-bushaltestelle-14-jaehriger-stirbt-a-226d0037-54d7-41c4-a8f1-620ec4d29812#ref=rss)
+### verunglückt
+
+* [https://www.spiegel.de/panorama/oesterreich-deutsche-skitourengaengerin-in-allgaeuer-alpen-toedlich-verunglueckt](https://www.spiegel.de/panorama/oesterreich-deutsche-skitourengaengerin-in-allgaeuer-alpen-toedlich-verunglueckt-a-b48263ad-b998-48f4-b78c-23b633cd25ac#ref=rss)
+### kam
+
+* [https://www.spiegel.de/panorama/oesterreich-deutsche-skitourengaengerin-in-allgaeuer-alpen-toedlich-verunglueckt](https://www.spiegel.de/panorama/oesterreich-deutsche-skitourengaengerin-in-allgaeuer-alpen-toedlich-verunglueckt-a-b48263ad-b998-48f4-b78c-23b633cd25ac#ref=rss)
+* [https://www.spiegel.de/panorama/niederkassel-bei-bonn-auto-faehrt-gegen-bushaltestelle-14-jaehriger-stirbt](https://www.spiegel.de/panorama/niederkassel-bei-bonn-auto-faehrt-gegen-bushaltestelle-14-jaehriger-stirbt-a-226d0037-54d7-41c4-a8f1-620ec4d29812#ref=rss)
+### markus
+
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-csu-chef-fordert-wehrpflicht-von-mindestens-sieben-monaten](https://www.spiegel.de/politik/deutschland/markus-soeder-csu-chef-fordert-wehrpflicht-von-mindestens-sieben-monaten-a-6a768d54-a30e-4e8c-9557-08d1d4a4ec82#ref=rss)
+### söder
+
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-csu-chef-fordert-wehrpflicht-von-mindestens-sieben-monaten](https://www.spiegel.de/politik/deutschland/markus-soeder-csu-chef-fordert-wehrpflicht-von-mindestens-sieben-monaten-a-6a768d54-a30e-4e8c-9557-08d1d4a4ec82#ref=rss)
+### csuchef
+
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-csu-chef-fordert-wehrpflicht-von-mindestens-sieben-monaten](https://www.spiegel.de/politik/deutschland/markus-soeder-csu-chef-fordert-wehrpflicht-von-mindestens-sieben-monaten-a-6a768d54-a30e-4e8c-9557-08d1d4a4ec82#ref=rss)
+### wehrpflicht
+
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-csu-chef-fordert-wehrpflicht-von-mindestens-sieben-monaten](https://www.spiegel.de/politik/deutschland/markus-soeder-csu-chef-fordert-wehrpflicht-von-mindestens-sieben-monaten-a-6a768d54-a30e-4e8c-9557-08d1d4a4ec82#ref=rss)
+### monaten
+
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-csu-chef-fordert-wehrpflicht-von-mindestens-sieben-monaten](https://www.spiegel.de/politik/deutschland/markus-soeder-csu-chef-fordert-wehrpflicht-von-mindestens-sieben-monaten-a-6a768d54-a30e-4e8c-9557-08d1d4a4ec82#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-detroit-pistons-beenden-historische-niederlagenserie-gegen-toronto-raptors](https://www.spiegel.de/sport/basketball/nba-detroit-pistons-beenden-historische-niederlagenserie-gegen-toronto-raptors-a-f4835445-46f0-4d5a-9430-ce60f585e532#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-csu-chef-fordert-wehrpflicht-von-mindestens-sieben-monaten](https://www.spiegel.de/politik/deutschland/markus-soeder-csu-chef-fordert-wehrpflicht-von-mindestens-sieben-monaten-a-6a768d54-a30e-4e8c-9557-08d1d4a4ec82#ref=rss)
+* [https://www.spiegel.de/ausland/schweden-wie-das-land-zum-schauplatz-blutiger-bandenkriege-wurde](https://www.spiegel.de/ausland/schweden-wie-das-land-zum-schauplatz-blutiger-bandenkriege-wurde-a-84b95cc3-cb58-4d93-8e6e-4ef5292aa705#ref=rss)
+### detroit
+
+* [https://www.spiegel.de/sport/basketball/nba-detroit-pistons-beenden-historische-niederlagenserie-gegen-toronto-raptors](https://www.spiegel.de/sport/basketball/nba-detroit-pistons-beenden-historische-niederlagenserie-gegen-toronto-raptors-a-f4835445-46f0-4d5a-9430-ce60f585e532#ref=rss)
+### pistons
+
+* [https://www.spiegel.de/sport/basketball/nba-detroit-pistons-beenden-historische-niederlagenserie-gegen-toronto-raptors](https://www.spiegel.de/sport/basketball/nba-detroit-pistons-beenden-historische-niederlagenserie-gegen-toronto-raptors-a-f4835445-46f0-4d5a-9430-ce60f585e532#ref=rss)
+### toronto
+
+* [https://www.spiegel.de/sport/basketball/nba-detroit-pistons-beenden-historische-niederlagenserie-gegen-toronto-raptors](https://www.spiegel.de/sport/basketball/nba-detroit-pistons-beenden-historische-niederlagenserie-gegen-toronto-raptors-a-f4835445-46f0-4d5a-9430-ce60f585e532#ref=rss)
+### raptors
+
+* [https://www.spiegel.de/sport/basketball/nba-detroit-pistons-beenden-historische-niederlagenserie-gegen-toronto-raptors](https://www.spiegel.de/sport/basketball/nba-detroit-pistons-beenden-historische-niederlagenserie-gegen-toronto-raptors-a-f4835445-46f0-4d5a-9430-ce60f585e532#ref=rss)
+### konnte
+
+* [https://www.spiegel.de/sport/basketball/nba-detroit-pistons-beenden-historische-niederlagenserie-gegen-toronto-raptors](https://www.spiegel.de/sport/basketball/nba-detroit-pistons-beenden-historische-niederlagenserie-gegen-toronto-raptors-a-f4835445-46f0-4d5a-9430-ce60f585e532#ref=rss)
+* [https://www.spiegel.de/ausland/schweden-wie-das-land-zum-schauplatz-blutiger-bandenkriege-wurde](https://www.spiegel.de/ausland/schweden-wie-das-land-zum-schauplatz-blutiger-bandenkriege-wurde-a-84b95cc3-cb58-4d93-8e6e-4ef5292aa705#ref=rss)
+### gewann
+
+* [https://www.spiegel.de/sport/basketball/nba-detroit-pistons-beenden-historische-niederlagenserie-gegen-toronto-raptors](https://www.spiegel.de/sport/basketball/nba-detroit-pistons-beenden-historische-niederlagenserie-gegen-toronto-raptors-a-f4835445-46f0-4d5a-9430-ce60f585e532#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-2024-16-jaehriger-luke-littler-nach-sieg-gegen-raymond-van-barneveld-im-viertelfinale](https://www.spiegel.de/sport/darts-wm-2024-16-jaehriger-luke-littler-nach-sieg-gegen-raymond-van-barneveld-im-viertelfinale-a-5d118b85-0a90-4f81-ade4-4eceb538cad7#ref=rss)
+### erstmals
+
+* [https://www.spiegel.de/sport/basketball/nba-detroit-pistons-beenden-historische-niederlagenserie-gegen-toronto-raptors](https://www.spiegel.de/sport/basketball/nba-detroit-pistons-beenden-historische-niederlagenserie-gegen-toronto-raptors-a-f4835445-46f0-4d5a-9430-ce60f585e532#ref=rss)
+* [https://www.spiegel.de/panorama/silvester-sydney-will-erstmals-ki-beim-riesenfeuerwerk-einsetzen](https://www.spiegel.de/panorama/silvester-sydney-will-erstmals-ki-beim-riesenfeuerwerk-einsetzen-a-80cddfc7-e094-45aa-9d6f-56418432c716#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/donald-trumps-immunitaetsanspruch-sonderermittler-gruender-der-verfassung-haetten-das-nie-gebilligt](https://www.spiegel.de/ausland/donald-trumps-immunitaetsanspruch-sonderermittler-gruender-der-verfassung-haetten-das-nie-gebilligt-a-0090e2ae-7f61-4b57-9987-754c5ea0e71b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-wahlen-in-den-usa-afd-mond](https://www.spiegel.de/politik/deutschland/news-wahlen-in-den-usa-afd-mond-a-cae2fe3f-fb64-444e-ab22-3525fd8747c6#ref=rss)
+### sonderermittler
+
+* [https://www.spiegel.de/ausland/donald-trumps-immunitaetsanspruch-sonderermittler-gruender-der-verfassung-haetten-das-nie-gebilligt](https://www.spiegel.de/ausland/donald-trumps-immunitaetsanspruch-sonderermittler-gruender-der-verfassung-haetten-das-nie-gebilligt-a-0090e2ae-7f61-4b57-9987-754c5ea0e71b#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/donald-trumps-immunitaetsanspruch-sonderermittler-gruender-der-verfassung-haetten-das-nie-gebilligt](https://www.spiegel.de/ausland/donald-trumps-immunitaetsanspruch-sonderermittler-gruender-der-verfassung-haetten-das-nie-gebilligt-a-0090e2ae-7f61-4b57-9987-754c5ea0e71b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-wahlen-in-den-usa-afd-mond](https://www.spiegel.de/politik/deutschland/news-wahlen-in-den-usa-afd-mond-a-cae2fe3f-fb64-444e-ab22-3525fd8747c6#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/ausland/donald-trumps-immunitaetsanspruch-sonderermittler-gruender-der-verfassung-haetten-das-nie-gebilligt](https://www.spiegel.de/ausland/donald-trumps-immunitaetsanspruch-sonderermittler-gruender-der-verfassung-haetten-das-nie-gebilligt-a-0090e2ae-7f61-4b57-9987-754c5ea0e71b#ref=rss)
+### charkiw
+
+* [https://www.spiegel.de/ausland/russland-fliegt-luftangriffe-auf-charkiw-zahlreiche-gebaeude-zerstoert](https://www.spiegel.de/ausland/russland-fliegt-luftangriffe-auf-charkiw-zahlreiche-gebaeude-zerstoert-a-4b1fa37b-c407-4afc-bbd0-f242ea47a15c#ref=rss)
+### gebäude
+
+* [https://www.spiegel.de/ausland/russland-fliegt-luftangriffe-auf-charkiw-zahlreiche-gebaeude-zerstoert](https://www.spiegel.de/ausland/russland-fliegt-luftangriffe-auf-charkiw-zahlreiche-gebaeude-zerstoert-a-4b1fa37b-c407-4afc-bbd0-f242ea47a15c#ref=rss)
+### nacht
+
+* [https://www.spiegel.de/ausland/russland-fliegt-luftangriffe-auf-charkiw-zahlreiche-gebaeude-zerstoert](https://www.spiegel.de/ausland/russland-fliegt-luftangriffe-auf-charkiw-zahlreiche-gebaeude-zerstoert-a-4b1fa37b-c407-4afc-bbd0-f242ea47a15c#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-news-gazastreifen-gleicht-einem-truemmerfeld-israel-meldet-erfolge-was-in-der-nacht-geschah](https://www.spiegel.de/ausland/israel-gaza-news-gazastreifen-gleicht-einem-truemmerfeld-israel-meldet-erfolge-was-in-der-nacht-geschah-a-e6e43709-556c-4c67-9382-59b75188ebf0#ref=rss)
+### sonntag
+
+* [https://www.spiegel.de/ausland/russland-fliegt-luftangriffe-auf-charkiw-zahlreiche-gebaeude-zerstoert](https://www.spiegel.de/ausland/russland-fliegt-luftangriffe-auf-charkiw-zahlreiche-gebaeude-zerstoert-a-4b1fa37b-c407-4afc-bbd0-f242ea47a15c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-wahlen-in-den-usa-afd-mond](https://www.spiegel.de/politik/deutschland/news-wahlen-in-den-usa-afd-mond-a-cae2fe3f-fb64-444e-ab22-3525fd8747c6#ref=rss)
+### unklar
+
+* [https://www.spiegel.de/ausland/russland-fliegt-luftangriffe-auf-charkiw-zahlreiche-gebaeude-zerstoert](https://www.spiegel.de/ausland/russland-fliegt-luftangriffe-auf-charkiw-zahlreiche-gebaeude-zerstoert-a-4b1fa37b-c407-4afc-bbd0-f242ea47a15c#ref=rss)
+* [https://www.spiegel.de/panorama/niederkassel-bei-bonn-auto-faehrt-gegen-bushaltestelle-14-jaehriger-stirbt](https://www.spiegel.de/panorama/niederkassel-bei-bonn-auto-faehrt-gegen-bushaltestelle-14-jaehriger-stirbt-a-226d0037-54d7-41c4-a8f1-620ec4d29812#ref=rss)
+### schweden
+
+* [https://www.spiegel.de/ausland/schweden-wie-das-land-zum-schauplatz-blutiger-bandenkriege-wurde](https://www.spiegel.de/ausland/schweden-wie-das-land-zum-schauplatz-blutiger-bandenkriege-wurde-a-84b95cc3-cb58-4d93-8e6e-4ef5292aa705#ref=rss)
+### land
+
+* [https://www.spiegel.de/ausland/schweden-wie-das-land-zum-schauplatz-blutiger-bandenkriege-wurde](https://www.spiegel.de/ausland/schweden-wie-das-land-zum-schauplatz-blutiger-bandenkriege-wurde-a-84b95cc3-cb58-4d93-8e6e-4ef5292aa705#ref=rss)
+### kommen
+
+* [https://www.spiegel.de/ausland/schweden-wie-das-land-zum-schauplatz-blutiger-bandenkriege-wurde](https://www.spiegel.de/ausland/schweden-wie-das-land-zum-schauplatz-blutiger-bandenkriege-wurde-a-84b95cc3-cb58-4d93-8e6e-4ef5292aa705#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-mit-optimistischer-neujahrsansprache-wir-in-deutschland-kommen-da-durch](https://www.spiegel.de/politik/deutschland/olaf-scholz-mit-optimistischer-neujahrsansprache-wir-in-deutschland-kommen-da-durch-a-f1a779a7-dfdd-4706-9879-3091f58434af#ref=rss)
+### paula
+
+* [https://www.spiegel.de/panorama/paula-abdul-verklagt-maechtigen-tv-produzenten-nigel-lythgoe-wegen-sexueller-uebergriffe](https://www.spiegel.de/panorama/paula-abdul-verklagt-maechtigen-tv-produzenten-nigel-lythgoe-wegen-sexueller-uebergriffe-a-27e0ce13-af63-4789-b6a6-1e90d8d4f32f#ref=rss)
+### abdul
+
+* [https://www.spiegel.de/panorama/paula-abdul-verklagt-maechtigen-tv-produzenten-nigel-lythgoe-wegen-sexueller-uebergriffe](https://www.spiegel.de/panorama/paula-abdul-verklagt-maechtigen-tv-produzenten-nigel-lythgoe-wegen-sexueller-uebergriffe-a-27e0ce13-af63-4789-b6a6-1e90d8d4f32f#ref=rss)
+### verklagt
+
+* [https://www.spiegel.de/panorama/paula-abdul-verklagt-maechtigen-tv-produzenten-nigel-lythgoe-wegen-sexueller-uebergriffe](https://www.spiegel.de/panorama/paula-abdul-verklagt-maechtigen-tv-produzenten-nigel-lythgoe-wegen-sexueller-uebergriffe-a-27e0ce13-af63-4789-b6a6-1e90d8d4f32f#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/deutschland/news-wahlen-in-den-usa-afd-mond](https://www.spiegel.de/politik/deutschland/news-wahlen-in-den-usa-afd-mond-a-cae2fe3f-fb64-444e-ab22-3525fd8747c6#ref=rss)
+### mond
+
+* [https://www.spiegel.de/politik/deutschland/news-wahlen-in-den-usa-afd-mond](https://www.spiegel.de/politik/deutschland/news-wahlen-in-den-usa-afd-mond-a-cae2fe3f-fb64-444e-ab22-3525fd8747c6#ref=rss)
+* [https://www.spiegel.de/wissenschaft/spiritualitaet-wer-nimmt-den-mond-fuer-voll](https://www.spiegel.de/wissenschaft/spiritualitaet-wer-nimmt-den-mond-fuer-voll-a-8148f619-c142-4eef-b9fe-a484fcadbf23#ref=rss)
+### hochwasser
+
+* [https://www.spiegel.de/panorama/hochwasser-steigende-pegelstaende-an-der-elbe-erwartet-ausbau-des-katastrophenschutzes-gefordert](https://www.spiegel.de/panorama/hochwasser-steigende-pegelstaende-an-der-elbe-erwartet-ausbau-des-katastrophenschutzes-gefordert-a-d4055ffd-0784-4b5f-ac36-f9eec6655a46#ref=rss)
+* [https://www.spiegel.de/panorama/hochwasser-in-deutschland-lage-bleibt-angespannt-pegelstaende-steigen-vielerorts-weiter](https://www.spiegel.de/panorama/hochwasser-in-deutschland-lage-bleibt-angespannt-pegelstaende-steigen-vielerorts-weiter-a-70ccf892-6a66-41c2-964a-a4a6dc063d7f#ref=rss)
+### aufgeweichte
+
+* [https://www.spiegel.de/panorama/hochwasser-steigende-pegelstaende-an-der-elbe-erwartet-ausbau-des-katastrophenschutzes-gefordert](https://www.spiegel.de/panorama/hochwasser-steigende-pegelstaende-an-der-elbe-erwartet-ausbau-des-katastrophenschutzes-gefordert-a-d4055ffd-0784-4b5f-ac36-f9eec6655a46#ref=rss)
+* [https://www.spiegel.de/panorama/hochwasser-in-deutschland-lage-bleibt-angespannt-pegelstaende-steigen-vielerorts-weiter](https://www.spiegel.de/panorama/hochwasser-in-deutschland-lage-bleibt-angespannt-pegelstaende-steigen-vielerorts-weiter-a-70ccf892-6a66-41c2-964a-a4a6dc063d7f#ref=rss)
+### deiche
+
+* [https://www.spiegel.de/panorama/hochwasser-steigende-pegelstaende-an-der-elbe-erwartet-ausbau-des-katastrophenschutzes-gefordert](https://www.spiegel.de/panorama/hochwasser-steigende-pegelstaende-an-der-elbe-erwartet-ausbau-des-katastrophenschutzes-gefordert-a-d4055ffd-0784-4b5f-ac36-f9eec6655a46#ref=rss)
+* [https://www.spiegel.de/panorama/hochwasser-in-deutschland-lage-bleibt-angespannt-pegelstaende-steigen-vielerorts-weiter](https://www.spiegel.de/panorama/hochwasser-in-deutschland-lage-bleibt-angespannt-pegelstaende-steigen-vielerorts-weiter-a-70ccf892-6a66-41c2-964a-a4a6dc063d7f#ref=rss)
+### pegel
+
+* [https://www.spiegel.de/panorama/hochwasser-steigende-pegelstaende-an-der-elbe-erwartet-ausbau-des-katastrophenschutzes-gefordert](https://www.spiegel.de/panorama/hochwasser-steigende-pegelstaende-an-der-elbe-erwartet-ausbau-des-katastrophenschutzes-gefordert-a-d4055ffd-0784-4b5f-ac36-f9eec6655a46#ref=rss)
+* [https://www.spiegel.de/panorama/hochwasser-in-deutschland-lage-bleibt-angespannt-pegelstaende-steigen-vielerorts-weiter](https://www.spiegel.de/panorama/hochwasser-in-deutschland-lage-bleibt-angespannt-pegelstaende-steigen-vielerorts-weiter-a-70ccf892-6a66-41c2-964a-a4a6dc063d7f#ref=rss)
+### elbe
+
+* [https://www.spiegel.de/panorama/hochwasser-steigende-pegelstaende-an-der-elbe-erwartet-ausbau-des-katastrophenschutzes-gefordert](https://www.spiegel.de/panorama/hochwasser-steigende-pegelstaende-an-der-elbe-erwartet-ausbau-des-katastrophenschutzes-gefordert-a-d4055ffd-0784-4b5f-ac36-f9eec6655a46#ref=rss)
+### angespannt
+
+* [https://www.spiegel.de/panorama/hochwasser-steigende-pegelstaende-an-der-elbe-erwartet-ausbau-des-katastrophenschutzes-gefordert](https://www.spiegel.de/panorama/hochwasser-steigende-pegelstaende-an-der-elbe-erwartet-ausbau-des-katastrophenschutzes-gefordert-a-d4055ffd-0784-4b5f-ac36-f9eec6655a46#ref=rss)
+* [https://www.spiegel.de/panorama/hochwasser-in-deutschland-lage-bleibt-angespannt-pegelstaende-steigen-vielerorts-weiter](https://www.spiegel.de/panorama/hochwasser-in-deutschland-lage-bleibt-angespannt-pegelstaende-steigen-vielerorts-weiter-a-70ccf892-6a66-41c2-964a-a4a6dc063d7f#ref=rss)
+### überblick
+
+* [https://www.spiegel.de/panorama/hochwasser-steigende-pegelstaende-an-der-elbe-erwartet-ausbau-des-katastrophenschutzes-gefordert](https://www.spiegel.de/panorama/hochwasser-steigende-pegelstaende-an-der-elbe-erwartet-ausbau-des-katastrophenschutzes-gefordert-a-d4055ffd-0784-4b5f-ac36-f9eec6655a46#ref=rss)
+* [https://www.spiegel.de/panorama/hochwasser-in-deutschland-lage-bleibt-angespannt-pegelstaende-steigen-vielerorts-weiter](https://www.spiegel.de/panorama/hochwasser-in-deutschland-lage-bleibt-angespannt-pegelstaende-steigen-vielerorts-weiter-a-70ccf892-6a66-41c2-964a-a4a6dc063d7f#ref=rss)
+### drei
+
+* [https://www.spiegel.de/ausland/nordkorea-will-2024-drei-weitere-spionagesatelliten-ins-all-schicken](https://www.spiegel.de/ausland/nordkorea-will-2024-drei-weitere-spionagesatelliten-ins-all-schicken-a-0937d4e1-086c-42a7-bddc-9fc6b323797c#ref=rss)
+### all
+
+* [https://www.spiegel.de/ausland/nordkorea-will-2024-drei-weitere-spionagesatelliten-ins-all-schicken](https://www.spiegel.de/ausland/nordkorea-will-2024-drei-weitere-spionagesatelliten-ins-all-schicken-a-0937d4e1-086c-42a7-bddc-9fc6b323797c#ref=rss)
+### sydney
+
+* [https://www.spiegel.de/panorama/silvester-sydney-will-erstmals-ki-beim-riesenfeuerwerk-einsetzen](https://www.spiegel.de/panorama/silvester-sydney-will-erstmals-ki-beim-riesenfeuerwerk-einsetzen-a-80cddfc7-e094-45aa-9d6f-56418432c716#ref=rss)
+### zieht
+
+* [https://www.spiegel.de/panorama/silvester-sydney-will-erstmals-ki-beim-riesenfeuerwerk-einsetzen](https://www.spiegel.de/panorama/silvester-sydney-will-erstmals-ki-beim-riesenfeuerwerk-einsetzen-a-80cddfc7-e094-45aa-9d6f-56418432c716#ref=rss)
+* [https://www.spiegel.de/kultur/tv/traumschiff-im-zdf-der-pott-der-utopie-segelt-hart-am-kopulierwind](https://www.spiegel.de/kultur/tv/traumschiff-im-zdf-der-pott-der-utopie-segelt-hart-am-kopulierwind-a-4264948a-3836-48e4-8733-3e36d36efe3c#ref=rss)
+### dennoch
+
+* [https://www.spiegel.de/ausland/israel-gaza-news-gazastreifen-gleicht-einem-truemmerfeld-israel-meldet-erfolge-was-in-der-nacht-geschah](https://www.spiegel.de/ausland/israel-gaza-news-gazastreifen-gleicht-einem-truemmerfeld-israel-meldet-erfolge-was-in-der-nacht-geschah-a-e6e43709-556c-4c67-9382-59b75188ebf0#ref=rss)
+* [https://www.spiegel.de/panorama/london-eurostar-zuege-fahren-an-silvester-wieder-einschraenkungen-wegen-ueberflutung-moeglich](https://www.spiegel.de/panorama/london-eurostar-zuege-fahren-an-silvester-wieder-einschraenkungen-wegen-ueberflutung-moeglich-a-f6064f7b-5201-4ef3-b0b1-24d0b064c2fe#ref=rss)
+### joe
+
+* [https://www.spiegel.de/ausland/joe-bidens-antritt-zur-us-wahl-2024-ein-haarstraeubend-gefaehrliches-experiment](https://www.spiegel.de/ausland/joe-bidens-antritt-zur-us-wahl-2024-ein-haarstraeubend-gefaehrliches-experiment-a-a4c603ff-6af3-47d8-8d02-531e96322fc3#ref=rss)
+### antritt
+
+* [https://www.spiegel.de/ausland/joe-bidens-antritt-zur-us-wahl-2024-ein-haarstraeubend-gefaehrliches-experiment](https://www.spiegel.de/ausland/joe-bidens-antritt-zur-us-wahl-2024-ein-haarstraeubend-gefaehrliches-experiment-a-a4c603ff-6af3-47d8-8d02-531e96322fc3#ref=rss)
+### eurostarzüge
+
+* [https://www.spiegel.de/panorama/london-eurostar-zuege-fahren-an-silvester-wieder-einschraenkungen-wegen-ueberflutung-moeglich](https://www.spiegel.de/panorama/london-eurostar-zuege-fahren-an-silvester-wieder-einschraenkungen-wegen-ueberflutung-moeglich-a-f6064f7b-5201-4ef3-b0b1-24d0b064c2fe#ref=rss)
+### fahren
+
+* [https://www.spiegel.de/panorama/london-eurostar-zuege-fahren-an-silvester-wieder-einschraenkungen-wegen-ueberflutung-moeglich](https://www.spiegel.de/panorama/london-eurostar-zuege-fahren-an-silvester-wieder-einschraenkungen-wegen-ueberflutung-moeglich-a-f6064f7b-5201-4ef3-b0b1-24d0b064c2fe#ref=rss)
+### einschränkungen
+
+* [https://www.spiegel.de/panorama/london-eurostar-zuege-fahren-an-silvester-wieder-einschraenkungen-wegen-ueberflutung-moeglich](https://www.spiegel.de/panorama/london-eurostar-zuege-fahren-an-silvester-wieder-einschraenkungen-wegen-ueberflutung-moeglich-a-f6064f7b-5201-4ef3-b0b1-24d0b064c2fe#ref=rss)
+### olaf
+
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-mit-optimistischer-neujahrsansprache-wir-in-deutschland-kommen-da-durch](https://www.spiegel.de/politik/deutschland/olaf-scholz-mit-optimistischer-neujahrsansprache-wir-in-deutschland-kommen-da-durch-a-f1a779a7-dfdd-4706-9879-3091f58434af#ref=rss)
+### dartswm
+
+* [https://www.spiegel.de/sport/darts-wm-2024-16-jaehriger-luke-littler-nach-sieg-gegen-raymond-van-barneveld-im-viertelfinale](https://www.spiegel.de/sport/darts-wm-2024-16-jaehriger-luke-littler-nach-sieg-gegen-raymond-van-barneveld-im-viertelfinale-a-5d118b85-0a90-4f81-ade4-4eceb538cad7#ref=rss)
+### luke
+
+* [https://www.spiegel.de/sport/darts-wm-2024-16-jaehriger-luke-littler-nach-sieg-gegen-raymond-van-barneveld-im-viertelfinale](https://www.spiegel.de/sport/darts-wm-2024-16-jaehriger-luke-littler-nach-sieg-gegen-raymond-van-barneveld-im-viertelfinale-a-5d118b85-0a90-4f81-ade4-4eceb538cad7#ref=rss)
+### littler
+
+* [https://www.spiegel.de/sport/darts-wm-2024-16-jaehriger-luke-littler-nach-sieg-gegen-raymond-van-barneveld-im-viertelfinale](https://www.spiegel.de/sport/darts-wm-2024-16-jaehriger-luke-littler-nach-sieg-gegen-raymond-van-barneveld-im-viertelfinale-a-5d118b85-0a90-4f81-ade4-4eceb538cad7#ref=rss)
+### raymond
+
+* [https://www.spiegel.de/sport/darts-wm-2024-16-jaehriger-luke-littler-nach-sieg-gegen-raymond-van-barneveld-im-viertelfinale](https://www.spiegel.de/sport/darts-wm-2024-16-jaehriger-luke-littler-nach-sieg-gegen-raymond-van-barneveld-im-viertelfinale-a-5d118b85-0a90-4f81-ade4-4eceb538cad7#ref=rss)
+### van
+
+* [https://www.spiegel.de/sport/darts-wm-2024-16-jaehriger-luke-littler-nach-sieg-gegen-raymond-van-barneveld-im-viertelfinale](https://www.spiegel.de/sport/darts-wm-2024-16-jaehriger-luke-littler-nach-sieg-gegen-raymond-van-barneveld-im-viertelfinale-a-5d118b85-0a90-4f81-ade4-4eceb538cad7#ref=rss)
+### barneveld
+
+* [https://www.spiegel.de/sport/darts-wm-2024-16-jaehriger-luke-littler-nach-sieg-gegen-raymond-van-barneveld-im-viertelfinale](https://www.spiegel.de/sport/darts-wm-2024-16-jaehriger-luke-littler-nach-sieg-gegen-raymond-van-barneveld-im-viertelfinale-a-5d118b85-0a90-4f81-ade4-4eceb538cad7#ref=rss)
 ### steigen
 
 * [https://www.spiegel.de/panorama/hochwasser-in-deutschland-lage-bleibt-angespannt-pegelstaende-steigen-vielerorts-weiter](https://www.spiegel.de/panorama/hochwasser-in-deutschland-lage-bleibt-angespannt-pegelstaende-steigen-vielerorts-weiter-a-70ccf892-6a66-41c2-964a-a4a6dc063d7f#ref=rss)
-### kritisch
+### bushaltestelle
 
-* [https://www.spiegel.de/panorama/hochwasser-in-deutschland-lage-bleibt-angespannt-pegelstaende-steigen-vielerorts-weiter](https://www.spiegel.de/panorama/hochwasser-in-deutschland-lage-bleibt-angespannt-pegelstaende-steigen-vielerorts-weiter-a-70ccf892-6a66-41c2-964a-a4a6dc063d7f#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/niedersachsens-innenministerin-daniela-behrens-es-gibt-sichtungen-von-kite-surfern-in-hochwasser-gebieten](https://www.spiegel.de/panorama/gesellschaft/niedersachsens-innenministerin-daniela-behrens-es-gibt-sichtungen-von-kite-surfern-in-hochwasser-gebieten-a-3350ad51-53c3-4710-a5bc-4fed61fe3070#ref=rss)
-### überblick
-
-* [https://www.spiegel.de/panorama/hochwasser-in-deutschland-lage-bleibt-angespannt-pegelstaende-steigen-vielerorts-weiter](https://www.spiegel.de/panorama/hochwasser-in-deutschland-lage-bleibt-angespannt-pegelstaende-steigen-vielerorts-weiter-a-70ccf892-6a66-41c2-964a-a4a6dc063d7f#ref=rss)
-* [https://www.spiegel.de/kultur/kino/filme-und-serien-2024-auf-diese-highlights-koennen-sie-sich-feuen](https://www.spiegel.de/kultur/kino/filme-und-serien-2024-auf-diese-highlights-koennen-sie-sich-feuen-a-17469ec8-d1c6-42ff-a6e4-c14835164d85#ref=rss)
-### wir
-
-* [https://www.spiegel.de/familie/serendipitaet-wie-wir-fuer-mehr-positive-zufaelle-sorgen-podcast](https://www.spiegel.de/familie/serendipitaet-wie-wir-fuer-mehr-positive-zufaelle-sorgen-podcast-a-f0a3279c-0dfb-4df5-add3-1f3c867f8123#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/familie/serendipitaet-wie-wir-fuer-mehr-positive-zufaelle-sorgen-podcast](https://www.spiegel.de/familie/serendipitaet-wie-wir-fuer-mehr-positive-zufaelle-sorgen-podcast-a-f0a3279c-0dfb-4df5-add3-1f3c867f8123#ref=rss)
-* [https://www.spiegel.de/panorama/a31-bei-borken-frau-stirbt-bei-massenkarambolage-durch-hagel](https://www.spiegel.de/panorama/a31-bei-borken-frau-stirbt-bei-massenkarambolage-durch-hagel-a-b8c13eb6-cf66-46a2-9d00-fc98ceb71093#ref=rss)
-### lernen
-
-* [https://www.spiegel.de/familie/serendipitaet-wie-wir-fuer-mehr-positive-zufaelle-sorgen-podcast](https://www.spiegel.de/familie/serendipitaet-wie-wir-fuer-mehr-positive-zufaelle-sorgen-podcast-a-f0a3279c-0dfb-4df5-add3-1f3c867f8123#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/geldanlage-was-aus-10-000-euro-in-diesem-jahr-wurde](https://www.spiegel.de/wirtschaft/service/geldanlage-was-aus-10-000-euro-in-diesem-jahr-wurde-a-42561f3d-aee8-40bf-8c97-f11d923a629a#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/justiz/berlin-29-jaehriger-auf-hochzeitsfeier-erstochen](https://www.spiegel.de/panorama/justiz/berlin-29-jaehriger-auf-hochzeitsfeier-erstochen-a-97f1df70-7227-4ad5-8955-43e8c185a088#ref=rss)
-### hochzeitsfeier
-
-* [https://www.spiegel.de/panorama/justiz/berlin-29-jaehriger-auf-hochzeitsfeier-erstochen](https://www.spiegel.de/panorama/justiz/berlin-29-jaehriger-auf-hochzeitsfeier-erstochen-a-97f1df70-7227-4ad5-8955-43e8c185a088#ref=rss)
-### daniela
-
-* [https://www.spiegel.de/panorama/gesellschaft/niedersachsens-innenministerin-daniela-behrens-es-gibt-sichtungen-von-kite-surfern-in-hochwasser-gebieten](https://www.spiegel.de/panorama/gesellschaft/niedersachsens-innenministerin-daniela-behrens-es-gibt-sichtungen-von-kite-surfern-in-hochwasser-gebieten-a-3350ad51-53c3-4710-a5bc-4fed61fe3070#ref=rss)
-### behrens
-
-* [https://www.spiegel.de/panorama/gesellschaft/niedersachsens-innenministerin-daniela-behrens-es-gibt-sichtungen-von-kite-surfern-in-hochwasser-gebieten](https://www.spiegel.de/panorama/gesellschaft/niedersachsens-innenministerin-daniela-behrens-es-gibt-sichtungen-von-kite-surfern-in-hochwasser-gebieten-a-3350ad51-53c3-4710-a5bc-4fed61fe3070#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/panorama/gesellschaft/niedersachsens-innenministerin-daniela-behrens-es-gibt-sichtungen-von-kite-surfern-in-hochwasser-gebieten](https://www.spiegel.de/panorama/gesellschaft/niedersachsens-innenministerin-daniela-behrens-es-gibt-sichtungen-von-kite-surfern-in-hochwasser-gebieten-a-3350ad51-53c3-4710-a5bc-4fed61fe3070#ref=rss)
-* [https://www.spiegel.de/politik/ukrainekrieg-wolfgang-ischinger-fordert-vom-westen-haertere-haltung-gegen-russland](https://www.spiegel.de/politik/ukrainekrieg-wolfgang-ischinger-fordert-vom-westen-haertere-haltung-gegen-russland-a-86040ceb-a399-41fc-bc05-46c343c124eb#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/panorama/gesellschaft/niedersachsens-innenministerin-daniela-behrens-es-gibt-sichtungen-von-kite-surfern-in-hochwasser-gebieten](https://www.spiegel.de/panorama/gesellschaft/niedersachsens-innenministerin-daniela-behrens-es-gibt-sichtungen-von-kite-surfern-in-hochwasser-gebieten-a-3350ad51-53c3-4710-a5bc-4fed61fe3070#ref=rss)
-* [https://www.spiegel.de/panorama/riesenwellen-an-us-westkueste-extrem-gefaehrliche-bedingungen](https://www.spiegel.de/panorama/riesenwellen-an-us-westkueste-extrem-gefaehrliche-bedingungen-a-06bb7061-2fa7-485e-8f60-bb63b36a0858#ref=rss)
-### sali
-
-* [https://www.spiegel.de/ausland/albanien-ex-regierungschef-sali-berisha-unter-hausarrest](https://www.spiegel.de/ausland/albanien-ex-regierungschef-sali-berisha-unter-hausarrest-a-ab6a5b55-4193-4cc9-9503-b0e94ee78cc9#ref=rss)
-### berisha
-
-* [https://www.spiegel.de/ausland/albanien-ex-regierungschef-sali-berisha-unter-hausarrest](https://www.spiegel.de/ausland/albanien-ex-regierungschef-sali-berisha-unter-hausarrest-a-ab6a5b55-4193-4cc9-9503-b0e94ee78cc9#ref=rss)
-### unter
-
-* [https://www.spiegel.de/ausland/albanien-ex-regierungschef-sali-berisha-unter-hausarrest](https://www.spiegel.de/ausland/albanien-ex-regierungschef-sali-berisha-unter-hausarrest-a-ab6a5b55-4193-4cc9-9503-b0e94ee78cc9#ref=rss)
-* [https://www.spiegel.de/ausland/extremwetter-im-jahr-2023-unterwegs-wo-es-brennt](https://www.spiegel.de/ausland/extremwetter-im-jahr-2023-unterwegs-wo-es-brennt-a-6f35b0dc-8137-4ac5-8097-f37b9e875883#ref=rss)
-### europa
-
-* [https://www.spiegel.de/ausland/extremwetter-im-jahr-2023-unterwegs-wo-es-brennt](https://www.spiegel.de/ausland/extremwetter-im-jahr-2023-unterwegs-wo-es-brennt-a-6f35b0dc-8137-4ac5-8097-f37b9e875883#ref=rss)
-* [https://www.spiegel.de/ausland/spiegel-newsletter-wie-ein-afghanisches-frauen-orchester-in-portugal-auflebt](https://www.spiegel.de/ausland/spiegel-newsletter-wie-ein-afghanisches-frauen-orchester-in-portugal-auflebt-a-02aa34d8-2f55-442b-86fd-b6cac939d696#ref=rss)
-### rio
-
-* [https://www.spiegel.de/panorama/rio-de-janeiro-christusstatue-erscheint-im-pele-trikot](https://www.spiegel.de/panorama/rio-de-janeiro-christusstatue-erscheint-im-pele-trikot-a-ea095cb6-ce01-439a-8a23-a429a0246fde#ref=rss)
-### janeiro
-
-* [https://www.spiegel.de/panorama/rio-de-janeiro-christusstatue-erscheint-im-pele-trikot](https://www.spiegel.de/panorama/rio-de-janeiro-christusstatue-erscheint-im-pele-trikot-a-ea095cb6-ce01-439a-8a23-a429a0246fde#ref=rss)
-### christusstatue
-
-* [https://www.spiegel.de/panorama/rio-de-janeiro-christusstatue-erscheint-im-pele-trikot](https://www.spiegel.de/panorama/rio-de-janeiro-christusstatue-erscheint-im-pele-trikot-a-ea095cb6-ce01-439a-8a23-a429a0246fde#ref=rss)
-### woche
-
-* [https://www.spiegel.de/panorama/bilder-der-woche-suesse-ware-schlechte-sicht](https://www.spiegel.de/panorama/bilder-der-woche-suesse-ware-schlechte-sicht-a-4f8dc3c7-ea33-47f8-b770-812411e7095f#ref=rss)
-### sehen
-
-* [https://www.spiegel.de/panorama/bilder-der-woche-suesse-ware-schlechte-sicht](https://www.spiegel.de/panorama/bilder-der-woche-suesse-ware-schlechte-sicht-a-4f8dc3c7-ea33-47f8-b770-812411e7095f#ref=rss)
-* [https://www.spiegel.de/panorama/passau-lkw-fahrer-nach-vernehmung-wieder-frei](https://www.spiegel.de/panorama/passau-lkw-fahrer-nach-vernehmung-wieder-frei-a-ebc6a09c-66f4-4c7d-bf92-871e3c578454#ref=rss)
-### wolfgang
-
-* [https://www.spiegel.de/politik/ukrainekrieg-wolfgang-ischinger-fordert-vom-westen-haertere-haltung-gegen-russland](https://www.spiegel.de/politik/ukrainekrieg-wolfgang-ischinger-fordert-vom-westen-haertere-haltung-gegen-russland-a-86040ceb-a399-41fc-bc05-46c343c124eb#ref=rss)
-### ischinger
-
-* [https://www.spiegel.de/politik/ukrainekrieg-wolfgang-ischinger-fordert-vom-westen-haertere-haltung-gegen-russland](https://www.spiegel.de/politik/ukrainekrieg-wolfgang-ischinger-fordert-vom-westen-haertere-haltung-gegen-russland-a-86040ceb-a399-41fc-bc05-46c343c124eb#ref=rss)
-### westen
-
-* [https://www.spiegel.de/politik/ukrainekrieg-wolfgang-ischinger-fordert-vom-westen-haertere-haltung-gegen-russland](https://www.spiegel.de/politik/ukrainekrieg-wolfgang-ischinger-fordert-vom-westen-haertere-haltung-gegen-russland-a-86040ceb-a399-41fc-bc05-46c343c124eb#ref=rss)
-### russland
-
-* [https://www.spiegel.de/politik/ukrainekrieg-wolfgang-ischinger-fordert-vom-westen-haertere-haltung-gegen-russland](https://www.spiegel.de/politik/ukrainekrieg-wolfgang-ischinger-fordert-vom-westen-haertere-haltung-gegen-russland-a-86040ceb-a399-41fc-bc05-46c343c124eb#ref=rss)
-### fest
-
-* [https://www.spiegel.de/familie/familiennewsletter-nach-dem-fest-ist-vor-dem-fest](https://www.spiegel.de/familie/familiennewsletter-nach-dem-fest-ist-vor-dem-fest-a-93a7b467-3945-49ec-894d-cf22c986d841#ref=rss)
-### gil
-
-* [https://www.spiegel.de/sport/formel1/gil-de-ferran-ist-tot-frueherer-mclaren-sportdirektor-im-alter-von-56-jahren-gestorben](https://www.spiegel.de/sport/formel1/gil-de-ferran-ist-tot-frueherer-mclaren-sportdirektor-im-alter-von-56-jahren-gestorben-a-57a88f7e-1347-48f9-bffa-73d87e42c20f#ref=rss)
-### ferran
-
-* [https://www.spiegel.de/sport/formel1/gil-de-ferran-ist-tot-frueherer-mclaren-sportdirektor-im-alter-von-56-jahren-gestorben](https://www.spiegel.de/sport/formel1/gil-de-ferran-ist-tot-frueherer-mclaren-sportdirektor-im-alter-von-56-jahren-gestorben-a-57a88f7e-1347-48f9-bffa-73d87e42c20f#ref=rss)
-### 56
-
-* [https://www.spiegel.de/sport/formel1/gil-de-ferran-ist-tot-frueherer-mclaren-sportdirektor-im-alter-von-56-jahren-gestorben](https://www.spiegel.de/sport/formel1/gil-de-ferran-ist-tot-frueherer-mclaren-sportdirektor-im-alter-von-56-jahren-gestorben-a-57a88f7e-1347-48f9-bffa-73d87e42c20f#ref=rss)
-### passau
-
-* [https://www.spiegel.de/panorama/passau-lkw-fahrer-nach-vernehmung-wieder-frei](https://www.spiegel.de/panorama/passau-lkw-fahrer-nach-vernehmung-wieder-frei-a-ebc6a09c-66f4-4c7d-bf92-871e3c578454#ref=rss)
-### unfall
-
-* [https://www.spiegel.de/panorama/passau-lkw-fahrer-nach-vernehmung-wieder-frei](https://www.spiegel.de/panorama/passau-lkw-fahrer-nach-vernehmung-wieder-frei-a-ebc6a09c-66f4-4c7d-bf92-871e3c578454#ref=rss)
-* [https://www.spiegel.de/panorama/a31-bei-borken-frau-stirbt-bei-massenkarambolage-durch-hagel](https://www.spiegel.de/panorama/a31-bei-borken-frau-stirbt-bei-massenkarambolage-durch-hagel-a-b8c13eb6-cf66-46a2-9d00-fc98ceb71093#ref=rss)
-### keinen
-
-* [https://www.spiegel.de/panorama/passau-lkw-fahrer-nach-vernehmung-wieder-frei](https://www.spiegel.de/panorama/passau-lkw-fahrer-nach-vernehmung-wieder-frei-a-ebc6a09c-66f4-4c7d-bf92-871e3c578454#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/passau-lkw-fahrer-nach-vernehmung-wieder-frei](https://www.spiegel.de/panorama/passau-lkw-fahrer-nach-vernehmung-wieder-frei-a-ebc6a09c-66f4-4c7d-bf92-871e3c578454#ref=rss)
-* [https://www.spiegel.de/panorama/indiana-mann-ueberlebt-sechs-tage-lang-in-verungluecktem-truck](https://www.spiegel.de/panorama/indiana-mann-ueberlebt-sechs-tage-lang-in-verungluecktem-truck-a-f5688904-b1da-4b6f-b668-3f45e53c3550#ref=rss)
-### highlights
-
-* [https://www.spiegel.de/kultur/kino/filme-und-serien-2024-auf-diese-highlights-koennen-sie-sich-feuen](https://www.spiegel.de/kultur/kino/filme-und-serien-2024-auf-diese-highlights-koennen-sie-sich-feuen-a-17469ec8-d1c6-42ff-a6e4-c14835164d85#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### tag
-
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### dartswm
-
-* [https://www.spiegel.de/sport/darts-wm-2024-michael-van-gerwen-attackiert-deutschen-ricardo-pietreczko-keine-eier](https://www.spiegel.de/sport/darts-wm-2024-michael-van-gerwen-attackiert-deutschen-ricardo-pietreczko-keine-eier-a-4939ba3c-2bcf-4473-91f3-5aad8a8f9047#ref=rss)
-### michael
-
-* [https://www.spiegel.de/sport/darts-wm-2024-michael-van-gerwen-attackiert-deutschen-ricardo-pietreczko-keine-eier](https://www.spiegel.de/sport/darts-wm-2024-michael-van-gerwen-attackiert-deutschen-ricardo-pietreczko-keine-eier-a-4939ba3c-2bcf-4473-91f3-5aad8a8f9047#ref=rss)
-### van
-
-* [https://www.spiegel.de/sport/darts-wm-2024-michael-van-gerwen-attackiert-deutschen-ricardo-pietreczko-keine-eier](https://www.spiegel.de/sport/darts-wm-2024-michael-van-gerwen-attackiert-deutschen-ricardo-pietreczko-keine-eier-a-4939ba3c-2bcf-4473-91f3-5aad8a8f9047#ref=rss)
-### gerwen
-
-* [https://www.spiegel.de/sport/darts-wm-2024-michael-van-gerwen-attackiert-deutschen-ricardo-pietreczko-keine-eier](https://www.spiegel.de/sport/darts-wm-2024-michael-van-gerwen-attackiert-deutschen-ricardo-pietreczko-keine-eier-a-4939ba3c-2bcf-4473-91f3-5aad8a8f9047#ref=rss)
-### ricardo
-
-* [https://www.spiegel.de/sport/darts-wm-2024-michael-van-gerwen-attackiert-deutschen-ricardo-pietreczko-keine-eier](https://www.spiegel.de/sport/darts-wm-2024-michael-van-gerwen-attackiert-deutschen-ricardo-pietreczko-keine-eier-a-4939ba3c-2bcf-4473-91f3-5aad8a8f9047#ref=rss)
-### pietreczko
-
-* [https://www.spiegel.de/sport/darts-wm-2024-michael-van-gerwen-attackiert-deutschen-ricardo-pietreczko-keine-eier](https://www.spiegel.de/sport/darts-wm-2024-michael-van-gerwen-attackiert-deutschen-ricardo-pietreczko-keine-eier-a-4939ba3c-2bcf-4473-91f3-5aad8a8f9047#ref=rss)
-### 13jähriger
-
-* [https://www.spiegel.de/panorama/rottenburg-boeller-gezuendet-13-jaehriger-schwer-im-gesicht-verletzt](https://www.spiegel.de/panorama/rottenburg-boeller-gezuendet-13-jaehriger-schwer-im-gesicht-verletzt-a-e6d8f169-186c-4568-8ed4-693d6b6625bf#ref=rss)
-### chinesischer
-
-* [https://www.spiegel.de/ausland/chinesischer-spionageballon-soll-us-internetanbieter-genutzt-haben-um-position-zu-melden](https://www.spiegel.de/ausland/chinesischer-spionageballon-soll-us-internetanbieter-genutzt-haben-um-position-zu-melden-a-28d22ad9-bbda-420f-aff0-98318fe8c900#ref=rss)
-### position
-
-* [https://www.spiegel.de/ausland/chinesischer-spionageballon-soll-us-internetanbieter-genutzt-haben-um-position-zu-melden](https://www.spiegel.de/ausland/chinesischer-spionageballon-soll-us-internetanbieter-genutzt-haben-um-position-zu-melden-a-28d22ad9-bbda-420f-aff0-98318fe8c900#ref=rss)
-### ballon
-
-* [https://www.spiegel.de/ausland/chinesischer-spionageballon-soll-us-internetanbieter-genutzt-haben-um-position-zu-melden](https://www.spiegel.de/ausland/chinesischer-spionageballon-soll-us-internetanbieter-genutzt-haben-um-position-zu-melden-a-28d22ad9-bbda-420f-aff0-98318fe8c900#ref=rss)
-### kampfpause
-
-* [https://www.spiegel.de/ausland/gaza-krieg-israel-verkuendet-vierstuendige-kampfpause-in-lager-in-rafah](https://www.spiegel.de/ausland/gaza-krieg-israel-verkuendet-vierstuendige-kampfpause-in-lager-in-rafah-a-07ae7901-7faf-4f9f-ae4e-75044b9cdfe9#ref=rss)
-### sechs
-
-* [https://www.spiegel.de/panorama/indiana-mann-ueberlebt-sechs-tage-lang-in-verungluecktem-truck](https://www.spiegel.de/panorama/indiana-mann-ueberlebt-sechs-tage-lang-in-verungluecktem-truck-a-f5688904-b1da-4b6f-b668-3f45e53c3550#ref=rss)
-### tage
-
-* [https://www.spiegel.de/panorama/indiana-mann-ueberlebt-sechs-tage-lang-in-verungluecktem-truck](https://www.spiegel.de/panorama/indiana-mann-ueberlebt-sechs-tage-lang-in-verungluecktem-truck-a-f5688904-b1da-4b6f-b668-3f45e53c3550#ref=rss)
-### lang
-
-* [https://www.spiegel.de/panorama/indiana-mann-ueberlebt-sechs-tage-lang-in-verungluecktem-truck](https://www.spiegel.de/panorama/indiana-mann-ueberlebt-sechs-tage-lang-in-verungluecktem-truck-a-f5688904-b1da-4b6f-b668-3f45e53c3550#ref=rss)
-### auto
-
-* [https://www.spiegel.de/panorama/indiana-mann-ueberlebt-sechs-tage-lang-in-verungluecktem-truck](https://www.spiegel.de/panorama/indiana-mann-ueberlebt-sechs-tage-lang-in-verungluecktem-truck-a-f5688904-b1da-4b6f-b668-3f45e53c3550#ref=rss)
-* [https://www.spiegel.de/panorama/a31-bei-borken-frau-stirbt-bei-massenkarambolage-durch-hagel](https://www.spiegel.de/panorama/a31-bei-borken-frau-stirbt-bei-massenkarambolage-durch-hagel-a-b8c13eb6-cf66-46a2-9d00-fc98ceb71093#ref=rss)
+* [https://www.spiegel.de/panorama/niederkassel-bei-bonn-auto-faehrt-gegen-bushaltestelle-14-jaehriger-stirbt](https://www.spiegel.de/panorama/niederkassel-bei-bonn-auto-faehrt-gegen-bushaltestelle-14-jaehriger-stirbt-a-226d0037-54d7-41c4-a8f1-620ec4d29812#ref=rss)
 
