@@ -4,304 +4,286 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/immobilien-stimmung-in-wohnungsbau-branche-auf-allzeittief](https://www.spiegel.de/wirtschaft/immobilien-stimmung-in-wohnungsbau-branche-auf-allzeittief-a-0cabf26c-f600-4ec3-a4d6-4669ec2f56b2#ref=rss)
-* [https://www.spiegel.de/kultur/gdl-streik-bauernproteste-klimakleber-die-deutsche-lust-am-lahmlegen](https://www.spiegel.de/kultur/gdl-streik-bauernproteste-klimakleber-die-deutsche-lust-am-lahmlegen-a-59a5fc53-0dc0-425e-b374-66afad205921#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-deutlicher-anstieg-von-gewalttaten-in-2023](https://www.spiegel.de/panorama/berlin-deutlicher-anstieg-von-gewalttaten-in-2023-a-cb202def-5d5d-4902-b79c-309d4ce12c8d#ref=rss)
-* [https://www.spiegel.de/sport/handball/deutschland-bei-der-handball-em-es-geht-auch-um-den-job-des-bundestrainers](https://www.spiegel.de/sport/handball/deutschland-bei-der-handball-em-es-geht-auch-um-den-job-des-bundestrainers-a-94bfa112-27da-4827-965e-94c419ab3871#ref=rss)
-### usa
-
-* [https://www.spiegel.de/panorama/leute/usa-melania-trumps-mutter-amalija-knavs-ist-tot](https://www.spiegel.de/panorama/leute/usa-melania-trumps-mutter-amalija-knavs-ist-tot-a-05c04271-a455-47ea-9814-d00e83e2f1db#ref=rss)
-* [https://www.spiegel.de/panorama/usa-811-000-haushalte-und-betriebe-wegen-stuermen-ohne-strom-mindestens-drei-tote](https://www.spiegel.de/panorama/usa-811-000-haushalte-und-betriebe-wegen-stuermen-ohne-strom-mindestens-drei-tote-a-9e6fefa0-b490-4d74-85a9-65715c8c5454#ref=rss)
-* [https://www.spiegel.de/ausland/rotes-meer-huthis-greifen-erneut-handelsschiffe-an](https://www.spiegel.de/ausland/rotes-meer-huthis-greifen-erneut-handelsschiffe-an-a-50409fd1-a1f8-409a-870b-6c0207ced23e#ref=rss)
-* [https://www.spiegel.de/ausland/usa-antony-blinken-nennt-opferzahlen-im-gazastreifen-viel-zu-hoch](https://www.spiegel.de/ausland/usa-antony-blinken-nennt-opferzahlen-im-gazastreifen-viel-zu-hoch-a-78038cfc-eb2b-4fee-b8a3-9ea5710656c3#ref=rss)
-### tot
-
-* [https://www.spiegel.de/kultur/musik/james-kottak-ehemaliger-scorpions-drummer-ist-tot](https://www.spiegel.de/kultur/musik/james-kottak-ehemaliger-scorpions-drummer-ist-tot-a-63f0b73b-050b-4bfe-975c-5a971441d83e#ref=rss)
-* [https://www.spiegel.de/panorama/leute/usa-melania-trumps-mutter-amalija-knavs-ist-tot](https://www.spiegel.de/panorama/leute/usa-melania-trumps-mutter-amalija-knavs-ist-tot-a-05c04271-a455-47ea-9814-d00e83e2f1db#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/kultur/kino/adan-canto-mit-42-jahren-gestorben-schauspieler-in-x-men-designated-survivor](https://www.spiegel.de/kultur/kino/adan-canto-mit-42-jahren-gestorben-schauspieler-in-x-men-designated-survivor-a-a002a515-7edc-4820-bdf6-164de3055899#ref=rss)
-* [https://www.spiegel.de/panorama/leute/usa-melania-trumps-mutter-amalija-knavs-ist-tot](https://www.spiegel.de/panorama/leute/usa-melania-trumps-mutter-amalija-knavs-ist-tot-a-05c04271-a455-47ea-9814-d00e83e2f1db#ref=rss)
-### trump
-
-* [https://www.spiegel.de/panorama/leute/usa-melania-trumps-mutter-amalija-knavs-ist-tot](https://www.spiegel.de/panorama/leute/usa-melania-trumps-mutter-amalija-knavs-ist-tot-a-05c04271-a455-47ea-9814-d00e83e2f1db#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/usa-811-000-haushalte-und-betriebe-wegen-stuermen-ohne-strom-mindestens-drei-tote](https://www.spiegel.de/panorama/usa-811-000-haushalte-und-betriebe-wegen-stuermen-ohne-strom-mindestens-drei-tote-a-9e6fefa0-b490-4d74-85a9-65715c8c5454#ref=rss)
-* [https://www.spiegel.de/kultur/gdl-streik-bauernproteste-klimakleber-die-deutsche-lust-am-lahmlegen](https://www.spiegel.de/kultur/gdl-streik-bauernproteste-klimakleber-die-deutsche-lust-am-lahmlegen-a-59a5fc53-0dc0-425e-b374-66afad205921#ref=rss)
-* [https://www.spiegel.de/start/vorsaetze-fuer-den-job-diese-vorhaben-schaffen-es-auch-ueber-den-januar-hinaus](https://www.spiegel.de/start/vorsaetze-fuer-den-job-diese-vorhaben-schaffen-es-auch-ueber-den-januar-hinaus-a-dbe4837c-f2b1-4048-9632-c6941d33a4cf#ref=rss)
-### usbörsenaufsicht
-
-* [https://www.spiegel.de/wirtschaft/service/bitcoin-etf-worum-es-bei-dem-hype-wirklich-geht](https://www.spiegel.de/wirtschaft/service/bitcoin-etf-worum-es-bei-dem-hype-wirklich-geht-a-f4999240-1a6d-46b8-b6cd-6fec597eb29b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/us-boersenaufsicht-falschmeldung-zu-bitcoin-etf-treibt-kurse-hoch](https://www.spiegel.de/wirtschaft/service/us-boersenaufsicht-falschmeldung-zu-bitcoin-etf-treibt-kurse-hoch-a-4771ecda-94e0-4971-af2f-6c8c8dd0e148#ref=rss)
-### gazastreifen
-
-* [https://www.spiegel.de/ausland/usa-antony-blinken-nennt-opferzahlen-im-gazastreifen-viel-zu-hoch](https://www.spiegel.de/ausland/usa-antony-blinken-nennt-opferzahlen-im-gazastreifen-viel-zu-hoch-a-78038cfc-eb2b-4fee-b8a3-9ea5710656c3#ref=rss)
-* [https://www.spiegel.de/ausland/gazastreifen-annalena-baerbock-bezeichnet-lage-in-gaza-als-medizinisches-desaster](https://www.spiegel.de/ausland/gazastreifen-annalena-baerbock-bezeichnet-lage-in-gaza-als-medizinisches-desaster-a-71649ff2-7bb9-4051-8651-9544434f6dd7#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/kultur/gdl-streik-bauernproteste-klimakleber-die-deutsche-lust-am-lahmlegen](https://www.spiegel.de/kultur/gdl-streik-bauernproteste-klimakleber-die-deutsche-lust-am-lahmlegen-a-59a5fc53-0dc0-425e-b374-66afad205921#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/zugausfaelle-und-traktor-blockaden-doppelbelastung-fuer-deutsche-pendler](https://www.spiegel.de/wirtschaft/soziales/zugausfaelle-und-traktor-blockaden-doppelbelastung-fuer-deutsche-pendler-a-24c15aba-bf80-4c3b-ab68-92c03e38d997#ref=rss)
-* [https://www.spiegel.de/sport/handball/deutschland-bei-der-handball-em-es-geht-auch-um-den-job-des-bundestrainers](https://www.spiegel.de/sport/handball/deutschland-bei-der-handball-em-es-geht-auch-um-den-job-des-bundestrainers-a-94bfa112-27da-4827-965e-94c419ab3871#ref=rss)
-### bauern
-
-* [https://www.spiegel.de/wirtschaft/soziales/zugausfaelle-und-traktor-blockaden-doppelbelastung-fuer-deutsche-pendler](https://www.spiegel.de/wirtschaft/soziales/zugausfaelle-und-traktor-blockaden-doppelbelastung-fuer-deutsche-pendler-a-24c15aba-bf80-4c3b-ab68-92c03e38d997#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-bahn-streik-cem-oezdemir-bauern-bitcoin-etf](https://www.spiegel.de/politik/deutschland/news-bahn-streik-cem-oezdemir-bauern-bitcoin-etf-a-b06436f3-d7d0-43d1-afc6-47c903ff00a2#ref=rss)
-### lage
-
-* [https://www.spiegel.de/politik/deutschland/news-bahn-streik-cem-oezdemir-bauern-bitcoin-etf](https://www.spiegel.de/politik/deutschland/news-bahn-streik-cem-oezdemir-bauern-bitcoin-etf-a-b06436f3-d7d0-43d1-afc6-47c903ff00a2#ref=rss)
-* [https://www.spiegel.de/ausland/gazastreifen-annalena-baerbock-bezeichnet-lage-in-gaza-als-medizinisches-desaster](https://www.spiegel.de/ausland/gazastreifen-annalena-baerbock-bezeichnet-lage-in-gaza-als-medizinisches-desaster-a-71649ff2-7bb9-4051-8651-9544434f6dd7#ref=rss)
-### viele
-
-* [https://www.spiegel.de/psychologie/positives-denken-ich-habe-mich-schon-immer-ueber-jeden-schmetterling-gefreut](https://www.spiegel.de/psychologie/positives-denken-ich-habe-mich-schon-immer-ueber-jeden-schmetterling-gefreut-a-5907c118-ee77-4c3f-8ceb-faaf9891945c#ref=rss)
-* [https://www.spiegel.de/start/vorsaetze-fuer-den-job-diese-vorhaben-schaffen-es-auch-ueber-den-januar-hinaus](https://www.spiegel.de/start/vorsaetze-fuer-den-job-diese-vorhaben-schaffen-es-auch-ueber-den-januar-hinaus-a-dbe4837c-f2b1-4048-9632-c6941d33a4cf#ref=rss)
-* [https://www.spiegel.de/auto/stau-in-berlin-hamburg-muenchen-wo-autofahrer-schlecht-und-wo-besonders-gut-vorankommen](https://www.spiegel.de/auto/stau-in-berlin-hamburg-muenchen-wo-autofahrer-schlecht-und-wo-besonders-gut-vorankommen-a-3d96c947-600c-40b6-b065-3046e7e6cffb#ref=rss)
-### marc
-
-* [https://www.spiegel.de/sport/fussball/marc-overmars-fussball-weltverband-fifa-sperrt-ex-profi-aus-den-niederlanden-weltweit](https://www.spiegel.de/sport/fussball/marc-overmars-fussball-weltverband-fifa-sperrt-ex-profi-aus-den-niederlanden-weltweit-a-c46cce80-bf7a-4f22-bb62-bd4ed60a2115#ref=rss)
-### overmars
-
-* [https://www.spiegel.de/sport/fussball/marc-overmars-fussball-weltverband-fifa-sperrt-ex-profi-aus-den-niederlanden-weltweit](https://www.spiegel.de/sport/fussball/marc-overmars-fussball-weltverband-fifa-sperrt-ex-profi-aus-den-niederlanden-weltweit-a-c46cce80-bf7a-4f22-bb62-bd4ed60a2115#ref=rss)
-### fifa
-
-* [https://www.spiegel.de/sport/fussball/marc-overmars-fussball-weltverband-fifa-sperrt-ex-profi-aus-den-niederlanden-weltweit](https://www.spiegel.de/sport/fussball/marc-overmars-fussball-weltverband-fifa-sperrt-ex-profi-aus-den-niederlanden-weltweit-a-c46cce80-bf7a-4f22-bb62-bd4ed60a2115#ref=rss)
-### hinter
-
-* [https://www.spiegel.de/ausland/polen-festgenommene-pis-abgeordnete-ins-gefaengnis-eingeliefert-ex-innenminister-mariusz-kaminski-tritt-in-den-hungerstreik](https://www.spiegel.de/ausland/polen-festgenommene-pis-abgeordnete-ins-gefaengnis-eingeliefert-ex-innenminister-mariusz-kaminski-tritt-in-den-hungerstreik-a-6353d669-147d-4a80-96a5-c67a2219b46d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/us-boersenaufsicht-falschmeldung-zu-bitcoin-etf-treibt-kurse-hoch](https://www.spiegel.de/wirtschaft/service/us-boersenaufsicht-falschmeldung-zu-bitcoin-etf-treibt-kurse-hoch-a-4771ecda-94e0-4971-af2f-6c8c8dd0e148#ref=rss)
-### aiwanger
-
-* [https://www.spiegel.de/kultur/tv/aiwanger-versus-nouripour-debatte-ueber-bauernproteste-bei-maischberger](https://www.spiegel.de/kultur/tv/aiwanger-versus-nouripour-debatte-ueber-bauernproteste-bei-maischberger-a-9d1f61d2-784b-46b9-b953-7bd18be12ee9#ref=rss)
-### nouripour
-
-* [https://www.spiegel.de/kultur/tv/aiwanger-versus-nouripour-debatte-ueber-bauernproteste-bei-maischberger](https://www.spiegel.de/kultur/tv/aiwanger-versus-nouripour-debatte-ueber-bauernproteste-bei-maischberger-a-9d1f61d2-784b-46b9-b953-7bd18be12ee9#ref=rss)
-### bauernproteste
-
-* [https://www.spiegel.de/kultur/tv/aiwanger-versus-nouripour-debatte-ueber-bauernproteste-bei-maischberger](https://www.spiegel.de/kultur/tv/aiwanger-versus-nouripour-debatte-ueber-bauernproteste-bei-maischberger-a-9d1f61d2-784b-46b9-b953-7bd18be12ee9#ref=rss)
-* [https://www.spiegel.de/kultur/gdl-streik-bauernproteste-klimakleber-die-deutsche-lust-am-lahmlegen](https://www.spiegel.de/kultur/gdl-streik-bauernproteste-klimakleber-die-deutsche-lust-am-lahmlegen-a-59a5fc53-0dc0-425e-b374-66afad205921#ref=rss)
-### zunächst
-
-* [https://www.spiegel.de/kultur/tv/aiwanger-versus-nouripour-debatte-ueber-bauernproteste-bei-maischberger](https://www.spiegel.de/kultur/tv/aiwanger-versus-nouripour-debatte-ueber-bauernproteste-bei-maischberger-a-9d1f61d2-784b-46b9-b953-7bd18be12ee9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/us-boersenaufsicht-falschmeldung-zu-bitcoin-etf-treibt-kurse-hoch](https://www.spiegel.de/wirtschaft/service/us-boersenaufsicht-falschmeldung-zu-bitcoin-etf-treibt-kurse-hoch-a-4771ecda-94e0-4971-af2f-6c8c8dd0e148#ref=rss)
-### disney
-
-* [https://www.spiegel.de/kultur/kino/star-wars-disney-bringt-the-mandalorian-grogu-mit-jon-favreau-ins-kino](https://www.spiegel.de/kultur/kino/star-wars-disney-bringt-the-mandalorian-grogu-mit-jon-favreau-ins-kino-a-72f643a1-f776-48be-bd17-a6b3f638348f#ref=rss)
-### the
-
-* [https://www.spiegel.de/kultur/kino/star-wars-disney-bringt-the-mandalorian-grogu-mit-jon-favreau-ins-kino](https://www.spiegel.de/kultur/kino/star-wars-disney-bringt-the-mandalorian-grogu-mit-jon-favreau-ins-kino-a-72f643a1-f776-48be-bd17-a6b3f638348f#ref=rss)
-### mandalorian
-
-* [https://www.spiegel.de/kultur/kino/star-wars-disney-bringt-the-mandalorian-grogu-mit-jon-favreau-ins-kino](https://www.spiegel.de/kultur/kino/star-wars-disney-bringt-the-mandalorian-grogu-mit-jon-favreau-ins-kino-a-72f643a1-f776-48be-bd17-a6b3f638348f#ref=rss)
-### jon
-
-* [https://www.spiegel.de/kultur/kino/star-wars-disney-bringt-the-mandalorian-grogu-mit-jon-favreau-ins-kino](https://www.spiegel.de/kultur/kino/star-wars-disney-bringt-the-mandalorian-grogu-mit-jon-favreau-ins-kino-a-72f643a1-f776-48be-bd17-a6b3f638348f#ref=rss)
-### favreau
-
-* [https://www.spiegel.de/kultur/kino/star-wars-disney-bringt-the-mandalorian-grogu-mit-jon-favreau-ins-kino](https://www.spiegel.de/kultur/kino/star-wars-disney-bringt-the-mandalorian-grogu-mit-jon-favreau-ins-kino-a-72f643a1-f776-48be-bd17-a6b3f638348f#ref=rss)
-### gdlstreik
-
-* [https://www.spiegel.de/wirtschaft/gdl-streik-ein-lokfuehrer-berichtet-warum-er-streikt](https://www.spiegel.de/wirtschaft/gdl-streik-ein-lokfuehrer-berichtet-warum-er-streikt-a-4ba625ab-0f7b-4bbd-b427-aed929cfab25#ref=rss)
-* [https://www.spiegel.de/kultur/gdl-streik-bauernproteste-klimakleber-die-deutsche-lust-am-lahmlegen](https://www.spiegel.de/kultur/gdl-streik-bauernproteste-klimakleber-die-deutsche-lust-am-lahmlegen-a-59a5fc53-0dc0-425e-b374-66afad205921#ref=rss)
-### lokführer
-
-* [https://www.spiegel.de/wirtschaft/gdl-streik-ein-lokfuehrer-berichtet-warum-er-streikt](https://www.spiegel.de/wirtschaft/gdl-streik-ein-lokfuehrer-berichtet-warum-er-streikt-a-4ba625ab-0f7b-4bbd-b427-aed929cfab25#ref=rss)
-### große
-
-* [https://www.spiegel.de/wirtschaft/gdl-streik-ein-lokfuehrer-berichtet-warum-er-streikt](https://www.spiegel.de/wirtschaft/gdl-streik-ein-lokfuehrer-berichtet-warum-er-streikt-a-4ba625ab-0f7b-4bbd-b427-aed929cfab25#ref=rss)
-* [https://www.spiegel.de/sport/handball/deutschland-bei-der-handball-em-es-geht-auch-um-den-job-des-bundestrainers](https://www.spiegel.de/sport/handball/deutschland-bei-der-handball-em-es-geht-auch-um-den-job-des-bundestrainers-a-94bfa112-27da-4827-965e-94c419ab3871#ref=rss)
-### drei
-
-* [https://www.spiegel.de/wirtschaft/gdl-streik-ein-lokfuehrer-berichtet-warum-er-streikt](https://www.spiegel.de/wirtschaft/gdl-streik-ein-lokfuehrer-berichtet-warum-er-streikt-a-4ba625ab-0f7b-4bbd-b427-aed929cfab25#ref=rss)
-* [https://www.spiegel.de/panorama/usa-811-000-haushalte-und-betriebe-wegen-stuermen-ohne-strom-mindestens-drei-tote](https://www.spiegel.de/panorama/usa-811-000-haushalte-und-betriebe-wegen-stuermen-ohne-strom-mindestens-drei-tote-a-9e6fefa0-b490-4d74-85a9-65715c8c5454#ref=rss)
-### sprechen
-
-* [https://www.spiegel.de/wirtschaft/immobilien-stimmung-in-wohnungsbau-branche-auf-allzeittief](https://www.spiegel.de/wirtschaft/immobilien-stimmung-in-wohnungsbau-branche-auf-allzeittief-a-0cabf26c-f600-4ec3-a4d6-4669ec2f56b2#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/krokodile-sind-romantiker-und-sprechen-laut-studie-eine-sprache-der-liebe](https://www.spiegel.de/wissenschaft/natur/krokodile-sind-romantiker-und-sprechen-laut-studie-eine-sprache-der-liebe-a-97f73d52-326c-4c87-8862-27dfacf6b8a6#ref=rss)
-### james
-
-* [https://www.spiegel.de/kultur/musik/james-kottak-ehemaliger-scorpions-drummer-ist-tot](https://www.spiegel.de/kultur/musik/james-kottak-ehemaliger-scorpions-drummer-ist-tot-a-63f0b73b-050b-4bfe-975c-5a971441d83e#ref=rss)
-### kottak
-
-* [https://www.spiegel.de/kultur/musik/james-kottak-ehemaliger-scorpions-drummer-ist-tot](https://www.spiegel.de/kultur/musik/james-kottak-ehemaliger-scorpions-drummer-ist-tot-a-63f0b73b-050b-4bfe-975c-5a971441d83e#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/kultur/musik/james-kottak-ehemaliger-scorpions-drummer-ist-tot](https://www.spiegel.de/kultur/musik/james-kottak-ehemaliger-scorpions-drummer-ist-tot-a-63f0b73b-050b-4bfe-975c-5a971441d83e#ref=rss)
-* [https://www.spiegel.de/sport/handball/deutschland-bei-der-handball-em-es-geht-auch-um-den-job-des-bundestrainers](https://www.spiegel.de/sport/handball/deutschland-bei-der-handball-em-es-geht-auch-um-den-job-des-bundestrainers-a-94bfa112-27da-4827-965e-94c419ab3871#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/kultur/musik/james-kottak-ehemaliger-scorpions-drummer-ist-tot](https://www.spiegel.de/kultur/musik/james-kottak-ehemaliger-scorpions-drummer-ist-tot-a-63f0b73b-050b-4bfe-975c-5a971441d83e#ref=rss)
-* [https://www.spiegel.de/psychologie/positives-denken-ich-habe-mich-schon-immer-ueber-jeden-schmetterling-gefreut](https://www.spiegel.de/psychologie/positives-denken-ich-habe-mich-schon-immer-ueber-jeden-schmetterling-gefreut-a-5907c118-ee77-4c3f-8ceb-faaf9891945c#ref=rss)
-### krokodile
-
-* [https://www.spiegel.de/wissenschaft/natur/krokodile-sind-romantiker-und-sprechen-laut-studie-eine-sprache-der-liebe](https://www.spiegel.de/wissenschaft/natur/krokodile-sind-romantiker-und-sprechen-laut-studie-eine-sprache-der-liebe-a-97f73d52-326c-4c87-8862-27dfacf6b8a6#ref=rss)
-### studie
-
-* [https://www.spiegel.de/wissenschaft/natur/krokodile-sind-romantiker-und-sprechen-laut-studie-eine-sprache-der-liebe](https://www.spiegel.de/wissenschaft/natur/krokodile-sind-romantiker-und-sprechen-laut-studie-eine-sprache-der-liebe-a-97f73d52-326c-4c87-8862-27dfacf6b8a6#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/wissenschaft/natur/krokodile-sind-romantiker-und-sprechen-laut-studie-eine-sprache-der-liebe](https://www.spiegel.de/wissenschaft/natur/krokodile-sind-romantiker-und-sprechen-laut-studie-eine-sprache-der-liebe-a-97f73d52-326c-4c87-8862-27dfacf6b8a6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/bitcoin-etf-worum-es-bei-dem-hype-wirklich-geht](https://www.spiegel.de/wirtschaft/service/bitcoin-etf-worum-es-bei-dem-hype-wirklich-geht-a-f4999240-1a6d-46b8-b6cd-6fec597eb29b#ref=rss)
-### eigenen
-
-* [https://www.spiegel.de/wissenschaft/natur/krokodile-sind-romantiker-und-sprechen-laut-studie-eine-sprache-der-liebe](https://www.spiegel.de/wissenschaft/natur/krokodile-sind-romantiker-und-sprechen-laut-studie-eine-sprache-der-liebe-a-97f73d52-326c-4c87-8862-27dfacf6b8a6#ref=rss)
-* [https://www.spiegel.de/ausland/rotes-meer-huthis-greifen-erneut-handelsschiffe-an](https://www.spiegel.de/ausland/rotes-meer-huthis-greifen-erneut-handelsschiffe-an-a-50409fd1-a1f8-409a-870b-6c0207ced23e#ref=rss)
-### franz
-
-* [https://www.spiegel.de/sport/fussball/franz-beckenbauer-eine-ohrfeige-machte-ihn-erst-zum-bayern-spieler](https://www.spiegel.de/sport/fussball/franz-beckenbauer-eine-ohrfeige-machte-ihn-erst-zum-bayern-spieler-a-517bea06-87ac-4887-a37f-f8d3303c2425#ref=rss)
-### beckenbauer
-
-* [https://www.spiegel.de/sport/fussball/franz-beckenbauer-eine-ohrfeige-machte-ihn-erst-zum-bayern-spieler](https://www.spiegel.de/sport/fussball/franz-beckenbauer-eine-ohrfeige-machte-ihn-erst-zum-bayern-spieler-a-517bea06-87ac-4887-a37f-f8d3303c2425#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-waffen-fuer-saudi-arabien-polen-ces-roboter](https://www.spiegel.de/politik/deutschland/news-des-tages-waffen-fuer-saudi-arabien-polen-ces-roboter-a-5449380c-c5fe-4a30-a018-09dedfbd17ab#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-sichert-libanon-erhoehte-unterstuetzung-fuer-die-armee-zu](https://www.spiegel.de/politik/deutschland/annalena-baerbock-sichert-libanon-erhoehte-unterstuetzung-fuer-die-armee-zu-a-267c3d6f-55d1-48ad-bf35-97cb25d7db41#ref=rss)
+* [https://www.spiegel.de/sport/handball/handball-em-2024-das-sind-die-zehn-besten-teams-der-europameisterschaft](https://www.spiegel.de/sport/handball/handball-em-2024-das-sind-die-zehn-besten-teams-der-europameisterschaft-a-88ef065e-764b-4aff-ad75-25c16aede6ac#ref=rss)
 ### münchen
 
-* [https://www.spiegel.de/sport/fussball/franz-beckenbauer-eine-ohrfeige-machte-ihn-erst-zum-bayern-spieler](https://www.spiegel.de/sport/fussball/franz-beckenbauer-eine-ohrfeige-machte-ihn-erst-zum-bayern-spieler-a-517bea06-87ac-4887-a37f-f8d3303c2425#ref=rss)
-* [https://www.spiegel.de/auto/stau-in-berlin-hamburg-muenchen-wo-autofahrer-schlecht-und-wo-besonders-gut-vorankommen](https://www.spiegel.de/auto/stau-in-berlin-hamburg-muenchen-wo-autofahrer-schlecht-und-wo-besonders-gut-vorankommen-a-3d96c947-600c-40b6-b065-3046e7e6cffb#ref=rss)
-### spielte
+* [https://www.spiegel.de/wirtschaft/bmw-stammwerk-in-muenchen-soll-nur-noch-elektrofahrzeuge-herstellen](https://www.spiegel.de/wirtschaft/bmw-stammwerk-in-muenchen-soll-nur-noch-elektrofahrzeuge-herstellen-a-7e8e87d3-db8f-492f-a705-8bb3007b4e13#ref=rss)
+* [https://www.spiegel.de/sport/fussball/franz-beckenbauer-und-der-fc-bayern-muenchen-fc-franz](https://www.spiegel.de/sport/fussball/franz-beckenbauer-und-der-fc-bayern-muenchen-fc-franz-a-d631e4dc-762a-4c78-a558-96f3da217d2b#ref=rss)
+### ermittelt
 
-* [https://www.spiegel.de/sport/fussball/franz-beckenbauer-eine-ohrfeige-machte-ihn-erst-zum-bayern-spieler](https://www.spiegel.de/sport/fussball/franz-beckenbauer-eine-ohrfeige-machte-ihn-erst-zum-bayern-spieler-a-517bea06-87ac-4887-a37f-f8d3303c2425#ref=rss)
-* [https://www.spiegel.de/kultur/kino/adan-canto-mit-42-jahren-gestorben-schauspieler-in-x-men-designated-survivor](https://www.spiegel.de/kultur/kino/adan-canto-mit-42-jahren-gestorben-schauspieler-in-x-men-designated-survivor-a-a002a515-7edc-4820-bdf6-164de3055899#ref=rss)
-### madsack
+* [https://www.spiegel.de/panorama/kanada-militaerpolizei-droht-mit-klage-gegen-sexarbeiterin-rabatte-fuer-soldaten](https://www.spiegel.de/panorama/kanada-militaerpolizei-droht-mit-klage-gegen-sexarbeiterin-rabatte-fuer-soldaten-a-762fc75d-01e3-4c20-bfbc-d302c4d443c3#ref=rss)
+* [https://www.spiegel.de/kultur/kino/samuel-theis-aus-anatomie-eines-falls-set-mitarbeiter-wirft-samuel-theis-vergewaltigung-vor](https://www.spiegel.de/kultur/kino/samuel-theis-aus-anatomie-eines-falls-set-mitarbeiter-wirft-samuel-theis-vergewaltigung-vor-a-704454ef-b218-4daf-9e2b-66dfaca4f8be#ref=rss)
+* [https://www.spiegel.de/panorama/halberstadt-in-sachsen-anhalt-88-jaehrige-stirbt-nach-hundebissen-und-unterkuehlung](https://www.spiegel.de/panorama/halberstadt-in-sachsen-anhalt-88-jaehrige-stirbt-nach-hundebissen-und-unterkuehlung-a-452ad1f5-948b-48c5-9b8b-2f7a5a82bcb7#ref=rss)
+### drei
 
-* [https://www.spiegel.de/kultur/saechsische-zeitung-madsack-uebernimmt-offenbar-anteile-von-bertelsmann](https://www.spiegel.de/kultur/saechsische-zeitung-madsack-uebernimmt-offenbar-anteile-von-bertelsmann-a-9e157ac4-ca66-40a4-8bb0-925793ba06bb#ref=rss)
-### bertelsmann
+* [https://www.spiegel.de/panorama/oesterreich-trio-will-grossglockner-trotz-wetterwarnungen-besteigen-hohe-geldstrafe](https://www.spiegel.de/panorama/oesterreich-trio-will-grossglockner-trotz-wetterwarnungen-besteigen-hohe-geldstrafe-a-e009cc97-cf38-4383-b642-008df77e415b#ref=rss)
+* [https://www.spiegel.de/panorama/taiwan-drei-menschen-nach-missgluecktem-wahlkampfgeschenk-in-krankenhaus-eingeliefert](https://www.spiegel.de/panorama/taiwan-drei-menschen-nach-missgluecktem-wahlkampfgeschenk-in-krankenhaus-eingeliefert-a-599e3c81-4f7f-4d34-890f-ec1405307fd1#ref=rss)
+### partei
 
-* [https://www.spiegel.de/kultur/saechsische-zeitung-madsack-uebernimmt-offenbar-anteile-von-bertelsmann](https://www.spiegel.de/kultur/saechsische-zeitung-madsack-uebernimmt-offenbar-anteile-von-bertelsmann-a-9e157ac4-ca66-40a4-8bb0-925793ba06bb#ref=rss)
-### zukunft
+* [https://www.spiegel.de/politik/deutschland/tobias-bank-linken-geschaeftsfuehrer-tritt-zurueck](https://www.spiegel.de/politik/deutschland/tobias-bank-linken-geschaeftsfuehrer-tritt-zurueck-a-526ad07b-8a52-4a22-b53f-b1afb96e9c3d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/axel-schaefer-es-geht-um-die-existenz-der-spd](https://www.spiegel.de/politik/deutschland/axel-schaefer-es-geht-um-die-existenz-der-spd-a-a0ae6804-bbff-41c9-ac71-b573cc7d9172#ref=rss)
+* [https://www.spiegel.de/panorama/taiwan-drei-menschen-nach-missgluecktem-wahlkampfgeschenk-in-krankenhaus-eingeliefert](https://www.spiegel.de/panorama/taiwan-drei-menschen-nach-missgluecktem-wahlkampfgeschenk-in-krankenhaus-eingeliefert-a-599e3c81-4f7f-4d34-890f-ec1405307fd1#ref=rss)
+### nachdem
 
-* [https://www.spiegel.de/kultur/saechsische-zeitung-madsack-uebernimmt-offenbar-anteile-von-bertelsmann](https://www.spiegel.de/kultur/saechsische-zeitung-madsack-uebernimmt-offenbar-anteile-von-bertelsmann-a-9e157ac4-ca66-40a4-8bb0-925793ba06bb#ref=rss)
-* [https://www.spiegel.de/kultur/kino/adan-canto-mit-42-jahren-gestorben-schauspieler-in-x-men-designated-survivor](https://www.spiegel.de/kultur/kino/adan-canto-mit-42-jahren-gestorben-schauspieler-in-x-men-designated-survivor-a-a002a515-7edc-4820-bdf6-164de3055899#ref=rss)
-### österreich
+* [https://www.spiegel.de/panorama/justiz/schluettsiel-staatsanwaltschaft-sieht-straftatbestaende-nach-protest-gegen-robert-habeck](https://www.spiegel.de/panorama/justiz/schluettsiel-staatsanwaltschaft-sieht-straftatbestaende-nach-protest-gegen-robert-habeck-a-1a55374b-675c-4352-8058-87f698d4f2cc#ref=rss)
+* [https://www.spiegel.de/panorama/taiwan-drei-menschen-nach-missgluecktem-wahlkampfgeschenk-in-krankenhaus-eingeliefert](https://www.spiegel.de/panorama/taiwan-drei-menschen-nach-missgluecktem-wahlkampfgeschenk-in-krankenhaus-eingeliefert-a-599e3c81-4f7f-4d34-890f-ec1405307fd1#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/boeing-737-max-9-ist-fliegen-mit-den-jets-sicher-nachdem-das-rumpfteil-einer-maschine-im-flug-rausgebrochen-ist](https://www.spiegel.de/wissenschaft/technik/boeing-737-max-9-ist-fliegen-mit-den-jets-sicher-nachdem-das-rumpfteil-einer-maschine-im-flug-rausgebrochen-ist-a-bb0f5cab-880f-40b7-a46b-9e307270940e#ref=rss)
+### limmer
 
-* [https://www.spiegel.de/panorama/oetz-in-oesterreich-daenische-familie-wird-bei-gondelabsturz-schwer-verletzt](https://www.spiegel.de/panorama/oetz-in-oesterreich-daenische-familie-wird-bei-gondelabsturz-schwer-verletzt-a-bc3dd278-a673-4a04-ac00-b35eff7b74bd#ref=rss)
-### familie
+* [https://www.spiegel.de/wirtschaft/unternehmen/burgerkette-hans-im-glueck-trennt-sich-von-miteigner-hans-christian-limmer](https://www.spiegel.de/wirtschaft/unternehmen/burgerkette-hans-im-glueck-trennt-sich-von-miteigner-hans-christian-limmer-a-94a1bd12-2f96-4ccd-869c-69d00b6a0d52#ref=rss)
+### samuel
 
-* [https://www.spiegel.de/panorama/oetz-in-oesterreich-daenische-familie-wird-bei-gondelabsturz-schwer-verletzt](https://www.spiegel.de/panorama/oetz-in-oesterreich-daenische-familie-wird-bei-gondelabsturz-schwer-verletzt-a-bc3dd278-a673-4a04-ac00-b35eff7b74bd#ref=rss)
-### verletzt
+* [https://www.spiegel.de/kultur/kino/samuel-theis-aus-anatomie-eines-falls-set-mitarbeiter-wirft-samuel-theis-vergewaltigung-vor](https://www.spiegel.de/kultur/kino/samuel-theis-aus-anatomie-eines-falls-set-mitarbeiter-wirft-samuel-theis-vergewaltigung-vor-a-704454ef-b218-4daf-9e2b-66dfaca4f8be#ref=rss)
+### theis
 
-* [https://www.spiegel.de/panorama/oetz-in-oesterreich-daenische-familie-wird-bei-gondelabsturz-schwer-verletzt](https://www.spiegel.de/panorama/oetz-in-oesterreich-daenische-familie-wird-bei-gondelabsturz-schwer-verletzt-a-bc3dd278-a673-4a04-ac00-b35eff7b74bd#ref=rss)
-### millionen
+* [https://www.spiegel.de/kultur/kino/samuel-theis-aus-anatomie-eines-falls-set-mitarbeiter-wirft-samuel-theis-vergewaltigung-vor](https://www.spiegel.de/kultur/kino/samuel-theis-aus-anatomie-eines-falls-set-mitarbeiter-wirft-samuel-theis-vergewaltigung-vor-a-704454ef-b218-4daf-9e2b-66dfaca4f8be#ref=rss)
+### franz
 
-* [https://www.spiegel.de/panorama/spanien-millionen-plastikkuegelchen-verschmutzen-atlantikkueste](https://www.spiegel.de/panorama/spanien-millionen-plastikkuegelchen-verschmutzen-atlantikkueste-a-cf0f6709-3064-45b3-a624-f4116e5ea21b#ref=rss)
-### adan
+* [https://www.spiegel.de/sport/fussball/franz-beckenbauer-und-der-fc-bayern-muenchen-fc-franz](https://www.spiegel.de/sport/fussball/franz-beckenbauer-und-der-fc-bayern-muenchen-fc-franz-a-d631e4dc-762a-4c78-a558-96f3da217d2b#ref=rss)
+### fc
 
-* [https://www.spiegel.de/kultur/kino/adan-canto-mit-42-jahren-gestorben-schauspieler-in-x-men-designated-survivor](https://www.spiegel.de/kultur/kino/adan-canto-mit-42-jahren-gestorben-schauspieler-in-x-men-designated-survivor-a-a002a515-7edc-4820-bdf6-164de3055899#ref=rss)
-### canto
+* [https://www.spiegel.de/sport/fussball/franz-beckenbauer-und-der-fc-bayern-muenchen-fc-franz](https://www.spiegel.de/sport/fussball/franz-beckenbauer-und-der-fc-bayern-muenchen-fc-franz-a-d631e4dc-762a-4c78-a558-96f3da217d2b#ref=rss)
+### formel
 
-* [https://www.spiegel.de/kultur/kino/adan-canto-mit-42-jahren-gestorben-schauspieler-in-x-men-designated-survivor](https://www.spiegel.de/kultur/kino/adan-canto-mit-42-jahren-gestorben-schauspieler-in-x-men-designated-survivor-a-a002a515-7edc-4820-bdf6-164de3055899#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-haas-trennt-sich-von-teamchef-guenther-steiner](https://www.spiegel.de/sport/formel1/formel-1-haas-trennt-sich-von-teamchef-guenther-steiner-a-f4a89b92-c33f-418c-92df-90dee71b8add#ref=rss)
+### 1
+
+* [https://www.spiegel.de/sport/formel1/formel-1-haas-trennt-sich-von-teamchef-guenther-steiner](https://www.spiegel.de/sport/formel1/formel-1-haas-trennt-sich-von-teamchef-guenther-steiner-a-f4a89b92-c33f-418c-92df-90dee71b8add#ref=rss)
+### haas
+
+* [https://www.spiegel.de/sport/formel1/formel-1-haas-trennt-sich-von-teamchef-guenther-steiner](https://www.spiegel.de/sport/formel1/formel-1-haas-trennt-sich-von-teamchef-guenther-steiner-a-f4a89b92-c33f-418c-92df-90dee71b8add#ref=rss)
+### trennt
+
+* [https://www.spiegel.de/sport/formel1/formel-1-haas-trennt-sich-von-teamchef-guenther-steiner](https://www.spiegel.de/sport/formel1/formel-1-haas-trennt-sich-von-teamchef-guenther-steiner-a-f4a89b92-c33f-418c-92df-90dee71b8add#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/burgerkette-hans-im-glueck-trennt-sich-von-miteigner-hans-christian-limmer](https://www.spiegel.de/wirtschaft/unternehmen/burgerkette-hans-im-glueck-trennt-sich-von-miteigner-hans-christian-limmer-a-94a1bd12-2f96-4ccd-869c-69d00b6a0d52#ref=rss)
+### günther
+
+* [https://www.spiegel.de/sport/formel1/formel-1-haas-trennt-sich-von-teamchef-guenther-steiner](https://www.spiegel.de/sport/formel1/formel-1-haas-trennt-sich-von-teamchef-guenther-steiner-a-f4a89b92-c33f-418c-92df-90dee71b8add#ref=rss)
+### steiner
+
+* [https://www.spiegel.de/sport/formel1/formel-1-haas-trennt-sich-von-teamchef-guenther-steiner](https://www.spiegel.de/sport/formel1/formel-1-haas-trennt-sich-von-teamchef-guenther-steiner-a-f4a89b92-c33f-418c-92df-90dee71b8add#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/wissenschaft/mensch/ukrainische-antarktis-station-wie-forscht-man-wenn-zu-hause-krieg-ist](https://www.spiegel.de/wissenschaft/mensch/ukrainische-antarktis-station-wie-forscht-man-wenn-zu-hause-krieg-ist-a-f7ac99b7-e459-44fd-9374-6688ce8d7b16#ref=rss)
+### 14
+
+* [https://www.spiegel.de/wissenschaft/mensch/ukrainische-antarktis-station-wie-forscht-man-wenn-zu-hause-krieg-ist](https://www.spiegel.de/wissenschaft/mensch/ukrainische-antarktis-station-wie-forscht-man-wenn-zu-hause-krieg-ist-a-f7ac99b7-e459-44fd-9374-6688ce8d7b16#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/eppingen-jugendliche-pruegeln-52-jaehrigen-nach-streit-in-zu-tode](https://www.spiegel.de/panorama/justiz/eppingen-jugendliche-pruegeln-52-jaehrigen-nach-streit-in-zu-tode-a-33cb78d8-a733-4b8b-9aa1-1bee9b61a810#ref=rss)
+### raketen
+
+* [https://www.spiegel.de/wissenschaft/mensch/ukrainische-antarktis-station-wie-forscht-man-wenn-zu-hause-krieg-ist](https://www.spiegel.de/wissenschaft/mensch/ukrainische-antarktis-station-wie-forscht-man-wenn-zu-hause-krieg-ist-a-f7ac99b7-e459-44fd-9374-6688ce8d7b16#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-waffen-fuer-saudi-arabien-polen-ces-roboter](https://www.spiegel.de/politik/deutschland/news-des-tages-waffen-fuer-saudi-arabien-polen-ces-roboter-a-5449380c-c5fe-4a30-a018-09dedfbd17ab#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/wissenschaft/mensch/ukrainische-antarktis-station-wie-forscht-man-wenn-zu-hause-krieg-ist](https://www.spiegel.de/wissenschaft/mensch/ukrainische-antarktis-station-wie-forscht-man-wenn-zu-hause-krieg-ist-a-f7ac99b7-e459-44fd-9374-6688ce8d7b16#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/tobias-bank-linken-geschaeftsfuehrer-tritt-zurueck](https://www.spiegel.de/politik/deutschland/tobias-bank-linken-geschaeftsfuehrer-tritt-zurueck-a-526ad07b-8a52-4a22-b53f-b1afb96e9c3d#ref=rss)
+### eppingen
+
+* [https://www.spiegel.de/panorama/justiz/eppingen-jugendliche-pruegeln-52-jaehrigen-nach-streit-in-zu-tode](https://www.spiegel.de/panorama/justiz/eppingen-jugendliche-pruegeln-52-jaehrigen-nach-streit-in-zu-tode-a-33cb78d8-a733-4b8b-9aa1-1bee9b61a810#ref=rss)
 ### jahren
 
-* [https://www.spiegel.de/kultur/kino/adan-canto-mit-42-jahren-gestorben-schauspieler-in-x-men-designated-survivor](https://www.spiegel.de/kultur/kino/adan-canto-mit-42-jahren-gestorben-schauspieler-in-x-men-designated-survivor-a-a002a515-7edc-4820-bdf6-164de3055899#ref=rss)
-* [https://www.spiegel.de/panorama/leute/usa-melania-trumps-mutter-amalija-knavs-ist-tot](https://www.spiegel.de/panorama/leute/usa-melania-trumps-mutter-amalija-knavs-ist-tot-a-05c04271-a455-47ea-9814-d00e83e2f1db#ref=rss)
-### schauspieler
+* [https://www.spiegel.de/panorama/justiz/eppingen-jugendliche-pruegeln-52-jaehrigen-nach-streit-in-zu-tode](https://www.spiegel.de/panorama/justiz/eppingen-jugendliche-pruegeln-52-jaehrigen-nach-streit-in-zu-tode-a-33cb78d8-a733-4b8b-9aa1-1bee9b61a810#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bmw-stammwerk-in-muenchen-soll-nur-noch-elektrofahrzeuge-herstellen](https://www.spiegel.de/wirtschaft/bmw-stammwerk-in-muenchen-soll-nur-noch-elektrofahrzeuge-herstellen-a-7e8e87d3-db8f-492f-a705-8bb3007b4e13#ref=rss)
+### russland
 
-* [https://www.spiegel.de/kultur/kino/adan-canto-mit-42-jahren-gestorben-schauspieler-in-x-men-designated-survivor](https://www.spiegel.de/kultur/kino/adan-canto-mit-42-jahren-gestorben-schauspieler-in-x-men-designated-survivor-a-a002a515-7edc-4820-bdf6-164de3055899#ref=rss)
-### xmen
+* [https://www.spiegel.de/ausland/waffenproduktion-in-russland-wladimir-putins-ruestungsoffensive](https://www.spiegel.de/ausland/waffenproduktion-in-russland-wladimir-putins-ruestungsoffensive-a-a73e20f1-d680-4dcd-968c-85185a409614#ref=rss)
+### waffen
 
-* [https://www.spiegel.de/kultur/kino/adan-canto-mit-42-jahren-gestorben-schauspieler-in-x-men-designated-survivor](https://www.spiegel.de/kultur/kino/adan-canto-mit-42-jahren-gestorben-schauspieler-in-x-men-designated-survivor-a-a002a515-7edc-4820-bdf6-164de3055899#ref=rss)
-### bekannt
+* [https://www.spiegel.de/ausland/waffenproduktion-in-russland-wladimir-putins-ruestungsoffensive](https://www.spiegel.de/ausland/waffenproduktion-in-russland-wladimir-putins-ruestungsoffensive-a-a73e20f1-d680-4dcd-968c-85185a409614#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-waffen-fuer-saudi-arabien-polen-ces-roboter](https://www.spiegel.de/politik/deutschland/news-des-tages-waffen-fuer-saudi-arabien-polen-ces-roboter-a-5449380c-c5fe-4a30-a018-09dedfbd17ab#ref=rss)
+### frankreich
 
-* [https://www.spiegel.de/kultur/kino/adan-canto-mit-42-jahren-gestorben-schauspieler-in-x-men-designated-survivor](https://www.spiegel.de/kultur/kino/adan-canto-mit-42-jahren-gestorben-schauspieler-in-x-men-designated-survivor-a-a002a515-7edc-4820-bdf6-164de3055899#ref=rss)
-* [https://www.spiegel.de/panorama/leute/usa-melania-trumps-mutter-amalija-knavs-ist-tot](https://www.spiegel.de/panorama/leute/usa-melania-trumps-mutter-amalija-knavs-ist-tot-a-05c04271-a455-47ea-9814-d00e83e2f1db#ref=rss)
-### krankheit
+* [https://www.spiegel.de/wirtschaft/frankreich-nimmt-kohlekraftwerk-in-saint-avold-wegen-kaeltewelle-voruebergehend-wieder-in-betrieb](https://www.spiegel.de/wirtschaft/frankreich-nimmt-kohlekraftwerk-in-saint-avold-wegen-kaeltewelle-voruebergehend-wieder-in-betrieb-a-0feb209e-1008-470b-a957-d19d8f760295#ref=rss)
+### polen
 
-* [https://www.spiegel.de/kultur/kino/adan-canto-mit-42-jahren-gestorben-schauspieler-in-x-men-designated-survivor](https://www.spiegel.de/kultur/kino/adan-canto-mit-42-jahren-gestorben-schauspieler-in-x-men-designated-survivor-a-a002a515-7edc-4820-bdf6-164de3055899#ref=rss)
-* [https://www.spiegel.de/psychologie/positives-denken-ich-habe-mich-schon-immer-ueber-jeden-schmetterling-gefreut](https://www.spiegel.de/psychologie/positives-denken-ich-habe-mich-schon-immer-ueber-jeden-schmetterling-gefreut-a-5907c118-ee77-4c3f-8ceb-faaf9891945c#ref=rss)
-### melania
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-waffen-fuer-saudi-arabien-polen-ces-roboter](https://www.spiegel.de/politik/deutschland/news-des-tages-waffen-fuer-saudi-arabien-polen-ces-roboter-a-5449380c-c5fe-4a30-a018-09dedfbd17ab#ref=rss)
+### roboter
 
-* [https://www.spiegel.de/panorama/leute/usa-melania-trumps-mutter-amalija-knavs-ist-tot](https://www.spiegel.de/panorama/leute/usa-melania-trumps-mutter-amalija-knavs-ist-tot-a-05c04271-a455-47ea-9814-d00e83e2f1db#ref=rss)
-### mutter
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-waffen-fuer-saudi-arabien-polen-ces-roboter](https://www.spiegel.de/politik/deutschland/news-des-tages-waffen-fuer-saudi-arabien-polen-ces-roboter-a-5449380c-c5fe-4a30-a018-09dedfbd17ab#ref=rss)
+### bmw
 
-* [https://www.spiegel.de/panorama/leute/usa-melania-trumps-mutter-amalija-knavs-ist-tot](https://www.spiegel.de/panorama/leute/usa-melania-trumps-mutter-amalija-knavs-ist-tot-a-05c04271-a455-47ea-9814-d00e83e2f1db#ref=rss)
-### ohne
+* [https://www.spiegel.de/wirtschaft/bmw-stammwerk-in-muenchen-soll-nur-noch-elektrofahrzeuge-herstellen](https://www.spiegel.de/wirtschaft/bmw-stammwerk-in-muenchen-soll-nur-noch-elektrofahrzeuge-herstellen-a-7e8e87d3-db8f-492f-a705-8bb3007b4e13#ref=rss)
+### vier
 
-* [https://www.spiegel.de/panorama/leute/usa-melania-trumps-mutter-amalija-knavs-ist-tot](https://www.spiegel.de/panorama/leute/usa-melania-trumps-mutter-amalija-knavs-ist-tot-a-05c04271-a455-47ea-9814-d00e83e2f1db#ref=rss)
-* [https://www.spiegel.de/panorama/usa-811-000-haushalte-und-betriebe-wegen-stuermen-ohne-strom-mindestens-drei-tote](https://www.spiegel.de/panorama/usa-811-000-haushalte-und-betriebe-wegen-stuermen-ohne-strom-mindestens-drei-tote-a-9e6fefa0-b490-4d74-85a9-65715c8c5454#ref=rss)
-### haushalte
+* [https://www.spiegel.de/wirtschaft/bmw-stammwerk-in-muenchen-soll-nur-noch-elektrofahrzeuge-herstellen](https://www.spiegel.de/wirtschaft/bmw-stammwerk-in-muenchen-soll-nur-noch-elektrofahrzeuge-herstellen-a-7e8e87d3-db8f-492f-a705-8bb3007b4e13#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-sanierung-bund-will-mit-verkauf-von-beteiligungen-vier-milliarden-euro-einnehmen](https://www.spiegel.de/wirtschaft/deutsche-bahn-sanierung-bund-will-mit-verkauf-von-beteiligungen-vier-milliarden-euro-einnehmen-a-b14beb8f-bdc2-436c-8f11-b96df89d6914#ref=rss)
+### österreich
 
-* [https://www.spiegel.de/panorama/usa-811-000-haushalte-und-betriebe-wegen-stuermen-ohne-strom-mindestens-drei-tote](https://www.spiegel.de/panorama/usa-811-000-haushalte-und-betriebe-wegen-stuermen-ohne-strom-mindestens-drei-tote-a-9e6fefa0-b490-4d74-85a9-65715c8c5454#ref=rss)
-### bitcoinetf
+* [https://www.spiegel.de/wirtschaft/bmw-stammwerk-in-muenchen-soll-nur-noch-elektrofahrzeuge-herstellen](https://www.spiegel.de/wirtschaft/bmw-stammwerk-in-muenchen-soll-nur-noch-elektrofahrzeuge-herstellen-a-7e8e87d3-db8f-492f-a705-8bb3007b4e13#ref=rss)
+* [https://www.spiegel.de/panorama/oesterreich-trio-will-grossglockner-trotz-wetterwarnungen-besteigen-hohe-geldstrafe](https://www.spiegel.de/panorama/oesterreich-trio-will-grossglockner-trotz-wetterwarnungen-besteigen-hohe-geldstrafe-a-e009cc97-cf38-4383-b642-008df77e415b#ref=rss)
+### militärpolizei
 
-* [https://www.spiegel.de/wirtschaft/service/bitcoin-etf-worum-es-bei-dem-hype-wirklich-geht](https://www.spiegel.de/wirtschaft/service/bitcoin-etf-worum-es-bei-dem-hype-wirklich-geht-a-f4999240-1a6d-46b8-b6cd-6fec597eb29b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-bahn-streik-cem-oezdemir-bauern-bitcoin-etf](https://www.spiegel.de/politik/deutschland/news-bahn-streik-cem-oezdemir-bauern-bitcoin-etf-a-b06436f3-d7d0-43d1-afc6-47c903ff00a2#ref=rss)
-### bitcoin
+* [https://www.spiegel.de/panorama/kanada-militaerpolizei-droht-mit-klage-gegen-sexarbeiterin-rabatte-fuer-soldaten](https://www.spiegel.de/panorama/kanada-militaerpolizei-droht-mit-klage-gegen-sexarbeiterin-rabatte-fuer-soldaten-a-762fc75d-01e3-4c20-bfbc-d302c4d443c3#ref=rss)
+### sexarbeiterin
 
-* [https://www.spiegel.de/wirtschaft/service/bitcoin-etf-worum-es-bei-dem-hype-wirklich-geht](https://www.spiegel.de/wirtschaft/service/bitcoin-etf-worum-es-bei-dem-hype-wirklich-geht-a-f4999240-1a6d-46b8-b6cd-6fec597eb29b#ref=rss)
-### sollte
+* [https://www.spiegel.de/panorama/kanada-militaerpolizei-droht-mit-klage-gegen-sexarbeiterin-rabatte-fuer-soldaten](https://www.spiegel.de/panorama/kanada-militaerpolizei-droht-mit-klage-gegen-sexarbeiterin-rabatte-fuer-soldaten-a-762fc75d-01e3-4c20-bfbc-d302c4d443c3#ref=rss)
+### fahren
 
-* [https://www.spiegel.de/wirtschaft/service/bitcoin-etf-worum-es-bei-dem-hype-wirklich-geht](https://www.spiegel.de/wirtschaft/service/bitcoin-etf-worum-es-bei-dem-hype-wirklich-geht-a-f4999240-1a6d-46b8-b6cd-6fec597eb29b#ref=rss)
-* [https://www.spiegel.de/sport/handball/deutschland-bei-der-handball-em-es-geht-auch-um-den-job-des-bundestrainers](https://www.spiegel.de/sport/handball/deutschland-bei-der-handball-em-es-geht-auch-um-den-job-des-bundestrainers-a-94bfa112-27da-4827-965e-94c419ab3871#ref=rss)
-### meer
+* [https://www.spiegel.de/wirtschaft/unternehmen/bahnstreik-der-lokfuehrer-nur-rund-jeder-fuenfte-ice-faehrt](https://www.spiegel.de/wirtschaft/unternehmen/bahnstreik-der-lokfuehrer-nur-rund-jeder-fuenfte-ice-faehrt-a-a6725e9e-2ce7-4646-a0c7-30dbe94a3445#ref=rss)
+* [https://www.spiegel.de/deinspiegel/17-jaehrige-freestyle-skifahrerin-muriel-mohr-ein-menschlicher-korkenzieher](https://www.spiegel.de/deinspiegel/17-jaehrige-freestyle-skifahrerin-muriel-mohr-ein-menschlicher-korkenzieher-a-e2819253-357d-44b4-81f9-1e1938eb04d0#ref=rss)
+### sara
 
-* [https://www.spiegel.de/ausland/rotes-meer-huthis-greifen-erneut-handelsschiffe-an](https://www.spiegel.de/ausland/rotes-meer-huthis-greifen-erneut-handelsschiffe-an-a-50409fd1-a1f8-409a-870b-6c0207ced23e#ref=rss)
-### blinken
+* [https://www.spiegel.de/panorama/leute/sara-sidner-cnn-moderatorin-macht-krebsdiagnose-in-emotionaler-livesendung-oeffentlich](https://www.spiegel.de/panorama/leute/sara-sidner-cnn-moderatorin-macht-krebsdiagnose-in-emotionaler-livesendung-oeffentlich-a-a851eef1-6ff7-45b3-9c6b-d7c08cf3bbfa#ref=rss)
+### sidner
 
-* [https://www.spiegel.de/ausland/usa-antony-blinken-nennt-opferzahlen-im-gazastreifen-viel-zu-hoch](https://www.spiegel.de/ausland/usa-antony-blinken-nennt-opferzahlen-im-gazastreifen-viel-zu-hoch-a-78038cfc-eb2b-4fee-b8a3-9ea5710656c3#ref=rss)
+* [https://www.spiegel.de/panorama/leute/sara-sidner-cnn-moderatorin-macht-krebsdiagnose-in-emotionaler-livesendung-oeffentlich](https://www.spiegel.de/panorama/leute/sara-sidner-cnn-moderatorin-macht-krebsdiagnose-in-emotionaler-livesendung-oeffentlich-a-a851eef1-6ff7-45b3-9c6b-d7c08cf3bbfa#ref=rss)
+### macht
+
+* [https://www.spiegel.de/panorama/leute/sara-sidner-cnn-moderatorin-macht-krebsdiagnose-in-emotionaler-livesendung-oeffentlich](https://www.spiegel.de/panorama/leute/sara-sidner-cnn-moderatorin-macht-krebsdiagnose-in-emotionaler-livesendung-oeffentlich-a-a851eef1-6ff7-45b3-9c6b-d7c08cf3bbfa#ref=rss)
+* [https://www.spiegel.de/deinspiegel/17-jaehrige-freestyle-skifahrerin-muriel-mohr-ein-menschlicher-korkenzieher](https://www.spiegel.de/deinspiegel/17-jaehrige-freestyle-skifahrerin-muriel-mohr-ein-menschlicher-korkenzieher-a-e2819253-357d-44b4-81f9-1e1938eb04d0#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/panorama/leute/sara-sidner-cnn-moderatorin-macht-krebsdiagnose-in-emotionaler-livesendung-oeffentlich](https://www.spiegel.de/panorama/leute/sara-sidner-cnn-moderatorin-macht-krebsdiagnose-in-emotionaler-livesendung-oeffentlich-a-a851eef1-6ff7-45b3-9c6b-d7c08cf3bbfa#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-sanierung-bund-will-mit-verkauf-von-beteiligungen-vier-milliarden-euro-einnehmen](https://www.spiegel.de/wirtschaft/deutsche-bahn-sanierung-bund-will-mit-verkauf-von-beteiligungen-vier-milliarden-euro-einnehmen-a-b14beb8f-bdc2-436c-8f11-b96df89d6914#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/panorama/leute/sara-sidner-cnn-moderatorin-macht-krebsdiagnose-in-emotionaler-livesendung-oeffentlich](https://www.spiegel.de/panorama/leute/sara-sidner-cnn-moderatorin-macht-krebsdiagnose-in-emotionaler-livesendung-oeffentlich-a-a851eef1-6ff7-45b3-9c6b-d7c08cf3bbfa#ref=rss)
+* [https://www.spiegel.de/kultur/kino/samuel-theis-aus-anatomie-eines-falls-set-mitarbeiter-wirft-samuel-theis-vergewaltigung-vor](https://www.spiegel.de/kultur/kino/samuel-theis-aus-anatomie-eines-falls-set-mitarbeiter-wirft-samuel-theis-vergewaltigung-vor-a-704454ef-b218-4daf-9e2b-66dfaca4f8be#ref=rss)
+### spanien
+
+* [https://www.spiegel.de/ausland/spanien-maskenpflicht-fuer-staatliche-gesundheitszentren-wegen-grippe-und-corona](https://www.spiegel.de/ausland/spanien-maskenpflicht-fuer-staatliche-gesundheitszentren-wegen-grippe-und-corona-a-2ae15ba1-3220-4231-849e-eec25be1e036#ref=rss)
+### maskenpflicht
+
+* [https://www.spiegel.de/ausland/spanien-maskenpflicht-fuer-staatliche-gesundheitszentren-wegen-grippe-und-corona](https://www.spiegel.de/ausland/spanien-maskenpflicht-fuer-staatliche-gesundheitszentren-wegen-grippe-und-corona-a-2ae15ba1-3220-4231-849e-eec25be1e036#ref=rss)
+### gesundheitszentren
+
+* [https://www.spiegel.de/ausland/spanien-maskenpflicht-fuer-staatliche-gesundheitszentren-wegen-grippe-und-corona](https://www.spiegel.de/ausland/spanien-maskenpflicht-fuer-staatliche-gesundheitszentren-wegen-grippe-und-corona-a-2ae15ba1-3220-4231-849e-eec25be1e036#ref=rss)
+### besteigen
+
+* [https://www.spiegel.de/panorama/oesterreich-trio-will-grossglockner-trotz-wetterwarnungen-besteigen-hohe-geldstrafe](https://www.spiegel.de/panorama/oesterreich-trio-will-grossglockner-trotz-wetterwarnungen-besteigen-hohe-geldstrafe-a-e009cc97-cf38-4383-b642-008df77e415b#ref=rss)
+### tobias
+
+* [https://www.spiegel.de/politik/deutschland/tobias-bank-linken-geschaeftsfuehrer-tritt-zurueck](https://www.spiegel.de/politik/deutschland/tobias-bank-linken-geschaeftsfuehrer-tritt-zurueck-a-526ad07b-8a52-4a22-b53f-b1afb96e9c3d#ref=rss)
+### bank
+
+* [https://www.spiegel.de/politik/deutschland/tobias-bank-linken-geschaeftsfuehrer-tritt-zurueck](https://www.spiegel.de/politik/deutschland/tobias-bank-linken-geschaeftsfuehrer-tritt-zurueck-a-526ad07b-8a52-4a22-b53f-b1afb96e9c3d#ref=rss)
+### funktionär
+
+* [https://www.spiegel.de/politik/deutschland/tobias-bank-linken-geschaeftsfuehrer-tritt-zurueck](https://www.spiegel.de/politik/deutschland/tobias-bank-linken-geschaeftsfuehrer-tritt-zurueck-a-526ad07b-8a52-4a22-b53f-b1afb96e9c3d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/franz-beckenbauer-und-der-fc-bayern-muenchen-fc-franz](https://www.spiegel.de/sport/fussball/franz-beckenbauer-und-der-fc-bayern-muenchen-fc-franz-a-d631e4dc-762a-4c78-a558-96f3da217d2b#ref=rss)
+### schlüttsiel
+
+* [https://www.spiegel.de/panorama/justiz/schluettsiel-staatsanwaltschaft-sieht-straftatbestaende-nach-protest-gegen-robert-habeck](https://www.spiegel.de/panorama/justiz/schluettsiel-staatsanwaltschaft-sieht-straftatbestaende-nach-protest-gegen-robert-habeck-a-1a55374b-675c-4352-8058-87f698d4f2cc#ref=rss)
+### staatsanwaltschaft
+
+* [https://www.spiegel.de/panorama/justiz/schluettsiel-staatsanwaltschaft-sieht-straftatbestaende-nach-protest-gegen-robert-habeck](https://www.spiegel.de/panorama/justiz/schluettsiel-staatsanwaltschaft-sieht-straftatbestaende-nach-protest-gegen-robert-habeck-a-1a55374b-675c-4352-8058-87f698d4f2cc#ref=rss)
+* [https://www.spiegel.de/kultur/kino/samuel-theis-aus-anatomie-eines-falls-set-mitarbeiter-wirft-samuel-theis-vergewaltigung-vor](https://www.spiegel.de/kultur/kino/samuel-theis-aus-anatomie-eines-falls-set-mitarbeiter-wirft-samuel-theis-vergewaltigung-vor-a-704454ef-b218-4daf-9e2b-66dfaca4f8be#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/panorama/justiz/schluettsiel-staatsanwaltschaft-sieht-straftatbestaende-nach-protest-gegen-robert-habeck](https://www.spiegel.de/panorama/justiz/schluettsiel-staatsanwaltschaft-sieht-straftatbestaende-nach-protest-gegen-robert-habeck-a-1a55374b-675c-4352-8058-87f698d4f2cc#ref=rss)
+### straftatbestände
+
+* [https://www.spiegel.de/panorama/justiz/schluettsiel-staatsanwaltschaft-sieht-straftatbestaende-nach-protest-gegen-robert-habeck](https://www.spiegel.de/panorama/justiz/schluettsiel-staatsanwaltschaft-sieht-straftatbestaende-nach-protest-gegen-robert-habeck-a-1a55374b-675c-4352-8058-87f698d4f2cc#ref=rss)
+### habeck
+
+* [https://www.spiegel.de/panorama/justiz/schluettsiel-staatsanwaltschaft-sieht-straftatbestaende-nach-protest-gegen-robert-habeck](https://www.spiegel.de/panorama/justiz/schluettsiel-staatsanwaltschaft-sieht-straftatbestaende-nach-protest-gegen-robert-habeck-a-1a55374b-675c-4352-8058-87f698d4f2cc#ref=rss)
+### hans
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/burgerkette-hans-im-glueck-trennt-sich-von-miteigner-hans-christian-limmer](https://www.spiegel.de/wirtschaft/unternehmen/burgerkette-hans-im-glueck-trennt-sich-von-miteigner-hans-christian-limmer-a-94a1bd12-2f96-4ccd-869c-69d00b6a0d52#ref=rss)
+### glück
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/burgerkette-hans-im-glueck-trennt-sich-von-miteigner-hans-christian-limmer](https://www.spiegel.de/wirtschaft/unternehmen/burgerkette-hans-im-glueck-trennt-sich-von-miteigner-hans-christian-limmer-a-94a1bd12-2f96-4ccd-869c-69d00b6a0d52#ref=rss)
+### hanschristian
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/burgerkette-hans-im-glueck-trennt-sich-von-miteigner-hans-christian-limmer](https://www.spiegel.de/wirtschaft/unternehmen/burgerkette-hans-im-glueck-trennt-sich-von-miteigner-hans-christian-limmer-a-94a1bd12-2f96-4ccd-869c-69d00b6a0d52#ref=rss)
+### beckenbauer
+
+* [https://www.spiegel.de/sport/fussball/franz-beckenbauer-und-der-fc-bayern-muenchen-fc-franz](https://www.spiegel.de/sport/fussball/franz-beckenbauer-und-der-fc-bayern-muenchen-fc-franz-a-d631e4dc-762a-4c78-a558-96f3da217d2b#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/franz-beckenbauer-und-der-fc-bayern-muenchen-fc-franz](https://www.spiegel.de/sport/fussball/franz-beckenbauer-und-der-fc-bayern-muenchen-fc-franz-a-d631e4dc-762a-4c78-a558-96f3da217d2b#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/axel-schaefer-es-geht-um-die-existenz-der-spd](https://www.spiegel.de/politik/deutschland/axel-schaefer-es-geht-um-die-existenz-der-spd-a-a0ae6804-bbff-41c9-ac71-b573cc7d9172#ref=rss)
+### cdu
+
+* [https://www.spiegel.de/politik/deutschland/cdu-entwurf-zur-heidelberger-erklaerung-union-will-mit-drittstaatenloesung-kernkraft-und-schuldenbremse-punkten](https://www.spiegel.de/politik/deutschland/cdu-entwurf-zur-heidelberger-erklaerung-union-will-mit-drittstaatenloesung-kernkraft-und-schuldenbremse-punkten-a-e299727a-3bc5-410c-babc-b9bfbd4061b9#ref=rss)
+### entwurf
+
+* [https://www.spiegel.de/politik/deutschland/cdu-entwurf-zur-heidelberger-erklaerung-union-will-mit-drittstaatenloesung-kernkraft-und-schuldenbremse-punkten](https://www.spiegel.de/politik/deutschland/cdu-entwurf-zur-heidelberger-erklaerung-union-will-mit-drittstaatenloesung-kernkraft-und-schuldenbremse-punkten-a-e299727a-3bc5-410c-babc-b9bfbd4061b9#ref=rss)
+### 2024
+
+* [https://www.spiegel.de/politik/deutschland/cdu-entwurf-zur-heidelberger-erklaerung-union-will-mit-drittstaatenloesung-kernkraft-und-schuldenbremse-punkten](https://www.spiegel.de/politik/deutschland/cdu-entwurf-zur-heidelberger-erklaerung-union-will-mit-drittstaatenloesung-kernkraft-und-schuldenbremse-punkten-a-e299727a-3bc5-410c-babc-b9bfbd4061b9#ref=rss)
+* [https://www.spiegel.de/sport/handball/handball-em-2024-das-sind-die-zehn-besten-teams-der-europameisterschaft](https://www.spiegel.de/sport/handball/handball-em-2024-das-sind-die-zehn-besten-teams-der-europameisterschaft-a-88ef065e-764b-4aff-ad75-25c16aede6ac#ref=rss)
 ### deutsche
 
-* [https://www.spiegel.de/kultur/gdl-streik-bauernproteste-klimakleber-die-deutsche-lust-am-lahmlegen](https://www.spiegel.de/kultur/gdl-streik-bauernproteste-klimakleber-die-deutsche-lust-am-lahmlegen-a-59a5fc53-0dc0-425e-b374-66afad205921#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/zugausfaelle-und-traktor-blockaden-doppelbelastung-fuer-deutsche-pendler](https://www.spiegel.de/wirtschaft/soziales/zugausfaelle-und-traktor-blockaden-doppelbelastung-fuer-deutsche-pendler-a-24c15aba-bf80-4c3b-ab68-92c03e38d997#ref=rss)
-### lust
+* [https://www.spiegel.de/start/akademie-deutsche-pop-ist-pleite-wie-geht-es-fuer-die-studierenden-und-dozierenden-weiter](https://www.spiegel.de/start/akademie-deutsche-pop-ist-pleite-wie-geht-es-fuer-die-studierenden-und-dozierenden-weiter-a-afceb1c0-46c7-4725-b290-6dd78b13a805#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-sanierung-bund-will-mit-verkauf-von-beteiligungen-vier-milliarden-euro-einnehmen](https://www.spiegel.de/wirtschaft/deutsche-bahn-sanierung-bund-will-mit-verkauf-von-beteiligungen-vier-milliarden-euro-einnehmen-a-b14beb8f-bdc2-436c-8f11-b96df89d6914#ref=rss)
+### pop
 
-* [https://www.spiegel.de/kultur/gdl-streik-bauernproteste-klimakleber-die-deutsche-lust-am-lahmlegen](https://www.spiegel.de/kultur/gdl-streik-bauernproteste-klimakleber-die-deutsche-lust-am-lahmlegen-a-59a5fc53-0dc0-425e-b374-66afad205921#ref=rss)
-### lahmlegen
+* [https://www.spiegel.de/start/akademie-deutsche-pop-ist-pleite-wie-geht-es-fuer-die-studierenden-und-dozierenden-weiter](https://www.spiegel.de/start/akademie-deutsche-pop-ist-pleite-wie-geht-es-fuer-die-studierenden-und-dozierenden-weiter-a-afceb1c0-46c7-4725-b290-6dd78b13a805#ref=rss)
+### studierenden
 
-* [https://www.spiegel.de/kultur/gdl-streik-bauernproteste-klimakleber-die-deutsche-lust-am-lahmlegen](https://www.spiegel.de/kultur/gdl-streik-bauernproteste-klimakleber-die-deutsche-lust-am-lahmlegen-a-59a5fc53-0dc0-425e-b374-66afad205921#ref=rss)
-### blockieren
+* [https://www.spiegel.de/start/akademie-deutsche-pop-ist-pleite-wie-geht-es-fuer-die-studierenden-und-dozierenden-weiter](https://www.spiegel.de/start/akademie-deutsche-pop-ist-pleite-wie-geht-es-fuer-die-studierenden-und-dozierenden-weiter-a-afceb1c0-46c7-4725-b290-6dd78b13a805#ref=rss)
+### muriel
 
-* [https://www.spiegel.de/kultur/gdl-streik-bauernproteste-klimakleber-die-deutsche-lust-am-lahmlegen](https://www.spiegel.de/kultur/gdl-streik-bauernproteste-klimakleber-die-deutsche-lust-am-lahmlegen-a-59a5fc53-0dc0-425e-b374-66afad205921#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/zugausfaelle-und-traktor-blockaden-doppelbelastung-fuer-deutsche-pendler](https://www.spiegel.de/wirtschaft/soziales/zugausfaelle-und-traktor-blockaden-doppelbelastung-fuer-deutsche-pendler-a-24c15aba-bf80-4c3b-ab68-92c03e38d997#ref=rss)
-### cem
+* [https://www.spiegel.de/deinspiegel/17-jaehrige-freestyle-skifahrerin-muriel-mohr-ein-menschlicher-korkenzieher](https://www.spiegel.de/deinspiegel/17-jaehrige-freestyle-skifahrerin-muriel-mohr-ein-menschlicher-korkenzieher-a-e2819253-357d-44b4-81f9-1e1938eb04d0#ref=rss)
+### mohr
 
-* [https://www.spiegel.de/politik/deutschland/news-bahn-streik-cem-oezdemir-bauern-bitcoin-etf](https://www.spiegel.de/politik/deutschland/news-bahn-streik-cem-oezdemir-bauern-bitcoin-etf-a-b06436f3-d7d0-43d1-afc6-47c903ff00a2#ref=rss)
-### özdemir
+* [https://www.spiegel.de/deinspiegel/17-jaehrige-freestyle-skifahrerin-muriel-mohr-ein-menschlicher-korkenzieher](https://www.spiegel.de/deinspiegel/17-jaehrige-freestyle-skifahrerin-muriel-mohr-ein-menschlicher-korkenzieher-a-e2819253-357d-44b4-81f9-1e1938eb04d0#ref=rss)
+### besten
 
-* [https://www.spiegel.de/politik/deutschland/news-bahn-streik-cem-oezdemir-bauern-bitcoin-etf](https://www.spiegel.de/politik/deutschland/news-bahn-streik-cem-oezdemir-bauern-bitcoin-etf-a-b06436f3-d7d0-43d1-afc6-47c903ff00a2#ref=rss)
-### moritz
+* [https://www.spiegel.de/deinspiegel/17-jaehrige-freestyle-skifahrerin-muriel-mohr-ein-menschlicher-korkenzieher](https://www.spiegel.de/deinspiegel/17-jaehrige-freestyle-skifahrerin-muriel-mohr-ein-menschlicher-korkenzieher-a-e2819253-357d-44b4-81f9-1e1938eb04d0#ref=rss)
+* [https://www.spiegel.de/sport/handball/handball-em-2024-das-sind-die-zehn-besten-teams-der-europameisterschaft](https://www.spiegel.de/sport/handball/handball-em-2024-das-sind-die-zehn-besten-teams-der-europameisterschaft-a-88ef065e-764b-4aff-ad75-25c16aede6ac#ref=rss)
+### donald
 
-* [https://www.spiegel.de/sport/basketball/nba-moritz-wagner-und-orlando-magic-verlieren-gegen-minnesota-timberwolves](https://www.spiegel.de/sport/basketball/nba-moritz-wagner-und-orlando-magic-verlieren-gegen-minnesota-timberwolves-a-5db89e14-5f55-41f9-9922-aca12b941d1a#ref=rss)
-### wagner
+* [https://www.spiegel.de/ausland/donald-trump-soll-als-praesident-militaerhilfe-bei-angriff-auf-europa-abgelehnt-haben](https://www.spiegel.de/ausland/donald-trump-soll-als-praesident-militaerhilfe-bei-angriff-auf-europa-abgelehnt-haben-a-c7a2cc29-bbf8-429f-b07d-872acf51d3d4#ref=rss)
+### trump
 
-* [https://www.spiegel.de/sport/basketball/nba-moritz-wagner-und-orlando-magic-verlieren-gegen-minnesota-timberwolves](https://www.spiegel.de/sport/basketball/nba-moritz-wagner-und-orlando-magic-verlieren-gegen-minnesota-timberwolves-a-5db89e14-5f55-41f9-9922-aca12b941d1a#ref=rss)
-### orlando
+* [https://www.spiegel.de/ausland/donald-trump-soll-als-praesident-militaerhilfe-bei-angriff-auf-europa-abgelehnt-haben](https://www.spiegel.de/ausland/donald-trump-soll-als-praesident-militaerhilfe-bei-angriff-auf-europa-abgelehnt-haben-a-c7a2cc29-bbf8-429f-b07d-872acf51d3d4#ref=rss)
+### europa
 
-* [https://www.spiegel.de/sport/basketball/nba-moritz-wagner-und-orlando-magic-verlieren-gegen-minnesota-timberwolves](https://www.spiegel.de/sport/basketball/nba-moritz-wagner-und-orlando-magic-verlieren-gegen-minnesota-timberwolves-a-5db89e14-5f55-41f9-9922-aca12b941d1a#ref=rss)
-### minnesota
+* [https://www.spiegel.de/ausland/donald-trump-soll-als-praesident-militaerhilfe-bei-angriff-auf-europa-abgelehnt-haben](https://www.spiegel.de/ausland/donald-trump-soll-als-praesident-militaerhilfe-bei-angriff-auf-europa-abgelehnt-haben-a-c7a2cc29-bbf8-429f-b07d-872acf51d3d4#ref=rss)
+### usa
 
-* [https://www.spiegel.de/sport/basketball/nba-moritz-wagner-und-orlando-magic-verlieren-gegen-minnesota-timberwolves](https://www.spiegel.de/sport/basketball/nba-moritz-wagner-und-orlando-magic-verlieren-gegen-minnesota-timberwolves-a-5db89e14-5f55-41f9-9922-aca12b941d1a#ref=rss)
-### baerbock
+* [https://www.spiegel.de/ausland/donald-trump-soll-als-praesident-militaerhilfe-bei-angriff-auf-europa-abgelehnt-haben](https://www.spiegel.de/ausland/donald-trump-soll-als-praesident-militaerhilfe-bei-angriff-auf-europa-abgelehnt-haben-a-c7a2cc29-bbf8-429f-b07d-872acf51d3d4#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/boeing-737-max-9-ist-fliegen-mit-den-jets-sicher-nachdem-das-rumpfteil-einer-maschine-im-flug-rausgebrochen-ist](https://www.spiegel.de/wissenschaft/technik/boeing-737-max-9-ist-fliegen-mit-den-jets-sicher-nachdem-das-rumpfteil-einer-maschine-im-flug-rausgebrochen-ist-a-bb0f5cab-880f-40b7-a46b-9e307270940e#ref=rss)
+### verbündete
 
-* [https://www.spiegel.de/ausland/gazastreifen-annalena-baerbock-bezeichnet-lage-in-gaza-als-medizinisches-desaster](https://www.spiegel.de/ausland/gazastreifen-annalena-baerbock-bezeichnet-lage-in-gaza-als-medizinisches-desaster-a-71649ff2-7bb9-4051-8651-9544434f6dd7#ref=rss)
-### besonders
+* [https://www.spiegel.de/ausland/donald-trump-soll-als-praesident-militaerhilfe-bei-angriff-auf-europa-abgelehnt-haben](https://www.spiegel.de/ausland/donald-trump-soll-als-praesident-militaerhilfe-bei-angriff-auf-europa-abgelehnt-haben-a-c7a2cc29-bbf8-429f-b07d-872acf51d3d4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-sichert-libanon-erhoehte-unterstuetzung-fuer-die-armee-zu](https://www.spiegel.de/politik/deutschland/annalena-baerbock-sichert-libanon-erhoehte-unterstuetzung-fuer-die-armee-zu-a-267c3d6f-55d1-48ad-bf35-97cb25d7db41#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/ausland/gazastreifen-annalena-baerbock-bezeichnet-lage-in-gaza-als-medizinisches-desaster](https://www.spiegel.de/ausland/gazastreifen-annalena-baerbock-bezeichnet-lage-in-gaza-als-medizinisches-desaster-a-71649ff2-7bb9-4051-8651-9544434f6dd7#ref=rss)
-* [https://www.spiegel.de/auto/stau-in-berlin-hamburg-muenchen-wo-autofahrer-schlecht-und-wo-besonders-gut-vorankommen](https://www.spiegel.de/auto/stau-in-berlin-hamburg-muenchen-wo-autofahrer-schlecht-und-wo-besonders-gut-vorankommen-a-3d96c947-600c-40b6-b065-3046e7e6cffb#ref=rss)
-### berlin
+* [https://www.spiegel.de/panorama/taiwan-drei-menschen-nach-missgluecktem-wahlkampfgeschenk-in-krankenhaus-eingeliefert](https://www.spiegel.de/panorama/taiwan-drei-menschen-nach-missgluecktem-wahlkampfgeschenk-in-krankenhaus-eingeliefert-a-599e3c81-4f7f-4d34-890f-ec1405307fd1#ref=rss)
+### bund
 
-* [https://www.spiegel.de/panorama/berlin-deutlicher-anstieg-von-gewalttaten-in-2023](https://www.spiegel.de/panorama/berlin-deutlicher-anstieg-von-gewalttaten-in-2023-a-cb202def-5d5d-4902-b79c-309d4ce12c8d#ref=rss)
-* [https://www.spiegel.de/auto/stau-in-berlin-hamburg-muenchen-wo-autofahrer-schlecht-und-wo-besonders-gut-vorankommen](https://www.spiegel.de/auto/stau-in-berlin-hamburg-muenchen-wo-autofahrer-schlecht-und-wo-besonders-gut-vorankommen-a-3d96c947-600c-40b6-b065-3046e7e6cffb#ref=rss)
-### gewalttaten
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-sanierung-bund-will-mit-verkauf-von-beteiligungen-vier-milliarden-euro-einnehmen](https://www.spiegel.de/wirtschaft/deutsche-bahn-sanierung-bund-will-mit-verkauf-von-beteiligungen-vier-milliarden-euro-einnehmen-a-b14beb8f-bdc2-436c-8f11-b96df89d6914#ref=rss)
+### milliarden
 
-* [https://www.spiegel.de/panorama/berlin-deutlicher-anstieg-von-gewalttaten-in-2023](https://www.spiegel.de/panorama/berlin-deutlicher-anstieg-von-gewalttaten-in-2023-a-cb202def-5d5d-4902-b79c-309d4ce12c8d#ref=rss)
-### ich
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-sanierung-bund-will-mit-verkauf-von-beteiligungen-vier-milliarden-euro-einnehmen](https://www.spiegel.de/wirtschaft/deutsche-bahn-sanierung-bund-will-mit-verkauf-von-beteiligungen-vier-milliarden-euro-einnehmen-a-b14beb8f-bdc2-436c-8f11-b96df89d6914#ref=rss)
+### euro
 
-* [https://www.spiegel.de/psychologie/positives-denken-ich-habe-mich-schon-immer-ueber-jeden-schmetterling-gefreut](https://www.spiegel.de/psychologie/positives-denken-ich-habe-mich-schon-immer-ueber-jeden-schmetterling-gefreut-a-5907c118-ee77-4c3f-8ceb-faaf9891945c#ref=rss)
-* [https://www.spiegel.de/start/vorsaetze-fuer-den-job-diese-vorhaben-schaffen-es-auch-ueber-den-januar-hinaus](https://www.spiegel.de/start/vorsaetze-fuer-den-job-diese-vorhaben-schaffen-es-auch-ueber-den-januar-hinaus-a-dbe4837c-f2b1-4048-9632-c6941d33a4cf#ref=rss)
-### fünf
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-sanierung-bund-will-mit-verkauf-von-beteiligungen-vier-milliarden-euro-einnehmen](https://www.spiegel.de/wirtschaft/deutsche-bahn-sanierung-bund-will-mit-verkauf-von-beteiligungen-vier-milliarden-euro-einnehmen-a-b14beb8f-bdc2-436c-8f11-b96df89d6914#ref=rss)
+### einnehmen
 
-* [https://www.spiegel.de/psychologie/positives-denken-ich-habe-mich-schon-immer-ueber-jeden-schmetterling-gefreut](https://www.spiegel.de/psychologie/positives-denken-ich-habe-mich-schon-immer-ueber-jeden-schmetterling-gefreut-a-5907c118-ee77-4c3f-8ceb-faaf9891945c#ref=rss)
-* [https://www.spiegel.de/start/vorsaetze-fuer-den-job-diese-vorhaben-schaffen-es-auch-ueber-den-januar-hinaus](https://www.spiegel.de/start/vorsaetze-fuer-den-job-diese-vorhaben-schaffen-es-auch-ueber-den-januar-hinaus-a-dbe4837c-f2b1-4048-9632-c6941d33a4cf#ref=rss)
-### job
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-sanierung-bund-will-mit-verkauf-von-beteiligungen-vier-milliarden-euro-einnehmen](https://www.spiegel.de/wirtschaft/deutsche-bahn-sanierung-bund-will-mit-verkauf-von-beteiligungen-vier-milliarden-euro-einnehmen-a-b14beb8f-bdc2-436c-8f11-b96df89d6914#ref=rss)
+### anderen
 
-* [https://www.spiegel.de/sport/handball/deutschland-bei-der-handball-em-es-geht-auch-um-den-job-des-bundestrainers](https://www.spiegel.de/sport/handball/deutschland-bei-der-handball-em-es-geht-auch-um-den-job-des-bundestrainers-a-94bfa112-27da-4827-965e-94c419ab3871#ref=rss)
-* [https://www.spiegel.de/start/vorsaetze-fuer-den-job-diese-vorhaben-schaffen-es-auch-ueber-den-januar-hinaus](https://www.spiegel.de/start/vorsaetze-fuer-den-job-diese-vorhaben-schaffen-es-auch-ueber-den-januar-hinaus-a-dbe4837c-f2b1-4048-9632-c6941d33a4cf#ref=rss)
-### vorhaben
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-sanierung-bund-will-mit-verkauf-von-beteiligungen-vier-milliarden-euro-einnehmen](https://www.spiegel.de/wirtschaft/deutsche-bahn-sanierung-bund-will-mit-verkauf-von-beteiligungen-vier-milliarden-euro-einnehmen-a-b14beb8f-bdc2-436c-8f11-b96df89d6914#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/boeing-737-max-9-ist-fliegen-mit-den-jets-sicher-nachdem-das-rumpfteil-einer-maschine-im-flug-rausgebrochen-ist](https://www.spiegel.de/wissenschaft/technik/boeing-737-max-9-ist-fliegen-mit-den-jets-sicher-nachdem-das-rumpfteil-einer-maschine-im-flug-rausgebrochen-ist-a-bb0f5cab-880f-40b7-a46b-9e307270940e#ref=rss)
+### libanon
 
-* [https://www.spiegel.de/start/vorsaetze-fuer-den-job-diese-vorhaben-schaffen-es-auch-ueber-den-januar-hinaus](https://www.spiegel.de/start/vorsaetze-fuer-den-job-diese-vorhaben-schaffen-es-auch-ueber-den-januar-hinaus-a-dbe4837c-f2b1-4048-9632-c6941d33a4cf#ref=rss)
-### wo
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-sichert-libanon-erhoehte-unterstuetzung-fuer-die-armee-zu](https://www.spiegel.de/politik/deutschland/annalena-baerbock-sichert-libanon-erhoehte-unterstuetzung-fuer-die-armee-zu-a-267c3d6f-55d1-48ad-bf35-97cb25d7db41#ref=rss)
+### unterstützung
 
-* [https://www.spiegel.de/auto/stau-in-berlin-hamburg-muenchen-wo-autofahrer-schlecht-und-wo-besonders-gut-vorankommen](https://www.spiegel.de/auto/stau-in-berlin-hamburg-muenchen-wo-autofahrer-schlecht-und-wo-besonders-gut-vorankommen-a-3d96c947-600c-40b6-b065-3046e7e6cffb#ref=rss)
-### autofahrer
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-sichert-libanon-erhoehte-unterstuetzung-fuer-die-armee-zu](https://www.spiegel.de/politik/deutschland/annalena-baerbock-sichert-libanon-erhoehte-unterstuetzung-fuer-die-armee-zu-a-267c3d6f-55d1-48ad-bf35-97cb25d7db41#ref=rss)
+### halberstadt
 
-* [https://www.spiegel.de/auto/stau-in-berlin-hamburg-muenchen-wo-autofahrer-schlecht-und-wo-besonders-gut-vorankommen](https://www.spiegel.de/auto/stau-in-berlin-hamburg-muenchen-wo-autofahrer-schlecht-und-wo-besonders-gut-vorankommen-a-3d96c947-600c-40b6-b065-3046e7e6cffb#ref=rss)
+* [https://www.spiegel.de/panorama/halberstadt-in-sachsen-anhalt-88-jaehrige-stirbt-nach-hundebissen-und-unterkuehlung](https://www.spiegel.de/panorama/halberstadt-in-sachsen-anhalt-88-jaehrige-stirbt-nach-hundebissen-und-unterkuehlung-a-452ad1f5-948b-48c5-9b8b-2f7a5a82bcb7#ref=rss)
+### handballem
+
+* [https://www.spiegel.de/sport/handball/handball-em-2024-das-sind-die-zehn-besten-teams-der-europameisterschaft](https://www.spiegel.de/sport/handball/handball-em-2024-das-sind-die-zehn-besten-teams-der-europameisterschaft-a-88ef065e-764b-4aff-ad75-25c16aede6ac#ref=rss)
+### gypsy
+
+* [https://www.spiegel.de/ausland/gypsy-rose-blanchard-warum-eine-verurteilte-moerderin-so-viele-fans-hat](https://www.spiegel.de/ausland/gypsy-rose-blanchard-warum-eine-verurteilte-moerderin-so-viele-fans-hat-a-152be023-aeec-4484-b2db-11f0a7364da2#ref=rss)
+### rose
+
+* [https://www.spiegel.de/ausland/gypsy-rose-blanchard-warum-eine-verurteilte-moerderin-so-viele-fans-hat](https://www.spiegel.de/ausland/gypsy-rose-blanchard-warum-eine-verurteilte-moerderin-so-viele-fans-hat-a-152be023-aeec-4484-b2db-11f0a7364da2#ref=rss)
+### blanchard
+
+* [https://www.spiegel.de/ausland/gypsy-rose-blanchard-warum-eine-verurteilte-moerderin-so-viele-fans-hat](https://www.spiegel.de/ausland/gypsy-rose-blanchard-warum-eine-verurteilte-moerderin-so-viele-fans-hat-a-152be023-aeec-4484-b2db-11f0a7364da2#ref=rss)
 
