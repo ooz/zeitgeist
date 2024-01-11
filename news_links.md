@@ -6,312 +6,331 @@ tags: __no_header__
 
 ### mehr
 
-* [https://www.spiegel.de/panorama/bildung/grossbritannien-hochwasser-verstopfte-klos-drohen-eton-laesst-schueler-zu-hause](https://www.spiegel.de/panorama/bildung/grossbritannien-hochwasser-verstopfte-klos-drohen-eton-laesst-schueler-zu-hause-a-916036e1-58b5-4dee-822a-39e688f8a7f0#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-was-waere-fuer-benjamin-netanyahu-ein-sieg](https://www.spiegel.de/ausland/israel-gaza-krieg-was-waere-fuer-benjamin-netanyahu-ein-sieg-a-0b713b02-44b8-44e4-9185-735a79bf589d#ref=rss)
-* [https://www.spiegel.de/familie/schlittschuhfahren-so-erinnern-wir-uns-an-die-gleitzeit-unserer-kindheit-und-jugend](https://www.spiegel.de/familie/schlittschuhfahren-so-erinnern-wir-uns-an-die-gleitzeit-unserer-kindheit-und-jugend-a-31928861-bd5b-4932-896b-11e3a4d533d2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/markt-fuer-bueroimmobilien-kommt-praktisch-zum-stillstand-rueckgang-um-bis-zu-90-prozent](https://www.spiegel.de/wirtschaft/markt-fuer-bueroimmobilien-kommt-praktisch-zum-stillstand-rueckgang-um-bis-zu-90-prozent-a-b56062d2-7435-47a7-8fb8-56a3beff4d71#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-was-waere-fuer-benjamin-netanyahu-ein-sieg](https://www.spiegel.de/ausland/israel-gaza-krieg-was-waere-fuer-benjamin-netanyahu-ein-sieg-a-0b713b02-44b8-44e4-9185-735a79bf589d#ref=rss)
-* [https://www.spiegel.de/ausland/internationaler-gerichtshof-den-haag-israel-weist-anklage-wegen-voelkermords-zurueck](https://www.spiegel.de/ausland/internationaler-gerichtshof-den-haag-israel-weist-anklage-wegen-voelkermords-zurueck-a-b2754f5c-83a4-45d9-9eb6-e204808fe904#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-beschwoert-zusammenhalt-gegen-fanatiker-mit-assimilationsfantasien](https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-beschwoert-zusammenhalt-gegen-fanatiker-mit-assimilationsfantasien-a-eca3f852-b7b9-4dcc-8fcb-7736e1ecbeb3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/traktor-protest-spd-generalsekretaer-kevin-kuehnert-sieht-nachholbedarf-im-umgang-mit-bauern](https://www.spiegel.de/politik/deutschland/traktor-protest-spd-generalsekretaer-kevin-kuehnert-sieht-nachholbedarf-im-umgang-mit-bauern-a-24b995ff-4911-4396-9687-92e6e8fb7410#ref=rss)
-### saudiarabien
-
-* [https://www.spiegel.de/sport/fussball/spanischer-supercup-in-saudi-arabien-pfiffe-gegen-franz-beckenbauer-und-toni-kroos](https://www.spiegel.de/sport/fussball/spanischer-supercup-in-saudi-arabien-pfiffe-gegen-franz-beckenbauer-und-toni-kroos-a-f8d2d475-dde5-4936-a0b7-e76e4f4ea0b2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/waffenlieferungen-an-saudi-arabien-das-ende-der-wertegeleiteten-aussenpolitik](https://www.spiegel.de/politik/deutschland/waffenlieferungen-an-saudi-arabien-das-ende-der-wertegeleiteten-aussenpolitik-a-eee1893f-eb91-44c9-99f6-c3d97c96a9ea#ref=rss)
-### land
-
-* [https://www.spiegel.de/ausland/taiwan-vor-den-wahlen-warum-das-essen-immer-auch-politisch-ist](https://www.spiegel.de/ausland/taiwan-vor-den-wahlen-warum-das-essen-immer-auch-politisch-ist-a-6104e487-9651-4a7c-a4fe-b30c94b88239#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-beschwoert-zusammenhalt-gegen-fanatiker-mit-assimilationsfantasien](https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-beschwoert-zusammenhalt-gegen-fanatiker-mit-assimilationsfantasien-a-eca3f852-b7b9-4dcc-8fcb-7736e1ecbeb3#ref=rss)
-* [https://www.spiegel.de/ausland/internationaler-gerichtshof-den-haag-israel-weist-anklage-wegen-voelkermords-zurueck](https://www.spiegel.de/ausland/internationaler-gerichtshof-den-haag-israel-weist-anklage-wegen-voelkermords-zurueck-a-b2754f5c-83a4-45d9-9eb6-e204808fe904#ref=rss)
-### besonders
-
-* [https://www.spiegel.de/ausland/taiwan-vor-den-wahlen-warum-das-essen-immer-auch-politisch-ist](https://www.spiegel.de/ausland/taiwan-vor-den-wahlen-warum-das-essen-immer-auch-politisch-ist-a-6104e487-9651-4a7c-a4fe-b30c94b88239#ref=rss)
-* [https://www.spiegel.de/sport/handball/handball-em-auftakt-fuer-deutschland-7-6-millionen-sehen-erstes-spiel-im-zdf](https://www.spiegel.de/sport/handball/handball-em-auftakt-fuer-deutschland-7-6-millionen-sehen-erstes-spiel-im-zdf-a-e3c6ffcc-16a3-433c-b065-51f4435dfa96#ref=rss)
-* [https://www.spiegel.de/wirtschaft/markt-fuer-bueroimmobilien-kommt-praktisch-zum-stillstand-rueckgang-um-bis-zu-90-prozent](https://www.spiegel.de/wirtschaft/markt-fuer-bueroimmobilien-kommt-praktisch-zum-stillstand-rueckgang-um-bis-zu-90-prozent-a-b56062d2-7435-47a7-8fb8-56a3beff4d71#ref=rss)
-### bauernproteste
-
-* [https://www.spiegel.de/politik/bauernproteste-armin-nassehi-es-hat-sich-gezeigt-dass-man-die-ampel-unter-druck-setzen-kann](https://www.spiegel.de/politik/bauernproteste-armin-nassehi-es-hat-sich-gezeigt-dass-man-die-ampel-unter-druck-setzen-kann-a-3a913d07-5684-40f4-8a8f-9b54b71c7665#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bauernproteste-wie-die-fdp-einst-landwirte-umwarb-und-nun-schlingert](https://www.spiegel.de/politik/deutschland/bauernproteste-wie-die-fdp-einst-landwirte-umwarb-und-nun-schlingert-a-eabfcb11-ed5e-4636-8f56-8b42854c8976#ref=rss)
-* [https://www.spiegel.de/auto/bauernproteste-traktoren-mit-elektroantrieb-wann-koennen-sie-diesel-ersetzen](https://www.spiegel.de/auto/bauernproteste-traktoren-mit-elektroantrieb-wann-koennen-sie-diesel-ersetzen-a-e2ddf47e-c71c-4eeb-9824-cc3e5e906f14#ref=rss)
-### ampel
-
-* [https://www.spiegel.de/politik/bauernproteste-armin-nassehi-es-hat-sich-gezeigt-dass-man-die-ampel-unter-druck-setzen-kann](https://www.spiegel.de/politik/bauernproteste-armin-nassehi-es-hat-sich-gezeigt-dass-man-die-ampel-unter-druck-setzen-kann-a-3a913d07-5684-40f4-8a8f-9b54b71c7665#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bauernproteste-wie-die-fdp-einst-landwirte-umwarb-und-nun-schlingert](https://www.spiegel.de/politik/deutschland/bauernproteste-wie-die-fdp-einst-landwirte-umwarb-und-nun-schlingert-a-eabfcb11-ed5e-4636-8f56-8b42854c8976#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/traktor-protest-spd-generalsekretaer-kevin-kuehnert-sieht-nachholbedarf-im-umgang-mit-bauern](https://www.spiegel.de/politik/deutschland/traktor-protest-spd-generalsekretaer-kevin-kuehnert-sieht-nachholbedarf-im-umgang-mit-bauern-a-24b995ff-4911-4396-9687-92e6e8fb7410#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/panorama/bildung/grossbritannien-hochwasser-verstopfte-klos-drohen-eton-laesst-schueler-zu-hause](https://www.spiegel.de/panorama/bildung/grossbritannien-hochwasser-verstopfte-klos-drohen-eton-laesst-schueler-zu-hause-a-916036e1-58b5-4dee-822a-39e688f8a7f0#ref=rss)
-* [https://www.spiegel.de/ausland/internationaler-gerichtshof-den-haag-israel-weist-anklage-wegen-voelkermords-zurueck](https://www.spiegel.de/ausland/internationaler-gerichtshof-den-haag-israel-weist-anklage-wegen-voelkermords-zurueck-a-b2754f5c-83a4-45d9-9eb6-e204808fe904#ref=rss)
-* [https://www.spiegel.de/familie/schlittschuhfahren-so-erinnern-wir-uns-an-die-gleitzeit-unserer-kindheit-und-jugend](https://www.spiegel.de/familie/schlittschuhfahren-so-erinnern-wir-uns-an-die-gleitzeit-unserer-kindheit-und-jugend-a-31928861-bd5b-4932-896b-11e3a4d533d2#ref=rss)
-### erst
-
-* [https://www.spiegel.de/panorama/bildung/grossbritannien-hochwasser-verstopfte-klos-drohen-eton-laesst-schueler-zu-hause](https://www.spiegel.de/panorama/bildung/grossbritannien-hochwasser-verstopfte-klos-drohen-eton-laesst-schueler-zu-hause-a-916036e1-58b5-4dee-822a-39e688f8a7f0#ref=rss)
-* [https://www.spiegel.de/panorama/bad-homburg-polizei-faengt-entlaufenes-zebra-ein](https://www.spiegel.de/panorama/bad-homburg-polizei-faengt-entlaufenes-zebra-ein-a-a43cb056-ac26-4ef4-9aab-aed4b342feb8#ref=rss)
-* [https://www.spiegel.de/ausland/lloyd-austin-verteidigungsminister-voruebergehend-verschwunden](https://www.spiegel.de/ausland/lloyd-austin-verteidigungsminister-voruebergehend-verschwunden-a-df54dca8-d38a-4655-b001-f17dc84dea1e#ref=rss)
-### openai
-
-* [https://www.spiegel.de/netzwelt/apps/gpt-store-openai-veroeffentlicht-app-store-fuer-chatgpt-varianten](https://www.spiegel.de/netzwelt/apps/gpt-store-openai-veroeffentlicht-app-store-fuer-chatgpt-varianten-a-33d292b0-a77a-4038-b895-62341aca2fb2#ref=rss)
-### hamburg
-
-* [https://www.spiegel.de/panorama/uke-in-hamburg-am-bauch-verbundene-zwillingsbabys-erfolgreich-getrennt](https://www.spiegel.de/panorama/uke-in-hamburg-am-bauch-verbundene-zwillingsbabys-erfolgreich-getrennt-a-d85deca4-c54f-4cd8-bc70-30170246d6f8#ref=rss)
-### bauch
-
-* [https://www.spiegel.de/panorama/uke-in-hamburg-am-bauch-verbundene-zwillingsbabys-erfolgreich-getrennt](https://www.spiegel.de/panorama/uke-in-hamburg-am-bauch-verbundene-zwillingsbabys-erfolgreich-getrennt-a-d85deca4-c54f-4cd8-bc70-30170246d6f8#ref=rss)
-### erfolgreich
-
-* [https://www.spiegel.de/panorama/uke-in-hamburg-am-bauch-verbundene-zwillingsbabys-erfolgreich-getrennt](https://www.spiegel.de/panorama/uke-in-hamburg-am-bauch-verbundene-zwillingsbabys-erfolgreich-getrennt-a-d85deca4-c54f-4cd8-bc70-30170246d6f8#ref=rss)
-* [https://www.spiegel.de/kultur/kino/selena-gomez-soll-saengerin-linda-ronstadt-in-biopic-spielen](https://www.spiegel.de/kultur/kino/selena-gomez-soll-saengerin-linda-ronstadt-in-biopic-spielen-a-d1392e74-7f4d-4df2-a808-09e0929257ef#ref=rss)
-### getrennt
-
-* [https://www.spiegel.de/panorama/uke-in-hamburg-am-bauch-verbundene-zwillingsbabys-erfolgreich-getrennt](https://www.spiegel.de/panorama/uke-in-hamburg-am-bauch-verbundene-zwillingsbabys-erfolgreich-getrennt-a-d85deca4-c54f-4cd8-bc70-30170246d6f8#ref=rss)
-### miteinander
-
-* [https://www.spiegel.de/panorama/uke-in-hamburg-am-bauch-verbundene-zwillingsbabys-erfolgreich-getrennt](https://www.spiegel.de/panorama/uke-in-hamburg-am-bauch-verbundene-zwillingsbabys-erfolgreich-getrennt-a-d85deca4-c54f-4cd8-bc70-30170246d6f8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/traktor-protest-spd-generalsekretaer-kevin-kuehnert-sieht-nachholbedarf-im-umgang-mit-bauern](https://www.spiegel.de/politik/deutschland/traktor-protest-spd-generalsekretaer-kevin-kuehnert-sieht-nachholbedarf-im-umgang-mit-bauern-a-24b995ff-4911-4396-9687-92e6e8fb7410#ref=rss)
-### waren
-
-* [https://www.spiegel.de/panorama/uke-in-hamburg-am-bauch-verbundene-zwillingsbabys-erfolgreich-getrennt](https://www.spiegel.de/panorama/uke-in-hamburg-am-bauch-verbundene-zwillingsbabys-erfolgreich-getrennt-a-d85deca4-c54f-4cd8-bc70-30170246d6f8#ref=rss)
-* [https://www.spiegel.de/panorama/palisades-tahoe-in-kalifornien-lawine-in-skigebiet-ein-toter-mehrere-verletzte](https://www.spiegel.de/panorama/palisades-tahoe-in-kalifornien-lawine-in-skigebiet-ein-toter-mehrere-verletzte-a-944bb524-5026-4539-9965-c216614371d4#ref=rss)
-### fußballnationalmannschaft
-
-* [https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-leroy-sane-fuer-taetlichkeit-drei-laenderspiele-gesperrt](https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-leroy-sane-fuer-taetlichkeit-drei-laenderspiele-gesperrt-a-604d3c2e-be04-450c-9d61-5c9c45b98178#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-in-brasilien-dorival-junior-ist-neuer-trainer-der-taumelnden-selecao](https://www.spiegel.de/sport/fussball/fussball-in-brasilien-dorival-junior-ist-neuer-trainer-der-taumelnden-selecao-a-491fe70f-9108-4a5f-b34d-b73d3517557e#ref=rss)
-### leroy
-
-* [https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-leroy-sane-fuer-taetlichkeit-drei-laenderspiele-gesperrt](https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-leroy-sane-fuer-taetlichkeit-drei-laenderspiele-gesperrt-a-604d3c2e-be04-450c-9d61-5c9c45b98178#ref=rss)
-### sané
-
-* [https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-leroy-sane-fuer-taetlichkeit-drei-laenderspiele-gesperrt](https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-leroy-sane-fuer-taetlichkeit-drei-laenderspiele-gesperrt-a-604d3c2e-be04-450c-9d61-5c9c45b98178#ref=rss)
-### drei
-
-* [https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-leroy-sane-fuer-taetlichkeit-drei-laenderspiele-gesperrt](https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-leroy-sane-fuer-taetlichkeit-drei-laenderspiele-gesperrt-a-604d3c2e-be04-450c-9d61-5c9c45b98178#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/gpt-store-openai-veroeffentlicht-app-store-fuer-chatgpt-varianten](https://www.spiegel.de/netzwelt/apps/gpt-store-openai-veroeffentlicht-app-store-fuer-chatgpt-varianten-a-33d292b0-a77a-4038-b895-62341aca2fb2#ref=rss)
-### kurz
-
-* [https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-leroy-sane-fuer-taetlichkeit-drei-laenderspiele-gesperrt](https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-leroy-sane-fuer-taetlichkeit-drei-laenderspiele-gesperrt-a-604d3c2e-be04-450c-9d61-5c9c45b98178#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-alaska-airlines-entschaedigt-passagiere-nach-notlandung](https://www.spiegel.de/wirtschaft/usa-alaska-airlines-entschaedigt-passagiere-nach-notlandung-a-07d7ccf6-b1f5-4c9a-9aa3-9c55367adf39#ref=rss)
-### heimem
-
-* [https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-leroy-sane-fuer-taetlichkeit-drei-laenderspiele-gesperrt](https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-leroy-sane-fuer-taetlichkeit-drei-laenderspiele-gesperrt-a-604d3c2e-be04-450c-9d61-5c9c45b98178#ref=rss)
-* [https://www.spiegel.de/sport/handball/handball-em-2024-auftaktsieg-fuer-deutschland-schon-beim-warmmachen-gaensehaut](https://www.spiegel.de/sport/handball/handball-em-2024-auftaktsieg-fuer-deutschland-schon-beim-warmmachen-gaensehaut-a-803a12c4-1b27-4305-a89a-1f209c0097d1#ref=rss)
-### essen
-
-* [https://www.spiegel.de/ausland/taiwan-vor-den-wahlen-warum-das-essen-immer-auch-politisch-ist](https://www.spiegel.de/ausland/taiwan-vor-den-wahlen-warum-das-essen-immer-auch-politisch-ist-a-6104e487-9651-4a7c-a4fe-b30c94b88239#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/sport/handball/handball-em-auftakt-fuer-deutschland-7-6-millionen-sehen-erstes-spiel-im-zdf](https://www.spiegel.de/sport/handball/handball-em-auftakt-fuer-deutschland-7-6-millionen-sehen-erstes-spiel-im-zdf-a-e3c6ffcc-16a3-433c-b065-51f4435dfa96#ref=rss)
-* [https://www.spiegel.de/sport/handball/handball-em-2024-auftaktsieg-fuer-deutschland-schon-beim-warmmachen-gaensehaut](https://www.spiegel.de/sport/handball/handball-em-2024-auftaktsieg-fuer-deutschland-schon-beim-warmmachen-gaensehaut-a-803a12c4-1b27-4305-a89a-1f209c0097d1#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/sport/handball/handball-em-auftakt-fuer-deutschland-7-6-millionen-sehen-erstes-spiel-im-zdf](https://www.spiegel.de/sport/handball/handball-em-auftakt-fuer-deutschland-7-6-millionen-sehen-erstes-spiel-im-zdf-a-e3c6ffcc-16a3-433c-b065-51f4435dfa96#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/gpt-store-openai-veroeffentlicht-app-store-fuer-chatgpt-varianten](https://www.spiegel.de/netzwelt/apps/gpt-store-openai-veroeffentlicht-app-store-fuer-chatgpt-varianten-a-33d292b0-a77a-4038-b895-62341aca2fb2#ref=rss)
-### zdf
-
-* [https://www.spiegel.de/sport/handball/handball-em-auftakt-fuer-deutschland-7-6-millionen-sehen-erstes-spiel-im-zdf](https://www.spiegel.de/sport/handball/handball-em-auftakt-fuer-deutschland-7-6-millionen-sehen-erstes-spiel-im-zdf-a-e3c6ffcc-16a3-433c-b065-51f4435dfa96#ref=rss)
+* [https://www.spiegel.de/panorama/brandenburg-mehrere-kuehe-im-wasser-erfroren](https://www.spiegel.de/panorama/brandenburg-mehrere-kuehe-im-wasser-erfroren-a-16547116-cfe8-41e1-ba71-a00e57946bfe#ref=rss)
+* [https://www.spiegel.de/gesundheit/homoeopathie-was-sie-ueber-karl-lauterbachs-plaene-wissen-muessen](https://www.spiegel.de/gesundheit/homoeopathie-was-sie-ueber-karl-lauterbachs-plaene-wissen-muessen-a-272e8e1d-db31-4dcd-9e4c-484a8541c6e6#ref=rss)
+* [https://www.spiegel.de/geschichte/neues-von-gestern-der-geschichte-newsletter-gegen-staus-und-blockaden](https://www.spiegel.de/geschichte/neues-von-gestern-der-geschichte-newsletter-gegen-staus-und-blockaden-a-30575626-fb82-44b2-be94-ab3bb47b8562#ref=rss)
+* [https://www.spiegel.de/wirtschaft/buergergeld-debatte-cdu-will-arbeitslosengeld-anheben-fuer-langjaehrig-versicherte](https://www.spiegel.de/wirtschaft/buergergeld-debatte-cdu-will-arbeitslosengeld-anheben-fuer-langjaehrig-versicherte-a-f3c18fb3-6e7b-4789-aa91-7b97d716b701#ref=rss)
+* [https://www.spiegel.de/ausland/taiwan-was-koennte-der-inselstaat-einer-invasion-durch-china-entgegensetzen](https://www.spiegel.de/ausland/taiwan-was-koennte-der-inselstaat-einer-invasion-durch-china-entgegensetzen-a-30ae35db-4cd0-4d98-8197-8fcbe9b311c0#ref=rss)
 ### deutschen
 
-* [https://www.spiegel.de/sport/handball/handball-em-auftakt-fuer-deutschland-7-6-millionen-sehen-erstes-spiel-im-zdf](https://www.spiegel.de/sport/handball/handball-em-auftakt-fuer-deutschland-7-6-millionen-sehen-erstes-spiel-im-zdf-a-e3c6ffcc-16a3-433c-b065-51f4435dfa96#ref=rss)
-* [https://www.spiegel.de/sport/handball/handball-em-2024-auftaktsieg-fuer-deutschland-schon-beim-warmmachen-gaensehaut](https://www.spiegel.de/sport/handball/handball-em-2024-auftaktsieg-fuer-deutschland-schon-beim-warmmachen-gaensehaut-a-803a12c4-1b27-4305-a89a-1f209c0097d1#ref=rss)
-### armin
+* [https://www.spiegel.de/panorama/justiz/berlin-zehn-beschuldigte-sollen-vaterschaftsanerkennungen-und-scheinehen-vermittelt-haben](https://www.spiegel.de/panorama/justiz/berlin-zehn-beschuldigte-sollen-vaterschaftsanerkennungen-und-scheinehen-vermittelt-haben-a-2134e252-0ad6-4640-a24a-ee4ce9c7b167#ref=rss)
+* [https://www.spiegel.de/wirtschaft/subventionen-in-der-landwirtschaft-ackern-auf-kosten-der-steuerzahler](https://www.spiegel.de/wirtschaft/subventionen-in-der-landwirtschaft-ackern-auf-kosten-der-steuerzahler-a-c86dae12-783b-4ba9-89d3-deea4b763fc9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/franz-beckenbauer-als-werbefigur-so-gross-wie-er-ist-nur-noch-juergen-klopp](https://www.spiegel.de/sport/fussball/franz-beckenbauer-als-werbefigur-so-gross-wie-er-ist-nur-noch-juergen-klopp-a-553d2e85-21db-47a8-861f-545f5630c8dc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bauernproteste-mehrheit-der-deutschen-hat-verstaendnis-fuer-demonstrationen](https://www.spiegel.de/politik/deutschland/bauernproteste-mehrheit-der-deutschen-hat-verstaendnis-fuer-demonstrationen-a-e3f22be6-fb9b-45ac-94ce-3a2750542310#ref=rss)
+### tödlich
 
-* [https://www.spiegel.de/politik/bauernproteste-armin-nassehi-es-hat-sich-gezeigt-dass-man-die-ampel-unter-druck-setzen-kann](https://www.spiegel.de/politik/bauernproteste-armin-nassehi-es-hat-sich-gezeigt-dass-man-die-ampel-unter-druck-setzen-kann-a-3a913d07-5684-40f4-8a8f-9b54b71c7665#ref=rss)
-### nassehi
-
-* [https://www.spiegel.de/politik/bauernproteste-armin-nassehi-es-hat-sich-gezeigt-dass-man-die-ampel-unter-druck-setzen-kann](https://www.spiegel.de/politik/bauernproteste-armin-nassehi-es-hat-sich-gezeigt-dass-man-die-ampel-unter-druck-setzen-kann-a-3a913d07-5684-40f4-8a8f-9b54b71c7665#ref=rss)
-### alles
-
-* [https://www.spiegel.de/politik/bauernproteste-armin-nassehi-es-hat-sich-gezeigt-dass-man-die-ampel-unter-druck-setzen-kann](https://www.spiegel.de/politik/bauernproteste-armin-nassehi-es-hat-sich-gezeigt-dass-man-die-ampel-unter-druck-setzen-kann-a-3a913d07-5684-40f4-8a8f-9b54b71c7665#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bauernproteste-wie-die-fdp-einst-landwirte-umwarb-und-nun-schlingert](https://www.spiegel.de/politik/deutschland/bauernproteste-wie-die-fdp-einst-landwirte-umwarb-und-nun-schlingert-a-eabfcb11-ed5e-4636-8f56-8b42854c8976#ref=rss)
-### alaska
-
-* [https://www.spiegel.de/wirtschaft/usa-alaska-airlines-entschaedigt-passagiere-nach-notlandung](https://www.spiegel.de/wirtschaft/usa-alaska-airlines-entschaedigt-passagiere-nach-notlandung-a-07d7ccf6-b1f5-4c9a-9aa3-9c55367adf39#ref=rss)
-### airlines
-
-* [https://www.spiegel.de/wirtschaft/usa-alaska-airlines-entschaedigt-passagiere-nach-notlandung](https://www.spiegel.de/wirtschaft/usa-alaska-airlines-entschaedigt-passagiere-nach-notlandung-a-07d7ccf6-b1f5-4c9a-9aa3-9c55367adf39#ref=rss)
-### passagiere
-
-* [https://www.spiegel.de/wirtschaft/usa-alaska-airlines-entschaedigt-passagiere-nach-notlandung](https://www.spiegel.de/wirtschaft/usa-alaska-airlines-entschaedigt-passagiere-nach-notlandung-a-07d7ccf6-b1f5-4c9a-9aa3-9c55367adf39#ref=rss)
-* [https://www.spiegel.de/ausland/somalia-uno-hubschrauber-landet-in-islamistengebiet-offenbar-geiselnahmen](https://www.spiegel.de/ausland/somalia-uno-hubschrauber-landet-in-islamistengebiet-offenbar-geiselnahmen-a-a1e488a0-6970-4482-9d86-fdb784c953a8#ref=rss)
-### meisten
-
-* [https://www.spiegel.de/wirtschaft/usa-alaska-airlines-entschaedigt-passagiere-nach-notlandung](https://www.spiegel.de/wirtschaft/usa-alaska-airlines-entschaedigt-passagiere-nach-notlandung-a-07d7ccf6-b1f5-4c9a-9aa3-9c55367adf39#ref=rss)
-* [https://www.spiegel.de/partnerschaft/langzeitbeziehungen-warum-manche-paare-fuer-immer-zusammenbleiben-und-andere-nicht](https://www.spiegel.de/partnerschaft/langzeitbeziehungen-warum-manche-paare-fuer-immer-zusammenbleiben-und-andere-nicht-a-53d3a0b2-088c-4bc6-9927-b2da2dc7f8cc#ref=rss)
-### bauern
-
-* [https://www.spiegel.de/politik/deutschland/bauernproteste-wie-die-fdp-einst-landwirte-umwarb-und-nun-schlingert](https://www.spiegel.de/politik/deutschland/bauernproteste-wie-die-fdp-einst-landwirte-umwarb-und-nun-schlingert-a-eabfcb11-ed5e-4636-8f56-8b42854c8976#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/traktor-protest-spd-generalsekretaer-kevin-kuehnert-sieht-nachholbedarf-im-umgang-mit-bauern](https://www.spiegel.de/politik/deutschland/traktor-protest-spd-generalsekretaer-kevin-kuehnert-sieht-nachholbedarf-im-umgang-mit-bauern-a-24b995ff-4911-4396-9687-92e6e8fb7410#ref=rss)
-### eton
-
-* [https://www.spiegel.de/panorama/bildung/grossbritannien-hochwasser-verstopfte-klos-drohen-eton-laesst-schueler-zu-hause](https://www.spiegel.de/panorama/bildung/grossbritannien-hochwasser-verstopfte-klos-drohen-eton-laesst-schueler-zu-hause-a-916036e1-58b5-4dee-822a-39e688f8a7f0#ref=rss)
-### sollte
-
-* [https://www.spiegel.de/panorama/bildung/grossbritannien-hochwasser-verstopfte-klos-drohen-eton-laesst-schueler-zu-hause](https://www.spiegel.de/panorama/bildung/grossbritannien-hochwasser-verstopfte-klos-drohen-eton-laesst-schueler-zu-hause-a-916036e1-58b5-4dee-822a-39e688f8a7f0#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-in-brasilien-dorival-junior-ist-neuer-trainer-der-taumelnden-selecao](https://www.spiegel.de/sport/fussball/fussball-in-brasilien-dorival-junior-ist-neuer-trainer-der-taumelnden-selecao-a-491fe70f-9108-4a5f-b34d-b73d3517557e#ref=rss)
-### nichts
-
-* [https://www.spiegel.de/panorama/bildung/grossbritannien-hochwasser-verstopfte-klos-drohen-eton-laesst-schueler-zu-hause](https://www.spiegel.de/panorama/bildung/grossbritannien-hochwasser-verstopfte-klos-drohen-eton-laesst-schueler-zu-hause-a-916036e1-58b5-4dee-822a-39e688f8a7f0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/markt-fuer-bueroimmobilien-kommt-praktisch-zum-stillstand-rueckgang-um-bis-zu-90-prozent](https://www.spiegel.de/wirtschaft/markt-fuer-bueroimmobilien-kommt-praktisch-zum-stillstand-rueckgang-um-bis-zu-90-prozent-a-b56062d2-7435-47a7-8fb8-56a3beff4d71#ref=rss)
-### sieg
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-was-waere-fuer-benjamin-netanyahu-ein-sieg](https://www.spiegel.de/ausland/israel-gaza-krieg-was-waere-fuer-benjamin-netanyahu-ein-sieg-a-0b713b02-44b8-44e4-9185-735a79bf589d#ref=rss)
-* [https://www.spiegel.de/sport/handball/handball-em-2024-auftaktsieg-fuer-deutschland-schon-beim-warmmachen-gaensehaut](https://www.spiegel.de/sport/handball/handball-em-2024-auftaktsieg-fuer-deutschland-schon-beim-warmmachen-gaensehaut-a-803a12c4-1b27-4305-a89a-1f209c0097d1#ref=rss)
-### gazastreifen
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-was-waere-fuer-benjamin-netanyahu-ein-sieg](https://www.spiegel.de/ausland/israel-gaza-krieg-was-waere-fuer-benjamin-netanyahu-ein-sieg-a-0b713b02-44b8-44e4-9185-735a79bf589d#ref=rss)
-* [https://www.spiegel.de/ausland/internationaler-gerichtshof-den-haag-israel-weist-anklage-wegen-voelkermords-zurueck](https://www.spiegel.de/ausland/internationaler-gerichtshof-den-haag-israel-weist-anklage-wegen-voelkermords-zurueck-a-b2754f5c-83a4-45d9-9eb6-e204808fe904#ref=rss)
-### weniger
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-was-waere-fuer-benjamin-netanyahu-ein-sieg](https://www.spiegel.de/ausland/israel-gaza-krieg-was-waere-fuer-benjamin-netanyahu-ein-sieg-a-0b713b02-44b8-44e4-9185-735a79bf589d#ref=rss)
-* [https://www.spiegel.de/familie/schlittschuhfahren-so-erinnern-wir-uns-an-die-gleitzeit-unserer-kindheit-und-jugend](https://www.spiegel.de/familie/schlittschuhfahren-so-erinnern-wir-uns-an-die-gleitzeit-unserer-kindheit-und-jugend-a-31928861-bd5b-4932-896b-11e3a4d533d2#ref=rss)
-### bundeskanzler
-
-* [https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-beschwoert-zusammenhalt-gegen-fanatiker-mit-assimilationsfantasien](https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-beschwoert-zusammenhalt-gegen-fanatiker-mit-assimilationsfantasien-a-eca3f852-b7b9-4dcc-8fcb-7736e1ecbeb3#ref=rss)
-### spdgeneralsekretär
-
-* [https://www.spiegel.de/politik/deutschland/traktor-protest-spd-generalsekretaer-kevin-kuehnert-sieht-nachholbedarf-im-umgang-mit-bauern](https://www.spiegel.de/politik/deutschland/traktor-protest-spd-generalsekretaer-kevin-kuehnert-sieht-nachholbedarf-im-umgang-mit-bauern-a-24b995ff-4911-4396-9687-92e6e8fb7410#ref=rss)
-### kühnert
-
-* [https://www.spiegel.de/politik/deutschland/traktor-protest-spd-generalsekretaer-kevin-kuehnert-sieht-nachholbedarf-im-umgang-mit-bauern](https://www.spiegel.de/politik/deutschland/traktor-protest-spd-generalsekretaer-kevin-kuehnert-sieht-nachholbedarf-im-umgang-mit-bauern-a-24b995ff-4911-4396-9687-92e6e8fb7410#ref=rss)
-### bad
-
-* [https://www.spiegel.de/panorama/bad-homburg-polizei-faengt-entlaufenes-zebra-ein](https://www.spiegel.de/panorama/bad-homburg-polizei-faengt-entlaufenes-zebra-ein-a-a43cb056-ac26-4ef4-9aab-aed4b342feb8#ref=rss)
-### homburg
-
-* [https://www.spiegel.de/panorama/bad-homburg-polizei-faengt-entlaufenes-zebra-ein](https://www.spiegel.de/panorama/bad-homburg-polizei-faengt-entlaufenes-zebra-ein-a-a43cb056-ac26-4ef4-9aab-aed4b342feb8#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/bad-homburg-polizei-faengt-entlaufenes-zebra-ein](https://www.spiegel.de/panorama/bad-homburg-polizei-faengt-entlaufenes-zebra-ein-a-a43cb056-ac26-4ef4-9aab-aed4b342feb8#ref=rss)
-### zebra
-
-* [https://www.spiegel.de/panorama/bad-homburg-polizei-faengt-entlaufenes-zebra-ein](https://www.spiegel.de/panorama/bad-homburg-polizei-faengt-entlaufenes-zebra-ein-a-a43cb056-ac26-4ef4-9aab-aed4b342feb8#ref=rss)
-### feld
-
-* [https://www.spiegel.de/panorama/bad-homburg-polizei-faengt-entlaufenes-zebra-ein](https://www.spiegel.de/panorama/bad-homburg-polizei-faengt-entlaufenes-zebra-ein-a-a43cb056-ac26-4ef4-9aab-aed4b342feb8#ref=rss)
-* [https://www.spiegel.de/sport/handball/handball-em-2024-auftaktsieg-fuer-deutschland-schon-beim-warmmachen-gaensehaut](https://www.spiegel.de/sport/handball/handball-em-2024-auftaktsieg-fuer-deutschland-schon-beim-warmmachen-gaensehaut-a-803a12c4-1b27-4305-a89a-1f209c0097d1#ref=rss)
-### franz
-
-* [https://www.spiegel.de/sport/fussball/spanischer-supercup-in-saudi-arabien-pfiffe-gegen-franz-beckenbauer-und-toni-kroos](https://www.spiegel.de/sport/fussball/spanischer-supercup-in-saudi-arabien-pfiffe-gegen-franz-beckenbauer-und-toni-kroos-a-f8d2d475-dde5-4936-a0b7-e76e4f4ea0b2#ref=rss)
-### beckenbauer
-
-* [https://www.spiegel.de/sport/fussball/spanischer-supercup-in-saudi-arabien-pfiffe-gegen-franz-beckenbauer-und-toni-kroos](https://www.spiegel.de/sport/fussball/spanischer-supercup-in-saudi-arabien-pfiffe-gegen-franz-beckenbauer-und-toni-kroos-a-f8d2d475-dde5-4936-a0b7-e76e4f4ea0b2#ref=rss)
-### toni
-
-* [https://www.spiegel.de/sport/fussball/spanischer-supercup-in-saudi-arabien-pfiffe-gegen-franz-beckenbauer-und-toni-kroos](https://www.spiegel.de/sport/fussball/spanischer-supercup-in-saudi-arabien-pfiffe-gegen-franz-beckenbauer-und-toni-kroos-a-f8d2d475-dde5-4936-a0b7-e76e4f4ea0b2#ref=rss)
-### kroos
-
-* [https://www.spiegel.de/sport/fussball/spanischer-supercup-in-saudi-arabien-pfiffe-gegen-franz-beckenbauer-und-toni-kroos](https://www.spiegel.de/sport/fussball/spanischer-supercup-in-saudi-arabien-pfiffe-gegen-franz-beckenbauer-und-toni-kroos-a-f8d2d475-dde5-4936-a0b7-e76e4f4ea0b2#ref=rss)
-### selena
-
-* [https://www.spiegel.de/kultur/kino/selena-gomez-soll-saengerin-linda-ronstadt-in-biopic-spielen](https://www.spiegel.de/kultur/kino/selena-gomez-soll-saengerin-linda-ronstadt-in-biopic-spielen-a-d1392e74-7f4d-4df2-a808-09e0929257ef#ref=rss)
-### gomez
-
-* [https://www.spiegel.de/kultur/kino/selena-gomez-soll-saengerin-linda-ronstadt-in-biopic-spielen](https://www.spiegel.de/kultur/kino/selena-gomez-soll-saengerin-linda-ronstadt-in-biopic-spielen-a-d1392e74-7f4d-4df2-a808-09e0929257ef#ref=rss)
-### sängerin
-
-* [https://www.spiegel.de/kultur/kino/selena-gomez-soll-saengerin-linda-ronstadt-in-biopic-spielen](https://www.spiegel.de/kultur/kino/selena-gomez-soll-saengerin-linda-ronstadt-in-biopic-spielen-a-d1392e74-7f4d-4df2-a808-09e0929257ef#ref=rss)
-### linda
-
-* [https://www.spiegel.de/kultur/kino/selena-gomez-soll-saengerin-linda-ronstadt-in-biopic-spielen](https://www.spiegel.de/kultur/kino/selena-gomez-soll-saengerin-linda-ronstadt-in-biopic-spielen-a-d1392e74-7f4d-4df2-a808-09e0929257ef#ref=rss)
-### ronstadt
-
-* [https://www.spiegel.de/kultur/kino/selena-gomez-soll-saengerin-linda-ronstadt-in-biopic-spielen](https://www.spiegel.de/kultur/kino/selena-gomez-soll-saengerin-linda-ronstadt-in-biopic-spielen-a-d1392e74-7f4d-4df2-a808-09e0929257ef#ref=rss)
-### spielen
-
-* [https://www.spiegel.de/kultur/kino/selena-gomez-soll-saengerin-linda-ronstadt-in-biopic-spielen](https://www.spiegel.de/kultur/kino/selena-gomez-soll-saengerin-linda-ronstadt-in-biopic-spielen-a-d1392e74-7f4d-4df2-a808-09e0929257ef#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/kultur/kino/selena-gomez-soll-saengerin-linda-ronstadt-in-biopic-spielen](https://www.spiegel.de/kultur/kino/selena-gomez-soll-saengerin-linda-ronstadt-in-biopic-spielen-a-d1392e74-7f4d-4df2-a808-09e0929257ef#ref=rss)
-* [https://www.spiegel.de/ausland/lloyd-austin-verteidigungsminister-voruebergehend-verschwunden](https://www.spiegel.de/ausland/lloyd-austin-verteidigungsminister-voruebergehend-verschwunden-a-df54dca8-d38a-4655-b001-f17dc84dea1e#ref=rss)
-### appstore
-
-* [https://www.spiegel.de/netzwelt/apps/gpt-store-openai-veroeffentlicht-app-store-fuer-chatgpt-varianten](https://www.spiegel.de/netzwelt/apps/gpt-store-openai-veroeffentlicht-app-store-fuer-chatgpt-varianten-a-33d292b0-a77a-4038-b895-62341aca2fb2#ref=rss)
-### neue
-
-* [https://www.spiegel.de/netzwelt/apps/gpt-store-openai-veroeffentlicht-app-store-fuer-chatgpt-varianten](https://www.spiegel.de/netzwelt/apps/gpt-store-openai-veroeffentlicht-app-store-fuer-chatgpt-varianten-a-33d292b0-a77a-4038-b895-62341aca2fb2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/iwf-erzielt-einigung-mit-argentinien-zur-fortfuehrung-des-schuldenprogramms](https://www.spiegel.de/wirtschaft/iwf-erzielt-einigung-mit-argentinien-zur-fortfuehrung-des-schuldenprogramms-a-3c725614-cbf4-400a-9bd7-ee191a6769b9#ref=rss)
-### gerichtshof
-
-* [https://www.spiegel.de/ausland/internationaler-gerichtshof-den-haag-israel-weist-anklage-wegen-voelkermords-zurueck](https://www.spiegel.de/ausland/internationaler-gerichtshof-den-haag-israel-weist-anklage-wegen-voelkermords-zurueck-a-b2754f5c-83a4-45d9-9eb6-e204808fe904#ref=rss)
-### lloyd
-
-* [https://www.spiegel.de/ausland/lloyd-austin-verteidigungsminister-voruebergehend-verschwunden](https://www.spiegel.de/ausland/lloyd-austin-verteidigungsminister-voruebergehend-verschwunden-a-df54dca8-d38a-4655-b001-f17dc84dea1e#ref=rss)
-### austin
-
-* [https://www.spiegel.de/ausland/lloyd-austin-verteidigungsminister-voruebergehend-verschwunden](https://www.spiegel.de/ausland/lloyd-austin-verteidigungsminister-voruebergehend-verschwunden-a-df54dca8-d38a-4655-b001-f17dc84dea1e#ref=rss)
-### verteidigungsminister
-
-* [https://www.spiegel.de/ausland/lloyd-austin-verteidigungsminister-voruebergehend-verschwunden](https://www.spiegel.de/ausland/lloyd-austin-verteidigungsminister-voruebergehend-verschwunden-a-df54dca8-d38a-4655-b001-f17dc84dea1e#ref=rss)
-### viele
-
-* [https://www.spiegel.de/ausland/lloyd-austin-verteidigungsminister-voruebergehend-verschwunden](https://www.spiegel.de/ausland/lloyd-austin-verteidigungsminister-voruebergehend-verschwunden-a-df54dca8-d38a-4655-b001-f17dc84dea1e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/pflege-im-heim-kostenbremse-kann-gestiegene-preise-nicht-ausgleichen](https://www.spiegel.de/wirtschaft/pflege-im-heim-kostenbremse-kann-gestiegene-preise-nicht-ausgleichen-a-4f23ef5a-cc57-4f65-9acc-edec2b285fba#ref=rss)
-### dorival
-
-* [https://www.spiegel.de/sport/fussball/fussball-in-brasilien-dorival-junior-ist-neuer-trainer-der-taumelnden-selecao](https://www.spiegel.de/sport/fussball/fussball-in-brasilien-dorival-junior-ist-neuer-trainer-der-taumelnden-selecao-a-491fe70f-9108-4a5f-b34d-b73d3517557e#ref=rss)
-### júnior
-
-* [https://www.spiegel.de/sport/fussball/fussball-in-brasilien-dorival-junior-ist-neuer-trainer-der-taumelnden-selecao](https://www.spiegel.de/sport/fussball/fussball-in-brasilien-dorival-junior-ist-neuer-trainer-der-taumelnden-selecao-a-491fe70f-9108-4a5f-b34d-b73d3517557e#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/politik/deutschland/berlin-senatorin-katharina-guenther-wuensch-aeussert-sich-zu-beziehung-mit-kai-wegner](https://www.spiegel.de/politik/deutschland/berlin-senatorin-katharina-guenther-wuensch-aeussert-sich-zu-beziehung-mit-kai-wegner-a-a495f631-dc1d-4c54-803c-fee2bbe91d9d#ref=rss)
-### tag
-
-* [https://www.spiegel.de/wirtschaft/lokfuehrerstreik-zweiter-tag-bahn-haelt-notfallplan-aufrecht](https://www.spiegel.de/wirtschaft/lokfuehrerstreik-zweiter-tag-bahn-haelt-notfallplan-aufrecht-a-c75105d8-070e-401c-9810-b4c55c1486f3#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/wirtschaft/lokfuehrerstreik-zweiter-tag-bahn-haelt-notfallplan-aufrecht](https://www.spiegel.de/wirtschaft/lokfuehrerstreik-zweiter-tag-bahn-haelt-notfallplan-aufrecht-a-c75105d8-070e-401c-9810-b4c55c1486f3#ref=rss)
-### wenige
-
-* [https://www.spiegel.de/wirtschaft/lokfuehrerstreik-zweiter-tag-bahn-haelt-notfallplan-aufrecht](https://www.spiegel.de/wirtschaft/lokfuehrerstreik-zweiter-tag-bahn-haelt-notfallplan-aufrecht-a-c75105d8-070e-401c-9810-b4c55c1486f3#ref=rss)
-* [https://www.spiegel.de/partnerschaft/langzeitbeziehungen-warum-manche-paare-fuer-immer-zusammenbleiben-und-andere-nicht](https://www.spiegel.de/partnerschaft/langzeitbeziehungen-warum-manche-paare-fuer-immer-zusammenbleiben-und-andere-nicht-a-53d3a0b2-088c-4bc6-9927-b2da2dc7f8cc#ref=rss)
-### wir
-
-* [https://www.spiegel.de/familie/schlittschuhfahren-so-erinnern-wir-uns-an-die-gleitzeit-unserer-kindheit-und-jugend](https://www.spiegel.de/familie/schlittschuhfahren-so-erinnern-wir-uns-an-die-gleitzeit-unserer-kindheit-und-jugend-a-31928861-bd5b-4932-896b-11e3a4d533d2#ref=rss)
-### unserer
-
-* [https://www.spiegel.de/familie/schlittschuhfahren-so-erinnern-wir-uns-an-die-gleitzeit-unserer-kindheit-und-jugend](https://www.spiegel.de/familie/schlittschuhfahren-so-erinnern-wir-uns-an-die-gleitzeit-unserer-kindheit-und-jugend-a-31928861-bd5b-4932-896b-11e3a4d533d2#ref=rss)
-### kindheit
-
-* [https://www.spiegel.de/familie/schlittschuhfahren-so-erinnern-wir-uns-an-die-gleitzeit-unserer-kindheit-und-jugend](https://www.spiegel.de/familie/schlittschuhfahren-so-erinnern-wir-uns-an-die-gleitzeit-unserer-kindheit-und-jugend-a-31928861-bd5b-4932-896b-11e3a4d533d2#ref=rss)
-### jugend
-
-* [https://www.spiegel.de/familie/schlittschuhfahren-so-erinnern-wir-uns-an-die-gleitzeit-unserer-kindheit-und-jugend](https://www.spiegel.de/familie/schlittschuhfahren-so-erinnern-wir-uns-an-die-gleitzeit-unserer-kindheit-und-jugend-a-31928861-bd5b-4932-896b-11e3a4d533d2#ref=rss)
-### somalia
-
-* [https://www.spiegel.de/ausland/somalia-uno-hubschrauber-landet-in-islamistengebiet-offenbar-geiselnahmen](https://www.spiegel.de/ausland/somalia-uno-hubschrauber-landet-in-islamistengebiet-offenbar-geiselnahmen-a-a1e488a0-6970-4482-9d86-fdb784c953a8#ref=rss)
-### uno
-
-* [https://www.spiegel.de/ausland/somalia-uno-hubschrauber-landet-in-islamistengebiet-offenbar-geiselnahmen](https://www.spiegel.de/ausland/somalia-uno-hubschrauber-landet-in-islamistengebiet-offenbar-geiselnahmen-a-a1e488a0-6970-4482-9d86-fdb784c953a8#ref=rss)
-### unterwegs
-
-* [https://www.spiegel.de/ausland/somalia-uno-hubschrauber-landet-in-islamistengebiet-offenbar-geiselnahmen](https://www.spiegel.de/ausland/somalia-uno-hubschrauber-landet-in-islamistengebiet-offenbar-geiselnahmen-a-a1e488a0-6970-4482-9d86-fdb784c953a8#ref=rss)
-* [https://www.spiegel.de/panorama/palisades-tahoe-in-kalifornien-lawine-in-skigebiet-ein-toter-mehrere-verletzte](https://www.spiegel.de/panorama/palisades-tahoe-in-kalifornien-lawine-in-skigebiet-ein-toter-mehrere-verletzte-a-944bb524-5026-4539-9965-c216614371d4#ref=rss)
-### markt
-
-* [https://www.spiegel.de/wirtschaft/markt-fuer-bueroimmobilien-kommt-praktisch-zum-stillstand-rueckgang-um-bis-zu-90-prozent](https://www.spiegel.de/wirtschaft/markt-fuer-bueroimmobilien-kommt-praktisch-zum-stillstand-rueckgang-um-bis-zu-90-prozent-a-b56062d2-7435-47a7-8fb8-56a3beff4d71#ref=rss)
-### büroimmobilien
-
-* [https://www.spiegel.de/wirtschaft/markt-fuer-bueroimmobilien-kommt-praktisch-zum-stillstand-rueckgang-um-bis-zu-90-prozent](https://www.spiegel.de/wirtschaft/markt-fuer-bueroimmobilien-kommt-praktisch-zum-stillstand-rueckgang-um-bis-zu-90-prozent-a-b56062d2-7435-47a7-8fb8-56a3beff4d71#ref=rss)
-### diesel
-
-* [https://www.spiegel.de/auto/bauernproteste-traktoren-mit-elektroantrieb-wann-koennen-sie-diesel-ersetzen](https://www.spiegel.de/auto/bauernproteste-traktoren-mit-elektroantrieb-wann-koennen-sie-diesel-ersetzen-a-e2ddf47e-c71c-4eeb-9824-cc3e5e906f14#ref=rss)
-### lawine
-
-* [https://www.spiegel.de/panorama/palisades-tahoe-in-kalifornien-lawine-in-skigebiet-ein-toter-mehrere-verletzte](https://www.spiegel.de/panorama/palisades-tahoe-in-kalifornien-lawine-in-skigebiet-ein-toter-mehrere-verletzte-a-944bb524-5026-4539-9965-c216614371d4#ref=rss)
+* [https://www.spiegel.de/panorama/hessen-bauernproteste-auf-a66-lkw-faehrt-auf-stauende-fahrer-toedlich-verletzt](https://www.spiegel.de/panorama/hessen-bauernproteste-auf-a66-lkw-faehrt-auf-stauende-fahrer-toedlich-verletzt-a-f5ab57e7-86a2-437d-a6df-182f0401b8a7#ref=rss)
+* [https://www.spiegel.de/panorama/bremerhaven-besatzungsmitglied-von-autofrachter-toedlich-verunglueckt](https://www.spiegel.de/panorama/bremerhaven-besatzungsmitglied-von-autofrachter-toedlich-verunglueckt-a-08af9b90-9ea8-4e00-91ae-ffc5dee845d4#ref=rss)
 ### mehrere
 
-* [https://www.spiegel.de/panorama/palisades-tahoe-in-kalifornien-lawine-in-skigebiet-ein-toter-mehrere-verletzte](https://www.spiegel.de/panorama/palisades-tahoe-in-kalifornien-lawine-in-skigebiet-ein-toter-mehrere-verletzte-a-944bb524-5026-4539-9965-c216614371d4#ref=rss)
-### iwf
+* [https://www.spiegel.de/panorama/brandenburg-mehrere-kuehe-im-wasser-erfroren](https://www.spiegel.de/panorama/brandenburg-mehrere-kuehe-im-wasser-erfroren-a-16547116-cfe8-41e1-ba71-a00e57946bfe#ref=rss)
+* [https://www.spiegel.de/panorama/hessen-bauernproteste-auf-a66-lkw-faehrt-auf-stauende-fahrer-toedlich-verletzt](https://www.spiegel.de/panorama/hessen-bauernproteste-auf-a66-lkw-faehrt-auf-stauende-fahrer-toedlich-verletzt-a-f5ab57e7-86a2-437d-a6df-182f0401b8a7#ref=rss)
+### fordert
 
-* [https://www.spiegel.de/wirtschaft/iwf-erzielt-einigung-mit-argentinien-zur-fortfuehrung-des-schuldenprogramms](https://www.spiegel.de/wirtschaft/iwf-erzielt-einigung-mit-argentinien-zur-fortfuehrung-des-schuldenprogramms-a-3c725614-cbf4-400a-9bd7-ee191a6769b9#ref=rss)
-### argentinien
+* [https://www.spiegel.de/ausland/brexit-hat-britische-wirtschaft-allein-2023-rund-140-milliarden-pfund-gekostet](https://www.spiegel.de/ausland/brexit-hat-britische-wirtschaft-allein-2023-rund-140-milliarden-pfund-gekostet-a-aa476049-6ec7-4bbf-a68c-f4d7a20cec57#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rolf-muetzenich-spd-fraktionschef-fordert-antwort-auf-rechten-sumpf](https://www.spiegel.de/politik/deutschland/rolf-muetzenich-spd-fraktionschef-fordert-antwort-auf-rechten-sumpf-a-8073f30e-95f2-4c57-afbb-c07aad553cf1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/buergergeld-debatte-cdu-will-arbeitslosengeld-anheben-fuer-langjaehrig-versicherte](https://www.spiegel.de/wirtschaft/buergergeld-debatte-cdu-will-arbeitslosengeld-anheben-fuer-langjaehrig-versicherte-a-f3c18fb3-6e7b-4789-aa91-7b97d716b701#ref=rss)
+### bauern
 
-* [https://www.spiegel.de/wirtschaft/iwf-erzielt-einigung-mit-argentinien-zur-fortfuehrung-des-schuldenprogramms](https://www.spiegel.de/wirtschaft/iwf-erzielt-einigung-mit-argentinien-zur-fortfuehrung-des-schuldenprogramms-a-3c725614-cbf4-400a-9bd7-ee191a6769b9#ref=rss)
-### langzeitbeziehungen
+* [https://www.spiegel.de/wirtschaft/subventionen-in-der-landwirtschaft-ackern-auf-kosten-der-steuerzahler](https://www.spiegel.de/wirtschaft/subventionen-in-der-landwirtschaft-ackern-auf-kosten-der-steuerzahler-a-c86dae12-783b-4ba9-89d3-deea4b763fc9#ref=rss)
+* [https://www.spiegel.de/panorama/olaf-scholz-in-cottbus-kanzler-von-protestierenden-bauern-empfangen](https://www.spiegel.de/panorama/olaf-scholz-in-cottbus-kanzler-von-protestierenden-bauern-empfangen-a-ae7b8195-fe37-41c2-a6a1-75c2199401cf#ref=rss)
+* [https://www.spiegel.de/geschichte/neues-von-gestern-der-geschichte-newsletter-gegen-staus-und-blockaden](https://www.spiegel.de/geschichte/neues-von-gestern-der-geschichte-newsletter-gegen-staus-und-blockaden-a-30575626-fb82-44b2-be94-ab3bb47b8562#ref=rss)
+### landwirte
 
-* [https://www.spiegel.de/partnerschaft/langzeitbeziehungen-warum-manche-paare-fuer-immer-zusammenbleiben-und-andere-nicht](https://www.spiegel.de/partnerschaft/langzeitbeziehungen-warum-manche-paare-fuer-immer-zusammenbleiben-und-andere-nicht-a-53d3a0b2-088c-4bc6-9927-b2da2dc7f8cc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/subventionen-in-der-landwirtschaft-ackern-auf-kosten-der-steuerzahler](https://www.spiegel.de/wirtschaft/subventionen-in-der-landwirtschaft-ackern-auf-kosten-der-steuerzahler-a-c86dae12-783b-4ba9-89d3-deea4b763fc9#ref=rss)
+* [https://www.spiegel.de/panorama/olaf-scholz-in-cottbus-kanzler-von-protestierenden-bauern-empfangen](https://www.spiegel.de/panorama/olaf-scholz-in-cottbus-kanzler-von-protestierenden-bauern-empfangen-a-ae7b8195-fe37-41c2-a6a1-75c2199401cf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bauernproteste-mehrheit-der-deutschen-hat-verstaendnis-fuer-demonstrationen](https://www.spiegel.de/politik/deutschland/bauernproteste-mehrheit-der-deutschen-hat-verstaendnis-fuer-demonstrationen-a-e3f22be6-fb9b-45ac-94ce-3a2750542310#ref=rss)
+### verletzt
+
+* [https://www.spiegel.de/panorama/hessen-bauernproteste-auf-a66-lkw-faehrt-auf-stauende-fahrer-toedlich-verletzt](https://www.spiegel.de/panorama/hessen-bauernproteste-auf-a66-lkw-faehrt-auf-stauende-fahrer-toedlich-verletzt-a-f5ab57e7-86a2-437d-a6df-182f0401b8a7#ref=rss)
+* [https://www.spiegel.de/panorama/bremerhaven-besatzungsmitglied-von-autofrachter-toedlich-verunglueckt](https://www.spiegel.de/panorama/bremerhaven-besatzungsmitglied-von-autofrachter-toedlich-verunglueckt-a-08af9b90-9ea8-4e00-91ae-ffc5dee845d4#ref=rss)
+* [https://www.spiegel.de/sport/fussball/afrika-cup-und-asienmeisterschaft-zwei-turniere-die-die-bundesliga-mitentscheiden-koennten](https://www.spiegel.de/sport/fussball/afrika-cup-und-asienmeisterschaft-zwei-turniere-die-die-bundesliga-mitentscheiden-koennten-a-ab130603-e2fd-4c25-bce7-a0cca7fb74b1#ref=rss)
+### kanzler
+
+* [https://www.spiegel.de/panorama/olaf-scholz-in-cottbus-kanzler-von-protestierenden-bauern-empfangen](https://www.spiegel.de/panorama/olaf-scholz-in-cottbus-kanzler-von-protestierenden-bauern-empfangen-a-ae7b8195-fe37-41c2-a6a1-75c2199401cf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/vip-flotte-der-bundeswehr-bundesregierung-will-drei-neue-luxus-hubschrauber-kaufen](https://www.spiegel.de/politik/deutschland/vip-flotte-der-bundeswehr-bundesregierung-will-drei-neue-luxus-hubschrauber-kaufen-a-87a5c959-9220-4571-bbaf-f34f9de0d62f#ref=rss)
+### china
+
+* [https://www.spiegel.de/panorama/olaf-scholz-in-cottbus-kanzler-von-protestierenden-bauern-empfangen](https://www.spiegel.de/panorama/olaf-scholz-in-cottbus-kanzler-von-protestierenden-bauern-empfangen-a-ae7b8195-fe37-41c2-a6a1-75c2199401cf#ref=rss)
+* [https://www.spiegel.de/ausland/taiwan-was-koennte-der-inselstaat-einer-invasion-durch-china-entgegensetzen](https://www.spiegel.de/ausland/taiwan-was-koennte-der-inselstaat-einer-invasion-durch-china-entgegensetzen-a-30ae35db-4cd0-4d98-8197-8fcbe9b311c0#ref=rss)
+### homöopathie
+
+* [https://www.spiegel.de/gesundheit/homoeopathie-was-sie-ueber-karl-lauterbachs-plaene-wissen-muessen](https://www.spiegel.de/gesundheit/homoeopathie-was-sie-ueber-karl-lauterbachs-plaene-wissen-muessen-a-272e8e1d-db31-4dcd-9e4c-484a8541c6e6#ref=rss)
+* [https://www.spiegel.de/gesundheit/homoeopathie-als-kassenleistung-die-suessen-jahre-sind-vorbei](https://www.spiegel.de/gesundheit/homoeopathie-als-kassenleistung-die-suessen-jahre-sind-vorbei-a-9ca745d7-06bf-4509-938a-5093ad9e590a#ref=rss)
+### 200
+
+* [https://www.spiegel.de/panorama/justiz/landkreis-soemmerda-in-thueringen-polizei-rettet-200-schafe-vor-kaelte](https://www.spiegel.de/panorama/justiz/landkreis-soemmerda-in-thueringen-polizei-rettet-200-schafe-vor-kaelte-a-eb885d7a-a0f1-4c58-adf9-fe342cd4db1b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/vip-flotte-der-bundeswehr-bundesregierung-will-drei-neue-luxus-hubschrauber-kaufen](https://www.spiegel.de/politik/deutschland/vip-flotte-der-bundeswehr-bundesregierung-will-drei-neue-luxus-hubschrauber-kaufen-a-87a5c959-9220-4571-bbaf-f34f9de0d62f#ref=rss)
+### afrikacup
+
+* [https://www.spiegel.de/sport/fussball/afrika-cup-fussball-nationalteam-von-gambia-muss-notlanden](https://www.spiegel.de/sport/fussball/afrika-cup-fussball-nationalteam-von-gambia-muss-notlanden-a-779f2dc0-0cbe-4ce1-a1e2-540d1d00e93f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/afrika-cup-und-asienmeisterschaft-zwei-turniere-die-die-bundesliga-mitentscheiden-koennten](https://www.spiegel.de/sport/fussball/afrika-cup-und-asienmeisterschaft-zwei-turniere-die-die-bundesliga-mitentscheiden-koennten-a-ab130603-e2fd-4c25-bce7-a0cca7fb74b1#ref=rss)
+### brandenburg
+
+* [https://www.spiegel.de/panorama/brandenburg-mehrere-kuehe-im-wasser-erfroren](https://www.spiegel.de/panorama/brandenburg-mehrere-kuehe-im-wasser-erfroren-a-16547116-cfe8-41e1-ba71-a00e57946bfe#ref=rss)
+* [https://www.spiegel.de/panorama/olaf-scholz-in-cottbus-kanzler-von-protestierenden-bauern-empfangen](https://www.spiegel.de/panorama/olaf-scholz-in-cottbus-kanzler-von-protestierenden-bauern-empfangen-a-ae7b8195-fe37-41c2-a6a1-75c2199401cf#ref=rss)
+### vermutlich
+
+* [https://www.spiegel.de/panorama/brandenburg-mehrere-kuehe-im-wasser-erfroren](https://www.spiegel.de/panorama/brandenburg-mehrere-kuehe-im-wasser-erfroren-a-16547116-cfe8-41e1-ba71-a00e57946bfe#ref=rss)
+* [https://www.spiegel.de/sport/fussball/afrika-cup-fussball-nationalteam-von-gambia-muss-notlanden](https://www.spiegel.de/sport/fussball/afrika-cup-fussball-nationalteam-von-gambia-muss-notlanden-a-779f2dc0-0cbe-4ce1-a1e2-540d1d00e93f#ref=rss)
+### kälte
+
+* [https://www.spiegel.de/panorama/brandenburg-mehrere-kuehe-im-wasser-erfroren](https://www.spiegel.de/panorama/brandenburg-mehrere-kuehe-im-wasser-erfroren-a-16547116-cfe8-41e1-ba71-a00e57946bfe#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/landkreis-soemmerda-in-thueringen-polizei-rettet-200-schafe-vor-kaelte](https://www.spiegel.de/panorama/justiz/landkreis-soemmerda-in-thueringen-polizei-rettet-200-schafe-vor-kaelte-a-eb885d7a-a0f1-4c58-adf9-fe342cd4db1b#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/panorama/justiz/berlin-zehn-beschuldigte-sollen-vaterschaftsanerkennungen-und-scheinehen-vermittelt-haben](https://www.spiegel.de/panorama/justiz/berlin-zehn-beschuldigte-sollen-vaterschaftsanerkennungen-und-scheinehen-vermittelt-haben-a-2134e252-0ad6-4640-a24a-ee4ce9c7b167#ref=rss)
+* [https://www.spiegel.de/sport/fussball/afrika-cup-und-asienmeisterschaft-zwei-turniere-die-die-bundesliga-mitentscheiden-koennten](https://www.spiegel.de/sport/fussball/afrika-cup-und-asienmeisterschaft-zwei-turniere-die-die-bundesliga-mitentscheiden-koennten-a-ab130603-e2fd-4c25-bce7-a0cca7fb74b1#ref=rss)
+### geld
+
+* [https://www.spiegel.de/panorama/justiz/berlin-zehn-beschuldigte-sollen-vaterschaftsanerkennungen-und-scheinehen-vermittelt-haben](https://www.spiegel.de/panorama/justiz/berlin-zehn-beschuldigte-sollen-vaterschaftsanerkennungen-und-scheinehen-vermittelt-haben-a-2134e252-0ad6-4640-a24a-ee4ce9c7b167#ref=rss)
+* [https://www.spiegel.de/wirtschaft/buergergeld-debatte-cdu-will-arbeitslosengeld-anheben-fuer-langjaehrig-versicherte](https://www.spiegel.de/wirtschaft/buergergeld-debatte-cdu-will-arbeitslosengeld-anheben-fuer-langjaehrig-versicherte-a-f3c18fb3-6e7b-4789-aa91-7b97d716b701#ref=rss)
+### euro
+
+* [https://www.spiegel.de/panorama/justiz/berlin-zehn-beschuldigte-sollen-vaterschaftsanerkennungen-und-scheinehen-vermittelt-haben](https://www.spiegel.de/panorama/justiz/berlin-zehn-beschuldigte-sollen-vaterschaftsanerkennungen-und-scheinehen-vermittelt-haben-a-2134e252-0ad6-4640-a24a-ee4ce9c7b167#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/vip-flotte-der-bundeswehr-bundesregierung-will-drei-neue-luxus-hubschrauber-kaufen](https://www.spiegel.de/politik/deutschland/vip-flotte-der-bundeswehr-bundesregierung-will-drei-neue-luxus-hubschrauber-kaufen-a-87a5c959-9220-4571-bbaf-f34f9de0d62f#ref=rss)
+### brexit
+
+* [https://www.spiegel.de/ausland/brexit-hat-britische-wirtschaft-allein-2023-rund-140-milliarden-pfund-gekostet](https://www.spiegel.de/ausland/brexit-hat-britische-wirtschaft-allein-2023-rund-140-milliarden-pfund-gekostet-a-aa476049-6ec7-4bbf-a68c-f4d7a20cec57#ref=rss)
+### 2023
+
+* [https://www.spiegel.de/ausland/brexit-hat-britische-wirtschaft-allein-2023-rund-140-milliarden-pfund-gekostet](https://www.spiegel.de/ausland/brexit-hat-britische-wirtschaft-allein-2023-rund-140-milliarden-pfund-gekostet-a-aa476049-6ec7-4bbf-a68c-f4d7a20cec57#ref=rss)
+* [https://www.spiegel.de/ausland/golf-von-oman-iran-bekennt-sich-zu-entfuehrung-von-oeltanker-st-nikolas](https://www.spiegel.de/ausland/golf-von-oman-iran-bekennt-sich-zu-entfuehrung-von-oeltanker-st-nikolas-a-3e08e09d-6400-4549-a620-e22cdf9e9218#ref=rss)
+### rund
+
+* [https://www.spiegel.de/ausland/brexit-hat-britische-wirtschaft-allein-2023-rund-140-milliarden-pfund-gekostet](https://www.spiegel.de/ausland/brexit-hat-britische-wirtschaft-allein-2023-rund-140-milliarden-pfund-gekostet-a-aa476049-6ec7-4bbf-a68c-f4d7a20cec57#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/landkreis-soemmerda-in-thueringen-polizei-rettet-200-schafe-vor-kaelte](https://www.spiegel.de/panorama/justiz/landkreis-soemmerda-in-thueringen-polizei-rettet-200-schafe-vor-kaelte-a-eb885d7a-a0f1-4c58-adf9-fe342cd4db1b#ref=rss)
+### funktioniert
+
+* [https://www.spiegel.de/ausland/brexit-hat-britische-wirtschaft-allein-2023-rund-140-milliarden-pfund-gekostet](https://www.spiegel.de/ausland/brexit-hat-britische-wirtschaft-allein-2023-rund-140-milliarden-pfund-gekostet-a-aa476049-6ec7-4bbf-a68c-f4d7a20cec57#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/bitcoin-etfs-spekulation-um-der-spekulation-willen-kommentar](https://www.spiegel.de/netzwelt/netzpolitik/bitcoin-etfs-spekulation-um-der-spekulation-willen-kommentar-a-66ee60d2-0aae-4570-8272-114b1c5e5250#ref=rss)
+### land
+
+* [https://www.spiegel.de/ausland/brexit-hat-britische-wirtschaft-allein-2023-rund-140-milliarden-pfund-gekostet](https://www.spiegel.de/ausland/brexit-hat-britische-wirtschaft-allein-2023-rund-140-milliarden-pfund-gekostet-a-aa476049-6ec7-4bbf-a68c-f4d7a20cec57#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/israel-warum-die-panzerabwehrraketen-der-hisbollah-dem-land-so-zusetzen](https://www.spiegel.de/wissenschaft/technik/israel-warum-die-panzerabwehrraketen-der-hisbollah-dem-land-so-zusetzen-a-24dbd763-6bad-4b0a-b61e-aa411a4508ea#ref=rss)
+### lage
+
+* [https://www.spiegel.de/ausland/brexit-hat-britische-wirtschaft-allein-2023-rund-140-milliarden-pfund-gekostet](https://www.spiegel.de/ausland/brexit-hat-britische-wirtschaft-allein-2023-rund-140-milliarden-pfund-gekostet-a-aa476049-6ec7-4bbf-a68c-f4d7a20cec57#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-krieg-in-der-ukraine-afd-bauernprotest-nasa-ueberschallflugzeug](https://www.spiegel.de/politik/deutschland/news-des-tages-krieg-in-der-ukraine-afd-bauernprotest-nasa-ueberschallflugzeug-a-ee68fd6d-cd7e-41a7-b55c-7e9318ca1418#ref=rss)
+### bauernproteste
+
+* [https://www.spiegel.de/panorama/hessen-bauernproteste-auf-a66-lkw-faehrt-auf-stauende-fahrer-toedlich-verletzt](https://www.spiegel.de/panorama/hessen-bauernproteste-auf-a66-lkw-faehrt-auf-stauende-fahrer-toedlich-verletzt-a-f5ab57e7-86a2-437d-a6df-182f0401b8a7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bauernproteste-mehrheit-der-deutschen-hat-verstaendnis-fuer-demonstrationen](https://www.spiegel.de/politik/deutschland/bauernproteste-mehrheit-der-deutschen-hat-verstaendnis-fuer-demonstrationen-a-e3f22be6-fb9b-45ac-94ce-3a2750542310#ref=rss)
+### a66
+
+* [https://www.spiegel.de/panorama/hessen-bauernproteste-auf-a66-lkw-faehrt-auf-stauende-fahrer-toedlich-verletzt](https://www.spiegel.de/panorama/hessen-bauernproteste-auf-a66-lkw-faehrt-auf-stauende-fahrer-toedlich-verletzt-a-f5ab57e7-86a2-437d-a6df-182f0401b8a7#ref=rss)
+### stauende
+
+* [https://www.spiegel.de/panorama/hessen-bauernproteste-auf-a66-lkw-faehrt-auf-stauende-fahrer-toedlich-verletzt](https://www.spiegel.de/panorama/hessen-bauernproteste-auf-a66-lkw-faehrt-auf-stauende-fahrer-toedlich-verletzt-a-f5ab57e7-86a2-437d-a6df-182f0401b8a7#ref=rss)
+### öl
+
+* [https://www.spiegel.de/panorama/hessen-bauernproteste-auf-a66-lkw-faehrt-auf-stauende-fahrer-toedlich-verletzt](https://www.spiegel.de/panorama/hessen-bauernproteste-auf-a66-lkw-faehrt-auf-stauende-fahrer-toedlich-verletzt-a-f5ab57e7-86a2-437d-a6df-182f0401b8a7#ref=rss)
+* [https://www.spiegel.de/ausland/golf-von-oman-iran-bekennt-sich-zu-entfuehrung-von-oeltanker-st-nikolas](https://www.spiegel.de/ausland/golf-von-oman-iran-bekennt-sich-zu-entfuehrung-von-oeltanker-st-nikolas-a-3e08e09d-6400-4549-a620-e22cdf9e9218#ref=rss)
+### franz
+
+* [https://www.spiegel.de/sport/fussball/franz-beckenbauer-als-werbefigur-so-gross-wie-er-ist-nur-noch-juergen-klopp](https://www.spiegel.de/sport/fussball/franz-beckenbauer-als-werbefigur-so-gross-wie-er-ist-nur-noch-juergen-klopp-a-553d2e85-21db-47a8-861f-545f5630c8dc#ref=rss)
+### beckenbauer
+
+* [https://www.spiegel.de/sport/fussball/franz-beckenbauer-als-werbefigur-so-gross-wie-er-ist-nur-noch-juergen-klopp](https://www.spiegel.de/sport/fussball/franz-beckenbauer-als-werbefigur-so-gross-wie-er-ist-nur-noch-juergen-klopp-a-553d2e85-21db-47a8-861f-545f5630c8dc#ref=rss)
+### groß
+
+* [https://www.spiegel.de/sport/fussball/franz-beckenbauer-als-werbefigur-so-gross-wie-er-ist-nur-noch-juergen-klopp](https://www.spiegel.de/sport/fussball/franz-beckenbauer-als-werbefigur-so-gross-wie-er-ist-nur-noch-juergen-klopp-a-553d2e85-21db-47a8-861f-545f5630c8dc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/vip-flotte-der-bundeswehr-bundesregierung-will-drei-neue-luxus-hubschrauber-kaufen](https://www.spiegel.de/politik/deutschland/vip-flotte-der-bundeswehr-bundesregierung-will-drei-neue-luxus-hubschrauber-kaufen-a-87a5c959-9220-4571-bbaf-f34f9de0d62f#ref=rss)
+### jürgen
+
+* [https://www.spiegel.de/sport/fussball/franz-beckenbauer-als-werbefigur-so-gross-wie-er-ist-nur-noch-juergen-klopp](https://www.spiegel.de/sport/fussball/franz-beckenbauer-als-werbefigur-so-gross-wie-er-ist-nur-noch-juergen-klopp-a-553d2e85-21db-47a8-861f-545f5630c8dc#ref=rss)
+### klopp
+
+* [https://www.spiegel.de/sport/fussball/franz-beckenbauer-als-werbefigur-so-gross-wie-er-ist-nur-noch-juergen-klopp](https://www.spiegel.de/sport/fussball/franz-beckenbauer-als-werbefigur-so-gross-wie-er-ist-nur-noch-juergen-klopp-a-553d2e85-21db-47a8-861f-545f5630c8dc#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-krieg-in-der-ukraine-afd-bauernprotest-nasa-ueberschallflugzeug](https://www.spiegel.de/politik/deutschland/news-des-tages-krieg-in-der-ukraine-afd-bauernprotest-nasa-ueberschallflugzeug-a-ee68fd6d-cd7e-41a7-b55c-7e9318ca1418#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-geheimplan-enthuellungen-um-ulrich-siegmund-der-privatmann-beim-deportationsgipfel](https://www.spiegel.de/politik/deutschland/afd-geheimplan-enthuellungen-um-ulrich-siegmund-der-privatmann-beim-deportationsgipfel-a-d448b9f1-3315-4965-b412-d46821a49de2#ref=rss)
+### nasa
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-krieg-in-der-ukraine-afd-bauernprotest-nasa-ueberschallflugzeug](https://www.spiegel.de/politik/deutschland/news-des-tages-krieg-in-der-ukraine-afd-bauernprotest-nasa-ueberschallflugzeug-a-ee68fd6d-cd7e-41a7-b55c-7e9318ca1418#ref=rss)
+### überschallflugzeug
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-krieg-in-der-ukraine-afd-bauernprotest-nasa-ueberschallflugzeug](https://www.spiegel.de/politik/deutschland/news-des-tages-krieg-in-der-ukraine-afd-bauernprotest-nasa-ueberschallflugzeug-a-ee68fd6d-cd7e-41a7-b55c-7e9318ca1418#ref=rss)
+### neues
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-krieg-in-der-ukraine-afd-bauernprotest-nasa-ueberschallflugzeug](https://www.spiegel.de/politik/deutschland/news-des-tages-krieg-in-der-ukraine-afd-bauernprotest-nasa-ueberschallflugzeug-a-ee68fd6d-cd7e-41a7-b55c-7e9318ca1418#ref=rss)
+* [https://www.spiegel.de/geschichte/neues-von-gestern-der-geschichte-newsletter-gegen-staus-und-blockaden](https://www.spiegel.de/geschichte/neues-von-gestern-der-geschichte-newsletter-gegen-staus-und-blockaden-a-30575626-fb82-44b2-be94-ab3bb47b8562#ref=rss)
+### olaf
+
+* [https://www.spiegel.de/panorama/olaf-scholz-in-cottbus-kanzler-von-protestierenden-bauern-empfangen](https://www.spiegel.de/panorama/olaf-scholz-in-cottbus-kanzler-von-protestierenden-bauern-empfangen-a-ae7b8195-fe37-41c2-a6a1-75c2199401cf#ref=rss)
+### scholz
+
+* [https://www.spiegel.de/panorama/olaf-scholz-in-cottbus-kanzler-von-protestierenden-bauern-empfangen](https://www.spiegel.de/panorama/olaf-scholz-in-cottbus-kanzler-von-protestierenden-bauern-empfangen-a-ae7b8195-fe37-41c2-a6a1-75c2199401cf#ref=rss)
+### cottbus
+
+* [https://www.spiegel.de/panorama/olaf-scholz-in-cottbus-kanzler-von-protestierenden-bauern-empfangen](https://www.spiegel.de/panorama/olaf-scholz-in-cottbus-kanzler-von-protestierenden-bauern-empfangen-a-ae7b8195-fe37-41c2-a6a1-75c2199401cf#ref=rss)
+### wütende
+
+* [https://www.spiegel.de/panorama/olaf-scholz-in-cottbus-kanzler-von-protestierenden-bauern-empfangen](https://www.spiegel.de/panorama/olaf-scholz-in-cottbus-kanzler-von-protestierenden-bauern-empfangen-a-ae7b8195-fe37-41c2-a6a1-75c2199401cf#ref=rss)
+* [https://www.spiegel.de/geschichte/neues-von-gestern-der-geschichte-newsletter-gegen-staus-und-blockaden](https://www.spiegel.de/geschichte/neues-von-gestern-der-geschichte-newsletter-gegen-staus-und-blockaden-a-30575626-fb82-44b2-be94-ab3bb47b8562#ref=rss)
+### bremerhaven
+
+* [https://www.spiegel.de/panorama/bremerhaven-besatzungsmitglied-von-autofrachter-toedlich-verunglueckt](https://www.spiegel.de/panorama/bremerhaven-besatzungsmitglied-von-autofrachter-toedlich-verunglueckt-a-08af9b90-9ea8-4e00-91ae-ffc5dee845d4#ref=rss)
+### besatzungsmitglied
+
+* [https://www.spiegel.de/panorama/bremerhaven-besatzungsmitglied-von-autofrachter-toedlich-verunglueckt](https://www.spiegel.de/panorama/bremerhaven-besatzungsmitglied-von-autofrachter-toedlich-verunglueckt-a-08af9b90-9ea8-4e00-91ae-ffc5dee845d4#ref=rss)
+### autofrachter
+
+* [https://www.spiegel.de/panorama/bremerhaven-besatzungsmitglied-von-autofrachter-toedlich-verunglueckt](https://www.spiegel.de/panorama/bremerhaven-besatzungsmitglied-von-autofrachter-toedlich-verunglueckt-a-08af9b90-9ea8-4e00-91ae-ffc5dee845d4#ref=rss)
+### unter
+
+* [https://www.spiegel.de/panorama/bremerhaven-besatzungsmitglied-von-autofrachter-toedlich-verunglueckt](https://www.spiegel.de/panorama/bremerhaven-besatzungsmitglied-von-autofrachter-toedlich-verunglueckt-a-08af9b90-9ea8-4e00-91ae-ffc5dee845d4#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/reichsbuerger-gaben-sich-als-staatsanwaelte-aus](https://www.spiegel.de/panorama/justiz/reichsbuerger-gaben-sich-als-staatsanwaelte-aus-a-fb2ab21a-48a7-46e7-b9d8-199973abcbf8#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/bremerhaven-besatzungsmitglied-von-autofrachter-toedlich-verunglueckt](https://www.spiegel.de/panorama/bremerhaven-besatzungsmitglied-von-autofrachter-toedlich-verunglueckt-a-08af9b90-9ea8-4e00-91ae-ffc5dee845d4#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/landkreis-soemmerda-in-thueringen-polizei-rettet-200-schafe-vor-kaelte](https://www.spiegel.de/panorama/justiz/landkreis-soemmerda-in-thueringen-polizei-rettet-200-schafe-vor-kaelte-a-eb885d7a-a0f1-4c58-adf9-fe342cd4db1b#ref=rss)
+### karl
+
+* [https://www.spiegel.de/gesundheit/homoeopathie-was-sie-ueber-karl-lauterbachs-plaene-wissen-muessen](https://www.spiegel.de/gesundheit/homoeopathie-was-sie-ueber-karl-lauterbachs-plaene-wissen-muessen-a-272e8e1d-db31-4dcd-9e4c-484a8541c6e6#ref=rss)
+* [https://www.spiegel.de/gesundheit/homoeopathie-als-kassenleistung-die-suessen-jahre-sind-vorbei](https://www.spiegel.de/gesundheit/homoeopathie-als-kassenleistung-die-suessen-jahre-sind-vorbei-a-9ca745d7-06bf-4509-938a-5093ad9e590a#ref=rss)
+### krankenkassen
+
+* [https://www.spiegel.de/gesundheit/homoeopathie-was-sie-ueber-karl-lauterbachs-plaene-wissen-muessen](https://www.spiegel.de/gesundheit/homoeopathie-was-sie-ueber-karl-lauterbachs-plaene-wissen-muessen-a-272e8e1d-db31-4dcd-9e4c-484a8541c6e6#ref=rss)
+* [https://www.spiegel.de/gesundheit/homoeopathie-als-kassenleistung-die-suessen-jahre-sind-vorbei](https://www.spiegel.de/gesundheit/homoeopathie-als-kassenleistung-die-suessen-jahre-sind-vorbei-a-9ca745d7-06bf-4509-938a-5093ad9e590a#ref=rss)
+### homöopathische
+
+* [https://www.spiegel.de/gesundheit/homoeopathie-was-sie-ueber-karl-lauterbachs-plaene-wissen-muessen](https://www.spiegel.de/gesundheit/homoeopathie-was-sie-ueber-karl-lauterbachs-plaene-wissen-muessen-a-272e8e1d-db31-4dcd-9e4c-484a8541c6e6#ref=rss)
+* [https://www.spiegel.de/gesundheit/homoeopathie-als-kassenleistung-die-suessen-jahre-sind-vorbei](https://www.spiegel.de/gesundheit/homoeopathie-als-kassenleistung-die-suessen-jahre-sind-vorbei-a-9ca745d7-06bf-4509-938a-5093ad9e590a#ref=rss)
+### denn
+
+* [https://www.spiegel.de/gesundheit/homoeopathie-als-kassenleistung-die-suessen-jahre-sind-vorbei](https://www.spiegel.de/gesundheit/homoeopathie-als-kassenleistung-die-suessen-jahre-sind-vorbei-a-9ca745d7-06bf-4509-938a-5093ad9e590a#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/bitcoin-etfs-spekulation-um-der-spekulation-willen-kommentar](https://www.spiegel.de/netzwelt/netzpolitik/bitcoin-etfs-spekulation-um-der-spekulation-willen-kommentar-a-66ee60d2-0aae-4570-8272-114b1c5e5250#ref=rss)
+### derzeit
+
+* [https://www.spiegel.de/gesundheit/homoeopathie-als-kassenleistung-die-suessen-jahre-sind-vorbei](https://www.spiegel.de/gesundheit/homoeopathie-als-kassenleistung-die-suessen-jahre-sind-vorbei-a-9ca745d7-06bf-4509-938a-5093ad9e590a#ref=rss)
+* [https://www.spiegel.de/ausland/taiwan-was-koennte-der-inselstaat-einer-invasion-durch-china-entgegensetzen](https://www.spiegel.de/ausland/taiwan-was-koennte-der-inselstaat-einer-invasion-durch-china-entgegensetzen-a-30ae35db-4cd0-4d98-8197-8fcbe9b311c0#ref=rss)
+### spekulation
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/bitcoin-etfs-spekulation-um-der-spekulation-willen-kommentar](https://www.spiegel.de/netzwelt/netzpolitik/bitcoin-etfs-spekulation-um-der-spekulation-willen-kommentar-a-66ee60d2-0aae-4570-8272-114b1c5e5250#ref=rss)
+### hinter
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/bitcoin-etfs-spekulation-um-der-spekulation-willen-kommentar](https://www.spiegel.de/netzwelt/netzpolitik/bitcoin-etfs-spekulation-um-der-spekulation-willen-kommentar-a-66ee60d2-0aae-4570-8272-114b1c5e5250#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/tasmanien-kathleen-murray-besitzt-den-haesslichsten-rasen-der-welt](https://www.spiegel.de/wissenschaft/natur/tasmanien-kathleen-murray-besitzt-den-haesslichsten-rasen-der-welt-a-3f3c5332-3e56-462d-90bb-b118df6c2dc8#ref=rss)
+### rechten
+
+* [https://www.spiegel.de/politik/deutschland/rolf-muetzenich-spd-fraktionschef-fordert-antwort-auf-rechten-sumpf](https://www.spiegel.de/politik/deutschland/rolf-muetzenich-spd-fraktionschef-fordert-antwort-auf-rechten-sumpf-a-8073f30e-95f2-4c57-afbb-c07aad553cf1#ref=rss)
+* [https://www.spiegel.de/geschichte/ns-plan-zur-massenvertreibung-1940-die-historischen-vorbilder-des-rechten-geheimtreffens](https://www.spiegel.de/geschichte/ns-plan-zur-massenvertreibung-1940-die-historischen-vorbilder-des-rechten-geheimtreffens-a-1400593c-b78e-4fcf-8992-130337e28aa2#ref=rss)
+### rechtsextremen
+
+* [https://www.spiegel.de/politik/deutschland/rolf-muetzenich-spd-fraktionschef-fordert-antwort-auf-rechten-sumpf](https://www.spiegel.de/politik/deutschland/rolf-muetzenich-spd-fraktionschef-fordert-antwort-auf-rechten-sumpf-a-8073f30e-95f2-4c57-afbb-c07aad553cf1#ref=rss)
+* [https://www.spiegel.de/geschichte/ns-plan-zur-massenvertreibung-1940-die-historischen-vorbilder-des-rechten-geheimtreffens](https://www.spiegel.de/geschichte/ns-plan-zur-massenvertreibung-1940-die-historischen-vorbilder-des-rechten-geheimtreffens-a-1400593c-b78e-4fcf-8992-130337e28aa2#ref=rss)
+### 1940
+
+* [https://www.spiegel.de/geschichte/ns-plan-zur-massenvertreibung-1940-die-historischen-vorbilder-des-rechten-geheimtreffens](https://www.spiegel.de/geschichte/ns-plan-zur-massenvertreibung-1940-die-historischen-vorbilder-des-rechten-geheimtreffens-a-1400593c-b78e-4fcf-8992-130337e28aa2#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/geschichte/ns-plan-zur-massenvertreibung-1940-die-historischen-vorbilder-des-rechten-geheimtreffens](https://www.spiegel.de/geschichte/ns-plan-zur-massenvertreibung-1940-die-historischen-vorbilder-des-rechten-geheimtreffens-a-1400593c-b78e-4fcf-8992-130337e28aa2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/vip-flotte-der-bundeswehr-bundesregierung-will-drei-neue-luxus-hubschrauber-kaufen](https://www.spiegel.de/politik/deutschland/vip-flotte-der-bundeswehr-bundesregierung-will-drei-neue-luxus-hubschrauber-kaufen-a-87a5c959-9220-4571-bbaf-f34f9de0d62f#ref=rss)
+### claus
+
+* [https://www.spiegel.de/politik/claus-weselsky-unsere-kollegen-werden-gezwungen-unwahrheiten-durch-die-zugansage-zu-verkuenden](https://www.spiegel.de/politik/claus-weselsky-unsere-kollegen-werden-gezwungen-unwahrheiten-durch-die-zugansage-zu-verkuenden-a-ee9cd838-35c7-4140-ab2f-e67cd66c9a2c#ref=rss)
+### weselsky
+
+* [https://www.spiegel.de/politik/claus-weselsky-unsere-kollegen-werden-gezwungen-unwahrheiten-durch-die-zugansage-zu-verkuenden](https://www.spiegel.de/politik/claus-weselsky-unsere-kollegen-werden-gezwungen-unwahrheiten-durch-die-zugansage-zu-verkuenden-a-ee9cd838-35c7-4140-ab2f-e67cd66c9a2c#ref=rss)
+### ulrich
+
+* [https://www.spiegel.de/politik/deutschland/afd-geheimplan-enthuellungen-um-ulrich-siegmund-der-privatmann-beim-deportationsgipfel](https://www.spiegel.de/politik/deutschland/afd-geheimplan-enthuellungen-um-ulrich-siegmund-der-privatmann-beim-deportationsgipfel-a-d448b9f1-3315-4965-b412-d46821a49de2#ref=rss)
+### siegmund
+
+* [https://www.spiegel.de/politik/deutschland/afd-geheimplan-enthuellungen-um-ulrich-siegmund-der-privatmann-beim-deportationsgipfel](https://www.spiegel.de/politik/deutschland/afd-geheimplan-enthuellungen-um-ulrich-siegmund-der-privatmann-beim-deportationsgipfel-a-d448b9f1-3315-4965-b412-d46821a49de2#ref=rss)
+### reichsbürger
+
+* [https://www.spiegel.de/panorama/justiz/reichsbuerger-gaben-sich-als-staatsanwaelte-aus](https://www.spiegel.de/panorama/justiz/reichsbuerger-gaben-sich-als-staatsanwaelte-aus-a-fb2ab21a-48a7-46e7-b9d8-199973abcbf8#ref=rss)
+### titel
+
+* [https://www.spiegel.de/panorama/justiz/reichsbuerger-gaben-sich-als-staatsanwaelte-aus](https://www.spiegel.de/panorama/justiz/reichsbuerger-gaben-sich-als-staatsanwaelte-aus-a-fb2ab21a-48a7-46e7-b9d8-199973abcbf8#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/tasmanien-kathleen-murray-besitzt-den-haesslichsten-rasen-der-welt](https://www.spiegel.de/wissenschaft/natur/tasmanien-kathleen-murray-besitzt-den-haesslichsten-rasen-der-welt-a-3f3c5332-3e56-462d-90bb-b118df6c2dc8#ref=rss)
+### new
+
+* [https://www.spiegel.de/sport/american-football/nfl-new-england-patriots-trennen-sich-offenbar-von-erfolgstrainer-bill-belichick](https://www.spiegel.de/sport/american-football/nfl-new-england-patriots-trennen-sich-offenbar-von-erfolgstrainer-bill-belichick-a-8c4a224b-757c-4d01-a045-2b6e9775ac01#ref=rss)
+### england
+
+* [https://www.spiegel.de/sport/american-football/nfl-new-england-patriots-trennen-sich-offenbar-von-erfolgstrainer-bill-belichick](https://www.spiegel.de/sport/american-football/nfl-new-england-patriots-trennen-sich-offenbar-von-erfolgstrainer-bill-belichick-a-8c4a224b-757c-4d01-a045-2b6e9775ac01#ref=rss)
+### patriots
+
+* [https://www.spiegel.de/sport/american-football/nfl-new-england-patriots-trennen-sich-offenbar-von-erfolgstrainer-bill-belichick](https://www.spiegel.de/sport/american-football/nfl-new-england-patriots-trennen-sich-offenbar-von-erfolgstrainer-bill-belichick-a-8c4a224b-757c-4d01-a045-2b6e9775ac01#ref=rss)
+### bill
+
+* [https://www.spiegel.de/sport/american-football/nfl-new-england-patriots-trennen-sich-offenbar-von-erfolgstrainer-bill-belichick](https://www.spiegel.de/sport/american-football/nfl-new-england-patriots-trennen-sich-offenbar-von-erfolgstrainer-bill-belichick-a-8c4a224b-757c-4d01-a045-2b6e9775ac01#ref=rss)
+### belichick
+
+* [https://www.spiegel.de/sport/american-football/nfl-new-england-patriots-trennen-sich-offenbar-von-erfolgstrainer-bill-belichick](https://www.spiegel.de/sport/american-football/nfl-new-england-patriots-trennen-sich-offenbar-von-erfolgstrainer-bill-belichick-a-8c4a224b-757c-4d01-a045-2b6e9775ac01#ref=rss)
+### cdu
+
+* [https://www.spiegel.de/wirtschaft/buergergeld-debatte-cdu-will-arbeitslosengeld-anheben-fuer-langjaehrig-versicherte](https://www.spiegel.de/wirtschaft/buergergeld-debatte-cdu-will-arbeitslosengeld-anheben-fuer-langjaehrig-versicherte-a-f3c18fb3-6e7b-4789-aa91-7b97d716b701#ref=rss)
+### landkreis
+
+* [https://www.spiegel.de/panorama/justiz/landkreis-soemmerda-in-thueringen-polizei-rettet-200-schafe-vor-kaelte](https://www.spiegel.de/panorama/justiz/landkreis-soemmerda-in-thueringen-polizei-rettet-200-schafe-vor-kaelte-a-eb885d7a-a0f1-4c58-adf9-fe342cd4db1b#ref=rss)
+### sömmerda
+
+* [https://www.spiegel.de/panorama/justiz/landkreis-soemmerda-in-thueringen-polizei-rettet-200-schafe-vor-kaelte](https://www.spiegel.de/panorama/justiz/landkreis-soemmerda-in-thueringen-polizei-rettet-200-schafe-vor-kaelte-a-eb885d7a-a0f1-4c58-adf9-fe342cd4db1b#ref=rss)
+### kam
+
+* [https://www.spiegel.de/panorama/justiz/landkreis-soemmerda-in-thueringen-polizei-rettet-200-schafe-vor-kaelte](https://www.spiegel.de/panorama/justiz/landkreis-soemmerda-in-thueringen-polizei-rettet-200-schafe-vor-kaelte-a-eb885d7a-a0f1-4c58-adf9-fe342cd4db1b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/afrika-cup-fussball-nationalteam-von-gambia-muss-notlanden](https://www.spiegel.de/sport/fussball/afrika-cup-fussball-nationalteam-von-gambia-muss-notlanden-a-779f2dc0-0cbe-4ce1-a1e2-540d1d00e93f#ref=rss)
+### svengöran
+
+* [https://www.spiegel.de/sport/fussball/sven-goeran-eriksson-an-krebs-erkrankt-habe-bestenfalls-noch-ein-jahr](https://www.spiegel.de/sport/fussball/sven-goeran-eriksson-an-krebs-erkrankt-habe-bestenfalls-noch-ein-jahr-a-cc68a523-a167-4cc2-a08e-b88e9d118558#ref=rss)
+### eriksson
+
+* [https://www.spiegel.de/sport/fussball/sven-goeran-eriksson-an-krebs-erkrankt-habe-bestenfalls-noch-ein-jahr](https://www.spiegel.de/sport/fussball/sven-goeran-eriksson-an-krebs-erkrankt-habe-bestenfalls-noch-ein-jahr-a-cc68a523-a167-4cc2-a08e-b88e9d118558#ref=rss)
+### bestenfalls
+
+* [https://www.spiegel.de/sport/fussball/sven-goeran-eriksson-an-krebs-erkrankt-habe-bestenfalls-noch-ein-jahr](https://www.spiegel.de/sport/fussball/sven-goeran-eriksson-an-krebs-erkrankt-habe-bestenfalls-noch-ein-jahr-a-cc68a523-a167-4cc2-a08e-b88e9d118558#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/sport/fussball/sven-goeran-eriksson-an-krebs-erkrankt-habe-bestenfalls-noch-ein-jahr](https://www.spiegel.de/sport/fussball/sven-goeran-eriksson-an-krebs-erkrankt-habe-bestenfalls-noch-ein-jahr-a-cc68a523-a167-4cc2-a08e-b88e9d118558#ref=rss)
+### leben
+
+* [https://www.spiegel.de/sport/fussball/sven-goeran-eriksson-an-krebs-erkrankt-habe-bestenfalls-noch-ein-jahr](https://www.spiegel.de/sport/fussball/sven-goeran-eriksson-an-krebs-erkrankt-habe-bestenfalls-noch-ein-jahr-a-cc68a523-a167-4cc2-a08e-b88e9d118558#ref=rss)
+* [https://www.spiegel.de/sport/fussball/afrika-cup-fussball-nationalteam-von-gambia-muss-notlanden](https://www.spiegel.de/sport/fussball/afrika-cup-fussball-nationalteam-von-gambia-muss-notlanden-a-779f2dc0-0cbe-4ce1-a1e2-540d1d00e93f#ref=rss)
+### oman
+
+* [https://www.spiegel.de/ausland/golf-von-oman-iran-bekennt-sich-zu-entfuehrung-von-oeltanker-st-nikolas](https://www.spiegel.de/ausland/golf-von-oman-iran-bekennt-sich-zu-entfuehrung-von-oeltanker-st-nikolas-a-3e08e09d-6400-4549-a620-e22cdf9e9218#ref=rss)
+### st
+
+* [https://www.spiegel.de/ausland/golf-von-oman-iran-bekennt-sich-zu-entfuehrung-von-oeltanker-st-nikolas](https://www.spiegel.de/ausland/golf-von-oman-iran-bekennt-sich-zu-entfuehrung-von-oeltanker-st-nikolas-a-3e08e09d-6400-4549-a620-e22cdf9e9218#ref=rss)
+### nikolas
+
+* [https://www.spiegel.de/ausland/golf-von-oman-iran-bekennt-sich-zu-entfuehrung-von-oeltanker-st-nikolas](https://www.spiegel.de/ausland/golf-von-oman-iran-bekennt-sich-zu-entfuehrung-von-oeltanker-st-nikolas-a-3e08e09d-6400-4549-a620-e22cdf9e9218#ref=rss)
+### taiwan
+
+* [https://www.spiegel.de/ausland/taiwan-was-koennte-der-inselstaat-einer-invasion-durch-china-entgegensetzen](https://www.spiegel.de/ausland/taiwan-was-koennte-der-inselstaat-einer-invasion-durch-china-entgegensetzen-a-30ae35db-4cd0-4d98-8197-8fcbe9b311c0#ref=rss)
+### inselstaat
+
+* [https://www.spiegel.de/ausland/taiwan-was-koennte-der-inselstaat-einer-invasion-durch-china-entgegensetzen](https://www.spiegel.de/ausland/taiwan-was-koennte-der-inselstaat-einer-invasion-durch-china-entgegensetzen-a-30ae35db-4cd0-4d98-8197-8fcbe9b311c0#ref=rss)
+### verständnis
+
+* [https://www.spiegel.de/politik/deutschland/bauernproteste-mehrheit-der-deutschen-hat-verstaendnis-fuer-demonstrationen](https://www.spiegel.de/politik/deutschland/bauernproteste-mehrheit-der-deutschen-hat-verstaendnis-fuer-demonstrationen-a-e3f22be6-fb9b-45ac-94ce-3a2750542310#ref=rss)
+### demonstrationen
+
+* [https://www.spiegel.de/politik/deutschland/bauernproteste-mehrheit-der-deutschen-hat-verstaendnis-fuer-demonstrationen](https://www.spiegel.de/politik/deutschland/bauernproteste-mehrheit-der-deutschen-hat-verstaendnis-fuer-demonstrationen-a-e3f22be6-fb9b-45ac-94ce-3a2750542310#ref=rss)
+### drei
+
+* [https://www.spiegel.de/politik/deutschland/vip-flotte-der-bundeswehr-bundesregierung-will-drei-neue-luxus-hubschrauber-kaufen](https://www.spiegel.de/politik/deutschland/vip-flotte-der-bundeswehr-bundesregierung-will-drei-neue-luxus-hubschrauber-kaufen-a-87a5c959-9220-4571-bbaf-f34f9de0d62f#ref=rss)
+### neue
+
+* [https://www.spiegel.de/politik/deutschland/vip-flotte-der-bundeswehr-bundesregierung-will-drei-neue-luxus-hubschrauber-kaufen](https://www.spiegel.de/politik/deutschland/vip-flotte-der-bundeswehr-bundesregierung-will-drei-neue-luxus-hubschrauber-kaufen-a-87a5c959-9220-4571-bbaf-f34f9de0d62f#ref=rss)
+### asienmeisterschaft
+
+* [https://www.spiegel.de/sport/fussball/afrika-cup-und-asienmeisterschaft-zwei-turniere-die-die-bundesliga-mitentscheiden-koennten](https://www.spiegel.de/sport/fussball/afrika-cup-und-asienmeisterschaft-zwei-turniere-die-die-bundesliga-mitentscheiden-koennten-a-ab130603-e2fd-4c25-bce7-a0cca7fb74b1#ref=rss)
+### turniere
+
+* [https://www.spiegel.de/sport/fussball/afrika-cup-und-asienmeisterschaft-zwei-turniere-die-die-bundesliga-mitentscheiden-koennten](https://www.spiegel.de/sport/fussball/afrika-cup-und-asienmeisterschaft-zwei-turniere-die-die-bundesliga-mitentscheiden-koennten-a-ab130603-e2fd-4c25-bce7-a0cca7fb74b1#ref=rss)
+### tasmanien
+
+* [https://www.spiegel.de/wissenschaft/natur/tasmanien-kathleen-murray-besitzt-den-haesslichsten-rasen-der-welt](https://www.spiegel.de/wissenschaft/natur/tasmanien-kathleen-murray-besitzt-den-haesslichsten-rasen-der-welt-a-3f3c5332-3e56-462d-90bb-b118df6c2dc8#ref=rss)
+### hässlichsten
+
+* [https://www.spiegel.de/wissenschaft/natur/tasmanien-kathleen-murray-besitzt-den-haesslichsten-rasen-der-welt](https://www.spiegel.de/wissenschaft/natur/tasmanien-kathleen-murray-besitzt-den-haesslichsten-rasen-der-welt-a-3f3c5332-3e56-462d-90bb-b118df6c2dc8#ref=rss)
+### welt
+
+* [https://www.spiegel.de/wissenschaft/natur/tasmanien-kathleen-murray-besitzt-den-haesslichsten-rasen-der-welt](https://www.spiegel.de/wissenschaft/natur/tasmanien-kathleen-murray-besitzt-den-haesslichsten-rasen-der-welt-a-3f3c5332-3e56-462d-90bb-b118df6c2dc8#ref=rss)
 
