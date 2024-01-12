@@ -4,290 +4,296 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### usa
+### meer
 
-* [https://www.spiegel.de/ausland/usa-und-grossbritannien-greifen-huthi-rebellen-an-in-der-nacht-starteten-die-kampfjets](https://www.spiegel.de/ausland/usa-und-grossbritannien-greifen-huthi-rebellen-an-in-der-nacht-starteten-die-kampfjets-a-8508e8cd-069b-4b5c-b406-eb411945a782#ref=rss)
-* [https://www.spiegel.de/ausland/militaerschlag-gegen-huthi-milizen-grossbritannien-plant-vorerst-keine-weiteren-angriffe-im-jemen](https://www.spiegel.de/ausland/militaerschlag-gegen-huthi-milizen-grossbritannien-plant-vorerst-keine-weiteren-angriffe-im-jemen-a-7884025c-f7db-46fb-b717-68bde405b735#ref=rss)
-* [https://www.spiegel.de/ausland/militaerschlag-im-jemen-russland-beantragt-uno-sondersitzung-huthis-kuendigen-rache-an](https://www.spiegel.de/ausland/militaerschlag-im-jemen-russland-beantragt-uno-sondersitzung-huthis-kuendigen-rache-an-a-4777caf4-ff92-4f67-88ef-715066338558#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/tampa-florida-united-airlines-flug-wegen-moeglichen-tuerproblems-umgeleitet](https://www.spiegel.de/wirtschaft/unternehmen/tampa-florida-united-airlines-flug-wegen-moeglichen-tuerproblems-umgeleitet-a-c58b63c6-2fca-474c-b34d-3afc77336b06#ref=rss)
-* [https://www.spiegel.de/ausland/rotes-meer-militaerschlag-gegen-huthi-milizen-im-einklang-mit-uno-charta](https://www.spiegel.de/ausland/rotes-meer-militaerschlag-gegen-huthi-milizen-im-einklang-mit-uno-charta-a-702c4666-25e5-40b0-aad9-329a3ad45480#ref=rss)
-### großbritannien
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tesla-stoppt-voruebergehend-produktion-in-gruenheide-claus-weselsky-und-seine-gdl-beenden-streik-bundesliga-fussball-beginnt](https://www.spiegel.de/politik/deutschland/news-des-tages-tesla-stoppt-voruebergehend-produktion-in-gruenheide-claus-weselsky-und-seine-gdl-beenden-streik-bundesliga-fussball-beginnt-a-0c0c21f8-d505-4b3e-8560-971cbb5977ac#ref=rss)
+* [https://www.spiegel.de/ausland/jemen-recep-tayyip-erdogan-nennt-angriffe-auf-huthi-stellungen-unverhaeltnismaessig](https://www.spiegel.de/ausland/jemen-recep-tayyip-erdogan-nennt-angriffe-auf-huthi-stellungen-unverhaeltnismaessig-a-fdbefcda-47db-4fc4-90af-8fdbeec4a8dc#ref=rss)
+* [https://www.spiegel.de/politik/rotes-meer-eu-plant-eigene-marinemission-wegen-huthi-angriffen](https://www.spiegel.de/politik/rotes-meer-eu-plant-eigene-marinemission-wegen-huthi-angriffen-a-d5ef3b81-ed4a-4adf-afbc-7a0c917fe9b5#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/ausland/usa-und-grossbritannien-greifen-huthi-rebellen-an-in-der-nacht-starteten-die-kampfjets](https://www.spiegel.de/ausland/usa-und-grossbritannien-greifen-huthi-rebellen-an-in-der-nacht-starteten-die-kampfjets-a-8508e8cd-069b-4b5c-b406-eb411945a782#ref=rss)
-* [https://www.spiegel.de/ausland/militaerschlag-gegen-huthi-milizen-grossbritannien-plant-vorerst-keine-weiteren-angriffe-im-jemen](https://www.spiegel.de/ausland/militaerschlag-gegen-huthi-milizen-grossbritannien-plant-vorerst-keine-weiteren-angriffe-im-jemen-a-7884025c-f7db-46fb-b717-68bde405b735#ref=rss)
-### jemen
+* [https://www.spiegel.de/sport/wintersport/franziska-preuss-beim-biathlon-weltcup-in-ruhpolding-ohne-podestplatz](https://www.spiegel.de/sport/wintersport/franziska-preuss-beim-biathlon-weltcup-in-ruhpolding-ohne-podestplatz-a-6482b426-ae7c-41b7-8ba0-68909eee7dfb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-bauindustrie-meldet-zweifel-an-zeitplan-fuer-schienensanierung-an](https://www.spiegel.de/wirtschaft/deutsche-bahn-bauindustrie-meldet-zweifel-an-zeitplan-fuer-schienensanierung-an-a-ed37de40-b681-40e7-9726-e30455b1c282#ref=rss)
+* [https://www.spiegel.de/politik/rotes-meer-eu-plant-eigene-marinemission-wegen-huthi-angriffen](https://www.spiegel.de/politik/rotes-meer-eu-plant-eigene-marinemission-wegen-huthi-angriffen-a-d5ef3b81-ed4a-4adf-afbc-7a0c917fe9b5#ref=rss)
+### verurteilt
 
-* [https://www.spiegel.de/ausland/usa-und-grossbritannien-greifen-huthi-rebellen-an-in-der-nacht-starteten-die-kampfjets](https://www.spiegel.de/ausland/usa-und-grossbritannien-greifen-huthi-rebellen-an-in-der-nacht-starteten-die-kampfjets-a-8508e8cd-069b-4b5c-b406-eb411945a782#ref=rss)
-* [https://www.spiegel.de/ausland/militaerschlag-gegen-huthi-milizen-grossbritannien-plant-vorerst-keine-weiteren-angriffe-im-jemen](https://www.spiegel.de/ausland/militaerschlag-gegen-huthi-milizen-grossbritannien-plant-vorerst-keine-weiteren-angriffe-im-jemen-a-7884025c-f7db-46fb-b717-68bde405b735#ref=rss)
-* [https://www.spiegel.de/ausland/militaerschlag-im-jemen-russland-beantragt-uno-sondersitzung-huthis-kuendigen-rache-an](https://www.spiegel.de/ausland/militaerschlag-im-jemen-russland-beantragt-uno-sondersitzung-huthis-kuendigen-rache-an-a-4777caf4-ff92-4f67-88ef-715066338558#ref=rss)
-* [https://www.spiegel.de/ausland/rotes-meer-militaerschlag-gegen-huthi-milizen-im-einklang-mit-uno-charta](https://www.spiegel.de/ausland/rotes-meer-militaerschlag-gegen-huthi-milizen-im-einklang-mit-uno-charta-a-702c4666-25e5-40b0-aad9-329a3ad45480#ref=rss)
-### mehr
+* [https://www.spiegel.de/panorama/justiz/italien-liebhaberin-von-mafiaboss-matteo-messina-denaro-zu-haftstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/italien-liebhaberin-von-mafiaboss-matteo-messina-denaro-zu-haftstrafe-verurteilt-a-cded44b2-c315-4f87-9514-a20dae5d0306#ref=rss)
+* [https://www.spiegel.de/wirtschaft/post-office-groesster-justizirrtum-des-landes-bewegt-grossbritannien](https://www.spiegel.de/wirtschaft/post-office-groesster-justizirrtum-des-landes-bewegt-grossbritannien-a-243dae9f-6ae1-4f47-999f-6b42b00eceb8#ref=rss)
+### essen
 
-* [https://www.spiegel.de/wissenschaft/natur/internationale-fischerei-mehr-tote-haie-trotz-schaerferem-schutz](https://www.spiegel.de/wissenschaft/natur/internationale-fischerei-mehr-tote-haie-trotz-schaerferem-schutz-a-2f300a6c-cd63-4b22-b378-48acb519593f#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/bildung-teilzeitquote-bei-lehrkraeften-erreicht-hoechsten-stand-seit-zehn-jahren](https://www.spiegel.de/panorama/bildung/bildung-teilzeitquote-bei-lehrkraeften-erreicht-hoechsten-stand-seit-zehn-jahren-a-22f8d821-2079-4eb7-9fae-45249eac594b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/airbus-verkauft-so-viele-flugzeuge-wie-nie](https://www.spiegel.de/wirtschaft/unternehmen/airbus-verkauft-so-viele-flugzeuge-wie-nie-a-d74321a5-cfad-4a4e-b949-8c00680ca5fb#ref=rss)
-### polizei
+* [https://www.spiegel.de/panorama/justiz/italien-liebhaberin-von-mafiaboss-matteo-messina-denaro-zu-haftstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/italien-liebhaberin-von-mafiaboss-matteo-messina-denaro-zu-haftstrafe-verurteilt-a-cded44b2-c315-4f87-9514-a20dae5d0306#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/essen-influencer-soll-sich-mit-obdachlosem-spenden-ergaunert-haben](https://www.spiegel.de/netzwelt/web/essen-influencer-soll-sich-mit-obdachlosem-spenden-ergaunert-haben-a-16c5180d-e146-445b-b3c4-f11a63f7cf17#ref=rss)
+### roten
 
-* [https://www.spiegel.de/panorama/justiz/landkreis-karlsruhe-erzieher-nach-mutmasslichem-kindesmissbrauch-in-untersuchungshaft](https://www.spiegel.de/panorama/justiz/landkreis-karlsruhe-erzieher-nach-mutmasslichem-kindesmissbrauch-in-untersuchungshaft-a-b8af0a78-f160-4d78-a622-f5e25931e463#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/christina-block-sorgerechtsstreit-polizei-durchsucht-offenbar-villa-und-wohnhaus-der-familie-block](https://www.spiegel.de/panorama/justiz/christina-block-sorgerechtsstreit-polizei-durchsucht-offenbar-villa-und-wohnhaus-der-familie-block-a-e982a86d-feae-40c3-984b-9ffe59c719a1#ref=rss)
-### haie
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tesla-stoppt-voruebergehend-produktion-in-gruenheide-claus-weselsky-und-seine-gdl-beenden-streik-bundesliga-fussball-beginnt](https://www.spiegel.de/politik/deutschland/news-des-tages-tesla-stoppt-voruebergehend-produktion-in-gruenheide-claus-weselsky-und-seine-gdl-beenden-streik-bundesliga-fussball-beginnt-a-0c0c21f8-d505-4b3e-8560-971cbb5977ac#ref=rss)
+* [https://www.spiegel.de/ausland/jemen-recep-tayyip-erdogan-nennt-angriffe-auf-huthi-stellungen-unverhaeltnismaessig](https://www.spiegel.de/ausland/jemen-recep-tayyip-erdogan-nennt-angriffe-auf-huthi-stellungen-unverhaeltnismaessig-a-fdbefcda-47db-4fc4-90af-8fdbeec4a8dc#ref=rss)
+* [https://www.spiegel.de/politik/rotes-meer-eu-plant-eigene-marinemission-wegen-huthi-angriffen](https://www.spiegel.de/politik/rotes-meer-eu-plant-eigene-marinemission-wegen-huthi-angriffen-a-d5ef3b81-ed4a-4adf-afbc-7a0c917fe9b5#ref=rss)
+### ring
 
-* [https://www.spiegel.de/wissenschaft/natur/internationale-fischerei-mehr-tote-haie-trotz-schaerferem-schutz](https://www.spiegel.de/wissenschaft/natur/internationale-fischerei-mehr-tote-haie-trotz-schaerferem-schutz-a-2f300a6c-cd63-4b22-b378-48acb519593f#ref=rss)
-### viele
+* [https://www.spiegel.de/wissenschaft/weltall/grosser-ring-big-ring-raetselhafte-riesen-struktur-im-all-entdeckt](https://www.spiegel.de/wissenschaft/weltall/grosser-ring-big-ring-raetselhafte-riesen-struktur-im-all-entdeckt-a-8f2f5c03-7caf-4d1b-87d2-5f5794c15d81#ref=rss)
+### woche
 
-* [https://www.spiegel.de/wissenschaft/natur/internationale-fischerei-mehr-tote-haie-trotz-schaerferem-schutz](https://www.spiegel.de/wissenschaft/natur/internationale-fischerei-mehr-tote-haie-trotz-schaerferem-schutz-a-2f300a6c-cd63-4b22-b378-48acb519593f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/deutschland-verbraucher-heizen-wieder-grosszuegiger](https://www.spiegel.de/wirtschaft/service/deutschland-verbraucher-heizen-wieder-grosszuegiger-a-13edec5a-077d-4028-98d3-44042820f8c2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/airbus-verkauft-so-viele-flugzeuge-wie-nie](https://www.spiegel.de/wirtschaft/unternehmen/airbus-verkauft-so-viele-flugzeuge-wie-nie-a-d74321a5-cfad-4a4e-b949-8c00680ca5fb#ref=rss)
-### zeigt
+* [https://www.spiegel.de/kultur/musik/abgehoert-album-der-woche-mit-marika-hackman-kolumne](https://www.spiegel.de/kultur/musik/abgehoert-album-der-woche-mit-marika-hackman-kolumne-a-ece5e448-96d1-4ccb-933b-737d93562418#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/discover-airlines-piloten-sollen-ueber-streik-bei-lufthansa-tochter-abstimmen](https://www.spiegel.de/wirtschaft/unternehmen/discover-airlines-piloten-sollen-ueber-streik-bei-lufthansa-tochter-abstimmen-a-baf651d0-9acd-4efc-94af-78e2f4e31b67#ref=rss)
+### erste
 
-* [https://www.spiegel.de/wissenschaft/natur/internationale-fischerei-mehr-tote-haie-trotz-schaerferem-schutz](https://www.spiegel.de/wissenschaft/natur/internationale-fischerei-mehr-tote-haie-trotz-schaerferem-schutz-a-2f300a6c-cd63-4b22-b378-48acb519593f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/deutschland-verbraucher-heizen-wieder-grosszuegiger](https://www.spiegel.de/wirtschaft/service/deutschland-verbraucher-heizen-wieder-grosszuegiger-a-13edec5a-077d-4028-98d3-44042820f8c2#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-seine-angst-vor-dem-urteil-wutausbruch-in-new-yorker-betrugsprozess](https://www.spiegel.de/ausland/donald-trump-und-seine-angst-vor-dem-urteil-wutausbruch-in-new-yorker-betrugsprozess-a-cb357355-83c5-4ebd-87e6-cfe6b9680878#ref=rss)
-### huthis
+* [https://www.spiegel.de/kultur/musik/abgehoert-album-der-woche-mit-marika-hackman-kolumne](https://www.spiegel.de/kultur/musik/abgehoert-album-der-woche-mit-marika-hackman-kolumne-a-ece5e448-96d1-4ccb-933b-737d93562418#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/stuttgart-staatsanwaltschaft-erhebt-erste-anklage-nach-randale-auf-eritrea-treffen](https://www.spiegel.de/panorama/justiz/stuttgart-staatsanwaltschaft-erhebt-erste-anklage-nach-randale-auf-eritrea-treffen-a-c4b0da4d-2f24-42b4-ba61-86610be674d1#ref=rss)
+### schaffen
 
-* [https://www.spiegel.de/ausland/militaerschlag-gegen-huthi-milizen-grossbritannien-plant-vorerst-keine-weiteren-angriffe-im-jemen](https://www.spiegel.de/ausland/militaerschlag-gegen-huthi-milizen-grossbritannien-plant-vorerst-keine-weiteren-angriffe-im-jemen-a-7884025c-f7db-46fb-b717-68bde405b735#ref=rss)
-* [https://www.spiegel.de/ausland/militaerschlag-im-jemen-russland-beantragt-uno-sondersitzung-huthis-kuendigen-rache-an](https://www.spiegel.de/ausland/militaerschlag-im-jemen-russland-beantragt-uno-sondersitzung-huthis-kuendigen-rache-an-a-4777caf4-ff92-4f67-88ef-715066338558#ref=rss)
-### huthimilizen
+* [https://www.spiegel.de/wirtschaft/bundesrechnungshof-beklagt-sanierungsstau-bei-autobahnbruecken](https://www.spiegel.de/wirtschaft/bundesrechnungshof-beklagt-sanierungsstau-bei-autobahnbruecken-a-70cf9451-a64d-433b-a0e7-807d47b54789#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-bauindustrie-meldet-zweifel-an-zeitplan-fuer-schienensanierung-an](https://www.spiegel.de/wirtschaft/deutsche-bahn-bauindustrie-meldet-zweifel-an-zeitplan-fuer-schienensanierung-an-a-ed37de40-b681-40e7-9726-e30455b1c282#ref=rss)
+* [https://www.spiegel.de/kultur/berlinale-zeichnet-deutschen-regisseur-edgar-reitz-aus](https://www.spiegel.de/kultur/berlinale-zeichnet-deutschen-regisseur-edgar-reitz-aus-a-06642e9f-7a36-4078-bea0-78c1b89ef1b6#ref=rss)
+### reagiert
 
-* [https://www.spiegel.de/ausland/militaerschlag-gegen-huthi-milizen-grossbritannien-plant-vorerst-keine-weiteren-angriffe-im-jemen](https://www.spiegel.de/ausland/militaerschlag-gegen-huthi-milizen-grossbritannien-plant-vorerst-keine-weiteren-angriffe-im-jemen-a-7884025c-f7db-46fb-b717-68bde405b735#ref=rss)
-* [https://www.spiegel.de/ausland/rotes-meer-militaerschlag-gegen-huthi-milizen-im-einklang-mit-uno-charta](https://www.spiegel.de/ausland/rotes-meer-militaerschlag-gegen-huthi-milizen-im-einklang-mit-uno-charta-a-702c4666-25e5-40b0-aad9-329a3ad45480#ref=rss)
-### russland
+* [https://www.spiegel.de/ausland/jemen-recep-tayyip-erdogan-nennt-angriffe-auf-huthi-stellungen-unverhaeltnismaessig](https://www.spiegel.de/ausland/jemen-recep-tayyip-erdogan-nennt-angriffe-auf-huthi-stellungen-unverhaeltnismaessig-a-fdbefcda-47db-4fc4-90af-8fdbeec4a8dc#ref=rss)
+* [https://www.spiegel.de/sport/eishockey/deutscher-eishockey-bund-reagiert-bestuerzt-auf-ausschluss-israels-weltverband-rudert-zurueck](https://www.spiegel.de/sport/eishockey/deutscher-eishockey-bund-reagiert-bestuerzt-auf-ausschluss-israels-weltverband-rudert-zurueck-a-57f919d3-58b2-4a32-985c-66474699f461#ref=rss)
+### spiegelinformationen
 
-* [https://www.spiegel.de/ausland/militaerschlag-im-jemen-russland-beantragt-uno-sondersitzung-huthis-kuendigen-rache-an](https://www.spiegel.de/ausland/militaerschlag-im-jemen-russland-beantragt-uno-sondersitzung-huthis-kuendigen-rache-an-a-4777caf4-ff92-4f67-88ef-715066338558#ref=rss)
-* [https://www.spiegel.de/ausland/maria-woronzowa-putins-tochter-gibt-skurriles-interview-ueber-den-wert-des-menschlichen-lebens](https://www.spiegel.de/ausland/maria-woronzowa-putins-tochter-gibt-skurriles-interview-ueber-den-wert-des-menschlichen-lebens-a-2ec8d14d-663a-4397-881b-209df35b8153#ref=rss)
-### airbus
+* [https://www.spiegel.de/politik/deutschland/ruestungsexporte-verbleib-der-waffen-im-ausland-wird-kaum-kontrolliert](https://www.spiegel.de/politik/deutschland/ruestungsexporte-verbleib-der-waffen-im-ausland-wird-kaum-kontrolliert-a-e0f16991-bba9-4b94-8ebe-2d8f8b263e2a#ref=rss)
+* [https://www.spiegel.de/politik/rotes-meer-eu-plant-eigene-marinemission-wegen-huthi-angriffen](https://www.spiegel.de/politik/rotes-meer-eu-plant-eigene-marinemission-wegen-huthi-angriffen-a-d5ef3b81-ed4a-4adf-afbc-7a0c917fe9b5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/peter-kurth-cdu-politiker-war-gastgeber-fuer-rechtsextreme](https://www.spiegel.de/politik/deutschland/peter-kurth-cdu-politiker-war-gastgeber-fuer-rechtsextreme-a-f3d92242-c607-4fa3-8c33-35fdd6027072#ref=rss)
+### preise
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/airbus-verkauft-so-viele-flugzeuge-wie-nie](https://www.spiegel.de/wirtschaft/unternehmen/airbus-verkauft-so-viele-flugzeuge-wie-nie-a-d74321a5-cfad-4a4e-b949-8c00680ca5fb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/tampa-florida-united-airlines-flug-wegen-moeglichen-tuerproblems-umgeleitet](https://www.spiegel.de/wirtschaft/unternehmen/tampa-florida-united-airlines-flug-wegen-moeglichen-tuerproblems-umgeleitet-a-c58b63c6-2fca-474c-b34d-3afc77336b06#ref=rss)
-### block
+* [https://www.spiegel.de/wirtschaft/service/mehrwertsteuer-in-der-gastronomie-restaurants-erhoehen-preise-auf-breiter-front](https://www.spiegel.de/wirtschaft/service/mehrwertsteuer-in-der-gastronomie-restaurants-erhoehen-preise-auf-breiter-front-a-01f75f2f-682c-43b6-a32a-1d70858a0ca4#ref=rss)
+### matteo
 
-* [https://www.spiegel.de/panorama/justiz/christina-block-sorgerechtsstreit-polizei-durchsucht-offenbar-villa-und-wohnhaus-der-familie-block](https://www.spiegel.de/panorama/justiz/christina-block-sorgerechtsstreit-polizei-durchsucht-offenbar-villa-und-wohnhaus-der-familie-block-a-e982a86d-feae-40c3-984b-9ffe59c719a1#ref=rss)
-### bahn
+* [https://www.spiegel.de/panorama/justiz/italien-liebhaberin-von-mafiaboss-matteo-messina-denaro-zu-haftstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/italien-liebhaberin-von-mafiaboss-matteo-messina-denaro-zu-haftstrafe-verurteilt-a-cded44b2-c315-4f87-9514-a20dae5d0306#ref=rss)
+### messina
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-chefs-sollen-noch-zinsen-auf-ihre-boni-bekommen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-chefs-sollen-noch-zinsen-auf-ihre-boni-bekommen-a-59d75736-de5e-45cd-9e9a-a836c39cbd1f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/fair-train-gruendung-und-gdl-streik-wie-claus-weselsky-sein-erbe-aufs-spiel-setzt](https://www.spiegel.de/wirtschaft/unternehmen/fair-train-gruendung-und-gdl-streik-wie-claus-weselsky-sein-erbe-aufs-spiel-setzt-a-4d5d5939-76d5-4fee-9285-d728aa38f208#ref=rss)
-### spiel
+* [https://www.spiegel.de/panorama/justiz/italien-liebhaberin-von-mafiaboss-matteo-messina-denaro-zu-haftstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/italien-liebhaberin-von-mafiaboss-matteo-messina-denaro-zu-haftstrafe-verurteilt-a-cded44b2-c315-4f87-9514-a20dae5d0306#ref=rss)
+### denaro
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/fair-train-gruendung-und-gdl-streik-wie-claus-weselsky-sein-erbe-aufs-spiel-setzt](https://www.spiegel.de/wirtschaft/unternehmen/fair-train-gruendung-und-gdl-streik-wie-claus-weselsky-sein-erbe-aufs-spiel-setzt-a-4d5d5939-76d5-4fee-9285-d728aa38f208#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-seine-angst-vor-dem-urteil-wutausbruch-in-new-yorker-betrugsprozess](https://www.spiegel.de/ausland/donald-trump-und-seine-angst-vor-dem-urteil-wutausbruch-in-new-yorker-betrugsprozess-a-cb357355-83c5-4ebd-87e6-cfe6b9680878#ref=rss)
-### selbst
+* [https://www.spiegel.de/panorama/justiz/italien-liebhaberin-von-mafiaboss-matteo-messina-denaro-zu-haftstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/italien-liebhaberin-von-mafiaboss-matteo-messina-denaro-zu-haftstrafe-verurteilt-a-cded44b2-c315-4f87-9514-a20dae5d0306#ref=rss)
+### david
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/fair-train-gruendung-und-gdl-streik-wie-claus-weselsky-sein-erbe-aufs-spiel-setzt](https://www.spiegel.de/wirtschaft/unternehmen/fair-train-gruendung-und-gdl-streik-wie-claus-weselsky-sein-erbe-aufs-spiel-setzt-a-4d5d5939-76d5-4fee-9285-d728aa38f208#ref=rss)
+* [https://www.spiegel.de/sport/vor-u19-wm-suedafrika-setzt-cricket-kapitaen-david-teeger-nach-pro-israel-kommentaren-ab](https://www.spiegel.de/sport/vor-u19-wm-suedafrika-setzt-cricket-kapitaen-david-teeger-nach-pro-israel-kommentaren-ab-a-f2c5ef30-2062-40a8-8799-f76fa3d1e7e3#ref=rss)
+### teeger
+
+* [https://www.spiegel.de/sport/vor-u19-wm-suedafrika-setzt-cricket-kapitaen-david-teeger-nach-pro-israel-kommentaren-ab](https://www.spiegel.de/sport/vor-u19-wm-suedafrika-setzt-cricket-kapitaen-david-teeger-nach-pro-israel-kommentaren-ab-a-f2c5ef30-2062-40a8-8799-f76fa3d1e7e3#ref=rss)
 ### große
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/fair-train-gruendung-und-gdl-streik-wie-claus-weselsky-sein-erbe-aufs-spiel-setzt](https://www.spiegel.de/wirtschaft/unternehmen/fair-train-gruendung-und-gdl-streik-wie-claus-weselsky-sein-erbe-aufs-spiel-setzt-a-4d5d5939-76d5-4fee-9285-d728aa38f208#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/norwegen-korruptionsprozess-gegen-anders-besseberg-bringt-infront-in-bedraengnis](https://www.spiegel.de/sport/wintersport/norwegen-korruptionsprozess-gegen-anders-besseberg-bringt-infront-in-bedraengnis-a-8c8763ec-f44f-4af3-8035-7f3e0dad18a4#ref=rss)
-### afd
+* [https://www.spiegel.de/sport/vor-u19-wm-suedafrika-setzt-cricket-kapitaen-david-teeger-nach-pro-israel-kommentaren-ab](https://www.spiegel.de/sport/vor-u19-wm-suedafrika-setzt-cricket-kapitaen-david-teeger-nach-pro-israel-kommentaren-ab-a-f2c5ef30-2062-40a8-8799-f76fa3d1e7e3#ref=rss)
+* [https://www.spiegel.de/kultur/musik/abgehoert-album-der-woche-mit-marika-hackman-kolumne](https://www.spiegel.de/kultur/musik/abgehoert-album-der-woche-mit-marika-hackman-kolumne-a-ece5e448-96d1-4ccb-933b-737d93562418#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/politik/afd-und-rechtsextremismus-wacht-endlich-auf](https://www.spiegel.de/politik/afd-und-rechtsextremismus-wacht-endlich-auf-a-00226147-26de-4dd1-9983-58a92cece518#ref=rss)
-### deutlich
-
-* [https://www.spiegel.de/politik/afd-und-rechtsextremismus-wacht-endlich-auf](https://www.spiegel.de/politik/afd-und-rechtsextremismus-wacht-endlich-auf-a-00226147-26de-4dd1-9983-58a92cece518#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/nanoplastik-nachgewiesen-kann-man-wasser-aus-gekauften-flaschen-noch-trinken](https://www.spiegel.de/wissenschaft/medizin/nanoplastik-nachgewiesen-kann-man-wasser-aus-gekauften-flaschen-noch-trinken-a-bd06776f-ed07-4397-814b-bbd4a1303a7e#ref=rss)
-### michael
-
-* [https://www.spiegel.de/kultur/biopic-ueber-michael-jackson-kommt-2025-ins-kino](https://www.spiegel.de/kultur/biopic-ueber-michael-jackson-kommt-2025-ins-kino-a-15139c7c-a391-46d2-8329-17bfd11a78a9#ref=rss)
-### jackson
-
-* [https://www.spiegel.de/kultur/biopic-ueber-michael-jackson-kommt-2025-ins-kino](https://www.spiegel.de/kultur/biopic-ueber-michael-jackson-kommt-2025-ins-kino-a-15139c7c-a391-46d2-8329-17bfd11a78a9#ref=rss)
-### 2025
-
-* [https://www.spiegel.de/kultur/biopic-ueber-michael-jackson-kommt-2025-ins-kino](https://www.spiegel.de/kultur/biopic-ueber-michael-jackson-kommt-2025-ins-kino-a-15139c7c-a391-46d2-8329-17bfd11a78a9#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/kultur/biopic-ueber-michael-jackson-kommt-2025-ins-kino](https://www.spiegel.de/kultur/biopic-ueber-michael-jackson-kommt-2025-ins-kino-a-15139c7c-a391-46d2-8329-17bfd11a78a9#ref=rss)
-### jüdische
-
-* [https://www.spiegel.de/panorama/bildung/harvard-juedische-studierende-verklagen-elite-uni-wegen-antisemitismus-auf-dem-campus](https://www.spiegel.de/panorama/bildung/harvard-juedische-studierende-verklagen-elite-uni-wegen-antisemitismus-auf-dem-campus-a-df55db2f-9463-47d7-8fa5-fa1de1526524#ref=rss)
-### studierende
-
-* [https://www.spiegel.de/panorama/bildung/harvard-juedische-studierende-verklagen-elite-uni-wegen-antisemitismus-auf-dem-campus](https://www.spiegel.de/panorama/bildung/harvard-juedische-studierende-verklagen-elite-uni-wegen-antisemitismus-auf-dem-campus-a-df55db2f-9463-47d7-8fa5-fa1de1526524#ref=rss)
-### antisemitismus
-
-* [https://www.spiegel.de/panorama/bildung/harvard-juedische-studierende-verklagen-elite-uni-wegen-antisemitismus-auf-dem-campus](https://www.spiegel.de/panorama/bildung/harvard-juedische-studierende-verklagen-elite-uni-wegen-antisemitismus-auf-dem-campus-a-df55db2f-9463-47d7-8fa5-fa1de1526524#ref=rss)
-### campus
-
-* [https://www.spiegel.de/panorama/bildung/harvard-juedische-studierende-verklagen-elite-uni-wegen-antisemitismus-auf-dem-campus](https://www.spiegel.de/panorama/bildung/harvard-juedische-studierende-verklagen-elite-uni-wegen-antisemitismus-auf-dem-campus-a-df55db2f-9463-47d7-8fa5-fa1de1526524#ref=rss)
-### massiven
-
-* [https://www.spiegel.de/panorama/bildung/harvard-juedische-studierende-verklagen-elite-uni-wegen-antisemitismus-auf-dem-campus](https://www.spiegel.de/panorama/bildung/harvard-juedische-studierende-verklagen-elite-uni-wegen-antisemitismus-auf-dem-campus-a-df55db2f-9463-47d7-8fa5-fa1de1526524#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/steven-reece-lewis-von-hyperverse-angeblicher-krypto-manager-ist-ein-britischer-auswanderer](https://www.spiegel.de/netzwelt/web/steven-reece-lewis-von-hyperverse-angeblicher-krypto-manager-ist-ein-britischer-auswanderer-a-2aa271cd-bcc9-489f-8103-63f27bfcfad0#ref=rss)
-### alexandra
-
-* [https://www.spiegel.de/sport/fussball/alexandra-popp-offen-fuer-laengere-amtszeit-von-horst-hrubesch](https://www.spiegel.de/sport/fussball/alexandra-popp-offen-fuer-laengere-amtszeit-von-horst-hrubesch-a-990883f6-bb17-4ff2-b8b0-927b114fbf04#ref=rss)
-### popp
-
-* [https://www.spiegel.de/sport/fussball/alexandra-popp-offen-fuer-laengere-amtszeit-von-horst-hrubesch](https://www.spiegel.de/sport/fussball/alexandra-popp-offen-fuer-laengere-amtszeit-von-horst-hrubesch-a-990883f6-bb17-4ff2-b8b0-927b114fbf04#ref=rss)
-### horst
-
-* [https://www.spiegel.de/sport/fussball/alexandra-popp-offen-fuer-laengere-amtszeit-von-horst-hrubesch](https://www.spiegel.de/sport/fussball/alexandra-popp-offen-fuer-laengere-amtszeit-von-horst-hrubesch-a-990883f6-bb17-4ff2-b8b0-927b114fbf04#ref=rss)
-### hrubesch
-
-* [https://www.spiegel.de/sport/fussball/alexandra-popp-offen-fuer-laengere-amtszeit-von-horst-hrubesch](https://www.spiegel.de/sport/fussball/alexandra-popp-offen-fuer-laengere-amtszeit-von-horst-hrubesch-a-990883f6-bb17-4ff2-b8b0-927b114fbf04#ref=rss)
-### neue
-
-* [https://www.spiegel.de/sport/fussball/alexandra-popp-offen-fuer-laengere-amtszeit-von-horst-hrubesch](https://www.spiegel.de/sport/fussball/alexandra-popp-offen-fuer-laengere-amtszeit-von-horst-hrubesch-a-990883f6-bb17-4ff2-b8b0-927b114fbf04#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/deutschland-verbraucher-heizen-wieder-grosszuegiger](https://www.spiegel.de/wirtschaft/service/deutschland-verbraucher-heizen-wieder-grosszuegiger-a-13edec5a-077d-4028-98d3-44042820f8c2#ref=rss)
-### landkreis
-
-* [https://www.spiegel.de/panorama/justiz/landkreis-karlsruhe-erzieher-nach-mutmasslichem-kindesmissbrauch-in-untersuchungshaft](https://www.spiegel.de/panorama/justiz/landkreis-karlsruhe-erzieher-nach-mutmasslichem-kindesmissbrauch-in-untersuchungshaft-a-b8af0a78-f160-4d78-a622-f5e25931e463#ref=rss)
-### karlsruhe
-
-* [https://www.spiegel.de/panorama/justiz/landkreis-karlsruhe-erzieher-nach-mutmasslichem-kindesmissbrauch-in-untersuchungshaft](https://www.spiegel.de/panorama/justiz/landkreis-karlsruhe-erzieher-nach-mutmasslichem-kindesmissbrauch-in-untersuchungshaft-a-b8af0a78-f160-4d78-a622-f5e25931e463#ref=rss)
-### erzieher
-
-* [https://www.spiegel.de/panorama/justiz/landkreis-karlsruhe-erzieher-nach-mutmasslichem-kindesmissbrauch-in-untersuchungshaft](https://www.spiegel.de/panorama/justiz/landkreis-karlsruhe-erzieher-nach-mutmasslichem-kindesmissbrauch-in-untersuchungshaft-a-b8af0a78-f160-4d78-a622-f5e25931e463#ref=rss)
-### untersuchungshaft
-
-* [https://www.spiegel.de/panorama/justiz/landkreis-karlsruhe-erzieher-nach-mutmasslichem-kindesmissbrauch-in-untersuchungshaft](https://www.spiegel.de/panorama/justiz/landkreis-karlsruhe-erzieher-nach-mutmasslichem-kindesmissbrauch-in-untersuchungshaft-a-b8af0a78-f160-4d78-a622-f5e25931e463#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/panorama/justiz/landkreis-karlsruhe-erzieher-nach-mutmasslichem-kindesmissbrauch-in-untersuchungshaft](https://www.spiegel.de/panorama/justiz/landkreis-karlsruhe-erzieher-nach-mutmasslichem-kindesmissbrauch-in-untersuchungshaft-a-b8af0a78-f160-4d78-a622-f5e25931e463#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/christina-block-sorgerechtsstreit-polizei-durchsucht-offenbar-villa-und-wohnhaus-der-familie-block](https://www.spiegel.de/panorama/justiz/christina-block-sorgerechtsstreit-polizei-durchsucht-offenbar-villa-und-wohnhaus-der-familie-block-a-e982a86d-feae-40c3-984b-9ffe59c719a1#ref=rss)
-### kampfjets
-
-* [https://www.spiegel.de/ausland/usa-und-grossbritannien-greifen-huthi-rebellen-an-in-der-nacht-starteten-die-kampfjets](https://www.spiegel.de/ausland/usa-und-grossbritannien-greifen-huthi-rebellen-an-in-der-nacht-starteten-die-kampfjets-a-8508e8cd-069b-4b5c-b406-eb411945a782#ref=rss)
-### norwegen
-
-* [https://www.spiegel.de/sport/wintersport/norwegen-korruptionsprozess-gegen-anders-besseberg-bringt-infront-in-bedraengnis](https://www.spiegel.de/sport/wintersport/norwegen-korruptionsprozess-gegen-anders-besseberg-bringt-infront-in-bedraengnis-a-8c8763ec-f44f-4af3-8035-7f3e0dad18a4#ref=rss)
-### korruptionsprozess
-
-* [https://www.spiegel.de/sport/wintersport/norwegen-korruptionsprozess-gegen-anders-besseberg-bringt-infront-in-bedraengnis](https://www.spiegel.de/sport/wintersport/norwegen-korruptionsprozess-gegen-anders-besseberg-bringt-infront-in-bedraengnis-a-8c8763ec-f44f-4af3-8035-7f3e0dad18a4#ref=rss)
-### anders
-
-* [https://www.spiegel.de/sport/wintersport/norwegen-korruptionsprozess-gegen-anders-besseberg-bringt-infront-in-bedraengnis](https://www.spiegel.de/sport/wintersport/norwegen-korruptionsprozess-gegen-anders-besseberg-bringt-infront-in-bedraengnis-a-8c8763ec-f44f-4af3-8035-7f3e0dad18a4#ref=rss)
-### besseberg
-
-* [https://www.spiegel.de/sport/wintersport/norwegen-korruptionsprozess-gegen-anders-besseberg-bringt-infront-in-bedraengnis](https://www.spiegel.de/sport/wintersport/norwegen-korruptionsprozess-gegen-anders-besseberg-bringt-infront-in-bedraengnis-a-8c8763ec-f44f-4af3-8035-7f3e0dad18a4#ref=rss)
-### vorwürfe
-
-* [https://www.spiegel.de/sport/wintersport/norwegen-korruptionsprozess-gegen-anders-besseberg-bringt-infront-in-bedraengnis](https://www.spiegel.de/sport/wintersport/norwegen-korruptionsprozess-gegen-anders-besseberg-bringt-infront-in-bedraengnis-a-8c8763ec-f44f-4af3-8035-7f3e0dad18a4#ref=rss)
-* [https://www.spiegel.de/panorama/muenchen-fussballtrainer-wegen-hunderter-missbrauchsfaelle-vor-gericht](https://www.spiegel.de/panorama/muenchen-fussballtrainer-wegen-hunderter-missbrauchsfaelle-vor-gericht-a-e986b057-78e4-488d-9f19-dd96d8947fb4#ref=rss)
+* [https://www.spiegel.de/panorama/leipzig-und-rostock-in-den-top-ten-der-lebenswertesten-staedte-europas](https://www.spiegel.de/panorama/leipzig-und-rostock-in-den-top-ten-der-lebenswertesten-staedte-europas-a-45f20d97-bc87-4f0a-9359-5e9f9d100494#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/nach-correctiv-recherchen-im-netz-und-auf-den-strassen-formiert-sich-widerstand-gegen-rechts](https://www.spiegel.de/panorama/gesellschaft/nach-correctiv-recherchen-im-netz-und-auf-den-strassen-formiert-sich-widerstand-gegen-rechts-a-5ade47b6-49df-43ec-bd6b-cd3b5e7c25cc#ref=rss)
 ### deutschen
 
-* [https://www.spiegel.de/sport/wintersport/norwegen-korruptionsprozess-gegen-anders-besseberg-bringt-infront-in-bedraengnis](https://www.spiegel.de/sport/wintersport/norwegen-korruptionsprozess-gegen-anders-besseberg-bringt-infront-in-bedraengnis-a-8c8763ec-f44f-4af3-8035-7f3e0dad18a4#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/christina-block-sorgerechtsstreit-polizei-durchsucht-offenbar-villa-und-wohnhaus-der-familie-block](https://www.spiegel.de/panorama/justiz/christina-block-sorgerechtsstreit-polizei-durchsucht-offenbar-villa-und-wohnhaus-der-familie-block-a-e982a86d-feae-40c3-984b-9ffe59c719a1#ref=rss)
-### steven
+* [https://www.spiegel.de/panorama/leipzig-und-rostock-in-den-top-ten-der-lebenswertesten-staedte-europas](https://www.spiegel.de/panorama/leipzig-und-rostock-in-den-top-ten-der-lebenswertesten-staedte-europas-a-45f20d97-bc87-4f0a-9359-5e9f9d100494#ref=rss)
+* [https://www.spiegel.de/kultur/berlinale-zeichnet-deutschen-regisseur-edgar-reitz-aus](https://www.spiegel.de/kultur/berlinale-zeichnet-deutschen-regisseur-edgar-reitz-aus-a-06642e9f-7a36-4078-bea0-78c1b89ef1b6#ref=rss)
+### tesla
 
-* [https://www.spiegel.de/netzwelt/web/steven-reece-lewis-von-hyperverse-angeblicher-krypto-manager-ist-ein-britischer-auswanderer](https://www.spiegel.de/netzwelt/web/steven-reece-lewis-von-hyperverse-angeblicher-krypto-manager-ist-ein-britischer-auswanderer-a-2aa271cd-bcc9-489f-8103-63f27bfcfad0#ref=rss)
-### reece
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tesla-stoppt-voruebergehend-produktion-in-gruenheide-claus-weselsky-und-seine-gdl-beenden-streik-bundesliga-fussball-beginnt](https://www.spiegel.de/politik/deutschland/news-des-tages-tesla-stoppt-voruebergehend-produktion-in-gruenheide-claus-weselsky-und-seine-gdl-beenden-streik-bundesliga-fussball-beginnt-a-0c0c21f8-d505-4b3e-8560-971cbb5977ac#ref=rss)
+### stoppt
 
-* [https://www.spiegel.de/netzwelt/web/steven-reece-lewis-von-hyperverse-angeblicher-krypto-manager-ist-ein-britischer-auswanderer](https://www.spiegel.de/netzwelt/web/steven-reece-lewis-von-hyperverse-angeblicher-krypto-manager-ist-ein-britischer-auswanderer-a-2aa271cd-bcc9-489f-8103-63f27bfcfad0#ref=rss)
-### lewis
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tesla-stoppt-voruebergehend-produktion-in-gruenheide-claus-weselsky-und-seine-gdl-beenden-streik-bundesliga-fussball-beginnt](https://www.spiegel.de/politik/deutschland/news-des-tages-tesla-stoppt-voruebergehend-produktion-in-gruenheide-claus-weselsky-und-seine-gdl-beenden-streik-bundesliga-fussball-beginnt-a-0c0c21f8-d505-4b3e-8560-971cbb5977ac#ref=rss)
+### produktion
 
-* [https://www.spiegel.de/netzwelt/web/steven-reece-lewis-von-hyperverse-angeblicher-krypto-manager-ist-ein-britischer-auswanderer](https://www.spiegel.de/netzwelt/web/steven-reece-lewis-von-hyperverse-angeblicher-krypto-manager-ist-ein-britischer-auswanderer-a-2aa271cd-bcc9-489f-8103-63f27bfcfad0#ref=rss)
-### hyperverse
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tesla-stoppt-voruebergehend-produktion-in-gruenheide-claus-weselsky-und-seine-gdl-beenden-streik-bundesliga-fussball-beginnt](https://www.spiegel.de/politik/deutschland/news-des-tages-tesla-stoppt-voruebergehend-produktion-in-gruenheide-claus-weselsky-und-seine-gdl-beenden-streik-bundesliga-fussball-beginnt-a-0c0c21f8-d505-4b3e-8560-971cbb5977ac#ref=rss)
+### weselsky
 
-* [https://www.spiegel.de/netzwelt/web/steven-reece-lewis-von-hyperverse-angeblicher-krypto-manager-ist-ein-britischer-auswanderer](https://www.spiegel.de/netzwelt/web/steven-reece-lewis-von-hyperverse-angeblicher-krypto-manager-ist-ein-britischer-auswanderer-a-2aa271cd-bcc9-489f-8103-63f27bfcfad0#ref=rss)
-### offenbar
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tesla-stoppt-voruebergehend-produktion-in-gruenheide-claus-weselsky-und-seine-gdl-beenden-streik-bundesliga-fussball-beginnt](https://www.spiegel.de/politik/deutschland/news-des-tages-tesla-stoppt-voruebergehend-produktion-in-gruenheide-claus-weselsky-und-seine-gdl-beenden-streik-bundesliga-fussball-beginnt-a-0c0c21f8-d505-4b3e-8560-971cbb5977ac#ref=rss)
+### streik
 
-* [https://www.spiegel.de/wissenschaft/natur/internationale-fischerei-mehr-tote-haie-trotz-schaerferem-schutz](https://www.spiegel.de/wissenschaft/natur/internationale-fischerei-mehr-tote-haie-trotz-schaerferem-schutz-a-2f300a6c-cd63-4b22-b378-48acb519593f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/christina-block-sorgerechtsstreit-polizei-durchsucht-offenbar-villa-und-wohnhaus-der-familie-block](https://www.spiegel.de/panorama/justiz/christina-block-sorgerechtsstreit-polizei-durchsucht-offenbar-villa-und-wohnhaus-der-familie-block-a-e982a86d-feae-40c3-984b-9ffe59c719a1#ref=rss)
-### angriffe
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tesla-stoppt-voruebergehend-produktion-in-gruenheide-claus-weselsky-und-seine-gdl-beenden-streik-bundesliga-fussball-beginnt](https://www.spiegel.de/politik/deutschland/news-des-tages-tesla-stoppt-voruebergehend-produktion-in-gruenheide-claus-weselsky-und-seine-gdl-beenden-streik-bundesliga-fussball-beginnt-a-0c0c21f8-d505-4b3e-8560-971cbb5977ac#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/discover-airlines-piloten-sollen-ueber-streik-bei-lufthansa-tochter-abstimmen](https://www.spiegel.de/wirtschaft/unternehmen/discover-airlines-piloten-sollen-ueber-streik-bei-lufthansa-tochter-abstimmen-a-baf651d0-9acd-4efc-94af-78e2f4e31b67#ref=rss)
+### beginnt
 
-* [https://www.spiegel.de/ausland/militaerschlag-gegen-huthi-milizen-grossbritannien-plant-vorerst-keine-weiteren-angriffe-im-jemen](https://www.spiegel.de/ausland/militaerschlag-gegen-huthi-milizen-grossbritannien-plant-vorerst-keine-weiteren-angriffe-im-jemen-a-7884025c-f7db-46fb-b717-68bde405b735#ref=rss)
-### selbstverteidigung
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tesla-stoppt-voruebergehend-produktion-in-gruenheide-claus-weselsky-und-seine-gdl-beenden-streik-bundesliga-fussball-beginnt](https://www.spiegel.de/politik/deutschland/news-des-tages-tesla-stoppt-voruebergehend-produktion-in-gruenheide-claus-weselsky-und-seine-gdl-beenden-streik-bundesliga-fussball-beginnt-a-0c0c21f8-d505-4b3e-8560-971cbb5977ac#ref=rss)
+### bekommen
 
-* [https://www.spiegel.de/ausland/militaerschlag-gegen-huthi-milizen-grossbritannien-plant-vorerst-keine-weiteren-angriffe-im-jemen](https://www.spiegel.de/ausland/militaerschlag-gegen-huthi-milizen-grossbritannien-plant-vorerst-keine-weiteren-angriffe-im-jemen-a-7884025c-f7db-46fb-b717-68bde405b735#ref=rss)
-* [https://www.spiegel.de/ausland/rotes-meer-militaerschlag-gegen-huthi-milizen-im-einklang-mit-uno-charta](https://www.spiegel.de/ausland/rotes-meer-militaerschlag-gegen-huthi-milizen-im-einklang-mit-uno-charta-a-702c4666-25e5-40b0-aad9-329a3ad45480#ref=rss)
-### verbraucher
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tesla-stoppt-voruebergehend-produktion-in-gruenheide-claus-weselsky-und-seine-gdl-beenden-streik-bundesliga-fussball-beginnt](https://www.spiegel.de/politik/deutschland/news-des-tages-tesla-stoppt-voruebergehend-produktion-in-gruenheide-claus-weselsky-und-seine-gdl-beenden-streik-bundesliga-fussball-beginnt-a-0c0c21f8-d505-4b3e-8560-971cbb5977ac#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/elster-steuerverwaltungen-warnen-vor-grassierenden-betrugsmails](https://www.spiegel.de/netzwelt/web/elster-steuerverwaltungen-warnen-vor-grassierenden-betrugsmails-a-37351097-6fe2-4e79-a5ce-a022c136c31a#ref=rss)
+### big
 
-* [https://www.spiegel.de/wirtschaft/service/deutschland-verbraucher-heizen-wieder-grosszuegiger](https://www.spiegel.de/wirtschaft/service/deutschland-verbraucher-heizen-wieder-grosszuegiger-a-13edec5a-077d-4028-98d3-44042820f8c2#ref=rss)
-### beantragt
+* [https://www.spiegel.de/wissenschaft/weltall/grosser-ring-big-ring-raetselhafte-riesen-struktur-im-all-entdeckt](https://www.spiegel.de/wissenschaft/weltall/grosser-ring-big-ring-raetselhafte-riesen-struktur-im-all-entdeckt-a-8f2f5c03-7caf-4d1b-87d2-5f5794c15d81#ref=rss)
+* [https://www.spiegel.de/kultur/musik/abgehoert-album-der-woche-mit-marika-hackman-kolumne](https://www.spiegel.de/kultur/musik/abgehoert-album-der-woche-mit-marika-hackman-kolumne-a-ece5e448-96d1-4ccb-933b-737d93562418#ref=rss)
+### großbritannien
 
-* [https://www.spiegel.de/ausland/militaerschlag-im-jemen-russland-beantragt-uno-sondersitzung-huthis-kuendigen-rache-an](https://www.spiegel.de/ausland/militaerschlag-im-jemen-russland-beantragt-uno-sondersitzung-huthis-kuendigen-rache-an-a-4777caf4-ff92-4f67-88ef-715066338558#ref=rss)
-### angriff
+* [https://www.spiegel.de/wissenschaft/weltall/grosser-ring-big-ring-raetselhafte-riesen-struktur-im-all-entdeckt](https://www.spiegel.de/wissenschaft/weltall/grosser-ring-big-ring-raetselhafte-riesen-struktur-im-all-entdeckt-a-8f2f5c03-7caf-4d1b-87d2-5f5794c15d81#ref=rss)
+* [https://www.spiegel.de/wirtschaft/post-office-groesster-justizirrtum-des-landes-bewegt-grossbritannien](https://www.spiegel.de/wirtschaft/post-office-groesster-justizirrtum-des-landes-bewegt-grossbritannien-a-243dae9f-6ae1-4f47-999f-6b42b00eceb8#ref=rss)
+### gar
 
-* [https://www.spiegel.de/ausland/militaerschlag-im-jemen-russland-beantragt-uno-sondersitzung-huthis-kuendigen-rache-an](https://www.spiegel.de/ausland/militaerschlag-im-jemen-russland-beantragt-uno-sondersitzung-huthis-kuendigen-rache-an-a-4777caf4-ff92-4f67-88ef-715066338558#ref=rss)
-* [https://www.spiegel.de/ausland/rotes-meer-militaerschlag-gegen-huthi-milizen-im-einklang-mit-uno-charta](https://www.spiegel.de/ausland/rotes-meer-militaerschlag-gegen-huthi-milizen-im-einklang-mit-uno-charta-a-702c4666-25e5-40b0-aad9-329a3ad45480#ref=rss)
-### großbritanniens
+* [https://www.spiegel.de/wissenschaft/weltall/grosser-ring-big-ring-raetselhafte-riesen-struktur-im-all-entdeckt](https://www.spiegel.de/wissenschaft/weltall/grosser-ring-big-ring-raetselhafte-riesen-struktur-im-all-entdeckt-a-8f2f5c03-7caf-4d1b-87d2-5f5794c15d81#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-bauindustrie-meldet-zweifel-an-zeitplan-fuer-schienensanierung-an](https://www.spiegel.de/wirtschaft/deutsche-bahn-bauindustrie-meldet-zweifel-an-zeitplan-fuer-schienensanierung-an-a-ed37de40-b681-40e7-9726-e30455b1c282#ref=rss)
+### correctivrecherchen
 
-* [https://www.spiegel.de/ausland/militaerschlag-im-jemen-russland-beantragt-uno-sondersitzung-huthis-kuendigen-rache-an](https://www.spiegel.de/ausland/militaerschlag-im-jemen-russland-beantragt-uno-sondersitzung-huthis-kuendigen-rache-an-a-4777caf4-ff92-4f67-88ef-715066338558#ref=rss)
-* [https://www.spiegel.de/ausland/rotes-meer-militaerschlag-gegen-huthi-milizen-im-einklang-mit-uno-charta](https://www.spiegel.de/ausland/rotes-meer-militaerschlag-gegen-huthi-milizen-im-einklang-mit-uno-charta-a-702c4666-25e5-40b0-aad9-329a3ad45480#ref=rss)
-### droht
+* [https://www.spiegel.de/panorama/gesellschaft/nach-correctiv-recherchen-im-netz-und-auf-den-strassen-formiert-sich-widerstand-gegen-rechts](https://www.spiegel.de/panorama/gesellschaft/nach-correctiv-recherchen-im-netz-und-auf-den-strassen-formiert-sich-widerstand-gegen-rechts-a-5ade47b6-49df-43ec-bd6b-cd3b5e7c25cc#ref=rss)
+### netz
 
-* [https://www.spiegel.de/ausland/militaerschlag-im-jemen-russland-beantragt-uno-sondersitzung-huthis-kuendigen-rache-an](https://www.spiegel.de/ausland/militaerschlag-im-jemen-russland-beantragt-uno-sondersitzung-huthis-kuendigen-rache-an-a-4777caf4-ff92-4f67-88ef-715066338558#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-seine-angst-vor-dem-urteil-wutausbruch-in-new-yorker-betrugsprozess](https://www.spiegel.de/ausland/donald-trump-und-seine-angst-vor-dem-urteil-wutausbruch-in-new-yorker-betrugsprozess-a-cb357355-83c5-4ebd-87e6-cfe6b9680878#ref=rss)
-### münchen
+* [https://www.spiegel.de/panorama/gesellschaft/nach-correctiv-recherchen-im-netz-und-auf-den-strassen-formiert-sich-widerstand-gegen-rechts](https://www.spiegel.de/panorama/gesellschaft/nach-correctiv-recherchen-im-netz-und-auf-den-strassen-formiert-sich-widerstand-gegen-rechts-a-5ade47b6-49df-43ec-bd6b-cd3b5e7c25cc#ref=rss)
+### straßen
 
-* [https://www.spiegel.de/panorama/muenchen-fussballtrainer-wegen-hunderter-missbrauchsfaelle-vor-gericht](https://www.spiegel.de/panorama/muenchen-fussballtrainer-wegen-hunderter-missbrauchsfaelle-vor-gericht-a-e986b057-78e4-488d-9f19-dd96d8947fb4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-transferticker-fc-bayern-muenchen-holt-eric-dier](https://www.spiegel.de/sport/fussball/fussball-transferticker-fc-bayern-muenchen-holt-eric-dier-a-ab891855-ce7d-4ef0-880b-eca943eb9824#ref=rss)
-### gericht
+* [https://www.spiegel.de/panorama/gesellschaft/nach-correctiv-recherchen-im-netz-und-auf-den-strassen-formiert-sich-widerstand-gegen-rechts](https://www.spiegel.de/panorama/gesellschaft/nach-correctiv-recherchen-im-netz-und-auf-den-strassen-formiert-sich-widerstand-gegen-rechts-a-5ade47b6-49df-43ec-bd6b-cd3b5e7c25cc#ref=rss)
+### widerstand
 
-* [https://www.spiegel.de/panorama/muenchen-fussballtrainer-wegen-hunderter-missbrauchsfaelle-vor-gericht](https://www.spiegel.de/panorama/muenchen-fussballtrainer-wegen-hunderter-missbrauchsfaelle-vor-gericht-a-e986b057-78e4-488d-9f19-dd96d8947fb4#ref=rss)
-### waren
+* [https://www.spiegel.de/panorama/gesellschaft/nach-correctiv-recherchen-im-netz-und-auf-den-strassen-formiert-sich-widerstand-gegen-rechts](https://www.spiegel.de/panorama/gesellschaft/nach-correctiv-recherchen-im-netz-und-auf-den-strassen-formiert-sich-widerstand-gegen-rechts-a-5ade47b6-49df-43ec-bd6b-cd3b5e7c25cc#ref=rss)
+* [https://www.spiegel.de/sport/eishockey/deutscher-eishockey-bund-reagiert-bestuerzt-auf-ausschluss-israels-weltverband-rudert-zurueck](https://www.spiegel.de/sport/eishockey/deutscher-eishockey-bund-reagiert-bestuerzt-auf-ausschluss-israels-weltverband-rudert-zurueck-a-57f919d3-58b2-4a32-985c-66474699f461#ref=rss)
+### album
 
-* [https://www.spiegel.de/panorama/muenchen-fussballtrainer-wegen-hunderter-missbrauchsfaelle-vor-gericht](https://www.spiegel.de/panorama/muenchen-fussballtrainer-wegen-hunderter-missbrauchsfaelle-vor-gericht-a-e986b057-78e4-488d-9f19-dd96d8947fb4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/tampa-florida-united-airlines-flug-wegen-moeglichen-tuerproblems-umgeleitet](https://www.spiegel.de/wirtschaft/unternehmen/tampa-florida-united-airlines-flug-wegen-moeglichen-tuerproblems-umgeleitet-a-c58b63c6-2fca-474c-b34d-3afc77336b06#ref=rss)
-### europäische
+* [https://www.spiegel.de/kultur/musik/abgehoert-album-der-woche-mit-marika-hackman-kolumne](https://www.spiegel.de/kultur/musik/abgehoert-album-der-woche-mit-marika-hackman-kolumne-a-ece5e448-96d1-4ccb-933b-737d93562418#ref=rss)
+### marika
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/airbus-verkauft-so-viele-flugzeuge-wie-nie](https://www.spiegel.de/wirtschaft/unternehmen/airbus-verkauft-so-viele-flugzeuge-wie-nie-a-d74321a5-cfad-4a4e-b949-8c00680ca5fb#ref=rss)
-### flugzeugkonzern
+* [https://www.spiegel.de/kultur/musik/abgehoert-album-der-woche-mit-marika-hackman-kolumne](https://www.spiegel.de/kultur/musik/abgehoert-album-der-woche-mit-marika-hackman-kolumne-a-ece5e448-96d1-4ccb-933b-737d93562418#ref=rss)
+### hackman
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/airbus-verkauft-so-viele-flugzeuge-wie-nie](https://www.spiegel.de/wirtschaft/unternehmen/airbus-verkauft-so-viele-flugzeuge-wie-nie-a-d74321a5-cfad-4a4e-b949-8c00680ca5fb#ref=rss)
-### nie
+* [https://www.spiegel.de/kultur/musik/abgehoert-album-der-woche-mit-marika-hackman-kolumne](https://www.spiegel.de/kultur/musik/abgehoert-album-der-woche-mit-marika-hackman-kolumne-a-ece5e448-96d1-4ccb-933b-737d93562418#ref=rss)
+### bundesrechnungshof
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/airbus-verkauft-so-viele-flugzeuge-wie-nie](https://www.spiegel.de/wirtschaft/unternehmen/airbus-verkauft-so-viele-flugzeuge-wie-nie-a-d74321a5-cfad-4a4e-b949-8c00680ca5fb#ref=rss)
-* [https://www.spiegel.de/ausland/maria-woronzowa-putins-tochter-gibt-skurriles-interview-ueber-den-wert-des-menschlichen-lebens](https://www.spiegel.de/ausland/maria-woronzowa-putins-tochter-gibt-skurriles-interview-ueber-den-wert-des-menschlichen-lebens-a-2ec8d14d-663a-4397-881b-209df35b8153#ref=rss)
-### franz
+* [https://www.spiegel.de/wirtschaft/bundesrechnungshof-beklagt-sanierungsstau-bei-autobahnbruecken](https://www.spiegel.de/wirtschaft/bundesrechnungshof-beklagt-sanierungsstau-bei-autobahnbruecken-a-70cf9451-a64d-433b-a0e7-807d47b54789#ref=rss)
+### sanieren
 
-* [https://www.spiegel.de/sport/fussball/franz-beckenbauer-ehrung-karl-heinz-rummenigge-zurueckhaltend-bei-stadion-umbenennung](https://www.spiegel.de/sport/fussball/franz-beckenbauer-ehrung-karl-heinz-rummenigge-zurueckhaltend-bei-stadion-umbenennung-a-62ea2b59-3b1c-476d-ad73-a71a73bb946f#ref=rss)
-### beckenbauer
+* [https://www.spiegel.de/wirtschaft/bundesrechnungshof-beklagt-sanierungsstau-bei-autobahnbruecken](https://www.spiegel.de/wirtschaft/bundesrechnungshof-beklagt-sanierungsstau-bei-autobahnbruecken-a-70cf9451-a64d-433b-a0e7-807d47b54789#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-bauindustrie-meldet-zweifel-an-zeitplan-fuer-schienensanierung-an](https://www.spiegel.de/wirtschaft/deutsche-bahn-bauindustrie-meldet-zweifel-an-zeitplan-fuer-schienensanierung-an-a-ed37de40-b681-40e7-9726-e30455b1c282#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/sport/fussball/franz-beckenbauer-ehrung-karl-heinz-rummenigge-zurueckhaltend-bei-stadion-umbenennung](https://www.spiegel.de/sport/fussball/franz-beckenbauer-ehrung-karl-heinz-rummenigge-zurueckhaltend-bei-stadion-umbenennung-a-62ea2b59-3b1c-476d-ad73-a71a73bb946f#ref=rss)
-### karlheinz
+* [https://www.spiegel.de/wirtschaft/bundesrechnungshof-beklagt-sanierungsstau-bei-autobahnbruecken](https://www.spiegel.de/wirtschaft/bundesrechnungshof-beklagt-sanierungsstau-bei-autobahnbruecken-a-70cf9451-a64d-433b-a0e7-807d47b54789#ref=rss)
+* [https://www.spiegel.de/stil/luca-magliano-bei-der-pitti-uomo-in-florenz-schoenheit-ist-fuer-mich-antifaschismus](https://www.spiegel.de/stil/luca-magliano-bei-der-pitti-uomo-in-florenz-schoenheit-ist-fuer-mich-antifaschismus-a-dfe89908-4a47-4151-92c2-f83b7241e410#ref=rss)
+### autos
 
-* [https://www.spiegel.de/sport/fussball/franz-beckenbauer-ehrung-karl-heinz-rummenigge-zurueckhaltend-bei-stadion-umbenennung](https://www.spiegel.de/sport/fussball/franz-beckenbauer-ehrung-karl-heinz-rummenigge-zurueckhaltend-bei-stadion-umbenennung-a-62ea2b59-3b1c-476d-ad73-a71a73bb946f#ref=rss)
-### rummenigge
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-verkauft-zwoelf-prozent-mehr-autos-9-2-millionen-fahrzeuge](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-verkauft-zwoelf-prozent-mehr-autos-9-2-millionen-fahrzeuge-a-13513aa8-58c6-45be-bdb4-12cb3e94a058#ref=rss)
+* [https://www.spiegel.de/auto/auto-kaufen-vw-golf-fuehrt-neuzulassungen-2023-an-e-autos-legen-nur-leicht-zu](https://www.spiegel.de/auto/auto-kaufen-vw-golf-fuehrt-neuzulassungen-2023-an-e-autos-legen-nur-leicht-zu-a-4368d56a-8a90-48a1-95a7-9e2ceab8f999#ref=rss)
+### millionen
 
-* [https://www.spiegel.de/sport/fussball/franz-beckenbauer-ehrung-karl-heinz-rummenigge-zurueckhaltend-bei-stadion-umbenennung](https://www.spiegel.de/sport/fussball/franz-beckenbauer-ehrung-karl-heinz-rummenigge-zurueckhaltend-bei-stadion-umbenennung-a-62ea2b59-3b1c-476d-ad73-a71a73bb946f#ref=rss)
-### christina
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-verkauft-zwoelf-prozent-mehr-autos-9-2-millionen-fahrzeuge](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-verkauft-zwoelf-prozent-mehr-autos-9-2-millionen-fahrzeuge-a-13513aa8-58c6-45be-bdb4-12cb3e94a058#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/vallejo-in-kalifornien-tod-von-willie-mccoy-stadt-zahlt-hinterbliebenen-fuenf-millionen-us-dollar](https://www.spiegel.de/panorama/justiz/vallejo-in-kalifornien-tod-von-willie-mccoy-stadt-zahlt-hinterbliebenen-fuenf-millionen-us-dollar-a-0e9d8d32-f920-4d11-a29f-6d4289517289#ref=rss)
+### 2023
 
-* [https://www.spiegel.de/panorama/justiz/christina-block-sorgerechtsstreit-polizei-durchsucht-offenbar-villa-und-wohnhaus-der-familie-block](https://www.spiegel.de/panorama/justiz/christina-block-sorgerechtsstreit-polizei-durchsucht-offenbar-villa-und-wohnhaus-der-familie-block-a-e982a86d-feae-40c3-984b-9ffe59c719a1#ref=rss)
-### durchsucht
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-verkauft-zwoelf-prozent-mehr-autos-9-2-millionen-fahrzeuge](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-verkauft-zwoelf-prozent-mehr-autos-9-2-millionen-fahrzeuge-a-13513aa8-58c6-45be-bdb4-12cb3e94a058#ref=rss)
+* [https://www.spiegel.de/auto/auto-kaufen-vw-golf-fuehrt-neuzulassungen-2023-an-e-autos-legen-nur-leicht-zu](https://www.spiegel.de/auto/auto-kaufen-vw-golf-fuehrt-neuzulassungen-2023-an-e-autos-legen-nur-leicht-zu-a-4368d56a-8a90-48a1-95a7-9e2ceab8f999#ref=rss)
+### deutlich
 
-* [https://www.spiegel.de/panorama/justiz/christina-block-sorgerechtsstreit-polizei-durchsucht-offenbar-villa-und-wohnhaus-der-familie-block](https://www.spiegel.de/panorama/justiz/christina-block-sorgerechtsstreit-polizei-durchsucht-offenbar-villa-und-wohnhaus-der-familie-block-a-e982a86d-feae-40c3-984b-9ffe59c719a1#ref=rss)
-### donald
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-verkauft-zwoelf-prozent-mehr-autos-9-2-millionen-fahrzeuge](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-verkauft-zwoelf-prozent-mehr-autos-9-2-millionen-fahrzeuge-a-13513aa8-58c6-45be-bdb4-12cb3e94a058#ref=rss)
+* [https://www.spiegel.de/ausland/jemen-recep-tayyip-erdogan-nennt-angriffe-auf-huthi-stellungen-unverhaeltnismaessig](https://www.spiegel.de/ausland/jemen-recep-tayyip-erdogan-nennt-angriffe-auf-huthi-stellungen-unverhaeltnismaessig-a-fdbefcda-47db-4fc4-90af-8fdbeec4a8dc#ref=rss)
+### elster
 
-* [https://www.spiegel.de/ausland/donald-trump-und-seine-angst-vor-dem-urteil-wutausbruch-in-new-yorker-betrugsprozess](https://www.spiegel.de/ausland/donald-trump-und-seine-angst-vor-dem-urteil-wutausbruch-in-new-yorker-betrugsprozess-a-cb357355-83c5-4ebd-87e6-cfe6b9680878#ref=rss)
-### trump
+* [https://www.spiegel.de/netzwelt/web/elster-steuerverwaltungen-warnen-vor-grassierenden-betrugsmails](https://www.spiegel.de/netzwelt/web/elster-steuerverwaltungen-warnen-vor-grassierenden-betrugsmails-a-37351097-6fe2-4e79-a5ce-a022c136c31a#ref=rss)
+### viele
 
-* [https://www.spiegel.de/ausland/donald-trump-und-seine-angst-vor-dem-urteil-wutausbruch-in-new-yorker-betrugsprozess](https://www.spiegel.de/ausland/donald-trump-und-seine-angst-vor-dem-urteil-wutausbruch-in-new-yorker-betrugsprozess-a-cb357355-83c5-4ebd-87e6-cfe6b9680878#ref=rss)
-### warschau
+* [https://www.spiegel.de/netzwelt/web/elster-steuerverwaltungen-warnen-vor-grassierenden-betrugsmails](https://www.spiegel.de/netzwelt/web/elster-steuerverwaltungen-warnen-vor-grassierenden-betrugsmails-a-37351097-6fe2-4e79-a5ce-a022c136c31a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-quiz-sind-sie-bereit-fuer-den-bundesligastart-2024](https://www.spiegel.de/sport/fussball/fussball-quiz-sind-sie-bereit-fuer-den-bundesligastart-2024-a-b4a8b9c7-9ce5-44c0-b3e6-101e6879bbe3#ref=rss)
+### besonders
 
-* [https://www.spiegel.de/ausland/polen-pis-anhaenger-demonstrieren-in-warschau-gegen-tusk-regierung](https://www.spiegel.de/ausland/polen-pis-anhaenger-demonstrieren-in-warschau-gegen-tusk-regierung-a-24f243d6-4e0c-41ad-84e9-82000d371e47#ref=rss)
-### umgeleitet
+* [https://www.spiegel.de/netzwelt/web/elster-steuerverwaltungen-warnen-vor-grassierenden-betrugsmails](https://www.spiegel.de/netzwelt/web/elster-steuerverwaltungen-warnen-vor-grassierenden-betrugsmails-a-37351097-6fe2-4e79-a5ce-a022c136c31a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-bauindustrie-meldet-zweifel-an-zeitplan-fuer-schienensanierung-an](https://www.spiegel.de/wirtschaft/deutsche-bahn-bauindustrie-meldet-zweifel-an-zeitplan-fuer-schienensanierung-an-a-ed37de40-b681-40e7-9726-e30455b1c282#ref=rss)
+### bewegt
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/tampa-florida-united-airlines-flug-wegen-moeglichen-tuerproblems-umgeleitet](https://www.spiegel.de/wirtschaft/unternehmen/tampa-florida-united-airlines-flug-wegen-moeglichen-tuerproblems-umgeleitet-a-c58b63c6-2fca-474c-b34d-3afc77336b06#ref=rss)
-### bayern
+* [https://www.spiegel.de/wirtschaft/post-office-groesster-justizirrtum-des-landes-bewegt-grossbritannien](https://www.spiegel.de/wirtschaft/post-office-groesster-justizirrtum-des-landes-bewegt-grossbritannien-a-243dae9f-6ae1-4f47-999f-6b42b00eceb8#ref=rss)
+### franziska
 
-* [https://www.spiegel.de/sport/fussball/fussball-transferticker-fc-bayern-muenchen-holt-eric-dier](https://www.spiegel.de/sport/fussball/fussball-transferticker-fc-bayern-muenchen-holt-eric-dier-a-ab891855-ce7d-4ef0-880b-eca943eb9824#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/agrar-diesel-subventionen-bauern-in-bayern-erwaegen-drastischere-protestaktionen](https://www.spiegel.de/wirtschaft/unternehmen/agrar-diesel-subventionen-bauern-in-bayern-erwaegen-drastischere-protestaktionen-a-71acb35e-a303-4874-be7b-79de31e5a764#ref=rss)
-### schlange
+* [https://www.spiegel.de/sport/wintersport/franziska-preuss-beim-biathlon-weltcup-in-ruhpolding-ohne-podestplatz](https://www.spiegel.de/sport/wintersport/franziska-preuss-beim-biathlon-weltcup-in-ruhpolding-ohne-podestplatz-a-6482b426-ae7c-41b7-8ba0-68909eee7dfb#ref=rss)
+### preuß
 
-* [https://www.spiegel.de/panorama/australien-hochgiftige-schlange-beisst-frau-im-schlaf](https://www.spiegel.de/panorama/australien-hochgiftige-schlange-beisst-frau-im-schlaf-a-1b20ef83-bcba-4581-8930-7b514b19ee1c#ref=rss)
-### frau
+* [https://www.spiegel.de/sport/wintersport/franziska-preuss-beim-biathlon-weltcup-in-ruhpolding-ohne-podestplatz](https://www.spiegel.de/sport/wintersport/franziska-preuss-beim-biathlon-weltcup-in-ruhpolding-ohne-podestplatz-a-6482b426-ae7c-41b7-8ba0-68909eee7dfb#ref=rss)
+### ruhpolding
 
-* [https://www.spiegel.de/panorama/australien-hochgiftige-schlange-beisst-frau-im-schlaf](https://www.spiegel.de/panorama/australien-hochgiftige-schlange-beisst-frau-im-schlaf-a-1b20ef83-bcba-4581-8930-7b514b19ee1c#ref=rss)
-### wladimir
+* [https://www.spiegel.de/sport/wintersport/franziska-preuss-beim-biathlon-weltcup-in-ruhpolding-ohne-podestplatz](https://www.spiegel.de/sport/wintersport/franziska-preuss-beim-biathlon-weltcup-in-ruhpolding-ohne-podestplatz-a-6482b426-ae7c-41b7-8ba0-68909eee7dfb#ref=rss)
+### ohne
 
-* [https://www.spiegel.de/ausland/maria-woronzowa-putins-tochter-gibt-skurriles-interview-ueber-den-wert-des-menschlichen-lebens](https://www.spiegel.de/ausland/maria-woronzowa-putins-tochter-gibt-skurriles-interview-ueber-den-wert-des-menschlichen-lebens-a-2ec8d14d-663a-4397-881b-209df35b8153#ref=rss)
-### tochter
+* [https://www.spiegel.de/sport/wintersport/franziska-preuss-beim-biathlon-weltcup-in-ruhpolding-ohne-podestplatz](https://www.spiegel.de/sport/wintersport/franziska-preuss-beim-biathlon-weltcup-in-ruhpolding-ohne-podestplatz-a-6482b426-ae7c-41b7-8ba0-68909eee7dfb#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/essen-influencer-soll-sich-mit-obdachlosem-spenden-ergaunert-haben](https://www.spiegel.de/netzwelt/web/essen-influencer-soll-sich-mit-obdachlosem-spenden-ergaunert-haben-a-16c5180d-e146-445b-b3c4-f11a63f7cf17#ref=rss)
+### letzten
 
-* [https://www.spiegel.de/ausland/maria-woronzowa-putins-tochter-gibt-skurriles-interview-ueber-den-wert-des-menschlichen-lebens](https://www.spiegel.de/ausland/maria-woronzowa-putins-tochter-gibt-skurriles-interview-ueber-den-wert-des-menschlichen-lebens-a-2ec8d14d-663a-4397-881b-209df35b8153#ref=rss)
-### maria
+* [https://www.spiegel.de/sport/wintersport/franziska-preuss-beim-biathlon-weltcup-in-ruhpolding-ohne-podestplatz](https://www.spiegel.de/sport/wintersport/franziska-preuss-beim-biathlon-weltcup-in-ruhpolding-ohne-podestplatz-a-6482b426-ae7c-41b7-8ba0-68909eee7dfb#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-quiz-sind-sie-bereit-fuer-den-bundesligastart-2024](https://www.spiegel.de/sport/fussball/fussball-quiz-sind-sie-bereit-fuer-den-bundesligastart-2024-a-b4a8b9c7-9ce5-44c0-b3e6-101e6879bbe3#ref=rss)
+### nennt
 
-* [https://www.spiegel.de/ausland/maria-woronzowa-putins-tochter-gibt-skurriles-interview-ueber-den-wert-des-menschlichen-lebens](https://www.spiegel.de/ausland/maria-woronzowa-putins-tochter-gibt-skurriles-interview-ueber-den-wert-des-menschlichen-lebens-a-2ec8d14d-663a-4397-881b-209df35b8153#ref=rss)
-### woronzowa
+* [https://www.spiegel.de/ausland/jemen-recep-tayyip-erdogan-nennt-angriffe-auf-huthi-stellungen-unverhaeltnismaessig](https://www.spiegel.de/ausland/jemen-recep-tayyip-erdogan-nennt-angriffe-auf-huthi-stellungen-unverhaeltnismaessig-a-fdbefcda-47db-4fc4-90af-8fdbeec4a8dc#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/ifo-studie-schwaches-niveau-der-klasse-beeintraechtigt-schulische-leistungen-von-zuwandererkindern](https://www.spiegel.de/panorama/bildung/ifo-studie-schwaches-niveau-der-klasse-beeintraechtigt-schulische-leistungen-von-zuwandererkindern-a-4073d0f0-0f4b-41b3-b128-6cfab8bdb924#ref=rss)
+### huthistellungen
 
-* [https://www.spiegel.de/ausland/maria-woronzowa-putins-tochter-gibt-skurriles-interview-ueber-den-wert-des-menschlichen-lebens](https://www.spiegel.de/ausland/maria-woronzowa-putins-tochter-gibt-skurriles-interview-ueber-den-wert-des-menschlichen-lebens-a-2ec8d14d-663a-4397-881b-209df35b8153#ref=rss)
-### wasser
+* [https://www.spiegel.de/ausland/jemen-recep-tayyip-erdogan-nennt-angriffe-auf-huthi-stellungen-unverhaeltnismaessig](https://www.spiegel.de/ausland/jemen-recep-tayyip-erdogan-nennt-angriffe-auf-huthi-stellungen-unverhaeltnismaessig-a-fdbefcda-47db-4fc4-90af-8fdbeec4a8dc#ref=rss)
+### handelsschiffe
 
-* [https://www.spiegel.de/wissenschaft/medizin/nanoplastik-nachgewiesen-kann-man-wasser-aus-gekauften-flaschen-noch-trinken](https://www.spiegel.de/wissenschaft/medizin/nanoplastik-nachgewiesen-kann-man-wasser-aus-gekauften-flaschen-noch-trinken-a-bd06776f-ed07-4397-814b-bbd4a1303a7e#ref=rss)
-### flaschen
+* [https://www.spiegel.de/ausland/jemen-recep-tayyip-erdogan-nennt-angriffe-auf-huthi-stellungen-unverhaeltnismaessig](https://www.spiegel.de/ausland/jemen-recep-tayyip-erdogan-nennt-angriffe-auf-huthi-stellungen-unverhaeltnismaessig-a-fdbefcda-47db-4fc4-90af-8fdbeec4a8dc#ref=rss)
+* [https://www.spiegel.de/politik/rotes-meer-eu-plant-eigene-marinemission-wegen-huthi-angriffen](https://www.spiegel.de/politik/rotes-meer-eu-plant-eigene-marinemission-wegen-huthi-angriffen-a-d5ef3b81-ed4a-4adf-afbc-7a0c917fe9b5#ref=rss)
+### schützen
 
-* [https://www.spiegel.de/wissenschaft/medizin/nanoplastik-nachgewiesen-kann-man-wasser-aus-gekauften-flaschen-noch-trinken](https://www.spiegel.de/wissenschaft/medizin/nanoplastik-nachgewiesen-kann-man-wasser-aus-gekauften-flaschen-noch-trinken-a-bd06776f-ed07-4397-814b-bbd4a1303a7e#ref=rss)
-### kryptowährung
+* [https://www.spiegel.de/ausland/jemen-recep-tayyip-erdogan-nennt-angriffe-auf-huthi-stellungen-unverhaeltnismaessig](https://www.spiegel.de/ausland/jemen-recep-tayyip-erdogan-nennt-angriffe-auf-huthi-stellungen-unverhaeltnismaessig-a-fdbefcda-47db-4fc4-90af-8fdbeec4a8dc#ref=rss)
+* [https://www.spiegel.de/politik/rotes-meer-eu-plant-eigene-marinemission-wegen-huthi-angriffen](https://www.spiegel.de/politik/rotes-meer-eu-plant-eigene-marinemission-wegen-huthi-angriffen-a-d5ef3b81-ed4a-4adf-afbc-7a0c917fe9b5#ref=rss)
+### influencer
 
-* [https://www.spiegel.de/wirtschaft/service/kryptowaehrung-als-etf-es-kann-gut-sein-dass-der-bitcoin-eines-tages-voellig-wertlos-ist](https://www.spiegel.de/wirtschaft/service/kryptowaehrung-als-etf-es-kann-gut-sein-dass-der-bitcoin-eines-tages-voellig-wertlos-ist-a-0b0ed47d-453c-49fb-b24f-b267c5b1b43a#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/essen-influencer-soll-sich-mit-obdachlosem-spenden-ergaunert-haben](https://www.spiegel.de/netzwelt/web/essen-influencer-soll-sich-mit-obdachlosem-spenden-ergaunert-haben-a-16c5180d-e146-445b-b3c4-f11a63f7cf17#ref=rss)
+### spenden
+
+* [https://www.spiegel.de/netzwelt/web/essen-influencer-soll-sich-mit-obdachlosem-spenden-ergaunert-haben](https://www.spiegel.de/netzwelt/web/essen-influencer-soll-sich-mit-obdachlosem-spenden-ergaunert-haben-a-16c5180d-e146-445b-b3c4-f11a63f7cf17#ref=rss)
+### stuttgart
+
+* [https://www.spiegel.de/panorama/justiz/stuttgart-staatsanwaltschaft-erhebt-erste-anklage-nach-randale-auf-eritrea-treffen](https://www.spiegel.de/panorama/justiz/stuttgart-staatsanwaltschaft-erhebt-erste-anklage-nach-randale-auf-eritrea-treffen-a-c4b0da4d-2f24-42b4-ba61-86610be674d1#ref=rss)
+### anklage
+
+* [https://www.spiegel.de/panorama/justiz/stuttgart-staatsanwaltschaft-erhebt-erste-anklage-nach-randale-auf-eritrea-treffen](https://www.spiegel.de/panorama/justiz/stuttgart-staatsanwaltschaft-erhebt-erste-anklage-nach-randale-auf-eritrea-treffen-a-c4b0da4d-2f24-42b4-ba61-86610be674d1#ref=rss)
+### polizisten
+
+* [https://www.spiegel.de/panorama/justiz/stuttgart-staatsanwaltschaft-erhebt-erste-anklage-nach-randale-auf-eritrea-treffen](https://www.spiegel.de/panorama/justiz/stuttgart-staatsanwaltschaft-erhebt-erste-anklage-nach-randale-auf-eritrea-treffen-a-c4b0da4d-2f24-42b4-ba61-86610be674d1#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/vallejo-in-kalifornien-tod-von-willie-mccoy-stadt-zahlt-hinterbliebenen-fuenf-millionen-us-dollar](https://www.spiegel.de/panorama/justiz/vallejo-in-kalifornien-tod-von-willie-mccoy-stadt-zahlt-hinterbliebenen-fuenf-millionen-us-dollar-a-0e9d8d32-f920-4d11-a29f-6d4289517289#ref=rss)
+### womöglich
+
+* [https://www.spiegel.de/panorama/justiz/stuttgart-staatsanwaltschaft-erhebt-erste-anklage-nach-randale-auf-eritrea-treffen](https://www.spiegel.de/panorama/justiz/stuttgart-staatsanwaltschaft-erhebt-erste-anklage-nach-randale-auf-eritrea-treffen-a-c4b0da4d-2f24-42b4-ba61-86610be674d1#ref=rss)
+* [https://www.spiegel.de/politik/rotes-meer-eu-plant-eigene-marinemission-wegen-huthi-angriffen](https://www.spiegel.de/politik/rotes-meer-eu-plant-eigene-marinemission-wegen-huthi-angriffen-a-d5ef3b81-ed4a-4adf-afbc-7a0c917fe9b5#ref=rss)
+### deb
+
+* [https://www.spiegel.de/sport/eishockey/deutscher-eishockey-bund-reagiert-bestuerzt-auf-ausschluss-israels-weltverband-rudert-zurueck](https://www.spiegel.de/sport/eishockey/deutscher-eishockey-bund-reagiert-bestuerzt-auf-ausschluss-israels-weltverband-rudert-zurueck-a-57f919d3-58b2-4a32-985c-66474699f461#ref=rss)
+### unter
+
+* [https://www.spiegel.de/sport/eishockey/deutscher-eishockey-bund-reagiert-bestuerzt-auf-ausschluss-israels-weltverband-rudert-zurueck](https://www.spiegel.de/sport/eishockey/deutscher-eishockey-bund-reagiert-bestuerzt-auf-ausschluss-israels-weltverband-rudert-zurueck-a-57f919d3-58b2-4a32-985c-66474699f461#ref=rss)
+* [https://www.spiegel.de/kultur/berlinale-zeichnet-deutschen-regisseur-edgar-reitz-aus](https://www.spiegel.de/kultur/berlinale-zeichnet-deutschen-regisseur-edgar-reitz-aus-a-06642e9f-7a36-4078-bea0-78c1b89ef1b6#ref=rss)
+### anderem
+
+* [https://www.spiegel.de/sport/eishockey/deutscher-eishockey-bund-reagiert-bestuerzt-auf-ausschluss-israels-weltverband-rudert-zurueck](https://www.spiegel.de/sport/eishockey/deutscher-eishockey-bund-reagiert-bestuerzt-auf-ausschluss-israels-weltverband-rudert-zurueck-a-57f919d3-58b2-4a32-985c-66474699f461#ref=rss)
+* [https://www.spiegel.de/kultur/berlinale-zeichnet-deutschen-regisseur-edgar-reitz-aus](https://www.spiegel.de/kultur/berlinale-zeichnet-deutschen-regisseur-edgar-reitz-aus-a-06642e9f-7a36-4078-bea0-78c1b89ef1b6#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-bauindustrie-meldet-zweifel-an-zeitplan-fuer-schienensanierung-an](https://www.spiegel.de/wirtschaft/deutsche-bahn-bauindustrie-meldet-zweifel-an-zeitplan-fuer-schienensanierung-an-a-ed37de40-b681-40e7-9726-e30455b1c282#ref=rss)
+### bauindustrie
+
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-bauindustrie-meldet-zweifel-an-zeitplan-fuer-schienensanierung-an](https://www.spiegel.de/wirtschaft/deutsche-bahn-bauindustrie-meldet-zweifel-an-zeitplan-fuer-schienensanierung-an-a-ed37de40-b681-40e7-9726-e30455b1c282#ref=rss)
+### discover
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/discover-airlines-piloten-sollen-ueber-streik-bei-lufthansa-tochter-abstimmen](https://www.spiegel.de/wirtschaft/unternehmen/discover-airlines-piloten-sollen-ueber-streik-bei-lufthansa-tochter-abstimmen-a-baf651d0-9acd-4efc-94af-78e2f4e31b67#ref=rss)
+### airlines
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/discover-airlines-piloten-sollen-ueber-streik-bei-lufthansa-tochter-abstimmen](https://www.spiegel.de/wirtschaft/unternehmen/discover-airlines-piloten-sollen-ueber-streik-bei-lufthansa-tochter-abstimmen-a-baf651d0-9acd-4efc-94af-78e2f4e31b67#ref=rss)
+### berlinale
+
+* [https://www.spiegel.de/kultur/berlinale-zeichnet-deutschen-regisseur-edgar-reitz-aus](https://www.spiegel.de/kultur/berlinale-zeichnet-deutschen-regisseur-edgar-reitz-aus-a-06642e9f-7a36-4078-bea0-78c1b89ef1b6#ref=rss)
+### edgar
+
+* [https://www.spiegel.de/kultur/berlinale-zeichnet-deutschen-regisseur-edgar-reitz-aus](https://www.spiegel.de/kultur/berlinale-zeichnet-deutschen-regisseur-edgar-reitz-aus-a-06642e9f-7a36-4078-bea0-78c1b89ef1b6#ref=rss)
+### reitz
+
+* [https://www.spiegel.de/kultur/berlinale-zeichnet-deutschen-regisseur-edgar-reitz-aus](https://www.spiegel.de/kultur/berlinale-zeichnet-deutschen-regisseur-edgar-reitz-aus-a-06642e9f-7a36-4078-bea0-78c1b89ef1b6#ref=rss)
+### waffen
+
+* [https://www.spiegel.de/politik/deutschland/ruestungsexporte-verbleib-der-waffen-im-ausland-wird-kaum-kontrolliert](https://www.spiegel.de/politik/deutschland/ruestungsexporte-verbleib-der-waffen-im-ausland-wird-kaum-kontrolliert-a-e0f16991-bba9-4b94-8ebe-2d8f8b263e2a#ref=rss)
+### luca
+
+* [https://www.spiegel.de/stil/luca-magliano-bei-der-pitti-uomo-in-florenz-schoenheit-ist-fuer-mich-antifaschismus](https://www.spiegel.de/stil/luca-magliano-bei-der-pitti-uomo-in-florenz-schoenheit-ist-fuer-mich-antifaschismus-a-dfe89908-4a47-4151-92c2-f83b7241e410#ref=rss)
+### magliano
+
+* [https://www.spiegel.de/stil/luca-magliano-bei-der-pitti-uomo-in-florenz-schoenheit-ist-fuer-mich-antifaschismus](https://www.spiegel.de/stil/luca-magliano-bei-der-pitti-uomo-in-florenz-schoenheit-ist-fuer-mich-antifaschismus-a-dfe89908-4a47-4151-92c2-f83b7241e410#ref=rss)
+### macht
+
+* [https://www.spiegel.de/stil/luca-magliano-bei-der-pitti-uomo-in-florenz-schoenheit-ist-fuer-mich-antifaschismus](https://www.spiegel.de/stil/luca-magliano-bei-der-pitti-uomo-in-florenz-schoenheit-ist-fuer-mich-antifaschismus-a-dfe89908-4a47-4151-92c2-f83b7241e410#ref=rss)
+* [https://www.spiegel.de/auto/auto-kaufen-vw-golf-fuehrt-neuzulassungen-2023-an-e-autos-legen-nur-leicht-zu](https://www.spiegel.de/auto/auto-kaufen-vw-golf-fuehrt-neuzulassungen-2023-an-e-autos-legen-nur-leicht-zu-a-4368d56a-8a90-48a1-95a7-9e2ceab8f999#ref=rss)
+### auto
+
+* [https://www.spiegel.de/auto/auto-kaufen-vw-golf-fuehrt-neuzulassungen-2023-an-e-autos-legen-nur-leicht-zu](https://www.spiegel.de/auto/auto-kaufen-vw-golf-fuehrt-neuzulassungen-2023-an-e-autos-legen-nur-leicht-zu-a-4368d56a-8a90-48a1-95a7-9e2ceab8f999#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/vallejo-in-kalifornien-tod-von-willie-mccoy-stadt-zahlt-hinterbliebenen-fuenf-millionen-us-dollar](https://www.spiegel.de/panorama/justiz/vallejo-in-kalifornien-tod-von-willie-mccoy-stadt-zahlt-hinterbliebenen-fuenf-millionen-us-dollar-a-0e9d8d32-f920-4d11-a29f-6d4289517289#ref=rss)
+### peter
+
+* [https://www.spiegel.de/politik/deutschland/peter-kurth-cdu-politiker-war-gastgeber-fuer-rechtsextreme](https://www.spiegel.de/politik/deutschland/peter-kurth-cdu-politiker-war-gastgeber-fuer-rechtsextreme-a-f3d92242-c607-4fa3-8c33-35fdd6027072#ref=rss)
+### kurth
+
+* [https://www.spiegel.de/politik/deutschland/peter-kurth-cdu-politiker-war-gastgeber-fuer-rechtsextreme](https://www.spiegel.de/politik/deutschland/peter-kurth-cdu-politiker-war-gastgeber-fuer-rechtsextreme-a-f3d92242-c607-4fa3-8c33-35fdd6027072#ref=rss)
+### kalifornien
+
+* [https://www.spiegel.de/panorama/justiz/vallejo-in-kalifornien-tod-von-willie-mccoy-stadt-zahlt-hinterbliebenen-fuenf-millionen-us-dollar](https://www.spiegel.de/panorama/justiz/vallejo-in-kalifornien-tod-von-willie-mccoy-stadt-zahlt-hinterbliebenen-fuenf-millionen-us-dollar-a-0e9d8d32-f920-4d11-a29f-6d4289517289#ref=rss)
+### stadt
+
+* [https://www.spiegel.de/panorama/justiz/vallejo-in-kalifornien-tod-von-willie-mccoy-stadt-zahlt-hinterbliebenen-fuenf-millionen-us-dollar](https://www.spiegel.de/panorama/justiz/vallejo-in-kalifornien-tod-von-willie-mccoy-stadt-zahlt-hinterbliebenen-fuenf-millionen-us-dollar-a-0e9d8d32-f920-4d11-a29f-6d4289517289#ref=rss)
+### hinterbliebenen
+
+* [https://www.spiegel.de/panorama/justiz/vallejo-in-kalifornien-tod-von-willie-mccoy-stadt-zahlt-hinterbliebenen-fuenf-millionen-us-dollar](https://www.spiegel.de/panorama/justiz/vallejo-in-kalifornien-tod-von-willie-mccoy-stadt-zahlt-hinterbliebenen-fuenf-millionen-us-dollar-a-0e9d8d32-f920-4d11-a29f-6d4289517289#ref=rss)
 
