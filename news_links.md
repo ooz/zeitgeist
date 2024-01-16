@@ -4,323 +4,372 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
-
-* [https://www.spiegel.de/wissenschaft/natur/hochwasserschutz-wie-dicht-sind-deutschlands-deiche](https://www.spiegel.de/wissenschaft/natur/hochwasserschutz-wie-dicht-sind-deutschlands-deiche-a-f7536efd-51c8-44a2-80b9-8812768f67bc#ref=rss)
-* [https://www.spiegel.de/ausland/republikaner-caucus-in-iowa-vorwahlen-bei-eiseskaelte](https://www.spiegel.de/ausland/republikaner-caucus-in-iowa-vorwahlen-bei-eiseskaelte-a-353fcf57-a66b-47c1-b575-bab303736e1e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-wie-der-fdp-chef-die-bauern-umgarnen-wollte-und-scheiterte](https://www.spiegel.de/politik/deutschland/christian-lindner-wie-der-fdp-chef-die-bauern-umgarnen-wollte-und-scheiterte-a-3b8161d9-4604-4dde-9929-804eb27770ca#ref=rss)
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-mehr-als-200-ukrainische-kriegsgefangene-verurteilt](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-mehr-als-200-ukrainische-kriegsgefangene-verurteilt-a-ca1bf38f-4e5f-497d-ab3d-c6e28dd57155#ref=rss)
-### bauern
-
-* [https://www.spiegel.de/panorama/christian-lindner-rede-vor-protestierenden-bauern-hau-ab-rufe-und-ein-rauchtopf](https://www.spiegel.de/panorama/christian-lindner-rede-vor-protestierenden-bauern-hau-ab-rufe-und-ein-rauchtopf-a-f7aba62b-c176-406f-b029-67a95d6d5a99#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-bauernpoteste-ukraine-mord-in-ingolstadt](https://www.spiegel.de/politik/deutschland/news-des-tages-bauernpoteste-ukraine-mord-in-ingolstadt-a-2afa2b27-2d89-45fd-8ae8-a50542f9c820#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-wie-der-fdp-chef-die-bauern-umgarnen-wollte-und-scheiterte](https://www.spiegel.de/politik/deutschland/christian-lindner-wie-der-fdp-chef-die-bauern-umgarnen-wollte-und-scheiterte-a-3b8161d9-4604-4dde-9929-804eb27770ca#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/bauernprotest-wirtschaftsweise-veronika-grimm-kritisiert-tierwohlabgabe](https://www.spiegel.de/wirtschaft/service/bauernprotest-wirtschaftsweise-veronika-grimm-kritisiert-tierwohlabgabe-a-737b3eb4-f937-4b31-813c-4b7cc6c740b9#ref=rss)
-### lindner
-
-* [https://www.spiegel.de/panorama/christian-lindner-rede-vor-protestierenden-bauern-hau-ab-rufe-und-ein-rauchtopf](https://www.spiegel.de/panorama/christian-lindner-rede-vor-protestierenden-bauern-hau-ab-rufe-und-ein-rauchtopf-a-f7aba62b-c176-406f-b029-67a95d6d5a99#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-wie-der-fdp-chef-die-bauern-umgarnen-wollte-und-scheiterte](https://www.spiegel.de/politik/deutschland/christian-lindner-wie-der-fdp-chef-die-bauern-umgarnen-wollte-und-scheiterte-a-3b8161d9-4604-4dde-9929-804eb27770ca#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/linkenchef-schirdewan-fordert-machtwort-des-kanzlers-zum-klimageld](https://www.spiegel.de/politik/deutschland/linkenchef-schirdewan-fordert-machtwort-des-kanzlers-zum-klimageld-a-27b046c5-ca23-4372-816d-9736a09366f1#ref=rss)
-### frau
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-bauernpoteste-ukraine-mord-in-ingolstadt](https://www.spiegel.de/politik/deutschland/news-des-tages-bauernpoteste-ukraine-mord-in-ingolstadt-a-2afa2b27-2d89-45fd-8ae8-a50542f9c820#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/brandenburg-lehrerin-auf-a9-erschossen-angeklagte-weisen-mordbeteiligung-zurueck](https://www.spiegel.de/panorama/justiz/brandenburg-lehrerin-auf-a9-erschossen-angeklagte-weisen-mordbeteiligung-zurueck-a-87eeff4f-3567-4c52-9e6f-d90e6488deed#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/london-ehemaliger-polizist-schlaeft-mit-betrunkener-frau-im-streifenwagen-ein-jahr-haft-auf-bewaehrung](https://www.spiegel.de/panorama/justiz/london-ehemaliger-polizist-schlaeft-mit-betrunkener-frau-im-streifenwagen-ein-jahr-haft-auf-bewaehrung-a-358d77b5-a7c0-4c70-b970-f7ad1ee0e032#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-max-eberl-die-suche-nach-dem-neuen-mr-fc-bayern](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-max-eberl-die-suche-nach-dem-neuen-mr-fc-bayern-a-15674635-c469-4341-8b4a-13c4402b9c96#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-max-eberl-die-suche-nach-dem-neuen-mr-fc-bayern](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-max-eberl-die-suche-nach-dem-neuen-mr-fc-bayern-a-15674635-c469-4341-8b4a-13c4402b9c96#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-max-eberl-die-suche-nach-dem-neuen-mr-fc-bayern](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-max-eberl-die-suche-nach-dem-neuen-mr-fc-bayern-a-15674635-c469-4341-8b4a-13c4402b9c96#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-will-13-000-menschen-einstellen](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-will-13-000-menschen-einstellen-a-024adf7e-6a29-4a7c-af98-5ede1ffe4f3c#ref=rss)
-### stellt
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-max-eberl-die-suche-nach-dem-neuen-mr-fc-bayern](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-max-eberl-die-suche-nach-dem-neuen-mr-fc-bayern-a-15674635-c469-4341-8b4a-13c4402b9c96#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-wie-der-fdp-chef-die-bauern-umgarnen-wollte-und-scheiterte](https://www.spiegel.de/politik/deutschland/christian-lindner-wie-der-fdp-chef-die-bauern-umgarnen-wollte-und-scheiterte-a-3b8161d9-4604-4dde-9929-804eb27770ca#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ampel-stellt-landwirtschaft-entlastungen-in-aussicht](https://www.spiegel.de/politik/deutschland/ampel-stellt-landwirtschaft-entlastungen-in-aussicht-a-03754bb4-c200-434e-8fa3-8dd45a31db70#ref=rss)
-### bevor
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-max-eberl-die-suche-nach-dem-neuen-mr-fc-bayern](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-max-eberl-die-suche-nach-dem-neuen-mr-fc-bayern-a-15674635-c469-4341-8b4a-13c4402b9c96#ref=rss)
-* [https://www.spiegel.de/ausland/usa-so-laufen-die-vorwahlen-ab](https://www.spiegel.de/ausland/usa-so-laufen-die-vorwahlen-ab-a-c12b0f39-8a31-4593-84ef-96a58373a98b#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/stuxnet-der-mann-der-stuxnet-nach-natanz-schmuggelte-ist-angeblich-identifiziert](https://www.spiegel.de/netzwelt/netzpolitik/stuxnet-der-mann-der-stuxnet-nach-natanz-schmuggelte-ist-angeblich-identifiziert-a-8d12b0fa-db78-4120-bf53-17f131323392#ref=rss)
-### landwirte
-
-* [https://www.spiegel.de/panorama/christian-lindner-rede-vor-protestierenden-bauern-hau-ab-rufe-und-ein-rauchtopf](https://www.spiegel.de/panorama/christian-lindner-rede-vor-protestierenden-bauern-hau-ab-rufe-und-ein-rauchtopf-a-f7aba62b-c176-406f-b029-67a95d6d5a99#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-wie-der-fdp-chef-die-bauern-umgarnen-wollte-und-scheiterte](https://www.spiegel.de/politik/deutschland/christian-lindner-wie-der-fdp-chef-die-bauern-umgarnen-wollte-und-scheiterte-a-3b8161d9-4604-4dde-9929-804eb27770ca#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ampel-stellt-landwirtschaft-entlastungen-in-aussicht](https://www.spiegel.de/politik/deutschland/ampel-stellt-landwirtschaft-entlastungen-in-aussicht-a-03754bb4-c200-434e-8fa3-8dd45a31db70#ref=rss)
-### finanzminister
-
-* [https://www.spiegel.de/panorama/christian-lindner-rede-vor-protestierenden-bauern-hau-ab-rufe-und-ein-rauchtopf](https://www.spiegel.de/panorama/christian-lindner-rede-vor-protestierenden-bauern-hau-ab-rufe-und-ein-rauchtopf-a-f7aba62b-c176-406f-b029-67a95d6d5a99#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-wie-der-fdp-chef-die-bauern-umgarnen-wollte-und-scheiterte](https://www.spiegel.de/politik/deutschland/christian-lindner-wie-der-fdp-chef-die-bauern-umgarnen-wollte-und-scheiterte-a-3b8161d9-4604-4dde-9929-804eb27770ca#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/linkenchef-schirdewan-fordert-machtwort-des-kanzlers-zum-klimageld](https://www.spiegel.de/politik/deutschland/linkenchef-schirdewan-fordert-machtwort-des-kanzlers-zum-klimageld-a-27b046c5-ca23-4372-816d-9736a09366f1#ref=rss)
-### christian
-
-* [https://www.spiegel.de/panorama/christian-lindner-rede-vor-protestierenden-bauern-hau-ab-rufe-und-ein-rauchtopf](https://www.spiegel.de/panorama/christian-lindner-rede-vor-protestierenden-bauern-hau-ab-rufe-und-ein-rauchtopf-a-f7aba62b-c176-406f-b029-67a95d6d5a99#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-wie-der-fdp-chef-die-bauern-umgarnen-wollte-und-scheiterte](https://www.spiegel.de/politik/deutschland/christian-lindner-wie-der-fdp-chef-die-bauern-umgarnen-wollte-und-scheiterte-a-3b8161d9-4604-4dde-9929-804eb27770ca#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-bauernpoteste-ukraine-mord-in-ingolstadt](https://www.spiegel.de/politik/deutschland/news-des-tages-bauernpoteste-ukraine-mord-in-ingolstadt-a-2afa2b27-2d89-45fd-8ae8-a50542f9c820#ref=rss)
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-mehr-als-200-ukrainische-kriegsgefangene-verurteilt](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-mehr-als-200-ukrainische-kriegsgefangene-verurteilt-a-ca1bf38f-4e5f-497d-ab3d-c6e28dd57155#ref=rss)
-### ampel
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-bauernpoteste-ukraine-mord-in-ingolstadt](https://www.spiegel.de/politik/deutschland/news-des-tages-bauernpoteste-ukraine-mord-in-ingolstadt-a-2afa2b27-2d89-45fd-8ae8-a50542f9c820#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ampel-stellt-landwirtschaft-entlastungen-in-aussicht](https://www.spiegel.de/politik/deutschland/ampel-stellt-landwirtschaft-entlastungen-in-aussicht-a-03754bb4-c200-434e-8fa3-8dd45a31db70#ref=rss)
-### meer
-
-* [https://www.spiegel.de/ausland/rotes-meer-rishi-sunak-rechtfertigt-luftschlaege-gegen-huthi-rebellen](https://www.spiegel.de/ausland/rotes-meer-rishi-sunak-rechtfertigt-luftschlaege-gegen-huthi-rebellen-a-070ea9d3-6e94-47eb-bcba-94179a415fad#ref=rss)
-* [https://www.spiegel.de/ausland/rotes-meer-us-schiff-im-golf-von-aden-von-huthi-rakete-getroffen](https://www.spiegel.de/ausland/rotes-meer-us-schiff-im-golf-von-aden-von-huthi-rakete-getroffen-a-4417e728-c4ae-4603-bdf6-a7520fb6aa4d#ref=rss)
-### austin
-
-* [https://www.spiegel.de/ausland/lloyd-austin-us-verteidigungsminister-austin-aus-krankenhaus-entlassen](https://www.spiegel.de/ausland/lloyd-austin-us-verteidigungsminister-austin-aus-krankenhaus-entlassen-a-60cde49a-d016-42bd-b8b7-dd27dcd2363f#ref=rss)
-### vorwahlen
-
-* [https://www.spiegel.de/ausland/republikaner-caucus-in-iowa-vorwahlen-bei-eiseskaelte](https://www.spiegel.de/ausland/republikaner-caucus-in-iowa-vorwahlen-bei-eiseskaelte-a-353fcf57-a66b-47c1-b575-bab303736e1e#ref=rss)
-* [https://www.spiegel.de/ausland/usa-so-laufen-die-vorwahlen-ab](https://www.spiegel.de/ausland/usa-so-laufen-die-vorwahlen-ab-a-c12b0f39-8a31-4593-84ef-96a58373a98b#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/panorama/justiz/london-ehemaliger-polizist-schlaeft-mit-betrunkener-frau-im-streifenwagen-ein-jahr-haft-auf-bewaehrung](https://www.spiegel.de/panorama/justiz/london-ehemaliger-polizist-schlaeft-mit-betrunkener-frau-im-streifenwagen-ein-jahr-haft-auf-bewaehrung-a-358d77b5-a7c0-4c70-b970-f7ad1ee0e032#ref=rss)
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-mehr-als-200-ukrainische-kriegsgefangene-verurteilt](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-mehr-als-200-ukrainische-kriegsgefangene-verurteilt-a-ca1bf38f-4e5f-497d-ab3d-c6e28dd57155#ref=rss)
-### stuxnet
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/stuxnet-der-mann-der-stuxnet-nach-natanz-schmuggelte-ist-angeblich-identifiziert](https://www.spiegel.de/netzwelt/netzpolitik/stuxnet-der-mann-der-stuxnet-nach-natanz-schmuggelte-ist-angeblich-identifiziert-a-8d12b0fa-db78-4120-bf53-17f131323392#ref=rss)
-### martin
-
-* [https://www.spiegel.de/politik/deutschland/pascal-meiser-zeigt-martin-sellner-wegen-volksverhetzung-an](https://www.spiegel.de/politik/deutschland/pascal-meiser-zeigt-martin-sellner-wegen-volksverhetzung-an-a-7d0a17fc-24c9-41a5-9ace-9fd487c8e9c9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/linkenchef-schirdewan-fordert-machtwort-des-kanzlers-zum-klimageld](https://www.spiegel.de/politik/deutschland/linkenchef-schirdewan-fordert-machtwort-des-kanzlers-zum-klimageld-a-27b046c5-ca23-4372-816d-9736a09366f1#ref=rss)
-### krankengeld
-
-* [https://www.spiegel.de/wirtschaft/service/krankengeld-wird-trotz-verspaeteter-krankschreibung-ausgezahlt](https://www.spiegel.de/wirtschaft/service/krankengeld-wird-trotz-verspaeteter-krankschreibung-ausgezahlt-a-be74881d-c528-44d4-aac9-0e534f14abe5#ref=rss)
-### krankschreibung
-
-* [https://www.spiegel.de/wirtschaft/service/krankengeld-wird-trotz-verspaeteter-krankschreibung-ausgezahlt](https://www.spiegel.de/wirtschaft/service/krankengeld-wird-trotz-verspaeteter-krankschreibung-ausgezahlt-a-be74881d-c528-44d4-aac9-0e534f14abe5#ref=rss)
-### verantwortlich
-
-* [https://www.spiegel.de/wirtschaft/service/krankengeld-wird-trotz-verspaeteter-krankschreibung-ausgezahlt](https://www.spiegel.de/wirtschaft/service/krankengeld-wird-trotz-verspaeteter-krankschreibung-ausgezahlt-a-be74881d-c528-44d4-aac9-0e534f14abe5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/brandenburg-lehrerin-auf-a9-erschossen-angeklagte-weisen-mordbeteiligung-zurueck](https://www.spiegel.de/panorama/justiz/brandenburg-lehrerin-auf-a9-erschossen-angeklagte-weisen-mordbeteiligung-zurueck-a-87eeff4f-3567-4c52-9e6f-d90e6488deed#ref=rss)
-### laut
-
-* [https://www.spiegel.de/wirtschaft/service/krankengeld-wird-trotz-verspaeteter-krankschreibung-ausgezahlt](https://www.spiegel.de/wirtschaft/service/krankengeld-wird-trotz-verspaeteter-krankschreibung-ausgezahlt-a-be74881d-c528-44d4-aac9-0e534f14abe5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/weltwirtschaftsforum-tuerkei-schwaenzt-offenbar-davos-wegen-gazakrieg](https://www.spiegel.de/wirtschaft/weltwirtschaftsforum-tuerkei-schwaenzt-offenbar-davos-wegen-gazakrieg-a-2443e1dd-9bba-4c21-8e66-dbea19142a92#ref=rss)
-### max
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-max-eberl-die-suche-nach-dem-neuen-mr-fc-bayern](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-max-eberl-die-suche-nach-dem-neuen-mr-fc-bayern-a-15674635-c469-4341-8b4a-13c4402b9c96#ref=rss)
-### eberl
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-max-eberl-die-suche-nach-dem-neuen-mr-fc-bayern](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-max-eberl-die-suche-nach-dem-neuen-mr-fc-bayern-a-15674635-c469-4341-8b4a-13c4402b9c96#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-max-eberl-die-suche-nach-dem-neuen-mr-fc-bayern](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-max-eberl-die-suche-nach-dem-neuen-mr-fc-bayern-a-15674635-c469-4341-8b4a-13c4402b9c96#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-will-13-000-menschen-einstellen](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-will-13-000-menschen-einstellen-a-024adf7e-6a29-4a7c-af98-5ede1ffe4f3c#ref=rss)
-### zufolge
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-max-eberl-die-suche-nach-dem-neuen-mr-fc-bayern](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-max-eberl-die-suche-nach-dem-neuen-mr-fc-bayern-a-15674635-c469-4341-8b4a-13c4402b9c96#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/stuxnet-der-mann-der-stuxnet-nach-natanz-schmuggelte-ist-angeblich-identifiziert](https://www.spiegel.de/netzwelt/netzpolitik/stuxnet-der-mann-der-stuxnet-nach-natanz-schmuggelte-ist-angeblich-identifiziert-a-8d12b0fa-db78-4120-bf53-17f131323392#ref=rss)
-### treffen
-
-* [https://www.spiegel.de/politik/deutschland/afd-zweifel-in-ampelparteien-an-verbotsverfahren](https://www.spiegel.de/politik/deutschland/afd-zweifel-in-ampelparteien-an-verbotsverfahren-a-ed41f077-788e-4c68-98f5-de441fdfceb4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ampel-stellt-landwirtschaft-entlastungen-in-aussicht](https://www.spiegel.de/politik/deutschland/ampel-stellt-landwirtschaft-entlastungen-in-aussicht-a-03754bb4-c200-434e-8fa3-8dd45a31db70#ref=rss)
-### deiche
-
-* [https://www.spiegel.de/wissenschaft/natur/hochwasserschutz-wie-dicht-sind-deutschlands-deiche](https://www.spiegel.de/wissenschaft/natur/hochwasserschutz-wie-dicht-sind-deutschlands-deiche-a-f7536efd-51c8-44a2-80b9-8812768f67bc#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/wissenschaft/natur/hochwasserschutz-wie-dicht-sind-deutschlands-deiche](https://www.spiegel.de/wissenschaft/natur/hochwasserschutz-wie-dicht-sind-deutschlands-deiche-a-f7536efd-51c8-44a2-80b9-8812768f67bc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/pascal-meiser-zeigt-martin-sellner-wegen-volksverhetzung-an](https://www.spiegel.de/politik/deutschland/pascal-meiser-zeigt-martin-sellner-wegen-volksverhetzung-an-a-7d0a17fc-24c9-41a5-9ace-9fd487c8e9c9#ref=rss)
+* [https://www.spiegel.de/sport/handball/handball-ueberraschung-von-den-faeroeer-inseln-ein-land-macht-einen-ausflug](https://www.spiegel.de/sport/handball/handball-ueberraschung-von-den-faeroeer-inseln-ein-land-macht-einen-ausflug-a-58eeda90-6640-4ab9-8821-3a50324256d1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-2023-bei-5-9-prozent-nahrungsmittel-deutlich-teurer](https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-2023-bei-5-9-prozent-nahrungsmittel-deutlich-teurer-a-97779168-d8c9-471e-9bb9-ec141a1e2a95#ref=rss)
+* [https://www.spiegel.de/panorama/rettungsdienste-aerzte-schlagen-im-notfall-anruf-bei-116-117-statt-bei-der-112-vor](https://www.spiegel.de/panorama/rettungsdienste-aerzte-schlagen-im-notfall-anruf-bei-116-117-statt-bei-der-112-vor-a-c52e4ec9-1f29-4eaf-b895-109ff0eb5196#ref=rss)
+* [https://www.spiegel.de/start/duales-studium-138-000-menschen-in-deutschland-studieren-dual-so-viele-wie-nie](https://www.spiegel.de/start/duales-studium-138-000-menschen-in-deutschland-studieren-dual-so-viele-wie-nie-a-13acb095-c6f3-4c1f-bf4e-6a287a305b22#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bka-zahl-islamistischer-gefaehrder-in-deutschland-sinkt](https://www.spiegel.de/politik/deutschland/bka-zahl-islamistischer-gefaehrder-in-deutschland-sinkt-a-c773bb48-e588-4231-8555-03bf8a85ad00#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/wissenschaft/natur/hochwasserschutz-wie-dicht-sind-deutschlands-deiche](https://www.spiegel.de/wissenschaft/natur/hochwasserschutz-wie-dicht-sind-deutschlands-deiche-a-f7536efd-51c8-44a2-80b9-8812768f67bc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-will-13-000-menschen-einstellen](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-will-13-000-menschen-einstellen-a-024adf7e-6a29-4a7c-af98-5ede1ffe4f3c#ref=rss)
-### berlin
+* [https://www.spiegel.de/ausland/ukraine-ordnet-evakuierung-mehrerer-doerfer-in-frontnaehe-an](https://www.spiegel.de/ausland/ukraine-ordnet-evakuierung-mehrerer-doerfer-in-frontnaehe-an-a-6d413313-92c9-4b15-a407-6189bcdd3829#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/ifo-forscher-wollen-rentenalter-an-lebenserwartung-koppeln-und-die-erhoehung-an-die-inflation](https://www.spiegel.de/wirtschaft/soziales/ifo-forscher-wollen-rentenalter-an-lebenserwartung-koppeln-und-die-erhoehung-an-die-inflation-a-de6a4441-eebe-4845-be3d-578fc1aef6d2#ref=rss)
+* [https://www.spiegel.de/sport/handball/handball-ueberraschung-von-den-faeroeer-inseln-ein-land-macht-einen-ausflug](https://www.spiegel.de/sport/handball/handball-ueberraschung-von-den-faeroeer-inseln-ein-land-macht-einen-ausflug-a-58eeda90-6640-4ab9-8821-3a50324256d1#ref=rss)
+* [https://www.spiegel.de/start/duales-studium-138-000-menschen-in-deutschland-studieren-dual-so-viele-wie-nie](https://www.spiegel.de/start/duales-studium-138-000-menschen-in-deutschland-studieren-dual-so-viele-wie-nie-a-13acb095-c6f3-4c1f-bf4e-6a287a305b22#ref=rss)
+* [https://www.spiegel.de/panorama/usa-arizona-vier-tote-bei-absturz-eines-heissluftballons](https://www.spiegel.de/panorama/usa-arizona-vier-tote-bei-absturz-eines-heissluftballons-a-8f5fa9bf-ba81-443c-8f38-02b174759c78#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-sollen-bjoern-hoecke-die-grundrechte-entzogen-werden-hunderttausende-unterschreiben-petition](https://www.spiegel.de/politik/deutschland/afd-sollen-bjoern-hoecke-die-grundrechte-entzogen-werden-hunderttausende-unterschreiben-petition-a-93749ac5-5dd7-45a2-aa13-69533941fb25#ref=rss)
+### donald
 
-* [https://www.spiegel.de/panorama/christian-lindner-rede-vor-protestierenden-bauern-hau-ab-rufe-und-ein-rauchtopf](https://www.spiegel.de/panorama/christian-lindner-rede-vor-protestierenden-bauern-hau-ab-rufe-und-ein-rauchtopf-a-f7aba62b-c176-406f-b029-67a95d6d5a99#ref=rss)
-* [https://www.spiegel.de/kultur/kino/berlinale-zeigt-14-stunden-film-exergue-on-documenta-14](https://www.spiegel.de/kultur/kino/berlinale-zeigt-14-stunden-film-exergue-on-documenta-14-a-437f846d-fcff-447b-95b5-a981964299b6#ref=rss)
-### junge
+* [https://www.spiegel.de/ausland/donald-trump-triumphiert-in-iowa-er-hat-sogar-nikki-haley-und-ron-desantis-gelobt](https://www.spiegel.de/ausland/donald-trump-triumphiert-in-iowa-er-hat-sogar-nikki-haley-und-ron-desantis-gelobt-a-24730bfa-7a39-4368-8e9f-74a1a20fccdd#ref=rss)
+* [https://www.spiegel.de/ausland/vorwahl-in-iowa-sorge-bei-der-cdu-freude-in-ungarn-die-reaktionen-auf-den-sieg-von-donald-trump](https://www.spiegel.de/ausland/vorwahl-in-iowa-sorge-bei-der-cdu-freude-in-ungarn-die-reaktionen-auf-den-sieg-von-donald-trump-a-c64af56a-29bc-4ab8-81ef-689bbedf2156#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-vorwahlsieg-in-iowa-von-hoffnung-zu-horror-kommentar](https://www.spiegel.de/ausland/donald-trump-vorwahlsieg-in-iowa-von-hoffnung-zu-horror-kommentar-a-af287fe6-2544-40f9-b0d6-8abe0eb56d5d#ref=rss)
+### trump
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-bauernpoteste-ukraine-mord-in-ingolstadt](https://www.spiegel.de/politik/deutschland/news-des-tages-bauernpoteste-ukraine-mord-in-ingolstadt-a-2afa2b27-2d89-45fd-8ae8-a50542f9c820#ref=rss)
-### rotes
+* [https://www.spiegel.de/ausland/donald-trump-triumphiert-in-iowa-er-hat-sogar-nikki-haley-und-ron-desantis-gelobt](https://www.spiegel.de/ausland/donald-trump-triumphiert-in-iowa-er-hat-sogar-nikki-haley-und-ron-desantis-gelobt-a-24730bfa-7a39-4368-8e9f-74a1a20fccdd#ref=rss)
+* [https://www.spiegel.de/ausland/vorwahl-in-iowa-sorge-bei-der-cdu-freude-in-ungarn-die-reaktionen-auf-den-sieg-von-donald-trump](https://www.spiegel.de/ausland/vorwahl-in-iowa-sorge-bei-der-cdu-freude-in-ungarn-die-reaktionen-auf-den-sieg-von-donald-trump-a-c64af56a-29bc-4ab8-81ef-689bbedf2156#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-vorwahlsieg-in-iowa-von-hoffnung-zu-horror-kommentar](https://www.spiegel.de/ausland/donald-trump-vorwahlsieg-in-iowa-von-hoffnung-zu-horror-kommentar-a-af287fe6-2544-40f9-b0d6-8abe0eb56d5d#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/ausland/rotes-meer-rishi-sunak-rechtfertigt-luftschlaege-gegen-huthi-rebellen](https://www.spiegel.de/ausland/rotes-meer-rishi-sunak-rechtfertigt-luftschlaege-gegen-huthi-rebellen-a-070ea9d3-6e94-47eb-bcba-94179a415fad#ref=rss)
-* [https://www.spiegel.de/ausland/rotes-meer-us-schiff-im-golf-von-aden-von-huthi-rakete-getroffen](https://www.spiegel.de/ausland/rotes-meer-us-schiff-im-golf-von-aden-von-huthi-rakete-getroffen-a-4417e728-c4ae-4603-bdf6-a7520fb6aa4d#ref=rss)
-### sunak
-
-* [https://www.spiegel.de/ausland/rotes-meer-rishi-sunak-rechtfertigt-luftschlaege-gegen-huthi-rebellen](https://www.spiegel.de/ausland/rotes-meer-rishi-sunak-rechtfertigt-luftschlaege-gegen-huthi-rebellen-a-070ea9d3-6e94-47eb-bcba-94179a415fad#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/ausland/rotes-meer-rishi-sunak-rechtfertigt-luftschlaege-gegen-huthi-rebellen](https://www.spiegel.de/ausland/rotes-meer-rishi-sunak-rechtfertigt-luftschlaege-gegen-huthi-rebellen-a-070ea9d3-6e94-47eb-bcba-94179a415fad#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/brandenburg-lehrerin-auf-a9-erschossen-angeklagte-weisen-mordbeteiligung-zurueck](https://www.spiegel.de/panorama/justiz/brandenburg-lehrerin-auf-a9-erschossen-angeklagte-weisen-mordbeteiligung-zurueck-a-87eeff4f-3567-4c52-9e6f-d90e6488deed#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/rotes-meer-rishi-sunak-rechtfertigt-luftschlaege-gegen-huthi-rebellen](https://www.spiegel.de/ausland/rotes-meer-rishi-sunak-rechtfertigt-luftschlaege-gegen-huthi-rebellen-a-070ea9d3-6e94-47eb-bcba-94179a415fad#ref=rss)
-* [https://www.spiegel.de/ausland/usa-so-laufen-die-vorwahlen-ab](https://www.spiegel.de/ausland/usa-so-laufen-die-vorwahlen-ab-a-c12b0f39-8a31-4593-84ef-96a58373a98b#ref=rss)
-### findet
-
-* [https://www.spiegel.de/ausland/rotes-meer-rishi-sunak-rechtfertigt-luftschlaege-gegen-huthi-rebellen](https://www.spiegel.de/ausland/rotes-meer-rishi-sunak-rechtfertigt-luftschlaege-gegen-huthi-rebellen-a-070ea9d3-6e94-47eb-bcba-94179a415fad#ref=rss)
-* [https://www.spiegel.de/wirtschaft/weltwirtschaftsforum-tuerkei-schwaenzt-offenbar-davos-wegen-gazakrieg](https://www.spiegel.de/wirtschaft/weltwirtschaftsforum-tuerkei-schwaenzt-offenbar-davos-wegen-gazakrieg-a-2443e1dd-9bba-4c21-8e66-dbea19142a92#ref=rss)
-### lloyd
-
-* [https://www.spiegel.de/ausland/lloyd-austin-us-verteidigungsminister-austin-aus-krankenhaus-entlassen](https://www.spiegel.de/ausland/lloyd-austin-us-verteidigungsminister-austin-aus-krankenhaus-entlassen-a-60cde49a-d016-42bd-b8b7-dd27dcd2363f#ref=rss)
-### krankenhaus
-
-* [https://www.spiegel.de/ausland/lloyd-austin-us-verteidigungsminister-austin-aus-krankenhaus-entlassen](https://www.spiegel.de/ausland/lloyd-austin-us-verteidigungsminister-austin-aus-krankenhaus-entlassen-a-60cde49a-d016-42bd-b8b7-dd27dcd2363f#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-triumphiert-in-iowa-er-hat-sogar-nikki-haley-und-ron-desantis-gelobt](https://www.spiegel.de/ausland/donald-trump-triumphiert-in-iowa-er-hat-sogar-nikki-haley-und-ron-desantis-gelobt-a-24730bfa-7a39-4368-8e9f-74a1a20fccdd#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-getoetete-journalisten-in-nahost-im-kreuzfeuer](https://www.spiegel.de/ausland/israel-gaza-krieg-getoetete-journalisten-in-nahost-im-kreuzfeuer-a-105d01dd-6abc-4f20-a1e1-f0c92c7f3248#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-vorwahlsieg-in-iowa-von-hoffnung-zu-horror-kommentar](https://www.spiegel.de/ausland/donald-trump-vorwahlsieg-in-iowa-von-hoffnung-zu-horror-kommentar-a-af287fe6-2544-40f9-b0d6-8abe0eb56d5d#ref=rss)
+* [https://www.spiegel.de/start/duales-studium-138-000-menschen-in-deutschland-studieren-dual-so-viele-wie-nie](https://www.spiegel.de/start/duales-studium-138-000-menschen-in-deutschland-studieren-dual-so-viele-wie-nie-a-13acb095-c6f3-4c1f-bf4e-6a287a305b22#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-sollen-bjoern-hoecke-die-grundrechte-entzogen-werden-hunderttausende-unterschreiben-petition](https://www.spiegel.de/politik/deutschland/afd-sollen-bjoern-hoecke-die-grundrechte-entzogen-werden-hunderttausende-unterschreiben-petition-a-93749ac5-5dd7-45a2-aa13-69533941fb25#ref=rss)
 ### iowa
 
-* [https://www.spiegel.de/ausland/republikaner-caucus-in-iowa-vorwahlen-bei-eiseskaelte](https://www.spiegel.de/ausland/republikaner-caucus-in-iowa-vorwahlen-bei-eiseskaelte-a-353fcf57-a66b-47c1-b575-bab303736e1e#ref=rss)
-### spiegelkorrespondent
+* [https://www.spiegel.de/ausland/donald-trump-triumphiert-in-iowa-er-hat-sogar-nikki-haley-und-ron-desantis-gelobt](https://www.spiegel.de/ausland/donald-trump-triumphiert-in-iowa-er-hat-sogar-nikki-haley-und-ron-desantis-gelobt-a-24730bfa-7a39-4368-8e9f-74a1a20fccdd#ref=rss)
+* [https://www.spiegel.de/ausland/vorwahl-in-iowa-sorge-bei-der-cdu-freude-in-ungarn-die-reaktionen-auf-den-sieg-von-donald-trump](https://www.spiegel.de/ausland/vorwahl-in-iowa-sorge-bei-der-cdu-freude-in-ungarn-die-reaktionen-auf-den-sieg-von-donald-trump-a-c64af56a-29bc-4ab8-81ef-689bbedf2156#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-vorwahlsieg-in-iowa-von-hoffnung-zu-horror-kommentar](https://www.spiegel.de/ausland/donald-trump-vorwahlsieg-in-iowa-von-hoffnung-zu-horror-kommentar-a-af287fe6-2544-40f9-b0d6-8abe0eb56d5d#ref=rss)
+### lindner
 
-* [https://www.spiegel.de/ausland/republikaner-caucus-in-iowa-vorwahlen-bei-eiseskaelte](https://www.spiegel.de/ausland/republikaner-caucus-in-iowa-vorwahlen-bei-eiseskaelte-a-353fcf57-a66b-47c1-b575-bab303736e1e#ref=rss)
-* [https://www.spiegel.de/ausland/taiwan-wahl-china-rueckt-nicht-ab-von-seinem-ultimativen-ziel-taiwan-heimzuholen](https://www.spiegel.de/ausland/taiwan-wahl-china-rueckt-nicht-ab-von-seinem-ultimativen-ziel-taiwan-heimzuholen-a-eee8d72e-2eae-4343-b1af-19ce308dc57c#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/ausland/republikaner-caucus-in-iowa-vorwahlen-bei-eiseskaelte](https://www.spiegel.de/ausland/republikaner-caucus-in-iowa-vorwahlen-bei-eiseskaelte-a-353fcf57-a66b-47c1-b575-bab303736e1e#ref=rss)
-* [https://www.spiegel.de/ausland/taiwan-wahl-china-rueckt-nicht-ab-von-seinem-ultimativen-ziel-taiwan-heimzuholen](https://www.spiegel.de/ausland/taiwan-wahl-china-rueckt-nicht-ab-von-seinem-ultimativen-ziel-taiwan-heimzuholen-a-eee8d72e-2eae-4343-b1af-19ce308dc57c#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/kultur/kino/berlinale-zeigt-14-stunden-film-exergue-on-documenta-14](https://www.spiegel.de/kultur/kino/berlinale-zeigt-14-stunden-film-exergue-on-documenta-14-a-437f846d-fcff-447b-95b5-a981964299b6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/pascal-meiser-zeigt-martin-sellner-wegen-volksverhetzung-an](https://www.spiegel.de/politik/deutschland/pascal-meiser-zeigt-martin-sellner-wegen-volksverhetzung-an-a-7d0a17fc-24c9-41a5-9ace-9fd487c8e9c9#ref=rss)
-### film
-
-* [https://www.spiegel.de/kultur/kino/berlinale-zeigt-14-stunden-film-exergue-on-documenta-14](https://www.spiegel.de/kultur/kino/berlinale-zeigt-14-stunden-film-exergue-on-documenta-14-a-437f846d-fcff-447b-95b5-a981964299b6#ref=rss)
-* [https://www.spiegel.de/kultur/kino/elisabeth-trissenaar-ist-tot-spielte-in-mehreren-fassbinder-filmen](https://www.spiegel.de/kultur/kino/elisabeth-trissenaar-ist-tot-spielte-in-mehreren-fassbinder-filmen-a-5f552c64-3d27-47ab-a1cc-dd64b9fb5ad2#ref=rss)
-### a9
-
-* [https://www.spiegel.de/panorama/justiz/brandenburg-lehrerin-auf-a9-erschossen-angeklagte-weisen-mordbeteiligung-zurueck](https://www.spiegel.de/panorama/justiz/brandenburg-lehrerin-auf-a9-erschossen-angeklagte-weisen-mordbeteiligung-zurueck-a-87eeff4f-3567-4c52-9e6f-d90e6488deed#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/panorama/justiz/brandenburg-lehrerin-auf-a9-erschossen-angeklagte-weisen-mordbeteiligung-zurueck](https://www.spiegel.de/panorama/justiz/brandenburg-lehrerin-auf-a9-erschossen-angeklagte-weisen-mordbeteiligung-zurueck-a-87eeff4f-3567-4c52-9e6f-d90e6488deed#ref=rss)
-* [https://www.spiegel.de/kultur/kino/elisabeth-trissenaar-ist-tot-spielte-in-mehreren-fassbinder-filmen](https://www.spiegel.de/kultur/kino/elisabeth-trissenaar-ist-tot-spielte-in-mehreren-fassbinder-filmen-a-5f552c64-3d27-47ab-a1cc-dd64b9fb5ad2#ref=rss)
-### unwort
-
-* [https://www.spiegel.de/politik/deutschland/remigration-olaf-scholz-mit-deutlicher-aussage-zum-unwort-des-jahres](https://www.spiegel.de/politik/deutschland/remigration-olaf-scholz-mit-deutlicher-aussage-zum-unwort-des-jahres-a-661567e5-239b-4f8a-b0ab-091cebb96dfa#ref=rss)
-### jahres
-
-* [https://www.spiegel.de/politik/deutschland/remigration-olaf-scholz-mit-deutlicher-aussage-zum-unwort-des-jahres](https://www.spiegel.de/politik/deutschland/remigration-olaf-scholz-mit-deutlicher-aussage-zum-unwort-des-jahres-a-661567e5-239b-4f8a-b0ab-091cebb96dfa#ref=rss)
-### entscheidung
-
-* [https://www.spiegel.de/politik/deutschland/remigration-olaf-scholz-mit-deutlicher-aussage-zum-unwort-des-jahres](https://www.spiegel.de/politik/deutschland/remigration-olaf-scholz-mit-deutlicher-aussage-zum-unwort-des-jahres-a-661567e5-239b-4f8a-b0ab-091cebb96dfa#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ampel-stellt-landwirtschaft-entlastungen-in-aussicht](https://www.spiegel.de/politik/deutschland/ampel-stellt-landwirtschaft-entlastungen-in-aussicht-a-03754bb4-c200-434e-8fa3-8dd45a31db70#ref=rss)
-### fdpchef
-
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-wie-der-fdp-chef-die-bauern-umgarnen-wollte-und-scheiterte](https://www.spiegel.de/politik/deutschland/christian-lindner-wie-der-fdp-chef-die-bauern-umgarnen-wollte-und-scheiterte-a-3b8161d9-4604-4dde-9929-804eb27770ca#ref=rss)
-### rallye
-
-* [https://www.spiegel.de/sport/rallye-dakar-spanischer-motorradfahrer-carles-falcon-stirbt-nach-sturz](https://www.spiegel.de/sport/rallye-dakar-spanischer-motorradfahrer-carles-falcon-stirbt-nach-sturz-a-85fb9a45-e9b9-45f6-a06a-d4fa47cbab82#ref=rss)
-### dakar
-
-* [https://www.spiegel.de/sport/rallye-dakar-spanischer-motorradfahrer-carles-falcon-stirbt-nach-sturz](https://www.spiegel.de/sport/rallye-dakar-spanischer-motorradfahrer-carles-falcon-stirbt-nach-sturz-a-85fb9a45-e9b9-45f6-a06a-d4fa47cbab82#ref=rss)
-### carles
-
-* [https://www.spiegel.de/sport/rallye-dakar-spanischer-motorradfahrer-carles-falcon-stirbt-nach-sturz](https://www.spiegel.de/sport/rallye-dakar-spanischer-motorradfahrer-carles-falcon-stirbt-nach-sturz-a-85fb9a45-e9b9-45f6-a06a-d4fa47cbab82#ref=rss)
-### falcon
-
-* [https://www.spiegel.de/sport/rallye-dakar-spanischer-motorradfahrer-carles-falcon-stirbt-nach-sturz](https://www.spiegel.de/sport/rallye-dakar-spanischer-motorradfahrer-carles-falcon-stirbt-nach-sturz-a-85fb9a45-e9b9-45f6-a06a-d4fa47cbab82#ref=rss)
-### folgen
-
-* [https://www.spiegel.de/sport/rallye-dakar-spanischer-motorradfahrer-carles-falcon-stirbt-nach-sturz](https://www.spiegel.de/sport/rallye-dakar-spanischer-motorradfahrer-carles-falcon-stirbt-nach-sturz-a-85fb9a45-e9b9-45f6-a06a-d4fa47cbab82#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/ki-wird-vermutlich-knapp-die-haelfte-aller-jobs-veraendern](https://www.spiegel.de/wirtschaft/soziales/ki-wird-vermutlich-knapp-die-haelfte-aller-jobs-veraendern-a-85a9a5e0-267a-46ea-9e04-fa2cf4d32b8c#ref=rss)
-### weltwirtschaftsforum
-
-* [https://www.spiegel.de/wirtschaft/weltwirtschaftsforum-tuerkei-schwaenzt-offenbar-davos-wegen-gazakrieg](https://www.spiegel.de/wirtschaft/weltwirtschaftsforum-tuerkei-schwaenzt-offenbar-davos-wegen-gazakrieg-a-2443e1dd-9bba-4c21-8e66-dbea19142a92#ref=rss)
-### krieg
-
-* [https://www.spiegel.de/wirtschaft/weltwirtschaftsforum-tuerkei-schwaenzt-offenbar-davos-wegen-gazakrieg](https://www.spiegel.de/wirtschaft/weltwirtschaftsforum-tuerkei-schwaenzt-offenbar-davos-wegen-gazakrieg-a-2443e1dd-9bba-4c21-8e66-dbea19142a92#ref=rss)
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-mehr-als-200-ukrainische-kriegsgefangene-verurteilt](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-mehr-als-200-ukrainische-kriegsgefangene-verurteilt-a-ca1bf38f-4e5f-497d-ab3d-c6e28dd57155#ref=rss)
-### london
-
-* [https://www.spiegel.de/panorama/justiz/london-ehemaliger-polizist-schlaeft-mit-betrunkener-frau-im-streifenwagen-ein-jahr-haft-auf-bewaehrung](https://www.spiegel.de/panorama/justiz/london-ehemaliger-polizist-schlaeft-mit-betrunkener-frau-im-streifenwagen-ein-jahr-haft-auf-bewaehrung-a-358d77b5-a7c0-4c70-b970-f7ad1ee0e032#ref=rss)
-### streifenwagen
-
-* [https://www.spiegel.de/panorama/justiz/london-ehemaliger-polizist-schlaeft-mit-betrunkener-frau-im-streifenwagen-ein-jahr-haft-auf-bewaehrung](https://www.spiegel.de/panorama/justiz/london-ehemaliger-polizist-schlaeft-mit-betrunkener-frau-im-streifenwagen-ein-jahr-haft-auf-bewaehrung-a-358d77b5-a7c0-4c70-b970-f7ad1ee0e032#ref=rss)
-### janphilipp
-
-* [https://www.spiegel.de/kultur/jan-philipp-reemtsma-will-hamburger-institut-fuer-sozialforschung-2028-schliessen](https://www.spiegel.de/kultur/jan-philipp-reemtsma-will-hamburger-institut-fuer-sozialforschung-2028-schliessen-a-cc1e894f-b338-4ecd-881b-f4c15f67bd80#ref=rss)
-### reemtsma
-
-* [https://www.spiegel.de/kultur/jan-philipp-reemtsma-will-hamburger-institut-fuer-sozialforschung-2028-schliessen](https://www.spiegel.de/kultur/jan-philipp-reemtsma-will-hamburger-institut-fuer-sozialforschung-2028-schliessen-a-cc1e894f-b338-4ecd-881b-f4c15f67bd80#ref=rss)
-### institut
-
-* [https://www.spiegel.de/kultur/jan-philipp-reemtsma-will-hamburger-institut-fuer-sozialforschung-2028-schliessen](https://www.spiegel.de/kultur/jan-philipp-reemtsma-will-hamburger-institut-fuer-sozialforschung-2028-schliessen-a-cc1e894f-b338-4ecd-881b-f4c15f67bd80#ref=rss)
-### sozialforschung
-
-* [https://www.spiegel.de/kultur/jan-philipp-reemtsma-will-hamburger-institut-fuer-sozialforschung-2028-schliessen](https://www.spiegel.de/kultur/jan-philipp-reemtsma-will-hamburger-institut-fuer-sozialforschung-2028-schliessen-a-cc1e894f-b338-4ecd-881b-f4c15f67bd80#ref=rss)
-### schließen
-
-* [https://www.spiegel.de/kultur/jan-philipp-reemtsma-will-hamburger-institut-fuer-sozialforschung-2028-schliessen](https://www.spiegel.de/kultur/jan-philipp-reemtsma-will-hamburger-institut-fuer-sozialforschung-2028-schliessen-a-cc1e894f-b338-4ecd-881b-f4c15f67bd80#ref=rss)
-### golf
-
-* [https://www.spiegel.de/ausland/rotes-meer-us-schiff-im-golf-von-aden-von-huthi-rakete-getroffen](https://www.spiegel.de/ausland/rotes-meer-us-schiff-im-golf-von-aden-von-huthi-rakete-getroffen-a-4417e728-c4ae-4603-bdf6-a7520fb6aa4d#ref=rss)
-### aden
-
-* [https://www.spiegel.de/ausland/rotes-meer-us-schiff-im-golf-von-aden-von-huthi-rakete-getroffen](https://www.spiegel.de/ausland/rotes-meer-us-schiff-im-golf-von-aden-von-huthi-rakete-getroffen-a-4417e728-c4ae-4603-bdf6-a7520fb6aa4d#ref=rss)
-### huthirakete
-
-* [https://www.spiegel.de/ausland/rotes-meer-us-schiff-im-golf-von-aden-von-huthi-rakete-getroffen](https://www.spiegel.de/ausland/rotes-meer-us-schiff-im-golf-von-aden-von-huthi-rakete-getroffen-a-4417e728-c4ae-4603-bdf6-a7520fb6aa4d#ref=rss)
-### getroffen
-
-* [https://www.spiegel.de/ausland/rotes-meer-us-schiff-im-golf-von-aden-von-huthi-rakete-getroffen](https://www.spiegel.de/ausland/rotes-meer-us-schiff-im-golf-von-aden-von-huthi-rakete-getroffen-a-4417e728-c4ae-4603-bdf6-a7520fb6aa4d#ref=rss)
-### elisabeth
-
-* [https://www.spiegel.de/kultur/kino/elisabeth-trissenaar-ist-tot-spielte-in-mehreren-fassbinder-filmen](https://www.spiegel.de/kultur/kino/elisabeth-trissenaar-ist-tot-spielte-in-mehreren-fassbinder-filmen-a-5f552c64-3d27-47ab-a1cc-dd64b9fb5ad2#ref=rss)
-### trissenaar
-
-* [https://www.spiegel.de/kultur/kino/elisabeth-trissenaar-ist-tot-spielte-in-mehreren-fassbinder-filmen](https://www.spiegel.de/kultur/kino/elisabeth-trissenaar-ist-tot-spielte-in-mehreren-fassbinder-filmen-a-5f552c64-3d27-47ab-a1cc-dd64b9fb5ad2#ref=rss)
-### mann
-
-* [https://www.spiegel.de/kultur/kino/elisabeth-trissenaar-ist-tot-spielte-in-mehreren-fassbinder-filmen](https://www.spiegel.de/kultur/kino/elisabeth-trissenaar-ist-tot-spielte-in-mehreren-fassbinder-filmen-a-5f552c64-3d27-47ab-a1cc-dd64b9fb5ad2#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/stuxnet-der-mann-der-stuxnet-nach-natanz-schmuggelte-ist-angeblich-identifiziert](https://www.spiegel.de/netzwelt/netzpolitik/stuxnet-der-mann-der-stuxnet-nach-natanz-schmuggelte-ist-angeblich-identifiziert-a-8d12b0fa-db78-4120-bf53-17f131323392#ref=rss)
-### veronika
-
-* [https://www.spiegel.de/wirtschaft/service/bauernprotest-wirtschaftsweise-veronika-grimm-kritisiert-tierwohlabgabe](https://www.spiegel.de/wirtschaft/service/bauernprotest-wirtschaftsweise-veronika-grimm-kritisiert-tierwohlabgabe-a-737b3eb4-f937-4b31-813c-4b7cc6c740b9#ref=rss)
-### grimm
-
-* [https://www.spiegel.de/wirtschaft/service/bauernprotest-wirtschaftsweise-veronika-grimm-kritisiert-tierwohlabgabe](https://www.spiegel.de/wirtschaft/service/bauernprotest-wirtschaftsweise-veronika-grimm-kritisiert-tierwohlabgabe-a-737b3eb4-f937-4b31-813c-4b7cc6c740b9#ref=rss)
-### tierwohlabgabe
-
-* [https://www.spiegel.de/wirtschaft/service/bauernprotest-wirtschaftsweise-veronika-grimm-kritisiert-tierwohlabgabe](https://www.spiegel.de/wirtschaft/service/bauernprotest-wirtschaftsweise-veronika-grimm-kritisiert-tierwohlabgabe-a-737b3eb4-f937-4b31-813c-4b7cc6c740b9#ref=rss)
-### wann
-
-* [https://www.spiegel.de/ausland/usa-so-laufen-die-vorwahlen-ab](https://www.spiegel.de/ausland/usa-so-laufen-die-vorwahlen-ab-a-c12b0f39-8a31-4593-84ef-96a58373a98b#ref=rss)
-### 200
-
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-mehr-als-200-ukrainische-kriegsgefangene-verurteilt](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-mehr-als-200-ukrainische-kriegsgefangene-verurteilt-a-ca1bf38f-4e5f-497d-ab3d-c6e28dd57155#ref=rss)
-### ukrainische
-
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-mehr-als-200-ukrainische-kriegsgefangene-verurteilt](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-mehr-als-200-ukrainische-kriegsgefangene-verurteilt-a-ca1bf38f-4e5f-497d-ab3d-c6e28dd57155#ref=rss)
-### kriegsgefangene
-
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-mehr-als-200-ukrainische-kriegsgefangene-verurteilt](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-mehr-als-200-ukrainische-kriegsgefangene-verurteilt-a-ca1bf38f-4e5f-497d-ab3d-c6e28dd57155#ref=rss)
-### nordkorea
-
-* [https://www.spiegel.de/ausland/nordkorea-und-suedkorea-vom-wettruester-zum-waffenexporteur](https://www.spiegel.de/ausland/nordkorea-und-suedkorea-vom-wettruester-zum-waffenexporteur-a-7e888b08-b366-4a4a-97f9-b6b9be9f077e#ref=rss)
-### südkorea
-
-* [https://www.spiegel.de/ausland/nordkorea-und-suedkorea-vom-wettruester-zum-waffenexporteur](https://www.spiegel.de/ausland/nordkorea-und-suedkorea-vom-wettruester-zum-waffenexporteur-a-7e888b08-b366-4a4a-97f9-b6b9be9f077e#ref=rss)
-### taiwan
-
-* [https://www.spiegel.de/ausland/taiwan-wahl-china-rueckt-nicht-ab-von-seinem-ultimativen-ziel-taiwan-heimzuholen](https://www.spiegel.de/ausland/taiwan-wahl-china-rueckt-nicht-ab-von-seinem-ultimativen-ziel-taiwan-heimzuholen-a-eee8d72e-2eae-4343-b1af-19ce308dc57c#ref=rss)
-### sellner
-
-* [https://www.spiegel.de/politik/deutschland/pascal-meiser-zeigt-martin-sellner-wegen-volksverhetzung-an](https://www.spiegel.de/politik/deutschland/pascal-meiser-zeigt-martin-sellner-wegen-volksverhetzung-an-a-7d0a17fc-24c9-41a5-9ace-9fd487c8e9c9#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/politik/deutschland/pascal-meiser-zeigt-martin-sellner-wegen-volksverhetzung-an](https://www.spiegel.de/politik/deutschland/pascal-meiser-zeigt-martin-sellner-wegen-volksverhetzung-an-a-7d0a17fc-24c9-41a5-9ace-9fd487c8e9c9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/linkenchef-schirdewan-fordert-machtwort-des-kanzlers-zum-klimageld](https://www.spiegel.de/politik/deutschland/linkenchef-schirdewan-fordert-machtwort-des-kanzlers-zum-klimageld-a-27b046c5-ca23-4372-816d-9736a09366f1#ref=rss)
-### darin
-
-* [https://www.spiegel.de/politik/deutschland/pascal-meiser-zeigt-martin-sellner-wegen-volksverhetzung-an](https://www.spiegel.de/politik/deutschland/pascal-meiser-zeigt-martin-sellner-wegen-volksverhetzung-an-a-7d0a17fc-24c9-41a5-9ace-9fd487c8e9c9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/linkenchef-schirdewan-fordert-machtwort-des-kanzlers-zum-klimageld](https://www.spiegel.de/politik/deutschland/linkenchef-schirdewan-fordert-machtwort-des-kanzlers-zum-klimageld-a-27b046c5-ca23-4372-816d-9736a09366f1#ref=rss)
-### iwf
-
-* [https://www.spiegel.de/wirtschaft/soziales/ki-wird-vermutlich-knapp-die-haelfte-aller-jobs-veraendern](https://www.spiegel.de/wirtschaft/soziales/ki-wird-vermutlich-knapp-die-haelfte-aller-jobs-veraendern-a-85a9a5e0-267a-46ea-9e04-fa2cf4d32b8c#ref=rss)
-### jobs
-
-* [https://www.spiegel.de/wirtschaft/soziales/ki-wird-vermutlich-knapp-die-haelfte-aller-jobs-veraendern](https://www.spiegel.de/wirtschaft/soziales/ki-wird-vermutlich-knapp-die-haelfte-aller-jobs-veraendern-a-85a9a5e0-267a-46ea-9e04-fa2cf4d32b8c#ref=rss)
-### linke
-
-* [https://www.spiegel.de/politik/deutschland/linkenchef-schirdewan-fordert-machtwort-des-kanzlers-zum-klimageld](https://www.spiegel.de/politik/deutschland/linkenchef-schirdewan-fordert-machtwort-des-kanzlers-zum-klimageld-a-27b046c5-ca23-4372-816d-9736a09366f1#ref=rss)
+* [https://www.spiegel.de/politik/wortbruch-mit-ansage-der-finanzminister-verkuendet-das-vorlaeufige-aus-fuer-das-klimageld-spiegel-leitartikel](https://www.spiegel.de/politik/wortbruch-mit-ansage-der-finanzminister-verkuendet-das-vorlaeufige-aus-fuer-das-klimageld-spiegel-leitartikel-a-879eb85f-1341-47f8-9d08-e69862cd832f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/klimageld-ausgleich-fuer-steigende-co2-preise-koennte-erst-2027-kommen](https://www.spiegel.de/wirtschaft/service/klimageld-ausgleich-fuer-steigende-co2-preise-koennte-erst-2027-kommen-a-20b774f9-a0b4-474d-a885-03f550f329d1#ref=rss)
 ### klimageld
 
-* [https://www.spiegel.de/politik/deutschland/linkenchef-schirdewan-fordert-machtwort-des-kanzlers-zum-klimageld](https://www.spiegel.de/politik/deutschland/linkenchef-schirdewan-fordert-machtwort-des-kanzlers-zum-klimageld-a-27b046c5-ca23-4372-816d-9736a09366f1#ref=rss)
+* [https://www.spiegel.de/politik/wortbruch-mit-ansage-der-finanzminister-verkuendet-das-vorlaeufige-aus-fuer-das-klimageld-spiegel-leitartikel](https://www.spiegel.de/politik/wortbruch-mit-ansage-der-finanzminister-verkuendet-das-vorlaeufige-aus-fuer-das-klimageld-spiegel-leitartikel-a-879eb85f-1341-47f8-9d08-e69862cd832f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/klimageld-ausgleich-fuer-steigende-co2-preise-koennte-erst-2027-kommen](https://www.spiegel.de/wirtschaft/service/klimageld-ausgleich-fuer-steigende-co2-preise-koennte-erst-2027-kommen-a-20b774f9-a0b4-474d-a885-03f550f329d1#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/ukraine-ordnet-evakuierung-mehrerer-doerfer-in-frontnaehe-an](https://www.spiegel.de/ausland/ukraine-ordnet-evakuierung-mehrerer-doerfer-in-frontnaehe-an-a-6d413313-92c9-4b15-a407-6189bcdd3829#ref=rss)
+* [https://www.spiegel.de/ausland/vorwahl-in-iowa-sorge-bei-der-cdu-freude-in-ungarn-die-reaktionen-auf-den-sieg-von-donald-trump](https://www.spiegel.de/ausland/vorwahl-in-iowa-sorge-bei-der-cdu-freude-in-ungarn-die-reaktionen-auf-den-sieg-von-donald-trump-a-c64af56a-29bc-4ab8-81ef-689bbedf2156#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-fordert-rueckbau-der-eu-programmentwurf-fuer-europawahl](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-fordert-rueckbau-der-eu-programmentwurf-fuer-europawahl-a-06483bae-1467-4365-9386-5d09bc8443d0#ref=rss)
+### leben
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-getoetete-journalisten-in-nahost-im-kreuzfeuer](https://www.spiegel.de/ausland/israel-gaza-krieg-getoetete-journalisten-in-nahost-im-kreuzfeuer-a-105d01dd-6abc-4f20-a1e1-f0c92c7f3248#ref=rss)
+* [https://www.spiegel.de/sport/handball/handball-ueberraschung-von-den-faeroeer-inseln-ein-land-macht-einen-ausflug](https://www.spiegel.de/sport/handball/handball-ueberraschung-von-den-faeroeer-inseln-ein-land-macht-einen-ausflug-a-58eeda90-6640-4ab9-8821-3a50324256d1#ref=rss)
+* [https://www.spiegel.de/panorama/usa-arizona-vier-tote-bei-absturz-eines-heissluftballons](https://www.spiegel.de/panorama/usa-arizona-vier-tote-bei-absturz-eines-heissluftballons-a-8f5fa9bf-ba81-443c-8f38-02b174759c78#ref=rss)
+### verloren
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-getoetete-journalisten-in-nahost-im-kreuzfeuer](https://www.spiegel.de/ausland/israel-gaza-krieg-getoetete-journalisten-in-nahost-im-kreuzfeuer-a-105d01dd-6abc-4f20-a1e1-f0c92c7f3248#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-mitgliederzahl-sinkt-deutlich](https://www.spiegel.de/politik/deutschland/spd-mitgliederzahl-sinkt-deutlich-a-ea25c236-1c19-467c-a8a9-e17bd3404859#ref=rss)
+### fünf
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-getoetete-journalisten-in-nahost-im-kreuzfeuer](https://www.spiegel.de/ausland/israel-gaza-krieg-getoetete-journalisten-in-nahost-im-kreuzfeuer-a-105d01dd-6abc-4f20-a1e1-f0c92c7f3248#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/skelleftea-northvolt-nimmt-europas-wohl-bisher-groessten-gruenen-kredit-auf-fuenf-milliarden-dollar](https://www.spiegel.de/wirtschaft/unternehmen/skelleftea-northvolt-nimmt-europas-wohl-bisher-groessten-gruenen-kredit-auf-fuenf-milliarden-dollar-a-fa7cc05a-fd89-4aa4-a658-10e13aaf6448#ref=rss)
+### europa
+
+* [https://www.spiegel.de/ausland/vorwahl-in-iowa-sorge-bei-der-cdu-freude-in-ungarn-die-reaktionen-auf-den-sieg-von-donald-trump](https://www.spiegel.de/ausland/vorwahl-in-iowa-sorge-bei-der-cdu-freude-in-ungarn-die-reaktionen-auf-den-sieg-von-donald-trump-a-c64af56a-29bc-4ab8-81ef-689bbedf2156#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/skelleftea-northvolt-nimmt-europas-wohl-bisher-groessten-gruenen-kredit-auf-fuenf-milliarden-dollar](https://www.spiegel.de/wirtschaft/unternehmen/skelleftea-northvolt-nimmt-europas-wohl-bisher-groessten-gruenen-kredit-auf-fuenf-milliarden-dollar-a-fa7cc05a-fd89-4aa4-a658-10e13aaf6448#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-fordert-rueckbau-der-eu-programmentwurf-fuer-europawahl](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-fordert-rueckbau-der-eu-programmentwurf-fuer-europawahl-a-06483bae-1467-4365-9386-5d09bc8443d0#ref=rss)
+### inflation
+
+* [https://www.spiegel.de/wirtschaft/soziales/ifo-forscher-wollen-rentenalter-an-lebenserwartung-koppeln-und-die-erhoehung-an-die-inflation](https://www.spiegel.de/wirtschaft/soziales/ifo-forscher-wollen-rentenalter-an-lebenserwartung-koppeln-und-die-erhoehung-an-die-inflation-a-de6a4441-eebe-4845-be3d-578fc1aef6d2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-2023-bei-5-9-prozent-nahrungsmittel-deutlich-teurer](https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-2023-bei-5-9-prozent-nahrungsmittel-deutlich-teurer-a-97779168-d8c9-471e-9bb9-ec141a1e2a95#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/ausland/donald-trump-vorwahlsieg-in-iowa-von-hoffnung-zu-horror-kommentar](https://www.spiegel.de/ausland/donald-trump-vorwahlsieg-in-iowa-von-hoffnung-zu-horror-kommentar-a-af287fe6-2544-40f9-b0d6-8abe0eb56d5d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/jose-mourinho-muss-bei-der-as-rom-gehen](https://www.spiegel.de/sport/fussball/jose-mourinho-muss-bei-der-as-rom-gehen-a-c0f10299-b82f-47b6-aae3-62db10e9e564#ref=rss)
+* [https://www.spiegel.de/start/duales-studium-138-000-menschen-in-deutschland-studieren-dual-so-viele-wie-nie](https://www.spiegel.de/start/duales-studium-138-000-menschen-in-deutschland-studieren-dual-so-viele-wie-nie-a-13acb095-c6f3-4c1f-bf4e-6a287a305b22#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-fordert-rueckbau-der-eu-programmentwurf-fuer-europawahl](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-fordert-rueckbau-der-eu-programmentwurf-fuer-europawahl-a-06483bae-1467-4365-9386-5d09bc8443d0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-sollen-bjoern-hoecke-die-grundrechte-entzogen-werden-hunderttausende-unterschreiben-petition](https://www.spiegel.de/politik/deutschland/afd-sollen-bjoern-hoecke-die-grundrechte-entzogen-werden-hunderttausende-unterschreiben-petition-a-93749ac5-5dd7-45a2-aa13-69533941fb25#ref=rss)
+### partei
+
+* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-fordert-rueckbau-der-eu-programmentwurf-fuer-europawahl](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-fordert-rueckbau-der-eu-programmentwurf-fuer-europawahl-a-06483bae-1467-4365-9386-5d09bc8443d0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-mitgliederzahl-sinkt-deutlich](https://www.spiegel.de/politik/deutschland/spd-mitgliederzahl-sinkt-deutlich-a-ea25c236-1c19-467c-a8a9-e17bd3404859#ref=rss)
+### vergangenen
+
+* [https://www.spiegel.de/start/duales-studium-138-000-menschen-in-deutschland-studieren-dual-so-viele-wie-nie](https://www.spiegel.de/start/duales-studium-138-000-menschen-in-deutschland-studieren-dual-so-viele-wie-nie-a-13acb095-c6f3-4c1f-bf4e-6a287a305b22#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-mitgliederzahl-sinkt-deutlich](https://www.spiegel.de/politik/deutschland/spd-mitgliederzahl-sinkt-deutlich-a-ea25c236-1c19-467c-a8a9-e17bd3404859#ref=rss)
+### mehrere
+
+* [https://www.spiegel.de/ausland/ukraine-ordnet-evakuierung-mehrerer-doerfer-in-frontnaehe-an](https://www.spiegel.de/ausland/ukraine-ordnet-evakuierung-mehrerer-doerfer-in-frontnaehe-an-a-6d413313-92c9-4b15-a407-6189bcdd3829#ref=rss)
+* [https://www.spiegel.de/kultur/musik/nach-emmy-gewinn-elton-john-hat-jetzt-egot-status](https://www.spiegel.de/kultur/musik/nach-emmy-gewinn-elton-john-hat-jetzt-egot-status-a-dfe353ab-db6c-41e6-bd4e-77f98b4becb1#ref=rss)
+### heimat
+
+* [https://www.spiegel.de/ausland/ukraine-ordnet-evakuierung-mehrerer-doerfer-in-frontnaehe-an](https://www.spiegel.de/ausland/ukraine-ordnet-evakuierung-mehrerer-doerfer-in-frontnaehe-an-a-6d413313-92c9-4b15-a407-6189bcdd3829#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fifa-weltfussballer-lionel-messi-statt-erling-haaland-das-ist-ein-skandal](https://www.spiegel.de/sport/fussball/fifa-weltfussballer-lionel-messi-statt-erling-haaland-das-ist-ein-skandal-a-e7d58c79-ee43-4530-8001-7c8bba8a7165#ref=rss)
+### verlassen
+
+* [https://www.spiegel.de/ausland/ukraine-ordnet-evakuierung-mehrerer-doerfer-in-frontnaehe-an](https://www.spiegel.de/ausland/ukraine-ordnet-evakuierung-mehrerer-doerfer-in-frontnaehe-an-a-6d413313-92c9-4b15-a407-6189bcdd3829#ref=rss)
+* [https://www.spiegel.de/sport/fussball/jose-mourinho-muss-bei-der-as-rom-gehen](https://www.spiegel.de/sport/fussball/jose-mourinho-muss-bei-der-as-rom-gehen-a-c0f10299-b82f-47b6-aae3-62db10e9e564#ref=rss)
+### prozent
+
+* [https://www.spiegel.de/ausland/donald-trump-triumphiert-in-iowa-er-hat-sogar-nikki-haley-und-ron-desantis-gelobt](https://www.spiegel.de/ausland/donald-trump-triumphiert-in-iowa-er-hat-sogar-nikki-haley-und-ron-desantis-gelobt-a-24730bfa-7a39-4368-8e9f-74a1a20fccdd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-2023-bei-5-9-prozent-nahrungsmittel-deutlich-teurer](https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-2023-bei-5-9-prozent-nahrungsmittel-deutlich-teurer-a-97779168-d8c9-471e-9bb9-ec141a1e2a95#ref=rss)
+### österreich
+
+* [https://www.spiegel.de/panorama/oesterreich-braeutigam-kommt-von-der-trauung-direkt-in-abschiebehaft](https://www.spiegel.de/panorama/oesterreich-braeutigam-kommt-von-der-trauung-direkt-in-abschiebehaft-a-2efbff27-50b4-4295-b9cd-19ec526c1218#ref=rss)
+### zeigen
+
+* [https://www.spiegel.de/panorama/oesterreich-braeutigam-kommt-von-der-trauung-direkt-in-abschiebehaft](https://www.spiegel.de/panorama/oesterreich-braeutigam-kommt-von-der-trauung-direkt-in-abschiebehaft-a-2efbff27-50b4-4295-b9cd-19ec526c1218#ref=rss)
+* [https://www.spiegel.de/start/duales-studium-138-000-menschen-in-deutschland-studieren-dual-so-viele-wie-nie](https://www.spiegel.de/start/duales-studium-138-000-menschen-in-deutschland-studieren-dual-so-viele-wie-nie-a-13acb095-c6f3-4c1f-bf4e-6a287a305b22#ref=rss)
+### kommen
+
+* [https://www.spiegel.de/panorama/oesterreich-braeutigam-kommt-von-der-trauung-direkt-in-abschiebehaft](https://www.spiegel.de/panorama/oesterreich-braeutigam-kommt-von-der-trauung-direkt-in-abschiebehaft-a-2efbff27-50b4-4295-b9cd-19ec526c1218#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/klimageld-ausgleich-fuer-steigende-co2-preise-koennte-erst-2027-kommen](https://www.spiegel.de/wirtschaft/service/klimageld-ausgleich-fuer-steigende-co2-preise-koennte-erst-2027-kommen-a-20b774f9-a0b4-474d-a885-03f550f329d1#ref=rss)
+### gazakrieg
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-getoetete-journalisten-in-nahost-im-kreuzfeuer](https://www.spiegel.de/ausland/israel-gaza-krieg-getoetete-journalisten-in-nahost-im-kreuzfeuer-a-105d01dd-6abc-4f20-a1e1-f0c92c7f3248#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bka-zahl-islamistischer-gefaehrder-in-deutschland-sinkt](https://www.spiegel.de/politik/deutschland/bka-zahl-islamistischer-gefaehrder-in-deutschland-sinkt-a-c773bb48-e588-4231-8555-03bf8a85ad00#ref=rss)
+### viele
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-getoetete-journalisten-in-nahost-im-kreuzfeuer](https://www.spiegel.de/ausland/israel-gaza-krieg-getoetete-journalisten-in-nahost-im-kreuzfeuer-a-105d01dd-6abc-4f20-a1e1-f0c92c7f3248#ref=rss)
+* [https://www.spiegel.de/start/duales-studium-138-000-menschen-in-deutschland-studieren-dual-so-viele-wie-nie](https://www.spiegel.de/start/duales-studium-138-000-menschen-in-deutschland-studieren-dual-so-viele-wie-nie-a-13acb095-c6f3-4c1f-bf4e-6a287a305b22#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-getoetete-journalisten-in-nahost-im-kreuzfeuer](https://www.spiegel.de/ausland/israel-gaza-krieg-getoetete-journalisten-in-nahost-im-kreuzfeuer-a-105d01dd-6abc-4f20-a1e1-f0c92c7f3248#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/skelleftea-northvolt-nimmt-europas-wohl-bisher-groessten-gruenen-kredit-auf-fuenf-milliarden-dollar](https://www.spiegel.de/wirtschaft/unternehmen/skelleftea-northvolt-nimmt-europas-wohl-bisher-groessten-gruenen-kredit-auf-fuenf-milliarden-dollar-a-fa7cc05a-fd89-4aa4-a658-10e13aaf6448#ref=rss)
+### nie
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-getoetete-journalisten-in-nahost-im-kreuzfeuer](https://www.spiegel.de/ausland/israel-gaza-krieg-getoetete-journalisten-in-nahost-im-kreuzfeuer-a-105d01dd-6abc-4f20-a1e1-f0c92c7f3248#ref=rss)
+* [https://www.spiegel.de/start/duales-studium-138-000-menschen-in-deutschland-studieren-dual-so-viele-wie-nie](https://www.spiegel.de/start/duales-studium-138-000-menschen-in-deutschland-studieren-dual-so-viele-wie-nie-a-13acb095-c6f3-4c1f-bf4e-6a287a305b22#ref=rss)
+### macht
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-getoetete-journalisten-in-nahost-im-kreuzfeuer](https://www.spiegel.de/ausland/israel-gaza-krieg-getoetete-journalisten-in-nahost-im-kreuzfeuer-a-105d01dd-6abc-4f20-a1e1-f0c92c7f3248#ref=rss)
+* [https://www.spiegel.de/sport/handball/handball-ueberraschung-von-den-faeroeer-inseln-ein-land-macht-einen-ausflug](https://www.spiegel.de/sport/handball/handball-ueberraschung-von-den-faeroeer-inseln-ein-land-macht-einen-ausflug-a-58eeda90-6640-4ab9-8821-3a50324256d1#ref=rss)
+### gesucht
+
+* [https://www.spiegel.de/panorama/bildung/spiegel-bildungsnewsletter-gesucht-deutschlands-schoenstes-schulklo](https://www.spiegel.de/panorama/bildung/spiegel-bildungsnewsletter-gesucht-deutschlands-schoenstes-schulklo-a-7fff10ec-f8fa-48f6-9d6a-46bec30ae5a9#ref=rss)
+### deutschlands
+
+* [https://www.spiegel.de/panorama/bildung/spiegel-bildungsnewsletter-gesucht-deutschlands-schoenstes-schulklo](https://www.spiegel.de/panorama/bildung/spiegel-bildungsnewsletter-gesucht-deutschlands-schoenstes-schulklo-a-7fff10ec-f8fa-48f6-9d6a-46bec30ae5a9#ref=rss)
+### südtirol
+
+* [https://www.spiegel.de/panorama/suedtirol-hundebesitzer-muessen-dna-ihrer-vierbeiner-erfassen-lassen](https://www.spiegel.de/panorama/suedtirol-hundebesitzer-muessen-dna-ihrer-vierbeiner-erfassen-lassen-a-528ba3e8-8430-476b-8147-cc5b4aa4ec5c#ref=rss)
+### seines
+
+* [https://www.spiegel.de/panorama/suedtirol-hundebesitzer-muessen-dna-ihrer-vierbeiner-erfassen-lassen](https://www.spiegel.de/panorama/suedtirol-hundebesitzer-muessen-dna-ihrer-vierbeiner-erfassen-lassen-a-528ba3e8-8430-476b-8147-cc5b4aa4ec5c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/skelleftea-northvolt-nimmt-europas-wohl-bisher-groessten-gruenen-kredit-auf-fuenf-milliarden-dollar](https://www.spiegel.de/wirtschaft/unternehmen/skelleftea-northvolt-nimmt-europas-wohl-bisher-groessten-gruenen-kredit-auf-fuenf-milliarden-dollar-a-fa7cc05a-fd89-4aa4-a658-10e13aaf6448#ref=rss)
+### vorwahl
+
+* [https://www.spiegel.de/ausland/vorwahl-in-iowa-sorge-bei-der-cdu-freude-in-ungarn-die-reaktionen-auf-den-sieg-von-donald-trump](https://www.spiegel.de/ausland/vorwahl-in-iowa-sorge-bei-der-cdu-freude-in-ungarn-die-reaktionen-auf-den-sieg-von-donald-trump-a-c64af56a-29bc-4ab8-81ef-689bbedf2156#ref=rss)
+### sorge
+
+* [https://www.spiegel.de/ausland/vorwahl-in-iowa-sorge-bei-der-cdu-freude-in-ungarn-die-reaktionen-auf-den-sieg-von-donald-trump](https://www.spiegel.de/ausland/vorwahl-in-iowa-sorge-bei-der-cdu-freude-in-ungarn-die-reaktionen-auf-den-sieg-von-donald-trump-a-c64af56a-29bc-4ab8-81ef-689bbedf2156#ref=rss)
+### cdu
+
+* [https://www.spiegel.de/ausland/vorwahl-in-iowa-sorge-bei-der-cdu-freude-in-ungarn-die-reaktionen-auf-den-sieg-von-donald-trump](https://www.spiegel.de/ausland/vorwahl-in-iowa-sorge-bei-der-cdu-freude-in-ungarn-die-reaktionen-auf-den-sieg-von-donald-trump-a-c64af56a-29bc-4ab8-81ef-689bbedf2156#ref=rss)
+### freude
+
+* [https://www.spiegel.de/ausland/vorwahl-in-iowa-sorge-bei-der-cdu-freude-in-ungarn-die-reaktionen-auf-den-sieg-von-donald-trump](https://www.spiegel.de/ausland/vorwahl-in-iowa-sorge-bei-der-cdu-freude-in-ungarn-die-reaktionen-auf-den-sieg-von-donald-trump-a-c64af56a-29bc-4ab8-81ef-689bbedf2156#ref=rss)
+### reaktionen
+
+* [https://www.spiegel.de/ausland/vorwahl-in-iowa-sorge-bei-der-cdu-freude-in-ungarn-die-reaktionen-auf-den-sieg-von-donald-trump](https://www.spiegel.de/ausland/vorwahl-in-iowa-sorge-bei-der-cdu-freude-in-ungarn-die-reaktionen-auf-den-sieg-von-donald-trump-a-c64af56a-29bc-4ab8-81ef-689bbedf2156#ref=rss)
+### etwa
+
+* [https://www.spiegel.de/ausland/vorwahl-in-iowa-sorge-bei-der-cdu-freude-in-ungarn-die-reaktionen-auf-den-sieg-von-donald-trump](https://www.spiegel.de/ausland/vorwahl-in-iowa-sorge-bei-der-cdu-freude-in-ungarn-die-reaktionen-auf-den-sieg-von-donald-trump-a-c64af56a-29bc-4ab8-81ef-689bbedf2156#ref=rss)
+* [https://www.spiegel.de/panorama/rettungsdienste-aerzte-schlagen-im-notfall-anruf-bei-116-117-statt-bei-der-112-vor](https://www.spiegel.de/panorama/rettungsdienste-aerzte-schlagen-im-notfall-anruf-bei-116-117-statt-bei-der-112-vor-a-c52e4ec9-1f29-4eaf-b895-109ff0eb5196#ref=rss)
+### forscher
+
+* [https://www.spiegel.de/wirtschaft/soziales/ifo-forscher-wollen-rentenalter-an-lebenserwartung-koppeln-und-die-erhoehung-an-die-inflation](https://www.spiegel.de/wirtschaft/soziales/ifo-forscher-wollen-rentenalter-an-lebenserwartung-koppeln-und-die-erhoehung-an-die-inflation-a-de6a4441-eebe-4845-be3d-578fc1aef6d2#ref=rss)
+### experten
+
+* [https://www.spiegel.de/wirtschaft/soziales/ifo-forscher-wollen-rentenalter-an-lebenserwartung-koppeln-und-die-erhoehung-an-die-inflation](https://www.spiegel.de/wirtschaft/soziales/ifo-forscher-wollen-rentenalter-an-lebenserwartung-koppeln-und-die-erhoehung-an-die-inflation-a-de6a4441-eebe-4845-be3d-578fc1aef6d2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-2023-bei-5-9-prozent-nahrungsmittel-deutlich-teurer](https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-2023-bei-5-9-prozent-nahrungsmittel-deutlich-teurer-a-97779168-d8c9-471e-9bb9-ec141a1e2a95#ref=rss)
+### elton
+
+* [https://www.spiegel.de/kultur/musik/nach-emmy-gewinn-elton-john-hat-jetzt-egot-status](https://www.spiegel.de/kultur/musik/nach-emmy-gewinn-elton-john-hat-jetzt-egot-status-a-dfe353ab-db6c-41e6-bd4e-77f98b4becb1#ref=rss)
+### john
+
+* [https://www.spiegel.de/kultur/musik/nach-emmy-gewinn-elton-john-hat-jetzt-egot-status](https://www.spiegel.de/kultur/musik/nach-emmy-gewinn-elton-john-hat-jetzt-egot-status-a-dfe353ab-db6c-41e6-bd4e-77f98b4becb1#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/kultur/musik/nach-emmy-gewinn-elton-john-hat-jetzt-egot-status](https://www.spiegel.de/kultur/musik/nach-emmy-gewinn-elton-john-hat-jetzt-egot-status-a-dfe353ab-db6c-41e6-bd4e-77f98b4becb1#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-angelique-kerber-scheidet-bei-grand-slam-comeback-nach-babypause-aus](https://www.spiegel.de/sport/tennis/australian-open-angelique-kerber-scheidet-bei-grand-slam-comeback-nach-babypause-aus-a-263fd8f9-4034-42d3-84e1-8261b1d27068#ref=rss)
+### färöerinseln
+
+* [https://www.spiegel.de/sport/handball/handball-ueberraschung-von-den-faeroeer-inseln-ein-land-macht-einen-ausflug](https://www.spiegel.de/sport/handball/handball-ueberraschung-von-den-faeroeer-inseln-ein-land-macht-einen-ausflug-a-58eeda90-6640-4ab9-8821-3a50324256d1#ref=rss)
+### schleswigholstein
+
+* [https://www.spiegel.de/panorama/gesellschaft/schleswig-holstein-so-verteidigt-sich-marjam-samadzade-ueber-ihren-rauswurf](https://www.spiegel.de/panorama/gesellschaft/schleswig-holstein-so-verteidigt-sich-marjam-samadzade-ueber-ihren-rauswurf-a-a6501554-5203-4bcb-9784-958329078875#ref=rss)
+### verteidigt
+
+* [https://www.spiegel.de/panorama/gesellschaft/schleswig-holstein-so-verteidigt-sich-marjam-samadzade-ueber-ihren-rauswurf](https://www.spiegel.de/panorama/gesellschaft/schleswig-holstein-so-verteidigt-sich-marjam-samadzade-ueber-ihren-rauswurf-a-a6501554-5203-4bcb-9784-958329078875#ref=rss)
+### marjam
+
+* [https://www.spiegel.de/panorama/gesellschaft/schleswig-holstein-so-verteidigt-sich-marjam-samadzade-ueber-ihren-rauswurf](https://www.spiegel.de/panorama/gesellschaft/schleswig-holstein-so-verteidigt-sich-marjam-samadzade-ueber-ihren-rauswurf-a-a6501554-5203-4bcb-9784-958329078875#ref=rss)
+### samadzade
+
+* [https://www.spiegel.de/panorama/gesellschaft/schleswig-holstein-so-verteidigt-sich-marjam-samadzade-ueber-ihren-rauswurf](https://www.spiegel.de/panorama/gesellschaft/schleswig-holstein-so-verteidigt-sich-marjam-samadzade-ueber-ihren-rauswurf-a-a6501554-5203-4bcb-9784-958329078875#ref=rss)
+### northvolt
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/skelleftea-northvolt-nimmt-europas-wohl-bisher-groessten-gruenen-kredit-auf-fuenf-milliarden-dollar](https://www.spiegel.de/wirtschaft/unternehmen/skelleftea-northvolt-nimmt-europas-wohl-bisher-groessten-gruenen-kredit-auf-fuenf-milliarden-dollar-a-fa7cc05a-fd89-4aa4-a658-10e13aaf6448#ref=rss)
+### grünen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/skelleftea-northvolt-nimmt-europas-wohl-bisher-groessten-gruenen-kredit-auf-fuenf-milliarden-dollar](https://www.spiegel.de/wirtschaft/unternehmen/skelleftea-northvolt-nimmt-europas-wohl-bisher-groessten-gruenen-kredit-auf-fuenf-milliarden-dollar-a-fa7cc05a-fd89-4aa4-a658-10e13aaf6448#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/klimageld-ausgleich-fuer-steigende-co2-preise-koennte-erst-2027-kommen](https://www.spiegel.de/wirtschaft/service/klimageld-ausgleich-fuer-steigende-co2-preise-koennte-erst-2027-kommen-a-20b774f9-a0b4-474d-a885-03f550f329d1#ref=rss)
+### milliarden
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/skelleftea-northvolt-nimmt-europas-wohl-bisher-groessten-gruenen-kredit-auf-fuenf-milliarden-dollar](https://www.spiegel.de/wirtschaft/unternehmen/skelleftea-northvolt-nimmt-europas-wohl-bisher-groessten-gruenen-kredit-auf-fuenf-milliarden-dollar-a-fa7cc05a-fd89-4aa4-a658-10e13aaf6448#ref=rss)
+### dollar
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/skelleftea-northvolt-nimmt-europas-wohl-bisher-groessten-gruenen-kredit-auf-fuenf-milliarden-dollar](https://www.spiegel.de/wirtschaft/unternehmen/skelleftea-northvolt-nimmt-europas-wohl-bisher-groessten-gruenen-kredit-auf-fuenf-milliarden-dollar-a-fa7cc05a-fd89-4aa4-a658-10e13aaf6448#ref=rss)
+### 2023
+
+* [https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-2023-bei-5-9-prozent-nahrungsmittel-deutlich-teurer](https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-2023-bei-5-9-prozent-nahrungsmittel-deutlich-teurer-a-97779168-d8c9-471e-9bb9-ec141a1e2a95#ref=rss)
+### hoch
+
+* [https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-2023-bei-5-9-prozent-nahrungsmittel-deutlich-teurer](https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-2023-bei-5-9-prozent-nahrungsmittel-deutlich-teurer-a-97779168-d8c9-471e-9bb9-ec141a1e2a95#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bka-zahl-islamistischer-gefaehrder-in-deutschland-sinkt](https://www.spiegel.de/politik/deutschland/bka-zahl-islamistischer-gefaehrder-in-deutschland-sinkt-a-c773bb48-e588-4231-8555-03bf8a85ad00#ref=rss)
+### 116
+
+* [https://www.spiegel.de/panorama/rettungsdienste-aerzte-schlagen-im-notfall-anruf-bei-116-117-statt-bei-der-112-vor](https://www.spiegel.de/panorama/rettungsdienste-aerzte-schlagen-im-notfall-anruf-bei-116-117-statt-bei-der-112-vor-a-c52e4ec9-1f29-4eaf-b895-109ff0eb5196#ref=rss)
+### 117
+
+* [https://www.spiegel.de/panorama/rettungsdienste-aerzte-schlagen-im-notfall-anruf-bei-116-117-statt-bei-der-112-vor](https://www.spiegel.de/panorama/rettungsdienste-aerzte-schlagen-im-notfall-anruf-bei-116-117-statt-bei-der-112-vor-a-c52e4ec9-1f29-4eaf-b895-109ff0eb5196#ref=rss)
+### statt
+
+* [https://www.spiegel.de/panorama/rettungsdienste-aerzte-schlagen-im-notfall-anruf-bei-116-117-statt-bei-der-112-vor](https://www.spiegel.de/panorama/rettungsdienste-aerzte-schlagen-im-notfall-anruf-bei-116-117-statt-bei-der-112-vor-a-c52e4ec9-1f29-4eaf-b895-109ff0eb5196#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fifa-weltfussballer-lionel-messi-statt-erling-haaland-das-ist-ein-skandal](https://www.spiegel.de/sport/fussball/fifa-weltfussballer-lionel-messi-statt-erling-haaland-das-ist-ein-skandal-a-e7d58c79-ee43-4530-8001-7c8bba8a7165#ref=rss)
+### 112
+
+* [https://www.spiegel.de/panorama/rettungsdienste-aerzte-schlagen-im-notfall-anruf-bei-116-117-statt-bei-der-112-vor](https://www.spiegel.de/panorama/rettungsdienste-aerzte-schlagen-im-notfall-anruf-bei-116-117-statt-bei-der-112-vor-a-c52e4ec9-1f29-4eaf-b895-109ff0eb5196#ref=rss)
+### judith
+
+* [https://www.spiegel.de/kultur/tv/judith-rakers-hoert-als-tagesschau-sprecherin-auf](https://www.spiegel.de/kultur/tv/judith-rakers-hoert-als-tagesschau-sprecherin-auf-a-4bfc7d43-e8fd-417b-b392-b3ff884b8a38#ref=rss)
+### rakers
+
+* [https://www.spiegel.de/kultur/tv/judith-rakers-hoert-als-tagesschau-sprecherin-auf](https://www.spiegel.de/kultur/tv/judith-rakers-hoert-als-tagesschau-sprecherin-auf-a-4bfc7d43-e8fd-417b-b392-b3ff884b8a38#ref=rss)
+### tagesschausprecherin
+
+* [https://www.spiegel.de/kultur/tv/judith-rakers-hoert-als-tagesschau-sprecherin-auf](https://www.spiegel.de/kultur/tv/judith-rakers-hoert-als-tagesschau-sprecherin-auf-a-4bfc7d43-e8fd-417b-b392-b3ff884b8a38#ref=rss)
+### eigenen
+
+* [https://www.spiegel.de/kultur/tv/judith-rakers-hoert-als-tagesschau-sprecherin-auf](https://www.spiegel.de/kultur/tv/judith-rakers-hoert-als-tagesschau-sprecherin-auf-a-4bfc7d43-e8fd-417b-b392-b3ff884b8a38#ref=rss)
+* [https://www.spiegel.de/politik/wortbruch-mit-ansage-der-finanzminister-verkuendet-das-vorlaeufige-aus-fuer-das-klimageld-spiegel-leitartikel](https://www.spiegel.de/politik/wortbruch-mit-ansage-der-finanzminister-verkuendet-das-vorlaeufige-aus-fuer-das-klimageld-spiegel-leitartikel-a-879eb85f-1341-47f8-9d08-e69862cd832f#ref=rss)
+### kommentar
+
+* [https://www.spiegel.de/ausland/donald-trump-vorwahlsieg-in-iowa-von-hoffnung-zu-horror-kommentar](https://www.spiegel.de/ausland/donald-trump-vorwahlsieg-in-iowa-von-hoffnung-zu-horror-kommentar-a-af287fe6-2544-40f9-b0d6-8abe0eb56d5d#ref=rss)
+* [https://www.spiegel.de/politik/wortbruch-mit-ansage-der-finanzminister-verkuendet-das-vorlaeufige-aus-fuer-das-klimageld-spiegel-leitartikel](https://www.spiegel.de/politik/wortbruch-mit-ansage-der-finanzminister-verkuendet-das-vorlaeufige-aus-fuer-das-klimageld-spiegel-leitartikel-a-879eb85f-1341-47f8-9d08-e69862cd832f#ref=rss)
+### josé
+
+* [https://www.spiegel.de/sport/fussball/jose-mourinho-muss-bei-der-as-rom-gehen](https://www.spiegel.de/sport/fussball/jose-mourinho-muss-bei-der-as-rom-gehen-a-c0f10299-b82f-47b6-aae3-62db10e9e564#ref=rss)
+### mourinho
+
+* [https://www.spiegel.de/sport/fussball/jose-mourinho-muss-bei-der-as-rom-gehen](https://www.spiegel.de/sport/fussball/jose-mourinho-muss-bei-der-as-rom-gehen-a-c0f10299-b82f-47b6-aae3-62db10e9e564#ref=rss)
+### as
+
+* [https://www.spiegel.de/sport/fussball/jose-mourinho-muss-bei-der-as-rom-gehen](https://www.spiegel.de/sport/fussball/jose-mourinho-muss-bei-der-as-rom-gehen-a-c0f10299-b82f-47b6-aae3-62db10e9e564#ref=rss)
+### rom
+
+* [https://www.spiegel.de/sport/fussball/jose-mourinho-muss-bei-der-as-rom-gehen](https://www.spiegel.de/sport/fussball/jose-mourinho-muss-bei-der-as-rom-gehen-a-c0f10299-b82f-47b6-aae3-62db10e9e564#ref=rss)
+### bsw
+
+* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-fordert-rueckbau-der-eu-programmentwurf-fuer-europawahl](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-fordert-rueckbau-der-eu-programmentwurf-fuer-europawahl-a-06483bae-1467-4365-9386-5d09bc8443d0#ref=rss)
+### bündnis
+
+* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-fordert-rueckbau-der-eu-programmentwurf-fuer-europawahl](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-fordert-rueckbau-der-eu-programmentwurf-fuer-europawahl-a-06483bae-1467-4365-9386-5d09bc8443d0#ref=rss)
+### sahra
+
+* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-fordert-rueckbau-der-eu-programmentwurf-fuer-europawahl](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-fordert-rueckbau-der-eu-programmentwurf-fuer-europawahl-a-06483bae-1467-4365-9386-5d09bc8443d0#ref=rss)
+### wagenknecht
+
+* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-fordert-rueckbau-der-eu-programmentwurf-fuer-europawahl](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-fordert-rueckbau-der-eu-programmentwurf-fuer-europawahl-a-06483bae-1467-4365-9386-5d09bc8443d0#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-fordert-rueckbau-der-eu-programmentwurf-fuer-europawahl](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-fordert-rueckbau-der-eu-programmentwurf-fuer-europawahl-a-06483bae-1467-4365-9386-5d09bc8443d0#ref=rss)
+* [https://www.spiegel.de/sport/tennis/tennis-rafael-nadal-ist-jetzt-botschafter-saudi-arabiens](https://www.spiegel.de/sport/tennis/tennis-rafael-nadal-ist-jetzt-botschafter-saudi-arabiens-a-82f090a3-bf52-4ea1-b80c-944ed803d16d#ref=rss)
+### usa
+
+* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-fordert-rueckbau-der-eu-programmentwurf-fuer-europawahl](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-fordert-rueckbau-der-eu-programmentwurf-fuer-europawahl-a-06483bae-1467-4365-9386-5d09bc8443d0#ref=rss)
+* [https://www.spiegel.de/panorama/usa-arizona-vier-tote-bei-absturz-eines-heissluftballons](https://www.spiegel.de/panorama/usa-arizona-vier-tote-bei-absturz-eines-heissluftballons-a-8f5fa9bf-ba81-443c-8f38-02b174759c78#ref=rss)
+### studium
+
+* [https://www.spiegel.de/start/duales-studium-138-000-menschen-in-deutschland-studieren-dual-so-viele-wie-nie](https://www.spiegel.de/start/duales-studium-138-000-menschen-in-deutschland-studieren-dual-so-viele-wie-nie-a-13acb095-c6f3-4c1f-bf4e-6a287a305b22#ref=rss)
+### weniger
+
+* [https://www.spiegel.de/start/duales-studium-138-000-menschen-in-deutschland-studieren-dual-so-viele-wie-nie](https://www.spiegel.de/start/duales-studium-138-000-menschen-in-deutschland-studieren-dual-so-viele-wie-nie-a-13acb095-c6f3-4c1f-bf4e-6a287a305b22#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bka-zahl-islamistischer-gefaehrder-in-deutschland-sinkt](https://www.spiegel.de/politik/deutschland/bka-zahl-islamistischer-gefaehrder-in-deutschland-sinkt-a-c773bb48-e588-4231-8555-03bf8a85ad00#ref=rss)
+### arizona
+
+* [https://www.spiegel.de/panorama/usa-arizona-vier-tote-bei-absturz-eines-heissluftballons](https://www.spiegel.de/panorama/usa-arizona-vier-tote-bei-absturz-eines-heissluftballons-a-8f5fa9bf-ba81-443c-8f38-02b174759c78#ref=rss)
+### vier
+
+* [https://www.spiegel.de/panorama/usa-arizona-vier-tote-bei-absturz-eines-heissluftballons](https://www.spiegel.de/panorama/usa-arizona-vier-tote-bei-absturz-eines-heissluftballons-a-8f5fa9bf-ba81-443c-8f38-02b174759c78#ref=rss)
+### fifaweltfußballer
+
+* [https://www.spiegel.de/sport/fussball/fifa-weltfussballer-lionel-messi-statt-erling-haaland-das-ist-ein-skandal](https://www.spiegel.de/sport/fussball/fifa-weltfussballer-lionel-messi-statt-erling-haaland-das-ist-ein-skandal-a-e7d58c79-ee43-4530-8001-7c8bba8a7165#ref=rss)
+### lionel
+
+* [https://www.spiegel.de/sport/fussball/fifa-weltfussballer-lionel-messi-statt-erling-haaland-das-ist-ein-skandal](https://www.spiegel.de/sport/fussball/fifa-weltfussballer-lionel-messi-statt-erling-haaland-das-ist-ein-skandal-a-e7d58c79-ee43-4530-8001-7c8bba8a7165#ref=rss)
+### messi
+
+* [https://www.spiegel.de/sport/fussball/fifa-weltfussballer-lionel-messi-statt-erling-haaland-das-ist-ein-skandal](https://www.spiegel.de/sport/fussball/fifa-weltfussballer-lionel-messi-statt-erling-haaland-das-ist-ein-skandal-a-e7d58c79-ee43-4530-8001-7c8bba8a7165#ref=rss)
+### erling
+
+* [https://www.spiegel.de/sport/fussball/fifa-weltfussballer-lionel-messi-statt-erling-haaland-das-ist-ein-skandal](https://www.spiegel.de/sport/fussball/fifa-weltfussballer-lionel-messi-statt-erling-haaland-das-ist-ein-skandal-a-e7d58c79-ee43-4530-8001-7c8bba8a7165#ref=rss)
+### haaland
+
+* [https://www.spiegel.de/sport/fussball/fifa-weltfussballer-lionel-messi-statt-erling-haaland-das-ist-ein-skandal](https://www.spiegel.de/sport/fussball/fifa-weltfussballer-lionel-messi-statt-erling-haaland-das-ist-ein-skandal-a-e7d58c79-ee43-4530-8001-7c8bba8a7165#ref=rss)
+### finanzminister
+
+* [https://www.spiegel.de/politik/wortbruch-mit-ansage-der-finanzminister-verkuendet-das-vorlaeufige-aus-fuer-das-klimageld-spiegel-leitartikel](https://www.spiegel.de/politik/wortbruch-mit-ansage-der-finanzminister-verkuendet-das-vorlaeufige-aus-fuer-das-klimageld-spiegel-leitartikel-a-879eb85f-1341-47f8-9d08-e69862cd832f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/klimageld-ausgleich-fuer-steigende-co2-preise-koennte-erst-2027-kommen](https://www.spiegel.de/wirtschaft/service/klimageld-ausgleich-fuer-steigende-co2-preise-koennte-erst-2027-kommen-a-20b774f9-a0b4-474d-a885-03f550f329d1#ref=rss)
+### rafael
+
+* [https://www.spiegel.de/sport/tennis/tennis-rafael-nadal-ist-jetzt-botschafter-saudi-arabiens](https://www.spiegel.de/sport/tennis/tennis-rafael-nadal-ist-jetzt-botschafter-saudi-arabiens-a-82f090a3-bf52-4ea1-b80c-944ed803d16d#ref=rss)
+### nadal
+
+* [https://www.spiegel.de/sport/tennis/tennis-rafael-nadal-ist-jetzt-botschafter-saudi-arabiens](https://www.spiegel.de/sport/tennis/tennis-rafael-nadal-ist-jetzt-botschafter-saudi-arabiens-a-82f090a3-bf52-4ea1-b80c-944ed803d16d#ref=rss)
+### petition
+
+* [https://www.spiegel.de/politik/deutschland/afd-sollen-bjoern-hoecke-die-grundrechte-entzogen-werden-hunderttausende-unterschreiben-petition](https://www.spiegel.de/politik/deutschland/afd-sollen-bjoern-hoecke-die-grundrechte-entzogen-werden-hunderttausende-unterschreiben-petition-a-93749ac5-5dd7-45a2-aa13-69533941fb25#ref=rss)
+### björn
+
+* [https://www.spiegel.de/politik/deutschland/afd-sollen-bjoern-hoecke-die-grundrechte-entzogen-werden-hunderttausende-unterschreiben-petition](https://www.spiegel.de/politik/deutschland/afd-sollen-bjoern-hoecke-die-grundrechte-entzogen-werden-hunderttausende-unterschreiben-petition-a-93749ac5-5dd7-45a2-aa13-69533941fb25#ref=rss)
+### höcke
+
+* [https://www.spiegel.de/politik/deutschland/afd-sollen-bjoern-hoecke-die-grundrechte-entzogen-werden-hunderttausende-unterschreiben-petition](https://www.spiegel.de/politik/deutschland/afd-sollen-bjoern-hoecke-die-grundrechte-entzogen-werden-hunderttausende-unterschreiben-petition-a-93749ac5-5dd7-45a2-aa13-69533941fb25#ref=rss)
+### kirche
+
+* [https://www.spiegel.de/panorama/schechen-in-bayern-sex-in-kirche-altar-neu-gesegnet](https://www.spiegel.de/panorama/schechen-in-bayern-sex-in-kirche-altar-neu-gesegnet-a-9608baaf-92d2-4721-881b-c85465426631#ref=rss)
+### altar
+
+* [https://www.spiegel.de/panorama/schechen-in-bayern-sex-in-kirche-altar-neu-gesegnet](https://www.spiegel.de/panorama/schechen-in-bayern-sex-in-kirche-altar-neu-gesegnet-a-9608baaf-92d2-4721-881b-c85465426631#ref=rss)
+### bka
+
+* [https://www.spiegel.de/politik/deutschland/bka-zahl-islamistischer-gefaehrder-in-deutschland-sinkt](https://www.spiegel.de/politik/deutschland/bka-zahl-islamistischer-gefaehrder-in-deutschland-sinkt-a-c773bb48-e588-4231-8555-03bf8a85ad00#ref=rss)
+### gefährder
+
+* [https://www.spiegel.de/politik/deutschland/bka-zahl-islamistischer-gefaehrder-in-deutschland-sinkt](https://www.spiegel.de/politik/deutschland/bka-zahl-islamistischer-gefaehrder-in-deutschland-sinkt-a-c773bb48-e588-4231-8555-03bf8a85ad00#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/spd-mitgliederzahl-sinkt-deutlich](https://www.spiegel.de/politik/deutschland/spd-mitgliederzahl-sinkt-deutlich-a-ea25c236-1c19-467c-a8a9-e17bd3404859#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/politik/deutschland/spd-mitgliederzahl-sinkt-deutlich](https://www.spiegel.de/politik/deutschland/spd-mitgliederzahl-sinkt-deutlich-a-ea25c236-1c19-467c-a8a9-e17bd3404859#ref=rss)
+### fast
+
+* [https://www.spiegel.de/politik/deutschland/spd-mitgliederzahl-sinkt-deutlich](https://www.spiegel.de/politik/deutschland/spd-mitgliederzahl-sinkt-deutlich-a-ea25c236-1c19-467c-a8a9-e17bd3404859#ref=rss)
+### 15000
+
+* [https://www.spiegel.de/politik/deutschland/spd-mitgliederzahl-sinkt-deutlich](https://www.spiegel.de/politik/deutschland/spd-mitgliederzahl-sinkt-deutlich-a-ea25c236-1c19-467c-a8a9-e17bd3404859#ref=rss)
+### mitglieder
+
+* [https://www.spiegel.de/politik/deutschland/spd-mitgliederzahl-sinkt-deutlich](https://www.spiegel.de/politik/deutschland/spd-mitgliederzahl-sinkt-deutlich-a-ea25c236-1c19-467c-a8a9-e17bd3404859#ref=rss)
+### australian
+
+* [https://www.spiegel.de/sport/tennis/australian-open-angelique-kerber-scheidet-bei-grand-slam-comeback-nach-babypause-aus](https://www.spiegel.de/sport/tennis/australian-open-angelique-kerber-scheidet-bei-grand-slam-comeback-nach-babypause-aus-a-263fd8f9-4034-42d3-84e1-8261b1d27068#ref=rss)
+### open
+
+* [https://www.spiegel.de/sport/tennis/australian-open-angelique-kerber-scheidet-bei-grand-slam-comeback-nach-babypause-aus](https://www.spiegel.de/sport/tennis/australian-open-angelique-kerber-scheidet-bei-grand-slam-comeback-nach-babypause-aus-a-263fd8f9-4034-42d3-84e1-8261b1d27068#ref=rss)
+### angelique
+
+* [https://www.spiegel.de/sport/tennis/australian-open-angelique-kerber-scheidet-bei-grand-slam-comeback-nach-babypause-aus](https://www.spiegel.de/sport/tennis/australian-open-angelique-kerber-scheidet-bei-grand-slam-comeback-nach-babypause-aus-a-263fd8f9-4034-42d3-84e1-8261b1d27068#ref=rss)
+### kerber
+
+* [https://www.spiegel.de/sport/tennis/australian-open-angelique-kerber-scheidet-bei-grand-slam-comeback-nach-babypause-aus](https://www.spiegel.de/sport/tennis/australian-open-angelique-kerber-scheidet-bei-grand-slam-comeback-nach-babypause-aus-a-263fd8f9-4034-42d3-84e1-8261b1d27068#ref=rss)
 
