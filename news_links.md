@@ -4,358 +4,291 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
-
-* [https://www.spiegel.de/familie/mutter-mit-migrationsgeschichte-meine-kinder-sind-deutschland](https://www.spiegel.de/familie/mutter-mit-migrationsgeschichte-meine-kinder-sind-deutschland-a-dffd8eaa-7a0b-4c4e-aa35-ce5abffbb609#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/alice-weidel-afd-chefin-sieht-referendum-ueber-eu-austritt-als-option-fuer-deutschland](https://www.spiegel.de/politik/deutschland/alice-weidel-afd-chefin-sieht-referendum-ueber-eu-austritt-als-option-fuer-deutschland-a-4f1bbf95-0d30-4c72-9540-306711efa114#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutschland-israel-israelis-duerfen-vorerst-bis-ende-april-ohne-visum-in-deutschland-bleiben](https://www.spiegel.de/politik/deutschland/deutschland-israel-israelis-duerfen-vorerst-bis-ende-april-ohne-visum-in-deutschland-bleiben-a-deb754be-6871-4d46-8968-754a354dee19#ref=rss)
-### meer
-
-* [https://www.spiegel.de/ausland/rotes-meer-eu-staaten-verstaendigen-sich-auf-militaereinsatz-zur-sicherung-der-handelsschifffahrt](https://www.spiegel.de/ausland/rotes-meer-eu-staaten-verstaendigen-sich-auf-militaereinsatz-zur-sicherung-der-handelsschifffahrt-a-6e169797-536b-4b9c-a7ad-4afd122ae580#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/rotes-meer-hapag-lloyd-bietet-landtransit-durch-saudi-arabien-an](https://www.spiegel.de/wirtschaft/unternehmen/rotes-meer-hapag-lloyd-bietet-landtransit-durch-saudi-arabien-an-a-ec6461a5-9a6f-4c64-bcf5-56dcd9d90cfc#ref=rss)
-### demos
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-gruene-woche-in-berlin-demos-gegen-rechts-gazakrieg](https://www.spiegel.de/politik/deutschland/news-des-tages-gruene-woche-in-berlin-demos-gegen-rechts-gazakrieg-a-fdaa7a2c-3ea5-4093-bd78-a39067caa3e7#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/demos-gegen-rechtsextremismus-fotograf-boris-eldagsen-ueber-angeblich-manipulierte-bilder](https://www.spiegel.de/netzwelt/web/demos-gegen-rechtsextremismus-fotograf-boris-eldagsen-ueber-angeblich-manipulierte-bilder-a-395c2a91-5a6d-40a9-90c4-8a9a6bef0e65#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/kultur/kino/gerard-depardieu-ein-verfahren-wurde-eingestellt-zwei-laufen-weiter](https://www.spiegel.de/kultur/kino/gerard-depardieu-ein-verfahren-wurde-eingestellt-zwei-laufen-weiter-a-42f2200e-e6df-4dc3-8c37-9442580681ae#ref=rss)
-* [https://www.spiegel.de/panorama/bayern-und-tirol-dialekt-haette-fast-zur-kollision-zweier-zuege-gefuehrt-gar-nix-davo-gewisst-haen](https://www.spiegel.de/panorama/bayern-und-tirol-dialekt-haette-fast-zur-kollision-zweier-zuege-gefuehrt-gar-nix-davo-gewisst-haen-a-8592b150-c4ee-47a1-a112-2d57d6793fe9#ref=rss)
-* [https://www.spiegel.de/ausland/republikaner-nach-ron-desantis-rueckzieher-jetzt-ist-es-ein-kampf-zwischen-zwei-personen](https://www.spiegel.de/ausland/republikaner-nach-ron-desantis-rueckzieher-jetzt-ist-es-ein-kampf-zwischen-zwei-personen-a-bd428296-1e5a-448c-acd6-d2bdf8f2bf89#ref=rss)
-* [https://www.spiegel.de/kultur/kino/berlinale-2024-cillian-murphy-gael-garcia-bernal-rooney-mara-in-wettbewerbsfilmen](https://www.spiegel.de/kultur/kino/berlinale-2024-cillian-murphy-gael-garcia-bernal-rooney-mara-in-wettbewerbsfilmen-a-242bc038-f211-457e-af9f-51cf4f7ac0fb#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/familie/mutter-mit-migrationsgeschichte-meine-kinder-sind-deutschland](https://www.spiegel.de/familie/mutter-mit-migrationsgeschichte-meine-kinder-sind-deutschland-a-dffd8eaa-7a0b-4c4e-aa35-ce5abffbb609#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/parkplaetze-umwelthilfe-verlangt-hoehere-parkgebuehren-fuer-monster-suv](https://www.spiegel.de/wirtschaft/unternehmen/parkplaetze-umwelthilfe-verlangt-hoehere-parkgebuehren-fuer-monster-suv-a-397db368-9c40-4aee-94c9-afaac36698d1#ref=rss)
-* [https://www.spiegel.de/panorama/rudolf-dressler-ueber-israel-politik-wie-ihm-angela-merkel-die-formel-der-staatsraeson-klaute](https://www.spiegel.de/panorama/rudolf-dressler-ueber-israel-politik-wie-ihm-angela-merkel-die-formel-der-staatsraeson-klaute-a-e9bb3a79-5271-4b49-99d4-fd0d1eeceb1d#ref=rss)
-* [https://www.spiegel.de/kultur/kino/berlinale-2024-cillian-murphy-gael-garcia-bernal-rooney-mara-in-wettbewerbsfilmen](https://www.spiegel.de/kultur/kino/berlinale-2024-cillian-murphy-gael-garcia-bernal-rooney-mara-in-wettbewerbsfilmen-a-242bc038-f211-457e-af9f-51cf4f7ac0fb#ref=rss)
-### wolfgang
-
-* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-emmanuel-macron-ehrt-verstorbenen-politiker-auf-deutsch](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-emmanuel-macron-ehrt-verstorbenen-politiker-auf-deutsch-a-323f2c72-c411-4434-93fe-635ef80d0620#ref=rss)
-* [https://www.spiegel.de/politik/wolfgang-schaeuble-trauerstaatsakt-im-bundestag-livestream](https://www.spiegel.de/politik/wolfgang-schaeuble-trauerstaatsakt-im-bundestag-livestream-a-6460be54-d6da-49fa-aa1f-59b90346d0ee#ref=rss)
-### schäuble
-
-* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-emmanuel-macron-ehrt-verstorbenen-politiker-auf-deutsch](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-emmanuel-macron-ehrt-verstorbenen-politiker-auf-deutsch-a-323f2c72-c411-4434-93fe-635ef80d0620#ref=rss)
-* [https://www.spiegel.de/politik/wolfgang-schaeuble-trauerstaatsakt-im-bundestag-livestream](https://www.spiegel.de/politik/wolfgang-schaeuble-trauerstaatsakt-im-bundestag-livestream-a-6460be54-d6da-49fa-aa1f-59b90346d0ee#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-gruene-woche-in-berlin-demos-gegen-rechts-gazakrieg](https://www.spiegel.de/politik/deutschland/news-des-tages-gruene-woche-in-berlin-demos-gegen-rechts-gazakrieg-a-fdaa7a2c-3ea5-4093-bd78-a39067caa3e7#ref=rss)
-* [https://www.spiegel.de/kultur/joe-chialo-berlin-kippt-antidisikriminierungsklausel-fuer-kulturfoerderung](https://www.spiegel.de/kultur/joe-chialo-berlin-kippt-antidisikriminierungsklausel-fuer-kulturfoerderung-a-9a357c85-3f03-43d0-b465-9ba7050d1927#ref=rss)
-### rechts
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-gruene-woche-in-berlin-demos-gegen-rechts-gazakrieg](https://www.spiegel.de/politik/deutschland/news-des-tages-gruene-woche-in-berlin-demos-gegen-rechts-gazakrieg-a-fdaa7a2c-3ea5-4093-bd78-a39067caa3e7#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/demos-gegen-rechtsextremismus-fotograf-boris-eldagsen-ueber-angeblich-manipulierte-bilder](https://www.spiegel.de/netzwelt/web/demos-gegen-rechtsextremismus-fotograf-boris-eldagsen-ueber-angeblich-manipulierte-bilder-a-395c2a91-5a6d-40a9-90c4-8a9a6bef0e65#ref=rss)
-### israel
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-gruene-woche-in-berlin-demos-gegen-rechts-gazakrieg](https://www.spiegel.de/politik/deutschland/news-des-tages-gruene-woche-in-berlin-demos-gegen-rechts-gazakrieg-a-fdaa7a2c-3ea5-4093-bd78-a39067caa3e7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutschland-israel-israelis-duerfen-vorerst-bis-ende-april-ohne-visum-in-deutschland-bleiben](https://www.spiegel.de/politik/deutschland/deutschland-israel-israelis-duerfen-vorerst-bis-ende-april-ohne-visum-in-deutschland-bleiben-a-deb754be-6871-4d46-8968-754a354dee19#ref=rss)
-### kindergeld
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/kindergeld-und-freibetrag-spd-fraktionschef-rolf-muetzenich-fuer-voellig-neues-konzept](https://www.spiegel.de/wirtschaft/unternehmen/kindergeld-und-freibetrag-spd-fraktionschef-rolf-muetzenich-fuer-voellig-neues-konzept-a-64dadb1b-9a04-436f-9130-d6bd09264665#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kinderfreibetrag-warum-er-angehoben-werden-muss-und-das-kindergeld-nicht](https://www.spiegel.de/wirtschaft/kinderfreibetrag-warum-er-angehoben-werden-muss-und-das-kindergeld-nicht-a-f7e2558d-618d-4759-a74f-ceaea3d6667d#ref=rss)
-### kinderfreibetrag
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/kindergeld-und-freibetrag-spd-fraktionschef-rolf-muetzenich-fuer-voellig-neues-konzept](https://www.spiegel.de/wirtschaft/unternehmen/kindergeld-und-freibetrag-spd-fraktionschef-rolf-muetzenich-fuer-voellig-neues-konzept-a-64dadb1b-9a04-436f-9130-d6bd09264665#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kinderfreibetrag-warum-er-angehoben-werden-muss-und-das-kindergeld-nicht](https://www.spiegel.de/wirtschaft/kinderfreibetrag-warum-er-angehoben-werden-muss-und-das-kindergeld-nicht-a-f7e2558d-618d-4759-a74f-ceaea3d6667d#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/gesundheit/alkoholsucht-zahl-steigt-im-norden-und-im-osten-leben-die-meisten-alkoholkranken](https://www.spiegel.de/gesundheit/alkoholsucht-zahl-steigt-im-norden-und-im-osten-leben-die-meisten-alkoholkranken-a-a798d663-9c76-48a1-b57e-89bbda014934#ref=rss)
-* [https://www.spiegel.de/ausland/uganda-lgbtq-community-gejagt-im-eigenen-land](https://www.spiegel.de/ausland/uganda-lgbtq-community-gejagt-im-eigenen-land-a-77d75ad4-4b46-47ae-b7fd-d305fcdbcd0f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutschland-israel-israelis-duerfen-vorerst-bis-ende-april-ohne-visum-in-deutschland-bleiben](https://www.spiegel.de/politik/deutschland/deutschland-israel-israelis-duerfen-vorerst-bis-ende-april-ohne-visum-in-deutschland-bleiben-a-deb754be-6871-4d46-8968-754a354dee19#ref=rss)
-### land
+* [https://www.spiegel.de/politik/deutschland/rechtsextremismus-carsten-schneider-draengt-ampel-auf-konkretes-engagement](https://www.spiegel.de/politik/deutschland/rechtsextremismus-carsten-schneider-draengt-ampel-auf-konkretes-engagement-a-379c8e06-8b34-4e9c-85cb-c675577a29e3#ref=rss)
+* [https://www.spiegel.de/stil/old-money-style-sehnsucht-nach-oben](https://www.spiegel.de/stil/old-money-style-sehnsucht-nach-oben-a-88f6f6a8-0782-43b4-b140-7ed731d99eff#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-mehrere-tote-durch-russische-raketenangriffe-auf-kiew-und-charkiw](https://www.spiegel.de/ausland/ukraine-mehrere-tote-durch-russische-raketenangriffe-auf-kiew-und-charkiw-a-c0937e61-beac-460b-a3e6-1af9bf714ce3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/waermepumpe-stromtarife-solar-aermere-haushalte-sind-bei-der-energiewende-benachteiligt](https://www.spiegel.de/wirtschaft/waermepumpe-stromtarife-solar-aermere-haushalte-sind-bei-der-energiewende-benachteiligt-a-7c370218-f5ea-436c-bf99-41a8fcb0f22b#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/sport/fussball/luigi-riva-nachruf-auf-italiens-fussball-idol-ein-mann-wie-ein-donnerschlag](https://www.spiegel.de/sport/fussball/luigi-riva-nachruf-auf-italiens-fussball-idol-ein-mann-wie-ein-donnerschlag-a-a5133464-0df9-42bd-86a3-a5cab5c5d8ba#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-npd-von-der-parteienfinanzierung-ausgeschlossen](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-npd-von-der-parteienfinanzierung-ausgeschlossen-a-c9bd69d4-c488-4291-a611-d988761ec367#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/teure-lebensmittel-verbraucher-waehlen-tuc-bake-rolls-zur-mogelpackung-des-jahres](https://www.spiegel.de/wirtschaft/service/teure-lebensmittel-verbraucher-waehlen-tuc-bake-rolls-zur-mogelpackung-des-jahres-a-a1f012b3-4a79-4a32-acb1-d6cb9d5d1860#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/sport/handball/handball-em-deutschland-kaempft-ums-halbfinale-der-pyramidenbauer-und-der-schlaks](https://www.spiegel.de/sport/handball/handball-em-deutschland-kaempft-ums-halbfinale-der-pyramidenbauer-und-der-schlaks-a-2c6374e9-adbf-44dc-b931-4be984bd2ca3#ref=rss)
+* [https://www.spiegel.de/kultur/afd-rechtsextrem-debatten-ueber-remigration-meine-german-angst](https://www.spiegel.de/kultur/afd-rechtsextrem-debatten-ueber-remigration-meine-german-angst-a-2cddb68f-7bab-48b0-b718-3489f49fda1e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ifo-konjunkturprognose-deutschland-bleibt-sorgenkind-beim-wirtschaftswachstum](https://www.spiegel.de/wirtschaft/ifo-konjunkturprognose-deutschland-bleibt-sorgenkind-beim-wirtschaftswachstum-a-4285cb19-5aed-4d6d-b499-b1b41f14babc#ref=rss)
+### rechtsextremismus
 
-* [https://www.spiegel.de/ausland/uganda-lgbtq-community-gejagt-im-eigenen-land](https://www.spiegel.de/ausland/uganda-lgbtq-community-gejagt-im-eigenen-land-a-77d75ad4-4b46-47ae-b7fd-d305fcdbcd0f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/rotes-meer-hapag-lloyd-bietet-landtransit-durch-saudi-arabien-an](https://www.spiegel.de/wirtschaft/unternehmen/rotes-meer-hapag-lloyd-bietet-landtransit-durch-saudi-arabien-an-a-ec6461a5-9a6f-4c64-bcf5-56dcd9d90cfc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutschland-israel-israelis-duerfen-vorerst-bis-ende-april-ohne-visum-in-deutschland-bleiben](https://www.spiegel.de/politik/deutschland/deutschland-israel-israelis-duerfen-vorerst-bis-ende-april-ohne-visum-in-deutschland-bleiben-a-deb754be-6871-4d46-8968-754a354dee19#ref=rss)
-### macron
+* [https://www.spiegel.de/kultur/afd-rechtsextrem-debatten-ueber-remigration-meine-german-angst](https://www.spiegel.de/kultur/afd-rechtsextrem-debatten-ueber-remigration-meine-german-angst-a-2cddb68f-7bab-48b0-b718-3489f49fda1e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rechtsextremismus-carsten-schneider-draengt-ampel-auf-konkretes-engagement](https://www.spiegel.de/politik/deutschland/rechtsextremismus-carsten-schneider-draengt-ampel-auf-konkretes-engagement-a-379c8e06-8b34-4e9c-85cb-c675577a29e3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/demos-gegen-rechtsextremismus-hass-choere-schaden-dem-kampf-gegen-die-afd](https://www.spiegel.de/politik/deutschland/demos-gegen-rechtsextremismus-hass-choere-schaden-dem-kampf-gegen-die-afd-a-c9eed72a-04f8-4684-acbe-37ed8acb3b10#ref=rss)
+### new
 
-* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-emmanuel-macron-ehrt-verstorbenen-politiker-auf-deutsch](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-emmanuel-macron-ehrt-verstorbenen-politiker-auf-deutsch-a-323f2c72-c411-4434-93fe-635ef80d0620#ref=rss)
-* [https://www.spiegel.de/politik/wolfgang-schaeuble-trauerstaatsakt-im-bundestag-livestream](https://www.spiegel.de/politik/wolfgang-schaeuble-trauerstaatsakt-im-bundestag-livestream-a-6460be54-d6da-49fa-aa1f-59b90346d0ee#ref=rss)
-### bundestag
+* [https://www.spiegel.de/ausland/donald-trump-nikki-haley-und-die-vorwahl-in-new-hampshire-stunde-der-wahrheit-fuer-die-anti-trumper](https://www.spiegel.de/ausland/donald-trump-nikki-haley-und-die-vorwahl-in-new-hampshire-stunde-der-wahrheit-fuer-die-anti-trumper-a-a70d76e9-7d9e-4caf-825a-6cee5df938b5#ref=rss)
+* [https://www.spiegel.de/ausland/usa-anrufe-von-fake-biden-sollen-waehler-in-new-hampshire-beeinflussen](https://www.spiegel.de/ausland/usa-anrufe-von-fake-biden-sollen-waehler-in-new-hampshire-beeinflussen-a-025da91c-2e77-475f-bbbe-1e434ce57fdd#ref=rss)
+### hampshire
 
-* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-emmanuel-macron-ehrt-verstorbenen-politiker-auf-deutsch](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-emmanuel-macron-ehrt-verstorbenen-politiker-auf-deutsch-a-323f2c72-c411-4434-93fe-635ef80d0620#ref=rss)
-* [https://www.spiegel.de/politik/wolfgang-schaeuble-trauerstaatsakt-im-bundestag-livestream](https://www.spiegel.de/politik/wolfgang-schaeuble-trauerstaatsakt-im-bundestag-livestream-a-6460be54-d6da-49fa-aa1f-59b90346d0ee#ref=rss)
-### weiß
+* [https://www.spiegel.de/ausland/donald-trump-nikki-haley-und-die-vorwahl-in-new-hampshire-stunde-der-wahrheit-fuer-die-anti-trumper](https://www.spiegel.de/ausland/donald-trump-nikki-haley-und-die-vorwahl-in-new-hampshire-stunde-der-wahrheit-fuer-die-anti-trumper-a-a70d76e9-7d9e-4caf-825a-6cee5df938b5#ref=rss)
+* [https://www.spiegel.de/ausland/usa-anrufe-von-fake-biden-sollen-waehler-in-new-hampshire-beeinflussen](https://www.spiegel.de/ausland/usa-anrufe-von-fake-biden-sollen-waehler-in-new-hampshire-beeinflussen-a-025da91c-2e77-475f-bbbe-1e434ce57fdd#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/wissenschaft/natur/korallenriffe-in-der-karibik-sterben-es-sieht-fuerchterlich-aus-alles-ist-weiss-weiss-weiss](https://www.spiegel.de/wissenschaft/natur/korallenriffe-in-der-karibik-sterben-es-sieht-fuerchterlich-aus-alles-ist-weiss-weiss-weiss-a-13f84bc6-39cd-45fe-a7d3-2f3f968d29c4#ref=rss)
-### rotes
+* [https://www.spiegel.de/panorama/justiz/berlin-remmo-clan-scheitert-mit-klage-gegen-raeumung-von-villa-in-neukoelln](https://www.spiegel.de/panorama/justiz/berlin-remmo-clan-scheitert-mit-klage-gegen-raeumung-von-villa-in-neukoelln-a-375a9ded-5d43-4674-b3df-d751aca06a81#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bauernproteste-woher-kommt-der-frust-bauer-pothmer-faehrt-nach-berlin](https://www.spiegel.de/politik/deutschland/bauernproteste-woher-kommt-der-frust-bauer-pothmer-faehrt-nach-berlin-a-b3bc8837-c39b-4353-a50d-ef921999754b#ref=rss)
+### viele
 
-* [https://www.spiegel.de/ausland/rotes-meer-eu-staaten-verstaendigen-sich-auf-militaereinsatz-zur-sicherung-der-handelsschifffahrt](https://www.spiegel.de/ausland/rotes-meer-eu-staaten-verstaendigen-sich-auf-militaereinsatz-zur-sicherung-der-handelsschifffahrt-a-6e169797-536b-4b9c-a7ad-4afd122ae580#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/rotes-meer-hapag-lloyd-bietet-landtransit-durch-saudi-arabien-an](https://www.spiegel.de/wirtschaft/unternehmen/rotes-meer-hapag-lloyd-bietet-landtransit-durch-saudi-arabien-an-a-ec6461a5-9a6f-4c64-bcf5-56dcd9d90cfc#ref=rss)
-### militäreinsatz
+* [https://www.spiegel.de/panorama/bildung/kanada-vergibt-ein-drittel-weniger-visa-fuer-auslaendische-studierende](https://www.spiegel.de/panorama/bildung/kanada-vergibt-ein-drittel-weniger-visa-fuer-auslaendische-studierende-a-171db6ef-8f55-4e81-bd25-6c81dd2f2147#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-krieg-21-israelische-soldaten-im-gazastreifen-getoetet](https://www.spiegel.de/ausland/israel-hamas-krieg-21-israelische-soldaten-im-gazastreifen-getoetet-a-2b03cade-22ee-42b5-96f8-bc4652ae01de#ref=rss)
+* [https://www.spiegel.de/wirtschaft/waermepumpe-stromtarife-solar-aermere-haushalte-sind-bei-der-energiewende-benachteiligt](https://www.spiegel.de/wirtschaft/waermepumpe-stromtarife-solar-aermere-haushalte-sind-bei-der-energiewende-benachteiligt-a-7c370218-f5ea-436c-bf99-41a8fcb0f22b#ref=rss)
+### mindestens
 
-* [https://www.spiegel.de/ausland/rotes-meer-eu-staaten-verstaendigen-sich-auf-militaereinsatz-zur-sicherung-der-handelsschifffahrt](https://www.spiegel.de/ausland/rotes-meer-eu-staaten-verstaendigen-sich-auf-militaereinsatz-zur-sicherung-der-handelsschifffahrt-a-6e169797-536b-4b9c-a7ad-4afd122ae580#ref=rss)
-### handelsschifffahrt
+* [https://www.spiegel.de/panorama/china-20-tote-nach-erdrutsch-suche-nach-vermissten](https://www.spiegel.de/panorama/china-20-tote-nach-erdrutsch-suche-nach-vermissten-a-1f4c5838-29f6-418c-bb00-c4c978f12602#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-mehrere-tote-durch-russische-raketenangriffe-auf-kiew-und-charkiw](https://www.spiegel.de/ausland/ukraine-mehrere-tote-durch-russische-raketenangriffe-auf-kiew-und-charkiw-a-c0937e61-beac-460b-a3e6-1af9bf714ce3#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/ausland/rotes-meer-eu-staaten-verstaendigen-sich-auf-militaereinsatz-zur-sicherung-der-handelsschifffahrt](https://www.spiegel.de/ausland/rotes-meer-eu-staaten-verstaendigen-sich-auf-militaereinsatz-zur-sicherung-der-handelsschifffahrt-a-6e169797-536b-4b9c-a7ad-4afd122ae580#ref=rss)
-### eu
+* [https://www.spiegel.de/ausland/iran-weiterer-demonstrant-hingerichtet](https://www.spiegel.de/ausland/iran-weiterer-demonstrant-hingerichtet-a-b40927e0-a965-406a-8b12-fa6bf62d0548#ref=rss)
+* [https://www.spiegel.de/sport/basketball/basketball-nba-superstar-joel-embiid-erzielt-70-punkte-in-einem-spiel](https://www.spiegel.de/sport/basketball/basketball-nba-superstar-joel-embiid-erzielt-70-punkte-in-einem-spiel-a-b434cb82-d242-4005-a93d-759941867f9e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/parkinson-vereinigung-fuenf-personen-im-mutmasslichen-millionenbetrug-der-untreue-verdaechtigt](https://www.spiegel.de/wirtschaft/parkinson-vereinigung-fuenf-personen-im-mutmasslichen-millionenbetrug-der-untreue-verdaechtigt-a-5c147e9f-1906-41e2-96b4-e3d7d2e635c7#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/ausland/rotes-meer-eu-staaten-verstaendigen-sich-auf-militaereinsatz-zur-sicherung-der-handelsschifffahrt](https://www.spiegel.de/ausland/rotes-meer-eu-staaten-verstaendigen-sich-auf-militaereinsatz-zur-sicherung-der-handelsschifffahrt-a-6e169797-536b-4b9c-a7ad-4afd122ae580#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/alice-weidel-afd-chefin-sieht-referendum-ueber-eu-austritt-als-option-fuer-deutschland](https://www.spiegel.de/politik/deutschland/alice-weidel-afd-chefin-sieht-referendum-ueber-eu-austritt-als-option-fuer-deutschland-a-4f1bbf95-0d30-4c72-9540-306711efa114#ref=rss)
-### roten
+* [https://www.spiegel.de/wirtschaft/ifo-konjunkturprognose-deutschland-bleibt-sorgenkind-beim-wirtschaftswachstum](https://www.spiegel.de/wirtschaft/ifo-konjunkturprognose-deutschland-bleibt-sorgenkind-beim-wirtschaftswachstum-a-4285cb19-5aed-4d6d-b499-b1b41f14babc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/teure-lebensmittel-verbraucher-waehlen-tuc-bake-rolls-zur-mogelpackung-des-jahres](https://www.spiegel.de/wirtschaft/service/teure-lebensmittel-verbraucher-waehlen-tuc-bake-rolls-zur-mogelpackung-des-jahres-a-a1f012b3-4a79-4a32-acb1-d6cb9d5d1860#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/schifffahrt-investoren-haben-2023-weltweit-16-grosse-haefen-und-terminals-uebernommen](https://www.spiegel.de/wirtschaft/unternehmen/schifffahrt-investoren-haben-2023-weltweit-16-grosse-haefen-und-terminals-uebernommen-a-8cce5102-eec0-4673-a2a4-d0f0cd33f634#ref=rss)
+### natobeitritt
 
-* [https://www.spiegel.de/ausland/rotes-meer-eu-staaten-verstaendigen-sich-auf-militaereinsatz-zur-sicherung-der-handelsschifffahrt](https://www.spiegel.de/ausland/rotes-meer-eu-staaten-verstaendigen-sich-auf-militaereinsatz-zur-sicherung-der-handelsschifffahrt-a-6e169797-536b-4b9c-a7ad-4afd122ae580#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/rotes-meer-hapag-lloyd-bietet-landtransit-durch-saudi-arabien-an](https://www.spiegel.de/wirtschaft/unternehmen/rotes-meer-hapag-lloyd-bietet-landtransit-durch-saudi-arabien-an-a-ec6461a5-9a6f-4c64-bcf5-56dcd9d90cfc#ref=rss)
-### kritik
+* [https://www.spiegel.de/ausland/nato-beitritt-schwedens-victor-orban-will-mit-ulf-kristersson-verhandeln](https://www.spiegel.de/ausland/nato-beitritt-schwedens-victor-orban-will-mit-ulf-kristersson-verhandeln-a-063ccfd1-8e8a-401d-a356-9f5c92a20a59#ref=rss)
+### schwedens
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/h-m-zieht-werbung-mit-maedchen-in-schuluniformen-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/h-m-zieht-werbung-mit-maedchen-in-schuluniformen-zurueck-a-0cc4e952-522b-43d8-8521-aafec9ac2aff#ref=rss)
-* [https://www.spiegel.de/kultur/joe-chialo-berlin-kippt-antidisikriminierungsklausel-fuer-kulturfoerderung](https://www.spiegel.de/kultur/joe-chialo-berlin-kippt-antidisikriminierungsklausel-fuer-kulturfoerderung-a-9a357c85-3f03-43d0-b465-9ba7050d1927#ref=rss)
-### grüne
+* [https://www.spiegel.de/ausland/nato-beitritt-schwedens-victor-orban-will-mit-ulf-kristersson-verhandeln](https://www.spiegel.de/ausland/nato-beitritt-schwedens-victor-orban-will-mit-ulf-kristersson-verhandeln-a-063ccfd1-8e8a-401d-a356-9f5c92a20a59#ref=rss)
+### orbán
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-gruene-woche-in-berlin-demos-gegen-rechts-gazakrieg](https://www.spiegel.de/politik/deutschland/news-des-tages-gruene-woche-in-berlin-demos-gegen-rechts-gazakrieg-a-fdaa7a2c-3ea5-4093-bd78-a39067caa3e7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kinderfreibetrag-warum-er-angehoben-werden-muss-und-das-kindergeld-nicht](https://www.spiegel.de/wirtschaft/kinderfreibetrag-warum-er-angehoben-werden-muss-und-das-kindergeld-nicht-a-f7e2558d-618d-4759-a74f-ceaea3d6667d#ref=rss)
-### ehud
+* [https://www.spiegel.de/ausland/nato-beitritt-schwedens-victor-orban-will-mit-ulf-kristersson-verhandeln](https://www.spiegel.de/ausland/nato-beitritt-schwedens-victor-orban-will-mit-ulf-kristersson-verhandeln-a-063ccfd1-8e8a-401d-a356-9f5c92a20a59#ref=rss)
+### villa
 
-* [https://www.spiegel.de/ausland/ehud-olmert-die-ursache-fuer-die-terroranschlaege-war-unsere-arroganz-israels-ex-premier-im-interview](https://www.spiegel.de/ausland/ehud-olmert-die-ursache-fuer-die-terroranschlaege-war-unsere-arroganz-israels-ex-premier-im-interview-a-1cfa5716-3066-4021-b0bb-55befd20fa96#ref=rss)
-### olmert
+* [https://www.spiegel.de/panorama/justiz/berlin-remmo-clan-scheitert-mit-klage-gegen-raeumung-von-villa-in-neukoelln](https://www.spiegel.de/panorama/justiz/berlin-remmo-clan-scheitert-mit-klage-gegen-raeumung-von-villa-in-neukoelln-a-375a9ded-5d43-4674-b3df-d751aca06a81#ref=rss)
+### neukölln
 
-* [https://www.spiegel.de/ausland/ehud-olmert-die-ursache-fuer-die-terroranschlaege-war-unsere-arroganz-israels-ex-premier-im-interview](https://www.spiegel.de/ausland/ehud-olmert-die-ursache-fuer-die-terroranschlaege-war-unsere-arroganz-israels-ex-premier-im-interview-a-1cfa5716-3066-4021-b0bb-55befd20fa96#ref=rss)
-### arroganz
+* [https://www.spiegel.de/panorama/justiz/berlin-remmo-clan-scheitert-mit-klage-gegen-raeumung-von-villa-in-neukoelln](https://www.spiegel.de/panorama/justiz/berlin-remmo-clan-scheitert-mit-klage-gegen-raeumung-von-villa-in-neukoelln-a-375a9ded-5d43-4674-b3df-d751aca06a81#ref=rss)
+### entschieden
 
-* [https://www.spiegel.de/ausland/ehud-olmert-die-ursache-fuer-die-terroranschlaege-war-unsere-arroganz-israels-ex-premier-im-interview](https://www.spiegel.de/ausland/ehud-olmert-die-ursache-fuer-die-terroranschlaege-war-unsere-arroganz-israels-ex-premier-im-interview-a-1cfa5716-3066-4021-b0bb-55befd20fa96#ref=rss)
-### israels
+* [https://www.spiegel.de/panorama/justiz/berlin-remmo-clan-scheitert-mit-klage-gegen-raeumung-von-villa-in-neukoelln](https://www.spiegel.de/panorama/justiz/berlin-remmo-clan-scheitert-mit-klage-gegen-raeumung-von-villa-in-neukoelln-a-375a9ded-5d43-4674-b3df-d751aca06a81#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-npd-von-der-parteienfinanzierung-ausgeschlossen](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-npd-von-der-parteienfinanzierung-ausgeschlossen-a-c9bd69d4-c488-4291-a611-d988761ec367#ref=rss)
+### kanada
 
-* [https://www.spiegel.de/ausland/ehud-olmert-die-ursache-fuer-die-terroranschlaege-war-unsere-arroganz-israels-ex-premier-im-interview](https://www.spiegel.de/ausland/ehud-olmert-die-ursache-fuer-die-terroranschlaege-war-unsere-arroganz-israels-ex-premier-im-interview-a-1cfa5716-3066-4021-b0bb-55befd20fa96#ref=rss)
-* [https://www.spiegel.de/panorama/rudolf-dressler-ueber-israel-politik-wie-ihm-angela-merkel-die-formel-der-staatsraeson-klaute](https://www.spiegel.de/panorama/rudolf-dressler-ueber-israel-politik-wie-ihm-angela-merkel-die-formel-der-staatsraeson-klaute-a-e9bb3a79-5271-4b49-99d4-fd0d1eeceb1d#ref=rss)
-### interview
+* [https://www.spiegel.de/panorama/bildung/kanada-vergibt-ein-drittel-weniger-visa-fuer-auslaendische-studierende](https://www.spiegel.de/panorama/bildung/kanada-vergibt-ein-drittel-weniger-visa-fuer-auslaendische-studierende-a-171db6ef-8f55-4e81-bd25-6c81dd2f2147#ref=rss)
+### weniger
 
-* [https://www.spiegel.de/ausland/ehud-olmert-die-ursache-fuer-die-terroranschlaege-war-unsere-arroganz-israels-ex-premier-im-interview](https://www.spiegel.de/ausland/ehud-olmert-die-ursache-fuer-die-terroranschlaege-war-unsere-arroganz-israels-ex-premier-im-interview-a-1cfa5716-3066-4021-b0bb-55befd20fa96#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/alice-weidel-afd-chefin-sieht-referendum-ueber-eu-austritt-als-option-fuer-deutschland](https://www.spiegel.de/politik/deutschland/alice-weidel-afd-chefin-sieht-referendum-ueber-eu-austritt-als-option-fuer-deutschland-a-4f1bbf95-0d30-4c72-9540-306711efa114#ref=rss)
-### aurubis
+* [https://www.spiegel.de/panorama/bildung/kanada-vergibt-ein-drittel-weniger-visa-fuer-auslaendische-studierende](https://www.spiegel.de/panorama/bildung/kanada-vergibt-ein-drittel-weniger-visa-fuer-auslaendische-studierende-a-171db6ef-8f55-4e81-bd25-6c81dd2f2147#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ifo-konjunkturprognose-deutschland-bleibt-sorgenkind-beim-wirtschaftswachstum](https://www.spiegel.de/wirtschaft/ifo-konjunkturprognose-deutschland-bleibt-sorgenkind-beim-wirtschaftswachstum-a-4285cb19-5aed-4d6d-b499-b1b41f14babc#ref=rss)
+### riva
 
-* [https://www.spiegel.de/wirtschaft/aurubis-millionenbetrug-bei-kupferkonzern-spitze-soll-gehen](https://www.spiegel.de/wirtschaft/aurubis-millionenbetrug-bei-kupferkonzern-spitze-soll-gehen-a-8bb10163-3fc9-4f5a-b7e6-3778d2d06fea#ref=rss)
-### kupferkonzern
+* [https://www.spiegel.de/sport/fussball/luigi-riva-nachruf-auf-italiens-fussball-idol-ein-mann-wie-ein-donnerschlag](https://www.spiegel.de/sport/fussball/luigi-riva-nachruf-auf-italiens-fussball-idol-ein-mann-wie-ein-donnerschlag-a-a5133464-0df9-42bd-86a3-a5cab5c5d8ba#ref=rss)
+### macht
 
-* [https://www.spiegel.de/wirtschaft/aurubis-millionenbetrug-bei-kupferkonzern-spitze-soll-gehen](https://www.spiegel.de/wirtschaft/aurubis-millionenbetrug-bei-kupferkonzern-spitze-soll-gehen-a-8bb10163-3fc9-4f5a-b7e6-3778d2d06fea#ref=rss)
-### gérard
+* [https://www.spiegel.de/netzwelt/gadgets/ios-17-3-dieses-update-wird-iphone-diebe-aergern](https://www.spiegel.de/netzwelt/gadgets/ios-17-3-dieses-update-wird-iphone-diebe-aergern-a-69d53232-06ee-47b9-b9e8-ae6051ef96d9#ref=rss)
+* [https://www.spiegel.de/start/studieren-in-chemnitz-campus-wohnviertel-wg-zimmer-preise-und-kneipen](https://www.spiegel.de/start/studieren-in-chemnitz-campus-wohnviertel-wg-zimmer-preise-und-kneipen-a-cdc76412-81a9-45ff-995f-65f4396cbfe4#ref=rss)
+### schwer
 
-* [https://www.spiegel.de/kultur/kino/gerard-depardieu-ein-verfahren-wurde-eingestellt-zwei-laufen-weiter](https://www.spiegel.de/kultur/kino/gerard-depardieu-ein-verfahren-wurde-eingestellt-zwei-laufen-weiter-a-42f2200e-e6df-4dc3-8c37-9442580681ae#ref=rss)
-### depardieu
+* [https://www.spiegel.de/netzwelt/gadgets/ios-17-3-dieses-update-wird-iphone-diebe-aergern](https://www.spiegel.de/netzwelt/gadgets/ios-17-3-dieses-update-wird-iphone-diebe-aergern-a-69d53232-06ee-47b9-b9e8-ae6051ef96d9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/parkinson-vereinigung-fuenf-personen-im-mutmasslichen-millionenbetrug-der-untreue-verdaechtigt](https://www.spiegel.de/wirtschaft/parkinson-vereinigung-fuenf-personen-im-mutmasslichen-millionenbetrug-der-untreue-verdaechtigt-a-5c147e9f-1906-41e2-96b4-e3d7d2e635c7#ref=rss)
+### 20
 
-* [https://www.spiegel.de/kultur/kino/gerard-depardieu-ein-verfahren-wurde-eingestellt-zwei-laufen-weiter](https://www.spiegel.de/kultur/kino/gerard-depardieu-ein-verfahren-wurde-eingestellt-zwei-laufen-weiter-a-42f2200e-e6df-4dc3-8c37-9442580681ae#ref=rss)
-### frankreich
+* [https://www.spiegel.de/panorama/china-20-tote-nach-erdrutsch-suche-nach-vermissten](https://www.spiegel.de/panorama/china-20-tote-nach-erdrutsch-suche-nach-vermissten-a-1f4c5838-29f6-418c-bb00-c4c978f12602#ref=rss)
+### tote
 
-* [https://www.spiegel.de/kultur/kino/gerard-depardieu-ein-verfahren-wurde-eingestellt-zwei-laufen-weiter](https://www.spiegel.de/kultur/kino/gerard-depardieu-ein-verfahren-wurde-eingestellt-zwei-laufen-weiter-a-42f2200e-e6df-4dc3-8c37-9442580681ae#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-emmanuel-macron-ehrt-verstorbenen-politiker-auf-deutsch](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-emmanuel-macron-ehrt-verstorbenen-politiker-auf-deutsch-a-323f2c72-c411-4434-93fe-635ef80d0620#ref=rss)
-### spdfraktionschef
+* [https://www.spiegel.de/panorama/china-20-tote-nach-erdrutsch-suche-nach-vermissten](https://www.spiegel.de/panorama/china-20-tote-nach-erdrutsch-suche-nach-vermissten-a-1f4c5838-29f6-418c-bb00-c4c978f12602#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-mehrere-tote-durch-russische-raketenangriffe-auf-kiew-und-charkiw](https://www.spiegel.de/ausland/ukraine-mehrere-tote-durch-russische-raketenangriffe-auf-kiew-und-charkiw-a-c0937e61-beac-460b-a3e6-1af9bf714ce3#ref=rss)
+### erdrutsch
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/kindergeld-und-freibetrag-spd-fraktionschef-rolf-muetzenich-fuer-voellig-neues-konzept](https://www.spiegel.de/wirtschaft/unternehmen/kindergeld-und-freibetrag-spd-fraktionschef-rolf-muetzenich-fuer-voellig-neues-konzept-a-64dadb1b-9a04-436f-9130-d6bd09264665#ref=rss)
-### rolf
+* [https://www.spiegel.de/panorama/china-20-tote-nach-erdrutsch-suche-nach-vermissten](https://www.spiegel.de/panorama/china-20-tote-nach-erdrutsch-suche-nach-vermissten-a-1f4c5838-29f6-418c-bb00-c4c978f12602#ref=rss)
+### 30
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/kindergeld-und-freibetrag-spd-fraktionschef-rolf-muetzenich-fuer-voellig-neues-konzept](https://www.spiegel.de/wirtschaft/unternehmen/kindergeld-und-freibetrag-spd-fraktionschef-rolf-muetzenich-fuer-voellig-neues-konzept-a-64dadb1b-9a04-436f-9130-d6bd09264665#ref=rss)
-### mützenich
+* [https://www.spiegel.de/panorama/china-20-tote-nach-erdrutsch-suche-nach-vermissten](https://www.spiegel.de/panorama/china-20-tote-nach-erdrutsch-suche-nach-vermissten-a-1f4c5838-29f6-418c-bb00-c4c978f12602#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bauernproteste-woher-kommt-der-frust-bauer-pothmer-faehrt-nach-berlin](https://www.spiegel.de/politik/deutschland/bauernproteste-woher-kommt-der-frust-bauer-pothmer-faehrt-nach-berlin-a-b3bc8837-c39b-4353-a50d-ef921999754b#ref=rss)
+### unterdessen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/kindergeld-und-freibetrag-spd-fraktionschef-rolf-muetzenich-fuer-voellig-neues-konzept](https://www.spiegel.de/wirtschaft/unternehmen/kindergeld-und-freibetrag-spd-fraktionschef-rolf-muetzenich-fuer-voellig-neues-konzept-a-64dadb1b-9a04-436f-9130-d6bd09264665#ref=rss)
-### finanzminister
+* [https://www.spiegel.de/ausland/iran-weiterer-demonstrant-hingerichtet](https://www.spiegel.de/ausland/iran-weiterer-demonstrant-hingerichtet-a-b40927e0-a965-406a-8b12-fa6bf62d0548#ref=rss)
+* [https://www.spiegel.de/sport/basketball/basketball-nba-superstar-joel-embiid-erzielt-70-punkte-in-einem-spiel](https://www.spiegel.de/sport/basketball/basketball-nba-superstar-joel-embiid-erzielt-70-punkte-in-einem-spiel-a-b434cb82-d242-4005-a93d-759941867f9e#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/kindergeld-und-freibetrag-spd-fraktionschef-rolf-muetzenich-fuer-voellig-neues-konzept](https://www.spiegel.de/wirtschaft/unternehmen/kindergeld-und-freibetrag-spd-fraktionschef-rolf-muetzenich-fuer-voellig-neues-konzept-a-64dadb1b-9a04-436f-9130-d6bd09264665#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kinderfreibetrag-warum-er-angehoben-werden-muss-und-das-kindergeld-nicht](https://www.spiegel.de/wirtschaft/kinderfreibetrag-warum-er-angehoben-werden-muss-und-das-kindergeld-nicht-a-f7e2558d-618d-4759-a74f-ceaea3d6667d#ref=rss)
-### christian
+* [https://www.spiegel.de/sport/handball/handball-em-deutschland-kaempft-ums-halbfinale-der-pyramidenbauer-und-der-schlaks](https://www.spiegel.de/sport/handball/handball-em-deutschland-kaempft-ums-halbfinale-der-pyramidenbauer-und-der-schlaks-a-2c6374e9-adbf-44dc-b931-4be984bd2ca3#ref=rss)
+* [https://www.spiegel.de/ausland/nato-schliesst-milliardenschwere-vertraege-fuer-artilleriemunition-ab](https://www.spiegel.de/ausland/nato-schliesst-milliardenschwere-vertraege-fuer-artilleriemunition-ab-a-f4d9a4fb-f015-42dd-91b2-60a5e48a9650#ref=rss)
+### partie
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/kindergeld-und-freibetrag-spd-fraktionschef-rolf-muetzenich-fuer-voellig-neues-konzept](https://www.spiegel.de/wirtschaft/unternehmen/kindergeld-und-freibetrag-spd-fraktionschef-rolf-muetzenich-fuer-voellig-neues-konzept-a-64dadb1b-9a04-436f-9130-d6bd09264665#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kinderfreibetrag-warum-er-angehoben-werden-muss-und-das-kindergeld-nicht](https://www.spiegel.de/wirtschaft/kinderfreibetrag-warum-er-angehoben-werden-muss-und-das-kindergeld-nicht-a-f7e2558d-618d-4759-a74f-ceaea3d6667d#ref=rss)
-### lindner
+* [https://www.spiegel.de/sport/handball/handball-em-deutschland-kaempft-ums-halbfinale-der-pyramidenbauer-und-der-schlaks](https://www.spiegel.de/sport/handball/handball-em-deutschland-kaempft-ums-halbfinale-der-pyramidenbauer-und-der-schlaks-a-2c6374e9-adbf-44dc-b931-4be984bd2ca3#ref=rss)
+* [https://www.spiegel.de/sport/basketball/basketball-nba-superstar-joel-embiid-erzielt-70-punkte-in-einem-spiel](https://www.spiegel.de/sport/basketball/basketball-nba-superstar-joel-embiid-erzielt-70-punkte-in-einem-spiel-a-b434cb82-d242-4005-a93d-759941867f9e#ref=rss)
+### volksbank
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/kindergeld-und-freibetrag-spd-fraktionschef-rolf-muetzenich-fuer-voellig-neues-konzept](https://www.spiegel.de/wirtschaft/unternehmen/kindergeld-und-freibetrag-spd-fraktionschef-rolf-muetzenich-fuer-voellig-neues-konzept-a-64dadb1b-9a04-436f-9130-d6bd09264665#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kinderfreibetrag-warum-er-angehoben-werden-muss-und-das-kindergeld-nicht](https://www.spiegel.de/wirtschaft/kinderfreibetrag-warum-er-angehoben-werden-muss-und-das-kindergeld-nicht-a-f7e2558d-618d-4759-a74f-ceaea3d6667d#ref=rss)
-### erhöhen
+* [https://www.spiegel.de/wirtschaft/effenberg-bank-spektakulaere-volte-bei-der-volksbank-schmalkalden-zeichnet-sich-ab](https://www.spiegel.de/wirtschaft/effenberg-bank-spektakulaere-volte-bei-der-volksbank-schmalkalden-zeichnet-sich-ab-a-928425ac-9fff-4984-a604-a1d9d2f92279#ref=rss)
+### schmalkalden
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/kindergeld-und-freibetrag-spd-fraktionschef-rolf-muetzenich-fuer-voellig-neues-konzept](https://www.spiegel.de/wirtschaft/unternehmen/kindergeld-und-freibetrag-spd-fraktionschef-rolf-muetzenich-fuer-voellig-neues-konzept-a-64dadb1b-9a04-436f-9130-d6bd09264665#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kinderfreibetrag-warum-er-angehoben-werden-muss-und-das-kindergeld-nicht](https://www.spiegel.de/wirtschaft/kinderfreibetrag-warum-er-angehoben-werden-muss-und-das-kindergeld-nicht-a-f7e2558d-618d-4759-a74f-ceaea3d6667d#ref=rss)
-### neuen
+* [https://www.spiegel.de/wirtschaft/effenberg-bank-spektakulaere-volte-bei-der-volksbank-schmalkalden-zeichnet-sich-ab](https://www.spiegel.de/wirtschaft/effenberg-bank-spektakulaere-volte-bei-der-volksbank-schmalkalden-zeichnet-sich-ab-a-928425ac-9fff-4984-a604-a1d9d2f92279#ref=rss)
+### nasa
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/kindergeld-und-freibetrag-spd-fraktionschef-rolf-muetzenich-fuer-voellig-neues-konzept](https://www.spiegel.de/wirtschaft/unternehmen/kindergeld-und-freibetrag-spd-fraktionschef-rolf-muetzenich-fuer-voellig-neues-konzept-a-64dadb1b-9a04-436f-9130-d6bd09264665#ref=rss)
-* [https://www.spiegel.de/ausland/indien-narendra-modi-weiht-rama-tempel-ein-das-ende-des-indischen-saekularismus](https://www.spiegel.de/ausland/indien-narendra-modi-weiht-rama-tempel-ein-das-ende-des-indischen-saekularismus-a-0d978c38-0e1c-4d2f-b9e5-81a7dfee9742#ref=rss)
-### lagarde
+* [https://www.spiegel.de/wissenschaft/weltall/nasa-oeffnet-probe-von-asteroid-bennu-mit-vier-monaten-verzoegerung](https://www.spiegel.de/wissenschaft/weltall/nasa-oeffnet-probe-von-asteroid-bennu-mit-vier-monaten-verzoegerung-a-0e70a46d-f9ea-459f-bce0-3f5bd713b53c#ref=rss)
+### probe
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/christine-lagarde-ezb-belegschaft-laut-ipso-umfrage-unzufrieden-mit-ezb-praesidentin](https://www.spiegel.de/wirtschaft/unternehmen/christine-lagarde-ezb-belegschaft-laut-ipso-umfrage-unzufrieden-mit-ezb-praesidentin-a-d113ebd5-14f0-431b-b3db-6ba70ea6a53d#ref=rss)
-### ezbpräsidentin
+* [https://www.spiegel.de/wissenschaft/weltall/nasa-oeffnet-probe-von-asteroid-bennu-mit-vier-monaten-verzoegerung](https://www.spiegel.de/wissenschaft/weltall/nasa-oeffnet-probe-von-asteroid-bennu-mit-vier-monaten-verzoegerung-a-0e70a46d-f9ea-459f-bce0-3f5bd713b53c#ref=rss)
+### vier
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/christine-lagarde-ezb-belegschaft-laut-ipso-umfrage-unzufrieden-mit-ezb-praesidentin](https://www.spiegel.de/wirtschaft/unternehmen/christine-lagarde-ezb-belegschaft-laut-ipso-umfrage-unzufrieden-mit-ezb-praesidentin-a-d113ebd5-14f0-431b-b3db-6ba70ea6a53d#ref=rss)
-### deutschlandticket
+* [https://www.spiegel.de/wissenschaft/weltall/nasa-oeffnet-probe-von-asteroid-bennu-mit-vier-monaten-verzoegerung](https://www.spiegel.de/wissenschaft/weltall/nasa-oeffnet-probe-von-asteroid-bennu-mit-vier-monaten-verzoegerung-a-0e70a46d-f9ea-459f-bce0-3f5bd713b53c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bauernproteste-woher-kommt-der-frust-bauer-pothmer-faehrt-nach-berlin](https://www.spiegel.de/politik/deutschland/bauernproteste-woher-kommt-der-frust-bauer-pothmer-faehrt-nach-berlin-a-b3bc8837-c39b-4353-a50d-ef921999754b#ref=rss)
+### erfolg
 
-* [https://www.spiegel.de/politik/deutschland/deutschlandticket-das-49-euro-ticket-soll-2024-nicht-teurer-werden](https://www.spiegel.de/politik/deutschland/deutschlandticket-das-49-euro-ticket-soll-2024-nicht-teurer-werden-a-f4a2001b-477f-42f3-b35e-b9d47a416a9c#ref=rss)
-### 2024
+* [https://www.spiegel.de/wissenschaft/weltall/nasa-oeffnet-probe-von-asteroid-bennu-mit-vier-monaten-verzoegerung](https://www.spiegel.de/wissenschaft/weltall/nasa-oeffnet-probe-von-asteroid-bennu-mit-vier-monaten-verzoegerung-a-0e70a46d-f9ea-459f-bce0-3f5bd713b53c#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-nikki-haley-und-die-vorwahl-in-new-hampshire-stunde-der-wahrheit-fuer-die-anti-trumper](https://www.spiegel.de/ausland/donald-trump-nikki-haley-und-die-vorwahl-in-new-hampshire-stunde-der-wahrheit-fuer-die-anti-trumper-a-a70d76e9-7d9e-4caf-825a-6cee5df938b5#ref=rss)
+### afd
 
-* [https://www.spiegel.de/politik/deutschland/deutschlandticket-das-49-euro-ticket-soll-2024-nicht-teurer-werden](https://www.spiegel.de/politik/deutschland/deutschlandticket-das-49-euro-ticket-soll-2024-nicht-teurer-werden-a-f4a2001b-477f-42f3-b35e-b9d47a416a9c#ref=rss)
-* [https://www.spiegel.de/kultur/kino/berlinale-2024-cillian-murphy-gael-garcia-bernal-rooney-mara-in-wettbewerbsfilmen](https://www.spiegel.de/kultur/kino/berlinale-2024-cillian-murphy-gael-garcia-bernal-rooney-mara-in-wettbewerbsfilmen-a-242bc038-f211-457e-af9f-51cf4f7ac0fb#ref=rss)
-### teurer
+* [https://www.spiegel.de/kultur/afd-rechtsextrem-debatten-ueber-remigration-meine-german-angst](https://www.spiegel.de/kultur/afd-rechtsextrem-debatten-ueber-remigration-meine-german-angst-a-2cddb68f-7bab-48b0-b718-3489f49fda1e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/demos-gegen-rechtsextremismus-hass-choere-schaden-dem-kampf-gegen-die-afd](https://www.spiegel.de/politik/deutschland/demos-gegen-rechtsextremismus-hass-choere-schaden-dem-kampf-gegen-die-afd-a-c9eed72a-04f8-4684-acbe-37ed8acb3b10#ref=rss)
+### remigration
 
-* [https://www.spiegel.de/politik/deutschland/deutschlandticket-das-49-euro-ticket-soll-2024-nicht-teurer-werden](https://www.spiegel.de/politik/deutschland/deutschlandticket-das-49-euro-ticket-soll-2024-nicht-teurer-werden-a-f4a2001b-477f-42f3-b35e-b9d47a416a9c#ref=rss)
-### zahl
+* [https://www.spiegel.de/kultur/afd-rechtsextrem-debatten-ueber-remigration-meine-german-angst](https://www.spiegel.de/kultur/afd-rechtsextrem-debatten-ueber-remigration-meine-german-angst-a-2cddb68f-7bab-48b0-b718-3489f49fda1e#ref=rss)
+### angst
 
-* [https://www.spiegel.de/gesundheit/alkoholsucht-zahl-steigt-im-norden-und-im-osten-leben-die-meisten-alkoholkranken](https://www.spiegel.de/gesundheit/alkoholsucht-zahl-steigt-im-norden-und-im-osten-leben-die-meisten-alkoholkranken-a-a798d663-9c76-48a1-b57e-89bbda014934#ref=rss)
-### leben
+* [https://www.spiegel.de/kultur/afd-rechtsextrem-debatten-ueber-remigration-meine-german-angst](https://www.spiegel.de/kultur/afd-rechtsextrem-debatten-ueber-remigration-meine-german-angst-a-2cddb68f-7bab-48b0-b718-3489f49fda1e#ref=rss)
+### wächst
 
-* [https://www.spiegel.de/gesundheit/alkoholsucht-zahl-steigt-im-norden-und-im-osten-leben-die-meisten-alkoholkranken](https://www.spiegel.de/gesundheit/alkoholsucht-zahl-steigt-im-norden-und-im-osten-leben-die-meisten-alkoholkranken-a-a798d663-9c76-48a1-b57e-89bbda014934#ref=rss)
-* [https://www.spiegel.de/ausland/uganda-lgbtq-community-gejagt-im-eigenen-land](https://www.spiegel.de/ausland/uganda-lgbtq-community-gejagt-im-eigenen-land-a-77d75ad4-4b46-47ae-b7fd-d305fcdbcd0f#ref=rss)
-### jahren
+* [https://www.spiegel.de/wirtschaft/ifo-konjunkturprognose-deutschland-bleibt-sorgenkind-beim-wirtschaftswachstum](https://www.spiegel.de/wirtschaft/ifo-konjunkturprognose-deutschland-bleibt-sorgenkind-beim-wirtschaftswachstum-a-4285cb19-5aed-4d6d-b499-b1b41f14babc#ref=rss)
+* [https://www.spiegel.de/ausland/usa-anrufe-von-fake-biden-sollen-waehler-in-new-hampshire-beeinflussen](https://www.spiegel.de/ausland/usa-anrufe-von-fake-biden-sollen-waehler-in-new-hampshire-beeinflussen-a-025da91c-2e77-475f-bbbe-1e434ce57fdd#ref=rss)
+### demnach
 
-* [https://www.spiegel.de/gesundheit/alkoholsucht-zahl-steigt-im-norden-und-im-osten-leben-die-meisten-alkoholkranken](https://www.spiegel.de/gesundheit/alkoholsucht-zahl-steigt-im-norden-und-im-osten-leben-die-meisten-alkoholkranken-a-a798d663-9c76-48a1-b57e-89bbda014934#ref=rss)
-* [https://www.spiegel.de/ausland/indien-narendra-modi-weiht-rama-tempel-ein-das-ende-des-indischen-saekularismus](https://www.spiegel.de/ausland/indien-narendra-modi-weiht-rama-tempel-ein-das-ende-des-indischen-saekularismus-a-0d978c38-0e1c-4d2f-b9e5-81a7dfee9742#ref=rss)
-### allerdings
+* [https://www.spiegel.de/wirtschaft/ifo-konjunkturprognose-deutschland-bleibt-sorgenkind-beim-wirtschaftswachstum](https://www.spiegel.de/wirtschaft/ifo-konjunkturprognose-deutschland-bleibt-sorgenkind-beim-wirtschaftswachstum-a-4285cb19-5aed-4d6d-b499-b1b41f14babc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/waermepumpe-stromtarife-solar-aermere-haushalte-sind-bei-der-energiewende-benachteiligt](https://www.spiegel.de/wirtschaft/waermepumpe-stromtarife-solar-aermere-haushalte-sind-bei-der-energiewende-benachteiligt-a-7c370218-f5ea-436c-bf99-41a8fcb0f22b#ref=rss)
+### 21
 
-* [https://www.spiegel.de/gesundheit/alkoholsucht-zahl-steigt-im-norden-und-im-osten-leben-die-meisten-alkoholkranken](https://www.spiegel.de/gesundheit/alkoholsucht-zahl-steigt-im-norden-und-im-osten-leben-die-meisten-alkoholkranken-a-a798d663-9c76-48a1-b57e-89bbda014934#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/alice-weidel-afd-chefin-sieht-referendum-ueber-eu-austritt-als-option-fuer-deutschland](https://www.spiegel.de/politik/deutschland/alice-weidel-afd-chefin-sieht-referendum-ueber-eu-austritt-als-option-fuer-deutschland-a-4f1bbf95-0d30-4c72-9540-306711efa114#ref=rss)
-### uganda
+* [https://www.spiegel.de/ausland/israel-hamas-krieg-21-israelische-soldaten-im-gazastreifen-getoetet](https://www.spiegel.de/ausland/israel-hamas-krieg-21-israelische-soldaten-im-gazastreifen-getoetet-a-2b03cade-22ee-42b5-96f8-bc4652ae01de#ref=rss)
+### israelische
 
-* [https://www.spiegel.de/ausland/uganda-lgbtq-community-gejagt-im-eigenen-land](https://www.spiegel.de/ausland/uganda-lgbtq-community-gejagt-im-eigenen-land-a-77d75ad4-4b46-47ae-b7fd-d305fcdbcd0f#ref=rss)
-### allem
+* [https://www.spiegel.de/ausland/israel-hamas-krieg-21-israelische-soldaten-im-gazastreifen-getoetet](https://www.spiegel.de/ausland/israel-hamas-krieg-21-israelische-soldaten-im-gazastreifen-getoetet-a-2b03cade-22ee-42b5-96f8-bc4652ae01de#ref=rss)
+### soldaten
 
-* [https://www.spiegel.de/ausland/uganda-lgbtq-community-gejagt-im-eigenen-land](https://www.spiegel.de/ausland/uganda-lgbtq-community-gejagt-im-eigenen-land-a-77d75ad4-4b46-47ae-b7fd-d305fcdbcd0f#ref=rss)
-* [https://www.spiegel.de/ausland/indien-narendra-modi-weiht-rama-tempel-ein-das-ende-des-indischen-saekularismus](https://www.spiegel.de/ausland/indien-narendra-modi-weiht-rama-tempel-ein-das-ende-des-indischen-saekularismus-a-0d978c38-0e1c-4d2f-b9e5-81a7dfee9742#ref=rss)
-### bayern
+* [https://www.spiegel.de/ausland/israel-hamas-krieg-21-israelische-soldaten-im-gazastreifen-getoetet](https://www.spiegel.de/ausland/israel-hamas-krieg-21-israelische-soldaten-im-gazastreifen-getoetet-a-2b03cade-22ee-42b5-96f8-bc4652ae01de#ref=rss)
+### gazastreifen
 
-* [https://www.spiegel.de/panorama/bayern-und-tirol-dialekt-haette-fast-zur-kollision-zweier-zuege-gefuehrt-gar-nix-davo-gewisst-haen](https://www.spiegel.de/panorama/bayern-und-tirol-dialekt-haette-fast-zur-kollision-zweier-zuege-gefuehrt-gar-nix-davo-gewisst-haen-a-8592b150-c4ee-47a1-a112-2d57d6793fe9#ref=rss)
-### tirol
+* [https://www.spiegel.de/ausland/israel-hamas-krieg-21-israelische-soldaten-im-gazastreifen-getoetet](https://www.spiegel.de/ausland/israel-hamas-krieg-21-israelische-soldaten-im-gazastreifen-getoetet-a-2b03cade-22ee-42b5-96f8-bc4652ae01de#ref=rss)
+### getötet
 
-* [https://www.spiegel.de/panorama/bayern-und-tirol-dialekt-haette-fast-zur-kollision-zweier-zuege-gefuehrt-gar-nix-davo-gewisst-haen](https://www.spiegel.de/panorama/bayern-und-tirol-dialekt-haette-fast-zur-kollision-zweier-zuege-gefuehrt-gar-nix-davo-gewisst-haen-a-8592b150-c4ee-47a1-a112-2d57d6793fe9#ref=rss)
-### dialekt
+* [https://www.spiegel.de/ausland/israel-hamas-krieg-21-israelische-soldaten-im-gazastreifen-getoetet](https://www.spiegel.de/ausland/israel-hamas-krieg-21-israelische-soldaten-im-gazastreifen-getoetet-a-2b03cade-22ee-42b5-96f8-bc4652ae01de#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-mehrere-tote-durch-russische-raketenangriffe-auf-kiew-und-charkiw](https://www.spiegel.de/ausland/ukraine-mehrere-tote-durch-russische-raketenangriffe-auf-kiew-und-charkiw-a-c0937e61-beac-460b-a3e6-1af9bf714ce3#ref=rss)
+### nato
 
-* [https://www.spiegel.de/panorama/bayern-und-tirol-dialekt-haette-fast-zur-kollision-zweier-zuege-gefuehrt-gar-nix-davo-gewisst-haen](https://www.spiegel.de/panorama/bayern-und-tirol-dialekt-haette-fast-zur-kollision-zweier-zuege-gefuehrt-gar-nix-davo-gewisst-haen-a-8592b150-c4ee-47a1-a112-2d57d6793fe9#ref=rss)
-### züge
+* [https://www.spiegel.de/ausland/nato-schliesst-milliardenschwere-vertraege-fuer-artilleriemunition-ab](https://www.spiegel.de/ausland/nato-schliesst-milliardenschwere-vertraege-fuer-artilleriemunition-ab-a-f4d9a4fb-f015-42dd-91b2-60a5e48a9650#ref=rss)
+### carsten
 
-* [https://www.spiegel.de/panorama/bayern-und-tirol-dialekt-haette-fast-zur-kollision-zweier-zuege-gefuehrt-gar-nix-davo-gewisst-haen](https://www.spiegel.de/panorama/bayern-und-tirol-dialekt-haette-fast-zur-kollision-zweier-zuege-gefuehrt-gar-nix-davo-gewisst-haen-a-8592b150-c4ee-47a1-a112-2d57d6793fe9#ref=rss)
-### mutter
+* [https://www.spiegel.de/politik/deutschland/rechtsextremismus-carsten-schneider-draengt-ampel-auf-konkretes-engagement](https://www.spiegel.de/politik/deutschland/rechtsextremismus-carsten-schneider-draengt-ampel-auf-konkretes-engagement-a-379c8e06-8b34-4e9c-85cb-c675577a29e3#ref=rss)
+### schneider
 
-* [https://www.spiegel.de/familie/mutter-mit-migrationsgeschichte-meine-kinder-sind-deutschland](https://www.spiegel.de/familie/mutter-mit-migrationsgeschichte-meine-kinder-sind-deutschland-a-dffd8eaa-7a0b-4c4e-aa35-ce5abffbb609#ref=rss)
-### umwelthilfe
+* [https://www.spiegel.de/politik/deutschland/rechtsextremismus-carsten-schneider-draengt-ampel-auf-konkretes-engagement](https://www.spiegel.de/politik/deutschland/rechtsextremismus-carsten-schneider-draengt-ampel-auf-konkretes-engagement-a-379c8e06-8b34-4e9c-85cb-c675577a29e3#ref=rss)
+### ampel
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/parkplaetze-umwelthilfe-verlangt-hoehere-parkgebuehren-fuer-monster-suv](https://www.spiegel.de/wirtschaft/unternehmen/parkplaetze-umwelthilfe-verlangt-hoehere-parkgebuehren-fuer-monster-suv-a-397db368-9c40-4aee-94c9-afaac36698d1#ref=rss)
-### emmanuel
+* [https://www.spiegel.de/politik/deutschland/rechtsextremismus-carsten-schneider-draengt-ampel-auf-konkretes-engagement](https://www.spiegel.de/politik/deutschland/rechtsextremismus-carsten-schneider-draengt-ampel-auf-konkretes-engagement-a-379c8e06-8b34-4e9c-85cb-c675577a29e3#ref=rss)
+### junge
 
-* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-emmanuel-macron-ehrt-verstorbenen-politiker-auf-deutsch](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-emmanuel-macron-ehrt-verstorbenen-politiker-auf-deutsch-a-323f2c72-c411-4434-93fe-635ef80d0620#ref=rss)
-* [https://www.spiegel.de/politik/wolfgang-schaeuble-trauerstaatsakt-im-bundestag-livestream](https://www.spiegel.de/politik/wolfgang-schaeuble-trauerstaatsakt-im-bundestag-livestream-a-6460be54-d6da-49fa-aa1f-59b90346d0ee#ref=rss)
-### verstorbenen
+* [https://www.spiegel.de/panorama/leute/kate-winslet-spendet-fuer-junge-britin-mit-augenerkrankung](https://www.spiegel.de/panorama/leute/kate-winslet-spendet-fuer-junge-britin-mit-augenerkrankung-a-949037b4-e29e-43a9-a95e-bf3e89f1940d#ref=rss)
+* [https://www.spiegel.de/stil/old-money-style-sehnsucht-nach-oben](https://www.spiegel.de/stil/old-money-style-sehnsucht-nach-oben-a-88f6f6a8-0782-43b4-b140-7ed731d99eff#ref=rss)
+### gefunden
 
-* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-emmanuel-macron-ehrt-verstorbenen-politiker-auf-deutsch](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-emmanuel-macron-ehrt-verstorbenen-politiker-auf-deutsch-a-323f2c72-c411-4434-93fe-635ef80d0620#ref=rss)
-* [https://www.spiegel.de/politik/wolfgang-schaeuble-trauerstaatsakt-im-bundestag-livestream](https://www.spiegel.de/politik/wolfgang-schaeuble-trauerstaatsakt-im-bundestag-livestream-a-6460be54-d6da-49fa-aa1f-59b90346d0ee#ref=rss)
-### deutsch
+* [https://www.spiegel.de/panorama/leute/kate-winslet-spendet-fuer-junge-britin-mit-augenerkrankung](https://www.spiegel.de/panorama/leute/kate-winslet-spendet-fuer-junge-britin-mit-augenerkrankung-a-949037b4-e29e-43a9-a95e-bf3e89f1940d#ref=rss)
+* [https://www.spiegel.de/stil/old-money-style-sehnsucht-nach-oben](https://www.spiegel.de/stil/old-money-style-sehnsucht-nach-oben-a-88f6f6a8-0782-43b4-b140-7ed731d99eff#ref=rss)
+### bundesverfassungsgericht
 
-* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-emmanuel-macron-ehrt-verstorbenen-politiker-auf-deutsch](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-emmanuel-macron-ehrt-verstorbenen-politiker-auf-deutsch-a-323f2c72-c411-4434-93fe-635ef80d0620#ref=rss)
-### präsident
+* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-npd-von-der-parteienfinanzierung-ausgeschlossen](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-npd-von-der-parteienfinanzierung-ausgeschlossen-a-c9bd69d4-c488-4291-a611-d988761ec367#ref=rss)
+### npd
 
-* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-emmanuel-macron-ehrt-verstorbenen-politiker-auf-deutsch](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-emmanuel-macron-ehrt-verstorbenen-politiker-auf-deutsch-a-323f2c72-c411-4434-93fe-635ef80d0620#ref=rss)
-* [https://www.spiegel.de/politik/wolfgang-schaeuble-trauerstaatsakt-im-bundestag-livestream](https://www.spiegel.de/politik/wolfgang-schaeuble-trauerstaatsakt-im-bundestag-livestream-a-6460be54-d6da-49fa-aa1f-59b90346d0ee#ref=rss)
-### rudolf
+* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-npd-von-der-parteienfinanzierung-ausgeschlossen](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-npd-von-der-parteienfinanzierung-ausgeschlossen-a-c9bd69d4-c488-4291-a611-d988761ec367#ref=rss)
+### heimat
 
-* [https://www.spiegel.de/panorama/rudolf-dressler-ueber-israel-politik-wie-ihm-angela-merkel-die-formel-der-staatsraeson-klaute](https://www.spiegel.de/panorama/rudolf-dressler-ueber-israel-politik-wie-ihm-angela-merkel-die-formel-der-staatsraeson-klaute-a-e9bb3a79-5271-4b49-99d4-fd0d1eeceb1d#ref=rss)
-### dreßler
+* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-npd-von-der-parteienfinanzierung-ausgeschlossen](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-npd-von-der-parteienfinanzierung-ausgeschlossen-a-c9bd69d4-c488-4291-a611-d988761ec367#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/vietnam-neun-drogenschmuggler-zum-tode-verurteilt](https://www.spiegel.de/panorama/justiz/vietnam-neun-drogenschmuggler-zum-tode-verurteilt-a-30985caa-46fb-42cc-9912-5a72dcdc6f6a#ref=rss)
+### donald
 
-* [https://www.spiegel.de/panorama/rudolf-dressler-ueber-israel-politik-wie-ihm-angela-merkel-die-formel-der-staatsraeson-klaute](https://www.spiegel.de/panorama/rudolf-dressler-ueber-israel-politik-wie-ihm-angela-merkel-die-formel-der-staatsraeson-klaute-a-e9bb3a79-5271-4b49-99d4-fd0d1eeceb1d#ref=rss)
-### angela
+* [https://www.spiegel.de/ausland/donald-trump-nikki-haley-und-die-vorwahl-in-new-hampshire-stunde-der-wahrheit-fuer-die-anti-trumper](https://www.spiegel.de/ausland/donald-trump-nikki-haley-und-die-vorwahl-in-new-hampshire-stunde-der-wahrheit-fuer-die-anti-trumper-a-a70d76e9-7d9e-4caf-825a-6cee5df938b5#ref=rss)
+### trump
 
-* [https://www.spiegel.de/panorama/rudolf-dressler-ueber-israel-politik-wie-ihm-angela-merkel-die-formel-der-staatsraeson-klaute](https://www.spiegel.de/panorama/rudolf-dressler-ueber-israel-politik-wie-ihm-angela-merkel-die-formel-der-staatsraeson-klaute-a-e9bb3a79-5271-4b49-99d4-fd0d1eeceb1d#ref=rss)
-* [https://www.spiegel.de/politik/wolfgang-schaeuble-trauerstaatsakt-im-bundestag-livestream](https://www.spiegel.de/politik/wolfgang-schaeuble-trauerstaatsakt-im-bundestag-livestream-a-6460be54-d6da-49fa-aa1f-59b90346d0ee#ref=rss)
-### merkel
+* [https://www.spiegel.de/ausland/donald-trump-nikki-haley-und-die-vorwahl-in-new-hampshire-stunde-der-wahrheit-fuer-die-anti-trumper](https://www.spiegel.de/ausland/donald-trump-nikki-haley-und-die-vorwahl-in-new-hampshire-stunde-der-wahrheit-fuer-die-anti-trumper-a-a70d76e9-7d9e-4caf-825a-6cee5df938b5#ref=rss)
+### nikki
 
-* [https://www.spiegel.de/panorama/rudolf-dressler-ueber-israel-politik-wie-ihm-angela-merkel-die-formel-der-staatsraeson-klaute](https://www.spiegel.de/panorama/rudolf-dressler-ueber-israel-politik-wie-ihm-angela-merkel-die-formel-der-staatsraeson-klaute-a-e9bb3a79-5271-4b49-99d4-fd0d1eeceb1d#ref=rss)
-* [https://www.spiegel.de/politik/wolfgang-schaeuble-trauerstaatsakt-im-bundestag-livestream](https://www.spiegel.de/politik/wolfgang-schaeuble-trauerstaatsakt-im-bundestag-livestream-a-6460be54-d6da-49fa-aa1f-59b90346d0ee#ref=rss)
-### formel
+* [https://www.spiegel.de/ausland/donald-trump-nikki-haley-und-die-vorwahl-in-new-hampshire-stunde-der-wahrheit-fuer-die-anti-trumper](https://www.spiegel.de/ausland/donald-trump-nikki-haley-und-die-vorwahl-in-new-hampshire-stunde-der-wahrheit-fuer-die-anti-trumper-a-a70d76e9-7d9e-4caf-825a-6cee5df938b5#ref=rss)
+### haley
 
-* [https://www.spiegel.de/panorama/rudolf-dressler-ueber-israel-politik-wie-ihm-angela-merkel-die-formel-der-staatsraeson-klaute](https://www.spiegel.de/panorama/rudolf-dressler-ueber-israel-politik-wie-ihm-angela-merkel-die-formel-der-staatsraeson-klaute-a-e9bb3a79-5271-4b49-99d4-fd0d1eeceb1d#ref=rss)
-### staatsräson
+* [https://www.spiegel.de/ausland/donald-trump-nikki-haley-und-die-vorwahl-in-new-hampshire-stunde-der-wahrheit-fuer-die-anti-trumper](https://www.spiegel.de/ausland/donald-trump-nikki-haley-und-die-vorwahl-in-new-hampshire-stunde-der-wahrheit-fuer-die-anti-trumper-a-a70d76e9-7d9e-4caf-825a-6cee5df938b5#ref=rss)
+### aussehen
 
-* [https://www.spiegel.de/panorama/rudolf-dressler-ueber-israel-politik-wie-ihm-angela-merkel-die-formel-der-staatsraeson-klaute](https://www.spiegel.de/panorama/rudolf-dressler-ueber-israel-politik-wie-ihm-angela-merkel-die-formel-der-staatsraeson-klaute-a-e9bb3a79-5271-4b49-99d4-fd0d1eeceb1d#ref=rss)
-### erklärt
+* [https://www.spiegel.de/stil/old-money-style-sehnsucht-nach-oben](https://www.spiegel.de/stil/old-money-style-sehnsucht-nach-oben-a-88f6f6a8-0782-43b4-b140-7ed731d99eff#ref=rss)
+### pothmer
 
-* [https://www.spiegel.de/panorama/rudolf-dressler-ueber-israel-politik-wie-ihm-angela-merkel-die-formel-der-staatsraeson-klaute](https://www.spiegel.de/panorama/rudolf-dressler-ueber-israel-politik-wie-ihm-angela-merkel-die-formel-der-staatsraeson-klaute-a-e9bb3a79-5271-4b49-99d4-fd0d1eeceb1d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/korallenriffe-in-der-karibik-sterben-es-sieht-fuerchterlich-aus-alles-ist-weiss-weiss-weiss](https://www.spiegel.de/wissenschaft/natur/korallenriffe-in-der-karibik-sterben-es-sieht-fuerchterlich-aus-alles-ist-weiss-weiss-weiss-a-13f84bc6-39cd-45fe-a7d3-2f3f968d29c4#ref=rss)
-### hapaglloyd
+* [https://www.spiegel.de/politik/deutschland/bauernproteste-woher-kommt-der-frust-bauer-pothmer-faehrt-nach-berlin](https://www.spiegel.de/politik/deutschland/bauernproteste-woher-kommt-der-frust-bauer-pothmer-faehrt-nach-berlin-a-b3bc8837-c39b-4353-a50d-ef921999754b#ref=rss)
+### große
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/rotes-meer-hapag-lloyd-bietet-landtransit-durch-saudi-arabien-an](https://www.spiegel.de/wirtschaft/unternehmen/rotes-meer-hapag-lloyd-bietet-landtransit-durch-saudi-arabien-an-a-ec6461a5-9a6f-4c64-bcf5-56dcd9d90cfc#ref=rss)
-### sieht
+* [https://www.spiegel.de/politik/deutschland/bauernproteste-woher-kommt-der-frust-bauer-pothmer-faehrt-nach-berlin](https://www.spiegel.de/politik/deutschland/bauernproteste-woher-kommt-der-frust-bauer-pothmer-faehrt-nach-berlin-a-b3bc8837-c39b-4353-a50d-ef921999754b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/schifffahrt-investoren-haben-2023-weltweit-16-grosse-haefen-und-terminals-uebernommen](https://www.spiegel.de/wirtschaft/unternehmen/schifffahrt-investoren-haben-2023-weltweit-16-grosse-haefen-und-terminals-uebernommen-a-8cce5102-eec0-4673-a2a4-d0f0cd33f634#ref=rss)
+### besonders
 
-* [https://www.spiegel.de/wissenschaft/natur/korallenriffe-in-der-karibik-sterben-es-sieht-fuerchterlich-aus-alles-ist-weiss-weiss-weiss](https://www.spiegel.de/wissenschaft/natur/korallenriffe-in-der-karibik-sterben-es-sieht-fuerchterlich-aus-alles-ist-weiss-weiss-weiss-a-13f84bc6-39cd-45fe-a7d3-2f3f968d29c4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/alice-weidel-afd-chefin-sieht-referendum-ueber-eu-austritt-als-option-fuer-deutschland](https://www.spiegel.de/politik/deutschland/alice-weidel-afd-chefin-sieht-referendum-ueber-eu-austritt-als-option-fuer-deutschland-a-4f1bbf95-0d30-4c72-9540-306711efa114#ref=rss)
-### joe
+* [https://www.spiegel.de/politik/deutschland/bauernproteste-woher-kommt-der-frust-bauer-pothmer-faehrt-nach-berlin](https://www.spiegel.de/politik/deutschland/bauernproteste-woher-kommt-der-frust-bauer-pothmer-faehrt-nach-berlin-a-b3bc8837-c39b-4353-a50d-ef921999754b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/teure-lebensmittel-verbraucher-waehlen-tuc-bake-rolls-zur-mogelpackung-des-jahres](https://www.spiegel.de/wirtschaft/service/teure-lebensmittel-verbraucher-waehlen-tuc-bake-rolls-zur-mogelpackung-des-jahres-a-a1f012b3-4a79-4a32-acb1-d6cb9d5d1860#ref=rss)
+### verbraucher
 
-* [https://www.spiegel.de/kultur/joe-chialo-berlin-kippt-antidisikriminierungsklausel-fuer-kulturfoerderung](https://www.spiegel.de/kultur/joe-chialo-berlin-kippt-antidisikriminierungsklausel-fuer-kulturfoerderung-a-9a357c85-3f03-43d0-b465-9ba7050d1927#ref=rss)
-### chialo
+* [https://www.spiegel.de/wirtschaft/service/teure-lebensmittel-verbraucher-waehlen-tuc-bake-rolls-zur-mogelpackung-des-jahres](https://www.spiegel.de/wirtschaft/service/teure-lebensmittel-verbraucher-waehlen-tuc-bake-rolls-zur-mogelpackung-des-jahres-a-a1f012b3-4a79-4a32-acb1-d6cb9d5d1860#ref=rss)
+### marke
 
-* [https://www.spiegel.de/kultur/joe-chialo-berlin-kippt-antidisikriminierungsklausel-fuer-kulturfoerderung](https://www.spiegel.de/kultur/joe-chialo-berlin-kippt-antidisikriminierungsklausel-fuer-kulturfoerderung-a-9a357c85-3f03-43d0-b465-9ba7050d1927#ref=rss)
-### fotograf
+* [https://www.spiegel.de/wirtschaft/service/teure-lebensmittel-verbraucher-waehlen-tuc-bake-rolls-zur-mogelpackung-des-jahres](https://www.spiegel.de/wirtschaft/service/teure-lebensmittel-verbraucher-waehlen-tuc-bake-rolls-zur-mogelpackung-des-jahres-a-a1f012b3-4a79-4a32-acb1-d6cb9d5d1860#ref=rss)
+* [https://www.spiegel.de/sport/basketball/basketball-nba-superstar-joel-embiid-erzielt-70-punkte-in-einem-spiel](https://www.spiegel.de/sport/basketball/basketball-nba-superstar-joel-embiid-erzielt-70-punkte-in-einem-spiel-a-b434cb82-d242-4005-a93d-759941867f9e#ref=rss)
+### vergangenen
 
-* [https://www.spiegel.de/netzwelt/web/demos-gegen-rechtsextremismus-fotograf-boris-eldagsen-ueber-angeblich-manipulierte-bilder](https://www.spiegel.de/netzwelt/web/demos-gegen-rechtsextremismus-fotograf-boris-eldagsen-ueber-angeblich-manipulierte-bilder-a-395c2a91-5a6d-40a9-90c4-8a9a6bef0e65#ref=rss)
-### boris
+* [https://www.spiegel.de/politik/deutschland/demos-gegen-rechtsextremismus-hass-choere-schaden-dem-kampf-gegen-die-afd](https://www.spiegel.de/politik/deutschland/demos-gegen-rechtsextremismus-hass-choere-schaden-dem-kampf-gegen-die-afd-a-c9eed72a-04f8-4684-acbe-37ed8acb3b10#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/schifffahrt-investoren-haben-2023-weltweit-16-grosse-haefen-und-terminals-uebernommen](https://www.spiegel.de/wirtschaft/unternehmen/schifffahrt-investoren-haben-2023-weltweit-16-grosse-haefen-und-terminals-uebernommen-a-8cce5102-eec0-4673-a2a4-d0f0cd33f634#ref=rss)
+### sollte
 
-* [https://www.spiegel.de/netzwelt/web/demos-gegen-rechtsextremismus-fotograf-boris-eldagsen-ueber-angeblich-manipulierte-bilder](https://www.spiegel.de/netzwelt/web/demos-gegen-rechtsextremismus-fotograf-boris-eldagsen-ueber-angeblich-manipulierte-bilder-a-395c2a91-5a6d-40a9-90c4-8a9a6bef0e65#ref=rss)
-### eldagsen
+* [https://www.spiegel.de/politik/deutschland/demos-gegen-rechtsextremismus-hass-choere-schaden-dem-kampf-gegen-die-afd](https://www.spiegel.de/politik/deutschland/demos-gegen-rechtsextremismus-hass-choere-schaden-dem-kampf-gegen-die-afd-a-c9eed72a-04f8-4684-acbe-37ed8acb3b10#ref=rss)
+* [https://www.spiegel.de/ausland/usa-anrufe-von-fake-biden-sollen-waehler-in-new-hampshire-beeinflussen](https://www.spiegel.de/ausland/usa-anrufe-von-fake-biden-sollen-waehler-in-new-hampshire-beeinflussen-a-025da91c-2e77-475f-bbbe-1e434ce57fdd#ref=rss)
+### joel
 
-* [https://www.spiegel.de/netzwelt/web/demos-gegen-rechtsextremismus-fotograf-boris-eldagsen-ueber-angeblich-manipulierte-bilder](https://www.spiegel.de/netzwelt/web/demos-gegen-rechtsextremismus-fotograf-boris-eldagsen-ueber-angeblich-manipulierte-bilder-a-395c2a91-5a6d-40a9-90c4-8a9a6bef0e65#ref=rss)
-### bilder
+* [https://www.spiegel.de/sport/basketball/basketball-nba-superstar-joel-embiid-erzielt-70-punkte-in-einem-spiel](https://www.spiegel.de/sport/basketball/basketball-nba-superstar-joel-embiid-erzielt-70-punkte-in-einem-spiel-a-b434cb82-d242-4005-a93d-759941867f9e#ref=rss)
+### embiid
 
-* [https://www.spiegel.de/netzwelt/web/demos-gegen-rechtsextremismus-fotograf-boris-eldagsen-ueber-angeblich-manipulierte-bilder](https://www.spiegel.de/netzwelt/web/demos-gegen-rechtsextremismus-fotograf-boris-eldagsen-ueber-angeblich-manipulierte-bilder-a-395c2a91-5a6d-40a9-90c4-8a9a6bef0e65#ref=rss)
-### sagt
+* [https://www.spiegel.de/sport/basketball/basketball-nba-superstar-joel-embiid-erzielt-70-punkte-in-einem-spiel](https://www.spiegel.de/sport/basketball/basketball-nba-superstar-joel-embiid-erzielt-70-punkte-in-einem-spiel-a-b434cb82-d242-4005-a93d-759941867f9e#ref=rss)
+### 70
 
-* [https://www.spiegel.de/netzwelt/web/demos-gegen-rechtsextremismus-fotograf-boris-eldagsen-ueber-angeblich-manipulierte-bilder](https://www.spiegel.de/netzwelt/web/demos-gegen-rechtsextremismus-fotograf-boris-eldagsen-ueber-angeblich-manipulierte-bilder-a-395c2a91-5a6d-40a9-90c4-8a9a6bef0e65#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutschland-israel-israelis-duerfen-vorerst-bis-ende-april-ohne-visum-in-deutschland-bleiben](https://www.spiegel.de/politik/deutschland/deutschland-israel-israelis-duerfen-vorerst-bis-ende-april-ohne-visum-in-deutschland-bleiben-a-deb754be-6871-4d46-8968-754a354dee19#ref=rss)
-### scheitert
+* [https://www.spiegel.de/sport/basketball/basketball-nba-superstar-joel-embiid-erzielt-70-punkte-in-einem-spiel](https://www.spiegel.de/sport/basketball/basketball-nba-superstar-joel-embiid-erzielt-70-punkte-in-einem-spiel-a-b434cb82-d242-4005-a93d-759941867f9e#ref=rss)
+### terminals
 
-* [https://www.spiegel.de/netzwelt/web/demos-gegen-rechtsextremismus-fotograf-boris-eldagsen-ueber-angeblich-manipulierte-bilder](https://www.spiegel.de/netzwelt/web/demos-gegen-rechtsextremismus-fotograf-boris-eldagsen-ueber-angeblich-manipulierte-bilder-a-395c2a91-5a6d-40a9-90c4-8a9a6bef0e65#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/alice-weidel-afd-chefin-sieht-referendum-ueber-eu-austritt-als-option-fuer-deutschland](https://www.spiegel.de/politik/deutschland/alice-weidel-afd-chefin-sieht-referendum-ueber-eu-austritt-als-option-fuer-deutschland-a-4f1bbf95-0d30-4c72-9540-306711efa114#ref=rss)
-### nordirland
+* [https://www.spiegel.de/wirtschaft/unternehmen/schifffahrt-investoren-haben-2023-weltweit-16-grosse-haefen-und-terminals-uebernommen](https://www.spiegel.de/wirtschaft/unternehmen/schifffahrt-investoren-haben-2023-weltweit-16-grosse-haefen-und-terminals-uebernommen-a-8cce5102-eec0-4673-a2a4-d0f0cd33f634#ref=rss)
+### einige
 
-* [https://www.spiegel.de/panorama/nordirland-drei-baeume-in-game-of-thrones-allee-bei-sturm-umgestuerzt](https://www.spiegel.de/panorama/nordirland-drei-baeume-in-game-of-thrones-allee-bei-sturm-umgestuerzt-a-d25c898b-caaf-4d73-933d-9bcf190896b9#ref=rss)
-### game
+* [https://www.spiegel.de/wirtschaft/unternehmen/schifffahrt-investoren-haben-2023-weltweit-16-grosse-haefen-und-terminals-uebernommen](https://www.spiegel.de/wirtschaft/unternehmen/schifffahrt-investoren-haben-2023-weltweit-16-grosse-haefen-und-terminals-uebernommen-a-8cce5102-eec0-4673-a2a4-d0f0cd33f634#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-mehrere-tote-durch-russische-raketenangriffe-auf-kiew-und-charkiw](https://www.spiegel.de/ausland/ukraine-mehrere-tote-durch-russische-raketenangriffe-auf-kiew-und-charkiw-a-c0937e61-beac-460b-a3e6-1af9bf714ce3#ref=rss)
+### mehrere
 
-* [https://www.spiegel.de/panorama/nordirland-drei-baeume-in-game-of-thrones-allee-bei-sturm-umgestuerzt](https://www.spiegel.de/panorama/nordirland-drei-baeume-in-game-of-thrones-allee-bei-sturm-umgestuerzt-a-d25c898b-caaf-4d73-933d-9bcf190896b9#ref=rss)
-### of
+* [https://www.spiegel.de/ausland/ukraine-mehrere-tote-durch-russische-raketenangriffe-auf-kiew-und-charkiw](https://www.spiegel.de/ausland/ukraine-mehrere-tote-durch-russische-raketenangriffe-auf-kiew-und-charkiw-a-c0937e61-beac-460b-a3e6-1af9bf714ce3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/parkinson-vereinigung-fuenf-personen-im-mutmasslichen-millionenbetrug-der-untreue-verdaechtigt](https://www.spiegel.de/wirtschaft/parkinson-vereinigung-fuenf-personen-im-mutmasslichen-millionenbetrug-der-untreue-verdaechtigt-a-5c147e9f-1906-41e2-96b4-e3d7d2e635c7#ref=rss)
+### charkiw
 
-* [https://www.spiegel.de/panorama/nordirland-drei-baeume-in-game-of-thrones-allee-bei-sturm-umgestuerzt](https://www.spiegel.de/panorama/nordirland-drei-baeume-in-game-of-thrones-allee-bei-sturm-umgestuerzt-a-d25c898b-caaf-4d73-933d-9bcf190896b9#ref=rss)
-### alice
+* [https://www.spiegel.de/ausland/ukraine-mehrere-tote-durch-russische-raketenangriffe-auf-kiew-und-charkiw](https://www.spiegel.de/ausland/ukraine-mehrere-tote-durch-russische-raketenangriffe-auf-kiew-und-charkiw-a-c0937e61-beac-460b-a3e6-1af9bf714ce3#ref=rss)
+### chemnitz
 
-* [https://www.spiegel.de/politik/deutschland/alice-weidel-afd-chefin-sieht-referendum-ueber-eu-austritt-als-option-fuer-deutschland](https://www.spiegel.de/politik/deutschland/alice-weidel-afd-chefin-sieht-referendum-ueber-eu-austritt-als-option-fuer-deutschland-a-4f1bbf95-0d30-4c72-9540-306711efa114#ref=rss)
-### weidel
+* [https://www.spiegel.de/start/studieren-in-chemnitz-campus-wohnviertel-wg-zimmer-preise-und-kneipen](https://www.spiegel.de/start/studieren-in-chemnitz-campus-wohnviertel-wg-zimmer-preise-und-kneipen-a-cdc76412-81a9-45ff-995f-65f4396cbfe4#ref=rss)
+### vietnam
 
-* [https://www.spiegel.de/politik/deutschland/alice-weidel-afd-chefin-sieht-referendum-ueber-eu-austritt-als-option-fuer-deutschland](https://www.spiegel.de/politik/deutschland/alice-weidel-afd-chefin-sieht-referendum-ueber-eu-austritt-als-option-fuer-deutschland-a-4f1bbf95-0d30-4c72-9540-306711efa114#ref=rss)
-### afdchefin
+* [https://www.spiegel.de/panorama/justiz/vietnam-neun-drogenschmuggler-zum-tode-verurteilt](https://www.spiegel.de/panorama/justiz/vietnam-neun-drogenschmuggler-zum-tode-verurteilt-a-30985caa-46fb-42cc-9912-5a72dcdc6f6a#ref=rss)
+### neun
 
-* [https://www.spiegel.de/politik/deutschland/alice-weidel-afd-chefin-sieht-referendum-ueber-eu-austritt-als-option-fuer-deutschland](https://www.spiegel.de/politik/deutschland/alice-weidel-afd-chefin-sieht-referendum-ueber-eu-austritt-als-option-fuer-deutschland-a-4f1bbf95-0d30-4c72-9540-306711efa114#ref=rss)
-### referendum
+* [https://www.spiegel.de/panorama/justiz/vietnam-neun-drogenschmuggler-zum-tode-verurteilt](https://www.spiegel.de/panorama/justiz/vietnam-neun-drogenschmuggler-zum-tode-verurteilt-a-30985caa-46fb-42cc-9912-5a72dcdc6f6a#ref=rss)
+### wähler
 
-* [https://www.spiegel.de/politik/deutschland/alice-weidel-afd-chefin-sieht-referendum-ueber-eu-austritt-als-option-fuer-deutschland](https://www.spiegel.de/politik/deutschland/alice-weidel-afd-chefin-sieht-referendum-ueber-eu-austritt-als-option-fuer-deutschland-a-4f1bbf95-0d30-4c72-9540-306711efa114#ref=rss)
-### frankfurt
+* [https://www.spiegel.de/ausland/usa-anrufe-von-fake-biden-sollen-waehler-in-new-hampshire-beeinflussen](https://www.spiegel.de/ausland/usa-anrufe-von-fake-biden-sollen-waehler-in-new-hampshire-beeinflussen-a-025da91c-2e77-475f-bbbe-1e434ce57fdd#ref=rss)
+### parkinson
 
-* [https://www.spiegel.de/panorama/bildung/metoo-an-der-universitaet-frankfurt-ich-begehre-dich-ich-foerdere-dich](https://www.spiegel.de/panorama/bildung/metoo-an-der-universitaet-frankfurt-ich-begehre-dich-ich-foerdere-dich-a-55853f6b-409a-4075-8f73-43f9fb0f37e6#ref=rss)
-### ich
+* [https://www.spiegel.de/wirtschaft/parkinson-vereinigung-fuenf-personen-im-mutmasslichen-millionenbetrug-der-untreue-verdaechtigt](https://www.spiegel.de/wirtschaft/parkinson-vereinigung-fuenf-personen-im-mutmasslichen-millionenbetrug-der-untreue-verdaechtigt-a-5c147e9f-1906-41e2-96b4-e3d7d2e635c7#ref=rss)
+### vereinigung
 
-* [https://www.spiegel.de/panorama/bildung/metoo-an-der-universitaet-frankfurt-ich-begehre-dich-ich-foerdere-dich](https://www.spiegel.de/panorama/bildung/metoo-an-der-universitaet-frankfurt-ich-begehre-dich-ich-foerdere-dich-a-55853f6b-409a-4075-8f73-43f9fb0f37e6#ref=rss)
-### dich
+* [https://www.spiegel.de/wirtschaft/parkinson-vereinigung-fuenf-personen-im-mutmasslichen-millionenbetrug-der-untreue-verdaechtigt](https://www.spiegel.de/wirtschaft/parkinson-vereinigung-fuenf-personen-im-mutmasslichen-millionenbetrug-der-untreue-verdaechtigt-a-5c147e9f-1906-41e2-96b4-e3d7d2e635c7#ref=rss)
+### personen
 
-* [https://www.spiegel.de/panorama/bildung/metoo-an-der-universitaet-frankfurt-ich-begehre-dich-ich-foerdere-dich](https://www.spiegel.de/panorama/bildung/metoo-an-der-universitaet-frankfurt-ich-begehre-dich-ich-foerdere-dich-a-55853f6b-409a-4075-8f73-43f9fb0f37e6#ref=rss)
-### ende
+* [https://www.spiegel.de/wirtschaft/parkinson-vereinigung-fuenf-personen-im-mutmasslichen-millionenbetrug-der-untreue-verdaechtigt](https://www.spiegel.de/wirtschaft/parkinson-vereinigung-fuenf-personen-im-mutmasslichen-millionenbetrug-der-untreue-verdaechtigt-a-5c147e9f-1906-41e2-96b4-e3d7d2e635c7#ref=rss)
+### untreue
 
-* [https://www.spiegel.de/politik/deutschland/deutschland-israel-israelis-duerfen-vorerst-bis-ende-april-ohne-visum-in-deutschland-bleiben](https://www.spiegel.de/politik/deutschland/deutschland-israel-israelis-duerfen-vorerst-bis-ende-april-ohne-visum-in-deutschland-bleiben-a-deb754be-6871-4d46-8968-754a354dee19#ref=rss)
-* [https://www.spiegel.de/ausland/indien-narendra-modi-weiht-rama-tempel-ein-das-ende-des-indischen-saekularismus](https://www.spiegel.de/ausland/indien-narendra-modi-weiht-rama-tempel-ein-das-ende-des-indischen-saekularismus-a-0d978c38-0e1c-4d2f-b9e5-81a7dfee9742#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/politik/deutschland/deutschland-israel-israelis-duerfen-vorerst-bis-ende-april-ohne-visum-in-deutschland-bleiben](https://www.spiegel.de/politik/deutschland/deutschland-israel-israelis-duerfen-vorerst-bis-ende-april-ohne-visum-in-deutschland-bleiben-a-deb754be-6871-4d46-8968-754a354dee19#ref=rss)
-### bleiben
-
-* [https://www.spiegel.de/politik/deutschland/deutschland-israel-israelis-duerfen-vorerst-bis-ende-april-ohne-visum-in-deutschland-bleiben](https://www.spiegel.de/politik/deutschland/deutschland-israel-israelis-duerfen-vorerst-bis-ende-april-ohne-visum-in-deutschland-bleiben-a-deb754be-6871-4d46-8968-754a354dee19#ref=rss)
-### usa
-
-* [https://www.spiegel.de/panorama/justiz/todesstrafe-in-den-usa-erstmals-mit-stickstoff-anwaelte-wenden-sich-an-supreme-court](https://www.spiegel.de/panorama/justiz/todesstrafe-in-den-usa-erstmals-mit-stickstoff-anwaelte-wenden-sich-an-supreme-court-a-deba1a46-3512-46bf-bcec-7c012ea472e2#ref=rss)
-### stickstoff
-
-* [https://www.spiegel.de/panorama/justiz/todesstrafe-in-den-usa-erstmals-mit-stickstoff-anwaelte-wenden-sich-an-supreme-court](https://www.spiegel.de/panorama/justiz/todesstrafe-in-den-usa-erstmals-mit-stickstoff-anwaelte-wenden-sich-an-supreme-court-a-deba1a46-3512-46bf-bcec-7c012ea472e2#ref=rss)
-### anwälte
-
-* [https://www.spiegel.de/panorama/justiz/todesstrafe-in-den-usa-erstmals-mit-stickstoff-anwaelte-wenden-sich-an-supreme-court](https://www.spiegel.de/panorama/justiz/todesstrafe-in-den-usa-erstmals-mit-stickstoff-anwaelte-wenden-sich-an-supreme-court-a-deba1a46-3512-46bf-bcec-7c012ea472e2#ref=rss)
-### ron
-
-* [https://www.spiegel.de/ausland/republikaner-nach-ron-desantis-rueckzieher-jetzt-ist-es-ein-kampf-zwischen-zwei-personen](https://www.spiegel.de/ausland/republikaner-nach-ron-desantis-rueckzieher-jetzt-ist-es-ein-kampf-zwischen-zwei-personen-a-bd428296-1e5a-448c-acd6-d2bdf8f2bf89#ref=rss)
-### indien
-
-* [https://www.spiegel.de/ausland/indien-narendra-modi-weiht-rama-tempel-ein-das-ende-des-indischen-saekularismus](https://www.spiegel.de/ausland/indien-narendra-modi-weiht-rama-tempel-ein-das-ende-des-indischen-saekularismus-a-0d978c38-0e1c-4d2f-b9e5-81a7dfee9742#ref=rss)
-### modi
-
-* [https://www.spiegel.de/ausland/indien-narendra-modi-weiht-rama-tempel-ein-das-ende-des-indischen-saekularismus](https://www.spiegel.de/ausland/indien-narendra-modi-weiht-rama-tempel-ein-das-ende-des-indischen-saekularismus-a-0d978c38-0e1c-4d2f-b9e5-81a7dfee9742#ref=rss)
-### ramatempel
-
-* [https://www.spiegel.de/ausland/indien-narendra-modi-weiht-rama-tempel-ein-das-ende-des-indischen-saekularismus](https://www.spiegel.de/ausland/indien-narendra-modi-weiht-rama-tempel-ein-das-ende-des-indischen-saekularismus-a-0d978c38-0e1c-4d2f-b9e5-81a7dfee9742#ref=rss)
-### indischen
-
-* [https://www.spiegel.de/ausland/indien-narendra-modi-weiht-rama-tempel-ein-das-ende-des-indischen-saekularismus](https://www.spiegel.de/ausland/indien-narendra-modi-weiht-rama-tempel-ein-das-ende-des-indischen-saekularismus-a-0d978c38-0e1c-4d2f-b9e5-81a7dfee9742#ref=rss)
+* [https://www.spiegel.de/wirtschaft/parkinson-vereinigung-fuenf-personen-im-mutmasslichen-millionenbetrug-der-untreue-verdaechtigt](https://www.spiegel.de/wirtschaft/parkinson-vereinigung-fuenf-personen-im-mutmasslichen-millionenbetrug-der-untreue-verdaechtigt-a-5c147e9f-1906-41e2-96b4-e3d7d2e635c7#ref=rss)
 
