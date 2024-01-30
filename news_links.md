@@ -4,377 +4,296 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### frauen
-
-* [https://www.spiegel.de/politik/deutschland/eu-richtlinie-zu-gewalt-gegen-frauen-mehr-als-100-prominente-frauen-schreiben-offenen-brief-an-justizminister-buschmann](https://www.spiegel.de/politik/deutschland/eu-richtlinie-zu-gewalt-gegen-frauen-mehr-als-100-prominente-frauen-schreiben-offenen-brief-an-justizminister-buschmann-a-3f4fde37-26db-44b8-a257-58911e17cc6c#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-wer-sind-die-frauen-die-fuer-den-krieg-trainieren](https://www.spiegel.de/ausland/ukraine-wer-sind-die-frauen-die-fuer-den-krieg-trainieren-a-ce3d71d3-efe5-48bb-be71-f1e5e7f10953#ref=rss)
-* [https://www.spiegel.de/familie/familienrecht-abstammungsrecht-gleichgeschlechtliche-paare-lotte-lou-und-der-luette](https://www.spiegel.de/familie/familienrecht-abstammungsrecht-gleichgeschlechtliche-paare-lotte-lou-und-der-luette-a-03e400b9-5f92-4701-a6f5-9be1e78ee634#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-bundespraesident-mahnt-zu-buendnis-gegen-extremismus-afd-uebt-kritik](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-bundespraesident-mahnt-zu-buendnis-gegen-extremismus-afd-uebt-kritik-a-5ef40ea6-4393-4738-bbe2-dafe06aedef3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-schmaeht-massenproteste-gegen-rechtsextremismus-als-das-letzte-aufgebot](https://www.spiegel.de/politik/deutschland/afd-schmaeht-massenproteste-gegen-rechtsextremismus-als-das-letzte-aufgebot-a-f686dce2-dbed-4930-88bf-03f60f5efb02#ref=rss)
-### kadewe
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/thailaendischer-miteigentuemer-will-kadewe-komplett-uebernehmen](https://www.spiegel.de/wirtschaft/unternehmen/thailaendischer-miteigentuemer-will-kadewe-komplett-uebernehmen-a-36174dd7-3806-45bc-a2a7-8c489dff0256#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/kadewe-gruppe-meldet-insolvenz-an-betrieb-von-kadewe-oberpollinger-alsterhaus-soll-weitergehen](https://www.spiegel.de/wirtschaft/unternehmen/kadewe-gruppe-meldet-insolvenz-an-betrieb-von-kadewe-oberpollinger-alsterhaus-soll-weitergehen-a-1566934d-1db0-471a-841d-9a0696f13e4b#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/eu-richtlinie-zu-gewalt-gegen-frauen-mehr-als-100-prominente-frauen-schreiben-offenen-brief-an-justizminister-buschmann](https://www.spiegel.de/politik/deutschland/eu-richtlinie-zu-gewalt-gegen-frauen-mehr-als-100-prominente-frauen-schreiben-offenen-brief-an-justizminister-buschmann-a-3f4fde37-26db-44b8-a257-58911e17cc6c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/europawahl-moeglicher-ableger-der-erdogan-partei-in-deutschland-stoesst-auf-kritik](https://www.spiegel.de/politik/deutschland/europawahl-moeglicher-ableger-der-erdogan-partei-in-deutschland-stoesst-auf-kritik-a-496bcae5-4f12-4fce-80f2-cc239fd285ab#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-schmaeht-massenproteste-gegen-rechtsextremismus-als-das-letzte-aufgebot](https://www.spiegel.de/politik/deutschland/afd-schmaeht-massenproteste-gegen-rechtsextremismus-als-das-letzte-aufgebot-a-f686dce2-dbed-4930-88bf-03f60f5efb02#ref=rss)
-### freitag
-
-* [https://www.spiegel.de/wirtschaft/ver-di-oepnv-wo-die-bahner-am-freitag-streiken-werden](https://www.spiegel.de/wirtschaft/ver-di-oepnv-wo-die-bahner-am-freitag-streiken-werden-a-a5ea430d-0608-4f3e-8a5c-b952f4ceb9a4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ver-di-ruft-in-fast-allen-bundeslaendern-zu-warnstreiks-im-oepnv-am-freitag-auf](https://www.spiegel.de/wirtschaft/ver-di-ruft-in-fast-allen-bundeslaendern-zu-warnstreiks-im-oepnv-am-freitag-auf-a-423bc537-12c4-4a50-9c79-9548f2058d8f#ref=rss)
-### taylor
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-demos-gegen-rechts-ukrainische-soldatinnen-taylor-swift](https://www.spiegel.de/politik/deutschland/news-des-tages-demos-gegen-rechts-ukrainische-soldatinnen-taylor-swift-a-786f2d31-e2c0-4cf2-a98e-0cd33c0bd104#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/deepfake-pornos-von-taylor-swift-x-hat-sich-aufgegeben](https://www.spiegel.de/netzwelt/web/deepfake-pornos-von-taylor-swift-x-hat-sich-aufgegeben-a-cf5ab27c-65c3-45cb-9790-6a75f23e276b#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/wirtschaft/delivery-hero-will-deliveroo-aktienpaket-verkaufen](https://www.spiegel.de/wirtschaft/delivery-hero-will-deliveroo-aktienpaket-verkaufen-a-54e5b43d-1340-4925-84d8-4345beeb1119#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/eiskunstlauf-russin-kamila-walijewa-wegen-doping-nachtraeglich-fuer-vier-jahre-gesperrt](https://www.spiegel.de/sport/wintersport/eiskunstlauf-russin-kamila-walijewa-wegen-doping-nachtraeglich-fuer-vier-jahre-gesperrt-a-37c4ad11-6d9e-447b-b458-54ba6cccff52#ref=rss)
-* [https://www.spiegel.de/wirtschaft/evergrande-was-die-abwicklung-des-immobilienkonzerns-fuer-china-und-die-welt-bedeutet](https://www.spiegel.de/wirtschaft/evergrande-was-die-abwicklung-des-immobilienkonzerns-fuer-china-und-die-welt-bedeutet-a-f61fbfca-7e0f-408d-a46b-eae9b29c30bd#ref=rss)
-### rechtsextremismus
-
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-bundespraesident-mahnt-zu-buendnis-gegen-extremismus-afd-uebt-kritik](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-bundespraesident-mahnt-zu-buendnis-gegen-extremismus-afd-uebt-kritik-a-5ef40ea6-4393-4738-bbe2-dafe06aedef3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-schmaeht-massenproteste-gegen-rechtsextremismus-als-das-letzte-aufgebot](https://www.spiegel.de/politik/deutschland/afd-schmaeht-massenproteste-gegen-rechtsextremismus-als-das-letzte-aufgebot-a-f686dce2-dbed-4930-88bf-03f60f5efb02#ref=rss)
-### krieg
-
-* [https://www.spiegel.de/ausland/krieg-in-gaza-die-fuenf-grossen-probleme-zwischen-joe-biden-und-benjamin-netanyahu](https://www.spiegel.de/ausland/krieg-in-gaza-die-fuenf-grossen-probleme-zwischen-joe-biden-und-benjamin-netanyahu-a-12b92f19-ea8a-4325-8ba8-8c18eba7895d#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-wer-sind-die-frauen-die-fuer-den-krieg-trainieren](https://www.spiegel.de/ausland/ukraine-wer-sind-die-frauen-die-fuer-den-krieg-trainieren-a-ce3d71d3-efe5-48bb-be71-f1e5e7f10953#ref=rss)
-### austin
-
-* [https://www.spiegel.de/ausland/lloyd-austin-us-verteidigungsminister-kehrt-nach-klinikaufenthalt-ins-pentagon-zurueck](https://www.spiegel.de/ausland/lloyd-austin-us-verteidigungsminister-kehrt-nach-klinikaufenthalt-ins-pentagon-zurueck-a-e24ad625-3dfd-4fe9-8c5e-c945dad42250#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/ausland/lloyd-austin-us-verteidigungsminister-kehrt-nach-klinikaufenthalt-ins-pentagon-zurueck](https://www.spiegel.de/ausland/lloyd-austin-us-verteidigungsminister-kehrt-nach-klinikaufenthalt-ins-pentagon-zurueck-a-e24ad625-3dfd-4fe9-8c5e-c945dad42250#ref=rss)
-* [https://www.spiegel.de/wirtschaft/benko-pleite-glaeubiger-fordern-8-6-milliarden-euro-von-insolventer-signa-holding](https://www.spiegel.de/wirtschaft/benko-pleite-glaeubiger-fordern-8-6-milliarden-euro-von-insolventer-signa-holding-a-07d906ea-11bb-4b28-b1da-cd59736badb0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/andreas-scheuer-csu-verzichtet-auf-weitere-kandidatur-fuer-den-bundestag](https://www.spiegel.de/politik/deutschland/andreas-scheuer-csu-verzichtet-auf-weitere-kandidatur-fuer-den-bundestag-a-4ce7adf9-376a-4f87-99cb-5ba60150e9f5#ref=rss)
-### gewalt
-
-* [https://www.spiegel.de/politik/deutschland/eu-richtlinie-zu-gewalt-gegen-frauen-mehr-als-100-prominente-frauen-schreiben-offenen-brief-an-justizminister-buschmann](https://www.spiegel.de/politik/deutschland/eu-richtlinie-zu-gewalt-gegen-frauen-mehr-als-100-prominente-frauen-schreiben-offenen-brief-an-justizminister-buschmann-a-3f4fde37-26db-44b8-a257-58911e17cc6c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ungarn-deutscher-wegen-gewalt-gegen-rechtsextremisten-verurteilt](https://www.spiegel.de/panorama/justiz/ungarn-deutscher-wegen-gewalt-gegen-rechtsextremisten-verurteilt-a-cd8c6341-47c4-4e13-9610-d260554ab802#ref=rss)
-### offenen
-
-* [https://www.spiegel.de/politik/deutschland/eu-richtlinie-zu-gewalt-gegen-frauen-mehr-als-100-prominente-frauen-schreiben-offenen-brief-an-justizminister-buschmann](https://www.spiegel.de/politik/deutschland/eu-richtlinie-zu-gewalt-gegen-frauen-mehr-als-100-prominente-frauen-schreiben-offenen-brief-an-justizminister-buschmann-a-3f4fde37-26db-44b8-a257-58911e17cc6c#ref=rss)
-* [https://www.spiegel.de/kultur/musik/esc-2024-in-malmoe-1005-schwedische-musikacts-fordern-israel-ausschluss](https://www.spiegel.de/kultur/musik/esc-2024-in-malmoe-1005-schwedische-musikacts-fordern-israel-ausschluss-a-fff11cb7-9118-40bc-a2b4-715e485d9893#ref=rss)
-### brief
-
-* [https://www.spiegel.de/politik/deutschland/eu-richtlinie-zu-gewalt-gegen-frauen-mehr-als-100-prominente-frauen-schreiben-offenen-brief-an-justizminister-buschmann](https://www.spiegel.de/politik/deutschland/eu-richtlinie-zu-gewalt-gegen-frauen-mehr-als-100-prominente-frauen-schreiben-offenen-brief-an-justizminister-buschmann-a-3f4fde37-26db-44b8-a257-58911e17cc6c#ref=rss)
-* [https://www.spiegel.de/kultur/musik/esc-2024-in-malmoe-1005-schwedische-musikacts-fordern-israel-ausschluss](https://www.spiegel.de/kultur/musik/esc-2024-in-malmoe-1005-schwedische-musikacts-fordern-israel-ausschluss-a-fff11cb7-9118-40bc-a2b4-715e485d9893#ref=rss)
-### verdi
-
-* [https://www.spiegel.de/wirtschaft/ver-di-oepnv-wo-die-bahner-am-freitag-streiken-werden](https://www.spiegel.de/wirtschaft/ver-di-oepnv-wo-die-bahner-am-freitag-streiken-werden-a-a5ea430d-0608-4f3e-8a5c-b952f4ceb9a4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ver-di-ruft-in-fast-allen-bundeslaendern-zu-warnstreiks-im-oepnv-am-freitag-auf](https://www.spiegel.de/wirtschaft/ver-di-ruft-in-fast-allen-bundeslaendern-zu-warnstreiks-im-oepnv-am-freitag-auf-a-423bc537-12c4-4a50-9c79-9548f2058d8f#ref=rss)
-### swift
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-demos-gegen-rechts-ukrainische-soldatinnen-taylor-swift](https://www.spiegel.de/politik/deutschland/news-des-tages-demos-gegen-rechts-ukrainische-soldatinnen-taylor-swift-a-786f2d31-e2c0-4cf2-a98e-0cd33c0bd104#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/deepfake-pornos-von-taylor-swift-x-hat-sich-aufgegeben](https://www.spiegel.de/netzwelt/web/deepfake-pornos-von-taylor-swift-x-hat-sich-aufgegeben-a-cf5ab27c-65c3-45cb-9790-6a75f23e276b#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/panorama/justiz/titelmissbrauch-urteil-gegen-frueheren-frankfurter-awo-chef-richter-ist-rechtskraeftig](https://www.spiegel.de/panorama/justiz/titelmissbrauch-urteil-gegen-frueheren-frankfurter-awo-chef-richter-ist-rechtskraeftig-a-975c8723-4ad6-4b12-98be-046775c18f5a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ungarn-deutscher-wegen-gewalt-gegen-rechtsextremisten-verurteilt](https://www.spiegel.de/panorama/justiz/ungarn-deutscher-wegen-gewalt-gegen-rechtsextremisten-verurteilt-a-cd8c6341-47c4-4e13-9610-d260554ab802#ref=rss)
-### insolvenz
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/kadewe-gruppe-meldet-insolvenz-an-betrieb-von-kadewe-oberpollinger-alsterhaus-soll-weitergehen](https://www.spiegel.de/wirtschaft/unternehmen/kadewe-gruppe-meldet-insolvenz-an-betrieb-von-kadewe-oberpollinger-alsterhaus-soll-weitergehen-a-1566934d-1db0-471a-841d-9a0696f13e4b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/benko-pleite-glaeubiger-fordern-8-6-milliarden-euro-von-insolventer-signa-holding](https://www.spiegel.de/wirtschaft/benko-pleite-glaeubiger-fordern-8-6-milliarden-euro-von-insolventer-signa-holding-a-07d906ea-11bb-4b28-b1da-cd59736badb0#ref=rss)
-### wir
-
-* [https://www.spiegel.de/familie/familienrecht-abstammungsrecht-gleichgeschlechtliche-paare-lotte-lou-und-der-luette](https://www.spiegel.de/familie/familienrecht-abstammungsrecht-gleichgeschlechtliche-paare-lotte-lou-und-der-luette-a-03e400b9-5f92-4701-a6f5-9be1e78ee634#ref=rss)
-### delivery
-
-* [https://www.spiegel.de/wirtschaft/delivery-hero-will-deliveroo-aktienpaket-verkaufen](https://www.spiegel.de/wirtschaft/delivery-hero-will-deliveroo-aktienpaket-verkaufen-a-54e5b43d-1340-4925-84d8-4345beeb1119#ref=rss)
-### hero
-
-* [https://www.spiegel.de/wirtschaft/delivery-hero-will-deliveroo-aktienpaket-verkaufen](https://www.spiegel.de/wirtschaft/delivery-hero-will-deliveroo-aktienpaket-verkaufen-a-54e5b43d-1340-4925-84d8-4345beeb1119#ref=rss)
-### verkaufen
-
-* [https://www.spiegel.de/wirtschaft/delivery-hero-will-deliveroo-aktienpaket-verkaufen](https://www.spiegel.de/wirtschaft/delivery-hero-will-deliveroo-aktienpaket-verkaufen-a-54e5b43d-1340-4925-84d8-4345beeb1119#ref=rss)
-### berliner
-
-* [https://www.spiegel.de/wirtschaft/delivery-hero-will-deliveroo-aktienpaket-verkaufen](https://www.spiegel.de/wirtschaft/delivery-hero-will-deliveroo-aktienpaket-verkaufen-a-54e5b43d-1340-4925-84d8-4345beeb1119#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/thailaendischer-miteigentuemer-will-kadewe-komplett-uebernehmen](https://www.spiegel.de/wirtschaft/unternehmen/thailaendischer-miteigentuemer-will-kadewe-komplett-uebernehmen-a-36174dd7-3806-45bc-a2a7-8c489dff0256#ref=rss)
-### britischen
-
-* [https://www.spiegel.de/wirtschaft/delivery-hero-will-deliveroo-aktienpaket-verkaufen](https://www.spiegel.de/wirtschaft/delivery-hero-will-deliveroo-aktienpaket-verkaufen-a-54e5b43d-1340-4925-84d8-4345beeb1119#ref=rss)
-* [https://www.spiegel.de/panorama/koenig-charles-iii-nach-prostata-op-aus-klinik-in-london-entlassen](https://www.spiegel.de/panorama/koenig-charles-iii-nach-prostata-op-aus-klinik-in-london-entlassen-a-2003d995-dc68-4494-aea0-bd11399c651e#ref=rss)
-### bleiben
-
-* [https://www.spiegel.de/wirtschaft/delivery-hero-will-deliveroo-aktienpaket-verkaufen](https://www.spiegel.de/wirtschaft/delivery-hero-will-deliveroo-aktienpaket-verkaufen-a-54e5b43d-1340-4925-84d8-4345beeb1119#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ver-di-oepnv-wo-die-bahner-am-freitag-streiken-werden](https://www.spiegel.de/wirtschaft/ver-di-oepnv-wo-die-bahner-am-freitag-streiken-werden-a-a5ea430d-0608-4f3e-8a5c-b952f4ceb9a4#ref=rss)
-### bundespräsident
-
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-bundespraesident-mahnt-zu-buendnis-gegen-extremismus-afd-uebt-kritik](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-bundespraesident-mahnt-zu-buendnis-gegen-extremismus-afd-uebt-kritik-a-5ef40ea6-4393-4738-bbe2-dafe06aedef3#ref=rss)
-### bündnis
-
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-bundespraesident-mahnt-zu-buendnis-gegen-extremismus-afd-uebt-kritik](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-bundespraesident-mahnt-zu-buendnis-gegen-extremismus-afd-uebt-kritik-a-5ef40ea6-4393-4738-bbe2-dafe06aedef3#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-bundespraesident-mahnt-zu-buendnis-gegen-extremismus-afd-uebt-kritik](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-bundespraesident-mahnt-zu-buendnis-gegen-extremismus-afd-uebt-kritik-a-5ef40ea6-4393-4738-bbe2-dafe06aedef3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/europawahl-moeglicher-ableger-der-erdogan-partei-in-deutschland-stoesst-auf-kritik](https://www.spiegel.de/politik/deutschland/europawahl-moeglicher-ableger-der-erdogan-partei-in-deutschland-stoesst-auf-kritik-a-496bcae5-4f12-4fce-80f2-cc239fd285ab#ref=rss)
-### hunderttausende
-
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-bundespraesident-mahnt-zu-buendnis-gegen-extremismus-afd-uebt-kritik](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-bundespraesident-mahnt-zu-buendnis-gegen-extremismus-afd-uebt-kritik-a-5ef40ea6-4393-4738-bbe2-dafe06aedef3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-schmaeht-massenproteste-gegen-rechtsextremismus-als-das-letzte-aufgebot](https://www.spiegel.de/politik/deutschland/afd-schmaeht-massenproteste-gegen-rechtsextremismus-als-das-letzte-aufgebot-a-f686dce2-dbed-4930-88bf-03f60f5efb02#ref=rss)
-### straße
-
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-bundespraesident-mahnt-zu-buendnis-gegen-extremismus-afd-uebt-kritik](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-bundespraesident-mahnt-zu-buendnis-gegen-extremismus-afd-uebt-kritik-a-5ef40ea6-4393-4738-bbe2-dafe06aedef3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-schmaeht-massenproteste-gegen-rechtsextremismus-als-das-letzte-aufgebot](https://www.spiegel.de/politik/deutschland/afd-schmaeht-massenproteste-gegen-rechtsextremismus-als-das-letzte-aufgebot-a-f686dce2-dbed-4930-88bf-03f60f5efb02#ref=rss)
-### rechts
-
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-bundespraesident-mahnt-zu-buendnis-gegen-extremismus-afd-uebt-kritik](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-bundespraesident-mahnt-zu-buendnis-gegen-extremismus-afd-uebt-kritik-a-5ef40ea6-4393-4738-bbe2-dafe06aedef3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-demos-gegen-rechts-ukrainische-soldatinnen-taylor-swift](https://www.spiegel.de/politik/deutschland/news-des-tages-demos-gegen-rechts-ukrainische-soldatinnen-taylor-swift-a-786f2d31-e2c0-4cf2-a98e-0cd33c0bd104#ref=rss)
-### icon
-
-* [https://www.spiegel.de/panorama/kreuzfahrtschiff-icon-of-the-seas-es-ist-ein-schritt-in-die-falsche-richtung](https://www.spiegel.de/panorama/kreuzfahrtschiff-icon-of-the-seas-es-ist-ein-schritt-in-die-falsche-richtung-a-61581161-9148-426c-a138-f07b2fcf0bd7#ref=rss)
-### of
-
-* [https://www.spiegel.de/panorama/kreuzfahrtschiff-icon-of-the-seas-es-ist-ein-schritt-in-die-falsche-richtung](https://www.spiegel.de/panorama/kreuzfahrtschiff-icon-of-the-seas-es-ist-ein-schritt-in-die-falsche-richtung-a-61581161-9148-426c-a138-f07b2fcf0bd7#ref=rss)
-### the
-
-* [https://www.spiegel.de/panorama/kreuzfahrtschiff-icon-of-the-seas-es-ist-ein-schritt-in-die-falsche-richtung](https://www.spiegel.de/panorama/kreuzfahrtschiff-icon-of-the-seas-es-ist-ein-schritt-in-die-falsche-richtung-a-61581161-9148-426c-a138-f07b2fcf0bd7#ref=rss)
-### seas
-
-* [https://www.spiegel.de/panorama/kreuzfahrtschiff-icon-of-the-seas-es-ist-ein-schritt-in-die-falsche-richtung](https://www.spiegel.de/panorama/kreuzfahrtschiff-icon-of-the-seas-es-ist-ein-schritt-in-die-falsche-richtung-a-61581161-9148-426c-a138-f07b2fcf0bd7#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/kreuzfahrtschiff-icon-of-the-seas-es-ist-ein-schritt-in-die-falsche-richtung](https://www.spiegel.de/panorama/kreuzfahrtschiff-icon-of-the-seas-es-ist-ein-schritt-in-die-falsche-richtung-a-61581161-9148-426c-a138-f07b2fcf0bd7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-schmaeht-massenproteste-gegen-rechtsextremismus-als-das-letzte-aufgebot](https://www.spiegel.de/politik/deutschland/afd-schmaeht-massenproteste-gegen-rechtsextremismus-als-das-letzte-aufgebot-a-f686dce2-dbed-4930-88bf-03f60f5efb02#ref=rss)
-### neue
-
-* [https://www.spiegel.de/panorama/kreuzfahrtschiff-icon-of-the-seas-es-ist-ein-schritt-in-die-falsche-richtung](https://www.spiegel.de/panorama/kreuzfahrtschiff-icon-of-the-seas-es-ist-ein-schritt-in-die-falsche-richtung-a-61581161-9148-426c-a138-f07b2fcf0bd7#ref=rss)
-* [https://www.spiegel.de/kultur/musik/britney-spears-mag-justin-timberlakes-neue-single-und-sagt-sorry](https://www.spiegel.de/kultur/musik/britney-spears-mag-justin-timberlakes-neue-single-und-sagt-sorry-a-653ad93b-3015-475f-8599-7872659be42a#ref=rss)
-### möglicher
-
-* [https://www.spiegel.de/ausland/krieg-in-gaza-die-fuenf-grossen-probleme-zwischen-joe-biden-und-benjamin-netanyahu](https://www.spiegel.de/ausland/krieg-in-gaza-die-fuenf-grossen-probleme-zwischen-joe-biden-und-benjamin-netanyahu-a-12b92f19-ea8a-4325-8ba8-8c18eba7895d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/europawahl-moeglicher-ableger-der-erdogan-partei-in-deutschland-stoesst-auf-kritik](https://www.spiegel.de/politik/deutschland/europawahl-moeglicher-ableger-der-erdogan-partei-in-deutschland-stoesst-auf-kritik-a-496bcae5-4f12-4fce-80f2-cc239fd285ab#ref=rss)
-### israels
-
-* [https://www.spiegel.de/ausland/krieg-in-gaza-die-fuenf-grossen-probleme-zwischen-joe-biden-und-benjamin-netanyahu](https://www.spiegel.de/ausland/krieg-in-gaza-die-fuenf-grossen-probleme-zwischen-joe-biden-und-benjamin-netanyahu-a-12b92f19-ea8a-4325-8ba8-8c18eba7895d#ref=rss)
-* [https://www.spiegel.de/kultur/musik/esc-2024-in-malmoe-1005-schwedische-musikacts-fordern-israel-ausschluss](https://www.spiegel.de/kultur/musik/esc-2024-in-malmoe-1005-schwedische-musikacts-fordern-israel-ausschluss-a-fff11cb7-9118-40bc-a2b4-715e485d9893#ref=rss)
-### mützenich
-
-* [https://www.spiegel.de/politik/deutschland/rolf-muetzenich-spd-fraktionschef-verwundert-ueber-gruenenchef-omid-nouripour](https://www.spiegel.de/politik/deutschland/rolf-muetzenich-spd-fraktionschef-verwundert-ueber-gruenenchef-omid-nouripour-a-c00db264-9fa5-42ea-9d10-fad5b9e6a38c#ref=rss)
-### spdfraktionschef
-
-* [https://www.spiegel.de/politik/deutschland/rolf-muetzenich-spd-fraktionschef-verwundert-ueber-gruenenchef-omid-nouripour](https://www.spiegel.de/politik/deutschland/rolf-muetzenich-spd-fraktionschef-verwundert-ueber-gruenenchef-omid-nouripour-a-c00db264-9fa5-42ea-9d10-fad5b9e6a38c#ref=rss)
-### grünenchef
-
-* [https://www.spiegel.de/politik/deutschland/rolf-muetzenich-spd-fraktionschef-verwundert-ueber-gruenenchef-omid-nouripour](https://www.spiegel.de/politik/deutschland/rolf-muetzenich-spd-fraktionschef-verwundert-ueber-gruenenchef-omid-nouripour-a-c00db264-9fa5-42ea-9d10-fad5b9e6a38c#ref=rss)
-### nouripour
-
-* [https://www.spiegel.de/politik/deutschland/rolf-muetzenich-spd-fraktionschef-verwundert-ueber-gruenenchef-omid-nouripour](https://www.spiegel.de/politik/deutschland/rolf-muetzenich-spd-fraktionschef-verwundert-ueber-gruenenchef-omid-nouripour-a-c00db264-9fa5-42ea-9d10-fad5b9e6a38c#ref=rss)
-### sicht
-
-* [https://www.spiegel.de/politik/deutschland/rolf-muetzenich-spd-fraktionschef-verwundert-ueber-gruenenchef-omid-nouripour](https://www.spiegel.de/politik/deutschland/rolf-muetzenich-spd-fraktionschef-verwundert-ueber-gruenenchef-omid-nouripour-a-c00db264-9fa5-42ea-9d10-fad5b9e6a38c#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/amazon-stoppt-uebernahme-des-roomba-herstellers-irobot](https://www.spiegel.de/netzwelt/gadgets/amazon-stoppt-uebernahme-des-roomba-herstellers-irobot-a-0bf07302-ae08-485c-8a5a-2ef26a0313d6#ref=rss)
-### lloyd
-
-* [https://www.spiegel.de/ausland/lloyd-austin-us-verteidigungsminister-kehrt-nach-klinikaufenthalt-ins-pentagon-zurueck](https://www.spiegel.de/ausland/lloyd-austin-us-verteidigungsminister-kehrt-nach-klinikaufenthalt-ins-pentagon-zurueck-a-e24ad625-3dfd-4fe9-8c5e-c945dad42250#ref=rss)
-### usverteidigungsminister
-
-* [https://www.spiegel.de/ausland/lloyd-austin-us-verteidigungsminister-kehrt-nach-klinikaufenthalt-ins-pentagon-zurueck](https://www.spiegel.de/ausland/lloyd-austin-us-verteidigungsminister-kehrt-nach-klinikaufenthalt-ins-pentagon-zurueck-a-e24ad625-3dfd-4fe9-8c5e-c945dad42250#ref=rss)
-### pentagon
-
-* [https://www.spiegel.de/ausland/lloyd-austin-us-verteidigungsminister-kehrt-nach-klinikaufenthalt-ins-pentagon-zurueck](https://www.spiegel.de/ausland/lloyd-austin-us-verteidigungsminister-kehrt-nach-klinikaufenthalt-ins-pentagon-zurueck-a-e24ad625-3dfd-4fe9-8c5e-c945dad42250#ref=rss)
-### wochen
-
-* [https://www.spiegel.de/ausland/lloyd-austin-us-verteidigungsminister-kehrt-nach-klinikaufenthalt-ins-pentagon-zurueck](https://www.spiegel.de/ausland/lloyd-austin-us-verteidigungsminister-kehrt-nach-klinikaufenthalt-ins-pentagon-zurueck-a-e24ad625-3dfd-4fe9-8c5e-c945dad42250#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-schmaeht-massenproteste-gegen-rechtsextremismus-als-das-letzte-aufgebot](https://www.spiegel.de/politik/deutschland/afd-schmaeht-massenproteste-gegen-rechtsextremismus-als-das-letzte-aufgebot-a-f686dce2-dbed-4930-88bf-03f60f5efb02#ref=rss)
-### waren
-
-* [https://www.spiegel.de/ausland/lloyd-austin-us-verteidigungsminister-kehrt-nach-klinikaufenthalt-ins-pentagon-zurueck](https://www.spiegel.de/ausland/lloyd-austin-us-verteidigungsminister-kehrt-nach-klinikaufenthalt-ins-pentagon-zurueck-a-e24ad625-3dfd-4fe9-8c5e-c945dad42250#ref=rss)
-* [https://www.spiegel.de/familie/familienrecht-abstammungsrecht-gleichgeschlechtliche-paare-lotte-lou-und-der-luette](https://www.spiegel.de/familie/familienrecht-abstammungsrecht-gleichgeschlechtliche-paare-lotte-lou-und-der-luette-a-03e400b9-5f92-4701-a6f5-9be1e78ee634#ref=rss)
-### eurichtlinie
-
-* [https://www.spiegel.de/politik/deutschland/eu-richtlinie-zu-gewalt-gegen-frauen-mehr-als-100-prominente-frauen-schreiben-offenen-brief-an-justizminister-buschmann](https://www.spiegel.de/politik/deutschland/eu-richtlinie-zu-gewalt-gegen-frauen-mehr-als-100-prominente-frauen-schreiben-offenen-brief-an-justizminister-buschmann-a-3f4fde37-26db-44b8-a257-58911e17cc6c#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/politik/deutschland/eu-richtlinie-zu-gewalt-gegen-frauen-mehr-als-100-prominente-frauen-schreiben-offenen-brief-an-justizminister-buschmann](https://www.spiegel.de/politik/deutschland/eu-richtlinie-zu-gewalt-gegen-frauen-mehr-als-100-prominente-frauen-schreiben-offenen-brief-an-justizminister-buschmann-a-3f4fde37-26db-44b8-a257-58911e17cc6c#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-wer-sind-die-frauen-die-fuer-den-krieg-trainieren](https://www.spiegel.de/ausland/ukraine-wer-sind-die-frauen-die-fuer-den-krieg-trainieren-a-ce3d71d3-efe5-48bb-be71-f1e5e7f10953#ref=rss)
-### 100
-
-* [https://www.spiegel.de/politik/deutschland/eu-richtlinie-zu-gewalt-gegen-frauen-mehr-als-100-prominente-frauen-schreiben-offenen-brief-an-justizminister-buschmann](https://www.spiegel.de/politik/deutschland/eu-richtlinie-zu-gewalt-gegen-frauen-mehr-als-100-prominente-frauen-schreiben-offenen-brief-an-justizminister-buschmann-a-3f4fde37-26db-44b8-a257-58911e17cc6c#ref=rss)
-### einschränkungen
-
-* [https://www.spiegel.de/wirtschaft/ver-di-oepnv-wo-die-bahner-am-freitag-streiken-werden](https://www.spiegel.de/wirtschaft/ver-di-oepnv-wo-die-bahner-am-freitag-streiken-werden-a-a5ea430d-0608-4f3e-8a5c-b952f4ceb9a4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ver-di-ruft-in-fast-allen-bundeslaendern-zu-warnstreiks-im-oepnv-am-freitag-auf](https://www.spiegel.de/wirtschaft/ver-di-ruft-in-fast-allen-bundeslaendern-zu-warnstreiks-im-oepnv-am-freitag-auf-a-423bc537-12c4-4a50-9c79-9548f2058d8f#ref=rss)
-### aufgerufen
-
-* [https://www.spiegel.de/wirtschaft/ver-di-oepnv-wo-die-bahner-am-freitag-streiken-werden](https://www.spiegel.de/wirtschaft/ver-di-oepnv-wo-die-bahner-am-freitag-streiken-werden-a-a5ea430d-0608-4f3e-8a5c-b952f4ceb9a4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ver-di-ruft-in-fast-allen-bundeslaendern-zu-warnstreiks-im-oepnv-am-freitag-auf](https://www.spiegel.de/wirtschaft/ver-di-ruft-in-fast-allen-bundeslaendern-zu-warnstreiks-im-oepnv-am-freitag-auf-a-423bc537-12c4-4a50-9c79-9548f2058d8f#ref=rss)
-### europawahl
-
-* [https://www.spiegel.de/politik/deutschland/europawahl-moeglicher-ableger-der-erdogan-partei-in-deutschland-stoesst-auf-kritik](https://www.spiegel.de/politik/deutschland/europawahl-moeglicher-ableger-der-erdogan-partei-in-deutschland-stoesst-auf-kritik-a-496bcae5-4f12-4fce-80f2-cc239fd285ab#ref=rss)
-### ableger
-
-* [https://www.spiegel.de/politik/deutschland/europawahl-moeglicher-ableger-der-erdogan-partei-in-deutschland-stoesst-auf-kritik](https://www.spiegel.de/politik/deutschland/europawahl-moeglicher-ableger-der-erdogan-partei-in-deutschland-stoesst-auf-kritik-a-496bcae5-4f12-4fce-80f2-cc239fd285ab#ref=rss)
-### erdoğanpartei
-
-* [https://www.spiegel.de/politik/deutschland/europawahl-moeglicher-ableger-der-erdogan-partei-in-deutschland-stoesst-auf-kritik](https://www.spiegel.de/politik/deutschland/europawahl-moeglicher-ableger-der-erdogan-partei-in-deutschland-stoesst-auf-kritik-a-496bcae5-4f12-4fce-80f2-cc239fd285ab#ref=rss)
-### staatsanwalt
-
-* [https://www.spiegel.de/panorama/justiz/luebeck-prozess-gegen-staatsanwalt-missbrauchte-er-seinen-sohn-im-tiefschlaf](https://www.spiegel.de/panorama/justiz/luebeck-prozess-gegen-staatsanwalt-missbrauchte-er-seinen-sohn-im-tiefschlaf-a-efff960a-5199-44ea-851a-37b2ae4bbaa6#ref=rss)
-### sohn
-
-* [https://www.spiegel.de/panorama/justiz/luebeck-prozess-gegen-staatsanwalt-missbrauchte-er-seinen-sohn-im-tiefschlaf](https://www.spiegel.de/panorama/justiz/luebeck-prozess-gegen-staatsanwalt-missbrauchte-er-seinen-sohn-im-tiefschlaf-a-efff960a-5199-44ea-851a-37b2ae4bbaa6#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/panorama/justiz/luebeck-prozess-gegen-staatsanwalt-missbrauchte-er-seinen-sohn-im-tiefschlaf](https://www.spiegel.de/panorama/justiz/luebeck-prozess-gegen-staatsanwalt-missbrauchte-er-seinen-sohn-im-tiefschlaf-a-efff960a-5199-44ea-851a-37b2ae4bbaa6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/evergrande-was-die-abwicklung-des-immobilienkonzerns-fuer-china-und-die-welt-bedeutet](https://www.spiegel.de/wirtschaft/evergrande-was-die-abwicklung-des-immobilienkonzerns-fuer-china-und-die-welt-bedeutet-a-f61fbfca-7e0f-408d-a46b-eae9b29c30bd#ref=rss)
-### lage
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-demos-gegen-rechts-ukrainische-soldatinnen-taylor-swift](https://www.spiegel.de/politik/deutschland/news-des-tages-demos-gegen-rechts-ukrainische-soldatinnen-taylor-swift-a-786f2d31-e2c0-4cf2-a98e-0cd33c0bd104#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-wer-sind-die-frauen-die-fuer-den-krieg-trainieren](https://www.spiegel.de/ausland/ukraine-wer-sind-die-frauen-die-fuer-den-krieg-trainieren-a-ce3d71d3-efe5-48bb-be71-f1e5e7f10953#ref=rss)
-### 2024
-
-* [https://www.spiegel.de/kultur/musik/esc-2024-in-malmoe-1005-schwedische-musikacts-fordern-israel-ausschluss](https://www.spiegel.de/kultur/musik/esc-2024-in-malmoe-1005-schwedische-musikacts-fordern-israel-ausschluss-a-fff11cb7-9118-40bc-a2b4-715e485d9893#ref=rss)
-### 1005
-
-* [https://www.spiegel.de/kultur/musik/esc-2024-in-malmoe-1005-schwedische-musikacts-fordern-israel-ausschluss](https://www.spiegel.de/kultur/musik/esc-2024-in-malmoe-1005-schwedische-musikacts-fordern-israel-ausschluss-a-fff11cb7-9118-40bc-a2b4-715e485d9893#ref=rss)
-### schwedische
-
-* [https://www.spiegel.de/kultur/musik/esc-2024-in-malmoe-1005-schwedische-musikacts-fordern-israel-ausschluss](https://www.spiegel.de/kultur/musik/esc-2024-in-malmoe-1005-schwedische-musikacts-fordern-israel-ausschluss-a-fff11cb7-9118-40bc-a2b4-715e485d9893#ref=rss)
-### fordern
-
-* [https://www.spiegel.de/kultur/musik/esc-2024-in-malmoe-1005-schwedische-musikacts-fordern-israel-ausschluss](https://www.spiegel.de/kultur/musik/esc-2024-in-malmoe-1005-schwedische-musikacts-fordern-israel-ausschluss-a-fff11cb7-9118-40bc-a2b4-715e485d9893#ref=rss)
-* [https://www.spiegel.de/wirtschaft/benko-pleite-glaeubiger-fordern-8-6-milliarden-euro-von-insolventer-signa-holding](https://www.spiegel.de/wirtschaft/benko-pleite-glaeubiger-fordern-8-6-milliarden-euro-von-insolventer-signa-holding-a-07d906ea-11bb-4b28-b1da-cd59736badb0#ref=rss)
-### kamila
-
-* [https://www.spiegel.de/sport/wintersport/eiskunstlauf-russin-kamila-walijewa-wegen-doping-nachtraeglich-fuer-vier-jahre-gesperrt](https://www.spiegel.de/sport/wintersport/eiskunstlauf-russin-kamila-walijewa-wegen-doping-nachtraeglich-fuer-vier-jahre-gesperrt-a-37c4ad11-6d9e-447b-b458-54ba6cccff52#ref=rss)
-### walijewa
-
-* [https://www.spiegel.de/sport/wintersport/eiskunstlauf-russin-kamila-walijewa-wegen-doping-nachtraeglich-fuer-vier-jahre-gesperrt](https://www.spiegel.de/sport/wintersport/eiskunstlauf-russin-kamila-walijewa-wegen-doping-nachtraeglich-fuer-vier-jahre-gesperrt-a-37c4ad11-6d9e-447b-b458-54ba6cccff52#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/sport/wintersport/eiskunstlauf-russin-kamila-walijewa-wegen-doping-nachtraeglich-fuer-vier-jahre-gesperrt](https://www.spiegel.de/sport/wintersport/eiskunstlauf-russin-kamila-walijewa-wegen-doping-nachtraeglich-fuer-vier-jahre-gesperrt-a-37c4ad11-6d9e-447b-b458-54ba6cccff52#ref=rss)
-* [https://www.spiegel.de/familie/familienrecht-abstammungsrecht-gleichgeschlechtliche-paare-lotte-lou-und-der-luette](https://www.spiegel.de/familie/familienrecht-abstammungsrecht-gleichgeschlechtliche-paare-lotte-lou-und-der-luette-a-03e400b9-5f92-4701-a6f5-9be1e78ee634#ref=rss)
-### urteil
-
-* [https://www.spiegel.de/sport/wintersport/eiskunstlauf-russin-kamila-walijewa-wegen-doping-nachtraeglich-fuer-vier-jahre-gesperrt](https://www.spiegel.de/sport/wintersport/eiskunstlauf-russin-kamila-walijewa-wegen-doping-nachtraeglich-fuer-vier-jahre-gesperrt-a-37c4ad11-6d9e-447b-b458-54ba6cccff52#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/titelmissbrauch-urteil-gegen-frueheren-frankfurter-awo-chef-richter-ist-rechtskraeftig](https://www.spiegel.de/panorama/justiz/titelmissbrauch-urteil-gegen-frueheren-frankfurter-awo-chef-richter-ist-rechtskraeftig-a-975c8723-4ad6-4b12-98be-046775c18f5a#ref=rss)
-### evergrande
-
-* [https://www.spiegel.de/wirtschaft/evergrande-was-die-abwicklung-des-immobilienkonzerns-fuer-china-und-die-welt-bedeutet](https://www.spiegel.de/wirtschaft/evergrande-was-die-abwicklung-des-immobilienkonzerns-fuer-china-und-die-welt-bedeutet-a-f61fbfca-7e0f-408d-a46b-eae9b29c30bd#ref=rss)
-### abwicklung
-
-* [https://www.spiegel.de/wirtschaft/evergrande-was-die-abwicklung-des-immobilienkonzerns-fuer-china-und-die-welt-bedeutet](https://www.spiegel.de/wirtschaft/evergrande-was-die-abwicklung-des-immobilienkonzerns-fuer-china-und-die-welt-bedeutet-a-f61fbfca-7e0f-408d-a46b-eae9b29c30bd#ref=rss)
-### könig
-
-* [https://www.spiegel.de/panorama/koenig-charles-iii-nach-prostata-op-aus-klinik-in-london-entlassen](https://www.spiegel.de/panorama/koenig-charles-iii-nach-prostata-op-aus-klinik-in-london-entlassen-a-2003d995-dc68-4494-aea0-bd11399c651e#ref=rss)
-### charles
-
-* [https://www.spiegel.de/panorama/koenig-charles-iii-nach-prostata-op-aus-klinik-in-london-entlassen](https://www.spiegel.de/panorama/koenig-charles-iii-nach-prostata-op-aus-klinik-in-london-entlassen-a-2003d995-dc68-4494-aea0-bd11399c651e#ref=rss)
-### iii
-
-* [https://www.spiegel.de/panorama/koenig-charles-iii-nach-prostata-op-aus-klinik-in-london-entlassen](https://www.spiegel.de/panorama/koenig-charles-iii-nach-prostata-op-aus-klinik-in-london-entlassen-a-2003d995-dc68-4494-aea0-bd11399c651e#ref=rss)
-### entlassen
-
-* [https://www.spiegel.de/panorama/koenig-charles-iii-nach-prostata-op-aus-klinik-in-london-entlassen](https://www.spiegel.de/panorama/koenig-charles-iii-nach-prostata-op-aus-klinik-in-london-entlassen-a-2003d995-dc68-4494-aea0-bd11399c651e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/konjunktur-deutsche-wirtschaft-zum-jahresende-geschrumpft](https://www.spiegel.de/wirtschaft/konjunktur-deutsche-wirtschaft-zum-jahresende-geschrumpft-a-8d977e16-865e-410e-8de2-35cbf9123f34#ref=rss)
+* [https://www.spiegel.de/panorama/oesterreich-deutscher-snowboarder-stirbt-bei-zusammenstoss-mit-jugendlichem-in-tirol](https://www.spiegel.de/panorama/oesterreich-deutscher-snowboarder-stirbt-bei-zusammenstoss-mit-jugendlichem-in-tirol-a-6e3807bc-f99b-4ca0-83c3-9b97ff52aee5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/korruptionswahrnehmungsindex-deutschland-unter-den-zehn-staaten-mit-geringster-korruption](https://www.spiegel.de/politik/deutschland/korruptionswahrnehmungsindex-deutschland-unter-den-zehn-staaten-mit-geringster-korruption-a-534803b1-0545-4b99-a4ab-f2ae5c66e68f#ref=rss)
 ### ukraine
 
-* [https://www.spiegel.de/ausland/ukraine-wer-sind-die-frauen-die-fuer-den-krieg-trainieren](https://www.spiegel.de/ausland/ukraine-wer-sind-die-frauen-die-fuer-den-krieg-trainieren-a-ce3d71d3-efe5-48bb-be71-f1e5e7f10953#ref=rss)
-### trainieren
+* [https://www.spiegel.de/wirtschaft/unternehmen/eu-staaten-verstaendigen-sich-auf-plan-zur-nutzung-russischer-gelder](https://www.spiegel.de/wirtschaft/unternehmen/eu-staaten-verstaendigen-sich-auf-plan-zur-nutzung-russischer-gelder-a-80f29437-5888-40ae-8135-b89979b1e98e#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-manche-teilen-den-schuetzengraben-mit-toten](https://www.spiegel.de/ausland/krieg-in-der-ukraine-manche-teilen-den-schuetzengraben-mit-toten-a-eee05142-3887-48a5-a164-e966f5d0b847#ref=rss)
+* [https://www.spiegel.de/ausland/russland-greift-ukraine-erneut-mit-drohnenschwaermen-an](https://www.spiegel.de/ausland/russland-greift-ukraine-erneut-mit-drohnenschwaermen-an-a-502d5492-d43d-41ad-9d50-2eed17637d1b#ref=rss)
+### unter
 
-* [https://www.spiegel.de/ausland/ukraine-wer-sind-die-frauen-die-fuer-den-krieg-trainieren](https://www.spiegel.de/ausland/ukraine-wer-sind-die-frauen-die-fuer-den-krieg-trainieren-a-ce3d71d3-efe5-48bb-be71-f1e5e7f10953#ref=rss)
-### übernehmen
+* [https://www.spiegel.de/auto/dresden-zufriedenheit-mit-oepnv-unter-15-deutschen-grossstaedten-im-adac-monitor-am-hoechsten](https://www.spiegel.de/auto/dresden-zufriedenheit-mit-oepnv-unter-15-deutschen-grossstaedten-im-adac-monitor-am-hoechsten-a-81204603-6a87-4454-a953-617ecacab3f2#ref=rss)
+* [https://www.spiegel.de/wissenschaft/alzheimer-koennte-uebertragbar-sein-unter-extrem-seltenen-umstaenden](https://www.spiegel.de/wissenschaft/alzheimer-koennte-uebertragbar-sein-unter-extrem-seltenen-umstaenden-a-7a84face-6c6c-4b2f-a1ec-54138b472059#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/korruptionswahrnehmungsindex-deutschland-unter-den-zehn-staaten-mit-geringster-korruption](https://www.spiegel.de/politik/deutschland/korruptionswahrnehmungsindex-deutschland-unter-den-zehn-staaten-mit-geringster-korruption-a-534803b1-0545-4b99-a4ab-f2ae5c66e68f#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/thailaendischer-miteigentuemer-will-kadewe-komplett-uebernehmen](https://www.spiegel.de/wirtschaft/unternehmen/thailaendischer-miteigentuemer-will-kadewe-komplett-uebernehmen-a-36174dd7-3806-45bc-a2a7-8c489dff0256#ref=rss)
-### signa
+* [https://www.spiegel.de/auto/dresden-zufriedenheit-mit-oepnv-unter-15-deutschen-grossstaedten-im-adac-monitor-am-hoechsten](https://www.spiegel.de/auto/dresden-zufriedenheit-mit-oepnv-unter-15-deutschen-grossstaedten-im-adac-monitor-am-hoechsten-a-81204603-6a87-4454-a953-617ecacab3f2#ref=rss)
+* [https://www.spiegel.de/wissenschaft/neuralink-elon-musks-start-up-implantiert-erstmals-gehirnchip-beim-menschen](https://www.spiegel.de/wissenschaft/neuralink-elon-musks-start-up-implantiert-erstmals-gehirnchip-beim-menschen-a-eebf56bd-b47c-49b7-a268-86ae906349a4#ref=rss)
+### verurteilt
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/thailaendischer-miteigentuemer-will-kadewe-komplett-uebernehmen](https://www.spiegel.de/wirtschaft/unternehmen/thailaendischer-miteigentuemer-will-kadewe-komplett-uebernehmen-a-36174dd7-3806-45bc-a2a7-8c489dff0256#ref=rss)
-* [https://www.spiegel.de/wirtschaft/benko-pleite-glaeubiger-fordern-8-6-milliarden-euro-von-insolventer-signa-holding](https://www.spiegel.de/wirtschaft/benko-pleite-glaeubiger-fordern-8-6-milliarden-euro-von-insolventer-signa-holding-a-07d906ea-11bb-4b28-b1da-cd59736badb0#ref=rss)
-### gruppe
+* [https://www.spiegel.de/wirtschaft/unternehmen/cum-ex-steuerbetrug-freshfields-staranwalt-zu-langer-haft-verurteilt](https://www.spiegel.de/wirtschaft/unternehmen/cum-ex-steuerbetrug-freshfields-staranwalt-zu-langer-haft-verurteilt-a-94edb857-7180-4980-98bb-9a474d9370c9#ref=rss)
+* [https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-erneut-zu-10-jahren-haft-verurteilt](https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-erneut-zu-10-jahren-haft-verurteilt-a-eaa658a1-3c2a-461e-812d-d26a0539a192#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/thailaendischer-miteigentuemer-will-kadewe-komplett-uebernehmen](https://www.spiegel.de/wirtschaft/unternehmen/thailaendischer-miteigentuemer-will-kadewe-komplett-uebernehmen-a-36174dd7-3806-45bc-a2a7-8c489dff0256#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ungarn-deutscher-wegen-gewalt-gegen-rechtsextremisten-verurteilt](https://www.spiegel.de/panorama/justiz/ungarn-deutscher-wegen-gewalt-gegen-rechtsextremisten-verurteilt-a-cd8c6341-47c4-4e13-9610-d260554ab802#ref=rss)
-### frankfurter
+* [https://www.spiegel.de/netzwelt/web/movie2k-to-beschuldigter-uebergibt-bitcoins-im-wert-von-zwei-milliarden-euro-ans-bundeskriminalamt](https://www.spiegel.de/netzwelt/web/movie2k-to-beschuldigter-uebergibt-bitcoins-im-wert-von-zwei-milliarden-euro-ans-bundeskriminalamt-a-66a34b4a-a01b-4edf-b622-cdbff14596dd#ref=rss)
+* [https://www.spiegel.de/panorama/bis-zu-zwei-millionen-hirsche-wild-bereitet-grossbritannien-sorgen](https://www.spiegel.de/panorama/bis-zu-zwei-millionen-hirsche-wild-bereitet-grossbritannien-sorgen-a-f6675622-61c5-4125-a721-53cd26416b07#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-manche-teilen-den-schuetzengraben-mit-toten](https://www.spiegel.de/ausland/krieg-in-der-ukraine-manche-teilen-den-schuetzengraben-mit-toten-a-eee05142-3887-48a5-a164-e966f5d0b847#ref=rss)
+### alzheimer
 
-* [https://www.spiegel.de/panorama/justiz/titelmissbrauch-urteil-gegen-frueheren-frankfurter-awo-chef-richter-ist-rechtskraeftig](https://www.spiegel.de/panorama/justiz/titelmissbrauch-urteil-gegen-frueheren-frankfurter-awo-chef-richter-ist-rechtskraeftig-a-975c8723-4ad6-4b12-98be-046775c18f5a#ref=rss)
-### richter
+* [https://www.spiegel.de/wissenschaft/alzheimer-koennte-uebertragbar-sein-unter-extrem-seltenen-umstaenden](https://www.spiegel.de/wissenschaft/alzheimer-koennte-uebertragbar-sein-unter-extrem-seltenen-umstaenden-a-7a84face-6c6c-4b2f-a1ec-54138b472059#ref=rss)
+* [https://www.spiegel.de/wissenschaft/neuralink-elon-musks-start-up-implantiert-erstmals-gehirnchip-beim-menschen](https://www.spiegel.de/wissenschaft/neuralink-elon-musks-start-up-implantiert-erstmals-gehirnchip-beim-menschen-a-eebf56bd-b47c-49b7-a268-86ae906349a4#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/panorama/justiz/titelmissbrauch-urteil-gegen-frueheren-frankfurter-awo-chef-richter-ist-rechtskraeftig](https://www.spiegel.de/panorama/justiz/titelmissbrauch-urteil-gegen-frueheren-frankfurter-awo-chef-richter-ist-rechtskraeftig-a-975c8723-4ad6-4b12-98be-046775c18f5a#ref=rss)
-### rechtskräftig
+* [https://www.spiegel.de/wissenschaft/alzheimer-koennte-uebertragbar-sein-unter-extrem-seltenen-umstaenden](https://www.spiegel.de/wissenschaft/alzheimer-koennte-uebertragbar-sein-unter-extrem-seltenen-umstaenden-a-7a84face-6c6c-4b2f-a1ec-54138b472059#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/marburger-bund-aerzte-an-zahlreichen-unikliniken-treten-in-warnstreik](https://www.spiegel.de/wirtschaft/unternehmen/marburger-bund-aerzte-an-zahlreichen-unikliniken-treten-in-warnstreik-a-4066a6e4-6ed1-4fb5-ac51-fec002d12ecc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-klima-kleber-haushalt-christian-lindner-aerzte-streik](https://www.spiegel.de/politik/deutschland/news-klima-kleber-haushalt-christian-lindner-aerzte-streik-a-9b82719c-3445-4414-8f81-50a4ccc964f6#ref=rss)
+### sitzt
 
-* [https://www.spiegel.de/panorama/justiz/titelmissbrauch-urteil-gegen-frueheren-frankfurter-awo-chef-richter-ist-rechtskraeftig](https://www.spiegel.de/panorama/justiz/titelmissbrauch-urteil-gegen-frueheren-frankfurter-awo-chef-richter-ist-rechtskraeftig-a-975c8723-4ad6-4b12-98be-046775c18f5a#ref=rss)
-### amazon
+* [https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-erneut-zu-10-jahren-haft-verurteilt](https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-erneut-zu-10-jahren-haft-verurteilt-a-eaa658a1-3c2a-461e-812d-d26a0539a192#ref=rss)
+* [https://www.spiegel.de/ausland/wladimir-kara-mursa-vertraute-melden-verschwinden-von-russischen-kriegsgegner](https://www.spiegel.de/ausland/wladimir-kara-mursa-vertraute-melden-verschwinden-von-russischen-kriegsgegner-a-f36ab56b-b3ec-4089-b1ef-b41e570457a1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/737-max-7-boeing-zieht-antrag-auf-sicherheitsfreistellung-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/737-max-7-boeing-zieht-antrag-auf-sicherheitsfreistellung-zurueck-a-d9c64a02-2013-48d9-833a-750e23cb0c25#ref=rss)
+### franz
 
-* [https://www.spiegel.de/netzwelt/gadgets/amazon-stoppt-uebernahme-des-roomba-herstellers-irobot](https://www.spiegel.de/netzwelt/gadgets/amazon-stoppt-uebernahme-des-roomba-herstellers-irobot-a-0bf07302-ae08-485c-8a5a-2ef26a0313d6#ref=rss)
-### irobot
+* [https://www.spiegel.de/sport/basketball/nba-luka-doncic-fuehrt-dallas-mavericks-zu-sieg-gegen-orlando-magic-um-franz-und-moritz-wagner](https://www.spiegel.de/sport/basketball/nba-luka-doncic-fuehrt-dallas-mavericks-zu-sieg-gegen-orlando-magic-um-franz-und-moritz-wagner-a-ee8be81d-613b-4e61-9242-ae8013732359#ref=rss)
+### wagner
 
-* [https://www.spiegel.de/netzwelt/gadgets/amazon-stoppt-uebernahme-des-roomba-herstellers-irobot](https://www.spiegel.de/netzwelt/gadgets/amazon-stoppt-uebernahme-des-roomba-herstellers-irobot-a-0bf07302-ae08-485c-8a5a-2ef26a0313d6#ref=rss)
-### verzichtet
+* [https://www.spiegel.de/sport/basketball/nba-luka-doncic-fuehrt-dallas-mavericks-zu-sieg-gegen-orlando-magic-um-franz-und-moritz-wagner](https://www.spiegel.de/sport/basketball/nba-luka-doncic-fuehrt-dallas-mavericks-zu-sieg-gegen-orlando-magic-um-franz-und-moritz-wagner-a-ee8be81d-613b-4e61-9242-ae8013732359#ref=rss)
+### patienten
 
-* [https://www.spiegel.de/netzwelt/gadgets/amazon-stoppt-uebernahme-des-roomba-herstellers-irobot](https://www.spiegel.de/netzwelt/gadgets/amazon-stoppt-uebernahme-des-roomba-herstellers-irobot-a-0bf07302-ae08-485c-8a5a-2ef26a0313d6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/andreas-scheuer-csu-verzichtet-auf-weitere-kandidatur-fuer-den-bundestag](https://www.spiegel.de/politik/deutschland/andreas-scheuer-csu-verzichtet-auf-weitere-kandidatur-fuer-den-bundestag-a-4ce7adf9-376a-4f87-99cb-5ba60150e9f5#ref=rss)
-### ungarn
+* [https://www.spiegel.de/wirtschaft/soziales/krankenhausreform-patienten-bevorzugen-laut-umfrage-spezialkliniken-auch-wenn-weiter-weg](https://www.spiegel.de/wirtschaft/soziales/krankenhausreform-patienten-bevorzugen-laut-umfrage-spezialkliniken-auch-wenn-weiter-weg-a-8ea975af-0964-403e-b4c8-bd93bd17e187#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/marburger-bund-aerzte-an-zahlreichen-unikliniken-treten-in-warnstreik](https://www.spiegel.de/wirtschaft/unternehmen/marburger-bund-aerzte-an-zahlreichen-unikliniken-treten-in-warnstreik-a-4066a6e4-6ed1-4fb5-ac51-fec002d12ecc#ref=rss)
+* [https://www.spiegel.de/wissenschaft/neuralink-elon-musks-start-up-implantiert-erstmals-gehirnchip-beim-menschen](https://www.spiegel.de/wissenschaft/neuralink-elon-musks-start-up-implantiert-erstmals-gehirnchip-beim-menschen-a-eebf56bd-b47c-49b7-a268-86ae906349a4#ref=rss)
+### bund
 
-* [https://www.spiegel.de/panorama/justiz/ungarn-deutscher-wegen-gewalt-gegen-rechtsextremisten-verurteilt](https://www.spiegel.de/panorama/justiz/ungarn-deutscher-wegen-gewalt-gegen-rechtsextremisten-verurteilt-a-cd8c6341-47c4-4e13-9610-d260554ab802#ref=rss)
-### deutscher
+* [https://www.spiegel.de/wirtschaft/soziales/krankenhausreform-patienten-bevorzugen-laut-umfrage-spezialkliniken-auch-wenn-weiter-weg](https://www.spiegel.de/wirtschaft/soziales/krankenhausreform-patienten-bevorzugen-laut-umfrage-spezialkliniken-auch-wenn-weiter-weg-a-8ea975af-0964-403e-b4c8-bd93bd17e187#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/marburger-bund-aerzte-an-zahlreichen-unikliniken-treten-in-warnstreik](https://www.spiegel.de/wirtschaft/unternehmen/marburger-bund-aerzte-an-zahlreichen-unikliniken-treten-in-warnstreik-a-4066a6e4-6ed1-4fb5-ac51-fec002d12ecc#ref=rss)
+### ohne
 
-* [https://www.spiegel.de/panorama/justiz/ungarn-deutscher-wegen-gewalt-gegen-rechtsextremisten-verurteilt](https://www.spiegel.de/panorama/justiz/ungarn-deutscher-wegen-gewalt-gegen-rechtsextremisten-verurteilt-a-cd8c6341-47c4-4e13-9610-d260554ab802#ref=rss)
+* [https://www.spiegel.de/ausland/lettland-kuendigt-zwangsausweisungen-von-russen-ohne-sprachkenntnisse-an](https://www.spiegel.de/ausland/lettland-kuendigt-zwangsausweisungen-von-russen-ohne-sprachkenntnisse-an-a-7c7b845a-381e-4a1d-9515-6db81677988b#ref=rss)
+* [https://www.spiegel.de/karriere/vor-der-rente-doppelt-verdienen-wie-das-teilrenten-modell-ohne-abschlaege-funktioniert](https://www.spiegel.de/karriere/vor-der-rente-doppelt-verdienen-wie-das-teilrenten-modell-ohne-abschlaege-funktioniert-a-d8ec91c7-2736-4b30-b189-21d4b0e4e2bb#ref=rss)
+### ai
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/ai-act-bundesregierung-will-europaeischem-ki-gesetz-doch-zustimmen](https://www.spiegel.de/netzwelt/netzpolitik/ai-act-bundesregierung-will-europaeischem-ki-gesetz-doch-zustimmen-a-86cfff74-6d38-45f3-a772-ef65dff6e95f#ref=rss)
+### act
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/ai-act-bundesregierung-will-europaeischem-ki-gesetz-doch-zustimmen](https://www.spiegel.de/netzwelt/netzpolitik/ai-act-bundesregierung-will-europaeischem-ki-gesetz-doch-zustimmen-a-86cfff74-6d38-45f3-a772-ef65dff6e95f#ref=rss)
+### 15
+
+* [https://www.spiegel.de/auto/dresden-zufriedenheit-mit-oepnv-unter-15-deutschen-grossstaedten-im-adac-monitor-am-hoechsten](https://www.spiegel.de/auto/dresden-zufriedenheit-mit-oepnv-unter-15-deutschen-grossstaedten-im-adac-monitor-am-hoechsten-a-81204603-6a87-4454-a953-617ecacab3f2#ref=rss)
+* [https://www.spiegel.de/ausland/russland-greift-ukraine-erneut-mit-drohnenschwaermen-an](https://www.spiegel.de/ausland/russland-greift-ukraine-erneut-mit-drohnenschwaermen-an-a-502d5492-d43d-41ad-9d50-2eed17637d1b#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/auto/dresden-zufriedenheit-mit-oepnv-unter-15-deutschen-grossstaedten-im-adac-monitor-am-hoechsten](https://www.spiegel.de/auto/dresden-zufriedenheit-mit-oepnv-unter-15-deutschen-grossstaedten-im-adac-monitor-am-hoechsten-a-81204603-6a87-4454-a953-617ecacab3f2#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/schule-warum-lehrkraefte-so-empfindlich-auf-die-kritik-des-pisa-chefs-reagieren](https://www.spiegel.de/panorama/bildung/schule-warum-lehrkraefte-so-empfindlich-auf-die-kritik-des-pisa-chefs-reagieren-a-bc4315cc-7dbb-4192-837c-3ad20d9b7624#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/auto/dresden-zufriedenheit-mit-oepnv-unter-15-deutschen-grossstaedten-im-adac-monitor-am-hoechsten](https://www.spiegel.de/auto/dresden-zufriedenheit-mit-oepnv-unter-15-deutschen-grossstaedten-im-adac-monitor-am-hoechsten-a-81204603-6a87-4454-a953-617ecacab3f2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/konjunktur-deutsche-wirtschaft-zum-jahresende-geschrumpft](https://www.spiegel.de/wirtschaft/konjunktur-deutsche-wirtschaft-zum-jahresende-geschrumpft-a-8d977e16-865e-410e-8de2-35cbf9123f34#ref=rss)
+### thüringen
+
+* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-thueringen-hans-georg-maassen-will-nicht-fuer-die-werteunion-antreten](https://www.spiegel.de/politik/deutschland/landtagswahl-in-thueringen-hans-georg-maassen-will-nicht-fuer-die-werteunion-antreten-a-72c4c608-3029-4f25-be43-96e82be4e619#ref=rss)
+### hansgeorg
+
+* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-thueringen-hans-georg-maassen-will-nicht-fuer-die-werteunion-antreten](https://www.spiegel.de/politik/deutschland/landtagswahl-in-thueringen-hans-georg-maassen-will-nicht-fuer-die-werteunion-antreten-a-72c4c608-3029-4f25-be43-96e82be4e619#ref=rss)
+### maaßen
+
+* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-thueringen-hans-georg-maassen-will-nicht-fuer-die-werteunion-antreten](https://www.spiegel.de/politik/deutschland/landtagswahl-in-thueringen-hans-georg-maassen-will-nicht-fuer-die-werteunion-antreten-a-72c4c608-3029-4f25-be43-96e82be4e619#ref=rss)
+### werteunion
+
+* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-thueringen-hans-georg-maassen-will-nicht-fuer-die-werteunion-antreten](https://www.spiegel.de/politik/deutschland/landtagswahl-in-thueringen-hans-georg-maassen-will-nicht-fuer-die-werteunion-antreten-a-72c4c608-3029-4f25-be43-96e82be4e619#ref=rss)
+### antreten
+
+* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-thueringen-hans-georg-maassen-will-nicht-fuer-die-werteunion-antreten](https://www.spiegel.de/politik/deutschland/landtagswahl-in-thueringen-hans-georg-maassen-will-nicht-fuer-die-werteunion-antreten-a-72c4c608-3029-4f25-be43-96e82be4e619#ref=rss)
+* [https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-erneut-zu-10-jahren-haft-verurteilt](https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-erneut-zu-10-jahren-haft-verurteilt-a-eaa658a1-3c2a-461e-812d-d26a0539a192#ref=rss)
+### erst
+
+* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-thueringen-hans-georg-maassen-will-nicht-fuer-die-werteunion-antreten](https://www.spiegel.de/politik/deutschland/landtagswahl-in-thueringen-hans-georg-maassen-will-nicht-fuer-die-werteunion-antreten-a-72c4c608-3029-4f25-be43-96e82be4e619#ref=rss)
+* [https://www.spiegel.de/wirtschaft/konjunktur-deutsche-wirtschaft-zum-jahresende-geschrumpft](https://www.spiegel.de/wirtschaft/konjunktur-deutsche-wirtschaft-zum-jahresende-geschrumpft-a-8d977e16-865e-410e-8de2-35cbf9123f34#ref=rss)
+### wahlkampf
+
+* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-thueringen-hans-georg-maassen-will-nicht-fuer-die-werteunion-antreten](https://www.spiegel.de/politik/deutschland/landtagswahl-in-thueringen-hans-georg-maassen-will-nicht-fuer-die-werteunion-antreten-a-72c4c608-3029-4f25-be43-96e82be4e619#ref=rss)
+* [https://www.spiegel.de/ausland/suche-nach-vize-praesidenten-donald-trumps-neue-casting-show](https://www.spiegel.de/ausland/suche-nach-vize-praesidenten-donald-trumps-neue-casting-show-a-6a1dd3f5-c00a-4a99-9ca0-6a4721284202#ref=rss)
 ### haft
 
-* [https://www.spiegel.de/panorama/justiz/kloetze-in-sachsen-anhalt-lebenslange-haft-fuer-mord-an-19-jaehriger-freundin](https://www.spiegel.de/panorama/justiz/kloetze-in-sachsen-anhalt-lebenslange-haft-fuer-mord-an-19-jaehriger-freundin-a-edfc7a33-9a1d-42cc-bda8-90719ca75ee6#ref=rss)
-### mord
+* [https://www.spiegel.de/wirtschaft/unternehmen/cum-ex-steuerbetrug-freshfields-staranwalt-zu-langer-haft-verurteilt](https://www.spiegel.de/wirtschaft/unternehmen/cum-ex-steuerbetrug-freshfields-staranwalt-zu-langer-haft-verurteilt-a-94edb857-7180-4980-98bb-9a474d9370c9#ref=rss)
+* [https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-erneut-zu-10-jahren-haft-verurteilt](https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-erneut-zu-10-jahren-haft-verurteilt-a-eaa658a1-3c2a-461e-812d-d26a0539a192#ref=rss)
+### millionen
 
-* [https://www.spiegel.de/panorama/justiz/kloetze-in-sachsen-anhalt-lebenslange-haft-fuer-mord-an-19-jaehriger-freundin](https://www.spiegel.de/panorama/justiz/kloetze-in-sachsen-anhalt-lebenslange-haft-fuer-mord-an-19-jaehriger-freundin-a-edfc7a33-9a1d-42cc-bda8-90719ca75ee6#ref=rss)
-### freundin
+* [https://www.spiegel.de/wirtschaft/unternehmen/cum-ex-steuerbetrug-freshfields-staranwalt-zu-langer-haft-verurteilt](https://www.spiegel.de/wirtschaft/unternehmen/cum-ex-steuerbetrug-freshfields-staranwalt-zu-langer-haft-verurteilt-a-94edb857-7180-4980-98bb-9a474d9370c9#ref=rss)
+* [https://www.spiegel.de/panorama/bis-zu-zwei-millionen-hirsche-wild-bereitet-grossbritannien-sorgen](https://www.spiegel.de/panorama/bis-zu-zwei-millionen-hirsche-wild-bereitet-grossbritannien-sorgen-a-f6675622-61c5-4125-a721-53cd26416b07#ref=rss)
+### euro
 
-* [https://www.spiegel.de/panorama/justiz/kloetze-in-sachsen-anhalt-lebenslange-haft-fuer-mord-an-19-jaehriger-freundin](https://www.spiegel.de/panorama/justiz/kloetze-in-sachsen-anhalt-lebenslange-haft-fuer-mord-an-19-jaehriger-freundin-a-edfc7a33-9a1d-42cc-bda8-90719ca75ee6#ref=rss)
-### betrieb
+* [https://www.spiegel.de/wirtschaft/unternehmen/cum-ex-steuerbetrug-freshfields-staranwalt-zu-langer-haft-verurteilt](https://www.spiegel.de/wirtschaft/unternehmen/cum-ex-steuerbetrug-freshfields-staranwalt-zu-langer-haft-verurteilt-a-94edb857-7180-4980-98bb-9a474d9370c9#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/movie2k-to-beschuldigter-uebergibt-bitcoins-im-wert-von-zwei-milliarden-euro-ans-bundeskriminalamt](https://www.spiegel.de/netzwelt/web/movie2k-to-beschuldigter-uebergibt-bitcoins-im-wert-von-zwei-milliarden-euro-ans-bundeskriminalamt-a-66a34b4a-a01b-4edf-b622-cdbff14596dd#ref=rss)
+### movie2kto
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/kadewe-gruppe-meldet-insolvenz-an-betrieb-von-kadewe-oberpollinger-alsterhaus-soll-weitergehen](https://www.spiegel.de/wirtschaft/unternehmen/kadewe-gruppe-meldet-insolvenz-an-betrieb-von-kadewe-oberpollinger-alsterhaus-soll-weitergehen-a-1566934d-1db0-471a-841d-9a0696f13e4b#ref=rss)
-### oberpollinger
+* [https://www.spiegel.de/netzwelt/web/movie2k-to-beschuldigter-uebergibt-bitcoins-im-wert-von-zwei-milliarden-euro-ans-bundeskriminalamt](https://www.spiegel.de/netzwelt/web/movie2k-to-beschuldigter-uebergibt-bitcoins-im-wert-von-zwei-milliarden-euro-ans-bundeskriminalamt-a-66a34b4a-a01b-4edf-b622-cdbff14596dd#ref=rss)
+### bitcoins
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/kadewe-gruppe-meldet-insolvenz-an-betrieb-von-kadewe-oberpollinger-alsterhaus-soll-weitergehen](https://www.spiegel.de/wirtschaft/unternehmen/kadewe-gruppe-meldet-insolvenz-an-betrieb-von-kadewe-oberpollinger-alsterhaus-soll-weitergehen-a-1566934d-1db0-471a-841d-9a0696f13e4b#ref=rss)
-### alsterhaus
+* [https://www.spiegel.de/netzwelt/web/movie2k-to-beschuldigter-uebergibt-bitcoins-im-wert-von-zwei-milliarden-euro-ans-bundeskriminalamt](https://www.spiegel.de/netzwelt/web/movie2k-to-beschuldigter-uebergibt-bitcoins-im-wert-von-zwei-milliarden-euro-ans-bundeskriminalamt-a-66a34b4a-a01b-4edf-b622-cdbff14596dd#ref=rss)
+### bundeskriminalamt
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/kadewe-gruppe-meldet-insolvenz-an-betrieb-von-kadewe-oberpollinger-alsterhaus-soll-weitergehen](https://www.spiegel.de/wirtschaft/unternehmen/kadewe-gruppe-meldet-insolvenz-an-betrieb-von-kadewe-oberpollinger-alsterhaus-soll-weitergehen-a-1566934d-1db0-471a-841d-9a0696f13e4b#ref=rss)
-### weitergehen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/kadewe-gruppe-meldet-insolvenz-an-betrieb-von-kadewe-oberpollinger-alsterhaus-soll-weitergehen](https://www.spiegel.de/wirtschaft/unternehmen/kadewe-gruppe-meldet-insolvenz-an-betrieb-von-kadewe-oberpollinger-alsterhaus-soll-weitergehen-a-1566934d-1db0-471a-841d-9a0696f13e4b#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/movie2k-to-beschuldigter-uebergibt-bitcoins-im-wert-von-zwei-milliarden-euro-ans-bundeskriminalamt](https://www.spiegel.de/netzwelt/web/movie2k-to-beschuldigter-uebergibt-bitcoins-im-wert-von-zwei-milliarden-euro-ans-bundeskriminalamt-a-66a34b4a-a01b-4edf-b622-cdbff14596dd#ref=rss)
 ### fast
 
-* [https://www.spiegel.de/wirtschaft/ver-di-ruft-in-fast-allen-bundeslaendern-zu-warnstreiks-im-oepnv-am-freitag-auf](https://www.spiegel.de/wirtschaft/ver-di-ruft-in-fast-allen-bundeslaendern-zu-warnstreiks-im-oepnv-am-freitag-auf-a-423bc537-12c4-4a50-9c79-9548f2058d8f#ref=rss)
-### gläubiger
+* [https://www.spiegel.de/netzwelt/web/movie2k-to-beschuldigter-uebergibt-bitcoins-im-wert-von-zwei-milliarden-euro-ans-bundeskriminalamt](https://www.spiegel.de/netzwelt/web/movie2k-to-beschuldigter-uebergibt-bitcoins-im-wert-von-zwei-milliarden-euro-ans-bundeskriminalamt-a-66a34b4a-a01b-4edf-b622-cdbff14596dd#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/samsung-galaxy-s24-ultra-im-test-kuenstliche-intelligenz-ist-jetzt-fast-ueberall](https://www.spiegel.de/netzwelt/gadgets/samsung-galaxy-s24-ultra-im-test-kuenstliche-intelligenz-ist-jetzt-fast-ueberall-a-80c24e44-baf7-4b40-94f9-542a74dcf87b#ref=rss)
+### erste
 
-* [https://www.spiegel.de/wirtschaft/benko-pleite-glaeubiger-fordern-8-6-milliarden-euro-von-insolventer-signa-holding](https://www.spiegel.de/wirtschaft/benko-pleite-glaeubiger-fordern-8-6-milliarden-euro-von-insolventer-signa-holding-a-07d906ea-11bb-4b28-b1da-cd59736badb0#ref=rss)
-### britney
+* [https://www.spiegel.de/netzwelt/web/movie2k-to-beschuldigter-uebergibt-bitcoins-im-wert-von-zwei-milliarden-euro-ans-bundeskriminalamt](https://www.spiegel.de/netzwelt/web/movie2k-to-beschuldigter-uebergibt-bitcoins-im-wert-von-zwei-milliarden-euro-ans-bundeskriminalamt-a-66a34b4a-a01b-4edf-b622-cdbff14596dd#ref=rss)
+* [https://www.spiegel.de/wissenschaft/neuralink-elon-musks-start-up-implantiert-erstmals-gehirnchip-beim-menschen](https://www.spiegel.de/wissenschaft/neuralink-elon-musks-start-up-implantiert-erstmals-gehirnchip-beim-menschen-a-eebf56bd-b47c-49b7-a268-86ae906349a4#ref=rss)
+### test
 
-* [https://www.spiegel.de/kultur/musik/britney-spears-mag-justin-timberlakes-neue-single-und-sagt-sorry](https://www.spiegel.de/kultur/musik/britney-spears-mag-justin-timberlakes-neue-single-und-sagt-sorry-a-653ad93b-3015-475f-8599-7872659be42a#ref=rss)
-### spears
+* [https://www.spiegel.de/netzwelt/gadgets/samsung-galaxy-s24-ultra-im-test-kuenstliche-intelligenz-ist-jetzt-fast-ueberall](https://www.spiegel.de/netzwelt/gadgets/samsung-galaxy-s24-ultra-im-test-kuenstliche-intelligenz-ist-jetzt-fast-ueberall-a-80c24e44-baf7-4b40-94f9-542a74dcf87b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/neuralink-elon-musks-start-up-implantiert-erstmals-gehirnchip-beim-menschen](https://www.spiegel.de/wissenschaft/neuralink-elon-musks-start-up-implantiert-erstmals-gehirnchip-beim-menschen-a-eebf56bd-b47c-49b7-a268-86ae906349a4#ref=rss)
+### österreich
 
-* [https://www.spiegel.de/kultur/musik/britney-spears-mag-justin-timberlakes-neue-single-und-sagt-sorry](https://www.spiegel.de/kultur/musik/britney-spears-mag-justin-timberlakes-neue-single-und-sagt-sorry-a-653ad93b-3015-475f-8599-7872659be42a#ref=rss)
-### justin
+* [https://www.spiegel.de/panorama/oesterreich-deutscher-snowboarder-stirbt-bei-zusammenstoss-mit-jugendlichem-in-tirol](https://www.spiegel.de/panorama/oesterreich-deutscher-snowboarder-stirbt-bei-zusammenstoss-mit-jugendlichem-in-tirol-a-6e3807bc-f99b-4ca0-83c3-9b97ff52aee5#ref=rss)
+### snowboarder
 
-* [https://www.spiegel.de/kultur/musik/britney-spears-mag-justin-timberlakes-neue-single-und-sagt-sorry](https://www.spiegel.de/kultur/musik/britney-spears-mag-justin-timberlakes-neue-single-und-sagt-sorry-a-653ad93b-3015-475f-8599-7872659be42a#ref=rss)
-### timberlakes
+* [https://www.spiegel.de/panorama/oesterreich-deutscher-snowboarder-stirbt-bei-zusammenstoss-mit-jugendlichem-in-tirol](https://www.spiegel.de/panorama/oesterreich-deutscher-snowboarder-stirbt-bei-zusammenstoss-mit-jugendlichem-in-tirol-a-6e3807bc-f99b-4ca0-83c3-9b97ff52aee5#ref=rss)
+### eustaaten
 
-* [https://www.spiegel.de/kultur/musik/britney-spears-mag-justin-timberlakes-neue-single-und-sagt-sorry](https://www.spiegel.de/kultur/musik/britney-spears-mag-justin-timberlakes-neue-single-und-sagt-sorry-a-653ad93b-3015-475f-8599-7872659be42a#ref=rss)
-### uns
+* [https://www.spiegel.de/wirtschaft/unternehmen/eu-staaten-verstaendigen-sich-auf-plan-zur-nutzung-russischer-gelder](https://www.spiegel.de/wirtschaft/unternehmen/eu-staaten-verstaendigen-sich-auf-plan-zur-nutzung-russischer-gelder-a-80f29437-5888-40ae-8135-b89979b1e98e#ref=rss)
+### russischer
 
-* [https://www.spiegel.de/familie/familienrecht-abstammungsrecht-gleichgeschlechtliche-paare-lotte-lou-und-der-luette](https://www.spiegel.de/familie/familienrecht-abstammungsrecht-gleichgeschlechtliche-paare-lotte-lou-und-der-luette-a-03e400b9-5f92-4701-a6f5-9be1e78ee634#ref=rss)
-### andreas
+* [https://www.spiegel.de/wirtschaft/unternehmen/eu-staaten-verstaendigen-sich-auf-plan-zur-nutzung-russischer-gelder](https://www.spiegel.de/wirtschaft/unternehmen/eu-staaten-verstaendigen-sich-auf-plan-zur-nutzung-russischer-gelder-a-80f29437-5888-40ae-8135-b89979b1e98e#ref=rss)
+### imran
 
-* [https://www.spiegel.de/politik/deutschland/andreas-scheuer-csu-verzichtet-auf-weitere-kandidatur-fuer-den-bundestag](https://www.spiegel.de/politik/deutschland/andreas-scheuer-csu-verzichtet-auf-weitere-kandidatur-fuer-den-bundestag-a-4ce7adf9-376a-4f87-99cb-5ba60150e9f5#ref=rss)
-### scheuer
+* [https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-erneut-zu-10-jahren-haft-verurteilt](https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-erneut-zu-10-jahren-haft-verurteilt-a-eaa658a1-3c2a-461e-812d-d26a0539a192#ref=rss)
+### khan
 
-* [https://www.spiegel.de/politik/deutschland/andreas-scheuer-csu-verzichtet-auf-weitere-kandidatur-fuer-den-bundestag](https://www.spiegel.de/politik/deutschland/andreas-scheuer-csu-verzichtet-auf-weitere-kandidatur-fuer-den-bundestag-a-4ce7adf9-376a-4f87-99cb-5ba60150e9f5#ref=rss)
-### bundestag
+* [https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-erneut-zu-10-jahren-haft-verurteilt](https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-erneut-zu-10-jahren-haft-verurteilt-a-eaa658a1-3c2a-461e-812d-d26a0539a192#ref=rss)
+### zehn
 
-* [https://www.spiegel.de/politik/deutschland/andreas-scheuer-csu-verzichtet-auf-weitere-kandidatur-fuer-den-bundestag](https://www.spiegel.de/politik/deutschland/andreas-scheuer-csu-verzichtet-auf-weitere-kandidatur-fuer-den-bundestag-a-4ce7adf9-376a-4f87-99cb-5ba60150e9f5#ref=rss)
-### kanye
+* [https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-erneut-zu-10-jahren-haft-verurteilt](https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-erneut-zu-10-jahren-haft-verurteilt-a-eaa658a1-3c2a-461e-812d-d26a0539a192#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/korruptionswahrnehmungsindex-deutschland-unter-den-zehn-staaten-mit-geringster-korruption](https://www.spiegel.de/politik/deutschland/korruptionswahrnehmungsindex-deutschland-unter-den-zehn-staaten-mit-geringster-korruption-a-534803b1-0545-4b99-a4ab-f2ae5c66e68f#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/kultur/kanye-west-bianca-censori-und-ein-seltsamer-instagram-account-mensch-yeezus](https://www.spiegel.de/kultur/kanye-west-bianca-censori-und-ein-seltsamer-instagram-account-mensch-yeezus-a-58920bc2-4bc6-4b30-ae78-9076046782bf#ref=rss)
-### west
+* [https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-erneut-zu-10-jahren-haft-verurteilt](https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-erneut-zu-10-jahren-haft-verurteilt-a-eaa658a1-3c2a-461e-812d-d26a0539a192#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-manche-teilen-den-schuetzengraben-mit-toten](https://www.spiegel.de/ausland/krieg-in-der-ukraine-manche-teilen-den-schuetzengraben-mit-toten-a-eee05142-3887-48a5-a164-e966f5d0b847#ref=rss)
+### wladimir
 
-* [https://www.spiegel.de/kultur/kanye-west-bianca-censori-und-ein-seltsamer-instagram-account-mensch-yeezus](https://www.spiegel.de/kultur/kanye-west-bianca-censori-und-ein-seltsamer-instagram-account-mensch-yeezus-a-58920bc2-4bc6-4b30-ae78-9076046782bf#ref=rss)
-### bianca
+* [https://www.spiegel.de/ausland/wladimir-kara-mursa-vertraute-melden-verschwinden-von-russischen-kriegsgegner](https://www.spiegel.de/ausland/wladimir-kara-mursa-vertraute-melden-verschwinden-von-russischen-kriegsgegner-a-f36ab56b-b3ec-4089-b1ef-b41e570457a1#ref=rss)
+### karamursa
 
-* [https://www.spiegel.de/kultur/kanye-west-bianca-censori-und-ein-seltsamer-instagram-account-mensch-yeezus](https://www.spiegel.de/kultur/kanye-west-bianca-censori-und-ein-seltsamer-instagram-account-mensch-yeezus-a-58920bc2-4bc6-4b30-ae78-9076046782bf#ref=rss)
-### censori
+* [https://www.spiegel.de/ausland/wladimir-kara-mursa-vertraute-melden-verschwinden-von-russischen-kriegsgegner](https://www.spiegel.de/ausland/wladimir-kara-mursa-vertraute-melden-verschwinden-von-russischen-kriegsgegner-a-f36ab56b-b3ec-4089-b1ef-b41e570457a1#ref=rss)
+### russland
 
-* [https://www.spiegel.de/kultur/kanye-west-bianca-censori-und-ein-seltsamer-instagram-account-mensch-yeezus](https://www.spiegel.de/kultur/kanye-west-bianca-censori-und-ein-seltsamer-instagram-account-mensch-yeezus-a-58920bc2-4bc6-4b30-ae78-9076046782bf#ref=rss)
+* [https://www.spiegel.de/ausland/wladimir-kara-mursa-vertraute-melden-verschwinden-von-russischen-kriegsgegner](https://www.spiegel.de/ausland/wladimir-kara-mursa-vertraute-melden-verschwinden-von-russischen-kriegsgegner-a-f36ab56b-b3ec-4089-b1ef-b41e570457a1#ref=rss)
+* [https://www.spiegel.de/ausland/russland-greift-ukraine-erneut-mit-drohnenschwaermen-an](https://www.spiegel.de/ausland/russland-greift-ukraine-erneut-mit-drohnenschwaermen-an-a-502d5492-d43d-41ad-9d50-2eed17637d1b#ref=rss)
+### boeing
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/737-max-7-boeing-zieht-antrag-auf-sicherheitsfreistellung-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/737-max-7-boeing-zieht-antrag-auf-sicherheitsfreistellung-zurueck-a-d9c64a02-2013-48d9-833a-750e23cb0c25#ref=rss)
+### zieht
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/737-max-7-boeing-zieht-antrag-auf-sicherheitsfreistellung-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/737-max-7-boeing-zieht-antrag-auf-sicherheitsfreistellung-zurueck-a-d9c64a02-2013-48d9-833a-750e23cb0c25#ref=rss)
+### antrag
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/737-max-7-boeing-zieht-antrag-auf-sicherheitsfreistellung-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/737-max-7-boeing-zieht-antrag-auf-sicherheitsfreistellung-zurueck-a-d9c64a02-2013-48d9-833a-750e23cb0c25#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/737-max-7-boeing-zieht-antrag-auf-sicherheitsfreistellung-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/737-max-7-boeing-zieht-antrag-auf-sicherheitsfreistellung-zurueck-a-d9c64a02-2013-48d9-833a-750e23cb0c25#ref=rss)
+### hinter
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/737-max-7-boeing-zieht-antrag-auf-sicherheitsfreistellung-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/737-max-7-boeing-zieht-antrag-auf-sicherheitsfreistellung-zurueck-a-d9c64a02-2013-48d9-833a-750e23cb0c25#ref=rss)
+* [https://www.spiegel.de/panorama/australien-29-jaehrige-schwimmerin-bei-haiangriff-im-hafen-von-sydney-schwer-verletzt](https://www.spiegel.de/panorama/australien-29-jaehrige-schwimmerin-bei-haiangriff-im-hafen-von-sydney-schwer-verletzt-a-c4caa422-14b3-421d-a350-66a5f92ecacc#ref=rss)
+### bereitet
+
+* [https://www.spiegel.de/panorama/bis-zu-zwei-millionen-hirsche-wild-bereitet-grossbritannien-sorgen](https://www.spiegel.de/panorama/bis-zu-zwei-millionen-hirsche-wild-bereitet-grossbritannien-sorgen-a-f6675622-61c5-4125-a721-53cd26416b07#ref=rss)
+* [https://www.spiegel.de/ausland/suche-nach-vize-praesidenten-donald-trumps-neue-casting-show](https://www.spiegel.de/ausland/suche-nach-vize-praesidenten-donald-trumps-neue-casting-show-a-6a1dd3f5-c00a-4a99-9ca0-6a4721284202#ref=rss)
+### großbritannien
+
+* [https://www.spiegel.de/panorama/bis-zu-zwei-millionen-hirsche-wild-bereitet-grossbritannien-sorgen](https://www.spiegel.de/panorama/bis-zu-zwei-millionen-hirsche-wild-bereitet-grossbritannien-sorgen-a-f6675622-61c5-4125-a721-53cd26416b07#ref=rss)
+### dallas
+
+* [https://www.spiegel.de/sport/basketball/nba-luka-doncic-fuehrt-dallas-mavericks-zu-sieg-gegen-orlando-magic-um-franz-und-moritz-wagner](https://www.spiegel.de/sport/basketball/nba-luka-doncic-fuehrt-dallas-mavericks-zu-sieg-gegen-orlando-magic-um-franz-und-moritz-wagner-a-ee8be81d-613b-4e61-9242-ae8013732359#ref=rss)
+### mavericks
+
+* [https://www.spiegel.de/sport/basketball/nba-luka-doncic-fuehrt-dallas-mavericks-zu-sieg-gegen-orlando-magic-um-franz-und-moritz-wagner](https://www.spiegel.de/sport/basketball/nba-luka-doncic-fuehrt-dallas-mavericks-zu-sieg-gegen-orlando-magic-um-franz-und-moritz-wagner-a-ee8be81d-613b-4e61-9242-ae8013732359#ref=rss)
+### orlando
+
+* [https://www.spiegel.de/sport/basketball/nba-luka-doncic-fuehrt-dallas-mavericks-zu-sieg-gegen-orlando-magic-um-franz-und-moritz-wagner](https://www.spiegel.de/sport/basketball/nba-luka-doncic-fuehrt-dallas-mavericks-zu-sieg-gegen-orlando-magic-um-franz-und-moritz-wagner-a-ee8be81d-613b-4e61-9242-ae8013732359#ref=rss)
+### magic
+
+* [https://www.spiegel.de/sport/basketball/nba-luka-doncic-fuehrt-dallas-mavericks-zu-sieg-gegen-orlando-magic-um-franz-und-moritz-wagner](https://www.spiegel.de/sport/basketball/nba-luka-doncic-fuehrt-dallas-mavericks-zu-sieg-gegen-orlando-magic-um-franz-und-moritz-wagner-a-ee8be81d-613b-4e61-9242-ae8013732359#ref=rss)
+### moritz
+
+* [https://www.spiegel.de/sport/basketball/nba-luka-doncic-fuehrt-dallas-mavericks-zu-sieg-gegen-orlando-magic-um-franz-und-moritz-wagner](https://www.spiegel.de/sport/basketball/nba-luka-doncic-fuehrt-dallas-mavericks-zu-sieg-gegen-orlando-magic-um-franz-und-moritz-wagner-a-ee8be81d-613b-4e61-9242-ae8013732359#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-manche-teilen-den-schuetzengraben-mit-toten](https://www.spiegel.de/ausland/krieg-in-der-ukraine-manche-teilen-den-schuetzengraben-mit-toten-a-eee05142-3887-48a5-a164-e966f5d0b847#ref=rss)
+### vielen
+
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-manche-teilen-den-schuetzengraben-mit-toten](https://www.spiegel.de/ausland/krieg-in-der-ukraine-manche-teilen-den-schuetzengraben-mit-toten-a-eee05142-3887-48a5-a164-e966f5d0b847#ref=rss)
+* [https://www.spiegel.de/ausland/lettland-kuendigt-zwangsausweisungen-von-russen-ohne-sprachkenntnisse-an](https://www.spiegel.de/ausland/lettland-kuendigt-zwangsausweisungen-von-russen-ohne-sprachkenntnisse-an-a-7c7b845a-381e-4a1d-9515-6db81677988b#ref=rss)
+### krankenhausreform
+
+* [https://www.spiegel.de/wirtschaft/soziales/krankenhausreform-patienten-bevorzugen-laut-umfrage-spezialkliniken-auch-wenn-weiter-weg](https://www.spiegel.de/wirtschaft/soziales/krankenhausreform-patienten-bevorzugen-laut-umfrage-spezialkliniken-auch-wenn-weiter-weg-a-8ea975af-0964-403e-b4c8-bd93bd17e187#ref=rss)
+### laut
+
+* [https://www.spiegel.de/wirtschaft/soziales/krankenhausreform-patienten-bevorzugen-laut-umfrage-spezialkliniken-auch-wenn-weiter-weg](https://www.spiegel.de/wirtschaft/soziales/krankenhausreform-patienten-bevorzugen-laut-umfrage-spezialkliniken-auch-wenn-weiter-weg-a-8ea975af-0964-403e-b4c8-bd93bd17e187#ref=rss)
+### umfrage
+
+* [https://www.spiegel.de/wirtschaft/soziales/krankenhausreform-patienten-bevorzugen-laut-umfrage-spezialkliniken-auch-wenn-weiter-weg](https://www.spiegel.de/wirtschaft/soziales/krankenhausreform-patienten-bevorzugen-laut-umfrage-spezialkliniken-auch-wenn-weiter-weg-a-8ea975af-0964-403e-b4c8-bd93bd17e187#ref=rss)
+### ländern
+
+* [https://www.spiegel.de/wirtschaft/soziales/krankenhausreform-patienten-bevorzugen-laut-umfrage-spezialkliniken-auch-wenn-weiter-weg](https://www.spiegel.de/wirtschaft/soziales/krankenhausreform-patienten-bevorzugen-laut-umfrage-spezialkliniken-auch-wenn-weiter-weg-a-8ea975af-0964-403e-b4c8-bd93bd17e187#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/marburger-bund-aerzte-an-zahlreichen-unikliniken-treten-in-warnstreik](https://www.spiegel.de/wirtschaft/unternehmen/marburger-bund-aerzte-an-zahlreichen-unikliniken-treten-in-warnstreik-a-4066a6e4-6ed1-4fb5-ac51-fec002d12ecc#ref=rss)
+### lettland
+
+* [https://www.spiegel.de/ausland/lettland-kuendigt-zwangsausweisungen-von-russen-ohne-sprachkenntnisse-an](https://www.spiegel.de/ausland/lettland-kuendigt-zwangsausweisungen-von-russen-ohne-sprachkenntnisse-an-a-7c7b845a-381e-4a1d-9515-6db81677988b#ref=rss)
+### russen
+
+* [https://www.spiegel.de/ausland/lettland-kuendigt-zwangsausweisungen-von-russen-ohne-sprachkenntnisse-an](https://www.spiegel.de/ausland/lettland-kuendigt-zwangsausweisungen-von-russen-ohne-sprachkenntnisse-an-a-7c7b845a-381e-4a1d-9515-6db81677988b#ref=rss)
+### charlie
+
+* [https://www.spiegel.de/panorama/leute/charlie-wilson-bekommt-hollywood-stern-rap-star-treffen-auf-dem-walk-of-fame](https://www.spiegel.de/panorama/leute/charlie-wilson-bekommt-hollywood-stern-rap-star-treffen-auf-dem-walk-of-fame-a-5dc1be3e-45ec-41e1-a053-efc7fa27d386#ref=rss)
+### wilson
+
+* [https://www.spiegel.de/panorama/leute/charlie-wilson-bekommt-hollywood-stern-rap-star-treffen-auf-dem-walk-of-fame](https://www.spiegel.de/panorama/leute/charlie-wilson-bekommt-hollywood-stern-rap-star-treffen-auf-dem-walk-of-fame-a-5dc1be3e-45ec-41e1-a053-efc7fa27d386#ref=rss)
+### marburger
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/marburger-bund-aerzte-an-zahlreichen-unikliniken-treten-in-warnstreik](https://www.spiegel.de/wirtschaft/unternehmen/marburger-bund-aerzte-an-zahlreichen-unikliniken-treten-in-warnstreik-a-4066a6e4-6ed1-4fb5-ac51-fec002d12ecc#ref=rss)
+### unikliniken
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/marburger-bund-aerzte-an-zahlreichen-unikliniken-treten-in-warnstreik](https://www.spiegel.de/wirtschaft/unternehmen/marburger-bund-aerzte-an-zahlreichen-unikliniken-treten-in-warnstreik-a-4066a6e4-6ed1-4fb5-ac51-fec002d12ecc#ref=rss)
+### warnstreik
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/marburger-bund-aerzte-an-zahlreichen-unikliniken-treten-in-warnstreik](https://www.spiegel.de/wirtschaft/unternehmen/marburger-bund-aerzte-an-zahlreichen-unikliniken-treten-in-warnstreik-a-4066a6e4-6ed1-4fb5-ac51-fec002d12ecc#ref=rss)
+### tages
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/marburger-bund-aerzte-an-zahlreichen-unikliniken-treten-in-warnstreik](https://www.spiegel.de/wirtschaft/unternehmen/marburger-bund-aerzte-an-zahlreichen-unikliniken-treten-in-warnstreik-a-4066a6e4-6ed1-4fb5-ac51-fec002d12ecc#ref=rss)
+* [https://www.spiegel.de/wissenschaft/neuralink-elon-musks-start-up-implantiert-erstmals-gehirnchip-beim-menschen](https://www.spiegel.de/wissenschaft/neuralink-elon-musks-start-up-implantiert-erstmals-gehirnchip-beim-menschen-a-eebf56bd-b47c-49b7-a268-86ae906349a4#ref=rss)
+### unrwa
+
+* [https://www.spiegel.de/ausland/palaestinenserhilfswerk-unrwa-antony-blinken-fordert-schnelle-aufklaerung-der-vorwuerfe](https://www.spiegel.de/ausland/palaestinenserhilfswerk-unrwa-antony-blinken-fordert-schnelle-aufklaerung-der-vorwuerfe-a-ee6dd7d7-7380-4289-9607-535ebbba7ce9#ref=rss)
+### blinken
+
+* [https://www.spiegel.de/ausland/palaestinenserhilfswerk-unrwa-antony-blinken-fordert-schnelle-aufklaerung-der-vorwuerfe](https://www.spiegel.de/ausland/palaestinenserhilfswerk-unrwa-antony-blinken-fordert-schnelle-aufklaerung-der-vorwuerfe-a-ee6dd7d7-7380-4289-9607-535ebbba7ce9#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/ausland/palaestinenserhilfswerk-unrwa-antony-blinken-fordert-schnelle-aufklaerung-der-vorwuerfe](https://www.spiegel.de/ausland/palaestinenserhilfswerk-unrwa-antony-blinken-fordert-schnelle-aufklaerung-der-vorwuerfe-a-ee6dd7d7-7380-4289-9607-535ebbba7ce9#ref=rss)
+### vorwürfe
+
+* [https://www.spiegel.de/ausland/palaestinenserhilfswerk-unrwa-antony-blinken-fordert-schnelle-aufklaerung-der-vorwuerfe](https://www.spiegel.de/ausland/palaestinenserhilfswerk-unrwa-antony-blinken-fordert-schnelle-aufklaerung-der-vorwuerfe-a-ee6dd7d7-7380-4289-9607-535ebbba7ce9#ref=rss)
+### rente
+
+* [https://www.spiegel.de/karriere/vor-der-rente-doppelt-verdienen-wie-das-teilrenten-modell-ohne-abschlaege-funktioniert](https://www.spiegel.de/karriere/vor-der-rente-doppelt-verdienen-wie-das-teilrenten-modell-ohne-abschlaege-funktioniert-a-d8ec91c7-2736-4b30-b189-21d4b0e4e2bb#ref=rss)
+### abschläge
+
+* [https://www.spiegel.de/karriere/vor-der-rente-doppelt-verdienen-wie-das-teilrenten-modell-ohne-abschlaege-funktioniert](https://www.spiegel.de/karriere/vor-der-rente-doppelt-verdienen-wie-das-teilrenten-modell-ohne-abschlaege-funktioniert-a-d8ec91c7-2736-4b30-b189-21d4b0e4e2bb#ref=rss)
+### funktioniert
+
+* [https://www.spiegel.de/karriere/vor-der-rente-doppelt-verdienen-wie-das-teilrenten-modell-ohne-abschlaege-funktioniert](https://www.spiegel.de/karriere/vor-der-rente-doppelt-verdienen-wie-das-teilrenten-modell-ohne-abschlaege-funktioniert-a-d8ec91c7-2736-4b30-b189-21d4b0e4e2bb#ref=rss)
+### suche
+
+* [https://www.spiegel.de/ausland/suche-nach-vize-praesidenten-donald-trumps-neue-casting-show](https://www.spiegel.de/ausland/suche-nach-vize-praesidenten-donald-trumps-neue-casting-show-a-6a1dd3f5-c00a-4a99-9ca0-6a4721284202#ref=rss)
+### wirklich
+
+* [https://www.spiegel.de/ausland/suche-nach-vize-praesidenten-donald-trumps-neue-casting-show](https://www.spiegel.de/ausland/suche-nach-vize-praesidenten-donald-trumps-neue-casting-show-a-6a1dd3f5-c00a-4a99-9ca0-6a4721284202#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-klima-kleber-haushalt-christian-lindner-aerzte-streik](https://www.spiegel.de/politik/deutschland/news-klima-kleber-haushalt-christian-lindner-aerzte-streik-a-9b82719c-3445-4414-8f81-50a4ccc964f6#ref=rss)
+### neuralink
+
+* [https://www.spiegel.de/wissenschaft/neuralink-elon-musks-start-up-implantiert-erstmals-gehirnchip-beim-menschen](https://www.spiegel.de/wissenschaft/neuralink-elon-musks-start-up-implantiert-erstmals-gehirnchip-beim-menschen-a-eebf56bd-b47c-49b7-a268-86ae906349a4#ref=rss)
+### elon
+
+* [https://www.spiegel.de/wissenschaft/neuralink-elon-musks-start-up-implantiert-erstmals-gehirnchip-beim-menschen](https://www.spiegel.de/wissenschaft/neuralink-elon-musks-start-up-implantiert-erstmals-gehirnchip-beim-menschen-a-eebf56bd-b47c-49b7-a268-86ae906349a4#ref=rss)
+### musks
+
+* [https://www.spiegel.de/wissenschaft/neuralink-elon-musks-start-up-implantiert-erstmals-gehirnchip-beim-menschen](https://www.spiegel.de/wissenschaft/neuralink-elon-musks-start-up-implantiert-erstmals-gehirnchip-beim-menschen-a-eebf56bd-b47c-49b7-a268-86ae906349a4#ref=rss)
 
