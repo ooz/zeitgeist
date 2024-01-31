@@ -4,294 +4,318 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutsche
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-pisa-ergebnisse-palaestinenserstaat-streiks-in-deutschland](https://www.spiegel.de/politik/deutschland/news-des-tages-pisa-ergebnisse-palaestinenserstaat-streiks-in-deutschland-a-7344f403-ecbf-40aa-8cb0-7245650d9e12#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/marco-buschmann-fdp-befuerwortet-staerkeren-schutz-des-bundesverfassungsgerichts](https://www.spiegel.de/politik/deutschland/marco-buschmann-fdp-befuerwortet-staerkeren-schutz-des-bundesverfassungsgerichts-a-e53d465c-0595-4e77-bfc9-e810a34f8a1e#ref=rss)
-* [https://www.spiegel.de/sport/sara-benfares-unter-doping-verdacht-deutsche-leichtathletin-positiv-getestet](https://www.spiegel.de/sport/sara-benfares-unter-doping-verdacht-deutsche-leichtathletin-positiv-getestet-a-cd8b6998-9548-4fc6-aeb3-25959cec930c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/migration-ba-vorstaendin-vanessa-ahuja-ohne-zuwanderung-waere-der-deutsche-arbeitsmarkt-schlicht-platt](https://www.spiegel.de/wirtschaft/migration-ba-vorstaendin-vanessa-ahuja-ohne-zuwanderung-waere-der-deutsche-arbeitsmarkt-schlicht-platt-a-2f726f3c-1c6c-42cd-993d-17518718cf7b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirtschaft-brandbrief-an-olaf-scholz-verbaende-fordern-reformen](https://www.spiegel.de/wirtschaft/wirtschaft-brandbrief-an-olaf-scholz-verbaende-fordern-reformen-a-a294e6b3-56e2-49b5-ad20-8f2613435d98#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-iwf-rechnet-mit-geringerem-wirtschaftswachstum-in-deutschland-als-bisher](https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-iwf-rechnet-mit-geringerem-wirtschaftswachstum-in-deutschland-als-bisher-a-226d72a7-89bd-4061-bd42-138c00460464#ref=rss)
-### bundestag
-
-* [https://www.spiegel.de/politik/deutschland/bundestag-linke-und-buendnis-sahra-wagenknecht-bleiben-seite-an-seite-im-bundestag](https://www.spiegel.de/politik/deutschland/bundestag-linke-und-buendnis-sahra-wagenknecht-bleiben-seite-an-seite-im-bundestag-a-bfe909c3-9e69-4d74-a7d3-ebf75983d79a#ref=rss)
-* [https://www.spiegel.de/politik/berlin-haushalt-im-bundestag-und-protest-in-der-spree](https://www.spiegel.de/politik/berlin-haushalt-im-bundestag-und-protest-in-der-spree-a-a31a43eb-d859-4255-92cb-d3fe6414c025#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/afd-in-thueringen-wenn-verfassungsfeinde-an-die-macht-kommen-wie-kann-sich-die-demokratie-dann-wehren](https://www.spiegel.de/politik/deutschland/afd-in-thueringen-wenn-verfassungsfeinde-an-die-macht-kommen-wie-kann-sich-die-demokratie-dann-wehren-a-cff11862-56ff-4090-879c-13bde912f947#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-roland-ulbrich-gibt-nach-umstrittenen-aeusserungen-parteiamt-auf](https://www.spiegel.de/politik/deutschland/afd-roland-ulbrich-gibt-nach-umstrittenen-aeusserungen-parteiamt-auf-a-e7e7fb18-5b43-400a-9af4-22bac27728dc#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-pisa-ergebnisse-palaestinenserstaat-streiks-in-deutschland](https://www.spiegel.de/politik/deutschland/news-des-tages-pisa-ergebnisse-palaestinenserstaat-streiks-in-deutschland-a-7344f403-ecbf-40aa-8cb0-7245650d9e12#ref=rss)
-* [https://www.spiegel.de/gesundheit/hunde-wie-sich-vierbeiner-auf-die-gesundheit-von-kindern-auswirken](https://www.spiegel.de/gesundheit/hunde-wie-sich-vierbeiner-auf-die-gesundheit-von-kindern-auswirken-a-e41e843d-851b-46e9-bc7a-cb39ca659858#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-iwf-rechnet-mit-geringerem-wirtschaftswachstum-in-deutschland-als-bisher](https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-iwf-rechnet-mit-geringerem-wirtschaftswachstum-in-deutschland-als-bisher-a-226d72a7-89bd-4061-bd42-138c00460464#ref=rss)
-### verdi
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-pisa-ergebnisse-palaestinenserstaat-streiks-in-deutschland](https://www.spiegel.de/politik/deutschland/news-des-tages-pisa-ergebnisse-palaestinenserstaat-streiks-in-deutschland-a-7344f403-ecbf-40aa-8cb0-7245650d9e12#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ver-di-plant-offenbar-bundesweiten-streik-der-sicherheitskraefte-an-flughaefen](https://www.spiegel.de/wirtschaft/ver-di-plant-offenbar-bundesweiten-streik-der-sicherheitskraefte-an-flughaefen-a-e3def9a3-30e1-4725-858b-6aaa75626088#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/politik/berlin-haushalt-im-bundestag-und-protest-in-der-spree](https://www.spiegel.de/politik/berlin-haushalt-im-bundestag-und-protest-in-der-spree-a-a31a43eb-d859-4255-92cb-d3fe6414c025#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-krankenpfleger-soll-geld-von-corona-patienten-gestohlen-haben](https://www.spiegel.de/panorama/justiz/berlin-krankenpfleger-soll-geld-von-corona-patienten-gestohlen-haben-a-836e26ee-1827-4133-96d2-573670c84f4b#ref=rss)
-### unter
-
-* [https://www.spiegel.de/panorama/justiz/berlin-krankenpfleger-soll-geld-von-corona-patienten-gestohlen-haben](https://www.spiegel.de/panorama/justiz/berlin-krankenpfleger-soll-geld-von-corona-patienten-gestohlen-haben-a-836e26ee-1827-4133-96d2-573670c84f4b#ref=rss)
-* [https://www.spiegel.de/sport/sara-benfares-unter-doping-verdacht-deutsche-leichtathletin-positiv-getestet](https://www.spiegel.de/sport/sara-benfares-unter-doping-verdacht-deutsche-leichtathletin-positiv-getestet-a-cd8b6998-9548-4fc6-aeb3-25959cec930c#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-und-nahost-david-cameron-offen-fuer-anerkennung-von-palaestinenserstaat](https://www.spiegel.de/ausland/grossbritannien-und-nahost-david-cameron-offen-fuer-anerkennung-von-palaestinenserstaat-a-21c09e63-1b71-4dd0-b11e-1cdde0d53d02#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-kartellamt-genehmigt-tv-plaene-der-dfl-sportschau-auf-der-kippe](https://www.spiegel.de/sport/fussball/fussball-bundesliga-kartellamt-genehmigt-tv-plaene-der-dfl-sportschau-auf-der-kippe-a-23f7477e-5d5c-435d-9971-1ac0fcc1c89b#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/hamburg-wird-2030-die-zwei-millionen-einwohnermarke-ueberschreiten](https://www.spiegel.de/panorama/gesellschaft/hamburg-wird-2030-die-zwei-millionen-einwohnermarke-ueberschreiten-a-eacef325-0f3b-4b8c-a2e4-347ca99313e8#ref=rss)
-* [https://www.spiegel.de/gesundheit/hunde-wie-sich-vierbeiner-auf-die-gesundheit-von-kindern-auswirken](https://www.spiegel.de/gesundheit/hunde-wie-sich-vierbeiner-auf-die-gesundheit-von-kindern-auswirken-a-e41e843d-851b-46e9-bc7a-cb39ca659858#ref=rss)
-### dazu
+* [https://www.spiegel.de/politik/deutschland/antisemitismus-baerbel-bas-erklaert-nie-wieder-zur-aufgabe-der-gesamten-gesellschaft](https://www.spiegel.de/politik/deutschland/antisemitismus-baerbel-bas-erklaert-nie-wieder-zur-aufgabe-der-gesamten-gesellschaft-a-2b50efff-aa2e-4f53-a37b-ac680c0a9931#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bafoeg-reform-bildungsministerium-kann-auswirkung-des-gesetzentwurfs-noch-nicht-einschaetzen](https://www.spiegel.de/panorama/bildung/bafoeg-reform-bildungsministerium-kann-auswirkung-des-gesetzentwurfs-noch-nicht-einschaetzen-a-2faa9d97-b208-4f1c-9483-cbc3c7d1ab2f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ampelparteien-reagieren-auf-vorwuerfe-der-wahlrechtsmanpulation-empoert](https://www.spiegel.de/politik/deutschland/friedrich-merz-ampelparteien-reagieren-auf-vorwuerfe-der-wahlrechtsmanpulation-empoert-a-dadd3751-d5c1-4ee0-b1c7-0900e4f60ef0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/zahl-der-arbeitslosen-in-deutschland-steigt-im-januar](https://www.spiegel.de/wirtschaft/soziales/zahl-der-arbeitslosen-in-deutschland-steigt-im-januar-a-11e57fc9-3a1a-4fda-9557-6fb99328f1a6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/herkunft-von-fleisch-mehr-transparenz-an-der-theke-speisekarten-sollen-folgen](https://www.spiegel.de/wirtschaft/service/herkunft-von-fleisch-mehr-transparenz-an-der-theke-speisekarten-sollen-folgen-a-d3015fca-40c1-49f3-96f2-4be6ff9d7039#ref=rss)
+* [https://www.spiegel.de/wirtschaft/herkunftslaender-von-honig-muessen-auf-der-verpackung-stehen](https://www.spiegel.de/wirtschaft/herkunftslaender-von-honig-muessen-auf-der-verpackung-stehen-a-d34f7990-d878-474a-9725-2d03fa523562#ref=rss)
+### bundestag
 
-* [https://www.spiegel.de/politik/deutschland/marco-buschmann-fdp-befuerwortet-staerkeren-schutz-des-bundesverfassungsgerichts](https://www.spiegel.de/politik/deutschland/marco-buschmann-fdp-befuerwortet-staerkeren-schutz-des-bundesverfassungsgerichts-a-e53d465c-0595-4e77-bfc9-e810a34f8a1e#ref=rss)
-* [https://www.spiegel.de/gesundheit/hunde-wie-sich-vierbeiner-auf-die-gesundheit-von-kindern-auswirken](https://www.spiegel.de/gesundheit/hunde-wie-sich-vierbeiner-auf-die-gesundheit-von-kindern-auswirken-a-e41e843d-851b-46e9-bc7a-cb39ca659858#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ver-di-plant-offenbar-bundesweiten-streik-der-sicherheitskraefte-an-flughaefen](https://www.spiegel.de/wirtschaft/ver-di-plant-offenbar-bundesweiten-streik-der-sicherheitskraefte-an-flughaefen-a-e3def9a3-30e1-4725-858b-6aaa75626088#ref=rss)
-### wirtschaft
+* [https://www.spiegel.de/politik/deutschland/antisemitismus-baerbel-bas-erklaert-nie-wieder-zur-aufgabe-der-gesamten-gesellschaft](https://www.spiegel.de/politik/deutschland/antisemitismus-baerbel-bas-erklaert-nie-wieder-zur-aufgabe-der-gesamten-gesellschaft-a-2b50efff-aa2e-4f53-a37b-ac680c0a9931#ref=rss)
+* [https://www.spiegel.de/politik/holocaust-bundestag-gedenkt-der-opfer-des-nationalsozialismus](https://www.spiegel.de/politik/holocaust-bundestag-gedenkt-der-opfer-des-nationalsozialismus-a-a74b7618-e517-4d25-adb1-2b9355ff8f66#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-haushalt-bundeswehr-holocaust-gedenken-die-basis](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-haushalt-bundeswehr-holocaust-gedenken-die-basis-a-f862131f-38ad-42bb-82e1-f70deac5617c#ref=rss)
+### laut
 
-* [https://www.spiegel.de/wirtschaft/wirtschaft-brandbrief-an-olaf-scholz-verbaende-fordern-reformen](https://www.spiegel.de/wirtschaft/wirtschaft-brandbrief-an-olaf-scholz-verbaende-fordern-reformen-a-a294e6b3-56e2-49b5-ad20-8f2613435d98#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-iwf-rechnet-mit-geringerem-wirtschaftswachstum-in-deutschland-als-bisher](https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-iwf-rechnet-mit-geringerem-wirtschaftswachstum-in-deutschland-als-bisher-a-226d72a7-89bd-4061-bd42-138c00460464#ref=rss)
-### linke
+* [https://www.spiegel.de/karriere/manager-ohne-kompetenz-sitzen-die-falschen-in-den-chefetagen-herr-von-rosty](https://www.spiegel.de/karriere/manager-ohne-kompetenz-sitzen-die-falschen-in-den-chefetagen-herr-von-rosty-a-922a92ca-015b-482f-b1a7-a66993a12309#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/e-auto-absatz-deutsche-hersteller-holen-in-china-etwas-auf](https://www.spiegel.de/wirtschaft/unternehmen/e-auto-absatz-deutsche-hersteller-holen-in-china-etwas-auf-a-faa24683-6871-4963-b3ec-0eac1f4d2d59#ref=rss)
+* [https://www.spiegel.de/ausland/israel-armee-bestaetigt-tunnelflutung-in-gaza](https://www.spiegel.de/ausland/israel-armee-bestaetigt-tunnelflutung-in-gaza-a-c6dc0ba6-935f-4faa-9d16-998c67d7abd3#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-im-gazastreifen-ist-offenbar-mindestens-die-haelfte-aller-gebaeude-beschaedigt-oder-zerstoert](https://www.spiegel.de/ausland/israel-gaza-krieg-im-gazastreifen-ist-offenbar-mindestens-die-haelfte-aller-gebaeude-beschaedigt-oder-zerstoert-a-59e96452-27a5-4e0d-a442-49e51a72540f#ref=rss)
+### olaf
 
-* [https://www.spiegel.de/politik/deutschland/bundestag-linke-und-buendnis-sahra-wagenknecht-bleiben-seite-an-seite-im-bundestag](https://www.spiegel.de/politik/deutschland/bundestag-linke-und-buendnis-sahra-wagenknecht-bleiben-seite-an-seite-im-bundestag-a-bfe909c3-9e69-4d74-a7d3-ebf75983d79a#ref=rss)
-### sahra
-
-* [https://www.spiegel.de/politik/deutschland/bundestag-linke-und-buendnis-sahra-wagenknecht-bleiben-seite-an-seite-im-bundestag](https://www.spiegel.de/politik/deutschland/bundestag-linke-und-buendnis-sahra-wagenknecht-bleiben-seite-an-seite-im-bundestag-a-bfe909c3-9e69-4d74-a7d3-ebf75983d79a#ref=rss)
-### seite
-
-* [https://www.spiegel.de/politik/deutschland/bundestag-linke-und-buendnis-sahra-wagenknecht-bleiben-seite-an-seite-im-bundestag](https://www.spiegel.de/politik/deutschland/bundestag-linke-und-buendnis-sahra-wagenknecht-bleiben-seite-an-seite-im-bundestag-a-bfe909c3-9e69-4d74-a7d3-ebf75983d79a#ref=rss)
-### woche
-
-* [https://www.spiegel.de/politik/deutschland/bundestag-linke-und-buendnis-sahra-wagenknecht-bleiben-seite-an-seite-im-bundestag](https://www.spiegel.de/politik/deutschland/bundestag-linke-und-buendnis-sahra-wagenknecht-bleiben-seite-an-seite-im-bundestag-a-bfe909c3-9e69-4d74-a7d3-ebf75983d79a#ref=rss)
-* [https://www.spiegel.de/kultur/tv/dschungelcamp-2024-tag-11-erst-kamel-anus-und-mauseschwanzpueree-dann-mit-dem-kamm-durch-den-schnurrbart](https://www.spiegel.de/kultur/tv/dschungelcamp-2024-tag-11-erst-kamel-anus-und-mauseschwanzpueree-dann-mit-dem-kamm-durch-den-schnurrbart-a-ae8cfb1a-7969-4cc2-8969-df4f654d3613#ref=rss)
-### ganz
-
-* [https://www.spiegel.de/politik/deutschland/bundestag-linke-und-buendnis-sahra-wagenknecht-bleiben-seite-an-seite-im-bundestag](https://www.spiegel.de/politik/deutschland/bundestag-linke-und-buendnis-sahra-wagenknecht-bleiben-seite-an-seite-im-bundestag-a-bfe909c3-9e69-4d74-a7d3-ebf75983d79a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ingolstadt-prozess-um-tote-doppelgaengerin-angeklagte-beschuldigt-mitangeklagten](https://www.spiegel.de/panorama/justiz/ingolstadt-prozess-um-tote-doppelgaengerin-angeklagte-beschuldigt-mitangeklagten-a-77b23477-e523-4048-b4cf-c220b6bdc93c#ref=rss)
-### sitzen
-
-* [https://www.spiegel.de/politik/deutschland/bundestag-linke-und-buendnis-sahra-wagenknecht-bleiben-seite-an-seite-im-bundestag](https://www.spiegel.de/politik/deutschland/bundestag-linke-und-buendnis-sahra-wagenknecht-bleiben-seite-an-seite-im-bundestag-a-bfe909c3-9e69-4d74-a7d3-ebf75983d79a#ref=rss)
-* [https://www.spiegel.de/ausland/bi-2-thailand-plant-abschiebung-regimekritischer-russischer-band](https://www.spiegel.de/ausland/bi-2-thailand-plant-abschiebung-regimekritischer-russischer-band-a-8d13856f-dad6-41ec-8682-4d44cec4bf42#ref=rss)
-### palästinenserstaat
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-pisa-ergebnisse-palaestinenserstaat-streiks-in-deutschland](https://www.spiegel.de/politik/deutschland/news-des-tages-pisa-ergebnisse-palaestinenserstaat-streiks-in-deutschland-a-7344f403-ecbf-40aa-8cb0-7245650d9e12#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-und-nahost-david-cameron-offen-fuer-anerkennung-von-palaestinenserstaat](https://www.spiegel.de/ausland/grossbritannien-und-nahost-david-cameron-offen-fuer-anerkennung-von-palaestinenserstaat-a-21c09e63-1b71-4dd0-b11e-1cdde0d53d02#ref=rss)
-### großbritannien
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-pisa-ergebnisse-palaestinenserstaat-streiks-in-deutschland](https://www.spiegel.de/politik/deutschland/news-des-tages-pisa-ergebnisse-palaestinenserstaat-streiks-in-deutschland-a-7344f403-ecbf-40aa-8cb0-7245650d9e12#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-und-nahost-david-cameron-offen-fuer-anerkennung-von-palaestinenserstaat](https://www.spiegel.de/ausland/grossbritannien-und-nahost-david-cameron-offen-fuer-anerkennung-von-palaestinenserstaat-a-21c09e63-1b71-4dd0-b11e-1cdde0d53d02#ref=rss)
-### anerkennung
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-pisa-ergebnisse-palaestinenserstaat-streiks-in-deutschland](https://www.spiegel.de/politik/deutschland/news-des-tages-pisa-ergebnisse-palaestinenserstaat-streiks-in-deutschland-a-7344f403-ecbf-40aa-8cb0-7245650d9e12#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-und-nahost-david-cameron-offen-fuer-anerkennung-von-palaestinenserstaat](https://www.spiegel.de/ausland/grossbritannien-und-nahost-david-cameron-offen-fuer-anerkennung-von-palaestinenserstaat-a-21c09e63-1b71-4dd0-b11e-1cdde0d53d02#ref=rss)
-### flughäfen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-pisa-ergebnisse-palaestinenserstaat-streiks-in-deutschland](https://www.spiegel.de/politik/deutschland/news-des-tages-pisa-ergebnisse-palaestinenserstaat-streiks-in-deutschland-a-7344f403-ecbf-40aa-8cb0-7245650d9e12#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ver-di-plant-offenbar-bundesweiten-streik-der-sicherheitskraefte-an-flughaefen](https://www.spiegel.de/wirtschaft/ver-di-plant-offenbar-bundesweiten-streik-der-sicherheitskraefte-an-flughaefen-a-e3def9a3-30e1-4725-858b-6aaa75626088#ref=rss)
-### haushalt
-
-* [https://www.spiegel.de/politik/berlin-haushalt-im-bundestag-und-protest-in-der-spree](https://www.spiegel.de/politik/berlin-haushalt-im-bundestag-und-protest-in-der-spree-a-a31a43eb-d859-4255-92cb-d3fe6414c025#ref=rss)
-### spree
-
-* [https://www.spiegel.de/politik/berlin-haushalt-im-bundestag-und-protest-in-der-spree](https://www.spiegel.de/politik/berlin-haushalt-im-bundestag-und-protest-in-der-spree-a-a31a43eb-d859-4255-92cb-d3fe6414c025#ref=rss)
-### nahe
-
-* [https://www.spiegel.de/politik/berlin-haushalt-im-bundestag-und-protest-in-der-spree](https://www.spiegel.de/politik/berlin-haushalt-im-bundestag-und-protest-in-der-spree-a-a31a43eb-d859-4255-92cb-d3fe6414c025#ref=rss)
-* [https://www.spiegel.de/wirtschaft/migration-ba-vorstaendin-vanessa-ahuja-ohne-zuwanderung-waere-der-deutsche-arbeitsmarkt-schlicht-platt](https://www.spiegel.de/wirtschaft/migration-ba-vorstaendin-vanessa-ahuja-ohne-zuwanderung-waere-der-deutsche-arbeitsmarkt-schlicht-platt-a-2f726f3c-1c6c-42cd-993d-17518718cf7b#ref=rss)
-### große
-
-* [https://www.spiegel.de/panorama/justiz/berlin-krankenpfleger-soll-geld-von-corona-patienten-gestohlen-haben](https://www.spiegel.de/panorama/justiz/berlin-krankenpfleger-soll-geld-von-corona-patienten-gestohlen-haben-a-836e26ee-1827-4133-96d2-573670c84f4b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/drohendes-einreiseverbot-die-grosse-grenz-pr-show-des-martin-sellner](https://www.spiegel.de/politik/deutschland/drohendes-einreiseverbot-die-grosse-grenz-pr-show-des-martin-sellner-a-339d1580-4e50-4d57-aa31-593b387ce33a#ref=rss)
-### legt
-
-* [https://www.spiegel.de/ausland/donald-trump-cyber-angriff-legt-buero-von-anklaegerin-fani-willis-in-georgia-lahm](https://www.spiegel.de/ausland/donald-trump-cyber-angriff-legt-buero-von-anklaegerin-fani-willis-in-georgia-lahm-a-afb66233-7c1f-48bf-9155-7a5757955b22#ref=rss)
-* [https://www.spiegel.de/wirtschaft/migration-ba-vorstaendin-vanessa-ahuja-ohne-zuwanderung-waere-der-deutsche-arbeitsmarkt-schlicht-platt](https://www.spiegel.de/wirtschaft/migration-ba-vorstaendin-vanessa-ahuja-ohne-zuwanderung-waere-der-deutsche-arbeitsmarkt-schlicht-platt-a-2f726f3c-1c6c-42cd-993d-17518718cf7b#ref=rss)
-### büro
-
-* [https://www.spiegel.de/ausland/donald-trump-cyber-angriff-legt-buero-von-anklaegerin-fani-willis-in-georgia-lahm](https://www.spiegel.de/ausland/donald-trump-cyber-angriff-legt-buero-von-anklaegerin-fani-willis-in-georgia-lahm-a-afb66233-7c1f-48bf-9155-7a5757955b22#ref=rss)
-### anklägerin
-
-* [https://www.spiegel.de/ausland/donald-trump-cyber-angriff-legt-buero-von-anklaegerin-fani-willis-in-georgia-lahm](https://www.spiegel.de/ausland/donald-trump-cyber-angriff-legt-buero-von-anklaegerin-fani-willis-in-georgia-lahm-a-afb66233-7c1f-48bf-9155-7a5757955b22#ref=rss)
-### fani
-
-* [https://www.spiegel.de/ausland/donald-trump-cyber-angriff-legt-buero-von-anklaegerin-fani-willis-in-georgia-lahm](https://www.spiegel.de/ausland/donald-trump-cyber-angriff-legt-buero-von-anklaegerin-fani-willis-in-georgia-lahm-a-afb66233-7c1f-48bf-9155-7a5757955b22#ref=rss)
-### willis
-
-* [https://www.spiegel.de/ausland/donald-trump-cyber-angriff-legt-buero-von-anklaegerin-fani-willis-in-georgia-lahm](https://www.spiegel.de/ausland/donald-trump-cyber-angriff-legt-buero-von-anklaegerin-fani-willis-in-georgia-lahm-a-afb66233-7c1f-48bf-9155-7a5757955b22#ref=rss)
-### derzeit
-
-* [https://www.spiegel.de/ausland/donald-trump-cyber-angriff-legt-buero-von-anklaegerin-fani-willis-in-georgia-lahm](https://www.spiegel.de/ausland/donald-trump-cyber-angriff-legt-buero-von-anklaegerin-fani-willis-in-georgia-lahm-a-afb66233-7c1f-48bf-9155-7a5757955b22#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-iwf-rechnet-mit-geringerem-wirtschaftswachstum-in-deutschland-als-bisher](https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-iwf-rechnet-mit-geringerem-wirtschaftswachstum-in-deutschland-als-bisher-a-226d72a7-89bd-4061-bd42-138c00460464#ref=rss)
-### ingolstadt
-
-* [https://www.spiegel.de/panorama/justiz/ingolstadt-prozess-um-tote-doppelgaengerin-angeklagte-beschuldigt-mitangeklagten](https://www.spiegel.de/panorama/justiz/ingolstadt-prozess-um-tote-doppelgaengerin-angeklagte-beschuldigt-mitangeklagten-a-77b23477-e523-4048-b4cf-c220b6bdc93c#ref=rss)
-### tote
-
-* [https://www.spiegel.de/panorama/justiz/ingolstadt-prozess-um-tote-doppelgaengerin-angeklagte-beschuldigt-mitangeklagten](https://www.spiegel.de/panorama/justiz/ingolstadt-prozess-um-tote-doppelgaengerin-angeklagte-beschuldigt-mitangeklagten-a-77b23477-e523-4048-b4cf-c220b6bdc93c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/frankenberg-tote-wuergeschlange-an-reitplatz-in-langenstriegis-gefunden](https://www.spiegel.de/panorama/justiz/frankenberg-tote-wuergeschlange-an-reitplatz-in-langenstriegis-gefunden-a-7a97f083-be6c-4aaa-bb2c-ec25beac7bc0#ref=rss)
-### doppelgängerin
-
-* [https://www.spiegel.de/panorama/justiz/ingolstadt-prozess-um-tote-doppelgaengerin-angeklagte-beschuldigt-mitangeklagten](https://www.spiegel.de/panorama/justiz/ingolstadt-prozess-um-tote-doppelgaengerin-angeklagte-beschuldigt-mitangeklagten-a-77b23477-e523-4048-b4cf-c220b6bdc93c#ref=rss)
-### getötet
-
-* [https://www.spiegel.de/panorama/justiz/ingolstadt-prozess-um-tote-doppelgaengerin-angeklagte-beschuldigt-mitangeklagten](https://www.spiegel.de/panorama/justiz/ingolstadt-prozess-um-tote-doppelgaengerin-angeklagte-beschuldigt-mitangeklagten-a-77b23477-e523-4048-b4cf-c220b6bdc93c#ref=rss)
-* [https://www.spiegel.de/ausland/israel-spezialkraefte-toeten-drei-militante-palaestinenser-im-westjordanland](https://www.spiegel.de/ausland/israel-spezialkraefte-toeten-drei-militante-palaestinenser-im-westjordanland-a-9b6d035e-2cce-477d-898d-e8e90bb4e253#ref=rss)
-### genehmigt
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-kartellamt-genehmigt-tv-plaene-der-dfl-sportschau-auf-der-kippe](https://www.spiegel.de/sport/fussball/fussball-bundesliga-kartellamt-genehmigt-tv-plaene-der-dfl-sportschau-auf-der-kippe-a-23f7477e-5d5c-435d-9971-1ac0fcc1c89b#ref=rss)
-### dfl
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-kartellamt-genehmigt-tv-plaene-der-dfl-sportschau-auf-der-kippe](https://www.spiegel.de/sport/fussball/fussball-bundesliga-kartellamt-genehmigt-tv-plaene-der-dfl-sportschau-auf-der-kippe-a-23f7477e-5d5c-435d-9971-1ac0fcc1c89b#ref=rss)
-### sportschau
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-kartellamt-genehmigt-tv-plaene-der-dfl-sportschau-auf-der-kippe](https://www.spiegel.de/sport/fussball/fussball-bundesliga-kartellamt-genehmigt-tv-plaene-der-dfl-sportschau-auf-der-kippe-a-23f7477e-5d5c-435d-9971-1ac0fcc1c89b#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/ecowas-austritt-russland-gewinnt-den-kampf-um-einfluss](https://www.spiegel.de/ausland/ecowas-austritt-russland-gewinnt-den-kampf-um-einfluss-a-7e6f48c4-2291-41cb-be45-8414ddabbaa9#ref=rss)
-### drei
-
-* [https://www.spiegel.de/ausland/ecowas-austritt-russland-gewinnt-den-kampf-um-einfluss](https://www.spiegel.de/ausland/ecowas-austritt-russland-gewinnt-den-kampf-um-einfluss-a-7e6f48c4-2291-41cb-be45-8414ddabbaa9#ref=rss)
-* [https://www.spiegel.de/ausland/israel-spezialkraefte-toeten-drei-militante-palaestinenser-im-westjordanland](https://www.spiegel.de/ausland/israel-spezialkraefte-toeten-drei-militante-palaestinenser-im-westjordanland-a-9b6d035e-2cce-477d-898d-e8e90bb4e253#ref=rss)
-### marco
-
-* [https://www.spiegel.de/politik/deutschland/marco-buschmann-fdp-befuerwortet-staerkeren-schutz-des-bundesverfassungsgerichts](https://www.spiegel.de/politik/deutschland/marco-buschmann-fdp-befuerwortet-staerkeren-schutz-des-bundesverfassungsgerichts-a-e53d465c-0595-4e77-bfc9-e810a34f8a1e#ref=rss)
-### buschmann
-
-* [https://www.spiegel.de/politik/deutschland/marco-buschmann-fdp-befuerwortet-staerkeren-schutz-des-bundesverfassungsgerichts](https://www.spiegel.de/politik/deutschland/marco-buschmann-fdp-befuerwortet-staerkeren-schutz-des-bundesverfassungsgerichts-a-e53d465c-0595-4e77-bfc9-e810a34f8a1e#ref=rss)
-### besser
-
-* [https://www.spiegel.de/politik/deutschland/marco-buschmann-fdp-befuerwortet-staerkeren-schutz-des-bundesverfassungsgerichts](https://www.spiegel.de/politik/deutschland/marco-buschmann-fdp-befuerwortet-staerkeren-schutz-des-bundesverfassungsgerichts-a-e53d465c-0595-4e77-bfc9-e810a34f8a1e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-iwf-rechnet-mit-geringerem-wirtschaftswachstum-in-deutschland-als-bisher](https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-iwf-rechnet-mit-geringerem-wirtschaftswachstum-in-deutschland-als-bisher-a-226d72a7-89bd-4061-bd42-138c00460464#ref=rss)
-### elfenbeinküste
-
-* [https://www.spiegel.de/sport/fussball/elfenbeinkueste-im-afrika-cup-es-lebe-der-trainerwechsel-jetzt-auch-waehrend-des-turniers](https://www.spiegel.de/sport/fussball/elfenbeinkueste-im-afrika-cup-es-lebe-der-trainerwechsel-jetzt-auch-waehrend-des-turniers-a-9e142eda-7087-4d1c-ba3f-41c6497984ea#ref=rss)
-### martin
-
-* [https://www.spiegel.de/politik/deutschland/drohendes-einreiseverbot-die-grosse-grenz-pr-show-des-martin-sellner](https://www.spiegel.de/politik/deutschland/drohendes-einreiseverbot-die-grosse-grenz-pr-show-des-martin-sellner-a-339d1580-4e50-4d57-aa31-593b387ce33a#ref=rss)
-### sellner
-
-* [https://www.spiegel.de/politik/deutschland/drohendes-einreiseverbot-die-grosse-grenz-pr-show-des-martin-sellner](https://www.spiegel.de/politik/deutschland/drohendes-einreiseverbot-die-grosse-grenz-pr-show-des-martin-sellner-a-339d1580-4e50-4d57-aa31-593b387ce33a#ref=rss)
-### getestet
-
-* [https://www.spiegel.de/politik/deutschland/drohendes-einreiseverbot-die-grosse-grenz-pr-show-des-martin-sellner](https://www.spiegel.de/politik/deutschland/drohendes-einreiseverbot-die-grosse-grenz-pr-show-des-martin-sellner-a-339d1580-4e50-4d57-aa31-593b387ce33a#ref=rss)
-* [https://www.spiegel.de/sport/sara-benfares-unter-doping-verdacht-deutsche-leichtathletin-positiv-getestet](https://www.spiegel.de/sport/sara-benfares-unter-doping-verdacht-deutsche-leichtathletin-positiv-getestet-a-cd8b6998-9548-4fc6-aeb3-25959cec930c#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/politik/deutschland/drohendes-einreiseverbot-die-grosse-grenz-pr-show-des-martin-sellner](https://www.spiegel.de/politik/deutschland/drohendes-einreiseverbot-die-grosse-grenz-pr-show-des-martin-sellner-a-339d1580-4e50-4d57-aa31-593b387ce33a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/continental-eu-ermittler-durchsuchen-reifen-hersteller-wegen-kartell-verdacht](https://www.spiegel.de/wirtschaft/unternehmen/continental-eu-ermittler-durchsuchen-reifen-hersteller-wegen-kartell-verdacht-a-c89ddec0-7c9a-4674-96b0-8f502ae2b5ab#ref=rss)
-### reitplatz
-
-* [https://www.spiegel.de/panorama/justiz/frankenberg-tote-wuergeschlange-an-reitplatz-in-langenstriegis-gefunden](https://www.spiegel.de/panorama/justiz/frankenberg-tote-wuergeschlange-an-reitplatz-in-langenstriegis-gefunden-a-7a97f083-be6c-4aaa-bb2c-ec25beac7bc0#ref=rss)
-### gefunden
-
-* [https://www.spiegel.de/panorama/justiz/frankenberg-tote-wuergeschlange-an-reitplatz-in-langenstriegis-gefunden](https://www.spiegel.de/panorama/justiz/frankenberg-tote-wuergeschlange-an-reitplatz-in-langenstriegis-gefunden-a-7a97f083-be6c-4aaa-bb2c-ec25beac7bc0#ref=rss)
-### the
-
-* [https://www.spiegel.de/kultur/the-crown-prinz-charles-darsteller-dominic-west-froh-ueber-serienende](https://www.spiegel.de/kultur/the-crown-prinz-charles-darsteller-dominic-west-froh-ueber-serienende-a-b0e2f777-e22b-4cf5-bb20-a98e53ca9191#ref=rss)
-### crown
-
-* [https://www.spiegel.de/kultur/the-crown-prinz-charles-darsteller-dominic-west-froh-ueber-serienende](https://www.spiegel.de/kultur/the-crown-prinz-charles-darsteller-dominic-west-froh-ueber-serienende-a-b0e2f777-e22b-4cf5-bb20-a98e53ca9191#ref=rss)
-### dominic
-
-* [https://www.spiegel.de/kultur/the-crown-prinz-charles-darsteller-dominic-west-froh-ueber-serienende](https://www.spiegel.de/kultur/the-crown-prinz-charles-darsteller-dominic-west-froh-ueber-serienende-a-b0e2f777-e22b-4cf5-bb20-a98e53ca9191#ref=rss)
-### west
-
-* [https://www.spiegel.de/kultur/the-crown-prinz-charles-darsteller-dominic-west-froh-ueber-serienende](https://www.spiegel.de/kultur/the-crown-prinz-charles-darsteller-dominic-west-froh-ueber-serienende-a-b0e2f777-e22b-4cf5-bb20-a98e53ca9191#ref=rss)
-### britische
-
-* [https://www.spiegel.de/kultur/the-crown-prinz-charles-darsteller-dominic-west-froh-ueber-serienende](https://www.spiegel.de/kultur/the-crown-prinz-charles-darsteller-dominic-west-froh-ueber-serienende-a-b0e2f777-e22b-4cf5-bb20-a98e53ca9191#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-und-nahost-david-cameron-offen-fuer-anerkennung-von-palaestinenserstaat](https://www.spiegel.de/ausland/grossbritannien-und-nahost-david-cameron-offen-fuer-anerkennung-von-palaestinenserstaat-a-21c09e63-1b71-4dd0-b11e-1cdde0d53d02#ref=rss)
-### sara
-
-* [https://www.spiegel.de/sport/sara-benfares-unter-doping-verdacht-deutsche-leichtathletin-positiv-getestet](https://www.spiegel.de/sport/sara-benfares-unter-doping-verdacht-deutsche-leichtathletin-positiv-getestet-a-cd8b6998-9548-4fc6-aeb3-25959cec930c#ref=rss)
-### benfares
-
-* [https://www.spiegel.de/sport/sara-benfares-unter-doping-verdacht-deutsche-leichtathletin-positiv-getestet](https://www.spiegel.de/sport/sara-benfares-unter-doping-verdacht-deutsche-leichtathletin-positiv-getestet-a-cd8b6998-9548-4fc6-aeb3-25959cec930c#ref=rss)
-### leichtathletin
-
-* [https://www.spiegel.de/sport/sara-benfares-unter-doping-verdacht-deutsche-leichtathletin-positiv-getestet](https://www.spiegel.de/sport/sara-benfares-unter-doping-verdacht-deutsche-leichtathletin-positiv-getestet-a-cd8b6998-9548-4fc6-aeb3-25959cec930c#ref=rss)
-### verbotene
-
-* [https://www.spiegel.de/sport/sara-benfares-unter-doping-verdacht-deutsche-leichtathletin-positiv-getestet](https://www.spiegel.de/sport/sara-benfares-unter-doping-verdacht-deutsche-leichtathletin-positiv-getestet-a-cd8b6998-9548-4fc6-aeb3-25959cec930c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/nestle-und-co-franzoesische-mineralwaesser-sollen-illegal-desinfiziert-worden-sein](https://www.spiegel.de/wirtschaft/unternehmen/nestle-und-co-franzoesische-mineralwaesser-sollen-illegal-desinfiziert-worden-sein-a-3571e2bf-66f2-4b26-9960-112e7ca6202f#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/sport/sara-benfares-unter-doping-verdacht-deutsche-leichtathletin-positiv-getestet](https://www.spiegel.de/sport/sara-benfares-unter-doping-verdacht-deutsche-leichtathletin-positiv-getestet-a-cd8b6998-9548-4fc6-aeb3-25959cec930c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-iwf-rechnet-mit-geringerem-wirtschaftswachstum-in-deutschland-als-bisher](https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-iwf-rechnet-mit-geringerem-wirtschaftswachstum-in-deutschland-als-bisher-a-226d72a7-89bd-4061-bd42-138c00460464#ref=rss)
-### migration
-
-* [https://www.spiegel.de/wirtschaft/migration-ba-vorstaendin-vanessa-ahuja-ohne-zuwanderung-waere-der-deutsche-arbeitsmarkt-schlicht-platt](https://www.spiegel.de/wirtschaft/migration-ba-vorstaendin-vanessa-ahuja-ohne-zuwanderung-waere-der-deutsche-arbeitsmarkt-schlicht-platt-a-2f726f3c-1c6c-42cd-993d-17518718cf7b#ref=rss)
-### vanessa
-
-* [https://www.spiegel.de/wirtschaft/migration-ba-vorstaendin-vanessa-ahuja-ohne-zuwanderung-waere-der-deutsche-arbeitsmarkt-schlicht-platt](https://www.spiegel.de/wirtschaft/migration-ba-vorstaendin-vanessa-ahuja-ohne-zuwanderung-waere-der-deutsche-arbeitsmarkt-schlicht-platt-a-2f726f3c-1c6c-42cd-993d-17518718cf7b#ref=rss)
-### ahuja
-
-* [https://www.spiegel.de/wirtschaft/migration-ba-vorstaendin-vanessa-ahuja-ohne-zuwanderung-waere-der-deutsche-arbeitsmarkt-schlicht-platt](https://www.spiegel.de/wirtschaft/migration-ba-vorstaendin-vanessa-ahuja-ohne-zuwanderung-waere-der-deutsche-arbeitsmarkt-schlicht-platt-a-2f726f3c-1c6c-42cd-993d-17518718cf7b#ref=rss)
-### zuwanderung
-
-* [https://www.spiegel.de/wirtschaft/migration-ba-vorstaendin-vanessa-ahuja-ohne-zuwanderung-waere-der-deutsche-arbeitsmarkt-schlicht-platt](https://www.spiegel.de/wirtschaft/migration-ba-vorstaendin-vanessa-ahuja-ohne-zuwanderung-waere-der-deutsche-arbeitsmarkt-schlicht-platt-a-2f726f3c-1c6c-42cd-993d-17518718cf7b#ref=rss)
-### wäre
-
-* [https://www.spiegel.de/wirtschaft/migration-ba-vorstaendin-vanessa-ahuja-ohne-zuwanderung-waere-der-deutsche-arbeitsmarkt-schlicht-platt](https://www.spiegel.de/wirtschaft/migration-ba-vorstaendin-vanessa-ahuja-ohne-zuwanderung-waere-der-deutsche-arbeitsmarkt-schlicht-platt-a-2f726f3c-1c6c-42cd-993d-17518718cf7b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lieferkettengesetz-koalitionskrach-um-eu-vorhaben-das-lieferketten-massaker](https://www.spiegel.de/wirtschaft/lieferkettengesetz-koalitionskrach-um-eu-vorhaben-das-lieferketten-massaker-a-d91d4ba5-5315-46cd-b8d4-0f666acec1e3#ref=rss)
-### staat
-
-* [https://www.spiegel.de/wirtschaft/migration-ba-vorstaendin-vanessa-ahuja-ohne-zuwanderung-waere-der-deutsche-arbeitsmarkt-schlicht-platt](https://www.spiegel.de/wirtschaft/migration-ba-vorstaendin-vanessa-ahuja-ohne-zuwanderung-waere-der-deutsche-arbeitsmarkt-schlicht-platt-a-2f726f3c-1c6c-42cd-993d-17518718cf7b#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-und-nahost-david-cameron-offen-fuer-anerkennung-von-palaestinenserstaat](https://www.spiegel.de/ausland/grossbritannien-und-nahost-david-cameron-offen-fuer-anerkennung-von-palaestinenserstaat-a-21c09e63-1b71-4dd0-b11e-1cdde0d53d02#ref=rss)
-### hamburg
-
-* [https://www.spiegel.de/panorama/gesellschaft/hamburg-wird-2030-die-zwei-millionen-einwohnermarke-ueberschreiten](https://www.spiegel.de/panorama/gesellschaft/hamburg-wird-2030-die-zwei-millionen-einwohnermarke-ueberschreiten-a-eacef325-0f3b-4b8c-a2e4-347ca99313e8#ref=rss)
-### zieht
-
-* [https://www.spiegel.de/panorama/gesellschaft/hamburg-wird-2030-die-zwei-millionen-einwohnermarke-ueberschreiten](https://www.spiegel.de/panorama/gesellschaft/hamburg-wird-2030-die-zwei-millionen-einwohnermarke-ueberschreiten-a-eacef325-0f3b-4b8c-a2e4-347ca99313e8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-roland-ulbrich-gibt-nach-umstrittenen-aeusserungen-parteiamt-auf](https://www.spiegel.de/politik/deutschland/afd-roland-ulbrich-gibt-nach-umstrittenen-aeusserungen-parteiamt-auf-a-e7e7fb18-5b43-400a-9af4-22bac27728dc#ref=rss)
-### nestlé
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/nestle-und-co-franzoesische-mineralwaesser-sollen-illegal-desinfiziert-worden-sein](https://www.spiegel.de/wirtschaft/unternehmen/nestle-und-co-franzoesische-mineralwaesser-sollen-illegal-desinfiziert-worden-sein-a-3571e2bf-66f2-4b26-9960-112e7ca6202f#ref=rss)
-### desinfiziert
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/nestle-und-co-franzoesische-mineralwaesser-sollen-illegal-desinfiziert-worden-sein](https://www.spiegel.de/wirtschaft/unternehmen/nestle-und-co-franzoesische-mineralwaesser-sollen-illegal-desinfiziert-worden-sein-a-3571e2bf-66f2-4b26-9960-112e7ca6202f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-haushalt-bundeswehr-holocaust-gedenken-die-basis](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-haushalt-bundeswehr-holocaust-gedenken-die-basis-a-f862131f-38ad-42bb-82e1-f70deac5617c#ref=rss)
+* [https://www.spiegel.de/politik/ampelkoalition-fdp-vize-kubicki-verlangt-kurskorrektur-von-kanzler-scholz](https://www.spiegel.de/politik/ampelkoalition-fdp-vize-kubicki-verlangt-kurskorrektur-von-kanzler-scholz-a-094ccb03-038a-469b-a2eb-2b92198e5db8#ref=rss)
 ### scholz
 
-* [https://www.spiegel.de/wirtschaft/wirtschaft-brandbrief-an-olaf-scholz-verbaende-fordern-reformen](https://www.spiegel.de/wirtschaft/wirtschaft-brandbrief-an-olaf-scholz-verbaende-fordern-reformen-a-a294e6b3-56e2-49b5-ad20-8f2613435d98#ref=rss)
-### thüringen
+* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-haushalt-bundeswehr-holocaust-gedenken-die-basis](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-haushalt-bundeswehr-holocaust-gedenken-die-basis-a-f862131f-38ad-42bb-82e1-f70deac5617c#ref=rss)
+* [https://www.spiegel.de/politik/ampelkoalition-fdp-vize-kubicki-verlangt-kurskorrektur-von-kanzler-scholz](https://www.spiegel.de/politik/ampelkoalition-fdp-vize-kubicki-verlangt-kurskorrektur-von-kanzler-scholz-a-094ccb03-038a-469b-a2eb-2b92198e5db8#ref=rss)
+### weniger
 
-* [https://www.spiegel.de/politik/deutschland/afd-in-thueringen-wenn-verfassungsfeinde-an-die-macht-kommen-wie-kann-sich-die-demokratie-dann-wehren](https://www.spiegel.de/politik/deutschland/afd-in-thueringen-wenn-verfassungsfeinde-an-die-macht-kommen-wie-kann-sich-die-demokratie-dann-wehren-a-cff11862-56ff-4090-879c-13bde912f947#ref=rss)
-### macht
+* [https://www.spiegel.de/wirtschaft/ukrainischer-angriff-auf-sankt-petersburg-erneut-brand-in-russischem-oel-terminal](https://www.spiegel.de/wirtschaft/ukrainischer-angriff-auf-sankt-petersburg-erneut-brand-in-russischem-oel-terminal-a-1b659c33-03ce-46bd-aecc-d972456e83ee#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ampelparteien-reagieren-auf-vorwuerfe-der-wahlrechtsmanpulation-empoert](https://www.spiegel.de/politik/deutschland/friedrich-merz-ampelparteien-reagieren-auf-vorwuerfe-der-wahlrechtsmanpulation-empoert-a-dadd3751-d5c1-4ee0-b1c7-0900e4f60ef0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/asylbewerber-bezahlkarte-fuer-gefluechtete-soll-bundesweit-eingefuehrt-werden](https://www.spiegel.de/politik/deutschland/asylbewerber-bezahlkarte-fuer-gefluechtete-soll-bundesweit-eingefuehrt-werden-a-f77f1029-9e39-4827-8f41-54632f43a71b#ref=rss)
+### erklärt
 
-* [https://www.spiegel.de/politik/deutschland/afd-in-thueringen-wenn-verfassungsfeinde-an-die-macht-kommen-wie-kann-sich-die-demokratie-dann-wehren](https://www.spiegel.de/politik/deutschland/afd-in-thueringen-wenn-verfassungsfeinde-an-die-macht-kommen-wie-kann-sich-die-demokratie-dann-wehren-a-cff11862-56ff-4090-879c-13bde912f947#ref=rss)
-* [https://www.spiegel.de/kultur/tv/dschungelcamp-2024-tag-11-erst-kamel-anus-und-mauseschwanzpueree-dann-mit-dem-kamm-durch-den-schnurrbart](https://www.spiegel.de/kultur/tv/dschungelcamp-2024-tag-11-erst-kamel-anus-und-mauseschwanzpueree-dann-mit-dem-kamm-durch-den-schnurrbart-a-ae8cfb1a-7969-4cc2-8969-df4f654d3613#ref=rss)
-### thailand
+* [https://www.spiegel.de/politik/deutschland/antisemitismus-baerbel-bas-erklaert-nie-wieder-zur-aufgabe-der-gesamten-gesellschaft](https://www.spiegel.de/politik/deutschland/antisemitismus-baerbel-bas-erklaert-nie-wieder-zur-aufgabe-der-gesamten-gesellschaft-a-2b50efff-aa2e-4f53-a37b-ac680c0a9931#ref=rss)
+* [https://www.spiegel.de/karriere/manager-ohne-kompetenz-sitzen-die-falschen-in-den-chefetagen-herr-von-rosty](https://www.spiegel.de/karriere/manager-ohne-kompetenz-sitzen-die-falschen-in-den-chefetagen-herr-von-rosty-a-922a92ca-015b-482f-b1a7-a66993a12309#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elon-musk-us-richterin-erklaert-milliardenschweres-gehaltspaket-des-tesla-chefs-fuer-ungueltig](https://www.spiegel.de/wirtschaft/elon-musk-us-richterin-erklaert-milliardenschweres-gehaltspaket-des-tesla-chefs-fuer-ungueltig-a-c0704198-883d-47eb-9f50-416235f1a351#ref=rss)
+### geld
 
-* [https://www.spiegel.de/ausland/bi-2-thailand-plant-abschiebung-regimekritischer-russischer-band](https://www.spiegel.de/ausland/bi-2-thailand-plant-abschiebung-regimekritischer-russischer-band-a-8d13856f-dad6-41ec-8682-4d44cec4bf42#ref=rss)
-### roland
+* [https://www.spiegel.de/panorama/bildung/bafoeg-reform-bildungsministerium-kann-auswirkung-des-gesetzentwurfs-noch-nicht-einschaetzen](https://www.spiegel.de/panorama/bildung/bafoeg-reform-bildungsministerium-kann-auswirkung-des-gesetzentwurfs-noch-nicht-einschaetzen-a-2faa9d97-b208-4f1c-9483-cbc3c7d1ab2f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elon-musk-us-richterin-erklaert-milliardenschweres-gehaltspaket-des-tesla-chefs-fuer-ungueltig](https://www.spiegel.de/wirtschaft/elon-musk-us-richterin-erklaert-milliardenschweres-gehaltspaket-des-tesla-chefs-fuer-ungueltig-a-c0704198-883d-47eb-9f50-416235f1a351#ref=rss)
+### merz
 
-* [https://www.spiegel.de/politik/deutschland/afd-roland-ulbrich-gibt-nach-umstrittenen-aeusserungen-parteiamt-auf](https://www.spiegel.de/politik/deutschland/afd-roland-ulbrich-gibt-nach-umstrittenen-aeusserungen-parteiamt-auf-a-e7e7fb18-5b43-400a-9af4-22bac27728dc#ref=rss)
-### ulbrich
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ampelparteien-reagieren-auf-vorwuerfe-der-wahlrechtsmanpulation-empoert](https://www.spiegel.de/politik/deutschland/friedrich-merz-ampelparteien-reagieren-auf-vorwuerfe-der-wahlrechtsmanpulation-empoert-a-dadd3751-d5c1-4ee0-b1c7-0900e4f60ef0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-haushalt-bundeswehr-holocaust-gedenken-die-basis](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-haushalt-bundeswehr-holocaust-gedenken-die-basis-a-f862131f-38ad-42bb-82e1-f70deac5617c#ref=rss)
+### frau
 
-* [https://www.spiegel.de/politik/deutschland/afd-roland-ulbrich-gibt-nach-umstrittenen-aeusserungen-parteiamt-auf](https://www.spiegel.de/politik/deutschland/afd-roland-ulbrich-gibt-nach-umstrittenen-aeusserungen-parteiamt-auf-a-e7e7fb18-5b43-400a-9af4-22bac27728dc#ref=rss)
-### herne
+* [https://www.spiegel.de/sport/eishockey/eishockey-vorwurf-der-sexuellen-gewalt-nhl-profis-angeklagt](https://www.spiegel.de/sport/eishockey/eishockey-vorwurf-der-sexuellen-gewalt-nhl-profis-angeklagt-a-ca7675e8-fbd3-4d67-a347-c75d018a5c61#ref=rss)
+* [https://www.spiegel.de/panorama/new-hampshire-frau-mit-schweren-verletzungen-aus-muellauto-gerettet](https://www.spiegel.de/panorama/new-hampshire-frau-mit-schweren-verletzungen-aus-muellauto-gerettet-a-669029fe-2ca7-4fc0-8614-1908b4bff637#ref=rss)
+### vier
 
-* [https://www.spiegel.de/panorama/justiz/herne-13-und-14-jaehriger-bauen-mit-oldtimer-schweren-unfall](https://www.spiegel.de/panorama/justiz/herne-13-und-14-jaehriger-bauen-mit-oldtimer-schweren-unfall-a-a7ddf90e-4f74-4d69-8c33-40bc6b957ccb#ref=rss)
+* [https://www.spiegel.de/sport/eishockey/eishockey-vorwurf-der-sexuellen-gewalt-nhl-profis-angeklagt](https://www.spiegel.de/sport/eishockey/eishockey-vorwurf-der-sexuellen-gewalt-nhl-profis-angeklagt-a-ca7675e8-fbd3-4d67-a347-c75d018a5c61#ref=rss)
+* [https://www.spiegel.de/kultur/musik/adele-kommt-im-august-fuer-vier-konzerte-nach-muenchen](https://www.spiegel.de/kultur/musik/adele-kommt-im-august-fuer-vier-konzerte-nach-muenchen-a-d60960cc-af0d-4bc9-a78e-355bf263adcf#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/sport/eishockey/eishockey-vorwurf-der-sexuellen-gewalt-nhl-profis-angeklagt](https://www.spiegel.de/sport/eishockey/eishockey-vorwurf-der-sexuellen-gewalt-nhl-profis-angeklagt-a-ca7675e8-fbd3-4d67-a347-c75d018a5c61#ref=rss)
+* [https://www.spiegel.de/ausland/pakistan-imran-khan-kurz-vor-wahlen-erneut-zu-langer-haft-verurteilt](https://www.spiegel.de/ausland/pakistan-imran-khan-kurz-vor-wahlen-erneut-zu-langer-haft-verurteilt-a-c1194608-3db6-46d2-b839-05f7c26e7dc6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-haushalt-bundeswehr-holocaust-gedenken-die-basis](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-haushalt-bundeswehr-holocaust-gedenken-die-basis-a-f862131f-38ad-42bb-82e1-f70deac5617c#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wirtschaft/soziales/zahl-der-arbeitslosen-in-deutschland-steigt-im-januar](https://www.spiegel.de/wirtschaft/soziales/zahl-der-arbeitslosen-in-deutschland-steigt-im-januar-a-11e57fc9-3a1a-4fda-9557-6fb99328f1a6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/haftpflichtversicherung-warum-sie-eine-brauchen-und-was-sie-beachten-muessen](https://www.spiegel.de/wirtschaft/service/haftpflichtversicherung-warum-sie-eine-brauchen-und-was-sie-beachten-muessen-a-af061dcc-7ccf-4080-ae37-6b10f022238f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/asylbewerber-bezahlkarte-fuer-gefluechtete-soll-bundesweit-eingefuehrt-werden](https://www.spiegel.de/politik/deutschland/asylbewerber-bezahlkarte-fuer-gefluechtete-soll-bundesweit-eingefuehrt-werden-a-f77f1029-9e39-4827-8f41-54632f43a71b#ref=rss)
+### sankt
+
+* [https://www.spiegel.de/wirtschaft/ukrainischer-angriff-auf-sankt-petersburg-erneut-brand-in-russischem-oel-terminal](https://www.spiegel.de/wirtschaft/ukrainischer-angriff-auf-sankt-petersburg-erneut-brand-in-russischem-oel-terminal-a-1b659c33-03ce-46bd-aecc-d972456e83ee#ref=rss)
+### petersburg
+
+* [https://www.spiegel.de/wirtschaft/ukrainischer-angriff-auf-sankt-petersburg-erneut-brand-in-russischem-oel-terminal](https://www.spiegel.de/wirtschaft/ukrainischer-angriff-auf-sankt-petersburg-erneut-brand-in-russischem-oel-terminal-a-1b659c33-03ce-46bd-aecc-d972456e83ee#ref=rss)
+### treffen
+
+* [https://www.spiegel.de/wirtschaft/ukrainischer-angriff-auf-sankt-petersburg-erneut-brand-in-russischem-oel-terminal](https://www.spiegel.de/wirtschaft/ukrainischer-angriff-auf-sankt-petersburg-erneut-brand-in-russischem-oel-terminal-a-1b659c33-03ce-46bd-aecc-d972456e83ee#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-soll-staerker-in-potsdamer-treffen-involviert-gewesen-sein-als-bekannt](https://www.spiegel.de/politik/deutschland/afd-soll-staerker-in-potsdamer-treffen-involviert-gewesen-sein-als-bekannt-a-ed1b4d50-5e15-4e9b-8847-a111da2cbc00#ref=rss)
+### nahe
+
+* [https://www.spiegel.de/wirtschaft/ukrainischer-angriff-auf-sankt-petersburg-erneut-brand-in-russischem-oel-terminal](https://www.spiegel.de/wirtschaft/ukrainischer-angriff-auf-sankt-petersburg-erneut-brand-in-russischem-oel-terminal-a-1b659c33-03ce-46bd-aecc-d972456e83ee#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-soll-staerker-in-potsdamer-treffen-involviert-gewesen-sein-als-bekannt](https://www.spiegel.de/politik/deutschland/afd-soll-staerker-in-potsdamer-treffen-involviert-gewesen-sein-als-bekannt-a-ed1b4d50-5e15-4e9b-8847-a111da2cbc00#ref=rss)
+### bas
+
+* [https://www.spiegel.de/politik/deutschland/antisemitismus-baerbel-bas-erklaert-nie-wieder-zur-aufgabe-der-gesamten-gesellschaft](https://www.spiegel.de/politik/deutschland/antisemitismus-baerbel-bas-erklaert-nie-wieder-zur-aufgabe-der-gesamten-gesellschaft-a-2b50efff-aa2e-4f53-a37b-ac680c0a9931#ref=rss)
+### hass
+
+* [https://www.spiegel.de/politik/deutschland/antisemitismus-baerbel-bas-erklaert-nie-wieder-zur-aufgabe-der-gesamten-gesellschaft](https://www.spiegel.de/politik/deutschland/antisemitismus-baerbel-bas-erklaert-nie-wieder-zur-aufgabe-der-gesamten-gesellschaft-a-2b50efff-aa2e-4f53-a37b-ac680c0a9931#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/letzte-generation-zahmen-protest-braucht-niemand](https://www.spiegel.de/panorama/gesellschaft/letzte-generation-zahmen-protest-braucht-niemand-a-5f44a72b-f871-49c0-a652-8a2b6f15800c#ref=rss)
+### bildungsministerium
+
+* [https://www.spiegel.de/panorama/bildung/bafoeg-reform-bildungsministerium-kann-auswirkung-des-gesetzentwurfs-noch-nicht-einschaetzen](https://www.spiegel.de/panorama/bildung/bafoeg-reform-bildungsministerium-kann-auswirkung-des-gesetzentwurfs-noch-nicht-einschaetzen-a-2faa9d97-b208-4f1c-9483-cbc3c7d1ab2f#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ampelparteien-reagieren-auf-vorwuerfe-der-wahlrechtsmanpulation-empoert](https://www.spiegel.de/politik/deutschland/friedrich-merz-ampelparteien-reagieren-auf-vorwuerfe-der-wahlrechtsmanpulation-empoert-a-dadd3751-d5c1-4ee0-b1c7-0900e4f60ef0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-haushalt-bundeswehr-holocaust-gedenken-die-basis](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-haushalt-bundeswehr-holocaust-gedenken-die-basis-a-f862131f-38ad-42bb-82e1-f70deac5617c#ref=rss)
+### ampel
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ampelparteien-reagieren-auf-vorwuerfe-der-wahlrechtsmanpulation-empoert](https://www.spiegel.de/politik/deutschland/friedrich-merz-ampelparteien-reagieren-auf-vorwuerfe-der-wahlrechtsmanpulation-empoert-a-dadd3751-d5c1-4ee0-b1c7-0900e4f60ef0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-lars-klingbeil-draengt-laender-auf-umsetzung-der-abschiebeplaene](https://www.spiegel.de/politik/deutschland/spd-lars-klingbeil-draengt-laender-auf-umsetzung-der-abschiebeplaene-a-2ce16506-6b1b-41cd-8311-091d74c2ed04#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ampelparteien-reagieren-auf-vorwuerfe-der-wahlrechtsmanpulation-empoert](https://www.spiegel.de/politik/deutschland/friedrich-merz-ampelparteien-reagieren-auf-vorwuerfe-der-wahlrechtsmanpulation-empoert-a-dadd3751-d5c1-4ee0-b1c7-0900e4f60ef0#ref=rss)
+* [https://www.spiegel.de/politik/ampelkoalition-fdp-vize-kubicki-verlangt-kurskorrektur-von-kanzler-scholz](https://www.spiegel.de/politik/ampelkoalition-fdp-vize-kubicki-verlangt-kurskorrektur-von-kanzler-scholz-a-094ccb03-038a-469b-a2eb-2b92198e5db8#ref=rss)
+### acht
+
+* [https://www.spiegel.de/sport/eishockey/eishockey-vorwurf-der-sexuellen-gewalt-nhl-profis-angeklagt](https://www.spiegel.de/sport/eishockey/eishockey-vorwurf-der-sexuellen-gewalt-nhl-profis-angeklagt-a-ca7675e8-fbd3-4d67-a347-c75d018a5c61#ref=rss)
+* [https://www.spiegel.de/ausland/pakistan-imran-khan-kurz-vor-wahlen-erneut-zu-langer-haft-verurteilt](https://www.spiegel.de/ausland/pakistan-imran-khan-kurz-vor-wahlen-erneut-zu-langer-haft-verurteilt-a-c1194608-3db6-46d2-b839-05f7c26e7dc6#ref=rss)
+### adele
+
+* [https://www.spiegel.de/kultur/musik/adele-kommt-im-august-fuer-vier-konzerte-nach-muenchen](https://www.spiegel.de/kultur/musik/adele-kommt-im-august-fuer-vier-konzerte-nach-muenchen-a-d60960cc-af0d-4bc9-a78e-355bf263adcf#ref=rss)
+### august
+
+* [https://www.spiegel.de/kultur/musik/adele-kommt-im-august-fuer-vier-konzerte-nach-muenchen](https://www.spiegel.de/kultur/musik/adele-kommt-im-august-fuer-vier-konzerte-nach-muenchen-a-d60960cc-af0d-4bc9-a78e-355bf263adcf#ref=rss)
+### konzerte
+
+* [https://www.spiegel.de/kultur/musik/adele-kommt-im-august-fuer-vier-konzerte-nach-muenchen](https://www.spiegel.de/kultur/musik/adele-kommt-im-august-fuer-vier-konzerte-nach-muenchen-a-d60960cc-af0d-4bc9-a78e-355bf263adcf#ref=rss)
+### sängerin
+
+* [https://www.spiegel.de/kultur/musik/adele-kommt-im-august-fuer-vier-konzerte-nach-muenchen](https://www.spiegel.de/kultur/musik/adele-kommt-im-august-fuer-vier-konzerte-nach-muenchen-a-d60960cc-af0d-4bc9-a78e-355bf263adcf#ref=rss)
+* [https://www.spiegel.de/kultur/broadway-legende-chita-rivera-ist-tot](https://www.spiegel.de/kultur/broadway-legende-chita-rivera-ist-tot-a-7336101f-e906-469e-9173-a54ccb83a026#ref=rss)
+### mindestens
+
+* [https://www.spiegel.de/kultur/musik/adele-kommt-im-august-fuer-vier-konzerte-nach-muenchen](https://www.spiegel.de/kultur/musik/adele-kommt-im-august-fuer-vier-konzerte-nach-muenchen-a-d60960cc-af0d-4bc9-a78e-355bf263adcf#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-im-gazastreifen-ist-offenbar-mindestens-die-haelfte-aller-gebaeude-beschaedigt-oder-zerstoert](https://www.spiegel.de/ausland/israel-gaza-krieg-im-gazastreifen-ist-offenbar-mindestens-die-haelfte-aller-gebaeude-beschaedigt-oder-zerstoert-a-59e96452-27a5-4e0d-a442-49e51a72540f#ref=rss)
+### beruf
+
+* [https://www.spiegel.de/karriere/junge-pflegekraefte-ein-drittel-hat-den-beruf-satt](https://www.spiegel.de/karriere/junge-pflegekraefte-ein-drittel-hat-den-beruf-satt-a-05f78182-6b2c-4f42-98c4-b590f7b36f43#ref=rss)
+### unter
+
+* [https://www.spiegel.de/karriere/junge-pflegekraefte-ein-drittel-hat-den-beruf-satt](https://www.spiegel.de/karriere/junge-pflegekraefte-ein-drittel-hat-den-beruf-satt-a-05f78182-6b2c-4f42-98c4-b590f7b36f43#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-universal-konzern-will-musik-von-app-abziehen](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-universal-konzern-will-musik-von-app-abziehen-a-f82582a2-c5af-48e4-8171-a7778e031da8#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/karriere/junge-pflegekraefte-ein-drittel-hat-den-beruf-satt](https://www.spiegel.de/karriere/junge-pflegekraefte-ein-drittel-hat-den-beruf-satt-a-05f78182-6b2c-4f42-98c4-b590f7b36f43#ref=rss)
+* [https://www.spiegel.de/ausland/pakistan-imran-khan-kurz-vor-wahlen-erneut-zu-langer-haft-verurteilt](https://www.spiegel.de/ausland/pakistan-imran-khan-kurz-vor-wahlen-erneut-zu-langer-haft-verurteilt-a-c1194608-3db6-46d2-b839-05f7c26e7dc6#ref=rss)
+### aktuelle
+
+* [https://www.spiegel.de/karriere/junge-pflegekraefte-ein-drittel-hat-den-beruf-satt](https://www.spiegel.de/karriere/junge-pflegekraefte-ein-drittel-hat-den-beruf-satt-a-05f78182-6b2c-4f42-98c4-b590f7b36f43#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-im-gazastreifen-ist-offenbar-mindestens-die-haelfte-aller-gebaeude-beschaedigt-oder-zerstoert](https://www.spiegel.de/ausland/israel-gaza-krieg-im-gazastreifen-ist-offenbar-mindestens-die-haelfte-aller-gebaeude-beschaedigt-oder-zerstoert-a-59e96452-27a5-4e0d-a442-49e51a72540f#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/karriere/junge-pflegekraefte-ein-drittel-hat-den-beruf-satt](https://www.spiegel.de/karriere/junge-pflegekraefte-ein-drittel-hat-den-beruf-satt-a-05f78182-6b2c-4f42-98c4-b590f7b36f43#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/zahl-der-arbeitslosen-in-deutschland-steigt-im-januar](https://www.spiegel.de/wirtschaft/soziales/zahl-der-arbeitslosen-in-deutschland-steigt-im-januar-a-11e57fc9-3a1a-4fda-9557-6fb99328f1a6#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/wissenschaft/medizin/intensivmedizin-fuer-kinder-in-tuebingen-wir-arbeiten-an-der-grenze-des-zumutbaren](https://www.spiegel.de/wissenschaft/medizin/intensivmedizin-fuer-kinder-in-tuebingen-wir-arbeiten-an-der-grenze-des-zumutbaren-a-b4a5fdc9-c229-4a16-b9b6-aa93fc784af9#ref=rss)
+### tübingen
+
+* [https://www.spiegel.de/wissenschaft/medizin/intensivmedizin-fuer-kinder-in-tuebingen-wir-arbeiten-an-der-grenze-des-zumutbaren](https://www.spiegel.de/wissenschaft/medizin/intensivmedizin-fuer-kinder-in-tuebingen-wir-arbeiten-an-der-grenze-des-zumutbaren-a-b4a5fdc9-c229-4a16-b9b6-aa93fc784af9#ref=rss)
+### bekommen
+
+* [https://www.spiegel.de/wissenschaft/medizin/intensivmedizin-fuer-kinder-in-tuebingen-wir-arbeiten-an-der-grenze-des-zumutbaren](https://www.spiegel.de/wissenschaft/medizin/intensivmedizin-fuer-kinder-in-tuebingen-wir-arbeiten-an-der-grenze-des-zumutbaren-a-b4a5fdc9-c229-4a16-b9b6-aa93fc784af9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/herkunft-von-fleisch-mehr-transparenz-an-der-theke-speisekarten-sollen-folgen](https://www.spiegel.de/wirtschaft/service/herkunft-von-fleisch-mehr-transparenz-an-der-theke-speisekarten-sollen-folgen-a-d3015fca-40c1-49f3-96f2-4be6ff9d7039#ref=rss)
+### brotsalat
+
+* [https://www.spiegel.de/start/guenstiges-rezept-fuer-french-toast-und-brotsalat-ab-1-euro-pro-person](https://www.spiegel.de/start/guenstiges-rezept-fuer-french-toast-und-brotsalat-ab-1-euro-pro-person-a-bd053b97-1ea2-4291-9f8c-3d11eee19389#ref=rss)
+### zahl
+
+* [https://www.spiegel.de/wirtschaft/soziales/zahl-der-arbeitslosen-in-deutschland-steigt-im-januar](https://www.spiegel.de/wirtschaft/soziales/zahl-der-arbeitslosen-in-deutschland-steigt-im-januar-a-11e57fc9-3a1a-4fda-9557-6fb99328f1a6#ref=rss)
+### arbeitslosen
+
+* [https://www.spiegel.de/wirtschaft/soziales/zahl-der-arbeitslosen-in-deutschland-steigt-im-januar](https://www.spiegel.de/wirtschaft/soziales/zahl-der-arbeitslosen-in-deutschland-steigt-im-januar-a-11e57fc9-3a1a-4fda-9557-6fb99328f1a6#ref=rss)
+### januar
+
+* [https://www.spiegel.de/wirtschaft/soziales/zahl-der-arbeitslosen-in-deutschland-steigt-im-januar](https://www.spiegel.de/wirtschaft/soziales/zahl-der-arbeitslosen-in-deutschland-steigt-im-januar-a-11e57fc9-3a1a-4fda-9557-6fb99328f1a6#ref=rss)
+### daten
+
+* [https://www.spiegel.de/wirtschaft/soziales/zahl-der-arbeitslosen-in-deutschland-steigt-im-januar](https://www.spiegel.de/wirtschaft/soziales/zahl-der-arbeitslosen-in-deutschland-steigt-im-januar-a-11e57fc9-3a1a-4fda-9557-6fb99328f1a6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/einzelhandel-umsatz-schrumpft-trotz-weihnachtsgeschaeft](https://www.spiegel.de/wirtschaft/unternehmen/einzelhandel-umsatz-schrumpft-trotz-weihnachtsgeschaeft-a-217847c5-9c1f-49f0-97c0-94f4db217cd3#ref=rss)
+### einzelhandel
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/einzelhandel-umsatz-schrumpft-trotz-weihnachtsgeschaeft](https://www.spiegel.de/wirtschaft/unternehmen/einzelhandel-umsatz-schrumpft-trotz-weihnachtsgeschaeft-a-217847c5-9c1f-49f0-97c0-94f4db217cd3#ref=rss)
+### umsatz
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/einzelhandel-umsatz-schrumpft-trotz-weihnachtsgeschaeft](https://www.spiegel.de/wirtschaft/unternehmen/einzelhandel-umsatz-schrumpft-trotz-weihnachtsgeschaeft-a-217847c5-9c1f-49f0-97c0-94f4db217cd3#ref=rss)
+### rosty
+
+* [https://www.spiegel.de/karriere/manager-ohne-kompetenz-sitzen-die-falschen-in-den-chefetagen-herr-von-rosty](https://www.spiegel.de/karriere/manager-ohne-kompetenz-sitzen-die-falschen-in-den-chefetagen-herr-von-rosty-a-922a92ca-015b-482f-b1a7-a66993a12309#ref=rss)
+### sollten
+
+* [https://www.spiegel.de/karriere/manager-ohne-kompetenz-sitzen-die-falschen-in-den-chefetagen-herr-von-rosty](https://www.spiegel.de/karriere/manager-ohne-kompetenz-sitzen-die-falschen-in-den-chefetagen-herr-von-rosty-a-922a92ca-015b-482f-b1a7-a66993a12309#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/haftpflichtversicherung-warum-sie-eine-brauchen-und-was-sie-beachten-muessen](https://www.spiegel.de/wirtschaft/service/haftpflichtversicherung-warum-sie-eine-brauchen-und-was-sie-beachten-muessen-a-af061dcc-7ccf-4080-ae37-6b10f022238f#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/deutschland/afd-soll-staerker-in-potsdamer-treffen-involviert-gewesen-sein-als-bekannt](https://www.spiegel.de/politik/deutschland/afd-soll-staerker-in-potsdamer-treffen-involviert-gewesen-sein-als-bekannt-a-ed1b4d50-5e15-4e9b-8847-a111da2cbc00#ref=rss)
+### involviert
+
+* [https://www.spiegel.de/politik/deutschland/afd-soll-staerker-in-potsdamer-treffen-involviert-gewesen-sein-als-bekannt](https://www.spiegel.de/politik/deutschland/afd-soll-staerker-in-potsdamer-treffen-involviert-gewesen-sein-als-bekannt-a-ed1b4d50-5e15-4e9b-8847-a111da2cbc00#ref=rss)
+### opfer
+
+* [https://www.spiegel.de/politik/holocaust-bundestag-gedenkt-der-opfer-des-nationalsozialismus](https://www.spiegel.de/politik/holocaust-bundestag-gedenkt-der-opfer-des-nationalsozialismus-a-a74b7618-e517-4d25-adb1-2b9355ff8f66#ref=rss)
+### nationalsozialismus
+
+* [https://www.spiegel.de/politik/holocaust-bundestag-gedenkt-der-opfer-des-nationalsozialismus](https://www.spiegel.de/politik/holocaust-bundestag-gedenkt-der-opfer-des-nationalsozialismus-a-a74b7618-e517-4d25-adb1-2b9355ff8f66#ref=rss)
+### generation
+
+* [https://www.spiegel.de/panorama/gesellschaft/letzte-generation-zahmen-protest-braucht-niemand](https://www.spiegel.de/panorama/gesellschaft/letzte-generation-zahmen-protest-braucht-niemand-a-5f44a72b-f871-49c0-a652-8a2b6f15800c#ref=rss)
+### bezahlkarte
+
+* [https://www.spiegel.de/politik/deutschland/asylbewerber-bezahlkarte-fuer-gefluechtete-soll-bundesweit-eingefuehrt-werden](https://www.spiegel.de/politik/deutschland/asylbewerber-bezahlkarte-fuer-gefluechtete-soll-bundesweit-eingefuehrt-werden-a-f77f1029-9e39-4827-8f41-54632f43a71b#ref=rss)
+### künftig
+
+* [https://www.spiegel.de/politik/deutschland/asylbewerber-bezahlkarte-fuer-gefluechtete-soll-bundesweit-eingefuehrt-werden](https://www.spiegel.de/politik/deutschland/asylbewerber-bezahlkarte-fuer-gefluechtete-soll-bundesweit-eingefuehrt-werden-a-f77f1029-9e39-4827-8f41-54632f43a71b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/herkunftslaender-von-honig-muessen-auf-der-verpackung-stehen](https://www.spiegel.de/wirtschaft/herkunftslaender-von-honig-muessen-auf-der-verpackung-stehen-a-d34f7990-d878-474a-9725-2d03fa523562#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/panorama/justiz/herne-13-und-14-jaehriger-bauen-mit-oldtimer-schweren-unfall](https://www.spiegel.de/panorama/justiz/herne-13-und-14-jaehriger-bauen-mit-oldtimer-schweren-unfall-a-a7ddf90e-4f74-4d69-8c33-40bc6b957ccb#ref=rss)
-* [https://www.spiegel.de/ausland/israel-spezialkraefte-toeten-drei-militante-palaestinenser-im-westjordanland](https://www.spiegel.de/ausland/israel-spezialkraefte-toeten-drei-militante-palaestinenser-im-westjordanland-a-9b6d035e-2cce-477d-898d-e8e90bb4e253#ref=rss)
-### westjordanland
+* [https://www.spiegel.de/politik/deutschland/asylbewerber-bezahlkarte-fuer-gefluechtete-soll-bundesweit-eingefuehrt-werden](https://www.spiegel.de/politik/deutschland/asylbewerber-bezahlkarte-fuer-gefluechtete-soll-bundesweit-eingefuehrt-werden-a-f77f1029-9e39-4827-8f41-54632f43a71b#ref=rss)
+* [https://www.spiegel.de/ausland/pakistan-imran-khan-kurz-vor-wahlen-erneut-zu-langer-haft-verurteilt](https://www.spiegel.de/ausland/pakistan-imran-khan-kurz-vor-wahlen-erneut-zu-langer-haft-verurteilt-a-c1194608-3db6-46d2-b839-05f7c26e7dc6#ref=rss)
+### gehen
 
-* [https://www.spiegel.de/ausland/israel-spezialkraefte-toeten-drei-militante-palaestinenser-im-westjordanland](https://www.spiegel.de/ausland/israel-spezialkraefte-toeten-drei-militante-palaestinenser-im-westjordanland-a-9b6d035e-2cce-477d-898d-e8e90bb4e253#ref=rss)
-### männer
+* [https://www.spiegel.de/politik/deutschland/asylbewerber-bezahlkarte-fuer-gefluechtete-soll-bundesweit-eingefuehrt-werden](https://www.spiegel.de/politik/deutschland/asylbewerber-bezahlkarte-fuer-gefluechtete-soll-bundesweit-eingefuehrt-werden-a-f77f1029-9e39-4827-8f41-54632f43a71b#ref=rss)
+* [https://www.spiegel.de/ausland/israel-armee-bestaetigt-tunnelflutung-in-gaza](https://www.spiegel.de/ausland/israel-armee-bestaetigt-tunnelflutung-in-gaza-a-c6dc0ba6-935f-4faa-9d16-998c67d7abd3#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/ausland/israel-spezialkraefte-toeten-drei-militante-palaestinenser-im-westjordanland](https://www.spiegel.de/ausland/israel-spezialkraefte-toeten-drei-militante-palaestinenser-im-westjordanland-a-9b6d035e-2cce-477d-898d-e8e90bb4e253#ref=rss)
-### ganze
+* [https://www.spiegel.de/wirtschaft/unternehmen/e-auto-absatz-deutsche-hersteller-holen-in-china-etwas-auf](https://www.spiegel.de/wirtschaft/unternehmen/e-auto-absatz-deutsche-hersteller-holen-in-china-etwas-auf-a-faa24683-6871-4963-b3ec-0eac1f4d2d59#ref=rss)
+### hersteller
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-iwf-rechnet-mit-geringerem-wirtschaftswachstum-in-deutschland-als-bisher](https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-iwf-rechnet-mit-geringerem-wirtschaftswachstum-in-deutschland-als-bisher-a-226d72a7-89bd-4061-bd42-138c00460464#ref=rss)
-* [https://www.spiegel.de/kultur/tv/dschungelcamp-2024-tag-11-erst-kamel-anus-und-mauseschwanzpueree-dann-mit-dem-kamm-durch-den-schnurrbart](https://www.spiegel.de/kultur/tv/dschungelcamp-2024-tag-11-erst-kamel-anus-und-mauseschwanzpueree-dann-mit-dem-kamm-durch-den-schnurrbart-a-ae8cfb1a-7969-4cc2-8969-df4f654d3613#ref=rss)
-### donnerstag
+* [https://www.spiegel.de/wirtschaft/unternehmen/e-auto-absatz-deutsche-hersteller-holen-in-china-etwas-auf](https://www.spiegel.de/wirtschaft/unternehmen/e-auto-absatz-deutsche-hersteller-holen-in-china-etwas-auf-a-faa24683-6871-4963-b3ec-0eac1f4d2d59#ref=rss)
+### china
 
-* [https://www.spiegel.de/wirtschaft/ver-di-plant-offenbar-bundesweiten-streik-der-sicherheitskraefte-an-flughaefen](https://www.spiegel.de/wirtschaft/ver-di-plant-offenbar-bundesweiten-streik-der-sicherheitskraefte-an-flughaefen-a-e3def9a3-30e1-4725-858b-6aaa75626088#ref=rss)
-### raus
+* [https://www.spiegel.de/wirtschaft/unternehmen/e-auto-absatz-deutsche-hersteller-holen-in-china-etwas-auf](https://www.spiegel.de/wirtschaft/unternehmen/e-auto-absatz-deutsche-hersteller-holen-in-china-etwas-auf-a-faa24683-6871-4963-b3ec-0eac1f4d2d59#ref=rss)
+### fleisch
 
-* [https://www.spiegel.de/kultur/tv/dschungelcamp-2024-tag-11-erst-kamel-anus-und-mauseschwanzpueree-dann-mit-dem-kamm-durch-den-schnurrbart](https://www.spiegel.de/kultur/tv/dschungelcamp-2024-tag-11-erst-kamel-anus-und-mauseschwanzpueree-dann-mit-dem-kamm-durch-den-schnurrbart-a-ae8cfb1a-7969-4cc2-8969-df4f654d3613#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/herkunft-von-fleisch-mehr-transparenz-an-der-theke-speisekarten-sollen-folgen](https://www.spiegel.de/wirtschaft/service/herkunft-von-fleisch-mehr-transparenz-an-der-theke-speisekarten-sollen-folgen-a-d3015fca-40c1-49f3-96f2-4be6ff9d7039#ref=rss)
+### transparenz
+
+* [https://www.spiegel.de/wirtschaft/service/herkunft-von-fleisch-mehr-transparenz-an-der-theke-speisekarten-sollen-folgen](https://www.spiegel.de/wirtschaft/service/herkunft-von-fleisch-mehr-transparenz-an-der-theke-speisekarten-sollen-folgen-a-d3015fca-40c1-49f3-96f2-4be6ff9d7039#ref=rss)
+### speisekarten
+
+* [https://www.spiegel.de/wirtschaft/service/herkunft-von-fleisch-mehr-transparenz-an-der-theke-speisekarten-sollen-folgen](https://www.spiegel.de/wirtschaft/service/herkunft-von-fleisch-mehr-transparenz-an-der-theke-speisekarten-sollen-folgen-a-d3015fca-40c1-49f3-96f2-4be6ff9d7039#ref=rss)
+### folgen
+
+* [https://www.spiegel.de/wirtschaft/service/herkunft-von-fleisch-mehr-transparenz-an-der-theke-speisekarten-sollen-folgen](https://www.spiegel.de/wirtschaft/service/herkunft-von-fleisch-mehr-transparenz-an-der-theke-speisekarten-sollen-folgen-a-d3015fca-40c1-49f3-96f2-4be6ff9d7039#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-universal-konzern-will-musik-von-app-abziehen](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-universal-konzern-will-musik-von-app-abziehen-a-f82582a2-c5af-48e4-8171-a7778e031da8#ref=rss)
+### regeln
+
+* [https://www.spiegel.de/wirtschaft/service/herkunft-von-fleisch-mehr-transparenz-an-der-theke-speisekarten-sollen-folgen](https://www.spiegel.de/wirtschaft/service/herkunft-von-fleisch-mehr-transparenz-an-der-theke-speisekarten-sollen-folgen-a-d3015fca-40c1-49f3-96f2-4be6ff9d7039#ref=rss)
+* [https://www.spiegel.de/wirtschaft/herkunftslaender-von-honig-muessen-auf-der-verpackung-stehen](https://www.spiegel.de/wirtschaft/herkunftslaender-von-honig-muessen-auf-der-verpackung-stehen-a-d34f7990-d878-474a-9725-2d03fa523562#ref=rss)
+### pakistan
+
+* [https://www.spiegel.de/ausland/pakistan-imran-khan-kurz-vor-wahlen-erneut-zu-langer-haft-verurteilt](https://www.spiegel.de/ausland/pakistan-imran-khan-kurz-vor-wahlen-erneut-zu-langer-haft-verurteilt-a-c1194608-3db6-46d2-b839-05f7c26e7dc6#ref=rss)
+### imran
+
+* [https://www.spiegel.de/ausland/pakistan-imran-khan-kurz-vor-wahlen-erneut-zu-langer-haft-verurteilt](https://www.spiegel.de/ausland/pakistan-imran-khan-kurz-vor-wahlen-erneut-zu-langer-haft-verurteilt-a-c1194608-3db6-46d2-b839-05f7c26e7dc6#ref=rss)
+### khan
+
+* [https://www.spiegel.de/ausland/pakistan-imran-khan-kurz-vor-wahlen-erneut-zu-langer-haft-verurteilt](https://www.spiegel.de/ausland/pakistan-imran-khan-kurz-vor-wahlen-erneut-zu-langer-haft-verurteilt-a-c1194608-3db6-46d2-b839-05f7c26e7dc6#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/ausland/pakistan-imran-khan-kurz-vor-wahlen-erneut-zu-langer-haft-verurteilt](https://www.spiegel.de/ausland/pakistan-imran-khan-kurz-vor-wahlen-erneut-zu-langer-haft-verurteilt-a-c1194608-3db6-46d2-b839-05f7c26e7dc6#ref=rss)
+### erhielt
+
+* [https://www.spiegel.de/ausland/pakistan-imran-khan-kurz-vor-wahlen-erneut-zu-langer-haft-verurteilt](https://www.spiegel.de/ausland/pakistan-imran-khan-kurz-vor-wahlen-erneut-zu-langer-haft-verurteilt-a-c1194608-3db6-46d2-b839-05f7c26e7dc6#ref=rss)
+* [https://www.spiegel.de/kultur/broadway-legende-chita-rivera-ist-tot](https://www.spiegel.de/kultur/broadway-legende-chita-rivera-ist-tot-a-7336101f-e906-469e-9173-a54ccb83a026#ref=rss)
+### lange
+
+* [https://www.spiegel.de/ausland/pakistan-imran-khan-kurz-vor-wahlen-erneut-zu-langer-haft-verurteilt](https://www.spiegel.de/ausland/pakistan-imran-khan-kurz-vor-wahlen-erneut-zu-langer-haft-verurteilt-a-c1194608-3db6-46d2-b839-05f7c26e7dc6#ref=rss)
+* [https://www.spiegel.de/ausland/israel-armee-bestaetigt-tunnelflutung-in-gaza](https://www.spiegel.de/ausland/israel-armee-bestaetigt-tunnelflutung-in-gaza-a-c6dc0ba6-935f-4faa-9d16-998c67d7abd3#ref=rss)
+### usa
+
+* [https://www.spiegel.de/panorama/new-hampshire-frau-mit-schweren-verletzungen-aus-muellauto-gerettet](https://www.spiegel.de/panorama/new-hampshire-frau-mit-schweren-verletzungen-aus-muellauto-gerettet-a-669029fe-2ca7-4fc0-8614-1908b4bff637#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/panorama/new-hampshire-frau-mit-schweren-verletzungen-aus-muellauto-gerettet](https://www.spiegel.de/panorama/new-hampshire-frau-mit-schweren-verletzungen-aus-muellauto-gerettet-a-669029fe-2ca7-4fc0-8614-1908b4bff637#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-im-gazastreifen-ist-offenbar-mindestens-die-haelfte-aller-gebaeude-beschaedigt-oder-zerstoert](https://www.spiegel.de/ausland/israel-gaza-krieg-im-gazastreifen-ist-offenbar-mindestens-die-haelfte-aller-gebaeude-beschaedigt-oder-zerstoert-a-59e96452-27a5-4e0d-a442-49e51a72540f#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/spd-lars-klingbeil-draengt-laender-auf-umsetzung-der-abschiebeplaene](https://www.spiegel.de/politik/deutschland/spd-lars-klingbeil-draengt-laender-auf-umsetzung-der-abschiebeplaene-a-2ce16506-6b1b-41cd-8311-091d74c2ed04#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/israel-armee-bestaetigt-tunnelflutung-in-gaza](https://www.spiegel.de/ausland/israel-armee-bestaetigt-tunnelflutung-in-gaza-a-c6dc0ba6-935f-4faa-9d16-998c67d7abd3#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-im-gazastreifen-ist-offenbar-mindestens-die-haelfte-aller-gebaeude-beschaedigt-oder-zerstoert](https://www.spiegel.de/ausland/israel-gaza-krieg-im-gazastreifen-ist-offenbar-mindestens-die-haelfte-aller-gebaeude-beschaedigt-oder-zerstoert-a-59e96452-27a5-4e0d-a442-49e51a72540f#ref=rss)
+### gaza
+
+* [https://www.spiegel.de/ausland/israel-armee-bestaetigt-tunnelflutung-in-gaza](https://www.spiegel.de/ausland/israel-armee-bestaetigt-tunnelflutung-in-gaza-a-c6dc0ba6-935f-4faa-9d16-998c67d7abd3#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-im-gazastreifen-ist-offenbar-mindestens-die-haelfte-aller-gebaeude-beschaedigt-oder-zerstoert](https://www.spiegel.de/ausland/israel-gaza-krieg-im-gazastreifen-ist-offenbar-mindestens-die-haelfte-aller-gebaeude-beschaedigt-oder-zerstoert-a-59e96452-27a5-4e0d-a442-49e51a72540f#ref=rss)
+### hälfte
+
+* [https://www.spiegel.de/ausland/israel-armee-bestaetigt-tunnelflutung-in-gaza](https://www.spiegel.de/ausland/israel-armee-bestaetigt-tunnelflutung-in-gaza-a-c6dc0ba6-935f-4faa-9d16-998c67d7abd3#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-im-gazastreifen-ist-offenbar-mindestens-die-haelfte-aller-gebaeude-beschaedigt-oder-zerstoert](https://www.spiegel.de/ausland/israel-gaza-krieg-im-gazastreifen-ist-offenbar-mindestens-die-haelfte-aller-gebaeude-beschaedigt-oder-zerstoert-a-59e96452-27a5-4e0d-a442-49e51a72540f#ref=rss)
+### gebäude
+
+* [https://www.spiegel.de/ausland/israel-armee-bestaetigt-tunnelflutung-in-gaza](https://www.spiegel.de/ausland/israel-armee-bestaetigt-tunnelflutung-in-gaza-a-c6dc0ba6-935f-4faa-9d16-998c67d7abd3#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-im-gazastreifen-ist-offenbar-mindestens-die-haelfte-aller-gebaeude-beschaedigt-oder-zerstoert](https://www.spiegel.de/ausland/israel-gaza-krieg-im-gazastreifen-ist-offenbar-mindestens-die-haelfte-aller-gebaeude-beschaedigt-oder-zerstoert-a-59e96452-27a5-4e0d-a442-49e51a72540f#ref=rss)
+### bundeswehr
+
+* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-haushalt-bundeswehr-holocaust-gedenken-die-basis](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-haushalt-bundeswehr-holocaust-gedenken-die-basis-a-f862131f-38ad-42bb-82e1-f70deac5617c#ref=rss)
+### wolfgang
+
+* [https://www.spiegel.de/politik/ampelkoalition-fdp-vize-kubicki-verlangt-kurskorrektur-von-kanzler-scholz](https://www.spiegel.de/politik/ampelkoalition-fdp-vize-kubicki-verlangt-kurskorrektur-von-kanzler-scholz-a-094ccb03-038a-469b-a2eb-2b92198e5db8#ref=rss)
+### kubicki
+
+* [https://www.spiegel.de/politik/ampelkoalition-fdp-vize-kubicki-verlangt-kurskorrektur-von-kanzler-scholz](https://www.spiegel.de/politik/ampelkoalition-fdp-vize-kubicki-verlangt-kurskorrektur-von-kanzler-scholz-a-094ccb03-038a-469b-a2eb-2b92198e5db8#ref=rss)
+### fdpvize
+
+* [https://www.spiegel.de/politik/ampelkoalition-fdp-vize-kubicki-verlangt-kurskorrektur-von-kanzler-scholz](https://www.spiegel.de/politik/ampelkoalition-fdp-vize-kubicki-verlangt-kurskorrektur-von-kanzler-scholz-a-094ccb03-038a-469b-a2eb-2b92198e5db8#ref=rss)
+### neue
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-universal-konzern-will-musik-von-app-abziehen](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-universal-konzern-will-musik-von-app-abziehen-a-f82582a2-c5af-48e4-8171-a7778e031da8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/herkunftslaender-von-honig-muessen-auf-der-verpackung-stehen](https://www.spiegel.de/wirtschaft/herkunftslaender-von-honig-muessen-auf-der-verpackung-stehen-a-d34f7990-d878-474a-9725-2d03fa523562#ref=rss)
+### eu
+
+* [https://www.spiegel.de/wirtschaft/herkunftslaender-von-honig-muessen-auf-der-verpackung-stehen](https://www.spiegel.de/wirtschaft/herkunftslaender-von-honig-muessen-auf-der-verpackung-stehen-a-d34f7990-d878-474a-9725-2d03fa523562#ref=rss)
+### honig
+
+* [https://www.spiegel.de/wirtschaft/herkunftslaender-von-honig-muessen-auf-der-verpackung-stehen](https://www.spiegel.de/wirtschaft/herkunftslaender-von-honig-muessen-auf-der-verpackung-stehen-a-d34f7990-d878-474a-9725-2d03fa523562#ref=rss)
+### chita
+
+* [https://www.spiegel.de/kultur/broadway-legende-chita-rivera-ist-tot](https://www.spiegel.de/kultur/broadway-legende-chita-rivera-ist-tot-a-7336101f-e906-469e-9173-a54ccb83a026#ref=rss)
+### rivera
+
+* [https://www.spiegel.de/kultur/broadway-legende-chita-rivera-ist-tot](https://www.spiegel.de/kultur/broadway-legende-chita-rivera-ist-tot-a-7336101f-e906-469e-9173-a54ccb83a026#ref=rss)
+### elon
+
+* [https://www.spiegel.de/wirtschaft/elon-musk-us-richterin-erklaert-milliardenschweres-gehaltspaket-des-tesla-chefs-fuer-ungueltig](https://www.spiegel.de/wirtschaft/elon-musk-us-richterin-erklaert-milliardenschweres-gehaltspaket-des-tesla-chefs-fuer-ungueltig-a-c0704198-883d-47eb-9f50-416235f1a351#ref=rss)
+### musk
+
+* [https://www.spiegel.de/wirtschaft/elon-musk-us-richterin-erklaert-milliardenschweres-gehaltspaket-des-tesla-chefs-fuer-ungueltig](https://www.spiegel.de/wirtschaft/elon-musk-us-richterin-erklaert-milliardenschweres-gehaltspaket-des-tesla-chefs-fuer-ungueltig-a-c0704198-883d-47eb-9f50-416235f1a351#ref=rss)
 
