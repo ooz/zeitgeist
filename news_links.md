@@ -4,263 +4,350 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### regierung
-
-* [https://www.spiegel.de/sport/fussball/fussballklub-inter-miami-in-hongkong-lionel-messi-sitzt-auf-der-bank-fans-und-regierung-veraergert](https://www.spiegel.de/sport/fussball/fussballklub-inter-miami-in-hongkong-lionel-messi-sitzt-auf-der-bank-fans-und-regierung-veraergert-a-32acc54d-7d15-4172-ada6-46590ac6f1ae#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/kraftwerkstrategie-regierung-will-stromversorgung-in-zwei-schritten-umbauen](https://www.spiegel.de/wirtschaft/soziales/kraftwerkstrategie-regierung-will-stromversorgung-in-zwei-schritten-umbauen-a-fa528a18-388e-4404-b136-db6085edc639#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/rechtsextremismus-kampf-fuer-die-demokratie-was-gegen-die-afd-wirkt](https://www.spiegel.de/politik/deutschland/rechtsextremismus-kampf-fuer-die-demokratie-was-gegen-die-afd-wirkt-a-653ce6dc-3ef2-4191-8fe7-5501ae58789d#ref=rss)
-* [https://www.spiegel.de/ausland/china-australien-entstetzt-ueber-todesstrafe-fuer-yang-hengjun](https://www.spiegel.de/ausland/china-australien-entstetzt-ueber-todesstrafe-fuer-yang-hengjun-a-c55a6a3d-82ba-47a8-b675-a28fb839fe9b#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/justiz/nsu-2-0-komplex-verfahren-gegen-polizisten-in-frankfurt-eingestellt](https://www.spiegel.de/panorama/justiz/nsu-2-0-komplex-verfahren-gegen-polizisten-in-frankfurt-eingestellt-a-4b8438a7-35e5-4778-a160-c8a806177b74#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/kraftwerkstrategie-regierung-will-stromversorgung-in-zwei-schritten-umbauen](https://www.spiegel.de/wirtschaft/soziales/kraftwerkstrategie-regierung-will-stromversorgung-in-zwei-schritten-umbauen-a-fa528a18-388e-4404-b136-db6085edc639#ref=rss)
-* [https://www.spiegel.de/panorama/leute/dieter-bohlen-carina-und-ich-werden-heiraten](https://www.spiegel.de/panorama/leute/dieter-bohlen-carina-und-ich-werden-heiraten-a-51487756-ab28-4006-946a-92728940c183#ref=rss)
-* [https://www.spiegel.de/wirtschaft/boeing-737-max-schon-wieder-ein-problem-aufgetreten](https://www.spiegel.de/wirtschaft/boeing-737-max-schon-wieder-ein-problem-aufgetreten-a-e1951632-ff4a-48cf-a44f-ca8f1992cf75#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/iran-us-pornodarstellerin-reist-offenbar-nach-teheran-und-loest-kontroverse-aus](https://www.spiegel.de/ausland/iran-us-pornodarstellerin-reist-offenbar-nach-teheran-und-loest-kontroverse-aus-a-2c967e93-d4c8-4818-ade0-2e07bbfe570f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/zahl-der-flugreisenden-steigt-um-fast-20-prozent-in-2023](https://www.spiegel.de/wirtschaft/zahl-der-flugreisenden-steigt-um-fast-20-prozent-in-2023-a-389e8118-43e9-46fa-a3f4-7e50ba9b9bf2#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/deepfake-verdacht-kriminelle-erbeuten-millionenbetrag-mit-gefaelschter-videokonferenz](https://www.spiegel.de/netzwelt/web/deepfake-verdacht-kriminelle-erbeuten-millionenbetrag-mit-gefaelschter-videokonferenz-a-14645031-ab6b-4187-9abc-ea4f8f682bdf#ref=rss)
-### 2023
-
-* [https://www.spiegel.de/wirtschaft/zahl-der-flugreisenden-steigt-um-fast-20-prozent-in-2023](https://www.spiegel.de/wirtschaft/zahl-der-flugreisenden-steigt-um-fast-20-prozent-in-2023-a-389e8118-43e9-46fa-a3f4-7e50ba9b9bf2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutschland-exporte-sinken-2023-unerwartet-stark](https://www.spiegel.de/wirtschaft/deutschland-exporte-sinken-2023-unerwartet-stark-a-4483322d-7523-410f-8486-91520514cd83#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/wirtschaft/zahl-der-flugreisenden-steigt-um-fast-20-prozent-in-2023](https://www.spiegel.de/wirtschaft/zahl-der-flugreisenden-steigt-um-fast-20-prozent-in-2023-a-389e8118-43e9-46fa-a3f4-7e50ba9b9bf2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutschland-exporte-sinken-2023-unerwartet-stark](https://www.spiegel.de/wirtschaft/deutschland-exporte-sinken-2023-unerwartet-stark-a-4483322d-7523-410f-8486-91520514cd83#ref=rss)
-* [https://www.spiegel.de/geschichte/asylpolitik-wie-rechtsextreme-die-spd-vor-sich-her-treiben-mal-wieder](https://www.spiegel.de/geschichte/asylpolitik-wie-rechtsextreme-die-spd-vor-sich-her-treiben-mal-wieder-a-f6b9af79-e801-4e76-a889-17badacdfb80#ref=rss)
-### demokratie
+* [https://www.spiegel.de/panorama/gesellschaft/suv-parkgebuehren-muessen-schwere-autos-bald-auch-in-deutschland-mehr-blechen](https://www.spiegel.de/panorama/gesellschaft/suv-parkgebuehren-muessen-schwere-autos-bald-auch-in-deutschland-mehr-blechen-a-0be96e88-22e3-47d4-b073-7a14a0ed4f1e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tyre-extinguishers-streiks-in-deutschland-kraftwerksstrategie-der-regierung](https://www.spiegel.de/politik/deutschland/news-des-tages-tyre-extinguishers-streiks-in-deutschland-kraftwerksstrategie-der-regierung-a-7181c61f-bb21-40d5-b797-19e756104dfa#ref=rss)
+* [https://www.spiegel.de/sport/fussball/kurt-hamrin-ist-tot-nachruf-auf-die-fussball-ikone-aus-schweden-in-deutschland-wurde-er-gehasst-in-italien-wurde-er-geliebt](https://www.spiegel.de/sport/fussball/kurt-hamrin-ist-tot-nachruf-auf-die-fussball-ikone-aus-schweden-in-deutschland-wurde-er-gehasst-in-italien-wurde-er-geliebt-a-93fef0ce-ddbc-4e0c-a170-efb5abe3813b#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/digitalisierung-an-schulen-deutschland-loest-sich-nur-langsam-aus-der-kreidezeit](https://www.spiegel.de/panorama/bildung/digitalisierung-an-schulen-deutschland-loest-sich-nur-langsam-aus-der-kreidezeit-a-252dfdf5-b1d2-49b3-9f56-8313ee158a65#ref=rss)
+### autos
 
-* [https://www.spiegel.de/politik/deutschland/rechtsextremismus-zeitzeugen-rufen-zur-verteidigung-der-demokratie-auf](https://www.spiegel.de/politik/deutschland/rechtsextremismus-zeitzeugen-rufen-zur-verteidigung-der-demokratie-auf-a-74bdbed6-833d-4a8d-ac5d-b25ca70358d4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/rechtsextremismus-kampf-fuer-die-demokratie-was-gegen-die-afd-wirkt](https://www.spiegel.de/politik/deutschland/rechtsextremismus-kampf-fuer-die-demokratie-was-gegen-die-afd-wirkt-a-653ce6dc-3ef2-4191-8fe7-5501ae58789d#ref=rss)
-### hongkong
+* [https://www.spiegel.de/panorama/gesellschaft/suv-parkgebuehren-muessen-schwere-autos-bald-auch-in-deutschland-mehr-blechen](https://www.spiegel.de/panorama/gesellschaft/suv-parkgebuehren-muessen-schwere-autos-bald-auch-in-deutschland-mehr-blechen-a-0be96e88-22e3-47d4-b073-7a14a0ed4f1e#ref=rss)
+* [https://www.spiegel.de/auto/mobilitaet-rund-jedes-zehnte-neu-zugelassene-auto-im-januar-hatte-einen-rein-elektrischen-antrieb](https://www.spiegel.de/auto/mobilitaet-rund-jedes-zehnte-neu-zugelassene-auto-im-januar-hatte-einen-rein-elektrischen-antrieb-a-7d9edd58-12d5-4fd8-8b17-d598b8f45029#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tyre-extinguishers-streiks-in-deutschland-kraftwerksstrategie-der-regierung](https://www.spiegel.de/politik/deutschland/news-des-tages-tyre-extinguishers-streiks-in-deutschland-kraftwerksstrategie-der-regierung-a-7181c61f-bb21-40d5-b797-19e756104dfa#ref=rss)
+### alle
 
-* [https://www.spiegel.de/netzwelt/web/deepfake-verdacht-kriminelle-erbeuten-millionenbetrag-mit-gefaelschter-videokonferenz](https://www.spiegel.de/netzwelt/web/deepfake-verdacht-kriminelle-erbeuten-millionenbetrag-mit-gefaelschter-videokonferenz-a-14645031-ab6b-4187-9abc-ea4f8f682bdf#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussballklub-inter-miami-in-hongkong-lionel-messi-sitzt-auf-der-bank-fans-und-regierung-veraergert](https://www.spiegel.de/sport/fussball/fussballklub-inter-miami-in-hongkong-lionel-messi-sitzt-auf-der-bank-fans-und-regierung-veraergert-a-32acc54d-7d15-4172-ada6-46590ac6f1ae#ref=rss)
-### menschen
+* [https://www.spiegel.de/panorama/justiz/walter-mixa-strafverfahren-gegen-frueheren-augsburger-bischof-ermittlungen-in-der-schweiz](https://www.spiegel.de/panorama/justiz/walter-mixa-strafverfahren-gegen-frueheren-augsburger-bischof-ermittlungen-in-der-schweiz-a-00b1e559-2d84-41ab-8f31-c1fbd725c77d#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner](https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner-a-a6a295c6-d995-44a0-8535-d2ff1cf404ef#ref=rss)
+* [https://www.spiegel.de/wirtschaft/darum-mussten-alle-filialen-von-postbank-und-deutscher-bank-schliessen](https://www.spiegel.de/wirtschaft/darum-mussten-alle-filialen-von-postbank-und-deutscher-bank-schliessen-a-027e2e91-d49f-4266-abb6-4086bbd1fe45#ref=rss)
+### shapira
 
-* [https://www.spiegel.de/panorama/justiz/weinstadt-in-baden-wuerttemberg-mit-beil-bewaffneter-mann-loest-sek-einsatz-aus](https://www.spiegel.de/panorama/justiz/weinstadt-in-baden-wuerttemberg-mit-beil-bewaffneter-mann-loest-sek-einsatz-aus-a-32fa6e90-a431-482d-b14a-69fef2d0b746#ref=rss)
-* [https://www.spiegel.de/panorama/alte-menschen-am-steuer-sollten-90-jaehrige-noch-auto-fahren](https://www.spiegel.de/panorama/alte-menschen-am-steuer-sollten-90-jaehrige-noch-auto-fahren-a-eabe8925-572a-4d98-a492-0003953e9cbf#ref=rss)
-### ich
+* [https://www.spiegel.de/panorama/justiz/berlin-was-ueber-den-angriff-auf-lahav-shapira-bruder-des-satirikers-shahak-shapira-bekannt-ist](https://www.spiegel.de/panorama/justiz/berlin-was-ueber-den-angriff-auf-lahav-shapira-bruder-des-satirikers-shahak-shapira-bekannt-ist-a-b81977e5-81bb-4295-b995-e989a57f7b14#ref=rss)
+### tag
 
-* [https://www.spiegel.de/panorama/leute/dieter-bohlen-carina-und-ich-werden-heiraten](https://www.spiegel.de/panorama/leute/dieter-bohlen-carina-und-ich-werden-heiraten-a-51487756-ab28-4006-946a-92728940c183#ref=rss)
-* [https://www.spiegel.de/panorama/leute/poonam-pandey-indisches-model-taeuscht-eigenen-tod-vor-fuer-krebskampagne](https://www.spiegel.de/panorama/leute/poonam-pandey-indisches-model-taeuscht-eigenen-tod-vor-fuer-krebskampagne-a-7e252158-a7bb-4d8e-b8d3-53036eafaefd#ref=rss)
-* [https://www.spiegel.de/familie/fortnite-darf-ein-12-jaehriger-das-populaere-onlinespiel-spielen](https://www.spiegel.de/familie/fortnite-darf-ein-12-jaehriger-das-populaere-onlinespiel-spielen-a-0cd93690-f2fc-4e66-a39b-21b321c0c2d9#ref=rss)
-### iran
+* [https://www.spiegel.de/panorama/gesellschaft/suv-parkgebuehren-muessen-schwere-autos-bald-auch-in-deutschland-mehr-blechen](https://www.spiegel.de/panorama/gesellschaft/suv-parkgebuehren-muessen-schwere-autos-bald-auch-in-deutschland-mehr-blechen-a-0be96e88-22e3-47d4-b073-7a14a0ed4f1e#ref=rss)
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### christian
 
-* [https://www.spiegel.de/ausland/iran-us-pornodarstellerin-reist-offenbar-nach-teheran-und-loest-kontroverse-aus](https://www.spiegel.de/ausland/iran-us-pornodarstellerin-reist-offenbar-nach-teheran-und-loest-kontroverse-aus-a-2c967e93-d4c8-4818-ade0-2e07bbfe570f#ref=rss)
-### löst
+* [https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner](https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner-a-a6a295c6-d995-44a0-8535-d2ff1cf404ef#ref=rss)
+* [https://www.spiegel.de/wirtschaft/christian-lindners-plan-zur-soli-abschaffung-trifft-auf-gegenwind-in-der-ampelkoalition](https://www.spiegel.de/wirtschaft/christian-lindners-plan-zur-soli-abschaffung-trifft-auf-gegenwind-in-der-ampelkoalition-a-40bfc3d8-d5a8-4367-bad3-a7d2506d4342#ref=rss)
+### wohl
 
-* [https://www.spiegel.de/ausland/iran-us-pornodarstellerin-reist-offenbar-nach-teheran-und-loest-kontroverse-aus](https://www.spiegel.de/ausland/iran-us-pornodarstellerin-reist-offenbar-nach-teheran-und-loest-kontroverse-aus-a-2c967e93-d4c8-4818-ade0-2e07bbfe570f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/weinstadt-in-baden-wuerttemberg-mit-beil-bewaffneter-mann-loest-sek-einsatz-aus](https://www.spiegel.de/panorama/justiz/weinstadt-in-baden-wuerttemberg-mit-beil-bewaffneter-mann-loest-sek-einsatz-aus-a-32fa6e90-a431-482d-b14a-69fef2d0b746#ref=rss)
-### konnte
+* [https://www.spiegel.de/wirtschaft/darum-mussten-alle-filialen-von-postbank-und-deutscher-bank-schliessen](https://www.spiegel.de/wirtschaft/darum-mussten-alle-filialen-von-postbank-und-deutscher-bank-schliessen-a-027e2e91-d49f-4266-abb6-4086bbd1fe45#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-was-ueber-den-angriff-auf-lahav-shapira-bruder-des-satirikers-shahak-shapira-bekannt-ist](https://www.spiegel.de/panorama/justiz/berlin-was-ueber-den-angriff-auf-lahav-shapira-bruder-des-satirikers-shahak-shapira-bekannt-ist-a-b81977e5-81bb-4295-b995-e989a57f7b14#ref=rss)
+* [https://www.spiegel.de/wirtschaft/miele-streicht-wohl-weltweit-2000-stellen](https://www.spiegel.de/wirtschaft/miele-streicht-wohl-weltweit-2000-stellen-a-d3055ef1-c805-49a0-9f42-8b58f5fed9d3#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/ausland/iran-us-pornodarstellerin-reist-offenbar-nach-teheran-und-loest-kontroverse-aus](https://www.spiegel.de/ausland/iran-us-pornodarstellerin-reist-offenbar-nach-teheran-und-loest-kontroverse-aus-a-2c967e93-d4c8-4818-ade0-2e07bbfe570f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/weinstadt-in-baden-wuerttemberg-mit-beil-bewaffneter-mann-loest-sek-einsatz-aus](https://www.spiegel.de/panorama/justiz/weinstadt-in-baden-wuerttemberg-mit-beil-bewaffneter-mann-loest-sek-einsatz-aus-a-32fa6e90-a431-482d-b14a-69fef2d0b746#ref=rss)
-### niedersachsen
+* [https://www.spiegel.de/wirtschaft/darum-mussten-alle-filialen-von-postbank-und-deutscher-bank-schliessen](https://www.spiegel.de/wirtschaft/darum-mussten-alle-filialen-von-postbank-und-deutscher-bank-schliessen-a-027e2e91-d49f-4266-abb6-4086bbd1fe45#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutsche-bahn-nach-brandbrief-an-chef-richard-lutz-kahlschlag-erschuettert-spd](https://www.spiegel.de/politik/deutschland/deutsche-bahn-nach-brandbrief-an-chef-richard-lutz-kahlschlag-erschuettert-spd-a-be8758ee-63fe-499a-a48b-5236453520a0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kraftwerksstrategie-das-sind-die-ersten-reaktionen](https://www.spiegel.de/wirtschaft/kraftwerksstrategie-das-sind-die-ersten-reaktionen-a-1d710736-91ae-4d37-923e-40e040546165#ref=rss)
+### israel
 
-* [https://www.spiegel.de/panorama/brockel-in-niedersachsen-krankenwagen-ueberschlaegt-sich-mehrfach-fuenf-verletzte](https://www.spiegel.de/panorama/brockel-in-niedersachsen-krankenwagen-ueberschlaegt-sich-mehrfach-fuenf-verletzte-a-c7f93880-859e-4a2b-8cc6-b3684327a427#ref=rss)
-### krankenwagen
+* [https://www.spiegel.de/ausland/catherine-colonna-soll-untersuchungen-zu-vorwuerfen-gegen-unrwa-mitarbeiter-leiten](https://www.spiegel.de/ausland/catherine-colonna-soll-untersuchungen-zu-vorwuerfen-gegen-unrwa-mitarbeiter-leiten-a-f9dba085-d074-434c-b094-b258b2eb85ac#ref=rss)
+* [https://www.spiegel.de/ausland/huthi-angriffe-australien-stoppt-schiff-mit-14-000-schafen-auf-weg-nach-israel](https://www.spiegel.de/ausland/huthi-angriffe-australien-stoppt-schiff-mit-14-000-schafen-auf-weg-nach-israel-a-41a22506-c47c-4f36-8f4e-6006b708498c#ref=rss)
+### landgericht
 
-* [https://www.spiegel.de/panorama/brockel-in-niedersachsen-krankenwagen-ueberschlaegt-sich-mehrfach-fuenf-verletzte](https://www.spiegel.de/panorama/brockel-in-niedersachsen-krankenwagen-ueberschlaegt-sich-mehrfach-fuenf-verletzte-a-c7f93880-859e-4a2b-8cc6-b3684327a427#ref=rss)
-### fünf
+* [https://www.spiegel.de/panorama/justiz/tod-auf-klassenfahrt-in-london-landgericht-moenchengladbach-erwaegt-verurteilung-zweier-lehrerinnen](https://www.spiegel.de/panorama/justiz/tod-auf-klassenfahrt-in-london-landgericht-moenchengladbach-erwaegt-verurteilung-zweier-lehrerinnen-a-02f2eb8c-b0c8-4b68-8312-b546e3ec7b93#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/arafat-abou-chaker-ex-manager-von-bushido-von-hauptvorwuerfen-freigesprochen](https://www.spiegel.de/panorama/justiz/arafat-abou-chaker-ex-manager-von-bushido-von-hauptvorwuerfen-freigesprochen-a-4040d8dd-3b5a-4535-834e-9b727fea15d1#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/panorama/brockel-in-niedersachsen-krankenwagen-ueberschlaegt-sich-mehrfach-fuenf-verletzte](https://www.spiegel.de/panorama/brockel-in-niedersachsen-krankenwagen-ueberschlaegt-sich-mehrfach-fuenf-verletzte-a-c7f93880-859e-4a2b-8cc6-b3684327a427#ref=rss)
-* [https://www.spiegel.de/wirtschaft/samsung-chef-in-betrugsprozess-freigesprochen](https://www.spiegel.de/wirtschaft/samsung-chef-in-betrugsprozess-freigesprochen-a-81de8279-eb61-4dce-99e1-3231d88369a4#ref=rss)
-### zahl
+* [https://www.spiegel.de/panorama/justiz/berlin-was-ueber-den-angriff-auf-lahav-shapira-bruder-des-satirikers-shahak-shapira-bekannt-ist](https://www.spiegel.de/panorama/justiz/berlin-was-ueber-den-angriff-auf-lahav-shapira-bruder-des-satirikers-shahak-shapira-bekannt-ist-a-b81977e5-81bb-4295-b995-e989a57f7b14#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/arafat-abou-chaker-ex-manager-von-bushido-von-hauptvorwuerfen-freigesprochen](https://www.spiegel.de/panorama/justiz/arafat-abou-chaker-ex-manager-von-bushido-von-hauptvorwuerfen-freigesprochen-a-4040d8dd-3b5a-4535-834e-9b727fea15d1#ref=rss)
+### spiegel
 
-* [https://www.spiegel.de/wirtschaft/zahl-der-flugreisenden-steigt-um-fast-20-prozent-in-2023](https://www.spiegel.de/wirtschaft/zahl-der-flugreisenden-steigt-um-fast-20-prozent-in-2023-a-389e8118-43e9-46fa-a3f4-7e50ba9b9bf2#ref=rss)
-### 20
+* [https://www.spiegel.de/politik/deutschland/deutsche-bahn-nach-brandbrief-an-chef-richard-lutz-kahlschlag-erschuettert-spd](https://www.spiegel.de/politik/deutschland/deutsche-bahn-nach-brandbrief-an-chef-richard-lutz-kahlschlag-erschuettert-spd-a-be8758ee-63fe-499a-a48b-5236453520a0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/henryk-m-broder-bundesinnenministerium-darf-textpassagen-nicht-veroeffentlichen](https://www.spiegel.de/politik/deutschland/henryk-m-broder-bundesinnenministerium-darf-textpassagen-nicht-veroeffentlichen-a-462c3ded-d6ea-48fb-bd86-b39e9a2447f4#ref=rss)
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### erst
 
-* [https://www.spiegel.de/wirtschaft/zahl-der-flugreisenden-steigt-um-fast-20-prozent-in-2023](https://www.spiegel.de/wirtschaft/zahl-der-flugreisenden-steigt-um-fast-20-prozent-in-2023-a-389e8118-43e9-46fa-a3f4-7e50ba9b9bf2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/nsu-2-0-komplex-verfahren-gegen-polizisten-in-frankfurt-eingestellt](https://www.spiegel.de/panorama/justiz/nsu-2-0-komplex-verfahren-gegen-polizisten-in-frankfurt-eingestellt-a-4b8438a7-35e5-4778-a160-c8a806177b74#ref=rss)
-### viele
+* [https://www.spiegel.de/wirtschaft/christian-lindners-plan-zur-soli-abschaffung-trifft-auf-gegenwind-in-der-ampelkoalition](https://www.spiegel.de/wirtschaft/christian-lindners-plan-zur-soli-abschaffung-trifft-auf-gegenwind-in-der-ampelkoalition-a-40bfc3d8-d5a8-4367-bad3-a7d2506d4342#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/digitalisierung-an-schulen-deutschland-loest-sich-nur-langsam-aus-der-kreidezeit](https://www.spiegel.de/panorama/bildung/digitalisierung-an-schulen-deutschland-loest-sich-nur-langsam-aus-der-kreidezeit-a-252dfdf5-b1d2-49b3-9f56-8313ee158a65#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-vitali-klitschko-verteidigt-armeechef-walerij-saluschny](https://www.spiegel.de/ausland/ukraine-vitali-klitschko-verteidigt-armeechef-walerij-saluschny-a-6ebb5ea7-d296-4b1b-9e35-66cdadbdd1da#ref=rss)
+### tot
 
-* [https://www.spiegel.de/wirtschaft/zahl-der-flugreisenden-steigt-um-fast-20-prozent-in-2023](https://www.spiegel.de/wirtschaft/zahl-der-flugreisenden-steigt-um-fast-20-prozent-in-2023-a-389e8118-43e9-46fa-a3f4-7e50ba9b9bf2#ref=rss)
-* [https://www.spiegel.de/familie/fortnite-darf-ein-12-jaehriger-das-populaere-onlinespiel-spielen](https://www.spiegel.de/familie/fortnite-darf-ein-12-jaehriger-das-populaere-onlinespiel-spielen-a-0cd93690-f2fc-4e66-a39b-21b321c0c2d9#ref=rss)
-### luft
+* [https://www.spiegel.de/panorama/justiz/nuernberg-mann-stiehlt-offenbar-hund-und-schlaegt-ihn-tot](https://www.spiegel.de/panorama/justiz/nuernberg-mann-stiehlt-offenbar-hund-und-schlaegt-ihn-tot-a-e04091af-6dee-4606-9317-e05ccdc22926#ref=rss)
+* [https://www.spiegel.de/sport/fussball/kurt-hamrin-ist-tot-nachruf-auf-die-fussball-ikone-aus-schweden-in-deutschland-wurde-er-gehasst-in-italien-wurde-er-geliebt](https://www.spiegel.de/sport/fussball/kurt-hamrin-ist-tot-nachruf-auf-die-fussball-ikone-aus-schweden-in-deutschland-wurde-er-gehasst-in-italien-wurde-er-geliebt-a-93fef0ce-ddbc-4e0c-a170-efb5abe3813b#ref=rss)
+### schwere
 
-* [https://www.spiegel.de/wirtschaft/zahl-der-flugreisenden-steigt-um-fast-20-prozent-in-2023](https://www.spiegel.de/wirtschaft/zahl-der-flugreisenden-steigt-um-fast-20-prozent-in-2023-a-389e8118-43e9-46fa-a3f4-7e50ba9b9bf2#ref=rss)
-* [https://www.spiegel.de/auto/suv-reifen-plaetten-wie-klimaaktivisten-nachts-autofahrer-veraergern-und-damit-durchkommen](https://www.spiegel.de/auto/suv-reifen-plaetten-wie-klimaaktivisten-nachts-autofahrer-veraergern-und-damit-durchkommen-a-b49f1b01-cd4a-4ecc-9dd5-61f246703683#ref=rss)
-### rechtsextremismus
+* [https://www.spiegel.de/panorama/gesellschaft/suv-parkgebuehren-muessen-schwere-autos-bald-auch-in-deutschland-mehr-blechen](https://www.spiegel.de/panorama/gesellschaft/suv-parkgebuehren-muessen-schwere-autos-bald-auch-in-deutschland-mehr-blechen-a-0be96e88-22e3-47d4-b073-7a14a0ed4f1e#ref=rss)
+### bald
 
-* [https://www.spiegel.de/politik/deutschland/rechtsextremismus-zeitzeugen-rufen-zur-verteidigung-der-demokratie-auf](https://www.spiegel.de/politik/deutschland/rechtsextremismus-zeitzeugen-rufen-zur-verteidigung-der-demokratie-auf-a-74bdbed6-833d-4a8d-ac5d-b25ca70358d4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/rechtsextremismus-kampf-fuer-die-demokratie-was-gegen-die-afd-wirkt](https://www.spiegel.de/politik/deutschland/rechtsextremismus-kampf-fuer-die-demokratie-was-gegen-die-afd-wirkt-a-653ce6dc-3ef2-4191-8fe7-5501ae58789d#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/suv-parkgebuehren-muessen-schwere-autos-bald-auch-in-deutschland-mehr-blechen](https://www.spiegel.de/panorama/gesellschaft/suv-parkgebuehren-muessen-schwere-autos-bald-auch-in-deutschland-mehr-blechen-a-0be96e88-22e3-47d4-b073-7a14a0ed4f1e#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/politik/deutschland/rechtsextremismus-zeitzeugen-rufen-zur-verteidigung-der-demokratie-auf](https://www.spiegel.de/politik/deutschland/rechtsextremismus-zeitzeugen-rufen-zur-verteidigung-der-demokratie-auf-a-74bdbed6-833d-4a8d-ac5d-b25ca70358d4#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/deepfake-verdacht-kriminelle-erbeuten-millionenbetrag-mit-gefaelschter-videokonferenz](https://www.spiegel.de/netzwelt/web/deepfake-verdacht-kriminelle-erbeuten-millionenbetrag-mit-gefaelschter-videokonferenz-a-14645031-ab6b-4187-9abc-ea4f8f682bdf#ref=rss)
-### bremen
+* [https://www.spiegel.de/panorama/gesellschaft/suv-parkgebuehren-muessen-schwere-autos-bald-auch-in-deutschland-mehr-blechen](https://www.spiegel.de/panorama/gesellschaft/suv-parkgebuehren-muessen-schwere-autos-bald-auch-in-deutschland-mehr-blechen-a-0be96e88-22e3-47d4-b073-7a14a0ed4f1e#ref=rss)
+* [https://www.spiegel.de/auto/mobilitaet-rund-jedes-zehnte-neu-zugelassene-auto-im-januar-hatte-einen-rein-elektrischen-antrieb](https://www.spiegel.de/auto/mobilitaet-rund-jedes-zehnte-neu-zugelassene-auto-im-januar-hatte-einen-rein-elektrischen-antrieb-a-7d9edd58-12d5-4fd8-8b17-d598b8f45029#ref=rss)
+### lage
 
-* [https://www.spiegel.de/panorama/gesellschaft/bremen-will-die-schuldenbremse-fuer-klimaschutzmassnahmen-aussetzen](https://www.spiegel.de/panorama/gesellschaft/bremen-will-die-schuldenbremse-fuer-klimaschutzmassnahmen-aussetzen-a-f5ca95ec-6fa0-4f3a-a1c6-410bf7ff4a2e#ref=rss)
-### schuldenbremse
-
-* [https://www.spiegel.de/panorama/gesellschaft/bremen-will-die-schuldenbremse-fuer-klimaschutzmassnahmen-aussetzen](https://www.spiegel.de/panorama/gesellschaft/bremen-will-die-schuldenbremse-fuer-klimaschutzmassnahmen-aussetzen-a-f5ca95ec-6fa0-4f3a-a1c6-410bf7ff4a2e#ref=rss)
-### spd
-
-* [https://www.spiegel.de/panorama/gesellschaft/bremen-will-die-schuldenbremse-fuer-klimaschutzmassnahmen-aussetzen](https://www.spiegel.de/panorama/gesellschaft/bremen-will-die-schuldenbremse-fuer-klimaschutzmassnahmen-aussetzen-a-f5ca95ec-6fa0-4f3a-a1c6-410bf7ff4a2e#ref=rss)
-* [https://www.spiegel.de/geschichte/asylpolitik-wie-rechtsextreme-die-spd-vor-sich-her-treiben-mal-wieder](https://www.spiegel.de/geschichte/asylpolitik-wie-rechtsextreme-die-spd-vor-sich-her-treiben-mal-wieder-a-f6b9af79-e801-4e76-a889-17badacdfb80#ref=rss)
-### videokonferenz
-
-* [https://www.spiegel.de/netzwelt/web/deepfake-verdacht-kriminelle-erbeuten-millionenbetrag-mit-gefaelschter-videokonferenz](https://www.spiegel.de/netzwelt/web/deepfake-verdacht-kriminelle-erbeuten-millionenbetrag-mit-gefaelschter-videokonferenz-a-14645031-ab6b-4187-9abc-ea4f8f682bdf#ref=rss)
-### geschickt
-
-* [https://www.spiegel.de/netzwelt/web/deepfake-verdacht-kriminelle-erbeuten-millionenbetrag-mit-gefaelschter-videokonferenz](https://www.spiegel.de/netzwelt/web/deepfake-verdacht-kriminelle-erbeuten-millionenbetrag-mit-gefaelschter-videokonferenz-a-14645031-ab6b-4187-9abc-ea4f8f682bdf#ref=rss)
-* [https://www.spiegel.de/auto/suv-reifen-plaetten-wie-klimaaktivisten-nachts-autofahrer-veraergern-und-damit-durchkommen](https://www.spiegel.de/auto/suv-reifen-plaetten-wie-klimaaktivisten-nachts-autofahrer-veraergern-und-damit-durchkommen-a-b49f1b01-cd4a-4ecc-9dd5-61f246703683#ref=rss)
-### lionel
-
-* [https://www.spiegel.de/sport/fussball/fussballklub-inter-miami-in-hongkong-lionel-messi-sitzt-auf-der-bank-fans-und-regierung-veraergert](https://www.spiegel.de/sport/fussball/fussballklub-inter-miami-in-hongkong-lionel-messi-sitzt-auf-der-bank-fans-und-regierung-veraergert-a-32acc54d-7d15-4172-ada6-46590ac6f1ae#ref=rss)
-### messi
-
-* [https://www.spiegel.de/sport/fussball/fussballklub-inter-miami-in-hongkong-lionel-messi-sitzt-auf-der-bank-fans-und-regierung-veraergert](https://www.spiegel.de/sport/fussball/fussballklub-inter-miami-in-hongkong-lionel-messi-sitzt-auf-der-bank-fans-und-regierung-veraergert-a-32acc54d-7d15-4172-ada6-46590ac6f1ae#ref=rss)
-### bank
-
-* [https://www.spiegel.de/sport/fussball/fussballklub-inter-miami-in-hongkong-lionel-messi-sitzt-auf-der-bank-fans-und-regierung-veraergert](https://www.spiegel.de/sport/fussball/fussballklub-inter-miami-in-hongkong-lionel-messi-sitzt-auf-der-bank-fans-und-regierung-veraergert-a-32acc54d-7d15-4172-ada6-46590ac6f1ae#ref=rss)
-### fans
-
-* [https://www.spiegel.de/sport/fussball/fussballklub-inter-miami-in-hongkong-lionel-messi-sitzt-auf-der-bank-fans-und-regierung-veraergert](https://www.spiegel.de/sport/fussball/fussballklub-inter-miami-in-hongkong-lionel-messi-sitzt-auf-der-bank-fans-und-regierung-veraergert-a-32acc54d-7d15-4172-ada6-46590ac6f1ae#ref=rss)
-### glücklich
-
-* [https://www.spiegel.de/stil/rezept-heute-gibt-es-pasta-e-patate](https://www.spiegel.de/stil/rezept-heute-gibt-es-pasta-e-patate-a-7948843d-56bc-4ac0-94ed-b020a4d438b6#ref=rss)
-* [https://www.spiegel.de/karriere/angst-vor-dem-neuen-job-tipps-von-der-karriereberaterin](https://www.spiegel.de/karriere/angst-vor-dem-neuen-job-tipps-von-der-karriereberaterin-a-6fefab9c-9526-4ff8-998b-405433646d5a#ref=rss)
-### nsu
-
-* [https://www.spiegel.de/panorama/justiz/nsu-2-0-komplex-verfahren-gegen-polizisten-in-frankfurt-eingestellt](https://www.spiegel.de/panorama/justiz/nsu-2-0-komplex-verfahren-gegen-polizisten-in-frankfurt-eingestellt-a-4b8438a7-35e5-4778-a160-c8a806177b74#ref=rss)
-### eingestellt
-
-* [https://www.spiegel.de/panorama/justiz/nsu-2-0-komplex-verfahren-gegen-polizisten-in-frankfurt-eingestellt](https://www.spiegel.de/panorama/justiz/nsu-2-0-komplex-verfahren-gegen-polizisten-in-frankfurt-eingestellt-a-4b8438a7-35e5-4778-a160-c8a806177b74#ref=rss)
-### lucy
-
-* [https://www.spiegel.de/kultur/lucy-diakovska-gewinnt-das-dschungelcamp-bei-rtl-showbiz-sex-dinge-und-parasoziale-beziehungen](https://www.spiegel.de/kultur/lucy-diakovska-gewinnt-das-dschungelcamp-bei-rtl-showbiz-sex-dinge-und-parasoziale-beziehungen-a-d570019d-cbeb-43a2-bf24-fae479093d1f#ref=rss)
-### gut
-
-* [https://www.spiegel.de/kultur/lucy-diakovska-gewinnt-das-dschungelcamp-bei-rtl-showbiz-sex-dinge-und-parasoziale-beziehungen](https://www.spiegel.de/kultur/lucy-diakovska-gewinnt-das-dschungelcamp-bei-rtl-showbiz-sex-dinge-und-parasoziale-beziehungen-a-d570019d-cbeb-43a2-bf24-fae479093d1f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutschland-exporte-sinken-2023-unerwartet-stark](https://www.spiegel.de/wirtschaft/deutschland-exporte-sinken-2023-unerwartet-stark-a-4483322d-7523-410f-8486-91520514cd83#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/suv-parkgebuehren-muessen-schwere-autos-bald-auch-in-deutschland-mehr-blechen](https://www.spiegel.de/panorama/gesellschaft/suv-parkgebuehren-muessen-schwere-autos-bald-auch-in-deutschland-mehr-blechen-a-0be96e88-22e3-47d4-b073-7a14a0ed4f1e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tyre-extinguishers-streiks-in-deutschland-kraftwerksstrategie-der-regierung](https://www.spiegel.de/politik/deutschland/news-des-tages-tyre-extinguishers-streiks-in-deutschland-kraftwerksstrategie-der-regierung-a-7181c61f-bb21-40d5-b797-19e756104dfa#ref=rss)
 ### deutschen
 
-* [https://www.spiegel.de/wirtschaft/soziales/kraftwerkstrategie-regierung-will-stromversorgung-in-zwei-schritten-umbauen](https://www.spiegel.de/wirtschaft/soziales/kraftwerkstrategie-regierung-will-stromversorgung-in-zwei-schritten-umbauen-a-fa528a18-388e-4404-b136-db6085edc639#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutschland-exporte-sinken-2023-unerwartet-stark](https://www.spiegel.de/wirtschaft/deutschland-exporte-sinken-2023-unerwartet-stark-a-4483322d-7523-410f-8486-91520514cd83#ref=rss)
-### vorgehen
+* [https://www.spiegel.de/panorama/gesellschaft/suv-parkgebuehren-muessen-schwere-autos-bald-auch-in-deutschland-mehr-blechen](https://www.spiegel.de/panorama/gesellschaft/suv-parkgebuehren-muessen-schwere-autos-bald-auch-in-deutschland-mehr-blechen-a-0be96e88-22e3-47d4-b073-7a14a0ed4f1e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/energiewende-das-bringt-die-kraftwerkstrategie-der-regierung](https://www.spiegel.de/wirtschaft/service/energiewende-das-bringt-die-kraftwerkstrategie-der-regierung-a-07523837-156a-4e62-b6ec-c793af0fe2db#ref=rss)
+### kalifornien
 
-* [https://www.spiegel.de/wirtschaft/soziales/kraftwerkstrategie-regierung-will-stromversorgung-in-zwei-schritten-umbauen](https://www.spiegel.de/wirtschaft/soziales/kraftwerkstrategie-regierung-will-stromversorgung-in-zwei-schritten-umbauen-a-fa528a18-388e-4404-b136-db6085edc639#ref=rss)
-* [https://www.spiegel.de/auto/suv-reifen-plaetten-wie-klimaaktivisten-nachts-autofahrer-veraergern-und-damit-durchkommen](https://www.spiegel.de/auto/suv-reifen-plaetten-wie-klimaaktivisten-nachts-autofahrer-veraergern-und-damit-durchkommen-a-b49f1b01-cd4a-4ecc-9dd5-61f246703683#ref=rss)
-### weinstadt
+* [https://www.spiegel.de/panorama/pineapple-express-heftiges-unwetter-zieht-ueber-kalifornien](https://www.spiegel.de/panorama/pineapple-express-heftiges-unwetter-zieht-ueber-kalifornien-a-f541db20-e7d4-4ff7-b0e7-c0a3d183adf0#ref=rss)
+### ohne
 
-* [https://www.spiegel.de/panorama/justiz/weinstadt-in-baden-wuerttemberg-mit-beil-bewaffneter-mann-loest-sek-einsatz-aus](https://www.spiegel.de/panorama/justiz/weinstadt-in-baden-wuerttemberg-mit-beil-bewaffneter-mann-loest-sek-einsatz-aus-a-32fa6e90-a431-482d-b14a-69fef2d0b746#ref=rss)
-### beil
+* [https://www.spiegel.de/panorama/pineapple-express-heftiges-unwetter-zieht-ueber-kalifornien](https://www.spiegel.de/panorama/pineapple-express-heftiges-unwetter-zieht-ueber-kalifornien-a-f541db20-e7d4-4ff7-b0e7-c0a3d183adf0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/energiewende-das-bringt-die-kraftwerkstrategie-der-regierung](https://www.spiegel.de/wirtschaft/service/energiewende-das-bringt-die-kraftwerkstrategie-der-regierung-a-07523837-156a-4e62-b6ec-c793af0fe2db#ref=rss)
+### strom
 
-* [https://www.spiegel.de/panorama/justiz/weinstadt-in-baden-wuerttemberg-mit-beil-bewaffneter-mann-loest-sek-einsatz-aus](https://www.spiegel.de/panorama/justiz/weinstadt-in-baden-wuerttemberg-mit-beil-bewaffneter-mann-loest-sek-einsatz-aus-a-32fa6e90-a431-482d-b14a-69fef2d0b746#ref=rss)
+* [https://www.spiegel.de/panorama/pineapple-express-heftiges-unwetter-zieht-ueber-kalifornien](https://www.spiegel.de/panorama/pineapple-express-heftiges-unwetter-zieht-ueber-kalifornien-a-f541db20-e7d4-4ff7-b0e7-c0a3d183adf0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tyre-extinguishers-streiks-in-deutschland-kraftwerksstrategie-der-regierung](https://www.spiegel.de/politik/deutschland/news-des-tages-tyre-extinguishers-streiks-in-deutschland-kraftwerksstrategie-der-regierung-a-7181c61f-bb21-40d5-b797-19e756104dfa#ref=rss)
+### walter
+
+* [https://www.spiegel.de/panorama/justiz/walter-mixa-strafverfahren-gegen-frueheren-augsburger-bischof-ermittlungen-in-der-schweiz](https://www.spiegel.de/panorama/justiz/walter-mixa-strafverfahren-gegen-frueheren-augsburger-bischof-ermittlungen-in-der-schweiz-a-00b1e559-2d84-41ab-8f31-c1fbd725c77d#ref=rss)
+### mixa
+
+* [https://www.spiegel.de/panorama/justiz/walter-mixa-strafverfahren-gegen-frueheren-augsburger-bischof-ermittlungen-in-der-schweiz](https://www.spiegel.de/panorama/justiz/walter-mixa-strafverfahren-gegen-frueheren-augsburger-bischof-ermittlungen-in-der-schweiz-a-00b1e559-2d84-41ab-8f31-c1fbd725c77d#ref=rss)
+### augsburger
+
+* [https://www.spiegel.de/panorama/justiz/walter-mixa-strafverfahren-gegen-frueheren-augsburger-bischof-ermittlungen-in-der-schweiz](https://www.spiegel.de/panorama/justiz/walter-mixa-strafverfahren-gegen-frueheren-augsburger-bischof-ermittlungen-in-der-schweiz-a-00b1e559-2d84-41ab-8f31-c1fbd725c77d#ref=rss)
+### bischof
+
+* [https://www.spiegel.de/panorama/justiz/walter-mixa-strafverfahren-gegen-frueheren-augsburger-bischof-ermittlungen-in-der-schweiz](https://www.spiegel.de/panorama/justiz/walter-mixa-strafverfahren-gegen-frueheren-augsburger-bischof-ermittlungen-in-der-schweiz-a-00b1e559-2d84-41ab-8f31-c1fbd725c77d#ref=rss)
 ### mann
 
-* [https://www.spiegel.de/panorama/justiz/weinstadt-in-baden-wuerttemberg-mit-beil-bewaffneter-mann-loest-sek-einsatz-aus](https://www.spiegel.de/panorama/justiz/weinstadt-in-baden-wuerttemberg-mit-beil-bewaffneter-mann-loest-sek-einsatz-aus-a-32fa6e90-a431-482d-b14a-69fef2d0b746#ref=rss)
-### frauen
+* [https://www.spiegel.de/panorama/justiz/walter-mixa-strafverfahren-gegen-frueheren-augsburger-bischof-ermittlungen-in-der-schweiz](https://www.spiegel.de/panorama/justiz/walter-mixa-strafverfahren-gegen-frueheren-augsburger-bischof-ermittlungen-in-der-schweiz-a-00b1e559-2d84-41ab-8f31-c1fbd725c77d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/nuernberg-mann-stiehlt-offenbar-hund-und-schlaegt-ihn-tot](https://www.spiegel.de/panorama/justiz/nuernberg-mann-stiehlt-offenbar-hund-und-schlaegt-ihn-tot-a-e04091af-6dee-4606-9317-e05ccdc22926#ref=rss)
+### ermittelt
 
-* [https://www.spiegel.de/kultur/musik/grammy-awards-2024-frauen-wie-taylor-swift-und-miley-cyrus-triumphieren-killer-mike-wird-festgenommen](https://www.spiegel.de/kultur/musik/grammy-awards-2024-frauen-wie-taylor-swift-und-miley-cyrus-triumphieren-killer-mike-wird-festgenommen-a-4f3360bc-5e07-4a74-9e53-50ffa699b659#ref=rss)
-### killer
+* [https://www.spiegel.de/panorama/justiz/walter-mixa-strafverfahren-gegen-frueheren-augsburger-bischof-ermittlungen-in-der-schweiz](https://www.spiegel.de/panorama/justiz/walter-mixa-strafverfahren-gegen-frueheren-augsburger-bischof-ermittlungen-in-der-schweiz-a-00b1e559-2d84-41ab-8f31-c1fbd725c77d#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner](https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner-a-a6a295c6-d995-44a0-8535-d2ff1cf404ef#ref=rss)
+### vorwürfe
 
-* [https://www.spiegel.de/kultur/musik/grammy-awards-2024-frauen-wie-taylor-swift-und-miley-cyrus-triumphieren-killer-mike-wird-festgenommen](https://www.spiegel.de/kultur/musik/grammy-awards-2024-frauen-wie-taylor-swift-und-miley-cyrus-triumphieren-killer-mike-wird-festgenommen-a-4f3360bc-5e07-4a74-9e53-50ffa699b659#ref=rss)
-### mike
+* [https://www.spiegel.de/panorama/justiz/walter-mixa-strafverfahren-gegen-frueheren-augsburger-bischof-ermittlungen-in-der-schweiz](https://www.spiegel.de/panorama/justiz/walter-mixa-strafverfahren-gegen-frueheren-augsburger-bischof-ermittlungen-in-der-schweiz-a-00b1e559-2d84-41ab-8f31-c1fbd725c77d#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner](https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner-a-a6a295c6-d995-44a0-8535-d2ff1cf404ef#ref=rss)
+### formel
 
-* [https://www.spiegel.de/kultur/musik/grammy-awards-2024-frauen-wie-taylor-swift-und-miley-cyrus-triumphieren-killer-mike-wird-festgenommen](https://www.spiegel.de/kultur/musik/grammy-awards-2024-frauen-wie-taylor-swift-und-miley-cyrus-triumphieren-killer-mike-wird-festgenommen-a-4f3360bc-5e07-4a74-9e53-50ffa699b659#ref=rss)
-### 2026
+* [https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner](https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner-a-a6a295c6-d995-44a0-8535-d2ff1cf404ef#ref=rss)
+### 1
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-spielplan-eroeffnung-im-aztekenstadion-finale-im-footballstadion](https://www.spiegel.de/sport/fussball/fussball-wm-2026-spielplan-eroeffnung-im-aztekenstadion-finale-im-footballstadion-a-5d3b386a-5941-4fe0-965e-29b6861395bc#ref=rss)
-### aztekenstadion
+* [https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner](https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner-a-a6a295c6-d995-44a0-8535-d2ff1cf404ef#ref=rss)
+### red
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-spielplan-eroeffnung-im-aztekenstadion-finale-im-footballstadion](https://www.spiegel.de/sport/fussball/fussball-wm-2026-spielplan-eroeffnung-im-aztekenstadion-finale-im-footballstadion-a-5d3b386a-5941-4fe0-965e-29b6861395bc#ref=rss)
-### allem
+* [https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner](https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner-a-a6a295c6-d995-44a0-8535-d2ff1cf404ef#ref=rss)
+### bull
 
-* [https://www.spiegel.de/wirtschaft/deutschland-exporte-sinken-2023-unerwartet-stark](https://www.spiegel.de/wirtschaft/deutschland-exporte-sinken-2023-unerwartet-stark-a-4483322d-7523-410f-8486-91520514cd83#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gesundheitssystem-e-rezept-und-buerokratie-die-leiden-der-apotheker](https://www.spiegel.de/wirtschaft/gesundheitssystem-e-rezept-und-buerokratie-die-leiden-der-apotheker-a-2f77f18f-dc96-4c36-b13b-430266ae4990#ref=rss)
-### china
+* [https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner](https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner-a-a6a295c6-d995-44a0-8535-d2ff1cf404ef#ref=rss)
+### teamchef
 
-* [https://www.spiegel.de/wirtschaft/deutschland-exporte-sinken-2023-unerwartet-stark](https://www.spiegel.de/wirtschaft/deutschland-exporte-sinken-2023-unerwartet-stark-a-4483322d-7523-410f-8486-91520514cd83#ref=rss)
-* [https://www.spiegel.de/ausland/china-australien-entstetzt-ueber-todesstrafe-fuer-yang-hengjun](https://www.spiegel.de/ausland/china-australien-entstetzt-ueber-todesstrafe-fuer-yang-hengjun-a-c55a6a3d-82ba-47a8-b675-a28fb839fe9b#ref=rss)
-### dieter
+* [https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner](https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner-a-a6a295c6-d995-44a0-8535-d2ff1cf404ef#ref=rss)
+### horner
 
-* [https://www.spiegel.de/panorama/leute/dieter-bohlen-carina-und-ich-werden-heiraten](https://www.spiegel.de/panorama/leute/dieter-bohlen-carina-und-ich-werden-heiraten-a-51487756-ab28-4006-946a-92728940c183#ref=rss)
-### bohlen
+* [https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner](https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner-a-a6a295c6-d995-44a0-8535-d2ff1cf404ef#ref=rss)
+### zurück
 
-* [https://www.spiegel.de/panorama/leute/dieter-bohlen-carina-und-ich-werden-heiraten](https://www.spiegel.de/panorama/leute/dieter-bohlen-carina-und-ich-werden-heiraten-a-51487756-ab28-4006-946a-92728940c183#ref=rss)
-### carina
+* [https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner](https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner-a-a6a295c6-d995-44a0-8535-d2ff1cf404ef#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/stuttgarter-landtag-muss-afd-kandidaten-nicht-in-kuratorium-von-landeszentrale-waehlen](https://www.spiegel.de/politik/deutschland/stuttgarter-landtag-muss-afd-kandidaten-nicht-in-kuratorium-von-landeszentrale-waehlen-a-8c1140e0-5cf8-42f9-8f79-aed1c5ee69f3#ref=rss)
+### neu
 
-* [https://www.spiegel.de/panorama/leute/dieter-bohlen-carina-und-ich-werden-heiraten](https://www.spiegel.de/panorama/leute/dieter-bohlen-carina-und-ich-werden-heiraten-a-51487756-ab28-4006-946a-92728940c183#ref=rss)
-### gemeinsame
+* [https://www.spiegel.de/auto/mobilitaet-rund-jedes-zehnte-neu-zugelassene-auto-im-januar-hatte-einen-rein-elektrischen-antrieb](https://www.spiegel.de/auto/mobilitaet-rund-jedes-zehnte-neu-zugelassene-auto-im-januar-hatte-einen-rein-elektrischen-antrieb-a-7d9edd58-12d5-4fd8-8b17-d598b8f45029#ref=rss)
+### januar
 
-* [https://www.spiegel.de/panorama/leute/dieter-bohlen-carina-und-ich-werden-heiraten](https://www.spiegel.de/panorama/leute/dieter-bohlen-carina-und-ich-werden-heiraten-a-51487756-ab28-4006-946a-92728940c183#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/rechtsextremismus-kampf-fuer-die-demokratie-was-gegen-die-afd-wirkt](https://www.spiegel.de/politik/deutschland/rechtsextremismus-kampf-fuer-die-demokratie-was-gegen-die-afd-wirkt-a-653ce6dc-3ef2-4191-8fe7-5501ae58789d#ref=rss)
-### kinder
+* [https://www.spiegel.de/auto/mobilitaet-rund-jedes-zehnte-neu-zugelassene-auto-im-januar-hatte-einen-rein-elektrischen-antrieb](https://www.spiegel.de/auto/mobilitaet-rund-jedes-zehnte-neu-zugelassene-auto-im-januar-hatte-einen-rein-elektrischen-antrieb-a-7d9edd58-12d5-4fd8-8b17-d598b8f45029#ref=rss)
+### filialen
 
-* [https://www.spiegel.de/panorama/leute/dieter-bohlen-carina-und-ich-werden-heiraten](https://www.spiegel.de/panorama/leute/dieter-bohlen-carina-und-ich-werden-heiraten-a-51487756-ab28-4006-946a-92728940c183#ref=rss)
-* [https://www.spiegel.de/familie/fortnite-darf-ein-12-jaehriger-das-populaere-onlinespiel-spielen](https://www.spiegel.de/familie/fortnite-darf-ein-12-jaehriger-das-populaere-onlinespiel-spielen-a-0cd93690-f2fc-4e66-a39b-21b321c0c2d9#ref=rss)
-### kampf
+* [https://www.spiegel.de/wirtschaft/darum-mussten-alle-filialen-von-postbank-und-deutscher-bank-schliessen](https://www.spiegel.de/wirtschaft/darum-mussten-alle-filialen-von-postbank-und-deutscher-bank-schliessen-a-027e2e91-d49f-4266-abb6-4086bbd1fe45#ref=rss)
+### postbank
 
-* [https://www.spiegel.de/politik/deutschland/rechtsextremismus-kampf-fuer-die-demokratie-was-gegen-die-afd-wirkt](https://www.spiegel.de/politik/deutschland/rechtsextremismus-kampf-fuer-die-demokratie-was-gegen-die-afd-wirkt-a-653ce6dc-3ef2-4191-8fe7-5501ae58789d#ref=rss)
-### suvreifen
+* [https://www.spiegel.de/wirtschaft/darum-mussten-alle-filialen-von-postbank-und-deutscher-bank-schliessen](https://www.spiegel.de/wirtschaft/darum-mussten-alle-filialen-von-postbank-und-deutscher-bank-schliessen-a-027e2e91-d49f-4266-abb6-4086bbd1fe45#ref=rss)
+### bank
 
-* [https://www.spiegel.de/auto/suv-reifen-plaetten-wie-klimaaktivisten-nachts-autofahrer-veraergern-und-damit-durchkommen](https://www.spiegel.de/auto/suv-reifen-plaetten-wie-klimaaktivisten-nachts-autofahrer-veraergern-und-damit-durchkommen-a-b49f1b01-cd4a-4ecc-9dd5-61f246703683#ref=rss)
-### nachts
+* [https://www.spiegel.de/wirtschaft/darum-mussten-alle-filialen-von-postbank-und-deutscher-bank-schliessen](https://www.spiegel.de/wirtschaft/darum-mussten-alle-filialen-von-postbank-und-deutscher-bank-schliessen-a-027e2e91-d49f-4266-abb6-4086bbd1fe45#ref=rss)
+### unrwamitarbeiter
 
-* [https://www.spiegel.de/auto/suv-reifen-plaetten-wie-klimaaktivisten-nachts-autofahrer-veraergern-und-damit-durchkommen](https://www.spiegel.de/auto/suv-reifen-plaetten-wie-klimaaktivisten-nachts-autofahrer-veraergern-und-damit-durchkommen-a-b49f1b01-cd4a-4ecc-9dd5-61f246703683#ref=rss)
-### poonam
+* [https://www.spiegel.de/ausland/catherine-colonna-soll-untersuchungen-zu-vorwuerfen-gegen-unrwa-mitarbeiter-leiten](https://www.spiegel.de/ausland/catherine-colonna-soll-untersuchungen-zu-vorwuerfen-gegen-unrwa-mitarbeiter-leiten-a-f9dba085-d074-434c-b094-b258b2eb85ac#ref=rss)
+### kraftwerksstrategie
 
-* [https://www.spiegel.de/panorama/leute/poonam-pandey-indisches-model-taeuscht-eigenen-tod-vor-fuer-krebskampagne](https://www.spiegel.de/panorama/leute/poonam-pandey-indisches-model-taeuscht-eigenen-tod-vor-fuer-krebskampagne-a-7e252158-a7bb-4d8e-b8d3-53036eafaefd#ref=rss)
-### pandey
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tyre-extinguishers-streiks-in-deutschland-kraftwerksstrategie-der-regierung](https://www.spiegel.de/politik/deutschland/news-des-tages-tyre-extinguishers-streiks-in-deutschland-kraftwerksstrategie-der-regierung-a-7181c61f-bb21-40d5-b797-19e756104dfa#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kraftwerksstrategie-das-sind-die-ersten-reaktionen](https://www.spiegel.de/wirtschaft/kraftwerksstrategie-das-sind-die-ersten-reaktionen-a-1d710736-91ae-4d37-923e-40e040546165#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/panorama/leute/poonam-pandey-indisches-model-taeuscht-eigenen-tod-vor-fuer-krebskampagne](https://www.spiegel.de/panorama/leute/poonam-pandey-indisches-model-taeuscht-eigenen-tod-vor-fuer-krebskampagne-a-7e252158-a7bb-4d8e-b8d3-53036eafaefd#ref=rss)
-### model
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tyre-extinguishers-streiks-in-deutschland-kraftwerksstrategie-der-regierung](https://www.spiegel.de/politik/deutschland/news-des-tages-tyre-extinguishers-streiks-in-deutschland-kraftwerksstrategie-der-regierung-a-7181c61f-bb21-40d5-b797-19e756104dfa#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/energiewende-das-bringt-die-kraftwerkstrategie-der-regierung](https://www.spiegel.de/wirtschaft/service/energiewende-das-bringt-die-kraftwerkstrategie-der-regierung-a-07523837-156a-4e62-b6ec-c793af0fe2db#ref=rss)
+### zukunft
 
-* [https://www.spiegel.de/panorama/leute/poonam-pandey-indisches-model-taeuscht-eigenen-tod-vor-fuer-krebskampagne](https://www.spiegel.de/panorama/leute/poonam-pandey-indisches-model-taeuscht-eigenen-tod-vor-fuer-krebskampagne-a-7e252158-a7bb-4d8e-b8d3-53036eafaefd#ref=rss)
-### tod
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tyre-extinguishers-streiks-in-deutschland-kraftwerksstrategie-der-regierung](https://www.spiegel.de/politik/deutschland/news-des-tages-tyre-extinguishers-streiks-in-deutschland-kraftwerksstrategie-der-regierung-a-7181c61f-bb21-40d5-b797-19e756104dfa#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kraftwerksstrategie-das-sind-die-ersten-reaktionen](https://www.spiegel.de/wirtschaft/kraftwerksstrategie-das-sind-die-ersten-reaktionen-a-1d710736-91ae-4d37-923e-40e040546165#ref=rss)
+### drei
 
-* [https://www.spiegel.de/panorama/leute/poonam-pandey-indisches-model-taeuscht-eigenen-tod-vor-fuer-krebskampagne](https://www.spiegel.de/panorama/leute/poonam-pandey-indisches-model-taeuscht-eigenen-tod-vor-fuer-krebskampagne-a-7e252158-a7bb-4d8e-b8d3-53036eafaefd#ref=rss)
-* [https://www.spiegel.de/ausland/china-australien-entstetzt-ueber-todesstrafe-fuer-yang-hengjun](https://www.spiegel.de/ausland/china-australien-entstetzt-ueber-todesstrafe-fuer-yang-hengjun-a-c55a6a3d-82ba-47a8-b675-a28fb839fe9b#ref=rss)
-### sender
+* [https://www.spiegel.de/wissenschaft/drei-streifen-machen-clownfische-aggressiv](https://www.spiegel.de/wissenschaft/drei-streifen-machen-clownfische-aggressiv-a-b15ae871-8998-41c2-9134-4a4279df5424#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/catania-auf-sizilien-festnahmen-nach-mutmasslicher-gruppenvergewaltigung-einer-13-jaehrigen](https://www.spiegel.de/panorama/justiz/catania-auf-sizilien-festnahmen-nach-mutmasslicher-gruppenvergewaltigung-einer-13-jaehrigen-a-129bab05-fd18-47bb-a121-3cae1162cc0e#ref=rss)
+### clownfische
 
-* [https://www.spiegel.de/ausland/cnn-mitarbeiter-werfen-eigenem-sender-journalistisches-fehlverhalten-vor](https://www.spiegel.de/ausland/cnn-mitarbeiter-werfen-eigenem-sender-journalistisches-fehlverhalten-vor-a-ae93050e-5363-483b-bda8-299de7030491#ref=rss)
-### boeing
+* [https://www.spiegel.de/wissenschaft/drei-streifen-machen-clownfische-aggressiv](https://www.spiegel.de/wissenschaft/drei-streifen-machen-clownfische-aggressiv-a-b15ae871-8998-41c2-9134-4a4279df5424#ref=rss)
+### aggressiv
 
-* [https://www.spiegel.de/wirtschaft/boeing-737-max-schon-wieder-ein-problem-aufgetreten](https://www.spiegel.de/wirtschaft/boeing-737-max-schon-wieder-ein-problem-aufgetreten-a-e1951632-ff4a-48cf-a44f-ca8f1992cf75#ref=rss)
-### 737
+* [https://www.spiegel.de/wissenschaft/drei-streifen-machen-clownfische-aggressiv](https://www.spiegel.de/wissenschaft/drei-streifen-machen-clownfische-aggressiv-a-b15ae871-8998-41c2-9134-4a4279df5424#ref=rss)
+### london
 
-* [https://www.spiegel.de/wirtschaft/boeing-737-max-schon-wieder-ein-problem-aufgetreten](https://www.spiegel.de/wirtschaft/boeing-737-max-schon-wieder-ein-problem-aufgetreten-a-e1951632-ff4a-48cf-a44f-ca8f1992cf75#ref=rss)
-### max
+* [https://www.spiegel.de/panorama/justiz/tod-auf-klassenfahrt-in-london-landgericht-moenchengladbach-erwaegt-verurteilung-zweier-lehrerinnen](https://www.spiegel.de/panorama/justiz/tod-auf-klassenfahrt-in-london-landgericht-moenchengladbach-erwaegt-verurteilung-zweier-lehrerinnen-a-02f2eb8c-b0c8-4b68-8312-b546e3ec7b93#ref=rss)
+### mönchengladbach
 
-* [https://www.spiegel.de/wirtschaft/boeing-737-max-schon-wieder-ein-problem-aufgetreten](https://www.spiegel.de/wirtschaft/boeing-737-max-schon-wieder-ein-problem-aufgetreten-a-e1951632-ff4a-48cf-a44f-ca8f1992cf75#ref=rss)
-### problem
+* [https://www.spiegel.de/panorama/justiz/tod-auf-klassenfahrt-in-london-landgericht-moenchengladbach-erwaegt-verurteilung-zweier-lehrerinnen](https://www.spiegel.de/panorama/justiz/tod-auf-klassenfahrt-in-london-landgericht-moenchengladbach-erwaegt-verurteilung-zweier-lehrerinnen-a-02f2eb8c-b0c8-4b68-8312-b546e3ec7b93#ref=rss)
+### lehrerinnen
 
-* [https://www.spiegel.de/wirtschaft/boeing-737-max-schon-wieder-ein-problem-aufgetreten](https://www.spiegel.de/wirtschaft/boeing-737-max-schon-wieder-ein-problem-aufgetreten-a-e1951632-ff4a-48cf-a44f-ca8f1992cf75#ref=rss)
-### spielen
+* [https://www.spiegel.de/panorama/justiz/tod-auf-klassenfahrt-in-london-landgericht-moenchengladbach-erwaegt-verurteilung-zweier-lehrerinnen](https://www.spiegel.de/panorama/justiz/tod-auf-klassenfahrt-in-london-landgericht-moenchengladbach-erwaegt-verurteilung-zweier-lehrerinnen-a-02f2eb8c-b0c8-4b68-8312-b546e3ec7b93#ref=rss)
+### prozess
 
-* [https://www.spiegel.de/familie/fortnite-darf-ein-12-jaehriger-das-populaere-onlinespiel-spielen](https://www.spiegel.de/familie/fortnite-darf-ein-12-jaehriger-das-populaere-onlinespiel-spielen-a-0cd93690-f2fc-4e66-a39b-21b321c0c2d9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lufthansa-ver-di-ruft-bodenpersonal-zu-ganztaegigem-warnstreik-am-mittwoch-auf](https://www.spiegel.de/wirtschaft/lufthansa-ver-di-ruft-bodenpersonal-zu-ganztaegigem-warnstreik-am-mittwoch-auf-a-84e3fd18-59d4-4f2f-80ca-029b878d92e3#ref=rss)
-### tipps
+* [https://www.spiegel.de/panorama/justiz/tod-auf-klassenfahrt-in-london-landgericht-moenchengladbach-erwaegt-verurteilung-zweier-lehrerinnen](https://www.spiegel.de/panorama/justiz/tod-auf-klassenfahrt-in-london-landgericht-moenchengladbach-erwaegt-verurteilung-zweier-lehrerinnen-a-02f2eb8c-b0c8-4b68-8312-b546e3ec7b93#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/arafat-abou-chaker-ex-manager-von-bushido-von-hauptvorwuerfen-freigesprochen](https://www.spiegel.de/panorama/justiz/arafat-abou-chaker-ex-manager-von-bushido-von-hauptvorwuerfen-freigesprochen-a-4040d8dd-3b5a-4535-834e-9b727fea15d1#ref=rss)
+### erklärt
 
-* [https://www.spiegel.de/familie/fortnite-darf-ein-12-jaehriger-das-populaere-onlinespiel-spielen](https://www.spiegel.de/familie/fortnite-darf-ein-12-jaehriger-das-populaere-onlinespiel-spielen-a-0cd93690-f2fc-4e66-a39b-21b321c0c2d9#ref=rss)
-* [https://www.spiegel.de/karriere/angst-vor-dem-neuen-job-tipps-von-der-karriereberaterin](https://www.spiegel.de/karriere/angst-vor-dem-neuen-job-tipps-von-der-karriereberaterin-a-6fefab9c-9526-4ff8-998b-405433646d5a#ref=rss)
-### job
+* [https://www.spiegel.de/panorama/justiz/tod-auf-klassenfahrt-in-london-landgericht-moenchengladbach-erwaegt-verurteilung-zweier-lehrerinnen](https://www.spiegel.de/panorama/justiz/tod-auf-klassenfahrt-in-london-landgericht-moenchengladbach-erwaegt-verurteilung-zweier-lehrerinnen-a-02f2eb8c-b0c8-4b68-8312-b546e3ec7b93#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-vitali-klitschko-verteidigt-armeechef-walerij-saluschny](https://www.spiegel.de/ausland/ukraine-vitali-klitschko-verteidigt-armeechef-walerij-saluschny-a-6ebb5ea7-d296-4b1b-9e35-66cdadbdd1da#ref=rss)
+### tötung
 
-* [https://www.spiegel.de/karriere/angst-vor-dem-neuen-job-tipps-von-der-karriereberaterin](https://www.spiegel.de/karriere/angst-vor-dem-neuen-job-tipps-von-der-karriereberaterin-a-6fefab9c-9526-4ff8-998b-405433646d5a#ref=rss)
-### lufthansa
+* [https://www.spiegel.de/panorama/justiz/tod-auf-klassenfahrt-in-london-landgericht-moenchengladbach-erwaegt-verurteilung-zweier-lehrerinnen](https://www.spiegel.de/panorama/justiz/tod-auf-klassenfahrt-in-london-landgericht-moenchengladbach-erwaegt-verurteilung-zweier-lehrerinnen-a-02f2eb8c-b0c8-4b68-8312-b546e3ec7b93#ref=rss)
+* [https://www.spiegel.de/ausland/russland-meldet-toetung-von-kremltreuem-minister-in-der-ostukraine](https://www.spiegel.de/ausland/russland-meldet-toetung-von-kremltreuem-minister-in-der-ostukraine-a-cecad4a6-7683-4518-af50-0013b6b6bdb7#ref=rss)
+### angriff
 
-* [https://www.spiegel.de/wirtschaft/lufthansa-ver-di-ruft-bodenpersonal-zu-ganztaegigem-warnstreik-am-mittwoch-auf](https://www.spiegel.de/wirtschaft/lufthansa-ver-di-ruft-bodenpersonal-zu-ganztaegigem-warnstreik-am-mittwoch-auf-a-84e3fd18-59d4-4f2f-80ca-029b878d92e3#ref=rss)
-### verdi
+* [https://www.spiegel.de/panorama/justiz/berlin-was-ueber-den-angriff-auf-lahav-shapira-bruder-des-satirikers-shahak-shapira-bekannt-ist](https://www.spiegel.de/panorama/justiz/berlin-was-ueber-den-angriff-auf-lahav-shapira-bruder-des-satirikers-shahak-shapira-bekannt-ist-a-b81977e5-81bb-4295-b995-e989a57f7b14#ref=rss)
+* [https://www.spiegel.de/ausland/russland-meldet-toetung-von-kremltreuem-minister-in-der-ostukraine](https://www.spiegel.de/ausland/russland-meldet-toetung-von-kremltreuem-minister-in-der-ostukraine-a-cecad4a6-7683-4518-af50-0013b6b6bdb7#ref=rss)
+### lahav
 
-* [https://www.spiegel.de/wirtschaft/lufthansa-ver-di-ruft-bodenpersonal-zu-ganztaegigem-warnstreik-am-mittwoch-auf](https://www.spiegel.de/wirtschaft/lufthansa-ver-di-ruft-bodenpersonal-zu-ganztaegigem-warnstreik-am-mittwoch-auf-a-84e3fd18-59d4-4f2f-80ca-029b878d92e3#ref=rss)
-### rechtsextreme
+* [https://www.spiegel.de/panorama/justiz/berlin-was-ueber-den-angriff-auf-lahav-shapira-bruder-des-satirikers-shahak-shapira-bekannt-ist](https://www.spiegel.de/panorama/justiz/berlin-was-ueber-den-angriff-auf-lahav-shapira-bruder-des-satirikers-shahak-shapira-bekannt-ist-a-b81977e5-81bb-4295-b995-e989a57f7b14#ref=rss)
+### bruder
 
-* [https://www.spiegel.de/geschichte/asylpolitik-wie-rechtsextreme-die-spd-vor-sich-her-treiben-mal-wieder](https://www.spiegel.de/geschichte/asylpolitik-wie-rechtsextreme-die-spd-vor-sich-her-treiben-mal-wieder-a-f6b9af79-e801-4e76-a889-17badacdfb80#ref=rss)
-### her
+* [https://www.spiegel.de/panorama/justiz/berlin-was-ueber-den-angriff-auf-lahav-shapira-bruder-des-satirikers-shahak-shapira-bekannt-ist](https://www.spiegel.de/panorama/justiz/berlin-was-ueber-den-angriff-auf-lahav-shapira-bruder-des-satirikers-shahak-shapira-bekannt-ist-a-b81977e5-81bb-4295-b995-e989a57f7b14#ref=rss)
+### satirikers
 
-* [https://www.spiegel.de/geschichte/asylpolitik-wie-rechtsextreme-die-spd-vor-sich-her-treiben-mal-wieder](https://www.spiegel.de/geschichte/asylpolitik-wie-rechtsextreme-die-spd-vor-sich-her-treiben-mal-wieder-a-f6b9af79-e801-4e76-a889-17badacdfb80#ref=rss)
-### treiben
+* [https://www.spiegel.de/panorama/justiz/berlin-was-ueber-den-angriff-auf-lahav-shapira-bruder-des-satirikers-shahak-shapira-bekannt-ist](https://www.spiegel.de/panorama/justiz/berlin-was-ueber-den-angriff-auf-lahav-shapira-bruder-des-satirikers-shahak-shapira-bekannt-ist-a-b81977e5-81bb-4295-b995-e989a57f7b14#ref=rss)
+### shahak
 
-* [https://www.spiegel.de/geschichte/asylpolitik-wie-rechtsextreme-die-spd-vor-sich-her-treiben-mal-wieder](https://www.spiegel.de/geschichte/asylpolitik-wie-rechtsextreme-die-spd-vor-sich-her-treiben-mal-wieder-a-f6b9af79-e801-4e76-a889-17badacdfb80#ref=rss)
-### erezept
+* [https://www.spiegel.de/panorama/justiz/berlin-was-ueber-den-angriff-auf-lahav-shapira-bruder-des-satirikers-shahak-shapira-bekannt-ist](https://www.spiegel.de/panorama/justiz/berlin-was-ueber-den-angriff-auf-lahav-shapira-bruder-des-satirikers-shahak-shapira-bekannt-ist-a-b81977e5-81bb-4295-b995-e989a57f7b14#ref=rss)
+### brandbrief
 
-* [https://www.spiegel.de/wirtschaft/gesundheitssystem-e-rezept-und-buerokratie-die-leiden-der-apotheker](https://www.spiegel.de/wirtschaft/gesundheitssystem-e-rezept-und-buerokratie-die-leiden-der-apotheker-a-2f77f18f-dc96-4c36-b13b-430266ae4990#ref=rss)
-### apotheker
+* [https://www.spiegel.de/politik/deutschland/deutsche-bahn-nach-brandbrief-an-chef-richard-lutz-kahlschlag-erschuettert-spd](https://www.spiegel.de/politik/deutschland/deutsche-bahn-nach-brandbrief-an-chef-richard-lutz-kahlschlag-erschuettert-spd-a-be8758ee-63fe-499a-a48b-5236453520a0#ref=rss)
+### spd
 
-* [https://www.spiegel.de/wirtschaft/gesundheitssystem-e-rezept-und-buerokratie-die-leiden-der-apotheker](https://www.spiegel.de/wirtschaft/gesundheitssystem-e-rezept-und-buerokratie-die-leiden-der-apotheker-a-2f77f18f-dc96-4c36-b13b-430266ae4990#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutsche-bahn-nach-brandbrief-an-chef-richard-lutz-kahlschlag-erschuettert-spd](https://www.spiegel.de/politik/deutschland/deutsche-bahn-nach-brandbrief-an-chef-richard-lutz-kahlschlag-erschuettert-spd-a-be8758ee-63fe-499a-a48b-5236453520a0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/christian-lindners-plan-zur-soli-abschaffung-trifft-auf-gegenwind-in-der-ampelkoalition](https://www.spiegel.de/wirtschaft/christian-lindners-plan-zur-soli-abschaffung-trifft-auf-gegenwind-in-der-ampelkoalition-a-40bfc3d8-d5a8-4367-bad3-a7d2506d4342#ref=rss)
+### bedroht
+
+* [https://www.spiegel.de/politik/deutschland/deutsche-bahn-nach-brandbrief-an-chef-richard-lutz-kahlschlag-erschuettert-spd](https://www.spiegel.de/politik/deutschland/deutsche-bahn-nach-brandbrief-an-chef-richard-lutz-kahlschlag-erschuettert-spd-a-be8758ee-63fe-499a-a48b-5236453520a0#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mallorca-bakterium-bedroht-moeglicherweise-olivenbaeume](https://www.spiegel.de/wissenschaft/mallorca-bakterium-bedroht-moeglicherweise-olivenbaeume-a-aac708ea-e4c5-4db5-b5ef-abe7076d8206#ref=rss)
+### miele
+
+* [https://www.spiegel.de/wirtschaft/miele-streicht-wohl-weltweit-2000-stellen](https://www.spiegel.de/wirtschaft/miele-streicht-wohl-weltweit-2000-stellen-a-d3055ef1-c805-49a0-9f42-8b58f5fed9d3#ref=rss)
+### stellen
+
+* [https://www.spiegel.de/wirtschaft/miele-streicht-wohl-weltweit-2000-stellen](https://www.spiegel.de/wirtschaft/miele-streicht-wohl-weltweit-2000-stellen-a-d3055ef1-c805-49a0-9f42-8b58f5fed9d3#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/wirtschaft/miele-streicht-wohl-weltweit-2000-stellen](https://www.spiegel.de/wirtschaft/miele-streicht-wohl-weltweit-2000-stellen-a-d3055ef1-c805-49a0-9f42-8b58f5fed9d3#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/digitalisierung-an-schulen-deutschland-loest-sich-nur-langsam-aus-der-kreidezeit](https://www.spiegel.de/panorama/bildung/digitalisierung-an-schulen-deutschland-loest-sich-nur-langsam-aus-der-kreidezeit-a-252dfdf5-b1d2-49b3-9f56-8313ee158a65#ref=rss)
+### plan
+
+* [https://www.spiegel.de/wirtschaft/christian-lindners-plan-zur-soli-abschaffung-trifft-auf-gegenwind-in-der-ampelkoalition](https://www.spiegel.de/wirtschaft/christian-lindners-plan-zur-soli-abschaffung-trifft-auf-gegenwind-in-der-ampelkoalition-a-40bfc3d8-d5a8-4367-bad3-a7d2506d4342#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kraftwerksstrategie-das-sind-die-ersten-reaktionen](https://www.spiegel.de/wirtschaft/kraftwerksstrategie-das-sind-die-ersten-reaktionen-a-1d710736-91ae-4d37-923e-40e040546165#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/panorama/justiz/nuernberg-mann-stiehlt-offenbar-hund-und-schlaegt-ihn-tot](https://www.spiegel.de/panorama/justiz/nuernberg-mann-stiehlt-offenbar-hund-und-schlaegt-ihn-tot-a-e04091af-6dee-4606-9317-e05ccdc22926#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/catania-auf-sizilien-festnahmen-nach-mutmasslicher-gruppenvergewaltigung-einer-13-jaehrigen](https://www.spiegel.de/panorama/justiz/catania-auf-sizilien-festnahmen-nach-mutmasslicher-gruppenvergewaltigung-einer-13-jaehrigen-a-129bab05-fd18-47bb-a121-3cae1162cc0e#ref=rss)
+### henryk
+
+* [https://www.spiegel.de/politik/deutschland/henryk-m-broder-bundesinnenministerium-darf-textpassagen-nicht-veroeffentlichen](https://www.spiegel.de/politik/deutschland/henryk-m-broder-bundesinnenministerium-darf-textpassagen-nicht-veroeffentlichen-a-462c3ded-d6ea-48fb-bd86-b39e9a2447f4#ref=rss)
+### m
+
+* [https://www.spiegel.de/politik/deutschland/henryk-m-broder-bundesinnenministerium-darf-textpassagen-nicht-veroeffentlichen](https://www.spiegel.de/politik/deutschland/henryk-m-broder-bundesinnenministerium-darf-textpassagen-nicht-veroeffentlichen-a-462c3ded-d6ea-48fb-bd86-b39e9a2447f4#ref=rss)
+### broder
+
+* [https://www.spiegel.de/politik/deutschland/henryk-m-broder-bundesinnenministerium-darf-textpassagen-nicht-veroeffentlichen](https://www.spiegel.de/politik/deutschland/henryk-m-broder-bundesinnenministerium-darf-textpassagen-nicht-veroeffentlichen-a-462c3ded-d6ea-48fb-bd86-b39e9a2447f4#ref=rss)
+### sah
+
+* [https://www.spiegel.de/politik/deutschland/henryk-m-broder-bundesinnenministerium-darf-textpassagen-nicht-veroeffentlichen](https://www.spiegel.de/politik/deutschland/henryk-m-broder-bundesinnenministerium-darf-textpassagen-nicht-veroeffentlichen-a-462c3ded-d6ea-48fb-bd86-b39e9a2447f4#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/arafat-abou-chaker-ex-manager-von-bushido-von-hauptvorwuerfen-freigesprochen](https://www.spiegel.de/panorama/justiz/arafat-abou-chaker-ex-manager-von-bushido-von-hauptvorwuerfen-freigesprochen-a-4040d8dd-3b5a-4535-834e-9b727fea15d1#ref=rss)
+### umbau
+
+* [https://www.spiegel.de/wirtschaft/service/energiewende-das-bringt-die-kraftwerkstrategie-der-regierung](https://www.spiegel.de/wirtschaft/service/energiewende-das-bringt-die-kraftwerkstrategie-der-regierung-a-07523837-156a-4e62-b6ec-c793af0fe2db#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-vitali-klitschko-verteidigt-armeechef-walerij-saluschny](https://www.spiegel.de/ausland/ukraine-vitali-klitschko-verteidigt-armeechef-walerij-saluschny-a-6ebb5ea7-d296-4b1b-9e35-66cdadbdd1da#ref=rss)
+### energieversorgung
+
+* [https://www.spiegel.de/wirtschaft/service/energiewende-das-bringt-die-kraftwerkstrategie-der-regierung](https://www.spiegel.de/wirtschaft/service/energiewende-das-bringt-die-kraftwerkstrategie-der-regierung-a-07523837-156a-4e62-b6ec-c793af0fe2db#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kraftwerksstrategie-das-sind-die-ersten-reaktionen](https://www.spiegel.de/wirtschaft/kraftwerksstrategie-das-sind-die-ersten-reaktionen-a-1d710736-91ae-4d37-923e-40e040546165#ref=rss)
+### catania
+
+* [https://www.spiegel.de/panorama/justiz/catania-auf-sizilien-festnahmen-nach-mutmasslicher-gruppenvergewaltigung-einer-13-jaehrigen](https://www.spiegel.de/panorama/justiz/catania-auf-sizilien-festnahmen-nach-mutmasslicher-gruppenvergewaltigung-einer-13-jaehrigen-a-129bab05-fd18-47bb-a121-3cae1162cc0e#ref=rss)
+### kurt
+
+* [https://www.spiegel.de/sport/fussball/kurt-hamrin-ist-tot-nachruf-auf-die-fussball-ikone-aus-schweden-in-deutschland-wurde-er-gehasst-in-italien-wurde-er-geliebt](https://www.spiegel.de/sport/fussball/kurt-hamrin-ist-tot-nachruf-auf-die-fussball-ikone-aus-schweden-in-deutschland-wurde-er-gehasst-in-italien-wurde-er-geliebt-a-93fef0ce-ddbc-4e0c-a170-efb5abe3813b#ref=rss)
+### hamrin
+
+* [https://www.spiegel.de/sport/fussball/kurt-hamrin-ist-tot-nachruf-auf-die-fussball-ikone-aus-schweden-in-deutschland-wurde-er-gehasst-in-italien-wurde-er-geliebt](https://www.spiegel.de/sport/fussball/kurt-hamrin-ist-tot-nachruf-auf-die-fussball-ikone-aus-schweden-in-deutschland-wurde-er-gehasst-in-italien-wurde-er-geliebt-a-93fef0ce-ddbc-4e0c-a170-efb5abe3813b#ref=rss)
+### schweden
+
+* [https://www.spiegel.de/sport/fussball/kurt-hamrin-ist-tot-nachruf-auf-die-fussball-ikone-aus-schweden-in-deutschland-wurde-er-gehasst-in-italien-wurde-er-geliebt](https://www.spiegel.de/sport/fussball/kurt-hamrin-ist-tot-nachruf-auf-die-fussball-ikone-aus-schweden-in-deutschland-wurde-er-gehasst-in-italien-wurde-er-geliebt-a-93fef0ce-ddbc-4e0c-a170-efb5abe3813b#ref=rss)
+### italien
+
+* [https://www.spiegel.de/sport/fussball/kurt-hamrin-ist-tot-nachruf-auf-die-fussball-ikone-aus-schweden-in-deutschland-wurde-er-gehasst-in-italien-wurde-er-geliebt](https://www.spiegel.de/sport/fussball/kurt-hamrin-ist-tot-nachruf-auf-die-fussball-ikone-aus-schweden-in-deutschland-wurde-er-gehasst-in-italien-wurde-er-geliebt-a-93fef0ce-ddbc-4e0c-a170-efb5abe3813b#ref=rss)
+### verantwortungsgemeinschaft
+
+* [https://www.spiegel.de/politik/deutschland/eckpunkte-zur-verantwortungsgemeinschaft-kommt-jetzt-die-alternative-zur-ehe](https://www.spiegel.de/politik/deutschland/eckpunkte-zur-verantwortungsgemeinschaft-kommt-jetzt-die-alternative-zur-ehe-a-2f172504-4496-47e3-b727-42c3c5471115#ref=rss)
+### ehe
+
+* [https://www.spiegel.de/politik/deutschland/eckpunkte-zur-verantwortungsgemeinschaft-kommt-jetzt-die-alternative-zur-ehe](https://www.spiegel.de/politik/deutschland/eckpunkte-zur-verantwortungsgemeinschaft-kommt-jetzt-die-alternative-zur-ehe-a-2f172504-4496-47e3-b727-42c3c5471115#ref=rss)
+### australien
+
+* [https://www.spiegel.de/ausland/huthi-angriffe-australien-stoppt-schiff-mit-14-000-schafen-auf-weg-nach-israel](https://www.spiegel.de/ausland/huthi-angriffe-australien-stoppt-schiff-mit-14-000-schafen-auf-weg-nach-israel-a-41a22506-c47c-4f36-8f4e-6006b708498c#ref=rss)
+### alarmiert
+
+* [https://www.spiegel.de/ausland/huthi-angriffe-australien-stoppt-schiff-mit-14-000-schafen-auf-weg-nach-israel](https://www.spiegel.de/ausland/huthi-angriffe-australien-stoppt-schiff-mit-14-000-schafen-auf-weg-nach-israel-a-41a22506-c47c-4f36-8f4e-6006b708498c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mallorca-bakterium-bedroht-moeglicherweise-olivenbaeume](https://www.spiegel.de/wissenschaft/mallorca-bakterium-bedroht-moeglicherweise-olivenbaeume-a-aac708ea-e4c5-4db5-b5ef-abe7076d8206#ref=rss)
+### claudia
+
+* [https://www.spiegel.de/kultur/kino/claudia-roth-verteidigt-berlinale-einladung-von-afd-abgeordneten](https://www.spiegel.de/kultur/kino/claudia-roth-verteidigt-berlinale-einladung-von-afd-abgeordneten-a-bcf268dd-fe21-4a66-b66d-b638b334aa35#ref=rss)
+### roth
+
+* [https://www.spiegel.de/kultur/kino/claudia-roth-verteidigt-berlinale-einladung-von-afd-abgeordneten](https://www.spiegel.de/kultur/kino/claudia-roth-verteidigt-berlinale-einladung-von-afd-abgeordneten-a-bcf268dd-fe21-4a66-b66d-b638b334aa35#ref=rss)
+### verteidigt
+
+* [https://www.spiegel.de/kultur/kino/claudia-roth-verteidigt-berlinale-einladung-von-afd-abgeordneten](https://www.spiegel.de/kultur/kino/claudia-roth-verteidigt-berlinale-einladung-von-afd-abgeordneten-a-bcf268dd-fe21-4a66-b66d-b638b334aa35#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-vitali-klitschko-verteidigt-armeechef-walerij-saluschny](https://www.spiegel.de/ausland/ukraine-vitali-klitschko-verteidigt-armeechef-walerij-saluschny-a-6ebb5ea7-d296-4b1b-9e35-66cdadbdd1da#ref=rss)
+### schulen
+
+* [https://www.spiegel.de/panorama/bildung/digitalisierung-an-schulen-deutschland-loest-sich-nur-langsam-aus-der-kreidezeit](https://www.spiegel.de/panorama/bildung/digitalisierung-an-schulen-deutschland-loest-sich-nur-langsam-aus-der-kreidezeit-a-252dfdf5-b1d2-49b3-9f56-8313ee158a65#ref=rss)
+### bildung
+
+* [https://www.spiegel.de/panorama/bildung/digitalisierung-an-schulen-deutschland-loest-sich-nur-langsam-aus-der-kreidezeit](https://www.spiegel.de/panorama/bildung/digitalisierung-an-schulen-deutschland-loest-sich-nur-langsam-aus-der-kreidezeit-a-252dfdf5-b1d2-49b3-9f56-8313ee158a65#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/stuttgarter-landtag-muss-afd-kandidaten-nicht-in-kuratorium-von-landeszentrale-waehlen](https://www.spiegel.de/politik/deutschland/stuttgarter-landtag-muss-afd-kandidaten-nicht-in-kuratorium-von-landeszentrale-waehlen-a-8c1140e0-5cf8-42f9-8f79-aed1c5ee69f3#ref=rss)
+### armeechef
+
+* [https://www.spiegel.de/ausland/ukraine-vitali-klitschko-verteidigt-armeechef-walerij-saluschny](https://www.spiegel.de/ausland/ukraine-vitali-klitschko-verteidigt-armeechef-walerij-saluschny-a-6ebb5ea7-d296-4b1b-9e35-66cdadbdd1da#ref=rss)
+### saluschny
+
+* [https://www.spiegel.de/ausland/ukraine-vitali-klitschko-verteidigt-armeechef-walerij-saluschny](https://www.spiegel.de/ausland/ukraine-vitali-klitschko-verteidigt-armeechef-walerij-saluschny-a-6ebb5ea7-d296-4b1b-9e35-66cdadbdd1da#ref=rss)
+### arafat
+
+* [https://www.spiegel.de/panorama/justiz/arafat-abou-chaker-ex-manager-von-bushido-von-hauptvorwuerfen-freigesprochen](https://www.spiegel.de/panorama/justiz/arafat-abou-chaker-ex-manager-von-bushido-von-hauptvorwuerfen-freigesprochen-a-4040d8dd-3b5a-4535-834e-9b727fea15d1#ref=rss)
+### abouchaker
+
+* [https://www.spiegel.de/panorama/justiz/arafat-abou-chaker-ex-manager-von-bushido-von-hauptvorwuerfen-freigesprochen](https://www.spiegel.de/panorama/justiz/arafat-abou-chaker-ex-manager-von-bushido-von-hauptvorwuerfen-freigesprochen-a-4040d8dd-3b5a-4535-834e-9b727fea15d1#ref=rss)
+### exmanager
+
+* [https://www.spiegel.de/panorama/justiz/arafat-abou-chaker-ex-manager-von-bushido-von-hauptvorwuerfen-freigesprochen](https://www.spiegel.de/panorama/justiz/arafat-abou-chaker-ex-manager-von-bushido-von-hauptvorwuerfen-freigesprochen-a-4040d8dd-3b5a-4535-834e-9b727fea15d1#ref=rss)
+### bushido
+
+* [https://www.spiegel.de/panorama/justiz/arafat-abou-chaker-ex-manager-von-bushido-von-hauptvorwuerfen-freigesprochen](https://www.spiegel.de/panorama/justiz/arafat-abou-chaker-ex-manager-von-bushido-von-hauptvorwuerfen-freigesprochen-a-4040d8dd-3b5a-4535-834e-9b727fea15d1#ref=rss)
+### stuttgarter
+
+* [https://www.spiegel.de/politik/deutschland/stuttgarter-landtag-muss-afd-kandidaten-nicht-in-kuratorium-von-landeszentrale-waehlen](https://www.spiegel.de/politik/deutschland/stuttgarter-landtag-muss-afd-kandidaten-nicht-in-kuratorium-von-landeszentrale-waehlen-a-8c1140e0-5cf8-42f9-8f79-aed1c5ee69f3#ref=rss)
+### landtag
+
+* [https://www.spiegel.de/politik/deutschland/stuttgarter-landtag-muss-afd-kandidaten-nicht-in-kuratorium-von-landeszentrale-waehlen](https://www.spiegel.de/politik/deutschland/stuttgarter-landtag-muss-afd-kandidaten-nicht-in-kuratorium-von-landeszentrale-waehlen-a-8c1140e0-5cf8-42f9-8f79-aed1c5ee69f3#ref=rss)
+### kuratorium
+
+* [https://www.spiegel.de/politik/deutschland/stuttgarter-landtag-muss-afd-kandidaten-nicht-in-kuratorium-von-landeszentrale-waehlen](https://www.spiegel.de/politik/deutschland/stuttgarter-landtag-muss-afd-kandidaten-nicht-in-kuratorium-von-landeszentrale-waehlen-a-8c1140e0-5cf8-42f9-8f79-aed1c5ee69f3#ref=rss)
+### landeszentrale
+
+* [https://www.spiegel.de/politik/deutschland/stuttgarter-landtag-muss-afd-kandidaten-nicht-in-kuratorium-von-landeszentrale-waehlen](https://www.spiegel.de/politik/deutschland/stuttgarter-landtag-muss-afd-kandidaten-nicht-in-kuratorium-von-landeszentrale-waehlen-a-8c1140e0-5cf8-42f9-8f79-aed1c5ee69f3#ref=rss)
+### mallorca
+
+* [https://www.spiegel.de/wissenschaft/mallorca-bakterium-bedroht-moeglicherweise-olivenbaeume](https://www.spiegel.de/wissenschaft/mallorca-bakterium-bedroht-moeglicherweise-olivenbaeume-a-aac708ea-e4c5-4db5-b5ef-abe7076d8206#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
 
