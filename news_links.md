@@ -4,350 +4,334 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
+### jahren
 
-* [https://www.spiegel.de/panorama/gesellschaft/suv-parkgebuehren-muessen-schwere-autos-bald-auch-in-deutschland-mehr-blechen](https://www.spiegel.de/panorama/gesellschaft/suv-parkgebuehren-muessen-schwere-autos-bald-auch-in-deutschland-mehr-blechen-a-0be96e88-22e3-47d4-b073-7a14a0ed4f1e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-tyre-extinguishers-streiks-in-deutschland-kraftwerksstrategie-der-regierung](https://www.spiegel.de/politik/deutschland/news-des-tages-tyre-extinguishers-streiks-in-deutschland-kraftwerksstrategie-der-regierung-a-7181c61f-bb21-40d5-b797-19e756104dfa#ref=rss)
-* [https://www.spiegel.de/sport/fussball/kurt-hamrin-ist-tot-nachruf-auf-die-fussball-ikone-aus-schweden-in-deutschland-wurde-er-gehasst-in-italien-wurde-er-geliebt](https://www.spiegel.de/sport/fussball/kurt-hamrin-ist-tot-nachruf-auf-die-fussball-ikone-aus-schweden-in-deutschland-wurde-er-gehasst-in-italien-wurde-er-geliebt-a-93fef0ce-ddbc-4e0c-a170-efb5abe3813b#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/digitalisierung-an-schulen-deutschland-loest-sich-nur-langsam-aus-der-kreidezeit](https://www.spiegel.de/panorama/bildung/digitalisierung-an-schulen-deutschland-loest-sich-nur-langsam-aus-der-kreidezeit-a-252dfdf5-b1d2-49b3-9f56-8313ee158a65#ref=rss)
-### autos
+* [https://www.spiegel.de/wissenschaft/schottland-forschende-finden-neue-flugsaurierart-ceoptera-evansae](https://www.spiegel.de/wissenschaft/schottland-forschende-finden-neue-flugsaurierart-ceoptera-evansae-a-5f3ea0a9-8dd6-4af8-b094-261a5857c7d4#ref=rss)
+* [https://www.spiegel.de/ausland/von-russland-besetztes-akw-ukrainische-mitarbeiter-ausgesperrt](https://www.spiegel.de/ausland/von-russland-besetztes-akw-ukrainische-mitarbeiter-ausgesperrt-a-d65bba43-4f70-4c27-9924-8239011387f4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/industrie-verzeichnet-im-dezember-groessten-auftragszuwachs-seit-jahren](https://www.spiegel.de/wirtschaft/industrie-verzeichnet-im-dezember-groessten-auftragszuwachs-seit-jahren-a-e911334d-e141-4b7e-8711-0525fde46642#ref=rss)
+* [https://www.spiegel.de/panorama/schweden-probleme-mit-gefriergeraeten-am-karolinska-institut-ueber-jahrzehnte-gesammelte-proben-zerstoert](https://www.spiegel.de/panorama/schweden-probleme-mit-gefriergeraeten-am-karolinska-institut-ueber-jahrzehnte-gesammelte-proben-zerstoert-a-01ac0dad-3991-49b8-a9e3-68fb832f3a10#ref=rss)
+### russland
 
-* [https://www.spiegel.de/panorama/gesellschaft/suv-parkgebuehren-muessen-schwere-autos-bald-auch-in-deutschland-mehr-blechen](https://www.spiegel.de/panorama/gesellschaft/suv-parkgebuehren-muessen-schwere-autos-bald-auch-in-deutschland-mehr-blechen-a-0be96e88-22e3-47d4-b073-7a14a0ed4f1e#ref=rss)
-* [https://www.spiegel.de/auto/mobilitaet-rund-jedes-zehnte-neu-zugelassene-auto-im-januar-hatte-einen-rein-elektrischen-antrieb](https://www.spiegel.de/auto/mobilitaet-rund-jedes-zehnte-neu-zugelassene-auto-im-januar-hatte-einen-rein-elektrischen-antrieb-a-7d9edd58-12d5-4fd8-8b17-d598b8f45029#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-tyre-extinguishers-streiks-in-deutschland-kraftwerksstrategie-der-regierung](https://www.spiegel.de/politik/deutschland/news-des-tages-tyre-extinguishers-streiks-in-deutschland-kraftwerksstrategie-der-regierung-a-7181c61f-bb21-40d5-b797-19e756104dfa#ref=rss)
-### alle
-
-* [https://www.spiegel.de/panorama/justiz/walter-mixa-strafverfahren-gegen-frueheren-augsburger-bischof-ermittlungen-in-der-schweiz](https://www.spiegel.de/panorama/justiz/walter-mixa-strafverfahren-gegen-frueheren-augsburger-bischof-ermittlungen-in-der-schweiz-a-00b1e559-2d84-41ab-8f31-c1fbd725c77d#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner](https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner-a-a6a295c6-d995-44a0-8535-d2ff1cf404ef#ref=rss)
-* [https://www.spiegel.de/wirtschaft/darum-mussten-alle-filialen-von-postbank-und-deutscher-bank-schliessen](https://www.spiegel.de/wirtschaft/darum-mussten-alle-filialen-von-postbank-und-deutscher-bank-schliessen-a-027e2e91-d49f-4266-abb6-4086bbd1fe45#ref=rss)
-### shapira
-
-* [https://www.spiegel.de/panorama/justiz/berlin-was-ueber-den-angriff-auf-lahav-shapira-bruder-des-satirikers-shahak-shapira-bekannt-ist](https://www.spiegel.de/panorama/justiz/berlin-was-ueber-den-angriff-auf-lahav-shapira-bruder-des-satirikers-shahak-shapira-bekannt-ist-a-b81977e5-81bb-4295-b995-e989a57f7b14#ref=rss)
-### tag
-
-* [https://www.spiegel.de/panorama/gesellschaft/suv-parkgebuehren-muessen-schwere-autos-bald-auch-in-deutschland-mehr-blechen](https://www.spiegel.de/panorama/gesellschaft/suv-parkgebuehren-muessen-schwere-autos-bald-auch-in-deutschland-mehr-blechen-a-0be96e88-22e3-47d4-b073-7a14a0ed4f1e#ref=rss)
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### christian
-
-* [https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner](https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner-a-a6a295c6-d995-44a0-8535-d2ff1cf404ef#ref=rss)
-* [https://www.spiegel.de/wirtschaft/christian-lindners-plan-zur-soli-abschaffung-trifft-auf-gegenwind-in-der-ampelkoalition](https://www.spiegel.de/wirtschaft/christian-lindners-plan-zur-soli-abschaffung-trifft-auf-gegenwind-in-der-ampelkoalition-a-40bfc3d8-d5a8-4367-bad3-a7d2506d4342#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/wirtschaft/darum-mussten-alle-filialen-von-postbank-und-deutscher-bank-schliessen](https://www.spiegel.de/wirtschaft/darum-mussten-alle-filialen-von-postbank-und-deutscher-bank-schliessen-a-027e2e91-d49f-4266-abb6-4086bbd1fe45#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-was-ueber-den-angriff-auf-lahav-shapira-bruder-des-satirikers-shahak-shapira-bekannt-ist](https://www.spiegel.de/panorama/justiz/berlin-was-ueber-den-angriff-auf-lahav-shapira-bruder-des-satirikers-shahak-shapira-bekannt-ist-a-b81977e5-81bb-4295-b995-e989a57f7b14#ref=rss)
-* [https://www.spiegel.de/wirtschaft/miele-streicht-wohl-weltweit-2000-stellen](https://www.spiegel.de/wirtschaft/miele-streicht-wohl-weltweit-2000-stellen-a-d3055ef1-c805-49a0-9f42-8b58f5fed9d3#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/darum-mussten-alle-filialen-von-postbank-und-deutscher-bank-schliessen](https://www.spiegel.de/wirtschaft/darum-mussten-alle-filialen-von-postbank-und-deutscher-bank-schliessen-a-027e2e91-d49f-4266-abb6-4086bbd1fe45#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutsche-bahn-nach-brandbrief-an-chef-richard-lutz-kahlschlag-erschuettert-spd](https://www.spiegel.de/politik/deutschland/deutsche-bahn-nach-brandbrief-an-chef-richard-lutz-kahlschlag-erschuettert-spd-a-be8758ee-63fe-499a-a48b-5236453520a0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kraftwerksstrategie-das-sind-die-ersten-reaktionen](https://www.spiegel.de/wirtschaft/kraftwerksstrategie-das-sind-die-ersten-reaktionen-a-1d710736-91ae-4d37-923e-40e040546165#ref=rss)
+* [https://www.spiegel.de/ausland/von-russland-besetztes-akw-ukrainische-mitarbeiter-ausgesperrt](https://www.spiegel.de/ausland/von-russland-besetztes-akw-ukrainische-mitarbeiter-ausgesperrt-a-d65bba43-4f70-4c27-9924-8239011387f4#ref=rss)
+* [https://www.spiegel.de/ausland/uno-russland-und-china-attackieren-usa-wegen-luftangriffen-im-nahen-osten](https://www.spiegel.de/ausland/uno-russland-und-china-attackieren-usa-wegen-luftangriffen-im-nahen-osten-a-ecd275fc-db98-4223-a814-66349975b227#ref=rss)
 ### israel
 
-* [https://www.spiegel.de/ausland/catherine-colonna-soll-untersuchungen-zu-vorwuerfen-gegen-unrwa-mitarbeiter-leiten](https://www.spiegel.de/ausland/catherine-colonna-soll-untersuchungen-zu-vorwuerfen-gegen-unrwa-mitarbeiter-leiten-a-f9dba085-d074-434c-b094-b258b2eb85ac#ref=rss)
-* [https://www.spiegel.de/ausland/huthi-angriffe-australien-stoppt-schiff-mit-14-000-schafen-auf-weg-nach-israel](https://www.spiegel.de/ausland/huthi-angriffe-australien-stoppt-schiff-mit-14-000-schafen-auf-weg-nach-israel-a-41a22506-c47c-4f36-8f4e-6006b708498c#ref=rss)
-### landgericht
+* [https://www.spiegel.de/ausland/israel-plant-vorstoss-auf-rafah-scholz-und-blinken-draengen-auf-loesung-des-konflikts](https://www.spiegel.de/ausland/israel-plant-vorstoss-auf-rafah-scholz-und-blinken-draengen-auf-loesung-des-konflikts-a-1843a27a-f4bd-433e-bdf2-557ed5ae5c89#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/antisemitismus-bildungsstaette-anne-frank-kritisiert-tiktok-fuer-speed-radikalisierung](https://www.spiegel.de/politik/deutschland/antisemitismus-bildungsstaette-anne-frank-kritisiert-tiktok-fuer-speed-radikalisierung-a-904066d2-236a-47dc-b6a3-a74738f2ee68#ref=rss)
+### 2024
 
-* [https://www.spiegel.de/panorama/justiz/tod-auf-klassenfahrt-in-london-landgericht-moenchengladbach-erwaegt-verurteilung-zweier-lehrerinnen](https://www.spiegel.de/panorama/justiz/tod-auf-klassenfahrt-in-london-landgericht-moenchengladbach-erwaegt-verurteilung-zweier-lehrerinnen-a-02f2eb8c-b0c8-4b68-8312-b546e3ec7b93#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/arafat-abou-chaker-ex-manager-von-bushido-von-hauptvorwuerfen-freigesprochen](https://www.spiegel.de/panorama/justiz/arafat-abou-chaker-ex-manager-von-bushido-von-hauptvorwuerfen-freigesprochen-a-4040d8dd-3b5a-4535-834e-9b727fea15d1#ref=rss)
-### berlin
+* [https://www.spiegel.de/sport/olympia/olympische-spiele-in-paris-2024-ermittlungen-gegen-den-praesidenten-des-organisationskomitees](https://www.spiegel.de/sport/olympia/olympische-spiele-in-paris-2024-ermittlungen-gegen-den-praesidenten-des-organisationskomitees-a-ce708b4d-5c8a-4006-bb93-0094a4a47ee2#ref=rss)
+* [https://www.spiegel.de/karriere/trotz-des-schaltjahrs-muessen-arbeitnehmer-2024-weniger-arbeiten](https://www.spiegel.de/karriere/trotz-des-schaltjahrs-muessen-arbeitnehmer-2024-weniger-arbeiten-a-9abc3136-9879-49ab-aa04-4c653d6f3816#ref=rss)
+### weniger
 
-* [https://www.spiegel.de/panorama/justiz/berlin-was-ueber-den-angriff-auf-lahav-shapira-bruder-des-satirikers-shahak-shapira-bekannt-ist](https://www.spiegel.de/panorama/justiz/berlin-was-ueber-den-angriff-auf-lahav-shapira-bruder-des-satirikers-shahak-shapira-bekannt-ist-a-b81977e5-81bb-4295-b995-e989a57f7b14#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/arafat-abou-chaker-ex-manager-von-bushido-von-hauptvorwuerfen-freigesprochen](https://www.spiegel.de/panorama/justiz/arafat-abou-chaker-ex-manager-von-bushido-von-hauptvorwuerfen-freigesprochen-a-4040d8dd-3b5a-4535-834e-9b727fea15d1#ref=rss)
-### spiegel
+* [https://www.spiegel.de/karriere/trotz-des-schaltjahrs-muessen-arbeitnehmer-2024-weniger-arbeiten](https://www.spiegel.de/karriere/trotz-des-schaltjahrs-muessen-arbeitnehmer-2024-weniger-arbeiten-a-9abc3136-9879-49ab-aa04-4c653d6f3816#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kassenbetrug-wie-gastwirte-bei-der-steuer-tricksen-und-warum-der-staat-zu-wenig-kontrolliert](https://www.spiegel.de/wirtschaft/kassenbetrug-wie-gastwirte-bei-der-steuer-tricksen-und-warum-der-staat-zu-wenig-kontrolliert-a-6fc8b244-7665-4024-87a2-04dca5478462#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ubs-verbucht-riesigen-jahresgewinn-wegen-credit-suisse-uebernahme](https://www.spiegel.de/wirtschaft/ubs-verbucht-riesigen-jahresgewinn-wegen-credit-suisse-uebernahme-a-bf1fe2df-c01d-41d0-84d7-94889e57ad4e#ref=rss)
+### staat
 
-* [https://www.spiegel.de/politik/deutschland/deutsche-bahn-nach-brandbrief-an-chef-richard-lutz-kahlschlag-erschuettert-spd](https://www.spiegel.de/politik/deutschland/deutsche-bahn-nach-brandbrief-an-chef-richard-lutz-kahlschlag-erschuettert-spd-a-be8758ee-63fe-499a-a48b-5236453520a0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/henryk-m-broder-bundesinnenministerium-darf-textpassagen-nicht-veroeffentlichen](https://www.spiegel.de/politik/deutschland/henryk-m-broder-bundesinnenministerium-darf-textpassagen-nicht-veroeffentlichen-a-462c3ded-d6ea-48fb-bd86-b39e9a2447f4#ref=rss)
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### erst
+* [https://www.spiegel.de/wirtschaft/kassenbetrug-wie-gastwirte-bei-der-steuer-tricksen-und-warum-der-staat-zu-wenig-kontrolliert](https://www.spiegel.de/wirtschaft/kassenbetrug-wie-gastwirte-bei-der-steuer-tricksen-und-warum-der-staat-zu-wenig-kontrolliert-a-6fc8b244-7665-4024-87a2-04dca5478462#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/private-pflegeversicherung-welche-varianten-gibt-es-worauf-achten](https://www.spiegel.de/wirtschaft/service/private-pflegeversicherung-welche-varianten-gibt-es-worauf-achten-a-f08aefd0-4b6c-45f2-b32c-ddc81f350927#ref=rss)
+### junge
 
-* [https://www.spiegel.de/wirtschaft/christian-lindners-plan-zur-soli-abschaffung-trifft-auf-gegenwind-in-der-ampelkoalition](https://www.spiegel.de/wirtschaft/christian-lindners-plan-zur-soli-abschaffung-trifft-auf-gegenwind-in-der-ampelkoalition-a-40bfc3d8-d5a8-4367-bad3-a7d2506d4342#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/digitalisierung-an-schulen-deutschland-loest-sich-nur-langsam-aus-der-kreidezeit](https://www.spiegel.de/panorama/bildung/digitalisierung-an-schulen-deutschland-loest-sich-nur-langsam-aus-der-kreidezeit-a-252dfdf5-b1d2-49b3-9f56-8313ee158a65#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-vitali-klitschko-verteidigt-armeechef-walerij-saluschny](https://www.spiegel.de/ausland/ukraine-vitali-klitschko-verteidigt-armeechef-walerij-saluschny-a-6ebb5ea7-d296-4b1b-9e35-66cdadbdd1da#ref=rss)
-### tot
+* [https://www.spiegel.de/politik/deutschland/verfassungsschutz-darf-afd-nachwuchsorganisation-als-gesichert-rechtsextremistisch-einstufen](https://www.spiegel.de/politik/deutschland/verfassungsschutz-darf-afd-nachwuchsorganisation-als-gesichert-rechtsextremistisch-einstufen-a-87f65add-427a-4aa0-bcff-d20f6d68026a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/demokratie-viele-junge-deutsche-misstrauen-regierung-und-parlament](https://www.spiegel.de/politik/deutschland/demokratie-viele-junge-deutsche-misstrauen-regierung-und-parlament-a-9763ad5c-2b63-41f4-8780-d5cda768d895#ref=rss)
+### meer
 
-* [https://www.spiegel.de/panorama/justiz/nuernberg-mann-stiehlt-offenbar-hund-und-schlaegt-ihn-tot](https://www.spiegel.de/panorama/justiz/nuernberg-mann-stiehlt-offenbar-hund-und-schlaegt-ihn-tot-a-e04091af-6dee-4606-9317-e05ccdc22926#ref=rss)
-* [https://www.spiegel.de/sport/fussball/kurt-hamrin-ist-tot-nachruf-auf-die-fussball-ikone-aus-schweden-in-deutschland-wurde-er-gehasst-in-italien-wurde-er-geliebt](https://www.spiegel.de/sport/fussball/kurt-hamrin-ist-tot-nachruf-auf-die-fussball-ikone-aus-schweden-in-deutschland-wurde-er-gehasst-in-italien-wurde-er-geliebt-a-93fef0ce-ddbc-4e0c-a170-efb5abe3813b#ref=rss)
-### schwere
+* [https://www.spiegel.de/ausland/rotes-meer-huthis-attackieren-erneut-frachter-im-roten-meer](https://www.spiegel.de/ausland/rotes-meer-huthis-attackieren-erneut-frachter-im-roten-meer-a-da72326a-3519-49d6-b4d6-ccc356096978#ref=rss)
+### china
 
-* [https://www.spiegel.de/panorama/gesellschaft/suv-parkgebuehren-muessen-schwere-autos-bald-auch-in-deutschland-mehr-blechen](https://www.spiegel.de/panorama/gesellschaft/suv-parkgebuehren-muessen-schwere-autos-bald-auch-in-deutschland-mehr-blechen-a-0be96e88-22e3-47d4-b073-7a14a0ed4f1e#ref=rss)
-### bald
+* [https://www.spiegel.de/wirtschaft/china-verzehnfacht-investitionen-in-iran](https://www.spiegel.de/wirtschaft/china-verzehnfacht-investitionen-in-iran-a-bab6d2c2-5f9b-423f-9878-03e13448a542#ref=rss)
+* [https://www.spiegel.de/ausland/uno-russland-und-china-attackieren-usa-wegen-luftangriffen-im-nahen-osten](https://www.spiegel.de/ausland/uno-russland-und-china-attackieren-usa-wegen-luftangriffen-im-nahen-osten-a-ecd275fc-db98-4223-a814-66349975b227#ref=rss)
+### usa
 
-* [https://www.spiegel.de/panorama/gesellschaft/suv-parkgebuehren-muessen-schwere-autos-bald-auch-in-deutschland-mehr-blechen](https://www.spiegel.de/panorama/gesellschaft/suv-parkgebuehren-muessen-schwere-autos-bald-auch-in-deutschland-mehr-blechen-a-0be96e88-22e3-47d4-b073-7a14a0ed4f1e#ref=rss)
-### mehr
+* [https://www.spiegel.de/ausland/uno-russland-und-china-attackieren-usa-wegen-luftangriffen-im-nahen-osten](https://www.spiegel.de/ausland/uno-russland-und-china-attackieren-usa-wegen-luftangriffen-im-nahen-osten-a-ecd275fc-db98-4223-a814-66349975b227#ref=rss)
+### ich
 
-* [https://www.spiegel.de/panorama/gesellschaft/suv-parkgebuehren-muessen-schwere-autos-bald-auch-in-deutschland-mehr-blechen](https://www.spiegel.de/panorama/gesellschaft/suv-parkgebuehren-muessen-schwere-autos-bald-auch-in-deutschland-mehr-blechen-a-0be96e88-22e3-47d4-b073-7a14a0ed4f1e#ref=rss)
-* [https://www.spiegel.de/auto/mobilitaet-rund-jedes-zehnte-neu-zugelassene-auto-im-januar-hatte-einen-rein-elektrischen-antrieb](https://www.spiegel.de/auto/mobilitaet-rund-jedes-zehnte-neu-zugelassene-auto-im-januar-hatte-einen-rein-elektrischen-antrieb-a-7d9edd58-12d5-4fd8-8b17-d598b8f45029#ref=rss)
-### lage
+* [https://www.spiegel.de/reise/warum-wir-auf-reisen-nur-noch-wenig-entdecken-das-ende-der-geheimtipps](https://www.spiegel.de/reise/warum-wir-auf-reisen-nur-noch-wenig-entdecken-das-ende-der-geheimtipps-a-0d53b0c7-4530-4a1d-8cc6-0ef579d571fa#ref=rss)
+### eu
 
-* [https://www.spiegel.de/panorama/gesellschaft/suv-parkgebuehren-muessen-schwere-autos-bald-auch-in-deutschland-mehr-blechen](https://www.spiegel.de/panorama/gesellschaft/suv-parkgebuehren-muessen-schwere-autos-bald-auch-in-deutschland-mehr-blechen-a-0be96e88-22e3-47d4-b073-7a14a0ed4f1e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-tyre-extinguishers-streiks-in-deutschland-kraftwerksstrategie-der-regierung](https://www.spiegel.de/politik/deutschland/news-des-tages-tyre-extinguishers-streiks-in-deutschland-kraftwerksstrategie-der-regierung-a-7181c61f-bb21-40d5-b797-19e756104dfa#ref=rss)
-### deutschen
+* [https://www.spiegel.de/wirtschaft/klimaziele-eu-kommission-will-co-emissionen-bis-2040-drastisch-senken](https://www.spiegel.de/wirtschaft/klimaziele-eu-kommission-will-co-emissionen-bis-2040-drastisch-senken-a-2109ac64-a14b-4f13-870c-bbc2a3544a99#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-wirtschaft-staerken-eu-plant-neue-russland-sanktionen](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-wirtschaft-staerken-eu-plant-neue-russland-sanktionen-a-2b47018d-d673-411f-ae7d-257ad962f82b#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/panorama/gesellschaft/suv-parkgebuehren-muessen-schwere-autos-bald-auch-in-deutschland-mehr-blechen](https://www.spiegel.de/panorama/gesellschaft/suv-parkgebuehren-muessen-schwere-autos-bald-auch-in-deutschland-mehr-blechen-a-0be96e88-22e3-47d4-b073-7a14a0ed4f1e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/energiewende-das-bringt-die-kraftwerkstrategie-der-regierung](https://www.spiegel.de/wirtschaft/service/energiewende-das-bringt-die-kraftwerkstrategie-der-regierung-a-07523837-156a-4e62-b6ec-c793af0fe2db#ref=rss)
-### kalifornien
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-wirtschaft-staerken-eu-plant-neue-russland-sanktionen](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-wirtschaft-staerken-eu-plant-neue-russland-sanktionen-a-2b47018d-d673-411f-ae7d-257ad962f82b#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-geheimdienstvertreter-wegen-ausspaehens-von-journalisten-gefeuert](https://www.spiegel.de/ausland/ukraine-geheimdienstvertreter-wegen-ausspaehens-von-journalisten-gefeuert-a-d333fb65-02f7-41ea-8ca8-34620d1d420e#ref=rss)
+### bahn
 
-* [https://www.spiegel.de/panorama/pineapple-express-heftiges-unwetter-zieht-ueber-kalifornien](https://www.spiegel.de/panorama/pineapple-express-heftiges-unwetter-zieht-ueber-kalifornien-a-f541db20-e7d4-4ff7-b0e7-c0a3d183adf0#ref=rss)
-### ohne
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-fahrgastverbaende-erhoehen-den-druck-auf-die-bahn](https://www.spiegel.de/wirtschaft/deutsche-bahn-fahrgastverbaende-erhoehen-den-druck-auf-die-bahn-a-d5935717-279a-41bc-8b67-d4a035f29f3e#ref=rss)
+### plant
 
-* [https://www.spiegel.de/panorama/pineapple-express-heftiges-unwetter-zieht-ueber-kalifornien](https://www.spiegel.de/panorama/pineapple-express-heftiges-unwetter-zieht-ueber-kalifornien-a-f541db20-e7d4-4ff7-b0e7-c0a3d183adf0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/energiewende-das-bringt-die-kraftwerkstrategie-der-regierung](https://www.spiegel.de/wirtschaft/service/energiewende-das-bringt-die-kraftwerkstrategie-der-regierung-a-07523837-156a-4e62-b6ec-c793af0fe2db#ref=rss)
-### strom
+* [https://www.spiegel.de/ausland/israel-plant-vorstoss-auf-rafah-scholz-und-blinken-draengen-auf-loesung-des-konflikts](https://www.spiegel.de/ausland/israel-plant-vorstoss-auf-rafah-scholz-und-blinken-draengen-auf-loesung-des-konflikts-a-1843a27a-f4bd-433e-bdf2-557ed5ae5c89#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-wirtschaft-staerken-eu-plant-neue-russland-sanktionen](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-wirtschaft-staerken-eu-plant-neue-russland-sanktionen-a-2b47018d-d673-411f-ae7d-257ad962f82b#ref=rss)
+### rafah
 
-* [https://www.spiegel.de/panorama/pineapple-express-heftiges-unwetter-zieht-ueber-kalifornien](https://www.spiegel.de/panorama/pineapple-express-heftiges-unwetter-zieht-ueber-kalifornien-a-f541db20-e7d4-4ff7-b0e7-c0a3d183adf0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-tyre-extinguishers-streiks-in-deutschland-kraftwerksstrategie-der-regierung](https://www.spiegel.de/politik/deutschland/news-des-tages-tyre-extinguishers-streiks-in-deutschland-kraftwerksstrategie-der-regierung-a-7181c61f-bb21-40d5-b797-19e756104dfa#ref=rss)
-### walter
+* [https://www.spiegel.de/ausland/israel-plant-vorstoss-auf-rafah-scholz-und-blinken-draengen-auf-loesung-des-konflikts](https://www.spiegel.de/ausland/israel-plant-vorstoss-auf-rafah-scholz-und-blinken-draengen-auf-loesung-des-konflikts-a-1843a27a-f4bd-433e-bdf2-557ed5ae5c89#ref=rss)
+### scholz
 
-* [https://www.spiegel.de/panorama/justiz/walter-mixa-strafverfahren-gegen-frueheren-augsburger-bischof-ermittlungen-in-der-schweiz](https://www.spiegel.de/panorama/justiz/walter-mixa-strafverfahren-gegen-frueheren-augsburger-bischof-ermittlungen-in-der-schweiz-a-00b1e559-2d84-41ab-8f31-c1fbd725c77d#ref=rss)
-### mixa
+* [https://www.spiegel.de/ausland/israel-plant-vorstoss-auf-rafah-scholz-und-blinken-draengen-auf-loesung-des-konflikts](https://www.spiegel.de/ausland/israel-plant-vorstoss-auf-rafah-scholz-und-blinken-draengen-auf-loesung-des-konflikts-a-1843a27a-f4bd-433e-bdf2-557ed5ae5c89#ref=rss)
+### blinken
 
-* [https://www.spiegel.de/panorama/justiz/walter-mixa-strafverfahren-gegen-frueheren-augsburger-bischof-ermittlungen-in-der-schweiz](https://www.spiegel.de/panorama/justiz/walter-mixa-strafverfahren-gegen-frueheren-augsburger-bischof-ermittlungen-in-der-schweiz-a-00b1e559-2d84-41ab-8f31-c1fbd725c77d#ref=rss)
-### augsburger
+* [https://www.spiegel.de/ausland/israel-plant-vorstoss-auf-rafah-scholz-und-blinken-draengen-auf-loesung-des-konflikts](https://www.spiegel.de/ausland/israel-plant-vorstoss-auf-rafah-scholz-und-blinken-draengen-auf-loesung-des-konflikts-a-1843a27a-f4bd-433e-bdf2-557ed5ae5c89#ref=rss)
+### drängen
 
-* [https://www.spiegel.de/panorama/justiz/walter-mixa-strafverfahren-gegen-frueheren-augsburger-bischof-ermittlungen-in-der-schweiz](https://www.spiegel.de/panorama/justiz/walter-mixa-strafverfahren-gegen-frueheren-augsburger-bischof-ermittlungen-in-der-schweiz-a-00b1e559-2d84-41ab-8f31-c1fbd725c77d#ref=rss)
-### bischof
+* [https://www.spiegel.de/ausland/israel-plant-vorstoss-auf-rafah-scholz-und-blinken-draengen-auf-loesung-des-konflikts](https://www.spiegel.de/ausland/israel-plant-vorstoss-auf-rafah-scholz-und-blinken-draengen-auf-loesung-des-konflikts-a-1843a27a-f4bd-433e-bdf2-557ed5ae5c89#ref=rss)
+### wo
 
-* [https://www.spiegel.de/panorama/justiz/walter-mixa-strafverfahren-gegen-frueheren-augsburger-bischof-ermittlungen-in-der-schweiz](https://www.spiegel.de/panorama/justiz/walter-mixa-strafverfahren-gegen-frueheren-augsburger-bischof-ermittlungen-in-der-schweiz-a-00b1e559-2d84-41ab-8f31-c1fbd725c77d#ref=rss)
-### mann
+* [https://www.spiegel.de/ausland/israel-plant-vorstoss-auf-rafah-scholz-und-blinken-draengen-auf-loesung-des-konflikts](https://www.spiegel.de/ausland/israel-plant-vorstoss-auf-rafah-scholz-und-blinken-draengen-auf-loesung-des-konflikts-a-1843a27a-f4bd-433e-bdf2-557ed5ae5c89#ref=rss)
+* [https://www.spiegel.de/reise/warum-wir-auf-reisen-nur-noch-wenig-entdecken-das-ende-der-geheimtipps](https://www.spiegel.de/reise/warum-wir-auf-reisen-nur-noch-wenig-entdecken-das-ende-der-geheimtipps-a-0d53b0c7-4530-4a1d-8cc6-0ef579d571fa#ref=rss)
+### millionen
 
-* [https://www.spiegel.de/panorama/justiz/walter-mixa-strafverfahren-gegen-frueheren-augsburger-bischof-ermittlungen-in-der-schweiz](https://www.spiegel.de/panorama/justiz/walter-mixa-strafverfahren-gegen-frueheren-augsburger-bischof-ermittlungen-in-der-schweiz-a-00b1e559-2d84-41ab-8f31-c1fbd725c77d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/nuernberg-mann-stiehlt-offenbar-hund-und-schlaegt-ihn-tot](https://www.spiegel.de/panorama/justiz/nuernberg-mann-stiehlt-offenbar-hund-und-schlaegt-ihn-tot-a-e04091af-6dee-4606-9317-e05ccdc22926#ref=rss)
-### ermittelt
+* [https://www.spiegel.de/ausland/israel-plant-vorstoss-auf-rafah-scholz-und-blinken-draengen-auf-loesung-des-konflikts](https://www.spiegel.de/ausland/israel-plant-vorstoss-auf-rafah-scholz-und-blinken-draengen-auf-loesung-des-konflikts-a-1843a27a-f4bd-433e-bdf2-557ed5ae5c89#ref=rss)
+* [https://www.spiegel.de/wissenschaft/schottland-forschende-finden-neue-flugsaurierart-ceoptera-evansae](https://www.spiegel.de/wissenschaft/schottland-forschende-finden-neue-flugsaurierart-ceoptera-evansae-a-5f3ea0a9-8dd6-4af8-b094-261a5857c7d4#ref=rss)
+### überblick
 
-* [https://www.spiegel.de/panorama/justiz/walter-mixa-strafverfahren-gegen-frueheren-augsburger-bischof-ermittlungen-in-der-schweiz](https://www.spiegel.de/panorama/justiz/walter-mixa-strafverfahren-gegen-frueheren-augsburger-bischof-ermittlungen-in-der-schweiz-a-00b1e559-2d84-41ab-8f31-c1fbd725c77d#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner](https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner-a-a6a295c6-d995-44a0-8535-d2ff1cf404ef#ref=rss)
-### vorwürfe
+* [https://www.spiegel.de/ausland/israel-plant-vorstoss-auf-rafah-scholz-und-blinken-draengen-auf-loesung-des-konflikts](https://www.spiegel.de/ausland/israel-plant-vorstoss-auf-rafah-scholz-und-blinken-draengen-auf-loesung-des-konflikts-a-1843a27a-f4bd-433e-bdf2-557ed5ae5c89#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-wirtschaft-staerken-eu-plant-neue-russland-sanktionen](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-wirtschaft-staerken-eu-plant-neue-russland-sanktionen-a-2b47018d-d673-411f-ae7d-257ad962f82b#ref=rss)
+### bildungsstätte
 
-* [https://www.spiegel.de/panorama/justiz/walter-mixa-strafverfahren-gegen-frueheren-augsburger-bischof-ermittlungen-in-der-schweiz](https://www.spiegel.de/panorama/justiz/walter-mixa-strafverfahren-gegen-frueheren-augsburger-bischof-ermittlungen-in-der-schweiz-a-00b1e559-2d84-41ab-8f31-c1fbd725c77d#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner](https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner-a-a6a295c6-d995-44a0-8535-d2ff1cf404ef#ref=rss)
-### formel
+* [https://www.spiegel.de/politik/deutschland/antisemitismus-bildungsstaette-anne-frank-kritisiert-tiktok-fuer-speed-radikalisierung](https://www.spiegel.de/politik/deutschland/antisemitismus-bildungsstaette-anne-frank-kritisiert-tiktok-fuer-speed-radikalisierung-a-904066d2-236a-47dc-b6a3-a74738f2ee68#ref=rss)
+### anne
 
-* [https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner](https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner-a-a6a295c6-d995-44a0-8535-d2ff1cf404ef#ref=rss)
-### 1
+* [https://www.spiegel.de/politik/deutschland/antisemitismus-bildungsstaette-anne-frank-kritisiert-tiktok-fuer-speed-radikalisierung](https://www.spiegel.de/politik/deutschland/antisemitismus-bildungsstaette-anne-frank-kritisiert-tiktok-fuer-speed-radikalisierung-a-904066d2-236a-47dc-b6a3-a74738f2ee68#ref=rss)
+### frank
 
-* [https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner](https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner-a-a6a295c6-d995-44a0-8535-d2ff1cf404ef#ref=rss)
-### red
+* [https://www.spiegel.de/politik/deutschland/antisemitismus-bildungsstaette-anne-frank-kritisiert-tiktok-fuer-speed-radikalisierung](https://www.spiegel.de/politik/deutschland/antisemitismus-bildungsstaette-anne-frank-kritisiert-tiktok-fuer-speed-radikalisierung-a-904066d2-236a-47dc-b6a3-a74738f2ee68#ref=rss)
+### tiktok
 
-* [https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner](https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner-a-a6a295c6-d995-44a0-8535-d2ff1cf404ef#ref=rss)
-### bull
+* [https://www.spiegel.de/politik/deutschland/antisemitismus-bildungsstaette-anne-frank-kritisiert-tiktok-fuer-speed-radikalisierung](https://www.spiegel.de/politik/deutschland/antisemitismus-bildungsstaette-anne-frank-kritisiert-tiktok-fuer-speed-radikalisierung-a-904066d2-236a-47dc-b6a3-a74738f2ee68#ref=rss)
+### schottland
 
-* [https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner](https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner-a-a6a295c6-d995-44a0-8535-d2ff1cf404ef#ref=rss)
-### teamchef
+* [https://www.spiegel.de/wissenschaft/schottland-forschende-finden-neue-flugsaurierart-ceoptera-evansae](https://www.spiegel.de/wissenschaft/schottland-forschende-finden-neue-flugsaurierart-ceoptera-evansae-a-5f3ea0a9-8dd6-4af8-b094-261a5857c7d4#ref=rss)
+### forschende
 
-* [https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner](https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner-a-a6a295c6-d995-44a0-8535-d2ff1cf404ef#ref=rss)
-### horner
+* [https://www.spiegel.de/wissenschaft/schottland-forschende-finden-neue-flugsaurierart-ceoptera-evansae](https://www.spiegel.de/wissenschaft/schottland-forschende-finden-neue-flugsaurierart-ceoptera-evansae-a-5f3ea0a9-8dd6-4af8-b094-261a5857c7d4#ref=rss)
+### neue
 
-* [https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner](https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner-a-a6a295c6-d995-44a0-8535-d2ff1cf404ef#ref=rss)
-### zurück
+* [https://www.spiegel.de/wissenschaft/schottland-forschende-finden-neue-flugsaurierart-ceoptera-evansae](https://www.spiegel.de/wissenschaft/schottland-forschende-finden-neue-flugsaurierart-ceoptera-evansae-a-5f3ea0a9-8dd6-4af8-b094-261a5857c7d4#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-wirtschaft-staerken-eu-plant-neue-russland-sanktionen](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-wirtschaft-staerken-eu-plant-neue-russland-sanktionen-a-2b47018d-d673-411f-ae7d-257ad962f82b#ref=rss)
+### flugsaurierart
 
-* [https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner](https://www.spiegel.de/sport/formel1/formel-1-red-bull-ermittelt-gegen-teamchef-christian-horner-a-a6a295c6-d995-44a0-8535-d2ff1cf404ef#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/stuttgarter-landtag-muss-afd-kandidaten-nicht-in-kuratorium-von-landeszentrale-waehlen](https://www.spiegel.de/politik/deutschland/stuttgarter-landtag-muss-afd-kandidaten-nicht-in-kuratorium-von-landeszentrale-waehlen-a-8c1140e0-5cf8-42f9-8f79-aed1c5ee69f3#ref=rss)
-### neu
+* [https://www.spiegel.de/wissenschaft/schottland-forschende-finden-neue-flugsaurierart-ceoptera-evansae](https://www.spiegel.de/wissenschaft/schottland-forschende-finden-neue-flugsaurierart-ceoptera-evansae-a-5f3ea0a9-8dd6-4af8-b094-261a5857c7d4#ref=rss)
+### ceoptera
 
-* [https://www.spiegel.de/auto/mobilitaet-rund-jedes-zehnte-neu-zugelassene-auto-im-januar-hatte-einen-rein-elektrischen-antrieb](https://www.spiegel.de/auto/mobilitaet-rund-jedes-zehnte-neu-zugelassene-auto-im-januar-hatte-einen-rein-elektrischen-antrieb-a-7d9edd58-12d5-4fd8-8b17-d598b8f45029#ref=rss)
-### januar
+* [https://www.spiegel.de/wissenschaft/schottland-forschende-finden-neue-flugsaurierart-ceoptera-evansae](https://www.spiegel.de/wissenschaft/schottland-forschende-finden-neue-flugsaurierart-ceoptera-evansae-a-5f3ea0a9-8dd6-4af8-b094-261a5857c7d4#ref=rss)
+### evansae
 
-* [https://www.spiegel.de/auto/mobilitaet-rund-jedes-zehnte-neu-zugelassene-auto-im-januar-hatte-einen-rein-elektrischen-antrieb](https://www.spiegel.de/auto/mobilitaet-rund-jedes-zehnte-neu-zugelassene-auto-im-januar-hatte-einen-rein-elektrischen-antrieb-a-7d9edd58-12d5-4fd8-8b17-d598b8f45029#ref=rss)
-### filialen
+* [https://www.spiegel.de/wissenschaft/schottland-forschende-finden-neue-flugsaurierart-ceoptera-evansae](https://www.spiegel.de/wissenschaft/schottland-forschende-finden-neue-flugsaurierart-ceoptera-evansae-a-5f3ea0a9-8dd6-4af8-b094-261a5857c7d4#ref=rss)
+### wohl
 
-* [https://www.spiegel.de/wirtschaft/darum-mussten-alle-filialen-von-postbank-und-deutscher-bank-schliessen](https://www.spiegel.de/wirtschaft/darum-mussten-alle-filialen-von-postbank-und-deutscher-bank-schliessen-a-027e2e91-d49f-4266-abb6-4086bbd1fe45#ref=rss)
-### postbank
+* [https://www.spiegel.de/wissenschaft/schottland-forschende-finden-neue-flugsaurierart-ceoptera-evansae](https://www.spiegel.de/wissenschaft/schottland-forschende-finden-neue-flugsaurierart-ceoptera-evansae-a-5f3ea0a9-8dd6-4af8-b094-261a5857c7d4#ref=rss)
+* [https://www.spiegel.de/panorama/schweden-probleme-mit-gefriergeraeten-am-karolinska-institut-ueber-jahrzehnte-gesammelte-proben-zerstoert](https://www.spiegel.de/panorama/schweden-probleme-mit-gefriergeraeten-am-karolinska-institut-ueber-jahrzehnte-gesammelte-proben-zerstoert-a-01ac0dad-3991-49b8-a9e3-68fb832f3a10#ref=rss)
+### könig
 
-* [https://www.spiegel.de/wirtschaft/darum-mussten-alle-filialen-von-postbank-und-deutscher-bank-schliessen](https://www.spiegel.de/wirtschaft/darum-mussten-alle-filialen-von-postbank-und-deutscher-bank-schliessen-a-027e2e91-d49f-4266-abb6-4086bbd1fe45#ref=rss)
-### bank
+* [https://www.spiegel.de/panorama/leute/koenig-charles-iii-krebs-laut-rishi-sunak-frueh-erkannt](https://www.spiegel.de/panorama/leute/koenig-charles-iii-krebs-laut-rishi-sunak-frueh-erkannt-a-27ac8357-9df3-413e-96c0-940c3a8a533b#ref=rss)
+### charles
 
-* [https://www.spiegel.de/wirtschaft/darum-mussten-alle-filialen-von-postbank-und-deutscher-bank-schliessen](https://www.spiegel.de/wirtschaft/darum-mussten-alle-filialen-von-postbank-und-deutscher-bank-schliessen-a-027e2e91-d49f-4266-abb6-4086bbd1fe45#ref=rss)
-### unrwamitarbeiter
+* [https://www.spiegel.de/panorama/leute/koenig-charles-iii-krebs-laut-rishi-sunak-frueh-erkannt](https://www.spiegel.de/panorama/leute/koenig-charles-iii-krebs-laut-rishi-sunak-frueh-erkannt-a-27ac8357-9df3-413e-96c0-940c3a8a533b#ref=rss)
+### rishi
 
-* [https://www.spiegel.de/ausland/catherine-colonna-soll-untersuchungen-zu-vorwuerfen-gegen-unrwa-mitarbeiter-leiten](https://www.spiegel.de/ausland/catherine-colonna-soll-untersuchungen-zu-vorwuerfen-gegen-unrwa-mitarbeiter-leiten-a-f9dba085-d074-434c-b094-b258b2eb85ac#ref=rss)
-### kraftwerksstrategie
+* [https://www.spiegel.de/panorama/leute/koenig-charles-iii-krebs-laut-rishi-sunak-frueh-erkannt](https://www.spiegel.de/panorama/leute/koenig-charles-iii-krebs-laut-rishi-sunak-frueh-erkannt-a-27ac8357-9df3-413e-96c0-940c3a8a533b#ref=rss)
+### sunak
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-tyre-extinguishers-streiks-in-deutschland-kraftwerksstrategie-der-regierung](https://www.spiegel.de/politik/deutschland/news-des-tages-tyre-extinguishers-streiks-in-deutschland-kraftwerksstrategie-der-regierung-a-7181c61f-bb21-40d5-b797-19e756104dfa#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kraftwerksstrategie-das-sind-die-ersten-reaktionen](https://www.spiegel.de/wirtschaft/kraftwerksstrategie-das-sind-die-ersten-reaktionen-a-1d710736-91ae-4d37-923e-40e040546165#ref=rss)
-### regierung
+* [https://www.spiegel.de/panorama/leute/koenig-charles-iii-krebs-laut-rishi-sunak-frueh-erkannt](https://www.spiegel.de/panorama/leute/koenig-charles-iii-krebs-laut-rishi-sunak-frueh-erkannt-a-27ac8357-9df3-413e-96c0-940c3a8a533b#ref=rss)
+### dazu
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-tyre-extinguishers-streiks-in-deutschland-kraftwerksstrategie-der-regierung](https://www.spiegel.de/politik/deutschland/news-des-tages-tyre-extinguishers-streiks-in-deutschland-kraftwerksstrategie-der-regierung-a-7181c61f-bb21-40d5-b797-19e756104dfa#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/energiewende-das-bringt-die-kraftwerkstrategie-der-regierung](https://www.spiegel.de/wirtschaft/service/energiewende-das-bringt-die-kraftwerkstrategie-der-regierung-a-07523837-156a-4e62-b6ec-c793af0fe2db#ref=rss)
-### zukunft
+* [https://www.spiegel.de/panorama/leute/koenig-charles-iii-krebs-laut-rishi-sunak-frueh-erkannt](https://www.spiegel.de/panorama/leute/koenig-charles-iii-krebs-laut-rishi-sunak-frueh-erkannt-a-27ac8357-9df3-413e-96c0-940c3a8a533b#ref=rss)
+* [https://www.spiegel.de/panorama/schweden-probleme-mit-gefriergeraeten-am-karolinska-institut-ueber-jahrzehnte-gesammelte-proben-zerstoert](https://www.spiegel.de/panorama/schweden-probleme-mit-gefriergeraeten-am-karolinska-institut-ueber-jahrzehnte-gesammelte-proben-zerstoert-a-01ac0dad-3991-49b8-a9e3-68fb832f3a10#ref=rss)
+### oft
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-tyre-extinguishers-streiks-in-deutschland-kraftwerksstrategie-der-regierung](https://www.spiegel.de/politik/deutschland/news-des-tages-tyre-extinguishers-streiks-in-deutschland-kraftwerksstrategie-der-regierung-a-7181c61f-bb21-40d5-b797-19e756104dfa#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kraftwerksstrategie-das-sind-die-ersten-reaktionen](https://www.spiegel.de/wirtschaft/kraftwerksstrategie-das-sind-die-ersten-reaktionen-a-1d710736-91ae-4d37-923e-40e040546165#ref=rss)
-### drei
+* [https://www.spiegel.de/wissenschaft/delfine-warum-sie-so-oft-als-koeder-fuer-fischerei-enden](https://www.spiegel.de/wissenschaft/delfine-warum-sie-so-oft-als-koeder-fuer-fischerei-enden-a-f9249131-0d70-45da-a947-33228cbab53e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kassenbetrug-wie-gastwirte-bei-der-steuer-tricksen-und-warum-der-staat-zu-wenig-kontrolliert](https://www.spiegel.de/wirtschaft/kassenbetrug-wie-gastwirte-bei-der-steuer-tricksen-und-warum-der-staat-zu-wenig-kontrolliert-a-6fc8b244-7665-4024-87a2-04dca5478462#ref=rss)
+### köder
 
-* [https://www.spiegel.de/wissenschaft/drei-streifen-machen-clownfische-aggressiv](https://www.spiegel.de/wissenschaft/drei-streifen-machen-clownfische-aggressiv-a-b15ae871-8998-41c2-9134-4a4279df5424#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/catania-auf-sizilien-festnahmen-nach-mutmasslicher-gruppenvergewaltigung-einer-13-jaehrigen](https://www.spiegel.de/panorama/justiz/catania-auf-sizilien-festnahmen-nach-mutmasslicher-gruppenvergewaltigung-einer-13-jaehrigen-a-129bab05-fd18-47bb-a121-3cae1162cc0e#ref=rss)
-### clownfische
+* [https://www.spiegel.de/wissenschaft/delfine-warum-sie-so-oft-als-koeder-fuer-fischerei-enden](https://www.spiegel.de/wissenschaft/delfine-warum-sie-so-oft-als-koeder-fuer-fischerei-enden-a-f9249131-0d70-45da-a947-33228cbab53e#ref=rss)
+### arbeitnehmer
 
-* [https://www.spiegel.de/wissenschaft/drei-streifen-machen-clownfische-aggressiv](https://www.spiegel.de/wissenschaft/drei-streifen-machen-clownfische-aggressiv-a-b15ae871-8998-41c2-9134-4a4279df5424#ref=rss)
-### aggressiv
+* [https://www.spiegel.de/karriere/trotz-des-schaltjahrs-muessen-arbeitnehmer-2024-weniger-arbeiten](https://www.spiegel.de/karriere/trotz-des-schaltjahrs-muessen-arbeitnehmer-2024-weniger-arbeiten-a-9abc3136-9879-49ab-aa04-4c653d6f3816#ref=rss)
+### eigentlich
 
-* [https://www.spiegel.de/wissenschaft/drei-streifen-machen-clownfische-aggressiv](https://www.spiegel.de/wissenschaft/drei-streifen-machen-clownfische-aggressiv-a-b15ae871-8998-41c2-9134-4a4279df5424#ref=rss)
-### london
-
-* [https://www.spiegel.de/panorama/justiz/tod-auf-klassenfahrt-in-london-landgericht-moenchengladbach-erwaegt-verurteilung-zweier-lehrerinnen](https://www.spiegel.de/panorama/justiz/tod-auf-klassenfahrt-in-london-landgericht-moenchengladbach-erwaegt-verurteilung-zweier-lehrerinnen-a-02f2eb8c-b0c8-4b68-8312-b546e3ec7b93#ref=rss)
-### mönchengladbach
-
-* [https://www.spiegel.de/panorama/justiz/tod-auf-klassenfahrt-in-london-landgericht-moenchengladbach-erwaegt-verurteilung-zweier-lehrerinnen](https://www.spiegel.de/panorama/justiz/tod-auf-klassenfahrt-in-london-landgericht-moenchengladbach-erwaegt-verurteilung-zweier-lehrerinnen-a-02f2eb8c-b0c8-4b68-8312-b546e3ec7b93#ref=rss)
-### lehrerinnen
-
-* [https://www.spiegel.de/panorama/justiz/tod-auf-klassenfahrt-in-london-landgericht-moenchengladbach-erwaegt-verurteilung-zweier-lehrerinnen](https://www.spiegel.de/panorama/justiz/tod-auf-klassenfahrt-in-london-landgericht-moenchengladbach-erwaegt-verurteilung-zweier-lehrerinnen-a-02f2eb8c-b0c8-4b68-8312-b546e3ec7b93#ref=rss)
-### prozess
-
-* [https://www.spiegel.de/panorama/justiz/tod-auf-klassenfahrt-in-london-landgericht-moenchengladbach-erwaegt-verurteilung-zweier-lehrerinnen](https://www.spiegel.de/panorama/justiz/tod-auf-klassenfahrt-in-london-landgericht-moenchengladbach-erwaegt-verurteilung-zweier-lehrerinnen-a-02f2eb8c-b0c8-4b68-8312-b546e3ec7b93#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/arafat-abou-chaker-ex-manager-von-bushido-von-hauptvorwuerfen-freigesprochen](https://www.spiegel.de/panorama/justiz/arafat-abou-chaker-ex-manager-von-bushido-von-hauptvorwuerfen-freigesprochen-a-4040d8dd-3b5a-4535-834e-9b727fea15d1#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/panorama/justiz/tod-auf-klassenfahrt-in-london-landgericht-moenchengladbach-erwaegt-verurteilung-zweier-lehrerinnen](https://www.spiegel.de/panorama/justiz/tod-auf-klassenfahrt-in-london-landgericht-moenchengladbach-erwaegt-verurteilung-zweier-lehrerinnen-a-02f2eb8c-b0c8-4b68-8312-b546e3ec7b93#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-vitali-klitschko-verteidigt-armeechef-walerij-saluschny](https://www.spiegel.de/ausland/ukraine-vitali-klitschko-verteidigt-armeechef-walerij-saluschny-a-6ebb5ea7-d296-4b1b-9e35-66cdadbdd1da#ref=rss)
-### tötung
-
-* [https://www.spiegel.de/panorama/justiz/tod-auf-klassenfahrt-in-london-landgericht-moenchengladbach-erwaegt-verurteilung-zweier-lehrerinnen](https://www.spiegel.de/panorama/justiz/tod-auf-klassenfahrt-in-london-landgericht-moenchengladbach-erwaegt-verurteilung-zweier-lehrerinnen-a-02f2eb8c-b0c8-4b68-8312-b546e3ec7b93#ref=rss)
-* [https://www.spiegel.de/ausland/russland-meldet-toetung-von-kremltreuem-minister-in-der-ostukraine](https://www.spiegel.de/ausland/russland-meldet-toetung-von-kremltreuem-minister-in-der-ostukraine-a-cecad4a6-7683-4518-af50-0013b6b6bdb7#ref=rss)
-### angriff
-
-* [https://www.spiegel.de/panorama/justiz/berlin-was-ueber-den-angriff-auf-lahav-shapira-bruder-des-satirikers-shahak-shapira-bekannt-ist](https://www.spiegel.de/panorama/justiz/berlin-was-ueber-den-angriff-auf-lahav-shapira-bruder-des-satirikers-shahak-shapira-bekannt-ist-a-b81977e5-81bb-4295-b995-e989a57f7b14#ref=rss)
-* [https://www.spiegel.de/ausland/russland-meldet-toetung-von-kremltreuem-minister-in-der-ostukraine](https://www.spiegel.de/ausland/russland-meldet-toetung-von-kremltreuem-minister-in-der-ostukraine-a-cecad4a6-7683-4518-af50-0013b6b6bdb7#ref=rss)
-### lahav
-
-* [https://www.spiegel.de/panorama/justiz/berlin-was-ueber-den-angriff-auf-lahav-shapira-bruder-des-satirikers-shahak-shapira-bekannt-ist](https://www.spiegel.de/panorama/justiz/berlin-was-ueber-den-angriff-auf-lahav-shapira-bruder-des-satirikers-shahak-shapira-bekannt-ist-a-b81977e5-81bb-4295-b995-e989a57f7b14#ref=rss)
-### bruder
-
-* [https://www.spiegel.de/panorama/justiz/berlin-was-ueber-den-angriff-auf-lahav-shapira-bruder-des-satirikers-shahak-shapira-bekannt-ist](https://www.spiegel.de/panorama/justiz/berlin-was-ueber-den-angriff-auf-lahav-shapira-bruder-des-satirikers-shahak-shapira-bekannt-ist-a-b81977e5-81bb-4295-b995-e989a57f7b14#ref=rss)
-### satirikers
-
-* [https://www.spiegel.de/panorama/justiz/berlin-was-ueber-den-angriff-auf-lahav-shapira-bruder-des-satirikers-shahak-shapira-bekannt-ist](https://www.spiegel.de/panorama/justiz/berlin-was-ueber-den-angriff-auf-lahav-shapira-bruder-des-satirikers-shahak-shapira-bekannt-ist-a-b81977e5-81bb-4295-b995-e989a57f7b14#ref=rss)
-### shahak
-
-* [https://www.spiegel.de/panorama/justiz/berlin-was-ueber-den-angriff-auf-lahav-shapira-bruder-des-satirikers-shahak-shapira-bekannt-ist](https://www.spiegel.de/panorama/justiz/berlin-was-ueber-den-angriff-auf-lahav-shapira-bruder-des-satirikers-shahak-shapira-bekannt-ist-a-b81977e5-81bb-4295-b995-e989a57f7b14#ref=rss)
-### brandbrief
-
-* [https://www.spiegel.de/politik/deutschland/deutsche-bahn-nach-brandbrief-an-chef-richard-lutz-kahlschlag-erschuettert-spd](https://www.spiegel.de/politik/deutschland/deutsche-bahn-nach-brandbrief-an-chef-richard-lutz-kahlschlag-erschuettert-spd-a-be8758ee-63fe-499a-a48b-5236453520a0#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/deutsche-bahn-nach-brandbrief-an-chef-richard-lutz-kahlschlag-erschuettert-spd](https://www.spiegel.de/politik/deutschland/deutsche-bahn-nach-brandbrief-an-chef-richard-lutz-kahlschlag-erschuettert-spd-a-be8758ee-63fe-499a-a48b-5236453520a0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/christian-lindners-plan-zur-soli-abschaffung-trifft-auf-gegenwind-in-der-ampelkoalition](https://www.spiegel.de/wirtschaft/christian-lindners-plan-zur-soli-abschaffung-trifft-auf-gegenwind-in-der-ampelkoalition-a-40bfc3d8-d5a8-4367-bad3-a7d2506d4342#ref=rss)
-### bedroht
-
-* [https://www.spiegel.de/politik/deutschland/deutsche-bahn-nach-brandbrief-an-chef-richard-lutz-kahlschlag-erschuettert-spd](https://www.spiegel.de/politik/deutschland/deutsche-bahn-nach-brandbrief-an-chef-richard-lutz-kahlschlag-erschuettert-spd-a-be8758ee-63fe-499a-a48b-5236453520a0#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mallorca-bakterium-bedroht-moeglicherweise-olivenbaeume](https://www.spiegel.de/wissenschaft/mallorca-bakterium-bedroht-moeglicherweise-olivenbaeume-a-aac708ea-e4c5-4db5-b5ef-abe7076d8206#ref=rss)
-### miele
-
-* [https://www.spiegel.de/wirtschaft/miele-streicht-wohl-weltweit-2000-stellen](https://www.spiegel.de/wirtschaft/miele-streicht-wohl-weltweit-2000-stellen-a-d3055ef1-c805-49a0-9f42-8b58f5fed9d3#ref=rss)
-### stellen
-
-* [https://www.spiegel.de/wirtschaft/miele-streicht-wohl-weltweit-2000-stellen](https://www.spiegel.de/wirtschaft/miele-streicht-wohl-weltweit-2000-stellen-a-d3055ef1-c805-49a0-9f42-8b58f5fed9d3#ref=rss)
+* [https://www.spiegel.de/karriere/trotz-des-schaltjahrs-muessen-arbeitnehmer-2024-weniger-arbeiten](https://www.spiegel.de/karriere/trotz-des-schaltjahrs-muessen-arbeitnehmer-2024-weniger-arbeiten-a-9abc3136-9879-49ab-aa04-4c653d6f3816#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kassenbetrug-wie-gastwirte-bei-der-steuer-tricksen-und-warum-der-staat-zu-wenig-kontrolliert](https://www.spiegel.de/wirtschaft/kassenbetrug-wie-gastwirte-bei-der-steuer-tricksen-und-warum-der-staat-zu-wenig-kontrolliert-a-6fc8b244-7665-4024-87a2-04dca5478462#ref=rss)
 ### jahr
 
-* [https://www.spiegel.de/wirtschaft/miele-streicht-wohl-weltweit-2000-stellen](https://www.spiegel.de/wirtschaft/miele-streicht-wohl-weltweit-2000-stellen-a-d3055ef1-c805-49a0-9f42-8b58f5fed9d3#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/digitalisierung-an-schulen-deutschland-loest-sich-nur-langsam-aus-der-kreidezeit](https://www.spiegel.de/panorama/bildung/digitalisierung-an-schulen-deutschland-loest-sich-nur-langsam-aus-der-kreidezeit-a-252dfdf5-b1d2-49b3-9f56-8313ee158a65#ref=rss)
-### plan
+* [https://www.spiegel.de/karriere/trotz-des-schaltjahrs-muessen-arbeitnehmer-2024-weniger-arbeiten](https://www.spiegel.de/karriere/trotz-des-schaltjahrs-muessen-arbeitnehmer-2024-weniger-arbeiten-a-9abc3136-9879-49ab-aa04-4c653d6f3816#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ubs-verbucht-riesigen-jahresgewinn-wegen-credit-suisse-uebernahme](https://www.spiegel.de/wirtschaft/ubs-verbucht-riesigen-jahresgewinn-wegen-credit-suisse-uebernahme-a-bf1fe2df-c01d-41d0-84d7-94889e57ad4e#ref=rss)
+### allerdings
 
-* [https://www.spiegel.de/wirtschaft/christian-lindners-plan-zur-soli-abschaffung-trifft-auf-gegenwind-in-der-ampelkoalition](https://www.spiegel.de/wirtschaft/christian-lindners-plan-zur-soli-abschaffung-trifft-auf-gegenwind-in-der-ampelkoalition-a-40bfc3d8-d5a8-4367-bad3-a7d2506d4342#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kraftwerksstrategie-das-sind-die-ersten-reaktionen](https://www.spiegel.de/wirtschaft/kraftwerksstrategie-das-sind-die-ersten-reaktionen-a-1d710736-91ae-4d37-923e-40e040546165#ref=rss)
+* [https://www.spiegel.de/karriere/trotz-des-schaltjahrs-muessen-arbeitnehmer-2024-weniger-arbeiten](https://www.spiegel.de/karriere/trotz-des-schaltjahrs-muessen-arbeitnehmer-2024-weniger-arbeiten-a-9abc3136-9879-49ab-aa04-4c653d6f3816#ref=rss)
+* [https://www.spiegel.de/wirtschaft/industrie-verzeichnet-im-dezember-groessten-auftragszuwachs-seit-jahren](https://www.spiegel.de/wirtschaft/industrie-verzeichnet-im-dezember-groessten-auftragszuwachs-seit-jahren-a-e911334d-e141-4b7e-8711-0525fde46642#ref=rss)
+### hamburg
+
+* [https://www.spiegel.de/panorama/hamburg-binnenschiff-im-blumensandhafen-gesunken](https://www.spiegel.de/panorama/hamburg-binnenschiff-im-blumensandhafen-gesunken-a-99b57a05-625d-42e9-8b8e-96e3a5325d46#ref=rss)
+### blumensandhafen
+
+* [https://www.spiegel.de/panorama/hamburg-binnenschiff-im-blumensandhafen-gesunken](https://www.spiegel.de/panorama/hamburg-binnenschiff-im-blumensandhafen-gesunken-a-99b57a05-625d-42e9-8b8e-96e3a5325d46#ref=rss)
+### kassenbetrug
+
+* [https://www.spiegel.de/wirtschaft/kassenbetrug-wie-gastwirte-bei-der-steuer-tricksen-und-warum-der-staat-zu-wenig-kontrolliert](https://www.spiegel.de/wirtschaft/kassenbetrug-wie-gastwirte-bei-der-steuer-tricksen-und-warum-der-staat-zu-wenig-kontrolliert-a-6fc8b244-7665-4024-87a2-04dca5478462#ref=rss)
+### steuer
+
+* [https://www.spiegel.de/wirtschaft/kassenbetrug-wie-gastwirte-bei-der-steuer-tricksen-und-warum-der-staat-zu-wenig-kontrolliert](https://www.spiegel.de/wirtschaft/kassenbetrug-wie-gastwirte-bei-der-steuer-tricksen-und-warum-der-staat-zu-wenig-kontrolliert-a-6fc8b244-7665-4024-87a2-04dca5478462#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/us-verkehrsminister-beunruhigt-ueber-virale-videos-mit-der-vision-pro](https://www.spiegel.de/netzwelt/gadgets/us-verkehrsminister-beunruhigt-ueber-virale-videos-mit-der-vision-pro-a-2a6b9c87-1787-45bc-99bf-4915d0440ce4#ref=rss)
+### wenig
+
+* [https://www.spiegel.de/wirtschaft/kassenbetrug-wie-gastwirte-bei-der-steuer-tricksen-und-warum-der-staat-zu-wenig-kontrolliert](https://www.spiegel.de/wirtschaft/kassenbetrug-wie-gastwirte-bei-der-steuer-tricksen-und-warum-der-staat-zu-wenig-kontrolliert-a-6fc8b244-7665-4024-87a2-04dca5478462#ref=rss)
+* [https://www.spiegel.de/reise/warum-wir-auf-reisen-nur-noch-wenig-entdecken-das-ende-der-geheimtipps](https://www.spiegel.de/reise/warum-wir-auf-reisen-nur-noch-wenig-entdecken-das-ende-der-geheimtipps-a-0d53b0c7-4530-4a1d-8cc6-0ef579d571fa#ref=rss)
+### kontrolliert
+
+* [https://www.spiegel.de/wirtschaft/kassenbetrug-wie-gastwirte-bei-der-steuer-tricksen-und-warum-der-staat-zu-wenig-kontrolliert](https://www.spiegel.de/wirtschaft/kassenbetrug-wie-gastwirte-bei-der-steuer-tricksen-und-warum-der-staat-zu-wenig-kontrolliert-a-6fc8b244-7665-4024-87a2-04dca5478462#ref=rss)
+* [https://www.spiegel.de/ausland/von-russland-besetztes-akw-ukrainische-mitarbeiter-ausgesperrt](https://www.spiegel.de/ausland/von-russland-besetztes-akw-ukrainische-mitarbeiter-ausgesperrt-a-d65bba43-4f70-4c27-9924-8239011387f4#ref=rss)
+### sollte
+
+* [https://www.spiegel.de/wirtschaft/kassenbetrug-wie-gastwirte-bei-der-steuer-tricksen-und-warum-der-staat-zu-wenig-kontrolliert](https://www.spiegel.de/wirtschaft/kassenbetrug-wie-gastwirte-bei-der-steuer-tricksen-und-warum-der-staat-zu-wenig-kontrolliert-a-6fc8b244-7665-4024-87a2-04dca5478462#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/private-pflegeversicherung-welche-varianten-gibt-es-worauf-achten](https://www.spiegel.de/wirtschaft/service/private-pflegeversicherung-welche-varianten-gibt-es-worauf-achten-a-f08aefd0-4b6c-45f2-b32c-ddc81f350927#ref=rss)
+### milliarden
+
+* [https://www.spiegel.de/wirtschaft/kassenbetrug-wie-gastwirte-bei-der-steuer-tricksen-und-warum-der-staat-zu-wenig-kontrolliert](https://www.spiegel.de/wirtschaft/kassenbetrug-wie-gastwirte-bei-der-steuer-tricksen-und-warum-der-staat-zu-wenig-kontrolliert-a-6fc8b244-7665-4024-87a2-04dca5478462#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ubs-verbucht-riesigen-jahresgewinn-wegen-credit-suisse-uebernahme](https://www.spiegel.de/wirtschaft/ubs-verbucht-riesigen-jahresgewinn-wegen-credit-suisse-uebernahme-a-bf1fe2df-c01d-41d0-84d7-94889e57ad4e#ref=rss)
+### ukrainische
+
+* [https://www.spiegel.de/ausland/von-russland-besetztes-akw-ukrainische-mitarbeiter-ausgesperrt](https://www.spiegel.de/ausland/von-russland-besetztes-akw-ukrainische-mitarbeiter-ausgesperrt-a-d65bba43-4f70-4c27-9924-8239011387f4#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-geheimdienstvertreter-wegen-ausspaehens-von-journalisten-gefeuert](https://www.spiegel.de/ausland/ukraine-geheimdienstvertreter-wegen-ausspaehens-von-journalisten-gefeuert-a-d333fb65-02f7-41ea-8ca8-34620d1d420e#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/ausland/von-russland-besetztes-akw-ukrainische-mitarbeiter-ausgesperrt](https://www.spiegel.de/ausland/von-russland-besetztes-akw-ukrainische-mitarbeiter-ausgesperrt-a-d65bba43-4f70-4c27-9924-8239011387f4#ref=rss)
+* [https://www.spiegel.de/ausland/rotes-meer-huthis-attackieren-erneut-frachter-im-roten-meer](https://www.spiegel.de/ausland/rotes-meer-huthis-attackieren-erneut-frachter-im-roten-meer-a-da72326a-3519-49d6-b4d6-ccc356096978#ref=rss)
+### russische
+
+* [https://www.spiegel.de/ausland/von-russland-besetztes-akw-ukrainische-mitarbeiter-ausgesperrt](https://www.spiegel.de/ausland/von-russland-besetztes-akw-ukrainische-mitarbeiter-ausgesperrt-a-d65bba43-4f70-4c27-9924-8239011387f4#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-wirtschaft-staerken-eu-plant-neue-russland-sanktionen](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-wirtschaft-staerken-eu-plant-neue-russland-sanktionen-a-2b47018d-d673-411f-ae7d-257ad962f82b#ref=rss)
+### warnt
+
+* [https://www.spiegel.de/ausland/von-russland-besetztes-akw-ukrainische-mitarbeiter-ausgesperrt](https://www.spiegel.de/ausland/von-russland-besetztes-akw-ukrainische-mitarbeiter-ausgesperrt-a-d65bba43-4f70-4c27-9924-8239011387f4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lufthansa-raet-fuer-mittwoch-dringend-vom-besuch-am-flughafen-schalter-ab](https://www.spiegel.de/wirtschaft/lufthansa-raet-fuer-mittwoch-dringend-vom-besuch-am-flughafen-schalter-ab-a-7f94efdb-8ae9-4cc3-bc39-d0509487f433#ref=rss)
+### gäbe
+
+* [https://www.spiegel.de/wirtschaft/unternehmenssteuerreform-folgenloses-geschwaetz-dabei-gaebe-es-eine-loesung](https://www.spiegel.de/wirtschaft/unternehmenssteuerreform-folgenloses-geschwaetz-dabei-gaebe-es-eine-loesung-a-1c7d115b-8cf3-4531-b373-a4e61df7a494#ref=rss)
+### unternehmen
+
+* [https://www.spiegel.de/wirtschaft/unternehmenssteuerreform-folgenloses-geschwaetz-dabei-gaebe-es-eine-loesung](https://www.spiegel.de/wirtschaft/unternehmenssteuerreform-folgenloses-geschwaetz-dabei-gaebe-es-eine-loesung-a-1c7d115b-8cf3-4531-b373-a4e61df7a494#ref=rss)
+* [https://www.spiegel.de/wirtschaft/solidaritaetszuschlag-steuerzahlerbund-fordert-soli-abschaffung-fuer-alle](https://www.spiegel.de/wirtschaft/solidaritaetszuschlag-steuerzahlerbund-fordert-soli-abschaffung-fuer-alle-a-864eface-a153-440f-a8f1-fdb810a7e847#ref=rss)
+### lufthansa
+
+* [https://www.spiegel.de/wirtschaft/lufthansa-raet-fuer-mittwoch-dringend-vom-besuch-am-flughafen-schalter-ab](https://www.spiegel.de/wirtschaft/lufthansa-raet-fuer-mittwoch-dringend-vom-besuch-am-flughafen-schalter-ab-a-7f94efdb-8ae9-4cc3-bc39-d0509487f433#ref=rss)
+### mittwoch
+
+* [https://www.spiegel.de/wirtschaft/lufthansa-raet-fuer-mittwoch-dringend-vom-besuch-am-flughafen-schalter-ab](https://www.spiegel.de/wirtschaft/lufthansa-raet-fuer-mittwoch-dringend-vom-besuch-am-flughafen-schalter-ab-a-7f94efdb-8ae9-4cc3-bc39-d0509487f433#ref=rss)
+### verfassungsschutz
+
+* [https://www.spiegel.de/politik/deutschland/verfassungsschutz-darf-afd-nachwuchsorganisation-als-gesichert-rechtsextremistisch-einstufen](https://www.spiegel.de/politik/deutschland/verfassungsschutz-darf-afd-nachwuchsorganisation-als-gesichert-rechtsextremistisch-einstufen-a-87f65add-427a-4aa0-bcff-d20f6d68026a#ref=rss)
+### gesichert
+
+* [https://www.spiegel.de/politik/deutschland/verfassungsschutz-darf-afd-nachwuchsorganisation-als-gesichert-rechtsextremistisch-einstufen](https://www.spiegel.de/politik/deutschland/verfassungsschutz-darf-afd-nachwuchsorganisation-als-gesichert-rechtsextremistisch-einstufen-a-87f65add-427a-4aa0-bcff-d20f6d68026a#ref=rss)
+### huthis
+
+* [https://www.spiegel.de/ausland/rotes-meer-huthis-attackieren-erneut-frachter-im-roten-meer](https://www.spiegel.de/ausland/rotes-meer-huthis-attackieren-erneut-frachter-im-roten-meer-a-da72326a-3519-49d6-b4d6-ccc356096978#ref=rss)
+### attackieren
+
+* [https://www.spiegel.de/ausland/rotes-meer-huthis-attackieren-erneut-frachter-im-roten-meer](https://www.spiegel.de/ausland/rotes-meer-huthis-attackieren-erneut-frachter-im-roten-meer-a-da72326a-3519-49d6-b4d6-ccc356096978#ref=rss)
+* [https://www.spiegel.de/ausland/uno-russland-und-china-attackieren-usa-wegen-luftangriffen-im-nahen-osten](https://www.spiegel.de/ausland/uno-russland-und-china-attackieren-usa-wegen-luftangriffen-im-nahen-osten-a-ecd275fc-db98-4223-a814-66349975b227#ref=rss)
+### frachter
+
+* [https://www.spiegel.de/ausland/rotes-meer-huthis-attackieren-erneut-frachter-im-roten-meer](https://www.spiegel.de/ausland/rotes-meer-huthis-attackieren-erneut-frachter-im-roten-meer-a-da72326a-3519-49d6-b4d6-ccc356096978#ref=rss)
+### roten
+
+* [https://www.spiegel.de/ausland/rotes-meer-huthis-attackieren-erneut-frachter-im-roten-meer](https://www.spiegel.de/ausland/rotes-meer-huthis-attackieren-erneut-frachter-im-roten-meer-a-da72326a-3519-49d6-b4d6-ccc356096978#ref=rss)
+### angegriffen
+
+* [https://www.spiegel.de/ausland/rotes-meer-huthis-attackieren-erneut-frachter-im-roten-meer](https://www.spiegel.de/ausland/rotes-meer-huthis-attackieren-erneut-frachter-im-roten-meer-a-da72326a-3519-49d6-b4d6-ccc356096978#ref=rss)
+* [https://www.spiegel.de/ausland/uno-russland-und-china-attackieren-usa-wegen-luftangriffen-im-nahen-osten](https://www.spiegel.de/ausland/uno-russland-und-china-attackieren-usa-wegen-luftangriffen-im-nahen-osten-a-ecd275fc-db98-4223-a814-66349975b227#ref=rss)
+### usverkehrsminister
+
+* [https://www.spiegel.de/netzwelt/gadgets/us-verkehrsminister-beunruhigt-ueber-virale-videos-mit-der-vision-pro](https://www.spiegel.de/netzwelt/gadgets/us-verkehrsminister-beunruhigt-ueber-virale-videos-mit-der-vision-pro-a-2a6b9c87-1787-45bc-99bf-4915d0440ce4#ref=rss)
+### vision
+
+* [https://www.spiegel.de/netzwelt/gadgets/us-verkehrsminister-beunruhigt-ueber-virale-videos-mit-der-vision-pro](https://www.spiegel.de/netzwelt/gadgets/us-verkehrsminister-beunruhigt-ueber-virale-videos-mit-der-vision-pro-a-2a6b9c87-1787-45bc-99bf-4915d0440ce4#ref=rss)
+### pro
+
+* [https://www.spiegel.de/netzwelt/gadgets/us-verkehrsminister-beunruhigt-ueber-virale-videos-mit-der-vision-pro](https://www.spiegel.de/netzwelt/gadgets/us-verkehrsminister-beunruhigt-ueber-virale-videos-mit-der-vision-pro-a-2a6b9c87-1787-45bc-99bf-4915d0440ce4#ref=rss)
+### varianten
+
+* [https://www.spiegel.de/wirtschaft/service/private-pflegeversicherung-welche-varianten-gibt-es-worauf-achten](https://www.spiegel.de/wirtschaft/service/private-pflegeversicherung-welche-varianten-gibt-es-worauf-achten-a-f08aefd0-4b6c-45f2-b32c-ddc81f350927#ref=rss)
+### worauf
+
+* [https://www.spiegel.de/wirtschaft/service/private-pflegeversicherung-welche-varianten-gibt-es-worauf-achten](https://www.spiegel.de/wirtschaft/service/private-pflegeversicherung-welche-varianten-gibt-es-worauf-achten-a-f08aefd0-4b6c-45f2-b32c-ddc81f350927#ref=rss)
+### achten
+
+* [https://www.spiegel.de/wirtschaft/service/private-pflegeversicherung-welche-varianten-gibt-es-worauf-achten](https://www.spiegel.de/wirtschaft/service/private-pflegeversicherung-welche-varianten-gibt-es-worauf-achten-a-f08aefd0-4b6c-45f2-b32c-ddc81f350927#ref=rss)
+### dezember
+
+* [https://www.spiegel.de/wirtschaft/industrie-verzeichnet-im-dezember-groessten-auftragszuwachs-seit-jahren](https://www.spiegel.de/wirtschaft/industrie-verzeichnet-im-dezember-groessten-auftragszuwachs-seit-jahren-a-e911334d-e141-4b7e-8711-0525fde46642#ref=rss)
+### luftangriffen
+
+* [https://www.spiegel.de/ausland/uno-russland-und-china-attackieren-usa-wegen-luftangriffen-im-nahen-osten](https://www.spiegel.de/ausland/uno-russland-und-china-attackieren-usa-wegen-luftangriffen-im-nahen-osten-a-ecd275fc-db98-4223-a814-66349975b227#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/panorama/gesellschaft/berlin-angriff-auf-lahav-shapira-zentralrat-der-juden-fordert-sicheres-umfeld-fuer-juedische-studierende](https://www.spiegel.de/panorama/gesellschaft/berlin-angriff-auf-lahav-shapira-zentralrat-der-juden-fordert-sicheres-umfeld-fuer-juedische-studierende-a-8a3b4586-b67d-4c4c-9e47-6e97a7beb5e4#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/panorama/gesellschaft/berlin-angriff-auf-lahav-shapira-zentralrat-der-juden-fordert-sicheres-umfeld-fuer-juedische-studierende](https://www.spiegel.de/panorama/gesellschaft/berlin-angriff-auf-lahav-shapira-zentralrat-der-juden-fordert-sicheres-umfeld-fuer-juedische-studierende-a-8a3b4586-b67d-4c4c-9e47-6e97a7beb5e4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/solidaritaetszuschlag-steuerzahlerbund-fordert-soli-abschaffung-fuer-alle](https://www.spiegel.de/wirtschaft/solidaritaetszuschlag-steuerzahlerbund-fordert-soli-abschaffung-fuer-alle-a-864eface-a153-440f-a8f1-fdb810a7e847#ref=rss)
+### sicheres
+
+* [https://www.spiegel.de/panorama/gesellschaft/berlin-angriff-auf-lahav-shapira-zentralrat-der-juden-fordert-sicheres-umfeld-fuer-juedische-studierende](https://www.spiegel.de/panorama/gesellschaft/berlin-angriff-auf-lahav-shapira-zentralrat-der-juden-fordert-sicheres-umfeld-fuer-juedische-studierende-a-8a3b4586-b67d-4c4c-9e47-6e97a7beb5e4#ref=rss)
+### umfeld
+
+* [https://www.spiegel.de/panorama/gesellschaft/berlin-angriff-auf-lahav-shapira-zentralrat-der-juden-fordert-sicheres-umfeld-fuer-juedische-studierende](https://www.spiegel.de/panorama/gesellschaft/berlin-angriff-auf-lahav-shapira-zentralrat-der-juden-fordert-sicheres-umfeld-fuer-juedische-studierende-a-8a3b4586-b67d-4c4c-9e47-6e97a7beb5e4#ref=rss)
+### jüdische
+
+* [https://www.spiegel.de/panorama/gesellschaft/berlin-angriff-auf-lahav-shapira-zentralrat-der-juden-fordert-sicheres-umfeld-fuer-juedische-studierende](https://www.spiegel.de/panorama/gesellschaft/berlin-angriff-auf-lahav-shapira-zentralrat-der-juden-fordert-sicheres-umfeld-fuer-juedische-studierende-a-8a3b4586-b67d-4c4c-9e47-6e97a7beb5e4#ref=rss)
+### studierende
+
+* [https://www.spiegel.de/panorama/gesellschaft/berlin-angriff-auf-lahav-shapira-zentralrat-der-juden-fordert-sicheres-umfeld-fuer-juedische-studierende](https://www.spiegel.de/panorama/gesellschaft/berlin-angriff-auf-lahav-shapira-zentralrat-der-juden-fordert-sicheres-umfeld-fuer-juedische-studierende-a-8a3b4586-b67d-4c4c-9e47-6e97a7beb5e4#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/panorama/justiz/nuernberg-mann-stiehlt-offenbar-hund-und-schlaegt-ihn-tot](https://www.spiegel.de/panorama/justiz/nuernberg-mann-stiehlt-offenbar-hund-und-schlaegt-ihn-tot-a-e04091af-6dee-4606-9317-e05ccdc22926#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/catania-auf-sizilien-festnahmen-nach-mutmasslicher-gruppenvergewaltigung-einer-13-jaehrigen](https://www.spiegel.de/panorama/justiz/catania-auf-sizilien-festnahmen-nach-mutmasslicher-gruppenvergewaltigung-einer-13-jaehrigen-a-129bab05-fd18-47bb-a121-3cae1162cc0e#ref=rss)
-### henryk
+* [https://www.spiegel.de/panorama/gesellschaft/berlin-angriff-auf-lahav-shapira-zentralrat-der-juden-fordert-sicheres-umfeld-fuer-juedische-studierende](https://www.spiegel.de/panorama/gesellschaft/berlin-angriff-auf-lahav-shapira-zentralrat-der-juden-fordert-sicheres-umfeld-fuer-juedische-studierende-a-8a3b4586-b67d-4c4c-9e47-6e97a7beb5e4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/klimaziele-eu-kommission-will-co-emissionen-bis-2040-drastisch-senken](https://www.spiegel.de/wirtschaft/klimaziele-eu-kommission-will-co-emissionen-bis-2040-drastisch-senken-a-2109ac64-a14b-4f13-870c-bbc2a3544a99#ref=rss)
+### schiedsrichterinnen
 
-* [https://www.spiegel.de/politik/deutschland/henryk-m-broder-bundesinnenministerium-darf-textpassagen-nicht-veroeffentlichen](https://www.spiegel.de/politik/deutschland/henryk-m-broder-bundesinnenministerium-darf-textpassagen-nicht-veroeffentlichen-a-462c3ded-d6ea-48fb-bd86-b39e9a2447f4#ref=rss)
-### m
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-erneute-kritik-an-schiedsrichterinnen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-erneute-kritik-an-schiedsrichterinnen-a-919850e8-3f13-4918-a418-debbca852194#ref=rss)
+### demokratie
 
-* [https://www.spiegel.de/politik/deutschland/henryk-m-broder-bundesinnenministerium-darf-textpassagen-nicht-veroeffentlichen](https://www.spiegel.de/politik/deutschland/henryk-m-broder-bundesinnenministerium-darf-textpassagen-nicht-veroeffentlichen-a-462c3ded-d6ea-48fb-bd86-b39e9a2447f4#ref=rss)
-### broder
+* [https://www.spiegel.de/politik/deutschland/demokratie-viele-junge-deutsche-misstrauen-regierung-und-parlament](https://www.spiegel.de/politik/deutschland/demokratie-viele-junge-deutsche-misstrauen-regierung-und-parlament-a-9763ad5c-2b63-41f4-8780-d5cda768d895#ref=rss)
+### viele
 
-* [https://www.spiegel.de/politik/deutschland/henryk-m-broder-bundesinnenministerium-darf-textpassagen-nicht-veroeffentlichen](https://www.spiegel.de/politik/deutschland/henryk-m-broder-bundesinnenministerium-darf-textpassagen-nicht-veroeffentlichen-a-462c3ded-d6ea-48fb-bd86-b39e9a2447f4#ref=rss)
-### sah
+* [https://www.spiegel.de/politik/deutschland/demokratie-viele-junge-deutsche-misstrauen-regierung-und-parlament](https://www.spiegel.de/politik/deutschland/demokratie-viele-junge-deutsche-misstrauen-regierung-und-parlament-a-9763ad5c-2b63-41f4-8780-d5cda768d895#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/politik/deutschland/henryk-m-broder-bundesinnenministerium-darf-textpassagen-nicht-veroeffentlichen](https://www.spiegel.de/politik/deutschland/henryk-m-broder-bundesinnenministerium-darf-textpassagen-nicht-veroeffentlichen-a-462c3ded-d6ea-48fb-bd86-b39e9a2447f4#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/arafat-abou-chaker-ex-manager-von-bushido-von-hauptvorwuerfen-freigesprochen](https://www.spiegel.de/panorama/justiz/arafat-abou-chaker-ex-manager-von-bushido-von-hauptvorwuerfen-freigesprochen-a-4040d8dd-3b5a-4535-834e-9b727fea15d1#ref=rss)
-### umbau
+* [https://www.spiegel.de/politik/deutschland/demokratie-viele-junge-deutsche-misstrauen-regierung-und-parlament](https://www.spiegel.de/politik/deutschland/demokratie-viele-junge-deutsche-misstrauen-regierung-und-parlament-a-9763ad5c-2b63-41f4-8780-d5cda768d895#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-fahrgastverbaende-erhoehen-den-druck-auf-die-bahn](https://www.spiegel.de/wirtschaft/deutsche-bahn-fahrgastverbaende-erhoehen-den-druck-auf-die-bahn-a-d5935717-279a-41bc-8b67-d4a035f29f3e#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/wirtschaft/service/energiewende-das-bringt-die-kraftwerkstrategie-der-regierung](https://www.spiegel.de/wirtschaft/service/energiewende-das-bringt-die-kraftwerkstrategie-der-regierung-a-07523837-156a-4e62-b6ec-c793af0fe2db#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-vitali-klitschko-verteidigt-armeechef-walerij-saluschny](https://www.spiegel.de/ausland/ukraine-vitali-klitschko-verteidigt-armeechef-walerij-saluschny-a-6ebb5ea7-d296-4b1b-9e35-66cdadbdd1da#ref=rss)
-### energieversorgung
+* [https://www.spiegel.de/politik/deutschland/demokratie-viele-junge-deutsche-misstrauen-regierung-und-parlament](https://www.spiegel.de/politik/deutschland/demokratie-viele-junge-deutsche-misstrauen-regierung-und-parlament-a-9763ad5c-2b63-41f4-8780-d5cda768d895#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-fahrgastverbaende-erhoehen-den-druck-auf-die-bahn](https://www.spiegel.de/wirtschaft/deutsche-bahn-fahrgastverbaende-erhoehen-den-druck-auf-die-bahn-a-d5935717-279a-41bc-8b67-d4a035f29f3e#ref=rss)
+### sehen
 
-* [https://www.spiegel.de/wirtschaft/service/energiewende-das-bringt-die-kraftwerkstrategie-der-regierung](https://www.spiegel.de/wirtschaft/service/energiewende-das-bringt-die-kraftwerkstrategie-der-regierung-a-07523837-156a-4e62-b6ec-c793af0fe2db#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kraftwerksstrategie-das-sind-die-ersten-reaktionen](https://www.spiegel.de/wirtschaft/kraftwerksstrategie-das-sind-die-ersten-reaktionen-a-1d710736-91ae-4d37-923e-40e040546165#ref=rss)
-### catania
+* [https://www.spiegel.de/politik/deutschland/demokratie-viele-junge-deutsche-misstrauen-regierung-und-parlament](https://www.spiegel.de/politik/deutschland/demokratie-viele-junge-deutsche-misstrauen-regierung-und-parlament-a-9763ad5c-2b63-41f4-8780-d5cda768d895#ref=rss)
+* [https://www.spiegel.de/wirtschaft/klimaziele-eu-kommission-will-co-emissionen-bis-2040-drastisch-senken](https://www.spiegel.de/wirtschaft/klimaziele-eu-kommission-will-co-emissionen-bis-2040-drastisch-senken-a-2109ac64-a14b-4f13-870c-bbc2a3544a99#ref=rss)
+### wir
 
-* [https://www.spiegel.de/panorama/justiz/catania-auf-sizilien-festnahmen-nach-mutmasslicher-gruppenvergewaltigung-einer-13-jaehrigen](https://www.spiegel.de/panorama/justiz/catania-auf-sizilien-festnahmen-nach-mutmasslicher-gruppenvergewaltigung-einer-13-jaehrigen-a-129bab05-fd18-47bb-a121-3cae1162cc0e#ref=rss)
-### kurt
+* [https://www.spiegel.de/reise/warum-wir-auf-reisen-nur-noch-wenig-entdecken-das-ende-der-geheimtipps](https://www.spiegel.de/reise/warum-wir-auf-reisen-nur-noch-wenig-entdecken-das-ende-der-geheimtipps-a-0d53b0c7-4530-4a1d-8cc6-0ef579d571fa#ref=rss)
+### ubs
 
-* [https://www.spiegel.de/sport/fussball/kurt-hamrin-ist-tot-nachruf-auf-die-fussball-ikone-aus-schweden-in-deutschland-wurde-er-gehasst-in-italien-wurde-er-geliebt](https://www.spiegel.de/sport/fussball/kurt-hamrin-ist-tot-nachruf-auf-die-fussball-ikone-aus-schweden-in-deutschland-wurde-er-gehasst-in-italien-wurde-er-geliebt-a-93fef0ce-ddbc-4e0c-a170-efb5abe3813b#ref=rss)
-### hamrin
+* [https://www.spiegel.de/wirtschaft/ubs-verbucht-riesigen-jahresgewinn-wegen-credit-suisse-uebernahme](https://www.spiegel.de/wirtschaft/ubs-verbucht-riesigen-jahresgewinn-wegen-credit-suisse-uebernahme-a-bf1fe2df-c01d-41d0-84d7-94889e57ad4e#ref=rss)
+### journalisten
 
-* [https://www.spiegel.de/sport/fussball/kurt-hamrin-ist-tot-nachruf-auf-die-fussball-ikone-aus-schweden-in-deutschland-wurde-er-gehasst-in-italien-wurde-er-geliebt](https://www.spiegel.de/sport/fussball/kurt-hamrin-ist-tot-nachruf-auf-die-fussball-ikone-aus-schweden-in-deutschland-wurde-er-gehasst-in-italien-wurde-er-geliebt-a-93fef0ce-ddbc-4e0c-a170-efb5abe3813b#ref=rss)
-### schweden
+* [https://www.spiegel.de/ausland/ukraine-geheimdienstvertreter-wegen-ausspaehens-von-journalisten-gefeuert](https://www.spiegel.de/ausland/ukraine-geheimdienstvertreter-wegen-ausspaehens-von-journalisten-gefeuert-a-d333fb65-02f7-41ea-8ca8-34620d1d420e#ref=rss)
+### karolinskainstitut
 
-* [https://www.spiegel.de/sport/fussball/kurt-hamrin-ist-tot-nachruf-auf-die-fussball-ikone-aus-schweden-in-deutschland-wurde-er-gehasst-in-italien-wurde-er-geliebt](https://www.spiegel.de/sport/fussball/kurt-hamrin-ist-tot-nachruf-auf-die-fussball-ikone-aus-schweden-in-deutschland-wurde-er-gehasst-in-italien-wurde-er-geliebt-a-93fef0ce-ddbc-4e0c-a170-efb5abe3813b#ref=rss)
-### italien
+* [https://www.spiegel.de/panorama/schweden-probleme-mit-gefriergeraeten-am-karolinska-institut-ueber-jahrzehnte-gesammelte-proben-zerstoert](https://www.spiegel.de/panorama/schweden-probleme-mit-gefriergeraeten-am-karolinska-institut-ueber-jahrzehnte-gesammelte-proben-zerstoert-a-01ac0dad-3991-49b8-a9e3-68fb832f3a10#ref=rss)
+### steuerzahlerbund
 
-* [https://www.spiegel.de/sport/fussball/kurt-hamrin-ist-tot-nachruf-auf-die-fussball-ikone-aus-schweden-in-deutschland-wurde-er-gehasst-in-italien-wurde-er-geliebt](https://www.spiegel.de/sport/fussball/kurt-hamrin-ist-tot-nachruf-auf-die-fussball-ikone-aus-schweden-in-deutschland-wurde-er-gehasst-in-italien-wurde-er-geliebt-a-93fef0ce-ddbc-4e0c-a170-efb5abe3813b#ref=rss)
-### verantwortungsgemeinschaft
+* [https://www.spiegel.de/wirtschaft/solidaritaetszuschlag-steuerzahlerbund-fordert-soli-abschaffung-fuer-alle](https://www.spiegel.de/wirtschaft/solidaritaetszuschlag-steuerzahlerbund-fordert-soli-abschaffung-fuer-alle-a-864eface-a153-440f-a8f1-fdb810a7e847#ref=rss)
+### alle
 
-* [https://www.spiegel.de/politik/deutschland/eckpunkte-zur-verantwortungsgemeinschaft-kommt-jetzt-die-alternative-zur-ehe](https://www.spiegel.de/politik/deutschland/eckpunkte-zur-verantwortungsgemeinschaft-kommt-jetzt-die-alternative-zur-ehe-a-2f172504-4496-47e3-b727-42c3c5471115#ref=rss)
-### ehe
+* [https://www.spiegel.de/wirtschaft/solidaritaetszuschlag-steuerzahlerbund-fordert-soli-abschaffung-fuer-alle](https://www.spiegel.de/wirtschaft/solidaritaetszuschlag-steuerzahlerbund-fordert-soli-abschaffung-fuer-alle-a-864eface-a153-440f-a8f1-fdb810a7e847#ref=rss)
+### forderung
 
-* [https://www.spiegel.de/politik/deutschland/eckpunkte-zur-verantwortungsgemeinschaft-kommt-jetzt-die-alternative-zur-ehe](https://www.spiegel.de/politik/deutschland/eckpunkte-zur-verantwortungsgemeinschaft-kommt-jetzt-die-alternative-zur-ehe-a-2f172504-4496-47e3-b727-42c3c5471115#ref=rss)
-### australien
+* [https://www.spiegel.de/wirtschaft/solidaritaetszuschlag-steuerzahlerbund-fordert-soli-abschaffung-fuer-alle](https://www.spiegel.de/wirtschaft/solidaritaetszuschlag-steuerzahlerbund-fordert-soli-abschaffung-fuer-alle-a-864eface-a153-440f-a8f1-fdb810a7e847#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-fahrgastverbaende-erhoehen-den-druck-auf-die-bahn](https://www.spiegel.de/wirtschaft/deutsche-bahn-fahrgastverbaende-erhoehen-den-druck-auf-die-bahn-a-d5935717-279a-41bc-8b67-d4a035f29f3e#ref=rss)
+### fahrgastverbände
 
-* [https://www.spiegel.de/ausland/huthi-angriffe-australien-stoppt-schiff-mit-14-000-schafen-auf-weg-nach-israel](https://www.spiegel.de/ausland/huthi-angriffe-australien-stoppt-schiff-mit-14-000-schafen-auf-weg-nach-israel-a-41a22506-c47c-4f36-8f4e-6006b708498c#ref=rss)
-### alarmiert
-
-* [https://www.spiegel.de/ausland/huthi-angriffe-australien-stoppt-schiff-mit-14-000-schafen-auf-weg-nach-israel](https://www.spiegel.de/ausland/huthi-angriffe-australien-stoppt-schiff-mit-14-000-schafen-auf-weg-nach-israel-a-41a22506-c47c-4f36-8f4e-6006b708498c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mallorca-bakterium-bedroht-moeglicherweise-olivenbaeume](https://www.spiegel.de/wissenschaft/mallorca-bakterium-bedroht-moeglicherweise-olivenbaeume-a-aac708ea-e4c5-4db5-b5ef-abe7076d8206#ref=rss)
-### claudia
-
-* [https://www.spiegel.de/kultur/kino/claudia-roth-verteidigt-berlinale-einladung-von-afd-abgeordneten](https://www.spiegel.de/kultur/kino/claudia-roth-verteidigt-berlinale-einladung-von-afd-abgeordneten-a-bcf268dd-fe21-4a66-b66d-b638b334aa35#ref=rss)
-### roth
-
-* [https://www.spiegel.de/kultur/kino/claudia-roth-verteidigt-berlinale-einladung-von-afd-abgeordneten](https://www.spiegel.de/kultur/kino/claudia-roth-verteidigt-berlinale-einladung-von-afd-abgeordneten-a-bcf268dd-fe21-4a66-b66d-b638b334aa35#ref=rss)
-### verteidigt
-
-* [https://www.spiegel.de/kultur/kino/claudia-roth-verteidigt-berlinale-einladung-von-afd-abgeordneten](https://www.spiegel.de/kultur/kino/claudia-roth-verteidigt-berlinale-einladung-von-afd-abgeordneten-a-bcf268dd-fe21-4a66-b66d-b638b334aa35#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-vitali-klitschko-verteidigt-armeechef-walerij-saluschny](https://www.spiegel.de/ausland/ukraine-vitali-klitschko-verteidigt-armeechef-walerij-saluschny-a-6ebb5ea7-d296-4b1b-9e35-66cdadbdd1da#ref=rss)
-### schulen
-
-* [https://www.spiegel.de/panorama/bildung/digitalisierung-an-schulen-deutschland-loest-sich-nur-langsam-aus-der-kreidezeit](https://www.spiegel.de/panorama/bildung/digitalisierung-an-schulen-deutschland-loest-sich-nur-langsam-aus-der-kreidezeit-a-252dfdf5-b1d2-49b3-9f56-8313ee158a65#ref=rss)
-### bildung
-
-* [https://www.spiegel.de/panorama/bildung/digitalisierung-an-schulen-deutschland-loest-sich-nur-langsam-aus-der-kreidezeit](https://www.spiegel.de/panorama/bildung/digitalisierung-an-schulen-deutschland-loest-sich-nur-langsam-aus-der-kreidezeit-a-252dfdf5-b1d2-49b3-9f56-8313ee158a65#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/stuttgarter-landtag-muss-afd-kandidaten-nicht-in-kuratorium-von-landeszentrale-waehlen](https://www.spiegel.de/politik/deutschland/stuttgarter-landtag-muss-afd-kandidaten-nicht-in-kuratorium-von-landeszentrale-waehlen-a-8c1140e0-5cf8-42f9-8f79-aed1c5ee69f3#ref=rss)
-### armeechef
-
-* [https://www.spiegel.de/ausland/ukraine-vitali-klitschko-verteidigt-armeechef-walerij-saluschny](https://www.spiegel.de/ausland/ukraine-vitali-klitschko-verteidigt-armeechef-walerij-saluschny-a-6ebb5ea7-d296-4b1b-9e35-66cdadbdd1da#ref=rss)
-### saluschny
-
-* [https://www.spiegel.de/ausland/ukraine-vitali-klitschko-verteidigt-armeechef-walerij-saluschny](https://www.spiegel.de/ausland/ukraine-vitali-klitschko-verteidigt-armeechef-walerij-saluschny-a-6ebb5ea7-d296-4b1b-9e35-66cdadbdd1da#ref=rss)
-### arafat
-
-* [https://www.spiegel.de/panorama/justiz/arafat-abou-chaker-ex-manager-von-bushido-von-hauptvorwuerfen-freigesprochen](https://www.spiegel.de/panorama/justiz/arafat-abou-chaker-ex-manager-von-bushido-von-hauptvorwuerfen-freigesprochen-a-4040d8dd-3b5a-4535-834e-9b727fea15d1#ref=rss)
-### abouchaker
-
-* [https://www.spiegel.de/panorama/justiz/arafat-abou-chaker-ex-manager-von-bushido-von-hauptvorwuerfen-freigesprochen](https://www.spiegel.de/panorama/justiz/arafat-abou-chaker-ex-manager-von-bushido-von-hauptvorwuerfen-freigesprochen-a-4040d8dd-3b5a-4535-834e-9b727fea15d1#ref=rss)
-### exmanager
-
-* [https://www.spiegel.de/panorama/justiz/arafat-abou-chaker-ex-manager-von-bushido-von-hauptvorwuerfen-freigesprochen](https://www.spiegel.de/panorama/justiz/arafat-abou-chaker-ex-manager-von-bushido-von-hauptvorwuerfen-freigesprochen-a-4040d8dd-3b5a-4535-834e-9b727fea15d1#ref=rss)
-### bushido
-
-* [https://www.spiegel.de/panorama/justiz/arafat-abou-chaker-ex-manager-von-bushido-von-hauptvorwuerfen-freigesprochen](https://www.spiegel.de/panorama/justiz/arafat-abou-chaker-ex-manager-von-bushido-von-hauptvorwuerfen-freigesprochen-a-4040d8dd-3b5a-4535-834e-9b727fea15d1#ref=rss)
-### stuttgarter
-
-* [https://www.spiegel.de/politik/deutschland/stuttgarter-landtag-muss-afd-kandidaten-nicht-in-kuratorium-von-landeszentrale-waehlen](https://www.spiegel.de/politik/deutschland/stuttgarter-landtag-muss-afd-kandidaten-nicht-in-kuratorium-von-landeszentrale-waehlen-a-8c1140e0-5cf8-42f9-8f79-aed1c5ee69f3#ref=rss)
-### landtag
-
-* [https://www.spiegel.de/politik/deutschland/stuttgarter-landtag-muss-afd-kandidaten-nicht-in-kuratorium-von-landeszentrale-waehlen](https://www.spiegel.de/politik/deutschland/stuttgarter-landtag-muss-afd-kandidaten-nicht-in-kuratorium-von-landeszentrale-waehlen-a-8c1140e0-5cf8-42f9-8f79-aed1c5ee69f3#ref=rss)
-### kuratorium
-
-* [https://www.spiegel.de/politik/deutschland/stuttgarter-landtag-muss-afd-kandidaten-nicht-in-kuratorium-von-landeszentrale-waehlen](https://www.spiegel.de/politik/deutschland/stuttgarter-landtag-muss-afd-kandidaten-nicht-in-kuratorium-von-landeszentrale-waehlen-a-8c1140e0-5cf8-42f9-8f79-aed1c5ee69f3#ref=rss)
-### landeszentrale
-
-* [https://www.spiegel.de/politik/deutschland/stuttgarter-landtag-muss-afd-kandidaten-nicht-in-kuratorium-von-landeszentrale-waehlen](https://www.spiegel.de/politik/deutschland/stuttgarter-landtag-muss-afd-kandidaten-nicht-in-kuratorium-von-landeszentrale-waehlen-a-8c1140e0-5cf8-42f9-8f79-aed1c5ee69f3#ref=rss)
-### mallorca
-
-* [https://www.spiegel.de/wissenschaft/mallorca-bakterium-bedroht-moeglicherweise-olivenbaeume](https://www.spiegel.de/wissenschaft/mallorca-bakterium-bedroht-moeglicherweise-olivenbaeume-a-aac708ea-e4c5-4db5-b5ef-abe7076d8206#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-fahrgastverbaende-erhoehen-den-druck-auf-die-bahn](https://www.spiegel.de/wirtschaft/deutsche-bahn-fahrgastverbaende-erhoehen-den-druck-auf-die-bahn-a-d5935717-279a-41bc-8b67-d4a035f29f3e#ref=rss)
 
