@@ -4,329 +4,303 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
+### offenbar
+
+* [https://www.spiegel.de/panorama/italien-baer-in-den-alpen-erschossen-tier-galt-als-gefaehrlich](https://www.spiegel.de/panorama/italien-baer-in-den-alpen-erschossen-tier-galt-als-gefaehrlich-a-97603136-5a36-49d6-bb13-ce0fb008168d#ref=rss)
+* [https://www.spiegel.de/ausland/aserbaidschan-praesident-ilham-alijew-laut-nachwahl-befragung-im-amt-bestaetigt](https://www.spiegel.de/ausland/aserbaidschan-praesident-ilham-alijew-laut-nachwahl-befragung-im-amt-bestaetigt-a-88ec28d2-bd94-4e6d-8742-f7bca61e2aa2#ref=rss)
+* [https://www.spiegel.de/auto/fdp-entscheidung-zu-co-standards-fuer-lkw-und-busse-verschoben](https://www.spiegel.de/auto/fdp-entscheidung-zu-co-standards-fuer-lkw-und-busse-verschoben-a-e20dca7c-e28d-4cfc-bd56-42b363e92fa4#ref=rss)
+* [https://www.spiegel.de/panorama/oregon-us-amerikaner-faelschlich-fuer-tot-erklaert-familie-bekam-urne](https://www.spiegel.de/panorama/oregon-us-amerikaner-faelschlich-fuer-tot-erklaert-familie-bekam-urne-a-734c1b08-6356-4493-b917-72007539877d#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/landkreis-loerrach-daten-von-grundeigentuemern-standen-offen-im-netz](https://www.spiegel.de/netzwelt/web/landkreis-loerrach-daten-von-grundeigentuemern-standen-offen-im-netz-a-a8763d0e-f29a-4f93-bd95-72a66dd8b39a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-angriff-auf-bruder-von-shahak-shapira-debatte-ueber-exmatrikulation-des-mutmasslichen-taeters](https://www.spiegel.de/panorama/justiz/berlin-angriff-auf-bruder-von-shahak-shapira-debatte-ueber-exmatrikulation-des-mutmasslichen-taeters-a-a7b06c20-f242-4e08-85b9-7d9f77624fef#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-letzte-generation-hamas-geiseln-friedrich-merz-und-schwarz-gruen](https://www.spiegel.de/politik/deutschland/news-des-tages-letzte-generation-hamas-geiseln-friedrich-merz-und-schwarz-gruen-a-2f23162e-c028-41c6-9b9e-59dda6af03ad#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-schwarz-gruen-die-versehentliche-debatte](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-schwarz-gruen-die-versehentliche-debatte-a-5c459ed0-4ff8-423e-9744-2981d6e2f039#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-letzte-generation-hamas-geiseln-friedrich-merz-und-schwarz-gruen](https://www.spiegel.de/politik/deutschland/news-des-tages-letzte-generation-hamas-geiseln-friedrich-merz-und-schwarz-gruen-a-2f23162e-c028-41c6-9b9e-59dda6af03ad#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-schwarz-gruen-die-versehentliche-debatte](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-schwarz-gruen-die-versehentliche-debatte-a-5c459ed0-4ff8-423e-9744-2981d6e2f039#ref=rss)
+### italien
+
+* [https://www.spiegel.de/panorama/italien-baer-in-den-alpen-erschossen-tier-galt-als-gefaehrlich](https://www.spiegel.de/panorama/italien-baer-in-den-alpen-erschossen-tier-galt-als-gefaehrlich-a-97603136-5a36-49d6-bb13-ce0fb008168d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/italien-kein-schnee-kein-winter-skiresort-rieti-in-not](https://www.spiegel.de/wissenschaft/natur/italien-kein-schnee-kein-winter-skiresort-rieti-in-not-a-985ac29e-23a9-4dd8-8875-83630076c66a#ref=rss)
+### schwarzgrün
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-letzte-generation-hamas-geiseln-friedrich-merz-und-schwarz-gruen](https://www.spiegel.de/politik/deutschland/news-des-tages-letzte-generation-hamas-geiseln-friedrich-merz-und-schwarz-gruen-a-2f23162e-c028-41c6-9b9e-59dda6af03ad#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-schwarz-gruen-die-versehentliche-debatte](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-schwarz-gruen-die-versehentliche-debatte-a-5c459ed0-4ff8-423e-9744-2981d6e2f039#ref=rss)
+### regeln
+
+* [https://www.spiegel.de/wirtschaft/service/nach-schufa-urteil-kabinett-beschliesst-strengere-regeln-fuer-kreditscoring](https://www.spiegel.de/wirtschaft/service/nach-schufa-urteil-kabinett-beschliesst-strengere-regeln-fuer-kreditscoring-a-381ebfb5-18ec-492d-b691-fb7b15258506#ref=rss)
+* [https://www.spiegel.de/wissenschaft/gentechnik-eu-parlament-spricht-sich-fuer-lockerungen-aus](https://www.spiegel.de/wissenschaft/gentechnik-eu-parlament-spricht-sich-fuer-lockerungen-aus-a-6856bd5e-1235-44d7-b171-baa0305bf43f#ref=rss)
+* [https://www.spiegel.de/sport/ifsc-kletter-weltverband-will-gegen-essstoerungen-vorgehen-bis-hin-zum-startverbot](https://www.spiegel.de/sport/ifsc-kletter-weltverband-will-gegen-essstoerungen-vorgehen-bis-hin-zum-startverbot-a-42bee2a0-e6f0-4416-a4ae-2e7c5243205c#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/panorama/bildung/studieren-in-deutschland-mehr-erstsemester-dank-interessenten-aus-dem-ausland](https://www.spiegel.de/panorama/bildung/studieren-in-deutschland-mehr-erstsemester-dank-interessenten-aus-dem-ausland-a-808ea616-1768-4344-b149-df40f49428b4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/umfrage-deutsche-wollen-klimaschutz-vorreiter-sein-aber-keine-co-abgabe-zahlen](https://www.spiegel.de/wirtschaft/service/umfrage-deutsche-wollen-klimaschutz-vorreiter-sein-aber-keine-co-abgabe-zahlen-a-a0108ec9-ce16-4b44-a119-409f8852e5a3#ref=rss)
-* [https://www.spiegel.de/ausland/vorwahl-in-den-usa-nikki-haley-bekommt-in-nevada-weniger-stimmen-als-keiner-dieser-kandidaten](https://www.spiegel.de/ausland/vorwahl-in-den-usa-nikki-haley-bekommt-in-nevada-weniger-stimmen-als-keiner-dieser-kandidaten-a-79b8ccde-21d2-493d-b0ba-5651fdec545a#ref=rss)
-* [https://www.spiegel.de/start/laenger-haerter-mehr-arbeiten-was-mich-an-der-debatte-ueber-leistungsbereitschaft-stoert](https://www.spiegel.de/start/laenger-haerter-mehr-arbeiten-was-mich-an-der-debatte-ueber-leistungsbereitschaft-stoert-a-784982ba-168a-4b37-b68d-440e867a0542#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/disneyland-in-hongkong-zwoelf-menschen-steckten-in-achterbahn-fest-gerettet](https://www.spiegel.de/panorama/disneyland-in-hongkong-zwoelf-menschen-steckten-in-achterbahn-fest-gerettet-a-aabced89-4bda-4a66-93ce-a4e6030122ea#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-teile-von-kiew-nach-angriff-ohne-strom-selenskyj-bildet-eigene-drohnentruppe](https://www.spiegel.de/ausland/ukraine-teile-von-kiew-nach-angriff-ohne-strom-selenskyj-bildet-eigene-drohnentruppe-a-e4354273-6572-480c-b56a-9d637107fb7b#ref=rss)
-* [https://www.spiegel.de/psychologie/pathologisches-horten-was-macht-einen-menschen-zum-messie](https://www.spiegel.de/psychologie/pathologisches-horten-was-macht-einen-menschen-zum-messie-a-b2aba20c-d37d-477a-9e40-c74212743e25#ref=rss)
-* [https://www.spiegel.de/ausland/vorwahl-in-den-usa-nikki-haley-bekommt-in-nevada-weniger-stimmen-als-keiner-dieser-kandidaten](https://www.spiegel.de/ausland/vorwahl-in-den-usa-nikki-haley-bekommt-in-nevada-weniger-stimmen-als-keiner-dieser-kandidaten-a-79b8ccde-21d2-493d-b0ba-5651fdec545a#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/panorama/bildung/studieren-in-deutschland-mehr-erstsemester-dank-interessenten-aus-dem-ausland](https://www.spiegel.de/panorama/bildung/studieren-in-deutschland-mehr-erstsemester-dank-interessenten-aus-dem-ausland-a-808ea616-1768-4344-b149-df40f49428b4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/umfrage-deutsche-wollen-klimaschutz-vorreiter-sein-aber-keine-co-abgabe-zahlen](https://www.spiegel.de/wirtschaft/service/umfrage-deutsche-wollen-klimaschutz-vorreiter-sein-aber-keine-co-abgabe-zahlen-a-a0108ec9-ce16-4b44-a119-409f8852e5a3#ref=rss)
-* [https://www.spiegel.de/panorama/leute/dieter-bohlen-quiz-haben-sie-das-zeug-zum-pop-titan](https://www.spiegel.de/panorama/leute/dieter-bohlen-quiz-haben-sie-das-zeug-zum-pop-titan-a-a53b548a-ed31-45d5-ad57-8bf913d0024b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-lufthansa-krieg-in-gaza-hamas](https://www.spiegel.de/politik/deutschland/news-donald-trump-lufthansa-krieg-in-gaza-hamas-a-5612e684-1054-49ba-9215-0fa107a52ad0#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/service/umfrage-deutsche-wollen-klimaschutz-vorreiter-sein-aber-keine-co-abgabe-zahlen](https://www.spiegel.de/wirtschaft/service/umfrage-deutsche-wollen-klimaschutz-vorreiter-sein-aber-keine-co-abgabe-zahlen-a-a0108ec9-ce16-4b44-a119-409f8852e5a3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/elektroautos-china-will-seine-hersteller-im-export-unterstuetzen](https://www.spiegel.de/wirtschaft/unternehmen/elektroautos-china-will-seine-hersteller-im-export-unterstuetzen-a-e5d72a1c-b5a3-4b5a-a2e5-865c7aaae501#ref=rss)
-* [https://www.spiegel.de/ausland/schweden-stellt-ermittlungen-zu-nord-stream-explosionen-ein](https://www.spiegel.de/ausland/schweden-stellt-ermittlungen-zu-nord-stream-explosionen-ein-a-cf307548-3031-4f40-af37-2b31979ade12#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-deutsche-industrie-faehrt-ihre-produktion-herunter](https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-deutsche-industrie-faehrt-ihre-produktion-herunter-a-cfa6e9fb-539f-4485-8d57-806829f1964b#ref=rss)
-### laut
-
-* [https://www.spiegel.de/wirtschaft/service/umfrage-deutsche-wollen-klimaschutz-vorreiter-sein-aber-keine-co-abgabe-zahlen](https://www.spiegel.de/wirtschaft/service/umfrage-deutsche-wollen-klimaschutz-vorreiter-sein-aber-keine-co-abgabe-zahlen-a-a0108ec9-ce16-4b44-a119-409f8852e5a3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/obst-und-gemuese-verbraucher-sparen-laut-verband-bei-frischen-lebensmitteln](https://www.spiegel.de/wirtschaft/service/obst-und-gemuese-verbraucher-sparen-laut-verband-bei-frischen-lebensmitteln-a-55f56dd5-6e94-4763-886b-a4be4e9ee019#ref=rss)
-### anschlägen
-
-* [https://www.spiegel.de/ausland/pakistan-mindestens-12-tote-bei-anschlaegen-vor-wahlen](https://www.spiegel.de/ausland/pakistan-mindestens-12-tote-bei-anschlaegen-vor-wahlen-a-97f09dd1-9b3c-4c5c-929b-205424605c32#ref=rss)
-* [https://www.spiegel.de/ausland/schweden-stellt-ermittlungen-zu-nord-stream-explosionen-ein](https://www.spiegel.de/ausland/schweden-stellt-ermittlungen-zu-nord-stream-explosionen-ein-a-cf307548-3031-4f40-af37-2b31979ade12#ref=rss)
-### 2022
-
-* [https://www.spiegel.de/ausland/afd-scheitert-mit-eilantrag-gegen-verfassungsschutzbericht-2022](https://www.spiegel.de/ausland/afd-scheitert-mit-eilantrag-gegen-verfassungsschutzbericht-2022-a-3a496ca8-d1fd-47ce-b19d-d0e9e89ccf9f#ref=rss)
-* [https://www.spiegel.de/ausland/schweden-stellt-ermittlungen-zu-nord-stream-explosionen-ein](https://www.spiegel.de/ausland/schweden-stellt-ermittlungen-zu-nord-stream-explosionen-ein-a-cf307548-3031-4f40-af37-2b31979ade12#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/ausland/afd-scheitert-mit-eilantrag-gegen-verfassungsschutzbericht-2022](https://www.spiegel.de/ausland/afd-scheitert-mit-eilantrag-gegen-verfassungsschutzbericht-2022-a-3a496ca8-d1fd-47ce-b19d-d0e9e89ccf9f#ref=rss)
-* [https://www.spiegel.de/politik/cdu-in-berlin-die-peinliche-hauptstadtpartei](https://www.spiegel.de/politik/cdu-in-berlin-die-peinliche-hauptstadtpartei-a-fb86ac8e-80ff-462f-8b4a-818fb58e4a67#ref=rss)
-### ermittlungen
-
-* [https://www.spiegel.de/ausland/schweden-stellt-ermittlungen-zu-nord-stream-explosionen-ein](https://www.spiegel.de/ausland/schweden-stellt-ermittlungen-zu-nord-stream-explosionen-ein-a-cf307548-3031-4f40-af37-2b31979ade12#ref=rss)
-* [https://www.spiegel.de/ausland/eu-parlament-hebt-immunitaet-der-ehemaligen-vizepraesidentin-kaili-auf](https://www.spiegel.de/ausland/eu-parlament-hebt-immunitaet-der-ehemaligen-vizepraesidentin-kaili-auf-a-a8312b22-8235-4833-98eb-a19b075710f0#ref=rss)
-### parlament
-
-* [https://www.spiegel.de/ausland/eu-parlament-hebt-immunitaet-der-ehemaligen-vizepraesidentin-kaili-auf](https://www.spiegel.de/ausland/eu-parlament-hebt-immunitaet-der-ehemaligen-vizepraesidentin-kaili-auf-a-a8312b22-8235-4833-98eb-a19b075710f0#ref=rss)
-* [https://www.spiegel.de/ausland/argentinien-reformpaket-von-praesident-javier-milei-erleidet-rueckschlag-in-parlament](https://www.spiegel.de/ausland/argentinien-reformpaket-von-praesident-javier-milei-erleidet-rueckschlag-in-parlament-a-b13debbd-9ce6-40d7-9d69-6b53616698e7#ref=rss)
-### vier
-
-* [https://www.spiegel.de/ausland/ukraine-teile-von-kiew-nach-angriff-ohne-strom-selenskyj-bildet-eigene-drohnentruppe](https://www.spiegel.de/ausland/ukraine-teile-von-kiew-nach-angriff-ohne-strom-selenskyj-bildet-eigene-drohnentruppe-a-e4354273-6572-480c-b56a-9d637107fb7b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/michigan-mutter-von-us-todesschuetzen-wegen-fahrlaessiger-toetung-verurteilt](https://www.spiegel.de/panorama/justiz/michigan-mutter-von-us-todesschuetzen-wegen-fahrlaessiger-toetung-verurteilt-a-feee8bc9-0595-45f8-897d-5c9c4eb4a3b5#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/psychologie/pathologisches-horten-was-macht-einen-menschen-zum-messie](https://www.spiegel.de/psychologie/pathologisches-horten-was-macht-einen-menschen-zum-messie-a-b2aba20c-d37d-477a-9e40-c74212743e25#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-wie-ich-als-nachbarin-taeglich-auf-den-verfall-blicke](https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-wie-ich-als-nachbarin-taeglich-auf-den-verfall-blicke-a-0c618c0b-09b8-4e8f-a147-a4ef7ecc2697#ref=rss)
-* [https://www.spiegel.de/panorama/leute/dieter-bohlen-quiz-haben-sie-das-zeug-zum-pop-titan](https://www.spiegel.de/panorama/leute/dieter-bohlen-quiz-haben-sie-das-zeug-zum-pop-titan-a-a53b548a-ed31-45d5-ad57-8bf913d0024b#ref=rss)
-### lufthansa
-
-* [https://www.spiegel.de/wirtschaft/service/warnstreik-bei-lufthansa-sorgt-fuer-hunderte-flugausfaelle](https://www.spiegel.de/wirtschaft/service/warnstreik-bei-lufthansa-sorgt-fuer-hunderte-flugausfaelle-a-cf8da2b0-b3ff-41d9-81a9-8003b11958aa#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-lufthansa-krieg-in-gaza-hamas](https://www.spiegel.de/politik/deutschland/news-donald-trump-lufthansa-krieg-in-gaza-hamas-a-5612e684-1054-49ba-9215-0fa107a52ad0#ref=rss)
-### veckinchusen
-
-* [https://www.spiegel.de/geschichte/hildebrand-veckinchusen-auf-und-abstieg-des-hansekaufmanns](https://www.spiegel.de/geschichte/hildebrand-veckinchusen-auf-und-abstieg-des-hansekaufmanns-a-4882142a-4e8b-4326-a412-6d3a2bd2e080#ref=rss)
-### bohlen
-
-* [https://www.spiegel.de/panorama/leute/dieter-bohlen-quiz-haben-sie-das-zeug-zum-pop-titan](https://www.spiegel.de/panorama/leute/dieter-bohlen-quiz-haben-sie-das-zeug-zum-pop-titan-a-a53b548a-ed31-45d5-ad57-8bf913d0024b#ref=rss)
-### james
-
-* [https://www.spiegel.de/fitness/james-mallinson-mein-guru-pflegte-zu-sagen-hatha-yoga-ist-hard-core](https://www.spiegel.de/fitness/james-mallinson-mein-guru-pflegte-zu-sagen-hatha-yoga-ist-hard-core-a-a2019570-3e77-48af-bd01-e86aa0505087#ref=rss)
-### mallinson
-
-* [https://www.spiegel.de/fitness/james-mallinson-mein-guru-pflegte-zu-sagen-hatha-yoga-ist-hard-core](https://www.spiegel.de/fitness/james-mallinson-mein-guru-pflegte-zu-sagen-hatha-yoga-ist-hard-core-a-a2019570-3e77-48af-bd01-e86aa0505087#ref=rss)
-### yoga
-
-* [https://www.spiegel.de/fitness/james-mallinson-mein-guru-pflegte-zu-sagen-hatha-yoga-ist-hard-core](https://www.spiegel.de/fitness/james-mallinson-mein-guru-pflegte-zu-sagen-hatha-yoga-ist-hard-core-a-a2019570-3e77-48af-bd01-e86aa0505087#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/fitness/james-mallinson-mein-guru-pflegte-zu-sagen-hatha-yoga-ist-hard-core](https://www.spiegel.de/fitness/james-mallinson-mein-guru-pflegte-zu-sagen-hatha-yoga-ist-hard-core-a-a2019570-3e77-48af-bd01-e86aa0505087#ref=rss)
-* [https://www.spiegel.de/psychologie/pathologisches-horten-was-macht-einen-menschen-zum-messie](https://www.spiegel.de/psychologie/pathologisches-horten-was-macht-einen-menschen-zum-messie-a-b2aba20c-d37d-477a-9e40-c74212743e25#ref=rss)
-### gina
-
-* [https://www.spiegel.de/kultur/tv/gina-carano-gefeuerte-star-wars-schauspielerin-verklagt-disney-mit-unterstuetzung-von-elon-musk](https://www.spiegel.de/kultur/tv/gina-carano-gefeuerte-star-wars-schauspielerin-verklagt-disney-mit-unterstuetzung-von-elon-musk-a-9764bc7b-270a-48e2-9ab2-8928591947b7#ref=rss)
-### carano
-
-* [https://www.spiegel.de/kultur/tv/gina-carano-gefeuerte-star-wars-schauspielerin-verklagt-disney-mit-unterstuetzung-von-elon-musk](https://www.spiegel.de/kultur/tv/gina-carano-gefeuerte-star-wars-schauspielerin-verklagt-disney-mit-unterstuetzung-von-elon-musk-a-9764bc7b-270a-48e2-9ab2-8928591947b7#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/kultur/tv/gina-carano-gefeuerte-star-wars-schauspielerin-verklagt-disney-mit-unterstuetzung-von-elon-musk](https://www.spiegel.de/kultur/tv/gina-carano-gefeuerte-star-wars-schauspielerin-verklagt-disney-mit-unterstuetzung-von-elon-musk-a-9764bc7b-270a-48e2-9ab2-8928591947b7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/warnstreik-bei-lufthansa-sorgt-fuer-hunderte-flugausfaelle](https://www.spiegel.de/wirtschaft/service/warnstreik-bei-lufthansa-sorgt-fuer-hunderte-flugausfaelle-a-cf8da2b0-b3ff-41d9-81a9-8003b11958aa#ref=rss)
-### daraufhin
-
-* [https://www.spiegel.de/kultur/tv/gina-carano-gefeuerte-star-wars-schauspielerin-verklagt-disney-mit-unterstuetzung-von-elon-musk](https://www.spiegel.de/kultur/tv/gina-carano-gefeuerte-star-wars-schauspielerin-verklagt-disney-mit-unterstuetzung-von-elon-musk-a-9764bc7b-270a-48e2-9ab2-8928591947b7#ref=rss)
-### hongkong
-
-* [https://www.spiegel.de/panorama/disneyland-in-hongkong-zwoelf-menschen-steckten-in-achterbahn-fest-gerettet](https://www.spiegel.de/panorama/disneyland-in-hongkong-zwoelf-menschen-steckten-in-achterbahn-fest-gerettet-a-aabced89-4bda-4a66-93ce-a4e6030122ea#ref=rss)
-### zwölf
-
-* [https://www.spiegel.de/panorama/disneyland-in-hongkong-zwoelf-menschen-steckten-in-achterbahn-fest-gerettet](https://www.spiegel.de/panorama/disneyland-in-hongkong-zwoelf-menschen-steckten-in-achterbahn-fest-gerettet-a-aabced89-4bda-4a66-93ce-a4e6030122ea#ref=rss)
-### achterbahn
-
-* [https://www.spiegel.de/panorama/disneyland-in-hongkong-zwoelf-menschen-steckten-in-achterbahn-fest-gerettet](https://www.spiegel.de/panorama/disneyland-in-hongkong-zwoelf-menschen-steckten-in-achterbahn-fest-gerettet-a-aabced89-4bda-4a66-93ce-a4e6030122ea#ref=rss)
-### rund
-
-* [https://www.spiegel.de/panorama/disneyland-in-hongkong-zwoelf-menschen-steckten-in-achterbahn-fest-gerettet](https://www.spiegel.de/panorama/disneyland-in-hongkong-zwoelf-menschen-steckten-in-achterbahn-fest-gerettet-a-aabced89-4bda-4a66-93ce-a4e6030122ea#ref=rss)
-* [https://www.spiegel.de/psychologie/pathologisches-horten-was-macht-einen-menschen-zum-messie](https://www.spiegel.de/psychologie/pathologisches-horten-was-macht-einen-menschen-zum-messie-a-b2aba20c-d37d-477a-9e40-c74212743e25#ref=rss)
-### erstmals
-
-* [https://www.spiegel.de/panorama/bildung/studieren-in-deutschland-mehr-erstsemester-dank-interessenten-aus-dem-ausland](https://www.spiegel.de/panorama/bildung/studieren-in-deutschland-mehr-erstsemester-dank-interessenten-aus-dem-ausland-a-808ea616-1768-4344-b149-df40f49428b4#ref=rss)
-* [https://www.spiegel.de/panorama/leute/koenig-charles-iii-nach-krebsdiagnose-prinz-william-macht-dienst-nach-vorschrift-wohl-kein-treffen-mit-harry-geplant](https://www.spiegel.de/panorama/leute/koenig-charles-iii-nach-krebsdiagnose-prinz-william-macht-dienst-nach-vorschrift-wohl-kein-treffen-mit-harry-geplant-a-bb287289-51b7-4e48-9ec8-85432e9a1244#ref=rss)
-### besonders
-
-* [https://www.spiegel.de/panorama/bildung/studieren-in-deutschland-mehr-erstsemester-dank-interessenten-aus-dem-ausland](https://www.spiegel.de/panorama/bildung/studieren-in-deutschland-mehr-erstsemester-dank-interessenten-aus-dem-ausland-a-808ea616-1768-4344-b149-df40f49428b4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-deutsche-industrie-faehrt-ihre-produktion-herunter](https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-deutsche-industrie-faehrt-ihre-produktion-herunter-a-cfa6e9fb-539f-4485-8d57-806829f1964b#ref=rss)
-### viele
-
-* [https://www.spiegel.de/panorama/bildung/studieren-in-deutschland-mehr-erstsemester-dank-interessenten-aus-dem-ausland](https://www.spiegel.de/panorama/bildung/studieren-in-deutschland-mehr-erstsemester-dank-interessenten-aus-dem-ausland-a-808ea616-1768-4344-b149-df40f49428b4#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-teile-von-kiew-nach-angriff-ohne-strom-selenskyj-bildet-eigene-drohnentruppe](https://www.spiegel.de/ausland/ukraine-teile-von-kiew-nach-angriff-ohne-strom-selenskyj-bildet-eigene-drohnentruppe-a-e4354273-6572-480c-b56a-9d637107fb7b#ref=rss)
-### umfrage
-
-* [https://www.spiegel.de/wirtschaft/service/umfrage-deutsche-wollen-klimaschutz-vorreiter-sein-aber-keine-co-abgabe-zahlen](https://www.spiegel.de/wirtschaft/service/umfrage-deutsche-wollen-klimaschutz-vorreiter-sein-aber-keine-co-abgabe-zahlen-a-a0108ec9-ce16-4b44-a119-409f8852e5a3#ref=rss)
-### lehnt
-
-* [https://www.spiegel.de/wirtschaft/service/umfrage-deutsche-wollen-klimaschutz-vorreiter-sein-aber-keine-co-abgabe-zahlen](https://www.spiegel.de/wirtschaft/service/umfrage-deutsche-wollen-klimaschutz-vorreiter-sein-aber-keine-co-abgabe-zahlen-a-a0108ec9-ce16-4b44-a119-409f8852e5a3#ref=rss)
-* [https://www.spiegel.de/ausland/usa-repraesentantenhaus-lehnt-gesetzesvorschlag-der-republikaner-zu-israel-hilfe-ab](https://www.spiegel.de/ausland/usa-repraesentantenhaus-lehnt-gesetzesvorschlag-der-republikaner-zu-israel-hilfe-ab-a-747cacb0-4f1b-495f-9972-5c88f60fdeb9#ref=rss)
-### genau
-
-* [https://www.spiegel.de/wirtschaft/service/umfrage-deutsche-wollen-klimaschutz-vorreiter-sein-aber-keine-co-abgabe-zahlen](https://www.spiegel.de/wirtschaft/service/umfrage-deutsche-wollen-klimaschutz-vorreiter-sein-aber-keine-co-abgabe-zahlen-a-a0108ec9-ce16-4b44-a119-409f8852e5a3#ref=rss)
-* [https://www.spiegel.de/start/laenger-haerter-mehr-arbeiten-was-mich-an-der-debatte-ueber-leistungsbereitschaft-stoert](https://www.spiegel.de/start/laenger-haerter-mehr-arbeiten-was-mich-an-der-debatte-ueber-leistungsbereitschaft-stoert-a-784982ba-168a-4b37-b68d-440e867a0542#ref=rss)
-### ökonomen
-
-* [https://www.spiegel.de/wirtschaft/service/umfrage-deutsche-wollen-klimaschutz-vorreiter-sein-aber-keine-co-abgabe-zahlen](https://www.spiegel.de/wirtschaft/service/umfrage-deutsche-wollen-klimaschutz-vorreiter-sein-aber-keine-co-abgabe-zahlen-a-a0108ec9-ce16-4b44-a119-409f8852e5a3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-deutsche-industrie-faehrt-ihre-produktion-herunter](https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-deutsche-industrie-faehrt-ihre-produktion-herunter-a-cfa6e9fb-539f-4485-8d57-806829f1964b#ref=rss)
-### halten
-
-* [https://www.spiegel.de/wirtschaft/service/umfrage-deutsche-wollen-klimaschutz-vorreiter-sein-aber-keine-co-abgabe-zahlen](https://www.spiegel.de/wirtschaft/service/umfrage-deutsche-wollen-klimaschutz-vorreiter-sein-aber-keine-co-abgabe-zahlen-a-a0108ec9-ce16-4b44-a119-409f8852e5a3#ref=rss)
-* [https://www.spiegel.de/psychologie/pathologisches-horten-was-macht-einen-menschen-zum-messie](https://www.spiegel.de/psychologie/pathologisches-horten-was-macht-einen-menschen-zum-messie-a-b2aba20c-d37d-477a-9e40-c74212743e25#ref=rss)
-### pakistan
-
-* [https://www.spiegel.de/ausland/pakistan-mindestens-12-tote-bei-anschlaegen-vor-wahlen](https://www.spiegel.de/ausland/pakistan-mindestens-12-tote-bei-anschlaegen-vor-wahlen-a-97f09dd1-9b3c-4c5c-929b-205424605c32#ref=rss)
-### mindestens
-
-* [https://www.spiegel.de/ausland/pakistan-mindestens-12-tote-bei-anschlaegen-vor-wahlen](https://www.spiegel.de/ausland/pakistan-mindestens-12-tote-bei-anschlaegen-vor-wahlen-a-97f09dd1-9b3c-4c5c-929b-205424605c32#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-teile-von-kiew-nach-angriff-ohne-strom-selenskyj-bildet-eigene-drohnentruppe](https://www.spiegel.de/ausland/ukraine-teile-von-kiew-nach-angriff-ohne-strom-selenskyj-bildet-eigene-drohnentruppe-a-e4354273-6572-480c-b56a-9d637107fb7b#ref=rss)
-### tote
-
-* [https://www.spiegel.de/ausland/pakistan-mindestens-12-tote-bei-anschlaegen-vor-wahlen](https://www.spiegel.de/ausland/pakistan-mindestens-12-tote-bei-anschlaegen-vor-wahlen-a-97f09dd1-9b3c-4c5c-929b-205424605c32#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-teile-von-kiew-nach-angriff-ohne-strom-selenskyj-bildet-eigene-drohnentruppe](https://www.spiegel.de/ausland/ukraine-teile-von-kiew-nach-angriff-ohne-strom-selenskyj-bildet-eigene-drohnentruppe-a-e4354273-6572-480c-b56a-9d637107fb7b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/nach-schufa-urteil-kabinett-beschliesst-strengere-regeln-fuer-kreditscoring](https://www.spiegel.de/wirtschaft/service/nach-schufa-urteil-kabinett-beschliesst-strengere-regeln-fuer-kreditscoring-a-381ebfb5-18ec-492d-b691-fb7b15258506#ref=rss)
+* [https://www.spiegel.de/politik/elterngeld-reform-weniger-partnerschaftlichkeit-mehr-konkurrenz](https://www.spiegel.de/politik/elterngeld-reform-weniger-partnerschaftlichkeit-mehr-konkurrenz-a-6cbb4fc0-81be-4cc9-8992-7c084a55d87e#ref=rss)
 ### afd
 
-* [https://www.spiegel.de/ausland/afd-scheitert-mit-eilantrag-gegen-verfassungsschutzbericht-2022](https://www.spiegel.de/ausland/afd-scheitert-mit-eilantrag-gegen-verfassungsschutzbericht-2022-a-3a496ca8-d1fd-47ce-b19d-d0e9e89ccf9f#ref=rss)
-### verfassungsschutzbericht
+* [https://www.spiegel.de/politik/deutschland/dithmarschen-streit-um-landratswahl-bricht-im-westen-erstmals-die-brandmauer-zur-afd](https://www.spiegel.de/politik/deutschland/dithmarschen-streit-um-landratswahl-bricht-im-westen-erstmals-die-brandmauer-zur-afd-a-698cae34-c343-4ae6-870c-300c237714f8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-bjoern-hoecke-muss-vor-gericht-anklage-wegen-volksverhetzung](https://www.spiegel.de/politik/deutschland/afd-bjoern-hoecke-muss-vor-gericht-anklage-wegen-volksverhetzung-a-9f63cf32-bbc6-4bda-af12-a953241fafb5#ref=rss)
+### weniger
 
-* [https://www.spiegel.de/ausland/afd-scheitert-mit-eilantrag-gegen-verfassungsschutzbericht-2022](https://www.spiegel.de/ausland/afd-scheitert-mit-eilantrag-gegen-verfassungsschutzbericht-2022-a-3a496ca8-d1fd-47ce-b19d-d0e9e89ccf9f#ref=rss)
-### elektroautos
+* [https://www.spiegel.de/politik/elterngeld-reform-weniger-partnerschaftlichkeit-mehr-konkurrenz](https://www.spiegel.de/politik/elterngeld-reform-weniger-partnerschaftlichkeit-mehr-konkurrenz-a-6cbb4fc0-81be-4cc9-8992-7c084a55d87e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/gentechnik-eu-parlament-spricht-sich-fuer-lockerungen-aus](https://www.spiegel.de/wissenschaft/gentechnik-eu-parlament-spricht-sich-fuer-lockerungen-aus-a-6856bd5e-1235-44d7-b171-baa0305bf43f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ifw-kiel-wegen-der-angriffe-im-roten-meer-kommen-weniger-schiffe-in-hamburg-an](https://www.spiegel.de/wirtschaft/unternehmen/ifw-kiel-wegen-der-angriffe-im-roten-meer-kommen-weniger-schiffe-in-hamburg-an-a-980642e7-9758-4272-91e4-9b0b1a0e9a72#ref=rss)
+### tot
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/elektroautos-china-will-seine-hersteller-im-export-unterstuetzen](https://www.spiegel.de/wirtschaft/unternehmen/elektroautos-china-will-seine-hersteller-im-export-unterstuetzen-a-e5d72a1c-b5a3-4b5a-a2e5-865c7aaae501#ref=rss)
-### hersteller
+* [https://www.spiegel.de/panorama/oregon-us-amerikaner-faelschlich-fuer-tot-erklaert-familie-bekam-urne](https://www.spiegel.de/panorama/oregon-us-amerikaner-faelschlich-fuer-tot-erklaert-familie-bekam-urne-a-734c1b08-6356-4493-b917-72007539877d#ref=rss)
+* [https://www.spiegel.de/kultur/andreas-herzau-ist-tot-er-begleitete-kanzlerin-angela-merkel-als-kanzlerin](https://www.spiegel.de/kultur/andreas-herzau-ist-tot-er-begleitete-kanzlerin-angela-merkel-als-kanzlerin-a-ef9aa4f1-da17-42e7-9eff-7971265e056e#ref=rss)
+### kanzlerin
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/elektroautos-china-will-seine-hersteller-im-export-unterstuetzen](https://www.spiegel.de/wirtschaft/unternehmen/elektroautos-china-will-seine-hersteller-im-export-unterstuetzen-a-e5d72a1c-b5a3-4b5a-a2e5-865c7aaae501#ref=rss)
-### unterstützen
+* [https://www.spiegel.de/kultur/andreas-herzau-ist-tot-er-begleitete-kanzlerin-angela-merkel-als-kanzlerin](https://www.spiegel.de/kultur/andreas-herzau-ist-tot-er-begleitete-kanzlerin-angela-merkel-als-kanzlerin-a-ef9aa4f1-da17-42e7-9eff-7971265e056e#ref=rss)
+### bär
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/elektroautos-china-will-seine-hersteller-im-export-unterstuetzen](https://www.spiegel.de/wirtschaft/unternehmen/elektroautos-china-will-seine-hersteller-im-export-unterstuetzen-a-e5d72a1c-b5a3-4b5a-a2e5-865c7aaae501#ref=rss)
-### schweden
+* [https://www.spiegel.de/panorama/italien-baer-in-den-alpen-erschossen-tier-galt-als-gefaehrlich](https://www.spiegel.de/panorama/italien-baer-in-den-alpen-erschossen-tier-galt-als-gefaehrlich-a-97603136-5a36-49d6-bb13-ce0fb008168d#ref=rss)
+### galt
 
-* [https://www.spiegel.de/ausland/schweden-stellt-ermittlungen-zu-nord-stream-explosionen-ein](https://www.spiegel.de/ausland/schweden-stellt-ermittlungen-zu-nord-stream-explosionen-ein-a-cf307548-3031-4f40-af37-2b31979ade12#ref=rss)
-### könig
+* [https://www.spiegel.de/panorama/italien-baer-in-den-alpen-erschossen-tier-galt-als-gefaehrlich](https://www.spiegel.de/panorama/italien-baer-in-den-alpen-erschossen-tier-galt-als-gefaehrlich-a-97603136-5a36-49d6-bb13-ce0fb008168d#ref=rss)
+* [https://www.spiegel.de/panorama/oregon-us-amerikaner-faelschlich-fuer-tot-erklaert-familie-bekam-urne](https://www.spiegel.de/panorama/oregon-us-amerikaner-faelschlich-fuer-tot-erklaert-familie-bekam-urne-a-734c1b08-6356-4493-b917-72007539877d#ref=rss)
+### deshalb
 
-* [https://www.spiegel.de/panorama/leute/koenig-charles-iii-nach-krebsdiagnose-prinz-william-macht-dienst-nach-vorschrift-wohl-kein-treffen-mit-harry-geplant](https://www.spiegel.de/panorama/leute/koenig-charles-iii-nach-krebsdiagnose-prinz-william-macht-dienst-nach-vorschrift-wohl-kein-treffen-mit-harry-geplant-a-bb287289-51b7-4e48-9ec8-85432e9a1244#ref=rss)
-### charles
+* [https://www.spiegel.de/panorama/italien-baer-in-den-alpen-erschossen-tier-galt-als-gefaehrlich](https://www.spiegel.de/panorama/italien-baer-in-den-alpen-erschossen-tier-galt-als-gefaehrlich-a-97603136-5a36-49d6-bb13-ce0fb008168d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ifw-kiel-wegen-der-angriffe-im-roten-meer-kommen-weniger-schiffe-in-hamburg-an](https://www.spiegel.de/wirtschaft/unternehmen/ifw-kiel-wegen-der-angriffe-im-roten-meer-kommen-weniger-schiffe-in-hamburg-an-a-980642e7-9758-4272-91e4-9b0b1a0e9a72#ref=rss)
+### kritik
 
-* [https://www.spiegel.de/panorama/leute/koenig-charles-iii-nach-krebsdiagnose-prinz-william-macht-dienst-nach-vorschrift-wohl-kein-treffen-mit-harry-geplant](https://www.spiegel.de/panorama/leute/koenig-charles-iii-nach-krebsdiagnose-prinz-william-macht-dienst-nach-vorschrift-wohl-kein-treffen-mit-harry-geplant-a-bb287289-51b7-4e48-9ec8-85432e9a1244#ref=rss)
-### prinz
+* [https://www.spiegel.de/panorama/italien-baer-in-den-alpen-erschossen-tier-galt-als-gefaehrlich](https://www.spiegel.de/panorama/italien-baer-in-den-alpen-erschossen-tier-galt-als-gefaehrlich-a-97603136-5a36-49d6-bb13-ce0fb008168d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-angriff-auf-bruder-von-shahak-shapira-debatte-ueber-exmatrikulation-des-mutmasslichen-taeters](https://www.spiegel.de/panorama/justiz/berlin-angriff-auf-bruder-von-shahak-shapira-debatte-ueber-exmatrikulation-des-mutmasslichen-taeters-a-a7b06c20-f242-4e08-85b9-7d9f77624fef#ref=rss)
+### viele
 
-* [https://www.spiegel.de/panorama/leute/koenig-charles-iii-nach-krebsdiagnose-prinz-william-macht-dienst-nach-vorschrift-wohl-kein-treffen-mit-harry-geplant](https://www.spiegel.de/panorama/leute/koenig-charles-iii-nach-krebsdiagnose-prinz-william-macht-dienst-nach-vorschrift-wohl-kein-treffen-mit-harry-geplant-a-bb287289-51b7-4e48-9ec8-85432e9a1244#ref=rss)
-### william
+* [https://www.spiegel.de/kultur/compact-magazin-darum-nehmen-so-viele-bahnhofsbuchhandlungen-die-rechtsextreme-zeitschrift-aus-den-regalen](https://www.spiegel.de/kultur/compact-magazin-darum-nehmen-so-viele-bahnhofsbuchhandlungen-die-rechtsextreme-zeitschrift-aus-den-regalen-a-c7ce7ba3-29ee-4a44-8329-d2481bbc2aee#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ifw-kiel-wegen-der-angriffe-im-roten-meer-kommen-weniger-schiffe-in-hamburg-an](https://www.spiegel.de/wirtschaft/unternehmen/ifw-kiel-wegen-der-angriffe-im-roten-meer-kommen-weniger-schiffe-in-hamburg-an-a-980642e7-9758-4272-91e4-9b0b1a0e9a72#ref=rss)
+### bahnhofsbuchhandlungen
 
-* [https://www.spiegel.de/panorama/leute/koenig-charles-iii-nach-krebsdiagnose-prinz-william-macht-dienst-nach-vorschrift-wohl-kein-treffen-mit-harry-geplant](https://www.spiegel.de/panorama/leute/koenig-charles-iii-nach-krebsdiagnose-prinz-william-macht-dienst-nach-vorschrift-wohl-kein-treffen-mit-harry-geplant-a-bb287289-51b7-4e48-9ec8-85432e9a1244#ref=rss)
-### macht
+* [https://www.spiegel.de/kultur/compact-magazin-darum-nehmen-so-viele-bahnhofsbuchhandlungen-die-rechtsextreme-zeitschrift-aus-den-regalen](https://www.spiegel.de/kultur/compact-magazin-darum-nehmen-so-viele-bahnhofsbuchhandlungen-die-rechtsextreme-zeitschrift-aus-den-regalen-a-c7ce7ba3-29ee-4a44-8329-d2481bbc2aee#ref=rss)
+### rechtsextreme
 
-* [https://www.spiegel.de/panorama/leute/koenig-charles-iii-nach-krebsdiagnose-prinz-william-macht-dienst-nach-vorschrift-wohl-kein-treffen-mit-harry-geplant](https://www.spiegel.de/panorama/leute/koenig-charles-iii-nach-krebsdiagnose-prinz-william-macht-dienst-nach-vorschrift-wohl-kein-treffen-mit-harry-geplant-a-bb287289-51b7-4e48-9ec8-85432e9a1244#ref=rss)
-* [https://www.spiegel.de/psychologie/pathologisches-horten-was-macht-einen-menschen-zum-messie](https://www.spiegel.de/psychologie/pathologisches-horten-was-macht-einen-menschen-zum-messie-a-b2aba20c-d37d-477a-9e40-c74212743e25#ref=rss)
+* [https://www.spiegel.de/kultur/compact-magazin-darum-nehmen-so-viele-bahnhofsbuchhandlungen-die-rechtsextreme-zeitschrift-aus-den-regalen](https://www.spiegel.de/kultur/compact-magazin-darum-nehmen-so-viele-bahnhofsbuchhandlungen-die-rechtsextreme-zeitschrift-aus-den-regalen-a-c7ce7ba3-29ee-4a44-8329-d2481bbc2aee#ref=rss)
+### jahrelang
+
+* [https://www.spiegel.de/kultur/compact-magazin-darum-nehmen-so-viele-bahnhofsbuchhandlungen-die-rechtsextreme-zeitschrift-aus-den-regalen](https://www.spiegel.de/kultur/compact-magazin-darum-nehmen-so-viele-bahnhofsbuchhandlungen-die-rechtsextreme-zeitschrift-aus-den-regalen-a-c7ce7ba3-29ee-4a44-8329-d2481bbc2aee#ref=rss)
+* [https://www.spiegel.de/kultur/andreas-herzau-ist-tot-er-begleitete-kanzlerin-angela-merkel-als-kanzlerin](https://www.spiegel.de/kultur/andreas-herzau-ist-tot-er-begleitete-kanzlerin-angela-merkel-als-kanzlerin-a-ef9aa4f1-da17-42e7-9eff-7971265e056e#ref=rss)
+### bundesregierung
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bundesregierung-prueft-wohl-eine-enteignung-von-rosneft](https://www.spiegel.de/wirtschaft/unternehmen/bundesregierung-prueft-wohl-eine-enteignung-von-rosneft-a-818aa2d4-adc0-4e85-8184-e6dc7a158d0a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/nach-schufa-urteil-kabinett-beschliesst-strengere-regeln-fuer-kreditscoring](https://www.spiegel.de/wirtschaft/service/nach-schufa-urteil-kabinett-beschliesst-strengere-regeln-fuer-kreditscoring-a-381ebfb5-18ec-492d-b691-fb7b15258506#ref=rss)
+### prüft
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bundesregierung-prueft-wohl-eine-enteignung-von-rosneft](https://www.spiegel.de/wirtschaft/unternehmen/bundesregierung-prueft-wohl-eine-enteignung-von-rosneft-a-818aa2d4-adc0-4e85-8184-e6dc7a158d0a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/sueddeutsche-zeitung-ex-spiegel-chefredakteur-steffen-klusmann-prueft-plagiatsvorwuerfe-gegen-alexandra-foederl-schmid](https://www.spiegel.de/wirtschaft/sueddeutsche-zeitung-ex-spiegel-chefredakteur-steffen-klusmann-prueft-plagiatsvorwuerfe-gegen-alexandra-foederl-schmid-a-1f792d8a-dde4-4c46-bb04-b16f9473e90c#ref=rss)
 ### wohl
 
-* [https://www.spiegel.de/panorama/leute/koenig-charles-iii-nach-krebsdiagnose-prinz-william-macht-dienst-nach-vorschrift-wohl-kein-treffen-mit-harry-geplant](https://www.spiegel.de/panorama/leute/koenig-charles-iii-nach-krebsdiagnose-prinz-william-macht-dienst-nach-vorschrift-wohl-kein-treffen-mit-harry-geplant-a-bb287289-51b7-4e48-9ec8-85432e9a1244#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-teile-von-kiew-nach-angriff-ohne-strom-selenskyj-bildet-eigene-drohnentruppe](https://www.spiegel.de/ausland/ukraine-teile-von-kiew-nach-angriff-ohne-strom-selenskyj-bildet-eigene-drohnentruppe-a-e4354273-6572-480c-b56a-9d637107fb7b#ref=rss)
-### harry
+* [https://www.spiegel.de/wirtschaft/unternehmen/bundesregierung-prueft-wohl-eine-enteignung-von-rosneft](https://www.spiegel.de/wirtschaft/unternehmen/bundesregierung-prueft-wohl-eine-enteignung-von-rosneft-a-818aa2d4-adc0-4e85-8184-e6dc7a158d0a#ref=rss)
+* [https://www.spiegel.de/ausland/zerstoerungen-im-gazastreifen-eine-schneise-der-verwuestung](https://www.spiegel.de/ausland/zerstoerungen-im-gazastreifen-eine-schneise-der-verwuestung-a-2b970a90-963d-4e1a-8444-5d89fd57a8f5#ref=rss)
+### rosneft
 
-* [https://www.spiegel.de/panorama/leute/koenig-charles-iii-nach-krebsdiagnose-prinz-william-macht-dienst-nach-vorschrift-wohl-kein-treffen-mit-harry-geplant](https://www.spiegel.de/panorama/leute/koenig-charles-iii-nach-krebsdiagnose-prinz-william-macht-dienst-nach-vorschrift-wohl-kein-treffen-mit-harry-geplant-a-bb287289-51b7-4e48-9ec8-85432e9a1244#ref=rss)
-### kaili
+* [https://www.spiegel.de/wirtschaft/unternehmen/bundesregierung-prueft-wohl-eine-enteignung-von-rosneft](https://www.spiegel.de/wirtschaft/unternehmen/bundesregierung-prueft-wohl-eine-enteignung-von-rosneft-a-818aa2d4-adc0-4e85-8184-e6dc7a158d0a#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/ausland/eu-parlament-hebt-immunitaet-der-ehemaligen-vizepraesidentin-kaili-auf](https://www.spiegel.de/ausland/eu-parlament-hebt-immunitaet-der-ehemaligen-vizepraesidentin-kaili-auf-a-a8312b22-8235-4833-98eb-a19b075710f0#ref=rss)
-### kiew
+* [https://www.spiegel.de/wirtschaft/unternehmen/bundesregierung-prueft-wohl-eine-enteignung-von-rosneft](https://www.spiegel.de/wirtschaft/unternehmen/bundesregierung-prueft-wohl-eine-enteignung-von-rosneft-a-818aa2d4-adc0-4e85-8184-e6dc7a158d0a#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/biathlon-wm-strafrunde-franziska-preuss-deutschland-verpasst-medaille-in-der-mixed-staffel](https://www.spiegel.de/sport/wintersport/biathlon-wm-strafrunde-franziska-preuss-deutschland-verpasst-medaille-in-der-mixed-staffel-a-f1a1c667-2e57-493e-95ff-e441f7b34616#ref=rss)
+### rahmen
 
-* [https://www.spiegel.de/ausland/ukraine-teile-von-kiew-nach-angriff-ohne-strom-selenskyj-bildet-eigene-drohnentruppe](https://www.spiegel.de/ausland/ukraine-teile-von-kiew-nach-angriff-ohne-strom-selenskyj-bildet-eigene-drohnentruppe-a-e4354273-6572-480c-b56a-9d637107fb7b#ref=rss)
-### ich
+* [https://www.spiegel.de/wirtschaft/unternehmen/bundesregierung-prueft-wohl-eine-enteignung-von-rosneft](https://www.spiegel.de/wirtschaft/unternehmen/bundesregierung-prueft-wohl-eine-enteignung-von-rosneft-a-818aa2d4-adc0-4e85-8184-e6dc7a158d0a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/nach-schufa-urteil-kabinett-beschliesst-strengere-regeln-fuer-kreditscoring](https://www.spiegel.de/wirtschaft/service/nach-schufa-urteil-kabinett-beschliesst-strengere-regeln-fuer-kreditscoring-a-381ebfb5-18ec-492d-b691-fb7b15258506#ref=rss)
+### mixedstaffel
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-wie-ich-als-nachbarin-taeglich-auf-den-verfall-blicke](https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-wie-ich-als-nachbarin-taeglich-auf-den-verfall-blicke-a-0c618c0b-09b8-4e8f-a147-a4ef7ecc2697#ref=rss)
-### cdu
+* [https://www.spiegel.de/sport/wintersport/biathlon-wm-strafrunde-franziska-preuss-deutschland-verpasst-medaille-in-der-mixed-staffel](https://www.spiegel.de/sport/wintersport/biathlon-wm-strafrunde-franziska-preuss-deutschland-verpasst-medaille-in-der-mixed-staffel-a-f1a1c667-2e57-493e-95ff-e441f7b34616#ref=rss)
+### lippetal
 
-* [https://www.spiegel.de/politik/cdu-in-berlin-die-peinliche-hauptstadtpartei](https://www.spiegel.de/politik/cdu-in-berlin-die-peinliche-hauptstadtpartei-a-fb86ac8e-80ff-462f-8b4a-818fb58e4a67#ref=rss)
-### mirna
+* [https://www.spiegel.de/panorama/justiz/lippetal-15-menschliche-schaedel-bei-abrissarbeiten-in-nordrhein-westfalen-entdeckt](https://www.spiegel.de/panorama/justiz/lippetal-15-menschliche-schaedel-bei-abrissarbeiten-in-nordrhein-westfalen-entdeckt-a-c33b4150-e7d9-43ce-8120-5c7d75c4bccb#ref=rss)
+### mehrere
 
-* [https://www.spiegel.de/kultur/literatur/mirna-funk-ueber-die-rollen-der-frau-sex-und-streits-im-judentum-podcast-moreno-1](https://www.spiegel.de/kultur/literatur/mirna-funk-ueber-die-rollen-der-frau-sex-und-streits-im-judentum-podcast-moreno-1-a-3f21182f-f686-4b4a-8493-b3ef659bd841#ref=rss)
-### funk
+* [https://www.spiegel.de/panorama/justiz/lippetal-15-menschliche-schaedel-bei-abrissarbeiten-in-nordrhein-westfalen-entdeckt](https://www.spiegel.de/panorama/justiz/lippetal-15-menschliche-schaedel-bei-abrissarbeiten-in-nordrhein-westfalen-entdeckt-a-c33b4150-e7d9-43ce-8120-5c7d75c4bccb#ref=rss)
+* [https://www.spiegel.de/ausland/zerstoerungen-im-gazastreifen-eine-schneise-der-verwuestung](https://www.spiegel.de/ausland/zerstoerungen-im-gazastreifen-eine-schneise-der-verwuestung-a-2b970a90-963d-4e1a-8444-5d89fd57a8f5#ref=rss)
+### alijew
 
-* [https://www.spiegel.de/kultur/literatur/mirna-funk-ueber-die-rollen-der-frau-sex-und-streits-im-judentum-podcast-moreno-1](https://www.spiegel.de/kultur/literatur/mirna-funk-ueber-die-rollen-der-frau-sex-und-streits-im-judentum-podcast-moreno-1-a-3f21182f-f686-4b4a-8493-b3ef659bd841#ref=rss)
-### jahre
+* [https://www.spiegel.de/ausland/aserbaidschan-praesident-ilham-alijew-laut-nachwahl-befragung-im-amt-bestaetigt](https://www.spiegel.de/ausland/aserbaidschan-praesident-ilham-alijew-laut-nachwahl-befragung-im-amt-bestaetigt-a-88ec28d2-bd94-4e6d-8742-f7bca61e2aa2#ref=rss)
+### laut
 
-* [https://www.spiegel.de/kultur/literatur/mirna-funk-ueber-die-rollen-der-frau-sex-und-streits-im-judentum-podcast-moreno-1](https://www.spiegel.de/kultur/literatur/mirna-funk-ueber-die-rollen-der-frau-sex-und-streits-im-judentum-podcast-moreno-1-a-3f21182f-f686-4b4a-8493-b3ef659bd841#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/michigan-mutter-von-us-todesschuetzen-wegen-fahrlaessiger-toetung-verurteilt](https://www.spiegel.de/panorama/justiz/michigan-mutter-von-us-todesschuetzen-wegen-fahrlaessiger-toetung-verurteilt-a-feee8bc9-0595-45f8-897d-5c9c4eb4a3b5#ref=rss)
-### bayer
+* [https://www.spiegel.de/ausland/aserbaidschan-praesident-ilham-alijew-laut-nachwahl-befragung-im-amt-bestaetigt](https://www.spiegel.de/ausland/aserbaidschan-praesident-ilham-alijew-laut-nachwahl-befragung-im-amt-bestaetigt-a-88ec28d2-bd94-4e6d-8742-f7bca61e2aa2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ifw-kiel-wegen-der-angriffe-im-roten-meer-kommen-weniger-schiffe-in-hamburg-an](https://www.spiegel.de/wirtschaft/unternehmen/ifw-kiel-wegen-der-angriffe-im-roten-meer-kommen-weniger-schiffe-in-hamburg-an-a-980642e7-9758-4272-91e4-9b0b1a0e9a72#ref=rss)
+### abstimmung
 
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-so-hat-bayer-leverkusen-gegen-den-vfb-stuttgart-gewonnen](https://www.spiegel.de/sport/fussball/dfb-pokal-so-hat-bayer-leverkusen-gegen-den-vfb-stuttgart-gewonnen-a-49ea5b54-dc54-4b6d-86f2-5f86d0b3ea31#ref=rss)
-### stuttgart
+* [https://www.spiegel.de/ausland/aserbaidschan-praesident-ilham-alijew-laut-nachwahl-befragung-im-amt-bestaetigt](https://www.spiegel.de/ausland/aserbaidschan-praesident-ilham-alijew-laut-nachwahl-befragung-im-amt-bestaetigt-a-88ec28d2-bd94-4e6d-8742-f7bca61e2aa2#ref=rss)
+* [https://www.spiegel.de/auto/fdp-entscheidung-zu-co-standards-fuer-lkw-und-busse-verschoben](https://www.spiegel.de/auto/fdp-entscheidung-zu-co-standards-fuer-lkw-und-busse-verschoben-a-e20dca7c-e28d-4cfc-bd56-42b363e92fa4#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-so-hat-bayer-leverkusen-gegen-den-vfb-stuttgart-gewonnen](https://www.spiegel.de/sport/fussball/dfb-pokal-so-hat-bayer-leverkusen-gegen-den-vfb-stuttgart-gewonnen-a-49ea5b54-dc54-4b6d-86f2-5f86d0b3ea31#ref=rss)
-### sehen
+* [https://www.spiegel.de/ausland/aserbaidschan-praesident-ilham-alijew-laut-nachwahl-befragung-im-amt-bestaetigt](https://www.spiegel.de/ausland/aserbaidschan-praesident-ilham-alijew-laut-nachwahl-befragung-im-amt-bestaetigt-a-88ec28d2-bd94-4e6d-8742-f7bca61e2aa2#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/landkreis-loerrach-daten-von-grundeigentuemern-standen-offen-im-netz](https://www.spiegel.de/netzwelt/web/landkreis-loerrach-daten-von-grundeigentuemern-standen-offen-im-netz-a-a8763d0e-f29a-4f93-bd95-72a66dd8b39a#ref=rss)
+### hatten
 
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-so-hat-bayer-leverkusen-gegen-den-vfb-stuttgart-gewonnen](https://www.spiegel.de/sport/fussball/dfb-pokal-so-hat-bayer-leverkusen-gegen-den-vfb-stuttgart-gewonnen-a-49ea5b54-dc54-4b6d-86f2-5f86d0b3ea31#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-deutsche-industrie-faehrt-ihre-produktion-herunter](https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-deutsche-industrie-faehrt-ihre-produktion-herunter-a-cfa6e9fb-539f-4485-8d57-806829f1964b#ref=rss)
-### nevada
+* [https://www.spiegel.de/ausland/aserbaidschan-praesident-ilham-alijew-laut-nachwahl-befragung-im-amt-bestaetigt](https://www.spiegel.de/ausland/aserbaidschan-praesident-ilham-alijew-laut-nachwahl-befragung-im-amt-bestaetigt-a-88ec28d2-bd94-4e6d-8742-f7bca61e2aa2#ref=rss)
+* [https://www.spiegel.de/psychologie/zufriedenheit-was-braucht-man-um-gluecklich-zu-sein](https://www.spiegel.de/psychologie/zufriedenheit-was-braucht-man-um-gluecklich-zu-sein-a-f6d4ba2d-c03d-4ade-b915-f7863a24fd84#ref=rss)
+### wahl
 
-* [https://www.spiegel.de/ausland/vorwahl-in-den-usa-nikki-haley-bekommt-in-nevada-weniger-stimmen-als-keiner-dieser-kandidaten](https://www.spiegel.de/ausland/vorwahl-in-den-usa-nikki-haley-bekommt-in-nevada-weniger-stimmen-als-keiner-dieser-kandidaten-a-79b8ccde-21d2-493d-b0ba-5651fdec545a#ref=rss)
-### nikki
+* [https://www.spiegel.de/ausland/aserbaidschan-praesident-ilham-alijew-laut-nachwahl-befragung-im-amt-bestaetigt](https://www.spiegel.de/ausland/aserbaidschan-praesident-ilham-alijew-laut-nachwahl-befragung-im-amt-bestaetigt-a-88ec28d2-bd94-4e6d-8742-f7bca61e2aa2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/dithmarschen-streit-um-landratswahl-bricht-im-westen-erstmals-die-brandmauer-zur-afd](https://www.spiegel.de/politik/deutschland/dithmarschen-streit-um-landratswahl-bricht-im-westen-erstmals-die-brandmauer-zur-afd-a-698cae34-c343-4ae6-870c-300c237714f8#ref=rss)
+### euparlament
 
-* [https://www.spiegel.de/ausland/vorwahl-in-den-usa-nikki-haley-bekommt-in-nevada-weniger-stimmen-als-keiner-dieser-kandidaten](https://www.spiegel.de/ausland/vorwahl-in-den-usa-nikki-haley-bekommt-in-nevada-weniger-stimmen-als-keiner-dieser-kandidaten-a-79b8ccde-21d2-493d-b0ba-5651fdec545a#ref=rss)
-### haley
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-letzte-generation-hamas-geiseln-friedrich-merz-und-schwarz-gruen](https://www.spiegel.de/politik/deutschland/news-des-tages-letzte-generation-hamas-geiseln-friedrich-merz-und-schwarz-gruen-a-2f23162e-c028-41c6-9b9e-59dda6af03ad#ref=rss)
+* [https://www.spiegel.de/wissenschaft/gentechnik-eu-parlament-spricht-sich-fuer-lockerungen-aus](https://www.spiegel.de/wissenschaft/gentechnik-eu-parlament-spricht-sich-fuer-lockerungen-aus-a-6856bd5e-1235-44d7-b171-baa0305bf43f#ref=rss)
+### schufaurteil
 
-* [https://www.spiegel.de/ausland/vorwahl-in-den-usa-nikki-haley-bekommt-in-nevada-weniger-stimmen-als-keiner-dieser-kandidaten](https://www.spiegel.de/ausland/vorwahl-in-den-usa-nikki-haley-bekommt-in-nevada-weniger-stimmen-als-keiner-dieser-kandidaten-a-79b8ccde-21d2-493d-b0ba-5651fdec545a#ref=rss)
-### kandidaten
+* [https://www.spiegel.de/wirtschaft/service/nach-schufa-urteil-kabinett-beschliesst-strengere-regeln-fuer-kreditscoring](https://www.spiegel.de/wirtschaft/service/nach-schufa-urteil-kabinett-beschliesst-strengere-regeln-fuer-kreditscoring-a-381ebfb5-18ec-492d-b691-fb7b15258506#ref=rss)
+### kreditscoring
 
-* [https://www.spiegel.de/ausland/vorwahl-in-den-usa-nikki-haley-bekommt-in-nevada-weniger-stimmen-als-keiner-dieser-kandidaten](https://www.spiegel.de/ausland/vorwahl-in-den-usa-nikki-haley-bekommt-in-nevada-weniger-stimmen-als-keiner-dieser-kandidaten-a-79b8ccde-21d2-493d-b0ba-5651fdec545a#ref=rss)
-### rückschlag
+* [https://www.spiegel.de/wirtschaft/service/nach-schufa-urteil-kabinett-beschliesst-strengere-regeln-fuer-kreditscoring](https://www.spiegel.de/wirtschaft/service/nach-schufa-urteil-kabinett-beschliesst-strengere-regeln-fuer-kreditscoring-a-381ebfb5-18ec-492d-b691-fb7b15258506#ref=rss)
+### bestimmte
 
-* [https://www.spiegel.de/ausland/vorwahl-in-den-usa-nikki-haley-bekommt-in-nevada-weniger-stimmen-als-keiner-dieser-kandidaten](https://www.spiegel.de/ausland/vorwahl-in-den-usa-nikki-haley-bekommt-in-nevada-weniger-stimmen-als-keiner-dieser-kandidaten-a-79b8ccde-21d2-493d-b0ba-5651fdec545a#ref=rss)
-* [https://www.spiegel.de/ausland/argentinien-reformpaket-von-praesident-javier-milei-erleidet-rueckschlag-in-parlament](https://www.spiegel.de/ausland/argentinien-reformpaket-von-praesident-javier-milei-erleidet-rueckschlag-in-parlament-a-b13debbd-9ce6-40d7-9d69-6b53616698e7#ref=rss)
-### deutlich
+* [https://www.spiegel.de/wirtschaft/service/nach-schufa-urteil-kabinett-beschliesst-strengere-regeln-fuer-kreditscoring](https://www.spiegel.de/wirtschaft/service/nach-schufa-urteil-kabinett-beschliesst-strengere-regeln-fuer-kreditscoring-a-381ebfb5-18ec-492d-b691-fb7b15258506#ref=rss)
+* [https://www.spiegel.de/wissenschaft/gesundheit-wie-der-darm-von-maeusen-auf-stress-reagiert](https://www.spiegel.de/wissenschaft/gesundheit-wie-der-darm-von-maeusen-auf-stress-reagiert-a-f4d7676b-c09c-432c-8d82-21c921411ccf#ref=rss)
+### fdp
 
-* [https://www.spiegel.de/ausland/vorwahl-in-den-usa-nikki-haley-bekommt-in-nevada-weniger-stimmen-als-keiner-dieser-kandidaten](https://www.spiegel.de/ausland/vorwahl-in-den-usa-nikki-haley-bekommt-in-nevada-weniger-stimmen-als-keiner-dieser-kandidaten-a-79b8ccde-21d2-493d-b0ba-5651fdec545a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/obst-und-gemuese-verbraucher-sparen-laut-verband-bei-frischen-lebensmitteln](https://www.spiegel.de/wirtschaft/service/obst-und-gemuese-verbraucher-sparen-laut-verband-bei-frischen-lebensmitteln-a-55f56dd5-6e94-4763-886b-a4be4e9ee019#ref=rss)
-### donald
+* [https://www.spiegel.de/auto/fdp-entscheidung-zu-co-standards-fuer-lkw-und-busse-verschoben](https://www.spiegel.de/auto/fdp-entscheidung-zu-co-standards-fuer-lkw-und-busse-verschoben-a-e20dca7c-e28d-4cfc-bd56-42b363e92fa4#ref=rss)
+### lkw
 
-* [https://www.spiegel.de/ausland/vorwahl-in-den-usa-nikki-haley-bekommt-in-nevada-weniger-stimmen-als-keiner-dieser-kandidaten](https://www.spiegel.de/ausland/vorwahl-in-den-usa-nikki-haley-bekommt-in-nevada-weniger-stimmen-als-keiner-dieser-kandidaten-a-79b8ccde-21d2-493d-b0ba-5651fdec545a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-lufthansa-krieg-in-gaza-hamas](https://www.spiegel.de/politik/deutschland/news-donald-trump-lufthansa-krieg-in-gaza-hamas-a-5612e684-1054-49ba-9215-0fa107a52ad0#ref=rss)
-### trump
+* [https://www.spiegel.de/auto/fdp-entscheidung-zu-co-standards-fuer-lkw-und-busse-verschoben](https://www.spiegel.de/auto/fdp-entscheidung-zu-co-standards-fuer-lkw-und-busse-verschoben-a-e20dca7c-e28d-4cfc-bd56-42b363e92fa4#ref=rss)
+### busse
 
-* [https://www.spiegel.de/ausland/vorwahl-in-den-usa-nikki-haley-bekommt-in-nevada-weniger-stimmen-als-keiner-dieser-kandidaten](https://www.spiegel.de/ausland/vorwahl-in-den-usa-nikki-haley-bekommt-in-nevada-weniger-stimmen-als-keiner-dieser-kandidaten-a-79b8ccde-21d2-493d-b0ba-5651fdec545a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-lufthansa-krieg-in-gaza-hamas](https://www.spiegel.de/politik/deutschland/news-donald-trump-lufthansa-krieg-in-gaza-hamas-a-5612e684-1054-49ba-9215-0fa107a52ad0#ref=rss)
-### industrie
+* [https://www.spiegel.de/auto/fdp-entscheidung-zu-co-standards-fuer-lkw-und-busse-verschoben](https://www.spiegel.de/auto/fdp-entscheidung-zu-co-standards-fuer-lkw-und-busse-verschoben-a-e20dca7c-e28d-4cfc-bd56-42b363e92fa4#ref=rss)
+### verschoben
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-deutsche-industrie-faehrt-ihre-produktion-herunter](https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-deutsche-industrie-faehrt-ihre-produktion-herunter-a-cfa6e9fb-539f-4485-8d57-806829f1964b#ref=rss)
-### infront
+* [https://www.spiegel.de/auto/fdp-entscheidung-zu-co-standards-fuer-lkw-und-busse-verschoben](https://www.spiegel.de/auto/fdp-entscheidung-zu-co-standards-fuer-lkw-und-busse-verschoben-a-e20dca7c-e28d-4cfc-bd56-42b363e92fa4#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/sport/razzia-bei-sportvermarkter-infront](https://www.spiegel.de/sport/razzia-bei-sportvermarkter-infront-a-44280649-0146-4f4b-965f-35481921002d#ref=rss)
-### obst
+* [https://www.spiegel.de/auto/fdp-entscheidung-zu-co-standards-fuer-lkw-und-busse-verschoben](https://www.spiegel.de/auto/fdp-entscheidung-zu-co-standards-fuer-lkw-und-busse-verschoben-a-e20dca7c-e28d-4cfc-bd56-42b363e92fa4#ref=rss)
+* [https://www.spiegel.de/sport/ifsc-kletter-weltverband-will-gegen-essstoerungen-vorgehen-bis-hin-zum-startverbot](https://www.spiegel.de/sport/ifsc-kletter-weltverband-will-gegen-essstoerungen-vorgehen-bis-hin-zum-startverbot-a-42bee2a0-e6f0-4416-a4ae-2e7c5243205c#ref=rss)
+### vorwürfe
 
-* [https://www.spiegel.de/wirtschaft/service/obst-und-gemuese-verbraucher-sparen-laut-verband-bei-frischen-lebensmitteln](https://www.spiegel.de/wirtschaft/service/obst-und-gemuese-verbraucher-sparen-laut-verband-bei-frischen-lebensmitteln-a-55f56dd5-6e94-4763-886b-a4be4e9ee019#ref=rss)
-### gemüse
+* [https://www.spiegel.de/politik/deutschland/dithmarschen-streit-um-landratswahl-bricht-im-westen-erstmals-die-brandmauer-zur-afd](https://www.spiegel.de/politik/deutschland/dithmarschen-streit-um-landratswahl-bricht-im-westen-erstmals-die-brandmauer-zur-afd-a-698cae34-c343-4ae6-870c-300c237714f8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/sueddeutsche-zeitung-ex-spiegel-chefredakteur-steffen-klusmann-prueft-plagiatsvorwuerfe-gegen-alexandra-foederl-schmid](https://www.spiegel.de/wirtschaft/sueddeutsche-zeitung-ex-spiegel-chefredakteur-steffen-klusmann-prueft-plagiatsvorwuerfe-gegen-alexandra-foederl-schmid-a-1f792d8a-dde4-4c46-bb04-b16f9473e90c#ref=rss)
+### zeitung
 
-* [https://www.spiegel.de/wirtschaft/service/obst-und-gemuese-verbraucher-sparen-laut-verband-bei-frischen-lebensmitteln](https://www.spiegel.de/wirtschaft/service/obst-und-gemuese-verbraucher-sparen-laut-verband-bei-frischen-lebensmitteln-a-55f56dd5-6e94-4763-886b-a4be4e9ee019#ref=rss)
-### verband
+* [https://www.spiegel.de/wirtschaft/sueddeutsche-zeitung-ex-spiegel-chefredakteur-steffen-klusmann-prueft-plagiatsvorwuerfe-gegen-alexandra-foederl-schmid](https://www.spiegel.de/wirtschaft/sueddeutsche-zeitung-ex-spiegel-chefredakteur-steffen-klusmann-prueft-plagiatsvorwuerfe-gegen-alexandra-foederl-schmid-a-1f792d8a-dde4-4c46-bb04-b16f9473e90c#ref=rss)
+### steffen
 
-* [https://www.spiegel.de/wirtschaft/service/obst-und-gemuese-verbraucher-sparen-laut-verband-bei-frischen-lebensmitteln](https://www.spiegel.de/wirtschaft/service/obst-und-gemuese-verbraucher-sparen-laut-verband-bei-frischen-lebensmitteln-a-55f56dd5-6e94-4763-886b-a4be4e9ee019#ref=rss)
-### lebensmitteln
+* [https://www.spiegel.de/wirtschaft/sueddeutsche-zeitung-ex-spiegel-chefredakteur-steffen-klusmann-prueft-plagiatsvorwuerfe-gegen-alexandra-foederl-schmid](https://www.spiegel.de/wirtschaft/sueddeutsche-zeitung-ex-spiegel-chefredakteur-steffen-klusmann-prueft-plagiatsvorwuerfe-gegen-alexandra-foederl-schmid-a-1f792d8a-dde4-4c46-bb04-b16f9473e90c#ref=rss)
+### klusmann
 
-* [https://www.spiegel.de/wirtschaft/service/obst-und-gemuese-verbraucher-sparen-laut-verband-bei-frischen-lebensmitteln](https://www.spiegel.de/wirtschaft/service/obst-und-gemuese-verbraucher-sparen-laut-verband-bei-frischen-lebensmitteln-a-55f56dd5-6e94-4763-886b-a4be4e9ee019#ref=rss)
-### warnstreik
+* [https://www.spiegel.de/wirtschaft/sueddeutsche-zeitung-ex-spiegel-chefredakteur-steffen-klusmann-prueft-plagiatsvorwuerfe-gegen-alexandra-foederl-schmid](https://www.spiegel.de/wirtschaft/sueddeutsche-zeitung-ex-spiegel-chefredakteur-steffen-klusmann-prueft-plagiatsvorwuerfe-gegen-alexandra-foederl-schmid-a-1f792d8a-dde4-4c46-bb04-b16f9473e90c#ref=rss)
+### alexandra
 
-* [https://www.spiegel.de/wirtschaft/service/warnstreik-bei-lufthansa-sorgt-fuer-hunderte-flugausfaelle](https://www.spiegel.de/wirtschaft/service/warnstreik-bei-lufthansa-sorgt-fuer-hunderte-flugausfaelle-a-cf8da2b0-b3ff-41d9-81a9-8003b11958aa#ref=rss)
-### politik
+* [https://www.spiegel.de/wirtschaft/sueddeutsche-zeitung-ex-spiegel-chefredakteur-steffen-klusmann-prueft-plagiatsvorwuerfe-gegen-alexandra-foederl-schmid](https://www.spiegel.de/wirtschaft/sueddeutsche-zeitung-ex-spiegel-chefredakteur-steffen-klusmann-prueft-plagiatsvorwuerfe-gegen-alexandra-foederl-schmid-a-1f792d8a-dde4-4c46-bb04-b16f9473e90c#ref=rss)
+### föderlschmid
 
-* [https://www.spiegel.de/wirtschaft/service/warnstreik-bei-lufthansa-sorgt-fuer-hunderte-flugausfaelle](https://www.spiegel.de/wirtschaft/service/warnstreik-bei-lufthansa-sorgt-fuer-hunderte-flugausfaelle-a-cf8da2b0-b3ff-41d9-81a9-8003b11958aa#ref=rss)
-* [https://www.spiegel.de/start/laenger-haerter-mehr-arbeiten-was-mich-an-der-debatte-ueber-leistungsbereitschaft-stoert](https://www.spiegel.de/start/laenger-haerter-mehr-arbeiten-was-mich-an-der-debatte-ueber-leistungsbereitschaft-stoert-a-784982ba-168a-4b37-b68d-440e867a0542#ref=rss)
-### republikaner
-
-* [https://www.spiegel.de/ausland/usa-repraesentantenhaus-lehnt-gesetzesvorschlag-der-republikaner-zu-israel-hilfe-ab](https://www.spiegel.de/ausland/usa-repraesentantenhaus-lehnt-gesetzesvorschlag-der-republikaner-zu-israel-hilfe-ab-a-747cacb0-4f1b-495f-9972-5c88f60fdeb9#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/usa-repraesentantenhaus-lehnt-gesetzesvorschlag-der-republikaner-zu-israel-hilfe-ab](https://www.spiegel.de/ausland/usa-repraesentantenhaus-lehnt-gesetzesvorschlag-der-republikaner-zu-israel-hilfe-ab-a-747cacb0-4f1b-495f-9972-5c88f60fdeb9#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/michigan-mutter-von-us-todesschuetzen-wegen-fahrlaessiger-toetung-verurteilt](https://www.spiegel.de/panorama/justiz/michigan-mutter-von-us-todesschuetzen-wegen-fahrlaessiger-toetung-verurteilt-a-feee8bc9-0595-45f8-897d-5c9c4eb4a3b5#ref=rss)
-### neue
-
-* [https://www.spiegel.de/ausland/usa-repraesentantenhaus-lehnt-gesetzesvorschlag-der-republikaner-zu-israel-hilfe-ab](https://www.spiegel.de/ausland/usa-repraesentantenhaus-lehnt-gesetzesvorschlag-der-republikaner-zu-israel-hilfe-ab-a-747cacb0-4f1b-495f-9972-5c88f60fdeb9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-lufthansa-krieg-in-gaza-hamas](https://www.spiegel.de/politik/deutschland/news-donald-trump-lufthansa-krieg-in-gaza-hamas-a-5612e684-1054-49ba-9215-0fa107a52ad0#ref=rss)
-### hildebrand
-
-* [https://www.spiegel.de/geschichte/hildebrand-veckinchusen-auf-und-abstieg-des-hansekaufmanns](https://www.spiegel.de/geschichte/hildebrand-veckinchusen-auf-und-abstieg-des-hansekaufmanns-a-4882142a-4e8b-4326-a412-6d3a2bd2e080#ref=rss)
-### reformpaket
-
-* [https://www.spiegel.de/ausland/argentinien-reformpaket-von-praesident-javier-milei-erleidet-rueckschlag-in-parlament](https://www.spiegel.de/ausland/argentinien-reformpaket-von-praesident-javier-milei-erleidet-rueckschlag-in-parlament-a-b13debbd-9ce6-40d7-9d69-6b53616698e7#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/argentinien-reformpaket-von-praesident-javier-milei-erleidet-rueckschlag-in-parlament](https://www.spiegel.de/ausland/argentinien-reformpaket-von-praesident-javier-milei-erleidet-rueckschlag-in-parlament-a-b13debbd-9ce6-40d7-9d69-6b53616698e7#ref=rss)
-### milei
-
-* [https://www.spiegel.de/ausland/argentinien-reformpaket-von-praesident-javier-milei-erleidet-rueckschlag-in-parlament](https://www.spiegel.de/ausland/argentinien-reformpaket-von-praesident-javier-milei-erleidet-rueckschlag-in-parlament-a-b13debbd-9ce6-40d7-9d69-6b53616698e7#ref=rss)
-### mutter
-
-* [https://www.spiegel.de/panorama/justiz/michigan-mutter-von-us-todesschuetzen-wegen-fahrlaessiger-toetung-verurteilt](https://www.spiegel.de/panorama/justiz/michigan-mutter-von-us-todesschuetzen-wegen-fahrlaessiger-toetung-verurteilt-a-feee8bc9-0595-45f8-897d-5c9c4eb4a3b5#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/panorama/justiz/michigan-mutter-von-us-todesschuetzen-wegen-fahrlaessiger-toetung-verurteilt](https://www.spiegel.de/panorama/justiz/michigan-mutter-von-us-todesschuetzen-wegen-fahrlaessiger-toetung-verurteilt-a-feee8bc9-0595-45f8-897d-5c9c4eb4a3b5#ref=rss)
-### martin
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-csu-generalsekretaer-martin-huber-gegen-schwarz-gruen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-csu-generalsekretaer-martin-huber-gegen-schwarz-gruen-a-3c303ad8-3616-435b-ab8f-098473e6f3f2#ref=rss)
-### huber
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-csu-generalsekretaer-martin-huber-gegen-schwarz-gruen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-csu-generalsekretaer-martin-huber-gegen-schwarz-gruen-a-3c303ad8-3616-435b-ab8f-098473e6f3f2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/sueddeutsche-zeitung-ex-spiegel-chefredakteur-steffen-klusmann-prueft-plagiatsvorwuerfe-gegen-alexandra-foederl-schmid](https://www.spiegel.de/wirtschaft/sueddeutsche-zeitung-ex-spiegel-chefredakteur-steffen-klusmann-prueft-plagiatsvorwuerfe-gegen-alexandra-foederl-schmid-a-1f792d8a-dde4-4c46-bb04-b16f9473e90c#ref=rss)
 ### debatte
 
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-csu-generalsekretaer-martin-huber-gegen-schwarz-gruen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-csu-generalsekretaer-martin-huber-gegen-schwarz-gruen-a-3c303ad8-3616-435b-ab8f-098473e6f3f2#ref=rss)
-* [https://www.spiegel.de/start/laenger-haerter-mehr-arbeiten-was-mich-an-der-debatte-ueber-leistungsbereitschaft-stoert](https://www.spiegel.de/start/laenger-haerter-mehr-arbeiten-was-mich-an-der-debatte-ueber-leistungsbereitschaft-stoert-a-784982ba-168a-4b37-b68d-440e867a0542#ref=rss)
-### dieter
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-schwarz-gruen-die-versehentliche-debatte](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-schwarz-gruen-die-versehentliche-debatte-a-5c459ed0-4ff8-423e-9744-2981d6e2f039#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-angriff-auf-bruder-von-shahak-shapira-debatte-ueber-exmatrikulation-des-mutmasslichen-taeters](https://www.spiegel.de/panorama/justiz/berlin-angriff-auf-bruder-von-shahak-shapira-debatte-ueber-exmatrikulation-des-mutmasslichen-taeters-a-a7b06c20-f242-4e08-85b9-7d9f77624fef#ref=rss)
+### priscilla
 
-* [https://www.spiegel.de/panorama/leute/dieter-bohlen-quiz-haben-sie-das-zeug-zum-pop-titan](https://www.spiegel.de/panorama/leute/dieter-bohlen-quiz-haben-sie-das-zeug-zum-pop-titan-a-a53b548a-ed31-45d5-ad57-8bf913d0024b#ref=rss)
-### 70
+* [https://www.spiegel.de/panorama/leute/priscilla-presley-begleitet-richard-lugner-zum-wiener-opernball](https://www.spiegel.de/panorama/leute/priscilla-presley-begleitet-richard-lugner-zum-wiener-opernball-a-c81b427f-35f0-4ee2-85db-2ad401f467a9#ref=rss)
+### presley
 
-* [https://www.spiegel.de/panorama/leute/dieter-bohlen-quiz-haben-sie-das-zeug-zum-pop-titan](https://www.spiegel.de/panorama/leute/dieter-bohlen-quiz-haben-sie-das-zeug-zum-pop-titan-a-a53b548a-ed31-45d5-ad57-8bf913d0024b#ref=rss)
-### runden
+* [https://www.spiegel.de/panorama/leute/priscilla-presley-begleitet-richard-lugner-zum-wiener-opernball](https://www.spiegel.de/panorama/leute/priscilla-presley-begleitet-richard-lugner-zum-wiener-opernball-a-c81b427f-35f0-4ee2-85db-2ad401f467a9#ref=rss)
+### richard
 
-* [https://www.spiegel.de/panorama/leute/dieter-bohlen-quiz-haben-sie-das-zeug-zum-pop-titan](https://www.spiegel.de/panorama/leute/dieter-bohlen-quiz-haben-sie-das-zeug-zum-pop-titan-a-a53b548a-ed31-45d5-ad57-8bf913d0024b#ref=rss)
-### geburtstag
+* [https://www.spiegel.de/panorama/leute/priscilla-presley-begleitet-richard-lugner-zum-wiener-opernball](https://www.spiegel.de/panorama/leute/priscilla-presley-begleitet-richard-lugner-zum-wiener-opernball-a-c81b427f-35f0-4ee2-85db-2ad401f467a9#ref=rss)
+### lugner
 
-* [https://www.spiegel.de/panorama/leute/dieter-bohlen-quiz-haben-sie-das-zeug-zum-pop-titan](https://www.spiegel.de/panorama/leute/dieter-bohlen-quiz-haben-sie-das-zeug-zum-pop-titan-a-a53b548a-ed31-45d5-ad57-8bf913d0024b#ref=rss)
+* [https://www.spiegel.de/panorama/leute/priscilla-presley-begleitet-richard-lugner-zum-wiener-opernball](https://www.spiegel.de/panorama/leute/priscilla-presley-begleitet-richard-lugner-zum-wiener-opernball-a-c81b427f-35f0-4ee2-85db-2ad401f467a9#ref=rss)
+### blieb
+
+* [https://www.spiegel.de/panorama/leute/priscilla-presley-begleitet-richard-lugner-zum-wiener-opernball](https://www.spiegel.de/panorama/leute/priscilla-presley-begleitet-richard-lugner-zum-wiener-opernball-a-c81b427f-35f0-4ee2-85db-2ad401f467a9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/italien-kein-schnee-kein-winter-skiresort-rieti-in-not](https://www.spiegel.de/wissenschaft/natur/italien-kein-schnee-kein-winter-skiresort-rieti-in-not-a-985ac29e-23a9-4dd8-8875-83630076c66a#ref=rss)
+### partnerschaftlichkeit
+
+* [https://www.spiegel.de/politik/elterngeld-reform-weniger-partnerschaftlichkeit-mehr-konkurrenz](https://www.spiegel.de/politik/elterngeld-reform-weniger-partnerschaftlichkeit-mehr-konkurrenz-a-6cbb4fc0-81be-4cc9-8992-7c084a55d87e#ref=rss)
+### konkurrenz
+
+* [https://www.spiegel.de/politik/elterngeld-reform-weniger-partnerschaftlichkeit-mehr-konkurrenz](https://www.spiegel.de/politik/elterngeld-reform-weniger-partnerschaftlichkeit-mehr-konkurrenz-a-6cbb4fc0-81be-4cc9-8992-7c084a55d87e#ref=rss)
+### schnee
+
+* [https://www.spiegel.de/wissenschaft/natur/italien-kein-schnee-kein-winter-skiresort-rieti-in-not](https://www.spiegel.de/wissenschaft/natur/italien-kein-schnee-kein-winter-skiresort-rieti-in-not-a-985ac29e-23a9-4dd8-8875-83630076c66a#ref=rss)
+### winter
+
+* [https://www.spiegel.de/wissenschaft/natur/italien-kein-schnee-kein-winter-skiresort-rieti-in-not](https://www.spiegel.de/wissenschaft/natur/italien-kein-schnee-kein-winter-skiresort-rieti-in-not-a-985ac29e-23a9-4dd8-8875-83630076c66a#ref=rss)
+### rieti
+
+* [https://www.spiegel.de/wissenschaft/natur/italien-kein-schnee-kein-winter-skiresort-rieti-in-not](https://www.spiegel.de/wissenschaft/natur/italien-kein-schnee-kein-winter-skiresort-rieti-in-not-a-985ac29e-23a9-4dd8-8875-83630076c66a#ref=rss)
+### kevin
+
+* [https://www.spiegel.de/kultur/tv/kevin-spacey-einigt-sich-mit-house-of-cards-produktionsfirma](https://www.spiegel.de/kultur/tv/kevin-spacey-einigt-sich-mit-house-of-cards-produktionsfirma-a-b5c6a2c4-f458-4359-9117-665b157c5358#ref=rss)
+### spacey
+
+* [https://www.spiegel.de/kultur/tv/kevin-spacey-einigt-sich-mit-house-of-cards-produktionsfirma](https://www.spiegel.de/kultur/tv/kevin-spacey-einigt-sich-mit-house-of-cards-produktionsfirma-a-b5c6a2c4-f458-4359-9117-665b157c5358#ref=rss)
+### house
+
+* [https://www.spiegel.de/kultur/tv/kevin-spacey-einigt-sich-mit-house-of-cards-produktionsfirma](https://www.spiegel.de/kultur/tv/kevin-spacey-einigt-sich-mit-house-of-cards-produktionsfirma-a-b5c6a2c4-f458-4359-9117-665b157c5358#ref=rss)
+### of
+
+* [https://www.spiegel.de/kultur/tv/kevin-spacey-einigt-sich-mit-house-of-cards-produktionsfirma](https://www.spiegel.de/kultur/tv/kevin-spacey-einigt-sich-mit-house-of-cards-produktionsfirma-a-b5c6a2c4-f458-4359-9117-665b157c5358#ref=rss)
+### großteil
+
+* [https://www.spiegel.de/kultur/tv/kevin-spacey-einigt-sich-mit-house-of-cards-produktionsfirma](https://www.spiegel.de/kultur/tv/kevin-spacey-einigt-sich-mit-house-of-cards-produktionsfirma-a-b5c6a2c4-f458-4359-9117-665b157c5358#ref=rss)
+* [https://www.spiegel.de/ausland/zerstoerungen-im-gazastreifen-eine-schneise-der-verwuestung](https://www.spiegel.de/ausland/zerstoerungen-im-gazastreifen-eine-schneise-der-verwuestung-a-2b970a90-963d-4e1a-8444-5d89fd57a8f5#ref=rss)
+### super
+
+* [https://www.spiegel.de/sport/american-football/super-bowl-2024-wirkt-sich-der-taylor-swift-effekt-auch-auf-die-werbung-aus](https://www.spiegel.de/sport/american-football/super-bowl-2024-wirkt-sich-der-taylor-swift-effekt-auch-auf-die-werbung-aus-a-e1c613a6-8449-4b61-bb54-204a655b06e9#ref=rss)
+### bowl
+
+* [https://www.spiegel.de/sport/american-football/super-bowl-2024-wirkt-sich-der-taylor-swift-effekt-auch-auf-die-werbung-aus](https://www.spiegel.de/sport/american-football/super-bowl-2024-wirkt-sich-der-taylor-swift-effekt-auch-auf-die-werbung-aus-a-e1c613a6-8449-4b61-bb54-204a655b06e9#ref=rss)
+### björn
+
+* [https://www.spiegel.de/politik/deutschland/afd-bjoern-hoecke-muss-vor-gericht-anklage-wegen-volksverhetzung](https://www.spiegel.de/politik/deutschland/afd-bjoern-hoecke-muss-vor-gericht-anklage-wegen-volksverhetzung-a-9f63cf32-bbc6-4bda-af12-a953241fafb5#ref=rss)
+### höcke
+
+* [https://www.spiegel.de/politik/deutschland/afd-bjoern-hoecke-muss-vor-gericht-anklage-wegen-volksverhetzung](https://www.spiegel.de/politik/deutschland/afd-bjoern-hoecke-muss-vor-gericht-anklage-wegen-volksverhetzung-a-9f63cf32-bbc6-4bda-af12-a953241fafb5#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/politik/deutschland/afd-bjoern-hoecke-muss-vor-gericht-anklage-wegen-volksverhetzung](https://www.spiegel.de/politik/deutschland/afd-bjoern-hoecke-muss-vor-gericht-anklage-wegen-volksverhetzung-a-9f63cf32-bbc6-4bda-af12-a953241fafb5#ref=rss)
+### anklage
+
+* [https://www.spiegel.de/politik/deutschland/afd-bjoern-hoecke-muss-vor-gericht-anklage-wegen-volksverhetzung](https://www.spiegel.de/politik/deutschland/afd-bjoern-hoecke-muss-vor-gericht-anklage-wegen-volksverhetzung-a-9f63cf32-bbc6-4bda-af12-a953241fafb5#ref=rss)
+### volksverhetzung
+
+* [https://www.spiegel.de/politik/deutschland/afd-bjoern-hoecke-muss-vor-gericht-anklage-wegen-volksverhetzung](https://www.spiegel.de/politik/deutschland/afd-bjoern-hoecke-muss-vor-gericht-anklage-wegen-volksverhetzung-a-9f63cf32-bbc6-4bda-af12-a953241fafb5#ref=rss)
+### mäusen
+
+* [https://www.spiegel.de/wissenschaft/gesundheit-wie-der-darm-von-maeusen-auf-stress-reagiert](https://www.spiegel.de/wissenschaft/gesundheit-wie-der-darm-von-maeusen-auf-stress-reagiert-a-f4d7676b-c09c-432c-8d82-21c921411ccf#ref=rss)
+### ifw
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ifw-kiel-wegen-der-angriffe-im-roten-meer-kommen-weniger-schiffe-in-hamburg-an](https://www.spiegel.de/wirtschaft/unternehmen/ifw-kiel-wegen-der-angriffe-im-roten-meer-kommen-weniger-schiffe-in-hamburg-an-a-980642e7-9758-4272-91e4-9b0b1a0e9a72#ref=rss)
+### roten
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ifw-kiel-wegen-der-angriffe-im-roten-meer-kommen-weniger-schiffe-in-hamburg-an](https://www.spiegel.de/wirtschaft/unternehmen/ifw-kiel-wegen-der-angriffe-im-roten-meer-kommen-weniger-schiffe-in-hamburg-an-a-980642e7-9758-4272-91e4-9b0b1a0e9a72#ref=rss)
+### meer
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ifw-kiel-wegen-der-angriffe-im-roten-meer-kommen-weniger-schiffe-in-hamburg-an](https://www.spiegel.de/wirtschaft/unternehmen/ifw-kiel-wegen-der-angriffe-im-roten-meer-kommen-weniger-schiffe-in-hamburg-an-a-980642e7-9758-4272-91e4-9b0b1a0e9a72#ref=rss)
+### lörrach
+
+* [https://www.spiegel.de/netzwelt/web/landkreis-loerrach-daten-von-grundeigentuemern-standen-offen-im-netz](https://www.spiegel.de/netzwelt/web/landkreis-loerrach-daten-von-grundeigentuemern-standen-offen-im-netz-a-a8763d0e-f29a-4f93-bd95-72a66dd8b39a#ref=rss)
+### gleich
+
+* [https://www.spiegel.de/netzwelt/web/landkreis-loerrach-daten-von-grundeigentuemern-standen-offen-im-netz](https://www.spiegel.de/netzwelt/web/landkreis-loerrach-daten-von-grundeigentuemern-standen-offen-im-netz-a-a8763d0e-f29a-4f93-bd95-72a66dd8b39a#ref=rss)
+* [https://www.spiegel.de/ausland/zerstoerungen-im-gazastreifen-eine-schneise-der-verwuestung](https://www.spiegel.de/ausland/zerstoerungen-im-gazastreifen-eine-schneise-der-verwuestung-a-2b970a90-963d-4e1a-8444-5d89fd57a8f5#ref=rss)
+### deutschlands
+
+* [https://www.spiegel.de/netzwelt/web/landkreis-loerrach-daten-von-grundeigentuemern-standen-offen-im-netz](https://www.spiegel.de/netzwelt/web/landkreis-loerrach-daten-von-grundeigentuemern-standen-offen-im-netz-a-a8763d0e-f29a-4f93-bd95-72a66dd8b39a#ref=rss)
+* [https://www.spiegel.de/kultur/andreas-herzau-ist-tot-er-begleitete-kanzlerin-angela-merkel-als-kanzlerin](https://www.spiegel.de/kultur/andreas-herzau-ist-tot-er-begleitete-kanzlerin-angela-merkel-als-kanzlerin-a-ef9aa4f1-da17-42e7-9eff-7971265e056e#ref=rss)
+### wangerooge
+
+* [https://www.spiegel.de/karriere/wangerooge-insel-sucht-leuchtturmwaerter-die-aktuelle-stellenanzeige](https://www.spiegel.de/karriere/wangerooge-insel-sucht-leuchtturmwaerter-die-aktuelle-stellenanzeige-a-cd748ff0-36f1-4097-b248-ec7d995ccbcd#ref=rss)
+### leuchtturmwärter
+
+* [https://www.spiegel.de/karriere/wangerooge-insel-sucht-leuchtturmwaerter-die-aktuelle-stellenanzeige](https://www.spiegel.de/karriere/wangerooge-insel-sucht-leuchtturmwaerter-die-aktuelle-stellenanzeige-a-cd748ff0-36f1-4097-b248-ec7d995ccbcd#ref=rss)
+### gazastreifen
+
+* [https://www.spiegel.de/ausland/zerstoerungen-im-gazastreifen-eine-schneise-der-verwuestung](https://www.spiegel.de/ausland/zerstoerungen-im-gazastreifen-eine-schneise-der-verwuestung-a-2b970a90-963d-4e1a-8444-5d89fd57a8f5#ref=rss)
+### andreas
+
+* [https://www.spiegel.de/kultur/andreas-herzau-ist-tot-er-begleitete-kanzlerin-angela-merkel-als-kanzlerin](https://www.spiegel.de/kultur/andreas-herzau-ist-tot-er-begleitete-kanzlerin-angela-merkel-als-kanzlerin-a-ef9aa4f1-da17-42e7-9eff-7971265e056e#ref=rss)
+### herzau
+
+* [https://www.spiegel.de/kultur/andreas-herzau-ist-tot-er-begleitete-kanzlerin-angela-merkel-als-kanzlerin](https://www.spiegel.de/kultur/andreas-herzau-ist-tot-er-begleitete-kanzlerin-angela-merkel-als-kanzlerin-a-ef9aa4f1-da17-42e7-9eff-7971265e056e#ref=rss)
+### begleitete
+
+* [https://www.spiegel.de/kultur/andreas-herzau-ist-tot-er-begleitete-kanzlerin-angela-merkel-als-kanzlerin](https://www.spiegel.de/kultur/andreas-herzau-ist-tot-er-begleitete-kanzlerin-angela-merkel-als-kanzlerin-a-ef9aa4f1-da17-42e7-9eff-7971265e056e#ref=rss)
+### merkel
+
+* [https://www.spiegel.de/kultur/andreas-herzau-ist-tot-er-begleitete-kanzlerin-angela-merkel-als-kanzlerin](https://www.spiegel.de/kultur/andreas-herzau-ist-tot-er-begleitete-kanzlerin-angela-merkel-als-kanzlerin-a-ef9aa4f1-da17-42e7-9eff-7971265e056e#ref=rss)
 
