@@ -4,351 +4,306 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### leverkusen
-
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-besiegt-fc-bayern-muenchen-war-das-das-meisterstueck](https://www.spiegel.de/sport/fussball/bayer-leverkusen-besiegt-fc-bayern-muenchen-war-das-das-meisterstueck-a-35136b70-8952-4250-930c-281a6d5174ed#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-unterliegt-bayer-leverkusen-liegt-es-an-der-mannschaft-oder-am-trainer](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-unterliegt-bayer-leverkusen-liegt-es-an-der-mannschaft-oder-am-trainer-a-4637d52c-b3d8-4cad-94d4-302791545a47#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-auslosung-fortuna-duesseldorf-trifft-im-halbfinale-auf-bayer-leverkusen](https://www.spiegel.de/sport/fussball/dfb-pokal-auslosung-fortuna-duesseldorf-trifft-im-halbfinale-auf-bayer-leverkusen-a-50430f34-d4d6-40a3-ae01-37df046484d4#ref=rss)
-### 2024
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-70-prozent-der-zuege-sollen-2024-puenktlich-sein](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-70-prozent-der-zuege-sollen-2024-puenktlich-sein-a-1b16d1fb-c89b-482a-8141-1fe41fb16613#ref=rss)
-* [https://www.spiegel.de/sport/american-football/super-bowl-2024-uhrzeit-tv-uebertragung-halbzeitshow-live-ticker](https://www.spiegel.de/sport/american-football/super-bowl-2024-uhrzeit-tv-uebertragung-halbzeitshow-live-ticker-a-c5654222-21d0-4e63-a076-9e8053a996e4#ref=rss)
-* [https://www.spiegel.de/sport/basketball/paris-2024-deutsche-basketballerinnen-muessen-um-olympiaticket-bangen-sabally-verletzt](https://www.spiegel.de/sport/basketball/paris-2024-deutsche-basketballerinnen-muessen-um-olympiaticket-bangen-sabally-verletzt-a-12bbb97b-5c6f-4365-bb47-7620759269c3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-was-sie-zur-wiederholungswahl-wissen-muessen](https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-was-sie-zur-wiederholungswahl-wissen-muessen-a-0e05543f-8bfd-48cd-804a-26191ce58304#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-besiegt-fc-bayern-muenchen-war-das-das-meisterstueck](https://www.spiegel.de/sport/fussball/bayer-leverkusen-besiegt-fc-bayern-muenchen-war-das-das-meisterstueck-a-35136b70-8952-4250-930c-281a6d5174ed#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-unterliegt-bayer-leverkusen-liegt-es-an-der-mannschaft-oder-am-trainer](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-unterliegt-bayer-leverkusen-liegt-es-an-der-mannschaft-oder-am-trainer-a-4637d52c-b3d8-4cad-94d4-302791545a47#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-auslosung-fortuna-duesseldorf-trifft-im-halbfinale-auf-bayer-leverkusen](https://www.spiegel.de/sport/fussball/dfb-pokal-auslosung-fortuna-duesseldorf-trifft-im-halbfinale-auf-bayer-leverkusen-a-50430f34-d4d6-40a3-ae01-37df046484d4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-sc-paderborn-kaempft-sich-beim-1-fc-kaiserslautern-zurueck](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-sc-paderborn-kaempft-sich-beim-1-fc-kaiserslautern-zurueck-a-f1770551-01e1-4e8f-a503-c535b20447c3#ref=rss)
-### erst
-
-* [https://www.spiegel.de/kultur/aktionskuenstler-guenter-brus-ist-tot](https://www.spiegel.de/kultur/aktionskuenstler-guenter-brus-ist-tot-a-69789bb7-b0bf-4632-8bb8-9e8cddbb95be#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/skispringen-in-lake-placid-andreas-wellinger-und-philipp-raimund-fehlen-elf-zentimeter-zum-sieg](https://www.spiegel.de/sport/wintersport/skispringen-in-lake-placid-andreas-wellinger-und-philipp-raimund-fehlen-elf-zentimeter-zum-sieg-a-cd3ee41b-09f7-4a3b-9b4e-1911244bc1dc#ref=rss)
-* [https://www.spiegel.de/gesundheit/erkaeltung-wird-man-krank-wenn-man-mit-nassen-haaren-rausgeht](https://www.spiegel.de/gesundheit/erkaeltung-wird-man-krank-wenn-man-mit-nassen-haaren-rausgeht-a-24f7aa91-77c1-46a0-9e87-c89688f02979#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-auslosung-fortuna-duesseldorf-trifft-im-halbfinale-auf-bayer-leverkusen](https://www.spiegel.de/sport/fussball/dfb-pokal-auslosung-fortuna-duesseldorf-trifft-im-halbfinale-auf-bayer-leverkusen-a-50430f34-d4d6-40a3-ae01-37df046484d4#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-besiegt-fc-bayern-muenchen-war-das-das-meisterstueck](https://www.spiegel.de/sport/fussball/bayer-leverkusen-besiegt-fc-bayern-muenchen-war-das-das-meisterstueck-a-35136b70-8952-4250-930c-281a6d5174ed#ref=rss)
-* [https://www.spiegel.de/panorama/neutraubling-in-bayern-arbeiter-stuerzt-16-meter-in-die-tiefe-und-ueberlebt](https://www.spiegel.de/panorama/neutraubling-in-bayern-arbeiter-stuerzt-16-meter-in-die-tiefe-und-ueberlebt-a-2edfddf8-79bf-4148-bad6-620a322bc1e3#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-unterliegt-bayer-leverkusen-liegt-es-an-der-mannschaft-oder-am-trainer](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-unterliegt-bayer-leverkusen-liegt-es-an-der-mannschaft-oder-am-trainer-a-4637d52c-b3d8-4cad-94d4-302791545a47#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-kiew-meldet-dutzende-russische-luftangriffe](https://www.spiegel.de/ausland/krieg-in-der-ukraine-kiew-meldet-dutzende-russische-luftangriffe-a-c947bf15-3b7f-45eb-95bf-99fc265dfad3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-anton-hofreiter-nennt-festhalten-an-schuldenbremse-ein-sicherheitsrisiko](https://www.spiegel.de/politik/deutschland/ukraine-krieg-anton-hofreiter-nennt-festhalten-an-schuldenbremse-ein-sicherheitsrisiko-a-7e9ae7e1-7d35-4011-9f6d-8c1879c02981#ref=rss)
-### super
-
-* [https://www.spiegel.de/sport/american-football/super-bowl-2024-uhrzeit-tv-uebertragung-halbzeitshow-live-ticker](https://www.spiegel.de/sport/american-football/super-bowl-2024-uhrzeit-tv-uebertragung-halbzeitshow-live-ticker-a-c5654222-21d0-4e63-a076-9e8053a996e4#ref=rss)
-* [https://www.spiegel.de/panorama/leute/taylor-swift-vor-dem-super-bowl-aufatmen-sie-ist-da](https://www.spiegel.de/panorama/leute/taylor-swift-vor-dem-super-bowl-aufatmen-sie-ist-da-a-b5ad6c7c-cda0-4bb3-89c4-7f27f071c6f2#ref=rss)
-### bowl
-
-* [https://www.spiegel.de/sport/american-football/super-bowl-2024-uhrzeit-tv-uebertragung-halbzeitshow-live-ticker](https://www.spiegel.de/sport/american-football/super-bowl-2024-uhrzeit-tv-uebertragung-halbzeitshow-live-ticker-a-c5654222-21d0-4e63-a076-9e8053a996e4#ref=rss)
-* [https://www.spiegel.de/panorama/leute/taylor-swift-vor-dem-super-bowl-aufatmen-sie-ist-da](https://www.spiegel.de/panorama/leute/taylor-swift-vor-dem-super-bowl-aufatmen-sie-ist-da-a-b5ad6c7c-cda0-4bb3-89c4-7f27f071c6f2#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/wird-uns-michelle-obama-vor-donald-trump-retten-kolumne](https://www.spiegel.de/ausland/wird-uns-michelle-obama-vor-donald-trump-retten-kolumne-a-723e60b9-f2a3-499c-93d6-ffe50f8bb409#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-deutschland-normal-liebe-und-sexualitaet-touristen-am-ort-des-terrors](https://www.spiegel.de/politik/deutschland/news-deutschland-normal-liebe-und-sexualitaet-touristen-am-ort-des-terrors-a-63688747-4e67-43fa-94f9-98573afc3982#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-wuerde-saeumige-nato-mitglieder-nicht-vor-russland-schuetzen](https://www.spiegel.de/ausland/donald-trump-wuerde-saeumige-nato-mitglieder-nicht-vor-russland-schuetzen-a-c5651f35-4c8b-40a6-ad46-96a929683507#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/panorama/bildung/nach-manipulationsvorwuerfen-kieler-uni-praesidentin-simone-fulda-tritt-zurueck](https://www.spiegel.de/panorama/bildung/nach-manipulationsvorwuerfen-kieler-uni-praesidentin-simone-fulda-tritt-zurueck-a-7db7c94a-78fe-4a95-9e50-3abfde95a7a0#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-sc-paderborn-kaempft-sich-beim-1-fc-kaiserslautern-zurueck](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-sc-paderborn-kaempft-sich-beim-1-fc-kaiserslautern-zurueck-a-f1770551-01e1-4e8f-a503-c535b20447c3#ref=rss)
-### bayer
-
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-besiegt-fc-bayern-muenchen-war-das-das-meisterstueck](https://www.spiegel.de/sport/fussball/bayer-leverkusen-besiegt-fc-bayern-muenchen-war-das-das-meisterstueck-a-35136b70-8952-4250-930c-281a6d5174ed#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-unterliegt-bayer-leverkusen-liegt-es-an-der-mannschaft-oder-am-trainer](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-unterliegt-bayer-leverkusen-liegt-es-an-der-mannschaft-oder-am-trainer-a-4637d52c-b3d8-4cad-94d4-302791545a47#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-auslosung-fortuna-duesseldorf-trifft-im-halbfinale-auf-bayer-leverkusen](https://www.spiegel.de/sport/fussball/dfb-pokal-auslosung-fortuna-duesseldorf-trifft-im-halbfinale-auf-bayer-leverkusen-a-50430f34-d4d6-40a3-ae01-37df046484d4#ref=rss)
-### trainer
-
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-besiegt-fc-bayern-muenchen-war-das-das-meisterstueck](https://www.spiegel.de/sport/fussball/bayer-leverkusen-besiegt-fc-bayern-muenchen-war-das-das-meisterstueck-a-35136b70-8952-4250-930c-281a6d5174ed#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-unterliegt-bayer-leverkusen-liegt-es-an-der-mannschaft-oder-am-trainer](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-unterliegt-bayer-leverkusen-liegt-es-an-der-mannschaft-oder-am-trainer-a-4637d52c-b3d8-4cad-94d4-302791545a47#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-kiew-meldet-dutzende-russische-luftangriffe](https://www.spiegel.de/ausland/krieg-in-der-ukraine-kiew-meldet-dutzende-russische-luftangriffe-a-c947bf15-3b7f-45eb-95bf-99fc265dfad3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-anton-hofreiter-nennt-festhalten-an-schuldenbremse-ein-sicherheitsrisiko](https://www.spiegel.de/politik/deutschland/ukraine-krieg-anton-hofreiter-nennt-festhalten-an-schuldenbremse-ein-sicherheitsrisiko-a-7e9ae7e1-7d35-4011-9f6d-8c1879c02981#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-wuerde-saeumige-nato-mitglieder-nicht-vor-russland-schuetzen](https://www.spiegel.de/ausland/donald-trump-wuerde-saeumige-nato-mitglieder-nicht-vor-russland-schuetzen-a-c5651f35-4c8b-40a6-ad46-96a929683507#ref=rss)
-### süden
-
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-kiew-meldet-dutzende-russische-luftangriffe](https://www.spiegel.de/ausland/krieg-in-der-ukraine-kiew-meldet-dutzende-russische-luftangriffe-a-c947bf15-3b7f-45eb-95bf-99fc265dfad3#ref=rss)
-* [https://www.spiegel.de/ausland/rafah-die-menschen-im-sueden-des-gazastreifens-fuerchten-israels-vorruecken](https://www.spiegel.de/ausland/rafah-die-menschen-im-sueden-des-gazastreifens-fuerchten-israels-vorruecken-a-9ea9b5f3-907a-4f13-b404-4afba33d7d7e#ref=rss)
-### alles
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-70-prozent-der-zuege-sollen-2024-puenktlich-sein](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-70-prozent-der-zuege-sollen-2024-puenktlich-sein-a-1b16d1fb-c89b-482a-8141-1fe41fb16613#ref=rss)
-* [https://www.spiegel.de/sport/american-football/super-bowl-2024-uhrzeit-tv-uebertragung-halbzeitshow-live-ticker](https://www.spiegel.de/sport/american-football/super-bowl-2024-uhrzeit-tv-uebertragung-halbzeitshow-live-ticker-a-c5654222-21d0-4e63-a076-9e8053a996e4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-deutschland-normal-liebe-und-sexualitaet-touristen-am-ort-des-terrors](https://www.spiegel.de/politik/deutschland/news-deutschland-normal-liebe-und-sexualitaet-touristen-am-ort-des-terrors-a-63688747-4e67-43fa-94f9-98573afc3982#ref=rss)
-### deutschlands
-
-* [https://www.spiegel.de/sport/basketball/paris-2024-deutsche-basketballerinnen-muessen-um-olympiaticket-bangen-sabally-verletzt](https://www.spiegel.de/sport/basketball/paris-2024-deutsche-basketballerinnen-muessen-um-olympiaticket-bangen-sabally-verletzt-a-12bbb97b-5c6f-4365-bb47-7620759269c3#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/biathlon-wm-in-nove-mesto-deutschland-hadert-mit-material-kotzt-mich-ziemlich-an](https://www.spiegel.de/sport/wintersport/biathlon-wm-in-nove-mesto-deutschland-hadert-mit-material-kotzt-mich-ziemlich-an-a-18c20063-2d4c-4387-bd03-77736eaac0a7#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-unterliegt-bayer-leverkusen-liegt-es-an-der-mannschaft-oder-am-trainer](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-unterliegt-bayer-leverkusen-liegt-es-an-der-mannschaft-oder-am-trainer-a-4637d52c-b3d8-4cad-94d4-302791545a47#ref=rss)
+* [https://www.spiegel.de/ausland/polen-kritisiert-aeusserung-von-donald-trump-zu-nato-beistandspflicht](https://www.spiegel.de/ausland/polen-kritisiert-aeusserung-von-donald-trump-zu-nato-beistandspflicht-a-f0ec4b97-4193-468a-8eb1-946fa6e3a1ed#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wie-der-ex-us-praesident-die-gerichte-als-wahlkampfbuehne-nutzt](https://www.spiegel.de/ausland/donald-trump-wie-der-ex-us-praesident-die-gerichte-als-wahlkampfbuehne-nutzt-a-50c6a2c5-a950-45da-9a08-cffc86a947a6#ref=rss)
+* [https://www.spiegel.de/ausland/nato-generalsekretaer-stoltenberg-zu-trump-aussagen-untergraebt-unsere-gesamte-sicherheit](https://www.spiegel.de/ausland/nato-generalsekretaer-stoltenberg-zu-trump-aussagen-untergraebt-unsere-gesamte-sicherheit-a-d7906dfc-1749-4bfd-932c-a045a66ab0a7#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/wird-uns-michelle-obama-vor-donald-trump-retten-kolumne](https://www.spiegel.de/ausland/wird-uns-michelle-obama-vor-donald-trump-retten-kolumne-a-723e60b9-f2a3-499c-93d6-ffe50f8bb409#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-wuerde-saeumige-nato-mitglieder-nicht-vor-russland-schuetzen](https://www.spiegel.de/ausland/donald-trump-wuerde-saeumige-nato-mitglieder-nicht-vor-russland-schuetzen-a-c5651f35-4c8b-40a6-ad46-96a929683507#ref=rss)
-### kaiserslautern
+* [https://www.spiegel.de/ausland/polen-kritisiert-aeusserung-von-donald-trump-zu-nato-beistandspflicht](https://www.spiegel.de/ausland/polen-kritisiert-aeusserung-von-donald-trump-zu-nato-beistandspflicht-a-f0ec4b97-4193-468a-8eb1-946fa6e3a1ed#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wie-der-ex-us-praesident-die-gerichte-als-wahlkampfbuehne-nutzt](https://www.spiegel.de/ausland/donald-trump-wie-der-ex-us-praesident-die-gerichte-als-wahlkampfbuehne-nutzt-a-50c6a2c5-a950-45da-9a08-cffc86a947a6#ref=rss)
+* [https://www.spiegel.de/ausland/nato-generalsekretaer-stoltenberg-zu-trump-aussagen-untergraebt-unsere-gesamte-sicherheit](https://www.spiegel.de/ausland/nato-generalsekretaer-stoltenberg-zu-trump-aussagen-untergraebt-unsere-gesamte-sicherheit-a-d7906dfc-1749-4bfd-932c-a045a66ab0a7#ref=rss)
+### warnt
 
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-auslosung-fortuna-duesseldorf-trifft-im-halbfinale-auf-bayer-leverkusen](https://www.spiegel.de/sport/fussball/dfb-pokal-auslosung-fortuna-duesseldorf-trifft-im-halbfinale-auf-bayer-leverkusen-a-50430f34-d4d6-40a3-ae01-37df046484d4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-sc-paderborn-kaempft-sich-beim-1-fc-kaiserslautern-zurueck](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-sc-paderborn-kaempft-sich-beim-1-fc-kaiserslautern-zurueck-a-f1770551-01e1-4e8f-a503-c535b20447c3#ref=rss)
-### simone
+* [https://www.spiegel.de/ausland/aegypten-warnt-israel-wegen-moeglicher-rafah-offensive-vor-schrecklichen-konsequenzen](https://www.spiegel.de/ausland/aegypten-warnt-israel-wegen-moeglicher-rafah-offensive-vor-schrecklichen-konsequenzen-a-108e3188-524f-46db-b9e8-b173fab0a599#ref=rss)
+* [https://www.spiegel.de/ausland/nato-generalsekretaer-stoltenberg-zu-trump-aussagen-untergraebt-unsere-gesamte-sicherheit](https://www.spiegel.de/ausland/nato-generalsekretaer-stoltenberg-zu-trump-aussagen-untergraebt-unsere-gesamte-sicherheit-a-d7906dfc-1749-4bfd-932c-a045a66ab0a7#ref=rss)
+### 2024
 
-* [https://www.spiegel.de/panorama/bildung/nach-manipulationsvorwuerfen-kieler-uni-praesidentin-simone-fulda-tritt-zurueck](https://www.spiegel.de/panorama/bildung/nach-manipulationsvorwuerfen-kieler-uni-praesidentin-simone-fulda-tritt-zurueck-a-7db7c94a-78fe-4a95-9e50-3abfde95a7a0#ref=rss)
-### fulda
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-erneut-kleinere-pannen-bei-wiederholungswahl](https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-erneut-kleinere-pannen-bei-wiederholungswahl-a-de36d676-9718-42a1-97a8-f03dbe8ee091#ref=rss)
+* [https://www.spiegel.de/ausland/superwahljahr-2024-in-grafiken-rund-die-haelfte-der-weltbevoelkerung-ist-zu-wahlen-aufgerufen](https://www.spiegel.de/ausland/superwahljahr-2024-in-grafiken-rund-die-haelfte-der-weltbevoelkerung-ist-zu-wahlen-aufgerufen-a-dae06614-a1fb-47fc-baee-9c519b7da694#ref=rss)
+### bundestagswahl
 
-* [https://www.spiegel.de/panorama/bildung/nach-manipulationsvorwuerfen-kieler-uni-praesidentin-simone-fulda-tritt-zurueck](https://www.spiegel.de/panorama/bildung/nach-manipulationsvorwuerfen-kieler-uni-praesidentin-simone-fulda-tritt-zurueck-a-7db7c94a-78fe-4a95-9e50-3abfde95a7a0#ref=rss)
-### münchen
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-erneut-kleinere-pannen-bei-wiederholungswahl](https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-erneut-kleinere-pannen-bei-wiederholungswahl-a-de36d676-9718-42a1-97a8-f03dbe8ee091#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wiederholung-der-bundestagswahl-2021-in-berlin-alle-ergebnisse-im-ueberblick](https://www.spiegel.de/politik/deutschland/wiederholung-der-bundestagswahl-2021-in-berlin-alle-ergebnisse-im-ueberblick-a-d69971a2-8311-4b10-80bb-d088a585a3d3#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-besiegt-fc-bayern-muenchen-war-das-das-meisterstueck](https://www.spiegel.de/sport/fussball/bayer-leverkusen-besiegt-fc-bayern-muenchen-war-das-das-meisterstueck-a-35136b70-8952-4250-930c-281a6d5174ed#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-unterliegt-bayer-leverkusen-liegt-es-an-der-mannschaft-oder-am-trainer](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-unterliegt-bayer-leverkusen-liegt-es-an-der-mannschaft-oder-am-trainer-a-4637d52c-b3d8-4cad-94d4-302791545a47#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-erneut-kleinere-pannen-bei-wiederholungswahl](https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-erneut-kleinere-pannen-bei-wiederholungswahl-a-de36d676-9718-42a1-97a8-f03dbe8ee091#ref=rss)
+* [https://www.spiegel.de/kultur/berlin-hannah-arendt-lesung-nach-propalaestinensischem-protest-abgebrochen](https://www.spiegel.de/kultur/berlin-hannah-arendt-lesung-nach-propalaestinensischem-protest-abgebrochen-a-f62f1c71-bf53-476c-8247-d95389172a91#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wiederholung-der-bundestagswahl-2021-in-berlin-alle-ergebnisse-im-ueberblick](https://www.spiegel.de/politik/deutschland/wiederholung-der-bundestagswahl-2021-in-berlin-alle-ergebnisse-im-ueberblick-a-d69971a2-8311-4b10-80bb-d088a585a3d3#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/sport/fussball/serie-a-jerome-boatengs-klub-us-salernitana-trennt-sich-von-coach-filippo-inzaghi](https://www.spiegel.de/sport/fussball/serie-a-jerome-boatengs-klub-us-salernitana-trennt-sich-von-coach-filippo-inzaghi-a-82e1240e-355e-4ea3-b65c-aed1a7e4d206#ref=rss)
+* [https://www.spiegel.de/ausland/hat-argentiniens-praesident-den-papst-etwa-doch-ganz-gern](https://www.spiegel.de/ausland/hat-argentiniens-praesident-den-papst-etwa-doch-ganz-gern-a-0de07eb2-98f8-4746-92c1-6e47fd0f38b4#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/ausland/busfahrer-aus-kenia-sollen-den-deutschen-nahverkehr-retten](https://www.spiegel.de/ausland/busfahrer-aus-kenia-sollen-den-deutschen-nahverkehr-retten-a-eec896a1-e938-41f8-bc3e-aea81fb6867e#ref=rss)
+* [https://www.spiegel.de/kultur/juedisches-leben-in-deutschland-vergesst-eure-deutschen-klischees-ueber-juden](https://www.spiegel.de/kultur/juedisches-leben-in-deutschland-vergesst-eure-deutschen-klischees-ueber-juden-a-a80aba21-1ee2-4c35-bddc-5388838e2f3b#ref=rss)
+### ägypten
+
+* [https://www.spiegel.de/ausland/aegypten-warnt-israel-wegen-moeglicher-rafah-offensive-vor-schrecklichen-konsequenzen](https://www.spiegel.de/ausland/aegypten-warnt-israel-wegen-moeglicher-rafah-offensive-vor-schrecklichen-konsequenzen-a-108e3188-524f-46db-b9e8-b173fab0a599#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/aegypten-warnt-israel-wegen-moeglicher-rafah-offensive-vor-schrecklichen-konsequenzen](https://www.spiegel.de/ausland/aegypten-warnt-israel-wegen-moeglicher-rafah-offensive-vor-schrecklichen-konsequenzen-a-108e3188-524f-46db-b9e8-b173fab0a599#ref=rss)
+* [https://www.spiegel.de/ausland/iranisches-regime-feiert-jahrestag-der-revolution-und-wuetet-gegen-israel](https://www.spiegel.de/ausland/iranisches-regime-feiert-jahrestag-der-revolution-und-wuetet-gegen-israel-a-97f1a43c-d0e8-42fc-8fdb-1d64eb653c49#ref=rss)
+### konsequenzen
+
+* [https://www.spiegel.de/ausland/aegypten-warnt-israel-wegen-moeglicher-rafah-offensive-vor-schrecklichen-konsequenzen](https://www.spiegel.de/ausland/aegypten-warnt-israel-wegen-moeglicher-rafah-offensive-vor-schrecklichen-konsequenzen-a-108e3188-524f-46db-b9e8-b173fab0a599#ref=rss)
+* [https://www.spiegel.de/gesundheit/alkohol-als-alltagsdroge-party-tod-und-tradition](https://www.spiegel.de/gesundheit/alkohol-als-alltagsdroge-party-tod-und-tradition-a-4a475c3d-836c-4d0e-ae14-6e421f9fbd53#ref=rss)
+### extrem
+
+* [https://www.spiegel.de/ausland/aegypten-warnt-israel-wegen-moeglicher-rafah-offensive-vor-schrecklichen-konsequenzen](https://www.spiegel.de/ausland/aegypten-warnt-israel-wegen-moeglicher-rafah-offensive-vor-schrecklichen-konsequenzen-a-108e3188-524f-46db-b9e8-b173fab0a599#ref=rss)
+* [https://www.spiegel.de/ausland/hat-argentiniens-praesident-den-papst-etwa-doch-ganz-gern](https://www.spiegel.de/ausland/hat-argentiniens-praesident-den-papst-etwa-doch-ganz-gern-a-0de07eb2-98f8-4746-92c1-6e47fd0f38b4#ref=rss)
+### peta
+
+* [https://www.spiegel.de/panorama/gesellschaft/peta-fordert-verbot-von-karusselltieren](https://www.spiegel.de/panorama/gesellschaft/peta-fordert-verbot-von-karusselltieren-a-143b1c67-ac46-4cdd-ac97-93fa60b8201e#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/panorama/gesellschaft/peta-fordert-verbot-von-karusselltieren](https://www.spiegel.de/panorama/gesellschaft/peta-fordert-verbot-von-karusselltieren-a-143b1c67-ac46-4cdd-ac97-93fa60b8201e#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-besiegt-fc-bayern-muenchen-war-das-das-meisterstueck](https://www.spiegel.de/sport/fussball/bayer-leverkusen-besiegt-fc-bayern-muenchen-war-das-das-meisterstueck-a-35136b70-8952-4250-930c-281a6d5174ed#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-netanyahu-verspricht-zivilisten-sicheren-korridor](https://www.spiegel.de/ausland/israel-gaza-krieg-netanyahu-verspricht-zivilisten-sicheren-korridor-a-7558bdc4-42cf-45dd-92b8-fd0c122748c7#ref=rss)
-### wirkt
+* [https://www.spiegel.de/panorama/gesellschaft/peta-fordert-verbot-von-karusselltieren](https://www.spiegel.de/panorama/gesellschaft/peta-fordert-verbot-von-karusselltieren-a-143b1c67-ac46-4cdd-ac97-93fa60b8201e#ref=rss)
+* [https://www.spiegel.de/ausland/verkauf-von-us-kampfjets-an-die-tuerkei-steht-nichts-mehr-im-wege](https://www.spiegel.de/ausland/verkauf-von-us-kampfjets-an-die-tuerkei-steht-nichts-mehr-im-wege-a-2d6fc3d4-3042-4ae1-bbaa-82b8f3bb704a#ref=rss)
+### kinder
 
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-besiegt-fc-bayern-muenchen-war-das-das-meisterstueck](https://www.spiegel.de/sport/fussball/bayer-leverkusen-besiegt-fc-bayern-muenchen-war-das-das-meisterstueck-a-35136b70-8952-4250-930c-281a6d5174ed#ref=rss)
-* [https://www.spiegel.de/ausland/wird-uns-michelle-obama-vor-donald-trump-retten-kolumne](https://www.spiegel.de/ausland/wird-uns-michelle-obama-vor-donald-trump-retten-kolumne-a-723e60b9-f2a3-499c-93d6-ffe50f8bb409#ref=rss)
-### diesen
+* [https://www.spiegel.de/panorama/gesellschaft/peta-fordert-verbot-von-karusselltieren](https://www.spiegel.de/panorama/gesellschaft/peta-fordert-verbot-von-karusselltieren-a-143b1c67-ac46-4cdd-ac97-93fa60b8201e#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/frankreich-premier-gabriel-attal-will-altersgrenze-fuer-soziale-medien-einfuehren](https://www.spiegel.de/netzwelt/netzpolitik/frankreich-premier-gabriel-attal-will-altersgrenze-fuer-soziale-medien-einfuehren-a-7f5068b5-b74c-4ba0-b9d3-6bb8d37101ba#ref=rss)
+### pannen
 
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-besiegt-fc-bayern-muenchen-war-das-das-meisterstueck](https://www.spiegel.de/sport/fussball/bayer-leverkusen-besiegt-fc-bayern-muenchen-war-das-das-meisterstueck-a-35136b70-8952-4250-930c-281a6d5174ed#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/aegypten-eroeffnung-der-grabkammer-des-neferhotep-restauratorin-befuerchtet-schaeden](https://www.spiegel.de/wissenschaft/mensch/aegypten-eroeffnung-der-grabkammer-des-neferhotep-restauratorin-befuerchtet-schaeden-a-4b3e5a3d-4456-46ff-904f-7373395b5bc5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-erneut-kleinere-pannen-bei-wiederholungswahl](https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-erneut-kleinere-pannen-bei-wiederholungswahl-a-de36d676-9718-42a1-97a8-f03dbe8ee091#ref=rss)
+### wiederholung
+
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-erneut-kleinere-pannen-bei-wiederholungswahl](https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-erneut-kleinere-pannen-bei-wiederholungswahl-a-de36d676-9718-42a1-97a8-f03dbe8ee091#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wiederholung-der-bundestagswahl-2021-in-berlin-alle-ergebnisse-im-ueberblick](https://www.spiegel.de/politik/deutschland/wiederholung-der-bundestagswahl-2021-in-berlin-alle-ergebnisse-im-ueberblick-a-d69971a2-8311-4b10-80bb-d088a585a3d3#ref=rss)
+### laut
+
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-erneut-kleinere-pannen-bei-wiederholungswahl](https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-erneut-kleinere-pannen-bei-wiederholungswahl-a-de36d676-9718-42a1-97a8-f03dbe8ee091#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/kleinstadt-bei-rom-rottweiler-beissen-jogger-tot](https://www.spiegel.de/panorama/justiz/kleinstadt-bei-rom-rottweiler-beissen-jogger-tot-a-d82deade-5052-4e56-a482-c66092de9ef4#ref=rss)
+### polen
+
+* [https://www.spiegel.de/ausland/polen-kritisiert-aeusserung-von-donald-trump-zu-nato-beistandspflicht](https://www.spiegel.de/ausland/polen-kritisiert-aeusserung-von-donald-trump-zu-nato-beistandspflicht-a-f0ec4b97-4193-468a-8eb1-946fa6e3a1ed#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/ausland/polen-kritisiert-aeusserung-von-donald-trump-zu-nato-beistandspflicht](https://www.spiegel.de/ausland/polen-kritisiert-aeusserung-von-donald-trump-zu-nato-beistandspflicht-a-f0ec4b97-4193-468a-8eb1-946fa6e3a1ed#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-eigentor-von-torhueterin-johannes-wolfsburg-bezwingt-frankfurt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-eigentor-von-torhueterin-johannes-wolfsburg-bezwingt-frankfurt-a-19bad2df-3b78-4b3c-95e9-a75504abb407#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/tests/elektronik/creative-outlier-free-pro-shokz-openfit-und-huawei-freeclip-open-ear-kopfhoerer-im-test](https://www.spiegel.de/tests/elektronik/creative-outlier-free-pro-shokz-openfit-und-huawei-freeclip-open-ear-kopfhoerer-im-test-a-82dbc2e4-0bac-4238-978a-adba57e827ad#ref=rss)
+### wir
+
+* [https://www.spiegel.de/tests/elektronik/creative-outlier-free-pro-shokz-openfit-und-huawei-freeclip-open-ear-kopfhoerer-im-test](https://www.spiegel.de/tests/elektronik/creative-outlier-free-pro-shokz-openfit-und-huawei-freeclip-open-ear-kopfhoerer-im-test-a-82dbc2e4-0bac-4238-978a-adba57e827ad#ref=rss)
+* [https://www.spiegel.de/ausland/superwahljahr-2024-in-grafiken-rund-die-haelfte-der-weltbevoelkerung-ist-zu-wahlen-aufgerufen](https://www.spiegel.de/ausland/superwahljahr-2024-in-grafiken-rund-die-haelfte-der-weltbevoelkerung-ist-zu-wahlen-aufgerufen-a-dae06614-a1fb-47fc-baee-9c519b7da694#ref=rss)
+### drei
+
+* [https://www.spiegel.de/tests/elektronik/creative-outlier-free-pro-shokz-openfit-und-huawei-freeclip-open-ear-kopfhoerer-im-test](https://www.spiegel.de/tests/elektronik/creative-outlier-free-pro-shokz-openfit-und-huawei-freeclip-open-ear-kopfhoerer-im-test-a-82dbc2e4-0bac-4238-978a-adba57e827ad#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/kleinstadt-bei-rom-rottweiler-beissen-jogger-tot](https://www.spiegel.de/panorama/justiz/kleinstadt-bei-rom-rottweiler-beissen-jogger-tot-a-d82deade-5052-4e56-a482-c66092de9ef4#ref=rss)
+### 2021
+
+* [https://www.spiegel.de/politik/deutschland/wiederholung-der-bundestagswahl-2021-in-berlin-alle-ergebnisse-im-ueberblick](https://www.spiegel.de/politik/deutschland/wiederholung-der-bundestagswahl-2021-in-berlin-alle-ergebnisse-im-ueberblick-a-d69971a2-8311-4b10-80bb-d088a585a3d3#ref=rss)
+### alle
+
+* [https://www.spiegel.de/politik/deutschland/wiederholung-der-bundestagswahl-2021-in-berlin-alle-ergebnisse-im-ueberblick](https://www.spiegel.de/politik/deutschland/wiederholung-der-bundestagswahl-2021-in-berlin-alle-ergebnisse-im-ueberblick-a-d69971a2-8311-4b10-80bb-d088a585a3d3#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/frankreich-premier-gabriel-attal-will-altersgrenze-fuer-soziale-medien-einfuehren](https://www.spiegel.de/netzwelt/netzpolitik/frankreich-premier-gabriel-attal-will-altersgrenze-fuer-soziale-medien-einfuehren-a-7f5068b5-b74c-4ba0-b9d3-6bb8d37101ba#ref=rss)
+### grafiken
+
+* [https://www.spiegel.de/politik/deutschland/wiederholung-der-bundestagswahl-2021-in-berlin-alle-ergebnisse-im-ueberblick](https://www.spiegel.de/politik/deutschland/wiederholung-der-bundestagswahl-2021-in-berlin-alle-ergebnisse-im-ueberblick-a-d69971a2-8311-4b10-80bb-d088a585a3d3#ref=rss)
+* [https://www.spiegel.de/ausland/superwahljahr-2024-in-grafiken-rund-die-haelfte-der-weltbevoelkerung-ist-zu-wahlen-aufgerufen](https://www.spiegel.de/ausland/superwahljahr-2024-in-grafiken-rund-die-haelfte-der-weltbevoelkerung-ist-zu-wahlen-aufgerufen-a-dae06614-a1fb-47fc-baee-9c519b7da694#ref=rss)
+### bundesliga
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-wieder-tennisball-protest-vfb-stuttgart-schlaegt-mainz-05-muehelos](https://www.spiegel.de/sport/fussball/fussball-bundesliga-wieder-tennisball-protest-vfb-stuttgart-schlaegt-mainz-05-muehelos-a-8ccbadd3-77ee-4cce-8267-a71afdd08002#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-holstein-kiel-neuer-tabellenzweiter-auch-hertha-bsc-jubelt](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-holstein-kiel-neuer-tabellenzweiter-auch-hertha-bsc-jubelt-a-489503c6-5473-4b56-a1cb-2eea19aac1cc#ref=rss)
+### vfb
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-wieder-tennisball-protest-vfb-stuttgart-schlaegt-mainz-05-muehelos](https://www.spiegel.de/sport/fussball/fussball-bundesliga-wieder-tennisball-protest-vfb-stuttgart-schlaegt-mainz-05-muehelos-a-8ccbadd3-77ee-4cce-8267-a71afdd08002#ref=rss)
+### stuttgart
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-wieder-tennisball-protest-vfb-stuttgart-schlaegt-mainz-05-muehelos](https://www.spiegel.de/sport/fussball/fussball-bundesliga-wieder-tennisball-protest-vfb-stuttgart-schlaegt-mainz-05-muehelos-a-8ccbadd3-77ee-4cce-8267-a71afdd08002#ref=rss)
+### mainz
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-wieder-tennisball-protest-vfb-stuttgart-schlaegt-mainz-05-muehelos](https://www.spiegel.de/sport/fussball/fussball-bundesliga-wieder-tennisball-protest-vfb-stuttgart-schlaegt-mainz-05-muehelos-a-8ccbadd3-77ee-4cce-8267-a71afdd08002#ref=rss)
+### nutzt
+
+* [https://www.spiegel.de/ausland/donald-trump-wie-der-ex-us-praesident-die-gerichte-als-wahlkampfbuehne-nutzt](https://www.spiegel.de/ausland/donald-trump-wie-der-ex-us-praesident-die-gerichte-als-wahlkampfbuehne-nutzt-a-50c6a2c5-a950-45da-9a08-cffc86a947a6#ref=rss)
+### vier
+
+* [https://www.spiegel.de/ausland/donald-trump-wie-der-ex-us-praesident-die-gerichte-als-wahlkampfbuehne-nutzt](https://www.spiegel.de/ausland/donald-trump-wie-der-ex-us-praesident-die-gerichte-als-wahlkampfbuehne-nutzt-a-50c6a2c5-a950-45da-9a08-cffc86a947a6#ref=rss)
+* [https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-das-dreieck](https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-das-dreieck-a-490bc66e-993a-41f7-aa34-2c88a06202cd#ref=rss)
+### wahlkampf
+
+* [https://www.spiegel.de/ausland/donald-trump-wie-der-ex-us-praesident-die-gerichte-als-wahlkampfbuehne-nutzt](https://www.spiegel.de/ausland/donald-trump-wie-der-ex-us-praesident-die-gerichte-als-wahlkampfbuehne-nutzt-a-50c6a2c5-a950-45da-9a08-cffc86a947a6#ref=rss)
+* [https://www.spiegel.de/ausland/hat-argentiniens-praesident-den-papst-etwa-doch-ganz-gern](https://www.spiegel.de/ausland/hat-argentiniens-praesident-den-papst-etwa-doch-ganz-gern-a-0de07eb2-98f8-4746-92c1-6e47fd0f38b4#ref=rss)
+### jérôme
+
+* [https://www.spiegel.de/sport/fussball/serie-a-jerome-boatengs-klub-us-salernitana-trennt-sich-von-coach-filippo-inzaghi](https://www.spiegel.de/sport/fussball/serie-a-jerome-boatengs-klub-us-salernitana-trennt-sich-von-coach-filippo-inzaghi-a-82e1240e-355e-4ea3-b65c-aed1a7e4d206#ref=rss)
 ### klub
 
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-besiegt-fc-bayern-muenchen-war-das-das-meisterstueck](https://www.spiegel.de/sport/fussball/bayer-leverkusen-besiegt-fc-bayern-muenchen-war-das-das-meisterstueck-a-35136b70-8952-4250-930c-281a6d5174ed#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-basketball-starkes-debuet-von-weltmeister-dennis-schroeder-bei-brooklin-nets](https://www.spiegel.de/sport/basketball/nba-basketball-starkes-debuet-von-weltmeister-dennis-schroeder-bei-brooklin-nets-a-162810cf-5461-4688-8ad3-a402cf929cc4#ref=rss)
-### günter
+* [https://www.spiegel.de/sport/fussball/serie-a-jerome-boatengs-klub-us-salernitana-trennt-sich-von-coach-filippo-inzaghi](https://www.spiegel.de/sport/fussball/serie-a-jerome-boatengs-klub-us-salernitana-trennt-sich-von-coach-filippo-inzaghi-a-82e1240e-355e-4ea3-b65c-aed1a7e4d206#ref=rss)
+### us
 
-* [https://www.spiegel.de/kultur/aktionskuenstler-guenter-brus-ist-tot](https://www.spiegel.de/kultur/aktionskuenstler-guenter-brus-ist-tot-a-69789bb7-b0bf-4632-8bb8-9e8cddbb95be#ref=rss)
-### brus
+* [https://www.spiegel.de/sport/fussball/serie-a-jerome-boatengs-klub-us-salernitana-trennt-sich-von-coach-filippo-inzaghi](https://www.spiegel.de/sport/fussball/serie-a-jerome-boatengs-klub-us-salernitana-trennt-sich-von-coach-filippo-inzaghi-a-82e1240e-355e-4ea3-b65c-aed1a7e4d206#ref=rss)
+### salernitana
 
-* [https://www.spiegel.de/kultur/aktionskuenstler-guenter-brus-ist-tot](https://www.spiegel.de/kultur/aktionskuenstler-guenter-brus-ist-tot-a-69789bb7-b0bf-4632-8bb8-9e8cddbb95be#ref=rss)
-### ampelkoalition
+* [https://www.spiegel.de/sport/fussball/serie-a-jerome-boatengs-klub-us-salernitana-trennt-sich-von-coach-filippo-inzaghi](https://www.spiegel.de/sport/fussball/serie-a-jerome-boatengs-klub-us-salernitana-trennt-sich-von-coach-filippo-inzaghi-a-82e1240e-355e-4ea3-b65c-aed1a7e4d206#ref=rss)
+### coach
 
-* [https://www.spiegel.de/politik/deutschland/schafft-die-ampel-doch-noch-den-grossen-rentenaufschlag](https://www.spiegel.de/politik/deutschland/schafft-die-ampel-doch-noch-den-grossen-rentenaufschlag-a-9aa4cc6f-71d2-425a-96ac-9ef97378a34f#ref=rss)
-### jede
+* [https://www.spiegel.de/sport/fussball/serie-a-jerome-boatengs-klub-us-salernitana-trennt-sich-von-coach-filippo-inzaghi](https://www.spiegel.de/sport/fussball/serie-a-jerome-boatengs-klub-us-salernitana-trennt-sich-von-coach-filippo-inzaghi-a-82e1240e-355e-4ea3-b65c-aed1a7e4d206#ref=rss)
+### filippo
 
-* [https://www.spiegel.de/politik/deutschland/schafft-die-ampel-doch-noch-den-grossen-rentenaufschlag](https://www.spiegel.de/politik/deutschland/schafft-die-ampel-doch-noch-den-grossen-rentenaufschlag-a-9aa4cc6f-71d2-425a-96ac-9ef97378a34f#ref=rss)
-* [https://www.spiegel.de/ausland/trinidad-und-tobago-riesiger-oelteppich-triebt-nach-mysterioesem-schiffsunglueck-vor-kueste](https://www.spiegel.de/ausland/trinidad-und-tobago-riesiger-oelteppich-triebt-nach-mysterioesem-schiffsunglueck-vor-kueste-a-ad1d3d05-0f01-492d-b335-e0fd2a1ffc9c#ref=rss)
-### neue
+* [https://www.spiegel.de/sport/fussball/serie-a-jerome-boatengs-klub-us-salernitana-trennt-sich-von-coach-filippo-inzaghi](https://www.spiegel.de/sport/fussball/serie-a-jerome-boatengs-klub-us-salernitana-trennt-sich-von-coach-filippo-inzaghi-a-82e1240e-355e-4ea3-b65c-aed1a7e4d206#ref=rss)
+### inzaghi
 
-* [https://www.spiegel.de/politik/deutschland/schafft-die-ampel-doch-noch-den-grossen-rentenaufschlag](https://www.spiegel.de/politik/deutschland/schafft-die-ampel-doch-noch-den-grossen-rentenaufschlag-a-9aa4cc6f-71d2-425a-96ac-9ef97378a34f#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-basketball-starkes-debuet-von-weltmeister-dennis-schroeder-bei-brooklin-nets](https://www.spiegel.de/sport/basketball/nba-basketball-starkes-debuet-von-weltmeister-dennis-schroeder-bei-brooklin-nets-a-162810cf-5461-4688-8ad3-a402cf929cc4#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### tag
-
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### sieben
-
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/skispringen-in-lake-placid-andreas-wellinger-und-philipp-raimund-fehlen-elf-zentimeter-zum-sieg](https://www.spiegel.de/sport/wintersport/skispringen-in-lake-placid-andreas-wellinger-und-philipp-raimund-fehlen-elf-zentimeter-zum-sieg-a-cd3ee41b-09f7-4a3b-9b4e-1911244bc1dc#ref=rss)
-### wissen
-
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-was-sie-zur-wiederholungswahl-wissen-muessen](https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-was-sie-zur-wiederholungswahl-wissen-muessen-a-0e05543f-8bfd-48cd-804a-26191ce58304#ref=rss)
-### krieg
-
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-kiew-meldet-dutzende-russische-luftangriffe](https://www.spiegel.de/ausland/krieg-in-der-ukraine-kiew-meldet-dutzende-russische-luftangriffe-a-c947bf15-3b7f-45eb-95bf-99fc265dfad3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-anton-hofreiter-nennt-festhalten-an-schuldenbremse-ein-sicherheitsrisiko](https://www.spiegel.de/politik/deutschland/ukraine-krieg-anton-hofreiter-nennt-festhalten-an-schuldenbremse-ein-sicherheitsrisiko-a-7e9ae7e1-7d35-4011-9f6d-8c1879c02981#ref=rss)
-### kiew
-
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-kiew-meldet-dutzende-russische-luftangriffe](https://www.spiegel.de/ausland/krieg-in-der-ukraine-kiew-meldet-dutzende-russische-luftangriffe-a-c947bf15-3b7f-45eb-95bf-99fc265dfad3#ref=rss)
-### luftangriffe
-
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-kiew-meldet-dutzende-russische-luftangriffe](https://www.spiegel.de/ausland/krieg-in-der-ukraine-kiew-meldet-dutzende-russische-luftangriffe-a-c947bf15-3b7f-45eb-95bf-99fc265dfad3#ref=rss)
-### waren
-
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-kiew-meldet-dutzende-russische-luftangriffe](https://www.spiegel.de/ausland/krieg-in-der-ukraine-kiew-meldet-dutzende-russische-luftangriffe-a-c947bf15-3b7f-45eb-95bf-99fc265dfad3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-70-prozent-der-zuege-sollen-2024-puenktlich-sein](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-70-prozent-der-zuege-sollen-2024-puenktlich-sein-a-1b16d1fb-c89b-482a-8141-1fe41fb16613#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-70-prozent-der-zuege-sollen-2024-puenktlich-sein](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-70-prozent-der-zuege-sollen-2024-puenktlich-sein-a-1b16d1fb-c89b-482a-8141-1fe41fb16613#ref=rss)
-* [https://www.spiegel.de/sport/basketball/paris-2024-deutsche-basketballerinnen-muessen-um-olympiaticket-bangen-sabally-verletzt](https://www.spiegel.de/sport/basketball/paris-2024-deutsche-basketballerinnen-muessen-um-olympiaticket-bangen-sabally-verletzt-a-12bbb97b-5c6f-4365-bb47-7620759269c3#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-70-prozent-der-zuege-sollen-2024-puenktlich-sein](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-70-prozent-der-zuege-sollen-2024-puenktlich-sein-a-1b16d1fb-c89b-482a-8141-1fe41fb16613#ref=rss)
-### las
-
-* [https://www.spiegel.de/sport/american-football/super-bowl-2024-uhrzeit-tv-uebertragung-halbzeitshow-live-ticker](https://www.spiegel.de/sport/american-football/super-bowl-2024-uhrzeit-tv-uebertragung-halbzeitshow-live-ticker-a-c5654222-21d0-4e63-a076-9e8053a996e4#ref=rss)
-* [https://www.spiegel.de/panorama/leute/taylor-swift-vor-dem-super-bowl-aufatmen-sie-ist-da](https://www.spiegel.de/panorama/leute/taylor-swift-vor-dem-super-bowl-aufatmen-sie-ist-da-a-b5ad6c7c-cda0-4bb3-89c4-7f27f071c6f2#ref=rss)
-### vegas
-
-* [https://www.spiegel.de/sport/american-football/super-bowl-2024-uhrzeit-tv-uebertragung-halbzeitshow-live-ticker](https://www.spiegel.de/sport/american-football/super-bowl-2024-uhrzeit-tv-uebertragung-halbzeitshow-live-ticker-a-c5654222-21d0-4e63-a076-9e8053a996e4#ref=rss)
-* [https://www.spiegel.de/panorama/leute/taylor-swift-vor-dem-super-bowl-aufatmen-sie-ist-da](https://www.spiegel.de/panorama/leute/taylor-swift-vor-dem-super-bowl-aufatmen-sie-ist-da-a-b5ad6c7c-cda0-4bb3-89c4-7f27f071c6f2#ref=rss)
-### spiel
-
-* [https://www.spiegel.de/sport/american-football/super-bowl-2024-uhrzeit-tv-uebertragung-halbzeitshow-live-ticker](https://www.spiegel.de/sport/american-football/super-bowl-2024-uhrzeit-tv-uebertragung-halbzeitshow-live-ticker-a-c5654222-21d0-4e63-a076-9e8053a996e4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/juergen-klopp-mit-liverpool-gegen-burnley-das-waere-wilder-westen-gewesen](https://www.spiegel.de/sport/fussball/juergen-klopp-mit-liverpool-gegen-burnley-das-waere-wilder-westen-gewesen-a-72b190c4-c50b-4a5b-86c0-68ccac914b14#ref=rss)
-### jürgen
-
-* [https://www.spiegel.de/sport/fussball/juergen-klopp-mit-liverpool-gegen-burnley-das-waere-wilder-westen-gewesen](https://www.spiegel.de/sport/fussball/juergen-klopp-mit-liverpool-gegen-burnley-das-waere-wilder-westen-gewesen-a-72b190c4-c50b-4a5b-86c0-68ccac914b14#ref=rss)
-### klopp
-
-* [https://www.spiegel.de/sport/fussball/juergen-klopp-mit-liverpool-gegen-burnley-das-waere-wilder-westen-gewesen](https://www.spiegel.de/sport/fussball/juergen-klopp-mit-liverpool-gegen-burnley-das-waere-wilder-westen-gewesen-a-72b190c4-c50b-4a5b-86c0-68ccac914b14#ref=rss)
-### karte
-
-* [https://www.spiegel.de/sport/fussball/juergen-klopp-mit-liverpool-gegen-burnley-das-waere-wilder-westen-gewesen](https://www.spiegel.de/sport/fussball/juergen-klopp-mit-liverpool-gegen-burnley-das-waere-wilder-westen-gewesen-a-72b190c4-c50b-4a5b-86c0-68ccac914b14#ref=rss)
-### verteidigt
-
-* [https://www.spiegel.de/sport/fussball/juergen-klopp-mit-liverpool-gegen-burnley-das-waere-wilder-westen-gewesen](https://www.spiegel.de/sport/fussball/juergen-klopp-mit-liverpool-gegen-burnley-das-waere-wilder-westen-gewesen-a-72b190c4-c50b-4a5b-86c0-68ccac914b14#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-wuerde-saeumige-nato-mitglieder-nicht-vor-russland-schuetzen](https://www.spiegel.de/ausland/donald-trump-wuerde-saeumige-nato-mitglieder-nicht-vor-russland-schuetzen-a-c5651f35-4c8b-40a6-ad46-96a929683507#ref=rss)
+* [https://www.spiegel.de/sport/fussball/serie-a-jerome-boatengs-klub-us-salernitana-trennt-sich-von-coach-filippo-inzaghi](https://www.spiegel.de/sport/fussball/serie-a-jerome-boatengs-klub-us-salernitana-trennt-sich-von-coach-filippo-inzaghi-a-82e1240e-355e-4ea3-b65c-aed1a7e4d206#ref=rss)
 ### premier
 
-* [https://www.spiegel.de/sport/fussball/juergen-klopp-mit-liverpool-gegen-burnley-das-waere-wilder-westen-gewesen](https://www.spiegel.de/sport/fussball/juergen-klopp-mit-liverpool-gegen-burnley-das-waere-wilder-westen-gewesen-a-72b190c4-c50b-4a5b-86c0-68ccac914b14#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-netanyahu-verspricht-zivilisten-sicheren-korridor](https://www.spiegel.de/ausland/israel-gaza-krieg-netanyahu-verspricht-zivilisten-sicheren-korridor-a-7558bdc4-42cf-45dd-92b8-fd0c122748c7#ref=rss)
-### verletzt
+* [https://www.spiegel.de/netzwelt/netzpolitik/frankreich-premier-gabriel-attal-will-altersgrenze-fuer-soziale-medien-einfuehren](https://www.spiegel.de/netzwelt/netzpolitik/frankreich-premier-gabriel-attal-will-altersgrenze-fuer-soziale-medien-einfuehren-a-7f5068b5-b74c-4ba0-b9d3-6bb8d37101ba#ref=rss)
+### attal
 
-* [https://www.spiegel.de/panorama/neutraubling-in-bayern-arbeiter-stuerzt-16-meter-in-die-tiefe-und-ueberlebt](https://www.spiegel.de/panorama/neutraubling-in-bayern-arbeiter-stuerzt-16-meter-in-die-tiefe-und-ueberlebt-a-2edfddf8-79bf-4148-bad6-620a322bc1e3#ref=rss)
-* [https://www.spiegel.de/sport/basketball/paris-2024-deutsche-basketballerinnen-muessen-um-olympiaticket-bangen-sabally-verletzt](https://www.spiegel.de/sport/basketball/paris-2024-deutsche-basketballerinnen-muessen-um-olympiaticket-bangen-sabally-verletzt-a-12bbb97b-5c6f-4365-bb47-7620759269c3#ref=rss)
-### paris
+* [https://www.spiegel.de/netzwelt/netzpolitik/frankreich-premier-gabriel-attal-will-altersgrenze-fuer-soziale-medien-einfuehren](https://www.spiegel.de/netzwelt/netzpolitik/frankreich-premier-gabriel-attal-will-altersgrenze-fuer-soziale-medien-einfuehren-a-7f5068b5-b74c-4ba0-b9d3-6bb8d37101ba#ref=rss)
+### medien
 
-* [https://www.spiegel.de/sport/basketball/paris-2024-deutsche-basketballerinnen-muessen-um-olympiaticket-bangen-sabally-verletzt](https://www.spiegel.de/sport/basketball/paris-2024-deutsche-basketballerinnen-muessen-um-olympiaticket-bangen-sabally-verletzt-a-12bbb97b-5c6f-4365-bb47-7620759269c3#ref=rss)
-### basketballerinnen
+* [https://www.spiegel.de/netzwelt/netzpolitik/frankreich-premier-gabriel-attal-will-altersgrenze-fuer-soziale-medien-einfuehren](https://www.spiegel.de/netzwelt/netzpolitik/frankreich-premier-gabriel-attal-will-altersgrenze-fuer-soziale-medien-einfuehren-a-7f5068b5-b74c-4ba0-b9d3-6bb8d37101ba#ref=rss)
+### natogeneralsekretär
 
-* [https://www.spiegel.de/sport/basketball/paris-2024-deutsche-basketballerinnen-muessen-um-olympiaticket-bangen-sabally-verletzt](https://www.spiegel.de/sport/basketball/paris-2024-deutsche-basketballerinnen-muessen-um-olympiaticket-bangen-sabally-verletzt-a-12bbb97b-5c6f-4365-bb47-7620759269c3#ref=rss)
-### sabally
+* [https://www.spiegel.de/ausland/nato-generalsekretaer-stoltenberg-zu-trump-aussagen-untergraebt-unsere-gesamte-sicherheit](https://www.spiegel.de/ausland/nato-generalsekretaer-stoltenberg-zu-trump-aussagen-untergraebt-unsere-gesamte-sicherheit-a-d7906dfc-1749-4bfd-932c-a045a66ab0a7#ref=rss)
+### stoltenberg
 
-* [https://www.spiegel.de/sport/basketball/paris-2024-deutsche-basketballerinnen-muessen-um-olympiaticket-bangen-sabally-verletzt](https://www.spiegel.de/sport/basketball/paris-2024-deutsche-basketballerinnen-muessen-um-olympiaticket-bangen-sabally-verletzt-a-12bbb97b-5c6f-4365-bb47-7620759269c3#ref=rss)
-### nove
+* [https://www.spiegel.de/ausland/nato-generalsekretaer-stoltenberg-zu-trump-aussagen-untergraebt-unsere-gesamte-sicherheit](https://www.spiegel.de/ausland/nato-generalsekretaer-stoltenberg-zu-trump-aussagen-untergraebt-unsere-gesamte-sicherheit-a-d7906dfc-1749-4bfd-932c-a045a66ab0a7#ref=rss)
+### unsere
 
-* [https://www.spiegel.de/sport/wintersport/biathlon-wm-in-nove-mesto-deutschland-hadert-mit-material-kotzt-mich-ziemlich-an](https://www.spiegel.de/sport/wintersport/biathlon-wm-in-nove-mesto-deutschland-hadert-mit-material-kotzt-mich-ziemlich-an-a-18c20063-2d4c-4387-bd03-77736eaac0a7#ref=rss)
-### mesto
+* [https://www.spiegel.de/ausland/nato-generalsekretaer-stoltenberg-zu-trump-aussagen-untergraebt-unsere-gesamte-sicherheit](https://www.spiegel.de/ausland/nato-generalsekretaer-stoltenberg-zu-trump-aussagen-untergraebt-unsere-gesamte-sicherheit-a-d7906dfc-1749-4bfd-932c-a045a66ab0a7#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/buch-tipps-elke-heidenreich-empfiehlt-mely-kiyak-und-felicitas-prokopetz](https://www.spiegel.de/kultur/literatur/buch-tipps-elke-heidenreich-empfiehlt-mely-kiyak-und-felicitas-prokopetz-a-8c74c39c-3a5d-447d-9481-abf824faf0cf#ref=rss)
+### schützen
 
-* [https://www.spiegel.de/sport/wintersport/biathlon-wm-in-nove-mesto-deutschland-hadert-mit-material-kotzt-mich-ziemlich-an](https://www.spiegel.de/sport/wintersport/biathlon-wm-in-nove-mesto-deutschland-hadert-mit-material-kotzt-mich-ziemlich-an-a-18c20063-2d4c-4387-bd03-77736eaac0a7#ref=rss)
+* [https://www.spiegel.de/ausland/nato-generalsekretaer-stoltenberg-zu-trump-aussagen-untergraebt-unsere-gesamte-sicherheit](https://www.spiegel.de/ausland/nato-generalsekretaer-stoltenberg-zu-trump-aussagen-untergraebt-unsere-gesamte-sicherheit-a-d7906dfc-1749-4bfd-932c-a045a66ab0a7#ref=rss)
+* [https://www.spiegel.de/panorama/koelner-karnevalsposse-unfreiwillige-ausgangssperre](https://www.spiegel.de/panorama/koelner-karnevalsposse-unfreiwillige-ausgangssperre-a-12dc493c-90b2-403b-9d5a-69639740e46d#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/iranisches-regime-feiert-jahrestag-der-revolution-und-wuetet-gegen-israel](https://www.spiegel.de/ausland/iranisches-regime-feiert-jahrestag-der-revolution-und-wuetet-gegen-israel-a-97f1a43c-d0e8-42fc-8fdb-1d64eb653c49#ref=rss)
+### feiert
+
+* [https://www.spiegel.de/ausland/iranisches-regime-feiert-jahrestag-der-revolution-und-wuetet-gegen-israel](https://www.spiegel.de/ausland/iranisches-regime-feiert-jahrestag-der-revolution-und-wuetet-gegen-israel-a-97f1a43c-d0e8-42fc-8fdb-1d64eb653c49#ref=rss)
+### revolution
+
+* [https://www.spiegel.de/ausland/iranisches-regime-feiert-jahrestag-der-revolution-und-wuetet-gegen-israel](https://www.spiegel.de/ausland/iranisches-regime-feiert-jahrestag-der-revolution-und-wuetet-gegen-israel-a-97f1a43c-d0e8-42fc-8fdb-1d64eb653c49#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/ausland/iranisches-regime-feiert-jahrestag-der-revolution-und-wuetet-gegen-israel](https://www.spiegel.de/ausland/iranisches-regime-feiert-jahrestag-der-revolution-und-wuetet-gegen-israel-a-97f1a43c-d0e8-42fc-8fdb-1d64eb653c49#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/kleinstadt-bei-rom-rottweiler-beissen-jogger-tot](https://www.spiegel.de/panorama/justiz/kleinstadt-bei-rom-rottweiler-beissen-jogger-tot-a-d82deade-5052-4e56-a482-c66092de9ef4#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/ausland/iranisches-regime-feiert-jahrestag-der-revolution-und-wuetet-gegen-israel](https://www.spiegel.de/ausland/iranisches-regime-feiert-jahrestag-der-revolution-und-wuetet-gegen-israel-a-97f1a43c-d0e8-42fc-8fdb-1d64eb653c49#ref=rss)
+* [https://www.spiegel.de/ausland/hat-argentiniens-praesident-den-papst-etwa-doch-ganz-gern](https://www.spiegel.de/ausland/hat-argentiniens-praesident-den-papst-etwa-doch-ganz-gern-a-0de07eb2-98f8-4746-92c1-6e47fd0f38b4#ref=rss)
+### busfahrer
+
+* [https://www.spiegel.de/ausland/busfahrer-aus-kenia-sollen-den-deutschen-nahverkehr-retten](https://www.spiegel.de/ausland/busfahrer-aus-kenia-sollen-den-deutschen-nahverkehr-retten-a-eec896a1-e938-41f8-bc3e-aea81fb6867e#ref=rss)
+### wolfsburg
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-eigentor-von-torhueterin-johannes-wolfsburg-bezwingt-frankfurt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-eigentor-von-torhueterin-johannes-wolfsburg-bezwingt-frankfurt-a-19bad2df-3b78-4b3c-95e9-a75504abb407#ref=rss)
+### frankfurt
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-eigentor-von-torhueterin-johannes-wolfsburg-bezwingt-frankfurt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-eigentor-von-torhueterin-johannes-wolfsburg-bezwingt-frankfurt-a-19bad2df-3b78-4b3c-95e9-a75504abb407#ref=rss)
+### titel
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-eigentor-von-torhueterin-johannes-wolfsburg-bezwingt-frankfurt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-eigentor-von-torhueterin-johannes-wolfsburg-bezwingt-frankfurt-a-19bad2df-3b78-4b3c-95e9-a75504abb407#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/buch-tipps-elke-heidenreich-empfiehlt-mely-kiyak-und-felicitas-prokopetz](https://www.spiegel.de/kultur/literatur/buch-tipps-elke-heidenreich-empfiehlt-mely-kiyak-und-felicitas-prokopetz-a-8c74c39c-3a5d-447d-9481-abf824faf0cf#ref=rss)
+### javier
+
+* [https://www.spiegel.de/ausland/hat-argentiniens-praesident-den-papst-etwa-doch-ganz-gern](https://www.spiegel.de/ausland/hat-argentiniens-praesident-den-papst-etwa-doch-ganz-gern-a-0de07eb2-98f8-4746-92c1-6e47fd0f38b4#ref=rss)
+### milei
+
+* [https://www.spiegel.de/ausland/hat-argentiniens-praesident-den-papst-etwa-doch-ganz-gern](https://www.spiegel.de/ausland/hat-argentiniens-praesident-den-papst-etwa-doch-ganz-gern-a-0de07eb2-98f8-4746-92c1-6e47fd0f38b4#ref=rss)
+### papst
+
+* [https://www.spiegel.de/ausland/hat-argentiniens-praesident-den-papst-etwa-doch-ganz-gern](https://www.spiegel.de/ausland/hat-argentiniens-praesident-den-papst-etwa-doch-ganz-gern-a-0de07eb2-98f8-4746-92c1-6e47fd0f38b4#ref=rss)
+### holstein
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-holstein-kiel-neuer-tabellenzweiter-auch-hertha-bsc-jubelt](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-holstein-kiel-neuer-tabellenzweiter-auch-hertha-bsc-jubelt-a-489503c6-5473-4b56-a1cb-2eea19aac1cc#ref=rss)
+### kiel
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-holstein-kiel-neuer-tabellenzweiter-auch-hertha-bsc-jubelt](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-holstein-kiel-neuer-tabellenzweiter-auch-hertha-bsc-jubelt-a-489503c6-5473-4b56-a1cb-2eea19aac1cc#ref=rss)
+### hertha
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-holstein-kiel-neuer-tabellenzweiter-auch-hertha-bsc-jubelt](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-holstein-kiel-neuer-tabellenzweiter-auch-hertha-bsc-jubelt-a-489503c6-5473-4b56-a1cb-2eea19aac1cc#ref=rss)
+### beiden
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-holstein-kiel-neuer-tabellenzweiter-auch-hertha-bsc-jubelt](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-holstein-kiel-neuer-tabellenzweiter-auch-hertha-bsc-jubelt-a-489503c6-5473-4b56-a1cb-2eea19aac1cc#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-goettingen-geisterfahrt-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-goettingen-geisterfahrt-im-schnellcheck-a-abde6c38-0594-4ad6-b4ea-a929c7c270d0#ref=rss)
+### alkohol
+
+* [https://www.spiegel.de/gesundheit/alkohol-als-alltagsdroge-party-tod-und-tradition](https://www.spiegel.de/gesundheit/alkohol-als-alltagsdroge-party-tod-und-tradition-a-4a475c3d-836c-4d0e-ae14-6e421f9fbd53#ref=rss)
+### glück
+
+* [https://www.spiegel.de/gesundheit/alkohol-als-alltagsdroge-party-tod-und-tradition](https://www.spiegel.de/gesundheit/alkohol-als-alltagsdroge-party-tod-und-tradition-a-4a475c3d-836c-4d0e-ae14-6e421f9fbd53#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-goettingen-geisterfahrt-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-goettingen-geisterfahrt-im-schnellcheck-a-abde6c38-0594-4ad6-b4ea-a929c7c270d0#ref=rss)
+### jüdisches
+
+* [https://www.spiegel.de/kultur/juedisches-leben-in-deutschland-vergesst-eure-deutschen-klischees-ueber-juden](https://www.spiegel.de/kultur/juedisches-leben-in-deutschland-vergesst-eure-deutschen-klischees-ueber-juden-a-a80aba21-1ee2-4c35-bddc-5388838e2f3b#ref=rss)
+### leben
+
+* [https://www.spiegel.de/kultur/juedisches-leben-in-deutschland-vergesst-eure-deutschen-klischees-ueber-juden](https://www.spiegel.de/kultur/juedisches-leben-in-deutschland-vergesst-eure-deutschen-klischees-ueber-juden-a-a80aba21-1ee2-4c35-bddc-5388838e2f3b#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/sport/wintersport/biathlon-wm-in-nove-mesto-deutschland-hadert-mit-material-kotzt-mich-ziemlich-an](https://www.spiegel.de/sport/wintersport/biathlon-wm-in-nove-mesto-deutschland-hadert-mit-material-kotzt-mich-ziemlich-an-a-18c20063-2d4c-4387-bd03-77736eaac0a7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-deutschland-normal-liebe-und-sexualitaet-touristen-am-ort-des-terrors](https://www.spiegel.de/politik/deutschland/news-deutschland-normal-liebe-und-sexualitaet-touristen-am-ort-des-terrors-a-63688747-4e67-43fa-94f9-98573afc3982#ref=rss)
-### direkt
+* [https://www.spiegel.de/kultur/juedisches-leben-in-deutschland-vergesst-eure-deutschen-klischees-ueber-juden](https://www.spiegel.de/kultur/juedisches-leben-in-deutschland-vergesst-eure-deutschen-klischees-ueber-juden-a-a80aba21-1ee2-4c35-bddc-5388838e2f3b#ref=rss)
+### juden
 
-* [https://www.spiegel.de/sport/wintersport/biathlon-wm-in-nove-mesto-deutschland-hadert-mit-material-kotzt-mich-ziemlich-an](https://www.spiegel.de/sport/wintersport/biathlon-wm-in-nove-mesto-deutschland-hadert-mit-material-kotzt-mich-ziemlich-an-a-18c20063-2d4c-4387-bd03-77736eaac0a7#ref=rss)
-* [https://www.spiegel.de/panorama/leute/koenig-charles-bedankt-sich-fuer-unterstuetzung-nach-krebsdiagnose-der-groesste-trost](https://www.spiegel.de/panorama/leute/koenig-charles-bedankt-sich-fuer-unterstuetzung-nach-krebsdiagnose-der-groesste-trost-a-fda926c5-9e82-4a26-8217-75e994a4aa5f#ref=rss)
-### debüt
+* [https://www.spiegel.de/kultur/juedisches-leben-in-deutschland-vergesst-eure-deutschen-klischees-ueber-juden](https://www.spiegel.de/kultur/juedisches-leben-in-deutschland-vergesst-eure-deutschen-klischees-ueber-juden-a-a80aba21-1ee2-4c35-bddc-5388838e2f3b#ref=rss)
+### woche
 
-* [https://www.spiegel.de/sport/basketball/nba-basketball-starkes-debuet-von-weltmeister-dennis-schroeder-bei-brooklin-nets](https://www.spiegel.de/sport/basketball/nba-basketball-starkes-debuet-von-weltmeister-dennis-schroeder-bei-brooklin-nets-a-162810cf-5461-4688-8ad3-a402cf929cc4#ref=rss)
-### dennis
+* [https://www.spiegel.de/kultur/literatur/buch-tipps-elke-heidenreich-empfiehlt-mely-kiyak-und-felicitas-prokopetz](https://www.spiegel.de/kultur/literatur/buch-tipps-elke-heidenreich-empfiehlt-mely-kiyak-und-felicitas-prokopetz-a-8c74c39c-3a5d-447d-9481-abf824faf0cf#ref=rss)
+* [https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-das-dreieck](https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-das-dreieck-a-490bc66e-993a-41f7-aa34-2c88a06202cd#ref=rss)
+### göttingen
 
-* [https://www.spiegel.de/sport/basketball/nba-basketball-starkes-debuet-von-weltmeister-dennis-schroeder-bei-brooklin-nets](https://www.spiegel.de/sport/basketball/nba-basketball-starkes-debuet-von-weltmeister-dennis-schroeder-bei-brooklin-nets-a-162810cf-5461-4688-8ad3-a402cf929cc4#ref=rss)
-### schröder
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-goettingen-geisterfahrt-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-goettingen-geisterfahrt-im-schnellcheck-a-abde6c38-0594-4ad6-b4ea-a929c7c270d0#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/sport/basketball/nba-basketball-starkes-debuet-von-weltmeister-dennis-schroeder-bei-brooklin-nets](https://www.spiegel.de/sport/basketball/nba-basketball-starkes-debuet-von-weltmeister-dennis-schroeder-bei-brooklin-nets-a-162810cf-5461-4688-8ad3-a402cf929cc4#ref=rss)
-### brooklyn
+* [https://www.spiegel.de/ausland/wahlergebnisse-in-pakistan-polizei-droht-mit-durchgreifen-gegen-proteste](https://www.spiegel.de/ausland/wahlergebnisse-in-pakistan-polizei-droht-mit-durchgreifen-gegen-proteste-a-91cb36a9-b27c-459a-b048-c656bea89e64#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/kleinstadt-bei-rom-rottweiler-beissen-jogger-tot](https://www.spiegel.de/panorama/justiz/kleinstadt-bei-rom-rottweiler-beissen-jogger-tot-a-d82deade-5052-4e56-a482-c66092de9ef4#ref=rss)
+### rund
 
-* [https://www.spiegel.de/sport/basketball/nba-basketball-starkes-debuet-von-weltmeister-dennis-schroeder-bei-brooklin-nets](https://www.spiegel.de/sport/basketball/nba-basketball-starkes-debuet-von-weltmeister-dennis-schroeder-bei-brooklin-nets-a-162810cf-5461-4688-8ad3-a402cf929cc4#ref=rss)
-### nets
+* [https://www.spiegel.de/ausland/superwahljahr-2024-in-grafiken-rund-die-haelfte-der-weltbevoelkerung-ist-zu-wahlen-aufgerufen](https://www.spiegel.de/ausland/superwahljahr-2024-in-grafiken-rund-die-haelfte-der-weltbevoelkerung-ist-zu-wahlen-aufgerufen-a-dae06614-a1fb-47fc-baee-9c519b7da694#ref=rss)
+### hälfte
 
-* [https://www.spiegel.de/sport/basketball/nba-basketball-starkes-debuet-von-weltmeister-dennis-schroeder-bei-brooklin-nets](https://www.spiegel.de/sport/basketball/nba-basketball-starkes-debuet-von-weltmeister-dennis-schroeder-bei-brooklin-nets-a-162810cf-5461-4688-8ad3-a402cf929cc4#ref=rss)
-### sieg
+* [https://www.spiegel.de/ausland/superwahljahr-2024-in-grafiken-rund-die-haelfte-der-weltbevoelkerung-ist-zu-wahlen-aufgerufen](https://www.spiegel.de/ausland/superwahljahr-2024-in-grafiken-rund-die-haelfte-der-weltbevoelkerung-ist-zu-wahlen-aufgerufen-a-dae06614-a1fb-47fc-baee-9c519b7da694#ref=rss)
+### weltbevölkerung
 
-* [https://www.spiegel.de/sport/basketball/nba-basketball-starkes-debuet-von-weltmeister-dennis-schroeder-bei-brooklin-nets](https://www.spiegel.de/sport/basketball/nba-basketball-starkes-debuet-von-weltmeister-dennis-schroeder-bei-brooklin-nets-a-162810cf-5461-4688-8ad3-a402cf929cc4#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/skispringen-in-lake-placid-andreas-wellinger-und-philipp-raimund-fehlen-elf-zentimeter-zum-sieg](https://www.spiegel.de/sport/wintersport/skispringen-in-lake-placid-andreas-wellinger-und-philipp-raimund-fehlen-elf-zentimeter-zum-sieg-a-cd3ee41b-09f7-4a3b-9b4e-1911244bc1dc#ref=rss)
-### unter
+* [https://www.spiegel.de/ausland/superwahljahr-2024-in-grafiken-rund-die-haelfte-der-weltbevoelkerung-ist-zu-wahlen-aufgerufen](https://www.spiegel.de/ausland/superwahljahr-2024-in-grafiken-rund-die-haelfte-der-weltbevoelkerung-ist-zu-wahlen-aufgerufen-a-dae06614-a1fb-47fc-baee-9c519b7da694#ref=rss)
+### wahlen
 
-* [https://www.spiegel.de/panorama/leute/taylor-swift-vor-dem-super-bowl-aufatmen-sie-ist-da](https://www.spiegel.de/panorama/leute/taylor-swift-vor-dem-super-bowl-aufatmen-sie-ist-da-a-b5ad6c7c-cda0-4bb3-89c4-7f27f071c6f2#ref=rss)
-* [https://www.spiegel.de/ausland/rafah-die-menschen-im-sueden-des-gazastreifens-fuerchten-israels-vorruecken](https://www.spiegel.de/ausland/rafah-die-menschen-im-sueden-des-gazastreifens-fuerchten-israels-vorruecken-a-9ea9b5f3-907a-4f13-b404-4afba33d7d7e#ref=rss)
-### würde
+* [https://www.spiegel.de/ausland/superwahljahr-2024-in-grafiken-rund-die-haelfte-der-weltbevoelkerung-ist-zu-wahlen-aufgerufen](https://www.spiegel.de/ausland/superwahljahr-2024-in-grafiken-rund-die-haelfte-der-weltbevoelkerung-ist-zu-wahlen-aufgerufen-a-dae06614-a1fb-47fc-baee-9c519b7da694#ref=rss)
+### aufgerufen
 
-* [https://www.spiegel.de/panorama/leute/taylor-swift-vor-dem-super-bowl-aufatmen-sie-ist-da](https://www.spiegel.de/panorama/leute/taylor-swift-vor-dem-super-bowl-aufatmen-sie-ist-da-a-b5ad6c7c-cda0-4bb3-89c4-7f27f071c6f2#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-wuerde-saeumige-nato-mitglieder-nicht-vor-russland-schuetzen](https://www.spiegel.de/ausland/donald-trump-wuerde-saeumige-nato-mitglieder-nicht-vor-russland-schuetzen-a-c5651f35-4c8b-40a6-ad46-96a929683507#ref=rss)
-### andreas
+* [https://www.spiegel.de/ausland/superwahljahr-2024-in-grafiken-rund-die-haelfte-der-weltbevoelkerung-ist-zu-wahlen-aufgerufen](https://www.spiegel.de/ausland/superwahljahr-2024-in-grafiken-rund-die-haelfte-der-weltbevoelkerung-ist-zu-wahlen-aufgerufen-a-dae06614-a1fb-47fc-baee-9c519b7da694#ref=rss)
+### natenom
 
-* [https://www.spiegel.de/sport/wintersport/skispringen-in-lake-placid-andreas-wellinger-und-philipp-raimund-fehlen-elf-zentimeter-zum-sieg](https://www.spiegel.de/sport/wintersport/skispringen-in-lake-placid-andreas-wellinger-und-philipp-raimund-fehlen-elf-zentimeter-zum-sieg-a-cd3ee41b-09f7-4a3b-9b4e-1911244bc1dc#ref=rss)
-### wellinger
+* [https://www.spiegel.de/panorama/pforzheim-grosse-fahrrad-demo-fuer-radaktivisten-natenom-nach-unfalltod](https://www.spiegel.de/panorama/pforzheim-grosse-fahrrad-demo-fuer-radaktivisten-natenom-nach-unfalltod-a-5309448c-3962-4bb8-b99b-0ea7588793de#ref=rss)
+### türkei
 
-* [https://www.spiegel.de/sport/wintersport/skispringen-in-lake-placid-andreas-wellinger-und-philipp-raimund-fehlen-elf-zentimeter-zum-sieg](https://www.spiegel.de/sport/wintersport/skispringen-in-lake-placid-andreas-wellinger-und-philipp-raimund-fehlen-elf-zentimeter-zum-sieg-a-cd3ee41b-09f7-4a3b-9b4e-1911244bc1dc#ref=rss)
-### philipp
+* [https://www.spiegel.de/ausland/verkauf-von-us-kampfjets-an-die-tuerkei-steht-nichts-mehr-im-wege](https://www.spiegel.de/ausland/verkauf-von-us-kampfjets-an-die-tuerkei-steht-nichts-mehr-im-wege-a-2d6fc3d4-3042-4ae1-bbaa-82b8f3bb704a#ref=rss)
+### italien
 
-* [https://www.spiegel.de/sport/wintersport/skispringen-in-lake-placid-andreas-wellinger-und-philipp-raimund-fehlen-elf-zentimeter-zum-sieg](https://www.spiegel.de/sport/wintersport/skispringen-in-lake-placid-andreas-wellinger-und-philipp-raimund-fehlen-elf-zentimeter-zum-sieg-a-cd3ee41b-09f7-4a3b-9b4e-1911244bc1dc#ref=rss)
-### raimund
+* [https://www.spiegel.de/panorama/justiz/kleinstadt-bei-rom-rottweiler-beissen-jogger-tot](https://www.spiegel.de/panorama/justiz/kleinstadt-bei-rom-rottweiler-beissen-jogger-tot-a-d82deade-5052-4e56-a482-c66092de9ef4#ref=rss)
+### rottweiler
 
-* [https://www.spiegel.de/sport/wintersport/skispringen-in-lake-placid-andreas-wellinger-und-philipp-raimund-fehlen-elf-zentimeter-zum-sieg](https://www.spiegel.de/sport/wintersport/skispringen-in-lake-placid-andreas-wellinger-und-philipp-raimund-fehlen-elf-zentimeter-zum-sieg-a-cd3ee41b-09f7-4a3b-9b4e-1911244bc1dc#ref=rss)
-### vorbei
+* [https://www.spiegel.de/panorama/justiz/kleinstadt-bei-rom-rottweiler-beissen-jogger-tot](https://www.spiegel.de/panorama/justiz/kleinstadt-bei-rom-rottweiler-beissen-jogger-tot-a-d82deade-5052-4e56-a482-c66092de9ef4#ref=rss)
+### ukrainekrieg
 
-* [https://www.spiegel.de/sport/wintersport/skispringen-in-lake-placid-andreas-wellinger-und-philipp-raimund-fehlen-elf-zentimeter-zum-sieg](https://www.spiegel.de/sport/wintersport/skispringen-in-lake-placid-andreas-wellinger-und-philipp-raimund-fehlen-elf-zentimeter-zum-sieg-a-cd3ee41b-09f7-4a3b-9b4e-1911244bc1dc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-deutschland-normal-liebe-und-sexualitaet-touristen-am-ort-des-terrors](https://www.spiegel.de/politik/deutschland/news-deutschland-normal-liebe-und-sexualitaet-touristen-am-ort-des-terrors-a-63688747-4e67-43fa-94f9-98573afc3982#ref=rss)
-### uns
+* [https://www.spiegel.de/ausland/ukraine-krieg-russische-streitkraefte-sollen-starlink-dienst-von-elon-musk-nutzen](https://www.spiegel.de/ausland/ukraine-krieg-russische-streitkraefte-sollen-starlink-dienst-von-elon-musk-nutzen-a-f0ad77c7-6dd0-415a-885c-d795aaad3894#ref=rss)
+### russische
 
-* [https://www.spiegel.de/ausland/wird-uns-michelle-obama-vor-donald-trump-retten-kolumne](https://www.spiegel.de/ausland/wird-uns-michelle-obama-vor-donald-trump-retten-kolumne-a-723e60b9-f2a3-499c-93d6-ffe50f8bb409#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-deutschland-normal-liebe-und-sexualitaet-touristen-am-ort-des-terrors](https://www.spiegel.de/politik/deutschland/news-deutschland-normal-liebe-und-sexualitaet-touristen-am-ort-des-terrors-a-63688747-4e67-43fa-94f9-98573afc3982#ref=rss)
-### michelle
+* [https://www.spiegel.de/ausland/ukraine-krieg-russische-streitkraefte-sollen-starlink-dienst-von-elon-musk-nutzen](https://www.spiegel.de/ausland/ukraine-krieg-russische-streitkraefte-sollen-starlink-dienst-von-elon-musk-nutzen-a-f0ad77c7-6dd0-415a-885c-d795aaad3894#ref=rss)
+### elon
 
-* [https://www.spiegel.de/ausland/wird-uns-michelle-obama-vor-donald-trump-retten-kolumne](https://www.spiegel.de/ausland/wird-uns-michelle-obama-vor-donald-trump-retten-kolumne-a-723e60b9-f2a3-499c-93d6-ffe50f8bb409#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-deutschland-normal-liebe-und-sexualitaet-touristen-am-ort-des-terrors](https://www.spiegel.de/politik/deutschland/news-deutschland-normal-liebe-und-sexualitaet-touristen-am-ort-des-terrors-a-63688747-4e67-43fa-94f9-98573afc3982#ref=rss)
-### obama
+* [https://www.spiegel.de/ausland/ukraine-krieg-russische-streitkraefte-sollen-starlink-dienst-von-elon-musk-nutzen](https://www.spiegel.de/ausland/ukraine-krieg-russische-streitkraefte-sollen-starlink-dienst-von-elon-musk-nutzen-a-f0ad77c7-6dd0-415a-885c-d795aaad3894#ref=rss)
+### musk
 
-* [https://www.spiegel.de/ausland/wird-uns-michelle-obama-vor-donald-trump-retten-kolumne](https://www.spiegel.de/ausland/wird-uns-michelle-obama-vor-donald-trump-retten-kolumne-a-723e60b9-f2a3-499c-93d6-ffe50f8bb409#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-deutschland-normal-liebe-und-sexualitaet-touristen-am-ort-des-terrors](https://www.spiegel.de/politik/deutschland/news-deutschland-normal-liebe-und-sexualitaet-touristen-am-ort-des-terrors-a-63688747-4e67-43fa-94f9-98573afc3982#ref=rss)
-### retten
+* [https://www.spiegel.de/ausland/ukraine-krieg-russische-streitkraefte-sollen-starlink-dienst-von-elon-musk-nutzen](https://www.spiegel.de/ausland/ukraine-krieg-russische-streitkraefte-sollen-starlink-dienst-von-elon-musk-nutzen-a-f0ad77c7-6dd0-415a-885c-d795aaad3894#ref=rss)
+### nutzen
 
-* [https://www.spiegel.de/ausland/wird-uns-michelle-obama-vor-donald-trump-retten-kolumne](https://www.spiegel.de/ausland/wird-uns-michelle-obama-vor-donald-trump-retten-kolumne-a-723e60b9-f2a3-499c-93d6-ffe50f8bb409#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-deutschland-normal-liebe-und-sexualitaet-touristen-am-ort-des-terrors](https://www.spiegel.de/politik/deutschland/news-deutschland-normal-liebe-und-sexualitaet-touristen-am-ort-des-terrors-a-63688747-4e67-43fa-94f9-98573afc3982#ref=rss)
-### rafah
+* [https://www.spiegel.de/ausland/ukraine-krieg-russische-streitkraefte-sollen-starlink-dienst-von-elon-musk-nutzen](https://www.spiegel.de/ausland/ukraine-krieg-russische-streitkraefte-sollen-starlink-dienst-von-elon-musk-nutzen-a-f0ad77c7-6dd0-415a-885c-d795aaad3894#ref=rss)
+### patrick
 
-* [https://www.spiegel.de/ausland/rafah-die-menschen-im-sueden-des-gazastreifens-fuerchten-israels-vorruecken](https://www.spiegel.de/ausland/rafah-die-menschen-im-sueden-des-gazastreifens-fuerchten-israels-vorruecken-a-9ea9b5f3-907a-4f13-b404-4afba33d7d7e#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-netanyahu-verspricht-zivilisten-sicheren-korridor](https://www.spiegel.de/ausland/israel-gaza-krieg-netanyahu-verspricht-zivilisten-sicheren-korridor-a-7558bdc4-42cf-45dd-92b8-fd0c122748c7#ref=rss)
-### menschen
+* [https://www.spiegel.de/sport/american-football/super-bowl-nfl-star-patrick-mahomes-ist-der-unausweichliche](https://www.spiegel.de/sport/american-football/super-bowl-nfl-star-patrick-mahomes-ist-der-unausweichliche-a-7b143bf0-24c8-44a6-8558-74d0e35ff735#ref=rss)
+### mahomes
 
-* [https://www.spiegel.de/ausland/rafah-die-menschen-im-sueden-des-gazastreifens-fuerchten-israels-vorruecken](https://www.spiegel.de/ausland/rafah-die-menschen-im-sueden-des-gazastreifens-fuerchten-israels-vorruecken-a-9ea9b5f3-907a-4f13-b404-4afba33d7d7e#ref=rss)
-### gazastreifens
-
-* [https://www.spiegel.de/ausland/rafah-die-menschen-im-sueden-des-gazastreifens-fuerchten-israels-vorruecken](https://www.spiegel.de/ausland/rafah-die-menschen-im-sueden-des-gazastreifens-fuerchten-israels-vorruecken-a-9ea9b5f3-907a-4f13-b404-4afba33d7d7e#ref=rss)
-### fürchten
-
-* [https://www.spiegel.de/ausland/rafah-die-menschen-im-sueden-des-gazastreifens-fuerchten-israels-vorruecken](https://www.spiegel.de/ausland/rafah-die-menschen-im-sueden-des-gazastreifens-fuerchten-israels-vorruecken-a-9ea9b5f3-907a-4f13-b404-4afba33d7d7e#ref=rss)
-### israels
-
-* [https://www.spiegel.de/ausland/rafah-die-menschen-im-sueden-des-gazastreifens-fuerchten-israels-vorruecken](https://www.spiegel.de/ausland/rafah-die-menschen-im-sueden-des-gazastreifens-fuerchten-israels-vorruecken-a-9ea9b5f3-907a-4f13-b404-4afba33d7d7e#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-netanyahu-verspricht-zivilisten-sicheren-korridor](https://www.spiegel.de/ausland/israel-gaza-krieg-netanyahu-verspricht-zivilisten-sicheren-korridor-a-7558bdc4-42cf-45dd-92b8-fd0c122748c7#ref=rss)
-### thomas
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-unterliegt-bayer-leverkusen-liegt-es-an-der-mannschaft-oder-am-trainer](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-unterliegt-bayer-leverkusen-liegt-es-an-der-mannschaft-oder-am-trainer-a-4637d52c-b3d8-4cad-94d4-302791545a47#ref=rss)
-### touristen
-
-* [https://www.spiegel.de/politik/deutschland/news-deutschland-normal-liebe-und-sexualitaet-touristen-am-ort-des-terrors](https://www.spiegel.de/politik/deutschland/news-deutschland-normal-liebe-und-sexualitaet-touristen-am-ort-des-terrors-a-63688747-4e67-43fa-94f9-98573afc3982#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/aegypten-eroeffnung-der-grabkammer-des-neferhotep-restauratorin-befuerchtet-schaeden](https://www.spiegel.de/wissenschaft/mensch/aegypten-eroeffnung-der-grabkammer-des-neferhotep-restauratorin-befuerchtet-schaeden-a-4b3e5a3d-4456-46ff-904f-7373395b5bc5#ref=rss)
-### sonntag
-
-* [https://www.spiegel.de/politik/deutschland/news-deutschland-normal-liebe-und-sexualitaet-touristen-am-ort-des-terrors](https://www.spiegel.de/politik/deutschland/news-deutschland-normal-liebe-und-sexualitaet-touristen-am-ort-des-terrors-a-63688747-4e67-43fa-94f9-98573afc3982#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/aegypten-eroeffnung-der-grabkammer-des-neferhotep-restauratorin-befuerchtet-schaeden](https://www.spiegel.de/wissenschaft/mensch/aegypten-eroeffnung-der-grabkammer-des-neferhotep-restauratorin-befuerchtet-schaeden-a-4b3e5a3d-4456-46ff-904f-7373395b5bc5#ref=rss)
-### charles
-
-* [https://www.spiegel.de/panorama/leute/koenig-charles-bedankt-sich-fuer-unterstuetzung-nach-krebsdiagnose-der-groesste-trost](https://www.spiegel.de/panorama/leute/koenig-charles-bedankt-sich-fuer-unterstuetzung-nach-krebsdiagnose-der-groesste-trost-a-fda926c5-9e82-4a26-8217-75e994a4aa5f#ref=rss)
-### krebsdiagnose
-
-* [https://www.spiegel.de/panorama/leute/koenig-charles-bedankt-sich-fuer-unterstuetzung-nach-krebsdiagnose-der-groesste-trost](https://www.spiegel.de/panorama/leute/koenig-charles-bedankt-sich-fuer-unterstuetzung-nach-krebsdiagnose-der-groesste-trost-a-fda926c5-9e82-4a26-8217-75e994a4aa5f#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/panorama/leute/koenig-charles-bedankt-sich-fuer-unterstuetzung-nach-krebsdiagnose-der-groesste-trost](https://www.spiegel.de/panorama/leute/koenig-charles-bedankt-sich-fuer-unterstuetzung-nach-krebsdiagnose-der-groesste-trost-a-fda926c5-9e82-4a26-8217-75e994a4aa5f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-anton-hofreiter-nennt-festhalten-an-schuldenbremse-ein-sicherheitsrisiko](https://www.spiegel.de/politik/deutschland/ukraine-krieg-anton-hofreiter-nennt-festhalten-an-schuldenbremse-ein-sicherheitsrisiko-a-7e9ae7e1-7d35-4011-9f6d-8c1879c02981#ref=rss)
-### hofreiter
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-anton-hofreiter-nennt-festhalten-an-schuldenbremse-ein-sicherheitsrisiko](https://www.spiegel.de/politik/deutschland/ukraine-krieg-anton-hofreiter-nennt-festhalten-an-schuldenbremse-ein-sicherheitsrisiko-a-7e9ae7e1-7d35-4011-9f6d-8c1879c02981#ref=rss)
-### schuldenbremse
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-anton-hofreiter-nennt-festhalten-an-schuldenbremse-ein-sicherheitsrisiko](https://www.spiegel.de/politik/deutschland/ukraine-krieg-anton-hofreiter-nennt-festhalten-an-schuldenbremse-ein-sicherheitsrisiko-a-7e9ae7e1-7d35-4011-9f6d-8c1879c02981#ref=rss)
-### nassen
-
-* [https://www.spiegel.de/gesundheit/erkaeltung-wird-man-krank-wenn-man-mit-nassen-haaren-rausgeht](https://www.spiegel.de/gesundheit/erkaeltung-wird-man-krank-wenn-man-mit-nassen-haaren-rausgeht-a-24f7aa91-77c1-46a0-9e87-c89688f02979#ref=rss)
-### haaren
-
-* [https://www.spiegel.de/gesundheit/erkaeltung-wird-man-krank-wenn-man-mit-nassen-haaren-rausgeht](https://www.spiegel.de/gesundheit/erkaeltung-wird-man-krank-wenn-man-mit-nassen-haaren-rausgeht-a-24f7aa91-77c1-46a0-9e87-c89688f02979#ref=rss)
-### fortuna
-
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-auslosung-fortuna-duesseldorf-trifft-im-halbfinale-auf-bayer-leverkusen](https://www.spiegel.de/sport/fussball/dfb-pokal-auslosung-fortuna-duesseldorf-trifft-im-halbfinale-auf-bayer-leverkusen-a-50430f34-d4d6-40a3-ae01-37df046484d4#ref=rss)
-### düsseldorf
-
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-auslosung-fortuna-duesseldorf-trifft-im-halbfinale-auf-bayer-leverkusen](https://www.spiegel.de/sport/fussball/dfb-pokal-auslosung-fortuna-duesseldorf-trifft-im-halbfinale-auf-bayer-leverkusen-a-50430f34-d4d6-40a3-ae01-37df046484d4#ref=rss)
-### 1
-
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-auslosung-fortuna-duesseldorf-trifft-im-halbfinale-auf-bayer-leverkusen](https://www.spiegel.de/sport/fussball/dfb-pokal-auslosung-fortuna-duesseldorf-trifft-im-halbfinale-auf-bayer-leverkusen-a-50430f34-d4d6-40a3-ae01-37df046484d4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-sc-paderborn-kaempft-sich-beim-1-fc-kaiserslautern-zurueck](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-sc-paderborn-kaempft-sich-beim-1-fc-kaiserslautern-zurueck-a-f1770551-01e1-4e8f-a503-c535b20447c3#ref=rss)
-### suppe
-
-* [https://www.spiegel.de/panorama/museum-in-lyon-aktivisten-werfen-suppe-auf-monet-gemaelde](https://www.spiegel.de/panorama/museum-in-lyon-aktivisten-werfen-suppe-auf-monet-gemaelde-a-59874b40-c9fc-462e-93e6-344bf8820c17#ref=rss)
-### paderborn
-
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-sc-paderborn-kaempft-sich-beim-1-fc-kaiserslautern-zurueck](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-sc-paderborn-kaempft-sich-beim-1-fc-kaiserslautern-zurueck-a-f1770551-01e1-4e8f-a503-c535b20447c3#ref=rss)
-### tobago
-
-* [https://www.spiegel.de/ausland/trinidad-und-tobago-riesiger-oelteppich-triebt-nach-mysterioesem-schiffsunglueck-vor-kueste](https://www.spiegel.de/ausland/trinidad-und-tobago-riesiger-oelteppich-triebt-nach-mysterioesem-schiffsunglueck-vor-kueste-a-ad1d3d05-0f01-492d-b335-e0fd2a1ffc9c#ref=rss)
+* [https://www.spiegel.de/sport/american-football/super-bowl-nfl-star-patrick-mahomes-ist-der-unausweichliche](https://www.spiegel.de/sport/american-football/super-bowl-nfl-star-patrick-mahomes-ist-der-unausweichliche-a-7b143bf0-24c8-44a6-8558-74d0e35ff735#ref=rss)
 
