@@ -4,306 +4,380 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
+### super
+
+* [https://www.spiegel.de/sport/american-football/super-bowl-2024-travis-kelce-rempelt-kansas-city-chiefs-trainer-andy-reid-an](https://www.spiegel.de/sport/american-football/super-bowl-2024-travis-kelce-rempelt-kansas-city-chiefs-trainer-andy-reid-an-a-21373d4e-aad3-4630-bff9-70319bfedeb8#ref=rss)
+* [https://www.spiegel.de/kultur/musik/beyonce-kuendigt-in-super-bowl-werbespot-countryalbum-act-ii-an](https://www.spiegel.de/kultur/musik/beyonce-kuendigt-in-super-bowl-werbespot-countryalbum-act-ii-an-a-9f69a630-f32f-4df3-8277-0d55fcb1c7d8#ref=rss)
+* [https://www.spiegel.de/sport/american-football/super-bowl-so-gelang-den-kansas-city-chiefs-der-zitter-sieg-gegen-die-san-francisco-49ers](https://www.spiegel.de/sport/american-football/super-bowl-so-gelang-den-kansas-city-chiefs-der-zitter-sieg-gegen-die-san-francisco-49ers-a-81d1a432-cfde-4303-a117-23743f1c1ad0#ref=rss)
+* [https://www.spiegel.de/sport/american-football/taylor-swift-beim-super-bowl-der-moment-in-dem-der-popstar-fuer-den-sieg-sorgte](https://www.spiegel.de/sport/american-football/taylor-swift-beim-super-bowl-der-moment-in-dem-der-popstar-fuer-den-sieg-sorgte-a-f022f0bb-3d56-497f-872d-673d6aa5015c#ref=rss)
+### bowl
+
+* [https://www.spiegel.de/sport/american-football/super-bowl-2024-travis-kelce-rempelt-kansas-city-chiefs-trainer-andy-reid-an](https://www.spiegel.de/sport/american-football/super-bowl-2024-travis-kelce-rempelt-kansas-city-chiefs-trainer-andy-reid-an-a-21373d4e-aad3-4630-bff9-70319bfedeb8#ref=rss)
+* [https://www.spiegel.de/kultur/musik/beyonce-kuendigt-in-super-bowl-werbespot-countryalbum-act-ii-an](https://www.spiegel.de/kultur/musik/beyonce-kuendigt-in-super-bowl-werbespot-countryalbum-act-ii-an-a-9f69a630-f32f-4df3-8277-0d55fcb1c7d8#ref=rss)
+* [https://www.spiegel.de/sport/american-football/super-bowl-so-gelang-den-kansas-city-chiefs-der-zitter-sieg-gegen-die-san-francisco-49ers](https://www.spiegel.de/sport/american-football/super-bowl-so-gelang-den-kansas-city-chiefs-der-zitter-sieg-gegen-die-san-francisco-49ers-a-81d1a432-cfde-4303-a117-23743f1c1ad0#ref=rss)
+* [https://www.spiegel.de/sport/american-football/taylor-swift-beim-super-bowl-der-moment-in-dem-der-popstar-fuer-den-sieg-sorgte](https://www.spiegel.de/sport/american-football/taylor-swift-beim-super-bowl-der-moment-in-dem-der-popstar-fuer-den-sieg-sorgte-a-f022f0bb-3d56-497f-872d-673d6aa5015c#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/polen-kritisiert-aeusserung-von-donald-trump-zu-nato-beistandspflicht](https://www.spiegel.de/ausland/polen-kritisiert-aeusserung-von-donald-trump-zu-nato-beistandspflicht-a-f0ec4b97-4193-468a-8eb1-946fa6e3a1ed#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-wie-der-ex-us-praesident-die-gerichte-als-wahlkampfbuehne-nutzt](https://www.spiegel.de/ausland/donald-trump-wie-der-ex-us-praesident-die-gerichte-als-wahlkampfbuehne-nutzt-a-50c6a2c5-a950-45da-9a08-cffc86a947a6#ref=rss)
-* [https://www.spiegel.de/ausland/nato-generalsekretaer-stoltenberg-zu-trump-aussagen-untergraebt-unsere-gesamte-sicherheit](https://www.spiegel.de/ausland/nato-generalsekretaer-stoltenberg-zu-trump-aussagen-untergraebt-unsere-gesamte-sicherheit-a-d7906dfc-1749-4bfd-932c-a045a66ab0a7#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/polen-kritisiert-aeusserung-von-donald-trump-zu-nato-beistandspflicht](https://www.spiegel.de/ausland/polen-kritisiert-aeusserung-von-donald-trump-zu-nato-beistandspflicht-a-f0ec4b97-4193-468a-8eb1-946fa6e3a1ed#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-wie-der-ex-us-praesident-die-gerichte-als-wahlkampfbuehne-nutzt](https://www.spiegel.de/ausland/donald-trump-wie-der-ex-us-praesident-die-gerichte-als-wahlkampfbuehne-nutzt-a-50c6a2c5-a950-45da-9a08-cffc86a947a6#ref=rss)
-* [https://www.spiegel.de/ausland/nato-generalsekretaer-stoltenberg-zu-trump-aussagen-untergraebt-unsere-gesamte-sicherheit](https://www.spiegel.de/ausland/nato-generalsekretaer-stoltenberg-zu-trump-aussagen-untergraebt-unsere-gesamte-sicherheit-a-d7906dfc-1749-4bfd-932c-a045a66ab0a7#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/ausland/aegypten-warnt-israel-wegen-moeglicher-rafah-offensive-vor-schrecklichen-konsequenzen](https://www.spiegel.de/ausland/aegypten-warnt-israel-wegen-moeglicher-rafah-offensive-vor-schrecklichen-konsequenzen-a-108e3188-524f-46db-b9e8-b173fab0a599#ref=rss)
-* [https://www.spiegel.de/ausland/nato-generalsekretaer-stoltenberg-zu-trump-aussagen-untergraebt-unsere-gesamte-sicherheit](https://www.spiegel.de/ausland/nato-generalsekretaer-stoltenberg-zu-trump-aussagen-untergraebt-unsere-gesamte-sicherheit-a-d7906dfc-1749-4bfd-932c-a045a66ab0a7#ref=rss)
-### 2024
-
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-erneut-kleinere-pannen-bei-wiederholungswahl](https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-erneut-kleinere-pannen-bei-wiederholungswahl-a-de36d676-9718-42a1-97a8-f03dbe8ee091#ref=rss)
-* [https://www.spiegel.de/ausland/superwahljahr-2024-in-grafiken-rund-die-haelfte-der-weltbevoelkerung-ist-zu-wahlen-aufgerufen](https://www.spiegel.de/ausland/superwahljahr-2024-in-grafiken-rund-die-haelfte-der-weltbevoelkerung-ist-zu-wahlen-aufgerufen-a-dae06614-a1fb-47fc-baee-9c519b7da694#ref=rss)
-### bundestagswahl
-
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-erneut-kleinere-pannen-bei-wiederholungswahl](https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-erneut-kleinere-pannen-bei-wiederholungswahl-a-de36d676-9718-42a1-97a8-f03dbe8ee091#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wiederholung-der-bundestagswahl-2021-in-berlin-alle-ergebnisse-im-ueberblick](https://www.spiegel.de/politik/deutschland/wiederholung-der-bundestagswahl-2021-in-berlin-alle-ergebnisse-im-ueberblick-a-d69971a2-8311-4b10-80bb-d088a585a3d3#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-erneut-kleinere-pannen-bei-wiederholungswahl](https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-erneut-kleinere-pannen-bei-wiederholungswahl-a-de36d676-9718-42a1-97a8-f03dbe8ee091#ref=rss)
-* [https://www.spiegel.de/kultur/berlin-hannah-arendt-lesung-nach-propalaestinensischem-protest-abgebrochen](https://www.spiegel.de/kultur/berlin-hannah-arendt-lesung-nach-propalaestinensischem-protest-abgebrochen-a-f62f1c71-bf53-476c-8247-d95389172a91#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wiederholung-der-bundestagswahl-2021-in-berlin-alle-ergebnisse-im-ueberblick](https://www.spiegel.de/politik/deutschland/wiederholung-der-bundestagswahl-2021-in-berlin-alle-ergebnisse-im-ueberblick-a-d69971a2-8311-4b10-80bb-d088a585a3d3#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/sport/fussball/serie-a-jerome-boatengs-klub-us-salernitana-trennt-sich-von-coach-filippo-inzaghi](https://www.spiegel.de/sport/fussball/serie-a-jerome-boatengs-klub-us-salernitana-trennt-sich-von-coach-filippo-inzaghi-a-82e1240e-355e-4ea3-b65c-aed1a7e4d206#ref=rss)
-* [https://www.spiegel.de/ausland/hat-argentiniens-praesident-den-papst-etwa-doch-ganz-gern](https://www.spiegel.de/ausland/hat-argentiniens-praesident-den-papst-etwa-doch-ganz-gern-a-0de07eb2-98f8-4746-92c1-6e47fd0f38b4#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/ausland/busfahrer-aus-kenia-sollen-den-deutschen-nahverkehr-retten](https://www.spiegel.de/ausland/busfahrer-aus-kenia-sollen-den-deutschen-nahverkehr-retten-a-eec896a1-e938-41f8-bc3e-aea81fb6867e#ref=rss)
-* [https://www.spiegel.de/kultur/juedisches-leben-in-deutschland-vergesst-eure-deutschen-klischees-ueber-juden](https://www.spiegel.de/kultur/juedisches-leben-in-deutschland-vergesst-eure-deutschen-klischees-ueber-juden-a-a80aba21-1ee2-4c35-bddc-5388838e2f3b#ref=rss)
-### ägypten
-
-* [https://www.spiegel.de/ausland/aegypten-warnt-israel-wegen-moeglicher-rafah-offensive-vor-schrecklichen-konsequenzen](https://www.spiegel.de/ausland/aegypten-warnt-israel-wegen-moeglicher-rafah-offensive-vor-schrecklichen-konsequenzen-a-108e3188-524f-46db-b9e8-b173fab0a599#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/aegypten-warnt-israel-wegen-moeglicher-rafah-offensive-vor-schrecklichen-konsequenzen](https://www.spiegel.de/ausland/aegypten-warnt-israel-wegen-moeglicher-rafah-offensive-vor-schrecklichen-konsequenzen-a-108e3188-524f-46db-b9e8-b173fab0a599#ref=rss)
-* [https://www.spiegel.de/ausland/iranisches-regime-feiert-jahrestag-der-revolution-und-wuetet-gegen-israel](https://www.spiegel.de/ausland/iranisches-regime-feiert-jahrestag-der-revolution-und-wuetet-gegen-israel-a-97f1a43c-d0e8-42fc-8fdb-1d64eb653c49#ref=rss)
-### konsequenzen
-
-* [https://www.spiegel.de/ausland/aegypten-warnt-israel-wegen-moeglicher-rafah-offensive-vor-schrecklichen-konsequenzen](https://www.spiegel.de/ausland/aegypten-warnt-israel-wegen-moeglicher-rafah-offensive-vor-schrecklichen-konsequenzen-a-108e3188-524f-46db-b9e8-b173fab0a599#ref=rss)
-* [https://www.spiegel.de/gesundheit/alkohol-als-alltagsdroge-party-tod-und-tradition](https://www.spiegel.de/gesundheit/alkohol-als-alltagsdroge-party-tod-und-tradition-a-4a475c3d-836c-4d0e-ae14-6e421f9fbd53#ref=rss)
-### extrem
-
-* [https://www.spiegel.de/ausland/aegypten-warnt-israel-wegen-moeglicher-rafah-offensive-vor-schrecklichen-konsequenzen](https://www.spiegel.de/ausland/aegypten-warnt-israel-wegen-moeglicher-rafah-offensive-vor-schrecklichen-konsequenzen-a-108e3188-524f-46db-b9e8-b173fab0a599#ref=rss)
-* [https://www.spiegel.de/ausland/hat-argentiniens-praesident-den-papst-etwa-doch-ganz-gern](https://www.spiegel.de/ausland/hat-argentiniens-praesident-den-papst-etwa-doch-ganz-gern-a-0de07eb2-98f8-4746-92c1-6e47fd0f38b4#ref=rss)
-### peta
-
-* [https://www.spiegel.de/panorama/gesellschaft/peta-fordert-verbot-von-karusselltieren](https://www.spiegel.de/panorama/gesellschaft/peta-fordert-verbot-von-karusselltieren-a-143b1c67-ac46-4cdd-ac97-93fa60b8201e#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/panorama/gesellschaft/peta-fordert-verbot-von-karusselltieren](https://www.spiegel.de/panorama/gesellschaft/peta-fordert-verbot-von-karusselltieren-a-143b1c67-ac46-4cdd-ac97-93fa60b8201e#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/gesellschaft/peta-fordert-verbot-von-karusselltieren](https://www.spiegel.de/panorama/gesellschaft/peta-fordert-verbot-von-karusselltieren-a-143b1c67-ac46-4cdd-ac97-93fa60b8201e#ref=rss)
-* [https://www.spiegel.de/ausland/verkauf-von-us-kampfjets-an-die-tuerkei-steht-nichts-mehr-im-wege](https://www.spiegel.de/ausland/verkauf-von-us-kampfjets-an-die-tuerkei-steht-nichts-mehr-im-wege-a-2d6fc3d4-3042-4ae1-bbaa-82b8f3bb704a#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/panorama/gesellschaft/peta-fordert-verbot-von-karusselltieren](https://www.spiegel.de/panorama/gesellschaft/peta-fordert-verbot-von-karusselltieren-a-143b1c67-ac46-4cdd-ac97-93fa60b8201e#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/frankreich-premier-gabriel-attal-will-altersgrenze-fuer-soziale-medien-einfuehren](https://www.spiegel.de/netzwelt/netzpolitik/frankreich-premier-gabriel-attal-will-altersgrenze-fuer-soziale-medien-einfuehren-a-7f5068b5-b74c-4ba0-b9d3-6bb8d37101ba#ref=rss)
-### pannen
-
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-erneut-kleinere-pannen-bei-wiederholungswahl](https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-erneut-kleinere-pannen-bei-wiederholungswahl-a-de36d676-9718-42a1-97a8-f03dbe8ee091#ref=rss)
-### wiederholung
-
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-erneut-kleinere-pannen-bei-wiederholungswahl](https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-erneut-kleinere-pannen-bei-wiederholungswahl-a-de36d676-9718-42a1-97a8-f03dbe8ee091#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wiederholung-der-bundestagswahl-2021-in-berlin-alle-ergebnisse-im-ueberblick](https://www.spiegel.de/politik/deutschland/wiederholung-der-bundestagswahl-2021-in-berlin-alle-ergebnisse-im-ueberblick-a-d69971a2-8311-4b10-80bb-d088a585a3d3#ref=rss)
-### laut
-
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-erneut-kleinere-pannen-bei-wiederholungswahl](https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-erneut-kleinere-pannen-bei-wiederholungswahl-a-de36d676-9718-42a1-97a8-f03dbe8ee091#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/kleinstadt-bei-rom-rottweiler-beissen-jogger-tot](https://www.spiegel.de/panorama/justiz/kleinstadt-bei-rom-rottweiler-beissen-jogger-tot-a-d82deade-5052-4e56-a482-c66092de9ef4#ref=rss)
-### polen
-
-* [https://www.spiegel.de/ausland/polen-kritisiert-aeusserung-von-donald-trump-zu-nato-beistandspflicht](https://www.spiegel.de/ausland/polen-kritisiert-aeusserung-von-donald-trump-zu-nato-beistandspflicht-a-f0ec4b97-4193-468a-8eb1-946fa6e3a1ed#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/ausland/polen-kritisiert-aeusserung-von-donald-trump-zu-nato-beistandspflicht](https://www.spiegel.de/ausland/polen-kritisiert-aeusserung-von-donald-trump-zu-nato-beistandspflicht-a-f0ec4b97-4193-468a-8eb1-946fa6e3a1ed#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-eigentor-von-torhueterin-johannes-wolfsburg-bezwingt-frankfurt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-eigentor-von-torhueterin-johannes-wolfsburg-bezwingt-frankfurt-a-19bad2df-3b78-4b3c-95e9-a75504abb407#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/tests/elektronik/creative-outlier-free-pro-shokz-openfit-und-huawei-freeclip-open-ear-kopfhoerer-im-test](https://www.spiegel.de/tests/elektronik/creative-outlier-free-pro-shokz-openfit-und-huawei-freeclip-open-ear-kopfhoerer-im-test-a-82dbc2e4-0bac-4238-978a-adba57e827ad#ref=rss)
-### wir
-
-* [https://www.spiegel.de/tests/elektronik/creative-outlier-free-pro-shokz-openfit-und-huawei-freeclip-open-ear-kopfhoerer-im-test](https://www.spiegel.de/tests/elektronik/creative-outlier-free-pro-shokz-openfit-und-huawei-freeclip-open-ear-kopfhoerer-im-test-a-82dbc2e4-0bac-4238-978a-adba57e827ad#ref=rss)
-* [https://www.spiegel.de/ausland/superwahljahr-2024-in-grafiken-rund-die-haelfte-der-weltbevoelkerung-ist-zu-wahlen-aufgerufen](https://www.spiegel.de/ausland/superwahljahr-2024-in-grafiken-rund-die-haelfte-der-weltbevoelkerung-ist-zu-wahlen-aufgerufen-a-dae06614-a1fb-47fc-baee-9c519b7da694#ref=rss)
-### drei
-
-* [https://www.spiegel.de/tests/elektronik/creative-outlier-free-pro-shokz-openfit-und-huawei-freeclip-open-ear-kopfhoerer-im-test](https://www.spiegel.de/tests/elektronik/creative-outlier-free-pro-shokz-openfit-und-huawei-freeclip-open-ear-kopfhoerer-im-test-a-82dbc2e4-0bac-4238-978a-adba57e827ad#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/kleinstadt-bei-rom-rottweiler-beissen-jogger-tot](https://www.spiegel.de/panorama/justiz/kleinstadt-bei-rom-rottweiler-beissen-jogger-tot-a-d82deade-5052-4e56-a482-c66092de9ef4#ref=rss)
-### 2021
-
-* [https://www.spiegel.de/politik/deutschland/wiederholung-der-bundestagswahl-2021-in-berlin-alle-ergebnisse-im-ueberblick](https://www.spiegel.de/politik/deutschland/wiederholung-der-bundestagswahl-2021-in-berlin-alle-ergebnisse-im-ueberblick-a-d69971a2-8311-4b10-80bb-d088a585a3d3#ref=rss)
-### alle
-
-* [https://www.spiegel.de/politik/deutschland/wiederholung-der-bundestagswahl-2021-in-berlin-alle-ergebnisse-im-ueberblick](https://www.spiegel.de/politik/deutschland/wiederholung-der-bundestagswahl-2021-in-berlin-alle-ergebnisse-im-ueberblick-a-d69971a2-8311-4b10-80bb-d088a585a3d3#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/frankreich-premier-gabriel-attal-will-altersgrenze-fuer-soziale-medien-einfuehren](https://www.spiegel.de/netzwelt/netzpolitik/frankreich-premier-gabriel-attal-will-altersgrenze-fuer-soziale-medien-einfuehren-a-7f5068b5-b74c-4ba0-b9d3-6bb8d37101ba#ref=rss)
-### grafiken
-
-* [https://www.spiegel.de/politik/deutschland/wiederholung-der-bundestagswahl-2021-in-berlin-alle-ergebnisse-im-ueberblick](https://www.spiegel.de/politik/deutschland/wiederholung-der-bundestagswahl-2021-in-berlin-alle-ergebnisse-im-ueberblick-a-d69971a2-8311-4b10-80bb-d088a585a3d3#ref=rss)
-* [https://www.spiegel.de/ausland/superwahljahr-2024-in-grafiken-rund-die-haelfte-der-weltbevoelkerung-ist-zu-wahlen-aufgerufen](https://www.spiegel.de/ausland/superwahljahr-2024-in-grafiken-rund-die-haelfte-der-weltbevoelkerung-ist-zu-wahlen-aufgerufen-a-dae06614-a1fb-47fc-baee-9c519b7da694#ref=rss)
-### bundesliga
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-wieder-tennisball-protest-vfb-stuttgart-schlaegt-mainz-05-muehelos](https://www.spiegel.de/sport/fussball/fussball-bundesliga-wieder-tennisball-protest-vfb-stuttgart-schlaegt-mainz-05-muehelos-a-8ccbadd3-77ee-4cce-8267-a71afdd08002#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-holstein-kiel-neuer-tabellenzweiter-auch-hertha-bsc-jubelt](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-holstein-kiel-neuer-tabellenzweiter-auch-hertha-bsc-jubelt-a-489503c6-5473-4b56-a1cb-2eea19aac1cc#ref=rss)
-### vfb
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-wieder-tennisball-protest-vfb-stuttgart-schlaegt-mainz-05-muehelos](https://www.spiegel.de/sport/fussball/fussball-bundesliga-wieder-tennisball-protest-vfb-stuttgart-schlaegt-mainz-05-muehelos-a-8ccbadd3-77ee-4cce-8267-a71afdd08002#ref=rss)
-### stuttgart
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-wieder-tennisball-protest-vfb-stuttgart-schlaegt-mainz-05-muehelos](https://www.spiegel.de/sport/fussball/fussball-bundesliga-wieder-tennisball-protest-vfb-stuttgart-schlaegt-mainz-05-muehelos-a-8ccbadd3-77ee-4cce-8267-a71afdd08002#ref=rss)
-### mainz
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-wieder-tennisball-protest-vfb-stuttgart-schlaegt-mainz-05-muehelos](https://www.spiegel.de/sport/fussball/fussball-bundesliga-wieder-tennisball-protest-vfb-stuttgart-schlaegt-mainz-05-muehelos-a-8ccbadd3-77ee-4cce-8267-a71afdd08002#ref=rss)
-### nutzt
-
-* [https://www.spiegel.de/ausland/donald-trump-wie-der-ex-us-praesident-die-gerichte-als-wahlkampfbuehne-nutzt](https://www.spiegel.de/ausland/donald-trump-wie-der-ex-us-praesident-die-gerichte-als-wahlkampfbuehne-nutzt-a-50c6a2c5-a950-45da-9a08-cffc86a947a6#ref=rss)
-### vier
-
-* [https://www.spiegel.de/ausland/donald-trump-wie-der-ex-us-praesident-die-gerichte-als-wahlkampfbuehne-nutzt](https://www.spiegel.de/ausland/donald-trump-wie-der-ex-us-praesident-die-gerichte-als-wahlkampfbuehne-nutzt-a-50c6a2c5-a950-45da-9a08-cffc86a947a6#ref=rss)
-* [https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-das-dreieck](https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-das-dreieck-a-490bc66e-993a-41f7-aa34-2c88a06202cd#ref=rss)
-### wahlkampf
-
-* [https://www.spiegel.de/ausland/donald-trump-wie-der-ex-us-praesident-die-gerichte-als-wahlkampfbuehne-nutzt](https://www.spiegel.de/ausland/donald-trump-wie-der-ex-us-praesident-die-gerichte-als-wahlkampfbuehne-nutzt-a-50c6a2c5-a950-45da-9a08-cffc86a947a6#ref=rss)
-* [https://www.spiegel.de/ausland/hat-argentiniens-praesident-den-papst-etwa-doch-ganz-gern](https://www.spiegel.de/ausland/hat-argentiniens-praesident-den-papst-etwa-doch-ganz-gern-a-0de07eb2-98f8-4746-92c1-6e47fd0f38b4#ref=rss)
-### jérôme
-
-* [https://www.spiegel.de/sport/fussball/serie-a-jerome-boatengs-klub-us-salernitana-trennt-sich-von-coach-filippo-inzaghi](https://www.spiegel.de/sport/fussball/serie-a-jerome-boatengs-klub-us-salernitana-trennt-sich-von-coach-filippo-inzaghi-a-82e1240e-355e-4ea3-b65c-aed1a7e4d206#ref=rss)
-### klub
-
-* [https://www.spiegel.de/sport/fussball/serie-a-jerome-boatengs-klub-us-salernitana-trennt-sich-von-coach-filippo-inzaghi](https://www.spiegel.de/sport/fussball/serie-a-jerome-boatengs-klub-us-salernitana-trennt-sich-von-coach-filippo-inzaghi-a-82e1240e-355e-4ea3-b65c-aed1a7e4d206#ref=rss)
-### us
-
-* [https://www.spiegel.de/sport/fussball/serie-a-jerome-boatengs-klub-us-salernitana-trennt-sich-von-coach-filippo-inzaghi](https://www.spiegel.de/sport/fussball/serie-a-jerome-boatengs-klub-us-salernitana-trennt-sich-von-coach-filippo-inzaghi-a-82e1240e-355e-4ea3-b65c-aed1a7e4d206#ref=rss)
-### salernitana
-
-* [https://www.spiegel.de/sport/fussball/serie-a-jerome-boatengs-klub-us-salernitana-trennt-sich-von-coach-filippo-inzaghi](https://www.spiegel.de/sport/fussball/serie-a-jerome-boatengs-klub-us-salernitana-trennt-sich-von-coach-filippo-inzaghi-a-82e1240e-355e-4ea3-b65c-aed1a7e4d206#ref=rss)
-### coach
-
-* [https://www.spiegel.de/sport/fussball/serie-a-jerome-boatengs-klub-us-salernitana-trennt-sich-von-coach-filippo-inzaghi](https://www.spiegel.de/sport/fussball/serie-a-jerome-boatengs-klub-us-salernitana-trennt-sich-von-coach-filippo-inzaghi-a-82e1240e-355e-4ea3-b65c-aed1a7e4d206#ref=rss)
-### filippo
-
-* [https://www.spiegel.de/sport/fussball/serie-a-jerome-boatengs-klub-us-salernitana-trennt-sich-von-coach-filippo-inzaghi](https://www.spiegel.de/sport/fussball/serie-a-jerome-boatengs-klub-us-salernitana-trennt-sich-von-coach-filippo-inzaghi-a-82e1240e-355e-4ea3-b65c-aed1a7e4d206#ref=rss)
-### inzaghi
-
-* [https://www.spiegel.de/sport/fussball/serie-a-jerome-boatengs-klub-us-salernitana-trennt-sich-von-coach-filippo-inzaghi](https://www.spiegel.de/sport/fussball/serie-a-jerome-boatengs-klub-us-salernitana-trennt-sich-von-coach-filippo-inzaghi-a-82e1240e-355e-4ea3-b65c-aed1a7e4d206#ref=rss)
-### premier
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/frankreich-premier-gabriel-attal-will-altersgrenze-fuer-soziale-medien-einfuehren](https://www.spiegel.de/netzwelt/netzpolitik/frankreich-premier-gabriel-attal-will-altersgrenze-fuer-soziale-medien-einfuehren-a-7f5068b5-b74c-4ba0-b9d3-6bb8d37101ba#ref=rss)
-### attal
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/frankreich-premier-gabriel-attal-will-altersgrenze-fuer-soziale-medien-einfuehren](https://www.spiegel.de/netzwelt/netzpolitik/frankreich-premier-gabriel-attal-will-altersgrenze-fuer-soziale-medien-einfuehren-a-7f5068b5-b74c-4ba0-b9d3-6bb8d37101ba#ref=rss)
-### medien
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/frankreich-premier-gabriel-attal-will-altersgrenze-fuer-soziale-medien-einfuehren](https://www.spiegel.de/netzwelt/netzpolitik/frankreich-premier-gabriel-attal-will-altersgrenze-fuer-soziale-medien-einfuehren-a-7f5068b5-b74c-4ba0-b9d3-6bb8d37101ba#ref=rss)
-### natogeneralsekretär
-
-* [https://www.spiegel.de/ausland/nato-generalsekretaer-stoltenberg-zu-trump-aussagen-untergraebt-unsere-gesamte-sicherheit](https://www.spiegel.de/ausland/nato-generalsekretaer-stoltenberg-zu-trump-aussagen-untergraebt-unsere-gesamte-sicherheit-a-d7906dfc-1749-4bfd-932c-a045a66ab0a7#ref=rss)
-### stoltenberg
-
-* [https://www.spiegel.de/ausland/nato-generalsekretaer-stoltenberg-zu-trump-aussagen-untergraebt-unsere-gesamte-sicherheit](https://www.spiegel.de/ausland/nato-generalsekretaer-stoltenberg-zu-trump-aussagen-untergraebt-unsere-gesamte-sicherheit-a-d7906dfc-1749-4bfd-932c-a045a66ab0a7#ref=rss)
-### unsere
-
-* [https://www.spiegel.de/ausland/nato-generalsekretaer-stoltenberg-zu-trump-aussagen-untergraebt-unsere-gesamte-sicherheit](https://www.spiegel.de/ausland/nato-generalsekretaer-stoltenberg-zu-trump-aussagen-untergraebt-unsere-gesamte-sicherheit-a-d7906dfc-1749-4bfd-932c-a045a66ab0a7#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/buch-tipps-elke-heidenreich-empfiehlt-mely-kiyak-und-felicitas-prokopetz](https://www.spiegel.de/kultur/literatur/buch-tipps-elke-heidenreich-empfiehlt-mely-kiyak-und-felicitas-prokopetz-a-8c74c39c-3a5d-447d-9481-abf824faf0cf#ref=rss)
-### schützen
-
-* [https://www.spiegel.de/ausland/nato-generalsekretaer-stoltenberg-zu-trump-aussagen-untergraebt-unsere-gesamte-sicherheit](https://www.spiegel.de/ausland/nato-generalsekretaer-stoltenberg-zu-trump-aussagen-untergraebt-unsere-gesamte-sicherheit-a-d7906dfc-1749-4bfd-932c-a045a66ab0a7#ref=rss)
-* [https://www.spiegel.de/panorama/koelner-karnevalsposse-unfreiwillige-ausgangssperre](https://www.spiegel.de/panorama/koelner-karnevalsposse-unfreiwillige-ausgangssperre-a-12dc493c-90b2-403b-9d5a-69639740e46d#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/iranisches-regime-feiert-jahrestag-der-revolution-und-wuetet-gegen-israel](https://www.spiegel.de/ausland/iranisches-regime-feiert-jahrestag-der-revolution-und-wuetet-gegen-israel-a-97f1a43c-d0e8-42fc-8fdb-1d64eb653c49#ref=rss)
-### feiert
-
-* [https://www.spiegel.de/ausland/iranisches-regime-feiert-jahrestag-der-revolution-und-wuetet-gegen-israel](https://www.spiegel.de/ausland/iranisches-regime-feiert-jahrestag-der-revolution-und-wuetet-gegen-israel-a-97f1a43c-d0e8-42fc-8fdb-1d64eb653c49#ref=rss)
-### revolution
-
-* [https://www.spiegel.de/ausland/iranisches-regime-feiert-jahrestag-der-revolution-und-wuetet-gegen-israel](https://www.spiegel.de/ausland/iranisches-regime-feiert-jahrestag-der-revolution-und-wuetet-gegen-israel-a-97f1a43c-d0e8-42fc-8fdb-1d64eb653c49#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/ausland/iranisches-regime-feiert-jahrestag-der-revolution-und-wuetet-gegen-israel](https://www.spiegel.de/ausland/iranisches-regime-feiert-jahrestag-der-revolution-und-wuetet-gegen-israel-a-97f1a43c-d0e8-42fc-8fdb-1d64eb653c49#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/kleinstadt-bei-rom-rottweiler-beissen-jogger-tot](https://www.spiegel.de/panorama/justiz/kleinstadt-bei-rom-rottweiler-beissen-jogger-tot-a-d82deade-5052-4e56-a482-c66092de9ef4#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/iranisches-regime-feiert-jahrestag-der-revolution-und-wuetet-gegen-israel](https://www.spiegel.de/ausland/iranisches-regime-feiert-jahrestag-der-revolution-und-wuetet-gegen-israel-a-97f1a43c-d0e8-42fc-8fdb-1d64eb653c49#ref=rss)
-* [https://www.spiegel.de/ausland/hat-argentiniens-praesident-den-papst-etwa-doch-ganz-gern](https://www.spiegel.de/ausland/hat-argentiniens-praesident-den-papst-etwa-doch-ganz-gern-a-0de07eb2-98f8-4746-92c1-6e47fd0f38b4#ref=rss)
-### busfahrer
-
-* [https://www.spiegel.de/ausland/busfahrer-aus-kenia-sollen-den-deutschen-nahverkehr-retten](https://www.spiegel.de/ausland/busfahrer-aus-kenia-sollen-den-deutschen-nahverkehr-retten-a-eec896a1-e938-41f8-bc3e-aea81fb6867e#ref=rss)
-### wolfsburg
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-eigentor-von-torhueterin-johannes-wolfsburg-bezwingt-frankfurt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-eigentor-von-torhueterin-johannes-wolfsburg-bezwingt-frankfurt-a-19bad2df-3b78-4b3c-95e9-a75504abb407#ref=rss)
-### frankfurt
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-eigentor-von-torhueterin-johannes-wolfsburg-bezwingt-frankfurt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-eigentor-von-torhueterin-johannes-wolfsburg-bezwingt-frankfurt-a-19bad2df-3b78-4b3c-95e9-a75504abb407#ref=rss)
-### titel
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-eigentor-von-torhueterin-johannes-wolfsburg-bezwingt-frankfurt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-eigentor-von-torhueterin-johannes-wolfsburg-bezwingt-frankfurt-a-19bad2df-3b78-4b3c-95e9-a75504abb407#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/buch-tipps-elke-heidenreich-empfiehlt-mely-kiyak-und-felicitas-prokopetz](https://www.spiegel.de/kultur/literatur/buch-tipps-elke-heidenreich-empfiehlt-mely-kiyak-und-felicitas-prokopetz-a-8c74c39c-3a5d-447d-9481-abf824faf0cf#ref=rss)
-### javier
-
-* [https://www.spiegel.de/ausland/hat-argentiniens-praesident-den-papst-etwa-doch-ganz-gern](https://www.spiegel.de/ausland/hat-argentiniens-praesident-den-papst-etwa-doch-ganz-gern-a-0de07eb2-98f8-4746-92c1-6e47fd0f38b4#ref=rss)
-### milei
-
-* [https://www.spiegel.de/ausland/hat-argentiniens-praesident-den-papst-etwa-doch-ganz-gern](https://www.spiegel.de/ausland/hat-argentiniens-praesident-den-papst-etwa-doch-ganz-gern-a-0de07eb2-98f8-4746-92c1-6e47fd0f38b4#ref=rss)
-### papst
-
-* [https://www.spiegel.de/ausland/hat-argentiniens-praesident-den-papst-etwa-doch-ganz-gern](https://www.spiegel.de/ausland/hat-argentiniens-praesident-den-papst-etwa-doch-ganz-gern-a-0de07eb2-98f8-4746-92c1-6e47fd0f38b4#ref=rss)
-### holstein
-
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-holstein-kiel-neuer-tabellenzweiter-auch-hertha-bsc-jubelt](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-holstein-kiel-neuer-tabellenzweiter-auch-hertha-bsc-jubelt-a-489503c6-5473-4b56-a1cb-2eea19aac1cc#ref=rss)
-### kiel
-
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-holstein-kiel-neuer-tabellenzweiter-auch-hertha-bsc-jubelt](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-holstein-kiel-neuer-tabellenzweiter-auch-hertha-bsc-jubelt-a-489503c6-5473-4b56-a1cb-2eea19aac1cc#ref=rss)
-### hertha
-
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-holstein-kiel-neuer-tabellenzweiter-auch-hertha-bsc-jubelt](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-holstein-kiel-neuer-tabellenzweiter-auch-hertha-bsc-jubelt-a-489503c6-5473-4b56-a1cb-2eea19aac1cc#ref=rss)
-### beiden
-
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-holstein-kiel-neuer-tabellenzweiter-auch-hertha-bsc-jubelt](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-holstein-kiel-neuer-tabellenzweiter-auch-hertha-bsc-jubelt-a-489503c6-5473-4b56-a1cb-2eea19aac1cc#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-goettingen-geisterfahrt-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-goettingen-geisterfahrt-im-schnellcheck-a-abde6c38-0594-4ad6-b4ea-a929c7c270d0#ref=rss)
-### alkohol
-
-* [https://www.spiegel.de/gesundheit/alkohol-als-alltagsdroge-party-tod-und-tradition](https://www.spiegel.de/gesundheit/alkohol-als-alltagsdroge-party-tod-und-tradition-a-4a475c3d-836c-4d0e-ae14-6e421f9fbd53#ref=rss)
-### glück
-
-* [https://www.spiegel.de/gesundheit/alkohol-als-alltagsdroge-party-tod-und-tradition](https://www.spiegel.de/gesundheit/alkohol-als-alltagsdroge-party-tod-und-tradition-a-4a475c3d-836c-4d0e-ae14-6e421f9fbd53#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-goettingen-geisterfahrt-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-goettingen-geisterfahrt-im-schnellcheck-a-abde6c38-0594-4ad6-b4ea-a929c7c270d0#ref=rss)
-### jüdisches
-
-* [https://www.spiegel.de/kultur/juedisches-leben-in-deutschland-vergesst-eure-deutschen-klischees-ueber-juden](https://www.spiegel.de/kultur/juedisches-leben-in-deutschland-vergesst-eure-deutschen-klischees-ueber-juden-a-a80aba21-1ee2-4c35-bddc-5388838e2f3b#ref=rss)
-### leben
-
-* [https://www.spiegel.de/kultur/juedisches-leben-in-deutschland-vergesst-eure-deutschen-klischees-ueber-juden](https://www.spiegel.de/kultur/juedisches-leben-in-deutschland-vergesst-eure-deutschen-klischees-ueber-juden-a-a80aba21-1ee2-4c35-bddc-5388838e2f3b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/donald-trump-deutsche-politiker-entsetzt-ueber-nato-aeusserung](https://www.spiegel.de/politik/deutschland/donald-trump-deutsche-politiker-entsetzt-ueber-nato-aeusserung-a-a1200f43-0391-474f-891d-4d271d172cfe#ref=rss)
+* [https://www.spiegel.de/ausland/josep-borrell-kritisiert-donald-trump-die-nato-kann-kein-militaerbuendnis-a-la-carte-sein](https://www.spiegel.de/ausland/josep-borrell-kritisiert-donald-trump-die-nato-kann-kein-militaerbuendnis-a-la-carte-sein-a-4e5a0abc-a21e-4da5-84a4-9307d4f77023#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/kultur/juedisches-leben-in-deutschland-vergesst-eure-deutschen-klischees-ueber-juden](https://www.spiegel.de/kultur/juedisches-leben-in-deutschland-vergesst-eure-deutschen-klischees-ueber-juden-a-a80aba21-1ee2-4c35-bddc-5388838e2f3b#ref=rss)
-### juden
+* [https://www.spiegel.de/politik/deutschland/donald-trump-deutsche-politiker-entsetzt-ueber-nato-aeusserung](https://www.spiegel.de/politik/deutschland/donald-trump-deutsche-politiker-entsetzt-ueber-nato-aeusserung-a-a1200f43-0391-474f-891d-4d271d172cfe#ref=rss)
+* [https://www.spiegel.de/kultur/musik/ac-dc-band-verkuendet-buehnen-comeback-neun-konzerte-in-deutschland-geplant](https://www.spiegel.de/kultur/musik/ac-dc-band-verkuendet-buehnen-comeback-neun-konzerte-in-deutschland-geplant-a-dd389513-c25e-4b79-bd84-0ce26a73c986#ref=rss)
+* [https://www.spiegel.de/wirtschaft/mittelstand-firmen-im-wettlauf-um-geeignete-nachfolger-luecke-waechst-laut-studie](https://www.spiegel.de/wirtschaft/mittelstand-firmen-im-wettlauf-um-geeignete-nachfolger-luecke-waechst-laut-studie-a-3637925f-f95c-436c-a3cd-5852d48e030a#ref=rss)
+### 2024
 
-* [https://www.spiegel.de/kultur/juedisches-leben-in-deutschland-vergesst-eure-deutschen-klischees-ueber-juden](https://www.spiegel.de/kultur/juedisches-leben-in-deutschland-vergesst-eure-deutschen-klischees-ueber-juden-a-a80aba21-1ee2-4c35-bddc-5388838e2f3b#ref=rss)
-### woche
+* [https://www.spiegel.de/sport/american-football/super-bowl-2024-travis-kelce-rempelt-kansas-city-chiefs-trainer-andy-reid-an](https://www.spiegel.de/sport/american-football/super-bowl-2024-travis-kelce-rempelt-kansas-city-chiefs-trainer-andy-reid-an-a-21373d4e-aad3-4630-bff9-70319bfedeb8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-linke-schoepft-zuversicht-aus-mini-bundestagswahl](https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-linke-schoepft-zuversicht-aus-mini-bundestagswahl-a-215b275c-db8a-4162-846d-cfe4ab2b16ae#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-bundestag-wird-einen-sitz-kleiner](https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-bundestag-wird-einen-sitz-kleiner-a-4b62e3b2-edd3-44a0-b684-3c6704f8626d#ref=rss)
+* [https://www.spiegel.de/sport/basketball/olympische-spiele-2024-deutsche-basketballerinnen-erstmals-fuer-olympia-qualifiziert](https://www.spiegel.de/sport/basketball/olympische-spiele-2024-deutsche-basketballerinnen-erstmals-fuer-olympia-qualifiziert-a-39d4ad4e-2e21-4518-93ce-131a4a05d53f#ref=rss)
+### kansas
 
-* [https://www.spiegel.de/kultur/literatur/buch-tipps-elke-heidenreich-empfiehlt-mely-kiyak-und-felicitas-prokopetz](https://www.spiegel.de/kultur/literatur/buch-tipps-elke-heidenreich-empfiehlt-mely-kiyak-und-felicitas-prokopetz-a-8c74c39c-3a5d-447d-9481-abf824faf0cf#ref=rss)
-* [https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-das-dreieck](https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-das-dreieck-a-490bc66e-993a-41f7-aa34-2c88a06202cd#ref=rss)
-### göttingen
+* [https://www.spiegel.de/sport/american-football/super-bowl-2024-travis-kelce-rempelt-kansas-city-chiefs-trainer-andy-reid-an](https://www.spiegel.de/sport/american-football/super-bowl-2024-travis-kelce-rempelt-kansas-city-chiefs-trainer-andy-reid-an-a-21373d4e-aad3-4630-bff9-70319bfedeb8#ref=rss)
+* [https://www.spiegel.de/sport/american-football/super-bowl-so-gelang-den-kansas-city-chiefs-der-zitter-sieg-gegen-die-san-francisco-49ers](https://www.spiegel.de/sport/american-football/super-bowl-so-gelang-den-kansas-city-chiefs-der-zitter-sieg-gegen-die-san-francisco-49ers-a-81d1a432-cfde-4303-a117-23743f1c1ad0#ref=rss)
+* [https://www.spiegel.de/sport/american-football/taylor-swift-beim-super-bowl-der-moment-in-dem-der-popstar-fuer-den-sieg-sorgte](https://www.spiegel.de/sport/american-football/taylor-swift-beim-super-bowl-der-moment-in-dem-der-popstar-fuer-den-sieg-sorgte-a-f022f0bb-3d56-497f-872d-673d6aa5015c#ref=rss)
+### city
 
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-goettingen-geisterfahrt-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-goettingen-geisterfahrt-im-schnellcheck-a-abde6c38-0594-4ad6-b4ea-a929c7c270d0#ref=rss)
-### polizei
+* [https://www.spiegel.de/sport/american-football/super-bowl-2024-travis-kelce-rempelt-kansas-city-chiefs-trainer-andy-reid-an](https://www.spiegel.de/sport/american-football/super-bowl-2024-travis-kelce-rempelt-kansas-city-chiefs-trainer-andy-reid-an-a-21373d4e-aad3-4630-bff9-70319bfedeb8#ref=rss)
+* [https://www.spiegel.de/sport/american-football/super-bowl-so-gelang-den-kansas-city-chiefs-der-zitter-sieg-gegen-die-san-francisco-49ers](https://www.spiegel.de/sport/american-football/super-bowl-so-gelang-den-kansas-city-chiefs-der-zitter-sieg-gegen-die-san-francisco-49ers-a-81d1a432-cfde-4303-a117-23743f1c1ad0#ref=rss)
+* [https://www.spiegel.de/sport/american-football/taylor-swift-beim-super-bowl-der-moment-in-dem-der-popstar-fuer-den-sieg-sorgte](https://www.spiegel.de/sport/american-football/taylor-swift-beim-super-bowl-der-moment-in-dem-der-popstar-fuer-den-sieg-sorgte-a-f022f0bb-3d56-497f-872d-673d6aa5015c#ref=rss)
+### chiefs
 
-* [https://www.spiegel.de/ausland/wahlergebnisse-in-pakistan-polizei-droht-mit-durchgreifen-gegen-proteste](https://www.spiegel.de/ausland/wahlergebnisse-in-pakistan-polizei-droht-mit-durchgreifen-gegen-proteste-a-91cb36a9-b27c-459a-b048-c656bea89e64#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/kleinstadt-bei-rom-rottweiler-beissen-jogger-tot](https://www.spiegel.de/panorama/justiz/kleinstadt-bei-rom-rottweiler-beissen-jogger-tot-a-d82deade-5052-4e56-a482-c66092de9ef4#ref=rss)
-### rund
+* [https://www.spiegel.de/sport/american-football/super-bowl-2024-travis-kelce-rempelt-kansas-city-chiefs-trainer-andy-reid-an](https://www.spiegel.de/sport/american-football/super-bowl-2024-travis-kelce-rempelt-kansas-city-chiefs-trainer-andy-reid-an-a-21373d4e-aad3-4630-bff9-70319bfedeb8#ref=rss)
+* [https://www.spiegel.de/sport/american-football/super-bowl-so-gelang-den-kansas-city-chiefs-der-zitter-sieg-gegen-die-san-francisco-49ers](https://www.spiegel.de/sport/american-football/super-bowl-so-gelang-den-kansas-city-chiefs-der-zitter-sieg-gegen-die-san-francisco-49ers-a-81d1a432-cfde-4303-a117-23743f1c1ad0#ref=rss)
+* [https://www.spiegel.de/sport/american-football/taylor-swift-beim-super-bowl-der-moment-in-dem-der-popstar-fuer-den-sieg-sorgte](https://www.spiegel.de/sport/american-football/taylor-swift-beim-super-bowl-der-moment-in-dem-der-popstar-fuer-den-sieg-sorgte-a-f022f0bb-3d56-497f-872d-673d6aa5015c#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/ausland/superwahljahr-2024-in-grafiken-rund-die-haelfte-der-weltbevoelkerung-ist-zu-wahlen-aufgerufen](https://www.spiegel.de/ausland/superwahljahr-2024-in-grafiken-rund-die-haelfte-der-weltbevoelkerung-ist-zu-wahlen-aufgerufen-a-dae06614-a1fb-47fc-baee-9c519b7da694#ref=rss)
-### hälfte
+* [https://www.spiegel.de/ausland/gaza-wie-israel-die-befreiung-der-zwei-geiseln-aus-rafah-gelang](https://www.spiegel.de/ausland/gaza-wie-israel-die-befreiung-der-zwei-geiseln-aus-rafah-gelang-a-7f3c8001-4fd7-4b51-ab92-11b79f9fbe82#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/texas-frau-mit-kleinkind-gibt-schuesse-in-kirche-ab-und-wird-getoetet](https://www.spiegel.de/panorama/justiz/texas-frau-mit-kleinkind-gibt-schuesse-in-kirche-ab-und-wird-getoetet-a-adce2fd2-bcbb-421f-b694-80a5198cbcf9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/teslawerk-in-gruenheide-produktion-laeuft-wieder-nach-zwangspause-durch-angriffe-im-roten-meer](https://www.spiegel.de/wirtschaft/teslawerk-in-gruenheide-produktion-laeuft-wieder-nach-zwangspause-durch-angriffe-im-roten-meer-a-d634df57-9a95-438c-be00-02a7af3560ca#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/ausland/superwahljahr-2024-in-grafiken-rund-die-haelfte-der-weltbevoelkerung-ist-zu-wahlen-aufgerufen](https://www.spiegel.de/ausland/superwahljahr-2024-in-grafiken-rund-die-haelfte-der-weltbevoelkerung-ist-zu-wahlen-aufgerufen-a-dae06614-a1fb-47fc-baee-9c519b7da694#ref=rss)
-### weltbevölkerung
+* [https://www.spiegel.de/panorama/justiz/texas-frau-mit-kleinkind-gibt-schuesse-in-kirche-ab-und-wird-getoetet](https://www.spiegel.de/panorama/justiz/texas-frau-mit-kleinkind-gibt-schuesse-in-kirche-ab-und-wird-getoetet-a-adce2fd2-bcbb-421f-b694-80a5198cbcf9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/hamburger-sv-trennt-sich-von-trainer-tim-walter](https://www.spiegel.de/sport/fussball/hamburger-sv-trennt-sich-von-trainer-tim-walter-a-61293595-e88c-4d5f-a1b4-3d42cfba8c71#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/westerstede-im-landkreis-ammerland-vater-liess-offenbar-elfjaehrigen-ans-steuer](https://www.spiegel.de/panorama/justiz/westerstede-im-landkreis-ammerland-vater-liess-offenbar-elfjaehrigen-ans-steuer-a-2e64beff-d067-4fea-91c7-9cce68714423#ref=rss)
+### donald
 
-* [https://www.spiegel.de/ausland/superwahljahr-2024-in-grafiken-rund-die-haelfte-der-weltbevoelkerung-ist-zu-wahlen-aufgerufen](https://www.spiegel.de/ausland/superwahljahr-2024-in-grafiken-rund-die-haelfte-der-weltbevoelkerung-ist-zu-wahlen-aufgerufen-a-dae06614-a1fb-47fc-baee-9c519b7da694#ref=rss)
-### wahlen
+* [https://www.spiegel.de/politik/deutschland/donald-trump-deutsche-politiker-entsetzt-ueber-nato-aeusserung](https://www.spiegel.de/politik/deutschland/donald-trump-deutsche-politiker-entsetzt-ueber-nato-aeusserung-a-a1200f43-0391-474f-891d-4d271d172cfe#ref=rss)
+* [https://www.spiegel.de/ausland/josep-borrell-kritisiert-donald-trump-die-nato-kann-kein-militaerbuendnis-a-la-carte-sein](https://www.spiegel.de/ausland/josep-borrell-kritisiert-donald-trump-die-nato-kann-kein-militaerbuendnis-a-la-carte-sein-a-4e5a0abc-a21e-4da5-84a4-9307d4f77023#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/ausland/superwahljahr-2024-in-grafiken-rund-die-haelfte-der-weltbevoelkerung-ist-zu-wahlen-aufgerufen](https://www.spiegel.de/ausland/superwahljahr-2024-in-grafiken-rund-die-haelfte-der-weltbevoelkerung-ist-zu-wahlen-aufgerufen-a-dae06614-a1fb-47fc-baee-9c519b7da694#ref=rss)
-### aufgerufen
+* [https://www.spiegel.de/politik/deutschland/donald-trump-deutsche-politiker-entsetzt-ueber-nato-aeusserung](https://www.spiegel.de/politik/deutschland/donald-trump-deutsche-politiker-entsetzt-ueber-nato-aeusserung-a-a1200f43-0391-474f-891d-4d271d172cfe#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/deutsche-bahn-verspaetungen-zwischen-frankfurt-am-main-und-stuttgart-wegen-metalldiebstahl](https://www.spiegel.de/panorama/justiz/deutsche-bahn-verspaetungen-zwischen-frankfurt-am-main-und-stuttgart-wegen-metalldiebstahl-a-a45ce0cc-91f4-47c5-9798-ec673fcaf212#ref=rss)
+* [https://www.spiegel.de/sport/basketball/olympische-spiele-2024-deutsche-basketballerinnen-erstmals-fuer-olympia-qualifiziert](https://www.spiegel.de/sport/basketball/olympische-spiele-2024-deutsche-basketballerinnen-erstmals-fuer-olympia-qualifiziert-a-39d4ad4e-2e21-4518-93ce-131a4a05d53f#ref=rss)
+### politiker
 
-* [https://www.spiegel.de/ausland/superwahljahr-2024-in-grafiken-rund-die-haelfte-der-weltbevoelkerung-ist-zu-wahlen-aufgerufen](https://www.spiegel.de/ausland/superwahljahr-2024-in-grafiken-rund-die-haelfte-der-weltbevoelkerung-ist-zu-wahlen-aufgerufen-a-dae06614-a1fb-47fc-baee-9c519b7da694#ref=rss)
-### natenom
+* [https://www.spiegel.de/politik/deutschland/donald-trump-deutsche-politiker-entsetzt-ueber-nato-aeusserung](https://www.spiegel.de/politik/deutschland/donald-trump-deutsche-politiker-entsetzt-ueber-nato-aeusserung-a-a1200f43-0391-474f-891d-4d271d172cfe#ref=rss)
+* [https://www.spiegel.de/wirtschaft/volkswagen-in-china-politiker-fordern-rueckzug-aus-xinjiang-wegen-zwangsarbeit](https://www.spiegel.de/wirtschaft/volkswagen-in-china-politiker-fordern-rueckzug-aus-xinjiang-wegen-zwangsarbeit-a-ed695b35-a78f-4939-ae3d-0be14afc7cdd#ref=rss)
+### große
 
-* [https://www.spiegel.de/panorama/pforzheim-grosse-fahrrad-demo-fuer-radaktivisten-natenom-nach-unfalltod](https://www.spiegel.de/panorama/pforzheim-grosse-fahrrad-demo-fuer-radaktivisten-natenom-nach-unfalltod-a-5309448c-3962-4bb8-b99b-0ea7588793de#ref=rss)
-### türkei
+* [https://www.spiegel.de/panorama/justiz/iran-moerder-von-regisseur-dariusch-mehrdschui-und-ehefrau-zum-tode-verurteilt](https://www.spiegel.de/panorama/justiz/iran-moerder-von-regisseur-dariusch-mehrdschui-und-ehefrau-zum-tode-verurteilt-a-4e659275-2b74-493b-ab5f-56a7dfd3e1b4#ref=rss)
+* [https://www.spiegel.de/panorama/rosenmontag-in-koeln-hoehepunkt-des-strassenkarnevals-die-besten-bilder](https://www.spiegel.de/panorama/rosenmontag-in-koeln-hoehepunkt-des-strassenkarnevals-die-besten-bilder-a-646db24c-c637-4049-a05b-655328a8c159#ref=rss)
+* [https://www.spiegel.de/sport/basketball/olympische-spiele-2024-deutsche-basketballerinnen-erstmals-fuer-olympia-qualifiziert](https://www.spiegel.de/sport/basketball/olympische-spiele-2024-deutsche-basketballerinnen-erstmals-fuer-olympia-qualifiziert-a-39d4ad4e-2e21-4518-93ce-131a4a05d53f#ref=rss)
+### drei
 
-* [https://www.spiegel.de/ausland/verkauf-von-us-kampfjets-an-die-tuerkei-steht-nichts-mehr-im-wege](https://www.spiegel.de/ausland/verkauf-von-us-kampfjets-an-die-tuerkei-steht-nichts-mehr-im-wege-a-2d6fc3d4-3042-4ae1-bbaa-82b8f3bb704a#ref=rss)
-### italien
+* [https://www.spiegel.de/kultur/musik/can-saenger-damo-suzuki-ist-tot](https://www.spiegel.de/kultur/musik/can-saenger-damo-suzuki-ist-tot-a-6aabd627-5259-45d1-adaa-66fdb94b2085#ref=rss)
+* [https://www.spiegel.de/sport/basketball/17-jahre-alter-ukrainischer-nachwuchsbasketballer-in-oberhausen-getoetet](https://www.spiegel.de/sport/basketball/17-jahre-alter-ukrainischer-nachwuchsbasketballer-in-oberhausen-getoetet-a-a3228faa-f34c-4357-83ed-1749a0f02292#ref=rss)
+* [https://www.spiegel.de/sport/american-football/super-bowl-so-gelang-den-kansas-city-chiefs-der-zitter-sieg-gegen-die-san-francisco-49ers](https://www.spiegel.de/sport/american-football/super-bowl-so-gelang-den-kansas-city-chiefs-der-zitter-sieg-gegen-die-san-francisco-49ers-a-81d1a432-cfde-4303-a117-23743f1c1ad0#ref=rss)
+### travis
 
-* [https://www.spiegel.de/panorama/justiz/kleinstadt-bei-rom-rottweiler-beissen-jogger-tot](https://www.spiegel.de/panorama/justiz/kleinstadt-bei-rom-rottweiler-beissen-jogger-tot-a-d82deade-5052-4e56-a482-c66092de9ef4#ref=rss)
-### rottweiler
+* [https://www.spiegel.de/sport/american-football/super-bowl-2024-travis-kelce-rempelt-kansas-city-chiefs-trainer-andy-reid-an](https://www.spiegel.de/sport/american-football/super-bowl-2024-travis-kelce-rempelt-kansas-city-chiefs-trainer-andy-reid-an-a-21373d4e-aad3-4630-bff9-70319bfedeb8#ref=rss)
+* [https://www.spiegel.de/sport/american-football/super-bowl-so-gelang-den-kansas-city-chiefs-der-zitter-sieg-gegen-die-san-francisco-49ers](https://www.spiegel.de/sport/american-football/super-bowl-so-gelang-den-kansas-city-chiefs-der-zitter-sieg-gegen-die-san-francisco-49ers-a-81d1a432-cfde-4303-a117-23743f1c1ad0#ref=rss)
+### kelce
 
-* [https://www.spiegel.de/panorama/justiz/kleinstadt-bei-rom-rottweiler-beissen-jogger-tot](https://www.spiegel.de/panorama/justiz/kleinstadt-bei-rom-rottweiler-beissen-jogger-tot-a-d82deade-5052-4e56-a482-c66092de9ef4#ref=rss)
-### ukrainekrieg
+* [https://www.spiegel.de/sport/american-football/super-bowl-2024-travis-kelce-rempelt-kansas-city-chiefs-trainer-andy-reid-an](https://www.spiegel.de/sport/american-football/super-bowl-2024-travis-kelce-rempelt-kansas-city-chiefs-trainer-andy-reid-an-a-21373d4e-aad3-4630-bff9-70319bfedeb8#ref=rss)
+* [https://www.spiegel.de/sport/american-football/super-bowl-so-gelang-den-kansas-city-chiefs-der-zitter-sieg-gegen-die-san-francisco-49ers](https://www.spiegel.de/sport/american-football/super-bowl-so-gelang-den-kansas-city-chiefs-der-zitter-sieg-gegen-die-san-francisco-49ers-a-81d1a432-cfde-4303-a117-23743f1c1ad0#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-russische-streitkraefte-sollen-starlink-dienst-von-elon-musk-nutzen](https://www.spiegel.de/ausland/ukraine-krieg-russische-streitkraefte-sollen-starlink-dienst-von-elon-musk-nutzen-a-f0ad77c7-6dd0-415a-885c-d795aaad3894#ref=rss)
-### russische
+* [https://www.spiegel.de/sport/basketball/17-jahre-alter-ukrainischer-nachwuchsbasketballer-in-oberhausen-getoetet](https://www.spiegel.de/sport/basketball/17-jahre-alter-ukrainischer-nachwuchsbasketballer-in-oberhausen-getoetet-a-a3228faa-f34c-4357-83ed-1749a0f02292#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/westerstede-im-landkreis-ammerland-vater-liess-offenbar-elfjaehrigen-ans-steuer](https://www.spiegel.de/panorama/justiz/westerstede-im-landkreis-ammerland-vater-liess-offenbar-elfjaehrigen-ans-steuer-a-2e64beff-d067-4fea-91c7-9cce68714423#ref=rss)
+* [https://www.spiegel.de/wirtschaft/mittelstand-firmen-im-wettlauf-um-geeignete-nachfolger-luecke-waechst-laut-studie](https://www.spiegel.de/wirtschaft/mittelstand-firmen-im-wettlauf-um-geeignete-nachfolger-luecke-waechst-laut-studie-a-3637925f-f95c-436c-a3cd-5852d48e030a#ref=rss)
+### getötet
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-russische-streitkraefte-sollen-starlink-dienst-von-elon-musk-nutzen](https://www.spiegel.de/ausland/ukraine-krieg-russische-streitkraefte-sollen-starlink-dienst-von-elon-musk-nutzen-a-f0ad77c7-6dd0-415a-885c-d795aaad3894#ref=rss)
-### elon
+* [https://www.spiegel.de/sport/basketball/17-jahre-alter-ukrainischer-nachwuchsbasketballer-in-oberhausen-getoetet](https://www.spiegel.de/sport/basketball/17-jahre-alter-ukrainischer-nachwuchsbasketballer-in-oberhausen-getoetet-a-a3228faa-f34c-4357-83ed-1749a0f02292#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/texas-frau-mit-kleinkind-gibt-schuesse-in-kirche-ab-und-wird-getoetet](https://www.spiegel.de/panorama/justiz/texas-frau-mit-kleinkind-gibt-schuesse-in-kirche-ab-und-wird-getoetet-a-adce2fd2-bcbb-421f-b694-80a5198cbcf9#ref=rss)
+### erste
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-russische-streitkraefte-sollen-starlink-dienst-von-elon-musk-nutzen](https://www.spiegel.de/ausland/ukraine-krieg-russische-streitkraefte-sollen-starlink-dienst-von-elon-musk-nutzen-a-f0ad77c7-6dd0-415a-885c-d795aaad3894#ref=rss)
-### musk
+* [https://www.spiegel.de/wirtschaft/energiewende-plattform-fuer-fernwaerme-soll-preistreibern-druck-machen](https://www.spiegel.de/wirtschaft/energiewende-plattform-fuer-fernwaerme-soll-preistreibern-druck-machen-a-1c43d68f-6097-40bd-bdab-6eba3d13cced#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-wie-israel-die-befreiung-der-zwei-geiseln-aus-rafah-gelang](https://www.spiegel.de/ausland/gaza-wie-israel-die-befreiung-der-zwei-geiseln-aus-rafah-gelang-a-7f3c8001-4fd7-4b51-ab92-11b79f9fbe82#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/westerstede-im-landkreis-ammerland-vater-liess-offenbar-elfjaehrigen-ans-steuer](https://www.spiegel.de/panorama/justiz/westerstede-im-landkreis-ammerland-vater-liess-offenbar-elfjaehrigen-ans-steuer-a-2e64beff-d067-4fea-91c7-9cce68714423#ref=rss)
+### köln
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-russische-streitkraefte-sollen-starlink-dienst-von-elon-musk-nutzen](https://www.spiegel.de/ausland/ukraine-krieg-russische-streitkraefte-sollen-starlink-dienst-von-elon-musk-nutzen-a-f0ad77c7-6dd0-415a-885c-d795aaad3894#ref=rss)
-### nutzen
+* [https://www.spiegel.de/panorama/rosenmontag-in-koeln-hoehepunkt-des-strassenkarnevals-die-besten-bilder](https://www.spiegel.de/panorama/rosenmontag-in-koeln-hoehepunkt-des-strassenkarnevals-die-besten-bilder-a-646db24c-c637-4049-a05b-655328a8c159#ref=rss)
+* [https://www.spiegel.de/panorama/karneval-in-koeln-am-rosenmontag-bunte-kostueme-grauer-himmel](https://www.spiegel.de/panorama/karneval-in-koeln-am-rosenmontag-bunte-kostueme-grauer-himmel-a-b794546e-b3c0-42e6-8c90-e459199c36e4#ref=rss)
+### taylor
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-russische-streitkraefte-sollen-starlink-dienst-von-elon-musk-nutzen](https://www.spiegel.de/ausland/ukraine-krieg-russische-streitkraefte-sollen-starlink-dienst-von-elon-musk-nutzen-a-f0ad77c7-6dd0-415a-885c-d795aaad3894#ref=rss)
+* [https://www.spiegel.de/kultur/musik/beyonce-kuendigt-in-super-bowl-werbespot-countryalbum-act-ii-an](https://www.spiegel.de/kultur/musik/beyonce-kuendigt-in-super-bowl-werbespot-countryalbum-act-ii-an-a-9f69a630-f32f-4df3-8277-0d55fcb1c7d8#ref=rss)
+* [https://www.spiegel.de/sport/american-football/super-bowl-so-gelang-den-kansas-city-chiefs-der-zitter-sieg-gegen-die-san-francisco-49ers](https://www.spiegel.de/sport/american-football/super-bowl-so-gelang-den-kansas-city-chiefs-der-zitter-sieg-gegen-die-san-francisco-49ers-a-81d1a432-cfde-4303-a117-23743f1c1ad0#ref=rss)
+* [https://www.spiegel.de/sport/american-football/taylor-swift-beim-super-bowl-der-moment-in-dem-der-popstar-fuer-den-sieg-sorgte](https://www.spiegel.de/sport/american-football/taylor-swift-beim-super-bowl-der-moment-in-dem-der-popstar-fuer-den-sieg-sorgte-a-f022f0bb-3d56-497f-872d-673d6aa5015c#ref=rss)
+### swift
+
+* [https://www.spiegel.de/kultur/musik/beyonce-kuendigt-in-super-bowl-werbespot-countryalbum-act-ii-an](https://www.spiegel.de/kultur/musik/beyonce-kuendigt-in-super-bowl-werbespot-countryalbum-act-ii-an-a-9f69a630-f32f-4df3-8277-0d55fcb1c7d8#ref=rss)
+* [https://www.spiegel.de/sport/american-football/super-bowl-so-gelang-den-kansas-city-chiefs-der-zitter-sieg-gegen-die-san-francisco-49ers](https://www.spiegel.de/sport/american-football/super-bowl-so-gelang-den-kansas-city-chiefs-der-zitter-sieg-gegen-die-san-francisco-49ers-a-81d1a432-cfde-4303-a117-23743f1c1ad0#ref=rss)
+* [https://www.spiegel.de/sport/american-football/taylor-swift-beim-super-bowl-der-moment-in-dem-der-popstar-fuer-den-sieg-sorgte](https://www.spiegel.de/sport/american-football/taylor-swift-beim-super-bowl-der-moment-in-dem-der-popstar-fuer-den-sieg-sorgte-a-f022f0bb-3d56-497f-872d-673d6aa5015c#ref=rss)
+### säumige
+
+* [https://www.spiegel.de/politik/deutschland/donald-trump-deutsche-politiker-entsetzt-ueber-nato-aeusserung](https://www.spiegel.de/politik/deutschland/donald-trump-deutsche-politiker-entsetzt-ueber-nato-aeusserung-a-a1200f43-0391-474f-891d-4d271d172cfe#ref=rss)
+* [https://www.spiegel.de/ausland/josep-borrell-kritisiert-donald-trump-die-nato-kann-kein-militaerbuendnis-a-la-carte-sein](https://www.spiegel.de/ausland/josep-borrell-kritisiert-donald-trump-die-nato-kann-kein-militaerbuendnis-a-la-carte-sein-a-4e5a0abc-a21e-4da5-84a4-9307d4f77023#ref=rss)
+### schützen
+
+* [https://www.spiegel.de/politik/deutschland/donald-trump-deutsche-politiker-entsetzt-ueber-nato-aeusserung](https://www.spiegel.de/politik/deutschland/donald-trump-deutsche-politiker-entsetzt-ueber-nato-aeusserung-a-a1200f43-0391-474f-891d-4d271d172cfe#ref=rss)
+* [https://www.spiegel.de/ausland/josep-borrell-kritisiert-donald-trump-die-nato-kann-kein-militaerbuendnis-a-la-carte-sein](https://www.spiegel.de/ausland/josep-borrell-kritisiert-donald-trump-die-nato-kann-kein-militaerbuendnis-a-la-carte-sein-a-4e5a0abc-a21e-4da5-84a4-9307d4f77023#ref=rss)
+### joe
+
+* [https://www.spiegel.de/netzwelt/web/joe-biden-macht-wahlwerbung-auf-tiktok](https://www.spiegel.de/netzwelt/web/joe-biden-macht-wahlwerbung-auf-tiktok-a-5f26c8ba-1757-4229-92c4-513c207e6eee#ref=rss)
+### biden
+
+* [https://www.spiegel.de/netzwelt/web/joe-biden-macht-wahlwerbung-auf-tiktok](https://www.spiegel.de/netzwelt/web/joe-biden-macht-wahlwerbung-auf-tiktok-a-5f26c8ba-1757-4229-92c4-513c207e6eee#ref=rss)
+### tiktok
+
+* [https://www.spiegel.de/netzwelt/web/joe-biden-macht-wahlwerbung-auf-tiktok](https://www.spiegel.de/netzwelt/web/joe-biden-macht-wahlwerbung-auf-tiktok-a-5f26c8ba-1757-4229-92c4-513c207e6eee#ref=rss)
+### iran
+
+* [https://www.spiegel.de/panorama/justiz/iran-moerder-von-regisseur-dariusch-mehrdschui-und-ehefrau-zum-tode-verurteilt](https://www.spiegel.de/panorama/justiz/iran-moerder-von-regisseur-dariusch-mehrdschui-und-ehefrau-zum-tode-verurteilt-a-4e659275-2b74-493b-ab5f-56a7dfd3e1b4#ref=rss)
+### mörder
+
+* [https://www.spiegel.de/panorama/justiz/iran-moerder-von-regisseur-dariusch-mehrdschui-und-ehefrau-zum-tode-verurteilt](https://www.spiegel.de/panorama/justiz/iran-moerder-von-regisseur-dariusch-mehrdschui-und-ehefrau-zum-tode-verurteilt-a-4e659275-2b74-493b-ab5f-56a7dfd3e1b4#ref=rss)
+### dariusch
+
+* [https://www.spiegel.de/panorama/justiz/iran-moerder-von-regisseur-dariusch-mehrdschui-und-ehefrau-zum-tode-verurteilt](https://www.spiegel.de/panorama/justiz/iran-moerder-von-regisseur-dariusch-mehrdschui-und-ehefrau-zum-tode-verurteilt-a-4e659275-2b74-493b-ab5f-56a7dfd3e1b4#ref=rss)
+### mehrdschui
+
+* [https://www.spiegel.de/panorama/justiz/iran-moerder-von-regisseur-dariusch-mehrdschui-und-ehefrau-zum-tode-verurteilt](https://www.spiegel.de/panorama/justiz/iran-moerder-von-regisseur-dariusch-mehrdschui-und-ehefrau-zum-tode-verurteilt-a-4e659275-2b74-493b-ab5f-56a7dfd3e1b4#ref=rss)
+### ehefrau
+
+* [https://www.spiegel.de/panorama/justiz/iran-moerder-von-regisseur-dariusch-mehrdschui-und-ehefrau-zum-tode-verurteilt](https://www.spiegel.de/panorama/justiz/iran-moerder-von-regisseur-dariusch-mehrdschui-und-ehefrau-zum-tode-verurteilt-a-4e659275-2b74-493b-ab5f-56a7dfd3e1b4#ref=rss)
+### damo
+
+* [https://www.spiegel.de/kultur/musik/can-saenger-damo-suzuki-ist-tot](https://www.spiegel.de/kultur/musik/can-saenger-damo-suzuki-ist-tot-a-6aabd627-5259-45d1-adaa-66fdb94b2085#ref=rss)
+### suzuki
+
+* [https://www.spiegel.de/kultur/musik/can-saenger-damo-suzuki-ist-tot](https://www.spiegel.de/kultur/musik/can-saenger-damo-suzuki-ist-tot-a-6aabd627-5259-45d1-adaa-66fdb94b2085#ref=rss)
+### tot
+
+* [https://www.spiegel.de/kultur/musik/can-saenger-damo-suzuki-ist-tot](https://www.spiegel.de/kultur/musik/can-saenger-damo-suzuki-ist-tot-a-6aabd627-5259-45d1-adaa-66fdb94b2085#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/texas-frau-mit-kleinkind-gibt-schuesse-in-kirche-ab-und-wird-getoetet](https://www.spiegel.de/panorama/justiz/texas-frau-mit-kleinkind-gibt-schuesse-in-kirche-ab-und-wird-getoetet-a-adce2fd2-bcbb-421f-b694-80a5198cbcf9#ref=rss)
+### ließ
+
+* [https://www.spiegel.de/kultur/musik/can-saenger-damo-suzuki-ist-tot](https://www.spiegel.de/kultur/musik/can-saenger-damo-suzuki-ist-tot-a-6aabd627-5259-45d1-adaa-66fdb94b2085#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/westerstede-im-landkreis-ammerland-vater-liess-offenbar-elfjaehrigen-ans-steuer](https://www.spiegel.de/panorama/justiz/westerstede-im-landkreis-ammerland-vater-liess-offenbar-elfjaehrigen-ans-steuer-a-2e64beff-d067-4fea-91c7-9cce68714423#ref=rss)
+### alter
+
+* [https://www.spiegel.de/kultur/musik/can-saenger-damo-suzuki-ist-tot](https://www.spiegel.de/kultur/musik/can-saenger-damo-suzuki-ist-tot-a-6aabd627-5259-45d1-adaa-66fdb94b2085#ref=rss)
+* [https://www.spiegel.de/sport/basketball/17-jahre-alter-ukrainischer-nachwuchsbasketballer-in-oberhausen-getoetet](https://www.spiegel.de/sport/basketball/17-jahre-alter-ukrainischer-nachwuchsbasketballer-in-oberhausen-getoetet-a-a3228faa-f34c-4357-83ed-1749a0f02292#ref=rss)
+### andy
+
+* [https://www.spiegel.de/sport/american-football/super-bowl-2024-travis-kelce-rempelt-kansas-city-chiefs-trainer-andy-reid-an](https://www.spiegel.de/sport/american-football/super-bowl-2024-travis-kelce-rempelt-kansas-city-chiefs-trainer-andy-reid-an-a-21373d4e-aad3-4630-bff9-70319bfedeb8#ref=rss)
+### reid
+
+* [https://www.spiegel.de/sport/american-football/super-bowl-2024-travis-kelce-rempelt-kansas-city-chiefs-trainer-andy-reid-an](https://www.spiegel.de/sport/american-football/super-bowl-2024-travis-kelce-rempelt-kansas-city-chiefs-trainer-andy-reid-an-a-21373d4e-aad3-4630-bff9-70319bfedeb8#ref=rss)
+### trainer
+
+* [https://www.spiegel.de/sport/american-football/super-bowl-2024-travis-kelce-rempelt-kansas-city-chiefs-trainer-andy-reid-an](https://www.spiegel.de/sport/american-football/super-bowl-2024-travis-kelce-rempelt-kansas-city-chiefs-trainer-andy-reid-an-a-21373d4e-aad3-4630-bff9-70319bfedeb8#ref=rss)
+* [https://www.spiegel.de/sport/fussball/hamburger-sv-trennt-sich-von-trainer-tim-walter](https://www.spiegel.de/sport/fussball/hamburger-sv-trennt-sich-von-trainer-tim-walter-a-61293595-e88c-4d5f-a1b4-3d42cfba8c71#ref=rss)
+### verletzt
+
+* [https://www.spiegel.de/sport/basketball/17-jahre-alter-ukrainischer-nachwuchsbasketballer-in-oberhausen-getoetet](https://www.spiegel.de/sport/basketball/17-jahre-alter-ukrainischer-nachwuchsbasketballer-in-oberhausen-getoetet-a-a3228faa-f34c-4357-83ed-1749a0f02292#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/texas-frau-mit-kleinkind-gibt-schuesse-in-kirche-ab-und-wird-getoetet](https://www.spiegel.de/panorama/justiz/texas-frau-mit-kleinkind-gibt-schuesse-in-kirche-ab-und-wird-getoetet-a-adce2fd2-bcbb-421f-b694-80a5198cbcf9#ref=rss)
+### borrell
+
+* [https://www.spiegel.de/ausland/josep-borrell-kritisiert-donald-trump-die-nato-kann-kein-militaerbuendnis-a-la-carte-sein](https://www.spiegel.de/ausland/josep-borrell-kritisiert-donald-trump-die-nato-kann-kein-militaerbuendnis-a-la-carte-sein-a-4e5a0abc-a21e-4da5-84a4-9307d4f77023#ref=rss)
+### fernwärme
+
+* [https://www.spiegel.de/wirtschaft/energiewende-plattform-fuer-fernwaerme-soll-preistreibern-druck-machen](https://www.spiegel.de/wirtschaft/energiewende-plattform-fuer-fernwaerme-soll-preistreibern-druck-machen-a-1c43d68f-6097-40bd-bdab-6eba3d13cced#ref=rss)
+### wahl
+
+* [https://www.spiegel.de/wirtschaft/energiewende-plattform-fuer-fernwaerme-soll-preistreibern-druck-machen](https://www.spiegel.de/wirtschaft/energiewende-plattform-fuer-fernwaerme-soll-preistreibern-druck-machen-a-1c43d68f-6097-40bd-bdab-6eba3d13cced#ref=rss)
+* [https://www.spiegel.de/ausland/finnland-waehlt-alexander-stubb-zum-praesidenten-ein-gewinner-kein-verlierer](https://www.spiegel.de/ausland/finnland-waehlt-alexander-stubb-zum-praesidenten-ein-gewinner-kein-verlierer-a-ea240cba-928f-4e60-807e-eabf5610aba3#ref=rss)
+### konkurrenz
+
+* [https://www.spiegel.de/wirtschaft/energiewende-plattform-fuer-fernwaerme-soll-preistreibern-druck-machen](https://www.spiegel.de/wirtschaft/energiewende-plattform-fuer-fernwaerme-soll-preistreibern-druck-machen-a-1c43d68f-6097-40bd-bdab-6eba3d13cced#ref=rss)
+* [https://www.spiegel.de/sport/fussball/hamburger-sv-trennt-sich-von-trainer-tim-walter](https://www.spiegel.de/sport/fussball/hamburger-sv-trennt-sich-von-trainer-tim-walter-a-61293595-e88c-4d5f-a1b4-3d42cfba8c71#ref=rss)
+### preise
+
+* [https://www.spiegel.de/wirtschaft/energiewende-plattform-fuer-fernwaerme-soll-preistreibern-druck-machen](https://www.spiegel.de/wirtschaft/energiewende-plattform-fuer-fernwaerme-soll-preistreibern-druck-machen-a-1c43d68f-6097-40bd-bdab-6eba3d13cced#ref=rss)
+* [https://www.spiegel.de/wirtschaft/immobilienmarkt-fallende-preise-krise-bedroht-zunehmend-auch-banken](https://www.spiegel.de/wirtschaft/immobilienmarkt-fallende-preise-krise-bedroht-zunehmend-auch-banken-a-4c977787-31f2-4387-882b-895f3c778581#ref=rss)
+### rochdale
+
+* [https://www.spiegel.de/panorama/justiz/rochdale-jungen-zwischen-12-und-14-wegen-vergewaltigung-festgenommen](https://www.spiegel.de/panorama/justiz/rochdale-jungen-zwischen-12-und-14-wegen-vergewaltigung-festgenommen-a-33b55cda-0db7-4d71-9ddb-103a07dd5a31#ref=rss)
+### unter
+
+* [https://www.spiegel.de/panorama/justiz/rochdale-jungen-zwischen-12-und-14-wegen-vergewaltigung-festgenommen](https://www.spiegel.de/panorama/justiz/rochdale-jungen-zwischen-12-und-14-wegen-vergewaltigung-festgenommen-a-33b55cda-0db7-4d71-9ddb-103a07dd5a31#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/texas-frau-mit-kleinkind-gibt-schuesse-in-kirche-ab-und-wird-getoetet](https://www.spiegel.de/panorama/justiz/texas-frau-mit-kleinkind-gibt-schuesse-in-kirche-ab-und-wird-getoetet-a-adce2fd2-bcbb-421f-b694-80a5198cbcf9#ref=rss)
+### rosenmontag
+
+* [https://www.spiegel.de/panorama/rosenmontag-in-koeln-hoehepunkt-des-strassenkarnevals-die-besten-bilder](https://www.spiegel.de/panorama/rosenmontag-in-koeln-hoehepunkt-des-strassenkarnevals-die-besten-bilder-a-646db24c-c637-4049-a05b-655328a8c159#ref=rss)
+* [https://www.spiegel.de/panorama/karneval-in-koeln-am-rosenmontag-bunte-kostueme-grauer-himmel](https://www.spiegel.de/panorama/karneval-in-koeln-am-rosenmontag-bunte-kostueme-grauer-himmel-a-b794546e-b3c0-42e6-8c90-e459199c36e4#ref=rss)
+### besten
+
+* [https://www.spiegel.de/panorama/rosenmontag-in-koeln-hoehepunkt-des-strassenkarnevals-die-besten-bilder](https://www.spiegel.de/panorama/rosenmontag-in-koeln-hoehepunkt-des-strassenkarnevals-die-besten-bilder-a-646db24c-c637-4049-a05b-655328a8c159#ref=rss)
+* [https://www.spiegel.de/panorama/karneval-in-koeln-am-rosenmontag-bunte-kostueme-grauer-himmel](https://www.spiegel.de/panorama/karneval-in-koeln-am-rosenmontag-bunte-kostueme-grauer-himmel-a-b794546e-b3c0-42e6-8c90-e459199c36e4#ref=rss)
+### bilder
+
+* [https://www.spiegel.de/panorama/rosenmontag-in-koeln-hoehepunkt-des-strassenkarnevals-die-besten-bilder](https://www.spiegel.de/panorama/rosenmontag-in-koeln-hoehepunkt-des-strassenkarnevals-die-besten-bilder-a-646db24c-c637-4049-a05b-655328a8c159#ref=rss)
+### kostüme
+
+* [https://www.spiegel.de/panorama/rosenmontag-in-koeln-hoehepunkt-des-strassenkarnevals-die-besten-bilder](https://www.spiegel.de/panorama/rosenmontag-in-koeln-hoehepunkt-des-strassenkarnevals-die-besten-bilder-a-646db24c-c637-4049-a05b-655328a8c159#ref=rss)
+* [https://www.spiegel.de/panorama/karneval-in-koeln-am-rosenmontag-bunte-kostueme-grauer-himmel](https://www.spiegel.de/panorama/karneval-in-koeln-am-rosenmontag-bunte-kostueme-grauer-himmel-a-b794546e-b3c0-42e6-8c90-e459199c36e4#ref=rss)
+### läuft
+
+* [https://www.spiegel.de/panorama/rosenmontag-in-koeln-hoehepunkt-des-strassenkarnevals-die-besten-bilder](https://www.spiegel.de/panorama/rosenmontag-in-koeln-hoehepunkt-des-strassenkarnevals-die-besten-bilder-a-646db24c-c637-4049-a05b-655328a8c159#ref=rss)
+* [https://www.spiegel.de/wirtschaft/teslawerk-in-gruenheide-produktion-laeuft-wieder-nach-zwangspause-durch-angriffe-im-roten-meer](https://www.spiegel.de/wirtschaft/teslawerk-in-gruenheide-produktion-laeuft-wieder-nach-zwangspause-durch-angriffe-im-roten-meer-a-d634df57-9a95-438c-be00-02a7af3560ca#ref=rss)
+### dan
+
+* [https://www.spiegel.de/stil/rezept-heute-gibt-es-dan-dan-nudeln](https://www.spiegel.de/stil/rezept-heute-gibt-es-dan-dan-nudeln-a-fff995a3-9f6e-48eb-bf21-ba2c832a1614#ref=rss)
+### china
+
+* [https://www.spiegel.de/stil/rezept-heute-gibt-es-dan-dan-nudeln](https://www.spiegel.de/stil/rezept-heute-gibt-es-dan-dan-nudeln-a-fff995a3-9f6e-48eb-bf21-ba2c832a1614#ref=rss)
+* [https://www.spiegel.de/wirtschaft/volkswagen-in-china-politiker-fordern-rueckzug-aus-xinjiang-wegen-zwangsarbeit](https://www.spiegel.de/wirtschaft/volkswagen-in-china-politiker-fordern-rueckzug-aus-xinjiang-wegen-zwangsarbeit-a-ed695b35-a78f-4939-ae3d-0be14afc7cdd#ref=rss)
+### alexander
+
+* [https://www.spiegel.de/ausland/finnland-waehlt-alexander-stubb-zum-praesidenten-ein-gewinner-kein-verlierer](https://www.spiegel.de/ausland/finnland-waehlt-alexander-stubb-zum-praesidenten-ein-gewinner-kein-verlierer-a-ea240cba-928f-4e60-807e-eabf5610aba3#ref=rss)
+### stubb
+
+* [https://www.spiegel.de/ausland/finnland-waehlt-alexander-stubb-zum-praesidenten-ein-gewinner-kein-verlierer](https://www.spiegel.de/ausland/finnland-waehlt-alexander-stubb-zum-praesidenten-ein-gewinner-kein-verlierer-a-ea240cba-928f-4e60-807e-eabf5610aba3#ref=rss)
+### präsidenten
+
+* [https://www.spiegel.de/ausland/finnland-waehlt-alexander-stubb-zum-praesidenten-ein-gewinner-kein-verlierer](https://www.spiegel.de/ausland/finnland-waehlt-alexander-stubb-zum-praesidenten-ein-gewinner-kein-verlierer-a-ea240cba-928f-4e60-807e-eabf5610aba3#ref=rss)
+### gewinner
+
+* [https://www.spiegel.de/ausland/finnland-waehlt-alexander-stubb-zum-praesidenten-ein-gewinner-kein-verlierer](https://www.spiegel.de/ausland/finnland-waehlt-alexander-stubb-zum-praesidenten-ein-gewinner-kein-verlierer-a-ea240cba-928f-4e60-807e-eabf5610aba3#ref=rss)
+### immobilienmarkt
+
+* [https://www.spiegel.de/wirtschaft/immobilienmarkt-fallende-preise-krise-bedroht-zunehmend-auch-banken](https://www.spiegel.de/wirtschaft/immobilienmarkt-fallende-preise-krise-bedroht-zunehmend-auch-banken-a-4c977787-31f2-4387-882b-895f3c778581#ref=rss)
+### krise
+
+* [https://www.spiegel.de/wirtschaft/immobilienmarkt-fallende-preise-krise-bedroht-zunehmend-auch-banken](https://www.spiegel.de/wirtschaft/immobilienmarkt-fallende-preise-krise-bedroht-zunehmend-auch-banken-a-4c977787-31f2-4387-882b-895f3c778581#ref=rss)
+### zunehmend
+
+* [https://www.spiegel.de/wirtschaft/immobilienmarkt-fallende-preise-krise-bedroht-zunehmend-auch-banken](https://www.spiegel.de/wirtschaft/immobilienmarkt-fallende-preise-krise-bedroht-zunehmend-auch-banken-a-4c977787-31f2-4387-882b-895f3c778581#ref=rss)
+* [https://www.spiegel.de/wirtschaft/volkswagen-in-china-politiker-fordern-rueckzug-aus-xinjiang-wegen-zwangsarbeit](https://www.spiegel.de/wirtschaft/volkswagen-in-china-politiker-fordern-rueckzug-aus-xinjiang-wegen-zwangsarbeit-a-ed695b35-a78f-4939-ae3d-0be14afc7cdd#ref=rss)
+### banken
+
+* [https://www.spiegel.de/wirtschaft/immobilienmarkt-fallende-preise-krise-bedroht-zunehmend-auch-banken](https://www.spiegel.de/wirtschaft/immobilienmarkt-fallende-preise-krise-bedroht-zunehmend-auch-banken-a-4c977787-31f2-4387-882b-895f3c778581#ref=rss)
+### berlinwahl
+
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-linke-schoepft-zuversicht-aus-mini-bundestagswahl](https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-linke-schoepft-zuversicht-aus-mini-bundestagswahl-a-215b275c-db8a-4162-846d-cfe4ab2b16ae#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-bundestag-wird-einen-sitz-kleiner](https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-bundestag-wird-einen-sitz-kleiner-a-4b62e3b2-edd3-44a0-b684-3c6704f8626d#ref=rss)
+### linke
+
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-linke-schoepft-zuversicht-aus-mini-bundestagswahl](https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-linke-schoepft-zuversicht-aus-mini-bundestagswahl-a-215b275c-db8a-4162-846d-cfe4ab2b16ae#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-linke-schoepft-zuversicht-aus-mini-bundestagswahl](https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-linke-schoepft-zuversicht-aus-mini-bundestagswahl-a-215b275c-db8a-4162-846d-cfe4ab2b16ae#ref=rss)
+* [https://www.spiegel.de/sport/fussball/hamburger-sv-trennt-sich-von-trainer-tim-walter](https://www.spiegel.de/sport/fussball/hamburger-sv-trennt-sich-von-trainer-tim-walter-a-61293595-e88c-4d5f-a1b4-3d42cfba8c71#ref=rss)
+### partei
+
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-linke-schoepft-zuversicht-aus-mini-bundestagswahl](https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-linke-schoepft-zuversicht-aus-mini-bundestagswahl-a-215b275c-db8a-4162-846d-cfe4ab2b16ae#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-bundestag-wird-einen-sitz-kleiner](https://www.spiegel.de/politik/deutschland/berlin-wahl-2024-bundestag-wird-einen-sitz-kleiner-a-4b62e3b2-edd3-44a0-b684-3c6704f8626d#ref=rss)
+### geiseln
+
+* [https://www.spiegel.de/ausland/gaza-wie-israel-die-befreiung-der-zwei-geiseln-aus-rafah-gelang](https://www.spiegel.de/ausland/gaza-wie-israel-die-befreiung-der-zwei-geiseln-aus-rafah-gelang-a-7f3c8001-4fd7-4b51-ab92-11b79f9fbe82#ref=rss)
+### gelang
+
+* [https://www.spiegel.de/ausland/gaza-wie-israel-die-befreiung-der-zwei-geiseln-aus-rafah-gelang](https://www.spiegel.de/ausland/gaza-wie-israel-die-befreiung-der-zwei-geiseln-aus-rafah-gelang-a-7f3c8001-4fd7-4b51-ab92-11b79f9fbe82#ref=rss)
+* [https://www.spiegel.de/sport/american-football/super-bowl-so-gelang-den-kansas-city-chiefs-der-zitter-sieg-gegen-die-san-francisco-49ers](https://www.spiegel.de/sport/american-football/super-bowl-so-gelang-den-kansas-city-chiefs-der-zitter-sieg-gegen-die-san-francisco-49ers-a-81d1a432-cfde-4303-a117-23743f1c1ad0#ref=rss)
+### gelungen
+
+* [https://www.spiegel.de/ausland/gaza-wie-israel-die-befreiung-der-zwei-geiseln-aus-rafah-gelang](https://www.spiegel.de/ausland/gaza-wie-israel-die-befreiung-der-zwei-geiseln-aus-rafah-gelang-a-7f3c8001-4fd7-4b51-ab92-11b79f9fbe82#ref=rss)
+* [https://www.spiegel.de/sport/basketball/olympische-spiele-2024-deutsche-basketballerinnen-erstmals-fuer-olympia-qualifiziert](https://www.spiegel.de/sport/basketball/olympische-spiele-2024-deutsche-basketballerinnen-erstmals-fuer-olympia-qualifiziert-a-39d4ad4e-2e21-4518-93ce-131a4a05d53f#ref=rss)
+### frau
+
+* [https://www.spiegel.de/panorama/justiz/texas-frau-mit-kleinkind-gibt-schuesse-in-kirche-ab-und-wird-getoetet](https://www.spiegel.de/panorama/justiz/texas-frau-mit-kleinkind-gibt-schuesse-in-kirche-ab-und-wird-getoetet-a-adce2fd2-bcbb-421f-b694-80a5198cbcf9#ref=rss)
+### kleinkind
+
+* [https://www.spiegel.de/panorama/justiz/texas-frau-mit-kleinkind-gibt-schuesse-in-kirche-ab-und-wird-getoetet](https://www.spiegel.de/panorama/justiz/texas-frau-mit-kleinkind-gibt-schuesse-in-kirche-ab-und-wird-getoetet-a-adce2fd2-bcbb-421f-b694-80a5198cbcf9#ref=rss)
+### tim
+
+* [https://www.spiegel.de/sport/fussball/hamburger-sv-trennt-sich-von-trainer-tim-walter](https://www.spiegel.de/sport/fussball/hamburger-sv-trennt-sich-von-trainer-tim-walter-a-61293595-e88c-4d5f-a1b4-3d42cfba8c71#ref=rss)
+### walter
+
+* [https://www.spiegel.de/sport/fussball/hamburger-sv-trennt-sich-von-trainer-tim-walter](https://www.spiegel.de/sport/fussball/hamburger-sv-trennt-sich-von-trainer-tim-walter-a-61293595-e88c-4d5f-a1b4-3d42cfba8c71#ref=rss)
+### projekt
+
+* [https://www.spiegel.de/sport/fussball/hamburger-sv-trennt-sich-von-trainer-tim-walter](https://www.spiegel.de/sport/fussball/hamburger-sv-trennt-sich-von-trainer-tim-walter-a-61293595-e88c-4d5f-a1b4-3d42cfba8c71#ref=rss)
+* [https://www.spiegel.de/wirtschaft/volkswagen-in-china-politiker-fordern-rueckzug-aus-xinjiang-wegen-zwangsarbeit](https://www.spiegel.de/wirtschaft/volkswagen-in-china-politiker-fordern-rueckzug-aus-xinjiang-wegen-zwangsarbeit-a-ed695b35-a78f-4939-ae3d-0be14afc7cdd#ref=rss)
+### gehen
+
+* [https://www.spiegel.de/sport/fussball/hamburger-sv-trennt-sich-von-trainer-tim-walter](https://www.spiegel.de/sport/fussball/hamburger-sv-trennt-sich-von-trainer-tim-walter-a-61293595-e88c-4d5f-a1b4-3d42cfba8c71#ref=rss)
+* [https://www.spiegel.de/kultur/musik/ac-dc-band-verkuendet-buehnen-comeback-neun-konzerte-in-deutschland-geplant](https://www.spiegel.de/kultur/musik/ac-dc-band-verkuendet-buehnen-comeback-neun-konzerte-in-deutschland-geplant-a-dd389513-c25e-4b79-bd84-0ce26a73c986#ref=rss)
+### ac/dc
+
+* [https://www.spiegel.de/kultur/musik/ac-dc-band-verkuendet-buehnen-comeback-neun-konzerte-in-deutschland-geplant](https://www.spiegel.de/kultur/musik/ac-dc-band-verkuendet-buehnen-comeback-neun-konzerte-in-deutschland-geplant-a-dd389513-c25e-4b79-bd84-0ce26a73c986#ref=rss)
+### erstmals
+
+* [https://www.spiegel.de/kultur/musik/ac-dc-band-verkuendet-buehnen-comeback-neun-konzerte-in-deutschland-geplant](https://www.spiegel.de/kultur/musik/ac-dc-band-verkuendet-buehnen-comeback-neun-konzerte-in-deutschland-geplant-a-dd389513-c25e-4b79-bd84-0ce26a73c986#ref=rss)
+* [https://www.spiegel.de/sport/basketball/olympische-spiele-2024-deutsche-basketballerinnen-erstmals-fuer-olympia-qualifiziert](https://www.spiegel.de/sport/basketball/olympische-spiele-2024-deutsche-basketballerinnen-erstmals-fuer-olympia-qualifiziert-a-39d4ad4e-2e21-4518-93ce-131a4a05d53f#ref=rss)
+### beyoncé
+
+* [https://www.spiegel.de/kultur/musik/beyonce-kuendigt-in-super-bowl-werbespot-countryalbum-act-ii-an](https://www.spiegel.de/kultur/musik/beyonce-kuendigt-in-super-bowl-werbespot-countryalbum-act-ii-an-a-9f69a630-f32f-4df3-8277-0d55fcb1c7d8#ref=rss)
+### neue
+
+* [https://www.spiegel.de/kultur/musik/beyonce-kuendigt-in-super-bowl-werbespot-countryalbum-act-ii-an](https://www.spiegel.de/kultur/musik/beyonce-kuendigt-in-super-bowl-werbespot-countryalbum-act-ii-an-a-9f69a630-f32f-4df3-8277-0d55fcb1c7d8#ref=rss)
+* [https://www.spiegel.de/sport/american-football/super-bowl-so-gelang-den-kansas-city-chiefs-der-zitter-sieg-gegen-die-san-francisco-49ers](https://www.spiegel.de/sport/american-football/super-bowl-so-gelang-den-kansas-city-chiefs-der-zitter-sieg-gegen-die-san-francisco-49ers-a-81d1a432-cfde-4303-a117-23743f1c1ad0#ref=rss)
+### westerstede
+
+* [https://www.spiegel.de/panorama/justiz/westerstede-im-landkreis-ammerland-vater-liess-offenbar-elfjaehrigen-ans-steuer](https://www.spiegel.de/panorama/justiz/westerstede-im-landkreis-ammerland-vater-liess-offenbar-elfjaehrigen-ans-steuer-a-2e64beff-d067-4fea-91c7-9cce68714423#ref=rss)
+### vater
+
+* [https://www.spiegel.de/panorama/justiz/westerstede-im-landkreis-ammerland-vater-liess-offenbar-elfjaehrigen-ans-steuer](https://www.spiegel.de/panorama/justiz/westerstede-im-landkreis-ammerland-vater-liess-offenbar-elfjaehrigen-ans-steuer-a-2e64beff-d067-4fea-91c7-9cce68714423#ref=rss)
+### steuer
+
+* [https://www.spiegel.de/panorama/justiz/westerstede-im-landkreis-ammerland-vater-liess-offenbar-elfjaehrigen-ans-steuer](https://www.spiegel.de/panorama/justiz/westerstede-im-landkreis-ammerland-vater-liess-offenbar-elfjaehrigen-ans-steuer-a-2e64beff-d067-4fea-91c7-9cce68714423#ref=rss)
+### vorfall
+
+* [https://www.spiegel.de/panorama/justiz/westerstede-im-landkreis-ammerland-vater-liess-offenbar-elfjaehrigen-ans-steuer](https://www.spiegel.de/panorama/justiz/westerstede-im-landkreis-ammerland-vater-liess-offenbar-elfjaehrigen-ans-steuer-a-2e64beff-d067-4fea-91c7-9cce68714423#ref=rss)
+### alte
+
+* [https://www.spiegel.de/panorama/justiz/westerstede-im-landkreis-ammerland-vater-liess-offenbar-elfjaehrigen-ans-steuer](https://www.spiegel.de/panorama/justiz/westerstede-im-landkreis-ammerland-vater-liess-offenbar-elfjaehrigen-ans-steuer-a-2e64beff-d067-4fea-91c7-9cce68714423#ref=rss)
+* [https://www.spiegel.de/sport/american-football/super-bowl-so-gelang-den-kansas-city-chiefs-der-zitter-sieg-gegen-die-san-francisco-49ers](https://www.spiegel.de/sport/american-football/super-bowl-so-gelang-den-kansas-city-chiefs-der-zitter-sieg-gegen-die-san-francisco-49ers-a-81d1a432-cfde-4303-a117-23743f1c1ad0#ref=rss)
 ### patrick
 
-* [https://www.spiegel.de/sport/american-football/super-bowl-nfl-star-patrick-mahomes-ist-der-unausweichliche](https://www.spiegel.de/sport/american-football/super-bowl-nfl-star-patrick-mahomes-ist-der-unausweichliche-a-7b143bf0-24c8-44a6-8558-74d0e35ff735#ref=rss)
+* [https://www.spiegel.de/sport/american-football/super-bowl-so-gelang-den-kansas-city-chiefs-der-zitter-sieg-gegen-die-san-francisco-49ers](https://www.spiegel.de/sport/american-football/super-bowl-so-gelang-den-kansas-city-chiefs-der-zitter-sieg-gegen-die-san-francisco-49ers-a-81d1a432-cfde-4303-a117-23743f1c1ad0#ref=rss)
+* [https://www.spiegel.de/sport/american-football/taylor-swift-beim-super-bowl-der-moment-in-dem-der-popstar-fuer-den-sieg-sorgte](https://www.spiegel.de/sport/american-football/taylor-swift-beim-super-bowl-der-moment-in-dem-der-popstar-fuer-den-sieg-sorgte-a-f022f0bb-3d56-497f-872d-673d6aa5015c#ref=rss)
 ### mahomes
 
-* [https://www.spiegel.de/sport/american-football/super-bowl-nfl-star-patrick-mahomes-ist-der-unausweichliche](https://www.spiegel.de/sport/american-football/super-bowl-nfl-star-patrick-mahomes-ist-der-unausweichliche-a-7b143bf0-24c8-44a6-8558-74d0e35ff735#ref=rss)
+* [https://www.spiegel.de/sport/american-football/super-bowl-so-gelang-den-kansas-city-chiefs-der-zitter-sieg-gegen-die-san-francisco-49ers](https://www.spiegel.de/sport/american-football/super-bowl-so-gelang-den-kansas-city-chiefs-der-zitter-sieg-gegen-die-san-francisco-49ers-a-81d1a432-cfde-4303-a117-23743f1c1ad0#ref=rss)
+* [https://www.spiegel.de/sport/american-football/taylor-swift-beim-super-bowl-der-moment-in-dem-der-popstar-fuer-den-sieg-sorgte](https://www.spiegel.de/sport/american-football/taylor-swift-beim-super-bowl-der-moment-in-dem-der-popstar-fuer-den-sieg-sorgte-a-f022f0bb-3d56-497f-872d-673d6aa5015c#ref=rss)
+### bonn
+
+* [https://www.spiegel.de/start/studieren-in-bonn-campus-wohnviertel-wg-zimmer-preise-und-kneipen](https://www.spiegel.de/start/studieren-in-bonn-campus-wohnviertel-wg-zimmer-preise-und-kneipen-a-1e8ef2f4-471a-4bc3-af40-98087860f202#ref=rss)
+### kneipen
+
+* [https://www.spiegel.de/start/studieren-in-bonn-campus-wohnviertel-wg-zimmer-preise-und-kneipen](https://www.spiegel.de/start/studieren-in-bonn-campus-wohnviertel-wg-zimmer-preise-und-kneipen-a-1e8ef2f4-471a-4bc3-af40-98087860f202#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/panorama/justiz/deutsche-bahn-verspaetungen-zwischen-frankfurt-am-main-und-stuttgart-wegen-metalldiebstahl](https://www.spiegel.de/panorama/justiz/deutsche-bahn-verspaetungen-zwischen-frankfurt-am-main-und-stuttgart-wegen-metalldiebstahl-a-a45ce0cc-91f4-47c5-9798-ec673fcaf212#ref=rss)
+### metalldiebstahl
+
+* [https://www.spiegel.de/panorama/justiz/deutsche-bahn-verspaetungen-zwischen-frankfurt-am-main-und-stuttgart-wegen-metalldiebstahl](https://www.spiegel.de/panorama/justiz/deutsche-bahn-verspaetungen-zwischen-frankfurt-am-main-und-stuttgart-wegen-metalldiebstahl-a-a45ce0cc-91f4-47c5-9798-ec673fcaf212#ref=rss)
+### laut
+
+* [https://www.spiegel.de/panorama/justiz/deutsche-bahn-verspaetungen-zwischen-frankfurt-am-main-und-stuttgart-wegen-metalldiebstahl](https://www.spiegel.de/panorama/justiz/deutsche-bahn-verspaetungen-zwischen-frankfurt-am-main-und-stuttgart-wegen-metalldiebstahl-a-a45ce0cc-91f4-47c5-9798-ec673fcaf212#ref=rss)
+* [https://www.spiegel.de/wirtschaft/mittelstand-firmen-im-wettlauf-um-geeignete-nachfolger-luecke-waechst-laut-studie](https://www.spiegel.de/wirtschaft/mittelstand-firmen-im-wettlauf-um-geeignete-nachfolger-luecke-waechst-laut-studie-a-3637925f-f95c-436c-a3cd-5852d48e030a#ref=rss)
+### ende
+
+* [https://www.spiegel.de/sport/basketball/olympische-spiele-2024-deutsche-basketballerinnen-erstmals-fuer-olympia-qualifiziert](https://www.spiegel.de/sport/basketball/olympische-spiele-2024-deutsche-basketballerinnen-erstmals-fuer-olympia-qualifiziert-a-39d4ad4e-2e21-4518-93ce-131a4a05d53f#ref=rss)
+* [https://www.spiegel.de/sport/american-football/taylor-swift-beim-super-bowl-der-moment-in-dem-der-popstar-fuer-den-sieg-sorgte](https://www.spiegel.de/sport/american-football/taylor-swift-beim-super-bowl-der-moment-in-dem-der-popstar-fuer-den-sieg-sorgte-a-f022f0bb-3d56-497f-872d-673d6aa5015c#ref=rss)
+### nachfolger
+
+* [https://www.spiegel.de/wirtschaft/mittelstand-firmen-im-wettlauf-um-geeignete-nachfolger-luecke-waechst-laut-studie](https://www.spiegel.de/wirtschaft/mittelstand-firmen-im-wettlauf-um-geeignete-nachfolger-luecke-waechst-laut-studie-a-3637925f-f95c-436c-a3cd-5852d48e030a#ref=rss)
+### studie
+
+* [https://www.spiegel.de/wirtschaft/mittelstand-firmen-im-wettlauf-um-geeignete-nachfolger-luecke-waechst-laut-studie](https://www.spiegel.de/wirtschaft/mittelstand-firmen-im-wettlauf-um-geeignete-nachfolger-luecke-waechst-laut-studie-a-3637925f-f95c-436c-a3cd-5852d48e030a#ref=rss)
+### teslawerk
+
+* [https://www.spiegel.de/wirtschaft/teslawerk-in-gruenheide-produktion-laeuft-wieder-nach-zwangspause-durch-angriffe-im-roten-meer](https://www.spiegel.de/wirtschaft/teslawerk-in-gruenheide-produktion-laeuft-wieder-nach-zwangspause-durch-angriffe-im-roten-meer-a-d634df57-9a95-438c-be00-02a7af3560ca#ref=rss)
+### grünheide
+
+* [https://www.spiegel.de/wirtschaft/teslawerk-in-gruenheide-produktion-laeuft-wieder-nach-zwangspause-durch-angriffe-im-roten-meer](https://www.spiegel.de/wirtschaft/teslawerk-in-gruenheide-produktion-laeuft-wieder-nach-zwangspause-durch-angriffe-im-roten-meer-a-d634df57-9a95-438c-be00-02a7af3560ca#ref=rss)
+### produktion
+
+* [https://www.spiegel.de/wirtschaft/teslawerk-in-gruenheide-produktion-laeuft-wieder-nach-zwangspause-durch-angriffe-im-roten-meer](https://www.spiegel.de/wirtschaft/teslawerk-in-gruenheide-produktion-laeuft-wieder-nach-zwangspause-durch-angriffe-im-roten-meer-a-d634df57-9a95-438c-be00-02a7af3560ca#ref=rss)
+### fordern
+
+* [https://www.spiegel.de/wirtschaft/volkswagen-in-china-politiker-fordern-rueckzug-aus-xinjiang-wegen-zwangsarbeit](https://www.spiegel.de/wirtschaft/volkswagen-in-china-politiker-fordern-rueckzug-aus-xinjiang-wegen-zwangsarbeit-a-ed695b35-a78f-4939-ae3d-0be14afc7cdd#ref=rss)
+### xinjiang
+
+* [https://www.spiegel.de/wirtschaft/volkswagen-in-china-politiker-fordern-rueckzug-aus-xinjiang-wegen-zwangsarbeit](https://www.spiegel.de/wirtschaft/volkswagen-in-china-politiker-fordern-rueckzug-aus-xinjiang-wegen-zwangsarbeit-a-ed695b35-a78f-4939-ae3d-0be14afc7cdd#ref=rss)
 
