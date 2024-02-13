@@ -4,320 +4,356 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
+### donald
+
+* [https://www.spiegel.de/wirtschaft/nikki-haley-wechseln-die-reichen-spender-im-us-wahlkampf-jetzt-zu-donald-trump](https://www.spiegel.de/wirtschaft/nikki-haley-wechseln-die-reichen-spender-im-us-wahlkampf-jetzt-zu-donald-trump-a-407c8d91-6f09-420a-818b-245fcb11cec7#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-inkasso-co-die-drohungen-gegen-washingtons-nato-partner-der-spiegel-leitartikel](https://www.spiegel.de/ausland/donald-trump-inkasso-co-die-drohungen-gegen-washingtons-nato-partner-der-spiegel-leitartikel-a-69edbebf-fdbd-4854-9cd5-792fb91829a7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/katarina-barley-spd-spitzenkandidatin-fuer-die-europawahl-bringt-eu-atombomben-fuer-europaeische-armee-ins-gespraech](https://www.spiegel.de/politik/deutschland/katarina-barley-spd-spitzenkandidatin-fuer-die-europawahl-bringt-eu-atombomben-fuer-europaeische-armee-ins-gespraech-a-263da72d-c631-4bfa-aa1d-94f9f77cb8cc#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-ex-us-praesident-reklamiert-staerkung-der-nato-fuer-sich](https://www.spiegel.de/ausland/donald-trump-ex-us-praesident-reklamiert-staerkung-der-nato-fuer-sich-a-717cc12f-c183-467c-a956-197dad0db573#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-nato-europa-fdp-gazastreifen-annalena-baerbock](https://www.spiegel.de/politik/deutschland/news-donald-trump-nato-europa-fdp-gazastreifen-annalena-baerbock-a-40ae1bb0-1a2d-422b-be4b-9275f2309e62#ref=rss)
+### trump
+
+* [https://www.spiegel.de/wirtschaft/nikki-haley-wechseln-die-reichen-spender-im-us-wahlkampf-jetzt-zu-donald-trump](https://www.spiegel.de/wirtschaft/nikki-haley-wechseln-die-reichen-spender-im-us-wahlkampf-jetzt-zu-donald-trump-a-407c8d91-6f09-420a-818b-245fcb11cec7#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-inkasso-co-die-drohungen-gegen-washingtons-nato-partner-der-spiegel-leitartikel](https://www.spiegel.de/ausland/donald-trump-inkasso-co-die-drohungen-gegen-washingtons-nato-partner-der-spiegel-leitartikel-a-69edbebf-fdbd-4854-9cd5-792fb91829a7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/katarina-barley-spd-spitzenkandidatin-fuer-die-europawahl-bringt-eu-atombomben-fuer-europaeische-armee-ins-gespraech](https://www.spiegel.de/politik/deutschland/katarina-barley-spd-spitzenkandidatin-fuer-die-europawahl-bringt-eu-atombomben-fuer-europaeische-armee-ins-gespraech-a-263da72d-c631-4bfa-aa1d-94f9f77cb8cc#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-ex-us-praesident-reklamiert-staerkung-der-nato-fuer-sich](https://www.spiegel.de/ausland/donald-trump-ex-us-praesident-reklamiert-staerkung-der-nato-fuer-sich-a-717cc12f-c183-467c-a956-197dad0db573#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-nato-europa-fdp-gazastreifen-annalena-baerbock](https://www.spiegel.de/politik/deutschland/news-donald-trump-nato-europa-fdp-gazastreifen-annalena-baerbock-a-40ae1bb0-1a2d-422b-be4b-9275f2309e62#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/politik/christian-lindner-vs-die-letzte-generation-ihr-macht-klimaschutz-in-eurer-geschuetzten-deutschen-wohlstandsblase-spiegel-tv](https://www.spiegel.de/politik/christian-lindner-vs-die-letzte-generation-ihr-macht-klimaschutz-in-eurer-geschuetzten-deutschen-wohlstandsblase-spiegel-tv-a-ae883a94-dd71-4b3e-bcd2-a36f7ccd71c5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-stimmung-im-deutschen-wohnungsbau-faellt-auf-historisches-tief](https://www.spiegel.de/wirtschaft/unternehmen/ifo-stimmung-im-deutschen-wohnungsbau-faellt-auf-historisches-tief-a-19dfc21f-10bb-4069-b0a1-7873eea06915#ref=rss)
+* [https://www.spiegel.de/sport/schwimmen-florian-wellbrock-bei-wm-weit-von-olympia-form-weg](https://www.spiegel.de/sport/schwimmen-florian-wellbrock-bei-wm-weit-von-olympia-form-weg-a-efe6dbbf-8598-47ba-bc04-eb33d0332a09#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutsche-verteidigung-mehrheit-der-bevoelkerung-unterstuetzt-2-prozent-ziel-der-nato](https://www.spiegel.de/politik/deutschland/deutsche-verteidigung-mehrheit-der-bevoelkerung-unterstuetzt-2-prozent-ziel-der-nato-a-89f4e37c-a9aa-41e9-b3cb-0ce4b253c193#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/politik/deutschland/familienministerin-lisa-paus-draengt-fdp-zu-zustimmung-zum-demokratiefoerdergesetz](https://www.spiegel.de/politik/deutschland/familienministerin-lisa-paus-draengt-fdp-zu-zustimmung-zum-demokratiefoerdergesetz-a-d76e4150-558f-45e0-a0d4-b8a49cf97f2b#ref=rss)
-* [https://www.spiegel.de/sport/schwimm-wm-angelina-koehler-gewinnt-gold-ueber-100-meter-schmetterling](https://www.spiegel.de/sport/schwimm-wm-angelina-koehler-gewinnt-gold-ueber-100-meter-schmetterling-a-68573440-a220-494e-b9e9-6358d9e1857a#ref=rss)
-* [https://www.spiegel.de/panorama/skigebiet-bei-davos-juden-sollen-keine-sportausruestung-mehr-ausleihen-koennen](https://www.spiegel.de/panorama/skigebiet-bei-davos-juden-sollen-keine-sportausruestung-mehr-ausleihen-koennen-a-8fad2d41-17a0-410c-8ada-94dcb3fbe1c7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/abschiebungen-in-die-tuerkei-regierung-beklagt-probleme](https://www.spiegel.de/politik/deutschland/abschiebungen-in-die-tuerkei-regierung-beklagt-probleme-a-dc7386e5-17f9-4aed-9421-1a9da75b16c1#ref=rss)
-### unbekannte
+* [https://www.spiegel.de/panorama/justiz/fall-klaus-berninger-cold-case-in-bayern-keine-spur-zu-moerder-von-baeckerlehrling-ermittlungen-ruhen](https://www.spiegel.de/panorama/justiz/fall-klaus-berninger-cold-case-in-bayern-keine-spur-zu-moerder-von-baeckerlehrling-ermittlungen-ruhen-a-d95e01b5-0e50-4034-8bc0-c9de13d53f2b#ref=rss)
+* [https://www.spiegel.de/netzwelt/studie-zu-hatespeech-haelfte-aller-buerger-redet-online-weniger-offen-ueber-politik](https://www.spiegel.de/netzwelt/studie-zu-hatespeech-haelfte-aller-buerger-redet-online-weniger-offen-ueber-politik-a-9ba0c0e0-16b7-4cf3-815f-639059d33dcb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/katarina-barley-spd-spitzenkandidatin-fuer-die-europawahl-bringt-eu-atombomben-fuer-europaeische-armee-ins-gespraech](https://www.spiegel.de/politik/deutschland/katarina-barley-spd-spitzenkandidatin-fuer-die-europawahl-bringt-eu-atombomben-fuer-europaeische-armee-ins-gespraech-a-263da72d-c631-4bfa-aa1d-94f9f77cb8cc#ref=rss)
+* [https://www.spiegel.de/wissenschaft/ostsee-vermutlich-mehr-als-10-000-jahre-alter-steinwall-in-mecklenburger-bucht-entdeckt](https://www.spiegel.de/wissenschaft/ostsee-vermutlich-mehr-als-10-000-jahre-alter-steinwall-in-mecklenburger-bucht-entdeckt-a-61ca4d4c-2079-46a4-b7fa-544bfa3ef170#ref=rss)
+### laut
 
-* [https://www.spiegel.de/panorama/rad-aktivist-natenom-unbekannte-verwuesten-gedenkstaette](https://www.spiegel.de/panorama/rad-aktivist-natenom-unbekannte-verwuesten-gedenkstaette-a-89efd2d5-9632-423f-b604-a34e821cdd66#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/regenstauf-unbekannte-vergiften-200-jahre-alte-eiche-in-bayern](https://www.spiegel.de/panorama/justiz/regenstauf-unbekannte-vergiften-200-jahre-alte-eiche-in-bayern-a-8242452c-ba05-4baa-9961-b46a59a66d89#ref=rss)
-### russland
+* [https://www.spiegel.de/wirtschaft/unternehmen/iw-zu-afd-programm-bei-einem-dexit-waeren-2-2-millionen-arbeitsplaetze-bedroht](https://www.spiegel.de/wirtschaft/unternehmen/iw-zu-afd-programm-bei-einem-dexit-waeren-2-2-millionen-arbeitsplaetze-bedroht-a-6962f210-6947-4c7c-94e6-e7ea09500c2b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-roderich-kiesewetter-offen-fuer-erhoehung-des-sondervermoegens](https://www.spiegel.de/politik/deutschland/bundeswehr-roderich-kiesewetter-offen-fuer-erhoehung-des-sondervermoegens-a-576eb8a9-9786-41b4-9837-7b539d7a43ba#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/aepfel-aus-suedtirol-pestizide-aus-dem-apfelanbau-gelangen-auch-in-die-berge-studie-der-tu-kaiserslautern-landau](https://www.spiegel.de/wirtschaft/service/aepfel-aus-suedtirol-pestizide-aus-dem-apfelanbau-gelangen-auch-in-die-berge-studie-der-tu-kaiserslautern-landau-a-39ddcf72-0275-477c-bf0a-6c8487a3ab1e#ref=rss)
+### studie
 
-* [https://www.spiegel.de/ausland/wladimir-putin-frueherer-mongolischer-praesident-tsakhiagiin-elbegdorj-trollt-kremlchef-mit-landkarte](https://www.spiegel.de/ausland/wladimir-putin-frueherer-mongolischer-praesident-tsakhiagiin-elbegdorj-trollt-kremlchef-mit-landkarte-a-43be128f-bbc4-48e5-9d19-7d784ffd3b06#ref=rss)
-* [https://www.spiegel.de/wirtschaft/oesterreich-zuletzt-fast-komplett-von-gas-aus-russland-abhaengig-ministerin-will-das-nun-aendern](https://www.spiegel.de/wirtschaft/oesterreich-zuletzt-fast-komplett-von-gas-aus-russland-abhaengig-ministerin-will-das-nun-aendern-a-eb8723d2-40de-42ab-b9fb-a01a271b7285#ref=rss)
-### deutschland
+* [https://www.spiegel.de/netzwelt/studie-zu-hatespeech-haelfte-aller-buerger-redet-online-weniger-offen-ueber-politik](https://www.spiegel.de/netzwelt/studie-zu-hatespeech-haelfte-aller-buerger-redet-online-weniger-offen-ueber-politik-a-9ba0c0e0-16b7-4cf3-815f-639059d33dcb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/aepfel-aus-suedtirol-pestizide-aus-dem-apfelanbau-gelangen-auch-in-die-berge-studie-der-tu-kaiserslautern-landau](https://www.spiegel.de/wirtschaft/service/aepfel-aus-suedtirol-pestizide-aus-dem-apfelanbau-gelangen-auch-in-die-berge-studie-der-tu-kaiserslautern-landau-a-39ddcf72-0275-477c-bf0a-6c8487a3ab1e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutsche-verteidigung-mehrheit-der-bevoelkerung-unterstuetzt-2-prozent-ziel-der-nato](https://www.spiegel.de/politik/deutschland/deutsche-verteidigung-mehrheit-der-bevoelkerung-unterstuetzt-2-prozent-ziel-der-nato-a-89f4e37c-a9aa-41e9-b3cb-0ce4b253c193#ref=rss)
+### nato
 
-* [https://www.spiegel.de/panorama/gesellschaft/karneval-in-deutschland-zehn-motivwagen-und-was-sie-bedeuten](https://www.spiegel.de/panorama/gesellschaft/karneval-in-deutschland-zehn-motivwagen-und-was-sie-bedeuten-a-084d2006-5585-4676-a42a-89b8840ad426#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-nato-und-donald-trump-geiselbefreiung-in-gaza-marathonlaeufers-kelvin-kiptum](https://www.spiegel.de/politik/deutschland/news-des-tages-nato-und-donald-trump-geiselbefreiung-in-gaza-marathonlaeufers-kelvin-kiptum-a-ab8730f1-a980-428e-95af-3171cb13028d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/abschiebungen-in-die-tuerkei-regierung-beklagt-probleme](https://www.spiegel.de/politik/deutschland/abschiebungen-in-die-tuerkei-regierung-beklagt-probleme-a-dc7386e5-17f9-4aed-9421-1a9da75b16c1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutsche-verteidigung-mehrheit-der-bevoelkerung-unterstuetzt-2-prozent-ziel-der-nato](https://www.spiegel.de/politik/deutschland/deutsche-verteidigung-mehrheit-der-bevoelkerung-unterstuetzt-2-prozent-ziel-der-nato-a-89f4e37c-a9aa-41e9-b3cb-0ce4b253c193#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-ex-us-praesident-reklamiert-staerkung-der-nato-fuer-sich](https://www.spiegel.de/ausland/donald-trump-ex-us-praesident-reklamiert-staerkung-der-nato-fuer-sich-a-717cc12f-c183-467c-a956-197dad0db573#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-nato-europa-fdp-gazastreifen-annalena-baerbock](https://www.spiegel.de/politik/deutschland/news-donald-trump-nato-europa-fdp-gazastreifen-annalena-baerbock-a-40ae1bb0-1a2d-422b-be4b-9275f2309e62#ref=rss)
 ### berlin
 
-* [https://www.spiegel.de/politik/deutschland/fdp-und-wahl-in-berlin-der-abgeordnete-lars-lindemann-der-seinen-platz-raeumen-muss](https://www.spiegel.de/politik/deutschland/fdp-und-wahl-in-berlin-der-abgeordnete-lars-lindemann-der-seinen-platz-raeumen-muss-a-69ed3d88-9190-411e-9146-62c718a40530#ref=rss)
-* [https://www.spiegel.de/politik/afd-bei-berlin-wiederholungswahl-warum-diese-zuwaechse](https://www.spiegel.de/politik/afd-bei-berlin-wiederholungswahl-warum-diese-zuwaechse-a-b51cee25-b931-4a36-9677-fd0e8887f459#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-mehrere-kandidatenduos-bewerben-sich-um-spd-landesvorsitz](https://www.spiegel.de/politik/deutschland/berlin-mehrere-kandidatenduos-bewerben-sich-um-spd-landesvorsitz-a-b4042557-0d09-4c76-b61f-baba472eacab#ref=rss)
-### fünf
-
-* [https://www.spiegel.de/ausland/us-aussenminister-antony-blinken-amerikas-sisyphos](https://www.spiegel.de/ausland/us-aussenminister-antony-blinken-amerikas-sisyphos-a-486543e5-b0ea-4e06-9094-19dcb52c977e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/regenstauf-unbekannte-vergiften-200-jahre-alte-eiche-in-bayern](https://www.spiegel.de/panorama/justiz/regenstauf-unbekannte-vergiften-200-jahre-alte-eiche-in-bayern-a-8242452c-ba05-4baa-9961-b46a59a66d89#ref=rss)
-### verteidigt
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-nato-und-donald-trump-geiselbefreiung-in-gaza-marathonlaeufers-kelvin-kiptum](https://www.spiegel.de/politik/deutschland/news-des-tages-nato-und-donald-trump-geiselbefreiung-in-gaza-marathonlaeufers-kelvin-kiptum-a-ab8730f1-a980-428e-95af-3171cb13028d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/israel-besuch-friedrich-merz-verteidigt-israelisches-vorgehen-gegen-die-hamas](https://www.spiegel.de/politik/deutschland/israel-besuch-friedrich-merz-verteidigt-israelisches-vorgehen-gegen-die-hamas-a-9ef7be1e-4821-4d80-9e07-10c26e1bddf0#ref=rss)
-### schwimmwm
-
-* [https://www.spiegel.de/sport/schwimm-wm-angelina-koehler-gewinnt-gold-ueber-100-meter-schmetterling](https://www.spiegel.de/sport/schwimm-wm-angelina-koehler-gewinnt-gold-ueber-100-meter-schmetterling-a-68573440-a220-494e-b9e9-6358d9e1857a#ref=rss)
-* [https://www.spiegel.de/sport/schwimm-wm-in-doha-der-100-jaehrige-ex-profi-taghi-askari-springt-noch-einmal-vom-brett](https://www.spiegel.de/sport/schwimm-wm-in-doha-der-100-jaehrige-ex-profi-taghi-askari-springt-noch-einmal-vom-brett-a-3bb979ed-bd11-4982-bdad-b02a2f107b40#ref=rss)
-### meter
-
-* [https://www.spiegel.de/sport/schwimm-wm-angelina-koehler-gewinnt-gold-ueber-100-meter-schmetterling](https://www.spiegel.de/sport/schwimm-wm-angelina-koehler-gewinnt-gold-ueber-100-meter-schmetterling-a-68573440-a220-494e-b9e9-6358d9e1857a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/japan-so-hat-das-erdbeben-an-neujahr-den-boden-verschoben](https://www.spiegel.de/wissenschaft/japan-so-hat-das-erdbeben-an-neujahr-den-boden-verschoben-a-caa99d57-da99-449f-bae5-a6dc9d7396a5#ref=rss)
-### taylor
-
-* [https://www.spiegel.de/sport/schwimm-wm-angelina-koehler-gewinnt-gold-ueber-100-meter-schmetterling](https://www.spiegel.de/sport/schwimm-wm-angelina-koehler-gewinnt-gold-ueber-100-meter-schmetterling-a-68573440-a220-494e-b9e9-6358d9e1857a#ref=rss)
-* [https://www.spiegel.de/ausland/taylor-swift-und-travis-kelce-beim-super-bowl-das-glamour-paar-jubelt-das-trump-lager-zittert](https://www.spiegel.de/ausland/taylor-swift-und-travis-kelce-beim-super-bowl-das-glamour-paar-jubelt-das-trump-lager-zittert-a-5721d5cc-205d-4df8-9aaa-eaa4bec42fe3#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/justiz/tatverdaechtiger-soll-ex-freundin-niedergeschlagen-und-veraetzt-haben](https://www.spiegel.de/panorama/justiz/tatverdaechtiger-soll-ex-freundin-niedergeschlagen-und-veraetzt-haben-a-088cdb0e-f0f2-4eae-94d6-549152090b67#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/italien-mann-toetet-mutmasslich-frau-und-zwei-soehne-ermittler-vermuten-verbindungen-zu-sekte](https://www.spiegel.de/panorama/justiz/italien-mann-toetet-mutmasslich-frau-und-zwei-soehne-ermittler-vermuten-verbindungen-zu-sekte-a-473d82e8-3e0f-420c-b3ce-eda807be5bbb#ref=rss)
-### abschiebungen
-
-* [https://www.spiegel.de/ausland/ruanda-abschiebungen-parlamentsausschuss-in-london-sieht-menschenrechts-verstoss](https://www.spiegel.de/ausland/ruanda-abschiebungen-parlamentsausschuss-in-london-sieht-menschenrechts-verstoss-a-c9021603-5b17-4a88-affd-24a8d49d93a4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/abschiebungen-in-die-tuerkei-regierung-beklagt-probleme](https://www.spiegel.de/politik/deutschland/abschiebungen-in-die-tuerkei-regierung-beklagt-probleme-a-dc7386e5-17f9-4aed-9421-1a9da75b16c1#ref=rss)
-### bauern
-
-* [https://www.spiegel.de/ausland/indien-marsch-auf-delhi-proteste-der-landwirte-angekuendigt](https://www.spiegel.de/ausland/indien-marsch-auf-delhi-proteste-der-landwirte-angekuendigt-a-8c3b374b-abbb-42be-8c0a-1fe6c8b2a23a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/polen-bauern-vernichten-getreide-aus-der-ukraine-wegen-agrarstreit](https://www.spiegel.de/wirtschaft/polen-bauern-vernichten-getreide-aus-der-ukraine-wegen-agrarstreit-a-6c8ed558-c93d-4c61-aede-c2fa6079f7a8#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/israel-besuch-friedrich-merz-verteidigt-israelisches-vorgehen-gegen-die-hamas](https://www.spiegel.de/politik/deutschland/israel-besuch-friedrich-merz-verteidigt-israelisches-vorgehen-gegen-die-hamas-a-9ef7be1e-4821-4d80-9e07-10c26e1bddf0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/zwoelf-punkte-plan-der-union-grosses-programm-und-nichts-dahinter](https://www.spiegel.de/wirtschaft/zwoelf-punkte-plan-der-union-grosses-programm-und-nichts-dahinter-a-e10d43b4-e68d-48fb-9704-92485cd60ebf#ref=rss)
-### putin
-
-* [https://www.spiegel.de/ausland/wladimir-putin-frueherer-mongolischer-praesident-tsakhiagiin-elbegdorj-trollt-kremlchef-mit-landkarte](https://www.spiegel.de/ausland/wladimir-putin-frueherer-mongolischer-praesident-tsakhiagiin-elbegdorj-trollt-kremlchef-mit-landkarte-a-43be128f-bbc4-48e5-9d19-7d784ffd3b06#ref=rss)
-### elbegdorj
-
-* [https://www.spiegel.de/ausland/wladimir-putin-frueherer-mongolischer-praesident-tsakhiagiin-elbegdorj-trollt-kremlchef-mit-landkarte](https://www.spiegel.de/ausland/wladimir-putin-frueherer-mongolischer-praesident-tsakhiagiin-elbegdorj-trollt-kremlchef-mit-landkarte-a-43be128f-bbc4-48e5-9d19-7d784ffd3b06#ref=rss)
-### kremlchef
-
-* [https://www.spiegel.de/ausland/wladimir-putin-frueherer-mongolischer-praesident-tsakhiagiin-elbegdorj-trollt-kremlchef-mit-landkarte](https://www.spiegel.de/ausland/wladimir-putin-frueherer-mongolischer-praesident-tsakhiagiin-elbegdorj-trollt-kremlchef-mit-landkarte-a-43be128f-bbc4-48e5-9d19-7d784ffd3b06#ref=rss)
-### schlecht
-
-* [https://www.spiegel.de/ausland/wladimir-putin-frueherer-mongolischer-praesident-tsakhiagiin-elbegdorj-trollt-kremlchef-mit-landkarte](https://www.spiegel.de/ausland/wladimir-putin-frueherer-mongolischer-praesident-tsakhiagiin-elbegdorj-trollt-kremlchef-mit-landkarte-a-43be128f-bbc4-48e5-9d19-7d784ffd3b06#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fdp-und-wahl-in-berlin-der-abgeordnete-lars-lindemann-der-seinen-platz-raeumen-muss](https://www.spiegel.de/politik/deutschland/fdp-und-wahl-in-berlin-der-abgeordnete-lars-lindemann-der-seinen-platz-raeumen-muss-a-69ed3d88-9190-411e-9146-62c718a40530#ref=rss)
-### zehn
-
-* [https://www.spiegel.de/panorama/gesellschaft/karneval-in-deutschland-zehn-motivwagen-und-was-sie-bedeuten](https://www.spiegel.de/panorama/gesellschaft/karneval-in-deutschland-zehn-motivwagen-und-was-sie-bedeuten-a-084d2006-5585-4676-a42a-89b8840ad426#ref=rss)
-### grünen
-
-* [https://www.spiegel.de/panorama/gesellschaft/karneval-in-deutschland-zehn-motivwagen-und-was-sie-bedeuten](https://www.spiegel.de/panorama/gesellschaft/karneval-in-deutschland-zehn-motivwagen-und-was-sie-bedeuten-a-084d2006-5585-4676-a42a-89b8840ad426#ref=rss)
-* [https://www.spiegel.de/wirtschaft/oesterreich-zuletzt-fast-komplett-von-gas-aus-russland-abhaengig-ministerin-will-das-nun-aendern](https://www.spiegel.de/wirtschaft/oesterreich-zuletzt-fast-komplett-von-gas-aus-russland-abhaengig-ministerin-will-das-nun-aendern-a-eb8723d2-40de-42ab-b9fb-a01a271b7285#ref=rss)
-### fdp
-
-* [https://www.spiegel.de/politik/deutschland/fdp-und-wahl-in-berlin-der-abgeordnete-lars-lindemann-der-seinen-platz-raeumen-muss](https://www.spiegel.de/politik/deutschland/fdp-und-wahl-in-berlin-der-abgeordnete-lars-lindemann-der-seinen-platz-raeumen-muss-a-69ed3d88-9190-411e-9146-62c718a40530#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/familienministerin-lisa-paus-draengt-fdp-zu-zustimmung-zum-demokratiefoerdergesetz](https://www.spiegel.de/politik/deutschland/familienministerin-lisa-paus-draengt-fdp-zu-zustimmung-zum-demokratiefoerdergesetz-a-d76e4150-558f-45e0-a0d4-b8a49cf97f2b#ref=rss)
-### lars
-
-* [https://www.spiegel.de/politik/deutschland/fdp-und-wahl-in-berlin-der-abgeordnete-lars-lindemann-der-seinen-platz-raeumen-muss](https://www.spiegel.de/politik/deutschland/fdp-und-wahl-in-berlin-der-abgeordnete-lars-lindemann-der-seinen-platz-raeumen-muss-a-69ed3d88-9190-411e-9146-62c718a40530#ref=rss)
-### lindemann
-
-* [https://www.spiegel.de/politik/deutschland/fdp-und-wahl-in-berlin-der-abgeordnete-lars-lindemann-der-seinen-platz-raeumen-muss](https://www.spiegel.de/politik/deutschland/fdp-und-wahl-in-berlin-der-abgeordnete-lars-lindemann-der-seinen-platz-raeumen-muss-a-69ed3d88-9190-411e-9146-62c718a40530#ref=rss)
-### berliner
-
-* [https://www.spiegel.de/politik/deutschland/fdp-und-wahl-in-berlin-der-abgeordnete-lars-lindemann-der-seinen-platz-raeumen-muss](https://www.spiegel.de/politik/deutschland/fdp-und-wahl-in-berlin-der-abgeordnete-lars-lindemann-der-seinen-platz-raeumen-muss-a-69ed3d88-9190-411e-9146-62c718a40530#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-mehrere-kandidatenduos-bewerben-sich-um-spd-landesvorsitz](https://www.spiegel.de/politik/deutschland/berlin-mehrere-kandidatenduos-bewerben-sich-um-spd-landesvorsitz-a-b4042557-0d09-4c76-b61f-baba472eacab#ref=rss)
-### zukunft
-
-* [https://www.spiegel.de/politik/deutschland/fdp-und-wahl-in-berlin-der-abgeordnete-lars-lindemann-der-seinen-platz-raeumen-muss](https://www.spiegel.de/politik/deutschland/fdp-und-wahl-in-berlin-der-abgeordnete-lars-lindemann-der-seinen-platz-raeumen-muss-a-69ed3d88-9190-411e-9146-62c718a40530#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-nato-und-donald-trump-geiselbefreiung-in-gaza-marathonlaeufers-kelvin-kiptum](https://www.spiegel.de/politik/deutschland/news-des-tages-nato-und-donald-trump-geiselbefreiung-in-gaza-marathonlaeufers-kelvin-kiptum-a-ab8730f1-a980-428e-95af-3171cb13028d#ref=rss)
-### liberalen
-
-* [https://www.spiegel.de/politik/deutschland/fdp-und-wahl-in-berlin-der-abgeordnete-lars-lindemann-der-seinen-platz-raeumen-muss](https://www.spiegel.de/politik/deutschland/fdp-und-wahl-in-berlin-der-abgeordnete-lars-lindemann-der-seinen-platz-raeumen-muss-a-69ed3d88-9190-411e-9146-62c718a40530#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/familienministerin-lisa-paus-draengt-fdp-zu-zustimmung-zum-demokratiefoerdergesetz](https://www.spiegel.de/politik/deutschland/familienministerin-lisa-paus-draengt-fdp-zu-zustimmung-zum-demokratiefoerdergesetz-a-d76e4150-558f-45e0-a0d4-b8a49cf97f2b#ref=rss)
-### claudia
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/claudia-buch-ezb-chefaufseherin-warnt-banken-vor-steigenden-risiken](https://www.spiegel.de/wirtschaft/unternehmen/claudia-buch-ezb-chefaufseherin-warnt-banken-vor-steigenden-risiken-a-280e4191-149f-4990-8265-a69771f12130#ref=rss)
-### buch
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/claudia-buch-ezb-chefaufseherin-warnt-banken-vor-steigenden-risiken](https://www.spiegel.de/wirtschaft/unternehmen/claudia-buch-ezb-chefaufseherin-warnt-banken-vor-steigenden-risiken-a-280e4191-149f-4990-8265-a69771f12130#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/claudia-buch-ezb-chefaufseherin-warnt-banken-vor-steigenden-risiken](https://www.spiegel.de/wirtschaft/unternehmen/claudia-buch-ezb-chefaufseherin-warnt-banken-vor-steigenden-risiken-a-280e4191-149f-4990-8265-a69771f12130#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/israel-besuch-friedrich-merz-verteidigt-israelisches-vorgehen-gegen-die-hamas](https://www.spiegel.de/politik/deutschland/israel-besuch-friedrich-merz-verteidigt-israelisches-vorgehen-gegen-die-hamas-a-9ef7be1e-4821-4d80-9e07-10c26e1bddf0#ref=rss)
-### gedenkstätte
-
-* [https://www.spiegel.de/panorama/rad-aktivist-natenom-unbekannte-verwuesten-gedenkstaette](https://www.spiegel.de/panorama/rad-aktivist-natenom-unbekannte-verwuesten-gedenkstaette-a-89efd2d5-9632-423f-b604-a34e821cdd66#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/rad-aktivist-natenom-unbekannte-verwuesten-gedenkstaette](https://www.spiegel.de/panorama/rad-aktivist-natenom-unbekannte-verwuesten-gedenkstaette-a-89efd2d5-9632-423f-b604-a34e821cdd66#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/italien-mann-toetet-mutmasslich-frau-und-zwei-soehne-ermittler-vermuten-verbindungen-zu-sekte](https://www.spiegel.de/panorama/justiz/italien-mann-toetet-mutmasslich-frau-und-zwei-soehne-ermittler-vermuten-verbindungen-zu-sekte-a-473d82e8-3e0f-420c-b3ce-eda807be5bbb#ref=rss)
-### zerstört
-
-* [https://www.spiegel.de/panorama/rad-aktivist-natenom-unbekannte-verwuesten-gedenkstaette](https://www.spiegel.de/panorama/rad-aktivist-natenom-unbekannte-verwuesten-gedenkstaette-a-89efd2d5-9632-423f-b604-a34e821cdd66#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/regenstauf-unbekannte-vergiften-200-jahre-alte-eiche-in-bayern](https://www.spiegel.de/panorama/justiz/regenstauf-unbekannte-vergiften-200-jahre-alte-eiche-in-bayern-a-8242452c-ba05-4baa-9961-b46a59a66d89#ref=rss)
-### usaußenminister
-
-* [https://www.spiegel.de/ausland/us-aussenminister-antony-blinken-amerikas-sisyphos](https://www.spiegel.de/ausland/us-aussenminister-antony-blinken-amerikas-sisyphos-a-486543e5-b0ea-4e06-9094-19dcb52c977e#ref=rss)
-### antony
-
-* [https://www.spiegel.de/ausland/us-aussenminister-antony-blinken-amerikas-sisyphos](https://www.spiegel.de/ausland/us-aussenminister-antony-blinken-amerikas-sisyphos-a-486543e5-b0ea-4e06-9094-19dcb52c977e#ref=rss)
-### blinken
-
-* [https://www.spiegel.de/ausland/us-aussenminister-antony-blinken-amerikas-sisyphos](https://www.spiegel.de/ausland/us-aussenminister-antony-blinken-amerikas-sisyphos-a-486543e5-b0ea-4e06-9094-19dcb52c977e#ref=rss)
-### einsatz
-
-* [https://www.spiegel.de/ausland/us-aussenminister-antony-blinken-amerikas-sisyphos](https://www.spiegel.de/ausland/us-aussenminister-antony-blinken-amerikas-sisyphos-a-486543e5-b0ea-4e06-9094-19dcb52c977e#ref=rss)
-* [https://www.spiegel.de/panorama/england-harry-potter-fan-loest-polizeieinsatz-aus](https://www.spiegel.de/panorama/england-harry-potter-fan-loest-polizeieinsatz-aus-a-b05b7f83-a996-4d04-b468-5eee8b09e055#ref=rss)
-### geiselbefreiung
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-nato-und-donald-trump-geiselbefreiung-in-gaza-marathonlaeufers-kelvin-kiptum](https://www.spiegel.de/politik/deutschland/news-des-tages-nato-und-donald-trump-geiselbefreiung-in-gaza-marathonlaeufers-kelvin-kiptum-a-ab8730f1-a980-428e-95af-3171cb13028d#ref=rss)
-### kelvin
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-nato-und-donald-trump-geiselbefreiung-in-gaza-marathonlaeufers-kelvin-kiptum](https://www.spiegel.de/politik/deutschland/news-des-tages-nato-und-donald-trump-geiselbefreiung-in-gaza-marathonlaeufers-kelvin-kiptum-a-ab8730f1-a980-428e-95af-3171cb13028d#ref=rss)
-### kiptum
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-nato-und-donald-trump-geiselbefreiung-in-gaza-marathonlaeufers-kelvin-kiptum](https://www.spiegel.de/politik/deutschland/news-des-tages-nato-und-donald-trump-geiselbefreiung-in-gaza-marathonlaeufers-kelvin-kiptum-a-ab8730f1-a980-428e-95af-3171cb13028d#ref=rss)
-### israels
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-nato-und-donald-trump-geiselbefreiung-in-gaza-marathonlaeufers-kelvin-kiptum](https://www.spiegel.de/politik/deutschland/news-des-tages-nato-und-donald-trump-geiselbefreiung-in-gaza-marathonlaeufers-kelvin-kiptum-a-ab8730f1-a980-428e-95af-3171cb13028d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/israel-besuch-friedrich-merz-verteidigt-israelisches-vorgehen-gegen-die-hamas](https://www.spiegel.de/politik/deutschland/israel-besuch-friedrich-merz-verteidigt-israelisches-vorgehen-gegen-die-hamas-a-9ef7be1e-4821-4d80-9e07-10c26e1bddf0#ref=rss)
-### erschüttert
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-nato-und-donald-trump-geiselbefreiung-in-gaza-marathonlaeufers-kelvin-kiptum](https://www.spiegel.de/politik/deutschland/news-des-tages-nato-und-donald-trump-geiselbefreiung-in-gaza-marathonlaeufers-kelvin-kiptum-a-ab8730f1-a980-428e-95af-3171cb13028d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/italien-mann-toetet-mutmasslich-frau-und-zwei-soehne-ermittler-vermuten-verbindungen-zu-sekte](https://www.spiegel.de/panorama/justiz/italien-mann-toetet-mutmasslich-frau-und-zwei-soehne-ermittler-vermuten-verbindungen-zu-sekte-a-473d82e8-3e0f-420c-b3ce-eda807be5bbb#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/politik/deutschland/familienministerin-lisa-paus-draengt-fdp-zu-zustimmung-zum-demokratiefoerdergesetz](https://www.spiegel.de/politik/deutschland/familienministerin-lisa-paus-draengt-fdp-zu-zustimmung-zum-demokratiefoerdergesetz-a-d76e4150-558f-45e0-a0d4-b8a49cf97f2b#ref=rss)
-* [https://www.spiegel.de/ausland/indien-marsch-auf-delhi-proteste-der-landwirte-angekuendigt](https://www.spiegel.de/ausland/indien-marsch-auf-delhi-proteste-der-landwirte-angekuendigt-a-8c3b374b-abbb-42be-8c0a-1fe6c8b2a23a#ref=rss)
-### ampelkoalition
-
-* [https://www.spiegel.de/politik/deutschland/familienministerin-lisa-paus-draengt-fdp-zu-zustimmung-zum-demokratiefoerdergesetz](https://www.spiegel.de/politik/deutschland/familienministerin-lisa-paus-draengt-fdp-zu-zustimmung-zum-demokratiefoerdergesetz-a-d76e4150-558f-45e0-a0d4-b8a49cf97f2b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/zwoelf-punkte-plan-der-union-grosses-programm-und-nichts-dahinter](https://www.spiegel.de/wirtschaft/zwoelf-punkte-plan-der-union-grosses-programm-und-nichts-dahinter-a-e10d43b4-e68d-48fb-9704-92485cd60ebf#ref=rss)
-### ministerin
-
-* [https://www.spiegel.de/politik/deutschland/familienministerin-lisa-paus-draengt-fdp-zu-zustimmung-zum-demokratiefoerdergesetz](https://www.spiegel.de/politik/deutschland/familienministerin-lisa-paus-draengt-fdp-zu-zustimmung-zum-demokratiefoerdergesetz-a-d76e4150-558f-45e0-a0d4-b8a49cf97f2b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/oesterreich-zuletzt-fast-komplett-von-gas-aus-russland-abhaengig-ministerin-will-das-nun-aendern](https://www.spiegel.de/wirtschaft/oesterreich-zuletzt-fast-komplett-von-gas-aus-russland-abhaengig-ministerin-will-das-nun-aendern-a-eb8723d2-40de-42ab-b9fb-a01a271b7285#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/politik/deutschland/berlin-mehrere-kandidatenduos-bewerben-sich-um-spd-landesvorsitz](https://www.spiegel.de/politik/deutschland/berlin-mehrere-kandidatenduos-bewerben-sich-um-spd-landesvorsitz-a-b4042557-0d09-4c76-b61f-baba472eacab#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/bad-schandau-erneut-rassismus-vorwuerfe-nach-karnevalsumzug-wegen-blackfacing](https://www.spiegel.de/panorama/gesellschaft/bad-schandau-erneut-rassismus-vorwuerfe-nach-karnevalsumzug-wegen-blackfacing-a-71473617-c3d3-4a69-83c5-420f96399eae#ref=rss)
-### angelina
-
-* [https://www.spiegel.de/sport/schwimm-wm-angelina-koehler-gewinnt-gold-ueber-100-meter-schmetterling](https://www.spiegel.de/sport/schwimm-wm-angelina-koehler-gewinnt-gold-ueber-100-meter-schmetterling-a-68573440-a220-494e-b9e9-6358d9e1857a#ref=rss)
-### köhler
-
-* [https://www.spiegel.de/sport/schwimm-wm-angelina-koehler-gewinnt-gold-ueber-100-meter-schmetterling](https://www.spiegel.de/sport/schwimm-wm-angelina-koehler-gewinnt-gold-ueber-100-meter-schmetterling-a-68573440-a220-494e-b9e9-6358d9e1857a#ref=rss)
-### 100
-
-* [https://www.spiegel.de/sport/schwimm-wm-angelina-koehler-gewinnt-gold-ueber-100-meter-schmetterling](https://www.spiegel.de/sport/schwimm-wm-angelina-koehler-gewinnt-gold-ueber-100-meter-schmetterling-a-68573440-a220-494e-b9e9-6358d9e1857a#ref=rss)
-### schmetterling
-
-* [https://www.spiegel.de/sport/schwimm-wm-angelina-koehler-gewinnt-gold-ueber-100-meter-schmetterling](https://www.spiegel.de/sport/schwimm-wm-angelina-koehler-gewinnt-gold-ueber-100-meter-schmetterling-a-68573440-a220-494e-b9e9-6358d9e1857a#ref=rss)
-### katar
-
-* [https://www.spiegel.de/sport/schwimm-wm-angelina-koehler-gewinnt-gold-ueber-100-meter-schmetterling](https://www.spiegel.de/sport/schwimm-wm-angelina-koehler-gewinnt-gold-ueber-100-meter-schmetterling-a-68573440-a220-494e-b9e9-6358d9e1857a#ref=rss)
-* [https://www.spiegel.de/sport/schwimm-wm-in-doha-der-100-jaehrige-ex-profi-taghi-askari-springt-noch-einmal-vom-brett](https://www.spiegel.de/sport/schwimm-wm-in-doha-der-100-jaehrige-ex-profi-taghi-askari-springt-noch-einmal-vom-brett-a-3bb979ed-bd11-4982-bdad-b02a2f107b40#ref=rss)
-### swift
-
-* [https://www.spiegel.de/sport/schwimm-wm-angelina-koehler-gewinnt-gold-ueber-100-meter-schmetterling](https://www.spiegel.de/sport/schwimm-wm-angelina-koehler-gewinnt-gold-ueber-100-meter-schmetterling-a-68573440-a220-494e-b9e9-6358d9e1857a#ref=rss)
-* [https://www.spiegel.de/ausland/taylor-swift-und-travis-kelce-beim-super-bowl-das-glamour-paar-jubelt-das-trump-lager-zittert](https://www.spiegel.de/ausland/taylor-swift-und-travis-kelce-beim-super-bowl-das-glamour-paar-jubelt-das-trump-lager-zittert-a-5721d5cc-205d-4df8-9aaa-eaa4bec42fe3#ref=rss)
-### exfreundin
-
-* [https://www.spiegel.de/panorama/justiz/tatverdaechtiger-soll-ex-freundin-niedergeschlagen-und-veraetzt-haben](https://www.spiegel.de/panorama/justiz/tatverdaechtiger-soll-ex-freundin-niedergeschlagen-und-veraetzt-haben-a-088cdb0e-f0f2-4eae-94d6-549152090b67#ref=rss)
-### unter
-
-* [https://www.spiegel.de/panorama/justiz/tatverdaechtiger-soll-ex-freundin-niedergeschlagen-und-veraetzt-haben](https://www.spiegel.de/panorama/justiz/tatverdaechtiger-soll-ex-freundin-niedergeschlagen-und-veraetzt-haben-a-088cdb0e-f0f2-4eae-94d6-549152090b67#ref=rss)
-* [https://www.spiegel.de/wirtschaft/polen-bauern-vernichten-getreide-aus-der-ukraine-wegen-agrarstreit](https://www.spiegel.de/wirtschaft/polen-bauern-vernichten-getreide-aus-der-ukraine-wegen-agrarstreit-a-6c8ed558-c93d-4c61-aede-c2fa6079f7a8#ref=rss)
-### taghi
-
-* [https://www.spiegel.de/sport/schwimm-wm-in-doha-der-100-jaehrige-ex-profi-taghi-askari-springt-noch-einmal-vom-brett](https://www.spiegel.de/sport/schwimm-wm-in-doha-der-100-jaehrige-ex-profi-taghi-askari-springt-noch-einmal-vom-brett-a-3bb979ed-bd11-4982-bdad-b02a2f107b40#ref=rss)
-### askari
-
-* [https://www.spiegel.de/sport/schwimm-wm-in-doha-der-100-jaehrige-ex-profi-taghi-askari-springt-noch-einmal-vom-brett](https://www.spiegel.de/sport/schwimm-wm-in-doha-der-100-jaehrige-ex-profi-taghi-askari-springt-noch-einmal-vom-brett-a-3bb979ed-bd11-4982-bdad-b02a2f107b40#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/sport/schwimm-wm-in-doha-der-100-jaehrige-ex-profi-taghi-askari-springt-noch-einmal-vom-brett](https://www.spiegel.de/sport/schwimm-wm-in-doha-der-100-jaehrige-ex-profi-taghi-askari-springt-noch-einmal-vom-brett-a-3bb979ed-bd11-4982-bdad-b02a2f107b40#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/regenstauf-unbekannte-vergiften-200-jahre-alte-eiche-in-bayern](https://www.spiegel.de/panorama/justiz/regenstauf-unbekannte-vergiften-200-jahre-alte-eiche-in-bayern-a-8242452c-ba05-4baa-9961-b46a59a66d89#ref=rss)
-### nahe
-
-* [https://www.spiegel.de/panorama/england-harry-potter-fan-loest-polizeieinsatz-aus](https://www.spiegel.de/panorama/england-harry-potter-fan-loest-polizeieinsatz-aus-a-b05b7f83-a996-4d04-b468-5eee8b09e055#ref=rss)
-* [https://www.spiegel.de/panorama/skigebiet-bei-davos-juden-sollen-keine-sportausruestung-mehr-ausleihen-koennen](https://www.spiegel.de/panorama/skigebiet-bei-davos-juden-sollen-keine-sportausruestung-mehr-ausleihen-koennen-a-8fad2d41-17a0-410c-8ada-94dcb3fbe1c7#ref=rss)
-### parlamentsausschuss
-
-* [https://www.spiegel.de/ausland/ruanda-abschiebungen-parlamentsausschuss-in-london-sieht-menschenrechts-verstoss](https://www.spiegel.de/ausland/ruanda-abschiebungen-parlamentsausschuss-in-london-sieht-menschenrechts-verstoss-a-c9021603-5b17-4a88-affd-24a8d49d93a4#ref=rss)
-### indien
-
-* [https://www.spiegel.de/ausland/indien-marsch-auf-delhi-proteste-der-landwirte-angekuendigt](https://www.spiegel.de/ausland/indien-marsch-auf-delhi-proteste-der-landwirte-angekuendigt-a-8c3b374b-abbb-42be-8c0a-1fe6c8b2a23a#ref=rss)
-### landwirte
-
-* [https://www.spiegel.de/ausland/indien-marsch-auf-delhi-proteste-der-landwirte-angekuendigt](https://www.spiegel.de/ausland/indien-marsch-auf-delhi-proteste-der-landwirte-angekuendigt-a-8c3b374b-abbb-42be-8c0a-1fe6c8b2a23a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/polen-bauern-vernichten-getreide-aus-der-ukraine-wegen-agrarstreit](https://www.spiegel.de/wirtschaft/polen-bauern-vernichten-getreide-aus-der-ukraine-wegen-agrarstreit-a-6c8ed558-c93d-4c61-aede-c2fa6079f7a8#ref=rss)
-### großes
-
-* [https://www.spiegel.de/ausland/indien-marsch-auf-delhi-proteste-der-landwirte-angekuendigt](https://www.spiegel.de/ausland/indien-marsch-auf-delhi-proteste-der-landwirte-angekuendigt-a-8c3b374b-abbb-42be-8c0a-1fe6c8b2a23a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/zwoelf-punkte-plan-der-union-grosses-programm-und-nichts-dahinter](https://www.spiegel.de/wirtschaft/zwoelf-punkte-plan-der-union-grosses-programm-und-nichts-dahinter-a-e10d43b4-e68d-48fb-9704-92485cd60ebf#ref=rss)
-### politisches
-
-* [https://www.spiegel.de/ausland/indien-marsch-auf-delhi-proteste-der-landwirte-angekuendigt](https://www.spiegel.de/ausland/indien-marsch-auf-delhi-proteste-der-landwirte-angekuendigt-a-8c3b374b-abbb-42be-8c0a-1fe6c8b2a23a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/zwoelf-punkte-plan-der-union-grosses-programm-und-nichts-dahinter](https://www.spiegel.de/wirtschaft/zwoelf-punkte-plan-der-union-grosses-programm-und-nichts-dahinter-a-e10d43b4-e68d-48fb-9704-92485cd60ebf#ref=rss)
-### travis
-
-* [https://www.spiegel.de/ausland/taylor-swift-und-travis-kelce-beim-super-bowl-das-glamour-paar-jubelt-das-trump-lager-zittert](https://www.spiegel.de/ausland/taylor-swift-und-travis-kelce-beim-super-bowl-das-glamour-paar-jubelt-das-trump-lager-zittert-a-5721d5cc-205d-4df8-9aaa-eaa4bec42fe3#ref=rss)
-### kelce
-
-* [https://www.spiegel.de/ausland/taylor-swift-und-travis-kelce-beim-super-bowl-das-glamour-paar-jubelt-das-trump-lager-zittert](https://www.spiegel.de/ausland/taylor-swift-und-travis-kelce-beim-super-bowl-das-glamour-paar-jubelt-das-trump-lager-zittert-a-5721d5cc-205d-4df8-9aaa-eaa4bec42fe3#ref=rss)
-### super
-
-* [https://www.spiegel.de/ausland/taylor-swift-und-travis-kelce-beim-super-bowl-das-glamour-paar-jubelt-das-trump-lager-zittert](https://www.spiegel.de/ausland/taylor-swift-und-travis-kelce-beim-super-bowl-das-glamour-paar-jubelt-das-trump-lager-zittert-a-5721d5cc-205d-4df8-9aaa-eaa4bec42fe3#ref=rss)
-### bowl
-
-* [https://www.spiegel.de/ausland/taylor-swift-und-travis-kelce-beim-super-bowl-das-glamour-paar-jubelt-das-trump-lager-zittert](https://www.spiegel.de/ausland/taylor-swift-und-travis-kelce-beim-super-bowl-das-glamour-paar-jubelt-das-trump-lager-zittert-a-5721d5cc-205d-4df8-9aaa-eaa4bec42fe3#ref=rss)
-### trumplager
-
-* [https://www.spiegel.de/ausland/taylor-swift-und-travis-kelce-beim-super-bowl-das-glamour-paar-jubelt-das-trump-lager-zittert](https://www.spiegel.de/ausland/taylor-swift-und-travis-kelce-beim-super-bowl-das-glamour-paar-jubelt-das-trump-lager-zittert-a-5721d5cc-205d-4df8-9aaa-eaa4bec42fe3#ref=rss)
-### davos
-
-* [https://www.spiegel.de/panorama/skigebiet-bei-davos-juden-sollen-keine-sportausruestung-mehr-ausleihen-koennen](https://www.spiegel.de/panorama/skigebiet-bei-davos-juden-sollen-keine-sportausruestung-mehr-ausleihen-koennen-a-8fad2d41-17a0-410c-8ada-94dcb3fbe1c7#ref=rss)
-### prime
-
-* [https://www.spiegel.de/netzwelt/web/amazon-prime-video-bestes-bild-und-ton-gibt-es-jetzt-nur-noch-gegen-aufpreis](https://www.spiegel.de/netzwelt/web/amazon-prime-video-bestes-bild-und-ton-gibt-es-jetzt-nur-noch-gegen-aufpreis-a-ba1fd6b2-a9f1-4a39-b766-298053ec28a8#ref=rss)
-### video
-
-* [https://www.spiegel.de/netzwelt/web/amazon-prime-video-bestes-bild-und-ton-gibt-es-jetzt-nur-noch-gegen-aufpreis](https://www.spiegel.de/netzwelt/web/amazon-prime-video-bestes-bild-und-ton-gibt-es-jetzt-nur-noch-gegen-aufpreis-a-ba1fd6b2-a9f1-4a39-b766-298053ec28a8#ref=rss)
-### liseberg
-
-* [https://www.spiegel.de/panorama/liseberg-in-goeteborg-es-brennt-in-schwedens-groesstem-freizeitpark](https://www.spiegel.de/panorama/liseberg-in-goeteborg-es-brennt-in-schwedens-groesstem-freizeitpark-a-78176f12-d436-401e-84c5-79c67627d645#ref=rss)
-### göteborg
-
-* [https://www.spiegel.de/panorama/liseberg-in-goeteborg-es-brennt-in-schwedens-groesstem-freizeitpark](https://www.spiegel.de/panorama/liseberg-in-goeteborg-es-brennt-in-schwedens-groesstem-freizeitpark-a-78176f12-d436-401e-84c5-79c67627d645#ref=rss)
-### freizeitpark
-
-* [https://www.spiegel.de/panorama/liseberg-in-goeteborg-es-brennt-in-schwedens-groesstem-freizeitpark](https://www.spiegel.de/panorama/liseberg-in-goeteborg-es-brennt-in-schwedens-groesstem-freizeitpark-a-78176f12-d436-401e-84c5-79c67627d645#ref=rss)
-### polen
-
-* [https://www.spiegel.de/wirtschaft/polen-bauern-vernichten-getreide-aus-der-ukraine-wegen-agrarstreit](https://www.spiegel.de/wirtschaft/polen-bauern-vernichten-getreide-aus-der-ukraine-wegen-agrarstreit-a-6c8ed558-c93d-4c61-aede-c2fa6079f7a8#ref=rss)
-### getreide
-
-* [https://www.spiegel.de/wirtschaft/polen-bauern-vernichten-getreide-aus-der-ukraine-wegen-agrarstreit](https://www.spiegel.de/wirtschaft/polen-bauern-vernichten-getreide-aus-der-ukraine-wegen-agrarstreit-a-6c8ed558-c93d-4c61-aede-c2fa6079f7a8#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/wirtschaft/polen-bauern-vernichten-getreide-aus-der-ukraine-wegen-agrarstreit](https://www.spiegel.de/wirtschaft/polen-bauern-vernichten-getreide-aus-der-ukraine-wegen-agrarstreit-a-6c8ed558-c93d-4c61-aede-c2fa6079f7a8#ref=rss)
-### türkei
-
-* [https://www.spiegel.de/politik/deutschland/abschiebungen-in-die-tuerkei-regierung-beklagt-probleme](https://www.spiegel.de/politik/deutschland/abschiebungen-in-die-tuerkei-regierung-beklagt-probleme-a-dc7386e5-17f9-4aed-9421-1a9da75b16c1#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/politik/deutschland/abschiebungen-in-die-tuerkei-regierung-beklagt-probleme](https://www.spiegel.de/politik/deutschland/abschiebungen-in-die-tuerkei-regierung-beklagt-probleme-a-dc7386e5-17f9-4aed-9421-1a9da75b16c1#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/israel-besuch-friedrich-merz-verteidigt-israelisches-vorgehen-gegen-die-hamas](https://www.spiegel.de/politik/deutschland/israel-besuch-friedrich-merz-verteidigt-israelisches-vorgehen-gegen-die-hamas-a-9ef7be1e-4821-4d80-9e07-10c26e1bddf0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/zwoelf-punkte-plan-der-union-grosses-programm-und-nichts-dahinter](https://www.spiegel.de/wirtschaft/zwoelf-punkte-plan-der-union-grosses-programm-und-nichts-dahinter-a-e10d43b4-e68d-48fb-9704-92485cd60ebf#ref=rss)
-### hamas
-
-* [https://www.spiegel.de/politik/deutschland/israel-besuch-friedrich-merz-verteidigt-israelisches-vorgehen-gegen-die-hamas](https://www.spiegel.de/politik/deutschland/israel-besuch-friedrich-merz-verteidigt-israelisches-vorgehen-gegen-die-hamas-a-9ef7be1e-4821-4d80-9e07-10c26e1bddf0#ref=rss)
-### bad
-
-* [https://www.spiegel.de/panorama/gesellschaft/bad-schandau-erneut-rassismus-vorwuerfe-nach-karnevalsumzug-wegen-blackfacing](https://www.spiegel.de/panorama/gesellschaft/bad-schandau-erneut-rassismus-vorwuerfe-nach-karnevalsumzug-wegen-blackfacing-a-71473617-c3d3-4a69-83c5-420f96399eae#ref=rss)
-### schandau
-
-* [https://www.spiegel.de/panorama/gesellschaft/bad-schandau-erneut-rassismus-vorwuerfe-nach-karnevalsumzug-wegen-blackfacing](https://www.spiegel.de/panorama/gesellschaft/bad-schandau-erneut-rassismus-vorwuerfe-nach-karnevalsumzug-wegen-blackfacing-a-71473617-c3d3-4a69-83c5-420f96399eae#ref=rss)
-### eiche
-
-* [https://www.spiegel.de/panorama/justiz/regenstauf-unbekannte-vergiften-200-jahre-alte-eiche-in-bayern](https://www.spiegel.de/panorama/justiz/regenstauf-unbekannte-vergiften-200-jahre-alte-eiche-in-bayern-a-8242452c-ba05-4baa-9961-b46a59a66d89#ref=rss)
-### italien
-
-* [https://www.spiegel.de/panorama/justiz/italien-mann-toetet-mutmasslich-frau-und-zwei-soehne-ermittler-vermuten-verbindungen-zu-sekte](https://www.spiegel.de/panorama/justiz/italien-mann-toetet-mutmasslich-frau-und-zwei-soehne-ermittler-vermuten-verbindungen-zu-sekte-a-473d82e8-3e0f-420c-b3ce-eda807be5bbb#ref=rss)
+* [https://www.spiegel.de/sport/fussball/union-berlin-frau-beim-stillen-gestoert-klub-entschuldigt-sich](https://www.spiegel.de/sport/fussball/union-berlin-frau-beim-stillen-gestoert-klub-entschuldigt-sich-a-fc571d71-db63-47eb-8a67-7aabd34d7934#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/ukraine-krieg-wie-eine-mini-schule-in-berlin-das-recht-auf-bildung-sichert](https://www.spiegel.de/panorama/bildung/ukraine-krieg-wie-eine-mini-schule-in-berlin-das-recht-auf-bildung-sichert-a-f34803b8-b5ca-41a9-aeb8-fb49fbafe33b#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/panorama/justiz/fall-klaus-berninger-cold-case-in-bayern-keine-spur-zu-moerder-von-baeckerlehrling-ermittlungen-ruhen](https://www.spiegel.de/panorama/justiz/fall-klaus-berninger-cold-case-in-bayern-keine-spur-zu-moerder-von-baeckerlehrling-ermittlungen-ruhen-a-d95e01b5-0e50-4034-8bc0-c9de13d53f2b#ref=rss)
+* [https://www.spiegel.de/kultur/am-meer-von-elizabeth-strout-roman-ueber-die-coronapandemie](https://www.spiegel.de/kultur/am-meer-von-elizabeth-strout-roman-ueber-die-coronapandemie-a-e732c92a-61d6-43d6-937e-7cd0eee1b05c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-stimmung-im-deutschen-wohnungsbau-faellt-auf-historisches-tief](https://www.spiegel.de/wirtschaft/unternehmen/ifo-stimmung-im-deutschen-wohnungsbau-faellt-auf-historisches-tief-a-19dfc21f-10bb-4069-b0a1-7873eea06915#ref=rss)
+### uns
+
+* [https://www.spiegel.de/kultur/am-meer-von-elizabeth-strout-roman-ueber-die-coronapandemie](https://www.spiegel.de/kultur/am-meer-von-elizabeth-strout-roman-ueber-die-coronapandemie-a-e732c92a-61d6-43d6-937e-7cd0eee1b05c#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/brennpunktschulen-was-wir-uns-vom-startchancen-programm-erhoffen-koennen](https://www.spiegel.de/panorama/bildung/brennpunktschulen-was-wir-uns-vom-startchancen-programm-erhoffen-koennen-a-777d2d16-8a6f-4d21-85be-7e34443409eb#ref=rss)
+### weit
+
+* [https://www.spiegel.de/sport/schwimmen-florian-wellbrock-bei-wm-weit-von-olympia-form-weg](https://www.spiegel.de/sport/schwimmen-florian-wellbrock-bei-wm-weit-von-olympia-form-weg-a-efe6dbbf-8598-47ba-bc04-eb33d0332a09#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/aepfel-aus-suedtirol-pestizide-aus-dem-apfelanbau-gelangen-auch-in-die-berge-studie-der-tu-kaiserslautern-landau](https://www.spiegel.de/wirtschaft/service/aepfel-aus-suedtirol-pestizide-aus-dem-apfelanbau-gelangen-auch-in-die-berge-studie-der-tu-kaiserslautern-landau-a-39ddcf72-0275-477c-bf0a-6c8487a3ab1e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutsche-verteidigung-mehrheit-der-bevoelkerung-unterstuetzt-2-prozent-ziel-der-nato](https://www.spiegel.de/politik/deutschland/deutsche-verteidigung-mehrheit-der-bevoelkerung-unterstuetzt-2-prozent-ziel-der-nato-a-89f4e37c-a9aa-41e9-b3cb-0ce4b253c193#ref=rss)
+### ich
+
+* [https://www.spiegel.de/karriere/arbeitsrecht-darf-ich-mein-handy-oder-e-bike-auf-der-arbeit-laden](https://www.spiegel.de/karriere/arbeitsrecht-darf-ich-mein-handy-oder-e-bike-auf-der-arbeit-laden-a-e141afc5-6355-414a-a6eb-5e9cd6041980#ref=rss)
+* [https://www.spiegel.de/sport/fussball/toni-kroos-fussballstar-von-real-madrid-vor-dfb-comeback-ich-denke-darueber-nach](https://www.spiegel.de/sport/fussball/toni-kroos-fussballstar-von-real-madrid-vor-dfb-comeback-ich-denke-darueber-nach-a-ac137829-dc92-4349-a120-e0f91f2bc9a7#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-ex-us-praesident-reklamiert-staerkung-der-nato-fuer-sich](https://www.spiegel.de/ausland/donald-trump-ex-us-praesident-reklamiert-staerkung-der-nato-fuer-sich-a-717cc12f-c183-467c-a956-197dad0db573#ref=rss)
+### infrage
+
+* [https://www.spiegel.de/sport/olympia/timo-boll-vor-olympia-2024-in-paris-moechte-keinem-den-platz-wegnehmen](https://www.spiegel.de/sport/olympia/timo-boll-vor-olympia-2024-in-paris-moechte-keinem-den-platz-wegnehmen-a-d4bcfceb-d702-4507-9384-d33448500013#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/katarina-barley-spd-spitzenkandidatin-fuer-die-europawahl-bringt-eu-atombomben-fuer-europaeische-armee-ins-gespraech](https://www.spiegel.de/politik/deutschland/katarina-barley-spd-spitzenkandidatin-fuer-die-europawahl-bringt-eu-atombomben-fuer-europaeische-armee-ins-gespraech-a-263da72d-c631-4bfa-aa1d-94f9f77cb8cc#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-ex-us-praesident-reklamiert-staerkung-der-nato-fuer-sich](https://www.spiegel.de/ausland/donald-trump-ex-us-praesident-reklamiert-staerkung-der-nato-fuer-sich-a-717cc12f-c183-467c-a956-197dad0db573#ref=rss)
+### drohungen
+
+* [https://www.spiegel.de/netzwelt/studie-zu-hatespeech-haelfte-aller-buerger-redet-online-weniger-offen-ueber-politik](https://www.spiegel.de/netzwelt/studie-zu-hatespeech-haelfte-aller-buerger-redet-online-weniger-offen-ueber-politik-a-9ba0c0e0-16b7-4cf3-815f-639059d33dcb#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-inkasso-co-die-drohungen-gegen-washingtons-nato-partner-der-spiegel-leitartikel](https://www.spiegel.de/ausland/donald-trump-inkasso-co-die-drohungen-gegen-washingtons-nato-partner-der-spiegel-leitartikel-a-69edbebf-fdbd-4854-9cd5-792fb91829a7#ref=rss)
+### bundeswehr
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-roderich-kiesewetter-offen-fuer-erhoehung-des-sondervermoegens](https://www.spiegel.de/politik/deutschland/bundeswehr-roderich-kiesewetter-offen-fuer-erhoehung-des-sondervermoegens-a-576eb8a9-9786-41b4-9837-7b539d7a43ba#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutsche-verteidigung-mehrheit-der-bevoelkerung-unterstuetzt-2-prozent-ziel-der-nato](https://www.spiegel.de/politik/deutschland/deutsche-verteidigung-mehrheit-der-bevoelkerung-unterstuetzt-2-prozent-ziel-der-nato-a-89f4e37c-a9aa-41e9-b3cb-0ce4b253c193#ref=rss)
+### europa
+
+* [https://www.spiegel.de/ausland/donald-trump-inkasso-co-die-drohungen-gegen-washingtons-nato-partner-der-spiegel-leitartikel](https://www.spiegel.de/ausland/donald-trump-inkasso-co-die-drohungen-gegen-washingtons-nato-partner-der-spiegel-leitartikel-a-69edbebf-fdbd-4854-9cd5-792fb91829a7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-nato-europa-fdp-gazastreifen-annalena-baerbock](https://www.spiegel.de/politik/deutschland/news-donald-trump-nato-europa-fdp-gazastreifen-annalena-baerbock-a-40ae1bb0-1a2d-422b-be4b-9275f2309e62#ref=rss)
+### kallas
+
+* [https://www.spiegel.de/ausland/kaja-kallas-russland-fahndet-nach-estnischer-regierungschefin](https://www.spiegel.de/ausland/kaja-kallas-russland-fahndet-nach-estnischer-regierungschefin-a-ca2d71ac-6ee2-4b0b-b451-84e55c8e9c0d#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/kaja-kallas-russland-fahndet-nach-estnischer-regierungschefin](https://www.spiegel.de/ausland/kaja-kallas-russland-fahndet-nach-estnischer-regierungschefin-a-ca2d71ac-6ee2-4b0b-b451-84e55c8e9c0d#ref=rss)
+### lindner
+
+* [https://www.spiegel.de/politik/christian-lindner-vs-die-letzte-generation-ihr-macht-klimaschutz-in-eurer-geschuetzten-deutschen-wohlstandsblase-spiegel-tv](https://www.spiegel.de/politik/christian-lindner-vs-die-letzte-generation-ihr-macht-klimaschutz-in-eurer-geschuetzten-deutschen-wohlstandsblase-spiegel-tv-a-ae883a94-dd71-4b3e-bcd2-a36f7ccd71c5#ref=rss)
+### union
+
+* [https://www.spiegel.de/sport/fussball/union-berlin-frau-beim-stillen-gestoert-klub-entschuldigt-sich](https://www.spiegel.de/sport/fussball/union-berlin-frau-beim-stillen-gestoert-klub-entschuldigt-sich-a-fc571d71-db63-47eb-8a67-7aabd34d7934#ref=rss)
 ### frau
 
-* [https://www.spiegel.de/panorama/justiz/italien-mann-toetet-mutmasslich-frau-und-zwei-soehne-ermittler-vermuten-verbindungen-zu-sekte](https://www.spiegel.de/panorama/justiz/italien-mann-toetet-mutmasslich-frau-und-zwei-soehne-ermittler-vermuten-verbindungen-zu-sekte-a-473d82e8-3e0f-420c-b3ce-eda807be5bbb#ref=rss)
-### söhne
+* [https://www.spiegel.de/sport/fussball/union-berlin-frau-beim-stillen-gestoert-klub-entschuldigt-sich](https://www.spiegel.de/sport/fussball/union-berlin-frau-beim-stillen-gestoert-klub-entschuldigt-sich-a-fc571d71-db63-47eb-8a67-7aabd34d7934#ref=rss)
+### klub
 
-* [https://www.spiegel.de/panorama/justiz/italien-mann-toetet-mutmasslich-frau-und-zwei-soehne-ermittler-vermuten-verbindungen-zu-sekte](https://www.spiegel.de/panorama/justiz/italien-mann-toetet-mutmasslich-frau-und-zwei-soehne-ermittler-vermuten-verbindungen-zu-sekte-a-473d82e8-3e0f-420c-b3ce-eda807be5bbb#ref=rss)
-### japan
+* [https://www.spiegel.de/sport/fussball/union-berlin-frau-beim-stillen-gestoert-klub-entschuldigt-sich](https://www.spiegel.de/sport/fussball/union-berlin-frau-beim-stillen-gestoert-klub-entschuldigt-sich-a-fc571d71-db63-47eb-8a67-7aabd34d7934#ref=rss)
+### fsv
 
-* [https://www.spiegel.de/wissenschaft/japan-so-hat-das-erdbeben-an-neujahr-den-boden-verschoben](https://www.spiegel.de/wissenschaft/japan-so-hat-das-erdbeben-an-neujahr-den-boden-verschoben-a-caa99d57-da99-449f-bae5-a6dc9d7396a5#ref=rss)
-### neujahr
+* [https://www.spiegel.de/sport/fussball/fsv-mainz-05-bo-henriksen-vom-fc-zuerich-uebernimmt-als-trainer](https://www.spiegel.de/sport/fussball/fsv-mainz-05-bo-henriksen-vom-fc-zuerich-uebernimmt-als-trainer-a-d117418c-aa25-4a7b-805f-eaa7b15f0772#ref=rss)
+### mainz
 
-* [https://www.spiegel.de/wissenschaft/japan-so-hat-das-erdbeben-an-neujahr-den-boden-verschoben](https://www.spiegel.de/wissenschaft/japan-so-hat-das-erdbeben-an-neujahr-den-boden-verschoben-a-caa99d57-da99-449f-bae5-a6dc9d7396a5#ref=rss)
-### boden
+* [https://www.spiegel.de/sport/fussball/fsv-mainz-05-bo-henriksen-vom-fc-zuerich-uebernimmt-als-trainer](https://www.spiegel.de/sport/fussball/fsv-mainz-05-bo-henriksen-vom-fc-zuerich-uebernimmt-als-trainer-a-d117418c-aa25-4a7b-805f-eaa7b15f0772#ref=rss)
+### 05
 
-* [https://www.spiegel.de/wissenschaft/japan-so-hat-das-erdbeben-an-neujahr-den-boden-verschoben](https://www.spiegel.de/wissenschaft/japan-so-hat-das-erdbeben-an-neujahr-den-boden-verschoben-a-caa99d57-da99-449f-bae5-a6dc9d7396a5#ref=rss)
-### fest
+* [https://www.spiegel.de/sport/fussball/fsv-mainz-05-bo-henriksen-vom-fc-zuerich-uebernimmt-als-trainer](https://www.spiegel.de/sport/fussball/fsv-mainz-05-bo-henriksen-vom-fc-zuerich-uebernimmt-als-trainer-a-d117418c-aa25-4a7b-805f-eaa7b15f0772#ref=rss)
+### bo
 
-* [https://www.spiegel.de/panorama/valentinstag-wem-verdankt-das-fest-der-liebenden-seinen-namen](https://www.spiegel.de/panorama/valentinstag-wem-verdankt-das-fest-der-liebenden-seinen-namen-a-c4611950-4f80-4027-91f7-60d3fc245e0a#ref=rss)
-### liebenden
+* [https://www.spiegel.de/sport/fussball/fsv-mainz-05-bo-henriksen-vom-fc-zuerich-uebernimmt-als-trainer](https://www.spiegel.de/sport/fussball/fsv-mainz-05-bo-henriksen-vom-fc-zuerich-uebernimmt-als-trainer-a-d117418c-aa25-4a7b-805f-eaa7b15f0772#ref=rss)
+### henriksen
 
-* [https://www.spiegel.de/panorama/valentinstag-wem-verdankt-das-fest-der-liebenden-seinen-namen](https://www.spiegel.de/panorama/valentinstag-wem-verdankt-das-fest-der-liebenden-seinen-namen-a-c4611950-4f80-4027-91f7-60d3fc245e0a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fsv-mainz-05-bo-henriksen-vom-fc-zuerich-uebernimmt-als-trainer](https://www.spiegel.de/sport/fussball/fsv-mainz-05-bo-henriksen-vom-fc-zuerich-uebernimmt-als-trainer-a-d117418c-aa25-4a7b-805f-eaa7b15f0772#ref=rss)
+### trainer
+
+* [https://www.spiegel.de/sport/fussball/fsv-mainz-05-bo-henriksen-vom-fc-zuerich-uebernimmt-als-trainer](https://www.spiegel.de/sport/fussball/fsv-mainz-05-bo-henriksen-vom-fc-zuerich-uebernimmt-als-trainer-a-d117418c-aa25-4a7b-805f-eaa7b15f0772#ref=rss)
+### wochenende
+
+* [https://www.spiegel.de/sport/fussball/fsv-mainz-05-bo-henriksen-vom-fc-zuerich-uebernimmt-als-trainer](https://www.spiegel.de/sport/fussball/fsv-mainz-05-bo-henriksen-vom-fc-zuerich-uebernimmt-als-trainer-a-d117418c-aa25-4a7b-805f-eaa7b15f0772#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-ex-us-praesident-reklamiert-staerkung-der-nato-fuer-sich](https://www.spiegel.de/ausland/donald-trump-ex-us-praesident-reklamiert-staerkung-der-nato-fuer-sich-a-717cc12f-c183-467c-a956-197dad0db573#ref=rss)
+### klaus
+
+* [https://www.spiegel.de/panorama/justiz/fall-klaus-berninger-cold-case-in-bayern-keine-spur-zu-moerder-von-baeckerlehrling-ermittlungen-ruhen](https://www.spiegel.de/panorama/justiz/fall-klaus-berninger-cold-case-in-bayern-keine-spur-zu-moerder-von-baeckerlehrling-ermittlungen-ruhen-a-d95e01b5-0e50-4034-8bc0-c9de13d53f2b#ref=rss)
+### berninger
+
+* [https://www.spiegel.de/panorama/justiz/fall-klaus-berninger-cold-case-in-bayern-keine-spur-zu-moerder-von-baeckerlehrling-ermittlungen-ruhen](https://www.spiegel.de/panorama/justiz/fall-klaus-berninger-cold-case-in-bayern-keine-spur-zu-moerder-von-baeckerlehrling-ermittlungen-ruhen-a-d95e01b5-0e50-4034-8bc0-c9de13d53f2b#ref=rss)
+### später
+
+* [https://www.spiegel.de/panorama/justiz/fall-klaus-berninger-cold-case-in-bayern-keine-spur-zu-moerder-von-baeckerlehrling-ermittlungen-ruhen](https://www.spiegel.de/panorama/justiz/fall-klaus-berninger-cold-case-in-bayern-keine-spur-zu-moerder-von-baeckerlehrling-ermittlungen-ruhen-a-d95e01b5-0e50-4034-8bc0-c9de13d53f2b#ref=rss)
+* [https://www.spiegel.de/panorama/wadern-im-saarland-ausgebuextes-kaenguru-wieder-eingefangen](https://www.spiegel.de/panorama/wadern-im-saarland-ausgebuextes-kaenguru-wieder-eingefangen-a-d9415a4b-3f28-4652-b1ec-306fb2f6f9dd#ref=rss)
+### meer
+
+* [https://www.spiegel.de/kultur/am-meer-von-elizabeth-strout-roman-ueber-die-coronapandemie](https://www.spiegel.de/kultur/am-meer-von-elizabeth-strout-roman-ueber-die-coronapandemie-a-e732c92a-61d6-43d6-937e-7cd0eee1b05c#ref=rss)
+### elizabeth
+
+* [https://www.spiegel.de/kultur/am-meer-von-elizabeth-strout-roman-ueber-die-coronapandemie](https://www.spiegel.de/kultur/am-meer-von-elizabeth-strout-roman-ueber-die-coronapandemie-a-e732c92a-61d6-43d6-937e-7cd0eee1b05c#ref=rss)
+### strout
+
+* [https://www.spiegel.de/kultur/am-meer-von-elizabeth-strout-roman-ueber-die-coronapandemie](https://www.spiegel.de/kultur/am-meer-von-elizabeth-strout-roman-ueber-die-coronapandemie-a-e732c92a-61d6-43d6-937e-7cd0eee1b05c#ref=rss)
+### roman
+
+* [https://www.spiegel.de/kultur/am-meer-von-elizabeth-strout-roman-ueber-die-coronapandemie](https://www.spiegel.de/kultur/am-meer-von-elizabeth-strout-roman-ueber-die-coronapandemie-a-e732c92a-61d6-43d6-937e-7cd0eee1b05c#ref=rss)
+### coronapandemie
+
+* [https://www.spiegel.de/kultur/am-meer-von-elizabeth-strout-roman-ueber-die-coronapandemie](https://www.spiegel.de/kultur/am-meer-von-elizabeth-strout-roman-ueber-die-coronapandemie-a-e732c92a-61d6-43d6-937e-7cd0eee1b05c#ref=rss)
+### zeit
+
+* [https://www.spiegel.de/kultur/am-meer-von-elizabeth-strout-roman-ueber-die-coronapandemie](https://www.spiegel.de/kultur/am-meer-von-elizabeth-strout-roman-ueber-die-coronapandemie-a-e732c92a-61d6-43d6-937e-7cd0eee1b05c#ref=rss)
+* [https://www.spiegel.de/sport/schwimmen-florian-wellbrock-bei-wm-weit-von-olympia-form-weg](https://www.spiegel.de/sport/schwimmen-florian-wellbrock-bei-wm-weit-von-olympia-form-weg-a-efe6dbbf-8598-47ba-bc04-eb33d0332a09#ref=rss)
+### längst
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-stimmung-im-deutschen-wohnungsbau-faellt-auf-historisches-tief](https://www.spiegel.de/wirtschaft/unternehmen/ifo-stimmung-im-deutschen-wohnungsbau-faellt-auf-historisches-tief-a-19dfc21f-10bb-4069-b0a1-7873eea06915#ref=rss)
+* [https://www.spiegel.de/sport/fussball/toni-kroos-fussballstar-von-real-madrid-vor-dfb-comeback-ich-denke-darueber-nach](https://www.spiegel.de/sport/fussball/toni-kroos-fussballstar-von-real-madrid-vor-dfb-comeback-ich-denke-darueber-nach-a-ac137829-dc92-4349-a120-e0f91f2bc9a7#ref=rss)
+### wiesbaden
+
+* [https://www.spiegel.de/kultur/wiesbaden-anna-netrebko-und-john-malkovich-treten-bei-den-maifestspielen-auf](https://www.spiegel.de/kultur/wiesbaden-anna-netrebko-und-john-malkovich-treten-bei-den-maifestspielen-auf-a-20c335c6-18b9-49fb-a0b1-9570453b0c3d#ref=rss)
+### weg
+
+* [https://www.spiegel.de/kultur/wiesbaden-anna-netrebko-und-john-malkovich-treten-bei-den-maifestspielen-auf](https://www.spiegel.de/kultur/wiesbaden-anna-netrebko-und-john-malkovich-treten-bei-den-maifestspielen-auf-a-20c335c6-18b9-49fb-a0b1-9570453b0c3d#ref=rss)
+* [https://www.spiegel.de/sport/schwimmen-florian-wellbrock-bei-wm-weit-von-olympia-form-weg](https://www.spiegel.de/sport/schwimmen-florian-wellbrock-bei-wm-weit-von-olympia-form-weg-a-efe6dbbf-8598-47ba-bc04-eb33d0332a09#ref=rss)
+### programm
+
+* [https://www.spiegel.de/kultur/wiesbaden-anna-netrebko-und-john-malkovich-treten-bei-den-maifestspielen-auf](https://www.spiegel.de/kultur/wiesbaden-anna-netrebko-und-john-malkovich-treten-bei-den-maifestspielen-auf-a-20c335c6-18b9-49fb-a0b1-9570453b0c3d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/iw-zu-afd-programm-bei-einem-dexit-waeren-2-2-millionen-arbeitsplaetze-bedroht](https://www.spiegel.de/wirtschaft/unternehmen/iw-zu-afd-programm-bei-einem-dexit-waeren-2-2-millionen-arbeitsplaetze-bedroht-a-6962f210-6947-4c7c-94e6-e7ea09500c2b#ref=rss)
+### vergangenen
+
+* [https://www.spiegel.de/kultur/wiesbaden-anna-netrebko-und-john-malkovich-treten-bei-den-maifestspielen-auf](https://www.spiegel.de/kultur/wiesbaden-anna-netrebko-und-john-malkovich-treten-bei-den-maifestspielen-auf-a-20c335c6-18b9-49fb-a0b1-9570453b0c3d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutsche-verteidigung-mehrheit-der-bevoelkerung-unterstuetzt-2-prozent-ziel-der-nato](https://www.spiegel.de/politik/deutschland/deutsche-verteidigung-mehrheit-der-bevoelkerung-unterstuetzt-2-prozent-ziel-der-nato-a-89f4e37c-a9aa-41e9-b3cb-0ce4b253c193#ref=rss)
+### würde
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/iw-zu-afd-programm-bei-einem-dexit-waeren-2-2-millionen-arbeitsplaetze-bedroht](https://www.spiegel.de/wirtschaft/unternehmen/iw-zu-afd-programm-bei-einem-dexit-waeren-2-2-millionen-arbeitsplaetze-bedroht-a-6962f210-6947-4c7c-94e6-e7ea09500c2b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/eu-lieferkettengesetz-wirtschaft-dringt-auf-nachbesserungen](https://www.spiegel.de/wirtschaft/unternehmen/eu-lieferkettengesetz-wirtschaft-dringt-auf-nachbesserungen-a-5ec85c32-617e-4758-877e-85ce82d4d7db#ref=rss)
+### florian
+
+* [https://www.spiegel.de/sport/schwimmen-florian-wellbrock-bei-wm-weit-von-olympia-form-weg](https://www.spiegel.de/sport/schwimmen-florian-wellbrock-bei-wm-weit-von-olympia-form-weg-a-efe6dbbf-8598-47ba-bc04-eb33d0332a09#ref=rss)
+### wellbrock
+
+* [https://www.spiegel.de/sport/schwimmen-florian-wellbrock-bei-wm-weit-von-olympia-form-weg](https://www.spiegel.de/sport/schwimmen-florian-wellbrock-bei-wm-weit-von-olympia-form-weg-a-efe6dbbf-8598-47ba-bc04-eb33d0332a09#ref=rss)
+### wm
+
+* [https://www.spiegel.de/sport/schwimmen-florian-wellbrock-bei-wm-weit-von-olympia-form-weg](https://www.spiegel.de/sport/schwimmen-florian-wellbrock-bei-wm-weit-von-olympia-form-weg-a-efe6dbbf-8598-47ba-bc04-eb33d0332a09#ref=rss)
+### startchancenprogramm
+
+* [https://www.spiegel.de/panorama/bildung/brennpunktschulen-was-wir-uns-vom-startchancen-programm-erhoffen-koennen](https://www.spiegel.de/panorama/bildung/brennpunktschulen-was-wir-uns-vom-startchancen-programm-erhoffen-koennen-a-777d2d16-8a6f-4d21-85be-7e34443409eb#ref=rss)
+### beginnen
+
+* [https://www.spiegel.de/panorama/bildung/brennpunktschulen-was-wir-uns-vom-startchancen-programm-erhoffen-koennen](https://www.spiegel.de/panorama/bildung/brennpunktschulen-was-wir-uns-vom-startchancen-programm-erhoffen-koennen-a-777d2d16-8a6f-4d21-85be-7e34443409eb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/nikki-haley-wechseln-die-reichen-spender-im-us-wahlkampf-jetzt-zu-donald-trump](https://www.spiegel.de/wirtschaft/nikki-haley-wechseln-die-reichen-spender-im-us-wahlkampf-jetzt-zu-donald-trump-a-407c8d91-6f09-420a-818b-245fcb11cec7#ref=rss)
+### bringt
+
+* [https://www.spiegel.de/panorama/bildung/brennpunktschulen-was-wir-uns-vom-startchancen-programm-erhoffen-koennen](https://www.spiegel.de/panorama/bildung/brennpunktschulen-was-wir-uns-vom-startchancen-programm-erhoffen-koennen-a-777d2d16-8a6f-4d21-85be-7e34443409eb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/katarina-barley-spd-spitzenkandidatin-fuer-die-europawahl-bringt-eu-atombomben-fuer-europaeische-armee-ins-gespraech](https://www.spiegel.de/politik/deutschland/katarina-barley-spd-spitzenkandidatin-fuer-die-europawahl-bringt-eu-atombomben-fuer-europaeische-armee-ins-gespraech-a-263da72d-c631-4bfa-aa1d-94f9f77cb8cc#ref=rss)
+### deutschlands
+
+* [https://www.spiegel.de/panorama/bildung/brennpunktschulen-was-wir-uns-vom-startchancen-programm-erhoffen-koennen](https://www.spiegel.de/panorama/bildung/brennpunktschulen-was-wir-uns-vom-startchancen-programm-erhoffen-koennen-a-777d2d16-8a6f-4d21-85be-7e34443409eb#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/ukraine-krieg-wie-eine-mini-schule-in-berlin-das-recht-auf-bildung-sichert](https://www.spiegel.de/panorama/bildung/ukraine-krieg-wie-eine-mini-schule-in-berlin-das-recht-auf-bildung-sichert-a-f34803b8-b5ca-41a9-aeb8-fb49fbafe33b#ref=rss)
+### schulen
+
+* [https://www.spiegel.de/panorama/bildung/brennpunktschulen-was-wir-uns-vom-startchancen-programm-erhoffen-koennen](https://www.spiegel.de/panorama/bildung/brennpunktschulen-was-wir-uns-vom-startchancen-programm-erhoffen-koennen-a-777d2d16-8a6f-4d21-85be-7e34443409eb#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/ukraine-krieg-wie-eine-mini-schule-in-berlin-das-recht-auf-bildung-sichert](https://www.spiegel.de/panorama/bildung/ukraine-krieg-wie-eine-mini-schule-in-berlin-das-recht-auf-bildung-sichert-a-f34803b8-b5ca-41a9-aeb8-fb49fbafe33b#ref=rss)
+### nikki
+
+* [https://www.spiegel.de/wirtschaft/nikki-haley-wechseln-die-reichen-spender-im-us-wahlkampf-jetzt-zu-donald-trump](https://www.spiegel.de/wirtschaft/nikki-haley-wechseln-die-reichen-spender-im-us-wahlkampf-jetzt-zu-donald-trump-a-407c8d91-6f09-420a-818b-245fcb11cec7#ref=rss)
+### haley
+
+* [https://www.spiegel.de/wirtschaft/nikki-haley-wechseln-die-reichen-spender-im-us-wahlkampf-jetzt-zu-donald-trump](https://www.spiegel.de/wirtschaft/nikki-haley-wechseln-die-reichen-spender-im-us-wahlkampf-jetzt-zu-donald-trump-a-407c8d91-6f09-420a-818b-245fcb11cec7#ref=rss)
+### spender
+
+* [https://www.spiegel.de/wirtschaft/nikki-haley-wechseln-die-reichen-spender-im-us-wahlkampf-jetzt-zu-donald-trump](https://www.spiegel.de/wirtschaft/nikki-haley-wechseln-die-reichen-spender-im-us-wahlkampf-jetzt-zu-donald-trump-a-407c8d91-6f09-420a-818b-245fcb11cec7#ref=rss)
+### ebike
+
+* [https://www.spiegel.de/karriere/arbeitsrecht-darf-ich-mein-handy-oder-e-bike-auf-der-arbeit-laden](https://www.spiegel.de/karriere/arbeitsrecht-darf-ich-mein-handy-oder-e-bike-auf-der-arbeit-laden-a-e141afc5-6355-414a-a6eb-5e9cd6041980#ref=rss)
+### eigene
+
+* [https://www.spiegel.de/karriere/arbeitsrecht-darf-ich-mein-handy-oder-e-bike-auf-der-arbeit-laden](https://www.spiegel.de/karriere/arbeitsrecht-darf-ich-mein-handy-oder-e-bike-auf-der-arbeit-laden-a-e141afc5-6355-414a-a6eb-5e9cd6041980#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/katarina-barley-spd-spitzenkandidatin-fuer-die-europawahl-bringt-eu-atombomben-fuer-europaeische-armee-ins-gespraech](https://www.spiegel.de/politik/deutschland/katarina-barley-spd-spitzenkandidatin-fuer-die-europawahl-bringt-eu-atombomben-fuer-europaeische-armee-ins-gespraech-a-263da72d-c631-4bfa-aa1d-94f9f77cb8cc#ref=rss)
+### schnell
+
+* [https://www.spiegel.de/karriere/arbeitsrecht-darf-ich-mein-handy-oder-e-bike-auf-der-arbeit-laden](https://www.spiegel.de/karriere/arbeitsrecht-darf-ich-mein-handy-oder-e-bike-auf-der-arbeit-laden-a-e141afc5-6355-414a-a6eb-5e9cd6041980#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-inkasso-co-die-drohungen-gegen-washingtons-nato-partner-der-spiegel-leitartikel](https://www.spiegel.de/ausland/donald-trump-inkasso-co-die-drohungen-gegen-washingtons-nato-partner-der-spiegel-leitartikel-a-69edbebf-fdbd-4854-9cd5-792fb91829a7#ref=rss)
+### gemeindezentrum
+
+* [https://www.spiegel.de/geschichte/anschlag-auf-juedisches-gemeindezentrum-in-muenchen-1970-gedaechtnisluecke-der-bundesrepublik](https://www.spiegel.de/geschichte/anschlag-auf-juedisches-gemeindezentrum-in-muenchen-1970-gedaechtnisluecke-der-bundesrepublik-a-68419ca3-9653-46bc-a6a6-415b5ea276d1#ref=rss)
+### 1970
+
+* [https://www.spiegel.de/geschichte/anschlag-auf-juedisches-gemeindezentrum-in-muenchen-1970-gedaechtnisluecke-der-bundesrepublik](https://www.spiegel.de/geschichte/anschlag-auf-juedisches-gemeindezentrum-in-muenchen-1970-gedaechtnisluecke-der-bundesrepublik-a-68419ca3-9653-46bc-a6a6-415b5ea276d1#ref=rss)
+### bundesrepublik
+
+* [https://www.spiegel.de/geschichte/anschlag-auf-juedisches-gemeindezentrum-in-muenchen-1970-gedaechtnisluecke-der-bundesrepublik](https://www.spiegel.de/geschichte/anschlag-auf-juedisches-gemeindezentrum-in-muenchen-1970-gedaechtnisluecke-der-bundesrepublik-a-68419ca3-9653-46bc-a6a6-415b5ea276d1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutsche-verteidigung-mehrheit-der-bevoelkerung-unterstuetzt-2-prozent-ziel-der-nato](https://www.spiegel.de/politik/deutschland/deutsche-verteidigung-mehrheit-der-bevoelkerung-unterstuetzt-2-prozent-ziel-der-nato-a-89f4e37c-a9aa-41e9-b3cb-0ce4b253c193#ref=rss)
+### aussagen
+
+* [https://www.spiegel.de/geschichte/anschlag-auf-juedisches-gemeindezentrum-in-muenchen-1970-gedaechtnisluecke-der-bundesrepublik](https://www.spiegel.de/geschichte/anschlag-auf-juedisches-gemeindezentrum-in-muenchen-1970-gedaechtnisluecke-der-bundesrepublik-a-68419ca3-9653-46bc-a6a6-415b5ea276d1#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-ex-us-praesident-reklamiert-staerkung-der-nato-fuer-sich](https://www.spiegel.de/ausland/donald-trump-ex-us-praesident-reklamiert-staerkung-der-nato-fuer-sich-a-717cc12f-c183-467c-a956-197dad0db573#ref=rss)
+### timo
+
+* [https://www.spiegel.de/sport/olympia/timo-boll-vor-olympia-2024-in-paris-moechte-keinem-den-platz-wegnehmen](https://www.spiegel.de/sport/olympia/timo-boll-vor-olympia-2024-in-paris-moechte-keinem-den-platz-wegnehmen-a-d4bcfceb-d702-4507-9384-d33448500013#ref=rss)
+### boll
+
+* [https://www.spiegel.de/sport/olympia/timo-boll-vor-olympia-2024-in-paris-moechte-keinem-den-platz-wegnehmen](https://www.spiegel.de/sport/olympia/timo-boll-vor-olympia-2024-in-paris-moechte-keinem-den-platz-wegnehmen-a-d4bcfceb-d702-4507-9384-d33448500013#ref=rss)
+### hatespeech
+
+* [https://www.spiegel.de/netzwelt/studie-zu-hatespeech-haelfte-aller-buerger-redet-online-weniger-offen-ueber-politik](https://www.spiegel.de/netzwelt/studie-zu-hatespeech-haelfte-aller-buerger-redet-online-weniger-offen-ueber-politik-a-9ba0c0e0-16b7-4cf3-815f-639059d33dcb#ref=rss)
+### hälfte
+
+* [https://www.spiegel.de/netzwelt/studie-zu-hatespeech-haelfte-aller-buerger-redet-online-weniger-offen-ueber-politik](https://www.spiegel.de/netzwelt/studie-zu-hatespeech-haelfte-aller-buerger-redet-online-weniger-offen-ueber-politik-a-9ba0c0e0-16b7-4cf3-815f-639059d33dcb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutsche-verteidigung-mehrheit-der-bevoelkerung-unterstuetzt-2-prozent-ziel-der-nato](https://www.spiegel.de/politik/deutschland/deutsche-verteidigung-mehrheit-der-bevoelkerung-unterstuetzt-2-prozent-ziel-der-nato-a-89f4e37c-a9aa-41e9-b3cb-0ce4b253c193#ref=rss)
+### online
+
+* [https://www.spiegel.de/netzwelt/studie-zu-hatespeech-haelfte-aller-buerger-redet-online-weniger-offen-ueber-politik](https://www.spiegel.de/netzwelt/studie-zu-hatespeech-haelfte-aller-buerger-redet-online-weniger-offen-ueber-politik-a-9ba0c0e0-16b7-4cf3-815f-639059d33dcb#ref=rss)
+### offen
+
+* [https://www.spiegel.de/netzwelt/studie-zu-hatespeech-haelfte-aller-buerger-redet-online-weniger-offen-ueber-politik](https://www.spiegel.de/netzwelt/studie-zu-hatespeech-haelfte-aller-buerger-redet-online-weniger-offen-ueber-politik-a-9ba0c0e0-16b7-4cf3-815f-639059d33dcb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-roderich-kiesewetter-offen-fuer-erhoehung-des-sondervermoegens](https://www.spiegel.de/politik/deutschland/bundeswehr-roderich-kiesewetter-offen-fuer-erhoehung-des-sondervermoegens-a-576eb8a9-9786-41b4-9837-7b539d7a43ba#ref=rss)
+### neue
+
+* [https://www.spiegel.de/netzwelt/studie-zu-hatespeech-haelfte-aller-buerger-redet-online-weniger-offen-ueber-politik](https://www.spiegel.de/netzwelt/studie-zu-hatespeech-haelfte-aller-buerger-redet-online-weniger-offen-ueber-politik-a-9ba0c0e0-16b7-4cf3-815f-639059d33dcb#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-russland-greift-erneut-zivile-infrastrukturen-in-dnipro-an](https://www.spiegel.de/ausland/russland-ukraine-krieg-russland-greift-erneut-zivile-infrastrukturen-in-dnipro-an-a-a2c41066-f3cd-48d7-add8-63e6cff2b25d#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/netzwelt/studie-zu-hatespeech-haelfte-aller-buerger-redet-online-weniger-offen-ueber-politik](https://www.spiegel.de/netzwelt/studie-zu-hatespeech-haelfte-aller-buerger-redet-online-weniger-offen-ueber-politik-a-9ba0c0e0-16b7-4cf3-815f-639059d33dcb#ref=rss)
+* [https://www.spiegel.de/start/omr-gruender-philipp-westermeyer-ueber-selbstoptimierung-und-effizienzhacks](https://www.spiegel.de/start/omr-gruender-philipp-westermeyer-ueber-selbstoptimierung-und-effizienzhacks-a-79c3a0d6-9835-4a6c-af61-dbf041447745#ref=rss)
+### kiesewetter
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-roderich-kiesewetter-offen-fuer-erhoehung-des-sondervermoegens](https://www.spiegel.de/politik/deutschland/bundeswehr-roderich-kiesewetter-offen-fuer-erhoehung-des-sondervermoegens-a-576eb8a9-9786-41b4-9837-7b539d7a43ba#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/ausland/donald-trump-inkasso-co-die-drohungen-gegen-washingtons-nato-partner-der-spiegel-leitartikel](https://www.spiegel.de/ausland/donald-trump-inkasso-co-die-drohungen-gegen-washingtons-nato-partner-der-spiegel-leitartikel-a-69edbebf-fdbd-4854-9cd5-792fb91829a7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-nato-europa-fdp-gazastreifen-annalena-baerbock](https://www.spiegel.de/politik/deutschland/news-donald-trump-nato-europa-fdp-gazastreifen-annalena-baerbock-a-40ae1bb0-1a2d-422b-be4b-9275f2309e62#ref=rss)
+### saarland
+
+* [https://www.spiegel.de/panorama/wadern-im-saarland-ausgebuextes-kaenguru-wieder-eingefangen](https://www.spiegel.de/panorama/wadern-im-saarland-ausgebuextes-kaenguru-wieder-eingefangen-a-d9415a4b-3f28-4652-b1ec-306fb2f6f9dd#ref=rss)
+### känguru
+
+* [https://www.spiegel.de/panorama/wadern-im-saarland-ausgebuextes-kaenguru-wieder-eingefangen](https://www.spiegel.de/panorama/wadern-im-saarland-ausgebuextes-kaenguru-wieder-eingefangen-a-d9415a4b-3f28-4652-b1ec-306fb2f6f9dd#ref=rss)
+### katarina
+
+* [https://www.spiegel.de/politik/deutschland/katarina-barley-spd-spitzenkandidatin-fuer-die-europawahl-bringt-eu-atombomben-fuer-europaeische-armee-ins-gespraech](https://www.spiegel.de/politik/deutschland/katarina-barley-spd-spitzenkandidatin-fuer-die-europawahl-bringt-eu-atombomben-fuer-europaeische-armee-ins-gespraech-a-263da72d-c631-4bfa-aa1d-94f9f77cb8cc#ref=rss)
+### barley
+
+* [https://www.spiegel.de/politik/deutschland/katarina-barley-spd-spitzenkandidatin-fuer-die-europawahl-bringt-eu-atombomben-fuer-europaeische-armee-ins-gespraech](https://www.spiegel.de/politik/deutschland/katarina-barley-spd-spitzenkandidatin-fuer-die-europawahl-bringt-eu-atombomben-fuer-europaeische-armee-ins-gespraech-a-263da72d-c631-4bfa-aa1d-94f9f77cb8cc#ref=rss)
+### nachdem
+
+* [https://www.spiegel.de/politik/deutschland/katarina-barley-spd-spitzenkandidatin-fuer-die-europawahl-bringt-eu-atombomben-fuer-europaeische-armee-ins-gespraech](https://www.spiegel.de/politik/deutschland/katarina-barley-spd-spitzenkandidatin-fuer-die-europawahl-bringt-eu-atombomben-fuer-europaeische-armee-ins-gespraech-a-263da72d-c631-4bfa-aa1d-94f9f77cb8cc#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-ex-us-praesident-reklamiert-staerkung-der-nato-fuer-sich](https://www.spiegel.de/ausland/donald-trump-ex-us-praesident-reklamiert-staerkung-der-nato-fuer-sich-a-717cc12f-c183-467c-a956-197dad0db573#ref=rss)
+### natobeistandspflicht
+
+* [https://www.spiegel.de/politik/deutschland/katarina-barley-spd-spitzenkandidatin-fuer-die-europawahl-bringt-eu-atombomben-fuer-europaeische-armee-ins-gespraech](https://www.spiegel.de/politik/deutschland/katarina-barley-spd-spitzenkandidatin-fuer-die-europawahl-bringt-eu-atombomben-fuer-europaeische-armee-ins-gespraech-a-263da72d-c631-4bfa-aa1d-94f9f77cb8cc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-nato-europa-fdp-gazastreifen-annalena-baerbock](https://www.spiegel.de/politik/deutschland/news-donald-trump-nato-europa-fdp-gazastreifen-annalena-baerbock-a-40ae1bb0-1a2d-422b-be4b-9275f2309e62#ref=rss)
+### gestellt
+
+* [https://www.spiegel.de/politik/deutschland/katarina-barley-spd-spitzenkandidatin-fuer-die-europawahl-bringt-eu-atombomben-fuer-europaeische-armee-ins-gespraech](https://www.spiegel.de/politik/deutschland/katarina-barley-spd-spitzenkandidatin-fuer-die-europawahl-bringt-eu-atombomben-fuer-europaeische-armee-ins-gespraech-a-263da72d-c631-4bfa-aa1d-94f9f77cb8cc#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-ex-us-praesident-reklamiert-staerkung-der-nato-fuer-sich](https://www.spiegel.de/ausland/donald-trump-ex-us-praesident-reklamiert-staerkung-der-nato-fuer-sich-a-717cc12f-c183-467c-a956-197dad0db573#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/panorama/bildung/ukraine-krieg-wie-eine-mini-schule-in-berlin-das-recht-auf-bildung-sichert](https://www.spiegel.de/panorama/bildung/ukraine-krieg-wie-eine-mini-schule-in-berlin-das-recht-auf-bildung-sichert-a-f34803b8-b5ca-41a9-aeb8-fb49fbafe33b#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-russland-greift-erneut-zivile-infrastrukturen-in-dnipro-an](https://www.spiegel.de/ausland/russland-ukraine-krieg-russland-greift-erneut-zivile-infrastrukturen-in-dnipro-an-a-a2c41066-f3cd-48d7-add8-63e6cff2b25d#ref=rss)
+### eulieferkettengesetz
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/eu-lieferkettengesetz-wirtschaft-dringt-auf-nachbesserungen](https://www.spiegel.de/wirtschaft/unternehmen/eu-lieferkettengesetz-wirtschaft-dringt-auf-nachbesserungen-a-5ec85c32-617e-4758-877e-85ce82d4d7db#ref=rss)
+### wirtschaft
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/eu-lieferkettengesetz-wirtschaft-dringt-auf-nachbesserungen](https://www.spiegel.de/wirtschaft/unternehmen/eu-lieferkettengesetz-wirtschaft-dringt-auf-nachbesserungen-a-5ec85c32-617e-4758-877e-85ce82d4d7db#ref=rss)
+### gemacht
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/eu-lieferkettengesetz-wirtschaft-dringt-auf-nachbesserungen](https://www.spiegel.de/wirtschaft/unternehmen/eu-lieferkettengesetz-wirtschaft-dringt-auf-nachbesserungen-a-5ec85c32-617e-4758-877e-85ce82d4d7db#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-ex-us-praesident-reklamiert-staerkung-der-nato-fuer-sich](https://www.spiegel.de/ausland/donald-trump-ex-us-praesident-reklamiert-staerkung-der-nato-fuer-sich-a-717cc12f-c183-467c-a956-197dad0db573#ref=rss)
+### dnipro
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-russland-greift-erneut-zivile-infrastrukturen-in-dnipro-an](https://www.spiegel.de/ausland/russland-ukraine-krieg-russland-greift-erneut-zivile-infrastrukturen-in-dnipro-an-a-a2c41066-f3cd-48d7-add8-63e6cff2b25d#ref=rss)
+### toni
+
+* [https://www.spiegel.de/sport/fussball/toni-kroos-fussballstar-von-real-madrid-vor-dfb-comeback-ich-denke-darueber-nach](https://www.spiegel.de/sport/fussball/toni-kroos-fussballstar-von-real-madrid-vor-dfb-comeback-ich-denke-darueber-nach-a-ac137829-dc92-4349-a120-e0f91f2bc9a7#ref=rss)
+### kroos
+
+* [https://www.spiegel.de/sport/fussball/toni-kroos-fussballstar-von-real-madrid-vor-dfb-comeback-ich-denke-darueber-nach](https://www.spiegel.de/sport/fussball/toni-kroos-fussballstar-von-real-madrid-vor-dfb-comeback-ich-denke-darueber-nach-a-ac137829-dc92-4349-a120-e0f91f2bc9a7#ref=rss)
+### zukunft
+
+* [https://www.spiegel.de/sport/fussball/toni-kroos-fussballstar-von-real-madrid-vor-dfb-comeback-ich-denke-darueber-nach](https://www.spiegel.de/sport/fussball/toni-kroos-fussballstar-von-real-madrid-vor-dfb-comeback-ich-denke-darueber-nach-a-ac137829-dc92-4349-a120-e0f91f2bc9a7#ref=rss)
+* [https://www.spiegel.de/start/omr-gruender-philipp-westermeyer-ueber-selbstoptimierung-und-effizienzhacks](https://www.spiegel.de/start/omr-gruender-philipp-westermeyer-ueber-selbstoptimierung-und-effizienzhacks-a-79c3a0d6-9835-4a6c-af61-dbf041447745#ref=rss)
+### südtirol
+
+* [https://www.spiegel.de/wirtschaft/service/aepfel-aus-suedtirol-pestizide-aus-dem-apfelanbau-gelangen-auch-in-die-berge-studie-der-tu-kaiserslautern-landau](https://www.spiegel.de/wirtschaft/service/aepfel-aus-suedtirol-pestizide-aus-dem-apfelanbau-gelangen-auch-in-die-berge-studie-der-tu-kaiserslautern-landau-a-39ddcf72-0275-477c-bf0a-6c8487a3ab1e#ref=rss)
+### pestizide
+
+* [https://www.spiegel.de/wirtschaft/service/aepfel-aus-suedtirol-pestizide-aus-dem-apfelanbau-gelangen-auch-in-die-berge-studie-der-tu-kaiserslautern-landau](https://www.spiegel.de/wirtschaft/service/aepfel-aus-suedtirol-pestizide-aus-dem-apfelanbau-gelangen-auch-in-die-berge-studie-der-tu-kaiserslautern-landau-a-39ddcf72-0275-477c-bf0a-6c8487a3ab1e#ref=rss)
+### aktuellen
+
+* [https://www.spiegel.de/wirtschaft/service/aepfel-aus-suedtirol-pestizide-aus-dem-apfelanbau-gelangen-auch-in-die-berge-studie-der-tu-kaiserslautern-landau](https://www.spiegel.de/wirtschaft/service/aepfel-aus-suedtirol-pestizide-aus-dem-apfelanbau-gelangen-auch-in-die-berge-studie-der-tu-kaiserslautern-landau-a-39ddcf72-0275-477c-bf0a-6c8487a3ab1e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutsche-verteidigung-mehrheit-der-bevoelkerung-unterstuetzt-2-prozent-ziel-der-nato](https://www.spiegel.de/politik/deutschland/deutsche-verteidigung-mehrheit-der-bevoelkerung-unterstuetzt-2-prozent-ziel-der-nato-a-89f4e37c-a9aa-41e9-b3cb-0ce4b253c193#ref=rss)
+### mehrheit
+
+* [https://www.spiegel.de/politik/deutschland/deutsche-verteidigung-mehrheit-der-bevoelkerung-unterstuetzt-2-prozent-ziel-der-nato](https://www.spiegel.de/politik/deutschland/deutsche-verteidigung-mehrheit-der-bevoelkerung-unterstuetzt-2-prozent-ziel-der-nato-a-89f4e37c-a9aa-41e9-b3cb-0ce4b253c193#ref=rss)
+### ostsee
+
+* [https://www.spiegel.de/wissenschaft/ostsee-vermutlich-mehr-als-10-000-jahre-alter-steinwall-in-mecklenburger-bucht-entdeckt](https://www.spiegel.de/wissenschaft/ostsee-vermutlich-mehr-als-10-000-jahre-alter-steinwall-in-mecklenburger-bucht-entdeckt-a-61ca4d4c-2079-46a4-b7fa-544bfa3ef170#ref=rss)
+### philipp
+
+* [https://www.spiegel.de/start/omr-gruender-philipp-westermeyer-ueber-selbstoptimierung-und-effizienzhacks](https://www.spiegel.de/start/omr-gruender-philipp-westermeyer-ueber-selbstoptimierung-und-effizienzhacks-a-79c3a0d6-9835-4a6c-af61-dbf041447745#ref=rss)
+### westermeyer
+
+* [https://www.spiegel.de/start/omr-gruender-philipp-westermeyer-ueber-selbstoptimierung-und-effizienzhacks](https://www.spiegel.de/start/omr-gruender-philipp-westermeyer-ueber-selbstoptimierung-und-effizienzhacks-a-79c3a0d6-9835-4a6c-af61-dbf041447745#ref=rss)
+### fdp
+
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-nato-europa-fdp-gazastreifen-annalena-baerbock](https://www.spiegel.de/politik/deutschland/news-donald-trump-nato-europa-fdp-gazastreifen-annalena-baerbock-a-40ae1bb0-1a2d-422b-be4b-9275f2309e62#ref=rss)
+### annalena
+
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-nato-europa-fdp-gazastreifen-annalena-baerbock](https://www.spiegel.de/politik/deutschland/news-donald-trump-nato-europa-fdp-gazastreifen-annalena-baerbock-a-40ae1bb0-1a2d-422b-be4b-9275f2309e62#ref=rss)
+### baerbock
+
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-nato-europa-fdp-gazastreifen-annalena-baerbock](https://www.spiegel.de/politik/deutschland/news-donald-trump-nato-europa-fdp-gazastreifen-annalena-baerbock-a-40ae1bb0-1a2d-422b-be4b-9275f2309e62#ref=rss)
 
