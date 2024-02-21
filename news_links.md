@@ -4,360 +4,311 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### alexej
+### offenbar
 
-* [https://www.spiegel.de/netzwelt/julija-nawalnaja-onlinedienst-x-sperrt-konto-von-alexej-nawalnys-witwe-voruebergehend](https://www.spiegel.de/netzwelt/julija-nawalnaja-onlinedienst-x-sperrt-konto-von-alexej-nawalnys-witwe-voruebergehend-a-6cfabbce-73c8-4136-9a38-3a7b154cb366#ref=rss)
-* [https://www.spiegel.de/ausland/wladimir-putin-befoerdert-nach-alexej-nawalnys-tod-ranghohen-strafvollzugsbeamten](https://www.spiegel.de/ausland/wladimir-putin-befoerdert-nach-alexej-nawalnys-tod-ranghohen-strafvollzugsbeamten-a-4579cce9-8774-4875-a36f-82e7076f752c#ref=rss)
-* [https://www.spiegel.de/ausland/alexej-nawalnys-mutter-bittet-wladimir-putin-um-herausgabe-des-leichnams](https://www.spiegel.de/ausland/alexej-nawalnys-mutter-bittet-wladimir-putin-um-herausgabe-des-leichnams-a-12b2e514-9d6d-4879-a76c-70ee311acc18#ref=rss)
-* [https://www.spiegel.de/ausland/julija-nawalnaja-wie-alexej-nawalnys-witwe-russlands-opposition-fuehren-will](https://www.spiegel.de/ausland/julija-nawalnaja-wie-alexej-nawalnys-witwe-russlands-opposition-fuehren-will-a-d9cd891c-5604-4acd-b22d-17232bf776cc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/danone-verkauft-russische-tochterfirma](https://www.spiegel.de/wirtschaft/danone-verkauft-russische-tochterfirma-a-e268388c-1e8e-4669-8908-c0b203c968d5#ref=rss)
+* [https://www.spiegel.de/ausland/offenbar-mehrere-explosionen-in-damaskus-syrien-macht-israel-verantwortlich](https://www.spiegel.de/ausland/offenbar-mehrere-explosionen-in-damaskus-syrien-macht-israel-verantwortlich-a-cbf70e1c-eb8f-49ca-89ca-faafaeefc505#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-toetet-offenbar-dutzende-russische-soldaten-bei-raketenangriff-auf-truppenuebungsplatz](https://www.spiegel.de/ausland/ukraine-toetet-offenbar-dutzende-russische-soldaten-bei-raketenangriff-auf-truppenuebungsplatz-a-25556983-7fa0-4ba3-a15e-b7a09c7840ac#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/fluechtlinge-in-deutschland-angriffe-auf-gefluechtete-und-asylbewerber-auf-hoechstwert-seit-2016](https://www.spiegel.de/panorama/justiz/fluechtlinge-in-deutschland-angriffe-auf-gefluechtete-und-asylbewerber-auf-hoechstwert-seit-2016-a-b15ccb6c-53a0-4ece-b1d5-38493d0ebef0#ref=rss)
+* [https://www.spiegel.de/ausland/ukrainekrieg-von-russland-eingesetzte-nordkoreanische-raketen-in-der-ukraine-haben-westliche-bauteile](https://www.spiegel.de/ausland/ukrainekrieg-von-russland-eingesetzte-nordkoreanische-raketen-in-der-ukraine-haben-westliche-bauteile-a-86e2cd26-0ee6-4334-b421-d8cdf620c56f#ref=rss)
+* [https://www.spiegel.de/ausland/israel-baut-offenbar-strasse-zur-kontrolle-des-gazastreifens-aus](https://www.spiegel.de/ausland/israel-baut-offenbar-strasse-zur-kontrolle-des-gazastreifens-aus-a-ee7a51e7-347c-4c74-a9ad-9db8a1630813#ref=rss)
 ### russland
 
-* [https://www.spiegel.de/ausland/kreml-verbietet-us-sendergruppe-radio-free-europe-aktivitaeten-in-russland](https://www.spiegel.de/ausland/kreml-verbietet-us-sendergruppe-radio-free-europe-aktivitaeten-in-russland-a-951881c3-766b-4889-828e-58d0f00abf71#ref=rss)
-* [https://www.spiegel.de/ausland/usa-weisses-haus-kuendigt-umfangreiches-sanktionspaket-gegen-russland-an](https://www.spiegel.de/ausland/usa-weisses-haus-kuendigt-umfangreiches-sanktionspaket-gegen-russland-an-a-6169e345-07f8-4f06-9e0a-dc0ff4cb8b21#ref=rss)
+* [https://www.spiegel.de/wirtschaft/russland-und-venezuela-intensivieren-wirtschaftliche-zusammenarbeit](https://www.spiegel.de/wirtschaft/russland-und-venezuela-intensivieren-wirtschaftliche-zusammenarbeit-a-e3d2e8b0-d87c-4f6b-8a74-111d0713136a#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-ex-fbi-informant-soll-kontakte-zum-russischen-geheimdienst-gehabt-haben](https://www.spiegel.de/ausland/joe-biden-ex-fbi-informant-soll-kontakte-zum-russischen-geheimdienst-gehabt-haben-a-f1a9f360-e3f1-4d7d-a439-8caf026f7631#ref=rss)
+* [https://www.spiegel.de/ausland/ukrainekrieg-von-russland-eingesetzte-nordkoreanische-raketen-in-der-ukraine-haben-westliche-bauteile](https://www.spiegel.de/ausland/ukrainekrieg-von-russland-eingesetzte-nordkoreanische-raketen-in-der-ukraine-haben-westliche-bauteile-a-86e2cd26-0ee6-4334-b421-d8cdf620c56f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/russland-vor-allem-zentralasiatische-laender-und-die-tuerkei-beliefern-das-land-mit-sanktionswaren](https://www.spiegel.de/wirtschaft/russland-vor-allem-zentralasiatische-laender-und-die-tuerkei-beliefern-das-land-mit-sanktionswaren-a-0372da3a-2794-4a3d-a3ac-058827275902#ref=rss)
+* [https://www.spiegel.de/ausland/kaja-kallas-spricht-von-wunschdenken-des-westens-ueber-russland](https://www.spiegel.de/ausland/kaja-kallas-spricht-von-wunschdenken-des-westens-ueber-russland-a-f53b42f6-a96b-4248-ab26-f8116b4b228a#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/ausland/kreml-verbietet-us-sendergruppe-radio-free-europe-aktivitaeten-in-russland](https://www.spiegel.de/ausland/kreml-verbietet-us-sendergruppe-radio-free-europe-aktivitaeten-in-russland-a-951881c3-766b-4889-828e-58d0f00abf71#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/christina-block-deutsche-gerichte-nicht-mehr-fuer-sorgerechtsstreit-um-kinder-zustaendig-entscheidung-des-olg-hamburg](https://www.spiegel.de/panorama/justiz/christina-block-deutsche-gerichte-nicht-mehr-fuer-sorgerechtsstreit-um-kinder-zustaendig-entscheidung-des-olg-hamburg-a-94b3f8e7-03e4-4971-9694-aa9d5393d4b1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-vs-psv-eindhoven-vorsicht-es-ist-die-saison-von-eindhoven](https://www.spiegel.de/sport/fussball/borussia-dortmund-vs-psv-eindhoven-vorsicht-es-ist-die-saison-von-eindhoven-a-5587d893-c84e-423d-858b-dfa05a27ac06#ref=rss)
-* [https://www.spiegel.de/netzwelt/julija-nawalnaja-onlinedienst-x-sperrt-konto-von-alexej-nawalnys-witwe-voruebergehend](https://www.spiegel.de/netzwelt/julija-nawalnaja-onlinedienst-x-sperrt-konto-von-alexej-nawalnys-witwe-voruebergehend-a-6cfabbce-73c8-4136-9a38-3a7b154cb366#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/panorama/justiz/christina-block-deutsche-gerichte-nicht-mehr-fuer-sorgerechtsstreit-um-kinder-zustaendig-entscheidung-des-olg-hamburg](https://www.spiegel.de/panorama/justiz/christina-block-deutsche-gerichte-nicht-mehr-fuer-sorgerechtsstreit-um-kinder-zustaendig-entscheidung-des-olg-hamburg-a-94b3f8e7-03e4-4971-9694-aa9d5393d4b1#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/pirmasens-kinder-mit-peitschen-gequaelt-maenner-zu-freiheitsstrafen-verurteilt](https://www.spiegel.de/panorama/justiz/pirmasens-kinder-mit-peitschen-gequaelt-maenner-zu-freiheitsstrafen-verurteilt-a-e847fda1-de4f-4355-81ce-82b9ec21297a#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-familie-juengster-geiseln-draengt-auf-rasche-verhandlungsloesung-mit-hamas](https://www.spiegel.de/ausland/israel-gaza-krieg-familie-juengster-geiseln-draengt-auf-rasche-verhandlungsloesung-mit-hamas-a-97d7680e-2d6a-4219-bcc6-bcba7a89ec1a#ref=rss)
-### tod
-
-* [https://www.spiegel.de/ausland/usa-weisses-haus-kuendigt-umfangreiches-sanktionspaket-gegen-russland-an](https://www.spiegel.de/ausland/usa-weisses-haus-kuendigt-umfangreiches-sanktionspaket-gegen-russland-an-a-6169e345-07f8-4f06-9e0a-dc0ff4cb8b21#ref=rss)
-* [https://www.spiegel.de/ausland/wladimir-putin-befoerdert-nach-alexej-nawalnys-tod-ranghohen-strafvollzugsbeamten](https://www.spiegel.de/ausland/wladimir-putin-befoerdert-nach-alexej-nawalnys-tod-ranghohen-strafvollzugsbeamten-a-4579cce9-8774-4875-a36f-82e7076f752c#ref=rss)
-* [https://www.spiegel.de/ausland/julija-nawalnaja-wie-alexej-nawalnys-witwe-russlands-opposition-fuehren-will](https://www.spiegel.de/ausland/julija-nawalnaja-wie-alexej-nawalnys-witwe-russlands-opposition-fuehren-will-a-d9cd891c-5604-4acd-b22d-17232bf776cc#ref=rss)
-### nawalnaja
-
-* [https://www.spiegel.de/netzwelt/julija-nawalnaja-onlinedienst-x-sperrt-konto-von-alexej-nawalnys-witwe-voruebergehend](https://www.spiegel.de/netzwelt/julija-nawalnaja-onlinedienst-x-sperrt-konto-von-alexej-nawalnys-witwe-voruebergehend-a-6cfabbce-73c8-4136-9a38-3a7b154cb366#ref=rss)
-* [https://www.spiegel.de/ausland/alexej-nawalnys-mutter-bittet-wladimir-putin-um-herausgabe-des-leichnams](https://www.spiegel.de/ausland/alexej-nawalnys-mutter-bittet-wladimir-putin-um-herausgabe-des-leichnams-a-12b2e514-9d6d-4879-a76c-70ee311acc18#ref=rss)
-* [https://www.spiegel.de/ausland/julija-nawalnaja-wie-alexej-nawalnys-witwe-russlands-opposition-fuehren-will](https://www.spiegel.de/ausland/julija-nawalnaja-wie-alexej-nawalnys-witwe-russlands-opposition-fuehren-will-a-d9cd891c-5604-4acd-b22d-17232bf776cc#ref=rss)
-### nawalnys
-
-* [https://www.spiegel.de/netzwelt/julija-nawalnaja-onlinedienst-x-sperrt-konto-von-alexej-nawalnys-witwe-voruebergehend](https://www.spiegel.de/netzwelt/julija-nawalnaja-onlinedienst-x-sperrt-konto-von-alexej-nawalnys-witwe-voruebergehend-a-6cfabbce-73c8-4136-9a38-3a7b154cb366#ref=rss)
-* [https://www.spiegel.de/ausland/wladimir-putin-befoerdert-nach-alexej-nawalnys-tod-ranghohen-strafvollzugsbeamten](https://www.spiegel.de/ausland/wladimir-putin-befoerdert-nach-alexej-nawalnys-tod-ranghohen-strafvollzugsbeamten-a-4579cce9-8774-4875-a36f-82e7076f752c#ref=rss)
-* [https://www.spiegel.de/ausland/julija-nawalnaja-wie-alexej-nawalnys-witwe-russlands-opposition-fuehren-will](https://www.spiegel.de/ausland/julija-nawalnaja-wie-alexej-nawalnys-witwe-russlands-opposition-fuehren-will-a-d9cd891c-5604-4acd-b22d-17232bf776cc#ref=rss)
-### marine
-
-* [https://www.spiegel.de/politik/deutschland/afd-alice-weidel-trifft-marine-le-pen-in-paris](https://www.spiegel.de/politik/deutschland/afd-alice-weidel-trifft-marine-le-pen-in-paris-a-bc3a68c2-9b7a-4fe5-b818-045cbdfe9daa#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-auf-der-fregatte-hessen-sein-erster-einsatz](https://www.spiegel.de/politik/deutschland/boris-pistorius-auf-der-fregatte-hessen-sein-erster-einsatz-a-eb83c0d4-bbe3-44fa-a506-763c64fe9408#ref=rss)
-### kreml
-
-* [https://www.spiegel.de/ausland/kreml-verbietet-us-sendergruppe-radio-free-europe-aktivitaeten-in-russland](https://www.spiegel.de/ausland/kreml-verbietet-us-sendergruppe-radio-free-europe-aktivitaeten-in-russland-a-951881c3-766b-4889-828e-58d0f00abf71#ref=rss)
-* [https://www.spiegel.de/ausland/usa-weisses-haus-kuendigt-umfangreiches-sanktionspaket-gegen-russland-an](https://www.spiegel.de/ausland/usa-weisses-haus-kuendigt-umfangreiches-sanktionspaket-gegen-russland-an-a-6169e345-07f8-4f06-9e0a-dc0ff4cb8b21#ref=rss)
-* [https://www.spiegel.de/ausland/wladimir-putin-befoerdert-nach-alexej-nawalnys-tod-ranghohen-strafvollzugsbeamten](https://www.spiegel.de/ausland/wladimir-putin-befoerdert-nach-alexej-nawalnys-tod-ranghohen-strafvollzugsbeamten-a-4579cce9-8774-4875-a36f-82e7076f752c#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/usa-weisses-haus-kuendigt-umfangreiches-sanktionspaket-gegen-russland-an](https://www.spiegel.de/ausland/usa-weisses-haus-kuendigt-umfangreiches-sanktionspaket-gegen-russland-an-a-6169e345-07f8-4f06-9e0a-dc0ff4cb8b21#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/north-carolina-rochen-charlotte-ist-schwanger-ohne-maennchen](https://www.spiegel.de/wissenschaft/natur/north-carolina-rochen-charlotte-ist-schwanger-ohne-maennchen-a-d8217ffd-9705-44bb-a4ea-7c91cd911954#ref=rss)
-### nawalny
-
-* [https://www.spiegel.de/ausland/usa-weisses-haus-kuendigt-umfangreiches-sanktionspaket-gegen-russland-an](https://www.spiegel.de/ausland/usa-weisses-haus-kuendigt-umfangreiches-sanktionspaket-gegen-russland-an-a-6169e345-07f8-4f06-9e0a-dc0ff4cb8b21#ref=rss)
-* [https://www.spiegel.de/ausland/wladimir-putin-befoerdert-nach-alexej-nawalnys-tod-ranghohen-strafvollzugsbeamten](https://www.spiegel.de/ausland/wladimir-putin-befoerdert-nach-alexej-nawalnys-tod-ranghohen-strafvollzugsbeamten-a-4579cce9-8774-4875-a36f-82e7076f752c#ref=rss)
-* [https://www.spiegel.de/ausland/alexej-nawalnys-mutter-bittet-wladimir-putin-um-herausgabe-des-leichnams](https://www.spiegel.de/ausland/alexej-nawalnys-mutter-bittet-wladimir-putin-um-herausgabe-des-leichnams-a-12b2e514-9d6d-4879-a76c-70ee311acc18#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/wissenschaft/natur/north-carolina-rochen-charlotte-ist-schwanger-ohne-maennchen](https://www.spiegel.de/wissenschaft/natur/north-carolina-rochen-charlotte-ist-schwanger-ohne-maennchen-a-d8217ffd-9705-44bb-a4ea-7c91cd911954#ref=rss)
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/panorama/justiz/christina-block-deutsche-gerichte-nicht-mehr-fuer-sorgerechtsstreit-um-kinder-zustaendig-entscheidung-des-olg-hamburg](https://www.spiegel.de/panorama/justiz/christina-block-deutsche-gerichte-nicht-mehr-fuer-sorgerechtsstreit-um-kinder-zustaendig-entscheidung-des-olg-hamburg-a-94b3f8e7-03e4-4971-9694-aa9d5393d4b1#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/kulturwissenschaftler-jan-assmann-gestorben](https://www.spiegel.de/panorama/bildung/kulturwissenschaftler-jan-assmann-gestorben-a-b4cee5ea-783e-4264-bfe9-3bc51c1e2993#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-erinnert-an-maidan-proteste](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-erinnert-an-maidan-proteste-a-d1fc28c9-4d1f-4194-adf3-f6ec3f2b5bfb#ref=rss)
-### tot
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-andreas-brehme-tot-zehn-jahre-maidan-maxim-kusminow](https://www.spiegel.de/politik/deutschland/news-des-tages-andreas-brehme-tot-zehn-jahre-maidan-maxim-kusminow-a-f3ea2d6a-aeed-428d-9390-645ad1238b94#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/kulturwissenschaftler-jan-assmann-gestorben](https://www.spiegel.de/panorama/bildung/kulturwissenschaftler-jan-assmann-gestorben-a-b4cee5ea-783e-4264-bfe9-3bc51c1e2993#ref=rss)
-### eindhoven
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-vs-psv-eindhoven-vorsicht-es-ist-die-saison-von-eindhoven](https://www.spiegel.de/sport/fussball/borussia-dortmund-vs-psv-eindhoven-vorsicht-es-ist-die-saison-von-eindhoven-a-5587d893-c84e-423d-858b-dfa05a27ac06#ref=rss)
-### saison
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-vs-psv-eindhoven-vorsicht-es-ist-die-saison-von-eindhoven](https://www.spiegel.de/sport/fussball/borussia-dortmund-vs-psv-eindhoven-vorsicht-es-ist-die-saison-von-eindhoven-a-5587d893-c84e-423d-858b-dfa05a27ac06#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/heuschnupfen-saison-beginnt-im-winter](https://www.spiegel.de/gesundheit/diagnose/heuschnupfen-saison-beginnt-im-winter-a-ea5051ed-134d-42e5-aaef-520b0e20e86c#ref=rss)
-### tage
-
-* [https://www.spiegel.de/panorama/justiz/pirmasens-kinder-mit-peitschen-gequaelt-maenner-zu-freiheitsstrafen-verurteilt](https://www.spiegel.de/panorama/justiz/pirmasens-kinder-mit-peitschen-gequaelt-maenner-zu-freiheitsstrafen-verurteilt-a-e847fda1-de4f-4355-81ce-82b9ec21297a#ref=rss)
-* [https://www.spiegel.de/ausland/wladimir-putin-befoerdert-nach-alexej-nawalnys-tod-ranghohen-strafvollzugsbeamten](https://www.spiegel.de/ausland/wladimir-putin-befoerdert-nach-alexej-nawalnys-tod-ranghohen-strafvollzugsbeamten-a-4579cce9-8774-4875-a36f-82e7076f752c#ref=rss)
-* [https://www.spiegel.de/ausland/alexej-nawalnys-mutter-bittet-wladimir-putin-um-herausgabe-des-leichnams](https://www.spiegel.de/ausland/alexej-nawalnys-mutter-bittet-wladimir-putin-um-herausgabe-des-leichnams-a-12b2e514-9d6d-4879-a76c-70ee311acc18#ref=rss)
-### tag
-
-* [https://www.spiegel.de/wissenschaft/weltall/astronomie-quasar-verschlingt-jeden-tag-die-masse-einer-sonne](https://www.spiegel.de/wissenschaft/weltall/astronomie-quasar-verschlingt-jeden-tag-die-masse-einer-sonne-a-5c8fea5e-627c-40fe-b37d-631982e5b6dd#ref=rss)
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### julija
-
-* [https://www.spiegel.de/netzwelt/julija-nawalnaja-onlinedienst-x-sperrt-konto-von-alexej-nawalnys-witwe-voruebergehend](https://www.spiegel.de/netzwelt/julija-nawalnaja-onlinedienst-x-sperrt-konto-von-alexej-nawalnys-witwe-voruebergehend-a-6cfabbce-73c8-4136-9a38-3a7b154cb366#ref=rss)
-* [https://www.spiegel.de/ausland/julija-nawalnaja-wie-alexej-nawalnys-witwe-russlands-opposition-fuehren-will](https://www.spiegel.de/ausland/julija-nawalnaja-wie-alexej-nawalnys-witwe-russlands-opposition-fuehren-will-a-d9cd891c-5604-4acd-b22d-17232bf776cc#ref=rss)
-### witwe
-
-* [https://www.spiegel.de/netzwelt/julija-nawalnaja-onlinedienst-x-sperrt-konto-von-alexej-nawalnys-witwe-voruebergehend](https://www.spiegel.de/netzwelt/julija-nawalnaja-onlinedienst-x-sperrt-konto-von-alexej-nawalnys-witwe-voruebergehend-a-6cfabbce-73c8-4136-9a38-3a7b154cb366#ref=rss)
-* [https://www.spiegel.de/ausland/julija-nawalnaja-wie-alexej-nawalnys-witwe-russlands-opposition-fuehren-will](https://www.spiegel.de/ausland/julija-nawalnaja-wie-alexej-nawalnys-witwe-russlands-opposition-fuehren-will-a-d9cd891c-5604-4acd-b22d-17232bf776cc#ref=rss)
-### meer
-
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-auf-der-fregatte-hessen-sein-erster-einsatz](https://www.spiegel.de/politik/deutschland/boris-pistorius-auf-der-fregatte-hessen-sein-erster-einsatz-a-eb83c0d4-bbe3-44fa-a506-763c64fe9408#ref=rss)
-* [https://www.spiegel.de/ausland/rotes-meer-video-soll-angeblichen-abschuss-von-us-drohne-zeigen](https://www.spiegel.de/ausland/rotes-meer-video-soll-angeblichen-abschuss-von-us-drohne-zeigen-a-6dd06b21-0829-4097-a3f4-a6645d69202a#ref=rss)
-### wladimir
-
-* [https://www.spiegel.de/ausland/wladimir-putin-befoerdert-nach-alexej-nawalnys-tod-ranghohen-strafvollzugsbeamten](https://www.spiegel.de/ausland/wladimir-putin-befoerdert-nach-alexej-nawalnys-tod-ranghohen-strafvollzugsbeamten-a-4579cce9-8774-4875-a36f-82e7076f752c#ref=rss)
-* [https://www.spiegel.de/ausland/alexej-nawalnys-mutter-bittet-wladimir-putin-um-herausgabe-des-leichnams](https://www.spiegel.de/ausland/alexej-nawalnys-mutter-bittet-wladimir-putin-um-herausgabe-des-leichnams-a-12b2e514-9d6d-4879-a76c-70ee311acc18#ref=rss)
-### putin
-
-* [https://www.spiegel.de/ausland/wladimir-putin-befoerdert-nach-alexej-nawalnys-tod-ranghohen-strafvollzugsbeamten](https://www.spiegel.de/ausland/wladimir-putin-befoerdert-nach-alexej-nawalnys-tod-ranghohen-strafvollzugsbeamten-a-4579cce9-8774-4875-a36f-82e7076f752c#ref=rss)
-* [https://www.spiegel.de/ausland/alexej-nawalnys-mutter-bittet-wladimir-putin-um-herausgabe-des-leichnams](https://www.spiegel.de/ausland/alexej-nawalnys-mutter-bittet-wladimir-putin-um-herausgabe-des-leichnams-a-12b2e514-9d6d-4879-a76c-70ee311acc18#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/afd-alice-weidel-trifft-marine-le-pen-in-paris](https://www.spiegel.de/politik/deutschland/afd-alice-weidel-trifft-marine-le-pen-in-paris-a-bc3a68c2-9b7a-4fe5-b818-045cbdfe9daa#ref=rss)
-### alice
-
-* [https://www.spiegel.de/politik/deutschland/afd-alice-weidel-trifft-marine-le-pen-in-paris](https://www.spiegel.de/politik/deutschland/afd-alice-weidel-trifft-marine-le-pen-in-paris-a-bc3a68c2-9b7a-4fe5-b818-045cbdfe9daa#ref=rss)
-### weidel
-
-* [https://www.spiegel.de/politik/deutschland/afd-alice-weidel-trifft-marine-le-pen-in-paris](https://www.spiegel.de/politik/deutschland/afd-alice-weidel-trifft-marine-le-pen-in-paris-a-bc3a68c2-9b7a-4fe5-b818-045cbdfe9daa#ref=rss)
-### le
-
-* [https://www.spiegel.de/politik/deutschland/afd-alice-weidel-trifft-marine-le-pen-in-paris](https://www.spiegel.de/politik/deutschland/afd-alice-weidel-trifft-marine-le-pen-in-paris-a-bc3a68c2-9b7a-4fe5-b818-045cbdfe9daa#ref=rss)
-### pen
-
-* [https://www.spiegel.de/politik/deutschland/afd-alice-weidel-trifft-marine-le-pen-in-paris](https://www.spiegel.de/politik/deutschland/afd-alice-weidel-trifft-marine-le-pen-in-paris-a-bc3a68c2-9b7a-4fe5-b818-045cbdfe9daa#ref=rss)
-### paris
-
-* [https://www.spiegel.de/politik/deutschland/afd-alice-weidel-trifft-marine-le-pen-in-paris](https://www.spiegel.de/politik/deutschland/afd-alice-weidel-trifft-marine-le-pen-in-paris-a-bc3a68c2-9b7a-4fe5-b818-045cbdfe9daa#ref=rss)
-### besucht
-
-* [https://www.spiegel.de/politik/deutschland/afd-alice-weidel-trifft-marine-le-pen-in-paris](https://www.spiegel.de/politik/deutschland/afd-alice-weidel-trifft-marine-le-pen-in-paris-a-bc3a68c2-9b7a-4fe5-b818-045cbdfe9daa#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-auf-der-fregatte-hessen-sein-erster-einsatz](https://www.spiegel.de/politik/deutschland/boris-pistorius-auf-der-fregatte-hessen-sein-erster-einsatz-a-eb83c0d4-bbe3-44fa-a506-763c64fe9408#ref=rss)
-### radio
-
-* [https://www.spiegel.de/ausland/kreml-verbietet-us-sendergruppe-radio-free-europe-aktivitaeten-in-russland](https://www.spiegel.de/ausland/kreml-verbietet-us-sendergruppe-radio-free-europe-aktivitaeten-in-russland-a-951881c3-766b-4889-828e-58d0f00abf71#ref=rss)
-### free
-
-* [https://www.spiegel.de/ausland/kreml-verbietet-us-sendergruppe-radio-free-europe-aktivitaeten-in-russland](https://www.spiegel.de/ausland/kreml-verbietet-us-sendergruppe-radio-free-europe-aktivitaeten-in-russland-a-951881c3-766b-4889-828e-58d0f00abf71#ref=rss)
-### europe
-
-* [https://www.spiegel.de/ausland/kreml-verbietet-us-sendergruppe-radio-free-europe-aktivitaeten-in-russland](https://www.spiegel.de/ausland/kreml-verbietet-us-sendergruppe-radio-free-europe-aktivitaeten-in-russland-a-951881c3-766b-4889-828e-58d0f00abf71#ref=rss)
-### oktober
-
-* [https://www.spiegel.de/ausland/kreml-verbietet-us-sendergruppe-radio-free-europe-aktivitaeten-in-russland](https://www.spiegel.de/ausland/kreml-verbietet-us-sendergruppe-radio-free-europe-aktivitaeten-in-russland-a-951881c3-766b-4889-828e-58d0f00abf71#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-familie-juengster-geiseln-draengt-auf-rasche-verhandlungsloesung-mit-hamas](https://www.spiegel.de/ausland/israel-gaza-krieg-familie-juengster-geiseln-draengt-auf-rasche-verhandlungsloesung-mit-hamas-a-97d7680e-2d6a-4219-bcc6-bcba7a89ec1a#ref=rss)
-### ziehen
-
-* [https://www.spiegel.de/ausland/usa-weisses-haus-kuendigt-umfangreiches-sanktionspaket-gegen-russland-an](https://www.spiegel.de/ausland/usa-weisses-haus-kuendigt-umfangreiches-sanktionspaket-gegen-russland-an-a-6169e345-07f8-4f06-9e0a-dc0ff4cb8b21#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagfraktion-spd-linke-ziehen-kampfkandidaturen-zurueck](https://www.spiegel.de/politik/deutschland/bundestagfraktion-spd-linke-ziehen-kampfkandidaturen-zurueck-a-5b8b889a-f5f0-46df-a8d3-ed06e6876f9b#ref=rss)
-### charlotte
-
-* [https://www.spiegel.de/wissenschaft/natur/north-carolina-rochen-charlotte-ist-schwanger-ohne-maennchen](https://www.spiegel.de/wissenschaft/natur/north-carolina-rochen-charlotte-ist-schwanger-ohne-maennchen-a-d8217ffd-9705-44bb-a4ea-7c91cd911954#ref=rss)
-### männchen
-
-* [https://www.spiegel.de/wissenschaft/natur/north-carolina-rochen-charlotte-ist-schwanger-ohne-maennchen](https://www.spiegel.de/wissenschaft/natur/north-carolina-rochen-charlotte-ist-schwanger-ohne-maennchen-a-d8217ffd-9705-44bb-a4ea-7c91cd911954#ref=rss)
-### dennoch
-
-* [https://www.spiegel.de/wissenschaft/natur/north-carolina-rochen-charlotte-ist-schwanger-ohne-maennchen](https://www.spiegel.de/wissenschaft/natur/north-carolina-rochen-charlotte-ist-schwanger-ohne-maennchen-a-d8217ffd-9705-44bb-a4ea-7c91cd911954#ref=rss)
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-vs-psv-eindhoven-vorsicht-es-ist-die-saison-von-eindhoven](https://www.spiegel.de/sport/fussball/borussia-dortmund-vs-psv-eindhoven-vorsicht-es-ist-die-saison-von-eindhoven-a-5587d893-c84e-423d-858b-dfa05a27ac06#ref=rss)
-### kampf
-
-* [https://www.spiegel.de/panorama/justiz/christina-block-deutsche-gerichte-nicht-mehr-fuer-sorgerechtsstreit-um-kinder-zustaendig-entscheidung-des-olg-hamburg](https://www.spiegel.de/panorama/justiz/christina-block-deutsche-gerichte-nicht-mehr-fuer-sorgerechtsstreit-um-kinder-zustaendig-entscheidung-des-olg-hamburg-a-94b3f8e7-03e4-4971-9694-aa9d5393d4b1#ref=rss)
-* [https://www.spiegel.de/ausland/rotes-meer-video-soll-angeblichen-abschuss-von-us-drohne-zeigen](https://www.spiegel.de/ausland/rotes-meer-video-soll-angeblichen-abschuss-von-us-drohne-zeigen-a-6dd06b21-0829-4097-a3f4-a6645d69202a#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/panorama/justiz/christina-block-deutsche-gerichte-nicht-mehr-fuer-sorgerechtsstreit-um-kinder-zustaendig-entscheidung-des-olg-hamburg](https://www.spiegel.de/panorama/justiz/christina-block-deutsche-gerichte-nicht-mehr-fuer-sorgerechtsstreit-um-kinder-zustaendig-entscheidung-des-olg-hamburg-a-94b3f8e7-03e4-4971-9694-aa9d5393d4b1#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/kulturwissenschaftler-jan-assmann-gestorben](https://www.spiegel.de/panorama/bildung/kulturwissenschaftler-jan-assmann-gestorben-a-b4cee5ea-783e-4264-bfe9-3bc51c1e2993#ref=rss)
-### andreas
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-andreas-brehme-tot-zehn-jahre-maidan-maxim-kusminow](https://www.spiegel.de/politik/deutschland/news-des-tages-andreas-brehme-tot-zehn-jahre-maidan-maxim-kusminow-a-f3ea2d6a-aeed-428d-9390-645ad1238b94#ref=rss)
-### brehme
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-andreas-brehme-tot-zehn-jahre-maidan-maxim-kusminow](https://www.spiegel.de/politik/deutschland/news-des-tages-andreas-brehme-tot-zehn-jahre-maidan-maxim-kusminow-a-f3ea2d6a-aeed-428d-9390-645ad1238b94#ref=rss)
-### zehn
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-andreas-brehme-tot-zehn-jahre-maidan-maxim-kusminow](https://www.spiegel.de/politik/deutschland/news-des-tages-andreas-brehme-tot-zehn-jahre-maidan-maxim-kusminow-a-f3ea2d6a-aeed-428d-9390-645ad1238b94#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-erinnert-an-maidan-proteste](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-erinnert-an-maidan-proteste-a-d1fc28c9-4d1f-4194-adf3-f6ec3f2b5bfb#ref=rss)
-### maidan
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-andreas-brehme-tot-zehn-jahre-maidan-maxim-kusminow](https://www.spiegel.de/politik/deutschland/news-des-tages-andreas-brehme-tot-zehn-jahre-maidan-maxim-kusminow-a-f3ea2d6a-aeed-428d-9390-645ad1238b94#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-erinnert-an-maidan-proteste](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-erinnert-an-maidan-proteste-a-d1fc28c9-4d1f-4194-adf3-f6ec3f2b5bfb#ref=rss)
-### maidanproteste
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-andreas-brehme-tot-zehn-jahre-maidan-maxim-kusminow](https://www.spiegel.de/politik/deutschland/news-des-tages-andreas-brehme-tot-zehn-jahre-maidan-maxim-kusminow-a-f3ea2d6a-aeed-428d-9390-645ad1238b94#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-erinnert-an-maidan-proteste](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-erinnert-an-maidan-proteste-a-d1fc28c9-4d1f-4194-adf3-f6ec3f2b5bfb#ref=rss)
-### psv
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-vs-psv-eindhoven-vorsicht-es-ist-die-saison-von-eindhoven](https://www.spiegel.de/sport/fussball/borussia-dortmund-vs-psv-eindhoven-vorsicht-es-ist-die-saison-von-eindhoven-a-5587d893-c84e-423d-858b-dfa05a27ac06#ref=rss)
-### team
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-vs-psv-eindhoven-vorsicht-es-ist-die-saison-von-eindhoven](https://www.spiegel.de/sport/fussball/borussia-dortmund-vs-psv-eindhoven-vorsicht-es-ist-die-saison-von-eindhoven-a-5587d893-c84e-423d-858b-dfa05a27ac06#ref=rss)
-* [https://www.spiegel.de/ausland/wladimir-putin-befoerdert-nach-alexej-nawalnys-tod-ranghohen-strafvollzugsbeamten](https://www.spiegel.de/ausland/wladimir-putin-befoerdert-nach-alexej-nawalnys-tod-ranghohen-strafvollzugsbeamten-a-4579cce9-8774-4875-a36f-82e7076f752c#ref=rss)
-### kampfkandidaturen
-
-* [https://www.spiegel.de/politik/deutschland/bundestagfraktion-spd-linke-ziehen-kampfkandidaturen-zurueck](https://www.spiegel.de/politik/deutschland/bundestagfraktion-spd-linke-ziehen-kampfkandidaturen-zurueck-a-5b8b889a-f5f0-46df-a8d3-ed06e6876f9b#ref=rss)
-### kurz
-
-* [https://www.spiegel.de/politik/deutschland/bundestagfraktion-spd-linke-ziehen-kampfkandidaturen-zurueck](https://www.spiegel.de/politik/deutschland/bundestagfraktion-spd-linke-ziehen-kampfkandidaturen-zurueck-a-5b8b889a-f5f0-46df-a8d3-ed06e6876f9b#ref=rss)
-* [https://www.spiegel.de/ausland/iran-regime-will-kurz-vor-den-wahlen-massive-interneteinschraenkungen](https://www.spiegel.de/ausland/iran-regime-will-kurz-vor-den-wahlen-massive-interneteinschraenkungen-a-cd34b251-fe62-4d49-b49a-f52bbc0ac3e1#ref=rss)
-### männer
-
-* [https://www.spiegel.de/panorama/justiz/pirmasens-kinder-mit-peitschen-gequaelt-maenner-zu-freiheitsstrafen-verurteilt](https://www.spiegel.de/panorama/justiz/pirmasens-kinder-mit-peitschen-gequaelt-maenner-zu-freiheitsstrafen-verurteilt-a-e847fda1-de4f-4355-81ce-82b9ec21297a#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/justiz/pirmasens-kinder-mit-peitschen-gequaelt-maenner-zu-freiheitsstrafen-verurteilt](https://www.spiegel.de/panorama/justiz/pirmasens-kinder-mit-peitschen-gequaelt-maenner-zu-freiheitsstrafen-verurteilt-a-e847fda1-de4f-4355-81ce-82b9ec21297a#ref=rss)
-### beiden
-
-* [https://www.spiegel.de/panorama/justiz/pirmasens-kinder-mit-peitschen-gequaelt-maenner-zu-freiheitsstrafen-verurteilt](https://www.spiegel.de/panorama/justiz/pirmasens-kinder-mit-peitschen-gequaelt-maenner-zu-freiheitsstrafen-verurteilt-a-e847fda1-de4f-4355-81ce-82b9ec21297a#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-familie-juengster-geiseln-draengt-auf-rasche-verhandlungsloesung-mit-hamas](https://www.spiegel.de/ausland/israel-gaza-krieg-familie-juengster-geiseln-draengt-auf-rasche-verhandlungsloesung-mit-hamas-a-97d7680e-2d6a-4219-bcc6-bcba7a89ec1a#ref=rss)
-### quasar
-
-* [https://www.spiegel.de/wissenschaft/weltall/astronomie-quasar-verschlingt-jeden-tag-die-masse-einer-sonne](https://www.spiegel.de/wissenschaft/weltall/astronomie-quasar-verschlingt-jeden-tag-die-masse-einer-sonne-a-5c8fea5e-627c-40fe-b37d-631982e5b6dd#ref=rss)
-### jeden
-
-* [https://www.spiegel.de/wissenschaft/weltall/astronomie-quasar-verschlingt-jeden-tag-die-masse-einer-sonne](https://www.spiegel.de/wissenschaft/weltall/astronomie-quasar-verschlingt-jeden-tag-die-masse-einer-sonne-a-5c8fea5e-627c-40fe-b37d-631982e5b6dd#ref=rss)
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/iran-regime-will-kurz-vor-den-wahlen-massive-interneteinschraenkungen](https://www.spiegel.de/ausland/iran-regime-will-kurz-vor-den-wahlen-massive-interneteinschraenkungen-a-cd34b251-fe62-4d49-b49a-f52bbc0ac3e1#ref=rss)
-### regime
-
-* [https://www.spiegel.de/ausland/iran-regime-will-kurz-vor-den-wahlen-massive-interneteinschraenkungen](https://www.spiegel.de/ausland/iran-regime-will-kurz-vor-den-wahlen-massive-interneteinschraenkungen-a-cd34b251-fe62-4d49-b49a-f52bbc0ac3e1#ref=rss)
-### wahlen
-
-* [https://www.spiegel.de/ausland/iran-regime-will-kurz-vor-den-wahlen-massive-interneteinschraenkungen](https://www.spiegel.de/ausland/iran-regime-will-kurz-vor-den-wahlen-massive-interneteinschraenkungen-a-cd34b251-fe62-4d49-b49a-f52bbc0ac3e1#ref=rss)
-### interneteinschränkungen
-
-* [https://www.spiegel.de/ausland/iran-regime-will-kurz-vor-den-wahlen-massive-interneteinschraenkungen](https://www.spiegel.de/ausland/iran-regime-will-kurz-vor-den-wahlen-massive-interneteinschraenkungen-a-cd34b251-fe62-4d49-b49a-f52bbc0ac3e1#ref=rss)
-### wagenknecht
-
-* [https://www.spiegel.de/politik/sarah-wagenknecht-warnt-vor-kriegsbesoffenem-antrag-der-ampelparteien](https://www.spiegel.de/politik/sarah-wagenknecht-warnt-vor-kriegsbesoffenem-antrag-der-ampelparteien-a-70416fab-f60b-4782-ae11-65c6ffe5b81b#ref=rss)
-### antrag
-
-* [https://www.spiegel.de/politik/sarah-wagenknecht-warnt-vor-kriegsbesoffenem-antrag-der-ampelparteien](https://www.spiegel.de/politik/sarah-wagenknecht-warnt-vor-kriegsbesoffenem-antrag-der-ampelparteien-a-70416fab-f60b-4782-ae11-65c6ffe5b81b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/waffenhilfe-fuer-die-ukraine-im-bundestag-warum-strack-zimmermann-dem-antrag-der-ampel-und-der-union-zustimmen-will](https://www.spiegel.de/politik/deutschland/waffenhilfe-fuer-die-ukraine-im-bundestag-warum-strack-zimmermann-dem-antrag-der-ampel-und-der-union-zustimmen-will-a-67035eb4-16bd-4c84-88a5-4d9571f29361#ref=rss)
-### bundestag
-
-* [https://www.spiegel.de/politik/sarah-wagenknecht-warnt-vor-kriegsbesoffenem-antrag-der-ampelparteien](https://www.spiegel.de/politik/sarah-wagenknecht-warnt-vor-kriegsbesoffenem-antrag-der-ampelparteien-a-70416fab-f60b-4782-ae11-65c6ffe5b81b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/waffenhilfe-fuer-die-ukraine-im-bundestag-warum-strack-zimmermann-dem-antrag-der-ampel-und-der-union-zustimmen-will](https://www.spiegel.de/politik/deutschland/waffenhilfe-fuer-die-ukraine-im-bundestag-warum-strack-zimmermann-dem-antrag-der-ampel-und-der-union-zustimmen-will-a-67035eb4-16bd-4c84-88a5-4d9571f29361#ref=rss)
-### sara
-
-* [https://www.spiegel.de/politik/deutschland/sara-skyttedal-diese-schwedin-ist-den-eu-konservativen-zu-rechts](https://www.spiegel.de/politik/deutschland/sara-skyttedal-diese-schwedin-ist-den-eu-konservativen-zu-rechts-a-83df033a-1545-41c6-aa3d-c71efd0a8b76#ref=rss)
-### skyttedal
-
-* [https://www.spiegel.de/politik/deutschland/sara-skyttedal-diese-schwedin-ist-den-eu-konservativen-zu-rechts](https://www.spiegel.de/politik/deutschland/sara-skyttedal-diese-schwedin-ist-den-eu-konservativen-zu-rechts-a-83df033a-1545-41c6-aa3d-c71efd0a8b76#ref=rss)
-### of
-
-* [https://www.spiegel.de/wissenschaft/underwater-photographer-of-the-year-2024-die-besten-bilder](https://www.spiegel.de/wissenschaft/underwater-photographer-of-the-year-2024-die-besten-bilder-a-2037881f-085d-47aa-8844-63f311d90e64#ref=rss)
-* [https://www.spiegel.de/kultur/kino/goldener-ehrenbaer-fuer-martin-scorsese-der-mann-der-aus-gier-und-mord-grosse-filmkunst-macht](https://www.spiegel.de/kultur/kino/goldener-ehrenbaer-fuer-martin-scorsese-der-mann-der-aus-gier-und-mord-grosse-filmkunst-macht-a-717429b5-bd97-4c3d-9d03-08f11b3c8c9d#ref=rss)
-### bilder
-
-* [https://www.spiegel.de/wissenschaft/underwater-photographer-of-the-year-2024-die-besten-bilder](https://www.spiegel.de/wissenschaft/underwater-photographer-of-the-year-2024-die-besten-bilder-a-2037881f-085d-47aa-8844-63f311d90e64#ref=rss)
-* [https://www.spiegel.de/kultur/kino/goldener-ehrenbaer-fuer-martin-scorsese-der-mann-der-aus-gier-und-mord-grosse-filmkunst-macht](https://www.spiegel.de/kultur/kino/goldener-ehrenbaer-fuer-martin-scorsese-der-mann-der-aus-gier-und-mord-grosse-filmkunst-macht-a-717429b5-bd97-4c3d-9d03-08f11b3c8c9d#ref=rss)
-### bauern
-
-* [https://www.spiegel.de/ausland/polnische-landwirte-verschuetten-getreide-aus-ukrainischen-bahnwaggons](https://www.spiegel.de/ausland/polnische-landwirte-verschuetten-getreide-aus-ukrainischen-bahnwaggons-a-8aa54b40-59a9-4680-8257-ec28688dd1dd#ref=rss)
-### getreide
-
-* [https://www.spiegel.de/ausland/polnische-landwirte-verschuetten-getreide-aus-ukrainischen-bahnwaggons](https://www.spiegel.de/ausland/polnische-landwirte-verschuetten-getreide-aus-ukrainischen-bahnwaggons-a-8aa54b40-59a9-4680-8257-ec28688dd1dd#ref=rss)
+* [https://www.spiegel.de/start/bafoeg-reform-die-gruenen-fordern-bedarfssaetze-auf-buergergeld-niveau-und-weitere-reformen](https://www.spiegel.de/start/bafoeg-reform-die-gruenen-fordern-bedarfssaetze-auf-buergergeld-niveau-und-weitere-reformen-a-d1962f0a-966f-4384-85a7-7fe18dda3560#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/japan-fest-der-nackten-maenner-wird-wegen-ueberalterung-nicht-mehr-stattfinden](https://www.spiegel.de/panorama/gesellschaft/japan-fest-der-nackten-maenner-wird-wegen-ueberalterung-nicht-mehr-stattfinden-a-32e4911d-27a6-4a85-80eb-b015c52ec6d0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ukraine-krieg-kostete-deutschland-bislang-mehr-als-200-milliarden-euro](https://www.spiegel.de/wirtschaft/ukraine-krieg-kostete-deutschland-bislang-mehr-als-200-milliarden-euro-a-84aaa384-66e7-4758-9492-2538b5b5c16f#ref=rss)
+* [https://www.spiegel.de/panorama/leute/kevin-costner-und-christine-baumgartner-nach-rosenkrieg-offiziell-geschieden](https://www.spiegel.de/panorama/leute/kevin-costner-und-christine-baumgartner-nach-rosenkrieg-offiziell-geschieden-a-074a0ac0-4525-4c7d-9856-1e3eaa5030b5#ref=rss)
 ### ukraine
 
-* [https://www.spiegel.de/ausland/polnische-landwirte-verschuetten-getreide-aus-ukrainischen-bahnwaggons](https://www.spiegel.de/ausland/polnische-landwirte-verschuetten-getreide-aus-ukrainischen-bahnwaggons-a-8aa54b40-59a9-4680-8257-ec28688dd1dd#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-erinnert-an-maidan-proteste](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-erinnert-an-maidan-proteste-a-d1fc28c9-4d1f-4194-adf3-f6ec3f2b5bfb#ref=rss)
-### onlinedienst
+* [https://www.spiegel.de/ausland/ukraine-toetet-offenbar-dutzende-russische-soldaten-bei-raketenangriff-auf-truppenuebungsplatz](https://www.spiegel.de/ausland/ukraine-toetet-offenbar-dutzende-russische-soldaten-bei-raketenangriff-auf-truppenuebungsplatz-a-25556983-7fa0-4ba3-a15e-b7a09c7840ac#ref=rss)
+* [https://www.spiegel.de/ausland/ukrainekrieg-von-russland-eingesetzte-nordkoreanische-raketen-in-der-ukraine-haben-westliche-bauteile](https://www.spiegel.de/ausland/ukrainekrieg-von-russland-eingesetzte-nordkoreanische-raketen-in-der-ukraine-haben-westliche-bauteile-a-86e2cd26-0ee6-4334-b421-d8cdf620c56f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ukraine-krieg-kostete-deutschland-bislang-mehr-als-200-milliarden-euro](https://www.spiegel.de/wirtschaft/ukraine-krieg-kostete-deutschland-bislang-mehr-als-200-milliarden-euro-a-84aaa384-66e7-4758-9492-2538b5b5c16f#ref=rss)
+* [https://www.spiegel.de/ausland/kaja-kallas-spricht-von-wunschdenken-des-westens-ueber-russland](https://www.spiegel.de/ausland/kaja-kallas-spricht-von-wunschdenken-des-westens-ueber-russland-a-f53b42f6-a96b-4248-ab26-f8116b4b228a#ref=rss)
+### russische
 
-* [https://www.spiegel.de/netzwelt/julija-nawalnaja-onlinedienst-x-sperrt-konto-von-alexej-nawalnys-witwe-voruebergehend](https://www.spiegel.de/netzwelt/julija-nawalnaja-onlinedienst-x-sperrt-konto-von-alexej-nawalnys-witwe-voruebergehend-a-6cfabbce-73c8-4136-9a38-3a7b154cb366#ref=rss)
-### pistorius
+* [https://www.spiegel.de/wirtschaft/danone-verkauft-russische-tochterfirma](https://www.spiegel.de/wirtschaft/danone-verkauft-russische-tochterfirma-a-e268388c-1e8e-4669-8908-c0b203c968d5#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-toetet-offenbar-dutzende-russische-soldaten-bei-raketenangriff-auf-truppenuebungsplatz](https://www.spiegel.de/ausland/ukraine-toetet-offenbar-dutzende-russische-soldaten-bei-raketenangriff-auf-truppenuebungsplatz-a-25556983-7fa0-4ba3-a15e-b7a09c7840ac#ref=rss)
+### vier
 
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-auf-der-fregatte-hessen-sein-erster-einsatz](https://www.spiegel.de/politik/deutschland/boris-pistorius-auf-der-fregatte-hessen-sein-erster-einsatz-a-eb83c0d4-bbe3-44fa-a506-763c64fe9408#ref=rss)
-### fregatte
+* [https://www.spiegel.de/kultur/kino/the-beatles-vier-biopics-von-sam-mendes-geplant](https://www.spiegel.de/kultur/kino/the-beatles-vier-biopics-von-sam-mendes-geplant-a-2e7cb4a2-d60f-4d45-97da-bad3a8abc6b9#ref=rss)
+* [https://www.spiegel.de/karriere/assistentinnen-vier-jobportraets-von-der-digitalen-nomadin-bis-zur-vorstandskraft](https://www.spiegel.de/karriere/assistentinnen-vier-jobportraets-von-der-digitalen-nomadin-bis-zur-vorstandskraft-a-b58509d3-3b76-4d6f-8d12-ac9453e19301#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-auf-der-fregatte-hessen-sein-erster-einsatz](https://www.spiegel.de/politik/deutschland/boris-pistorius-auf-der-fregatte-hessen-sein-erster-einsatz-a-eb83c0d4-bbe3-44fa-a506-763c64fe9408#ref=rss)
-### hessen
+* [https://www.spiegel.de/panorama/justiz/fluechtlinge-in-deutschland-angriffe-auf-gefluechtete-und-asylbewerber-auf-hoechstwert-seit-2016](https://www.spiegel.de/panorama/justiz/fluechtlinge-in-deutschland-angriffe-auf-gefluechtete-und-asylbewerber-auf-hoechstwert-seit-2016-a-b15ccb6c-53a0-4ece-b1d5-38493d0ebef0#ref=rss)
+* [https://www.spiegel.de/ausland/ukrainekrieg-von-russland-eingesetzte-nordkoreanische-raketen-in-der-ukraine-haben-westliche-bauteile](https://www.spiegel.de/ausland/ukrainekrieg-von-russland-eingesetzte-nordkoreanische-raketen-in-der-ukraine-haben-westliche-bauteile-a-86e2cd26-0ee6-4334-b421-d8cdf620c56f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ukraine-krieg-kostete-deutschland-bislang-mehr-als-200-milliarden-euro](https://www.spiegel.de/wirtschaft/ukraine-krieg-kostete-deutschland-bislang-mehr-als-200-milliarden-euro-a-84aaa384-66e7-4758-9492-2538b5b5c16f#ref=rss)
+### mehrere
 
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-auf-der-fregatte-hessen-sein-erster-einsatz](https://www.spiegel.de/politik/deutschland/boris-pistorius-auf-der-fregatte-hessen-sein-erster-einsatz-a-eb83c0d4-bbe3-44fa-a506-763c64fe9408#ref=rss)
-### sechs
+* [https://www.spiegel.de/ausland/offenbar-mehrere-explosionen-in-damaskus-syrien-macht-israel-verantwortlich](https://www.spiegel.de/ausland/offenbar-mehrere-explosionen-in-damaskus-syrien-macht-israel-verantwortlich-a-cbf70e1c-eb8f-49ca-89ca-faafaeefc505#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/wiesbaden-schueler-sollen-fuer-holocaust-applaudiert-haben-staatsanwaltschaft-ermittelt](https://www.spiegel.de/panorama/justiz/wiesbaden-schueler-sollen-fuer-holocaust-applaudiert-haben-staatsanwaltschaft-ermittelt-a-e0520733-d942-4094-84e1-5a97171e83c3#ref=rss)
+### israel
 
-* [https://www.spiegel.de/ausland/tuerkei-sechs-menschen-wegen-mutmasslicher-spionage-gegen-uiguren-festgenommen](https://www.spiegel.de/ausland/tuerkei-sechs-menschen-wegen-mutmasslicher-spionage-gegen-uiguren-festgenommen-a-012f5368-3942-436b-8a36-9d7a3bdb7a67#ref=rss)
-### menschen
+* [https://www.spiegel.de/ausland/offenbar-mehrere-explosionen-in-damaskus-syrien-macht-israel-verantwortlich](https://www.spiegel.de/ausland/offenbar-mehrere-explosionen-in-damaskus-syrien-macht-israel-verantwortlich-a-cbf70e1c-eb8f-49ca-89ca-faafaeefc505#ref=rss)
+* [https://www.spiegel.de/ausland/israel-baut-offenbar-strasse-zur-kontrolle-des-gazastreifens-aus](https://www.spiegel.de/ausland/israel-baut-offenbar-strasse-zur-kontrolle-des-gazastreifens-aus-a-ee7a51e7-347c-4c74-a9ad-9db8a1630813#ref=rss)
+### angriffe
 
-* [https://www.spiegel.de/ausland/tuerkei-sechs-menschen-wegen-mutmasslicher-spionage-gegen-uiguren-festgenommen](https://www.spiegel.de/ausland/tuerkei-sechs-menschen-wegen-mutmasslicher-spionage-gegen-uiguren-festgenommen-a-012f5368-3942-436b-8a36-9d7a3bdb7a67#ref=rss)
-### spionage
+* [https://www.spiegel.de/panorama/justiz/fluechtlinge-in-deutschland-angriffe-auf-gefluechtete-und-asylbewerber-auf-hoechstwert-seit-2016](https://www.spiegel.de/panorama/justiz/fluechtlinge-in-deutschland-angriffe-auf-gefluechtete-und-asylbewerber-auf-hoechstwert-seit-2016-a-b15ccb6c-53a0-4ece-b1d5-38493d0ebef0#ref=rss)
+* [https://www.spiegel.de/ausland/jemen-rotes-meer-pentagon-meldet-abschuss-von-militaerdrohne-durch-huthis](https://www.spiegel.de/ausland/jemen-rotes-meer-pentagon-meldet-abschuss-von-militaerdrohne-durch-huthis-a-56e6fb86-2ecb-4472-90ce-f0e89bfe7849#ref=rss)
+### fast
 
-* [https://www.spiegel.de/ausland/tuerkei-sechs-menschen-wegen-mutmasslicher-spionage-gegen-uiguren-festgenommen](https://www.spiegel.de/ausland/tuerkei-sechs-menschen-wegen-mutmasslicher-spionage-gegen-uiguren-festgenommen-a-012f5368-3942-436b-8a36-9d7a3bdb7a67#ref=rss)
-### uiguren
+* [https://www.spiegel.de/panorama/justiz/fluechtlinge-in-deutschland-angriffe-auf-gefluechtete-und-asylbewerber-auf-hoechstwert-seit-2016](https://www.spiegel.de/panorama/justiz/fluechtlinge-in-deutschland-angriffe-auf-gefluechtete-und-asylbewerber-auf-hoechstwert-seit-2016-a-b15ccb6c-53a0-4ece-b1d5-38493d0ebef0#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/japan-fest-der-nackten-maenner-wird-wegen-ueberalterung-nicht-mehr-stattfinden](https://www.spiegel.de/panorama/gesellschaft/japan-fest-der-nackten-maenner-wird-wegen-ueberalterung-nicht-mehr-stattfinden-a-32e4911d-27a6-4a85-80eb-b015c52ec6d0#ref=rss)
+* [https://www.spiegel.de/panorama/leute/kevin-costner-und-christine-baumgartner-nach-rosenkrieg-offiziell-geschieden](https://www.spiegel.de/panorama/leute/kevin-costner-und-christine-baumgartner-nach-rosenkrieg-offiziell-geschieden-a-074a0ac0-4525-4c7d-9856-1e3eaa5030b5#ref=rss)
+### viele
 
-* [https://www.spiegel.de/ausland/tuerkei-sechs-menschen-wegen-mutmasslicher-spionage-gegen-uiguren-festgenommen](https://www.spiegel.de/ausland/tuerkei-sechs-menschen-wegen-mutmasslicher-spionage-gegen-uiguren-festgenommen-a-012f5368-3942-436b-8a36-9d7a3bdb7a67#ref=rss)
-### festgenommen
+* [https://www.spiegel.de/panorama/justiz/fluechtlinge-in-deutschland-angriffe-auf-gefluechtete-und-asylbewerber-auf-hoechstwert-seit-2016](https://www.spiegel.de/panorama/justiz/fluechtlinge-in-deutschland-angriffe-auf-gefluechtete-und-asylbewerber-auf-hoechstwert-seit-2016-a-b15ccb6c-53a0-4ece-b1d5-38493d0ebef0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/warum-viele-grundgesetz-aenderungen-der-ampel-jetzt-auf-eis-liegen-gescheitertes-treffen-mit-der-union](https://www.spiegel.de/politik/deutschland/warum-viele-grundgesetz-aenderungen-der-ampel-jetzt-auf-eis-liegen-gescheitertes-treffen-mit-der-union-a-d282e4dd-4a2b-4325-a945-7e95500ec90b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/matthias-sammer-zu-viele-entscheidungen-gegen-deutsche-mannschaften](https://www.spiegel.de/sport/fussball/matthias-sammer-zu-viele-entscheidungen-gegen-deutsche-mannschaften-a-d7ad8eed-380e-4e74-9d2f-548164ad3e76#ref=rss)
+### ruby
 
-* [https://www.spiegel.de/ausland/tuerkei-sechs-menschen-wegen-mutmasslicher-spionage-gegen-uiguren-festgenommen](https://www.spiegel.de/ausland/tuerkei-sechs-menschen-wegen-mutmasslicher-spionage-gegen-uiguren-festgenommen-a-012f5368-3942-436b-8a36-9d7a3bdb7a67#ref=rss)
-### jan
+* [https://www.spiegel.de/panorama/justiz/ruby-franke-aus-utah-us-erziehungsbloggerin-muss-wegen-misshandlung-ihrer-kinder-in-haft](https://www.spiegel.de/panorama/justiz/ruby-franke-aus-utah-us-erziehungsbloggerin-muss-wegen-misshandlung-ihrer-kinder-in-haft-a-be7e1ec1-8496-49d0-991d-83ec168bd954#ref=rss)
+### franke
 
-* [https://www.spiegel.de/panorama/bildung/kulturwissenschaftler-jan-assmann-gestorben](https://www.spiegel.de/panorama/bildung/kulturwissenschaftler-jan-assmann-gestorben-a-b4cee5ea-783e-4264-bfe9-3bc51c1e2993#ref=rss)
-### assmann
+* [https://www.spiegel.de/panorama/justiz/ruby-franke-aus-utah-us-erziehungsbloggerin-muss-wegen-misshandlung-ihrer-kinder-in-haft](https://www.spiegel.de/panorama/justiz/ruby-franke-aus-utah-us-erziehungsbloggerin-muss-wegen-misshandlung-ihrer-kinder-in-haft-a-be7e1ec1-8496-49d0-991d-83ec168bd954#ref=rss)
+### userziehungsbloggerin
 
-* [https://www.spiegel.de/panorama/bildung/kulturwissenschaftler-jan-assmann-gestorben](https://www.spiegel.de/panorama/bildung/kulturwissenschaftler-jan-assmann-gestorben-a-b4cee5ea-783e-4264-bfe9-3bc51c1e2993#ref=rss)
-### gestorben
+* [https://www.spiegel.de/panorama/justiz/ruby-franke-aus-utah-us-erziehungsbloggerin-muss-wegen-misshandlung-ihrer-kinder-in-haft](https://www.spiegel.de/panorama/justiz/ruby-franke-aus-utah-us-erziehungsbloggerin-muss-wegen-misshandlung-ihrer-kinder-in-haft-a-be7e1ec1-8496-49d0-991d-83ec168bd954#ref=rss)
+### kinder
 
-* [https://www.spiegel.de/panorama/bildung/kulturwissenschaftler-jan-assmann-gestorben](https://www.spiegel.de/panorama/bildung/kulturwissenschaftler-jan-assmann-gestorben-a-b4cee5ea-783e-4264-bfe9-3bc51c1e2993#ref=rss)
-### befördert
+* [https://www.spiegel.de/panorama/justiz/ruby-franke-aus-utah-us-erziehungsbloggerin-muss-wegen-misshandlung-ihrer-kinder-in-haft](https://www.spiegel.de/panorama/justiz/ruby-franke-aus-utah-us-erziehungsbloggerin-muss-wegen-misshandlung-ihrer-kinder-in-haft-a-be7e1ec1-8496-49d0-991d-83ec168bd954#ref=rss)
+### danone
 
-* [https://www.spiegel.de/ausland/wladimir-putin-befoerdert-nach-alexej-nawalnys-tod-ranghohen-strafvollzugsbeamten](https://www.spiegel.de/ausland/wladimir-putin-befoerdert-nach-alexej-nawalnys-tod-ranghohen-strafvollzugsbeamten-a-4579cce9-8774-4875-a36f-82e7076f752c#ref=rss)
-### sagt
+* [https://www.spiegel.de/wirtschaft/danone-verkauft-russische-tochterfirma](https://www.spiegel.de/wirtschaft/danone-verkauft-russische-tochterfirma-a-e268388c-1e8e-4669-8908-c0b203c968d5#ref=rss)
+### vergangenen
 
-* [https://www.spiegel.de/ausland/wladimir-putin-befoerdert-nach-alexej-nawalnys-tod-ranghohen-strafvollzugsbeamten](https://www.spiegel.de/ausland/wladimir-putin-befoerdert-nach-alexej-nawalnys-tod-ranghohen-strafvollzugsbeamten-a-4579cce9-8774-4875-a36f-82e7076f752c#ref=rss)
-* [https://www.spiegel.de/ausland/alexej-nawalnys-mutter-bittet-wladimir-putin-um-herausgabe-des-leichnams](https://www.spiegel.de/ausland/alexej-nawalnys-mutter-bittet-wladimir-putin-um-herausgabe-des-leichnams-a-12b2e514-9d6d-4879-a76c-70ee311acc18#ref=rss)
-### video
+* [https://www.spiegel.de/wirtschaft/danone-verkauft-russische-tochterfirma](https://www.spiegel.de/wirtschaft/danone-verkauft-russische-tochterfirma-a-e268388c-1e8e-4669-8908-c0b203c968d5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/fluechtlinge-in-deutschland-angriffe-auf-gefluechtete-und-asylbewerber-auf-hoechstwert-seit-2016](https://www.spiegel.de/panorama/justiz/fluechtlinge-in-deutschland-angriffe-auf-gefluechtete-und-asylbewerber-auf-hoechstwert-seit-2016-a-b15ccb6c-53a0-4ece-b1d5-38493d0ebef0#ref=rss)
+### sam
 
-* [https://www.spiegel.de/ausland/rotes-meer-video-soll-angeblichen-abschuss-von-us-drohne-zeigen](https://www.spiegel.de/ausland/rotes-meer-video-soll-angeblichen-abschuss-von-us-drohne-zeigen-a-6dd06b21-0829-4097-a3f4-a6645d69202a#ref=rss)
-### abschuss
+* [https://www.spiegel.de/kultur/kino/the-beatles-vier-biopics-von-sam-mendes-geplant](https://www.spiegel.de/kultur/kino/the-beatles-vier-biopics-von-sam-mendes-geplant-a-2e7cb4a2-d60f-4d45-97da-bad3a8abc6b9#ref=rss)
+### mendes
 
-* [https://www.spiegel.de/ausland/rotes-meer-video-soll-angeblichen-abschuss-von-us-drohne-zeigen](https://www.spiegel.de/ausland/rotes-meer-video-soll-angeblichen-abschuss-von-us-drohne-zeigen-a-6dd06b21-0829-4097-a3f4-a6645d69202a#ref=rss)
-### usdrohne
+* [https://www.spiegel.de/kultur/kino/the-beatles-vier-biopics-von-sam-mendes-geplant](https://www.spiegel.de/kultur/kino/the-beatles-vier-biopics-von-sam-mendes-geplant-a-2e7cb4a2-d60f-4d45-97da-bad3a8abc6b9#ref=rss)
+### shein
 
-* [https://www.spiegel.de/ausland/rotes-meer-video-soll-angeblichen-abschuss-von-us-drohne-zeigen](https://www.spiegel.de/ausland/rotes-meer-video-soll-angeblichen-abschuss-von-us-drohne-zeigen-a-6dd06b21-0829-4097-a3f4-a6645d69202a#ref=rss)
-### zeigen
+* [https://www.spiegel.de/wirtschaft/shein-und-temu-so-kapern-die-billigriesen-die-luftfracht](https://www.spiegel.de/wirtschaft/shein-und-temu-so-kapern-die-billigriesen-die-luftfracht-a-a1f8d723-3b41-4ffb-b6ea-ab1587e717ad#ref=rss)
+### temu
 
-* [https://www.spiegel.de/ausland/rotes-meer-video-soll-angeblichen-abschuss-von-us-drohne-zeigen](https://www.spiegel.de/ausland/rotes-meer-video-soll-angeblichen-abschuss-von-us-drohne-zeigen-a-6dd06b21-0829-4097-a3f4-a6645d69202a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/shein-und-temu-so-kapern-die-billigriesen-die-luftfracht](https://www.spiegel.de/wirtschaft/shein-und-temu-so-kapern-die-billigriesen-die-luftfracht-a-a1f8d723-3b41-4ffb-b6ea-ab1587e717ad#ref=rss)
+### billigriesen
+
+* [https://www.spiegel.de/wirtschaft/shein-und-temu-so-kapern-die-billigriesen-die-luftfracht](https://www.spiegel.de/wirtschaft/shein-und-temu-so-kapern-die-billigriesen-die-luftfracht-a-a1f8d723-3b41-4ffb-b6ea-ab1587e717ad#ref=rss)
+### usa
+
+* [https://www.spiegel.de/wirtschaft/shein-und-temu-so-kapern-die-billigriesen-die-luftfracht](https://www.spiegel.de/wirtschaft/shein-und-temu-so-kapern-die-billigriesen-die-luftfracht-a-a1f8d723-3b41-4ffb-b6ea-ab1587e717ad#ref=rss)
+* [https://www.spiegel.de/panorama/kalifornien-besucher-koennen-im-death-valley-jetzt-kajak-fahren](https://www.spiegel.de/panorama/kalifornien-besucher-koennen-im-death-valley-jetzt-kajak-fahren-a-ded05e19-2fe8-4476-9c48-fc9be0d9a2b1#ref=rss)
+### apple
+
+* [https://www.spiegel.de/wirtschaft/shein-und-temu-so-kapern-die-billigriesen-die-luftfracht](https://www.spiegel.de/wirtschaft/shein-und-temu-so-kapern-die-billigriesen-die-luftfracht-a-a1f8d723-3b41-4ffb-b6ea-ab1587e717ad#ref=rss)
+* [https://www.spiegel.de/netzwelt/iphone-besitzer-sollen-nasses-handy-nicht-mit-reis-trocknen](https://www.spiegel.de/netzwelt/iphone-besitzer-sollen-nasses-handy-nicht-mit-reis-trocknen-a-e3790945-1f70-45b5-a8a8-804e30d90dd7#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/panorama/justiz/bayern-unbekannte-bezahlen-mit-falschgeld-von-faschingswagen](https://www.spiegel.de/panorama/justiz/bayern-unbekannte-bezahlen-mit-falschgeld-von-faschingswagen-a-e55afa41-7661-4caf-a99d-10a0a4cd40a8#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-thomas-tuchel-und-der-fc-bayern-trennen-sich-im-sommer](https://www.spiegel.de/sport/fussball/fussball-bundesliga-thomas-tuchel-und-der-fc-bayern-trennen-sich-im-sommer-a-eb52b6a1-8b54-4a5a-afa1-58d62e6f4dd6#ref=rss)
+### unbekannte
+
+* [https://www.spiegel.de/panorama/justiz/bayern-unbekannte-bezahlen-mit-falschgeld-von-faschingswagen](https://www.spiegel.de/panorama/justiz/bayern-unbekannte-bezahlen-mit-falschgeld-von-faschingswagen-a-e55afa41-7661-4caf-a99d-10a0a4cd40a8#ref=rss)
+### faschingswagen
+
+* [https://www.spiegel.de/panorama/justiz/bayern-unbekannte-bezahlen-mit-falschgeld-von-faschingswagen](https://www.spiegel.de/panorama/justiz/bayern-unbekannte-bezahlen-mit-falschgeld-von-faschingswagen-a-e55afa41-7661-4caf-a99d-10a0a4cd40a8#ref=rss)
+### ermittelt
+
+* [https://www.spiegel.de/panorama/justiz/bayern-unbekannte-bezahlen-mit-falschgeld-von-faschingswagen](https://www.spiegel.de/panorama/justiz/bayern-unbekannte-bezahlen-mit-falschgeld-von-faschingswagen-a-e55afa41-7661-4caf-a99d-10a0a4cd40a8#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/wiesbaden-schueler-sollen-fuer-holocaust-applaudiert-haben-staatsanwaltschaft-ermittelt](https://www.spiegel.de/panorama/justiz/wiesbaden-schueler-sollen-fuer-holocaust-applaudiert-haben-staatsanwaltschaft-ermittelt-a-e0520733-d942-4094-84e1-5a97171e83c3#ref=rss)
+### bafögreform
+
+* [https://www.spiegel.de/start/bafoeg-reform-die-gruenen-fordern-bedarfssaetze-auf-buergergeld-niveau-und-weitere-reformen](https://www.spiegel.de/start/bafoeg-reform-die-gruenen-fordern-bedarfssaetze-auf-buergergeld-niveau-und-weitere-reformen-a-d1962f0a-966f-4384-85a7-7fe18dda3560#ref=rss)
+### grünen
+
+* [https://www.spiegel.de/start/bafoeg-reform-die-gruenen-fordern-bedarfssaetze-auf-buergergeld-niveau-und-weitere-reformen](https://www.spiegel.de/start/bafoeg-reform-die-gruenen-fordern-bedarfssaetze-auf-buergergeld-niveau-und-weitere-reformen-a-d1962f0a-966f-4384-85a7-7fe18dda3560#ref=rss)
+### fordern
+
+* [https://www.spiegel.de/start/bafoeg-reform-die-gruenen-fordern-bedarfssaetze-auf-buergergeld-niveau-und-weitere-reformen](https://www.spiegel.de/start/bafoeg-reform-die-gruenen-fordern-bedarfssaetze-auf-buergergeld-niveau-und-weitere-reformen-a-d1962f0a-966f-4384-85a7-7fe18dda3560#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/start/bafoeg-reform-die-gruenen-fordern-bedarfssaetze-auf-buergergeld-niveau-und-weitere-reformen](https://www.spiegel.de/start/bafoeg-reform-die-gruenen-fordern-bedarfssaetze-auf-buergergeld-niveau-und-weitere-reformen-a-d1962f0a-966f-4384-85a7-7fe18dda3560#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-thomas-tuchel-und-der-fc-bayern-trennen-sich-im-sommer](https://www.spiegel.de/sport/fussball/fussball-bundesliga-thomas-tuchel-und-der-fc-bayern-trennen-sich-im-sommer-a-eb52b6a1-8b54-4a5a-afa1-58d62e6f4dd6#ref=rss)
+### umstritten
+
+* [https://www.spiegel.de/start/bafoeg-reform-die-gruenen-fordern-bedarfssaetze-auf-buergergeld-niveau-und-weitere-reformen](https://www.spiegel.de/start/bafoeg-reform-die-gruenen-fordern-bedarfssaetze-auf-buergergeld-niveau-und-weitere-reformen-a-d1962f0a-966f-4384-85a7-7fe18dda3560#ref=rss)
+* [https://www.spiegel.de/politik/pakistan-shehbaz-sharif-soll-regierungschef-werden](https://www.spiegel.de/politik/pakistan-shehbaz-sharif-soll-regierungschef-werden-a-5bce62fb-0d6b-44e3-b704-ab9b2ffecd70#ref=rss)
+### explosionen
+
+* [https://www.spiegel.de/ausland/offenbar-mehrere-explosionen-in-damaskus-syrien-macht-israel-verantwortlich](https://www.spiegel.de/ausland/offenbar-mehrere-explosionen-in-damaskus-syrien-macht-israel-verantwortlich-a-cbf70e1c-eb8f-49ca-89ca-faafaeefc505#ref=rss)
+### mindestens
+
+* [https://www.spiegel.de/ausland/offenbar-mehrere-explosionen-in-damaskus-syrien-macht-israel-verantwortlich](https://www.spiegel.de/ausland/offenbar-mehrere-explosionen-in-damaskus-syrien-macht-israel-verantwortlich-a-cbf70e1c-eb8f-49ca-89ca-faafaeefc505#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ukraine-krieg-kostete-deutschland-bislang-mehr-als-200-milliarden-euro](https://www.spiegel.de/wirtschaft/ukraine-krieg-kostete-deutschland-bislang-mehr-als-200-milliarden-euro-a-84aaa384-66e7-4758-9492-2538b5b5c16f#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/ausland/offenbar-mehrere-explosionen-in-damaskus-syrien-macht-israel-verantwortlich](https://www.spiegel.de/ausland/offenbar-mehrere-explosionen-in-damaskus-syrien-macht-israel-verantwortlich-a-cbf70e1c-eb8f-49ca-89ca-faafaeefc505#ref=rss)
+* [https://www.spiegel.de/ausland/jemen-rotes-meer-pentagon-meldet-abschuss-von-militaerdrohne-durch-huthis](https://www.spiegel.de/ausland/jemen-rotes-meer-pentagon-meldet-abschuss-von-militaerdrohne-durch-huthis-a-56e6fb86-2ecb-4472-90ce-f0e89bfe7849#ref=rss)
+### beyoncé
+
+* [https://www.spiegel.de/kultur/musik/beyonce-mit-texas-holdem-erste-schwarze-auf-platz-1-der-countrycharts](https://www.spiegel.de/kultur/musik/beyonce-mit-texas-holdem-erste-schwarze-auf-platz-1-der-countrycharts-a-7d04cf96-6119-4862-9c42-dde6fd52ed87#ref=rss)
+### erste
+
+* [https://www.spiegel.de/kultur/musik/beyonce-mit-texas-holdem-erste-schwarze-auf-platz-1-der-countrycharts](https://www.spiegel.de/kultur/musik/beyonce-mit-texas-holdem-erste-schwarze-auf-platz-1-der-countrycharts-a-7d04cf96-6119-4862-9c42-dde6fd52ed87#ref=rss)
+### schwarze
+
+* [https://www.spiegel.de/kultur/musik/beyonce-mit-texas-holdem-erste-schwarze-auf-platz-1-der-countrycharts](https://www.spiegel.de/kultur/musik/beyonce-mit-texas-holdem-erste-schwarze-auf-platz-1-der-countrycharts-a-7d04cf96-6119-4862-9c42-dde6fd52ed87#ref=rss)
+### platz
+
+* [https://www.spiegel.de/kultur/musik/beyonce-mit-texas-holdem-erste-schwarze-auf-platz-1-der-countrycharts](https://www.spiegel.de/kultur/musik/beyonce-mit-texas-holdem-erste-schwarze-auf-platz-1-der-countrycharts-a-7d04cf96-6119-4862-9c42-dde6fd52ed87#ref=rss)
+### soldaten
+
+* [https://www.spiegel.de/ausland/ukraine-toetet-offenbar-dutzende-russische-soldaten-bei-raketenangriff-auf-truppenuebungsplatz](https://www.spiegel.de/ausland/ukraine-toetet-offenbar-dutzende-russische-soldaten-bei-raketenangriff-auf-truppenuebungsplatz-a-25556983-7fa0-4ba3-a15e-b7a09c7840ac#ref=rss)
+### raketenangriff
+
+* [https://www.spiegel.de/ausland/ukraine-toetet-offenbar-dutzende-russische-soldaten-bei-raketenangriff-auf-truppenuebungsplatz](https://www.spiegel.de/ausland/ukraine-toetet-offenbar-dutzende-russische-soldaten-bei-raketenangriff-auf-truppenuebungsplatz-a-25556983-7fa0-4ba3-a15e-b7a09c7840ac#ref=rss)
+### truppenübungsplatz
+
+* [https://www.spiegel.de/ausland/ukraine-toetet-offenbar-dutzende-russische-soldaten-bei-raketenangriff-auf-truppenuebungsplatz](https://www.spiegel.de/ausland/ukraine-toetet-offenbar-dutzende-russische-soldaten-bei-raketenangriff-auf-truppenuebungsplatz-a-25556983-7fa0-4ba3-a15e-b7a09c7840ac#ref=rss)
+### zusammenarbeit
+
+* [https://www.spiegel.de/wirtschaft/russland-und-venezuela-intensivieren-wirtschaftliche-zusammenarbeit](https://www.spiegel.de/wirtschaft/russland-und-venezuela-intensivieren-wirtschaftliche-zusammenarbeit-a-e3d2e8b0-d87c-4f6b-8a74-111d0713136a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/warum-viele-grundgesetz-aenderungen-der-ampel-jetzt-auf-eis-liegen-gescheitertes-treffen-mit-der-union](https://www.spiegel.de/politik/deutschland/warum-viele-grundgesetz-aenderungen-der-ampel-jetzt-auf-eis-liegen-gescheitertes-treffen-mit-der-union-a-d282e4dd-4a2b-4325-a945-7e95500ec90b#ref=rss)
+### sanktionen
+
+* [https://www.spiegel.de/wirtschaft/russland-und-venezuela-intensivieren-wirtschaftliche-zusammenarbeit](https://www.spiegel.de/wirtschaft/russland-und-venezuela-intensivieren-wirtschaftliche-zusammenarbeit-a-e3d2e8b0-d87c-4f6b-8a74-111d0713136a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/russland-vor-allem-zentralasiatische-laender-und-die-tuerkei-beliefern-das-land-mit-sanktionswaren](https://www.spiegel.de/wirtschaft/russland-vor-allem-zentralasiatische-laender-und-die-tuerkei-beliefern-das-land-mit-sanktionswaren-a-0372da3a-2794-4a3d-a3ac-058827275902#ref=rss)
+### digitalen
+
+* [https://www.spiegel.de/karriere/assistentinnen-vier-jobportraets-von-der-digitalen-nomadin-bis-zur-vorstandskraft](https://www.spiegel.de/karriere/assistentinnen-vier-jobportraets-von-der-digitalen-nomadin-bis-zur-vorstandskraft-a-b58509d3-3b76-4d6f-8d12-ac9453e19301#ref=rss)
+### nomadin
+
+* [https://www.spiegel.de/karriere/assistentinnen-vier-jobportraets-von-der-digitalen-nomadin-bis-zur-vorstandskraft](https://www.spiegel.de/karriere/assistentinnen-vier-jobportraets-von-der-digitalen-nomadin-bis-zur-vorstandskraft-a-b58509d3-3b76-4d6f-8d12-ac9453e19301#ref=rss)
+### thomas
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-thomas-tuchel-und-der-fc-bayern-trennen-sich-im-sommer](https://www.spiegel.de/sport/fussball/fussball-bundesliga-thomas-tuchel-und-der-fc-bayern-trennen-sich-im-sommer-a-eb52b6a1-8b54-4a5a-afa1-58d62e6f4dd6#ref=rss)
+### tuchel
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-thomas-tuchel-und-der-fc-bayern-trennen-sich-im-sommer](https://www.spiegel.de/sport/fussball/fussball-bundesliga-thomas-tuchel-und-der-fc-bayern-trennen-sich-im-sommer-a-eb52b6a1-8b54-4a5a-afa1-58d62e6f4dd6#ref=rss)
+### fest
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-thomas-tuchel-und-der-fc-bayern-trennen-sich-im-sommer](https://www.spiegel.de/sport/fussball/fussball-bundesliga-thomas-tuchel-und-der-fc-bayern-trennen-sich-im-sommer-a-eb52b6a1-8b54-4a5a-afa1-58d62e6f4dd6#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/japan-fest-der-nackten-maenner-wird-wegen-ueberalterung-nicht-mehr-stattfinden](https://www.spiegel.de/panorama/gesellschaft/japan-fest-der-nackten-maenner-wird-wegen-ueberalterung-nicht-mehr-stattfinden-a-32e4911d-27a6-4a85-80eb-b015c52ec6d0#ref=rss)
+### joe
+
+* [https://www.spiegel.de/ausland/joe-biden-ex-fbi-informant-soll-kontakte-zum-russischen-geheimdienst-gehabt-haben](https://www.spiegel.de/ausland/joe-biden-ex-fbi-informant-soll-kontakte-zum-russischen-geheimdienst-gehabt-haben-a-f1a9f360-e3f1-4d7d-a439-8caf026f7631#ref=rss)
+### biden
+
+* [https://www.spiegel.de/ausland/joe-biden-ex-fbi-informant-soll-kontakte-zum-russischen-geheimdienst-gehabt-haben](https://www.spiegel.de/ausland/joe-biden-ex-fbi-informant-soll-kontakte-zum-russischen-geheimdienst-gehabt-haben-a-f1a9f360-e3f1-4d7d-a439-8caf026f7631#ref=rss)
+### staatsanwaltschaft
+
+* [https://www.spiegel.de/ausland/joe-biden-ex-fbi-informant-soll-kontakte-zum-russischen-geheimdienst-gehabt-haben](https://www.spiegel.de/ausland/joe-biden-ex-fbi-informant-soll-kontakte-zum-russischen-geheimdienst-gehabt-haben-a-f1a9f360-e3f1-4d7d-a439-8caf026f7631#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/wiesbaden-schueler-sollen-fuer-holocaust-applaudiert-haben-staatsanwaltschaft-ermittelt](https://www.spiegel.de/panorama/justiz/wiesbaden-schueler-sollen-fuer-holocaust-applaudiert-haben-staatsanwaltschaft-ermittelt-a-e0520733-d942-4094-84e1-5a97171e83c3#ref=rss)
+### geflüchtete
+
+* [https://www.spiegel.de/panorama/justiz/fluechtlinge-in-deutschland-angriffe-auf-gefluechtete-und-asylbewerber-auf-hoechstwert-seit-2016](https://www.spiegel.de/panorama/justiz/fluechtlinge-in-deutschland-angriffe-auf-gefluechtete-und-asylbewerber-auf-hoechstwert-seit-2016-a-b15ccb6c-53a0-4ece-b1d5-38493d0ebef0#ref=rss)
+### asylbewerber
+
+* [https://www.spiegel.de/panorama/justiz/fluechtlinge-in-deutschland-angriffe-auf-gefluechtete-und-asylbewerber-auf-hoechstwert-seit-2016](https://www.spiegel.de/panorama/justiz/fluechtlinge-in-deutschland-angriffe-auf-gefluechtete-und-asylbewerber-auf-hoechstwert-seit-2016-a-b15ccb6c-53a0-4ece-b1d5-38493d0ebef0#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/panorama/justiz/fluechtlinge-in-deutschland-angriffe-auf-gefluechtete-und-asylbewerber-auf-hoechstwert-seit-2016](https://www.spiegel.de/panorama/justiz/fluechtlinge-in-deutschland-angriffe-auf-gefluechtete-und-asylbewerber-auf-hoechstwert-seit-2016-a-b15ccb6c-53a0-4ece-b1d5-38493d0ebef0#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/japan-fest-der-nackten-maenner-wird-wegen-ueberalterung-nicht-mehr-stattfinden](https://www.spiegel.de/panorama/gesellschaft/japan-fest-der-nackten-maenner-wird-wegen-ueberalterung-nicht-mehr-stattfinden-a-32e4911d-27a6-4a85-80eb-b015c52ec6d0#ref=rss)
+### schaden
+
+* [https://www.spiegel.de/netzwelt/iphone-besitzer-sollen-nasses-handy-nicht-mit-reis-trocknen](https://www.spiegel.de/netzwelt/iphone-besitzer-sollen-nasses-handy-nicht-mit-reis-trocknen-a-e3790945-1f70-45b5-a8a8-804e30d90dd7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ukraine-krieg-kostete-deutschland-bislang-mehr-als-200-milliarden-euro](https://www.spiegel.de/wirtschaft/ukraine-krieg-kostete-deutschland-bislang-mehr-als-200-milliarden-euro-a-84aaa384-66e7-4758-9492-2538b5b5c16f#ref=rss)
+### schüler
+
+* [https://www.spiegel.de/panorama/justiz/wiesbaden-schueler-sollen-fuer-holocaust-applaudiert-haben-staatsanwaltschaft-ermittelt](https://www.spiegel.de/panorama/justiz/wiesbaden-schueler-sollen-fuer-holocaust-applaudiert-haben-staatsanwaltschaft-ermittelt-a-e0520733-d942-4094-84e1-5a97171e83c3#ref=rss)
+### holocaust
+
+* [https://www.spiegel.de/panorama/justiz/wiesbaden-schueler-sollen-fuer-holocaust-applaudiert-haben-staatsanwaltschaft-ermittelt](https://www.spiegel.de/panorama/justiz/wiesbaden-schueler-sollen-fuer-holocaust-applaudiert-haben-staatsanwaltschaft-ermittelt-a-e0520733-d942-4094-84e1-5a97171e83c3#ref=rss)
+### volker
+
+* [https://www.spiegel.de/politik/deutschland/volker-wissings-wasserstoffaffaere-entzieht-dem-verkehrsminister-die-untersuchung](https://www.spiegel.de/politik/deutschland/volker-wissings-wasserstoffaffaere-entzieht-dem-verkehrsminister-die-untersuchung-a-ae910bc3-a7a1-4ece-8b0c-4feab4480a42#ref=rss)
+### wissings
+
+* [https://www.spiegel.de/politik/deutschland/volker-wissings-wasserstoffaffaere-entzieht-dem-verkehrsminister-die-untersuchung](https://www.spiegel.de/politik/deutschland/volker-wissings-wasserstoffaffaere-entzieht-dem-verkehrsminister-die-untersuchung-a-ae910bc3-a7a1-4ece-8b0c-4feab4480a42#ref=rss)
+### ampel
+
+* [https://www.spiegel.de/politik/deutschland/warum-viele-grundgesetz-aenderungen-der-ampel-jetzt-auf-eis-liegen-gescheitertes-treffen-mit-der-union](https://www.spiegel.de/politik/deutschland/warum-viele-grundgesetz-aenderungen-der-ampel-jetzt-auf-eis-liegen-gescheitertes-treffen-mit-der-union-a-d282e4dd-4a2b-4325-a945-7e95500ec90b#ref=rss)
+### treffen
+
+* [https://www.spiegel.de/politik/deutschland/warum-viele-grundgesetz-aenderungen-der-ampel-jetzt-auf-eis-liegen-gescheitertes-treffen-mit-der-union](https://www.spiegel.de/politik/deutschland/warum-viele-grundgesetz-aenderungen-der-ampel-jetzt-auf-eis-liegen-gescheitertes-treffen-mit-der-union-a-d282e4dd-4a2b-4325-a945-7e95500ec90b#ref=rss)
+### union
+
+* [https://www.spiegel.de/politik/deutschland/warum-viele-grundgesetz-aenderungen-der-ampel-jetzt-auf-eis-liegen-gescheitertes-treffen-mit-der-union](https://www.spiegel.de/politik/deutschland/warum-viele-grundgesetz-aenderungen-der-ampel-jetzt-auf-eis-liegen-gescheitertes-treffen-mit-der-union-a-d282e4dd-4a2b-4325-a945-7e95500ec90b#ref=rss)
+### ukrainekrieg
+
+* [https://www.spiegel.de/ausland/ukrainekrieg-von-russland-eingesetzte-nordkoreanische-raketen-in-der-ukraine-haben-westliche-bauteile](https://www.spiegel.de/ausland/ukrainekrieg-von-russland-eingesetzte-nordkoreanische-raketen-in-der-ukraine-haben-westliche-bauteile-a-86e2cd26-0ee6-4334-b421-d8cdf620c56f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ukraine-krieg-kostete-deutschland-bislang-mehr-als-200-milliarden-euro](https://www.spiegel.de/wirtschaft/ukraine-krieg-kostete-deutschland-bislang-mehr-als-200-milliarden-euro-a-84aaa384-66e7-4758-9492-2538b5b5c16f#ref=rss)
+### nordkoreanische
+
+* [https://www.spiegel.de/ausland/ukrainekrieg-von-russland-eingesetzte-nordkoreanische-raketen-in-der-ukraine-haben-westliche-bauteile](https://www.spiegel.de/ausland/ukrainekrieg-von-russland-eingesetzte-nordkoreanische-raketen-in-der-ukraine-haben-westliche-bauteile-a-86e2cd26-0ee6-4334-b421-d8cdf620c56f#ref=rss)
+### raketen
+
+* [https://www.spiegel.de/ausland/ukrainekrieg-von-russland-eingesetzte-nordkoreanische-raketen-in-der-ukraine-haben-westliche-bauteile](https://www.spiegel.de/ausland/ukrainekrieg-von-russland-eingesetzte-nordkoreanische-raketen-in-der-ukraine-haben-westliche-bauteile-a-86e2cd26-0ee6-4334-b421-d8cdf620c56f#ref=rss)
+### matthias
+
+* [https://www.spiegel.de/sport/fussball/matthias-sammer-zu-viele-entscheidungen-gegen-deutsche-mannschaften](https://www.spiegel.de/sport/fussball/matthias-sammer-zu-viele-entscheidungen-gegen-deutsche-mannschaften-a-d7ad8eed-380e-4e74-9d2f-548164ad3e76#ref=rss)
+### sammer
+
+* [https://www.spiegel.de/sport/fussball/matthias-sammer-zu-viele-entscheidungen-gegen-deutsche-mannschaften](https://www.spiegel.de/sport/fussball/matthias-sammer-zu-viele-entscheidungen-gegen-deutsche-mannschaften-a-d7ad8eed-380e-4e74-9d2f-548164ad3e76#ref=rss)
+### death
+
+* [https://www.spiegel.de/panorama/kalifornien-besucher-koennen-im-death-valley-jetzt-kajak-fahren](https://www.spiegel.de/panorama/kalifornien-besucher-koennen-im-death-valley-jetzt-kajak-fahren-a-ded05e19-2fe8-4476-9c48-fc9be0d9a2b1#ref=rss)
+### valley
+
+* [https://www.spiegel.de/panorama/kalifornien-besucher-koennen-im-death-valley-jetzt-kajak-fahren](https://www.spiegel.de/panorama/kalifornien-besucher-koennen-im-death-valley-jetzt-kajak-fahren-a-ded05e19-2fe8-4476-9c48-fc9be0d9a2b1#ref=rss)
+### türkei
+
+* [https://www.spiegel.de/wirtschaft/russland-vor-allem-zentralasiatische-laender-und-die-tuerkei-beliefern-das-land-mit-sanktionswaren](https://www.spiegel.de/wirtschaft/russland-vor-allem-zentralasiatische-laender-und-die-tuerkei-beliefern-das-land-mit-sanktionswaren-a-0372da3a-2794-4a3d-a3ac-058827275902#ref=rss)
+### westens
+
+* [https://www.spiegel.de/wirtschaft/russland-vor-allem-zentralasiatische-laender-und-die-tuerkei-beliefern-das-land-mit-sanktionswaren](https://www.spiegel.de/wirtschaft/russland-vor-allem-zentralasiatische-laender-und-die-tuerkei-beliefern-das-land-mit-sanktionswaren-a-0372da3a-2794-4a3d-a3ac-058827275902#ref=rss)
+* [https://www.spiegel.de/ausland/kaja-kallas-spricht-von-wunschdenken-des-westens-ueber-russland](https://www.spiegel.de/ausland/kaja-kallas-spricht-von-wunschdenken-des-westens-ueber-russland-a-f53b42f6-a96b-4248-ab26-f8116b4b228a#ref=rss)
+### nackten
+
+* [https://www.spiegel.de/panorama/gesellschaft/japan-fest-der-nackten-maenner-wird-wegen-ueberalterung-nicht-mehr-stattfinden](https://www.spiegel.de/panorama/gesellschaft/japan-fest-der-nackten-maenner-wird-wegen-ueberalterung-nicht-mehr-stattfinden-a-32e4911d-27a6-4a85-80eb-b015c52ec6d0#ref=rss)
+### pakistan
+
+* [https://www.spiegel.de/politik/pakistan-shehbaz-sharif-soll-regierungschef-werden](https://www.spiegel.de/politik/pakistan-shehbaz-sharif-soll-regierungschef-werden-a-5bce62fb-0d6b-44e3-b704-ab9b2ffecd70#ref=rss)
+### 200
+
+* [https://www.spiegel.de/wirtschaft/ukraine-krieg-kostete-deutschland-bislang-mehr-als-200-milliarden-euro](https://www.spiegel.de/wirtschaft/ukraine-krieg-kostete-deutschland-bislang-mehr-als-200-milliarden-euro-a-84aaa384-66e7-4758-9492-2538b5b5c16f#ref=rss)
+### milliarden
+
+* [https://www.spiegel.de/wirtschaft/ukraine-krieg-kostete-deutschland-bislang-mehr-als-200-milliarden-euro](https://www.spiegel.de/wirtschaft/ukraine-krieg-kostete-deutschland-bislang-mehr-als-200-milliarden-euro-a-84aaa384-66e7-4758-9492-2538b5b5c16f#ref=rss)
+### euro
+
+* [https://www.spiegel.de/wirtschaft/ukraine-krieg-kostete-deutschland-bislang-mehr-als-200-milliarden-euro](https://www.spiegel.de/wirtschaft/ukraine-krieg-kostete-deutschland-bislang-mehr-als-200-milliarden-euro-a-84aaa384-66e7-4758-9492-2538b5b5c16f#ref=rss)
+### kevin
+
+* [https://www.spiegel.de/panorama/leute/kevin-costner-und-christine-baumgartner-nach-rosenkrieg-offiziell-geschieden](https://www.spiegel.de/panorama/leute/kevin-costner-und-christine-baumgartner-nach-rosenkrieg-offiziell-geschieden-a-074a0ac0-4525-4c7d-9856-1e3eaa5030b5#ref=rss)
+### costner
+
+* [https://www.spiegel.de/panorama/leute/kevin-costner-und-christine-baumgartner-nach-rosenkrieg-offiziell-geschieden](https://www.spiegel.de/panorama/leute/kevin-costner-und-christine-baumgartner-nach-rosenkrieg-offiziell-geschieden-a-074a0ac0-4525-4c7d-9856-1e3eaa5030b5#ref=rss)
+### christine
+
+* [https://www.spiegel.de/panorama/leute/kevin-costner-und-christine-baumgartner-nach-rosenkrieg-offiziell-geschieden](https://www.spiegel.de/panorama/leute/kevin-costner-und-christine-baumgartner-nach-rosenkrieg-offiziell-geschieden-a-074a0ac0-4525-4c7d-9856-1e3eaa5030b5#ref=rss)
+### baumgartner
+
+* [https://www.spiegel.de/panorama/leute/kevin-costner-und-christine-baumgartner-nach-rosenkrieg-offiziell-geschieden](https://www.spiegel.de/panorama/leute/kevin-costner-und-christine-baumgartner-nach-rosenkrieg-offiziell-geschieden-a-074a0ac0-4525-4c7d-9856-1e3eaa5030b5#ref=rss)
+### offiziell
+
+* [https://www.spiegel.de/panorama/leute/kevin-costner-und-christine-baumgartner-nach-rosenkrieg-offiziell-geschieden](https://www.spiegel.de/panorama/leute/kevin-costner-und-christine-baumgartner-nach-rosenkrieg-offiziell-geschieden-a-074a0ac0-4525-4c7d-9856-1e3eaa5030b5#ref=rss)
+### kaja
+
+* [https://www.spiegel.de/ausland/kaja-kallas-spricht-von-wunschdenken-des-westens-ueber-russland](https://www.spiegel.de/ausland/kaja-kallas-spricht-von-wunschdenken-des-westens-ueber-russland-a-f53b42f6-a96b-4248-ab26-f8116b4b228a#ref=rss)
+### kallas
+
+* [https://www.spiegel.de/ausland/kaja-kallas-spricht-von-wunschdenken-des-westens-ueber-russland](https://www.spiegel.de/ausland/kaja-kallas-spricht-von-wunschdenken-des-westens-ueber-russland-a-f53b42f6-a96b-4248-ab26-f8116b4b228a#ref=rss)
+### jemen
+
+* [https://www.spiegel.de/ausland/jemen-rotes-meer-pentagon-meldet-abschuss-von-militaerdrohne-durch-huthis](https://www.spiegel.de/ausland/jemen-rotes-meer-pentagon-meldet-abschuss-von-militaerdrohne-durch-huthis-a-56e6fb86-2ecb-4472-90ce-f0e89bfe7849#ref=rss)
 ### huthis
 
-* [https://www.spiegel.de/ausland/rotes-meer-video-soll-angeblichen-abschuss-von-us-drohne-zeigen](https://www.spiegel.de/ausland/rotes-meer-video-soll-angeblichen-abschuss-von-us-drohne-zeigen-a-6dd06b21-0829-4097-a3f4-a6645d69202a#ref=rss)
-### martin
-
-* [https://www.spiegel.de/kultur/kino/goldener-ehrenbaer-fuer-martin-scorsese-der-mann-der-aus-gier-und-mord-grosse-filmkunst-macht](https://www.spiegel.de/kultur/kino/goldener-ehrenbaer-fuer-martin-scorsese-der-mann-der-aus-gier-und-mord-grosse-filmkunst-macht-a-717429b5-bd97-4c3d-9d03-08f11b3c8c9d#ref=rss)
-### scorsese
-
-* [https://www.spiegel.de/kultur/kino/goldener-ehrenbaer-fuer-martin-scorsese-der-mann-der-aus-gier-und-mord-grosse-filmkunst-macht](https://www.spiegel.de/kultur/kino/goldener-ehrenbaer-fuer-martin-scorsese-der-mann-der-aus-gier-und-mord-grosse-filmkunst-macht-a-717429b5-bd97-4c3d-9d03-08f11b3c8c9d#ref=rss)
-### berlinale
-
-* [https://www.spiegel.de/kultur/kino/goldener-ehrenbaer-fuer-martin-scorsese-der-mann-der-aus-gier-und-mord-grosse-filmkunst-macht](https://www.spiegel.de/kultur/kino/goldener-ehrenbaer-fuer-martin-scorsese-der-mann-der-aus-gier-und-mord-grosse-filmkunst-macht-a-717429b5-bd97-4c3d-9d03-08f11b3c8c9d#ref=rss)
-### selenskyj
-
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-erinnert-an-maidan-proteste](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-erinnert-an-maidan-proteste-a-d1fc28c9-4d1f-4194-adf3-f6ec3f2b5bfb#ref=rss)
-### erinnert
-
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-erinnert-an-maidan-proteste](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-erinnert-an-maidan-proteste-a-d1fc28c9-4d1f-4194-adf3-f6ec3f2b5bfb#ref=rss)
-### brutal
-
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-erinnert-an-maidan-proteste](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-erinnert-an-maidan-proteste-a-d1fc28c9-4d1f-4194-adf3-f6ec3f2b5bfb#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-familie-juengster-geiseln-draengt-auf-rasche-verhandlungsloesung-mit-hamas](https://www.spiegel.de/ausland/israel-gaza-krieg-familie-juengster-geiseln-draengt-auf-rasche-verhandlungsloesung-mit-hamas-a-97d7680e-2d6a-4219-bcc6-bcba7a89ec1a#ref=rss)
-### videobotschaft
-
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-erinnert-an-maidan-proteste](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-erinnert-an-maidan-proteste-a-d1fc28c9-4d1f-4194-adf3-f6ec3f2b5bfb#ref=rss)
-* [https://www.spiegel.de/ausland/alexej-nawalnys-mutter-bittet-wladimir-putin-um-herausgabe-des-leichnams](https://www.spiegel.de/ausland/alexej-nawalnys-mutter-bittet-wladimir-putin-um-herausgabe-des-leichnams-a-12b2e514-9d6d-4879-a76c-70ee311acc18#ref=rss)
-### familie
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-familie-juengster-geiseln-draengt-auf-rasche-verhandlungsloesung-mit-hamas](https://www.spiegel.de/ausland/israel-gaza-krieg-familie-juengster-geiseln-draengt-auf-rasche-verhandlungsloesung-mit-hamas-a-97d7680e-2d6a-4219-bcc6-bcba7a89ec1a#ref=rss)
-### geiseln
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-familie-juengster-geiseln-draengt-auf-rasche-verhandlungsloesung-mit-hamas](https://www.spiegel.de/ausland/israel-gaza-krieg-familie-juengster-geiseln-draengt-auf-rasche-verhandlungsloesung-mit-hamas-a-97d7680e-2d6a-4219-bcc6-bcba7a89ec1a#ref=rss)
-### verhandlungslösung
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-familie-juengster-geiseln-draengt-auf-rasche-verhandlungsloesung-mit-hamas](https://www.spiegel.de/ausland/israel-gaza-krieg-familie-juengster-geiseln-draengt-auf-rasche-verhandlungsloesung-mit-hamas-a-97d7680e-2d6a-4219-bcc6-bcba7a89ec1a#ref=rss)
-### hamas
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-familie-juengster-geiseln-draengt-auf-rasche-verhandlungsloesung-mit-hamas](https://www.spiegel.de/ausland/israel-gaza-krieg-familie-juengster-geiseln-draengt-auf-rasche-verhandlungsloesung-mit-hamas-a-97d7680e-2d6a-4219-bcc6-bcba7a89ec1a#ref=rss)
-### 7
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-familie-juengster-geiseln-draengt-auf-rasche-verhandlungsloesung-mit-hamas](https://www.spiegel.de/ausland/israel-gaza-krieg-familie-juengster-geiseln-draengt-auf-rasche-verhandlungsloesung-mit-hamas-a-97d7680e-2d6a-4219-bcc6-bcba7a89ec1a#ref=rss)
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### strackzimmermann
-
-* [https://www.spiegel.de/politik/deutschland/waffenhilfe-fuer-die-ukraine-im-bundestag-warum-strack-zimmermann-dem-antrag-der-ampel-und-der-union-zustimmen-will](https://www.spiegel.de/politik/deutschland/waffenhilfe-fuer-die-ukraine-im-bundestag-warum-strack-zimmermann-dem-antrag-der-ampel-und-der-union-zustimmen-will-a-67035eb4-16bd-4c84-88a5-4d9571f29361#ref=rss)
+* [https://www.spiegel.de/ausland/jemen-rotes-meer-pentagon-meldet-abschuss-von-militaerdrohne-durch-huthis](https://www.spiegel.de/ausland/jemen-rotes-meer-pentagon-meldet-abschuss-von-militaerdrohne-durch-huthis-a-56e6fb86-2ecb-4472-90ce-f0e89bfe7849#ref=rss)
 
