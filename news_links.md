@@ -4,354 +4,304 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### fc
+### selbst
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-besiegt-darmstadt-98-dank-jamal-musiala-vfl-wolfsburg-unterliegt-fc-augsburg](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-besiegt-darmstadt-98-dank-jamal-musiala-vfl-wolfsburg-unterliegt-fc-augsburg-a-8c458e19-d512-45e9-85d6-935d1e730e27#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-nationalspielerin-sydney-lohmann-verlaengert-beim-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/fussball-nationalspielerin-sydney-lohmann-verlaengert-beim-fc-bayern-muenchen-a-53dc13e6-4dc5-4d5a-8463-0f06f5b98e0b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-st-pauli-und-holstein-kiel-siegen-im-aufstiegsrennen](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-st-pauli-und-holstein-kiel-siegen-im-aufstiegsrennen-a-e52acd5e-ad23-4fee-a5d3-080e02227067#ref=rss)
-### ich
-
-* [https://www.spiegel.de/panorama/leute/vicky-leandros-stuerzt-von-der-buehne-und-singt-gleich-weiter](https://www.spiegel.de/panorama/leute/vicky-leandros-stuerzt-von-der-buehne-und-singt-gleich-weiter-a-64728b0f-0f54-4f07-aafc-17b84c12098e#ref=rss)
-* [https://www.spiegel.de/familie/familie-wie-ich-lernte-dass-ich-meine-kinder-nicht-bespassen-muss](https://www.spiegel.de/familie/familie-wie-ich-lernte-dass-ich-meine-kinder-nicht-bespassen-muss-a-184ed2f4-cf2d-4665-bbbe-3284fae188f1#ref=rss)
+* [https://www.spiegel.de/auto/elektroauto-wartung-das-maerchen-vom-unkaputtbaren-elektroauto](https://www.spiegel.de/auto/elektroauto-wartung-das-maerchen-vom-unkaputtbaren-elektroauto-a-34654d30-57c1-46a4-b176-ef96f5efa290#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-talente-musiala-und-pavlovic-die-junge-generation-trumpft-auf](https://www.spiegel.de/sport/fussball/fc-bayern-talente-musiala-und-pavlovic-die-junge-generation-trumpft-auf-a-522e6ad7-b0db-4c74-9d0a-899683d6ff85#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hannover-96-erneut-sieglos-1-1-gegen-kaiserslautern](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hannover-96-erneut-sieglos-1-1-gegen-kaiserslautern-a-def8a71b-eade-45b7-b462-4d9d1fbe480a#ref=rss)
+* [https://www.spiegel.de/ausland/haiti-deutscher-arzt-berichtet-ueber-eskalierende-banden-kriminalitaet](https://www.spiegel.de/ausland/haiti-deutscher-arzt-berichtet-ueber-eskalierende-banden-kriminalitaet-a-4449bf80-0d9b-49eb-9abd-f81afa51ca67#ref=rss)
 ### russland
 
-* [https://www.spiegel.de/ausland/russland-vor-der-wahl-historiker-karl-schloegel-ueber-putins-herrschaftssystem](https://www.spiegel.de/ausland/russland-vor-der-wahl-historiker-karl-schloegel-ueber-putins-herrschaftssystem-a-ad0252f4-3115-45b0-81db-59469cba2863#ref=rss)
-* [https://www.spiegel.de/ausland/wladimir-putin-wie-ein-unbekannter-zum-maechtigsten-mann-russlands-wurde-podcast](https://www.spiegel.de/ausland/wladimir-putin-wie-ein-unbekannter-zum-maechtigsten-mann-russlands-wurde-podcast-a-d90bcb44-23d6-4640-89a6-77769bcb8eb5#ref=rss)
-### bayern
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw-11-24-von-thomas-plassmann-klaus-stuttmann-und-chappatte](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw-11-24-von-thomas-plassmann-klaus-stuttmann-und-chappatte-a-ed0becbe-b105-4f60-b57d-222179215342#ref=rss)
+* [https://www.spiegel.de/ausland/britischer-minister-sagt-odessa-besuch-aus-sicherheitsgruenden-ab](https://www.spiegel.de/ausland/britischer-minister-sagt-odessa-besuch-aus-sicherheitsgruenden-ab-a-afc38a54-1738-4a10-adae-074cb7243f37#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-russland-angriffe-auf-russisches-grenzgebiet-stoeren-wladimir-putins-wiederwahl](https://www.spiegel.de/ausland/wahl-in-russland-angriffe-auf-russisches-grenzgebiet-stoeren-wladimir-putins-wiederwahl-a-9f1f7e23-5277-4ed0-86b2-60fcf195cb73#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-besiegt-darmstadt-98-dank-jamal-musiala-vfl-wolfsburg-unterliegt-fc-augsburg](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-besiegt-darmstadt-98-dank-jamal-musiala-vfl-wolfsburg-unterliegt-fc-augsburg-a-8c458e19-d512-45e9-85d6-935d1e730e27#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-nationalspielerin-sydney-lohmann-verlaengert-beim-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/fussball-nationalspielerin-sydney-lohmann-verlaengert-beim-fc-bayern-muenchen-a-53dc13e6-4dc5-4d5a-8463-0f06f5b98e0b#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/panorama/oberhausen-warum-sind-die-ukrainischen-nachwuchs-basketballer-tot](https://www.spiegel.de/panorama/oberhausen-warum-sind-die-ukrainischen-nachwuchs-basketballer-tot-a-41cf8d05-b6c5-401e-8163-e0501212aef4#ref=rss)
-* [https://www.spiegel.de/sport/handball/handball-deutschland-verliert-gegen-kroatien-und-bangt-um-die-olympia-qualifikation](https://www.spiegel.de/sport/handball/handball-deutschland-verliert-gegen-kroatien-und-bangt-um-die-olympia-qualifikation-a-b6d46d3b-5efd-46f1-a894-1a8ff9071751#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/krankenhausreform-von-karl-lauterbach-neuer-referentenentwurf-liegt-vor](https://www.spiegel.de/politik/deutschland/krankenhausreform-von-karl-lauterbach-neuer-referentenentwurf-liegt-vor-a-5babe557-abc9-4eb6-b97d-1084e0115e17#ref=rss)
-### karl
-
-* [https://www.spiegel.de/ausland/russland-vor-der-wahl-historiker-karl-schloegel-ueber-putins-herrschaftssystem](https://www.spiegel.de/ausland/russland-vor-der-wahl-historiker-karl-schloegel-ueber-putins-herrschaftssystem-a-ad0252f4-3115-45b0-81db-59469cba2863#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/krankenhausreform-von-karl-lauterbach-neuer-referentenentwurf-liegt-vor](https://www.spiegel.de/politik/deutschland/krankenhausreform-von-karl-lauterbach-neuer-referentenentwurf-liegt-vor-a-5babe557-abc9-4eb6-b97d-1084e0115e17#ref=rss)
-### hälfte
-
-* [https://www.spiegel.de/sport/handball/handball-deutschland-verliert-gegen-kroatien-und-bangt-um-die-olympia-qualifikation](https://www.spiegel.de/sport/handball/handball-deutschland-verliert-gegen-kroatien-und-bangt-um-die-olympia-qualifikation-a-b6d46d3b-5efd-46f1-a894-1a8ff9071751#ref=rss)
-* [https://www.spiegel.de/wirtschaft/sylt-die-angst-der-vermieter-bis-zur-haelfte-der-ferienwohnungen-koennten-illegal-sein](https://www.spiegel.de/wirtschaft/sylt-die-angst-der-vermieter-bis-zur-haelfte-der-ferienwohnungen-koennten-illegal-sein-a-741b71b5-c3af-450f-8907-4f5ddd517028#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/sport/fussball/fussball-nationalspielerin-sydney-lohmann-verlaengert-beim-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/fussball-nationalspielerin-sydney-lohmann-verlaengert-beim-fc-bayern-muenchen-a-53dc13e6-4dc5-4d5a-8463-0f06f5b98e0b#ref=rss)
-* [https://www.spiegel.de/politik/letzte-generation-protest-und-blockaden-ohne-kleber-in-berlin-muenchen](https://www.spiegel.de/politik/letzte-generation-protest-und-blockaden-ohne-kleber-in-berlin-muenchen-a-b6a1eadc-5aa9-43ff-b2d5-b5d3217cd59f#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/ausland/wladimir-putin-wie-ein-unbekannter-zum-maechtigsten-mann-russlands-wurde-podcast](https://www.spiegel.de/ausland/wladimir-putin-wie-ein-unbekannter-zum-maechtigsten-mann-russlands-wurde-podcast-a-d90bcb44-23d6-4640-89a6-77769bcb8eb5#ref=rss)
-* [https://www.spiegel.de/panorama/leute/vicky-leandros-stuerzt-von-der-buehne-und-singt-gleich-weiter](https://www.spiegel.de/panorama/leute/vicky-leandros-stuerzt-von-der-buehne-und-singt-gleich-weiter-a-64728b0f-0f54-4f07-aafc-17b84c12098e#ref=rss)
-* [https://www.spiegel.de/familie/familie-wie-ich-lernte-dass-ich-meine-kinder-nicht-bespassen-muss](https://www.spiegel.de/familie/familie-wie-ich-lernte-dass-ich-meine-kinder-nicht-bespassen-muss-a-184ed2f4-cf2d-4665-bbbe-3284fae188f1#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/politik/letzte-generation-protest-und-blockaden-ohne-kleber-in-berlin-muenchen](https://www.spiegel.de/politik/letzte-generation-protest-und-blockaden-ohne-kleber-in-berlin-muenchen-a-b6a1eadc-5aa9-43ff-b2d5-b5d3217cd59f#ref=rss)
-* [https://www.spiegel.de/panorama/fitness-influencer-giorgi-tzane-janelidze-stirbt-in-italien-nach-sturz-in-eine-schlucht](https://www.spiegel.de/panorama/fitness-influencer-giorgi-tzane-janelidze-stirbt-in-italien-nach-sturz-in-eine-schlucht-a-39bdbcb8-3d2e-4aff-b099-5483d9a1cc53#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/politik/letzte-generation-protest-und-blockaden-ohne-kleber-in-berlin-muenchen](https://www.spiegel.de/politik/letzte-generation-protest-und-blockaden-ohne-kleber-in-berlin-muenchen-a-b6a1eadc-5aa9-43ff-b2d5-b5d3217cd59f#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-drei-maenner-bei-streit-im-dong-xuan-center-lebensbedrohlich-verletzt](https://www.spiegel.de/panorama/berlin-drei-maenner-bei-streit-im-dong-xuan-center-lebensbedrohlich-verletzt-a-dee08258-7a77-4dfc-8ad0-90aa59c17f56#ref=rss)
-### mehreren
-
-* [https://www.spiegel.de/politik/letzte-generation-protest-und-blockaden-ohne-kleber-in-berlin-muenchen](https://www.spiegel.de/politik/letzte-generation-protest-und-blockaden-ohne-kleber-in-berlin-muenchen-a-b6a1eadc-5aa9-43ff-b2d5-b5d3217cd59f#ref=rss)
-* [https://www.spiegel.de/sport/american-football/football-star-aaron-donald-hoert-auf-er-war-der-beste-nfl-verteidiger-seiner-zeit](https://www.spiegel.de/sport/american-football/football-star-aaron-donald-hoert-auf-er-war-der-beste-nfl-verteidiger-seiner-zeit-a-cc2fd91e-f652-4fb3-9cb5-bb0d274f2c94#ref=rss)
-* [https://www.spiegel.de/start/whu-otto-beisheim-school-of-management-riskante-saufrituale](https://www.spiegel.de/start/whu-otto-beisheim-school-of-management-riskante-saufrituale-a-c0f6388b-339c-46bb-9376-f8bdb90e7b49#ref=rss)
-### zeit
-
-* [https://www.spiegel.de/sport/american-football/football-star-aaron-donald-hoert-auf-er-war-der-beste-nfl-verteidiger-seiner-zeit](https://www.spiegel.de/sport/american-football/football-star-aaron-donald-hoert-auf-er-war-der-beste-nfl-verteidiger-seiner-zeit-a-cc2fd91e-f652-4fb3-9cb5-bb0d274f2c94#ref=rss)
-* [https://www.spiegel.de/familie/familie-wie-ich-lernte-dass-ich-meine-kinder-nicht-bespassen-muss](https://www.spiegel.de/familie/familie-wie-ich-lernte-dass-ich-meine-kinder-nicht-bespassen-muss-a-184ed2f4-cf2d-4665-bbbe-3284fae188f1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/propaganda-in-der-modernen-politik-wir-sind-in-einer-neuen-aera-der-propaganda](https://www.spiegel.de/politik/deutschland/propaganda-in-der-modernen-politik-wir-sind-in-einer-neuen-aera-der-propaganda-a-30ce993b-6bf9-4a52-856b-9fc040934ec0#ref=rss)
-### whu
-
-* [https://www.spiegel.de/start/whu-otto-beisheim-school-of-management-riskante-saufrituale](https://www.spiegel.de/start/whu-otto-beisheim-school-of-management-riskante-saufrituale-a-c0f6388b-339c-46bb-9376-f8bdb90e7b49#ref=rss)
-### vier
-
-* [https://www.spiegel.de/ausland/vaughan-gething-wird-als-erster-schwarzer-regierungschef-in-wales](https://www.spiegel.de/ausland/vaughan-gething-wird-als-erster-schwarzer-regierungschef-in-wales-a-8b870981-f7fc-4a4a-afe2-627df8e8c528#ref=rss)
-* [https://www.spiegel.de/familie/familie-wie-ich-lernte-dass-ich-meine-kinder-nicht-bespassen-muss](https://www.spiegel.de/familie/familie-wie-ich-lernte-dass-ich-meine-kinder-nicht-bespassen-muss-a-184ed2f4-cf2d-4665-bbbe-3284fae188f1#ref=rss)
-* [https://www.spiegel.de/tests/kueche/tischgrills-im-test-diese-grillsaison-endet-nie](https://www.spiegel.de/tests/kueche/tischgrills-im-test-diese-grillsaison-endet-nie-a-cf26c58a-de8c-4207-a66a-47b58fada5d6#ref=rss)
-### propaganda
-
-* [https://www.spiegel.de/politik/deutschland/propaganda-in-der-modernen-politik-wir-sind-in-einer-neuen-aera-der-propaganda](https://www.spiegel.de/politik/deutschland/propaganda-in-der-modernen-politik-wir-sind-in-einer-neuen-aera-der-propaganda-a-30ce993b-6bf9-4a52-856b-9fc040934ec0#ref=rss)
-### oberhausen
-
-* [https://www.spiegel.de/panorama/oberhausen-warum-sind-die-ukrainischen-nachwuchs-basketballer-tot](https://www.spiegel.de/panorama/oberhausen-warum-sind-die-ukrainischen-nachwuchs-basketballer-tot-a-41cf8d05-b6c5-401e-8163-e0501212aef4#ref=rss)
-### ukrainischen
-
-* [https://www.spiegel.de/panorama/oberhausen-warum-sind-die-ukrainischen-nachwuchs-basketballer-tot](https://www.spiegel.de/panorama/oberhausen-warum-sind-die-ukrainischen-nachwuchs-basketballer-tot-a-41cf8d05-b6c5-401e-8163-e0501212aef4#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/oberhausen-warum-sind-die-ukrainischen-nachwuchs-basketballer-tot](https://www.spiegel.de/panorama/oberhausen-warum-sind-die-ukrainischen-nachwuchs-basketballer-tot-a-41cf8d05-b6c5-401e-8163-e0501212aef4#ref=rss)
-* [https://www.spiegel.de/sport/absturz-eines-traditionsvereins-schattenkampf-um-schalke-04](https://www.spiegel.de/sport/absturz-eines-traditionsvereins-schattenkampf-um-schalke-04-a-0dcc1326-b8d0-47f1-aed4-f3dd57cdaa81#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/panorama/oberhausen-warum-sind-die-ukrainischen-nachwuchs-basketballer-tot](https://www.spiegel.de/panorama/oberhausen-warum-sind-die-ukrainischen-nachwuchs-basketballer-tot-a-41cf8d05-b6c5-401e-8163-e0501212aef4#ref=rss)
-* [https://www.spiegel.de/sport/american-football/football-star-aaron-donald-hoert-auf-er-war-der-beste-nfl-verteidiger-seiner-zeit](https://www.spiegel.de/sport/american-football/football-star-aaron-donald-hoert-auf-er-war-der-beste-nfl-verteidiger-seiner-zeit-a-cc2fd91e-f652-4fb3-9cb5-bb0d274f2c94#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/panorama/oberhausen-warum-sind-die-ukrainischen-nachwuchs-basketballer-tot](https://www.spiegel.de/panorama/oberhausen-warum-sind-die-ukrainischen-nachwuchs-basketballer-tot-a-41cf8d05-b6c5-401e-8163-e0501212aef4#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-drei-maenner-bei-streit-im-dong-xuan-center-lebensbedrohlich-verletzt](https://www.spiegel.de/panorama/berlin-drei-maenner-bei-streit-im-dong-xuan-center-lebensbedrohlich-verletzt-a-dee08258-7a77-4dfc-8ad0-90aa59c17f56#ref=rss)
-### historiker
-
-* [https://www.spiegel.de/ausland/russland-vor-der-wahl-historiker-karl-schloegel-ueber-putins-herrschaftssystem](https://www.spiegel.de/ausland/russland-vor-der-wahl-historiker-karl-schloegel-ueber-putins-herrschaftssystem-a-ad0252f4-3115-45b0-81db-59469cba2863#ref=rss)
-### schlögel
-
-* [https://www.spiegel.de/ausland/russland-vor-der-wahl-historiker-karl-schloegel-ueber-putins-herrschaftssystem](https://www.spiegel.de/ausland/russland-vor-der-wahl-historiker-karl-schloegel-ueber-putins-herrschaftssystem-a-ad0252f4-3115-45b0-81db-59469cba2863#ref=rss)
-### putins
-
-* [https://www.spiegel.de/ausland/russland-vor-der-wahl-historiker-karl-schloegel-ueber-putins-herrschaftssystem](https://www.spiegel.de/ausland/russland-vor-der-wahl-historiker-karl-schloegel-ueber-putins-herrschaftssystem-a-ad0252f4-3115-45b0-81db-59469cba2863#ref=rss)
-* [https://www.spiegel.de/ausland/vor-protest-gegen-scheinwahlen-russen-erhalten-droh-sms](https://www.spiegel.de/ausland/vor-protest-gegen-scheinwahlen-russen-erhalten-droh-sms-a-4a51c5be-5d85-4137-8fcd-e2e2d3c47e29#ref=rss)
-### europa
-
-* [https://www.spiegel.de/ausland/russland-vor-der-wahl-historiker-karl-schloegel-ueber-putins-herrschaftssystem](https://www.spiegel.de/ausland/russland-vor-der-wahl-historiker-karl-schloegel-ueber-putins-herrschaftssystem-a-ad0252f4-3115-45b0-81db-59469cba2863#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/eu-agrarpolitik-europa-kapituliert-vor-der-bauernrandale-kommentar](https://www.spiegel.de/politik/deutschland/eu-agrarpolitik-europa-kapituliert-vor-der-bauernrandale-kommentar-a-c7c36d21-2d69-4f56-a5a2-1e0b7c87ed5e#ref=rss)
-### jasper
-
-* [https://www.spiegel.de/sport/radsport-jasper-philipsen-gewinnt-fruehjahrsklassiker-vor-tadej-pogacar](https://www.spiegel.de/sport/radsport-jasper-philipsen-gewinnt-fruehjahrsklassiker-vor-tadej-pogacar-a-1aced3e8-563b-405e-bfbb-ef2feead3239#ref=rss)
-### philipsen
-
-* [https://www.spiegel.de/sport/radsport-jasper-philipsen-gewinnt-fruehjahrsklassiker-vor-tadej-pogacar](https://www.spiegel.de/sport/radsport-jasper-philipsen-gewinnt-fruehjahrsklassiker-vor-tadej-pogacar-a-1aced3e8-563b-405e-bfbb-ef2feead3239#ref=rss)
-### frühjahrsklassiker
-
-* [https://www.spiegel.de/sport/radsport-jasper-philipsen-gewinnt-fruehjahrsklassiker-vor-tadej-pogacar](https://www.spiegel.de/sport/radsport-jasper-philipsen-gewinnt-fruehjahrsklassiker-vor-tadej-pogacar-a-1aced3e8-563b-405e-bfbb-ef2feead3239#ref=rss)
-### tadej
-
-* [https://www.spiegel.de/sport/radsport-jasper-philipsen-gewinnt-fruehjahrsklassiker-vor-tadej-pogacar](https://www.spiegel.de/sport/radsport-jasper-philipsen-gewinnt-fruehjahrsklassiker-vor-tadej-pogacar-a-1aced3e8-563b-405e-bfbb-ef2feead3239#ref=rss)
-### pogačar
-
-* [https://www.spiegel.de/sport/radsport-jasper-philipsen-gewinnt-fruehjahrsklassiker-vor-tadej-pogacar](https://www.spiegel.de/sport/radsport-jasper-philipsen-gewinnt-fruehjahrsklassiker-vor-tadej-pogacar-a-1aced3e8-563b-405e-bfbb-ef2feead3239#ref=rss)
-### schalke
-
-* [https://www.spiegel.de/sport/absturz-eines-traditionsvereins-schattenkampf-um-schalke-04](https://www.spiegel.de/sport/absturz-eines-traditionsvereins-schattenkampf-um-schalke-04-a-0dcc1326-b8d0-47f1-aed4-f3dd57cdaa81#ref=rss)
-### liga
-
-* [https://www.spiegel.de/sport/absturz-eines-traditionsvereins-schattenkampf-um-schalke-04](https://www.spiegel.de/sport/absturz-eines-traditionsvereins-schattenkampf-um-schalke-04-a-0dcc1326-b8d0-47f1-aed4-f3dd57cdaa81#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-st-pauli-und-holstein-kiel-siegen-im-aufstiegsrennen](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-st-pauli-und-holstein-kiel-siegen-im-aufstiegsrennen-a-e52acd5e-ad23-4fee-a5d3-080e02227067#ref=rss)
-### führt
-
-* [https://www.spiegel.de/sport/absturz-eines-traditionsvereins-schattenkampf-um-schalke-04](https://www.spiegel.de/sport/absturz-eines-traditionsvereins-schattenkampf-um-schalke-04-a-0dcc1326-b8d0-47f1-aed4-f3dd57cdaa81#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-st-pauli-und-holstein-kiel-siegen-im-aufstiegsrennen](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-st-pauli-und-holstein-kiel-siegen-im-aufstiegsrennen-a-e52acd5e-ad23-4fee-a5d3-080e02227067#ref=rss)
-### alle
-
-* [https://www.spiegel.de/politik/deutschland/eu-agrarpolitik-europa-kapituliert-vor-der-bauernrandale-kommentar](https://www.spiegel.de/politik/deutschland/eu-agrarpolitik-europa-kapituliert-vor-der-bauernrandale-kommentar-a-c7c36d21-2d69-4f56-a5a2-1e0b7c87ed5e#ref=rss)
-* [https://www.spiegel.de/sport/handball/handball-deutschland-verliert-gegen-kroatien-und-bangt-um-die-olympia-qualifikation](https://www.spiegel.de/sport/handball/handball-deutschland-verliert-gegen-kroatien-und-bangt-um-die-olympia-qualifikation-a-b6d46d3b-5efd-46f1-a894-1a8ff9071751#ref=rss)
+* [https://www.spiegel.de/ausland/landmine-toetet-laut-syrischer-beobachtungsstelle-fuer-menschenrechte-mindestens-19-trueffelsucher](https://www.spiegel.de/ausland/landmine-toetet-laut-syrischer-beobachtungsstelle-fuer-menschenrechte-mindestens-19-trueffelsucher-a-64b74a3a-3ee0-49c0-af4e-56ec1ada2d4e#ref=rss)
+* [https://www.spiegel.de/ausland/haiti-deutscher-arzt-berichtet-ueber-eskalierende-banden-kriminalitaet](https://www.spiegel.de/ausland/haiti-deutscher-arzt-berichtet-ueber-eskalierende-banden-kriminalitaet-a-4449bf80-0d9b-49eb-9abd-f81afa51ca67#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/smartphones-fuer-aeltere-menschen-einrichten-so-gehts](https://www.spiegel.de/netzwelt/gadgets/smartphones-fuer-aeltere-menschen-einrichten-so-gehts-a-5bd7767b-0cb4-469f-abdd-587d78cdfd4a#ref=rss)
 ### fußballbundesliga
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-besiegt-darmstadt-98-dank-jamal-musiala-vfl-wolfsburg-unterliegt-fc-augsburg](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-besiegt-darmstadt-98-dank-jamal-musiala-vfl-wolfsburg-unterliegt-fc-augsburg-a-8c458e19-d512-45e9-85d6-935d1e730e27#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-st-pauli-und-holstein-kiel-siegen-im-aufstiegsrennen](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-st-pauli-und-holstein-kiel-siegen-im-aufstiegsrennen-a-e52acd5e-ad23-4fee-a5d3-080e02227067#ref=rss)
-### jamal
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-harry-kanes-knoechel-sorgt-den-fc-bayern](https://www.spiegel.de/sport/fussball/fussball-bundesliga-harry-kanes-knoechel-sorgt-den-fc-bayern-a-83fccc12-9f44-41eb-87cb-f2388a9527d0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-trennt-sich-von-trainer-niko-kovac](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-trennt-sich-von-trainer-niko-kovac-a-af3014f0-65b0-4885-8aaa-3b92bed30305#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hannover-96-erneut-sieglos-1-1-gegen-kaiserslautern](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hannover-96-erneut-sieglos-1-1-gegen-kaiserslautern-a-def8a71b-eade-45b7-b462-4d9d1fbe480a#ref=rss)
+### fc
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-besiegt-darmstadt-98-dank-jamal-musiala-vfl-wolfsburg-unterliegt-fc-augsburg](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-besiegt-darmstadt-98-dank-jamal-musiala-vfl-wolfsburg-unterliegt-fc-augsburg-a-8c458e19-d512-45e9-85d6-935d1e730e27#ref=rss)
-### musiala
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-harry-kanes-knoechel-sorgt-den-fc-bayern](https://www.spiegel.de/sport/fussball/fussball-bundesliga-harry-kanes-knoechel-sorgt-den-fc-bayern-a-83fccc12-9f44-41eb-87cb-f2388a9527d0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hannover-96-erneut-sieglos-1-1-gegen-kaiserslautern](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hannover-96-erneut-sieglos-1-1-gegen-kaiserslautern-a-def8a71b-eade-45b7-b462-4d9d1fbe480a#ref=rss)
+### bayern
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-besiegt-darmstadt-98-dank-jamal-musiala-vfl-wolfsburg-unterliegt-fc-augsburg](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-besiegt-darmstadt-98-dank-jamal-musiala-vfl-wolfsburg-unterliegt-fc-augsburg-a-8c458e19-d512-45e9-85d6-935d1e730e27#ref=rss)
-### wolfsburg
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-harry-kanes-knoechel-sorgt-den-fc-bayern](https://www.spiegel.de/sport/fussball/fussball-bundesliga-harry-kanes-knoechel-sorgt-den-fc-bayern-a-83fccc12-9f44-41eb-87cb-f2388a9527d0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-talente-musiala-und-pavlovic-die-junge-generation-trumpft-auf](https://www.spiegel.de/sport/fussball/fc-bayern-talente-musiala-und-pavlovic-die-junge-generation-trumpft-auf-a-522e6ad7-b0db-4c74-9d0a-899683d6ff85#ref=rss)
+### weniger
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-besiegt-darmstadt-98-dank-jamal-musiala-vfl-wolfsburg-unterliegt-fc-augsburg](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-besiegt-darmstadt-98-dank-jamal-musiala-vfl-wolfsburg-unterliegt-fc-augsburg-a-8c458e19-d512-45e9-85d6-935d1e730e27#ref=rss)
-### gelang
+* [https://www.spiegel.de/auto/elektroauto-wartung-das-maerchen-vom-unkaputtbaren-elektroauto](https://www.spiegel.de/auto/elektroauto-wartung-das-maerchen-vom-unkaputtbaren-elektroauto-a-34654d30-57c1-46a4-b176-ef96f5efa290#ref=rss)
+### langsam
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-besiegt-darmstadt-98-dank-jamal-musiala-vfl-wolfsburg-unterliegt-fc-augsburg](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-besiegt-darmstadt-98-dank-jamal-musiala-vfl-wolfsburg-unterliegt-fc-augsburg-a-8c458e19-d512-45e9-85d6-935d1e730e27#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-st-pauli-und-holstein-kiel-siegen-im-aufstiegsrennen](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-st-pauli-und-holstein-kiel-siegen-im-aufstiegsrennen-a-e52acd5e-ad23-4fee-a5d3-080e02227067#ref=rss)
-### wichtiger
+* [https://www.spiegel.de/panorama/nizza-krankenwagen-faehrt-langsam-mann-schlaegt-rettungsfahrer](https://www.spiegel.de/panorama/nizza-krankenwagen-faehrt-langsam-mann-schlaegt-rettungsfahrer-a-b2c23550-c632-420a-9e71-717fd9c38514#ref=rss)
+### kam
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-besiegt-darmstadt-98-dank-jamal-musiala-vfl-wolfsburg-unterliegt-fc-augsburg](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-besiegt-darmstadt-98-dank-jamal-musiala-vfl-wolfsburg-unterliegt-fc-augsburg-a-8c458e19-d512-45e9-85d6-935d1e730e27#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-st-pauli-und-holstein-kiel-siegen-im-aufstiegsrennen](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-st-pauli-und-holstein-kiel-siegen-im-aufstiegsrennen-a-e52acd5e-ad23-4fee-a5d3-080e02227067#ref=rss)
-### sieg
+* [https://www.spiegel.de/panorama/nizza-krankenwagen-faehrt-langsam-mann-schlaegt-rettungsfahrer](https://www.spiegel.de/panorama/nizza-krankenwagen-faehrt-langsam-mann-schlaegt-rettungsfahrer-a-b2c23550-c632-420a-9e71-717fd9c38514#ref=rss)
+* [https://www.spiegel.de/ausland/landmine-toetet-laut-syrischer-beobachtungsstelle-fuer-menschenrechte-mindestens-19-trueffelsucher](https://www.spiegel.de/ausland/landmine-toetet-laut-syrischer-beobachtungsstelle-fuer-menschenrechte-mindestens-19-trueffelsucher-a-64b74a3a-3ee0-49c0-af4e-56ec1ada2d4e#ref=rss)
+### streit
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-besiegt-darmstadt-98-dank-jamal-musiala-vfl-wolfsburg-unterliegt-fc-augsburg](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-besiegt-darmstadt-98-dank-jamal-musiala-vfl-wolfsburg-unterliegt-fc-augsburg-a-8c458e19-d512-45e9-85d6-935d1e730e27#ref=rss)
-* [https://www.spiegel.de/sport/handball/handball-deutschland-verliert-gegen-kroatien-und-bangt-um-die-olympia-qualifikation](https://www.spiegel.de/sport/handball/handball-deutschland-verliert-gegen-kroatien-und-bangt-um-die-olympia-qualifikation-a-b6d46d3b-5efd-46f1-a894-1a8ff9071751#ref=rss)
-### kroatien
+* [https://www.spiegel.de/panorama/nizza-krankenwagen-faehrt-langsam-mann-schlaegt-rettungsfahrer](https://www.spiegel.de/panorama/nizza-krankenwagen-faehrt-langsam-mann-schlaegt-rettungsfahrer-a-b2c23550-c632-420a-9e71-717fd9c38514#ref=rss)
+* [https://www.spiegel.de/wissenschaft/geologie-hat-der-mensch-wirklich-schon-ein-neues-erdzeitalter-ausgeloest](https://www.spiegel.de/wissenschaft/geologie-hat-der-mensch-wirklich-schon-ein-neues-erdzeitalter-ausgeloest-a-d5610cce-e3b2-4549-8011-91f19fc22148#ref=rss)
+### katharina
 
-* [https://www.spiegel.de/sport/handball/handball-deutschland-verliert-gegen-kroatien-und-bangt-um-die-olympia-qualifikation](https://www.spiegel.de/sport/handball/handball-deutschland-verliert-gegen-kroatien-und-bangt-um-die-olympia-qualifikation-a-b6d46d3b-5efd-46f1-a894-1a8ff9071751#ref=rss)
-### sydney
+* [https://www.spiegel.de/sport/wintersport/skifliegen-katharina-schmid-bei-premiere-vierte-silje-opseth-mit-weltrekord](https://www.spiegel.de/sport/wintersport/skifliegen-katharina-schmid-bei-premiere-vierte-silje-opseth-mit-weltrekord-a-dc05e4b6-04da-426a-950e-dff8955482f7#ref=rss)
+### schmid
 
-* [https://www.spiegel.de/sport/fussball/fussball-nationalspielerin-sydney-lohmann-verlaengert-beim-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/fussball-nationalspielerin-sydney-lohmann-verlaengert-beim-fc-bayern-muenchen-a-53dc13e6-4dc5-4d5a-8463-0f06f5b98e0b#ref=rss)
-### lohmann
+* [https://www.spiegel.de/sport/wintersport/skifliegen-katharina-schmid-bei-premiere-vierte-silje-opseth-mit-weltrekord](https://www.spiegel.de/sport/wintersport/skifliegen-katharina-schmid-bei-premiere-vierte-silje-opseth-mit-weltrekord-a-dc05e4b6-04da-426a-950e-dff8955482f7#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/sport/fussball/fussball-nationalspielerin-sydney-lohmann-verlaengert-beim-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/fussball-nationalspielerin-sydney-lohmann-verlaengert-beim-fc-bayern-muenchen-a-53dc13e6-4dc5-4d5a-8463-0f06f5b98e0b#ref=rss)
-### wladimir
+* [https://www.spiegel.de/sport/wintersport/skifliegen-katharina-schmid-bei-premiere-vierte-silje-opseth-mit-weltrekord](https://www.spiegel.de/sport/wintersport/skifliegen-katharina-schmid-bei-premiere-vierte-silje-opseth-mit-weltrekord-a-dc05e4b6-04da-426a-950e-dff8955482f7#ref=rss)
+* [https://www.spiegel.de/partnerschaft/sex-angeblich-mehr-orgasmen-im-osten-und-was-hat-fkk-damit-zu-tun](https://www.spiegel.de/partnerschaft/sex-angeblich-mehr-orgasmen-im-osten-und-was-hat-fkk-damit-zu-tun-a-1df56640-53cb-4979-8fe4-af4c44d9a384#ref=rss)
+### gelingt
 
-* [https://www.spiegel.de/ausland/wladimir-putin-wie-ein-unbekannter-zum-maechtigsten-mann-russlands-wurde-podcast](https://www.spiegel.de/ausland/wladimir-putin-wie-ein-unbekannter-zum-maechtigsten-mann-russlands-wurde-podcast-a-d90bcb44-23d6-4640-89a6-77769bcb8eb5#ref=rss)
-### putin
+* [https://www.spiegel.de/sport/wintersport/skifliegen-katharina-schmid-bei-premiere-vierte-silje-opseth-mit-weltrekord](https://www.spiegel.de/sport/wintersport/skifliegen-katharina-schmid-bei-premiere-vierte-silje-opseth-mit-weltrekord-a-dc05e4b6-04da-426a-950e-dff8955482f7#ref=rss)
+* [https://www.spiegel.de/sport/basketball/los-angeles-lakers-40-punkte-von-lebron-james-reichen-nicht-zum-sieg](https://www.spiegel.de/sport/basketball/los-angeles-lakers-40-punkte-von-lebron-james-reichen-nicht-zum-sieg-a-ccfaf0dd-68b3-4ec8-b955-eb9f489d4072#ref=rss)
+### harry
 
-* [https://www.spiegel.de/ausland/wladimir-putin-wie-ein-unbekannter-zum-maechtigsten-mann-russlands-wurde-podcast](https://www.spiegel.de/ausland/wladimir-putin-wie-ein-unbekannter-zum-maechtigsten-mann-russlands-wurde-podcast-a-d90bcb44-23d6-4640-89a6-77769bcb8eb5#ref=rss)
-### längst
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-harry-kanes-knoechel-sorgt-den-fc-bayern](https://www.spiegel.de/sport/fussball/fussball-bundesliga-harry-kanes-knoechel-sorgt-den-fc-bayern-a-83fccc12-9f44-41eb-87cb-f2388a9527d0#ref=rss)
+### darmstadt
 
-* [https://www.spiegel.de/ausland/wladimir-putin-wie-ein-unbekannter-zum-maechtigsten-mann-russlands-wurde-podcast](https://www.spiegel.de/ausland/wladimir-putin-wie-ein-unbekannter-zum-maechtigsten-mann-russlands-wurde-podcast-a-d90bcb44-23d6-4640-89a6-77769bcb8eb5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/propaganda-in-der-modernen-politik-wir-sind-in-einer-neuen-aera-der-propaganda](https://www.spiegel.de/politik/deutschland/propaganda-in-der-modernen-politik-wir-sind-in-einer-neuen-aera-der-propaganda-a-30ce993b-6bf9-4a52-856b-9fc040934ec0#ref=rss)
-### politiker
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-harry-kanes-knoechel-sorgt-den-fc-bayern](https://www.spiegel.de/sport/fussball/fussball-bundesliga-harry-kanes-knoechel-sorgt-den-fc-bayern-a-83fccc12-9f44-41eb-87cb-f2388a9527d0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-talente-musiala-und-pavlovic-die-junge-generation-trumpft-auf](https://www.spiegel.de/sport/fussball/fc-bayern-talente-musiala-und-pavlovic-die-junge-generation-trumpft-auf-a-522e6ad7-b0db-4c74-9d0a-899683d6ff85#ref=rss)
+### spiel
 
-* [https://www.spiegel.de/ausland/wladimir-putin-wie-ein-unbekannter-zum-maechtigsten-mann-russlands-wurde-podcast](https://www.spiegel.de/ausland/wladimir-putin-wie-ein-unbekannter-zum-maechtigsten-mann-russlands-wurde-podcast-a-d90bcb44-23d6-4640-89a6-77769bcb8eb5#ref=rss)
-* [https://www.spiegel.de/ausland/vaughan-gething-wird-als-erster-schwarzer-regierungschef-in-wales](https://www.spiegel.de/ausland/vaughan-gething-wird-als-erster-schwarzer-regierungschef-in-wales-a-8b870981-f7fc-4a4a-afe2-627df8e8c528#ref=rss)
-### generation
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-harry-kanes-knoechel-sorgt-den-fc-bayern](https://www.spiegel.de/sport/fussball/fussball-bundesliga-harry-kanes-knoechel-sorgt-den-fc-bayern-a-83fccc12-9f44-41eb-87cb-f2388a9527d0#ref=rss)
+* [https://www.spiegel.de/karriere/raetsel-der-woche-drei-potenzen-ein-exponent](https://www.spiegel.de/karriere/raetsel-der-woche-drei-potenzen-ein-exponent-a-e82c5dfe-afa1-470f-b628-706de43571ad#ref=rss)
+### woche
 
-* [https://www.spiegel.de/politik/letzte-generation-protest-und-blockaden-ohne-kleber-in-berlin-muenchen](https://www.spiegel.de/politik/letzte-generation-protest-und-blockaden-ohne-kleber-in-berlin-muenchen-a-b6a1eadc-5aa9-43ff-b2d5-b5d3217cd59f#ref=rss)
-### protest
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw-11-24-von-thomas-plassmann-klaus-stuttmann-und-chappatte](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw-11-24-von-thomas-plassmann-klaus-stuttmann-und-chappatte-a-ed0becbe-b105-4f60-b57d-222179215342#ref=rss)
+* [https://www.spiegel.de/karriere/raetsel-der-woche-drei-potenzen-ein-exponent](https://www.spiegel.de/karriere/raetsel-der-woche-drei-potenzen-ein-exponent-a-e82c5dfe-afa1-470f-b628-706de43571ad#ref=rss)
+### thomas
 
-* [https://www.spiegel.de/politik/letzte-generation-protest-und-blockaden-ohne-kleber-in-berlin-muenchen](https://www.spiegel.de/politik/letzte-generation-protest-und-blockaden-ohne-kleber-in-berlin-muenchen-a-b6a1eadc-5aa9-43ff-b2d5-b5d3217cd59f#ref=rss)
-* [https://www.spiegel.de/ausland/vor-protest-gegen-scheinwahlen-russen-erhalten-droh-sms](https://www.spiegel.de/ausland/vor-protest-gegen-scheinwahlen-russen-erhalten-droh-sms-a-4a51c5be-5d85-4137-8fcd-e2e2d3c47e29#ref=rss)
-### vicky
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw-11-24-von-thomas-plassmann-klaus-stuttmann-und-chappatte](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw-11-24-von-thomas-plassmann-klaus-stuttmann-und-chappatte-a-ed0becbe-b105-4f60-b57d-222179215342#ref=rss)
+### plaßmann
 
-* [https://www.spiegel.de/panorama/leute/vicky-leandros-stuerzt-von-der-buehne-und-singt-gleich-weiter](https://www.spiegel.de/panorama/leute/vicky-leandros-stuerzt-von-der-buehne-und-singt-gleich-weiter-a-64728b0f-0f54-4f07-aafc-17b84c12098e#ref=rss)
-### leandros
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw-11-24-von-thomas-plassmann-klaus-stuttmann-und-chappatte](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw-11-24-von-thomas-plassmann-klaus-stuttmann-und-chappatte-a-ed0becbe-b105-4f60-b57d-222179215342#ref=rss)
+### klaus
 
-* [https://www.spiegel.de/panorama/leute/vicky-leandros-stuerzt-von-der-buehne-und-singt-gleich-weiter](https://www.spiegel.de/panorama/leute/vicky-leandros-stuerzt-von-der-buehne-und-singt-gleich-weiter-a-64728b0f-0f54-4f07-aafc-17b84c12098e#ref=rss)
-### großes
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw-11-24-von-thomas-plassmann-klaus-stuttmann-und-chappatte](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw-11-24-von-thomas-plassmann-klaus-stuttmann-und-chappatte-a-ed0becbe-b105-4f60-b57d-222179215342#ref=rss)
+### stuttmann
 
-* [https://www.spiegel.de/panorama/leute/vicky-leandros-stuerzt-von-der-buehne-und-singt-gleich-weiter](https://www.spiegel.de/panorama/leute/vicky-leandros-stuerzt-von-der-buehne-und-singt-gleich-weiter-a-64728b0f-0f54-4f07-aafc-17b84c12098e#ref=rss)
-* [https://www.spiegel.de/politik/israel-und-palaestina-kanzler-scholz-warnt-netanyahu-vor-offensive-in-rafah](https://www.spiegel.de/politik/israel-und-palaestina-kanzler-scholz-warnt-netanyahu-vor-offensive-in-rafah-a-e8c6d46b-7149-45f6-8af6-5d66ab860070#ref=rss)
-### ließ
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw-11-24-von-thomas-plassmann-klaus-stuttmann-und-chappatte](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw-11-24-von-thomas-plassmann-klaus-stuttmann-und-chappatte-a-ed0becbe-b105-4f60-b57d-222179215342#ref=rss)
+### chappatte
 
-* [https://www.spiegel.de/panorama/leute/vicky-leandros-stuerzt-von-der-buehne-und-singt-gleich-weiter](https://www.spiegel.de/panorama/leute/vicky-leandros-stuerzt-von-der-buehne-und-singt-gleich-weiter-a-64728b0f-0f54-4f07-aafc-17b84c12098e#ref=rss)
-* [https://www.spiegel.de/sport/american-football/football-star-aaron-donald-hoert-auf-er-war-der-beste-nfl-verteidiger-seiner-zeit](https://www.spiegel.de/sport/american-football/football-star-aaron-donald-hoert-auf-er-war-der-beste-nfl-verteidiger-seiner-zeit-a-cc2fd91e-f652-4fb3-9cb5-bb0d274f2c94#ref=rss)
-### aaron
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw-11-24-von-thomas-plassmann-klaus-stuttmann-und-chappatte](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw-11-24-von-thomas-plassmann-klaus-stuttmann-und-chappatte-a-ed0becbe-b105-4f60-b57d-222179215342#ref=rss)
+### wahl
 
-* [https://www.spiegel.de/sport/american-football/football-star-aaron-donald-hoert-auf-er-war-der-beste-nfl-verteidiger-seiner-zeit](https://www.spiegel.de/sport/american-football/football-star-aaron-donald-hoert-auf-er-war-der-beste-nfl-verteidiger-seiner-zeit-a-cc2fd91e-f652-4fb3-9cb5-bb0d274f2c94#ref=rss)
-### donald
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw-11-24-von-thomas-plassmann-klaus-stuttmann-und-chappatte](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw-11-24-von-thomas-plassmann-klaus-stuttmann-und-chappatte-a-ed0becbe-b105-4f60-b57d-222179215342#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-russland-angriffe-auf-russisches-grenzgebiet-stoeren-wladimir-putins-wiederwahl](https://www.spiegel.de/ausland/wahl-in-russland-angriffe-auf-russisches-grenzgebiet-stoeren-wladimir-putins-wiederwahl-a-9f1f7e23-5277-4ed0-86b2-60fcf195cb73#ref=rss)
+### kinder
 
-* [https://www.spiegel.de/sport/american-football/football-star-aaron-donald-hoert-auf-er-war-der-beste-nfl-verteidiger-seiner-zeit](https://www.spiegel.de/sport/american-football/football-star-aaron-donald-hoert-auf-er-war-der-beste-nfl-verteidiger-seiner-zeit-a-cc2fd91e-f652-4fb3-9cb5-bb0d274f2c94#ref=rss)
-### israel
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw-11-24-von-thomas-plassmann-klaus-stuttmann-und-chappatte](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw-11-24-von-thomas-plassmann-klaus-stuttmann-und-chappatte-a-ed0becbe-b105-4f60-b57d-222179215342#ref=rss)
+* [https://www.spiegel.de/wissenschaft/kuck-mal-wer-da-denkt](https://www.spiegel.de/wissenschaft/kuck-mal-wer-da-denkt-a-bc21055d-3f76-4216-b478-dc0a4eca4ddd#ref=rss)
+### sehen
 
-* [https://www.spiegel.de/politik/israel-und-palaestina-kanzler-scholz-warnt-netanyahu-vor-offensive-in-rafah](https://www.spiegel.de/politik/israel-und-palaestina-kanzler-scholz-warnt-netanyahu-vor-offensive-in-rafah-a-e8c6d46b-7149-45f6-8af6-5d66ab860070#ref=rss)
-### scholz
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw-11-24-von-thomas-plassmann-klaus-stuttmann-und-chappatte](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw-11-24-von-thomas-plassmann-klaus-stuttmann-und-chappatte-a-ed0becbe-b105-4f60-b57d-222179215342#ref=rss)
+* [https://www.spiegel.de/panorama/leute/berlin-krankenpfleger-bastian-gassl-ueberklebt-nazi-symbole-bei-patienten](https://www.spiegel.de/panorama/leute/berlin-krankenpfleger-bastian-gassl-ueberklebt-nazi-symbole-bei-patienten-a-52fbe007-23ed-489c-a1d7-22982fa144e2#ref=rss)
+### verteidigungsminister
 
-* [https://www.spiegel.de/politik/israel-und-palaestina-kanzler-scholz-warnt-netanyahu-vor-offensive-in-rafah](https://www.spiegel.de/politik/israel-und-palaestina-kanzler-scholz-warnt-netanyahu-vor-offensive-in-rafah-a-e8c6d46b-7149-45f6-8af6-5d66ab860070#ref=rss)
-### rafah
+* [https://www.spiegel.de/ausland/britischer-minister-sagt-odessa-besuch-aus-sicherheitsgruenden-ab](https://www.spiegel.de/ausland/britischer-minister-sagt-odessa-besuch-aus-sicherheitsgruenden-ab-a-afc38a54-1738-4a10-adae-074cb7243f37#ref=rss)
+### eintracht
 
-* [https://www.spiegel.de/politik/israel-und-palaestina-kanzler-scholz-warnt-netanyahu-vor-offensive-in-rafah](https://www.spiegel.de/politik/israel-und-palaestina-kanzler-scholz-warnt-netanyahu-vor-offensive-in-rafah-a-e8c6d46b-7149-45f6-8af6-5d66ab860070#ref=rss)
-### regierungschef
+* [https://www.spiegel.de/sport/eintracht-frankfurt-und-der-kolo-muani-transfer-drei-minuten-zeit-fuer-95-millionen](https://www.spiegel.de/sport/eintracht-frankfurt-und-der-kolo-muani-transfer-drei-minuten-zeit-fuer-95-millionen-a-5f9046d5-e1cb-4eff-9a58-adec7c9a779a#ref=rss)
+### frankfurt
 
-* [https://www.spiegel.de/politik/israel-und-palaestina-kanzler-scholz-warnt-netanyahu-vor-offensive-in-rafah](https://www.spiegel.de/politik/israel-und-palaestina-kanzler-scholz-warnt-netanyahu-vor-offensive-in-rafah-a-e8c6d46b-7149-45f6-8af6-5d66ab860070#ref=rss)
-* [https://www.spiegel.de/ausland/vaughan-gething-wird-als-erster-schwarzer-regierungschef-in-wales](https://www.spiegel.de/ausland/vaughan-gething-wird-als-erster-schwarzer-regierungschef-in-wales-a-8b870981-f7fc-4a4a-afe2-627df8e8c528#ref=rss)
-### eltern
-
-* [https://www.spiegel.de/panorama/eltern-beklagen-immer-mehr-stress-umfrage-der-kaufmaennischen-krankenkasse-kkh](https://www.spiegel.de/panorama/eltern-beklagen-immer-mehr-stress-umfrage-der-kaufmaennischen-krankenkasse-kkh-a-26047343-e189-4713-8b60-220e9c50dbb5#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/eltern-beklagen-immer-mehr-stress-umfrage-der-kaufmaennischen-krankenkasse-kkh](https://www.spiegel.de/panorama/eltern-beklagen-immer-mehr-stress-umfrage-der-kaufmaennischen-krankenkasse-kkh-a-26047343-e189-4713-8b60-220e9c50dbb5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/propaganda-in-der-modernen-politik-wir-sind-in-einer-neuen-aera-der-propaganda](https://www.spiegel.de/politik/deutschland/propaganda-in-der-modernen-politik-wir-sind-in-einer-neuen-aera-der-propaganda-a-30ce993b-6bf9-4a52-856b-9fc040934ec0#ref=rss)
-### umfrage
-
-* [https://www.spiegel.de/panorama/eltern-beklagen-immer-mehr-stress-umfrage-der-kaufmaennischen-krankenkasse-kkh](https://www.spiegel.de/panorama/eltern-beklagen-immer-mehr-stress-umfrage-der-kaufmaennischen-krankenkasse-kkh-a-26047343-e189-4713-8b60-220e9c50dbb5#ref=rss)
-### krankenkasse
-
-* [https://www.spiegel.de/panorama/eltern-beklagen-immer-mehr-stress-umfrage-der-kaufmaennischen-krankenkasse-kkh](https://www.spiegel.de/panorama/eltern-beklagen-immer-mehr-stress-umfrage-der-kaufmaennischen-krankenkasse-kkh-a-26047343-e189-4713-8b60-220e9c50dbb5#ref=rss)
-### bekannt
-
-* [https://www.spiegel.de/panorama/eltern-beklagen-immer-mehr-stress-umfrage-der-kaufmaennischen-krankenkasse-kkh](https://www.spiegel.de/panorama/eltern-beklagen-immer-mehr-stress-umfrage-der-kaufmaennischen-krankenkasse-kkh-a-26047343-e189-4713-8b60-220e9c50dbb5#ref=rss)
-* [https://www.spiegel.de/ausland/brand-auf-britischem-flugzeugtraeger-hms-queen-elizabeth](https://www.spiegel.de/ausland/brand-auf-britischem-flugzeugtraeger-hms-queen-elizabeth-a-a45ef0bf-a27c-46dc-8074-a9ac06b35a0b#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/panorama/eltern-beklagen-immer-mehr-stress-umfrage-der-kaufmaennischen-krankenkasse-kkh](https://www.spiegel.de/panorama/eltern-beklagen-immer-mehr-stress-umfrage-der-kaufmaennischen-krankenkasse-kkh-a-26047343-e189-4713-8b60-220e9c50dbb5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-aussagen-spd-parteichef-lars-klingbeil-nimmt-rolf-muetzenich-in-schutz](https://www.spiegel.de/politik/deutschland/ukraine-aussagen-spd-parteichef-lars-klingbeil-nimmt-rolf-muetzenich-in-schutz-a-df577d36-9008-42bc-89d1-af332cacc69b#ref=rss)
-### klingbeil
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-aussagen-spd-parteichef-lars-klingbeil-nimmt-rolf-muetzenich-in-schutz](https://www.spiegel.de/politik/deutschland/ukraine-aussagen-spd-parteichef-lars-klingbeil-nimmt-rolf-muetzenich-in-schutz-a-df577d36-9008-42bc-89d1-af332cacc69b#ref=rss)
-### mützenich
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-aussagen-spd-parteichef-lars-klingbeil-nimmt-rolf-muetzenich-in-schutz](https://www.spiegel.de/politik/deutschland/ukraine-aussagen-spd-parteichef-lars-klingbeil-nimmt-rolf-muetzenich-in-schutz-a-df577d36-9008-42bc-89d1-af332cacc69b#ref=rss)
-### st
-
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-st-pauli-und-holstein-kiel-siegen-im-aufstiegsrennen](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-st-pauli-und-holstein-kiel-siegen-im-aufstiegsrennen-a-e52acd5e-ad23-4fee-a5d3-080e02227067#ref=rss)
-### pauli
-
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-st-pauli-und-holstein-kiel-siegen-im-aufstiegsrennen](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-st-pauli-und-holstein-kiel-siegen-im-aufstiegsrennen-a-e52acd5e-ad23-4fee-a5d3-080e02227067#ref=rss)
-### holstein
-
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-st-pauli-und-holstein-kiel-siegen-im-aufstiegsrennen](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-st-pauli-und-holstein-kiel-siegen-im-aufstiegsrennen-a-e52acd5e-ad23-4fee-a5d3-080e02227067#ref=rss)
-### kiel
-
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-st-pauli-und-holstein-kiel-siegen-im-aufstiegsrennen](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-st-pauli-und-holstein-kiel-siegen-im-aufstiegsrennen-a-e52acd5e-ad23-4fee-a5d3-080e02227067#ref=rss)
-### vaughan
-
-* [https://www.spiegel.de/ausland/vaughan-gething-wird-als-erster-schwarzer-regierungschef-in-wales](https://www.spiegel.de/ausland/vaughan-gething-wird-als-erster-schwarzer-regierungschef-in-wales-a-8b870981-f7fc-4a4a-afe2-627df8e8c528#ref=rss)
-### gething
-
-* [https://www.spiegel.de/ausland/vaughan-gething-wird-als-erster-schwarzer-regierungschef-in-wales](https://www.spiegel.de/ausland/vaughan-gething-wird-als-erster-schwarzer-regierungschef-in-wales-a-8b870981-f7fc-4a4a-afe2-627df8e8c528#ref=rss)
-### erster
-
-* [https://www.spiegel.de/ausland/vaughan-gething-wird-als-erster-schwarzer-regierungschef-in-wales](https://www.spiegel.de/ausland/vaughan-gething-wird-als-erster-schwarzer-regierungschef-in-wales-a-8b870981-f7fc-4a4a-afe2-627df8e8c528#ref=rss)
-### wales
-
-* [https://www.spiegel.de/ausland/vaughan-gething-wird-als-erster-schwarzer-regierungschef-in-wales](https://www.spiegel.de/ausland/vaughan-gething-wird-als-erster-schwarzer-regierungschef-in-wales-a-8b870981-f7fc-4a4a-afe2-627df8e8c528#ref=rss)
+* [https://www.spiegel.de/sport/eintracht-frankfurt-und-der-kolo-muani-transfer-drei-minuten-zeit-fuer-95-millionen](https://www.spiegel.de/sport/eintracht-frankfurt-und-der-kolo-muani-transfer-drei-minuten-zeit-fuer-95-millionen-a-5f9046d5-e1cb-4eff-9a58-adec7c9a779a#ref=rss)
 ### drei
 
-* [https://www.spiegel.de/ausland/vaughan-gething-wird-als-erster-schwarzer-regierungschef-in-wales](https://www.spiegel.de/ausland/vaughan-gething-wird-als-erster-schwarzer-regierungschef-in-wales-a-8b870981-f7fc-4a4a-afe2-627df8e8c528#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-drei-maenner-bei-streit-im-dong-xuan-center-lebensbedrohlich-verletzt](https://www.spiegel.de/panorama/berlin-drei-maenner-bei-streit-im-dong-xuan-center-lebensbedrohlich-verletzt-a-dee08258-7a77-4dfc-8ad0-90aa59c17f56#ref=rss)
-### flugzeugträger
+* [https://www.spiegel.de/sport/eintracht-frankfurt-und-der-kolo-muani-transfer-drei-minuten-zeit-fuer-95-millionen](https://www.spiegel.de/sport/eintracht-frankfurt-und-der-kolo-muani-transfer-drei-minuten-zeit-fuer-95-millionen-a-5f9046d5-e1cb-4eff-9a58-adec7c9a779a#ref=rss)
+* [https://www.spiegel.de/karriere/raetsel-der-woche-drei-potenzen-ein-exponent](https://www.spiegel.de/karriere/raetsel-der-woche-drei-potenzen-ein-exponent-a-e82c5dfe-afa1-470f-b628-706de43571ad#ref=rss)
+### minuten
 
-* [https://www.spiegel.de/ausland/brand-auf-britischem-flugzeugtraeger-hms-queen-elizabeth](https://www.spiegel.de/ausland/brand-auf-britischem-flugzeugtraeger-hms-queen-elizabeth-a-a45ef0bf-a27c-46dc-8074-a9ac06b35a0b#ref=rss)
-### hms
+* [https://www.spiegel.de/sport/eintracht-frankfurt-und-der-kolo-muani-transfer-drei-minuten-zeit-fuer-95-millionen](https://www.spiegel.de/sport/eintracht-frankfurt-und-der-kolo-muani-transfer-drei-minuten-zeit-fuer-95-millionen-a-5f9046d5-e1cb-4eff-9a58-adec7c9a779a#ref=rss)
+* [https://www.spiegel.de/sport/boxen-max-suske-verliert-wm-kampf-bange-minuten-nach-knockout](https://www.spiegel.de/sport/boxen-max-suske-verliert-wm-kampf-bange-minuten-nach-knockout-a-22a1eeb5-3f49-4cc4-8cf9-98c34157dd02#ref=rss)
+### letzter
 
-* [https://www.spiegel.de/ausland/brand-auf-britischem-flugzeugtraeger-hms-queen-elizabeth](https://www.spiegel.de/ausland/brand-auf-britischem-flugzeugtraeger-hms-queen-elizabeth-a-a45ef0bf-a27c-46dc-8074-a9ac06b35a0b#ref=rss)
-### queen
+* [https://www.spiegel.de/sport/eintracht-frankfurt-und-der-kolo-muani-transfer-drei-minuten-zeit-fuer-95-millionen](https://www.spiegel.de/sport/eintracht-frankfurt-und-der-kolo-muani-transfer-drei-minuten-zeit-fuer-95-millionen-a-5f9046d5-e1cb-4eff-9a58-adec7c9a779a#ref=rss)
+* [https://www.spiegel.de/ausland/niger-beendet-militaerkooperation-mit-den-usa-mit-sofortiger-wirkung](https://www.spiegel.de/ausland/niger-beendet-militaerkooperation-mit-den-usa-mit-sofortiger-wirkung-a-d3bab4bd-5a81-4e51-b200-92a3224ee154#ref=rss)
+### beet
 
-* [https://www.spiegel.de/ausland/brand-auf-britischem-flugzeugtraeger-hms-queen-elizabeth](https://www.spiegel.de/ausland/brand-auf-britischem-flugzeugtraeger-hms-queen-elizabeth-a-a45ef0bf-a27c-46dc-8074-a9ac06b35a0b#ref=rss)
-### elizabeth
+* [https://www.spiegel.de/stil/fruehlingsgefuehle-im-beet-und-anderswo-der-wurm-drin-die-gartenkolumne](https://www.spiegel.de/stil/fruehlingsgefuehle-im-beet-und-anderswo-der-wurm-drin-die-gartenkolumne-a-6c406f12-ff95-4140-9546-f14134e9aa28#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/ausland/brand-auf-britischem-flugzeugtraeger-hms-queen-elizabeth](https://www.spiegel.de/ausland/brand-auf-britischem-flugzeugtraeger-hms-queen-elizabeth-a-a45ef0bf-a27c-46dc-8074-a9ac06b35a0b#ref=rss)
-### giorgi
+* [https://www.spiegel.de/panorama/leute/berlin-krankenpfleger-bastian-gassl-ueberklebt-nazi-symbole-bei-patienten](https://www.spiegel.de/panorama/leute/berlin-krankenpfleger-bastian-gassl-ueberklebt-nazi-symbole-bei-patienten-a-52fbe007-23ed-489c-a1d7-22982fa144e2#ref=rss)
+### krankenpfleger
 
-* [https://www.spiegel.de/panorama/fitness-influencer-giorgi-tzane-janelidze-stirbt-in-italien-nach-sturz-in-eine-schlucht](https://www.spiegel.de/panorama/fitness-influencer-giorgi-tzane-janelidze-stirbt-in-italien-nach-sturz-in-eine-schlucht-a-39bdbcb8-3d2e-4aff-b099-5483d9a1cc53#ref=rss)
-### tzane
+* [https://www.spiegel.de/panorama/leute/berlin-krankenpfleger-bastian-gassl-ueberklebt-nazi-symbole-bei-patienten](https://www.spiegel.de/panorama/leute/berlin-krankenpfleger-bastian-gassl-ueberklebt-nazi-symbole-bei-patienten-a-52fbe007-23ed-489c-a1d7-22982fa144e2#ref=rss)
+### bastian
 
-* [https://www.spiegel.de/panorama/fitness-influencer-giorgi-tzane-janelidze-stirbt-in-italien-nach-sturz-in-eine-schlucht](https://www.spiegel.de/panorama/fitness-influencer-giorgi-tzane-janelidze-stirbt-in-italien-nach-sturz-in-eine-schlucht-a-39bdbcb8-3d2e-4aff-b099-5483d9a1cc53#ref=rss)
-### janelidze
+* [https://www.spiegel.de/panorama/leute/berlin-krankenpfleger-bastian-gassl-ueberklebt-nazi-symbole-bei-patienten](https://www.spiegel.de/panorama/leute/berlin-krankenpfleger-bastian-gassl-ueberklebt-nazi-symbole-bei-patienten-a-52fbe007-23ed-489c-a1d7-22982fa144e2#ref=rss)
+### gassl
 
-* [https://www.spiegel.de/panorama/fitness-influencer-giorgi-tzane-janelidze-stirbt-in-italien-nach-sturz-in-eine-schlucht](https://www.spiegel.de/panorama/fitness-influencer-giorgi-tzane-janelidze-stirbt-in-italien-nach-sturz-in-eine-schlucht-a-39bdbcb8-3d2e-4aff-b099-5483d9a1cc53#ref=rss)
-### balkon
+* [https://www.spiegel.de/panorama/leute/berlin-krankenpfleger-bastian-gassl-ueberklebt-nazi-symbole-bei-patienten](https://www.spiegel.de/panorama/leute/berlin-krankenpfleger-bastian-gassl-ueberklebt-nazi-symbole-bei-patienten-a-52fbe007-23ed-489c-a1d7-22982fa144e2#ref=rss)
+### überklebt
 
-* [https://www.spiegel.de/panorama/fitness-influencer-giorgi-tzane-janelidze-stirbt-in-italien-nach-sturz-in-eine-schlucht](https://www.spiegel.de/panorama/fitness-influencer-giorgi-tzane-janelidze-stirbt-in-italien-nach-sturz-in-eine-schlucht-a-39bdbcb8-3d2e-4aff-b099-5483d9a1cc53#ref=rss)
-* [https://www.spiegel.de/tests/kueche/tischgrills-im-test-diese-grillsaison-endet-nie](https://www.spiegel.de/tests/kueche/tischgrills-im-test-diese-grillsaison-endet-nie-a-cf26c58a-de8c-4207-a66a-47b58fada5d6#ref=rss)
-### zurück
+* [https://www.spiegel.de/panorama/leute/berlin-krankenpfleger-bastian-gassl-ueberklebt-nazi-symbole-bei-patienten](https://www.spiegel.de/panorama/leute/berlin-krankenpfleger-bastian-gassl-ueberklebt-nazi-symbole-bei-patienten-a-52fbe007-23ed-489c-a1d7-22982fa144e2#ref=rss)
+### patienten
 
-* [https://www.spiegel.de/familie/familie-wie-ich-lernte-dass-ich-meine-kinder-nicht-bespassen-muss](https://www.spiegel.de/familie/familie-wie-ich-lernte-dass-ich-meine-kinder-nicht-bespassen-muss-a-184ed2f4-cf2d-4665-bbbe-3284fae188f1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/propaganda-in-der-modernen-politik-wir-sind-in-einer-neuen-aera-der-propaganda](https://www.spiegel.de/politik/deutschland/propaganda-in-der-modernen-politik-wir-sind-in-einer-neuen-aera-der-propaganda-a-30ce993b-6bf9-4a52-856b-9fc040934ec0#ref=rss)
-### wirklich
+* [https://www.spiegel.de/panorama/leute/berlin-krankenpfleger-bastian-gassl-ueberklebt-nazi-symbole-bei-patienten](https://www.spiegel.de/panorama/leute/berlin-krankenpfleger-bastian-gassl-ueberklebt-nazi-symbole-bei-patienten-a-52fbe007-23ed-489c-a1d7-22982fa144e2#ref=rss)
+### los
 
-* [https://www.spiegel.de/familie/familie-wie-ich-lernte-dass-ich-meine-kinder-nicht-bespassen-muss](https://www.spiegel.de/familie/familie-wie-ich-lernte-dass-ich-meine-kinder-nicht-bespassen-muss-a-184ed2f4-cf2d-4665-bbbe-3284fae188f1#ref=rss)
-* [https://www.spiegel.de/tests/kueche/tischgrills-im-test-diese-grillsaison-endet-nie](https://www.spiegel.de/tests/kueche/tischgrills-im-test-diese-grillsaison-endet-nie-a-cf26c58a-de8c-4207-a66a-47b58fada5d6#ref=rss)
-### politik
+* [https://www.spiegel.de/sport/basketball/los-angeles-lakers-40-punkte-von-lebron-james-reichen-nicht-zum-sieg](https://www.spiegel.de/sport/basketball/los-angeles-lakers-40-punkte-von-lebron-james-reichen-nicht-zum-sieg-a-ccfaf0dd-68b3-4ec8-b955-eb9f489d4072#ref=rss)
+### angeles
 
-* [https://www.spiegel.de/politik/deutschland/propaganda-in-der-modernen-politik-wir-sind-in-einer-neuen-aera-der-propaganda](https://www.spiegel.de/politik/deutschland/propaganda-in-der-modernen-politik-wir-sind-in-einer-neuen-aera-der-propaganda-a-30ce993b-6bf9-4a52-856b-9fc040934ec0#ref=rss)
+* [https://www.spiegel.de/sport/basketball/los-angeles-lakers-40-punkte-von-lebron-james-reichen-nicht-zum-sieg](https://www.spiegel.de/sport/basketball/los-angeles-lakers-40-punkte-von-lebron-james-reichen-nicht-zum-sieg-a-ccfaf0dd-68b3-4ec8-b955-eb9f489d4072#ref=rss)
+### lakers
+
+* [https://www.spiegel.de/sport/basketball/los-angeles-lakers-40-punkte-von-lebron-james-reichen-nicht-zum-sieg](https://www.spiegel.de/sport/basketball/los-angeles-lakers-40-punkte-von-lebron-james-reichen-nicht-zum-sieg-a-ccfaf0dd-68b3-4ec8-b955-eb9f489d4072#ref=rss)
+### sieg
+
+* [https://www.spiegel.de/sport/basketball/los-angeles-lakers-40-punkte-von-lebron-james-reichen-nicht-zum-sieg](https://www.spiegel.de/sport/basketball/los-angeles-lakers-40-punkte-von-lebron-james-reichen-nicht-zum-sieg-a-ccfaf0dd-68b3-4ec8-b955-eb9f489d4072#ref=rss)
+### wichtiger
+
+* [https://www.spiegel.de/sport/basketball/los-angeles-lakers-40-punkte-von-lebron-james-reichen-nicht-zum-sieg](https://www.spiegel.de/sport/basketball/los-angeles-lakers-40-punkte-von-lebron-james-reichen-nicht-zum-sieg-a-ccfaf0dd-68b3-4ec8-b955-eb9f489d4072#ref=rss)
+* [https://www.spiegel.de/partnerschaft/sex-angeblich-mehr-orgasmen-im-osten-und-was-hat-fkk-damit-zu-tun](https://www.spiegel.de/partnerschaft/sex-angeblich-mehr-orgasmen-im-osten-und-was-hat-fkk-damit-zu-tun-a-1df56640-53cb-4979-8fe4-af4c44d9a384#ref=rss)
+### johannes
+
+* [https://www.spiegel.de/sport/wintersport/biathlon-johannes-bo-feiert-gesamtweltcup-vor-seinem-bruder](https://www.spiegel.de/sport/wintersport/biathlon-johannes-bo-feiert-gesamtweltcup-vor-seinem-bruder-a-a0a0e43e-bf31-4ce5-8c06-bf2c1df72182#ref=rss)
+### bruder
+
+* [https://www.spiegel.de/sport/wintersport/biathlon-johannes-bo-feiert-gesamtweltcup-vor-seinem-bruder](https://www.spiegel.de/sport/wintersport/biathlon-johannes-bo-feiert-gesamtweltcup-vor-seinem-bruder-a-a0a0e43e-bf31-4ce5-8c06-bf2c1df72182#ref=rss)
+### kommen
+
+* [https://www.spiegel.de/sport/wintersport/biathlon-johannes-bo-feiert-gesamtweltcup-vor-seinem-bruder](https://www.spiegel.de/sport/wintersport/biathlon-johannes-bo-feiert-gesamtweltcup-vor-seinem-bruder-a-a0a0e43e-bf31-4ce5-8c06-bf2c1df72182#ref=rss)
+* [https://www.spiegel.de/karriere/raetsel-der-woche-drei-potenzen-ein-exponent](https://www.spiegel.de/karriere/raetsel-der-woche-drei-potenzen-ein-exponent-a-e82c5dfe-afa1-470f-b628-706de43571ad#ref=rss)
+### suske
+
+* [https://www.spiegel.de/sport/boxen-max-suske-verliert-wm-kampf-bange-minuten-nach-knockout](https://www.spiegel.de/sport/boxen-max-suske-verliert-wm-kampf-bange-minuten-nach-knockout-a-22a1eeb5-3f49-4cc4-8cf9-98c34157dd02#ref=rss)
+### knockout
+
+* [https://www.spiegel.de/sport/boxen-max-suske-verliert-wm-kampf-bange-minuten-nach-knockout](https://www.spiegel.de/sport/boxen-max-suske-verliert-wm-kampf-bange-minuten-nach-knockout-a-22a1eeb5-3f49-4cc4-8cf9-98c34157dd02#ref=rss)
+### kampf
+
+* [https://www.spiegel.de/sport/boxen-max-suske-verliert-wm-kampf-bange-minuten-nach-knockout](https://www.spiegel.de/sport/boxen-max-suske-verliert-wm-kampf-bange-minuten-nach-knockout-a-22a1eeb5-3f49-4cc4-8cf9-98c34157dd02#ref=rss)
+### vfl
+
+* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-trennt-sich-von-trainer-niko-kovac](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-trennt-sich-von-trainer-niko-kovac-a-af3014f0-65b0-4885-8aaa-3b92bed30305#ref=rss)
+### wolfsburg
+
+* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-trennt-sich-von-trainer-niko-kovac](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-trennt-sich-von-trainer-niko-kovac-a-af3014f0-65b0-4885-8aaa-3b92bed30305#ref=rss)
+### trainer
+
+* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-trennt-sich-von-trainer-niko-kovac](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-trennt-sich-von-trainer-niko-kovac-a-af3014f0-65b0-4885-8aaa-3b92bed30305#ref=rss)
+### niko
+
+* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-trennt-sich-von-trainer-niko-kovac](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-trennt-sich-von-trainer-niko-kovac-a-af3014f0-65b0-4885-8aaa-3b92bed30305#ref=rss)
+### kovač
+
+* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-trennt-sich-von-trainer-niko-kovac](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-trennt-sich-von-trainer-niko-kovac-a-af3014f0-65b0-4885-8aaa-3b92bed30305#ref=rss)
+### laut
+
+* [https://www.spiegel.de/ausland/landmine-toetet-laut-syrischer-beobachtungsstelle-fuer-menschenrechte-mindestens-19-trueffelsucher](https://www.spiegel.de/ausland/landmine-toetet-laut-syrischer-beobachtungsstelle-fuer-menschenrechte-mindestens-19-trueffelsucher-a-64b74a3a-3ee0-49c0-af4e-56ec1ada2d4e#ref=rss)
+### musiala
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-talente-musiala-und-pavlovic-die-junge-generation-trumpft-auf](https://www.spiegel.de/sport/fussball/fc-bayern-talente-musiala-und-pavlovic-die-junge-generation-trumpft-auf-a-522e6ad7-b0db-4c74-9d0a-899683d6ff85#ref=rss)
+### pavlovic
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-talente-musiala-und-pavlovic-die-junge-generation-trumpft-auf](https://www.spiegel.de/sport/fussball/fc-bayern-talente-musiala-und-pavlovic-die-junge-generation-trumpft-auf-a-522e6ad7-b0db-4c74-9d0a-899683d6ff85#ref=rss)
+### ursula
+
+* [https://www.spiegel.de/ausland/ursula-von-der-leyen-eu-will-aegypten-milliardenschweres-finanzierungspaket-zusagen](https://www.spiegel.de/ausland/ursula-von-der-leyen-eu-will-aegypten-milliardenschweres-finanzierungspaket-zusagen-a-5a960523-2ad1-49bc-b296-3e28a9a1ec4c#ref=rss)
+### leyen
+
+* [https://www.spiegel.de/ausland/ursula-von-der-leyen-eu-will-aegypten-milliardenschweres-finanzierungspaket-zusagen](https://www.spiegel.de/ausland/ursula-von-der-leyen-eu-will-aegypten-milliardenschweres-finanzierungspaket-zusagen-a-5a960523-2ad1-49bc-b296-3e28a9a1ec4c#ref=rss)
+### zusagen
+
+* [https://www.spiegel.de/ausland/ursula-von-der-leyen-eu-will-aegypten-milliardenschweres-finanzierungspaket-zusagen](https://www.spiegel.de/ausland/ursula-von-der-leyen-eu-will-aegypten-milliardenschweres-finanzierungspaket-zusagen-a-5a960523-2ad1-49bc-b296-3e28a9a1ec4c#ref=rss)
+### europäischen
+
+* [https://www.spiegel.de/ausland/ursula-von-der-leyen-eu-will-aegypten-milliardenschweres-finanzierungspaket-zusagen](https://www.spiegel.de/ausland/ursula-von-der-leyen-eu-will-aegypten-milliardenschweres-finanzierungspaket-zusagen-a-5a960523-2ad1-49bc-b296-3e28a9a1ec4c#ref=rss)
+* [https://www.spiegel.de/ausland/niger-beendet-militaerkooperation-mit-den-usa-mit-sofortiger-wirkung](https://www.spiegel.de/ausland/niger-beendet-militaerkooperation-mit-den-usa-mit-sofortiger-wirkung-a-d3bab4bd-5a81-4e51-b200-92a3224ee154#ref=rss)
+### slowakei
+
+* [https://www.spiegel.de/panorama/slowakei-frau-flieht-vor-einem-baeren-und-stuerzt-in-die-tiefe](https://www.spiegel.de/panorama/slowakei-frau-flieht-vor-einem-baeren-und-stuerzt-in-die-tiefe-a-2568cadd-c1cf-4d10-95de-fc584b9f3738#ref=rss)
+### frau
+
+* [https://www.spiegel.de/panorama/slowakei-frau-flieht-vor-einem-baeren-und-stuerzt-in-die-tiefe](https://www.spiegel.de/panorama/slowakei-frau-flieht-vor-einem-baeren-und-stuerzt-in-die-tiefe-a-2568cadd-c1cf-4d10-95de-fc584b9f3738#ref=rss)
+### bären
+
+* [https://www.spiegel.de/panorama/slowakei-frau-flieht-vor-einem-baeren-und-stuerzt-in-die-tiefe](https://www.spiegel.de/panorama/slowakei-frau-flieht-vor-einem-baeren-und-stuerzt-in-die-tiefe-a-2568cadd-c1cf-4d10-95de-fc584b9f3738#ref=rss)
+### daniela
+
+* [https://www.spiegel.de/politik/raf-warum-die-verhaftung-von-daniela-klette-mich-zum-patriotismus-fuehrt-kolumne](https://www.spiegel.de/politik/raf-warum-die-verhaftung-von-daniela-klette-mich-zum-patriotismus-fuehrt-kolumne-a-ff695cd3-0283-48d4-9858-bf6ec6fbdf19#ref=rss)
+### klette
+
+* [https://www.spiegel.de/politik/raf-warum-die-verhaftung-von-daniela-klette-mich-zum-patriotismus-fuehrt-kolumne](https://www.spiegel.de/politik/raf-warum-die-verhaftung-von-daniela-klette-mich-zum-patriotismus-fuehrt-kolumne-a-ff695cd3-0283-48d4-9858-bf6ec6fbdf19#ref=rss)
+### potenzen
+
+* [https://www.spiegel.de/karriere/raetsel-der-woche-drei-potenzen-ein-exponent](https://www.spiegel.de/karriere/raetsel-der-woche-drei-potenzen-ein-exponent-a-e82c5dfe-afa1-470f-b628-706de43571ad#ref=rss)
 ### wir
 
-* [https://www.spiegel.de/politik/deutschland/propaganda-in-der-modernen-politik-wir-sind-in-einer-neuen-aera-der-propaganda](https://www.spiegel.de/politik/deutschland/propaganda-in-der-modernen-politik-wir-sind-in-einer-neuen-aera-der-propaganda-a-30ce993b-6bf9-4a52-856b-9fc040934ec0#ref=rss)
-* [https://www.spiegel.de/tests/kueche/tischgrills-im-test-diese-grillsaison-endet-nie](https://www.spiegel.de/tests/kueche/tischgrills-im-test-diese-grillsaison-endet-nie-a-cf26c58a-de8c-4207-a66a-47b58fada5d6#ref=rss)
-### krankenhausreform
+* [https://www.spiegel.de/wissenschaft/mensch/fruehfoerderung-sie-wollen-sein-wie-wir](https://www.spiegel.de/wissenschaft/mensch/fruehfoerderung-sie-wollen-sein-wie-wir-a-43e6db31-d956-4935-8302-5232773580ba#ref=rss)
+* [https://www.spiegel.de/partnerschaft/sex-angeblich-mehr-orgasmen-im-osten-und-was-hat-fkk-damit-zu-tun](https://www.spiegel.de/partnerschaft/sex-angeblich-mehr-orgasmen-im-osten-und-was-hat-fkk-damit-zu-tun-a-1df56640-53cb-4979-8fe4-af4c44d9a384#ref=rss)
+### babys
 
-* [https://www.spiegel.de/politik/deutschland/krankenhausreform-von-karl-lauterbach-neuer-referentenentwurf-liegt-vor](https://www.spiegel.de/politik/deutschland/krankenhausreform-von-karl-lauterbach-neuer-referentenentwurf-liegt-vor-a-5babe557-abc9-4eb6-b97d-1084e0115e17#ref=rss)
-### referentenentwurf
+* [https://www.spiegel.de/wissenschaft/mensch/fruehfoerderung-sie-wollen-sein-wie-wir](https://www.spiegel.de/wissenschaft/mensch/fruehfoerderung-sie-wollen-sein-wie-wir-a-43e6db31-d956-4935-8302-5232773580ba#ref=rss)
+* [https://www.spiegel.de/wissenschaft/kuck-mal-wer-da-denkt](https://www.spiegel.de/wissenschaft/kuck-mal-wer-da-denkt-a-bc21055d-3f76-4216-b478-dc0a4eca4ddd#ref=rss)
+### niger
 
-* [https://www.spiegel.de/politik/deutschland/krankenhausreform-von-karl-lauterbach-neuer-referentenentwurf-liegt-vor](https://www.spiegel.de/politik/deutschland/krankenhausreform-von-karl-lauterbach-neuer-referentenentwurf-liegt-vor-a-5babe557-abc9-4eb6-b97d-1084e0115e17#ref=rss)
-### liegt
+* [https://www.spiegel.de/ausland/niger-beendet-militaerkooperation-mit-den-usa-mit-sofortiger-wirkung](https://www.spiegel.de/ausland/niger-beendet-militaerkooperation-mit-den-usa-mit-sofortiger-wirkung-a-d3bab4bd-5a81-4e51-b200-92a3224ee154#ref=rss)
+### usa
 
-* [https://www.spiegel.de/politik/deutschland/krankenhausreform-von-karl-lauterbach-neuer-referentenentwurf-liegt-vor](https://www.spiegel.de/politik/deutschland/krankenhausreform-von-karl-lauterbach-neuer-referentenentwurf-liegt-vor-a-5babe557-abc9-4eb6-b97d-1084e0115e17#ref=rss)
-### spiegel
+* [https://www.spiegel.de/ausland/niger-beendet-militaerkooperation-mit-den-usa-mit-sofortiger-wirkung](https://www.spiegel.de/ausland/niger-beendet-militaerkooperation-mit-den-usa-mit-sofortiger-wirkung-a-d3bab4bd-5a81-4e51-b200-92a3224ee154#ref=rss)
+### starkwatzinger
 
-* [https://www.spiegel.de/politik/deutschland/krankenhausreform-von-karl-lauterbach-neuer-referentenentwurf-liegt-vor](https://www.spiegel.de/politik/deutschland/krankenhausreform-von-karl-lauterbach-neuer-referentenentwurf-liegt-vor-a-5babe557-abc9-4eb6-b97d-1084e0115e17#ref=rss)
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### männer
+* [https://www.spiegel.de/politik/deutschland/bettina-stark-watzinger-lehrerverband-fuer-unterricht-ueber-krieg](https://www.spiegel.de/politik/deutschland/bettina-stark-watzinger-lehrerverband-fuer-unterricht-ueber-krieg-a-666e39d7-2806-4c24-b0ff-a222517b7c9c#ref=rss)
+### krieg
 
-* [https://www.spiegel.de/panorama/berlin-drei-maenner-bei-streit-im-dong-xuan-center-lebensbedrohlich-verletzt](https://www.spiegel.de/panorama/berlin-drei-maenner-bei-streit-im-dong-xuan-center-lebensbedrohlich-verletzt-a-dee08258-7a77-4dfc-8ad0-90aa59c17f56#ref=rss)
-### dong
+* [https://www.spiegel.de/politik/deutschland/bettina-stark-watzinger-lehrerverband-fuer-unterricht-ueber-krieg](https://www.spiegel.de/politik/deutschland/bettina-stark-watzinger-lehrerverband-fuer-unterricht-ueber-krieg-a-666e39d7-2806-4c24-b0ff-a222517b7c9c#ref=rss)
+### hannover
 
-* [https://www.spiegel.de/panorama/berlin-drei-maenner-bei-streit-im-dong-xuan-center-lebensbedrohlich-verletzt](https://www.spiegel.de/panorama/berlin-drei-maenner-bei-streit-im-dong-xuan-center-lebensbedrohlich-verletzt-a-dee08258-7a77-4dfc-8ad0-90aa59c17f56#ref=rss)
-### xuan
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hannover-96-erneut-sieglos-1-1-gegen-kaiserslautern](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hannover-96-erneut-sieglos-1-1-gegen-kaiserslautern-a-def8a71b-eade-45b7-b462-4d9d1fbe480a#ref=rss)
+### 96
 
-* [https://www.spiegel.de/panorama/berlin-drei-maenner-bei-streit-im-dong-xuan-center-lebensbedrohlich-verletzt](https://www.spiegel.de/panorama/berlin-drei-maenner-bei-streit-im-dong-xuan-center-lebensbedrohlich-verletzt-a-dee08258-7a77-4dfc-8ad0-90aa59c17f56#ref=rss)
-### center
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hannover-96-erneut-sieglos-1-1-gegen-kaiserslautern](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hannover-96-erneut-sieglos-1-1-gegen-kaiserslautern-a-def8a71b-eade-45b7-b462-4d9d1fbe480a#ref=rss)
+### kaiserslautern
 
-* [https://www.spiegel.de/panorama/berlin-drei-maenner-bei-streit-im-dong-xuan-center-lebensbedrohlich-verletzt](https://www.spiegel.de/panorama/berlin-drei-maenner-bei-streit-im-dong-xuan-center-lebensbedrohlich-verletzt-a-dee08258-7a77-4dfc-8ad0-90aa59c17f56#ref=rss)
-### sylt
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hannover-96-erneut-sieglos-1-1-gegen-kaiserslautern](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hannover-96-erneut-sieglos-1-1-gegen-kaiserslautern-a-def8a71b-eade-45b7-b462-4d9d1fbe480a#ref=rss)
+### haiti
 
-* [https://www.spiegel.de/wirtschaft/sylt-die-angst-der-vermieter-bis-zur-haelfte-der-ferienwohnungen-koennten-illegal-sein](https://www.spiegel.de/wirtschaft/sylt-die-angst-der-vermieter-bis-zur-haelfte-der-ferienwohnungen-koennten-illegal-sein-a-741b71b5-c3af-450f-8907-4f5ddd517028#ref=rss)
-### grünheide
+* [https://www.spiegel.de/ausland/haiti-deutscher-arzt-berichtet-ueber-eskalierende-banden-kriminalitaet](https://www.spiegel.de/ausland/haiti-deutscher-arzt-berichtet-ueber-eskalierende-banden-kriminalitaet-a-4449bf80-0d9b-49eb-9abd-f81afa51ca67#ref=rss)
+### arzt
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-in-gruenheide-waldcamp-aktivisten-wollen-behoerdenauflagen-nicht-erfuellen](https://www.spiegel.de/wirtschaft/unternehmen/tesla-in-gruenheide-waldcamp-aktivisten-wollen-behoerdenauflagen-nicht-erfuellen-a-f635b7ef-79fe-434f-bcca-b156720d6ccb#ref=rss)
-### fragen
+* [https://www.spiegel.de/ausland/haiti-deutscher-arzt-berichtet-ueber-eskalierende-banden-kriminalitaet](https://www.spiegel.de/ausland/haiti-deutscher-arzt-berichtet-ueber-eskalierende-banden-kriminalitaet-a-4449bf80-0d9b-49eb-9abd-f81afa51ca67#ref=rss)
+### berichtet
 
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### tag
+* [https://www.spiegel.de/ausland/haiti-deutscher-arzt-berichtet-ueber-eskalierende-banden-kriminalitaet](https://www.spiegel.de/ausland/haiti-deutscher-arzt-berichtet-ueber-eskalierende-banden-kriminalitaet-a-4449bf80-0d9b-49eb-9abd-f81afa51ca67#ref=rss)
+### bandenkriminalität
 
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/ausland/haiti-deutscher-arzt-berichtet-ueber-eskalierende-banden-kriminalitaet](https://www.spiegel.de/ausland/haiti-deutscher-arzt-berichtet-ueber-eskalierende-banden-kriminalitaet-a-4449bf80-0d9b-49eb-9abd-f81afa51ca67#ref=rss)
+### mensch
+
+* [https://www.spiegel.de/wissenschaft/geologie-hat-der-mensch-wirklich-schon-ein-neues-erdzeitalter-ausgeloest](https://www.spiegel.de/wissenschaft/geologie-hat-der-mensch-wirklich-schon-ein-neues-erdzeitalter-ausgeloest-a-d5610cce-e3b2-4549-8011-91f19fc22148#ref=rss)
+### kleiner
+
+* [https://www.spiegel.de/wissenschaft/geologie-hat-der-mensch-wirklich-schon-ein-neues-erdzeitalter-ausgeloest](https://www.spiegel.de/wissenschaft/geologie-hat-der-mensch-wirklich-schon-ein-neues-erdzeitalter-ausgeloest-a-d5610cce-e3b2-4549-8011-91f19fc22148#ref=rss)
+* [https://www.spiegel.de/panorama/grindavik-auf-island-vulkan-ist-erneut-ausgebrochen](https://www.spiegel.de/panorama/grindavik-auf-island-vulkan-ist-erneut-ausgebrochen-a-587b923c-27ef-4ea6-ae29-c9a45819d8fd#ref=rss)
+### island
+
+* [https://www.spiegel.de/panorama/grindavik-auf-island-vulkan-ist-erneut-ausgebrochen](https://www.spiegel.de/panorama/grindavik-auf-island-vulkan-ist-erneut-ausgebrochen-a-587b923c-27ef-4ea6-ae29-c9a45819d8fd#ref=rss)
+### vulkan
+
+* [https://www.spiegel.de/panorama/grindavik-auf-island-vulkan-ist-erneut-ausgebrochen](https://www.spiegel.de/panorama/grindavik-auf-island-vulkan-ist-erneut-ausgebrochen-a-587b923c-27ef-4ea6-ae29-c9a45819d8fd#ref=rss)
+### ausgebrochen
+
+* [https://www.spiegel.de/panorama/grindavik-auf-island-vulkan-ist-erneut-ausgebrochen](https://www.spiegel.de/panorama/grindavik-auf-island-vulkan-ist-erneut-ausgebrochen-a-587b923c-27ef-4ea6-ae29-c9a45819d8fd#ref=rss)
+### wladimir
+
+* [https://www.spiegel.de/ausland/wahl-in-russland-angriffe-auf-russisches-grenzgebiet-stoeren-wladimir-putins-wiederwahl](https://www.spiegel.de/ausland/wahl-in-russland-angriffe-auf-russisches-grenzgebiet-stoeren-wladimir-putins-wiederwahl-a-9f1f7e23-5277-4ed0-86b2-60fcf195cb73#ref=rss)
+### smartphones
+
+* [https://www.spiegel.de/netzwelt/gadgets/smartphones-fuer-aeltere-menschen-einrichten-so-gehts](https://www.spiegel.de/netzwelt/gadgets/smartphones-fuer-aeltere-menschen-einrichten-so-gehts-a-5bd7767b-0cb4-469f-abdd-587d78cdfd4a#ref=rss)
+### sex
+
+* [https://www.spiegel.de/partnerschaft/sex-angeblich-mehr-orgasmen-im-osten-und-was-hat-fkk-damit-zu-tun](https://www.spiegel.de/partnerschaft/sex-angeblich-mehr-orgasmen-im-osten-und-was-hat-fkk-damit-zu-tun-a-1df56640-53cb-4979-8fe4-af4c44d9a384#ref=rss)
+### osten
+
+* [https://www.spiegel.de/partnerschaft/sex-angeblich-mehr-orgasmen-im-osten-und-was-hat-fkk-damit-zu-tun](https://www.spiegel.de/partnerschaft/sex-angeblich-mehr-orgasmen-im-osten-und-was-hat-fkk-damit-zu-tun-a-1df56640-53cb-4979-8fe4-af4c44d9a384#ref=rss)
 
