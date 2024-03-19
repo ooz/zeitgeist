@@ -4,330 +4,352 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### menschen
+### deutschland
 
-* [https://www.spiegel.de/ausland/israel-gaza-konflikt-uno-nothilfekoordinator-erhebt-schwere-vorwuerfe-gegen-israel](https://www.spiegel.de/ausland/israel-gaza-konflikt-uno-nothilfekoordinator-erhebt-schwere-vorwuerfe-gegen-israel-a-4675d133-46da-42fe-8a2f-99e5b97e94b0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-und-buergergeld-2-1-fuer-die-friedrich-merz-ultras](https://www.spiegel.de/politik/deutschland/cdu-und-buergergeld-2-1-fuer-die-friedrich-merz-ultras-a-55acb5ec-2c34-4a7d-9ab2-9019fbf39d44#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/geruchssinn-wie-duefte-unsere-kauflust-steigern-und-wem-ihr-unbewusster-einfluss-helfen-koennte](https://www.spiegel.de/wissenschaft/mensch/geruchssinn-wie-duefte-unsere-kauflust-steigern-und-wem-ihr-unbewusster-einfluss-helfen-koennte-a-38671c81-bc4a-4f1c-9c74-cbe5dd9a2bd1#ref=rss)
-* [https://www.spiegel.de/ausland/nigeria-weitere-87-menschen-verschleppt](https://www.spiegel.de/ausland/nigeria-weitere-87-menschen-verschleppt-a-65252346-2e66-427d-b401-da247699a52a#ref=rss)
-### deutschen
+* [https://www.spiegel.de/wissenschaft/mensch/zahl-der-tuberkulose-faelle-in-deutschland-leicht-gestiegen](https://www.spiegel.de/wissenschaft/mensch/zahl-der-tuberkulose-faelle-in-deutschland-leicht-gestiegen-a-0228ab08-8131-4379-94b6-7816bcf6b079#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/armut-europarat-beklagt-wachsende-ungleichheit-in-deutschland](https://www.spiegel.de/politik/deutschland/armut-europarat-beklagt-wachsende-ungleichheit-in-deutschland-a-039a58ed-e4eb-4439-8f98-ad10255a3fbc#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/sport/handball/olympia-qualifikation-der-deutschen-handballer-mit-schrammen-nach-paris](https://www.spiegel.de/sport/handball/olympia-qualifikation-der-deutschen-handballer-mit-schrammen-nach-paris-a-c84d8512-6b8a-44c5-b759-f6bd026aa8ac#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/zecken-so-schuetzen-sie-sich-beim-waldspaziergang-vor-der-steigenden-zeckenpopulation](https://www.spiegel.de/wissenschaft/natur/zecken-so-schuetzen-sie-sich-beim-waldspaziergang-vor-der-steigenden-zeckenpopulation-a-9931a39a-9ef6-4020-a91b-a84fcd472591#ref=rss)
-* [https://www.spiegel.de/ausland/afghanische-ortskraefte-in-uganda-vor-den-taliban-geflohen-von-den-deutschen-vergessen](https://www.spiegel.de/ausland/afghanische-ortskraefte-in-uganda-vor-den-taliban-geflohen-von-den-deutschen-vergessen-a-24ca44ae-6de1-4df8-94d9-0552c38d5c13#ref=rss)
-### ukrainekrieg
+* [https://www.spiegel.de/wissenschaft/mensch/zahl-der-tuberkulose-faelle-in-deutschland-leicht-gestiegen](https://www.spiegel.de/wissenschaft/mensch/zahl-der-tuberkulose-faelle-in-deutschland-leicht-gestiegen-a-0228ab08-8131-4379-94b6-7816bcf6b079#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampel-koalition-diese-partnerschaft-kann-keine-therapie-mehr-retten-meinung](https://www.spiegel.de/politik/deutschland/ampel-koalition-diese-partnerschaft-kann-keine-therapie-mehr-retten-meinung-a-a7cc7d2e-f6ce-4858-b48a-9affb7dadd25#ref=rss)
+* [https://www.spiegel.de/wirtschaft/agentur-schlaegt-alarm-warum-die-welt-beim-ausbau-erneuerbarer-energien-immer-noch-zu-langsam-ist](https://www.spiegel.de/wirtschaft/agentur-schlaegt-alarm-warum-die-welt-beim-ausbau-erneuerbarer-energien-immer-noch-zu-langsam-ist-a-6a21c661-d24b-4e16-9b7b-52f1b65b760b#ref=rss)
+* [https://www.spiegel.de/ausland/demokratie-index-in-immer-mehr-schwellenlaendern-erodiert-die-demokratie](https://www.spiegel.de/ausland/demokratie-index-in-immer-mehr-schwellenlaendern-erodiert-die-demokratie-a-07ce146a-b782-4809-8441-a017dac31bea#ref=rss)
+### deutlich
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-krim-tatarin-zweimal-vertrieben-ihr-wille-zur-rueckkehr](https://www.spiegel.de/ausland/ukraine-krieg-krim-tatarin-zweimal-vertrieben-ihr-wille-zur-rueckkehr-a-5b50770e-2117-4503-a68e-5c69e3dc1c4b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/rolf-muetzenich-boris-pistorius-distanziert-sich-von-spd-fraktionschef](https://www.spiegel.de/politik/deutschland/rolf-muetzenich-boris-pistorius-distanziert-sich-von-spd-fraktionschef-a-7c091956-d07a-43f2-a397-faa7673ab402#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-gerhard-schroeder-lobt-olaf-scholz-fuer-nein-zu-taurus](https://www.spiegel.de/politik/deutschland/ukraine-krieg-gerhard-schroeder-lobt-olaf-scholz-fuer-nein-zu-taurus-a-e5f3454f-f369-454d-815f-79233121c309#ref=rss)
-### union
+* [https://www.spiegel.de/wirtschaft/soziales/rente-offenbar-anstieg-um-4-57-prozent-im-sommer](https://www.spiegel.de/wirtschaft/soziales/rente-offenbar-anstieg-um-4-57-prozent-im-sommer-a-abd47a0d-b15b-41c3-ba5d-985a15d0cd30#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/einsamkeit-amerikaner-mittleren-alters-deutlich-staerker-betroffen-als-europaeer](https://www.spiegel.de/wissenschaft/mensch/einsamkeit-amerikaner-mittleren-alters-deutlich-staerker-betroffen-als-europaeer-a-6f85c5c0-01cb-4383-9ffa-037b2e907e2f#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-empoert-mit-aussagen-ueber-juden-die-israel-hassen](https://www.spiegel.de/ausland/donald-trump-empoert-mit-aussagen-ueber-juden-die-israel-hassen-a-8fc44ee0-61c2-4959-982a-4dba7596e168#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/armut-europarat-beklagt-wachsende-ungleichheit-in-deutschland](https://www.spiegel.de/politik/deutschland/armut-europarat-beklagt-wachsende-ungleichheit-in-deutschland-a-039a58ed-e4eb-4439-8f98-ad10255a3fbc#ref=rss)
+### aussagen
 
-* [https://www.spiegel.de/politik/deutschland/15-juni-soll-veteranentag-in-deutschland-werden](https://www.spiegel.de/politik/deutschland/15-juni-soll-veteranentag-in-deutschland-werden-a-f477e0b5-0a5b-4847-9091-530654f19b5a#ref=rss)
-* [https://www.spiegel.de/ausland/alexej-nawalny-eu-verhaengt-wegen-sanktionen-gegen-russland](https://www.spiegel.de/ausland/alexej-nawalny-eu-verhaengt-wegen-sanktionen-gegen-russland-a-1fd3970e-3808-4460-b04e-1c9ec32fc938#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-gerhard-schroeder-lobt-olaf-scholz-fuer-nein-zu-taurus](https://www.spiegel.de/politik/deutschland/ukraine-krieg-gerhard-schroeder-lobt-olaf-scholz-fuer-nein-zu-taurus-a-e5f3454f-f369-454d-815f-79233121c309#ref=rss)
-### zahlen
+* [https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-will-nicht-von-umstrittenen-aussagen-zum-ukrainekrieg-abruecken](https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-will-nicht-von-umstrittenen-aussagen-zum-ukrainekrieg-abruecken-a-744c2086-35ad-459b-b4bc-8ee0e584d3c8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/taurus-marie-agnes-strack-zimmermann-zeigt-sich-irritiert-ueber-aussagen-von-bundestagspraesidentin-baerbel-bas](https://www.spiegel.de/politik/deutschland/taurus-marie-agnes-strack-zimmermann-zeigt-sich-irritiert-ueber-aussagen-von-bundestagspraesidentin-baerbel-bas-a-14711c54-9115-423c-a41a-9a88daaae641#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-empoert-mit-aussagen-ueber-juden-die-israel-hassen](https://www.spiegel.de/ausland/donald-trump-empoert-mit-aussagen-ueber-juden-die-israel-hassen-a-8fc44ee0-61c2-4959-982a-4dba7596e168#ref=rss)
+### erklärt
 
-* [https://www.spiegel.de/wirtschaft/primastrom-und-voxenergie-zahlen-geld-an-kunden-zurueck-verbraucherzentrale-hatte-geklagt](https://www.spiegel.de/wirtschaft/primastrom-und-voxenergie-zahlen-geld-an-kunden-zurueck-verbraucherzentrale-hatte-geklagt-a-25714a7f-14cc-43ec-bdbb-78f23bc46a1e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-schalke-04-schreibt-schwarze-zahlen-und-fuerchtet-sturz-in-die-3-liga](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-schalke-04-schreibt-schwarze-zahlen-und-fuerchtet-sturz-in-die-3-liga-a-457715ec-2b31-4aa2-98c2-e39c4ef6b14d#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-kann-laut-anwaelten-kaution-fuer-betrugsurteil-nicht-zahlen](https://www.spiegel.de/ausland/donald-trump-kann-laut-anwaelten-kaution-fuer-betrugsurteil-nicht-zahlen-a-b627dea1-4c9b-4d65-abc8-9c413a9b8005#ref=rss)
-### zwei
+* [https://www.spiegel.de/panorama/justiz/nicola-coughlan-warum-der-bridgerton-star-eitelkeit-bei-drehs-ablehnt](https://www.spiegel.de/panorama/justiz/nicola-coughlan-warum-der-bridgerton-star-eitelkeit-bei-drehs-ablehnt-a-52ab7fdb-9516-4722-92ed-93645f09f2fc#ref=rss)
+* [https://www.spiegel.de/kultur/israel-gaza-konflikt-gefuehlsforscher-erklaert-den-einfluss-von-emotionen-auf-den-nahost-diskurs](https://www.spiegel.de/kultur/israel-gaza-konflikt-gefuehlsforscher-erklaert-den-einfluss-von-emotionen-auf-den-nahost-diskurs-a-71af3180-e443-4084-8401-d56321893050#ref=rss)
+* [https://www.spiegel.de/karriere/resturlaub-nehmen-warum-wir-unseren-urlaub-oft-verfallen-lassen](https://www.spiegel.de/karriere/resturlaub-nehmen-warum-wir-unseren-urlaub-oft-verfallen-lassen-a-7e413d00-0482-429f-a3c4-6f20bb9e98a2#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/wirtschaft/primastrom-und-voxenergie-zahlen-geld-an-kunden-zurueck-verbraucherzentrale-hatte-geklagt](https://www.spiegel.de/wirtschaft/primastrom-und-voxenergie-zahlen-geld-an-kunden-zurueck-verbraucherzentrale-hatte-geklagt-a-25714a7f-14cc-43ec-bdbb-78f23bc46a1e#ref=rss)
-* [https://www.spiegel.de/gesundheit/muenster-tatort-raetselhaftes-havanna-syndrom-was-steckt-hinter-den-mikrowellen-waffen](https://www.spiegel.de/gesundheit/muenster-tatort-raetselhaftes-havanna-syndrom-was-steckt-hinter-den-mikrowellen-waffen-a-0fac07e4-5cc1-44e9-acf3-9224eb731a87#ref=rss)
-* [https://www.spiegel.de/auto/deutsche-bahn-westliches-ruhrgebiet-um-duisburg-und-essen-fuer-zwei-wochen-ohne-fernzuege](https://www.spiegel.de/auto/deutsche-bahn-westliches-ruhrgebiet-um-duisburg-und-essen-fuer-zwei-wochen-ohne-fernzuege-a-0228094c-180c-417f-8470-09b0821867fd#ref=rss)
-### donald
+* [https://www.spiegel.de/wissenschaft/mensch/zahl-der-tuberkulose-faelle-in-deutschland-leicht-gestiegen](https://www.spiegel.de/wissenschaft/mensch/zahl-der-tuberkulose-faelle-in-deutschland-leicht-gestiegen-a-0228ab08-8131-4379-94b6-7816bcf6b079#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rente-offenbar-anstieg-um-4-57-prozent-im-sommer](https://www.spiegel.de/wirtschaft/soziales/rente-offenbar-anstieg-um-4-57-prozent-im-sommer-a-abd47a0d-b15b-41c3-ba5d-985a15d0cd30#ref=rss)
+* [https://www.spiegel.de/ausland/wie-wladimir-putin-sich-macht-und-kontrolle-ueber-ganz-russland-sicherte-podcast](https://www.spiegel.de/ausland/wie-wladimir-putin-sich-macht-und-kontrolle-ueber-ganz-russland-sicherte-podcast-a-a77c4b5a-280d-4dc5-94fd-7679aa3795b2#ref=rss)
+### test
 
-* [https://www.spiegel.de/ausland/donald-trump-kann-laut-anwaelten-kaution-fuer-betrugsurteil-nicht-zahlen](https://www.spiegel.de/ausland/donald-trump-kann-laut-anwaelten-kaution-fuer-betrugsurteil-nicht-zahlen-a-b627dea1-4c9b-4d65-abc8-9c413a9b8005#ref=rss)
-* [https://www.spiegel.de/ausland/jared-kushner-donald-trump-schwiegersohn-plant-luxushotel-in-belgrad-offenbar-genau-dort-wo-einst-nato-bomben-fielen](https://www.spiegel.de/ausland/jared-kushner-donald-trump-schwiegersohn-plant-luxushotel-in-belgrad-offenbar-genau-dort-wo-einst-nato-bomben-fielen-a-38e14316-b83c-487f-945e-205aa9955eb9#ref=rss)
-### offenbar
+* [https://www.spiegel.de/netzwelt/gadgets/eve-play-im-test-so-kommt-musik-vom-iphone-auf-die-stereoanlage](https://www.spiegel.de/netzwelt/gadgets/eve-play-im-test-so-kommt-musik-vom-iphone-auf-die-stereoanlage-a-cb9f3072-ec53-4208-9ba3-3f89ae48149e#ref=rss)
+* [https://www.spiegel.de/ausland/nordkorea-kim-jong-un-ueberwacht-test-von-supergrossem-raketenwerfer](https://www.spiegel.de/ausland/nordkorea-kim-jong-un-ueberwacht-test-von-supergrossem-raketenwerfer-a-afa02d40-1107-4c90-b52e-f9af2c9ea048#ref=rss)
+### demokratie
 
-* [https://www.spiegel.de/ausland/donald-trump-kann-laut-anwaelten-kaution-fuer-betrugsurteil-nicht-zahlen](https://www.spiegel.de/ausland/donald-trump-kann-laut-anwaelten-kaution-fuer-betrugsurteil-nicht-zahlen-a-b627dea1-4c9b-4d65-abc8-9c413a9b8005#ref=rss)
-* [https://www.spiegel.de/ausland/jared-kushner-donald-trump-schwiegersohn-plant-luxushotel-in-belgrad-offenbar-genau-dort-wo-einst-nato-bomben-fielen](https://www.spiegel.de/ausland/jared-kushner-donald-trump-schwiegersohn-plant-luxushotel-in-belgrad-offenbar-genau-dort-wo-einst-nato-bomben-fielen-a-38e14316-b83c-487f-945e-205aa9955eb9#ref=rss)
-### mussten
+* [https://www.spiegel.de/wirtschaft/soziales/brief-an-25-000-beschaeftigte-schrauben-milliardaer-reinhold-wuerth-warnt-vor-afd-diktatur](https://www.spiegel.de/wirtschaft/soziales/brief-an-25-000-beschaeftigte-schrauben-milliardaer-reinhold-wuerth-warnt-vor-afd-diktatur-a-dd88a542-7a7b-4ec8-93fb-710bb5df4495#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-demokratiestudie-bertelsmann-stiftung-olaf-scholz-ivan-krastev-ukraine-kontaktgruppe-synodaler-weg-papst-franziskus-kaja-kallas](https://www.spiegel.de/politik/deutschland/news-demokratiestudie-bertelsmann-stiftung-olaf-scholz-ivan-krastev-ukraine-kontaktgruppe-synodaler-weg-papst-franziskus-kaja-kallas-a-276bb762-c291-4eda-8025-b59ba09f1021#ref=rss)
+* [https://www.spiegel.de/ausland/demokratie-index-in-immer-mehr-schwellenlaendern-erodiert-die-demokratie](https://www.spiegel.de/ausland/demokratie-index-in-immer-mehr-schwellenlaendern-erodiert-die-demokratie-a-07ce146a-b782-4809-8441-a017dac31bea#ref=rss)
+### sorgen
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-krim-tatarin-zweimal-vertrieben-ihr-wille-zur-rueckkehr](https://www.spiegel.de/ausland/ukraine-krieg-krim-tatarin-zweimal-vertrieben-ihr-wille-zur-rueckkehr-a-5b50770e-2117-4503-a68e-5c69e3dc1c4b#ref=rss)
-* [https://www.spiegel.de/ausland/afghanische-ortskraefte-in-uganda-vor-den-taliban-geflohen-von-den-deutschen-vergessen](https://www.spiegel.de/ausland/afghanische-ortskraefte-in-uganda-vor-den-taliban-geflohen-von-den-deutschen-vergessen-a-24ca44ae-6de1-4df8-94d9-0552c38d5c13#ref=rss)
-### familie
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-krim-tatarin-zweimal-vertrieben-ihr-wille-zur-rueckkehr](https://www.spiegel.de/ausland/ukraine-krieg-krim-tatarin-zweimal-vertrieben-ihr-wille-zur-rueckkehr-a-5b50770e-2117-4503-a68e-5c69e3dc1c4b#ref=rss)
-* [https://www.spiegel.de/panorama/toedlicher-unfall-in-wesseling-sei-kein-jaemmerlicher-feigling-mache-reinen-tisch-stelle-dich-der-polizei](https://www.spiegel.de/panorama/toedlicher-unfall-in-wesseling-sei-kein-jaemmerlicher-feigling-mache-reinen-tisch-stelle-dich-der-polizei-a-bb6b0b09-25ad-4cf0-932d-315556b64403#ref=rss)
-### russischen
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-krim-tatarin-zweimal-vertrieben-ihr-wille-zur-rueckkehr](https://www.spiegel.de/ausland/ukraine-krieg-krim-tatarin-zweimal-vertrieben-ihr-wille-zur-rueckkehr-a-5b50770e-2117-4503-a68e-5c69e3dc1c4b#ref=rss)
-* [https://www.spiegel.de/ausland/alexej-nawalny-eu-verhaengt-wegen-sanktionen-gegen-russland](https://www.spiegel.de/ausland/alexej-nawalny-eu-verhaengt-wegen-sanktionen-gegen-russland-a-1fd3970e-3808-4460-b04e-1c9ec32fc938#ref=rss)
-### fliehen
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-krim-tatarin-zweimal-vertrieben-ihr-wille-zur-rueckkehr](https://www.spiegel.de/ausland/ukraine-krieg-krim-tatarin-zweimal-vertrieben-ihr-wille-zur-rueckkehr-a-5b50770e-2117-4503-a68e-5c69e3dc1c4b#ref=rss)
-* [https://www.spiegel.de/ausland/afghanische-ortskraefte-in-uganda-vor-den-taliban-geflohen-von-den-deutschen-vergessen](https://www.spiegel.de/ausland/afghanische-ortskraefte-in-uganda-vor-den-taliban-geflohen-von-den-deutschen-vergessen-a-24ca44ae-6de1-4df8-94d9-0552c38d5c13#ref=rss)
-### leben
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-krim-tatarin-zweimal-vertrieben-ihr-wille-zur-rueckkehr](https://www.spiegel.de/ausland/ukraine-krieg-krim-tatarin-zweimal-vertrieben-ihr-wille-zur-rueckkehr-a-5b50770e-2117-4503-a68e-5c69e3dc1c4b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-gericht-untersagt-polizist-internetauftritt-als-officer](https://www.spiegel.de/panorama/justiz/berlin-gericht-untersagt-polizist-internetauftritt-als-officer-a-45ece8ba-874a-47ce-9392-71b35824be6c#ref=rss)
-### tages
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-krim-tatarin-zweimal-vertrieben-ihr-wille-zur-rueckkehr](https://www.spiegel.de/ausland/ukraine-krieg-krim-tatarin-zweimal-vertrieben-ihr-wille-zur-rueckkehr-a-5b50770e-2117-4503-a68e-5c69e3dc1c4b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-die-geschichte-des-18-maerz-wasserstoffnot-krieg-in-israel](https://www.spiegel.de/politik/deutschland/news-des-tages-die-geschichte-des-18-maerz-wasserstoffnot-krieg-in-israel-a-3ba7e702-689a-4f52-ba64-92324213cdd0#ref=rss)
-### fisker
-
-* [https://www.spiegel.de/wirtschaft/tesla-nachahmer-fisker-versaeumt-zahlungen-und-stoppt-produktion-in-oesterreich](https://www.spiegel.de/wirtschaft/tesla-nachahmer-fisker-versaeumt-zahlungen-und-stoppt-produktion-in-oesterreich-a-c7bdd7a8-22ef-4dcb-9b3d-bdc302fbb634#ref=rss)
-### stoppt
-
-* [https://www.spiegel.de/wirtschaft/tesla-nachahmer-fisker-versaeumt-zahlungen-und-stoppt-produktion-in-oesterreich](https://www.spiegel.de/wirtschaft/tesla-nachahmer-fisker-versaeumt-zahlungen-und-stoppt-produktion-in-oesterreich-a-c7bdd7a8-22ef-4dcb-9b3d-bdc302fbb634#ref=rss)
-* [https://www.spiegel.de/auto/deutsche-bahn-westliches-ruhrgebiet-um-duisburg-und-essen-fuer-zwei-wochen-ohne-fernzuege](https://www.spiegel.de/auto/deutsche-bahn-westliches-ruhrgebiet-um-duisburg-und-essen-fuer-zwei-wochen-ohne-fernzuege-a-0228094c-180c-417f-8470-09b0821867fd#ref=rss)
-### produktion
-
-* [https://www.spiegel.de/wirtschaft/tesla-nachahmer-fisker-versaeumt-zahlungen-und-stoppt-produktion-in-oesterreich](https://www.spiegel.de/wirtschaft/tesla-nachahmer-fisker-versaeumt-zahlungen-und-stoppt-produktion-in-oesterreich-a-c7bdd7a8-22ef-4dcb-9b3d-bdc302fbb634#ref=rss)
-### österreich
-
-* [https://www.spiegel.de/wirtschaft/tesla-nachahmer-fisker-versaeumt-zahlungen-und-stoppt-produktion-in-oesterreich](https://www.spiegel.de/wirtschaft/tesla-nachahmer-fisker-versaeumt-zahlungen-und-stoppt-produktion-in-oesterreich-a-c7bdd7a8-22ef-4dcb-9b3d-bdc302fbb634#ref=rss)
-* [https://www.spiegel.de/wirtschaft/oesterreich-benko-pleite-regierung-will-signa-sanierungsplaenen-nicht-zustimmen](https://www.spiegel.de/wirtschaft/oesterreich-benko-pleite-regierung-will-signa-sanierungsplaenen-nicht-zustimmen-a-34382f83-1f09-4b43-9a98-de86d30682ef#ref=rss)
-### wochen
-
-* [https://www.spiegel.de/wirtschaft/tesla-nachahmer-fisker-versaeumt-zahlungen-und-stoppt-produktion-in-oesterreich](https://www.spiegel.de/wirtschaft/tesla-nachahmer-fisker-versaeumt-zahlungen-und-stoppt-produktion-in-oesterreich-a-c7bdd7a8-22ef-4dcb-9b3d-bdc302fbb634#ref=rss)
-* [https://www.spiegel.de/auto/deutsche-bahn-westliches-ruhrgebiet-um-duisburg-und-essen-fuer-zwei-wochen-ohne-fernzuege](https://www.spiegel.de/auto/deutsche-bahn-westliches-ruhrgebiet-um-duisburg-und-essen-fuer-zwei-wochen-ohne-fernzuege-a-0228094c-180c-417f-8470-09b0821867fd#ref=rss)
-### helfen
-
-* [https://www.spiegel.de/wirtschaft/tesla-nachahmer-fisker-versaeumt-zahlungen-und-stoppt-produktion-in-oesterreich](https://www.spiegel.de/wirtschaft/tesla-nachahmer-fisker-versaeumt-zahlungen-und-stoppt-produktion-in-oesterreich-a-c7bdd7a8-22ef-4dcb-9b3d-bdc302fbb634#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/geruchssinn-wie-duefte-unsere-kauflust-steigern-und-wem-ihr-unbewusster-einfluss-helfen-koennte](https://www.spiegel.de/wissenschaft/mensch/geruchssinn-wie-duefte-unsere-kauflust-steigern-und-wem-ihr-unbewusster-einfluss-helfen-koennte-a-38671c81-bc4a-4f1c-9c74-cbe5dd9a2bd1#ref=rss)
-### handballer
-
-* [https://www.spiegel.de/sport/handball/olympia-qualifikation-der-deutschen-handballer-mit-schrammen-nach-paris](https://www.spiegel.de/sport/handball/olympia-qualifikation-der-deutschen-handballer-mit-schrammen-nach-paris-a-c84d8512-6b8a-44c5-b759-f6bd026aa8ac#ref=rss)
-### veteranentag
-
-* [https://www.spiegel.de/politik/deutschland/15-juni-soll-veteranentag-in-deutschland-werden](https://www.spiegel.de/politik/deutschland/15-juni-soll-veteranentag-in-deutschland-werden-a-f477e0b5-0a5b-4847-9091-530654f19b5a#ref=rss)
-### verbraucherzentrale
-
-* [https://www.spiegel.de/wirtschaft/primastrom-und-voxenergie-zahlen-geld-an-kunden-zurueck-verbraucherzentrale-hatte-geklagt](https://www.spiegel.de/wirtschaft/primastrom-und-voxenergie-zahlen-geld-an-kunden-zurueck-verbraucherzentrale-hatte-geklagt-a-25714a7f-14cc-43ec-bdbb-78f23bc46a1e#ref=rss)
-### hinter
-
-* [https://www.spiegel.de/politik/deutschland/taurus-interna-aus-dem-verteidigungsausschuss-was-hinter-der-affaere-steckt](https://www.spiegel.de/politik/deutschland/taurus-interna-aus-dem-verteidigungsausschuss-was-hinter-der-affaere-steckt-a-8cbfc68e-21e3-4716-859a-977c7c12a41f#ref=rss)
-* [https://www.spiegel.de/gesundheit/muenster-tatort-raetselhaftes-havanna-syndrom-was-steckt-hinter-den-mikrowellen-waffen](https://www.spiegel.de/gesundheit/muenster-tatort-raetselhaftes-havanna-syndrom-was-steckt-hinter-den-mikrowellen-waffen-a-0fac07e4-5cc1-44e9-acf3-9224eb731a87#ref=rss)
-### steckt
-
-* [https://www.spiegel.de/politik/deutschland/taurus-interna-aus-dem-verteidigungsausschuss-was-hinter-der-affaere-steckt](https://www.spiegel.de/politik/deutschland/taurus-interna-aus-dem-verteidigungsausschuss-was-hinter-der-affaere-steckt-a-8cbfc68e-21e3-4716-859a-977c7c12a41f#ref=rss)
-* [https://www.spiegel.de/gesundheit/muenster-tatort-raetselhaftes-havanna-syndrom-was-steckt-hinter-den-mikrowellen-waffen](https://www.spiegel.de/gesundheit/muenster-tatort-raetselhaftes-havanna-syndrom-was-steckt-hinter-den-mikrowellen-waffen-a-0fac07e4-5cc1-44e9-acf3-9224eb731a87#ref=rss)
-### taurus
-
-* [https://www.spiegel.de/politik/deutschland/taurus-interna-aus-dem-verteidigungsausschuss-was-hinter-der-affaere-steckt](https://www.spiegel.de/politik/deutschland/taurus-interna-aus-dem-verteidigungsausschuss-was-hinter-der-affaere-steckt-a-8cbfc68e-21e3-4716-859a-977c7c12a41f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-gerhard-schroeder-lobt-olaf-scholz-fuer-nein-zu-taurus](https://www.spiegel.de/politik/deutschland/ukraine-krieg-gerhard-schroeder-lobt-olaf-scholz-fuer-nein-zu-taurus-a-e5f3454f-f369-454d-815f-79233121c309#ref=rss)
-### diesmal
-
-* [https://www.spiegel.de/politik/deutschland/taurus-interna-aus-dem-verteidigungsausschuss-was-hinter-der-affaere-steckt](https://www.spiegel.de/politik/deutschland/taurus-interna-aus-dem-verteidigungsausschuss-was-hinter-der-affaere-steckt-a-8cbfc68e-21e3-4716-859a-977c7c12a41f#ref=rss)
-* [https://www.spiegel.de/auto/deutsche-bahn-westliches-ruhrgebiet-um-duisburg-und-essen-fuer-zwei-wochen-ohne-fernzuege](https://www.spiegel.de/auto/deutsche-bahn-westliches-ruhrgebiet-um-duisburg-und-essen-fuer-zwei-wochen-ohne-fernzuege-a-0228094c-180c-417f-8470-09b0821867fd#ref=rss)
-### gedrungen
-
-* [https://www.spiegel.de/politik/deutschland/taurus-interna-aus-dem-verteidigungsausschuss-was-hinter-der-affaere-steckt](https://www.spiegel.de/politik/deutschland/taurus-interna-aus-dem-verteidigungsausschuss-was-hinter-der-affaere-steckt-a-8cbfc68e-21e3-4716-859a-977c7c12a41f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/taurus-debatte-baerbel-bas-wirft-marie-agnes-strack-zimmermann-sorglosigkeit-bei-der-geheimhaltung-vor](https://www.spiegel.de/politik/deutschland/taurus-debatte-baerbel-bas-wirft-marie-agnes-strack-zimmermann-sorglosigkeit-bei-der-geheimhaltung-vor-a-88aca80e-f9b7-421c-a909-8539d39055a2#ref=rss)
-### rolf
-
-* [https://www.spiegel.de/politik/deutschland/rolf-muetzenich-boris-pistorius-distanziert-sich-von-spd-fraktionschef](https://www.spiegel.de/politik/deutschland/rolf-muetzenich-boris-pistorius-distanziert-sich-von-spd-fraktionschef-a-7c091956-d07a-43f2-a397-faa7673ab402#ref=rss)
-### mützenich
-
-* [https://www.spiegel.de/politik/deutschland/rolf-muetzenich-boris-pistorius-distanziert-sich-von-spd-fraktionschef](https://www.spiegel.de/politik/deutschland/rolf-muetzenich-boris-pistorius-distanziert-sich-von-spd-fraktionschef-a-7c091956-d07a-43f2-a397-faa7673ab402#ref=rss)
-### pistorius
-
-* [https://www.spiegel.de/politik/deutschland/rolf-muetzenich-boris-pistorius-distanziert-sich-von-spd-fraktionschef](https://www.spiegel.de/politik/deutschland/rolf-muetzenich-boris-pistorius-distanziert-sich-von-spd-fraktionschef-a-7c091956-d07a-43f2-a397-faa7673ab402#ref=rss)
-### spdfraktionschef
-
-* [https://www.spiegel.de/politik/deutschland/rolf-muetzenich-boris-pistorius-distanziert-sich-von-spd-fraktionschef](https://www.spiegel.de/politik/deutschland/rolf-muetzenich-boris-pistorius-distanziert-sich-von-spd-fraktionschef-a-7c091956-d07a-43f2-a397-faa7673ab402#ref=rss)
-### schalke
-
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-schalke-04-schreibt-schwarze-zahlen-und-fuerchtet-sturz-in-die-3-liga](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-schalke-04-schreibt-schwarze-zahlen-und-fuerchtet-sturz-in-die-3-liga-a-457715ec-2b31-4aa2-98c2-e39c4ef6b14d#ref=rss)
-### 04
-
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-schalke-04-schreibt-schwarze-zahlen-und-fuerchtet-sturz-in-die-3-liga](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-schalke-04-schreibt-schwarze-zahlen-und-fuerchtet-sturz-in-die-3-liga-a-457715ec-2b31-4aa2-98c2-e39c4ef6b14d#ref=rss)
-### henry
-
-* [https://www.spiegel.de/kultur/musik/schlagersaenger-henry-valentino-ist-tot](https://www.spiegel.de/kultur/musik/schlagersaenger-henry-valentino-ist-tot-a-1ee4a54d-c9b4-4203-9c1d-3fd398d7f27f#ref=rss)
-### valentino
-
-* [https://www.spiegel.de/kultur/musik/schlagersaenger-henry-valentino-ist-tot](https://www.spiegel.de/kultur/musik/schlagersaenger-henry-valentino-ist-tot-a-1ee4a54d-c9b4-4203-9c1d-3fd398d7f27f#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/kultur/musik/schlagersaenger-henry-valentino-ist-tot](https://www.spiegel.de/kultur/musik/schlagersaenger-henry-valentino-ist-tot-a-1ee4a54d-c9b4-4203-9c1d-3fd398d7f27f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/christian-streichs-abschied-vom-sc-freiburg-reaktionen-und-erinnerungen](https://www.spiegel.de/sport/fussball/christian-streichs-abschied-vom-sc-freiburg-reaktionen-und-erinnerungen-a-38cf70f4-cd05-43c3-bfa0-17047420aae3#ref=rss)
-### bas
-
-* [https://www.spiegel.de/politik/deutschland/taurus-debatte-baerbel-bas-wirft-marie-agnes-strack-zimmermann-sorglosigkeit-bei-der-geheimhaltung-vor](https://www.spiegel.de/politik/deutschland/taurus-debatte-baerbel-bas-wirft-marie-agnes-strack-zimmermann-sorglosigkeit-bei-der-geheimhaltung-vor-a-88aca80e-f9b7-421c-a909-8539d39055a2#ref=rss)
-### medien
-
-* [https://www.spiegel.de/politik/deutschland/taurus-debatte-baerbel-bas-wirft-marie-agnes-strack-zimmermann-sorglosigkeit-bei-der-geheimhaltung-vor](https://www.spiegel.de/politik/deutschland/taurus-debatte-baerbel-bas-wirft-marie-agnes-strack-zimmermann-sorglosigkeit-bei-der-geheimhaltung-vor-a-88aca80e-f9b7-421c-a909-8539d39055a2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-gericht-untersagt-polizist-internetauftritt-als-officer](https://www.spiegel.de/panorama/justiz/berlin-gericht-untersagt-polizist-internetauftritt-als-officer-a-45ece8ba-874a-47ce-9392-71b35824be6c#ref=rss)
-### viele
-
-* [https://www.spiegel.de/politik/deutschland/taurus-debatte-baerbel-bas-wirft-marie-agnes-strack-zimmermann-sorglosigkeit-bei-der-geheimhaltung-vor](https://www.spiegel.de/politik/deutschland/taurus-debatte-baerbel-bas-wirft-marie-agnes-strack-zimmermann-sorglosigkeit-bei-der-geheimhaltung-vor-a-88aca80e-f9b7-421c-a909-8539d39055a2#ref=rss)
-* [https://www.spiegel.de/ausland/afghanische-ortskraefte-in-uganda-vor-den-taliban-geflohen-von-den-deutschen-vergessen](https://www.spiegel.de/ausland/afghanische-ortskraefte-in-uganda-vor-den-taliban-geflohen-von-den-deutschen-vergessen-a-24ca44ae-6de1-4df8-94d9-0552c38d5c13#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/panorama/toedlicher-unfall-in-wesseling-sei-kein-jaemmerlicher-feigling-mache-reinen-tisch-stelle-dich-der-polizei](https://www.spiegel.de/panorama/toedlicher-unfall-in-wesseling-sei-kein-jaemmerlicher-feigling-mache-reinen-tisch-stelle-dich-der-polizei-a-bb6b0b09-25ad-4cf0-932d-315556b64403#ref=rss)
-* [https://www.spiegel.de/panorama/boeing-passagier-ueber-zerfetzte-flugzeugwand-bei-alaska-airlines-ich-starrte-in-das-loch](https://www.spiegel.de/panorama/boeing-passagier-ueber-zerfetzte-flugzeugwand-bei-alaska-airlines-ich-starrte-in-das-loch-a-e5333406-8604-49a4-9d7a-b7435f2be103#ref=rss)
-### wasserstoffnot
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-die-geschichte-des-18-maerz-wasserstoffnot-krieg-in-israel](https://www.spiegel.de/politik/deutschland/news-des-tages-die-geschichte-des-18-maerz-wasserstoffnot-krieg-in-israel-a-3ba7e702-689a-4f52-ba64-92324213cdd0#ref=rss)
-### israel
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-die-geschichte-des-18-maerz-wasserstoffnot-krieg-in-israel](https://www.spiegel.de/politik/deutschland/news-des-tages-die-geschichte-des-18-maerz-wasserstoffnot-krieg-in-israel-a-3ba7e702-689a-4f52-ba64-92324213cdd0#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-konflikt-uno-nothilfekoordinator-erhebt-schwere-vorwuerfe-gegen-israel](https://www.spiegel.de/ausland/israel-gaza-konflikt-uno-nothilfekoordinator-erhebt-schwere-vorwuerfe-gegen-israel-a-4675d133-46da-42fe-8a2f-99e5b97e94b0#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-die-geschichte-des-18-maerz-wasserstoffnot-krieg-in-israel](https://www.spiegel.de/politik/deutschland/news-des-tages-die-geschichte-des-18-maerz-wasserstoffnot-krieg-in-israel-a-3ba7e702-689a-4f52-ba64-92324213cdd0#ref=rss)
-* [https://www.spiegel.de/auto/deutsche-bahn-westliches-ruhrgebiet-um-duisburg-und-essen-fuer-zwei-wochen-ohne-fernzuege](https://www.spiegel.de/auto/deutsche-bahn-westliches-ruhrgebiet-um-duisburg-und-essen-fuer-zwei-wochen-ohne-fernzuege-a-0228094c-180c-417f-8470-09b0821867fd#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/donald-trump-kann-laut-anwaelten-kaution-fuer-betrugsurteil-nicht-zahlen](https://www.spiegel.de/ausland/donald-trump-kann-laut-anwaelten-kaution-fuer-betrugsurteil-nicht-zahlen-a-b627dea1-4c9b-4d65-abc8-9c413a9b8005#ref=rss)
+* [https://www.spiegel.de/ausland/wisconsin-joe-biden-setzt-auf-waehlerinnen-und-deren-sorgen-um-ein-altes-abtreibungsgesetz](https://www.spiegel.de/ausland/wisconsin-joe-biden-setzt-auf-waehlerinnen-und-deren-sorgen-um-ein-altes-abtreibungsgesetz-a-5b10a2a9-a113-4017-b6eb-85a26c1eb7d1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/buergergeld-verbaende-attackieren-cdu-plaene-fuer-sozialstaatsreform](https://www.spiegel.de/politik/deutschland/buergergeld-verbaende-attackieren-cdu-plaene-fuer-sozialstaatsreform-a-877551e4-a94e-42ef-92d3-4abb01905eab#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2024-in-paris-300-000-gratis-kondome-im-olympischen-dorf](https://www.spiegel.de/sport/olympia/olympia-2024-in-paris-300-000-gratis-kondome-im-olympischen-dorf-a-2b4b1329-669c-4e0e-8389-9043845669ba#ref=rss)
 ### laut
 
-* [https://www.spiegel.de/ausland/donald-trump-kann-laut-anwaelten-kaution-fuer-betrugsurteil-nicht-zahlen](https://www.spiegel.de/ausland/donald-trump-kann-laut-anwaelten-kaution-fuer-betrugsurteil-nicht-zahlen-a-b627dea1-4c9b-4d65-abc8-9c413a9b8005#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-konflikt-uno-nothilfekoordinator-erhebt-schwere-vorwuerfe-gegen-israel](https://www.spiegel.de/ausland/israel-gaza-konflikt-uno-nothilfekoordinator-erhebt-schwere-vorwuerfe-gegen-israel-a-4675d133-46da-42fe-8a2f-99e5b97e94b0#ref=rss)
-### gericht
+* [https://www.spiegel.de/wissenschaft/mensch/einsamkeit-amerikaner-mittleren-alters-deutlich-staerker-betroffen-als-europaeer](https://www.spiegel.de/wissenschaft/mensch/einsamkeit-amerikaner-mittleren-alters-deutlich-staerker-betroffen-als-europaeer-a-6f85c5c0-01cb-4383-9ffa-037b2e907e2f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-demokratiestudie-bertelsmann-stiftung-olaf-scholz-ivan-krastev-ukraine-kontaktgruppe-synodaler-weg-papst-franziskus-kaja-kallas](https://www.spiegel.de/politik/deutschland/news-demokratiestudie-bertelsmann-stiftung-olaf-scholz-ivan-krastev-ukraine-kontaktgruppe-synodaler-weg-papst-franziskus-kaja-kallas-a-276bb762-c291-4eda-8025-b59ba09f1021#ref=rss)
+* [https://www.spiegel.de/ausland/demokratie-index-in-immer-mehr-schwellenlaendern-erodiert-die-demokratie](https://www.spiegel.de/ausland/demokratie-index-in-immer-mehr-schwellenlaendern-erodiert-die-demokratie-a-07ce146a-b782-4809-8441-a017dac31bea#ref=rss)
+### nicola
 
-* [https://www.spiegel.de/panorama/justiz/berlin-gericht-untersagt-polizist-internetauftritt-als-officer](https://www.spiegel.de/panorama/justiz/berlin-gericht-untersagt-polizist-internetauftritt-als-officer-a-45ece8ba-874a-47ce-9392-71b35824be6c#ref=rss)
-### officer
+* [https://www.spiegel.de/panorama/justiz/nicola-coughlan-warum-der-bridgerton-star-eitelkeit-bei-drehs-ablehnt](https://www.spiegel.de/panorama/justiz/nicola-coughlan-warum-der-bridgerton-star-eitelkeit-bei-drehs-ablehnt-a-52ab7fdb-9516-4722-92ed-93645f09f2fc#ref=rss)
+### coughlan
 
-* [https://www.spiegel.de/panorama/justiz/berlin-gericht-untersagt-polizist-internetauftritt-als-officer](https://www.spiegel.de/panorama/justiz/berlin-gericht-untersagt-polizist-internetauftritt-als-officer-a-45ece8ba-874a-47ce-9392-71b35824be6c#ref=rss)
-### schützen
+* [https://www.spiegel.de/panorama/justiz/nicola-coughlan-warum-der-bridgerton-star-eitelkeit-bei-drehs-ablehnt](https://www.spiegel.de/panorama/justiz/nicola-coughlan-warum-der-bridgerton-star-eitelkeit-bei-drehs-ablehnt-a-52ab7fdb-9516-4722-92ed-93645f09f2fc#ref=rss)
+### zeigt
 
-* [https://www.spiegel.de/wissenschaft/natur/zecken-so-schuetzen-sie-sich-beim-waldspaziergang-vor-der-steigenden-zeckenpopulation](https://www.spiegel.de/wissenschaft/natur/zecken-so-schuetzen-sie-sich-beim-waldspaziergang-vor-der-steigenden-zeckenpopulation-a-9931a39a-9ef6-4020-a91b-a84fcd472591#ref=rss)
-### zeckenpopulation
+* [https://www.spiegel.de/panorama/justiz/nicola-coughlan-warum-der-bridgerton-star-eitelkeit-bei-drehs-ablehnt](https://www.spiegel.de/panorama/justiz/nicola-coughlan-warum-der-bridgerton-star-eitelkeit-bei-drehs-ablehnt-a-52ab7fdb-9516-4722-92ed-93645f09f2fc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/taurus-marie-agnes-strack-zimmermann-zeigt-sich-irritiert-ueber-aussagen-von-bundestagspraesidentin-baerbel-bas](https://www.spiegel.de/politik/deutschland/taurus-marie-agnes-strack-zimmermann-zeigt-sich-irritiert-ueber-aussagen-von-bundestagspraesidentin-baerbel-bas-a-14711c54-9115-423c-a41a-9a88daaae641#ref=rss)
+### rolle
 
-* [https://www.spiegel.de/wissenschaft/natur/zecken-so-schuetzen-sie-sich-beim-waldspaziergang-vor-der-steigenden-zeckenpopulation](https://www.spiegel.de/wissenschaft/natur/zecken-so-schuetzen-sie-sich-beim-waldspaziergang-vor-der-steigenden-zeckenpopulation-a-9931a39a-9ef6-4020-a91b-a84fcd472591#ref=rss)
-### droht
+* [https://www.spiegel.de/panorama/justiz/nicola-coughlan-warum-der-bridgerton-star-eitelkeit-bei-drehs-ablehnt](https://www.spiegel.de/panorama/justiz/nicola-coughlan-warum-der-bridgerton-star-eitelkeit-bei-drehs-ablehnt-a-52ab7fdb-9516-4722-92ed-93645f09f2fc#ref=rss)
+* [https://www.spiegel.de/karriere/resturlaub-nehmen-warum-wir-unseren-urlaub-oft-verfallen-lassen](https://www.spiegel.de/karriere/resturlaub-nehmen-warum-wir-unseren-urlaub-oft-verfallen-lassen-a-7e413d00-0482-429f-a3c4-6f20bb9e98a2#ref=rss)
+### dennoch
 
-* [https://www.spiegel.de/ausland/israel-gaza-konflikt-uno-nothilfekoordinator-erhebt-schwere-vorwuerfe-gegen-israel](https://www.spiegel.de/ausland/israel-gaza-konflikt-uno-nothilfekoordinator-erhebt-schwere-vorwuerfe-gegen-israel-a-4675d133-46da-42fe-8a2f-99e5b97e94b0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/oesterreich-benko-pleite-regierung-will-signa-sanierungsplaenen-nicht-zustimmen](https://www.spiegel.de/wirtschaft/oesterreich-benko-pleite-regierung-will-signa-sanierungsplaenen-nicht-zustimmen-a-34382f83-1f09-4b43-9a98-de86d30682ef#ref=rss)
-### ortskräfte
+* [https://www.spiegel.de/wissenschaft/mensch/zahl-der-tuberkulose-faelle-in-deutschland-leicht-gestiegen](https://www.spiegel.de/wissenschaft/mensch/zahl-der-tuberkulose-faelle-in-deutschland-leicht-gestiegen-a-0228ab08-8131-4379-94b6-7816bcf6b079#ref=rss)
+* [https://www.spiegel.de/wirtschaft/agentur-schlaegt-alarm-warum-die-welt-beim-ausbau-erneuerbarer-energien-immer-noch-zu-langsam-ist](https://www.spiegel.de/wirtschaft/agentur-schlaegt-alarm-warum-die-welt-beim-ausbau-erneuerbarer-energien-immer-noch-zu-langsam-ist-a-6a21c661-d24b-4e16-9b7b-52f1b65b760b#ref=rss)
+### unilever
 
-* [https://www.spiegel.de/ausland/afghanische-ortskraefte-in-uganda-vor-den-taliban-geflohen-von-den-deutschen-vergessen](https://www.spiegel.de/ausland/afghanische-ortskraefte-in-uganda-vor-den-taliban-geflohen-von-den-deutschen-vergessen-a-24ca44ae-6de1-4df8-94d9-0552c38d5c13#ref=rss)
-### taliban
+* [https://www.spiegel.de/wirtschaft/unternehmen/unilever-langnese-und-ben-jerrys-werden-abgespalten](https://www.spiegel.de/wirtschaft/unternehmen/unilever-langnese-und-ben-jerrys-werden-abgespalten-a-d2974468-38cb-437d-ace7-5ae8b6766500#ref=rss)
+### langnese
 
-* [https://www.spiegel.de/ausland/afghanische-ortskraefte-in-uganda-vor-den-taliban-geflohen-von-den-deutschen-vergessen](https://www.spiegel.de/ausland/afghanische-ortskraefte-in-uganda-vor-den-taliban-geflohen-von-den-deutschen-vergessen-a-24ca44ae-6de1-4df8-94d9-0552c38d5c13#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/unilever-langnese-und-ben-jerrys-werden-abgespalten](https://www.spiegel.de/wirtschaft/unternehmen/unilever-langnese-und-ben-jerrys-werden-abgespalten-a-d2974468-38cb-437d-ace7-5ae8b6766500#ref=rss)
+### ben
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/unilever-langnese-und-ben-jerrys-werden-abgespalten](https://www.spiegel.de/wirtschaft/unternehmen/unilever-langnese-und-ben-jerrys-werden-abgespalten-a-d2974468-38cb-437d-ace7-5ae8b6766500#ref=rss)
+### jerry's
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/unilever-langnese-und-ben-jerrys-werden-abgespalten](https://www.spiegel.de/wirtschaft/unternehmen/unilever-langnese-und-ben-jerrys-werden-abgespalten-a-d2974468-38cb-437d-ace7-5ae8b6766500#ref=rss)
+### eve
+
+* [https://www.spiegel.de/netzwelt/gadgets/eve-play-im-test-so-kommt-musik-vom-iphone-auf-die-stereoanlage](https://www.spiegel.de/netzwelt/gadgets/eve-play-im-test-so-kommt-musik-vom-iphone-auf-die-stereoanlage-a-cb9f3072-ec53-4208-9ba3-3f89ae48149e#ref=rss)
+### play
+
+* [https://www.spiegel.de/netzwelt/gadgets/eve-play-im-test-so-kommt-musik-vom-iphone-auf-die-stereoanlage](https://www.spiegel.de/netzwelt/gadgets/eve-play-im-test-so-kommt-musik-vom-iphone-auf-die-stereoanlage-a-cb9f3072-ec53-4208-9ba3-3f89ae48149e#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/netzwelt/gadgets/eve-play-im-test-so-kommt-musik-vom-iphone-auf-die-stereoanlage](https://www.spiegel.de/netzwelt/gadgets/eve-play-im-test-so-kommt-musik-vom-iphone-auf-die-stereoanlage-a-cb9f3072-ec53-4208-9ba3-3f89ae48149e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/nach-17-jahren-japans-zentralbank-beendet-minuszins-politik](https://www.spiegel.de/wirtschaft/nach-17-jahren-japans-zentralbank-beendet-minuszins-politik-a-ae4709fc-5b9a-40ec-bfc8-ddca4ec398b2#ref=rss)
+### unter
+
+* [https://www.spiegel.de/netzwelt/gadgets/eve-play-im-test-so-kommt-musik-vom-iphone-auf-die-stereoanlage](https://www.spiegel.de/netzwelt/gadgets/eve-play-im-test-so-kommt-musik-vom-iphone-auf-die-stereoanlage-a-cb9f3072-ec53-4208-9ba3-3f89ae48149e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/chinas-immobilienkrise-evergrande-chef-lebenslang-vom-aktienhandel-ausgeschlossen](https://www.spiegel.de/wirtschaft/unternehmen/chinas-immobilienkrise-evergrande-chef-lebenslang-vom-aktienhandel-ausgeschlossen-a-ddd91dfd-3265-4cd9-b95d-b1bf2b3d5002#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/wirtschaft/soziales/rente-offenbar-anstieg-um-4-57-prozent-im-sommer](https://www.spiegel.de/wirtschaft/soziales/rente-offenbar-anstieg-um-4-57-prozent-im-sommer-a-abd47a0d-b15b-41c3-ba5d-985a15d0cd30#ref=rss)
+* [https://www.spiegel.de/wirtschaft/u-boot-bauer-tkms-thyssenkrupp-fuer-gespraeche-mit-us-investor-ueber-verkauf-der-marinesparte](https://www.spiegel.de/wirtschaft/u-boot-bauer-tkms-thyssenkrupp-fuer-gespraeche-mit-us-investor-ueber-verkauf-der-marinesparte-a-19cc0c4b-1491-4ed2-9f9d-e003ac6cba51#ref=rss)
+### prozent
+
+* [https://www.spiegel.de/wirtschaft/soziales/rente-offenbar-anstieg-um-4-57-prozent-im-sommer](https://www.spiegel.de/wirtschaft/soziales/rente-offenbar-anstieg-um-4-57-prozent-im-sommer-a-abd47a0d-b15b-41c3-ba5d-985a15d0cd30#ref=rss)
+* [https://www.spiegel.de/wirtschaft/nach-17-jahren-japans-zentralbank-beendet-minuszins-politik](https://www.spiegel.de/wirtschaft/nach-17-jahren-japans-zentralbank-beendet-minuszins-politik-a-ae4709fc-5b9a-40ec-bfc8-ddca4ec398b2#ref=rss)
+### sommer
+
+* [https://www.spiegel.de/wirtschaft/soziales/rente-offenbar-anstieg-um-4-57-prozent-im-sommer](https://www.spiegel.de/wirtschaft/soziales/rente-offenbar-anstieg-um-4-57-prozent-im-sommer-a-abd47a0d-b15b-41c3-ba5d-985a15d0cd30#ref=rss)
+### 2023
+
+* [https://www.spiegel.de/wirtschaft/soziales/rente-offenbar-anstieg-um-4-57-prozent-im-sommer](https://www.spiegel.de/wirtschaft/soziales/rente-offenbar-anstieg-um-4-57-prozent-im-sommer-a-abd47a0d-b15b-41c3-ba5d-985a15d0cd30#ref=rss)
+* [https://www.spiegel.de/wirtschaft/agentur-schlaegt-alarm-warum-die-welt-beim-ausbau-erneuerbarer-energien-immer-noch-zu-langsam-ist](https://www.spiegel.de/wirtschaft/agentur-schlaegt-alarm-warum-die-welt-beim-ausbau-erneuerbarer-energien-immer-noch-zu-langsam-ist-a-6a21c661-d24b-4e16-9b7b-52f1b65b760b#ref=rss)
+### erstmals
+
+* [https://www.spiegel.de/wirtschaft/soziales/rente-offenbar-anstieg-um-4-57-prozent-im-sommer](https://www.spiegel.de/wirtschaft/soziales/rente-offenbar-anstieg-um-4-57-prozent-im-sommer-a-abd47a0d-b15b-41c3-ba5d-985a15d0cd30#ref=rss)
+* [https://www.spiegel.de/wirtschaft/nach-17-jahren-japans-zentralbank-beendet-minuszins-politik](https://www.spiegel.de/wirtschaft/nach-17-jahren-japans-zentralbank-beendet-minuszins-politik-a-ae4709fc-5b9a-40ec-bfc8-ddca4ec398b2#ref=rss)
+### thyssenkrupp
+
+* [https://www.spiegel.de/wirtschaft/u-boot-bauer-tkms-thyssenkrupp-fuer-gespraeche-mit-us-investor-ueber-verkauf-der-marinesparte](https://www.spiegel.de/wirtschaft/u-boot-bauer-tkms-thyssenkrupp-fuer-gespraeche-mit-us-investor-ueber-verkauf-der-marinesparte-a-19cc0c4b-1491-4ed2-9f9d-e003ac6cba51#ref=rss)
+### usinvestor
+
+* [https://www.spiegel.de/wirtschaft/u-boot-bauer-tkms-thyssenkrupp-fuer-gespraeche-mit-us-investor-ueber-verkauf-der-marinesparte](https://www.spiegel.de/wirtschaft/u-boot-bauer-tkms-thyssenkrupp-fuer-gespraeche-mit-us-investor-ueber-verkauf-der-marinesparte-a-19cc0c4b-1491-4ed2-9f9d-e003ac6cba51#ref=rss)
+### verkauf
+
+* [https://www.spiegel.de/wirtschaft/u-boot-bauer-tkms-thyssenkrupp-fuer-gespraeche-mit-us-investor-ueber-verkauf-der-marinesparte](https://www.spiegel.de/wirtschaft/u-boot-bauer-tkms-thyssenkrupp-fuer-gespraeche-mit-us-investor-ueber-verkauf-der-marinesparte-a-19cc0c4b-1491-4ed2-9f9d-e003ac6cba51#ref=rss)
+* [https://www.spiegel.de/panorama/leute/freddie-mercury-garden-lodge-in-london-steht-zum-verkauf](https://www.spiegel.de/panorama/leute/freddie-mercury-garden-lodge-in-london-steht-zum-verkauf-a-5f1eaf6c-753a-4222-a31e-6cceb68b5e60#ref=rss)
+### marinesparte
+
+* [https://www.spiegel.de/wirtschaft/u-boot-bauer-tkms-thyssenkrupp-fuer-gespraeche-mit-us-investor-ueber-verkauf-der-marinesparte](https://www.spiegel.de/wirtschaft/u-boot-bauer-tkms-thyssenkrupp-fuer-gespraeche-mit-us-investor-ueber-verkauf-der-marinesparte-a-19cc0c4b-1491-4ed2-9f9d-e003ac6cba51#ref=rss)
+### 25000
+
+* [https://www.spiegel.de/wirtschaft/soziales/brief-an-25-000-beschaeftigte-schrauben-milliardaer-reinhold-wuerth-warnt-vor-afd-diktatur](https://www.spiegel.de/wirtschaft/soziales/brief-an-25-000-beschaeftigte-schrauben-milliardaer-reinhold-wuerth-warnt-vor-afd-diktatur-a-dd88a542-7a7b-4ec8-93fb-710bb5df4495#ref=rss)
+### beschäftigte
+
+* [https://www.spiegel.de/wirtschaft/soziales/brief-an-25-000-beschaeftigte-schrauben-milliardaer-reinhold-wuerth-warnt-vor-afd-diktatur](https://www.spiegel.de/wirtschaft/soziales/brief-an-25-000-beschaeftigte-schrauben-milliardaer-reinhold-wuerth-warnt-vor-afd-diktatur-a-dd88a542-7a7b-4ec8-93fb-710bb5df4495#ref=rss)
+### reinhold
+
+* [https://www.spiegel.de/wirtschaft/soziales/brief-an-25-000-beschaeftigte-schrauben-milliardaer-reinhold-wuerth-warnt-vor-afd-diktatur](https://www.spiegel.de/wirtschaft/soziales/brief-an-25-000-beschaeftigte-schrauben-milliardaer-reinhold-wuerth-warnt-vor-afd-diktatur-a-dd88a542-7a7b-4ec8-93fb-710bb5df4495#ref=rss)
+### würth
+
+* [https://www.spiegel.de/wirtschaft/soziales/brief-an-25-000-beschaeftigte-schrauben-milliardaer-reinhold-wuerth-warnt-vor-afd-diktatur](https://www.spiegel.de/wirtschaft/soziales/brief-an-25-000-beschaeftigte-schrauben-milliardaer-reinhold-wuerth-warnt-vor-afd-diktatur-a-dd88a542-7a7b-4ec8-93fb-710bb5df4495#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/ampel-koalition-diese-partnerschaft-kann-keine-therapie-mehr-retten-meinung](https://www.spiegel.de/politik/deutschland/ampel-koalition-diese-partnerschaft-kann-keine-therapie-mehr-retten-meinung-a-a7cc7d2e-f6ce-4858-b48a-9affb7dadd25#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-will-nicht-von-umstrittenen-aussagen-zum-ukrainekrieg-abruecken](https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-will-nicht-von-umstrittenen-aussagen-zum-ukrainekrieg-abruecken-a-744c2086-35ad-459b-b4bc-8ee0e584d3c8#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/politik/deutschland/ampel-koalition-diese-partnerschaft-kann-keine-therapie-mehr-retten-meinung](https://www.spiegel.de/politik/deutschland/ampel-koalition-diese-partnerschaft-kann-keine-therapie-mehr-retten-meinung-a-a7cc7d2e-f6ce-4858-b48a-9affb7dadd25#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2024-in-paris-300-000-gratis-kondome-im-olympischen-dorf](https://www.spiegel.de/sport/olympia/olympia-2024-in-paris-300-000-gratis-kondome-im-olympischen-dorf-a-2b4b1329-669c-4e0e-8389-9043845669ba#ref=rss)
+### folgen
+
+* [https://www.spiegel.de/politik/deutschland/ampel-koalition-diese-partnerschaft-kann-keine-therapie-mehr-retten-meinung](https://www.spiegel.de/politik/deutschland/ampel-koalition-diese-partnerschaft-kann-keine-therapie-mehr-retten-meinung-a-a7cc7d2e-f6ce-4858-b48a-9affb7dadd25#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2024-in-paris-300-000-gratis-kondome-im-olympischen-dorf](https://www.spiegel.de/sport/olympia/olympia-2024-in-paris-300-000-gratis-kondome-im-olympischen-dorf-a-2b4b1329-669c-4e0e-8389-9043845669ba#ref=rss)
+### rolf
+
+* [https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-will-nicht-von-umstrittenen-aussagen-zum-ukrainekrieg-abruecken](https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-will-nicht-von-umstrittenen-aussagen-zum-ukrainekrieg-abruecken-a-744c2086-35ad-459b-b4bc-8ee0e584d3c8#ref=rss)
+### mützenich
+
+* [https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-will-nicht-von-umstrittenen-aussagen-zum-ukrainekrieg-abruecken](https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-will-nicht-von-umstrittenen-aussagen-zum-ukrainekrieg-abruecken-a-744c2086-35ad-459b-b4bc-8ee0e584d3c8#ref=rss)
+### umstrittenen
+
+* [https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-will-nicht-von-umstrittenen-aussagen-zum-ukrainekrieg-abruecken](https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-will-nicht-von-umstrittenen-aussagen-zum-ukrainekrieg-abruecken-a-744c2086-35ad-459b-b4bc-8ee0e584d3c8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/nach-17-jahren-japans-zentralbank-beendet-minuszins-politik](https://www.spiegel.de/wirtschaft/nach-17-jahren-japans-zentralbank-beendet-minuszins-politik-a-ae4709fc-5b9a-40ec-bfc8-ddca4ec398b2#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-will-nicht-von-umstrittenen-aussagen-zum-ukrainekrieg-abruecken](https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-will-nicht-von-umstrittenen-aussagen-zum-ukrainekrieg-abruecken-a-744c2086-35ad-459b-b4bc-8ee0e584d3c8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/taurus-marie-agnes-strack-zimmermann-zeigt-sich-irritiert-ueber-aussagen-von-bundestagspraesidentin-baerbel-bas](https://www.spiegel.de/politik/deutschland/taurus-marie-agnes-strack-zimmermann-zeigt-sich-irritiert-ueber-aussagen-von-bundestagspraesidentin-baerbel-bas-a-14711c54-9115-423c-a41a-9a88daaae641#ref=rss)
+### erhält
+
+* [https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-will-nicht-von-umstrittenen-aussagen-zum-ukrainekrieg-abruecken](https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-will-nicht-von-umstrittenen-aussagen-zum-ukrainekrieg-abruecken-a-744c2086-35ad-459b-b4bc-8ee0e584d3c8#ref=rss)
+* [https://www.spiegel.de/panorama/guide-michelin-spitzenkoch-fabien-ferre-erhaelt-auf-anhieb-drei-sterne](https://www.spiegel.de/panorama/guide-michelin-spitzenkoch-fabien-ferre-erhaelt-auf-anhieb-drei-sterne-a-df6e19f7-d1ea-4c82-8ec8-260e32952cec#ref=rss)
+### agentur
+
+* [https://www.spiegel.de/wirtschaft/agentur-schlaegt-alarm-warum-die-welt-beim-ausbau-erneuerbarer-energien-immer-noch-zu-langsam-ist](https://www.spiegel.de/wirtschaft/agentur-schlaegt-alarm-warum-die-welt-beim-ausbau-erneuerbarer-energien-immer-noch-zu-langsam-ist-a-6a21c661-d24b-4e16-9b7b-52f1b65b760b#ref=rss)
+### welt
+
+* [https://www.spiegel.de/wirtschaft/agentur-schlaegt-alarm-warum-die-welt-beim-ausbau-erneuerbarer-energien-immer-noch-zu-langsam-ist](https://www.spiegel.de/wirtschaft/agentur-schlaegt-alarm-warum-die-welt-beim-ausbau-erneuerbarer-energien-immer-noch-zu-langsam-ist-a-6a21c661-d24b-4e16-9b7b-52f1b65b760b#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/nvidia-jensen-huang-praesentiert-leistungsstaerksten-chip-der-welt](https://www.spiegel.de/netzwelt/netzpolitik/nvidia-jensen-huang-praesentiert-leistungsstaerksten-chip-der-welt-a-b539dca9-d87f-41f5-b026-e9fbcf5b09d9#ref=rss)
+### ausbau
+
+* [https://www.spiegel.de/wirtschaft/agentur-schlaegt-alarm-warum-die-welt-beim-ausbau-erneuerbarer-energien-immer-noch-zu-langsam-ist](https://www.spiegel.de/wirtschaft/agentur-schlaegt-alarm-warum-die-welt-beim-ausbau-erneuerbarer-energien-immer-noch-zu-langsam-ist-a-6a21c661-d24b-4e16-9b7b-52f1b65b760b#ref=rss)
+### energien
+
+* [https://www.spiegel.de/wirtschaft/agentur-schlaegt-alarm-warum-die-welt-beim-ausbau-erneuerbarer-energien-immer-noch-zu-langsam-ist](https://www.spiegel.de/wirtschaft/agentur-schlaegt-alarm-warum-die-welt-beim-ausbau-erneuerbarer-energien-immer-noch-zu-langsam-ist-a-6a21c661-d24b-4e16-9b7b-52f1b65b760b#ref=rss)
+### wisconsin
+
+* [https://www.spiegel.de/ausland/wisconsin-joe-biden-setzt-auf-waehlerinnen-und-deren-sorgen-um-ein-altes-abtreibungsgesetz](https://www.spiegel.de/ausland/wisconsin-joe-biden-setzt-auf-waehlerinnen-und-deren-sorgen-um-ein-altes-abtreibungsgesetz-a-5b10a2a9-a113-4017-b6eb-85a26c1eb7d1#ref=rss)
+### joe
+
+* [https://www.spiegel.de/ausland/wisconsin-joe-biden-setzt-auf-waehlerinnen-und-deren-sorgen-um-ein-altes-abtreibungsgesetz](https://www.spiegel.de/ausland/wisconsin-joe-biden-setzt-auf-waehlerinnen-und-deren-sorgen-um-ein-altes-abtreibungsgesetz-a-5b10a2a9-a113-4017-b6eb-85a26c1eb7d1#ref=rss)
+### biden
+
+* [https://www.spiegel.de/ausland/wisconsin-joe-biden-setzt-auf-waehlerinnen-und-deren-sorgen-um-ein-altes-abtreibungsgesetz](https://www.spiegel.de/ausland/wisconsin-joe-biden-setzt-auf-waehlerinnen-und-deren-sorgen-um-ein-altes-abtreibungsgesetz-a-5b10a2a9-a113-4017-b6eb-85a26c1eb7d1#ref=rss)
+### wählerinnen
+
+* [https://www.spiegel.de/ausland/wisconsin-joe-biden-setzt-auf-waehlerinnen-und-deren-sorgen-um-ein-altes-abtreibungsgesetz](https://www.spiegel.de/ausland/wisconsin-joe-biden-setzt-auf-waehlerinnen-und-deren-sorgen-um-ein-altes-abtreibungsgesetz-a-5b10a2a9-a113-4017-b6eb-85a26c1eb7d1#ref=rss)
+### abtreibungsgesetz
+
+* [https://www.spiegel.de/ausland/wisconsin-joe-biden-setzt-auf-waehlerinnen-und-deren-sorgen-um-ein-altes-abtreibungsgesetz](https://www.spiegel.de/ausland/wisconsin-joe-biden-setzt-auf-waehlerinnen-und-deren-sorgen-um-ein-altes-abtreibungsgesetz-a-5b10a2a9-a113-4017-b6eb-85a26c1eb7d1#ref=rss)
+### mittleren
+
+* [https://www.spiegel.de/ausland/wisconsin-joe-biden-setzt-auf-waehlerinnen-und-deren-sorgen-um-ein-altes-abtreibungsgesetz](https://www.spiegel.de/ausland/wisconsin-joe-biden-setzt-auf-waehlerinnen-und-deren-sorgen-um-ein-altes-abtreibungsgesetz-a-5b10a2a9-a113-4017-b6eb-85a26c1eb7d1#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/einsamkeit-amerikaner-mittleren-alters-deutlich-staerker-betroffen-als-europaeer](https://www.spiegel.de/wissenschaft/mensch/einsamkeit-amerikaner-mittleren-alters-deutlich-staerker-betroffen-als-europaeer-a-6f85c5c0-01cb-4383-9ffa-037b2e907e2f#ref=rss)
+### einsamkeit
+
+* [https://www.spiegel.de/wissenschaft/mensch/einsamkeit-amerikaner-mittleren-alters-deutlich-staerker-betroffen-als-europaeer](https://www.spiegel.de/wissenschaft/mensch/einsamkeit-amerikaner-mittleren-alters-deutlich-staerker-betroffen-als-europaeer-a-6f85c5c0-01cb-4383-9ffa-037b2e907e2f#ref=rss)
+### betroffen
+
+* [https://www.spiegel.de/wissenschaft/mensch/einsamkeit-amerikaner-mittleren-alters-deutlich-staerker-betroffen-als-europaeer](https://www.spiegel.de/wissenschaft/mensch/einsamkeit-amerikaner-mittleren-alters-deutlich-staerker-betroffen-als-europaeer-a-6f85c5c0-01cb-4383-9ffa-037b2e907e2f#ref=rss)
+### studie
+
+* [https://www.spiegel.de/wissenschaft/mensch/einsamkeit-amerikaner-mittleren-alters-deutlich-staerker-betroffen-als-europaeer](https://www.spiegel.de/wissenschaft/mensch/einsamkeit-amerikaner-mittleren-alters-deutlich-staerker-betroffen-als-europaeer-a-6f85c5c0-01cb-4383-9ffa-037b2e907e2f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-demokratiestudie-bertelsmann-stiftung-olaf-scholz-ivan-krastev-ukraine-kontaktgruppe-synodaler-weg-papst-franziskus-kaja-kallas](https://www.spiegel.de/politik/deutschland/news-demokratiestudie-bertelsmann-stiftung-olaf-scholz-ivan-krastev-ukraine-kontaktgruppe-synodaler-weg-papst-franziskus-kaja-kallas-a-276bb762-c291-4eda-8025-b59ba09f1021#ref=rss)
+### länder
+
+* [https://www.spiegel.de/wissenschaft/mensch/einsamkeit-amerikaner-mittleren-alters-deutlich-staerker-betroffen-als-europaeer](https://www.spiegel.de/wissenschaft/mensch/einsamkeit-amerikaner-mittleren-alters-deutlich-staerker-betroffen-als-europaeer-a-6f85c5c0-01cb-4383-9ffa-037b2e907e2f#ref=rss)
+* [https://www.spiegel.de/ausland/demokratie-index-in-immer-mehr-schwellenlaendern-erodiert-die-demokratie](https://www.spiegel.de/ausland/demokratie-index-in-immer-mehr-schwellenlaendern-erodiert-die-demokratie-a-07ce146a-b782-4809-8441-a017dac31bea#ref=rss)
+### politik
+
+* [https://www.spiegel.de/wissenschaft/mensch/einsamkeit-amerikaner-mittleren-alters-deutlich-staerker-betroffen-als-europaeer](https://www.spiegel.de/wissenschaft/mensch/einsamkeit-amerikaner-mittleren-alters-deutlich-staerker-betroffen-als-europaeer-a-6f85c5c0-01cb-4383-9ffa-037b2e907e2f#ref=rss)
+* [https://www.spiegel.de/ausland/wie-wladimir-putin-sich-macht-und-kontrolle-ueber-ganz-russland-sicherte-podcast](https://www.spiegel.de/ausland/wie-wladimir-putin-sich-macht-und-kontrolle-ueber-ganz-russland-sicherte-podcast-a-a77c4b5a-280d-4dc5-94fd-7679aa3795b2#ref=rss)
+### freddie
+
+* [https://www.spiegel.de/panorama/leute/freddie-mercury-garden-lodge-in-london-steht-zum-verkauf](https://www.spiegel.de/panorama/leute/freddie-mercury-garden-lodge-in-london-steht-zum-verkauf-a-5f1eaf6c-753a-4222-a31e-6cceb68b5e60#ref=rss)
+### mercury
+
+* [https://www.spiegel.de/panorama/leute/freddie-mercury-garden-lodge-in-london-steht-zum-verkauf](https://www.spiegel.de/panorama/leute/freddie-mercury-garden-lodge-in-london-steht-zum-verkauf-a-5f1eaf6c-753a-4222-a31e-6cceb68b5e60#ref=rss)
+### letzten
+
+* [https://www.spiegel.de/panorama/leute/freddie-mercury-garden-lodge-in-london-steht-zum-verkauf](https://www.spiegel.de/panorama/leute/freddie-mercury-garden-lodge-in-london-steht-zum-verkauf-a-5f1eaf6c-753a-4222-a31e-6cceb68b5e60#ref=rss)
+* [https://www.spiegel.de/ausland/nordkorea-kim-jong-un-ueberwacht-test-von-supergrossem-raketenwerfer](https://www.spiegel.de/ausland/nordkorea-kim-jong-un-ueberwacht-test-von-supergrossem-raketenwerfer-a-afa02d40-1107-4c90-b52e-f9af2c9ea048#ref=rss)
+### wladimir
+
+* [https://www.spiegel.de/ausland/wie-wladimir-putin-sich-macht-und-kontrolle-ueber-ganz-russland-sicherte-podcast](https://www.spiegel.de/ausland/wie-wladimir-putin-sich-macht-und-kontrolle-ueber-ganz-russland-sicherte-podcast-a-a77c4b5a-280d-4dc5-94fd-7679aa3795b2#ref=rss)
+### putin
+
+* [https://www.spiegel.de/ausland/wie-wladimir-putin-sich-macht-und-kontrolle-ueber-ganz-russland-sicherte-podcast](https://www.spiegel.de/ausland/wie-wladimir-putin-sich-macht-und-kontrolle-ueber-ganz-russland-sicherte-podcast-a-a77c4b5a-280d-4dc5-94fd-7679aa3795b2#ref=rss)
+### macht
+
+* [https://www.spiegel.de/ausland/wie-wladimir-putin-sich-macht-und-kontrolle-ueber-ganz-russland-sicherte-podcast](https://www.spiegel.de/ausland/wie-wladimir-putin-sich-macht-und-kontrolle-ueber-ganz-russland-sicherte-podcast-a-a77c4b5a-280d-4dc5-94fd-7679aa3795b2#ref=rss)
+### zentralbank
+
+* [https://www.spiegel.de/wirtschaft/nach-17-jahren-japans-zentralbank-beendet-minuszins-politik](https://www.spiegel.de/wirtschaft/nach-17-jahren-japans-zentralbank-beendet-minuszins-politik-a-ae4709fc-5b9a-40ec-bfc8-ddca4ec398b2#ref=rss)
+### hoch
+
+* [https://www.spiegel.de/wirtschaft/nach-17-jahren-japans-zentralbank-beendet-minuszins-politik](https://www.spiegel.de/wirtschaft/nach-17-jahren-japans-zentralbank-beendet-minuszins-politik-a-ae4709fc-5b9a-40ec-bfc8-ddca4ec398b2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/chinas-immobilienkrise-evergrande-chef-lebenslang-vom-aktienhandel-ausgeschlossen](https://www.spiegel.de/wirtschaft/unternehmen/chinas-immobilienkrise-evergrande-chef-lebenslang-vom-aktienhandel-ausgeschlossen-a-ddd91dfd-3265-4cd9-b95d-b1bf2b3d5002#ref=rss)
+### liegt
+
+* [https://www.spiegel.de/wirtschaft/nach-17-jahren-japans-zentralbank-beendet-minuszins-politik](https://www.spiegel.de/wirtschaft/nach-17-jahren-japans-zentralbank-beendet-minuszins-politik-a-ae4709fc-5b9a-40ec-bfc8-ddca4ec398b2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-demokratiestudie-bertelsmann-stiftung-olaf-scholz-ivan-krastev-ukraine-kontaktgruppe-synodaler-weg-papst-franziskus-kaja-kallas](https://www.spiegel.de/politik/deutschland/news-demokratiestudie-bertelsmann-stiftung-olaf-scholz-ivan-krastev-ukraine-kontaktgruppe-synodaler-weg-papst-franziskus-kaja-kallas-a-276bb762-c291-4eda-8025-b59ba09f1021#ref=rss)
+### strackzimmermann
+
+* [https://www.spiegel.de/politik/deutschland/taurus-marie-agnes-strack-zimmermann-zeigt-sich-irritiert-ueber-aussagen-von-bundestagspraesidentin-baerbel-bas](https://www.spiegel.de/politik/deutschland/taurus-marie-agnes-strack-zimmermann-zeigt-sich-irritiert-ueber-aussagen-von-bundestagspraesidentin-baerbel-bas-a-14711c54-9115-423c-a41a-9a88daaae641#ref=rss)
+### bundestagspräsidentin
+
+* [https://www.spiegel.de/politik/deutschland/taurus-marie-agnes-strack-zimmermann-zeigt-sich-irritiert-ueber-aussagen-von-bundestagspraesidentin-baerbel-bas](https://www.spiegel.de/politik/deutschland/taurus-marie-agnes-strack-zimmermann-zeigt-sich-irritiert-ueber-aussagen-von-bundestagspraesidentin-baerbel-bas-a-14711c54-9115-423c-a41a-9a88daaae641#ref=rss)
+### bas
+
+* [https://www.spiegel.de/politik/deutschland/taurus-marie-agnes-strack-zimmermann-zeigt-sich-irritiert-ueber-aussagen-von-bundestagspraesidentin-baerbel-bas](https://www.spiegel.de/politik/deutschland/taurus-marie-agnes-strack-zimmermann-zeigt-sich-irritiert-ueber-aussagen-von-bundestagspraesidentin-baerbel-bas-a-14711c54-9115-423c-a41a-9a88daaae641#ref=rss)
+### vorsitzende
+
+* [https://www.spiegel.de/politik/deutschland/taurus-marie-agnes-strack-zimmermann-zeigt-sich-irritiert-ueber-aussagen-von-bundestagspraesidentin-baerbel-bas](https://www.spiegel.de/politik/deutschland/taurus-marie-agnes-strack-zimmermann-zeigt-sich-irritiert-ueber-aussagen-von-bundestagspraesidentin-baerbel-bas-a-14711c54-9115-423c-a41a-9a88daaae641#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/chinas-immobilienkrise-evergrande-chef-lebenslang-vom-aktienhandel-ausgeschlossen](https://www.spiegel.de/wirtschaft/unternehmen/chinas-immobilienkrise-evergrande-chef-lebenslang-vom-aktienhandel-ausgeschlossen-a-ddd91dfd-3265-4cd9-b95d-b1bf2b3d5002#ref=rss)
 ### bürgergeld
 
-* [https://www.spiegel.de/politik/deutschland/cdu-und-buergergeld-2-1-fuer-die-friedrich-merz-ultras](https://www.spiegel.de/politik/deutschland/cdu-und-buergergeld-2-1-fuer-die-friedrich-merz-ultras-a-55acb5ec-2c34-4a7d-9ab2-9019fbf39d44#ref=rss)
-### cdu
+* [https://www.spiegel.de/politik/deutschland/buergergeld-verbaende-attackieren-cdu-plaene-fuer-sozialstaatsreform](https://www.spiegel.de/politik/deutschland/buergergeld-verbaende-attackieren-cdu-plaene-fuer-sozialstaatsreform-a-877551e4-a94e-42ef-92d3-4abb01905eab#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/politik/deutschland/cdu-und-buergergeld-2-1-fuer-die-friedrich-merz-ultras](https://www.spiegel.de/politik/deutschland/cdu-und-buergergeld-2-1-fuer-die-friedrich-merz-ultras-a-55acb5ec-2c34-4a7d-9ab2-9019fbf39d44#ref=rss)
-### plant
+* [https://www.spiegel.de/politik/deutschland/buergergeld-verbaende-attackieren-cdu-plaene-fuer-sozialstaatsreform](https://www.spiegel.de/politik/deutschland/buergergeld-verbaende-attackieren-cdu-plaene-fuer-sozialstaatsreform-a-877551e4-a94e-42ef-92d3-4abb01905eab#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/nvidia-jensen-huang-praesentiert-leistungsstaerksten-chip-der-welt](https://www.spiegel.de/netzwelt/netzpolitik/nvidia-jensen-huang-praesentiert-leistungsstaerksten-chip-der-welt-a-b539dca9-d87f-41f5-b026-e9fbcf5b09d9#ref=rss)
+### emotionen
 
-* [https://www.spiegel.de/politik/deutschland/cdu-und-buergergeld-2-1-fuer-die-friedrich-merz-ultras](https://www.spiegel.de/politik/deutschland/cdu-und-buergergeld-2-1-fuer-die-friedrich-merz-ultras-a-55acb5ec-2c34-4a7d-9ab2-9019fbf39d44#ref=rss)
-* [https://www.spiegel.de/ausland/jared-kushner-donald-trump-schwiegersohn-plant-luxushotel-in-belgrad-offenbar-genau-dort-wo-einst-nato-bomben-fielen](https://www.spiegel.de/ausland/jared-kushner-donald-trump-schwiegersohn-plant-luxushotel-in-belgrad-offenbar-genau-dort-wo-einst-nato-bomben-fielen-a-38e14316-b83c-487f-945e-205aa9955eb9#ref=rss)
-### kehrtwende
+* [https://www.spiegel.de/kultur/israel-gaza-konflikt-gefuehlsforscher-erklaert-den-einfluss-von-emotionen-auf-den-nahost-diskurs](https://www.spiegel.de/kultur/israel-gaza-konflikt-gefuehlsforscher-erklaert-den-einfluss-von-emotionen-auf-den-nahost-diskurs-a-71af3180-e443-4084-8401-d56321893050#ref=rss)
+### israel
 
-* [https://www.spiegel.de/politik/deutschland/cdu-und-buergergeld-2-1-fuer-die-friedrich-merz-ultras](https://www.spiegel.de/politik/deutschland/cdu-und-buergergeld-2-1-fuer-die-friedrich-merz-ultras-a-55acb5ec-2c34-4a7d-9ab2-9019fbf39d44#ref=rss)
-### sozialpolitik
+* [https://www.spiegel.de/kultur/israel-gaza-konflikt-gefuehlsforscher-erklaert-den-einfluss-von-emotionen-auf-den-nahost-diskurs](https://www.spiegel.de/kultur/israel-gaza-konflikt-gefuehlsforscher-erklaert-den-einfluss-von-emotionen-auf-den-nahost-diskurs-a-71af3180-e443-4084-8401-d56321893050#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-empoert-mit-aussagen-ueber-juden-die-israel-hassen](https://www.spiegel.de/ausland/donald-trump-empoert-mit-aussagen-ueber-juden-die-israel-hassen-a-8fc44ee0-61c2-4959-982a-4dba7596e168#ref=rss)
+### trainiert
 
-* [https://www.spiegel.de/politik/deutschland/cdu-und-buergergeld-2-1-fuer-die-friedrich-merz-ultras](https://www.spiegel.de/politik/deutschland/cdu-und-buergergeld-2-1-fuer-die-friedrich-merz-ultras-a-55acb5ec-2c34-4a7d-9ab2-9019fbf39d44#ref=rss)
-### grundsicherung
+* [https://www.spiegel.de/start/fussball-bundesliga-was-man-von-profifussballern-fuer-die-eigene-karriere-lernen-kann](https://www.spiegel.de/start/fussball-bundesliga-was-man-von-profifussballern-fuer-die-eigene-karriere-lernen-kann-a-8f388015-f87b-43e1-8092-cf50ba549c88#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/nvidia-jensen-huang-praesentiert-leistungsstaerksten-chip-der-welt](https://www.spiegel.de/netzwelt/netzpolitik/nvidia-jensen-huang-praesentiert-leistungsstaerksten-chip-der-welt-a-b539dca9-d87f-41f5-b026-e9fbcf5b09d9#ref=rss)
+### bertelsmann
 
-* [https://www.spiegel.de/politik/deutschland/cdu-und-buergergeld-2-1-fuer-die-friedrich-merz-ultras](https://www.spiegel.de/politik/deutschland/cdu-und-buergergeld-2-1-fuer-die-friedrich-merz-ultras-a-55acb5ec-2c34-4a7d-9ab2-9019fbf39d44#ref=rss)
-### düfte
+* [https://www.spiegel.de/politik/deutschland/news-demokratiestudie-bertelsmann-stiftung-olaf-scholz-ivan-krastev-ukraine-kontaktgruppe-synodaler-weg-papst-franziskus-kaja-kallas](https://www.spiegel.de/politik/deutschland/news-demokratiestudie-bertelsmann-stiftung-olaf-scholz-ivan-krastev-ukraine-kontaktgruppe-synodaler-weg-papst-franziskus-kaja-kallas-a-276bb762-c291-4eda-8025-b59ba09f1021#ref=rss)
+* [https://www.spiegel.de/ausland/demokratie-index-in-immer-mehr-schwellenlaendern-erodiert-die-demokratie](https://www.spiegel.de/ausland/demokratie-index-in-immer-mehr-schwellenlaendern-erodiert-die-demokratie-a-07ce146a-b782-4809-8441-a017dac31bea#ref=rss)
+### stiftung
 
-* [https://www.spiegel.de/wissenschaft/mensch/geruchssinn-wie-duefte-unsere-kauflust-steigern-und-wem-ihr-unbewusster-einfluss-helfen-koennte](https://www.spiegel.de/wissenschaft/mensch/geruchssinn-wie-duefte-unsere-kauflust-steigern-und-wem-ihr-unbewusster-einfluss-helfen-koennte-a-38671c81-bc4a-4f1c-9c74-cbe5dd9a2bd1#ref=rss)
-### unsere
+* [https://www.spiegel.de/politik/deutschland/news-demokratiestudie-bertelsmann-stiftung-olaf-scholz-ivan-krastev-ukraine-kontaktgruppe-synodaler-weg-papst-franziskus-kaja-kallas](https://www.spiegel.de/politik/deutschland/news-demokratiestudie-bertelsmann-stiftung-olaf-scholz-ivan-krastev-ukraine-kontaktgruppe-synodaler-weg-papst-franziskus-kaja-kallas-a-276bb762-c291-4eda-8025-b59ba09f1021#ref=rss)
+* [https://www.spiegel.de/ausland/demokratie-index-in-immer-mehr-schwellenlaendern-erodiert-die-demokratie](https://www.spiegel.de/ausland/demokratie-index-in-immer-mehr-schwellenlaendern-erodiert-die-demokratie-a-07ce146a-b782-4809-8441-a017dac31bea#ref=rss)
+### neue
 
-* [https://www.spiegel.de/wissenschaft/mensch/geruchssinn-wie-duefte-unsere-kauflust-steigern-und-wem-ihr-unbewusster-einfluss-helfen-koennte](https://www.spiegel.de/wissenschaft/mensch/geruchssinn-wie-duefte-unsere-kauflust-steigern-und-wem-ihr-unbewusster-einfluss-helfen-koennte-a-38671c81-bc4a-4f1c-9c74-cbe5dd9a2bd1#ref=rss)
-### kauflust
+* [https://www.spiegel.de/politik/deutschland/news-demokratiestudie-bertelsmann-stiftung-olaf-scholz-ivan-krastev-ukraine-kontaktgruppe-synodaler-weg-papst-franziskus-kaja-kallas](https://www.spiegel.de/politik/deutschland/news-demokratiestudie-bertelsmann-stiftung-olaf-scholz-ivan-krastev-ukraine-kontaktgruppe-synodaler-weg-papst-franziskus-kaja-kallas-a-276bb762-c291-4eda-8025-b59ba09f1021#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/nvidia-jensen-huang-praesentiert-leistungsstaerksten-chip-der-welt](https://www.spiegel.de/netzwelt/netzpolitik/nvidia-jensen-huang-praesentiert-leistungsstaerksten-chip-der-welt-a-b539dca9-d87f-41f5-b026-e9fbcf5b09d9#ref=rss)
+### donald
 
-* [https://www.spiegel.de/wissenschaft/mensch/geruchssinn-wie-duefte-unsere-kauflust-steigern-und-wem-ihr-unbewusster-einfluss-helfen-koennte](https://www.spiegel.de/wissenschaft/mensch/geruchssinn-wie-duefte-unsere-kauflust-steigern-und-wem-ihr-unbewusster-einfluss-helfen-koennte-a-38671c81-bc4a-4f1c-9c74-cbe5dd9a2bd1#ref=rss)
-### steigern
+* [https://www.spiegel.de/ausland/donald-trump-empoert-mit-aussagen-ueber-juden-die-israel-hassen](https://www.spiegel.de/ausland/donald-trump-empoert-mit-aussagen-ueber-juden-die-israel-hassen-a-8fc44ee0-61c2-4959-982a-4dba7596e168#ref=rss)
+### trump
 
-* [https://www.spiegel.de/wissenschaft/mensch/geruchssinn-wie-duefte-unsere-kauflust-steigern-und-wem-ihr-unbewusster-einfluss-helfen-koennte](https://www.spiegel.de/wissenschaft/mensch/geruchssinn-wie-duefte-unsere-kauflust-steigern-und-wem-ihr-unbewusster-einfluss-helfen-koennte-a-38671c81-bc4a-4f1c-9c74-cbe5dd9a2bd1#ref=rss)
-### berichtet
+* [https://www.spiegel.de/ausland/donald-trump-empoert-mit-aussagen-ueber-juden-die-israel-hassen](https://www.spiegel.de/ausland/donald-trump-empoert-mit-aussagen-ueber-juden-die-israel-hassen-a-8fc44ee0-61c2-4959-982a-4dba7596e168#ref=rss)
+### juden
 
-* [https://www.spiegel.de/wissenschaft/mensch/geruchssinn-wie-duefte-unsere-kauflust-steigern-und-wem-ihr-unbewusster-einfluss-helfen-koennte](https://www.spiegel.de/wissenschaft/mensch/geruchssinn-wie-duefte-unsere-kauflust-steigern-und-wem-ihr-unbewusster-einfluss-helfen-koennte-a-38671c81-bc4a-4f1c-9c74-cbe5dd9a2bd1#ref=rss)
-* [https://www.spiegel.de/panorama/boeing-passagier-ueber-zerfetzte-flugzeugwand-bei-alaska-airlines-ich-starrte-in-das-loch](https://www.spiegel.de/panorama/boeing-passagier-ueber-zerfetzte-flugzeugwand-bei-alaska-airlines-ich-starrte-in-das-loch-a-e5333406-8604-49a4-9d7a-b7435f2be103#ref=rss)
-### luxushotel
+* [https://www.spiegel.de/ausland/donald-trump-empoert-mit-aussagen-ueber-juden-die-israel-hassen](https://www.spiegel.de/ausland/donald-trump-empoert-mit-aussagen-ueber-juden-die-israel-hassen-a-8fc44ee0-61c2-4959-982a-4dba7596e168#ref=rss)
+### jensen
 
-* [https://www.spiegel.de/ausland/jared-kushner-donald-trump-schwiegersohn-plant-luxushotel-in-belgrad-offenbar-genau-dort-wo-einst-nato-bomben-fielen](https://www.spiegel.de/ausland/jared-kushner-donald-trump-schwiegersohn-plant-luxushotel-in-belgrad-offenbar-genau-dort-wo-einst-nato-bomben-fielen-a-38e14316-b83c-487f-945e-205aa9955eb9#ref=rss)
-### belgrad
+* [https://www.spiegel.de/netzwelt/netzpolitik/nvidia-jensen-huang-praesentiert-leistungsstaerksten-chip-der-welt](https://www.spiegel.de/netzwelt/netzpolitik/nvidia-jensen-huang-praesentiert-leistungsstaerksten-chip-der-welt-a-b539dca9-d87f-41f5-b026-e9fbcf5b09d9#ref=rss)
+### huang
 
-* [https://www.spiegel.de/ausland/jared-kushner-donald-trump-schwiegersohn-plant-luxushotel-in-belgrad-offenbar-genau-dort-wo-einst-nato-bomben-fielen](https://www.spiegel.de/ausland/jared-kushner-donald-trump-schwiegersohn-plant-luxushotel-in-belgrad-offenbar-genau-dort-wo-einst-nato-bomben-fielen-a-38e14316-b83c-487f-945e-205aa9955eb9#ref=rss)
-### einst
+* [https://www.spiegel.de/netzwelt/netzpolitik/nvidia-jensen-huang-praesentiert-leistungsstaerksten-chip-der-welt](https://www.spiegel.de/netzwelt/netzpolitik/nvidia-jensen-huang-praesentiert-leistungsstaerksten-chip-der-welt-a-b539dca9-d87f-41f5-b026-e9fbcf5b09d9#ref=rss)
+### kim
 
-* [https://www.spiegel.de/ausland/jared-kushner-donald-trump-schwiegersohn-plant-luxushotel-in-belgrad-offenbar-genau-dort-wo-einst-nato-bomben-fielen](https://www.spiegel.de/ausland/jared-kushner-donald-trump-schwiegersohn-plant-luxushotel-in-belgrad-offenbar-genau-dort-wo-einst-nato-bomben-fielen-a-38e14316-b83c-487f-945e-205aa9955eb9#ref=rss)
-### alexej
+* [https://www.spiegel.de/ausland/nordkorea-kim-jong-un-ueberwacht-test-von-supergrossem-raketenwerfer](https://www.spiegel.de/ausland/nordkorea-kim-jong-un-ueberwacht-test-von-supergrossem-raketenwerfer-a-afa02d40-1107-4c90-b52e-f9af2c9ea048#ref=rss)
+### jong
 
-* [https://www.spiegel.de/ausland/alexej-nawalny-eu-verhaengt-wegen-sanktionen-gegen-russland](https://www.spiegel.de/ausland/alexej-nawalny-eu-verhaengt-wegen-sanktionen-gegen-russland-a-1fd3970e-3808-4460-b04e-1c9ec32fc938#ref=rss)
-### nawalny
+* [https://www.spiegel.de/ausland/nordkorea-kim-jong-un-ueberwacht-test-von-supergrossem-raketenwerfer](https://www.spiegel.de/ausland/nordkorea-kim-jong-un-ueberwacht-test-von-supergrossem-raketenwerfer-a-afa02d40-1107-4c90-b52e-f9af2c9ea048#ref=rss)
+### un
 
-* [https://www.spiegel.de/ausland/alexej-nawalny-eu-verhaengt-wegen-sanktionen-gegen-russland](https://www.spiegel.de/ausland/alexej-nawalny-eu-verhaengt-wegen-sanktionen-gegen-russland-a-1fd3970e-3808-4460-b04e-1c9ec32fc938#ref=rss)
-### sanktionen
+* [https://www.spiegel.de/ausland/nordkorea-kim-jong-un-ueberwacht-test-von-supergrossem-raketenwerfer](https://www.spiegel.de/ausland/nordkorea-kim-jong-un-ueberwacht-test-von-supergrossem-raketenwerfer-a-afa02d40-1107-4c90-b52e-f9af2c9ea048#ref=rss)
+### armut
 
-* [https://www.spiegel.de/ausland/alexej-nawalny-eu-verhaengt-wegen-sanktionen-gegen-russland](https://www.spiegel.de/ausland/alexej-nawalny-eu-verhaengt-wegen-sanktionen-gegen-russland-a-1fd3970e-3808-4460-b04e-1c9ec32fc938#ref=rss)
-### mehrere
+* [https://www.spiegel.de/politik/deutschland/armut-europarat-beklagt-wachsende-ungleichheit-in-deutschland](https://www.spiegel.de/politik/deutschland/armut-europarat-beklagt-wachsende-ungleichheit-in-deutschland-a-039a58ed-e4eb-4439-8f98-ad10255a3fbc#ref=rss)
+### europarat
 
-* [https://www.spiegel.de/ausland/alexej-nawalny-eu-verhaengt-wegen-sanktionen-gegen-russland](https://www.spiegel.de/ausland/alexej-nawalny-eu-verhaengt-wegen-sanktionen-gegen-russland-a-1fd3970e-3808-4460-b04e-1c9ec32fc938#ref=rss)
-* [https://www.spiegel.de/ausland/nigeria-weitere-87-menschen-verschleppt](https://www.spiegel.de/ausland/nigeria-weitere-87-menschen-verschleppt-a-65252346-2e66-427d-b401-da247699a52a#ref=rss)
-### vertreter
+* [https://www.spiegel.de/politik/deutschland/armut-europarat-beklagt-wachsende-ungleichheit-in-deutschland](https://www.spiegel.de/politik/deutschland/armut-europarat-beklagt-wachsende-ungleichheit-in-deutschland-a-039a58ed-e4eb-4439-8f98-ad10255a3fbc#ref=rss)
+### olympia
 
-* [https://www.spiegel.de/ausland/alexej-nawalny-eu-verhaengt-wegen-sanktionen-gegen-russland](https://www.spiegel.de/ausland/alexej-nawalny-eu-verhaengt-wegen-sanktionen-gegen-russland-a-1fd3970e-3808-4460-b04e-1c9ec32fc938#ref=rss)
-* [https://www.spiegel.de/wirtschaft/signa-glaeubiger-unterstuetzen-sanierungsplan-prime-konkurs-abgewendet](https://www.spiegel.de/wirtschaft/signa-glaeubiger-unterstuetzen-sanierungsplan-prime-konkurs-abgewendet-a-d3491324-15ee-42e6-8809-a8257f3a57b6#ref=rss)
-### sanierungsplan
+* [https://www.spiegel.de/sport/olympia/olympia-2024-in-paris-300-000-gratis-kondome-im-olympischen-dorf](https://www.spiegel.de/sport/olympia/olympia-2024-in-paris-300-000-gratis-kondome-im-olympischen-dorf-a-2b4b1329-669c-4e0e-8389-9043845669ba#ref=rss)
+### paris
 
-* [https://www.spiegel.de/wirtschaft/signa-glaeubiger-unterstuetzen-sanierungsplan-prime-konkurs-abgewendet](https://www.spiegel.de/wirtschaft/signa-glaeubiger-unterstuetzen-sanierungsplan-prime-konkurs-abgewendet-a-d3491324-15ee-42e6-8809-a8257f3a57b6#ref=rss)
-### gläubiger
+* [https://www.spiegel.de/sport/olympia/olympia-2024-in-paris-300-000-gratis-kondome-im-olympischen-dorf](https://www.spiegel.de/sport/olympia/olympia-2024-in-paris-300-000-gratis-kondome-im-olympischen-dorf-a-2b4b1329-669c-4e0e-8389-9043845669ba#ref=rss)
+### resturlaub
 
-* [https://www.spiegel.de/wirtschaft/signa-glaeubiger-unterstuetzen-sanierungsplan-prime-konkurs-abgewendet](https://www.spiegel.de/wirtschaft/signa-glaeubiger-unterstuetzen-sanierungsplan-prime-konkurs-abgewendet-a-d3491324-15ee-42e6-8809-a8257f3a57b6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/oesterreich-benko-pleite-regierung-will-signa-sanierungsplaenen-nicht-zustimmen](https://www.spiegel.de/wirtschaft/oesterreich-benko-pleite-regierung-will-signa-sanierungsplaenen-nicht-zustimmen-a-34382f83-1f09-4b43-9a98-de86d30682ef#ref=rss)
-### regierung
+* [https://www.spiegel.de/karriere/resturlaub-nehmen-warum-wir-unseren-urlaub-oft-verfallen-lassen](https://www.spiegel.de/karriere/resturlaub-nehmen-warum-wir-unseren-urlaub-oft-verfallen-lassen-a-7e413d00-0482-429f-a3c4-6f20bb9e98a2#ref=rss)
+### nehmen
 
-* [https://www.spiegel.de/wirtschaft/signa-glaeubiger-unterstuetzen-sanierungsplan-prime-konkurs-abgewendet](https://www.spiegel.de/wirtschaft/signa-glaeubiger-unterstuetzen-sanierungsplan-prime-konkurs-abgewendet-a-d3491324-15ee-42e6-8809-a8257f3a57b6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/oesterreich-benko-pleite-regierung-will-signa-sanierungsplaenen-nicht-zustimmen](https://www.spiegel.de/wirtschaft/oesterreich-benko-pleite-regierung-will-signa-sanierungsplaenen-nicht-zustimmen-a-34382f83-1f09-4b43-9a98-de86d30682ef#ref=rss)
-### gerhard
+* [https://www.spiegel.de/karriere/resturlaub-nehmen-warum-wir-unseren-urlaub-oft-verfallen-lassen](https://www.spiegel.de/karriere/resturlaub-nehmen-warum-wir-unseren-urlaub-oft-verfallen-lassen-a-7e413d00-0482-429f-a3c4-6f20bb9e98a2#ref=rss)
+### michelin
 
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-gerhard-schroeder-lobt-olaf-scholz-fuer-nein-zu-taurus](https://www.spiegel.de/politik/deutschland/ukraine-krieg-gerhard-schroeder-lobt-olaf-scholz-fuer-nein-zu-taurus-a-e5f3454f-f369-454d-815f-79233121c309#ref=rss)
-### schröder
+* [https://www.spiegel.de/panorama/guide-michelin-spitzenkoch-fabien-ferre-erhaelt-auf-anhieb-drei-sterne](https://www.spiegel.de/panorama/guide-michelin-spitzenkoch-fabien-ferre-erhaelt-auf-anhieb-drei-sterne-a-df6e19f7-d1ea-4c82-8ec8-260e32952cec#ref=rss)
+### fabien
 
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-gerhard-schroeder-lobt-olaf-scholz-fuer-nein-zu-taurus](https://www.spiegel.de/politik/deutschland/ukraine-krieg-gerhard-schroeder-lobt-olaf-scholz-fuer-nein-zu-taurus-a-e5f3454f-f369-454d-815f-79233121c309#ref=rss)
-### olaf
+* [https://www.spiegel.de/panorama/guide-michelin-spitzenkoch-fabien-ferre-erhaelt-auf-anhieb-drei-sterne](https://www.spiegel.de/panorama/guide-michelin-spitzenkoch-fabien-ferre-erhaelt-auf-anhieb-drei-sterne-a-df6e19f7-d1ea-4c82-8ec8-260e32952cec#ref=rss)
+### ferré
 
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-gerhard-schroeder-lobt-olaf-scholz-fuer-nein-zu-taurus](https://www.spiegel.de/politik/deutschland/ukraine-krieg-gerhard-schroeder-lobt-olaf-scholz-fuer-nein-zu-taurus-a-e5f3454f-f369-454d-815f-79233121c309#ref=rss)
-### scholz
+* [https://www.spiegel.de/panorama/guide-michelin-spitzenkoch-fabien-ferre-erhaelt-auf-anhieb-drei-sterne](https://www.spiegel.de/panorama/guide-michelin-spitzenkoch-fabien-ferre-erhaelt-auf-anhieb-drei-sterne-a-df6e19f7-d1ea-4c82-8ec8-260e32952cec#ref=rss)
+### drei
 
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-gerhard-schroeder-lobt-olaf-scholz-fuer-nein-zu-taurus](https://www.spiegel.de/politik/deutschland/ukraine-krieg-gerhard-schroeder-lobt-olaf-scholz-fuer-nein-zu-taurus-a-e5f3454f-f369-454d-815f-79233121c309#ref=rss)
-### boeing
+* [https://www.spiegel.de/panorama/guide-michelin-spitzenkoch-fabien-ferre-erhaelt-auf-anhieb-drei-sterne](https://www.spiegel.de/panorama/guide-michelin-spitzenkoch-fabien-ferre-erhaelt-auf-anhieb-drei-sterne-a-df6e19f7-d1ea-4c82-8ec8-260e32952cec#ref=rss)
+### sterne
 
-* [https://www.spiegel.de/panorama/boeing-passagier-ueber-zerfetzte-flugzeugwand-bei-alaska-airlines-ich-starrte-in-das-loch](https://www.spiegel.de/panorama/boeing-passagier-ueber-zerfetzte-flugzeugwand-bei-alaska-airlines-ich-starrte-in-das-loch-a-e5333406-8604-49a4-9d7a-b7435f2be103#ref=rss)
-### flugzeugwand
-
-* [https://www.spiegel.de/panorama/boeing-passagier-ueber-zerfetzte-flugzeugwand-bei-alaska-airlines-ich-starrte-in-das-loch](https://www.spiegel.de/panorama/boeing-passagier-ueber-zerfetzte-flugzeugwand-bei-alaska-airlines-ich-starrte-in-das-loch-a-e5333406-8604-49a4-9d7a-b7435f2be103#ref=rss)
-### nigeria
-
-* [https://www.spiegel.de/ausland/nigeria-weitere-87-menschen-verschleppt](https://www.spiegel.de/ausland/nigeria-weitere-87-menschen-verschleppt-a-65252346-2e66-427d-b401-da247699a52a#ref=rss)
-### verschleppt
-
-* [https://www.spiegel.de/ausland/nigeria-weitere-87-menschen-verschleppt](https://www.spiegel.de/ausland/nigeria-weitere-87-menschen-verschleppt-a-65252346-2e66-427d-b401-da247699a52a#ref=rss)
-### christian
-
-* [https://www.spiegel.de/sport/fussball/christian-streichs-abschied-vom-sc-freiburg-reaktionen-und-erinnerungen](https://www.spiegel.de/sport/fussball/christian-streichs-abschied-vom-sc-freiburg-reaktionen-und-erinnerungen-a-38cf70f4-cd05-43c3-bfa0-17047420aae3#ref=rss)
-### sc
-
-* [https://www.spiegel.de/sport/fussball/christian-streichs-abschied-vom-sc-freiburg-reaktionen-und-erinnerungen](https://www.spiegel.de/sport/fussball/christian-streichs-abschied-vom-sc-freiburg-reaktionen-und-erinnerungen-a-38cf70f4-cd05-43c3-bfa0-17047420aae3#ref=rss)
-### freiburg
-
-* [https://www.spiegel.de/sport/fussball/christian-streichs-abschied-vom-sc-freiburg-reaktionen-und-erinnerungen](https://www.spiegel.de/sport/fussball/christian-streichs-abschied-vom-sc-freiburg-reaktionen-und-erinnerungen-a-38cf70f4-cd05-43c3-bfa0-17047420aae3#ref=rss)
-### sonnenblumenbewegung
-
-* [https://www.spiegel.de/ausland/taiwan-zehn-jahre-sonnenblumenbewegung-und-die-schleichende-integration-in-chinas-system](https://www.spiegel.de/ausland/taiwan-zehn-jahre-sonnenblumenbewegung-und-die-schleichende-integration-in-chinas-system-a-8ed62a62-9cf8-479d-a064-4ef6946393d0#ref=rss)
-### schleichende
-
-* [https://www.spiegel.de/ausland/taiwan-zehn-jahre-sonnenblumenbewegung-und-die-schleichende-integration-in-chinas-system](https://www.spiegel.de/ausland/taiwan-zehn-jahre-sonnenblumenbewegung-und-die-schleichende-integration-in-chinas-system-a-8ed62a62-9cf8-479d-a064-4ef6946393d0#ref=rss)
-### integration
-
-* [https://www.spiegel.de/ausland/taiwan-zehn-jahre-sonnenblumenbewegung-und-die-schleichende-integration-in-chinas-system](https://www.spiegel.de/ausland/taiwan-zehn-jahre-sonnenblumenbewegung-und-die-schleichende-integration-in-chinas-system-a-8ed62a62-9cf8-479d-a064-4ef6946393d0#ref=rss)
-### chinas
-
-* [https://www.spiegel.de/ausland/taiwan-zehn-jahre-sonnenblumenbewegung-und-die-schleichende-integration-in-chinas-system](https://www.spiegel.de/ausland/taiwan-zehn-jahre-sonnenblumenbewegung-und-die-schleichende-integration-in-chinas-system-a-8ed62a62-9cf8-479d-a064-4ef6946393d0#ref=rss)
-### system
-
-* [https://www.spiegel.de/ausland/taiwan-zehn-jahre-sonnenblumenbewegung-und-die-schleichende-integration-in-chinas-system](https://www.spiegel.de/ausland/taiwan-zehn-jahre-sonnenblumenbewegung-und-die-schleichende-integration-in-chinas-system-a-8ed62a62-9cf8-479d-a064-4ef6946393d0#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/auto/deutsche-bahn-westliches-ruhrgebiet-um-duisburg-und-essen-fuer-zwei-wochen-ohne-fernzuege](https://www.spiegel.de/auto/deutsche-bahn-westliches-ruhrgebiet-um-duisburg-und-essen-fuer-zwei-wochen-ohne-fernzuege-a-0228094c-180c-417f-8470-09b0821867fd#ref=rss)
-### ruhrgebiet
-
-* [https://www.spiegel.de/auto/deutsche-bahn-westliches-ruhrgebiet-um-duisburg-und-essen-fuer-zwei-wochen-ohne-fernzuege](https://www.spiegel.de/auto/deutsche-bahn-westliches-ruhrgebiet-um-duisburg-und-essen-fuer-zwei-wochen-ohne-fernzuege-a-0228094c-180c-417f-8470-09b0821867fd#ref=rss)
-### duisburg
-
-* [https://www.spiegel.de/auto/deutsche-bahn-westliches-ruhrgebiet-um-duisburg-und-essen-fuer-zwei-wochen-ohne-fernzuege](https://www.spiegel.de/auto/deutsche-bahn-westliches-ruhrgebiet-um-duisburg-und-essen-fuer-zwei-wochen-ohne-fernzuege-a-0228094c-180c-417f-8470-09b0821867fd#ref=rss)
+* [https://www.spiegel.de/panorama/guide-michelin-spitzenkoch-fabien-ferre-erhaelt-auf-anhieb-drei-sterne](https://www.spiegel.de/panorama/guide-michelin-spitzenkoch-fabien-ferre-erhaelt-auf-anhieb-drei-sterne-a-df6e19f7-d1ea-4c82-8ec8-260e32952cec#ref=rss)
 
