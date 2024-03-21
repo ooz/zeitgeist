@@ -4,320 +4,305 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### stiftung
-
-* [https://www.spiegel.de/netzwelt/gadgets/maehroboter-bei-stiftung-warentest-viele-maehen-auch-arme-und-beine-nieder](https://www.spiegel.de/netzwelt/gadgets/maehroboter-bei-stiftung-warentest-viele-maehen-auch-arme-und-beine-nieder-a-e2c13ccf-12d2-4d17-946d-49486764063a#ref=rss)
-* [https://www.spiegel.de/auto/fahrradhelme-nur-drei-helme-bieten-im-test-guten-schutz-vor-kopfverletzungen](https://www.spiegel.de/auto/fahrradhelme-nur-drei-helme-bieten-im-test-guten-schutz-vor-kopfverletzungen-a-0a7424c0-738e-472a-974f-0e9cbd575c1d#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/olivenoel-qualitaet-ist-laut-stiftung-warentest-drastisch-gesunken](https://www.spiegel.de/gesundheit/ernaehrung/olivenoel-qualitaet-ist-laut-stiftung-warentest-drastisch-gesunken-a-b863d568-93b1-4539-b438-170317602b04#ref=rss)
-### warentest
-
-* [https://www.spiegel.de/netzwelt/gadgets/maehroboter-bei-stiftung-warentest-viele-maehen-auch-arme-und-beine-nieder](https://www.spiegel.de/netzwelt/gadgets/maehroboter-bei-stiftung-warentest-viele-maehen-auch-arme-und-beine-nieder-a-e2c13ccf-12d2-4d17-946d-49486764063a#ref=rss)
-* [https://www.spiegel.de/auto/fahrradhelme-nur-drei-helme-bieten-im-test-guten-schutz-vor-kopfverletzungen](https://www.spiegel.de/auto/fahrradhelme-nur-drei-helme-bieten-im-test-guten-schutz-vor-kopfverletzungen-a-0a7424c0-738e-472a-974f-0e9cbd575c1d#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/olivenoel-qualitaet-ist-laut-stiftung-warentest-drastisch-gesunken](https://www.spiegel.de/gesundheit/ernaehrung/olivenoel-qualitaet-ist-laut-stiftung-warentest-drastisch-gesunken-a-b863d568-93b1-4539-b438-170317602b04#ref=rss)
-### laut
-
-* [https://www.spiegel.de/netzwelt/gadgets/maehroboter-bei-stiftung-warentest-viele-maehen-auch-arme-und-beine-nieder](https://www.spiegel.de/netzwelt/gadgets/maehroboter-bei-stiftung-warentest-viele-maehen-auch-arme-und-beine-nieder-a-e2c13ccf-12d2-4d17-946d-49486764063a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/mieten-unbezahlbare-wohnungen-draengen-mieter-aus-den-staedten](https://www.spiegel.de/wirtschaft/soziales/mieten-unbezahlbare-wohnungen-draengen-mieter-aus-den-staedten-a-6d31cc3c-6ffb-466a-bebd-93e226d68687#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/hermes-birkin-taschen-nur-fuer-ausgewaehlte-kunden](https://www.spiegel.de/wirtschaft/unternehmen/hermes-birkin-taschen-nur-fuer-ausgewaehlte-kunden-a-1972e984-f3d2-4247-8bc9-c0042f2e3bb5#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/olivenoel-qualitaet-ist-laut-stiftung-warentest-drastisch-gesunken](https://www.spiegel.de/gesundheit/ernaehrung/olivenoel-qualitaet-ist-laut-stiftung-warentest-drastisch-gesunken-a-b863d568-93b1-4539-b438-170317602b04#ref=rss)
-### macht
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-macht-2023-milliardenverlust](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-macht-2023-milliardenverlust-a-f5c18ad3-cb3c-4475-ae60-4a5fc7b74e88#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/reddit-will-millionen-dollar-an-der-boerse-einsammeln](https://www.spiegel.de/wirtschaft/unternehmen/reddit-will-millionen-dollar-an-der-boerse-einsammeln-a-94855914-e75c-4013-b51b-4678720505fb#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/werner-schwarz-ist-landwirtschaftsminister-sein-sohn-macht-bei-den-bauerndemos-mit](https://www.spiegel.de/panorama/gesellschaft/werner-schwarz-ist-landwirtschaftsminister-sein-sohn-macht-bei-den-bauerndemos-mit-a-831f5c15-1255-47e5-a9c5-cad455cd0bcc#ref=rss)
 ### deutsche
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-macht-2023-milliardenverlust](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-macht-2023-milliardenverlust-a-f5c18ad3-cb3c-4475-ae60-4a5fc7b74e88#ref=rss)
-* [https://www.spiegel.de/kultur/musik/fussball-em-leony-singt-offiziellen-song](https://www.spiegel.de/kultur/musik/fussball-em-leony-singt-offiziellen-song-a-e96057d8-9b88-4e8c-9d75-fa5903f0703a#ref=rss)
-### milliarden
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-deutsche-bahn-bauernproteste-darknet-handelsplatz-nemesis](https://www.spiegel.de/politik/deutschland/news-des-tages-deutsche-bahn-bauernproteste-darknet-handelsplatz-nemesis-a-abc3195d-d60d-49d9-82c2-cca6ef762d63#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-bundeswehr-vergibt-milliardenauftrag-an-deutschen-ruestungskonzern](https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-bundeswehr-vergibt-milliardenauftrag-an-deutschen-ruestungskonzern-a-6428065a-839a-4381-9d2e-8ddf418e0152#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/paragraf-218-und-schwangerschaftsabbrueche-warum-der-streit-ueber-abtreibungen-wieder-aufflammt](https://www.spiegel.de/politik/deutschland/paragraf-218-und-schwangerschaftsabbrueche-warum-der-streit-ueber-abtreibungen-wieder-aufflammt-a-587a584a-414c-4420-b1d8-6152aa32fb24#ref=rss)
+* [https://www.spiegel.de/sport/fussball/deutsche-nationalmannschaft-und-die-abwehrprobleme-lass-dich-ueberraschen](https://www.spiegel.de/sport/fussball/deutsche-nationalmannschaft-und-die-abwehrprobleme-lass-dich-ueberraschen-a-71c0e5c5-d91f-4105-8420-566a5f12e137#ref=rss)
+### russland
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-macht-2023-milliardenverlust](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-macht-2023-milliardenverlust-a-f5c18ad3-cb3c-4475-ae60-4a5fc7b74e88#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/joe-biden-steckt-neue-milliarden-in-us-chipindustrie](https://www.spiegel.de/wirtschaft/soziales/joe-biden-steckt-neue-milliarden-in-us-chipindustrie-a-ad62d6c5-07ab-4e57-82e0-22a097cad7f1#ref=rss)
-### dollar
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/reddit-will-millionen-dollar-an-der-boerse-einsammeln](https://www.spiegel.de/wirtschaft/unternehmen/reddit-will-millionen-dollar-an-der-boerse-einsammeln-a-94855914-e75c-4013-b51b-4678720505fb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/joe-biden-steckt-neue-milliarden-in-us-chipindustrie](https://www.spiegel.de/wirtschaft/soziales/joe-biden-steckt-neue-milliarden-in-us-chipindustrie-a-ad62d6c5-07ab-4e57-82e0-22a097cad7f1#ref=rss)
-### unternehmen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/reddit-will-millionen-dollar-an-der-boerse-einsammeln](https://www.spiegel.de/wirtschaft/unternehmen/reddit-will-millionen-dollar-an-der-boerse-einsammeln-a-94855914-e75c-4013-b51b-4678720505fb#ref=rss)
-* [https://www.spiegel.de/karriere/erfolg-der-afd-in-sachsen-wie-firmen-mit-der-radikalisierung-ihrer-belegschaft-umgehen](https://www.spiegel.de/karriere/erfolg-der-afd-in-sachsen-wie-firmen-mit-der-radikalisierung-ihrer-belegschaft-umgehen-a-f7b2f58c-b2d5-4546-803a-44efbb60a755#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-eu-gipfel-bruessel-ukraine-atomkraft-trump-urteil-unternehmen-afd](https://www.spiegel.de/politik/deutschland/news-eu-gipfel-bruessel-ukraine-atomkraft-trump-urteil-unternehmen-afd-a-37a557af-a222-413f-ac0b-295e92cdb8aa#ref=rss)
-### fielen
-
-* [https://www.spiegel.de/netzwelt/gadgets/maehroboter-bei-stiftung-warentest-viele-maehen-auch-arme-und-beine-nieder](https://www.spiegel.de/netzwelt/gadgets/maehroboter-bei-stiftung-warentest-viele-maehen-auch-arme-und-beine-nieder-a-e2c13ccf-12d2-4d17-946d-49486764063a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/douglas-verpatzt-boersen-comeback](https://www.spiegel.de/wirtschaft/unternehmen/douglas-verpatzt-boersen-comeback-a-023ed835-0932-4ca7-a787-a390390510b2#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/olivenoel-qualitaet-ist-laut-stiftung-warentest-drastisch-gesunken](https://www.spiegel.de/gesundheit/ernaehrung/olivenoel-qualitaet-ist-laut-stiftung-warentest-drastisch-gesunken-a-b863d568-93b1-4539-b438-170317602b04#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/cannabis-legalisierung-friedrich-merz-fand-erfahrung-waehrend-der-schulzeit-furchtbar](https://www.spiegel.de/politik/deutschland/cannabis-legalisierung-friedrich-merz-fand-erfahrung-waehrend-der-schulzeit-furchtbar-a-1b80861f-c636-42f2-b367-65be36806f8a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-und-buergergeld-die-agenda-merz-ist-eine-mogelpackung](https://www.spiegel.de/politik/deutschland/cdu-und-buergergeld-die-agenda-merz-ist-eine-mogelpackung-a-c6f4d950-ff91-46c3-a2f4-1d19d1dfa641#ref=rss)
-### schwarz
-
-* [https://www.spiegel.de/panorama/gesellschaft/werner-schwarz-ist-landwirtschaftsminister-sein-sohn-macht-bei-den-bauerndemos-mit](https://www.spiegel.de/panorama/gesellschaft/werner-schwarz-ist-landwirtschaftsminister-sein-sohn-macht-bei-den-bauerndemos-mit-a-831f5c15-1255-47e5-a9c5-cad455cd0bcc#ref=rss)
-### afd
-
-* [https://www.spiegel.de/karriere/erfolg-der-afd-in-sachsen-wie-firmen-mit-der-radikalisierung-ihrer-belegschaft-umgehen](https://www.spiegel.de/karriere/erfolg-der-afd-in-sachsen-wie-firmen-mit-der-radikalisierung-ihrer-belegschaft-umgehen-a-f7b2f58c-b2d5-4546-803a-44efbb60a755#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-eu-gipfel-bruessel-ukraine-atomkraft-trump-urteil-unternehmen-afd](https://www.spiegel.de/politik/deutschland/news-eu-gipfel-bruessel-ukraine-atomkraft-trump-urteil-unternehmen-afd-a-37a557af-a222-413f-ac0b-295e92cdb8aa#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wer-sind-die-freischaerler-die-russland-auf-eigenem-boden-attackieren](https://www.spiegel.de/ausland/ukraine-krieg-wer-sind-die-freischaerler-die-russland-auf-eigenem-boden-attackieren-a-263d75da-1a6e-4274-b695-9a42c848fb36#ref=rss)
+* [https://www.spiegel.de/ausland/russland-haeftlinge-an-der-front-region-krasnojarsk-will-offenbar-mehrere-gefaengnisse-schliessen](https://www.spiegel.de/ausland/russland-haeftlinge-an-der-front-region-krasnojarsk-will-offenbar-mehrere-gefaengnisse-schliessen-a-7d0bd457-aa0f-4a7b-9686-db117f0b3a90#ref=rss)
+* [https://www.spiegel.de/geschichte/russlands-geschichtspolitik-putin-hat-deutschland-als-schwachstelle-europas-ausgemacht](https://www.spiegel.de/geschichte/russlands-geschichtspolitik-putin-hat-deutschland-als-schwachstelle-europas-ausgemacht-a-bac2d2bd-1be5-48c6-b9c3-daa5985e3307#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-kiew-aus-der-luft-an-13-verletzte](https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-kiew-aus-der-luft-an-13-verletzte-a-7c9c528d-d7d8-4d4a-b921-71207583f064#ref=rss)
 ### ukraine
 
-* [https://www.spiegel.de/ausland/ukraine-angriffe-auf-kiew-flugabwehr-schiesst-31-russische-raketen-ab](https://www.spiegel.de/ausland/ukraine-angriffe-auf-kiew-flugabwehr-schiesst-31-russische-raketen-ab-a-b6654bd7-93fb-45d9-b71d-6f21c8c2783c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-eu-gipfel-bruessel-ukraine-atomkraft-trump-urteil-unternehmen-afd](https://www.spiegel.de/politik/deutschland/news-eu-gipfel-bruessel-ukraine-atomkraft-trump-urteil-unternehmen-afd-a-37a557af-a222-413f-ac0b-295e92cdb8aa#ref=rss)
-### aryna
+* [https://www.spiegel.de/ausland/spanien-ermordeter-russischer-deserteur-die-hintergruende-zum-fall-maxim-kusminow-spiegel-tv](https://www.spiegel.de/ausland/spanien-ermordeter-russischer-deserteur-die-hintergruende-zum-fall-maxim-kusminow-spiegel-tv-a-8a6f02c7-f1bd-4002-874a-088ffcd712e5#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wer-sind-die-freischaerler-die-russland-auf-eigenem-boden-attackieren](https://www.spiegel.de/ausland/ukraine-krieg-wer-sind-die-freischaerler-die-russland-auf-eigenem-boden-attackieren-a-263d75da-1a6e-4274-b695-9a42c848fb36#ref=rss)
+* [https://www.spiegel.de/ausland/russland-haeftlinge-an-der-front-region-krasnojarsk-will-offenbar-mehrere-gefaengnisse-schliessen](https://www.spiegel.de/ausland/russland-haeftlinge-an-der-front-region-krasnojarsk-will-offenbar-mehrere-gefaengnisse-schliessen-a-7d0bd457-aa0f-4a7b-9686-db117f0b3a90#ref=rss)
+* [https://www.spiegel.de/geschichte/russlands-geschichtspolitik-putin-hat-deutschland-als-schwachstelle-europas-ausgemacht](https://www.spiegel.de/geschichte/russlands-geschichtspolitik-putin-hat-deutschland-als-schwachstelle-europas-ausgemacht-a-bac2d2bd-1be5-48c6-b9c3-daa5985e3307#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-kiew-aus-der-luft-an-13-verletzte](https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-kiew-aus-der-luft-an-13-verletzte-a-7c9c528d-d7d8-4d4a-b921-71207583f064#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/sport/tennis/aryna-sabalenka-ueber-tod-ihres-ex-freundes-konstantin-kolzow-mein-herz-ist-gebrochen](https://www.spiegel.de/sport/tennis/aryna-sabalenka-ueber-tod-ihres-ex-freundes-konstantin-kolzow-mein-herz-ist-gebrochen-a-13af3284-43b5-44d1-8895-603fb0a39303#ref=rss)
-### sabalenka
+* [https://www.spiegel.de/wissenschaft/mensch/usa-erfolgreiche-transplantation-von-schweineniere-in-lebenden-menschen](https://www.spiegel.de/wissenschaft/mensch/usa-erfolgreiche-transplantation-von-schweineniere-in-lebenden-menschen-a-9dea0717-94bd-4bae-ada7-b334f931a100#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-kiew-aus-der-luft-an-13-verletzte](https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-kiew-aus-der-luft-an-13-verletzte-a-7c9c528d-d7d8-4d4a-b921-71207583f064#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/menschheitsgeschichte-warum-menschen-vor-60-000-jahren-afrika-verliess](https://www.spiegel.de/wissenschaft/mensch/menschheitsgeschichte-warum-menschen-vor-60-000-jahren-afrika-verliess-a-820ac594-5271-476d-8d1e-41769e1908ad#ref=rss)
+### burger
 
-* [https://www.spiegel.de/sport/tennis/aryna-sabalenka-ueber-tod-ihres-ex-freundes-konstantin-kolzow-mein-herz-ist-gebrochen](https://www.spiegel.de/sport/tennis/aryna-sabalenka-ueber-tod-ihres-ex-freundes-konstantin-kolzow-mein-herz-ist-gebrochen-a-13af3284-43b5-44d1-8895-603fb0a39303#ref=rss)
-### tod
+* [https://www.spiegel.de/wirtschaft/burger-king-neuer-chef-joerg-ehmer-im-interview-ein-burger-ist-keine-quinoa-bowl](https://www.spiegel.de/wirtschaft/burger-king-neuer-chef-joerg-ehmer-im-interview-ein-burger-ist-keine-quinoa-bowl-a-a20aeef6-2a7e-4723-b73b-8ce2d50043b4#ref=rss)
+### gesetz
 
-* [https://www.spiegel.de/sport/tennis/aryna-sabalenka-ueber-tod-ihres-ex-freundes-konstantin-kolzow-mein-herz-ist-gebrochen](https://www.spiegel.de/sport/tennis/aryna-sabalenka-ueber-tod-ihres-ex-freundes-konstantin-kolzow-mein-herz-ist-gebrochen-a-13af3284-43b5-44d1-8895-603fb0a39303#ref=rss)
-### exfreundes
+* [https://www.spiegel.de/wirtschaft/modeindustrie-frankreich-will-shein-und-temu-per-gesetz-ausbremsen](https://www.spiegel.de/wirtschaft/modeindustrie-frankreich-will-shein-und-temu-per-gesetz-ausbremsen-a-ae9e0638-267f-4d24-b054-ce78a0360bfa#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/parteifreunde-warnen-regierungsgruene-vor-scheitern-der-cannabislegalisierung](https://www.spiegel.de/politik/deutschland/parteifreunde-warnen-regierungsgruene-vor-scheitern-der-cannabislegalisierung-a-f3819eff-95de-4736-834d-63ad062d90bb#ref=rss)
+### euro
 
-* [https://www.spiegel.de/sport/tennis/aryna-sabalenka-ueber-tod-ihres-ex-freundes-konstantin-kolzow-mein-herz-ist-gebrochen](https://www.spiegel.de/sport/tennis/aryna-sabalenka-ueber-tod-ihres-ex-freundes-konstantin-kolzow-mein-herz-ist-gebrochen-a-13af3284-43b5-44d1-8895-603fb0a39303#ref=rss)
-### bahn
+* [https://www.spiegel.de/wirtschaft/modeindustrie-frankreich-will-shein-und-temu-per-gesetz-ausbremsen](https://www.spiegel.de/wirtschaft/modeindustrie-frankreich-will-shein-und-temu-per-gesetz-ausbremsen-a-ae9e0638-267f-4d24-b054-ce78a0360bfa#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dani-alves-ex-fussballstar-bleibt-im-gefaengnis-kaution-nicht-gezahlt](https://www.spiegel.de/sport/fussball/dani-alves-ex-fussballstar-bleibt-im-gefaengnis-kaution-nicht-gezahlt-a-165a5242-2cec-4831-bf8e-5dece163a13d#ref=rss)
+### krieg
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-macht-2023-milliardenverlust](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-macht-2023-milliardenverlust-a-f5c18ad3-cb3c-4475-ae60-4a5fc7b74e88#ref=rss)
-### 2023
+* [https://www.spiegel.de/ausland/ukraine-krieg-wer-sind-die-freischaerler-die-russland-auf-eigenem-boden-attackieren](https://www.spiegel.de/ausland/ukraine-krieg-wer-sind-die-freischaerler-die-russland-auf-eigenem-boden-attackieren-a-263d75da-1a6e-4274-b695-9a42c848fb36#ref=rss)
+* [https://www.spiegel.de/geschichte/russlands-geschichtspolitik-putin-hat-deutschland-als-schwachstelle-europas-ausgemacht](https://www.spiegel.de/geschichte/russlands-geschichtspolitik-putin-hat-deutschland-als-schwachstelle-europas-ausgemacht-a-bac2d2bd-1be5-48c6-b9c3-daa5985e3307#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-kiew-aus-der-luft-an-13-verletzte](https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-kiew-aus-der-luft-an-13-verletzte-a-7c9c528d-d7d8-4d4a-b921-71207583f064#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-macht-2023-milliardenverlust](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-macht-2023-milliardenverlust-a-f5c18ad3-cb3c-4475-ae60-4a5fc7b74e88#ref=rss)
-### probleme
+* [https://www.spiegel.de/ausland/russland-haeftlinge-an-der-front-region-krasnojarsk-will-offenbar-mehrere-gefaengnisse-schliessen](https://www.spiegel.de/ausland/russland-haeftlinge-an-der-front-region-krasnojarsk-will-offenbar-mehrere-gefaengnisse-schliessen-a-7d0bd457-aa0f-4a7b-9686-db117f0b3a90#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/china-13-jaehriger-offenbar-von-gleichaltrigen-getoetet-worden](https://www.spiegel.de/panorama/justiz/china-13-jaehriger-offenbar-von-gleichaltrigen-getoetet-worden-a-9602a321-ceda-4d35-9715-9876bf2e2b07#ref=rss)
+### laut
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-macht-2023-milliardenverlust](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-macht-2023-milliardenverlust-a-f5c18ad3-cb3c-4475-ae60-4a5fc7b74e88#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-und-buergergeld-die-agenda-merz-ist-eine-mogelpackung](https://www.spiegel.de/politik/deutschland/cdu-und-buergergeld-die-agenda-merz-ist-eine-mogelpackung-a-c6f4d950-ff91-46c3-a2f4-1d19d1dfa641#ref=rss)
-### reddit
+* [https://www.spiegel.de/ausland/russland-haeftlinge-an-der-front-region-krasnojarsk-will-offenbar-mehrere-gefaengnisse-schliessen](https://www.spiegel.de/ausland/russland-haeftlinge-an-der-front-region-krasnojarsk-will-offenbar-mehrere-gefaengnisse-schliessen-a-7d0bd457-aa0f-4a7b-9686-db117f0b3a90#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-nike-loest-adidas-als-ausruester-ab](https://www.spiegel.de/sport/fussball/dfb-nike-loest-adidas-als-ausruester-ab-a-32b3fb51-aad5-4f62-8abe-42714095321f#ref=rss)
+* [https://www.spiegel.de/ausland/niederlande-angreifer-wirft-brennendes-objekt-auf-israelische-botschaft-in-den-haag](https://www.spiegel.de/ausland/niederlande-angreifer-wirft-brennendes-objekt-auf-israelische-botschaft-in-den-haag-a-24a091e5-4f1e-4358-9450-a99e5f6f192c#ref=rss)
+### zurück
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/reddit-will-millionen-dollar-an-der-boerse-einsammeln](https://www.spiegel.de/wirtschaft/unternehmen/reddit-will-millionen-dollar-an-der-boerse-einsammeln-a-94855914-e75c-4013-b51b-4678720505fb#ref=rss)
-### millionen
+* [https://www.spiegel.de/politik/deutschland/paragraf-218-und-schwangerschaftsabbrueche-warum-der-streit-ueber-abtreibungen-wieder-aufflammt](https://www.spiegel.de/politik/deutschland/paragraf-218-und-schwangerschaftsabbrueche-warum-der-streit-ueber-abtreibungen-wieder-aufflammt-a-587a584a-414c-4420-b1d8-6152aa32fb24#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/iphone-apple-mit-umfassender-kartellklage-der-us-justiz-konfrontiert](https://www.spiegel.de/wirtschaft/unternehmen/iphone-apple-mit-umfassender-kartellklage-der-us-justiz-konfrontiert-a-615af14a-8f65-45af-879c-0075d34a5e10#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/lamborghini-erzielte-2023-verkaufsrekord-milliardenumsatz-mit-luxusautos](https://www.spiegel.de/wirtschaft/unternehmen/lamborghini-erzielte-2023-verkaufsrekord-milliardenumsatz-mit-luxusautos-a-6b603f9f-8d3d-43f4-a7fe-9c23cbf5b597#ref=rss)
+### besonders
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/reddit-will-millionen-dollar-an-der-boerse-einsammeln](https://www.spiegel.de/wirtschaft/unternehmen/reddit-will-millionen-dollar-an-der-boerse-einsammeln-a-94855914-e75c-4013-b51b-4678720505fb#ref=rss)
-### börse
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/reddit-will-millionen-dollar-an-der-boerse-einsammeln](https://www.spiegel.de/wirtschaft/unternehmen/reddit-will-millionen-dollar-an-der-boerse-einsammeln-a-94855914-e75c-4013-b51b-4678720505fb#ref=rss)
-### hofft
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/reddit-will-millionen-dollar-an-der-boerse-einsammeln](https://www.spiegel.de/wirtschaft/unternehmen/reddit-will-millionen-dollar-an-der-boerse-einsammeln-a-94855914-e75c-4013-b51b-4678720505fb#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-usa-fordern-in-uno-resolutionsentwurf-sofortige-feuerpause](https://www.spiegel.de/ausland/israel-gaza-krieg-usa-fordern-in-uno-resolutionsentwurf-sofortige-feuerpause-a-d66cbd88-23c6-4554-ba44-1584c65ea3bd#ref=rss)
-### rund
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/reddit-will-millionen-dollar-an-der-boerse-einsammeln](https://www.spiegel.de/wirtschaft/unternehmen/reddit-will-millionen-dollar-an-der-boerse-einsammeln-a-94855914-e75c-4013-b51b-4678720505fb#ref=rss)
-* [https://www.spiegel.de/panorama/kinder-warnen-mit-fiktiven-wettervorhersagen-vor-klimakrise](https://www.spiegel.de/panorama/kinder-warnen-mit-fiktiven-wettervorhersagen-vor-klimakrise-a-3aa569a8-4fc6-41f7-ac53-5230823d20c4#ref=rss)
-### tesla
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-in-gruenheide-nichtgewerkschaftler-dominieren-neuen-betriebsrat](https://www.spiegel.de/wirtschaft/unternehmen/tesla-in-gruenheide-nichtgewerkschaftler-dominieren-neuen-betriebsrat-a-d5c3b19f-2093-4fd1-bfc3-86c7ad2e4f45#ref=rss)
-### grünheide
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-in-gruenheide-nichtgewerkschaftler-dominieren-neuen-betriebsrat](https://www.spiegel.de/wirtschaft/unternehmen/tesla-in-gruenheide-nichtgewerkschaftler-dominieren-neuen-betriebsrat-a-d5c3b19f-2093-4fd1-bfc3-86c7ad2e4f45#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-in-gruenheide-nichtgewerkschaftler-dominieren-neuen-betriebsrat](https://www.spiegel.de/wirtschaft/unternehmen/tesla-in-gruenheide-nichtgewerkschaftler-dominieren-neuen-betriebsrat-a-d5c3b19f-2093-4fd1-bfc3-86c7ad2e4f45#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-und-buergergeld-die-agenda-merz-ist-eine-mogelpackung](https://www.spiegel.de/politik/deutschland/cdu-und-buergergeld-die-agenda-merz-ist-eine-mogelpackung-a-c6f4d950-ff91-46c3-a2f4-1d19d1dfa641#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-in-gruenheide-nichtgewerkschaftler-dominieren-neuen-betriebsrat](https://www.spiegel.de/wirtschaft/unternehmen/tesla-in-gruenheide-nichtgewerkschaftler-dominieren-neuen-betriebsrat-a-d5c3b19f-2093-4fd1-bfc3-86c7ad2e4f45#ref=rss)
-* [https://www.spiegel.de/panorama/leute/prinzessin-catherine-und-die-irren-geruechte-ueber-ihre-person-die-royals-im-pr-schlamassel](https://www.spiegel.de/panorama/leute/prinzessin-catherine-und-die-irren-geruechte-ueber-ihre-person-die-royals-im-pr-schlamassel-a-c52c23dc-78d2-4cd3-972b-9260ecc810fe#ref=rss)
-### erfolg
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-in-gruenheide-nichtgewerkschaftler-dominieren-neuen-betriebsrat](https://www.spiegel.de/wirtschaft/unternehmen/tesla-in-gruenheide-nichtgewerkschaftler-dominieren-neuen-betriebsrat-a-d5c3b19f-2093-4fd1-bfc3-86c7ad2e4f45#ref=rss)
-* [https://www.spiegel.de/karriere/erfolg-der-afd-in-sachsen-wie-firmen-mit-der-radikalisierung-ihrer-belegschaft-umgehen](https://www.spiegel.de/karriere/erfolg-der-afd-in-sachsen-wie-firmen-mit-der-radikalisierung-ihrer-belegschaft-umgehen-a-f7b2f58c-b2d5-4546-803a-44efbb60a755#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-in-gruenheide-nichtgewerkschaftler-dominieren-neuen-betriebsrat](https://www.spiegel.de/wirtschaft/unternehmen/tesla-in-gruenheide-nichtgewerkschaftler-dominieren-neuen-betriebsrat-a-d5c3b19f-2093-4fd1-bfc3-86c7ad2e4f45#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/joe-biden-steckt-neue-milliarden-in-us-chipindustrie](https://www.spiegel.de/wirtschaft/soziales/joe-biden-steckt-neue-milliarden-in-us-chipindustrie-a-ad62d6c5-07ab-4e57-82e0-22a097cad7f1#ref=rss)
-### huthimilizen
-
-* [https://www.spiegel.de/politik/deutschland/krieg-in-nahost-fregatte-hessen-zerstoert-drohne-der-huthi-milizen](https://www.spiegel.de/politik/deutschland/krieg-in-nahost-fregatte-hessen-zerstoert-drohne-der-huthi-milizen-a-f394d3b1-b663-4add-a86a-d7f1ce5e49a7#ref=rss)
-### setzen
-
-* [https://www.spiegel.de/politik/deutschland/krieg-in-nahost-fregatte-hessen-zerstoert-drohne-der-huthi-milizen](https://www.spiegel.de/politik/deutschland/krieg-in-nahost-fregatte-hessen-zerstoert-drohne-der-huthi-milizen-a-f394d3b1-b663-4add-a86a-d7f1ce5e49a7#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-usa-fordern-in-uno-resolutionsentwurf-sofortige-feuerpause](https://www.spiegel.de/ausland/israel-gaza-krieg-usa-fordern-in-uno-resolutionsentwurf-sofortige-feuerpause-a-d66cbd88-23c6-4554-ba44-1584c65ea3bd#ref=rss)
-### angriffe
-
-* [https://www.spiegel.de/politik/deutschland/krieg-in-nahost-fregatte-hessen-zerstoert-drohne-der-huthi-milizen](https://www.spiegel.de/politik/deutschland/krieg-in-nahost-fregatte-hessen-zerstoert-drohne-der-huthi-milizen-a-f394d3b1-b663-4add-a86a-d7f1ce5e49a7#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-angriffe-auf-kiew-flugabwehr-schiesst-31-russische-raketen-ab](https://www.spiegel.de/ausland/ukraine-angriffe-auf-kiew-flugabwehr-schiesst-31-russische-raketen-ab-a-b6654bd7-93fb-45d9-b71d-6f21c8c2783c#ref=rss)
-### personalausweis
-
-* [https://www.spiegel.de/netzwelt/web/eugh-urteil-zum-personalausweis-speicherung-von-fingerabdruecken-ist-rechtens](https://www.spiegel.de/netzwelt/web/eugh-urteil-zum-personalausweis-speicherung-von-fingerabdruecken-ist-rechtens-a-c64d7440-88ce-4627-9c20-8b7d00500ec9#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/netzwelt/web/eugh-urteil-zum-personalausweis-speicherung-von-fingerabdruecken-ist-rechtens](https://www.spiegel.de/netzwelt/web/eugh-urteil-zum-personalausweis-speicherung-von-fingerabdruecken-ist-rechtens-a-c64d7440-88ce-4627-9c20-8b7d00500ec9#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-usa-fordern-in-uno-resolutionsentwurf-sofortige-feuerpause](https://www.spiegel.de/ausland/israel-gaza-krieg-usa-fordern-in-uno-resolutionsentwurf-sofortige-feuerpause-a-d66cbd88-23c6-4554-ba44-1584c65ea3bd#ref=rss)
-### mähroboter
-
-* [https://www.spiegel.de/netzwelt/gadgets/maehroboter-bei-stiftung-warentest-viele-maehen-auch-arme-und-beine-nieder](https://www.spiegel.de/netzwelt/gadgets/maehroboter-bei-stiftung-warentest-viele-maehen-auch-arme-und-beine-nieder-a-e2c13ccf-12d2-4d17-946d-49486764063a#ref=rss)
-### wenige
-
-* [https://www.spiegel.de/netzwelt/gadgets/maehroboter-bei-stiftung-warentest-viele-maehen-auch-arme-und-beine-nieder](https://www.spiegel.de/netzwelt/gadgets/maehroboter-bei-stiftung-warentest-viele-maehen-auch-arme-und-beine-nieder-a-e2c13ccf-12d2-4d17-946d-49486764063a#ref=rss)
-* [https://www.spiegel.de/auto/fahrradhelme-nur-drei-helme-bieten-im-test-guten-schutz-vor-kopfverletzungen](https://www.spiegel.de/auto/fahrradhelme-nur-drei-helme-bieten-im-test-guten-schutz-vor-kopfverletzungen-a-0a7424c0-738e-472a-974f-0e9cbd575c1d#ref=rss)
-### gut
-
-* [https://www.spiegel.de/netzwelt/gadgets/maehroboter-bei-stiftung-warentest-viele-maehen-auch-arme-und-beine-nieder](https://www.spiegel.de/netzwelt/gadgets/maehroboter-bei-stiftung-warentest-viele-maehen-auch-arme-und-beine-nieder-a-e2c13ccf-12d2-4d17-946d-49486764063a#ref=rss)
-* [https://www.spiegel.de/auto/fahrradhelme-nur-drei-helme-bieten-im-test-guten-schutz-vor-kopfverletzungen](https://www.spiegel.de/auto/fahrradhelme-nur-drei-helme-bieten-im-test-guten-schutz-vor-kopfverletzungen-a-0a7424c0-738e-472a-974f-0e9cbd575c1d#ref=rss)
-### dfb
-
-* [https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-dfb-will-offenbar-mit-julian-nagelsmann-verlaengern](https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-dfb-will-offenbar-mit-julian-nagelsmann-verlaengern-a-c6c5ecaa-dda3-4170-bc1f-177ec48a4f7c#ref=rss)
-### julian
-
-* [https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-dfb-will-offenbar-mit-julian-nagelsmann-verlaengern](https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-dfb-will-offenbar-mit-julian-nagelsmann-verlaengern-a-c6c5ecaa-dda3-4170-bc1f-177ec48a4f7c#ref=rss)
-### nagelsmann
-
-* [https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-dfb-will-offenbar-mit-julian-nagelsmann-verlaengern](https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-dfb-will-offenbar-mit-julian-nagelsmann-verlaengern-a-c6c5ecaa-dda3-4170-bc1f-177ec48a4f7c#ref=rss)
-### douglas
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/douglas-verpatzt-boersen-comeback](https://www.spiegel.de/wirtschaft/unternehmen/douglas-verpatzt-boersen-comeback-a-023ed835-0932-4ca7-a787-a390390510b2#ref=rss)
-### unter
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/douglas-verpatzt-boersen-comeback](https://www.spiegel.de/wirtschaft/unternehmen/douglas-verpatzt-boersen-comeback-a-023ed835-0932-4ca7-a787-a390390510b2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/schweden-apotheke-fuehrt-altersgrenze-fuer-anti-aging-produkte-ein](https://www.spiegel.de/wirtschaft/service/schweden-apotheke-fuehrt-altersgrenze-fuer-anti-aging-produkte-ein-a-795c400b-0086-40f3-904f-561152194cb6#ref=rss)
-### fahrradhelme
-
-* [https://www.spiegel.de/auto/fahrradhelme-nur-drei-helme-bieten-im-test-guten-schutz-vor-kopfverletzungen](https://www.spiegel.de/auto/fahrradhelme-nur-drei-helme-bieten-im-test-guten-schutz-vor-kopfverletzungen-a-0a7424c0-738e-472a-974f-0e9cbd575c1d#ref=rss)
-### test
-
-* [https://www.spiegel.de/auto/fahrradhelme-nur-drei-helme-bieten-im-test-guten-schutz-vor-kopfverletzungen](https://www.spiegel.de/auto/fahrradhelme-nur-drei-helme-bieten-im-test-guten-schutz-vor-kopfverletzungen-a-0a7424c0-738e-472a-974f-0e9cbd575c1d#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/olivenoel-qualitaet-ist-laut-stiftung-warentest-drastisch-gesunken](https://www.spiegel.de/gesundheit/ernaehrung/olivenoel-qualitaet-ist-laut-stiftung-warentest-drastisch-gesunken-a-b863d568-93b1-4539-b438-170317602b04#ref=rss)
-### leben
-
-* [https://www.spiegel.de/auto/fahrradhelme-nur-drei-helme-bieten-im-test-guten-schutz-vor-kopfverletzungen](https://www.spiegel.de/auto/fahrradhelme-nur-drei-helme-bieten-im-test-guten-schutz-vor-kopfverletzungen-a-0a7424c0-738e-472a-974f-0e9cbd575c1d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klimaforscher-wolfgang-lucht-ueber-konsum-und-bescheidenheit-die-rechten-haben-es-geschafft-werte-umzudeuten](https://www.spiegel.de/wissenschaft/natur/klimaforscher-wolfgang-lucht-ueber-konsum-und-bescheidenheit-die-rechten-haben-es-geschafft-werte-umzudeuten-a-ab5dee23-bfd5-47e5-ba3d-b0d52131c2a2#ref=rss)
-### fußballem
-
-* [https://www.spiegel.de/kultur/musik/fussball-em-leony-singt-offiziellen-song](https://www.spiegel.de/kultur/musik/fussball-em-leony-singt-offiziellen-song-a-e96057d8-9b88-4e8c-9d75-fa5903f0703a#ref=rss)
-### leony
-
-* [https://www.spiegel.de/kultur/musik/fussball-em-leony-singt-offiziellen-song](https://www.spiegel.de/kultur/musik/fussball-em-leony-singt-offiziellen-song-a-e96057d8-9b88-4e8c-9d75-fa5903f0703a#ref=rss)
-### prinzessin
-
-* [https://www.spiegel.de/panorama/leute/prinzessin-catherine-und-die-irren-geruechte-ueber-ihre-person-die-royals-im-pr-schlamassel](https://www.spiegel.de/panorama/leute/prinzessin-catherine-und-die-irren-geruechte-ueber-ihre-person-die-royals-im-pr-schlamassel-a-c52c23dc-78d2-4cd3-972b-9260ecc810fe#ref=rss)
-### catherine
-
-* [https://www.spiegel.de/panorama/leute/prinzessin-catherine-und-die-irren-geruechte-ueber-ihre-person-die-royals-im-pr-schlamassel](https://www.spiegel.de/panorama/leute/prinzessin-catherine-und-die-irren-geruechte-ueber-ihre-person-die-royals-im-pr-schlamassel-a-c52c23dc-78d2-4cd3-972b-9260ecc810fe#ref=rss)
-### gerüchte
-
-* [https://www.spiegel.de/panorama/leute/prinzessin-catherine-und-die-irren-geruechte-ueber-ihre-person-die-royals-im-pr-schlamassel](https://www.spiegel.de/panorama/leute/prinzessin-catherine-und-die-irren-geruechte-ueber-ihre-person-die-royals-im-pr-schlamassel-a-c52c23dc-78d2-4cd3-972b-9260ecc810fe#ref=rss)
-### welt
-
-* [https://www.spiegel.de/panorama/leute/prinzessin-catherine-und-die-irren-geruechte-ueber-ihre-person-die-royals-im-pr-schlamassel](https://www.spiegel.de/panorama/leute/prinzessin-catherine-und-die-irren-geruechte-ueber-ihre-person-die-royals-im-pr-schlamassel-a-c52c23dc-78d2-4cd3-972b-9260ecc810fe#ref=rss)
-* [https://www.spiegel.de/politik/olaf-scholz-wird-bei-der-leipziger-buchmesse-immer-wieder-lautstark-gestoert-und-wehrt-sich](https://www.spiegel.de/politik/olaf-scholz-wird-bei-der-leipziger-buchmesse-immer-wieder-lautstark-gestoert-und-wehrt-sich-a-8b9a7c2c-12b6-4079-bd81-f481239bd3e4#ref=rss)
-### mieten
-
-* [https://www.spiegel.de/wirtschaft/soziales/mieten-unbezahlbare-wohnungen-draengen-mieter-aus-den-staedten](https://www.spiegel.de/wirtschaft/soziales/mieten-unbezahlbare-wohnungen-draengen-mieter-aus-den-staedten-a-6d31cc3c-6ffb-466a-bebd-93e226d68687#ref=rss)
-### olaf
-
-* [https://www.spiegel.de/politik/olaf-scholz-wird-bei-der-leipziger-buchmesse-immer-wieder-lautstark-gestoert-und-wehrt-sich](https://www.spiegel.de/politik/olaf-scholz-wird-bei-der-leipziger-buchmesse-immer-wieder-lautstark-gestoert-und-wehrt-sich-a-8b9a7c2c-12b6-4079-bd81-f481239bd3e4#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/olaf-scholz-wird-bei-der-leipziger-buchmesse-immer-wieder-lautstark-gestoert-und-wehrt-sich](https://www.spiegel.de/politik/olaf-scholz-wird-bei-der-leipziger-buchmesse-immer-wieder-lautstark-gestoert-und-wehrt-sich-a-8b9a7c2c-12b6-4079-bd81-f481239bd3e4#ref=rss)
-### leipziger
-
-* [https://www.spiegel.de/politik/olaf-scholz-wird-bei-der-leipziger-buchmesse-immer-wieder-lautstark-gestoert-und-wehrt-sich](https://www.spiegel.de/politik/olaf-scholz-wird-bei-der-leipziger-buchmesse-immer-wieder-lautstark-gestoert-und-wehrt-sich-a-8b9a7c2c-12b6-4079-bd81-f481239bd3e4#ref=rss)
-### buchmesse
-
-* [https://www.spiegel.de/politik/olaf-scholz-wird-bei-der-leipziger-buchmesse-immer-wieder-lautstark-gestoert-und-wehrt-sich](https://www.spiegel.de/politik/olaf-scholz-wird-bei-der-leipziger-buchmesse-immer-wieder-lautstark-gestoert-und-wehrt-sich-a-8b9a7c2c-12b6-4079-bd81-f481239bd3e4#ref=rss)
-### land
-
-* [https://www.spiegel.de/panorama/justiz/bad-reichenhall-gymnasiallehrer-wegen-missbrauchsverdacht-in-untersuchungshaft](https://www.spiegel.de/panorama/justiz/bad-reichenhall-gymnasiallehrer-wegen-missbrauchsverdacht-in-untersuchungshaft-a-dccd4622-2957-40e1-b7c8-dc28911835dc#ref=rss)
-* [https://www.spiegel.de/karriere/erfolg-der-afd-in-sachsen-wie-firmen-mit-der-radikalisierung-ihrer-belegschaft-umgehen](https://www.spiegel.de/karriere/erfolg-der-afd-in-sachsen-wie-firmen-mit-der-radikalisierung-ihrer-belegschaft-umgehen-a-f7b2f58c-b2d5-4546-803a-44efbb60a755#ref=rss)
+* [https://www.spiegel.de/netzwelt/games/fantasy-videospiele-das-sind-sieben-besonders-originelle-neuheiten](https://www.spiegel.de/netzwelt/games/fantasy-videospiele-das-sind-sieben-besonders-originelle-neuheiten-a-386688c8-822d-4fc5-933e-3a98fd58d399#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/carlsen-verlag-rueckruf-von-kinderbuechern-baby-pixi-unkaputtbar-wegen-giftstoffen](https://www.spiegel.de/wirtschaft/unternehmen/carlsen-verlag-rueckruf-von-kinderbuechern-baby-pixi-unkaputtbar-wegen-giftstoffen-a-4c80cf2a-c223-41be-b0ae-f8232f4059af#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/lamborghini-erzielte-2023-verkaufsrekord-milliardenumsatz-mit-luxusautos](https://www.spiegel.de/wirtschaft/unternehmen/lamborghini-erzielte-2023-verkaufsrekord-milliardenumsatz-mit-luxusautos-a-6b603f9f-8d3d-43f4-a7fe-9c23cbf5b597#ref=rss)
 ### polizei
 
-* [https://www.spiegel.de/panorama/justiz/bad-reichenhall-gymnasiallehrer-wegen-missbrauchsverdacht-in-untersuchungshaft](https://www.spiegel.de/panorama/justiz/bad-reichenhall-gymnasiallehrer-wegen-missbrauchsverdacht-in-untersuchungshaft-a-dccd4622-2957-40e1-b7c8-dc28911835dc#ref=rss)
-* [https://www.spiegel.de/panorama/mainz-jaeger-erschiesst-wildschwein-in-innenstadt](https://www.spiegel.de/panorama/mainz-jaeger-erschiesst-wildschwein-in-innenstadt-a-640e3029-6d46-4bec-a2ff-7761a24b6b1b#ref=rss)
-### weiteren
+* [https://www.spiegel.de/panorama/dresden-38-schueler-durch-reizgas-verletzt](https://www.spiegel.de/panorama/dresden-38-schueler-durch-reizgas-verletzt-a-d80b8ace-1efa-4214-88f1-f3e197509fc7#ref=rss)
+* [https://www.spiegel.de/ausland/niederlande-angreifer-wirft-brennendes-objekt-auf-israelische-botschaft-in-den-haag](https://www.spiegel.de/ausland/niederlande-angreifer-wirft-brennendes-objekt-auf-israelische-botschaft-in-den-haag-a-24a091e5-4f1e-4358-9450-a99e5f6f192c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/china-13-jaehriger-offenbar-von-gleichaltrigen-getoetet-worden](https://www.spiegel.de/panorama/justiz/china-13-jaehriger-offenbar-von-gleichaltrigen-getoetet-worden-a-9602a321-ceda-4d35-9715-9876bf2e2b07#ref=rss)
+### frankreich
 
-* [https://www.spiegel.de/panorama/justiz/bad-reichenhall-gymnasiallehrer-wegen-missbrauchsverdacht-in-untersuchungshaft](https://www.spiegel.de/panorama/justiz/bad-reichenhall-gymnasiallehrer-wegen-missbrauchsverdacht-in-untersuchungshaft-a-dccd4622-2957-40e1-b7c8-dc28911835dc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-eu-gipfel-bruessel-ukraine-atomkraft-trump-urteil-unternehmen-afd](https://www.spiegel.de/politik/deutschland/news-eu-gipfel-bruessel-ukraine-atomkraft-trump-urteil-unternehmen-afd-a-37a557af-a222-413f-ac0b-295e92cdb8aa#ref=rss)
-### friedrich
+* [https://www.spiegel.de/wirtschaft/modeindustrie-frankreich-will-shein-und-temu-per-gesetz-ausbremsen](https://www.spiegel.de/wirtschaft/modeindustrie-frankreich-will-shein-und-temu-per-gesetz-ausbremsen-a-ae9e0638-267f-4d24-b054-ce78a0360bfa#ref=rss)
+### shein
 
-* [https://www.spiegel.de/politik/deutschland/cannabis-legalisierung-friedrich-merz-fand-erfahrung-waehrend-der-schulzeit-furchtbar](https://www.spiegel.de/politik/deutschland/cannabis-legalisierung-friedrich-merz-fand-erfahrung-waehrend-der-schulzeit-furchtbar-a-1b80861f-c636-42f2-b367-65be36806f8a#ref=rss)
-### schulzeit
+* [https://www.spiegel.de/wirtschaft/modeindustrie-frankreich-will-shein-und-temu-per-gesetz-ausbremsen](https://www.spiegel.de/wirtschaft/modeindustrie-frankreich-will-shein-und-temu-per-gesetz-ausbremsen-a-ae9e0638-267f-4d24-b054-ce78a0360bfa#ref=rss)
+### per
 
-* [https://www.spiegel.de/politik/deutschland/cannabis-legalisierung-friedrich-merz-fand-erfahrung-waehrend-der-schulzeit-furchtbar](https://www.spiegel.de/politik/deutschland/cannabis-legalisierung-friedrich-merz-fand-erfahrung-waehrend-der-schulzeit-furchtbar-a-1b80861f-c636-42f2-b367-65be36806f8a#ref=rss)
-### einmal
+* [https://www.spiegel.de/wirtschaft/modeindustrie-frankreich-will-shein-und-temu-per-gesetz-ausbremsen](https://www.spiegel.de/wirtschaft/modeindustrie-frankreich-will-shein-und-temu-per-gesetz-ausbremsen-a-ae9e0638-267f-4d24-b054-ce78a0360bfa#ref=rss)
+### ausbremsen
 
-* [https://www.spiegel.de/politik/deutschland/cannabis-legalisierung-friedrich-merz-fand-erfahrung-waehrend-der-schulzeit-furchtbar](https://www.spiegel.de/politik/deutschland/cannabis-legalisierung-friedrich-merz-fand-erfahrung-waehrend-der-schulzeit-furchtbar-a-1b80861f-c636-42f2-b367-65be36806f8a#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/olivenoel-qualitaet-ist-laut-stiftung-warentest-drastisch-gesunken](https://www.spiegel.de/gesundheit/ernaehrung/olivenoel-qualitaet-ist-laut-stiftung-warentest-drastisch-gesunken-a-b863d568-93b1-4539-b438-170317602b04#ref=rss)
-### cdu
+* [https://www.spiegel.de/wirtschaft/modeindustrie-frankreich-will-shein-und-temu-per-gesetz-ausbremsen](https://www.spiegel.de/wirtschaft/modeindustrie-frankreich-will-shein-und-temu-per-gesetz-ausbremsen-a-ae9e0638-267f-4d24-b054-ce78a0360bfa#ref=rss)
+### maxim
 
-* [https://www.spiegel.de/politik/deutschland/cdu-und-buergergeld-die-agenda-merz-ist-eine-mogelpackung](https://www.spiegel.de/politik/deutschland/cdu-und-buergergeld-die-agenda-merz-ist-eine-mogelpackung-a-c6f4d950-ff91-46c3-a2f4-1d19d1dfa641#ref=rss)
-### werner
+* [https://www.spiegel.de/ausland/spanien-ermordeter-russischer-deserteur-die-hintergruende-zum-fall-maxim-kusminow-spiegel-tv](https://www.spiegel.de/ausland/spanien-ermordeter-russischer-deserteur-die-hintergruende-zum-fall-maxim-kusminow-spiegel-tv-a-8a6f02c7-f1bd-4002-874a-088ffcd712e5#ref=rss)
+### kusminow
 
-* [https://www.spiegel.de/panorama/gesellschaft/werner-schwarz-ist-landwirtschaftsminister-sein-sohn-macht-bei-den-bauerndemos-mit](https://www.spiegel.de/panorama/gesellschaft/werner-schwarz-ist-landwirtschaftsminister-sein-sohn-macht-bei-den-bauerndemos-mit-a-831f5c15-1255-47e5-a9c5-cad455cd0bcc#ref=rss)
-### landwirtschaftsminister
+* [https://www.spiegel.de/ausland/spanien-ermordeter-russischer-deserteur-die-hintergruende-zum-fall-maxim-kusminow-spiegel-tv](https://www.spiegel.de/ausland/spanien-ermordeter-russischer-deserteur-die-hintergruende-zum-fall-maxim-kusminow-spiegel-tv-a-8a6f02c7-f1bd-4002-874a-088ffcd712e5#ref=rss)
+### machte
 
-* [https://www.spiegel.de/panorama/gesellschaft/werner-schwarz-ist-landwirtschaftsminister-sein-sohn-macht-bei-den-bauerndemos-mit](https://www.spiegel.de/panorama/gesellschaft/werner-schwarz-ist-landwirtschaftsminister-sein-sohn-macht-bei-den-bauerndemos-mit-a-831f5c15-1255-47e5-a9c5-cad455cd0bcc#ref=rss)
-### sohn
+* [https://www.spiegel.de/ausland/spanien-ermordeter-russischer-deserteur-die-hintergruende-zum-fall-maxim-kusminow-spiegel-tv](https://www.spiegel.de/ausland/spanien-ermordeter-russischer-deserteur-die-hintergruende-zum-fall-maxim-kusminow-spiegel-tv-a-8a6f02c7-f1bd-4002-874a-088ffcd712e5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/china-13-jaehriger-offenbar-von-gleichaltrigen-getoetet-worden](https://www.spiegel.de/panorama/justiz/china-13-jaehriger-offenbar-von-gleichaltrigen-getoetet-worden-a-9602a321-ceda-4d35-9715-9876bf2e2b07#ref=rss)
+### putins
 
-* [https://www.spiegel.de/panorama/gesellschaft/werner-schwarz-ist-landwirtschaftsminister-sein-sohn-macht-bei-den-bauerndemos-mit](https://www.spiegel.de/panorama/gesellschaft/werner-schwarz-ist-landwirtschaftsminister-sein-sohn-macht-bei-den-bauerndemos-mit-a-831f5c15-1255-47e5-a9c5-cad455cd0bcc#ref=rss)
-### bauerndemos
+* [https://www.spiegel.de/ausland/spanien-ermordeter-russischer-deserteur-die-hintergruende-zum-fall-maxim-kusminow-spiegel-tv](https://www.spiegel.de/ausland/spanien-ermordeter-russischer-deserteur-die-hintergruende-zum-fall-maxim-kusminow-spiegel-tv-a-8a6f02c7-f1bd-4002-874a-088ffcd712e5#ref=rss)
+* [https://www.spiegel.de/geschichte/russlands-geschichtspolitik-putin-hat-deutschland-als-schwachstelle-europas-ausgemacht](https://www.spiegel.de/geschichte/russlands-geschichtspolitik-putin-hat-deutschland-als-schwachstelle-europas-ausgemacht-a-bac2d2bd-1be5-48c6-b9c3-daa5985e3307#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/panorama/gesellschaft/werner-schwarz-ist-landwirtschaftsminister-sein-sohn-macht-bei-den-bauerndemos-mit](https://www.spiegel.de/panorama/gesellschaft/werner-schwarz-ist-landwirtschaftsminister-sein-sohn-macht-bei-den-bauerndemos-mit-a-831f5c15-1255-47e5-a9c5-cad455cd0bcc#ref=rss)
-### kinder
+* [https://www.spiegel.de/ausland/spanien-ermordeter-russischer-deserteur-die-hintergruende-zum-fall-maxim-kusminow-spiegel-tv](https://www.spiegel.de/ausland/spanien-ermordeter-russischer-deserteur-die-hintergruende-zum-fall-maxim-kusminow-spiegel-tv-a-8a6f02c7-f1bd-4002-874a-088ffcd712e5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/lamborghini-erzielte-2023-verkaufsrekord-milliardenumsatz-mit-luxusautos](https://www.spiegel.de/wirtschaft/unternehmen/lamborghini-erzielte-2023-verkaufsrekord-milliardenumsatz-mit-luxusautos-a-6b603f9f-8d3d-43f4-a7fe-9c23cbf5b597#ref=rss)
+### ukrainekrieg
 
-* [https://www.spiegel.de/panorama/kinder-warnen-mit-fiktiven-wettervorhersagen-vor-klimakrise](https://www.spiegel.de/panorama/kinder-warnen-mit-fiktiven-wettervorhersagen-vor-klimakrise-a-3aa569a8-4fc6-41f7-ac53-5230823d20c4#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wer-sind-die-freischaerler-die-russland-auf-eigenem-boden-attackieren](https://www.spiegel.de/ausland/ukraine-krieg-wer-sind-die-freischaerler-die-russland-auf-eigenem-boden-attackieren-a-263d75da-1a6e-4274-b695-9a42c848fb36#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-kiew-aus-der-luft-an-13-verletzte](https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-kiew-aus-der-luft-an-13-verletzte-a-7c9c528d-d7d8-4d4a-b921-71207583f064#ref=rss)
+### versucht
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-wer-sind-die-freischaerler-die-russland-auf-eigenem-boden-attackieren](https://www.spiegel.de/ausland/ukraine-krieg-wer-sind-die-freischaerler-die-russland-auf-eigenem-boden-attackieren-a-263d75da-1a6e-4274-b695-9a42c848fb36#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gereon-bollmann-afd-scheitert-erneut-mit-kandidatur-fuer-bundestagspraesidium](https://www.spiegel.de/politik/deutschland/gereon-bollmann-afd-scheitert-erneut-mit-kandidatur-fuer-bundestagspraesidium-a-beeba0be-847f-4357-9c0c-6a083f98f366#ref=rss)
+### erfolg
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-wer-sind-die-freischaerler-die-russland-auf-eigenem-boden-attackieren](https://www.spiegel.de/ausland/ukraine-krieg-wer-sind-die-freischaerler-die-russland-auf-eigenem-boden-attackieren-a-263d75da-1a6e-4274-b695-9a42c848fb36#ref=rss)
+* [https://www.spiegel.de/start/startklar-newsletter-berichte-ueber-riskante-saufrituale-an-der-whu-otto-beisheim-school-of-management](https://www.spiegel.de/start/startklar-newsletter-berichte-ueber-riskante-saufrituale-an-der-whu-otto-beisheim-school-of-management-a-4282f562-d767-458a-8f3c-8836d010352e#ref=rss)
+### front
+
+* [https://www.spiegel.de/ausland/russland-haeftlinge-an-der-front-region-krasnojarsk-will-offenbar-mehrere-gefaengnisse-schliessen](https://www.spiegel.de/ausland/russland-haeftlinge-an-der-front-region-krasnojarsk-will-offenbar-mehrere-gefaengnisse-schliessen-a-7d0bd457-aa0f-4a7b-9686-db117f0b3a90#ref=rss)
+### region
+
+* [https://www.spiegel.de/ausland/russland-haeftlinge-an-der-front-region-krasnojarsk-will-offenbar-mehrere-gefaengnisse-schliessen](https://www.spiegel.de/ausland/russland-haeftlinge-an-der-front-region-krasnojarsk-will-offenbar-mehrere-gefaengnisse-schliessen-a-7d0bd457-aa0f-4a7b-9686-db117f0b3a90#ref=rss)
+### verurteilte
+
+* [https://www.spiegel.de/ausland/russland-haeftlinge-an-der-front-region-krasnojarsk-will-offenbar-mehrere-gefaengnisse-schliessen](https://www.spiegel.de/ausland/russland-haeftlinge-an-der-front-region-krasnojarsk-will-offenbar-mehrere-gefaengnisse-schliessen-a-7d0bd457-aa0f-4a7b-9686-db117f0b3a90#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dani-alves-ex-fussballstar-bleibt-im-gefaengnis-kaution-nicht-gezahlt](https://www.spiegel.de/sport/fussball/dani-alves-ex-fussballstar-bleibt-im-gefaengnis-kaution-nicht-gezahlt-a-165a5242-2cec-4831-bf8e-5dece163a13d#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/panorama/kinder-warnen-mit-fiktiven-wettervorhersagen-vor-klimakrise](https://www.spiegel.de/panorama/kinder-warnen-mit-fiktiven-wettervorhersagen-vor-klimakrise-a-3aa569a8-4fc6-41f7-ac53-5230823d20c4#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/olivenoel-qualitaet-ist-laut-stiftung-warentest-drastisch-gesunken](https://www.spiegel.de/gesundheit/ernaehrung/olivenoel-qualitaet-ist-laut-stiftung-warentest-drastisch-gesunken-a-b863d568-93b1-4539-b438-170317602b04#ref=rss)
-### führt
+* [https://www.spiegel.de/ausland/russland-haeftlinge-an-der-front-region-krasnojarsk-will-offenbar-mehrere-gefaengnisse-schliessen](https://www.spiegel.de/ausland/russland-haeftlinge-an-der-front-region-krasnojarsk-will-offenbar-mehrere-gefaengnisse-schliessen-a-7d0bd457-aa0f-4a7b-9686-db117f0b3a90#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-kiew-aus-der-luft-an-13-verletzte](https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-kiew-aus-der-luft-an-13-verletzte-a-7c9c528d-d7d8-4d4a-b921-71207583f064#ref=rss)
+### bahn
 
-* [https://www.spiegel.de/wirtschaft/service/schweden-apotheke-fuehrt-altersgrenze-fuer-anti-aging-produkte-ein](https://www.spiegel.de/wirtschaft/service/schweden-apotheke-fuehrt-altersgrenze-fuer-anti-aging-produkte-ein-a-795c400b-0086-40f3-904f-561152194cb6#ref=rss)
-### sachsen
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-deutsche-bahn-bauernproteste-darknet-handelsplatz-nemesis](https://www.spiegel.de/politik/deutschland/news-des-tages-deutsche-bahn-bauernproteste-darknet-handelsplatz-nemesis-a-abc3195d-d60d-49d9-82c2-cca6ef762d63#ref=rss)
+### darknethandelsplatz
 
-* [https://www.spiegel.de/karriere/erfolg-der-afd-in-sachsen-wie-firmen-mit-der-radikalisierung-ihrer-belegschaft-umgehen](https://www.spiegel.de/karriere/erfolg-der-afd-in-sachsen-wie-firmen-mit-der-radikalisierung-ihrer-belegschaft-umgehen-a-f7b2f58c-b2d5-4546-803a-44efbb60a755#ref=rss)
-### kiew
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-deutsche-bahn-bauernproteste-darknet-handelsplatz-nemesis](https://www.spiegel.de/politik/deutschland/news-des-tages-deutsche-bahn-bauernproteste-darknet-handelsplatz-nemesis-a-abc3195d-d60d-49d9-82c2-cca6ef762d63#ref=rss)
+### wichtigen
 
-* [https://www.spiegel.de/ausland/ukraine-angriffe-auf-kiew-flugabwehr-schiesst-31-russische-raketen-ab](https://www.spiegel.de/ausland/ukraine-angriffe-auf-kiew-flugabwehr-schiesst-31-russische-raketen-ab-a-b6654bd7-93fb-45d9-b71d-6f21c8c2783c#ref=rss)
-### raketen
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-deutsche-bahn-bauernproteste-darknet-handelsplatz-nemesis](https://www.spiegel.de/politik/deutschland/news-des-tages-deutsche-bahn-bauernproteste-darknet-handelsplatz-nemesis-a-abc3195d-d60d-49d9-82c2-cca6ef762d63#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/usa-erfolgreiche-transplantation-von-schweineniere-in-lebenden-menschen](https://www.spiegel.de/wissenschaft/mensch/usa-erfolgreiche-transplantation-von-schweineniere-in-lebenden-menschen-a-9dea0717-94bd-4bae-ada7-b334f931a100#ref=rss)
+### erfolgreiche
 
-* [https://www.spiegel.de/ausland/ukraine-angriffe-auf-kiew-flugabwehr-schiesst-31-russische-raketen-ab](https://www.spiegel.de/ausland/ukraine-angriffe-auf-kiew-flugabwehr-schiesst-31-russische-raketen-ab-a-b6654bd7-93fb-45d9-b71d-6f21c8c2783c#ref=rss)
-### biden
+* [https://www.spiegel.de/wissenschaft/mensch/usa-erfolgreiche-transplantation-von-schweineniere-in-lebenden-menschen](https://www.spiegel.de/wissenschaft/mensch/usa-erfolgreiche-transplantation-von-schweineniere-in-lebenden-menschen-a-9dea0717-94bd-4bae-ada7-b334f931a100#ref=rss)
+* [https://www.spiegel.de/sport/fussball/deutsche-nationalmannschaft-und-die-abwehrprobleme-lass-dich-ueberraschen](https://www.spiegel.de/sport/fussball/deutsche-nationalmannschaft-und-die-abwehrprobleme-lass-dich-ueberraschen-a-71c0e5c5-d91f-4105-8420-566a5f12e137#ref=rss)
+### transplantation
 
-* [https://www.spiegel.de/wirtschaft/soziales/joe-biden-steckt-neue-milliarden-in-us-chipindustrie](https://www.spiegel.de/wirtschaft/soziales/joe-biden-steckt-neue-milliarden-in-us-chipindustrie-a-ad62d6c5-07ab-4e57-82e0-22a097cad7f1#ref=rss)
-### hermès
+* [https://www.spiegel.de/wissenschaft/mensch/usa-erfolgreiche-transplantation-von-schweineniere-in-lebenden-menschen](https://www.spiegel.de/wissenschaft/mensch/usa-erfolgreiche-transplantation-von-schweineniere-in-lebenden-menschen-a-9dea0717-94bd-4bae-ada7-b334f931a100#ref=rss)
+### setzen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/hermes-birkin-taschen-nur-fuer-ausgewaehlte-kunden](https://www.spiegel.de/wirtschaft/unternehmen/hermes-birkin-taschen-nur-fuer-ausgewaehlte-kunden-a-1972e984-f3d2-4247-8bc9-c0042f2e3bb5#ref=rss)
-### montenegro
+* [https://www.spiegel.de/wissenschaft/mensch/usa-erfolgreiche-transplantation-von-schweineniere-in-lebenden-menschen](https://www.spiegel.de/wissenschaft/mensch/usa-erfolgreiche-transplantation-von-schweineniere-in-lebenden-menschen-a-9dea0717-94bd-4bae-ada7-b334f931a100#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/atomkraft-staaten-kuendigen-beschleunigten-ausbau-an](https://www.spiegel.de/wissenschaft/technik/atomkraft-staaten-kuendigen-beschleunigten-ausbau-an-a-e0cae78d-1b57-4511-925f-97ef65ce24a3#ref=rss)
+### rheinmetall
 
-* [https://www.spiegel.de/ausland/wahlen-in-portugal-konservativer-montenegro-zum-regierungschef-ernannt](https://www.spiegel.de/ausland/wahlen-in-portugal-konservativer-montenegro-zum-regierungschef-ernannt-a-0a184183-d669-434b-a3eb-4cb9f71a7ac7#ref=rss)
-### regierungschef
+* [https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-bundeswehr-vergibt-milliardenauftrag-an-deutschen-ruestungskonzern](https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-bundeswehr-vergibt-milliardenauftrag-an-deutschen-ruestungskonzern-a-6428065a-839a-4381-9d2e-8ddf418e0152#ref=rss)
+### rüstungskonzern
 
-* [https://www.spiegel.de/ausland/wahlen-in-portugal-konservativer-montenegro-zum-regierungschef-ernannt](https://www.spiegel.de/ausland/wahlen-in-portugal-konservativer-montenegro-zum-regierungschef-ernannt-a-0a184183-d669-434b-a3eb-4cb9f71a7ac7#ref=rss)
-### mainz
+* [https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-bundeswehr-vergibt-milliardenauftrag-an-deutschen-ruestungskonzern](https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-bundeswehr-vergibt-milliardenauftrag-an-deutschen-ruestungskonzern-a-6428065a-839a-4381-9d2e-8ddf418e0152#ref=rss)
+### gereon
 
-* [https://www.spiegel.de/panorama/mainz-jaeger-erschiesst-wildschwein-in-innenstadt](https://www.spiegel.de/panorama/mainz-jaeger-erschiesst-wildschwein-in-innenstadt-a-640e3029-6d46-4bec-a2ff-7761a24b6b1b#ref=rss)
-### jäger
+* [https://www.spiegel.de/politik/deutschland/gereon-bollmann-afd-scheitert-erneut-mit-kandidatur-fuer-bundestagspraesidium](https://www.spiegel.de/politik/deutschland/gereon-bollmann-afd-scheitert-erneut-mit-kandidatur-fuer-bundestagspraesidium-a-beeba0be-847f-4357-9c0c-6a083f98f366#ref=rss)
+### bollmann
 
-* [https://www.spiegel.de/panorama/mainz-jaeger-erschiesst-wildschwein-in-innenstadt](https://www.spiegel.de/panorama/mainz-jaeger-erschiesst-wildschwein-in-innenstadt-a-640e3029-6d46-4bec-a2ff-7761a24b6b1b#ref=rss)
-### innenstadt
+* [https://www.spiegel.de/politik/deutschland/gereon-bollmann-afd-scheitert-erneut-mit-kandidatur-fuer-bundestagspraesidium](https://www.spiegel.de/politik/deutschland/gereon-bollmann-afd-scheitert-erneut-mit-kandidatur-fuer-bundestagspraesidium-a-beeba0be-847f-4357-9c0c-6a083f98f366#ref=rss)
+### afd
 
-* [https://www.spiegel.de/panorama/mainz-jaeger-erschiesst-wildschwein-in-innenstadt](https://www.spiegel.de/panorama/mainz-jaeger-erschiesst-wildschwein-in-innenstadt-a-640e3029-6d46-4bec-a2ff-7761a24b6b1b#ref=rss)
-### israelgazakrieg
+* [https://www.spiegel.de/politik/deutschland/gereon-bollmann-afd-scheitert-erneut-mit-kandidatur-fuer-bundestagspraesidium](https://www.spiegel.de/politik/deutschland/gereon-bollmann-afd-scheitert-erneut-mit-kandidatur-fuer-bundestagspraesidium-a-beeba0be-847f-4357-9c0c-6a083f98f366#ref=rss)
+### neuer
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-usa-fordern-in-uno-resolutionsentwurf-sofortige-feuerpause](https://www.spiegel.de/ausland/israel-gaza-krieg-usa-fordern-in-uno-resolutionsentwurf-sofortige-feuerpause-a-d66cbd88-23c6-4554-ba44-1584c65ea3bd#ref=rss)
-### usa
+* [https://www.spiegel.de/politik/deutschland/gereon-bollmann-afd-scheitert-erneut-mit-kandidatur-fuer-bundestagspraesidium](https://www.spiegel.de/politik/deutschland/gereon-bollmann-afd-scheitert-erneut-mit-kandidatur-fuer-bundestagspraesidium-a-beeba0be-847f-4357-9c0c-6a083f98f366#ref=rss)
+* [https://www.spiegel.de/wirtschaft/burger-king-neuer-chef-joerg-ehmer-im-interview-ein-burger-ist-keine-quinoa-bowl](https://www.spiegel.de/wirtschaft/burger-king-neuer-chef-joerg-ehmer-im-interview-ein-burger-ist-keine-quinoa-bowl-a-a20aeef6-2a7e-4723-b73b-8ce2d50043b4#ref=rss)
+### neue
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-usa-fordern-in-uno-resolutionsentwurf-sofortige-feuerpause](https://www.spiegel.de/ausland/israel-gaza-krieg-usa-fordern-in-uno-resolutionsentwurf-sofortige-feuerpause-a-d66cbd88-23c6-4554-ba44-1584c65ea3bd#ref=rss)
-### unoresolutionsentwurf
+* [https://www.spiegel.de/politik/deutschland/gereon-bollmann-afd-scheitert-erneut-mit-kandidatur-fuer-bundestagspraesidium](https://www.spiegel.de/politik/deutschland/gereon-bollmann-afd-scheitert-erneut-mit-kandidatur-fuer-bundestagspraesidium-a-beeba0be-847f-4357-9c0c-6a083f98f366#ref=rss)
+* [https://www.spiegel.de/wirtschaft/burger-king-neuer-chef-joerg-ehmer-im-interview-ein-burger-ist-keine-quinoa-bowl](https://www.spiegel.de/wirtschaft/burger-king-neuer-chef-joerg-ehmer-im-interview-ein-burger-ist-keine-quinoa-bowl-a-a20aeef6-2a7e-4723-b73b-8ce2d50043b4#ref=rss)
+### preis
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-usa-fordern-in-uno-resolutionsentwurf-sofortige-feuerpause](https://www.spiegel.de/ausland/israel-gaza-krieg-usa-fordern-in-uno-resolutionsentwurf-sofortige-feuerpause-a-d66cbd88-23c6-4554-ba44-1584c65ea3bd#ref=rss)
-### sofortige
+* [https://www.spiegel.de/kultur/literatur/barbi-markovic-gewinnt-preis-der-leipziger-buchmesse](https://www.spiegel.de/kultur/literatur/barbi-markovic-gewinnt-preis-der-leipziger-buchmesse-a-020e9bfc-8c59-4b99-9693-f5dce106f9b3#ref=rss)
+### leipziger
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-usa-fordern-in-uno-resolutionsentwurf-sofortige-feuerpause](https://www.spiegel.de/ausland/israel-gaza-krieg-usa-fordern-in-uno-resolutionsentwurf-sofortige-feuerpause-a-d66cbd88-23c6-4554-ba44-1584c65ea3bd#ref=rss)
-### feuerpause
+* [https://www.spiegel.de/kultur/literatur/barbi-markovic-gewinnt-preis-der-leipziger-buchmesse](https://www.spiegel.de/kultur/literatur/barbi-markovic-gewinnt-preis-der-leipziger-buchmesse-a-020e9bfc-8c59-4b99-9693-f5dce106f9b3#ref=rss)
+### buchmesse
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-usa-fordern-in-uno-resolutionsentwurf-sofortige-feuerpause](https://www.spiegel.de/ausland/israel-gaza-krieg-usa-fordern-in-uno-resolutionsentwurf-sofortige-feuerpause-a-d66cbd88-23c6-4554-ba44-1584c65ea3bd#ref=rss)
-### wolfgang
+* [https://www.spiegel.de/kultur/literatur/barbi-markovic-gewinnt-preis-der-leipziger-buchmesse](https://www.spiegel.de/kultur/literatur/barbi-markovic-gewinnt-preis-der-leipziger-buchmesse-a-020e9bfc-8c59-4b99-9693-f5dce106f9b3#ref=rss)
+### sieben
 
-* [https://www.spiegel.de/wissenschaft/natur/klimaforscher-wolfgang-lucht-ueber-konsum-und-bescheidenheit-die-rechten-haben-es-geschafft-werte-umzudeuten](https://www.spiegel.de/wissenschaft/natur/klimaforscher-wolfgang-lucht-ueber-konsum-und-bescheidenheit-die-rechten-haben-es-geschafft-werte-umzudeuten-a-ab5dee23-bfd5-47e5-ba3d-b0d52131c2a2#ref=rss)
-### lucht
+* [https://www.spiegel.de/netzwelt/games/fantasy-videospiele-das-sind-sieben-besonders-originelle-neuheiten](https://www.spiegel.de/netzwelt/games/fantasy-videospiele-das-sind-sieben-besonders-originelle-neuheiten-a-386688c8-822d-4fc5-933e-3a98fd58d399#ref=rss)
+### neuheiten
 
-* [https://www.spiegel.de/wissenschaft/natur/klimaforscher-wolfgang-lucht-ueber-konsum-und-bescheidenheit-die-rechten-haben-es-geschafft-werte-umzudeuten](https://www.spiegel.de/wissenschaft/natur/klimaforscher-wolfgang-lucht-ueber-konsum-und-bescheidenheit-die-rechten-haben-es-geschafft-werte-umzudeuten-a-ab5dee23-bfd5-47e5-ba3d-b0d52131c2a2#ref=rss)
-### eugipfel
+* [https://www.spiegel.de/netzwelt/games/fantasy-videospiele-das-sind-sieben-besonders-originelle-neuheiten](https://www.spiegel.de/netzwelt/games/fantasy-videospiele-das-sind-sieben-besonders-originelle-neuheiten-a-386688c8-822d-4fc5-933e-3a98fd58d399#ref=rss)
+### wir
 
-* [https://www.spiegel.de/politik/deutschland/news-eu-gipfel-bruessel-ukraine-atomkraft-trump-urteil-unternehmen-afd](https://www.spiegel.de/politik/deutschland/news-eu-gipfel-bruessel-ukraine-atomkraft-trump-urteil-unternehmen-afd-a-37a557af-a222-413f-ac0b-295e92cdb8aa#ref=rss)
-### brüssel
+* [https://www.spiegel.de/netzwelt/games/fantasy-videospiele-das-sind-sieben-besonders-originelle-neuheiten](https://www.spiegel.de/netzwelt/games/fantasy-videospiele-das-sind-sieben-besonders-originelle-neuheiten-a-386688c8-822d-4fc5-933e-3a98fd58d399#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/menschheitsgeschichte-warum-menschen-vor-60-000-jahren-afrika-verliess](https://www.spiegel.de/wissenschaft/mensch/menschheitsgeschichte-warum-menschen-vor-60-000-jahren-afrika-verliess-a-820ac594-5271-476d-8d1e-41769e1908ad#ref=rss)
+### andere
 
-* [https://www.spiegel.de/politik/deutschland/news-eu-gipfel-bruessel-ukraine-atomkraft-trump-urteil-unternehmen-afd](https://www.spiegel.de/politik/deutschland/news-eu-gipfel-bruessel-ukraine-atomkraft-trump-urteil-unternehmen-afd-a-37a557af-a222-413f-ac0b-295e92cdb8aa#ref=rss)
-### trump
+* [https://www.spiegel.de/netzwelt/games/fantasy-videospiele-das-sind-sieben-besonders-originelle-neuheiten](https://www.spiegel.de/netzwelt/games/fantasy-videospiele-das-sind-sieben-besonders-originelle-neuheiten-a-386688c8-822d-4fc5-933e-3a98fd58d399#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/atomkraft-staaten-kuendigen-beschleunigten-ausbau-an](https://www.spiegel.de/wissenschaft/technik/atomkraft-staaten-kuendigen-beschleunigten-ausbau-an-a-e0cae78d-1b57-4511-925f-97ef65ce24a3#ref=rss)
+### dutzende
 
-* [https://www.spiegel.de/politik/deutschland/news-eu-gipfel-bruessel-ukraine-atomkraft-trump-urteil-unternehmen-afd](https://www.spiegel.de/politik/deutschland/news-eu-gipfel-bruessel-ukraine-atomkraft-trump-urteil-unternehmen-afd-a-37a557af-a222-413f-ac0b-295e92cdb8aa#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/parteifreunde-warnen-regierungsgruene-vor-scheitern-der-cannabislegalisierung](https://www.spiegel.de/politik/deutschland/parteifreunde-warnen-regierungsgruene-vor-scheitern-der-cannabislegalisierung-a-f3819eff-95de-4736-834d-63ad062d90bb#ref=rss)
+* [https://www.spiegel.de/panorama/dresden-38-schueler-durch-reizgas-verletzt](https://www.spiegel.de/panorama/dresden-38-schueler-durch-reizgas-verletzt-a-d80b8ace-1efa-4214-88f1-f3e197509fc7#ref=rss)
+### dfb
+
+* [https://www.spiegel.de/sport/fussball/dfb-nike-loest-adidas-als-ausruester-ab](https://www.spiegel.de/sport/fussball/dfb-nike-loest-adidas-als-ausruester-ab-a-32b3fb51-aad5-4f62-8abe-42714095321f#ref=rss)
+### adidas
+
+* [https://www.spiegel.de/sport/fussball/dfb-nike-loest-adidas-als-ausruester-ab](https://www.spiegel.de/sport/fussball/dfb-nike-loest-adidas-als-ausruester-ab-a-32b3fb51-aad5-4f62-8abe-42714095321f#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/sport/fussball/dfb-nike-loest-adidas-als-ausruester-ab](https://www.spiegel.de/sport/fussball/dfb-nike-loest-adidas-als-ausruester-ab-a-32b3fb51-aad5-4f62-8abe-42714095321f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/menschheitsgeschichte-warum-menschen-vor-60-000-jahren-afrika-verliess](https://www.spiegel.de/wissenschaft/mensch/menschheitsgeschichte-warum-menschen-vor-60-000-jahren-afrika-verliess-a-820ac594-5271-476d-8d1e-41769e1908ad#ref=rss)
+### legte
+
+* [https://www.spiegel.de/sport/fussball/dfb-nike-loest-adidas-als-ausruester-ab](https://www.spiegel.de/sport/fussball/dfb-nike-loest-adidas-als-ausruester-ab-a-32b3fb51-aad5-4f62-8abe-42714095321f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hannover-mann-gesteht-tochter-quecksilber-gespritzt-zu-haben](https://www.spiegel.de/panorama/justiz/hannover-mann-gesteht-tochter-quecksilber-gespritzt-zu-haben-a-4953516e-62bc-4b8b-a866-d47a04433d86#ref=rss)
+### apple
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/iphone-apple-mit-umfassender-kartellklage-der-us-justiz-konfrontiert](https://www.spiegel.de/wirtschaft/unternehmen/iphone-apple-mit-umfassender-kartellklage-der-us-justiz-konfrontiert-a-615af14a-8f65-45af-879c-0075d34a5e10#ref=rss)
+### kartellklage
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/iphone-apple-mit-umfassender-kartellklage-der-us-justiz-konfrontiert](https://www.spiegel.de/wirtschaft/unternehmen/iphone-apple-mit-umfassender-kartellklage-der-us-justiz-konfrontiert-a-615af14a-8f65-45af-879c-0075d34a5e10#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/geschichte/russlands-geschichtspolitik-putin-hat-deutschland-als-schwachstelle-europas-ausgemacht](https://www.spiegel.de/geschichte/russlands-geschichtspolitik-putin-hat-deutschland-als-schwachstelle-europas-ausgemacht-a-bac2d2bd-1be5-48c6-b9c3-daa5985e3307#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/atomkraft-staaten-kuendigen-beschleunigten-ausbau-an](https://www.spiegel.de/wissenschaft/technik/atomkraft-staaten-kuendigen-beschleunigten-ausbau-an-a-e0cae78d-1b57-4511-925f-97ef65ce24a3#ref=rss)
+### heil
+
+* [https://www.spiegel.de/politik/deutschland/hubertus-heil-die-konservativen-knuepfen-an-maggie-thatcher-an](https://www.spiegel.de/politik/deutschland/hubertus-heil-die-konservativen-knuepfen-an-maggie-thatcher-an-a-0d987dea-4945-4db7-849d-e5531335fa6d#ref=rss)
+### tochter
+
+* [https://www.spiegel.de/panorama/justiz/hannover-mann-gesteht-tochter-quecksilber-gespritzt-zu-haben](https://www.spiegel.de/panorama/justiz/hannover-mann-gesteht-tochter-quecksilber-gespritzt-zu-haben-a-4953516e-62bc-4b8b-a866-d47a04433d86#ref=rss)
+### quecksilber
+
+* [https://www.spiegel.de/panorama/justiz/hannover-mann-gesteht-tochter-quecksilber-gespritzt-zu-haben](https://www.spiegel.de/panorama/justiz/hannover-mann-gesteht-tochter-quecksilber-gespritzt-zu-haben-a-4953516e-62bc-4b8b-a866-d47a04433d86#ref=rss)
+### dani
+
+* [https://www.spiegel.de/sport/fussball/dani-alves-ex-fussballstar-bleibt-im-gefaengnis-kaution-nicht-gezahlt](https://www.spiegel.de/sport/fussball/dani-alves-ex-fussballstar-bleibt-im-gefaengnis-kaution-nicht-gezahlt-a-165a5242-2cec-4831-bf8e-5dece163a13d#ref=rss)
+### alves
+
+* [https://www.spiegel.de/sport/fussball/dani-alves-ex-fussballstar-bleibt-im-gefaengnis-kaution-nicht-gezahlt](https://www.spiegel.de/sport/fussball/dani-alves-ex-fussballstar-bleibt-im-gefaengnis-kaution-nicht-gezahlt-a-165a5242-2cec-4831-bf8e-5dece163a13d#ref=rss)
+### gefängnis
+
+* [https://www.spiegel.de/sport/fussball/dani-alves-ex-fussballstar-bleibt-im-gefaengnis-kaution-nicht-gezahlt](https://www.spiegel.de/sport/fussball/dani-alves-ex-fussballstar-bleibt-im-gefaengnis-kaution-nicht-gezahlt-a-165a5242-2cec-4831-bf8e-5dece163a13d#ref=rss)
+### geld
+
+* [https://www.spiegel.de/sport/fussball/dani-alves-ex-fussballstar-bleibt-im-gefaengnis-kaution-nicht-gezahlt](https://www.spiegel.de/sport/fussball/dani-alves-ex-fussballstar-bleibt-im-gefaengnis-kaution-nicht-gezahlt-a-165a5242-2cec-4831-bf8e-5dece163a13d#ref=rss)
+* [https://www.spiegel.de/panorama/david-hasselhoff-deutsches-museum-ersteigert-baywatch-badehose](https://www.spiegel.de/panorama/david-hasselhoff-deutsches-museum-ersteigert-baywatch-badehose-a-02025f26-917d-4eb5-ba55-ffedcd8be552#ref=rss)
+### dresden
+
+* [https://www.spiegel.de/panorama/dresden-38-schueler-durch-reizgas-verletzt](https://www.spiegel.de/panorama/dresden-38-schueler-durch-reizgas-verletzt-a-d80b8ace-1efa-4214-88f1-f3e197509fc7#ref=rss)
+### schüler
+
+* [https://www.spiegel.de/panorama/dresden-38-schueler-durch-reizgas-verletzt](https://www.spiegel.de/panorama/dresden-38-schueler-durch-reizgas-verletzt-a-d80b8ace-1efa-4214-88f1-f3e197509fc7#ref=rss)
+### david
+
+* [https://www.spiegel.de/panorama/david-hasselhoff-deutsches-museum-ersteigert-baywatch-badehose](https://www.spiegel.de/panorama/david-hasselhoff-deutsches-museum-ersteigert-baywatch-badehose-a-02025f26-917d-4eb5-ba55-ffedcd8be552#ref=rss)
+### hasselhoff
+
+* [https://www.spiegel.de/panorama/david-hasselhoff-deutsches-museum-ersteigert-baywatch-badehose](https://www.spiegel.de/panorama/david-hasselhoff-deutsches-museum-ersteigert-baywatch-badehose-a-02025f26-917d-4eb5-ba55-ffedcd8be552#ref=rss)
+### verlag
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/carlsen-verlag-rueckruf-von-kinderbuechern-baby-pixi-unkaputtbar-wegen-giftstoffen](https://www.spiegel.de/wirtschaft/unternehmen/carlsen-verlag-rueckruf-von-kinderbuechern-baby-pixi-unkaputtbar-wegen-giftstoffen-a-4c80cf2a-c223-41be-b0ae-f8232f4059af#ref=rss)
+### baby
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/carlsen-verlag-rueckruf-von-kinderbuechern-baby-pixi-unkaputtbar-wegen-giftstoffen](https://www.spiegel.de/wirtschaft/unternehmen/carlsen-verlag-rueckruf-von-kinderbuechern-baby-pixi-unkaputtbar-wegen-giftstoffen-a-4c80cf2a-c223-41be-b0ae-f8232f4059af#ref=rss)
+### pixi
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/carlsen-verlag-rueckruf-von-kinderbuechern-baby-pixi-unkaputtbar-wegen-giftstoffen](https://www.spiegel.de/wirtschaft/unternehmen/carlsen-verlag-rueckruf-von-kinderbuechern-baby-pixi-unkaputtbar-wegen-giftstoffen-a-4c80cf2a-c223-41be-b0ae-f8232f4059af#ref=rss)
+### unkaputtbar
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/carlsen-verlag-rueckruf-von-kinderbuechern-baby-pixi-unkaputtbar-wegen-giftstoffen](https://www.spiegel.de/wirtschaft/unternehmen/carlsen-verlag-rueckruf-von-kinderbuechern-baby-pixi-unkaputtbar-wegen-giftstoffen-a-4c80cf2a-c223-41be-b0ae-f8232f4059af#ref=rss)
+### woche
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-kiew-aus-der-luft-an-13-verletzte](https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-kiew-aus-der-luft-an-13-verletzte-a-7c9c528d-d7d8-4d4a-b921-71207583f064#ref=rss)
+* [https://www.spiegel.de/start/startklar-newsletter-berichte-ueber-riskante-saufrituale-an-der-whu-otto-beisheim-school-of-management](https://www.spiegel.de/start/startklar-newsletter-berichte-ueber-riskante-saufrituale-an-der-whu-otto-beisheim-school-of-management-a-4282f562-d767-458a-8f3c-8836d010352e#ref=rss)
+### king
+
+* [https://www.spiegel.de/wirtschaft/burger-king-neuer-chef-joerg-ehmer-im-interview-ein-burger-ist-keine-quinoa-bowl](https://www.spiegel.de/wirtschaft/burger-king-neuer-chef-joerg-ehmer-im-interview-ein-burger-ist-keine-quinoa-bowl-a-a20aeef6-2a7e-4723-b73b-8ce2d50043b4#ref=rss)
+### chef
+
+* [https://www.spiegel.de/wirtschaft/burger-king-neuer-chef-joerg-ehmer-im-interview-ein-burger-ist-keine-quinoa-bowl](https://www.spiegel.de/wirtschaft/burger-king-neuer-chef-joerg-ehmer-im-interview-ein-burger-ist-keine-quinoa-bowl-a-a20aeef6-2a7e-4723-b73b-8ce2d50043b4#ref=rss)
+### jörg
+
+* [https://www.spiegel.de/wirtschaft/burger-king-neuer-chef-joerg-ehmer-im-interview-ein-burger-ist-keine-quinoa-bowl](https://www.spiegel.de/wirtschaft/burger-king-neuer-chef-joerg-ehmer-im-interview-ein-burger-ist-keine-quinoa-bowl-a-a20aeef6-2a7e-4723-b73b-8ce2d50043b4#ref=rss)
+### ehmer
+
+* [https://www.spiegel.de/wirtschaft/burger-king-neuer-chef-joerg-ehmer-im-interview-ein-burger-ist-keine-quinoa-bowl](https://www.spiegel.de/wirtschaft/burger-king-neuer-chef-joerg-ehmer-im-interview-ein-burger-ist-keine-quinoa-bowl-a-a20aeef6-2a7e-4723-b73b-8ce2d50043b4#ref=rss)
+### israelische
+
+* [https://www.spiegel.de/ausland/niederlande-angreifer-wirft-brennendes-objekt-auf-israelische-botschaft-in-den-haag](https://www.spiegel.de/ausland/niederlande-angreifer-wirft-brennendes-objekt-auf-israelische-botschaft-in-den-haag-a-24a091e5-4f1e-4358-9450-a99e5f6f192c#ref=rss)
+### botschaft
+
+* [https://www.spiegel.de/ausland/niederlande-angreifer-wirft-brennendes-objekt-auf-israelische-botschaft-in-den-haag](https://www.spiegel.de/ausland/niederlande-angreifer-wirft-brennendes-objekt-auf-israelische-botschaft-in-den-haag-a-24a091e5-4f1e-4358-9450-a99e5f6f192c#ref=rss)
+### haag
+
+* [https://www.spiegel.de/ausland/niederlande-angreifer-wirft-brennendes-objekt-auf-israelische-botschaft-in-den-haag](https://www.spiegel.de/ausland/niederlande-angreifer-wirft-brennendes-objekt-auf-israelische-botschaft-in-den-haag-a-24a091e5-4f1e-4358-9450-a99e5f6f192c#ref=rss)
+### atomkraft
+
+* [https://www.spiegel.de/wissenschaft/technik/atomkraft-staaten-kuendigen-beschleunigten-ausbau-an](https://www.spiegel.de/wissenschaft/technik/atomkraft-staaten-kuendigen-beschleunigten-ausbau-an-a-e0cae78d-1b57-4511-925f-97ef65ce24a3#ref=rss)
+### staaten
+
+* [https://www.spiegel.de/wissenschaft/technik/atomkraft-staaten-kuendigen-beschleunigten-ausbau-an](https://www.spiegel.de/wissenschaft/technik/atomkraft-staaten-kuendigen-beschleunigten-ausbau-an-a-e0cae78d-1b57-4511-925f-97ef65ce24a3#ref=rss)
+### ausbau
+
+* [https://www.spiegel.de/wissenschaft/technik/atomkraft-staaten-kuendigen-beschleunigten-ausbau-an](https://www.spiegel.de/wissenschaft/technik/atomkraft-staaten-kuendigen-beschleunigten-ausbau-an-a-e0cae78d-1b57-4511-925f-97ef65ce24a3#ref=rss)
+### whu
+
+* [https://www.spiegel.de/start/startklar-newsletter-berichte-ueber-riskante-saufrituale-an-der-whu-otto-beisheim-school-of-management](https://www.spiegel.de/start/startklar-newsletter-berichte-ueber-riskante-saufrituale-an-der-whu-otto-beisheim-school-of-management-a-4282f562-d767-458a-8f3c-8836d010352e#ref=rss)
+### afrika
+
+* [https://www.spiegel.de/wissenschaft/mensch/menschheitsgeschichte-warum-menschen-vor-60-000-jahren-afrika-verliess](https://www.spiegel.de/wissenschaft/mensch/menschheitsgeschichte-warum-menschen-vor-60-000-jahren-afrika-verliess-a-820ac594-5271-476d-8d1e-41769e1908ad#ref=rss)
 
