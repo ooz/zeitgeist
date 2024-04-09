@@ -4,352 +4,351 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### israel
-
-* [https://www.spiegel.de/ausland/israel-das-steckt-hinter-dem-teilabzug-aus-dem-gazastreifen](https://www.spiegel.de/ausland/israel-das-steckt-hinter-dem-teilabzug-aus-dem-gazastreifen-a-d174a49b-8121-4101-b4ef-ebc6405d7c68#ref=rss)
-* [https://www.spiegel.de/ausland/palaestinenser-werden-in-israel-diskriminiert-dabei-koennten-sie-ein-schluessel-zur-loesung-sein](https://www.spiegel.de/ausland/palaestinenser-werden-in-israel-diskriminiert-dabei-koennten-sie-ein-schluessel-zur-loesung-sein-a-bd3528cb-7035-4e5f-9efa-0324a489cb88#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/kultur/musik/morgan-wallen-soll-stuhl-vom-dach-von-eric-churchs-bar-in-nashville-geworfen-haben-festnahme](https://www.spiegel.de/kultur/musik/morgan-wallen-soll-stuhl-vom-dach-von-eric-churchs-bar-in-nashville-geworfen-haben-festnahme-a-d9652901-33a0-4f73-aeb8-1ca50e2f0285#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/deepfakes-diese-kamera-macht-jedes-portraet-zum-nacktfoto](https://www.spiegel.de/netzwelt/gadgets/deepfakes-diese-kamera-macht-jedes-portraet-zum-nacktfoto-a-90f6b9b5-9b3a-49ce-bb11-f1e87b06669e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/tore-wie-gemalt-von-javier-caceres-beckenbauer-pele-und-goetze-malen-ihre-wichtigsten-tore](https://www.spiegel.de/sport/fussball/tore-wie-gemalt-von-javier-caceres-beckenbauer-pele-und-goetze-malen-ihre-wichtigsten-tore-a-fe670221-350a-4244-968b-28cce4ccd3ee#ref=rss)
-* [https://www.spiegel.de/auto/duesseldorf-flughafen-duisburg-oberhausen-betroffen-wichtige-bahnstrecke-im-ruhrgebiet-wieder-frei](https://www.spiegel.de/auto/duesseldorf-flughafen-duisburg-oberhausen-betroffen-wichtige-bahnstrecke-im-ruhrgebiet-wieder-frei-a-6b851155-1dd9-43de-b6ba-117c62536b2a#ref=rss)
-### sonnenfinsternis
-
-* [https://www.spiegel.de/panorama/sonnenfinsternis-livestream-so-sieht-die-totale-sonnenfinsternis-aus](https://www.spiegel.de/panorama/sonnenfinsternis-livestream-so-sieht-die-totale-sonnenfinsternis-aus-a-ef42213e-b8db-4882-a67e-a00483dcbb5b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-petr-bystron-afd-sonnenfinsternis](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-petr-bystron-afd-sonnenfinsternis-a-407de4bc-3e7a-493a-a579-ea357de08e76#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/panorama/justiz/berlin-urteil-wegen-suizidhilfe-arzt-christoph-turowski-soll-drei-jahre-ins-gefaengnis](https://www.spiegel.de/panorama/justiz/berlin-urteil-wegen-suizidhilfe-arzt-christoph-turowski-soll-drei-jahre-ins-gefaengnis-a-157a7010-ebe5-4e36-b430-4a033667fa24#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gerald-grosz-oesterreichischer-ex-politiker-muss-geldstrafe-fuer-soeder-beleidigungen-zahlen](https://www.spiegel.de/politik/deutschland/gerald-grosz-oesterreichischer-ex-politiker-muss-geldstrafe-fuer-soeder-beleidigungen-zahlen-a-7d363e3f-303e-4c51-912a-26d077fb1905#ref=rss)
-* [https://www.spiegel.de/wirtschaft/schliessfaecher-geknackt-ex-banker-vor-gericht-1-5-millionen-euro-beute](https://www.spiegel.de/wirtschaft/schliessfaecher-geknackt-ex-banker-vor-gericht-1-5-millionen-euro-beute-a-91ff3ac5-6043-485c-9dc6-95e5dfdc9813#ref=rss)
-### ecuador
-
-* [https://www.spiegel.de/ausland/ecuador-mexiko-klagt-in-den-haag-nach-sturm-auf-botschaft](https://www.spiegel.de/ausland/ecuador-mexiko-klagt-in-den-haag-nach-sturm-auf-botschaft-a-7b325ec1-d749-44d9-8803-d521de81ac1e#ref=rss)
-* [https://www.spiegel.de/ausland/ecuador-der-sturm-auf-die-mexikanische-botschaft](https://www.spiegel.de/ausland/ecuador-der-sturm-auf-die-mexikanische-botschaft-a-ded3a2df-1182-4767-8c0b-28ae39f477d7#ref=rss)
-### botschaft
-
-* [https://www.spiegel.de/ausland/ecuador-mexiko-klagt-in-den-haag-nach-sturm-auf-botschaft](https://www.spiegel.de/ausland/ecuador-mexiko-klagt-in-den-haag-nach-sturm-auf-botschaft-a-7b325ec1-d749-44d9-8803-d521de81ac1e#ref=rss)
-* [https://www.spiegel.de/ausland/ecuador-der-sturm-auf-die-mexikanische-botschaft](https://www.spiegel.de/ausland/ecuador-der-sturm-auf-die-mexikanische-botschaft-a-ded3a2df-1182-4767-8c0b-28ae39f477d7#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/netzwelt/gadgets/deepfakes-diese-kamera-macht-jedes-portraet-zum-nacktfoto](https://www.spiegel.de/netzwelt/gadgets/deepfakes-diese-kamera-macht-jedes-portraet-zum-nacktfoto-a-90f6b9b5-9b3a-49ce-bb11-f1e87b06669e#ref=rss)
-* [https://www.spiegel.de/kultur/ex-uffizien-direktor-eike-schmidt-wer-ist-der-deutsche-der-buergermeister-von-florenz-werden-will](https://www.spiegel.de/kultur/ex-uffizien-direktor-eike-schmidt-wer-ist-der-deutsche-der-buergermeister-von-florenz-werden-will-a-70b17ec0-28dc-49e0-96cc-ceab92a31b93#ref=rss)
-* [https://www.spiegel.de/auto/duesseldorf-flughafen-duisburg-oberhausen-betroffen-wichtige-bahnstrecke-im-ruhrgebiet-wieder-frei](https://www.spiegel.de/auto/duesseldorf-flughafen-duisburg-oberhausen-betroffen-wichtige-bahnstrecke-im-ruhrgebiet-wieder-frei-a-6b851155-1dd9-43de-b6ba-117c62536b2a#ref=rss)
-### akw
-
-* [https://www.spiegel.de/wissenschaft/technik/drohnenangriffe-auf-das-akw-saporischschja-wie-gross-ist-das-risiko-fuer-einen-super-gau-herr-walther](https://www.spiegel.de/wissenschaft/technik/drohnenangriffe-auf-das-akw-saporischschja-wie-gross-ist-das-risiko-fuer-einen-super-gau-herr-walther-a-0b587f3e-6953-49d5-b3a5-a9e4d6a42062#ref=rss)
-### saporischschja
-
-* [https://www.spiegel.de/wissenschaft/technik/drohnenangriffe-auf-das-akw-saporischschja-wie-gross-ist-das-risiko-fuer-einen-super-gau-herr-walther](https://www.spiegel.de/wissenschaft/technik/drohnenangriffe-auf-das-akw-saporischschja-wie-gross-ist-das-risiko-fuer-einen-super-gau-herr-walther-a-0b587f3e-6953-49d5-b3a5-a9e4d6a42062#ref=rss)
-### walther
-
-* [https://www.spiegel.de/wissenschaft/technik/drohnenangriffe-auf-das-akw-saporischschja-wie-gross-ist-das-risiko-fuer-einen-super-gau-herr-walther](https://www.spiegel.de/wissenschaft/technik/drohnenangriffe-auf-das-akw-saporischschja-wie-gross-ist-das-risiko-fuer-einen-super-gau-herr-walther-a-0b587f3e-6953-49d5-b3a5-a9e4d6a42062#ref=rss)
-### russischen
-
-* [https://www.spiegel.de/wissenschaft/technik/drohnenangriffe-auf-das-akw-saporischschja-wie-gross-ist-das-risiko-fuer-einen-super-gau-herr-walther](https://www.spiegel.de/wissenschaft/technik/drohnenangriffe-auf-das-akw-saporischschja-wie-gross-ist-das-risiko-fuer-einen-super-gau-herr-walther-a-0b587f3e-6953-49d5-b3a5-a9e4d6a42062#ref=rss)
-* [https://www.spiegel.de/panorama/russland-mehr-als-10-000-haeuser-stehen-unter-wasser](https://www.spiegel.de/panorama/russland-mehr-als-10-000-haeuser-stehen-unter-wasser-a-50486f11-2740-432c-afb7-c6cee00f2c99#ref=rss)
-### truppen
-
-* [https://www.spiegel.de/wissenschaft/technik/drohnenangriffe-auf-das-akw-saporischschja-wie-gross-ist-das-risiko-fuer-einen-super-gau-herr-walther](https://www.spiegel.de/wissenschaft/technik/drohnenangriffe-auf-das-akw-saporischschja-wie-gross-ist-das-risiko-fuer-einen-super-gau-herr-walther-a-0b587f3e-6953-49d5-b3a5-a9e4d6a42062#ref=rss)
-* [https://www.spiegel.de/ausland/israel-das-steckt-hinter-dem-teilabzug-aus-dem-gazastreifen](https://www.spiegel.de/ausland/israel-das-steckt-hinter-dem-teilabzug-aus-dem-gazastreifen-a-d174a49b-8121-4101-b4ef-ebc6405d7c68#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/wissenschaft/technik/drohnenangriffe-auf-das-akw-saporischschja-wie-gross-ist-das-risiko-fuer-einen-super-gau-herr-walther](https://www.spiegel.de/wissenschaft/technik/drohnenangriffe-auf-das-akw-saporischschja-wie-gross-ist-das-risiko-fuer-einen-super-gau-herr-walther-a-0b587f3e-6953-49d5-b3a5-a9e4d6a42062#ref=rss)
-* [https://www.spiegel.de/ausland/italien-influencerin-kritisiert-konventionelle-mutterrolle-und-mangelhafte-familienpolitik](https://www.spiegel.de/ausland/italien-influencerin-kritisiert-konventionelle-mutterrolle-und-mangelhafte-familienpolitik-a-36463f12-d82b-4d2b-b88b-1dc464bfcaeb#ref=rss)
-### gazastreifen
-
-* [https://www.spiegel.de/ausland/israel-das-steckt-hinter-dem-teilabzug-aus-dem-gazastreifen](https://www.spiegel.de/ausland/israel-das-steckt-hinter-dem-teilabzug-aus-dem-gazastreifen-a-d174a49b-8121-4101-b4ef-ebc6405d7c68#ref=rss)
-### einige
-
-* [https://www.spiegel.de/ausland/israel-das-steckt-hinter-dem-teilabzug-aus-dem-gazastreifen](https://www.spiegel.de/ausland/israel-das-steckt-hinter-dem-teilabzug-aus-dem-gazastreifen-a-d174a49b-8121-4101-b4ef-ebc6405d7c68#ref=rss)
-* [https://www.spiegel.de/panorama/russland-mehr-als-10-000-haeuser-stehen-unter-wasser](https://www.spiegel.de/panorama/russland-mehr-als-10-000-haeuser-stehen-unter-wasser-a-50486f11-2740-432c-afb7-c6cee00f2c99#ref=rss)
-### hundert
-
-* [https://www.spiegel.de/ausland/israel-das-steckt-hinter-dem-teilabzug-aus-dem-gazastreifen](https://www.spiegel.de/ausland/israel-das-steckt-hinter-dem-teilabzug-aus-dem-gazastreifen-a-d174a49b-8121-4101-b4ef-ebc6405d7c68#ref=rss)
-* [https://www.spiegel.de/panorama/landkreis-ravensburg-neunjaehriger-stirbt-bei-unfall-mit-pferd](https://www.spiegel.de/panorama/landkreis-ravensburg-neunjaehriger-stirbt-bei-unfall-mit-pferd-a-78cc0478-37d8-4fa4-97f0-7f68919381ee#ref=rss)
-### druck
-
-* [https://www.spiegel.de/ausland/israel-das-steckt-hinter-dem-teilabzug-aus-dem-gazastreifen](https://www.spiegel.de/ausland/israel-das-steckt-hinter-dem-teilabzug-aus-dem-gazastreifen-a-d174a49b-8121-4101-b4ef-ebc6405d7c68#ref=rss)
-* [https://www.spiegel.de/ausland/israel-hamas-krieg-datum-fuer-rafah-offensive-festgelegt-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-hamas-krieg-datum-fuer-rafah-offensive-festgelegt-benjamin-netanyahu-a-a954125b-4443-4d68-9d4e-bbcafba04478#ref=rss)
-### ende
-
-* [https://www.spiegel.de/ausland/israel-das-steckt-hinter-dem-teilabzug-aus-dem-gazastreifen](https://www.spiegel.de/ausland/israel-das-steckt-hinter-dem-teilabzug-aus-dem-gazastreifen-a-d174a49b-8121-4101-b4ef-ebc6405d7c68#ref=rss)
-* [https://www.spiegel.de/kultur/musik/gema-meldet-rekordjahr-zuwachs-bei-konzerten-und-im-veranstaltungsgeschaeft](https://www.spiegel.de/kultur/musik/gema-meldet-rekordjahr-zuwachs-bei-konzerten-und-im-veranstaltungsgeschaeft-a-14153172-5f0b-434f-b468-dd987290f8d3#ref=rss)
-### premier
-
-* [https://www.spiegel.de/ausland/israel-das-steckt-hinter-dem-teilabzug-aus-dem-gazastreifen](https://www.spiegel.de/ausland/israel-das-steckt-hinter-dem-teilabzug-aus-dem-gazastreifen-a-d174a49b-8121-4101-b4ef-ebc6405d7c68#ref=rss)
-* [https://www.spiegel.de/ausland/israel-hamas-krieg-datum-fuer-rafah-offensive-festgelegt-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-hamas-krieg-datum-fuer-rafah-offensive-festgelegt-benjamin-netanyahu-a-a954125b-4443-4d68-9d4e-bbcafba04478#ref=rss)
-### netanyahu
-
-* [https://www.spiegel.de/ausland/israel-das-steckt-hinter-dem-teilabzug-aus-dem-gazastreifen](https://www.spiegel.de/ausland/israel-das-steckt-hinter-dem-teilabzug-aus-dem-gazastreifen-a-d174a49b-8121-4101-b4ef-ebc6405d7c68#ref=rss)
-* [https://www.spiegel.de/ausland/israel-hamas-krieg-datum-fuer-rafah-offensive-festgelegt-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-hamas-krieg-datum-fuer-rafah-offensive-festgelegt-benjamin-netanyahu-a-a954125b-4443-4d68-9d4e-bbcafba04478#ref=rss)
-### morgan
-
-* [https://www.spiegel.de/kultur/musik/morgan-wallen-soll-stuhl-vom-dach-von-eric-churchs-bar-in-nashville-geworfen-haben-festnahme](https://www.spiegel.de/kultur/musik/morgan-wallen-soll-stuhl-vom-dach-von-eric-churchs-bar-in-nashville-geworfen-haben-festnahme-a-d9652901-33a0-4f73-aeb8-1ca50e2f0285#ref=rss)
-### wallen
-
-* [https://www.spiegel.de/kultur/musik/morgan-wallen-soll-stuhl-vom-dach-von-eric-churchs-bar-in-nashville-geworfen-haben-festnahme](https://www.spiegel.de/kultur/musik/morgan-wallen-soll-stuhl-vom-dach-von-eric-churchs-bar-in-nashville-geworfen-haben-festnahme-a-d9652901-33a0-4f73-aeb8-1ca50e2f0285#ref=rss)
-### stuhl
-
-* [https://www.spiegel.de/kultur/musik/morgan-wallen-soll-stuhl-vom-dach-von-eric-churchs-bar-in-nashville-geworfen-haben-festnahme](https://www.spiegel.de/kultur/musik/morgan-wallen-soll-stuhl-vom-dach-von-eric-churchs-bar-in-nashville-geworfen-haben-festnahme-a-d9652901-33a0-4f73-aeb8-1ca50e2f0285#ref=rss)
-### dach
-
-* [https://www.spiegel.de/kultur/musik/morgan-wallen-soll-stuhl-vom-dach-von-eric-churchs-bar-in-nashville-geworfen-haben-festnahme](https://www.spiegel.de/kultur/musik/morgan-wallen-soll-stuhl-vom-dach-von-eric-churchs-bar-in-nashville-geworfen-haben-festnahme-a-d9652901-33a0-4f73-aeb8-1ca50e2f0285#ref=rss)
-### eric
-
-* [https://www.spiegel.de/kultur/musik/morgan-wallen-soll-stuhl-vom-dach-von-eric-churchs-bar-in-nashville-geworfen-haben-festnahme](https://www.spiegel.de/kultur/musik/morgan-wallen-soll-stuhl-vom-dach-von-eric-churchs-bar-in-nashville-geworfen-haben-festnahme-a-d9652901-33a0-4f73-aeb8-1ca50e2f0285#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/kultur/musik/morgan-wallen-soll-stuhl-vom-dach-von-eric-churchs-bar-in-nashville-geworfen-haben-festnahme](https://www.spiegel.de/kultur/musik/morgan-wallen-soll-stuhl-vom-dach-von-eric-churchs-bar-in-nashville-geworfen-haben-festnahme-a-d9652901-33a0-4f73-aeb8-1ca50e2f0285#ref=rss)
-* [https://www.spiegel.de/ausland/israel-hamas-krieg-datum-fuer-rafah-offensive-festgelegt-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-hamas-krieg-datum-fuer-rafah-offensive-festgelegt-benjamin-netanyahu-a-a954125b-4443-4d68-9d4e-bbcafba04478#ref=rss)
-### totale
-
-* [https://www.spiegel.de/panorama/sonnenfinsternis-livestream-so-sieht-die-totale-sonnenfinsternis-aus](https://www.spiegel.de/panorama/sonnenfinsternis-livestream-so-sieht-die-totale-sonnenfinsternis-aus-a-ef42213e-b8db-4882-a67e-a00483dcbb5b#ref=rss)
-### mexiko
-
-* [https://www.spiegel.de/panorama/sonnenfinsternis-livestream-so-sieht-die-totale-sonnenfinsternis-aus](https://www.spiegel.de/panorama/sonnenfinsternis-livestream-so-sieht-die-totale-sonnenfinsternis-aus-a-ef42213e-b8db-4882-a67e-a00483dcbb5b#ref=rss)
-* [https://www.spiegel.de/ausland/ecuador-mexiko-klagt-in-den-haag-nach-sturm-auf-botschaft](https://www.spiegel.de/ausland/ecuador-mexiko-klagt-in-den-haag-nach-sturm-auf-botschaft-a-7b325ec1-d749-44d9-8803-d521de81ac1e#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/panorama/sonnenfinsternis-livestream-so-sieht-die-totale-sonnenfinsternis-aus](https://www.spiegel.de/panorama/sonnenfinsternis-livestream-so-sieht-die-totale-sonnenfinsternis-aus-a-ef42213e-b8db-4882-a67e-a00483dcbb5b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/paragraph-218-kommission-empfiehlt-legalisierung-von-schwangerschaftsabbruechen](https://www.spiegel.de/politik/deutschland/paragraph-218-kommission-empfiehlt-legalisierung-von-schwangerschaftsabbruechen-a-77bc8e36-b02c-4ae5-980b-a11c6fc82d42#ref=rss)
-### datum
+* [https://www.spiegel.de/panorama/justiz/kriminalstatistik-anstieg-der-straftaten-2023-bka-nennt-corona-inflation-und-zuwanderung-als-gruende](https://www.spiegel.de/panorama/justiz/kriminalstatistik-anstieg-der-straftaten-2023-bka-nennt-corona-inflation-und-zuwanderung-als-gruende-a-2d24a9e1-2891-40cc-871e-4b53ec3a14d9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/den-haag-deutschland-weist-klage-nicaraguas-als-haltlos-zurueck](https://www.spiegel.de/politik/deutschland/den-haag-deutschland-weist-klage-nicaraguas-als-haltlos-zurueck-a-4cd635e5-30a1-4751-988b-45920292e34d#ref=rss)
+* [https://www.spiegel.de/politik/kriminalstatistik-innenministerin-nancy-faeser-praesentiert-mit-bka-die-zahl-registrierter-straftaten-in-deutschland](https://www.spiegel.de/politik/kriminalstatistik-innenministerin-nancy-faeser-praesentiert-mit-bka-die-zahl-registrierter-straftaten-in-deutschland-a-94cad711-f797-4cb5-bf23-5de60cf3b8ec#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/symptom-der-wirtschaftskrise-lkw-verkehr-auf-deutschen-autobahnen-schrumpft](https://www.spiegel.de/wirtschaft/unternehmen/symptom-der-wirtschaftskrise-lkw-verkehr-auf-deutschen-autobahnen-schrumpft-a-b1c0ce54-dfa2-4e6d-94a2-2e13ae05a716#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/rohstoff-importe-deutsche-abhaengigkeit-von-asien-waechst](https://www.spiegel.de/wirtschaft/unternehmen/rohstoff-importe-deutsche-abhaengigkeit-von-asien-waechst-a-661e1d9d-2523-45db-856d-8f16b3e613e0#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/ausland/israel-hamas-krieg-datum-fuer-rafah-offensive-festgelegt-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-hamas-krieg-datum-fuer-rafah-offensive-festgelegt-benjamin-netanyahu-a-a954125b-4443-4d68-9d4e-bbcafba04478#ref=rss)
-### rafahoffensive
+* [https://www.spiegel.de/kultur/eike-schmidt-ex-uffizien-direktor-will-buergermeister-von-florenz-werden](https://www.spiegel.de/kultur/eike-schmidt-ex-uffizien-direktor-will-buergermeister-von-florenz-werden-a-34a3c9eb-7ffa-4f21-95e4-944c056d778b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/den-haag-deutschland-weist-klage-nicaraguas-als-haltlos-zurueck](https://www.spiegel.de/politik/deutschland/den-haag-deutschland-weist-klage-nicaraguas-als-haltlos-zurueck-a-4cd635e5-30a1-4751-988b-45920292e34d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/rohstoff-importe-deutsche-abhaengigkeit-von-asien-waechst](https://www.spiegel.de/wirtschaft/unternehmen/rohstoff-importe-deutsche-abhaengigkeit-von-asien-waechst-a-661e1d9d-2523-45db-856d-8f16b3e613e0#ref=rss)
+* [https://www.spiegel.de/stil/rolex-der-deutsche-uhreninsider-und-seine-geheimnisse](https://www.spiegel.de/stil/rolex-der-deutsche-uhreninsider-und-seine-geheimnisse-a-e7a2dcec-7dc0-405a-a6ca-2d59fc12962a#ref=rss)
+### straftaten
 
-* [https://www.spiegel.de/ausland/israel-hamas-krieg-datum-fuer-rafah-offensive-festgelegt-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-hamas-krieg-datum-fuer-rafah-offensive-festgelegt-benjamin-netanyahu-a-a954125b-4443-4d68-9d4e-bbcafba04478#ref=rss)
-### israels
+* [https://www.spiegel.de/panorama/justiz/kriminalstatistik-anstieg-der-straftaten-2023-bka-nennt-corona-inflation-und-zuwanderung-als-gruende](https://www.spiegel.de/panorama/justiz/kriminalstatistik-anstieg-der-straftaten-2023-bka-nennt-corona-inflation-und-zuwanderung-als-gruende-a-2d24a9e1-2891-40cc-871e-4b53ec3a14d9#ref=rss)
+* [https://www.spiegel.de/politik/kriminalstatistik-innenministerin-nancy-faeser-praesentiert-mit-bka-die-zahl-registrierter-straftaten-in-deutschland](https://www.spiegel.de/politik/kriminalstatistik-innenministerin-nancy-faeser-praesentiert-mit-bka-die-zahl-registrierter-straftaten-in-deutschland-a-94cad711-f797-4cb5-bf23-5de60cf3b8ec#ref=rss)
+### zurück
 
-* [https://www.spiegel.de/ausland/israel-hamas-krieg-datum-fuer-rafah-offensive-festgelegt-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-hamas-krieg-datum-fuer-rafah-offensive-festgelegt-benjamin-netanyahu-a-a954125b-4443-4d68-9d4e-bbcafba04478#ref=rss)
-* [https://www.spiegel.de/ausland/palaestinenser-werden-in-israel-diskriminiert-dabei-koennten-sie-ein-schluessel-zur-loesung-sein](https://www.spiegel.de/ausland/palaestinenser-werden-in-israel-diskriminiert-dabei-koennten-sie-ein-schluessel-zur-loesung-sein-a-bd3528cb-7035-4e5f-9efa-0324a489cb88#ref=rss)
-### stadt
+* [https://www.spiegel.de/politik/deutschland/den-haag-deutschland-weist-klage-nicaraguas-als-haltlos-zurueck](https://www.spiegel.de/politik/deutschland/den-haag-deutschland-weist-klage-nicaraguas-als-haltlos-zurueck-a-4cd635e5-30a1-4751-988b-45920292e34d#ref=rss)
+* [https://www.spiegel.de/kultur/eurovision-song-contest-boehmermann-und-schulz-kommentieren-wieder-fuer-oesterreich](https://www.spiegel.de/kultur/eurovision-song-contest-boehmermann-und-schulz-kommentieren-wieder-fuer-oesterreich-a-7d365ddd-be73-4c97-a3d6-733fe4d5360a#ref=rss)
+* [https://www.spiegel.de/ausland/polen-nach-den-kommunalwahlen-ist-das-land-endgueltig-zurueck-in-europa](https://www.spiegel.de/ausland/polen-nach-den-kommunalwahlen-ist-das-land-endgueltig-zurueck-in-europa-a-7bcf8383-19dc-4b89-a752-53455a8824bd#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/ausland/israel-hamas-krieg-datum-fuer-rafah-offensive-festgelegt-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-hamas-krieg-datum-fuer-rafah-offensive-festgelegt-benjamin-netanyahu-a-a954125b-4443-4d68-9d4e-bbcafba04478#ref=rss)
-* [https://www.spiegel.de/kultur/ex-uffizien-direktor-eike-schmidt-wer-ist-der-deutsche-der-buergermeister-von-florenz-werden-will](https://www.spiegel.de/kultur/ex-uffizien-direktor-eike-schmidt-wer-ist-der-deutsche-der-buergermeister-von-florenz-werden-will-a-70b17ec0-28dc-49e0-96cc-ceab92a31b93#ref=rss)
-### dies
+* [https://www.spiegel.de/panorama/luebeck-naechtliches-dauergelaeut-einer-kirche-ruft-polizei-auf-den-plan](https://www.spiegel.de/panorama/luebeck-naechtliches-dauergelaeut-einer-kirche-ruft-polizei-auf-den-plan-a-832d0966-2c16-4d45-bc38-51c7f1207171#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/kriminalstatistik-anstieg-der-straftaten-2023-bka-nennt-corona-inflation-und-zuwanderung-als-gruende](https://www.spiegel.de/panorama/justiz/kriminalstatistik-anstieg-der-straftaten-2023-bka-nennt-corona-inflation-und-zuwanderung-als-gruende-a-2d24a9e1-2891-40cc-871e-4b53ec3a14d9#ref=rss)
+### bka
 
-* [https://www.spiegel.de/ausland/israel-hamas-krieg-datum-fuer-rafah-offensive-festgelegt-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-hamas-krieg-datum-fuer-rafah-offensive-festgelegt-benjamin-netanyahu-a-a954125b-4443-4d68-9d4e-bbcafba04478#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gerald-grosz-oesterreichischer-ex-politiker-muss-geldstrafe-fuer-soeder-beleidigungen-zahlen](https://www.spiegel.de/politik/deutschland/gerald-grosz-oesterreichischer-ex-politiker-muss-geldstrafe-fuer-soeder-beleidigungen-zahlen-a-7d363e3f-303e-4c51-912a-26d077fb1905#ref=rss)
-### kurz
-
-* [https://www.spiegel.de/ausland/israel-hamas-krieg-datum-fuer-rafah-offensive-festgelegt-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-hamas-krieg-datum-fuer-rafah-offensive-festgelegt-benjamin-netanyahu-a-a954125b-4443-4d68-9d4e-bbcafba04478#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/litauen-boris-pistorius-verabschiedet-vorkommando-von-neuer-kampfbrigade](https://www.spiegel.de/politik/deutschland/litauen-boris-pistorius-verabschiedet-vorkommando-von-neuer-kampfbrigade-a-aa3bea06-2333-4b17-b4a3-ef617fbf147d#ref=rss)
-### fdp
-
-* [https://www.spiegel.de/wirtschaft/fdp-will-steuervorteile-fuer-ueberstunden-und-auslaendische-fachkraefte](https://www.spiegel.de/wirtschaft/fdp-will-steuervorteile-fuer-ueberstunden-und-auslaendische-fachkraefte-a-f1b7e199-a6bc-49ee-8852-d7fe99d07399#ref=rss)
-### pferd
-
-* [https://www.spiegel.de/panorama/landkreis-ravensburg-neunjaehriger-stirbt-bei-unfall-mit-pferd](https://www.spiegel.de/panorama/landkreis-ravensburg-neunjaehriger-stirbt-bei-unfall-mit-pferd-a-78cc0478-37d8-4fa4-97f0-7f68919381ee#ref=rss)
-### führte
-
-* [https://www.spiegel.de/panorama/landkreis-ravensburg-neunjaehriger-stirbt-bei-unfall-mit-pferd](https://www.spiegel.de/panorama/landkreis-ravensburg-neunjaehriger-stirbt-bei-unfall-mit-pferd-a-78cc0478-37d8-4fa4-97f0-7f68919381ee#ref=rss)
-* [https://www.spiegel.de/panorama/ein-bild-und-seine-geschichte-barfuss-auf-hoher-see](https://www.spiegel.de/panorama/ein-bild-und-seine-geschichte-barfuss-auf-hoher-see-a-61caf749-4086-4bf0-a530-35513b4fb413#ref=rss)
-### gema
-
-* [https://www.spiegel.de/kultur/musik/gema-meldet-rekordjahr-zuwachs-bei-konzerten-und-im-veranstaltungsgeschaeft](https://www.spiegel.de/kultur/musik/gema-meldet-rekordjahr-zuwachs-bei-konzerten-und-im-veranstaltungsgeschaeft-a-14153172-5f0b-434f-b468-dd987290f8d3#ref=rss)
-### veranstaltungsgeschäft
-
-* [https://www.spiegel.de/kultur/musik/gema-meldet-rekordjahr-zuwachs-bei-konzerten-und-im-veranstaltungsgeschaeft](https://www.spiegel.de/kultur/musik/gema-meldet-rekordjahr-zuwachs-bei-konzerten-und-im-veranstaltungsgeschaeft-a-14153172-5f0b-434f-b468-dd987290f8d3#ref=rss)
-### euro
-
-* [https://www.spiegel.de/kultur/musik/gema-meldet-rekordjahr-zuwachs-bei-konzerten-und-im-veranstaltungsgeschaeft](https://www.spiegel.de/kultur/musik/gema-meldet-rekordjahr-zuwachs-bei-konzerten-und-im-veranstaltungsgeschaeft-a-14153172-5f0b-434f-b468-dd987290f8d3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/schliessfaecher-geknackt-ex-banker-vor-gericht-1-5-millionen-euro-beute](https://www.spiegel.de/wirtschaft/schliessfaecher-geknackt-ex-banker-vor-gericht-1-5-millionen-euro-beute-a-91ff3ac5-6043-485c-9dc6-95e5dfdc9813#ref=rss)
-### ki
-
-* [https://www.spiegel.de/kultur/musik/gema-meldet-rekordjahr-zuwachs-bei-konzerten-und-im-veranstaltungsgeschaeft](https://www.spiegel.de/kultur/musik/gema-meldet-rekordjahr-zuwachs-bei-konzerten-und-im-veranstaltungsgeschaeft-a-14153172-5f0b-434f-b468-dd987290f8d3#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/deepfakes-diese-kamera-macht-jedes-portraet-zum-nacktfoto](https://www.spiegel.de/netzwelt/gadgets/deepfakes-diese-kamera-macht-jedes-portraet-zum-nacktfoto-a-90f6b9b5-9b3a-49ce-bb11-f1e87b06669e#ref=rss)
-### petr
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-petr-bystron-afd-sonnenfinsternis](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-petr-bystron-afd-sonnenfinsternis-a-407de4bc-3e7a-493a-a579-ea357de08e76#ref=rss)
-### bystron
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-petr-bystron-afd-sonnenfinsternis](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-petr-bystron-afd-sonnenfinsternis-a-407de4bc-3e7a-493a-a579-ea357de08e76#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-petr-bystron-afd-sonnenfinsternis](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-petr-bystron-afd-sonnenfinsternis-a-407de4bc-3e7a-493a-a579-ea357de08e76#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gerald-grosz-oesterreichischer-ex-politiker-muss-geldstrafe-fuer-soeder-beleidigungen-zahlen](https://www.spiegel.de/politik/deutschland/gerald-grosz-oesterreichischer-ex-politiker-muss-geldstrafe-fuer-soeder-beleidigungen-zahlen-a-7d363e3f-303e-4c51-912a-26d077fb1905#ref=rss)
-### neue
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-petr-bystron-afd-sonnenfinsternis](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-petr-bystron-afd-sonnenfinsternis-a-407de4bc-3e7a-493a-a579-ea357de08e76#ref=rss)
-* [https://www.spiegel.de/sport/basketball/neue-studie-warum-schulterklopfen-die-trefferquote-beim-basketball-verbessern-kann](https://www.spiegel.de/sport/basketball/neue-studie-warum-schulterklopfen-die-trefferquote-beim-basketball-verbessern-kann-a-dcc9fb29-dfe1-4b9b-80d7-de675d6e8d55#ref=rss)
-### lage
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-petr-bystron-afd-sonnenfinsternis](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-petr-bystron-afd-sonnenfinsternis-a-407de4bc-3e7a-493a-a579-ea357de08e76#ref=rss)
-* [https://www.spiegel.de/panorama/russland-mehr-als-10-000-haeuser-stehen-unter-wasser](https://www.spiegel.de/panorama/russland-mehr-als-10-000-haeuser-stehen-unter-wasser-a-50486f11-2740-432c-afb7-c6cee00f2c99#ref=rss)
-### thomas
-
-* [https://www.spiegel.de/wissenschaft/mensch/wissenschaft-nobelpreistraeger-thomas-suedhof-raeumt-fehler-in-weiteren-arbeiten-ein](https://www.spiegel.de/wissenschaft/mensch/wissenschaft-nobelpreistraeger-thomas-suedhof-raeumt-fehler-in-weiteren-arbeiten-ein-a-087473cc-8f3d-403b-aebb-9c62b548fb83#ref=rss)
-### südhof
-
-* [https://www.spiegel.de/wissenschaft/mensch/wissenschaft-nobelpreistraeger-thomas-suedhof-raeumt-fehler-in-weiteren-arbeiten-ein](https://www.spiegel.de/wissenschaft/mensch/wissenschaft-nobelpreistraeger-thomas-suedhof-raeumt-fehler-in-weiteren-arbeiten-ein-a-087473cc-8f3d-403b-aebb-9c62b548fb83#ref=rss)
-### studie
-
-* [https://www.spiegel.de/wissenschaft/mensch/wissenschaft-nobelpreistraeger-thomas-suedhof-raeumt-fehler-in-weiteren-arbeiten-ein](https://www.spiegel.de/wissenschaft/mensch/wissenschaft-nobelpreistraeger-thomas-suedhof-raeumt-fehler-in-weiteren-arbeiten-ein-a-087473cc-8f3d-403b-aebb-9c62b548fb83#ref=rss)
-* [https://www.spiegel.de/sport/basketball/neue-studie-warum-schulterklopfen-die-trefferquote-beim-basketball-verbessern-kann](https://www.spiegel.de/sport/basketball/neue-studie-warum-schulterklopfen-die-trefferquote-beim-basketball-verbessern-kann-a-dcc9fb29-dfe1-4b9b-80d7-de675d6e8d55#ref=rss)
-### drei
-
-* [https://www.spiegel.de/wissenschaft/mensch/wissenschaft-nobelpreistraeger-thomas-suedhof-raeumt-fehler-in-weiteren-arbeiten-ein](https://www.spiegel.de/wissenschaft/mensch/wissenschaft-nobelpreistraeger-thomas-suedhof-raeumt-fehler-in-weiteren-arbeiten-ein-a-087473cc-8f3d-403b-aebb-9c62b548fb83#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-urteil-wegen-suizidhilfe-arzt-christoph-turowski-soll-drei-jahre-ins-gefaengnis](https://www.spiegel.de/panorama/justiz/berlin-urteil-wegen-suizidhilfe-arzt-christoph-turowski-soll-drei-jahre-ins-gefaengnis-a-157a7010-ebe5-4e36-b430-4a033667fa24#ref=rss)
-### kamera
-
-* [https://www.spiegel.de/netzwelt/gadgets/deepfakes-diese-kamera-macht-jedes-portraet-zum-nacktfoto](https://www.spiegel.de/netzwelt/gadgets/deepfakes-diese-kamera-macht-jedes-portraet-zum-nacktfoto-a-90f6b9b5-9b3a-49ce-bb11-f1e87b06669e#ref=rss)
-### macht
-
-* [https://www.spiegel.de/netzwelt/gadgets/deepfakes-diese-kamera-macht-jedes-portraet-zum-nacktfoto](https://www.spiegel.de/netzwelt/gadgets/deepfakes-diese-kamera-macht-jedes-portraet-zum-nacktfoto-a-90f6b9b5-9b3a-49ce-bb11-f1e87b06669e#ref=rss)
-### tore
-
-* [https://www.spiegel.de/sport/fussball/tore-wie-gemalt-von-javier-caceres-beckenbauer-pele-und-goetze-malen-ihre-wichtigsten-tore](https://www.spiegel.de/sport/fussball/tore-wie-gemalt-von-javier-caceres-beckenbauer-pele-und-goetze-malen-ihre-wichtigsten-tore-a-fe670221-350a-4244-968b-28cce4ccd3ee#ref=rss)
-### gemalt
-
-* [https://www.spiegel.de/sport/fussball/tore-wie-gemalt-von-javier-caceres-beckenbauer-pele-und-goetze-malen-ihre-wichtigsten-tore](https://www.spiegel.de/sport/fussball/tore-wie-gemalt-von-javier-caceres-beckenbauer-pele-und-goetze-malen-ihre-wichtigsten-tore-a-fe670221-350a-4244-968b-28cce4ccd3ee#ref=rss)
-### javier
-
-* [https://www.spiegel.de/sport/fussball/tore-wie-gemalt-von-javier-caceres-beckenbauer-pele-und-goetze-malen-ihre-wichtigsten-tore](https://www.spiegel.de/sport/fussball/tore-wie-gemalt-von-javier-caceres-beckenbauer-pele-und-goetze-malen-ihre-wichtigsten-tore-a-fe670221-350a-4244-968b-28cce4ccd3ee#ref=rss)
-### cáceres
-
-* [https://www.spiegel.de/sport/fussball/tore-wie-gemalt-von-javier-caceres-beckenbauer-pele-und-goetze-malen-ihre-wichtigsten-tore](https://www.spiegel.de/sport/fussball/tore-wie-gemalt-von-javier-caceres-beckenbauer-pele-und-goetze-malen-ihre-wichtigsten-tore-a-fe670221-350a-4244-968b-28cce4ccd3ee#ref=rss)
-### malen
-
-* [https://www.spiegel.de/sport/fussball/tore-wie-gemalt-von-javier-caceres-beckenbauer-pele-und-goetze-malen-ihre-wichtigsten-tore](https://www.spiegel.de/sport/fussball/tore-wie-gemalt-von-javier-caceres-beckenbauer-pele-und-goetze-malen-ihre-wichtigsten-tore-a-fe670221-350a-4244-968b-28cce4ccd3ee#ref=rss)
-### wichtigsten
-
-* [https://www.spiegel.de/sport/fussball/tore-wie-gemalt-von-javier-caceres-beckenbauer-pele-und-goetze-malen-ihre-wichtigsten-tore](https://www.spiegel.de/sport/fussball/tore-wie-gemalt-von-javier-caceres-beckenbauer-pele-und-goetze-malen-ihre-wichtigsten-tore-a-fe670221-350a-4244-968b-28cce4ccd3ee#ref=rss)
-### lang
-
-* [https://www.spiegel.de/sport/fussball/tore-wie-gemalt-von-javier-caceres-beckenbauer-pele-und-goetze-malen-ihre-wichtigsten-tore](https://www.spiegel.de/sport/fussball/tore-wie-gemalt-von-javier-caceres-beckenbauer-pele-und-goetze-malen-ihre-wichtigsten-tore-a-fe670221-350a-4244-968b-28cce4ccd3ee#ref=rss)
-* [https://www.spiegel.de/auto/duesseldorf-flughafen-duisburg-oberhausen-betroffen-wichtige-bahnstrecke-im-ruhrgebiet-wieder-frei](https://www.spiegel.de/auto/duesseldorf-flughafen-duisburg-oberhausen-betroffen-wichtige-bahnstrecke-im-ruhrgebiet-wieder-frei-a-6b851155-1dd9-43de-b6ba-117c62536b2a#ref=rss)
-### palästinenser
-
-* [https://www.spiegel.de/ausland/palaestinenser-werden-in-israel-diskriminiert-dabei-koennten-sie-ein-schluessel-zur-loesung-sein](https://www.spiegel.de/ausland/palaestinenser-werden-in-israel-diskriminiert-dabei-koennten-sie-ein-schluessel-zur-loesung-sein-a-bd3528cb-7035-4e5f-9efa-0324a489cb88#ref=rss)
-### diskriminiert
-
-* [https://www.spiegel.de/ausland/palaestinenser-werden-in-israel-diskriminiert-dabei-koennten-sie-ein-schluessel-zur-loesung-sein](https://www.spiegel.de/ausland/palaestinenser-werden-in-israel-diskriminiert-dabei-koennten-sie-ein-schluessel-zur-loesung-sein-a-bd3528cb-7035-4e5f-9efa-0324a489cb88#ref=rss)
-### schlüssel
-
-* [https://www.spiegel.de/ausland/palaestinenser-werden-in-israel-diskriminiert-dabei-koennten-sie-ein-schluessel-zur-loesung-sein](https://www.spiegel.de/ausland/palaestinenser-werden-in-israel-diskriminiert-dabei-koennten-sie-ein-schluessel-zur-loesung-sein-a-bd3528cb-7035-4e5f-9efa-0324a489cb88#ref=rss)
-### lösung
-
-* [https://www.spiegel.de/ausland/palaestinenser-werden-in-israel-diskriminiert-dabei-koennten-sie-ein-schluessel-zur-loesung-sein](https://www.spiegel.de/ausland/palaestinenser-werden-in-israel-diskriminiert-dabei-koennten-sie-ein-schluessel-zur-loesung-sein-a-bd3528cb-7035-4e5f-9efa-0324a489cb88#ref=rss)
-### eike
-
-* [https://www.spiegel.de/kultur/ex-uffizien-direktor-eike-schmidt-wer-ist-der-deutsche-der-buergermeister-von-florenz-werden-will](https://www.spiegel.de/kultur/ex-uffizien-direktor-eike-schmidt-wer-ist-der-deutsche-der-buergermeister-von-florenz-werden-will-a-70b17ec0-28dc-49e0-96cc-ceab92a31b93#ref=rss)
-### schmidt
-
-* [https://www.spiegel.de/kultur/ex-uffizien-direktor-eike-schmidt-wer-ist-der-deutsche-der-buergermeister-von-florenz-werden-will](https://www.spiegel.de/kultur/ex-uffizien-direktor-eike-schmidt-wer-ist-der-deutsche-der-buergermeister-von-florenz-werden-will-a-70b17ec0-28dc-49e0-96cc-ceab92a31b93#ref=rss)
-### florenz
-
-* [https://www.spiegel.de/kultur/ex-uffizien-direktor-eike-schmidt-wer-ist-der-deutsche-der-buergermeister-von-florenz-werden-will](https://www.spiegel.de/kultur/ex-uffizien-direktor-eike-schmidt-wer-ist-der-deutsche-der-buergermeister-von-florenz-werden-will-a-70b17ec0-28dc-49e0-96cc-ceab92a31b93#ref=rss)
-### kommission
-
-* [https://www.spiegel.de/politik/deutschland/paragraph-218-kommission-empfiehlt-legalisierung-von-schwangerschaftsabbruechen](https://www.spiegel.de/politik/deutschland/paragraph-218-kommission-empfiehlt-legalisierung-von-schwangerschaftsabbruechen-a-77bc8e36-b02c-4ae5-980b-a11c6fc82d42#ref=rss)
-### empfiehlt
-
-* [https://www.spiegel.de/politik/deutschland/paragraph-218-kommission-empfiehlt-legalisierung-von-schwangerschaftsabbruechen](https://www.spiegel.de/politik/deutschland/paragraph-218-kommission-empfiehlt-legalisierung-von-schwangerschaftsabbruechen-a-77bc8e36-b02c-4ae5-980b-a11c6fc82d42#ref=rss)
-### spiegelinformationen
-
-* [https://www.spiegel.de/politik/deutschland/paragraph-218-kommission-empfiehlt-legalisierung-von-schwangerschaftsabbruechen](https://www.spiegel.de/politik/deutschland/paragraph-218-kommission-empfiehlt-legalisierung-von-schwangerschaftsabbruechen-a-77bc8e36-b02c-4ae5-980b-a11c6fc82d42#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gitta-connemann-chefin-des-cdu-wirtschaftsfluegels-verzichtet-auf-kandidatur-fuer-parteispitze](https://www.spiegel.de/politik/deutschland/gitta-connemann-chefin-des-cdu-wirtschaftsfluegels-verzichtet-auf-kandidatur-fuer-parteispitze-a-e82fddb1-af2e-44e1-8441-a36c939e337a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/kriminalstatistik-anstieg-der-straftaten-2023-bka-nennt-corona-inflation-und-zuwanderung-als-gruende](https://www.spiegel.de/panorama/justiz/kriminalstatistik-anstieg-der-straftaten-2023-bka-nennt-corona-inflation-und-zuwanderung-als-gruende-a-2d24a9e1-2891-40cc-871e-4b53ec3a14d9#ref=rss)
+* [https://www.spiegel.de/politik/kriminalstatistik-innenministerin-nancy-faeser-praesentiert-mit-bka-die-zahl-registrierter-straftaten-in-deutschland](https://www.spiegel.de/politik/kriminalstatistik-innenministerin-nancy-faeser-praesentiert-mit-bka-die-zahl-registrierter-straftaten-in-deutschland-a-94cad711-f797-4cb5-bf23-5de60cf3b8ec#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/panorama/russland-mehr-als-10-000-haeuser-stehen-unter-wasser](https://www.spiegel.de/panorama/russland-mehr-als-10-000-haeuser-stehen-unter-wasser-a-50486f11-2740-432c-afb7-c6cee00f2c99#ref=rss)
-* [https://www.spiegel.de/sport/olympia/surfen-tim-elter-qualifiziert-sich-ueberraschend-fuer-olympia-2024-in-paris](https://www.spiegel.de/sport/olympia/surfen-tim-elter-qualifiziert-sich-ueberraschend-fuer-olympia-2024-in-paris-a-8997b228-f2ca-49ba-adda-637c32ec5787#ref=rss)
-### unter
+* [https://www.spiegel.de/panorama/justiz/kriminalstatistik-anstieg-der-straftaten-2023-bka-nennt-corona-inflation-und-zuwanderung-als-gruende](https://www.spiegel.de/panorama/justiz/kriminalstatistik-anstieg-der-straftaten-2023-bka-nennt-corona-inflation-und-zuwanderung-als-gruende-a-2d24a9e1-2891-40cc-871e-4b53ec3a14d9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-wie-kai-havertz-beim-fc-arsenal-zum-schluesselspieler-wurde](https://www.spiegel.de/sport/fussball/champions-league-wie-kai-havertz-beim-fc-arsenal-zum-schluesselspieler-wurde-a-4056f3c0-9288-44cf-89ef-3e5369ad6013#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-staerkt-rechte-leiblicher-vaeter](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-staerkt-rechte-leiblicher-vaeter-a-b0e7066b-ba1b-4cbe-91af-496766963dd3#ref=rss)
+### innenministerin
 
-* [https://www.spiegel.de/panorama/russland-mehr-als-10-000-haeuser-stehen-unter-wasser](https://www.spiegel.de/panorama/russland-mehr-als-10-000-haeuser-stehen-unter-wasser-a-50486f11-2740-432c-afb7-c6cee00f2c99#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gerald-grosz-oesterreichischer-ex-politiker-muss-geldstrafe-fuer-soeder-beleidigungen-zahlen](https://www.spiegel.de/politik/deutschland/gerald-grosz-oesterreichischer-ex-politiker-muss-geldstrafe-fuer-soeder-beleidigungen-zahlen-a-7d363e3f-303e-4c51-912a-26d077fb1905#ref=rss)
-### donald
+* [https://www.spiegel.de/panorama/justiz/kriminalstatistik-anstieg-der-straftaten-2023-bka-nennt-corona-inflation-und-zuwanderung-als-gruende](https://www.spiegel.de/panorama/justiz/kriminalstatistik-anstieg-der-straftaten-2023-bka-nennt-corona-inflation-und-zuwanderung-als-gruende-a-2d24a9e1-2891-40cc-871e-4b53ec3a14d9#ref=rss)
+* [https://www.spiegel.de/politik/kriminalstatistik-innenministerin-nancy-faeser-praesentiert-mit-bka-die-zahl-registrierter-straftaten-in-deutschland](https://www.spiegel.de/politik/kriminalstatistik-innenministerin-nancy-faeser-praesentiert-mit-bka-die-zahl-registrierter-straftaten-in-deutschland-a-94cad711-f797-4cb5-bf23-5de60cf3b8ec#ref=rss)
+### nancy
 
-* [https://www.spiegel.de/ausland/donald-trump-schlingert-beim-thema-abtreibung](https://www.spiegel.de/ausland/donald-trump-schlingert-beim-thema-abtreibung-a-263cf474-0b04-4b75-bf49-6a6bae302e52#ref=rss)
-### trump
+* [https://www.spiegel.de/panorama/justiz/kriminalstatistik-anstieg-der-straftaten-2023-bka-nennt-corona-inflation-und-zuwanderung-als-gruende](https://www.spiegel.de/panorama/justiz/kriminalstatistik-anstieg-der-straftaten-2023-bka-nennt-corona-inflation-und-zuwanderung-als-gruende-a-2d24a9e1-2891-40cc-871e-4b53ec3a14d9#ref=rss)
+* [https://www.spiegel.de/politik/kriminalstatistik-innenministerin-nancy-faeser-praesentiert-mit-bka-die-zahl-registrierter-straftaten-in-deutschland](https://www.spiegel.de/politik/kriminalstatistik-innenministerin-nancy-faeser-praesentiert-mit-bka-die-zahl-registrierter-straftaten-in-deutschland-a-94cad711-f797-4cb5-bf23-5de60cf3b8ec#ref=rss)
+### faeser
 
-* [https://www.spiegel.de/ausland/donald-trump-schlingert-beim-thema-abtreibung](https://www.spiegel.de/ausland/donald-trump-schlingert-beim-thema-abtreibung-a-263cf474-0b04-4b75-bf49-6a6bae302e52#ref=rss)
-### dagegen
+* [https://www.spiegel.de/panorama/justiz/kriminalstatistik-anstieg-der-straftaten-2023-bka-nennt-corona-inflation-und-zuwanderung-als-gruende](https://www.spiegel.de/panorama/justiz/kriminalstatistik-anstieg-der-straftaten-2023-bka-nennt-corona-inflation-und-zuwanderung-als-gruende-a-2d24a9e1-2891-40cc-871e-4b53ec3a14d9#ref=rss)
+* [https://www.spiegel.de/politik/kriminalstatistik-innenministerin-nancy-faeser-praesentiert-mit-bka-die-zahl-registrierter-straftaten-in-deutschland](https://www.spiegel.de/politik/kriminalstatistik-innenministerin-nancy-faeser-praesentiert-mit-bka-die-zahl-registrierter-straftaten-in-deutschland-a-94cad711-f797-4cb5-bf23-5de60cf3b8ec#ref=rss)
+### gerichtshof
 
-* [https://www.spiegel.de/ausland/donald-trump-schlingert-beim-thema-abtreibung](https://www.spiegel.de/ausland/donald-trump-schlingert-beim-thema-abtreibung-a-263cf474-0b04-4b75-bf49-6a6bae302e52#ref=rss)
-* [https://www.spiegel.de/ausland/italien-influencerin-kritisiert-konventionelle-mutterrolle-und-mangelhafte-familienpolitik](https://www.spiegel.de/ausland/italien-influencerin-kritisiert-konventionelle-mutterrolle-und-mangelhafte-familienpolitik-a-36463f12-d82b-4d2b-b88b-1dc464bfcaeb#ref=rss)
-### italien
+* [https://www.spiegel.de/politik/deutschland/den-haag-deutschland-weist-klage-nicaraguas-als-haltlos-zurueck](https://www.spiegel.de/politik/deutschland/den-haag-deutschland-weist-klage-nicaraguas-als-haltlos-zurueck-a-4cd635e5-30a1-4751-988b-45920292e34d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/klimaklagen-schweizer-seniorinnen-erhalten-vor-europaeischem-gerichtshof-fuer-menschenrechte-recht](https://www.spiegel.de/wissenschaft/natur/klimaklagen-schweizer-seniorinnen-erhalten-vor-europaeischem-gerichtshof-fuer-menschenrechte-recht-a-7ad6800c-82e9-4195-8376-29df12209627#ref=rss)
+### millionen
 
-* [https://www.spiegel.de/ausland/italien-influencerin-kritisiert-konventionelle-mutterrolle-und-mangelhafte-familienpolitik](https://www.spiegel.de/ausland/italien-influencerin-kritisiert-konventionelle-mutterrolle-und-mangelhafte-familienpolitik-a-36463f12-d82b-4d2b-b88b-1dc464bfcaeb#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-wie-kai-havertz-beim-fc-arsenal-zum-schluesselspieler-wurde](https://www.spiegel.de/sport/fussball/champions-league-wie-kai-havertz-beim-fc-arsenal-zum-schluesselspieler-wurde-a-4056f3c0-9288-44cf-89ef-3e5369ad6013#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/statistisches-bundesamt-rund-drei-millionen-menschen-waren-noch-nie-im-internet](https://www.spiegel.de/netzwelt/web/statistisches-bundesamt-rund-drei-millionen-menschen-waren-noch-nie-im-internet-a-8f6b8cae-d0bd-4a7e-9de9-dc40d080ec09#ref=rss)
+* [https://www.spiegel.de/politik/kriminalstatistik-innenministerin-nancy-faeser-praesentiert-mit-bka-die-zahl-registrierter-straftaten-in-deutschland](https://www.spiegel.de/politik/kriminalstatistik-innenministerin-nancy-faeser-praesentiert-mit-bka-die-zahl-registrierter-straftaten-in-deutschland-a-94cad711-f797-4cb5-bf23-5de60cf3b8ec#ref=rss)
+### rund
+
+* [https://www.spiegel.de/netzwelt/web/statistisches-bundesamt-rund-drei-millionen-menschen-waren-noch-nie-im-internet](https://www.spiegel.de/netzwelt/web/statistisches-bundesamt-rund-drei-millionen-menschen-waren-noch-nie-im-internet-a-8f6b8cae-d0bd-4a7e-9de9-dc40d080ec09#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/mediamarktsaturn-und-die-sofort-lieferung-darum-kutschiert-uber-jetzt-spielkonsolen](https://www.spiegel.de/netzwelt/gadgets/mediamarktsaturn-und-die-sofort-lieferung-darum-kutschiert-uber-jetzt-spielkonsolen-a-ef223fa5-7f17-4a24-abf7-c9b33322ce73#ref=rss)
+### nie
+
+* [https://www.spiegel.de/netzwelt/web/statistisches-bundesamt-rund-drei-millionen-menschen-waren-noch-nie-im-internet](https://www.spiegel.de/netzwelt/web/statistisches-bundesamt-rund-drei-millionen-menschen-waren-noch-nie-im-internet-a-8f6b8cae-d0bd-4a7e-9de9-dc40d080ec09#ref=rss)
+* [https://www.spiegel.de/stil/rolex-der-deutsche-uhreninsider-und-seine-geheimnisse](https://www.spiegel.de/stil/rolex-der-deutsche-uhreninsider-und-seine-geheimnisse-a-e7a2dcec-7dc0-405a-a6ca-2d59fc12962a#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/wissenschaft/natur/klimaklagen-schweizer-seniorinnen-erhalten-vor-europaeischem-gerichtshof-fuer-menschenrechte-recht](https://www.spiegel.de/wissenschaft/natur/klimaklagen-schweizer-seniorinnen-erhalten-vor-europaeischem-gerichtshof-fuer-menschenrechte-recht-a-7ad6800c-82e9-4195-8376-29df12209627#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/tiktok-notes-tiktok-arbeitet-an-eigenstaendiger-foto-app](https://www.spiegel.de/netzwelt/apps/tiktok-notes-tiktok-arbeitet-an-eigenstaendiger-foto-app-a-573ba993-bb4e-491d-96b6-c52f166de615#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-staerkt-rechte-leiblicher-vaeter](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-staerkt-rechte-leiblicher-vaeter-a-b0e7066b-ba1b-4cbe-91af-496766963dd3#ref=rss)
+### eltern
+
+* [https://www.spiegel.de/panorama/bildung/schule-in-nrw-fast-jede-vierte-schulstunde-findet-nicht-regulaer-statt](https://www.spiegel.de/panorama/bildung/schule-in-nrw-fast-jede-vierte-schulstunde-findet-nicht-regulaer-statt-a-c6e72b99-b1d7-430e-9bd9-f6fd93c0e204#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-staerkt-rechte-leiblicher-vaeter](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-staerkt-rechte-leiblicher-vaeter-a-b0e7066b-ba1b-4cbe-91af-496766963dd3#ref=rss)
+### eike
+
+* [https://www.spiegel.de/kultur/eike-schmidt-ex-uffizien-direktor-will-buergermeister-von-florenz-werden](https://www.spiegel.de/kultur/eike-schmidt-ex-uffizien-direktor-will-buergermeister-von-florenz-werden-a-34a3c9eb-7ffa-4f21-95e4-944c056d778b#ref=rss)
+### schmidt
+
+* [https://www.spiegel.de/kultur/eike-schmidt-ex-uffizien-direktor-will-buergermeister-von-florenz-werden](https://www.spiegel.de/kultur/eike-schmidt-ex-uffizien-direktor-will-buergermeister-von-florenz-werden-a-34a3c9eb-7ffa-4f21-95e4-944c056d778b#ref=rss)
+### bürgermeister
+
+* [https://www.spiegel.de/kultur/eike-schmidt-ex-uffizien-direktor-will-buergermeister-von-florenz-werden](https://www.spiegel.de/kultur/eike-schmidt-ex-uffizien-direktor-will-buergermeister-von-florenz-werden-a-34a3c9eb-7ffa-4f21-95e4-944c056d778b#ref=rss)
+### florenz
+
+* [https://www.spiegel.de/kultur/eike-schmidt-ex-uffizien-direktor-will-buergermeister-von-florenz-werden](https://www.spiegel.de/kultur/eike-schmidt-ex-uffizien-direktor-will-buergermeister-von-florenz-werden-a-34a3c9eb-7ffa-4f21-95e4-944c056d778b#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/kultur/eike-schmidt-ex-uffizien-direktor-will-buergermeister-von-florenz-werden](https://www.spiegel.de/kultur/eike-schmidt-ex-uffizien-direktor-will-buergermeister-von-florenz-werden-a-34a3c9eb-7ffa-4f21-95e4-944c056d778b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/den-haag-deutschland-weist-klage-nicaraguas-als-haltlos-zurueck](https://www.spiegel.de/politik/deutschland/den-haag-deutschland-weist-klage-nicaraguas-als-haltlos-zurueck-a-4cd635e5-30a1-4751-988b-45920292e34d#ref=rss)
+### kampf
+
+* [https://www.spiegel.de/kultur/eike-schmidt-ex-uffizien-direktor-will-buergermeister-von-florenz-werden](https://www.spiegel.de/kultur/eike-schmidt-ex-uffizien-direktor-will-buergermeister-von-florenz-werden-a-34a3c9eb-7ffa-4f21-95e4-944c056d778b#ref=rss)
+* [https://www.spiegel.de/ausland/polen-nach-den-kommunalwahlen-ist-das-land-endgueltig-zurueck-in-europa](https://www.spiegel.de/ausland/polen-nach-den-kommunalwahlen-ist-das-land-endgueltig-zurueck-in-europa-a-7bcf8383-19dc-4b89-a752-53455a8824bd#ref=rss)
+### groß
+
+* [https://www.spiegel.de/panorama/bildung/rechtsextremismus-an-schulen-wie-gross-ist-das-problem](https://www.spiegel.de/panorama/bildung/rechtsextremismus-an-schulen-wie-gross-ist-das-problem-a-6b16aa36-b8cf-4005-99c4-8f8a48bc2d46#ref=rss)
+* [https://www.spiegel.de/geschichte/roms-auf-und-abstieg-gescheitert-am-soeldnertum](https://www.spiegel.de/geschichte/roms-auf-und-abstieg-gescheitert-am-soeldnertum-a-e2e09049-39a3-4ecb-9453-39ebe5436e70#ref=rss)
+### sechs
+
+* [https://www.spiegel.de/panorama/bildung/rechtsextremismus-an-schulen-wie-gross-ist-das-problem](https://www.spiegel.de/panorama/bildung/rechtsextremismus-an-schulen-wie-gross-ist-das-problem-a-6b16aa36-b8cf-4005-99c4-8f8a48bc2d46#ref=rss)
+* [https://www.spiegel.de/politik/kriminalstatistik-innenministerin-nancy-faeser-praesentiert-mit-bka-die-zahl-registrierter-straftaten-in-deutschland](https://www.spiegel.de/politik/kriminalstatistik-innenministerin-nancy-faeser-praesentiert-mit-bka-die-zahl-registrierter-straftaten-in-deutschland-a-94cad711-f797-4cb5-bf23-5de60cf3b8ec#ref=rss)
+### lübeck
+
+* [https://www.spiegel.de/panorama/luebeck-naechtliches-dauergelaeut-einer-kirche-ruft-polizei-auf-den-plan](https://www.spiegel.de/panorama/luebeck-naechtliches-dauergelaeut-einer-kirche-ruft-polizei-auf-den-plan-a-832d0966-2c16-4d45-bc38-51c7f1207171#ref=rss)
+### grund
+
+* [https://www.spiegel.de/panorama/luebeck-naechtliches-dauergelaeut-einer-kirche-ruft-polizei-auf-den-plan](https://www.spiegel.de/panorama/luebeck-naechtliches-dauergelaeut-einer-kirche-ruft-polizei-auf-den-plan-a-832d0966-2c16-4d45-bc38-51c7f1207171#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/symptom-der-wirtschaftskrise-lkw-verkehr-auf-deutschen-autobahnen-schrumpft](https://www.spiegel.de/wirtschaft/unternehmen/symptom-der-wirtschaftskrise-lkw-verkehr-auf-deutschen-autobahnen-schrumpft-a-b1c0ce54-dfa2-4e6d-94a2-2e13ae05a716#ref=rss)
+### jamie
+
+* [https://www.spiegel.de/wirtschaft/jpmorgan-chase-ceo-jamie-dimon-warnt-vor-risiken](https://www.spiegel.de/wirtschaft/jpmorgan-chase-ceo-jamie-dimon-warnt-vor-risiken-a-5e3d3525-6870-4f4a-8b74-d859d2fd5dd7#ref=rss)
+### dimon
+
+* [https://www.spiegel.de/wirtschaft/jpmorgan-chase-ceo-jamie-dimon-warnt-vor-risiken](https://www.spiegel.de/wirtschaft/jpmorgan-chase-ceo-jamie-dimon-warnt-vor-risiken-a-5e3d3525-6870-4f4a-8b74-d859d2fd5dd7#ref=rss)
+### warnt
+
+* [https://www.spiegel.de/wirtschaft/jpmorgan-chase-ceo-jamie-dimon-warnt-vor-risiken](https://www.spiegel.de/wirtschaft/jpmorgan-chase-ceo-jamie-dimon-warnt-vor-risiken-a-5e3d3525-6870-4f4a-8b74-d859d2fd5dd7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/rohstoff-importe-deutsche-abhaengigkeit-von-asien-waechst](https://www.spiegel.de/wirtschaft/unternehmen/rohstoff-importe-deutsche-abhaengigkeit-von-asien-waechst-a-661e1d9d-2523-45db-856d-8f16b3e613e0#ref=rss)
+### kriminalstatistik
+
+* [https://www.spiegel.de/panorama/justiz/kriminalstatistik-anstieg-der-straftaten-2023-bka-nennt-corona-inflation-und-zuwanderung-als-gruende](https://www.spiegel.de/panorama/justiz/kriminalstatistik-anstieg-der-straftaten-2023-bka-nennt-corona-inflation-und-zuwanderung-als-gruende-a-2d24a9e1-2891-40cc-871e-4b53ec3a14d9#ref=rss)
+* [https://www.spiegel.de/politik/kriminalstatistik-innenministerin-nancy-faeser-praesentiert-mit-bka-die-zahl-registrierter-straftaten-in-deutschland](https://www.spiegel.de/politik/kriminalstatistik-innenministerin-nancy-faeser-praesentiert-mit-bka-die-zahl-registrierter-straftaten-in-deutschland-a-94cad711-f797-4cb5-bf23-5de60cf3b8ec#ref=rss)
+### 2023
+
+* [https://www.spiegel.de/panorama/justiz/kriminalstatistik-anstieg-der-straftaten-2023-bka-nennt-corona-inflation-und-zuwanderung-als-gruende](https://www.spiegel.de/panorama/justiz/kriminalstatistik-anstieg-der-straftaten-2023-bka-nennt-corona-inflation-und-zuwanderung-als-gruende-a-2d24a9e1-2891-40cc-871e-4b53ec3a14d9#ref=rss)
+* [https://www.spiegel.de/politik/kriminalstatistik-innenministerin-nancy-faeser-praesentiert-mit-bka-die-zahl-registrierter-straftaten-in-deutschland](https://www.spiegel.de/politik/kriminalstatistik-innenministerin-nancy-faeser-praesentiert-mit-bka-die-zahl-registrierter-straftaten-in-deutschland-a-94cad711-f797-4cb5-bf23-5de60cf3b8ec#ref=rss)
+### viele
+
+* [https://www.spiegel.de/panorama/justiz/kriminalstatistik-anstieg-der-straftaten-2023-bka-nennt-corona-inflation-und-zuwanderung-als-gruende](https://www.spiegel.de/panorama/justiz/kriminalstatistik-anstieg-der-straftaten-2023-bka-nennt-corona-inflation-und-zuwanderung-als-gruende-a-2d24a9e1-2891-40cc-871e-4b53ec3a14d9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/klimaschutz-ziele-grosser-konzerne-sind-offenbar-unzureichend](https://www.spiegel.de/wirtschaft/unternehmen/klimaschutz-ziele-grosser-konzerne-sind-offenbar-unzureichend-a-2d0cfdc2-9219-4c3f-a2cf-20bda7ac6bfe#ref=rss)
+### türkei
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-tuerkei-erlaesst-handelsbeschraenkungen-gegen-israel](https://www.spiegel.de/ausland/israel-gaza-krieg-tuerkei-erlaesst-handelsbeschraenkungen-gegen-israel-a-074bf918-9c9a-4877-bff4-1cd68815ac57#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-tuerkei-erlaesst-handelsbeschraenkungen-gegen-israel](https://www.spiegel.de/ausland/israel-gaza-krieg-tuerkei-erlaesst-handelsbeschraenkungen-gegen-israel-a-074bf918-9c9a-4877-bff4-1cd68815ac57#ref=rss)
+### gut
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-tuerkei-erlaesst-handelsbeschraenkungen-gegen-israel](https://www.spiegel.de/ausland/israel-gaza-krieg-tuerkei-erlaesst-handelsbeschraenkungen-gegen-israel-a-074bf918-9c9a-4877-bff4-1cd68815ac57#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/symptom-der-wirtschaftskrise-lkw-verkehr-auf-deutschen-autobahnen-schrumpft](https://www.spiegel.de/wirtschaft/unternehmen/symptom-der-wirtschaftskrise-lkw-verkehr-auf-deutschen-autobahnen-schrumpft-a-b1c0ce54-dfa2-4e6d-94a2-2e13ae05a716#ref=rss)
+### klage
+
+* [https://www.spiegel.de/politik/deutschland/den-haag-deutschland-weist-klage-nicaraguas-als-haltlos-zurueck](https://www.spiegel.de/politik/deutschland/den-haag-deutschland-weist-klage-nicaraguas-als-haltlos-zurueck-a-4cd635e5-30a1-4751-988b-45920292e34d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/legalisierung-von-abtreibungen-unionsfraktion-droht-mit-klage-vor-bundesverfassungsgericht](https://www.spiegel.de/politik/deutschland/legalisierung-von-abtreibungen-unionsfraktion-droht-mit-klage-vor-bundesverfassungsgericht-a-5a311230-a696-4f4c-a9f9-5495e82986ac#ref=rss)
+### nicaragua
+
+* [https://www.spiegel.de/politik/deutschland/den-haag-deutschland-weist-klage-nicaraguas-als-haltlos-zurueck](https://www.spiegel.de/politik/deutschland/den-haag-deutschland-weist-klage-nicaraguas-als-haltlos-zurueck-a-4cd635e5-30a1-4751-988b-45920292e34d#ref=rss)
+### league
+
+* [https://www.spiegel.de/sport/fussball/champions-league-wie-kai-havertz-beim-fc-arsenal-zum-schluesselspieler-wurde](https://www.spiegel.de/sport/fussball/champions-league-wie-kai-havertz-beim-fc-arsenal-zum-schluesselspieler-wurde-a-4056f3c0-9288-44cf-89ef-3e5369ad6013#ref=rss)
+### kai
+
+* [https://www.spiegel.de/sport/fussball/champions-league-wie-kai-havertz-beim-fc-arsenal-zum-schluesselspieler-wurde](https://www.spiegel.de/sport/fussball/champions-league-wie-kai-havertz-beim-fc-arsenal-zum-schluesselspieler-wurde-a-4056f3c0-9288-44cf-89ef-3e5369ad6013#ref=rss)
+### havertz
+
+* [https://www.spiegel.de/sport/fussball/champions-league-wie-kai-havertz-beim-fc-arsenal-zum-schluesselspieler-wurde](https://www.spiegel.de/sport/fussball/champions-league-wie-kai-havertz-beim-fc-arsenal-zum-schluesselspieler-wurde-a-4056f3c0-9288-44cf-89ef-3e5369ad6013#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/champions-league-wie-kai-havertz-beim-fc-arsenal-zum-schluesselspieler-wurde](https://www.spiegel.de/sport/fussball/champions-league-wie-kai-havertz-beim-fc-arsenal-zum-schluesselspieler-wurde-a-4056f3c0-9288-44cf-89ef-3e5369ad6013#ref=rss)
+### arsenal
+
+* [https://www.spiegel.de/sport/fussball/champions-league-wie-kai-havertz-beim-fc-arsenal-zum-schluesselspieler-wurde](https://www.spiegel.de/sport/fussball/champions-league-wie-kai-havertz-beim-fc-arsenal-zum-schluesselspieler-wurde-a-4056f3c0-9288-44cf-89ef-3e5369ad6013#ref=rss)
+### kommen
+
+* [https://www.spiegel.de/geschichte/roms-auf-und-abstieg-gescheitert-am-soeldnertum](https://www.spiegel.de/geschichte/roms-auf-und-abstieg-gescheitert-am-soeldnertum-a-e2e09049-39a3-4ecb-9453-39ebe5436e70#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/tiktok-notes-tiktok-arbeitet-an-eigenstaendiger-foto-app](https://www.spiegel.de/netzwelt/apps/tiktok-notes-tiktok-arbeitet-an-eigenstaendiger-foto-app-a-573ba993-bb4e-491d-96b6-c52f166de615#ref=rss)
+### mittwoch
+
+* [https://www.spiegel.de/politik/deutschland/ampelkoalition-soll-am-mittwoch-zum-koalitionsausschuss-zusammenkommen](https://www.spiegel.de/politik/deutschland/ampelkoalition-soll-am-mittwoch-zum-koalitionsausschuss-zusammenkommen-a-e2707090-bf8f-4f1a-8029-19afec26e7a6#ref=rss)
+### koalitionsausschuss
+
+* [https://www.spiegel.de/politik/deutschland/ampelkoalition-soll-am-mittwoch-zum-koalitionsausschuss-zusammenkommen](https://www.spiegel.de/politik/deutschland/ampelkoalition-soll-am-mittwoch-zum-koalitionsausschuss-zusammenkommen-a-e2707090-bf8f-4f1a-8029-19afec26e7a6#ref=rss)
+### grüne
+
+* [https://www.spiegel.de/politik/deutschland/ampelkoalition-soll-am-mittwoch-zum-koalitionsausschuss-zusammenkommen](https://www.spiegel.de/politik/deutschland/ampelkoalition-soll-am-mittwoch-zum-koalitionsausschuss-zusammenkommen-a-e2707090-bf8f-4f1a-8029-19afec26e7a6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sven-christian-kindler-gruene-gleichberechtigte-elternschaft-und-spitzenpolitik-sind-nicht-vereinbar](https://www.spiegel.de/politik/deutschland/sven-christian-kindler-gruene-gleichberechtigte-elternschaft-und-spitzenpolitik-sind-nicht-vereinbar-a-3cb12e35-9651-4201-a482-360d71a90b82#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/politik/deutschland/ampelkoalition-soll-am-mittwoch-zum-koalitionsausschuss-zusammenkommen](https://www.spiegel.de/politik/deutschland/ampelkoalition-soll-am-mittwoch-zum-koalitionsausschuss-zusammenkommen-a-e2707090-bf8f-4f1a-8029-19afec26e7a6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/klimaschutz-ziele-grosser-konzerne-sind-offenbar-unzureichend](https://www.spiegel.de/wirtschaft/unternehmen/klimaschutz-ziele-grosser-konzerne-sind-offenbar-unzureichend-a-2d0cfdc2-9219-4c3f-a2cf-20bda7ac6bfe#ref=rss)
+### wasserburg
+
+* [https://www.spiegel.de/panorama/justiz/wasserburg-am-inn-arzt-auf-klinikgelaende-erstochen-40-jaehriger-unter-verdacht](https://www.spiegel.de/panorama/justiz/wasserburg-am-inn-arzt-auf-klinikgelaende-erstochen-40-jaehriger-unter-verdacht-a-09fd2445-4f89-4699-ba77-092a5dea945f#ref=rss)
+### inn
+
+* [https://www.spiegel.de/panorama/justiz/wasserburg-am-inn-arzt-auf-klinikgelaende-erstochen-40-jaehriger-unter-verdacht](https://www.spiegel.de/panorama/justiz/wasserburg-am-inn-arzt-auf-klinikgelaende-erstochen-40-jaehriger-unter-verdacht-a-09fd2445-4f89-4699-ba77-092a5dea945f#ref=rss)
 ### arzt
 
-* [https://www.spiegel.de/panorama/justiz/berlin-urteil-wegen-suizidhilfe-arzt-christoph-turowski-soll-drei-jahre-ins-gefaengnis](https://www.spiegel.de/panorama/justiz/berlin-urteil-wegen-suizidhilfe-arzt-christoph-turowski-soll-drei-jahre-ins-gefaengnis-a-157a7010-ebe5-4e36-b430-4a033667fa24#ref=rss)
-### christoph
+* [https://www.spiegel.de/panorama/justiz/wasserburg-am-inn-arzt-auf-klinikgelaende-erstochen-40-jaehriger-unter-verdacht](https://www.spiegel.de/panorama/justiz/wasserburg-am-inn-arzt-auf-klinikgelaende-erstochen-40-jaehriger-unter-verdacht-a-09fd2445-4f89-4699-ba77-092a5dea945f#ref=rss)
+### kurz
 
-* [https://www.spiegel.de/panorama/justiz/berlin-urteil-wegen-suizidhilfe-arzt-christoph-turowski-soll-drei-jahre-ins-gefaengnis](https://www.spiegel.de/panorama/justiz/berlin-urteil-wegen-suizidhilfe-arzt-christoph-turowski-soll-drei-jahre-ins-gefaengnis-a-157a7010-ebe5-4e36-b430-4a033667fa24#ref=rss)
-### turowski
+* [https://www.spiegel.de/panorama/justiz/wasserburg-am-inn-arzt-auf-klinikgelaende-erstochen-40-jaehriger-unter-verdacht](https://www.spiegel.de/panorama/justiz/wasserburg-am-inn-arzt-auf-klinikgelaende-erstochen-40-jaehriger-unter-verdacht-a-09fd2445-4f89-4699-ba77-092a5dea945f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-staerkt-rechte-leiblicher-vaeter](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-staerkt-rechte-leiblicher-vaeter-a-b0e7066b-ba1b-4cbe-91af-496766963dd3#ref=rss)
+### darauf
 
-* [https://www.spiegel.de/panorama/justiz/berlin-urteil-wegen-suizidhilfe-arzt-christoph-turowski-soll-drei-jahre-ins-gefaengnis](https://www.spiegel.de/panorama/justiz/berlin-urteil-wegen-suizidhilfe-arzt-christoph-turowski-soll-drei-jahre-ins-gefaengnis-a-157a7010-ebe5-4e36-b430-4a033667fa24#ref=rss)
-### tim
+* [https://www.spiegel.de/panorama/justiz/wasserburg-am-inn-arzt-auf-klinikgelaende-erstochen-40-jaehriger-unter-verdacht](https://www.spiegel.de/panorama/justiz/wasserburg-am-inn-arzt-auf-klinikgelaende-erstochen-40-jaehriger-unter-verdacht-a-09fd2445-4f89-4699-ba77-092a5dea945f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-staerkt-rechte-leiblicher-vaeter](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-staerkt-rechte-leiblicher-vaeter-a-b0e7066b-ba1b-4cbe-91af-496766963dd3#ref=rss)
+### bundesamt
 
-* [https://www.spiegel.de/sport/olympia/surfen-tim-elter-qualifiziert-sich-ueberraschend-fuer-olympia-2024-in-paris](https://www.spiegel.de/sport/olympia/surfen-tim-elter-qualifiziert-sich-ueberraschend-fuer-olympia-2024-in-paris-a-8997b228-f2ca-49ba-adda-637c32ec5787#ref=rss)
-### elter
+* [https://www.spiegel.de/netzwelt/web/statistisches-bundesamt-rund-drei-millionen-menschen-waren-noch-nie-im-internet](https://www.spiegel.de/netzwelt/web/statistisches-bundesamt-rund-drei-millionen-menschen-waren-noch-nie-im-internet-a-8f6b8cae-d0bd-4a7e-9de9-dc40d080ec09#ref=rss)
+### laut
 
-* [https://www.spiegel.de/sport/olympia/surfen-tim-elter-qualifiziert-sich-ueberraschend-fuer-olympia-2024-in-paris](https://www.spiegel.de/sport/olympia/surfen-tim-elter-qualifiziert-sich-ueberraschend-fuer-olympia-2024-in-paris-a-8997b228-f2ca-49ba-adda-637c32ec5787#ref=rss)
-### qualifiziert
+* [https://www.spiegel.de/netzwelt/web/statistisches-bundesamt-rund-drei-millionen-menschen-waren-noch-nie-im-internet](https://www.spiegel.de/netzwelt/web/statistisches-bundesamt-rund-drei-millionen-menschen-waren-noch-nie-im-internet-a-8f6b8cae-d0bd-4a7e-9de9-dc40d080ec09#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/klimaschutz-ziele-grosser-konzerne-sind-offenbar-unzureichend](https://www.spiegel.de/wirtschaft/unternehmen/klimaschutz-ziele-grosser-konzerne-sind-offenbar-unzureichend-a-2d0cfdc2-9219-4c3f-a2cf-20bda7ac6bfe#ref=rss)
+### jede
 
-* [https://www.spiegel.de/sport/olympia/surfen-tim-elter-qualifiziert-sich-ueberraschend-fuer-olympia-2024-in-paris](https://www.spiegel.de/sport/olympia/surfen-tim-elter-qualifiziert-sich-ueberraschend-fuer-olympia-2024-in-paris-a-8997b228-f2ca-49ba-adda-637c32ec5787#ref=rss)
-### überraschend
+* [https://www.spiegel.de/netzwelt/web/statistisches-bundesamt-rund-drei-millionen-menschen-waren-noch-nie-im-internet](https://www.spiegel.de/netzwelt/web/statistisches-bundesamt-rund-drei-millionen-menschen-waren-noch-nie-im-internet-a-8f6b8cae-d0bd-4a7e-9de9-dc40d080ec09#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/schule-in-nrw-fast-jede-vierte-schulstunde-findet-nicht-regulaer-statt](https://www.spiegel.de/panorama/bildung/schule-in-nrw-fast-jede-vierte-schulstunde-findet-nicht-regulaer-statt-a-c6e72b99-b1d7-430e-9bd9-f6fd93c0e204#ref=rss)
+### klimaklagen
 
-* [https://www.spiegel.de/sport/olympia/surfen-tim-elter-qualifiziert-sich-ueberraschend-fuer-olympia-2024-in-paris](https://www.spiegel.de/sport/olympia/surfen-tim-elter-qualifiziert-sich-ueberraschend-fuer-olympia-2024-in-paris-a-8997b228-f2ca-49ba-adda-637c32ec5787#ref=rss)
-### 20jähriger
+* [https://www.spiegel.de/wissenschaft/natur/klimaklagen-schweizer-seniorinnen-erhalten-vor-europaeischem-gerichtshof-fuer-menschenrechte-recht](https://www.spiegel.de/wissenschaft/natur/klimaklagen-schweizer-seniorinnen-erhalten-vor-europaeischem-gerichtshof-fuer-menschenrechte-recht-a-7ad6800c-82e9-4195-8376-29df12209627#ref=rss)
+### schweizer
 
-* [https://www.spiegel.de/sport/olympia/surfen-tim-elter-qualifiziert-sich-ueberraschend-fuer-olympia-2024-in-paris](https://www.spiegel.de/sport/olympia/surfen-tim-elter-qualifiziert-sich-ueberraschend-fuer-olympia-2024-in-paris-a-8997b228-f2ca-49ba-adda-637c32ec5787#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/rheinland-pfalz-schwerverletzter-bei-messerangriff-in-zug](https://www.spiegel.de/panorama/justiz/rheinland-pfalz-schwerverletzter-bei-messerangriff-in-zug-a-c15fc1b1-0671-4b5a-ad27-e3d94a381bd7#ref=rss)
-### basketball
+* [https://www.spiegel.de/wissenschaft/natur/klimaklagen-schweizer-seniorinnen-erhalten-vor-europaeischem-gerichtshof-fuer-menschenrechte-recht](https://www.spiegel.de/wissenschaft/natur/klimaklagen-schweizer-seniorinnen-erhalten-vor-europaeischem-gerichtshof-fuer-menschenrechte-recht-a-7ad6800c-82e9-4195-8376-29df12209627#ref=rss)
+### seniorinnen
 
-* [https://www.spiegel.de/sport/basketball/neue-studie-warum-schulterklopfen-die-trefferquote-beim-basketball-verbessern-kann](https://www.spiegel.de/sport/basketball/neue-studie-warum-schulterklopfen-die-trefferquote-beim-basketball-verbessern-kann-a-dcc9fb29-dfe1-4b9b-80d7-de675d6e8d55#ref=rss)
-### sturm
+* [https://www.spiegel.de/wissenschaft/natur/klimaklagen-schweizer-seniorinnen-erhalten-vor-europaeischem-gerichtshof-fuer-menschenrechte-recht](https://www.spiegel.de/wissenschaft/natur/klimaklagen-schweizer-seniorinnen-erhalten-vor-europaeischem-gerichtshof-fuer-menschenrechte-recht-a-7ad6800c-82e9-4195-8376-29df12209627#ref=rss)
+### menschenrechte
 
-* [https://www.spiegel.de/ausland/ecuador-mexiko-klagt-in-den-haag-nach-sturm-auf-botschaft](https://www.spiegel.de/ausland/ecuador-mexiko-klagt-in-den-haag-nach-sturm-auf-botschaft-a-7b325ec1-d749-44d9-8803-d521de81ac1e#ref=rss)
-* [https://www.spiegel.de/ausland/ecuador-der-sturm-auf-die-mexikanische-botschaft](https://www.spiegel.de/ausland/ecuador-der-sturm-auf-die-mexikanische-botschaft-a-ded3a2df-1182-4767-8c0b-28ae39f477d7#ref=rss)
-### mexikanische
+* [https://www.spiegel.de/wissenschaft/natur/klimaklagen-schweizer-seniorinnen-erhalten-vor-europaeischem-gerichtshof-fuer-menschenrechte-recht](https://www.spiegel.de/wissenschaft/natur/klimaklagen-schweizer-seniorinnen-erhalten-vor-europaeischem-gerichtshof-fuer-menschenrechte-recht-a-7ad6800c-82e9-4195-8376-29df12209627#ref=rss)
+### recht
 
-* [https://www.spiegel.de/ausland/ecuador-der-sturm-auf-die-mexikanische-botschaft](https://www.spiegel.de/ausland/ecuador-der-sturm-auf-die-mexikanische-botschaft-a-ded3a2df-1182-4767-8c0b-28ae39f477d7#ref=rss)
-### litauen
+* [https://www.spiegel.de/wissenschaft/natur/klimaklagen-schweizer-seniorinnen-erhalten-vor-europaeischem-gerichtshof-fuer-menschenrechte-recht](https://www.spiegel.de/wissenschaft/natur/klimaklagen-schweizer-seniorinnen-erhalten-vor-europaeischem-gerichtshof-fuer-menschenrechte-recht-a-7ad6800c-82e9-4195-8376-29df12209627#ref=rss)
+### regierungen
 
-* [https://www.spiegel.de/politik/deutschland/litauen-boris-pistorius-verabschiedet-vorkommando-von-neuer-kampfbrigade](https://www.spiegel.de/politik/deutschland/litauen-boris-pistorius-verabschiedet-vorkommando-von-neuer-kampfbrigade-a-aa3bea06-2333-4b17-b4a3-ef617fbf147d#ref=rss)
-### pistorius
+* [https://www.spiegel.de/wirtschaft/eu-studie-geld-fuer-infrastruktur-senkt-stimmenanteile-von-rechtspopulisten](https://www.spiegel.de/wirtschaft/eu-studie-geld-fuer-infrastruktur-senkt-stimmenanteile-von-rechtspopulisten-a-840e6a22-8325-4063-8077-dda9ed918f71#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/klimaschutz-ziele-grosser-konzerne-sind-offenbar-unzureichend](https://www.spiegel.de/wirtschaft/unternehmen/klimaschutz-ziele-grosser-konzerne-sind-offenbar-unzureichend-a-2d0cfdc2-9219-4c3f-a2cf-20bda7ac6bfe#ref=rss)
+### fast
 
-* [https://www.spiegel.de/politik/deutschland/litauen-boris-pistorius-verabschiedet-vorkommando-von-neuer-kampfbrigade](https://www.spiegel.de/politik/deutschland/litauen-boris-pistorius-verabschiedet-vorkommando-von-neuer-kampfbrigade-a-aa3bea06-2333-4b17-b4a3-ef617fbf147d#ref=rss)
-### verabschiedet
+* [https://www.spiegel.de/panorama/bildung/schule-in-nrw-fast-jede-vierte-schulstunde-findet-nicht-regulaer-statt](https://www.spiegel.de/panorama/bildung/schule-in-nrw-fast-jede-vierte-schulstunde-findet-nicht-regulaer-statt-a-c6e72b99-b1d7-430e-9bd9-f6fd93c0e204#ref=rss)
+* [https://www.spiegel.de/politik/kriminalstatistik-innenministerin-nancy-faeser-praesentiert-mit-bka-die-zahl-registrierter-straftaten-in-deutschland](https://www.spiegel.de/politik/kriminalstatistik-innenministerin-nancy-faeser-praesentiert-mit-bka-die-zahl-registrierter-straftaten-in-deutschland-a-94cad711-f797-4cb5-bf23-5de60cf3b8ec#ref=rss)
+### erste
 
-* [https://www.spiegel.de/politik/deutschland/litauen-boris-pistorius-verabschiedet-vorkommando-von-neuer-kampfbrigade](https://www.spiegel.de/politik/deutschland/litauen-boris-pistorius-verabschiedet-vorkommando-von-neuer-kampfbrigade-a-aa3bea06-2333-4b17-b4a3-ef617fbf147d#ref=rss)
-### vorkommando
+* [https://www.spiegel.de/panorama/bildung/schule-in-nrw-fast-jede-vierte-schulstunde-findet-nicht-regulaer-statt](https://www.spiegel.de/panorama/bildung/schule-in-nrw-fast-jede-vierte-schulstunde-findet-nicht-regulaer-statt-a-c6e72b99-b1d7-430e-9bd9-f6fd93c0e204#ref=rss)
+* [https://www.spiegel.de/kultur/beyonce-als-erste-schwarze-frau-an-der-spitze-der-country-charts](https://www.spiegel.de/kultur/beyonce-als-erste-schwarze-frau-an-der-spitze-der-country-charts-a-2591e6db-b9d7-4b7c-8da0-d6a7908f2785#ref=rss)
+### erfahrungen
 
-* [https://www.spiegel.de/politik/deutschland/litauen-boris-pistorius-verabschiedet-vorkommando-von-neuer-kampfbrigade](https://www.spiegel.de/politik/deutschland/litauen-boris-pistorius-verabschiedet-vorkommando-von-neuer-kampfbrigade-a-aa3bea06-2333-4b17-b4a3-ef617fbf147d#ref=rss)
-### gitta
+* [https://www.spiegel.de/panorama/bildung/schule-in-nrw-fast-jede-vierte-schulstunde-findet-nicht-regulaer-statt](https://www.spiegel.de/panorama/bildung/schule-in-nrw-fast-jede-vierte-schulstunde-findet-nicht-regulaer-statt-a-c6e72b99-b1d7-430e-9bd9-f6fd93c0e204#ref=rss)
+* [https://www.spiegel.de/ausland/polen-nach-den-kommunalwahlen-ist-das-land-endgueltig-zurueck-in-europa](https://www.spiegel.de/ausland/polen-nach-den-kommunalwahlen-ist-das-land-endgueltig-zurueck-in-europa-a-7bcf8383-19dc-4b89-a752-53455a8824bd#ref=rss)
+### unionsfraktion
 
-* [https://www.spiegel.de/politik/deutschland/gitta-connemann-chefin-des-cdu-wirtschaftsfluegels-verzichtet-auf-kandidatur-fuer-parteispitze](https://www.spiegel.de/politik/deutschland/gitta-connemann-chefin-des-cdu-wirtschaftsfluegels-verzichtet-auf-kandidatur-fuer-parteispitze-a-e82fddb1-af2e-44e1-8441-a36c939e337a#ref=rss)
-### connemann
+* [https://www.spiegel.de/politik/deutschland/legalisierung-von-abtreibungen-unionsfraktion-droht-mit-klage-vor-bundesverfassungsgericht](https://www.spiegel.de/politik/deutschland/legalisierung-von-abtreibungen-unionsfraktion-droht-mit-klage-vor-bundesverfassungsgericht-a-5a311230-a696-4f4c-a9f9-5495e82986ac#ref=rss)
+### bundesverfassungsgericht
 
-* [https://www.spiegel.de/politik/deutschland/gitta-connemann-chefin-des-cdu-wirtschaftsfluegels-verzichtet-auf-kandidatur-fuer-parteispitze](https://www.spiegel.de/politik/deutschland/gitta-connemann-chefin-des-cdu-wirtschaftsfluegels-verzichtet-auf-kandidatur-fuer-parteispitze-a-e82fddb1-af2e-44e1-8441-a36c939e337a#ref=rss)
-### gerald
+* [https://www.spiegel.de/politik/deutschland/legalisierung-von-abtreibungen-unionsfraktion-droht-mit-klage-vor-bundesverfassungsgericht](https://www.spiegel.de/politik/deutschland/legalisierung-von-abtreibungen-unionsfraktion-droht-mit-klage-vor-bundesverfassungsgericht-a-5a311230-a696-4f4c-a9f9-5495e82986ac#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-staerkt-rechte-leiblicher-vaeter](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-staerkt-rechte-leiblicher-vaeter-a-b0e7066b-ba1b-4cbe-91af-496766963dd3#ref=rss)
+### beyoncé
 
-* [https://www.spiegel.de/politik/deutschland/gerald-grosz-oesterreichischer-ex-politiker-muss-geldstrafe-fuer-soeder-beleidigungen-zahlen](https://www.spiegel.de/politik/deutschland/gerald-grosz-oesterreichischer-ex-politiker-muss-geldstrafe-fuer-soeder-beleidigungen-zahlen-a-7d363e3f-303e-4c51-912a-26d077fb1905#ref=rss)
-### grosz
+* [https://www.spiegel.de/kultur/beyonce-als-erste-schwarze-frau-an-der-spitze-der-country-charts](https://www.spiegel.de/kultur/beyonce-als-erste-schwarze-frau-an-der-spitze-der-country-charts-a-2591e6db-b9d7-4b7c-8da0-d6a7908f2785#ref=rss)
+### spitze
 
-* [https://www.spiegel.de/politik/deutschland/gerald-grosz-oesterreichischer-ex-politiker-muss-geldstrafe-fuer-soeder-beleidigungen-zahlen](https://www.spiegel.de/politik/deutschland/gerald-grosz-oesterreichischer-ex-politiker-muss-geldstrafe-fuer-soeder-beleidigungen-zahlen-a-7d363e3f-303e-4c51-912a-26d077fb1905#ref=rss)
-### koblenz
+* [https://www.spiegel.de/kultur/beyonce-als-erste-schwarze-frau-an-der-spitze-der-country-charts](https://www.spiegel.de/kultur/beyonce-als-erste-schwarze-frau-an-der-spitze-der-country-charts-a-2591e6db-b9d7-4b7c-8da0-d6a7908f2785#ref=rss)
+### sandra
 
-* [https://www.spiegel.de/panorama/justiz/rheinland-pfalz-schwerverletzter-bei-messerangriff-in-zug](https://www.spiegel.de/panorama/justiz/rheinland-pfalz-schwerverletzter-bei-messerangriff-in-zug-a-c15fc1b1-0671-4b5a-ad27-e3d94a381bd7#ref=rss)
-### lahnstein
+* [https://www.spiegel.de/kultur/markus-soeder-bei-sandra-maischberger-ostereier-huehnerfuesse-und-eine-frage-die-sogar-den-csu-chef-ins-straucheln-bringt](https://www.spiegel.de/kultur/markus-soeder-bei-sandra-maischberger-ostereier-huehnerfuesse-und-eine-frage-die-sogar-den-csu-chef-ins-straucheln-bringt-a-ed8e18ff-c696-46b5-ba81-88bf89ad5eb6#ref=rss)
+### maischberger
 
-* [https://www.spiegel.de/panorama/justiz/rheinland-pfalz-schwerverletzter-bei-messerangriff-in-zug](https://www.spiegel.de/panorama/justiz/rheinland-pfalz-schwerverletzter-bei-messerangriff-in-zug-a-c15fc1b1-0671-4b5a-ad27-e3d94a381bd7#ref=rss)
-### rhein
+* [https://www.spiegel.de/kultur/markus-soeder-bei-sandra-maischberger-ostereier-huehnerfuesse-und-eine-frage-die-sogar-den-csu-chef-ins-straucheln-bringt](https://www.spiegel.de/kultur/markus-soeder-bei-sandra-maischberger-ostereier-huehnerfuesse-und-eine-frage-die-sogar-den-csu-chef-ins-straucheln-bringt-a-ed8e18ff-c696-46b5-ba81-88bf89ad5eb6#ref=rss)
+### bringt
 
-* [https://www.spiegel.de/panorama/justiz/rheinland-pfalz-schwerverletzter-bei-messerangriff-in-zug](https://www.spiegel.de/panorama/justiz/rheinland-pfalz-schwerverletzter-bei-messerangriff-in-zug-a-c15fc1b1-0671-4b5a-ad27-e3d94a381bd7#ref=rss)
-### messerangriff
+* [https://www.spiegel.de/kultur/markus-soeder-bei-sandra-maischberger-ostereier-huehnerfuesse-und-eine-frage-die-sogar-den-csu-chef-ins-straucheln-bringt](https://www.spiegel.de/kultur/markus-soeder-bei-sandra-maischberger-ostereier-huehnerfuesse-und-eine-frage-die-sogar-den-csu-chef-ins-straucheln-bringt-a-ed8e18ff-c696-46b5-ba81-88bf89ad5eb6#ref=rss)
+### präsentiert
 
-* [https://www.spiegel.de/panorama/justiz/rheinland-pfalz-schwerverletzter-bei-messerangriff-in-zug](https://www.spiegel.de/panorama/justiz/rheinland-pfalz-schwerverletzter-bei-messerangriff-in-zug-a-c15fc1b1-0671-4b5a-ad27-e3d94a381bd7#ref=rss)
-### zug
+* [https://www.spiegel.de/politik/kriminalstatistik-innenministerin-nancy-faeser-praesentiert-mit-bka-die-zahl-registrierter-straftaten-in-deutschland](https://www.spiegel.de/politik/kriminalstatistik-innenministerin-nancy-faeser-praesentiert-mit-bka-die-zahl-registrierter-straftaten-in-deutschland-a-94cad711-f797-4cb5-bf23-5de60cf3b8ec#ref=rss)
+### tiktok
 
-* [https://www.spiegel.de/panorama/justiz/rheinland-pfalz-schwerverletzter-bei-messerangriff-in-zug](https://www.spiegel.de/panorama/justiz/rheinland-pfalz-schwerverletzter-bei-messerangriff-in-zug-a-c15fc1b1-0671-4b5a-ad27-e3d94a381bd7#ref=rss)
-### essen
+* [https://www.spiegel.de/netzwelt/apps/tiktok-notes-tiktok-arbeitet-an-eigenstaendiger-foto-app](https://www.spiegel.de/netzwelt/apps/tiktok-notes-tiktok-arbeitet-an-eigenstaendiger-foto-app-a-573ba993-bb4e-491d-96b6-c52f166de615#ref=rss)
+### notes
 
-* [https://www.spiegel.de/wirtschaft/schliessfaecher-geknackt-ex-banker-vor-gericht-1-5-millionen-euro-beute](https://www.spiegel.de/wirtschaft/schliessfaecher-geknackt-ex-banker-vor-gericht-1-5-millionen-euro-beute-a-91ff3ac5-6043-485c-9dc6-95e5dfdc9813#ref=rss)
-### ruhrgebiet
+* [https://www.spiegel.de/netzwelt/apps/tiktok-notes-tiktok-arbeitet-an-eigenstaendiger-foto-app](https://www.spiegel.de/netzwelt/apps/tiktok-notes-tiktok-arbeitet-an-eigenstaendiger-foto-app-a-573ba993-bb4e-491d-96b6-c52f166de615#ref=rss)
+### neue
 
-* [https://www.spiegel.de/auto/duesseldorf-flughafen-duisburg-oberhausen-betroffen-wichtige-bahnstrecke-im-ruhrgebiet-wieder-frei](https://www.spiegel.de/auto/duesseldorf-flughafen-duisburg-oberhausen-betroffen-wichtige-bahnstrecke-im-ruhrgebiet-wieder-frei-a-6b851155-1dd9-43de-b6ba-117c62536b2a#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/tiktok-notes-tiktok-arbeitet-an-eigenstaendiger-foto-app](https://www.spiegel.de/netzwelt/apps/tiktok-notes-tiktok-arbeitet-an-eigenstaendiger-foto-app-a-573ba993-bb4e-491d-96b6-c52f166de615#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-staerkt-rechte-leiblicher-vaeter](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-staerkt-rechte-leiblicher-vaeter-a-b0e7066b-ba1b-4cbe-91af-496766963dd3#ref=rss)
+### markt
+
+* [https://www.spiegel.de/netzwelt/apps/tiktok-notes-tiktok-arbeitet-an-eigenstaendiger-foto-app](https://www.spiegel.de/netzwelt/apps/tiktok-notes-tiktok-arbeitet-an-eigenstaendiger-foto-app-a-573ba993-bb4e-491d-96b6-c52f166de615#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/mediamarktsaturn-und-die-sofort-lieferung-darum-kutschiert-uber-jetzt-spielkonsolen](https://www.spiegel.de/netzwelt/gadgets/mediamarktsaturn-und-die-sofort-lieferung-darum-kutschiert-uber-jetzt-spielkonsolen-a-ef223fa5-7f17-4a24-abf7-c9b33322ce73#ref=rss)
+### darum
+
+* [https://www.spiegel.de/netzwelt/gadgets/mediamarktsaturn-und-die-sofort-lieferung-darum-kutschiert-uber-jetzt-spielkonsolen](https://www.spiegel.de/netzwelt/gadgets/mediamarktsaturn-und-die-sofort-lieferung-darum-kutschiert-uber-jetzt-spielkonsolen-a-ef223fa5-7f17-4a24-abf7-c9b33322ce73#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/schleswig-holstein-buckelwal-sorgt-fuer-aufsehen-in-der-ostsee](https://www.spiegel.de/wissenschaft/natur/schleswig-holstein-buckelwal-sorgt-fuer-aufsehen-in-der-ostsee-a-13a279e7-6642-4e76-9be8-f7caf6b6d50a#ref=rss)
+### uhr
+
+* [https://www.spiegel.de/netzwelt/gadgets/mediamarktsaturn-und-die-sofort-lieferung-darum-kutschiert-uber-jetzt-spielkonsolen](https://www.spiegel.de/netzwelt/gadgets/mediamarktsaturn-und-die-sofort-lieferung-darum-kutschiert-uber-jetzt-spielkonsolen-a-ef223fa5-7f17-4a24-abf7-c9b33322ce73#ref=rss)
+* [https://www.spiegel.de/stil/rolex-der-deutsche-uhreninsider-und-seine-geheimnisse](https://www.spiegel.de/stil/rolex-der-deutsche-uhreninsider-und-seine-geheimnisse-a-e7a2dcec-7dc0-405a-a6ca-2d59fc12962a#ref=rss)
+### buckelwal
+
+* [https://www.spiegel.de/wissenschaft/natur/schleswig-holstein-buckelwal-sorgt-fuer-aufsehen-in-der-ostsee](https://www.spiegel.de/wissenschaft/natur/schleswig-holstein-buckelwal-sorgt-fuer-aufsehen-in-der-ostsee-a-13a279e7-6642-4e76-9be8-f7caf6b6d50a#ref=rss)
+### ostsee
+
+* [https://www.spiegel.de/wissenschaft/natur/schleswig-holstein-buckelwal-sorgt-fuer-aufsehen-in-der-ostsee](https://www.spiegel.de/wissenschaft/natur/schleswig-holstein-buckelwal-sorgt-fuer-aufsehen-in-der-ostsee-a-13a279e7-6642-4e76-9be8-f7caf6b6d50a#ref=rss)
+### rechte
+
+* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-staerkt-rechte-leiblicher-vaeter](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-staerkt-rechte-leiblicher-vaeter-a-b0e7066b-ba1b-4cbe-91af-496766963dd3#ref=rss)
+* [https://www.spiegel.de/ausland/polen-nach-den-kommunalwahlen-ist-das-land-endgueltig-zurueck-in-europa](https://www.spiegel.de/ausland/polen-nach-den-kommunalwahlen-ist-das-land-endgueltig-zurueck-in-europa-a-7bcf8383-19dc-4b89-a752-53455a8824bd#ref=rss)
+### kind
+
+* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-staerkt-rechte-leiblicher-vaeter](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-staerkt-rechte-leiblicher-vaeter-a-b0e7066b-ba1b-4cbe-91af-496766963dd3#ref=rss)
+### autobahnen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/symptom-der-wirtschaftskrise-lkw-verkehr-auf-deutschen-autobahnen-schrumpft](https://www.spiegel.de/wirtschaft/unternehmen/symptom-der-wirtschaftskrise-lkw-verkehr-auf-deutschen-autobahnen-schrumpft-a-b1c0ce54-dfa2-4e6d-94a2-2e13ae05a716#ref=rss)
+### eurovision
+
+* [https://www.spiegel.de/kultur/eurovision-song-contest-boehmermann-und-schulz-kommentieren-wieder-fuer-oesterreich](https://www.spiegel.de/kultur/eurovision-song-contest-boehmermann-und-schulz-kommentieren-wieder-fuer-oesterreich-a-7d365ddd-be73-4c97-a3d6-733fe4d5360a#ref=rss)
+### song
+
+* [https://www.spiegel.de/kultur/eurovision-song-contest-boehmermann-und-schulz-kommentieren-wieder-fuer-oesterreich](https://www.spiegel.de/kultur/eurovision-song-contest-boehmermann-und-schulz-kommentieren-wieder-fuer-oesterreich-a-7d365ddd-be73-4c97-a3d6-733fe4d5360a#ref=rss)
+### contest
+
+* [https://www.spiegel.de/kultur/eurovision-song-contest-boehmermann-und-schulz-kommentieren-wieder-fuer-oesterreich](https://www.spiegel.de/kultur/eurovision-song-contest-boehmermann-und-schulz-kommentieren-wieder-fuer-oesterreich-a-7d365ddd-be73-4c97-a3d6-733fe4d5360a#ref=rss)
+### jan
+
+* [https://www.spiegel.de/kultur/eurovision-song-contest-boehmermann-und-schulz-kommentieren-wieder-fuer-oesterreich](https://www.spiegel.de/kultur/eurovision-song-contest-boehmermann-und-schulz-kommentieren-wieder-fuer-oesterreich-a-7d365ddd-be73-4c97-a3d6-733fe4d5360a#ref=rss)
+### böhmermann
+
+* [https://www.spiegel.de/kultur/eurovision-song-contest-boehmermann-und-schulz-kommentieren-wieder-fuer-oesterreich](https://www.spiegel.de/kultur/eurovision-song-contest-boehmermann-und-schulz-kommentieren-wieder-fuer-oesterreich-a-7d365ddd-be73-4c97-a3d6-733fe4d5360a#ref=rss)
+### olli
+
+* [https://www.spiegel.de/kultur/eurovision-song-contest-boehmermann-und-schulz-kommentieren-wieder-fuer-oesterreich](https://www.spiegel.de/kultur/eurovision-song-contest-boehmermann-und-schulz-kommentieren-wieder-fuer-oesterreich-a-7d365ddd-be73-4c97-a3d6-733fe4d5360a#ref=rss)
+### schulz
+
+* [https://www.spiegel.de/kultur/eurovision-song-contest-boehmermann-und-schulz-kommentieren-wieder-fuer-oesterreich](https://www.spiegel.de/kultur/eurovision-song-contest-boehmermann-und-schulz-kommentieren-wieder-fuer-oesterreich-a-7d365ddd-be73-4c97-a3d6-733fe4d5360a#ref=rss)
+### svenchristian
+
+* [https://www.spiegel.de/politik/deutschland/sven-christian-kindler-gruene-gleichberechtigte-elternschaft-und-spitzenpolitik-sind-nicht-vereinbar](https://www.spiegel.de/politik/deutschland/sven-christian-kindler-gruene-gleichberechtigte-elternschaft-und-spitzenpolitik-sind-nicht-vereinbar-a-3cb12e35-9651-4201-a482-360d71a90b82#ref=rss)
+### kindler
+
+* [https://www.spiegel.de/politik/deutschland/sven-christian-kindler-gruene-gleichberechtigte-elternschaft-und-spitzenpolitik-sind-nicht-vereinbar](https://www.spiegel.de/politik/deutschland/sven-christian-kindler-gruene-gleichberechtigte-elternschaft-und-spitzenpolitik-sind-nicht-vereinbar-a-3cb12e35-9651-4201-a482-360d71a90b82#ref=rss)
+### vereinbar
+
+* [https://www.spiegel.de/politik/deutschland/sven-christian-kindler-gruene-gleichberechtigte-elternschaft-und-spitzenpolitik-sind-nicht-vereinbar](https://www.spiegel.de/politik/deutschland/sven-christian-kindler-gruene-gleichberechtigte-elternschaft-und-spitzenpolitik-sind-nicht-vereinbar-a-3cb12e35-9651-4201-a482-360d71a90b82#ref=rss)
+### polen
+
+* [https://www.spiegel.de/ausland/polen-nach-den-kommunalwahlen-ist-das-land-endgueltig-zurueck-in-europa](https://www.spiegel.de/ausland/polen-nach-den-kommunalwahlen-ist-das-land-endgueltig-zurueck-in-europa-a-7bcf8383-19dc-4b89-a752-53455a8824bd#ref=rss)
+### kommunalwahlen
+
+* [https://www.spiegel.de/ausland/polen-nach-den-kommunalwahlen-ist-das-land-endgueltig-zurueck-in-europa](https://www.spiegel.de/ausland/polen-nach-den-kommunalwahlen-ist-das-land-endgueltig-zurueck-in-europa-a-7bcf8383-19dc-4b89-a752-53455a8824bd#ref=rss)
+### land
+
+* [https://www.spiegel.de/ausland/polen-nach-den-kommunalwahlen-ist-das-land-endgueltig-zurueck-in-europa](https://www.spiegel.de/ausland/polen-nach-den-kommunalwahlen-ist-das-land-endgueltig-zurueck-in-europa-a-7bcf8383-19dc-4b89-a752-53455a8824bd#ref=rss)
+### europa
+
+* [https://www.spiegel.de/ausland/polen-nach-den-kommunalwahlen-ist-das-land-endgueltig-zurueck-in-europa](https://www.spiegel.de/ausland/polen-nach-den-kommunalwahlen-ist-das-land-endgueltig-zurueck-in-europa-a-7bcf8383-19dc-4b89-a752-53455a8824bd#ref=rss)
+### wenig
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/klimaschutz-ziele-grosser-konzerne-sind-offenbar-unzureichend](https://www.spiegel.de/wirtschaft/unternehmen/klimaschutz-ziele-grosser-konzerne-sind-offenbar-unzureichend-a-2d0cfdc2-9219-4c3f-a2cf-20bda7ac6bfe#ref=rss)
 
