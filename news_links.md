@@ -4,320 +4,390 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
+### viele
 
-* [https://www.spiegel.de/ausland/russland-soll-mehr-als-50-ukrainische-kriegsgefangene-erschossen-haben](https://www.spiegel.de/ausland/russland-soll-mehr-als-50-ukrainische-kriegsgefangene-erschossen-haben-a-56d0b582-c0c4-46e3-a3eb-35ac880c576c#ref=rss)
-* [https://www.spiegel.de/politik/harald-burkart-afd-widerspricht-sich-im-fall-von-berliner-ju-vorsitzendem](https://www.spiegel.de/politik/harald-burkart-afd-widerspricht-sich-im-fall-von-berliner-ju-vorsitzendem-a-389cb8f4-589a-4d99-854c-b7df154b5537#ref=rss)
-* [https://www.spiegel.de/gesundheit/studie-zu-aggressionsbewaeltigung-in-zwei-schritten-zu-mehr-seelenfrieden-mit-dem-japanischen-wutzettel-trick](https://www.spiegel.de/gesundheit/studie-zu-aggressionsbewaeltigung-in-zwei-schritten-zu-mehr-seelenfrieden-mit-dem-japanischen-wutzettel-trick-a-e769baef-1dba-4b87-bea2-5fae8d7975eb#ref=rss)
-* [https://www.spiegel.de/ausland/schweiz-schweizerische-volkspartei-evp-fordert-austritt-aus-europarat](https://www.spiegel.de/ausland/schweiz-schweizerische-volkspartei-evp-fordert-austritt-aus-europarat-a-2cfa737d-0cff-497f-9b58-590d19f84d9b#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/gewalt-an-schulen-rund-die-haelfte-der-viertklaessler-von-ausgrenzung-und-gewalt-betroffen](https://www.spiegel.de/panorama/bildung/gewalt-an-schulen-rund-die-haelfte-der-viertklaessler-von-ausgrenzung-und-gewalt-betroffen-a-59016183-2746-439f-958f-933b36ff4d7b#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/harald-burkart-afd-widerspricht-sich-im-fall-von-berliner-ju-vorsitzendem](https://www.spiegel.de/politik/harald-burkart-afd-widerspricht-sich-im-fall-von-berliner-ju-vorsitzendem-a-389cb8f4-589a-4d99-854c-b7df154b5537#ref=rss)
-* [https://www.spiegel.de/ausland/berlin-keine-einladungen-fuer-afd-beim-bundespresseball](https://www.spiegel.de/ausland/berlin-keine-einladungen-fuer-afd-beim-bundespresseball-a-06691b98-0e25-47bf-8c29-15fa4319a3ff#ref=rss)
-### schweiz
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-urteil-zum-klimaschutz-gegen-die-schweiz-hoellenjob-politik-ukrainehilfe-der-usa](https://www.spiegel.de/politik/deutschland/news-des-tages-urteil-zum-klimaschutz-gegen-die-schweiz-hoellenjob-politik-ukrainehilfe-der-usa-a-6465b32b-32cf-4a75-a200-f43f51b9db77#ref=rss)
-* [https://www.spiegel.de/ausland/schweiz-schweizerische-volkspartei-evp-fordert-austritt-aus-europarat](https://www.spiegel.de/ausland/schweiz-schweizerische-volkspartei-evp-fordert-austritt-aus-europarat-a-2cfa737d-0cff-497f-9b58-590d19f84d9b#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/auto/smart-plant-neuen-zweisitzer-mit-doppelter-reichweite](https://www.spiegel.de/auto/smart-plant-neuen-zweisitzer-mit-doppelter-reichweite-a-17f62f11-def5-42bf-856e-9b128d950e17#ref=rss)
-* [https://www.spiegel.de/gesundheit/studie-zu-aggressionsbewaeltigung-in-zwei-schritten-zu-mehr-seelenfrieden-mit-dem-japanischen-wutzettel-trick](https://www.spiegel.de/gesundheit/studie-zu-aggressionsbewaeltigung-in-zwei-schritten-zu-mehr-seelenfrieden-mit-dem-japanischen-wutzettel-trick-a-e769baef-1dba-4b87-bea2-5fae8d7975eb#ref=rss)
-* [https://www.spiegel.de/ausland/armenien-und-aserbaidschan-warum-die-kriegsgefahr-weiter-steigt](https://www.spiegel.de/ausland/armenien-und-aserbaidschan-warum-die-kriegsgefahr-weiter-steigt-a-7ad1b41f-0460-4203-a9c5-fbb44c1dbed7#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-trainer-headhunter-wir-haben-fuer-unsere-kunden-schattenlisten-erstellt](https://www.spiegel.de/sport/fussball/fussball-trainer-headhunter-wir-haben-fuer-unsere-kunden-schattenlisten-erstellt-a-cca36a92-6ec4-441b-8b8e-93485a9e64a4#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/ausland/gaza-was-eine-entscheidung-des-igh-gegen-deutschland-bedeuten-wuerde](https://www.spiegel.de/ausland/gaza-was-eine-entscheidung-des-igh-gegen-deutschland-bedeuten-wuerde-a-c5c62d92-2c83-46fe-9891-ef9c2f7c89d3#ref=rss)
-* [https://www.spiegel.de/ausland/armenien-und-aserbaidschan-warum-die-kriegsgefahr-weiter-steigt](https://www.spiegel.de/ausland/armenien-und-aserbaidschan-warum-die-kriegsgefahr-weiter-steigt-a-7ad1b41f-0460-4203-a9c5-fbb44c1dbed7#ref=rss)
-* [https://www.spiegel.de/kultur/helen-fares-ex-swr-moderatorin-verteidigt-ihre-bds-posts](https://www.spiegel.de/kultur/helen-fares-ex-swr-moderatorin-verteidigt-ihre-bds-posts-a-97ea7eff-b367-49e9-ba62-7d0acb942931#ref=rss)
-### ukrainische
-
-* [https://www.spiegel.de/ausland/russland-soll-mehr-als-50-ukrainische-kriegsgefangene-erschossen-haben](https://www.spiegel.de/ausland/russland-soll-mehr-als-50-ukrainische-kriegsgefangene-erschossen-haben-a-56d0b582-c0c4-46e3-a3eb-35ac880c576c#ref=rss)
-### erschossen
-
-* [https://www.spiegel.de/ausland/russland-soll-mehr-als-50-ukrainische-kriegsgefangene-erschossen-haben](https://www.spiegel.de/ausland/russland-soll-mehr-als-50-ukrainische-kriegsgefangene-erschossen-haben-a-56d0b582-c0c4-46e3-a3eb-35ac880c576c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/unterschneidheim-unbekannter-erschiesst-offenbar-biber](https://www.spiegel.de/panorama/justiz/unterschneidheim-unbekannter-erschiesst-offenbar-biber-a-e54cfd2f-b6c7-48ac-a38d-af94c353fdd7#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wirtschaft/grundsteuer-fdp-chef-christian-lindner-lehnt-bundesweite-aenderung-ab](https://www.spiegel.de/wirtschaft/grundsteuer-fdp-chef-christian-lindner-lehnt-bundesweite-aenderung-ab-a-be0314ee-72fb-46b4-b23d-184ede86c753#ref=rss)
-* [https://www.spiegel.de/auto/smart-plant-neuen-zweisitzer-mit-doppelter-reichweite](https://www.spiegel.de/auto/smart-plant-neuen-zweisitzer-mit-doppelter-reichweite-a-17f62f11-def5-42bf-856e-9b128d950e17#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klimaklagen-richter-entscheiden-nach-veralteten-regeln-das-muss-sich-endlich-aendern-kommentar](https://www.spiegel.de/wissenschaft/natur/klimaklagen-richter-entscheiden-nach-veralteten-regeln-das-muss-sich-endlich-aendern-kommentar-a-d3ae0807-1251-47a8-8885-ed34dde8a9fe#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/wirtschaft/grundsteuer-fdp-chef-christian-lindner-lehnt-bundesweite-aenderung-ab](https://www.spiegel.de/wirtschaft/grundsteuer-fdp-chef-christian-lindner-lehnt-bundesweite-aenderung-ab-a-be0314ee-72fb-46b4-b23d-184ede86c753#ref=rss)
-* [https://www.spiegel.de/panorama/italien-mehrere-menschen-bei-explosion-an-stausee-ums-leben-gekommen](https://www.spiegel.de/panorama/italien-mehrere-menschen-bei-explosion-an-stausee-ums-leben-gekommen-a-43577dad-e15c-41c0-9378-37646ebc6e71#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mallorca-vier-touristen-wegen-mutmasslicher-gruppenvergewaltigung-festgenommen](https://www.spiegel.de/panorama/justiz/mallorca-vier-touristen-wegen-mutmasslicher-gruppenvergewaltigung-festgenommen-a-1812da21-8d86-41b4-83cb-86dbd7610876#ref=rss)
-### urteil
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-urteil-zum-klimaschutz-gegen-die-schweiz-hoellenjob-politik-ukrainehilfe-der-usa](https://www.spiegel.de/politik/deutschland/news-des-tages-urteil-zum-klimaschutz-gegen-die-schweiz-hoellenjob-politik-ukrainehilfe-der-usa-a-6465b32b-32cf-4a75-a200-f43f51b9db77#ref=rss)
-* [https://www.spiegel.de/ausland/schweiz-schweizerische-volkspartei-evp-fordert-austritt-aus-europarat](https://www.spiegel.de/ausland/schweiz-schweizerische-volkspartei-evp-fordert-austritt-aus-europarat-a-2cfa737d-0cff-497f-9b58-590d19f84d9b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klimaklagen-richter-entscheiden-nach-veralteten-regeln-das-muss-sich-endlich-aendern-kommentar](https://www.spiegel.de/wissenschaft/natur/klimaklagen-richter-entscheiden-nach-veralteten-regeln-das-muss-sich-endlich-aendern-kommentar-a-d3ae0807-1251-47a8-8885-ed34dde8a9fe#ref=rss)
-### politik
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-urteil-zum-klimaschutz-gegen-die-schweiz-hoellenjob-politik-ukrainehilfe-der-usa](https://www.spiegel.de/politik/deutschland/news-des-tages-urteil-zum-klimaschutz-gegen-die-schweiz-hoellenjob-politik-ukrainehilfe-der-usa-a-6465b32b-32cf-4a75-a200-f43f51b9db77#ref=rss)
-* [https://www.spiegel.de/wirtschaft/hubertus-heil-wie-der-arbeitsminister-den-ukraine-krieg-fuer-seine-zwecke-nutzt](https://www.spiegel.de/wirtschaft/hubertus-heil-wie-der-arbeitsminister-den-ukraine-krieg-fuer-seine-zwecke-nutzt-a-2bf56d14-42b7-4365-aa71-ff425a9fe3ca#ref=rss)
-### gewalt
-
-* [https://www.spiegel.de/panorama/bildung/gewalt-an-schulen-rund-die-haelfte-der-viertklaessler-von-ausgrenzung-und-gewalt-betroffen](https://www.spiegel.de/panorama/bildung/gewalt-an-schulen-rund-die-haelfte-der-viertklaessler-von-ausgrenzung-und-gewalt-betroffen-a-59016183-2746-439f-958f-933b36ff4d7b#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/ausland/gaza-was-eine-entscheidung-des-igh-gegen-deutschland-bedeuten-wuerde](https://www.spiegel.de/ausland/gaza-was-eine-entscheidung-des-igh-gegen-deutschland-bedeuten-wuerde-a-c5c62d92-2c83-46fe-9891-ef9c2f7c89d3#ref=rss)
-### gerichtshof
-
-* [https://www.spiegel.de/ausland/gaza-was-eine-entscheidung-des-igh-gegen-deutschland-bedeuten-wuerde](https://www.spiegel.de/ausland/gaza-was-eine-entscheidung-des-igh-gegen-deutschland-bedeuten-wuerde-a-c5c62d92-2c83-46fe-9891-ef9c2f7c89d3#ref=rss)
-* [https://www.spiegel.de/ausland/schweiz-schweizerische-volkspartei-evp-fordert-austritt-aus-europarat](https://www.spiegel.de/ausland/schweiz-schweizerische-volkspartei-evp-fordert-austritt-aus-europarat-a-2cfa737d-0cff-497f-9b58-590d19f84d9b#ref=rss)
-### droht
-
-* [https://www.spiegel.de/ausland/gaza-was-eine-entscheidung-des-igh-gegen-deutschland-bedeuten-wuerde](https://www.spiegel.de/ausland/gaza-was-eine-entscheidung-des-igh-gegen-deutschland-bedeuten-wuerde-a-c5c62d92-2c83-46fe-9891-ef9c2f7c89d3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-ein-kaeufer-ist-gefunden-wer-ist-das-und-wie-geht-es-weiter](https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-ein-kaeufer-ist-gefunden-wer-ist-das-und-wie-geht-es-weiter-a-bc6f20e3-5117-407d-8b7f-d64ffcba89a8#ref=rss)
-### 50
-
-* [https://www.spiegel.de/ausland/russland-soll-mehr-als-50-ukrainische-kriegsgefangene-erschossen-haben](https://www.spiegel.de/ausland/russland-soll-mehr-als-50-ukrainische-kriegsgefangene-erschossen-haben-a-56d0b582-c0c4-46e3-a3eb-35ac880c576c#ref=rss)
-### kriegsgefangene
-
-* [https://www.spiegel.de/ausland/russland-soll-mehr-als-50-ukrainische-kriegsgefangene-erschossen-haben](https://www.spiegel.de/ausland/russland-soll-mehr-als-50-ukrainische-kriegsgefangene-erschossen-haben-a-56d0b582-c0c4-46e3-a3eb-35ac880c576c#ref=rss)
-### angela
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-altkanzlerin-will-juergen-trittin-verabschieden](https://www.spiegel.de/politik/deutschland/angela-merkel-altkanzlerin-will-juergen-trittin-verabschieden-a-9a340ab0-92a8-46da-a9e9-90e5e1d1d8b6#ref=rss)
-### merkel
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-altkanzlerin-will-juergen-trittin-verabschieden](https://www.spiegel.de/politik/deutschland/angela-merkel-altkanzlerin-will-juergen-trittin-verabschieden-a-9a340ab0-92a8-46da-a9e9-90e5e1d1d8b6#ref=rss)
-### altkanzlerin
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-altkanzlerin-will-juergen-trittin-verabschieden](https://www.spiegel.de/politik/deutschland/angela-merkel-altkanzlerin-will-juergen-trittin-verabschieden-a-9a340ab0-92a8-46da-a9e9-90e5e1d1d8b6#ref=rss)
-### jürgen
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-altkanzlerin-will-juergen-trittin-verabschieden](https://www.spiegel.de/politik/deutschland/angela-merkel-altkanzlerin-will-juergen-trittin-verabschieden-a-9a340ab0-92a8-46da-a9e9-90e5e1d1d8b6#ref=rss)
-### trittin
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-altkanzlerin-will-juergen-trittin-verabschieden](https://www.spiegel.de/politik/deutschland/angela-merkel-altkanzlerin-will-juergen-trittin-verabschieden-a-9a340ab0-92a8-46da-a9e9-90e5e1d1d8b6#ref=rss)
-### unterschneidheim
-
-* [https://www.spiegel.de/panorama/justiz/unterschneidheim-unbekannter-erschiesst-offenbar-biber](https://www.spiegel.de/panorama/justiz/unterschneidheim-unbekannter-erschiesst-offenbar-biber-a-e54cfd2f-b6c7-48ac-a38d-af94c353fdd7#ref=rss)
-### biber
-
-* [https://www.spiegel.de/panorama/justiz/unterschneidheim-unbekannter-erschiesst-offenbar-biber](https://www.spiegel.de/panorama/justiz/unterschneidheim-unbekannter-erschiesst-offenbar-biber-a-e54cfd2f-b6c7-48ac-a38d-af94c353fdd7#ref=rss)
-### denn
-
-* [https://www.spiegel.de/panorama/justiz/unterschneidheim-unbekannter-erschiesst-offenbar-biber](https://www.spiegel.de/panorama/justiz/unterschneidheim-unbekannter-erschiesst-offenbar-biber-a-e54cfd2f-b6c7-48ac-a38d-af94c353fdd7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/hubertus-heil-wie-der-arbeitsminister-den-ukraine-krieg-fuer-seine-zwecke-nutzt](https://www.spiegel.de/wirtschaft/hubertus-heil-wie-der-arbeitsminister-den-ukraine-krieg-fuer-seine-zwecke-nutzt-a-2bf56d14-42b7-4365-aa71-ff425a9fe3ca#ref=rss)
-### suchen
-
-* [https://www.spiegel.de/panorama/justiz/unterschneidheim-unbekannter-erschiesst-offenbar-biber](https://www.spiegel.de/panorama/justiz/unterschneidheim-unbekannter-erschiesst-offenbar-biber-a-e54cfd2f-b6c7-48ac-a38d-af94c353fdd7#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-trainer-headhunter-wir-haben-fuer-unsere-kunden-schattenlisten-erstellt](https://www.spiegel.de/sport/fussball/fussball-trainer-headhunter-wir-haben-fuer-unsere-kunden-schattenlisten-erstellt-a-cca36a92-6ec4-441b-8b8e-93485a9e64a4#ref=rss)
-### aaron
-
-* [https://www.spiegel.de/sport/tennis/tennis-spanischer-spieler-aaron-cortes-15-jahre-wegen-spielmanipulation-gesperrt](https://www.spiegel.de/sport/tennis/tennis-spanischer-spieler-aaron-cortes-15-jahre-wegen-spielmanipulation-gesperrt-a-83a5b358-622e-453c-b581-d7e6227a814b#ref=rss)
-### cortes
-
-* [https://www.spiegel.de/sport/tennis/tennis-spanischer-spieler-aaron-cortes-15-jahre-wegen-spielmanipulation-gesperrt](https://www.spiegel.de/sport/tennis/tennis-spanischer-spieler-aaron-cortes-15-jahre-wegen-spielmanipulation-gesperrt-a-83a5b358-622e-453c-b581-d7e6227a814b#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/sport/tennis/tennis-spanischer-spieler-aaron-cortes-15-jahre-wegen-spielmanipulation-gesperrt](https://www.spiegel.de/sport/tennis/tennis-spanischer-spieler-aaron-cortes-15-jahre-wegen-spielmanipulation-gesperrt-a-83a5b358-622e-453c-b581-d7e6227a814b#ref=rss)
-* [https://www.spiegel.de/politik/harald-burkart-afd-widerspricht-sich-im-fall-von-berliner-ju-vorsitzendem](https://www.spiegel.de/politik/harald-burkart-afd-widerspricht-sich-im-fall-von-berliner-ju-vorsitzendem-a-389cb8f4-589a-4d99-854c-b7df154b5537#ref=rss)
-### spielmanipulation
-
-* [https://www.spiegel.de/sport/tennis/tennis-spanischer-spieler-aaron-cortes-15-jahre-wegen-spielmanipulation-gesperrt](https://www.spiegel.de/sport/tennis/tennis-spanischer-spieler-aaron-cortes-15-jahre-wegen-spielmanipulation-gesperrt-a-83a5b358-622e-453c-b581-d7e6227a814b#ref=rss)
-### andere
-
-* [https://www.spiegel.de/sport/tennis/tennis-spanischer-spieler-aaron-cortes-15-jahre-wegen-spielmanipulation-gesperrt](https://www.spiegel.de/sport/tennis/tennis-spanischer-spieler-aaron-cortes-15-jahre-wegen-spielmanipulation-gesperrt-a-83a5b358-622e-453c-b581-d7e6227a814b#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/gewalt-an-schulen-rund-die-haelfte-der-viertklaessler-von-ausgrenzung-und-gewalt-betroffen](https://www.spiegel.de/panorama/bildung/gewalt-an-schulen-rund-die-haelfte-der-viertklaessler-von-ausgrenzung-und-gewalt-betroffen-a-59016183-2746-439f-958f-933b36ff4d7b#ref=rss)
-### grundsteuer
-
-* [https://www.spiegel.de/wirtschaft/grundsteuer-fdp-chef-christian-lindner-lehnt-bundesweite-aenderung-ab](https://www.spiegel.de/wirtschaft/grundsteuer-fdp-chef-christian-lindner-lehnt-bundesweite-aenderung-ab-a-be0314ee-72fb-46b4-b23d-184ede86c753#ref=rss)
-### vielen
-
-* [https://www.spiegel.de/wirtschaft/grundsteuer-fdp-chef-christian-lindner-lehnt-bundesweite-aenderung-ab](https://www.spiegel.de/wirtschaft/grundsteuer-fdp-chef-christian-lindner-lehnt-bundesweite-aenderung-ab-a-be0314ee-72fb-46b4-b23d-184ede86c753#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-ein-kaeufer-ist-gefunden-wer-ist-das-und-wie-geht-es-weiter](https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-ein-kaeufer-ist-gefunden-wer-ist-das-und-wie-geht-es-weiter-a-bc6f20e3-5117-407d-8b7f-d64ffcba89a8#ref=rss)
-### teuer
-
-* [https://www.spiegel.de/wirtschaft/grundsteuer-fdp-chef-christian-lindner-lehnt-bundesweite-aenderung-ab](https://www.spiegel.de/wirtschaft/grundsteuer-fdp-chef-christian-lindner-lehnt-bundesweite-aenderung-ab-a-be0314ee-72fb-46b4-b23d-184ede86c753#ref=rss)
-* [https://www.spiegel.de/wirtschaft/autoversicherung-der-huk-coburg-schreibt-tiefrote-zahlen-praemien-steigen](https://www.spiegel.de/wirtschaft/autoversicherung-der-huk-coburg-schreibt-tiefrote-zahlen-praemien-steigen-a-9580f8b9-f2ac-4dc1-a172-ed2ce0fb84cd#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/wirtschaft/grundsteuer-fdp-chef-christian-lindner-lehnt-bundesweite-aenderung-ab](https://www.spiegel.de/wirtschaft/grundsteuer-fdp-chef-christian-lindner-lehnt-bundesweite-aenderung-ab-a-be0314ee-72fb-46b4-b23d-184ede86c753#ref=rss)
-* [https://www.spiegel.de/politik/harald-burkart-afd-widerspricht-sich-im-fall-von-berliner-ju-vorsitzendem](https://www.spiegel.de/politik/harald-burkart-afd-widerspricht-sich-im-fall-von-berliner-ju-vorsitzendem-a-389cb8f4-589a-4d99-854c-b7df154b5537#ref=rss)
+* [https://www.spiegel.de/ausland/frauen-bei-den-kommunalwahlen-in-der-tuerkei-so-viele-buergermeisterinnen-wie-nie](https://www.spiegel.de/ausland/frauen-bei-den-kommunalwahlen-in-der-tuerkei-so-viele-buergermeisterinnen-wie-nie-a-52d27023-f61d-4331-8275-bfd9fa7b34fb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/olaf-scholz-in-china-hoffnung-auf-fairen-wettbewerb-fuer-deutsche-unternehmen](https://www.spiegel.de/wirtschaft/olaf-scholz-in-china-hoffnung-auf-fairen-wettbewerb-fuer-deutsche-unternehmen-a-cae086d4-1b59-4f60-b728-6ba30d68b774#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/immobilien-niedrige-preise-gesunkene-zinsen-warum-jetzt-ein-guter-zeitpunkt-fuer-den-hauskauf-ist](https://www.spiegel.de/wirtschaft/service/immobilien-niedrige-preise-gesunkene-zinsen-warum-jetzt-ein-guter-zeitpunkt-fuer-den-hauskauf-ist-a-cd13b25e-8a72-4d61-b7b6-fa41a48260ac#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-fuehlt-sich-benachteiligt-schiedsrichter-verwehrt-elfmeter](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-fuehlt-sich-benachteiligt-schiedsrichter-verwehrt-elfmeter-a-8cf1cecd-0041-4810-8a21-d00e4959d9b7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/wie-viele-galeria-filialen-haben-eine-zukunft](https://www.spiegel.de/wirtschaft/unternehmen/wie-viele-galeria-filialen-haben-eine-zukunft-a-b6e95bf4-e760-4247-82b6-dc71f6b51330#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/panorama/italien-mehrere-menschen-bei-explosion-an-stausee-ums-leben-gekommen](https://www.spiegel.de/panorama/italien-mehrere-menschen-bei-explosion-an-stausee-ums-leben-gekommen-a-43577dad-e15c-41c0-9378-37646ebc6e71#ref=rss)
-### harald
+* [https://www.spiegel.de/wissenschaft/natur/menschen-hielten-wohl-fuechse-statt-hunde-als-haustier](https://www.spiegel.de/wissenschaft/natur/menschen-hielten-wohl-fuechse-statt-hunde-als-haustier-a-d2a2849d-e3ea-4cfd-adf1-2326acf79e52#ref=rss)
+* [https://www.spiegel.de/panorama/hongkong-mehrere-tote-und-dutzende-verletzte-nach-hochhausbrand](https://www.spiegel.de/panorama/hongkong-mehrere-tote-und-dutzende-verletzte-nach-hochhausbrand-a-d4eb839f-f5ee-45a5-988e-87758933d0bb#ref=rss)
+* [https://www.spiegel.de/wissenschaft/deutschlands-duestere-geheiminisse-die-geschichte-der-zahnprothesen](https://www.spiegel.de/wissenschaft/deutschlands-duestere-geheiminisse-die-geschichte-der-zahnprothesen-a-f958a333-17b5-4083-821c-5130ce4a1d66#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/immobilien-niedrige-preise-gesunkene-zinsen-warum-jetzt-ein-guter-zeitpunkt-fuer-den-hauskauf-ist](https://www.spiegel.de/wirtschaft/service/immobilien-niedrige-preise-gesunkene-zinsen-warum-jetzt-ein-guter-zeitpunkt-fuer-den-hauskauf-ist-a-cd13b25e-8a72-4d61-b7b6-fa41a48260ac#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/gehen-wertvorstellungen-global-immer-weiter-auseinander-oder-naehern-sie-sich-an](https://www.spiegel.de/wissenschaft/mensch/gehen-wertvorstellungen-global-immer-weiter-auseinander-oder-naehern-sie-sich-an-a-4676ba3e-260f-47f7-9181-faf0d88eb4df#ref=rss)
+### waren
 
-* [https://www.spiegel.de/politik/harald-burkart-afd-widerspricht-sich-im-fall-von-berliner-ju-vorsitzendem](https://www.spiegel.de/politik/harald-burkart-afd-widerspricht-sich-im-fall-von-berliner-ju-vorsitzendem-a-389cb8f4-589a-4d99-854c-b7df154b5537#ref=rss)
-### burkart
+* [https://www.spiegel.de/ausland/frauen-bei-den-kommunalwahlen-in-der-tuerkei-so-viele-buergermeisterinnen-wie-nie](https://www.spiegel.de/ausland/frauen-bei-den-kommunalwahlen-in-der-tuerkei-so-viele-buergermeisterinnen-wie-nie-a-52d27023-f61d-4331-8275-bfd9fa7b34fb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jugendkriminalitaet-cdu-und-csu-fordern-debatte-ueber-senkung-des-strafmuendigkeitsalters](https://www.spiegel.de/politik/deutschland/jugendkriminalitaet-cdu-und-csu-fordern-debatte-ueber-senkung-des-strafmuendigkeitsalters-a-58e0d1f0-7e2d-4ae8-bca2-21bd7ca7ec9e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/deutschlands-duestere-geheiminisse-die-geschichte-der-zahnprothesen](https://www.spiegel.de/wissenschaft/deutschlands-duestere-geheiminisse-die-geschichte-der-zahnprothesen-a-f958a333-17b5-4083-821c-5130ce4a1d66#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/immobilien-niedrige-preise-gesunkene-zinsen-warum-jetzt-ein-guter-zeitpunkt-fuer-den-hauskauf-ist](https://www.spiegel.de/wirtschaft/service/immobilien-niedrige-preise-gesunkene-zinsen-warum-jetzt-ein-guter-zeitpunkt-fuer-den-hauskauf-ist-a-cd13b25e-8a72-4d61-b7b6-fa41a48260ac#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-fuehlt-sich-benachteiligt-schiedsrichter-verwehrt-elfmeter](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-fuehlt-sich-benachteiligt-schiedsrichter-verwehrt-elfmeter-a-8cf1cecd-0041-4810-8a21-d00e4959d9b7#ref=rss)
+### fc
 
-* [https://www.spiegel.de/politik/harald-burkart-afd-widerspricht-sich-im-fall-von-berliner-ju-vorsitzendem](https://www.spiegel.de/politik/harald-burkart-afd-widerspricht-sich-im-fall-von-berliner-ju-vorsitzendem-a-389cb8f4-589a-4d99-854c-b7df154b5537#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-starker-fc-bayern-muenchen-holt-remis-beim-fc-arsenal-zweckverliebt](https://www.spiegel.de/sport/fussball/champions-league-starker-fc-bayern-muenchen-holt-remis-beim-fc-arsenal-zweckverliebt-a-acea4519-3c55-4dce-867d-36c9f6279747#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-fuehlt-sich-benachteiligt-schiedsrichter-verwehrt-elfmeter](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-fuehlt-sich-benachteiligt-schiedsrichter-verwehrt-elfmeter-a-8cf1cecd-0041-4810-8a21-d00e4959d9b7#ref=rss)
 ### laut
 
-* [https://www.spiegel.de/politik/harald-burkart-afd-widerspricht-sich-im-fall-von-berliner-ju-vorsitzendem](https://www.spiegel.de/politik/harald-burkart-afd-widerspricht-sich-im-fall-von-berliner-ju-vorsitzendem-a-389cb8f4-589a-4d99-854c-b7df154b5537#ref=rss)
-* [https://www.spiegel.de/gesundheit/studie-zu-aggressionsbewaeltigung-in-zwei-schritten-zu-mehr-seelenfrieden-mit-dem-japanischen-wutzettel-trick](https://www.spiegel.de/gesundheit/studie-zu-aggressionsbewaeltigung-in-zwei-schritten-zu-mehr-seelenfrieden-mit-dem-japanischen-wutzettel-trick-a-e769baef-1dba-4b87-bea2-5fae8d7975eb#ref=rss)
-### beobachtet
+* [https://www.spiegel.de/kultur/tv/game-of-thrones-fortsetzung-mit-jon-snow-laut-kit-harington-auf-eis-gelegt](https://www.spiegel.de/kultur/tv/game-of-thrones-fortsetzung-mit-jon-snow-laut-kit-harington-auf-eis-gelegt-a-300b6c94-c02b-4f1e-a93f-baed261150dd#ref=rss)
+* [https://www.spiegel.de/panorama/erzbistum-koeln-weist-verantwortung-von-sich-weil-priester-pflegetochter-zu-hause-missbrauchte](https://www.spiegel.de/panorama/erzbistum-koeln-weist-verantwortung-von-sich-weil-priester-pflegetochter-zu-hause-missbrauchte-a-43c7f299-5078-4b40-8733-d8eb7571b75c#ref=rss)
+* [https://www.spiegel.de/auto/elektroautos-warum-die-meisten-autofahrer-kleine-akkus-waehlen-sollten](https://www.spiegel.de/auto/elektroautos-warum-die-meisten-autofahrer-kleine-akkus-waehlen-sollten-a-6221ea27-d1b6-4d7b-a1b1-1f3c1e3e3c01#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/hersteller-kappen-rabatte-fuer-elektroautos](https://www.spiegel.de/wirtschaft/unternehmen/hersteller-kappen-rabatte-fuer-elektroautos-a-db9d698e-488f-44c0-b7a4-d08c99320975#ref=rss)
+### wohl
 
-* [https://www.spiegel.de/wissenschaft/natur/sonnenfinsternis-105-jaehriger-beobachtet-seine-13-eklipse](https://www.spiegel.de/wissenschaft/natur/sonnenfinsternis-105-jaehriger-beobachtet-seine-13-eklipse-a-3a052ade-44ed-4f55-984e-1deb0a2ccf48#ref=rss)
-### 13
+* [https://www.spiegel.de/wissenschaft/natur/menschen-hielten-wohl-fuechse-statt-hunde-als-haustier](https://www.spiegel.de/wissenschaft/natur/menschen-hielten-wohl-fuechse-statt-hunde-als-haustier-a-d2a2849d-e3ea-4cfd-adf1-2326acf79e52#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-starker-fc-bayern-muenchen-holt-remis-beim-fc-arsenal-zweckverliebt](https://www.spiegel.de/sport/fussball/champions-league-starker-fc-bayern-muenchen-holt-remis-beim-fc-arsenal-zweckverliebt-a-acea4519-3c55-4dce-867d-36c9f6279747#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/wie-viele-galeria-filialen-haben-eine-zukunft](https://www.spiegel.de/wirtschaft/unternehmen/wie-viele-galeria-filialen-haben-eine-zukunft-a-b6e95bf4-e760-4247-82b6-dc71f6b51330#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/wissenschaft/natur/sonnenfinsternis-105-jaehriger-beobachtet-seine-13-eklipse](https://www.spiegel.de/wissenschaft/natur/sonnenfinsternis-105-jaehriger-beobachtet-seine-13-eklipse-a-3a052ade-44ed-4f55-984e-1deb0a2ccf48#ref=rss)
-### eklipse
+* [https://www.spiegel.de/wissenschaft/natur/menschen-hielten-wohl-fuechse-statt-hunde-als-haustier](https://www.spiegel.de/wissenschaft/natur/menschen-hielten-wohl-fuechse-statt-hunde-als-haustier-a-d2a2849d-e3ea-4cfd-adf1-2326acf79e52#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympische-spiele-premiere-in-paris-leichtathleten-erhalten-erstmals-geldpraemie-fuer-gold](https://www.spiegel.de/sport/olympia/olympische-spiele-premiere-in-paris-leichtathleten-erhalten-erstmals-geldpraemie-fuer-gold-a-4a1b7613-b9fc-46b9-9638-b0b76f410011#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/gehen-wertvorstellungen-global-immer-weiter-auseinander-oder-naehern-sie-sich-an](https://www.spiegel.de/wissenschaft/mensch/gehen-wertvorstellungen-global-immer-weiter-auseinander-oder-naehern-sie-sich-an-a-4676ba3e-260f-47f7-9181-faf0d88eb4df#ref=rss)
+### unter
 
-* [https://www.spiegel.de/wissenschaft/natur/sonnenfinsternis-105-jaehriger-beobachtet-seine-13-eklipse](https://www.spiegel.de/wissenschaft/natur/sonnenfinsternis-105-jaehriger-beobachtet-seine-13-eklipse-a-3a052ade-44ed-4f55-984e-1deb0a2ccf48#ref=rss)
-### klimaschutz
+* [https://www.spiegel.de/sport/olympia/sport-und-krieg-ukrainische-sportler-verzichten-auf-teilnahme-an-russischen-freundschaftsspielen](https://www.spiegel.de/sport/olympia/sport-und-krieg-ukrainische-sportler-verzichten-auf-teilnahme-an-russischen-freundschaftsspielen-a-b606b137-0d6f-4476-a9c4-1a1ede7afe92#ref=rss)
+* [https://www.spiegel.de/ausland/russland-sanktionen-eu-gericht-hebt-sanktionsbeschluesse-gegen-russische-oligarchen-auf](https://www.spiegel.de/ausland/russland-sanktionen-eu-gericht-hebt-sanktionsbeschluesse-gegen-russische-oligarchen-auf-a-3793533c-b3f2-4eb2-b0bf-8885d0581a62#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jugendkriminalitaet-cdu-und-csu-fordern-debatte-ueber-senkung-des-strafmuendigkeitsalters](https://www.spiegel.de/politik/deutschland/jugendkriminalitaet-cdu-und-csu-fordern-debatte-ueber-senkung-des-strafmuendigkeitsalters-a-58e0d1f0-7e2d-4ae8-bca2-21bd7ca7ec9e#ref=rss)
+### of
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-urteil-zum-klimaschutz-gegen-die-schweiz-hoellenjob-politik-ukrainehilfe-der-usa](https://www.spiegel.de/politik/deutschland/news-des-tages-urteil-zum-klimaschutz-gegen-die-schweiz-hoellenjob-politik-ukrainehilfe-der-usa-a-6465b32b-32cf-4a75-a200-f43f51b9db77#ref=rss)
-* [https://www.spiegel.de/ausland/schweiz-schweizerische-volkspartei-evp-fordert-austritt-aus-europarat](https://www.spiegel.de/ausland/schweiz-schweizerische-volkspartei-evp-fordert-austritt-aus-europarat-a-2cfa737d-0cff-497f-9b58-590d19f84d9b#ref=rss)
-### menschenrechte
+* [https://www.spiegel.de/kultur/tv/game-of-thrones-fortsetzung-mit-jon-snow-laut-kit-harington-auf-eis-gelegt](https://www.spiegel.de/kultur/tv/game-of-thrones-fortsetzung-mit-jon-snow-laut-kit-harington-auf-eis-gelegt-a-300b6c94-c02b-4f1e-a93f-baed261150dd#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-urteil-zum-klimaschutz-gegen-die-schweiz-hoellenjob-politik-ukrainehilfe-der-usa](https://www.spiegel.de/politik/deutschland/news-des-tages-urteil-zum-klimaschutz-gegen-die-schweiz-hoellenjob-politik-ukrainehilfe-der-usa-a-6465b32b-32cf-4a75-a200-f43f51b9db77#ref=rss)
-* [https://www.spiegel.de/ausland/schweiz-schweizerische-volkspartei-evp-fordert-austritt-aus-europarat](https://www.spiegel.de/ausland/schweiz-schweizerische-volkspartei-evp-fordert-austritt-aus-europarat-a-2cfa737d-0cff-497f-9b58-590d19f84d9b#ref=rss)
-### ziehen
+* [https://www.spiegel.de/start/chili-crunch-oel-selbst-machen-fuer-zwei-euro-pro-glas](https://www.spiegel.de/start/chili-crunch-oel-selbst-machen-fuer-zwei-euro-pro-glas-a-1e1e520f-bc6f-4c19-957c-9540cf9cfd33#ref=rss)
+* [https://www.spiegel.de/panorama/holzminden-schulbus-die-vorfahrt-genommen-16-verletzte](https://www.spiegel.de/panorama/holzminden-schulbus-die-vorfahrt-genommen-16-verletzte-a-e13941ea-0caa-4898-b553-4be77a1440f1#ref=rss)
+* [https://www.spiegel.de/panorama/bodenwerder-zweijaehriges-kind-faellt-in-die-weser-und-stirbt](https://www.spiegel.de/panorama/bodenwerder-zweijaehriges-kind-faellt-in-die-weser-und-stirbt-a-06d72f69-870f-49a8-901e-125da7797b1f#ref=rss)
+### lange
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-urteil-zum-klimaschutz-gegen-die-schweiz-hoellenjob-politik-ukrainehilfe-der-usa](https://www.spiegel.de/politik/deutschland/news-des-tages-urteil-zum-klimaschutz-gegen-die-schweiz-hoellenjob-politik-ukrainehilfe-der-usa-a-6465b32b-32cf-4a75-a200-f43f51b9db77#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lng-terminal-vor-ruegen-umweltamt-genehmigt-betrieb-der-anlage](https://www.spiegel.de/wirtschaft/lng-terminal-vor-ruegen-umweltamt-genehmigt-betrieb-der-anlage-a-f7c376ae-9f0f-49c4-b6fa-7c24499f399d#ref=rss)
-### sylvester
-
-* [https://www.spiegel.de/kultur/tv/sylvester-stallone-soll-komparsen-am-set-von-tulsa-king-beleidigt-haben-castingagentur-kuendigt](https://www.spiegel.de/kultur/tv/sylvester-stallone-soll-komparsen-am-set-von-tulsa-king-beleidigt-haben-castingagentur-kuendigt-a-c246190a-60d9-47a7-82a0-d8d408a98917#ref=rss)
-### stallone
-
-* [https://www.spiegel.de/kultur/tv/sylvester-stallone-soll-komparsen-am-set-von-tulsa-king-beleidigt-haben-castingagentur-kuendigt](https://www.spiegel.de/kultur/tv/sylvester-stallone-soll-komparsen-am-set-von-tulsa-king-beleidigt-haben-castingagentur-kuendigt-a-c246190a-60d9-47a7-82a0-d8d408a98917#ref=rss)
-### komparsen
-
-* [https://www.spiegel.de/kultur/tv/sylvester-stallone-soll-komparsen-am-set-von-tulsa-king-beleidigt-haben-castingagentur-kuendigt](https://www.spiegel.de/kultur/tv/sylvester-stallone-soll-komparsen-am-set-von-tulsa-king-beleidigt-haben-castingagentur-kuendigt-a-c246190a-60d9-47a7-82a0-d8d408a98917#ref=rss)
-### set
-
-* [https://www.spiegel.de/kultur/tv/sylvester-stallone-soll-komparsen-am-set-von-tulsa-king-beleidigt-haben-castingagentur-kuendigt](https://www.spiegel.de/kultur/tv/sylvester-stallone-soll-komparsen-am-set-von-tulsa-king-beleidigt-haben-castingagentur-kuendigt-a-c246190a-60d9-47a7-82a0-d8d408a98917#ref=rss)
-### tulsa
-
-* [https://www.spiegel.de/kultur/tv/sylvester-stallone-soll-komparsen-am-set-von-tulsa-king-beleidigt-haben-castingagentur-kuendigt](https://www.spiegel.de/kultur/tv/sylvester-stallone-soll-komparsen-am-set-von-tulsa-king-beleidigt-haben-castingagentur-kuendigt-a-c246190a-60d9-47a7-82a0-d8d408a98917#ref=rss)
-### king
-
-* [https://www.spiegel.de/kultur/tv/sylvester-stallone-soll-komparsen-am-set-von-tulsa-king-beleidigt-haben-castingagentur-kuendigt](https://www.spiegel.de/kultur/tv/sylvester-stallone-soll-komparsen-am-set-von-tulsa-king-beleidigt-haben-castingagentur-kuendigt-a-c246190a-60d9-47a7-82a0-d8d408a98917#ref=rss)
-### castingagentur
-
-* [https://www.spiegel.de/kultur/tv/sylvester-stallone-soll-komparsen-am-set-von-tulsa-king-beleidigt-haben-castingagentur-kuendigt](https://www.spiegel.de/kultur/tv/sylvester-stallone-soll-komparsen-am-set-von-tulsa-king-beleidigt-haben-castingagentur-kuendigt-a-c246190a-60d9-47a7-82a0-d8d408a98917#ref=rss)
-### smart
-
-* [https://www.spiegel.de/auto/smart-plant-neuen-zweisitzer-mit-doppelter-reichweite](https://www.spiegel.de/auto/smart-plant-neuen-zweisitzer-mit-doppelter-reichweite-a-17f62f11-def5-42bf-856e-9b128d950e17#ref=rss)
-### zweisitzer
-
-* [https://www.spiegel.de/auto/smart-plant-neuen-zweisitzer-mit-doppelter-reichweite](https://www.spiegel.de/auto/smart-plant-neuen-zweisitzer-mit-doppelter-reichweite-a-17f62f11-def5-42bf-856e-9b128d950e17#ref=rss)
-### geschichte
-
-* [https://www.spiegel.de/auto/smart-plant-neuen-zweisitzer-mit-doppelter-reichweite](https://www.spiegel.de/auto/smart-plant-neuen-zweisitzer-mit-doppelter-reichweite-a-17f62f11-def5-42bf-856e-9b128d950e17#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesinstitut-fuer-kultur-und-geschichte-im-oestlichen-europa-bkge-neuer-institutsname-ohne-der-deutschen-empoert-bayern](https://www.spiegel.de/politik/deutschland/bundesinstitut-fuer-kultur-und-geschichte-im-oestlichen-europa-bkge-neuer-institutsname-ohne-der-deutschen-empoert-bayern-a-a86d64ab-483d-4c44-abc5-644fffd70f94#ref=rss)
-### studie
-
-* [https://www.spiegel.de/gesundheit/studie-zu-aggressionsbewaeltigung-in-zwei-schritten-zu-mehr-seelenfrieden-mit-dem-japanischen-wutzettel-trick](https://www.spiegel.de/gesundheit/studie-zu-aggressionsbewaeltigung-in-zwei-schritten-zu-mehr-seelenfrieden-mit-dem-japanischen-wutzettel-trick-a-e769baef-1dba-4b87-bea2-5fae8d7975eb#ref=rss)
-### schweizerische
-
-* [https://www.spiegel.de/ausland/schweiz-schweizerische-volkspartei-evp-fordert-austritt-aus-europarat](https://www.spiegel.de/ausland/schweiz-schweizerische-volkspartei-evp-fordert-austritt-aus-europarat-a-2cfa737d-0cff-497f-9b58-590d19f84d9b#ref=rss)
-### volkspartei
-
-* [https://www.spiegel.de/ausland/schweiz-schweizerische-volkspartei-evp-fordert-austritt-aus-europarat](https://www.spiegel.de/ausland/schweiz-schweizerische-volkspartei-evp-fordert-austritt-aus-europarat-a-2cfa737d-0cff-497f-9b58-590d19f84d9b#ref=rss)
-### bridgerton
-
-* [https://www.spiegel.de/kultur/bridgerton-nicola-coughlan-bestand-auf-sex-klausel-im-vertrag](https://www.spiegel.de/kultur/bridgerton-nicola-coughlan-bestand-auf-sex-klausel-im-vertrag-a-3192f434-585b-43ac-a733-13f67c33def8#ref=rss)
-### nicola
-
-* [https://www.spiegel.de/kultur/bridgerton-nicola-coughlan-bestand-auf-sex-klausel-im-vertrag](https://www.spiegel.de/kultur/bridgerton-nicola-coughlan-bestand-auf-sex-klausel-im-vertrag-a-3192f434-585b-43ac-a733-13f67c33def8#ref=rss)
-### coughlan
-
-* [https://www.spiegel.de/kultur/bridgerton-nicola-coughlan-bestand-auf-sex-klausel-im-vertrag](https://www.spiegel.de/kultur/bridgerton-nicola-coughlan-bestand-auf-sex-klausel-im-vertrag-a-3192f434-585b-43ac-a733-13f67c33def8#ref=rss)
-### hubertus
-
-* [https://www.spiegel.de/wirtschaft/hubertus-heil-wie-der-arbeitsminister-den-ukraine-krieg-fuer-seine-zwecke-nutzt](https://www.spiegel.de/wirtschaft/hubertus-heil-wie-der-arbeitsminister-den-ukraine-krieg-fuer-seine-zwecke-nutzt-a-2bf56d14-42b7-4365-aa71-ff425a9fe3ca#ref=rss)
-### heil
-
-* [https://www.spiegel.de/wirtschaft/hubertus-heil-wie-der-arbeitsminister-den-ukraine-krieg-fuer-seine-zwecke-nutzt](https://www.spiegel.de/wirtschaft/hubertus-heil-wie-der-arbeitsminister-den-ukraine-krieg-fuer-seine-zwecke-nutzt-a-2bf56d14-42b7-4365-aa71-ff425a9fe3ca#ref=rss)
-### arbeitsminister
-
-* [https://www.spiegel.de/wirtschaft/hubertus-heil-wie-der-arbeitsminister-den-ukraine-krieg-fuer-seine-zwecke-nutzt](https://www.spiegel.de/wirtschaft/hubertus-heil-wie-der-arbeitsminister-den-ukraine-krieg-fuer-seine-zwecke-nutzt-a-2bf56d14-42b7-4365-aa71-ff425a9fe3ca#ref=rss)
-### ändern
-
-* [https://www.spiegel.de/wirtschaft/hubertus-heil-wie-der-arbeitsminister-den-ukraine-krieg-fuer-seine-zwecke-nutzt](https://www.spiegel.de/wirtschaft/hubertus-heil-wie-der-arbeitsminister-den-ukraine-krieg-fuer-seine-zwecke-nutzt-a-2bf56d14-42b7-4365-aa71-ff425a9fe3ca#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klimaklagen-richter-entscheiden-nach-veralteten-regeln-das-muss-sich-endlich-aendern-kommentar](https://www.spiegel.de/wissenschaft/natur/klimaklagen-richter-entscheiden-nach-veralteten-regeln-das-muss-sich-endlich-aendern-kommentar-a-d3ae0807-1251-47a8-8885-ed34dde8a9fe#ref=rss)
-### richter
-
-* [https://www.spiegel.de/wissenschaft/natur/klimaklagen-richter-entscheiden-nach-veralteten-regeln-das-muss-sich-endlich-aendern-kommentar](https://www.spiegel.de/wissenschaft/natur/klimaklagen-richter-entscheiden-nach-veralteten-regeln-das-muss-sich-endlich-aendern-kommentar-a-d3ae0807-1251-47a8-8885-ed34dde8a9fe#ref=rss)
-### nationalen
-
-* [https://www.spiegel.de/wissenschaft/natur/klimaklagen-richter-entscheiden-nach-veralteten-regeln-das-muss-sich-endlich-aendern-kommentar](https://www.spiegel.de/wissenschaft/natur/klimaklagen-richter-entscheiden-nach-veralteten-regeln-das-muss-sich-endlich-aendern-kommentar-a-d3ae0807-1251-47a8-8885-ed34dde8a9fe#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-chef-carsten-spohr-freund-der-aktionaere-schrecken-der-fluggaeste](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-chef-carsten-spohr-freund-der-aktionaere-schrecken-der-fluggaeste-a-c483f332-800f-48ea-bad3-e928efc6d85d#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/wissenschaft/natur/klimaklagen-richter-entscheiden-nach-veralteten-regeln-das-muss-sich-endlich-aendern-kommentar](https://www.spiegel.de/wissenschaft/natur/klimaklagen-richter-entscheiden-nach-veralteten-regeln-das-muss-sich-endlich-aendern-kommentar-a-d3ae0807-1251-47a8-8885-ed34dde8a9fe#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/gewalt-an-schulen-rund-die-haelfte-der-viertklaessler-von-ausgrenzung-und-gewalt-betroffen](https://www.spiegel.de/panorama/bildung/gewalt-an-schulen-rund-die-haelfte-der-viertklaessler-von-ausgrenzung-und-gewalt-betroffen-a-59016183-2746-439f-958f-933b36ff4d7b#ref=rss)
-### viertklässler
-
-* [https://www.spiegel.de/panorama/bildung/gewalt-an-schulen-rund-die-haelfte-der-viertklaessler-von-ausgrenzung-und-gewalt-betroffen](https://www.spiegel.de/panorama/bildung/gewalt-an-schulen-rund-die-haelfte-der-viertklaessler-von-ausgrenzung-und-gewalt-betroffen-a-59016183-2746-439f-958f-933b36ff4d7b#ref=rss)
-### betroffen
-
-* [https://www.spiegel.de/panorama/bildung/gewalt-an-schulen-rund-die-haelfte-der-viertklaessler-von-ausgrenzung-und-gewalt-betroffen](https://www.spiegel.de/panorama/bildung/gewalt-an-schulen-rund-die-haelfte-der-viertklaessler-von-ausgrenzung-und-gewalt-betroffen-a-59016183-2746-439f-958f-933b36ff4d7b#ref=rss)
-### einmal
-
-* [https://www.spiegel.de/panorama/bildung/gewalt-an-schulen-rund-die-haelfte-der-viertklaessler-von-ausgrenzung-und-gewalt-betroffen](https://www.spiegel.de/panorama/bildung/gewalt-an-schulen-rund-die-haelfte-der-viertklaessler-von-ausgrenzung-und-gewalt-betroffen-a-59016183-2746-439f-958f-933b36ff4d7b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/mittelalter-woher-kam-das-silber-fuer-den-muenzen-boom](https://www.spiegel.de/wissenschaft/mensch/mittelalter-woher-kam-das-silber-fuer-den-muenzen-boom-a-3b1c4e6f-2128-498c-a8df-ea7a93b9e7d3#ref=rss)
-### lngterminal
-
-* [https://www.spiegel.de/wirtschaft/lng-terminal-vor-ruegen-umweltamt-genehmigt-betrieb-der-anlage](https://www.spiegel.de/wirtschaft/lng-terminal-vor-ruegen-umweltamt-genehmigt-betrieb-der-anlage-a-f7c376ae-9f0f-49c4-b6fa-7c24499f399d#ref=rss)
-### betrieb
-
-* [https://www.spiegel.de/wirtschaft/lng-terminal-vor-ruegen-umweltamt-genehmigt-betrieb-der-anlage](https://www.spiegel.de/wirtschaft/lng-terminal-vor-ruegen-umweltamt-genehmigt-betrieb-der-anlage-a-f7c376ae-9f0f-49c4-b6fa-7c24499f399d#ref=rss)
-### anlage
-
-* [https://www.spiegel.de/wirtschaft/lng-terminal-vor-ruegen-umweltamt-genehmigt-betrieb-der-anlage](https://www.spiegel.de/wirtschaft/lng-terminal-vor-ruegen-umweltamt-genehmigt-betrieb-der-anlage-a-f7c376ae-9f0f-49c4-b6fa-7c24499f399d#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/lng-terminal-vor-ruegen-umweltamt-genehmigt-betrieb-der-anlage](https://www.spiegel.de/wirtschaft/lng-terminal-vor-ruegen-umweltamt-genehmigt-betrieb-der-anlage-a-f7c376ae-9f0f-49c4-b6fa-7c24499f399d#ref=rss)
-* [https://www.spiegel.de/kultur/helen-fares-ex-swr-moderatorin-verteidigt-ihre-bds-posts](https://www.spiegel.de/kultur/helen-fares-ex-swr-moderatorin-verteidigt-ihre-bds-posts-a-97ea7eff-b367-49e9-ba62-7d0acb942931#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/politik/deutschland/bundesinstitut-fuer-kultur-und-geschichte-im-oestlichen-europa-bkge-neuer-institutsname-ohne-der-deutschen-empoert-bayern](https://www.spiegel.de/politik/deutschland/bundesinstitut-fuer-kultur-und-geschichte-im-oestlichen-europa-bkge-neuer-institutsname-ohne-der-deutschen-empoert-bayern-a-a86d64ab-483d-4c44-abc5-644fffd70f94#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/politik/deutschland/bundesinstitut-fuer-kultur-und-geschichte-im-oestlichen-europa-bkge-neuer-institutsname-ohne-der-deutschen-empoert-bayern](https://www.spiegel.de/politik/deutschland/bundesinstitut-fuer-kultur-und-geschichte-im-oestlichen-europa-bkge-neuer-institutsname-ohne-der-deutschen-empoert-bayern-a-a86d64ab-483d-4c44-abc5-644fffd70f94#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-trainer-headhunter-wir-haben-fuer-unsere-kunden-schattenlisten-erstellt](https://www.spiegel.de/sport/fussball/fussball-trainer-headhunter-wir-haben-fuer-unsere-kunden-schattenlisten-erstellt-a-cca36a92-6ec4-441b-8b8e-93485a9e64a4#ref=rss)
-### einladungen
-
-* [https://www.spiegel.de/ausland/berlin-keine-einladungen-fuer-afd-beim-bundespresseball](https://www.spiegel.de/ausland/berlin-keine-einladungen-fuer-afd-beim-bundespresseball-a-06691b98-0e25-47bf-8c29-15fa4319a3ff#ref=rss)
-### bundespresseball
-
-* [https://www.spiegel.de/ausland/berlin-keine-einladungen-fuer-afd-beim-bundespresseball](https://www.spiegel.de/ausland/berlin-keine-einladungen-fuer-afd-beim-bundespresseball-a-06691b98-0e25-47bf-8c29-15fa4319a3ff#ref=rss)
-### mallorca
-
-* [https://www.spiegel.de/panorama/justiz/mallorca-vier-touristen-wegen-mutmasslicher-gruppenvergewaltigung-festgenommen](https://www.spiegel.de/panorama/justiz/mallorca-vier-touristen-wegen-mutmasslicher-gruppenvergewaltigung-festgenommen-a-1812da21-8d86-41b4-83cb-86dbd7610876#ref=rss)
-### gruppenvergewaltigung
-
-* [https://www.spiegel.de/panorama/justiz/mallorca-vier-touristen-wegen-mutmasslicher-gruppenvergewaltigung-festgenommen](https://www.spiegel.de/panorama/justiz/mallorca-vier-touristen-wegen-mutmasslicher-gruppenvergewaltigung-festgenommen-a-1812da21-8d86-41b4-83cb-86dbd7610876#ref=rss)
-### mittelalter
-
-* [https://www.spiegel.de/wissenschaft/mensch/mittelalter-woher-kam-das-silber-fuer-den-muenzen-boom](https://www.spiegel.de/wissenschaft/mensch/mittelalter-woher-kam-das-silber-fuer-den-muenzen-boom-a-3b1c4e6f-2128-498c-a8df-ea7a93b9e7d3#ref=rss)
-### woher
-
-* [https://www.spiegel.de/wissenschaft/mensch/mittelalter-woher-kam-das-silber-fuer-den-muenzen-boom](https://www.spiegel.de/wissenschaft/mensch/mittelalter-woher-kam-das-silber-fuer-den-muenzen-boom-a-3b1c4e6f-2128-498c-a8df-ea7a93b9e7d3#ref=rss)
-### kam
-
-* [https://www.spiegel.de/wissenschaft/mensch/mittelalter-woher-kam-das-silber-fuer-den-muenzen-boom](https://www.spiegel.de/wissenschaft/mensch/mittelalter-woher-kam-das-silber-fuer-den-muenzen-boom-a-3b1c4e6f-2128-498c-a8df-ea7a93b9e7d3#ref=rss)
-### carsten
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-chef-carsten-spohr-freund-der-aktionaere-schrecken-der-fluggaeste](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-chef-carsten-spohr-freund-der-aktionaere-schrecken-der-fluggaeste-a-c483f332-800f-48ea-bad3-e928efc6d85d#ref=rss)
-### spohr
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-chef-carsten-spohr-freund-der-aktionaere-schrecken-der-fluggaeste](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-chef-carsten-spohr-freund-der-aktionaere-schrecken-der-fluggaeste-a-c483f332-800f-48ea-bad3-e928efc6d85d#ref=rss)
-### kunden
-
-* [https://www.spiegel.de/sport/fussball/fussball-trainer-headhunter-wir-haben-fuer-unsere-kunden-schattenlisten-erstellt](https://www.spiegel.de/sport/fussball/fussball-trainer-headhunter-wir-haben-fuer-unsere-kunden-schattenlisten-erstellt-a-cca36a92-6ec4-441b-8b8e-93485a9e64a4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/autoversicherung-der-huk-coburg-schreibt-tiefrote-zahlen-praemien-steigen](https://www.spiegel.de/wirtschaft/autoversicherung-der-huk-coburg-schreibt-tiefrote-zahlen-praemien-steigen-a-9580f8b9-f2ac-4dc1-a172-ed2ce0fb84cd#ref=rss)
-### helen
-
-* [https://www.spiegel.de/kultur/helen-fares-ex-swr-moderatorin-verteidigt-ihre-bds-posts](https://www.spiegel.de/kultur/helen-fares-ex-swr-moderatorin-verteidigt-ihre-bds-posts-a-97ea7eff-b367-49e9-ba62-7d0acb942931#ref=rss)
-### fares
-
-* [https://www.spiegel.de/kultur/helen-fares-ex-swr-moderatorin-verteidigt-ihre-bds-posts](https://www.spiegel.de/kultur/helen-fares-ex-swr-moderatorin-verteidigt-ihre-bds-posts-a-97ea7eff-b367-49e9-ba62-7d0acb942931#ref=rss)
+* [https://www.spiegel.de/start/chili-crunch-oel-selbst-machen-fuer-zwei-euro-pro-glas](https://www.spiegel.de/start/chili-crunch-oel-selbst-machen-fuer-zwei-euro-pro-glas-a-1e1e520f-bc6f-4c19-957c-9540cf9cfd33#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/fdp-und-spd-einigen-sich-zu-vorratsdatenspeicherung-und-mietpreisbremse](https://www.spiegel.de/politik/deutschland/fdp-und-spd-einigen-sich-zu-vorratsdatenspeicherung-und-mietpreisbremse-a-14604c13-72b7-48db-a173-46282987e379#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/immobilien-niedrige-preise-gesunkene-zinsen-warum-jetzt-ein-guter-zeitpunkt-fuer-den-hauskauf-ist](https://www.spiegel.de/wirtschaft/service/immobilien-niedrige-preise-gesunkene-zinsen-warum-jetzt-ein-guter-zeitpunkt-fuer-den-hauskauf-ist-a-cd13b25e-8a72-4d61-b7b6-fa41a48260ac#ref=rss)
 ### champions
 
-* [https://www.spiegel.de/sport/fussball/bedrohung-durch-islamischen-staat-champions-league-spiele-unter-erhoehter-sicherheit](https://www.spiegel.de/sport/fussball/bedrohung-durch-islamischen-staat-champions-league-spiele-unter-erhoehter-sicherheit-a-67bdd3c1-b406-4ad0-9feb-4c637f29ed58#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-und-manchester-city-liefern-atemberaubendes-action-feuerwerk](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-und-manchester-city-liefern-atemberaubendes-action-feuerwerk-a-c9136fbe-abee-4492-8a2e-38c869091e3d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-starker-fc-bayern-muenchen-holt-remis-beim-fc-arsenal-zweckverliebt](https://www.spiegel.de/sport/fussball/champions-league-starker-fc-bayern-muenchen-holt-remis-beim-fc-arsenal-zweckverliebt-a-acea4519-3c55-4dce-867d-36c9f6279747#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-fuehlt-sich-benachteiligt-schiedsrichter-verwehrt-elfmeter](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-fuehlt-sich-benachteiligt-schiedsrichter-verwehrt-elfmeter-a-8cf1cecd-0041-4810-8a21-d00e4959d9b7#ref=rss)
 ### league
 
-* [https://www.spiegel.de/sport/fussball/bedrohung-durch-islamischen-staat-champions-league-spiele-unter-erhoehter-sicherheit](https://www.spiegel.de/sport/fussball/bedrohung-durch-islamischen-staat-champions-league-spiele-unter-erhoehter-sicherheit-a-67bdd3c1-b406-4ad0-9feb-4c637f29ed58#ref=rss)
-### hukcoburg
+* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-und-manchester-city-liefern-atemberaubendes-action-feuerwerk](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-und-manchester-city-liefern-atemberaubendes-action-feuerwerk-a-c9136fbe-abee-4492-8a2e-38c869091e3d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-starker-fc-bayern-muenchen-holt-remis-beim-fc-arsenal-zweckverliebt](https://www.spiegel.de/sport/fussball/champions-league-starker-fc-bayern-muenchen-holt-remis-beim-fc-arsenal-zweckverliebt-a-acea4519-3c55-4dce-867d-36c9f6279747#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-fuehlt-sich-benachteiligt-schiedsrichter-verwehrt-elfmeter](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-fuehlt-sich-benachteiligt-schiedsrichter-verwehrt-elfmeter-a-8cf1cecd-0041-4810-8a21-d00e4959d9b7#ref=rss)
+### fdp
 
-* [https://www.spiegel.de/wirtschaft/autoversicherung-der-huk-coburg-schreibt-tiefrote-zahlen-praemien-steigen](https://www.spiegel.de/wirtschaft/autoversicherung-der-huk-coburg-schreibt-tiefrote-zahlen-praemien-steigen-a-9580f8b9-f2ac-4dc1-a172-ed2ce0fb84cd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/fdp-und-spd-einigen-sich-zu-vorratsdatenspeicherung-und-mietpreisbremse](https://www.spiegel.de/politik/deutschland/fdp-und-spd-einigen-sich-zu-vorratsdatenspeicherung-und-mietpreisbremse-a-14604c13-72b7-48db-a173-46282987e379#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kindergrundsicherung-lisa-paus-lehnt-grundlegende-ueberarbeitung-ab](https://www.spiegel.de/politik/deutschland/kindergrundsicherung-lisa-paus-lehnt-grundlegende-ueberarbeitung-ab-a-9e0153e1-631b-4269-8591-3d4c1a6bd6c7#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/champions-league-starker-fc-bayern-muenchen-holt-remis-beim-fc-arsenal-zweckverliebt](https://www.spiegel.de/sport/fussball/champions-league-starker-fc-bayern-muenchen-holt-remis-beim-fc-arsenal-zweckverliebt-a-acea4519-3c55-4dce-867d-36c9f6279747#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-fuehlt-sich-benachteiligt-schiedsrichter-verwehrt-elfmeter](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-fuehlt-sich-benachteiligt-schiedsrichter-verwehrt-elfmeter-a-8cf1cecd-0041-4810-8a21-d00e4959d9b7#ref=rss)
+### bridget
+
+* [https://www.spiegel.de/kultur/kino/bridget-jones-kehrt-auf-die-leinwand-zurueck](https://www.spiegel.de/kultur/kino/bridget-jones-kehrt-auf-die-leinwand-zurueck-a-111c1870-a610-480d-b89b-f2c32e25e0c4#ref=rss)
+### bundesnetzagentur
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/glasfaser-internet-bundesnetzagentur-gesteht-telekom-weniger-miete-fuer-leerrohre-zu-als-beantragt](https://www.spiegel.de/netzwelt/netzpolitik/glasfaser-internet-bundesnetzagentur-gesteht-telekom-weniger-miete-fuer-leerrohre-zu-als-beantragt-a-ad9fa9b5-1e93-4406-a20b-d4b8f24f7453#ref=rss)
+### telekom
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/glasfaser-internet-bundesnetzagentur-gesteht-telekom-weniger-miete-fuer-leerrohre-zu-als-beantragt](https://www.spiegel.de/netzwelt/netzpolitik/glasfaser-internet-bundesnetzagentur-gesteht-telekom-weniger-miete-fuer-leerrohre-zu-als-beantragt-a-ad9fa9b5-1e93-4406-a20b-d4b8f24f7453#ref=rss)
+### statt
+
+* [https://www.spiegel.de/wissenschaft/natur/menschen-hielten-wohl-fuechse-statt-hunde-als-haustier](https://www.spiegel.de/wissenschaft/natur/menschen-hielten-wohl-fuechse-statt-hunde-als-haustier-a-d2a2849d-e3ea-4cfd-adf1-2326acf79e52#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/fdp-und-spd-einigen-sich-zu-vorratsdatenspeicherung-und-mietpreisbremse](https://www.spiegel.de/politik/deutschland/fdp-und-spd-einigen-sich-zu-vorratsdatenspeicherung-und-mietpreisbremse-a-14604c13-72b7-48db-a173-46282987e379#ref=rss)
+### etwa
+
+* [https://www.spiegel.de/wissenschaft/natur/menschen-hielten-wohl-fuechse-statt-hunde-als-haustier](https://www.spiegel.de/wissenschaft/natur/menschen-hielten-wohl-fuechse-statt-hunde-als-haustier-a-d2a2849d-e3ea-4cfd-adf1-2326acf79e52#ref=rss)
+* [https://www.spiegel.de/wissenschaft/deutschlands-duestere-geheiminisse-die-geschichte-der-zahnprothesen](https://www.spiegel.de/wissenschaft/deutschlands-duestere-geheiminisse-die-geschichte-der-zahnprothesen-a-f958a333-17b5-4083-821c-5130ce4a1d66#ref=rss)
+### begraben
+
+* [https://www.spiegel.de/wissenschaft/natur/menschen-hielten-wohl-fuechse-statt-hunde-als-haustier](https://www.spiegel.de/wissenschaft/natur/menschen-hielten-wohl-fuechse-statt-hunde-als-haustier-a-d2a2849d-e3ea-4cfd-adf1-2326acf79e52#ref=rss)
+* [https://www.spiegel.de/kultur/tv/game-of-thrones-fortsetzung-mit-jon-snow-laut-kit-harington-auf-eis-gelegt](https://www.spiegel.de/kultur/tv/game-of-thrones-fortsetzung-mit-jon-snow-laut-kit-harington-auf-eis-gelegt-a-300b6c94-c02b-4f1e-a93f-baed261150dd#ref=rss)
+### ukrainische
+
+* [https://www.spiegel.de/sport/olympia/sport-und-krieg-ukrainische-sportler-verzichten-auf-teilnahme-an-russischen-freundschaftsspielen](https://www.spiegel.de/sport/olympia/sport-und-krieg-ukrainische-sportler-verzichten-auf-teilnahme-an-russischen-freundschaftsspielen-a-b606b137-0d6f-4476-a9c4-1a1ede7afe92#ref=rss)
+### sportler
+
+* [https://www.spiegel.de/sport/olympia/sport-und-krieg-ukrainische-sportler-verzichten-auf-teilnahme-an-russischen-freundschaftsspielen](https://www.spiegel.de/sport/olympia/sport-und-krieg-ukrainische-sportler-verzichten-auf-teilnahme-an-russischen-freundschaftsspielen-a-b606b137-0d6f-4476-a9c4-1a1ede7afe92#ref=rss)
+### teilnahme
+
+* [https://www.spiegel.de/sport/olympia/sport-und-krieg-ukrainische-sportler-verzichten-auf-teilnahme-an-russischen-freundschaftsspielen](https://www.spiegel.de/sport/olympia/sport-und-krieg-ukrainische-sportler-verzichten-auf-teilnahme-an-russischen-freundschaftsspielen-a-b606b137-0d6f-4476-a9c4-1a1ede7afe92#ref=rss)
+### russischen
+
+* [https://www.spiegel.de/sport/olympia/sport-und-krieg-ukrainische-sportler-verzichten-auf-teilnahme-an-russischen-freundschaftsspielen](https://www.spiegel.de/sport/olympia/sport-und-krieg-ukrainische-sportler-verzichten-auf-teilnahme-an-russischen-freundschaftsspielen-a-b606b137-0d6f-4476-a9c4-1a1ede7afe92#ref=rss)
+* [https://www.spiegel.de/ausland/russland-sanktionen-eu-gericht-hebt-sanktionsbeschluesse-gegen-russische-oligarchen-auf](https://www.spiegel.de/ausland/russland-sanktionen-eu-gericht-hebt-sanktionsbeschluesse-gegen-russische-oligarchen-auf-a-3793533c-b3f2-4eb2-b0bf-8885d0581a62#ref=rss)
+### olympischen
+
+* [https://www.spiegel.de/sport/olympia/sport-und-krieg-ukrainische-sportler-verzichten-auf-teilnahme-an-russischen-freundschaftsspielen](https://www.spiegel.de/sport/olympia/sport-und-krieg-ukrainische-sportler-verzichten-auf-teilnahme-an-russischen-freundschaftsspielen-a-b606b137-0d6f-4476-a9c4-1a1ede7afe92#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympische-spiele-premiere-in-paris-leichtathleten-erhalten-erstmals-geldpraemie-fuer-gold](https://www.spiegel.de/sport/olympia/olympische-spiele-premiere-in-paris-leichtathleten-erhalten-erstmals-geldpraemie-fuer-gold-a-4a1b7613-b9fc-46b9-9638-b0b76f410011#ref=rss)
+### deshalb
+
+* [https://www.spiegel.de/sport/olympia/sport-und-krieg-ukrainische-sportler-verzichten-auf-teilnahme-an-russischen-freundschaftsspielen](https://www.spiegel.de/sport/olympia/sport-und-krieg-ukrainische-sportler-verzichten-auf-teilnahme-an-russischen-freundschaftsspielen-a-b606b137-0d6f-4476-a9c4-1a1ede7afe92#ref=rss)
+* [https://www.spiegel.de/panorama/erzbistum-koeln-weist-verantwortung-von-sich-weil-priester-pflegetochter-zu-hause-missbrauchte](https://www.spiegel.de/panorama/erzbistum-koeln-weist-verantwortung-von-sich-weil-priester-pflegetochter-zu-hause-missbrauchte-a-43c7f299-5078-4b40-8733-d8eb7571b75c#ref=rss)
+### eigene
+
+* [https://www.spiegel.de/sport/olympia/sport-und-krieg-ukrainische-sportler-verzichten-auf-teilnahme-an-russischen-freundschaftsspielen](https://www.spiegel.de/sport/olympia/sport-und-krieg-ukrainische-sportler-verzichten-auf-teilnahme-an-russischen-freundschaftsspielen-a-b606b137-0d6f-4476-a9c4-1a1ede7afe92#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/immobilien-niedrige-preise-gesunkene-zinsen-warum-jetzt-ein-guter-zeitpunkt-fuer-den-hauskauf-ist](https://www.spiegel.de/wirtschaft/service/immobilien-niedrige-preise-gesunkene-zinsen-warum-jetzt-ein-guter-zeitpunkt-fuer-den-hauskauf-ist-a-cd13b25e-8a72-4d61-b7b6-fa41a48260ac#ref=rss)
+### spiele
+
+* [https://www.spiegel.de/sport/olympia/sport-und-krieg-ukrainische-sportler-verzichten-auf-teilnahme-an-russischen-freundschaftsspielen](https://www.spiegel.de/sport/olympia/sport-und-krieg-ukrainische-sportler-verzichten-auf-teilnahme-an-russischen-freundschaftsspielen-a-b606b137-0d6f-4476-a9c4-1a1ede7afe92#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympische-spiele-premiere-in-paris-leichtathleten-erhalten-erstmals-geldpraemie-fuer-gold](https://www.spiegel.de/sport/olympia/olympische-spiele-premiere-in-paris-leichtathleten-erhalten-erstmals-geldpraemie-fuer-gold-a-4a1b7613-b9fc-46b9-9638-b0b76f410011#ref=rss)
+### game
+
+* [https://www.spiegel.de/kultur/tv/game-of-thrones-fortsetzung-mit-jon-snow-laut-kit-harington-auf-eis-gelegt](https://www.spiegel.de/kultur/tv/game-of-thrones-fortsetzung-mit-jon-snow-laut-kit-harington-auf-eis-gelegt-a-300b6c94-c02b-4f1e-a93f-baed261150dd#ref=rss)
+### thrones
+
+* [https://www.spiegel.de/kultur/tv/game-of-thrones-fortsetzung-mit-jon-snow-laut-kit-harington-auf-eis-gelegt](https://www.spiegel.de/kultur/tv/game-of-thrones-fortsetzung-mit-jon-snow-laut-kit-harington-auf-eis-gelegt-a-300b6c94-c02b-4f1e-a93f-baed261150dd#ref=rss)
+### fortsetzung
+
+* [https://www.spiegel.de/kultur/tv/game-of-thrones-fortsetzung-mit-jon-snow-laut-kit-harington-auf-eis-gelegt](https://www.spiegel.de/kultur/tv/game-of-thrones-fortsetzung-mit-jon-snow-laut-kit-harington-auf-eis-gelegt-a-300b6c94-c02b-4f1e-a93f-baed261150dd#ref=rss)
+* [https://www.spiegel.de/kultur/kino/bridget-jones-kehrt-auf-die-leinwand-zurueck](https://www.spiegel.de/kultur/kino/bridget-jones-kehrt-auf-die-leinwand-zurueck-a-111c1870-a610-480d-b89b-f2c32e25e0c4#ref=rss)
+### jon
+
+* [https://www.spiegel.de/kultur/tv/game-of-thrones-fortsetzung-mit-jon-snow-laut-kit-harington-auf-eis-gelegt](https://www.spiegel.de/kultur/tv/game-of-thrones-fortsetzung-mit-jon-snow-laut-kit-harington-auf-eis-gelegt-a-300b6c94-c02b-4f1e-a93f-baed261150dd#ref=rss)
+### snow
+
+* [https://www.spiegel.de/kultur/tv/game-of-thrones-fortsetzung-mit-jon-snow-laut-kit-harington-auf-eis-gelegt](https://www.spiegel.de/kultur/tv/game-of-thrones-fortsetzung-mit-jon-snow-laut-kit-harington-auf-eis-gelegt-a-300b6c94-c02b-4f1e-a93f-baed261150dd#ref=rss)
+### 2019
+
+* [https://www.spiegel.de/kultur/tv/game-of-thrones-fortsetzung-mit-jon-snow-laut-kit-harington-auf-eis-gelegt](https://www.spiegel.de/kultur/tv/game-of-thrones-fortsetzung-mit-jon-snow-laut-kit-harington-auf-eis-gelegt-a-300b6c94-c02b-4f1e-a93f-baed261150dd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jugendkriminalitaet-cdu-und-csu-fordern-debatte-ueber-senkung-des-strafmuendigkeitsalters](https://www.spiegel.de/politik/deutschland/jugendkriminalitaet-cdu-und-csu-fordern-debatte-ueber-senkung-des-strafmuendigkeitsalters-a-58e0d1f0-7e2d-4ae8-bca2-21bd7ca7ec9e#ref=rss)
+### hongkong
+
+* [https://www.spiegel.de/panorama/hongkong-mehrere-tote-und-dutzende-verletzte-nach-hochhausbrand](https://www.spiegel.de/panorama/hongkong-mehrere-tote-und-dutzende-verletzte-nach-hochhausbrand-a-d4eb839f-f5ee-45a5-988e-87758933d0bb#ref=rss)
+### verletzte
+
+* [https://www.spiegel.de/panorama/hongkong-mehrere-tote-und-dutzende-verletzte-nach-hochhausbrand](https://www.spiegel.de/panorama/hongkong-mehrere-tote-und-dutzende-verletzte-nach-hochhausbrand-a-d4eb839f-f5ee-45a5-988e-87758933d0bb#ref=rss)
+* [https://www.spiegel.de/panorama/holzminden-schulbus-die-vorfahrt-genommen-16-verletzte](https://www.spiegel.de/panorama/holzminden-schulbus-die-vorfahrt-genommen-16-verletzte-a-e13941ea-0caa-4898-b553-4be77a1440f1#ref=rss)
+### mindestens
+
+* [https://www.spiegel.de/panorama/hongkong-mehrere-tote-und-dutzende-verletzte-nach-hochhausbrand](https://www.spiegel.de/panorama/hongkong-mehrere-tote-und-dutzende-verletzte-nach-hochhausbrand-a-d4eb839f-f5ee-45a5-988e-87758933d0bb#ref=rss)
+* [https://www.spiegel.de/kultur/kino/bridget-jones-kehrt-auf-die-leinwand-zurueck](https://www.spiegel.de/kultur/kino/bridget-jones-kehrt-auf-die-leinwand-zurueck-a-111c1870-a610-480d-b89b-f2c32e25e0c4#ref=rss)
+### leben
+
+* [https://www.spiegel.de/panorama/hongkong-mehrere-tote-und-dutzende-verletzte-nach-hochhausbrand](https://www.spiegel.de/panorama/hongkong-mehrere-tote-und-dutzende-verletzte-nach-hochhausbrand-a-d4eb839f-f5ee-45a5-988e-87758933d0bb#ref=rss)
+* [https://www.spiegel.de/panorama/bodenwerder-zweijaehriges-kind-faellt-in-die-weser-und-stirbt](https://www.spiegel.de/panorama/bodenwerder-zweijaehriges-kind-faellt-in-die-weser-und-stirbt-a-06d72f69-870f-49a8-901e-125da7797b1f#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/ausland/frauen-bei-den-kommunalwahlen-in-der-tuerkei-so-viele-buergermeisterinnen-wie-nie](https://www.spiegel.de/ausland/frauen-bei-den-kommunalwahlen-in-der-tuerkei-so-viele-buergermeisterinnen-wie-nie-a-52d27023-f61d-4331-8275-bfd9fa7b34fb#ref=rss)
+### kommunalwahlen
+
+* [https://www.spiegel.de/ausland/frauen-bei-den-kommunalwahlen-in-der-tuerkei-so-viele-buergermeisterinnen-wie-nie](https://www.spiegel.de/ausland/frauen-bei-den-kommunalwahlen-in-der-tuerkei-so-viele-buergermeisterinnen-wie-nie-a-52d27023-f61d-4331-8275-bfd9fa7b34fb#ref=rss)
+### türkei
+
+* [https://www.spiegel.de/ausland/frauen-bei-den-kommunalwahlen-in-der-tuerkei-so-viele-buergermeisterinnen-wie-nie](https://www.spiegel.de/ausland/frauen-bei-den-kommunalwahlen-in-der-tuerkei-so-viele-buergermeisterinnen-wie-nie-a-52d27023-f61d-4331-8275-bfd9fa7b34fb#ref=rss)
+### bürgermeisterinnen
+
+* [https://www.spiegel.de/ausland/frauen-bei-den-kommunalwahlen-in-der-tuerkei-so-viele-buergermeisterinnen-wie-nie](https://www.spiegel.de/ausland/frauen-bei-den-kommunalwahlen-in-der-tuerkei-so-viele-buergermeisterinnen-wie-nie-a-52d27023-f61d-4331-8275-bfd9fa7b34fb#ref=rss)
+### nie
+
+* [https://www.spiegel.de/ausland/frauen-bei-den-kommunalwahlen-in-der-tuerkei-so-viele-buergermeisterinnen-wie-nie](https://www.spiegel.de/ausland/frauen-bei-den-kommunalwahlen-in-der-tuerkei-so-viele-buergermeisterinnen-wie-nie-a-52d27023-f61d-4331-8275-bfd9fa7b34fb#ref=rss)
+### konservativen
+
+* [https://www.spiegel.de/ausland/frauen-bei-den-kommunalwahlen-in-der-tuerkei-so-viele-buergermeisterinnen-wie-nie](https://www.spiegel.de/ausland/frauen-bei-den-kommunalwahlen-in-der-tuerkei-so-viele-buergermeisterinnen-wie-nie-a-52d27023-f61d-4331-8275-bfd9fa7b34fb#ref=rss)
+* [https://www.spiegel.de/ausland/usa-warum-donald-trump-sich-in-der-abtreibungsfrage-ploetzlich-liberal-gibt](https://www.spiegel.de/ausland/usa-warum-donald-trump-sich-in-der-abtreibungsfrage-ploetzlich-liberal-gibt-a-56c67c9d-a451-4f16-b002-331bbf7e97f0#ref=rss)
+### öl
+
+* [https://www.spiegel.de/start/chili-crunch-oel-selbst-machen-fuer-zwei-euro-pro-glas](https://www.spiegel.de/start/chili-crunch-oel-selbst-machen-fuer-zwei-euro-pro-glas-a-1e1e520f-bc6f-4c19-957c-9540cf9cfd33#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/start/chili-crunch-oel-selbst-machen-fuer-zwei-euro-pro-glas](https://www.spiegel.de/start/chili-crunch-oel-selbst-machen-fuer-zwei-euro-pro-glas-a-1e1e520f-bc6f-4c19-957c-9540cf9cfd33#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-und-manchester-city-liefern-atemberaubendes-action-feuerwerk](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-und-manchester-city-liefern-atemberaubendes-action-feuerwerk-a-c9136fbe-abee-4492-8a2e-38c869091e3d#ref=rss)
+### schritt
+
+* [https://www.spiegel.de/start/chili-crunch-oel-selbst-machen-fuer-zwei-euro-pro-glas](https://www.spiegel.de/start/chili-crunch-oel-selbst-machen-fuer-zwei-euro-pro-glas-a-1e1e520f-bc6f-4c19-957c-9540cf9cfd33#ref=rss)
+### paris
+
+* [https://www.spiegel.de/sport/olympia/olympische-spiele-premiere-in-paris-leichtathleten-erhalten-erstmals-geldpraemie-fuer-gold](https://www.spiegel.de/sport/olympia/olympische-spiele-premiere-in-paris-leichtathleten-erhalten-erstmals-geldpraemie-fuer-gold-a-4a1b7613-b9fc-46b9-9638-b0b76f410011#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/usa-warum-donald-trump-sich-in-der-abtreibungsfrage-ploetzlich-liberal-gibt](https://www.spiegel.de/ausland/usa-warum-donald-trump-sich-in-der-abtreibungsfrage-ploetzlich-liberal-gibt-a-56c67c9d-a451-4f16-b002-331bbf7e97f0#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/usa-warum-donald-trump-sich-in-der-abtreibungsfrage-ploetzlich-liberal-gibt](https://www.spiegel.de/ausland/usa-warum-donald-trump-sich-in-der-abtreibungsfrage-ploetzlich-liberal-gibt-a-56c67c9d-a451-4f16-b002-331bbf7e97f0#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/usa-warum-donald-trump-sich-in-der-abtreibungsfrage-ploetzlich-liberal-gibt](https://www.spiegel.de/ausland/usa-warum-donald-trump-sich-in-der-abtreibungsfrage-ploetzlich-liberal-gibt-a-56c67c9d-a451-4f16-b002-331bbf7e97f0#ref=rss)
+### plötzlich
+
+* [https://www.spiegel.de/ausland/usa-warum-donald-trump-sich-in-der-abtreibungsfrage-ploetzlich-liberal-gibt](https://www.spiegel.de/ausland/usa-warum-donald-trump-sich-in-der-abtreibungsfrage-ploetzlich-liberal-gibt-a-56c67c9d-a451-4f16-b002-331bbf7e97f0#ref=rss)
+### liberal
+
+* [https://www.spiegel.de/ausland/usa-warum-donald-trump-sich-in-der-abtreibungsfrage-ploetzlich-liberal-gibt](https://www.spiegel.de/ausland/usa-warum-donald-trump-sich-in-der-abtreibungsfrage-ploetzlich-liberal-gibt-a-56c67c9d-a451-4f16-b002-331bbf7e97f0#ref=rss)
+### erst
+
+* [https://www.spiegel.de/ausland/usa-warum-donald-trump-sich-in-der-abtreibungsfrage-ploetzlich-liberal-gibt](https://www.spiegel.de/ausland/usa-warum-donald-trump-sich-in-der-abtreibungsfrage-ploetzlich-liberal-gibt-a-56c67c9d-a451-4f16-b002-331bbf7e97f0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/immobilien-niedrige-preise-gesunkene-zinsen-warum-jetzt-ein-guter-zeitpunkt-fuer-den-hauskauf-ist](https://www.spiegel.de/wirtschaft/service/immobilien-niedrige-preise-gesunkene-zinsen-warum-jetzt-ein-guter-zeitpunkt-fuer-den-hauskauf-ist-a-cd13b25e-8a72-4d61-b7b6-fa41a48260ac#ref=rss)
+### abtreibung
+
+* [https://www.spiegel.de/ausland/usa-warum-donald-trump-sich-in-der-abtreibungsfrage-ploetzlich-liberal-gibt](https://www.spiegel.de/ausland/usa-warum-donald-trump-sich-in-der-abtreibungsfrage-ploetzlich-liberal-gibt-a-56c67c9d-a451-4f16-b002-331bbf7e97f0#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/gehen-wertvorstellungen-global-immer-weiter-auseinander-oder-naehern-sie-sich-an](https://www.spiegel.de/wissenschaft/mensch/gehen-wertvorstellungen-global-immer-weiter-auseinander-oder-naehern-sie-sich-an-a-4676ba3e-260f-47f7-9181-faf0d88eb4df#ref=rss)
+### denn
+
+* [https://www.spiegel.de/ausland/usa-warum-donald-trump-sich-in-der-abtreibungsfrage-ploetzlich-liberal-gibt](https://www.spiegel.de/ausland/usa-warum-donald-trump-sich-in-der-abtreibungsfrage-ploetzlich-liberal-gibt-a-56c67c9d-a451-4f16-b002-331bbf7e97f0#ref=rss)
+* [https://www.spiegel.de/auto/elektroautos-warum-die-meisten-autofahrer-kleine-akkus-waehlen-sollten](https://www.spiegel.de/auto/elektroautos-warum-die-meisten-autofahrer-kleine-akkus-waehlen-sollten-a-6221ea27-d1b6-4d7b-a1b1-1f3c1e3e3c01#ref=rss)
+### olaf
+
+* [https://www.spiegel.de/wirtschaft/olaf-scholz-in-china-hoffnung-auf-fairen-wettbewerb-fuer-deutsche-unternehmen](https://www.spiegel.de/wirtschaft/olaf-scholz-in-china-hoffnung-auf-fairen-wettbewerb-fuer-deutsche-unternehmen-a-cae086d4-1b59-4f60-b728-6ba30d68b774#ref=rss)
+### scholz
+
+* [https://www.spiegel.de/wirtschaft/olaf-scholz-in-china-hoffnung-auf-fairen-wettbewerb-fuer-deutsche-unternehmen](https://www.spiegel.de/wirtschaft/olaf-scholz-in-china-hoffnung-auf-fairen-wettbewerb-fuer-deutsche-unternehmen-a-cae086d4-1b59-4f60-b728-6ba30d68b774#ref=rss)
+### china
+
+* [https://www.spiegel.de/wirtschaft/olaf-scholz-in-china-hoffnung-auf-fairen-wettbewerb-fuer-deutsche-unternehmen](https://www.spiegel.de/wirtschaft/olaf-scholz-in-china-hoffnung-auf-fairen-wettbewerb-fuer-deutsche-unternehmen-a-cae086d4-1b59-4f60-b728-6ba30d68b774#ref=rss)
+### wettbewerb
+
+* [https://www.spiegel.de/wirtschaft/olaf-scholz-in-china-hoffnung-auf-fairen-wettbewerb-fuer-deutsche-unternehmen](https://www.spiegel.de/wirtschaft/olaf-scholz-in-china-hoffnung-auf-fairen-wettbewerb-fuer-deutsche-unternehmen-a-cae086d4-1b59-4f60-b728-6ba30d68b774#ref=rss)
+### unternehmen
+
+* [https://www.spiegel.de/wirtschaft/olaf-scholz-in-china-hoffnung-auf-fairen-wettbewerb-fuer-deutsche-unternehmen](https://www.spiegel.de/wirtschaft/olaf-scholz-in-china-hoffnung-auf-fairen-wettbewerb-fuer-deutsche-unternehmen-a-cae086d4-1b59-4f60-b728-6ba30d68b774#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wirtschaft/olaf-scholz-in-china-hoffnung-auf-fairen-wettbewerb-fuer-deutsche-unternehmen](https://www.spiegel.de/wirtschaft/olaf-scholz-in-china-hoffnung-auf-fairen-wettbewerb-fuer-deutsche-unternehmen-a-cae086d4-1b59-4f60-b728-6ba30d68b774#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/immobilien-niedrige-preise-gesunkene-zinsen-warum-jetzt-ein-guter-zeitpunkt-fuer-den-hauskauf-ist](https://www.spiegel.de/wirtschaft/service/immobilien-niedrige-preise-gesunkene-zinsen-warum-jetzt-ein-guter-zeitpunkt-fuer-den-hauskauf-ist-a-cd13b25e-8a72-4d61-b7b6-fa41a48260ac#ref=rss)
+### holzminden
+
+* [https://www.spiegel.de/panorama/holzminden-schulbus-die-vorfahrt-genommen-16-verletzte](https://www.spiegel.de/panorama/holzminden-schulbus-die-vorfahrt-genommen-16-verletzte-a-e13941ea-0caa-4898-b553-4be77a1440f1#ref=rss)
+### vorfahrt
+
+* [https://www.spiegel.de/panorama/holzminden-schulbus-die-vorfahrt-genommen-16-verletzte](https://www.spiegel.de/panorama/holzminden-schulbus-die-vorfahrt-genommen-16-verletzte-a-e13941ea-0caa-4898-b553-4be77a1440f1#ref=rss)
+### genommen
+
+* [https://www.spiegel.de/panorama/holzminden-schulbus-die-vorfahrt-genommen-16-verletzte](https://www.spiegel.de/panorama/holzminden-schulbus-die-vorfahrt-genommen-16-verletzte-a-e13941ea-0caa-4898-b553-4be77a1440f1#ref=rss)
+### weser
+
+* [https://www.spiegel.de/panorama/bodenwerder-zweijaehriges-kind-faellt-in-die-weser-und-stirbt](https://www.spiegel.de/panorama/bodenwerder-zweijaehriges-kind-faellt-in-die-weser-und-stirbt-a-06d72f69-870f-49a8-901e-125da7797b1f#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/panorama/bodenwerder-zweijaehriges-kind-faellt-in-die-weser-und-stirbt](https://www.spiegel.de/panorama/bodenwerder-zweijaehriges-kind-faellt-in-die-weser-und-stirbt-a-06d72f69-870f-49a8-901e-125da7797b1f#ref=rss)
+* [https://www.spiegel.de/kultur/kino/bridget-jones-kehrt-auf-die-leinwand-zurueck](https://www.spiegel.de/kultur/kino/bridget-jones-kehrt-auf-die-leinwand-zurueck-a-111c1870-a610-480d-b89b-f2c32e25e0c4#ref=rss)
+### alter
+
+* [https://www.spiegel.de/panorama/bodenwerder-zweijaehriges-kind-faellt-in-die-weser-und-stirbt](https://www.spiegel.de/panorama/bodenwerder-zweijaehriges-kind-faellt-in-die-weser-und-stirbt-a-06d72f69-870f-49a8-901e-125da7797b1f#ref=rss)
+* [https://www.spiegel.de/kultur/kino/bridget-jones-kehrt-auf-die-leinwand-zurueck](https://www.spiegel.de/kultur/kino/bridget-jones-kehrt-auf-die-leinwand-zurueck-a-111c1870-a610-480d-b89b-f2c32e25e0c4#ref=rss)
+### erzbistum
+
+* [https://www.spiegel.de/panorama/erzbistum-koeln-weist-verantwortung-von-sich-weil-priester-pflegetochter-zu-hause-missbrauchte](https://www.spiegel.de/panorama/erzbistum-koeln-weist-verantwortung-von-sich-weil-priester-pflegetochter-zu-hause-missbrauchte-a-43c7f299-5078-4b40-8733-d8eb7571b75c#ref=rss)
+### köln
+
+* [https://www.spiegel.de/panorama/erzbistum-koeln-weist-verantwortung-von-sich-weil-priester-pflegetochter-zu-hause-missbrauchte](https://www.spiegel.de/panorama/erzbistum-koeln-weist-verantwortung-von-sich-weil-priester-pflegetochter-zu-hause-missbrauchte-a-43c7f299-5078-4b40-8733-d8eb7571b75c#ref=rss)
+### priester
+
+* [https://www.spiegel.de/panorama/erzbistum-koeln-weist-verantwortung-von-sich-weil-priester-pflegetochter-zu-hause-missbrauchte](https://www.spiegel.de/panorama/erzbistum-koeln-weist-verantwortung-von-sich-weil-priester-pflegetochter-zu-hause-missbrauchte-a-43c7f299-5078-4b40-8733-d8eb7571b75c#ref=rss)
+### pflegetochter
+
+* [https://www.spiegel.de/panorama/erzbistum-koeln-weist-verantwortung-von-sich-weil-priester-pflegetochter-zu-hause-missbrauchte](https://www.spiegel.de/panorama/erzbistum-koeln-weist-verantwortung-von-sich-weil-priester-pflegetochter-zu-hause-missbrauchte-a-43c7f299-5078-4b40-8733-d8eb7571b75c#ref=rss)
+### hause
+
+* [https://www.spiegel.de/panorama/erzbistum-koeln-weist-verantwortung-von-sich-weil-priester-pflegetochter-zu-hause-missbrauchte](https://www.spiegel.de/panorama/erzbistum-koeln-weist-verantwortung-von-sich-weil-priester-pflegetochter-zu-hause-missbrauchte-a-43c7f299-5078-4b40-8733-d8eb7571b75c#ref=rss)
+### real
+
+* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-und-manchester-city-liefern-atemberaubendes-action-feuerwerk](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-und-manchester-city-liefern-atemberaubendes-action-feuerwerk-a-c9136fbe-abee-4492-8a2e-38c869091e3d#ref=rss)
+### madrid
+
+* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-und-manchester-city-liefern-atemberaubendes-action-feuerwerk](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-und-manchester-city-liefern-atemberaubendes-action-feuerwerk-a-c9136fbe-abee-4492-8a2e-38c869091e3d#ref=rss)
+### manchester
+
+* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-und-manchester-city-liefern-atemberaubendes-action-feuerwerk](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-und-manchester-city-liefern-atemberaubendes-action-feuerwerk-a-c9136fbe-abee-4492-8a2e-38c869091e3d#ref=rss)
+### city
+
+* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-und-manchester-city-liefern-atemberaubendes-action-feuerwerk](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-und-manchester-city-liefern-atemberaubendes-action-feuerwerk-a-c9136fbe-abee-4492-8a2e-38c869091e3d#ref=rss)
+### atemberaubendes
+
+* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-und-manchester-city-liefern-atemberaubendes-action-feuerwerk](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-und-manchester-city-liefern-atemberaubendes-action-feuerwerk-a-c9136fbe-abee-4492-8a2e-38c869091e3d#ref=rss)
+### actionfeuerwerk
+
+* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-und-manchester-city-liefern-atemberaubendes-action-feuerwerk](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-und-manchester-city-liefern-atemberaubendes-action-feuerwerk-a-c9136fbe-abee-4492-8a2e-38c869091e3d#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-und-manchester-city-liefern-atemberaubendes-action-feuerwerk](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-und-manchester-city-liefern-atemberaubendes-action-feuerwerk-a-c9136fbe-abee-4492-8a2e-38c869091e3d#ref=rss)
+* [https://www.spiegel.de/auto/elektroautos-warum-die-meisten-autofahrer-kleine-akkus-waehlen-sollten](https://www.spiegel.de/auto/elektroautos-warum-die-meisten-autofahrer-kleine-akkus-waehlen-sollten-a-6221ea27-d1b6-4d7b-a1b1-1f3c1e3e3c01#ref=rss)
+### cdu
+
+* [https://www.spiegel.de/politik/deutschland/jugendkriminalitaet-cdu-und-csu-fordern-debatte-ueber-senkung-des-strafmuendigkeitsalters](https://www.spiegel.de/politik/deutschland/jugendkriminalitaet-cdu-und-csu-fordern-debatte-ueber-senkung-des-strafmuendigkeitsalters-a-58e0d1f0-7e2d-4ae8-bca2-21bd7ca7ec9e#ref=rss)
+### csu
+
+* [https://www.spiegel.de/politik/deutschland/jugendkriminalitaet-cdu-und-csu-fordern-debatte-ueber-senkung-des-strafmuendigkeitsalters](https://www.spiegel.de/politik/deutschland/jugendkriminalitaet-cdu-und-csu-fordern-debatte-ueber-senkung-des-strafmuendigkeitsalters-a-58e0d1f0-7e2d-4ae8-bca2-21bd7ca7ec9e#ref=rss)
+### strafmündigkeitsalters
+
+* [https://www.spiegel.de/politik/deutschland/jugendkriminalitaet-cdu-und-csu-fordern-debatte-ueber-senkung-des-strafmuendigkeitsalters](https://www.spiegel.de/politik/deutschland/jugendkriminalitaet-cdu-und-csu-fordern-debatte-ueber-senkung-des-strafmuendigkeitsalters-a-58e0d1f0-7e2d-4ae8-bca2-21bd7ca7ec9e#ref=rss)
+### vorratsdatenspeicherung
+
+* [https://www.spiegel.de/politik/deutschland/fdp-und-spd-einigen-sich-zu-vorratsdatenspeicherung-und-mietpreisbremse](https://www.spiegel.de/politik/deutschland/fdp-und-spd-einigen-sich-zu-vorratsdatenspeicherung-und-mietpreisbremse-a-14604c13-72b7-48db-a173-46282987e379#ref=rss)
+### mietpreisbremse
+
+* [https://www.spiegel.de/politik/deutschland/fdp-und-spd-einigen-sich-zu-vorratsdatenspeicherung-und-mietpreisbremse](https://www.spiegel.de/politik/deutschland/fdp-und-spd-einigen-sich-zu-vorratsdatenspeicherung-und-mietpreisbremse-a-14604c13-72b7-48db-a173-46282987e379#ref=rss)
+### elektroautos
+
+* [https://www.spiegel.de/auto/elektroautos-warum-die-meisten-autofahrer-kleine-akkus-waehlen-sollten](https://www.spiegel.de/auto/elektroautos-warum-die-meisten-autofahrer-kleine-akkus-waehlen-sollten-a-6221ea27-d1b6-4d7b-a1b1-1f3c1e3e3c01#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/hersteller-kappen-rabatte-fuer-elektroautos](https://www.spiegel.de/wirtschaft/unternehmen/hersteller-kappen-rabatte-fuer-elektroautos-a-db9d698e-488f-44c0-b7a4-d08c99320975#ref=rss)
+### kleine
+
+* [https://www.spiegel.de/auto/elektroautos-warum-die-meisten-autofahrer-kleine-akkus-waehlen-sollten](https://www.spiegel.de/auto/elektroautos-warum-die-meisten-autofahrer-kleine-akkus-waehlen-sollten-a-6221ea27-d1b6-4d7b-a1b1-1f3c1e3e3c01#ref=rss)
+### sollten
+
+* [https://www.spiegel.de/auto/elektroautos-warum-die-meisten-autofahrer-kleine-akkus-waehlen-sollten](https://www.spiegel.de/auto/elektroautos-warum-die-meisten-autofahrer-kleine-akkus-waehlen-sollten-a-6221ea27-d1b6-4d7b-a1b1-1f3c1e3e3c01#ref=rss)
+### je
+
+* [https://www.spiegel.de/auto/elektroautos-warum-die-meisten-autofahrer-kleine-akkus-waehlen-sollten](https://www.spiegel.de/auto/elektroautos-warum-die-meisten-autofahrer-kleine-akkus-waehlen-sollten-a-6221ea27-d1b6-4d7b-a1b1-1f3c1e3e3c01#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-fuehlt-sich-benachteiligt-schiedsrichter-verwehrt-elfmeter](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-fuehlt-sich-benachteiligt-schiedsrichter-verwehrt-elfmeter-a-8cf1cecd-0041-4810-8a21-d00e4959d9b7#ref=rss)
+### studie
+
+* [https://www.spiegel.de/auto/elektroautos-warum-die-meisten-autofahrer-kleine-akkus-waehlen-sollten](https://www.spiegel.de/auto/elektroautos-warum-die-meisten-autofahrer-kleine-akkus-waehlen-sollten-a-6221ea27-d1b6-4d7b-a1b1-1f3c1e3e3c01#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/gehen-wertvorstellungen-global-immer-weiter-auseinander-oder-naehern-sie-sich-an](https://www.spiegel.de/wissenschaft/mensch/gehen-wertvorstellungen-global-immer-weiter-auseinander-oder-naehern-sie-sich-an-a-4676ba3e-260f-47f7-9181-faf0d88eb4df#ref=rss)
+### eautos
+
+* [https://www.spiegel.de/auto/elektroautos-warum-die-meisten-autofahrer-kleine-akkus-waehlen-sollten](https://www.spiegel.de/auto/elektroautos-warum-die-meisten-autofahrer-kleine-akkus-waehlen-sollten-a-6221ea27-d1b6-4d7b-a1b1-1f3c1e3e3c01#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/hersteller-kappen-rabatte-fuer-elektroautos](https://www.spiegel.de/wirtschaft/unternehmen/hersteller-kappen-rabatte-fuer-elektroautos-a-db9d698e-488f-44c0-b7a4-d08c99320975#ref=rss)
+### kindergrundsicherung
+
+* [https://www.spiegel.de/politik/deutschland/kindergrundsicherung-lisa-paus-lehnt-grundlegende-ueberarbeitung-ab](https://www.spiegel.de/politik/deutschland/kindergrundsicherung-lisa-paus-lehnt-grundlegende-ueberarbeitung-ab-a-9e0153e1-631b-4269-8591-3d4c1a6bd6c7#ref=rss)
+### paus
+
+* [https://www.spiegel.de/politik/deutschland/kindergrundsicherung-lisa-paus-lehnt-grundlegende-ueberarbeitung-ab](https://www.spiegel.de/politik/deutschland/kindergrundsicherung-lisa-paus-lehnt-grundlegende-ueberarbeitung-ab-a-9e0153e1-631b-4269-8591-3d4c1a6bd6c7#ref=rss)
+### kriminalität
+
+* [https://www.spiegel.de/panorama/justiz/kriminalstatistik-allein-so-laesst-sich-die-kriminalitaet-nicht-bekaempfen](https://www.spiegel.de/panorama/justiz/kriminalstatistik-allein-so-laesst-sich-die-kriminalitaet-nicht-bekaempfen-a-ed2140bb-95b2-40ce-8bc8-a5c50e53e6cd#ref=rss)
+### preise
+
+* [https://www.spiegel.de/wirtschaft/service/immobilien-niedrige-preise-gesunkene-zinsen-warum-jetzt-ein-guter-zeitpunkt-fuer-den-hauskauf-ist](https://www.spiegel.de/wirtschaft/service/immobilien-niedrige-preise-gesunkene-zinsen-warum-jetzt-ein-guter-zeitpunkt-fuer-den-hauskauf-ist-a-cd13b25e-8a72-4d61-b7b6-fa41a48260ac#ref=rss)
+### zinsen
+
+* [https://www.spiegel.de/wirtschaft/service/immobilien-niedrige-preise-gesunkene-zinsen-warum-jetzt-ein-guter-zeitpunkt-fuer-den-hauskauf-ist](https://www.spiegel.de/wirtschaft/service/immobilien-niedrige-preise-gesunkene-zinsen-warum-jetzt-ein-guter-zeitpunkt-fuer-den-hauskauf-ist-a-cd13b25e-8a72-4d61-b7b6-fa41a48260ac#ref=rss)
+### hersteller
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/hersteller-kappen-rabatte-fuer-elektroautos](https://www.spiegel.de/wirtschaft/unternehmen/hersteller-kappen-rabatte-fuer-elektroautos-a-db9d698e-488f-44c0-b7a4-d08c99320975#ref=rss)
+### gehen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/hersteller-kappen-rabatte-fuer-elektroautos](https://www.spiegel.de/wirtschaft/unternehmen/hersteller-kappen-rabatte-fuer-elektroautos-a-db9d698e-488f-44c0-b7a4-d08c99320975#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/gehen-wertvorstellungen-global-immer-weiter-auseinander-oder-naehern-sie-sich-an](https://www.spiegel.de/wissenschaft/mensch/gehen-wertvorstellungen-global-immer-weiter-auseinander-oder-naehern-sie-sich-an-a-4676ba3e-260f-47f7-9181-faf0d88eb4df#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/hersteller-kappen-rabatte-fuer-elektroautos](https://www.spiegel.de/wirtschaft/unternehmen/hersteller-kappen-rabatte-fuer-elektroautos-a-db9d698e-488f-44c0-b7a4-d08c99320975#ref=rss)
+* [https://www.spiegel.de/kultur/kino/bridget-jones-kehrt-auf-die-leinwand-zurueck](https://www.spiegel.de/kultur/kino/bridget-jones-kehrt-auf-die-leinwand-zurueck-a-111c1870-a610-480d-b89b-f2c32e25e0c4#ref=rss)
+### münchen
+
+* [https://www.spiegel.de/sport/fussball/champions-league-starker-fc-bayern-muenchen-holt-remis-beim-fc-arsenal-zweckverliebt](https://www.spiegel.de/sport/fussball/champions-league-starker-fc-bayern-muenchen-holt-remis-beim-fc-arsenal-zweckverliebt-a-acea4519-3c55-4dce-867d-36c9f6279747#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-fuehlt-sich-benachteiligt-schiedsrichter-verwehrt-elfmeter](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-fuehlt-sich-benachteiligt-schiedsrichter-verwehrt-elfmeter-a-8cf1cecd-0041-4810-8a21-d00e4959d9b7#ref=rss)
+### arsenal
+
+* [https://www.spiegel.de/sport/fussball/champions-league-starker-fc-bayern-muenchen-holt-remis-beim-fc-arsenal-zweckverliebt](https://www.spiegel.de/sport/fussball/champions-league-starker-fc-bayern-muenchen-holt-remis-beim-fc-arsenal-zweckverliebt-a-acea4519-3c55-4dce-867d-36c9f6279747#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-fuehlt-sich-benachteiligt-schiedsrichter-verwehrt-elfmeter](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-fuehlt-sich-benachteiligt-schiedsrichter-verwehrt-elfmeter-a-8cf1cecd-0041-4810-8a21-d00e4959d9b7#ref=rss)
+### schiedsrichter
+
+* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-fuehlt-sich-benachteiligt-schiedsrichter-verwehrt-elfmeter](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-fuehlt-sich-benachteiligt-schiedsrichter-verwehrt-elfmeter-a-8cf1cecd-0041-4810-8a21-d00e4959d9b7#ref=rss)
+### elfmeter
+
+* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-fuehlt-sich-benachteiligt-schiedsrichter-verwehrt-elfmeter](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-fuehlt-sich-benachteiligt-schiedsrichter-verwehrt-elfmeter-a-8cf1cecd-0041-4810-8a21-d00e4959d9b7#ref=rss)
+### jones
+
+* [https://www.spiegel.de/kultur/kino/bridget-jones-kehrt-auf-die-leinwand-zurueck](https://www.spiegel.de/kultur/kino/bridget-jones-kehrt-auf-die-leinwand-zurueck-a-111c1870-a610-480d-b89b-f2c32e25e0c4#ref=rss)
+### kampagnen
+
+* [https://www.spiegel.de/kultur/musik/esc-veranstalter-verurteilen-kampagnen-gegen-musiker](https://www.spiegel.de/kultur/musik/esc-veranstalter-verurteilen-kampagnen-gegen-musiker-a-9e727151-8fec-4f5d-bfa1-8a23a0d16d9a#ref=rss)
+### irlands
+
+* [https://www.spiegel.de/ausland/israel-irlands-aussenminister-will-einen-staat-palaestina-formell-anerkennen](https://www.spiegel.de/ausland/israel-irlands-aussenminister-will-einen-staat-palaestina-formell-anerkennen-a-be8d1ff5-9487-47d5-8581-a87f3fefec72#ref=rss)
+### außenminister
+
+* [https://www.spiegel.de/ausland/israel-irlands-aussenminister-will-einen-staat-palaestina-formell-anerkennen](https://www.spiegel.de/ausland/israel-irlands-aussenminister-will-einen-staat-palaestina-formell-anerkennen-a-be8d1ff5-9487-47d5-8581-a87f3fefec72#ref=rss)
 
