@@ -6,297 +6,337 @@ tags: __no_header__
 
 ### mehr
 
-* [https://www.spiegel.de/panorama/bildung/bildung-rund-ein-drittel-der-arbeitszeit-von-lehrkraeften-entfaellt-auf-unterricht](https://www.spiegel.de/panorama/bildung/bildung-rund-ein-drittel-der-arbeitszeit-von-lehrkraeften-entfaellt-auf-unterricht-a-f5e1cd5b-d15d-4729-b308-1c0dfacb8a38#ref=rss)
-* [https://www.spiegel.de/auto/berlin-bvg-schafft-festen-bus-und-bahn-fahrplan-auf-einigen-linien-ab](https://www.spiegel.de/auto/berlin-bvg-schafft-festen-bus-und-bahn-fahrplan-auf-einigen-linien-ab-a-e85553d0-0de0-409a-844e-9ffa1f63b066#ref=rss)
-* [https://www.spiegel.de/ausland/polens-abtreibungsrecht-parlament-spricht-sich-fuer-liberaleres-gesetz-aus](https://www.spiegel.de/ausland/polens-abtreibungsrecht-parlament-spricht-sich-fuer-liberaleres-gesetz-aus-a-3fb113ab-d608-4849-90d0-c3a45e4829ea#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/namensaenderung-neue-gesetzesaenderung-ermoeglicht-doppelnamen-fuer-ehepaare](https://www.spiegel.de/politik/deutschland/namensaenderung-neue-gesetzesaenderung-ermoeglicht-doppelnamen-fuer-ehepaare-a-3da1b911-a018-436e-ad81-853e89b15ac5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/selbstbestimmungsgesetz-vom-bundestag-beschlossen-mehr-rechte-fuer-trans-personen](https://www.spiegel.de/politik/deutschland/selbstbestimmungsgesetz-vom-bundestag-beschlossen-mehr-rechte-fuer-trans-personen-a-6b9d3c8f-93c6-48db-920a-a0369ca2c060#ref=rss)
-* [https://www.spiegel.de/panorama/orenburg-russische-behoerden-evakuieren-grossstadt-wegen-ueberschwemmungen](https://www.spiegel.de/panorama/orenburg-russische-behoerden-evakuieren-grossstadt-wegen-ueberschwemmungen-a-893e0834-6da5-465a-8396-7eefd0abe643#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/nahostkrieg-israel-macht-sich-auf-einen-angriff-aus-iran-gefasst](https://www.spiegel.de/ausland/nahostkrieg-israel-macht-sich-auf-einen-angriff-aus-iran-gefasst-a-b788e9a7-30ec-4ad7-9e6f-2be42079a267#ref=rss)
-* [https://www.spiegel.de/ausland/israel-erste-hilfslieferung-ueber-neuen-uebergang-zum-norden-des-gazastreifens](https://www.spiegel.de/ausland/israel-erste-hilfslieferung-ueber-neuen-uebergang-zum-norden-des-gazastreifens-a-6ff76f92-3d1e-479e-945a-5fb5e8312346#ref=rss)
-* [https://www.spiegel.de/ausland/hamas-von-eu-wegen-menschenrechtsverletzungen-auf-sanktionsliste-gesetzt](https://www.spiegel.de/ausland/hamas-von-eu-wegen-menschenrechtsverletzungen-auf-sanktionsliste-gesetzt-a-29a20cfc-4d0f-4bf2-a070-18bbe4158c90#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/justiz/berlin-polizei-loest-umstrittenen-palaestina-kongress-auf](https://www.spiegel.de/panorama/justiz/berlin-polizei-loest-umstrittenen-palaestina-kongress-auf-a-cf8e36e8-8333-408d-beb9-93567015b2c5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/jerome-boatengs-karriere-nach-kasia-lenhardts-tod-podcast-nda](https://www.spiegel.de/panorama/justiz/jerome-boatengs-karriere-nach-kasia-lenhardts-tod-podcast-nda-a-884d236e-d5f7-491c-838a-62a23f497cb9#ref=rss)
-* [https://www.spiegel.de/auto/berlin-bvg-schafft-festen-bus-und-bahn-fahrplan-auf-einigen-linien-ab](https://www.spiegel.de/auto/berlin-bvg-schafft-festen-bus-und-bahn-fahrplan-auf-einigen-linien-ab-a-e85553d0-0de0-409a-844e-9ffa1f63b066#ref=rss)
-### bayer
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-streit-ueber-fahrverbote-volker-wissing-schleuser-kriminalitaet-bayer-leverkusen](https://www.spiegel.de/politik/deutschland/news-des-tages-streit-ueber-fahrverbote-volker-wissing-schleuser-kriminalitaet-bayer-leverkusen-a-c1b2ecf3-d571-4169-b7a8-834b4ea9113e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-bayer-leverkusen-koennte-schon-am-naechsten-spieltag-meister-werden-sogar-auf-der-couch](https://www.spiegel.de/sport/fussball/bundesliga-bayer-leverkusen-koennte-schon-am-naechsten-spieltag-meister-werden-sogar-auf-der-couch-a-34dd42b4-4c2c-45a5-827b-53c30ba7e3f9#ref=rss)
-### selbstbestimmungsgesetz
-
-* [https://www.spiegel.de/politik/deutschland/selbstbestimmungsgesetz-das-letzte-gefecht-der-ampelkoalition](https://www.spiegel.de/politik/deutschland/selbstbestimmungsgesetz-das-letzte-gefecht-der-ampelkoalition-a-0c7b6e2a-6dc2-4097-9f6e-71aa19efc889#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/selbstbestimmungsgesetz-vom-bundestag-beschlossen-mehr-rechte-fuer-trans-personen](https://www.spiegel.de/politik/deutschland/selbstbestimmungsgesetz-vom-bundestag-beschlossen-mehr-rechte-fuer-trans-personen-a-6b9d3c8f-93c6-48db-920a-a0369ca2c060#ref=rss)
-### olaf
-
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-und-olaf-scholz-interner-streit-wegen-umgang-mit-wirtschaftsvertretern](https://www.spiegel.de/politik/deutschland/christian-lindner-und-olaf-scholz-interner-streit-wegen-umgang-mit-wirtschaftsvertretern-a-060f3331-e86e-4f3f-997f-6e3f518359c6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/georgien-bundeskanzler-olaf-scholz-kritisiert-umstrittenes-agenten-gesetz](https://www.spiegel.de/politik/deutschland/georgien-bundeskanzler-olaf-scholz-kritisiert-umstrittenes-agenten-gesetz-a-a10e9a48-e5f5-4a8d-aedd-1411218dd027#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-und-olaf-scholz-interner-streit-wegen-umgang-mit-wirtschaftsvertretern](https://www.spiegel.de/politik/deutschland/christian-lindner-und-olaf-scholz-interner-streit-wegen-umgang-mit-wirtschaftsvertretern-a-060f3331-e86e-4f3f-997f-6e3f518359c6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/georgien-bundeskanzler-olaf-scholz-kritisiert-umstrittenes-agenten-gesetz](https://www.spiegel.de/politik/deutschland/georgien-bundeskanzler-olaf-scholz-kritisiert-umstrittenes-agenten-gesetz-a-a10e9a48-e5f5-4a8d-aedd-1411218dd027#ref=rss)
-### streit
-
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-und-olaf-scholz-interner-streit-wegen-umgang-mit-wirtschaftsvertretern](https://www.spiegel.de/politik/deutschland/christian-lindner-und-olaf-scholz-interner-streit-wegen-umgang-mit-wirtschaftsvertretern-a-060f3331-e86e-4f3f-997f-6e3f518359c6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-streit-ueber-fahrverbote-volker-wissing-schleuser-kriminalitaet-bayer-leverkusen](https://www.spiegel.de/politik/deutschland/news-des-tages-streit-ueber-fahrverbote-volker-wissing-schleuser-kriminalitaet-bayer-leverkusen-a-c1b2ecf3-d571-4169-b7a8-834b4ea9113e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/nuernberg-13-jaehriger-wird-auf-spielplatz-festgehalten-und-von-ehepaar-schwer-verletzt](https://www.spiegel.de/panorama/justiz/nuernberg-13-jaehriger-wird-auf-spielplatz-festgehalten-und-von-ehepaar-schwer-verletzt-a-ef5bf3c9-03d4-4ef4-8a65-90093e9c0b8e#ref=rss)
-### woche
-
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-und-olaf-scholz-interner-streit-wegen-umgang-mit-wirtschaftsvertretern](https://www.spiegel.de/politik/deutschland/christian-lindner-und-olaf-scholz-interner-streit-wegen-umgang-mit-wirtschaftsvertretern-a-060f3331-e86e-4f3f-997f-6e3f518359c6#ref=rss)
-* [https://www.spiegel.de/kultur/musik/abgehoert-album-der-woche-haus-mit-nichtseattle](https://www.spiegel.de/kultur/musik/abgehoert-album-der-woche-haus-mit-nichtseattle-a-769b8613-7ca8-4c1f-a776-511c81afa551#ref=rss)
-### behörden
-
-* [https://www.spiegel.de/panorama/justiz/berlin-polizei-loest-umstrittenen-palaestina-kongress-auf](https://www.spiegel.de/panorama/justiz/berlin-polizei-loest-umstrittenen-palaestina-kongress-auf-a-cf8e36e8-8333-408d-beb9-93567015b2c5#ref=rss)
-* [https://www.spiegel.de/panorama/orenburg-russische-behoerden-evakuieren-grossstadt-wegen-ueberschwemmungen](https://www.spiegel.de/panorama/orenburg-russische-behoerden-evakuieren-grossstadt-wegen-ueberschwemmungen-a-893e0834-6da5-465a-8396-7eefd0abe643#ref=rss)
-### podcast
-
-* [https://www.spiegel.de/panorama/justiz/jerome-boatengs-karriere-nach-kasia-lenhardts-tod-podcast-nda](https://www.spiegel.de/panorama/justiz/jerome-boatengs-karriere-nach-kasia-lenhardts-tod-podcast-nda-a-884d236e-d5f7-491c-838a-62a23f497cb9#ref=rss)
-* [https://www.spiegel.de/kultur/anne-will-will-wieder-woechentlich-talken-aber-im-podcast](https://www.spiegel.de/kultur/anne-will-will-wieder-woechentlich-talken-aber-im-podcast-a-cfef9e14-e879-48c2-ac89-0875315e0720#ref=rss)
-### björn
-
-* [https://www.spiegel.de/wirtschaft/bjoern-hoecke-telekom-will-unterlassungsaufforderung-an-bjoern-hoecke-schicken](https://www.spiegel.de/wirtschaft/bjoern-hoecke-telekom-will-unterlassungsaufforderung-an-bjoern-hoecke-schicken-a-713c424b-c654-4aac-967b-7e59e75e2518#ref=rss)
-### höcke
-
-* [https://www.spiegel.de/wirtschaft/bjoern-hoecke-telekom-will-unterlassungsaufforderung-an-bjoern-hoecke-schicken](https://www.spiegel.de/wirtschaft/bjoern-hoecke-telekom-will-unterlassungsaufforderung-an-bjoern-hoecke-schicken-a-713c424b-c654-4aac-967b-7e59e75e2518#ref=rss)
-### leverkusen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-streit-ueber-fahrverbote-volker-wissing-schleuser-kriminalitaet-bayer-leverkusen](https://www.spiegel.de/politik/deutschland/news-des-tages-streit-ueber-fahrverbote-volker-wissing-schleuser-kriminalitaet-bayer-leverkusen-a-c1b2ecf3-d571-4169-b7a8-834b4ea9113e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-bayer-leverkusen-koennte-schon-am-naechsten-spieltag-meister-werden-sogar-auf-der-couch](https://www.spiegel.de/sport/fussball/bundesliga-bayer-leverkusen-koennte-schon-am-naechsten-spieltag-meister-werden-sogar-auf-der-couch-a-34dd42b4-4c2c-45a5-827b-53c30ba7e3f9#ref=rss)
-### einigen
-
-* [https://www.spiegel.de/auto/berlin-bvg-schafft-festen-bus-und-bahn-fahrplan-auf-einigen-linien-ab](https://www.spiegel.de/auto/berlin-bvg-schafft-festen-bus-und-bahn-fahrplan-auf-einigen-linien-ab-a-e85553d0-0de0-409a-844e-9ffa1f63b066#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/namensaenderung-neue-gesetzesaenderung-ermoeglicht-doppelnamen-fuer-ehepaare](https://www.spiegel.de/politik/deutschland/namensaenderung-neue-gesetzesaenderung-ermoeglicht-doppelnamen-fuer-ehepaare-a-3da1b911-a018-436e-ad81-853e89b15ac5#ref=rss)
-### vorhaben
-
-* [https://www.spiegel.de/politik/deutschland/georgien-bundeskanzler-olaf-scholz-kritisiert-umstrittenes-agenten-gesetz](https://www.spiegel.de/politik/deutschland/georgien-bundeskanzler-olaf-scholz-kritisiert-umstrittenes-agenten-gesetz-a-a10e9a48-e5f5-4a8d-aedd-1411218dd027#ref=rss)
-* [https://www.spiegel.de/ausland/polens-abtreibungsrecht-parlament-spricht-sich-fuer-liberaleres-gesetz-aus](https://www.spiegel.de/ausland/polens-abtreibungsrecht-parlament-spricht-sich-fuer-liberaleres-gesetz-aus-a-3fb113ab-d608-4849-90d0-c3a45e4829ea#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/selbstbestimmungsgesetz-das-letzte-gefecht-der-ampelkoalition](https://www.spiegel.de/politik/deutschland/selbstbestimmungsgesetz-das-letzte-gefecht-der-ampelkoalition-a-0c7b6e2a-6dc2-4097-9f6e-71aa19efc889#ref=rss)
-### parlament
-
-* [https://www.spiegel.de/ausland/polens-abtreibungsrecht-parlament-spricht-sich-fuer-liberaleres-gesetz-aus](https://www.spiegel.de/ausland/polens-abtreibungsrecht-parlament-spricht-sich-fuer-liberaleres-gesetz-aus-a-3fb113ab-d608-4849-90d0-c3a45e4829ea#ref=rss)
-* [https://www.spiegel.de/ausland/arizona-gebetsgruppe-irritiert-mit-bizarrem-ritual-im-parlament-senator-mittendrin](https://www.spiegel.de/ausland/arizona-gebetsgruppe-irritiert-mit-bizarrem-ritual-im-parlament-senator-mittendrin-a-3e4abf95-dd29-4c9b-8ee1-44371b6f2f63#ref=rss)
-### bundestag
-
-* [https://www.spiegel.de/politik/deutschland/namensaenderung-neue-gesetzesaenderung-ermoeglicht-doppelnamen-fuer-ehepaare](https://www.spiegel.de/politik/deutschland/namensaenderung-neue-gesetzesaenderung-ermoeglicht-doppelnamen-fuer-ehepaare-a-3da1b911-a018-436e-ad81-853e89b15ac5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/selbstbestimmungsgesetz-vom-bundestag-beschlossen-mehr-rechte-fuer-trans-personen](https://www.spiegel.de/politik/deutschland/selbstbestimmungsgesetz-vom-bundestag-beschlossen-mehr-rechte-fuer-trans-personen-a-6b9d3c8f-93c6-48db-920a-a0369ca2c060#ref=rss)
-### macht
-
-* [https://www.spiegel.de/ausland/nahostkrieg-israel-macht-sich-auf-einen-angriff-aus-iran-gefasst](https://www.spiegel.de/ausland/nahostkrieg-israel-macht-sich-auf-einen-angriff-aus-iran-gefasst-a-b788e9a7-30ec-4ad7-9e6f-2be42079a267#ref=rss)
-### angriff
-
-* [https://www.spiegel.de/ausland/nahostkrieg-israel-macht-sich-auf-einen-angriff-aus-iran-gefasst](https://www.spiegel.de/ausland/nahostkrieg-israel-macht-sich-auf-einen-angriff-aus-iran-gefasst-a-b788e9a7-30ec-4ad7-9e6f-2be42079a267#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/nahostkrieg-israel-macht-sich-auf-einen-angriff-aus-iran-gefasst](https://www.spiegel.de/ausland/nahostkrieg-israel-macht-sich-auf-einen-angriff-aus-iran-gefasst-a-b788e9a7-30ec-4ad7-9e6f-2be42079a267#ref=rss)
-### gefasst
-
-* [https://www.spiegel.de/ausland/nahostkrieg-israel-macht-sich-auf-einen-angriff-aus-iran-gefasst](https://www.spiegel.de/ausland/nahostkrieg-israel-macht-sich-auf-einen-angriff-aus-iran-gefasst-a-b788e9a7-30ec-4ad7-9e6f-2be42079a267#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/ausland/israel-erste-hilfslieferung-ueber-neuen-uebergang-zum-norden-des-gazastreifens](https://www.spiegel.de/ausland/israel-erste-hilfslieferung-ueber-neuen-uebergang-zum-norden-des-gazastreifens-a-6ff76f92-3d1e-479e-945a-5fb5e8312346#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-streit-ueber-fahrverbote-volker-wissing-schleuser-kriminalitaet-bayer-leverkusen](https://www.spiegel.de/politik/deutschland/news-des-tages-streit-ueber-fahrverbote-volker-wissing-schleuser-kriminalitaet-bayer-leverkusen-a-c1b2ecf3-d571-4169-b7a8-834b4ea9113e#ref=rss)
-### norden
-
-* [https://www.spiegel.de/ausland/israel-erste-hilfslieferung-ueber-neuen-uebergang-zum-norden-des-gazastreifens](https://www.spiegel.de/ausland/israel-erste-hilfslieferung-ueber-neuen-uebergang-zum-norden-des-gazastreifens-a-6ff76f92-3d1e-479e-945a-5fb5e8312346#ref=rss)
-### lage
-
-* [https://www.spiegel.de/ausland/israel-erste-hilfslieferung-ueber-neuen-uebergang-zum-norden-des-gazastreifens](https://www.spiegel.de/ausland/israel-erste-hilfslieferung-ueber-neuen-uebergang-zum-norden-des-gazastreifens-a-6ff76f92-3d1e-479e-945a-5fb5e8312346#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-streit-ueber-fahrverbote-volker-wissing-schleuser-kriminalitaet-bayer-leverkusen](https://www.spiegel.de/politik/deutschland/news-des-tages-streit-ueber-fahrverbote-volker-wissing-schleuser-kriminalitaet-bayer-leverkusen-a-c1b2ecf3-d571-4169-b7a8-834b4ea9113e#ref=rss)
-### oj
-
-* [https://www.spiegel.de/kultur/o-j-simpsons-fall-und-der-aufstieg-der-kardashians-vom-doppelmord-zur-reality-familie](https://www.spiegel.de/kultur/o-j-simpsons-fall-und-der-aufstieg-der-kardashians-vom-doppelmord-zur-reality-familie-a-f8c8b03f-2579-4a70-9633-059d40134f57#ref=rss)
-### simpson
-
-* [https://www.spiegel.de/kultur/o-j-simpsons-fall-und-der-aufstieg-der-kardashians-vom-doppelmord-zur-reality-familie](https://www.spiegel.de/kultur/o-j-simpsons-fall-und-der-aufstieg-der-kardashians-vom-doppelmord-zur-reality-familie-a-f8c8b03f-2579-4a70-9633-059d40134f57#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-hilfe-offener-brief-an-olaf-scholz-spd-aus-der-uckermark-offenbar-nicht-mehr-abrufbar](https://www.spiegel.de/politik/ukraine-hilfe-offener-brief-an-olaf-scholz-spd-aus-der-uckermark-offenbar-nicht-mehr-abrufbar-a-a96011c1-623c-4125-9118-493be6ed7098#ref=rss)
+* [https://www.spiegel.de/tests/brettspiele/scrabble-wird-zum-teamspiel-neue-variante-des-klassikers](https://www.spiegel.de/tests/brettspiele/scrabble-wird-zum-teamspiel-neue-variante-des-klassikers-a-fb9a93b6-3dce-42af-9dfd-6fdb8c730fc1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/oekonom-tom-krebs-zur-deutschen-industrie-selbst-die-oelpreiskrise-war-im-vergleich-harmlos](https://www.spiegel.de/wirtschaft/oekonom-tom-krebs-zur-deutschen-industrie-selbst-die-oelpreiskrise-war-im-vergleich-harmlos-a-da60910c-8b54-44ec-a009-5b290c2fe9b2#ref=rss)
+* [https://www.spiegel.de/ausland/usa-mehr-sterilisationen-seit-aufhebung-von-landesweitem-abtreibungsrecht](https://www.spiegel.de/ausland/usa-mehr-sterilisationen-seit-aufhebung-von-landesweitem-abtreibungsrecht-a-8ad1d78f-83d5-4673-b697-64c8c707879c#ref=rss)
+* [https://www.spiegel.de/reise/deutschland/schoenste-schwimmbaeder-schwimmbad-tourist-philipp-reussner-gibt-tipps](https://www.spiegel.de/reise/deutschland/schoenste-schwimmbaeder-schwimmbad-tourist-philipp-reussner-gibt-tipps-a-eef57f8a-dda4-43a0-b310-15b495f5561f#ref=rss)
+* [https://www.spiegel.de/netzwelt/netflix-preiserhoehung-in-deutschland-um-bis-zu-zwei-euro-im-monat](https://www.spiegel.de/netzwelt/netflix-preiserhoehung-in-deutschland-um-bis-zu-zwei-euro-im-monat-a-da9f3b73-2e77-48e8-bdce-bc7a1a52cf15#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/kultur/o-j-simpsons-fall-und-der-aufstieg-der-kardashians-vom-doppelmord-zur-reality-familie](https://www.spiegel.de/kultur/o-j-simpsons-fall-und-der-aufstieg-der-kardashians-vom-doppelmord-zur-reality-familie-a-f8c8b03f-2579-4a70-9633-059d40134f57#ref=rss)
-* [https://www.spiegel.de/ausland/gipfel-zwischen-usa-japan-und-philippinen-joe-bidens-bollwerk-gegen-china](https://www.spiegel.de/ausland/gipfel-zwischen-usa-japan-und-philippinen-joe-bidens-bollwerk-gegen-china-a-3caf9a95-57f2-4f27-b7b2-7c63dca21a7d#ref=rss)
-### familie
+* [https://www.spiegel.de/ausland/spionage-fuer-kuba-frueherer-us-botschafter-muss-15-jahre-in-haft](https://www.spiegel.de/ausland/spionage-fuer-kuba-frueherer-us-botschafter-muss-15-jahre-in-haft-a-8b508a4f-0c35-4c24-989e-8a64c843cb3c#ref=rss)
+* [https://www.spiegel.de/sport/olympia/knappe-olympia-uniformen-fuer-us-athletinnen-sorgen-fuer-empoerung](https://www.spiegel.de/sport/olympia/knappe-olympia-uniformen-fuer-us-athletinnen-sorgen-fuer-empoerung-a-88f893b9-8ba2-42f7-9774-abda4c6c6d59#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/us-abgeordnete-kritisieren-regierung-von-joe-biden-fuer-intel-kooperation-mit-huawei](https://www.spiegel.de/wirtschaft/unternehmen/us-abgeordnete-kritisieren-regierung-von-joe-biden-fuer-intel-kooperation-mit-huawei-a-0358cb36-282e-4230-b660-6ba4e8e02c25#ref=rss)
+* [https://www.spiegel.de/ausland/usa-mehr-sterilisationen-seit-aufhebung-von-landesweitem-abtreibungsrecht](https://www.spiegel.de/ausland/usa-mehr-sterilisationen-seit-aufhebung-von-landesweitem-abtreibungsrecht-a-8ad1d78f-83d5-4673-b697-64c8c707879c#ref=rss)
+* [https://www.spiegel.de/netzwelt/netflix-preiserhoehung-in-deutschland-um-bis-zu-zwei-euro-im-monat](https://www.spiegel.de/netzwelt/netflix-preiserhoehung-in-deutschland-um-bis-zu-zwei-euro-im-monat-a-da9f3b73-2e77-48e8-bdce-bc7a1a52cf15#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/kultur/o-j-simpsons-fall-und-der-aufstieg-der-kardashians-vom-doppelmord-zur-reality-familie](https://www.spiegel.de/kultur/o-j-simpsons-fall-und-der-aufstieg-der-kardashians-vom-doppelmord-zur-reality-familie-a-f8c8b03f-2579-4a70-9633-059d40134f57#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/namensaenderung-neue-gesetzesaenderung-ermoeglicht-doppelnamen-fuer-ehepaare](https://www.spiegel.de/politik/deutschland/namensaenderung-neue-gesetzesaenderung-ermoeglicht-doppelnamen-fuer-ehepaare-a-3da1b911-a018-436e-ad81-853e89b15ac5#ref=rss)
-### beginn
+* [https://www.spiegel.de/panorama/justiz/sydney-zahl-der-todesopfer-bei-angriff-in-australischer-mall-steigt-auf-sechs](https://www.spiegel.de/panorama/justiz/sydney-zahl-der-todesopfer-bei-angriff-in-australischer-mall-steigt-auf-sechs-a-1c266a9c-af66-4b36-8fdc-82d6a02efdf9#ref=rss)
+* [https://www.spiegel.de/panorama/pakistan-neun-tote-nach-entfuehrung-von-buspassagieren](https://www.spiegel.de/panorama/pakistan-neun-tote-nach-entfuehrung-von-buspassagieren-a-d29ea9fb-94e4-495e-88f5-57e2f3903118#ref=rss)
+* [https://www.spiegel.de/fitness/ueber-den-hype-um-ultralaeufe-den-es-schon-immer-gab-newsletter-spiegel-laeuft](https://www.spiegel.de/fitness/ueber-den-hype-um-ultralaeufe-den-es-schon-immer-gab-newsletter-spiegel-laeuft-a-3f76e1dc-9c2a-408e-b8e5-57ec71938fb3#ref=rss)
+* [https://www.spiegel.de/ausland/usa-mehr-sterilisationen-seit-aufhebung-von-landesweitem-abtreibungsrecht](https://www.spiegel.de/ausland/usa-mehr-sterilisationen-seit-aufhebung-von-landesweitem-abtreibungsrecht-a-8ad1d78f-83d5-4673-b697-64c8c707879c#ref=rss)
+* [https://www.spiegel.de/auto/eisenbahnen-in-deutschland-stellen-passagier-rekord-auf](https://www.spiegel.de/auto/eisenbahnen-in-deutschland-stellen-passagier-rekord-auf-a-7003ed81-f6fc-4c10-9530-5fe037d89fa1#ref=rss)
+### sydney
 
-* [https://www.spiegel.de/kultur/o-j-simpsons-fall-und-der-aufstieg-der-kardashians-vom-doppelmord-zur-reality-familie](https://www.spiegel.de/kultur/o-j-simpsons-fall-und-der-aufstieg-der-kardashians-vom-doppelmord-zur-reality-familie-a-f8c8b03f-2579-4a70-9633-059d40134f57#ref=rss)
-* [https://www.spiegel.de/panorama/orenburg-russische-behoerden-evakuieren-grossstadt-wegen-ueberschwemmungen](https://www.spiegel.de/panorama/orenburg-russische-behoerden-evakuieren-grossstadt-wegen-ueberschwemmungen-a-893e0834-6da5-465a-8396-7eefd0abe643#ref=rss)
-### lindner
+* [https://www.spiegel.de/panorama/justiz/sydney-zahl-der-todesopfer-bei-angriff-in-australischer-mall-steigt-auf-sechs](https://www.spiegel.de/panorama/justiz/sydney-zahl-der-todesopfer-bei-angriff-in-australischer-mall-steigt-auf-sechs-a-1c266a9c-af66-4b36-8fdc-82d6a02efdf9#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/sydney-polizeieinsatz-nach-mutmasslicher-messerstecherei-in-westfield-bondi-junction](https://www.spiegel.de/panorama/justiz/sydney-polizeieinsatz-nach-mutmasslicher-messerstecherei-in-westfield-bondi-junction-a-43c1f8c5-8cca-43ad-a209-22f3b49abb43#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-und-olaf-scholz-interner-streit-wegen-umgang-mit-wirtschaftsvertretern](https://www.spiegel.de/politik/deutschland/christian-lindner-und-olaf-scholz-interner-streit-wegen-umgang-mit-wirtschaftsvertretern-a-060f3331-e86e-4f3f-997f-6e3f518359c6#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-hilfe-offener-brief-an-olaf-scholz-spd-aus-der-uckermark-offenbar-nicht-mehr-abrufbar](https://www.spiegel.de/politik/ukraine-hilfe-offener-brief-an-olaf-scholz-spd-aus-der-uckermark-offenbar-nicht-mehr-abrufbar-a-a96011c1-623c-4125-9118-493be6ed7098#ref=rss)
+* [https://www.spiegel.de/panorama/einsatz-im-indischen-ozean-britische-marine-beschlagnahmt-3-7-tonnen-drogen](https://www.spiegel.de/panorama/einsatz-im-indischen-ozean-britische-marine-beschlagnahmt-3-7-tonnen-drogen-a-e0cb0b59-a196-4dd1-b8d5-e319f8ba1692#ref=rss)
+* [https://www.spiegel.de/panorama/schleusergeschaeft-bundespolizei-ermittelt-gegen-internationales-netzwerk](https://www.spiegel.de/panorama/schleusergeschaeft-bundespolizei-ermittelt-gegen-internationales-netzwerk-a-2a5aabf0-5d31-4e25-9dd8-9f58c311e1f2#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/panorama/orenburg-wasser-erreicht-neuen-hoechststand-im-russischen-flutgebiet](https://www.spiegel.de/panorama/orenburg-wasser-erreicht-neuen-hoechststand-im-russischen-flutgebiet-a-39f09be9-6d7a-40fa-85a3-7e759e0c081c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/galeria-karstadt-kaufhof-haben-warenhaeuser-noch-eine-zukunft-herr-kortum](https://www.spiegel.de/wirtschaft/galeria-karstadt-kaufhof-haben-warenhaeuser-noch-eine-zukunft-herr-kortum-a-0d70dc2c-e33c-4949-aae4-c257f5d9bcae#ref=rss)
+* [https://www.spiegel.de/sport/olympia/knappe-olympia-uniformen-fuer-us-athletinnen-sorgen-fuer-empoerung](https://www.spiegel.de/sport/olympia/knappe-olympia-uniformen-fuer-us-athletinnen-sorgen-fuer-empoerung-a-88f893b9-8ba2-42f7-9774-abda4c6c6d59#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/panorama/schleusergeschaeft-bundespolizei-ermittelt-gegen-internationales-netzwerk](https://www.spiegel.de/panorama/schleusergeschaeft-bundespolizei-ermittelt-gegen-internationales-netzwerk-a-2a5aabf0-5d31-4e25-9dd8-9f58c311e1f2#ref=rss)
+* [https://www.spiegel.de/reise/deutschland/schoenste-schwimmbaeder-schwimmbad-tourist-philipp-reussner-gibt-tipps](https://www.spiegel.de/reise/deutschland/schoenste-schwimmbaeder-schwimmbad-tourist-philipp-reussner-gibt-tipps-a-eef57f8a-dda4-43a0-b310-15b495f5561f#ref=rss)
+* [https://www.spiegel.de/auto/eisenbahnen-in-deutschland-stellen-passagier-rekord-auf](https://www.spiegel.de/auto/eisenbahnen-in-deutschland-stellen-passagier-rekord-auf-a-7003ed81-f6fc-4c10-9530-5fe037d89fa1#ref=rss)
+* [https://www.spiegel.de/netzwelt/netflix-preiserhoehung-in-deutschland-um-bis-zu-zwei-euro-im-monat](https://www.spiegel.de/netzwelt/netflix-preiserhoehung-in-deutschland-um-bis-zu-zwei-euro-im-monat-a-da9f3b73-2e77-48e8-bdce-bc7a1a52cf15#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/panorama/schleusergeschaeft-bundespolizei-ermittelt-gegen-internationales-netzwerk](https://www.spiegel.de/panorama/schleusergeschaeft-bundespolizei-ermittelt-gegen-internationales-netzwerk-a-2a5aabf0-5d31-4e25-9dd8-9f58c311e1f2#ref=rss)
+* [https://www.spiegel.de/panorama/binde-in-sachsen-anhalt-rund-20-000-schweine-bei-brand-in-mastanlage-verendet](https://www.spiegel.de/panorama/binde-in-sachsen-anhalt-rund-20-000-schweine-bei-brand-in-mastanlage-verendet-a-a3ed290a-44af-4ff6-a53c-7a61d09c551e#ref=rss)
+* [https://www.spiegel.de/panorama/leute/francis-ford-coppolas-ehefrau-eleanor-mit-87-jahren-gestorben](https://www.spiegel.de/panorama/leute/francis-ford-coppolas-ehefrau-eleanor-mit-87-jahren-gestorben-a-5a6b10e8-1da0-4151-a473-40b133d13915#ref=rss)
+### olaf
+
+* [https://www.spiegel.de/politik/ukraine-hilfe-offener-brief-an-olaf-scholz-spd-aus-der-uckermark-offenbar-nicht-mehr-abrufbar](https://www.spiegel.de/politik/ukraine-hilfe-offener-brief-an-olaf-scholz-spd-aus-der-uckermark-offenbar-nicht-mehr-abrufbar-a-a96011c1-623c-4125-9118-493be6ed7098#ref=rss)
+* [https://www.spiegel.de/ausland/olaf-scholz-in-china-der-kanzler-muss-deutsche-kerninteressen-verteidigen-meinung](https://www.spiegel.de/ausland/olaf-scholz-in-china-der-kanzler-muss-deutsche-kerninteressen-verteidigen-meinung-a-11e8bffb-d2e3-4da2-b482-a6363d153d22#ref=rss)
+### scholz
+
+* [https://www.spiegel.de/politik/ukraine-hilfe-offener-brief-an-olaf-scholz-spd-aus-der-uckermark-offenbar-nicht-mehr-abrufbar](https://www.spiegel.de/politik/ukraine-hilfe-offener-brief-an-olaf-scholz-spd-aus-der-uckermark-offenbar-nicht-mehr-abrufbar-a-a96011c1-623c-4125-9118-493be6ed7098#ref=rss)
+* [https://www.spiegel.de/ausland/olaf-scholz-in-china-der-kanzler-muss-deutsche-kerninteressen-verteidigen-meinung](https://www.spiegel.de/ausland/olaf-scholz-in-china-der-kanzler-muss-deutsche-kerninteressen-verteidigen-meinung-a-11e8bffb-d2e3-4da2-b482-a6363d153d22#ref=rss)
+### waren
+
+* [https://www.spiegel.de/politik/ukraine-hilfe-offener-brief-an-olaf-scholz-spd-aus-der-uckermark-offenbar-nicht-mehr-abrufbar](https://www.spiegel.de/politik/ukraine-hilfe-offener-brief-an-olaf-scholz-spd-aus-der-uckermark-offenbar-nicht-mehr-abrufbar-a-a96011c1-623c-4125-9118-493be6ed7098#ref=rss)
+* [https://www.spiegel.de/panorama/einsatz-im-indischen-ozean-britische-marine-beschlagnahmt-3-7-tonnen-drogen](https://www.spiegel.de/panorama/einsatz-im-indischen-ozean-britische-marine-beschlagnahmt-3-7-tonnen-drogen-a-e0cb0b59-a196-4dd1-b8d5-e319f8ba1692#ref=rss)
+* [https://www.spiegel.de/panorama/leute/francis-ford-coppolas-ehefrau-eleanor-mit-87-jahren-gestorben](https://www.spiegel.de/panorama/leute/francis-ford-coppolas-ehefrau-eleanor-mit-87-jahren-gestorben-a-5a6b10e8-1da0-4151-a473-40b133d13915#ref=rss)
+### russischen
+
+* [https://www.spiegel.de/panorama/orenburg-wasser-erreicht-neuen-hoechststand-im-russischen-flutgebiet](https://www.spiegel.de/panorama/orenburg-wasser-erreicht-neuen-hoechststand-im-russischen-flutgebiet-a-39f09be9-6d7a-40fa-85a3-7e759e0c081c#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-spricht-mit-studenten-ueber-marshall-plan-fuer-wiederaufbau](https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-spricht-mit-studenten-ueber-marshall-plan-fuer-wiederaufbau-a-1bddf7b1-e1be-4d37-820a-e018119b7ae6#ref=rss)
+### zuvor
+
+* [https://www.spiegel.de/panorama/einsatz-im-indischen-ozean-britische-marine-beschlagnahmt-3-7-tonnen-drogen](https://www.spiegel.de/panorama/einsatz-im-indischen-ozean-britische-marine-beschlagnahmt-3-7-tonnen-drogen-a-e0cb0b59-a196-4dd1-b8d5-e319f8ba1692#ref=rss)
+* [https://www.spiegel.de/panorama/pakistan-neun-tote-nach-entfuehrung-von-buspassagieren](https://www.spiegel.de/panorama/pakistan-neun-tote-nach-entfuehrung-von-buspassagieren-a-d29ea9fb-94e4-495e-88f5-57e2f3903118#ref=rss)
+* [https://www.spiegel.de/auto/eisenbahnen-in-deutschland-stellen-passagier-rekord-auf](https://www.spiegel.de/auto/eisenbahnen-in-deutschland-stellen-passagier-rekord-auf-a-7003ed81-f6fc-4c10-9530-5fe037d89fa1#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/auto/schweden-in-dieser-stadt-kann-man-jetzt-falschparker-per-app-melden-und-selbst-kassieren](https://www.spiegel.de/auto/schweden-in-dieser-stadt-kann-man-jetzt-falschparker-per-app-melden-und-selbst-kassieren-a-fcaf75d1-cc59-4cb7-bacf-aaedf7c8bbab#ref=rss)
+* [https://www.spiegel.de/panorama/pakistan-neun-tote-nach-entfuehrung-von-buspassagieren](https://www.spiegel.de/panorama/pakistan-neun-tote-nach-entfuehrung-von-buspassagieren-a-d29ea9fb-94e4-495e-88f5-57e2f3903118#ref=rss)
+* [https://www.spiegel.de/wirtschaft/oekonom-tom-krebs-zur-deutschen-industrie-selbst-die-oelpreiskrise-war-im-vergleich-harmlos](https://www.spiegel.de/wirtschaft/oekonom-tom-krebs-zur-deutschen-industrie-selbst-die-oelpreiskrise-war-im-vergleich-harmlos-a-da60910c-8b54-44ec-a009-5b290c2fe9b2#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/ausland/gute-nachrichten-erfolgreiche-frauen-in-der-tuerkei-einfach-mathe-lernen-gute-laune-aus-japan](https://www.spiegel.de/ausland/gute-nachrichten-erfolgreiche-frauen-in-der-tuerkei-einfach-mathe-lernen-gute-laune-aus-japan-a-5f9be2c7-521f-42a1-afa5-28019956e557#ref=rss)
+* [https://www.spiegel.de/ausland/usa-mehr-sterilisationen-seit-aufhebung-von-landesweitem-abtreibungsrecht](https://www.spiegel.de/ausland/usa-mehr-sterilisationen-seit-aufhebung-von-landesweitem-abtreibungsrecht-a-8ad1d78f-83d5-4673-b697-64c8c707879c#ref=rss)
+### coppola
+
+* [https://www.spiegel.de/panorama/leute/francis-ford-coppolas-ehefrau-eleanor-mit-87-jahren-gestorben](https://www.spiegel.de/panorama/leute/francis-ford-coppolas-ehefrau-eleanor-mit-87-jahren-gestorben-a-5a6b10e8-1da0-4151-a473-40b133d13915#ref=rss)
+### mall
+
+* [https://www.spiegel.de/panorama/justiz/sydney-zahl-der-todesopfer-bei-angriff-in-australischer-mall-steigt-auf-sechs](https://www.spiegel.de/panorama/justiz/sydney-zahl-der-todesopfer-bei-angriff-in-australischer-mall-steigt-auf-sechs-a-1c266a9c-af66-4b36-8fdc-82d6a02efdf9#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/sydney-polizeieinsatz-nach-mutmasslicher-messerstecherei-in-westfield-bondi-junction](https://www.spiegel.de/panorama/justiz/sydney-polizeieinsatz-nach-mutmasslicher-messerstecherei-in-westfield-bondi-junction-a-43c1f8c5-8cca-43ad-a209-22f3b49abb43#ref=rss)
+### fünf
+
+* [https://www.spiegel.de/panorama/justiz/sydney-zahl-der-todesopfer-bei-angriff-in-australischer-mall-steigt-auf-sechs](https://www.spiegel.de/panorama/justiz/sydney-zahl-der-todesopfer-bei-angriff-in-australischer-mall-steigt-auf-sechs-a-1c266a9c-af66-4b36-8fdc-82d6a02efdf9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cannabis-verwirrung-bei-der-legalisierung-wer-kontrolliert-was-wann-und-wie](https://www.spiegel.de/politik/deutschland/cannabis-verwirrung-bei-der-legalisierung-wer-kontrolliert-was-wann-und-wie-a-f603f8f2-e374-4c9e-83df-e25c1eda49a0#ref=rss)
+### ursula
+
+* [https://www.spiegel.de/politik/deutschland/europawahl-ursula-von-der-leyen-in-bedraengnis-wiederwahl-in-gefahr](https://www.spiegel.de/politik/deutschland/europawahl-ursula-von-der-leyen-in-bedraengnis-wiederwahl-in-gefahr-a-81fb00dc-1e9c-436b-a953-0505dcc83cae#ref=rss)
+### wiederwahl
+
+* [https://www.spiegel.de/politik/deutschland/europawahl-ursula-von-der-leyen-in-bedraengnis-wiederwahl-in-gefahr](https://www.spiegel.de/politik/deutschland/europawahl-ursula-von-der-leyen-in-bedraengnis-wiederwahl-in-gefahr-a-81fb00dc-1e9c-436b-a953-0505dcc83cae#ref=rss)
+### gefahr
+
+* [https://www.spiegel.de/politik/deutschland/europawahl-ursula-von-der-leyen-in-bedraengnis-wiederwahl-in-gefahr](https://www.spiegel.de/politik/deutschland/europawahl-ursula-von-der-leyen-in-bedraengnis-wiederwahl-in-gefahr-a-81fb00dc-1e9c-436b-a953-0505dcc83cae#ref=rss)
+### test
+
+* [https://www.spiegel.de/tests/elektronik/outdoor-kaffeebereiter-im-test-stanley-primus-giannini-hario-hydro-flask-handpresso-esbit](https://www.spiegel.de/tests/elektronik/outdoor-kaffeebereiter-im-test-stanley-primus-giannini-hario-hydro-flask-handpresso-esbit-a-be1e289b-cbc5-4e62-be15-dfef2376472b#ref=rss)
+* [https://www.spiegel.de/auto/fahrberichte/fisker-ocean-im-test-riesen-akku-und-california-mode](https://www.spiegel.de/auto/fahrberichte/fisker-ocean-im-test-riesen-akku-und-california-mode-a-1723a5fc-3b20-48a4-84df-e517ba586587#ref=rss)
+### guten
+
+* [https://www.spiegel.de/tests/elektronik/outdoor-kaffeebereiter-im-test-stanley-primus-giannini-hario-hydro-flask-handpresso-esbit](https://www.spiegel.de/tests/elektronik/outdoor-kaffeebereiter-im-test-stanley-primus-giannini-hario-hydro-flask-handpresso-esbit-a-be1e289b-cbc5-4e62-be15-dfef2376472b#ref=rss)
+* [https://www.spiegel.de/ausland/gute-nachrichten-erfolgreiche-frauen-in-der-tuerkei-einfach-mathe-lernen-gute-laune-aus-japan](https://www.spiegel.de/ausland/gute-nachrichten-erfolgreiche-frauen-in-der-tuerkei-einfach-mathe-lernen-gute-laune-aus-japan-a-5f9be2c7-521f-42a1-afa5-28019956e557#ref=rss)
+### wir
+
+* [https://www.spiegel.de/tests/elektronik/outdoor-kaffeebereiter-im-test-stanley-primus-giannini-hario-hydro-flask-handpresso-esbit](https://www.spiegel.de/tests/elektronik/outdoor-kaffeebereiter-im-test-stanley-primus-giannini-hario-hydro-flask-handpresso-esbit-a-be1e289b-cbc5-4e62-be15-dfef2376472b#ref=rss)
+* [https://www.spiegel.de/ausland/gute-nachrichten-erfolgreiche-frauen-in-der-tuerkei-einfach-mathe-lernen-gute-laune-aus-japan](https://www.spiegel.de/ausland/gute-nachrichten-erfolgreiche-frauen-in-der-tuerkei-einfach-mathe-lernen-gute-laune-aus-japan-a-5f9be2c7-521f-42a1-afa5-28019956e557#ref=rss)
+### versprechen
+
+* [https://www.spiegel.de/tests/elektronik/outdoor-kaffeebereiter-im-test-stanley-primus-giannini-hario-hydro-flask-handpresso-esbit](https://www.spiegel.de/tests/elektronik/outdoor-kaffeebereiter-im-test-stanley-primus-giannini-hario-hydro-flask-handpresso-esbit-a-be1e289b-cbc5-4e62-be15-dfef2376472b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/galeria-karstadt-kaufhof-haben-warenhaeuser-noch-eine-zukunft-herr-kortum](https://www.spiegel.de/wirtschaft/galeria-karstadt-kaufhof-haben-warenhaeuser-noch-eine-zukunft-herr-kortum-a-0d70dc2c-e33c-4949-aae4-c257f5d9bcae#ref=rss)
+### brief
+
+* [https://www.spiegel.de/politik/ukraine-hilfe-offener-brief-an-olaf-scholz-spd-aus-der-uckermark-offenbar-nicht-mehr-abrufbar](https://www.spiegel.de/politik/ukraine-hilfe-offener-brief-an-olaf-scholz-spd-aus-der-uckermark-offenbar-nicht-mehr-abrufbar-a-a96011c1-623c-4125-9118-493be6ed7098#ref=rss)
 ### spd
 
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-und-olaf-scholz-interner-streit-wegen-umgang-mit-wirtschaftsvertretern](https://www.spiegel.de/politik/deutschland/christian-lindner-und-olaf-scholz-interner-streit-wegen-umgang-mit-wirtschaftsvertretern-a-060f3331-e86e-4f3f-997f-6e3f518359c6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/selbstbestimmungsgesetz-das-letzte-gefecht-der-ampelkoalition](https://www.spiegel.de/politik/deutschland/selbstbestimmungsgesetz-das-letzte-gefecht-der-ampelkoalition-a-0c7b6e2a-6dc2-4097-9f6e-71aa19efc889#ref=rss)
-### grüne
+* [https://www.spiegel.de/politik/ukraine-hilfe-offener-brief-an-olaf-scholz-spd-aus-der-uckermark-offenbar-nicht-mehr-abrufbar](https://www.spiegel.de/politik/ukraine-hilfe-offener-brief-an-olaf-scholz-spd-aus-der-uckermark-offenbar-nicht-mehr-abrufbar-a-a96011c1-623c-4125-9118-493be6ed7098#ref=rss)
+### uckermark
 
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-und-olaf-scholz-interner-streit-wegen-umgang-mit-wirtschaftsvertretern](https://www.spiegel.de/politik/deutschland/christian-lindner-und-olaf-scholz-interner-streit-wegen-umgang-mit-wirtschaftsvertretern-a-060f3331-e86e-4f3f-997f-6e3f518359c6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/selbstbestimmungsgesetz-das-letzte-gefecht-der-ampelkoalition](https://www.spiegel.de/politik/deutschland/selbstbestimmungsgesetz-das-letzte-gefecht-der-ampelkoalition-a-0c7b6e2a-6dc2-4097-9f6e-71aa19efc889#ref=rss)
-### fdp
+* [https://www.spiegel.de/politik/ukraine-hilfe-offener-brief-an-olaf-scholz-spd-aus-der-uckermark-offenbar-nicht-mehr-abrufbar](https://www.spiegel.de/politik/ukraine-hilfe-offener-brief-an-olaf-scholz-spd-aus-der-uckermark-offenbar-nicht-mehr-abrufbar-a-a96011c1-623c-4125-9118-493be6ed7098#ref=rss)
+### vertreter
 
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-und-olaf-scholz-interner-streit-wegen-umgang-mit-wirtschaftsvertretern](https://www.spiegel.de/politik/deutschland/christian-lindner-und-olaf-scholz-interner-streit-wegen-umgang-mit-wirtschaftsvertretern-a-060f3331-e86e-4f3f-997f-6e3f518359c6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/selbstbestimmungsgesetz-das-letzte-gefecht-der-ampelkoalition](https://www.spiegel.de/politik/deutschland/selbstbestimmungsgesetz-das-letzte-gefecht-der-ampelkoalition-a-0c7b6e2a-6dc2-4097-9f6e-71aa19efc889#ref=rss)
-### polizei
+* [https://www.spiegel.de/politik/ukraine-hilfe-offener-brief-an-olaf-scholz-spd-aus-der-uckermark-offenbar-nicht-mehr-abrufbar](https://www.spiegel.de/politik/ukraine-hilfe-offener-brief-an-olaf-scholz-spd-aus-der-uckermark-offenbar-nicht-mehr-abrufbar-a-a96011c1-623c-4125-9118-493be6ed7098#ref=rss)
+* [https://www.spiegel.de/politik/wochenend-fahrverbote-gruenen-politiker-werfen-volker-wissing-fdp-ablenkungsmanoever-vor](https://www.spiegel.de/politik/wochenend-fahrverbote-gruenen-politiker-werfen-volker-wissing-fdp-ablenkungsmanoever-vor-a-5e65a96a-1007-4ace-a930-f7d699edd2aa#ref=rss)
+### ende
 
-* [https://www.spiegel.de/panorama/justiz/berlin-polizei-loest-umstrittenen-palaestina-kongress-auf](https://www.spiegel.de/panorama/justiz/berlin-polizei-loest-umstrittenen-palaestina-kongress-auf-a-cf8e36e8-8333-408d-beb9-93567015b2c5#ref=rss)
-### palästinakongress
-
-* [https://www.spiegel.de/panorama/justiz/berlin-polizei-loest-umstrittenen-palaestina-kongress-auf](https://www.spiegel.de/panorama/justiz/berlin-polizei-loest-umstrittenen-palaestina-kongress-auf-a-cf8e36e8-8333-408d-beb9-93567015b2c5#ref=rss)
-### rund
-
-* [https://www.spiegel.de/panorama/justiz/berlin-polizei-loest-umstrittenen-palaestina-kongress-auf](https://www.spiegel.de/panorama/justiz/berlin-polizei-loest-umstrittenen-palaestina-kongress-auf-a-cf8e36e8-8333-408d-beb9-93567015b2c5#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/bildung-rund-ein-drittel-der-arbeitszeit-von-lehrkraeften-entfaellt-auf-unterricht](https://www.spiegel.de/panorama/bildung/bildung-rund-ein-drittel-der-arbeitszeit-von-lehrkraeften-entfaellt-auf-unterricht-a-f5e1cd5b-d15d-4729-b308-1c0dfacb8a38#ref=rss)
-### jérôme
-
-* [https://www.spiegel.de/panorama/justiz/jerome-boatengs-karriere-nach-kasia-lenhardts-tod-podcast-nda](https://www.spiegel.de/panorama/justiz/jerome-boatengs-karriere-nach-kasia-lenhardts-tod-podcast-nda-a-884d236e-d5f7-491c-838a-62a23f497cb9#ref=rss)
-### kasia
-
-* [https://www.spiegel.de/panorama/justiz/jerome-boatengs-karriere-nach-kasia-lenhardts-tod-podcast-nda](https://www.spiegel.de/panorama/justiz/jerome-boatengs-karriere-nach-kasia-lenhardts-tod-podcast-nda-a-884d236e-d5f7-491c-838a-62a23f497cb9#ref=rss)
-### telekom
-
-* [https://www.spiegel.de/wirtschaft/bjoern-hoecke-telekom-will-unterlassungsaufforderung-an-bjoern-hoecke-schicken](https://www.spiegel.de/wirtschaft/bjoern-hoecke-telekom-will-unterlassungsaufforderung-an-bjoern-hoecke-schicken-a-713c424b-c654-4aac-967b-7e59e75e2518#ref=rss)
-### fahrverbote
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-streit-ueber-fahrverbote-volker-wissing-schleuser-kriminalitaet-bayer-leverkusen](https://www.spiegel.de/politik/deutschland/news-des-tages-streit-ueber-fahrverbote-volker-wissing-schleuser-kriminalitaet-bayer-leverkusen-a-c1b2ecf3-d571-4169-b7a8-834b4ea9113e#ref=rss)
-### wissing
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-streit-ueber-fahrverbote-volker-wissing-schleuser-kriminalitaet-bayer-leverkusen](https://www.spiegel.de/politik/deutschland/news-des-tages-streit-ueber-fahrverbote-volker-wissing-schleuser-kriminalitaet-bayer-leverkusen-a-c1b2ecf3-d571-4169-b7a8-834b4ea9113e#ref=rss)
-### bus
-
-* [https://www.spiegel.de/auto/berlin-bvg-schafft-festen-bus-und-bahn-fahrplan-auf-einigen-linien-ab](https://www.spiegel.de/auto/berlin-bvg-schafft-festen-bus-und-bahn-fahrplan-auf-einigen-linien-ab-a-e85553d0-0de0-409a-844e-9ffa1f63b066#ref=rss)
-### linien
-
-* [https://www.spiegel.de/auto/berlin-bvg-schafft-festen-bus-und-bahn-fahrplan-auf-einigen-linien-ab](https://www.spiegel.de/auto/berlin-bvg-schafft-festen-bus-und-bahn-fahrplan-auf-einigen-linien-ab-a-e85553d0-0de0-409a-844e-9ffa1f63b066#ref=rss)
-### berliner
-
-* [https://www.spiegel.de/auto/berlin-bvg-schafft-festen-bus-und-bahn-fahrplan-auf-einigen-linien-ab](https://www.spiegel.de/auto/berlin-bvg-schafft-festen-bus-und-bahn-fahrplan-auf-einigen-linien-ab-a-e85553d0-0de0-409a-844e-9ffa1f63b066#ref=rss)
-* [https://www.spiegel.de/kultur/musik/abgehoert-album-der-woche-haus-mit-nichtseattle](https://www.spiegel.de/kultur/musik/abgehoert-album-der-woche-haus-mit-nichtseattle-a-769b8613-7ca8-4c1f-a776-511c81afa551#ref=rss)
-### nancy
-
-* [https://www.spiegel.de/politik/deutschland/grenzkontrollen-in-deutschland-nancy-faesers-politik-der-kleinen-fische](https://www.spiegel.de/politik/deutschland/grenzkontrollen-in-deutschland-nancy-faesers-politik-der-kleinen-fische-a-aafe02a1-a9cc-4db9-9129-b65e23f71cf7#ref=rss)
-### japan
-
-* [https://www.spiegel.de/ausland/gipfel-zwischen-usa-japan-und-philippinen-joe-bidens-bollwerk-gegen-china](https://www.spiegel.de/ausland/gipfel-zwischen-usa-japan-und-philippinen-joe-bidens-bollwerk-gegen-china-a-3caf9a95-57f2-4f27-b7b2-7c63dca21a7d#ref=rss)
-### philippinen
-
-* [https://www.spiegel.de/ausland/gipfel-zwischen-usa-japan-und-philippinen-joe-bidens-bollwerk-gegen-china](https://www.spiegel.de/ausland/gipfel-zwischen-usa-japan-und-philippinen-joe-bidens-bollwerk-gegen-china-a-3caf9a95-57f2-4f27-b7b2-7c63dca21a7d#ref=rss)
-### joe
-
-* [https://www.spiegel.de/ausland/gipfel-zwischen-usa-japan-und-philippinen-joe-bidens-bollwerk-gegen-china](https://www.spiegel.de/ausland/gipfel-zwischen-usa-japan-und-philippinen-joe-bidens-bollwerk-gegen-china-a-3caf9a95-57f2-4f27-b7b2-7c63dca21a7d#ref=rss)
-### ambra
-
-* [https://www.spiegel.de/panorama/thailand-fischer-fangen-seltene-ambra-im-wert-von-20-000-euro](https://www.spiegel.de/panorama/thailand-fischer-fangen-seltene-ambra-im-wert-von-20-000-euro-a-6a5e2538-33e1-4466-a9dc-0f43ba23ec15#ref=rss)
-### georgien
-
-* [https://www.spiegel.de/politik/deutschland/georgien-bundeskanzler-olaf-scholz-kritisiert-umstrittenes-agenten-gesetz](https://www.spiegel.de/politik/deutschland/georgien-bundeskanzler-olaf-scholz-kritisiert-umstrittenes-agenten-gesetz-a-a10e9a48-e5f5-4a8d-aedd-1411218dd027#ref=rss)
-### agentengesetz
-
-* [https://www.spiegel.de/politik/deutschland/georgien-bundeskanzler-olaf-scholz-kritisiert-umstrittenes-agenten-gesetz](https://www.spiegel.de/politik/deutschland/georgien-bundeskanzler-olaf-scholz-kritisiert-umstrittenes-agenten-gesetz-a-a10e9a48-e5f5-4a8d-aedd-1411218dd027#ref=rss)
-### eu
-
-* [https://www.spiegel.de/politik/deutschland/georgien-bundeskanzler-olaf-scholz-kritisiert-umstrittenes-agenten-gesetz](https://www.spiegel.de/politik/deutschland/georgien-bundeskanzler-olaf-scholz-kritisiert-umstrittenes-agenten-gesetz-a-a10e9a48-e5f5-4a8d-aedd-1411218dd027#ref=rss)
-* [https://www.spiegel.de/ausland/hamas-von-eu-wegen-menschenrechtsverletzungen-auf-sanktionsliste-gesetzt](https://www.spiegel.de/ausland/hamas-von-eu-wegen-menschenrechtsverletzungen-auf-sanktionsliste-gesetzt-a-29a20cfc-4d0f-4bf2-a070-18bbe4158c90#ref=rss)
-### hamas
-
-* [https://www.spiegel.de/ausland/hamas-von-eu-wegen-menschenrechtsverletzungen-auf-sanktionsliste-gesetzt](https://www.spiegel.de/ausland/hamas-von-eu-wegen-menschenrechtsverletzungen-auf-sanktionsliste-gesetzt-a-29a20cfc-4d0f-4bf2-a070-18bbe4158c90#ref=rss)
-### gesetz
-
-* [https://www.spiegel.de/ausland/polens-abtreibungsrecht-parlament-spricht-sich-fuer-liberaleres-gesetz-aus](https://www.spiegel.de/ausland/polens-abtreibungsrecht-parlament-spricht-sich-fuer-liberaleres-gesetz-aus-a-3fb113ab-d608-4849-90d0-c3a45e4829ea#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/selbstbestimmungsgesetz-vom-bundestag-beschlossen-mehr-rechte-fuer-trans-personen](https://www.spiegel.de/politik/deutschland/selbstbestimmungsgesetz-vom-bundestag-beschlossen-mehr-rechte-fuer-trans-personen-a-6b9d3c8f-93c6-48db-920a-a0369ca2c060#ref=rss)
-### schwangerschaftsabbrüche
-
-* [https://www.spiegel.de/ausland/polens-abtreibungsrecht-parlament-spricht-sich-fuer-liberaleres-gesetz-aus](https://www.spiegel.de/ausland/polens-abtreibungsrecht-parlament-spricht-sich-fuer-liberaleres-gesetz-aus-a-3fb113ab-d608-4849-90d0-c3a45e4829ea#ref=rss)
-* [https://www.spiegel.de/ausland/arizona-gebetsgruppe-irritiert-mit-bizarrem-ritual-im-parlament-senator-mittendrin](https://www.spiegel.de/ausland/arizona-gebetsgruppe-irritiert-mit-bizarrem-ritual-im-parlament-senator-mittendrin-a-3e4abf95-dd29-4c9b-8ee1-44371b6f2f63#ref=rss)
-### doppelnamen
-
-* [https://www.spiegel.de/politik/deutschland/namensaenderung-neue-gesetzesaenderung-ermoeglicht-doppelnamen-fuer-ehepaare](https://www.spiegel.de/politik/deutschland/namensaenderung-neue-gesetzesaenderung-ermoeglicht-doppelnamen-fuer-ehepaare-a-3da1b911-a018-436e-ad81-853e89b15ac5#ref=rss)
-### rechte
-
-* [https://www.spiegel.de/politik/deutschland/namensaenderung-neue-gesetzesaenderung-ermoeglicht-doppelnamen-fuer-ehepaare](https://www.spiegel.de/politik/deutschland/namensaenderung-neue-gesetzesaenderung-ermoeglicht-doppelnamen-fuer-ehepaare-a-3da1b911-a018-436e-ad81-853e89b15ac5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/selbstbestimmungsgesetz-vom-bundestag-beschlossen-mehr-rechte-fuer-trans-personen](https://www.spiegel.de/politik/deutschland/selbstbestimmungsgesetz-vom-bundestag-beschlossen-mehr-rechte-fuer-trans-personen-a-6b9d3c8f-93c6-48db-920a-a0369ca2c060#ref=rss)
-### erwachsene
-
-* [https://www.spiegel.de/panorama/justiz/nuernberg-13-jaehriger-wird-auf-spielplatz-festgehalten-und-von-ehepaar-schwer-verletzt](https://www.spiegel.de/panorama/justiz/nuernberg-13-jaehriger-wird-auf-spielplatz-festgehalten-und-von-ehepaar-schwer-verletzt-a-ef5bf3c9-03d4-4ef4-8a65-90093e9c0b8e#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/panorama/justiz/nuernberg-13-jaehriger-wird-auf-spielplatz-festgehalten-und-von-ehepaar-schwer-verletzt](https://www.spiegel.de/panorama/justiz/nuernberg-13-jaehriger-wird-auf-spielplatz-festgehalten-und-von-ehepaar-schwer-verletzt-a-ef5bf3c9-03d4-4ef4-8a65-90093e9c0b8e#ref=rss)
-* [https://www.spiegel.de/panorama/trinidad-sieben-kinder-sterben-an-bakterieller-infektion-im-krankenhaus](https://www.spiegel.de/panorama/trinidad-sieben-kinder-sterben-an-bakterieller-infektion-im-krankenhaus-a-29d9f3a6-b47a-4718-9b18-09602740cde2#ref=rss)
-### krankenhaus
-
-* [https://www.spiegel.de/panorama/justiz/nuernberg-13-jaehriger-wird-auf-spielplatz-festgehalten-und-von-ehepaar-schwer-verletzt](https://www.spiegel.de/panorama/justiz/nuernberg-13-jaehriger-wird-auf-spielplatz-festgehalten-und-von-ehepaar-schwer-verletzt-a-ef5bf3c9-03d4-4ef4-8a65-90093e9c0b8e#ref=rss)
-* [https://www.spiegel.de/panorama/trinidad-sieben-kinder-sterben-an-bakterieller-infektion-im-krankenhaus](https://www.spiegel.de/panorama/trinidad-sieben-kinder-sterben-an-bakterieller-infektion-im-krankenhaus-a-29d9f3a6-b47a-4718-9b18-09602740cde2#ref=rss)
-### anne
-
-* [https://www.spiegel.de/kultur/anne-will-will-wieder-woechentlich-talken-aber-im-podcast](https://www.spiegel.de/kultur/anne-will-will-wieder-woechentlich-talken-aber-im-podcast-a-cfef9e14-e879-48c2-ac89-0875315e0720#ref=rss)
-### 16
-
-* [https://www.spiegel.de/kultur/anne-will-will-wieder-woechentlich-talken-aber-im-podcast](https://www.spiegel.de/kultur/anne-will-will-wieder-woechentlich-talken-aber-im-podcast-a-cfef9e14-e879-48c2-ac89-0875315e0720#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-bayer-leverkusen-koennte-schon-am-naechsten-spieltag-meister-werden-sogar-auf-der-couch](https://www.spiegel.de/sport/fussball/bundesliga-bayer-leverkusen-koennte-schon-am-naechsten-spieltag-meister-werden-sogar-auf-der-couch-a-34dd42b4-4c2c-45a5-827b-53c30ba7e3f9#ref=rss)
-### anders
-
-* [https://www.spiegel.de/sport/wintersport/anders-besseberg-ex-biathlon-chef-wegen-korruption-zu-ueber-drei-jahren-haft-verurteilt](https://www.spiegel.de/sport/wintersport/anders-besseberg-ex-biathlon-chef-wegen-korruption-zu-ueber-drei-jahren-haft-verurteilt-a-dbfa1b3d-7cc2-43bd-9028-4599916006ed#ref=rss)
-### besseberg
-
-* [https://www.spiegel.de/sport/wintersport/anders-besseberg-ex-biathlon-chef-wegen-korruption-zu-ueber-drei-jahren-haft-verurteilt](https://www.spiegel.de/sport/wintersport/anders-besseberg-ex-biathlon-chef-wegen-korruption-zu-ueber-drei-jahren-haft-verurteilt-a-dbfa1b3d-7cc2-43bd-9028-4599916006ed#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/sport/wintersport/anders-besseberg-ex-biathlon-chef-wegen-korruption-zu-ueber-drei-jahren-haft-verurteilt](https://www.spiegel.de/sport/wintersport/anders-besseberg-ex-biathlon-chef-wegen-korruption-zu-ueber-drei-jahren-haft-verurteilt-a-dbfa1b3d-7cc2-43bd-9028-4599916006ed#ref=rss)
-### urteil
-
-* [https://www.spiegel.de/sport/wintersport/anders-besseberg-ex-biathlon-chef-wegen-korruption-zu-ueber-drei-jahren-haft-verurteilt](https://www.spiegel.de/sport/wintersport/anders-besseberg-ex-biathlon-chef-wegen-korruption-zu-ueber-drei-jahren-haft-verurteilt-a-dbfa1b3d-7cc2-43bd-9028-4599916006ed#ref=rss)
-* [https://www.spiegel.de/ausland/arizona-gebetsgruppe-irritiert-mit-bizarrem-ritual-im-parlament-senator-mittendrin](https://www.spiegel.de/ausland/arizona-gebetsgruppe-irritiert-mit-bizarrem-ritual-im-parlament-senator-mittendrin-a-3e4abf95-dd29-4c9b-8ee1-44371b6f2f63#ref=rss)
-### trinidad
-
-* [https://www.spiegel.de/panorama/trinidad-sieben-kinder-sterben-an-bakterieller-infektion-im-krankenhaus](https://www.spiegel.de/panorama/trinidad-sieben-kinder-sterben-an-bakterieller-infektion-im-krankenhaus-a-29d9f3a6-b47a-4718-9b18-09602740cde2#ref=rss)
-### haus
-
-* [https://www.spiegel.de/kultur/musik/abgehoert-album-der-woche-haus-mit-nichtseattle](https://www.spiegel.de/kultur/musik/abgehoert-album-der-woche-haus-mit-nichtseattle-a-769b8613-7ca8-4c1f-a776-511c81afa551#ref=rss)
-### nichtseattle
-
-* [https://www.spiegel.de/kultur/musik/abgehoert-album-der-woche-haus-mit-nichtseattle](https://www.spiegel.de/kultur/musik/abgehoert-album-der-woche-haus-mit-nichtseattle-a-769b8613-7ca8-4c1f-a776-511c81afa551#ref=rss)
-### album
-
-* [https://www.spiegel.de/kultur/musik/abgehoert-album-der-woche-haus-mit-nichtseattle](https://www.spiegel.de/kultur/musik/abgehoert-album-der-woche-haus-mit-nichtseattle-a-769b8613-7ca8-4c1f-a776-511c81afa551#ref=rss)
-### lieber
-
-* [https://www.spiegel.de/kultur/musik/abgehoert-album-der-woche-haus-mit-nichtseattle](https://www.spiegel.de/kultur/musik/abgehoert-album-der-woche-haus-mit-nichtseattle-a-769b8613-7ca8-4c1f-a776-511c81afa551#ref=rss)
-* [https://www.spiegel.de/panorama/leute/diane-krueger-spricht-ueber-sexszenen](https://www.spiegel.de/panorama/leute/diane-krueger-spricht-ueber-sexszenen-a-65878e79-20a7-428c-9497-4c30f05566f3#ref=rss)
-### fortschritt
-
-* [https://www.spiegel.de/politik/deutschland/selbstbestimmungsgesetz-das-letzte-gefecht-der-ampelkoalition](https://www.spiegel.de/politik/deutschland/selbstbestimmungsgesetz-das-letzte-gefecht-der-ampelkoalition-a-0c7b6e2a-6dc2-4097-9f6e-71aa19efc889#ref=rss)
-### leisten
-
-* [https://www.spiegel.de/politik/deutschland/selbstbestimmungsgesetz-das-letzte-gefecht-der-ampelkoalition](https://www.spiegel.de/politik/deutschland/selbstbestimmungsgesetz-das-letzte-gefecht-der-ampelkoalition-a-0c7b6e2a-6dc2-4097-9f6e-71aa19efc889#ref=rss)
-### sieg
-
-* [https://www.spiegel.de/ausland/egmr-urteil-zur-klimakrise-der-scheinsieg-von-strassburg](https://www.spiegel.de/ausland/egmr-urteil-zur-klimakrise-der-scheinsieg-von-strassburg-a-09713556-aaa6-4521-bf0c-a27616bf8af5#ref=rss)
-### klimaseniorinnen
-
-* [https://www.spiegel.de/ausland/egmr-urteil-zur-klimakrise-der-scheinsieg-von-strassburg](https://www.spiegel.de/ausland/egmr-urteil-zur-klimakrise-der-scheinsieg-von-strassburg-a-09713556-aaa6-4521-bf0c-a27616bf8af5#ref=rss)
-### schweiz
-
-* [https://www.spiegel.de/ausland/egmr-urteil-zur-klimakrise-der-scheinsieg-von-strassburg](https://www.spiegel.de/ausland/egmr-urteil-zur-klimakrise-der-scheinsieg-von-strassburg-a-09713556-aaa6-4521-bf0c-a27616bf8af5#ref=rss)
-### arizona
-
-* [https://www.spiegel.de/ausland/arizona-gebetsgruppe-irritiert-mit-bizarrem-ritual-im-parlament-senator-mittendrin](https://www.spiegel.de/ausland/arizona-gebetsgruppe-irritiert-mit-bizarrem-ritual-im-parlament-senator-mittendrin-a-3e4abf95-dd29-4c9b-8ee1-44371b6f2f63#ref=rss)
-### spieltag
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-bayer-leverkusen-koennte-schon-am-naechsten-spieltag-meister-werden-sogar-auf-der-couch](https://www.spiegel.de/sport/fussball/bundesliga-bayer-leverkusen-koennte-schon-am-naechsten-spieltag-meister-werden-sogar-auf-der-couch-a-34dd42b4-4c2c-45a5-827b-53c30ba7e3f9#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-hilfe-offener-brief-an-olaf-scholz-spd-aus-der-uckermark-offenbar-nicht-mehr-abrufbar](https://www.spiegel.de/politik/ukraine-hilfe-offener-brief-an-olaf-scholz-spd-aus-der-uckermark-offenbar-nicht-mehr-abrufbar-a-a96011c1-623c-4125-9118-493be6ed7098#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-spricht-mit-studenten-ueber-marshall-plan-fuer-wiederaufbau](https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-spricht-mit-studenten-ueber-marshall-plan-fuer-wiederaufbau-a-1bddf7b1-e1be-4d37-820a-e018119b7ae6#ref=rss)
 ### orenburg
 
-* [https://www.spiegel.de/panorama/orenburg-russische-behoerden-evakuieren-grossstadt-wegen-ueberschwemmungen](https://www.spiegel.de/panorama/orenburg-russische-behoerden-evakuieren-grossstadt-wegen-ueberschwemmungen-a-893e0834-6da5-465a-8396-7eefd0abe643#ref=rss)
-### russische
+* [https://www.spiegel.de/panorama/orenburg-wasser-erreicht-neuen-hoechststand-im-russischen-flutgebiet](https://www.spiegel.de/panorama/orenburg-wasser-erreicht-neuen-hoechststand-im-russischen-flutgebiet-a-39f09be9-6d7a-40fa-85a3-7e759e0c081c#ref=rss)
+### wasser
 
-* [https://www.spiegel.de/panorama/orenburg-russische-behoerden-evakuieren-grossstadt-wegen-ueberschwemmungen](https://www.spiegel.de/panorama/orenburg-russische-behoerden-evakuieren-grossstadt-wegen-ueberschwemmungen-a-893e0834-6da5-465a-8396-7eefd0abe643#ref=rss)
-### großstadt
+* [https://www.spiegel.de/panorama/orenburg-wasser-erreicht-neuen-hoechststand-im-russischen-flutgebiet](https://www.spiegel.de/panorama/orenburg-wasser-erreicht-neuen-hoechststand-im-russischen-flutgebiet-a-39f09be9-6d7a-40fa-85a3-7e759e0c081c#ref=rss)
+### höchststand
 
-* [https://www.spiegel.de/panorama/orenburg-russische-behoerden-evakuieren-grossstadt-wegen-ueberschwemmungen](https://www.spiegel.de/panorama/orenburg-russische-behoerden-evakuieren-grossstadt-wegen-ueberschwemmungen-a-893e0834-6da5-465a-8396-7eefd0abe643#ref=rss)
-### diane
+* [https://www.spiegel.de/panorama/orenburg-wasser-erreicht-neuen-hoechststand-im-russischen-flutgebiet](https://www.spiegel.de/panorama/orenburg-wasser-erreicht-neuen-hoechststand-im-russischen-flutgebiet-a-39f09be9-6d7a-40fa-85a3-7e759e0c081c#ref=rss)
+### historischen
 
-* [https://www.spiegel.de/panorama/leute/diane-krueger-spricht-ueber-sexszenen](https://www.spiegel.de/panorama/leute/diane-krueger-spricht-ueber-sexszenen-a-65878e79-20a7-428c-9497-4c30f05566f3#ref=rss)
-### kruger
+* [https://www.spiegel.de/panorama/orenburg-wasser-erreicht-neuen-hoechststand-im-russischen-flutgebiet](https://www.spiegel.de/panorama/orenburg-wasser-erreicht-neuen-hoechststand-im-russischen-flutgebiet-a-39f09be9-6d7a-40fa-85a3-7e759e0c081c#ref=rss)
+* [https://www.spiegel.de/ausland/gute-nachrichten-erfolgreiche-frauen-in-der-tuerkei-einfach-mathe-lernen-gute-laune-aus-japan](https://www.spiegel.de/ausland/gute-nachrichten-erfolgreiche-frauen-in-der-tuerkei-einfach-mathe-lernen-gute-laune-aus-japan-a-5f9be2c7-521f-42a1-afa5-28019956e557#ref=rss)
+### scrabble
 
-* [https://www.spiegel.de/panorama/leute/diane-krueger-spricht-ueber-sexszenen](https://www.spiegel.de/panorama/leute/diane-krueger-spricht-ueber-sexszenen-a-65878e79-20a7-428c-9497-4c30f05566f3#ref=rss)
+* [https://www.spiegel.de/tests/brettspiele/scrabble-wird-zum-teamspiel-neue-variante-des-klassikers](https://www.spiegel.de/tests/brettspiele/scrabble-wird-zum-teamspiel-neue-variante-des-klassikers-a-fb9a93b6-3dce-42af-9dfd-6fdb8c730fc1#ref=rss)
+### ozean
+
+* [https://www.spiegel.de/panorama/einsatz-im-indischen-ozean-britische-marine-beschlagnahmt-3-7-tonnen-drogen](https://www.spiegel.de/panorama/einsatz-im-indischen-ozean-britische-marine-beschlagnahmt-3-7-tonnen-drogen-a-e0cb0b59-a196-4dd1-b8d5-e319f8ba1692#ref=rss)
+### britische
+
+* [https://www.spiegel.de/panorama/einsatz-im-indischen-ozean-britische-marine-beschlagnahmt-3-7-tonnen-drogen](https://www.spiegel.de/panorama/einsatz-im-indischen-ozean-britische-marine-beschlagnahmt-3-7-tonnen-drogen-a-e0cb0b59-a196-4dd1-b8d5-e319f8ba1692#ref=rss)
+### marine
+
+* [https://www.spiegel.de/panorama/einsatz-im-indischen-ozean-britische-marine-beschlagnahmt-3-7-tonnen-drogen](https://www.spiegel.de/panorama/einsatz-im-indischen-ozean-britische-marine-beschlagnahmt-3-7-tonnen-drogen-a-e0cb0b59-a196-4dd1-b8d5-e319f8ba1692#ref=rss)
+### euro
+
+* [https://www.spiegel.de/panorama/einsatz-im-indischen-ozean-britische-marine-beschlagnahmt-3-7-tonnen-drogen](https://www.spiegel.de/panorama/einsatz-im-indischen-ozean-britische-marine-beschlagnahmt-3-7-tonnen-drogen-a-e0cb0b59-a196-4dd1-b8d5-e319f8ba1692#ref=rss)
+* [https://www.spiegel.de/netzwelt/netflix-preiserhoehung-in-deutschland-um-bis-zu-zwei-euro-im-monat](https://www.spiegel.de/netzwelt/netflix-preiserhoehung-in-deutschland-um-bis-zu-zwei-euro-im-monat-a-da9f3b73-2e77-48e8-bdce-bc7a1a52cf15#ref=rss)
+### netzwerk
+
+* [https://www.spiegel.de/panorama/schleusergeschaeft-bundespolizei-ermittelt-gegen-internationales-netzwerk](https://www.spiegel.de/panorama/schleusergeschaeft-bundespolizei-ermittelt-gegen-internationales-netzwerk-a-2a5aabf0-5d31-4e25-9dd8-9f58c311e1f2#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/panorama/schleusergeschaeft-bundespolizei-ermittelt-gegen-internationales-netzwerk](https://www.spiegel.de/panorama/schleusergeschaeft-bundespolizei-ermittelt-gegen-internationales-netzwerk-a-2a5aabf0-5d31-4e25-9dd8-9f58c311e1f2#ref=rss)
+* [https://www.spiegel.de/netzwelt/netflix-preiserhoehung-in-deutschland-um-bis-zu-zwei-euro-im-monat](https://www.spiegel.de/netzwelt/netflix-preiserhoehung-in-deutschland-um-bis-zu-zwei-euro-im-monat-a-da9f3b73-2e77-48e8-bdce-bc7a1a52cf15#ref=rss)
+### uppsala
+
+* [https://www.spiegel.de/auto/schweden-in-dieser-stadt-kann-man-jetzt-falschparker-per-app-melden-und-selbst-kassieren](https://www.spiegel.de/auto/schweden-in-dieser-stadt-kann-man-jetzt-falschparker-per-app-melden-und-selbst-kassieren-a-fcaf75d1-cc59-4cb7-bacf-aaedf7c8bbab#ref=rss)
+### auto
+
+* [https://www.spiegel.de/auto/schweden-in-dieser-stadt-kann-man-jetzt-falschparker-per-app-melden-und-selbst-kassieren](https://www.spiegel.de/auto/schweden-in-dieser-stadt-kann-man-jetzt-falschparker-per-app-melden-und-selbst-kassieren-a-fcaf75d1-cc59-4cb7-bacf-aaedf7c8bbab#ref=rss)
+* [https://www.spiegel.de/panorama/pakistan-neun-tote-nach-entfuehrung-von-buspassagieren](https://www.spiegel.de/panorama/pakistan-neun-tote-nach-entfuehrung-von-buspassagieren-a-d29ea9fb-94e4-495e-88f5-57e2f3903118#ref=rss)
+### geld
+
+* [https://www.spiegel.de/auto/schweden-in-dieser-stadt-kann-man-jetzt-falschparker-per-app-melden-und-selbst-kassieren](https://www.spiegel.de/auto/schweden-in-dieser-stadt-kann-man-jetzt-falschparker-per-app-melden-und-selbst-kassieren-a-fcaf75d1-cc59-4cb7-bacf-aaedf7c8bbab#ref=rss)
+* [https://www.spiegel.de/netzwelt/netflix-preiserhoehung-in-deutschland-um-bis-zu-zwei-euro-im-monat](https://www.spiegel.de/netzwelt/netflix-preiserhoehung-in-deutschland-um-bis-zu-zwei-euro-im-monat-a-da9f3b73-2e77-48e8-bdce-bc7a1a52cf15#ref=rss)
+### läuft
+
+* [https://www.spiegel.de/auto/schweden-in-dieser-stadt-kann-man-jetzt-falschparker-per-app-melden-und-selbst-kassieren](https://www.spiegel.de/auto/schweden-in-dieser-stadt-kann-man-jetzt-falschparker-per-app-melden-und-selbst-kassieren-a-fcaf75d1-cc59-4cb7-bacf-aaedf7c8bbab#ref=rss)
+* [https://www.spiegel.de/fitness/ueber-den-hype-um-ultralaeufe-den-es-schon-immer-gab-newsletter-spiegel-laeuft](https://www.spiegel.de/fitness/ueber-den-hype-um-ultralaeufe-den-es-schon-immer-gab-newsletter-spiegel-laeuft-a-3f76e1dc-9c2a-408e-b8e5-57ec71938fb3#ref=rss)
+### zahlen
+
+* [https://www.spiegel.de/auto/schweden-in-dieser-stadt-kann-man-jetzt-falschparker-per-app-melden-und-selbst-kassieren](https://www.spiegel.de/auto/schweden-in-dieser-stadt-kann-man-jetzt-falschparker-per-app-melden-und-selbst-kassieren-a-fcaf75d1-cc59-4cb7-bacf-aaedf7c8bbab#ref=rss)
+* [https://www.spiegel.de/netzwelt/netflix-preiserhoehung-in-deutschland-um-bis-zu-zwei-euro-im-monat](https://www.spiegel.de/netzwelt/netflix-preiserhoehung-in-deutschland-um-bis-zu-zwei-euro-im-monat-a-da9f3b73-2e77-48e8-bdce-bc7a1a52cf15#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/ausland/spionage-fuer-kuba-frueherer-us-botschafter-muss-15-jahre-in-haft](https://www.spiegel.de/ausland/spionage-fuer-kuba-frueherer-us-botschafter-muss-15-jahre-in-haft-a-8b508a4f-0c35-4c24-989e-8a64c843cb3c#ref=rss)
+* [https://www.spiegel.de/panorama/leute/francis-ford-coppolas-ehefrau-eleanor-mit-87-jahren-gestorben](https://www.spiegel.de/panorama/leute/francis-ford-coppolas-ehefrau-eleanor-mit-87-jahren-gestorben-a-5a6b10e8-1da0-4151-a473-40b133d13915#ref=rss)
+### kortum
+
+* [https://www.spiegel.de/wirtschaft/galeria-karstadt-kaufhof-haben-warenhaeuser-noch-eine-zukunft-herr-kortum](https://www.spiegel.de/wirtschaft/galeria-karstadt-kaufhof-haben-warenhaeuser-noch-eine-zukunft-herr-kortum-a-0d70dc2c-e33c-4949-aae4-c257f5d9bcae#ref=rss)
+### pakistan
+
+* [https://www.spiegel.de/panorama/pakistan-neun-tote-nach-entfuehrung-von-buspassagieren](https://www.spiegel.de/panorama/pakistan-neun-tote-nach-entfuehrung-von-buspassagieren-a-d29ea9fb-94e4-495e-88f5-57e2f3903118#ref=rss)
+### neun
+
+* [https://www.spiegel.de/panorama/pakistan-neun-tote-nach-entfuehrung-von-buspassagieren](https://www.spiegel.de/panorama/pakistan-neun-tote-nach-entfuehrung-von-buspassagieren-a-d29ea9fb-94e4-495e-88f5-57e2f3903118#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/pakistan-neun-tote-nach-entfuehrung-von-buspassagieren](https://www.spiegel.de/panorama/pakistan-neun-tote-nach-entfuehrung-von-buspassagieren-a-d29ea9fb-94e4-495e-88f5-57e2f3903118#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/sydney-polizeieinsatz-nach-mutmasslicher-messerstecherei-in-westfield-bondi-junction](https://www.spiegel.de/panorama/justiz/sydney-polizeieinsatz-nach-mutmasslicher-messerstecherei-in-westfield-bondi-junction-a-43c1f8c5-8cca-43ad-a209-22f3b49abb43#ref=rss)
+### china
+
+* [https://www.spiegel.de/ausland/olaf-scholz-in-china-der-kanzler-muss-deutsche-kerninteressen-verteidigen-meinung](https://www.spiegel.de/ausland/olaf-scholz-in-china-der-kanzler-muss-deutsche-kerninteressen-verteidigen-meinung-a-11e8bffb-d2e3-4da2-b482-a6363d153d22#ref=rss)
+### zeigen
+
+* [https://www.spiegel.de/ausland/olaf-scholz-in-china-der-kanzler-muss-deutsche-kerninteressen-verteidigen-meinung](https://www.spiegel.de/ausland/olaf-scholz-in-china-der-kanzler-muss-deutsche-kerninteressen-verteidigen-meinung-a-11e8bffb-d2e3-4da2-b482-a6363d153d22#ref=rss)
+* [https://www.spiegel.de/politik/wochenend-fahrverbote-gruenen-politiker-werfen-volker-wissing-fdp-ablenkungsmanoever-vor](https://www.spiegel.de/politik/wochenend-fahrverbote-gruenen-politiker-werfen-volker-wissing-fdp-ablenkungsmanoever-vor-a-5e65a96a-1007-4ace-a930-f7d699edd2aa#ref=rss)
+### erste
+
+* [https://www.spiegel.de/wirtschaft/furcht-vor-eskalation-in-nahost-erste-airlines-umfliegen-iranischen-luftraum](https://www.spiegel.de/wirtschaft/furcht-vor-eskalation-in-nahost-erste-airlines-umfliegen-iranischen-luftraum-a-d49826c1-9de9-4415-8f12-d77058d8a495#ref=rss)
+* [https://www.spiegel.de/fitness/ueber-den-hype-um-ultralaeufe-den-es-schon-immer-gab-newsletter-spiegel-laeuft](https://www.spiegel.de/fitness/ueber-den-hype-um-ultralaeufe-den-es-schon-immer-gab-newsletter-spiegel-laeuft-a-3f76e1dc-9c2a-408e-b8e5-57ec71938fb3#ref=rss)
+### airlines
+
+* [https://www.spiegel.de/wirtschaft/furcht-vor-eskalation-in-nahost-erste-airlines-umfliegen-iranischen-luftraum](https://www.spiegel.de/wirtschaft/furcht-vor-eskalation-in-nahost-erste-airlines-umfliegen-iranischen-luftraum-a-d49826c1-9de9-4415-8f12-d77058d8a495#ref=rss)
+### luftraum
+
+* [https://www.spiegel.de/wirtschaft/furcht-vor-eskalation-in-nahost-erste-airlines-umfliegen-iranischen-luftraum](https://www.spiegel.de/wirtschaft/furcht-vor-eskalation-in-nahost-erste-airlines-umfliegen-iranischen-luftraum-a-d49826c1-9de9-4415-8f12-d77058d8a495#ref=rss)
+### april
+
+* [https://www.spiegel.de/wirtschaft/furcht-vor-eskalation-in-nahost-erste-airlines-umfliegen-iranischen-luftraum](https://www.spiegel.de/wirtschaft/furcht-vor-eskalation-in-nahost-erste-airlines-umfliegen-iranischen-luftraum-a-d49826c1-9de9-4415-8f12-d77058d8a495#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cannabis-verwirrung-bei-der-legalisierung-wer-kontrolliert-was-wann-und-wie](https://www.spiegel.de/politik/deutschland/cannabis-verwirrung-bei-der-legalisierung-wer-kontrolliert-was-wann-und-wie-a-f603f8f2-e374-4c9e-83df-e25c1eda49a0#ref=rss)
+### cannabis
+
+* [https://www.spiegel.de/politik/deutschland/cannabis-verwirrung-bei-der-legalisierung-wer-kontrolliert-was-wann-und-wie](https://www.spiegel.de/politik/deutschland/cannabis-verwirrung-bei-der-legalisierung-wer-kontrolliert-was-wann-und-wie-a-f603f8f2-e374-4c9e-83df-e25c1eda49a0#ref=rss)
+### viele
+
+* [https://www.spiegel.de/politik/deutschland/cannabis-verwirrung-bei-der-legalisierung-wer-kontrolliert-was-wann-und-wie](https://www.spiegel.de/politik/deutschland/cannabis-verwirrung-bei-der-legalisierung-wer-kontrolliert-was-wann-und-wie-a-f603f8f2-e374-4c9e-83df-e25c1eda49a0#ref=rss)
+* [https://www.spiegel.de/auto/eisenbahnen-in-deutschland-stellen-passagier-rekord-auf](https://www.spiegel.de/auto/eisenbahnen-in-deutschland-stellen-passagier-rekord-auf-a-7003ed81-f6fc-4c10-9530-5fe037d89fa1#ref=rss)
+### wissing
+
+* [https://www.spiegel.de/politik/wochenend-fahrverbote-gruenen-politiker-werfen-volker-wissing-fdp-ablenkungsmanoever-vor](https://www.spiegel.de/politik/wochenend-fahrverbote-gruenen-politiker-werfen-volker-wissing-fdp-ablenkungsmanoever-vor-a-5e65a96a-1007-4ace-a930-f7d699edd2aa#ref=rss)
+### tom
+
+* [https://www.spiegel.de/wirtschaft/oekonom-tom-krebs-zur-deutschen-industrie-selbst-die-oelpreiskrise-war-im-vergleich-harmlos](https://www.spiegel.de/wirtschaft/oekonom-tom-krebs-zur-deutschen-industrie-selbst-die-oelpreiskrise-war-im-vergleich-harmlos-a-da60910c-8b54-44ec-a009-5b290c2fe9b2#ref=rss)
+### krebs
+
+* [https://www.spiegel.de/wirtschaft/oekonom-tom-krebs-zur-deutschen-industrie-selbst-die-oelpreiskrise-war-im-vergleich-harmlos](https://www.spiegel.de/wirtschaft/oekonom-tom-krebs-zur-deutschen-industrie-selbst-die-oelpreiskrise-war-im-vergleich-harmlos-a-da60910c-8b54-44ec-a009-5b290c2fe9b2#ref=rss)
+### industrie
+
+* [https://www.spiegel.de/wirtschaft/oekonom-tom-krebs-zur-deutschen-industrie-selbst-die-oelpreiskrise-war-im-vergleich-harmlos](https://www.spiegel.de/wirtschaft/oekonom-tom-krebs-zur-deutschen-industrie-selbst-die-oelpreiskrise-war-im-vergleich-harmlos-a-da60910c-8b54-44ec-a009-5b290c2fe9b2#ref=rss)
+### wirft
+
+* [https://www.spiegel.de/wirtschaft/oekonom-tom-krebs-zur-deutschen-industrie-selbst-die-oelpreiskrise-war-im-vergleich-harmlos](https://www.spiegel.de/wirtschaft/oekonom-tom-krebs-zur-deutschen-industrie-selbst-die-oelpreiskrise-war-im-vergleich-harmlos-a-da60910c-8b54-44ec-a009-5b290c2fe9b2#ref=rss)
+* [https://www.spiegel.de/auto/fahrberichte/fisker-ocean-im-test-riesen-akku-und-california-mode](https://www.spiegel.de/auto/fahrberichte/fisker-ocean-im-test-riesen-akku-und-california-mode-a-1723a5fc-3b20-48a4-84df-e517ba586587#ref=rss)
+### biden
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/us-abgeordnete-kritisieren-regierung-von-joe-biden-fuer-intel-kooperation-mit-huawei](https://www.spiegel.de/wirtschaft/unternehmen/us-abgeordnete-kritisieren-regierung-von-joe-biden-fuer-intel-kooperation-mit-huawei-a-0358cb36-282e-4230-b660-6ba4e8e02c25#ref=rss)
+### kritisieren
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/us-abgeordnete-kritisieren-regierung-von-joe-biden-fuer-intel-kooperation-mit-huawei](https://www.spiegel.de/wirtschaft/unternehmen/us-abgeordnete-kritisieren-regierung-von-joe-biden-fuer-intel-kooperation-mit-huawei-a-0358cb36-282e-4230-b660-6ba4e8e02c25#ref=rss)
+### huawei
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/us-abgeordnete-kritisieren-regierung-von-joe-biden-fuer-intel-kooperation-mit-huawei](https://www.spiegel.de/wirtschaft/unternehmen/us-abgeordnete-kritisieren-regierung-von-joe-biden-fuer-intel-kooperation-mit-huawei-a-0358cb36-282e-4230-b660-6ba4e8e02c25#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-spricht-mit-studenten-ueber-marshall-plan-fuer-wiederaufbau](https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-spricht-mit-studenten-ueber-marshall-plan-fuer-wiederaufbau-a-1bddf7b1-e1be-4d37-820a-e018119b7ae6#ref=rss)
+### selenskyj
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-spricht-mit-studenten-ueber-marshall-plan-fuer-wiederaufbau](https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-spricht-mit-studenten-ueber-marshall-plan-fuer-wiederaufbau-a-1bddf7b1-e1be-4d37-820a-e018119b7ae6#ref=rss)
+### studenten
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-spricht-mit-studenten-ueber-marshall-plan-fuer-wiederaufbau](https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-spricht-mit-studenten-ueber-marshall-plan-fuer-wiederaufbau-a-1bddf7b1-e1be-4d37-820a-e018119b7ae6#ref=rss)
+### marshallplan
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-spricht-mit-studenten-ueber-marshall-plan-fuer-wiederaufbau](https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-spricht-mit-studenten-ueber-marshall-plan-fuer-wiederaufbau-a-1bddf7b1-e1be-4d37-820a-e018119b7ae6#ref=rss)
+### allerdings
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-spricht-mit-studenten-ueber-marshall-plan-fuer-wiederaufbau](https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-spricht-mit-studenten-ueber-marshall-plan-fuer-wiederaufbau-a-1bddf7b1-e1be-4d37-820a-e018119b7ae6#ref=rss)
+* [https://www.spiegel.de/auto/fahrberichte/fisker-ocean-im-test-riesen-akku-und-california-mode](https://www.spiegel.de/auto/fahrberichte/fisker-ocean-im-test-riesen-akku-und-california-mode-a-1723a5fc-3b20-48a4-84df-e517ba586587#ref=rss)
+### gute
+
+* [https://www.spiegel.de/ausland/gute-nachrichten-erfolgreiche-frauen-in-der-tuerkei-einfach-mathe-lernen-gute-laune-aus-japan](https://www.spiegel.de/ausland/gute-nachrichten-erfolgreiche-frauen-in-der-tuerkei-einfach-mathe-lernen-gute-laune-aus-japan-a-5f9be2c7-521f-42a1-afa5-28019956e557#ref=rss)
+### türkei
+
+* [https://www.spiegel.de/ausland/gute-nachrichten-erfolgreiche-frauen-in-der-tuerkei-einfach-mathe-lernen-gute-laune-aus-japan](https://www.spiegel.de/ausland/gute-nachrichten-erfolgreiche-frauen-in-der-tuerkei-einfach-mathe-lernen-gute-laune-aus-japan-a-5f9be2c7-521f-42a1-afa5-28019956e557#ref=rss)
+### mathe
+
+* [https://www.spiegel.de/ausland/gute-nachrichten-erfolgreiche-frauen-in-der-tuerkei-einfach-mathe-lernen-gute-laune-aus-japan](https://www.spiegel.de/ausland/gute-nachrichten-erfolgreiche-frauen-in-der-tuerkei-einfach-mathe-lernen-gute-laune-aus-japan-a-5f9be2c7-521f-42a1-afa5-28019956e557#ref=rss)
+### lernen
+
+* [https://www.spiegel.de/ausland/gute-nachrichten-erfolgreiche-frauen-in-der-tuerkei-einfach-mathe-lernen-gute-laune-aus-japan](https://www.spiegel.de/ausland/gute-nachrichten-erfolgreiche-frauen-in-der-tuerkei-einfach-mathe-lernen-gute-laune-aus-japan-a-5f9be2c7-521f-42a1-afa5-28019956e557#ref=rss)
+### laune
+
+* [https://www.spiegel.de/ausland/gute-nachrichten-erfolgreiche-frauen-in-der-tuerkei-einfach-mathe-lernen-gute-laune-aus-japan](https://www.spiegel.de/ausland/gute-nachrichten-erfolgreiche-frauen-in-der-tuerkei-einfach-mathe-lernen-gute-laune-aus-japan-a-5f9be2c7-521f-42a1-afa5-28019956e557#ref=rss)
+### japan
+
+* [https://www.spiegel.de/ausland/gute-nachrichten-erfolgreiche-frauen-in-der-tuerkei-einfach-mathe-lernen-gute-laune-aus-japan](https://www.spiegel.de/ausland/gute-nachrichten-erfolgreiche-frauen-in-der-tuerkei-einfach-mathe-lernen-gute-laune-aus-japan-a-5f9be2c7-521f-42a1-afa5-28019956e557#ref=rss)
+### schweine
+
+* [https://www.spiegel.de/panorama/binde-in-sachsen-anhalt-rund-20-000-schweine-bei-brand-in-mastanlage-verendet](https://www.spiegel.de/panorama/binde-in-sachsen-anhalt-rund-20-000-schweine-bei-brand-in-mastanlage-verendet-a-a3ed290a-44af-4ff6-a53c-7a61d09c551e#ref=rss)
+### verendet
+
+* [https://www.spiegel.de/panorama/binde-in-sachsen-anhalt-rund-20-000-schweine-bei-brand-in-mastanlage-verendet](https://www.spiegel.de/panorama/binde-in-sachsen-anhalt-rund-20-000-schweine-bei-brand-in-mastanlage-verendet-a-a3ed290a-44af-4ff6-a53c-7a61d09c551e#ref=rss)
+### schwimmbäder
+
+* [https://www.spiegel.de/reise/deutschland/schoenste-schwimmbaeder-schwimmbad-tourist-philipp-reussner-gibt-tipps](https://www.spiegel.de/reise/deutschland/schoenste-schwimmbaeder-schwimmbad-tourist-philipp-reussner-gibt-tipps-a-eef57f8a-dda4-43a0-b310-15b495f5561f#ref=rss)
+### philipp
+
+* [https://www.spiegel.de/reise/deutschland/schoenste-schwimmbaeder-schwimmbad-tourist-philipp-reussner-gibt-tipps](https://www.spiegel.de/reise/deutschland/schoenste-schwimmbaeder-schwimmbad-tourist-philipp-reussner-gibt-tipps-a-eef57f8a-dda4-43a0-b310-15b495f5561f#ref=rss)
+### reußner
+
+* [https://www.spiegel.de/reise/deutschland/schoenste-schwimmbaeder-schwimmbad-tourist-philipp-reussner-gibt-tipps](https://www.spiegel.de/reise/deutschland/schoenste-schwimmbaeder-schwimmbad-tourist-philipp-reussner-gibt-tipps-a-eef57f8a-dda4-43a0-b310-15b495f5561f#ref=rss)
+### fisker
+
+* [https://www.spiegel.de/auto/fahrberichte/fisker-ocean-im-test-riesen-akku-und-california-mode](https://www.spiegel.de/auto/fahrberichte/fisker-ocean-im-test-riesen-akku-und-california-mode-a-1723a5fc-3b20-48a4-84df-e517ba586587#ref=rss)
+### ocean
+
+* [https://www.spiegel.de/auto/fahrberichte/fisker-ocean-im-test-riesen-akku-und-california-mode](https://www.spiegel.de/auto/fahrberichte/fisker-ocean-im-test-riesen-akku-und-california-mode-a-1723a5fc-3b20-48a4-84df-e517ba586587#ref=rss)
+### riesenakku
+
+* [https://www.spiegel.de/auto/fahrberichte/fisker-ocean-im-test-riesen-akku-und-california-mode](https://www.spiegel.de/auto/fahrberichte/fisker-ocean-im-test-riesen-akku-und-california-mode-a-1723a5fc-3b20-48a4-84df-e517ba586587#ref=rss)
+### californiamode
+
+* [https://www.spiegel.de/auto/fahrberichte/fisker-ocean-im-test-riesen-akku-und-california-mode](https://www.spiegel.de/auto/fahrberichte/fisker-ocean-im-test-riesen-akku-und-california-mode-a-1723a5fc-3b20-48a4-84df-e517ba586587#ref=rss)
+### francis
+
+* [https://www.spiegel.de/panorama/leute/francis-ford-coppolas-ehefrau-eleanor-mit-87-jahren-gestorben](https://www.spiegel.de/panorama/leute/francis-ford-coppolas-ehefrau-eleanor-mit-87-jahren-gestorben-a-5a6b10e8-1da0-4151-a473-40b133d13915#ref=rss)
+### ford
+
+* [https://www.spiegel.de/panorama/leute/francis-ford-coppolas-ehefrau-eleanor-mit-87-jahren-gestorben](https://www.spiegel.de/panorama/leute/francis-ford-coppolas-ehefrau-eleanor-mit-87-jahren-gestorben-a-5a6b10e8-1da0-4151-a473-40b133d13915#ref=rss)
+### ehefrau
+
+* [https://www.spiegel.de/panorama/leute/francis-ford-coppolas-ehefrau-eleanor-mit-87-jahren-gestorben](https://www.spiegel.de/panorama/leute/francis-ford-coppolas-ehefrau-eleanor-mit-87-jahren-gestorben-a-5a6b10e8-1da0-4151-a473-40b133d13915#ref=rss)
+### 87
+
+* [https://www.spiegel.de/panorama/leute/francis-ford-coppolas-ehefrau-eleanor-mit-87-jahren-gestorben](https://www.spiegel.de/panorama/leute/francis-ford-coppolas-ehefrau-eleanor-mit-87-jahren-gestorben-a-5a6b10e8-1da0-4151-a473-40b133d13915#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/panorama/leute/francis-ford-coppolas-ehefrau-eleanor-mit-87-jahren-gestorben](https://www.spiegel.de/panorama/leute/francis-ford-coppolas-ehefrau-eleanor-mit-87-jahren-gestorben-a-5a6b10e8-1da0-4151-a473-40b133d13915#ref=rss)
+### netflix
+
+* [https://www.spiegel.de/netzwelt/netflix-preiserhoehung-in-deutschland-um-bis-zu-zwei-euro-im-monat](https://www.spiegel.de/netzwelt/netflix-preiserhoehung-in-deutschland-um-bis-zu-zwei-euro-im-monat-a-da9f3b73-2e77-48e8-bdce-bc7a1a52cf15#ref=rss)
 
