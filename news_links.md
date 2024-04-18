@@ -4,345 +4,375 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### iran
-
-* [https://www.spiegel.de/politik/deutschland/iran-beschiesst-israel-deutschland-mahnt-bewaehrungsprobe-fuer-die-staatsraeson-podcast](https://www.spiegel.de/politik/deutschland/iran-beschiesst-israel-deutschland-mahnt-bewaehrungsprobe-fuer-die-staatsraeson-podcast-a-9f9a0d6a-278e-46ab-b214-596d61a4247d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-iran-israel-us-republikaner-schwangerschaftsabbruch](https://www.spiegel.de/politik/deutschland/news-des-tages-iran-israel-us-republikaner-schwangerschaftsabbruch-a-3b4a103c-9615-4505-b9fa-e8c113e0a075#ref=rss)
-* [https://www.spiegel.de/wirtschaft/konflikt-mit-israel-wo-sanktionen-iran-treffen-koennten-und-warum-joe-biden-diese-scheut](https://www.spiegel.de/wirtschaft/konflikt-mit-israel-wo-sanktionen-iran-treffen-koennten-und-warum-joe-biden-diese-scheut-a-dc2d5d7a-5d29-4bf3-8a43-5d8234b85496#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/omid-nouripour-kritisiert-jahrelangen-besonderen-kuschelkurs-mit-iran-spiegel-spitzengespraech](https://www.spiegel.de/politik/deutschland/omid-nouripour-kritisiert-jahrelangen-besonderen-kuschelkurs-mit-iran-spiegel-spitzengespraech-a-b8a71fcb-8677-4d08-a21c-b9a51a366cfa#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/munich-re-chef-joachim-wenning-fordert-von-politik-tiefgreifende-reformen](https://www.spiegel.de/wirtschaft/unternehmen/munich-re-chef-joachim-wenning-fordert-von-politik-tiefgreifende-reformen-a-89789bf0-7d51-4b87-90ed-5543eb0fc569#ref=rss)
-* [https://www.spiegel.de/kultur/this-could-be-texas-von-english-teacher-glamouroeser-mathe-unterricht](https://www.spiegel.de/kultur/this-could-be-texas-von-english-teacher-glamouroeser-mathe-unterricht-a-5f30241b-d0a4-488e-88fc-4df50bb0d193#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-im-brandbrief-fordern-annalena-baerbock-und-boris-pistorius-mehr-waffenhilfe](https://www.spiegel.de/politik/deutschland/ukraine-krieg-im-brandbrief-fordern-annalena-baerbock-und-boris-pistorius-mehr-waffenhilfe-a-df5ba8e4-0d7f-4a0c-bb5d-8499a3f20d17#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/digitalpakt-2-0-fuer-schulen-streit-zwischen-bund-und-laendern-kmk-macht-druck](https://www.spiegel.de/panorama/bildung/digitalpakt-2-0-fuer-schulen-streit-zwischen-bund-und-laendern-kmk-macht-druck-a-59c40e7c-46b9-4669-b3cc-5ce779ad3525#ref=rss)
-### 20
-
-* [https://www.spiegel.de/panorama/unwetter-in-dubai-und-oman-mindestens-20-tote-und-schwere-schaeden-durch-starkregen](https://www.spiegel.de/panorama/unwetter-in-dubai-und-oman-mindestens-20-tote-und-schwere-schaeden-durch-starkregen-a-6bb4911b-bbd7-47d1-b511-fcdbb8f0cedf#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/digitalpakt-2-0-fuer-schulen-streit-zwischen-bund-und-laendern-kmk-macht-druck](https://www.spiegel.de/panorama/bildung/digitalpakt-2-0-fuer-schulen-streit-zwischen-bund-und-laendern-kmk-macht-druck-a-59c40e7c-46b9-4669-b3cc-5ce779ad3525#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wissenschaft/natur/great-barrier-reef-groesste-korallenbleiche-seit-aufzeichnung](https://www.spiegel.de/wissenschaft/natur/great-barrier-reef-groesste-korallenbleiche-seit-aufzeichnung-a-5fa0f07a-fb34-4c86-803a-bd050985cc53#ref=rss)
-* [https://www.spiegel.de/ausland/polen-pis-regierung-spaehte-offenbar-hunderte-personen-aus-was-folgt-daraus](https://www.spiegel.de/ausland/polen-pis-regierung-spaehte-offenbar-hunderte-personen-aus-was-folgt-daraus-a-290a8760-448f-43c0-840d-98b5a3f92115#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/eu-kommission-kritisiert-neue-tiktok-funktion](https://www.spiegel.de/netzwelt/apps/eu-kommission-kritisiert-neue-tiktok-funktion-a-44d0586a-6afa-41b7-a9d2-ee806055e648#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/munich-re-chef-joachim-wenning-fordert-von-politik-tiefgreifende-reformen](https://www.spiegel.de/wirtschaft/unternehmen/munich-re-chef-joachim-wenning-fordert-von-politik-tiefgreifende-reformen-a-89789bf0-7d51-4b87-90ed-5543eb0fc569#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/digitalpakt-2-0-fuer-schulen-streit-zwischen-bund-und-laendern-kmk-macht-druck](https://www.spiegel.de/panorama/bildung/digitalpakt-2-0-fuer-schulen-streit-zwischen-bund-und-laendern-kmk-macht-druck-a-59c40e7c-46b9-4669-b3cc-5ce779ad3525#ref=rss)
-### israel
-
-* [https://www.spiegel.de/politik/deutschland/iran-beschiesst-israel-deutschland-mahnt-bewaehrungsprobe-fuer-die-staatsraeson-podcast](https://www.spiegel.de/politik/deutschland/iran-beschiesst-israel-deutschland-mahnt-bewaehrungsprobe-fuer-die-staatsraeson-podcast-a-9f9a0d6a-278e-46ab-b214-596d61a4247d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-iran-israel-us-republikaner-schwangerschaftsabbruch](https://www.spiegel.de/politik/deutschland/news-des-tages-iran-israel-us-republikaner-schwangerschaftsabbruch-a-3b4a103c-9615-4505-b9fa-e8c113e0a075#ref=rss)
-* [https://www.spiegel.de/wirtschaft/konflikt-mit-israel-wo-sanktionen-iran-treffen-koennten-und-warum-joe-biden-diese-scheut](https://www.spiegel.de/wirtschaft/konflikt-mit-israel-wo-sanktionen-iran-treffen-koennten-und-warum-joe-biden-diese-scheut-a-dc2d5d7a-5d29-4bf3-8a43-5d8234b85496#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/iran-beschiesst-israel-deutschland-mahnt-bewaehrungsprobe-fuer-die-staatsraeson-podcast](https://www.spiegel.de/politik/deutschland/iran-beschiesst-israel-deutschland-mahnt-bewaehrungsprobe-fuer-die-staatsraeson-podcast-a-9f9a0d6a-278e-46ab-b214-596d61a4247d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/atomausstieg-expertin-warnt-vor-unterschaetzten-aufraeumarbeiten](https://www.spiegel.de/wissenschaft/atomausstieg-expertin-warnt-vor-unterschaetzten-aufraeumarbeiten-a-9fe85102-84bd-458c-92e1-a51a9ca90b83#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-iran-israel-us-republikaner-schwangerschaftsabbruch](https://www.spiegel.de/politik/deutschland/news-des-tages-iran-israel-us-republikaner-schwangerschaftsabbruch-a-3b4a103c-9615-4505-b9fa-e8c113e0a075#ref=rss)
-### warnt
+* [https://www.spiegel.de/wirtschaft/soziales/geldvermoegen-privater-haushalte-steigt-auf-rekordwert](https://www.spiegel.de/wirtschaft/soziales/geldvermoegen-privater-haushalte-steigt-auf-rekordwert-a-c9d0653d-0f0e-4678-86d1-5785ee7a8198#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/auswaertiges-amt-bestellt-nach-mutmasslichen-sabotageversuchen-russischen-botschafter-ein](https://www.spiegel.de/politik/deutschland/auswaertiges-amt-bestellt-nach-mutmasslichen-sabotageversuchen-russischen-botschafter-ein-a-f22d9ec9-3afa-44f4-88d5-93f10bb5fc5f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/mutmassliche-sabotageplaene-nancy-faeser-will-sich-von-russischer-spionage-nicht-einschuechtern-lassen](https://www.spiegel.de/politik/deutschland/mutmassliche-sabotageplaene-nancy-faeser-will-sich-von-russischer-spionage-nicht-einschuechtern-lassen-a-47640773-41a3-4df0-a704-0573cd80c573#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/iran-deutsche-exporte-in-den-iran-steigen-trotz-eu-sanktionen](https://www.spiegel.de/wirtschaft/soziales/iran-deutsche-exporte-in-den-iran-steigen-trotz-eu-sanktionen-a-855b4bf2-4108-4992-babf-07e427b411cd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/vorbild-schweiz-wie-deutschland-von-vermoegensteuern-profitieren-koennte](https://www.spiegel.de/wirtschaft/soziales/vorbild-schweiz-wie-deutschland-von-vermoegensteuern-profitieren-koennte-a-13f8e78a-2fde-48a2-a67d-0e6b9e8bdde8#ref=rss)
+### iran
 
-* [https://www.spiegel.de/wissenschaft/atomausstieg-expertin-warnt-vor-unterschaetzten-aufraeumarbeiten](https://www.spiegel.de/wissenschaft/atomausstieg-expertin-warnt-vor-unterschaetzten-aufraeumarbeiten-a-9fe85102-84bd-458c-92e1-a51a9ca90b83#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/digitalpakt-2-0-fuer-schulen-streit-zwischen-bund-und-laendern-kmk-macht-druck](https://www.spiegel.de/panorama/bildung/digitalpakt-2-0-fuer-schulen-streit-zwischen-bund-und-laendern-kmk-macht-druck-a-59c40e7c-46b9-4669-b3cc-5ce779ad3525#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/wissenschaft/atomausstieg-expertin-warnt-vor-unterschaetzten-aufraeumarbeiten](https://www.spiegel.de/wissenschaft/atomausstieg-expertin-warnt-vor-unterschaetzten-aufraeumarbeiten-a-9fe85102-84bd-458c-92e1-a51a9ca90b83#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tesla-verwaltungsrat-will-elon-musk-milliarden-bonus-trotz-gerichtsurteils-zahlen](https://www.spiegel.de/wirtschaft/tesla-verwaltungsrat-will-elon-musk-milliarden-bonus-trotz-gerichtsurteils-zahlen-a-bf133fa4-5d90-4ec1-9e22-9814871702b2#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/eu-kommission-kritisiert-neue-tiktok-funktion](https://www.spiegel.de/netzwelt/apps/eu-kommission-kritisiert-neue-tiktok-funktion-a-44d0586a-6afa-41b7-a9d2-ee806055e648#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/so-reagiert-die-afd-auf-die-vorwuerfe-zu-spitzenkandidat-maximilian-krah](https://www.spiegel.de/politik/deutschland/so-reagiert-die-afd-auf-die-vorwuerfe-zu-spitzenkandidat-maximilian-krah-a-7c4729cd-64c6-49bf-a2c5-d1b56b5e6377#ref=rss)
-* [https://www.spiegel.de/kultur/dieter-hallervorden-und-diether-dehm-eine-gedichtanalyse-von-gaza-gaza](https://www.spiegel.de/kultur/dieter-hallervorden-und-diether-dehm-eine-gedichtanalyse-von-gaza-gaza-a-141611f7-8d3f-46cb-b403-4b202927f773#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ansgar-georg-schledde-staatsanwaltschaft-ermittelt-gegen-niedersaechsischen-afd-vize](https://www.spiegel.de/panorama/justiz/ansgar-georg-schledde-staatsanwaltschaft-ermittelt-gegen-niedersaechsischen-afd-vize-a-364163c0-afc5-4c5b-bd94-3dfe106bdc30#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/iran-deutsche-exporte-in-den-iran-steigen-trotz-eu-sanktionen](https://www.spiegel.de/wirtschaft/soziales/iran-deutsche-exporte-in-den-iran-steigen-trotz-eu-sanktionen-a-855b4bf2-4108-4992-babf-07e427b411cd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/iran-oel-exporte-trotz-sanktionen-auf-hoechstem-stand-seit-6-jahren](https://www.spiegel.de/wirtschaft/iran-oel-exporte-trotz-sanktionen-auf-hoechstem-stand-seit-6-jahren-a-f000db43-80cb-4bc3-88a4-aaa6456430d6#ref=rss)
 ### bayern
 
-* [https://www.spiegel.de/politik/deutschland/bayerns-cannabis-verbot-im-biergarten-schuetzt-die-jugend-vor-der-csu](https://www.spiegel.de/politik/deutschland/bayerns-cannabis-verbot-im-biergarten-schuetzt-die-jugend-vor-der-csu-a-c70ac01f-8c30-443b-a81c-e27552e361c0#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-setzt-gegen-fc-arsenal-auf-leroy-sane-und-dessen-tempo](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-setzt-gegen-fc-arsenal-auf-leroy-sane-und-dessen-tempo-a-e0e659bd-4998-4488-9a33-2330e4e041ca#ref=rss)
-### escobar
+* [https://www.spiegel.de/sport/fussball/fc-bayern-im-champions-league-halbfinale-die-internationalen-pressestimmen-zum-sieg-gegen-arsenal](https://www.spiegel.de/sport/fussball/fc-bayern-im-champions-league-halbfinale-die-internationalen-pressestimmen-zum-sieg-gegen-arsenal-a-c0bbab49-3af4-44f6-ab85-a768adde3b2e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/generalbundesanwalt-ermittelt-zwei-mutmassliche-russische-saboteure-in-bayern-verhaftet](https://www.spiegel.de/politik/deutschland/generalbundesanwalt-ermittelt-zwei-mutmassliche-russische-saboteure-in-bayern-verhaftet-a-0115bebd-195a-41fb-83be-da8d642045cd#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-sieg-des-fc-bayern-gegen-arsenal-die-entthronten-vor-der-kroenung](https://www.spiegel.de/sport/fussball/champions-league-sieg-des-fc-bayern-gegen-arsenal-die-entthronten-vor-der-kroenung-a-a0c0d70f-f7e5-45be-b724-a38bce4a16a1#ref=rss)
+### studium
 
-* [https://www.spiegel.de/wirtschaft/pablo-escobar-name-von-drogenbaron-kann-nicht-als-marke-in-eu-geschuetzt-werden](https://www.spiegel.de/wirtschaft/pablo-escobar-name-von-drogenbaron-kann-nicht-als-marke-in-eu-geschuetzt-werden-a-b4829e56-201c-4e95-94a5-e506f20346a2#ref=rss)
-### fordern
+* [https://www.spiegel.de/panorama/bildung/hochschulen-studienanfaenger-bevorzugen-hochschulen-in-der-naehe-ihres-heimatorts](https://www.spiegel.de/panorama/bildung/hochschulen-studienanfaenger-bevorzugen-hochschulen-in-der-naehe-ihres-heimatorts-a-4c2ef77c-6986-4073-b25c-020065a725f0#ref=rss)
+* [https://www.spiegel.de/start/startklar-newsletter-sollte-man-im-studium-mit-seinem-partner-zusammenziehen](https://www.spiegel.de/start/startklar-newsletter-sollte-man-im-studium-mit-seinem-partner-zusammenziehen-a-9eeafe1d-a7b5-4183-856f-70437053f208#ref=rss)
+### city
 
-* [https://www.spiegel.de/panorama/england-und-nordirland-kinderaerzte-fordern-verbot-vom-schlagen-von-kindern](https://www.spiegel.de/panorama/england-und-nordirland-kinderaerzte-fordern-verbot-vom-schlagen-von-kindern-a-b8137a31-c9af-49e8-a9de-4c25c9360516#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-im-brandbrief-fordern-annalena-baerbock-und-boris-pistorius-mehr-waffenhilfe](https://www.spiegel.de/politik/deutschland/ukraine-krieg-im-brandbrief-fordern-annalena-baerbock-und-boris-pistorius-mehr-waffenhilfe-a-df5ba8e4-0d7f-4a0c-bb5d-8499a3f20d17#ref=rss)
+* [https://www.spiegel.de/ausland/andrzej-duda-trifft-donald-trump-in-new-york-city-ein-freund-ein-guter-freund](https://www.spiegel.de/ausland/andrzej-duda-trifft-donald-trump-in-new-york-city-ein-freund-ein-guter-freund-a-dc42720b-3221-4694-b9a7-a89a6a60e504#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-pressestimmen-zum-halbfinaleinzug-von-real-madrid-bei-manchester-city](https://www.spiegel.de/sport/fussball/champions-league-pressestimmen-zum-halbfinaleinzug-von-real-madrid-bei-manchester-city-a-864336c3-c06a-4f5a-94db-e436c8cba920#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/politik/deutschland/auswaertiges-amt-bestellt-nach-mutmasslichen-sabotageversuchen-russischen-botschafter-ein](https://www.spiegel.de/politik/deutschland/auswaertiges-amt-bestellt-nach-mutmasslichen-sabotageversuchen-russischen-botschafter-ein-a-f22d9ec9-3afa-44f4-88d5-93f10bb5fc5f#ref=rss)
+* [https://www.spiegel.de/ausland/china-strategie-der-bundesregierung-berlin-hat-das-chinesische-denken-nicht-verstanden](https://www.spiegel.de/ausland/china-strategie-der-bundesregierung-berlin-hat-das-chinesische-denken-nicht-verstanden-a-afb72c3c-29ee-4fde-875a-f5a0ffc212ae#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/panorama/bildung/gymnasien-in-baden-wuerttemberg-kehren-zu-g9-zurueck](https://www.spiegel.de/panorama/bildung/gymnasien-in-baden-wuerttemberg-kehren-zu-g9-zurueck-a-44b2fc64-d3bd-4be1-a941-0595c8d43977#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/baugenehmigungen-krise-am-bau-setzt-sich-fort-zahl-sinkt-im-februar-deutlich](https://www.spiegel.de/wirtschaft/soziales/baugenehmigungen-krise-am-bau-setzt-sich-fort-zahl-sinkt-im-februar-deutlich-a-1be2cf6b-927f-48df-a09d-4df13a3b0551#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/zukunftsinvestitionen-us-firmen-dominieren-bei-forschungsausgaben](https://www.spiegel.de/wirtschaft/unternehmen/zukunftsinvestitionen-us-firmen-dominieren-bei-forschungsausgaben-a-565abe36-01e5-4c45-9427-2356de69573e#ref=rss)
+### tausende
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-trennt-sich-von-300-leiharbeitern-in-gruenheide](https://www.spiegel.de/wirtschaft/unternehmen/tesla-trennt-sich-von-300-leiharbeitern-in-gruenheide-a-f7388b28-78a1-4338-9e67-e51848c993fc#ref=rss)
+* [https://www.spiegel.de/panorama/indonesien-behoerden-warnen-nach-vulkanausbruechen-vor-moeglichem-tsunami](https://www.spiegel.de/panorama/indonesien-behoerden-warnen-nach-vulkanausbruechen-vor-moeglichem-tsunami-a-283a2954-597c-4027-a805-281c30f54b3e#ref=rss)
+* [https://www.spiegel.de/ausland/argentinien-javier-milei-nutzt-nun-doch-den-regierungsflieger](https://www.spiegel.de/ausland/argentinien-javier-milei-nutzt-nun-doch-den-regierungsflieger-a-6904a1dc-cdac-4fbd-b25f-f2ca819776d1#ref=rss)
+### mutmaßliche
+
+* [https://www.spiegel.de/politik/deutschland/mutmassliche-sabotageplaene-nancy-faeser-will-sich-von-russischer-spionage-nicht-einschuechtern-lassen](https://www.spiegel.de/politik/deutschland/mutmassliche-sabotageplaene-nancy-faeser-will-sich-von-russischer-spionage-nicht-einschuechtern-lassen-a-47640773-41a3-4df0-a704-0573cd80c573#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/generalbundesanwalt-ermittelt-zwei-mutmassliche-russische-saboteure-in-bayern-verhaftet](https://www.spiegel.de/politik/deutschland/generalbundesanwalt-ermittelt-zwei-mutmassliche-russische-saboteure-in-bayern-verhaftet-a-0115bebd-195a-41fb-83be-da8d642045cd#ref=rss)
+### deutlich
+
+* [https://www.spiegel.de/wirtschaft/soziales/baugenehmigungen-krise-am-bau-setzt-sich-fort-zahl-sinkt-im-februar-deutlich](https://www.spiegel.de/wirtschaft/soziales/baugenehmigungen-krise-am-bau-setzt-sich-fort-zahl-sinkt-im-februar-deutlich-a-1be2cf6b-927f-48df-a09d-4df13a3b0551#ref=rss)
+* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-juventus-muss-fast-zehn-millionen-euro-gehalt-nachzahlen](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-juventus-muss-fast-zehn-millionen-euro-gehalt-nachzahlen-a-c767f5bb-329a-43f4-ba55-60aaef29e3ca#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/wirtschaft/soziales/iran-deutsche-exporte-in-den-iran-steigen-trotz-eu-sanktionen](https://www.spiegel.de/wirtschaft/soziales/iran-deutsche-exporte-in-den-iran-steigen-trotz-eu-sanktionen-a-855b4bf2-4108-4992-babf-07e427b411cd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/vorbild-schweiz-wie-deutschland-von-vermoegensteuern-profitieren-koennte](https://www.spiegel.de/wirtschaft/soziales/vorbild-schweiz-wie-deutschland-von-vermoegensteuern-profitieren-koennte-a-13f8e78a-2fde-48a2-a67d-0e6b9e8bdde8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/generalbundesanwalt-ermittelt-zwei-mutmassliche-russische-saboteure-in-bayern-verhaftet](https://www.spiegel.de/politik/deutschland/generalbundesanwalt-ermittelt-zwei-mutmassliche-russische-saboteure-in-bayern-verhaftet-a-0115bebd-195a-41fb-83be-da8d642045cd#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/wirtschaft/soziales/iran-deutsche-exporte-in-den-iran-steigen-trotz-eu-sanktionen](https://www.spiegel.de/wirtschaft/soziales/iran-deutsche-exporte-in-den-iran-steigen-trotz-eu-sanktionen-a-855b4bf2-4108-4992-babf-07e427b411cd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/zukunftsinvestitionen-us-firmen-dominieren-bei-forschungsausgaben](https://www.spiegel.de/wirtschaft/unternehmen/zukunftsinvestitionen-us-firmen-dominieren-bei-forschungsausgaben-a-565abe36-01e5-4c45-9427-2356de69573e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/iran-oel-exporte-trotz-sanktionen-auf-hoechstem-stand-seit-6-jahren](https://www.spiegel.de/wirtschaft/iran-oel-exporte-trotz-sanktionen-auf-hoechstem-stand-seit-6-jahren-a-f000db43-80cb-4bc3-88a4-aaa6456430d6#ref=rss)
+### freund
+
+* [https://www.spiegel.de/start/startklar-newsletter-sollte-man-im-studium-mit-seinem-partner-zusammenziehen](https://www.spiegel.de/start/startklar-newsletter-sollte-man-im-studium-mit-seinem-partner-zusammenziehen-a-9eeafe1d-a7b5-4183-856f-70437053f208#ref=rss)
+* [https://www.spiegel.de/ausland/andrzej-duda-trifft-donald-trump-in-new-york-city-ein-freund-ein-guter-freund](https://www.spiegel.de/ausland/andrzej-duda-trifft-donald-trump-in-new-york-city-ein-freund-ein-guter-freund-a-dc42720b-3221-4694-b9a7-a89a6a60e504#ref=rss)
+### ronaldo
+
+* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-juventus-muss-fast-zehn-millionen-euro-gehalt-nachzahlen](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-juventus-muss-fast-zehn-millionen-euro-gehalt-nachzahlen-a-c767f5bb-329a-43f4-ba55-60aaef29e3ca#ref=rss)
+### champions
+
+* [https://www.spiegel.de/sport/fussball/champions-league-pressestimmen-zum-halbfinaleinzug-von-real-madrid-bei-manchester-city](https://www.spiegel.de/sport/fussball/champions-league-pressestimmen-zum-halbfinaleinzug-von-real-madrid-bei-manchester-city-a-864336c3-c06a-4f5a-94db-e436c8cba920#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-im-champions-league-halbfinale-die-internationalen-pressestimmen-zum-sieg-gegen-arsenal](https://www.spiegel.de/sport/fussball/fc-bayern-im-champions-league-halbfinale-die-internationalen-pressestimmen-zum-sieg-gegen-arsenal-a-c0bbab49-3af4-44f6-ab85-a768adde3b2e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-sieg-des-fc-bayern-gegen-arsenal-die-entthronten-vor-der-kroenung](https://www.spiegel.de/sport/fussball/champions-league-sieg-des-fc-bayern-gegen-arsenal-die-entthronten-vor-der-kroenung-a-a0c0d70f-f7e5-45be-b724-a38bce4a16a1#ref=rss)
+### league
+
+* [https://www.spiegel.de/sport/fussball/champions-league-pressestimmen-zum-halbfinaleinzug-von-real-madrid-bei-manchester-city](https://www.spiegel.de/sport/fussball/champions-league-pressestimmen-zum-halbfinaleinzug-von-real-madrid-bei-manchester-city-a-864336c3-c06a-4f5a-94db-e436c8cba920#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-im-champions-league-halbfinale-die-internationalen-pressestimmen-zum-sieg-gegen-arsenal](https://www.spiegel.de/sport/fussball/fc-bayern-im-champions-league-halbfinale-die-internationalen-pressestimmen-zum-sieg-gegen-arsenal-a-c0bbab49-3af4-44f6-ab85-a768adde3b2e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-sieg-des-fc-bayern-gegen-arsenal-die-entthronten-vor-der-kroenung](https://www.spiegel.de/sport/fussball/champions-league-sieg-des-fc-bayern-gegen-arsenal-die-entthronten-vor-der-kroenung-a-a0c0d70f-f7e5-45be-b724-a38bce4a16a1#ref=rss)
 ### fc
 
-* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-setzt-gegen-fc-arsenal-auf-leroy-sane-und-dessen-tempo](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-setzt-gegen-fc-arsenal-auf-leroy-sane-und-dessen-tempo-a-e0e659bd-4998-4488-9a33-2330e4e041ca#ref=rss)
-### tempo
-
-* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-setzt-gegen-fc-arsenal-auf-leroy-sane-und-dessen-tempo](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-setzt-gegen-fc-arsenal-auf-leroy-sane-und-dessen-tempo-a-e0e659bd-4998-4488-9a33-2330e4e041ca#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/digitalpakt-2-0-fuer-schulen-streit-zwischen-bund-und-laendern-kmk-macht-druck](https://www.spiegel.de/panorama/bildung/digitalpakt-2-0-fuer-schulen-streit-zwischen-bund-und-laendern-kmk-macht-druck-a-59c40e7c-46b9-4669-b3cc-5ce779ad3525#ref=rss)
-### bund
-
-* [https://www.spiegel.de/panorama/bildung/digitalpakt-2-0-fuer-schulen-streit-zwischen-bund-und-laendern-kmk-macht-druck](https://www.spiegel.de/panorama/bildung/digitalpakt-2-0-fuer-schulen-streit-zwischen-bund-und-laendern-kmk-macht-druck-a-59c40e7c-46b9-4669-b3cc-5ce779ad3525#ref=rss)
-### great
-
-* [https://www.spiegel.de/wissenschaft/natur/great-barrier-reef-groesste-korallenbleiche-seit-aufzeichnung](https://www.spiegel.de/wissenschaft/natur/great-barrier-reef-groesste-korallenbleiche-seit-aufzeichnung-a-5fa0f07a-fb34-4c86-803a-bd050985cc53#ref=rss)
-### barrier
-
-* [https://www.spiegel.de/wissenschaft/natur/great-barrier-reef-groesste-korallenbleiche-seit-aufzeichnung](https://www.spiegel.de/wissenschaft/natur/great-barrier-reef-groesste-korallenbleiche-seit-aufzeichnung-a-5fa0f07a-fb34-4c86-803a-bd050985cc53#ref=rss)
-### reef
-
-* [https://www.spiegel.de/wissenschaft/natur/great-barrier-reef-groesste-korallenbleiche-seit-aufzeichnung](https://www.spiegel.de/wissenschaft/natur/great-barrier-reef-groesste-korallenbleiche-seit-aufzeichnung-a-5fa0f07a-fb34-4c86-803a-bd050985cc53#ref=rss)
-### folgen
-
-* [https://www.spiegel.de/wissenschaft/natur/great-barrier-reef-groesste-korallenbleiche-seit-aufzeichnung](https://www.spiegel.de/wissenschaft/natur/great-barrier-reef-groesste-korallenbleiche-seit-aufzeichnung-a-5fa0f07a-fb34-4c86-803a-bd050985cc53#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/ozeane-forschende-enthuellen-ursachen-fuer-massensterben-im-meer](https://www.spiegel.de/wissenschaft/natur/ozeane-forschende-enthuellen-ursachen-fuer-massensterben-im-meer-a-669ad864-a8a3-40eb-8be3-efd18a220cfb#ref=rss)
-### magdeburg
-
-* [https://www.spiegel.de/sport/handball/meth-eklat-bei-handballklub-sc-magdeburg-wie-es-im-dopingfall-nikola-portner-weitergeht](https://www.spiegel.de/sport/handball/meth-eklat-bei-handballklub-sc-magdeburg-wie-es-im-dopingfall-nikola-portner-weitergeht-a-3a89ae98-de93-4ff5-ae4c-605e0df82bb1#ref=rss)
-### nikola
-
-* [https://www.spiegel.de/sport/handball/meth-eklat-bei-handballklub-sc-magdeburg-wie-es-im-dopingfall-nikola-portner-weitergeht](https://www.spiegel.de/sport/handball/meth-eklat-bei-handballklub-sc-magdeburg-wie-es-im-dopingfall-nikola-portner-weitergeht-a-3a89ae98-de93-4ff5-ae4c-605e0df82bb1#ref=rss)
-### portner
-
-* [https://www.spiegel.de/sport/handball/meth-eklat-bei-handballklub-sc-magdeburg-wie-es-im-dopingfall-nikola-portner-weitergeht](https://www.spiegel.de/sport/handball/meth-eklat-bei-handballklub-sc-magdeburg-wie-es-im-dopingfall-nikola-portner-weitergeht-a-3a89ae98-de93-4ff5-ae4c-605e0df82bb1#ref=rss)
-### fitnessmesse
-
-* [https://www.spiegel.de/sport/fitnessmesse-die-neuesten-trends-und-teuersten-gadgets-auf-der-fibo](https://www.spiegel.de/sport/fitnessmesse-die-neuesten-trends-und-teuersten-gadgets-auf-der-fibo-a-677800e6-35df-4afa-81c1-0413c07eb01e#ref=rss)
-### fibo
-
-* [https://www.spiegel.de/sport/fitnessmesse-die-neuesten-trends-und-teuersten-gadgets-auf-der-fibo](https://www.spiegel.de/sport/fitnessmesse-die-neuesten-trends-und-teuersten-gadgets-auf-der-fibo-a-677800e6-35df-4afa-81c1-0413c07eb01e#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/sport/fitnessmesse-die-neuesten-trends-und-teuersten-gadgets-auf-der-fibo](https://www.spiegel.de/sport/fitnessmesse-die-neuesten-trends-und-teuersten-gadgets-auf-der-fibo-a-677800e6-35df-4afa-81c1-0413c07eb01e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/iran-beschiesst-israel-deutschland-mahnt-bewaehrungsprobe-fuer-die-staatsraeson-podcast](https://www.spiegel.de/politik/deutschland/iran-beschiesst-israel-deutschland-mahnt-bewaehrungsprobe-fuer-die-staatsraeson-podcast-a-9f9a0d6a-278e-46ab-b214-596d61a4247d#ref=rss)
-### munich
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/munich-re-chef-joachim-wenning-fordert-von-politik-tiefgreifende-reformen](https://www.spiegel.de/wirtschaft/unternehmen/munich-re-chef-joachim-wenning-fordert-von-politik-tiefgreifende-reformen-a-89789bf0-7d51-4b87-90ed-5543eb0fc569#ref=rss)
-### joachim
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/munich-re-chef-joachim-wenning-fordert-von-politik-tiefgreifende-reformen](https://www.spiegel.de/wirtschaft/unternehmen/munich-re-chef-joachim-wenning-fordert-von-politik-tiefgreifende-reformen-a-89789bf0-7d51-4b87-90ed-5543eb0fc569#ref=rss)
-### wenning
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/munich-re-chef-joachim-wenning-fordert-von-politik-tiefgreifende-reformen](https://www.spiegel.de/wirtschaft/unternehmen/munich-re-chef-joachim-wenning-fordert-von-politik-tiefgreifende-reformen-a-89789bf0-7d51-4b87-90ed-5543eb0fc569#ref=rss)
-### politik
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/munich-re-chef-joachim-wenning-fordert-von-politik-tiefgreifende-reformen](https://www.spiegel.de/wirtschaft/unternehmen/munich-re-chef-joachim-wenning-fordert-von-politik-tiefgreifende-reformen-a-89789bf0-7d51-4b87-90ed-5543eb0fc569#ref=rss)
-### angriff
-
-* [https://www.spiegel.de/politik/deutschland/iran-beschiesst-israel-deutschland-mahnt-bewaehrungsprobe-fuer-die-staatsraeson-podcast](https://www.spiegel.de/politik/deutschland/iran-beschiesst-israel-deutschland-mahnt-bewaehrungsprobe-fuer-die-staatsraeson-podcast-a-9f9a0d6a-278e-46ab-b214-596d61a4247d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-iran-israel-us-republikaner-schwangerschaftsabbruch](https://www.spiegel.de/politik/deutschland/news-des-tages-iran-israel-us-republikaner-schwangerschaftsabbruch-a-3b4a103c-9615-4505-b9fa-e8c113e0a075#ref=rss)
-### israels
-
-* [https://www.spiegel.de/politik/deutschland/iran-beschiesst-israel-deutschland-mahnt-bewaehrungsprobe-fuer-die-staatsraeson-podcast](https://www.spiegel.de/politik/deutschland/iran-beschiesst-israel-deutschland-mahnt-bewaehrungsprobe-fuer-die-staatsraeson-podcast-a-9f9a0d6a-278e-46ab-b214-596d61a4247d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-iran-israel-us-republikaner-schwangerschaftsabbruch](https://www.spiegel.de/politik/deutschland/news-des-tages-iran-israel-us-republikaner-schwangerschaftsabbruch-a-3b4a103c-9615-4505-b9fa-e8c113e0a075#ref=rss)
-### bundesregierung
-
-* [https://www.spiegel.de/politik/deutschland/iran-beschiesst-israel-deutschland-mahnt-bewaehrungsprobe-fuer-die-staatsraeson-podcast](https://www.spiegel.de/politik/deutschland/iran-beschiesst-israel-deutschland-mahnt-bewaehrungsprobe-fuer-die-staatsraeson-podcast-a-9f9a0d6a-278e-46ab-b214-596d61a4247d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-im-brandbrief-fordern-annalena-baerbock-und-boris-pistorius-mehr-waffenhilfe](https://www.spiegel.de/politik/deutschland/ukraine-krieg-im-brandbrief-fordern-annalena-baerbock-und-boris-pistorius-mehr-waffenhilfe-a-df5ba8e4-0d7f-4a0c-bb5d-8499a3f20d17#ref=rss)
-### aufräumarbeiten
-
-* [https://www.spiegel.de/wissenschaft/atomausstieg-expertin-warnt-vor-unterschaetzten-aufraeumarbeiten](https://www.spiegel.de/wissenschaft/atomausstieg-expertin-warnt-vor-unterschaetzten-aufraeumarbeiten-a-9fe85102-84bd-458c-92e1-a51a9ca90b83#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/wissenschaft/atomausstieg-expertin-warnt-vor-unterschaetzten-aufraeumarbeiten](https://www.spiegel.de/wissenschaft/atomausstieg-expertin-warnt-vor-unterschaetzten-aufraeumarbeiten-a-9fe85102-84bd-458c-92e1-a51a9ca90b83#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ansgar-georg-schledde-staatsanwaltschaft-ermittelt-gegen-niedersaechsischen-afd-vize](https://www.spiegel.de/panorama/justiz/ansgar-georg-schledde-staatsanwaltschaft-ermittelt-gegen-niedersaechsischen-afd-vize-a-364163c0-afc5-4c5b-bd94-3dfe106bdc30#ref=rss)
-### vorwürfe
-
-* [https://www.spiegel.de/politik/deutschland/so-reagiert-die-afd-auf-die-vorwuerfe-zu-spitzenkandidat-maximilian-krah](https://www.spiegel.de/politik/deutschland/so-reagiert-die-afd-auf-die-vorwuerfe-zu-spitzenkandidat-maximilian-krah-a-7c4729cd-64c6-49bf-a2c5-d1b56b5e6377#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ansgar-georg-schledde-staatsanwaltschaft-ermittelt-gegen-niedersaechsischen-afd-vize](https://www.spiegel.de/panorama/justiz/ansgar-georg-schledde-staatsanwaltschaft-ermittelt-gegen-niedersaechsischen-afd-vize-a-364163c0-afc5-4c5b-bd94-3dfe106bdc30#ref=rss)
-### maximilian
-
-* [https://www.spiegel.de/politik/deutschland/so-reagiert-die-afd-auf-die-vorwuerfe-zu-spitzenkandidat-maximilian-krah](https://www.spiegel.de/politik/deutschland/so-reagiert-die-afd-auf-die-vorwuerfe-zu-spitzenkandidat-maximilian-krah-a-7c4729cd-64c6-49bf-a2c5-d1b56b5e6377#ref=rss)
-### krah
-
-* [https://www.spiegel.de/politik/deutschland/so-reagiert-die-afd-auf-die-vorwuerfe-zu-spitzenkandidat-maximilian-krah](https://www.spiegel.de/politik/deutschland/so-reagiert-die-afd-auf-die-vorwuerfe-zu-spitzenkandidat-maximilian-krah-a-7c4729cd-64c6-49bf-a2c5-d1b56b5e6377#ref=rss)
-### geld
-
-* [https://www.spiegel.de/politik/deutschland/so-reagiert-die-afd-auf-die-vorwuerfe-zu-spitzenkandidat-maximilian-krah](https://www.spiegel.de/politik/deutschland/so-reagiert-die-afd-auf-die-vorwuerfe-zu-spitzenkandidat-maximilian-krah-a-7c4729cd-64c6-49bf-a2c5-d1b56b5e6377#ref=rss)
-* [https://www.spiegel.de/wirtschaft/konflikt-mit-israel-wo-sanktionen-iran-treffen-koennten-und-warum-joe-biden-diese-scheut](https://www.spiegel.de/wirtschaft/konflikt-mit-israel-wo-sanktionen-iran-treffen-koennten-und-warum-joe-biden-diese-scheut-a-dc2d5d7a-5d29-4bf3-8a43-5d8234b85496#ref=rss)
-### partei
-
-* [https://www.spiegel.de/politik/deutschland/so-reagiert-die-afd-auf-die-vorwuerfe-zu-spitzenkandidat-maximilian-krah](https://www.spiegel.de/politik/deutschland/so-reagiert-die-afd-auf-die-vorwuerfe-zu-spitzenkandidat-maximilian-krah-a-7c4729cd-64c6-49bf-a2c5-d1b56b5e6377#ref=rss)
-* [https://www.spiegel.de/politik/cdu-und-islam-gute-muslime-schlechte-muslime](https://www.spiegel.de/politik/cdu-und-islam-gute-muslime-schlechte-muslime-a-459db470-82bc-437a-8da3-f18cbda97dcc#ref=rss)
-### cdu
-
-* [https://www.spiegel.de/politik/cdu-und-islam-gute-muslime-schlechte-muslime](https://www.spiegel.de/politik/cdu-und-islam-gute-muslime-schlechte-muslime-a-459db470-82bc-437a-8da3-f18cbda97dcc#ref=rss)
-### muslime
-
-* [https://www.spiegel.de/politik/cdu-und-islam-gute-muslime-schlechte-muslime](https://www.spiegel.de/politik/cdu-und-islam-gute-muslime-schlechte-muslime-a-459db470-82bc-437a-8da3-f18cbda97dcc#ref=rss)
-### debatte
-
-* [https://www.spiegel.de/politik/cdu-und-islam-gute-muslime-schlechte-muslime](https://www.spiegel.de/politik/cdu-und-islam-gute-muslime-schlechte-muslime-a-459db470-82bc-437a-8da3-f18cbda97dcc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-iran-israel-us-republikaner-schwangerschaftsabbruch](https://www.spiegel.de/politik/deutschland/news-des-tages-iran-israel-us-republikaner-schwangerschaftsabbruch-a-3b4a103c-9615-4505-b9fa-e8c113e0a075#ref=rss)
-### usrepublikaner
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-iran-israel-us-republikaner-schwangerschaftsabbruch](https://www.spiegel.de/politik/deutschland/news-des-tages-iran-israel-us-republikaner-schwangerschaftsabbruch-a-3b4a103c-9615-4505-b9fa-e8c113e0a075#ref=rss)
-### zahlen
-
-* [https://www.spiegel.de/wirtschaft/tesla-verwaltungsrat-will-elon-musk-milliarden-bonus-trotz-gerichtsurteils-zahlen](https://www.spiegel.de/wirtschaft/tesla-verwaltungsrat-will-elon-musk-milliarden-bonus-trotz-gerichtsurteils-zahlen-a-bf133fa4-5d90-4ec1-9e22-9814871702b2#ref=rss)
-### dollar
-
-* [https://www.spiegel.de/wirtschaft/tesla-verwaltungsrat-will-elon-musk-milliarden-bonus-trotz-gerichtsurteils-zahlen](https://www.spiegel.de/wirtschaft/tesla-verwaltungsrat-will-elon-musk-milliarden-bonus-trotz-gerichtsurteils-zahlen-a-bf133fa4-5d90-4ec1-9e22-9814871702b2#ref=rss)
-* [https://www.spiegel.de/sport/basketball/gender-pay-gap-im-basketball-gehalt-von-caitlin-clark-sorgt-fuer-empoerung](https://www.spiegel.de/sport/basketball/gender-pay-gap-im-basketball-gehalt-von-caitlin-clark-sorgt-fuer-empoerung-a-0e06030e-1af4-4720-a5b1-6e9887e6180f#ref=rss)
-### ozeane
-
-* [https://www.spiegel.de/wissenschaft/natur/ozeane-forschende-enthuellen-ursachen-fuer-massensterben-im-meer](https://www.spiegel.de/wissenschaft/natur/ozeane-forschende-enthuellen-ursachen-fuer-massensterben-im-meer-a-669ad864-a8a3-40eb-8be3-efd18a220cfb#ref=rss)
-### massensterben
-
-* [https://www.spiegel.de/wissenschaft/natur/ozeane-forschende-enthuellen-ursachen-fuer-massensterben-im-meer](https://www.spiegel.de/wissenschaft/natur/ozeane-forschende-enthuellen-ursachen-fuer-massensterben-im-meer-a-669ad864-a8a3-40eb-8be3-efd18a220cfb#ref=rss)
-### sorgt
-
-* [https://www.spiegel.de/wissenschaft/natur/ozeane-forschende-enthuellen-ursachen-fuer-massensterben-im-meer](https://www.spiegel.de/wissenschaft/natur/ozeane-forschende-enthuellen-ursachen-fuer-massensterben-im-meer-a-669ad864-a8a3-40eb-8be3-efd18a220cfb#ref=rss)
-* [https://www.spiegel.de/sport/basketball/gender-pay-gap-im-basketball-gehalt-von-caitlin-clark-sorgt-fuer-empoerung](https://www.spiegel.de/sport/basketball/gender-pay-gap-im-basketball-gehalt-von-caitlin-clark-sorgt-fuer-empoerung-a-0e06030e-1af4-4720-a5b1-6e9887e6180f#ref=rss)
-### sanktionen
-
-* [https://www.spiegel.de/wirtschaft/konflikt-mit-israel-wo-sanktionen-iran-treffen-koennten-und-warum-joe-biden-diese-scheut](https://www.spiegel.de/wirtschaft/konflikt-mit-israel-wo-sanktionen-iran-treffen-koennten-und-warum-joe-biden-diese-scheut-a-dc2d5d7a-5d29-4bf3-8a43-5d8234b85496#ref=rss)
-### biden
-
-* [https://www.spiegel.de/wirtschaft/konflikt-mit-israel-wo-sanktionen-iran-treffen-koennten-und-warum-joe-biden-diese-scheut](https://www.spiegel.de/wirtschaft/konflikt-mit-israel-wo-sanktionen-iran-treffen-koennten-und-warum-joe-biden-diese-scheut-a-dc2d5d7a-5d29-4bf3-8a43-5d8234b85496#ref=rss)
-* [https://www.spiegel.de/sport/basketball/gender-pay-gap-im-basketball-gehalt-von-caitlin-clark-sorgt-fuer-empoerung](https://www.spiegel.de/sport/basketball/gender-pay-gap-im-basketball-gehalt-von-caitlin-clark-sorgt-fuer-empoerung-a-0e06030e-1af4-4720-a5b1-6e9887e6180f#ref=rss)
-### usa
-
-* [https://www.spiegel.de/wirtschaft/konflikt-mit-israel-wo-sanktionen-iran-treffen-koennten-und-warum-joe-biden-diese-scheut](https://www.spiegel.de/wirtschaft/konflikt-mit-israel-wo-sanktionen-iran-treffen-koennten-und-warum-joe-biden-diese-scheut-a-dc2d5d7a-5d29-4bf3-8a43-5d8234b85496#ref=rss)
-* [https://www.spiegel.de/sport/basketball/gender-pay-gap-im-basketball-gehalt-von-caitlin-clark-sorgt-fuer-empoerung](https://www.spiegel.de/sport/basketball/gender-pay-gap-im-basketball-gehalt-von-caitlin-clark-sorgt-fuer-empoerung-a-0e06030e-1af4-4720-a5b1-6e9887e6180f#ref=rss)
-### omid
-
-* [https://www.spiegel.de/politik/deutschland/omid-nouripour-kritisiert-jahrelangen-besonderen-kuschelkurs-mit-iran-spiegel-spitzengespraech](https://www.spiegel.de/politik/deutschland/omid-nouripour-kritisiert-jahrelangen-besonderen-kuschelkurs-mit-iran-spiegel-spitzengespraech-a-b8a71fcb-8677-4d08-a21c-b9a51a366cfa#ref=rss)
-### nouripour
-
-* [https://www.spiegel.de/politik/deutschland/omid-nouripour-kritisiert-jahrelangen-besonderen-kuschelkurs-mit-iran-spiegel-spitzengespraech](https://www.spiegel.de/politik/deutschland/omid-nouripour-kritisiert-jahrelangen-besonderen-kuschelkurs-mit-iran-spiegel-spitzengespraech-a-b8a71fcb-8677-4d08-a21c-b9a51a366cfa#ref=rss)
-### kritisiert
-
-* [https://www.spiegel.de/politik/deutschland/omid-nouripour-kritisiert-jahrelangen-besonderen-kuschelkurs-mit-iran-spiegel-spitzengespraech](https://www.spiegel.de/politik/deutschland/omid-nouripour-kritisiert-jahrelangen-besonderen-kuschelkurs-mit-iran-spiegel-spitzengespraech-a-b8a71fcb-8677-4d08-a21c-b9a51a366cfa#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/eu-kommission-kritisiert-neue-tiktok-funktion](https://www.spiegel.de/netzwelt/apps/eu-kommission-kritisiert-neue-tiktok-funktion-a-44d0586a-6afa-41b7-a9d2-ee806055e648#ref=rss)
-### dieter
-
-* [https://www.spiegel.de/kultur/dieter-hallervorden-und-diether-dehm-eine-gedichtanalyse-von-gaza-gaza](https://www.spiegel.de/kultur/dieter-hallervorden-und-diether-dehm-eine-gedichtanalyse-von-gaza-gaza-a-141611f7-8d3f-46cb-b403-4b202927f773#ref=rss)
-### hallervorden
-
-* [https://www.spiegel.de/kultur/dieter-hallervorden-und-diether-dehm-eine-gedichtanalyse-von-gaza-gaza](https://www.spiegel.de/kultur/dieter-hallervorden-und-diether-dehm-eine-gedichtanalyse-von-gaza-gaza-a-141611f7-8d3f-46cb-b403-4b202927f773#ref=rss)
-### diether
-
-* [https://www.spiegel.de/kultur/dieter-hallervorden-und-diether-dehm-eine-gedichtanalyse-von-gaza-gaza](https://www.spiegel.de/kultur/dieter-hallervorden-und-diether-dehm-eine-gedichtanalyse-von-gaza-gaza-a-141611f7-8d3f-46cb-b403-4b202927f773#ref=rss)
-### dehm
-
-* [https://www.spiegel.de/kultur/dieter-hallervorden-und-diether-dehm-eine-gedichtanalyse-von-gaza-gaza](https://www.spiegel.de/kultur/dieter-hallervorden-und-diether-dehm-eine-gedichtanalyse-von-gaza-gaza-a-141611f7-8d3f-46cb-b403-4b202927f773#ref=rss)
-### gaza
-
-* [https://www.spiegel.de/kultur/dieter-hallervorden-und-diether-dehm-eine-gedichtanalyse-von-gaza-gaza](https://www.spiegel.de/kultur/dieter-hallervorden-und-diether-dehm-eine-gedichtanalyse-von-gaza-gaza-a-141611f7-8d3f-46cb-b403-4b202927f773#ref=rss)
-### cannabisverbot
-
-* [https://www.spiegel.de/politik/deutschland/bayerns-cannabis-verbot-im-biergarten-schuetzt-die-jugend-vor-der-csu](https://www.spiegel.de/politik/deutschland/bayerns-cannabis-verbot-im-biergarten-schuetzt-die-jugend-vor-der-csu-a-c70ac01f-8c30-443b-a81c-e27552e361c0#ref=rss)
-### biergarten
-
-* [https://www.spiegel.de/politik/deutschland/bayerns-cannabis-verbot-im-biergarten-schuetzt-die-jugend-vor-der-csu](https://www.spiegel.de/politik/deutschland/bayerns-cannabis-verbot-im-biergarten-schuetzt-die-jugend-vor-der-csu-a-c70ac01f-8c30-443b-a81c-e27552e361c0#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/polen-pis-regierung-spaehte-offenbar-hunderte-personen-aus-was-folgt-daraus](https://www.spiegel.de/ausland/polen-pis-regierung-spaehte-offenbar-hunderte-personen-aus-was-folgt-daraus-a-290a8760-448f-43c0-840d-98b5a3f92115#ref=rss)
-### daraus
-
-* [https://www.spiegel.de/ausland/polen-pis-regierung-spaehte-offenbar-hunderte-personen-aus-was-folgt-daraus](https://www.spiegel.de/ausland/polen-pis-regierung-spaehte-offenbar-hunderte-personen-aus-was-folgt-daraus-a-290a8760-448f-43c0-840d-98b5a3f92115#ref=rss)
-* [https://www.spiegel.de/wirtschaft/pablo-escobar-name-von-drogenbaron-kann-nicht-als-marke-in-eu-geschuetzt-werden](https://www.spiegel.de/wirtschaft/pablo-escobar-name-von-drogenbaron-kann-nicht-als-marke-in-eu-geschuetzt-werden-a-b4829e56-201c-4e95-94a5-e506f20346a2#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/ausland/polen-pis-regierung-spaehte-offenbar-hunderte-personen-aus-was-folgt-daraus](https://www.spiegel.de/ausland/polen-pis-regierung-spaehte-offenbar-hunderte-personen-aus-was-folgt-daraus-a-290a8760-448f-43c0-840d-98b5a3f92115#ref=rss)
-* [https://www.spiegel.de/panorama/england-und-nordirland-kinderaerzte-fordern-verbot-vom-schlagen-von-kindern](https://www.spiegel.de/panorama/england-und-nordirland-kinderaerzte-fordern-verbot-vom-schlagen-von-kindern-a-b8137a31-c9af-49e8-a9de-4c25c9360516#ref=rss)
-### niedersächsischen
-
-* [https://www.spiegel.de/panorama/justiz/ansgar-georg-schledde-staatsanwaltschaft-ermittelt-gegen-niedersaechsischen-afd-vize](https://www.spiegel.de/panorama/justiz/ansgar-georg-schledde-staatsanwaltschaft-ermittelt-gegen-niedersaechsischen-afd-vize-a-364163c0-afc5-4c5b-bd94-3dfe106bdc30#ref=rss)
-### beamte
-
-* [https://www.spiegel.de/panorama/justiz/ansgar-georg-schledde-staatsanwaltschaft-ermittelt-gegen-niedersaechsischen-afd-vize](https://www.spiegel.de/panorama/justiz/ansgar-georg-schledde-staatsanwaltschaft-ermittelt-gegen-niedersaechsischen-afd-vize-a-364163c0-afc5-4c5b-bd94-3dfe106bdc30#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/franzoesische-polizei-raeumt-besetztes-haus-mit-450-gefluechteten](https://www.spiegel.de/panorama/justiz/franzoesische-polizei-raeumt-besetztes-haus-mit-450-gefluechteten-a-81f9eb00-444a-48d7-87db-dc6006a0c8f4#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/panorama/justiz/franzoesische-polizei-raeumt-besetztes-haus-mit-450-gefluechteten](https://www.spiegel.de/panorama/justiz/franzoesische-polizei-raeumt-besetztes-haus-mit-450-gefluechteten-a-81f9eb00-444a-48d7-87db-dc6006a0c8f4#ref=rss)
-* [https://www.spiegel.de/panorama/england-und-nordirland-kinderaerzte-fordern-verbot-vom-schlagen-von-kindern](https://www.spiegel.de/panorama/england-und-nordirland-kinderaerzte-fordern-verbot-vom-schlagen-von-kindern-a-b8137a31-c9af-49e8-a9de-4c25c9360516#ref=rss)
-### caitlin
-
-* [https://www.spiegel.de/sport/basketball/gender-pay-gap-im-basketball-gehalt-von-caitlin-clark-sorgt-fuer-empoerung](https://www.spiegel.de/sport/basketball/gender-pay-gap-im-basketball-gehalt-von-caitlin-clark-sorgt-fuer-empoerung-a-0e06030e-1af4-4720-a5b1-6e9887e6180f#ref=rss)
-### clark
-
-* [https://www.spiegel.de/sport/basketball/gender-pay-gap-im-basketball-gehalt-von-caitlin-clark-sorgt-fuer-empoerung](https://www.spiegel.de/sport/basketball/gender-pay-gap-im-basketball-gehalt-von-caitlin-clark-sorgt-fuer-empoerung-a-0e06030e-1af4-4720-a5b1-6e9887e6180f#ref=rss)
-### empörung
-
-* [https://www.spiegel.de/sport/basketball/gender-pay-gap-im-basketball-gehalt-von-caitlin-clark-sorgt-fuer-empoerung](https://www.spiegel.de/sport/basketball/gender-pay-gap-im-basketball-gehalt-von-caitlin-clark-sorgt-fuer-empoerung-a-0e06030e-1af4-4720-a5b1-6e9887e6180f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-trikot-von-julian-brandt-doch-nicht-geklaut](https://www.spiegel.de/sport/fussball/borussia-dortmund-trikot-von-julian-brandt-doch-nicht-geklaut-a-c62ce554-c28f-4300-a18f-abc5d235457d#ref=rss)
-### tiktok
-
-* [https://www.spiegel.de/netzwelt/apps/eu-kommission-kritisiert-neue-tiktok-funktion](https://www.spiegel.de/netzwelt/apps/eu-kommission-kritisiert-neue-tiktok-funktion-a-44d0586a-6afa-41b7-a9d2-ee806055e648#ref=rss)
-### lite
-
-* [https://www.spiegel.de/netzwelt/apps/eu-kommission-kritisiert-neue-tiktok-funktion](https://www.spiegel.de/netzwelt/apps/eu-kommission-kritisiert-neue-tiktok-funktion-a-44d0586a-6afa-41b7-a9d2-ee806055e648#ref=rss)
-### eu
-
-* [https://www.spiegel.de/netzwelt/apps/eu-kommission-kritisiert-neue-tiktok-funktion](https://www.spiegel.de/netzwelt/apps/eu-kommission-kritisiert-neue-tiktok-funktion-a-44d0586a-6afa-41b7-a9d2-ee806055e648#ref=rss)
-* [https://www.spiegel.de/wirtschaft/pablo-escobar-name-von-drogenbaron-kann-nicht-als-marke-in-eu-geschuetzt-werden](https://www.spiegel.de/wirtschaft/pablo-escobar-name-von-drogenbaron-kann-nicht-als-marke-in-eu-geschuetzt-werden-a-b4829e56-201c-4e95-94a5-e506f20346a2#ref=rss)
-### pablo
-
-* [https://www.spiegel.de/wirtschaft/pablo-escobar-name-von-drogenbaron-kann-nicht-als-marke-in-eu-geschuetzt-werden](https://www.spiegel.de/wirtschaft/pablo-escobar-name-von-drogenbaron-kann-nicht-als-marke-in-eu-geschuetzt-werden-a-b4829e56-201c-4e95-94a5-e506f20346a2#ref=rss)
-### guten
-
-* [https://www.spiegel.de/wirtschaft/pablo-escobar-name-von-drogenbaron-kann-nicht-als-marke-in-eu-geschuetzt-werden](https://www.spiegel.de/wirtschaft/pablo-escobar-name-von-drogenbaron-kann-nicht-als-marke-in-eu-geschuetzt-werden-a-b4829e56-201c-4e95-94a5-e506f20346a2#ref=rss)
-### namen
-
-* [https://www.spiegel.de/wirtschaft/pablo-escobar-name-von-drogenbaron-kann-nicht-als-marke-in-eu-geschuetzt-werden](https://www.spiegel.de/wirtschaft/pablo-escobar-name-von-drogenbaron-kann-nicht-als-marke-in-eu-geschuetzt-werden-a-b4829e56-201c-4e95-94a5-e506f20346a2#ref=rss)
-### england
-
-* [https://www.spiegel.de/panorama/england-und-nordirland-kinderaerzte-fordern-verbot-vom-schlagen-von-kindern](https://www.spiegel.de/panorama/england-und-nordirland-kinderaerzte-fordern-verbot-vom-schlagen-von-kindern-a-b8137a31-c9af-49e8-a9de-4c25c9360516#ref=rss)
-### nordirland
-
-* [https://www.spiegel.de/panorama/england-und-nordirland-kinderaerzte-fordern-verbot-vom-schlagen-von-kindern](https://www.spiegel.de/panorama/england-und-nordirland-kinderaerzte-fordern-verbot-vom-schlagen-von-kindern-a-b8137a31-c9af-49e8-a9de-4c25c9360516#ref=rss)
-### kinderärzte
-
-* [https://www.spiegel.de/panorama/england-und-nordirland-kinderaerzte-fordern-verbot-vom-schlagen-von-kindern](https://www.spiegel.de/panorama/england-und-nordirland-kinderaerzte-fordern-verbot-vom-schlagen-von-kindern-a-b8137a31-c9af-49e8-a9de-4c25c9360516#ref=rss)
-### unwetter
-
-* [https://www.spiegel.de/panorama/unwetter-in-dubai-und-oman-mindestens-20-tote-und-schwere-schaeden-durch-starkregen](https://www.spiegel.de/panorama/unwetter-in-dubai-und-oman-mindestens-20-tote-und-schwere-schaeden-durch-starkregen-a-6bb4911b-bbd7-47d1-b511-fcdbb8f0cedf#ref=rss)
-### mindestens
-
-* [https://www.spiegel.de/panorama/unwetter-in-dubai-und-oman-mindestens-20-tote-und-schwere-schaeden-durch-starkregen](https://www.spiegel.de/panorama/unwetter-in-dubai-und-oman-mindestens-20-tote-und-schwere-schaeden-durch-starkregen-a-6bb4911b-bbd7-47d1-b511-fcdbb8f0cedf#ref=rss)
-### tote
-
-* [https://www.spiegel.de/panorama/unwetter-in-dubai-und-oman-mindestens-20-tote-und-schwere-schaeden-durch-starkregen](https://www.spiegel.de/panorama/unwetter-in-dubai-und-oman-mindestens-20-tote-und-schwere-schaeden-durch-starkregen-a-6bb4911b-bbd7-47d1-b511-fcdbb8f0cedf#ref=rss)
-### schwere
-
-* [https://www.spiegel.de/panorama/unwetter-in-dubai-und-oman-mindestens-20-tote-und-schwere-schaeden-durch-starkregen](https://www.spiegel.de/panorama/unwetter-in-dubai-und-oman-mindestens-20-tote-und-schwere-schaeden-durch-starkregen-a-6bb4911b-bbd7-47d1-b511-fcdbb8f0cedf#ref=rss)
-### schäden
-
-* [https://www.spiegel.de/panorama/unwetter-in-dubai-und-oman-mindestens-20-tote-und-schwere-schaeden-durch-starkregen](https://www.spiegel.de/panorama/unwetter-in-dubai-und-oman-mindestens-20-tote-und-schwere-schaeden-durch-starkregen-a-6bb4911b-bbd7-47d1-b511-fcdbb8f0cedf#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-im-champions-league-halbfinale-die-internationalen-pressestimmen-zum-sieg-gegen-arsenal](https://www.spiegel.de/sport/fussball/fc-bayern-im-champions-league-halbfinale-die-internationalen-pressestimmen-zum-sieg-gegen-arsenal-a-c0bbab49-3af4-44f6-ab85-a768adde3b2e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-sieg-des-fc-bayern-gegen-arsenal-die-entthronten-vor-der-kroenung](https://www.spiegel.de/sport/fussball/champions-league-sieg-des-fc-bayern-gegen-arsenal-die-entthronten-vor-der-kroenung-a-a0c0d70f-f7e5-45be-b724-a38bce4a16a1#ref=rss)
 ### arsenal
 
-* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-setzt-gegen-fc-arsenal-auf-leroy-sane-und-dessen-tempo](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-setzt-gegen-fc-arsenal-auf-leroy-sane-und-dessen-tempo-a-e0e659bd-4998-4488-9a33-2330e4e041ca#ref=rss)
-### leroy
+* [https://www.spiegel.de/sport/fussball/fc-bayern-im-champions-league-halbfinale-die-internationalen-pressestimmen-zum-sieg-gegen-arsenal](https://www.spiegel.de/sport/fussball/fc-bayern-im-champions-league-halbfinale-die-internationalen-pressestimmen-zum-sieg-gegen-arsenal-a-c0bbab49-3af4-44f6-ab85-a768adde3b2e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-sieg-des-fc-bayern-gegen-arsenal-die-entthronten-vor-der-kroenung](https://www.spiegel.de/sport/fussball/champions-league-sieg-des-fc-bayern-gegen-arsenal-die-entthronten-vor-der-kroenung-a-a0c0d70f-f7e5-45be-b724-a38bce4a16a1#ref=rss)
+### flutkatastrophe
 
-* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-setzt-gegen-fc-arsenal-auf-leroy-sane-und-dessen-tempo](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-setzt-gegen-fc-arsenal-auf-leroy-sane-und-dessen-tempo-a-e0e659bd-4998-4488-9a33-2330e4e041ca#ref=rss)
-### sané
+* [https://www.spiegel.de/panorama/justiz/flutkatastrophe-im-ahrtal-staatsanwaltschaft-stellt-ermittlungen-gegen-ex-landrat-juergen-pfoehler-cdu-ein](https://www.spiegel.de/panorama/justiz/flutkatastrophe-im-ahrtal-staatsanwaltschaft-stellt-ermittlungen-gegen-ex-landrat-juergen-pfoehler-cdu-ein-a-9d97210c-06a6-4a4e-9fc4-7ea41ce04edf#ref=rss)
+### jürgen
 
-* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-setzt-gegen-fc-arsenal-auf-leroy-sane-und-dessen-tempo](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-setzt-gegen-fc-arsenal-auf-leroy-sane-und-dessen-tempo-a-e0e659bd-4998-4488-9a33-2330e4e041ca#ref=rss)
-### english
+* [https://www.spiegel.de/panorama/justiz/flutkatastrophe-im-ahrtal-staatsanwaltschaft-stellt-ermittlungen-gegen-ex-landrat-juergen-pfoehler-cdu-ein](https://www.spiegel.de/panorama/justiz/flutkatastrophe-im-ahrtal-staatsanwaltschaft-stellt-ermittlungen-gegen-ex-landrat-juergen-pfoehler-cdu-ein-a-9d97210c-06a6-4a4e-9fc4-7ea41ce04edf#ref=rss)
+### pföhler
 
-* [https://www.spiegel.de/kultur/this-could-be-texas-von-english-teacher-glamouroeser-mathe-unterricht](https://www.spiegel.de/kultur/this-could-be-texas-von-english-teacher-glamouroeser-mathe-unterricht-a-5f30241b-d0a4-488e-88fc-4df50bb0d193#ref=rss)
-### teacher
+* [https://www.spiegel.de/panorama/justiz/flutkatastrophe-im-ahrtal-staatsanwaltschaft-stellt-ermittlungen-gegen-ex-landrat-juergen-pfoehler-cdu-ein](https://www.spiegel.de/panorama/justiz/flutkatastrophe-im-ahrtal-staatsanwaltschaft-stellt-ermittlungen-gegen-ex-landrat-juergen-pfoehler-cdu-ein-a-9d97210c-06a6-4a4e-9fc4-7ea41ce04edf#ref=rss)
+### kritik
 
-* [https://www.spiegel.de/kultur/this-could-be-texas-von-english-teacher-glamouroeser-mathe-unterricht](https://www.spiegel.de/kultur/this-could-be-texas-von-english-teacher-glamouroeser-mathe-unterricht-a-5f30241b-d0a4-488e-88fc-4df50bb0d193#ref=rss)
-### sibirien
+* [https://www.spiegel.de/panorama/justiz/flutkatastrophe-im-ahrtal-staatsanwaltschaft-stellt-ermittlungen-gegen-ex-landrat-juergen-pfoehler-cdu-ein](https://www.spiegel.de/panorama/justiz/flutkatastrophe-im-ahrtal-staatsanwaltschaft-stellt-ermittlungen-gegen-ex-landrat-juergen-pfoehler-cdu-ein-a-9d97210c-06a6-4a4e-9fc4-7ea41ce04edf#ref=rss)
+* [https://www.spiegel.de/ausland/andrzej-duda-trifft-donald-trump-in-new-york-city-ein-freund-ein-guter-freund](https://www.spiegel.de/ausland/andrzej-duda-trifft-donald-trump-in-new-york-city-ein-freund-ein-guter-freund-a-dc42720b-3221-4694-b9a7-a89a6a60e504#ref=rss)
+### brexit
 
-* [https://www.spiegel.de/panorama/sibirien-oma-sagte-gott-segne-mich-altes-dummchen-dass-ich-noch-einmal-fuer-putin-stimmen-kann](https://www.spiegel.de/panorama/sibirien-oma-sagte-gott-segne-mich-altes-dummchen-dass-ich-noch-einmal-fuer-putin-stimmen-kann-a-9b7779d9-4770-4b20-b4ca-7abf1ee36097#ref=rss)
-### alles
+* [https://www.spiegel.de/wirtschaft/soziales/grossbritannien-wegen-brexit-arzneimittel-werden-immer-knapper](https://www.spiegel.de/wirtschaft/soziales/grossbritannien-wegen-brexit-arzneimittel-werden-immer-knapper-a-78fe1d14-b7f4-4456-8449-a0c56dfae4c3#ref=rss)
+### euro
 
-* [https://www.spiegel.de/panorama/sibirien-oma-sagte-gott-segne-mich-altes-dummchen-dass-ich-noch-einmal-fuer-putin-stimmen-kann](https://www.spiegel.de/panorama/sibirien-oma-sagte-gott-segne-mich-altes-dummchen-dass-ich-noch-einmal-fuer-putin-stimmen-kann-a-9b7779d9-4770-4b20-b4ca-7abf1ee36097#ref=rss)
-* [https://www.spiegel.de/wirtschaft/boeing-was-bei-dem-us-flugzeugbauer-zuletzt-schon-alles-schiefgelaufen-ist](https://www.spiegel.de/wirtschaft/boeing-was-bei-dem-us-flugzeugbauer-zuletzt-schon-alles-schiefgelaufen-ist-a-c7111f34-7755-44fa-ae33-121290b82a5c#ref=rss)
-### boeing
+* [https://www.spiegel.de/wirtschaft/soziales/geldvermoegen-privater-haushalte-steigt-auf-rekordwert](https://www.spiegel.de/wirtschaft/soziales/geldvermoegen-privater-haushalte-steigt-auf-rekordwert-a-c9d0653d-0f0e-4678-86d1-5785ee7a8198#ref=rss)
+* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-juventus-muss-fast-zehn-millionen-euro-gehalt-nachzahlen](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-juventus-muss-fast-zehn-millionen-euro-gehalt-nachzahlen-a-c767f5bb-329a-43f4-ba55-60aaef29e3ca#ref=rss)
+### amt
 
-* [https://www.spiegel.de/wirtschaft/boeing-was-bei-dem-us-flugzeugbauer-zuletzt-schon-alles-schiefgelaufen-ist](https://www.spiegel.de/wirtschaft/boeing-was-bei-dem-us-flugzeugbauer-zuletzt-schon-alles-schiefgelaufen-ist-a-c7111f34-7755-44fa-ae33-121290b82a5c#ref=rss)
-### trikot
+* [https://www.spiegel.de/politik/deutschland/auswaertiges-amt-bestellt-nach-mutmasslichen-sabotageversuchen-russischen-botschafter-ein](https://www.spiegel.de/politik/deutschland/auswaertiges-amt-bestellt-nach-mutmasslichen-sabotageversuchen-russischen-botschafter-ein-a-f22d9ec9-3afa-44f4-88d5-93f10bb5fc5f#ref=rss)
+### mutmaßlichen
 
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-trikot-von-julian-brandt-doch-nicht-geklaut](https://www.spiegel.de/sport/fussball/borussia-dortmund-trikot-von-julian-brandt-doch-nicht-geklaut-a-c62ce554-c28f-4300-a18f-abc5d235457d#ref=rss)
-### julian
+* [https://www.spiegel.de/politik/deutschland/auswaertiges-amt-bestellt-nach-mutmasslichen-sabotageversuchen-russischen-botschafter-ein](https://www.spiegel.de/politik/deutschland/auswaertiges-amt-bestellt-nach-mutmasslichen-sabotageversuchen-russischen-botschafter-ein-a-f22d9ec9-3afa-44f4-88d5-93f10bb5fc5f#ref=rss)
+### russischen
 
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-trikot-von-julian-brandt-doch-nicht-geklaut](https://www.spiegel.de/sport/fussball/borussia-dortmund-trikot-von-julian-brandt-doch-nicht-geklaut-a-c62ce554-c28f-4300-a18f-abc5d235457d#ref=rss)
-### brandt
+* [https://www.spiegel.de/politik/deutschland/auswaertiges-amt-bestellt-nach-mutmasslichen-sabotageversuchen-russischen-botschafter-ein](https://www.spiegel.de/politik/deutschland/auswaertiges-amt-bestellt-nach-mutmasslichen-sabotageversuchen-russischen-botschafter-ein-a-f22d9ec9-3afa-44f4-88d5-93f10bb5fc5f#ref=rss)
+### russlands
 
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-trikot-von-julian-brandt-doch-nicht-geklaut](https://www.spiegel.de/sport/fussball/borussia-dortmund-trikot-von-julian-brandt-doch-nicht-geklaut-a-c62ce554-c28f-4300-a18f-abc5d235457d#ref=rss)
-### digitalpakt
+* [https://www.spiegel.de/politik/deutschland/auswaertiges-amt-bestellt-nach-mutmasslichen-sabotageversuchen-russischen-botschafter-ein](https://www.spiegel.de/politik/deutschland/auswaertiges-amt-bestellt-nach-mutmasslichen-sabotageversuchen-russischen-botschafter-ein-a-f22d9ec9-3afa-44f4-88d5-93f10bb5fc5f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/generalbundesanwalt-ermittelt-zwei-mutmassliche-russische-saboteure-in-bayern-verhaftet](https://www.spiegel.de/politik/deutschland/generalbundesanwalt-ermittelt-zwei-mutmassliche-russische-saboteure-in-bayern-verhaftet-a-0115bebd-195a-41fb-83be-da8d642045cd#ref=rss)
+### vertreter
 
-* [https://www.spiegel.de/panorama/bildung/digitalpakt-2-0-fuer-schulen-streit-zwischen-bund-und-laendern-kmk-macht-druck](https://www.spiegel.de/panorama/bildung/digitalpakt-2-0-fuer-schulen-streit-zwischen-bund-und-laendern-kmk-macht-druck-a-59c40e7c-46b9-4669-b3cc-5ce779ad3525#ref=rss)
-### streit
+* [https://www.spiegel.de/politik/deutschland/auswaertiges-amt-bestellt-nach-mutmasslichen-sabotageversuchen-russischen-botschafter-ein](https://www.spiegel.de/politik/deutschland/auswaertiges-amt-bestellt-nach-mutmasslichen-sabotageversuchen-russischen-botschafter-ein-a-f22d9ec9-3afa-44f4-88d5-93f10bb5fc5f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/mutmassliche-sabotageplaene-nancy-faeser-will-sich-von-russischer-spionage-nicht-einschuechtern-lassen](https://www.spiegel.de/politik/deutschland/mutmassliche-sabotageplaene-nancy-faeser-will-sich-von-russischer-spionage-nicht-einschuechtern-lassen-a-47640773-41a3-4df0-a704-0573cd80c573#ref=rss)
+### gymnasien
 
-* [https://www.spiegel.de/panorama/bildung/digitalpakt-2-0-fuer-schulen-streit-zwischen-bund-und-laendern-kmk-macht-druck](https://www.spiegel.de/panorama/bildung/digitalpakt-2-0-fuer-schulen-streit-zwischen-bund-und-laendern-kmk-macht-druck-a-59c40e7c-46b9-4669-b3cc-5ce779ad3525#ref=rss)
-### ländern
+* [https://www.spiegel.de/panorama/bildung/gymnasien-in-baden-wuerttemberg-kehren-zu-g9-zurueck](https://www.spiegel.de/panorama/bildung/gymnasien-in-baden-wuerttemberg-kehren-zu-g9-zurueck-a-44b2fc64-d3bd-4be1-a941-0595c8d43977#ref=rss)
+### tesla
 
-* [https://www.spiegel.de/panorama/bildung/digitalpakt-2-0-fuer-schulen-streit-zwischen-bund-und-laendern-kmk-macht-druck](https://www.spiegel.de/panorama/bildung/digitalpakt-2-0-fuer-schulen-streit-zwischen-bund-und-laendern-kmk-macht-druck-a-59c40e7c-46b9-4669-b3cc-5ce779ad3525#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-trennt-sich-von-300-leiharbeitern-in-gruenheide](https://www.spiegel.de/wirtschaft/unternehmen/tesla-trennt-sich-von-300-leiharbeitern-in-gruenheide-a-f7388b28-78a1-4338-9e67-e51848c993fc#ref=rss)
+### 300
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-trennt-sich-von-300-leiharbeitern-in-gruenheide](https://www.spiegel.de/wirtschaft/unternehmen/tesla-trennt-sich-von-300-leiharbeitern-in-gruenheide-a-f7388b28-78a1-4338-9e67-e51848c993fc#ref=rss)
+### grünheide
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-trennt-sich-von-300-leiharbeitern-in-gruenheide](https://www.spiegel.de/wirtschaft/unternehmen/tesla-trennt-sich-von-300-leiharbeitern-in-gruenheide-a-f7388b28-78a1-4338-9e67-e51848c993fc#ref=rss)
+### stellen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-trennt-sich-von-300-leiharbeitern-in-gruenheide](https://www.spiegel.de/wirtschaft/unternehmen/tesla-trennt-sich-von-300-leiharbeitern-in-gruenheide-a-f7388b28-78a1-4338-9e67-e51848c993fc#ref=rss)
+* [https://www.spiegel.de/ausland/argentinien-javier-milei-nutzt-nun-doch-den-regierungsflieger](https://www.spiegel.de/ausland/argentinien-javier-milei-nutzt-nun-doch-den-regierungsflieger-a-6904a1dc-cdac-4fbd-b25f-f2ca819776d1#ref=rss)
+### gehen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-trennt-sich-von-300-leiharbeitern-in-gruenheide](https://www.spiegel.de/wirtschaft/unternehmen/tesla-trennt-sich-von-300-leiharbeitern-in-gruenheide-a-f7388b28-78a1-4338-9e67-e51848c993fc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/vorbild-schweiz-wie-deutschland-von-vermoegensteuern-profitieren-koennte](https://www.spiegel.de/wirtschaft/soziales/vorbild-schweiz-wie-deutschland-von-vermoegensteuern-profitieren-koennte-a-13f8e78a-2fde-48a2-a67d-0e6b9e8bdde8#ref=rss)
+### indonesien
+
+* [https://www.spiegel.de/panorama/indonesien-behoerden-warnen-nach-vulkanausbruechen-vor-moeglichem-tsunami](https://www.spiegel.de/panorama/indonesien-behoerden-warnen-nach-vulkanausbruechen-vor-moeglichem-tsunami-a-283a2954-597c-4027-a805-281c30f54b3e#ref=rss)
+### world
+
+* [https://www.spiegel.de/kultur/world-press-photo-awards-ein-bild-aus-dem-gazastreifen-ist-das-pressefoto-des-jahres](https://www.spiegel.de/kultur/world-press-photo-awards-ein-bild-aus-dem-gazastreifen-ist-das-pressefoto-des-jahres-a-893b78a7-be07-4820-a6bd-298797eed7ed#ref=rss)
+### press
+
+* [https://www.spiegel.de/kultur/world-press-photo-awards-ein-bild-aus-dem-gazastreifen-ist-das-pressefoto-des-jahres](https://www.spiegel.de/kultur/world-press-photo-awards-ein-bild-aus-dem-gazastreifen-ist-das-pressefoto-des-jahres-a-893b78a7-be07-4820-a6bd-298797eed7ed#ref=rss)
+### photo
+
+* [https://www.spiegel.de/kultur/world-press-photo-awards-ein-bild-aus-dem-gazastreifen-ist-das-pressefoto-des-jahres](https://www.spiegel.de/kultur/world-press-photo-awards-ein-bild-aus-dem-gazastreifen-ist-das-pressefoto-des-jahres-a-893b78a7-be07-4820-a6bd-298797eed7ed#ref=rss)
+### awards
+
+* [https://www.spiegel.de/kultur/world-press-photo-awards-ein-bild-aus-dem-gazastreifen-ist-das-pressefoto-des-jahres](https://www.spiegel.de/kultur/world-press-photo-awards-ein-bild-aus-dem-gazastreifen-ist-das-pressefoto-des-jahres-a-893b78a7-be07-4820-a6bd-298797eed7ed#ref=rss)
+### bild
+
+* [https://www.spiegel.de/kultur/world-press-photo-awards-ein-bild-aus-dem-gazastreifen-ist-das-pressefoto-des-jahres](https://www.spiegel.de/kultur/world-press-photo-awards-ein-bild-aus-dem-gazastreifen-ist-das-pressefoto-des-jahres-a-893b78a7-be07-4820-a6bd-298797eed7ed#ref=rss)
+### nancy
+
+* [https://www.spiegel.de/politik/deutschland/mutmassliche-sabotageplaene-nancy-faeser-will-sich-von-russischer-spionage-nicht-einschuechtern-lassen](https://www.spiegel.de/politik/deutschland/mutmassliche-sabotageplaene-nancy-faeser-will-sich-von-russischer-spionage-nicht-einschuechtern-lassen-a-47640773-41a3-4df0-a704-0573cd80c573#ref=rss)
+### faeser
+
+* [https://www.spiegel.de/politik/deutschland/mutmassliche-sabotageplaene-nancy-faeser-will-sich-von-russischer-spionage-nicht-einschuechtern-lassen](https://www.spiegel.de/politik/deutschland/mutmassliche-sabotageplaene-nancy-faeser-will-sich-von-russischer-spionage-nicht-einschuechtern-lassen-a-47640773-41a3-4df0-a704-0573cd80c573#ref=rss)
+### bundesregierung
+
+* [https://www.spiegel.de/politik/deutschland/mutmassliche-sabotageplaene-nancy-faeser-will-sich-von-russischer-spionage-nicht-einschuechtern-lassen](https://www.spiegel.de/politik/deutschland/mutmassliche-sabotageplaene-nancy-faeser-will-sich-von-russischer-spionage-nicht-einschuechtern-lassen-a-47640773-41a3-4df0-a704-0573cd80c573#ref=rss)
+* [https://www.spiegel.de/ausland/china-strategie-der-bundesregierung-berlin-hat-das-chinesische-denken-nicht-verstanden](https://www.spiegel.de/ausland/china-strategie-der-bundesregierung-berlin-hat-das-chinesische-denken-nicht-verstanden-a-afb72c3c-29ee-4fde-875a-f5a0ffc212ae#ref=rss)
+### berliner
+
+* [https://www.spiegel.de/panorama/berliner-polizei-sucht-einbrecher-und-findet-fuchsbaby](https://www.spiegel.de/panorama/berliner-polizei-sucht-einbrecher-und-findet-fuchsbaby-a-dde9b2e7-8c66-4493-84cc-47ea281dd64c#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/berliner-polizei-sucht-einbrecher-und-findet-fuchsbaby](https://www.spiegel.de/panorama/berliner-polizei-sucht-einbrecher-und-findet-fuchsbaby-a-dde9b2e7-8c66-4493-84cc-47ea281dd64c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/generalbundesanwalt-ermittelt-zwei-mutmassliche-russische-saboteure-in-bayern-verhaftet](https://www.spiegel.de/politik/deutschland/generalbundesanwalt-ermittelt-zwei-mutmassliche-russische-saboteure-in-bayern-verhaftet-a-0115bebd-195a-41fb-83be-da8d642045cd#ref=rss)
+### sucht
+
+* [https://www.spiegel.de/panorama/berliner-polizei-sucht-einbrecher-und-findet-fuchsbaby](https://www.spiegel.de/panorama/berliner-polizei-sucht-einbrecher-und-findet-fuchsbaby-a-dde9b2e7-8c66-4493-84cc-47ea281dd64c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/konflikt-mit-fdp-fuehrende-spd-politiker-fordern-neues-sondervermoegen](https://www.spiegel.de/politik/deutschland/konflikt-mit-fdp-fuehrende-spd-politiker-fordern-neues-sondervermoegen-a-1cc9b94a-bf5c-4fed-a900-79b75ef46236#ref=rss)
+### waren
+
+* [https://www.spiegel.de/panorama/berliner-polizei-sucht-einbrecher-und-findet-fuchsbaby](https://www.spiegel.de/panorama/berliner-polizei-sucht-einbrecher-und-findet-fuchsbaby-a-dde9b2e7-8c66-4493-84cc-47ea281dd64c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/iran-deutsche-exporte-in-den-iran-steigen-trotz-eu-sanktionen](https://www.spiegel.de/wirtschaft/soziales/iran-deutsche-exporte-in-den-iran-steigen-trotz-eu-sanktionen-a-855b4bf2-4108-4992-babf-07e427b411cd#ref=rss)
+### leiche
+
+* [https://www.spiegel.de/panorama/wien-bauarbeiter-entdecken-leiche-in-keller-eines-wohnhauses](https://www.spiegel.de/panorama/wien-bauarbeiter-entdecken-leiche-in-keller-eines-wohnhauses-a-8a8c185b-7282-4eba-95f9-ccdbde1d5202#ref=rss)
+### baugenehmigungen
+
+* [https://www.spiegel.de/wirtschaft/soziales/baugenehmigungen-krise-am-bau-setzt-sich-fort-zahl-sinkt-im-februar-deutlich](https://www.spiegel.de/wirtschaft/soziales/baugenehmigungen-krise-am-bau-setzt-sich-fort-zahl-sinkt-im-februar-deutlich-a-1be2cf6b-927f-48df-a09d-4df13a3b0551#ref=rss)
+### krise
+
+* [https://www.spiegel.de/wirtschaft/soziales/baugenehmigungen-krise-am-bau-setzt-sich-fort-zahl-sinkt-im-februar-deutlich](https://www.spiegel.de/wirtschaft/soziales/baugenehmigungen-krise-am-bau-setzt-sich-fort-zahl-sinkt-im-februar-deutlich-a-1be2cf6b-927f-48df-a09d-4df13a3b0551#ref=rss)
+### bau
+
+* [https://www.spiegel.de/wirtschaft/soziales/baugenehmigungen-krise-am-bau-setzt-sich-fort-zahl-sinkt-im-februar-deutlich](https://www.spiegel.de/wirtschaft/soziales/baugenehmigungen-krise-am-bau-setzt-sich-fort-zahl-sinkt-im-februar-deutlich-a-1be2cf6b-927f-48df-a09d-4df13a3b0551#ref=rss)
+### zahl
+
+* [https://www.spiegel.de/wirtschaft/soziales/baugenehmigungen-krise-am-bau-setzt-sich-fort-zahl-sinkt-im-februar-deutlich](https://www.spiegel.de/wirtschaft/soziales/baugenehmigungen-krise-am-bau-setzt-sich-fort-zahl-sinkt-im-februar-deutlich-a-1be2cf6b-927f-48df-a09d-4df13a3b0551#ref=rss)
+### februar
+
+* [https://www.spiegel.de/wirtschaft/soziales/baugenehmigungen-krise-am-bau-setzt-sich-fort-zahl-sinkt-im-februar-deutlich](https://www.spiegel.de/wirtschaft/soziales/baugenehmigungen-krise-am-bau-setzt-sich-fort-zahl-sinkt-im-februar-deutlich-a-1be2cf6b-927f-48df-a09d-4df13a3b0551#ref=rss)
+### land
+
+* [https://www.spiegel.de/wirtschaft/soziales/iran-deutsche-exporte-in-den-iran-steigen-trotz-eu-sanktionen](https://www.spiegel.de/wirtschaft/soziales/iran-deutsche-exporte-in-den-iran-steigen-trotz-eu-sanktionen-a-855b4bf2-4108-4992-babf-07e427b411cd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/iran-oel-exporte-trotz-sanktionen-auf-hoechstem-stand-seit-6-jahren](https://www.spiegel.de/wirtschaft/iran-oel-exporte-trotz-sanktionen-auf-hoechstem-stand-seit-6-jahren-a-f000db43-80cb-4bc3-88a4-aaa6456430d6#ref=rss)
+### verkauft
+
+* [https://www.spiegel.de/wirtschaft/soziales/iran-deutsche-exporte-in-den-iran-steigen-trotz-eu-sanktionen](https://www.spiegel.de/wirtschaft/soziales/iran-deutsche-exporte-in-den-iran-steigen-trotz-eu-sanktionen-a-855b4bf2-4108-4992-babf-07e427b411cd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/iran-oel-exporte-trotz-sanktionen-auf-hoechstem-stand-seit-6-jahren](https://www.spiegel.de/wirtschaft/iran-oel-exporte-trotz-sanktionen-auf-hoechstem-stand-seit-6-jahren-a-f000db43-80cb-4bc3-88a4-aaa6456430d6#ref=rss)
+### vermögensteuern
+
+* [https://www.spiegel.de/wirtschaft/soziales/vorbild-schweiz-wie-deutschland-von-vermoegensteuern-profitieren-koennte](https://www.spiegel.de/wirtschaft/soziales/vorbild-schweiz-wie-deutschland-von-vermoegensteuern-profitieren-koennte-a-13f8e78a-2fde-48a2-a67d-0e6b9e8bdde8#ref=rss)
+### studie
+
+* [https://www.spiegel.de/wirtschaft/soziales/vorbild-schweiz-wie-deutschland-von-vermoegensteuern-profitieren-koennte](https://www.spiegel.de/wirtschaft/soziales/vorbild-schweiz-wie-deutschland-von-vermoegensteuern-profitieren-koennte-a-13f8e78a-2fde-48a2-a67d-0e6b9e8bdde8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/zukunftsinvestitionen-us-firmen-dominieren-bei-forschungsausgaben](https://www.spiegel.de/wirtschaft/unternehmen/zukunftsinvestitionen-us-firmen-dominieren-bei-forschungsausgaben-a-565abe36-01e5-4c45-9427-2356de69573e#ref=rss)
+### geld
+
+* [https://www.spiegel.de/wirtschaft/soziales/vorbild-schweiz-wie-deutschland-von-vermoegensteuern-profitieren-koennte](https://www.spiegel.de/wirtschaft/soziales/vorbild-schweiz-wie-deutschland-von-vermoegensteuern-profitieren-koennte-a-13f8e78a-2fde-48a2-a67d-0e6b9e8bdde8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/zukunftsinvestitionen-us-firmen-dominieren-bei-forschungsausgaben](https://www.spiegel.de/wirtschaft/unternehmen/zukunftsinvestitionen-us-firmen-dominieren-bei-forschungsausgaben-a-565abe36-01e5-4c45-9427-2356de69573e#ref=rss)
+### macht
+
+* [https://www.spiegel.de/wirtschaft/soziales/vorbild-schweiz-wie-deutschland-von-vermoegensteuern-profitieren-koennte](https://www.spiegel.de/wirtschaft/soziales/vorbild-schweiz-wie-deutschland-von-vermoegensteuern-profitieren-koennte-a-13f8e78a-2fde-48a2-a67d-0e6b9e8bdde8#ref=rss)
+* [https://www.spiegel.de/start/startklar-newsletter-sollte-man-im-studium-mit-seinem-partner-zusammenziehen](https://www.spiegel.de/start/startklar-newsletter-sollte-man-im-studium-mit-seinem-partner-zusammenziehen-a-9eeafe1d-a7b5-4183-856f-70437053f208#ref=rss)
+### zukunftsinvestitionen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/zukunftsinvestitionen-us-firmen-dominieren-bei-forschungsausgaben](https://www.spiegel.de/wirtschaft/unternehmen/zukunftsinvestitionen-us-firmen-dominieren-bei-forschungsausgaben-a-565abe36-01e5-4c45-9427-2356de69573e#ref=rss)
+### zufolge
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/zukunftsinvestitionen-us-firmen-dominieren-bei-forschungsausgaben](https://www.spiegel.de/wirtschaft/unternehmen/zukunftsinvestitionen-us-firmen-dominieren-bei-forschungsausgaben-a-565abe36-01e5-4c45-9427-2356de69573e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/iran-oel-exporte-trotz-sanktionen-auf-hoechstem-stand-seit-6-jahren](https://www.spiegel.de/wirtschaft/iran-oel-exporte-trotz-sanktionen-auf-hoechstem-stand-seit-6-jahren-a-f000db43-80cb-4bc3-88a4-aaa6456430d6#ref=rss)
+### studienanfänger
+
+* [https://www.spiegel.de/panorama/bildung/hochschulen-studienanfaenger-bevorzugen-hochschulen-in-der-naehe-ihres-heimatorts](https://www.spiegel.de/panorama/bildung/hochschulen-studienanfaenger-bevorzugen-hochschulen-in-der-naehe-ihres-heimatorts-a-4c2ef77c-6986-4073-b25c-020065a725f0#ref=rss)
+### raus
+
+* [https://www.spiegel.de/panorama/bildung/hochschulen-studienanfaenger-bevorzugen-hochschulen-in-der-naehe-ihres-heimatorts](https://www.spiegel.de/panorama/bildung/hochschulen-studienanfaenger-bevorzugen-hochschulen-in-der-naehe-ihres-heimatorts-a-4c2ef77c-6986-4073-b25c-020065a725f0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-pressestimmen-zum-halbfinaleinzug-von-real-madrid-bei-manchester-city](https://www.spiegel.de/sport/fussball/champions-league-pressestimmen-zum-halbfinaleinzug-von-real-madrid-bei-manchester-city-a-864336c3-c06a-4f5a-94db-e436c8cba920#ref=rss)
+### weniger
+
+* [https://www.spiegel.de/panorama/bildung/hochschulen-studienanfaenger-bevorzugen-hochschulen-in-der-naehe-ihres-heimatorts](https://www.spiegel.de/panorama/bildung/hochschulen-studienanfaenger-bevorzugen-hochschulen-in-der-naehe-ihres-heimatorts-a-4c2ef77c-6986-4073-b25c-020065a725f0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-juventus-muss-fast-zehn-millionen-euro-gehalt-nachzahlen](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-juventus-muss-fast-zehn-millionen-euro-gehalt-nachzahlen-a-c767f5bb-329a-43f4-ba55-60aaef29e3ca#ref=rss)
+### besonders
+
+* [https://www.spiegel.de/panorama/bildung/hochschulen-studienanfaenger-bevorzugen-hochschulen-in-der-naehe-ihres-heimatorts](https://www.spiegel.de/panorama/bildung/hochschulen-studienanfaenger-bevorzugen-hochschulen-in-der-naehe-ihres-heimatorts-a-4c2ef77c-6986-4073-b25c-020065a725f0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/iran-oel-exporte-trotz-sanktionen-auf-hoechstem-stand-seit-6-jahren](https://www.spiegel.de/wirtschaft/iran-oel-exporte-trotz-sanktionen-auf-hoechstem-stand-seit-6-jahren-a-f000db43-80cb-4bc3-88a4-aaa6456430d6#ref=rss)
+### mccartney
+
+* [https://www.spiegel.de/kultur/soehne-von-paul-mccartney-und-john-lennon-veroeffentlichen-einen-song](https://www.spiegel.de/kultur/soehne-von-paul-mccartney-und-john-lennon-veroeffentlichen-einen-song-a-e2654e3c-089c-4ebe-ab61-0881c8f39fd6#ref=rss)
+### lennon
+
+* [https://www.spiegel.de/kultur/soehne-von-paul-mccartney-und-john-lennon-veroeffentlichen-einen-song](https://www.spiegel.de/kultur/soehne-von-paul-mccartney-und-john-lennon-veroeffentlichen-einen-song-a-e2654e3c-089c-4ebe-ab61-0881c8f39fd6#ref=rss)
+### väter
+
+* [https://www.spiegel.de/kultur/soehne-von-paul-mccartney-und-john-lennon-veroeffentlichen-einen-song](https://www.spiegel.de/kultur/soehne-von-paul-mccartney-und-john-lennon-veroeffentlichen-einen-song-a-e2654e3c-089c-4ebe-ab61-0881c8f39fd6#ref=rss)
+### cristiano
+
+* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-juventus-muss-fast-zehn-millionen-euro-gehalt-nachzahlen](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-juventus-muss-fast-zehn-millionen-euro-gehalt-nachzahlen-a-c767f5bb-329a-43f4-ba55-60aaef29e3ca#ref=rss)
+### juventus
+
+* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-juventus-muss-fast-zehn-millionen-euro-gehalt-nachzahlen](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-juventus-muss-fast-zehn-millionen-euro-gehalt-nachzahlen-a-c767f5bb-329a-43f4-ba55-60aaef29e3ca#ref=rss)
+### gehalt
+
+* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-juventus-muss-fast-zehn-millionen-euro-gehalt-nachzahlen](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-juventus-muss-fast-zehn-millionen-euro-gehalt-nachzahlen-a-c767f5bb-329a-43f4-ba55-60aaef29e3ca#ref=rss)
+### nachzahlen
+
+* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-juventus-muss-fast-zehn-millionen-euro-gehalt-nachzahlen](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-juventus-muss-fast-zehn-millionen-euro-gehalt-nachzahlen-a-c767f5bb-329a-43f4-ba55-60aaef29e3ca#ref=rss)
+### fdp
+
+* [https://www.spiegel.de/politik/deutschland/konflikt-mit-fdp-fuehrende-spd-politiker-fordern-neues-sondervermoegen](https://www.spiegel.de/politik/deutschland/konflikt-mit-fdp-fuehrende-spd-politiker-fordern-neues-sondervermoegen-a-1cc9b94a-bf5c-4fed-a900-79b75ef46236#ref=rss)
+### führende
+
+* [https://www.spiegel.de/politik/deutschland/konflikt-mit-fdp-fuehrende-spd-politiker-fordern-neues-sondervermoegen](https://www.spiegel.de/politik/deutschland/konflikt-mit-fdp-fuehrende-spd-politiker-fordern-neues-sondervermoegen-a-1cc9b94a-bf5c-4fed-a900-79b75ef46236#ref=rss)
+### sondervermögen
+
+* [https://www.spiegel.de/politik/deutschland/konflikt-mit-fdp-fuehrende-spd-politiker-fordern-neues-sondervermoegen](https://www.spiegel.de/politik/deutschland/konflikt-mit-fdp-fuehrende-spd-politiker-fordern-neues-sondervermoegen-a-1cc9b94a-bf5c-4fed-a900-79b75ef46236#ref=rss)
+### spiegelinformationen
+
+* [https://www.spiegel.de/politik/deutschland/konflikt-mit-fdp-fuehrende-spd-politiker-fordern-neues-sondervermoegen](https://www.spiegel.de/politik/deutschland/konflikt-mit-fdp-fuehrende-spd-politiker-fordern-neues-sondervermoegen-a-1cc9b94a-bf5c-4fed-a900-79b75ef46236#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/generalbundesanwalt-ermittelt-zwei-mutmassliche-russische-saboteure-in-bayern-verhaftet](https://www.spiegel.de/politik/deutschland/generalbundesanwalt-ermittelt-zwei-mutmassliche-russische-saboteure-in-bayern-verhaftet-a-0115bebd-195a-41fb-83be-da8d642045cd#ref=rss)
+### sydney
+
+* [https://www.spiegel.de/panorama/justiz/sydney-messerangriff-in-kirche-bischof-vergibt-seinem-angreifer-vor-versammelter-gemeinde](https://www.spiegel.de/panorama/justiz/sydney-messerangriff-in-kirche-bischof-vergibt-seinem-angreifer-vor-versammelter-gemeinde-a-c2800f40-f8e1-498e-b5eb-02aa0e7bda03#ref=rss)
+### gemeinde
+
+* [https://www.spiegel.de/panorama/justiz/sydney-messerangriff-in-kirche-bischof-vergibt-seinem-angreifer-vor-versammelter-gemeinde](https://www.spiegel.de/panorama/justiz/sydney-messerangriff-in-kirche-bischof-vergibt-seinem-angreifer-vor-versammelter-gemeinde-a-c2800f40-f8e1-498e-b5eb-02aa0e7bda03#ref=rss)
+### chinesische
+
+* [https://www.spiegel.de/ausland/china-strategie-der-bundesregierung-berlin-hat-das-chinesische-denken-nicht-verstanden](https://www.spiegel.de/ausland/china-strategie-der-bundesregierung-berlin-hat-das-chinesische-denken-nicht-verstanden-a-afb72c3c-29ee-4fde-875a-f5a0ffc212ae#ref=rss)
+### denken
+
+* [https://www.spiegel.de/ausland/china-strategie-der-bundesregierung-berlin-hat-das-chinesische-denken-nicht-verstanden](https://www.spiegel.de/ausland/china-strategie-der-bundesregierung-berlin-hat-das-chinesische-denken-nicht-verstanden-a-afb72c3c-29ee-4fde-875a-f5a0ffc212ae#ref=rss)
+### verstanden
+
+* [https://www.spiegel.de/ausland/china-strategie-der-bundesregierung-berlin-hat-das-chinesische-denken-nicht-verstanden](https://www.spiegel.de/ausland/china-strategie-der-bundesregierung-berlin-hat-das-chinesische-denken-nicht-verstanden-a-afb72c3c-29ee-4fde-875a-f5a0ffc212ae#ref=rss)
+### peking
+
+* [https://www.spiegel.de/ausland/china-strategie-der-bundesregierung-berlin-hat-das-chinesische-denken-nicht-verstanden](https://www.spiegel.de/ausland/china-strategie-der-bundesregierung-berlin-hat-das-chinesische-denken-nicht-verstanden-a-afb72c3c-29ee-4fde-875a-f5a0ffc212ae#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/dumpingvorwuerfe-an-china-us-praesident-joe-biden-will-zoelle-auf-stahl-erhoehen](https://www.spiegel.de/wirtschaft/unternehmen/dumpingvorwuerfe-an-china-us-praesident-joe-biden-will-zoelle-auf-stahl-erhoehen-a-19a45d4c-627a-453c-9413-ec63e1d619d2#ref=rss)
+### andrzej
+
+* [https://www.spiegel.de/ausland/andrzej-duda-trifft-donald-trump-in-new-york-city-ein-freund-ein-guter-freund](https://www.spiegel.de/ausland/andrzej-duda-trifft-donald-trump-in-new-york-city-ein-freund-ein-guter-freund-a-dc42720b-3221-4694-b9a7-a89a6a60e504#ref=rss)
+### duda
+
+* [https://www.spiegel.de/ausland/andrzej-duda-trifft-donald-trump-in-new-york-city-ein-freund-ein-guter-freund](https://www.spiegel.de/ausland/andrzej-duda-trifft-donald-trump-in-new-york-city-ein-freund-ein-guter-freund-a-dc42720b-3221-4694-b9a7-a89a6a60e504#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/andrzej-duda-trifft-donald-trump-in-new-york-city-ein-freund-ein-guter-freund](https://www.spiegel.de/ausland/andrzej-duda-trifft-donald-trump-in-new-york-city-ein-freund-ein-guter-freund-a-dc42720b-3221-4694-b9a7-a89a6a60e504#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/andrzej-duda-trifft-donald-trump-in-new-york-city-ein-freund-ein-guter-freund](https://www.spiegel.de/ausland/andrzej-duda-trifft-donald-trump-in-new-york-city-ein-freund-ein-guter-freund-a-dc42720b-3221-4694-b9a7-a89a6a60e504#ref=rss)
+### new
+
+* [https://www.spiegel.de/ausland/andrzej-duda-trifft-donald-trump-in-new-york-city-ein-freund-ein-guter-freund](https://www.spiegel.de/ausland/andrzej-duda-trifft-donald-trump-in-new-york-city-ein-freund-ein-guter-freund-a-dc42720b-3221-4694-b9a7-a89a6a60e504#ref=rss)
+### york
+
+* [https://www.spiegel.de/ausland/andrzej-duda-trifft-donald-trump-in-new-york-city-ein-freund-ein-guter-freund](https://www.spiegel.de/ausland/andrzej-duda-trifft-donald-trump-in-new-york-city-ein-freund-ein-guter-freund-a-dc42720b-3221-4694-b9a7-a89a6a60e504#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/ausland/andrzej-duda-trifft-donald-trump-in-new-york-city-ein-freund-ein-guter-freund](https://www.spiegel.de/ausland/andrzej-duda-trifft-donald-trump-in-new-york-city-ein-freund-ein-guter-freund-a-dc42720b-3221-4694-b9a7-a89a6a60e504#ref=rss)
+* [https://www.spiegel.de/ausland/argentinien-javier-milei-nutzt-nun-doch-den-regierungsflieger](https://www.spiegel.de/ausland/argentinien-javier-milei-nutzt-nun-doch-den-regierungsflieger-a-6904a1dc-cdac-4fbd-b25f-f2ca819776d1#ref=rss)
+### pressestimmen
+
+* [https://www.spiegel.de/sport/fussball/champions-league-pressestimmen-zum-halbfinaleinzug-von-real-madrid-bei-manchester-city](https://www.spiegel.de/sport/fussball/champions-league-pressestimmen-zum-halbfinaleinzug-von-real-madrid-bei-manchester-city-a-864336c3-c06a-4f5a-94db-e436c8cba920#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-im-champions-league-halbfinale-die-internationalen-pressestimmen-zum-sieg-gegen-arsenal](https://www.spiegel.de/sport/fussball/fc-bayern-im-champions-league-halbfinale-die-internationalen-pressestimmen-zum-sieg-gegen-arsenal-a-c0bbab49-3af4-44f6-ab85-a768adde3b2e#ref=rss)
+### real
+
+* [https://www.spiegel.de/sport/fussball/champions-league-pressestimmen-zum-halbfinaleinzug-von-real-madrid-bei-manchester-city](https://www.spiegel.de/sport/fussball/champions-league-pressestimmen-zum-halbfinaleinzug-von-real-madrid-bei-manchester-city-a-864336c3-c06a-4f5a-94db-e436c8cba920#ref=rss)
+### madrid
+
+* [https://www.spiegel.de/sport/fussball/champions-league-pressestimmen-zum-halbfinaleinzug-von-real-madrid-bei-manchester-city](https://www.spiegel.de/sport/fussball/champions-league-pressestimmen-zum-halbfinaleinzug-von-real-madrid-bei-manchester-city-a-864336c3-c06a-4f5a-94db-e436c8cba920#ref=rss)
+### manchester
+
+* [https://www.spiegel.de/sport/fussball/champions-league-pressestimmen-zum-halbfinaleinzug-von-real-madrid-bei-manchester-city](https://www.spiegel.de/sport/fussball/champions-league-pressestimmen-zum-halbfinaleinzug-von-real-madrid-bei-manchester-city-a-864336c3-c06a-4f5a-94db-e436c8cba920#ref=rss)
+### halbfinale
+
+* [https://www.spiegel.de/sport/fussball/champions-league-pressestimmen-zum-halbfinaleinzug-von-real-madrid-bei-manchester-city](https://www.spiegel.de/sport/fussball/champions-league-pressestimmen-zum-halbfinaleinzug-von-real-madrid-bei-manchester-city-a-864336c3-c06a-4f5a-94db-e436c8cba920#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-im-champions-league-halbfinale-die-internationalen-pressestimmen-zum-sieg-gegen-arsenal](https://www.spiegel.de/sport/fussball/fc-bayern-im-champions-league-halbfinale-die-internationalen-pressestimmen-zum-sieg-gegen-arsenal-a-c0bbab49-3af4-44f6-ab85-a768adde3b2e#ref=rss)
+### internationale
+
+* [https://www.spiegel.de/sport/fussball/champions-league-pressestimmen-zum-halbfinaleinzug-von-real-madrid-bei-manchester-city](https://www.spiegel.de/sport/fussball/champions-league-pressestimmen-zum-halbfinaleinzug-von-real-madrid-bei-manchester-city-a-864336c3-c06a-4f5a-94db-e436c8cba920#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-im-champions-league-halbfinale-die-internationalen-pressestimmen-zum-sieg-gegen-arsenal](https://www.spiegel.de/sport/fussball/fc-bayern-im-champions-league-halbfinale-die-internationalen-pressestimmen-zum-sieg-gegen-arsenal-a-c0bbab49-3af4-44f6-ab85-a768adde3b2e#ref=rss)
+### presse
+
+* [https://www.spiegel.de/sport/fussball/champions-league-pressestimmen-zum-halbfinaleinzug-von-real-madrid-bei-manchester-city](https://www.spiegel.de/sport/fussball/champions-league-pressestimmen-zum-halbfinaleinzug-von-real-madrid-bei-manchester-city-a-864336c3-c06a-4f5a-94db-e436c8cba920#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-im-champions-league-halbfinale-die-internationalen-pressestimmen-zum-sieg-gegen-arsenal](https://www.spiegel.de/sport/fussball/fc-bayern-im-champions-league-halbfinale-die-internationalen-pressestimmen-zum-sieg-gegen-arsenal-a-c0bbab49-3af4-44f6-ab85-a768adde3b2e#ref=rss)
+### milei
+
+* [https://www.spiegel.de/ausland/argentinien-javier-milei-nutzt-nun-doch-den-regierungsflieger](https://www.spiegel.de/ausland/argentinien-javier-milei-nutzt-nun-doch-den-regierungsflieger-a-6904a1dc-cdac-4fbd-b25f-f2ca819776d1#ref=rss)
+### bayreuth
+
+* [https://www.spiegel.de/politik/deutschland/generalbundesanwalt-ermittelt-zwei-mutmassliche-russische-saboteure-in-bayern-verhaftet](https://www.spiegel.de/politik/deutschland/generalbundesanwalt-ermittelt-zwei-mutmassliche-russische-saboteure-in-bayern-verhaftet-a-0115bebd-195a-41fb-83be-da8d642045cd#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/politik/deutschland/generalbundesanwalt-ermittelt-zwei-mutmassliche-russische-saboteure-in-bayern-verhaftet](https://www.spiegel.de/politik/deutschland/generalbundesanwalt-ermittelt-zwei-mutmassliche-russische-saboteure-in-bayern-verhaftet-a-0115bebd-195a-41fb-83be-da8d642045cd#ref=rss)
+### china
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/dumpingvorwuerfe-an-china-us-praesident-joe-biden-will-zoelle-auf-stahl-erhoehen](https://www.spiegel.de/wirtschaft/unternehmen/dumpingvorwuerfe-an-china-us-praesident-joe-biden-will-zoelle-auf-stahl-erhoehen-a-19a45d4c-627a-453c-9413-ec63e1d619d2#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/dumpingvorwuerfe-an-china-us-praesident-joe-biden-will-zoelle-auf-stahl-erhoehen](https://www.spiegel.de/wirtschaft/unternehmen/dumpingvorwuerfe-an-china-us-praesident-joe-biden-will-zoelle-auf-stahl-erhoehen-a-19a45d4c-627a-453c-9413-ec63e1d619d2#ref=rss)
+### joe
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/dumpingvorwuerfe-an-china-us-praesident-joe-biden-will-zoelle-auf-stahl-erhoehen](https://www.spiegel.de/wirtschaft/unternehmen/dumpingvorwuerfe-an-china-us-praesident-joe-biden-will-zoelle-auf-stahl-erhoehen-a-19a45d4c-627a-453c-9413-ec63e1d619d2#ref=rss)
+### biden
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/dumpingvorwuerfe-an-china-us-praesident-joe-biden-will-zoelle-auf-stahl-erhoehen](https://www.spiegel.de/wirtschaft/unternehmen/dumpingvorwuerfe-an-china-us-praesident-joe-biden-will-zoelle-auf-stahl-erhoehen-a-19a45d4c-627a-453c-9413-ec63e1d619d2#ref=rss)
+### zölle
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/dumpingvorwuerfe-an-china-us-praesident-joe-biden-will-zoelle-auf-stahl-erhoehen](https://www.spiegel.de/wirtschaft/unternehmen/dumpingvorwuerfe-an-china-us-praesident-joe-biden-will-zoelle-auf-stahl-erhoehen-a-19a45d4c-627a-453c-9413-ec63e1d619d2#ref=rss)
+### stahl
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/dumpingvorwuerfe-an-china-us-praesident-joe-biden-will-zoelle-auf-stahl-erhoehen](https://www.spiegel.de/wirtschaft/unternehmen/dumpingvorwuerfe-an-china-us-praesident-joe-biden-will-zoelle-auf-stahl-erhoehen-a-19a45d4c-627a-453c-9413-ec63e1d619d2#ref=rss)
 
