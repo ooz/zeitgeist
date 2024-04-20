@@ -4,233 +4,222 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutsche
+### leverkusen
 
-* [https://www.spiegel.de/sport/big-wave-surfen-sebastian-steudtner-toppt-sich-selbst-und-stellt-neuen-rekord-auf](https://www.spiegel.de/sport/big-wave-surfen-sebastian-steudtner-toppt-sich-selbst-und-stellt-neuen-rekord-auf-a-03e040c0-8a28-4c6f-8917-f493dcda1b1f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-ruestungsexporte-beginn-des-jahres-bringt-ausfuhr-im-grossen-stil-wert-aus-dem-vorjahr-uebertroffen](https://www.spiegel.de/wirtschaft/deutsche-ruestungsexporte-beginn-des-jahres-bringt-ausfuhr-im-grossen-stil-wert-aus-dem-vorjahr-uebertroffen-a-a05e7c7e-2a09-43f0-a076-d757dc2f2713#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-kontroverse-um-hohe-kosten-fuer-partys](https://www.spiegel.de/panorama/deutsche-bahn-kontroverse-um-hohe-kosten-fuer-partys-a-e553dc41-7bf9-47aa-8a8d-0e28476ada2f#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-deutscher-wetterdienst-rechnet-am-wochenende-mit-vielen-schauern](https://www.spiegel.de/panorama/wetter-in-deutschland-deutscher-wetterdienst-rechnet-am-wochenende-mit-vielen-schauern-a-220960c2-a4ab-4353-a6e9-06f71bf631f3#ref=rss)
-* [https://www.spiegel.de/kultur/musik/sorry3000-pearl-jam-dews-stefanie-schrank-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/sorry3000-pearl-jam-dews-stefanie-schrank-abgehoert-album-der-woche-a-b0e6893e-d5eb-421e-98cf-4665f972f1c1#ref=rss)
-### julian
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-iran-israel-aussenpolitik-julian-nagelsmann](https://www.spiegel.de/politik/deutschland/news-des-tages-iran-israel-aussenpolitik-julian-nagelsmann-a-7f5ca620-a556-4d1b-86ec-96334d2c7f28#ref=rss)
-* [https://www.spiegel.de/sport/fussball/julian-nagelsmann-bleibt-bundestrainer-was-hinter-der-nagelsmann-entscheidung-steckt](https://www.spiegel.de/sport/fussball/julian-nagelsmann-bleibt-bundestrainer-was-hinter-der-nagelsmann-entscheidung-steckt-a-24a03fc4-af13-41ff-88f6-4a78da525710#ref=rss)
-### nagelsmann
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-iran-israel-aussenpolitik-julian-nagelsmann](https://www.spiegel.de/politik/deutschland/news-des-tages-iran-israel-aussenpolitik-julian-nagelsmann-a-7f5ca620-a556-4d1b-86ec-96334d2c7f28#ref=rss)
-* [https://www.spiegel.de/sport/fussball/julian-nagelsmann-bleibt-bundestrainer-was-hinter-der-nagelsmann-entscheidung-steckt](https://www.spiegel.de/sport/fussball/julian-nagelsmann-bleibt-bundestrainer-was-hinter-der-nagelsmann-entscheidung-steckt-a-24a03fc4-af13-41ff-88f6-4a78da525710#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/strafprozess-gegen-donald-trump-zwischenfall-vor-gerichtsgebaeude-in-new-york](https://www.spiegel.de/ausland/strafprozess-gegen-donald-trump-zwischenfall-vor-gerichtsgebaeude-in-new-york-a-339e6eb3-e027-4b89-8b7d-8be02f95d81a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-staatsanwaltschaft-untersucht-nach-todesfall-in-pflegeheim](https://www.spiegel.de/panorama/justiz/berlin-staatsanwaltschaft-untersucht-nach-todesfall-in-pflegeheim-a-a8388c59-bb5a-4f94-9b74-b7745b4a9315#ref=rss)
-* [https://www.spiegel.de/panorama/italien-faehre-von-capri-prallt-in-neapel-auf-anlegestelle](https://www.spiegel.de/panorama/italien-faehre-von-capri-prallt-in-neapel-auf-anlegestelle-a-d39d363b-db09-4e90-908e-263a24ae43f8#ref=rss)
-### taylor
-
-* [https://www.spiegel.de/kultur/musik/taylor-swift-beyonce-billie-eilish-dua-lipa-warum-bringen-sie-ihre-alben-fast-gleichzeitig-raus](https://www.spiegel.de/kultur/musik/taylor-swift-beyonce-billie-eilish-dua-lipa-warum-bringen-sie-ihre-alben-fast-gleichzeitig-raus-a-a1151e77-180a-49b0-9678-b76611eb8016#ref=rss)
-* [https://www.spiegel.de/wirtschaft/taylor-swift-vom-globalen-superstar-zur-milliardaerin-wie-ihre-musik-sie-zum-erfolg-fuehrte](https://www.spiegel.de/wirtschaft/taylor-swift-vom-globalen-superstar-zur-milliardaerin-wie-ihre-musik-sie-zum-erfolg-fuehrte-a-7c2560d7-2014-4b0a-9377-f8a0fd3c9dbc#ref=rss)
-### swift
-
-* [https://www.spiegel.de/kultur/musik/taylor-swift-beyonce-billie-eilish-dua-lipa-warum-bringen-sie-ihre-alben-fast-gleichzeitig-raus](https://www.spiegel.de/kultur/musik/taylor-swift-beyonce-billie-eilish-dua-lipa-warum-bringen-sie-ihre-alben-fast-gleichzeitig-raus-a-a1151e77-180a-49b0-9678-b76611eb8016#ref=rss)
-* [https://www.spiegel.de/wirtschaft/taylor-swift-vom-globalen-superstar-zur-milliardaerin-wie-ihre-musik-sie-zum-erfolg-fuehrte](https://www.spiegel.de/wirtschaft/taylor-swift-vom-globalen-superstar-zur-milliardaerin-wie-ihre-musik-sie-zum-erfolg-fuehrte-a-7c2560d7-2014-4b0a-9377-f8a0fd3c9dbc#ref=rss)
-### nächste
-
-* [https://www.spiegel.de/ausland/ukrainehilfen-hilfspaket-nimmt-naechste-huerde-im-us-kongress](https://www.spiegel.de/ausland/ukrainehilfen-hilfspaket-nimmt-naechste-huerde-im-us-kongress-a-2cca94d4-9ea4-49c5-a58e-9fd771ec1cc1#ref=rss)
-* [https://www.spiegel.de/kultur/fallout-auf-amazon-prime-oki-doki-zur-naechsten-staffel](https://www.spiegel.de/kultur/fallout-auf-amazon-prime-oki-doki-zur-naechsten-staffel-a-ac960ab1-c7a4-440a-be43-0d285b096666#ref=rss)
-### davon
-
-* [https://www.spiegel.de/wirtschaft/deutsche-ruestungsexporte-beginn-des-jahres-bringt-ausfuhr-im-grossen-stil-wert-aus-dem-vorjahr-uebertroffen](https://www.spiegel.de/wirtschaft/deutsche-ruestungsexporte-beginn-des-jahres-bringt-ausfuhr-im-grossen-stil-wert-aus-dem-vorjahr-uebertroffen-a-a05e7c7e-2a09-43f0-a076-d757dc2f2713#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-academy-carrie-schreiner-ueber-frauen-im-motorsport](https://www.spiegel.de/sport/formel1/formel-1-academy-carrie-schreiner-ueber-frauen-im-motorsport-a-1fa8d486-2c8e-401a-ac69-383880bfc77c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/us-praesident-biden-schraenkt-oel-und-gasfoerderung-in-alaska-ein-bisschen-ein](https://www.spiegel.de/wissenschaft/us-praesident-biden-schraenkt-oel-und-gasfoerderung-in-alaska-ein-bisschen-ein-a-0bfe1312-a8d7-46a4-8461-fe59c80d16a0#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/wirtschaft/deutsche-ruestungsexporte-beginn-des-jahres-bringt-ausfuhr-im-grossen-stil-wert-aus-dem-vorjahr-uebertroffen](https://www.spiegel.de/wirtschaft/deutsche-ruestungsexporte-beginn-des-jahres-bringt-ausfuhr-im-grossen-stil-wert-aus-dem-vorjahr-uebertroffen-a-a05e7c7e-2a09-43f0-a076-d757dc2f2713#ref=rss)
-* [https://www.spiegel.de/ausland/nato-staaten-sagen-ukraine-weitere-hilfe-bei-luftverteidigung-zu](https://www.spiegel.de/ausland/nato-staaten-sagen-ukraine-weitere-hilfe-bei-luftverteidigung-zu-a-ee5807e4-e9dd-43ef-8139-bf04f5be21e1#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/justiz/berlin-staatsanwaltschaft-untersucht-nach-todesfall-in-pflegeheim](https://www.spiegel.de/panorama/justiz/berlin-staatsanwaltschaft-untersucht-nach-todesfall-in-pflegeheim-a-a8388c59-bb5a-4f94-9b74-b7745b4a9315#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/polizei-raeumt-pro-palaestina-zeltlager-an-new-yorker-universitaet](https://www.spiegel.de/panorama/bildung/polizei-raeumt-pro-palaestina-zeltlager-an-new-yorker-universitaet-a-b5c53480-9a69-48e4-876f-0799e0063b50#ref=rss)
-### schröder
-
-* [https://www.spiegel.de/politik/deutschland/oskar-lafontaine-ueber-gerhard-schroeder-unterm-strich-schneidet-schroeder-nicht-schlecht-ab](https://www.spiegel.de/politik/deutschland/oskar-lafontaine-ueber-gerhard-schroeder-unterm-strich-schneidet-schroeder-nicht-schlecht-ab-a-b9684353-5af5-4249-a800-e85eba82461b#ref=rss)
-### einfluss
-
-* [https://www.spiegel.de/ausland/georgien-tausende-demonstrieren-in-tbilissi-gegen-russischen-einfluss-und-einschraenkung-der-zivilgesellschaft](https://www.spiegel.de/ausland/georgien-tausende-demonstrieren-in-tbilissi-gegen-russischen-einfluss-und-einschraenkung-der-zivilgesellschaft-a-3b439437-a2b3-413a-bf01-d8098f852818#ref=rss)
-* [https://www.spiegel.de/sport/fussball/lukas-podolski-bei-gornik-zabrze-der-fussballheld-wird-jetzt-wahlkampfhelfer](https://www.spiegel.de/sport/fussball/lukas-podolski-bei-gornik-zabrze-der-fussballheld-wird-jetzt-wahlkampfhelfer-a-b58f8063-6d22-423e-8f68-4f0230847920#ref=rss)
-### italien
-
-* [https://www.spiegel.de/panorama/italien-faehre-von-capri-prallt-in-neapel-auf-anlegestelle](https://www.spiegel.de/panorama/italien-faehre-von-capri-prallt-in-neapel-auf-anlegestelle-a-d39d363b-db09-4e90-908e-263a24ae43f8#ref=rss)
-* [https://www.spiegel.de/ausland/italien-justiz-beendet-verfahren-gegen-iuventa-crew](https://www.spiegel.de/ausland/italien-justiz-beendet-verfahren-gegen-iuventa-crew-a-ab4eec71-ba33-4ce3-871a-6dec189c9c5a#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/strafprozess-gegen-donald-trump-zwischenfall-vor-gerichtsgebaeude-in-new-york](https://www.spiegel.de/ausland/strafprozess-gegen-donald-trump-zwischenfall-vor-gerichtsgebaeude-in-new-york-a-339e6eb3-e027-4b89-8b7d-8be02f95d81a#ref=rss)
-### zwischenfall
-
-* [https://www.spiegel.de/ausland/strafprozess-gegen-donald-trump-zwischenfall-vor-gerichtsgebaeude-in-new-york](https://www.spiegel.de/ausland/strafprozess-gegen-donald-trump-zwischenfall-vor-gerichtsgebaeude-in-new-york-a-339e6eb3-e027-4b89-8b7d-8be02f95d81a#ref=rss)
-### new
-
-* [https://www.spiegel.de/ausland/strafprozess-gegen-donald-trump-zwischenfall-vor-gerichtsgebaeude-in-new-york](https://www.spiegel.de/ausland/strafprozess-gegen-donald-trump-zwischenfall-vor-gerichtsgebaeude-in-new-york-a-339e6eb3-e027-4b89-8b7d-8be02f95d81a#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/polizei-raeumt-pro-palaestina-zeltlager-an-new-yorker-universitaet](https://www.spiegel.de/panorama/bildung/polizei-raeumt-pro-palaestina-zeltlager-an-new-yorker-universitaet-a-b5c53480-9a69-48e4-876f-0799e0063b50#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/ausland/strafprozess-gegen-donald-trump-zwischenfall-vor-gerichtsgebaeude-in-new-york](https://www.spiegel.de/ausland/strafprozess-gegen-donald-trump-zwischenfall-vor-gerichtsgebaeude-in-new-york-a-339e6eb3-e027-4b89-8b7d-8be02f95d81a#ref=rss)
-* [https://www.spiegel.de/panorama/oesterreich-swingerklub-durfte-miete-mindern-weil-maskenpflicht-sex-erschwerte](https://www.spiegel.de/panorama/oesterreich-swingerklub-durfte-miete-mindern-weil-maskenpflicht-sex-erschwerte-a-dc3098a1-3078-497a-9b2f-737b270ded67#ref=rss)
-### bringen
-
-* [https://www.spiegel.de/kultur/musik/taylor-swift-beyonce-billie-eilish-dua-lipa-warum-bringen-sie-ihre-alben-fast-gleichzeitig-raus](https://www.spiegel.de/kultur/musik/taylor-swift-beyonce-billie-eilish-dua-lipa-warum-bringen-sie-ihre-alben-fast-gleichzeitig-raus-a-a1151e77-180a-49b0-9678-b76611eb8016#ref=rss)
-### alben
-
-* [https://www.spiegel.de/kultur/musik/taylor-swift-beyonce-billie-eilish-dua-lipa-warum-bringen-sie-ihre-alben-fast-gleichzeitig-raus](https://www.spiegel.de/kultur/musik/taylor-swift-beyonce-billie-eilish-dua-lipa-warum-bringen-sie-ihre-alben-fast-gleichzeitig-raus-a-a1151e77-180a-49b0-9678-b76611eb8016#ref=rss)
-### fast
-
-* [https://www.spiegel.de/kultur/musik/taylor-swift-beyonce-billie-eilish-dua-lipa-warum-bringen-sie-ihre-alben-fast-gleichzeitig-raus](https://www.spiegel.de/kultur/musik/taylor-swift-beyonce-billie-eilish-dua-lipa-warum-bringen-sie-ihre-alben-fast-gleichzeitig-raus-a-a1151e77-180a-49b0-9678-b76611eb8016#ref=rss)
-* [https://www.spiegel.de/auto/tesla-elektroautobauer-ruft-fast-4000-cybertrucks-zurueck-wegen-seife-am-gaspedal](https://www.spiegel.de/auto/tesla-elektroautobauer-ruft-fast-4000-cybertrucks-zurueck-wegen-seife-am-gaspedal-a-fb2a86e0-2af7-4967-bf13-83a85dffd108#ref=rss)
-### raus
-
-* [https://www.spiegel.de/kultur/musik/taylor-swift-beyonce-billie-eilish-dua-lipa-warum-bringen-sie-ihre-alben-fast-gleichzeitig-raus](https://www.spiegel.de/kultur/musik/taylor-swift-beyonce-billie-eilish-dua-lipa-warum-bringen-sie-ihre-alben-fast-gleichzeitig-raus-a-a1151e77-180a-49b0-9678-b76611eb8016#ref=rss)
-### vier
-
-* [https://www.spiegel.de/kultur/musik/taylor-swift-beyonce-billie-eilish-dua-lipa-warum-bringen-sie-ihre-alben-fast-gleichzeitig-raus](https://www.spiegel.de/kultur/musik/taylor-swift-beyonce-billie-eilish-dua-lipa-warum-bringen-sie-ihre-alben-fast-gleichzeitig-raus-a-a1151e77-180a-49b0-9678-b76611eb8016#ref=rss)
-* [https://www.spiegel.de/wirtschaft/taylor-swift-vom-globalen-superstar-zur-milliardaerin-wie-ihre-musik-sie-zum-erfolg-fuehrte](https://www.spiegel.de/wirtschaft/taylor-swift-vom-globalen-superstar-zur-milliardaerin-wie-ihre-musik-sie-zum-erfolg-fuehrte-a-7c2560d7-2014-4b0a-9377-f8a0fd3c9dbc#ref=rss)
-### ukrainehilfen
-
-* [https://www.spiegel.de/ausland/ukrainehilfen-hilfspaket-nimmt-naechste-huerde-im-us-kongress](https://www.spiegel.de/ausland/ukrainehilfen-hilfspaket-nimmt-naechste-huerde-im-us-kongress-a-2cca94d4-9ea4-49c5-a58e-9fd771ec1cc1#ref=rss)
-### uskongress
-
-* [https://www.spiegel.de/ausland/ukrainehilfen-hilfspaket-nimmt-naechste-huerde-im-us-kongress](https://www.spiegel.de/ausland/ukrainehilfen-hilfspaket-nimmt-naechste-huerde-im-us-kongress-a-2cca94d4-9ea4-49c5-a58e-9fd771ec1cc1#ref=rss)
-### fallout
-
-* [https://www.spiegel.de/kultur/fallout-auf-amazon-prime-oki-doki-zur-naechsten-staffel](https://www.spiegel.de/kultur/fallout-auf-amazon-prime-oki-doki-zur-naechsten-staffel-a-ac960ab1-c7a4-440a-be43-0d285b096666#ref=rss)
-### staffel
-
-* [https://www.spiegel.de/kultur/fallout-auf-amazon-prime-oki-doki-zur-naechsten-staffel](https://www.spiegel.de/kultur/fallout-auf-amazon-prime-oki-doki-zur-naechsten-staffel-a-ac960ab1-c7a4-440a-be43-0d285b096666#ref=rss)
-### sebastian
-
-* [https://www.spiegel.de/sport/big-wave-surfen-sebastian-steudtner-toppt-sich-selbst-und-stellt-neuen-rekord-auf](https://www.spiegel.de/sport/big-wave-surfen-sebastian-steudtner-toppt-sich-selbst-und-stellt-neuen-rekord-auf-a-03e040c0-8a28-4c6f-8917-f493dcda1b1f#ref=rss)
-### steudtner
-
-* [https://www.spiegel.de/sport/big-wave-surfen-sebastian-steudtner-toppt-sich-selbst-und-stellt-neuen-rekord-auf](https://www.spiegel.de/sport/big-wave-surfen-sebastian-steudtner-toppt-sich-selbst-und-stellt-neuen-rekord-auf-a-03e040c0-8a28-4c6f-8917-f493dcda1b1f#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/sport/big-wave-surfen-sebastian-steudtner-toppt-sich-selbst-und-stellt-neuen-rekord-auf](https://www.spiegel.de/sport/big-wave-surfen-sebastian-steudtner-toppt-sich-selbst-und-stellt-neuen-rekord-auf-a-03e040c0-8a28-4c6f-8917-f493dcda1b1f#ref=rss)
-* [https://www.spiegel.de/auto/tesla-elektroautobauer-ruft-fast-4000-cybertrucks-zurueck-wegen-seife-am-gaspedal](https://www.spiegel.de/auto/tesla-elektroautobauer-ruft-fast-4000-cybertrucks-zurueck-wegen-seife-am-gaspedal-a-fb2a86e0-2af7-4967-bf13-83a85dffd108#ref=rss)
-### 30
-
-* [https://www.spiegel.de/sport/big-wave-surfen-sebastian-steudtner-toppt-sich-selbst-und-stellt-neuen-rekord-auf](https://www.spiegel.de/sport/big-wave-surfen-sebastian-steudtner-toppt-sich-selbst-und-stellt-neuen-rekord-auf-a-03e040c0-8a28-4c6f-8917-f493dcda1b1f#ref=rss)
-* [https://www.spiegel.de/panorama/italien-faehre-von-capri-prallt-in-neapel-auf-anlegestelle](https://www.spiegel.de/panorama/italien-faehre-von-capri-prallt-in-neapel-auf-anlegestelle-a-d39d363b-db09-4e90-908e-263a24ae43f8#ref=rss)
-### meter
-
-* [https://www.spiegel.de/sport/big-wave-surfen-sebastian-steudtner-toppt-sich-selbst-und-stellt-neuen-rekord-auf](https://www.spiegel.de/sport/big-wave-surfen-sebastian-steudtner-toppt-sich-selbst-und-stellt-neuen-rekord-auf-a-03e040c0-8a28-4c6f-8917-f493dcda1b1f#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-deutscher-wetterdienst-rechnet-am-wochenende-mit-vielen-schauern](https://www.spiegel.de/panorama/wetter-in-deutschland-deutscher-wetterdienst-rechnet-am-wochenende-mit-vielen-schauern-a-220960c2-a4ab-4353-a6e9-06f71bf631f3#ref=rss)
-### videoaufnahmen
-
-* [https://www.spiegel.de/politik/deutschland/afd-verdacht-auf-russische-geldzahlungen-videoaufnahmen-sollen-petr-bystron-belasten](https://www.spiegel.de/politik/deutschland/afd-verdacht-auf-russische-geldzahlungen-videoaufnahmen-sollen-petr-bystron-belasten-a-9722ca66-9ddd-4027-8ea5-b115ac57c9d4#ref=rss)
-### petr
-
-* [https://www.spiegel.de/politik/deutschland/afd-verdacht-auf-russische-geldzahlungen-videoaufnahmen-sollen-petr-bystron-belasten](https://www.spiegel.de/politik/deutschland/afd-verdacht-auf-russische-geldzahlungen-videoaufnahmen-sollen-petr-bystron-belasten-a-9722ca66-9ddd-4027-8ea5-b115ac57c9d4#ref=rss)
-### bystron
-
-* [https://www.spiegel.de/politik/deutschland/afd-verdacht-auf-russische-geldzahlungen-videoaufnahmen-sollen-petr-bystron-belasten](https://www.spiegel.de/politik/deutschland/afd-verdacht-auf-russische-geldzahlungen-videoaufnahmen-sollen-petr-bystron-belasten-a-9722ca66-9ddd-4027-8ea5-b115ac57c9d4#ref=rss)
-### bekam
-
-* [https://www.spiegel.de/politik/deutschland/afd-verdacht-auf-russische-geldzahlungen-videoaufnahmen-sollen-petr-bystron-belasten](https://www.spiegel.de/politik/deutschland/afd-verdacht-auf-russische-geldzahlungen-videoaufnahmen-sollen-petr-bystron-belasten-a-9722ca66-9ddd-4027-8ea5-b115ac57c9d4#ref=rss)
-* [https://www.spiegel.de/panorama/oesterreich-swingerklub-durfte-miete-mindern-weil-maskenpflicht-sex-erschwerte](https://www.spiegel.de/panorama/oesterreich-swingerklub-durfte-miete-mindern-weil-maskenpflicht-sex-erschwerte-a-dc3098a1-3078-497a-9b2f-737b270ded67#ref=rss)
-### beginn
-
-* [https://www.spiegel.de/wirtschaft/deutsche-ruestungsexporte-beginn-des-jahres-bringt-ausfuhr-im-grossen-stil-wert-aus-dem-vorjahr-uebertroffen](https://www.spiegel.de/wirtschaft/deutsche-ruestungsexporte-beginn-des-jahres-bringt-ausfuhr-im-grossen-stil-wert-aus-dem-vorjahr-uebertroffen-a-a05e7c7e-2a09-43f0-a076-d757dc2f2713#ref=rss)
-### jahres
-
-* [https://www.spiegel.de/wirtschaft/deutsche-ruestungsexporte-beginn-des-jahres-bringt-ausfuhr-im-grossen-stil-wert-aus-dem-vorjahr-uebertroffen](https://www.spiegel.de/wirtschaft/deutsche-ruestungsexporte-beginn-des-jahres-bringt-ausfuhr-im-grossen-stil-wert-aus-dem-vorjahr-uebertroffen-a-a05e7c7e-2a09-43f0-a076-d757dc2f2713#ref=rss)
-### großen
-
-* [https://www.spiegel.de/wirtschaft/deutsche-ruestungsexporte-beginn-des-jahres-bringt-ausfuhr-im-grossen-stil-wert-aus-dem-vorjahr-uebertroffen](https://www.spiegel.de/wirtschaft/deutsche-ruestungsexporte-beginn-des-jahres-bringt-ausfuhr-im-grossen-stil-wert-aus-dem-vorjahr-uebertroffen-a-a05e7c7e-2a09-43f0-a076-d757dc2f2713#ref=rss)
-### stil
-
-* [https://www.spiegel.de/wirtschaft/deutsche-ruestungsexporte-beginn-des-jahres-bringt-ausfuhr-im-grossen-stil-wert-aus-dem-vorjahr-uebertroffen](https://www.spiegel.de/wirtschaft/deutsche-ruestungsexporte-beginn-des-jahres-bringt-ausfuhr-im-grossen-stil-wert-aus-dem-vorjahr-uebertroffen-a-a05e7c7e-2a09-43f0-a076-d757dc2f2713#ref=rss)
-### wert
-
-* [https://www.spiegel.de/wirtschaft/deutsche-ruestungsexporte-beginn-des-jahres-bringt-ausfuhr-im-grossen-stil-wert-aus-dem-vorjahr-uebertroffen](https://www.spiegel.de/wirtschaft/deutsche-ruestungsexporte-beginn-des-jahres-bringt-ausfuhr-im-grossen-stil-wert-aus-dem-vorjahr-uebertroffen-a-a05e7c7e-2a09-43f0-a076-d757dc2f2713#ref=rss)
-### übertroffen
-
-* [https://www.spiegel.de/wirtschaft/deutsche-ruestungsexporte-beginn-des-jahres-bringt-ausfuhr-im-grossen-stil-wert-aus-dem-vorjahr-uebertroffen](https://www.spiegel.de/wirtschaft/deutsche-ruestungsexporte-beginn-des-jahres-bringt-ausfuhr-im-grossen-stil-wert-aus-dem-vorjahr-uebertroffen-a-a05e7c7e-2a09-43f0-a076-d757dc2f2713#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/deutsche-ruestungsexporte-beginn-des-jahres-bringt-ausfuhr-im-grossen-stil-wert-aus-dem-vorjahr-uebertroffen](https://www.spiegel.de/wirtschaft/deutsche-ruestungsexporte-beginn-des-jahres-bringt-ausfuhr-im-grossen-stil-wert-aus-dem-vorjahr-uebertroffen-a-a05e7c7e-2a09-43f0-a076-d757dc2f2713#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-deutscher-wetterdienst-rechnet-am-wochenende-mit-vielen-schauern](https://www.spiegel.de/panorama/wetter-in-deutschland-deutscher-wetterdienst-rechnet-am-wochenende-mit-vielen-schauern-a-220960c2-a4ab-4353-a6e9-06f71bf631f3#ref=rss)
-### staatsanwaltschaft
-
-* [https://www.spiegel.de/panorama/justiz/berlin-staatsanwaltschaft-untersucht-nach-todesfall-in-pflegeheim](https://www.spiegel.de/panorama/justiz/berlin-staatsanwaltschaft-untersucht-nach-todesfall-in-pflegeheim-a-a8388c59-bb5a-4f94-9b74-b7745b4a9315#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/pforzheim-fixierter-patient-stirbt-bei-brand-sieben-klinikmitarbeiter-angeklagt](https://www.spiegel.de/panorama/justiz/pforzheim-fixierter-patient-stirbt-bei-brand-sieben-klinikmitarbeiter-angeklagt-a-0b19a5d6-c993-4026-a6f9-dac1a800d571#ref=rss)
-### pflegeheim
-
-* [https://www.spiegel.de/panorama/justiz/berlin-staatsanwaltschaft-untersucht-nach-todesfall-in-pflegeheim](https://www.spiegel.de/panorama/justiz/berlin-staatsanwaltschaft-untersucht-nach-todesfall-in-pflegeheim-a-a8388c59-bb5a-4f94-9b74-b7745b4a9315#ref=rss)
-### starb
-
-* [https://www.spiegel.de/panorama/justiz/berlin-staatsanwaltschaft-untersucht-nach-todesfall-in-pflegeheim](https://www.spiegel.de/panorama/justiz/berlin-staatsanwaltschaft-untersucht-nach-todesfall-in-pflegeheim-a-a8388c59-bb5a-4f94-9b74-b7745b4a9315#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/pforzheim-fixierter-patient-stirbt-bei-brand-sieben-klinikmitarbeiter-angeklagt](https://www.spiegel.de/panorama/justiz/pforzheim-fixierter-patient-stirbt-bei-brand-sieben-klinikmitarbeiter-angeklagt-a-0b19a5d6-c993-4026-a6f9-dac1a800d571#ref=rss)
-### superstar
-
-* [https://www.spiegel.de/wirtschaft/taylor-swift-vom-globalen-superstar-zur-milliardaerin-wie-ihre-musik-sie-zum-erfolg-fuehrte](https://www.spiegel.de/wirtschaft/taylor-swift-vom-globalen-superstar-zur-milliardaerin-wie-ihre-musik-sie-zum-erfolg-fuehrte-a-7c2560d7-2014-4b0a-9377-f8a0fd3c9dbc#ref=rss)
-### musik
-
-* [https://www.spiegel.de/wirtschaft/taylor-swift-vom-globalen-superstar-zur-milliardaerin-wie-ihre-musik-sie-zum-erfolg-fuehrte](https://www.spiegel.de/wirtschaft/taylor-swift-vom-globalen-superstar-zur-milliardaerin-wie-ihre-musik-sie-zum-erfolg-fuehrte-a-7c2560d7-2014-4b0a-9377-f8a0fd3c9dbc#ref=rss)
-### sondern
-
-* [https://www.spiegel.de/wirtschaft/taylor-swift-vom-globalen-superstar-zur-milliardaerin-wie-ihre-musik-sie-zum-erfolg-fuehrte](https://www.spiegel.de/wirtschaft/taylor-swift-vom-globalen-superstar-zur-milliardaerin-wie-ihre-musik-sie-zum-erfolg-fuehrte-a-7c2560d7-2014-4b0a-9377-f8a0fd3c9dbc#ref=rss)
-* [https://www.spiegel.de/sport/fussball/julian-nagelsmann-bleibt-bundestrainer-was-hinter-der-nagelsmann-entscheidung-steckt](https://www.spiegel.de/sport/fussball/julian-nagelsmann-bleibt-bundestrainer-was-hinter-der-nagelsmann-entscheidung-steckt-a-24a03fc4-af13-41ff-88f6-4a78da525710#ref=rss)
-### natostaaten
-
-* [https://www.spiegel.de/ausland/nato-staaten-sagen-ukraine-weitere-hilfe-bei-luftverteidigung-zu](https://www.spiegel.de/ausland/nato-staaten-sagen-ukraine-weitere-hilfe-bei-luftverteidigung-zu-a-ee5807e4-e9dd-43ef-8139-bf04f5be21e1#ref=rss)
-### hilfe
-
-* [https://www.spiegel.de/ausland/nato-staaten-sagen-ukraine-weitere-hilfe-bei-luftverteidigung-zu](https://www.spiegel.de/ausland/nato-staaten-sagen-ukraine-weitere-hilfe-bei-luftverteidigung-zu-a-ee5807e4-e9dd-43ef-8139-bf04f5be21e1#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/polizei-raeumt-pro-palaestina-zeltlager-an-new-yorker-universitaet](https://www.spiegel.de/panorama/bildung/polizei-raeumt-pro-palaestina-zeltlager-an-new-yorker-universitaet-a-b5c53480-9a69-48e4-876f-0799e0063b50#ref=rss)
-### iran
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-iran-israel-aussenpolitik-julian-nagelsmann](https://www.spiegel.de/politik/deutschland/news-des-tages-iran-israel-aussenpolitik-julian-nagelsmann-a-7f5ca620-a556-4d1b-86ec-96334d2c7f28#ref=rss)
-### israel
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-iran-israel-aussenpolitik-julian-nagelsmann](https://www.spiegel.de/politik/deutschland/news-des-tages-iran-israel-aussenpolitik-julian-nagelsmann-a-7f5ca620-a556-4d1b-86ec-96334d2c7f28#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-iran-israel-aussenpolitik-julian-nagelsmann](https://www.spiegel.de/politik/deutschland/news-des-tages-iran-israel-aussenpolitik-julian-nagelsmann-a-7f5ca620-a556-4d1b-86ec-96334d2c7f28#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/kindergrundsicherung-jobcenter-warnen-olaf-scholz-vor-scherbenhaufen](https://www.spiegel.de/wirtschaft/soziales/kindergrundsicherung-jobcenter-warnen-olaf-scholz-vor-scherbenhaufen-a-28f6e19c-3fbd-491f-9408-8e5f266b439a#ref=rss)
-### bleibt
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-iran-israel-aussenpolitik-julian-nagelsmann](https://www.spiegel.de/politik/deutschland/news-des-tages-iran-israel-aussenpolitik-julian-nagelsmann-a-7f5ca620-a556-4d1b-86ec-96334d2c7f28#ref=rss)
-* [https://www.spiegel.de/sport/fussball/julian-nagelsmann-bleibt-bundestrainer-was-hinter-der-nagelsmann-entscheidung-steckt](https://www.spiegel.de/sport/fussball/julian-nagelsmann-bleibt-bundestrainer-was-hinter-der-nagelsmann-entscheidung-steckt-a-24a03fc4-af13-41ff-88f6-4a78da525710#ref=rss)
-### bundestrainer
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-iran-israel-aussenpolitik-julian-nagelsmann](https://www.spiegel.de/politik/deutschland/news-des-tages-iran-israel-aussenpolitik-julian-nagelsmann-a-7f5ca620-a556-4d1b-86ec-96334d2c7f28#ref=rss)
-* [https://www.spiegel.de/sport/fussball/julian-nagelsmann-bleibt-bundestrainer-was-hinter-der-nagelsmann-entscheidung-steckt](https://www.spiegel.de/sport/fussball/julian-nagelsmann-bleibt-bundestrainer-was-hinter-der-nagelsmann-entscheidung-steckt-a-24a03fc4-af13-41ff-88f6-4a78da525710#ref=rss)
-### tesla
-
-* [https://www.spiegel.de/auto/tesla-elektroautobauer-ruft-fast-4000-cybertrucks-zurueck-wegen-seife-am-gaspedal](https://www.spiegel.de/auto/tesla-elektroautobauer-ruft-fast-4000-cybertrucks-zurueck-wegen-seife-am-gaspedal-a-fb2a86e0-2af7-4967-bf13-83a85dffd108#ref=rss)
-### cybertrucks
-
-* [https://www.spiegel.de/auto/tesla-elektroautobauer-ruft-fast-4000-cybertrucks-zurueck-wegen-seife-am-gaspedal](https://www.spiegel.de/auto/tesla-elektroautobauer-ruft-fast-4000-cybertrucks-zurueck-wegen-seife-am-gaspedal-a-fb2a86e0-2af7-4967-bf13-83a85dffd108#ref=rss)
-### alle
-
-* [https://www.spiegel.de/auto/tesla-elektroautobauer-ruft-fast-4000-cybertrucks-zurueck-wegen-seife-am-gaspedal](https://www.spiegel.de/auto/tesla-elektroautobauer-ruft-fast-4000-cybertrucks-zurueck-wegen-seife-am-gaspedal-a-fb2a86e0-2af7-4967-bf13-83a85dffd108#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/kindergrundsicherung-jobcenter-warnen-olaf-scholz-vor-scherbenhaufen](https://www.spiegel.de/wirtschaft/soziales/kindergrundsicherung-jobcenter-warnen-olaf-scholz-vor-scherbenhaufen-a-28f6e19c-3fbd-491f-9408-8e5f266b439a#ref=rss)
-### kindergrundsicherung
-
-* [https://www.spiegel.de/wirtschaft/soziales/kindergrundsicherung-jobcenter-warnen-olaf-scholz-vor-scherbenhaufen](https://www.spiegel.de/wirtschaft/soziales/kindergrundsicherung-jobcenter-warnen-olaf-scholz-vor-scherbenhaufen-a-28f6e19c-3fbd-491f-9408-8e5f266b439a#ref=rss)
-### jobcenter
-
-* [https://www.spiegel.de/wirtschaft/soziales/kindergrundsicherung-jobcenter-warnen-olaf-scholz-vor-scherbenhaufen](https://www.spiegel.de/wirtschaft/soziales/kindergrundsicherung-jobcenter-warnen-olaf-scholz-vor-scherbenhaufen-a-28f6e19c-3fbd-491f-9408-8e5f266b439a#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/wirtschaft/soziales/kindergrundsicherung-jobcenter-warnen-olaf-scholz-vor-scherbenhaufen](https://www.spiegel.de/wirtschaft/soziales/kindergrundsicherung-jobcenter-warnen-olaf-scholz-vor-scherbenhaufen-a-28f6e19c-3fbd-491f-9408-8e5f266b439a#ref=rss)
-### situation
-
-* [https://www.spiegel.de/wirtschaft/soziales/kindergrundsicherung-jobcenter-warnen-olaf-scholz-vor-scherbenhaufen](https://www.spiegel.de/wirtschaft/soziales/kindergrundsicherung-jobcenter-warnen-olaf-scholz-vor-scherbenhaufen-a-28f6e19c-3fbd-491f-9408-8e5f266b439a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/julian-nagelsmann-bleibt-bundestrainer-was-hinter-der-nagelsmann-entscheidung-steckt](https://www.spiegel.de/sport/fussball/julian-nagelsmann-bleibt-bundestrainer-was-hinter-der-nagelsmann-entscheidung-steckt-a-24a03fc4-af13-41ff-88f6-4a78da525710#ref=rss)
-### formel
-
-* [https://www.spiegel.de/sport/formel1/formel-1-academy-carrie-schreiner-ueber-frauen-im-motorsport](https://www.spiegel.de/sport/formel1/formel-1-academy-carrie-schreiner-ueber-frauen-im-motorsport-a-1fa8d486-2c8e-401a-ac69-383880bfc77c#ref=rss)
+* [https://www.spiegel.de/panorama/bilder-der-woche-coachella-valley-festival-kopenhagen-sydney-leverkusen](https://www.spiegel.de/panorama/bilder-der-woche-coachella-valley-festival-kopenhagen-sydney-leverkusen-a-59be5084-eea2-48e6-9a90-2b2ca75d3552#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-ist-deutscher-meister-so-gelang-das-wunder-von-leverkusen](https://www.spiegel.de/sport/fussball/bayer-leverkusen-ist-deutscher-meister-so-gelang-das-wunder-von-leverkusen-a-01306ea2-1ebc-4ffb-b014-61975b5291a9#ref=rss)
 ### 1
 
+* [https://www.spiegel.de/politik/deutschland/cannabis-bundesregierung-will-gesetz-verschaerfen](https://www.spiegel.de/politik/deutschland/cannabis-bundesregierung-will-gesetz-verschaerfen-a-709fed7c-443e-4890-a98a-90659a7e6410#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-rast-erneut-auf-die-pole-position-lewis-hamilton-weit-abgeschlagen](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-rast-erneut-auf-die-pole-position-lewis-hamilton-weit-abgeschlagen-a-c5d2823f-42b9-4af4-aa06-e46a3d604591#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-in-china-weltmeister-max-verstappen-siegt-souveraen-im-ersten-sprintrennen-der-saison](https://www.spiegel.de/sport/formel1/formel-1-in-china-weltmeister-max-verstappen-siegt-souveraen-im-ersten-sprintrennen-der-saison-a-40d18548-19ae-40c1-8977-3360b737c5b6#ref=rss)
 * [https://www.spiegel.de/sport/formel1/formel-1-academy-carrie-schreiner-ueber-frauen-im-motorsport](https://www.spiegel.de/sport/formel1/formel-1-academy-carrie-schreiner-ueber-frauen-im-motorsport-a-1fa8d486-2c8e-401a-ac69-383880bfc77c#ref=rss)
+### formel
+
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-rast-erneut-auf-die-pole-position-lewis-hamilton-weit-abgeschlagen](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-rast-erneut-auf-die-pole-position-lewis-hamilton-weit-abgeschlagen-a-c5d2823f-42b9-4af4-aa06-e46a3d604591#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-in-china-weltmeister-max-verstappen-siegt-souveraen-im-ersten-sprintrennen-der-saison](https://www.spiegel.de/sport/formel1/formel-1-in-china-weltmeister-max-verstappen-siegt-souveraen-im-ersten-sprintrennen-der-saison-a-40d18548-19ae-40c1-8977-3360b737c5b6#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-academy-carrie-schreiner-ueber-frauen-im-motorsport](https://www.spiegel.de/sport/formel1/formel-1-academy-carrie-schreiner-ueber-frauen-im-motorsport-a-1fa8d486-2c8e-401a-ac69-383880bfc77c#ref=rss)
+### max
+
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-rast-erneut-auf-die-pole-position-lewis-hamilton-weit-abgeschlagen](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-rast-erneut-auf-die-pole-position-lewis-hamilton-weit-abgeschlagen-a-c5d2823f-42b9-4af4-aa06-e46a3d604591#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-in-china-weltmeister-max-verstappen-siegt-souveraen-im-ersten-sprintrennen-der-saison](https://www.spiegel.de/sport/formel1/formel-1-in-china-weltmeister-max-verstappen-siegt-souveraen-im-ersten-sprintrennen-der-saison-a-40d18548-19ae-40c1-8977-3360b737c5b6#ref=rss)
+### verstappen
+
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-rast-erneut-auf-die-pole-position-lewis-hamilton-weit-abgeschlagen](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-rast-erneut-auf-die-pole-position-lewis-hamilton-weit-abgeschlagen-a-c5d2823f-42b9-4af4-aa06-e46a3d604591#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-in-china-weltmeister-max-verstappen-siegt-souveraen-im-ersten-sprintrennen-der-saison](https://www.spiegel.de/sport/formel1/formel-1-in-china-weltmeister-max-verstappen-siegt-souveraen-im-ersten-sprintrennen-der-saison-a-40d18548-19ae-40c1-8977-3360b737c5b6#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/donald-trump-new-york-city-mann-stirbt-an-selbst-zugefuegten-brandverletzungen](https://www.spiegel.de/ausland/donald-trump-new-york-city-mann-stirbt-an-selbst-zugefuegten-brandverletzungen-a-780b660d-ee10-46bc-a4f3-b1a21330b58f#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-vor-gericht-auswahl-der-geschworenen-im-new-yorker-prozess-sorgt-fuer-aufsehen](https://www.spiegel.de/ausland/donald-trump-vor-gericht-auswahl-der-geschworenen-im-new-yorker-prozess-sorgt-fuer-aufsehen-a-33fbd3f3-28e4-4fcc-beb0-6fc8aa932cd9#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/donald-trump-new-york-city-mann-stirbt-an-selbst-zugefuegten-brandverletzungen](https://www.spiegel.de/ausland/donald-trump-new-york-city-mann-stirbt-an-selbst-zugefuegten-brandverletzungen-a-780b660d-ee10-46bc-a4f3-b1a21330b58f#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-vor-gericht-auswahl-der-geschworenen-im-new-yorker-prozess-sorgt-fuer-aufsehen](https://www.spiegel.de/ausland/donald-trump-vor-gericht-auswahl-der-geschworenen-im-new-yorker-prozess-sorgt-fuer-aufsehen-a-33fbd3f3-28e4-4fcc-beb0-6fc8aa932cd9#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/gesundheit/ernaehrung/meeresfruechte-welche-kann-ich-bedenkenlos-kaufen](https://www.spiegel.de/gesundheit/ernaehrung/meeresfruechte-welche-kann-ich-bedenkenlos-kaufen-a-b4780b41-0ca5-42d9-bef7-3d928c291b34#ref=rss)
+* [https://www.spiegel.de/reise/staedte/reisen-ohne-googlemaps-und-apps-48-stunden-offline-in-amsterdam](https://www.spiegel.de/reise/staedte/reisen-ohne-googlemaps-und-apps-48-stunden-offline-in-amsterdam-a-fdb47d5b-4a85-427f-91db-694c8f7c43f8#ref=rss)
+### tiktok
+
+* [https://www.spiegel.de/tests/elektronik/gaming-maeuse-modelle-von-logitech-razer-und-nyfter-im-test](https://www.spiegel.de/tests/elektronik/gaming-maeuse-modelle-von-logitech-razer-und-nyfter-im-test-a-86a4cb92-81ae-47ba-9df0-54a823146b76#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/weisslichtmilbe-und-co-wie-der-student-levi-penell-auf-tiktok-durchstartet](https://www.spiegel.de/netzwelt/web/weisslichtmilbe-und-co-wie-der-student-levi-penell-auf-tiktok-durchstartet-a-14fb60dd-89ba-45a5-b624-4141d7bc7316#ref=rss)
+### woche
+
+* [https://www.spiegel.de/panorama/bilder-der-woche-coachella-valley-festival-kopenhagen-sydney-leverkusen](https://www.spiegel.de/panorama/bilder-der-woche-coachella-valley-festival-kopenhagen-sydney-leverkusen-a-59be5084-eea2-48e6-9a90-2b2ca75d3552#ref=rss)
+* [https://www.spiegel.de/ausland/blingbling-und-gefaelschte-luxusmarken-was-der-streetstyle-in-suedostasien-bedeutet-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/blingbling-und-gefaelschte-luxusmarken-was-der-streetstyle-in-suedostasien-bedeutet-alles-gute-vom-spiegel-a-82b1c3fc-5072-425f-b8c0-8115202052bc#ref=rss)
+### lewis
+
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-rast-erneut-auf-die-pole-position-lewis-hamilton-weit-abgeschlagen](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-rast-erneut-auf-die-pole-position-lewis-hamilton-weit-abgeschlagen-a-c5d2823f-42b9-4af4-aa06-e46a3d604591#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-in-china-weltmeister-max-verstappen-siegt-souveraen-im-ersten-sprintrennen-der-saison](https://www.spiegel.de/sport/formel1/formel-1-in-china-weltmeister-max-verstappen-siegt-souveraen-im-ersten-sprintrennen-der-saison-a-40d18548-19ae-40c1-8977-3360b737c5b6#ref=rss)
+### hamilton
+
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-rast-erneut-auf-die-pole-position-lewis-hamilton-weit-abgeschlagen](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-rast-erneut-auf-die-pole-position-lewis-hamilton-weit-abgeschlagen-a-c5d2823f-42b9-4af4-aa06-e46a3d604591#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-in-china-weltmeister-max-verstappen-siegt-souveraen-im-ersten-sprintrennen-der-saison](https://www.spiegel.de/sport/formel1/formel-1-in-china-weltmeister-max-verstappen-siegt-souveraen-im-ersten-sprintrennen-der-saison-a-40d18548-19ae-40c1-8977-3360b737c5b6#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/politik/deutschland/doener-diplomatie-ein-bisschen-deutsch-ein-bisschen-tuerkisch](https://www.spiegel.de/politik/deutschland/doener-diplomatie-ein-bisschen-deutsch-ein-bisschen-tuerkisch-a-73416c05-7a9f-47f6-8065-44c2902539a5#ref=rss)
+* [https://www.spiegel.de/ausland/blingbling-und-gefaelschte-luxusmarken-was-der-streetstyle-in-suedostasien-bedeutet-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/blingbling-und-gefaelschte-luxusmarken-was-der-streetstyle-in-suedostasien-bedeutet-alles-gute-vom-spiegel-a-82b1c3fc-5072-425f-b8c0-8115202052bc#ref=rss)
+* [https://www.spiegel.de/ausland/kenia-wie-die-wirtschaftskrise-den-organhandel-florieren-laesst](https://www.spiegel.de/ausland/kenia-wie-die-wirtschaftskrise-den-organhandel-florieren-laesst-a-c40e0cdb-2ccc-4497-bf84-a900494fc7c8#ref=rss)
+### monate
+
+* [https://www.spiegel.de/sport/olympia/dopingverdacht-positive-tests-mehrerer-chinesischer-topschwimmer-blieb-offenbar-folgenlos](https://www.spiegel.de/sport/olympia/dopingverdacht-positive-tests-mehrerer-chinesischer-topschwimmer-blieb-offenbar-folgenlos-a-86d3c766-6326-4d0d-b838-9c620b060f9c#ref=rss)
+* [https://www.spiegel.de/panorama/deutsches-zentrum-fuer-luft-und-raumfahrt-sucht-freiwillige-die-sich-zwei-monate-ins-bett-legen](https://www.spiegel.de/panorama/deutsches-zentrum-fuer-luft-und-raumfahrt-sucht-freiwillige-die-sich-zwei-monate-ins-bett-legen-a-6be1ae68-d47e-4704-8c0c-a288950dfca2#ref=rss)
+### prozess
+
+* [https://www.spiegel.de/ausland/donald-trump-new-york-city-mann-stirbt-an-selbst-zugefuegten-brandverletzungen](https://www.spiegel.de/ausland/donald-trump-new-york-city-mann-stirbt-an-selbst-zugefuegten-brandverletzungen-a-780b660d-ee10-46bc-a4f3-b1a21330b58f#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-vor-gericht-auswahl-der-geschworenen-im-new-yorker-prozess-sorgt-fuer-aufsehen](https://www.spiegel.de/ausland/donald-trump-vor-gericht-auswahl-der-geschworenen-im-new-yorker-prozess-sorgt-fuer-aufsehen-a-33fbd3f3-28e4-4fcc-beb0-6fc8aa932cd9#ref=rss)
+### deutsches
+
+* [https://www.spiegel.de/netzwelt/web/volkwagen-vw-konzern-wurde-jahrelang-ausspioniert-von-china](https://www.spiegel.de/netzwelt/web/volkwagen-vw-konzern-wurde-jahrelang-ausspioniert-von-china-a-f9971315-c342-42b5-b97b-8650b91d60d4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rotes-meer-fregatte-hessen-beendet-einsatz-gegen-huthis](https://www.spiegel.de/politik/deutschland/rotes-meer-fregatte-hessen-beendet-einsatz-gegen-huthis-a-32678c0c-0c2a-405e-82b7-d21fbda41f32#ref=rss)
+* [https://www.spiegel.de/panorama/deutsches-zentrum-fuer-luft-und-raumfahrt-sucht-freiwillige-die-sich-zwei-monate-ins-bett-legen](https://www.spiegel.de/panorama/deutsches-zentrum-fuer-luft-und-raumfahrt-sucht-freiwillige-die-sich-zwei-monate-ins-bett-legen-a-6be1ae68-d47e-4704-8c0c-a288950dfca2#ref=rss)
+### daniel
+
+* [https://www.spiegel.de/wissenschaft/mensch/daniel-dennett-ist-tot-bekannter-us-philosoph-mit-82-jahren-gestorben](https://www.spiegel.de/wissenschaft/mensch/daniel-dennett-ist-tot-bekannter-us-philosoph-mit-82-jahren-gestorben-a-328aaef9-9f8e-418b-9f8c-378ee2b650f3#ref=rss)
+* [https://www.spiegel.de/karriere/gehalt-im-nachhaltigkeitssektor-ex-porsche-mitarbeiter-halbiert-sein-einkommen](https://www.spiegel.de/karriere/gehalt-im-nachhaltigkeitssektor-ex-porsche-mitarbeiter-halbiert-sein-einkommen-a-c88412a3-029b-4e6b-8182-4eb5826948c4#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/wissenschaft/mensch/daniel-dennett-ist-tot-bekannter-us-philosoph-mit-82-jahren-gestorben](https://www.spiegel.de/wissenschaft/mensch/daniel-dennett-ist-tot-bekannter-us-philosoph-mit-82-jahren-gestorben-a-328aaef9-9f8e-418b-9f8c-378ee2b650f3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/mcfit-preiserhoehung-per-drehkreuz-war-illegal](https://www.spiegel.de/wirtschaft/unternehmen/mcfit-preiserhoehung-per-drehkreuz-war-illegal-a-3311e9bf-0533-4c72-b276-7333701fed53#ref=rss)
+* [https://www.spiegel.de/karriere/gehalt-im-nachhaltigkeitssektor-ex-porsche-mitarbeiter-halbiert-sein-einkommen](https://www.spiegel.de/karriere/gehalt-im-nachhaltigkeitssektor-ex-porsche-mitarbeiter-halbiert-sein-einkommen-a-c88412a3-029b-4e6b-8182-4eb5826948c4#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/mcfit-preiserhoehung-per-drehkreuz-war-illegal](https://www.spiegel.de/wirtschaft/unternehmen/mcfit-preiserhoehung-per-drehkreuz-war-illegal-a-3311e9bf-0533-4c72-b276-7333701fed53#ref=rss)
+* [https://www.spiegel.de/panorama/deutsches-zentrum-fuer-luft-und-raumfahrt-sucht-freiwillige-die-sich-zwei-monate-ins-bett-legen](https://www.spiegel.de/panorama/deutsches-zentrum-fuer-luft-und-raumfahrt-sucht-freiwillige-die-sich-zwei-monate-ins-bett-legen-a-6be1ae68-d47e-4704-8c0c-a288950dfca2#ref=rss)
+### usa
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-mitarbeiter-in-tennessee-stimmen-fuer-gewerkschaftsbeitritt](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-mitarbeiter-in-tennessee-stimmen-fuer-gewerkschaftsbeitritt-a-61cdd687-7fe2-44e1-ab49-53d0260f7771#ref=rss)
+* [https://www.spiegel.de/ausland/irak-militaerstuetzpunkt-suedlich-von-bagdad-angegriffen-ein-toter](https://www.spiegel.de/ausland/irak-militaerstuetzpunkt-suedlich-von-bagdad-angegriffen-ein-toter-a-b878624d-6690-4315-9d32-d3f2bfa4209f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-ukraine-hilfspaket-der-usa-eskalationspause-zwischen-iran-und-israel-cannabis-feiertag-420](https://www.spiegel.de/politik/deutschland/news-ukraine-hilfspaket-der-usa-eskalationspause-zwischen-iran-und-israel-cannabis-feiertag-420-a-f4136500-f274-4fb5-b667-26842a170c7f#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/gesundheit/ernaehrung/meeresfruechte-welche-kann-ich-bedenkenlos-kaufen](https://www.spiegel.de/gesundheit/ernaehrung/meeresfruechte-welche-kann-ich-bedenkenlos-kaufen-a-b4780b41-0ca5-42d9-bef7-3d928c291b34#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-ist-deutscher-meister-so-gelang-das-wunder-von-leverkusen](https://www.spiegel.de/sport/fussball/bayer-leverkusen-ist-deutscher-meister-so-gelang-das-wunder-von-leverkusen-a-01306ea2-1ebc-4ffb-b014-61975b5291a9#ref=rss)
+### modelle
+
+* [https://www.spiegel.de/tests/elektronik/gaming-maeuse-modelle-von-logitech-razer-und-nyfter-im-test](https://www.spiegel.de/tests/elektronik/gaming-maeuse-modelle-von-logitech-razer-und-nyfter-im-test-a-86a4cb92-81ae-47ba-9df0-54a823146b76#ref=rss)
+### unsere
+
+* [https://www.spiegel.de/tests/elektronik/gaming-maeuse-modelle-von-logitech-razer-und-nyfter-im-test](https://www.spiegel.de/tests/elektronik/gaming-maeuse-modelle-von-logitech-razer-und-nyfter-im-test-a-86a4cb92-81ae-47ba-9df0-54a823146b76#ref=rss)
+* [https://www.spiegel.de/reise/staedte/reisen-ohne-googlemaps-und-apps-48-stunden-offline-in-amsterdam](https://www.spiegel.de/reise/staedte/reisen-ohne-googlemaps-und-apps-48-stunden-offline-in-amsterdam-a-fdb47d5b-4a85-427f-91db-694c8f7c43f8#ref=rss)
+### autorin
+
+* [https://www.spiegel.de/tests/elektronik/gaming-maeuse-modelle-von-logitech-razer-und-nyfter-im-test](https://www.spiegel.de/tests/elektronik/gaming-maeuse-modelle-von-logitech-razer-und-nyfter-im-test-a-86a4cb92-81ae-47ba-9df0-54a823146b76#ref=rss)
+* [https://www.spiegel.de/reise/staedte/reisen-ohne-googlemaps-und-apps-48-stunden-offline-in-amsterdam](https://www.spiegel.de/reise/staedte/reisen-ohne-googlemaps-und-apps-48-stunden-offline-in-amsterdam-a-fdb47d5b-4a85-427f-91db-694c8f7c43f8#ref=rss)
+### apps
+
+* [https://www.spiegel.de/tests/elektronik/gaming-maeuse-modelle-von-logitech-razer-und-nyfter-im-test](https://www.spiegel.de/tests/elektronik/gaming-maeuse-modelle-von-logitech-razer-und-nyfter-im-test-a-86a4cb92-81ae-47ba-9df0-54a823146b76#ref=rss)
+* [https://www.spiegel.de/reise/staedte/reisen-ohne-googlemaps-und-apps-48-stunden-offline-in-amsterdam](https://www.spiegel.de/reise/staedte/reisen-ohne-googlemaps-und-apps-48-stunden-offline-in-amsterdam-a-fdb47d5b-4a85-427f-91db-694c8f7c43f8#ref=rss)
+### levi
+
+* [https://www.spiegel.de/netzwelt/web/weisslichtmilbe-und-co-wie-der-student-levi-penell-auf-tiktok-durchstartet](https://www.spiegel.de/netzwelt/web/weisslichtmilbe-und-co-wie-der-student-levi-penell-auf-tiktok-durchstartet-a-14fb60dd-89ba-45a5-b624-4141d7bc7316#ref=rss)
+### penell
+
+* [https://www.spiegel.de/netzwelt/web/weisslichtmilbe-und-co-wie-der-student-levi-penell-auf-tiktok-durchstartet](https://www.spiegel.de/netzwelt/web/weisslichtmilbe-und-co-wie-der-student-levi-penell-auf-tiktok-durchstartet-a-14fb60dd-89ba-45a5-b624-4141d7bc7316#ref=rss)
+### coachella
+
+* [https://www.spiegel.de/panorama/bilder-der-woche-coachella-valley-festival-kopenhagen-sydney-leverkusen](https://www.spiegel.de/panorama/bilder-der-woche-coachella-valley-festival-kopenhagen-sydney-leverkusen-a-59be5084-eea2-48e6-9a90-2b2ca75d3552#ref=rss)
+### valley
+
+* [https://www.spiegel.de/panorama/bilder-der-woche-coachella-valley-festival-kopenhagen-sydney-leverkusen](https://www.spiegel.de/panorama/bilder-der-woche-coachella-valley-festival-kopenhagen-sydney-leverkusen-a-59be5084-eea2-48e6-9a90-2b2ca75d3552#ref=rss)
+### festival
+
+* [https://www.spiegel.de/panorama/bilder-der-woche-coachella-valley-festival-kopenhagen-sydney-leverkusen](https://www.spiegel.de/panorama/bilder-der-woche-coachella-valley-festival-kopenhagen-sydney-leverkusen-a-59be5084-eea2-48e6-9a90-2b2ca75d3552#ref=rss)
+### kopenhagen
+
+* [https://www.spiegel.de/panorama/bilder-der-woche-coachella-valley-festival-kopenhagen-sydney-leverkusen](https://www.spiegel.de/panorama/bilder-der-woche-coachella-valley-festival-kopenhagen-sydney-leverkusen-a-59be5084-eea2-48e6-9a90-2b2ca75d3552#ref=rss)
+### einfluss
+
+* [https://www.spiegel.de/panorama/bildung/afd-bildungspolitik-wie-rechte-ideologen-einfluss-auf-schulen-nehmen-koennten](https://www.spiegel.de/panorama/bildung/afd-bildungspolitik-wie-rechte-ideologen-einfluss-auf-schulen-nehmen-koennten-a-1fcbf10f-4bdd-4b36-b6dd-e73677a8b304#ref=rss)
+### wenige
+
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-rast-erneut-auf-die-pole-position-lewis-hamilton-weit-abgeschlagen](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-rast-erneut-auf-die-pole-position-lewis-hamilton-weit-abgeschlagen-a-c5d2823f-42b9-4af4-aa06-e46a3d604591#ref=rss)
+* [https://www.spiegel.de/sport/olympia/dopingverdacht-positive-tests-mehrerer-chinesischer-topschwimmer-blieb-offenbar-folgenlos](https://www.spiegel.de/sport/olympia/dopingverdacht-positive-tests-mehrerer-chinesischer-topschwimmer-blieb-offenbar-folgenlos-a-86d3c766-6326-4d0d-b838-9c620b060f9c#ref=rss)
+### stunden
+
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-rast-erneut-auf-die-pole-position-lewis-hamilton-weit-abgeschlagen](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-rast-erneut-auf-die-pole-position-lewis-hamilton-weit-abgeschlagen-a-c5d2823f-42b9-4af4-aa06-e46a3d604591#ref=rss)
+* [https://www.spiegel.de/reise/staedte/reisen-ohne-googlemaps-und-apps-48-stunden-offline-in-amsterdam](https://www.spiegel.de/reise/staedte/reisen-ohne-googlemaps-und-apps-48-stunden-offline-in-amsterdam-a-fdb47d5b-4a85-427f-91db-694c8f7c43f8#ref=rss)
+### bisschen
+
+* [https://www.spiegel.de/politik/deutschland/doener-diplomatie-ein-bisschen-deutsch-ein-bisschen-tuerkisch](https://www.spiegel.de/politik/deutschland/doener-diplomatie-ein-bisschen-deutsch-ein-bisschen-tuerkisch-a-73416c05-7a9f-47f6-8065-44c2902539a5#ref=rss)
+### positive
+
+* [https://www.spiegel.de/sport/olympia/dopingverdacht-positive-tests-mehrerer-chinesischer-topschwimmer-blieb-offenbar-folgenlos](https://www.spiegel.de/sport/olympia/dopingverdacht-positive-tests-mehrerer-chinesischer-topschwimmer-blieb-offenbar-folgenlos-a-86d3c766-6326-4d0d-b838-9c620b060f9c#ref=rss)
+### manche
+
+* [https://www.spiegel.de/sport/olympia/dopingverdacht-positive-tests-mehrerer-chinesischer-topschwimmer-blieb-offenbar-folgenlos](https://www.spiegel.de/sport/olympia/dopingverdacht-positive-tests-mehrerer-chinesischer-topschwimmer-blieb-offenbar-folgenlos-a-86d3c766-6326-4d0d-b838-9c620b060f9c#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-vor-gericht-auswahl-der-geschworenen-im-new-yorker-prozess-sorgt-fuer-aufsehen](https://www.spiegel.de/ausland/donald-trump-vor-gericht-auswahl-der-geschworenen-im-new-yorker-prozess-sorgt-fuer-aufsehen-a-33fbd3f3-28e4-4fcc-beb0-6fc8aa932cd9#ref=rss)
+### davon
+
+* [https://www.spiegel.de/sport/olympia/dopingverdacht-positive-tests-mehrerer-chinesischer-topschwimmer-blieb-offenbar-folgenlos](https://www.spiegel.de/sport/olympia/dopingverdacht-positive-tests-mehrerer-chinesischer-topschwimmer-blieb-offenbar-folgenlos-a-86d3c766-6326-4d0d-b838-9c620b060f9c#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-academy-carrie-schreiner-ueber-frauen-im-motorsport](https://www.spiegel.de/sport/formel1/formel-1-academy-carrie-schreiner-ueber-frauen-im-motorsport-a-1fa8d486-2c8e-401a-ac69-383880bfc77c#ref=rss)
+### new
+
+* [https://www.spiegel.de/ausland/donald-trump-new-york-city-mann-stirbt-an-selbst-zugefuegten-brandverletzungen](https://www.spiegel.de/ausland/donald-trump-new-york-city-mann-stirbt-an-selbst-zugefuegten-brandverletzungen-a-780b660d-ee10-46bc-a4f3-b1a21330b58f#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-vor-gericht-auswahl-der-geschworenen-im-new-yorker-prozess-sorgt-fuer-aufsehen](https://www.spiegel.de/ausland/donald-trump-vor-gericht-auswahl-der-geschworenen-im-new-yorker-prozess-sorgt-fuer-aufsehen-a-33fbd3f3-28e4-4fcc-beb0-6fc8aa932cd9#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/ausland/donald-trump-new-york-city-mann-stirbt-an-selbst-zugefuegten-brandverletzungen](https://www.spiegel.de/ausland/donald-trump-new-york-city-mann-stirbt-an-selbst-zugefuegten-brandverletzungen-a-780b660d-ee10-46bc-a4f3-b1a21330b58f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rotes-meer-fregatte-hessen-beendet-einsatz-gegen-huthis](https://www.spiegel.de/politik/deutschland/rotes-meer-fregatte-hessen-beendet-einsatz-gegen-huthis-a-32678c0c-0c2a-405e-82b7-d21fbda41f32#ref=rss)
+### bayer
+
+* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-ist-deutscher-meister-so-gelang-das-wunder-von-leverkusen](https://www.spiegel.de/sport/fussball/bayer-leverkusen-ist-deutscher-meister-so-gelang-das-wunder-von-leverkusen-a-01306ea2-1ebc-4ffb-b014-61975b5291a9#ref=rss)
+### gelang
+
+* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-ist-deutscher-meister-so-gelang-das-wunder-von-leverkusen](https://www.spiegel.de/sport/fussball/bayer-leverkusen-ist-deutscher-meister-so-gelang-das-wunder-von-leverkusen-a-01306ea2-1ebc-4ffb-b014-61975b5291a9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/daniel-dennett-ist-tot-bekannter-us-philosoph-mit-82-jahren-gestorben](https://www.spiegel.de/wissenschaft/mensch/daniel-dennett-ist-tot-bekannter-us-philosoph-mit-82-jahren-gestorben-a-328aaef9-9f8e-418b-9f8c-378ee2b650f3#ref=rss)
+### erfolg
+
+* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-ist-deutscher-meister-so-gelang-das-wunder-von-leverkusen](https://www.spiegel.de/sport/fussball/bayer-leverkusen-ist-deutscher-meister-so-gelang-das-wunder-von-leverkusen-a-01306ea2-1ebc-4ffb-b014-61975b5291a9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-mitarbeiter-in-tennessee-stimmen-fuer-gewerkschaftsbeitritt](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-mitarbeiter-in-tennessee-stimmen-fuer-gewerkschaftsbeitritt-a-61cdd687-7fe2-44e1-ab49-53d0260f7771#ref=rss)
+### ausgespäht
+
+* [https://www.spiegel.de/netzwelt/web/volkwagen-vw-konzern-wurde-jahrelang-ausspioniert-von-china](https://www.spiegel.de/netzwelt/web/volkwagen-vw-konzern-wurde-jahrelang-ausspioniert-von-china-a-f9971315-c342-42b5-b97b-8650b91d60d4#ref=rss)
+### china
+
+* [https://www.spiegel.de/netzwelt/web/volkwagen-vw-konzern-wurde-jahrelang-ausspioniert-von-china](https://www.spiegel.de/netzwelt/web/volkwagen-vw-konzern-wurde-jahrelang-ausspioniert-von-china-a-f9971315-c342-42b5-b97b-8650b91d60d4#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-in-china-weltmeister-max-verstappen-siegt-souveraen-im-ersten-sprintrennen-der-saison](https://www.spiegel.de/sport/formel1/formel-1-in-china-weltmeister-max-verstappen-siegt-souveraen-im-ersten-sprintrennen-der-saison-a-40d18548-19ae-40c1-8977-3360b737c5b6#ref=rss)
+### dennett
+
+* [https://www.spiegel.de/wissenschaft/mensch/daniel-dennett-ist-tot-bekannter-us-philosoph-mit-82-jahren-gestorben](https://www.spiegel.de/wissenschaft/mensch/daniel-dennett-ist-tot-bekannter-us-philosoph-mit-82-jahren-gestorben-a-328aaef9-9f8e-418b-9f8c-378ee2b650f3#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/wissenschaft/mensch/daniel-dennett-ist-tot-bekannter-us-philosoph-mit-82-jahren-gestorben](https://www.spiegel.de/wissenschaft/mensch/daniel-dennett-ist-tot-bekannter-us-philosoph-mit-82-jahren-gestorben-a-328aaef9-9f8e-418b-9f8c-378ee2b650f3#ref=rss)
+### debatten
+
+* [https://www.spiegel.de/wissenschaft/mensch/daniel-dennett-ist-tot-bekannter-us-philosoph-mit-82-jahren-gestorben](https://www.spiegel.de/wissenschaft/mensch/daniel-dennett-ist-tot-bekannter-us-philosoph-mit-82-jahren-gestorben-a-328aaef9-9f8e-418b-9f8c-378ee2b650f3#ref=rss)
+* [https://www.spiegel.de/familie/streitkultur-heikle-themen-mit-familie-und-freundeskreis-besprechen-podcast](https://www.spiegel.de/familie/streitkultur-heikle-themen-mit-familie-und-freundeskreis-besprechen-podcast-a-74b44467-afd7-4bf0-82be-fcbeaf43e4e2#ref=rss)
+### péter
+
+* [https://www.spiegel.de/ausland/ungarn-wie-gefaehrlich-ist-oppositionsfuehrer-peter-magyar-fuer-viktor-orban](https://www.spiegel.de/ausland/ungarn-wie-gefaehrlich-ist-oppositionsfuehrer-peter-magyar-fuer-viktor-orban-a-e5beef95-f7b4-46b6-9827-12cae62742e8#ref=rss)
+### magyar
+
+* [https://www.spiegel.de/ausland/ungarn-wie-gefaehrlich-ist-oppositionsfuehrer-peter-magyar-fuer-viktor-orban](https://www.spiegel.de/ausland/ungarn-wie-gefaehrlich-ist-oppositionsfuehrer-peter-magyar-fuer-viktor-orban-a-e5beef95-f7b4-46b6-9827-12cae62742e8#ref=rss)
+### viktor
+
+* [https://www.spiegel.de/ausland/ungarn-wie-gefaehrlich-ist-oppositionsfuehrer-peter-magyar-fuer-viktor-orban](https://www.spiegel.de/ausland/ungarn-wie-gefaehrlich-ist-oppositionsfuehrer-peter-magyar-fuer-viktor-orban-a-e5beef95-f7b4-46b6-9827-12cae62742e8#ref=rss)
+### orbán
+
+* [https://www.spiegel.de/ausland/ungarn-wie-gefaehrlich-ist-oppositionsfuehrer-peter-magyar-fuer-viktor-orban](https://www.spiegel.de/ausland/ungarn-wie-gefaehrlich-ist-oppositionsfuehrer-peter-magyar-fuer-viktor-orban-a-e5beef95-f7b4-46b6-9827-12cae62742e8#ref=rss)
+### system
+
+* [https://www.spiegel.de/ausland/ungarn-wie-gefaehrlich-ist-oppositionsfuehrer-peter-magyar-fuer-viktor-orban](https://www.spiegel.de/ausland/ungarn-wie-gefaehrlich-ist-oppositionsfuehrer-peter-magyar-fuer-viktor-orban-a-e5beef95-f7b4-46b6-9827-12cae62742e8#ref=rss)
+### meer
+
+* [https://www.spiegel.de/politik/deutschland/rotes-meer-fregatte-hessen-beendet-einsatz-gegen-huthis](https://www.spiegel.de/politik/deutschland/rotes-meer-fregatte-hessen-beendet-einsatz-gegen-huthis-a-32678c0c-0c2a-405e-82b7-d21fbda41f32#ref=rss)
+### fregatte
+
+* [https://www.spiegel.de/politik/deutschland/rotes-meer-fregatte-hessen-beendet-einsatz-gegen-huthis](https://www.spiegel.de/politik/deutschland/rotes-meer-fregatte-hessen-beendet-einsatz-gegen-huthis-a-32678c0c-0c2a-405e-82b7-d21fbda41f32#ref=rss)
+### hessen
+
+* [https://www.spiegel.de/politik/deutschland/rotes-meer-fregatte-hessen-beendet-einsatz-gegen-huthis](https://www.spiegel.de/politik/deutschland/rotes-meer-fregatte-hessen-beendet-einsatz-gegen-huthis-a-32678c0c-0c2a-405e-82b7-d21fbda41f32#ref=rss)
+### einsatz
+
+* [https://www.spiegel.de/politik/deutschland/rotes-meer-fregatte-hessen-beendet-einsatz-gegen-huthis](https://www.spiegel.de/politik/deutschland/rotes-meer-fregatte-hessen-beendet-einsatz-gegen-huthis-a-32678c0c-0c2a-405e-82b7-d21fbda41f32#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/sport/formel1/formel-1-in-china-weltmeister-max-verstappen-siegt-souveraen-im-ersten-sprintrennen-der-saison](https://www.spiegel.de/sport/formel1/formel-1-in-china-weltmeister-max-verstappen-siegt-souveraen-im-ersten-sprintrennen-der-saison-a-40d18548-19ae-40c1-8977-3360b737c5b6#ref=rss)
+* [https://www.spiegel.de/ausland/kenia-wie-die-wirtschaftskrise-den-organhandel-florieren-laesst](https://www.spiegel.de/ausland/kenia-wie-die-wirtschaftskrise-den-organhandel-florieren-laesst-a-c40e0cdb-2ccc-4497-bf84-a900494fc7c8#ref=rss)
 ### academy
 
 * [https://www.spiegel.de/sport/formel1/formel-1-academy-carrie-schreiner-ueber-frauen-im-motorsport](https://www.spiegel.de/sport/formel1/formel-1-academy-carrie-schreiner-ueber-frauen-im-motorsport-a-1fa8d486-2c8e-401a-ac69-383880bfc77c#ref=rss)
@@ -243,76 +232,88 @@ tags: __no_header__
 ### frauen
 
 * [https://www.spiegel.de/sport/formel1/formel-1-academy-carrie-schreiner-ueber-frauen-im-motorsport](https://www.spiegel.de/sport/formel1/formel-1-academy-carrie-schreiner-ueber-frauen-im-motorsport-a-1fa8d486-2c8e-401a-ac69-383880bfc77c#ref=rss)
-### universität
+### reisen
 
-* [https://www.spiegel.de/panorama/bildung/polizei-raeumt-pro-palaestina-zeltlager-an-new-yorker-universitaet](https://www.spiegel.de/panorama/bildung/polizei-raeumt-pro-palaestina-zeltlager-an-new-yorker-universitaet-a-b5c53480-9a69-48e4-876f-0799e0063b50#ref=rss)
-### pforzheim
+* [https://www.spiegel.de/reise/staedte/reisen-ohne-googlemaps-und-apps-48-stunden-offline-in-amsterdam](https://www.spiegel.de/reise/staedte/reisen-ohne-googlemaps-und-apps-48-stunden-offline-in-amsterdam-a-fdb47d5b-4a85-427f-91db-694c8f7c43f8#ref=rss)
+### amsterdam
 
-* [https://www.spiegel.de/panorama/justiz/pforzheim-fixierter-patient-stirbt-bei-brand-sieben-klinikmitarbeiter-angeklagt](https://www.spiegel.de/panorama/justiz/pforzheim-fixierter-patient-stirbt-bei-brand-sieben-klinikmitarbeiter-angeklagt-a-0b19a5d6-c993-4026-a6f9-dac1a800d571#ref=rss)
-### bahn
+* [https://www.spiegel.de/reise/staedte/reisen-ohne-googlemaps-und-apps-48-stunden-offline-in-amsterdam](https://www.spiegel.de/reise/staedte/reisen-ohne-googlemaps-und-apps-48-stunden-offline-in-amsterdam-a-fdb47d5b-4a85-427f-91db-694c8f7c43f8#ref=rss)
+### podcast
 
-* [https://www.spiegel.de/panorama/deutsche-bahn-kontroverse-um-hohe-kosten-fuer-partys](https://www.spiegel.de/panorama/deutsche-bahn-kontroverse-um-hohe-kosten-fuer-partys-a-e553dc41-7bf9-47aa-8a8d-0e28476ada2f#ref=rss)
-### oskar
+* [https://www.spiegel.de/familie/streitkultur-heikle-themen-mit-familie-und-freundeskreis-besprechen-podcast](https://www.spiegel.de/familie/streitkultur-heikle-themen-mit-familie-und-freundeskreis-besprechen-podcast-a-74b44467-afd7-4bf0-82be-fcbeaf43e4e2#ref=rss)
+* [https://www.spiegel.de/ausland/antisemitismus-in-oesterreich-sind-juedinnen-und-juden-hier-noch-sicher-podcast](https://www.spiegel.de/ausland/antisemitismus-in-oesterreich-sind-juedinnen-und-juden-hier-noch-sicher-podcast-a-34917bbe-0f53-4519-97f2-47390699f23b#ref=rss)
+### mcfit
 
-* [https://www.spiegel.de/politik/deutschland/oskar-lafontaine-ueber-gerhard-schroeder-unterm-strich-schneidet-schroeder-nicht-schlecht-ab](https://www.spiegel.de/politik/deutschland/oskar-lafontaine-ueber-gerhard-schroeder-unterm-strich-schneidet-schroeder-nicht-schlecht-ab-a-b9684353-5af5-4249-a800-e85eba82461b#ref=rss)
-### lafontaine
+* [https://www.spiegel.de/wirtschaft/unternehmen/mcfit-preiserhoehung-per-drehkreuz-war-illegal](https://www.spiegel.de/wirtschaft/unternehmen/mcfit-preiserhoehung-per-drehkreuz-war-illegal-a-3311e9bf-0533-4c72-b276-7333701fed53#ref=rss)
+### preiserhöhung
 
-* [https://www.spiegel.de/politik/deutschland/oskar-lafontaine-ueber-gerhard-schroeder-unterm-strich-schneidet-schroeder-nicht-schlecht-ab](https://www.spiegel.de/politik/deutschland/oskar-lafontaine-ueber-gerhard-schroeder-unterm-strich-schneidet-schroeder-nicht-schlecht-ab-a-b9684353-5af5-4249-a800-e85eba82461b#ref=rss)
-### gerhard
+* [https://www.spiegel.de/wirtschaft/unternehmen/mcfit-preiserhoehung-per-drehkreuz-war-illegal](https://www.spiegel.de/wirtschaft/unternehmen/mcfit-preiserhoehung-per-drehkreuz-war-illegal-a-3311e9bf-0533-4c72-b276-7333701fed53#ref=rss)
+### per
 
-* [https://www.spiegel.de/politik/deutschland/oskar-lafontaine-ueber-gerhard-schroeder-unterm-strich-schneidet-schroeder-nicht-schlecht-ab](https://www.spiegel.de/politik/deutschland/oskar-lafontaine-ueber-gerhard-schroeder-unterm-strich-schneidet-schroeder-nicht-schlecht-ab-a-b9684353-5af5-4249-a800-e85eba82461b#ref=rss)
-### zivilgesellschaft
+* [https://www.spiegel.de/wirtschaft/unternehmen/mcfit-preiserhoehung-per-drehkreuz-war-illegal](https://www.spiegel.de/wirtschaft/unternehmen/mcfit-preiserhoehung-per-drehkreuz-war-illegal-a-3311e9bf-0533-4c72-b276-7333701fed53#ref=rss)
+### drehkreuz
 
-* [https://www.spiegel.de/ausland/georgien-tausende-demonstrieren-in-tbilissi-gegen-russischen-einfluss-und-einschraenkung-der-zivilgesellschaft](https://www.spiegel.de/ausland/georgien-tausende-demonstrieren-in-tbilissi-gegen-russischen-einfluss-und-einschraenkung-der-zivilgesellschaft-a-3b439437-a2b3-413a-bf01-d8098f852818#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/mcfit-preiserhoehung-per-drehkreuz-war-illegal](https://www.spiegel.de/wirtschaft/unternehmen/mcfit-preiserhoehung-per-drehkreuz-war-illegal-a-3311e9bf-0533-4c72-b276-7333701fed53#ref=rss)
+### sorgte
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/mcfit-preiserhoehung-per-drehkreuz-war-illegal](https://www.spiegel.de/wirtschaft/unternehmen/mcfit-preiserhoehung-per-drehkreuz-war-illegal-a-3311e9bf-0533-4c72-b276-7333701fed53#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-vor-gericht-auswahl-der-geschworenen-im-new-yorker-prozess-sorgt-fuer-aufsehen](https://www.spiegel.de/ausland/donald-trump-vor-gericht-auswahl-der-geschworenen-im-new-yorker-prozess-sorgt-fuer-aufsehen-a-33fbd3f3-28e4-4fcc-beb0-6fc8aa932cd9#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/mcfit-preiserhoehung-per-drehkreuz-war-illegal](https://www.spiegel.de/wirtschaft/unternehmen/mcfit-preiserhoehung-per-drehkreuz-war-illegal-a-3311e9bf-0533-4c72-b276-7333701fed53#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-vor-gericht-auswahl-der-geschworenen-im-new-yorker-prozess-sorgt-fuer-aufsehen](https://www.spiegel.de/ausland/donald-trump-vor-gericht-auswahl-der-geschworenen-im-new-yorker-prozess-sorgt-fuer-aufsehen-a-33fbd3f3-28e4-4fcc-beb0-6fc8aa932cd9#ref=rss)
 ### österreich
 
-* [https://www.spiegel.de/panorama/oesterreich-swingerklub-durfte-miete-mindern-weil-maskenpflicht-sex-erschwerte](https://www.spiegel.de/panorama/oesterreich-swingerklub-durfte-miete-mindern-weil-maskenpflicht-sex-erschwerte-a-dc3098a1-3078-497a-9b2f-737b270ded67#ref=rss)
-### swingerklub
+* [https://www.spiegel.de/ausland/antisemitismus-in-oesterreich-sind-juedinnen-und-juden-hier-noch-sicher-podcast](https://www.spiegel.de/ausland/antisemitismus-in-oesterreich-sind-juedinnen-und-juden-hier-noch-sicher-podcast-a-34917bbe-0f53-4519-97f2-47390699f23b#ref=rss)
+### fast
 
-* [https://www.spiegel.de/panorama/oesterreich-swingerklub-durfte-miete-mindern-weil-maskenpflicht-sex-erschwerte](https://www.spiegel.de/panorama/oesterreich-swingerklub-durfte-miete-mindern-weil-maskenpflicht-sex-erschwerte-a-dc3098a1-3078-497a-9b2f-737b270ded67#ref=rss)
-### miete
+* [https://www.spiegel.de/ausland/antisemitismus-in-oesterreich-sind-juedinnen-und-juden-hier-noch-sicher-podcast](https://www.spiegel.de/ausland/antisemitismus-in-oesterreich-sind-juedinnen-und-juden-hier-noch-sicher-podcast-a-34917bbe-0f53-4519-97f2-47390699f23b#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/bitcoin-halving-wichtiger-tag-fuer-die-kryptowaehrung-was-aendert-sich-fuer-bitcoin-fans](https://www.spiegel.de/netzwelt/web/bitcoin-halving-wichtiger-tag-fuer-die-kryptowaehrung-was-aendert-sich-fuer-bitcoin-fans-a-fc093f1d-1592-40f6-869f-da6676e895bd#ref=rss)
+### kenia
 
-* [https://www.spiegel.de/panorama/oesterreich-swingerklub-durfte-miete-mindern-weil-maskenpflicht-sex-erschwerte](https://www.spiegel.de/panorama/oesterreich-swingerklub-durfte-miete-mindern-weil-maskenpflicht-sex-erschwerte-a-dc3098a1-3078-497a-9b2f-737b270ded67#ref=rss)
-### maskenpflicht
+* [https://www.spiegel.de/ausland/kenia-wie-die-wirtschaftskrise-den-organhandel-florieren-laesst](https://www.spiegel.de/ausland/kenia-wie-die-wirtschaftskrise-den-organhandel-florieren-laesst-a-c40e0cdb-2ccc-4497-bf84-a900494fc7c8#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/panorama/oesterreich-swingerklub-durfte-miete-mindern-weil-maskenpflicht-sex-erschwerte](https://www.spiegel.de/panorama/oesterreich-swingerklub-durfte-miete-mindern-weil-maskenpflicht-sex-erschwerte-a-dc3098a1-3078-497a-9b2f-737b270ded67#ref=rss)
-### fähre
+* [https://www.spiegel.de/ausland/kenia-wie-die-wirtschaftskrise-den-organhandel-florieren-laesst](https://www.spiegel.de/ausland/kenia-wie-die-wirtschaftskrise-den-organhandel-florieren-laesst-a-c40e0cdb-2ccc-4497-bf84-a900494fc7c8#ref=rss)
+* [https://www.spiegel.de/ausland/irak-militaerstuetzpunkt-suedlich-von-bagdad-angegriffen-ein-toter](https://www.spiegel.de/ausland/irak-militaerstuetzpunkt-suedlich-von-bagdad-angegriffen-ein-toter-a-b878624d-6690-4315-9d32-d3f2bfa4209f#ref=rss)
+### zentrum
 
-* [https://www.spiegel.de/panorama/italien-faehre-von-capri-prallt-in-neapel-auf-anlegestelle](https://www.spiegel.de/panorama/italien-faehre-von-capri-prallt-in-neapel-auf-anlegestelle-a-d39d363b-db09-4e90-908e-263a24ae43f8#ref=rss)
-### wetterdienst
+* [https://www.spiegel.de/panorama/deutsches-zentrum-fuer-luft-und-raumfahrt-sucht-freiwillige-die-sich-zwei-monate-ins-bett-legen](https://www.spiegel.de/panorama/deutsches-zentrum-fuer-luft-und-raumfahrt-sucht-freiwillige-die-sich-zwei-monate-ins-bett-legen-a-6be1ae68-d47e-4704-8c0c-a288950dfca2#ref=rss)
+### luft
 
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-deutscher-wetterdienst-rechnet-am-wochenende-mit-vielen-schauern](https://www.spiegel.de/panorama/wetter-in-deutschland-deutscher-wetterdienst-rechnet-am-wochenende-mit-vielen-schauern-a-220960c2-a4ab-4353-a6e9-06f71bf631f3#ref=rss)
-### rechnet
+* [https://www.spiegel.de/panorama/deutsches-zentrum-fuer-luft-und-raumfahrt-sucht-freiwillige-die-sich-zwei-monate-ins-bett-legen](https://www.spiegel.de/panorama/deutsches-zentrum-fuer-luft-und-raumfahrt-sucht-freiwillige-die-sich-zwei-monate-ins-bett-legen-a-6be1ae68-d47e-4704-8c0c-a288950dfca2#ref=rss)
+### raumfahrt
 
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-deutscher-wetterdienst-rechnet-am-wochenende-mit-vielen-schauern](https://www.spiegel.de/panorama/wetter-in-deutschland-deutscher-wetterdienst-rechnet-am-wochenende-mit-vielen-schauern-a-220960c2-a4ab-4353-a6e9-06f71bf631f3#ref=rss)
-### wochenende
+* [https://www.spiegel.de/panorama/deutsches-zentrum-fuer-luft-und-raumfahrt-sucht-freiwillige-die-sich-zwei-monate-ins-bett-legen](https://www.spiegel.de/panorama/deutsches-zentrum-fuer-luft-und-raumfahrt-sucht-freiwillige-die-sich-zwei-monate-ins-bett-legen-a-6be1ae68-d47e-4704-8c0c-a288950dfca2#ref=rss)
+### sucht
 
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-deutscher-wetterdienst-rechnet-am-wochenende-mit-vielen-schauern](https://www.spiegel.de/panorama/wetter-in-deutschland-deutscher-wetterdienst-rechnet-am-wochenende-mit-vielen-schauern-a-220960c2-a4ab-4353-a6e9-06f71bf631f3#ref=rss)
-### vielen
+* [https://www.spiegel.de/panorama/deutsches-zentrum-fuer-luft-und-raumfahrt-sucht-freiwillige-die-sich-zwei-monate-ins-bett-legen](https://www.spiegel.de/panorama/deutsches-zentrum-fuer-luft-und-raumfahrt-sucht-freiwillige-die-sich-zwei-monate-ins-bett-legen-a-6be1ae68-d47e-4704-8c0c-a288950dfca2#ref=rss)
+### freiwillige
 
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-deutscher-wetterdienst-rechnet-am-wochenende-mit-vielen-schauern](https://www.spiegel.de/panorama/wetter-in-deutschland-deutscher-wetterdienst-rechnet-am-wochenende-mit-vielen-schauern-a-220960c2-a4ab-4353-a6e9-06f71bf631f3#ref=rss)
-### schauern
+* [https://www.spiegel.de/panorama/deutsches-zentrum-fuer-luft-und-raumfahrt-sucht-freiwillige-die-sich-zwei-monate-ins-bett-legen](https://www.spiegel.de/panorama/deutsches-zentrum-fuer-luft-und-raumfahrt-sucht-freiwillige-die-sich-zwei-monate-ins-bett-legen-a-6be1ae68-d47e-4704-8c0c-a288950dfca2#ref=rss)
+### bett
 
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-deutscher-wetterdienst-rechnet-am-wochenende-mit-vielen-schauern](https://www.spiegel.de/panorama/wetter-in-deutschland-deutscher-wetterdienst-rechnet-am-wochenende-mit-vielen-schauern-a-220960c2-a4ab-4353-a6e9-06f71bf631f3#ref=rss)
-### lukas
+* [https://www.spiegel.de/panorama/deutsches-zentrum-fuer-luft-und-raumfahrt-sucht-freiwillige-die-sich-zwei-monate-ins-bett-legen](https://www.spiegel.de/panorama/deutsches-zentrum-fuer-luft-und-raumfahrt-sucht-freiwillige-die-sich-zwei-monate-ins-bett-legen-a-6be1ae68-d47e-4704-8c0c-a288950dfca2#ref=rss)
+### legen
 
-* [https://www.spiegel.de/sport/fussball/lukas-podolski-bei-gornik-zabrze-der-fussballheld-wird-jetzt-wahlkampfhelfer](https://www.spiegel.de/sport/fussball/lukas-podolski-bei-gornik-zabrze-der-fussballheld-wird-jetzt-wahlkampfhelfer-a-b58f8063-6d22-423e-8f68-4f0230847920#ref=rss)
-### podolski
+* [https://www.spiegel.de/panorama/deutsches-zentrum-fuer-luft-und-raumfahrt-sucht-freiwillige-die-sich-zwei-monate-ins-bett-legen](https://www.spiegel.de/panorama/deutsches-zentrum-fuer-luft-und-raumfahrt-sucht-freiwillige-die-sich-zwei-monate-ins-bett-legen-a-6be1ae68-d47e-4704-8c0c-a288950dfca2#ref=rss)
+### irak
 
-* [https://www.spiegel.de/sport/fussball/lukas-podolski-bei-gornik-zabrze-der-fussballheld-wird-jetzt-wahlkampfhelfer](https://www.spiegel.de/sport/fussball/lukas-podolski-bei-gornik-zabrze-der-fussballheld-wird-jetzt-wahlkampfhelfer-a-b58f8063-6d22-423e-8f68-4f0230847920#ref=rss)
-### górnik
+* [https://www.spiegel.de/ausland/irak-militaerstuetzpunkt-suedlich-von-bagdad-angegriffen-ein-toter](https://www.spiegel.de/ausland/irak-militaerstuetzpunkt-suedlich-von-bagdad-angegriffen-ein-toter-a-b878624d-6690-4315-9d32-d3f2bfa4209f#ref=rss)
+### halbiert
 
-* [https://www.spiegel.de/sport/fussball/lukas-podolski-bei-gornik-zabrze-der-fussballheld-wird-jetzt-wahlkampfhelfer](https://www.spiegel.de/sport/fussball/lukas-podolski-bei-gornik-zabrze-der-fussballheld-wird-jetzt-wahlkampfhelfer-a-b58f8063-6d22-423e-8f68-4f0230847920#ref=rss)
-### zabrze
+* [https://www.spiegel.de/karriere/gehalt-im-nachhaltigkeitssektor-ex-porsche-mitarbeiter-halbiert-sein-einkommen](https://www.spiegel.de/karriere/gehalt-im-nachhaltigkeitssektor-ex-porsche-mitarbeiter-halbiert-sein-einkommen-a-c88412a3-029b-4e6b-8182-4eb5826948c4#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/bitcoin-halving-wichtiger-tag-fuer-die-kryptowaehrung-was-aendert-sich-fuer-bitcoin-fans](https://www.spiegel.de/netzwelt/web/bitcoin-halving-wichtiger-tag-fuer-die-kryptowaehrung-was-aendert-sich-fuer-bitcoin-fans-a-fc093f1d-1592-40f6-869f-da6676e895bd#ref=rss)
+### auswahl
 
-* [https://www.spiegel.de/sport/fussball/lukas-podolski-bei-gornik-zabrze-der-fussballheld-wird-jetzt-wahlkampfhelfer](https://www.spiegel.de/sport/fussball/lukas-podolski-bei-gornik-zabrze-der-fussballheld-wird-jetzt-wahlkampfhelfer-a-b58f8063-6d22-423e-8f68-4f0230847920#ref=rss)
-### sorry3000
+* [https://www.spiegel.de/ausland/donald-trump-vor-gericht-auswahl-der-geschworenen-im-new-yorker-prozess-sorgt-fuer-aufsehen](https://www.spiegel.de/ausland/donald-trump-vor-gericht-auswahl-der-geschworenen-im-new-yorker-prozess-sorgt-fuer-aufsehen-a-33fbd3f3-28e4-4fcc-beb0-6fc8aa932cd9#ref=rss)
+### iran
 
-* [https://www.spiegel.de/kultur/musik/sorry3000-pearl-jam-dews-stefanie-schrank-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/sorry3000-pearl-jam-dews-stefanie-schrank-abgehoert-album-der-woche-a-b0e6893e-d5eb-421e-98cf-4665f972f1c1#ref=rss)
-### pearl
+* [https://www.spiegel.de/politik/deutschland/news-ukraine-hilfspaket-der-usa-eskalationspause-zwischen-iran-und-israel-cannabis-feiertag-420](https://www.spiegel.de/politik/deutschland/news-ukraine-hilfspaket-der-usa-eskalationspause-zwischen-iran-und-israel-cannabis-feiertag-420-a-f4136500-f274-4fb5-b667-26842a170c7f#ref=rss)
+### israel
 
-* [https://www.spiegel.de/kultur/musik/sorry3000-pearl-jam-dews-stefanie-schrank-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/sorry3000-pearl-jam-dews-stefanie-schrank-abgehoert-album-der-woche-a-b0e6893e-d5eb-421e-98cf-4665f972f1c1#ref=rss)
-### jam
+* [https://www.spiegel.de/politik/deutschland/news-ukraine-hilfspaket-der-usa-eskalationspause-zwischen-iran-und-israel-cannabis-feiertag-420](https://www.spiegel.de/politik/deutschland/news-ukraine-hilfspaket-der-usa-eskalationspause-zwischen-iran-und-israel-cannabis-feiertag-420-a-f4136500-f274-4fb5-b667-26842a170c7f#ref=rss)
+### bitcoinfans
 
-* [https://www.spiegel.de/kultur/musik/sorry3000-pearl-jam-dews-stefanie-schrank-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/sorry3000-pearl-jam-dews-stefanie-schrank-abgehoert-album-der-woche-a-b0e6893e-d5eb-421e-98cf-4665f972f1c1#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/bitcoin-halving-wichtiger-tag-fuer-die-kryptowaehrung-was-aendert-sich-fuer-bitcoin-fans](https://www.spiegel.de/netzwelt/web/bitcoin-halving-wichtiger-tag-fuer-die-kryptowaehrung-was-aendert-sich-fuer-bitcoin-fans-a-fc093f1d-1592-40f6-869f-da6676e895bd#ref=rss)
 
