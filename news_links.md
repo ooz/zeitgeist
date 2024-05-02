@@ -4,331 +4,367 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### arbeit
-
-* [https://www.spiegel.de/start/ueberstunden-im-job-warum-sie-ungesund-und-unproduktiv-sind-kolumne](https://www.spiegel.de/start/ueberstunden-im-job-warum-sie-ungesund-und-unproduktiv-sind-kolumne-a-bae4958b-488f-4d35-8649-2b544a7a3365#ref=rss)
-* [https://www.spiegel.de/karriere/tag-der-arbeit-zehn-gute-und-zehn-schlechte-tipps-fuer-erfolg-im-job](https://www.spiegel.de/karriere/tag-der-arbeit-zehn-gute-und-zehn-schlechte-tipps-fuer-erfolg-im-job-a-40d1f799-0784-45e7-b8f5-3d2b6ac00997#ref=rss)
-* [https://www.spiegel.de/panorama/1-mai-demonstrationen-zum-tag-der-arbeit-in-vielen-deutschen-staedten-gestartet](https://www.spiegel.de/panorama/1-mai-demonstrationen-zum-tag-der-arbeit-in-vielen-deutschen-staedten-gestartet-a-c3c124f7-b876-4ec2-bd8e-3a8955e585a6#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/london-lange-haft-fuer-ex-polizisten-wegen-vergewaltigungen](https://www.spiegel.de/panorama/london-lange-haft-fuer-ex-polizisten-wegen-vergewaltigungen-a-b836c85e-8089-424d-bd15-74999f928b52#ref=rss)
-* [https://www.spiegel.de/ausland/propalaestinensische-uni-proteste-in-new-york-300-festnahmen](https://www.spiegel.de/ausland/propalaestinensische-uni-proteste-in-new-york-300-festnahmen-a-631cf1a1-4dbb-4766-94b3-ce54206a0f8a#ref=rss)
-* [https://www.spiegel.de/ausland/istanbul-tuerkische-polizei-setzt-traenengas-gegen-mai-demonstranten-ein](https://www.spiegel.de/ausland/istanbul-tuerkische-polizei-setzt-traenengas-gegen-mai-demonstranten-ein-a-011091df-0046-4250-b902-e6378c5c90fb#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/sport/basketball/zwei-jahre-nach-aufstieg-alba-berlins-basketballerinnen-sind-erstmals-deutscher-meister](https://www.spiegel.de/sport/basketball/zwei-jahre-nach-aufstieg-alba-berlins-basketballerinnen-sind-erstmals-deutscher-meister-a-fd3c20fb-99d8-454b-881b-1d9bfa4747dc#ref=rss)
-* [https://www.spiegel.de/kultur/kino/matthias-glasner-der-sterben-regisseur-ueber-mutterliebe-und-elternstolz](https://www.spiegel.de/kultur/kino/matthias-glasner-der-sterben-regisseur-ueber-mutterliebe-und-elternstolz-a-6f218a22-d921-49b5-868c-9b979b2a83b5#ref=rss)
-* [https://www.spiegel.de/panorama/1-mai-demonstrationen-zum-tag-der-arbeit-in-vielen-deutschen-staedten-gestartet](https://www.spiegel.de/panorama/1-mai-demonstrationen-zum-tag-der-arbeit-in-vielen-deutschen-staedten-gestartet-a-c3c124f7-b876-4ec2-bd8e-3a8955e585a6#ref=rss)
-### hsv
-
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-strikte-kleiderordnung-fuer-st-pauli-fans-gegen-hsv](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-strikte-kleiderordnung-fuer-st-pauli-fans-gegen-hsv-a-0734a4f3-3b60-4d0e-ad48-54f86a01a626#ref=rss)
-* [https://www.spiegel.de/sport/handball/hsv-handball-wie-schlimm-steht-es-finanziell-um-den-hsv-handball](https://www.spiegel.de/sport/handball/hsv-handball-wie-schlimm-steht-es-finanziell-um-den-hsv-handball-a-8ce51ff5-5078-465a-bb6c-5dd3819d7d49#ref=rss)
-### deutschlandticket
-
-* [https://www.spiegel.de/auto/deutschlandticket-so-kommt-der-49-euro-fahrschein-in-die-doerfer](https://www.spiegel.de/auto/deutschlandticket-so-kommt-der-49-euro-fahrschein-in-die-doerfer-a-6d75c279-1a96-4513-ba00-573be5ca050b#ref=rss)
-* [https://www.spiegel.de/auto/deutschlandticket-erfahrungen-frueher-haette-ich-ganz-selbstverstaendlich-das-auto-genommen](https://www.spiegel.de/auto/deutschlandticket-erfahrungen-frueher-haette-ich-ganz-selbstverstaendlich-das-auto-genommen-a-34fc8d41-c092-4f3a-b627-e55241175efc#ref=rss)
-### eu
-
-* [https://www.spiegel.de/wirtschaft/service/agrarfoerderung-in-der-eu-umweltauflagen-fuer-landwirte-aufgeweicht](https://www.spiegel.de/wirtschaft/service/agrarfoerderung-in-der-eu-umweltauflagen-fuer-landwirte-aufgeweicht-a-15fb1d89-5386-4757-9063-ab81291d2ac8#ref=rss)
-* [https://www.spiegel.de/ausland/polens-praesident-andrzej-duda-spricht-sich-fuer-neue-eu-osterweiterung-aus](https://www.spiegel.de/ausland/polens-praesident-andrzej-duda-spricht-sich-fuer-neue-eu-osterweiterung-aus-a-9993f4b1-a18a-4cd4-82fe-e5062763217a#ref=rss)
-### job
-
-* [https://www.spiegel.de/start/ueberstunden-im-job-warum-sie-ungesund-und-unproduktiv-sind-kolumne](https://www.spiegel.de/start/ueberstunden-im-job-warum-sie-ungesund-und-unproduktiv-sind-kolumne-a-bae4958b-488f-4d35-8649-2b544a7a3365#ref=rss)
-* [https://www.spiegel.de/panorama/london-lange-haft-fuer-ex-polizisten-wegen-vergewaltigungen](https://www.spiegel.de/panorama/london-lange-haft-fuer-ex-polizisten-wegen-vergewaltigungen-a-b836c85e-8089-424d-bd15-74999f928b52#ref=rss)
-* [https://www.spiegel.de/karriere/tag-der-arbeit-zehn-gute-und-zehn-schlechte-tipps-fuer-erfolg-im-job](https://www.spiegel.de/karriere/tag-der-arbeit-zehn-gute-und-zehn-schlechte-tipps-fuer-erfolg-im-job-a-40d1f799-0784-45e7-b8f5-3d2b6ac00997#ref=rss)
-### mann
-
-* [https://www.spiegel.de/familie/pflege-und-tod-von-angehoerigen-ich-durfte-alles-sein-aber-wuetend-nie](https://www.spiegel.de/familie/pflege-und-tod-von-angehoerigen-ich-durfte-alles-sein-aber-wuetend-nie-a-62874066-bc32-47a4-84d3-7c552a9fad9e#ref=rss)
-* [https://www.spiegel.de/panorama/peine-mann-wird-in-niedersachsen-von-zug-ueberrollt-und-toedlich-verletzt](https://www.spiegel.de/panorama/peine-mann-wird-in-niedersachsen-von-zug-ueberrollt-und-toedlich-verletzt-a-644633d2-545b-4fae-9ede-3cdee2fe4604#ref=rss)
-### zeit
-
-* [https://www.spiegel.de/familie/pflege-und-tod-von-angehoerigen-ich-durfte-alles-sein-aber-wuetend-nie](https://www.spiegel.de/familie/pflege-und-tod-von-angehoerigen-ich-durfte-alles-sein-aber-wuetend-nie-a-62874066-bc32-47a4-84d3-7c552a9fad9e#ref=rss)
-* [https://www.spiegel.de/karriere/tag-der-arbeit-zehn-gute-und-zehn-schlechte-tipps-fuer-erfolg-im-job](https://www.spiegel.de/karriere/tag-der-arbeit-zehn-gute-und-zehn-schlechte-tipps-fuer-erfolg-im-job-a-40d1f799-0784-45e7-b8f5-3d2b6ac00997#ref=rss)
-### vielen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/wegovy-mounjaro-und-co-kommt-nach-der-abnehmspritze-bald-die-schlankheitspille](https://www.spiegel.de/wirtschaft/unternehmen/wegovy-mounjaro-und-co-kommt-nach-der-abnehmspritze-bald-die-schlankheitspille-a-8d2b1f3f-ec7c-4888-86ae-5494aab96f0e#ref=rss)
-* [https://www.spiegel.de/panorama/1-mai-demonstrationen-zum-tag-der-arbeit-in-vielen-deutschen-staedten-gestartet](https://www.spiegel.de/panorama/1-mai-demonstrationen-zum-tag-der-arbeit-in-vielen-deutschen-staedten-gestartet-a-c3c124f7-b876-4ec2-bd8e-3a8955e585a6#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/sport/basketball/zwei-jahre-nach-aufstieg-alba-berlins-basketballerinnen-sind-erstmals-deutscher-meister](https://www.spiegel.de/sport/basketball/zwei-jahre-nach-aufstieg-alba-berlins-basketballerinnen-sind-erstmals-deutscher-meister-a-fd3c20fb-99d8-454b-881b-1d9bfa4747dc#ref=rss)
-* [https://www.spiegel.de/ausland/polens-praesident-andrzej-duda-spricht-sich-fuer-neue-eu-osterweiterung-aus](https://www.spiegel.de/ausland/polens-praesident-andrzej-duda-spricht-sich-fuer-neue-eu-osterweiterung-aus-a-9993f4b1-a18a-4cd4-82fe-e5062763217a#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/75-jahre-grundgesetz-wurden-die-ostdeutschen-nach-der-wende-uebergangen](https://www.spiegel.de/panorama/gesellschaft/75-jahre-grundgesetz-wurden-die-ostdeutschen-nach-der-wende-uebergangen-a-683e222d-36c6-4d4e-b6de-78004512ff57#ref=rss)
-### erst
-
-* [https://www.spiegel.de/sport/basketball/zwei-jahre-nach-aufstieg-alba-berlins-basketballerinnen-sind-erstmals-deutscher-meister](https://www.spiegel.de/sport/basketball/zwei-jahre-nach-aufstieg-alba-berlins-basketballerinnen-sind-erstmals-deutscher-meister-a-fd3c20fb-99d8-454b-881b-1d9bfa4747dc#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-verwirrung-um-trainer-bjelicas-zukunft-bei-union-berlin](https://www.spiegel.de/sport/fussball/fussball-bundesliga-verwirrung-um-trainer-bjelicas-zukunft-bei-union-berlin-a-6b61fb54-1e07-4d6c-882f-ffd9680a3c8c#ref=rss)
-* [https://www.spiegel.de/ausland/italien-regierung-zahlt-einer-million-familien-100-euro-bonus](https://www.spiegel.de/ausland/italien-regierung-zahlt-einer-million-familien-100-euro-bonus-a-007b382d-9ed2-463a-b775-55079b48e84d#ref=rss)
-### unfall
-
-* [https://www.spiegel.de/panorama/peine-mann-wird-in-niedersachsen-von-zug-ueberrollt-und-toedlich-verletzt](https://www.spiegel.de/panorama/peine-mann-wird-in-niedersachsen-von-zug-ueberrollt-und-toedlich-verletzt-a-644633d2-545b-4fae-9ede-3cdee2fe4604#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/kandern-rund-30-verletzte-bei-unfall-mit-maiwagen-in-suedbaden](https://www.spiegel.de/panorama/justiz/kandern-rund-30-verletzte-bei-unfall-mit-maiwagen-in-suedbaden-a-38dc7a27-d430-4298-8acb-990d87a9ec7a#ref=rss)
-### columbia
-
-* [https://www.spiegel.de/panorama/gesellschaft/propalaestinensische-protese-an-der-columbia-university-in-new-york-professorin-clauda-breger-berichtet-von-ihrer-uni-im-ausnahmezustand](https://www.spiegel.de/panorama/gesellschaft/propalaestinensische-protese-an-der-columbia-university-in-new-york-professorin-clauda-breger-berichtet-von-ihrer-uni-im-ausnahmezustand-a-d1ce3c88-f2c3-4476-bef9-7c7b5ada7df5#ref=rss)
-* [https://www.spiegel.de/ausland/propalaestinensische-uni-proteste-in-new-york-300-festnahmen](https://www.spiegel.de/ausland/propalaestinensische-uni-proteste-in-new-york-300-festnahmen-a-631cf1a1-4dbb-4766-94b3-ce54206a0f8a#ref=rss)
-### university
-
-* [https://www.spiegel.de/panorama/gesellschaft/propalaestinensische-protese-an-der-columbia-university-in-new-york-professorin-clauda-breger-berichtet-von-ihrer-uni-im-ausnahmezustand](https://www.spiegel.de/panorama/gesellschaft/propalaestinensische-protese-an-der-columbia-university-in-new-york-professorin-clauda-breger-berichtet-von-ihrer-uni-im-ausnahmezustand-a-d1ce3c88-f2c3-4476-bef9-7c7b5ada7df5#ref=rss)
-* [https://www.spiegel.de/ausland/propalaestinensische-uni-proteste-in-new-york-300-festnahmen](https://www.spiegel.de/ausland/propalaestinensische-uni-proteste-in-new-york-300-festnahmen-a-631cf1a1-4dbb-4766-94b3-ce54206a0f8a#ref=rss)
-### new
-
-* [https://www.spiegel.de/panorama/gesellschaft/propalaestinensische-protese-an-der-columbia-university-in-new-york-professorin-clauda-breger-berichtet-von-ihrer-uni-im-ausnahmezustand](https://www.spiegel.de/panorama/gesellschaft/propalaestinensische-protese-an-der-columbia-university-in-new-york-professorin-clauda-breger-berichtet-von-ihrer-uni-im-ausnahmezustand-a-d1ce3c88-f2c3-4476-bef9-7c7b5ada7df5#ref=rss)
-* [https://www.spiegel.de/ausland/propalaestinensische-uni-proteste-in-new-york-300-festnahmen](https://www.spiegel.de/ausland/propalaestinensische-uni-proteste-in-new-york-300-festnahmen-a-631cf1a1-4dbb-4766-94b3-ce54206a0f8a#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/auto/deutschlandticket-erfahrungen-frueher-haette-ich-ganz-selbstverstaendlich-das-auto-genommen](https://www.spiegel.de/auto/deutschlandticket-erfahrungen-frueher-haette-ich-ganz-selbstverstaendlich-das-auto-genommen-a-34fc8d41-c092-4f3a-b627-e55241175efc#ref=rss)
-* [https://www.spiegel.de/panorama/1-mai-demonstrationen-zum-tag-der-arbeit-in-vielen-deutschen-staedten-gestartet](https://www.spiegel.de/panorama/1-mai-demonstrationen-zum-tag-der-arbeit-in-vielen-deutschen-staedten-gestartet-a-c3c124f7-b876-4ec2-bd8e-3a8955e585a6#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/kandern-rund-30-verletzte-bei-unfall-mit-maiwagen-in-suedbaden](https://www.spiegel.de/panorama/justiz/kandern-rund-30-verletzte-bei-unfall-mit-maiwagen-in-suedbaden-a-38dc7a27-d430-4298-8acb-990d87a9ec7a#ref=rss)
-### handball
-
-* [https://www.spiegel.de/sport/handball/hsv-handball-wie-schlimm-steht-es-finanziell-um-den-hsv-handball](https://www.spiegel.de/sport/handball/hsv-handball-wie-schlimm-steht-es-finanziell-um-den-hsv-handball-a-8ce51ff5-5078-465a-bb6c-5dd3819d7d49#ref=rss)
-### tag
-
-* [https://www.spiegel.de/karriere/tag-der-arbeit-zehn-gute-und-zehn-schlechte-tipps-fuer-erfolg-im-job](https://www.spiegel.de/karriere/tag-der-arbeit-zehn-gute-und-zehn-schlechte-tipps-fuer-erfolg-im-job-a-40d1f799-0784-45e7-b8f5-3d2b6ac00997#ref=rss)
-* [https://www.spiegel.de/panorama/1-mai-demonstrationen-zum-tag-der-arbeit-in-vielen-deutschen-staedten-gestartet](https://www.spiegel.de/panorama/1-mai-demonstrationen-zum-tag-der-arbeit-in-vielen-deutschen-staedten-gestartet-a-c3c124f7-b876-4ec2-bd8e-3a8955e585a6#ref=rss)
-### dörfer
-
-* [https://www.spiegel.de/auto/deutschlandticket-so-kommt-der-49-euro-fahrschein-in-die-doerfer](https://www.spiegel.de/auto/deutschlandticket-so-kommt-der-49-euro-fahrschein-in-die-doerfer-a-6d75c279-1a96-4513-ba00-573be5ca050b#ref=rss)
-### hilft
-
-* [https://www.spiegel.de/auto/deutschlandticket-so-kommt-der-49-euro-fahrschein-in-die-doerfer](https://www.spiegel.de/auto/deutschlandticket-so-kommt-der-49-euro-fahrschein-in-die-doerfer-a-6d75c279-1a96-4513-ba00-573be5ca050b#ref=rss)
-* [https://www.spiegel.de/start/ueberstunden-im-job-warum-sie-ungesund-und-unproduktiv-sind-kolumne](https://www.spiegel.de/start/ueberstunden-im-job-warum-sie-ungesund-und-unproduktiv-sind-kolumne-a-bae4958b-488f-4d35-8649-2b544a7a3365#ref=rss)
-### barbra
-
-* [https://www.spiegel.de/panorama/leute/barbra-streisand-zu-melissa-mccarthy-hast-du-ozempic-genommen](https://www.spiegel.de/panorama/leute/barbra-streisand-zu-melissa-mccarthy-hast-du-ozempic-genommen-a-e364f7d6-f8a4-400a-8ebd-826c303ef0d7#ref=rss)
-### streisand
-
-* [https://www.spiegel.de/panorama/leute/barbra-streisand-zu-melissa-mccarthy-hast-du-ozempic-genommen](https://www.spiegel.de/panorama/leute/barbra-streisand-zu-melissa-mccarthy-hast-du-ozempic-genommen-a-e364f7d6-f8a4-400a-8ebd-826c303ef0d7#ref=rss)
-### melissa
-
-* [https://www.spiegel.de/panorama/leute/barbra-streisand-zu-melissa-mccarthy-hast-du-ozempic-genommen](https://www.spiegel.de/panorama/leute/barbra-streisand-zu-melissa-mccarthy-hast-du-ozempic-genommen-a-e364f7d6-f8a4-400a-8ebd-826c303ef0d7#ref=rss)
-### mccarthy
-
-* [https://www.spiegel.de/panorama/leute/barbra-streisand-zu-melissa-mccarthy-hast-du-ozempic-genommen](https://www.spiegel.de/panorama/leute/barbra-streisand-zu-melissa-mccarthy-hast-du-ozempic-genommen-a-e364f7d6-f8a4-400a-8ebd-826c303ef0d7#ref=rss)
-### genommen
-
-* [https://www.spiegel.de/panorama/leute/barbra-streisand-zu-melissa-mccarthy-hast-du-ozempic-genommen](https://www.spiegel.de/panorama/leute/barbra-streisand-zu-melissa-mccarthy-hast-du-ozempic-genommen-a-e364f7d6-f8a4-400a-8ebd-826c303ef0d7#ref=rss)
-* [https://www.spiegel.de/auto/deutschlandticket-erfahrungen-frueher-haette-ich-ganz-selbstverstaendlich-das-auto-genommen](https://www.spiegel.de/auto/deutschlandticket-erfahrungen-frueher-haette-ich-ganz-selbstverstaendlich-das-auto-genommen-a-34fc8d41-c092-4f3a-b627-e55241175efc#ref=rss)
-### ganz
-
-* [https://www.spiegel.de/panorama/leute/barbra-streisand-zu-melissa-mccarthy-hast-du-ozempic-genommen](https://www.spiegel.de/panorama/leute/barbra-streisand-zu-melissa-mccarthy-hast-du-ozempic-genommen-a-e364f7d6-f8a4-400a-8ebd-826c303ef0d7#ref=rss)
-* [https://www.spiegel.de/auto/deutschlandticket-erfahrungen-frueher-haette-ich-ganz-selbstverstaendlich-das-auto-genommen](https://www.spiegel.de/auto/deutschlandticket-erfahrungen-frueher-haette-ich-ganz-selbstverstaendlich-das-auto-genommen-a-34fc8d41-c092-4f3a-b627-e55241175efc#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/elektroauto-ladenhueter-statt-hoffnungstraeger-der-mobilitaetswende-spiegel-tv](https://www.spiegel.de/wirtschaft/elektroauto-ladenhueter-statt-hoffnungstraeger-der-mobilitaetswende-spiegel-tv-a-72b87712-76ce-42cd-9ff6-9588b9020da0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/zuwanderung-in-diesen-13-staaten-sucht-deutschland-nach-fachleuten](https://www.spiegel.de/wirtschaft/zuwanderung-in-diesen-13-staaten-sucht-deutschland-nach-fachleuten-a-11e9a97b-77d4-4bc9-b349-679d6a68bc13#ref=rss)
-### umweltauflagen
-
-* [https://www.spiegel.de/wirtschaft/service/agrarfoerderung-in-der-eu-umweltauflagen-fuer-landwirte-aufgeweicht](https://www.spiegel.de/wirtschaft/service/agrarfoerderung-in-der-eu-umweltauflagen-fuer-landwirte-aufgeweicht-a-15fb1d89-5386-4757-9063-ab81291d2ac8#ref=rss)
-### antony
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-antony-blinken-mahnt-die-hamas-den-neuen-geiseldeal-anzunehmen](https://www.spiegel.de/ausland/israel-gaza-krieg-antony-blinken-mahnt-die-hamas-den-neuen-geiseldeal-anzunehmen-a-41d381d4-5291-4261-9c73-6722ebfcdbcd#ref=rss)
-### blinken
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-antony-blinken-mahnt-die-hamas-den-neuen-geiseldeal-anzunehmen](https://www.spiegel.de/ausland/israel-gaza-krieg-antony-blinken-mahnt-die-hamas-den-neuen-geiseldeal-anzunehmen-a-41d381d4-5291-4261-9c73-6722ebfcdbcd#ref=rss)
-### hamas
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-antony-blinken-mahnt-die-hamas-den-neuen-geiseldeal-anzunehmen](https://www.spiegel.de/ausland/israel-gaza-krieg-antony-blinken-mahnt-die-hamas-den-neuen-geiseldeal-anzunehmen-a-41d381d4-5291-4261-9c73-6722ebfcdbcd#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-antony-blinken-mahnt-die-hamas-den-neuen-geiseldeal-anzunehmen](https://www.spiegel.de/ausland/israel-gaza-krieg-antony-blinken-mahnt-die-hamas-den-neuen-geiseldeal-anzunehmen-a-41d381d4-5291-4261-9c73-6722ebfcdbcd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/zuwanderung-in-diesen-13-staaten-sucht-deutschland-nach-fachleuten](https://www.spiegel.de/wirtschaft/zuwanderung-in-diesen-13-staaten-sucht-deutschland-nach-fachleuten-a-11e9a97b-77d4-4bc9-b349-679d6a68bc13#ref=rss)
-### liege
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-antony-blinken-mahnt-die-hamas-den-neuen-geiseldeal-anzunehmen](https://www.spiegel.de/ausland/israel-gaza-krieg-antony-blinken-mahnt-die-hamas-den-neuen-geiseldeal-anzunehmen-a-41d381d4-5291-4261-9c73-6722ebfcdbcd#ref=rss)
-### sehr
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-antony-blinken-mahnt-die-hamas-den-neuen-geiseldeal-anzunehmen](https://www.spiegel.de/ausland/israel-gaza-krieg-antony-blinken-mahnt-die-hamas-den-neuen-geiseldeal-anzunehmen-a-41d381d4-5291-4261-9c73-6722ebfcdbcd#ref=rss)
-### allein
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-antony-blinken-mahnt-die-hamas-den-neuen-geiseldeal-anzunehmen](https://www.spiegel.de/ausland/israel-gaza-krieg-antony-blinken-mahnt-die-hamas-den-neuen-geiseldeal-anzunehmen-a-41d381d4-5291-4261-9c73-6722ebfcdbcd#ref=rss)
-* [https://www.spiegel.de/tests/hoerbuecher-und-hoerspiele-empfehlungen-fuer-kinder-und-eltern](https://www.spiegel.de/tests/hoerbuecher-und-hoerspiele-empfehlungen-fuer-kinder-und-eltern-a-14022121-6e4d-4df9-af3b-e83dfcc96ddc#ref=rss)
-### betonte
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-antony-blinken-mahnt-die-hamas-den-neuen-geiseldeal-anzunehmen](https://www.spiegel.de/ausland/israel-gaza-krieg-antony-blinken-mahnt-die-hamas-den-neuen-geiseldeal-anzunehmen-a-41d381d4-5291-4261-9c73-6722ebfcdbcd#ref=rss)
-* [https://www.spiegel.de/ausland/polens-praesident-andrzej-duda-spricht-sich-fuer-neue-eu-osterweiterung-aus](https://www.spiegel.de/ausland/polens-praesident-andrzej-duda-spricht-sich-fuer-neue-eu-osterweiterung-aus-a-9993f4b1-a18a-4cd4-82fe-e5062763217a#ref=rss)
-### überstunden
-
-* [https://www.spiegel.de/start/ueberstunden-im-job-warum-sie-ungesund-und-unproduktiv-sind-kolumne](https://www.spiegel.de/start/ueberstunden-im-job-warum-sie-ungesund-und-unproduktiv-sind-kolumne-a-bae4958b-488f-4d35-8649-2b544a7a3365#ref=rss)
-### ungesund
-
-* [https://www.spiegel.de/start/ueberstunden-im-job-warum-sie-ungesund-und-unproduktiv-sind-kolumne](https://www.spiegel.de/start/ueberstunden-im-job-warum-sie-ungesund-und-unproduktiv-sind-kolumne-a-bae4958b-488f-4d35-8649-2b544a7a3365#ref=rss)
-### unproduktiv
-
-* [https://www.spiegel.de/start/ueberstunden-im-job-warum-sie-ungesund-und-unproduktiv-sind-kolumne](https://www.spiegel.de/start/ueberstunden-im-job-warum-sie-ungesund-und-unproduktiv-sind-kolumne-a-bae4958b-488f-4d35-8649-2b544a7a3365#ref=rss)
-### oft
-
-* [https://www.spiegel.de/start/ueberstunden-im-job-warum-sie-ungesund-und-unproduktiv-sind-kolumne](https://www.spiegel.de/start/ueberstunden-im-job-warum-sie-ungesund-und-unproduktiv-sind-kolumne-a-bae4958b-488f-4d35-8649-2b544a7a3365#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/whatsapp-zoom-und-co-schlauer-diskutieren-weniger-bruellen](https://www.spiegel.de/netzwelt/web/whatsapp-zoom-und-co-schlauer-diskutieren-weniger-bruellen-a-f27898bf-89c2-43a8-a636-683bf9ae2749#ref=rss)
-### tod
-
-* [https://www.spiegel.de/familie/pflege-und-tod-von-angehoerigen-ich-durfte-alles-sein-aber-wuetend-nie](https://www.spiegel.de/familie/pflege-und-tod-von-angehoerigen-ich-durfte-alles-sein-aber-wuetend-nie-a-62874066-bc32-47a4-84d3-7c552a9fad9e#ref=rss)
-### ich
-
-* [https://www.spiegel.de/familie/pflege-und-tod-von-angehoerigen-ich-durfte-alles-sein-aber-wuetend-nie](https://www.spiegel.de/familie/pflege-und-tod-von-angehoerigen-ich-durfte-alles-sein-aber-wuetend-nie-a-62874066-bc32-47a4-84d3-7c552a9fad9e#ref=rss)
-* [https://www.spiegel.de/auto/deutschlandticket-erfahrungen-frueher-haette-ich-ganz-selbstverstaendlich-das-auto-genommen](https://www.spiegel.de/auto/deutschlandticket-erfahrungen-frueher-haette-ich-ganz-selbstverstaendlich-das-auto-genommen-a-34fc8d41-c092-4f3a-b627-e55241175efc#ref=rss)
-### darüber
-
-* [https://www.spiegel.de/familie/pflege-und-tod-von-angehoerigen-ich-durfte-alles-sein-aber-wuetend-nie](https://www.spiegel.de/familie/pflege-und-tod-von-angehoerigen-ich-durfte-alles-sein-aber-wuetend-nie-a-62874066-bc32-47a4-84d3-7c552a9fad9e#ref=rss)
-* [https://www.spiegel.de/karriere/tag-der-arbeit-zehn-gute-und-zehn-schlechte-tipps-fuer-erfolg-im-job](https://www.spiegel.de/karriere/tag-der-arbeit-zehn-gute-und-zehn-schlechte-tipps-fuer-erfolg-im-job-a-40d1f799-0784-45e7-b8f5-3d2b6ac00997#ref=rss)
-### co
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/wegovy-mounjaro-und-co-kommt-nach-der-abnehmspritze-bald-die-schlankheitspille](https://www.spiegel.de/wirtschaft/unternehmen/wegovy-mounjaro-und-co-kommt-nach-der-abnehmspritze-bald-die-schlankheitspille-a-8d2b1f3f-ec7c-4888-86ae-5494aab96f0e#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/whatsapp-zoom-und-co-schlauer-diskutieren-weniger-bruellen](https://www.spiegel.de/netzwelt/web/whatsapp-zoom-und-co-schlauer-diskutieren-weniger-bruellen-a-f27898bf-89c2-43a8-a636-683bf9ae2749#ref=rss)
-### bald
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/wegovy-mounjaro-und-co-kommt-nach-der-abnehmspritze-bald-die-schlankheitspille](https://www.spiegel.de/wirtschaft/unternehmen/wegovy-mounjaro-und-co-kommt-nach-der-abnehmspritze-bald-die-schlankheitspille-a-8d2b1f3f-ec7c-4888-86ae-5494aab96f0e#ref=rss)
-### wichtig
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/wegovy-mounjaro-und-co-kommt-nach-der-abnehmspritze-bald-die-schlankheitspille](https://www.spiegel.de/wirtschaft/unternehmen/wegovy-mounjaro-und-co-kommt-nach-der-abnehmspritze-bald-die-schlankheitspille-a-8d2b1f3f-ec7c-4888-86ae-5494aab96f0e#ref=rss)
-* [https://www.spiegel.de/karriere/tag-der-arbeit-zehn-gute-und-zehn-schlechte-tipps-fuer-erfolg-im-job](https://www.spiegel.de/karriere/tag-der-arbeit-zehn-gute-und-zehn-schlechte-tipps-fuer-erfolg-im-job-a-40d1f799-0784-45e7-b8f5-3d2b6ac00997#ref=rss)
-### london
-
-* [https://www.spiegel.de/panorama/london-lange-haft-fuer-ex-polizisten-wegen-vergewaltigungen](https://www.spiegel.de/panorama/london-lange-haft-fuer-ex-polizisten-wegen-vergewaltigungen-a-b836c85e-8089-424d-bd15-74999f928b52#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/sport/basketball/zwei-jahre-nach-aufstieg-alba-berlins-basketballerinnen-sind-erstmals-deutscher-meister](https://www.spiegel.de/sport/basketball/zwei-jahre-nach-aufstieg-alba-berlins-basketballerinnen-sind-erstmals-deutscher-meister-a-fd3c20fb-99d8-454b-881b-1d9bfa4747dc#ref=rss)
-* [https://www.spiegel.de/sport/handball/hsv-handball-wie-schlimm-steht-es-finanziell-um-den-hsv-handball](https://www.spiegel.de/sport/handball/hsv-handball-wie-schlimm-steht-es-finanziell-um-den-hsv-handball-a-8ce51ff5-5078-465a-bb6c-5dd3819d7d49#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/panorama/peine-mann-wird-in-niedersachsen-von-zug-ueberrollt-und-toedlich-verletzt](https://www.spiegel.de/panorama/peine-mann-wird-in-niedersachsen-von-zug-ueberrollt-und-toedlich-verletzt-a-644633d2-545b-4fae-9ede-3cdee2fe4604#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/kandern-rund-30-verletzte-bei-unfall-mit-maiwagen-in-suedbaden](https://www.spiegel.de/panorama/justiz/kandern-rund-30-verletzte-bei-unfall-mit-maiwagen-in-suedbaden-a-38dc7a27-d430-4298-8acb-990d87a9ec7a#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/peine-mann-wird-in-niedersachsen-von-zug-ueberrollt-und-toedlich-verletzt](https://www.spiegel.de/panorama/peine-mann-wird-in-niedersachsen-von-zug-ueberrollt-und-toedlich-verletzt-a-644633d2-545b-4fae-9ede-3cdee2fe4604#ref=rss)
-* [https://www.spiegel.de/auto/deutschlandticket-erfahrungen-frueher-haette-ich-ganz-selbstverstaendlich-das-auto-genommen](https://www.spiegel.de/auto/deutschlandticket-erfahrungen-frueher-haette-ich-ganz-selbstverstaendlich-das-auto-genommen-a-34fc8d41-c092-4f3a-b627-e55241175efc#ref=rss)
-### polens
-
-* [https://www.spiegel.de/ausland/polens-praesident-andrzej-duda-spricht-sich-fuer-neue-eu-osterweiterung-aus](https://www.spiegel.de/ausland/polens-praesident-andrzej-duda-spricht-sich-fuer-neue-eu-osterweiterung-aus-a-9993f4b1-a18a-4cd4-82fe-e5062763217a#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/polens-praesident-andrzej-duda-spricht-sich-fuer-neue-eu-osterweiterung-aus](https://www.spiegel.de/ausland/polens-praesident-andrzej-duda-spricht-sich-fuer-neue-eu-osterweiterung-aus-a-9993f4b1-a18a-4cd4-82fe-e5062763217a#ref=rss)
-### duda
-
-* [https://www.spiegel.de/ausland/polens-praesident-andrzej-duda-spricht-sich-fuer-neue-eu-osterweiterung-aus](https://www.spiegel.de/ausland/polens-praesident-andrzej-duda-spricht-sich-fuer-neue-eu-osterweiterung-aus-a-9993f4b1-a18a-4cd4-82fe-e5062763217a#ref=rss)
-### neue
-
-* [https://www.spiegel.de/ausland/polens-praesident-andrzej-duda-spricht-sich-fuer-neue-eu-osterweiterung-aus](https://www.spiegel.de/ausland/polens-praesident-andrzej-duda-spricht-sich-fuer-neue-eu-osterweiterung-aus-a-9993f4b1-a18a-4cd4-82fe-e5062763217a#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/75-jahre-grundgesetz-wurden-die-ostdeutschen-nach-der-wende-uebergangen](https://www.spiegel.de/panorama/gesellschaft/75-jahre-grundgesetz-wurden-die-ostdeutschen-nach-der-wende-uebergangen-a-683e222d-36c6-4d4e-b6de-78004512ff57#ref=rss)
-### propalästinensische
-
-* [https://www.spiegel.de/panorama/gesellschaft/propalaestinensische-protese-an-der-columbia-university-in-new-york-professorin-clauda-breger-berichtet-von-ihrer-uni-im-ausnahmezustand](https://www.spiegel.de/panorama/gesellschaft/propalaestinensische-protese-an-der-columbia-university-in-new-york-professorin-clauda-breger-berichtet-von-ihrer-uni-im-ausnahmezustand-a-d1ce3c88-f2c3-4476-bef9-7c7b5ada7df5#ref=rss)
-* [https://www.spiegel.de/ausland/propalaestinensische-uni-proteste-in-new-york-300-festnahmen](https://www.spiegel.de/ausland/propalaestinensische-uni-proteste-in-new-york-300-festnahmen-a-631cf1a1-4dbb-4766-94b3-ce54206a0f8a#ref=rss)
-### york
-
-* [https://www.spiegel.de/panorama/gesellschaft/propalaestinensische-protese-an-der-columbia-university-in-new-york-professorin-clauda-breger-berichtet-von-ihrer-uni-im-ausnahmezustand](https://www.spiegel.de/panorama/gesellschaft/propalaestinensische-protese-an-der-columbia-university-in-new-york-professorin-clauda-breger-berichtet-von-ihrer-uni-im-ausnahmezustand-a-d1ce3c88-f2c3-4476-bef9-7c7b5ada7df5#ref=rss)
-* [https://www.spiegel.de/ausland/propalaestinensische-uni-proteste-in-new-york-300-festnahmen](https://www.spiegel.de/ausland/propalaestinensische-uni-proteste-in-new-york-300-festnahmen-a-631cf1a1-4dbb-4766-94b3-ce54206a0f8a#ref=rss)
-### professorin
-
-* [https://www.spiegel.de/panorama/gesellschaft/propalaestinensische-protese-an-der-columbia-university-in-new-york-professorin-clauda-breger-berichtet-von-ihrer-uni-im-ausnahmezustand](https://www.spiegel.de/panorama/gesellschaft/propalaestinensische-protese-an-der-columbia-university-in-new-york-professorin-clauda-breger-berichtet-von-ihrer-uni-im-ausnahmezustand-a-d1ce3c88-f2c3-4476-bef9-7c7b5ada7df5#ref=rss)
-### claudia
-
-* [https://www.spiegel.de/panorama/gesellschaft/propalaestinensische-protese-an-der-columbia-university-in-new-york-professorin-clauda-breger-berichtet-von-ihrer-uni-im-ausnahmezustand](https://www.spiegel.de/panorama/gesellschaft/propalaestinensische-protese-an-der-columbia-university-in-new-york-professorin-clauda-breger-berichtet-von-ihrer-uni-im-ausnahmezustand-a-d1ce3c88-f2c3-4476-bef9-7c7b5ada7df5#ref=rss)
-### breger
-
-* [https://www.spiegel.de/panorama/gesellschaft/propalaestinensische-protese-an-der-columbia-university-in-new-york-professorin-clauda-breger-berichtet-von-ihrer-uni-im-ausnahmezustand](https://www.spiegel.de/panorama/gesellschaft/propalaestinensische-protese-an-der-columbia-university-in-new-york-professorin-clauda-breger-berichtet-von-ihrer-uni-im-ausnahmezustand-a-d1ce3c88-f2c3-4476-bef9-7c7b5ada7df5#ref=rss)
-### ausnahmezustand
-
-* [https://www.spiegel.de/panorama/gesellschaft/propalaestinensische-protese-an-der-columbia-university-in-new-york-professorin-clauda-breger-berichtet-von-ihrer-uni-im-ausnahmezustand](https://www.spiegel.de/panorama/gesellschaft/propalaestinensische-protese-an-der-columbia-university-in-new-york-professorin-clauda-breger-berichtet-von-ihrer-uni-im-ausnahmezustand-a-d1ce3c88-f2c3-4476-bef9-7c7b5ada7df5#ref=rss)
-### campus
-
-* [https://www.spiegel.de/panorama/gesellschaft/propalaestinensische-protese-an-der-columbia-university-in-new-york-professorin-clauda-breger-berichtet-von-ihrer-uni-im-ausnahmezustand](https://www.spiegel.de/panorama/gesellschaft/propalaestinensische-protese-an-der-columbia-university-in-new-york-professorin-clauda-breger-berichtet-von-ihrer-uni-im-ausnahmezustand-a-d1ce3c88-f2c3-4476-bef9-7c7b5ada7df5#ref=rss)
-* [https://www.spiegel.de/ausland/propalaestinensische-uni-proteste-in-new-york-300-festnahmen](https://www.spiegel.de/ausland/propalaestinensische-uni-proteste-in-new-york-300-festnahmen-a-631cf1a1-4dbb-4766-94b3-ce54206a0f8a#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/tests/hoerbuecher-und-hoerspiele-empfehlungen-fuer-kinder-und-eltern](https://www.spiegel.de/tests/hoerbuecher-und-hoerspiele-empfehlungen-fuer-kinder-und-eltern-a-14022121-6e4d-4df9-af3b-e83dfcc96ddc#ref=rss)
-### eltern
-
-* [https://www.spiegel.de/tests/hoerbuecher-und-hoerspiele-empfehlungen-fuer-kinder-und-eltern](https://www.spiegel.de/tests/hoerbuecher-und-hoerspiele-empfehlungen-fuer-kinder-und-eltern-a-14022121-6e4d-4df9-af3b-e83dfcc96ddc#ref=rss)
-### andere
-
-* [https://www.spiegel.de/tests/hoerbuecher-und-hoerspiele-empfehlungen-fuer-kinder-und-eltern](https://www.spiegel.de/tests/hoerbuecher-und-hoerspiele-empfehlungen-fuer-kinder-und-eltern-a-14022121-6e4d-4df9-af3b-e83dfcc96ddc#ref=rss)
-* [https://www.spiegel.de/auto/deutschlandticket-erfahrungen-frueher-haette-ich-ganz-selbstverstaendlich-das-auto-genommen](https://www.spiegel.de/auto/deutschlandticket-erfahrungen-frueher-haette-ich-ganz-selbstverstaendlich-das-auto-genommen-a-34fc8d41-c092-4f3a-b627-e55241175efc#ref=rss)
-### fünf
-
-* [https://www.spiegel.de/tests/hoerbuecher-und-hoerspiele-empfehlungen-fuer-kinder-und-eltern](https://www.spiegel.de/tests/hoerbuecher-und-hoerspiele-empfehlungen-fuer-kinder-und-eltern-a-14022121-6e4d-4df9-af3b-e83dfcc96ddc#ref=rss)
-* [https://www.spiegel.de/auto/deutschlandticket-erfahrungen-frueher-haette-ich-ganz-selbstverstaendlich-das-auto-genommen](https://www.spiegel.de/auto/deutschlandticket-erfahrungen-frueher-haette-ich-ganz-selbstverstaendlich-das-auto-genommen-a-34fc8d41-c092-4f3a-b627-e55241175efc#ref=rss)
 ### jahren
 
-* [https://www.spiegel.de/tests/hoerbuecher-und-hoerspiele-empfehlungen-fuer-kinder-und-eltern](https://www.spiegel.de/tests/hoerbuecher-und-hoerspiele-empfehlungen-fuer-kinder-und-eltern-a-14022121-6e4d-4df9-af3b-e83dfcc96ddc#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/frank-elstner-ueber-die-diagnose-parkinson-und-wie-ihm-boxen-und-tischtennis-helfen](https://www.spiegel.de/wissenschaft/medizin/frank-elstner-ueber-die-diagnose-parkinson-und-wie-ihm-boxen-und-tischtennis-helfen-a-bcfc5acc-2a47-42a5-a214-7f97909d293a#ref=rss)
-### frank
+* [https://www.spiegel.de/kultur/musik/duane-eddy-ist-tot-gitarrist-von-peter-gunn-pepe-war-king-of-twang](https://www.spiegel.de/kultur/musik/duane-eddy-ist-tot-gitarrist-von-peter-gunn-pepe-war-king-of-twang-a-de0f7a64-1e16-4916-a564-f8d50cde96fa#ref=rss)
+* [https://www.spiegel.de/start/studium-in-deutschland-soll-die-zahl-der-studienanfaenger-bis-2035-deutlich-steigen](https://www.spiegel.de/start/studium-in-deutschland-soll-die-zahl-der-studienanfaenger-bis-2035-deutlich-steigen-a-0ff57b84-5e9a-436a-9c2e-ed30bb06625b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/neubrandenburg-15-jaehriger-wegen-mordes-an-joel-zu-sieben-jahren-und-neun-monaten-jugendstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/neubrandenburg-15-jaehriger-wegen-mordes-an-joel-zu-sieben-jahren-und-neun-monaten-jugendstrafe-verurteilt-a-2b27f1bc-5d4c-4777-98c4-99fb6d855397#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/geburten-zahl-in-deutschland-sinkt-auf-zehnjahrestief](https://www.spiegel.de/panorama/gesellschaft/geburten-zahl-in-deutschland-sinkt-auf-zehnjahrestief-a-e1389f40-4093-4348-b04e-5c08c0ab86e6#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/cybercrime-ukrainischer-hacker-zu-13-jahren-haft-in-den-usa-verurteilt](https://www.spiegel.de/netzwelt/web/cybercrime-ukrainischer-hacker-zu-13-jahren-haft-in-den-usa-verurteilt-a-58fe5fdc-6144-46dd-bf31-c9d7ab75a798#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/madeleine-maddie-mccann-britische-polizei-soll-neues-geld-fuer-die-suche-bekommen](https://www.spiegel.de/panorama/justiz/madeleine-maddie-mccann-britische-polizei-soll-neues-geld-fuer-die-suche-bekommen-a-44d6e912-f0ea-4195-8fad-bfeacd6bb610#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/wissenschaft/medizin/frank-elstner-ueber-die-diagnose-parkinson-und-wie-ihm-boxen-und-tischtennis-helfen](https://www.spiegel.de/wissenschaft/medizin/frank-elstner-ueber-die-diagnose-parkinson-und-wie-ihm-boxen-und-tischtennis-helfen-a-bcfc5acc-2a47-42a5-a214-7f97909d293a#ref=rss)
-### elstner
+* [https://www.spiegel.de/wirtschaft/oecd-besserer-ausblick-fuer-die-weltwirtschaft-schlechterer-fuer-deutschland](https://www.spiegel.de/wirtschaft/oecd-besserer-ausblick-fuer-die-weltwirtschaft-schlechterer-fuer-deutschland-a-564d5726-b44e-4b97-acac-ea6aaf1e6879#ref=rss)
+* [https://www.spiegel.de/start/studium-in-deutschland-soll-die-zahl-der-studienanfaenger-bis-2035-deutlich-steigen](https://www.spiegel.de/start/studium-in-deutschland-soll-die-zahl-der-studienanfaenger-bis-2035-deutlich-steigen-a-0ff57b84-5e9a-436a-9c2e-ed30bb06625b#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/geburten-zahl-in-deutschland-sinkt-auf-zehnjahrestief](https://www.spiegel.de/panorama/gesellschaft/geburten-zahl-in-deutschland-sinkt-auf-zehnjahrestief-a-e1389f40-4093-4348-b04e-5c08c0ab86e6#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/wissenschaft/medizin/frank-elstner-ueber-die-diagnose-parkinson-und-wie-ihm-boxen-und-tischtennis-helfen](https://www.spiegel.de/wissenschaft/medizin/frank-elstner-ueber-die-diagnose-parkinson-und-wie-ihm-boxen-und-tischtennis-helfen-a-bcfc5acc-2a47-42a5-a214-7f97909d293a#ref=rss)
-### diagnose
+* [https://www.spiegel.de/panorama/leute/cher-datet-juengere-weil-gleichaltrige-feige-sind-oder-tot](https://www.spiegel.de/panorama/leute/cher-datet-juengere-weil-gleichaltrige-feige-sind-oder-tot-a-564c86d9-35d4-4fa4-b235-1125cfa34444#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/neandertaler-forscher-rekonstruieren-gesicht-von-75-000-jahre-alter-neandertaler-frau](https://www.spiegel.de/wissenschaft/natur/neandertaler-forscher-rekonstruieren-gesicht-von-75-000-jahre-alter-neandertaler-frau-a-c98cc1e3-441c-45c5-9a67-d210106d2df4#ref=rss)
+### alter
 
-* [https://www.spiegel.de/wissenschaft/medizin/frank-elstner-ueber-die-diagnose-parkinson-und-wie-ihm-boxen-und-tischtennis-helfen](https://www.spiegel.de/wissenschaft/medizin/frank-elstner-ueber-die-diagnose-parkinson-und-wie-ihm-boxen-und-tischtennis-helfen-a-bcfc5acc-2a47-42a5-a214-7f97909d293a#ref=rss)
-### parkinson
+* [https://www.spiegel.de/panorama/leute/eva-mendes-warum-die-schauspielerin-froh-ist-erst-spaet-kinder-bekommen-zu-haben](https://www.spiegel.de/panorama/leute/eva-mendes-warum-die-schauspielerin-froh-ist-erst-spaet-kinder-bekommen-zu-haben-a-2e8e471b-241f-47d9-b39b-ad473e76173f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/neandertaler-forscher-rekonstruieren-gesicht-von-75-000-jahre-alter-neandertaler-frau](https://www.spiegel.de/wissenschaft/natur/neandertaler-forscher-rekonstruieren-gesicht-von-75-000-jahre-alter-neandertaler-frau-a-c98cc1e3-441c-45c5-9a67-d210106d2df4#ref=rss)
+* [https://www.spiegel.de/kultur/musik/duane-eddy-ist-tot-gitarrist-von-peter-gunn-pepe-war-king-of-twang](https://www.spiegel.de/kultur/musik/duane-eddy-ist-tot-gitarrist-von-peter-gunn-pepe-war-king-of-twang-a-de0f7a64-1e16-4916-a564-f8d50cde96fa#ref=rss)
+### gericht
 
-* [https://www.spiegel.de/wissenschaft/medizin/frank-elstner-ueber-die-diagnose-parkinson-und-wie-ihm-boxen-und-tischtennis-helfen](https://www.spiegel.de/wissenschaft/medizin/frank-elstner-ueber-die-diagnose-parkinson-und-wie-ihm-boxen-und-tischtennis-helfen-a-bcfc5acc-2a47-42a5-a214-7f97909d293a#ref=rss)
-### matthias
+* [https://www.spiegel.de/netzwelt/apps/facebook-newsfeed-us-professor-will-facebooks-algorithmen-entmachten](https://www.spiegel.de/netzwelt/apps/facebook-newsfeed-us-professor-will-facebooks-algorithmen-entmachten-a-ef0b001e-b268-4f65-b5fa-b0b8159ec67d#ref=rss)
+* [https://www.spiegel.de/ausland/harvey-weinstein-rueckkehr-ans-gericht-ein-neuer-prozess-steht-bevor](https://www.spiegel.de/ausland/harvey-weinstein-rueckkehr-ans-gericht-ein-neuer-prozess-steht-bevor-a-5983b83b-17fa-442b-bda5-c972b26d2f80#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/kultur/kino/matthias-glasner-der-sterben-regisseur-ueber-mutterliebe-und-elternstolz](https://www.spiegel.de/kultur/kino/matthias-glasner-der-sterben-regisseur-ueber-mutterliebe-und-elternstolz-a-6f218a22-d921-49b5-868c-9b979b2a83b5#ref=rss)
-### glasner
+* [https://www.spiegel.de/panorama/justiz/arian-aus-bremervoerde-polizei-erhaelt-hunderte-hinweise-zu-vermisstem-jungen](https://www.spiegel.de/panorama/justiz/arian-aus-bremervoerde-polizei-erhaelt-hunderte-hinweise-zu-vermisstem-jungen-a-c4bfb9bb-6883-45d1-b073-73e754b101da#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/madeleine-maddie-mccann-britische-polizei-soll-neues-geld-fuer-die-suche-bekommen](https://www.spiegel.de/panorama/justiz/madeleine-maddie-mccann-britische-polizei-soll-neues-geld-fuer-die-suche-bekommen-a-44d6e912-f0ea-4195-8fad-bfeacd6bb610#ref=rss)
+### haft
 
-* [https://www.spiegel.de/kultur/kino/matthias-glasner-der-sterben-regisseur-ueber-mutterliebe-und-elternstolz](https://www.spiegel.de/kultur/kino/matthias-glasner-der-sterben-regisseur-ueber-mutterliebe-und-elternstolz-a-6f218a22-d921-49b5-868c-9b979b2a83b5#ref=rss)
-### mutterliebe
+* [https://www.spiegel.de/sport/basketball/brittney-griner-ueber-haft-in-russland-ich-dachte-nur-mein-leben-ist-vorbei](https://www.spiegel.de/sport/basketball/brittney-griner-ueber-haft-in-russland-ich-dachte-nur-mein-leben-ist-vorbei-a-23267052-f7eb-4828-b24c-f72ebd0400cd#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/neubrandenburg-15-jaehriger-wegen-mordes-an-joel-zu-sieben-jahren-und-neun-monaten-jugendstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/neubrandenburg-15-jaehriger-wegen-mordes-an-joel-zu-sieben-jahren-und-neun-monaten-jugendstrafe-verurteilt-a-2b27f1bc-5d4c-4777-98c4-99fb6d855397#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/cybercrime-ukrainischer-hacker-zu-13-jahren-haft-in-den-usa-verurteilt](https://www.spiegel.de/netzwelt/web/cybercrime-ukrainischer-hacker-zu-13-jahren-haft-in-den-usa-verurteilt-a-58fe5fdc-6144-46dd-bf31-c9d7ab75a798#ref=rss)
+### russland
 
-* [https://www.spiegel.de/kultur/kino/matthias-glasner-der-sterben-regisseur-ueber-mutterliebe-und-elternstolz](https://www.spiegel.de/kultur/kino/matthias-glasner-der-sterben-regisseur-ueber-mutterliebe-und-elternstolz-a-6f218a22-d921-49b5-868c-9b979b2a83b5#ref=rss)
-### elternstolz
-
-* [https://www.spiegel.de/kultur/kino/matthias-glasner-der-sterben-regisseur-ueber-mutterliebe-und-elternstolz](https://www.spiegel.de/kultur/kino/matthias-glasner-der-sterben-regisseur-ueber-mutterliebe-und-elternstolz-a-6f218a22-d921-49b5-868c-9b979b2a83b5#ref=rss)
-### auto
-
-* [https://www.spiegel.de/auto/deutschlandticket-erfahrungen-frueher-haette-ich-ganz-selbstverstaendlich-das-auto-genommen](https://www.spiegel.de/auto/deutschlandticket-erfahrungen-frueher-haette-ich-ganz-selbstverstaendlich-das-auto-genommen-a-34fc8d41-c092-4f3a-b627-e55241175efc#ref=rss)
-### fußballbundesliga
-
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-strikte-kleiderordnung-fuer-st-pauli-fans-gegen-hsv](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-strikte-kleiderordnung-fuer-st-pauli-fans-gegen-hsv-a-0734a4f3-3b60-4d0e-ad48-54f86a01a626#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-verwirrung-um-trainer-bjelicas-zukunft-bei-union-berlin](https://www.spiegel.de/sport/fussball/fussball-bundesliga-verwirrung-um-trainer-bjelicas-zukunft-bei-union-berlin-a-6b61fb54-1e07-4d6c-882f-ffd9680a3c8c#ref=rss)
-### anhänger
-
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-strikte-kleiderordnung-fuer-st-pauli-fans-gegen-hsv](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-strikte-kleiderordnung-fuer-st-pauli-fans-gegen-hsv-a-0734a4f3-3b60-4d0e-ad48-54f86a01a626#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/kandern-rund-30-verletzte-bei-unfall-mit-maiwagen-in-suedbaden](https://www.spiegel.de/panorama/justiz/kandern-rund-30-verletzte-bei-unfall-mit-maiwagen-in-suedbaden-a-38dc7a27-d430-4298-8acb-990d87a9ec7a#ref=rss)
-### hamburger
-
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-strikte-kleiderordnung-fuer-st-pauli-fans-gegen-hsv](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-strikte-kleiderordnung-fuer-st-pauli-fans-gegen-hsv-a-0734a4f3-3b60-4d0e-ad48-54f86a01a626#ref=rss)
-* [https://www.spiegel.de/sport/handball/hsv-handball-wie-schlimm-steht-es-finanziell-um-den-hsv-handball](https://www.spiegel.de/sport/handball/hsv-handball-wie-schlimm-steht-es-finanziell-um-den-hsv-handball-a-8ce51ff5-5078-465a-bb6c-5dd3819d7d49#ref=rss)
-### trainer
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-verwirrung-um-trainer-bjelicas-zukunft-bei-union-berlin](https://www.spiegel.de/sport/fussball/fussball-bundesliga-verwirrung-um-trainer-bjelicas-zukunft-bei-union-berlin-a-6b61fb54-1e07-4d6c-882f-ffd9680a3c8c#ref=rss)
-### bjelicas
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-verwirrung-um-trainer-bjelicas-zukunft-bei-union-berlin](https://www.spiegel.de/sport/fussball/fussball-bundesliga-verwirrung-um-trainer-bjelicas-zukunft-bei-union-berlin-a-6b61fb54-1e07-4d6c-882f-ffd9680a3c8c#ref=rss)
-### bekommt
-
-* [https://www.spiegel.de/sport/handball/hsv-handball-wie-schlimm-steht-es-finanziell-um-den-hsv-handball](https://www.spiegel.de/sport/handball/hsv-handball-wie-schlimm-steht-es-finanziell-um-den-hsv-handball-a-8ce51ff5-5078-465a-bb6c-5dd3819d7d49#ref=rss)
-* [https://www.spiegel.de/ausland/italien-regierung-zahlt-einer-million-familien-100-euro-bonus](https://www.spiegel.de/ausland/italien-regierung-zahlt-einer-million-familien-100-euro-bonus-a-007b382d-9ed2-463a-b775-55079b48e84d#ref=rss)
+* [https://www.spiegel.de/sport/basketball/brittney-griner-ueber-haft-in-russland-ich-dachte-nur-mein-leben-ist-vorbei](https://www.spiegel.de/sport/basketball/brittney-griner-ueber-haft-in-russland-ich-dachte-nur-mein-leben-ist-vorbei-a-23267052-f7eb-4828-b24c-f72ebd0400cd#ref=rss)
+* [https://www.spiegel.de/ausland/russland-armee-stellt-westliche-waffen-aus-der-ukraine-in-moskau-aus](https://www.spiegel.de/ausland/russland-armee-stellt-westliche-waffen-aus-der-ukraine-in-moskau-aus-a-505d0dd0-d2ce-42ab-85ce-35eeda9dd99f#ref=rss)
 ### zehn
 
-* [https://www.spiegel.de/karriere/tag-der-arbeit-zehn-gute-und-zehn-schlechte-tipps-fuer-erfolg-im-job](https://www.spiegel.de/karriere/tag-der-arbeit-zehn-gute-und-zehn-schlechte-tipps-fuer-erfolg-im-job-a-40d1f799-0784-45e7-b8f5-3d2b6ac00997#ref=rss)
-### uns
+* [https://www.spiegel.de/sport/basketball/brittney-griner-ueber-haft-in-russland-ich-dachte-nur-mein-leben-ist-vorbei](https://www.spiegel.de/sport/basketball/brittney-griner-ueber-haft-in-russland-ich-dachte-nur-mein-leben-ist-vorbei-a-23267052-f7eb-4828-b24c-f72ebd0400cd#ref=rss)
+* [https://www.spiegel.de/start/studium-in-deutschland-soll-die-zahl-der-studienanfaenger-bis-2035-deutlich-steigen](https://www.spiegel.de/start/studium-in-deutschland-soll-die-zahl-der-studienanfaenger-bis-2035-deutlich-steigen-a-0ff57b84-5e9a-436a-9c2e-ed30bb06625b#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/geburten-zahl-in-deutschland-sinkt-auf-zehnjahrestief](https://www.spiegel.de/panorama/gesellschaft/geburten-zahl-in-deutschland-sinkt-auf-zehnjahrestief-a-e1389f40-4093-4348-b04e-5c08c0ab86e6#ref=rss)
+### borussia
 
-* [https://www.spiegel.de/karriere/tag-der-arbeit-zehn-gute-und-zehn-schlechte-tipps-fuer-erfolg-im-job](https://www.spiegel.de/karriere/tag-der-arbeit-zehn-gute-und-zehn-schlechte-tipps-fuer-erfolg-im-job-a-40d1f799-0784-45e7-b8f5-3d2b6ac00997#ref=rss)
-### städten
+* [https://www.spiegel.de/sport/fussball/borussia-dortmund-gegen-paris-saint-germain-als-waere-es-das-letzte-spiel-ihres-lebens](https://www.spiegel.de/sport/fussball/borussia-dortmund-gegen-paris-saint-germain-als-waere-es-das-letzte-spiel-ihres-lebens-a-f96c4cc2-8e8d-4a18-9b7f-b9fe20d22af3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-besiegt-paris-saint-germain-nur-nicht-loben-bitte](https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-besiegt-paris-saint-germain-nur-nicht-loben-bitte-a-ac625122-3b35-486b-bc37-75d837338f1c#ref=rss)
+### dortmund
 
-* [https://www.spiegel.de/panorama/1-mai-demonstrationen-zum-tag-der-arbeit-in-vielen-deutschen-staedten-gestartet](https://www.spiegel.de/panorama/1-mai-demonstrationen-zum-tag-der-arbeit-in-vielen-deutschen-staedten-gestartet-a-c3c124f7-b876-4ec2-bd8e-3a8955e585a6#ref=rss)
-### kandern
+* [https://www.spiegel.de/sport/fussball/borussia-dortmund-gegen-paris-saint-germain-als-waere-es-das-letzte-spiel-ihres-lebens](https://www.spiegel.de/sport/fussball/borussia-dortmund-gegen-paris-saint-germain-als-waere-es-das-letzte-spiel-ihres-lebens-a-f96c4cc2-8e8d-4a18-9b7f-b9fe20d22af3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-besiegt-paris-saint-germain-nur-nicht-loben-bitte](https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-besiegt-paris-saint-germain-nur-nicht-loben-bitte-a-ac625122-3b35-486b-bc37-75d837338f1c#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/panorama/justiz/kandern-rund-30-verletzte-bei-unfall-mit-maiwagen-in-suedbaden](https://www.spiegel.de/panorama/justiz/kandern-rund-30-verletzte-bei-unfall-mit-maiwagen-in-suedbaden-a-38dc7a27-d430-4298-8acb-990d87a9ec7a#ref=rss)
-### 30
+* [https://www.spiegel.de/start/studium-in-deutschland-soll-die-zahl-der-studienanfaenger-bis-2035-deutlich-steigen](https://www.spiegel.de/start/studium-in-deutschland-soll-die-zahl-der-studienanfaenger-bis-2035-deutlich-steigen-a-0ff57b84-5e9a-436a-9c2e-ed30bb06625b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-besiegt-paris-saint-germain-nur-nicht-loben-bitte](https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-besiegt-paris-saint-germain-nur-nicht-loben-bitte-a-ac625122-3b35-486b-bc37-75d837338f1c#ref=rss)
+### zuletzt
 
-* [https://www.spiegel.de/panorama/justiz/kandern-rund-30-verletzte-bei-unfall-mit-maiwagen-in-suedbaden](https://www.spiegel.de/panorama/justiz/kandern-rund-30-verletzte-bei-unfall-mit-maiwagen-in-suedbaden-a-38dc7a27-d430-4298-8acb-990d87a9ec7a#ref=rss)
-### italien
+* [https://www.spiegel.de/panorama/gesellschaft/geburten-zahl-in-deutschland-sinkt-auf-zehnjahrestief](https://www.spiegel.de/panorama/gesellschaft/geburten-zahl-in-deutschland-sinkt-auf-zehnjahrestief-a-e1389f40-4093-4348-b04e-5c08c0ab86e6#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bundesliga-ralf-rangnick-wird-doch-nicht-trainer-beim-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/bundesliga-ralf-rangnick-wird-doch-nicht-trainer-beim-fc-bayern-muenchen-a-23c6c5d2-1a0d-4cd1-824b-81c6e13d895f#ref=rss)
+* [https://www.spiegel.de/ausland/ursula-von-der-leyen-reist-in-den-libanon-milliardendeal-der-eu-soll-ankunft-von-fluechtlingen-verhindern](https://www.spiegel.de/ausland/ursula-von-der-leyen-reist-in-den-libanon-milliardendeal-der-eu-soll-ankunft-von-fluechtlingen-verhindern-a-6ed5d6f3-ba13-4e92-bc95-2b81b9759eb0#ref=rss)
+### cher
 
-* [https://www.spiegel.de/ausland/italien-regierung-zahlt-einer-million-familien-100-euro-bonus](https://www.spiegel.de/ausland/italien-regierung-zahlt-einer-million-familien-100-euro-bonus-a-007b382d-9ed2-463a-b775-55079b48e84d#ref=rss)
-### 100
+* [https://www.spiegel.de/panorama/leute/cher-datet-juengere-weil-gleichaltrige-feige-sind-oder-tot](https://www.spiegel.de/panorama/leute/cher-datet-juengere-weil-gleichaltrige-feige-sind-oder-tot-a-564c86d9-35d4-4fa4-b235-1125cfa34444#ref=rss)
+### tot
 
-* [https://www.spiegel.de/ausland/italien-regierung-zahlt-einer-million-familien-100-euro-bonus](https://www.spiegel.de/ausland/italien-regierung-zahlt-einer-million-familien-100-euro-bonus-a-007b382d-9ed2-463a-b775-55079b48e84d#ref=rss)
+* [https://www.spiegel.de/panorama/leute/cher-datet-juengere-weil-gleichaltrige-feige-sind-oder-tot](https://www.spiegel.de/panorama/leute/cher-datet-juengere-weil-gleichaltrige-feige-sind-oder-tot-a-564c86d9-35d4-4fa4-b235-1125cfa34444#ref=rss)
+* [https://www.spiegel.de/kultur/musik/duane-eddy-ist-tot-gitarrist-von-peter-gunn-pepe-war-king-of-twang](https://www.spiegel.de/kultur/musik/duane-eddy-ist-tot-gitarrist-von-peter-gunn-pepe-war-king-of-twang-a-de0f7a64-1e16-4916-a564-f8d50cde96fa#ref=rss)
+### eva
+
+* [https://www.spiegel.de/panorama/leute/eva-mendes-warum-die-schauspielerin-froh-ist-erst-spaet-kinder-bekommen-zu-haben](https://www.spiegel.de/panorama/leute/eva-mendes-warum-die-schauspielerin-froh-ist-erst-spaet-kinder-bekommen-zu-haben-a-2e8e471b-241f-47d9-b39b-ad473e76173f#ref=rss)
+### mendes
+
+* [https://www.spiegel.de/panorama/leute/eva-mendes-warum-die-schauspielerin-froh-ist-erst-spaet-kinder-bekommen-zu-haben](https://www.spiegel.de/panorama/leute/eva-mendes-warum-die-schauspielerin-froh-ist-erst-spaet-kinder-bekommen-zu-haben-a-2e8e471b-241f-47d9-b39b-ad473e76173f#ref=rss)
+### schauspielerin
+
+* [https://www.spiegel.de/panorama/leute/eva-mendes-warum-die-schauspielerin-froh-ist-erst-spaet-kinder-bekommen-zu-haben](https://www.spiegel.de/panorama/leute/eva-mendes-warum-die-schauspielerin-froh-ist-erst-spaet-kinder-bekommen-zu-haben-a-2e8e471b-241f-47d9-b39b-ad473e76173f#ref=rss)
+### erst
+
+* [https://www.spiegel.de/panorama/leute/eva-mendes-warum-die-schauspielerin-froh-ist-erst-spaet-kinder-bekommen-zu-haben](https://www.spiegel.de/panorama/leute/eva-mendes-warum-die-schauspielerin-froh-ist-erst-spaet-kinder-bekommen-zu-haben-a-2e8e471b-241f-47d9-b39b-ad473e76173f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/oecd-besserer-ausblick-fuer-die-weltwirtschaft-schlechterer-fuer-deutschland](https://www.spiegel.de/wirtschaft/oecd-besserer-ausblick-fuer-die-weltwirtschaft-schlechterer-fuer-deutschland-a-564d5726-b44e-4b97-acac-ea6aaf1e6879#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/panorama/leute/eva-mendes-warum-die-schauspielerin-froh-ist-erst-spaet-kinder-bekommen-zu-haben](https://www.spiegel.de/panorama/leute/eva-mendes-warum-die-schauspielerin-froh-ist-erst-spaet-kinder-bekommen-zu-haben-a-2e8e471b-241f-47d9-b39b-ad473e76173f#ref=rss)
+### bekommen
+
+* [https://www.spiegel.de/panorama/leute/eva-mendes-warum-die-schauspielerin-froh-ist-erst-spaet-kinder-bekommen-zu-haben](https://www.spiegel.de/panorama/leute/eva-mendes-warum-die-schauspielerin-froh-ist-erst-spaet-kinder-bekommen-zu-haben-a-2e8e471b-241f-47d9-b39b-ad473e76173f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/madeleine-maddie-mccann-britische-polizei-soll-neues-geld-fuer-die-suche-bekommen](https://www.spiegel.de/panorama/justiz/madeleine-maddie-mccann-britische-polizei-soll-neues-geld-fuer-die-suche-bekommen-a-44d6e912-f0ea-4195-8fad-bfeacd6bb610#ref=rss)
+### 25
+
+* [https://www.spiegel.de/panorama/leute/eva-mendes-warum-die-schauspielerin-froh-ist-erst-spaet-kinder-bekommen-zu-haben](https://www.spiegel.de/panorama/leute/eva-mendes-warum-die-schauspielerin-froh-ist-erst-spaet-kinder-bekommen-zu-haben-a-2e8e471b-241f-47d9-b39b-ad473e76173f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/stuttgart-1-mai-25-einsatzkraefte-und-drei-pferde-lauf-polizei-verletzt](https://www.spiegel.de/panorama/justiz/stuttgart-1-mai-25-einsatzkraefte-und-drei-pferde-lauf-polizei-verletzt-a-54e1c2c9-1187-47cc-ba46-fa29611fab4c#ref=rss)
+### interview
+
+* [https://www.spiegel.de/panorama/leute/eva-mendes-warum-die-schauspielerin-froh-ist-erst-spaet-kinder-bekommen-zu-haben](https://www.spiegel.de/panorama/leute/eva-mendes-warum-die-schauspielerin-froh-ist-erst-spaet-kinder-bekommen-zu-haben-a-2e8e471b-241f-47d9-b39b-ad473e76173f#ref=rss)
+* [https://www.spiegel.de/sport/basketball/brittney-griner-ueber-haft-in-russland-ich-dachte-nur-mein-leben-ist-vorbei](https://www.spiegel.de/sport/basketball/brittney-griner-ueber-haft-in-russland-ich-dachte-nur-mein-leben-ist-vorbei-a-23267052-f7eb-4828-b24c-f72ebd0400cd#ref=rss)
+### facebooknewsfeed
+
+* [https://www.spiegel.de/netzwelt/apps/facebook-newsfeed-us-professor-will-facebooks-algorithmen-entmachten](https://www.spiegel.de/netzwelt/apps/facebook-newsfeed-us-professor-will-facebooks-algorithmen-entmachten-a-ef0b001e-b268-4f65-b5fa-b0b8159ec67d#ref=rss)
+### gesicht
+
+* [https://www.spiegel.de/wissenschaft/natur/neandertaler-forscher-rekonstruieren-gesicht-von-75-000-jahre-alter-neandertaler-frau](https://www.spiegel.de/wissenschaft/natur/neandertaler-forscher-rekonstruieren-gesicht-von-75-000-jahre-alter-neandertaler-frau-a-c98cc1e3-441c-45c5-9a67-d210106d2df4#ref=rss)
+### waren
+
+* [https://www.spiegel.de/wissenschaft/natur/neandertaler-forscher-rekonstruieren-gesicht-von-75-000-jahre-alter-neandertaler-frau](https://www.spiegel.de/wissenschaft/natur/neandertaler-forscher-rekonstruieren-gesicht-von-75-000-jahre-alter-neandertaler-frau-a-c98cc1e3-441c-45c5-9a67-d210106d2df4#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/geburten-zahl-in-deutschland-sinkt-auf-zehnjahrestief](https://www.spiegel.de/panorama/gesellschaft/geburten-zahl-in-deutschland-sinkt-auf-zehnjahrestief-a-e1389f40-4093-4348-b04e-5c08c0ab86e6#ref=rss)
+### jacob
+
+* [https://www.spiegel.de/ausland/suedafrika-wahl-jacob-zuma-kandidiert-erneut-fuers-parlament](https://www.spiegel.de/ausland/suedafrika-wahl-jacob-zuma-kandidiert-erneut-fuers-parlament-a-73803e28-a410-4de8-97f9-429ba4c66f71#ref=rss)
+### zuma
+
+* [https://www.spiegel.de/ausland/suedafrika-wahl-jacob-zuma-kandidiert-erneut-fuers-parlament](https://www.spiegel.de/ausland/suedafrika-wahl-jacob-zuma-kandidiert-erneut-fuers-parlament-a-73803e28-a410-4de8-97f9-429ba4c66f71#ref=rss)
+### neue
+
+* [https://www.spiegel.de/ausland/suedafrika-wahl-jacob-zuma-kandidiert-erneut-fuers-parlament](https://www.spiegel.de/ausland/suedafrika-wahl-jacob-zuma-kandidiert-erneut-fuers-parlament-a-73803e28-a410-4de8-97f9-429ba4c66f71#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/bundeshaushalt-2025-gruene-warnen-christian-lindner-vor-hartem-sparkurs](https://www.spiegel.de/wirtschaft/soziales/bundeshaushalt-2025-gruene-warnen-christian-lindner-vor-hartem-sparkurs-a-141970cb-e24b-4f3f-a140-1821c1cca121#ref=rss)
+### partei
+
+* [https://www.spiegel.de/ausland/suedafrika-wahl-jacob-zuma-kandidiert-erneut-fuers-parlament](https://www.spiegel.de/ausland/suedafrika-wahl-jacob-zuma-kandidiert-erneut-fuers-parlament-a-73803e28-a410-4de8-97f9-429ba4c66f71#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-das-cdu-gespenst-worum-es-bei-leitkultur-wirklich-geht-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-das-cdu-gespenst-worum-es-bei-leitkultur-wirklich-geht-podcast-a-5703b17e-7289-4564-9031-53e3757fe2a3#ref=rss)
+### arian
+
+* [https://www.spiegel.de/panorama/justiz/arian-aus-bremervoerde-polizei-erhaelt-hunderte-hinweise-zu-vermisstem-jungen](https://www.spiegel.de/panorama/justiz/arian-aus-bremervoerde-polizei-erhaelt-hunderte-hinweise-zu-vermisstem-jungen-a-c4bfb9bb-6883-45d1-b073-73e754b101da#ref=rss)
+### bremervörde
+
+* [https://www.spiegel.de/panorama/justiz/arian-aus-bremervoerde-polizei-erhaelt-hunderte-hinweise-zu-vermisstem-jungen](https://www.spiegel.de/panorama/justiz/arian-aus-bremervoerde-polizei-erhaelt-hunderte-hinweise-zu-vermisstem-jungen-a-c4bfb9bb-6883-45d1-b073-73e754b101da#ref=rss)
+### jungen
+
+* [https://www.spiegel.de/panorama/justiz/arian-aus-bremervoerde-polizei-erhaelt-hunderte-hinweise-zu-vermisstem-jungen](https://www.spiegel.de/panorama/justiz/arian-aus-bremervoerde-polizei-erhaelt-hunderte-hinweise-zu-vermisstem-jungen-a-c4bfb9bb-6883-45d1-b073-73e754b101da#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/neubrandenburg-15-jaehriger-wegen-mordes-an-joel-zu-sieben-jahren-und-neun-monaten-jugendstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/neubrandenburg-15-jaehriger-wegen-mordes-an-joel-zu-sieben-jahren-und-neun-monaten-jugendstrafe-verurteilt-a-2b27f1bc-5d4c-4777-98c4-99fb6d855397#ref=rss)
+### oecd
+
+* [https://www.spiegel.de/wirtschaft/oecd-besserer-ausblick-fuer-die-weltwirtschaft-schlechterer-fuer-deutschland](https://www.spiegel.de/wirtschaft/oecd-besserer-ausblick-fuer-die-weltwirtschaft-schlechterer-fuer-deutschland-a-564d5726-b44e-4b97-acac-ea6aaf1e6879#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/wirtschaft/oecd-besserer-ausblick-fuer-die-weltwirtschaft-schlechterer-fuer-deutschland](https://www.spiegel.de/wirtschaft/oecd-besserer-ausblick-fuer-die-weltwirtschaft-schlechterer-fuer-deutschland-a-564d5726-b44e-4b97-acac-ea6aaf1e6879#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-besiegt-paris-saint-germain-nur-nicht-loben-bitte](https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-besiegt-paris-saint-germain-nur-nicht-loben-bitte-a-ac625122-3b35-486b-bc37-75d837338f1c#ref=rss)
+### macht
+
+* [https://www.spiegel.de/wirtschaft/oecd-besserer-ausblick-fuer-die-weltwirtschaft-schlechterer-fuer-deutschland](https://www.spiegel.de/wirtschaft/oecd-besserer-ausblick-fuer-die-weltwirtschaft-schlechterer-fuer-deutschland-a-564d5726-b44e-4b97-acac-ea6aaf1e6879#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/reederei-maersk-macht-durch-die-huthi-angriffe-gewinn](https://www.spiegel.de/wirtschaft/unternehmen/reederei-maersk-macht-durch-die-huthi-angriffe-gewinn-a-a6d2fb53-c27d-4824-a9cc-8e4564b36c5d#ref=rss)
+### allerdings
+
+* [https://www.spiegel.de/wirtschaft/oecd-besserer-ausblick-fuer-die-weltwirtschaft-schlechterer-fuer-deutschland](https://www.spiegel.de/wirtschaft/oecd-besserer-ausblick-fuer-die-weltwirtschaft-schlechterer-fuer-deutschland-a-564d5726-b44e-4b97-acac-ea6aaf1e6879#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/stuttgart-1-mai-25-einsatzkraefte-und-drei-pferde-lauf-polizei-verletzt](https://www.spiegel.de/panorama/justiz/stuttgart-1-mai-25-einsatzkraefte-und-drei-pferde-lauf-polizei-verletzt-a-54e1c2c9-1187-47cc-ba46-fa29611fab4c#ref=rss)
+### league
+
+* [https://www.spiegel.de/sport/handball/handball-champions-league-triple-fuer-den-sc-magdeburg-weiter-moeglich](https://www.spiegel.de/sport/handball/handball-champions-league-triple-fuer-den-sc-magdeburg-weiter-moeglich-a-9220fcda-335a-4dec-961a-c232136ab1e4#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-besiegt-paris-saint-germain-nur-nicht-loben-bitte](https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-besiegt-paris-saint-germain-nur-nicht-loben-bitte-a-ac625122-3b35-486b-bc37-75d837338f1c#ref=rss)
+### sc
+
+* [https://www.spiegel.de/sport/handball/handball-champions-league-triple-fuer-den-sc-magdeburg-weiter-moeglich](https://www.spiegel.de/sport/handball/handball-champions-league-triple-fuer-den-sc-magdeburg-weiter-moeglich-a-9220fcda-335a-4dec-961a-c232136ab1e4#ref=rss)
+### magdeburg
+
+* [https://www.spiegel.de/sport/handball/handball-champions-league-triple-fuer-den-sc-magdeburg-weiter-moeglich](https://www.spiegel.de/sport/handball/handball-champions-league-triple-fuer-den-sc-magdeburg-weiter-moeglich-a-9220fcda-335a-4dec-961a-c232136ab1e4#ref=rss)
+### besiegt
+
+* [https://www.spiegel.de/sport/handball/handball-champions-league-triple-fuer-den-sc-magdeburg-weiter-moeglich](https://www.spiegel.de/sport/handball/handball-champions-league-triple-fuer-den-sc-magdeburg-weiter-moeglich-a-9220fcda-335a-4dec-961a-c232136ab1e4#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-besiegt-paris-saint-germain-nur-nicht-loben-bitte](https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-besiegt-paris-saint-germain-nur-nicht-loben-bitte-a-ac625122-3b35-486b-bc37-75d837338f1c#ref=rss)
+### reederei
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/reederei-maersk-macht-durch-die-huthi-angriffe-gewinn](https://www.spiegel.de/wirtschaft/unternehmen/reederei-maersk-macht-durch-die-huthi-angriffe-gewinn-a-a6d2fb53-c27d-4824-a9cc-8e4564b36c5d#ref=rss)
+### maersk
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/reederei-maersk-macht-durch-die-huthi-angriffe-gewinn](https://www.spiegel.de/wirtschaft/unternehmen/reederei-maersk-macht-durch-die-huthi-angriffe-gewinn-a-a6d2fb53-c27d-4824-a9cc-8e4564b36c5d#ref=rss)
+### google
+
+* [https://www.spiegel.de/netzwelt/gadgets/google-fuehrt-offenbar-audio-emoji-ein](https://www.spiegel.de/netzwelt/gadgets/google-fuehrt-offenbar-audio-emoji-ein-a-8865260d-d711-4430-98b4-355bf012a8dc#ref=rss)
+### sollte
+
+* [https://www.spiegel.de/netzwelt/gadgets/google-fuehrt-offenbar-audio-emoji-ein](https://www.spiegel.de/netzwelt/gadgets/google-fuehrt-offenbar-audio-emoji-ein-a-8865260d-d711-4430-98b4-355bf012a8dc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/mindestlohn-wirtschaftsweiser-achim-truger-fuer-erhoehung-auf-14-euro](https://www.spiegel.de/wirtschaft/soziales/mindestlohn-wirtschaftsweiser-achim-truger-fuer-erhoehung-auf-14-euro-a-ec02cb87-2121-437c-97ed-3f935c2212a9#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/netzwelt/gadgets/google-fuehrt-offenbar-audio-emoji-ein](https://www.spiegel.de/netzwelt/gadgets/google-fuehrt-offenbar-audio-emoji-ein-a-8865260d-d711-4430-98b4-355bf012a8dc#ref=rss)
+* [https://www.spiegel.de/ausland/ursula-von-der-leyen-reist-in-den-libanon-milliardendeal-der-eu-soll-ankunft-von-fluechtlingen-verhindern](https://www.spiegel.de/ausland/ursula-von-der-leyen-reist-in-den-libanon-milliardendeal-der-eu-soll-ankunft-von-fluechtlingen-verhindern-a-6ed5d6f3-ba13-4e92-bc95-2b81b9759eb0#ref=rss)
+### brittney
+
+* [https://www.spiegel.de/sport/basketball/brittney-griner-ueber-haft-in-russland-ich-dachte-nur-mein-leben-ist-vorbei](https://www.spiegel.de/sport/basketball/brittney-griner-ueber-haft-in-russland-ich-dachte-nur-mein-leben-ist-vorbei-a-23267052-f7eb-4828-b24c-f72ebd0400cd#ref=rss)
+### griner
+
+* [https://www.spiegel.de/sport/basketball/brittney-griner-ueber-haft-in-russland-ich-dachte-nur-mein-leben-ist-vorbei](https://www.spiegel.de/sport/basketball/brittney-griner-ueber-haft-in-russland-ich-dachte-nur-mein-leben-ist-vorbei-a-23267052-f7eb-4828-b24c-f72ebd0400cd#ref=rss)
+### half
+
+* [https://www.spiegel.de/sport/basketball/brittney-griner-ueber-haft-in-russland-ich-dachte-nur-mein-leben-ist-vorbei](https://www.spiegel.de/sport/basketball/brittney-griner-ueber-haft-in-russland-ich-dachte-nur-mein-leben-ist-vorbei-a-23267052-f7eb-4828-b24c-f72ebd0400cd#ref=rss)
+* [https://www.spiegel.de/kultur/musik/duane-eddy-ist-tot-gitarrist-von-peter-gunn-pepe-war-king-of-twang](https://www.spiegel.de/kultur/musik/duane-eddy-ist-tot-gitarrist-von-peter-gunn-pepe-war-king-of-twang-a-de0f7a64-1e16-4916-a564-f8d50cde96fa#ref=rss)
+### armee
+
+* [https://www.spiegel.de/ausland/russland-armee-stellt-westliche-waffen-aus-der-ukraine-in-moskau-aus](https://www.spiegel.de/ausland/russland-armee-stellt-westliche-waffen-aus-der-ukraine-in-moskau-aus-a-505d0dd0-d2ce-42ab-85ce-35eeda9dd99f#ref=rss)
+### waffen
+
+* [https://www.spiegel.de/ausland/russland-armee-stellt-westliche-waffen-aus-der-ukraine-in-moskau-aus](https://www.spiegel.de/ausland/russland-armee-stellt-westliche-waffen-aus-der-ukraine-in-moskau-aus-a-505d0dd0-d2ce-42ab-85ce-35eeda9dd99f#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/russland-armee-stellt-westliche-waffen-aus-der-ukraine-in-moskau-aus](https://www.spiegel.de/ausland/russland-armee-stellt-westliche-waffen-aus-der-ukraine-in-moskau-aus-a-505d0dd0-d2ce-42ab-85ce-35eeda9dd99f#ref=rss)
+### moskau
+
+* [https://www.spiegel.de/ausland/russland-armee-stellt-westliche-waffen-aus-der-ukraine-in-moskau-aus](https://www.spiegel.de/ausland/russland-armee-stellt-westliche-waffen-aus-der-ukraine-in-moskau-aus-a-505d0dd0-d2ce-42ab-85ce-35eeda9dd99f#ref=rss)
+### tausende
+
+* [https://www.spiegel.de/ausland/russland-armee-stellt-westliche-waffen-aus-der-ukraine-in-moskau-aus](https://www.spiegel.de/ausland/russland-armee-stellt-westliche-waffen-aus-der-ukraine-in-moskau-aus-a-505d0dd0-d2ce-42ab-85ce-35eeda9dd99f#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/cybercrime-ukrainischer-hacker-zu-13-jahren-haft-in-den-usa-verurteilt](https://www.spiegel.de/netzwelt/web/cybercrime-ukrainischer-hacker-zu-13-jahren-haft-in-den-usa-verurteilt-a-58fe5fdc-6144-46dd-bf31-c9d7ab75a798#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/ausland/russland-armee-stellt-westliche-waffen-aus-der-ukraine-in-moskau-aus](https://www.spiegel.de/ausland/russland-armee-stellt-westliche-waffen-aus-der-ukraine-in-moskau-aus-a-505d0dd0-d2ce-42ab-85ce-35eeda9dd99f#ref=rss)
+* [https://www.spiegel.de/start/studium-in-deutschland-soll-die-zahl-der-studienanfaenger-bis-2035-deutlich-steigen](https://www.spiegel.de/start/studium-in-deutschland-soll-die-zahl-der-studienanfaenger-bis-2035-deutlich-steigen-a-0ff57b84-5e9a-436a-9c2e-ed30bb06625b#ref=rss)
+### duane
+
+* [https://www.spiegel.de/kultur/musik/duane-eddy-ist-tot-gitarrist-von-peter-gunn-pepe-war-king-of-twang](https://www.spiegel.de/kultur/musik/duane-eddy-ist-tot-gitarrist-von-peter-gunn-pepe-war-king-of-twang-a-de0f7a64-1e16-4916-a564-f8d50cde96fa#ref=rss)
+### eddy
+
+* [https://www.spiegel.de/kultur/musik/duane-eddy-ist-tot-gitarrist-von-peter-gunn-pepe-war-king-of-twang](https://www.spiegel.de/kultur/musik/duane-eddy-ist-tot-gitarrist-von-peter-gunn-pepe-war-king-of-twang-a-de0f7a64-1e16-4916-a564-f8d50cde96fa#ref=rss)
+### peter
+
+* [https://www.spiegel.de/kultur/musik/duane-eddy-ist-tot-gitarrist-von-peter-gunn-pepe-war-king-of-twang](https://www.spiegel.de/kultur/musik/duane-eddy-ist-tot-gitarrist-von-peter-gunn-pepe-war-king-of-twang-a-de0f7a64-1e16-4916-a564-f8d50cde96fa#ref=rss)
+### gunn
+
+* [https://www.spiegel.de/kultur/musik/duane-eddy-ist-tot-gitarrist-von-peter-gunn-pepe-war-king-of-twang](https://www.spiegel.de/kultur/musik/duane-eddy-ist-tot-gitarrist-von-peter-gunn-pepe-war-king-of-twang-a-de0f7a64-1e16-4916-a564-f8d50cde96fa#ref=rss)
+### paris
+
+* [https://www.spiegel.de/sport/fussball/borussia-dortmund-gegen-paris-saint-germain-als-waere-es-das-letzte-spiel-ihres-lebens](https://www.spiegel.de/sport/fussball/borussia-dortmund-gegen-paris-saint-germain-als-waere-es-das-letzte-spiel-ihres-lebens-a-f96c4cc2-8e8d-4a18-9b7f-b9fe20d22af3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-besiegt-paris-saint-germain-nur-nicht-loben-bitte](https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-besiegt-paris-saint-germain-nur-nicht-loben-bitte-a-ac625122-3b35-486b-bc37-75d837338f1c#ref=rss)
+### saintgermain
+
+* [https://www.spiegel.de/sport/fussball/borussia-dortmund-gegen-paris-saint-germain-als-waere-es-das-letzte-spiel-ihres-lebens](https://www.spiegel.de/sport/fussball/borussia-dortmund-gegen-paris-saint-germain-als-waere-es-das-letzte-spiel-ihres-lebens-a-f96c4cc2-8e8d-4a18-9b7f-b9fe20d22af3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-besiegt-paris-saint-germain-nur-nicht-loben-bitte](https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-besiegt-paris-saint-germain-nur-nicht-loben-bitte-a-ac625122-3b35-486b-bc37-75d837338f1c#ref=rss)
+### mbappé
+
+* [https://www.spiegel.de/sport/fussball/borussia-dortmund-gegen-paris-saint-germain-als-waere-es-das-letzte-spiel-ihres-lebens](https://www.spiegel.de/sport/fussball/borussia-dortmund-gegen-paris-saint-germain-als-waere-es-das-letzte-spiel-ihres-lebens-a-f96c4cc2-8e8d-4a18-9b7f-b9fe20d22af3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-besiegt-paris-saint-germain-nur-nicht-loben-bitte](https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-besiegt-paris-saint-germain-nur-nicht-loben-bitte-a-ac625122-3b35-486b-bc37-75d837338f1c#ref=rss)
+### politik
+
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-seine-eier-und-die-infantilisierung-der-politik](https://www.spiegel.de/politik/deutschland/markus-soeder-seine-eier-und-die-infantilisierung-der-politik-a-968aed3c-9af3-4588-ab82-8671d21492a5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-das-cdu-gespenst-worum-es-bei-leitkultur-wirklich-geht-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-das-cdu-gespenst-worum-es-bei-leitkultur-wirklich-geht-podcast-a-5703b17e-7289-4564-9031-53e3757fe2a3#ref=rss)
+### stuttgart
+
+* [https://www.spiegel.de/panorama/justiz/stuttgart-1-mai-25-einsatzkraefte-und-drei-pferde-lauf-polizei-verletzt](https://www.spiegel.de/panorama/justiz/stuttgart-1-mai-25-einsatzkraefte-und-drei-pferde-lauf-polizei-verletzt-a-54e1c2c9-1187-47cc-ba46-fa29611fab4c#ref=rss)
+### 1
+
+* [https://www.spiegel.de/panorama/justiz/stuttgart-1-mai-25-einsatzkraefte-und-drei-pferde-lauf-polizei-verletzt](https://www.spiegel.de/panorama/justiz/stuttgart-1-mai-25-einsatzkraefte-und-drei-pferde-lauf-polizei-verletzt-a-54e1c2c9-1187-47cc-ba46-fa29611fab4c#ref=rss)
+### mai
+
+* [https://www.spiegel.de/panorama/justiz/stuttgart-1-mai-25-einsatzkraefte-und-drei-pferde-lauf-polizei-verletzt](https://www.spiegel.de/panorama/justiz/stuttgart-1-mai-25-einsatzkraefte-und-drei-pferde-lauf-polizei-verletzt-a-54e1c2c9-1187-47cc-ba46-fa29611fab4c#ref=rss)
+### studium
+
+* [https://www.spiegel.de/start/studium-in-deutschland-soll-die-zahl-der-studienanfaenger-bis-2035-deutlich-steigen](https://www.spiegel.de/start/studium-in-deutschland-soll-die-zahl-der-studienanfaenger-bis-2035-deutlich-steigen-a-0ff57b84-5e9a-436a-9c2e-ed30bb06625b#ref=rss)
+### 2035
+
+* [https://www.spiegel.de/start/studium-in-deutschland-soll-die-zahl-der-studienanfaenger-bis-2035-deutlich-steigen](https://www.spiegel.de/start/studium-in-deutschland-soll-die-zahl-der-studienanfaenger-bis-2035-deutlich-steigen-a-0ff57b84-5e9a-436a-9c2e-ed30bb06625b#ref=rss)
+### deutlich
+
+* [https://www.spiegel.de/start/studium-in-deutschland-soll-die-zahl-der-studienanfaenger-bis-2035-deutlich-steigen](https://www.spiegel.de/start/studium-in-deutschland-soll-die-zahl-der-studienanfaenger-bis-2035-deutlich-steigen-a-0ff57b84-5e9a-436a-9c2e-ed30bb06625b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/mindestlohn-wirtschaftsweiser-achim-truger-fuer-erhoehung-auf-14-euro](https://www.spiegel.de/wirtschaft/soziales/mindestlohn-wirtschaftsweiser-achim-truger-fuer-erhoehung-auf-14-euro-a-ec02cb87-2121-437c-97ed-3f935c2212a9#ref=rss)
+### steigen
+
+* [https://www.spiegel.de/start/studium-in-deutschland-soll-die-zahl-der-studienanfaenger-bis-2035-deutlich-steigen](https://www.spiegel.de/start/studium-in-deutschland-soll-die-zahl-der-studienanfaenger-bis-2035-deutlich-steigen-a-0ff57b84-5e9a-436a-9c2e-ed30bb06625b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/mindestlohn-wirtschaftsweiser-achim-truger-fuer-erhoehung-auf-14-euro](https://www.spiegel.de/wirtschaft/soziales/mindestlohn-wirtschaftsweiser-achim-truger-fuer-erhoehung-auf-14-euro-a-ec02cb87-2121-437c-97ed-3f935c2212a9#ref=rss)
+### 15jähriger
+
+* [https://www.spiegel.de/panorama/justiz/neubrandenburg-15-jaehriger-wegen-mordes-an-joel-zu-sieben-jahren-und-neun-monaten-jugendstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/neubrandenburg-15-jaehriger-wegen-mordes-an-joel-zu-sieben-jahren-und-neun-monaten-jugendstrafe-verurteilt-a-2b27f1bc-5d4c-4777-98c4-99fb6d855397#ref=rss)
+### joel
+
+* [https://www.spiegel.de/panorama/justiz/neubrandenburg-15-jaehriger-wegen-mordes-an-joel-zu-sieben-jahren-und-neun-monaten-jugendstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/neubrandenburg-15-jaehriger-wegen-mordes-an-joel-zu-sieben-jahren-und-neun-monaten-jugendstrafe-verurteilt-a-2b27f1bc-5d4c-4777-98c4-99fb6d855397#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/panorama/justiz/neubrandenburg-15-jaehriger-wegen-mordes-an-joel-zu-sieben-jahren-und-neun-monaten-jugendstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/neubrandenburg-15-jaehriger-wegen-mordes-an-joel-zu-sieben-jahren-und-neun-monaten-jugendstrafe-verurteilt-a-2b27f1bc-5d4c-4777-98c4-99fb6d855397#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/cybercrime-ukrainischer-hacker-zu-13-jahren-haft-in-den-usa-verurteilt](https://www.spiegel.de/netzwelt/web/cybercrime-ukrainischer-hacker-zu-13-jahren-haft-in-den-usa-verurteilt-a-58fe5fdc-6144-46dd-bf31-c9d7ab75a798#ref=rss)
+### fall
+
+* [https://www.spiegel.de/panorama/justiz/neubrandenburg-15-jaehriger-wegen-mordes-an-joel-zu-sieben-jahren-und-neun-monaten-jugendstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/neubrandenburg-15-jaehriger-wegen-mordes-an-joel-zu-sieben-jahren-und-neun-monaten-jugendstrafe-verurteilt-a-2b27f1bc-5d4c-4777-98c4-99fb6d855397#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/madeleine-maddie-mccann-britische-polizei-soll-neues-geld-fuer-die-suche-bekommen](https://www.spiegel.de/panorama/justiz/madeleine-maddie-mccann-britische-polizei-soll-neues-geld-fuer-die-suche-bekommen-a-44d6e912-f0ea-4195-8fad-bfeacd6bb610#ref=rss)
+### geburtenzahl
+
+* [https://www.spiegel.de/panorama/gesellschaft/geburten-zahl-in-deutschland-sinkt-auf-zehnjahrestief](https://www.spiegel.de/panorama/gesellschaft/geburten-zahl-in-deutschland-sinkt-auf-zehnjahrestief-a-e1389f40-4093-4348-b04e-5c08c0ab86e6#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/bundesliga-ralf-rangnick-wird-doch-nicht-trainer-beim-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/bundesliga-ralf-rangnick-wird-doch-nicht-trainer-beim-fc-bayern-muenchen-a-23c6c5d2-1a0d-4cd1-824b-81c6e13d895f#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/bundesliga-ralf-rangnick-wird-doch-nicht-trainer-beim-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/bundesliga-ralf-rangnick-wird-doch-nicht-trainer-beim-fc-bayern-muenchen-a-23c6c5d2-1a0d-4cd1-824b-81c6e13d895f#ref=rss)
+### ralf
+
+* [https://www.spiegel.de/sport/fussball/bundesliga-ralf-rangnick-wird-doch-nicht-trainer-beim-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/bundesliga-ralf-rangnick-wird-doch-nicht-trainer-beim-fc-bayern-muenchen-a-23c6c5d2-1a0d-4cd1-824b-81c6e13d895f#ref=rss)
+### rangnick
+
+* [https://www.spiegel.de/sport/fussball/bundesliga-ralf-rangnick-wird-doch-nicht-trainer-beim-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/bundesliga-ralf-rangnick-wird-doch-nicht-trainer-beim-fc-bayern-muenchen-a-23c6c5d2-1a0d-4cd1-824b-81c6e13d895f#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-das-cdu-gespenst-worum-es-bei-leitkultur-wirklich-geht-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-das-cdu-gespenst-worum-es-bei-leitkultur-wirklich-geht-podcast-a-5703b17e-7289-4564-9031-53e3757fe2a3#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-das-cdu-gespenst-worum-es-bei-leitkultur-wirklich-geht-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-das-cdu-gespenst-worum-es-bei-leitkultur-wirklich-geht-podcast-a-5703b17e-7289-4564-9031-53e3757fe2a3#ref=rss)
+### leitkultur
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-das-cdu-gespenst-worum-es-bei-leitkultur-wirklich-geht-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-das-cdu-gespenst-worum-es-bei-leitkultur-wirklich-geht-podcast-a-5703b17e-7289-4564-9031-53e3757fe2a3#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/campusproteste-us-repraesentantenhaus-stimmt-fuer-erweiterte-antisemitismus-definition](https://www.spiegel.de/ausland/campusproteste-us-repraesentantenhaus-stimmt-fuer-erweiterte-antisemitismus-definition-a-a8169796-635a-4a6c-8258-dd542bc7f57f#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/cybercrime-ukrainischer-hacker-zu-13-jahren-haft-in-den-usa-verurteilt](https://www.spiegel.de/netzwelt/web/cybercrime-ukrainischer-hacker-zu-13-jahren-haft-in-den-usa-verurteilt-a-58fe5fdc-6144-46dd-bf31-c9d7ab75a798#ref=rss)
+### repräsentantenhaus
+
+* [https://www.spiegel.de/ausland/campusproteste-us-repraesentantenhaus-stimmt-fuer-erweiterte-antisemitismus-definition](https://www.spiegel.de/ausland/campusproteste-us-repraesentantenhaus-stimmt-fuer-erweiterte-antisemitismus-definition-a-a8169796-635a-4a6c-8258-dd542bc7f57f#ref=rss)
+### harvey
+
+* [https://www.spiegel.de/ausland/harvey-weinstein-rueckkehr-ans-gericht-ein-neuer-prozess-steht-bevor](https://www.spiegel.de/ausland/harvey-weinstein-rueckkehr-ans-gericht-ein-neuer-prozess-steht-bevor-a-5983b83b-17fa-442b-bda5-c972b26d2f80#ref=rss)
+### weinstein
+
+* [https://www.spiegel.de/ausland/harvey-weinstein-rueckkehr-ans-gericht-ein-neuer-prozess-steht-bevor](https://www.spiegel.de/ausland/harvey-weinstein-rueckkehr-ans-gericht-ein-neuer-prozess-steht-bevor-a-5983b83b-17fa-442b-bda5-c972b26d2f80#ref=rss)
+### neuer
+
+* [https://www.spiegel.de/ausland/harvey-weinstein-rueckkehr-ans-gericht-ein-neuer-prozess-steht-bevor](https://www.spiegel.de/ausland/harvey-weinstein-rueckkehr-ans-gericht-ein-neuer-prozess-steht-bevor-a-5983b83b-17fa-442b-bda5-c972b26d2f80#ref=rss)
+* [https://www.spiegel.de/ausland/ursula-von-der-leyen-reist-in-den-libanon-milliardendeal-der-eu-soll-ankunft-von-fluechtlingen-verhindern](https://www.spiegel.de/ausland/ursula-von-der-leyen-reist-in-den-libanon-milliardendeal-der-eu-soll-ankunft-von-fluechtlingen-verhindern-a-6ed5d6f3-ba13-4e92-bc95-2b81b9759eb0#ref=rss)
+### madeleine
+
+* [https://www.spiegel.de/panorama/justiz/madeleine-maddie-mccann-britische-polizei-soll-neues-geld-fuer-die-suche-bekommen](https://www.spiegel.de/panorama/justiz/madeleine-maddie-mccann-britische-polizei-soll-neues-geld-fuer-die-suche-bekommen-a-44d6e912-f0ea-4195-8fad-bfeacd6bb610#ref=rss)
+### mccann
+
+* [https://www.spiegel.de/panorama/justiz/madeleine-maddie-mccann-britische-polizei-soll-neues-geld-fuer-die-suche-bekommen](https://www.spiegel.de/panorama/justiz/madeleine-maddie-mccann-britische-polizei-soll-neues-geld-fuer-die-suche-bekommen-a-44d6e912-f0ea-4195-8fad-bfeacd6bb610#ref=rss)
+### britische
+
+* [https://www.spiegel.de/panorama/justiz/madeleine-maddie-mccann-britische-polizei-soll-neues-geld-fuer-die-suche-bekommen](https://www.spiegel.de/panorama/justiz/madeleine-maddie-mccann-britische-polizei-soll-neues-geld-fuer-die-suche-bekommen-a-44d6e912-f0ea-4195-8fad-bfeacd6bb610#ref=rss)
+### neues
+
+* [https://www.spiegel.de/panorama/justiz/madeleine-maddie-mccann-britische-polizei-soll-neues-geld-fuer-die-suche-bekommen](https://www.spiegel.de/panorama/justiz/madeleine-maddie-mccann-britische-polizei-soll-neues-geld-fuer-die-suche-bekommen-a-44d6e912-f0ea-4195-8fad-bfeacd6bb610#ref=rss)
+* [https://www.spiegel.de/ausland/ursula-von-der-leyen-reist-in-den-libanon-milliardendeal-der-eu-soll-ankunft-von-fluechtlingen-verhindern](https://www.spiegel.de/ausland/ursula-von-der-leyen-reist-in-den-libanon-milliardendeal-der-eu-soll-ankunft-von-fluechtlingen-verhindern-a-6ed5d6f3-ba13-4e92-bc95-2b81b9759eb0#ref=rss)
+### mindestlohn
+
+* [https://www.spiegel.de/wirtschaft/soziales/mindestlohn-wirtschaftsweiser-achim-truger-fuer-erhoehung-auf-14-euro](https://www.spiegel.de/wirtschaft/soziales/mindestlohn-wirtschaftsweiser-achim-truger-fuer-erhoehung-auf-14-euro-a-ec02cb87-2121-437c-97ed-3f935c2212a9#ref=rss)
+### achim
+
+* [https://www.spiegel.de/wirtschaft/soziales/mindestlohn-wirtschaftsweiser-achim-truger-fuer-erhoehung-auf-14-euro](https://www.spiegel.de/wirtschaft/soziales/mindestlohn-wirtschaftsweiser-achim-truger-fuer-erhoehung-auf-14-euro-a-ec02cb87-2121-437c-97ed-3f935c2212a9#ref=rss)
+### truger
+
+* [https://www.spiegel.de/wirtschaft/soziales/mindestlohn-wirtschaftsweiser-achim-truger-fuer-erhoehung-auf-14-euro](https://www.spiegel.de/wirtschaft/soziales/mindestlohn-wirtschaftsweiser-achim-truger-fuer-erhoehung-auf-14-euro-a-ec02cb87-2121-437c-97ed-3f935c2212a9#ref=rss)
+### 14
+
+* [https://www.spiegel.de/wirtschaft/soziales/mindestlohn-wirtschaftsweiser-achim-truger-fuer-erhoehung-auf-14-euro](https://www.spiegel.de/wirtschaft/soziales/mindestlohn-wirtschaftsweiser-achim-truger-fuer-erhoehung-auf-14-euro-a-ec02cb87-2121-437c-97ed-3f935c2212a9#ref=rss)
 ### euro
 
-* [https://www.spiegel.de/ausland/italien-regierung-zahlt-einer-million-familien-100-euro-bonus](https://www.spiegel.de/ausland/italien-regierung-zahlt-einer-million-familien-100-euro-bonus-a-007b382d-9ed2-463a-b775-55079b48e84d#ref=rss)
-### china
+* [https://www.spiegel.de/wirtschaft/soziales/mindestlohn-wirtschaftsweiser-achim-truger-fuer-erhoehung-auf-14-euro](https://www.spiegel.de/wirtschaft/soziales/mindestlohn-wirtschaftsweiser-achim-truger-fuer-erhoehung-auf-14-euro-a-ec02cb87-2121-437c-97ed-3f935c2212a9#ref=rss)
+### 2025
 
-* [https://www.spiegel.de/ausland/fujian-chinas-neuester-flugzeugtraeger-sticht-zum-ersten-mal-in-see](https://www.spiegel.de/ausland/fujian-chinas-neuester-flugzeugtraeger-sticht-zum-ersten-mal-in-see-a-90ac3b7f-4d5f-463c-a61f-7509a004d06c#ref=rss)
-### fujian
+* [https://www.spiegel.de/wirtschaft/soziales/mindestlohn-wirtschaftsweiser-achim-truger-fuer-erhoehung-auf-14-euro](https://www.spiegel.de/wirtschaft/soziales/mindestlohn-wirtschaftsweiser-achim-truger-fuer-erhoehung-auf-14-euro-a-ec02cb87-2121-437c-97ed-3f935c2212a9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/bundeshaushalt-2025-gruene-warnen-christian-lindner-vor-hartem-sparkurs](https://www.spiegel.de/wirtschaft/soziales/bundeshaushalt-2025-gruene-warnen-christian-lindner-vor-hartem-sparkurs-a-141970cb-e24b-4f3f-a140-1821c1cca121#ref=rss)
+### bezahlkarte
 
-* [https://www.spiegel.de/ausland/fujian-chinas-neuester-flugzeugtraeger-sticht-zum-ersten-mal-in-see](https://www.spiegel.de/ausland/fujian-chinas-neuester-flugzeugtraeger-sticht-zum-ersten-mal-in-see-a-90ac3b7f-4d5f-463c-a61f-7509a004d06c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/staedtetag-fordert-pflicht-zur-bezahlkarte-fuer-fluechtlinge](https://www.spiegel.de/politik/deutschland/staedtetag-fordert-pflicht-zur-bezahlkarte-fuer-fluechtlinge-a-ba5c4602-d27a-40c0-8355-76047f86e7aa#ref=rss)
+### städtetag
+
+* [https://www.spiegel.de/politik/deutschland/staedtetag-fordert-pflicht-zur-bezahlkarte-fuer-fluechtlinge](https://www.spiegel.de/politik/deutschland/staedtetag-fordert-pflicht-zur-bezahlkarte-fuer-fluechtlinge-a-ba5c4602-d27a-40c0-8355-76047f86e7aa#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/politik/deutschland/staedtetag-fordert-pflicht-zur-bezahlkarte-fuer-fluechtlinge](https://www.spiegel.de/politik/deutschland/staedtetag-fordert-pflicht-zur-bezahlkarte-fuer-fluechtlinge-a-ba5c4602-d27a-40c0-8355-76047f86e7aa#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/bundeshaushalt-2025-gruene-warnen-christian-lindner-vor-hartem-sparkurs](https://www.spiegel.de/wirtschaft/soziales/bundeshaushalt-2025-gruene-warnen-christian-lindner-vor-hartem-sparkurs-a-141970cb-e24b-4f3f-a140-1821c1cca121#ref=rss)
+### flüchtlinge
+
+* [https://www.spiegel.de/politik/deutschland/staedtetag-fordert-pflicht-zur-bezahlkarte-fuer-fluechtlinge](https://www.spiegel.de/politik/deutschland/staedtetag-fordert-pflicht-zur-bezahlkarte-fuer-fluechtlinge-a-ba5c4602-d27a-40c0-8355-76047f86e7aa#ref=rss)
+### lindner
+
+* [https://www.spiegel.de/wirtschaft/soziales/bundeshaushalt-2025-gruene-warnen-christian-lindner-vor-hartem-sparkurs](https://www.spiegel.de/wirtschaft/soziales/bundeshaushalt-2025-gruene-warnen-christian-lindner-vor-hartem-sparkurs-a-141970cb-e24b-4f3f-a140-1821c1cca121#ref=rss)
+### eu
+
+* [https://www.spiegel.de/ausland/ursula-von-der-leyen-reist-in-den-libanon-milliardendeal-der-eu-soll-ankunft-von-fluechtlingen-verhindern](https://www.spiegel.de/ausland/ursula-von-der-leyen-reist-in-den-libanon-milliardendeal-der-eu-soll-ankunft-von-fluechtlingen-verhindern-a-6ed5d6f3-ba13-4e92-bc95-2b81b9759eb0#ref=rss)
 
