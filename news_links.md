@@ -4,337 +4,343 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### berlin
+### new
 
-* [https://www.spiegel.de/panorama/angriffe-auf-politiker-gruenen-politikerin-in-dresden-attackiert-franziska-giffey-in-berlin-angegriffen](https://www.spiegel.de/panorama/angriffe-auf-politiker-gruenen-politikerin-in-dresden-attackiert-franziska-giffey-in-berlin-angegriffen-a-b7ba30a6-d411-4b75-a98c-bb986e913c24#ref=rss)
-* [https://www.spiegel.de/kultur/tanzvideos-von-politikern-wie-friedrich-merz-und-boris-johnson-grosse-egos-steife-hueften](https://www.spiegel.de/kultur/tanzvideos-von-politikern-wie-friedrich-merz-und-boris-johnson-grosse-egos-steife-hueften-a-8c75cb81-2e79-4210-b602-ddf942c3c98b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/prozess-in-berlin-zornig-auf-der-strasse-versoehnlich-vor-gericht](https://www.spiegel.de/panorama/justiz/prozess-in-berlin-zornig-auf-der-strasse-versoehnlich-vor-gericht-a-2ab10884-c3de-4b80-8d33-a2fcf54cece1#ref=rss)
-* [https://www.spiegel.de/panorama/propalaestinensische-proteste-an-universitaeten-in-berlin-lehrende-stellen-sich-hinter-studierende](https://www.spiegel.de/panorama/propalaestinensische-proteste-an-universitaeten-in-berlin-lehrende-stellen-sich-hinter-studierende-a-1707b3f3-b34c-4760-a2e4-1057fc67ee6e#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/cdu-parteitag-friedrich-merz-und-die-suche-nach-einer-neuen-rolle](https://www.spiegel.de/politik/deutschland/cdu-parteitag-friedrich-merz-und-die-suche-nach-einer-neuen-rolle-a-852f3d6b-a042-4921-b87a-2ee5aeaa7559#ref=rss)
-* [https://www.spiegel.de/kultur/tanzvideos-von-politikern-wie-friedrich-merz-und-boris-johnson-grosse-egos-steife-hueften](https://www.spiegel.de/kultur/tanzvideos-von-politikern-wie-friedrich-merz-und-boris-johnson-grosse-egos-steife-hueften-a-8c75cb81-2e79-4210-b602-ddf942c3c98b#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/cdu-parteitag-friedrich-merz-und-die-suche-nach-einer-neuen-rolle](https://www.spiegel.de/politik/deutschland/cdu-parteitag-friedrich-merz-und-die-suche-nach-einer-neuen-rolle-a-852f3d6b-a042-4921-b87a-2ee5aeaa7559#ref=rss)
-* [https://www.spiegel.de/kultur/tanzvideos-von-politikern-wie-friedrich-merz-und-boris-johnson-grosse-egos-steife-hueften](https://www.spiegel.de/kultur/tanzvideos-von-politikern-wie-friedrich-merz-und-boris-johnson-grosse-egos-steife-hueften-a-8c75cb81-2e79-4210-b602-ddf942c3c98b#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/deutschland/gerhard-schindler-ex-bnd-chef-erwartet-weitere-spionage-enthuellungen](https://www.spiegel.de/politik/deutschland/gerhard-schindler-ex-bnd-chef-erwartet-weitere-spionage-enthuellungen-a-329bcfcb-e229-470d-afb6-40fb0e3ceee6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-borussia-dortmund-lena-schilling-franziska-giffey](https://www.spiegel.de/politik/deutschland/news-des-tages-borussia-dortmund-lena-schilling-franziska-giffey-a-6177c0b4-6fca-4094-a14b-0f401e242483#ref=rss)
-* [https://www.spiegel.de/panorama/propalaestinensische-proteste-an-universitaeten-in-berlin-lehrende-stellen-sich-hinter-studierende](https://www.spiegel.de/panorama/propalaestinensische-proteste-an-universitaeten-in-berlin-lehrende-stellen-sich-hinter-studierende-a-1707b3f3-b34c-4760-a2e4-1057fc67ee6e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/immobilien-markt-mieten-steigen-kaufpreise-sinken](https://www.spiegel.de/wirtschaft/service/immobilien-markt-mieten-steigen-kaufpreise-sinken-a-c24653a0-0c81-4345-a8e6-c536872d5cda#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/panorama/justiz/greta-thunberg-gericht-verurteilt-klimaaktivistin-in-schweden-zu-geldstrafe](https://www.spiegel.de/panorama/justiz/greta-thunberg-gericht-verurteilt-klimaaktivistin-in-schweden-zu-geldstrafe-a-b60f8446-9834-490d-8073-62748ac9a253#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/prozess-in-berlin-zornig-auf-der-strasse-versoehnlich-vor-gericht](https://www.spiegel.de/panorama/justiz/prozess-in-berlin-zornig-auf-der-strasse-versoehnlich-vor-gericht-a-2ab10884-c3de-4b80-8d33-a2fcf54cece1#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/panorama/justiz/moenchengladbach-eltern-lassen-kinder-im-wald-verwahrlosen-haftstrafe-fuer-den-vater](https://www.spiegel.de/panorama/justiz/moenchengladbach-eltern-lassen-kinder-im-wald-verwahrlosen-haftstrafe-fuer-den-vater-a-6dd14428-542e-4011-a2c3-6ea90c6fd120#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/foerderschulen-in-sachsen-anhalt-diese-fruehzeitige-trennung-ist-vor-allem-sozial-unglaublich-ungerecht](https://www.spiegel.de/panorama/bildung/foerderschulen-in-sachsen-anhalt-diese-fruehzeitige-trennung-ist-vor-allem-sozial-unglaublich-ungerecht-a-d57f060d-4822-4d52-bea6-3392c8b93aa2#ref=rss)
-* [https://www.spiegel.de/deinspiegel/wie-das-grundgesetz-entstanden-ist-fuer-kinder-erklaert](https://www.spiegel.de/deinspiegel/wie-das-grundgesetz-entstanden-ist-fuer-kinder-erklaert-a-e4f639a5-49e8-4e9c-bc67-fbf3b7316388#ref=rss)
-### giffey
-
-* [https://www.spiegel.de/panorama/angriffe-auf-politiker-gruenen-politikerin-in-dresden-attackiert-franziska-giffey-in-berlin-angegriffen](https://www.spiegel.de/panorama/angriffe-auf-politiker-gruenen-politikerin-in-dresden-attackiert-franziska-giffey-in-berlin-angegriffen-a-b7ba30a6-d411-4b75-a98c-bb986e913c24#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-borussia-dortmund-lena-schilling-franziska-giffey](https://www.spiegel.de/politik/deutschland/news-des-tages-borussia-dortmund-lena-schilling-franziska-giffey-a-6177c0b4-6fca-4094-a14b-0f401e242483#ref=rss)
+* [https://www.spiegel.de/kultur/blockbuster-reboot-planet-der-affen-new-kingdom-im-kino](https://www.spiegel.de/kultur/blockbuster-reboot-planet-der-affen-new-kingdom-im-kino-a-8c6201a3-2e75-4531-9353-79ea19c5fd56#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-hartensteins-schwerstarbeit-bringt-new-york-knicks-auf-halbfinalkurs](https://www.spiegel.de/sport/basketball/nba-hartensteins-schwerstarbeit-bringt-new-york-knicks-auf-halbfinalkurs-a-f25f8c6c-280f-41dc-8088-a1bedd26f36b#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/panorama/leute/miss-usa-noelia-voigt-gibt-ihren-titel-wegen-psychischer-probleme-ab](https://www.spiegel.de/panorama/leute/miss-usa-noelia-voigt-gibt-ihren-titel-wegen-psychischer-probleme-ab-a-dd3de5ee-9e9b-4b0c-8ec4-8b2ecddc2e48#ref=rss)
-* [https://www.spiegel.de/wirtschaft/mogelpackungen-bei-lebensmitteln-wie-orangensaft-und-brotchips-frueher-war-mehr-lametta](https://www.spiegel.de/wirtschaft/mogelpackungen-bei-lebensmitteln-wie-orangensaft-und-brotchips-frueher-war-mehr-lametta-a-36fc4976-f08e-4b73-90d0-b9ca00a6e772#ref=rss)
-* [https://www.spiegel.de/panorama/propalaestinensische-proteste-an-universitaeten-in-berlin-lehrende-stellen-sich-hinter-studierende](https://www.spiegel.de/panorama/propalaestinensische-proteste-an-universitaeten-in-berlin-lehrende-stellen-sich-hinter-studierende-a-1707b3f3-b34c-4760-a2e4-1057fc67ee6e#ref=rss)
-* [https://www.spiegel.de/kultur/omr-hamburg-sieben-nein-acht-erkenntnisse-von-der-digitalmesse](https://www.spiegel.de/kultur/omr-hamburg-sieben-nein-acht-erkenntnisse-von-der-digitalmesse-a-86d330d7-dd25-4803-be44-ab3cd48d4f67#ref=rss)
-### jahren
+* [https://www.spiegel.de/wirtschaft/china-ist-nicht-mehr-deutschlands-wichtigster-handelspartner-usa-vorn](https://www.spiegel.de/wirtschaft/china-ist-nicht-mehr-deutschlands-wichtigster-handelspartner-usa-vorn-a-35d3818d-f5d1-498e-89e7-9e54ca8fac8f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/frauen-im-fussball-esther-sedlaczek-wuenscht-sich-mehr-hilfe-gegen-belaestigung](https://www.spiegel.de/sport/fussball/frauen-im-fussball-esther-sedlaczek-wuenscht-sich-mehr-hilfe-gegen-belaestigung-a-d6d855ac-2db9-41ff-8727-3deaca950818#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/omid-nouripour-gruenenchef-reichen-ergebnisse-der-innenministerkonferenz-nicht-aus](https://www.spiegel.de/politik/deutschland/omid-nouripour-gruenenchef-reichen-ergebnisse-der-innenministerkonferenz-nicht-aus-a-519d04d7-f4ab-4f42-be75-e723a3ccf8c7#ref=rss)
+### trump
 
-* [https://www.spiegel.de/wissenschaft/natur/zikaden-invasion-in-den-usa-es-werden-billionen-insekten-erwartet](https://www.spiegel.de/wissenschaft/natur/zikaden-invasion-in-den-usa-es-werden-billionen-insekten-erwartet-a-30a97dcf-3333-455d-86d3-92503cb8ef13#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/garrick-club-nach-200-jahren-frauen-duerfen-erstmals-mitglied-werden](https://www.spiegel.de/panorama/gesellschaft/garrick-club-nach-200-jahren-frauen-duerfen-erstmals-mitglied-werden-a-8ec90b66-021d-4996-87b1-9d40db45ca85#ref=rss)
-* [https://www.spiegel.de/deinspiegel/wie-das-grundgesetz-entstanden-ist-fuer-kinder-erklaert](https://www.spiegel.de/deinspiegel/wie-das-grundgesetz-entstanden-ist-fuer-kinder-erklaert-a-e4f639a5-49e8-4e9c-bc67-fbf3b7316388#ref=rss)
-### sieht
+* [https://www.spiegel.de/ausland/republikaner-marjorie-taylor-greene-verprellt-parteifreunde-und-scheitert-mit-sturzversuch](https://www.spiegel.de/ausland/republikaner-marjorie-taylor-greene-verprellt-parteifreunde-und-scheitert-mit-sturzversuch-a-05880055-5854-4b1d-8581-3d70d152b4fa#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-rechnet-damit-dass-donald-trump-das-wahlergebnis-erneut-nicht-akzeptiert](https://www.spiegel.de/ausland/joe-biden-rechnet-damit-dass-donald-trump-das-wahlergebnis-erneut-nicht-akzeptiert-a-30a51de8-10cd-4ac7-95ce-c6b3c6512d17#ref=rss)
+### droht
 
-* [https://www.spiegel.de/politik/deutschland/gerhard-schindler-ex-bnd-chef-erwartet-weitere-spionage-enthuellungen](https://www.spiegel.de/politik/deutschland/gerhard-schindler-ex-bnd-chef-erwartet-weitere-spionage-enthuellungen-a-329bcfcb-e229-470d-afb6-40fb0e3ceee6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-borussia-dortmund-lena-schilling-franziska-giffey](https://www.spiegel.de/politik/deutschland/news-des-tages-borussia-dortmund-lena-schilling-franziska-giffey-a-6177c0b4-6fca-4094-a14b-0f401e242483#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/russland-drohen-eu-sanktionen-bei-fluessiggas](https://www.spiegel.de/politik/deutschland/russland-drohen-eu-sanktionen-bei-fluessiggas-a-b19b96d5-4a7a-4b5b-bf38-b4c32bff0bbf#ref=rss)
-### verurteilt
+* [https://www.spiegel.de/sport/doping-in-der-leichtathletik-staatsanwaltschaft-erhebt-anklage-gegen-sara-benfares](https://www.spiegel.de/sport/doping-in-der-leichtathletik-staatsanwaltschaft-erhebt-anklage-gegen-sara-benfares-a-bd7a46cd-363d-4140-8dce-dca21c72677d#ref=rss)
+* [https://www.spiegel.de/ausland/wladimir-putin-droht-bei-militaerparade-in-moskau-mit-atomstreitkraeften](https://www.spiegel.de/ausland/wladimir-putin-droht-bei-militaerparade-in-moskau-mit-atomstreitkraeften-a-3f646677-254c-44ad-89b7-6e2fcb915b68#ref=rss)
+### fc
 
-* [https://www.spiegel.de/panorama/justiz/greta-thunberg-gericht-verurteilt-klimaaktivistin-in-schweden-zu-geldstrafe](https://www.spiegel.de/panorama/justiz/greta-thunberg-gericht-verurteilt-klimaaktivistin-in-schweden-zu-geldstrafe-a-b60f8446-9834-490d-8073-62748ac9a253#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/moenchengladbach-eltern-lassen-kinder-im-wald-verwahrlosen-haftstrafe-fuer-den-vater](https://www.spiegel.de/panorama/justiz/moenchengladbach-eltern-lassen-kinder-im-wald-verwahrlosen-haftstrafe-fuer-den-vater-a-6dd14428-542e-4011-a2c3-6ea90c6fd120#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/kindesmissbrauch-sechs-jahre-haft-und-sicherungsverwahrung-fuer-schwimmmeister](https://www.spiegel.de/panorama/justiz/kindesmissbrauch-sechs-jahre-haft-und-sicherungsverwahrung-fuer-schwimmmeister-a-1b41a87c-5070-4470-9123-fa3d92c8b500#ref=rss)
-### zahlen
+* [https://www.spiegel.de/sport/fussball/zorn-des-fc-bayern-auf-champions-league-schiri-gegen-alle-regeln-des-fussballs](https://www.spiegel.de/sport/fussball/zorn-des-fc-bayern-auf-champions-league-schiri-gegen-alle-regeln-des-fussballs-a-eab8270a-e388-4ca9-9605-30f83053e373#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-malaysischer-klub-selangor-fc-sagt-auftaktspiel-nach-attacken-gegen-spieler-ab](https://www.spiegel.de/sport/fussball/fussball-malaysischer-klub-selangor-fc-sagt-auftaktspiel-nach-attacken-gegen-spieler-ab-a-238389eb-d258-40a0-b16e-9798bbe5ca96#ref=rss)
+### kinder
 
-* [https://www.spiegel.de/panorama/justiz/greta-thunberg-gericht-verurteilt-klimaaktivistin-in-schweden-zu-geldstrafe](https://www.spiegel.de/panorama/justiz/greta-thunberg-gericht-verurteilt-klimaaktivistin-in-schweden-zu-geldstrafe-a-b60f8446-9834-490d-8073-62748ac9a253#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/sozialbehoerde-muss-taxi-fuer-gehbehinderte-schuelerin-zahlen](https://www.spiegel.de/panorama/bildung/sozialbehoerde-muss-taxi-fuer-gehbehinderte-schuelerin-zahlen-a-30925b67-d303-406f-8b5f-79e41baf5094#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/immobilien-markt-mieten-steigen-kaufpreise-sinken](https://www.spiegel.de/wirtschaft/service/immobilien-markt-mieten-steigen-kaufpreise-sinken-a-c24653a0-0c81-4345-a8e6-c536872d5cda#ref=rss)
-### zwei
+* [https://www.spiegel.de/familie/kinder-und-essen-am-liebsten-nudeln-ohne-alles](https://www.spiegel.de/familie/kinder-und-essen-am-liebsten-nudeln-ohne-alles-a-7313ffbc-7072-474d-a2e1-46c3d2cb865b#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/panorama/justiz/moenchengladbach-eltern-lassen-kinder-im-wald-verwahrlosen-haftstrafe-fuer-den-vater](https://www.spiegel.de/panorama/justiz/moenchengladbach-eltern-lassen-kinder-im-wald-verwahrlosen-haftstrafe-fuer-den-vater-a-6dd14428-542e-4011-a2c3-6ea90c6fd120#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bau-verbaende-empfehlen-unternehmen-freiwillige-lohnerhoehungen](https://www.spiegel.de/wirtschaft/bau-verbaende-empfehlen-unternehmen-freiwillige-lohnerhoehungen-a-6ebc114c-d5dd-4f79-adf8-df29f9fbcd0a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/zikaden-invasion-in-den-usa-es-werden-billionen-insekten-erwartet](https://www.spiegel.de/wissenschaft/natur/zikaden-invasion-in-den-usa-es-werden-billionen-insekten-erwartet-a-30a97dcf-3333-455d-86d3-92503cb8ef13#ref=rss)
-### attackiert
+* [https://www.spiegel.de/familie/kinder-und-essen-am-liebsten-nudeln-ohne-alles](https://www.spiegel.de/familie/kinder-und-essen-am-liebsten-nudeln-ohne-alles-a-7313ffbc-7072-474d-a2e1-46c3d2cb865b#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-uno-spricht-von-80-000-gefluechteten-aus-rafah](https://www.spiegel.de/ausland/israel-gaza-krieg-uno-spricht-von-80-000-gefluechteten-aus-rafah-a-9dbcb315-c5d5-46b4-9e10-012cf9a9910a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/elon-musks-firma-neuralink-raeumt-probleme-mit-gehirnchip-ein](https://www.spiegel.de/wissenschaft/medizin/elon-musks-firma-neuralink-raeumt-probleme-mit-gehirnchip-ein-a-f3ce44c8-bff4-4d18-9a1e-acea36a3fa9e#ref=rss)
+### nichts
 
-* [https://www.spiegel.de/panorama/angriffe-auf-politiker-gruenen-politikerin-in-dresden-attackiert-franziska-giffey-in-berlin-angegriffen](https://www.spiegel.de/panorama/angriffe-auf-politiker-gruenen-politikerin-in-dresden-attackiert-franziska-giffey-in-berlin-angegriffen-a-b7ba30a6-d411-4b75-a98c-bb986e913c24#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-borussia-dortmund-lena-schilling-franziska-giffey](https://www.spiegel.de/politik/deutschland/news-des-tages-borussia-dortmund-lena-schilling-franziska-giffey-a-6177c0b4-6fca-4094-a14b-0f401e242483#ref=rss)
-### franziska
+* [https://www.spiegel.de/familie/kinder-und-essen-am-liebsten-nudeln-ohne-alles](https://www.spiegel.de/familie/kinder-und-essen-am-liebsten-nudeln-ohne-alles-a-7313ffbc-7072-474d-a2e1-46c3d2cb865b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gesundheit-aktive-arzt-rentner-ein-schnaufender-doktor-ist-nicht-gut](https://www.spiegel.de/wirtschaft/gesundheit-aktive-arzt-rentner-ein-schnaufender-doktor-ist-nicht-gut-a-3f7c739f-eca2-4fa8-9491-8b51c7c55bdb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/omid-nouripour-gruenenchef-reichen-ergebnisse-der-innenministerkonferenz-nicht-aus](https://www.spiegel.de/politik/deutschland/omid-nouripour-gruenenchef-reichen-ergebnisse-der-innenministerkonferenz-nicht-aus-a-519d04d7-f4ab-4f42-be75-e723a3ccf8c7#ref=rss)
+### ich
 
-* [https://www.spiegel.de/panorama/angriffe-auf-politiker-gruenen-politikerin-in-dresden-attackiert-franziska-giffey-in-berlin-angegriffen](https://www.spiegel.de/panorama/angriffe-auf-politiker-gruenen-politikerin-in-dresden-attackiert-franziska-giffey-in-berlin-angegriffen-a-b7ba30a6-d411-4b75-a98c-bb986e913c24#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-borussia-dortmund-lena-schilling-franziska-giffey](https://www.spiegel.de/politik/deutschland/news-des-tages-borussia-dortmund-lena-schilling-franziska-giffey-a-6177c0b4-6fca-4094-a14b-0f401e242483#ref=rss)
-### angegriffen
+* [https://www.spiegel.de/familie/kinder-und-essen-am-liebsten-nudeln-ohne-alles](https://www.spiegel.de/familie/kinder-und-essen-am-liebsten-nudeln-ohne-alles-a-7313ffbc-7072-474d-a2e1-46c3d2cb865b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ricarda-lang-gruenenchefin-ueber-gerechtigkeit-ich-habe-gemerkt-dass-ich-auf-der-wut-nicht-sitzen-bleiben-will](https://www.spiegel.de/politik/deutschland/ricarda-lang-gruenenchefin-ueber-gerechtigkeit-ich-habe-gemerkt-dass-ich-auf-der-wut-nicht-sitzen-bleiben-will-a-3e72e7e2-8e05-4105-b253-052276ae6d60#ref=rss)
+### neue
 
-* [https://www.spiegel.de/panorama/angriffe-auf-politiker-gruenen-politikerin-in-dresden-attackiert-franziska-giffey-in-berlin-angegriffen](https://www.spiegel.de/panorama/angriffe-auf-politiker-gruenen-politikerin-in-dresden-attackiert-franziska-giffey-in-berlin-angegriffen-a-b7ba30a6-d411-4b75-a98c-bb986e913c24#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/kevin-kuehnert-postfach-von-russischen-hackern-angegriffen](https://www.spiegel.de/netzwelt/web/kevin-kuehnert-postfach-von-russischen-hackern-angegriffen-a-f024e132-8032-4b54-b68d-dc25cebe95ba#ref=rss)
-### russland
+* [https://www.spiegel.de/sport/fussball/joselu-von-real-madrid-in-der-champions-league-der-neue-held-der-koeniglichen](https://www.spiegel.de/sport/fussball/joselu-von-real-madrid-in-der-champions-league-der-neue-held-der-koeniglichen-a-927a3458-0601-4486-b300-3764d3fef92d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/alphafold-3-was-kann-die-neue-ki-von-google-tochter-deepmind](https://www.spiegel.de/wissenschaft/technik/alphafold-3-was-kann-die-neue-ki-von-google-tochter-deepmind-a-2e362bcc-cc8b-414c-9f78-77a727180191#ref=rss)
+### donald
 
-* [https://www.spiegel.de/ausland/russland-wie-gefaehrlich-sind-die-atomdrohungen-wirklich-interview-mit-dem-experten-ulrich-kuehn](https://www.spiegel.de/ausland/russland-wie-gefaehrlich-sind-die-atomdrohungen-wirklich-interview-mit-dem-experten-ulrich-kuehn-a-fc2ca4db-5a8d-47fc-9384-fd18f841ab5b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/russland-drohen-eu-sanktionen-bei-fluessiggas](https://www.spiegel.de/politik/deutschland/russland-drohen-eu-sanktionen-bei-fluessiggas-a-b19b96d5-4a7a-4b5b-bf38-b4c32bff0bbf#ref=rss)
-### sagt
+* [https://www.spiegel.de/ausland/republikaner-marjorie-taylor-greene-verprellt-parteifreunde-und-scheitert-mit-sturzversuch](https://www.spiegel.de/ausland/republikaner-marjorie-taylor-greene-verprellt-parteifreunde-und-scheitert-mit-sturzversuch-a-05880055-5854-4b1d-8581-3d70d152b4fa#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-rechnet-damit-dass-donald-trump-das-wahlergebnis-erneut-nicht-akzeptiert](https://www.spiegel.de/ausland/joe-biden-rechnet-damit-dass-donald-trump-das-wahlergebnis-erneut-nicht-akzeptiert-a-30a51de8-10cd-4ac7-95ce-c6b3c6512d17#ref=rss)
+### 120
 
-* [https://www.spiegel.de/ausland/russland-wie-gefaehrlich-sind-die-atomdrohungen-wirklich-interview-mit-dem-experten-ulrich-kuehn](https://www.spiegel.de/ausland/russland-wie-gefaehrlich-sind-die-atomdrohungen-wirklich-interview-mit-dem-experten-ulrich-kuehn-a-fc2ca4db-5a8d-47fc-9384-fd18f841ab5b#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/foerderschulen-in-sachsen-anhalt-diese-fruehzeitige-trennung-ist-vor-allem-sozial-unglaublich-ungerecht](https://www.spiegel.de/panorama/bildung/foerderschulen-in-sachsen-anhalt-diese-fruehzeitige-trennung-ist-vor-allem-sozial-unglaublich-ungerecht-a-d57f060d-4822-4d52-bea6-3392c8b93aa2#ref=rss)
-* [https://www.spiegel.de/deinspiegel/wie-das-grundgesetz-entstanden-ist-fuer-kinder-erklaert](https://www.spiegel.de/deinspiegel/wie-das-grundgesetz-entstanden-ist-fuer-kinder-erklaert-a-e4f639a5-49e8-4e9c-bc67-fbf3b7316388#ref=rss)
-### sachsenanhalt
+* [https://www.spiegel.de/sport/triathlon-extremsportler-jonas-deichmann-will-120-ironman-in-120-tagen-absolvieren](https://www.spiegel.de/sport/triathlon-extremsportler-jonas-deichmann-will-120-ironman-in-120-tagen-absolvieren-a-569c4038-17a2-4cd6-be90-a951f8922292#ref=rss)
+### kilometer
 
-* [https://www.spiegel.de/panorama/bildung/foerderschulen-in-sachsen-anhalt-diese-fruehzeitige-trennung-ist-vor-allem-sozial-unglaublich-ungerecht](https://www.spiegel.de/panorama/bildung/foerderschulen-in-sachsen-anhalt-diese-fruehzeitige-trennung-ist-vor-allem-sozial-unglaublich-ungerecht-a-d57f060d-4822-4d52-bea6-3392c8b93aa2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/kindesmissbrauch-sechs-jahre-haft-und-sicherungsverwahrung-fuer-schwimmmeister](https://www.spiegel.de/panorama/justiz/kindesmissbrauch-sechs-jahre-haft-und-sicherungsverwahrung-fuer-schwimmmeister-a-1b41a87c-5070-4470-9123-fa3d92c8b500#ref=rss)
-### usa
+* [https://www.spiegel.de/sport/triathlon-extremsportler-jonas-deichmann-will-120-ironman-in-120-tagen-absolvieren](https://www.spiegel.de/sport/triathlon-extremsportler-jonas-deichmann-will-120-ironman-in-120-tagen-absolvieren-a-569c4038-17a2-4cd6-be90-a951f8922292#ref=rss)
+### planet
 
-* [https://www.spiegel.de/panorama/leute/miss-usa-noelia-voigt-gibt-ihren-titel-wegen-psychischer-probleme-ab](https://www.spiegel.de/panorama/leute/miss-usa-noelia-voigt-gibt-ihren-titel-wegen-psychischer-probleme-ab-a-dd3de5ee-9e9b-4b0c-8ec4-8b2ecddc2e48#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/zikaden-invasion-in-den-usa-es-werden-billionen-insekten-erwartet](https://www.spiegel.de/wissenschaft/natur/zikaden-invasion-in-den-usa-es-werden-billionen-insekten-erwartet-a-30a97dcf-3333-455d-86d3-92503cb8ef13#ref=rss)
-### erstmals
+* [https://www.spiegel.de/kultur/blockbuster-reboot-planet-der-affen-new-kingdom-im-kino](https://www.spiegel.de/kultur/blockbuster-reboot-planet-der-affen-new-kingdom-im-kino-a-8c6201a3-2e75-4531-9353-79ea19c5fd56#ref=rss)
+### affen
 
-* [https://www.spiegel.de/politik/deutschland/russland-drohen-eu-sanktionen-bei-fluessiggas](https://www.spiegel.de/politik/deutschland/russland-drohen-eu-sanktionen-bei-fluessiggas-a-b19b96d5-4a7a-4b5b-bf38-b4c32bff0bbf#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/zikaden-invasion-in-den-usa-es-werden-billionen-insekten-erwartet](https://www.spiegel.de/wissenschaft/natur/zikaden-invasion-in-den-usa-es-werden-billionen-insekten-erwartet-a-30a97dcf-3333-455d-86d3-92503cb8ef13#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/garrick-club-nach-200-jahren-frauen-duerfen-erstmals-mitglied-werden](https://www.spiegel.de/panorama/gesellschaft/garrick-club-nach-200-jahren-frauen-duerfen-erstmals-mitglied-werden-a-8ec90b66-021d-4996-87b1-9d40db45ca85#ref=rss)
-### 200
+* [https://www.spiegel.de/kultur/blockbuster-reboot-planet-der-affen-new-kingdom-im-kino](https://www.spiegel.de/kultur/blockbuster-reboot-planet-der-affen-new-kingdom-im-kino-a-8c6201a3-2e75-4531-9353-79ea19c5fd56#ref=rss)
+### kingdom
 
-* [https://www.spiegel.de/panorama/gesellschaft/garrick-club-nach-200-jahren-frauen-duerfen-erstmals-mitglied-werden](https://www.spiegel.de/panorama/gesellschaft/garrick-club-nach-200-jahren-frauen-duerfen-erstmals-mitglied-werden-a-8ec90b66-021d-4996-87b1-9d40db45ca85#ref=rss)
-* [https://www.spiegel.de/panorama/propalaestinensische-proteste-an-universitaeten-in-berlin-lehrende-stellen-sich-hinter-studierende](https://www.spiegel.de/panorama/propalaestinensische-proteste-an-universitaeten-in-berlin-lehrende-stellen-sich-hinter-studierende-a-1707b3f3-b34c-4760-a2e4-1057fc67ee6e#ref=rss)
-### boris
+* [https://www.spiegel.de/kultur/blockbuster-reboot-planet-der-affen-new-kingdom-im-kino](https://www.spiegel.de/kultur/blockbuster-reboot-planet-der-affen-new-kingdom-im-kino-a-8c6201a3-2e75-4531-9353-79ea19c5fd56#ref=rss)
+### gestartet
 
-* [https://www.spiegel.de/politik/deutschland/so-will-sich-boris-pistorius-von-der-schuldenbremse-befreien](https://www.spiegel.de/politik/deutschland/so-will-sich-boris-pistorius-von-der-schuldenbremse-befreien-a-d85d8458-5c62-432c-a4ab-b6c52c2d832d#ref=rss)
-* [https://www.spiegel.de/kultur/tanzvideos-von-politikern-wie-friedrich-merz-und-boris-johnson-grosse-egos-steife-hueften](https://www.spiegel.de/kultur/tanzvideos-von-politikern-wie-friedrich-merz-und-boris-johnson-grosse-egos-steife-hueften-a-8c75cb81-2e79-4210-b602-ddf942c3c98b#ref=rss)
-### pistorius
+* [https://www.spiegel.de/kultur/blockbuster-reboot-planet-der-affen-new-kingdom-im-kino](https://www.spiegel.de/kultur/blockbuster-reboot-planet-der-affen-new-kingdom-im-kino-a-8c6201a3-2e75-4531-9353-79ea19c5fd56#ref=rss)
+* [https://www.spiegel.de/sport/triathlon-extremsportler-jonas-deichmann-will-120-ironman-in-120-tagen-absolvieren](https://www.spiegel.de/sport/triathlon-extremsportler-jonas-deichmann-will-120-ironman-in-120-tagen-absolvieren-a-569c4038-17a2-4cd6-be90-a951f8922292#ref=rss)
+### sara
 
-* [https://www.spiegel.de/politik/deutschland/so-will-sich-boris-pistorius-von-der-schuldenbremse-befreien](https://www.spiegel.de/politik/deutschland/so-will-sich-boris-pistorius-von-der-schuldenbremse-befreien-a-d85d8458-5c62-432c-a4ab-b6c52c2d832d#ref=rss)
-### schuldenbremse
+* [https://www.spiegel.de/sport/doping-in-der-leichtathletik-staatsanwaltschaft-erhebt-anklage-gegen-sara-benfares](https://www.spiegel.de/sport/doping-in-der-leichtathletik-staatsanwaltschaft-erhebt-anklage-gegen-sara-benfares-a-bd7a46cd-363d-4140-8dce-dca21c72677d#ref=rss)
+### benfares
 
-* [https://www.spiegel.de/politik/deutschland/so-will-sich-boris-pistorius-von-der-schuldenbremse-befreien](https://www.spiegel.de/politik/deutschland/so-will-sich-boris-pistorius-von-der-schuldenbremse-befreien-a-d85d8458-5c62-432c-a4ab-b6c52c2d832d#ref=rss)
-### beginn
+* [https://www.spiegel.de/sport/doping-in-der-leichtathletik-staatsanwaltschaft-erhebt-anklage-gegen-sara-benfares](https://www.spiegel.de/sport/doping-in-der-leichtathletik-staatsanwaltschaft-erhebt-anklage-gegen-sara-benfares-a-bd7a46cd-363d-4140-8dce-dca21c72677d#ref=rss)
+### bayern
 
-* [https://www.spiegel.de/politik/deutschland/so-will-sich-boris-pistorius-von-der-schuldenbremse-befreien](https://www.spiegel.de/politik/deutschland/so-will-sich-boris-pistorius-von-der-schuldenbremse-befreien-a-d85d8458-5c62-432c-a4ab-b6c52c2d832d#ref=rss)
-* [https://www.spiegel.de/ausland/russland-wie-gefaehrlich-sind-die-atomdrohungen-wirklich-interview-mit-dem-experten-ulrich-kuehn](https://www.spiegel.de/ausland/russland-wie-gefaehrlich-sind-die-atomdrohungen-wirklich-interview-mit-dem-experten-ulrich-kuehn-a-fc2ca4db-5a8d-47fc-9384-fd18f841ab5b#ref=rss)
-### cduparteitag
+* [https://www.spiegel.de/sport/fussball/zorn-des-fc-bayern-auf-champions-league-schiri-gegen-alle-regeln-des-fussballs](https://www.spiegel.de/sport/fussball/zorn-des-fc-bayern-auf-champions-league-schiri-gegen-alle-regeln-des-fussballs-a-eab8270a-e388-4ca9-9605-30f83053e373#ref=rss)
+### wut
 
-* [https://www.spiegel.de/politik/deutschland/cdu-parteitag-friedrich-merz-und-die-suche-nach-einer-neuen-rolle](https://www.spiegel.de/politik/deutschland/cdu-parteitag-friedrich-merz-und-die-suche-nach-einer-neuen-rolle-a-852f3d6b-a042-4921-b87a-2ee5aeaa7559#ref=rss)
-* [https://www.spiegel.de/kultur/tanzvideos-von-politikern-wie-friedrich-merz-und-boris-johnson-grosse-egos-steife-hueften](https://www.spiegel.de/kultur/tanzvideos-von-politikern-wie-friedrich-merz-und-boris-johnson-grosse-egos-steife-hueften-a-8c75cb81-2e79-4210-b602-ddf942c3c98b#ref=rss)
-### neuen
+* [https://www.spiegel.de/sport/fussball/zorn-des-fc-bayern-auf-champions-league-schiri-gegen-alle-regeln-des-fussballs](https://www.spiegel.de/sport/fussball/zorn-des-fc-bayern-auf-champions-league-schiri-gegen-alle-regeln-des-fussballs-a-eab8270a-e388-4ca9-9605-30f83053e373#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ricarda-lang-gruenenchefin-ueber-gerechtigkeit-ich-habe-gemerkt-dass-ich-auf-der-wut-nicht-sitzen-bleiben-will](https://www.spiegel.de/politik/deutschland/ricarda-lang-gruenenchefin-ueber-gerechtigkeit-ich-habe-gemerkt-dass-ich-auf-der-wut-nicht-sitzen-bleiben-will-a-3e72e7e2-8e05-4105-b253-052276ae6d60#ref=rss)
+### groß
 
-* [https://www.spiegel.de/politik/deutschland/cdu-parteitag-friedrich-merz-und-die-suche-nach-einer-neuen-rolle](https://www.spiegel.de/politik/deutschland/cdu-parteitag-friedrich-merz-und-die-suche-nach-einer-neuen-rolle-a-852f3d6b-a042-4921-b87a-2ee5aeaa7559#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/mercedes-ex-basf-chef-martin-brudermueller-leitet-aufsichtsrat](https://www.spiegel.de/wirtschaft/unternehmen/mercedes-ex-basf-chef-martin-brudermueller-leitet-aufsichtsrat-a-a1eef9e9-46b7-4b0a-b61a-5fadcd7049e3#ref=rss)
-### neu
+* [https://www.spiegel.de/sport/fussball/zorn-des-fc-bayern-auf-champions-league-schiri-gegen-alle-regeln-des-fussballs](https://www.spiegel.de/sport/fussball/zorn-des-fc-bayern-auf-champions-league-schiri-gegen-alle-regeln-des-fussballs-a-eab8270a-e388-4ca9-9605-30f83053e373#ref=rss)
+* [https://www.spiegel.de/sport/mount-everest-verhaeltnisse-in-schluesselpassage-sorgen-fuer-anspannung-bei-alpinisten](https://www.spiegel.de/sport/mount-everest-verhaeltnisse-in-schluesselpassage-sorgen-fuer-anspannung-bei-alpinisten-a-58d2a3d3-7d8e-4902-a012-1df1a4531094#ref=rss)
+### madrid
 
-* [https://www.spiegel.de/politik/deutschland/cdu-parteitag-friedrich-merz-und-die-suche-nach-einer-neuen-rolle](https://www.spiegel.de/politik/deutschland/cdu-parteitag-friedrich-merz-und-die-suche-nach-einer-neuen-rolle-a-852f3d6b-a042-4921-b87a-2ee5aeaa7559#ref=rss)
-### schindler
+* [https://www.spiegel.de/sport/fussball/zorn-des-fc-bayern-auf-champions-league-schiri-gegen-alle-regeln-des-fussballs](https://www.spiegel.de/sport/fussball/zorn-des-fc-bayern-auf-champions-league-schiri-gegen-alle-regeln-des-fussballs-a-eab8270a-e388-4ca9-9605-30f83053e373#ref=rss)
+* [https://www.spiegel.de/sport/fussball/joselu-von-real-madrid-in-der-champions-league-der-neue-held-der-koeniglichen](https://www.spiegel.de/sport/fussball/joselu-von-real-madrid-in-der-champions-league-der-neue-held-der-koeniglichen-a-927a3458-0601-4486-b300-3764d3fef92d#ref=rss)
+### spieler
 
-* [https://www.spiegel.de/politik/deutschland/gerhard-schindler-ex-bnd-chef-erwartet-weitere-spionage-enthuellungen](https://www.spiegel.de/politik/deutschland/gerhard-schindler-ex-bnd-chef-erwartet-weitere-spionage-enthuellungen-a-329bcfcb-e229-470d-afb6-40fb0e3ceee6#ref=rss)
-### exbndchef
+* [https://www.spiegel.de/sport/fussball/zorn-des-fc-bayern-auf-champions-league-schiri-gegen-alle-regeln-des-fussballs](https://www.spiegel.de/sport/fussball/zorn-des-fc-bayern-auf-champions-league-schiri-gegen-alle-regeln-des-fussballs-a-eab8270a-e388-4ca9-9605-30f83053e373#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-malaysischer-klub-selangor-fc-sagt-auftaktspiel-nach-attacken-gegen-spieler-ab](https://www.spiegel.de/sport/fussball/fussball-malaysischer-klub-selangor-fc-sagt-auftaktspiel-nach-attacken-gegen-spieler-ab-a-238389eb-d258-40a0-b16e-9798bbe5ca96#ref=rss)
+### robert
 
-* [https://www.spiegel.de/politik/deutschland/gerhard-schindler-ex-bnd-chef-erwartet-weitere-spionage-enthuellungen](https://www.spiegel.de/politik/deutschland/gerhard-schindler-ex-bnd-chef-erwartet-weitere-spionage-enthuellungen-a-329bcfcb-e229-470d-afb6-40fb0e3ceee6#ref=rss)
-### erwartet
+* [https://www.spiegel.de/panorama/leute/robert-f-kennedy-jr-berichtete-von-wurm-in-seinem-gehirn](https://www.spiegel.de/panorama/leute/robert-f-kennedy-jr-berichtete-von-wurm-in-seinem-gehirn-a-0bc5fe8e-f326-442b-bddf-4b69c23d7954#ref=rss)
+### f
 
-* [https://www.spiegel.de/politik/deutschland/gerhard-schindler-ex-bnd-chef-erwartet-weitere-spionage-enthuellungen](https://www.spiegel.de/politik/deutschland/gerhard-schindler-ex-bnd-chef-erwartet-weitere-spionage-enthuellungen-a-329bcfcb-e229-470d-afb6-40fb0e3ceee6#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/zikaden-invasion-in-den-usa-es-werden-billionen-insekten-erwartet](https://www.spiegel.de/wissenschaft/natur/zikaden-invasion-in-den-usa-es-werden-billionen-insekten-erwartet-a-30a97dcf-3333-455d-86d3-92503cb8ef13#ref=rss)
-### wir
+* [https://www.spiegel.de/panorama/leute/robert-f-kennedy-jr-berichtete-von-wurm-in-seinem-gehirn](https://www.spiegel.de/panorama/leute/robert-f-kennedy-jr-berichtete-von-wurm-in-seinem-gehirn-a-0bc5fe8e-f326-442b-bddf-4b69c23d7954#ref=rss)
+### kennedy
 
-* [https://www.spiegel.de/politik/deutschland/gerhard-schindler-ex-bnd-chef-erwartet-weitere-spionage-enthuellungen](https://www.spiegel.de/politik/deutschland/gerhard-schindler-ex-bnd-chef-erwartet-weitere-spionage-enthuellungen-a-329bcfcb-e229-470d-afb6-40fb0e3ceee6#ref=rss)
-* [https://www.spiegel.de/deinspiegel/wie-das-grundgesetz-entstanden-ist-fuer-kinder-erklaert](https://www.spiegel.de/deinspiegel/wie-das-grundgesetz-entstanden-ist-fuer-kinder-erklaert-a-e4f639a5-49e8-4e9c-bc67-fbf3b7316388#ref=rss)
-### mario
+* [https://www.spiegel.de/panorama/leute/robert-f-kennedy-jr-berichtete-von-wurm-in-seinem-gehirn](https://www.spiegel.de/panorama/leute/robert-f-kennedy-jr-berichtete-von-wurm-in-seinem-gehirn-a-0bc5fe8e-f326-442b-bddf-4b69c23d7954#ref=rss)
+### jr
 
-* [https://www.spiegel.de/kultur/noergeln-zur-primetime-die-fragwuerdige-mecker-show-von-mario-barth-auf-rtl](https://www.spiegel.de/kultur/noergeln-zur-primetime-die-fragwuerdige-mecker-show-von-mario-barth-auf-rtl-a-5fb9e012-2188-456e-9c65-99628040757c#ref=rss)
-### barth
+* [https://www.spiegel.de/panorama/leute/robert-f-kennedy-jr-berichtete-von-wurm-in-seinem-gehirn](https://www.spiegel.de/panorama/leute/robert-f-kennedy-jr-berichtete-von-wurm-in-seinem-gehirn-a-0bc5fe8e-f326-442b-bddf-4b69c23d7954#ref=rss)
+### gehirn
 
-* [https://www.spiegel.de/kultur/noergeln-zur-primetime-die-fragwuerdige-mecker-show-von-mario-barth-auf-rtl](https://www.spiegel.de/kultur/noergeln-zur-primetime-die-fragwuerdige-mecker-show-von-mario-barth-auf-rtl-a-5fb9e012-2188-456e-9c65-99628040757c#ref=rss)
-### gehen
+* [https://www.spiegel.de/panorama/leute/robert-f-kennedy-jr-berichtete-von-wurm-in-seinem-gehirn](https://www.spiegel.de/panorama/leute/robert-f-kennedy-jr-berichtete-von-wurm-in-seinem-gehirn-a-0bc5fe8e-f326-442b-bddf-4b69c23d7954#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/elon-musks-firma-neuralink-raeumt-probleme-mit-gehirnchip-ein](https://www.spiegel.de/wissenschaft/medizin/elon-musks-firma-neuralink-raeumt-probleme-mit-gehirnchip-ein-a-f3ce44c8-bff4-4d18-9a1e-acea36a3fa9e#ref=rss)
+### essen
 
-* [https://www.spiegel.de/kultur/noergeln-zur-primetime-die-fragwuerdige-mecker-show-von-mario-barth-auf-rtl](https://www.spiegel.de/kultur/noergeln-zur-primetime-die-fragwuerdige-mecker-show-von-mario-barth-auf-rtl-a-5fb9e012-2188-456e-9c65-99628040757c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/immobilien-markt-mieten-steigen-kaufpreise-sinken](https://www.spiegel.de/wirtschaft/service/immobilien-markt-mieten-steigen-kaufpreise-sinken-a-c24653a0-0c81-4345-a8e6-c536872d5cda#ref=rss)
-### greta
+* [https://www.spiegel.de/familie/kinder-und-essen-am-liebsten-nudeln-ohne-alles](https://www.spiegel.de/familie/kinder-und-essen-am-liebsten-nudeln-ohne-alles-a-7313ffbc-7072-474d-a2e1-46c3d2cb865b#ref=rss)
+### liebsten
 
-* [https://www.spiegel.de/panorama/justiz/greta-thunberg-gericht-verurteilt-klimaaktivistin-in-schweden-zu-geldstrafe](https://www.spiegel.de/panorama/justiz/greta-thunberg-gericht-verurteilt-klimaaktivistin-in-schweden-zu-geldstrafe-a-b60f8446-9834-490d-8073-62748ac9a253#ref=rss)
-### thunberg
+* [https://www.spiegel.de/familie/kinder-und-essen-am-liebsten-nudeln-ohne-alles](https://www.spiegel.de/familie/kinder-und-essen-am-liebsten-nudeln-ohne-alles-a-7313ffbc-7072-474d-a2e1-46c3d2cb865b#ref=rss)
+### bmw
 
-* [https://www.spiegel.de/panorama/justiz/greta-thunberg-gericht-verurteilt-klimaaktivistin-in-schweden-zu-geldstrafe](https://www.spiegel.de/panorama/justiz/greta-thunberg-gericht-verurteilt-klimaaktivistin-in-schweden-zu-geldstrafe-a-b60f8446-9834-490d-8073-62748ac9a253#ref=rss)
-### klimaaktivisten
+* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-will-sich-weiter-kobalt-aus-marokko-liefern-lassen](https://www.spiegel.de/wirtschaft/unternehmen/bmw-will-sich-weiter-kobalt-aus-marokko-liefern-lassen-a-62d4715b-7afc-4914-a6ee-a3bd367881ef#ref=rss)
+### marokko
 
-* [https://www.spiegel.de/panorama/justiz/greta-thunberg-gericht-verurteilt-klimaaktivistin-in-schweden-zu-geldstrafe](https://www.spiegel.de/panorama/justiz/greta-thunberg-gericht-verurteilt-klimaaktivistin-in-schweden-zu-geldstrafe-a-b60f8446-9834-490d-8073-62748ac9a253#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/prozess-in-berlin-zornig-auf-der-strasse-versoehnlich-vor-gericht](https://www.spiegel.de/panorama/justiz/prozess-in-berlin-zornig-auf-der-strasse-versoehnlich-vor-gericht-a-2ab10884-c3de-4b80-8d33-a2fcf54cece1#ref=rss)
-### weist
+* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-will-sich-weiter-kobalt-aus-marokko-liefern-lassen](https://www.spiegel.de/wirtschaft/unternehmen/bmw-will-sich-weiter-kobalt-aus-marokko-liefern-lassen-a-62d4715b-7afc-4914-a6ee-a3bd367881ef#ref=rss)
+### kritik
 
-* [https://www.spiegel.de/panorama/justiz/greta-thunberg-gericht-verurteilt-klimaaktivistin-in-schweden-zu-geldstrafe](https://www.spiegel.de/panorama/justiz/greta-thunberg-gericht-verurteilt-klimaaktivistin-in-schweden-zu-geldstrafe-a-b60f8446-9834-490d-8073-62748ac9a253#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-grossbritannien-weist-russischen-verteidigungsattache-wegen-boesartiger-aktivitaeten-aus](https://www.spiegel.de/ausland/ukraine-krieg-grossbritannien-weist-russischen-verteidigungsattache-wegen-boesartiger-aktivitaeten-aus-a-d36d56bd-3b6b-4370-b511-c32ad48463ef#ref=rss)
-### zurück
+* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-will-sich-weiter-kobalt-aus-marokko-liefern-lassen](https://www.spiegel.de/wirtschaft/unternehmen/bmw-will-sich-weiter-kobalt-aus-marokko-liefern-lassen-a-62d4715b-7afc-4914-a6ee-a3bd367881ef#ref=rss)
+* [https://www.spiegel.de/sport/fussball/frauen-im-fussball-esther-sedlaczek-wuenscht-sich-mehr-hilfe-gegen-belaestigung](https://www.spiegel.de/sport/fussball/frauen-im-fussball-esther-sedlaczek-wuenscht-sich-mehr-hilfe-gegen-belaestigung-a-d6d855ac-2db9-41ff-8727-3deaca950818#ref=rss)
+### bleiben
 
-* [https://www.spiegel.de/panorama/justiz/greta-thunberg-gericht-verurteilt-klimaaktivistin-in-schweden-zu-geldstrafe](https://www.spiegel.de/panorama/justiz/greta-thunberg-gericht-verurteilt-klimaaktivistin-in-schweden-zu-geldstrafe-a-b60f8446-9834-490d-8073-62748ac9a253#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/immobilien-markt-mieten-steigen-kaufpreise-sinken](https://www.spiegel.de/wirtschaft/service/immobilien-markt-mieten-steigen-kaufpreise-sinken-a-c24653a0-0c81-4345-a8e6-c536872d5cda#ref=rss)
-### mönchengladbach
+* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-will-sich-weiter-kobalt-aus-marokko-liefern-lassen](https://www.spiegel.de/wirtschaft/unternehmen/bmw-will-sich-weiter-kobalt-aus-marokko-liefern-lassen-a-62d4715b-7afc-4914-a6ee-a3bd367881ef#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ricarda-lang-gruenenchefin-ueber-gerechtigkeit-ich-habe-gemerkt-dass-ich-auf-der-wut-nicht-sitzen-bleiben-will](https://www.spiegel.de/politik/deutschland/ricarda-lang-gruenenchefin-ueber-gerechtigkeit-ich-habe-gemerkt-dass-ich-auf-der-wut-nicht-sitzen-bleiben-will-a-3e72e7e2-8e05-4105-b253-052276ae6d60#ref=rss)
+### fordert
 
-* [https://www.spiegel.de/panorama/justiz/moenchengladbach-eltern-lassen-kinder-im-wald-verwahrlosen-haftstrafe-fuer-den-vater](https://www.spiegel.de/panorama/justiz/moenchengladbach-eltern-lassen-kinder-im-wald-verwahrlosen-haftstrafe-fuer-den-vater-a-6dd14428-542e-4011-a2c3-6ea90c6fd120#ref=rss)
-### wald
+* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-will-sich-weiter-kobalt-aus-marokko-liefern-lassen](https://www.spiegel.de/wirtschaft/unternehmen/bmw-will-sich-weiter-kobalt-aus-marokko-liefern-lassen-a-62d4715b-7afc-4914-a6ee-a3bd367881ef#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/omid-nouripour-gruenenchef-reichen-ergebnisse-der-innenministerkonferenz-nicht-aus](https://www.spiegel.de/politik/deutschland/omid-nouripour-gruenenchef-reichen-ergebnisse-der-innenministerkonferenz-nicht-aus-a-519d04d7-f4ab-4f42-be75-e723a3ccf8c7#ref=rss)
+### bundesregierung
 
-* [https://www.spiegel.de/panorama/justiz/moenchengladbach-eltern-lassen-kinder-im-wald-verwahrlosen-haftstrafe-fuer-den-vater](https://www.spiegel.de/panorama/justiz/moenchengladbach-eltern-lassen-kinder-im-wald-verwahrlosen-haftstrafe-fuer-den-vater-a-6dd14428-542e-4011-a2c3-6ea90c6fd120#ref=rss)
-### vater
+* [https://www.spiegel.de/wirtschaft/cannabis-shops-bundesregierung-ebnet-weg-fuer-legalen-verkauf-von-rauschmitteln](https://www.spiegel.de/wirtschaft/cannabis-shops-bundesregierung-ebnet-weg-fuer-legalen-verkauf-von-rauschmitteln-a-812c53b1-b9a3-4295-a440-f0d538e1364c#ref=rss)
+### ebnet
 
-* [https://www.spiegel.de/panorama/justiz/moenchengladbach-eltern-lassen-kinder-im-wald-verwahrlosen-haftstrafe-fuer-den-vater](https://www.spiegel.de/panorama/justiz/moenchengladbach-eltern-lassen-kinder-im-wald-verwahrlosen-haftstrafe-fuer-den-vater-a-6dd14428-542e-4011-a2c3-6ea90c6fd120#ref=rss)
-### martin
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/mercedes-ex-basf-chef-martin-brudermueller-leitet-aufsichtsrat](https://www.spiegel.de/wirtschaft/unternehmen/mercedes-ex-basf-chef-martin-brudermueller-leitet-aufsichtsrat-a-a1eef9e9-46b7-4b0a-b61a-5fadcd7049e3#ref=rss)
-### brudermüller
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/mercedes-ex-basf-chef-martin-brudermueller-leitet-aufsichtsrat](https://www.spiegel.de/wirtschaft/unternehmen/mercedes-ex-basf-chef-martin-brudermueller-leitet-aufsichtsrat-a-a1eef9e9-46b7-4b0a-b61a-5fadcd7049e3#ref=rss)
-### künftig
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/mercedes-ex-basf-chef-martin-brudermueller-leitet-aufsichtsrat](https://www.spiegel.de/wirtschaft/unternehmen/mercedes-ex-basf-chef-martin-brudermueller-leitet-aufsichtsrat-a-a1eef9e9-46b7-4b0a-b61a-5fadcd7049e3#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/foerderschulen-in-sachsen-anhalt-diese-fruehzeitige-trennung-ist-vor-allem-sozial-unglaublich-ungerecht](https://www.spiegel.de/panorama/bildung/foerderschulen-in-sachsen-anhalt-diese-fruehzeitige-trennung-ist-vor-allem-sozial-unglaublich-ungerecht-a-d57f060d-4822-4d52-bea6-3392c8b93aa2#ref=rss)
-### grünenpolitikerin
-
-* [https://www.spiegel.de/panorama/angriffe-auf-politiker-gruenen-politikerin-in-dresden-attackiert-franziska-giffey-in-berlin-angegriffen](https://www.spiegel.de/panorama/angriffe-auf-politiker-gruenen-politikerin-in-dresden-attackiert-franziska-giffey-in-berlin-angegriffen-a-b7ba30a6-d411-4b75-a98c-bb986e913c24#ref=rss)
-### dresden
-
-* [https://www.spiegel.de/panorama/angriffe-auf-politiker-gruenen-politikerin-in-dresden-attackiert-franziska-giffey-in-berlin-angegriffen](https://www.spiegel.de/panorama/angriffe-auf-politiker-gruenen-politikerin-in-dresden-attackiert-franziska-giffey-in-berlin-angegriffen-a-b7ba30a6-d411-4b75-a98c-bb986e913c24#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/angriffe-auf-politiker-gruenen-politikerin-in-dresden-attackiert-franziska-giffey-in-berlin-angegriffen](https://www.spiegel.de/panorama/angriffe-auf-politiker-gruenen-politikerin-in-dresden-attackiert-franziska-giffey-in-berlin-angegriffen-a-b7ba30a6-d411-4b75-a98c-bb986e913c24#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/kindesmissbrauch-sechs-jahre-haft-und-sicherungsverwahrung-fuer-schwimmmeister](https://www.spiegel.de/panorama/justiz/kindesmissbrauch-sechs-jahre-haft-und-sicherungsverwahrung-fuer-schwimmmeister-a-1b41a87c-5070-4470-9123-fa3d92c8b500#ref=rss)
-### politikern
-
-* [https://www.spiegel.de/kultur/tanzvideos-von-politikern-wie-friedrich-merz-und-boris-johnson-grosse-egos-steife-hueften](https://www.spiegel.de/kultur/tanzvideos-von-politikern-wie-friedrich-merz-und-boris-johnson-grosse-egos-steife-hueften-a-8c75cb81-2e79-4210-b602-ddf942c3c98b#ref=rss)
-### große
-
-* [https://www.spiegel.de/kultur/tanzvideos-von-politikern-wie-friedrich-merz-und-boris-johnson-grosse-egos-steife-hueften](https://www.spiegel.de/kultur/tanzvideos-von-politikern-wie-friedrich-merz-und-boris-johnson-grosse-egos-steife-hueften-a-8c75cb81-2e79-4210-b602-ddf942c3c98b#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/foerderschulen-in-sachsen-anhalt-diese-fruehzeitige-trennung-ist-vor-allem-sozial-unglaublich-ungerecht](https://www.spiegel.de/panorama/bildung/foerderschulen-in-sachsen-anhalt-diese-fruehzeitige-trennung-ist-vor-allem-sozial-unglaublich-ungerecht-a-d57f060d-4822-4d52-bea6-3392c8b93aa2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/cannabis-shops-bundesregierung-ebnet-weg-fuer-legalen-verkauf-von-rauschmitteln](https://www.spiegel.de/wirtschaft/cannabis-shops-bundesregierung-ebnet-weg-fuer-legalen-verkauf-von-rauschmitteln-a-812c53b1-b9a3-4295-a440-f0d538e1364c#ref=rss)
 ### weg
 
-* [https://www.spiegel.de/panorama/justiz/prozess-in-berlin-zornig-auf-der-strasse-versoehnlich-vor-gericht](https://www.spiegel.de/panorama/justiz/prozess-in-berlin-zornig-auf-der-strasse-versoehnlich-vor-gericht-a-2ab10884-c3de-4b80-8d33-a2fcf54cece1#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/sozialbehoerde-muss-taxi-fuer-gehbehinderte-schuelerin-zahlen](https://www.spiegel.de/panorama/bildung/sozialbehoerde-muss-taxi-fuer-gehbehinderte-schuelerin-zahlen-a-30925b67-d303-406f-8b5f-79e41baf5094#ref=rss)
-### dortmund
+* [https://www.spiegel.de/wirtschaft/cannabis-shops-bundesregierung-ebnet-weg-fuer-legalen-verkauf-von-rauschmitteln](https://www.spiegel.de/wirtschaft/cannabis-shops-bundesregierung-ebnet-weg-fuer-legalen-verkauf-von-rauschmitteln-a-812c53b1-b9a3-4295-a440-f0d538e1364c#ref=rss)
+### verkauf
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-borussia-dortmund-lena-schilling-franziska-giffey](https://www.spiegel.de/politik/deutschland/news-des-tages-borussia-dortmund-lena-schilling-franziska-giffey-a-6177c0b4-6fca-4094-a14b-0f401e242483#ref=rss)
-### lage
+* [https://www.spiegel.de/wirtschaft/cannabis-shops-bundesregierung-ebnet-weg-fuer-legalen-verkauf-von-rauschmitteln](https://www.spiegel.de/wirtschaft/cannabis-shops-bundesregierung-ebnet-weg-fuer-legalen-verkauf-von-rauschmitteln-a-812c53b1-b9a3-4295-a440-f0d538e1364c#ref=rss)
+### fußball
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-borussia-dortmund-lena-schilling-franziska-giffey](https://www.spiegel.de/politik/deutschland/news-des-tages-borussia-dortmund-lena-schilling-franziska-giffey-a-6177c0b4-6fca-4094-a14b-0f401e242483#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-warum-gibt-es-noch-immer-keinen-geisel-deal-antworten-auf-die-wichtigsten-fragen](https://www.spiegel.de/ausland/israel-gaza-krieg-warum-gibt-es-noch-immer-keinen-geisel-deal-antworten-auf-die-wichtigsten-fragen-a-31d3715d-66b8-4537-a0fc-aee3d18da1e3#ref=rss)
-### familie
+* [https://www.spiegel.de/sport/fussball/fussball-malaysischer-klub-selangor-fc-sagt-auftaktspiel-nach-attacken-gegen-spieler-ab](https://www.spiegel.de/sport/fussball/fussball-malaysischer-klub-selangor-fc-sagt-auftaktspiel-nach-attacken-gegen-spieler-ab-a-238389eb-d258-40a0-b16e-9798bbe5ca96#ref=rss)
+* [https://www.spiegel.de/sport/fussball/frauen-im-fussball-esther-sedlaczek-wuenscht-sich-mehr-hilfe-gegen-belaestigung](https://www.spiegel.de/sport/fussball/frauen-im-fussball-esther-sedlaczek-wuenscht-sich-mehr-hilfe-gegen-belaestigung-a-d6d855ac-2db9-41ff-8727-3deaca950818#ref=rss)
+### klub
 
-* [https://www.spiegel.de/panorama/bildung/sozialbehoerde-muss-taxi-fuer-gehbehinderte-schuelerin-zahlen](https://www.spiegel.de/panorama/bildung/sozialbehoerde-muss-taxi-fuer-gehbehinderte-schuelerin-zahlen-a-30925b67-d303-406f-8b5f-79e41baf5094#ref=rss)
-* [https://www.spiegel.de/wissenschaft/ewiges-leben-als-digitale-existenz-warum-michael-bommer-nicht-sterben-wird](https://www.spiegel.de/wissenschaft/ewiges-leben-als-digitale-existenz-warum-michael-bommer-nicht-sterben-wird-a-507dffe6-7ade-4375-ac7e-4104f4df40c3#ref=rss)
-### bau
+* [https://www.spiegel.de/sport/fussball/fussball-malaysischer-klub-selangor-fc-sagt-auftaktspiel-nach-attacken-gegen-spieler-ab](https://www.spiegel.de/sport/fussball/fussball-malaysischer-klub-selangor-fc-sagt-auftaktspiel-nach-attacken-gegen-spieler-ab-a-238389eb-d258-40a0-b16e-9798bbe5ca96#ref=rss)
+### selangor
 
-* [https://www.spiegel.de/wirtschaft/bau-verbaende-empfehlen-unternehmen-freiwillige-lohnerhoehungen](https://www.spiegel.de/wirtschaft/bau-verbaende-empfehlen-unternehmen-freiwillige-lohnerhoehungen-a-6ebc114c-d5dd-4f79-adf8-df29f9fbcd0a#ref=rss)
-### unternehmen
+* [https://www.spiegel.de/sport/fussball/fussball-malaysischer-klub-selangor-fc-sagt-auftaktspiel-nach-attacken-gegen-spieler-ab](https://www.spiegel.de/sport/fussball/fussball-malaysischer-klub-selangor-fc-sagt-auftaktspiel-nach-attacken-gegen-spieler-ab-a-238389eb-d258-40a0-b16e-9798bbe5ca96#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/wirtschaft/bau-verbaende-empfehlen-unternehmen-freiwillige-lohnerhoehungen](https://www.spiegel.de/wirtschaft/bau-verbaende-empfehlen-unternehmen-freiwillige-lohnerhoehungen-a-6ebc114c-d5dd-4f79-adf8-df29f9fbcd0a#ref=rss)
-### freiwillige
+* [https://www.spiegel.de/sport/fussball/fussball-malaysischer-klub-selangor-fc-sagt-auftaktspiel-nach-attacken-gegen-spieler-ab](https://www.spiegel.de/sport/fussball/fussball-malaysischer-klub-selangor-fc-sagt-auftaktspiel-nach-attacken-gegen-spieler-ab-a-238389eb-d258-40a0-b16e-9798bbe5ca96#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ricarda-lang-gruenenchefin-ueber-gerechtigkeit-ich-habe-gemerkt-dass-ich-auf-der-wut-nicht-sitzen-bleiben-will](https://www.spiegel.de/politik/deutschland/ricarda-lang-gruenenchefin-ueber-gerechtigkeit-ich-habe-gemerkt-dass-ich-auf-der-wut-nicht-sitzen-bleiben-will-a-3e72e7e2-8e05-4105-b253-052276ae6d60#ref=rss)
+### ricarda
 
-* [https://www.spiegel.de/wirtschaft/bau-verbaende-empfehlen-unternehmen-freiwillige-lohnerhoehungen](https://www.spiegel.de/wirtschaft/bau-verbaende-empfehlen-unternehmen-freiwillige-lohnerhoehungen-a-6ebc114c-d5dd-4f79-adf8-df29f9fbcd0a#ref=rss)
-### lohnerhöhungen
+* [https://www.spiegel.de/politik/deutschland/ricarda-lang-gruenenchefin-ueber-gerechtigkeit-ich-habe-gemerkt-dass-ich-auf-der-wut-nicht-sitzen-bleiben-will](https://www.spiegel.de/politik/deutschland/ricarda-lang-gruenenchefin-ueber-gerechtigkeit-ich-habe-gemerkt-dass-ich-auf-der-wut-nicht-sitzen-bleiben-will-a-3e72e7e2-8e05-4105-b253-052276ae6d60#ref=rss)
+### lang
 
-* [https://www.spiegel.de/wirtschaft/bau-verbaende-empfehlen-unternehmen-freiwillige-lohnerhoehungen](https://www.spiegel.de/wirtschaft/bau-verbaende-empfehlen-unternehmen-freiwillige-lohnerhoehungen-a-6ebc114c-d5dd-4f79-adf8-df29f9fbcd0a#ref=rss)
-### dürfen
+* [https://www.spiegel.de/politik/deutschland/ricarda-lang-gruenenchefin-ueber-gerechtigkeit-ich-habe-gemerkt-dass-ich-auf-der-wut-nicht-sitzen-bleiben-will](https://www.spiegel.de/politik/deutschland/ricarda-lang-gruenenchefin-ueber-gerechtigkeit-ich-habe-gemerkt-dass-ich-auf-der-wut-nicht-sitzen-bleiben-will-a-3e72e7e2-8e05-4105-b253-052276ae6d60#ref=rss)
+### rafah
 
-* [https://www.spiegel.de/panorama/bildung/foerderschulen-in-sachsen-anhalt-diese-fruehzeitige-trennung-ist-vor-allem-sozial-unglaublich-ungerecht](https://www.spiegel.de/panorama/bildung/foerderschulen-in-sachsen-anhalt-diese-fruehzeitige-trennung-ist-vor-allem-sozial-unglaublich-ungerecht-a-d57f060d-4822-4d52-bea6-3392c8b93aa2#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/garrick-club-nach-200-jahren-frauen-duerfen-erstmals-mitglied-werden](https://www.spiegel.de/panorama/gesellschaft/garrick-club-nach-200-jahren-frauen-duerfen-erstmals-mitglied-werden-a-8ec90b66-021d-4996-87b1-9d40db45ca85#ref=rss)
-### russischen
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-uno-spricht-von-80-000-gefluechteten-aus-rafah](https://www.spiegel.de/ausland/israel-gaza-krieg-uno-spricht-von-80-000-gefluechteten-aus-rafah-a-9dbcb315-c5d5-46b4-9e10-012cf9a9910a#ref=rss)
+### südkoreas
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-grossbritannien-weist-russischen-verteidigungsattache-wegen-boesartiger-aktivitaeten-aus](https://www.spiegel.de/ausland/ukraine-krieg-grossbritannien-weist-russischen-verteidigungsattache-wegen-boesartiger-aktivitaeten-aus-a-d36d56bd-3b6b-4370-b511-c32ad48463ef#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/kevin-kuehnert-postfach-von-russischen-hackern-angegriffen](https://www.spiegel.de/netzwelt/web/kevin-kuehnert-postfach-von-russischen-hackern-angegriffen-a-f024e132-8032-4b54-b68d-dc25cebe95ba#ref=rss)
-### antwort
+* [https://www.spiegel.de/ausland/dior-taschen-skandal-suedkoreas-praesident-yoon-suk-yeol-entschuldigt-sich](https://www.spiegel.de/ausland/dior-taschen-skandal-suedkoreas-praesident-yoon-suk-yeol-entschuldigt-sich-a-a826c4d0-bc02-4adc-91e0-217c15ac58a4#ref=rss)
+### präsident
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-grossbritannien-weist-russischen-verteidigungsattache-wegen-boesartiger-aktivitaeten-aus](https://www.spiegel.de/ausland/ukraine-krieg-grossbritannien-weist-russischen-verteidigungsattache-wegen-boesartiger-aktivitaeten-aus-a-d36d56bd-3b6b-4370-b511-c32ad48463ef#ref=rss)
-### london
+* [https://www.spiegel.de/ausland/dior-taschen-skandal-suedkoreas-praesident-yoon-suk-yeol-entschuldigt-sich](https://www.spiegel.de/ausland/dior-taschen-skandal-suedkoreas-praesident-yoon-suk-yeol-entschuldigt-sich-a-a826c4d0-bc02-4adc-91e0-217c15ac58a4#ref=rss)
+### yoon
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-grossbritannien-weist-russischen-verteidigungsattache-wegen-boesartiger-aktivitaeten-aus](https://www.spiegel.de/ausland/ukraine-krieg-grossbritannien-weist-russischen-verteidigungsattache-wegen-boesartiger-aktivitaeten-aus-a-d36d56bd-3b6b-4370-b511-c32ad48463ef#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/garrick-club-nach-200-jahren-frauen-duerfen-erstmals-mitglied-werden](https://www.spiegel.de/panorama/gesellschaft/garrick-club-nach-200-jahren-frauen-duerfen-erstmals-mitglied-werden-a-8ec90b66-021d-4996-87b1-9d40db45ca85#ref=rss)
-### geben
+* [https://www.spiegel.de/ausland/dior-taschen-skandal-suedkoreas-praesident-yoon-suk-yeol-entschuldigt-sich](https://www.spiegel.de/ausland/dior-taschen-skandal-suedkoreas-praesident-yoon-suk-yeol-entschuldigt-sich-a-a826c4d0-bc02-4adc-91e0-217c15ac58a4#ref=rss)
+### frau
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-grossbritannien-weist-russischen-verteidigungsattache-wegen-boesartiger-aktivitaeten-aus](https://www.spiegel.de/ausland/ukraine-krieg-grossbritannien-weist-russischen-verteidigungsattache-wegen-boesartiger-aktivitaeten-aus-a-d36d56bd-3b6b-4370-b511-c32ad48463ef#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/russland-drohen-eu-sanktionen-bei-fluessiggas](https://www.spiegel.de/politik/deutschland/russland-drohen-eu-sanktionen-bei-fluessiggas-a-b19b96d5-4a7a-4b5b-bf38-b4c32bff0bbf#ref=rss)
-### miss
+* [https://www.spiegel.de/ausland/dior-taschen-skandal-suedkoreas-praesident-yoon-suk-yeol-entschuldigt-sich](https://www.spiegel.de/ausland/dior-taschen-skandal-suedkoreas-praesident-yoon-suk-yeol-entschuldigt-sich-a-a826c4d0-bc02-4adc-91e0-217c15ac58a4#ref=rss)
+### erstmals
 
-* [https://www.spiegel.de/panorama/leute/miss-usa-noelia-voigt-gibt-ihren-titel-wegen-psychischer-probleme-ab](https://www.spiegel.de/panorama/leute/miss-usa-noelia-voigt-gibt-ihren-titel-wegen-psychischer-probleme-ab-a-dd3de5ee-9e9b-4b0c-8ec4-8b2ecddc2e48#ref=rss)
-### noelia
+* [https://www.spiegel.de/ausland/dior-taschen-skandal-suedkoreas-praesident-yoon-suk-yeol-entschuldigt-sich](https://www.spiegel.de/ausland/dior-taschen-skandal-suedkoreas-praesident-yoon-suk-yeol-entschuldigt-sich-a-a826c4d0-bc02-4adc-91e0-217c15ac58a4#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/elon-musks-firma-neuralink-raeumt-probleme-mit-gehirnchip-ein](https://www.spiegel.de/wissenschaft/medizin/elon-musks-firma-neuralink-raeumt-probleme-mit-gehirnchip-ein-a-f3ce44c8-bff4-4d18-9a1e-acea36a3fa9e#ref=rss)
+### putin
 
-* [https://www.spiegel.de/panorama/leute/miss-usa-noelia-voigt-gibt-ihren-titel-wegen-psychischer-probleme-ab](https://www.spiegel.de/panorama/leute/miss-usa-noelia-voigt-gibt-ihren-titel-wegen-psychischer-probleme-ab-a-dd3de5ee-9e9b-4b0c-8ec4-8b2ecddc2e48#ref=rss)
-### voigt
+* [https://www.spiegel.de/ausland/wladimir-putin-droht-bei-militaerparade-in-moskau-mit-atomstreitkraeften](https://www.spiegel.de/ausland/wladimir-putin-droht-bei-militaerparade-in-moskau-mit-atomstreitkraeften-a-3f646677-254c-44ad-89b7-6e2fcb915b68#ref=rss)
+### china
 
-* [https://www.spiegel.de/panorama/leute/miss-usa-noelia-voigt-gibt-ihren-titel-wegen-psychischer-probleme-ab](https://www.spiegel.de/panorama/leute/miss-usa-noelia-voigt-gibt-ihren-titel-wegen-psychischer-probleme-ab-a-dd3de5ee-9e9b-4b0c-8ec4-8b2ecddc2e48#ref=rss)
-### probleme
+* [https://www.spiegel.de/wirtschaft/china-ist-nicht-mehr-deutschlands-wichtigster-handelspartner-usa-vorn](https://www.spiegel.de/wirtschaft/china-ist-nicht-mehr-deutschlands-wichtigster-handelspartner-usa-vorn-a-35d3818d-f5d1-498e-89e7-9e54ca8fac8f#ref=rss)
+### deutschlands
 
-* [https://www.spiegel.de/panorama/leute/miss-usa-noelia-voigt-gibt-ihren-titel-wegen-psychischer-probleme-ab](https://www.spiegel.de/panorama/leute/miss-usa-noelia-voigt-gibt-ihren-titel-wegen-psychischer-probleme-ab-a-dd3de5ee-9e9b-4b0c-8ec4-8b2ecddc2e48#ref=rss)
-### michael
+* [https://www.spiegel.de/wirtschaft/china-ist-nicht-mehr-deutschlands-wichtigster-handelspartner-usa-vorn](https://www.spiegel.de/wirtschaft/china-ist-nicht-mehr-deutschlands-wichtigster-handelspartner-usa-vorn-a-35d3818d-f5d1-498e-89e7-9e54ca8fac8f#ref=rss)
+### handelspartner
 
-* [https://www.spiegel.de/wissenschaft/ewiges-leben-als-digitale-existenz-warum-michael-bommer-nicht-sterben-wird](https://www.spiegel.de/wissenschaft/ewiges-leben-als-digitale-existenz-warum-michael-bommer-nicht-sterben-wird-a-507dffe6-7ade-4375-ac7e-4104f4df40c3#ref=rss)
-### bommer
+* [https://www.spiegel.de/wirtschaft/china-ist-nicht-mehr-deutschlands-wichtigster-handelspartner-usa-vorn](https://www.spiegel.de/wirtschaft/china-ist-nicht-mehr-deutschlands-wichtigster-handelspartner-usa-vorn-a-35d3818d-f5d1-498e-89e7-9e54ca8fac8f#ref=rss)
+### usa
 
-* [https://www.spiegel.de/wissenschaft/ewiges-leben-als-digitale-existenz-warum-michael-bommer-nicht-sterben-wird](https://www.spiegel.de/wissenschaft/ewiges-leben-als-digitale-existenz-warum-michael-bommer-nicht-sterben-wird-a-507dffe6-7ade-4375-ac7e-4104f4df40c3#ref=rss)
-### flüssiggas
+* [https://www.spiegel.de/wirtschaft/china-ist-nicht-mehr-deutschlands-wichtigster-handelspartner-usa-vorn](https://www.spiegel.de/wirtschaft/china-ist-nicht-mehr-deutschlands-wichtigster-handelspartner-usa-vorn-a-35d3818d-f5d1-498e-89e7-9e54ca8fac8f#ref=rss)
+### gut
 
-* [https://www.spiegel.de/politik/deutschland/russland-drohen-eu-sanktionen-bei-fluessiggas](https://www.spiegel.de/politik/deutschland/russland-drohen-eu-sanktionen-bei-fluessiggas-a-b19b96d5-4a7a-4b5b-bf38-b4c32bff0bbf#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gesundheit-aktive-arzt-rentner-ein-schnaufender-doktor-ist-nicht-gut](https://www.spiegel.de/wirtschaft/gesundheit-aktive-arzt-rentner-ein-schnaufender-doktor-ist-nicht-gut-a-3f7c739f-eca2-4fa8-9491-8b51c7c55bdb#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-hartensteins-schwerstarbeit-bringt-new-york-knicks-auf-halbfinalkurs](https://www.spiegel.de/sport/basketball/nba-hartensteins-schwerstarbeit-bringt-new-york-knicks-auf-halbfinalkurs-a-f25f8c6c-280f-41dc-8088-a1bedd26f36b#ref=rss)
 ### erklärt
 
-* [https://www.spiegel.de/wissenschaft/natur/zikaden-invasion-in-den-usa-es-werden-billionen-insekten-erwartet](https://www.spiegel.de/wissenschaft/natur/zikaden-invasion-in-den-usa-es-werden-billionen-insekten-erwartet-a-30a97dcf-3333-455d-86d3-92503cb8ef13#ref=rss)
-* [https://www.spiegel.de/deinspiegel/wie-das-grundgesetz-entstanden-ist-fuer-kinder-erklaert](https://www.spiegel.de/deinspiegel/wie-das-grundgesetz-entstanden-ist-fuer-kinder-erklaert-a-e4f639a5-49e8-4e9c-bc67-fbf3b7316388#ref=rss)
-### zeigen
+* [https://www.spiegel.de/wirtschaft/gesundheit-aktive-arzt-rentner-ein-schnaufender-doktor-ist-nicht-gut](https://www.spiegel.de/wirtschaft/gesundheit-aktive-arzt-rentner-ein-schnaufender-doktor-ist-nicht-gut-a-3f7c739f-eca2-4fa8-9491-8b51c7c55bdb#ref=rss)
+* [https://www.spiegel.de/kultur/kino/michael-douglas-vergleicht-sex-szenen-mit-kampf-szenen](https://www.spiegel.de/kultur/kino/michael-douglas-vergleicht-sex-szenen-mit-kampf-szenen-a-e8061822-b47a-4b84-bea8-5495dcac6522#ref=rss)
+### verhältnisse
 
-* [https://www.spiegel.de/netzwelt/web/kevin-kuehnert-postfach-von-russischen-hackern-angegriffen](https://www.spiegel.de/netzwelt/web/kevin-kuehnert-postfach-von-russischen-hackern-angegriffen-a-f024e132-8032-4b54-b68d-dc25cebe95ba#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/immobilien-markt-mieten-steigen-kaufpreise-sinken](https://www.spiegel.de/wirtschaft/service/immobilien-markt-mieten-steigen-kaufpreise-sinken-a-c24653a0-0c81-4345-a8e6-c536872d5cda#ref=rss)
-### lebensmitteln
+* [https://www.spiegel.de/sport/mount-everest-verhaeltnisse-in-schluesselpassage-sorgen-fuer-anspannung-bei-alpinisten](https://www.spiegel.de/sport/mount-everest-verhaeltnisse-in-schluesselpassage-sorgen-fuer-anspannung-bei-alpinisten-a-58d2a3d3-7d8e-4902-a012-1df1a4531094#ref=rss)
+### schlüsselpassage
 
-* [https://www.spiegel.de/wirtschaft/mogelpackungen-bei-lebensmitteln-wie-orangensaft-und-brotchips-frueher-war-mehr-lametta](https://www.spiegel.de/wirtschaft/mogelpackungen-bei-lebensmitteln-wie-orangensaft-und-brotchips-frueher-war-mehr-lametta-a-36fc4976-f08e-4b73-90d0-b9ca00a6e772#ref=rss)
-### früher
+* [https://www.spiegel.de/sport/mount-everest-verhaeltnisse-in-schluesselpassage-sorgen-fuer-anspannung-bei-alpinisten](https://www.spiegel.de/sport/mount-everest-verhaeltnisse-in-schluesselpassage-sorgen-fuer-anspannung-bei-alpinisten-a-58d2a3d3-7d8e-4902-a012-1df1a4531094#ref=rss)
+### anspannung
 
-* [https://www.spiegel.de/wirtschaft/mogelpackungen-bei-lebensmitteln-wie-orangensaft-und-brotchips-frueher-war-mehr-lametta](https://www.spiegel.de/wirtschaft/mogelpackungen-bei-lebensmitteln-wie-orangensaft-und-brotchips-frueher-war-mehr-lametta-a-36fc4976-f08e-4b73-90d0-b9ca00a6e772#ref=rss)
-### besser
+* [https://www.spiegel.de/sport/mount-everest-verhaeltnisse-in-schluesselpassage-sorgen-fuer-anspannung-bei-alpinisten](https://www.spiegel.de/sport/mount-everest-verhaeltnisse-in-schluesselpassage-sorgen-fuer-anspannung-bei-alpinisten-a-58d2a3d3-7d8e-4902-a012-1df1a4531094#ref=rss)
+### alpinisten
 
-* [https://www.spiegel.de/wirtschaft/mogelpackungen-bei-lebensmitteln-wie-orangensaft-und-brotchips-frueher-war-mehr-lametta](https://www.spiegel.de/wirtschaft/mogelpackungen-bei-lebensmitteln-wie-orangensaft-und-brotchips-frueher-war-mehr-lametta-a-36fc4976-f08e-4b73-90d0-b9ca00a6e772#ref=rss)
-* [https://www.spiegel.de/kultur/omr-hamburg-sieben-nein-acht-erkenntnisse-von-der-digitalmesse](https://www.spiegel.de/kultur/omr-hamburg-sieben-nein-acht-erkenntnisse-von-der-digitalmesse-a-86d330d7-dd25-4803-be44-ab3cd48d4f67#ref=rss)
-### preise
+* [https://www.spiegel.de/sport/mount-everest-verhaeltnisse-in-schluesselpassage-sorgen-fuer-anspannung-bei-alpinisten](https://www.spiegel.de/sport/mount-everest-verhaeltnisse-in-schluesselpassage-sorgen-fuer-anspannung-bei-alpinisten-a-58d2a3d3-7d8e-4902-a012-1df1a4531094#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/wirtschaft/mogelpackungen-bei-lebensmitteln-wie-orangensaft-und-brotchips-frueher-war-mehr-lametta](https://www.spiegel.de/wirtschaft/mogelpackungen-bei-lebensmitteln-wie-orangensaft-und-brotchips-frueher-war-mehr-lametta-a-36fc4976-f08e-4b73-90d0-b9ca00a6e772#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/immobilien-markt-mieten-steigen-kaufpreise-sinken](https://www.spiegel.de/wirtschaft/service/immobilien-markt-mieten-steigen-kaufpreise-sinken-a-c24653a0-0c81-4345-a8e6-c536872d5cda#ref=rss)
-### garrick
+* [https://www.spiegel.de/sport/mount-everest-verhaeltnisse-in-schluesselpassage-sorgen-fuer-anspannung-bei-alpinisten](https://www.spiegel.de/sport/mount-everest-verhaeltnisse-in-schluesselpassage-sorgen-fuer-anspannung-bei-alpinisten-a-58d2a3d3-7d8e-4902-a012-1df1a4531094#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/feuer-in-berliner-buergeramt-offenbar-brandschlag](https://www.spiegel.de/panorama/justiz/feuer-in-berliner-buergeramt-offenbar-brandschlag-a-679213f8-222b-479e-be26-9961a7ce802b#ref=rss)
+### feuer
 
-* [https://www.spiegel.de/panorama/gesellschaft/garrick-club-nach-200-jahren-frauen-duerfen-erstmals-mitglied-werden](https://www.spiegel.de/panorama/gesellschaft/garrick-club-nach-200-jahren-frauen-duerfen-erstmals-mitglied-werden-a-8ec90b66-021d-4996-87b1-9d40db45ca85#ref=rss)
-### club
+* [https://www.spiegel.de/panorama/justiz/feuer-in-berliner-buergeramt-offenbar-brandschlag](https://www.spiegel.de/panorama/justiz/feuer-in-berliner-buergeramt-offenbar-brandschlag-a-679213f8-222b-479e-be26-9961a7ce802b#ref=rss)
+### bürgeramt
 
-* [https://www.spiegel.de/panorama/gesellschaft/garrick-club-nach-200-jahren-frauen-duerfen-erstmals-mitglied-werden](https://www.spiegel.de/panorama/gesellschaft/garrick-club-nach-200-jahren-frauen-duerfen-erstmals-mitglied-werden-a-8ec90b66-021d-4996-87b1-9d40db45ca85#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/feuer-in-berliner-buergeramt-offenbar-brandschlag](https://www.spiegel.de/panorama/justiz/feuer-in-berliner-buergeramt-offenbar-brandschlag-a-679213f8-222b-479e-be26-9961a7ce802b#ref=rss)
+### fanden
+
+* [https://www.spiegel.de/panorama/justiz/feuer-in-berliner-buergeramt-offenbar-brandschlag](https://www.spiegel.de/panorama/justiz/feuer-in-berliner-buergeramt-offenbar-brandschlag-a-679213f8-222b-479e-be26-9961a7ce802b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/herford-fund-im-damenstift-lustiges-trinkgefaess-oder-dildo](https://www.spiegel.de/wissenschaft/mensch/herford-fund-im-damenstift-lustiges-trinkgefaess-oder-dildo-a-ed192f7c-6a07-412c-8181-6ce9d83af08d#ref=rss)
+### york
+
+* [https://www.spiegel.de/sport/basketball/nba-hartensteins-schwerstarbeit-bringt-new-york-knicks-auf-halbfinalkurs](https://www.spiegel.de/sport/basketball/nba-hartensteins-schwerstarbeit-bringt-new-york-knicks-auf-halbfinalkurs-a-f25f8c6c-280f-41dc-8088-a1bedd26f36b#ref=rss)
+### knicks
+
+* [https://www.spiegel.de/sport/basketball/nba-hartensteins-schwerstarbeit-bringt-new-york-knicks-auf-halbfinalkurs](https://www.spiegel.de/sport/basketball/nba-hartensteins-schwerstarbeit-bringt-new-york-knicks-auf-halbfinalkurs-a-f25f8c6c-280f-41dc-8088-a1bedd26f36b#ref=rss)
+### joselu
+
+* [https://www.spiegel.de/sport/fussball/joselu-von-real-madrid-in-der-champions-league-der-neue-held-der-koeniglichen](https://www.spiegel.de/sport/fussball/joselu-von-real-madrid-in-der-champions-league-der-neue-held-der-koeniglichen-a-927a3458-0601-4486-b300-3764d3fef92d#ref=rss)
 ### frauen
 
-* [https://www.spiegel.de/panorama/gesellschaft/garrick-club-nach-200-jahren-frauen-duerfen-erstmals-mitglied-werden](https://www.spiegel.de/panorama/gesellschaft/garrick-club-nach-200-jahren-frauen-duerfen-erstmals-mitglied-werden-a-8ec90b66-021d-4996-87b1-9d40db45ca85#ref=rss)
-### mitglied
+* [https://www.spiegel.de/sport/fussball/frauen-im-fussball-esther-sedlaczek-wuenscht-sich-mehr-hilfe-gegen-belaestigung](https://www.spiegel.de/sport/fussball/frauen-im-fussball-esther-sedlaczek-wuenscht-sich-mehr-hilfe-gegen-belaestigung-a-d6d855ac-2db9-41ff-8727-3deaca950818#ref=rss)
+### esther
 
-* [https://www.spiegel.de/panorama/gesellschaft/garrick-club-nach-200-jahren-frauen-duerfen-erstmals-mitglied-werden](https://www.spiegel.de/panorama/gesellschaft/garrick-club-nach-200-jahren-frauen-duerfen-erstmals-mitglied-werden-a-8ec90b66-021d-4996-87b1-9d40db45ca85#ref=rss)
-### lehrende
+* [https://www.spiegel.de/sport/fussball/frauen-im-fussball-esther-sedlaczek-wuenscht-sich-mehr-hilfe-gegen-belaestigung](https://www.spiegel.de/sport/fussball/frauen-im-fussball-esther-sedlaczek-wuenscht-sich-mehr-hilfe-gegen-belaestigung-a-d6d855ac-2db9-41ff-8727-3deaca950818#ref=rss)
+### sedlaczek
 
-* [https://www.spiegel.de/panorama/propalaestinensische-proteste-an-universitaeten-in-berlin-lehrende-stellen-sich-hinter-studierende](https://www.spiegel.de/panorama/propalaestinensische-proteste-an-universitaeten-in-berlin-lehrende-stellen-sich-hinter-studierende-a-1707b3f3-b34c-4760-a2e4-1057fc67ee6e#ref=rss)
-### grundgesetz
+* [https://www.spiegel.de/sport/fussball/frauen-im-fussball-esther-sedlaczek-wuenscht-sich-mehr-hilfe-gegen-belaestigung](https://www.spiegel.de/sport/fussball/frauen-im-fussball-esther-sedlaczek-wuenscht-sich-mehr-hilfe-gegen-belaestigung-a-d6d855ac-2db9-41ff-8727-3deaca950818#ref=rss)
+### belästigung
 
-* [https://www.spiegel.de/deinspiegel/wie-das-grundgesetz-entstanden-ist-fuer-kinder-erklaert](https://www.spiegel.de/deinspiegel/wie-das-grundgesetz-entstanden-ist-fuer-kinder-erklaert-a-e4f639a5-49e8-4e9c-bc67-fbf3b7316388#ref=rss)
-### mieten
+* [https://www.spiegel.de/sport/fussball/frauen-im-fussball-esther-sedlaczek-wuenscht-sich-mehr-hilfe-gegen-belaestigung](https://www.spiegel.de/sport/fussball/frauen-im-fussball-esther-sedlaczek-wuenscht-sich-mehr-hilfe-gegen-belaestigung-a-d6d855ac-2db9-41ff-8727-3deaca950818#ref=rss)
+### vatertag
 
-* [https://www.spiegel.de/wirtschaft/service/immobilien-markt-mieten-steigen-kaufpreise-sinken](https://www.spiegel.de/wirtschaft/service/immobilien-markt-mieten-steigen-kaufpreise-sinken-a-c24653a0-0c81-4345-a8e6-c536872d5cda#ref=rss)
-### steigen
+* [https://www.spiegel.de/panorama/vatertag-mit-bier-und-bollerwagen-oder-soll-man-es-lassen](https://www.spiegel.de/panorama/vatertag-mit-bier-und-bollerwagen-oder-soll-man-es-lassen-a-03271b21-b483-46f6-a73a-8208854df868#ref=rss)
+### herford
 
-* [https://www.spiegel.de/wirtschaft/service/immobilien-markt-mieten-steigen-kaufpreise-sinken](https://www.spiegel.de/wirtschaft/service/immobilien-markt-mieten-steigen-kaufpreise-sinken-a-c24653a0-0c81-4345-a8e6-c536872d5cda#ref=rss)
-### omr
+* [https://www.spiegel.de/wissenschaft/mensch/herford-fund-im-damenstift-lustiges-trinkgefaess-oder-dildo](https://www.spiegel.de/wissenschaft/mensch/herford-fund-im-damenstift-lustiges-trinkgefaess-oder-dildo-a-ed192f7c-6a07-412c-8181-6ce9d83af08d#ref=rss)
+### lustiges
 
-* [https://www.spiegel.de/kultur/omr-hamburg-sieben-nein-acht-erkenntnisse-von-der-digitalmesse](https://www.spiegel.de/kultur/omr-hamburg-sieben-nein-acht-erkenntnisse-von-der-digitalmesse-a-86d330d7-dd25-4803-be44-ab3cd48d4f67#ref=rss)
-### pottwale
+* [https://www.spiegel.de/wissenschaft/mensch/herford-fund-im-damenstift-lustiges-trinkgefaess-oder-dildo](https://www.spiegel.de/wissenschaft/mensch/herford-fund-im-damenstift-lustiges-trinkgefaess-oder-dildo-a-ed192f7c-6a07-412c-8181-6ce9d83af08d#ref=rss)
+### trinkgefäß
 
-* [https://www.spiegel.de/wissenschaft/natur/walisch-die-geheimnisvolle-kommunikation-der-pottwale](https://www.spiegel.de/wissenschaft/natur/walisch-die-geheimnisvolle-kommunikation-der-pottwale-a-5a6f3ad9-e8a9-4a66-a869-eff11d9a259f#ref=rss)
-### antworten
+* [https://www.spiegel.de/wissenschaft/mensch/herford-fund-im-damenstift-lustiges-trinkgefaess-oder-dildo](https://www.spiegel.de/wissenschaft/mensch/herford-fund-im-damenstift-lustiges-trinkgefaess-oder-dildo-a-ed192f7c-6a07-412c-8181-6ce9d83af08d#ref=rss)
+### dildo
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-warum-gibt-es-noch-immer-keinen-geisel-deal-antworten-auf-die-wichtigsten-fragen](https://www.spiegel.de/ausland/israel-gaza-krieg-warum-gibt-es-noch-immer-keinen-geisel-deal-antworten-auf-die-wichtigsten-fragen-a-31d3715d-66b8-4537-a0fc-aee3d18da1e3#ref=rss)
-### wichtigsten
+* [https://www.spiegel.de/wissenschaft/mensch/herford-fund-im-damenstift-lustiges-trinkgefaess-oder-dildo](https://www.spiegel.de/wissenschaft/mensch/herford-fund-im-damenstift-lustiges-trinkgefaess-oder-dildo-a-ed192f7c-6a07-412c-8181-6ce9d83af08d#ref=rss)
+### deepmind
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-warum-gibt-es-noch-immer-keinen-geisel-deal-antworten-auf-die-wichtigsten-fragen](https://www.spiegel.de/ausland/israel-gaza-krieg-warum-gibt-es-noch-immer-keinen-geisel-deal-antworten-auf-die-wichtigsten-fragen-a-31d3715d-66b8-4537-a0fc-aee3d18da1e3#ref=rss)
-### fragen
+* [https://www.spiegel.de/wissenschaft/technik/alphafold-3-was-kann-die-neue-ki-von-google-tochter-deepmind](https://www.spiegel.de/wissenschaft/technik/alphafold-3-was-kann-die-neue-ki-von-google-tochter-deepmind-a-2e362bcc-cc8b-414c-9f78-77a727180191#ref=rss)
+### firma
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-warum-gibt-es-noch-immer-keinen-geisel-deal-antworten-auf-die-wichtigsten-fragen](https://www.spiegel.de/ausland/israel-gaza-krieg-warum-gibt-es-noch-immer-keinen-geisel-deal-antworten-auf-die-wichtigsten-fragen-a-31d3715d-66b8-4537-a0fc-aee3d18da1e3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/alphafold-3-was-kann-die-neue-ki-von-google-tochter-deepmind](https://www.spiegel.de/wissenschaft/technik/alphafold-3-was-kann-die-neue-ki-von-google-tochter-deepmind-a-2e362bcc-cc8b-414c-9f78-77a727180191#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/elon-musks-firma-neuralink-raeumt-probleme-mit-gehirnchip-ein](https://www.spiegel.de/wissenschaft/medizin/elon-musks-firma-neuralink-raeumt-probleme-mit-gehirnchip-ein-a-f3ce44c8-bff4-4d18-9a1e-acea36a3fa9e#ref=rss)
+### michael
+
+* [https://www.spiegel.de/kultur/kino/michael-douglas-vergleicht-sex-szenen-mit-kampf-szenen](https://www.spiegel.de/kultur/kino/michael-douglas-vergleicht-sex-szenen-mit-kampf-szenen-a-e8061822-b47a-4b84-bea8-5495dcac6522#ref=rss)
+### douglas
+
+* [https://www.spiegel.de/kultur/kino/michael-douglas-vergleicht-sex-szenen-mit-kampf-szenen](https://www.spiegel.de/kultur/kino/michael-douglas-vergleicht-sex-szenen-mit-kampf-szenen-a-e8061822-b47a-4b84-bea8-5495dcac6522#ref=rss)
+### marjorie
+
+* [https://www.spiegel.de/ausland/republikaner-marjorie-taylor-greene-verprellt-parteifreunde-und-scheitert-mit-sturzversuch](https://www.spiegel.de/ausland/republikaner-marjorie-taylor-greene-verprellt-parteifreunde-und-scheitert-mit-sturzversuch-a-05880055-5854-4b1d-8581-3d70d152b4fa#ref=rss)
+### taylor
+
+* [https://www.spiegel.de/ausland/republikaner-marjorie-taylor-greene-verprellt-parteifreunde-und-scheitert-mit-sturzversuch](https://www.spiegel.de/ausland/republikaner-marjorie-taylor-greene-verprellt-parteifreunde-und-scheitert-mit-sturzversuch-a-05880055-5854-4b1d-8581-3d70d152b4fa#ref=rss)
+### greene
+
+* [https://www.spiegel.de/ausland/republikaner-marjorie-taylor-greene-verprellt-parteifreunde-und-scheitert-mit-sturzversuch](https://www.spiegel.de/ausland/republikaner-marjorie-taylor-greene-verprellt-parteifreunde-und-scheitert-mit-sturzversuch-a-05880055-5854-4b1d-8581-3d70d152b4fa#ref=rss)
+### parteifreunde
+
+* [https://www.spiegel.de/ausland/republikaner-marjorie-taylor-greene-verprellt-parteifreunde-und-scheitert-mit-sturzversuch](https://www.spiegel.de/ausland/republikaner-marjorie-taylor-greene-verprellt-parteifreunde-und-scheitert-mit-sturzversuch-a-05880055-5854-4b1d-8581-3d70d152b4fa#ref=rss)
+### extremsportler
+
+* [https://www.spiegel.de/sport/triathlon-extremsportler-jonas-deichmann-will-120-ironman-in-120-tagen-absolvieren](https://www.spiegel.de/sport/triathlon-extremsportler-jonas-deichmann-will-120-ironman-in-120-tagen-absolvieren-a-569c4038-17a2-4cd6-be90-a951f8922292#ref=rss)
+### jonas
+
+* [https://www.spiegel.de/sport/triathlon-extremsportler-jonas-deichmann-will-120-ironman-in-120-tagen-absolvieren](https://www.spiegel.de/sport/triathlon-extremsportler-jonas-deichmann-will-120-ironman-in-120-tagen-absolvieren-a-569c4038-17a2-4cd6-be90-a951f8922292#ref=rss)
+### deichmann
+
+* [https://www.spiegel.de/sport/triathlon-extremsportler-jonas-deichmann-will-120-ironman-in-120-tagen-absolvieren](https://www.spiegel.de/sport/triathlon-extremsportler-jonas-deichmann-will-120-ironman-in-120-tagen-absolvieren-a-569c4038-17a2-4cd6-be90-a951f8922292#ref=rss)
+### tagen
+
+* [https://www.spiegel.de/sport/triathlon-extremsportler-jonas-deichmann-will-120-ironman-in-120-tagen-absolvieren](https://www.spiegel.de/sport/triathlon-extremsportler-jonas-deichmann-will-120-ironman-in-120-tagen-absolvieren-a-569c4038-17a2-4cd6-be90-a951f8922292#ref=rss)
+### absolvieren
+
+* [https://www.spiegel.de/sport/triathlon-extremsportler-jonas-deichmann-will-120-ironman-in-120-tagen-absolvieren](https://www.spiegel.de/sport/triathlon-extremsportler-jonas-deichmann-will-120-ironman-in-120-tagen-absolvieren-a-569c4038-17a2-4cd6-be90-a951f8922292#ref=rss)
+### nouripour
+
+* [https://www.spiegel.de/politik/deutschland/omid-nouripour-gruenenchef-reichen-ergebnisse-der-innenministerkonferenz-nicht-aus](https://www.spiegel.de/politik/deutschland/omid-nouripour-gruenenchef-reichen-ergebnisse-der-innenministerkonferenz-nicht-aus-a-519d04d7-f4ab-4f42-be75-e723a3ccf8c7#ref=rss)
+### ergebnisse
+
+* [https://www.spiegel.de/politik/deutschland/omid-nouripour-gruenenchef-reichen-ergebnisse-der-innenministerkonferenz-nicht-aus](https://www.spiegel.de/politik/deutschland/omid-nouripour-gruenenchef-reichen-ergebnisse-der-innenministerkonferenz-nicht-aus-a-519d04d7-f4ab-4f42-be75-e723a3ccf8c7#ref=rss)
+### innenministerkonferenz
+
+* [https://www.spiegel.de/politik/deutschland/omid-nouripour-gruenenchef-reichen-ergebnisse-der-innenministerkonferenz-nicht-aus](https://www.spiegel.de/politik/deutschland/omid-nouripour-gruenenchef-reichen-ergebnisse-der-innenministerkonferenz-nicht-aus-a-519d04d7-f4ab-4f42-be75-e723a3ccf8c7#ref=rss)
+### 2024
+
+* [https://www.spiegel.de/sport/olympia/paris-2024-wintersportler-neureuther-wird-ard-experte-bei-den-sommerspielen](https://www.spiegel.de/sport/olympia/paris-2024-wintersportler-neureuther-wird-ard-experte-bei-den-sommerspielen-a-6277163a-8017-4eaf-a231-83394913b25e#ref=rss)
+### paris
+
+* [https://www.spiegel.de/sport/olympia/paris-2024-wintersportler-neureuther-wird-ard-experte-bei-den-sommerspielen](https://www.spiegel.de/sport/olympia/paris-2024-wintersportler-neureuther-wird-ard-experte-bei-den-sommerspielen-a-6277163a-8017-4eaf-a231-83394913b25e#ref=rss)
+### felix
+
+* [https://www.spiegel.de/sport/olympia/paris-2024-wintersportler-neureuther-wird-ard-experte-bei-den-sommerspielen](https://www.spiegel.de/sport/olympia/paris-2024-wintersportler-neureuther-wird-ard-experte-bei-den-sommerspielen-a-6277163a-8017-4eaf-a231-83394913b25e#ref=rss)
+### neureuther
+
+* [https://www.spiegel.de/sport/olympia/paris-2024-wintersportler-neureuther-wird-ard-experte-bei-den-sommerspielen](https://www.spiegel.de/sport/olympia/paris-2024-wintersportler-neureuther-wird-ard-experte-bei-den-sommerspielen-a-6277163a-8017-4eaf-a231-83394913b25e#ref=rss)
+### elon
+
+* [https://www.spiegel.de/wissenschaft/medizin/elon-musks-firma-neuralink-raeumt-probleme-mit-gehirnchip-ein](https://www.spiegel.de/wissenschaft/medizin/elon-musks-firma-neuralink-raeumt-probleme-mit-gehirnchip-ein-a-f3ce44c8-bff4-4d18-9a1e-acea36a3fa9e#ref=rss)
+### musk
+
+* [https://www.spiegel.de/wissenschaft/medizin/elon-musks-firma-neuralink-raeumt-probleme-mit-gehirnchip-ein](https://www.spiegel.de/wissenschaft/medizin/elon-musks-firma-neuralink-raeumt-probleme-mit-gehirnchip-ein-a-f3ce44c8-bff4-4d18-9a1e-acea36a3fa9e#ref=rss)
+### gehirnchip
+
+* [https://www.spiegel.de/wissenschaft/medizin/elon-musks-firma-neuralink-raeumt-probleme-mit-gehirnchip-ein](https://www.spiegel.de/wissenschaft/medizin/elon-musks-firma-neuralink-raeumt-probleme-mit-gehirnchip-ein-a-f3ce44c8-bff4-4d18-9a1e-acea36a3fa9e#ref=rss)
+### biden
+
+* [https://www.spiegel.de/ausland/joe-biden-rechnet-damit-dass-donald-trump-das-wahlergebnis-erneut-nicht-akzeptiert](https://www.spiegel.de/ausland/joe-biden-rechnet-damit-dass-donald-trump-das-wahlergebnis-erneut-nicht-akzeptiert-a-30a51de8-10cd-4ac7-95ce-c6b3c6512d17#ref=rss)
 
