@@ -4,361 +4,367 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### fico
+### russland
 
-* [https://www.spiegel.de/ausland/slowakei-schuesse-auf-den-premier-wie-fico-das-klima-in-seinem-land-mit-vergiftet-hat](https://www.spiegel.de/ausland/slowakei-schuesse-auf-den-premier-wie-fico-das-klima-in-seinem-land-mit-vergiftet-hat-a-f37cf813-c99e-41f1-991c-b6fda76549f4#ref=rss)
-* [https://www.spiegel.de/ausland/slowakei-wer-ist-robert-fico-der-angeschossene-slowakische-premierminister](https://www.spiegel.de/ausland/slowakei-wer-ist-robert-fico-der-angeschossene-slowakische-premierminister-a-b940ee88-ba44-4ef9-a203-2e6fc859234f#ref=rss)
-* [https://www.spiegel.de/ausland/robert-fico-politiker-reagieren-bestuerzt-nach-attentat](https://www.spiegel.de/ausland/robert-fico-politiker-reagieren-bestuerzt-nach-attentat-a-105d15aa-3ddf-40c0-9b02-b451b9cd878d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-frankreich-jagt-die-fliege-slowakei-robert-fico-taurus](https://www.spiegel.de/politik/deutschland/news-des-tages-frankreich-jagt-die-fliege-slowakei-robert-fico-taurus-a-74c668c2-1b1b-43a9-9888-50ee07ae3fcf#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/sport/eishockey/eishockey-wm-deutschland-deklassiert-slowenien-und-rueckt-dem-viertelfinale-naeher](https://www.spiegel.de/sport/eishockey/eishockey-wm-deutschland-deklassiert-slowenien-und-rueckt-dem-viertelfinale-naeher-a-f089da6d-7a3d-445f-a52e-8bda8f084a26#ref=rss)
-* [https://www.spiegel.de/ausland/slowakei-wer-ist-robert-fico-der-angeschossene-slowakische-premierminister](https://www.spiegel.de/ausland/slowakei-wer-ist-robert-fico-der-angeschossene-slowakische-premierminister-a-b940ee88-ba44-4ef9-a203-2e6fc859234f#ref=rss)
-* [https://www.spiegel.de/ausland/usa-joe-biden-und-donald-trump-treten-in-zwei-fernsehdebatten-gegeneinander-an](https://www.spiegel.de/ausland/usa-joe-biden-und-donald-trump-treten-in-zwei-fernsehdebatten-gegeneinander-an-a-571a4420-6812-4ed9-8484-120ec9e2c14b#ref=rss)
-* [https://www.spiegel.de/kultur/tv/ringe-der-macht-staffel-zwei-ein-trailer-sie-zu-locken](https://www.spiegel.de/kultur/tv/ringe-der-macht-staffel-zwei-ein-trailer-sie-zu-locken-a-eaddc4a5-1d1d-44c1-bb3e-7f8f22d0759b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/wisente-in-rumaenien-die-grasenden-klimahelden-der-karpaten](https://www.spiegel.de/wissenschaft/natur/wisente-in-rumaenien-die-grasenden-klimahelden-der-karpaten-a-968f8ba6-c9c8-420c-b60e-94e97a540247#ref=rss)
+* [https://www.spiegel.de/ausland/russland-festgenommener-us-soldat-gordon-black-gesteht-wohl-kriminelles-fehlverhalten-kooperation-mit-ermittlern](https://www.spiegel.de/ausland/russland-festgenommener-us-soldat-gordon-black-gesteht-wohl-kriminelles-fehlverhalten-kooperation-mit-ermittlern-a-79592b8d-a890-4986-9885-e662bc11716c#ref=rss)
+* [https://www.spiegel.de/ausland/russland-und-china-wladimir-putin-und-xi-jinping-staerken-strategische-partnerschaft-in-peking](https://www.spiegel.de/ausland/russland-und-china-wladimir-putin-und-xi-jinping-staerken-strategische-partnerschaft-in-peking-a-78d34089-2a17-415b-8314-5031692d5899#ref=rss)
+* [https://www.spiegel.de/politik/petr-bystron-bundestag-genehmigt-durchsuchungen-bei-afd-politiker](https://www.spiegel.de/politik/petr-bystron-bundestag-genehmigt-durchsuchungen-bei-afd-politiker-a-9aa6019a-6d41-4b80-8712-b50cb251be1c#ref=rss)
 ### robert
 
-* [https://www.spiegel.de/ausland/slowakei-schuesse-auf-den-premier-wie-fico-das-klima-in-seinem-land-mit-vergiftet-hat](https://www.spiegel.de/ausland/slowakei-schuesse-auf-den-premier-wie-fico-das-klima-in-seinem-land-mit-vergiftet-hat-a-f37cf813-c99e-41f1-991c-b6fda76549f4#ref=rss)
-* [https://www.spiegel.de/ausland/slowakei-wer-ist-robert-fico-der-angeschossene-slowakische-premierminister](https://www.spiegel.de/ausland/slowakei-wer-ist-robert-fico-der-angeschossene-slowakische-premierminister-a-b940ee88-ba44-4ef9-a203-2e6fc859234f#ref=rss)
-* [https://www.spiegel.de/ausland/robert-fico-politiker-reagieren-bestuerzt-nach-attentat](https://www.spiegel.de/ausland/robert-fico-politiker-reagieren-bestuerzt-nach-attentat-a-105d15aa-3ddf-40c0-9b02-b451b9cd878d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-frankreich-jagt-die-fliege-slowakei-robert-fico-taurus](https://www.spiegel.de/politik/deutschland/news-des-tages-frankreich-jagt-die-fliege-slowakei-robert-fico-taurus-a-74c668c2-1b1b-43a9-9888-50ee07ae3fcf#ref=rss)
-### deutschland
+* [https://www.spiegel.de/ausland/slowakei-schuesse-auf-robert-fico-tv-aufnahmen-zeigen-attentat](https://www.spiegel.de/ausland/slowakei-schuesse-auf-robert-fico-tv-aufnahmen-zeigen-attentat-a-fc9f94b0-2868-4a1f-91f7-485e98cd2844#ref=rss)
+* [https://www.spiegel.de/ausland/robert-fico-slowakischer-regierungschef-nach-attentat-in-kritischem-zustand](https://www.spiegel.de/ausland/robert-fico-slowakischer-regierungschef-nach-attentat-in-kritischem-zustand-a-59248055-dfef-4f29-ae1d-65ce975af750#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/winfried-kretschmann-schwarz-gruen-ist-eine-realistische-option](https://www.spiegel.de/politik/deutschland/winfried-kretschmann-schwarz-gruen-ist-eine-realistische-option-a-b478bab4-ee48-45db-81cd-dc922c903bd2#ref=rss)
+### fico
 
-* [https://www.spiegel.de/sport/eishockey/eishockey-wm-deutschland-deklassiert-slowenien-und-rueckt-dem-viertelfinale-naeher](https://www.spiegel.de/sport/eishockey/eishockey-wm-deutschland-deklassiert-slowenien-und-rueckt-dem-viertelfinale-naeher-a-f089da6d-7a3d-445f-a52e-8bda8f084a26#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ruanda-laut-migrationsexperte-knaus-bereit-fuer-fluechtlingsdeal-mit-deutschland](https://www.spiegel.de/politik/deutschland/ruanda-laut-migrationsexperte-knaus-bereit-fuer-fluechtlingsdeal-mit-deutschland-a-7f0dbd76-dce3-44fc-ab68-0a16e3078448#ref=rss)
-* [https://www.spiegel.de/panorama/schweiz-mann-attackiert-mehrere-passanten-in-kanton-aargau](https://www.spiegel.de/panorama/schweiz-mann-attackiert-mehrere-passanten-in-kanton-aargau-a-f2e462b3-0425-413b-9a3a-0887fbd784b1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/neue-mission-fuer-bundeswehr-drohnen-drei-herons-fuer-die-heimatfront](https://www.spiegel.de/politik/deutschland/neue-mission-fuer-bundeswehr-drohnen-drei-herons-fuer-die-heimatfront-a-50271f8f-91cc-4a78-b215-7be0419c249a#ref=rss)
-### fall
-
-* [https://www.spiegel.de/panorama/fall-arian-polizei-befragt-anwohner](https://www.spiegel.de/panorama/fall-arian-polizei-befragt-anwohner-a-e98bbae5-1194-4c0f-8e72-ee27d2b76810#ref=rss)
-* [https://www.spiegel.de/ausland/fall-mohamed-amra-befreit-wie-ein-mafiaboss](https://www.spiegel.de/ausland/fall-mohamed-amra-befreit-wie-ein-mafiaboss-a-46b95dbb-1336-4ca6-8642-9424deee5acd#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/prozess-gegen-maddie-verdaechtigen-vergewaltigungsopfer-als-zeugin](https://www.spiegel.de/panorama/justiz/prozess-gegen-maddie-verdaechtigen-vergewaltigungsopfer-als-zeugin-a-9d97e1ca-aca8-4726-8bf1-4d8451b49803#ref=rss)
-* [https://www.spiegel.de/sport/eishockey/nhl-eishockey-star-valeri-nichushkin-mitten-in-den-playoffs-fuer-sechs-monate-in-der-nhl-gesperrt](https://www.spiegel.de/sport/eishockey/nhl-eishockey-star-valeri-nichushkin-mitten-in-den-playoffs-fuer-sechs-monate-in-der-nhl-gesperrt-a-f37ed692-8991-4b53-b989-3778e75de810#ref=rss)
-### premierminister
-
-* [https://www.spiegel.de/ausland/slowakei-wer-ist-robert-fico-der-angeschossene-slowakische-premierminister](https://www.spiegel.de/ausland/slowakei-wer-ist-robert-fico-der-angeschossene-slowakische-premierminister-a-b940ee88-ba44-4ef9-a203-2e6fc859234f#ref=rss)
-* [https://www.spiegel.de/ausland/robert-fico-politiker-reagieren-bestuerzt-nach-attentat](https://www.spiegel.de/ausland/robert-fico-politiker-reagieren-bestuerzt-nach-attentat-a-105d15aa-3ddf-40c0-9b02-b451b9cd878d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-frankreich-jagt-die-fliege-slowakei-robert-fico-taurus](https://www.spiegel.de/politik/deutschland/news-des-tages-frankreich-jagt-die-fliege-slowakei-robert-fico-taurus-a-74c668c2-1b1b-43a9-9888-50ee07ae3fcf#ref=rss)
-* [https://www.spiegel.de/ausland/niederlande-rechte-parteien-unter-geert-wilders-einigen-sich-auf-regierungskoalition](https://www.spiegel.de/ausland/niederlande-rechte-parteien-unter-geert-wilders-einigen-sich-auf-regierungskoalition-a-da25217f-1b33-4472-85cf-e21c32e5e63a#ref=rss)
-### slowakei
-
-* [https://www.spiegel.de/ausland/slowakei-schuesse-auf-den-premier-wie-fico-das-klima-in-seinem-land-mit-vergiftet-hat](https://www.spiegel.de/ausland/slowakei-schuesse-auf-den-premier-wie-fico-das-klima-in-seinem-land-mit-vergiftet-hat-a-f37cf813-c99e-41f1-991c-b6fda76549f4#ref=rss)
-* [https://www.spiegel.de/ausland/slowakei-wer-ist-robert-fico-der-angeschossene-slowakische-premierminister](https://www.spiegel.de/ausland/slowakei-wer-ist-robert-fico-der-angeschossene-slowakische-premierminister-a-b940ee88-ba44-4ef9-a203-2e6fc859234f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-frankreich-jagt-die-fliege-slowakei-robert-fico-taurus](https://www.spiegel.de/politik/deutschland/news-des-tages-frankreich-jagt-die-fliege-slowakei-robert-fico-taurus-a-74c668c2-1b1b-43a9-9888-50ee07ae3fcf#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wissenschaft/technik/pacco-nitsche-filmproduzent-ueber-den-einfluss-von-ki-auf-die-kreativwirtschaft](https://www.spiegel.de/wissenschaft/technik/pacco-nitsche-filmproduzent-ueber-den-einfluss-von-ki-auf-die-kreativwirtschaft-a-1b724086-23ea-4766-87a0-ce6678f3ec7a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/neue-mission-fuer-bundeswehr-drohnen-drei-herons-fuer-die-heimatfront](https://www.spiegel.de/politik/deutschland/neue-mission-fuer-bundeswehr-drohnen-drei-herons-fuer-die-heimatfront-a-50271f8f-91cc-4a78-b215-7be0419c249a#ref=rss)
-* [https://www.spiegel.de/ausland/niederlande-rechte-parteien-unter-geert-wilders-einigen-sich-auf-regierungskoalition](https://www.spiegel.de/ausland/niederlande-rechte-parteien-unter-geert-wilders-einigen-sich-auf-regierungskoalition-a-da25217f-1b33-4472-85cf-e21c32e5e63a#ref=rss)
-* [https://www.spiegel.de/auto/umweltzone-weniger-feinstaub-weniger-asthma-bei-kindern](https://www.spiegel.de/auto/umweltzone-weniger-feinstaub-weniger-asthma-bei-kindern-a-9e980fd6-0485-4f66-a6c1-680cbb5c9c93#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/panorama/ukraine-us-aussenminister-anthony-blinken-spielt-e-gitarre-und-sendet-botschaft-an-ukrainische-soldaten](https://www.spiegel.de/panorama/ukraine-us-aussenminister-anthony-blinken-spielt-e-gitarre-und-sendet-botschaft-an-ukrainische-soldaten-a-a4db736d-eb2b-49b8-a1f2-e2efe865accf#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-soll-selbst-entscheiden-ob-sie-staatsgebiet-mit-us-waffen-angreift](https://www.spiegel.de/ausland/russland-ukraine-soll-selbst-entscheiden-ob-sie-staatsgebiet-mit-us-waffen-angreift-a-7e33da9b-5026-427d-a764-baa00f1e0a56#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-tschechischer-praesident-petr-pavel-aeussert-zweifel-an-rueckeroberung-ukrainischer-gebiete](https://www.spiegel.de/ausland/ukraine-tschechischer-praesident-petr-pavel-aeussert-zweifel-an-rueckeroberung-ukrainischer-gebiete-a-d51ac97c-fc52-48bd-8fdb-9d518e9dca0b#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/politik/hamburg-hamm-spd-politiker-olcay-aydik-verletzt-sich-an-wahlplakat-mit-rasierklinge](https://www.spiegel.de/politik/hamburg-hamm-spd-politiker-olcay-aydik-verletzt-sich-an-wahlplakat-mit-rasierklinge-a-a5580fd2-7451-4541-9531-8a1d258a2f58#ref=rss)
-* [https://www.spiegel.de/panorama/schweiz-mann-attackiert-mehrere-passanten-in-kanton-aargau](https://www.spiegel.de/panorama/schweiz-mann-attackiert-mehrere-passanten-in-kanton-aargau-a-f2e462b3-0425-413b-9a3a-0887fbd784b1#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-soll-selbst-entscheiden-ob-sie-staatsgebiet-mit-us-waffen-angreift](https://www.spiegel.de/ausland/russland-ukraine-soll-selbst-entscheiden-ob-sie-staatsgebiet-mit-us-waffen-angreift-a-7e33da9b-5026-427d-a764-baa00f1e0a56#ref=rss)
-### täter
-
-* [https://www.spiegel.de/ausland/slowakei-schuesse-auf-den-premier-wie-fico-das-klima-in-seinem-land-mit-vergiftet-hat](https://www.spiegel.de/ausland/slowakei-schuesse-auf-den-premier-wie-fico-das-klima-in-seinem-land-mit-vergiftet-hat-a-f37cf813-c99e-41f1-991c-b6fda76549f4#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/google-so-sollen-android-geraete-besser-vor-diebstahl-geschuetzt-werden](https://www.spiegel.de/netzwelt/gadgets/google-so-sollen-android-geraete-besser-vor-diebstahl-geschuetzt-werden-a-a3d7dba5-ebb1-4a60-a0d4-77fe0c8f20a3#ref=rss)
-* [https://www.spiegel.de/panorama/schweiz-mann-attackiert-mehrere-passanten-in-kanton-aargau](https://www.spiegel.de/panorama/schweiz-mann-attackiert-mehrere-passanten-in-kanton-aargau-a-f2e462b3-0425-413b-9a3a-0887fbd784b1#ref=rss)
-### drei
-
-* [https://www.spiegel.de/politik/deutschland/ruanda-laut-migrationsexperte-knaus-bereit-fuer-fluechtlingsdeal-mit-deutschland](https://www.spiegel.de/politik/deutschland/ruanda-laut-migrationsexperte-knaus-bereit-fuer-fluechtlingsdeal-mit-deutschland-a-7f0dbd76-dce3-44fc-ab68-0a16e3078448#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/neue-mission-fuer-bundeswehr-drohnen-drei-herons-fuer-die-heimatfront](https://www.spiegel.de/politik/deutschland/neue-mission-fuer-bundeswehr-drohnen-drei-herons-fuer-die-heimatfront-a-50271f8f-91cc-4a78-b215-7be0419c249a#ref=rss)
-* [https://www.spiegel.de/ausland/niederlande-rechte-parteien-unter-geert-wilders-einigen-sich-auf-regierungskoalition](https://www.spiegel.de/ausland/niederlande-rechte-parteien-unter-geert-wilders-einigen-sich-auf-regierungskoalition-a-da25217f-1b33-4472-85cf-e21c32e5e63a#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/netzwelt/gadgets/google-so-sollen-android-geraete-besser-vor-diebstahl-geschuetzt-werden](https://www.spiegel.de/netzwelt/gadgets/google-so-sollen-android-geraete-besser-vor-diebstahl-geschuetzt-werden-a-a3d7dba5-ebb1-4a60-a0d4-77fe0c8f20a3#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-soll-selbst-entscheiden-ob-sie-staatsgebiet-mit-us-waffen-angreift](https://www.spiegel.de/ausland/russland-ukraine-soll-selbst-entscheiden-ob-sie-staatsgebiet-mit-us-waffen-angreift-a-7e33da9b-5026-427d-a764-baa00f1e0a56#ref=rss)
-* [https://www.spiegel.de/panorama/cannabislegalisierung-tipps-fuer-den-eigenanbau](https://www.spiegel.de/panorama/cannabislegalisierung-tipps-fuer-den-eigenanbau-a-e17904cf-9806-4edf-afa8-0eb03c45d5b4#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/fall-arian-polizei-befragt-anwohner](https://www.spiegel.de/panorama/fall-arian-polizei-befragt-anwohner-a-e98bbae5-1194-4c0f-8e72-ee27d2b76810#ref=rss)
-* [https://www.spiegel.de/panorama/schweiz-mann-attackiert-mehrere-passanten-in-kanton-aargau](https://www.spiegel.de/panorama/schweiz-mann-attackiert-mehrere-passanten-in-kanton-aargau-a-f2e462b3-0425-413b-9a3a-0887fbd784b1#ref=rss)
-### slowakische
-
-* [https://www.spiegel.de/ausland/slowakei-wer-ist-robert-fico-der-angeschossene-slowakische-premierminister](https://www.spiegel.de/ausland/slowakei-wer-ist-robert-fico-der-angeschossene-slowakische-premierminister-a-b940ee88-ba44-4ef9-a203-2e6fc859234f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-frankreich-jagt-die-fliege-slowakei-robert-fico-taurus](https://www.spiegel.de/politik/deutschland/news-des-tages-frankreich-jagt-die-fliege-slowakei-robert-fico-taurus-a-74c668c2-1b1b-43a9-9888-50ee07ae3fcf#ref=rss)
+* [https://www.spiegel.de/ausland/slowakei-schuesse-auf-robert-fico-tv-aufnahmen-zeigen-attentat](https://www.spiegel.de/ausland/slowakei-schuesse-auf-robert-fico-tv-aufnahmen-zeigen-attentat-a-fc9f94b0-2868-4a1f-91f7-485e98cd2844#ref=rss)
+* [https://www.spiegel.de/ausland/robert-fico-slowakischer-regierungschef-nach-attentat-in-kritischem-zustand](https://www.spiegel.de/ausland/robert-fico-slowakischer-regierungschef-nach-attentat-in-kritischem-zustand-a-59248055-dfef-4f29-ae1d-65ce975af750#ref=rss)
 ### attentat
 
-* [https://www.spiegel.de/ausland/slowakei-wer-ist-robert-fico-der-angeschossene-slowakische-premierminister](https://www.spiegel.de/ausland/slowakei-wer-ist-robert-fico-der-angeschossene-slowakische-premierminister-a-b940ee88-ba44-4ef9-a203-2e6fc859234f#ref=rss)
-* [https://www.spiegel.de/ausland/robert-fico-politiker-reagieren-bestuerzt-nach-attentat](https://www.spiegel.de/ausland/robert-fico-politiker-reagieren-bestuerzt-nach-attentat-a-105d15aa-3ddf-40c0-9b02-b451b9cd878d#ref=rss)
-### bundeswehr
+* [https://www.spiegel.de/ausland/slowakei-schuesse-auf-robert-fico-tv-aufnahmen-zeigen-attentat](https://www.spiegel.de/ausland/slowakei-schuesse-auf-robert-fico-tv-aufnahmen-zeigen-attentat-a-fc9f94b0-2868-4a1f-91f7-485e98cd2844#ref=rss)
+* [https://www.spiegel.de/ausland/robert-fico-slowakischer-regierungschef-nach-attentat-in-kritischem-zustand](https://www.spiegel.de/ausland/robert-fico-slowakischer-regierungschef-nach-attentat-in-kritischem-zustand-a-59248055-dfef-4f29-ae1d-65ce975af750#ref=rss)
+### hamburg
 
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-aeusserung-koennte-zum-karrierekiller-werden](https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-aeusserung-koennte-zum-karrierekiller-werden-a-40ed7bd3-3468-4ce8-8e6d-1e5a8dc4bafd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/neue-mission-fuer-bundeswehr-drohnen-drei-herons-fuer-die-heimatfront](https://www.spiegel.de/politik/deutschland/neue-mission-fuer-bundeswehr-drohnen-drei-herons-fuer-die-heimatfront-a-50271f8f-91cc-4a78-b215-7be0419c249a#ref=rss)
-### macht
+* [https://www.spiegel.de/panorama/bildung/hamburg-gesichtsverhuellung-an-schulen-wird-verboten](https://www.spiegel.de/panorama/bildung/hamburg-gesichtsverhuellung-an-schulen-wird-verboten-a-6df46abf-22f5-4a6d-8a4d-95d91919be7c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/block-familie-ermittlungen-wegen-mutmasslicher-kindesentziehung-durchsuchung-im-hotel-grand-elysee-in-hamburg](https://www.spiegel.de/panorama/justiz/block-familie-ermittlungen-wegen-mutmasslicher-kindesentziehung-durchsuchung-im-hotel-grand-elysee-in-hamburg-a-c166fef8-e265-4bc1-a428-b2df5fa9bbf6#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/wissenschaft/technik/pacco-nitsche-filmproduzent-ueber-den-einfluss-von-ki-auf-die-kreativwirtschaft](https://www.spiegel.de/wissenschaft/technik/pacco-nitsche-filmproduzent-ueber-den-einfluss-von-ki-auf-die-kreativwirtschaft-a-1b724086-23ea-4766-87a0-ce6678f3ec7a#ref=rss)
-* [https://www.spiegel.de/kultur/tv/ringe-der-macht-staffel-zwei-ein-trailer-sie-zu-locken](https://www.spiegel.de/kultur/tv/ringe-der-macht-staffel-zwei-ein-trailer-sie-zu-locken-a-eaddc4a5-1d1d-44c1-bb3e-7f8f22d0759b#ref=rss)
-### ringe
+* [https://www.spiegel.de/ausland/robert-fico-slowakischer-regierungschef-nach-attentat-in-kritischem-zustand](https://www.spiegel.de/ausland/robert-fico-slowakischer-regierungschef-nach-attentat-in-kritischem-zustand-a-59248055-dfef-4f29-ae1d-65ce975af750#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-diskussion-um-videoschiedsrichter-vereine-sollen-ueber-verbleib-entscheiden](https://www.spiegel.de/sport/fussball/premier-league-diskussion-um-videoschiedsrichter-vereine-sollen-ueber-verbleib-entscheiden-a-5ee97559-73bb-4942-beef-ad27bfa3300d#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russische-offensive-im-gebiet-charkiw-offenbar-verlangsamt](https://www.spiegel.de/ausland/ukraine-krieg-russische-offensive-im-gebiet-charkiw-offenbar-verlangsamt-a-76f500a4-147d-4122-a291-7dba4e2d7499#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/kultur/tv/ringe-der-macht-staffel-zwei-ein-trailer-sie-zu-locken](https://www.spiegel.de/kultur/tv/ringe-der-macht-staffel-zwei-ein-trailer-sie-zu-locken-a-eaddc4a5-1d1d-44c1-bb3e-7f8f22d0759b#ref=rss)
-### olcay
+* [https://www.spiegel.de/auto/reisen-an-pfingsten-adac-rechnet-mit-massiven-stoerungen](https://www.spiegel.de/auto/reisen-an-pfingsten-adac-rechnet-mit-massiven-stoerungen-a-eb543098-090e-4341-976f-51cb6109d1b7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-verfuegt-ueber-stille-reserve-von-3-2-millionen-menschen](https://www.spiegel.de/wirtschaft/arbeitsmarkt-verfuegt-ueber-stille-reserve-von-3-2-millionen-menschen-a-3d740678-0cfc-412e-acb8-205aede67723#ref=rss)
+* [https://www.spiegel.de/panorama/duesseldorf-drei-tote-bei-brand-zwei-lebensgefaehrlich-verletzte](https://www.spiegel.de/panorama/duesseldorf-drei-tote-bei-brand-zwei-lebensgefaehrlich-verletzte-a-964a5535-e7bd-4ec2-9fdf-af40e1569f2b#ref=rss)
+### lange
 
-* [https://www.spiegel.de/politik/hamburg-hamm-spd-politiker-olcay-aydik-verletzt-sich-an-wahlplakat-mit-rasierklinge](https://www.spiegel.de/politik/hamburg-hamm-spd-politiker-olcay-aydik-verletzt-sich-an-wahlplakat-mit-rasierklinge-a-a5580fd2-7451-4541-9531-8a1d258a2f58#ref=rss)
-### aydik
+* [https://www.spiegel.de/start/startklar-newsletter-wie-viel-gehalt-will-ich-mit-40](https://www.spiegel.de/start/startklar-newsletter-wie-viel-gehalt-will-ich-mit-40-a-40051cf8-0a7c-49d8-95c8-a94478e0d034#ref=rss)
+* [https://www.spiegel.de/kultur/kino/adam-sandler-happy-gilmore-bekommt-netflix-sequel-nach-28-jahren](https://www.spiegel.de/kultur/kino/adam-sandler-happy-gilmore-bekommt-netflix-sequel-nach-28-jahren-a-9ef1c60e-437e-4dea-a62b-d8ed2a53529a#ref=rss)
+* [https://www.spiegel.de/ausland/charkiw-warum-die-ukraine-russlands-vorstoss-nicht-verhindern-konnte](https://www.spiegel.de/ausland/charkiw-warum-die-ukraine-russlands-vorstoss-nicht-verhindern-konnte-a-47780387-7d8a-413c-ada7-19f69c3fcd95#ref=rss)
+### bundestag
 
-* [https://www.spiegel.de/politik/hamburg-hamm-spd-politiker-olcay-aydik-verletzt-sich-an-wahlplakat-mit-rasierklinge](https://www.spiegel.de/politik/hamburg-hamm-spd-politiker-olcay-aydik-verletzt-sich-an-wahlplakat-mit-rasierklinge-a-a5580fd2-7451-4541-9531-8a1d258a2f58#ref=rss)
-### rasierklinge
-
-* [https://www.spiegel.de/politik/hamburg-hamm-spd-politiker-olcay-aydik-verletzt-sich-an-wahlplakat-mit-rasierklinge](https://www.spiegel.de/politik/hamburg-hamm-spd-politiker-olcay-aydik-verletzt-sich-an-wahlplakat-mit-rasierklinge-a-a5580fd2-7451-4541-9531-8a1d258a2f58#ref=rss)
-### schüsse
-
-* [https://www.spiegel.de/ausland/slowakei-schuesse-auf-den-premier-wie-fico-das-klima-in-seinem-land-mit-vergiftet-hat](https://www.spiegel.de/ausland/slowakei-schuesse-auf-den-premier-wie-fico-das-klima-in-seinem-land-mit-vergiftet-hat-a-f37cf813-c99e-41f1-991c-b6fda76549f4#ref=rss)
-### klima
-
-* [https://www.spiegel.de/ausland/slowakei-schuesse-auf-den-premier-wie-fico-das-klima-in-seinem-land-mit-vergiftet-hat](https://www.spiegel.de/ausland/slowakei-schuesse-auf-den-premier-wie-fico-das-klima-in-seinem-land-mit-vergiftet-hat-a-f37cf813-c99e-41f1-991c-b6fda76549f4#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/wisente-in-rumaenien-die-grasenden-klimahelden-der-karpaten](https://www.spiegel.de/wissenschaft/natur/wisente-in-rumaenien-die-grasenden-klimahelden-der-karpaten-a-968f8ba6-c9c8-420c-b60e-94e97a540247#ref=rss)
-### land
-
-* [https://www.spiegel.de/ausland/slowakei-schuesse-auf-den-premier-wie-fico-das-klima-in-seinem-land-mit-vergiftet-hat](https://www.spiegel.de/ausland/slowakei-schuesse-auf-den-premier-wie-fico-das-klima-in-seinem-land-mit-vergiftet-hat-a-f37cf813-c99e-41f1-991c-b6fda76549f4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ruanda-laut-migrationsexperte-knaus-bereit-fuer-fluechtlingsdeal-mit-deutschland](https://www.spiegel.de/politik/deutschland/ruanda-laut-migrationsexperte-knaus-bereit-fuer-fluechtlingsdeal-mit-deutschland-a-7f0dbd76-dce3-44fc-ab68-0a16e3078448#ref=rss)
-### unklar
-
-* [https://www.spiegel.de/ausland/slowakei-schuesse-auf-den-premier-wie-fico-das-klima-in-seinem-land-mit-vergiftet-hat](https://www.spiegel.de/ausland/slowakei-schuesse-auf-den-premier-wie-fico-das-klima-in-seinem-land-mit-vergiftet-hat-a-f37cf813-c99e-41f1-991c-b6fda76549f4#ref=rss)
-* [https://www.spiegel.de/ausland/niederlande-rechte-parteien-unter-geert-wilders-einigen-sich-auf-regierungskoalition](https://www.spiegel.de/ausland/niederlande-rechte-parteien-unter-geert-wilders-einigen-sich-auf-regierungskoalition-a-da25217f-1b33-4472-85cf-e21c32e5e63a#ref=rss)
-### lettland
-
-* [https://www.spiegel.de/sport/eishockey/eishockey-wm-deutschland-deklassiert-slowenien-und-rueckt-dem-viertelfinale-naeher](https://www.spiegel.de/sport/eishockey/eishockey-wm-deutschland-deklassiert-slowenien-und-rueckt-dem-viertelfinale-naeher-a-f089da6d-7a3d-445f-a52e-8bda8f084a26#ref=rss)
-### viertelfinale
-
-* [https://www.spiegel.de/sport/eishockey/eishockey-wm-deutschland-deklassiert-slowenien-und-rueckt-dem-viertelfinale-naeher](https://www.spiegel.de/sport/eishockey/eishockey-wm-deutschland-deklassiert-slowenien-und-rueckt-dem-viertelfinale-naeher-a-f089da6d-7a3d-445f-a52e-8bda8f084a26#ref=rss)
-### ruanda
-
-* [https://www.spiegel.de/politik/deutschland/ruanda-laut-migrationsexperte-knaus-bereit-fuer-fluechtlingsdeal-mit-deutschland](https://www.spiegel.de/politik/deutschland/ruanda-laut-migrationsexperte-knaus-bereit-fuer-fluechtlingsdeal-mit-deutschland-a-7f0dbd76-dce3-44fc-ab68-0a16e3078448#ref=rss)
-### knaus
-
-* [https://www.spiegel.de/politik/deutschland/ruanda-laut-migrationsexperte-knaus-bereit-fuer-fluechtlingsdeal-mit-deutschland](https://www.spiegel.de/politik/deutschland/ruanda-laut-migrationsexperte-knaus-bereit-fuer-fluechtlingsdeal-mit-deutschland-a-7f0dbd76-dce3-44fc-ab68-0a16e3078448#ref=rss)
-### flüchtlingsdeal
-
-* [https://www.spiegel.de/politik/deutschland/ruanda-laut-migrationsexperte-knaus-bereit-fuer-fluechtlingsdeal-mit-deutschland](https://www.spiegel.de/politik/deutschland/ruanda-laut-migrationsexperte-knaus-bereit-fuer-fluechtlingsdeal-mit-deutschland-a-7f0dbd76-dce3-44fc-ab68-0a16e3078448#ref=rss)
-### google
-
-* [https://www.spiegel.de/netzwelt/gadgets/google-so-sollen-android-geraete-besser-vor-diebstahl-geschuetzt-werden](https://www.spiegel.de/netzwelt/gadgets/google-so-sollen-android-geraete-besser-vor-diebstahl-geschuetzt-werden-a-a3d7dba5-ebb1-4a60-a0d4-77fe0c8f20a3#ref=rss)
-### androidgeräte
-
-* [https://www.spiegel.de/netzwelt/gadgets/google-so-sollen-android-geraete-besser-vor-diebstahl-geschuetzt-werden](https://www.spiegel.de/netzwelt/gadgets/google-so-sollen-android-geraete-besser-vor-diebstahl-geschuetzt-werden-a-a3d7dba5-ebb1-4a60-a0d4-77fe0c8f20a3#ref=rss)
-### reagieren
-
-* [https://www.spiegel.de/netzwelt/gadgets/google-so-sollen-android-geraete-besser-vor-diebstahl-geschuetzt-werden](https://www.spiegel.de/netzwelt/gadgets/google-so-sollen-android-geraete-besser-vor-diebstahl-geschuetzt-werden-a-a3d7dba5-ebb1-4a60-a0d4-77fe0c8f20a3#ref=rss)
-* [https://www.spiegel.de/ausland/robert-fico-politiker-reagieren-bestuerzt-nach-attentat](https://www.spiegel.de/ausland/robert-fico-politiker-reagieren-bestuerzt-nach-attentat-a-105d15aa-3ddf-40c0-9b02-b451b9cd878d#ref=rss)
-### ki
-
-* [https://www.spiegel.de/netzwelt/gadgets/google-so-sollen-android-geraete-besser-vor-diebstahl-geschuetzt-werden](https://www.spiegel.de/netzwelt/gadgets/google-so-sollen-android-geraete-besser-vor-diebstahl-geschuetzt-werden-a-a3d7dba5-ebb1-4a60-a0d4-77fe0c8f20a3#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/pacco-nitsche-filmproduzent-ueber-den-einfluss-von-ki-auf-die-kreativwirtschaft](https://www.spiegel.de/wissenschaft/technik/pacco-nitsche-filmproduzent-ueber-den-einfluss-von-ki-auf-die-kreativwirtschaft-a-1b724086-23ea-4766-87a0-ce6678f3ec7a#ref=rss)
-### arian
-
-* [https://www.spiegel.de/panorama/fall-arian-polizei-befragt-anwohner](https://www.spiegel.de/panorama/fall-arian-polizei-befragt-anwohner-a-e98bbae5-1194-4c0f-8e72-ee27d2b76810#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/israel-verteidigungsminister-yoav-gallant-fordert-nachkriegsplan-fuer-gaza](https://www.spiegel.de/ausland/israel-verteidigungsminister-yoav-gallant-fordert-nachkriegsplan-fuer-gaza-a-6a31cf1d-75c5-4890-ad7e-95a7895703db#ref=rss)
-* [https://www.spiegel.de/geschichte/gaza-demos-an-universitaeten-seit-1968-eine-traditionslinie-von-israelkritischem-studentenprotest](https://www.spiegel.de/geschichte/gaza-demos-an-universitaeten-seit-1968-eine-traditionslinie-von-israelkritischem-studentenprotest-a-997999b8-69db-4eb6-9fc1-178c56cff224#ref=rss)
-### verteidigungsminister
-
-* [https://www.spiegel.de/ausland/israel-verteidigungsminister-yoav-gallant-fordert-nachkriegsplan-fuer-gaza](https://www.spiegel.de/ausland/israel-verteidigungsminister-yoav-gallant-fordert-nachkriegsplan-fuer-gaza-a-6a31cf1d-75c5-4890-ad7e-95a7895703db#ref=rss)
-### gallant
-
-* [https://www.spiegel.de/ausland/israel-verteidigungsminister-yoav-gallant-fordert-nachkriegsplan-fuer-gaza](https://www.spiegel.de/ausland/israel-verteidigungsminister-yoav-gallant-fordert-nachkriegsplan-fuer-gaza-a-6a31cf1d-75c5-4890-ad7e-95a7895703db#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/ausland/israel-verteidigungsminister-yoav-gallant-fordert-nachkriegsplan-fuer-gaza](https://www.spiegel.de/ausland/israel-verteidigungsminister-yoav-gallant-fordert-nachkriegsplan-fuer-gaza-a-6a31cf1d-75c5-4890-ad7e-95a7895703db#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/frau-unverschaemt-charlotte-merz-und-ihr-nachahmenswertes-engagement](https://www.spiegel.de/politik/deutschland/frau-unverschaemt-charlotte-merz-und-ihr-nachahmenswertes-engagement-a-25298a2a-9f51-41b9-9fa6-76f6b735cac6#ref=rss)
-### zukunft
-
-* [https://www.spiegel.de/ausland/israel-verteidigungsminister-yoav-gallant-fordert-nachkriegsplan-fuer-gaza](https://www.spiegel.de/ausland/israel-verteidigungsminister-yoav-gallant-fordert-nachkriegsplan-fuer-gaza-a-6a31cf1d-75c5-4890-ad7e-95a7895703db#ref=rss)
-* [https://www.spiegel.de/kultur/tv/astrotv-esoterik-fernsehsender-wird-zum-ende-des-jahres-eingestellt](https://www.spiegel.de/kultur/tv/astrotv-esoterik-fernsehsender-wird-zum-ende-des-jahres-eingestellt-a-4047fbc8-03c6-4ce4-a062-43b4f1fd7835#ref=rss)
-### fast
-
-* [https://www.spiegel.de/ausland/slowakei-wer-ist-robert-fico-der-angeschossene-slowakische-premierminister](https://www.spiegel.de/ausland/slowakei-wer-ist-robert-fico-der-angeschossene-slowakische-premierminister-a-b940ee88-ba44-4ef9-a203-2e6fc859234f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/wisente-in-rumaenien-die-grasenden-klimahelden-der-karpaten](https://www.spiegel.de/wissenschaft/natur/wisente-in-rumaenien-die-grasenden-klimahelden-der-karpaten-a-968f8ba6-c9c8-420c-b60e-94e97a540247#ref=rss)
-### wladimir
-
-* [https://www.spiegel.de/ausland/slowakei-wer-ist-robert-fico-der-angeschossene-slowakische-premierminister](https://www.spiegel.de/ausland/slowakei-wer-ist-robert-fico-der-angeschossene-slowakische-premierminister-a-b940ee88-ba44-4ef9-a203-2e6fc859234f#ref=rss)
-* [https://www.spiegel.de/ausland/robert-fico-politiker-reagieren-bestuerzt-nach-attentat](https://www.spiegel.de/ausland/robert-fico-politiker-reagieren-bestuerzt-nach-attentat-a-105d15aa-3ddf-40c0-9b02-b451b9cd878d#ref=rss)
+* [https://www.spiegel.de/start/streit-ueber-bafoeg-reform-gibt-es-nun-doch-mehr-geld-fuer-akademiker](https://www.spiegel.de/start/streit-ueber-bafoeg-reform-gibt-es-nun-doch-mehr-geld-fuer-akademiker-a-00191890-93be-4f88-bd05-0a48a3690e48#ref=rss)
+* [https://www.spiegel.de/politik/petr-bystron-bundestag-genehmigt-durchsuchungen-bei-afd-politiker](https://www.spiegel.de/politik/petr-bystron-bundestag-genehmigt-durchsuchungen-bei-afd-politiker-a-9aa6019a-6d41-4b80-8712-b50cb251be1c#ref=rss)
 ### putin
 
-* [https://www.spiegel.de/ausland/slowakei-wer-ist-robert-fico-der-angeschossene-slowakische-premierminister](https://www.spiegel.de/ausland/slowakei-wer-ist-robert-fico-der-angeschossene-slowakische-premierminister-a-b940ee88-ba44-4ef9-a203-2e6fc859234f#ref=rss)
-* [https://www.spiegel.de/ausland/robert-fico-politiker-reagieren-bestuerzt-nach-attentat](https://www.spiegel.de/ausland/robert-fico-politiker-reagieren-bestuerzt-nach-attentat-a-105d15aa-3ddf-40c0-9b02-b451b9cd878d#ref=rss)
-### bekannt
+* [https://www.spiegel.de/ausland/russland-und-china-wladimir-putin-und-xi-jinping-staerken-strategische-partnerschaft-in-peking](https://www.spiegel.de/ausland/russland-und-china-wladimir-putin-und-xi-jinping-staerken-strategische-partnerschaft-in-peking-a-78d34089-2a17-415b-8314-5031692d5899#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russische-offensive-im-gebiet-charkiw-offenbar-verlangsamt](https://www.spiegel.de/ausland/ukraine-krieg-russische-offensive-im-gebiet-charkiw-offenbar-verlangsamt-a-76f500a4-147d-4122-a291-7dba4e2d7499#ref=rss)
+### mitarbeitern
 
-* [https://www.spiegel.de/ausland/slowakei-wer-ist-robert-fico-der-angeschossene-slowakische-premierminister](https://www.spiegel.de/ausland/slowakei-wer-ist-robert-fico-der-angeschossene-slowakische-premierminister-a-b940ee88-ba44-4ef9-a203-2e6fc859234f#ref=rss)
-* [https://www.spiegel.de/ausland/fall-mohamed-amra-befreit-wie-ein-mafiaboss](https://www.spiegel.de/ausland/fall-mohamed-amra-befreit-wie-ein-mafiaboss-a-46b95dbb-1336-4ca6-8642-9424deee5acd#ref=rss)
-### schwebt
+* [https://www.spiegel.de/wirtschaft/unternehmen/singapore-airlines-zahlt-mitarbeitern-acht-zusaetzliche-monatsgehaelter-plus-sonderpraemie](https://www.spiegel.de/wirtschaft/unternehmen/singapore-airlines-zahlt-mitarbeitern-acht-zusaetzliche-monatsgehaelter-plus-sonderpraemie-a-8cdcd0b2-3399-4471-8cd2-bdfe0cb1bb8f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-verfuegt-ueber-stille-reserve-von-3-2-millionen-menschen](https://www.spiegel.de/wirtschaft/arbeitsmarkt-verfuegt-ueber-stille-reserve-von-3-2-millionen-menschen-a-3d740678-0cfc-412e-acb8-205aede67723#ref=rss)
+### viele
 
-* [https://www.spiegel.de/ausland/slowakei-wer-ist-robert-fico-der-angeschossene-slowakische-premierminister](https://www.spiegel.de/ausland/slowakei-wer-ist-robert-fico-der-angeschossene-slowakische-premierminister-a-b940ee88-ba44-4ef9-a203-2e6fc859234f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-frankreich-jagt-die-fliege-slowakei-robert-fico-taurus](https://www.spiegel.de/politik/deutschland/news-des-tages-frankreich-jagt-die-fliege-slowakei-robert-fico-taurus-a-74c668c2-1b1b-43a9-9888-50ee07ae3fcf#ref=rss)
-### mutmaßlichen
+* [https://www.spiegel.de/auto/reisen-an-pfingsten-adac-rechnet-mit-massiven-stoerungen](https://www.spiegel.de/auto/reisen-an-pfingsten-adac-rechnet-mit-massiven-stoerungen-a-eb543098-090e-4341-976f-51cb6109d1b7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-verfuegt-ueber-stille-reserve-von-3-2-millionen-menschen](https://www.spiegel.de/wirtschaft/arbeitsmarkt-verfuegt-ueber-stille-reserve-von-3-2-millionen-menschen-a-3d740678-0cfc-412e-acb8-205aede67723#ref=rss)
+* [https://www.spiegel.de/psychologie/kommunikation-in-der-partnerschaft-so-lernen-sie-endlich-richtig-zu-streiten](https://www.spiegel.de/psychologie/kommunikation-in-der-partnerschaft-so-lernen-sie-endlich-richtig-zu-streiten-a-f2d5ce1f-5b7a-4e37-9798-b8e7ac5a4df4#ref=rss)
+### charkiw
 
-* [https://www.spiegel.de/ausland/slowakei-wer-ist-robert-fico-der-angeschossene-slowakische-premierminister](https://www.spiegel.de/ausland/slowakei-wer-ist-robert-fico-der-angeschossene-slowakische-premierminister-a-b940ee88-ba44-4ef9-a203-2e6fc859234f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/prozess-gegen-maddie-verdaechtigen-vergewaltigungsopfer-als-zeugin](https://www.spiegel.de/panorama/justiz/prozess-gegen-maddie-verdaechtigen-vergewaltigungsopfer-als-zeugin-a-9d97e1ca-aca8-4726-8bf1-4d8451b49803#ref=rss)
-### lebensgefahr
+* [https://www.spiegel.de/ausland/charkiw-warum-die-ukraine-russlands-vorstoss-nicht-verhindern-konnte](https://www.spiegel.de/ausland/charkiw-warum-die-ukraine-russlands-vorstoss-nicht-verhindern-konnte-a-47780387-7d8a-413c-ada7-19f69c3fcd95#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russische-offensive-im-gebiet-charkiw-offenbar-verlangsamt](https://www.spiegel.de/ausland/ukraine-krieg-russische-offensive-im-gebiet-charkiw-offenbar-verlangsamt-a-76f500a4-147d-4122-a291-7dba4e2d7499#ref=rss)
+### armee
 
-* [https://www.spiegel.de/ausland/slowakei-wer-ist-robert-fico-der-angeschossene-slowakische-premierminister](https://www.spiegel.de/ausland/slowakei-wer-ist-robert-fico-der-angeschossene-slowakische-premierminister-a-b940ee88-ba44-4ef9-a203-2e6fc859234f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-frankreich-jagt-die-fliege-slowakei-robert-fico-taurus](https://www.spiegel.de/politik/deutschland/news-des-tages-frankreich-jagt-die-fliege-slowakei-robert-fico-taurus-a-74c668c2-1b1b-43a9-9888-50ee07ae3fcf#ref=rss)
-### boris
+* [https://www.spiegel.de/ausland/charkiw-warum-die-ukraine-russlands-vorstoss-nicht-verhindern-konnte](https://www.spiegel.de/ausland/charkiw-warum-die-ukraine-russlands-vorstoss-nicht-verhindern-konnte-a-47780387-7d8a-413c-ada7-19f69c3fcd95#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-hilfsgueter-sollen-in-den-kommenden-tagen-ueber-provisorischen-pier-verteilt-werden](https://www.spiegel.de/ausland/gaza-hilfsgueter-sollen-in-den-kommenden-tagen-ueber-provisorischen-pier-verteilt-werden-a-e4065eb8-1a2c-4fa8-a434-34cf03e00816#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russische-offensive-im-gebiet-charkiw-offenbar-verlangsamt](https://www.spiegel.de/ausland/ukraine-krieg-russische-offensive-im-gebiet-charkiw-offenbar-verlangsamt-a-76f500a4-147d-4122-a291-7dba4e2d7499#ref=rss)
+### spdchef
 
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-aeusserung-koennte-zum-karrierekiller-werden](https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-aeusserung-koennte-zum-karrierekiller-werden-a-40ed7bd3-3468-4ce8-8e6d-1e5a8dc4bafd#ref=rss)
-### karrierekiller
+* [https://www.spiegel.de/politik/deutschland/mindestlohn-spd-chef-lars-klingbeil-fordert-14-euro](https://www.spiegel.de/politik/deutschland/mindestlohn-spd-chef-lars-klingbeil-fordert-14-euro-a-ad514695-f7ec-4c74-bd8a-d590b86e2911#ref=rss)
+### wo
 
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-aeusserung-koennte-zum-karrierekiller-werden](https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-aeusserung-koennte-zum-karrierekiller-werden-a-40ed7bd3-3468-4ce8-8e6d-1e5a8dc4bafd#ref=rss)
-### pacco
+* [https://www.spiegel.de/politik/deutschland/mindestlohn-spd-chef-lars-klingbeil-fordert-14-euro](https://www.spiegel.de/politik/deutschland/mindestlohn-spd-chef-lars-klingbeil-fordert-14-euro-a-ad514695-f7ec-4c74-bd8a-d590b86e2911#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-sebastian-vettel-ehrt-ayrton-senna-in-imola](https://www.spiegel.de/sport/formel1/formel-1-sebastian-vettel-ehrt-ayrton-senna-in-imola-a-1a098255-a07b-45d4-98f8-2c74ce9b9580#ref=rss)
+### künftig
 
-* [https://www.spiegel.de/wissenschaft/technik/pacco-nitsche-filmproduzent-ueber-den-einfluss-von-ki-auf-die-kreativwirtschaft](https://www.spiegel.de/wissenschaft/technik/pacco-nitsche-filmproduzent-ueber-den-einfluss-von-ki-auf-die-kreativwirtschaft-a-1b724086-23ea-4766-87a0-ce6678f3ec7a#ref=rss)
-### nitsche
-
-* [https://www.spiegel.de/wissenschaft/technik/pacco-nitsche-filmproduzent-ueber-den-einfluss-von-ki-auf-die-kreativwirtschaft](https://www.spiegel.de/wissenschaft/technik/pacco-nitsche-filmproduzent-ueber-den-einfluss-von-ki-auf-die-kreativwirtschaft-a-1b724086-23ea-4766-87a0-ce6678f3ec7a#ref=rss)
-### fürs
-
-* [https://www.spiegel.de/wissenschaft/technik/pacco-nitsche-filmproduzent-ueber-den-einfluss-von-ki-auf-die-kreativwirtschaft](https://www.spiegel.de/wissenschaft/technik/pacco-nitsche-filmproduzent-ueber-den-einfluss-von-ki-auf-die-kreativwirtschaft-a-1b724086-23ea-4766-87a0-ce6678f3ec7a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/wisente-in-rumaenien-die-grasenden-klimahelden-der-karpaten](https://www.spiegel.de/wissenschaft/natur/wisente-in-rumaenien-die-grasenden-klimahelden-der-karpaten-a-968f8ba6-c9c8-420c-b60e-94e97a540247#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/wissenschaft/technik/pacco-nitsche-filmproduzent-ueber-den-einfluss-von-ki-auf-die-kreativwirtschaft](https://www.spiegel.de/wissenschaft/technik/pacco-nitsche-filmproduzent-ueber-den-einfluss-von-ki-auf-die-kreativwirtschaft-a-1b724086-23ea-4766-87a0-ce6678f3ec7a#ref=rss)
-* [https://www.spiegel.de/sport/eishockey/nhl-eishockey-star-valeri-nichushkin-mitten-in-den-playoffs-fuer-sechs-monate-in-der-nhl-gesperrt](https://www.spiegel.de/sport/eishockey/nhl-eishockey-star-valeri-nichushkin-mitten-in-den-playoffs-fuer-sechs-monate-in-der-nhl-gesperrt-a-f37ed692-8991-4b53-b989-3778e75de810#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/panorama/schweiz-mann-attackiert-mehrere-passanten-in-kanton-aargau](https://www.spiegel.de/panorama/schweiz-mann-attackiert-mehrere-passanten-in-kanton-aargau-a-f2e462b3-0425-413b-9a3a-0887fbd784b1#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/prozess-gegen-maddie-verdaechtigen-vergewaltigungsopfer-als-zeugin](https://www.spiegel.de/panorama/justiz/prozess-gegen-maddie-verdaechtigen-vergewaltigungsopfer-als-zeugin-a-9d97e1ca-aca8-4726-8bf1-4d8451b49803#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/usa-joe-biden-und-donald-trump-treten-in-zwei-fernsehdebatten-gegeneinander-an](https://www.spiegel.de/ausland/usa-joe-biden-und-donald-trump-treten-in-zwei-fernsehdebatten-gegeneinander-an-a-571a4420-6812-4ed9-8484-120ec9e2c14b#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-soll-selbst-entscheiden-ob-sie-staatsgebiet-mit-us-waffen-angreift](https://www.spiegel.de/ausland/russland-ukraine-soll-selbst-entscheiden-ob-sie-staatsgebiet-mit-us-waffen-angreift-a-7e33da9b-5026-427d-a764-baa00f1e0a56#ref=rss)
-### joe
-
-* [https://www.spiegel.de/ausland/usa-joe-biden-und-donald-trump-treten-in-zwei-fernsehdebatten-gegeneinander-an](https://www.spiegel.de/ausland/usa-joe-biden-und-donald-trump-treten-in-zwei-fernsehdebatten-gegeneinander-an-a-571a4420-6812-4ed9-8484-120ec9e2c14b#ref=rss)
-### biden
-
-* [https://www.spiegel.de/ausland/usa-joe-biden-und-donald-trump-treten-in-zwei-fernsehdebatten-gegeneinander-an](https://www.spiegel.de/ausland/usa-joe-biden-und-donald-trump-treten-in-zwei-fernsehdebatten-gegeneinander-an-a-571a4420-6812-4ed9-8484-120ec9e2c14b#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/usa-joe-biden-und-donald-trump-treten-in-zwei-fernsehdebatten-gegeneinander-an](https://www.spiegel.de/ausland/usa-joe-biden-und-donald-trump-treten-in-zwei-fernsehdebatten-gegeneinander-an-a-571a4420-6812-4ed9-8484-120ec9e2c14b#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/usa-joe-biden-und-donald-trump-treten-in-zwei-fernsehdebatten-gegeneinander-an](https://www.spiegel.de/ausland/usa-joe-biden-und-donald-trump-treten-in-zwei-fernsehdebatten-gegeneinander-an-a-571a4420-6812-4ed9-8484-120ec9e2c14b#ref=rss)
-### geeinigt
-
-* [https://www.spiegel.de/ausland/usa-joe-biden-und-donald-trump-treten-in-zwei-fernsehdebatten-gegeneinander-an](https://www.spiegel.de/ausland/usa-joe-biden-und-donald-trump-treten-in-zwei-fernsehdebatten-gegeneinander-an-a-571a4420-6812-4ed9-8484-120ec9e2c14b#ref=rss)
-* [https://www.spiegel.de/ausland/niederlande-rechte-parteien-unter-geert-wilders-einigen-sich-auf-regierungskoalition](https://www.spiegel.de/ausland/niederlande-rechte-parteien-unter-geert-wilders-einigen-sich-auf-regierungskoalition-a-da25217f-1b33-4472-85cf-e21c32e5e63a#ref=rss)
-### erste
-
-* [https://www.spiegel.de/ausland/usa-joe-biden-und-donald-trump-treten-in-zwei-fernsehdebatten-gegeneinander-an](https://www.spiegel.de/ausland/usa-joe-biden-und-donald-trump-treten-in-zwei-fernsehdebatten-gegeneinander-an-a-571a4420-6812-4ed9-8484-120ec9e2c14b#ref=rss)
-* [https://www.spiegel.de/kultur/tv/ringe-der-macht-staffel-zwei-ein-trailer-sie-zu-locken](https://www.spiegel.de/kultur/tv/ringe-der-macht-staffel-zwei-ein-trailer-sie-zu-locken-a-eaddc4a5-1d1d-44c1-bb3e-7f8f22d0759b#ref=rss)
-### staffel
-
-* [https://www.spiegel.de/kultur/tv/ringe-der-macht-staffel-zwei-ein-trailer-sie-zu-locken](https://www.spiegel.de/kultur/tv/ringe-der-macht-staffel-zwei-ein-trailer-sie-zu-locken-a-eaddc4a5-1d1d-44c1-bb3e-7f8f22d0759b#ref=rss)
-### mohamed
-
-* [https://www.spiegel.de/ausland/fall-mohamed-amra-befreit-wie-ein-mafiaboss](https://www.spiegel.de/ausland/fall-mohamed-amra-befreit-wie-ein-mafiaboss-a-46b95dbb-1336-4ca6-8642-9424deee5acd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-frankreich-jagt-die-fliege-slowakei-robert-fico-taurus](https://www.spiegel.de/politik/deutschland/news-des-tages-frankreich-jagt-die-fliege-slowakei-robert-fico-taurus-a-74c668c2-1b1b-43a9-9888-50ee07ae3fcf#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/ausland/fall-mohamed-amra-befreit-wie-ein-mafiaboss](https://www.spiegel.de/ausland/fall-mohamed-amra-befreit-wie-ein-mafiaboss-a-46b95dbb-1336-4ca6-8642-9424deee5acd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-frankreich-jagt-die-fliege-slowakei-robert-fico-taurus](https://www.spiegel.de/politik/deutschland/news-des-tages-frankreich-jagt-die-fliege-slowakei-robert-fico-taurus-a-74c668c2-1b1b-43a9-9888-50ee07ae3fcf#ref=rss)
-### befreiten
-
-* [https://www.spiegel.de/ausland/fall-mohamed-amra-befreit-wie-ein-mafiaboss](https://www.spiegel.de/ausland/fall-mohamed-amra-befreit-wie-ein-mafiaboss-a-46b95dbb-1336-4ca6-8642-9424deee5acd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-frankreich-jagt-die-fliege-slowakei-robert-fico-taurus](https://www.spiegel.de/politik/deutschland/news-des-tages-frankreich-jagt-die-fliege-slowakei-robert-fico-taurus-a-74c668c2-1b1b-43a9-9888-50ee07ae3fcf#ref=rss)
-### frau
-
-* [https://www.spiegel.de/panorama/justiz/prozess-gegen-maddie-verdaechtigen-vergewaltigungsopfer-als-zeugin](https://www.spiegel.de/panorama/justiz/prozess-gegen-maddie-verdaechtigen-vergewaltigungsopfer-als-zeugin-a-9d97e1ca-aca8-4726-8bf1-4d8451b49803#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/frau-unverschaemt-charlotte-merz-und-ihr-nachahmenswertes-engagement](https://www.spiegel.de/politik/deutschland/frau-unverschaemt-charlotte-merz-und-ihr-nachahmenswertes-engagement-a-25298a2a-9f51-41b9-9fa6-76f6b735cac6#ref=rss)
-### charlotte
-
-* [https://www.spiegel.de/politik/deutschland/frau-unverschaemt-charlotte-merz-und-ihr-nachahmenswertes-engagement](https://www.spiegel.de/politik/deutschland/frau-unverschaemt-charlotte-merz-und-ihr-nachahmenswertes-engagement-a-25298a2a-9f51-41b9-9fa6-76f6b735cac6#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/frau-unverschaemt-charlotte-merz-und-ihr-nachahmenswertes-engagement](https://www.spiegel.de/politik/deutschland/frau-unverschaemt-charlotte-merz-und-ihr-nachahmenswertes-engagement-a-25298a2a-9f51-41b9-9fa6-76f6b735cac6#ref=rss)
-### 1968
-
-* [https://www.spiegel.de/geschichte/gaza-demos-an-universitaeten-seit-1968-eine-traditionslinie-von-israelkritischem-studentenprotest](https://www.spiegel.de/geschichte/gaza-demos-an-universitaeten-seit-1968-eine-traditionslinie-von-israelkritischem-studentenprotest-a-997999b8-69db-4eb6-9fc1-178c56cff224#ref=rss)
-### usaußenminister
-
-* [https://www.spiegel.de/panorama/ukraine-us-aussenminister-anthony-blinken-spielt-e-gitarre-und-sendet-botschaft-an-ukrainische-soldaten](https://www.spiegel.de/panorama/ukraine-us-aussenminister-anthony-blinken-spielt-e-gitarre-und-sendet-botschaft-an-ukrainische-soldaten-a-a4db736d-eb2b-49b8-a1f2-e2efe865accf#ref=rss)
-### blinken
-
-* [https://www.spiegel.de/panorama/ukraine-us-aussenminister-anthony-blinken-spielt-e-gitarre-und-sendet-botschaft-an-ukrainische-soldaten](https://www.spiegel.de/panorama/ukraine-us-aussenminister-anthony-blinken-spielt-e-gitarre-und-sendet-botschaft-an-ukrainische-soldaten-a-a4db736d-eb2b-49b8-a1f2-e2efe865accf#ref=rss)
-### botschaft
-
-* [https://www.spiegel.de/panorama/ukraine-us-aussenminister-anthony-blinken-spielt-e-gitarre-und-sendet-botschaft-an-ukrainische-soldaten](https://www.spiegel.de/panorama/ukraine-us-aussenminister-anthony-blinken-spielt-e-gitarre-und-sendet-botschaft-an-ukrainische-soldaten-a-a4db736d-eb2b-49b8-a1f2-e2efe865accf#ref=rss)
-### ukrainische
-
-* [https://www.spiegel.de/panorama/ukraine-us-aussenminister-anthony-blinken-spielt-e-gitarre-und-sendet-botschaft-an-ukrainische-soldaten](https://www.spiegel.de/panorama/ukraine-us-aussenminister-anthony-blinken-spielt-e-gitarre-und-sendet-botschaft-an-ukrainische-soldaten-a-a4db736d-eb2b-49b8-a1f2-e2efe865accf#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-soll-selbst-entscheiden-ob-sie-staatsgebiet-mit-us-waffen-angreift](https://www.spiegel.de/ausland/russland-ukraine-soll-selbst-entscheiden-ob-sie-staatsgebiet-mit-us-waffen-angreift-a-7e33da9b-5026-427d-a764-baa00f1e0a56#ref=rss)
-### soldaten
-
-* [https://www.spiegel.de/panorama/ukraine-us-aussenminister-anthony-blinken-spielt-e-gitarre-und-sendet-botschaft-an-ukrainische-soldaten](https://www.spiegel.de/panorama/ukraine-us-aussenminister-anthony-blinken-spielt-e-gitarre-und-sendet-botschaft-an-ukrainische-soldaten-a-a4db736d-eb2b-49b8-a1f2-e2efe865accf#ref=rss)
-### unter
-
-* [https://www.spiegel.de/ausland/russland-ukraine-soll-selbst-entscheiden-ob-sie-staatsgebiet-mit-us-waffen-angreift](https://www.spiegel.de/ausland/russland-ukraine-soll-selbst-entscheiden-ob-sie-staatsgebiet-mit-us-waffen-angreift-a-7e33da9b-5026-427d-a764-baa00f1e0a56#ref=rss)
-* [https://www.spiegel.de/ausland/niederlande-rechte-parteien-unter-geert-wilders-einigen-sich-auf-regierungskoalition](https://www.spiegel.de/ausland/niederlande-rechte-parteien-unter-geert-wilders-einigen-sich-auf-regierungskoalition-a-da25217f-1b33-4472-85cf-e21c32e5e63a#ref=rss)
-### rumänien
-
-* [https://www.spiegel.de/wissenschaft/natur/wisente-in-rumaenien-die-grasenden-klimahelden-der-karpaten](https://www.spiegel.de/wissenschaft/natur/wisente-in-rumaenien-die-grasenden-klimahelden-der-karpaten-a-968f8ba6-c9c8-420c-b60e-94e97a540247#ref=rss)
-### nhl
-
-* [https://www.spiegel.de/sport/eishockey/nhl-eishockey-star-valeri-nichushkin-mitten-in-den-playoffs-fuer-sechs-monate-in-der-nhl-gesperrt](https://www.spiegel.de/sport/eishockey/nhl-eishockey-star-valeri-nichushkin-mitten-in-den-playoffs-fuer-sechs-monate-in-der-nhl-gesperrt-a-f37ed692-8991-4b53-b989-3778e75de810#ref=rss)
-### valeri
-
-* [https://www.spiegel.de/sport/eishockey/nhl-eishockey-star-valeri-nichushkin-mitten-in-den-playoffs-fuer-sechs-monate-in-der-nhl-gesperrt](https://www.spiegel.de/sport/eishockey/nhl-eishockey-star-valeri-nichushkin-mitten-in-den-playoffs-fuer-sechs-monate-in-der-nhl-gesperrt-a-f37ed692-8991-4b53-b989-3778e75de810#ref=rss)
-### nichushkin
-
-* [https://www.spiegel.de/sport/eishockey/nhl-eishockey-star-valeri-nichushkin-mitten-in-den-playoffs-fuer-sechs-monate-in-der-nhl-gesperrt](https://www.spiegel.de/sport/eishockey/nhl-eishockey-star-valeri-nichushkin-mitten-in-den-playoffs-fuer-sechs-monate-in-der-nhl-gesperrt-a-f37ed692-8991-4b53-b989-3778e75de810#ref=rss)
-### sechs
-
-* [https://www.spiegel.de/sport/eishockey/nhl-eishockey-star-valeri-nichushkin-mitten-in-den-playoffs-fuer-sechs-monate-in-der-nhl-gesperrt](https://www.spiegel.de/sport/eishockey/nhl-eishockey-star-valeri-nichushkin-mitten-in-den-playoffs-fuer-sechs-monate-in-der-nhl-gesperrt-a-f37ed692-8991-4b53-b989-3778e75de810#ref=rss)
-* [https://www.spiegel.de/ausland/niederlande-rechte-parteien-unter-geert-wilders-einigen-sich-auf-regierungskoalition](https://www.spiegel.de/ausland/niederlande-rechte-parteien-unter-geert-wilders-einigen-sich-auf-regierungskoalition-a-da25217f-1b33-4472-85cf-e21c32e5e63a#ref=rss)
-### monate
-
-* [https://www.spiegel.de/sport/eishockey/nhl-eishockey-star-valeri-nichushkin-mitten-in-den-playoffs-fuer-sechs-monate-in-der-nhl-gesperrt](https://www.spiegel.de/sport/eishockey/nhl-eishockey-star-valeri-nichushkin-mitten-in-den-playoffs-fuer-sechs-monate-in-der-nhl-gesperrt-a-f37ed692-8991-4b53-b989-3778e75de810#ref=rss)
-* [https://www.spiegel.de/ausland/niederlande-rechte-parteien-unter-geert-wilders-einigen-sich-auf-regierungskoalition](https://www.spiegel.de/ausland/niederlande-rechte-parteien-unter-geert-wilders-einigen-sich-auf-regierungskoalition-a-da25217f-1b33-4472-85cf-e21c32e5e63a#ref=rss)
-### wichtigsten
-
-* [https://www.spiegel.de/sport/eishockey/nhl-eishockey-star-valeri-nichushkin-mitten-in-den-playoffs-fuer-sechs-monate-in-der-nhl-gesperrt](https://www.spiegel.de/sport/eishockey/nhl-eishockey-star-valeri-nichushkin-mitten-in-den-playoffs-fuer-sechs-monate-in-der-nhl-gesperrt-a-f37ed692-8991-4b53-b989-3778e75de810#ref=rss)
-* [https://www.spiegel.de/panorama/cannabislegalisierung-tipps-fuer-den-eigenanbau](https://www.spiegel.de/panorama/cannabislegalisierung-tipps-fuer-den-eigenanbau-a-e17904cf-9806-4edf-afa8-0eb03c45d5b4#ref=rss)
-### volksverpetzer
-
-* [https://www.spiegel.de/netzwelt/web/volksverpetzer-das-bedeutet-der-entzug-der-gemeinnuetzigkeit-fuer-das-blog](https://www.spiegel.de/netzwelt/web/volksverpetzer-das-bedeutet-der-entzug-der-gemeinnuetzigkeit-fuer-das-blog-a-41abd8dc-4313-478c-8dd1-3a2f5f7bcdf3#ref=rss)
-### gemeinnützigkeit
-
-* [https://www.spiegel.de/netzwelt/web/volksverpetzer-das-bedeutet-der-entzug-der-gemeinnuetzigkeit-fuer-das-blog](https://www.spiegel.de/netzwelt/web/volksverpetzer-das-bedeutet-der-entzug-der-gemeinnuetzigkeit-fuer-das-blog-a-41abd8dc-4313-478c-8dd1-3a2f5f7bcdf3#ref=rss)
-### astrotv
-
-* [https://www.spiegel.de/kultur/tv/astrotv-esoterik-fernsehsender-wird-zum-ende-des-jahres-eingestellt](https://www.spiegel.de/kultur/tv/astrotv-esoterik-fernsehsender-wird-zum-ende-des-jahres-eingestellt-a-4047fbc8-03c6-4ce4-a062-43b4f1fd7835#ref=rss)
-### ende
-
-* [https://www.spiegel.de/kultur/tv/astrotv-esoterik-fernsehsender-wird-zum-ende-des-jahres-eingestellt](https://www.spiegel.de/kultur/tv/astrotv-esoterik-fernsehsender-wird-zum-ende-des-jahres-eingestellt-a-4047fbc8-03c6-4ce4-a062-43b4f1fd7835#ref=rss)
-### eingestellt
-
-* [https://www.spiegel.de/kultur/tv/astrotv-esoterik-fernsehsender-wird-zum-ende-des-jahres-eingestellt](https://www.spiegel.de/kultur/tv/astrotv-esoterik-fernsehsender-wird-zum-ende-des-jahres-eingestellt-a-4047fbc8-03c6-4ce4-a062-43b4f1fd7835#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/mindestlohn-spd-chef-lars-klingbeil-fordert-14-euro](https://www.spiegel.de/politik/deutschland/mindestlohn-spd-chef-lars-klingbeil-fordert-14-euro-a-ad514695-f7ec-4c74-bd8a-d590b86e2911#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/hamburg-gesichtsverhuellung-an-schulen-wird-verboten](https://www.spiegel.de/panorama/bildung/hamburg-gesichtsverhuellung-an-schulen-wird-verboten-a-6df46abf-22f5-4a6d-8a4d-95d91919be7c#ref=rss)
 ### niederlande
 
-* [https://www.spiegel.de/ausland/niederlande-rechte-parteien-unter-geert-wilders-einigen-sich-auf-regierungskoalition](https://www.spiegel.de/ausland/niederlande-rechte-parteien-unter-geert-wilders-einigen-sich-auf-regierungskoalition-a-da25217f-1b33-4472-85cf-e21c32e5e63a#ref=rss)
-### rechte
+* [https://www.spiegel.de/ausland/niederlande-regierung-von-geert-wilders-gnaden-das-experiment-mit-dem-hetzer](https://www.spiegel.de/ausland/niederlande-regierung-von-geert-wilders-gnaden-das-experiment-mit-dem-hetzer-a-b610c95b-b480-4dc3-8eed-85d1a8c590e7#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/ausland/niederlande-rechte-parteien-unter-geert-wilders-einigen-sich-auf-regierungskoalition](https://www.spiegel.de/ausland/niederlande-rechte-parteien-unter-geert-wilders-einigen-sich-auf-regierungskoalition-a-da25217f-1b33-4472-85cf-e21c32e5e63a#ref=rss)
-### parteien
+* [https://www.spiegel.de/ausland/niederlande-regierung-von-geert-wilders-gnaden-das-experiment-mit-dem-hetzer](https://www.spiegel.de/ausland/niederlande-regierung-von-geert-wilders-gnaden-das-experiment-mit-dem-hetzer-a-b610c95b-b480-4dc3-8eed-85d1a8c590e7#ref=rss)
+### bekommen
 
-* [https://www.spiegel.de/ausland/niederlande-rechte-parteien-unter-geert-wilders-einigen-sich-auf-regierungskoalition](https://www.spiegel.de/ausland/niederlande-rechte-parteien-unter-geert-wilders-einigen-sich-auf-regierungskoalition-a-da25217f-1b33-4472-85cf-e21c32e5e63a#ref=rss)
-### wilders
+* [https://www.spiegel.de/ausland/niederlande-regierung-von-geert-wilders-gnaden-das-experiment-mit-dem-hetzer](https://www.spiegel.de/ausland/niederlande-regierung-von-geert-wilders-gnaden-das-experiment-mit-dem-hetzer-a-b610c95b-b480-4dc3-8eed-85d1a8c590e7#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/hitler-kaefer-und-mussolini-falter-kontroverse-um-namen-in-der-zoologie](https://www.spiegel.de/wissenschaft/natur/hitler-kaefer-und-mussolini-falter-kontroverse-um-namen-in-der-zoologie-a-ed7f3e36-f755-4cfc-890c-243c3ea1b0d8#ref=rss)
+### sophie
 
-* [https://www.spiegel.de/ausland/niederlande-rechte-parteien-unter-geert-wilders-einigen-sich-auf-regierungskoalition](https://www.spiegel.de/ausland/niederlande-rechte-parteien-unter-geert-wilders-einigen-sich-auf-regierungskoalition-a-da25217f-1b33-4472-85cf-e21c32e5e63a#ref=rss)
-### weniger
+* [https://www.spiegel.de/panorama/leute/sophie-turner-kam-kurzfristig-mit-ihren-toechtern-bei-taylor-swift-unter](https://www.spiegel.de/panorama/leute/sophie-turner-kam-kurzfristig-mit-ihren-toechtern-bei-taylor-swift-unter-a-a79b5f2b-6329-4e89-bda2-2c716ce8a4bf#ref=rss)
+### turner
 
-* [https://www.spiegel.de/auto/umweltzone-weniger-feinstaub-weniger-asthma-bei-kindern](https://www.spiegel.de/auto/umweltzone-weniger-feinstaub-weniger-asthma-bei-kindern-a-9e980fd6-0485-4f66-a6c1-680cbb5c9c93#ref=rss)
-### feinstaub
+* [https://www.spiegel.de/panorama/leute/sophie-turner-kam-kurzfristig-mit-ihren-toechtern-bei-taylor-swift-unter](https://www.spiegel.de/panorama/leute/sophie-turner-kam-kurzfristig-mit-ihren-toechtern-bei-taylor-swift-unter-a-a79b5f2b-6329-4e89-bda2-2c716ce8a4bf#ref=rss)
+### england
 
-* [https://www.spiegel.de/auto/umweltzone-weniger-feinstaub-weniger-asthma-bei-kindern](https://www.spiegel.de/auto/umweltzone-weniger-feinstaub-weniger-asthma-bei-kindern-a-9e980fd6-0485-4f66-a6c1-680cbb5c9c93#ref=rss)
+* [https://www.spiegel.de/panorama/leute/sophie-turner-kam-kurzfristig-mit-ihren-toechtern-bei-taylor-swift-unter](https://www.spiegel.de/panorama/leute/sophie-turner-kam-kurzfristig-mit-ihren-toechtern-bei-taylor-swift-unter-a-a79b5f2b-6329-4e89-bda2-2c716ce8a4bf#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-diskussion-um-videoschiedsrichter-vereine-sollen-ueber-verbleib-entscheiden](https://www.spiegel.de/sport/fussball/premier-league-diskussion-um-videoschiedsrichter-vereine-sollen-ueber-verbleib-entscheiden-a-5ee97559-73bb-4942-beef-ad27bfa3300d#ref=rss)
+### usa
+
+* [https://www.spiegel.de/panorama/leute/sophie-turner-kam-kurzfristig-mit-ihren-toechtern-bei-taylor-swift-unter](https://www.spiegel.de/panorama/leute/sophie-turner-kam-kurzfristig-mit-ihren-toechtern-bei-taylor-swift-unter-a-a79b5f2b-6329-4e89-bda2-2c716ce8a4bf#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-hilfsgueter-sollen-in-den-kommenden-tagen-ueber-provisorischen-pier-verteilt-werden](https://www.spiegel.de/ausland/gaza-hilfsgueter-sollen-in-den-kommenden-tagen-ueber-provisorischen-pier-verteilt-werden-a-e4065eb8-1a2c-4fa8-a434-34cf03e00816#ref=rss)
+### beiden
+
+* [https://www.spiegel.de/panorama/leute/sophie-turner-kam-kurzfristig-mit-ihren-toechtern-bei-taylor-swift-unter](https://www.spiegel.de/panorama/leute/sophie-turner-kam-kurzfristig-mit-ihren-toechtern-bei-taylor-swift-unter-a-a79b5f2b-6329-4e89-bda2-2c716ce8a4bf#ref=rss)
+* [https://www.spiegel.de/ausland/russland-und-china-wladimir-putin-und-xi-jinping-staerken-strategische-partnerschaft-in-peking](https://www.spiegel.de/ausland/russland-und-china-wladimir-putin-und-xi-jinping-staerken-strategische-partnerschaft-in-peking-a-78d34089-2a17-415b-8314-5031692d5899#ref=rss)
+### namen
+
+* [https://www.spiegel.de/wissenschaft/natur/hitler-kaefer-und-mussolini-falter-kontroverse-um-namen-in-der-zoologie](https://www.spiegel.de/wissenschaft/natur/hitler-kaefer-und-mussolini-falter-kontroverse-um-namen-in-der-zoologie-a-ed7f3e36-f755-4cfc-890c-243c3ea1b0d8#ref=rss)
+### zoologie
+
+* [https://www.spiegel.de/wissenschaft/natur/hitler-kaefer-und-mussolini-falter-kontroverse-um-namen-in-der-zoologie](https://www.spiegel.de/wissenschaft/natur/hitler-kaefer-und-mussolini-falter-kontroverse-um-namen-in-der-zoologie-a-ed7f3e36-f755-4cfc-890c-243c3ea1b0d8#ref=rss)
+### straßen
+
+* [https://www.spiegel.de/wissenschaft/natur/hitler-kaefer-und-mussolini-falter-kontroverse-um-namen-in-der-zoologie](https://www.spiegel.de/wissenschaft/natur/hitler-kaefer-und-mussolini-falter-kontroverse-um-namen-in-der-zoologie-a-ed7f3e36-f755-4cfc-890c-243c3ea1b0d8#ref=rss)
+* [https://www.spiegel.de/auto/reisen-an-pfingsten-adac-rechnet-mit-massiven-stoerungen](https://www.spiegel.de/auto/reisen-an-pfingsten-adac-rechnet-mit-massiven-stoerungen-a-eb543098-090e-4341-976f-51cb6109d1b7#ref=rss)
+### tiere
+
+* [https://www.spiegel.de/wissenschaft/natur/hitler-kaefer-und-mussolini-falter-kontroverse-um-namen-in-der-zoologie](https://www.spiegel.de/wissenschaft/natur/hitler-kaefer-und-mussolini-falter-kontroverse-um-namen-in-der-zoologie-a-ed7f3e36-f755-4cfc-890c-243c3ea1b0d8#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/droht-eine-verquallung-der-ozeane](https://www.spiegel.de/wissenschaft/natur/droht-eine-verquallung-der-ozeane-a-f0e8bd81-d27e-4342-974e-dc5c47eea7f8#ref=rss)
+### neue
+
+* [https://www.spiegel.de/wissenschaft/natur/hitler-kaefer-und-mussolini-falter-kontroverse-um-namen-in-der-zoologie](https://www.spiegel.de/wissenschaft/natur/hitler-kaefer-und-mussolini-falter-kontroverse-um-namen-in-der-zoologie-a-ed7f3e36-f755-4cfc-890c-243c3ea1b0d8#ref=rss)
+* [https://www.spiegel.de/ausland/charkiw-warum-die-ukraine-russlands-vorstoss-nicht-verhindern-konnte](https://www.spiegel.de/ausland/charkiw-warum-die-ukraine-russlands-vorstoss-nicht-verhindern-konnte-a-47780387-7d8a-413c-ada7-19f69c3fcd95#ref=rss)
+### temu
+
+* [https://www.spiegel.de/netzwelt/apps/temu-europaeische-verbraucherschuetzer-werfen-der-shopping-plattform-kundenmanipulation-vor](https://www.spiegel.de/netzwelt/apps/temu-europaeische-verbraucherschuetzer-werfen-der-shopping-plattform-kundenmanipulation-vor-a-1048d87b-81ad-40c9-8de2-05c009a267d4#ref=rss)
+### werfen
+
+* [https://www.spiegel.de/netzwelt/apps/temu-europaeische-verbraucherschuetzer-werfen-der-shopping-plattform-kundenmanipulation-vor](https://www.spiegel.de/netzwelt/apps/temu-europaeische-verbraucherschuetzer-werfen-der-shopping-plattform-kundenmanipulation-vor-a-1048d87b-81ad-40c9-8de2-05c009a267d4#ref=rss)
+### kundenmanipulation
+
+* [https://www.spiegel.de/netzwelt/apps/temu-europaeische-verbraucherschuetzer-werfen-der-shopping-plattform-kundenmanipulation-vor](https://www.spiegel.de/netzwelt/apps/temu-europaeische-verbraucherschuetzer-werfen-der-shopping-plattform-kundenmanipulation-vor-a-1048d87b-81ad-40c9-8de2-05c009a267d4#ref=rss)
+### rammstein
+
+* [https://www.spiegel.de/kultur/musik/rammstein-in-dresden-die-peniskanone-ist-zurueck-als-waere-nichts-geschehen](https://www.spiegel.de/kultur/musik/rammstein-in-dresden-die-peniskanone-ist-zurueck-als-waere-nichts-geschehen-a-79d74469-131b-4d2c-a8a7-e1cd38794c90#ref=rss)
+### dresden
+
+* [https://www.spiegel.de/kultur/musik/rammstein-in-dresden-die-peniskanone-ist-zurueck-als-waere-nichts-geschehen](https://www.spiegel.de/kultur/musik/rammstein-in-dresden-die-peniskanone-ist-zurueck-als-waere-nichts-geschehen-a-79d74469-131b-4d2c-a8a7-e1cd38794c90#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/kultur/musik/rammstein-in-dresden-die-peniskanone-ist-zurueck-als-waere-nichts-geschehen](https://www.spiegel.de/kultur/musik/rammstein-in-dresden-die-peniskanone-ist-zurueck-als-waere-nichts-geschehen-a-79d74469-131b-4d2c-a8a7-e1cd38794c90#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-sebastian-vettel-ehrt-ayrton-senna-in-imola](https://www.spiegel.de/sport/formel1/formel-1-sebastian-vettel-ehrt-ayrton-senna-in-imola-a-1a098255-a07b-45d4-98f8-2c74ce9b9580#ref=rss)
+### nichts
+
+* [https://www.spiegel.de/kultur/musik/rammstein-in-dresden-die-peniskanone-ist-zurueck-als-waere-nichts-geschehen](https://www.spiegel.de/kultur/musik/rammstein-in-dresden-die-peniskanone-ist-zurueck-als-waere-nichts-geschehen-a-79d74469-131b-4d2c-a8a7-e1cd38794c90#ref=rss)
+### geschehen
+
+* [https://www.spiegel.de/kultur/musik/rammstein-in-dresden-die-peniskanone-ist-zurueck-als-waere-nichts-geschehen](https://www.spiegel.de/kultur/musik/rammstein-in-dresden-die-peniskanone-ist-zurueck-als-waere-nichts-geschehen-a-79d74469-131b-4d2c-a8a7-e1cd38794c90#ref=rss)
+### woche
+
+* [https://www.spiegel.de/start/startklar-newsletter-wie-viel-gehalt-will-ich-mit-40](https://www.spiegel.de/start/startklar-newsletter-wie-viel-gehalt-will-ich-mit-40-a-40051cf8-0a7c-49d8-95c8-a94478e0d034#ref=rss)
+* [https://www.spiegel.de/ausland/russland-festgenommener-us-soldat-gordon-black-gesteht-wohl-kriminelles-fehlverhalten-kooperation-mit-ermittlern](https://www.spiegel.de/ausland/russland-festgenommener-us-soldat-gordon-black-gesteht-wohl-kriminelles-fehlverhalten-kooperation-mit-ermittlern-a-79592b8d-a890-4986-9885-e662bc11716c#ref=rss)
+### ussoldat
+
+* [https://www.spiegel.de/ausland/russland-festgenommener-us-soldat-gordon-black-gesteht-wohl-kriminelles-fehlverhalten-kooperation-mit-ermittlern](https://www.spiegel.de/ausland/russland-festgenommener-us-soldat-gordon-black-gesteht-wohl-kriminelles-fehlverhalten-kooperation-mit-ermittlern-a-79592b8d-a890-4986-9885-e662bc11716c#ref=rss)
+### gordon
+
+* [https://www.spiegel.de/ausland/russland-festgenommener-us-soldat-gordon-black-gesteht-wohl-kriminelles-fehlverhalten-kooperation-mit-ermittlern](https://www.spiegel.de/ausland/russland-festgenommener-us-soldat-gordon-black-gesteht-wohl-kriminelles-fehlverhalten-kooperation-mit-ermittlern-a-79592b8d-a890-4986-9885-e662bc11716c#ref=rss)
+### black
+
+* [https://www.spiegel.de/ausland/russland-festgenommener-us-soldat-gordon-black-gesteht-wohl-kriminelles-fehlverhalten-kooperation-mit-ermittlern](https://www.spiegel.de/ausland/russland-festgenommener-us-soldat-gordon-black-gesteht-wohl-kriminelles-fehlverhalten-kooperation-mit-ermittlern-a-79592b8d-a890-4986-9885-e662bc11716c#ref=rss)
+### ermittlern
+
+* [https://www.spiegel.de/ausland/russland-festgenommener-us-soldat-gordon-black-gesteht-wohl-kriminelles-fehlverhalten-kooperation-mit-ermittlern](https://www.spiegel.de/ausland/russland-festgenommener-us-soldat-gordon-black-gesteht-wohl-kriminelles-fehlverhalten-kooperation-mit-ermittlern-a-79592b8d-a890-4986-9885-e662bc11716c#ref=rss)
+### russischen
+
+* [https://www.spiegel.de/ausland/russland-festgenommener-us-soldat-gordon-black-gesteht-wohl-kriminelles-fehlverhalten-kooperation-mit-ermittlern](https://www.spiegel.de/ausland/russland-festgenommener-us-soldat-gordon-black-gesteht-wohl-kriminelles-fehlverhalten-kooperation-mit-ermittlern-a-79592b8d-a890-4986-9885-e662bc11716c#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russische-offensive-im-gebiet-charkiw-offenbar-verlangsamt](https://www.spiegel.de/ausland/ukraine-krieg-russische-offensive-im-gebiet-charkiw-offenbar-verlangsamt-a-76f500a4-147d-4122-a291-7dba4e2d7499#ref=rss)
+### formel
+
+* [https://www.spiegel.de/sport/formel1/formel-1-sebastian-vettel-ehrt-ayrton-senna-in-imola](https://www.spiegel.de/sport/formel1/formel-1-sebastian-vettel-ehrt-ayrton-senna-in-imola-a-1a098255-a07b-45d4-98f8-2c74ce9b9580#ref=rss)
+### 1
+
+* [https://www.spiegel.de/sport/formel1/formel-1-sebastian-vettel-ehrt-ayrton-senna-in-imola](https://www.spiegel.de/sport/formel1/formel-1-sebastian-vettel-ehrt-ayrton-senna-in-imola-a-1a098255-a07b-45d4-98f8-2c74ce9b9580#ref=rss)
+### sebastian
+
+* [https://www.spiegel.de/sport/formel1/formel-1-sebastian-vettel-ehrt-ayrton-senna-in-imola](https://www.spiegel.de/sport/formel1/formel-1-sebastian-vettel-ehrt-ayrton-senna-in-imola-a-1a098255-a07b-45d4-98f8-2c74ce9b9580#ref=rss)
+### vettel
+
+* [https://www.spiegel.de/sport/formel1/formel-1-sebastian-vettel-ehrt-ayrton-senna-in-imola](https://www.spiegel.de/sport/formel1/formel-1-sebastian-vettel-ehrt-ayrton-senna-in-imola-a-1a098255-a07b-45d4-98f8-2c74ce9b9580#ref=rss)
+### ayrton
+
+* [https://www.spiegel.de/sport/formel1/formel-1-sebastian-vettel-ehrt-ayrton-senna-in-imola](https://www.spiegel.de/sport/formel1/formel-1-sebastian-vettel-ehrt-ayrton-senna-in-imola-a-1a098255-a07b-45d4-98f8-2c74ce9b9580#ref=rss)
+### senna
+
+* [https://www.spiegel.de/sport/formel1/formel-1-sebastian-vettel-ehrt-ayrton-senna-in-imola](https://www.spiegel.de/sport/formel1/formel-1-sebastian-vettel-ehrt-ayrton-senna-in-imola-a-1a098255-a07b-45d4-98f8-2c74ce9b9580#ref=rss)
+### imola
+
+* [https://www.spiegel.de/sport/formel1/formel-1-sebastian-vettel-ehrt-ayrton-senna-in-imola](https://www.spiegel.de/sport/formel1/formel-1-sebastian-vettel-ehrt-ayrton-senna-in-imola-a-1a098255-a07b-45d4-98f8-2c74ce9b9580#ref=rss)
+### streit
+
+* [https://www.spiegel.de/start/streit-ueber-bafoeg-reform-gibt-es-nun-doch-mehr-geld-fuer-akademiker](https://www.spiegel.de/start/streit-ueber-bafoeg-reform-gibt-es-nun-doch-mehr-geld-fuer-akademiker-a-00191890-93be-4f88-bd05-0a48a3690e48#ref=rss)
+* [https://www.spiegel.de/psychologie/kommunikation-in-der-partnerschaft-so-lernen-sie-endlich-richtig-zu-streiten](https://www.spiegel.de/psychologie/kommunikation-in-der-partnerschaft-so-lernen-sie-endlich-richtig-zu-streiten-a-f2d5ce1f-5b7a-4e37-9798-b8e7ac5a4df4#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/start/streit-ueber-bafoeg-reform-gibt-es-nun-doch-mehr-geld-fuer-akademiker](https://www.spiegel.de/start/streit-ueber-bafoeg-reform-gibt-es-nun-doch-mehr-geld-fuer-akademiker-a-00191890-93be-4f88-bd05-0a48a3690e48#ref=rss)
+### geld
+
+* [https://www.spiegel.de/start/streit-ueber-bafoeg-reform-gibt-es-nun-doch-mehr-geld-fuer-akademiker](https://www.spiegel.de/start/streit-ueber-bafoeg-reform-gibt-es-nun-doch-mehr-geld-fuer-akademiker-a-00191890-93be-4f88-bd05-0a48a3690e48#ref=rss)
+### akademiker
+
+* [https://www.spiegel.de/start/streit-ueber-bafoeg-reform-gibt-es-nun-doch-mehr-geld-fuer-akademiker](https://www.spiegel.de/start/streit-ueber-bafoeg-reform-gibt-es-nun-doch-mehr-geld-fuer-akademiker-a-00191890-93be-4f88-bd05-0a48a3690e48#ref=rss)
+### diesem
+
+* [https://www.spiegel.de/start/streit-ueber-bafoeg-reform-gibt-es-nun-doch-mehr-geld-fuer-akademiker](https://www.spiegel.de/start/streit-ueber-bafoeg-reform-gibt-es-nun-doch-mehr-geld-fuer-akademiker-a-00191890-93be-4f88-bd05-0a48a3690e48#ref=rss)
+* [https://www.spiegel.de/psychologie/kommunikation-in-der-partnerschaft-so-lernen-sie-endlich-richtig-zu-streiten](https://www.spiegel.de/psychologie/kommunikation-in-der-partnerschaft-so-lernen-sie-endlich-richtig-zu-streiten-a-f2d5ce1f-5b7a-4e37-9798-b8e7ac5a4df4#ref=rss)
+### darunter
+
+* [https://www.spiegel.de/start/streit-ueber-bafoeg-reform-gibt-es-nun-doch-mehr-geld-fuer-akademiker](https://www.spiegel.de/start/streit-ueber-bafoeg-reform-gibt-es-nun-doch-mehr-geld-fuer-akademiker-a-00191890-93be-4f88-bd05-0a48a3690e48#ref=rss)
+* [https://www.spiegel.de/politik/petr-bystron-bundestag-genehmigt-durchsuchungen-bei-afd-politiker](https://www.spiegel.de/politik/petr-bystron-bundestag-genehmigt-durchsuchungen-bei-afd-politiker-a-9aa6019a-6d41-4b80-8712-b50cb251be1c#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/start/streit-ueber-bafoeg-reform-gibt-es-nun-doch-mehr-geld-fuer-akademiker](https://www.spiegel.de/start/streit-ueber-bafoeg-reform-gibt-es-nun-doch-mehr-geld-fuer-akademiker-a-00191890-93be-4f88-bd05-0a48a3690e48#ref=rss)
+* [https://www.spiegel.de/psychologie/kommunikation-in-der-partnerschaft-so-lernen-sie-endlich-richtig-zu-streiten](https://www.spiegel.de/psychologie/kommunikation-in-der-partnerschaft-so-lernen-sie-endlich-richtig-zu-streiten-a-f2d5ce1f-5b7a-4e37-9798-b8e7ac5a4df4#ref=rss)
+### schüsse
+
+* [https://www.spiegel.de/ausland/slowakei-schuesse-auf-robert-fico-tv-aufnahmen-zeigen-attentat](https://www.spiegel.de/ausland/slowakei-schuesse-auf-robert-fico-tv-aufnahmen-zeigen-attentat-a-fc9f94b0-2868-4a1f-91f7-485e98cd2844#ref=rss)
+### tvaufnahmen
+
+* [https://www.spiegel.de/ausland/slowakei-schuesse-auf-robert-fico-tv-aufnahmen-zeigen-attentat](https://www.spiegel.de/ausland/slowakei-schuesse-auf-robert-fico-tv-aufnahmen-zeigen-attentat-a-fc9f94b0-2868-4a1f-91f7-485e98cd2844#ref=rss)
+### zeigen
+
+* [https://www.spiegel.de/ausland/slowakei-schuesse-auf-robert-fico-tv-aufnahmen-zeigen-attentat](https://www.spiegel.de/ausland/slowakei-schuesse-auf-robert-fico-tv-aufnahmen-zeigen-attentat-a-fc9f94b0-2868-4a1f-91f7-485e98cd2844#ref=rss)
+### adam
+
+* [https://www.spiegel.de/kultur/kino/adam-sandler-happy-gilmore-bekommt-netflix-sequel-nach-28-jahren](https://www.spiegel.de/kultur/kino/adam-sandler-happy-gilmore-bekommt-netflix-sequel-nach-28-jahren-a-9ef1c60e-437e-4dea-a62b-d8ed2a53529a#ref=rss)
+### sandler
+
+* [https://www.spiegel.de/kultur/kino/adam-sandler-happy-gilmore-bekommt-netflix-sequel-nach-28-jahren](https://www.spiegel.de/kultur/kino/adam-sandler-happy-gilmore-bekommt-netflix-sequel-nach-28-jahren-a-9ef1c60e-437e-4dea-a62b-d8ed2a53529a#ref=rss)
+### happy
+
+* [https://www.spiegel.de/kultur/kino/adam-sandler-happy-gilmore-bekommt-netflix-sequel-nach-28-jahren](https://www.spiegel.de/kultur/kino/adam-sandler-happy-gilmore-bekommt-netflix-sequel-nach-28-jahren-a-9ef1c60e-437e-4dea-a62b-d8ed2a53529a#ref=rss)
+### gilmore
+
+* [https://www.spiegel.de/kultur/kino/adam-sandler-happy-gilmore-bekommt-netflix-sequel-nach-28-jahren](https://www.spiegel.de/kultur/kino/adam-sandler-happy-gilmore-bekommt-netflix-sequel-nach-28-jahren-a-9ef1c60e-437e-4dea-a62b-d8ed2a53529a#ref=rss)
+### schulen
+
+* [https://www.spiegel.de/panorama/bildung/hamburg-gesichtsverhuellung-an-schulen-wird-verboten](https://www.spiegel.de/panorama/bildung/hamburg-gesichtsverhuellung-an-schulen-wird-verboten-a-6df46abf-22f5-4a6d-8a4d-95d91919be7c#ref=rss)
+### china
+
+* [https://www.spiegel.de/ausland/russland-und-china-wladimir-putin-und-xi-jinping-staerken-strategische-partnerschaft-in-peking](https://www.spiegel.de/ausland/russland-und-china-wladimir-putin-und-xi-jinping-staerken-strategische-partnerschaft-in-peking-a-78d34089-2a17-415b-8314-5031692d5899#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russische-offensive-im-gebiet-charkiw-offenbar-verlangsamt](https://www.spiegel.de/ausland/ukraine-krieg-russische-offensive-im-gebiet-charkiw-offenbar-verlangsamt-a-76f500a4-147d-4122-a291-7dba4e2d7499#ref=rss)
+### xi
+
+* [https://www.spiegel.de/ausland/russland-und-china-wladimir-putin-und-xi-jinping-staerken-strategische-partnerschaft-in-peking](https://www.spiegel.de/ausland/russland-und-china-wladimir-putin-und-xi-jinping-staerken-strategische-partnerschaft-in-peking-a-78d34089-2a17-415b-8314-5031692d5899#ref=rss)
+### stärken
+
+* [https://www.spiegel.de/ausland/russland-und-china-wladimir-putin-und-xi-jinping-staerken-strategische-partnerschaft-in-peking](https://www.spiegel.de/ausland/russland-und-china-wladimir-putin-und-xi-jinping-staerken-strategische-partnerschaft-in-peking-a-78d34089-2a17-415b-8314-5031692d5899#ref=rss)
+### partnerschaft
+
+* [https://www.spiegel.de/ausland/russland-und-china-wladimir-putin-und-xi-jinping-staerken-strategische-partnerschaft-in-peking](https://www.spiegel.de/ausland/russland-und-china-wladimir-putin-und-xi-jinping-staerken-strategische-partnerschaft-in-peking-a-78d34089-2a17-415b-8314-5031692d5899#ref=rss)
+* [https://www.spiegel.de/psychologie/kommunikation-in-der-partnerschaft-so-lernen-sie-endlich-richtig-zu-streiten](https://www.spiegel.de/psychologie/kommunikation-in-der-partnerschaft-so-lernen-sie-endlich-richtig-zu-streiten-a-f2d5ce1f-5b7a-4e37-9798-b8e7ac5a4df4#ref=rss)
+### peking
+
+* [https://www.spiegel.de/ausland/russland-und-china-wladimir-putin-und-xi-jinping-staerken-strategische-partnerschaft-in-peking](https://www.spiegel.de/ausland/russland-und-china-wladimir-putin-und-xi-jinping-staerken-strategische-partnerschaft-in-peking-a-78d34089-2a17-415b-8314-5031692d5899#ref=rss)
+### singapore
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/singapore-airlines-zahlt-mitarbeitern-acht-zusaetzliche-monatsgehaelter-plus-sonderpraemie](https://www.spiegel.de/wirtschaft/unternehmen/singapore-airlines-zahlt-mitarbeitern-acht-zusaetzliche-monatsgehaelter-plus-sonderpraemie-a-8cdcd0b2-3399-4471-8cd2-bdfe0cb1bb8f#ref=rss)
+### airlines
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/singapore-airlines-zahlt-mitarbeitern-acht-zusaetzliche-monatsgehaelter-plus-sonderpraemie](https://www.spiegel.de/wirtschaft/unternehmen/singapore-airlines-zahlt-mitarbeitern-acht-zusaetzliche-monatsgehaelter-plus-sonderpraemie-a-8cdcd0b2-3399-4471-8cd2-bdfe0cb1bb8f#ref=rss)
+### sehr
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/singapore-airlines-zahlt-mitarbeitern-acht-zusaetzliche-monatsgehaelter-plus-sonderpraemie](https://www.spiegel.de/wirtschaft/unternehmen/singapore-airlines-zahlt-mitarbeitern-acht-zusaetzliche-monatsgehaelter-plus-sonderpraemie-a-8cdcd0b2-3399-4471-8cd2-bdfe0cb1bb8f#ref=rss)
+* [https://www.spiegel.de/auto/reisen-an-pfingsten-adac-rechnet-mit-massiven-stoerungen](https://www.spiegel.de/auto/reisen-an-pfingsten-adac-rechnet-mit-massiven-stoerungen-a-eb543098-090e-4341-976f-51cb6109d1b7#ref=rss)
+### regierungschef
+
+* [https://www.spiegel.de/ausland/robert-fico-slowakischer-regierungschef-nach-attentat-in-kritischem-zustand](https://www.spiegel.de/ausland/robert-fico-slowakischer-regierungschef-nach-attentat-in-kritischem-zustand-a-59248055-dfef-4f29-ae1d-65ce975af750#ref=rss)
+### derweil
+
+* [https://www.spiegel.de/ausland/robert-fico-slowakischer-regierungschef-nach-attentat-in-kritischem-zustand](https://www.spiegel.de/ausland/robert-fico-slowakischer-regierungschef-nach-attentat-in-kritischem-zustand-a-59248055-dfef-4f29-ae1d-65ce975af750#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russische-offensive-im-gebiet-charkiw-offenbar-verlangsamt](https://www.spiegel.de/ausland/ukraine-krieg-russische-offensive-im-gebiet-charkiw-offenbar-verlangsamt-a-76f500a4-147d-4122-a291-7dba4e2d7499#ref=rss)
+### pfingsten
+
+* [https://www.spiegel.de/auto/reisen-an-pfingsten-adac-rechnet-mit-massiven-stoerungen](https://www.spiegel.de/auto/reisen-an-pfingsten-adac-rechnet-mit-massiven-stoerungen-a-eb543098-090e-4341-976f-51cb6109d1b7#ref=rss)
+### voll
+
+* [https://www.spiegel.de/auto/reisen-an-pfingsten-adac-rechnet-mit-massiven-stoerungen](https://www.spiegel.de/auto/reisen-an-pfingsten-adac-rechnet-mit-massiven-stoerungen-a-eb543098-090e-4341-976f-51cb6109d1b7#ref=rss)
 ### petr
 
-* [https://www.spiegel.de/ausland/ukraine-tschechischer-praesident-petr-pavel-aeussert-zweifel-an-rueckeroberung-ukrainischer-gebiete](https://www.spiegel.de/ausland/ukraine-tschechischer-praesident-petr-pavel-aeussert-zweifel-an-rueckeroberung-ukrainischer-gebiete-a-d51ac97c-fc52-48bd-8fdb-9d518e9dca0b#ref=rss)
-### pavel
+* [https://www.spiegel.de/politik/petr-bystron-bundestag-genehmigt-durchsuchungen-bei-afd-politiker](https://www.spiegel.de/politik/petr-bystron-bundestag-genehmigt-durchsuchungen-bei-afd-politiker-a-9aa6019a-6d41-4b80-8712-b50cb251be1c#ref=rss)
+### bystron
 
-* [https://www.spiegel.de/ausland/ukraine-tschechischer-praesident-petr-pavel-aeussert-zweifel-an-rueckeroberung-ukrainischer-gebiete](https://www.spiegel.de/ausland/ukraine-tschechischer-praesident-petr-pavel-aeussert-zweifel-an-rueckeroberung-ukrainischer-gebiete-a-d51ac97c-fc52-48bd-8fdb-9d518e9dca0b#ref=rss)
+* [https://www.spiegel.de/politik/petr-bystron-bundestag-genehmigt-durchsuchungen-bei-afd-politiker](https://www.spiegel.de/politik/petr-bystron-bundestag-genehmigt-durchsuchungen-bei-afd-politiker-a-9aa6019a-6d41-4b80-8712-b50cb251be1c#ref=rss)
+### afdpolitiker
+
+* [https://www.spiegel.de/politik/petr-bystron-bundestag-genehmigt-durchsuchungen-bei-afd-politiker](https://www.spiegel.de/politik/petr-bystron-bundestag-genehmigt-durchsuchungen-bei-afd-politiker-a-9aa6019a-6d41-4b80-8712-b50cb251be1c#ref=rss)
+### verdacht
+
+* [https://www.spiegel.de/politik/petr-bystron-bundestag-genehmigt-durchsuchungen-bei-afd-politiker](https://www.spiegel.de/politik/petr-bystron-bundestag-genehmigt-durchsuchungen-bei-afd-politiker-a-9aa6019a-6d41-4b80-8712-b50cb251be1c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/block-familie-ermittlungen-wegen-mutmasslicher-kindesentziehung-durchsuchung-im-hotel-grand-elysee-in-hamburg](https://www.spiegel.de/panorama/justiz/block-familie-ermittlungen-wegen-mutmasslicher-kindesentziehung-durchsuchung-im-hotel-grand-elysee-in-hamburg-a-c166fef8-e265-4bc1-a428-b2df5fa9bbf6#ref=rss)
+### kindesentziehung
+
+* [https://www.spiegel.de/panorama/justiz/block-familie-ermittlungen-wegen-mutmasslicher-kindesentziehung-durchsuchung-im-hotel-grand-elysee-in-hamburg](https://www.spiegel.de/panorama/justiz/block-familie-ermittlungen-wegen-mutmasslicher-kindesentziehung-durchsuchung-im-hotel-grand-elysee-in-hamburg-a-c166fef8-e265-4bc1-a428-b2df5fa9bbf6#ref=rss)
+### hotel
+
+* [https://www.spiegel.de/panorama/justiz/block-familie-ermittlungen-wegen-mutmasslicher-kindesentziehung-durchsuchung-im-hotel-grand-elysee-in-hamburg](https://www.spiegel.de/panorama/justiz/block-familie-ermittlungen-wegen-mutmasslicher-kindesentziehung-durchsuchung-im-hotel-grand-elysee-in-hamburg-a-c166fef8-e265-4bc1-a428-b2df5fa9bbf6#ref=rss)
+### grand
+
+* [https://www.spiegel.de/panorama/justiz/block-familie-ermittlungen-wegen-mutmasslicher-kindesentziehung-durchsuchung-im-hotel-grand-elysee-in-hamburg](https://www.spiegel.de/panorama/justiz/block-familie-ermittlungen-wegen-mutmasslicher-kindesentziehung-durchsuchung-im-hotel-grand-elysee-in-hamburg-a-c166fef8-e265-4bc1-a428-b2df5fa9bbf6#ref=rss)
+### elysée
+
+* [https://www.spiegel.de/panorama/justiz/block-familie-ermittlungen-wegen-mutmasslicher-kindesentziehung-durchsuchung-im-hotel-grand-elysee-in-hamburg](https://www.spiegel.de/panorama/justiz/block-familie-ermittlungen-wegen-mutmasslicher-kindesentziehung-durchsuchung-im-hotel-grand-elysee-in-hamburg-a-c166fef8-e265-4bc1-a428-b2df5fa9bbf6#ref=rss)
+### block
+
+* [https://www.spiegel.de/panorama/justiz/block-familie-ermittlungen-wegen-mutmasslicher-kindesentziehung-durchsuchung-im-hotel-grand-elysee-in-hamburg](https://www.spiegel.de/panorama/justiz/block-familie-ermittlungen-wegen-mutmasslicher-kindesentziehung-durchsuchung-im-hotel-grand-elysee-in-hamburg-a-c166fef8-e265-4bc1-a428-b2df5fa9bbf6#ref=rss)
+### ukrainische
+
+* [https://www.spiegel.de/ausland/charkiw-warum-die-ukraine-russlands-vorstoss-nicht-verhindern-konnte](https://www.spiegel.de/ausland/charkiw-warum-die-ukraine-russlands-vorstoss-nicht-verhindern-konnte-a-47780387-7d8a-413c-ada7-19f69c3fcd95#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russische-offensive-im-gebiet-charkiw-offenbar-verlangsamt](https://www.spiegel.de/ausland/ukraine-krieg-russische-offensive-im-gebiet-charkiw-offenbar-verlangsamt-a-76f500a4-147d-4122-a291-7dba4e2d7499#ref=rss)
+### gemacht
+
+* [https://www.spiegel.de/ausland/charkiw-warum-die-ukraine-russlands-vorstoss-nicht-verhindern-konnte](https://www.spiegel.de/ausland/charkiw-warum-die-ukraine-russlands-vorstoss-nicht-verhindern-konnte-a-47780387-7d8a-413c-ada7-19f69c3fcd95#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/winfried-kretschmann-schwarz-gruen-ist-eine-realistische-option](https://www.spiegel.de/politik/deutschland/winfried-kretschmann-schwarz-gruen-ist-eine-realistische-option-a-b478bab4-ee48-45db-81cd-dc922c903bd2#ref=rss)
+### abstimmen
+
+* [https://www.spiegel.de/sport/fussball/premier-league-diskussion-um-videoschiedsrichter-vereine-sollen-ueber-verbleib-entscheiden](https://www.spiegel.de/sport/fussball/premier-league-diskussion-um-videoschiedsrichter-vereine-sollen-ueber-verbleib-entscheiden-a-5ee97559-73bb-4942-beef-ad27bfa3300d#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/sport/fussball/premier-league-diskussion-um-videoschiedsrichter-vereine-sollen-ueber-verbleib-entscheiden](https://www.spiegel.de/sport/fussball/premier-league-diskussion-um-videoschiedsrichter-vereine-sollen-ueber-verbleib-entscheiden-a-5ee97559-73bb-4942-beef-ad27bfa3300d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ifo-praesident-clemens-fuest-schlaegt-pauschale-kuerzung-von-subventionen-vor](https://www.spiegel.de/wirtschaft/ifo-praesident-clemens-fuest-schlaegt-pauschale-kuerzung-von-subventionen-vor-a-29c9d4c6-6a1a-4c6e-99ea-118f4c09c175#ref=rss)
+### hilfsgüter
+
+* [https://www.spiegel.de/ausland/gaza-hilfsgueter-sollen-in-den-kommenden-tagen-ueber-provisorischen-pier-verteilt-werden](https://www.spiegel.de/ausland/gaza-hilfsgueter-sollen-in-den-kommenden-tagen-ueber-provisorischen-pier-verteilt-werden-a-e4065eb8-1a2c-4fa8-a434-34cf03e00816#ref=rss)
+### tagen
+
+* [https://www.spiegel.de/ausland/gaza-hilfsgueter-sollen-in-den-kommenden-tagen-ueber-provisorischen-pier-verteilt-werden](https://www.spiegel.de/ausland/gaza-hilfsgueter-sollen-in-den-kommenden-tagen-ueber-provisorischen-pier-verteilt-werden-a-e4065eb8-1a2c-4fa8-a434-34cf03e00816#ref=rss)
+### pier
+
+* [https://www.spiegel.de/ausland/gaza-hilfsgueter-sollen-in-den-kommenden-tagen-ueber-provisorischen-pier-verteilt-werden](https://www.spiegel.de/ausland/gaza-hilfsgueter-sollen-in-den-kommenden-tagen-ueber-provisorischen-pier-verteilt-werden-a-e4065eb8-1a2c-4fa8-a434-34cf03e00816#ref=rss)
+### verteilt
+
+* [https://www.spiegel.de/ausland/gaza-hilfsgueter-sollen-in-den-kommenden-tagen-ueber-provisorischen-pier-verteilt-werden](https://www.spiegel.de/ausland/gaza-hilfsgueter-sollen-in-den-kommenden-tagen-ueber-provisorischen-pier-verteilt-werden-a-e4065eb8-1a2c-4fa8-a434-34cf03e00816#ref=rss)
+### düsseldorf
+
+* [https://www.spiegel.de/panorama/duesseldorf-drei-tote-bei-brand-zwei-lebensgefaehrlich-verletzte](https://www.spiegel.de/panorama/duesseldorf-drei-tote-bei-brand-zwei-lebensgefaehrlich-verletzte-a-964a5535-e7bd-4ec2-9fdf-af40e1569f2b#ref=rss)
+### drei
+
+* [https://www.spiegel.de/panorama/duesseldorf-drei-tote-bei-brand-zwei-lebensgefaehrlich-verletzte](https://www.spiegel.de/panorama/duesseldorf-drei-tote-bei-brand-zwei-lebensgefaehrlich-verletzte-a-964a5535-e7bd-4ec2-9fdf-af40e1569f2b#ref=rss)
+### brand
+
+* [https://www.spiegel.de/panorama/duesseldorf-drei-tote-bei-brand-zwei-lebensgefaehrlich-verletzte](https://www.spiegel.de/panorama/duesseldorf-drei-tote-bei-brand-zwei-lebensgefaehrlich-verletzte-a-964a5535-e7bd-4ec2-9fdf-af40e1569f2b#ref=rss)
+### lernen
+
+* [https://www.spiegel.de/psychologie/kommunikation-in-der-partnerschaft-so-lernen-sie-endlich-richtig-zu-streiten](https://www.spiegel.de/psychologie/kommunikation-in-der-partnerschaft-so-lernen-sie-endlich-richtig-zu-streiten-a-f2d5ce1f-5b7a-4e37-9798-b8e7ac5a4df4#ref=rss)
+### winfried
+
+* [https://www.spiegel.de/politik/deutschland/winfried-kretschmann-schwarz-gruen-ist-eine-realistische-option](https://www.spiegel.de/politik/deutschland/winfried-kretschmann-schwarz-gruen-ist-eine-realistische-option-a-b478bab4-ee48-45db-81cd-dc922c903bd2#ref=rss)
+### kretschmann
+
+* [https://www.spiegel.de/politik/deutschland/winfried-kretschmann-schwarz-gruen-ist-eine-realistische-option](https://www.spiegel.de/politik/deutschland/winfried-kretschmann-schwarz-gruen-ist-eine-realistische-option-a-b478bab4-ee48-45db-81cd-dc922c903bd2#ref=rss)
+### schwarzgrün
+
+* [https://www.spiegel.de/politik/deutschland/winfried-kretschmann-schwarz-gruen-ist-eine-realistische-option](https://www.spiegel.de/politik/deutschland/winfried-kretschmann-schwarz-gruen-ist-eine-realistische-option-a-b478bab4-ee48-45db-81cd-dc922c903bd2#ref=rss)
+### clemens
+
+* [https://www.spiegel.de/wirtschaft/ifo-praesident-clemens-fuest-schlaegt-pauschale-kuerzung-von-subventionen-vor](https://www.spiegel.de/wirtschaft/ifo-praesident-clemens-fuest-schlaegt-pauschale-kuerzung-von-subventionen-vor-a-29c9d4c6-6a1a-4c6e-99ea-118f4c09c175#ref=rss)
+### fuest
+
+* [https://www.spiegel.de/wirtschaft/ifo-praesident-clemens-fuest-schlaegt-pauschale-kuerzung-von-subventionen-vor](https://www.spiegel.de/wirtschaft/ifo-praesident-clemens-fuest-schlaegt-pauschale-kuerzung-von-subventionen-vor-a-29c9d4c6-6a1a-4c6e-99ea-118f4c09c175#ref=rss)
+### ursula
+
+* [https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-vor-der-europawahl-so-tickt-die-maechtigste-frau-europas](https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-vor-der-europawahl-so-tickt-die-maechtigste-frau-europas-a-275426cd-f1b6-4050-8724-fcf4fa0b7669#ref=rss)
+### leyen
+
+* [https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-vor-der-europawahl-so-tickt-die-maechtigste-frau-europas](https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-vor-der-europawahl-so-tickt-die-maechtigste-frau-europas-a-275426cd-f1b6-4050-8724-fcf4fa0b7669#ref=rss)
 
