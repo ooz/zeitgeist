@@ -4,336 +4,390 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
-
-* [https://www.spiegel.de/wissenschaft/mensch/neue-studie-deutschland-faellt-bei-lebenserwartung-zurueck](https://www.spiegel.de/wissenschaft/mensch/neue-studie-deutschland-faellt-bei-lebenserwartung-zurueck-a-6cd7cc03-291d-41bc-a0dd-33537afaa603#ref=rss)
-* [https://www.spiegel.de/geschichte/sozialismus-oder-kapitalismus-migration-zwischen-ddr-und-bundesrepublik](https://www.spiegel.de/geschichte/sozialismus-oder-kapitalismus-migration-zwischen-ddr-und-bundesrepublik-a-c5d8c9b2-737f-4672-8907-7a190991b9fc#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/keuchhusten-zahl-der-faelle-in-deutschland-und-europa-deutlich-gestiegen](https://www.spiegel.de/gesundheit/diagnose/keuchhusten-zahl-der-faelle-in-deutschland-und-europa-deutlich-gestiegen-a-141e61a0-8caa-4996-b2ad-58ed26d6f0eb#ref=rss)
-* [https://www.spiegel.de/panorama/wetterlage-in-deutschland-entwarnung-im-saarland-unwettergefahr-im-norden](https://www.spiegel.de/panorama/wetterlage-in-deutschland-entwarnung-im-saarland-unwettergefahr-im-norden-a-f6533281-8782-4c7e-9720-51f720fdc111#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/wissenschaft/mensch/neue-studie-deutschland-faellt-bei-lebenserwartung-zurueck](https://www.spiegel.de/wissenschaft/mensch/neue-studie-deutschland-faellt-bei-lebenserwartung-zurueck-a-6cd7cc03-291d-41bc-a0dd-33537afaa603#ref=rss)
-* [https://www.spiegel.de/ausland/anerkennung-palaestinas-israel-ruft-botschafter-aus-norwegen-und-irland-zurueck](https://www.spiegel.de/ausland/anerkennung-palaestinas-israel-ruft-botschafter-aus-norwegen-und-irland-zurueck-a-245f7167-fcaa-4a2c-9e53-34cc4ce7437f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-spitzenkandidat-maximilian-krah-rueckzug-aus-bundesvorstand-angekuendigt](https://www.spiegel.de/politik/deutschland/afd-spitzenkandidat-maximilian-krah-rueckzug-aus-bundesvorstand-angekuendigt-a-9745adc7-ea80-42bd-8d5d-312888f6f35d#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/anerkennung-palaestinas-israel-ruft-botschafter-aus-norwegen-und-irland-zurueck](https://www.spiegel.de/ausland/anerkennung-palaestinas-israel-ruft-botschafter-aus-norwegen-und-irland-zurueck-a-245f7167-fcaa-4a2c-9e53-34cc4ce7437f#ref=rss)
-* [https://www.spiegel.de/ausland/israel-und-palaestina-norwegen-wird-palaestina-als-staat-anerkennen](https://www.spiegel.de/ausland/israel-und-palaestina-norwegen-wird-palaestina-als-staat-anerkennen-a-146c6e9e-96e3-4b4b-abf6-dd009539e216#ref=rss)
-### norwegen
-
-* [https://www.spiegel.de/ausland/anerkennung-palaestinas-israel-ruft-botschafter-aus-norwegen-und-irland-zurueck](https://www.spiegel.de/ausland/anerkennung-palaestinas-israel-ruft-botschafter-aus-norwegen-und-irland-zurueck-a-245f7167-fcaa-4a2c-9e53-34cc4ce7437f#ref=rss)
-* [https://www.spiegel.de/ausland/israel-und-palaestina-norwegen-wird-palaestina-als-staat-anerkennen](https://www.spiegel.de/ausland/israel-und-palaestina-norwegen-wird-palaestina-als-staat-anerkennen-a-146c6e9e-96e3-4b4b-abf6-dd009539e216#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/gesundheit/diagnose/keuchhusten-zahl-der-faelle-in-deutschland-und-europa-deutlich-gestiegen](https://www.spiegel.de/gesundheit/diagnose/keuchhusten-zahl-der-faelle-in-deutschland-und-europa-deutlich-gestiegen-a-141e61a0-8caa-4996-b2ad-58ed26d6f0eb#ref=rss)
-* [https://www.spiegel.de/panorama/us-bundesstaat-iowa-tornado-zerstoert-kleinstadt-mehrere-tote](https://www.spiegel.de/panorama/us-bundesstaat-iowa-tornado-zerstoert-kleinstadt-mehrere-tote-a-612d3fd4-5ed4-40bc-aca5-dd8bb7bcd55d#ref=rss)
-* [https://www.spiegel.de/kultur/kino/furiosa-a-mad-max-saga-von-george-miller-transzendente-verfolgungsjagden](https://www.spiegel.de/kultur/kino/furiosa-a-mad-max-saga-von-george-miller-transzendente-verfolgungsjagden-a-32552d5b-f088-4df2-9f3f-2fe75c83ca41#ref=rss)
-* [https://www.spiegel.de/politik/warum-werden-wir-immer-empfindlicher-frauke-rostalski-podcast-moreno-1](https://www.spiegel.de/politik/warum-werden-wir-immer-empfindlicher-frauke-rostalski-podcast-moreno-1-a-a54d3101-61b5-4604-ad02-3c990b1c3387#ref=rss)
-### wir
-
-* [https://www.spiegel.de/start/murgh-makhani-so-macht-man-butter-chicken-tofu-und-naan-selbst-fuer-2-40-euro](https://www.spiegel.de/start/murgh-makhani-so-macht-man-butter-chicken-tofu-und-naan-selbst-fuer-2-40-euro-a-ad8555f9-d3d6-42dd-93e5-c5af32fa1642#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/vor-europawahl-siemens-und-mercedes-warnen-vor-populismus-und-extremismus](https://www.spiegel.de/wirtschaft/unternehmen/vor-europawahl-siemens-und-mercedes-warnen-vor-populismus-und-extremismus-a-a2f8ebfa-d45f-4641-b768-9202fed36cc9#ref=rss)
-* [https://www.spiegel.de/politik/warum-werden-wir-immer-empfindlicher-frauke-rostalski-podcast-moreno-1](https://www.spiegel.de/politik/warum-werden-wir-immer-empfindlicher-frauke-rostalski-podcast-moreno-1-a-a54d3101-61b5-4604-ad02-3c990b1c3387#ref=rss)
-### europawahl
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/vor-europawahl-siemens-und-mercedes-warnen-vor-populismus-und-extremismus](https://www.spiegel.de/wirtschaft/unternehmen/vor-europawahl-siemens-und-mercedes-warnen-vor-populismus-und-extremismus-a-a2f8ebfa-d45f-4641-b768-9202fed36cc9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-spitzenkandidat-maximilian-krah-rueckzug-aus-bundesvorstand-angekuendigt](https://www.spiegel.de/politik/deutschland/afd-spitzenkandidat-maximilian-krah-rueckzug-aus-bundesvorstand-angekuendigt-a-9745adc7-ea80-42bd-8d5d-312888f6f35d#ref=rss)
-* [https://www.spiegel.de/politik/europawahl-2024-bloss-nicht-ueber-die-erfolge-der-eu-reden](https://www.spiegel.de/politik/europawahl-2024-bloss-nicht-ueber-die-erfolge-der-eu-reden-a-15ff9ae4-776b-4aa6-afc2-26409b8be72a#ref=rss)
-### irland
-
-* [https://www.spiegel.de/ausland/anerkennung-palaestinas-israel-ruft-botschafter-aus-norwegen-und-irland-zurueck](https://www.spiegel.de/ausland/anerkennung-palaestinas-israel-ruft-botschafter-aus-norwegen-und-irland-zurueck-a-245f7167-fcaa-4a2c-9e53-34cc4ce7437f#ref=rss)
-* [https://www.spiegel.de/ausland/israel-und-palaestina-norwegen-wird-palaestina-als-staat-anerkennen](https://www.spiegel.de/ausland/israel-und-palaestina-norwegen-wird-palaestina-als-staat-anerkennen-a-146c6e9e-96e3-4b4b-abf6-dd009539e216#ref=rss)
-### spanien
-
-* [https://www.spiegel.de/ausland/anerkennung-palaestinas-israel-ruft-botschafter-aus-norwegen-und-irland-zurueck](https://www.spiegel.de/ausland/anerkennung-palaestinas-israel-ruft-botschafter-aus-norwegen-und-irland-zurueck-a-245f7167-fcaa-4a2c-9e53-34cc4ce7437f#ref=rss)
-* [https://www.spiegel.de/ausland/israel-und-palaestina-norwegen-wird-palaestina-als-staat-anerkennen](https://www.spiegel.de/ausland/israel-und-palaestina-norwegen-wird-palaestina-als-staat-anerkennen-a-146c6e9e-96e3-4b4b-abf6-dd009539e216#ref=rss)
 ### palästina
 
-* [https://www.spiegel.de/ausland/anerkennung-palaestinas-israel-ruft-botschafter-aus-norwegen-und-irland-zurueck](https://www.spiegel.de/ausland/anerkennung-palaestinas-israel-ruft-botschafter-aus-norwegen-und-irland-zurueck-a-245f7167-fcaa-4a2c-9e53-34cc4ce7437f#ref=rss)
-* [https://www.spiegel.de/ausland/israel-und-palaestina-norwegen-wird-palaestina-als-staat-anerkennen](https://www.spiegel.de/ausland/israel-und-palaestina-norwegen-wird-palaestina-als-staat-anerkennen-a-146c6e9e-96e3-4b4b-abf6-dd009539e216#ref=rss)
+* [https://www.spiegel.de/ausland/israel-palaestina-soll-anerkannt-werden-benjamin-netanyahu-sieht-terror-belohnt](https://www.spiegel.de/ausland/israel-palaestina-soll-anerkannt-werden-benjamin-netanyahu-sieht-terror-belohnt-a-10487815-b923-4a36-8e8e-449ede986d57#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-staat-palaestina](https://www.spiegel.de/politik/deutschland/news-des-tages-staat-palaestina-a-948bfcc5-f469-4ed5-9cc5-fb4d3f658c1b#ref=rss)
+* [https://www.spiegel.de/ausland/palaestina-als-staat-anerkennen-der-palaestina-coup-von-pedro-sanchez](https://www.spiegel.de/ausland/palaestina-als-staat-anerkennen-der-palaestina-coup-von-pedro-sanchez-a-cdf5d7ea-2431-47fb-8bf2-e3883749438e#ref=rss)
 ### staat
 
-* [https://www.spiegel.de/ausland/anerkennung-palaestinas-israel-ruft-botschafter-aus-norwegen-und-irland-zurueck](https://www.spiegel.de/ausland/anerkennung-palaestinas-israel-ruft-botschafter-aus-norwegen-und-irland-zurueck-a-245f7167-fcaa-4a2c-9e53-34cc4ce7437f#ref=rss)
-* [https://www.spiegel.de/politik/warum-werden-wir-immer-empfindlicher-frauke-rostalski-podcast-moreno-1](https://www.spiegel.de/politik/warum-werden-wir-immer-empfindlicher-frauke-rostalski-podcast-moreno-1-a-a54d3101-61b5-4604-ad02-3c990b1c3387#ref=rss)
-* [https://www.spiegel.de/ausland/israel-und-palaestina-norwegen-wird-palaestina-als-staat-anerkennen](https://www.spiegel.de/ausland/israel-und-palaestina-norwegen-wird-palaestina-als-staat-anerkennen-a-146c6e9e-96e3-4b4b-abf6-dd009539e216#ref=rss)
-### anerkennen
+* [https://www.spiegel.de/ausland/israel-palaestina-soll-anerkannt-werden-benjamin-netanyahu-sieht-terror-belohnt](https://www.spiegel.de/ausland/israel-palaestina-soll-anerkannt-werden-benjamin-netanyahu-sieht-terror-belohnt-a-10487815-b923-4a36-8e8e-449ede986d57#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-staat-palaestina](https://www.spiegel.de/politik/deutschland/news-des-tages-staat-palaestina-a-948bfcc5-f469-4ed5-9cc5-fb4d3f658c1b#ref=rss)
+* [https://www.spiegel.de/ausland/palaestina-als-staat-anerkennen-der-palaestina-coup-von-pedro-sanchez](https://www.spiegel.de/ausland/palaestina-als-staat-anerkennen-der-palaestina-coup-von-pedro-sanchez-a-cdf5d7ea-2431-47fb-8bf2-e3883749438e#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/ausland/anerkennung-palaestinas-israel-ruft-botschafter-aus-norwegen-und-irland-zurueck](https://www.spiegel.de/ausland/anerkennung-palaestinas-israel-ruft-botschafter-aus-norwegen-und-irland-zurueck-a-245f7167-fcaa-4a2c-9e53-34cc4ce7437f#ref=rss)
-* [https://www.spiegel.de/ausland/israel-und-palaestina-norwegen-wird-palaestina-als-staat-anerkennen](https://www.spiegel.de/ausland/israel-und-palaestina-norwegen-wird-palaestina-als-staat-anerkennen-a-146c6e9e-96e3-4b4b-abf6-dd009539e216#ref=rss)
-### sollte
+* [https://www.spiegel.de/panorama/justiz/politisch-motivierte-kriminalitaet-deutlich-mehr-uebergriffe-auf-lgbtiqa](https://www.spiegel.de/panorama/justiz/politisch-motivierte-kriminalitaet-deutlich-mehr-uebergriffe-auf-lgbtiqa-a-a17527ad-6ded-425b-828a-5f7c728f730b#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/deepl-deutsche-ki-firma-erreicht-bewertung-von-zwei-milliarden-dollar-in-neuer-finanzierungsrunde](https://www.spiegel.de/netzwelt/web/deepl-deutsche-ki-firma-erreicht-bewertung-von-zwei-milliarden-dollar-in-neuer-finanzierungsrunde-a-928ad4b7-6cfe-4e80-81d9-460fb60f5725#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/haftbefehl-des-istgh-bundesregierung-schliesst-verhaftung-netanyahus-nicht-aus](https://www.spiegel.de/politik/deutschland/haftbefehl-des-istgh-bundesregierung-schliesst-verhaftung-netanyahus-nicht-aus-a-8b9ffbdc-1fd1-4f98-985c-0777756ab529#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/jenny-erpenbeck-gewinnt-den-international-booker-prize-wie-ein-faustschlag-auf-den-schaedel](https://www.spiegel.de/kultur/literatur/jenny-erpenbeck-gewinnt-den-international-booker-prize-wie-ein-faustschlag-auf-den-schaedel-a-a8052874-e921-4022-8005-41bf3db85d6e#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/geschichte/sozialismus-oder-kapitalismus-migration-zwischen-ddr-und-bundesrepublik](https://www.spiegel.de/geschichte/sozialismus-oder-kapitalismus-migration-zwischen-ddr-und-bundesrepublik-a-c5d8c9b2-737f-4672-8907-7a190991b9fc#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ursula-haverbeck-erhaelt-zweite-ladung-zum-haftantritt-und-wehrt-sich-dagegen](https://www.spiegel.de/panorama/justiz/ursula-haverbeck-erhaelt-zweite-ladung-zum-haftantritt-und-wehrt-sich-dagegen-a-8dca3b4a-846c-4966-9825-68abebae267d#ref=rss)
-* [https://www.spiegel.de/politik/warum-werden-wir-immer-empfindlicher-frauke-rostalski-podcast-moreno-1](https://www.spiegel.de/politik/warum-werden-wir-immer-empfindlicher-frauke-rostalski-podcast-moreno-1-a-a54d3101-61b5-4604-ad02-3c990b1c3387#ref=rss)
-### neue
+* [https://www.spiegel.de/panorama/justiz/politisch-motivierte-kriminalitaet-deutlich-mehr-uebergriffe-auf-lgbtiqa](https://www.spiegel.de/panorama/justiz/politisch-motivierte-kriminalitaet-deutlich-mehr-uebergriffe-auf-lgbtiqa-a-a17527ad-6ded-425b-828a-5f7c728f730b#ref=rss)
+* [https://www.spiegel.de/ausland/israel-palaestina-soll-anerkannt-werden-benjamin-netanyahu-sieht-terror-belohnt](https://www.spiegel.de/ausland/israel-palaestina-soll-anerkannt-werden-benjamin-netanyahu-sieht-terror-belohnt-a-10487815-b923-4a36-8e8e-449ede986d57#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/signa-gruender-rene-benko-aussage-vor-untersuchungsausschuss-bleibt-vage](https://www.spiegel.de/wirtschaft/unternehmen/signa-gruender-rene-benko-aussage-vor-untersuchungsausschuss-bleibt-vage-a-a9ff134f-d1e7-4450-839e-f29eddc40a94#ref=rss)
+### netanyahu
 
-* [https://www.spiegel.de/wissenschaft/mensch/neue-studie-deutschland-faellt-bei-lebenserwartung-zurueck](https://www.spiegel.de/wissenschaft/mensch/neue-studie-deutschland-faellt-bei-lebenserwartung-zurueck-a-6cd7cc03-291d-41bc-a0dd-33537afaa603#ref=rss)
-### studie
+* [https://www.spiegel.de/ausland/israel-palaestina-soll-anerkannt-werden-benjamin-netanyahu-sieht-terror-belohnt](https://www.spiegel.de/ausland/israel-palaestina-soll-anerkannt-werden-benjamin-netanyahu-sieht-terror-belohnt-a-10487815-b923-4a36-8e8e-449ede986d57#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/haftbefehl-des-istgh-bundesregierung-schliesst-verhaftung-netanyahus-nicht-aus](https://www.spiegel.de/politik/deutschland/haftbefehl-des-istgh-bundesregierung-schliesst-verhaftung-netanyahus-nicht-aus-a-8b9ffbdc-1fd1-4f98-985c-0777756ab529#ref=rss)
+* [https://www.spiegel.de/ausland/istgh-zu-israel-und-hamas-die-kritik-am-strafgerichtshof-ist-vor-allem-politisch-motiviert](https://www.spiegel.de/ausland/istgh-zu-israel-und-hamas-die-kritik-am-strafgerichtshof-ist-vor-allem-politisch-motiviert-a-30b8a0b7-8fd2-4ce7-adca-29abc3ad7f96#ref=rss)
+### großbritannien
 
-* [https://www.spiegel.de/wissenschaft/mensch/neue-studie-deutschland-faellt-bei-lebenserwartung-zurueck](https://www.spiegel.de/wissenschaft/mensch/neue-studie-deutschland-faellt-bei-lebenserwartung-zurueck-a-6cd7cc03-291d-41bc-a0dd-33537afaa603#ref=rss)
-### fällt
+* [https://www.spiegel.de/ausland/grossbritannien-rishi-sunak-ueberrascht-mit-wahltermin-im-juli](https://www.spiegel.de/ausland/grossbritannien-rishi-sunak-ueberrascht-mit-wahltermin-im-juli-a-7568d5ea-53d7-4c55-b374-a66f7372d586#ref=rss)
+* [https://www.spiegel.de/panorama/grossbritannien-skandal-bei-der-britischen-post-ex-chefin-bedauert-vorwuerfe](https://www.spiegel.de/panorama/grossbritannien-skandal-bei-der-britischen-post-ex-chefin-bedauert-vorwuerfe-a-da0361b3-619b-40b8-9655-5436a40f95ff#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/jenny-erpenbeck-gewinnt-den-international-booker-prize-wie-ein-faustschlag-auf-den-schaedel](https://www.spiegel.de/kultur/literatur/jenny-erpenbeck-gewinnt-den-international-booker-prize-wie-ein-faustschlag-auf-den-schaedel-a-a8052874-e921-4022-8005-41bf3db85d6e#ref=rss)
+### jenny
 
-* [https://www.spiegel.de/wissenschaft/mensch/neue-studie-deutschland-faellt-bei-lebenserwartung-zurueck](https://www.spiegel.de/wissenschaft/mensch/neue-studie-deutschland-faellt-bei-lebenserwartung-zurueck-a-6cd7cc03-291d-41bc-a0dd-33537afaa603#ref=rss)
-* [https://www.spiegel.de/start/murgh-makhani-so-macht-man-butter-chicken-tofu-und-naan-selbst-fuer-2-40-euro](https://www.spiegel.de/start/murgh-makhani-so-macht-man-butter-chicken-tofu-und-naan-selbst-fuer-2-40-euro-a-ad8555f9-d3d6-42dd-93e5-c5af32fa1642#ref=rss)
-### lebenserwartung
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-staat-palaestina](https://www.spiegel.de/politik/deutschland/news-des-tages-staat-palaestina-a-948bfcc5-f469-4ed5-9cc5-fb4d3f658c1b#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/jenny-erpenbeck-gewinnt-den-international-booker-prize-wie-ein-faustschlag-auf-den-schaedel](https://www.spiegel.de/kultur/literatur/jenny-erpenbeck-gewinnt-den-international-booker-prize-wie-ein-faustschlag-auf-den-schaedel-a-a8052874-e921-4022-8005-41bf3db85d6e#ref=rss)
+### erpenbeck
 
-* [https://www.spiegel.de/wissenschaft/mensch/neue-studie-deutschland-faellt-bei-lebenserwartung-zurueck](https://www.spiegel.de/wissenschaft/mensch/neue-studie-deutschland-faellt-bei-lebenserwartung-zurueck-a-6cd7cc03-291d-41bc-a0dd-33537afaa603#ref=rss)
-### deutlich
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-staat-palaestina](https://www.spiegel.de/politik/deutschland/news-des-tages-staat-palaestina-a-948bfcc5-f469-4ed5-9cc5-fb4d3f658c1b#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/jenny-erpenbeck-gewinnt-den-international-booker-prize-wie-ein-faustschlag-auf-den-schaedel](https://www.spiegel.de/kultur/literatur/jenny-erpenbeck-gewinnt-den-international-booker-prize-wie-ein-faustschlag-auf-den-schaedel-a-a8052874-e921-4022-8005-41bf3db85d6e#ref=rss)
+### istgh
 
-* [https://www.spiegel.de/wissenschaft/mensch/neue-studie-deutschland-faellt-bei-lebenserwartung-zurueck](https://www.spiegel.de/wissenschaft/mensch/neue-studie-deutschland-faellt-bei-lebenserwartung-zurueck-a-6cd7cc03-291d-41bc-a0dd-33537afaa603#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/keuchhusten-zahl-der-faelle-in-deutschland-und-europa-deutlich-gestiegen](https://www.spiegel.de/gesundheit/diagnose/keuchhusten-zahl-der-faelle-in-deutschland-und-europa-deutlich-gestiegen-a-141e61a0-8caa-4996-b2ad-58ed26d6f0eb#ref=rss)
-### oligarch
+* [https://www.spiegel.de/politik/deutschland/haftbefehl-des-istgh-bundesregierung-schliesst-verhaftung-netanyahus-nicht-aus](https://www.spiegel.de/politik/deutschland/haftbefehl-des-istgh-bundesregierung-schliesst-verhaftung-netanyahus-nicht-aus-a-8b9ffbdc-1fd1-4f98-985c-0777756ab529#ref=rss)
+* [https://www.spiegel.de/ausland/istgh-zu-israel-und-hamas-die-kritik-am-strafgerichtshof-ist-vor-allem-politisch-motiviert](https://www.spiegel.de/ausland/istgh-zu-israel-und-hamas-die-kritik-am-strafgerichtshof-ist-vor-allem-politisch-motiviert-a-30b8a0b7-8fd2-4ce7-adca-29abc3ad7f96#ref=rss)
+### politisch
 
-* [https://www.spiegel.de/wirtschaft/russland-sanktionen-russischer-oligarch-fordert-15-8-milliarden-dollar-schadenersatz](https://www.spiegel.de/wirtschaft/russland-sanktionen-russischer-oligarch-fordert-15-8-milliarden-dollar-schadenersatz-a-04808c36-461a-4951-828f-9bcfe530d7ca#ref=rss)
-### fordert
+* [https://www.spiegel.de/panorama/justiz/politisch-motivierte-kriminalitaet-deutlich-mehr-uebergriffe-auf-lgbtiqa](https://www.spiegel.de/panorama/justiz/politisch-motivierte-kriminalitaet-deutlich-mehr-uebergriffe-auf-lgbtiqa-a-a17527ad-6ded-425b-828a-5f7c728f730b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/limbach-oberfrohna-bei-zwickau-steinwuerfe-auf-haus-von-linkenpolitikerin-elisa-grobe-staatsschutz-ermittelt](https://www.spiegel.de/panorama/justiz/limbach-oberfrohna-bei-zwickau-steinwuerfe-auf-haus-von-linkenpolitikerin-elisa-grobe-staatsschutz-ermittelt-a-92df3e25-c63c-455b-a6a5-cce3da372097#ref=rss)
+* [https://www.spiegel.de/ausland/istgh-zu-israel-und-hamas-die-kritik-am-strafgerichtshof-ist-vor-allem-politisch-motiviert](https://www.spiegel.de/ausland/istgh-zu-israel-und-hamas-die-kritik-am-strafgerichtshof-ist-vor-allem-politisch-motiviert-a-30b8a0b7-8fd2-4ce7-adca-29abc3ad7f96#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/wirtschaft/russland-sanktionen-russischer-oligarch-fordert-15-8-milliarden-dollar-schadenersatz](https://www.spiegel.de/wirtschaft/russland-sanktionen-russischer-oligarch-fordert-15-8-milliarden-dollar-schadenersatz-a-04808c36-461a-4951-828f-9bcfe530d7ca#ref=rss)
-### milliarden
-
-* [https://www.spiegel.de/wirtschaft/russland-sanktionen-russischer-oligarch-fordert-15-8-milliarden-dollar-schadenersatz](https://www.spiegel.de/wirtschaft/russland-sanktionen-russischer-oligarch-fordert-15-8-milliarden-dollar-schadenersatz-a-04808c36-461a-4951-828f-9bcfe530d7ca#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/aktienhandel-britische-finanzaufsicht-verhaengt-millionenstrafe-gegen-citigroup-wegen-irrtuemlichen-milliardenverkaufs](https://www.spiegel.de/wirtschaft/unternehmen/aktienhandel-britische-finanzaufsicht-verhaengt-millionenstrafe-gegen-citigroup-wegen-irrtuemlichen-milliardenverkaufs-a-091952d0-06b0-4e09-aa7c-00eb240dbef1#ref=rss)
-### dollar
-
-* [https://www.spiegel.de/wirtschaft/russland-sanktionen-russischer-oligarch-fordert-15-8-milliarden-dollar-schadenersatz](https://www.spiegel.de/wirtschaft/russland-sanktionen-russischer-oligarch-fordert-15-8-milliarden-dollar-schadenersatz-a-04808c36-461a-4951-828f-9bcfe530d7ca#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/aktienhandel-britische-finanzaufsicht-verhaengt-millionenstrafe-gegen-citigroup-wegen-irrtuemlichen-milliardenverkaufs](https://www.spiegel.de/wirtschaft/unternehmen/aktienhandel-britische-finanzaufsicht-verhaengt-millionenstrafe-gegen-citigroup-wegen-irrtuemlichen-milliardenverkaufs-a-091952d0-06b0-4e09-aa7c-00eb240dbef1#ref=rss)
-### eu
-
-* [https://www.spiegel.de/wirtschaft/russland-sanktionen-russischer-oligarch-fordert-15-8-milliarden-dollar-schadenersatz](https://www.spiegel.de/wirtschaft/russland-sanktionen-russischer-oligarch-fordert-15-8-milliarden-dollar-schadenersatz-a-04808c36-461a-4951-828f-9bcfe530d7ca#ref=rss)
-* [https://www.spiegel.de/politik/europawahl-2024-bloss-nicht-ueber-die-erfolge-der-eu-reden](https://www.spiegel.de/politik/europawahl-2024-bloss-nicht-ueber-die-erfolge-der-eu-reden-a-15ff9ae4-776b-4aa6-afc2-26409b8be72a#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/wirtschaft/russland-sanktionen-russischer-oligarch-fordert-15-8-milliarden-dollar-schadenersatz](https://www.spiegel.de/wirtschaft/russland-sanktionen-russischer-oligarch-fordert-15-8-milliarden-dollar-schadenersatz-a-04808c36-461a-4951-828f-9bcfe530d7ca#ref=rss)
-* [https://www.spiegel.de/ausland/israel-und-palaestina-norwegen-wird-palaestina-als-staat-anerkennen](https://www.spiegel.de/ausland/israel-und-palaestina-norwegen-wird-palaestina-als-staat-anerkennen-a-146c6e9e-96e3-4b4b-abf6-dd009539e216#ref=rss)
-### peggy
-
-* [https://www.spiegel.de/panorama/justiz/peggy-knobloch-mutter-scheitert-mit-schmerzensgeld-klage-gegen-ex-verdaechtigen](https://www.spiegel.de/panorama/justiz/peggy-knobloch-mutter-scheitert-mit-schmerzensgeld-klage-gegen-ex-verdaechtigen-a-925b26f4-60c0-4105-981b-55b83824da5a#ref=rss)
-### knobloch
-
-* [https://www.spiegel.de/panorama/justiz/peggy-knobloch-mutter-scheitert-mit-schmerzensgeld-klage-gegen-ex-verdaechtigen](https://www.spiegel.de/panorama/justiz/peggy-knobloch-mutter-scheitert-mit-schmerzensgeld-klage-gegen-ex-verdaechtigen-a-925b26f4-60c0-4105-981b-55b83824da5a#ref=rss)
-### mutter
-
-* [https://www.spiegel.de/panorama/justiz/peggy-knobloch-mutter-scheitert-mit-schmerzensgeld-klage-gegen-ex-verdaechtigen](https://www.spiegel.de/panorama/justiz/peggy-knobloch-mutter-scheitert-mit-schmerzensgeld-klage-gegen-ex-verdaechtigen-a-925b26f4-60c0-4105-981b-55b83824da5a#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/panorama/justiz/peggy-knobloch-mutter-scheitert-mit-schmerzensgeld-klage-gegen-ex-verdaechtigen](https://www.spiegel.de/panorama/justiz/peggy-knobloch-mutter-scheitert-mit-schmerzensgeld-klage-gegen-ex-verdaechtigen-a-925b26f4-60c0-4105-981b-55b83824da5a#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/kindesmissbrauch-mann-wegen-ki-generierten-bildern-verhaftet](https://www.spiegel.de/netzwelt/web/kindesmissbrauch-mann-wegen-ki-generierten-bildern-verhaftet-a-45db20e7-f612-49fb-b7fc-40687386204d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/politisch-motivierte-kriminalitaet-deutlich-mehr-uebergriffe-auf-lgbtiqa](https://www.spiegel.de/panorama/justiz/politisch-motivierte-kriminalitaet-deutlich-mehr-uebergriffe-auf-lgbtiqa-a-a17527ad-6ded-425b-828a-5f7c728f730b#ref=rss)
+* [https://www.spiegel.de/panorama/schweiz-nackter-mann-attackiert-passanten-und-toetet-joggerin-in-maennedorf-am-zuerichsee](https://www.spiegel.de/panorama/schweiz-nackter-mann-attackiert-passanten-und-toetet-joggerin-in-maennedorf-am-zuerichsee-a-de3dde0e-6ac4-46a9-9d81-2387336a26f2#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/psychologie-eltern-geben-empathiefaehigkeit-an-ihre-kinder-weiter](https://www.spiegel.de/wissenschaft/mensch/psychologie-eltern-geben-empathiefaehigkeit-an-ihre-kinder-weiter-a-3c2414a7-10a1-4918-b80e-d5f08e93530d#ref=rss)
 ### mann
 
-* [https://www.spiegel.de/panorama/justiz/peggy-knobloch-mutter-scheitert-mit-schmerzensgeld-klage-gegen-ex-verdaechtigen](https://www.spiegel.de/panorama/justiz/peggy-knobloch-mutter-scheitert-mit-schmerzensgeld-klage-gegen-ex-verdaechtigen-a-925b26f4-60c0-4105-981b-55b83824da5a#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/kindesmissbrauch-mann-wegen-ki-generierten-bildern-verhaftet](https://www.spiegel.de/netzwelt/web/kindesmissbrauch-mann-wegen-ki-generierten-bildern-verhaftet-a-45db20e7-f612-49fb-b7fc-40687386204d#ref=rss)
-### drohen
+* [https://www.spiegel.de/panorama/schweiz-nackter-mann-attackiert-passanten-und-toetet-joggerin-in-maennedorf-am-zuerichsee](https://www.spiegel.de/panorama/schweiz-nackter-mann-attackiert-passanten-und-toetet-joggerin-in-maennedorf-am-zuerichsee-a-de3dde0e-6ac4-46a9-9d81-2387336a26f2#ref=rss)
+### fußgänger
 
-* [https://www.spiegel.de/netzwelt/web/kindesmissbrauch-mann-wegen-ki-generierten-bildern-verhaftet](https://www.spiegel.de/netzwelt/web/kindesmissbrauch-mann-wegen-ki-generierten-bildern-verhaftet-a-45db20e7-f612-49fb-b7fc-40687386204d#ref=rss)
-* [https://www.spiegel.de/panorama/wetterlage-in-deutschland-entwarnung-im-saarland-unwettergefahr-im-norden](https://www.spiegel.de/panorama/wetterlage-in-deutschland-entwarnung-im-saarland-unwettergefahr-im-norden-a-f6533281-8782-4c7e-9720-51f720fdc111#ref=rss)
-### ruft
+* [https://www.spiegel.de/auto/fahrkultur/elektromobilitaet-e-autos-gefaehrlicher-fuer-fussgaenger-als-verbrenner](https://www.spiegel.de/auto/fahrkultur/elektromobilitaet-e-autos-gefaehrlicher-fuer-fussgaenger-als-verbrenner-a-41cc5e5c-7e6c-4d52-bc79-06785f92f06d#ref=rss)
+### bedauert
 
-* [https://www.spiegel.de/ausland/anerkennung-palaestinas-israel-ruft-botschafter-aus-norwegen-und-irland-zurueck](https://www.spiegel.de/ausland/anerkennung-palaestinas-israel-ruft-botschafter-aus-norwegen-und-irland-zurueck-a-245f7167-fcaa-4a2c-9e53-34cc4ce7437f#ref=rss)
-### botschafter
+* [https://www.spiegel.de/panorama/justiz/dortmund-polizist-bedauert-tod-von-mouhamed-drame-haelt-schuesse-aber-fuer-unvermeidlich](https://www.spiegel.de/panorama/justiz/dortmund-polizist-bedauert-tod-von-mouhamed-drame-haelt-schuesse-aber-fuer-unvermeidlich-a-2b14304f-3b1f-477e-b206-df5e03dc25e7#ref=rss)
+* [https://www.spiegel.de/panorama/grossbritannien-skandal-bei-der-britischen-post-ex-chefin-bedauert-vorwuerfe](https://www.spiegel.de/panorama/grossbritannien-skandal-bei-der-britischen-post-ex-chefin-bedauert-vorwuerfe-a-da0361b3-619b-40b8-9655-5436a40f95ff#ref=rss)
+### schüsse
 
-* [https://www.spiegel.de/ausland/anerkennung-palaestinas-israel-ruft-botschafter-aus-norwegen-und-irland-zurueck](https://www.spiegel.de/ausland/anerkennung-palaestinas-israel-ruft-botschafter-aus-norwegen-und-irland-zurueck-a-245f7167-fcaa-4a2c-9e53-34cc4ce7437f#ref=rss)
-### schritt
+* [https://www.spiegel.de/panorama/justiz/dortmund-polizist-bedauert-tod-von-mouhamed-drame-haelt-schuesse-aber-fuer-unvermeidlich](https://www.spiegel.de/panorama/justiz/dortmund-polizist-bedauert-tod-von-mouhamed-drame-haelt-schuesse-aber-fuer-unvermeidlich-a-2b14304f-3b1f-477e-b206-df5e03dc25e7#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/ausland/anerkennung-palaestinas-israel-ruft-botschafter-aus-norwegen-und-irland-zurueck](https://www.spiegel.de/ausland/anerkennung-palaestinas-israel-ruft-botschafter-aus-norwegen-und-irland-zurueck-a-245f7167-fcaa-4a2c-9e53-34cc4ce7437f#ref=rss)
-* [https://www.spiegel.de/ausland/israel-und-palaestina-norwegen-wird-palaestina-als-staat-anerkennen](https://www.spiegel.de/ausland/israel-und-palaestina-norwegen-wird-palaestina-als-staat-anerkennen-a-146c6e9e-96e3-4b4b-abf6-dd009539e216#ref=rss)
-### gipfel
-
-* [https://www.spiegel.de/sport/mount-everest-nepalesischer-bergfuehrer-bricht-eigenen-rekord-und-besteigt-gipfel-zum-30-mal](https://www.spiegel.de/sport/mount-everest-nepalesischer-bergfuehrer-bricht-eigenen-rekord-und-besteigt-gipfel-zum-30-mal-a-13d04f05-b1a4-49a1-b222-6f6806294d64#ref=rss)
-### britische
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/aktienhandel-britische-finanzaufsicht-verhaengt-millionenstrafe-gegen-citigroup-wegen-irrtuemlichen-milliardenverkaufs](https://www.spiegel.de/wirtschaft/unternehmen/aktienhandel-britische-finanzaufsicht-verhaengt-millionenstrafe-gegen-citigroup-wegen-irrtuemlichen-milliardenverkaufs-a-091952d0-06b0-4e09-aa7c-00eb240dbef1#ref=rss)
-### finanzaufsicht
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/aktienhandel-britische-finanzaufsicht-verhaengt-millionenstrafe-gegen-citigroup-wegen-irrtuemlichen-milliardenverkaufs](https://www.spiegel.de/wirtschaft/unternehmen/aktienhandel-britische-finanzaufsicht-verhaengt-millionenstrafe-gegen-citigroup-wegen-irrtuemlichen-milliardenverkaufs-a-091952d0-06b0-4e09-aa7c-00eb240dbef1#ref=rss)
-### verhängt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/aktienhandel-britische-finanzaufsicht-verhaengt-millionenstrafe-gegen-citigroup-wegen-irrtuemlichen-milliardenverkaufs](https://www.spiegel.de/wirtschaft/unternehmen/aktienhandel-britische-finanzaufsicht-verhaengt-millionenstrafe-gegen-citigroup-wegen-irrtuemlichen-milliardenverkaufs-a-091952d0-06b0-4e09-aa7c-00eb240dbef1#ref=rss)
-### millionenstrafe
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/aktienhandel-britische-finanzaufsicht-verhaengt-millionenstrafe-gegen-citigroup-wegen-irrtuemlichen-milliardenverkaufs](https://www.spiegel.de/wirtschaft/unternehmen/aktienhandel-britische-finanzaufsicht-verhaengt-millionenstrafe-gegen-citigroup-wegen-irrtuemlichen-milliardenverkaufs-a-091952d0-06b0-4e09-aa7c-00eb240dbef1#ref=rss)
-### citigroup
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/aktienhandel-britische-finanzaufsicht-verhaengt-millionenstrafe-gegen-citigroup-wegen-irrtuemlichen-milliardenverkaufs](https://www.spiegel.de/wirtschaft/unternehmen/aktienhandel-britische-finanzaufsicht-verhaengt-millionenstrafe-gegen-citigroup-wegen-irrtuemlichen-milliardenverkaufs-a-091952d0-06b0-4e09-aa7c-00eb240dbef1#ref=rss)
-### ratten
-
-* [https://www.spiegel.de/wissenschaft/mensch/ratten-mit-verknoteten-schwaenzen-warum-rattenkoenige-als-boeses-omen-galten](https://www.spiegel.de/wissenschaft/mensch/ratten-mit-verknoteten-schwaenzen-warum-rattenkoenige-als-boeses-omen-galten-a-17b9305d-4691-4c83-a806-f125e97bf51e#ref=rss)
-### verknoteten
-
-* [https://www.spiegel.de/wissenschaft/mensch/ratten-mit-verknoteten-schwaenzen-warum-rattenkoenige-als-boeses-omen-galten](https://www.spiegel.de/wissenschaft/mensch/ratten-mit-verknoteten-schwaenzen-warum-rattenkoenige-als-boeses-omen-galten-a-17b9305d-4691-4c83-a806-f125e97bf51e#ref=rss)
-### schwänzen
-
-* [https://www.spiegel.de/wissenschaft/mensch/ratten-mit-verknoteten-schwaenzen-warum-rattenkoenige-als-boeses-omen-galten](https://www.spiegel.de/wissenschaft/mensch/ratten-mit-verknoteten-schwaenzen-warum-rattenkoenige-als-boeses-omen-galten-a-17b9305d-4691-4c83-a806-f125e97bf51e#ref=rss)
-### böses
-
-* [https://www.spiegel.de/wissenschaft/mensch/ratten-mit-verknoteten-schwaenzen-warum-rattenkoenige-als-boeses-omen-galten](https://www.spiegel.de/wissenschaft/mensch/ratten-mit-verknoteten-schwaenzen-warum-rattenkoenige-als-boeses-omen-galten-a-17b9305d-4691-4c83-a806-f125e97bf51e#ref=rss)
-### omen
-
-* [https://www.spiegel.de/wissenschaft/mensch/ratten-mit-verknoteten-schwaenzen-warum-rattenkoenige-als-boeses-omen-galten](https://www.spiegel.de/wissenschaft/mensch/ratten-mit-verknoteten-schwaenzen-warum-rattenkoenige-als-boeses-omen-galten-a-17b9305d-4691-4c83-a806-f125e97bf51e#ref=rss)
-### herbert
-
-* [https://www.spiegel.de/politik/deutschland/herbert-reul-wie-ein-schleuserskandal-den-nrw-innenminister-in-bedraengnis-bringt](https://www.spiegel.de/politik/deutschland/herbert-reul-wie-ein-schleuserskandal-den-nrw-innenminister-in-bedraengnis-bringt-a-d059ea8c-fce1-4ba2-a68c-a951f7d886be#ref=rss)
-### reul
-
-* [https://www.spiegel.de/politik/deutschland/herbert-reul-wie-ein-schleuserskandal-den-nrw-innenminister-in-bedraengnis-bringt](https://www.spiegel.de/politik/deutschland/herbert-reul-wie-ein-schleuserskandal-den-nrw-innenminister-in-bedraengnis-bringt-a-d059ea8c-fce1-4ba2-a68c-a951f7d886be#ref=rss)
-### nrwinnenminister
-
-* [https://www.spiegel.de/politik/deutschland/herbert-reul-wie-ein-schleuserskandal-den-nrw-innenminister-in-bedraengnis-bringt](https://www.spiegel.de/politik/deutschland/herbert-reul-wie-ein-schleuserskandal-den-nrw-innenminister-in-bedraengnis-bringt-a-d059ea8c-fce1-4ba2-a68c-a951f7d886be#ref=rss)
-### demokratie
-
-* [https://www.spiegel.de/geschichte/sozialismus-oder-kapitalismus-migration-zwischen-ddr-und-bundesrepublik](https://www.spiegel.de/geschichte/sozialismus-oder-kapitalismus-migration-zwischen-ddr-und-bundesrepublik-a-c5d8c9b2-737f-4672-8907-7a190991b9fc#ref=rss)
-* [https://www.spiegel.de/ausland/taiwan-zehntausende-demonstrieren-gegen-umstrittene-parlamentsreform](https://www.spiegel.de/ausland/taiwan-zehntausende-demonstrieren-gegen-umstrittene-parlamentsreform-a-b09db6b1-e7ed-4a09-93ce-777735fd4912#ref=rss)
-### keuchhusten
-
-* [https://www.spiegel.de/gesundheit/diagnose/keuchhusten-zahl-der-faelle-in-deutschland-und-europa-deutlich-gestiegen](https://www.spiegel.de/gesundheit/diagnose/keuchhusten-zahl-der-faelle-in-deutschland-und-europa-deutlich-gestiegen-a-141e61a0-8caa-4996-b2ad-58ed26d6f0eb#ref=rss)
-### europa
-
-* [https://www.spiegel.de/gesundheit/diagnose/keuchhusten-zahl-der-faelle-in-deutschland-und-europa-deutlich-gestiegen](https://www.spiegel.de/gesundheit/diagnose/keuchhusten-zahl-der-faelle-in-deutschland-und-europa-deutlich-gestiegen-a-141e61a0-8caa-4996-b2ad-58ed26d6f0eb#ref=rss)
-### möglichen
-
-* [https://www.spiegel.de/gesundheit/diagnose/keuchhusten-zahl-der-faelle-in-deutschland-und-europa-deutlich-gestiegen](https://www.spiegel.de/gesundheit/diagnose/keuchhusten-zahl-der-faelle-in-deutschland-und-europa-deutlich-gestiegen-a-141e61a0-8caa-4996-b2ad-58ed26d6f0eb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/vor-europawahl-siemens-und-mercedes-warnen-vor-populismus-und-extremismus](https://www.spiegel.de/wirtschaft/unternehmen/vor-europawahl-siemens-und-mercedes-warnen-vor-populismus-und-extremismus-a-a2f8ebfa-d45f-4641-b768-9202fed36cc9#ref=rss)
-### belgien
-
-* [https://www.spiegel.de/panorama/gesellschaft/belgien-wettbewerb-top-women-kuert-innere-schoenheiten](https://www.spiegel.de/panorama/gesellschaft/belgien-wettbewerb-top-women-kuert-innere-schoenheiten-a-27164787-c46b-41ab-b24f-7217b2954b90#ref=rss)
-### top
-
-* [https://www.spiegel.de/panorama/gesellschaft/belgien-wettbewerb-top-women-kuert-innere-schoenheiten](https://www.spiegel.de/panorama/gesellschaft/belgien-wettbewerb-top-women-kuert-innere-schoenheiten-a-27164787-c46b-41ab-b24f-7217b2954b90#ref=rss)
-### 2024
-
-* [https://www.spiegel.de/panorama/gesellschaft/belgien-wettbewerb-top-women-kuert-innere-schoenheiten](https://www.spiegel.de/panorama/gesellschaft/belgien-wettbewerb-top-women-kuert-innere-schoenheiten-a-27164787-c46b-41ab-b24f-7217b2954b90#ref=rss)
-* [https://www.spiegel.de/politik/europawahl-2024-bloss-nicht-ueber-die-erfolge-der-eu-reden](https://www.spiegel.de/politik/europawahl-2024-bloss-nicht-ueber-die-erfolge-der-eu-reden-a-15ff9ae4-776b-4aa6-afc2-26409b8be72a#ref=rss)
-### oliver
-
-* [https://www.spiegel.de/kultur/tv/oliver-pocher-swr-distanziert-sich-von-blossstellenden-aeusserungen](https://www.spiegel.de/kultur/tv/oliver-pocher-swr-distanziert-sich-von-blossstellenden-aeusserungen-a-658970b9-2665-4399-8400-34c28ea71426#ref=rss)
-### pocher
-
-* [https://www.spiegel.de/kultur/tv/oliver-pocher-swr-distanziert-sich-von-blossstellenden-aeusserungen](https://www.spiegel.de/kultur/tv/oliver-pocher-swr-distanziert-sich-von-blossstellenden-aeusserungen-a-658970b9-2665-4399-8400-34c28ea71426#ref=rss)
-### swr
-
-* [https://www.spiegel.de/kultur/tv/oliver-pocher-swr-distanziert-sich-von-blossstellenden-aeusserungen](https://www.spiegel.de/kultur/tv/oliver-pocher-swr-distanziert-sich-von-blossstellenden-aeusserungen-a-658970b9-2665-4399-8400-34c28ea71426#ref=rss)
-### äußerungen
-
-* [https://www.spiegel.de/kultur/tv/oliver-pocher-swr-distanziert-sich-von-blossstellenden-aeusserungen](https://www.spiegel.de/kultur/tv/oliver-pocher-swr-distanziert-sich-von-blossstellenden-aeusserungen-a-658970b9-2665-4399-8400-34c28ea71426#ref=rss)
-### usbundesstaat
-
-* [https://www.spiegel.de/panorama/us-bundesstaat-iowa-tornado-zerstoert-kleinstadt-mehrere-tote](https://www.spiegel.de/panorama/us-bundesstaat-iowa-tornado-zerstoert-kleinstadt-mehrere-tote-a-612d3fd4-5ed4-40bc-aca5-dd8bb7bcd55d#ref=rss)
-### iowa
-
-* [https://www.spiegel.de/panorama/us-bundesstaat-iowa-tornado-zerstoert-kleinstadt-mehrere-tote](https://www.spiegel.de/panorama/us-bundesstaat-iowa-tornado-zerstoert-kleinstadt-mehrere-tote-a-612d3fd4-5ed4-40bc-aca5-dd8bb7bcd55d#ref=rss)
-### tornado
-
-* [https://www.spiegel.de/panorama/us-bundesstaat-iowa-tornado-zerstoert-kleinstadt-mehrere-tote](https://www.spiegel.de/panorama/us-bundesstaat-iowa-tornado-zerstoert-kleinstadt-mehrere-tote-a-612d3fd4-5ed4-40bc-aca5-dd8bb7bcd55d#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/panorama/us-bundesstaat-iowa-tornado-zerstoert-kleinstadt-mehrere-tote](https://www.spiegel.de/panorama/us-bundesstaat-iowa-tornado-zerstoert-kleinstadt-mehrere-tote-a-612d3fd4-5ed4-40bc-aca5-dd8bb7bcd55d#ref=rss)
-### macht
-
-* [https://www.spiegel.de/start/murgh-makhani-so-macht-man-butter-chicken-tofu-und-naan-selbst-fuer-2-40-euro](https://www.spiegel.de/start/murgh-makhani-so-macht-man-butter-chicken-tofu-und-naan-selbst-fuer-2-40-euro-a-ad8555f9-d3d6-42dd-93e5-c5af32fa1642#ref=rss)
-* [https://www.spiegel.de/ausland/israel-und-palaestina-norwegen-wird-palaestina-als-staat-anerkennen](https://www.spiegel.de/ausland/israel-und-palaestina-norwegen-wird-palaestina-als-staat-anerkennen-a-146c6e9e-96e3-4b4b-abf6-dd009539e216#ref=rss)
-### fast
-
-* [https://www.spiegel.de/start/murgh-makhani-so-macht-man-butter-chicken-tofu-und-naan-selbst-fuer-2-40-euro](https://www.spiegel.de/start/murgh-makhani-so-macht-man-butter-chicken-tofu-und-naan-selbst-fuer-2-40-euro-a-ad8555f9-d3d6-42dd-93e5-c5af32fa1642#ref=rss)
-* [https://www.spiegel.de/reise/staedte/rumaenien-reise-wie-ich-es-schaffte-bukarest-in-mein-herz-zu-schliessen](https://www.spiegel.de/reise/staedte/rumaenien-reise-wie-ich-es-schaffte-bukarest-in-mein-herz-zu-schliessen-a-fbf427bd-918f-4b77-8d7c-13b4fd3eb48c#ref=rss)
-### hochwasser
-
-* [https://www.spiegel.de/wissenschaft/hochwasser-und-klimakrise-versicherung-und-vorsorge-sind-besser-als-auf-hilfe-aus-der-politik-zu-hoffen](https://www.spiegel.de/wissenschaft/hochwasser-und-klimakrise-versicherung-und-vorsorge-sind-besser-als-auf-hilfe-aus-der-politik-zu-hoffen-a-8a5935c8-8433-469f-ab7a-1b3aafe8e022#ref=rss)
-### klimakrise
-
-* [https://www.spiegel.de/wissenschaft/hochwasser-und-klimakrise-versicherung-und-vorsorge-sind-besser-als-auf-hilfe-aus-der-politik-zu-hoffen](https://www.spiegel.de/wissenschaft/hochwasser-und-klimakrise-versicherung-und-vorsorge-sind-besser-als-auf-hilfe-aus-der-politik-zu-hoffen-a-8a5935c8-8433-469f-ab7a-1b3aafe8e022#ref=rss)
-### hilfe
-
-* [https://www.spiegel.de/wissenschaft/hochwasser-und-klimakrise-versicherung-und-vorsorge-sind-besser-als-auf-hilfe-aus-der-politik-zu-hoffen](https://www.spiegel.de/wissenschaft/hochwasser-und-klimakrise-versicherung-und-vorsorge-sind-besser-als-auf-hilfe-aus-der-politik-zu-hoffen-a-8a5935c8-8433-469f-ab7a-1b3aafe8e022#ref=rss)
-### politiker
-
-* [https://www.spiegel.de/wissenschaft/hochwasser-und-klimakrise-versicherung-und-vorsorge-sind-besser-als-auf-hilfe-aus-der-politik-zu-hoffen](https://www.spiegel.de/wissenschaft/hochwasser-und-klimakrise-versicherung-und-vorsorge-sind-besser-als-auf-hilfe-aus-der-politik-zu-hoffen-a-8a5935c8-8433-469f-ab7a-1b3aafe8e022#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-spitzenkandidat-maximilian-krah-rueckzug-aus-bundesvorstand-angekuendigt](https://www.spiegel.de/politik/deutschland/afd-spitzenkandidat-maximilian-krah-rueckzug-aus-bundesvorstand-angekuendigt-a-9745adc7-ea80-42bd-8d5d-312888f6f35d#ref=rss)
-### zehntausende
-
-* [https://www.spiegel.de/ausland/taiwan-zehntausende-demonstrieren-gegen-umstrittene-parlamentsreform](https://www.spiegel.de/ausland/taiwan-zehntausende-demonstrieren-gegen-umstrittene-parlamentsreform-a-b09db6b1-e7ed-4a09-93ce-777735fd4912#ref=rss)
-### parlamentsreform
-
-* [https://www.spiegel.de/ausland/taiwan-zehntausende-demonstrieren-gegen-umstrittene-parlamentsreform](https://www.spiegel.de/ausland/taiwan-zehntausende-demonstrieren-gegen-umstrittene-parlamentsreform-a-b09db6b1-e7ed-4a09-93ce-777735fd4912#ref=rss)
-### warnen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/vor-europawahl-siemens-und-mercedes-warnen-vor-populismus-und-extremismus](https://www.spiegel.de/wirtschaft/unternehmen/vor-europawahl-siemens-und-mercedes-warnen-vor-populismus-und-extremismus-a-a2f8ebfa-d45f-4641-b768-9202fed36cc9#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/geoffrey-hinton-andrew-yao-und-weitere-forscher-ki-koryphaeen-warnen-erneut-vor-ausloeschung-der-menschheit](https://www.spiegel.de/netzwelt/netzpolitik/geoffrey-hinton-andrew-yao-und-weitere-forscher-ki-koryphaeen-warnen-erneut-vor-ausloeschung-der-menschheit-a-08e8b668-ce3a-43cd-9f90-8c47501ead6f#ref=rss)
+* [https://www.spiegel.de/kultur/stern-preis-zwei-kisch-preis-nominierungen-fuer-den-spiegel](https://www.spiegel.de/kultur/stern-preis-zwei-kisch-preis-nominierungen-fuer-den-spiegel-a-ad7f2ce9-b064-4f20-a851-2a54180a44c2#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/deepl-deutsche-ki-firma-erreicht-bewertung-von-zwei-milliarden-dollar-in-neuer-finanzierungsrunde](https://www.spiegel.de/netzwelt/web/deepl-deutsche-ki-firma-erreicht-bewertung-von-zwei-milliarden-dollar-in-neuer-finanzierungsrunde-a-928ad4b7-6cfe-4e80-81d9-460fb60f5725#ref=rss)
+* [https://www.spiegel.de/wirtschaft/boeing-ist-es-noch-sicher-in-einflugzeug-von-boeing-zu-steigen](https://www.spiegel.de/wirtschaft/boeing-ist-es-noch-sicher-in-einflugzeug-von-boeing-zu-steigen-a-48a5527a-b07a-49e6-9546-e9e6fae945a7#ref=rss)
 ### afd
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/vor-europawahl-siemens-und-mercedes-warnen-vor-populismus-und-extremismus](https://www.spiegel.de/wirtschaft/unternehmen/vor-europawahl-siemens-und-mercedes-warnen-vor-populismus-und-extremismus-a-a2f8ebfa-d45f-4641-b768-9202fed36cc9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-spitzenkandidat-maximilian-krah-rueckzug-aus-bundesvorstand-angekuendigt](https://www.spiegel.de/politik/deutschland/afd-spitzenkandidat-maximilian-krah-rueckzug-aus-bundesvorstand-angekuendigt-a-9745adc7-ea80-42bd-8d5d-312888f6f35d#ref=rss)
-### till
+* [https://www.spiegel.de/politik/deutschland/afd-sachsen-verwaltungsgericht-weist-klagen-von-afd-politikern-gegen-verfassungsschutz-ab](https://www.spiegel.de/politik/deutschland/afd-sachsen-verwaltungsgericht-weist-klagen-von-afd-politikern-gegen-verfassungsschutz-ab-a-77169773-29fb-42c3-8696-ab783beffed3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-staat-palaestina](https://www.spiegel.de/politik/deutschland/news-des-tages-staat-palaestina-a-948bfcc5-f469-4ed5-9cc5-fb4d3f658c1b#ref=rss)
+### zurück
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/doppelgaenger-propaganda-russisches-netzwerk-verbreitet-gefaelschtes-zitat-till-lindemann-zur-ukraine](https://www.spiegel.de/netzwelt/netzpolitik/doppelgaenger-propaganda-russisches-netzwerk-verbreitet-gefaelschtes-zitat-till-lindemann-zur-ukraine-a-203ef397-874f-476e-8b90-36acf9f8584b#ref=rss)
-### lindemann
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-staat-palaestina](https://www.spiegel.de/politik/deutschland/news-des-tages-staat-palaestina-a-948bfcc5-f469-4ed5-9cc5-fb4d3f658c1b#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/netflix-streamingdienst-zahlt-kunden-nach-preiserhoehung-in-oesterreich-geld-zurueck](https://www.spiegel.de/netzwelt/apps/netflix-streamingdienst-zahlt-kunden-nach-preiserhoehung-in-oesterreich-geld-zurueck-a-f7f3d6ae-3994-4fd3-ac88-586dfa53d87a#ref=rss)
+### international
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/doppelgaenger-propaganda-russisches-netzwerk-verbreitet-gefaelschtes-zitat-till-lindemann-zur-ukraine](https://www.spiegel.de/netzwelt/netzpolitik/doppelgaenger-propaganda-russisches-netzwerk-verbreitet-gefaelschtes-zitat-till-lindemann-zur-ukraine-a-203ef397-874f-476e-8b90-36acf9f8584b#ref=rss)
-### anderen
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-staat-palaestina](https://www.spiegel.de/politik/deutschland/news-des-tages-staat-palaestina-a-948bfcc5-f469-4ed5-9cc5-fb4d3f658c1b#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/jenny-erpenbeck-gewinnt-den-international-booker-prize-wie-ein-faustschlag-auf-den-schaedel](https://www.spiegel.de/kultur/literatur/jenny-erpenbeck-gewinnt-den-international-booker-prize-wie-ein-faustschlag-auf-den-schaedel-a-a8052874-e921-4022-8005-41bf3db85d6e#ref=rss)
+### booker
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/doppelgaenger-propaganda-russisches-netzwerk-verbreitet-gefaelschtes-zitat-till-lindemann-zur-ukraine](https://www.spiegel.de/netzwelt/netzpolitik/doppelgaenger-propaganda-russisches-netzwerk-verbreitet-gefaelschtes-zitat-till-lindemann-zur-ukraine-a-203ef397-874f-476e-8b90-36acf9f8584b#ref=rss)
-* [https://www.spiegel.de/politik/europawahl-2024-bloss-nicht-ueber-die-erfolge-der-eu-reden](https://www.spiegel.de/politik/europawahl-2024-bloss-nicht-ueber-die-erfolge-der-eu-reden-a-15ff9ae4-776b-4aa6-afc2-26409b8be72a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-staat-palaestina](https://www.spiegel.de/politik/deutschland/news-des-tages-staat-palaestina-a-948bfcc5-f469-4ed5-9cc5-fb4d3f658c1b#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/jenny-erpenbeck-gewinnt-den-international-booker-prize-wie-ein-faustschlag-auf-den-schaedel](https://www.spiegel.de/kultur/literatur/jenny-erpenbeck-gewinnt-den-international-booker-prize-wie-ein-faustschlag-auf-den-schaedel-a-a8052874-e921-4022-8005-41bf3db85d6e#ref=rss)
+### prize
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-staat-palaestina](https://www.spiegel.de/politik/deutschland/news-des-tages-staat-palaestina-a-948bfcc5-f469-4ed5-9cc5-fb4d3f658c1b#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/jenny-erpenbeck-gewinnt-den-international-booker-prize-wie-ein-faustschlag-auf-den-schaedel](https://www.spiegel.de/kultur/literatur/jenny-erpenbeck-gewinnt-den-international-booker-prize-wie-ein-faustschlag-auf-den-schaedel-a-a8052874-e921-4022-8005-41bf3db85d6e#ref=rss)
+### litauen
+
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-blockiert-finanzielle-zulagen-fuer-bundeswehr-brigade-in-litauen-neuer-streit-mit-pistorius](https://www.spiegel.de/politik/deutschland/christian-lindner-blockiert-finanzielle-zulagen-fuer-bundeswehr-brigade-in-litauen-neuer-streit-mit-pistorius-a-2f0a45c8-c940-48eb-987c-f3eaa96068f5#ref=rss)
+* [https://www.spiegel.de/ausland/litauen-und-finnland-verlangen-erklaerung-von-russland-geplante-ausweitung-der-seegrenze](https://www.spiegel.de/ausland/litauen-und-finnland-verlangen-erklaerung-von-russland-geplante-ausweitung-der-seegrenze-a-2369f186-6f91-46ec-9455-d53230d83e30#ref=rss)
+### pistorius
+
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-blockiert-finanzielle-zulagen-fuer-bundeswehr-brigade-in-litauen-neuer-streit-mit-pistorius](https://www.spiegel.de/politik/deutschland/christian-lindner-blockiert-finanzielle-zulagen-fuer-bundeswehr-brigade-in-litauen-neuer-streit-mit-pistorius-a-2f0a45c8-c940-48eb-987c-f3eaa96068f5#ref=rss)
+* [https://www.spiegel.de/ausland/litauen-und-finnland-verlangen-erklaerung-von-russland-geplante-ausweitung-der-seegrenze](https://www.spiegel.de/ausland/litauen-und-finnland-verlangen-erklaerung-von-russland-geplante-ausweitung-der-seegrenze-a-2369f186-6f91-46ec-9455-d53230d83e30#ref=rss)
+### motivierte
+
+* [https://www.spiegel.de/panorama/justiz/politisch-motivierte-kriminalitaet-deutlich-mehr-uebergriffe-auf-lgbtiqa](https://www.spiegel.de/panorama/justiz/politisch-motivierte-kriminalitaet-deutlich-mehr-uebergriffe-auf-lgbtiqa-a-a17527ad-6ded-425b-828a-5f7c728f730b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/limbach-oberfrohna-bei-zwickau-steinwuerfe-auf-haus-von-linkenpolitikerin-elisa-grobe-staatsschutz-ermittelt](https://www.spiegel.de/panorama/justiz/limbach-oberfrohna-bei-zwickau-steinwuerfe-auf-haus-von-linkenpolitikerin-elisa-grobe-staatsschutz-ermittelt-a-92df3e25-c63c-455b-a6a5-cce3da372097#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/panorama/justiz/politisch-motivierte-kriminalitaet-deutlich-mehr-uebergriffe-auf-lgbtiqa](https://www.spiegel.de/panorama/justiz/politisch-motivierte-kriminalitaet-deutlich-mehr-uebergriffe-auf-lgbtiqa-a-a17527ad-6ded-425b-828a-5f7c728f730b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/mindestlohn-erdbeer-unternehmer-enno-glantz-nennt-15-euro-existenzbedrohend](https://www.spiegel.de/wirtschaft/unternehmen/mindestlohn-erdbeer-unternehmer-enno-glantz-nennt-15-euro-existenzbedrohend-a-71c153c1-fad4-47c3-b137-4e0d5b3fa093#ref=rss)
+### übergriffe
+
+* [https://www.spiegel.de/panorama/justiz/politisch-motivierte-kriminalitaet-deutlich-mehr-uebergriffe-auf-lgbtiqa](https://www.spiegel.de/panorama/justiz/politisch-motivierte-kriminalitaet-deutlich-mehr-uebergriffe-auf-lgbtiqa-a-a17527ad-6ded-425b-828a-5f7c728f730b#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/israel-palaestina-soll-anerkannt-werden-benjamin-netanyahu-sieht-terror-belohnt](https://www.spiegel.de/ausland/israel-palaestina-soll-anerkannt-werden-benjamin-netanyahu-sieht-terror-belohnt-a-10487815-b923-4a36-8e8e-449ede986d57#ref=rss)
+* [https://www.spiegel.de/ausland/istgh-zu-israel-und-hamas-die-kritik-am-strafgerichtshof-ist-vor-allem-politisch-motiviert](https://www.spiegel.de/ausland/istgh-zu-israel-und-hamas-die-kritik-am-strafgerichtshof-ist-vor-allem-politisch-motiviert-a-30b8a0b7-8fd2-4ce7-adca-29abc3ad7f96#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/ausland/israel-palaestina-soll-anerkannt-werden-benjamin-netanyahu-sieht-terror-belohnt](https://www.spiegel.de/ausland/israel-palaestina-soll-anerkannt-werden-benjamin-netanyahu-sieht-terror-belohnt-a-10487815-b923-4a36-8e8e-449ede986d57#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/mindestlohn-erdbeer-unternehmer-enno-glantz-nennt-15-euro-existenzbedrohend](https://www.spiegel.de/wirtschaft/unternehmen/mindestlohn-erdbeer-unternehmer-enno-glantz-nennt-15-euro-existenzbedrohend-a-71c153c1-fad4-47c3-b137-4e0d5b3fa093#ref=rss)
+### anerkennen
+
+* [https://www.spiegel.de/ausland/israel-palaestina-soll-anerkannt-werden-benjamin-netanyahu-sieht-terror-belohnt](https://www.spiegel.de/ausland/israel-palaestina-soll-anerkannt-werden-benjamin-netanyahu-sieht-terror-belohnt-a-10487815-b923-4a36-8e8e-449ede986d57#ref=rss)
+* [https://www.spiegel.de/ausland/palaestina-als-staat-anerkennen-der-palaestina-coup-von-pedro-sanchez](https://www.spiegel.de/ausland/palaestina-als-staat-anerkennen-der-palaestina-coup-von-pedro-sanchez-a-cdf5d7ea-2431-47fb-8bf2-e3883749438e#ref=rss)
+### israels
+
+* [https://www.spiegel.de/ausland/israel-palaestina-soll-anerkannt-werden-benjamin-netanyahu-sieht-terror-belohnt](https://www.spiegel.de/ausland/israel-palaestina-soll-anerkannt-werden-benjamin-netanyahu-sieht-terror-belohnt-a-10487815-b923-4a36-8e8e-449ede986d57#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/haftbefehl-des-istgh-bundesregierung-schliesst-verhaftung-netanyahus-nicht-aus](https://www.spiegel.de/politik/deutschland/haftbefehl-des-istgh-bundesregierung-schliesst-verhaftung-netanyahus-nicht-aus-a-8b9ffbdc-1fd1-4f98-985c-0777756ab529#ref=rss)
+### premierminister
+
+* [https://www.spiegel.de/ausland/israel-palaestina-soll-anerkannt-werden-benjamin-netanyahu-sieht-terror-belohnt](https://www.spiegel.de/ausland/israel-palaestina-soll-anerkannt-werden-benjamin-netanyahu-sieht-terror-belohnt-a-10487815-b923-4a36-8e8e-449ede986d57#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-rishi-sunak-ueberrascht-mit-wahltermin-im-juli](https://www.spiegel.de/ausland/grossbritannien-rishi-sunak-ueberrascht-mit-wahltermin-im-juli-a-7568d5ea-53d7-4c55-b374-a66f7372d586#ref=rss)
+### attackiert
+
+* [https://www.spiegel.de/panorama/schweiz-nackter-mann-attackiert-passanten-und-toetet-joggerin-in-maennedorf-am-zuerichsee](https://www.spiegel.de/panorama/schweiz-nackter-mann-attackiert-passanten-und-toetet-joggerin-in-maennedorf-am-zuerichsee-a-de3dde0e-6ac4-46a9-9d81-2387336a26f2#ref=rss)
+### oliver
+
+* [https://www.spiegel.de/kultur/oliver-pocher-swr-auftritt-haeme-und-scheinheiligkeit](https://www.spiegel.de/kultur/oliver-pocher-swr-auftritt-haeme-und-scheinheiligkeit-a-f0a10d2c-0800-4ec4-9cad-a00fa05e392e#ref=rss)
+### pocher
+
+* [https://www.spiegel.de/kultur/oliver-pocher-swr-auftritt-haeme-und-scheinheiligkeit](https://www.spiegel.de/kultur/oliver-pocher-swr-auftritt-haeme-und-scheinheiligkeit-a-f0a10d2c-0800-4ec4-9cad-a00fa05e392e#ref=rss)
+### auftritt
+
+* [https://www.spiegel.de/kultur/oliver-pocher-swr-auftritt-haeme-und-scheinheiligkeit](https://www.spiegel.de/kultur/oliver-pocher-swr-auftritt-haeme-und-scheinheiligkeit-a-f0a10d2c-0800-4ec4-9cad-a00fa05e392e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/signa-gruender-rene-benko-aussage-vor-untersuchungsausschuss-bleibt-vage](https://www.spiegel.de/wirtschaft/unternehmen/signa-gruender-rene-benko-aussage-vor-untersuchungsausschuss-bleibt-vage-a-a9ff134f-d1e7-4450-839e-f29eddc40a94#ref=rss)
+### eautos
+
+* [https://www.spiegel.de/auto/fahrkultur/elektromobilitaet-e-autos-gefaehrlicher-fuer-fussgaenger-als-verbrenner](https://www.spiegel.de/auto/fahrkultur/elektromobilitaet-e-autos-gefaehrlicher-fuer-fussgaenger-als-verbrenner-a-41cc5e5c-7e6c-4d52-bc79-06785f92f06d#ref=rss)
+### daran
+
+* [https://www.spiegel.de/auto/fahrkultur/elektromobilitaet-e-autos-gefaehrlicher-fuer-fussgaenger-als-verbrenner](https://www.spiegel.de/auto/fahrkultur/elektromobilitaet-e-autos-gefaehrlicher-fuer-fussgaenger-als-verbrenner-a-41cc5e5c-7e6c-4d52-bc79-06785f92f06d#ref=rss)
+### taiwan
+
+* [https://www.spiegel.de/ausland/taiwan-eindruecke-von-den-strassenprotesten-in-taipeh-gegen-einschraenkungen-der-demokratie](https://www.spiegel.de/ausland/taiwan-eindruecke-von-den-strassenprotesten-in-taipeh-gegen-einschraenkungen-der-demokratie-a-29ac9526-7762-4b23-a465-b60431fb871d#ref=rss)
+### eindrücke
+
+* [https://www.spiegel.de/ausland/taiwan-eindruecke-von-den-strassenprotesten-in-taipeh-gegen-einschraenkungen-der-demokratie](https://www.spiegel.de/ausland/taiwan-eindruecke-von-den-strassenprotesten-in-taipeh-gegen-einschraenkungen-der-demokratie-a-29ac9526-7762-4b23-a465-b60431fb871d#ref=rss)
+### taipeh
+
+* [https://www.spiegel.de/ausland/taiwan-eindruecke-von-den-strassenprotesten-in-taipeh-gegen-einschraenkungen-der-demokratie](https://www.spiegel.de/ausland/taiwan-eindruecke-von-den-strassenprotesten-in-taipeh-gegen-einschraenkungen-der-demokratie-a-29ac9526-7762-4b23-a465-b60431fb871d#ref=rss)
+### demokratie
+
+* [https://www.spiegel.de/ausland/taiwan-eindruecke-von-den-strassenprotesten-in-taipeh-gegen-einschraenkungen-der-demokratie](https://www.spiegel.de/ausland/taiwan-eindruecke-von-den-strassenprotesten-in-taipeh-gegen-einschraenkungen-der-demokratie-a-29ac9526-7762-4b23-a465-b60431fb871d#ref=rss)
+### limbachoberfrohna
+
+* [https://www.spiegel.de/panorama/justiz/limbach-oberfrohna-bei-zwickau-steinwuerfe-auf-haus-von-linkenpolitikerin-elisa-grobe-staatsschutz-ermittelt](https://www.spiegel.de/panorama/justiz/limbach-oberfrohna-bei-zwickau-steinwuerfe-auf-haus-von-linkenpolitikerin-elisa-grobe-staatsschutz-ermittelt-a-92df3e25-c63c-455b-a6a5-cce3da372097#ref=rss)
+### haus
+
+* [https://www.spiegel.de/panorama/justiz/limbach-oberfrohna-bei-zwickau-steinwuerfe-auf-haus-von-linkenpolitikerin-elisa-grobe-staatsschutz-ermittelt](https://www.spiegel.de/panorama/justiz/limbach-oberfrohna-bei-zwickau-steinwuerfe-auf-haus-von-linkenpolitikerin-elisa-grobe-staatsschutz-ermittelt-a-92df3e25-c63c-455b-a6a5-cce3da372097#ref=rss)
+### linkenpolitikerin
+
+* [https://www.spiegel.de/panorama/justiz/limbach-oberfrohna-bei-zwickau-steinwuerfe-auf-haus-von-linkenpolitikerin-elisa-grobe-staatsschutz-ermittelt](https://www.spiegel.de/panorama/justiz/limbach-oberfrohna-bei-zwickau-steinwuerfe-auf-haus-von-linkenpolitikerin-elisa-grobe-staatsschutz-ermittelt-a-92df3e25-c63c-455b-a6a5-cce3da372097#ref=rss)
+### elisa
+
+* [https://www.spiegel.de/panorama/justiz/limbach-oberfrohna-bei-zwickau-steinwuerfe-auf-haus-von-linkenpolitikerin-elisa-grobe-staatsschutz-ermittelt](https://www.spiegel.de/panorama/justiz/limbach-oberfrohna-bei-zwickau-steinwuerfe-auf-haus-von-linkenpolitikerin-elisa-grobe-staatsschutz-ermittelt-a-92df3e25-c63c-455b-a6a5-cce3da372097#ref=rss)
+### grobe
+
+* [https://www.spiegel.de/panorama/justiz/limbach-oberfrohna-bei-zwickau-steinwuerfe-auf-haus-von-linkenpolitikerin-elisa-grobe-staatsschutz-ermittelt](https://www.spiegel.de/panorama/justiz/limbach-oberfrohna-bei-zwickau-steinwuerfe-auf-haus-von-linkenpolitikerin-elisa-grobe-staatsschutz-ermittelt-a-92df3e25-c63c-455b-a6a5-cce3da372097#ref=rss)
+### ermittelt
+
+* [https://www.spiegel.de/panorama/justiz/limbach-oberfrohna-bei-zwickau-steinwuerfe-auf-haus-von-linkenpolitikerin-elisa-grobe-staatsschutz-ermittelt](https://www.spiegel.de/panorama/justiz/limbach-oberfrohna-bei-zwickau-steinwuerfe-auf-haus-von-linkenpolitikerin-elisa-grobe-staatsschutz-ermittelt-a-92df3e25-c63c-455b-a6a5-cce3da372097#ref=rss)
+### behörde
+
+* [https://www.spiegel.de/panorama/justiz/limbach-oberfrohna-bei-zwickau-steinwuerfe-auf-haus-von-linkenpolitikerin-elisa-grobe-staatsschutz-ermittelt](https://www.spiegel.de/panorama/justiz/limbach-oberfrohna-bei-zwickau-steinwuerfe-auf-haus-von-linkenpolitikerin-elisa-grobe-staatsschutz-ermittelt-a-92df3e25-c63c-455b-a6a5-cce3da372097#ref=rss)
+* [https://www.spiegel.de/ausland/istgh-zu-israel-und-hamas-die-kritik-am-strafgerichtshof-ist-vor-allem-politisch-motiviert](https://www.spiegel.de/ausland/istgh-zu-israel-und-hamas-die-kritik-am-strafgerichtshof-ist-vor-allem-politisch-motiviert-a-30b8a0b7-8fd2-4ce7-adca-29abc3ad7f96#ref=rss)
+### rishi
+
+* [https://www.spiegel.de/ausland/grossbritannien-rishi-sunak-ueberrascht-mit-wahltermin-im-juli](https://www.spiegel.de/ausland/grossbritannien-rishi-sunak-ueberrascht-mit-wahltermin-im-juli-a-7568d5ea-53d7-4c55-b374-a66f7372d586#ref=rss)
+### sunak
+
+* [https://www.spiegel.de/ausland/grossbritannien-rishi-sunak-ueberrascht-mit-wahltermin-im-juli](https://www.spiegel.de/ausland/grossbritannien-rishi-sunak-ueberrascht-mit-wahltermin-im-juli-a-7568d5ea-53d7-4c55-b374-a66f7372d586#ref=rss)
+### lange
+
+* [https://www.spiegel.de/ausland/grossbritannien-rishi-sunak-ueberrascht-mit-wahltermin-im-juli](https://www.spiegel.de/ausland/grossbritannien-rishi-sunak-ueberrascht-mit-wahltermin-im-juli-a-7568d5ea-53d7-4c55-b374-a66f7372d586#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/jenny-erpenbeck-gewinnt-den-international-booker-prize-wie-ein-faustschlag-auf-den-schaedel](https://www.spiegel.de/kultur/literatur/jenny-erpenbeck-gewinnt-den-international-booker-prize-wie-ein-faustschlag-auf-den-schaedel-a-a8052874-e921-4022-8005-41bf3db85d6e#ref=rss)
+### sommer
+
+* [https://www.spiegel.de/ausland/grossbritannien-rishi-sunak-ueberrascht-mit-wahltermin-im-juli](https://www.spiegel.de/ausland/grossbritannien-rishi-sunak-ueberrascht-mit-wahltermin-im-juli-a-7568d5ea-53d7-4c55-b374-a66f7372d586#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/dortmund-polizist-bedauert-tod-von-mouhamed-drame-haelt-schuesse-aber-fuer-unvermeidlich](https://www.spiegel.de/panorama/justiz/dortmund-polizist-bedauert-tod-von-mouhamed-drame-haelt-schuesse-aber-fuer-unvermeidlich-a-2b14304f-3b1f-477e-b206-df5e03dc25e7#ref=rss)
+### dortmund
+
+* [https://www.spiegel.de/panorama/justiz/dortmund-polizist-bedauert-tod-von-mouhamed-drame-haelt-schuesse-aber-fuer-unvermeidlich](https://www.spiegel.de/panorama/justiz/dortmund-polizist-bedauert-tod-von-mouhamed-drame-haelt-schuesse-aber-fuer-unvermeidlich-a-2b14304f-3b1f-477e-b206-df5e03dc25e7#ref=rss)
+### polizist
+
+* [https://www.spiegel.de/panorama/justiz/dortmund-polizist-bedauert-tod-von-mouhamed-drame-haelt-schuesse-aber-fuer-unvermeidlich](https://www.spiegel.de/panorama/justiz/dortmund-polizist-bedauert-tod-von-mouhamed-drame-haelt-schuesse-aber-fuer-unvermeidlich-a-2b14304f-3b1f-477e-b206-df5e03dc25e7#ref=rss)
+### tod
+
+* [https://www.spiegel.de/panorama/justiz/dortmund-polizist-bedauert-tod-von-mouhamed-drame-haelt-schuesse-aber-fuer-unvermeidlich](https://www.spiegel.de/panorama/justiz/dortmund-polizist-bedauert-tod-von-mouhamed-drame-haelt-schuesse-aber-fuer-unvermeidlich-a-2b14304f-3b1f-477e-b206-df5e03dc25e7#ref=rss)
+### unvermeidlich
+
+* [https://www.spiegel.de/panorama/justiz/dortmund-polizist-bedauert-tod-von-mouhamed-drame-haelt-schuesse-aber-fuer-unvermeidlich](https://www.spiegel.de/panorama/justiz/dortmund-polizist-bedauert-tod-von-mouhamed-drame-haelt-schuesse-aber-fuer-unvermeidlich-a-2b14304f-3b1f-477e-b206-df5e03dc25e7#ref=rss)
+### verwaltungsgericht
+
+* [https://www.spiegel.de/politik/deutschland/afd-sachsen-verwaltungsgericht-weist-klagen-von-afd-politikern-gegen-verfassungsschutz-ab](https://www.spiegel.de/politik/deutschland/afd-sachsen-verwaltungsgericht-weist-klagen-von-afd-politikern-gegen-verfassungsschutz-ab-a-77169773-29fb-42c3-8696-ab783beffed3#ref=rss)
+### verfassungsschutz
+
+* [https://www.spiegel.de/politik/deutschland/afd-sachsen-verwaltungsgericht-weist-klagen-von-afd-politikern-gegen-verfassungsschutz-ab](https://www.spiegel.de/politik/deutschland/afd-sachsen-verwaltungsgericht-weist-klagen-von-afd-politikern-gegen-verfassungsschutz-ab-a-77169773-29fb-42c3-8696-ab783beffed3#ref=rss)
+### deepl
+
+* [https://www.spiegel.de/netzwelt/web/deepl-deutsche-ki-firma-erreicht-bewertung-von-zwei-milliarden-dollar-in-neuer-finanzierungsrunde](https://www.spiegel.de/netzwelt/web/deepl-deutsche-ki-firma-erreicht-bewertung-von-zwei-milliarden-dollar-in-neuer-finanzierungsrunde-a-928ad4b7-6cfe-4e80-81d9-460fb60f5725#ref=rss)
+### kifirma
+
+* [https://www.spiegel.de/netzwelt/web/deepl-deutsche-ki-firma-erreicht-bewertung-von-zwei-milliarden-dollar-in-neuer-finanzierungsrunde](https://www.spiegel.de/netzwelt/web/deepl-deutsche-ki-firma-erreicht-bewertung-von-zwei-milliarden-dollar-in-neuer-finanzierungsrunde-a-928ad4b7-6cfe-4e80-81d9-460fb60f5725#ref=rss)
+### neuer
+
+* [https://www.spiegel.de/netzwelt/web/deepl-deutsche-ki-firma-erreicht-bewertung-von-zwei-milliarden-dollar-in-neuer-finanzierungsrunde](https://www.spiegel.de/netzwelt/web/deepl-deutsche-ki-firma-erreicht-bewertung-von-zwei-milliarden-dollar-in-neuer-finanzierungsrunde-a-928ad4b7-6cfe-4e80-81d9-460fb60f5725#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-blockiert-finanzielle-zulagen-fuer-bundeswehr-brigade-in-litauen-neuer-streit-mit-pistorius](https://www.spiegel.de/politik/deutschland/christian-lindner-blockiert-finanzielle-zulagen-fuer-bundeswehr-brigade-in-litauen-neuer-streit-mit-pistorius-a-2f0a45c8-c940-48eb-987c-f3eaa96068f5#ref=rss)
+### großen
+
+* [https://www.spiegel.de/netzwelt/web/deepl-deutsche-ki-firma-erreicht-bewertung-von-zwei-milliarden-dollar-in-neuer-finanzierungsrunde](https://www.spiegel.de/netzwelt/web/deepl-deutsche-ki-firma-erreicht-bewertung-von-zwei-milliarden-dollar-in-neuer-finanzierungsrunde-a-928ad4b7-6cfe-4e80-81d9-460fb60f5725#ref=rss)
+* [https://www.spiegel.de/sport/giro-ditalia-georg-steinhauser-siegt-bei-etappe-in-den-alpen](https://www.spiegel.de/sport/giro-ditalia-georg-steinhauser-siegt-bei-etappe-in-den-alpen-a-c757ec24-4b56-4b21-aa10-2dd857042523#ref=rss)
+### geld
+
+* [https://www.spiegel.de/netzwelt/web/deepl-deutsche-ki-firma-erreicht-bewertung-von-zwei-milliarden-dollar-in-neuer-finanzierungsrunde](https://www.spiegel.de/netzwelt/web/deepl-deutsche-ki-firma-erreicht-bewertung-von-zwei-milliarden-dollar-in-neuer-finanzierungsrunde-a-928ad4b7-6cfe-4e80-81d9-460fb60f5725#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/netflix-streamingdienst-zahlt-kunden-nach-preiserhoehung-in-oesterreich-geld-zurueck](https://www.spiegel.de/netzwelt/apps/netflix-streamingdienst-zahlt-kunden-nach-preiserhoehung-in-oesterreich-geld-zurueck-a-f7f3d6ae-3994-4fd3-ac88-586dfa53d87a#ref=rss)
+### gilt
+
+* [https://www.spiegel.de/netzwelt/web/deepl-deutsche-ki-firma-erreicht-bewertung-von-zwei-milliarden-dollar-in-neuer-finanzierungsrunde](https://www.spiegel.de/netzwelt/web/deepl-deutsche-ki-firma-erreicht-bewertung-von-zwei-milliarden-dollar-in-neuer-finanzierungsrunde-a-928ad4b7-6cfe-4e80-81d9-460fb60f5725#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/jenny-erpenbeck-gewinnt-den-international-booker-prize-wie-ein-faustschlag-auf-den-schaedel](https://www.spiegel.de/kultur/literatur/jenny-erpenbeck-gewinnt-den-international-booker-prize-wie-ein-faustschlag-auf-den-schaedel-a-a8052874-e921-4022-8005-41bf3db85d6e#ref=rss)
+### eltern
+
+* [https://www.spiegel.de/wissenschaft/mensch/psychologie-eltern-geben-empathiefaehigkeit-an-ihre-kinder-weiter](https://www.spiegel.de/wissenschaft/mensch/psychologie-eltern-geben-empathiefaehigkeit-an-ihre-kinder-weiter-a-3c2414a7-10a1-4918-b80e-d5f08e93530d#ref=rss)
 ### maximilian
 
-* [https://www.spiegel.de/politik/deutschland/afd-spitzenkandidat-maximilian-krah-rueckzug-aus-bundesvorstand-angekuendigt](https://www.spiegel.de/politik/deutschland/afd-spitzenkandidat-maximilian-krah-rueckzug-aus-bundesvorstand-angekuendigt-a-9745adc7-ea80-42bd-8d5d-312888f6f35d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-staat-palaestina](https://www.spiegel.de/politik/deutschland/news-des-tages-staat-palaestina-a-948bfcc5-f469-4ed5-9cc5-fb4d3f658c1b#ref=rss)
 ### krah
 
-* [https://www.spiegel.de/politik/deutschland/afd-spitzenkandidat-maximilian-krah-rueckzug-aus-bundesvorstand-angekuendigt](https://www.spiegel.de/politik/deutschland/afd-spitzenkandidat-maximilian-krah-rueckzug-aus-bundesvorstand-angekuendigt-a-9745adc7-ea80-42bd-8d5d-312888f6f35d#ref=rss)
-### bundesvorstand
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-staat-palaestina](https://www.spiegel.de/politik/deutschland/news-des-tages-staat-palaestina-a-948bfcc5-f469-4ed5-9cc5-fb4d3f658c1b#ref=rss)
+### norwegen
 
-* [https://www.spiegel.de/politik/deutschland/afd-spitzenkandidat-maximilian-krah-rueckzug-aus-bundesvorstand-angekuendigt](https://www.spiegel.de/politik/deutschland/afd-spitzenkandidat-maximilian-krah-rueckzug-aus-bundesvorstand-angekuendigt-a-9745adc7-ea80-42bd-8d5d-312888f6f35d#ref=rss)
-### wetterlage
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-staat-palaestina](https://www.spiegel.de/politik/deutschland/news-des-tages-staat-palaestina-a-948bfcc5-f469-4ed5-9cc5-fb4d3f658c1b#ref=rss)
+* [https://www.spiegel.de/ausland/palaestina-als-staat-anerkennen-der-palaestina-coup-von-pedro-sanchez](https://www.spiegel.de/ausland/palaestina-als-staat-anerkennen-der-palaestina-coup-von-pedro-sanchez-a-cdf5d7ea-2431-47fb-8bf2-e3883749438e#ref=rss)
+### spanien
 
-* [https://www.spiegel.de/panorama/wetterlage-in-deutschland-entwarnung-im-saarland-unwettergefahr-im-norden](https://www.spiegel.de/panorama/wetterlage-in-deutschland-entwarnung-im-saarland-unwettergefahr-im-norden-a-f6533281-8782-4c7e-9720-51f720fdc111#ref=rss)
-### saarland
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-staat-palaestina](https://www.spiegel.de/politik/deutschland/news-des-tages-staat-palaestina-a-948bfcc5-f469-4ed5-9cc5-fb4d3f658c1b#ref=rss)
+* [https://www.spiegel.de/ausland/palaestina-als-staat-anerkennen-der-palaestina-coup-von-pedro-sanchez](https://www.spiegel.de/ausland/palaestina-als-staat-anerkennen-der-palaestina-coup-von-pedro-sanchez-a-cdf5d7ea-2431-47fb-8bf2-e3883749438e#ref=rss)
+### irland
 
-* [https://www.spiegel.de/panorama/wetterlage-in-deutschland-entwarnung-im-saarland-unwettergefahr-im-norden](https://www.spiegel.de/panorama/wetterlage-in-deutschland-entwarnung-im-saarland-unwettergefahr-im-norden-a-f6533281-8782-4c7e-9720-51f720fdc111#ref=rss)
-### unwettergefahr
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-staat-palaestina](https://www.spiegel.de/politik/deutschland/news-des-tages-staat-palaestina-a-948bfcc5-f469-4ed5-9cc5-fb4d3f658c1b#ref=rss)
+* [https://www.spiegel.de/ausland/palaestina-als-staat-anerkennen-der-palaestina-coup-von-pedro-sanchez](https://www.spiegel.de/ausland/palaestina-als-staat-anerkennen-der-palaestina-coup-von-pedro-sanchez-a-cdf5d7ea-2431-47fb-8bf2-e3883749438e#ref=rss)
+### gewinnt
 
-* [https://www.spiegel.de/panorama/wetterlage-in-deutschland-entwarnung-im-saarland-unwettergefahr-im-norden](https://www.spiegel.de/panorama/wetterlage-in-deutschland-entwarnung-im-saarland-unwettergefahr-im-norden-a-f6533281-8782-4c7e-9720-51f720fdc111#ref=rss)
-### norden
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-staat-palaestina](https://www.spiegel.de/politik/deutschland/news-des-tages-staat-palaestina-a-948bfcc5-f469-4ed5-9cc5-fb4d3f658c1b#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/jenny-erpenbeck-gewinnt-den-international-booker-prize-wie-ein-faustschlag-auf-den-schaedel](https://www.spiegel.de/kultur/literatur/jenny-erpenbeck-gewinnt-den-international-booker-prize-wie-ein-faustschlag-auf-den-schaedel-a-a8052874-e921-4022-8005-41bf3db85d6e#ref=rss)
+### georg
 
-* [https://www.spiegel.de/panorama/wetterlage-in-deutschland-entwarnung-im-saarland-unwettergefahr-im-norden](https://www.spiegel.de/panorama/wetterlage-in-deutschland-entwarnung-im-saarland-unwettergefahr-im-norden-a-f6533281-8782-4c7e-9720-51f720fdc111#ref=rss)
-### geoffrey
+* [https://www.spiegel.de/sport/giro-ditalia-georg-steinhauser-siegt-bei-etappe-in-den-alpen](https://www.spiegel.de/sport/giro-ditalia-georg-steinhauser-siegt-bei-etappe-in-den-alpen-a-c757ec24-4b56-4b21-aa10-2dd857042523#ref=rss)
+### steinhauser
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/geoffrey-hinton-andrew-yao-und-weitere-forscher-ki-koryphaeen-warnen-erneut-vor-ausloeschung-der-menschheit](https://www.spiegel.de/netzwelt/netzpolitik/geoffrey-hinton-andrew-yao-und-weitere-forscher-ki-koryphaeen-warnen-erneut-vor-ausloeschung-der-menschheit-a-08e8b668-ce3a-43cd-9f90-8c47501ead6f#ref=rss)
-### hinton
+* [https://www.spiegel.de/sport/giro-ditalia-georg-steinhauser-siegt-bei-etappe-in-den-alpen](https://www.spiegel.de/sport/giro-ditalia-georg-steinhauser-siegt-bei-etappe-in-den-alpen-a-c757ec24-4b56-4b21-aa10-2dd857042523#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/geoffrey-hinton-andrew-yao-und-weitere-forscher-ki-koryphaeen-warnen-erneut-vor-ausloeschung-der-menschheit](https://www.spiegel.de/netzwelt/netzpolitik/geoffrey-hinton-andrew-yao-und-weitere-forscher-ki-koryphaeen-warnen-erneut-vor-ausloeschung-der-menschheit-a-08e8b668-ce3a-43cd-9f90-8c47501ead6f#ref=rss)
-### ich
+* [https://www.spiegel.de/sport/giro-ditalia-georg-steinhauser-siegt-bei-etappe-in-den-alpen](https://www.spiegel.de/sport/giro-ditalia-georg-steinhauser-siegt-bei-etappe-in-den-alpen-a-c757ec24-4b56-4b21-aa10-2dd857042523#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/mindestlohn-erdbeer-unternehmer-enno-glantz-nennt-15-euro-existenzbedrohend](https://www.spiegel.de/wirtschaft/unternehmen/mindestlohn-erdbeer-unternehmer-enno-glantz-nennt-15-euro-existenzbedrohend-a-71c153c1-fad4-47c3-b137-4e0d5b3fa093#ref=rss)
+### mindestlohn
 
-* [https://www.spiegel.de/reise/staedte/rumaenien-reise-wie-ich-es-schaffte-bukarest-in-mein-herz-zu-schliessen](https://www.spiegel.de/reise/staedte/rumaenien-reise-wie-ich-es-schaffte-bukarest-in-mein-herz-zu-schliessen-a-fbf427bd-918f-4b77-8d7c-13b4fd3eb48c#ref=rss)
-### bukarest
+* [https://www.spiegel.de/wirtschaft/unternehmen/mindestlohn-erdbeer-unternehmer-enno-glantz-nennt-15-euro-existenzbedrohend](https://www.spiegel.de/wirtschaft/unternehmen/mindestlohn-erdbeer-unternehmer-enno-glantz-nennt-15-euro-existenzbedrohend-a-71c153c1-fad4-47c3-b137-4e0d5b3fa093#ref=rss)
+### enno
 
-* [https://www.spiegel.de/reise/staedte/rumaenien-reise-wie-ich-es-schaffte-bukarest-in-mein-herz-zu-schliessen](https://www.spiegel.de/reise/staedte/rumaenien-reise-wie-ich-es-schaffte-bukarest-in-mein-herz-zu-schliessen-a-fbf427bd-918f-4b77-8d7c-13b4fd3eb48c#ref=rss)
-### furiosa
+* [https://www.spiegel.de/wirtschaft/unternehmen/mindestlohn-erdbeer-unternehmer-enno-glantz-nennt-15-euro-existenzbedrohend](https://www.spiegel.de/wirtschaft/unternehmen/mindestlohn-erdbeer-unternehmer-enno-glantz-nennt-15-euro-existenzbedrohend-a-71c153c1-fad4-47c3-b137-4e0d5b3fa093#ref=rss)
+### glantz
 
-* [https://www.spiegel.de/kultur/kino/furiosa-a-mad-max-saga-von-george-miller-transzendente-verfolgungsjagden](https://www.spiegel.de/kultur/kino/furiosa-a-mad-max-saga-von-george-miller-transzendente-verfolgungsjagden-a-32552d5b-f088-4df2-9f3f-2fe75c83ca41#ref=rss)
-### ursula
+* [https://www.spiegel.de/wirtschaft/unternehmen/mindestlohn-erdbeer-unternehmer-enno-glantz-nennt-15-euro-existenzbedrohend](https://www.spiegel.de/wirtschaft/unternehmen/mindestlohn-erdbeer-unternehmer-enno-glantz-nennt-15-euro-existenzbedrohend-a-71c153c1-fad4-47c3-b137-4e0d5b3fa093#ref=rss)
+### euro
 
-* [https://www.spiegel.de/panorama/justiz/ursula-haverbeck-erhaelt-zweite-ladung-zum-haftantritt-und-wehrt-sich-dagegen](https://www.spiegel.de/panorama/justiz/ursula-haverbeck-erhaelt-zweite-ladung-zum-haftantritt-und-wehrt-sich-dagegen-a-8dca3b4a-846c-4966-9825-68abebae267d#ref=rss)
-### haverbeck
+* [https://www.spiegel.de/wirtschaft/unternehmen/mindestlohn-erdbeer-unternehmer-enno-glantz-nennt-15-euro-existenzbedrohend](https://www.spiegel.de/wirtschaft/unternehmen/mindestlohn-erdbeer-unternehmer-enno-glantz-nennt-15-euro-existenzbedrohend-a-71c153c1-fad4-47c3-b137-4e0d5b3fa093#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/netflix-streamingdienst-zahlt-kunden-nach-preiserhoehung-in-oesterreich-geld-zurueck](https://www.spiegel.de/netzwelt/apps/netflix-streamingdienst-zahlt-kunden-nach-preiserhoehung-in-oesterreich-geld-zurueck-a-f7f3d6ae-3994-4fd3-ac88-586dfa53d87a#ref=rss)
+### haftbefehl
 
-* [https://www.spiegel.de/panorama/justiz/ursula-haverbeck-erhaelt-zweite-ladung-zum-haftantritt-und-wehrt-sich-dagegen](https://www.spiegel.de/panorama/justiz/ursula-haverbeck-erhaelt-zweite-ladung-zum-haftantritt-und-wehrt-sich-dagegen-a-8dca3b4a-846c-4966-9825-68abebae267d#ref=rss)
-### parteien
+* [https://www.spiegel.de/politik/deutschland/haftbefehl-des-istgh-bundesregierung-schliesst-verhaftung-netanyahus-nicht-aus](https://www.spiegel.de/politik/deutschland/haftbefehl-des-istgh-bundesregierung-schliesst-verhaftung-netanyahus-nicht-aus-a-8b9ffbdc-1fd1-4f98-985c-0777756ab529#ref=rss)
+### beantragt
 
-* [https://www.spiegel.de/politik/europawahl-2024-bloss-nicht-ueber-die-erfolge-der-eu-reden](https://www.spiegel.de/politik/europawahl-2024-bloss-nicht-ueber-die-erfolge-der-eu-reden-a-15ff9ae4-776b-4aa6-afc2-26409b8be72a#ref=rss)
-### frauke
+* [https://www.spiegel.de/politik/deutschland/haftbefehl-des-istgh-bundesregierung-schliesst-verhaftung-netanyahus-nicht-aus](https://www.spiegel.de/politik/deutschland/haftbefehl-des-istgh-bundesregierung-schliesst-verhaftung-netanyahus-nicht-aus-a-8b9ffbdc-1fd1-4f98-985c-0777756ab529#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/netflix-streamingdienst-zahlt-kunden-nach-preiserhoehung-in-oesterreich-geld-zurueck](https://www.spiegel.de/netzwelt/apps/netflix-streamingdienst-zahlt-kunden-nach-preiserhoehung-in-oesterreich-geld-zurueck-a-f7f3d6ae-3994-4fd3-ac88-586dfa53d87a#ref=rss)
+### würde
 
-* [https://www.spiegel.de/politik/warum-werden-wir-immer-empfindlicher-frauke-rostalski-podcast-moreno-1](https://www.spiegel.de/politik/warum-werden-wir-immer-empfindlicher-frauke-rostalski-podcast-moreno-1-a-a54d3101-61b5-4604-ad02-3c990b1c3387#ref=rss)
-### rostalski
+* [https://www.spiegel.de/politik/deutschland/haftbefehl-des-istgh-bundesregierung-schliesst-verhaftung-netanyahus-nicht-aus](https://www.spiegel.de/politik/deutschland/haftbefehl-des-istgh-bundesregierung-schliesst-verhaftung-netanyahus-nicht-aus-a-8b9ffbdc-1fd1-4f98-985c-0777756ab529#ref=rss)
+* [https://www.spiegel.de/wissenschaft/antarktis-weltuntergangsgletscher-schmilzt-noch-schneller-als-gedacht](https://www.spiegel.de/wissenschaft/antarktis-weltuntergangsgletscher-schmilzt-noch-schneller-als-gedacht-a-be2a23a2-324f-4a83-95af-a03d19ceb36d#ref=rss)
+### lindner
 
-* [https://www.spiegel.de/politik/warum-werden-wir-immer-empfindlicher-frauke-rostalski-podcast-moreno-1](https://www.spiegel.de/politik/warum-werden-wir-immer-empfindlicher-frauke-rostalski-podcast-moreno-1-a-a54d3101-61b5-4604-ad02-3c990b1c3387#ref=rss)
-### wilson
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-blockiert-finanzielle-zulagen-fuer-bundeswehr-brigade-in-litauen-neuer-streit-mit-pistorius](https://www.spiegel.de/politik/deutschland/christian-lindner-blockiert-finanzielle-zulagen-fuer-bundeswehr-brigade-in-litauen-neuer-streit-mit-pistorius-a-2f0a45c8-c940-48eb-987c-f3eaa96068f5#ref=rss)
+### verteidigungsminister
 
-* [https://www.spiegel.de/sport/basketball/deal-mit-wilson-basketballstar-caitlin-clark-auf-den-spuren-von-michael-jordan](https://www.spiegel.de/sport/basketball/deal-mit-wilson-basketballstar-caitlin-clark-auf-den-spuren-von-michael-jordan-a-d2662d76-5f5d-48d2-93ca-96688ef507bd#ref=rss)
-### caitlin
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-blockiert-finanzielle-zulagen-fuer-bundeswehr-brigade-in-litauen-neuer-streit-mit-pistorius](https://www.spiegel.de/politik/deutschland/christian-lindner-blockiert-finanzielle-zulagen-fuer-bundeswehr-brigade-in-litauen-neuer-streit-mit-pistorius-a-2f0a45c8-c940-48eb-987c-f3eaa96068f5#ref=rss)
+* [https://www.spiegel.de/ausland/litauen-und-finnland-verlangen-erklaerung-von-russland-geplante-ausweitung-der-seegrenze](https://www.spiegel.de/ausland/litauen-und-finnland-verlangen-erklaerung-von-russland-geplante-ausweitung-der-seegrenze-a-2369f186-6f91-46ec-9455-d53230d83e30#ref=rss)
+### erst
 
-* [https://www.spiegel.de/sport/basketball/deal-mit-wilson-basketballstar-caitlin-clark-auf-den-spuren-von-michael-jordan](https://www.spiegel.de/sport/basketball/deal-mit-wilson-basketballstar-caitlin-clark-auf-den-spuren-von-michael-jordan-a-d2662d76-5f5d-48d2-93ca-96688ef507bd#ref=rss)
-### michael
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-blockiert-finanzielle-zulagen-fuer-bundeswehr-brigade-in-litauen-neuer-streit-mit-pistorius](https://www.spiegel.de/politik/deutschland/christian-lindner-blockiert-finanzielle-zulagen-fuer-bundeswehr-brigade-in-litauen-neuer-streit-mit-pistorius-a-2f0a45c8-c940-48eb-987c-f3eaa96068f5#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/netflix-streamingdienst-zahlt-kunden-nach-preiserhoehung-in-oesterreich-geld-zurueck](https://www.spiegel.de/netzwelt/apps/netflix-streamingdienst-zahlt-kunden-nach-preiserhoehung-in-oesterreich-geld-zurueck-a-f7f3d6ae-3994-4fd3-ac88-586dfa53d87a#ref=rss)
+### post
 
-* [https://www.spiegel.de/sport/basketball/deal-mit-wilson-basketballstar-caitlin-clark-auf-den-spuren-von-michael-jordan](https://www.spiegel.de/sport/basketball/deal-mit-wilson-basketballstar-caitlin-clark-auf-den-spuren-von-michael-jordan-a-d2662d76-5f5d-48d2-93ca-96688ef507bd#ref=rss)
-### jordan
+* [https://www.spiegel.de/panorama/grossbritannien-skandal-bei-der-britischen-post-ex-chefin-bedauert-vorwuerfe](https://www.spiegel.de/panorama/grossbritannien-skandal-bei-der-britischen-post-ex-chefin-bedauert-vorwuerfe-a-da0361b3-619b-40b8-9655-5436a40f95ff#ref=rss)
+### marco
 
-* [https://www.spiegel.de/sport/basketball/deal-mit-wilson-basketballstar-caitlin-clark-auf-den-spuren-von-michael-jordan](https://www.spiegel.de/sport/basketball/deal-mit-wilson-basketballstar-caitlin-clark-auf-den-spuren-von-michael-jordan-a-d2662d76-5f5d-48d2-93ca-96688ef507bd#ref=rss)
-### erste
+* [https://www.spiegel.de/kultur/marco-goecke-hundekot-angreifer-wird-ballettchef-in-basel](https://www.spiegel.de/kultur/marco-goecke-hundekot-angreifer-wird-ballettchef-in-basel-a-4f62292b-7aad-4ab7-8f98-e0d6a0f255f3#ref=rss)
+### goecke
 
-* [https://www.spiegel.de/sport/basketball/deal-mit-wilson-basketballstar-caitlin-clark-auf-den-spuren-von-michael-jordan](https://www.spiegel.de/sport/basketball/deal-mit-wilson-basketballstar-caitlin-clark-auf-den-spuren-von-michael-jordan-a-d2662d76-5f5d-48d2-93ca-96688ef507bd#ref=rss)
+* [https://www.spiegel.de/kultur/marco-goecke-hundekot-angreifer-wird-ballettchef-in-basel](https://www.spiegel.de/kultur/marco-goecke-hundekot-angreifer-wird-ballettchef-in-basel-a-4f62292b-7aad-4ab7-8f98-e0d6a0f255f3#ref=rss)
+### basel
+
+* [https://www.spiegel.de/kultur/marco-goecke-hundekot-angreifer-wird-ballettchef-in-basel](https://www.spiegel.de/kultur/marco-goecke-hundekot-angreifer-wird-ballettchef-in-basel-a-4f62292b-7aad-4ab7-8f98-e0d6a0f255f3#ref=rss)
+### allem
+
+* [https://www.spiegel.de/ausland/istgh-zu-israel-und-hamas-die-kritik-am-strafgerichtshof-ist-vor-allem-politisch-motiviert](https://www.spiegel.de/ausland/istgh-zu-israel-und-hamas-die-kritik-am-strafgerichtshof-ist-vor-allem-politisch-motiviert-a-30b8a0b7-8fd2-4ce7-adca-29abc3ad7f96#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/signa-gruender-rene-benko-aussage-vor-untersuchungsausschuss-bleibt-vage](https://www.spiegel.de/wirtschaft/unternehmen/signa-gruender-rene-benko-aussage-vor-untersuchungsausschuss-bleibt-vage-a-a9ff134f-d1e7-4450-839e-f29eddc40a94#ref=rss)
+### möglichen
+
+* [https://www.spiegel.de/ausland/istgh-zu-israel-und-hamas-die-kritik-am-strafgerichtshof-ist-vor-allem-politisch-motiviert](https://www.spiegel.de/ausland/istgh-zu-israel-und-hamas-die-kritik-am-strafgerichtshof-ist-vor-allem-politisch-motiviert-a-30b8a0b7-8fd2-4ce7-adca-29abc3ad7f96#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-transferticker-fc-bayern-muenchen-angeblich-in-gespraechen-mit-vincent-kompany](https://www.spiegel.de/sport/fussball/fussball-transferticker-fc-bayern-muenchen-angeblich-in-gespraechen-mit-vincent-kompany-a-98e547ae-eb80-4418-9dd4-9cb033ed380d#ref=rss)
+### netflix
+
+* [https://www.spiegel.de/netzwelt/apps/netflix-streamingdienst-zahlt-kunden-nach-preiserhoehung-in-oesterreich-geld-zurueck](https://www.spiegel.de/netzwelt/apps/netflix-streamingdienst-zahlt-kunden-nach-preiserhoehung-in-oesterreich-geld-zurueck-a-f7f3d6ae-3994-4fd3-ac88-586dfa53d87a#ref=rss)
+### kunden
+
+* [https://www.spiegel.de/netzwelt/apps/netflix-streamingdienst-zahlt-kunden-nach-preiserhoehung-in-oesterreich-geld-zurueck](https://www.spiegel.de/netzwelt/apps/netflix-streamingdienst-zahlt-kunden-nach-preiserhoehung-in-oesterreich-geld-zurueck-a-f7f3d6ae-3994-4fd3-ac88-586dfa53d87a#ref=rss)
+### österreich
+
+* [https://www.spiegel.de/netzwelt/apps/netflix-streamingdienst-zahlt-kunden-nach-preiserhoehung-in-oesterreich-geld-zurueck](https://www.spiegel.de/netzwelt/apps/netflix-streamingdienst-zahlt-kunden-nach-preiserhoehung-in-oesterreich-geld-zurueck-a-f7f3d6ae-3994-4fd3-ac88-586dfa53d87a#ref=rss)
+### boeing
+
+* [https://www.spiegel.de/wirtschaft/boeing-ist-es-noch-sicher-in-einflugzeug-von-boeing-zu-steigen](https://www.spiegel.de/wirtschaft/boeing-ist-es-noch-sicher-in-einflugzeug-von-boeing-zu-steigen-a-48a5527a-b07a-49e6-9546-e9e6fae945a7#ref=rss)
+### steigen
+
+* [https://www.spiegel.de/wirtschaft/boeing-ist-es-noch-sicher-in-einflugzeug-von-boeing-zu-steigen](https://www.spiegel.de/wirtschaft/boeing-ist-es-noch-sicher-in-einflugzeug-von-boeing-zu-steigen-a-48a5527a-b07a-49e6-9546-e9e6fae945a7#ref=rss)
+* [https://www.spiegel.de/wissenschaft/antarktis-weltuntergangsgletscher-schmilzt-noch-schneller-als-gedacht](https://www.spiegel.de/wissenschaft/antarktis-weltuntergangsgletscher-schmilzt-noch-schneller-als-gedacht-a-be2a23a2-324f-4a83-95af-a03d19ceb36d#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/fussball-transferticker-fc-bayern-muenchen-angeblich-in-gespraechen-mit-vincent-kompany](https://www.spiegel.de/sport/fussball/fussball-transferticker-fc-bayern-muenchen-angeblich-in-gespraechen-mit-vincent-kompany-a-98e547ae-eb80-4418-9dd4-9cb033ed380d#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/fussball-transferticker-fc-bayern-muenchen-angeblich-in-gespraechen-mit-vincent-kompany](https://www.spiegel.de/sport/fussball/fussball-transferticker-fc-bayern-muenchen-angeblich-in-gespraechen-mit-vincent-kompany-a-98e547ae-eb80-4418-9dd4-9cb033ed380d#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/sport/fussball/fussball-transferticker-fc-bayern-muenchen-angeblich-in-gespraechen-mit-vincent-kompany](https://www.spiegel.de/sport/fussball/fussball-transferticker-fc-bayern-muenchen-angeblich-in-gespraechen-mit-vincent-kompany-a-98e547ae-eb80-4418-9dd4-9cb033ed380d#ref=rss)
+* [https://www.spiegel.de/kultur/tv/holly-hunter-hauptrolle-in-star-trek-serie-starfleet-academy](https://www.spiegel.de/kultur/tv/holly-hunter-hauptrolle-in-star-trek-serie-starfleet-academy-a-915178a8-b7e4-4302-ad58-02ead3b20dab#ref=rss)
+### antarktis
+
+* [https://www.spiegel.de/wissenschaft/antarktis-weltuntergangsgletscher-schmilzt-noch-schneller-als-gedacht](https://www.spiegel.de/wissenschaft/antarktis-weltuntergangsgletscher-schmilzt-noch-schneller-als-gedacht-a-be2a23a2-324f-4a83-95af-a03d19ceb36d#ref=rss)
+### holly
+
+* [https://www.spiegel.de/kultur/tv/holly-hunter-hauptrolle-in-star-trek-serie-starfleet-academy](https://www.spiegel.de/kultur/tv/holly-hunter-hauptrolle-in-star-trek-serie-starfleet-academy-a-915178a8-b7e4-4302-ad58-02ead3b20dab#ref=rss)
+### hunter
+
+* [https://www.spiegel.de/kultur/tv/holly-hunter-hauptrolle-in-star-trek-serie-starfleet-academy](https://www.spiegel.de/kultur/tv/holly-hunter-hauptrolle-in-star-trek-serie-starfleet-academy-a-915178a8-b7e4-4302-ad58-02ead3b20dab#ref=rss)
+### star
+
+* [https://www.spiegel.de/kultur/tv/holly-hunter-hauptrolle-in-star-trek-serie-starfleet-academy](https://www.spiegel.de/kultur/tv/holly-hunter-hauptrolle-in-star-trek-serie-starfleet-academy-a-915178a8-b7e4-4302-ad58-02ead3b20dab#ref=rss)
+### starfleet
+
+* [https://www.spiegel.de/kultur/tv/holly-hunter-hauptrolle-in-star-trek-serie-starfleet-academy](https://www.spiegel.de/kultur/tv/holly-hunter-hauptrolle-in-star-trek-serie-starfleet-academy-a-915178a8-b7e4-4302-ad58-02ead3b20dab#ref=rss)
+### academy
+
+* [https://www.spiegel.de/kultur/tv/holly-hunter-hauptrolle-in-star-trek-serie-starfleet-academy](https://www.spiegel.de/kultur/tv/holly-hunter-hauptrolle-in-star-trek-serie-starfleet-academy-a-915178a8-b7e4-4302-ad58-02ead3b20dab#ref=rss)
+### signagründer
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/signa-gruender-rene-benko-aussage-vor-untersuchungsausschuss-bleibt-vage](https://www.spiegel.de/wirtschaft/unternehmen/signa-gruender-rene-benko-aussage-vor-untersuchungsausschuss-bleibt-vage-a-a9ff134f-d1e7-4450-839e-f29eddc40a94#ref=rss)
+### rené
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/signa-gruender-rene-benko-aussage-vor-untersuchungsausschuss-bleibt-vage](https://www.spiegel.de/wirtschaft/unternehmen/signa-gruender-rene-benko-aussage-vor-untersuchungsausschuss-bleibt-vage-a-a9ff134f-d1e7-4450-839e-f29eddc40a94#ref=rss)
+### benko
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/signa-gruender-rene-benko-aussage-vor-untersuchungsausschuss-bleibt-vage](https://www.spiegel.de/wirtschaft/unternehmen/signa-gruender-rene-benko-aussage-vor-untersuchungsausschuss-bleibt-vage-a-a9ff134f-d1e7-4450-839e-f29eddc40a94#ref=rss)
+### untersuchungsausschuss
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/signa-gruender-rene-benko-aussage-vor-untersuchungsausschuss-bleibt-vage](https://www.spiegel.de/wirtschaft/unternehmen/signa-gruender-rene-benko-aussage-vor-untersuchungsausschuss-bleibt-vage-a-a9ff134f-d1e7-4450-839e-f29eddc40a94#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/litauen-und-finnland-verlangen-erklaerung-von-russland-geplante-ausweitung-der-seegrenze](https://www.spiegel.de/ausland/litauen-und-finnland-verlangen-erklaerung-von-russland-geplante-ausweitung-der-seegrenze-a-2369f186-6f91-46ec-9455-d53230d83e30#ref=rss)
 
