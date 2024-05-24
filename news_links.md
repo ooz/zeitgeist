@@ -4,380 +4,319 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### union
+### ich
 
-* [https://www.spiegel.de/wissenschaft/medizin/sterblichkeitstrends-in-europa-warum-deutschland-bei-der-lebenserwartung-zurueckfaellt](https://www.spiegel.de/wissenschaft/medizin/sterblichkeitstrends-in-europa-warum-deutschland-bei-der-lebenserwartung-zurueckfaellt-a-a8d8d99b-7b6e-4e89-9c75-f052e8e0fd02#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/blue-ruin-von-hari-kunzru-die-kunst-frisst-ihre-kinder](https://www.spiegel.de/kultur/literatur/blue-ruin-von-hari-kunzru-die-kunst-frisst-ihre-kinder-a-c61eb17b-a396-49a8-a41e-204c834997f1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/daran-zweifel-zu-wecken-schadet-unserer-demokratie](https://www.spiegel.de/politik/deutschland/daran-zweifel-zu-wecken-schadet-unserer-demokratie-a-175c7f5a-0b05-4534-be73-c98d9e66c547#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-holt-bo-svensson-als-neuen-trainer](https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-holt-bo-svensson-als-neuen-trainer-a-533b8b3a-1304-406f-be22-98a2080de815#ref=rss)
-### alexander
+* [https://www.spiegel.de/politik/deutschland/marie-agnes-strack-zimmermann-fdp-ich-zeige-pro-monat-ungefaehr-200-leute-an](https://www.spiegel.de/politik/deutschland/marie-agnes-strack-zimmermann-fdp-ich-zeige-pro-monat-ungefaehr-200-leute-an-a-a16fa99c-9a74-4fb1-b60a-67ed94905a05#ref=rss)
+* [https://www.spiegel.de/partnerschaft/bisexuelles-dating-bei-meinen-ersten-treffen-mit-frauen-war-ich-schuechtern-und-verunsichert](https://www.spiegel.de/partnerschaft/bisexuelles-dating-bei-meinen-ersten-treffen-mit-frauen-war-ich-schuechtern-und-verunsichert-a-be0e2557-4c8b-4118-83f8-e1394195b81f#ref=rss)
+### europawahl
 
-* [https://www.spiegel.de/panorama/justiz/alexander-zverev-prozess-gegen-tennisprofi-weil-er-geldstrafe-nicht-akzeptiert](https://www.spiegel.de/panorama/justiz/alexander-zverev-prozess-gegen-tennisprofi-weil-er-geldstrafe-nicht-akzeptiert-a-8d0add76-b15f-4712-85d1-9d354d616519#ref=rss)
-* [https://www.spiegel.de/sport/tennis/french-open-2024-alexander-zverev-gegen-rafael-nadal-showdown-in-der-ersten-runde](https://www.spiegel.de/sport/tennis/french-open-2024-alexander-zverev-gegen-rafael-nadal-showdown-in-der-ersten-runde-a-8dc759b6-ceb5-4064-b385-5558656da186#ref=rss)
-### zverev
+* [https://www.spiegel.de/politik/deutschland/europawahl-2024-versteckte-kandidaten-im-europa-wahlkampf-kolumne](https://www.spiegel.de/politik/deutschland/europawahl-2024-versteckte-kandidaten-im-europa-wahlkampf-kolumne-a-918a8e06-fe3b-4e5a-a8a3-d0413e447100#ref=rss)
+* [https://www.spiegel.de/politik/europawahl-und-der-rechtsruck-rechtsradikale-nur-ausgrenzen-funktioniert-nicht-mehr](https://www.spiegel.de/politik/europawahl-und-der-rechtsruck-rechtsradikale-nur-ausgrenzen-funktioniert-nicht-mehr-a-7e13fc44-10c3-4d61-8255-8a7668582d30#ref=rss)
+### leben
 
-* [https://www.spiegel.de/panorama/justiz/alexander-zverev-prozess-gegen-tennisprofi-weil-er-geldstrafe-nicht-akzeptiert](https://www.spiegel.de/panorama/justiz/alexander-zverev-prozess-gegen-tennisprofi-weil-er-geldstrafe-nicht-akzeptiert-a-8d0add76-b15f-4712-85d1-9d354d616519#ref=rss)
-* [https://www.spiegel.de/sport/tennis/french-open-2024-alexander-zverev-gegen-rafael-nadal-showdown-in-der-ersten-runde](https://www.spiegel.de/sport/tennis/french-open-2024-alexander-zverev-gegen-rafael-nadal-showdown-in-der-ersten-runde-a-8dc759b6-ceb5-4064-b385-5558656da186#ref=rss)
-### prozess
+* [https://www.spiegel.de/wissenschaft/mensch/total-energies-umweltschuetzer-fordern-strafe-fuer-oelkonzern-bosse-wegen-fahrlaessiger-toetung](https://www.spiegel.de/wissenschaft/mensch/total-energies-umweltschuetzer-fordern-strafe-fuer-oelkonzern-bosse-wegen-fahrlaessiger-toetung-a-564ef515-8b48-4260-827d-b0a77157e663#ref=rss)
+* [https://www.spiegel.de/kultur/george-floyds-leben-wird-verfilmt](https://www.spiegel.de/kultur/george-floyds-leben-wird-verfilmt-a-f7376fa4-1409-4192-a56f-6d7814fe3d95#ref=rss)
+### usa
 
-* [https://www.spiegel.de/panorama/justiz/alexander-zverev-prozess-gegen-tennisprofi-weil-er-geldstrafe-nicht-akzeptiert](https://www.spiegel.de/panorama/justiz/alexander-zverev-prozess-gegen-tennisprofi-weil-er-geldstrafe-nicht-akzeptiert-a-8d0add76-b15f-4712-85d1-9d354d616519#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/heinrich-xiii-prinz-reuss-prozess-gegen-mutmassliches-reichsbuerger-netzwerk-beginnt-mit-ersten-verteidigern](https://www.spiegel.de/panorama/justiz/heinrich-xiii-prinz-reuss-prozess-gegen-mutmassliches-reichsbuerger-netzwerk-beginnt-mit-ersten-verteidigern-a-86712485-1de2-4eb7-81e6-86b4df6cd707#ref=rss)
-### fc
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-fc-bayern-muenchen-vincent-kompany-75-jahre-grundgesetz-carola-rackete](https://www.spiegel.de/politik/deutschland/news-des-tages-fc-bayern-muenchen-vincent-kompany-75-jahre-grundgesetz-carola-rackete-a-38a75fb0-2904-453a-b76b-15438138b248#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-vincent-kompany-hoffen-auf-den-xabi-alonso-effekt](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-vincent-kompany-hoffen-auf-den-xabi-alonso-effekt-a-52f87bb0-d779-46a1-ba55-ba29ff2ad4bf#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-fc-bayern-muenchen-vincent-kompany-75-jahre-grundgesetz-carola-rackete](https://www.spiegel.de/politik/deutschland/news-des-tages-fc-bayern-muenchen-vincent-kompany-75-jahre-grundgesetz-carola-rackete-a-38a75fb0-2904-453a-b76b-15438138b248#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-vincent-kompany-hoffen-auf-den-xabi-alonso-effekt](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-vincent-kompany-hoffen-auf-den-xabi-alonso-effekt-a-52f87bb0-d779-46a1-ba55-ba29ff2ad4bf#ref=rss)
-### vincent
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-fc-bayern-muenchen-vincent-kompany-75-jahre-grundgesetz-carola-rackete](https://www.spiegel.de/politik/deutschland/news-des-tages-fc-bayern-muenchen-vincent-kompany-75-jahre-grundgesetz-carola-rackete-a-38a75fb0-2904-453a-b76b-15438138b248#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-vincent-kompany-hoffen-auf-den-xabi-alonso-effekt](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-vincent-kompany-hoffen-auf-den-xabi-alonso-effekt-a-52f87bb0-d779-46a1-ba55-ba29ff2ad4bf#ref=rss)
-### kompany
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-fc-bayern-muenchen-vincent-kompany-75-jahre-grundgesetz-carola-rackete](https://www.spiegel.de/politik/deutschland/news-des-tages-fc-bayern-muenchen-vincent-kompany-75-jahre-grundgesetz-carola-rackete-a-38a75fb0-2904-453a-b76b-15438138b248#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-vincent-kompany-hoffen-auf-den-xabi-alonso-effekt](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-vincent-kompany-hoffen-auf-den-xabi-alonso-effekt-a-52f87bb0-d779-46a1-ba55-ba29ff2ad4bf#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/singapore-airlines-verletzte-nach-notlandung-am-ruecken-operiert](https://www.spiegel.de/panorama/singapore-airlines-verletzte-nach-notlandung-am-ruecken-operiert-a-8fc2d687-9667-4021-9319-f0ee066dfa1f#ref=rss)
-* [https://www.spiegel.de/ausland/russland-vize-generalstabschef-offenbar-wegen-korruptionsverdachts-festgenommen](https://www.spiegel.de/ausland/russland-vize-generalstabschef-offenbar-wegen-korruptionsverdachts-festgenommen-a-56f7d80d-8dcd-448b-9ff7-55dcf3fb2732#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-vincent-kompany-hoffen-auf-den-xabi-alonso-effekt](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-vincent-kompany-hoffen-auf-den-xabi-alonso-effekt-a-52f87bb0-d779-46a1-ba55-ba29ff2ad4bf#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/sport/eishockey/eishockey-wm-deutschland-verliert-gegen-lieblingsgegner-schweiz-und-scheidet-aus-dem-turnier-aus](https://www.spiegel.de/sport/eishockey/eishockey-wm-deutschland-verliert-gegen-lieblingsgegner-schweiz-und-scheidet-aus-dem-turnier-aus-a-7b343ef5-465d-495d-b23f-112089f35aa2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-fc-bayern-muenchen-vincent-kompany-75-jahre-grundgesetz-carola-rackete](https://www.spiegel.de/politik/deutschland/news-des-tages-fc-bayern-muenchen-vincent-kompany-75-jahre-grundgesetz-carola-rackete-a-38a75fb0-2904-453a-b76b-15438138b248#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/heinrich-xiii-prinz-reuss-prozess-gegen-mutmassliches-reichsbuerger-netzwerk-beginnt-mit-ersten-verteidigern](https://www.spiegel.de/panorama/justiz/heinrich-xiii-prinz-reuss-prozess-gegen-mutmassliches-reichsbuerger-netzwerk-beginnt-mit-ersten-verteidigern-a-86712485-1de2-4eb7-81e6-86b4df6cd707#ref=rss)
-### taiwan
-
-* [https://www.spiegel.de/ausland/taiwan-wie-gefaehrlich-sind-chinas-militaermanoever-rund-um-den-inselstaat](https://www.spiegel.de/ausland/taiwan-wie-gefaehrlich-sind-chinas-militaermanoever-rund-um-den-inselstaat-a-699c9256-e312-41fe-93aa-97604127dcb7#ref=rss)
-* [https://www.spiegel.de/ausland/china-veroeffentlicht-video-von-grossmanoever-vor-taiwan-warnung-und-bestrafung](https://www.spiegel.de/ausland/china-veroeffentlicht-video-von-grossmanoever-vor-taiwan-warnung-und-bestrafung-a-55f2ce79-9954-4a50-9201-2e4c1c62e05c#ref=rss)
-### rund
-
-* [https://www.spiegel.de/ausland/taiwan-wie-gefaehrlich-sind-chinas-militaermanoever-rund-um-den-inselstaat](https://www.spiegel.de/ausland/taiwan-wie-gefaehrlich-sind-chinas-militaermanoever-rund-um-den-inselstaat-a-699c9256-e312-41fe-93aa-97604127dcb7#ref=rss)
-* [https://www.spiegel.de/panorama/paris-eiffelturm-erhoeht-preise-kurz-vor-beginn-der-olympischen-spiele-um-20-prozent](https://www.spiegel.de/panorama/paris-eiffelturm-erhoeht-preise-kurz-vor-beginn-der-olympischen-spiele-um-20-prozent-a-6e202763-e24c-4d5b-948d-3b73fe7a0ee8#ref=rss)
-### china
-
-* [https://www.spiegel.de/ausland/taiwan-wie-gefaehrlich-sind-chinas-militaermanoever-rund-um-den-inselstaat](https://www.spiegel.de/ausland/taiwan-wie-gefaehrlich-sind-chinas-militaermanoever-rund-um-den-inselstaat-a-699c9256-e312-41fe-93aa-97604127dcb7#ref=rss)
-* [https://www.spiegel.de/ausland/china-veroeffentlicht-video-von-grossmanoever-vor-taiwan-warnung-und-bestrafung](https://www.spiegel.de/ausland/china-veroeffentlicht-video-von-grossmanoever-vor-taiwan-warnung-und-bestrafung-a-55f2ce79-9954-4a50-9201-2e4c1c62e05c#ref=rss)
-### london
-
-* [https://www.spiegel.de/kultur/literatur/blue-ruin-von-hari-kunzru-die-kunst-frisst-ihre-kinder](https://www.spiegel.de/kultur/literatur/blue-ruin-von-hari-kunzru-die-kunst-frisst-ihre-kinder-a-c61eb17b-a396-49a8-a41e-204c834997f1#ref=rss)
-* [https://www.spiegel.de/kultur/tv/buying-london-auf-netflix-von-tiger-innen-und-anderen-immobilienhaien](https://www.spiegel.de/kultur/tv/buying-london-auf-netflix-von-tiger-innen-und-anderen-immobilienhaien-a-f531678c-90b6-4c3b-bab0-4e6a51dc1a51#ref=rss)
-### schreibt
-
-* [https://www.spiegel.de/politik/deutschland/daran-zweifel-zu-wecken-schadet-unserer-demokratie](https://www.spiegel.de/politik/deutschland/daran-zweifel-zu-wecken-schadet-unserer-demokratie-a-175c7f5a-0b05-4534-be73-c98d9e66c547#ref=rss)
-* [https://www.spiegel.de/kultur/ciani-sophia-hoeder-schreibt-ueber-den-klassenkampf-vom-tellerwaescher-zum-tellerwaescher](https://www.spiegel.de/kultur/ciani-sophia-hoeder-schreibt-ueber-den-klassenkampf-vom-tellerwaescher-zum-tellerwaescher-a-3dc6c284-0aa2-43f9-adbc-6ec7ba9d69d9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/usa-wetterbehoerde-warnt-vor-schwerer-hurrikan-saison](https://www.spiegel.de/wissenschaft/natur/usa-wetterbehoerde-warnt-vor-schwerer-hurrikan-saison-a-da474aeb-6eff-4f0b-8e5f-8a1030b0818c#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/google-ki-suche-empfiehlt-klebstoff-zum-pizzabacken](https://www.spiegel.de/netzwelt/web/google-ki-suche-empfiehlt-klebstoff-zum-pizzabacken-a-a4b0ff1a-40ad-44c8-b879-f39315a865c7#ref=rss)
 ### berlin
 
-* [https://www.spiegel.de/panorama/justiz/alexander-zverev-prozess-gegen-tennisprofi-weil-er-geldstrafe-nicht-akzeptiert](https://www.spiegel.de/panorama/justiz/alexander-zverev-prozess-gegen-tennisprofi-weil-er-geldstrafe-nicht-akzeptiert-a-8d0add76-b15f-4712-85d1-9d354d616519#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-holt-bo-svensson-als-neuen-trainer](https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-holt-bo-svensson-als-neuen-trainer-a-533b8b3a-1304-406f-be22-98a2080de815#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/sport/fussball/hamburger-sv-stefan-kuntz-soll-den-hsv-zurueck-in-die-bundesliga-fuehren](https://www.spiegel.de/sport/fussball/hamburger-sv-stefan-kuntz-soll-den-hsv-zurueck-in-die-bundesliga-fuehren-a-1cf206d0-15cb-4b93-bce9-67432010f1f0#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-holt-bo-svensson-als-neuen-trainer](https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-holt-bo-svensson-als-neuen-trainer-a-533b8b3a-1304-406f-be22-98a2080de815#ref=rss)
-* [https://www.spiegel.de/kultur/ciani-sophia-hoeder-schreibt-ueber-den-klassenkampf-vom-tellerwaescher-zum-tellerwaescher](https://www.spiegel.de/kultur/ciani-sophia-hoeder-schreibt-ueber-den-klassenkampf-vom-tellerwaescher-zum-tellerwaescher-a-3dc6c284-0aa2-43f9-adbc-6ec7ba9d69d9#ref=rss)
-### neue
-
-* [https://www.spiegel.de/ausland/ukraine-worauf-es-im-krieg-jetzt-wirklich-ankommt](https://www.spiegel.de/ausland/ukraine-worauf-es-im-krieg-jetzt-wirklich-ankommt-a-59f38cb2-be63-4f2f-a100-55f64810bcdb#ref=rss)
-* [https://www.spiegel.de/panorama/paris-eiffelturm-erhoeht-preise-kurz-vor-beginn-der-olympischen-spiele-um-20-prozent](https://www.spiegel.de/panorama/paris-eiffelturm-erhoeht-preise-kurz-vor-beginn-der-olympischen-spiele-um-20-prozent-a-6e202763-e24c-4d5b-948d-3b73fe7a0ee8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-fc-bayern-muenchen-vincent-kompany-75-jahre-grundgesetz-carola-rackete](https://www.spiegel.de/politik/deutschland/news-des-tages-fc-bayern-muenchen-vincent-kompany-75-jahre-grundgesetz-carola-rackete-a-38a75fb0-2904-453a-b76b-15438138b248#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-fc-bayern-muenchen-vincent-kompany-75-jahre-grundgesetz-carola-rackete](https://www.spiegel.de/politik/deutschland/news-des-tages-fc-bayern-muenchen-vincent-kompany-75-jahre-grundgesetz-carola-rackete-a-38a75fb0-2904-453a-b76b-15438138b248#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-vincent-kompany-hoffen-auf-den-xabi-alonso-effekt](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-vincent-kompany-hoffen-auf-den-xabi-alonso-effekt-a-52f87bb0-d779-46a1-ba55-ba29ff2ad4bf#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/panorama/justiz/heinrich-xiii-prinz-reuss-prozess-gegen-mutmassliches-reichsbuerger-netzwerk-beginnt-mit-ersten-verteidigern](https://www.spiegel.de/panorama/justiz/heinrich-xiii-prinz-reuss-prozess-gegen-mutmassliches-reichsbuerger-netzwerk-beginnt-mit-ersten-verteidigern-a-86712485-1de2-4eb7-81e6-86b4df6cd707#ref=rss)
-* [https://www.spiegel.de/sport/tennis/french-open-2024-alexander-zverev-gegen-rafael-nadal-showdown-in-der-ersten-runde](https://www.spiegel.de/sport/tennis/french-open-2024-alexander-zverev-gegen-rafael-nadal-showdown-in-der-ersten-runde-a-8dc759b6-ceb5-4064-b385-5558656da186#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/sport/eishockey/eishockey-wm-deutschland-verliert-gegen-lieblingsgegner-schweiz-und-scheidet-aus-dem-turnier-aus](https://www.spiegel.de/sport/eishockey/eishockey-wm-deutschland-verliert-gegen-lieblingsgegner-schweiz-und-scheidet-aus-dem-turnier-aus-a-7b343ef5-465d-495d-b23f-112089f35aa2#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/sterblichkeitstrends-in-europa-warum-deutschland-bei-der-lebenserwartung-zurueckfaellt](https://www.spiegel.de/wissenschaft/medizin/sterblichkeitstrends-in-europa-warum-deutschland-bei-der-lebenserwartung-zurueckfaellt-a-a8d8d99b-7b6e-4e89-9c75-f052e8e0fd02#ref=rss)
-### schweiz
-
-* [https://www.spiegel.de/sport/eishockey/eishockey-wm-deutschland-verliert-gegen-lieblingsgegner-schweiz-und-scheidet-aus-dem-turnier-aus](https://www.spiegel.de/sport/eishockey/eishockey-wm-deutschland-verliert-gegen-lieblingsgegner-schweiz-und-scheidet-aus-dem-turnier-aus-a-7b343ef5-465d-495d-b23f-112089f35aa2#ref=rss)
-### turnier
-
-* [https://www.spiegel.de/sport/eishockey/eishockey-wm-deutschland-verliert-gegen-lieblingsgegner-schweiz-und-scheidet-aus-dem-turnier-aus](https://www.spiegel.de/sport/eishockey/eishockey-wm-deutschland-verliert-gegen-lieblingsgegner-schweiz-und-scheidet-aus-dem-turnier-aus-a-7b343ef5-465d-495d-b23f-112089f35aa2#ref=rss)
-### thyssenkrupp
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-aufsichtsrat-stimmt-investoreneinstieg-zu](https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-aufsichtsrat-stimmt-investoreneinstieg-zu-a-f20ca481-27cc-4222-91af-c65d007a5f4f#ref=rss)
-### aufsichtsrat
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-aufsichtsrat-stimmt-investoreneinstieg-zu](https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-aufsichtsrat-stimmt-investoreneinstieg-zu-a-f20ca481-27cc-4222-91af-c65d007a5f4f#ref=rss)
-### lebenserwartung
-
-* [https://www.spiegel.de/wissenschaft/medizin/sterblichkeitstrends-in-europa-warum-deutschland-bei-der-lebenserwartung-zurueckfaellt](https://www.spiegel.de/wissenschaft/medizin/sterblichkeitstrends-in-europa-warum-deutschland-bei-der-lebenserwartung-zurueckfaellt-a-a8d8d99b-7b6e-4e89-9c75-f052e8e0fd02#ref=rss)
-### gehört
-
-* [https://www.spiegel.de/wissenschaft/medizin/sterblichkeitstrends-in-europa-warum-deutschland-bei-der-lebenserwartung-zurueckfaellt](https://www.spiegel.de/wissenschaft/medizin/sterblichkeitstrends-in-europa-warum-deutschland-bei-der-lebenserwartung-zurueckfaellt-a-a8d8d99b-7b6e-4e89-9c75-f052e8e0fd02#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/alexander-zverev-prozess-gegen-tennisprofi-weil-er-geldstrafe-nicht-akzeptiert](https://www.spiegel.de/panorama/justiz/alexander-zverev-prozess-gegen-tennisprofi-weil-er-geldstrafe-nicht-akzeptiert-a-8d0add76-b15f-4712-85d1-9d354d616519#ref=rss)
-### militärmanöver
-
-* [https://www.spiegel.de/ausland/taiwan-wie-gefaehrlich-sind-chinas-militaermanoever-rund-um-den-inselstaat](https://www.spiegel.de/ausland/taiwan-wie-gefaehrlich-sind-chinas-militaermanoever-rund-um-den-inselstaat-a-699c9256-e312-41fe-93aa-97604127dcb7#ref=rss)
-* [https://www.spiegel.de/ausland/china-veroeffentlicht-video-von-grossmanoever-vor-taiwan-warnung-und-bestrafung](https://www.spiegel.de/ausland/china-veroeffentlicht-video-von-grossmanoever-vor-taiwan-warnung-und-bestrafung-a-55f2ce79-9954-4a50-9201-2e4c1c62e05c#ref=rss)
-### inselstaat
-
-* [https://www.spiegel.de/ausland/taiwan-wie-gefaehrlich-sind-chinas-militaermanoever-rund-um-den-inselstaat](https://www.spiegel.de/ausland/taiwan-wie-gefaehrlich-sind-chinas-militaermanoever-rund-um-den-inselstaat-a-699c9256-e312-41fe-93aa-97604127dcb7#ref=rss)
-### taiwans
-
-* [https://www.spiegel.de/ausland/taiwan-wie-gefaehrlich-sind-chinas-militaermanoever-rund-um-den-inselstaat](https://www.spiegel.de/ausland/taiwan-wie-gefaehrlich-sind-chinas-militaermanoever-rund-um-den-inselstaat-a-699c9256-e312-41fe-93aa-97604127dcb7#ref=rss)
-* [https://www.spiegel.de/ausland/china-veroeffentlicht-video-von-grossmanoever-vor-taiwan-warnung-und-bestrafung](https://www.spiegel.de/ausland/china-veroeffentlicht-video-von-grossmanoever-vor-taiwan-warnung-und-bestrafung-a-55f2ce79-9954-4a50-9201-2e4c1c62e05c#ref=rss)
-### begonnen
-
-* [https://www.spiegel.de/ausland/taiwan-wie-gefaehrlich-sind-chinas-militaermanoever-rund-um-den-inselstaat](https://www.spiegel.de/ausland/taiwan-wie-gefaehrlich-sind-chinas-militaermanoever-rund-um-den-inselstaat-a-699c9256-e312-41fe-93aa-97604127dcb7#ref=rss)
-* [https://www.spiegel.de/ausland/philippinen-die-schlammschlacht-hat-zwei-jahre-nach-den-wahlen-gerade-erst-begonnen](https://www.spiegel.de/ausland/philippinen-die-schlammschlacht-hat-zwei-jahre-nach-den-wahlen-gerade-erst-begonnen-a-b811a32d-234f-4d7b-bad6-c73a692849a3#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/china-veroeffentlicht-video-von-grossmanoever-vor-taiwan-warnung-und-bestrafung](https://www.spiegel.de/ausland/china-veroeffentlicht-video-von-grossmanoever-vor-taiwan-warnung-und-bestrafung-a-55f2ce79-9954-4a50-9201-2e4c1c62e05c#ref=rss)
-* [https://www.spiegel.de/ausland/philippinen-die-schlammschlacht-hat-zwei-jahre-nach-den-wahlen-gerade-erst-begonnen](https://www.spiegel.de/ausland/philippinen-die-schlammschlacht-hat-zwei-jahre-nach-den-wahlen-gerade-erst-begonnen-a-b811a32d-234f-4d7b-bad6-c73a692849a3#ref=rss)
-### große
-
-* [https://www.spiegel.de/ausland/china-veroeffentlicht-video-von-grossmanoever-vor-taiwan-warnung-und-bestrafung](https://www.spiegel.de/ausland/china-veroeffentlicht-video-von-grossmanoever-vor-taiwan-warnung-und-bestrafung-a-55f2ce79-9954-4a50-9201-2e4c1c62e05c#ref=rss)
-* [https://www.spiegel.de/kultur/kino/filmfestspiele-von-cannes-demi-moore-emma-stone-und-marcello-mastroianni-a-star-is-re-born](https://www.spiegel.de/kultur/kino/filmfestspiele-von-cannes-demi-moore-emma-stone-und-marcello-mastroianni-a-star-is-re-born-a-0655baba-06f9-4495-b02b-05f379463390#ref=rss)
-### blue
-
-* [https://www.spiegel.de/kultur/literatur/blue-ruin-von-hari-kunzru-die-kunst-frisst-ihre-kinder](https://www.spiegel.de/kultur/literatur/blue-ruin-von-hari-kunzru-die-kunst-frisst-ihre-kinder-a-c61eb17b-a396-49a8-a41e-204c834997f1#ref=rss)
-### ruin
-
-* [https://www.spiegel.de/kultur/literatur/blue-ruin-von-hari-kunzru-die-kunst-frisst-ihre-kinder](https://www.spiegel.de/kultur/literatur/blue-ruin-von-hari-kunzru-die-kunst-frisst-ihre-kinder-a-c61eb17b-a396-49a8-a41e-204c834997f1#ref=rss)
-### hari
-
-* [https://www.spiegel.de/kultur/literatur/blue-ruin-von-hari-kunzru-die-kunst-frisst-ihre-kinder](https://www.spiegel.de/kultur/literatur/blue-ruin-von-hari-kunzru-die-kunst-frisst-ihre-kinder-a-c61eb17b-a396-49a8-a41e-204c834997f1#ref=rss)
-### kunzru
-
-* [https://www.spiegel.de/kultur/literatur/blue-ruin-von-hari-kunzru-die-kunst-frisst-ihre-kinder](https://www.spiegel.de/kultur/literatur/blue-ruin-von-hari-kunzru-die-kunst-frisst-ihre-kinder-a-c61eb17b-a396-49a8-a41e-204c834997f1#ref=rss)
-### klecks
-
-* [https://www.spiegel.de/kultur/literatur/blue-ruin-von-hari-kunzru-die-kunst-frisst-ihre-kinder](https://www.spiegel.de/kultur/literatur/blue-ruin-von-hari-kunzru-die-kunst-frisst-ihre-kinder-a-c61eb17b-a396-49a8-a41e-204c834997f1#ref=rss)
-### tochter
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/konzertpreise-us-regierung-will-ticketmaster-mutterkonzern-zerschlagen](https://www.spiegel.de/wirtschaft/unternehmen/konzertpreise-us-regierung-will-ticketmaster-mutterkonzern-zerschlagen-a-1c737c1d-8b71-4b82-aca6-9240c65bf39b#ref=rss)
-* [https://www.spiegel.de/kultur/ciani-sophia-hoeder-schreibt-ueber-den-klassenkampf-vom-tellerwaescher-zum-tellerwaescher](https://www.spiegel.de/kultur/ciani-sophia-hoeder-schreibt-ueber-den-klassenkampf-vom-tellerwaescher-zum-tellerwaescher-a-3dc6c284-0aa2-43f9-adbc-6ec7ba9d69d9#ref=rss)
-### preise
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/konzertpreise-us-regierung-will-ticketmaster-mutterkonzern-zerschlagen](https://www.spiegel.de/wirtschaft/unternehmen/konzertpreise-us-regierung-will-ticketmaster-mutterkonzern-zerschlagen-a-1c737c1d-8b71-4b82-aca6-9240c65bf39b#ref=rss)
-* [https://www.spiegel.de/panorama/paris-eiffelturm-erhoeht-preise-kurz-vor-beginn-der-olympischen-spiele-um-20-prozent](https://www.spiegel.de/panorama/paris-eiffelturm-erhoeht-preise-kurz-vor-beginn-der-olympischen-spiele-um-20-prozent-a-6e202763-e24c-4d5b-948d-3b73fe7a0ee8#ref=rss)
-### serien
-
-* [https://www.spiegel.de/sport/stephen-curry-joe-dimaggio-katie-ledecky-spektakulaere-serien-der-sport-geschichte](https://www.spiegel.de/sport/stephen-curry-joe-dimaggio-katie-ledecky-spektakulaere-serien-der-sport-geschichte-a-fe62eeaf-e850-4bcc-8c9c-15364d1784dd#ref=rss)
-* [https://www.spiegel.de/kultur/tv/buying-london-auf-netflix-von-tiger-innen-und-anderen-immobilienhaien](https://www.spiegel.de/kultur/tv/buying-london-auf-netflix-von-tiger-innen-und-anderen-immobilienhaien-a-f531678c-90b6-4c3b-bab0-4e6a51dc1a51#ref=rss)
-### umweltministerium
-
-* [https://www.spiegel.de/politik/deutschland/daran-zweifel-zu-wecken-schadet-unserer-demokratie](https://www.spiegel.de/politik/deutschland/daran-zweifel-zu-wecken-schadet-unserer-demokratie-a-175c7f5a-0b05-4534-be73-c98d9e66c547#ref=rss)
-### brandbrief
-
-* [https://www.spiegel.de/politik/deutschland/daran-zweifel-zu-wecken-schadet-unserer-demokratie](https://www.spiegel.de/politik/deutschland/daran-zweifel-zu-wecken-schadet-unserer-demokratie-a-175c7f5a-0b05-4534-be73-c98d9e66c547#ref=rss)
-### björn
-
-* [https://www.spiegel.de/kultur/tv/bjoern-hoecke-us-komiker-macht-sich-ueber-afd-politiker-lustig-those-are-nazi-eyes](https://www.spiegel.de/kultur/tv/bjoern-hoecke-us-komiker-macht-sich-ueber-afd-politiker-lustig-those-are-nazi-eyes-a-7a9f5b1e-732a-4524-9b60-f233af9d33ec#ref=rss)
-### höcke
-
-* [https://www.spiegel.de/kultur/tv/bjoern-hoecke-us-komiker-macht-sich-ueber-afd-politiker-lustig-those-are-nazi-eyes](https://www.spiegel.de/kultur/tv/bjoern-hoecke-us-komiker-macht-sich-ueber-afd-politiker-lustig-those-are-nazi-eyes-a-7a9f5b1e-732a-4524-9b60-f233af9d33ec#ref=rss)
-### macht
-
-* [https://www.spiegel.de/kultur/tv/bjoern-hoecke-us-komiker-macht-sich-ueber-afd-politiker-lustig-those-are-nazi-eyes](https://www.spiegel.de/kultur/tv/bjoern-hoecke-us-komiker-macht-sich-ueber-afd-politiker-lustig-those-are-nazi-eyes-a-7a9f5b1e-732a-4524-9b60-f233af9d33ec#ref=rss)
-* [https://www.spiegel.de/sport/fussball/ramsan-kadyrow-macht-18-jaehrigen-sohn-zum-minister-und-fussballklub-praesidenten](https://www.spiegel.de/sport/fussball/ramsan-kadyrow-macht-18-jaehrigen-sohn-zum-minister-und-fussballklub-praesidenten-a-61d08fe0-20a5-4630-9fde-148649d81ec9#ref=rss)
-### nazi
-
-* [https://www.spiegel.de/kultur/tv/bjoern-hoecke-us-komiker-macht-sich-ueber-afd-politiker-lustig-those-are-nazi-eyes](https://www.spiegel.de/kultur/tv/bjoern-hoecke-us-komiker-macht-sich-ueber-afd-politiker-lustig-those-are-nazi-eyes-a-7a9f5b1e-732a-4524-9b60-f233af9d33ec#ref=rss)
-### eyes
-
-* [https://www.spiegel.de/kultur/tv/bjoern-hoecke-us-komiker-macht-sich-ueber-afd-politiker-lustig-those-are-nazi-eyes](https://www.spiegel.de/kultur/tv/bjoern-hoecke-us-komiker-macht-sich-ueber-afd-politiker-lustig-those-are-nazi-eyes-a-7a9f5b1e-732a-4524-9b60-f233af9d33ec#ref=rss)
-### tennisprofi
-
-* [https://www.spiegel.de/panorama/justiz/alexander-zverev-prozess-gegen-tennisprofi-weil-er-geldstrafe-nicht-akzeptiert](https://www.spiegel.de/panorama/justiz/alexander-zverev-prozess-gegen-tennisprofi-weil-er-geldstrafe-nicht-akzeptiert-a-8d0add76-b15f-4712-85d1-9d354d616519#ref=rss)
-### geldstrafe
-
-* [https://www.spiegel.de/panorama/justiz/alexander-zverev-prozess-gegen-tennisprofi-weil-er-geldstrafe-nicht-akzeptiert](https://www.spiegel.de/panorama/justiz/alexander-zverev-prozess-gegen-tennisprofi-weil-er-geldstrafe-nicht-akzeptiert-a-8d0add76-b15f-4712-85d1-9d354d616519#ref=rss)
-### french
-
-* [https://www.spiegel.de/panorama/justiz/alexander-zverev-prozess-gegen-tennisprofi-weil-er-geldstrafe-nicht-akzeptiert](https://www.spiegel.de/panorama/justiz/alexander-zverev-prozess-gegen-tennisprofi-weil-er-geldstrafe-nicht-akzeptiert-a-8d0add76-b15f-4712-85d1-9d354d616519#ref=rss)
-* [https://www.spiegel.de/sport/tennis/french-open-2024-alexander-zverev-gegen-rafael-nadal-showdown-in-der-ersten-runde](https://www.spiegel.de/sport/tennis/french-open-2024-alexander-zverev-gegen-rafael-nadal-showdown-in-der-ersten-runde-a-8dc759b6-ceb5-4064-b385-5558656da186#ref=rss)
-### open
-
-* [https://www.spiegel.de/panorama/justiz/alexander-zverev-prozess-gegen-tennisprofi-weil-er-geldstrafe-nicht-akzeptiert](https://www.spiegel.de/panorama/justiz/alexander-zverev-prozess-gegen-tennisprofi-weil-er-geldstrafe-nicht-akzeptiert-a-8d0add76-b15f-4712-85d1-9d354d616519#ref=rss)
-* [https://www.spiegel.de/sport/tennis/french-open-2024-alexander-zverev-gegen-rafael-nadal-showdown-in-der-ersten-runde](https://www.spiegel.de/sport/tennis/french-open-2024-alexander-zverev-gegen-rafael-nadal-showdown-in-der-ersten-runde-a-8dc759b6-ceb5-4064-b385-5558656da186#ref=rss)
-### fico
-
-* [https://www.spiegel.de/ausland/slowakei-nach-attentat-auf-robert-fico-bestreitet-angreifer-mordabsicht](https://www.spiegel.de/ausland/slowakei-nach-attentat-auf-robert-fico-bestreitet-angreifer-mordabsicht-a-79531914-672a-4ba0-9cb7-df185cd0205d#ref=rss)
-### angreifer
-
-* [https://www.spiegel.de/ausland/slowakei-nach-attentat-auf-robert-fico-bestreitet-angreifer-mordabsicht](https://www.spiegel.de/ausland/slowakei-nach-attentat-auf-robert-fico-bestreitet-angreifer-mordabsicht-a-79531914-672a-4ba0-9cb7-df185cd0205d#ref=rss)
-### allein
-
-* [https://www.spiegel.de/ausland/slowakei-nach-attentat-auf-robert-fico-bestreitet-angreifer-mordabsicht](https://www.spiegel.de/ausland/slowakei-nach-attentat-auf-robert-fico-bestreitet-angreifer-mordabsicht-a-79531914-672a-4ba0-9cb7-df185cd0205d#ref=rss)
-* [https://www.spiegel.de/panorama/leute/bill-kaulitz-ich-habe-schwierigkeiten-mich-zu-oeffnen](https://www.spiegel.de/panorama/leute/bill-kaulitz-ich-habe-schwierigkeiten-mich-zu-oeffnen-a-85a19c02-a513-4306-b8ab-4a5c02257d8b#ref=rss)
-### stefan
-
-* [https://www.spiegel.de/sport/fussball/hamburger-sv-stefan-kuntz-soll-den-hsv-zurueck-in-die-bundesliga-fuehren](https://www.spiegel.de/sport/fussball/hamburger-sv-stefan-kuntz-soll-den-hsv-zurueck-in-die-bundesliga-fuehren-a-1cf206d0-15cb-4b93-bce9-67432010f1f0#ref=rss)
-### kuntz
-
-* [https://www.spiegel.de/sport/fussball/hamburger-sv-stefan-kuntz-soll-den-hsv-zurueck-in-die-bundesliga-fuehren](https://www.spiegel.de/sport/fussball/hamburger-sv-stefan-kuntz-soll-den-hsv-zurueck-in-die-bundesliga-fuehren-a-1cf206d0-15cb-4b93-bce9-67432010f1f0#ref=rss)
-### hsv
-
-* [https://www.spiegel.de/sport/fussball/hamburger-sv-stefan-kuntz-soll-den-hsv-zurueck-in-die-bundesliga-fuehren](https://www.spiegel.de/sport/fussball/hamburger-sv-stefan-kuntz-soll-den-hsv-zurueck-in-die-bundesliga-fuehren-a-1cf206d0-15cb-4b93-bce9-67432010f1f0#ref=rss)
-### bundesliga
-
-* [https://www.spiegel.de/sport/fussball/hamburger-sv-stefan-kuntz-soll-den-hsv-zurueck-in-die-bundesliga-fuehren](https://www.spiegel.de/sport/fussball/hamburger-sv-stefan-kuntz-soll-den-hsv-zurueck-in-die-bundesliga-fuehren-a-1cf206d0-15cb-4b93-bce9-67432010f1f0#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/ukraine-worauf-es-im-krieg-jetzt-wirklich-ankommt](https://www.spiegel.de/ausland/ukraine-worauf-es-im-krieg-jetzt-wirklich-ankommt-a-59f38cb2-be63-4f2f-a100-55f64810bcdb#ref=rss)
-### lage
-
-* [https://www.spiegel.de/ausland/ukraine-worauf-es-im-krieg-jetzt-wirklich-ankommt](https://www.spiegel.de/ausland/ukraine-worauf-es-im-krieg-jetzt-wirklich-ankommt-a-59f38cb2-be63-4f2f-a100-55f64810bcdb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-fc-bayern-muenchen-vincent-kompany-75-jahre-grundgesetz-carola-rackete](https://www.spiegel.de/politik/deutschland/news-des-tages-fc-bayern-muenchen-vincent-kompany-75-jahre-grundgesetz-carola-rackete-a-38a75fb0-2904-453a-b76b-15438138b248#ref=rss)
-### cannes
-
-* [https://www.spiegel.de/kultur/kino/filmfestspiele-von-cannes-demi-moore-emma-stone-und-marcello-mastroianni-a-star-is-re-born](https://www.spiegel.de/kultur/kino/filmfestspiele-von-cannes-demi-moore-emma-stone-und-marcello-mastroianni-a-star-is-re-born-a-0655baba-06f9-4495-b02b-05f379463390#ref=rss)
-### demi
-
-* [https://www.spiegel.de/kultur/kino/filmfestspiele-von-cannes-demi-moore-emma-stone-und-marcello-mastroianni-a-star-is-re-born](https://www.spiegel.de/kultur/kino/filmfestspiele-von-cannes-demi-moore-emma-stone-und-marcello-mastroianni-a-star-is-re-born-a-0655baba-06f9-4495-b02b-05f379463390#ref=rss)
-### moore
-
-* [https://www.spiegel.de/kultur/kino/filmfestspiele-von-cannes-demi-moore-emma-stone-und-marcello-mastroianni-a-star-is-re-born](https://www.spiegel.de/kultur/kino/filmfestspiele-von-cannes-demi-moore-emma-stone-und-marcello-mastroianni-a-star-is-re-born-a-0655baba-06f9-4495-b02b-05f379463390#ref=rss)
-### emma
-
-* [https://www.spiegel.de/kultur/kino/filmfestspiele-von-cannes-demi-moore-emma-stone-und-marcello-mastroianni-a-star-is-re-born](https://www.spiegel.de/kultur/kino/filmfestspiele-von-cannes-demi-moore-emma-stone-und-marcello-mastroianni-a-star-is-re-born-a-0655baba-06f9-4495-b02b-05f379463390#ref=rss)
-### stone
-
-* [https://www.spiegel.de/kultur/kino/filmfestspiele-von-cannes-demi-moore-emma-stone-und-marcello-mastroianni-a-star-is-re-born](https://www.spiegel.de/kultur/kino/filmfestspiele-von-cannes-demi-moore-emma-stone-und-marcello-mastroianni-a-star-is-re-born-a-0655baba-06f9-4495-b02b-05f379463390#ref=rss)
-### marcello
-
-* [https://www.spiegel.de/kultur/kino/filmfestspiele-von-cannes-demi-moore-emma-stone-und-marcello-mastroianni-a-star-is-re-born](https://www.spiegel.de/kultur/kino/filmfestspiele-von-cannes-demi-moore-emma-stone-und-marcello-mastroianni-a-star-is-re-born-a-0655baba-06f9-4495-b02b-05f379463390#ref=rss)
-### mastroianni
-
-* [https://www.spiegel.de/kultur/kino/filmfestspiele-von-cannes-demi-moore-emma-stone-und-marcello-mastroianni-a-star-is-re-born](https://www.spiegel.de/kultur/kino/filmfestspiele-von-cannes-demi-moore-emma-stone-und-marcello-mastroianni-a-star-is-re-born-a-0655baba-06f9-4495-b02b-05f379463390#ref=rss)
-### paris
-
-* [https://www.spiegel.de/panorama/paris-eiffelturm-erhoeht-preise-kurz-vor-beginn-der-olympischen-spiele-um-20-prozent](https://www.spiegel.de/panorama/paris-eiffelturm-erhoeht-preise-kurz-vor-beginn-der-olympischen-spiele-um-20-prozent-a-6e202763-e24c-4d5b-948d-3b73fe7a0ee8#ref=rss)
-* [https://www.spiegel.de/sport/tennis/french-open-2024-alexander-zverev-gegen-rafael-nadal-showdown-in-der-ersten-runde](https://www.spiegel.de/sport/tennis/french-open-2024-alexander-zverev-gegen-rafael-nadal-showdown-in-der-ersten-runde-a-8dc759b6-ceb5-4064-b385-5558656da186#ref=rss)
-### olympischen
-
-* [https://www.spiegel.de/panorama/paris-eiffelturm-erhoeht-preise-kurz-vor-beginn-der-olympischen-spiele-um-20-prozent](https://www.spiegel.de/panorama/paris-eiffelturm-erhoeht-preise-kurz-vor-beginn-der-olympischen-spiele-um-20-prozent-a-6e202763-e24c-4d5b-948d-3b73fe7a0ee8#ref=rss)
-### spiele
-
-* [https://www.spiegel.de/panorama/paris-eiffelturm-erhoeht-preise-kurz-vor-beginn-der-olympischen-spiele-um-20-prozent](https://www.spiegel.de/panorama/paris-eiffelturm-erhoeht-preise-kurz-vor-beginn-der-olympischen-spiele-um-20-prozent-a-6e202763-e24c-4d5b-948d-3b73fe7a0ee8#ref=rss)
-### rolf
-
-* [https://www.spiegel.de/wirtschaft/ein-satz-der-wirtschaftsgeschichte-schrieb](https://www.spiegel.de/wirtschaft/ein-satz-der-wirtschaftsgeschichte-schrieb-a-3dfe0fd3-f7c9-4035-8a41-1dcf3e6ac101#ref=rss)
-### breuer
-
-* [https://www.spiegel.de/wirtschaft/ein-satz-der-wirtschaftsgeschichte-schrieb](https://www.spiegel.de/wirtschaft/ein-satz-der-wirtschaftsgeschichte-schrieb-a-3dfe0fd3-f7c9-4035-8a41-1dcf3e6ac101#ref=rss)
-### chef
-
-* [https://www.spiegel.de/wirtschaft/ein-satz-der-wirtschaftsgeschichte-schrieb](https://www.spiegel.de/wirtschaft/ein-satz-der-wirtschaftsgeschichte-schrieb-a-3dfe0fd3-f7c9-4035-8a41-1dcf3e6ac101#ref=rss)
-* [https://www.spiegel.de/sport/fussball/ramsan-kadyrow-macht-18-jaehrigen-sohn-zum-minister-und-fussballklub-praesidenten](https://www.spiegel.de/sport/fussball/ramsan-kadyrow-macht-18-jaehrigen-sohn-zum-minister-und-fussballklub-praesidenten-a-61d08fe0-20a5-4630-9fde-148649d81ec9#ref=rss)
-### einflussreichsten
-
-* [https://www.spiegel.de/wirtschaft/ein-satz-der-wirtschaftsgeschichte-schrieb](https://www.spiegel.de/wirtschaft/ein-satz-der-wirtschaftsgeschichte-schrieb-a-3dfe0fd3-f7c9-4035-8a41-1dcf3e6ac101#ref=rss)
-* [https://www.spiegel.de/ausland/philippinen-die-schlammschlacht-hat-zwei-jahre-nach-den-wahlen-gerade-erst-begonnen](https://www.spiegel.de/ausland/philippinen-die-schlammschlacht-hat-zwei-jahre-nach-den-wahlen-gerade-erst-begonnen-a-b811a32d-234f-4d7b-bad6-c73a692849a3#ref=rss)
-### allem
-
-* [https://www.spiegel.de/wirtschaft/ein-satz-der-wirtschaftsgeschichte-schrieb](https://www.spiegel.de/wirtschaft/ein-satz-der-wirtschaftsgeschichte-schrieb-a-3dfe0fd3-f7c9-4035-8a41-1dcf3e6ac101#ref=rss)
-* [https://www.spiegel.de/politik/europaparlament-rechtsaussen-fraktion-id-schliesst-alle-afd-abgeordneten-aus](https://www.spiegel.de/politik/europaparlament-rechtsaussen-fraktion-id-schliesst-alle-afd-abgeordneten-aus-a-c6b530e4-5121-4d47-94b9-e64983c9a403#ref=rss)
-### 75
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-fc-bayern-muenchen-vincent-kompany-75-jahre-grundgesetz-carola-rackete](https://www.spiegel.de/politik/deutschland/news-des-tages-fc-bayern-muenchen-vincent-kompany-75-jahre-grundgesetz-carola-rackete-a-38a75fb0-2904-453a-b76b-15438138b248#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-fc-bayern-muenchen-vincent-kompany-75-jahre-grundgesetz-carola-rackete](https://www.spiegel.de/politik/deutschland/news-des-tages-fc-bayern-muenchen-vincent-kompany-75-jahre-grundgesetz-carola-rackete-a-38a75fb0-2904-453a-b76b-15438138b248#ref=rss)
-* [https://www.spiegel.de/ausland/philippinen-die-schlammschlacht-hat-zwei-jahre-nach-den-wahlen-gerade-erst-begonnen](https://www.spiegel.de/ausland/philippinen-die-schlammschlacht-hat-zwei-jahre-nach-den-wahlen-gerade-erst-begonnen-a-b811a32d-234f-4d7b-bad6-c73a692849a3#ref=rss)
-### grundgesetz
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-fc-bayern-muenchen-vincent-kompany-75-jahre-grundgesetz-carola-rackete](https://www.spiegel.de/politik/deutschland/news-des-tages-fc-bayern-muenchen-vincent-kompany-75-jahre-grundgesetz-carola-rackete-a-38a75fb0-2904-453a-b76b-15438138b248#ref=rss)
-### carola
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-fc-bayern-muenchen-vincent-kompany-75-jahre-grundgesetz-carola-rackete](https://www.spiegel.de/politik/deutschland/news-des-tages-fc-bayern-muenchen-vincent-kompany-75-jahre-grundgesetz-carola-rackete-a-38a75fb0-2904-453a-b76b-15438138b248#ref=rss)
-### rackete
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-fc-bayern-muenchen-vincent-kompany-75-jahre-grundgesetz-carola-rackete](https://www.spiegel.de/politik/deutschland/news-des-tages-fc-bayern-muenchen-vincent-kompany-75-jahre-grundgesetz-carola-rackete-a-38a75fb0-2904-453a-b76b-15438138b248#ref=rss)
-### trainer
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-fc-bayern-muenchen-vincent-kompany-75-jahre-grundgesetz-carola-rackete](https://www.spiegel.de/politik/deutschland/news-des-tages-fc-bayern-muenchen-vincent-kompany-75-jahre-grundgesetz-carola-rackete-a-38a75fb0-2904-453a-b76b-15438138b248#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-holt-bo-svensson-als-neuen-trainer](https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-holt-bo-svensson-als-neuen-trainer-a-533b8b3a-1304-406f-be22-98a2080de815#ref=rss)
+* [https://www.spiegel.de/politik/migration-und-fluechtlinge-laender-ueben-harsche-kritik-an-abschiebeexperten-des-bundes](https://www.spiegel.de/politik/migration-und-fluechtlinge-laender-ueben-harsche-kritik-an-abschiebeexperten-des-bundes-a-751b48f1-f228-43a1-8d4f-f69d2ff1a3c1#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-mann-soll-sexpartner-k-o-tropfen-verabreicht-und-getoetet-haben](https://www.spiegel.de/panorama/justiz/berlin-mann-soll-sexpartner-k-o-tropfen-verabreicht-und-getoetet-haben-a-2f1c60af-d24f-439e-9821-3ccd6e3c4e18#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-holt-bo-svensson-als-neuen-trainer](https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-holt-bo-svensson-als-neuen-trainer-a-533b8b3a-1304-406f-be22-98a2080de815#ref=rss)
-* [https://www.spiegel.de/ausland/philippinen-die-schlammschlacht-hat-zwei-jahre-nach-den-wahlen-gerade-erst-begonnen](https://www.spiegel.de/ausland/philippinen-die-schlammschlacht-hat-zwei-jahre-nach-den-wahlen-gerade-erst-begonnen-a-b811a32d-234f-4d7b-bad6-c73a692849a3#ref=rss)
-### erst
+* [https://www.spiegel.de/panorama/justiz/berlin-mann-soll-sexpartner-k-o-tropfen-verabreicht-und-getoetet-haben](https://www.spiegel.de/panorama/justiz/berlin-mann-soll-sexpartner-k-o-tropfen-verabreicht-und-getoetet-haben-a-2f1c60af-d24f-439e-9821-3ccd6e3c4e18#ref=rss)
+* [https://www.spiegel.de/panorama/mallorca-zwei-deutsche-unter-todesopfern-von-eingestuerztem-beach-club](https://www.spiegel.de/panorama/mallorca-zwei-deutsche-unter-todesopfern-von-eingestuerztem-beach-club-a-7cc15010-f499-4e37-aef6-88363ae22839#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-holt-bo-svensson-als-neuen-trainer](https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-holt-bo-svensson-als-neuen-trainer-a-533b8b3a-1304-406f-be22-98a2080de815#ref=rss)
-* [https://www.spiegel.de/ausland/philippinen-die-schlammschlacht-hat-zwei-jahre-nach-den-wahlen-gerade-erst-begonnen](https://www.spiegel.de/ausland/philippinen-die-schlammschlacht-hat-zwei-jahre-nach-den-wahlen-gerade-erst-begonnen-a-b811a32d-234f-4d7b-bad6-c73a692849a3#ref=rss)
-### liegt
+* [https://www.spiegel.de/wissenschaft/mensch/gesunde-schokolade-forscher-entwickeln-die-suessware-ohne-suende](https://www.spiegel.de/wissenschaft/mensch/gesunde-schokolade-forscher-entwickeln-die-suessware-ohne-suende-a-ec51c9ab-a97a-4ece-b7fe-399cfa8854e0#ref=rss)
+* [https://www.spiegel.de/panorama/a10-bei-falkensee-bierlaster-kippt-um-fahrer-betrunken](https://www.spiegel.de/panorama/a10-bei-falkensee-bierlaster-kippt-um-fahrer-betrunken-a-63f6282f-c407-4153-8614-6e2046b2a749#ref=rss)
+* [https://www.spiegel.de/politik/europawahl-und-der-rechtsruck-rechtsradikale-nur-ausgrenzen-funktioniert-nicht-mehr](https://www.spiegel.de/politik/europawahl-und-der-rechtsruck-rechtsradikale-nur-ausgrenzen-funktioniert-nicht-mehr-a-7e13fc44-10c3-4d61-8255-8a7668582d30#ref=rss)
+### drei
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-holt-bo-svensson-als-neuen-trainer](https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-holt-bo-svensson-als-neuen-trainer-a-533b8b3a-1304-406f-be22-98a2080de815#ref=rss)
-* [https://www.spiegel.de/kultur/tv/buying-london-auf-netflix-von-tiger-innen-und-anderen-immobilienhaien](https://www.spiegel.de/kultur/tv/buying-london-auf-netflix-von-tiger-innen-und-anderen-immobilienhaien-a-f531678c-90b6-4c3b-bab0-4e6a51dc1a51#ref=rss)
-### kadyrow
+* [https://www.spiegel.de/panorama/a10-bei-falkensee-bierlaster-kippt-um-fahrer-betrunken](https://www.spiegel.de/panorama/a10-bei-falkensee-bierlaster-kippt-um-fahrer-betrunken-a-63f6282f-c407-4153-8614-6e2046b2a749#ref=rss)
+* [https://www.spiegel.de/ausland/israel-israelisches-militaer-birgt-drei-weitere-tote-geiseln-aus-dem-gazastreifen](https://www.spiegel.de/ausland/israel-israelisches-militaer-birgt-drei-weitere-tote-geiseln-aus-dem-gazastreifen-a-bd0486ae-175b-484b-8f61-72f9b7b9ff0b#ref=rss)
+* [https://www.spiegel.de/sport/dwyane-wade-ex-nba-star-gruendet-online-community-fuer-trans-jugendliche](https://www.spiegel.de/sport/dwyane-wade-ex-nba-star-gruendet-online-community-fuer-trans-jugendliche-a-1fefcf5b-f82e-4a26-b7bc-858c039b539e#ref=rss)
+### mallorca
 
-* [https://www.spiegel.de/sport/fussball/ramsan-kadyrow-macht-18-jaehrigen-sohn-zum-minister-und-fussballklub-praesidenten](https://www.spiegel.de/sport/fussball/ramsan-kadyrow-macht-18-jaehrigen-sohn-zum-minister-und-fussballklub-praesidenten-a-61d08fe0-20a5-4630-9fde-148649d81ec9#ref=rss)
-### sohn
+* [https://www.spiegel.de/panorama/mallorca-einsturz-des-medusa-beach-club-am-ballermann-bilder-zeigen-ausmass-der-tragoedie](https://www.spiegel.de/panorama/mallorca-einsturz-des-medusa-beach-club-am-ballermann-bilder-zeigen-ausmass-der-tragoedie-a-cf0673f6-a1b5-4041-a6ba-fcc966b89ad7#ref=rss)
+* [https://www.spiegel.de/panorama/mallorca-zwei-deutsche-unter-todesopfern-von-eingestuerztem-beach-club](https://www.spiegel.de/panorama/mallorca-zwei-deutsche-unter-todesopfern-von-eingestuerztem-beach-club-a-7cc15010-f499-4e37-aef6-88363ae22839#ref=rss)
+### beach
 
-* [https://www.spiegel.de/sport/fussball/ramsan-kadyrow-macht-18-jaehrigen-sohn-zum-minister-und-fussballklub-praesidenten](https://www.spiegel.de/sport/fussball/ramsan-kadyrow-macht-18-jaehrigen-sohn-zum-minister-und-fussballklub-praesidenten-a-61d08fe0-20a5-4630-9fde-148649d81ec9#ref=rss)
-### russischen
+* [https://www.spiegel.de/panorama/mallorca-einsturz-des-medusa-beach-club-am-ballermann-bilder-zeigen-ausmass-der-tragoedie](https://www.spiegel.de/panorama/mallorca-einsturz-des-medusa-beach-club-am-ballermann-bilder-zeigen-ausmass-der-tragoedie-a-cf0673f6-a1b5-4041-a6ba-fcc966b89ad7#ref=rss)
+* [https://www.spiegel.de/panorama/mallorca-zwei-deutsche-unter-todesopfern-von-eingestuerztem-beach-club](https://www.spiegel.de/panorama/mallorca-zwei-deutsche-unter-todesopfern-von-eingestuerztem-beach-club-a-7cc15010-f499-4e37-aef6-88363ae22839#ref=rss)
+### club
 
-* [https://www.spiegel.de/sport/fussball/ramsan-kadyrow-macht-18-jaehrigen-sohn-zum-minister-und-fussballklub-praesidenten](https://www.spiegel.de/sport/fussball/ramsan-kadyrow-macht-18-jaehrigen-sohn-zum-minister-und-fussballklub-praesidenten-a-61d08fe0-20a5-4630-9fde-148649d81ec9#ref=rss)
-* [https://www.spiegel.de/ausland/russland-vize-generalstabschef-offenbar-wegen-korruptionsverdachts-festgenommen](https://www.spiegel.de/ausland/russland-vize-generalstabschef-offenbar-wegen-korruptionsverdachts-festgenommen-a-56f7d80d-8dcd-448b-9ff7-55dcf3fb2732#ref=rss)
-### singapore
+* [https://www.spiegel.de/panorama/mallorca-einsturz-des-medusa-beach-club-am-ballermann-bilder-zeigen-ausmass-der-tragoedie](https://www.spiegel.de/panorama/mallorca-einsturz-des-medusa-beach-club-am-ballermann-bilder-zeigen-ausmass-der-tragoedie-a-cf0673f6-a1b5-4041-a6ba-fcc966b89ad7#ref=rss)
+* [https://www.spiegel.de/panorama/mallorca-zwei-deutsche-unter-todesopfern-von-eingestuerztem-beach-club](https://www.spiegel.de/panorama/mallorca-zwei-deutsche-unter-todesopfern-von-eingestuerztem-beach-club-a-7cc15010-f499-4e37-aef6-88363ae22839#ref=rss)
+### grundgesetz
 
-* [https://www.spiegel.de/panorama/singapore-airlines-verletzte-nach-notlandung-am-ruecken-operiert](https://www.spiegel.de/panorama/singapore-airlines-verletzte-nach-notlandung-am-ruecken-operiert-a-8fc2d687-9667-4021-9319-f0ee066dfa1f#ref=rss)
-### airlines
+* [https://www.spiegel.de/politik/deutschland/75-jahre-grundgesetz-5-vergessene-fakten](https://www.spiegel.de/politik/deutschland/75-jahre-grundgesetz-5-vergessene-fakten-a-e5723446-aa9d-461b-b7a5-0a93503f8913#ref=rss)
+### vergessene
 
-* [https://www.spiegel.de/panorama/singapore-airlines-verletzte-nach-notlandung-am-ruecken-operiert](https://www.spiegel.de/panorama/singapore-airlines-verletzte-nach-notlandung-am-ruecken-operiert-a-8fc2d687-9667-4021-9319-f0ee066dfa1f#ref=rss)
-### heinrich
+* [https://www.spiegel.de/politik/deutschland/75-jahre-grundgesetz-5-vergessene-fakten](https://www.spiegel.de/politik/deutschland/75-jahre-grundgesetz-5-vergessene-fakten-a-e5723446-aa9d-461b-b7a5-0a93503f8913#ref=rss)
+### fakten
 
-* [https://www.spiegel.de/panorama/justiz/heinrich-xiii-prinz-reuss-prozess-gegen-mutmassliches-reichsbuerger-netzwerk-beginnt-mit-ersten-verteidigern](https://www.spiegel.de/panorama/justiz/heinrich-xiii-prinz-reuss-prozess-gegen-mutmassliches-reichsbuerger-netzwerk-beginnt-mit-ersten-verteidigern-a-86712485-1de2-4eb7-81e6-86b4df6cd707#ref=rss)
-### xiii
+* [https://www.spiegel.de/politik/deutschland/75-jahre-grundgesetz-5-vergessene-fakten](https://www.spiegel.de/politik/deutschland/75-jahre-grundgesetz-5-vergessene-fakten-a-e5723446-aa9d-461b-b7a5-0a93503f8913#ref=rss)
+### europawahlkampf
 
-* [https://www.spiegel.de/panorama/justiz/heinrich-xiii-prinz-reuss-prozess-gegen-mutmassliches-reichsbuerger-netzwerk-beginnt-mit-ersten-verteidigern](https://www.spiegel.de/panorama/justiz/heinrich-xiii-prinz-reuss-prozess-gegen-mutmassliches-reichsbuerger-netzwerk-beginnt-mit-ersten-verteidigern-a-86712485-1de2-4eb7-81e6-86b4df6cd707#ref=rss)
-### prinz
+* [https://www.spiegel.de/politik/deutschland/europawahl-2024-versteckte-kandidaten-im-europa-wahlkampf-kolumne](https://www.spiegel.de/politik/deutschland/europawahl-2024-versteckte-kandidaten-im-europa-wahlkampf-kolumne-a-918a8e06-fe3b-4e5a-a8a3-d0413e447100#ref=rss)
+### afd
 
-* [https://www.spiegel.de/panorama/justiz/heinrich-xiii-prinz-reuss-prozess-gegen-mutmassliches-reichsbuerger-netzwerk-beginnt-mit-ersten-verteidigern](https://www.spiegel.de/panorama/justiz/heinrich-xiii-prinz-reuss-prozess-gegen-mutmassliches-reichsbuerger-netzwerk-beginnt-mit-ersten-verteidigern-a-86712485-1de2-4eb7-81e6-86b4df6cd707#ref=rss)
-### reuß
+* [https://www.spiegel.de/politik/deutschland/europawahl-2024-versteckte-kandidaten-im-europa-wahlkampf-kolumne](https://www.spiegel.de/politik/deutschland/europawahl-2024-versteckte-kandidaten-im-europa-wahlkampf-kolumne-a-918a8e06-fe3b-4e5a-a8a3-d0413e447100#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/europa-abgeordnete-limmer-verlaesst-die-afd](https://www.spiegel.de/politik/deutschland/europa-abgeordnete-limmer-verlaesst-die-afd-a-37cd23c1-82b0-4d11-a010-c742fb95221c#ref=rss)
+### limmer
 
-* [https://www.spiegel.de/panorama/justiz/heinrich-xiii-prinz-reuss-prozess-gegen-mutmassliches-reichsbuerger-netzwerk-beginnt-mit-ersten-verteidigern](https://www.spiegel.de/panorama/justiz/heinrich-xiii-prinz-reuss-prozess-gegen-mutmassliches-reichsbuerger-netzwerk-beginnt-mit-ersten-verteidigern-a-86712485-1de2-4eb7-81e6-86b4df6cd707#ref=rss)
-### beginnt
+* [https://www.spiegel.de/politik/deutschland/europa-abgeordnete-limmer-verlaesst-die-afd](https://www.spiegel.de/politik/deutschland/europa-abgeordnete-limmer-verlaesst-die-afd-a-37cd23c1-82b0-4d11-a010-c742fb95221c#ref=rss)
+### total
 
-* [https://www.spiegel.de/panorama/justiz/heinrich-xiii-prinz-reuss-prozess-gegen-mutmassliches-reichsbuerger-netzwerk-beginnt-mit-ersten-verteidigern](https://www.spiegel.de/panorama/justiz/heinrich-xiii-prinz-reuss-prozess-gegen-mutmassliches-reichsbuerger-netzwerk-beginnt-mit-ersten-verteidigern-a-86712485-1de2-4eb7-81e6-86b4df6cd707#ref=rss)
-* [https://www.spiegel.de/sport/tennis/french-open-2024-alexander-zverev-gegen-rafael-nadal-showdown-in-der-ersten-runde](https://www.spiegel.de/sport/tennis/french-open-2024-alexander-zverev-gegen-rafael-nadal-showdown-in-der-ersten-runde-a-8dc759b6-ceb5-4064-b385-5558656da186#ref=rss)
-### europaparlament
+* [https://www.spiegel.de/wissenschaft/mensch/total-energies-umweltschuetzer-fordern-strafe-fuer-oelkonzern-bosse-wegen-fahrlaessiger-toetung](https://www.spiegel.de/wissenschaft/mensch/total-energies-umweltschuetzer-fordern-strafe-fuer-oelkonzern-bosse-wegen-fahrlaessiger-toetung-a-564ef515-8b48-4260-827d-b0a77157e663#ref=rss)
+### umweltschützer
 
-* [https://www.spiegel.de/politik/europaparlament-rechtsaussen-fraktion-id-schliesst-alle-afd-abgeordneten-aus](https://www.spiegel.de/politik/europaparlament-rechtsaussen-fraktion-id-schliesst-alle-afd-abgeordneten-aus-a-c6b530e4-5121-4d47-94b9-e64983c9a403#ref=rss)
-### rechtsaußenfraktion
+* [https://www.spiegel.de/wissenschaft/mensch/total-energies-umweltschuetzer-fordern-strafe-fuer-oelkonzern-bosse-wegen-fahrlaessiger-toetung](https://www.spiegel.de/wissenschaft/mensch/total-energies-umweltschuetzer-fordern-strafe-fuer-oelkonzern-bosse-wegen-fahrlaessiger-toetung-a-564ef515-8b48-4260-827d-b0a77157e663#ref=rss)
+### fordern
 
-* [https://www.spiegel.de/politik/europaparlament-rechtsaussen-fraktion-id-schliesst-alle-afd-abgeordneten-aus](https://www.spiegel.de/politik/europaparlament-rechtsaussen-fraktion-id-schliesst-alle-afd-abgeordneten-aus-a-c6b530e4-5121-4d47-94b9-e64983c9a403#ref=rss)
-### rafael
+* [https://www.spiegel.de/wissenschaft/mensch/total-energies-umweltschuetzer-fordern-strafe-fuer-oelkonzern-bosse-wegen-fahrlaessiger-toetung](https://www.spiegel.de/wissenschaft/mensch/total-energies-umweltschuetzer-fordern-strafe-fuer-oelkonzern-bosse-wegen-fahrlaessiger-toetung-a-564ef515-8b48-4260-827d-b0a77157e663#ref=rss)
+### niko
 
-* [https://www.spiegel.de/sport/tennis/french-open-2024-alexander-zverev-gegen-rafael-nadal-showdown-in-der-ersten-runde](https://www.spiegel.de/sport/tennis/french-open-2024-alexander-zverev-gegen-rafael-nadal-showdown-in-der-ersten-runde-a-8dc759b6-ceb5-4064-b385-5558656da186#ref=rss)
-### nadal
+* [https://www.spiegel.de/sport/para-kugelstosser-niko-kappel-wahre-groesse-wird-nicht-in-zentimetern-gemessen](https://www.spiegel.de/sport/para-kugelstosser-niko-kappel-wahre-groesse-wird-nicht-in-zentimetern-gemessen-a-38b1abb0-2d1a-44ee-99b5-26bf8b4925aa#ref=rss)
+### kappel
 
-* [https://www.spiegel.de/sport/tennis/french-open-2024-alexander-zverev-gegen-rafael-nadal-showdown-in-der-ersten-runde](https://www.spiegel.de/sport/tennis/french-open-2024-alexander-zverev-gegen-rafael-nadal-showdown-in-der-ersten-runde-a-8dc759b6-ceb5-4064-b385-5558656da186#ref=rss)
-### russland
+* [https://www.spiegel.de/sport/para-kugelstosser-niko-kappel-wahre-groesse-wird-nicht-in-zentimetern-gemessen](https://www.spiegel.de/sport/para-kugelstosser-niko-kappel-wahre-groesse-wird-nicht-in-zentimetern-gemessen-a-38b1abb0-2d1a-44ee-99b5-26bf8b4925aa#ref=rss)
+### kam
 
-* [https://www.spiegel.de/ausland/russland-vize-generalstabschef-offenbar-wegen-korruptionsverdachts-festgenommen](https://www.spiegel.de/ausland/russland-vize-generalstabschef-offenbar-wegen-korruptionsverdachts-festgenommen-a-56f7d80d-8dcd-448b-9ff7-55dcf3fb2732#ref=rss)
-### festgenommen
+* [https://www.spiegel.de/sport/para-kugelstosser-niko-kappel-wahre-groesse-wird-nicht-in-zentimetern-gemessen](https://www.spiegel.de/sport/para-kugelstosser-niko-kappel-wahre-groesse-wird-nicht-in-zentimetern-gemessen-a-38b1abb0-2d1a-44ee-99b5-26bf8b4925aa#ref=rss)
+* [https://www.spiegel.de/sport/dwyane-wade-ex-nba-star-gruendet-online-community-fuer-trans-jugendliche](https://www.spiegel.de/sport/dwyane-wade-ex-nba-star-gruendet-online-community-fuer-trans-jugendliche-a-1fefcf5b-f82e-4a26-b7bc-858c039b539e#ref=rss)
+### romário
 
-* [https://www.spiegel.de/ausland/russland-vize-generalstabschef-offenbar-wegen-korruptionsverdachts-festgenommen](https://www.spiegel.de/ausland/russland-vize-generalstabschef-offenbar-wegen-korruptionsverdachts-festgenommen-a-56f7d80d-8dcd-448b-9ff7-55dcf3fb2732#ref=rss)
-### philippinen
+* [https://www.spiegel.de/sport/fussball/brasilien-fussball-legende-romario-kehrt-zurueck-bringt-den-senator](https://www.spiegel.de/sport/fussball/brasilien-fussball-legende-romario-kehrt-zurueck-bringt-den-senator-a-c963a5d5-269c-4365-88ed-7deaf9ce514e#ref=rss)
+### zurück
 
-* [https://www.spiegel.de/ausland/philippinen-die-schlammschlacht-hat-zwei-jahre-nach-den-wahlen-gerade-erst-begonnen](https://www.spiegel.de/ausland/philippinen-die-schlammschlacht-hat-zwei-jahre-nach-den-wahlen-gerade-erst-begonnen-a-b811a32d-234f-4d7b-bad6-c73a692849a3#ref=rss)
-### bill
+* [https://www.spiegel.de/sport/fussball/brasilien-fussball-legende-romario-kehrt-zurueck-bringt-den-senator](https://www.spiegel.de/sport/fussball/brasilien-fussball-legende-romario-kehrt-zurueck-bringt-den-senator-a-c963a5d5-269c-4365-88ed-7deaf9ce514e#ref=rss)
+### spieler
 
-* [https://www.spiegel.de/panorama/leute/bill-kaulitz-ich-habe-schwierigkeiten-mich-zu-oeffnen](https://www.spiegel.de/panorama/leute/bill-kaulitz-ich-habe-schwierigkeiten-mich-zu-oeffnen-a-85a19c02-a513-4306-b8ab-4a5c02257d8b#ref=rss)
-### kaulitz
+* [https://www.spiegel.de/sport/fussball/brasilien-fussball-legende-romario-kehrt-zurueck-bringt-den-senator](https://www.spiegel.de/sport/fussball/brasilien-fussball-legende-romario-kehrt-zurueck-bringt-den-senator-a-c963a5d5-269c-4365-88ed-7deaf9ce514e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-lucas-paqueta-wegen-angeblicher-spielmanipulation-angeklagt](https://www.spiegel.de/sport/fussball/premier-league-lucas-paqueta-wegen-angeblicher-spielmanipulation-angeklagt-a-e86c61e7-6b71-484a-be70-9cc8235c8db7#ref=rss)
+### politiker
 
-* [https://www.spiegel.de/panorama/leute/bill-kaulitz-ich-habe-schwierigkeiten-mich-zu-oeffnen](https://www.spiegel.de/panorama/leute/bill-kaulitz-ich-habe-schwierigkeiten-mich-zu-oeffnen-a-85a19c02-a513-4306-b8ab-4a5c02257d8b#ref=rss)
-### buying
+* [https://www.spiegel.de/sport/fussball/brasilien-fussball-legende-romario-kehrt-zurueck-bringt-den-senator](https://www.spiegel.de/sport/fussball/brasilien-fussball-legende-romario-kehrt-zurueck-bringt-den-senator-a-c963a5d5-269c-4365-88ed-7deaf9ce514e#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-jeremy-corbyn-will-bei-parlamentswahlen-gegen-labour-antreten](https://www.spiegel.de/ausland/grossbritannien-jeremy-corbyn-will-bei-parlamentswahlen-gegen-labour-antreten-a-3b40f55e-bf89-4491-a6f9-a7dd2da02e07#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/kultur/tv/buying-london-auf-netflix-von-tiger-innen-und-anderen-immobilienhaien](https://www.spiegel.de/kultur/tv/buying-london-auf-netflix-von-tiger-innen-und-anderen-immobilienhaien-a-f531678c-90b6-4c3b-bab0-4e6a51dc1a51#ref=rss)
-### cianisophia
+* [https://www.spiegel.de/sport/fussball/brasilien-fussball-legende-romario-kehrt-zurueck-bringt-den-senator](https://www.spiegel.de/sport/fussball/brasilien-fussball-legende-romario-kehrt-zurueck-bringt-den-senator-a-c963a5d5-269c-4365-88ed-7deaf9ce514e#ref=rss)
+* [https://www.spiegel.de/sport/dwyane-wade-ex-nba-star-gruendet-online-community-fuer-trans-jugendliche](https://www.spiegel.de/sport/dwyane-wade-ex-nba-star-gruendet-online-community-fuer-trans-jugendliche-a-1fefcf5b-f82e-4a26-b7bc-858c039b539e#ref=rss)
+### blitzeinschlag
 
-* [https://www.spiegel.de/kultur/ciani-sophia-hoeder-schreibt-ueber-den-klassenkampf-vom-tellerwaescher-zum-tellerwaescher](https://www.spiegel.de/kultur/ciani-sophia-hoeder-schreibt-ueber-den-klassenkampf-vom-tellerwaescher-zum-tellerwaescher-a-3dc6c284-0aa2-43f9-adbc-6ec7ba9d69d9#ref=rss)
-### hoeder
+* [https://www.spiegel.de/panorama/frankreich-blitzeinschlag-auf-sportplatz-fussballtrainer-gestorben](https://www.spiegel.de/panorama/frankreich-blitzeinschlag-auf-sportplatz-fussballtrainer-gestorben-a-2aba798b-f210-4296-8dbd-ed54337d1b34#ref=rss)
+### toten
 
-* [https://www.spiegel.de/kultur/ciani-sophia-hoeder-schreibt-ueber-den-klassenkampf-vom-tellerwaescher-zum-tellerwaescher](https://www.spiegel.de/kultur/ciani-sophia-hoeder-schreibt-ueber-den-klassenkampf-vom-tellerwaescher-zum-tellerwaescher-a-3dc6c284-0aa2-43f9-adbc-6ec7ba9d69d9#ref=rss)
-### tellerwäscher
+* [https://www.spiegel.de/panorama/frankreich-blitzeinschlag-auf-sportplatz-fussballtrainer-gestorben](https://www.spiegel.de/panorama/frankreich-blitzeinschlag-auf-sportplatz-fussballtrainer-gestorben-a-2aba798b-f210-4296-8dbd-ed54337d1b34#ref=rss)
+* [https://www.spiegel.de/panorama/mallorca-zwei-deutsche-unter-todesopfern-von-eingestuerztem-beach-club](https://www.spiegel.de/panorama/mallorca-zwei-deutsche-unter-todesopfern-von-eingestuerztem-beach-club-a-7cc15010-f499-4e37-aef6-88363ae22839#ref=rss)
+### mehrere
 
-* [https://www.spiegel.de/kultur/ciani-sophia-hoeder-schreibt-ueber-den-klassenkampf-vom-tellerwaescher-zum-tellerwaescher](https://www.spiegel.de/kultur/ciani-sophia-hoeder-schreibt-ueber-den-klassenkampf-vom-tellerwaescher-zum-tellerwaescher-a-3dc6c284-0aa2-43f9-adbc-6ec7ba9d69d9#ref=rss)
+* [https://www.spiegel.de/panorama/frankreich-blitzeinschlag-auf-sportplatz-fussballtrainer-gestorben](https://www.spiegel.de/panorama/frankreich-blitzeinschlag-auf-sportplatz-fussballtrainer-gestorben-a-2aba798b-f210-4296-8dbd-ed54337d1b34#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/usa-wetterbehoerde-warnt-vor-schwerer-hurrikan-saison](https://www.spiegel.de/wissenschaft/natur/usa-wetterbehoerde-warnt-vor-schwerer-hurrikan-saison-a-da474aeb-6eff-4f0b-8e5f-8a1030b0818c#ref=rss)
+### wetterbehörde
+
+* [https://www.spiegel.de/wissenschaft/natur/usa-wetterbehoerde-warnt-vor-schwerer-hurrikan-saison](https://www.spiegel.de/wissenschaft/natur/usa-wetterbehoerde-warnt-vor-schwerer-hurrikan-saison-a-da474aeb-6eff-4f0b-8e5f-8a1030b0818c#ref=rss)
+### sehr
+
+* [https://www.spiegel.de/wissenschaft/natur/usa-wetterbehoerde-warnt-vor-schwerer-hurrikan-saison](https://www.spiegel.de/wissenschaft/natur/usa-wetterbehoerde-warnt-vor-schwerer-hurrikan-saison-a-da474aeb-6eff-4f0b-8e5f-8a1030b0818c#ref=rss)
+* [https://www.spiegel.de/partnerschaft/bisexuelles-dating-bei-meinen-ersten-treffen-mit-frauen-war-ich-schuechtern-und-verunsichert](https://www.spiegel.de/partnerschaft/bisexuelles-dating-bei-meinen-ersten-treffen-mit-frauen-war-ich-schuechtern-und-verunsichert-a-be0e2557-4c8b-4118-83f8-e1394195b81f#ref=rss)
+### pro
+
+* [https://www.spiegel.de/wissenschaft/natur/usa-wetterbehoerde-warnt-vor-schwerer-hurrikan-saison](https://www.spiegel.de/wissenschaft/natur/usa-wetterbehoerde-warnt-vor-schwerer-hurrikan-saison-a-da474aeb-6eff-4f0b-8e5f-8a1030b0818c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/marie-agnes-strack-zimmermann-fdp-ich-zeige-pro-monat-ungefaehr-200-leute-an](https://www.spiegel.de/politik/deutschland/marie-agnes-strack-zimmermann-fdp-ich-zeige-pro-monat-ungefaehr-200-leute-an-a-a16fa99c-9a74-4fb1-b60a-67ed94905a05#ref=rss)
+### myanmar
+
+* [https://www.spiegel.de/ausland/myanmar-kaempfe-und-attacken-treiben-zehntausende-in-die-flucht](https://www.spiegel.de/ausland/myanmar-kaempfe-und-attacken-treiben-zehntausende-in-die-flucht-a-5db0eccd-14d6-442c-8537-55f001d66ff9#ref=rss)
+### zehntausende
+
+* [https://www.spiegel.de/ausland/myanmar-kaempfe-und-attacken-treiben-zehntausende-in-die-flucht](https://www.spiegel.de/ausland/myanmar-kaempfe-und-attacken-treiben-zehntausende-in-die-flucht-a-5db0eccd-14d6-442c-8537-55f001d66ff9#ref=rss)
+### migration
+
+* [https://www.spiegel.de/politik/migration-und-fluechtlinge-laender-ueben-harsche-kritik-an-abschiebeexperten-des-bundes](https://www.spiegel.de/politik/migration-und-fluechtlinge-laender-ueben-harsche-kritik-an-abschiebeexperten-des-bundes-a-751b48f1-f228-43a1-8d4f-f69d2ff1a3c1#ref=rss)
+### flüchtlinge
+
+* [https://www.spiegel.de/politik/migration-und-fluechtlinge-laender-ueben-harsche-kritik-an-abschiebeexperten-des-bundes](https://www.spiegel.de/politik/migration-und-fluechtlinge-laender-ueben-harsche-kritik-an-abschiebeexperten-des-bundes-a-751b48f1-f228-43a1-8d4f-f69d2ff1a3c1#ref=rss)
+### vier
+
+* [https://www.spiegel.de/politik/migration-und-fluechtlinge-laender-ueben-harsche-kritik-an-abschiebeexperten-des-bundes](https://www.spiegel.de/politik/migration-und-fluechtlinge-laender-ueben-harsche-kritik-an-abschiebeexperten-des-bundes-a-751b48f1-f228-43a1-8d4f-f69d2ff1a3c1#ref=rss)
+* [https://www.spiegel.de/panorama/mallorca-zwei-deutsche-unter-todesopfern-von-eingestuerztem-beach-club](https://www.spiegel.de/panorama/mallorca-zwei-deutsche-unter-todesopfern-von-eingestuerztem-beach-club-a-7cc15010-f499-4e37-aef6-88363ae22839#ref=rss)
+### marieagnes
+
+* [https://www.spiegel.de/politik/deutschland/marie-agnes-strack-zimmermann-fdp-ich-zeige-pro-monat-ungefaehr-200-leute-an](https://www.spiegel.de/politik/deutschland/marie-agnes-strack-zimmermann-fdp-ich-zeige-pro-monat-ungefaehr-200-leute-an-a-a16fa99c-9a74-4fb1-b60a-67ed94905a05#ref=rss)
+### strackzimmermann
+
+* [https://www.spiegel.de/politik/deutschland/marie-agnes-strack-zimmermann-fdp-ich-zeige-pro-monat-ungefaehr-200-leute-an](https://www.spiegel.de/politik/deutschland/marie-agnes-strack-zimmermann-fdp-ich-zeige-pro-monat-ungefaehr-200-leute-an-a-a16fa99c-9a74-4fb1-b60a-67ed94905a05#ref=rss)
+### ziel
+
+* [https://www.spiegel.de/politik/deutschland/marie-agnes-strack-zimmermann-fdp-ich-zeige-pro-monat-ungefaehr-200-leute-an](https://www.spiegel.de/politik/deutschland/marie-agnes-strack-zimmermann-fdp-ich-zeige-pro-monat-ungefaehr-200-leute-an-a-a16fa99c-9a74-4fb1-b60a-67ed94905a05#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-laesst-absatzziel-von-20-millionen-autos-wohl-fallen](https://www.spiegel.de/wirtschaft/unternehmen/tesla-laesst-absatzziel-von-20-millionen-autos-wohl-fallen-a-f1654158-3eb1-401b-b290-c810f2ea9298#ref=rss)
+### ponybar
+
+* [https://www.spiegel.de/panorama/gesellschaft/pony-bar-auf-sylt-aminata-toure-und-karin-prien-empoert-ueber-rassistische-gesaenge](https://www.spiegel.de/panorama/gesellschaft/pony-bar-auf-sylt-aminata-toure-und-karin-prien-empoert-ueber-rassistische-gesaenge-a-ff833e22-d432-4cf4-88ac-e3e14257956a#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/pony-bar-auf-sylt-staatsschutz-ermittelt-nach-sylt-video-mit-rassistischen-parolen](https://www.spiegel.de/panorama/gesellschaft/pony-bar-auf-sylt-staatsschutz-ermittelt-nach-sylt-video-mit-rassistischen-parolen-a-c45bb665-d608-4384-bcfc-23184c736eb8#ref=rss)
+### sylt
+
+* [https://www.spiegel.de/panorama/gesellschaft/pony-bar-auf-sylt-aminata-toure-und-karin-prien-empoert-ueber-rassistische-gesaenge](https://www.spiegel.de/panorama/gesellschaft/pony-bar-auf-sylt-aminata-toure-und-karin-prien-empoert-ueber-rassistische-gesaenge-a-ff833e22-d432-4cf4-88ac-e3e14257956a#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/pony-bar-auf-sylt-staatsschutz-ermittelt-nach-sylt-video-mit-rassistischen-parolen](https://www.spiegel.de/panorama/gesellschaft/pony-bar-auf-sylt-staatsschutz-ermittelt-nach-sylt-video-mit-rassistischen-parolen-a-c45bb665-d608-4384-bcfc-23184c736eb8#ref=rss)
+### touré
+
+* [https://www.spiegel.de/panorama/gesellschaft/pony-bar-auf-sylt-aminata-toure-und-karin-prien-empoert-ueber-rassistische-gesaenge](https://www.spiegel.de/panorama/gesellschaft/pony-bar-auf-sylt-aminata-toure-und-karin-prien-empoert-ueber-rassistische-gesaenge-a-ff833e22-d432-4cf4-88ac-e3e14257956a#ref=rss)
+### prien
+
+* [https://www.spiegel.de/panorama/gesellschaft/pony-bar-auf-sylt-aminata-toure-und-karin-prien-empoert-ueber-rassistische-gesaenge](https://www.spiegel.de/panorama/gesellschaft/pony-bar-auf-sylt-aminata-toure-und-karin-prien-empoert-ueber-rassistische-gesaenge-a-ff833e22-d432-4cf4-88ac-e3e14257956a#ref=rss)
+### kieler
+
+* [https://www.spiegel.de/panorama/gesellschaft/pony-bar-auf-sylt-aminata-toure-und-karin-prien-empoert-ueber-rassistische-gesaenge](https://www.spiegel.de/panorama/gesellschaft/pony-bar-auf-sylt-aminata-toure-und-karin-prien-empoert-ueber-rassistische-gesaenge-a-ff833e22-d432-4cf4-88ac-e3e14257956a#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/pony-bar-auf-sylt-staatsschutz-ermittelt-nach-sylt-video-mit-rassistischen-parolen](https://www.spiegel.de/panorama/gesellschaft/pony-bar-auf-sylt-staatsschutz-ermittelt-nach-sylt-video-mit-rassistischen-parolen-a-c45bb665-d608-4384-bcfc-23184c736eb8#ref=rss)
+### sylter
+
+* [https://www.spiegel.de/panorama/gesellschaft/pony-bar-auf-sylt-aminata-toure-und-karin-prien-empoert-ueber-rassistische-gesaenge](https://www.spiegel.de/panorama/gesellschaft/pony-bar-auf-sylt-aminata-toure-und-karin-prien-empoert-ueber-rassistische-gesaenge-a-ff833e22-d432-4cf4-88ac-e3e14257956a#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/pony-bar-auf-sylt-staatsschutz-ermittelt-nach-sylt-video-mit-rassistischen-parolen](https://www.spiegel.de/panorama/gesellschaft/pony-bar-auf-sylt-staatsschutz-ermittelt-nach-sylt-video-mit-rassistischen-parolen-a-c45bb665-d608-4384-bcfc-23184c736eb8#ref=rss)
+### nobelbar
+
+* [https://www.spiegel.de/panorama/gesellschaft/pony-bar-auf-sylt-aminata-toure-und-karin-prien-empoert-ueber-rassistische-gesaenge](https://www.spiegel.de/panorama/gesellschaft/pony-bar-auf-sylt-aminata-toure-und-karin-prien-empoert-ueber-rassistische-gesaenge-a-ff833e22-d432-4cf4-88ac-e3e14257956a#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/pony-bar-auf-sylt-staatsschutz-ermittelt-nach-sylt-video-mit-rassistischen-parolen](https://www.spiegel.de/panorama/gesellschaft/pony-bar-auf-sylt-staatsschutz-ermittelt-nach-sylt-video-mit-rassistischen-parolen-a-c45bb665-d608-4384-bcfc-23184c736eb8#ref=rss)
+### treffen
+
+* [https://www.spiegel.de/panorama/justiz/berlin-mann-soll-sexpartner-k-o-tropfen-verabreicht-und-getoetet-haben](https://www.spiegel.de/panorama/justiz/berlin-mann-soll-sexpartner-k-o-tropfen-verabreicht-und-getoetet-haben-a-2f1c60af-d24f-439e-9821-3ccd6e3c4e18#ref=rss)
+* [https://www.spiegel.de/partnerschaft/bisexuelles-dating-bei-meinen-ersten-treffen-mit-frauen-war-ich-schuechtern-und-verunsichert](https://www.spiegel.de/partnerschaft/bisexuelles-dating-bei-meinen-ersten-treffen-mit-frauen-war-ich-schuechtern-und-verunsichert-a-be0e2557-4c8b-4118-83f8-e1394195b81f#ref=rss)
+### george
+
+* [https://www.spiegel.de/kultur/george-floyds-leben-wird-verfilmt](https://www.spiegel.de/kultur/george-floyds-leben-wird-verfilmt-a-f7376fa4-1409-4192-a56f-6d7814fe3d95#ref=rss)
+### tod
+
+* [https://www.spiegel.de/kultur/george-floyds-leben-wird-verfilmt](https://www.spiegel.de/kultur/george-floyds-leben-wird-verfilmt-a-f7376fa4-1409-4192-a56f-6d7814fe3d95#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/seeigel-massensterben-wird-zur-weltweiten-pandemie](https://www.spiegel.de/wissenschaft/natur/seeigel-massensterben-wird-zur-weltweiten-pandemie-a-55b9a671-0474-4a8c-a6ed-faa2b57535e8#ref=rss)
+### irans
+
+* [https://www.spiegel.de/ausland/iran-helikopter-von-irans-praesident-ebrahim-raisi-kurz-nach-absturz-in-flammen-aufgeganen](https://www.spiegel.de/ausland/iran-helikopter-von-irans-praesident-ebrahim-raisi-kurz-nach-absturz-in-flammen-aufgeganen-a-125aced9-cf82-4a01-ad9b-0c4869f5608e#ref=rss)
+### raisi
+
+* [https://www.spiegel.de/ausland/iran-helikopter-von-irans-praesident-ebrahim-raisi-kurz-nach-absturz-in-flammen-aufgeganen](https://www.spiegel.de/ausland/iran-helikopter-von-irans-praesident-ebrahim-raisi-kurz-nach-absturz-in-flammen-aufgeganen-a-125aced9-cf82-4a01-ad9b-0c4869f5608e#ref=rss)
+### militär
+
+* [https://www.spiegel.de/ausland/iran-helikopter-von-irans-praesident-ebrahim-raisi-kurz-nach-absturz-in-flammen-aufgeganen](https://www.spiegel.de/ausland/iran-helikopter-von-irans-praesident-ebrahim-raisi-kurz-nach-absturz-in-flammen-aufgeganen-a-125aced9-cf82-4a01-ad9b-0c4869f5608e#ref=rss)
+* [https://www.spiegel.de/ausland/israel-israelisches-militaer-birgt-drei-weitere-tote-geiseln-aus-dem-gazastreifen](https://www.spiegel.de/ausland/israel-israelisches-militaer-birgt-drei-weitere-tote-geiseln-aus-dem-gazastreifen-a-bd0486ae-175b-484b-8f61-72f9b7b9ff0b#ref=rss)
+### ersten
+
+* [https://www.spiegel.de/ausland/iran-helikopter-von-irans-praesident-ebrahim-raisi-kurz-nach-absturz-in-flammen-aufgeganen](https://www.spiegel.de/ausland/iran-helikopter-von-irans-praesident-ebrahim-raisi-kurz-nach-absturz-in-flammen-aufgeganen-a-125aced9-cf82-4a01-ad9b-0c4869f5608e#ref=rss)
+* [https://www.spiegel.de/partnerschaft/bisexuelles-dating-bei-meinen-ersten-treffen-mit-frauen-war-ich-schuechtern-und-verunsichert](https://www.spiegel.de/partnerschaft/bisexuelles-dating-bei-meinen-ersten-treffen-mit-frauen-war-ich-schuechtern-und-verunsichert-a-be0e2557-4c8b-4118-83f8-e1394195b81f#ref=rss)
+### lieferkettengesetz
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/eu-staaten-beschliessen-lieferkettengesetz-fuer-menschenrechte-und-klimaschutz](https://www.spiegel.de/wirtschaft/unternehmen/eu-staaten-beschliessen-lieferkettengesetz-fuer-menschenrechte-und-klimaschutz-a-d127ca1d-12d8-4672-b9b3-f1e7def274fd#ref=rss)
+### profitieren
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/eu-staaten-beschliessen-lieferkettengesetz-fuer-menschenrechte-und-klimaschutz](https://www.spiegel.de/wirtschaft/unternehmen/eu-staaten-beschliessen-lieferkettengesetz-fuer-menschenrechte-und-klimaschutz-a-d127ca1d-12d8-4672-b9b3-f1e7def274fd#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/gesunde-schokolade-forscher-entwickeln-die-suessware-ohne-suende](https://www.spiegel.de/wissenschaft/mensch/gesunde-schokolade-forscher-entwickeln-die-suessware-ohne-suende-a-ec51c9ab-a97a-4ece-b7fe-399cfa8854e0#ref=rss)
+### jeremy
+
+* [https://www.spiegel.de/ausland/grossbritannien-jeremy-corbyn-will-bei-parlamentswahlen-gegen-labour-antreten](https://www.spiegel.de/ausland/grossbritannien-jeremy-corbyn-will-bei-parlamentswahlen-gegen-labour-antreten-a-3b40f55e-bf89-4491-a6f9-a7dd2da02e07#ref=rss)
+### corbyn
+
+* [https://www.spiegel.de/ausland/grossbritannien-jeremy-corbyn-will-bei-parlamentswahlen-gegen-labour-antreten](https://www.spiegel.de/ausland/grossbritannien-jeremy-corbyn-will-bei-parlamentswahlen-gegen-labour-antreten-a-3b40f55e-bf89-4491-a6f9-a7dd2da02e07#ref=rss)
+### schokolade
+
+* [https://www.spiegel.de/wissenschaft/mensch/gesunde-schokolade-forscher-entwickeln-die-suessware-ohne-suende](https://www.spiegel.de/wissenschaft/mensch/gesunde-schokolade-forscher-entwickeln-die-suessware-ohne-suende-a-ec51c9ab-a97a-4ece-b7fe-399cfa8854e0#ref=rss)
+### forscher
+
+* [https://www.spiegel.de/wissenschaft/mensch/gesunde-schokolade-forscher-entwickeln-die-suessware-ohne-suende](https://www.spiegel.de/wissenschaft/mensch/gesunde-schokolade-forscher-entwickeln-die-suessware-ohne-suende-a-ec51c9ab-a97a-4ece-b7fe-399cfa8854e0#ref=rss)
+### fahrer
+
+* [https://www.spiegel.de/panorama/a10-bei-falkensee-bierlaster-kippt-um-fahrer-betrunken](https://www.spiegel.de/panorama/a10-bei-falkensee-bierlaster-kippt-um-fahrer-betrunken-a-63f6282f-c407-4153-8614-6e2046b2a749#ref=rss)
+### laut
+
+* [https://www.spiegel.de/panorama/a10-bei-falkensee-bierlaster-kippt-um-fahrer-betrunken](https://www.spiegel.de/panorama/a10-bei-falkensee-bierlaster-kippt-um-fahrer-betrunken-a-63f6282f-c407-4153-8614-6e2046b2a749#ref=rss)
+* [https://www.spiegel.de/ausland/israel-israelisches-militaer-birgt-drei-weitere-tote-geiseln-aus-dem-gazastreifen](https://www.spiegel.de/ausland/israel-israelisches-militaer-birgt-drei-weitere-tote-geiseln-aus-dem-gazastreifen-a-bd0486ae-175b-484b-8f61-72f9b7b9ff0b#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/a10-bei-falkensee-bierlaster-kippt-um-fahrer-betrunken](https://www.spiegel.de/panorama/a10-bei-falkensee-bierlaster-kippt-um-fahrer-betrunken-a-63f6282f-c407-4153-8614-6e2046b2a749#ref=rss)
+* [https://www.spiegel.de/panorama/mallorca-zwei-deutsche-unter-todesopfern-von-eingestuerztem-beach-club](https://www.spiegel.de/panorama/mallorca-zwei-deutsche-unter-todesopfern-von-eingestuerztem-beach-club-a-7cc15010-f499-4e37-aef6-88363ae22839#ref=rss)
+### geiseln
+
+* [https://www.spiegel.de/ausland/israel-israelisches-militaer-birgt-drei-weitere-tote-geiseln-aus-dem-gazastreifen](https://www.spiegel.de/ausland/israel-israelisches-militaer-birgt-drei-weitere-tote-geiseln-aus-dem-gazastreifen-a-bd0486ae-175b-484b-8f61-72f9b7b9ff0b#ref=rss)
+### gazastreifen
+
+* [https://www.spiegel.de/ausland/israel-israelisches-militaer-birgt-drei-weitere-tote-geiseln-aus-dem-gazastreifen](https://www.spiegel.de/ausland/israel-israelisches-militaer-birgt-drei-weitere-tote-geiseln-aus-dem-gazastreifen-a-bd0486ae-175b-484b-8f61-72f9b7b9ff0b#ref=rss)
+### unter
+
+* [https://www.spiegel.de/ausland/israel-israelisches-militaer-birgt-drei-weitere-tote-geiseln-aus-dem-gazastreifen](https://www.spiegel.de/ausland/israel-israelisches-militaer-birgt-drei-weitere-tote-geiseln-aus-dem-gazastreifen-a-bd0486ae-175b-484b-8f61-72f9b7b9ff0b#ref=rss)
+* [https://www.spiegel.de/panorama/mallorca-zwei-deutsche-unter-todesopfern-von-eingestuerztem-beach-club](https://www.spiegel.de/panorama/mallorca-zwei-deutsche-unter-todesopfern-von-eingestuerztem-beach-club-a-7cc15010-f499-4e37-aef6-88363ae22839#ref=rss)
+### lucas
+
+* [https://www.spiegel.de/sport/fussball/premier-league-lucas-paqueta-wegen-angeblicher-spielmanipulation-angeklagt](https://www.spiegel.de/sport/fussball/premier-league-lucas-paqueta-wegen-angeblicher-spielmanipulation-angeklagt-a-e86c61e7-6b71-484a-be70-9cc8235c8db7#ref=rss)
+### paquetá
+
+* [https://www.spiegel.de/sport/fussball/premier-league-lucas-paqueta-wegen-angeblicher-spielmanipulation-angeklagt](https://www.spiegel.de/sport/fussball/premier-league-lucas-paqueta-wegen-angeblicher-spielmanipulation-angeklagt-a-e86c61e7-6b71-484a-be70-9cc8235c8db7#ref=rss)
+### pandemie
+
+* [https://www.spiegel.de/wissenschaft/natur/seeigel-massensterben-wird-zur-weltweiten-pandemie](https://www.spiegel.de/wissenschaft/natur/seeigel-massensterben-wird-zur-weltweiten-pandemie-a-55b9a671-0474-4a8c-a6ed-faa2b57535e8#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/partnerschaft/bisexuelles-dating-bei-meinen-ersten-treffen-mit-frauen-war-ich-schuechtern-und-verunsichert](https://www.spiegel.de/partnerschaft/bisexuelles-dating-bei-meinen-ersten-treffen-mit-frauen-war-ich-schuechtern-und-verunsichert-a-be0e2557-4c8b-4118-83f8-e1394195b81f#ref=rss)
+* [https://www.spiegel.de/panorama/mallorca-zwei-deutsche-unter-todesopfern-von-eingestuerztem-beach-club](https://www.spiegel.de/panorama/mallorca-zwei-deutsche-unter-todesopfern-von-eingestuerztem-beach-club-a-7cc15010-f499-4e37-aef6-88363ae22839#ref=rss)
+### rechtsruck
+
+* [https://www.spiegel.de/politik/europawahl-und-der-rechtsruck-rechtsradikale-nur-ausgrenzen-funktioniert-nicht-mehr](https://www.spiegel.de/politik/europawahl-und-der-rechtsruck-rechtsradikale-nur-ausgrenzen-funktioniert-nicht-mehr-a-7e13fc44-10c3-4d61-8255-8a7668582d30#ref=rss)
+### tesla
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-laesst-absatzziel-von-20-millionen-autos-wohl-fallen](https://www.spiegel.de/wirtschaft/unternehmen/tesla-laesst-absatzziel-von-20-millionen-autos-wohl-fallen-a-f1654158-3eb1-401b-b290-c810f2ea9298#ref=rss)
+### autos
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-laesst-absatzziel-von-20-millionen-autos-wohl-fallen](https://www.spiegel.de/wirtschaft/unternehmen/tesla-laesst-absatzziel-von-20-millionen-autos-wohl-fallen-a-f1654158-3eb1-401b-b290-c810f2ea9298#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-laesst-absatzziel-von-20-millionen-autos-wohl-fallen](https://www.spiegel.de/wirtschaft/unternehmen/tesla-laesst-absatzziel-von-20-millionen-autos-wohl-fallen-a-f1654158-3eb1-401b-b290-c810f2ea9298#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/pony-bar-auf-sylt-staatsschutz-ermittelt-nach-sylt-video-mit-rassistischen-parolen](https://www.spiegel.de/panorama/gesellschaft/pony-bar-auf-sylt-staatsschutz-ermittelt-nach-sylt-video-mit-rassistischen-parolen-a-c45bb665-d608-4384-bcfc-23184c736eb8#ref=rss)
+### viele
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-laesst-absatzziel-von-20-millionen-autos-wohl-fallen](https://www.spiegel.de/wirtschaft/unternehmen/tesla-laesst-absatzziel-von-20-millionen-autos-wohl-fallen-a-f1654158-3eb1-401b-b290-c810f2ea9298#ref=rss)
+### verkaufen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-laesst-absatzziel-von-20-millionen-autos-wohl-fallen](https://www.spiegel.de/wirtschaft/unternehmen/tesla-laesst-absatzziel-von-20-millionen-autos-wohl-fallen-a-f1654158-3eb1-401b-b290-c810f2ea9298#ref=rss)
+### medusa
+
+* [https://www.spiegel.de/panorama/mallorca-einsturz-des-medusa-beach-club-am-ballermann-bilder-zeigen-ausmass-der-tragoedie](https://www.spiegel.de/panorama/mallorca-einsturz-des-medusa-beach-club-am-ballermann-bilder-zeigen-ausmass-der-tragoedie-a-cf0673f6-a1b5-4041-a6ba-fcc966b89ad7#ref=rss)
+### bilder
+
+* [https://www.spiegel.de/panorama/mallorca-einsturz-des-medusa-beach-club-am-ballermann-bilder-zeigen-ausmass-der-tragoedie](https://www.spiegel.de/panorama/mallorca-einsturz-des-medusa-beach-club-am-ballermann-bilder-zeigen-ausmass-der-tragoedie-a-cf0673f6-a1b5-4041-a6ba-fcc966b89ad7#ref=rss)
+### zeigen
+
+* [https://www.spiegel.de/panorama/mallorca-einsturz-des-medusa-beach-club-am-ballermann-bilder-zeigen-ausmass-der-tragoedie](https://www.spiegel.de/panorama/mallorca-einsturz-des-medusa-beach-club-am-ballermann-bilder-zeigen-ausmass-der-tragoedie-a-cf0673f6-a1b5-4041-a6ba-fcc966b89ad7#ref=rss)
+### ausmaß
+
+* [https://www.spiegel.de/panorama/mallorca-einsturz-des-medusa-beach-club-am-ballermann-bilder-zeigen-ausmass-der-tragoedie](https://www.spiegel.de/panorama/mallorca-einsturz-des-medusa-beach-club-am-ballermann-bilder-zeigen-ausmass-der-tragoedie-a-cf0673f6-a1b5-4041-a6ba-fcc966b89ad7#ref=rss)
+### tragödie
+
+* [https://www.spiegel.de/panorama/mallorca-einsturz-des-medusa-beach-club-am-ballermann-bilder-zeigen-ausmass-der-tragoedie](https://www.spiegel.de/panorama/mallorca-einsturz-des-medusa-beach-club-am-ballermann-bilder-zeigen-ausmass-der-tragoedie-a-cf0673f6-a1b5-4041-a6ba-fcc966b89ad7#ref=rss)
+### palma
+
+* [https://www.spiegel.de/panorama/mallorca-einsturz-des-medusa-beach-club-am-ballermann-bilder-zeigen-ausmass-der-tragoedie](https://www.spiegel.de/panorama/mallorca-einsturz-des-medusa-beach-club-am-ballermann-bilder-zeigen-ausmass-der-tragoedie-a-cf0673f6-a1b5-4041-a6ba-fcc966b89ad7#ref=rss)
+* [https://www.spiegel.de/panorama/mallorca-zwei-deutsche-unter-todesopfern-von-eingestuerztem-beach-club](https://www.spiegel.de/panorama/mallorca-zwei-deutsche-unter-todesopfern-von-eingestuerztem-beach-club-a-7cc15010-f499-4e37-aef6-88363ae22839#ref=rss)
+### de
+
+* [https://www.spiegel.de/panorama/mallorca-einsturz-des-medusa-beach-club-am-ballermann-bilder-zeigen-ausmass-der-tragoedie](https://www.spiegel.de/panorama/mallorca-einsturz-des-medusa-beach-club-am-ballermann-bilder-zeigen-ausmass-der-tragoedie-a-cf0673f6-a1b5-4041-a6ba-fcc966b89ad7#ref=rss)
+* [https://www.spiegel.de/panorama/mallorca-zwei-deutsche-unter-todesopfern-von-eingestuerztem-beach-club](https://www.spiegel.de/panorama/mallorca-zwei-deutsche-unter-todesopfern-von-eingestuerztem-beach-club-a-7cc15010-f499-4e37-aef6-88363ae22839#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/panorama/mallorca-zwei-deutsche-unter-todesopfern-von-eingestuerztem-beach-club](https://www.spiegel.de/panorama/mallorca-zwei-deutsche-unter-todesopfern-von-eingestuerztem-beach-club-a-7cc15010-f499-4e37-aef6-88363ae22839#ref=rss)
+### google
+
+* [https://www.spiegel.de/netzwelt/web/google-ki-suche-empfiehlt-klebstoff-zum-pizzabacken](https://www.spiegel.de/netzwelt/web/google-ki-suche-empfiehlt-klebstoff-zum-pizzabacken-a-a4b0ff1a-40ad-44c8-b879-f39315a865c7#ref=rss)
+### grund
+
+* [https://www.spiegel.de/netzwelt/web/google-ki-suche-empfiehlt-klebstoff-zum-pizzabacken](https://www.spiegel.de/netzwelt/web/google-ki-suche-empfiehlt-klebstoff-zum-pizzabacken-a-a4b0ff1a-40ad-44c8-b879-f39315a865c7#ref=rss)
+* [https://www.spiegel.de/sport/dwyane-wade-ex-nba-star-gruendet-online-community-fuer-trans-jugendliche](https://www.spiegel.de/sport/dwyane-wade-ex-nba-star-gruendet-online-community-fuer-trans-jugendliche-a-1fefcf5b-f82e-4a26-b7bc-858c039b539e#ref=rss)
+### dwyane
+
+* [https://www.spiegel.de/sport/dwyane-wade-ex-nba-star-gruendet-online-community-fuer-trans-jugendliche](https://www.spiegel.de/sport/dwyane-wade-ex-nba-star-gruendet-online-community-fuer-trans-jugendliche-a-1fefcf5b-f82e-4a26-b7bc-858c039b539e#ref=rss)
+### wade
+
+* [https://www.spiegel.de/sport/dwyane-wade-ex-nba-star-gruendet-online-community-fuer-trans-jugendliche](https://www.spiegel.de/sport/dwyane-wade-ex-nba-star-gruendet-online-community-fuer-trans-jugendliche-a-1fefcf5b-f82e-4a26-b7bc-858c039b539e#ref=rss)
+### trans
+
+* [https://www.spiegel.de/sport/dwyane-wade-ex-nba-star-gruendet-online-community-fuer-trans-jugendliche](https://www.spiegel.de/sport/dwyane-wade-ex-nba-star-gruendet-online-community-fuer-trans-jugendliche-a-1fefcf5b-f82e-4a26-b7bc-858c039b539e#ref=rss)
 
