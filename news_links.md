@@ -4,339 +4,271 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### scholz
+### ukraine
 
-* [https://www.spiegel.de/politik/deutschland/bundestag-regierungserklaerung-im-video-olaf-scholz-spricht-ueber-abschiebungen-und-die-klimakrise](https://www.spiegel.de/politik/deutschland/bundestag-regierungserklaerung-im-video-olaf-scholz-spricht-ueber-abschiebungen-und-die-klimakrise-a-bdd97a84-2036-4c03-91ce-a4421176c6bf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/erste-gruene-kritisieren-abschiebeplaene-von-scholz-als-orientierungslos-und-unrealistisch](https://www.spiegel.de/politik/deutschland/erste-gruene-kritisieren-abschiebeplaene-von-scholz-als-orientierungslos-und-unrealistisch-a-f5fba583-9a2b-4ccf-a148-1a7fe82c1584#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-will-schwerkriminelle-nach-afghanistan-und-syrien-abschieben](https://www.spiegel.de/politik/deutschland/olaf-scholz-will-schwerkriminelle-nach-afghanistan-und-syrien-abschieben-a-190c0240-dbe3-44a6-8497-d0c3a6e68357#ref=rss)
-### deutschland
+* [https://www.spiegel.de/politik/deutschland/wolodymyr-selenskyj-praesident-der-ukraine-soll-vor-bundestag-in-berlin-sprechen](https://www.spiegel.de/politik/deutschland/wolodymyr-selenskyj-praesident-der-ukraine-soll-vor-bundestag-in-berlin-sprechen-a-3fc1f324-7ea8-447d-8613-1ea9fd399c24#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-kaempft-vor-gericht-um-sein-buero-und-verliert-erneut](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-kaempft-vor-gericht-um-sein-buero-und-verliert-erneut-a-fd9cf308-60ca-42d7-abe2-5d1acaa002b2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-institut-deutsche-chemieindustrie-erholt-sich-offenbar-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/ifo-institut-deutsche-chemieindustrie-erholt-sich-offenbar-deutlich-a-58128fde-869b-4494-980f-1d63ea73fc46#ref=rss)
+### bundestag
 
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-am-wochenende-bleibt-es-nass-auch-im-sueden](https://www.spiegel.de/panorama/wetter-in-deutschland-am-wochenende-bleibt-es-nass-auch-im-sueden-a-32b23565-f565-412a-97f6-be56d36b6fd7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/erneuerbare-energien-oekostrom-anteil-erreicht-rekordwert-von-fast-60-prozent](https://www.spiegel.de/wirtschaft/erneuerbare-energien-oekostrom-anteil-erreicht-rekordwert-von-fast-60-prozent-a-a89ecaab-f84f-4215-810e-6e17afe1cc4b#ref=rss)
-### menschen
+* [https://www.spiegel.de/politik/deutschland/wolodymyr-selenskyj-praesident-der-ukraine-soll-vor-bundestag-in-berlin-sprechen](https://www.spiegel.de/politik/deutschland/wolodymyr-selenskyj-praesident-der-ukraine-soll-vor-bundestag-in-berlin-sprechen-a-3fc1f324-7ea8-447d-8613-1ea9fd399c24#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-kaempft-vor-gericht-um-sein-buero-und-verliert-erneut](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-kaempft-vor-gericht-um-sein-buero-und-verliert-erneut-a-fd9cf308-60ca-42d7-abe2-5d1acaa002b2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bundestag-beschliesst-genehmigungs-turbo-fuer-windraeder](https://www.spiegel.de/wirtschaft/bundestag-beschliesst-genehmigungs-turbo-fuer-windraeder-a-e972c64b-2def-43dd-9c84-1885264e74ac#ref=rss)
+### lindner
 
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-am-wochenende-bleibt-es-nass-auch-im-sueden](https://www.spiegel.de/panorama/wetter-in-deutschland-am-wochenende-bleibt-es-nass-auch-im-sueden-a-32b23565-f565-412a-97f6-be56d36b6fd7#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-konflikt-bis-zu-45-tote-bei-angriff-auf-schule-in-gaza](https://www.spiegel.de/ausland/israel-gaza-konflikt-bis-zu-45-tote-bei-angriff-auf-schule-in-gaza-a-19d5dcff-2b2b-4210-bf3c-a7df952a40fa#ref=rss)
-* [https://www.spiegel.de/panorama/niedersachsen-trinkwasser-in-noerten-hardenberg-belastet-anwohner-muessen-wasser-aus-nachbarort-abholen](https://www.spiegel.de/panorama/niedersachsen-trinkwasser-in-noerten-hardenberg-belastet-anwohner-muessen-wasser-aus-nachbarort-abholen-a-deb4822b-a6ed-492d-bfaf-aac6478853c4#ref=rss)
-### neuen
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-im-europa-wahlkampf-wie-der-fdp-chef-mit-protesten-und-hass-umgeht](https://www.spiegel.de/politik/deutschland/christian-lindner-im-europa-wahlkampf-wie-der-fdp-chef-mit-protesten-und-hass-umgeht-a-868dbfcc-d47a-44dc-a1f4-cf3c42dea114#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/steuern-finanzminister-lindner-will-kinderfreibetrag-rueckwirkend-anheben](https://www.spiegel.de/wirtschaft/soziales/steuern-finanzminister-lindner-will-kinderfreibetrag-rueckwirkend-anheben-a-4eb46905-a55c-4aa7-a6d5-4701e2a50078#ref=rss)
+### europawahl
 
-* [https://www.spiegel.de/ausland/gabriel-attal-franzoesischer-premier-spricht-von-unserem-neuen-weltkrieg](https://www.spiegel.de/ausland/gabriel-attal-franzoesischer-premier-spricht-von-unserem-neuen-weltkrieg-a-08fc8d57-19e4-4ef6-b0e1-81ca50b0becc#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/frankfurt-am-main-suhrkamp-verlag-verkauft-villa-unseld](https://www.spiegel.de/kultur/literatur/frankfurt-am-main-suhrkamp-verlag-verkauft-villa-unseld-a-e5208b3d-87d0-45cb-9982-de5c1b229390#ref=rss)
-* [https://www.spiegel.de/ausland/wladimir-putin-droht-dem-westen-mit-stationierung-von-raketen-in-reichweite](https://www.spiegel.de/ausland/wladimir-putin-droht-dem-westen-mit-stationierung-von-raketen-in-reichweite-a-c58e67be-0444-4d00-a270-a7b8b6c3e031#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-im-europa-wahlkampf-wie-der-fdp-chef-mit-protesten-und-hass-umgeht](https://www.spiegel.de/politik/deutschland/christian-lindner-im-europa-wahlkampf-wie-der-fdp-chef-mit-protesten-und-hass-umgeht-a-868dbfcc-d47a-44dc-a1f4-cf3c42dea114#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/europawahl-und-wahl-in-thueringen-das-erfolgreiche-maerchen-von-der-guten-alten-zeit-podcast](https://www.spiegel.de/politik/deutschland/europawahl-und-wahl-in-thueringen-das-erfolgreiche-maerchen-von-der-guten-alten-zeit-podcast-a-29e25b1f-8684-4d95-b4eb-10ef09851ed0#ref=rss)
+* [https://www.spiegel.de/ausland/italien-fuer-die-partei-lega-von-matteo-salvini-tritt-ein-ultrarechter-general-an](https://www.spiegel.de/ausland/italien-fuer-die-partei-lega-von-matteo-salvini-tritt-ein-ultrarechter-general-an-a-1dd6f037-ddf5-4758-967a-484048eb5003#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/kultur/tv/bsw-in-der-wdr-wahlarena-medienrechtler-tobias-mast-erklaert-den-gerichtsbeschluss-des-ovg](https://www.spiegel.de/kultur/tv/bsw-in-der-wdr-wahlarena-medienrechtler-tobias-mast-erklaert-den-gerichtsbeschluss-des-ovg-a-e99e5682-5b27-4f0d-ba30-a5476a5db0c8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/mannheim-gericht-erlaubt-afd-demo-trotz-toedlicher-messerattacke-auf-marktplatz](https://www.spiegel.de/politik/deutschland/mannheim-gericht-erlaubt-afd-demo-trotz-toedlicher-messerattacke-auf-marktplatz-a-a667eed7-105d-4b7b-a566-6561597d5af9#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-kaempft-vor-gericht-um-sein-buero-und-verliert-erneut](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-kaempft-vor-gericht-um-sein-buero-und-verliert-erneut-a-fd9cf308-60ca-42d7-abe2-5d1acaa002b2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/mannheim-gericht-erlaubt-afd-demo-trotz-toedlicher-messerattacke-auf-marktplatz](https://www.spiegel.de/politik/deutschland/mannheim-gericht-erlaubt-afd-demo-trotz-toedlicher-messerattacke-auf-marktplatz-a-a667eed7-105d-4b7b-a566-6561597d5af9#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-kaempft-vor-gericht-um-sein-buero-und-verliert-erneut](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-kaempft-vor-gericht-um-sein-buero-und-verliert-erneut-a-fd9cf308-60ca-42d7-abe2-5d1acaa002b2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/medizin-apothekensterben-beschleunigt-sich](https://www.spiegel.de/wirtschaft/service/medizin-apothekensterben-beschleunigt-sich-a-4b6d4dca-27d6-47d0-8a24-df1f7acbe4c4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/nvidia-was-hinter-dem-unheimlichen-boom-der-aktie-steckt](https://www.spiegel.de/wirtschaft/service/nvidia-was-hinter-dem-unheimlichen-boom-der-aktie-steckt-a-b092cf90-e6cb-444f-b09d-8a931bb57675#ref=rss)
+### leben
+
+* [https://www.spiegel.de/kultur/musik/dj-gigi-dagostino-man-zensiert-aus-angst-vor-rassisten-ein-liebeslied](https://www.spiegel.de/kultur/musik/dj-gigi-dagostino-man-zensiert-aus-angst-vor-rassisten-ein-liebeslied-a-1fc8b474-432d-464a-ada2-66695d43eac8#ref=rss)
+* [https://www.spiegel.de/gesundheit/ernaehrung/nutella-geschichten-und-dann-mjam](https://www.spiegel.de/gesundheit/ernaehrung/nutella-geschichten-und-dann-mjam-a-123d462e-97ba-41ae-b911-196c18bcaa23#ref=rss)
+* [https://www.spiegel.de/deinspiegel/leben-mit-einer-orthoprothese-ich-habe-eine-gluecksflosse](https://www.spiegel.de/deinspiegel/leben-mit-einer-orthoprothese-ich-habe-eine-gluecksflosse-a-90ef96db-c8be-420a-a032-43c8ee2b4b69#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/politik/deutschland/stadt-essen-kuendigt-mietvertrag-fuer-afd-bundesparteitag](https://www.spiegel.de/politik/deutschland/stadt-essen-kuendigt-mietvertrag-fuer-afd-bundesparteitag-a-69581470-3a3f-4410-958f-fe21545130d5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-institut-deutsche-chemieindustrie-erholt-sich-offenbar-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/ifo-institut-deutsche-chemieindustrie-erholt-sich-offenbar-deutlich-a-58128fde-869b-4494-980f-1d63ea73fc46#ref=rss)
+* [https://www.spiegel.de/panorama/doebeln-vermisste-neunjaehrige-landesamt-fuer-schule-und-bildung-erinnert-schulen-an-meldevorgaben](https://www.spiegel.de/panorama/doebeln-vermisste-neunjaehrige-landesamt-fuer-schule-und-bildung-erinnert-schulen-an-meldevorgaben-a-9fa4a79a-8d12-4555-8d06-b81c6ee35e6d#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/usa-steve-bannon-muss-ins-gefaengnis](https://www.spiegel.de/ausland/usa-steve-bannon-muss-ins-gefaengnis-a-abd6ec5a-ea0e-46f7-9973-6a535ca5cb5c#ref=rss)
+* [https://www.spiegel.de/ausland/israel-vs-hamas-us-rabbinerin-sharon-brous-ueber-den-gazakrieg](https://www.spiegel.de/ausland/israel-vs-hamas-us-rabbinerin-sharon-brous-ueber-den-gazakrieg-a-396f7cc4-4b99-4876-818d-50619a357579#ref=rss)
+### steve
+
+* [https://www.spiegel.de/ausland/usa-steve-bannon-muss-ins-gefaengnis](https://www.spiegel.de/ausland/usa-steve-bannon-muss-ins-gefaengnis-a-abd6ec5a-ea0e-46f7-9973-6a535ca5cb5c#ref=rss)
+### bannon
+
+* [https://www.spiegel.de/ausland/usa-steve-bannon-muss-ins-gefaengnis](https://www.spiegel.de/ausland/usa-steve-bannon-muss-ins-gefaengnis-a-abd6ec5a-ea0e-46f7-9973-6a535ca5cb5c#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/ausland/usa-steve-bannon-muss-ins-gefaengnis](https://www.spiegel.de/ausland/usa-steve-bannon-muss-ins-gefaengnis-a-abd6ec5a-ea0e-46f7-9973-6a535ca5cb5c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/augsburg-heimliche-nacktaufnahmen-von-jungen-gemacht-bewaehrungsstrafe-fuer-ex-mitarbeiter-der-domsingknaben](https://www.spiegel.de/panorama/justiz/augsburg-heimliche-nacktaufnahmen-von-jungen-gemacht-bewaehrungsstrafe-fuer-ex-mitarbeiter-der-domsingknaben-a-62a26377-1cd6-4f9c-aeb6-7968f1e3a73d#ref=rss)
+### lebensmitteln
+
+* [https://www.spiegel.de/wissenschaft/klimakrise-einfache-wechsel-bei-lebensmitteln-koennten-emissionen-erheblich-einsparen](https://www.spiegel.de/wissenschaft/klimakrise-einfache-wechsel-bei-lebensmitteln-koennten-emissionen-erheblich-einsparen-a-1f2c14f1-5dcb-4522-a189-cefedcc69f8f#ref=rss)
+### sharon
+
+* [https://www.spiegel.de/ausland/israel-vs-hamas-us-rabbinerin-sharon-brous-ueber-den-gazakrieg](https://www.spiegel.de/ausland/israel-vs-hamas-us-rabbinerin-sharon-brous-ueber-den-gazakrieg-a-396f7cc4-4b99-4876-818d-50619a357579#ref=rss)
+### brous
+
+* [https://www.spiegel.de/ausland/israel-vs-hamas-us-rabbinerin-sharon-brous-ueber-den-gazakrieg](https://www.spiegel.de/ausland/israel-vs-hamas-us-rabbinerin-sharon-brous-ueber-den-gazakrieg-a-396f7cc4-4b99-4876-818d-50619a357579#ref=rss)
+### erinnert
+
+* [https://www.spiegel.de/ausland/israel-vs-hamas-us-rabbinerin-sharon-brous-ueber-den-gazakrieg](https://www.spiegel.de/ausland/israel-vs-hamas-us-rabbinerin-sharon-brous-ueber-den-gazakrieg-a-396f7cc4-4b99-4876-818d-50619a357579#ref=rss)
+* [https://www.spiegel.de/panorama/doebeln-vermisste-neunjaehrige-landesamt-fuer-schule-und-bildung-erinnert-schulen-an-meldevorgaben](https://www.spiegel.de/panorama/doebeln-vermisste-neunjaehrige-landesamt-fuer-schule-und-bildung-erinnert-schulen-an-meldevorgaben-a-9fa4a79a-8d12-4555-8d06-b81c6ee35e6d#ref=rss)
+### christian
+
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-im-europa-wahlkampf-wie-der-fdp-chef-mit-protesten-und-hass-umgeht](https://www.spiegel.de/politik/deutschland/christian-lindner-im-europa-wahlkampf-wie-der-fdp-chef-mit-protesten-und-hass-umgeht-a-868dbfcc-d47a-44dc-a1f4-cf3c42dea114#ref=rss)
+### europawahlkampf
+
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-im-europa-wahlkampf-wie-der-fdp-chef-mit-protesten-und-hass-umgeht](https://www.spiegel.de/politik/deutschland/christian-lindner-im-europa-wahlkampf-wie-der-fdp-chef-mit-protesten-und-hass-umgeht-a-868dbfcc-d47a-44dc-a1f4-cf3c42dea114#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/europawahl-und-wahl-in-thueringen-das-erfolgreiche-maerchen-von-der-guten-alten-zeit-podcast](https://www.spiegel.de/politik/deutschland/europawahl-und-wahl-in-thueringen-das-erfolgreiche-maerchen-von-der-guten-alten-zeit-podcast-a-29e25b1f-8684-4d95-b4eb-10ef09851ed0#ref=rss)
+### fdpchef
+
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-im-europa-wahlkampf-wie-der-fdp-chef-mit-protesten-und-hass-umgeht](https://www.spiegel.de/politik/deutschland/christian-lindner-im-europa-wahlkampf-wie-der-fdp-chef-mit-protesten-und-hass-umgeht-a-868dbfcc-d47a-44dc-a1f4-cf3c42dea114#ref=rss)
+### hass
+
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-im-europa-wahlkampf-wie-der-fdp-chef-mit-protesten-und-hass-umgeht](https://www.spiegel.de/politik/deutschland/christian-lindner-im-europa-wahlkampf-wie-der-fdp-chef-mit-protesten-und-hass-umgeht-a-868dbfcc-d47a-44dc-a1f4-cf3c42dea114#ref=rss)
+### schlagen
+
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-im-europa-wahlkampf-wie-der-fdp-chef-mit-protesten-und-hass-umgeht](https://www.spiegel.de/politik/deutschland/christian-lindner-im-europa-wahlkampf-wie-der-fdp-chef-mit-protesten-und-hass-umgeht-a-868dbfcc-d47a-44dc-a1f4-cf3c42dea114#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/medizin-apothekensterben-beschleunigt-sich](https://www.spiegel.de/wirtschaft/service/medizin-apothekensterben-beschleunigt-sich-a-4b6d4dca-27d6-47d0-8a24-df1f7acbe4c4#ref=rss)
+### wdrwahlarena
+
+* [https://www.spiegel.de/kultur/tv/bsw-in-der-wdr-wahlarena-medienrechtler-tobias-mast-erklaert-den-gerichtsbeschluss-des-ovg](https://www.spiegel.de/kultur/tv/bsw-in-der-wdr-wahlarena-medienrechtler-tobias-mast-erklaert-den-gerichtsbeschluss-des-ovg-a-e99e5682-5b27-4f0d-ba30-a5476a5db0c8#ref=rss)
+### medienrechtler
+
+* [https://www.spiegel.de/kultur/tv/bsw-in-der-wdr-wahlarena-medienrechtler-tobias-mast-erklaert-den-gerichtsbeschluss-des-ovg](https://www.spiegel.de/kultur/tv/bsw-in-der-wdr-wahlarena-medienrechtler-tobias-mast-erklaert-den-gerichtsbeschluss-des-ovg-a-e99e5682-5b27-4f0d-ba30-a5476a5db0c8#ref=rss)
+### tobias
+
+* [https://www.spiegel.de/kultur/tv/bsw-in-der-wdr-wahlarena-medienrechtler-tobias-mast-erklaert-den-gerichtsbeschluss-des-ovg](https://www.spiegel.de/kultur/tv/bsw-in-der-wdr-wahlarena-medienrechtler-tobias-mast-erklaert-den-gerichtsbeschluss-des-ovg-a-e99e5682-5b27-4f0d-ba30-a5476a5db0c8#ref=rss)
+### mast
+
+* [https://www.spiegel.de/kultur/tv/bsw-in-der-wdr-wahlarena-medienrechtler-tobias-mast-erklaert-den-gerichtsbeschluss-des-ovg](https://www.spiegel.de/kultur/tv/bsw-in-der-wdr-wahlarena-medienrechtler-tobias-mast-erklaert-den-gerichtsbeschluss-des-ovg-a-e99e5682-5b27-4f0d-ba30-a5476a5db0c8#ref=rss)
+### wolodymyr
+
+* [https://www.spiegel.de/politik/deutschland/wolodymyr-selenskyj-praesident-der-ukraine-soll-vor-bundestag-in-berlin-sprechen](https://www.spiegel.de/politik/deutschland/wolodymyr-selenskyj-praesident-der-ukraine-soll-vor-bundestag-in-berlin-sprechen-a-3fc1f324-7ea8-447d-8613-1ea9fd399c24#ref=rss)
+### selenskyj
+
+* [https://www.spiegel.de/politik/deutschland/wolodymyr-selenskyj-praesident-der-ukraine-soll-vor-bundestag-in-berlin-sprechen](https://www.spiegel.de/politik/deutschland/wolodymyr-selenskyj-praesident-der-ukraine-soll-vor-bundestag-in-berlin-sprechen-a-3fc1f324-7ea8-447d-8613-1ea9fd399c24#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/politik/deutschland/wolodymyr-selenskyj-praesident-der-ukraine-soll-vor-bundestag-in-berlin-sprechen](https://www.spiegel.de/politik/deutschland/wolodymyr-selenskyj-praesident-der-ukraine-soll-vor-bundestag-in-berlin-sprechen-a-3fc1f324-7ea8-447d-8613-1ea9fd399c24#ref=rss)
 ### berlin
 
-* [https://www.spiegel.de/kultur/literatur/frankfurt-am-main-suhrkamp-verlag-verkauft-villa-unseld](https://www.spiegel.de/kultur/literatur/frankfurt-am-main-suhrkamp-verlag-verkauft-villa-unseld-a-e5208b3d-87d0-45cb-9982-de5c1b229390#ref=rss)
-* [https://www.spiegel.de/sport/fussball/union-berlin-das-frauen-team-marschiert-durch-die-regionalliga-nun-stehen-die-playoffs-an](https://www.spiegel.de/sport/fussball/union-berlin-das-frauen-team-marschiert-durch-die-regionalliga-nun-stehen-die-playoffs-an-a-0642c7f8-0333-4e70-96b3-85225ddff1dc#ref=rss)
-### olaf
+* [https://www.spiegel.de/politik/deutschland/wolodymyr-selenskyj-praesident-der-ukraine-soll-vor-bundestag-in-berlin-sprechen](https://www.spiegel.de/politik/deutschland/wolodymyr-selenskyj-praesident-der-ukraine-soll-vor-bundestag-in-berlin-sprechen-a-3fc1f324-7ea8-447d-8613-1ea9fd399c24#ref=rss)
+### gerhard
 
-* [https://www.spiegel.de/politik/deutschland/bundestag-regierungserklaerung-im-video-olaf-scholz-spricht-ueber-abschiebungen-und-die-klimakrise](https://www.spiegel.de/politik/deutschland/bundestag-regierungserklaerung-im-video-olaf-scholz-spricht-ueber-abschiebungen-und-die-klimakrise-a-bdd97a84-2036-4c03-91ce-a4421176c6bf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-will-schwerkriminelle-nach-afghanistan-und-syrien-abschieben](https://www.spiegel.de/politik/deutschland/olaf-scholz-will-schwerkriminelle-nach-afghanistan-und-syrien-abschieben-a-190c0240-dbe3-44a6-8497-d0c3a6e68357#ref=rss)
-### abschiebungen
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-kaempft-vor-gericht-um-sein-buero-und-verliert-erneut](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-kaempft-vor-gericht-um-sein-buero-und-verliert-erneut-a-fd9cf308-60ca-42d7-abe2-5d1acaa002b2#ref=rss)
+### schröder
 
-* [https://www.spiegel.de/politik/deutschland/bundestag-regierungserklaerung-im-video-olaf-scholz-spricht-ueber-abschiebungen-und-die-klimakrise](https://www.spiegel.de/politik/deutschland/bundestag-regierungserklaerung-im-video-olaf-scholz-spricht-ueber-abschiebungen-und-die-klimakrise-a-bdd97a84-2036-4c03-91ce-a4421176c6bf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-will-schwerkriminelle-nach-afghanistan-und-syrien-abschieben](https://www.spiegel.de/politik/deutschland/olaf-scholz-will-schwerkriminelle-nach-afghanistan-und-syrien-abschieben-a-190c0240-dbe3-44a6-8497-d0c3a6e68357#ref=rss)
-### tote
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-kaempft-vor-gericht-um-sein-buero-und-verliert-erneut](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-kaempft-vor-gericht-um-sein-buero-und-verliert-erneut-a-fd9cf308-60ca-42d7-abe2-5d1acaa002b2#ref=rss)
+### büro
 
-* [https://www.spiegel.de/ausland/israel-gaza-konflikt-bis-zu-45-tote-bei-angriff-auf-schule-in-gaza](https://www.spiegel.de/ausland/israel-gaza-konflikt-bis-zu-45-tote-bei-angriff-auf-schule-in-gaza-a-19d5dcff-2b2b-4210-bf3c-a7df952a40fa#ref=rss)
-* [https://www.spiegel.de/panorama/oyten-zwei-tote-bei-brand-in-seniorenheim](https://www.spiegel.de/panorama/oyten-zwei-tote-bei-brand-in-seniorenheim-a-f04f7dff-631a-479f-9cbb-04dadb573de8#ref=rss)
-### kanzleramt
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-kaempft-vor-gericht-um-sein-buero-und-verliert-erneut](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-kaempft-vor-gericht-um-sein-buero-und-verliert-erneut-a-fd9cf308-60ca-42d7-abe2-5d1acaa002b2#ref=rss)
+### akzeptieren
 
-* [https://www.spiegel.de/politik/deutschland/letzte-generation-schreibt-riesigen-spruch-ans-kanzleramt](https://www.spiegel.de/politik/deutschland/letzte-generation-schreibt-riesigen-spruch-ans-kanzleramt-a-f3906c06-6dc6-4aa1-98ba-f0ebfea33537#ref=rss)
-### wochen
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-kaempft-vor-gericht-um-sein-buero-und-verliert-erneut](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-kaempft-vor-gericht-um-sein-buero-und-verliert-erneut-a-fd9cf308-60ca-42d7-abe2-5d1acaa002b2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/mannheim-gericht-erlaubt-afd-demo-trotz-toedlicher-messerattacke-auf-marktplatz](https://www.spiegel.de/politik/deutschland/mannheim-gericht-erlaubt-afd-demo-trotz-toedlicher-messerattacke-auf-marktplatz-a-a667eed7-105d-4b7b-a566-6561597d5af9#ref=rss)
+### russlands
 
-* [https://www.spiegel.de/politik/deutschland/letzte-generation-schreibt-riesigen-spruch-ans-kanzleramt](https://www.spiegel.de/politik/deutschland/letzte-generation-schreibt-riesigen-spruch-ans-kanzleramt-a-f3906c06-6dc6-4aa1-98ba-f0ebfea33537#ref=rss)
-* [https://www.spiegel.de/panorama/leute/prinz-william-ueber-kates-gesundheitszustand-ein-wort-das-hoffnung-macht](https://www.spiegel.de/panorama/leute/prinz-william-ueber-kates-gesundheitszustand-ein-wort-das-hoffnung-macht-a-53015d5d-502b-43dc-b78e-725771037e84#ref=rss)
-### hochwasser
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-kaempft-vor-gericht-um-sein-buero-und-verliert-erneut](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-kaempft-vor-gericht-um-sein-buero-und-verliert-erneut-a-fd9cf308-60ca-42d7-abe2-5d1acaa002b2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-institut-deutsche-chemieindustrie-erholt-sich-offenbar-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/ifo-institut-deutsche-chemieindustrie-erholt-sich-offenbar-deutlich-a-58128fde-869b-4494-980f-1d63ea73fc46#ref=rss)
+### krieg
 
-* [https://www.spiegel.de/wirtschaft/hochwasser-kunden-der-r-v-versicherung-mit-schaeden-von-etwa-100-millionen-euro](https://www.spiegel.de/wirtschaft/hochwasser-kunden-der-r-v-versicherung-mit-schaeden-von-etwa-100-millionen-euro-a-a27abf7a-3b13-4b68-812c-4adb2442c2b2#ref=rss)
-* [https://www.spiegel.de/panorama/bayern-hochwasser-an-donau-fliesst-nur-langsam-ab-erneut-regen-erwartet](https://www.spiegel.de/panorama/bayern-hochwasser-an-donau-fliesst-nur-langsam-ab-erneut-regen-erwartet-a-38420fb1-8289-4a31-9b13-37120571192c#ref=rss)
-### erste
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-kaempft-vor-gericht-um-sein-buero-und-verliert-erneut](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-kaempft-vor-gericht-um-sein-buero-und-verliert-erneut-a-fd9cf308-60ca-42d7-abe2-5d1acaa002b2#ref=rss)
+* [https://www.spiegel.de/ausland/d-day-gedenken-small-talk-mit-koenig-charles-iii](https://www.spiegel.de/ausland/d-day-gedenken-small-talk-mit-koenig-charles-iii-a-52ee8cfe-2ed8-4877-9e27-f0b4be8afac8#ref=rss)
+### oft
 
-* [https://www.spiegel.de/wirtschaft/hochwasser-kunden-der-r-v-versicherung-mit-schaeden-von-etwa-100-millionen-euro](https://www.spiegel.de/wirtschaft/hochwasser-kunden-der-r-v-versicherung-mit-schaeden-von-etwa-100-millionen-euro-a-a27abf7a-3b13-4b68-812c-4adb2442c2b2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/erste-gruene-kritisieren-abschiebeplaene-von-scholz-als-orientierungslos-und-unrealistisch](https://www.spiegel.de/politik/deutschland/erste-gruene-kritisieren-abschiebeplaene-von-scholz-als-orientierungslos-und-unrealistisch-a-f5fba583-9a2b-4ccf-a148-1a7fe82c1584#ref=rss)
-### erwartet
+* [https://www.spiegel.de/politik/deutschland/europawahl-und-wahl-in-thueringen-das-erfolgreiche-maerchen-von-der-guten-alten-zeit-podcast](https://www.spiegel.de/politik/deutschland/europawahl-und-wahl-in-thueringen-das-erfolgreiche-maerchen-von-der-guten-alten-zeit-podcast-a-29e25b1f-8684-4d95-b4eb-10ef09851ed0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bundestag-beschliesst-genehmigungs-turbo-fuer-windraeder](https://www.spiegel.de/wirtschaft/bundestag-beschliesst-genehmigungs-turbo-fuer-windraeder-a-e972c64b-2def-43dd-9c84-1885264e74ac#ref=rss)
+### gigi
 
-* [https://www.spiegel.de/wirtschaft/service/wirtschaftskrise-umsatz-im-einzelhandel-schrumpft-staerker-als-erwartet](https://www.spiegel.de/wirtschaft/service/wirtschaftskrise-umsatz-im-einzelhandel-schrumpft-staerker-als-erwartet-a-ab03e5be-572f-4c7e-bb21-6858e546de2d#ref=rss)
-* [https://www.spiegel.de/panorama/bayern-hochwasser-an-donau-fliesst-nur-langsam-ab-erneut-regen-erwartet](https://www.spiegel.de/panorama/bayern-hochwasser-an-donau-fliesst-nur-langsam-ab-erneut-regen-erwartet-a-38420fb1-8289-4a31-9b13-37120571192c#ref=rss)
-### viele
+* [https://www.spiegel.de/kultur/musik/dj-gigi-dagostino-man-zensiert-aus-angst-vor-rassisten-ein-liebeslied](https://www.spiegel.de/kultur/musik/dj-gigi-dagostino-man-zensiert-aus-angst-vor-rassisten-ein-liebeslied-a-1fc8b474-432d-464a-ada2-66695d43eac8#ref=rss)
+### ganz
 
-* [https://www.spiegel.de/wirtschaft/service/wirtschaftskrise-umsatz-im-einzelhandel-schrumpft-staerker-als-erwartet](https://www.spiegel.de/wirtschaft/service/wirtschaftskrise-umsatz-im-einzelhandel-schrumpft-staerker-als-erwartet-a-ab03e5be-572f-4c7e-bb21-6858e546de2d#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-konflikt-bis-zu-45-tote-bei-angriff-auf-schule-in-gaza](https://www.spiegel.de/ausland/israel-gaza-konflikt-bis-zu-45-tote-bei-angriff-auf-schule-in-gaza-a-19d5dcff-2b2b-4210-bf3c-a7df952a40fa#ref=rss)
-### allem
+* [https://www.spiegel.de/gesundheit/ernaehrung/nutella-geschichten-und-dann-mjam](https://www.spiegel.de/gesundheit/ernaehrung/nutella-geschichten-und-dann-mjam-a-123d462e-97ba-41ae-b911-196c18bcaa23#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bundestag-beschliesst-genehmigungs-turbo-fuer-windraeder](https://www.spiegel.de/wirtschaft/bundestag-beschliesst-genehmigungs-turbo-fuer-windraeder-a-e972c64b-2def-43dd-9c84-1885264e74ac#ref=rss)
+### augsburg
 
-* [https://www.spiegel.de/wirtschaft/service/wirtschaftskrise-umsatz-im-einzelhandel-schrumpft-staerker-als-erwartet](https://www.spiegel.de/wirtschaft/service/wirtschaftskrise-umsatz-im-einzelhandel-schrumpft-staerker-als-erwartet-a-ab03e5be-572f-4c7e-bb21-6858e546de2d#ref=rss)
-* [https://www.spiegel.de/panorama/bayern-hochwasser-an-donau-fliesst-nur-langsam-ab-erneut-regen-erwartet](https://www.spiegel.de/panorama/bayern-hochwasser-an-donau-fliesst-nur-langsam-ab-erneut-regen-erwartet-a-38420fb1-8289-4a31-9b13-37120571192c#ref=rss)
-### mario
-
-* [https://www.spiegel.de/sport/fussball/mario-goetze-wenn-ich-mir-meine-karriere-malen-koennte-haette-ich-das-tor-mit-35-gemacht](https://www.spiegel.de/sport/fussball/mario-goetze-wenn-ich-mir-meine-karriere-malen-koennte-haette-ich-das-tor-mit-35-gemacht-a-3c999ff5-6acf-4ee8-b5d6-4324b851b688#ref=rss)
-### götze
-
-* [https://www.spiegel.de/sport/fussball/mario-goetze-wenn-ich-mir-meine-karriere-malen-koennte-haette-ich-das-tor-mit-35-gemacht](https://www.spiegel.de/sport/fussball/mario-goetze-wenn-ich-mir-meine-karriere-malen-koennte-haette-ich-das-tor-mit-35-gemacht-a-3c999ff5-6acf-4ee8-b5d6-4324b851b688#ref=rss)
-### ich
-
-* [https://www.spiegel.de/sport/fussball/mario-goetze-wenn-ich-mir-meine-karriere-malen-koennte-haette-ich-das-tor-mit-35-gemacht](https://www.spiegel.de/sport/fussball/mario-goetze-wenn-ich-mir-meine-karriere-malen-koennte-haette-ich-das-tor-mit-35-gemacht-a-3c999ff5-6acf-4ee8-b5d6-4324b851b688#ref=rss)
-### macht
-
-* [https://www.spiegel.de/sport/fussball/mario-goetze-wenn-ich-mir-meine-karriere-malen-koennte-haette-ich-das-tor-mit-35-gemacht](https://www.spiegel.de/sport/fussball/mario-goetze-wenn-ich-mir-meine-karriere-malen-koennte-haette-ich-das-tor-mit-35-gemacht-a-3c999ff5-6acf-4ee8-b5d6-4324b851b688#ref=rss)
-* [https://www.spiegel.de/panorama/leute/prinz-william-ueber-kates-gesundheitszustand-ein-wort-das-hoffnung-macht](https://www.spiegel.de/panorama/leute/prinz-william-ueber-kates-gesundheitszustand-ein-wort-das-hoffnung-macht-a-53015d5d-502b-43dc-b78e-725771037e84#ref=rss)
-### persönliche
-
-* [https://www.spiegel.de/sport/fussball/mario-goetze-wenn-ich-mir-meine-karriere-malen-koennte-haette-ich-das-tor-mit-35-gemacht](https://www.spiegel.de/sport/fussball/mario-goetze-wenn-ich-mir-meine-karriere-malen-koennte-haette-ich-das-tor-mit-35-gemacht-a-3c999ff5-6acf-4ee8-b5d6-4324b851b688#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/noyb-datenschuetzer-legen-beschwerde-gegen-meta-wegen-ki-training-mit-nutzerdaten-ein](https://www.spiegel.de/netzwelt/netzpolitik/noyb-datenschuetzer-legen-beschwerde-gegen-meta-wegen-ki-training-mit-nutzerdaten-ein-a-31d98e77-621f-4cfb-b9ab-4aee207b0c7f#ref=rss)
-### einsatzkräfte
-
-* [https://www.spiegel.de/panorama/bayern-hochwasser-an-donau-fliesst-nur-langsam-ab-erneut-regen-erwartet](https://www.spiegel.de/panorama/bayern-hochwasser-an-donau-fliesst-nur-langsam-ab-erneut-regen-erwartet-a-38420fb1-8289-4a31-9b13-37120571192c#ref=rss)
-* [https://www.spiegel.de/panorama/betaeubter-schwarzbaer-faellt-von-baum-in-vorbereitete-plane](https://www.spiegel.de/panorama/betaeubter-schwarzbaer-faellt-von-baum-in-vorbereitete-plane-a-55c6e12b-5577-43a5-998e-bfc0517f9300#ref=rss)
-### wetter
-
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-am-wochenende-bleibt-es-nass-auch-im-sueden](https://www.spiegel.de/panorama/wetter-in-deutschland-am-wochenende-bleibt-es-nass-auch-im-sueden-a-32b23565-f565-412a-97f6-be56d36b6fd7#ref=rss)
-### wochenende
-
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-am-wochenende-bleibt-es-nass-auch-im-sueden](https://www.spiegel.de/panorama/wetter-in-deutschland-am-wochenende-bleibt-es-nass-auch-im-sueden-a-32b23565-f565-412a-97f6-be56d36b6fd7#ref=rss)
-### bleibt
-
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-am-wochenende-bleibt-es-nass-auch-im-sueden](https://www.spiegel.de/panorama/wetter-in-deutschland-am-wochenende-bleibt-es-nass-auch-im-sueden-a-32b23565-f565-412a-97f6-be56d36b6fd7#ref=rss)
-### gabriel
-
-* [https://www.spiegel.de/ausland/gabriel-attal-franzoesischer-premier-spricht-von-unserem-neuen-weltkrieg](https://www.spiegel.de/ausland/gabriel-attal-franzoesischer-premier-spricht-von-unserem-neuen-weltkrieg-a-08fc8d57-19e4-4ef6-b0e1-81ca50b0becc#ref=rss)
-### attal
-
-* [https://www.spiegel.de/ausland/gabriel-attal-franzoesischer-premier-spricht-von-unserem-neuen-weltkrieg](https://www.spiegel.de/ausland/gabriel-attal-franzoesischer-premier-spricht-von-unserem-neuen-weltkrieg-a-08fc8d57-19e4-4ef6-b0e1-81ca50b0becc#ref=rss)
-### französischer
-
-* [https://www.spiegel.de/ausland/gabriel-attal-franzoesischer-premier-spricht-von-unserem-neuen-weltkrieg](https://www.spiegel.de/ausland/gabriel-attal-franzoesischer-premier-spricht-von-unserem-neuen-weltkrieg-a-08fc8d57-19e4-4ef6-b0e1-81ca50b0becc#ref=rss)
-* [https://www.spiegel.de/panorama/d-day-gedenkfeiern-franzoesischer-zoll-kontrolliert-paesse-britischer-fallschirmspringer](https://www.spiegel.de/panorama/d-day-gedenkfeiern-franzoesischer-zoll-kontrolliert-paesse-britischer-fallschirmspringer-a-02d48c1c-c6c8-4c3e-9a07-976bc275ae3c#ref=rss)
-### selma
-
-* [https://www.spiegel.de/panorama/selma-blair-und-ihr-labrador-gemeinsamer-auftritt-auf-dem-roten-teppich-beim-tribeca-film-festival](https://www.spiegel.de/panorama/selma-blair-und-ihr-labrador-gemeinsamer-auftritt-auf-dem-roten-teppich-beim-tribeca-film-festival-a-dac1de23-f2f9-442c-8b15-de75be871c01#ref=rss)
-### blair
-
-* [https://www.spiegel.de/panorama/selma-blair-und-ihr-labrador-gemeinsamer-auftritt-auf-dem-roten-teppich-beim-tribeca-film-festival](https://www.spiegel.de/panorama/selma-blair-und-ihr-labrador-gemeinsamer-auftritt-auf-dem-roten-teppich-beim-tribeca-film-festival-a-dac1de23-f2f9-442c-8b15-de75be871c01#ref=rss)
-### labrador
-
-* [https://www.spiegel.de/panorama/selma-blair-und-ihr-labrador-gemeinsamer-auftritt-auf-dem-roten-teppich-beim-tribeca-film-festival](https://www.spiegel.de/panorama/selma-blair-und-ihr-labrador-gemeinsamer-auftritt-auf-dem-roten-teppich-beim-tribeca-film-festival-a-dac1de23-f2f9-442c-8b15-de75be871c01#ref=rss)
-### tribeca
-
-* [https://www.spiegel.de/panorama/selma-blair-und-ihr-labrador-gemeinsamer-auftritt-auf-dem-roten-teppich-beim-tribeca-film-festival](https://www.spiegel.de/panorama/selma-blair-und-ihr-labrador-gemeinsamer-auftritt-auf-dem-roten-teppich-beim-tribeca-film-festival-a-dac1de23-f2f9-442c-8b15-de75be871c01#ref=rss)
-### film
-
-* [https://www.spiegel.de/panorama/selma-blair-und-ihr-labrador-gemeinsamer-auftritt-auf-dem-roten-teppich-beim-tribeca-film-festival](https://www.spiegel.de/panorama/selma-blair-und-ihr-labrador-gemeinsamer-auftritt-auf-dem-roten-teppich-beim-tribeca-film-festival-a-dac1de23-f2f9-442c-8b15-de75be871c01#ref=rss)
-### festival
-
-* [https://www.spiegel.de/panorama/selma-blair-und-ihr-labrador-gemeinsamer-auftritt-auf-dem-roten-teppich-beim-tribeca-film-festival](https://www.spiegel.de/panorama/selma-blair-und-ihr-labrador-gemeinsamer-auftritt-auf-dem-roten-teppich-beim-tribeca-film-festival-a-dac1de23-f2f9-442c-8b15-de75be871c01#ref=rss)
-### suhrkamp
-
-* [https://www.spiegel.de/kultur/literatur/frankfurt-am-main-suhrkamp-verlag-verkauft-villa-unseld](https://www.spiegel.de/kultur/literatur/frankfurt-am-main-suhrkamp-verlag-verkauft-villa-unseld-a-e5208b3d-87d0-45cb-9982-de5c1b229390#ref=rss)
-### villa
-
-* [https://www.spiegel.de/kultur/literatur/frankfurt-am-main-suhrkamp-verlag-verkauft-villa-unseld](https://www.spiegel.de/kultur/literatur/frankfurt-am-main-suhrkamp-verlag-verkauft-villa-unseld-a-e5208b3d-87d0-45cb-9982-de5c1b229390#ref=rss)
-### unseld
-
-* [https://www.spiegel.de/kultur/literatur/frankfurt-am-main-suhrkamp-verlag-verkauft-villa-unseld](https://www.spiegel.de/kultur/literatur/frankfurt-am-main-suhrkamp-verlag-verkauft-villa-unseld-a-e5208b3d-87d0-45cb-9982-de5c1b229390#ref=rss)
-### windbeutel
-
-* [https://www.spiegel.de/wirtschaft/service/foodwatch-kritik-an-werbung-die-kandidaten-fuer-den-goldenen-windbeutel](https://www.spiegel.de/wirtschaft/service/foodwatch-kritik-an-werbung-die-kandidaten-fuer-den-goldenen-windbeutel-a-dd274193-0310-4226-a51c-f4725e3aea0d#ref=rss)
-### union
-
-* [https://www.spiegel.de/sport/fussball/union-berlin-das-frauen-team-marschiert-durch-die-regionalliga-nun-stehen-die-playoffs-an](https://www.spiegel.de/sport/fussball/union-berlin-das-frauen-team-marschiert-durch-die-regionalliga-nun-stehen-die-playoffs-an-a-0642c7f8-0333-4e70-96b3-85225ddff1dc#ref=rss)
-### schwarzbär
-
-* [https://www.spiegel.de/panorama/betaeubter-schwarzbaer-faellt-von-baum-in-vorbereitete-plane](https://www.spiegel.de/panorama/betaeubter-schwarzbaer-faellt-von-baum-in-vorbereitete-plane-a-55c6e12b-5577-43a5-998e-bfc0517f9300#ref=rss)
-### plane
-
-* [https://www.spiegel.de/panorama/betaeubter-schwarzbaer-faellt-von-baum-in-vorbereitete-plane](https://www.spiegel.de/panorama/betaeubter-schwarzbaer-faellt-von-baum-in-vorbereitete-plane-a-55c6e12b-5577-43a5-998e-bfc0517f9300#ref=rss)
-### regierungserklärung
-
-* [https://www.spiegel.de/politik/deutschland/bundestag-regierungserklaerung-im-video-olaf-scholz-spricht-ueber-abschiebungen-und-die-klimakrise](https://www.spiegel.de/politik/deutschland/bundestag-regierungserklaerung-im-video-olaf-scholz-spricht-ueber-abschiebungen-und-die-klimakrise-a-bdd97a84-2036-4c03-91ce-a4421176c6bf#ref=rss)
-### klimakrise
-
-* [https://www.spiegel.de/politik/deutschland/bundestag-regierungserklaerung-im-video-olaf-scholz-spricht-ueber-abschiebungen-und-die-klimakrise](https://www.spiegel.de/politik/deutschland/bundestag-regierungserklaerung-im-video-olaf-scholz-spricht-ueber-abschiebungen-und-die-klimakrise-a-bdd97a84-2036-4c03-91ce-a4421176c6bf#ref=rss)
-### weit
-
-* [https://www.spiegel.de/politik/deutschland/bundestag-regierungserklaerung-im-video-olaf-scholz-spricht-ueber-abschiebungen-und-die-klimakrise](https://www.spiegel.de/politik/deutschland/bundestag-regierungserklaerung-im-video-olaf-scholz-spricht-ueber-abschiebungen-und-die-klimakrise-a-bdd97a84-2036-4c03-91ce-a4421176c6bf#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/noyb-datenschuetzer-legen-beschwerde-gegen-meta-wegen-ki-training-mit-nutzerdaten-ein](https://www.spiegel.de/netzwelt/netzpolitik/noyb-datenschuetzer-legen-beschwerde-gegen-meta-wegen-ki-training-mit-nutzerdaten-ein-a-31d98e77-621f-4cfb-b9ab-4aee207b0c7f#ref=rss)
-### novak
-
-* [https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-unterzieht-sich-knieoperation-nach-verletzung-bei-den-french-open](https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-unterzieht-sich-knieoperation-nach-verletzung-bei-den-french-open-a-a56c0d3d-68d3-4f15-ba99-2a72a4a49990#ref=rss)
-### djokovic
-
-* [https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-unterzieht-sich-knieoperation-nach-verletzung-bei-den-french-open](https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-unterzieht-sich-knieoperation-nach-verletzung-bei-den-french-open-a-a56c0d3d-68d3-4f15-ba99-2a72a4a49990#ref=rss)
-### french
-
-* [https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-unterzieht-sich-knieoperation-nach-verletzung-bei-den-french-open](https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-unterzieht-sich-knieoperation-nach-verletzung-bei-den-french-open-a-a56c0d3d-68d3-4f15-ba99-2a72a4a49990#ref=rss)
-### open
-
-* [https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-unterzieht-sich-knieoperation-nach-verletzung-bei-den-french-open](https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-unterzieht-sich-knieoperation-nach-verletzung-bei-den-french-open-a-a56c0d3d-68d3-4f15-ba99-2a72a4a49990#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-unterzieht-sich-knieoperation-nach-verletzung-bei-den-french-open](https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-unterzieht-sich-knieoperation-nach-verletzung-bei-den-french-open-a-a56c0d3d-68d3-4f15-ba99-2a72a4a49990#ref=rss)
-* [https://www.spiegel.de/panorama/oyten-zwei-tote-bei-brand-in-seniorenheim](https://www.spiegel.de/panorama/oyten-zwei-tote-bei-brand-in-seniorenheim-a-f04f7dff-631a-479f-9cbb-04dadb573de8#ref=rss)
-### operiert
-
-* [https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-unterzieht-sich-knieoperation-nach-verletzung-bei-den-french-open](https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-unterzieht-sich-knieoperation-nach-verletzung-bei-den-french-open-a-a56c0d3d-68d3-4f15-ba99-2a72a4a49990#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-konflikt-bis-zu-45-tote-bei-angriff-auf-schule-in-gaza](https://www.spiegel.de/ausland/israel-gaza-konflikt-bis-zu-45-tote-bei-angriff-auf-schule-in-gaza-a-19d5dcff-2b2b-4210-bf3c-a7df952a40fa#ref=rss)
-### putin
-
-* [https://www.spiegel.de/ausland/wladimir-putin-droht-dem-westen-mit-stationierung-von-raketen-in-reichweite](https://www.spiegel.de/ausland/wladimir-putin-droht-dem-westen-mit-stationierung-von-raketen-in-reichweite-a-c58e67be-0444-4d00-a270-a7b8b6c3e031#ref=rss)
-### westen
-
-* [https://www.spiegel.de/ausland/wladimir-putin-droht-dem-westen-mit-stationierung-von-raketen-in-reichweite](https://www.spiegel.de/ausland/wladimir-putin-droht-dem-westen-mit-stationierung-von-raketen-in-reichweite-a-c58e67be-0444-4d00-a270-a7b8b6c3e031#ref=rss)
-### künftig
-
-* [https://www.spiegel.de/ausland/wladimir-putin-droht-dem-westen-mit-stationierung-von-raketen-in-reichweite](https://www.spiegel.de/ausland/wladimir-putin-droht-dem-westen-mit-stationierung-von-raketen-in-reichweite-a-c58e67be-0444-4d00-a270-a7b8b6c3e031#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/erste-gruene-kritisieren-abschiebeplaene-von-scholz-als-orientierungslos-und-unrealistisch](https://www.spiegel.de/politik/deutschland/erste-gruene-kritisieren-abschiebeplaene-von-scholz-als-orientierungslos-und-unrealistisch-a-f5fba583-9a2b-4ccf-a148-1a7fe82c1584#ref=rss)
-### väter
-
-* [https://www.spiegel.de/wissenschaft/mensch/adipositas-praevention-werdende-vaeter-koennen-gesundheit-ihrer-kinder-durch-ernaehrung-beeinflussen](https://www.spiegel.de/wissenschaft/mensch/adipositas-praevention-werdende-vaeter-koennen-gesundheit-ihrer-kinder-durch-ernaehrung-beeinflussen-a-17c75a1e-a922-43e5-ad4c-ab85145608fb#ref=rss)
-### gesundheit
-
-* [https://www.spiegel.de/wissenschaft/mensch/adipositas-praevention-werdende-vaeter-koennen-gesundheit-ihrer-kinder-durch-ernaehrung-beeinflussen](https://www.spiegel.de/wissenschaft/mensch/adipositas-praevention-werdende-vaeter-koennen-gesundheit-ihrer-kinder-durch-ernaehrung-beeinflussen-a-17c75a1e-a922-43e5-ad4c-ab85145608fb#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/wissenschaft/mensch/adipositas-praevention-werdende-vaeter-koennen-gesundheit-ihrer-kinder-durch-ernaehrung-beeinflussen](https://www.spiegel.de/wissenschaft/mensch/adipositas-praevention-werdende-vaeter-koennen-gesundheit-ihrer-kinder-durch-ernaehrung-beeinflussen-a-17c75a1e-a922-43e5-ad4c-ab85145608fb#ref=rss)
-### landung
-
-* [https://www.spiegel.de/geschichte/d-day-und-landung-der-alliierten-in-der-normandie-das-raetsel-um-die-graeber-im-garten](https://www.spiegel.de/geschichte/d-day-und-landung-der-alliierten-in-der-normandie-das-raetsel-um-die-graeber-im-garten-a-139c1ddd-2f5c-48df-a172-bfb10b41cd91#ref=rss)
-* [https://www.spiegel.de/panorama/d-day-gedenkfeiern-franzoesischer-zoll-kontrolliert-paesse-britischer-fallschirmspringer](https://www.spiegel.de/panorama/d-day-gedenkfeiern-franzoesischer-zoll-kontrolliert-paesse-britischer-fallschirmspringer-a-02d48c1c-c6c8-4c3e-9a07-976bc275ae3c#ref=rss)
-### alliierten
-
-* [https://www.spiegel.de/geschichte/d-day-und-landung-der-alliierten-in-der-normandie-das-raetsel-um-die-graeber-im-garten](https://www.spiegel.de/geschichte/d-day-und-landung-der-alliierten-in-der-normandie-das-raetsel-um-die-graeber-im-garten-a-139c1ddd-2f5c-48df-a172-bfb10b41cd91#ref=rss)
-* [https://www.spiegel.de/panorama/d-day-gedenkfeiern-franzoesischer-zoll-kontrolliert-paesse-britischer-fallschirmspringer](https://www.spiegel.de/panorama/d-day-gedenkfeiern-franzoesischer-zoll-kontrolliert-paesse-britischer-fallschirmspringer-a-02d48c1c-c6c8-4c3e-9a07-976bc275ae3c#ref=rss)
-### normandie
-
-* [https://www.spiegel.de/geschichte/d-day-und-landung-der-alliierten-in-der-normandie-das-raetsel-um-die-graeber-im-garten](https://www.spiegel.de/geschichte/d-day-und-landung-der-alliierten-in-der-normandie-das-raetsel-um-die-graeber-im-garten-a-139c1ddd-2f5c-48df-a172-bfb10b41cd91#ref=rss)
-* [https://www.spiegel.de/panorama/d-day-gedenkfeiern-franzoesischer-zoll-kontrolliert-paesse-britischer-fallschirmspringer](https://www.spiegel.de/panorama/d-day-gedenkfeiern-franzoesischer-zoll-kontrolliert-paesse-britischer-fallschirmspringer-a-02d48c1c-c6c8-4c3e-9a07-976bc275ae3c#ref=rss)
-### findet
-
-* [https://www.spiegel.de/geschichte/d-day-und-landung-der-alliierten-in-der-normandie-das-raetsel-um-die-graeber-im-garten](https://www.spiegel.de/geschichte/d-day-und-landung-der-alliierten-in-der-normandie-das-raetsel-um-die-graeber-im-garten-a-139c1ddd-2f5c-48df-a172-bfb10b41cd91#ref=rss)
-* [https://www.spiegel.de/sport/leichtathletik-em-2024-in-rom-zeitplan-entscheidungen-ergebnisse](https://www.spiegel.de/sport/leichtathletik-em-2024-in-rom-zeitplan-entscheidungen-ergebnisse-a-817801de-9c95-4e96-9c20-068f7978f7a6#ref=rss)
-### ende
-
-* [https://www.spiegel.de/geschichte/d-day-und-landung-der-alliierten-in-der-normandie-das-raetsel-um-die-graeber-im-garten](https://www.spiegel.de/geschichte/d-day-und-landung-der-alliierten-in-der-normandie-das-raetsel-um-die-graeber-im-garten-a-139c1ddd-2f5c-48df-a172-bfb10b41cd91#ref=rss)
-* [https://www.spiegel.de/kultur/gedenkstaetten-debatte-zu-claudia-roth-kolonialismus-ist-keine-geschichte](https://www.spiegel.de/kultur/gedenkstaetten-debatte-zu-claudia-roth-kolonialismus-ist-keine-geschichte-a-e4d57683-a2db-4559-921f-3996626a585b#ref=rss)
-### fallschirmspringer
-
-* [https://www.spiegel.de/panorama/d-day-gedenkfeiern-franzoesischer-zoll-kontrolliert-paesse-britischer-fallschirmspringer](https://www.spiegel.de/panorama/d-day-gedenkfeiern-franzoesischer-zoll-kontrolliert-paesse-britischer-fallschirmspringer-a-02d48c1c-c6c8-4c3e-9a07-976bc275ae3c#ref=rss)
-### britische
-
-* [https://www.spiegel.de/panorama/d-day-gedenkfeiern-franzoesischer-zoll-kontrolliert-paesse-britischer-fallschirmspringer](https://www.spiegel.de/panorama/d-day-gedenkfeiern-franzoesischer-zoll-kontrolliert-paesse-britischer-fallschirmspringer-a-02d48c1c-c6c8-4c3e-9a07-976bc275ae3c#ref=rss)
-* [https://www.spiegel.de/panorama/leute/prinz-william-ueber-kates-gesundheitszustand-ein-wort-das-hoffnung-macht](https://www.spiegel.de/panorama/leute/prinz-william-ueber-kates-gesundheitszustand-ein-wort-das-hoffnung-macht-a-53015d5d-502b-43dc-b78e-725771037e84#ref=rss)
-### tigerhai
-
-* [https://www.spiegel.de/wissenschaft/natur/australien-tigerhai-spuckt-ameisenigel-aus](https://www.spiegel.de/wissenschaft/natur/australien-tigerhai-spuckt-ameisenigel-aus-a-f2933b16-dc9c-4ac0-9dc1-b431db80ed77#ref=rss)
-### ameisenigel
-
-* [https://www.spiegel.de/wissenschaft/natur/australien-tigerhai-spuckt-ameisenigel-aus](https://www.spiegel.de/wissenschaft/natur/australien-tigerhai-spuckt-ameisenigel-aus-a-f2933b16-dc9c-4ac0-9dc1-b431db80ed77#ref=rss)
-### heraus
-
-* [https://www.spiegel.de/wissenschaft/natur/australien-tigerhai-spuckt-ameisenigel-aus](https://www.spiegel.de/wissenschaft/natur/australien-tigerhai-spuckt-ameisenigel-aus-a-f2933b16-dc9c-4ac0-9dc1-b431db80ed77#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-konflikt-bis-zu-45-tote-bei-angriff-auf-schule-in-gaza](https://www.spiegel.de/ausland/israel-gaza-konflikt-bis-zu-45-tote-bei-angriff-auf-schule-in-gaza-a-19d5dcff-2b2b-4210-bf3c-a7df952a40fa#ref=rss)
-### einzige
-
-* [https://www.spiegel.de/wissenschaft/natur/australien-tigerhai-spuckt-ameisenigel-aus](https://www.spiegel.de/wissenschaft/natur/australien-tigerhai-spuckt-ameisenigel-aus-a-f2933b16-dc9c-4ac0-9dc1-b431db80ed77#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-will-schwerkriminelle-nach-afghanistan-und-syrien-abschieben](https://www.spiegel.de/politik/deutschland/olaf-scholz-will-schwerkriminelle-nach-afghanistan-und-syrien-abschieben-a-190c0240-dbe3-44a6-8497-d0c3a6e68357#ref=rss)
-### schule
-
-* [https://www.spiegel.de/ausland/israel-gaza-konflikt-bis-zu-45-tote-bei-angriff-auf-schule-in-gaza](https://www.spiegel.de/ausland/israel-gaza-konflikt-bis-zu-45-tote-bei-angriff-auf-schule-in-gaza-a-19d5dcff-2b2b-4210-bf3c-a7df952a40fa#ref=rss)
-### wirft
-
-* [https://www.spiegel.de/ausland/israel-gaza-konflikt-bis-zu-45-tote-bei-angriff-auf-schule-in-gaza](https://www.spiegel.de/ausland/israel-gaza-konflikt-bis-zu-45-tote-bei-angriff-auf-schule-in-gaza-a-19d5dcff-2b2b-4210-bf3c-a7df952a40fa#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/erste-gruene-kritisieren-abschiebeplaene-von-scholz-als-orientierungslos-und-unrealistisch](https://www.spiegel.de/politik/deutschland/erste-gruene-kritisieren-abschiebeplaene-von-scholz-als-orientierungslos-und-unrealistisch-a-f5fba583-9a2b-4ccf-a148-1a7fe82c1584#ref=rss)
-### bad
-
-* [https://www.spiegel.de/kultur/kino/bad-boys-4-rezension-ein-nostalgischer-ausflug-ins-actionkino](https://www.spiegel.de/kultur/kino/bad-boys-4-rezension-ein-nostalgischer-ausflug-ins-actionkino-a-c2522366-3a2b-4861-8fcd-13c476583280#ref=rss)
-### smith
-
-* [https://www.spiegel.de/kultur/kino/bad-boys-4-rezension-ein-nostalgischer-ausflug-ins-actionkino](https://www.spiegel.de/kultur/kino/bad-boys-4-rezension-ein-nostalgischer-ausflug-ins-actionkino-a-c2522366-3a2b-4861-8fcd-13c476583280#ref=rss)
-### actionkino
-
-* [https://www.spiegel.de/kultur/kino/bad-boys-4-rezension-ein-nostalgischer-ausflug-ins-actionkino](https://www.spiegel.de/kultur/kino/bad-boys-4-rezension-ein-nostalgischer-ausflug-ins-actionkino-a-c2522366-3a2b-4861-8fcd-13c476583280#ref=rss)
-### oyten
-
-* [https://www.spiegel.de/panorama/oyten-zwei-tote-bei-brand-in-seniorenheim](https://www.spiegel.de/panorama/oyten-zwei-tote-bei-brand-in-seniorenheim-a-f04f7dff-631a-479f-9cbb-04dadb573de8#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/augsburg-heimliche-nacktaufnahmen-von-jungen-gemacht-bewaehrungsstrafe-fuer-ex-mitarbeiter-der-domsingknaben](https://www.spiegel.de/panorama/justiz/augsburg-heimliche-nacktaufnahmen-von-jungen-gemacht-bewaehrungsstrafe-fuer-ex-mitarbeiter-der-domsingknaben-a-62a26377-1cd6-4f9c-aeb6-7968f1e3a73d#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/panorama/oyten-zwei-tote-bei-brand-in-seniorenheim](https://www.spiegel.de/panorama/oyten-zwei-tote-bei-brand-in-seniorenheim-a-f04f7dff-631a-479f-9cbb-04dadb573de8#ref=rss)
-### brand
+* [https://www.spiegel.de/panorama/justiz/augsburg-heimliche-nacktaufnahmen-von-jungen-gemacht-bewaehrungsstrafe-fuer-ex-mitarbeiter-der-domsingknaben](https://www.spiegel.de/panorama/justiz/augsburg-heimliche-nacktaufnahmen-von-jungen-gemacht-bewaehrungsstrafe-fuer-ex-mitarbeiter-der-domsingknaben-a-62a26377-1cd6-4f9c-aeb6-7968f1e3a73d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/taurus-abhoeraffaere-luftwaffen-generaele-muessen-geldbusse-zahlen](https://www.spiegel.de/politik/deutschland/taurus-abhoeraffaere-luftwaffen-generaele-muessen-geldbusse-zahlen-a-9aa6cd27-1338-4591-8240-7232517f6b3f#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/panorama/oyten-zwei-tote-bei-brand-in-seniorenheim](https://www.spiegel.de/panorama/oyten-zwei-tote-bei-brand-in-seniorenheim-a-f04f7dff-631a-479f-9cbb-04dadb573de8#ref=rss)
-### seniorenheim
+* [https://www.spiegel.de/panorama/justiz/augsburg-heimliche-nacktaufnahmen-von-jungen-gemacht-bewaehrungsstrafe-fuer-ex-mitarbeiter-der-domsingknaben](https://www.spiegel.de/panorama/justiz/augsburg-heimliche-nacktaufnahmen-von-jungen-gemacht-bewaehrungsstrafe-fuer-ex-mitarbeiter-der-domsingknaben-a-62a26377-1cd6-4f9c-aeb6-7968f1e3a73d#ref=rss)
+* [https://www.spiegel.de/ausland/d-day-gedenken-small-talk-mit-koenig-charles-iii](https://www.spiegel.de/ausland/d-day-gedenken-small-talk-mit-koenig-charles-iii-a-52ee8cfe-2ed8-4877-9e27-f0b4be8afac8#ref=rss)
+### essen
 
-* [https://www.spiegel.de/panorama/oyten-zwei-tote-bei-brand-in-seniorenheim](https://www.spiegel.de/panorama/oyten-zwei-tote-bei-brand-in-seniorenheim-a-f04f7dff-631a-479f-9cbb-04dadb573de8#ref=rss)
-### kanzler
+* [https://www.spiegel.de/politik/deutschland/stadt-essen-kuendigt-mietvertrag-fuer-afd-bundesparteitag](https://www.spiegel.de/politik/deutschland/stadt-essen-kuendigt-mietvertrag-fuer-afd-bundesparteitag-a-69581470-3a3f-4410-958f-fe21545130d5#ref=rss)
+### stadt
 
-* [https://www.spiegel.de/politik/deutschland/erste-gruene-kritisieren-abschiebeplaene-von-scholz-als-orientierungslos-und-unrealistisch](https://www.spiegel.de/politik/deutschland/erste-gruene-kritisieren-abschiebeplaene-von-scholz-als-orientierungslos-und-unrealistisch-a-f5fba583-9a2b-4ccf-a148-1a7fe82c1584#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-will-schwerkriminelle-nach-afghanistan-und-syrien-abschieben](https://www.spiegel.de/politik/deutschland/olaf-scholz-will-schwerkriminelle-nach-afghanistan-und-syrien-abschieben-a-190c0240-dbe3-44a6-8497-d0c3a6e68357#ref=rss)
-### schwerkriminelle
+* [https://www.spiegel.de/politik/deutschland/stadt-essen-kuendigt-mietvertrag-fuer-afd-bundesparteitag](https://www.spiegel.de/politik/deutschland/stadt-essen-kuendigt-mietvertrag-fuer-afd-bundesparteitag-a-69581470-3a3f-4410-958f-fe21545130d5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/mannheim-gericht-erlaubt-afd-demo-trotz-toedlicher-messerattacke-auf-marktplatz](https://www.spiegel.de/politik/deutschland/mannheim-gericht-erlaubt-afd-demo-trotz-toedlicher-messerattacke-auf-marktplatz-a-a667eed7-105d-4b7b-a566-6561597d5af9#ref=rss)
+### kündigt
 
-* [https://www.spiegel.de/politik/deutschland/erste-gruene-kritisieren-abschiebeplaene-von-scholz-als-orientierungslos-und-unrealistisch](https://www.spiegel.de/politik/deutschland/erste-gruene-kritisieren-abschiebeplaene-von-scholz-als-orientierungslos-und-unrealistisch-a-f5fba583-9a2b-4ccf-a148-1a7fe82c1584#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-will-schwerkriminelle-nach-afghanistan-und-syrien-abschieben](https://www.spiegel.de/politik/deutschland/olaf-scholz-will-schwerkriminelle-nach-afghanistan-und-syrien-abschieben-a-190c0240-dbe3-44a6-8497-d0c3a6e68357#ref=rss)
-### ökostromanteil
+* [https://www.spiegel.de/politik/deutschland/stadt-essen-kuendigt-mietvertrag-fuer-afd-bundesparteitag](https://www.spiegel.de/politik/deutschland/stadt-essen-kuendigt-mietvertrag-fuer-afd-bundesparteitag-a-69581470-3a3f-4410-958f-fe21545130d5#ref=rss)
+### grugahalle
 
-* [https://www.spiegel.de/wirtschaft/erneuerbare-energien-oekostrom-anteil-erreicht-rekordwert-von-fast-60-prozent](https://www.spiegel.de/wirtschaft/erneuerbare-energien-oekostrom-anteil-erreicht-rekordwert-von-fast-60-prozent-a-a89ecaab-f84f-4215-810e-6e17afe1cc4b#ref=rss)
-### rekordwert
+* [https://www.spiegel.de/politik/deutschland/stadt-essen-kuendigt-mietvertrag-fuer-afd-bundesparteitag](https://www.spiegel.de/politik/deutschland/stadt-essen-kuendigt-mietvertrag-fuer-afd-bundesparteitag-a-69581470-3a3f-4410-958f-fe21545130d5#ref=rss)
+### afd
 
-* [https://www.spiegel.de/wirtschaft/erneuerbare-energien-oekostrom-anteil-erreicht-rekordwert-von-fast-60-prozent](https://www.spiegel.de/wirtschaft/erneuerbare-energien-oekostrom-anteil-erreicht-rekordwert-von-fast-60-prozent-a-a89ecaab-f84f-4215-810e-6e17afe1cc4b#ref=rss)
-### fast
+* [https://www.spiegel.de/politik/deutschland/stadt-essen-kuendigt-mietvertrag-fuer-afd-bundesparteitag](https://www.spiegel.de/politik/deutschland/stadt-essen-kuendigt-mietvertrag-fuer-afd-bundesparteitag-a-69581470-3a3f-4410-958f-fe21545130d5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/mannheim-gericht-erlaubt-afd-demo-trotz-toedlicher-messerattacke-auf-marktplatz](https://www.spiegel.de/politik/deutschland/mannheim-gericht-erlaubt-afd-demo-trotz-toedlicher-messerattacke-auf-marktplatz-a-a667eed7-105d-4b7b-a566-6561597d5af9#ref=rss)
+### partei
 
-* [https://www.spiegel.de/wirtschaft/erneuerbare-energien-oekostrom-anteil-erreicht-rekordwert-von-fast-60-prozent](https://www.spiegel.de/wirtschaft/erneuerbare-energien-oekostrom-anteil-erreicht-rekordwert-von-fast-60-prozent-a-a89ecaab-f84f-4215-810e-6e17afe1cc4b#ref=rss)
-### 60
+* [https://www.spiegel.de/politik/deutschland/stadt-essen-kuendigt-mietvertrag-fuer-afd-bundesparteitag](https://www.spiegel.de/politik/deutschland/stadt-essen-kuendigt-mietvertrag-fuer-afd-bundesparteitag-a-69581470-3a3f-4410-958f-fe21545130d5#ref=rss)
+* [https://www.spiegel.de/ausland/italien-fuer-die-partei-lega-von-matteo-salvini-tritt-ein-ultrarechter-general-an](https://www.spiegel.de/ausland/italien-fuer-die-partei-lega-von-matteo-salvini-tritt-ein-ultrarechter-general-an-a-1dd6f037-ddf5-4758-967a-484048eb5003#ref=rss)
+### rückwirkend
 
-* [https://www.spiegel.de/wirtschaft/erneuerbare-energien-oekostrom-anteil-erreicht-rekordwert-von-fast-60-prozent](https://www.spiegel.de/wirtschaft/erneuerbare-energien-oekostrom-anteil-erreicht-rekordwert-von-fast-60-prozent-a-a89ecaab-f84f-4215-810e-6e17afe1cc4b#ref=rss)
-### prozent
+* [https://www.spiegel.de/wirtschaft/soziales/steuern-finanzminister-lindner-will-kinderfreibetrag-rueckwirkend-anheben](https://www.spiegel.de/wirtschaft/soziales/steuern-finanzminister-lindner-will-kinderfreibetrag-rueckwirkend-anheben-a-4eb46905-a55c-4aa7-a6d5-4701e2a50078#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/wirtschaft/erneuerbare-energien-oekostrom-anteil-erreicht-rekordwert-von-fast-60-prozent](https://www.spiegel.de/wirtschaft/erneuerbare-energien-oekostrom-anteil-erreicht-rekordwert-von-fast-60-prozent-a-a89ecaab-f84f-4215-810e-6e17afe1cc4b#ref=rss)
-### wasser
+* [https://www.spiegel.de/wirtschaft/soziales/steuern-finanzminister-lindner-will-kinderfreibetrag-rueckwirkend-anheben](https://www.spiegel.de/wirtschaft/soziales/steuern-finanzminister-lindner-will-kinderfreibetrag-rueckwirkend-anheben-a-4eb46905-a55c-4aa7-a6d5-4701e2a50078#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/starlab-wie-airbus-und-seine-partner-das-iss-erbe-planen](https://www.spiegel.de/wissenschaft/weltall/starlab-wie-airbus-und-seine-partner-das-iss-erbe-planen-a-a46c0823-dd4a-450f-b570-8550869de446#ref=rss)
+### profitieren
 
-* [https://www.spiegel.de/wirtschaft/erneuerbare-energien-oekostrom-anteil-erreicht-rekordwert-von-fast-60-prozent](https://www.spiegel.de/wirtschaft/erneuerbare-energien-oekostrom-anteil-erreicht-rekordwert-von-fast-60-prozent-a-a89ecaab-f84f-4215-810e-6e17afe1cc4b#ref=rss)
-* [https://www.spiegel.de/panorama/niedersachsen-trinkwasser-in-noerten-hardenberg-belastet-anwohner-muessen-wasser-aus-nachbarort-abholen](https://www.spiegel.de/panorama/niedersachsen-trinkwasser-in-noerten-hardenberg-belastet-anwohner-muessen-wasser-aus-nachbarort-abholen-a-deb4822b-a6ed-492d-bfaf-aac6478853c4#ref=rss)
-### statt
+* [https://www.spiegel.de/wirtschaft/soziales/steuern-finanzminister-lindner-will-kinderfreibetrag-rueckwirkend-anheben](https://www.spiegel.de/wirtschaft/soziales/steuern-finanzminister-lindner-will-kinderfreibetrag-rueckwirkend-anheben-a-4eb46905-a55c-4aa7-a6d5-4701e2a50078#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bundestag-beschliesst-genehmigungs-turbo-fuer-windraeder](https://www.spiegel.de/wirtschaft/bundestag-beschliesst-genehmigungs-turbo-fuer-windraeder-a-e972c64b-2def-43dd-9c84-1885264e74ac#ref=rss)
+### windräder
 
-* [https://www.spiegel.de/wirtschaft/erneuerbare-energien-oekostrom-anteil-erreicht-rekordwert-von-fast-60-prozent](https://www.spiegel.de/wirtschaft/erneuerbare-energien-oekostrom-anteil-erreicht-rekordwert-von-fast-60-prozent-a-a89ecaab-f84f-4215-810e-6e17afe1cc4b#ref=rss)
-* [https://www.spiegel.de/sport/leichtathletik-em-2024-in-rom-zeitplan-entscheidungen-ergebnisse](https://www.spiegel.de/sport/leichtathletik-em-2024-in-rom-zeitplan-entscheidungen-ergebnisse-a-817801de-9c95-4e96-9c20-068f7978f7a6#ref=rss)
-### prinz
+* [https://www.spiegel.de/wirtschaft/bundestag-beschliesst-genehmigungs-turbo-fuer-windraeder](https://www.spiegel.de/wirtschaft/bundestag-beschliesst-genehmigungs-turbo-fuer-windraeder-a-e972c64b-2def-43dd-9c84-1885264e74ac#ref=rss)
+### ändern
 
-* [https://www.spiegel.de/panorama/leute/prinz-william-ueber-kates-gesundheitszustand-ein-wort-das-hoffnung-macht](https://www.spiegel.de/panorama/leute/prinz-william-ueber-kates-gesundheitszustand-ein-wort-das-hoffnung-macht-a-53015d5d-502b-43dc-b78e-725771037e84#ref=rss)
-### william
+* [https://www.spiegel.de/wirtschaft/bundestag-beschliesst-genehmigungs-turbo-fuer-windraeder](https://www.spiegel.de/wirtschaft/bundestag-beschliesst-genehmigungs-turbo-fuer-windraeder-a-e972c64b-2def-43dd-9c84-1885264e74ac#ref=rss)
+* [https://www.spiegel.de/ausland/italien-fuer-die-partei-lega-von-matteo-salvini-tritt-ein-ultrarechter-general-an](https://www.spiegel.de/ausland/italien-fuer-die-partei-lega-von-matteo-salvini-tritt-ein-ultrarechter-general-an-a-1dd6f037-ddf5-4758-967a-484048eb5003#ref=rss)
+### scholz
 
-* [https://www.spiegel.de/panorama/leute/prinz-william-ueber-kates-gesundheitszustand-ein-wort-das-hoffnung-macht](https://www.spiegel.de/panorama/leute/prinz-william-ueber-kates-gesundheitszustand-ein-wort-das-hoffnung-macht-a-53015d5d-502b-43dc-b78e-725771037e84#ref=rss)
-### kates
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-und-seine-regierungserklaerung-nvidias-aktienhoch-80-jahre-d-day](https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-und-seine-regierungserklaerung-nvidias-aktienhoch-80-jahre-d-day-a-3496fb88-55a8-4788-a024-d9a9c9e1d70e#ref=rss)
+### 80
 
-* [https://www.spiegel.de/panorama/leute/prinz-william-ueber-kates-gesundheitszustand-ein-wort-das-hoffnung-macht](https://www.spiegel.de/panorama/leute/prinz-william-ueber-kates-gesundheitszustand-ein-wort-das-hoffnung-macht-a-53015d5d-502b-43dc-b78e-725771037e84#ref=rss)
-### noyb
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-und-seine-regierungserklaerung-nvidias-aktienhoch-80-jahre-d-day](https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-und-seine-regierungserklaerung-nvidias-aktienhoch-80-jahre-d-day-a-3496fb88-55a8-4788-a024-d9a9c9e1d70e#ref=rss)
+* [https://www.spiegel.de/ausland/d-day-gedenken-small-talk-mit-koenig-charles-iii](https://www.spiegel.de/ausland/d-day-gedenken-small-talk-mit-koenig-charles-iii-a-52ee8cfe-2ed8-4877-9e27-f0b4be8afac8#ref=rss)
+### dday
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/noyb-datenschuetzer-legen-beschwerde-gegen-meta-wegen-ki-training-mit-nutzerdaten-ein](https://www.spiegel.de/netzwelt/netzpolitik/noyb-datenschuetzer-legen-beschwerde-gegen-meta-wegen-ki-training-mit-nutzerdaten-ein-a-31d98e77-621f-4cfb-b9ab-4aee207b0c7f#ref=rss)
-### meta
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-und-seine-regierungserklaerung-nvidias-aktienhoch-80-jahre-d-day](https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-und-seine-regierungserklaerung-nvidias-aktienhoch-80-jahre-d-day-a-3496fb88-55a8-4788-a024-d9a9c9e1d70e#ref=rss)
+* [https://www.spiegel.de/ausland/d-day-gedenken-small-talk-mit-koenig-charles-iii](https://www.spiegel.de/ausland/d-day-gedenken-small-talk-mit-koenig-charles-iii-a-52ee8cfe-2ed8-4877-9e27-f0b4be8afac8#ref=rss)
+### lega
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/noyb-datenschuetzer-legen-beschwerde-gegen-meta-wegen-ki-training-mit-nutzerdaten-ein](https://www.spiegel.de/netzwelt/netzpolitik/noyb-datenschuetzer-legen-beschwerde-gegen-meta-wegen-ki-training-mit-nutzerdaten-ein-a-31d98e77-621f-4cfb-b9ab-4aee207b0c7f#ref=rss)
-### nutzerdaten
+* [https://www.spiegel.de/ausland/italien-fuer-die-partei-lega-von-matteo-salvini-tritt-ein-ultrarechter-general-an](https://www.spiegel.de/ausland/italien-fuer-die-partei-lega-von-matteo-salvini-tritt-ein-ultrarechter-general-an-a-1dd6f037-ddf5-4758-967a-484048eb5003#ref=rss)
+### salvini
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/noyb-datenschuetzer-legen-beschwerde-gegen-meta-wegen-ki-training-mit-nutzerdaten-ein](https://www.spiegel.de/netzwelt/netzpolitik/noyb-datenschuetzer-legen-beschwerde-gegen-meta-wegen-ki-training-mit-nutzerdaten-ein-a-31d98e77-621f-4cfb-b9ab-4aee207b0c7f#ref=rss)
-### claudia
+* [https://www.spiegel.de/ausland/italien-fuer-die-partei-lega-von-matteo-salvini-tritt-ein-ultrarechter-general-an](https://www.spiegel.de/ausland/italien-fuer-die-partei-lega-von-matteo-salvini-tritt-ein-ultrarechter-general-an-a-1dd6f037-ddf5-4758-967a-484048eb5003#ref=rss)
+### general
 
-* [https://www.spiegel.de/kultur/gedenkstaetten-debatte-zu-claudia-roth-kolonialismus-ist-keine-geschichte](https://www.spiegel.de/kultur/gedenkstaetten-debatte-zu-claudia-roth-kolonialismus-ist-keine-geschichte-a-e4d57683-a2db-4559-921f-3996626a585b#ref=rss)
-### leichtathletikem
+* [https://www.spiegel.de/ausland/italien-fuer-die-partei-lega-von-matteo-salvini-tritt-ein-ultrarechter-general-an](https://www.spiegel.de/ausland/italien-fuer-die-partei-lega-von-matteo-salvini-tritt-ein-ultrarechter-general-an-a-1dd6f037-ddf5-4758-967a-484048eb5003#ref=rss)
+### iga
 
-* [https://www.spiegel.de/sport/leichtathletik-em-2024-in-rom-zeitplan-entscheidungen-ergebnisse](https://www.spiegel.de/sport/leichtathletik-em-2024-in-rom-zeitplan-entscheidungen-ergebnisse-a-817801de-9c95-4e96-9c20-068f7978f7a6#ref=rss)
-### rom
+* [https://www.spiegel.de/sport/tennis/french-open-iga-swiatek-steht-nach-sieg-gegen-gauff-im-finale](https://www.spiegel.de/sport/tennis/french-open-iga-swiatek-steht-nach-sieg-gegen-gauff-im-finale-a-9c24a258-1feb-4f5c-b2b8-28e58ac63a7f#ref=rss)
+### świątek
 
-* [https://www.spiegel.de/sport/leichtathletik-em-2024-in-rom-zeitplan-entscheidungen-ergebnisse](https://www.spiegel.de/sport/leichtathletik-em-2024-in-rom-zeitplan-entscheidungen-ergebnisse-a-817801de-9c95-4e96-9c20-068f7978f7a6#ref=rss)
-### zeitplan
+* [https://www.spiegel.de/sport/tennis/french-open-iga-swiatek-steht-nach-sieg-gegen-gauff-im-finale](https://www.spiegel.de/sport/tennis/french-open-iga-swiatek-steht-nach-sieg-gegen-gauff-im-finale-a-9c24a258-1feb-4f5c-b2b8-28e58ac63a7f#ref=rss)
+### sieg
 
-* [https://www.spiegel.de/sport/leichtathletik-em-2024-in-rom-zeitplan-entscheidungen-ergebnisse](https://www.spiegel.de/sport/leichtathletik-em-2024-in-rom-zeitplan-entscheidungen-ergebnisse-a-817801de-9c95-4e96-9c20-068f7978f7a6#ref=rss)
-### entscheidungen
+* [https://www.spiegel.de/sport/tennis/french-open-iga-swiatek-steht-nach-sieg-gegen-gauff-im-finale](https://www.spiegel.de/sport/tennis/french-open-iga-swiatek-steht-nach-sieg-gegen-gauff-im-finale-a-9c24a258-1feb-4f5c-b2b8-28e58ac63a7f#ref=rss)
+### gauff
 
-* [https://www.spiegel.de/sport/leichtathletik-em-2024-in-rom-zeitplan-entscheidungen-ergebnisse](https://www.spiegel.de/sport/leichtathletik-em-2024-in-rom-zeitplan-entscheidungen-ergebnisse-a-817801de-9c95-4e96-9c20-068f7978f7a6#ref=rss)
-### nörtenhardenberg
+* [https://www.spiegel.de/sport/tennis/french-open-iga-swiatek-steht-nach-sieg-gegen-gauff-im-finale](https://www.spiegel.de/sport/tennis/french-open-iga-swiatek-steht-nach-sieg-gegen-gauff-im-finale-a-9c24a258-1feb-4f5c-b2b8-28e58ac63a7f#ref=rss)
+### duolingo
 
-* [https://www.spiegel.de/panorama/niedersachsen-trinkwasser-in-noerten-hardenberg-belastet-anwohner-muessen-wasser-aus-nachbarort-abholen](https://www.spiegel.de/panorama/niedersachsen-trinkwasser-in-noerten-hardenberg-belastet-anwohner-muessen-wasser-aus-nachbarort-abholen-a-deb4822b-a6ed-492d-bfaf-aac6478853c4#ref=rss)
-### trinkwasser
+* [https://www.spiegel.de/netzwelt/apps/lgbtq-unerwuenscht-duolingo-loescht-lektionen-in-russland](https://www.spiegel.de/netzwelt/apps/lgbtq-unerwuenscht-duolingo-loescht-lektionen-in-russland-a-7a9f9625-130b-4954-ad72-85a5ff50b4fc#ref=rss)
+### pride
 
-* [https://www.spiegel.de/panorama/niedersachsen-trinkwasser-in-noerten-hardenberg-belastet-anwohner-muessen-wasser-aus-nachbarort-abholen](https://www.spiegel.de/panorama/niedersachsen-trinkwasser-in-noerten-hardenberg-belastet-anwohner-muessen-wasser-aus-nachbarort-abholen-a-deb4822b-a6ed-492d-bfaf-aac6478853c4#ref=rss)
-### nachbarort
+* [https://www.spiegel.de/netzwelt/apps/lgbtq-unerwuenscht-duolingo-loescht-lektionen-in-russland](https://www.spiegel.de/netzwelt/apps/lgbtq-unerwuenscht-duolingo-loescht-lektionen-in-russland-a-7a9f9625-130b-4954-ad72-85a5ff50b4fc#ref=rss)
+### könig
 
-* [https://www.spiegel.de/panorama/niedersachsen-trinkwasser-in-noerten-hardenberg-belastet-anwohner-muessen-wasser-aus-nachbarort-abholen](https://www.spiegel.de/panorama/niedersachsen-trinkwasser-in-noerten-hardenberg-belastet-anwohner-muessen-wasser-aus-nachbarort-abholen-a-deb4822b-a6ed-492d-bfaf-aac6478853c4#ref=rss)
-### abholen
+* [https://www.spiegel.de/ausland/d-day-gedenken-small-talk-mit-koenig-charles-iii](https://www.spiegel.de/ausland/d-day-gedenken-small-talk-mit-koenig-charles-iii-a-52ee8cfe-2ed8-4877-9e27-f0b4be8afac8#ref=rss)
+### charles
 
-* [https://www.spiegel.de/panorama/niedersachsen-trinkwasser-in-noerten-hardenberg-belastet-anwohner-muessen-wasser-aus-nachbarort-abholen](https://www.spiegel.de/panorama/niedersachsen-trinkwasser-in-noerten-hardenberg-belastet-anwohner-muessen-wasser-aus-nachbarort-abholen-a-deb4822b-a6ed-492d-bfaf-aac6478853c4#ref=rss)
+* [https://www.spiegel.de/ausland/d-day-gedenken-small-talk-mit-koenig-charles-iii](https://www.spiegel.de/ausland/d-day-gedenken-small-talk-mit-koenig-charles-iii-a-52ee8cfe-2ed8-4877-9e27-f0b4be8afac8#ref=rss)
+### ifoinstitut
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-institut-deutsche-chemieindustrie-erholt-sich-offenbar-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/ifo-institut-deutsche-chemieindustrie-erholt-sich-offenbar-deutlich-a-58128fde-869b-4494-980f-1d63ea73fc46#ref=rss)
+### chemieindustrie
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-institut-deutsche-chemieindustrie-erholt-sich-offenbar-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/ifo-institut-deutsche-chemieindustrie-erholt-sich-offenbar-deutlich-a-58128fde-869b-4494-980f-1d63ea73fc46#ref=rss)
+### bein
+
+* [https://www.spiegel.de/deinspiegel/leben-mit-einer-orthoprothese-ich-habe-eine-gluecksflosse](https://www.spiegel.de/deinspiegel/leben-mit-einer-orthoprothese-ich-habe-eine-gluecksflosse-a-90ef96db-c8be-420a-a032-43c8ee2b4b69#ref=rss)
+### marktplatz
+
+* [https://www.spiegel.de/politik/deutschland/mannheim-gericht-erlaubt-afd-demo-trotz-toedlicher-messerattacke-auf-marktplatz](https://www.spiegel.de/politik/deutschland/mannheim-gericht-erlaubt-afd-demo-trotz-toedlicher-messerattacke-auf-marktplatz-a-a667eed7-105d-4b7b-a566-6561597d5af9#ref=rss)
+### starlab
+
+* [https://www.spiegel.de/wissenschaft/weltall/starlab-wie-airbus-und-seine-partner-das-iss-erbe-planen](https://www.spiegel.de/wissenschaft/weltall/starlab-wie-airbus-und-seine-partner-das-iss-erbe-planen-a-a46c0823-dd4a-450f-b570-8550869de446#ref=rss)
+### nvidia
+
+* [https://www.spiegel.de/wirtschaft/service/nvidia-was-hinter-dem-unheimlichen-boom-der-aktie-steckt](https://www.spiegel.de/wirtschaft/service/nvidia-was-hinter-dem-unheimlichen-boom-der-aktie-steckt-a-b092cf90-e6cb-444f-b09d-8a931bb57675#ref=rss)
+### wichtigsten
+
+* [https://www.spiegel.de/wirtschaft/service/nvidia-was-hinter-dem-unheimlichen-boom-der-aktie-steckt](https://www.spiegel.de/wirtschaft/service/nvidia-was-hinter-dem-unheimlichen-boom-der-aktie-steckt-a-b092cf90-e6cb-444f-b09d-8a931bb57675#ref=rss)
+* [https://www.spiegel.de/wirtschaft/chinesische-investitionen-in-ungarn-erreichen-rekordhoehe](https://www.spiegel.de/wirtschaft/chinesische-investitionen-in-ungarn-erreichen-rekordhoehe-a-04c94459-00f2-4a5f-8a21-ebbb168a9bde#ref=rss)
+### neunjährige
+
+* [https://www.spiegel.de/panorama/doebeln-vermisste-neunjaehrige-landesamt-fuer-schule-und-bildung-erinnert-schulen-an-meldevorgaben](https://www.spiegel.de/panorama/doebeln-vermisste-neunjaehrige-landesamt-fuer-schule-und-bildung-erinnert-schulen-an-meldevorgaben-a-9fa4a79a-8d12-4555-8d06-b81c6ee35e6d#ref=rss)
+### schule
+
+* [https://www.spiegel.de/panorama/doebeln-vermisste-neunjaehrige-landesamt-fuer-schule-und-bildung-erinnert-schulen-an-meldevorgaben](https://www.spiegel.de/panorama/doebeln-vermisste-neunjaehrige-landesamt-fuer-schule-und-bildung-erinnert-schulen-an-meldevorgaben-a-9fa4a79a-8d12-4555-8d06-b81c6ee35e6d#ref=rss)
+### ungarn
+
+* [https://www.spiegel.de/wirtschaft/chinesische-investitionen-in-ungarn-erreichen-rekordhoehe](https://www.spiegel.de/wirtschaft/chinesische-investitionen-in-ungarn-erreichen-rekordhoehe-a-04c94459-00f2-4a5f-8a21-ebbb168a9bde#ref=rss)
 
