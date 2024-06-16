@@ -4,317 +4,293 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### 2024
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-spanien-schlaegt-kroatien-deutlich-lamine-yamal-stellt-altersrekord-auf](https://www.spiegel.de/sport/fussball/fussball-em-2024-spanien-schlaegt-kroatien-deutlich-lamine-yamal-stellt-altersrekord-auf-a-439ca7d2-b470-44ba-898d-78a282266027#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-schweiz-besiegt-ungarn-ein-uhrwerk-mit-nur-leichten-aussetzern](https://www.spiegel.de/sport/fussball/fussball-em-2024-schweiz-besiegt-ungarn-ein-uhrwerk-mit-nur-leichten-aussetzern-a-287dd73e-6b7b-4558-9c4e-26bed086e640#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-schweiz-startet-souveraen-in-die-em-ungarn-enttaeuscht](https://www.spiegel.de/sport/fussball/fussball-em-2024-schweiz-startet-souveraen-in-die-em-ungarn-enttaeuscht-a-f08bb783-2016-4640-9403-03b9e628df9f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/terrorgefahr-vor-der-em-2024-so-gefaehrlich-ist-die-terrorgruppe-ispk](https://www.spiegel.de/panorama/justiz/terrorgefahr-vor-der-em-2024-so-gefaehrlich-ist-die-terrorgruppe-ispk-a-2504ccfe-14e5-4027-b54f-89150f5ebbb9#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-frankreichs-marcus-thuram-stellt-sich-gegen-rassemblement-national](https://www.spiegel.de/sport/fussball/fussball-em-2024-frankreichs-marcus-thuram-stellt-sich-gegen-rassemblement-national-a-0ec30a9a-9a9b-4be1-966f-9451f590ba3d#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2024-ioc-pruefer-erteilen-erste-freigaben-fuer-russen-und-belarussen](https://www.spiegel.de/sport/olympia/olympia-2024-ioc-pruefer-erteilen-erste-freigaben-fuer-russen-und-belarussen-a-4d77cb27-adfc-4e15-b732-66d4f37063fc#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2024-albanien-in-einer-gruppe-mit-italien-spanien-und-kroatien-reise-in-ein-unbekanntes-land](https://www.spiegel.de/sport/fussball/em-2024-albanien-in-einer-gruppe-mit-italien-spanien-und-kroatien-reise-in-ein-unbekanntes-land-a-b870b266-943f-4b84-8348-da58dd37bdbd#ref=rss)
-### em
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-spanien-schlaegt-kroatien-deutlich-lamine-yamal-stellt-altersrekord-auf](https://www.spiegel.de/sport/fussball/fussball-em-2024-spanien-schlaegt-kroatien-deutlich-lamine-yamal-stellt-altersrekord-auf-a-439ca7d2-b470-44ba-898d-78a282266027#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-schweiz-besiegt-ungarn-ein-uhrwerk-mit-nur-leichten-aussetzern](https://www.spiegel.de/sport/fussball/fussball-em-2024-schweiz-besiegt-ungarn-ein-uhrwerk-mit-nur-leichten-aussetzern-a-287dd73e-6b7b-4558-9c4e-26bed086e640#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/zweite-telekom-panne-am-zweiten-tag-der-em](https://www.spiegel.de/netzwelt/web/zweite-telekom-panne-am-zweiten-tag-der-em-a-97580866-77c7-453d-83e5-6ee74d2eda79#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-schweiz-startet-souveraen-in-die-em-ungarn-enttaeuscht](https://www.spiegel.de/sport/fussball/fussball-em-2024-schweiz-startet-souveraen-in-die-em-ungarn-enttaeuscht-a-f08bb783-2016-4640-9403-03b9e628df9f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/terrorgefahr-vor-der-em-2024-so-gefaehrlich-ist-die-terrorgruppe-ispk](https://www.spiegel.de/panorama/justiz/terrorgefahr-vor-der-em-2024-so-gefaehrlich-ist-die-terrorgruppe-ispk-a-2504ccfe-14e5-4027-b54f-89150f5ebbb9#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2024-albanien-in-einer-gruppe-mit-italien-spanien-und-kroatien-reise-in-ein-unbekanntes-land](https://www.spiegel.de/sport/fussball/em-2024-albanien-in-einer-gruppe-mit-italien-spanien-und-kroatien-reise-in-ein-unbekanntes-land-a-b870b266-943f-4b84-8348-da58dd37bdbd#ref=rss)
-### fußballem
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-spanien-schlaegt-kroatien-deutlich-lamine-yamal-stellt-altersrekord-auf](https://www.spiegel.de/sport/fussball/fussball-em-2024-spanien-schlaegt-kroatien-deutlich-lamine-yamal-stellt-altersrekord-auf-a-439ca7d2-b470-44ba-898d-78a282266027#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-schweiz-besiegt-ungarn-ein-uhrwerk-mit-nur-leichten-aussetzern](https://www.spiegel.de/sport/fussball/fussball-em-2024-schweiz-besiegt-ungarn-ein-uhrwerk-mit-nur-leichten-aussetzern-a-287dd73e-6b7b-4558-9c4e-26bed086e640#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-schweiz-startet-souveraen-in-die-em-ungarn-enttaeuscht](https://www.spiegel.de/sport/fussball/fussball-em-2024-schweiz-startet-souveraen-in-die-em-ungarn-enttaeuscht-a-f08bb783-2016-4640-9403-03b9e628df9f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/terrorgefahr-vor-der-em-2024-so-gefaehrlich-ist-die-terrorgruppe-ispk](https://www.spiegel.de/panorama/justiz/terrorgefahr-vor-der-em-2024-so-gefaehrlich-ist-die-terrorgruppe-ispk-a-2504ccfe-14e5-4027-b54f-89150f5ebbb9#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-frankreichs-marcus-thuram-stellt-sich-gegen-rassemblement-national](https://www.spiegel.de/sport/fussball/fussball-em-2024-frankreichs-marcus-thuram-stellt-sich-gegen-rassemblement-national-a-0ec30a9a-9a9b-4be1-966f-9451f590ba3d#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-spanien-schlaegt-kroatien-deutlich-lamine-yamal-stellt-altersrekord-auf](https://www.spiegel.de/sport/fussball/fussball-em-2024-spanien-schlaegt-kroatien-deutlich-lamine-yamal-stellt-altersrekord-auf-a-439ca7d2-b470-44ba-898d-78a282266027#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutschland-warum-gibt-es-so-wenige-sichtbare-juden-in-der-politik](https://www.spiegel.de/politik/deutschland/deutschland-warum-gibt-es-so-wenige-sichtbare-juden-in-der-politik-a-c1482f69-51cb-4a54-80f7-d9407413dafa#ref=rss)
-* [https://www.spiegel.de/ausland/iran-und-schweden-vollziehen-offenbar-gefangenentausch](https://www.spiegel.de/ausland/iran-und-schweden-vollziehen-offenbar-gefangenentausch-a-fbb54561-49ce-4bd4-9058-55af2dbb7e0f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-frankreichs-marcus-thuram-stellt-sich-gegen-rassemblement-national](https://www.spiegel.de/sport/fussball/fussball-em-2024-frankreichs-marcus-thuram-stellt-sich-gegen-rassemblement-national-a-0ec30a9a-9a9b-4be1-966f-9451f590ba3d#ref=rss)
-### schweiz
-
-* [https://www.spiegel.de/ausland/schweiz-kamala-harris-lehnt-putins-bedingungen-fuer-friedensgespraeche-ab](https://www.spiegel.de/ausland/schweiz-kamala-harris-lehnt-putins-bedingungen-fuer-friedensgespraeche-ab-a-b01bd823-e8c8-454e-85f1-ceb6c720a2d1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-schweiz-besiegt-ungarn-ein-uhrwerk-mit-nur-leichten-aussetzern](https://www.spiegel.de/sport/fussball/fussball-em-2024-schweiz-besiegt-ungarn-ein-uhrwerk-mit-nur-leichten-aussetzern-a-287dd73e-6b7b-4558-9c4e-26bed086e640#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-schweiz-startet-souveraen-in-die-em-ungarn-enttaeuscht](https://www.spiegel.de/sport/fussball/fussball-em-2024-schweiz-startet-souveraen-in-die-em-ungarn-enttaeuscht-a-f08bb783-2016-4640-9403-03b9e628df9f#ref=rss)
-### ungarn
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-schweiz-besiegt-ungarn-ein-uhrwerk-mit-nur-leichten-aussetzern](https://www.spiegel.de/sport/fussball/fussball-em-2024-schweiz-besiegt-ungarn-ein-uhrwerk-mit-nur-leichten-aussetzern-a-287dd73e-6b7b-4558-9c4e-26bed086e640#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-schweiz-startet-souveraen-in-die-em-ungarn-enttaeuscht](https://www.spiegel.de/sport/fussball/fussball-em-2024-schweiz-startet-souveraen-in-die-em-ungarn-enttaeuscht-a-f08bb783-2016-4640-9403-03b9e628df9f#ref=rss)
-### spanien
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-spanien-schlaegt-kroatien-deutlich-lamine-yamal-stellt-altersrekord-auf](https://www.spiegel.de/sport/fussball/fussball-em-2024-spanien-schlaegt-kroatien-deutlich-lamine-yamal-stellt-altersrekord-auf-a-439ca7d2-b470-44ba-898d-78a282266027#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2024-albanien-in-einer-gruppe-mit-italien-spanien-und-kroatien-reise-in-ein-unbekanntes-land](https://www.spiegel.de/sport/fussball/em-2024-albanien-in-einer-gruppe-mit-italien-spanien-und-kroatien-reise-in-ein-unbekanntes-land-a-b870b266-943f-4b84-8348-da58dd37bdbd#ref=rss)
-### erste
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-spanien-schlaegt-kroatien-deutlich-lamine-yamal-stellt-altersrekord-auf](https://www.spiegel.de/sport/fussball/fussball-em-2024-spanien-schlaegt-kroatien-deutlich-lamine-yamal-stellt-altersrekord-auf-a-439ca7d2-b470-44ba-898d-78a282266027#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-schweiz-startet-souveraen-in-die-em-ungarn-enttaeuscht](https://www.spiegel.de/sport/fussball/fussball-em-2024-schweiz-startet-souveraen-in-die-em-ungarn-enttaeuscht-a-f08bb783-2016-4640-9403-03b9e628df9f#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2024-ioc-pruefer-erteilen-erste-freigaben-fuer-russen-und-belarussen](https://www.spiegel.de/sport/olympia/olympia-2024-ioc-pruefer-erteilen-erste-freigaben-fuer-russen-und-belarussen-a-4d77cb27-adfc-4e15-b732-66d4f37063fc#ref=rss)
-### kroatien
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-spanien-schlaegt-kroatien-deutlich-lamine-yamal-stellt-altersrekord-auf](https://www.spiegel.de/sport/fussball/fussball-em-2024-spanien-schlaegt-kroatien-deutlich-lamine-yamal-stellt-altersrekord-auf-a-439ca7d2-b470-44ba-898d-78a282266027#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2024-albanien-in-einer-gruppe-mit-italien-spanien-und-kroatien-reise-in-ein-unbekanntes-land](https://www.spiegel.de/sport/fussball/em-2024-albanien-in-einer-gruppe-mit-italien-spanien-und-kroatien-reise-in-ein-unbekanntes-land-a-b870b266-943f-4b84-8348-da58dd37bdbd#ref=rss)
-### stellt
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-spanien-schlaegt-kroatien-deutlich-lamine-yamal-stellt-altersrekord-auf](https://www.spiegel.de/sport/fussball/fussball-em-2024-spanien-schlaegt-kroatien-deutlich-lamine-yamal-stellt-altersrekord-auf-a-439ca7d2-b470-44ba-898d-78a282266027#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-st-pauli-trainer-fabian-huerzeler-wechselt-zu-brighton-hove-albion-nach-england](https://www.spiegel.de/sport/fussball/fc-st-pauli-trainer-fabian-huerzeler-wechselt-zu-brighton-hove-albion-nach-england-a-35bf50d4-8714-4036-8f5e-541d9b47756a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-frankreichs-marcus-thuram-stellt-sich-gegen-rassemblement-national](https://www.spiegel.de/sport/fussball/fussball-em-2024-frankreichs-marcus-thuram-stellt-sich-gegen-rassemblement-national-a-0ec30a9a-9a9b-4be1-966f-9451f590ba3d#ref=rss)
-### ich
-
-* [https://www.spiegel.de/kultur/bill-und-tom-kaulitz-ich-waere-gern-ein-mops](https://www.spiegel.de/kultur/bill-und-tom-kaulitz-ich-waere-gern-ein-mops-a-07b8a851-4f64-4829-9c18-af6d5899f6c9#ref=rss)
-* [https://www.spiegel.de/kultur/musik/velvet-underground-legende-john-cale-ich-kann-einfach-so-tun-als-koennte-ich-es](https://www.spiegel.de/kultur/musik/velvet-underground-legende-john-cale-ich-kann-einfach-so-tun-als-koennte-ich-es-a-cf40ef6f-dcc3-4bec-af93-b28f5de20ec0#ref=rss)
-### bekannt
-
-* [https://www.spiegel.de/kultur/bill-und-tom-kaulitz-ich-waere-gern-ein-mops](https://www.spiegel.de/kultur/bill-und-tom-kaulitz-ich-waere-gern-ein-mops-a-07b8a851-4f64-4829-9c18-af6d5899f6c9#ref=rss)
-* [https://www.spiegel.de/panorama/messerangriffe-bei-privater-em-party-was-ueber-die-tat-von-wolmirstedt-bekannt-ist](https://www.spiegel.de/panorama/messerangriffe-bei-privater-em-party-was-ueber-die-tat-von-wolmirstedt-bekannt-ist-a-6a4bbe59-7a9f-4f89-8109-299878e81a99#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/deutschland/deutschland-warum-gibt-es-so-wenige-sichtbare-juden-in-der-politik](https://www.spiegel.de/politik/deutschland/deutschland-warum-gibt-es-so-wenige-sichtbare-juden-in-der-politik-a-c1482f69-51cb-4a54-80f7-d9407413dafa#ref=rss)
-* [https://www.spiegel.de/politik/wirtschaftsstandort-deutschland-aufbruch-made-in-germany-kolumne](https://www.spiegel.de/politik/wirtschaftsstandort-deutschland-aufbruch-made-in-germany-kolumne-a-df51a18e-9705-4fc5-a5f4-3f8374a542e4#ref=rss)
-### wenige
-
-* [https://www.spiegel.de/politik/deutschland/deutschland-warum-gibt-es-so-wenige-sichtbare-juden-in-der-politik](https://www.spiegel.de/politik/deutschland/deutschland-warum-gibt-es-so-wenige-sichtbare-juden-in-der-politik-a-c1482f69-51cb-4a54-80f7-d9407413dafa#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-st-pauli-trainer-fabian-huerzeler-wechselt-zu-brighton-hove-albion-nach-england](https://www.spiegel.de/sport/fussball/fc-st-pauli-trainer-fabian-huerzeler-wechselt-zu-brighton-hove-albion-nach-england-a-35bf50d4-8714-4036-8f5e-541d9b47756a#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/angriff-in-schliersee-mann-geht-auf-sek-beamten-mit-messer-los](https://www.spiegel.de/panorama/angriff-in-schliersee-mann-geht-auf-sek-beamten-mit-messer-los-a-79cda060-3ec2-4ae3-b1a2-a07508dd0a0e#ref=rss)
-* [https://www.spiegel.de/panorama/leute/cathy-hummels-ruft-wegen-stalker-die-polizei](https://www.spiegel.de/panorama/leute/cathy-hummels-ruft-wegen-stalker-die-polizei-a-cb1232f2-0d9a-409b-9d88-ccb8e38b9d5e#ref=rss)
-### messer
-
-* [https://www.spiegel.de/panorama/angriff-in-schliersee-mann-geht-auf-sek-beamten-mit-messer-los](https://www.spiegel.de/panorama/angriff-in-schliersee-mann-geht-auf-sek-beamten-mit-messer-los-a-79cda060-3ec2-4ae3-b1a2-a07508dd0a0e#ref=rss)
-* [https://www.spiegel.de/panorama/messerangriffe-bei-privater-em-party-was-ueber-die-tat-von-wolmirstedt-bekannt-ist](https://www.spiegel.de/panorama/messerangriffe-bei-privater-em-party-was-ueber-die-tat-von-wolmirstedt-bekannt-ist-a-6a4bbe59-7a9f-4f89-8109-299878e81a99#ref=rss)
-### erst
-
-* [https://www.spiegel.de/panorama/angriff-in-schliersee-mann-geht-auf-sek-beamten-mit-messer-los](https://www.spiegel.de/panorama/angriff-in-schliersee-mann-geht-auf-sek-beamten-mit-messer-los-a-79cda060-3ec2-4ae3-b1a2-a07508dd0a0e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-schweiz-startet-souveraen-in-die-em-ungarn-enttaeuscht](https://www.spiegel.de/sport/fussball/fussball-em-2024-schweiz-startet-souveraen-in-die-em-ungarn-enttaeuscht-a-f08bb783-2016-4640-9403-03b9e628df9f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2024-albanien-in-einer-gruppe-mit-italien-spanien-und-kroatien-reise-in-ein-unbekanntes-land](https://www.spiegel.de/sport/fussball/em-2024-albanien-in-einer-gruppe-mit-italien-spanien-und-kroatien-reise-in-ein-unbekanntes-land-a-b870b266-943f-4b84-8348-da58dd37bdbd#ref=rss)
-### soldaten
-
-* [https://www.spiegel.de/ausland/rafah-acht-israelische-soldaten-sterben-bei-explosion](https://www.spiegel.de/ausland/rafah-acht-israelische-soldaten-sterben-bei-explosion-a-b72177cc-4b15-4b7c-aca9-3d7f37690d18#ref=rss)
-* [https://www.spiegel.de/ausland/errichtet-nordkorea-eine-mauer-zum-sueden](https://www.spiegel.de/ausland/errichtet-nordkorea-eine-mauer-zum-sueden-a-95563728-1713-41c5-85c1-513fb807254d#ref=rss)
-### tag
-
-* [https://www.spiegel.de/ausland/rafah-acht-israelische-soldaten-sterben-bei-explosion](https://www.spiegel.de/ausland/rafah-acht-israelische-soldaten-sterben-bei-explosion-a-b72177cc-4b15-4b7c-aca9-3d7f37690d18#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/zweite-telekom-panne-am-zweiten-tag-der-em](https://www.spiegel.de/netzwelt/web/zweite-telekom-panne-am-zweiten-tag-der-em-a-97580866-77c7-453d-83e5-6ee74d2eda79#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/messerangriffe-bei-privater-em-party-was-ueber-die-tat-von-wolmirstedt-bekannt-ist](https://www.spiegel.de/panorama/messerangriffe-bei-privater-em-party-was-ueber-die-tat-von-wolmirstedt-bekannt-ist-a-6a4bbe59-7a9f-4f89-8109-299878e81a99#ref=rss)
-* [https://www.spiegel.de/panorama/leute/cathy-hummels-ruft-wegen-stalker-die-polizei](https://www.spiegel.de/panorama/leute/cathy-hummels-ruft-wegen-stalker-die-polizei-a-cb1232f2-0d9a-409b-9d88-ccb8e38b9d5e#ref=rss)
-### deutlich
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-spanien-schlaegt-kroatien-deutlich-lamine-yamal-stellt-altersrekord-auf](https://www.spiegel.de/sport/fussball/fussball-em-2024-spanien-schlaegt-kroatien-deutlich-lamine-yamal-stellt-altersrekord-auf-a-439ca7d2-b470-44ba-898d-78a282266027#ref=rss)
-### lamine
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-spanien-schlaegt-kroatien-deutlich-lamine-yamal-stellt-altersrekord-auf](https://www.spiegel.de/sport/fussball/fussball-em-2024-spanien-schlaegt-kroatien-deutlich-lamine-yamal-stellt-altersrekord-auf-a-439ca7d2-b470-44ba-898d-78a282266027#ref=rss)
-### yamal
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-spanien-schlaegt-kroatien-deutlich-lamine-yamal-stellt-altersrekord-auf](https://www.spiegel.de/sport/fussball/fussball-em-2024-spanien-schlaegt-kroatien-deutlich-lamine-yamal-stellt-altersrekord-auf-a-439ca7d2-b470-44ba-898d-78a282266027#ref=rss)
-### wo
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-spanien-schlaegt-kroatien-deutlich-lamine-yamal-stellt-altersrekord-auf](https://www.spiegel.de/sport/fussball/fussball-em-2024-spanien-schlaegt-kroatien-deutlich-lamine-yamal-stellt-altersrekord-auf-a-439ca7d2-b470-44ba-898d-78a282266027#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-frankreichs-marcus-thuram-stellt-sich-gegen-rassemblement-national](https://www.spiegel.de/sport/fussball/fussball-em-2024-frankreichs-marcus-thuram-stellt-sich-gegen-rassemblement-national-a-0ec30a9a-9a9b-4be1-966f-9451f590ba3d#ref=rss)
-### rekord
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-spanien-schlaegt-kroatien-deutlich-lamine-yamal-stellt-altersrekord-auf](https://www.spiegel.de/sport/fussball/fussball-em-2024-spanien-schlaegt-kroatien-deutlich-lamine-yamal-stellt-altersrekord-auf-a-439ca7d2-b470-44ba-898d-78a282266027#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-st-pauli-trainer-fabian-huerzeler-wechselt-zu-brighton-hove-albion-nach-england](https://www.spiegel.de/sport/fussball/fc-st-pauli-trainer-fabian-huerzeler-wechselt-zu-brighton-hove-albion-nach-england-a-35bf50d4-8714-4036-8f5e-541d9b47756a#ref=rss)
-### ben
-
-* [https://www.spiegel.de/panorama/leute/beziehungskrise-bei-bennifer-jennifer-lopez-hat-angeblich-genug-vom-griesgraemigen-ben-affleck](https://www.spiegel.de/panorama/leute/beziehungskrise-bei-bennifer-jennifer-lopez-hat-angeblich-genug-vom-griesgraemigen-ben-affleck-a-1bfa2cf2-2f00-49d9-bf84-96ce4ad70f5d#ref=rss)
-### affleck
-
-* [https://www.spiegel.de/panorama/leute/beziehungskrise-bei-bennifer-jennifer-lopez-hat-angeblich-genug-vom-griesgraemigen-ben-affleck](https://www.spiegel.de/panorama/leute/beziehungskrise-bei-bennifer-jennifer-lopez-hat-angeblich-genug-vom-griesgraemigen-ben-affleck-a-1bfa2cf2-2f00-49d9-bf84-96ce4ad70f5d#ref=rss)
-### nichts
-
-* [https://www.spiegel.de/panorama/leute/beziehungskrise-bei-bennifer-jennifer-lopez-hat-angeblich-genug-vom-griesgraemigen-ben-affleck](https://www.spiegel.de/panorama/leute/beziehungskrise-bei-bennifer-jennifer-lopez-hat-angeblich-genug-vom-griesgraemigen-ben-affleck-a-1bfa2cf2-2f00-49d9-bf84-96ce4ad70f5d#ref=rss)
-* [https://www.spiegel.de/stil/trinkgeld-wie-viel-ist-angemessen-und-ist-es-in-ordnung-keins-zu-geben](https://www.spiegel.de/stil/trinkgeld-wie-viel-ist-angemessen-und-ist-es-in-ordnung-keins-zu-geben-a-cffbab7e-a315-4164-b2e1-3f1dae6de465#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/leute/beziehungskrise-bei-bennifer-jennifer-lopez-hat-angeblich-genug-vom-griesgraemigen-ben-affleck](https://www.spiegel.de/panorama/leute/beziehungskrise-bei-bennifer-jennifer-lopez-hat-angeblich-genug-vom-griesgraemigen-ben-affleck-a-1bfa2cf2-2f00-49d9-bf84-96ce4ad70f5d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2024-albanien-in-einer-gruppe-mit-italien-spanien-und-kroatien-reise-in-ein-unbekanntes-land](https://www.spiegel.de/sport/fussball/em-2024-albanien-in-einer-gruppe-mit-italien-spanien-und-kroatien-reise-in-ein-unbekanntes-land-a-b870b266-943f-4b84-8348-da58dd37bdbd#ref=rss)
-### bill
-
-* [https://www.spiegel.de/kultur/bill-und-tom-kaulitz-ich-waere-gern-ein-mops](https://www.spiegel.de/kultur/bill-und-tom-kaulitz-ich-waere-gern-ein-mops-a-07b8a851-4f64-4829-9c18-af6d5899f6c9#ref=rss)
-### tom
-
-* [https://www.spiegel.de/kultur/bill-und-tom-kaulitz-ich-waere-gern-ein-mops](https://www.spiegel.de/kultur/bill-und-tom-kaulitz-ich-waere-gern-ein-mops-a-07b8a851-4f64-4829-9c18-af6d5899f6c9#ref=rss)
-### kaulitz
-
-* [https://www.spiegel.de/kultur/bill-und-tom-kaulitz-ich-waere-gern-ein-mops](https://www.spiegel.de/kultur/bill-und-tom-kaulitz-ich-waere-gern-ein-mops-a-07b8a851-4f64-4829-9c18-af6d5899f6c9#ref=rss)
-### kamala
-
-* [https://www.spiegel.de/ausland/schweiz-kamala-harris-lehnt-putins-bedingungen-fuer-friedensgespraeche-ab](https://www.spiegel.de/ausland/schweiz-kamala-harris-lehnt-putins-bedingungen-fuer-friedensgespraeche-ab-a-b01bd823-e8c8-454e-85f1-ceb6c720a2d1#ref=rss)
-### harris
-
-* [https://www.spiegel.de/ausland/schweiz-kamala-harris-lehnt-putins-bedingungen-fuer-friedensgespraeche-ab](https://www.spiegel.de/ausland/schweiz-kamala-harris-lehnt-putins-bedingungen-fuer-friedensgespraeche-ab-a-b01bd823-e8c8-454e-85f1-ceb6c720a2d1#ref=rss)
-### kurz
-
-* [https://www.spiegel.de/ausland/schweiz-kamala-harris-lehnt-putins-bedingungen-fuer-friedensgespraeche-ab](https://www.spiegel.de/ausland/schweiz-kamala-harris-lehnt-putins-bedingungen-fuer-friedensgespraeche-ab-a-b01bd823-e8c8-454e-85f1-ceb6c720a2d1#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/zweite-telekom-panne-am-zweiten-tag-der-em](https://www.spiegel.de/netzwelt/web/zweite-telekom-panne-am-zweiten-tag-der-em-a-97580866-77c7-453d-83e5-6ee74d2eda79#ref=rss)
-### juden
-
-* [https://www.spiegel.de/politik/deutschland/deutschland-warum-gibt-es-so-wenige-sichtbare-juden-in-der-politik](https://www.spiegel.de/politik/deutschland/deutschland-warum-gibt-es-so-wenige-sichtbare-juden-in-der-politik-a-c1482f69-51cb-4a54-80f7-d9407413dafa#ref=rss)
-### abgeordneter
-
-* [https://www.spiegel.de/politik/deutschland/deutschland-warum-gibt-es-so-wenige-sichtbare-juden-in-der-politik](https://www.spiegel.de/politik/deutschland/deutschland-warum-gibt-es-so-wenige-sichtbare-juden-in-der-politik-a-c1482f69-51cb-4a54-80f7-d9407413dafa#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-ex-praesident-hollande-tritt-bei-neuwahlen-an](https://www.spiegel.de/ausland/frankreich-ex-praesident-hollande-tritt-bei-neuwahlen-an-a-4102f2ee-f304-40dd-b05c-784058df2397#ref=rss)
-### erfahrungen
-
-* [https://www.spiegel.de/politik/deutschland/deutschland-warum-gibt-es-so-wenige-sichtbare-juden-in-der-politik](https://www.spiegel.de/politik/deutschland/deutschland-warum-gibt-es-so-wenige-sichtbare-juden-in-der-politik-a-c1482f69-51cb-4a54-80f7-d9407413dafa#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-frankreichs-marcus-thuram-stellt-sich-gegen-rassemblement-national](https://www.spiegel.de/sport/fussball/fussball-em-2024-frankreichs-marcus-thuram-stellt-sich-gegen-rassemblement-national-a-0ec30a9a-9a9b-4be1-966f-9451f590ba3d#ref=rss)
-### hollande
-
-* [https://www.spiegel.de/ausland/frankreich-ex-praesident-hollande-tritt-bei-neuwahlen-an](https://www.spiegel.de/ausland/frankreich-ex-praesident-hollande-tritt-bei-neuwahlen-an-a-4102f2ee-f304-40dd-b05c-784058df2397#ref=rss)
-### neuwahlen
-
-* [https://www.spiegel.de/ausland/frankreich-ex-praesident-hollande-tritt-bei-neuwahlen-an](https://www.spiegel.de/ausland/frankreich-ex-praesident-hollande-tritt-bei-neuwahlen-an-a-4102f2ee-f304-40dd-b05c-784058df2397#ref=rss)
-### joe
-
-* [https://www.spiegel.de/ausland/tv-duell-joe-biden-und-donald-trump-einigen-sich-auf-regeln](https://www.spiegel.de/ausland/tv-duell-joe-biden-und-donald-trump-einigen-sich-auf-regeln-a-6e69d8e7-0af3-4208-b5a1-92212f7fb946#ref=rss)
-### biden
-
-* [https://www.spiegel.de/ausland/tv-duell-joe-biden-und-donald-trump-einigen-sich-auf-regeln](https://www.spiegel.de/ausland/tv-duell-joe-biden-und-donald-trump-einigen-sich-auf-regeln-a-6e69d8e7-0af3-4208-b5a1-92212f7fb946#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/tv-duell-joe-biden-und-donald-trump-einigen-sich-auf-regeln](https://www.spiegel.de/ausland/tv-duell-joe-biden-und-donald-trump-einigen-sich-auf-regeln-a-6e69d8e7-0af3-4208-b5a1-92212f7fb946#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/tv-duell-joe-biden-und-donald-trump-einigen-sich-auf-regeln](https://www.spiegel.de/ausland/tv-duell-joe-biden-und-donald-trump-einigen-sich-auf-regeln-a-6e69d8e7-0af3-4208-b5a1-92212f7fb946#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/fc-st-pauli-trainer-fabian-huerzeler-wechselt-zu-brighton-hove-albion-nach-england](https://www.spiegel.de/sport/fussball/fc-st-pauli-trainer-fabian-huerzeler-wechselt-zu-brighton-hove-albion-nach-england-a-35bf50d4-8714-4036-8f5e-541d9b47756a#ref=rss)
-### st
-
-* [https://www.spiegel.de/sport/fussball/fc-st-pauli-trainer-fabian-huerzeler-wechselt-zu-brighton-hove-albion-nach-england](https://www.spiegel.de/sport/fussball/fc-st-pauli-trainer-fabian-huerzeler-wechselt-zu-brighton-hove-albion-nach-england-a-35bf50d4-8714-4036-8f5e-541d9b47756a#ref=rss)
-### pauli
-
-* [https://www.spiegel.de/sport/fussball/fc-st-pauli-trainer-fabian-huerzeler-wechselt-zu-brighton-hove-albion-nach-england](https://www.spiegel.de/sport/fussball/fc-st-pauli-trainer-fabian-huerzeler-wechselt-zu-brighton-hove-albion-nach-england-a-35bf50d4-8714-4036-8f5e-541d9b47756a#ref=rss)
-### trainer
-
-* [https://www.spiegel.de/sport/fussball/fc-st-pauli-trainer-fabian-huerzeler-wechselt-zu-brighton-hove-albion-nach-england](https://www.spiegel.de/sport/fussball/fc-st-pauli-trainer-fabian-huerzeler-wechselt-zu-brighton-hove-albion-nach-england-a-35bf50d4-8714-4036-8f5e-541d9b47756a#ref=rss)
-### fabian
-
-* [https://www.spiegel.de/sport/fussball/fc-st-pauli-trainer-fabian-huerzeler-wechselt-zu-brighton-hove-albion-nach-england](https://www.spiegel.de/sport/fussball/fc-st-pauli-trainer-fabian-huerzeler-wechselt-zu-brighton-hove-albion-nach-england-a-35bf50d4-8714-4036-8f5e-541d9b47756a#ref=rss)
-### hürzeler
-
-* [https://www.spiegel.de/sport/fussball/fc-st-pauli-trainer-fabian-huerzeler-wechselt-zu-brighton-hove-albion-nach-england](https://www.spiegel.de/sport/fussball/fc-st-pauli-trainer-fabian-huerzeler-wechselt-zu-brighton-hove-albion-nach-england-a-35bf50d4-8714-4036-8f5e-541d9b47756a#ref=rss)
-### brighton
-
-* [https://www.spiegel.de/sport/fussball/fc-st-pauli-trainer-fabian-huerzeler-wechselt-zu-brighton-hove-albion-nach-england](https://www.spiegel.de/sport/fussball/fc-st-pauli-trainer-fabian-huerzeler-wechselt-zu-brighton-hove-albion-nach-england-a-35bf50d4-8714-4036-8f5e-541d9b47756a#ref=rss)
-### hove
-
-* [https://www.spiegel.de/sport/fussball/fc-st-pauli-trainer-fabian-huerzeler-wechselt-zu-brighton-hove-albion-nach-england](https://www.spiegel.de/sport/fussball/fc-st-pauli-trainer-fabian-huerzeler-wechselt-zu-brighton-hove-albion-nach-england-a-35bf50d4-8714-4036-8f5e-541d9b47756a#ref=rss)
-### albion
-
-* [https://www.spiegel.de/sport/fussball/fc-st-pauli-trainer-fabian-huerzeler-wechselt-zu-brighton-hove-albion-nach-england](https://www.spiegel.de/sport/fussball/fc-st-pauli-trainer-fabian-huerzeler-wechselt-zu-brighton-hove-albion-nach-england-a-35bf50d4-8714-4036-8f5e-541d9b47756a#ref=rss)
-### wochen
-
-* [https://www.spiegel.de/sport/fussball/fc-st-pauli-trainer-fabian-huerzeler-wechselt-zu-brighton-hove-albion-nach-england](https://www.spiegel.de/sport/fussball/fc-st-pauli-trainer-fabian-huerzeler-wechselt-zu-brighton-hove-albion-nach-england-a-35bf50d4-8714-4036-8f5e-541d9b47756a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-frankreichs-marcus-thuram-stellt-sich-gegen-rassemblement-national](https://www.spiegel.de/sport/fussball/fussball-em-2024-frankreichs-marcus-thuram-stellt-sich-gegen-rassemblement-national-a-0ec30a9a-9a9b-4be1-966f-9451f590ba3d#ref=rss)
-### team
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-schweiz-besiegt-ungarn-ein-uhrwerk-mit-nur-leichten-aussetzern](https://www.spiegel.de/sport/fussball/fussball-em-2024-schweiz-besiegt-ungarn-ein-uhrwerk-mit-nur-leichten-aussetzern-a-287dd73e-6b7b-4558-9c4e-26bed086e640#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-schweiz-startet-souveraen-in-die-em-ungarn-enttaeuscht](https://www.spiegel.de/sport/fussball/fussball-em-2024-schweiz-startet-souveraen-in-die-em-ungarn-enttaeuscht-a-f08bb783-2016-4640-9403-03b9e628df9f#ref=rss)
-### unter
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-schweiz-besiegt-ungarn-ein-uhrwerk-mit-nur-leichten-aussetzern](https://www.spiegel.de/sport/fussball/fussball-em-2024-schweiz-besiegt-ungarn-ein-uhrwerk-mit-nur-leichten-aussetzern-a-287dd73e-6b7b-4558-9c4e-26bed086e640#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2024-ioc-pruefer-erteilen-erste-freigaben-fuer-russen-und-belarussen](https://www.spiegel.de/sport/olympia/olympia-2024-ioc-pruefer-erteilen-erste-freigaben-fuer-russen-und-belarussen-a-4d77cb27-adfc-4e15-b732-66d4f37063fc#ref=rss)
-### acht
-
-* [https://www.spiegel.de/ausland/rafah-acht-israelische-soldaten-sterben-bei-explosion](https://www.spiegel.de/ausland/rafah-acht-israelische-soldaten-sterben-bei-explosion-a-b72177cc-4b15-4b7c-aca9-3d7f37690d18#ref=rss)
-### bestätigt
-
-* [https://www.spiegel.de/ausland/rafah-acht-israelische-soldaten-sterben-bei-explosion](https://www.spiegel.de/ausland/rafah-acht-israelische-soldaten-sterben-bei-explosion-a-b72177cc-4b15-4b7c-aca9-3d7f37690d18#ref=rss)
-* [https://www.spiegel.de/ausland/iran-und-schweden-vollziehen-offenbar-gefangenentausch](https://www.spiegel.de/ausland/iran-und-schweden-vollziehen-offenbar-gefangenentausch-a-fbb54561-49ce-4bd4-9058-55af2dbb7e0f#ref=rss)
-### zweiten
-
-* [https://www.spiegel.de/netzwelt/web/zweite-telekom-panne-am-zweiten-tag-der-em](https://www.spiegel.de/netzwelt/web/zweite-telekom-panne-am-zweiten-tag-der-em-a-97580866-77c7-453d-83e5-6ee74d2eda79#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2024-albanien-in-einer-gruppe-mit-italien-spanien-und-kroatien-reise-in-ein-unbekanntes-land](https://www.spiegel.de/sport/fussball/em-2024-albanien-in-einer-gruppe-mit-italien-spanien-und-kroatien-reise-in-ein-unbekanntes-land-a-b870b266-943f-4b84-8348-da58dd37bdbd#ref=rss)
-### nordkorea
-
-* [https://www.spiegel.de/ausland/errichtet-nordkorea-eine-mauer-zum-sueden](https://www.spiegel.de/ausland/errichtet-nordkorea-eine-mauer-zum-sueden-a-95563728-1713-41c5-85c1-513fb807254d#ref=rss)
-### mauer
-
-* [https://www.spiegel.de/ausland/errichtet-nordkorea-eine-mauer-zum-sueden](https://www.spiegel.de/ausland/errichtet-nordkorea-eine-mauer-zum-sueden-a-95563728-1713-41c5-85c1-513fb807254d#ref=rss)
-### trinkgeld
-
-* [https://www.spiegel.de/stil/trinkgeld-wie-viel-ist-angemessen-und-ist-es-in-ordnung-keins-zu-geben](https://www.spiegel.de/stil/trinkgeld-wie-viel-ist-angemessen-und-ist-es-in-ordnung-keins-zu-geben-a-cffbab7e-a315-4164-b2e1-3f1dae6de465#ref=rss)
-### geben
-
-* [https://www.spiegel.de/stil/trinkgeld-wie-viel-ist-angemessen-und-ist-es-in-ordnung-keins-zu-geben](https://www.spiegel.de/stil/trinkgeld-wie-viel-ist-angemessen-und-ist-es-in-ordnung-keins-zu-geben-a-cffbab7e-a315-4164-b2e1-3f1dae6de465#ref=rss)
-### einfach
-
-* [https://www.spiegel.de/politik/wirtschaftsstandort-deutschland-aufbruch-made-in-germany-kolumne](https://www.spiegel.de/politik/wirtschaftsstandort-deutschland-aufbruch-made-in-germany-kolumne-a-df51a18e-9705-4fc5-a5f4-3f8374a542e4#ref=rss)
-* [https://www.spiegel.de/kultur/musik/velvet-underground-legende-john-cale-ich-kann-einfach-so-tun-als-koennte-ich-es](https://www.spiegel.de/kultur/musik/velvet-underground-legende-john-cale-ich-kann-einfach-so-tun-als-koennte-ich-es-a-cf40ef6f-dcc3-4bec-af93-b28f5de20ec0#ref=rss)
-### giorgia
-
-* [https://www.spiegel.de/ausland/g7-gipfel-wie-sich-giorgia-meloni-als-weltpolitikerin-inszeniert](https://www.spiegel.de/ausland/g7-gipfel-wie-sich-giorgia-meloni-als-weltpolitikerin-inszeniert-a-b229813c-bd0c-42b9-b8d2-a814350b03a3#ref=rss)
-### meloni
-
-* [https://www.spiegel.de/ausland/g7-gipfel-wie-sich-giorgia-meloni-als-weltpolitikerin-inszeniert](https://www.spiegel.de/ausland/g7-gipfel-wie-sich-giorgia-meloni-als-weltpolitikerin-inszeniert-a-b229813c-bd0c-42b9-b8d2-a814350b03a3#ref=rss)
-### emparty
-
-* [https://www.spiegel.de/panorama/messerangriffe-bei-privater-em-party-was-ueber-die-tat-von-wolmirstedt-bekannt-ist](https://www.spiegel.de/panorama/messerangriffe-bei-privater-em-party-was-ueber-die-tat-von-wolmirstedt-bekannt-ist-a-6a4bbe59-7a9f-4f89-8109-299878e81a99#ref=rss)
-### wolmirstedt
-
-* [https://www.spiegel.de/panorama/messerangriffe-bei-privater-em-party-was-ueber-die-tat-von-wolmirstedt-bekannt-ist](https://www.spiegel.de/panorama/messerangriffe-bei-privater-em-party-was-ueber-die-tat-von-wolmirstedt-bekannt-ist-a-6a4bbe59-7a9f-4f89-8109-299878e81a99#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/panorama/messerangriffe-bei-privater-em-party-was-ueber-die-tat-von-wolmirstedt-bekannt-ist](https://www.spiegel.de/panorama/messerangriffe-bei-privater-em-party-was-ueber-die-tat-von-wolmirstedt-bekannt-ist-a-6a4bbe59-7a9f-4f89-8109-299878e81a99#ref=rss)
-* [https://www.spiegel.de/panorama/ludwigshafen-dreijaehriger-stuerzt-aus-fahrendem-auto-verletzt](https://www.spiegel.de/panorama/ludwigshafen-dreijaehriger-stuerzt-aus-fahrendem-auto-verletzt-a-423e4fa6-dae5-4fa8-8d6d-51521081c003#ref=rss)
-### cdu
-
-* [https://www.spiegel.de/panorama/kunsthalle-in-osnabrueck-cdu-fordert-schliessung-von-kunstausstellung](https://www.spiegel.de/panorama/kunsthalle-in-osnabrueck-cdu-fordert-schliessung-von-kunstausstellung-a-10b9f939-ae84-46eb-986a-979fe0e20658#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/panorama/kunsthalle-in-osnabrueck-cdu-fordert-schliessung-von-kunstausstellung](https://www.spiegel.de/panorama/kunsthalle-in-osnabrueck-cdu-fordert-schliessung-von-kunstausstellung-a-10b9f939-ae84-46eb-986a-979fe0e20658#ref=rss)
-### schließung
-
-* [https://www.spiegel.de/panorama/kunsthalle-in-osnabrueck-cdu-fordert-schliessung-von-kunstausstellung](https://www.spiegel.de/panorama/kunsthalle-in-osnabrueck-cdu-fordert-schliessung-von-kunstausstellung-a-10b9f939-ae84-46eb-986a-979fe0e20658#ref=rss)
-### krank
-
-* [https://www.spiegel.de/panorama/dutzende-wanderer-werden-bei-grand-canyon-tour-krank](https://www.spiegel.de/panorama/dutzende-wanderer-werden-bei-grand-canyon-tour-krank-a-519a76b2-ad5b-4438-b843-d7d48784d77d#ref=rss)
-* [https://www.spiegel.de/psychologie/hirnforschung-und-gefuehle-wie-soziale-medien-psyche-und-gehirn-veraendern-koennen](https://www.spiegel.de/psychologie/hirnforschung-und-gefuehle-wie-soziale-medien-psyche-und-gehirn-veraendern-koennen-a-12c58ed9-7cea-4fe4-ad37-0cdacd81518f#ref=rss)
-### canyon
-
-* [https://www.spiegel.de/panorama/dutzende-wanderer-werden-bei-grand-canyon-tour-krank](https://www.spiegel.de/panorama/dutzende-wanderer-werden-bei-grand-canyon-tour-krank-a-519a76b2-ad5b-4438-b843-d7d48784d77d#ref=rss)
-### cathy
-
-* [https://www.spiegel.de/panorama/leute/cathy-hummels-ruft-wegen-stalker-die-polizei](https://www.spiegel.de/panorama/leute/cathy-hummels-ruft-wegen-stalker-die-polizei-a-cb1232f2-0d9a-409b-9d88-ccb8e38b9d5e#ref=rss)
-### hummels
-
-* [https://www.spiegel.de/panorama/leute/cathy-hummels-ruft-wegen-stalker-die-polizei](https://www.spiegel.de/panorama/leute/cathy-hummels-ruft-wegen-stalker-die-polizei-a-cb1232f2-0d9a-409b-9d88-ccb8e38b9d5e#ref=rss)
-### tür
-
-* [https://www.spiegel.de/panorama/leute/cathy-hummels-ruft-wegen-stalker-die-polizei](https://www.spiegel.de/panorama/leute/cathy-hummels-ruft-wegen-stalker-die-polizei-a-cb1232f2-0d9a-409b-9d88-ccb8e38b9d5e#ref=rss)
-* [https://www.spiegel.de/panorama/ludwigshafen-dreijaehriger-stuerzt-aus-fahrendem-auto-verletzt](https://www.spiegel.de/panorama/ludwigshafen-dreijaehriger-stuerzt-aus-fahrendem-auto-verletzt-a-423e4fa6-dae5-4fa8-8d6d-51521081c003#ref=rss)
-### schweden
-
-* [https://www.spiegel.de/ausland/iran-und-schweden-vollziehen-offenbar-gefangenentausch](https://www.spiegel.de/ausland/iran-und-schweden-vollziehen-offenbar-gefangenentausch-a-fbb54561-49ce-4bd4-9058-55af2dbb7e0f#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/iran-und-schweden-vollziehen-offenbar-gefangenentausch](https://www.spiegel.de/ausland/iran-und-schweden-vollziehen-offenbar-gefangenentausch-a-fbb54561-49ce-4bd4-9058-55af2dbb7e0f#ref=rss)
-### frankreichs
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-frankreichs-marcus-thuram-stellt-sich-gegen-rassemblement-national](https://www.spiegel.de/sport/fussball/fussball-em-2024-frankreichs-marcus-thuram-stellt-sich-gegen-rassemblement-national-a-0ec30a9a-9a9b-4be1-966f-9451f590ba3d#ref=rss)
 ### scholz
 
-* [https://www.spiegel.de/politik/scholz-ueber-aerger-in-der-ampelkoalition-man-muss-sich-unterhaken-und-man-muss-teamgeist-zeigen](https://www.spiegel.de/politik/scholz-ueber-aerger-in-der-ampelkoalition-man-muss-sich-unterhaken-und-man-muss-teamgeist-zeigen-a-a4f0949c-c3a6-4cad-bea8-6ae05446ce65#ref=rss)
-### land
+* [https://www.spiegel.de/kultur/harald-schmidt-bleibt-fan-von-olaf-scholz](https://www.spiegel.de/kultur/harald-schmidt-bleibt-fan-von-olaf-scholz-a-aed59896-09b9-442f-b992-28c4ae0cac83#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/mannheim-nach-toedlicher-messer-attacke-sondiert-nancy-faeser-abschiebe-deal-mit-usbekistan](https://www.spiegel.de/politik/deutschland/mannheim-nach-toedlicher-messer-attacke-sondiert-nancy-faeser-abschiebe-deal-mit-usbekistan-a-b8d2da19-2f41-4f1b-a40d-4f84b844617e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-auf-g7-gipfel-und-in-der-schweiz-und-dann-wirkt-der-kanzler-ploetzlich-geruehrt](https://www.spiegel.de/politik/deutschland/olaf-scholz-auf-g7-gipfel-und-in-der-schweiz-und-dann-wirkt-der-kanzler-ploetzlich-geruehrt-a-31d6f304-e8a9-450d-b241-a336a6262294#ref=rss)
+### mannheim
 
-* [https://www.spiegel.de/sport/fussball/em-2024-albanien-in-einer-gruppe-mit-italien-spanien-und-kroatien-reise-in-ein-unbekanntes-land](https://www.spiegel.de/sport/fussball/em-2024-albanien-in-einer-gruppe-mit-italien-spanien-und-kroatien-reise-in-ein-unbekanntes-land-a-b870b266-943f-4b84-8348-da58dd37bdbd#ref=rss)
-### weiß
+* [https://www.spiegel.de/panorama/justiz/messerangriff-in-mannheim-taeter-in-kuenstliches-koma-versetzt](https://www.spiegel.de/panorama/justiz/messerangriff-in-mannheim-taeter-in-kuenstliches-koma-versetzt-a-2a52497f-ffb0-4292-aff2-e9264c3fd553#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/mannheim-nach-toedlicher-messer-attacke-sondiert-nancy-faeser-abschiebe-deal-mit-usbekistan](https://www.spiegel.de/politik/deutschland/mannheim-nach-toedlicher-messer-attacke-sondiert-nancy-faeser-abschiebe-deal-mit-usbekistan-a-b8d2da19-2f41-4f1b-a40d-4f84b844617e#ref=rss)
+### trump
 
-* [https://www.spiegel.de/sport/fussball/em-2024-albanien-in-einer-gruppe-mit-italien-spanien-und-kroatien-reise-in-ein-unbekanntes-land](https://www.spiegel.de/sport/fussball/em-2024-albanien-in-einer-gruppe-mit-italien-spanien-und-kroatien-reise-in-ein-unbekanntes-land-a-b870b266-943f-4b84-8348-da58dd37bdbd#ref=rss)
-* [https://www.spiegel.de/psychologie/hirnforschung-und-gefuehle-wie-soziale-medien-psyche-und-gehirn-veraendern-koennen](https://www.spiegel.de/psychologie/hirnforschung-und-gefuehle-wie-soziale-medien-psyche-und-gehirn-veraendern-koennen-a-12c58ed9-7cea-4fe4-ad37-0cdacd81518f#ref=rss)
-### john
+* [https://www.spiegel.de/ausland/lara-trump-will-bei-den-us-wahlen-betrueger-aufspueren-und-erntet-spott](https://www.spiegel.de/ausland/lara-trump-will-bei-den-us-wahlen-betrueger-aufspueren-und-erntet-spott-a-bac16837-9741-47bf-954e-f003a821b41f#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-fordert-joe-biden-zu-kognitivem-test-auf-und-verwechselt-namen-des-arztes](https://www.spiegel.de/ausland/donald-trump-fordert-joe-biden-zu-kognitivem-test-auf-und-verwechselt-namen-des-arztes-a-cb3316fd-e2e4-40cb-aace-3820c20d034a#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/kultur/musik/velvet-underground-legende-john-cale-ich-kann-einfach-so-tun-als-koennte-ich-es](https://www.spiegel.de/kultur/musik/velvet-underground-legende-john-cale-ich-kann-einfach-so-tun-als-koennte-ich-es-a-cf40ef6f-dcc3-4bec-af93-b28f5de20ec0#ref=rss)
-### cale
+* [https://www.spiegel.de/politik/deutschland/ukraine-politik-von-friedrich-merz-riss-durch-die-union](https://www.spiegel.de/politik/deutschland/ukraine-politik-von-friedrich-merz-riss-durch-die-union-a-5e381130-3b8d-4918-a3d7-e705eecd6f57#ref=rss)
+* [https://www.spiegel.de/politik/buergergeld-cdu-minister-michael-stuebgen-will-zahlungen-an-fluechtlinge-aus-der-ukraine-stoppen](https://www.spiegel.de/politik/buergergeld-cdu-minister-michael-stuebgen-will-zahlungen-an-fluechtlinge-aus-der-ukraine-stoppen-a-dda7cc7f-8733-4d69-994f-7a5e36eb6fee#ref=rss)
+* [https://www.spiegel.de/kultur/musik/leipzig-konzertbesucher-buhen-rod-stewart-nach-fuck-putin-ruf-aus](https://www.spiegel.de/kultur/musik/leipzig-konzertbesucher-buhen-rod-stewart-nach-fuck-putin-ruf-aus-a-285660f0-3d11-49b5-b49e-16668d3e8b98#ref=rss)
+### woche
 
-* [https://www.spiegel.de/kultur/musik/velvet-underground-legende-john-cale-ich-kann-einfach-so-tun-als-koennte-ich-es](https://www.spiegel.de/kultur/musik/velvet-underground-legende-john-cale-ich-kann-einfach-so-tun-als-koennte-ich-es-a-cf40ef6f-dcc3-4bec-af93-b28f5de20ec0#ref=rss)
-### ludwigshafen
+* [https://www.spiegel.de/kultur/anja-ruetzel-tops-und-flops-der-woche](https://www.spiegel.de/kultur/anja-ruetzel-tops-und-flops-der-woche-a-6b7194f9-9b89-4211-be8d-1212a0f20b18#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw-24-xxx](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw-24-xxx-a-2cb95aa3-4512-4c81-8f77-f8212bbf9e9d#ref=rss)
+* [https://www.spiegel.de/panorama/leute/tv-koch-gordan-ramsay-berichtet-von-schwerem-fahrradunfall](https://www.spiegel.de/panorama/leute/tv-koch-gordan-ramsay-berichtet-von-schwerem-fahrradunfall-a-57610d4f-fb5c-4c2e-a383-40df5dc2c8f7#ref=rss)
+* [https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-der-winkel](https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-der-winkel-a-685001b3-0374-4a6a-90f0-afb873743673#ref=rss)
+### olaf
 
-* [https://www.spiegel.de/panorama/ludwigshafen-dreijaehriger-stuerzt-aus-fahrendem-auto-verletzt](https://www.spiegel.de/panorama/ludwigshafen-dreijaehriger-stuerzt-aus-fahrendem-auto-verletzt-a-423e4fa6-dae5-4fa8-8d6d-51521081c003#ref=rss)
+* [https://www.spiegel.de/kultur/harald-schmidt-bleibt-fan-von-olaf-scholz](https://www.spiegel.de/kultur/harald-schmidt-bleibt-fan-von-olaf-scholz-a-aed59896-09b9-442f-b992-28c4ae0cac83#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-auf-g7-gipfel-und-in-der-schweiz-und-dann-wirkt-der-kanzler-ploetzlich-geruehrt](https://www.spiegel.de/politik/deutschland/olaf-scholz-auf-g7-gipfel-und-in-der-schweiz-und-dann-wirkt-der-kanzler-ploetzlich-geruehrt-a-31d6f304-e8a9-450d-b241-a336a6262294#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/justiz/bericht-ueber-gewalttat-auf-der-reeperbahn-polizei-streckt-taeter-offenbar-nieder](https://www.spiegel.de/panorama/justiz/bericht-ueber-gewalttat-auf-der-reeperbahn-polizei-streckt-taeter-offenbar-nieder-a-52dc9015-f1be-4c62-87f4-5ddfa2873961#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-moabit-mann-durch-schuss-schwer-verletzt](https://www.spiegel.de/panorama/justiz/berlin-moabit-mann-durch-schuss-schwer-verletzt-a-9d267b1c-4817-4ae5-bc4a-21b2a40d2399#ref=rss)
+### täter
+
+* [https://www.spiegel.de/panorama/justiz/bericht-ueber-gewalttat-auf-der-reeperbahn-polizei-streckt-taeter-offenbar-nieder](https://www.spiegel.de/panorama/justiz/bericht-ueber-gewalttat-auf-der-reeperbahn-polizei-streckt-taeter-offenbar-nieder-a-52dc9015-f1be-4c62-87f4-5ddfa2873961#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/messerangriff-in-mannheim-taeter-in-kuenstliches-koma-versetzt](https://www.spiegel.de/panorama/justiz/messerangriff-in-mannheim-taeter-in-kuenstliches-koma-versetzt-a-2a52497f-ffb0-4292-aff2-e9264c3fd553#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-moabit-mann-durch-schuss-schwer-verletzt](https://www.spiegel.de/panorama/justiz/berlin-moabit-mann-durch-schuss-schwer-verletzt-a-9d267b1c-4817-4ae5-bc4a-21b2a40d2399#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/panorama/justiz/bericht-ueber-gewalttat-auf-der-reeperbahn-polizei-streckt-taeter-offenbar-nieder](https://www.spiegel.de/panorama/justiz/bericht-ueber-gewalttat-auf-der-reeperbahn-polizei-streckt-taeter-offenbar-nieder-a-52dc9015-f1be-4c62-87f4-5ddfa2873961#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/verkehrsministerium-will-offenbar-autobahn-investitionen-stark-kuerzen](https://www.spiegel.de/wirtschaft/soziales/verkehrsministerium-will-offenbar-autobahn-investitionen-stark-kuerzen-a-f62d4142-924a-4f9f-b2c4-c2a2163100a2#ref=rss)
+* [https://www.spiegel.de/panorama/oesterreich-josef-fritzl-soll-offenbar-entmuendigt-werden](https://www.spiegel.de/panorama/oesterreich-josef-fritzl-soll-offenbar-entmuendigt-werden-a-967f9460-736e-47e4-bae8-935db4ddb8c8#ref=rss)
+### 2024
+
+* [https://www.spiegel.de/sport/fussball/em-2024-niederlande-gegen-polen-die-besondere-rueckkehr-des-ronald-koeman](https://www.spiegel.de/sport/fussball/em-2024-niederlande-gegen-polen-die-besondere-rueckkehr-des-ronald-koeman-a-76e057a5-0137-482c-a666-7754b71895ed#ref=rss)
+* [https://www.spiegel.de/sport/fussball/philipp-lahm-als-em-turnierdirektor-der-fussballkanzler](https://www.spiegel.de/sport/fussball/philipp-lahm-als-em-turnierdirektor-der-fussballkanzler-a-0a69e6d8-3409-4afa-8fb7-dcf95755fbd1#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-em-2024-spanien-feiert-lamine-yamal-und-schafft-das-tiki-taka-ab](https://www.spiegel.de/sport/fussball/fussball-em-2024-spanien-feiert-lamine-yamal-und-schafft-das-tiki-taka-ab-a-f5c0f1e2-bd37-4c40-ae8c-3f6dd68b2c3c#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/panorama/oesterreich-josef-fritzl-soll-offenbar-entmuendigt-werden](https://www.spiegel.de/panorama/oesterreich-josef-fritzl-soll-offenbar-entmuendigt-werden-a-967f9460-736e-47e4-bae8-935db4ddb8c8#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw-24-xxx](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw-24-xxx-a-2cb95aa3-4512-4c81-8f77-f8212bbf9e9d#ref=rss)
+* [https://www.spiegel.de/tests/brettspiele/tipp-kick-was-wurde-eigentlich-aus-dem-spieleklassiker](https://www.spiegel.de/tests/brettspiele/tipp-kick-was-wurde-eigentlich-aus-dem-spieleklassiker-a-10af759e-7df4-4557-9c88-4a65f95b9d98#ref=rss)
+### kanzler
+
+* [https://www.spiegel.de/kultur/harald-schmidt-bleibt-fan-von-olaf-scholz](https://www.spiegel.de/kultur/harald-schmidt-bleibt-fan-von-olaf-scholz-a-aed59896-09b9-442f-b992-28c4ae0cac83#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/mannheim-nach-toedlicher-messer-attacke-sondiert-nancy-faeser-abschiebe-deal-mit-usbekistan](https://www.spiegel.de/politik/deutschland/mannheim-nach-toedlicher-messer-attacke-sondiert-nancy-faeser-abschiebe-deal-mit-usbekistan-a-b8d2da19-2f41-4f1b-a40d-4f84b844617e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-auf-g7-gipfel-und-in-der-schweiz-und-dann-wirkt-der-kanzler-ploetzlich-geruehrt](https://www.spiegel.de/politik/deutschland/olaf-scholz-auf-g7-gipfel-und-in-der-schweiz-und-dann-wirkt-der-kanzler-ploetzlich-geruehrt-a-31d6f304-e8a9-450d-b241-a336a6262294#ref=rss)
+### biden
+
+* [https://www.spiegel.de/ausland/donald-trump-fordert-joe-biden-zu-kognitivem-test-auf-und-verwechselt-namen-des-arztes](https://www.spiegel.de/ausland/donald-trump-fordert-joe-biden-zu-kognitivem-test-auf-und-verwechselt-namen-des-arztes-a-cb3316fd-e2e4-40cb-aace-3820c20d034a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-auf-g7-gipfel-und-in-der-schweiz-und-dann-wirkt-der-kanzler-ploetzlich-geruehrt](https://www.spiegel.de/politik/deutschland/olaf-scholz-auf-g7-gipfel-und-in-der-schweiz-und-dann-wirkt-der-kanzler-ploetzlich-geruehrt-a-31d6f304-e8a9-450d-b241-a336a6262294#ref=rss)
+### reeperbahn
+
+* [https://www.spiegel.de/panorama/justiz/bericht-ueber-gewalttat-auf-der-reeperbahn-polizei-streckt-taeter-offenbar-nieder](https://www.spiegel.de/panorama/justiz/bericht-ueber-gewalttat-auf-der-reeperbahn-polizei-streckt-taeter-offenbar-nieder-a-52dc9015-f1be-4c62-87f4-5ddfa2873961#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/bericht-ueber-gewalttat-auf-der-reeperbahn-polizei-streckt-taeter-offenbar-nieder](https://www.spiegel.de/panorama/justiz/bericht-ueber-gewalttat-auf-der-reeperbahn-polizei-streckt-taeter-offenbar-nieder-a-52dc9015-f1be-4c62-87f4-5ddfa2873961#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-moabit-mann-durch-schuss-schwer-verletzt](https://www.spiegel.de/panorama/justiz/berlin-moabit-mann-durch-schuss-schwer-verletzt-a-9d267b1c-4817-4ae5-bc4a-21b2a40d2399#ref=rss)
+### polizisten
+
+* [https://www.spiegel.de/panorama/justiz/bericht-ueber-gewalttat-auf-der-reeperbahn-polizei-streckt-taeter-offenbar-nieder](https://www.spiegel.de/panorama/justiz/bericht-ueber-gewalttat-auf-der-reeperbahn-polizei-streckt-taeter-offenbar-nieder-a-52dc9015-f1be-4c62-87f4-5ddfa2873961#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/messerangriff-in-mannheim-taeter-in-kuenstliches-koma-versetzt](https://www.spiegel.de/panorama/justiz/messerangriff-in-mannheim-taeter-in-kuenstliches-koma-versetzt-a-2a52497f-ffb0-4292-aff2-e9264c3fd553#ref=rss)
+### berichtet
+
+* [https://www.spiegel.de/panorama/justiz/bericht-ueber-gewalttat-auf-der-reeperbahn-polizei-streckt-taeter-offenbar-nieder](https://www.spiegel.de/panorama/justiz/bericht-ueber-gewalttat-auf-der-reeperbahn-polizei-streckt-taeter-offenbar-nieder-a-52dc9015-f1be-4c62-87f4-5ddfa2873961#ref=rss)
+* [https://www.spiegel.de/panorama/leute/tv-koch-gordan-ramsay-berichtet-von-schwerem-fahrradunfall](https://www.spiegel.de/panorama/leute/tv-koch-gordan-ramsay-berichtet-von-schwerem-fahrradunfall-a-57610d4f-fb5c-4c2e-a383-40df5dc2c8f7#ref=rss)
+### geiselnehmer
+
+* [https://www.spiegel.de/ausland/russland-geiselnehmer-in-gefaengnis-getoetet-geiseln-bleiben-unverletzt](https://www.spiegel.de/ausland/russland-geiselnehmer-in-gefaengnis-getoetet-geiseln-bleiben-unverletzt-a-601f54a5-1fe5-4128-9d11-dc4a23529a01#ref=rss)
+### gefängnis
+
+* [https://www.spiegel.de/ausland/russland-geiselnehmer-in-gefaengnis-getoetet-geiseln-bleiben-unverletzt](https://www.spiegel.de/ausland/russland-geiselnehmer-in-gefaengnis-getoetet-geiseln-bleiben-unverletzt-a-601f54a5-1fe5-4128-9d11-dc4a23529a01#ref=rss)
+### bleiben
+
+* [https://www.spiegel.de/ausland/russland-geiselnehmer-in-gefaengnis-getoetet-geiseln-bleiben-unverletzt](https://www.spiegel.de/ausland/russland-geiselnehmer-in-gefaengnis-getoetet-geiseln-bleiben-unverletzt-a-601f54a5-1fe5-4128-9d11-dc4a23529a01#ref=rss)
+* [https://www.spiegel.de/gesundheit/fit-im-hirn-formel-wie-wir-unser-gehirn-auch-im-alter-jung-halten-koennen](https://www.spiegel.de/gesundheit/fit-im-hirn-formel-wie-wir-unser-gehirn-auch-im-alter-jung-halten-koennen-a-bd97f325-e047-45a6-b352-4e42b2771e4c#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/panorama/justiz/messerangriff-in-mannheim-taeter-in-kuenstliches-koma-versetzt](https://www.spiegel.de/panorama/justiz/messerangriff-in-mannheim-taeter-in-kuenstliches-koma-versetzt-a-2a52497f-ffb0-4292-aff2-e9264c3fd553#ref=rss)
+* [https://www.spiegel.de/panorama/hannover-verwaltungsgericht-erlaubt-propalaestinensische-demo-mehr-als-1000-teilnehmer-kommen](https://www.spiegel.de/panorama/hannover-verwaltungsgericht-erlaubt-propalaestinensische-demo-mehr-als-1000-teilnehmer-kommen-a-9942005c-786f-4397-bd67-6441e77fa217#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/panorama/justiz/messerangriff-in-mannheim-taeter-in-kuenstliches-koma-versetzt](https://www.spiegel.de/panorama/justiz/messerangriff-in-mannheim-taeter-in-kuenstliches-koma-versetzt-a-2a52497f-ffb0-4292-aff2-e9264c3fd553#ref=rss)
+* [https://www.spiegel.de/panorama/hannover-verwaltungsgericht-erlaubt-propalaestinensische-demo-mehr-als-1000-teilnehmer-kommen](https://www.spiegel.de/panorama/hannover-verwaltungsgericht-erlaubt-propalaestinensische-demo-mehr-als-1000-teilnehmer-kommen-a-9942005c-786f-4397-bd67-6441e77fa217#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/panorama/justiz/messerangriff-in-mannheim-taeter-in-kuenstliches-koma-versetzt](https://www.spiegel.de/panorama/justiz/messerangriff-in-mannheim-taeter-in-kuenstliches-koma-versetzt-a-2a52497f-ffb0-4292-aff2-e9264c3fd553#ref=rss)
+* [https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-der-winkel](https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-der-winkel-a-685001b3-0374-4a6a-90f0-afb873743673#ref=rss)
+### laut
+
+* [https://www.spiegel.de/panorama/justiz/messerangriff-in-mannheim-taeter-in-kuenstliches-koma-versetzt](https://www.spiegel.de/panorama/justiz/messerangriff-in-mannheim-taeter-in-kuenstliches-koma-versetzt-a-2a52497f-ffb0-4292-aff2-e9264c3fd553#ref=rss)
+* [https://www.spiegel.de/panorama/oesterreich-josef-fritzl-soll-offenbar-entmuendigt-werden](https://www.spiegel.de/panorama/oesterreich-josef-fritzl-soll-offenbar-entmuendigt-werden-a-967f9460-736e-47e4-bae8-935db4ddb8c8#ref=rss)
+### em
+
+* [https://www.spiegel.de/sport/fussball/em-2024-niederlande-gegen-polen-die-besondere-rueckkehr-des-ronald-koeman](https://www.spiegel.de/sport/fussball/em-2024-niederlande-gegen-polen-die-besondere-rueckkehr-des-ronald-koeman-a-76e057a5-0137-482c-a666-7754b71895ed#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-moabit-mann-durch-schuss-schwer-verletzt](https://www.spiegel.de/panorama/justiz/berlin-moabit-mann-durch-schuss-schwer-verletzt-a-9d267b1c-4817-4ae5-bc4a-21b2a40d2399#ref=rss)
+### besondere
+
+* [https://www.spiegel.de/sport/fussball/em-2024-niederlande-gegen-polen-die-besondere-rueckkehr-des-ronald-koeman](https://www.spiegel.de/sport/fussball/em-2024-niederlande-gegen-polen-die-besondere-rueckkehr-des-ronald-koeman-a-76e057a5-0137-482c-a666-7754b71895ed#ref=rss)
+### ronald
+
+* [https://www.spiegel.de/sport/fussball/em-2024-niederlande-gegen-polen-die-besondere-rueckkehr-des-ronald-koeman](https://www.spiegel.de/sport/fussball/em-2024-niederlande-gegen-polen-die-besondere-rueckkehr-des-ronald-koeman-a-76e057a5-0137-482c-a666-7754b71895ed#ref=rss)
+### koeman
+
+* [https://www.spiegel.de/sport/fussball/em-2024-niederlande-gegen-polen-die-besondere-rueckkehr-des-ronald-koeman](https://www.spiegel.de/sport/fussball/em-2024-niederlande-gegen-polen-die-besondere-rueckkehr-des-ronald-koeman-a-76e057a5-0137-482c-a666-7754b71895ed#ref=rss)
+### lara
+
+* [https://www.spiegel.de/ausland/lara-trump-will-bei-den-us-wahlen-betrueger-aufspueren-und-erntet-spott](https://www.spiegel.de/ausland/lara-trump-will-bei-den-us-wahlen-betrueger-aufspueren-und-erntet-spott-a-bac16837-9741-47bf-954e-f003a821b41f#ref=rss)
+### uswahlen
+
+* [https://www.spiegel.de/ausland/lara-trump-will-bei-den-us-wahlen-betrueger-aufspueren-und-erntet-spott](https://www.spiegel.de/ausland/lara-trump-will-bei-den-us-wahlen-betrueger-aufspueren-und-erntet-spott-a-bac16837-9741-47bf-954e-f003a821b41f#ref=rss)
+### betrüger
+
+* [https://www.spiegel.de/ausland/lara-trump-will-bei-den-us-wahlen-betrueger-aufspueren-und-erntet-spott](https://www.spiegel.de/ausland/lara-trump-will-bei-den-us-wahlen-betrueger-aufspueren-und-erntet-spott-a-bac16837-9741-47bf-954e-f003a821b41f#ref=rss)
+### cdu
+
+* [https://www.spiegel.de/politik/deutschland/ukraine-politik-von-friedrich-merz-riss-durch-die-union](https://www.spiegel.de/politik/deutschland/ukraine-politik-von-friedrich-merz-riss-durch-die-union-a-5e381130-3b8d-4918-a3d7-e705eecd6f57#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/ukraine-politik-von-friedrich-merz-riss-durch-die-union](https://www.spiegel.de/politik/deutschland/ukraine-politik-von-friedrich-merz-riss-durch-die-union-a-5e381130-3b8d-4918-a3d7-e705eecd6f57#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/ukraine-politik-von-friedrich-merz-riss-durch-die-union](https://www.spiegel.de/politik/deutschland/ukraine-politik-von-friedrich-merz-riss-durch-die-union-a-5e381130-3b8d-4918-a3d7-e705eecd6f57#ref=rss)
+### drei
+
+* [https://www.spiegel.de/politik/deutschland/ukraine-politik-von-friedrich-merz-riss-durch-die-union](https://www.spiegel.de/politik/deutschland/ukraine-politik-von-friedrich-merz-riss-durch-die-union-a-5e381130-3b8d-4918-a3d7-e705eecd6f57#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-auf-g7-gipfel-und-in-der-schweiz-und-dann-wirkt-der-kanzler-ploetzlich-geruehrt](https://www.spiegel.de/politik/deutschland/olaf-scholz-auf-g7-gipfel-und-in-der-schweiz-und-dann-wirkt-der-kanzler-ploetzlich-geruehrt-a-31d6f304-e8a9-450d-b241-a336a6262294#ref=rss)
+### josef
+
+* [https://www.spiegel.de/panorama/oesterreich-josef-fritzl-soll-offenbar-entmuendigt-werden](https://www.spiegel.de/panorama/oesterreich-josef-fritzl-soll-offenbar-entmuendigt-werden-a-967f9460-736e-47e4-bae8-935db4ddb8c8#ref=rss)
+### fritzl
+
+* [https://www.spiegel.de/panorama/oesterreich-josef-fritzl-soll-offenbar-entmuendigt-werden](https://www.spiegel.de/panorama/oesterreich-josef-fritzl-soll-offenbar-entmuendigt-werden-a-967f9460-736e-47e4-bae8-935db4ddb8c8#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/panorama/oesterreich-josef-fritzl-soll-offenbar-entmuendigt-werden](https://www.spiegel.de/panorama/oesterreich-josef-fritzl-soll-offenbar-entmuendigt-werden-a-967f9460-736e-47e4-bae8-935db4ddb8c8#ref=rss)
+* [https://www.spiegel.de/tests/brettspiele/tipp-kick-was-wurde-eigentlich-aus-dem-spieleklassiker](https://www.spiegel.de/tests/brettspiele/tipp-kick-was-wurde-eigentlich-aus-dem-spieleklassiker-a-10af759e-7df4-4557-9c88-4a65f95b9d98#ref=rss)
+### welchen
+
+* [https://www.spiegel.de/kultur/anja-ruetzel-tops-und-flops-der-woche](https://www.spiegel.de/kultur/anja-ruetzel-tops-und-flops-der-woche-a-6b7194f9-9b89-4211-be8d-1212a0f20b18#ref=rss)
+* [https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-der-winkel](https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-der-winkel-a-685001b3-0374-4a6a-90f0-afb873743673#ref=rss)
+### unsere
+
+* [https://www.spiegel.de/kultur/anja-ruetzel-tops-und-flops-der-woche](https://www.spiegel.de/kultur/anja-ruetzel-tops-und-flops-der-woche-a-6b7194f9-9b89-4211-be8d-1212a0f20b18#ref=rss)
+* [https://www.spiegel.de/stil/hobby-gaertnern-alles-blueht-oder-auch-nicht-frust-im-garten](https://www.spiegel.de/stil/hobby-gaertnern-alles-blueht-oder-auch-nicht-frust-im-garten-a-1cbdabd9-ec6f-4670-b29c-d3438e09169d#ref=rss)
+### honduras
+
+* [https://www.spiegel.de/panorama/justiz/honduras-regierung-plant-den-bau-eines-giga-gefaengnisses-fuer-20-000-insassen](https://www.spiegel.de/panorama/justiz/honduras-regierung-plant-den-bau-eines-giga-gefaengnisses-fuer-20-000-insassen-a-20194149-d0f1-40fe-87db-f0477aaad940#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/panorama/justiz/honduras-regierung-plant-den-bau-eines-giga-gefaengnisses-fuer-20-000-insassen](https://www.spiegel.de/panorama/justiz/honduras-regierung-plant-den-bau-eines-giga-gefaengnisses-fuer-20-000-insassen-a-20194149-d0f1-40fe-87db-f0477aaad940#ref=rss)
+### philipp
+
+* [https://www.spiegel.de/sport/fussball/philipp-lahm-als-em-turnierdirektor-der-fussballkanzler](https://www.spiegel.de/sport/fussball/philipp-lahm-als-em-turnierdirektor-der-fussballkanzler-a-0a69e6d8-3409-4afa-8fb7-dcf95755fbd1#ref=rss)
+### lahm
+
+* [https://www.spiegel.de/sport/fussball/philipp-lahm-als-em-turnierdirektor-der-fussballkanzler](https://www.spiegel.de/sport/fussball/philipp-lahm-als-em-turnierdirektor-der-fussballkanzler-a-0a69e6d8-3409-4afa-8fb7-dcf95755fbd1#ref=rss)
+### unser
+
+* [https://www.spiegel.de/sport/fussball/philipp-lahm-als-em-turnierdirektor-der-fussballkanzler](https://www.spiegel.de/sport/fussball/philipp-lahm-als-em-turnierdirektor-der-fussballkanzler-a-0a69e6d8-3409-4afa-8fb7-dcf95755fbd1#ref=rss)
+* [https://www.spiegel.de/gesundheit/fit-im-hirn-formel-wie-wir-unser-gehirn-auch-im-alter-jung-halten-koennen](https://www.spiegel.de/gesundheit/fit-im-hirn-formel-wie-wir-unser-gehirn-auch-im-alter-jung-halten-koennen-a-bd97f325-e047-45a6-b352-4e42b2771e4c#ref=rss)
+### hannover
+
+* [https://www.spiegel.de/panorama/hannover-verwaltungsgericht-erlaubt-propalaestinensische-demo-mehr-als-1000-teilnehmer-kommen](https://www.spiegel.de/panorama/hannover-verwaltungsgericht-erlaubt-propalaestinensische-demo-mehr-als-1000-teilnehmer-kommen-a-9942005c-786f-4397-bd67-6441e77fa217#ref=rss)
+### 24
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw-24-xxx](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw-24-xxx-a-2cb95aa3-4512-4c81-8f77-f8212bbf9e9d#ref=rss)
+* [https://www.spiegel.de/sport/formel1/24-stunden-von-le-mans-fruehes-aus-fuer-mick-schumachers-alpine-team](https://www.spiegel.de/sport/formel1/24-stunden-von-le-mans-fruehes-aus-fuer-mick-schumachers-alpine-team-a-5b9919c1-92e6-446b-bc6d-748d2c40be5e#ref=rss)
+### wagenknecht
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw-24-xxx](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw-24-xxx-a-2cb95aa3-4512-4c81-8f77-f8212bbf9e9d#ref=rss)
+### weidel
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw-24-xxx](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw-24-xxx-a-2cb95aa3-4512-4c81-8f77-f8212bbf9e9d#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw-24-xxx](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw-24-xxx-a-2cb95aa3-4512-4c81-8f77-f8212bbf9e9d#ref=rss)
+### bleibt
+
+* [https://www.spiegel.de/kultur/harald-schmidt-bleibt-fan-von-olaf-scholz](https://www.spiegel.de/kultur/harald-schmidt-bleibt-fan-von-olaf-scholz-a-aed59896-09b9-442f-b992-28c4ae0cac83#ref=rss)
+### europawahl
+
+* [https://www.spiegel.de/kultur/harald-schmidt-bleibt-fan-von-olaf-scholz](https://www.spiegel.de/kultur/harald-schmidt-bleibt-fan-von-olaf-scholz-a-aed59896-09b9-442f-b992-28c4ae0cac83#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/petra-pau-bundestagsvize-fuer-volksabstimmung-ueber-das-grundgesetz](https://www.spiegel.de/politik/deutschland/petra-pau-bundestagsvize-fuer-volksabstimmung-ueber-das-grundgesetz-a-36f6a991-0b06-4c87-b6ff-fecd14d63158#ref=rss)
+### unterstützer
+
+* [https://www.spiegel.de/kultur/harald-schmidt-bleibt-fan-von-olaf-scholz](https://www.spiegel.de/kultur/harald-schmidt-bleibt-fan-von-olaf-scholz-a-aed59896-09b9-442f-b992-28c4ae0cac83#ref=rss)
+* [https://www.spiegel.de/kultur/musik/leipzig-konzertbesucher-buhen-rod-stewart-nach-fuck-putin-ruf-aus](https://www.spiegel.de/kultur/musik/leipzig-konzertbesucher-buhen-rod-stewart-nach-fuck-putin-ruf-aus-a-285660f0-3d11-49b5-b49e-16668d3e8b98#ref=rss)
+### stübgen
+
+* [https://www.spiegel.de/politik/buergergeld-cdu-minister-michael-stuebgen-will-zahlungen-an-fluechtlinge-aus-der-ukraine-stoppen](https://www.spiegel.de/politik/buergergeld-cdu-minister-michael-stuebgen-will-zahlungen-an-fluechtlinge-aus-der-ukraine-stoppen-a-dda7cc7f-8733-4d69-994f-7a5e36eb6fee#ref=rss)
+### messerattacke
+
+* [https://www.spiegel.de/politik/deutschland/mannheim-nach-toedlicher-messer-attacke-sondiert-nancy-faeser-abschiebe-deal-mit-usbekistan](https://www.spiegel.de/politik/deutschland/mannheim-nach-toedlicher-messer-attacke-sondiert-nancy-faeser-abschiebe-deal-mit-usbekistan-a-b8d2da19-2f41-4f1b-a40d-4f84b844617e#ref=rss)
+### sondiert
+
+* [https://www.spiegel.de/politik/deutschland/mannheim-nach-toedlicher-messer-attacke-sondiert-nancy-faeser-abschiebe-deal-mit-usbekistan](https://www.spiegel.de/politik/deutschland/mannheim-nach-toedlicher-messer-attacke-sondiert-nancy-faeser-abschiebe-deal-mit-usbekistan-a-b8d2da19-2f41-4f1b-a40d-4f84b844617e#ref=rss)
+### faeser
+
+* [https://www.spiegel.de/politik/deutschland/mannheim-nach-toedlicher-messer-attacke-sondiert-nancy-faeser-abschiebe-deal-mit-usbekistan](https://www.spiegel.de/politik/deutschland/mannheim-nach-toedlicher-messer-attacke-sondiert-nancy-faeser-abschiebe-deal-mit-usbekistan-a-b8d2da19-2f41-4f1b-a40d-4f84b844617e#ref=rss)
+### usbekistan
+
+* [https://www.spiegel.de/politik/deutschland/mannheim-nach-toedlicher-messer-attacke-sondiert-nancy-faeser-abschiebe-deal-mit-usbekistan](https://www.spiegel.de/politik/deutschland/mannheim-nach-toedlicher-messer-attacke-sondiert-nancy-faeser-abschiebe-deal-mit-usbekistan-a-b8d2da19-2f41-4f1b-a40d-4f84b844617e#ref=rss)
+### gehirn
+
+* [https://www.spiegel.de/gesundheit/fit-im-hirn-formel-wie-wir-unser-gehirn-auch-im-alter-jung-halten-koennen](https://www.spiegel.de/gesundheit/fit-im-hirn-formel-wie-wir-unser-gehirn-auch-im-alter-jung-halten-koennen-a-bd97f325-e047-45a6-b352-4e42b2771e4c#ref=rss)
+### alter
+
+* [https://www.spiegel.de/gesundheit/fit-im-hirn-formel-wie-wir-unser-gehirn-auch-im-alter-jung-halten-koennen](https://www.spiegel.de/gesundheit/fit-im-hirn-formel-wie-wir-unser-gehirn-auch-im-alter-jung-halten-koennen-a-bd97f325-e047-45a6-b352-4e42b2771e4c#ref=rss)
+### alzheimer
+
+* [https://www.spiegel.de/gesundheit/fit-im-hirn-formel-wie-wir-unser-gehirn-auch-im-alter-jung-halten-koennen](https://www.spiegel.de/gesundheit/fit-im-hirn-formel-wie-wir-unser-gehirn-auch-im-alter-jung-halten-koennen-a-bd97f325-e047-45a6-b352-4e42b2771e4c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-hamas-angriff-auf-kibbuz-beeri-schutz-vor-alzheimer](https://www.spiegel.de/politik/deutschland/news-hamas-angriff-auf-kibbuz-beeri-schutz-vor-alzheimer-a-99db79f3-03e5-4a12-abd3-3ae65bee4af0#ref=rss)
+### rund
+
+* [https://www.spiegel.de/wissenschaft/us-luftfahrtbehoerde-untersucht-beinahe-absturz-vor-hawaii](https://www.spiegel.de/wissenschaft/us-luftfahrtbehoerde-untersucht-beinahe-absturz-vor-hawaii-a-ed545f1d-2f1d-4048-b00b-9b0400889b98#ref=rss)
+* [https://www.spiegel.de/tests/brettspiele/tipp-kick-was-wurde-eigentlich-aus-dem-spieleklassiker](https://www.spiegel.de/tests/brettspiele/tipp-kick-was-wurde-eigentlich-aus-dem-spieleklassiker-a-10af759e-7df4-4557-9c88-4a65f95b9d98#ref=rss)
+### le
+
+* [https://www.spiegel.de/sport/formel1/24-stunden-von-le-mans-fruehes-aus-fuer-mick-schumachers-alpine-team](https://www.spiegel.de/sport/formel1/24-stunden-von-le-mans-fruehes-aus-fuer-mick-schumachers-alpine-team-a-5b9919c1-92e6-446b-bc6d-748d2c40be5e#ref=rss)
+### mans
+
+* [https://www.spiegel.de/sport/formel1/24-stunden-von-le-mans-fruehes-aus-fuer-mick-schumachers-alpine-team](https://www.spiegel.de/sport/formel1/24-stunden-von-le-mans-fruehes-aus-fuer-mick-schumachers-alpine-team-a-5b9919c1-92e6-446b-bc6d-748d2c40be5e#ref=rss)
+### mick
+
+* [https://www.spiegel.de/sport/formel1/24-stunden-von-le-mans-fruehes-aus-fuer-mick-schumachers-alpine-team](https://www.spiegel.de/sport/formel1/24-stunden-von-le-mans-fruehes-aus-fuer-mick-schumachers-alpine-team-a-5b9919c1-92e6-446b-bc6d-748d2c40be5e#ref=rss)
+### schumacher
+
+* [https://www.spiegel.de/sport/formel1/24-stunden-von-le-mans-fruehes-aus-fuer-mick-schumachers-alpine-team](https://www.spiegel.de/sport/formel1/24-stunden-von-le-mans-fruehes-aus-fuer-mick-schumachers-alpine-team-a-5b9919c1-92e6-446b-bc6d-748d2c40be5e#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/donald-trump-fordert-joe-biden-zu-kognitivem-test-auf-und-verwechselt-namen-des-arztes](https://www.spiegel.de/ausland/donald-trump-fordert-joe-biden-zu-kognitivem-test-auf-und-verwechselt-namen-des-arztes-a-cb3316fd-e2e4-40cb-aace-3820c20d034a#ref=rss)
+### joe
+
+* [https://www.spiegel.de/ausland/donald-trump-fordert-joe-biden-zu-kognitivem-test-auf-und-verwechselt-namen-des-arztes](https://www.spiegel.de/ausland/donald-trump-fordert-joe-biden-zu-kognitivem-test-auf-und-verwechselt-namen-des-arztes-a-cb3316fd-e2e4-40cb-aace-3820c20d034a#ref=rss)
+### petra
+
+* [https://www.spiegel.de/politik/deutschland/petra-pau-bundestagsvize-fuer-volksabstimmung-ueber-das-grundgesetz](https://www.spiegel.de/politik/deutschland/petra-pau-bundestagsvize-fuer-volksabstimmung-ueber-das-grundgesetz-a-36f6a991-0b06-4c87-b6ff-fecd14d63158#ref=rss)
+### pau
+
+* [https://www.spiegel.de/politik/deutschland/petra-pau-bundestagsvize-fuer-volksabstimmung-ueber-das-grundgesetz](https://www.spiegel.de/politik/deutschland/petra-pau-bundestagsvize-fuer-volksabstimmung-ueber-das-grundgesetz-a-36f6a991-0b06-4c87-b6ff-fecd14d63158#ref=rss)
+### berlinmoabit
+
+* [https://www.spiegel.de/panorama/justiz/berlin-moabit-mann-durch-schuss-schwer-verletzt](https://www.spiegel.de/panorama/justiz/berlin-moabit-mann-durch-schuss-schwer-verletzt-a-9d267b1c-4817-4ae5-bc4a-21b2a40d2399#ref=rss)
+### schwer
+
+* [https://www.spiegel.de/panorama/justiz/berlin-moabit-mann-durch-schuss-schwer-verletzt](https://www.spiegel.de/panorama/justiz/berlin-moabit-mann-durch-schuss-schwer-verletzt-a-9d267b1c-4817-4ae5-bc4a-21b2a40d2399#ref=rss)
+### verletzt
+
+* [https://www.spiegel.de/panorama/justiz/berlin-moabit-mann-durch-schuss-schwer-verletzt](https://www.spiegel.de/panorama/justiz/berlin-moabit-mann-durch-schuss-schwer-verletzt-a-9d267b1c-4817-4ae5-bc4a-21b2a40d2399#ref=rss)
+### rod
+
+* [https://www.spiegel.de/kultur/musik/leipzig-konzertbesucher-buhen-rod-stewart-nach-fuck-putin-ruf-aus](https://www.spiegel.de/kultur/musik/leipzig-konzertbesucher-buhen-rod-stewart-nach-fuck-putin-ruf-aus-a-285660f0-3d11-49b5-b49e-16668d3e8b98#ref=rss)
+### stewart
+
+* [https://www.spiegel.de/kultur/musik/leipzig-konzertbesucher-buhen-rod-stewart-nach-fuck-putin-ruf-aus](https://www.spiegel.de/kultur/musik/leipzig-konzertbesucher-buhen-rod-stewart-nach-fuck-putin-ruf-aus-a-285660f0-3d11-49b5-b49e-16668d3e8b98#ref=rss)
+### präsentiert
+
+* [https://www.spiegel.de/kultur/musik/leipzig-konzertbesucher-buhen-rod-stewart-nach-fuck-putin-ruf-aus](https://www.spiegel.de/kultur/musik/leipzig-konzertbesucher-buhen-rod-stewart-nach-fuck-putin-ruf-aus-a-285660f0-3d11-49b5-b49e-16668d3e8b98#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-em-2024-spanien-feiert-lamine-yamal-und-schafft-das-tiki-taka-ab](https://www.spiegel.de/sport/fussball/fussball-em-2024-spanien-feiert-lamine-yamal-und-schafft-das-tiki-taka-ab-a-f5c0f1e2-bd37-4c40-ae8c-3f6dd68b2c3c#ref=rss)
+### gordon
+
+* [https://www.spiegel.de/panorama/leute/tv-koch-gordan-ramsay-berichtet-von-schwerem-fahrradunfall](https://www.spiegel.de/panorama/leute/tv-koch-gordan-ramsay-berichtet-von-schwerem-fahrradunfall-a-57610d4f-fb5c-4c2e-a383-40df5dc2c8f7#ref=rss)
+### ramsay
+
+* [https://www.spiegel.de/panorama/leute/tv-koch-gordan-ramsay-berichtet-von-schwerem-fahrradunfall](https://www.spiegel.de/panorama/leute/tv-koch-gordan-ramsay-berichtet-von-schwerem-fahrradunfall-a-57610d4f-fb5c-4c2e-a383-40df5dc2c8f7#ref=rss)
+### g7gipfel
+
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-auf-g7-gipfel-und-in-der-schweiz-und-dann-wirkt-der-kanzler-ploetzlich-geruehrt](https://www.spiegel.de/politik/deutschland/olaf-scholz-auf-g7-gipfel-und-in-der-schweiz-und-dann-wirkt-der-kanzler-ploetzlich-geruehrt-a-31d6f304-e8a9-450d-b241-a336a6262294#ref=rss)
+### spanien
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2024-spanien-feiert-lamine-yamal-und-schafft-das-tiki-taka-ab](https://www.spiegel.de/sport/fussball/fussball-em-2024-spanien-feiert-lamine-yamal-und-schafft-das-tiki-taka-ab-a-f5c0f1e2-bd37-4c40-ae8c-3f6dd68b2c3c#ref=rss)
+### feiert
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2024-spanien-feiert-lamine-yamal-und-schafft-das-tiki-taka-ab](https://www.spiegel.de/sport/fussball/fussball-em-2024-spanien-feiert-lamine-yamal-und-schafft-das-tiki-taka-ab-a-f5c0f1e2-bd37-4c40-ae8c-3f6dd68b2c3c#ref=rss)
+* [https://www.spiegel.de/tests/brettspiele/tipp-kick-was-wurde-eigentlich-aus-dem-spieleklassiker](https://www.spiegel.de/tests/brettspiele/tipp-kick-was-wurde-eigentlich-aus-dem-spieleklassiker-a-10af759e-7df4-4557-9c88-4a65f95b9d98#ref=rss)
+### winkel
+
+* [https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-der-winkel](https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-der-winkel-a-685001b3-0374-4a6a-90f0-afb873743673#ref=rss)
 
