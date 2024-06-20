@@ -6,340 +6,318 @@ tags: __no_header__
 
 ### deutschland
 
-* [https://www.spiegel.de/sport/fussball/em-2024-deutschland-schiesst-sich-gegen-ungarn-ins-achtelfinale](https://www.spiegel.de/sport/fussball/em-2024-deutschland-schiesst-sich-gegen-ungarn-ins-achtelfinale-a-59c32b67-8fdd-4479-9e8b-83dce675ba70#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/schlafen-deutschland-durchschnittlich-mehr-als-acht-stunden-am-tag-wirklich](https://www.spiegel.de/wissenschaft/mensch/schlafen-deutschland-durchschnittlich-mehr-als-acht-stunden-am-tag-wirklich-a-8a78e4be-13cb-4cfe-a9a6-eb82c18a21ed#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2024-gewinnt-deutschland-gegen-ungarn-ist-das-achtelfinale-sicher](https://www.spiegel.de/sport/fussball/em-2024-gewinnt-deutschland-gegen-ungarn-ist-das-achtelfinale-sicher-a-ee32d527-43ea-441e-be5d-547266a38d89#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-deutschland-gegen-ungarn-die-startaufstellung](https://www.spiegel.de/sport/fussball/fussball-em-2024-deutschland-gegen-ungarn-die-startaufstellung-a-cb4704e4-71f7-4158-8fc9-7a5bb7cad76e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-was-sie-ueber-deutschland-gegen-ungarn-wissen-sollten](https://www.spiegel.de/sport/fussball/fussball-em-2024-was-sie-ueber-deutschland-gegen-ungarn-wissen-sollten-a-67fb2996-f212-42cb-8f05-defe2cded8cb#ref=rss)
-### ungarn
-
-* [https://www.spiegel.de/sport/fussball/em-2024-deutschland-schiesst-sich-gegen-ungarn-ins-achtelfinale](https://www.spiegel.de/sport/fussball/em-2024-deutschland-schiesst-sich-gegen-ungarn-ins-achtelfinale-a-59c32b67-8fdd-4479-9e8b-83dce675ba70#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2024-gewinnt-deutschland-gegen-ungarn-ist-das-achtelfinale-sicher](https://www.spiegel.de/sport/fussball/em-2024-gewinnt-deutschland-gegen-ungarn-ist-das-achtelfinale-sicher-a-ee32d527-43ea-441e-be5d-547266a38d89#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-deutschland-gegen-ungarn-die-startaufstellung](https://www.spiegel.de/sport/fussball/fussball-em-2024-deutschland-gegen-ungarn-die-startaufstellung-a-cb4704e4-71f7-4158-8fc9-7a5bb7cad76e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-was-sie-ueber-deutschland-gegen-ungarn-wissen-sollten](https://www.spiegel.de/sport/fussball/fussball-em-2024-was-sie-ueber-deutschland-gegen-ungarn-wissen-sollten-a-67fb2996-f212-42cb-8f05-defe2cded8cb#ref=rss)
-### malu
-
-* [https://www.spiegel.de/politik/deutschland/rheinland-pfalz-alexander-schweitzer-soll-neuer-ministerpraesident-werden-nachfolge-von-malu-dreyer-geklaert](https://www.spiegel.de/politik/deutschland/rheinland-pfalz-alexander-schweitzer-soll-neuer-ministerpraesident-werden-nachfolge-von-malu-dreyer-geklaert-a-0ce80580-6548-4aa5-8c24-6bd668c70138#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-malu-dreyers-ruecktritt-anklage-letzte-generation-schottische-fans](https://www.spiegel.de/politik/deutschland/news-des-tages-malu-dreyers-ruecktritt-anklage-letzte-generation-schottische-fans-a-4e59e25c-1bd3-4e06-97bf-d98576ae8e4d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/malu-dreyer-die-spd-hat-jetzt-ein-problem](https://www.spiegel.de/politik/deutschland/malu-dreyer-die-spd-hat-jetzt-ein-problem-a-8301573d-ee13-4fec-840e-a6369ab2eea9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/tennet-scheitert-mit-stromnetz-verkauf-an-deutschland](https://www.spiegel.de/wirtschaft/tennet-scheitert-mit-stromnetz-verkauf-an-deutschland-a-3d110dec-97fb-4798-a7ac-dae8a96d30df#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/hochschulabschluss-quote-bei-akademikerkindern-fuenfmal-so-hoch-wie-bei-kindern-von-gering-qualifizierten-eltern](https://www.spiegel.de/panorama/bildung/hochschulabschluss-quote-bei-akademikerkindern-fuenfmal-so-hoch-wie-bei-kindern-von-gering-qualifizierten-eltern-a-2abb8e5f-12d6-41fc-950b-b4dfc2c42f87#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/streikbilanz-zahl-der-arbeitskaempfe-und-ausfalltage-2023-deutlich-gestiegen](https://www.spiegel.de/wirtschaft/soziales/streikbilanz-zahl-der-arbeitskaempfe-und-ausfalltage-2023-deutlich-gestiegen-a-491e696c-13bf-401d-bcf3-e239782de595#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/elektroautos-neuzulassungen-in-deutschland-brechen-ein-frankreich-legt-zu](https://www.spiegel.de/wirtschaft/unternehmen/elektroautos-neuzulassungen-in-deutschland-brechen-ein-frankreich-legt-zu-a-8630433e-d071-4113-a2b7-912213bf6c2c#ref=rss)
+* [https://www.spiegel.de/kultur/kunst-historikerin-ueber-visa-wahnsinn-deutschland-auf-unbestimmte-zeit-geschlossen](https://www.spiegel.de/kultur/kunst-historikerin-ueber-visa-wahnsinn-deutschland-auf-unbestimmte-zeit-geschlossen-a-4c7f5558-8946-4cab-9c54-c5730ddb92a2#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/sommersonnenwende-2024-alles-wichtige-zum-sommeranfang](https://www.spiegel.de/wissenschaft/natur/sommersonnenwende-2024-alles-wichtige-zum-sommeranfang-a-0b5751bb-9f7b-440d-826c-3a003b10f167#ref=rss)
 ### 2024
 
-* [https://www.spiegel.de/sport/fussball/em-2024-deutschland-schiesst-sich-gegen-ungarn-ins-achtelfinale](https://www.spiegel.de/sport/fussball/em-2024-deutschland-schiesst-sich-gegen-ungarn-ins-achtelfinale-a-59c32b67-8fdd-4479-9e8b-83dce675ba70#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2024-gewinnt-deutschland-gegen-ungarn-ist-das-achtelfinale-sicher](https://www.spiegel.de/sport/fussball/em-2024-gewinnt-deutschland-gegen-ungarn-ist-das-achtelfinale-sicher-a-ee32d527-43ea-441e-be5d-547266a38d89#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-albanien-rettet-unentschieden-trotz-slapstick-eigentor-gegen-kroatien](https://www.spiegel.de/sport/fussball/fussball-em-2024-albanien-rettet-unentschieden-trotz-slapstick-eigentor-gegen-kroatien-a-a25bb148-b33f-46eb-933e-28dab04f308a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-deutschland-gegen-ungarn-die-startaufstellung](https://www.spiegel.de/sport/fussball/fussball-em-2024-deutschland-gegen-ungarn-die-startaufstellung-a-cb4704e4-71f7-4158-8fc9-7a5bb7cad76e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-was-sie-ueber-deutschland-gegen-ungarn-wissen-sollten](https://www.spiegel.de/sport/fussball/fussball-em-2024-was-sie-ueber-deutschland-gegen-ungarn-wissen-sollten-a-67fb2996-f212-42cb-8f05-defe2cded8cb#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wissenschaft/mensch/schlafen-deutschland-durchschnittlich-mehr-als-acht-stunden-am-tag-wirklich](https://www.spiegel.de/wissenschaft/mensch/schlafen-deutschland-durchschnittlich-mehr-als-acht-stunden-am-tag-wirklich-a-8a78e4be-13cb-4cfe-a9a6-eb82c18a21ed#ref=rss)
-* [https://www.spiegel.de/kultur/justin-timberlake-ist-das-noch-ein-polizeifoto-oder-schon-grosse-kunst](https://www.spiegel.de/kultur/justin-timberlake-ist-das-noch-ein-polizeifoto-oder-schon-grosse-kunst-a-2917b78f-0095-4724-890f-014ea040c3a8#ref=rss)
-* [https://www.spiegel.de/kultur/musik/rema-mit-calm-down-erfolgreichster-afrobeats-song-schreibt-streaming-geschichte-in-den-usa](https://www.spiegel.de/kultur/musik/rema-mit-calm-down-erfolgreichster-afrobeats-song-schreibt-streaming-geschichte-in-den-usa-a-e1b4ab53-2317-48d3-aa40-be8a09a2636d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/satelliten-schrott-koennte-ozonschicht-zerstoeren](https://www.spiegel.de/wissenschaft/weltall/satelliten-schrott-koennte-ozonschicht-zerstoeren-a-0dfb22a1-07c7-4d88-97b8-447ccea6d916#ref=rss)
-### dreyer
-
-* [https://www.spiegel.de/politik/deutschland/rheinland-pfalz-alexander-schweitzer-soll-neuer-ministerpraesident-werden-nachfolge-von-malu-dreyer-geklaert](https://www.spiegel.de/politik/deutschland/rheinland-pfalz-alexander-schweitzer-soll-neuer-ministerpraesident-werden-nachfolge-von-malu-dreyer-geklaert-a-0ce80580-6548-4aa5-8c24-6bd668c70138#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-malu-dreyers-ruecktritt-anklage-letzte-generation-schottische-fans](https://www.spiegel.de/politik/deutschland/news-des-tages-malu-dreyers-ruecktritt-anklage-letzte-generation-schottische-fans-a-4e59e25c-1bd3-4e06-97bf-d98576ae8e4d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/malu-dreyer-die-spd-hat-jetzt-ein-problem](https://www.spiegel.de/politik/deutschland/malu-dreyer-die-spd-hat-jetzt-ein-problem-a-8301573d-ee13-4fec-840e-a6369ab2eea9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/streikbilanz-zahl-der-arbeitskaempfe-und-ausfalltage-2023-deutlich-gestiegen](https://www.spiegel.de/wirtschaft/soziales/streikbilanz-zahl-der-arbeitskaempfe-und-ausfalltage-2023-deutlich-gestiegen-a-491e696c-13bf-401d-bcf3-e239782de595#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/chinesischer-autokonzern-byd-als-sponsor-der-em-wie-spricht-man-das-aus-buett](https://www.spiegel.de/wirtschaft/unternehmen/chinesischer-autokonzern-byd-als-sponsor-der-em-wie-spricht-man-das-aus-buett-a-6ed32aab-4495-4aee-9cdc-c8ef7097ad57#ref=rss)
+* [https://www.spiegel.de/sport/fussball/em-2024-ungarn-trainer-marco-rossi-nach-0-2-gegen-deutschland-wuetend-auf-schiedsrichter](https://www.spiegel.de/sport/fussball/em-2024-ungarn-trainer-marco-rossi-nach-0-2-gegen-deutschland-wuetend-auf-schiedsrichter-a-4736f0c8-b776-4d9c-8836-89912abcc3a2#ref=rss)
+* [https://www.spiegel.de/sport/fussball/em-2024-albanien-georgien-und-die-slowakei-begeistern-deshalb-lieben-alle-den-fussball](https://www.spiegel.de/sport/fussball/em-2024-albanien-georgien-und-die-slowakei-begeistern-deshalb-lieben-alle-den-fussball-a-7b48f615-a9dd-4c75-9d94-4afb9ca5c4d0#ref=rss)
+* [https://www.spiegel.de/sport/em2024-ode-an-maultaschen-musiala](https://www.spiegel.de/sport/em2024-ode-an-maultaschen-musiala-a-5b04b3a6-e7df-4af7-a8d3-a13656945c1b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-em-2024-deutsche-verteidiger-jonathan-tah-und-antonio-ruediger-etwa-doch-abwehrmonster](https://www.spiegel.de/sport/fussball/fussball-em-2024-deutsche-verteidiger-jonathan-tah-und-antonio-ruediger-etwa-doch-abwehrmonster-a-1cb6edfe-fda3-462d-a221-4ef71dc236c5#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/sommersonnenwende-2024-alles-wichtige-zum-sommeranfang](https://www.spiegel.de/wissenschaft/natur/sommersonnenwende-2024-alles-wichtige-zum-sommeranfang-a-0b5751bb-9f7b-440d-826c-3a003b10f167#ref=rss)
 ### em
 
-* [https://www.spiegel.de/sport/fussball/em-2024-deutschland-schiesst-sich-gegen-ungarn-ins-achtelfinale](https://www.spiegel.de/sport/fussball/em-2024-deutschland-schiesst-sich-gegen-ungarn-ins-achtelfinale-a-59c32b67-8fdd-4479-9e8b-83dce675ba70#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2024-gewinnt-deutschland-gegen-ungarn-ist-das-achtelfinale-sicher](https://www.spiegel.de/sport/fussball/em-2024-gewinnt-deutschland-gegen-ungarn-ist-das-achtelfinale-sicher-a-ee32d527-43ea-441e-be5d-547266a38d89#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-was-sie-ueber-deutschland-gegen-ungarn-wissen-sollten](https://www.spiegel.de/sport/fussball/fussball-em-2024-was-sie-ueber-deutschland-gegen-ungarn-wissen-sollten-a-67fb2996-f212-42cb-8f05-defe2cded8cb#ref=rss)
-### achtelfinale
+* [https://www.spiegel.de/wirtschaft/unternehmen/chinesischer-autokonzern-byd-als-sponsor-der-em-wie-spricht-man-das-aus-buett](https://www.spiegel.de/wirtschaft/unternehmen/chinesischer-autokonzern-byd-als-sponsor-der-em-wie-spricht-man-das-aus-buett-a-6ed32aab-4495-4aee-9cdc-c8ef7097ad57#ref=rss)
+* [https://www.spiegel.de/sport/fussball/em-2024-ungarn-trainer-marco-rossi-nach-0-2-gegen-deutschland-wuetend-auf-schiedsrichter](https://www.spiegel.de/sport/fussball/em-2024-ungarn-trainer-marco-rossi-nach-0-2-gegen-deutschland-wuetend-auf-schiedsrichter-a-4736f0c8-b776-4d9c-8836-89912abcc3a2#ref=rss)
+* [https://www.spiegel.de/sport/fussball/em-2024-albanien-georgien-und-die-slowakei-begeistern-deshalb-lieben-alle-den-fussball](https://www.spiegel.de/sport/fussball/em-2024-albanien-georgien-und-die-slowakei-begeistern-deshalb-lieben-alle-den-fussball-a-7b48f615-a9dd-4c75-9d94-4afb9ca5c4d0#ref=rss)
+* [https://www.spiegel.de/sport/em2024-ode-an-maultaschen-musiala](https://www.spiegel.de/sport/em2024-ode-an-maultaschen-musiala-a-5b04b3a6-e7df-4af7-a8d3-a13656945c1b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-ifo-prognose-sieht-wachstum-von-0-4-prozent-fuer-die-deutsche-wirtschaft](https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-ifo-prognose-sieht-wachstum-von-0-4-prozent-fuer-die-deutsche-wirtschaft-a-47f4370c-e5c4-4ef5-a10d-9189676494b8#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-em-2024-deutsche-verteidiger-jonathan-tah-und-antonio-ruediger-etwa-doch-abwehrmonster](https://www.spiegel.de/sport/fussball/fussball-em-2024-deutsche-verteidiger-jonathan-tah-und-antonio-ruediger-etwa-doch-abwehrmonster-a-1cb6edfe-fda3-462d-a221-4ef71dc236c5#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/sport/fussball/em-2024-deutschland-schiesst-sich-gegen-ungarn-ins-achtelfinale](https://www.spiegel.de/sport/fussball/em-2024-deutschland-schiesst-sich-gegen-ungarn-ins-achtelfinale-a-59c32b67-8fdd-4479-9e8b-83dce675ba70#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2024-gewinnt-deutschland-gegen-ungarn-ist-das-achtelfinale-sicher](https://www.spiegel.de/sport/fussball/em-2024-gewinnt-deutschland-gegen-ungarn-ist-das-achtelfinale-sicher-a-ee32d527-43ea-441e-be5d-547266a38d89#ref=rss)
-### tag
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-attestiert-olaf-scholz-untaetigkeit-in-der-asylpolitik](https://www.spiegel.de/politik/deutschland/friedrich-merz-attestiert-olaf-scholz-untaetigkeit-in-der-asylpolitik-a-1146c554-f3db-405d-a5b6-8c5c2bf7ef7e#ref=rss)
+* [https://www.spiegel.de/start/medizin-die-chirurginnen-ermutigt-junge-aerztinnen-die-chirurgie-als-fachgebiet-zu-waehlen](https://www.spiegel.de/start/medizin-die-chirurginnen-ermutigt-junge-aerztinnen-die-chirurgie-als-fachgebiet-zu-waehlen-a-c1fb3406-ef35-43ff-892d-c343b1f905f3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/streikbilanz-zahl-der-arbeitskaempfe-und-ausfalltage-2023-deutlich-gestiegen](https://www.spiegel.de/wirtschaft/soziales/streikbilanz-zahl-der-arbeitskaempfe-und-ausfalltage-2023-deutlich-gestiegen-a-491e696c-13bf-401d-bcf3-e239782de595#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/wissenschaft/mensch/schlafen-deutschland-durchschnittlich-mehr-als-acht-stunden-am-tag-wirklich](https://www.spiegel.de/wissenschaft/mensch/schlafen-deutschland-durchschnittlich-mehr-als-acht-stunden-am-tag-wirklich-a-8a78e4be-13cb-4cfe-a9a6-eb82c18a21ed#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/reichsbuerger-so-lief-tag-zwei-im-dritten-reichsbuerger-prozess](https://www.spiegel.de/panorama/justiz/reichsbuerger-so-lief-tag-zwei-im-dritten-reichsbuerger-prozess-a-60bc7c54-0223-455c-917a-6900d17ff7d0#ref=rss)
-* [https://www.spiegel.de/panorama/stonehenge-klimaaktivisten-spruehen-orangefarbene-substanz-auf-weltkulturerbe-in-grossbritannien](https://www.spiegel.de/panorama/stonehenge-klimaaktivisten-spruehen-orangefarbene-substanz-auf-weltkulturerbe-in-grossbritannien-a-3a045a53-9200-4cef-a070-6e835aa70492#ref=rss)
-### viele
+* [https://www.spiegel.de/wirtschaft/soziales/streikbilanz-zahl-der-arbeitskaempfe-und-ausfalltage-2023-deutlich-gestiegen](https://www.spiegel.de/wirtschaft/soziales/streikbilanz-zahl-der-arbeitskaempfe-und-ausfalltage-2023-deutlich-gestiegen-a-491e696c-13bf-401d-bcf3-e239782de595#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimawandel-fossile-energien-erreichen-laut-bericht-2023-rekordhoch](https://www.spiegel.de/wissenschaft/klimawandel-fossile-energien-erreichen-laut-bericht-2023-rekordhoch-a-bba88fe5-36ca-4382-9dff-ba830f18acef#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-ifo-prognose-sieht-wachstum-von-0-4-prozent-fuer-die-deutsche-wirtschaft](https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-ifo-prognose-sieht-wachstum-von-0-4-prozent-fuer-die-deutsche-wirtschaft-a-47f4370c-e5c4-4ef5-a10d-9189676494b8#ref=rss)
+* [https://www.spiegel.de/panorama/leute/jon-hamm-kinderwunsch-von-mad-men-star-ich-werde-der-alte-dad-sein](https://www.spiegel.de/panorama/leute/jon-hamm-kinderwunsch-von-mad-men-star-ich-werde-der-alte-dad-sein-a-95127741-ce41-4e7e-9b33-d05c76ad5134#ref=rss)
+### kindern
 
-* [https://www.spiegel.de/wissenschaft/mensch/schlafen-deutschland-durchschnittlich-mehr-als-acht-stunden-am-tag-wirklich](https://www.spiegel.de/wissenschaft/mensch/schlafen-deutschland-durchschnittlich-mehr-als-acht-stunden-am-tag-wirklich-a-8a78e4be-13cb-4cfe-a9a6-eb82c18a21ed#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahlen-welche-stars-joe-biden-unterstuetzen-und-welche-donald-trump](https://www.spiegel.de/ausland/us-wahlen-welche-stars-joe-biden-unterstuetzen-und-welche-donald-trump-a-43ebc7c8-5c45-4208-a178-a060225caf04#ref=rss)
-* [https://www.spiegel.de/ausland/tourismus-in-nordkorea-ich-will-nicht-mehr-dorthin-die-menschen-tun-mir-leid](https://www.spiegel.de/ausland/tourismus-in-nordkorea-ich-will-nicht-mehr-dorthin-die-menschen-tun-mir-leid-a-e24f3de2-7f63-434c-9d4f-7b3e6480014a#ref=rss)
-### rheinlandpfalz
+* [https://www.spiegel.de/panorama/seenotrettung-vor-hiddensee-interview-mit-dem-fuehrer-des-rettungsteams](https://www.spiegel.de/panorama/seenotrettung-vor-hiddensee-interview-mit-dem-fuehrer-des-rettungsteams-a-3f9e4d5a-3b21-4790-8662-b29634bfefef#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/hochschulabschluss-quote-bei-akademikerkindern-fuenfmal-so-hoch-wie-bei-kindern-von-gering-qualifizierten-eltern](https://www.spiegel.de/panorama/bildung/hochschulabschluss-quote-bei-akademikerkindern-fuenfmal-so-hoch-wie-bei-kindern-von-gering-qualifizierten-eltern-a-2abb8e5f-12d6-41fc-950b-b4dfc2c42f87#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/politik/deutschland/rheinland-pfalz-alexander-schweitzer-soll-neuer-ministerpraesident-werden-nachfolge-von-malu-dreyer-geklaert](https://www.spiegel.de/politik/deutschland/rheinland-pfalz-alexander-schweitzer-soll-neuer-ministerpraesident-werden-nachfolge-von-malu-dreyer-geklaert-a-0ce80580-6548-4aa5-8c24-6bd668c70138#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-malu-dreyers-ruecktritt-anklage-letzte-generation-schottische-fans](https://www.spiegel.de/politik/deutschland/news-des-tages-malu-dreyers-ruecktritt-anklage-letzte-generation-schottische-fans-a-4e59e25c-1bd3-4e06-97bf-d98576ae8e4d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/malu-dreyer-die-spd-hat-jetzt-ein-problem](https://www.spiegel.de/politik/deutschland/malu-dreyer-die-spd-hat-jetzt-ein-problem-a-8301573d-ee13-4fec-840e-a6369ab2eea9#ref=rss)
-### usa
+* [https://www.spiegel.de/panorama/seenotrettung-vor-hiddensee-interview-mit-dem-fuehrer-des-rettungsteams](https://www.spiegel.de/panorama/seenotrettung-vor-hiddensee-interview-mit-dem-fuehrer-des-rettungsteams-a-3f9e4d5a-3b21-4790-8662-b29634bfefef#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/berlin-freie-universitaet-will-pro-palaestinensisches-protestcamp-tolerieren](https://www.spiegel.de/panorama/bildung/berlin-freie-universitaet-will-pro-palaestinensisches-protestcamp-tolerieren-a-75751b48-0e3f-4483-b90e-9ccb224961c8#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/wissenschaft/mensch/geoforschung-usa-stellen-betrieb-des-bohrschiffs-joides-resolution-ein](https://www.spiegel.de/wissenschaft/mensch/geoforschung-usa-stellen-betrieb-des-bohrschiffs-joides-resolution-ein-a-a5668e0d-e824-4567-83c3-256ef76846e1#ref=rss)
-* [https://www.spiegel.de/kultur/musik/rema-mit-calm-down-erfolgreichster-afrobeats-song-schreibt-streaming-geschichte-in-den-usa](https://www.spiegel.de/kultur/musik/rema-mit-calm-down-erfolgreichster-afrobeats-song-schreibt-streaming-geschichte-in-den-usa-a-e1b4ab53-2317-48d3-aa40-be8a09a2636d#ref=rss)
-### nordkorea
+* [https://www.spiegel.de/wirtschaft/tennet-scheitert-mit-stromnetz-verkauf-an-deutschland](https://www.spiegel.de/wirtschaft/tennet-scheitert-mit-stromnetz-verkauf-an-deutschland-a-3d110dec-97fb-4798-a7ac-dae8a96d30df#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-umfrage-sieht-cdu-und-afd-eng-beieinander-bsw-holt-auf](https://www.spiegel.de/politik/deutschland/sachsen-umfrage-sieht-cdu-und-afd-eng-beieinander-bsw-holt-auf-a-9f6b3fc5-bd05-45c1-b4a7-7283411d52f7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bezahlkarte-vorschlag-der-ministerpraesidentenkonferenz-hoechstens-50-euro-in-bar-fuer-gefluechtete](https://www.spiegel.de/politik/deutschland/bezahlkarte-vorschlag-der-ministerpraesidentenkonferenz-hoechstens-50-euro-in-bar-fuer-gefluechtete-a-44fc4cc9-2db9-471a-ba23-aa56de3e85fc#ref=rss)
+### the
 
-* [https://www.spiegel.de/ausland/wladimir-putin-in-nordkorea-ein-russisches-luxusauto-fuer-kim-jong-un-und-schlechte-propagandabilder](https://www.spiegel.de/ausland/wladimir-putin-in-nordkorea-ein-russisches-luxusauto-fuer-kim-jong-un-und-schlechte-propagandabilder-a-8817947b-4719-4e55-8012-cdebcebd595a#ref=rss)
-* [https://www.spiegel.de/ausland/tourismus-in-nordkorea-ich-will-nicht-mehr-dorthin-die-menschen-tun-mir-leid](https://www.spiegel.de/ausland/tourismus-in-nordkorea-ich-will-nicht-mehr-dorthin-die-menschen-tun-mir-leid-a-e24f3de2-7f63-434c-9d4f-7b3e6480014a#ref=rss)
-### touristen
-
-* [https://www.spiegel.de/reise/griechenland-touristen-sterben-bei-wanderausfluegen-in-extremer-hitze](https://www.spiegel.de/reise/griechenland-touristen-sterben-bei-wanderausfluegen-in-extremer-hitze-a-9479a84c-7d7a-4504-80ff-7ebd32a1694f#ref=rss)
-* [https://www.spiegel.de/ausland/tourismus-in-nordkorea-ich-will-nicht-mehr-dorthin-die-menschen-tun-mir-leid](https://www.spiegel.de/ausland/tourismus-in-nordkorea-ich-will-nicht-mehr-dorthin-die-menschen-tun-mir-leid-a-e24f3de2-7f63-434c-9d4f-7b3e6480014a#ref=rss)
-### albanien
-
-* [https://www.spiegel.de/sport/fussball/em-2024-gewinnt-deutschland-gegen-ungarn-ist-das-achtelfinale-sicher](https://www.spiegel.de/sport/fussball/em-2024-gewinnt-deutschland-gegen-ungarn-ist-das-achtelfinale-sicher-a-ee32d527-43ea-441e-be5d-547266a38d89#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-albanien-rettet-unentschieden-trotz-slapstick-eigentor-gegen-kroatien](https://www.spiegel.de/sport/fussball/fussball-em-2024-albanien-rettet-unentschieden-trotz-slapstick-eigentor-gegen-kroatien-a-a25bb148-b33f-46eb-933e-28dab04f308a#ref=rss)
-### fußballem
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-albanien-rettet-unentschieden-trotz-slapstick-eigentor-gegen-kroatien](https://www.spiegel.de/sport/fussball/fussball-em-2024-albanien-rettet-unentschieden-trotz-slapstick-eigentor-gegen-kroatien-a-a25bb148-b33f-46eb-933e-28dab04f308a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-deutschland-gegen-ungarn-die-startaufstellung](https://www.spiegel.de/sport/fussball/fussball-em-2024-deutschland-gegen-ungarn-die-startaufstellung-a-cb4704e4-71f7-4158-8fc9-7a5bb7cad76e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-was-sie-ueber-deutschland-gegen-ungarn-wissen-sollten](https://www.spiegel.de/sport/fussball/fussball-em-2024-was-sie-ueber-deutschland-gegen-ungarn-wissen-sollten-a-67fb2996-f212-42cb-8f05-defe2cded8cb#ref=rss)
-### donald
-
-* [https://www.spiegel.de/wissenschaft/usa-virologe-anthony-fauci-beschreibt-beruehmte-pressekonferenz-mit-donald-trump-als-qualvoll](https://www.spiegel.de/wissenschaft/usa-virologe-anthony-fauci-beschreibt-beruehmte-pressekonferenz-mit-donald-trump-als-qualvoll-a-8dd82ff0-1c3d-4e8f-9c0e-75a8c39802cc#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahlen-welche-stars-joe-biden-unterstuetzen-und-welche-donald-trump](https://www.spiegel.de/ausland/us-wahlen-welche-stars-joe-biden-unterstuetzen-und-welche-donald-trump-a-43ebc7c8-5c45-4208-a178-a060225caf04#ref=rss)
-### tor
-
-* [https://www.spiegel.de/sport/fussball/em-2024-deutschland-schiesst-sich-gegen-ungarn-ins-achtelfinale](https://www.spiegel.de/sport/fussball/em-2024-deutschland-schiesst-sich-gegen-ungarn-ins-achtelfinale-a-59c32b67-8fdd-4479-9e8b-83dce675ba70#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-albanien-rettet-unentschieden-trotz-slapstick-eigentor-gegen-kroatien](https://www.spiegel.de/sport/fussball/fussball-em-2024-albanien-rettet-unentschieden-trotz-slapstick-eigentor-gegen-kroatien-a-a25bb148-b33f-46eb-933e-28dab04f308a#ref=rss)
-### spiel
-
-* [https://www.spiegel.de/sport/fussball/em-2024-deutschland-schiesst-sich-gegen-ungarn-ins-achtelfinale](https://www.spiegel.de/sport/fussball/em-2024-deutschland-schiesst-sich-gegen-ungarn-ins-achtelfinale-a-59c32b67-8fdd-4479-9e8b-83dce675ba70#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-albanien-rettet-unentschieden-trotz-slapstick-eigentor-gegen-kroatien](https://www.spiegel.de/sport/fussball/fussball-em-2024-albanien-rettet-unentschieden-trotz-slapstick-eigentor-gegen-kroatien-a-a25bb148-b33f-46eb-933e-28dab04f308a#ref=rss)
-### acht
-
-* [https://www.spiegel.de/wissenschaft/mensch/schlafen-deutschland-durchschnittlich-mehr-als-acht-stunden-am-tag-wirklich](https://www.spiegel.de/wissenschaft/mensch/schlafen-deutschland-durchschnittlich-mehr-als-acht-stunden-am-tag-wirklich-a-8a78e4be-13cb-4cfe-a9a6-eb82c18a21ed#ref=rss)
-### stunden
-
-* [https://www.spiegel.de/wissenschaft/mensch/schlafen-deutschland-durchschnittlich-mehr-als-acht-stunden-am-tag-wirklich](https://www.spiegel.de/wissenschaft/mensch/schlafen-deutschland-durchschnittlich-mehr-als-acht-stunden-am-tag-wirklich-a-8a78e4be-13cb-4cfe-a9a6-eb82c18a21ed#ref=rss)
-### laut
-
-* [https://www.spiegel.de/wissenschaft/mensch/schlafen-deutschland-durchschnittlich-mehr-als-acht-stunden-am-tag-wirklich](https://www.spiegel.de/wissenschaft/mensch/schlafen-deutschland-durchschnittlich-mehr-als-acht-stunden-am-tag-wirklich-a-8a78e4be-13cb-4cfe-a9a6-eb82c18a21ed#ref=rss)
-* [https://www.spiegel.de/auto/autonomes-fahren-us-studie-sieht-weniger-unfallgefahr-als-bei-menschlichen-fahrern](https://www.spiegel.de/auto/autonomes-fahren-us-studie-sieht-weniger-unfallgefahr-als-bei-menschlichen-fahrern-a-f9b71de2-3fa7-47d0-9bd1-a85fe645bcdd#ref=rss)
+* [https://www.spiegel.de/kultur/tv/the-bear-star-ebon-moss-bachrach-musste-song-zeilen-von-taylor-swift-lernen](https://www.spiegel.de/kultur/tv/the-bear-star-ebon-moss-bachrach-musste-song-zeilen-von-taylor-swift-lernen-a-d8d7b7ea-a234-45da-bd1b-cf226dc8d634#ref=rss)
+* [https://www.spiegel.de/kultur/musik/queen-musikkatalog-soll-fuer-eine-milliarde-pfund-an-sony-music-gehen](https://www.spiegel.de/kultur/musik/queen-musikkatalog-soll-fuer-eine-milliarde-pfund-an-sony-music-gehen-a-bcbf483c-9a31-4ae9-a879-08af7dfebb57#ref=rss)
 ### deutsche
 
-* [https://www.spiegel.de/wissenschaft/mensch/schlafen-deutschland-durchschnittlich-mehr-als-acht-stunden-am-tag-wirklich](https://www.spiegel.de/wissenschaft/mensch/schlafen-deutschland-durchschnittlich-mehr-als-acht-stunden-am-tag-wirklich-a-8a78e4be-13cb-4cfe-a9a6-eb82c18a21ed#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/salzgitter-33-jaehriger-soll-kinder-zu-sexuellen-handlungen-gezwungen-und-dabei-gefilmt-haben](https://www.spiegel.de/panorama/justiz/salzgitter-33-jaehriger-soll-kinder-zu-sexuellen-handlungen-gezwungen-und-dabei-gefilmt-haben-a-e1bba1be-56c4-40ee-9e88-8ca9de1b06f3#ref=rss)
-### blick
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-siemens-stoppt-auslieferung-von-ice-zuegen-wegen-baumaengeln](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-siemens-stoppt-auslieferung-von-ice-zuegen-wegen-baumaengeln-a-9d7d68d1-e5d6-4393-8de3-af2aa6718807#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-ifo-prognose-sieht-wachstum-von-0-4-prozent-fuer-die-deutsche-wirtschaft](https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-ifo-prognose-sieht-wachstum-von-0-4-prozent-fuer-die-deutsche-wirtschaft-a-47f4370c-e5c4-4ef5-a10d-9189676494b8#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-em-2024-deutsche-verteidiger-jonathan-tah-und-antonio-ruediger-etwa-doch-abwehrmonster](https://www.spiegel.de/sport/fussball/fussball-em-2024-deutsche-verteidiger-jonathan-tah-und-antonio-ruediger-etwa-doch-abwehrmonster-a-1cb6edfe-fda3-462d-a221-4ef71dc236c5#ref=rss)
+### verein
 
-* [https://www.spiegel.de/wissenschaft/mensch/schlafen-deutschland-durchschnittlich-mehr-als-acht-stunden-am-tag-wirklich](https://www.spiegel.de/wissenschaft/mensch/schlafen-deutschland-durchschnittlich-mehr-als-acht-stunden-am-tag-wirklich-a-8a78e4be-13cb-4cfe-a9a6-eb82c18a21ed#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/geoforschung-usa-stellen-betrieb-des-bohrschiffs-joides-resolution-ein](https://www.spiegel.de/wissenschaft/mensch/geoforschung-usa-stellen-betrieb-des-bohrschiffs-joides-resolution-ein-a-a5668e0d-e824-4567-83c3-256ef76846e1#ref=rss)
-### alexander
+* [https://www.spiegel.de/start/medizin-die-chirurginnen-ermutigt-junge-aerztinnen-die-chirurgie-als-fachgebiet-zu-waehlen](https://www.spiegel.de/start/medizin-die-chirurginnen-ermutigt-junge-aerztinnen-die-chirurgie-als-fachgebiet-zu-waehlen-a-c1fb3406-ef35-43ff-892d-c343b1f905f3#ref=rss)
+* [https://www.spiegel.de/start/frauen-in-der-chirurgie-wie-wird-die-maennerdomaene-aufgebrochen](https://www.spiegel.de/start/frauen-in-der-chirurgie-wie-wird-die-maennerdomaene-aufgebrochen-a-048d497c-8961-490c-97f7-ef5d0b2d2ca2#ref=rss)
+### chirurginnen
 
-* [https://www.spiegel.de/politik/deutschland/rheinland-pfalz-alexander-schweitzer-soll-neuer-ministerpraesident-werden-nachfolge-von-malu-dreyer-geklaert](https://www.spiegel.de/politik/deutschland/rheinland-pfalz-alexander-schweitzer-soll-neuer-ministerpraesident-werden-nachfolge-von-malu-dreyer-geklaert-a-0ce80580-6548-4aa5-8c24-6bd668c70138#ref=rss)
-### schweitzer
+* [https://www.spiegel.de/start/medizin-die-chirurginnen-ermutigt-junge-aerztinnen-die-chirurgie-als-fachgebiet-zu-waehlen](https://www.spiegel.de/start/medizin-die-chirurginnen-ermutigt-junge-aerztinnen-die-chirurgie-als-fachgebiet-zu-waehlen-a-c1fb3406-ef35-43ff-892d-c343b1f905f3#ref=rss)
+* [https://www.spiegel.de/start/frauen-in-der-chirurgie-wie-wird-die-maennerdomaene-aufgebrochen](https://www.spiegel.de/start/frauen-in-der-chirurgie-wie-wird-die-maennerdomaene-aufgebrochen-a-048d497c-8961-490c-97f7-ef5d0b2d2ca2#ref=rss)
+### 2023
 
-* [https://www.spiegel.de/politik/deutschland/rheinland-pfalz-alexander-schweitzer-soll-neuer-ministerpraesident-werden-nachfolge-von-malu-dreyer-geklaert](https://www.spiegel.de/politik/deutschland/rheinland-pfalz-alexander-schweitzer-soll-neuer-ministerpraesident-werden-nachfolge-von-malu-dreyer-geklaert-a-0ce80580-6548-4aa5-8c24-6bd668c70138#ref=rss)
-### justin
+* [https://www.spiegel.de/wirtschaft/soziales/streikbilanz-zahl-der-arbeitskaempfe-und-ausfalltage-2023-deutlich-gestiegen](https://www.spiegel.de/wirtschaft/soziales/streikbilanz-zahl-der-arbeitskaempfe-und-ausfalltage-2023-deutlich-gestiegen-a-491e696c-13bf-401d-bcf3-e239782de595#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimawandel-fossile-energien-erreichen-laut-bericht-2023-rekordhoch](https://www.spiegel.de/wissenschaft/klimawandel-fossile-energien-erreichen-laut-bericht-2023-rekordhoch-a-bba88fe5-36ca-4382-9dff-ba830f18acef#ref=rss)
+### neue
 
-* [https://www.spiegel.de/kultur/justin-timberlake-ist-das-noch-ein-polizeifoto-oder-schon-grosse-kunst](https://www.spiegel.de/kultur/justin-timberlake-ist-das-noch-ein-polizeifoto-oder-schon-grosse-kunst-a-2917b78f-0095-4724-890f-014ea040c3a8#ref=rss)
-### timberlake
+* [https://www.spiegel.de/gesundheit/rueckenschmerzen-neue-studie-belegt-wirksamkeit-von-spaziergaengen](https://www.spiegel.de/gesundheit/rueckenschmerzen-neue-studie-belegt-wirksamkeit-von-spaziergaengen-a-e01d58b0-4004-418a-a2b2-b72e88fd7eaa#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/elektroautos-neuzulassungen-in-deutschland-brechen-ein-frankreich-legt-zu](https://www.spiegel.de/wirtschaft/unternehmen/elektroautos-neuzulassungen-in-deutschland-brechen-ein-frankreich-legt-zu-a-8630433e-d071-4113-a2b7-912213bf6c2c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-ifo-prognose-sieht-wachstum-von-0-4-prozent-fuer-die-deutsche-wirtschaft](https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-ifo-prognose-sieht-wachstum-von-0-4-prozent-fuer-die-deutsche-wirtschaft-a-47f4370c-e5c4-4ef5-a10d-9189676494b8#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/kultur/justin-timberlake-ist-das-noch-ein-polizeifoto-oder-schon-grosse-kunst](https://www.spiegel.de/kultur/justin-timberlake-ist-das-noch-ein-polizeifoto-oder-schon-grosse-kunst-a-2917b78f-0095-4724-890f-014ea040c3a8#ref=rss)
-### zeigt
+* [https://www.spiegel.de/gesundheit/rueckenschmerzen-neue-studie-belegt-wirksamkeit-von-spaziergaengen](https://www.spiegel.de/gesundheit/rueckenschmerzen-neue-studie-belegt-wirksamkeit-von-spaziergaengen-a-e01d58b0-4004-418a-a2b2-b72e88fd7eaa#ref=rss)
+* [https://www.spiegel.de/kultur/musik/queen-musikkatalog-soll-fuer-eine-milliarde-pfund-an-sony-music-gehen](https://www.spiegel.de/kultur/musik/queen-musikkatalog-soll-fuer-eine-milliarde-pfund-an-sony-music-gehen-a-bcbf483c-9a31-4ae9-a879-08af7dfebb57#ref=rss)
+* [https://www.spiegel.de/panorama/leute/jon-hamm-kinderwunsch-von-mad-men-star-ich-werde-der-alte-dad-sein](https://www.spiegel.de/panorama/leute/jon-hamm-kinderwunsch-von-mad-men-star-ich-werde-der-alte-dad-sein-a-95127741-ce41-4e7e-9b33-d05c76ad5134#ref=rss)
+### deutschlands
 
-* [https://www.spiegel.de/kultur/justin-timberlake-ist-das-noch-ein-polizeifoto-oder-schon-grosse-kunst](https://www.spiegel.de/kultur/justin-timberlake-ist-das-noch-ein-polizeifoto-oder-schon-grosse-kunst-a-2917b78f-0095-4724-890f-014ea040c3a8#ref=rss)
-### prominente
+* [https://www.spiegel.de/wirtschaft/unternehmen/chinesischer-autokonzern-byd-als-sponsor-der-em-wie-spricht-man-das-aus-buett](https://www.spiegel.de/wirtschaft/unternehmen/chinesischer-autokonzern-byd-als-sponsor-der-em-wie-spricht-man-das-aus-buett-a-6ed32aab-4495-4aee-9cdc-c8ef7097ad57#ref=rss)
+* [https://www.spiegel.de/sport/fussball/em-2024-ungarn-trainer-marco-rossi-nach-0-2-gegen-deutschland-wuetend-auf-schiedsrichter](https://www.spiegel.de/sport/fussball/em-2024-ungarn-trainer-marco-rossi-nach-0-2-gegen-deutschland-wuetend-auf-schiedsrichter-a-4736f0c8-b776-4d9c-8836-89912abcc3a2#ref=rss)
+* [https://www.spiegel.de/kultur/kunst-historikerin-ueber-visa-wahnsinn-deutschland-auf-unbestimmte-zeit-geschlossen](https://www.spiegel.de/kultur/kunst-historikerin-ueber-visa-wahnsinn-deutschland-auf-unbestimmte-zeit-geschlossen-a-4c7f5558-8946-4cab-9c54-c5730ddb92a2#ref=rss)
+### seenotrettung
 
-* [https://www.spiegel.de/kultur/justin-timberlake-ist-das-noch-ein-polizeifoto-oder-schon-grosse-kunst](https://www.spiegel.de/kultur/justin-timberlake-ist-das-noch-ein-polizeifoto-oder-schon-grosse-kunst-a-2917b78f-0095-4724-890f-014ea040c3a8#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahlen-welche-stars-joe-biden-unterstuetzen-und-welche-donald-trump](https://www.spiegel.de/ausland/us-wahlen-welche-stars-joe-biden-unterstuetzen-und-welche-donald-trump-a-43ebc7c8-5c45-4208-a178-a060225caf04#ref=rss)
-### menschen
+* [https://www.spiegel.de/panorama/seenotrettung-vor-hiddensee-interview-mit-dem-fuehrer-des-rettungsteams](https://www.spiegel.de/panorama/seenotrettung-vor-hiddensee-interview-mit-dem-fuehrer-des-rettungsteams-a-3f9e4d5a-3b21-4790-8662-b29634bfefef#ref=rss)
+### tennet
 
-* [https://www.spiegel.de/kultur/justin-timberlake-ist-das-noch-ein-polizeifoto-oder-schon-grosse-kunst](https://www.spiegel.de/kultur/justin-timberlake-ist-das-noch-ein-polizeifoto-oder-schon-grosse-kunst-a-2917b78f-0095-4724-890f-014ea040c3a8#ref=rss)
-* [https://www.spiegel.de/auto/autonomes-fahren-us-studie-sieht-weniger-unfallgefahr-als-bei-menschlichen-fahrern](https://www.spiegel.de/auto/autonomes-fahren-us-studie-sieht-weniger-unfallgefahr-als-bei-menschlichen-fahrern-a-f9b71de2-3fa7-47d0-9bd1-a85fe645bcdd#ref=rss)
-### anschlag
+* [https://www.spiegel.de/wirtschaft/tennet-scheitert-mit-stromnetz-verkauf-an-deutschland](https://www.spiegel.de/wirtschaft/tennet-scheitert-mit-stromnetz-verkauf-an-deutschland-a-3d110dec-97fb-4798-a7ac-dae8a96d30df#ref=rss)
+### ebon
 
-* [https://www.spiegel.de/panorama/justiz/niederlande-hauptverdaechtiger-nach-anschlag-auf-spanischen-politiker-gefasst](https://www.spiegel.de/panorama/justiz/niederlande-hauptverdaechtiger-nach-anschlag-auf-spanischen-politiker-gefasst-a-34f47c7d-39db-4175-824f-3f2a33d2516d#ref=rss)
-### festgenommen
+* [https://www.spiegel.de/kultur/tv/the-bear-star-ebon-moss-bachrach-musste-song-zeilen-von-taylor-swift-lernen](https://www.spiegel.de/kultur/tv/the-bear-star-ebon-moss-bachrach-musste-song-zeilen-von-taylor-swift-lernen-a-d8d7b7ea-a234-45da-bd1b-cf226dc8d634#ref=rss)
+### mossbachrach
 
-* [https://www.spiegel.de/panorama/justiz/niederlande-hauptverdaechtiger-nach-anschlag-auf-spanischen-politiker-gefasst](https://www.spiegel.de/panorama/justiz/niederlande-hauptverdaechtiger-nach-anschlag-auf-spanischen-politiker-gefasst-a-34f47c7d-39db-4175-824f-3f2a33d2516d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/salzgitter-33-jaehriger-soll-kinder-zu-sexuellen-handlungen-gezwungen-und-dabei-gefilmt-haben](https://www.spiegel.de/panorama/justiz/salzgitter-33-jaehriger-soll-kinder-zu-sexuellen-handlungen-gezwungen-und-dabei-gefilmt-haben-a-e1bba1be-56c4-40ee-9e88-8ca9de1b06f3#ref=rss)
-### joides
+* [https://www.spiegel.de/kultur/tv/the-bear-star-ebon-moss-bachrach-musste-song-zeilen-von-taylor-swift-lernen](https://www.spiegel.de/kultur/tv/the-bear-star-ebon-moss-bachrach-musste-song-zeilen-von-taylor-swift-lernen-a-d8d7b7ea-a234-45da-bd1b-cf226dc8d634#ref=rss)
+### taylor
 
-* [https://www.spiegel.de/wissenschaft/mensch/geoforschung-usa-stellen-betrieb-des-bohrschiffs-joides-resolution-ein](https://www.spiegel.de/wissenschaft/mensch/geoforschung-usa-stellen-betrieb-des-bohrschiffs-joides-resolution-ein-a-a5668e0d-e824-4567-83c3-256ef76846e1#ref=rss)
-### resolution
+* [https://www.spiegel.de/kultur/tv/the-bear-star-ebon-moss-bachrach-musste-song-zeilen-von-taylor-swift-lernen](https://www.spiegel.de/kultur/tv/the-bear-star-ebon-moss-bachrach-musste-song-zeilen-von-taylor-swift-lernen-a-d8d7b7ea-a234-45da-bd1b-cf226dc8d634#ref=rss)
+### swift
 
-* [https://www.spiegel.de/wissenschaft/mensch/geoforschung-usa-stellen-betrieb-des-bohrschiffs-joides-resolution-ein](https://www.spiegel.de/wissenschaft/mensch/geoforschung-usa-stellen-betrieb-des-bohrschiffs-joides-resolution-ein-a-a5668e0d-e824-4567-83c3-256ef76846e1#ref=rss)
-### lang
+* [https://www.spiegel.de/kultur/tv/the-bear-star-ebon-moss-bachrach-musste-song-zeilen-von-taylor-swift-lernen](https://www.spiegel.de/kultur/tv/the-bear-star-ebon-moss-bachrach-musste-song-zeilen-von-taylor-swift-lernen-a-d8d7b7ea-a234-45da-bd1b-cf226dc8d634#ref=rss)
+### rolle
 
-* [https://www.spiegel.de/wissenschaft/mensch/geoforschung-usa-stellen-betrieb-des-bohrschiffs-joides-resolution-ein](https://www.spiegel.de/wissenschaft/mensch/geoforschung-usa-stellen-betrieb-des-bohrschiffs-joides-resolution-ein-a-a5668e0d-e824-4567-83c3-256ef76846e1#ref=rss)
-* [https://www.spiegel.de/kultur/musik/rema-mit-calm-down-erfolgreichster-afrobeats-song-schreibt-streaming-geschichte-in-den-usa](https://www.spiegel.de/kultur/musik/rema-mit-calm-down-erfolgreichster-afrobeats-song-schreibt-streaming-geschichte-in-den-usa-a-e1b4ab53-2317-48d3-aa40-be8a09a2636d#ref=rss)
-### vergangene
+* [https://www.spiegel.de/kultur/tv/the-bear-star-ebon-moss-bachrach-musste-song-zeilen-von-taylor-swift-lernen](https://www.spiegel.de/kultur/tv/the-bear-star-ebon-moss-bachrach-musste-song-zeilen-von-taylor-swift-lernen-a-d8d7b7ea-a234-45da-bd1b-cf226dc8d634#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/hochschulabschluss-quote-bei-akademikerkindern-fuenfmal-so-hoch-wie-bei-kindern-von-gering-qualifizierten-eltern](https://www.spiegel.de/panorama/bildung/hochschulabschluss-quote-bei-akademikerkindern-fuenfmal-so-hoch-wie-bei-kindern-von-gering-qualifizierten-eltern-a-2abb8e5f-12d6-41fc-950b-b4dfc2c42f87#ref=rss)
+### merz
 
-* [https://www.spiegel.de/wissenschaft/mensch/geoforschung-usa-stellen-betrieb-des-bohrschiffs-joides-resolution-ein](https://www.spiegel.de/wissenschaft/mensch/geoforschung-usa-stellen-betrieb-des-bohrschiffs-joides-resolution-ein-a-a5668e0d-e824-4567-83c3-256ef76846e1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-was-sie-ueber-deutschland-gegen-ungarn-wissen-sollten](https://www.spiegel.de/sport/fussball/fussball-em-2024-was-sie-ueber-deutschland-gegen-ungarn-wissen-sollten-a-67fb2996-f212-42cb-8f05-defe2cded8cb#ref=rss)
-### klaren
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-attestiert-olaf-scholz-untaetigkeit-in-der-asylpolitik](https://www.spiegel.de/politik/deutschland/friedrich-merz-attestiert-olaf-scholz-untaetigkeit-in-der-asylpolitik-a-1146c554-f3db-405d-a5b6-8c5c2bf7ef7e#ref=rss)
+### scholz
 
-* [https://www.spiegel.de/wissenschaft/mensch/geoforschung-usa-stellen-betrieb-des-bohrschiffs-joides-resolution-ein](https://www.spiegel.de/wissenschaft/mensch/geoforschung-usa-stellen-betrieb-des-bohrschiffs-joides-resolution-ein-a-a5668e0d-e824-4567-83c3-256ef76846e1#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahlen-welche-stars-joe-biden-unterstuetzen-und-welche-donald-trump](https://www.spiegel.de/ausland/us-wahlen-welche-stars-joe-biden-unterstuetzen-und-welche-donald-trump-a-43ebc7c8-5c45-4208-a178-a060225caf04#ref=rss)
-### außer
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-attestiert-olaf-scholz-untaetigkeit-in-der-asylpolitik](https://www.spiegel.de/politik/deutschland/friedrich-merz-attestiert-olaf-scholz-untaetigkeit-in-der-asylpolitik-a-1146c554-f3db-405d-a5b6-8c5c2bf7ef7e#ref=rss)
+### bahn
 
-* [https://www.spiegel.de/wissenschaft/mensch/geoforschung-usa-stellen-betrieb-des-bohrschiffs-joides-resolution-ein](https://www.spiegel.de/wissenschaft/mensch/geoforschung-usa-stellen-betrieb-des-bohrschiffs-joides-resolution-ein-a-a5668e0d-e824-4567-83c3-256ef76846e1#ref=rss)
-* [https://www.spiegel.de/ausland/tourismus-in-nordkorea-ich-will-nicht-mehr-dorthin-die-menschen-tun-mir-leid](https://www.spiegel.de/ausland/tourismus-in-nordkorea-ich-will-nicht-mehr-dorthin-die-menschen-tun-mir-leid-a-e24f3de2-7f63-434c-9d4f-7b3e6480014a#ref=rss)
-### zwei
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-siemens-stoppt-auslieferung-von-ice-zuegen-wegen-baumaengeln](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-siemens-stoppt-auslieferung-von-ice-zuegen-wegen-baumaengeln-a-9d7d68d1-e5d6-4393-8de3-af2aa6718807#ref=rss)
+### siemens
 
-* [https://www.spiegel.de/panorama/justiz/reichsbuerger-so-lief-tag-zwei-im-dritten-reichsbuerger-prozess](https://www.spiegel.de/panorama/justiz/reichsbuerger-so-lief-tag-zwei-im-dritten-reichsbuerger-prozess-a-60bc7c54-0223-455c-917a-6900d17ff7d0#ref=rss)
-* [https://www.spiegel.de/ausland/wladimir-putin-in-nordkorea-ein-russisches-luxusauto-fuer-kim-jong-un-und-schlechte-propagandabilder](https://www.spiegel.de/ausland/wladimir-putin-in-nordkorea-ein-russisches-luxusauto-fuer-kim-jong-un-und-schlechte-propagandabilder-a-8817947b-4719-4e55-8012-cdebcebd595a#ref=rss)
-### stonehenge
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-siemens-stoppt-auslieferung-von-ice-zuegen-wegen-baumaengeln](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-siemens-stoppt-auslieferung-von-ice-zuegen-wegen-baumaengeln-a-9d7d68d1-e5d6-4393-8de3-af2aa6718807#ref=rss)
+### wohl
 
-* [https://www.spiegel.de/panorama/stonehenge-klimaaktivisten-spruehen-orangefarbene-substanz-auf-weltkulturerbe-in-grossbritannien](https://www.spiegel.de/panorama/stonehenge-klimaaktivisten-spruehen-orangefarbene-substanz-auf-weltkulturerbe-in-grossbritannien-a-3a045a53-9200-4cef-a070-6e835aa70492#ref=rss)
-### weltkulturerbe
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-siemens-stoppt-auslieferung-von-ice-zuegen-wegen-baumaengeln](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-siemens-stoppt-auslieferung-von-ice-zuegen-wegen-baumaengeln-a-9d7d68d1-e5d6-4393-8de3-af2aa6718807#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/openai-mitgruender-will-sichere-superintelligenz-entwickeln](https://www.spiegel.de/netzwelt/web/openai-mitgruender-will-sichere-superintelligenz-entwickeln-a-591171e5-1b38-4e06-8a79-c8ea9c97b4c8#ref=rss)
+### eigenen
 
-* [https://www.spiegel.de/panorama/stonehenge-klimaaktivisten-spruehen-orangefarbene-substanz-auf-weltkulturerbe-in-grossbritannien](https://www.spiegel.de/panorama/stonehenge-klimaaktivisten-spruehen-orangefarbene-substanz-auf-weltkulturerbe-in-grossbritannien-a-3a045a53-9200-4cef-a070-6e835aa70492#ref=rss)
-### luxusauto
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-siemens-stoppt-auslieferung-von-ice-zuegen-wegen-baumaengeln](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-siemens-stoppt-auslieferung-von-ice-zuegen-wegen-baumaengeln-a-9d7d68d1-e5d6-4393-8de3-af2aa6718807#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/openai-mitgruender-will-sichere-superintelligenz-entwickeln](https://www.spiegel.de/netzwelt/web/openai-mitgruender-will-sichere-superintelligenz-entwickeln-a-591171e5-1b38-4e06-8a79-c8ea9c97b4c8#ref=rss)
+### junge
 
-* [https://www.spiegel.de/ausland/wladimir-putin-in-nordkorea-ein-russisches-luxusauto-fuer-kim-jong-un-und-schlechte-propagandabilder](https://www.spiegel.de/ausland/wladimir-putin-in-nordkorea-ein-russisches-luxusauto-fuer-kim-jong-un-und-schlechte-propagandabilder-a-8817947b-4719-4e55-8012-cdebcebd595a#ref=rss)
-### schlechte
+* [https://www.spiegel.de/start/medizin-die-chirurginnen-ermutigt-junge-aerztinnen-die-chirurgie-als-fachgebiet-zu-waehlen](https://www.spiegel.de/start/medizin-die-chirurginnen-ermutigt-junge-aerztinnen-die-chirurgie-als-fachgebiet-zu-waehlen-a-c1fb3406-ef35-43ff-892d-c343b1f905f3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-umfrage-sieht-cdu-und-afd-eng-beieinander-bsw-holt-auf](https://www.spiegel.de/politik/deutschland/sachsen-umfrage-sieht-cdu-und-afd-eng-beieinander-bsw-holt-auf-a-9f6b3fc5-bd05-45c1-b4a7-7283411d52f7#ref=rss)
+### chirurgie
 
-* [https://www.spiegel.de/ausland/wladimir-putin-in-nordkorea-ein-russisches-luxusauto-fuer-kim-jong-un-und-schlechte-propagandabilder](https://www.spiegel.de/ausland/wladimir-putin-in-nordkorea-ein-russisches-luxusauto-fuer-kim-jong-un-und-schlechte-propagandabilder-a-8817947b-4719-4e55-8012-cdebcebd595a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/malu-dreyer-die-spd-hat-jetzt-ein-problem](https://www.spiegel.de/politik/deutschland/malu-dreyer-die-spd-hat-jetzt-ein-problem-a-8301573d-ee13-4fec-840e-a6369ab2eea9#ref=rss)
-### pressekonferenz
+* [https://www.spiegel.de/start/medizin-die-chirurginnen-ermutigt-junge-aerztinnen-die-chirurgie-als-fachgebiet-zu-waehlen](https://www.spiegel.de/start/medizin-die-chirurginnen-ermutigt-junge-aerztinnen-die-chirurgie-als-fachgebiet-zu-waehlen-a-c1fb3406-ef35-43ff-892d-c343b1f905f3#ref=rss)
+* [https://www.spiegel.de/start/frauen-in-der-chirurgie-wie-wird-die-maennerdomaene-aufgebrochen](https://www.spiegel.de/start/frauen-in-der-chirurgie-wie-wird-die-maennerdomaene-aufgebrochen-a-048d497c-8961-490c-97f7-ef5d0b2d2ca2#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/ausland/wladimir-putin-in-nordkorea-ein-russisches-luxusauto-fuer-kim-jong-un-und-schlechte-propagandabilder](https://www.spiegel.de/ausland/wladimir-putin-in-nordkorea-ein-russisches-luxusauto-fuer-kim-jong-un-und-schlechte-propagandabilder-a-8817947b-4719-4e55-8012-cdebcebd595a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/usa-virologe-anthony-fauci-beschreibt-beruehmte-pressekonferenz-mit-donald-trump-als-qualvoll](https://www.spiegel.de/wissenschaft/usa-virologe-anthony-fauci-beschreibt-beruehmte-pressekonferenz-mit-donald-trump-als-qualvoll-a-8dd82ff0-1c3d-4e8f-9c0e-75a8c39802cc#ref=rss)
-### davon
+* [https://www.spiegel.de/start/medizin-die-chirurginnen-ermutigt-junge-aerztinnen-die-chirurgie-als-fachgebiet-zu-waehlen](https://www.spiegel.de/start/medizin-die-chirurginnen-ermutigt-junge-aerztinnen-die-chirurgie-als-fachgebiet-zu-waehlen-a-c1fb3406-ef35-43ff-892d-c343b1f905f3#ref=rss)
+* [https://www.spiegel.de/start/frauen-in-der-chirurgie-wie-wird-die-maennerdomaene-aufgebrochen](https://www.spiegel.de/start/frauen-in-der-chirurgie-wie-wird-die-maennerdomaene-aufgebrochen-a-048d497c-8961-490c-97f7-ef5d0b2d2ca2#ref=rss)
+### deutlich
 
-* [https://www.spiegel.de/ausland/wladimir-putin-in-nordkorea-ein-russisches-luxusauto-fuer-kim-jong-un-und-schlechte-propagandabilder](https://www.spiegel.de/ausland/wladimir-putin-in-nordkorea-ein-russisches-luxusauto-fuer-kim-jong-un-und-schlechte-propagandabilder-a-8817947b-4719-4e55-8012-cdebcebd595a#ref=rss)
-* [https://www.spiegel.de/reise/griechenland-touristen-sterben-bei-wanderausfluegen-in-extremer-hitze](https://www.spiegel.de/reise/griechenland-touristen-sterben-bei-wanderausfluegen-in-extremer-hitze-a-9479a84c-7d7a-4504-80ff-7ebd32a1694f#ref=rss)
-### einige
+* [https://www.spiegel.de/wirtschaft/soziales/streikbilanz-zahl-der-arbeitskaempfe-und-ausfalltage-2023-deutlich-gestiegen](https://www.spiegel.de/wirtschaft/soziales/streikbilanz-zahl-der-arbeitskaempfe-und-ausfalltage-2023-deutlich-gestiegen-a-491e696c-13bf-401d-bcf3-e239782de595#ref=rss)
+* [https://www.spiegel.de/gesundheit/rueckenschmerzen-neue-studie-belegt-wirksamkeit-von-spaziergaengen](https://www.spiegel.de/gesundheit/rueckenschmerzen-neue-studie-belegt-wirksamkeit-von-spaziergaengen-a-e01d58b0-4004-418a-a2b2-b72e88fd7eaa#ref=rss)
+### gestiegen
 
-* [https://www.spiegel.de/reise/griechenland-touristen-sterben-bei-wanderausfluegen-in-extremer-hitze](https://www.spiegel.de/reise/griechenland-touristen-sterben-bei-wanderausfluegen-in-extremer-hitze-a-9479a84c-7d7a-4504-80ff-7ebd32a1694f#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahlen-welche-stars-joe-biden-unterstuetzen-und-welche-donald-trump](https://www.spiegel.de/ausland/us-wahlen-welche-stars-joe-biden-unterstuetzen-und-welche-donald-trump-a-43ebc7c8-5c45-4208-a178-a060225caf04#ref=rss)
-### saudiarabien
+* [https://www.spiegel.de/wirtschaft/soziales/streikbilanz-zahl-der-arbeitskaempfe-und-ausfalltage-2023-deutlich-gestiegen](https://www.spiegel.de/wirtschaft/soziales/streikbilanz-zahl-der-arbeitskaempfe-und-ausfalltage-2023-deutlich-gestiegen-a-491e696c-13bf-401d-bcf3-e239782de595#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimawandel-fossile-energien-erreichen-laut-bericht-2023-rekordhoch](https://www.spiegel.de/wissenschaft/klimawandel-fossile-energien-erreichen-laut-bericht-2023-rekordhoch-a-bba88fe5-36ca-4382-9dff-ba830f18acef#ref=rss)
+### dürfte
 
-* [https://www.spiegel.de/panorama/saudi-arabien-zahl-der-hitzetoten-bei-muslimischer-wallfahrt-in-mekka-steigt](https://www.spiegel.de/panorama/saudi-arabien-zahl-der-hitzetoten-bei-muslimischer-wallfahrt-in-mekka-steigt-a-1c008f4f-9291-40c8-a633-a00583b8c509#ref=rss)
-### zahl
+* [https://www.spiegel.de/wirtschaft/soziales/streikbilanz-zahl-der-arbeitskaempfe-und-ausfalltage-2023-deutlich-gestiegen](https://www.spiegel.de/wirtschaft/soziales/streikbilanz-zahl-der-arbeitskaempfe-und-ausfalltage-2023-deutlich-gestiegen-a-491e696c-13bf-401d-bcf3-e239782de595#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-ifo-prognose-sieht-wachstum-von-0-4-prozent-fuer-die-deutsche-wirtschaft](https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-ifo-prognose-sieht-wachstum-von-0-4-prozent-fuer-die-deutsche-wirtschaft-a-47f4370c-e5c4-4ef5-a10d-9189676494b8#ref=rss)
+### sponsor
 
-* [https://www.spiegel.de/panorama/saudi-arabien-zahl-der-hitzetoten-bei-muslimischer-wallfahrt-in-mekka-steigt](https://www.spiegel.de/panorama/saudi-arabien-zahl-der-hitzetoten-bei-muslimischer-wallfahrt-in-mekka-steigt-a-1c008f4f-9291-40c8-a633-a00583b8c509#ref=rss)
-### mekka
+* [https://www.spiegel.de/wirtschaft/unternehmen/chinesischer-autokonzern-byd-als-sponsor-der-em-wie-spricht-man-das-aus-buett](https://www.spiegel.de/wirtschaft/unternehmen/chinesischer-autokonzern-byd-als-sponsor-der-em-wie-spricht-man-das-aus-buett-a-6ed32aab-4495-4aee-9cdc-c8ef7097ad57#ref=rss)
+### fußballem
 
-* [https://www.spiegel.de/panorama/saudi-arabien-zahl-der-hitzetoten-bei-muslimischer-wallfahrt-in-mekka-steigt](https://www.spiegel.de/panorama/saudi-arabien-zahl-der-hitzetoten-bei-muslimischer-wallfahrt-in-mekka-steigt-a-1c008f4f-9291-40c8-a633-a00583b8c509#ref=rss)
-### steigt
+* [https://www.spiegel.de/wirtschaft/unternehmen/chinesischer-autokonzern-byd-als-sponsor-der-em-wie-spricht-man-das-aus-buett](https://www.spiegel.de/wirtschaft/unternehmen/chinesischer-autokonzern-byd-als-sponsor-der-em-wie-spricht-man-das-aus-buett-a-6ed32aab-4495-4aee-9cdc-c8ef7097ad57#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-em-2024-deutsche-verteidiger-jonathan-tah-und-antonio-ruediger-etwa-doch-abwehrmonster](https://www.spiegel.de/sport/fussball/fussball-em-2024-deutsche-verteidiger-jonathan-tah-und-antonio-ruediger-etwa-doch-abwehrmonster-a-1cb6edfe-fda3-462d-a221-4ef71dc236c5#ref=rss)
+### neuzulassungen
 
-* [https://www.spiegel.de/panorama/saudi-arabien-zahl-der-hitzetoten-bei-muslimischer-wallfahrt-in-mekka-steigt](https://www.spiegel.de/panorama/saudi-arabien-zahl-der-hitzetoten-bei-muslimischer-wallfahrt-in-mekka-steigt-a-1c008f4f-9291-40c8-a633-a00583b8c509#ref=rss)
-### dutzende
+* [https://www.spiegel.de/wirtschaft/unternehmen/elektroautos-neuzulassungen-in-deutschland-brechen-ein-frankreich-legt-zu](https://www.spiegel.de/wirtschaft/unternehmen/elektroautos-neuzulassungen-in-deutschland-brechen-ein-frankreich-legt-zu-a-8630433e-d071-4113-a2b7-912213bf6c2c#ref=rss)
+### frankreich
 
-* [https://www.spiegel.de/panorama/saudi-arabien-zahl-der-hitzetoten-bei-muslimischer-wallfahrt-in-mekka-steigt](https://www.spiegel.de/panorama/saudi-arabien-zahl-der-hitzetoten-bei-muslimischer-wallfahrt-in-mekka-steigt-a-1c008f4f-9291-40c8-a633-a00583b8c509#ref=rss)
-* [https://www.spiegel.de/wissenschaft/archaeologen-stossen-auf-jahrhundertealte-flaschen-mit-kirschen-unter-anwesen-von-george-washington](https://www.spiegel.de/wissenschaft/archaeologen-stossen-auf-jahrhundertealte-flaschen-mit-kirschen-unter-anwesen-von-george-washington-a-864a43d2-bb13-4f60-ab09-495f23f735c3#ref=rss)
-### behörden
+* [https://www.spiegel.de/wirtschaft/unternehmen/elektroautos-neuzulassungen-in-deutschland-brechen-ein-frankreich-legt-zu](https://www.spiegel.de/wirtschaft/unternehmen/elektroautos-neuzulassungen-in-deutschland-brechen-ein-frankreich-legt-zu-a-8630433e-d071-4113-a2b7-912213bf6c2c#ref=rss)
+### kommen
 
-* [https://www.spiegel.de/panorama/saudi-arabien-zahl-der-hitzetoten-bei-muslimischer-wallfahrt-in-mekka-steigt](https://www.spiegel.de/panorama/saudi-arabien-zahl-der-hitzetoten-bei-muslimischer-wallfahrt-in-mekka-steigt-a-1c008f4f-9291-40c8-a633-a00583b8c509#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/salzgitter-33-jaehriger-soll-kinder-zu-sexuellen-handlungen-gezwungen-und-dabei-gefilmt-haben](https://www.spiegel.de/panorama/justiz/salzgitter-33-jaehriger-soll-kinder-zu-sexuellen-handlungen-gezwungen-und-dabei-gefilmt-haben-a-e1bba1be-56c4-40ee-9e88-8ca9de1b06f3#ref=rss)
-### mel
+* [https://www.spiegel.de/wirtschaft/unternehmen/elektroautos-neuzulassungen-in-deutschland-brechen-ein-frankreich-legt-zu](https://www.spiegel.de/wirtschaft/unternehmen/elektroautos-neuzulassungen-in-deutschland-brechen-ein-frankreich-legt-zu-a-8630433e-d071-4113-a2b7-912213bf6c2c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/em-2024-albanien-georgien-und-die-slowakei-begeistern-deshalb-lieben-alle-den-fussball](https://www.spiegel.de/sport/fussball/em-2024-albanien-georgien-und-die-slowakei-begeistern-deshalb-lieben-alle-den-fussball-a-7b48f615-a9dd-4c75-9d94-4afb9ca5c4d0#ref=rss)
+### queen
 
-* [https://www.spiegel.de/kultur/kino/star-wars-parodie-mel-brooks-arbeitet-an-spaceballs-fortsetzung](https://www.spiegel.de/kultur/kino/star-wars-parodie-mel-brooks-arbeitet-an-spaceballs-fortsetzung-a-5af40576-e0c7-4fed-ae72-7ca8bd9fcd97#ref=rss)
-### zurück
+* [https://www.spiegel.de/kultur/musik/queen-musikkatalog-soll-fuer-eine-milliarde-pfund-an-sony-music-gehen](https://www.spiegel.de/kultur/musik/queen-musikkatalog-soll-fuer-eine-milliarde-pfund-an-sony-music-gehen-a-bcbf483c-9a31-4ae9-a879-08af7dfebb57#ref=rss)
+### milliarde
 
-* [https://www.spiegel.de/kultur/kino/star-wars-parodie-mel-brooks-arbeitet-an-spaceballs-fortsetzung](https://www.spiegel.de/kultur/kino/star-wars-parodie-mel-brooks-arbeitet-an-spaceballs-fortsetzung-a-5af40576-e0c7-4fed-ae72-7ca8bd9fcd97#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-malu-dreyers-ruecktritt-anklage-letzte-generation-schottische-fans](https://www.spiegel.de/politik/deutschland/news-des-tages-malu-dreyers-ruecktritt-anklage-letzte-generation-schottische-fans-a-4e59e25c-1bd3-4e06-97bf-d98576ae8e4d#ref=rss)
-### klaus
+* [https://www.spiegel.de/kultur/musik/queen-musikkatalog-soll-fuer-eine-milliarde-pfund-an-sony-music-gehen](https://www.spiegel.de/kultur/musik/queen-musikkatalog-soll-fuer-eine-milliarde-pfund-an-sony-music-gehen-a-bcbf483c-9a31-4ae9-a879-08af7dfebb57#ref=rss)
+### pfund
 
-* [https://www.spiegel.de/sport/fussball/em-2024-gewinnt-deutschland-gegen-ungarn-ist-das-achtelfinale-sicher](https://www.spiegel.de/sport/fussball/em-2024-gewinnt-deutschland-gegen-ungarn-ist-das-achtelfinale-sicher-a-ee32d527-43ea-441e-be5d-547266a38d89#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-albanien-rettet-unentschieden-trotz-slapstick-eigentor-gegen-kroatien](https://www.spiegel.de/sport/fussball/fussball-em-2024-albanien-rettet-unentschieden-trotz-slapstick-eigentor-gegen-kroatien-a-a25bb148-b33f-46eb-933e-28dab04f308a#ref=rss)
-### gjasula
+* [https://www.spiegel.de/kultur/musik/queen-musikkatalog-soll-fuer-eine-milliarde-pfund-an-sony-music-gehen](https://www.spiegel.de/kultur/musik/queen-musikkatalog-soll-fuer-eine-milliarde-pfund-an-sony-music-gehen-a-bcbf483c-9a31-4ae9-a879-08af7dfebb57#ref=rss)
+### sony
 
-* [https://www.spiegel.de/sport/fussball/em-2024-gewinnt-deutschland-gegen-ungarn-ist-das-achtelfinale-sicher](https://www.spiegel.de/sport/fussball/em-2024-gewinnt-deutschland-gegen-ungarn-ist-das-achtelfinale-sicher-a-ee32d527-43ea-441e-be5d-547266a38d89#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-albanien-rettet-unentschieden-trotz-slapstick-eigentor-gegen-kroatien](https://www.spiegel.de/sport/fussball/fussball-em-2024-albanien-rettet-unentschieden-trotz-slapstick-eigentor-gegen-kroatien-a-a25bb148-b33f-46eb-933e-28dab04f308a#ref=rss)
-### trifft
+* [https://www.spiegel.de/kultur/musik/queen-musikkatalog-soll-fuer-eine-milliarde-pfund-an-sony-music-gehen](https://www.spiegel.de/kultur/musik/queen-musikkatalog-soll-fuer-eine-milliarde-pfund-an-sony-music-gehen-a-bcbf483c-9a31-4ae9-a879-08af7dfebb57#ref=rss)
+### music
 
-* [https://www.spiegel.de/sport/fussball/em-2024-gewinnt-deutschland-gegen-ungarn-ist-das-achtelfinale-sicher](https://www.spiegel.de/sport/fussball/em-2024-gewinnt-deutschland-gegen-ungarn-ist-das-achtelfinale-sicher-a-ee32d527-43ea-441e-be5d-547266a38d89#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-deutschland-gegen-ungarn-die-startaufstellung](https://www.spiegel.de/sport/fussball/fussball-em-2024-deutschland-gegen-ungarn-die-startaufstellung-a-cb4704e4-71f7-4158-8fc9-7a5bb7cad76e#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/sport/fussball/em-2024-gewinnt-deutschland-gegen-ungarn-ist-das-achtelfinale-sicher](https://www.spiegel.de/sport/fussball/em-2024-gewinnt-deutschland-gegen-ungarn-ist-das-achtelfinale-sicher-a-ee32d527-43ea-441e-be5d-547266a38d89#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-was-sie-ueber-deutschland-gegen-ungarn-wissen-sollten](https://www.spiegel.de/sport/fussball/fussball-em-2024-was-sie-ueber-deutschland-gegen-ungarn-wissen-sollten-a-67fb2996-f212-42cb-8f05-defe2cded8cb#ref=rss)
-### rema
-
-* [https://www.spiegel.de/kultur/musik/rema-mit-calm-down-erfolgreichster-afrobeats-song-schreibt-streaming-geschichte-in-den-usa](https://www.spiegel.de/kultur/musik/rema-mit-calm-down-erfolgreichster-afrobeats-song-schreibt-streaming-geschichte-in-den-usa-a-e1b4ab53-2317-48d3-aa40-be8a09a2636d#ref=rss)
-### calm
-
-* [https://www.spiegel.de/kultur/musik/rema-mit-calm-down-erfolgreichster-afrobeats-song-schreibt-streaming-geschichte-in-den-usa](https://www.spiegel.de/kultur/musik/rema-mit-calm-down-erfolgreichster-afrobeats-song-schreibt-streaming-geschichte-in-den-usa-a-e1b4ab53-2317-48d3-aa40-be8a09a2636d#ref=rss)
-### down
-
-* [https://www.spiegel.de/kultur/musik/rema-mit-calm-down-erfolgreichster-afrobeats-song-schreibt-streaming-geschichte-in-den-usa](https://www.spiegel.de/kultur/musik/rema-mit-calm-down-erfolgreichster-afrobeats-song-schreibt-streaming-geschichte-in-den-usa-a-e1b4ab53-2317-48d3-aa40-be8a09a2636d#ref=rss)
-### unter
-
-* [https://www.spiegel.de/kultur/musik/rema-mit-calm-down-erfolgreichster-afrobeats-song-schreibt-streaming-geschichte-in-den-usa](https://www.spiegel.de/kultur/musik/rema-mit-calm-down-erfolgreichster-afrobeats-song-schreibt-streaming-geschichte-in-den-usa-a-e1b4ab53-2317-48d3-aa40-be8a09a2636d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/archaeologen-stossen-auf-jahrhundertealte-flaschen-mit-kirschen-unter-anwesen-von-george-washington](https://www.spiegel.de/wissenschaft/archaeologen-stossen-auf-jahrhundertealte-flaschen-mit-kirschen-unter-anwesen-von-george-washington-a-864a43d2-bb13-4f60-ab09-495f23f735c3#ref=rss)
-### nancy
-
-* [https://www.spiegel.de/ausland/china-nancy-pelosi-kritisiert-machthaber-xi-jinping-waehrend-besuch-des-dalai-lamas](https://www.spiegel.de/ausland/china-nancy-pelosi-kritisiert-machthaber-xi-jinping-waehrend-besuch-des-dalai-lamas-a-37c78a02-f7d3-4fff-9e86-6bf6ccaaeecf#ref=rss)
-### pelosi
-
-* [https://www.spiegel.de/ausland/china-nancy-pelosi-kritisiert-machthaber-xi-jinping-waehrend-besuch-des-dalai-lamas](https://www.spiegel.de/ausland/china-nancy-pelosi-kritisiert-machthaber-xi-jinping-waehrend-besuch-des-dalai-lamas-a-37c78a02-f7d3-4fff-9e86-6bf6ccaaeecf#ref=rss)
-### dalai
-
-* [https://www.spiegel.de/ausland/china-nancy-pelosi-kritisiert-machthaber-xi-jinping-waehrend-besuch-des-dalai-lamas](https://www.spiegel.de/ausland/china-nancy-pelosi-kritisiert-machthaber-xi-jinping-waehrend-besuch-des-dalai-lamas-a-37c78a02-f7d3-4fff-9e86-6bf6ccaaeecf#ref=rss)
-### lama
-
-* [https://www.spiegel.de/ausland/china-nancy-pelosi-kritisiert-machthaber-xi-jinping-waehrend-besuch-des-dalai-lamas](https://www.spiegel.de/ausland/china-nancy-pelosi-kritisiert-machthaber-xi-jinping-waehrend-besuch-des-dalai-lamas-a-37c78a02-f7d3-4fff-9e86-6bf6ccaaeecf#ref=rss)
-### zeit
-
-* [https://www.spiegel.de/ausland/china-nancy-pelosi-kritisiert-machthaber-xi-jinping-waehrend-besuch-des-dalai-lamas](https://www.spiegel.de/ausland/china-nancy-pelosi-kritisiert-machthaber-xi-jinping-waehrend-besuch-des-dalai-lamas-a-37c78a02-f7d3-4fff-9e86-6bf6ccaaeecf#ref=rss)
-* [https://www.spiegel.de/panorama/leute/juergen-klopp-vom-fussballtrainer-zum-social-media-star](https://www.spiegel.de/panorama/leute/juergen-klopp-vom-fussballtrainer-zum-social-media-star-a-e1376c1a-1d79-4ef6-ad5b-9ce975593377#ref=rss)
-### generation
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-malu-dreyers-ruecktritt-anklage-letzte-generation-schottische-fans](https://www.spiegel.de/politik/deutschland/news-des-tages-malu-dreyers-ruecktritt-anklage-letzte-generation-schottische-fans-a-4e59e25c-1bd3-4e06-97bf-d98576ae8e4d#ref=rss)
-### schottische
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-malu-dreyers-ruecktritt-anklage-letzte-generation-schottische-fans](https://www.spiegel.de/politik/deutschland/news-des-tages-malu-dreyers-ruecktritt-anklage-letzte-generation-schottische-fans-a-4e59e25c-1bd3-4e06-97bf-d98576ae8e4d#ref=rss)
+* [https://www.spiegel.de/kultur/musik/queen-musikkatalog-soll-fuer-eine-milliarde-pfund-an-sony-music-gehen](https://www.spiegel.de/kultur/musik/queen-musikkatalog-soll-fuer-eine-milliarde-pfund-an-sony-music-gehen-a-bcbf483c-9a31-4ae9-a879-08af7dfebb57#ref=rss)
 ### fans
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-malu-dreyers-ruecktritt-anklage-letzte-generation-schottische-fans](https://www.spiegel.de/politik/deutschland/news-des-tages-malu-dreyers-ruecktritt-anklage-letzte-generation-schottische-fans-a-4e59e25c-1bd3-4e06-97bf-d98576ae8e4d#ref=rss)
-* [https://www.spiegel.de/panorama/leute/juergen-klopp-vom-fussballtrainer-zum-social-media-star](https://www.spiegel.de/panorama/leute/juergen-klopp-vom-fussballtrainer-zum-social-media-star-a-e1376c1a-1d79-4ef6-ad5b-9ce975593377#ref=rss)
-### ministerpräsidentin
+* [https://www.spiegel.de/panorama/leute/britney-spears-fans-feiern-instagram-post-als-seitenhieb-gegen-justin-timberlake](https://www.spiegel.de/panorama/leute/britney-spears-fans-feiern-instagram-post-als-seitenhieb-gegen-justin-timberlake-a-aa36cb49-cbbf-4374-b5cf-0ef0837ba1a4#ref=rss)
+### britney
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-malu-dreyers-ruecktritt-anklage-letzte-generation-schottische-fans](https://www.spiegel.de/politik/deutschland/news-des-tages-malu-dreyers-ruecktritt-anklage-letzte-generation-schottische-fans-a-4e59e25c-1bd3-4e06-97bf-d98576ae8e4d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/malu-dreyer-die-spd-hat-jetzt-ein-problem](https://www.spiegel.de/politik/deutschland/malu-dreyer-die-spd-hat-jetzt-ein-problem-a-8301573d-ee13-4fec-840e-a6369ab2eea9#ref=rss)
-### ozonschicht
+* [https://www.spiegel.de/panorama/leute/britney-spears-fans-feiern-instagram-post-als-seitenhieb-gegen-justin-timberlake](https://www.spiegel.de/panorama/leute/britney-spears-fans-feiern-instagram-post-als-seitenhieb-gegen-justin-timberlake-a-aa36cb49-cbbf-4374-b5cf-0ef0837ba1a4#ref=rss)
+### spears
 
-* [https://www.spiegel.de/wissenschaft/weltall/satelliten-schrott-koennte-ozonschicht-zerstoeren](https://www.spiegel.de/wissenschaft/weltall/satelliten-schrott-koennte-ozonschicht-zerstoeren-a-0dfb22a1-07c7-4d88-97b8-447ccea6d916#ref=rss)
-### fahren
+* [https://www.spiegel.de/panorama/leute/britney-spears-fans-feiern-instagram-post-als-seitenhieb-gegen-justin-timberlake](https://www.spiegel.de/panorama/leute/britney-spears-fans-feiern-instagram-post-als-seitenhieb-gegen-justin-timberlake-a-aa36cb49-cbbf-4374-b5cf-0ef0837ba1a4#ref=rss)
+### dazu
 
-* [https://www.spiegel.de/auto/autonomes-fahren-us-studie-sieht-weniger-unfallgefahr-als-bei-menschlichen-fahrern](https://www.spiegel.de/auto/autonomes-fahren-us-studie-sieht-weniger-unfallgefahr-als-bei-menschlichen-fahrern-a-f9b71de2-3fa7-47d0-9bd1-a85fe645bcdd#ref=rss)
-### usstudie
+* [https://www.spiegel.de/panorama/leute/britney-spears-fans-feiern-instagram-post-als-seitenhieb-gegen-justin-timberlake](https://www.spiegel.de/panorama/leute/britney-spears-fans-feiern-instagram-post-als-seitenhieb-gegen-justin-timberlake-a-aa36cb49-cbbf-4374-b5cf-0ef0837ba1a4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-ifo-prognose-sieht-wachstum-von-0-4-prozent-fuer-die-deutsche-wirtschaft](https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-ifo-prognose-sieht-wachstum-von-0-4-prozent-fuer-die-deutsche-wirtschaft-a-47f4370c-e5c4-4ef5-a10d-9189676494b8#ref=rss)
+### fu
 
-* [https://www.spiegel.de/auto/autonomes-fahren-us-studie-sieht-weniger-unfallgefahr-als-bei-menschlichen-fahrern](https://www.spiegel.de/auto/autonomes-fahren-us-studie-sieht-weniger-unfallgefahr-als-bei-menschlichen-fahrern-a-f9b71de2-3fa7-47d0-9bd1-a85fe645bcdd#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/berlin-freie-universitaet-will-pro-palaestinensisches-protestcamp-tolerieren](https://www.spiegel.de/panorama/bildung/berlin-freie-universitaet-will-pro-palaestinensisches-protestcamp-tolerieren-a-75751b48-0e3f-4483-b90e-9ccb224961c8#ref=rss)
+### protestcamp
+
+* [https://www.spiegel.de/panorama/bildung/berlin-freie-universitaet-will-pro-palaestinensisches-protestcamp-tolerieren](https://www.spiegel.de/panorama/bildung/berlin-freie-universitaet-will-pro-palaestinensisches-protestcamp-tolerieren-a-75751b48-0e3f-4483-b90e-9ccb224961c8#ref=rss)
+### tolerieren
+
+* [https://www.spiegel.de/panorama/bildung/berlin-freie-universitaet-will-pro-palaestinensisches-protestcamp-tolerieren](https://www.spiegel.de/panorama/bildung/berlin-freie-universitaet-will-pro-palaestinensisches-protestcamp-tolerieren-a-75751b48-0e3f-4483-b90e-9ccb224961c8#ref=rss)
+### woche
+
+* [https://www.spiegel.de/panorama/bildung/berlin-freie-universitaet-will-pro-palaestinensisches-protestcamp-tolerieren](https://www.spiegel.de/panorama/bildung/berlin-freie-universitaet-will-pro-palaestinensisches-protestcamp-tolerieren-a-75751b48-0e3f-4483-b90e-9ccb224961c8#ref=rss)
+* [https://www.spiegel.de/start/frauen-in-der-chirurgie-wie-wird-die-maennerdomaene-aufgebrochen](https://www.spiegel.de/start/frauen-in-der-chirurgie-wie-wird-die-maennerdomaene-aufgebrochen-a-048d497c-8961-490c-97f7-ef5d0b2d2ca2#ref=rss)
+### europäischen
+
+* [https://www.spiegel.de/auto/fahrkultur/rasen-im-urlaub-diese-strafen-drohen-temposuendern-im-europaeischen-ausland](https://www.spiegel.de/auto/fahrkultur/rasen-im-urlaub-diese-strafen-drohen-temposuendern-im-europaeischen-ausland-a-1d2e02b1-8a75-4b4e-90c3-0fa8995471b5#ref=rss)
+### laut
+
+* [https://www.spiegel.de/wissenschaft/klimawandel-fossile-energien-erreichen-laut-bericht-2023-rekordhoch](https://www.spiegel.de/wissenschaft/klimawandel-fossile-energien-erreichen-laut-bericht-2023-rekordhoch-a-bba88fe5-36ca-4382-9dff-ba830f18acef#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-umfrage-sieht-cdu-und-afd-eng-beieinander-bsw-holt-auf](https://www.spiegel.de/politik/deutschland/sachsen-umfrage-sieht-cdu-und-afd-eng-beieinander-bsw-holt-auf-a-9f6b3fc5-bd05-45c1-b4a7-7283411d52f7#ref=rss)
+### rekordhoch
+
+* [https://www.spiegel.de/wissenschaft/klimawandel-fossile-energien-erreichen-laut-bericht-2023-rekordhoch](https://www.spiegel.de/wissenschaft/klimawandel-fossile-energien-erreichen-laut-bericht-2023-rekordhoch-a-bba88fe5-36ca-4382-9dff-ba830f18acef#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/wissenschaft/klimawandel-fossile-energien-erreichen-laut-bericht-2023-rekordhoch](https://www.spiegel.de/wissenschaft/klimawandel-fossile-energien-erreichen-laut-bericht-2023-rekordhoch-a-bba88fe5-36ca-4382-9dff-ba830f18acef#ref=rss)
+* [https://www.spiegel.de/ausland/wladimir-putin-in-nordkorea-die-gefaehrlichsten-waffenbrueder-der-welt](https://www.spiegel.de/ausland/wladimir-putin-in-nordkorea-die-gefaehrlichsten-waffenbrueder-der-welt-a-cf1fdddf-9a81-4384-ab39-c8eefcf4f1ca#ref=rss)
+### marco
+
+* [https://www.spiegel.de/sport/fussball/em-2024-ungarn-trainer-marco-rossi-nach-0-2-gegen-deutschland-wuetend-auf-schiedsrichter](https://www.spiegel.de/sport/fussball/em-2024-ungarn-trainer-marco-rossi-nach-0-2-gegen-deutschland-wuetend-auf-schiedsrichter-a-4736f0c8-b776-4d9c-8836-89912abcc3a2#ref=rss)
+### rossi
+
+* [https://www.spiegel.de/sport/fussball/em-2024-ungarn-trainer-marco-rossi-nach-0-2-gegen-deutschland-wuetend-auf-schiedsrichter](https://www.spiegel.de/sport/fussball/em-2024-ungarn-trainer-marco-rossi-nach-0-2-gegen-deutschland-wuetend-auf-schiedsrichter-a-4736f0c8-b776-4d9c-8836-89912abcc3a2#ref=rss)
+### ungarn
+
+* [https://www.spiegel.de/sport/fussball/em-2024-ungarn-trainer-marco-rossi-nach-0-2-gegen-deutschland-wuetend-auf-schiedsrichter](https://www.spiegel.de/sport/fussball/em-2024-ungarn-trainer-marco-rossi-nach-0-2-gegen-deutschland-wuetend-auf-schiedsrichter-a-4736f0c8-b776-4d9c-8836-89912abcc3a2#ref=rss)
+### geschlossen
+
+* [https://www.spiegel.de/kultur/kunst-historikerin-ueber-visa-wahnsinn-deutschland-auf-unbestimmte-zeit-geschlossen](https://www.spiegel.de/kultur/kunst-historikerin-ueber-visa-wahnsinn-deutschland-auf-unbestimmte-zeit-geschlossen-a-4c7f5558-8946-4cab-9c54-c5730ddb92a2#ref=rss)
+* [https://www.spiegel.de/ausland/wladimir-putin-in-nordkorea-die-gefaehrlichsten-waffenbrueder-der-welt](https://www.spiegel.de/ausland/wladimir-putin-in-nordkorea-die-gefaehrlichsten-waffenbrueder-der-welt-a-cf1fdddf-9a81-4384-ab39-c8eefcf4f1ca#ref=rss)
+### albanien
+
+* [https://www.spiegel.de/sport/fussball/em-2024-albanien-georgien-und-die-slowakei-begeistern-deshalb-lieben-alle-den-fussball](https://www.spiegel.de/sport/fussball/em-2024-albanien-georgien-und-die-slowakei-begeistern-deshalb-lieben-alle-den-fussball-a-7b48f615-a9dd-4c75-9d94-4afb9ca5c4d0#ref=rss)
+### georgien
+
+* [https://www.spiegel.de/sport/fussball/em-2024-albanien-georgien-und-die-slowakei-begeistern-deshalb-lieben-alle-den-fussball](https://www.spiegel.de/sport/fussball/em-2024-albanien-georgien-und-die-slowakei-begeistern-deshalb-lieben-alle-den-fussball-a-7b48f615-a9dd-4c75-9d94-4afb9ca5c4d0#ref=rss)
+### slowakei
+
+* [https://www.spiegel.de/sport/fussball/em-2024-albanien-georgien-und-die-slowakei-begeistern-deshalb-lieben-alle-den-fussball](https://www.spiegel.de/sport/fussball/em-2024-albanien-georgien-und-die-slowakei-begeistern-deshalb-lieben-alle-den-fussball-a-7b48f615-a9dd-4c75-9d94-4afb9ca5c4d0#ref=rss)
+### fußball
+
+* [https://www.spiegel.de/sport/fussball/em-2024-albanien-georgien-und-die-slowakei-begeistern-deshalb-lieben-alle-den-fussball](https://www.spiegel.de/sport/fussball/em-2024-albanien-georgien-und-die-slowakei-begeistern-deshalb-lieben-alle-den-fussball-a-7b48f615-a9dd-4c75-9d94-4afb9ca5c4d0#ref=rss)
 ### sieht
 
-* [https://www.spiegel.de/auto/autonomes-fahren-us-studie-sieht-weniger-unfallgefahr-als-bei-menschlichen-fahrern](https://www.spiegel.de/auto/autonomes-fahren-us-studie-sieht-weniger-unfallgefahr-als-bei-menschlichen-fahrern-a-f9b71de2-3fa7-47d0-9bd1-a85fe645bcdd#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-deutschland-gegen-ungarn-die-startaufstellung](https://www.spiegel.de/sport/fussball/fussball-em-2024-deutschland-gegen-ungarn-die-startaufstellung-a-cb4704e4-71f7-4158-8fc9-7a5bb7cad76e#ref=rss)
-### unfallgefahr
+* [https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-ifo-prognose-sieht-wachstum-von-0-4-prozent-fuer-die-deutsche-wirtschaft](https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-ifo-prognose-sieht-wachstum-von-0-4-prozent-fuer-die-deutsche-wirtschaft-a-47f4370c-e5c4-4ef5-a10d-9189676494b8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-umfrage-sieht-cdu-und-afd-eng-beieinander-bsw-holt-auf](https://www.spiegel.de/politik/deutschland/sachsen-umfrage-sieht-cdu-und-afd-eng-beieinander-bsw-holt-auf-a-9f6b3fc5-bd05-45c1-b4a7-7283411d52f7#ref=rss)
+### ilya
 
-* [https://www.spiegel.de/auto/autonomes-fahren-us-studie-sieht-weniger-unfallgefahr-als-bei-menschlichen-fahrern](https://www.spiegel.de/auto/autonomes-fahren-us-studie-sieht-weniger-unfallgefahr-als-bei-menschlichen-fahrern-a-f9b71de2-3fa7-47d0-9bd1-a85fe645bcdd#ref=rss)
-### kroatien
+* [https://www.spiegel.de/netzwelt/web/openai-mitgruender-will-sichere-superintelligenz-entwickeln](https://www.spiegel.de/netzwelt/web/openai-mitgruender-will-sichere-superintelligenz-entwickeln-a-591171e5-1b38-4e06-8a79-c8ea9c97b4c8#ref=rss)
+### sutskever
 
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-albanien-rettet-unentschieden-trotz-slapstick-eigentor-gegen-kroatien](https://www.spiegel.de/sport/fussball/fussball-em-2024-albanien-rettet-unentschieden-trotz-slapstick-eigentor-gegen-kroatien-a-a25bb148-b33f-46eb-933e-28dab04f308a#ref=rss)
-### george
+* [https://www.spiegel.de/netzwelt/web/openai-mitgruender-will-sichere-superintelligenz-entwickeln](https://www.spiegel.de/netzwelt/web/openai-mitgruender-will-sichere-superintelligenz-entwickeln-a-591171e5-1b38-4e06-8a79-c8ea9c97b4c8#ref=rss)
+### wichtigsten
 
-* [https://www.spiegel.de/wissenschaft/archaeologen-stossen-auf-jahrhundertealte-flaschen-mit-kirschen-unter-anwesen-von-george-washington](https://www.spiegel.de/wissenschaft/archaeologen-stossen-auf-jahrhundertealte-flaschen-mit-kirschen-unter-anwesen-von-george-washington-a-864a43d2-bb13-4f60-ab09-495f23f735c3#ref=rss)
-### washington
+* [https://www.spiegel.de/netzwelt/web/openai-mitgruender-will-sichere-superintelligenz-entwickeln](https://www.spiegel.de/netzwelt/web/openai-mitgruender-will-sichere-superintelligenz-entwickeln-a-591171e5-1b38-4e06-8a79-c8ea9c97b4c8#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/sommersonnenwende-2024-alles-wichtige-zum-sommeranfang](https://www.spiegel.de/wissenschaft/natur/sommersonnenwende-2024-alles-wichtige-zum-sommeranfang-a-0b5751bb-9f7b-440d-826c-3a003b10f167#ref=rss)
+### jonathan
 
-* [https://www.spiegel.de/wissenschaft/archaeologen-stossen-auf-jahrhundertealte-flaschen-mit-kirschen-unter-anwesen-von-george-washington](https://www.spiegel.de/wissenschaft/archaeologen-stossen-auf-jahrhundertealte-flaschen-mit-kirschen-unter-anwesen-von-george-washington-a-864a43d2-bb13-4f60-ab09-495f23f735c3#ref=rss)
-### anthony
+* [https://www.spiegel.de/sport/fussball/fussball-em-2024-deutsche-verteidiger-jonathan-tah-und-antonio-ruediger-etwa-doch-abwehrmonster](https://www.spiegel.de/sport/fussball/fussball-em-2024-deutsche-verteidiger-jonathan-tah-und-antonio-ruediger-etwa-doch-abwehrmonster-a-1cb6edfe-fda3-462d-a221-4ef71dc236c5#ref=rss)
+### tah
 
-* [https://www.spiegel.de/wissenschaft/usa-virologe-anthony-fauci-beschreibt-beruehmte-pressekonferenz-mit-donald-trump-als-qualvoll](https://www.spiegel.de/wissenschaft/usa-virologe-anthony-fauci-beschreibt-beruehmte-pressekonferenz-mit-donald-trump-als-qualvoll-a-8dd82ff0-1c3d-4e8f-9c0e-75a8c39802cc#ref=rss)
-### fauci
+* [https://www.spiegel.de/sport/fussball/fussball-em-2024-deutsche-verteidiger-jonathan-tah-und-antonio-ruediger-etwa-doch-abwehrmonster](https://www.spiegel.de/sport/fussball/fussball-em-2024-deutsche-verteidiger-jonathan-tah-und-antonio-ruediger-etwa-doch-abwehrmonster-a-1cb6edfe-fda3-462d-a221-4ef71dc236c5#ref=rss)
+### antonio
 
-* [https://www.spiegel.de/wissenschaft/usa-virologe-anthony-fauci-beschreibt-beruehmte-pressekonferenz-mit-donald-trump-als-qualvoll](https://www.spiegel.de/wissenschaft/usa-virologe-anthony-fauci-beschreibt-beruehmte-pressekonferenz-mit-donald-trump-als-qualvoll-a-8dd82ff0-1c3d-4e8f-9c0e-75a8c39802cc#ref=rss)
-### beschreibt
+* [https://www.spiegel.de/sport/fussball/fussball-em-2024-deutsche-verteidiger-jonathan-tah-und-antonio-ruediger-etwa-doch-abwehrmonster](https://www.spiegel.de/sport/fussball/fussball-em-2024-deutsche-verteidiger-jonathan-tah-und-antonio-ruediger-etwa-doch-abwehrmonster-a-1cb6edfe-fda3-462d-a221-4ef71dc236c5#ref=rss)
+### rüdiger
 
-* [https://www.spiegel.de/wissenschaft/usa-virologe-anthony-fauci-beschreibt-beruehmte-pressekonferenz-mit-donald-trump-als-qualvoll](https://www.spiegel.de/wissenschaft/usa-virologe-anthony-fauci-beschreibt-beruehmte-pressekonferenz-mit-donald-trump-als-qualvoll-a-8dd82ff0-1c3d-4e8f-9c0e-75a8c39802cc#ref=rss)
-### trump
+* [https://www.spiegel.de/sport/fussball/fussball-em-2024-deutsche-verteidiger-jonathan-tah-und-antonio-ruediger-etwa-doch-abwehrmonster](https://www.spiegel.de/sport/fussball/fussball-em-2024-deutsche-verteidiger-jonathan-tah-und-antonio-ruediger-etwa-doch-abwehrmonster-a-1cb6edfe-fda3-462d-a221-4ef71dc236c5#ref=rss)
+### sachsen
 
-* [https://www.spiegel.de/wissenschaft/usa-virologe-anthony-fauci-beschreibt-beruehmte-pressekonferenz-mit-donald-trump-als-qualvoll](https://www.spiegel.de/wissenschaft/usa-virologe-anthony-fauci-beschreibt-beruehmte-pressekonferenz-mit-donald-trump-als-qualvoll-a-8dd82ff0-1c3d-4e8f-9c0e-75a8c39802cc#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahlen-welche-stars-joe-biden-unterstuetzen-und-welche-donald-trump](https://www.spiegel.de/ausland/us-wahlen-welche-stars-joe-biden-unterstuetzen-und-welche-donald-trump-a-43ebc7c8-5c45-4208-a178-a060225caf04#ref=rss)
-### trumps
+* [https://www.spiegel.de/politik/deutschland/sachsen-umfrage-sieht-cdu-und-afd-eng-beieinander-bsw-holt-auf](https://www.spiegel.de/politik/deutschland/sachsen-umfrage-sieht-cdu-und-afd-eng-beieinander-bsw-holt-auf-a-9f6b3fc5-bd05-45c1-b4a7-7283411d52f7#ref=rss)
+### umfrage
 
-* [https://www.spiegel.de/wissenschaft/usa-virologe-anthony-fauci-beschreibt-beruehmte-pressekonferenz-mit-donald-trump-als-qualvoll](https://www.spiegel.de/wissenschaft/usa-virologe-anthony-fauci-beschreibt-beruehmte-pressekonferenz-mit-donald-trump-als-qualvoll-a-8dd82ff0-1c3d-4e8f-9c0e-75a8c39802cc#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahlen-welche-stars-joe-biden-unterstuetzen-und-welche-donald-trump](https://www.spiegel.de/ausland/us-wahlen-welche-stars-joe-biden-unterstuetzen-und-welche-donald-trump-a-43ebc7c8-5c45-4208-a178-a060225caf04#ref=rss)
-### spd
+* [https://www.spiegel.de/politik/deutschland/sachsen-umfrage-sieht-cdu-und-afd-eng-beieinander-bsw-holt-auf](https://www.spiegel.de/politik/deutschland/sachsen-umfrage-sieht-cdu-und-afd-eng-beieinander-bsw-holt-auf-a-9f6b3fc5-bd05-45c1-b4a7-7283411d52f7#ref=rss)
+### cdu
 
-* [https://www.spiegel.de/politik/deutschland/malu-dreyer-die-spd-hat-jetzt-ein-problem](https://www.spiegel.de/politik/deutschland/malu-dreyer-die-spd-hat-jetzt-ein-problem-a-8301573d-ee13-4fec-840e-a6369ab2eea9#ref=rss)
-### jürgen
+* [https://www.spiegel.de/politik/deutschland/sachsen-umfrage-sieht-cdu-und-afd-eng-beieinander-bsw-holt-auf](https://www.spiegel.de/politik/deutschland/sachsen-umfrage-sieht-cdu-und-afd-eng-beieinander-bsw-holt-auf-a-9f6b3fc5-bd05-45c1-b4a7-7283411d52f7#ref=rss)
+### afd
 
-* [https://www.spiegel.de/panorama/leute/juergen-klopp-vom-fussballtrainer-zum-social-media-star](https://www.spiegel.de/panorama/leute/juergen-klopp-vom-fussballtrainer-zum-social-media-star-a-e1376c1a-1d79-4ef6-ad5b-9ce975593377#ref=rss)
-### klopp
+* [https://www.spiegel.de/politik/deutschland/sachsen-umfrage-sieht-cdu-und-afd-eng-beieinander-bsw-holt-auf](https://www.spiegel.de/politik/deutschland/sachsen-umfrage-sieht-cdu-und-afd-eng-beieinander-bsw-holt-auf-a-9f6b3fc5-bd05-45c1-b4a7-7283411d52f7#ref=rss)
+### nordkorea
 
-* [https://www.spiegel.de/panorama/leute/juergen-klopp-vom-fussballtrainer-zum-social-media-star](https://www.spiegel.de/panorama/leute/juergen-klopp-vom-fussballtrainer-zum-social-media-star-a-e1376c1a-1d79-4ef6-ad5b-9ce975593377#ref=rss)
-### biden
+* [https://www.spiegel.de/ausland/wladimir-putin-in-nordkorea-die-gefaehrlichsten-waffenbrueder-der-welt](https://www.spiegel.de/ausland/wladimir-putin-in-nordkorea-die-gefaehrlichsten-waffenbrueder-der-welt-a-cf1fdddf-9a81-4384-ab39-c8eefcf4f1ca#ref=rss)
+### usa
 
-* [https://www.spiegel.de/ausland/us-wahlen-welche-stars-joe-biden-unterstuetzen-und-welche-donald-trump](https://www.spiegel.de/ausland/us-wahlen-welche-stars-joe-biden-unterstuetzen-und-welche-donald-trump-a-43ebc7c8-5c45-4208-a178-a060225caf04#ref=rss)
-### boom
+* [https://www.spiegel.de/wissenschaft/natur/hitze-in-den-usa-ein-land-im-schwitzkasten-des-klimawandels](https://www.spiegel.de/wissenschaft/natur/hitze-in-den-usa-ein-land-im-schwitzkasten-des-klimawandels-a-eb19fd79-66dd-43f6-bf35-0ae263a5e7b3#ref=rss)
+### bezahlkarte
 
-* [https://www.spiegel.de/karriere/homeoffice-wird-der-boom-auch-nach-der-corona-pandemie-anhalten](https://www.spiegel.de/karriere/homeoffice-wird-der-boom-auch-nach-der-corona-pandemie-anhalten-a-978eb2de-7d73-4617-b356-955a7fdd417a#ref=rss)
-### uns
+* [https://www.spiegel.de/politik/deutschland/bezahlkarte-vorschlag-der-ministerpraesidentenkonferenz-hoechstens-50-euro-in-bar-fuer-gefluechtete](https://www.spiegel.de/politik/deutschland/bezahlkarte-vorschlag-der-ministerpraesidentenkonferenz-hoechstens-50-euro-in-bar-fuer-gefluechtete-a-44fc4cc9-2db9-471a-ba23-aa56de3e85fc#ref=rss)
+### vorschlag
 
-* [https://www.spiegel.de/ausland/tourismus-in-nordkorea-ich-will-nicht-mehr-dorthin-die-menschen-tun-mir-leid](https://www.spiegel.de/ausland/tourismus-in-nordkorea-ich-will-nicht-mehr-dorthin-die-menschen-tun-mir-leid-a-e24f3de2-7f63-434c-9d4f-7b3e6480014a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bezahlkarte-vorschlag-der-ministerpraesidentenkonferenz-hoechstens-50-euro-in-bar-fuer-gefluechtete](https://www.spiegel.de/politik/deutschland/bezahlkarte-vorschlag-der-ministerpraesidentenkonferenz-hoechstens-50-euro-in-bar-fuer-gefluechtete-a-44fc4cc9-2db9-471a-ba23-aa56de3e85fc#ref=rss)
+### ministerpräsidentenkonferenz
+
+* [https://www.spiegel.de/politik/deutschland/bezahlkarte-vorschlag-der-ministerpraesidentenkonferenz-hoechstens-50-euro-in-bar-fuer-gefluechtete](https://www.spiegel.de/politik/deutschland/bezahlkarte-vorschlag-der-ministerpraesidentenkonferenz-hoechstens-50-euro-in-bar-fuer-gefluechtete-a-44fc4cc9-2db9-471a-ba23-aa56de3e85fc#ref=rss)
+### geflüchtete
+
+* [https://www.spiegel.de/politik/deutschland/bezahlkarte-vorschlag-der-ministerpraesidentenkonferenz-hoechstens-50-euro-in-bar-fuer-gefluechtete](https://www.spiegel.de/politik/deutschland/bezahlkarte-vorschlag-der-ministerpraesidentenkonferenz-hoechstens-50-euro-in-bar-fuer-gefluechtete-a-44fc4cc9-2db9-471a-ba23-aa56de3e85fc#ref=rss)
+### sommersonnenwende
+
+* [https://www.spiegel.de/wissenschaft/natur/sommersonnenwende-2024-alles-wichtige-zum-sommeranfang](https://www.spiegel.de/wissenschaft/natur/sommersonnenwende-2024-alles-wichtige-zum-sommeranfang-a-0b5751bb-9f7b-440d-826c-3a003b10f167#ref=rss)
+### sommeranfang
+
+* [https://www.spiegel.de/wissenschaft/natur/sommersonnenwende-2024-alles-wichtige-zum-sommeranfang](https://www.spiegel.de/wissenschaft/natur/sommersonnenwende-2024-alles-wichtige-zum-sommeranfang-a-0b5751bb-9f7b-440d-826c-3a003b10f167#ref=rss)
+### jon
+
+* [https://www.spiegel.de/panorama/leute/jon-hamm-kinderwunsch-von-mad-men-star-ich-werde-der-alte-dad-sein](https://www.spiegel.de/panorama/leute/jon-hamm-kinderwunsch-von-mad-men-star-ich-werde-der-alte-dad-sein-a-95127741-ce41-4e7e-9b33-d05c76ad5134#ref=rss)
+### hamm
+
+* [https://www.spiegel.de/panorama/leute/jon-hamm-kinderwunsch-von-mad-men-star-ich-werde-der-alte-dad-sein](https://www.spiegel.de/panorama/leute/jon-hamm-kinderwunsch-von-mad-men-star-ich-werde-der-alte-dad-sein-a-95127741-ce41-4e7e-9b33-d05c76ad5134#ref=rss)
 
