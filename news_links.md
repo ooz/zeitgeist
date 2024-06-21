@@ -4,317 +4,329 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
-
-* [https://www.spiegel.de/kultur/donald-sutherland-ist-tot](https://www.spiegel.de/kultur/donald-sutherland-ist-tot-a-9990d41b-1335-4bdb-8d5c-605dd5e8696e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/akw-kruemmel-schleswig-holstein-genehmigt-abriss](https://www.spiegel.de/wirtschaft/akw-kruemmel-schleswig-holstein-genehmigt-abriss-a-67e1e256-5d10-4604-9e07-c7228e8d4987#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gesine-loetzsch-linkenabgeordnete-kandidiert-nicht-mehr](https://www.spiegel.de/politik/deutschland/gesine-loetzsch-linkenabgeordnete-kandidiert-nicht-mehr-a-7f9dc558-1904-4f3a-ab63-818ddc2ef3f0#ref=rss)
-* [https://www.spiegel.de/psychologie/sommersonnenwende-mehr-licht-bitte-nicht](https://www.spiegel.de/psychologie/sommersonnenwende-mehr-licht-bitte-nicht-a-3429237d-7d77-4ab3-8813-09634a52b335#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/geburtenrate-in-oecd-staaten-hat-sich-innerhalb-von-60-jahren-halbiert](https://www.spiegel.de/wissenschaft/mensch/geburtenrate-in-oecd-staaten-hat-sich-innerhalb-von-60-jahren-halbiert-a-eac0eb22-a599-4e21-aef0-216be61a3307#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/sachsen-anhalt-lehrerin-verliert-streit-ueber-zusaetzliche-pflichtstunde-kuendigung-ist-rechtens](https://www.spiegel.de/panorama/bildung/sachsen-anhalt-lehrerin-verliert-streit-ueber-zusaetzliche-pflichtstunde-kuendigung-ist-rechtens-a-159fb369-579e-40d0-9344-c7a1d3a4b2b3#ref=rss)
-* [https://www.spiegel.de/wissenschaft/israel-mehr-als-3000-jahre-altes-schiffswrack-im-mittelmeer-entdeckt](https://www.spiegel.de/wissenschaft/israel-mehr-als-3000-jahre-altes-schiffswrack-im-mittelmeer-entdeckt-a-aa72f309-1baa-46c6-9cc3-6b55ceeb5030#ref=rss)
 ### em
 
-* [https://www.spiegel.de/sport/fussball/em-2024-england-und-daenemark-trennen-sich-unentschieden](https://www.spiegel.de/sport/fussball/em-2024-england-und-daenemark-trennen-sich-unentschieden-a-08c7e0e4-9e6f-4ae7-8b35-71dff11c34b6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2024-gelsenkirchens-oberbuergermeisterin-karin-welge-verteidigt-die-ausrichterstadt-gegen-kritik-interview](https://www.spiegel.de/sport/fussball/em-2024-gelsenkirchens-oberbuergermeisterin-karin-welge-verteidigt-die-ausrichterstadt-gegen-kritik-interview-a-59dc7f67-3845-4ad2-b5dd-8f8e5175525e#ref=rss)
-* [https://www.spiegel.de/reise/staedte/gelsenkirchen-so-schoen-ist-die-ruhrpott-stadt-wirklich](https://www.spiegel.de/reise/staedte/gelsenkirchen-so-schoen-ist-die-ruhrpott-stadt-wirklich-a-255b9b42-70bf-4097-bc85-3d45e07ffd44#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2024-serbien-erkaempft-unentschieden-gegen-slowenien-in-letzter-minute](https://www.spiegel.de/sport/fussball/em-2024-serbien-erkaempft-unentschieden-gegen-slowenien-in-letzter-minute-a-930dd398-4753-49d9-9dac-54767072b71b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2024-traumtore-ein-guter-weitschuss-ist-wie-gulasch](https://www.spiegel.de/sport/fussball/em-2024-traumtore-ein-guter-weitschuss-ist-wie-gulasch-a-66cfc6a3-830f-4f33-87d6-8d0e9a0b5e76#ref=rss)
+* [https://www.spiegel.de/sport/em-2024-unterschaetzte-kunst-die-eigentore-bei-der-em](https://www.spiegel.de/sport/em-2024-unterschaetzte-kunst-die-eigentore-bei-der-em-a-7e008735-dc62-4d97-9868-f6501390ff63#ref=rss)
+* [https://www.spiegel.de/sport/em-2024-warum-ein-spieler-ploetzlich-im-tor-verschwindet](https://www.spiegel.de/sport/em-2024-warum-ein-spieler-ploetzlich-im-tor-verschwindet-a-6eebb4f6-e579-4b3e-b85e-6eb3322a2792#ref=rss)
+* [https://www.spiegel.de/sport/fussball/em-2024-spanien-dominiert-italien-und-macht-sich-zum-topfavoriten](https://www.spiegel.de/sport/fussball/em-2024-spanien-dominiert-italien-und-macht-sich-zum-topfavoriten-a-60d21836-8125-46e6-a120-baa7c439c03e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/em-2024-englands-remis-gegen-daenemark-wie-eine-rockband-ohne-verstaerker](https://www.spiegel.de/sport/fussball/em-2024-englands-remis-gegen-daenemark-wie-eine-rockband-ohne-verstaerker-a-11b7c7f8-bb5f-49c8-9420-f83a8859b6a7#ref=rss)
 ### 2024
 
-* [https://www.spiegel.de/sport/fussball/em-2024-england-und-daenemark-trennen-sich-unentschieden](https://www.spiegel.de/sport/fussball/em-2024-england-und-daenemark-trennen-sich-unentschieden-a-08c7e0e4-9e6f-4ae7-8b35-71dff11c34b6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2024-gelsenkirchens-oberbuergermeisterin-karin-welge-verteidigt-die-ausrichterstadt-gegen-kritik-interview](https://www.spiegel.de/sport/fussball/em-2024-gelsenkirchens-oberbuergermeisterin-karin-welge-verteidigt-die-ausrichterstadt-gegen-kritik-interview-a-59dc7f67-3845-4ad2-b5dd-8f8e5175525e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2024-serbien-erkaempft-unentschieden-gegen-slowenien-in-letzter-minute](https://www.spiegel.de/sport/fussball/em-2024-serbien-erkaempft-unentschieden-gegen-slowenien-in-letzter-minute-a-930dd398-4753-49d9-9dac-54767072b71b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2024-traumtore-ein-guter-weitschuss-ist-wie-gulasch](https://www.spiegel.de/sport/fussball/em-2024-traumtore-ein-guter-weitschuss-ist-wie-gulasch-a-66cfc6a3-830f-4f33-87d6-8d0e9a0b5e76#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/kultur/donald-sutherland-ist-tot](https://www.spiegel.de/kultur/donald-sutherland-ist-tot-a-9990d41b-1335-4bdb-8d5c-605dd5e8696e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/geburtenrate-in-oecd-staaten-hat-sich-innerhalb-von-60-jahren-halbiert](https://www.spiegel.de/wissenschaft/mensch/geburtenrate-in-oecd-staaten-hat-sich-innerhalb-von-60-jahren-halbiert-a-eac0eb22-a599-4e21-aef0-216be61a3307#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/sachsen-anhalt-lehrerin-verliert-streit-ueber-zusaetzliche-pflichtstunde-kuendigung-ist-rechtens](https://www.spiegel.de/panorama/bildung/sachsen-anhalt-lehrerin-verliert-streit-ueber-zusaetzliche-pflichtstunde-kuendigung-ist-rechtens-a-159fb369-579e-40d0-9344-c7a1d3a4b2b3#ref=rss)
-* [https://www.spiegel.de/wissenschaft/israel-mehr-als-3000-jahre-altes-schiffswrack-im-mittelmeer-entdeckt](https://www.spiegel.de/wissenschaft/israel-mehr-als-3000-jahre-altes-schiffswrack-im-mittelmeer-entdeckt-a-aa72f309-1baa-46c6-9cc3-6b55ceeb5030#ref=rss)
-### geworfen
-
-* [https://www.spiegel.de/panorama/leute/bond-girl-teri-hatcher-wurde-von-dating-plattform-geworfen](https://www.spiegel.de/panorama/leute/bond-girl-teri-hatcher-wurde-von-dating-plattform-geworfen-a-4e548dc0-a17f-45fa-b202-19c3b97ff48a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-betonklotz-aus-hochhaus-in-spandau-geworfen-frau-knapp-verfehlt](https://www.spiegel.de/panorama/justiz/berlin-betonklotz-aus-hochhaus-in-spandau-geworfen-frau-knapp-verfehlt-a-a2f060b3-903d-4bec-8d57-1d5c56702c71#ref=rss)
-### england
-
-* [https://www.spiegel.de/sport/fussball/em-2024-england-und-daenemark-trennen-sich-unentschieden](https://www.spiegel.de/sport/fussball/em-2024-england-und-daenemark-trennen-sich-unentschieden-a-08c7e0e4-9e6f-4ae7-8b35-71dff11c34b6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2024-serbien-erkaempft-unentschieden-gegen-slowenien-in-letzter-minute](https://www.spiegel.de/sport/fussball/em-2024-serbien-erkaempft-unentschieden-gegen-slowenien-in-letzter-minute-a-930dd398-4753-49d9-9dac-54767072b71b#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/kultur/donald-sutherland-ist-tot](https://www.spiegel.de/kultur/donald-sutherland-ist-tot-a-9990d41b-1335-4bdb-8d5c-605dd5e8696e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/israel-mehr-als-3000-jahre-altes-schiffswrack-im-mittelmeer-entdeckt](https://www.spiegel.de/wissenschaft/israel-mehr-als-3000-jahre-altes-schiffswrack-im-mittelmeer-entdeckt-a-aa72f309-1baa-46c6-9cc3-6b55ceeb5030#ref=rss)
-### sehen
-
-* [https://www.spiegel.de/start/nach-sylt-video-studentin-darf-an-ihrer-hochschule-bleiben-und-das-ist-gut-so](https://www.spiegel.de/start/nach-sylt-video-studentin-darf-an-ihrer-hochschule-bleiben-und-das-ist-gut-so-a-a72c1fe5-0378-4e2e-94a8-36d838e9abb3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/akw-kruemmel-schleswig-holstein-genehmigt-abriss](https://www.spiegel.de/wirtschaft/akw-kruemmel-schleswig-holstein-genehmigt-abriss-a-67e1e256-5d10-4604-9e07-c7228e8d4987#ref=rss)
-* [https://www.spiegel.de/psychologie/sommersonnenwende-mehr-licht-bitte-nicht](https://www.spiegel.de/psychologie/sommersonnenwende-mehr-licht-bitte-nicht-a-3429237d-7d77-4ab3-8813-09634a52b335#ref=rss)
-### gelsenkirchen
-
-* [https://www.spiegel.de/sport/fussball/em-2024-gelsenkirchens-oberbuergermeisterin-karin-welge-verteidigt-die-ausrichterstadt-gegen-kritik-interview](https://www.spiegel.de/sport/fussball/em-2024-gelsenkirchens-oberbuergermeisterin-karin-welge-verteidigt-die-ausrichterstadt-gegen-kritik-interview-a-59dc7f67-3845-4ad2-b5dd-8f8e5175525e#ref=rss)
-* [https://www.spiegel.de/reise/staedte/gelsenkirchen-so-schoen-ist-die-ruhrpott-stadt-wirklich](https://www.spiegel.de/reise/staedte/gelsenkirchen-so-schoen-ist-die-ruhrpott-stadt-wirklich-a-255b9b42-70bf-4097-bc85-3d45e07ffd44#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/novalgin-letztes-werk-fuer-schmerzmittel-in-europa-schliesst](https://www.spiegel.de/wirtschaft/novalgin-letztes-werk-fuer-schmerzmittel-in-europa-schliesst-a-b5f23e0c-199c-4d44-b576-89dea3e70778#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-kachelmanns-prognose-fuer-die-naechsten-gewitter](https://www.spiegel.de/panorama/wetter-in-deutschland-kachelmanns-prognose-fuer-die-naechsten-gewitter-a-e084d1d9-5e05-430c-b8db-848b0cf2b461#ref=rss)
-### dänemark
-
-* [https://www.spiegel.de/sport/fussball/em-2024-england-und-daenemark-trennen-sich-unentschieden](https://www.spiegel.de/sport/fussball/em-2024-england-und-daenemark-trennen-sich-unentschieden-a-08c7e0e4-9e6f-4ae7-8b35-71dff11c34b6#ref=rss)
-### unentschieden
-
-* [https://www.spiegel.de/sport/fussball/em-2024-england-und-daenemark-trennen-sich-unentschieden](https://www.spiegel.de/sport/fussball/em-2024-england-und-daenemark-trennen-sich-unentschieden-a-08c7e0e4-9e6f-4ae7-8b35-71dff11c34b6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2024-serbien-erkaempft-unentschieden-gegen-slowenien-in-letzter-minute](https://www.spiegel.de/sport/fussball/em-2024-serbien-erkaempft-unentschieden-gegen-slowenien-in-letzter-minute-a-930dd398-4753-49d9-9dac-54767072b71b#ref=rss)
-### bildungsministerin
-
-* [https://www.spiegel.de/politik/deutschland/empoerung-ueber-bildungsministerin-bettina-stark-watzinger-die-ein-satz-ministerin](https://www.spiegel.de/politik/deutschland/empoerung-ueber-bildungsministerin-bettina-stark-watzinger-die-ein-satz-ministerin-a-0751d5e5-b7dd-4c51-94d6-6747a1b82f85#ref=rss)
-### bettina
-
-* [https://www.spiegel.de/politik/deutschland/empoerung-ueber-bildungsministerin-bettina-stark-watzinger-die-ein-satz-ministerin](https://www.spiegel.de/politik/deutschland/empoerung-ueber-bildungsministerin-bettina-stark-watzinger-die-ein-satz-ministerin-a-0751d5e5-b7dd-4c51-94d6-6747a1b82f85#ref=rss)
-### starkwatzinger
-
-* [https://www.spiegel.de/politik/deutschland/empoerung-ueber-bildungsministerin-bettina-stark-watzinger-die-ein-satz-ministerin](https://www.spiegel.de/politik/deutschland/empoerung-ueber-bildungsministerin-bettina-stark-watzinger-die-ein-satz-ministerin-a-0751d5e5-b7dd-4c51-94d6-6747a1b82f85#ref=rss)
-### lange
-
-* [https://www.spiegel.de/politik/deutschland/empoerung-ueber-bildungsministerin-bettina-stark-watzinger-die-ein-satz-ministerin](https://www.spiegel.de/politik/deutschland/empoerung-ueber-bildungsministerin-bettina-stark-watzinger-die-ein-satz-ministerin-a-0751d5e5-b7dd-4c51-94d6-6747a1b82f85#ref=rss)
-* [https://www.spiegel.de/wirtschaft/akw-kruemmel-schleswig-holstein-genehmigt-abriss](https://www.spiegel.de/wirtschaft/akw-kruemmel-schleswig-holstein-genehmigt-abriss-a-67e1e256-5d10-4604-9e07-c7228e8d4987#ref=rss)
+* [https://www.spiegel.de/sport/em-2024-unterschaetzte-kunst-die-eigentore-bei-der-em](https://www.spiegel.de/sport/em-2024-unterschaetzte-kunst-die-eigentore-bei-der-em-a-7e008735-dc62-4d97-9868-f6501390ff63#ref=rss)
+* [https://www.spiegel.de/sport/em-2024-warum-ein-spieler-ploetzlich-im-tor-verschwindet](https://www.spiegel.de/sport/em-2024-warum-ein-spieler-ploetzlich-im-tor-verschwindet-a-6eebb4f6-e579-4b3e-b85e-6eb3322a2792#ref=rss)
+* [https://www.spiegel.de/sport/fussball/em-2024-spanien-dominiert-italien-und-macht-sich-zum-topfavoriten](https://www.spiegel.de/sport/fussball/em-2024-spanien-dominiert-italien-und-macht-sich-zum-topfavoriten-a-60d21836-8125-46e6-a120-baa7c439c03e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/em-2024-englands-remis-gegen-daenemark-wie-eine-rockband-ohne-verstaerker](https://www.spiegel.de/sport/fussball/em-2024-englands-remis-gegen-daenemark-wie-eine-rockband-ohne-verstaerker-a-11b7c7f8-bb5f-49c8-9420-f83a8859b6a7#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/kultur/donald-sutherland-ist-tot](https://www.spiegel.de/kultur/donald-sutherland-ist-tot-a-9990d41b-1335-4bdb-8d5c-605dd5e8696e#ref=rss)
-### sutherland
+* [https://www.spiegel.de/panorama/bildung/donald-trump-will-auslaendischen-studierenden-an-us-unis-greencard-anbieten-mit-hintergedanken](https://www.spiegel.de/panorama/bildung/donald-trump-will-auslaendischen-studierenden-an-us-unis-greencard-anbieten-mit-hintergedanken-a-40c40436-0802-4a4f-9829-cf84f712661e#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-ex-berater-steve-bannon-scheitert-mit-berufung-gegen-haftstrafe](https://www.spiegel.de/ausland/donald-trump-ex-berater-steve-bannon-scheitert-mit-berufung-gegen-haftstrafe-a-b9ef8660-0d33-4c01-9abf-31ada035a710#ref=rss)
+* [https://www.spiegel.de/kultur/kino/zum-tod-von-donald-sutherland-der-mann-dem-alles-zuzutrauen-war-auch-das-schlimmste](https://www.spiegel.de/kultur/kino/zum-tod-von-donald-sutherland-der-mann-dem-alles-zuzutrauen-war-auch-das-schlimmste-a-4af039ba-bd5a-48c7-ad8b-a18acdb44968#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/kultur/donald-sutherland-ist-tot](https://www.spiegel.de/kultur/donald-sutherland-ist-tot-a-9990d41b-1335-4bdb-8d5c-605dd5e8696e#ref=rss)
-### kanadische
-
-* [https://www.spiegel.de/kultur/donald-sutherland-ist-tot](https://www.spiegel.de/kultur/donald-sutherland-ist-tot-a-9990d41b-1335-4bdb-8d5c-605dd5e8696e#ref=rss)
-### schauspieler
-
-* [https://www.spiegel.de/kultur/donald-sutherland-ist-tot](https://www.spiegel.de/kultur/donald-sutherland-ist-tot-a-9990d41b-1335-4bdb-8d5c-605dd5e8696e#ref=rss)
-### 88
-
-* [https://www.spiegel.de/kultur/donald-sutherland-ist-tot](https://www.spiegel.de/kultur/donald-sutherland-ist-tot-a-9990d41b-1335-4bdb-8d5c-605dd5e8696e#ref=rss)
-### 60
-
-* [https://www.spiegel.de/kultur/donald-sutherland-ist-tot](https://www.spiegel.de/kultur/donald-sutherland-ist-tot-a-9990d41b-1335-4bdb-8d5c-605dd5e8696e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/geburtenrate-in-oecd-staaten-hat-sich-innerhalb-von-60-jahren-halbiert](https://www.spiegel.de/wissenschaft/mensch/geburtenrate-in-oecd-staaten-hat-sich-innerhalb-von-60-jahren-halbiert-a-eac0eb22-a599-4e21-aef0-216be61a3307#ref=rss)
-### stand
-
-* [https://www.spiegel.de/kultur/donald-sutherland-ist-tot](https://www.spiegel.de/kultur/donald-sutherland-ist-tot-a-9990d41b-1335-4bdb-8d5c-605dd5e8696e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2024-serbien-erkaempft-unentschieden-gegen-slowenien-in-letzter-minute](https://www.spiegel.de/sport/fussball/em-2024-serbien-erkaempft-unentschieden-gegen-slowenien-in-letzter-minute-a-930dd398-4753-49d9-9dac-54767072b71b#ref=rss)
-### syltvideo
-
-* [https://www.spiegel.de/start/nach-sylt-video-studentin-darf-an-ihrer-hochschule-bleiben-und-das-ist-gut-so](https://www.spiegel.de/start/nach-sylt-video-studentin-darf-an-ihrer-hochschule-bleiben-und-das-ist-gut-so-a-a72c1fe5-0378-4e2e-94a8-36d838e9abb3#ref=rss)
-### studentin
-
-* [https://www.spiegel.de/start/nach-sylt-video-studentin-darf-an-ihrer-hochschule-bleiben-und-das-ist-gut-so](https://www.spiegel.de/start/nach-sylt-video-studentin-darf-an-ihrer-hochschule-bleiben-und-das-ist-gut-so-a-a72c1fe5-0378-4e2e-94a8-36d838e9abb3#ref=rss)
-### gut
-
-* [https://www.spiegel.de/start/nach-sylt-video-studentin-darf-an-ihrer-hochschule-bleiben-und-das-ist-gut-so](https://www.spiegel.de/start/nach-sylt-video-studentin-darf-an-ihrer-hochschule-bleiben-und-das-ist-gut-so-a-a72c1fe5-0378-4e2e-94a8-36d838e9abb3#ref=rss)
-* [https://www.spiegel.de/ausland/is-in-syrien-was-wird-aus-den-kindern-des-islamischen-staates](https://www.spiegel.de/ausland/is-in-syrien-was-wird-aus-den-kindern-des-islamischen-staates-a-451d378c-baf6-48ae-8d97-9cb04f48e293#ref=rss)
-### teri
-
-* [https://www.spiegel.de/panorama/leute/bond-girl-teri-hatcher-wurde-von-dating-plattform-geworfen](https://www.spiegel.de/panorama/leute/bond-girl-teri-hatcher-wurde-von-dating-plattform-geworfen-a-4e548dc0-a17f-45fa-b202-19c3b97ff48a#ref=rss)
-### oberbürgermeisterin
-
-* [https://www.spiegel.de/sport/fussball/em-2024-gelsenkirchens-oberbuergermeisterin-karin-welge-verteidigt-die-ausrichterstadt-gegen-kritik-interview](https://www.spiegel.de/sport/fussball/em-2024-gelsenkirchens-oberbuergermeisterin-karin-welge-verteidigt-die-ausrichterstadt-gegen-kritik-interview-a-59dc7f67-3845-4ad2-b5dd-8f8e5175525e#ref=rss)
-### karin
-
-* [https://www.spiegel.de/sport/fussball/em-2024-gelsenkirchens-oberbuergermeisterin-karin-welge-verteidigt-die-ausrichterstadt-gegen-kritik-interview](https://www.spiegel.de/sport/fussball/em-2024-gelsenkirchens-oberbuergermeisterin-karin-welge-verteidigt-die-ausrichterstadt-gegen-kritik-interview-a-59dc7f67-3845-4ad2-b5dd-8f8e5175525e#ref=rss)
-### welge
-
-* [https://www.spiegel.de/sport/fussball/em-2024-gelsenkirchens-oberbuergermeisterin-karin-welge-verteidigt-die-ausrichterstadt-gegen-kritik-interview](https://www.spiegel.de/sport/fussball/em-2024-gelsenkirchens-oberbuergermeisterin-karin-welge-verteidigt-die-ausrichterstadt-gegen-kritik-interview-a-59dc7f67-3845-4ad2-b5dd-8f8e5175525e#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/sport/fussball/em-2024-gelsenkirchens-oberbuergermeisterin-karin-welge-verteidigt-die-ausrichterstadt-gegen-kritik-interview](https://www.spiegel.de/sport/fussball/em-2024-gelsenkirchens-oberbuergermeisterin-karin-welge-verteidigt-die-ausrichterstadt-gegen-kritik-interview-a-59dc7f67-3845-4ad2-b5dd-8f8e5175525e#ref=rss)
-### drecksloch
-
-* [https://www.spiegel.de/sport/fussball/em-2024-gelsenkirchens-oberbuergermeisterin-karin-welge-verteidigt-die-ausrichterstadt-gegen-kritik-interview](https://www.spiegel.de/sport/fussball/em-2024-gelsenkirchens-oberbuergermeisterin-karin-welge-verteidigt-die-ausrichterstadt-gegen-kritik-interview-a-59dc7f67-3845-4ad2-b5dd-8f8e5175525e#ref=rss)
-* [https://www.spiegel.de/reise/staedte/gelsenkirchen-so-schoen-ist-die-ruhrpott-stadt-wirklich](https://www.spiegel.de/reise/staedte/gelsenkirchen-so-schoen-ist-die-ruhrpott-stadt-wirklich-a-255b9b42-70bf-4097-bc85-3d45e07ffd44#ref=rss)
-### stadt
-
-* [https://www.spiegel.de/sport/fussball/em-2024-gelsenkirchens-oberbuergermeisterin-karin-welge-verteidigt-die-ausrichterstadt-gegen-kritik-interview](https://www.spiegel.de/sport/fussball/em-2024-gelsenkirchens-oberbuergermeisterin-karin-welge-verteidigt-die-ausrichterstadt-gegen-kritik-interview-a-59dc7f67-3845-4ad2-b5dd-8f8e5175525e#ref=rss)
-* [https://www.spiegel.de/reise/staedte/gelsenkirchen-so-schoen-ist-die-ruhrpott-stadt-wirklich](https://www.spiegel.de/reise/staedte/gelsenkirchen-so-schoen-ist-die-ruhrpott-stadt-wirklich-a-255b9b42-70bf-4097-bc85-3d45e07ffd44#ref=rss)
-### kämpfe
-
-* [https://www.spiegel.de/kultur/kino/tom-hardy-vater-verfilmt-memoir-eines-britischen-ukrainesoldaten](https://www.spiegel.de/kultur/kino/tom-hardy-vater-verfilmt-memoir-eines-britischen-ukrainesoldaten-a-18e184c6-1c93-4b4d-b440-7f1dea08d3df#ref=rss)
-* [https://www.spiegel.de/kultur/kino/star-wars-lucasfilm-kreativchef-dave-filoni-denkt-ueber-version-fuer-erwachsene-nach](https://www.spiegel.de/kultur/kino/star-wars-lucasfilm-kreativchef-dave-filoni-denkt-ueber-version-fuer-erwachsene-nach-a-70ecaacd-623b-497a-a0ec-07954d6efef7#ref=rss)
-### frau
-
-* [https://www.spiegel.de/kultur/kino/tom-hardy-vater-verfilmt-memoir-eines-britischen-ukrainesoldaten](https://www.spiegel.de/kultur/kino/tom-hardy-vater-verfilmt-memoir-eines-britischen-ukrainesoldaten-a-18e184c6-1c93-4b4d-b440-7f1dea08d3df#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-betonklotz-aus-hochhaus-in-spandau-geworfen-frau-knapp-verfehlt](https://www.spiegel.de/panorama/justiz/berlin-betonklotz-aus-hochhaus-in-spandau-geworfen-frau-knapp-verfehlt-a-a2f060b3-903d-4bec-8d57-1d5c56702c71#ref=rss)
-### arm
-
-* [https://www.spiegel.de/wirtschaft/italien-arbeitgeber-laesst-indischen-erntehelfer-mit-abgeschnittenem-arm-zurueck](https://www.spiegel.de/wirtschaft/italien-arbeitgeber-laesst-indischen-erntehelfer-mit-abgeschnittenem-arm-zurueck-a-b086c0a8-20f1-45a9-80a2-c49daee60c19#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/wirtschaft/italien-arbeitgeber-laesst-indischen-erntehelfer-mit-abgeschnittenem-arm-zurueck](https://www.spiegel.de/wirtschaft/italien-arbeitgeber-laesst-indischen-erntehelfer-mit-abgeschnittenem-arm-zurueck-a-b086c0a8-20f1-45a9-80a2-c49daee60c19#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2024-traumtore-ein-guter-weitschuss-ist-wie-gulasch](https://www.spiegel.de/sport/fussball/em-2024-traumtore-ein-guter-weitschuss-ist-wie-gulasch-a-66cfc6a3-830f-4f33-87d6-8d0e9a0b5e76#ref=rss)
-### starb
-
-* [https://www.spiegel.de/wirtschaft/italien-arbeitgeber-laesst-indischen-erntehelfer-mit-abgeschnittenem-arm-zurueck](https://www.spiegel.de/wirtschaft/italien-arbeitgeber-laesst-indischen-erntehelfer-mit-abgeschnittenem-arm-zurueck-a-b086c0a8-20f1-45a9-80a2-c49daee60c19#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/duesseldorf-rentnerin-muss-450-euro-zahlen-weil-sie-eine-katze-vom-balkon-stiess](https://www.spiegel.de/panorama/justiz/duesseldorf-rentnerin-muss-450-euro-zahlen-weil-sie-eine-katze-vom-balkon-stiess-a-9c8a42e5-1e56-4eab-82c4-f874d02239a2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gera-thueringen-kinder-filmen-gewalttat-gegen-14-jaehrigen-polizei-ermittelt-tatverdaechtige](https://www.spiegel.de/panorama/justiz/gera-thueringen-kinder-filmen-gewalttat-gegen-14-jaehrigen-polizei-ermittelt-tatverdaechtige-a-de2811ab-f73a-49b8-be81-ab1b87601fc4#ref=rss)
+* [https://www.spiegel.de/panorama/flughafen-muenchen-polizei-unterbindet-sexuelle-handlungen-von-paar](https://www.spiegel.de/panorama/flughafen-muenchen-polizei-unterbindet-sexuelle-handlungen-von-paar-a-3a3310a9-4fee-4a6a-b33c-97fb87349917#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/wirtschaft/italien-arbeitgeber-laesst-indischen-erntehelfer-mit-abgeschnittenem-arm-zurueck](https://www.spiegel.de/wirtschaft/italien-arbeitgeber-laesst-indischen-erntehelfer-mit-abgeschnittenem-arm-zurueck-a-b086c0a8-20f1-45a9-80a2-c49daee60c19#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/instagram-schlaegt-13-jaehrigen-offenbar-anzuegliche-videos-vor](https://www.spiegel.de/netzwelt/apps/instagram-schlaegt-13-jaehrigen-offenbar-anzuegliche-videos-vor-a-c6b6fc38-f774-4b59-9356-618bb31c8b06#ref=rss)
-### krümmel
+* [https://www.spiegel.de/politik/deutschland/petr-bystron-zoll-ging-geldwaesche-verdacht-gegen-afd-politiker-nicht-nach](https://www.spiegel.de/politik/deutschland/petr-bystron-zoll-ging-geldwaesche-verdacht-gegen-afd-politiker-nicht-nach-a-704e7ba4-0ae4-4239-8fae-eb8d047c1595#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/amazon-will-alexa-offenbar-teilweise-kostenpflichtig-machen](https://www.spiegel.de/netzwelt/gadgets/amazon-will-alexa-offenbar-teilweise-kostenpflichtig-machen-a-7f2b1664-a3f7-4014-93d8-44f6df2b73d6#ref=rss)
+* [https://www.spiegel.de/panorama/flughafen-muenchen-polizei-unterbindet-sexuelle-handlungen-von-paar](https://www.spiegel.de/panorama/flughafen-muenchen-polizei-unterbindet-sexuelle-handlungen-von-paar-a-3a3310a9-4fee-4a6a-b33c-97fb87349917#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/wirtschaft/akw-kruemmel-schleswig-holstein-genehmigt-abriss](https://www.spiegel.de/wirtschaft/akw-kruemmel-schleswig-holstein-genehmigt-abriss-a-67e1e256-5d10-4604-9e07-c7228e8d4987#ref=rss)
-### abriss
+* [https://www.spiegel.de/auto/deutschlandticket-junge-menschen-koennen-einfacher-nach-frankreich-reisen](https://www.spiegel.de/auto/deutschlandticket-junge-menschen-koennen-einfacher-nach-frankreich-reisen-a-31463d20-0851-4996-ab65-b4b25534e943#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimawandel-macht-toedliche-hitze-in-den-usa-und-in-mexiko-35-mal-wahrscheinlicher](https://www.spiegel.de/wissenschaft/klimawandel-macht-toedliche-hitze-in-den-usa-und-in-mexiko-35-mal-wahrscheinlicher-a-e6349545-c330-4e01-a2f3-58ccfc9a05dd#ref=rss)
+### frankreich
 
-* [https://www.spiegel.de/wirtschaft/akw-kruemmel-schleswig-holstein-genehmigt-abriss](https://www.spiegel.de/wirtschaft/akw-kruemmel-schleswig-holstein-genehmigt-abriss-a-67e1e256-5d10-4604-9e07-c7228e8d4987#ref=rss)
-### etwas
+* [https://www.spiegel.de/auto/deutschlandticket-junge-menschen-koennen-einfacher-nach-frankreich-reisen](https://www.spiegel.de/auto/deutschlandticket-junge-menschen-koennen-einfacher-nach-frankreich-reisen-a-31463d20-0851-4996-ab65-b4b25534e943#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/frankreich-konzernchefs-kuschen-vor-dem-rassemblement-national](https://www.spiegel.de/wirtschaft/unternehmen/frankreich-konzernchefs-kuschen-vor-dem-rassemblement-national-a-95717e05-78b6-43d3-b82f-43c6d2aba68f#ref=rss)
+### unter
 
-* [https://www.spiegel.de/wirtschaft/akw-kruemmel-schleswig-holstein-genehmigt-abriss](https://www.spiegel.de/wirtschaft/akw-kruemmel-schleswig-holstein-genehmigt-abriss-a-67e1e256-5d10-4604-9e07-c7228e8d4987#ref=rss)
-* [https://www.spiegel.de/kultur/kino/star-wars-lucasfilm-kreativchef-dave-filoni-denkt-ueber-version-fuer-erwachsene-nach](https://www.spiegel.de/kultur/kino/star-wars-lucasfilm-kreativchef-dave-filoni-denkt-ueber-version-fuer-erwachsene-nach-a-70ecaacd-623b-497a-a0ec-07954d6efef7#ref=rss)
-### heat
+* [https://www.spiegel.de/auto/deutschlandticket-junge-menschen-koennen-einfacher-nach-frankreich-reisen](https://www.spiegel.de/auto/deutschlandticket-junge-menschen-koennen-einfacher-nach-frankreich-reisen-a-31463d20-0851-4996-ab65-b4b25534e943#ref=rss)
+* [https://www.spiegel.de/kultur/musik/kendrick-lamar-spielt-auf-konzert-mindestens-fuenfmal-denselben-song-wegen-beef-mit-drake](https://www.spiegel.de/kultur/musik/kendrick-lamar-spielt-auf-konzert-mindestens-fuenfmal-denselben-song-wegen-beef-mit-drake-a-57e9ef80-9e67-4a81-a7b9-190e655492eb#ref=rss)
+### spieler
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-leopard-2-panzer-heat-dome-katrin-goering-eckardt](https://www.spiegel.de/politik/deutschland/news-des-tages-leopard-2-panzer-heat-dome-katrin-goering-eckardt-a-8d700a78-f2c8-41cf-a7be-6c932b09df1b#ref=rss)
-### dome
+* [https://www.spiegel.de/sport/em-2024-unterschaetzte-kunst-die-eigentore-bei-der-em](https://www.spiegel.de/sport/em-2024-unterschaetzte-kunst-die-eigentore-bei-der-em-a-7e008735-dc62-4d97-9868-f6501390ff63#ref=rss)
+* [https://www.spiegel.de/sport/em-2024-warum-ein-spieler-ploetzlich-im-tor-verschwindet](https://www.spiegel.de/sport/em-2024-warum-ein-spieler-ploetzlich-im-tor-verschwindet-a-6eebb4f6-e579-4b3e-b85e-6eb3322a2792#ref=rss)
+### familie
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-leopard-2-panzer-heat-dome-katrin-goering-eckardt](https://www.spiegel.de/politik/deutschland/news-des-tages-leopard-2-panzer-heat-dome-katrin-goering-eckardt-a-8d700a78-f2c8-41cf-a7be-6c932b09df1b#ref=rss)
-### katrin
+* [https://www.spiegel.de/panorama/leute/prinz-william-wird-42-familie-gratuliert-mit-besonderen-fotos](https://www.spiegel.de/panorama/leute/prinz-william-wird-42-familie-gratuliert-mit-besonderen-fotos-a-7ceded70-33ad-46a2-8ad9-12c033cf0e58#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/kroatien-kind-bei-explosion-im-urlaub-getoetet-vater-festgenommen](https://www.spiegel.de/panorama/justiz/kroatien-kind-bei-explosion-im-urlaub-getoetet-vater-festgenommen-a-ca399c58-c77f-4225-9148-d760f2ec6f0c#ref=rss)
+### lamar
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-leopard-2-panzer-heat-dome-katrin-goering-eckardt](https://www.spiegel.de/politik/deutschland/news-des-tages-leopard-2-panzer-heat-dome-katrin-goering-eckardt-a-8d700a78-f2c8-41cf-a7be-6c932b09df1b#ref=rss)
-### usa
+* [https://www.spiegel.de/kultur/musik/kendrick-lamar-spielt-auf-konzert-mindestens-fuenfmal-denselben-song-wegen-beef-mit-drake](https://www.spiegel.de/kultur/musik/kendrick-lamar-spielt-auf-konzert-mindestens-fuenfmal-denselben-song-wegen-beef-mit-drake-a-57e9ef80-9e67-4a81-a7b9-190e655492eb#ref=rss)
+### trump
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-leopard-2-panzer-heat-dome-katrin-goering-eckardt](https://www.spiegel.de/politik/deutschland/news-des-tages-leopard-2-panzer-heat-dome-katrin-goering-eckardt-a-8d700a78-f2c8-41cf-a7be-6c932b09df1b#ref=rss)
-* [https://www.spiegel.de/ausland/rotes-meer-huthi-milizen-greifen-griechischen-frachter-an-schiff-sinkt-nach-explosionen](https://www.spiegel.de/ausland/rotes-meer-huthi-milizen-greifen-griechischen-frachter-an-schiff-sinkt-nach-explosionen-a-df79a630-79e7-49e6-bead-30d06a9877bf#ref=rss)
-### gesine
+* [https://www.spiegel.de/panorama/bildung/donald-trump-will-auslaendischen-studierenden-an-us-unis-greencard-anbieten-mit-hintergedanken](https://www.spiegel.de/panorama/bildung/donald-trump-will-auslaendischen-studierenden-an-us-unis-greencard-anbieten-mit-hintergedanken-a-40c40436-0802-4a4f-9829-cf84f712661e#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-ex-berater-steve-bannon-scheitert-mit-berufung-gegen-haftstrafe](https://www.spiegel.de/ausland/donald-trump-ex-berater-steve-bannon-scheitert-mit-berufung-gegen-haftstrafe-a-b9ef8660-0d33-4c01-9abf-31ada035a710#ref=rss)
+### plötzlich
 
-* [https://www.spiegel.de/politik/deutschland/gesine-loetzsch-linkenabgeordnete-kandidiert-nicht-mehr](https://www.spiegel.de/politik/deutschland/gesine-loetzsch-linkenabgeordnete-kandidiert-nicht-mehr-a-7f9dc558-1904-4f3a-ab63-818ddc2ef3f0#ref=rss)
-### lötzsch
+* [https://www.spiegel.de/panorama/bildung/donald-trump-will-auslaendischen-studierenden-an-us-unis-greencard-anbieten-mit-hintergedanken](https://www.spiegel.de/panorama/bildung/donald-trump-will-auslaendischen-studierenden-an-us-unis-greencard-anbieten-mit-hintergedanken-a-40c40436-0802-4a4f-9829-cf84f712661e#ref=rss)
+* [https://www.spiegel.de/sport/em-2024-warum-ein-spieler-ploetzlich-im-tor-verschwindet](https://www.spiegel.de/sport/em-2024-warum-ein-spieler-ploetzlich-im-tor-verschwindet-a-6eebb4f6-e579-4b3e-b85e-6eb3322a2792#ref=rss)
+### innenminister
 
-* [https://www.spiegel.de/politik/deutschland/gesine-loetzsch-linkenabgeordnete-kandidiert-nicht-mehr](https://www.spiegel.de/politik/deutschland/gesine-loetzsch-linkenabgeordnete-kandidiert-nicht-mehr-a-7f9dc558-1904-4f3a-ab63-818ddc2ef3f0#ref=rss)
-### linkenabgeordnete
+* [https://www.spiegel.de/panorama/justiz/gera-thueringen-kinder-filmen-gewalttat-gegen-14-jaehrigen-polizei-ermittelt-tatverdaechtige](https://www.spiegel.de/panorama/justiz/gera-thueringen-kinder-filmen-gewalttat-gegen-14-jaehrigen-polizei-ermittelt-tatverdaechtige-a-de2811ab-f73a-49b8-be81-ab1b87601fc4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kalifat-anhaenger-innenminister-fordern-schaerfere-strafen](https://www.spiegel.de/politik/deutschland/kalifat-anhaenger-innenminister-fordern-schaerfere-strafen-a-ac4df187-89aa-4d95-b5f2-c52754b6b8fb#ref=rss)
+### lindner
 
-* [https://www.spiegel.de/politik/deutschland/gesine-loetzsch-linkenabgeordnete-kandidiert-nicht-mehr](https://www.spiegel.de/politik/deutschland/gesine-loetzsch-linkenabgeordnete-kandidiert-nicht-mehr-a-7f9dc558-1904-4f3a-ab63-818ddc2ef3f0#ref=rss)
-### viele
+* [https://www.spiegel.de/wirtschaft/bundeshaushalt-2025-christian-lindner-verschafft-sich-milliarden-spielraum](https://www.spiegel.de/wirtschaft/bundeshaushalt-2025-christian-lindner-verschafft-sich-milliarden-spielraum-a-c1367c42-af34-4989-b535-ee3d18451f0a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/saskia-esken-attestiert-christian-lindner-historischen-fehler](https://www.spiegel.de/politik/deutschland/saskia-esken-attestiert-christian-lindner-historischen-fehler-a-10a913b7-ee8e-46bc-9ace-525c1f84544d#ref=rss)
+### slowakei
 
-* [https://www.spiegel.de/psychologie/sommersonnenwende-mehr-licht-bitte-nicht](https://www.spiegel.de/psychologie/sommersonnenwende-mehr-licht-bitte-nicht-a-3429237d-7d77-4ab3-8813-09634a52b335#ref=rss)
-* [https://www.spiegel.de/kultur/kino/star-wars-lucasfilm-kreativchef-dave-filoni-denkt-ueber-version-fuer-erwachsene-nach](https://www.spiegel.de/kultur/kino/star-wars-lucasfilm-kreativchef-dave-filoni-denkt-ueber-version-fuer-erwachsene-nach-a-70ecaacd-623b-497a-a0ec-07954d6efef7#ref=rss)
-### worte
+* [https://www.spiegel.de/sport/em-2024-warum-ein-spieler-ploetzlich-im-tor-verschwindet](https://www.spiegel.de/sport/em-2024-warum-ein-spieler-ploetzlich-im-tor-verschwindet-a-6eebb4f6-e579-4b3e-b85e-6eb3322a2792#ref=rss)
+* [https://www.spiegel.de/ausland/slowakei-loest-oeffentlich-rechtliche-sendeanstalt-auf](https://www.spiegel.de/ausland/slowakei-loest-oeffentlich-rechtliche-sendeanstalt-auf-a-44223a4b-af4b-4d9c-89b3-4d35189b7073#ref=rss)
+### bystron
 
-* [https://www.spiegel.de/psychologie/sommersonnenwende-mehr-licht-bitte-nicht](https://www.spiegel.de/psychologie/sommersonnenwende-mehr-licht-bitte-nicht-a-3429237d-7d77-4ab3-8813-09634a52b335#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/bildung-initiative-bildungswende-jetzt-richtet-forderungen-an-olaf-scholz](https://www.spiegel.de/panorama/bildung/bildung-initiative-bildungswende-jetzt-richtet-forderungen-an-olaf-scholz-a-55a63894-8702-4d29-9df7-9d4115ff462c#ref=rss)
-### meer
+* [https://www.spiegel.de/politik/deutschland/petr-bystron-zoll-ging-geldwaesche-verdacht-gegen-afd-politiker-nicht-nach](https://www.spiegel.de/politik/deutschland/petr-bystron-zoll-ging-geldwaesche-verdacht-gegen-afd-politiker-nicht-nach-a-704e7ba4-0ae4-4239-8fae-eb8d047c1595#ref=rss)
+### spiegelinformationen
 
-* [https://www.spiegel.de/ausland/rotes-meer-huthi-milizen-greifen-griechischen-frachter-an-schiff-sinkt-nach-explosionen](https://www.spiegel.de/ausland/rotes-meer-huthi-milizen-greifen-griechischen-frachter-an-schiff-sinkt-nach-explosionen-a-df79a630-79e7-49e6-bead-30d06a9877bf#ref=rss)
-### griechischen
+* [https://www.spiegel.de/politik/deutschland/petr-bystron-zoll-ging-geldwaesche-verdacht-gegen-afd-politiker-nicht-nach](https://www.spiegel.de/politik/deutschland/petr-bystron-zoll-ging-geldwaesche-verdacht-gegen-afd-politiker-nicht-nach-a-704e7ba4-0ae4-4239-8fae-eb8d047c1595#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kalifat-anhaenger-innenminister-fordern-schaerfere-strafen](https://www.spiegel.de/politik/deutschland/kalifat-anhaenger-innenminister-fordern-schaerfere-strafen-a-ac4df187-89aa-4d95-b5f2-c52754b6b8fb#ref=rss)
+### wichtige
 
-* [https://www.spiegel.de/ausland/rotes-meer-huthi-milizen-greifen-griechischen-frachter-an-schiff-sinkt-nach-explosionen](https://www.spiegel.de/ausland/rotes-meer-huthi-milizen-greifen-griechischen-frachter-an-schiff-sinkt-nach-explosionen-a-df79a630-79e7-49e6-bead-30d06a9877bf#ref=rss)
-### knapp
+* [https://www.spiegel.de/politik/deutschland/petr-bystron-zoll-ging-geldwaesche-verdacht-gegen-afd-politiker-nicht-nach](https://www.spiegel.de/politik/deutschland/petr-bystron-zoll-ging-geldwaesche-verdacht-gegen-afd-politiker-nicht-nach-a-704e7ba4-0ae4-4239-8fae-eb8d047c1595#ref=rss)
+* [https://www.spiegel.de/wissenschaft/puerto-rico-hurrikan-hat-freundlichere-makaken-zur-folge](https://www.spiegel.de/wissenschaft/puerto-rico-hurrikan-hat-freundlichere-makaken-zur-folge-a-8c807031-3445-4396-bb7a-10c69d1bdd56#ref=rss)
+### kolumne
 
-* [https://www.spiegel.de/panorama/justiz/berlin-betonklotz-aus-hochhaus-in-spandau-geworfen-frau-knapp-verfehlt](https://www.spiegel.de/panorama/justiz/berlin-betonklotz-aus-hochhaus-in-spandau-geworfen-frau-knapp-verfehlt-a-a2f060b3-903d-4bec-8d57-1d5c56702c71#ref=rss)
-### balkon
+* [https://www.spiegel.de/politik/deutschland/abschiebung-von-straftaetern-annalena-baerbocks-afghanistanmaerchen-kolumne](https://www.spiegel.de/politik/deutschland/abschiebung-von-straftaetern-annalena-baerbocks-afghanistanmaerchen-kolumne-a-dc44028a-a79b-471b-a47a-21f420adf561#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/robert-habecks-familiengeheimnis-kolumne](https://www.spiegel.de/politik/deutschland/robert-habecks-familiengeheimnis-kolumne-a-2e980f56-1888-444e-b9e4-9a3d52f376c8#ref=rss)
+### 14jährigen
 
-* [https://www.spiegel.de/panorama/justiz/berlin-betonklotz-aus-hochhaus-in-spandau-geworfen-frau-knapp-verfehlt](https://www.spiegel.de/panorama/justiz/berlin-betonklotz-aus-hochhaus-in-spandau-geworfen-frau-knapp-verfehlt-a-a2f060b3-903d-4bec-8d57-1d5c56702c71#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/duesseldorf-rentnerin-muss-450-euro-zahlen-weil-sie-eine-katze-vom-balkon-stiess](https://www.spiegel.de/panorama/justiz/duesseldorf-rentnerin-muss-450-euro-zahlen-weil-sie-eine-katze-vom-balkon-stiess-a-9c8a42e5-1e56-4eab-82c4-f874d02239a2#ref=rss)
-### geburtenrate
+* [https://www.spiegel.de/politik/deutschland/abschiebung-von-straftaetern-annalena-baerbocks-afghanistanmaerchen-kolumne](https://www.spiegel.de/politik/deutschland/abschiebung-von-straftaetern-annalena-baerbocks-afghanistanmaerchen-kolumne-a-dc44028a-a79b-471b-a47a-21f420adf561#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gera-thueringen-kinder-filmen-gewalttat-gegen-14-jaehrigen-polizei-ermittelt-tatverdaechtige](https://www.spiegel.de/panorama/justiz/gera-thueringen-kinder-filmen-gewalttat-gegen-14-jaehrigen-polizei-ermittelt-tatverdaechtige-a-de2811ab-f73a-49b8-be81-ab1b87601fc4#ref=rss)
+### gespräch
 
-* [https://www.spiegel.de/wissenschaft/mensch/geburtenrate-in-oecd-staaten-hat-sich-innerhalb-von-60-jahren-halbiert](https://www.spiegel.de/wissenschaft/mensch/geburtenrate-in-oecd-staaten-hat-sich-innerhalb-von-60-jahren-halbiert-a-eac0eb22-a599-4e21-aef0-216be61a3307#ref=rss)
-### 33
+* [https://www.spiegel.de/politik/deutschland/robert-habecks-familiengeheimnis-kolumne](https://www.spiegel.de/politik/deutschland/robert-habecks-familiengeheimnis-kolumne-a-2e980f56-1888-444e-b9e4-9a3d52f376c8#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/donald-trump-will-auslaendischen-studierenden-an-us-unis-greencard-anbieten-mit-hintergedanken](https://www.spiegel.de/panorama/bildung/donald-trump-will-auslaendischen-studierenden-an-us-unis-greencard-anbieten-mit-hintergedanken-a-40c40436-0802-4a4f-9829-cf84f712661e#ref=rss)
+### deutschlandticket
 
-* [https://www.spiegel.de/wissenschaft/mensch/geburtenrate-in-oecd-staaten-hat-sich-innerhalb-von-60-jahren-halbiert](https://www.spiegel.de/wissenschaft/mensch/geburtenrate-in-oecd-staaten-hat-sich-innerhalb-von-60-jahren-halbiert-a-eac0eb22-a599-4e21-aef0-216be61a3307#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/sachsen-anhalt-lehrerin-verliert-streit-ueber-zusaetzliche-pflichtstunde-kuendigung-ist-rechtens](https://www.spiegel.de/panorama/bildung/sachsen-anhalt-lehrerin-verliert-streit-ueber-zusaetzliche-pflichtstunde-kuendigung-ist-rechtens-a-159fb369-579e-40d0-9344-c7a1d3a4b2b3#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/wissenschaft/mensch/geburtenrate-in-oecd-staaten-hat-sich-innerhalb-von-60-jahren-halbiert](https://www.spiegel.de/wissenschaft/mensch/geburtenrate-in-oecd-staaten-hat-sich-innerhalb-von-60-jahren-halbiert-a-eac0eb22-a599-4e21-aef0-216be61a3307#ref=rss)
-* [https://www.spiegel.de/ausland/is-in-syrien-was-wird-aus-den-kindern-des-islamischen-staates](https://www.spiegel.de/ausland/is-in-syrien-was-wird-aus-den-kindern-des-islamischen-staates-a-451d378c-baf6-48ae-8d97-9cb04f48e293#ref=rss)
-### unterstützen
-
-* [https://www.spiegel.de/wissenschaft/mensch/geburtenrate-in-oecd-staaten-hat-sich-innerhalb-von-60-jahren-halbiert](https://www.spiegel.de/wissenschaft/mensch/geburtenrate-in-oecd-staaten-hat-sich-innerhalb-von-60-jahren-halbiert-a-eac0eb22-a599-4e21-aef0-216be61a3307#ref=rss)
-* [https://www.spiegel.de/ausland/suedkorea-erwaegt-waffenlieferungen-an-ukraine](https://www.spiegel.de/ausland/suedkorea-erwaegt-waffenlieferungen-an-ukraine-a-1285618c-26fa-451e-823a-07b5596cea7a#ref=rss)
-### sachsenanhalt
-
-* [https://www.spiegel.de/panorama/bildung/sachsen-anhalt-lehrerin-verliert-streit-ueber-zusaetzliche-pflichtstunde-kuendigung-ist-rechtens](https://www.spiegel.de/panorama/bildung/sachsen-anhalt-lehrerin-verliert-streit-ueber-zusaetzliche-pflichtstunde-kuendigung-ist-rechtens-a-159fb369-579e-40d0-9344-c7a1d3a4b2b3#ref=rss)
-### lehrerin
-
-* [https://www.spiegel.de/panorama/bildung/sachsen-anhalt-lehrerin-verliert-streit-ueber-zusaetzliche-pflichtstunde-kuendigung-ist-rechtens](https://www.spiegel.de/panorama/bildung/sachsen-anhalt-lehrerin-verliert-streit-ueber-zusaetzliche-pflichtstunde-kuendigung-ist-rechtens-a-159fb369-579e-40d0-9344-c7a1d3a4b2b3#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/panorama/bildung/sachsen-anhalt-lehrerin-verliert-streit-ueber-zusaetzliche-pflichtstunde-kuendigung-ist-rechtens](https://www.spiegel.de/panorama/bildung/sachsen-anhalt-lehrerin-verliert-streit-ueber-zusaetzliche-pflichtstunde-kuendigung-ist-rechtens-a-159fb369-579e-40d0-9344-c7a1d3a4b2b3#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/duesseldorf-rentnerin-muss-450-euro-zahlen-weil-sie-eine-katze-vom-balkon-stiess](https://www.spiegel.de/panorama/justiz/duesseldorf-rentnerin-muss-450-euro-zahlen-weil-sie-eine-katze-vom-balkon-stiess-a-9c8a42e5-1e56-4eab-82c4-f874d02239a2#ref=rss)
-### star
-
-* [https://www.spiegel.de/kultur/kino/star-wars-lucasfilm-kreativchef-dave-filoni-denkt-ueber-version-fuer-erwachsene-nach](https://www.spiegel.de/kultur/kino/star-wars-lucasfilm-kreativchef-dave-filoni-denkt-ueber-version-fuer-erwachsene-nach-a-70ecaacd-623b-497a-a0ec-07954d6efef7#ref=rss)
-### dave
-
-* [https://www.spiegel.de/kultur/kino/star-wars-lucasfilm-kreativchef-dave-filoni-denkt-ueber-version-fuer-erwachsene-nach](https://www.spiegel.de/kultur/kino/star-wars-lucasfilm-kreativchef-dave-filoni-denkt-ueber-version-fuer-erwachsene-nach-a-70ecaacd-623b-497a-a0ec-07954d6efef7#ref=rss)
-### filoni
-
-* [https://www.spiegel.de/kultur/kino/star-wars-lucasfilm-kreativchef-dave-filoni-denkt-ueber-version-fuer-erwachsene-nach](https://www.spiegel.de/kultur/kino/star-wars-lucasfilm-kreativchef-dave-filoni-denkt-ueber-version-fuer-erwachsene-nach-a-70ecaacd-623b-497a-a0ec-07954d6efef7#ref=rss)
+* [https://www.spiegel.de/auto/deutschlandticket-junge-menschen-koennen-einfacher-nach-frankreich-reisen](https://www.spiegel.de/auto/deutschlandticket-junge-menschen-koennen-einfacher-nach-frankreich-reisen-a-31463d20-0851-4996-ab65-b4b25534e943#ref=rss)
 ### allerdings
 
-* [https://www.spiegel.de/kultur/kino/star-wars-lucasfilm-kreativchef-dave-filoni-denkt-ueber-version-fuer-erwachsene-nach](https://www.spiegel.de/kultur/kino/star-wars-lucasfilm-kreativchef-dave-filoni-denkt-ueber-version-fuer-erwachsene-nach-a-70ecaacd-623b-497a-a0ec-07954d6efef7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bund-laender-treffen-ministerpraesidenten-stecken-position-zu-bezahlkarte-fuer-fluechtlinge-ab](https://www.spiegel.de/politik/deutschland/bund-laender-treffen-ministerpraesidenten-stecken-position-zu-bezahlkarte-fuer-fluechtlinge-ab-a-9df75314-b7e5-4fd4-9345-756c0e39647a#ref=rss)
-### israel
+* [https://www.spiegel.de/auto/deutschlandticket-junge-menschen-koennen-einfacher-nach-frankreich-reisen](https://www.spiegel.de/auto/deutschlandticket-junge-menschen-koennen-einfacher-nach-frankreich-reisen-a-31463d20-0851-4996-ab65-b4b25534e943#ref=rss)
+* [https://www.spiegel.de/panorama/leute/prinz-william-wird-42-familie-gratuliert-mit-besonderen-fotos](https://www.spiegel.de/panorama/leute/prinz-william-wird-42-familie-gratuliert-mit-besonderen-fotos-a-7ceded70-33ad-46a2-8ad9-12c033cf0e58#ref=rss)
+### alexa
 
-* [https://www.spiegel.de/wissenschaft/israel-mehr-als-3000-jahre-altes-schiffswrack-im-mittelmeer-entdeckt](https://www.spiegel.de/wissenschaft/israel-mehr-als-3000-jahre-altes-schiffswrack-im-mittelmeer-entdeckt-a-aa72f309-1baa-46c6-9cc3-6b55ceeb5030#ref=rss)
-### katze
+* [https://www.spiegel.de/netzwelt/gadgets/amazon-will-alexa-offenbar-teilweise-kostenpflichtig-machen](https://www.spiegel.de/netzwelt/gadgets/amazon-will-alexa-offenbar-teilweise-kostenpflichtig-machen-a-7f2b1664-a3f7-4014-93d8-44f6df2b73d6#ref=rss)
+### nächste
 
-* [https://www.spiegel.de/panorama/justiz/duesseldorf-rentnerin-muss-450-euro-zahlen-weil-sie-eine-katze-vom-balkon-stiess](https://www.spiegel.de/panorama/justiz/duesseldorf-rentnerin-muss-450-euro-zahlen-weil-sie-eine-katze-vom-balkon-stiess-a-9c8a42e5-1e56-4eab-82c4-f874d02239a2#ref=rss)
-### stürzte
+* [https://www.spiegel.de/netzwelt/gadgets/amazon-will-alexa-offenbar-teilweise-kostenpflichtig-machen](https://www.spiegel.de/netzwelt/gadgets/amazon-will-alexa-offenbar-teilweise-kostenpflichtig-machen-a-7f2b1664-a3f7-4014-93d8-44f6df2b73d6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bundeshaushalt-2025-christian-lindner-verschafft-sich-milliarden-spielraum](https://www.spiegel.de/wirtschaft/bundeshaushalt-2025-christian-lindner-verschafft-sich-milliarden-spielraum-a-c1367c42-af34-4989-b535-ee3d18451f0a#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/panorama/justiz/duesseldorf-rentnerin-muss-450-euro-zahlen-weil-sie-eine-katze-vom-balkon-stiess](https://www.spiegel.de/panorama/justiz/duesseldorf-rentnerin-muss-450-euro-zahlen-weil-sie-eine-katze-vom-balkon-stiess-a-9c8a42e5-1e56-4eab-82c4-f874d02239a2#ref=rss)
-* [https://www.spiegel.de/sport/olympia/katie-archibald-unfall-im-garten-britische-rad-olympiasiegerin-fehlt-in-paris](https://www.spiegel.de/sport/olympia/katie-archibald-unfall-im-garten-britische-rad-olympiasiegerin-fehlt-in-paris-a-dd462fe2-b5b1-4c39-9a17-f83b80692a32#ref=rss)
-### fünften
+* [https://www.spiegel.de/netzwelt/gadgets/amazon-will-alexa-offenbar-teilweise-kostenpflichtig-machen](https://www.spiegel.de/netzwelt/gadgets/amazon-will-alexa-offenbar-teilweise-kostenpflichtig-machen-a-7f2b1664-a3f7-4014-93d8-44f6df2b73d6#ref=rss)
+* [https://www.spiegel.de/panorama/flughafen-muenchen-polizei-unterbindet-sexuelle-handlungen-von-paar](https://www.spiegel.de/panorama/flughafen-muenchen-polizei-unterbindet-sexuelle-handlungen-von-paar-a-3a3310a9-4fee-4a6a-b33c-97fb87349917#ref=rss)
+### jérôme
 
-* [https://www.spiegel.de/panorama/justiz/duesseldorf-rentnerin-muss-450-euro-zahlen-weil-sie-eine-katze-vom-balkon-stiess](https://www.spiegel.de/panorama/justiz/duesseldorf-rentnerin-muss-450-euro-zahlen-weil-sie-eine-katze-vom-balkon-stiess-a-9c8a42e5-1e56-4eab-82c4-f874d02239a2#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2024-serbien-erkaempft-unentschieden-gegen-slowenien-in-letzter-minute](https://www.spiegel.de/sport/fussball/em-2024-serbien-erkaempft-unentschieden-gegen-slowenien-in-letzter-minute-a-930dd398-4753-49d9-9dac-54767072b71b#ref=rss)
-### instagram
+* [https://www.spiegel.de/panorama/justiz/jerome-boateng-ex-freundin-erhebt-vor-gericht-erneut-vorwuerfe-gegen-fussballprofi](https://www.spiegel.de/panorama/justiz/jerome-boateng-ex-freundin-erhebt-vor-gericht-erneut-vorwuerfe-gegen-fussballprofi-a-f7990ab7-daa3-4b6c-ac39-5bd3d1607548#ref=rss)
+### boateng
 
-* [https://www.spiegel.de/netzwelt/apps/instagram-schlaegt-13-jaehrigen-offenbar-anzuegliche-videos-vor](https://www.spiegel.de/netzwelt/apps/instagram-schlaegt-13-jaehrigen-offenbar-anzuegliche-videos-vor-a-c6b6fc38-f774-4b59-9356-618bb31c8b06#ref=rss)
-### videos
+* [https://www.spiegel.de/panorama/justiz/jerome-boateng-ex-freundin-erhebt-vor-gericht-erneut-vorwuerfe-gegen-fussballprofi](https://www.spiegel.de/panorama/justiz/jerome-boateng-ex-freundin-erhebt-vor-gericht-erneut-vorwuerfe-gegen-fussballprofi-a-f7990ab7-daa3-4b6c-ac39-5bd3d1607548#ref=rss)
+### exfreundin
 
-* [https://www.spiegel.de/netzwelt/apps/instagram-schlaegt-13-jaehrigen-offenbar-anzuegliche-videos-vor](https://www.spiegel.de/netzwelt/apps/instagram-schlaegt-13-jaehrigen-offenbar-anzuegliche-videos-vor-a-c6b6fc38-f774-4b59-9356-618bb31c8b06#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/jerome-boateng-ex-freundin-erhebt-vor-gericht-erneut-vorwuerfe-gegen-fussballprofi](https://www.spiegel.de/panorama/justiz/jerome-boateng-ex-freundin-erhebt-vor-gericht-erneut-vorwuerfe-gegen-fussballprofi-a-f7990ab7-daa3-4b6c-ac39-5bd3d1607548#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/panorama/justiz/jerome-boateng-ex-freundin-erhebt-vor-gericht-erneut-vorwuerfe-gegen-fussballprofi](https://www.spiegel.de/panorama/justiz/jerome-boateng-ex-freundin-erhebt-vor-gericht-erneut-vorwuerfe-gegen-fussballprofi-a-f7990ab7-daa3-4b6c-ac39-5bd3d1607548#ref=rss)
+### schlagen
+
+* [https://www.spiegel.de/panorama/justiz/jerome-boateng-ex-freundin-erhebt-vor-gericht-erneut-vorwuerfe-gegen-fussballprofi](https://www.spiegel.de/panorama/justiz/jerome-boateng-ex-freundin-erhebt-vor-gericht-erneut-vorwuerfe-gegen-fussballprofi-a-f7990ab7-daa3-4b6c-ac39-5bd3d1607548#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gera-thueringen-kinder-filmen-gewalttat-gegen-14-jaehrigen-polizei-ermittelt-tatverdaechtige](https://www.spiegel.de/panorama/justiz/gera-thueringen-kinder-filmen-gewalttat-gegen-14-jaehrigen-polizei-ermittelt-tatverdaechtige-a-de2811ab-f73a-49b8-be81-ab1b87601fc4#ref=rss)
+### prinz
+
+* [https://www.spiegel.de/panorama/leute/prinz-william-wird-42-familie-gratuliert-mit-besonderen-fotos](https://www.spiegel.de/panorama/leute/prinz-william-wird-42-familie-gratuliert-mit-besonderen-fotos-a-7ceded70-33ad-46a2-8ad9-12c033cf0e58#ref=rss)
+### william
+
+* [https://www.spiegel.de/panorama/leute/prinz-william-wird-42-familie-gratuliert-mit-besonderen-fotos](https://www.spiegel.de/panorama/leute/prinz-william-wird-42-familie-gratuliert-mit-besonderen-fotos-a-7ceded70-33ad-46a2-8ad9-12c033cf0e58#ref=rss)
+### gratuliert
+
+* [https://www.spiegel.de/panorama/leute/prinz-william-wird-42-familie-gratuliert-mit-besonderen-fotos](https://www.spiegel.de/panorama/leute/prinz-william-wird-42-familie-gratuliert-mit-besonderen-fotos-a-7ceded70-33ad-46a2-8ad9-12c033cf0e58#ref=rss)
 ### zeigt
 
-* [https://www.spiegel.de/netzwelt/apps/instagram-schlaegt-13-jaehrigen-offenbar-anzuegliche-videos-vor](https://www.spiegel.de/netzwelt/apps/instagram-schlaegt-13-jaehrigen-offenbar-anzuegliche-videos-vor-a-c6b6fc38-f774-4b59-9356-618bb31c8b06#ref=rss)
-* [https://www.spiegel.de/ausland/suedkorea-erwaegt-waffenlieferungen-an-ukraine](https://www.spiegel.de/ausland/suedkorea-erwaegt-waffenlieferungen-an-ukraine-a-1285618c-26fa-451e-823a-07b5596cea7a#ref=rss)
-### katie
+* [https://www.spiegel.de/panorama/leute/prinz-william-wird-42-familie-gratuliert-mit-besonderen-fotos](https://www.spiegel.de/panorama/leute/prinz-william-wird-42-familie-gratuliert-mit-besonderen-fotos-a-7ceded70-33ad-46a2-8ad9-12c033cf0e58#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimawandel-macht-toedliche-hitze-in-den-usa-und-in-mexiko-35-mal-wahrscheinlicher](https://www.spiegel.de/wissenschaft/klimawandel-macht-toedliche-hitze-in-den-usa-und-in-mexiko-35-mal-wahrscheinlicher-a-e6349545-c330-4e01-a2f3-58ccfc9a05dd#ref=rss)
+### kendrick
 
-* [https://www.spiegel.de/sport/olympia/katie-archibald-unfall-im-garten-britische-rad-olympiasiegerin-fehlt-in-paris](https://www.spiegel.de/sport/olympia/katie-archibald-unfall-im-garten-britische-rad-olympiasiegerin-fehlt-in-paris-a-dd462fe2-b5b1-4c39-9a17-f83b80692a32#ref=rss)
-### archibald
+* [https://www.spiegel.de/kultur/musik/kendrick-lamar-spielt-auf-konzert-mindestens-fuenfmal-denselben-song-wegen-beef-mit-drake](https://www.spiegel.de/kultur/musik/kendrick-lamar-spielt-auf-konzert-mindestens-fuenfmal-denselben-song-wegen-beef-mit-drake-a-57e9ef80-9e67-4a81-a7b9-190e655492eb#ref=rss)
+### spielt
 
-* [https://www.spiegel.de/sport/olympia/katie-archibald-unfall-im-garten-britische-rad-olympiasiegerin-fehlt-in-paris](https://www.spiegel.de/sport/olympia/katie-archibald-unfall-im-garten-britische-rad-olympiasiegerin-fehlt-in-paris-a-dd462fe2-b5b1-4c39-9a17-f83b80692a32#ref=rss)
-### garten
+* [https://www.spiegel.de/kultur/musik/kendrick-lamar-spielt-auf-konzert-mindestens-fuenfmal-denselben-song-wegen-beef-mit-drake](https://www.spiegel.de/kultur/musik/kendrick-lamar-spielt-auf-konzert-mindestens-fuenfmal-denselben-song-wegen-beef-mit-drake-a-57e9ef80-9e67-4a81-a7b9-190e655492eb#ref=rss)
+* [https://www.spiegel.de/sport/fussball/em-2024-englands-remis-gegen-daenemark-wie-eine-rockband-ohne-verstaerker](https://www.spiegel.de/sport/fussball/em-2024-englands-remis-gegen-daenemark-wie-eine-rockband-ohne-verstaerker-a-11b7c7f8-bb5f-49c8-9420-f83a8859b6a7#ref=rss)
+### mindestens
 
-* [https://www.spiegel.de/sport/olympia/katie-archibald-unfall-im-garten-britische-rad-olympiasiegerin-fehlt-in-paris](https://www.spiegel.de/sport/olympia/katie-archibald-unfall-im-garten-britische-rad-olympiasiegerin-fehlt-in-paris-a-dd462fe2-b5b1-4c39-9a17-f83b80692a32#ref=rss)
-### gehen
+* [https://www.spiegel.de/kultur/musik/kendrick-lamar-spielt-auf-konzert-mindestens-fuenfmal-denselben-song-wegen-beef-mit-drake](https://www.spiegel.de/kultur/musik/kendrick-lamar-spielt-auf-konzert-mindestens-fuenfmal-denselben-song-wegen-beef-mit-drake-a-57e9ef80-9e67-4a81-a7b9-190e655492eb#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimawandel-macht-toedliche-hitze-in-den-usa-und-in-mexiko-35-mal-wahrscheinlicher](https://www.spiegel.de/wissenschaft/klimawandel-macht-toedliche-hitze-in-den-usa-und-in-mexiko-35-mal-wahrscheinlicher-a-e6349545-c330-4e01-a2f3-58ccfc9a05dd#ref=rss)
+### drake
 
-* [https://www.spiegel.de/sport/olympia/katie-archibald-unfall-im-garten-britische-rad-olympiasiegerin-fehlt-in-paris](https://www.spiegel.de/sport/olympia/katie-archibald-unfall-im-garten-britische-rad-olympiasiegerin-fehlt-in-paris-a-dd462fe2-b5b1-4c39-9a17-f83b80692a32#ref=rss)
-* [https://www.spiegel.de/ausland/is-in-syrien-was-wird-aus-den-kindern-des-islamischen-staates](https://www.spiegel.de/ausland/is-in-syrien-was-wird-aus-den-kindern-des-islamischen-staates-a-451d378c-baf6-48ae-8d97-9cb04f48e293#ref=rss)
-### gewitter
+* [https://www.spiegel.de/kultur/musik/kendrick-lamar-spielt-auf-konzert-mindestens-fuenfmal-denselben-song-wegen-beef-mit-drake](https://www.spiegel.de/kultur/musik/kendrick-lamar-spielt-auf-konzert-mindestens-fuenfmal-denselben-song-wegen-beef-mit-drake-a-57e9ef80-9e67-4a81-a7b9-190e655492eb#ref=rss)
+### ausländischen
 
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-kachelmanns-prognose-fuer-die-naechsten-gewitter](https://www.spiegel.de/panorama/wetter-in-deutschland-kachelmanns-prognose-fuer-die-naechsten-gewitter-a-e084d1d9-5e05-430c-b8db-848b0cf2b461#ref=rss)
-### bezahlkarte
+* [https://www.spiegel.de/panorama/bildung/donald-trump-will-auslaendischen-studierenden-an-us-unis-greencard-anbieten-mit-hintergedanken](https://www.spiegel.de/panorama/bildung/donald-trump-will-auslaendischen-studierenden-an-us-unis-greencard-anbieten-mit-hintergedanken-a-40c40436-0802-4a4f-9829-cf84f712661e#ref=rss)
+### grund
 
-* [https://www.spiegel.de/politik/deutschland/bund-laender-treffen-ministerpraesidenten-stecken-position-zu-bezahlkarte-fuer-fluechtlinge-ab](https://www.spiegel.de/politik/deutschland/bund-laender-treffen-ministerpraesidenten-stecken-position-zu-bezahlkarte-fuer-fluechtlinge-ab-a-9df75314-b7e5-4fd4-9345-756c0e39647a#ref=rss)
-### bildung
+* [https://www.spiegel.de/panorama/bildung/donald-trump-will-auslaendischen-studierenden-an-us-unis-greencard-anbieten-mit-hintergedanken](https://www.spiegel.de/panorama/bildung/donald-trump-will-auslaendischen-studierenden-an-us-unis-greencard-anbieten-mit-hintergedanken-a-40c40436-0802-4a4f-9829-cf84f712661e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/sexualverhalten-in-der-tierwelt-haeufiger-gleichgeschlechtlicher-sex-als-studien-vermuten-lassen](https://www.spiegel.de/wissenschaft/sexualverhalten-in-der-tierwelt-haeufiger-gleichgeschlechtlicher-sex-als-studien-vermuten-lassen-a-0d6e60fc-2176-4fc5-b88e-da0860d82682#ref=rss)
+### sexualverhalten
 
-* [https://www.spiegel.de/panorama/bildung/bildung-initiative-bildungswende-jetzt-richtet-forderungen-an-olaf-scholz](https://www.spiegel.de/panorama/bildung/bildung-initiative-bildungswende-jetzt-richtet-forderungen-an-olaf-scholz-a-55a63894-8702-4d29-9df7-9d4115ff462c#ref=rss)
-### bildungswende
+* [https://www.spiegel.de/wissenschaft/sexualverhalten-in-der-tierwelt-haeufiger-gleichgeschlechtlicher-sex-als-studien-vermuten-lassen](https://www.spiegel.de/wissenschaft/sexualverhalten-in-der-tierwelt-haeufiger-gleichgeschlechtlicher-sex-als-studien-vermuten-lassen-a-0d6e60fc-2176-4fc5-b88e-da0860d82682#ref=rss)
+### tierwelt
 
-* [https://www.spiegel.de/panorama/bildung/bildung-initiative-bildungswende-jetzt-richtet-forderungen-an-olaf-scholz](https://www.spiegel.de/panorama/bildung/bildung-initiative-bildungswende-jetzt-richtet-forderungen-an-olaf-scholz-a-55a63894-8702-4d29-9df7-9d4115ff462c#ref=rss)
-### richtet
+* [https://www.spiegel.de/wissenschaft/sexualverhalten-in-der-tierwelt-haeufiger-gleichgeschlechtlicher-sex-als-studien-vermuten-lassen](https://www.spiegel.de/wissenschaft/sexualverhalten-in-der-tierwelt-haeufiger-gleichgeschlechtlicher-sex-als-studien-vermuten-lassen-a-0d6e60fc-2176-4fc5-b88e-da0860d82682#ref=rss)
+### vermuten
 
-* [https://www.spiegel.de/panorama/bildung/bildung-initiative-bildungswende-jetzt-richtet-forderungen-an-olaf-scholz](https://www.spiegel.de/panorama/bildung/bildung-initiative-bildungswende-jetzt-richtet-forderungen-an-olaf-scholz-a-55a63894-8702-4d29-9df7-9d4115ff462c#ref=rss)
-### olaf
+* [https://www.spiegel.de/wissenschaft/sexualverhalten-in-der-tierwelt-haeufiger-gleichgeschlechtlicher-sex-als-studien-vermuten-lassen](https://www.spiegel.de/wissenschaft/sexualverhalten-in-der-tierwelt-haeufiger-gleichgeschlechtlicher-sex-als-studien-vermuten-lassen-a-0d6e60fc-2176-4fc5-b88e-da0860d82682#ref=rss)
+### forschende
 
-* [https://www.spiegel.de/panorama/bildung/bildung-initiative-bildungswende-jetzt-richtet-forderungen-an-olaf-scholz](https://www.spiegel.de/panorama/bildung/bildung-initiative-bildungswende-jetzt-richtet-forderungen-an-olaf-scholz-a-55a63894-8702-4d29-9df7-9d4115ff462c#ref=rss)
-### scholz
+* [https://www.spiegel.de/wissenschaft/sexualverhalten-in-der-tierwelt-haeufiger-gleichgeschlechtlicher-sex-als-studien-vermuten-lassen](https://www.spiegel.de/wissenschaft/sexualverhalten-in-der-tierwelt-haeufiger-gleichgeschlechtlicher-sex-als-studien-vermuten-lassen-a-0d6e60fc-2176-4fc5-b88e-da0860d82682#ref=rss)
+* [https://www.spiegel.de/wissenschaft/puerto-rico-hurrikan-hat-freundlichere-makaken-zur-folge](https://www.spiegel.de/wissenschaft/puerto-rico-hurrikan-hat-freundlichere-makaken-zur-folge-a-8c807031-3445-4396-bb7a-10c69d1bdd56#ref=rss)
+### gera
 
-* [https://www.spiegel.de/panorama/bildung/bildung-initiative-bildungswende-jetzt-richtet-forderungen-an-olaf-scholz](https://www.spiegel.de/panorama/bildung/bildung-initiative-bildungswende-jetzt-richtet-forderungen-an-olaf-scholz-a-55a63894-8702-4d29-9df7-9d4115ff462c#ref=rss)
-### serbien
+* [https://www.spiegel.de/panorama/justiz/gera-thueringen-kinder-filmen-gewalttat-gegen-14-jaehrigen-polizei-ermittelt-tatverdaechtige](https://www.spiegel.de/panorama/justiz/gera-thueringen-kinder-filmen-gewalttat-gegen-14-jaehrigen-polizei-ermittelt-tatverdaechtige-a-de2811ab-f73a-49b8-be81-ab1b87601fc4#ref=rss)
+### kinder
 
-* [https://www.spiegel.de/sport/fussball/em-2024-serbien-erkaempft-unentschieden-gegen-slowenien-in-letzter-minute](https://www.spiegel.de/sport/fussball/em-2024-serbien-erkaempft-unentschieden-gegen-slowenien-in-letzter-minute-a-930dd398-4753-49d9-9dac-54767072b71b#ref=rss)
-### slowenien
+* [https://www.spiegel.de/panorama/justiz/gera-thueringen-kinder-filmen-gewalttat-gegen-14-jaehrigen-polizei-ermittelt-tatverdaechtige](https://www.spiegel.de/panorama/justiz/gera-thueringen-kinder-filmen-gewalttat-gegen-14-jaehrigen-polizei-ermittelt-tatverdaechtige-a-de2811ab-f73a-49b8-be81-ab1b87601fc4#ref=rss)
+### filmen
 
-* [https://www.spiegel.de/sport/fussball/em-2024-serbien-erkaempft-unentschieden-gegen-slowenien-in-letzter-minute](https://www.spiegel.de/sport/fussball/em-2024-serbien-erkaempft-unentschieden-gegen-slowenien-in-letzter-minute-a-930dd398-4753-49d9-9dac-54767072b71b#ref=rss)
-### minute
+* [https://www.spiegel.de/panorama/justiz/gera-thueringen-kinder-filmen-gewalttat-gegen-14-jaehrigen-polizei-ermittelt-tatverdaechtige](https://www.spiegel.de/panorama/justiz/gera-thueringen-kinder-filmen-gewalttat-gegen-14-jaehrigen-polizei-ermittelt-tatverdaechtige-a-de2811ab-f73a-49b8-be81-ab1b87601fc4#ref=rss)
+### ermittelt
 
-* [https://www.spiegel.de/sport/fussball/em-2024-serbien-erkaempft-unentschieden-gegen-slowenien-in-letzter-minute](https://www.spiegel.de/sport/fussball/em-2024-serbien-erkaempft-unentschieden-gegen-slowenien-in-letzter-minute-a-930dd398-4753-49d9-9dac-54767072b71b#ref=rss)
-### leben
+* [https://www.spiegel.de/panorama/justiz/gera-thueringen-kinder-filmen-gewalttat-gegen-14-jaehrigen-polizei-ermittelt-tatverdaechtige](https://www.spiegel.de/panorama/justiz/gera-thueringen-kinder-filmen-gewalttat-gegen-14-jaehrigen-polizei-ermittelt-tatverdaechtige-a-de2811ab-f73a-49b8-be81-ab1b87601fc4#ref=rss)
+### tatverdächtige
 
-* [https://www.spiegel.de/ausland/is-in-syrien-was-wird-aus-den-kindern-des-islamischen-staates](https://www.spiegel.de/ausland/is-in-syrien-was-wird-aus-den-kindern-des-islamischen-staates-a-451d378c-baf6-48ae-8d97-9cb04f48e293#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gera-thueringen-kinder-filmen-gewalttat-gegen-14-jaehrigen-polizei-ermittelt-tatverdaechtige](https://www.spiegel.de/panorama/justiz/gera-thueringen-kinder-filmen-gewalttat-gegen-14-jaehrigen-polizei-ermittelt-tatverdaechtige-a-de2811ab-f73a-49b8-be81-ab1b87601fc4#ref=rss)
+### video
+
+* [https://www.spiegel.de/panorama/justiz/gera-thueringen-kinder-filmen-gewalttat-gegen-14-jaehrigen-polizei-ermittelt-tatverdaechtige](https://www.spiegel.de/panorama/justiz/gera-thueringen-kinder-filmen-gewalttat-gegen-14-jaehrigen-polizei-ermittelt-tatverdaechtige-a-de2811ab-f73a-49b8-be81-ab1b87601fc4#ref=rss)
+* [https://www.spiegel.de/ausland/hadsch-nach-mekka-hunderte-hitzetote-waehrend-der-pilgerfahrt-video](https://www.spiegel.de/ausland/hadsch-nach-mekka-hunderte-hitzetote-waehrend-der-pilgerfahrt-video-a-855980fd-aca2-4059-9ec1-10a58d3fdf90#ref=rss)
+### bundeshaushalt
+
+* [https://www.spiegel.de/wirtschaft/bundeshaushalt-2025-christian-lindner-verschafft-sich-milliarden-spielraum](https://www.spiegel.de/wirtschaft/bundeshaushalt-2025-christian-lindner-verschafft-sich-milliarden-spielraum-a-c1367c42-af34-4989-b535-ee3d18451f0a#ref=rss)
+### 2025
+
+* [https://www.spiegel.de/wirtschaft/bundeshaushalt-2025-christian-lindner-verschafft-sich-milliarden-spielraum](https://www.spiegel.de/wirtschaft/bundeshaushalt-2025-christian-lindner-verschafft-sich-milliarden-spielraum-a-c1367c42-af34-4989-b535-ee3d18451f0a#ref=rss)
+### christian
+
+* [https://www.spiegel.de/wirtschaft/bundeshaushalt-2025-christian-lindner-verschafft-sich-milliarden-spielraum](https://www.spiegel.de/wirtschaft/bundeshaushalt-2025-christian-lindner-verschafft-sich-milliarden-spielraum-a-c1367c42-af34-4989-b535-ee3d18451f0a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/saskia-esken-attestiert-christian-lindner-historischen-fehler](https://www.spiegel.de/politik/deutschland/saskia-esken-attestiert-christian-lindner-historischen-fehler-a-10a913b7-ee8e-46bc-9ace-525c1f84544d#ref=rss)
+### finanzminister
+
+* [https://www.spiegel.de/wirtschaft/bundeshaushalt-2025-christian-lindner-verschafft-sich-milliarden-spielraum](https://www.spiegel.de/wirtschaft/bundeshaushalt-2025-christian-lindner-verschafft-sich-milliarden-spielraum-a-c1367c42-af34-4989-b535-ee3d18451f0a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/saskia-esken-attestiert-christian-lindner-historischen-fehler](https://www.spiegel.de/politik/deutschland/saskia-esken-attestiert-christian-lindner-historischen-fehler-a-10a913b7-ee8e-46bc-9ace-525c1f84544d#ref=rss)
+### konzernchefs
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/frankreich-konzernchefs-kuschen-vor-dem-rassemblement-national](https://www.spiegel.de/wirtschaft/unternehmen/frankreich-konzernchefs-kuschen-vor-dem-rassemblement-national-a-95717e05-78b6-43d3-b82f-43c6d2aba68f#ref=rss)
+### rassemblement
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/frankreich-konzernchefs-kuschen-vor-dem-rassemblement-national](https://www.spiegel.de/wirtschaft/unternehmen/frankreich-konzernchefs-kuschen-vor-dem-rassemblement-national-a-95717e05-78b6-43d3-b82f-43c6d2aba68f#ref=rss)
+### national
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/frankreich-konzernchefs-kuschen-vor-dem-rassemblement-national](https://www.spiegel.de/wirtschaft/unternehmen/frankreich-konzernchefs-kuschen-vor-dem-rassemblement-national-a-95717e05-78b6-43d3-b82f-43c6d2aba68f#ref=rss)
+### viele
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/frankreich-konzernchefs-kuschen-vor-dem-rassemblement-national](https://www.spiegel.de/wirtschaft/unternehmen/frankreich-konzernchefs-kuschen-vor-dem-rassemblement-national-a-95717e05-78b6-43d3-b82f-43c6d2aba68f#ref=rss)
+* [https://www.spiegel.de/ausland/hadsch-nach-mekka-hunderte-hitzetote-waehrend-der-pilgerfahrt-video](https://www.spiegel.de/ausland/hadsch-nach-mekka-hunderte-hitzetote-waehrend-der-pilgerfahrt-video-a-855980fd-aca2-4059-9ec1-10a58d3fdf90#ref=rss)
+### tor
+
+* [https://www.spiegel.de/sport/em-2024-warum-ein-spieler-ploetzlich-im-tor-verschwindet](https://www.spiegel.de/sport/em-2024-warum-ein-spieler-ploetzlich-im-tor-verschwindet-a-6eebb4f6-e579-4b3e-b85e-6eb3322a2792#ref=rss)
+### kroatien
+
+* [https://www.spiegel.de/panorama/justiz/kroatien-kind-bei-explosion-im-urlaub-getoetet-vater-festgenommen](https://www.spiegel.de/panorama/justiz/kroatien-kind-bei-explosion-im-urlaub-getoetet-vater-festgenommen-a-ca399c58-c77f-4225-9148-d760f2ec6f0c#ref=rss)
+### kind
+
+* [https://www.spiegel.de/panorama/justiz/kroatien-kind-bei-explosion-im-urlaub-getoetet-vater-festgenommen](https://www.spiegel.de/panorama/justiz/kroatien-kind-bei-explosion-im-urlaub-getoetet-vater-festgenommen-a-ca399c58-c77f-4225-9148-d760f2ec6f0c#ref=rss)
+### explosion
+
+* [https://www.spiegel.de/panorama/justiz/kroatien-kind-bei-explosion-im-urlaub-getoetet-vater-festgenommen](https://www.spiegel.de/panorama/justiz/kroatien-kind-bei-explosion-im-urlaub-getoetet-vater-festgenommen-a-ca399c58-c77f-4225-9148-d760f2ec6f0c#ref=rss)
+### italien
+
+* [https://www.spiegel.de/sport/fussball/em-2024-spanien-dominiert-italien-und-macht-sich-zum-topfavoriten](https://www.spiegel.de/sport/fussball/em-2024-spanien-dominiert-italien-und-macht-sich-zum-topfavoriten-a-60d21836-8125-46e6-a120-baa7c439c03e#ref=rss)
+### macht
+
+* [https://www.spiegel.de/sport/fussball/em-2024-spanien-dominiert-italien-und-macht-sich-zum-topfavoriten](https://www.spiegel.de/sport/fussball/em-2024-spanien-dominiert-italien-und-macht-sich-zum-topfavoriten-a-60d21836-8125-46e6-a120-baa7c439c03e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimawandel-macht-toedliche-hitze-in-den-usa-und-in-mexiko-35-mal-wahrscheinlicher](https://www.spiegel.de/wissenschaft/klimawandel-macht-toedliche-hitze-in-den-usa-und-in-mexiko-35-mal-wahrscheinlicher-a-e6349545-c330-4e01-a2f3-58ccfc9a05dd#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/sport/fussball/em-2024-spanien-dominiert-italien-und-macht-sich-zum-topfavoriten](https://www.spiegel.de/sport/fussball/em-2024-spanien-dominiert-italien-und-macht-sich-zum-topfavoriten-a-60d21836-8125-46e6-a120-baa7c439c03e#ref=rss)
+* [https://www.spiegel.de/ausland/hadsch-nach-mekka-hunderte-hitzetote-waehrend-der-pilgerfahrt-video](https://www.spiegel.de/ausland/hadsch-nach-mekka-hunderte-hitzetote-waehrend-der-pilgerfahrt-video-a-855980fd-aca2-4059-9ec1-10a58d3fdf90#ref=rss)
+### sir
+
+* [https://www.spiegel.de/kultur/musik/sir-simon-rattle-verehrt-juergen-klopp](https://www.spiegel.de/kultur/musik/sir-simon-rattle-verehrt-juergen-klopp-a-953a6570-fe9a-4a76-81fd-59547013c0d8#ref=rss)
+### simon
+
+* [https://www.spiegel.de/kultur/musik/sir-simon-rattle-verehrt-juergen-klopp](https://www.spiegel.de/kultur/musik/sir-simon-rattle-verehrt-juergen-klopp-a-953a6570-fe9a-4a76-81fd-59547013c0d8#ref=rss)
+### rattle
+
+* [https://www.spiegel.de/kultur/musik/sir-simon-rattle-verehrt-juergen-klopp](https://www.spiegel.de/kultur/musik/sir-simon-rattle-verehrt-juergen-klopp-a-953a6570-fe9a-4a76-81fd-59547013c0d8#ref=rss)
+### jürgen
+
+* [https://www.spiegel.de/kultur/musik/sir-simon-rattle-verehrt-juergen-klopp](https://www.spiegel.de/kultur/musik/sir-simon-rattle-verehrt-juergen-klopp-a-953a6570-fe9a-4a76-81fd-59547013c0d8#ref=rss)
+### klopp
+
+* [https://www.spiegel.de/kultur/musik/sir-simon-rattle-verehrt-juergen-klopp](https://www.spiegel.de/kultur/musik/sir-simon-rattle-verehrt-juergen-klopp-a-953a6570-fe9a-4a76-81fd-59547013c0d8#ref=rss)
+### hadsch
+
+* [https://www.spiegel.de/ausland/hadsch-nach-mekka-hunderte-hitzetote-waehrend-der-pilgerfahrt-video](https://www.spiegel.de/ausland/hadsch-nach-mekka-hunderte-hitzetote-waehrend-der-pilgerfahrt-video-a-855980fd-aca2-4059-9ec1-10a58d3fdf90#ref=rss)
+### hunderte
+
+* [https://www.spiegel.de/ausland/hadsch-nach-mekka-hunderte-hitzetote-waehrend-der-pilgerfahrt-video](https://www.spiegel.de/ausland/hadsch-nach-mekka-hunderte-hitzetote-waehrend-der-pilgerfahrt-video-a-855980fd-aca2-4059-9ec1-10a58d3fdf90#ref=rss)
+### hitzetote
+
+* [https://www.spiegel.de/ausland/hadsch-nach-mekka-hunderte-hitzetote-waehrend-der-pilgerfahrt-video](https://www.spiegel.de/ausland/hadsch-nach-mekka-hunderte-hitzetote-waehrend-der-pilgerfahrt-video-a-855980fd-aca2-4059-9ec1-10a58d3fdf90#ref=rss)
+### länder
+
+* [https://www.spiegel.de/ausland/hadsch-nach-mekka-hunderte-hitzetote-waehrend-der-pilgerfahrt-video](https://www.spiegel.de/ausland/hadsch-nach-mekka-hunderte-hitzetote-waehrend-der-pilgerfahrt-video-a-855980fd-aca2-4059-9ec1-10a58d3fdf90#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kalifat-anhaenger-innenminister-fordern-schaerfere-strafen](https://www.spiegel.de/politik/deutschland/kalifat-anhaenger-innenminister-fordern-schaerfere-strafen-a-ac4df187-89aa-4d95-b5f2-c52754b6b8fb#ref=rss)
+### kevin
+
+* [https://www.spiegel.de/kultur/tv/kevin-costner-will-nicht-zu-erfolgsserie-yellowstone-zurueckkehren](https://www.spiegel.de/kultur/tv/kevin-costner-will-nicht-zu-erfolgsserie-yellowstone-zurueckkehren-a-a2a97cba-09c9-4372-94e1-a0d142d62ba1#ref=rss)
+### costner
+
+* [https://www.spiegel.de/kultur/tv/kevin-costner-will-nicht-zu-erfolgsserie-yellowstone-zurueckkehren](https://www.spiegel.de/kultur/tv/kevin-costner-will-nicht-zu-erfolgsserie-yellowstone-zurueckkehren-a-a2a97cba-09c9-4372-94e1-a0d142d62ba1#ref=rss)
+### yellowstone
+
+* [https://www.spiegel.de/kultur/tv/kevin-costner-will-nicht-zu-erfolgsserie-yellowstone-zurueckkehren](https://www.spiegel.de/kultur/tv/kevin-costner-will-nicht-zu-erfolgsserie-yellowstone-zurueckkehren-a-a2a97cba-09c9-4372-94e1-a0d142d62ba1#ref=rss)
+### steve
+
+* [https://www.spiegel.de/ausland/donald-trump-ex-berater-steve-bannon-scheitert-mit-berufung-gegen-haftstrafe](https://www.spiegel.de/ausland/donald-trump-ex-berater-steve-bannon-scheitert-mit-berufung-gegen-haftstrafe-a-b9ef8660-0d33-4c01-9abf-31ada035a710#ref=rss)
+### bannon
+
+* [https://www.spiegel.de/ausland/donald-trump-ex-berater-steve-bannon-scheitert-mit-berufung-gegen-haftstrafe](https://www.spiegel.de/ausland/donald-trump-ex-berater-steve-bannon-scheitert-mit-berufung-gegen-haftstrafe-a-b9ef8660-0d33-4c01-9abf-31ada035a710#ref=rss)
+### berufung
+
+* [https://www.spiegel.de/ausland/donald-trump-ex-berater-steve-bannon-scheitert-mit-berufung-gegen-haftstrafe](https://www.spiegel.de/ausland/donald-trump-ex-berater-steve-bannon-scheitert-mit-berufung-gegen-haftstrafe-a-b9ef8660-0d33-4c01-9abf-31ada035a710#ref=rss)
+### sutherland
+
+* [https://www.spiegel.de/kultur/kino/zum-tod-von-donald-sutherland-der-mann-dem-alles-zuzutrauen-war-auch-das-schlimmste](https://www.spiegel.de/kultur/kino/zum-tod-von-donald-sutherland-der-mann-dem-alles-zuzutrauen-war-auch-das-schlimmste-a-4af039ba-bd5a-48c7-ad8b-a18acdb44968#ref=rss)
+### mann
+
+* [https://www.spiegel.de/kultur/kino/zum-tod-von-donald-sutherland-der-mann-dem-alles-zuzutrauen-war-auch-das-schlimmste](https://www.spiegel.de/kultur/kino/zum-tod-von-donald-sutherland-der-mann-dem-alles-zuzutrauen-war-auch-das-schlimmste-a-4af039ba-bd5a-48c7-ad8b-a18acdb44968#ref=rss)
+* [https://www.spiegel.de/panorama/bayern-mann-vergisst-26-000-euro-an-raststaette-und-bekommt-sie-zurueck](https://www.spiegel.de/panorama/bayern-mann-vergisst-26-000-euro-an-raststaette-und-bekommt-sie-zurueck-a-e254ebf5-2492-4b20-89e3-e659563c5bab#ref=rss)
+### vergangenen
+
+* [https://www.spiegel.de/kultur/kino/zum-tod-von-donald-sutherland-der-mann-dem-alles-zuzutrauen-war-auch-das-schlimmste](https://www.spiegel.de/kultur/kino/zum-tod-von-donald-sutherland-der-mann-dem-alles-zuzutrauen-war-auch-das-schlimmste-a-4af039ba-bd5a-48c7-ad8b-a18acdb44968#ref=rss)
+* [https://www.spiegel.de/sport/fussball/em-2024-englands-remis-gegen-daenemark-wie-eine-rockband-ohne-verstaerker](https://www.spiegel.de/sport/fussball/em-2024-englands-remis-gegen-daenemark-wie-eine-rockband-ohne-verstaerker-a-11b7c7f8-bb5f-49c8-9420-f83a8859b6a7#ref=rss)
+### denen
+
+* [https://www.spiegel.de/kultur/kino/zum-tod-von-donald-sutherland-der-mann-dem-alles-zuzutrauen-war-auch-das-schlimmste](https://www.spiegel.de/kultur/kino/zum-tod-von-donald-sutherland-der-mann-dem-alles-zuzutrauen-war-auch-das-schlimmste-a-4af039ba-bd5a-48c7-ad8b-a18acdb44968#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kalifat-anhaenger-innenminister-fordern-schaerfere-strafen](https://www.spiegel.de/politik/deutschland/kalifat-anhaenger-innenminister-fordern-schaerfere-strafen-a-ac4df187-89aa-4d95-b5f2-c52754b6b8fb#ref=rss)
+### hurrikan
+
+* [https://www.spiegel.de/wissenschaft/puerto-rico-hurrikan-hat-freundlichere-makaken-zur-folge](https://www.spiegel.de/wissenschaft/puerto-rico-hurrikan-hat-freundlichere-makaken-zur-folge-a-8c807031-3445-4396-bb7a-10c69d1bdd56#ref=rss)
+### klimawandel
+
+* [https://www.spiegel.de/wissenschaft/klimawandel-macht-toedliche-hitze-in-den-usa-und-in-mexiko-35-mal-wahrscheinlicher](https://www.spiegel.de/wissenschaft/klimawandel-macht-toedliche-hitze-in-den-usa-und-in-mexiko-35-mal-wahrscheinlicher-a-e6349545-c330-4e01-a2f3-58ccfc9a05dd#ref=rss)
+### mexiko
+
+* [https://www.spiegel.de/wissenschaft/klimawandel-macht-toedliche-hitze-in-den-usa-und-in-mexiko-35-mal-wahrscheinlicher](https://www.spiegel.de/wissenschaft/klimawandel-macht-toedliche-hitze-in-den-usa-und-in-mexiko-35-mal-wahrscheinlicher-a-e6349545-c330-4e01-a2f3-58ccfc9a05dd#ref=rss)
+### zuletzt
+
+* [https://www.spiegel.de/wissenschaft/klimawandel-macht-toedliche-hitze-in-den-usa-und-in-mexiko-35-mal-wahrscheinlicher](https://www.spiegel.de/wissenschaft/klimawandel-macht-toedliche-hitze-in-den-usa-und-in-mexiko-35-mal-wahrscheinlicher-a-e6349545-c330-4e01-a2f3-58ccfc9a05dd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kalifat-anhaenger-innenminister-fordern-schaerfere-strafen](https://www.spiegel.de/politik/deutschland/kalifat-anhaenger-innenminister-fordern-schaerfere-strafen-a-ac4df187-89aa-4d95-b5f2-c52754b6b8fb#ref=rss)
+### englands
+
+* [https://www.spiegel.de/sport/fussball/em-2024-englands-remis-gegen-daenemark-wie-eine-rockband-ohne-verstaerker](https://www.spiegel.de/sport/fussball/em-2024-englands-remis-gegen-daenemark-wie-eine-rockband-ohne-verstaerker-a-11b7c7f8-bb5f-49c8-9420-f83a8859b6a7#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/panorama/bayern-mann-vergisst-26-000-euro-an-raststaette-und-bekommt-sie-zurueck](https://www.spiegel.de/panorama/bayern-mann-vergisst-26-000-euro-an-raststaette-und-bekommt-sie-zurueck-a-e254ebf5-2492-4b20-89e3-e659563c5bab#ref=rss)
+### flughafen
+
+* [https://www.spiegel.de/panorama/flughafen-muenchen-polizei-unterbindet-sexuelle-handlungen-von-paar](https://www.spiegel.de/panorama/flughafen-muenchen-polizei-unterbindet-sexuelle-handlungen-von-paar-a-3a3310a9-4fee-4a6a-b33c-97fb87349917#ref=rss)
 
