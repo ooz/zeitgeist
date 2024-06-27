@@ -4,299 +4,301 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### ohne
+### weniger
 
-* [https://www.spiegel.de/ausland/athen-warnt-skopje-vor-nationalistischer-wende](https://www.spiegel.de/ausland/athen-warnt-skopje-vor-nationalistischer-wende-a-2a6e430c-4c0e-4a3d-8f60-5849789cab21#ref=rss)
-* [https://www.spiegel.de/sport/fussball/rumaenien-ueberrascht-in-gruppe-e-ukraine-scheidet-aus](https://www.spiegel.de/sport/fussball/rumaenien-ueberrascht-in-gruppe-e-ukraine-scheidet-aus-a-6e87de43-4895-4644-88ce-5a15c736b141#ref=rss)
-* [https://www.spiegel.de/kultur/das-ende-der-beratenden-kommission-ohne-kompass-durch-den-raum-der-geschichte](https://www.spiegel.de/kultur/das-ende-der-beratenden-kommission-ohne-kompass-durch-den-raum-der-geschichte-a-09f807bc-a730-4f1e-a103-ba1943897056#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-sportdirektor-rudi-voeller-ich-bin-halt-ein-bisschen-old-school](https://www.spiegel.de/sport/fussball/dfb-sportdirektor-rudi-voeller-ich-bin-halt-ein-bisschen-old-school-a-3ab400c0-f56b-459a-be9a-9b2dfb3bcd08#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/geldwaeschebekaempfung-ampel-fraktionen-fordern-von-christian-lindner-weitere-schritte](https://www.spiegel.de/wirtschaft/service/geldwaeschebekaempfung-ampel-fraktionen-fordern-von-christian-lindner-weitere-schritte-a-735a00d0-8a20-4d63-bbe2-098bec86b2cc#ref=rss)
-### gruppe
+* [https://www.spiegel.de/wirtschaft/weniger-reiseziele-sind-mit-billigfluegen-erreichbar](https://www.spiegel.de/wirtschaft/weniger-reiseziele-sind-mit-billigfluegen-erreichbar-a-c502b477-14b9-4dcc-aff7-c4b935436064#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/scheidungen-in-deutschland-zahl-sinkt-auf-niedrigsten-stand-seit-1990](https://www.spiegel.de/panorama/gesellschaft/scheidungen-in-deutschland-zahl-sinkt-auf-niedrigsten-stand-seit-1990-a-38297d23-fbbd-4656-a7c8-7154ef353769#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutschland-nettozuwanderung-hat-sich-2023-mehr-als-halbiert](https://www.spiegel.de/politik/deutschland/deutschland-nettozuwanderung-hat-sich-2023-mehr-als-halbiert-a-ba12e11b-2784-43b0-b7be-0152a47c2939#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/sport/fussball/em-2024-tuerkei-tschechien-oder-georgien-wer-folgt-portugal-in-gruppe-f](https://www.spiegel.de/sport/fussball/em-2024-tuerkei-tschechien-oder-georgien-wer-folgt-portugal-in-gruppe-f-a-35080403-bf26-44af-8a7b-0a7be10c4903#ref=rss)
-* [https://www.spiegel.de/sport/fussball/rumaenien-ueberrascht-in-gruppe-e-ukraine-scheidet-aus](https://www.spiegel.de/sport/fussball/rumaenien-ueberrascht-in-gruppe-e-ukraine-scheidet-aus-a-6e87de43-4895-4644-88ce-5a15c736b141#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2024-rumaenien-belgien-slowakei-und-ukraine-wer-setzt-sich-in-gruppe-e-durch](https://www.spiegel.de/sport/fussball/em-2024-rumaenien-belgien-slowakei-und-ukraine-wer-setzt-sich-in-gruppe-e-durch-a-7194697b-9425-4edf-87b1-f4bea7bf0cde#ref=rss)
-### bahn
+* [https://www.spiegel.de/wirtschaft/weniger-reiseziele-sind-mit-billigfluegen-erreichbar](https://www.spiegel.de/wirtschaft/weniger-reiseziele-sind-mit-billigfluegen-erreichbar-a-c502b477-14b9-4dcc-aff7-c4b935436064#ref=rss)
+* [https://www.spiegel.de/auto/fahrrad-markt-jeder-vierte-in-deutschland-besitzt-ein-e-bike](https://www.spiegel.de/auto/fahrrad-markt-jeder-vierte-in-deutschland-besitzt-ein-e-bike-a-4d061f26-44a7-4256-8737-ee01646339a4#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/scheidungen-in-deutschland-zahl-sinkt-auf-niedrigsten-stand-seit-1990](https://www.spiegel.de/panorama/gesellschaft/scheidungen-in-deutschland-zahl-sinkt-auf-niedrigsten-stand-seit-1990-a-38297d23-fbbd-4656-a7c8-7154ef353769#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutschland-nettozuwanderung-hat-sich-2023-mehr-als-halbiert](https://www.spiegel.de/politik/deutschland/deutschland-nettozuwanderung-hat-sich-2023-mehr-als-halbiert-a-ba12e11b-2784-43b0-b7be-0152a47c2939#ref=rss)
+### 2023
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/ruhrgebiet-duisburg-naechste-wochenlange-bahn-sperrung](https://www.spiegel.de/wirtschaft/unternehmen/ruhrgebiet-duisburg-naechste-wochenlange-bahn-sperrung-a-a9d15763-a9a9-48cf-9b3f-141aedb52289#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutsche-bahn-politiker-werfen-bahn-nach-plaenen-ueber-zugstreichungen-vor-dem-osten-zu-schaden](https://www.spiegel.de/politik/deutschland/deutsche-bahn-politiker-werfen-bahn-nach-plaenen-ueber-zugstreichungen-vor-dem-osten-zu-schaden-a-c35a84e2-63b3-49a0-84f9-7758e69e419a#ref=rss)
-### ukraine
+* [https://www.spiegel.de/panorama/gesellschaft/katholischer-kirche-mehr-als-400-000-menschen-2023-ausgetreten](https://www.spiegel.de/panorama/gesellschaft/katholischer-kirche-mehr-als-400-000-menschen-2023-ausgetreten-a-b8fc0501-ef6f-420b-899a-820be718da42#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/scheidungen-in-deutschland-zahl-sinkt-auf-niedrigsten-stand-seit-1990](https://www.spiegel.de/panorama/gesellschaft/scheidungen-in-deutschland-zahl-sinkt-auf-niedrigsten-stand-seit-1990-a-38297d23-fbbd-4656-a7c8-7154ef353769#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutschland-nettozuwanderung-hat-sich-2023-mehr-als-halbiert](https://www.spiegel.de/politik/deutschland/deutschland-nettozuwanderung-hat-sich-2023-mehr-als-halbiert-a-ba12e11b-2784-43b0-b7be-0152a47c2939#ref=rss)
+### frau
 
-* [https://www.spiegel.de/sport/fussball/rumaenien-ueberrascht-in-gruppe-e-ukraine-scheidet-aus](https://www.spiegel.de/sport/fussball/rumaenien-ueberrascht-in-gruppe-e-ukraine-scheidet-aus-a-6e87de43-4895-4644-88ce-5a15c736b141#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2024-rumaenien-belgien-slowakei-und-ukraine-wer-setzt-sich-in-gruppe-e-durch](https://www.spiegel.de/sport/fussball/em-2024-rumaenien-belgien-slowakei-und-ukraine-wer-setzt-sich-in-gruppe-e-durch-a-7194697b-9425-4edf-87b1-f4bea7bf0cde#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-gegen-belgien-fussball-em-in-zeiten-des-krieges](https://www.spiegel.de/ausland/ukraine-gegen-belgien-fussball-em-in-zeiten-des-krieges-a-4a5a34c4-dd83-4a9d-b1a2-a45e0db04d46#ref=rss)
-### belgien
+* [https://www.spiegel.de/panorama/justiz/tschechien-mann-zuendete-feuerwerkskoerper-in-der-vagina-seiner-frau-18-jahre-haft](https://www.spiegel.de/panorama/justiz/tschechien-mann-zuendete-feuerwerkskoerper-in-der-vagina-seiner-frau-18-jahre-haft-a-5fca76e4-37e1-405a-9cd1-63be4cb7ee54#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/landwirtschaft-wie-zornig-und-rechts-sind-die-bauern-frau-pieper](https://www.spiegel.de/wirtschaft/soziales/landwirtschaft-wie-zornig-und-rechts-sind-die-bauern-frau-pieper-a-623d69bc-4745-4821-80fe-8c3269ce7388#ref=rss)
+* [https://www.spiegel.de/ausland/podcast-judging-amand-knox-trailer](https://www.spiegel.de/ausland/podcast-judging-amand-knox-trailer-a-14708d04-bbf9-42ae-96f4-bc47a3d4e826#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/sport/fussball/rumaenien-ueberrascht-in-gruppe-e-ukraine-scheidet-aus](https://www.spiegel.de/sport/fussball/rumaenien-ueberrascht-in-gruppe-e-ukraine-scheidet-aus-a-6e87de43-4895-4644-88ce-5a15c736b141#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2024-rumaenien-belgien-slowakei-und-ukraine-wer-setzt-sich-in-gruppe-e-durch](https://www.spiegel.de/sport/fussball/em-2024-rumaenien-belgien-slowakei-und-ukraine-wer-setzt-sich-in-gruppe-e-durch-a-7194697b-9425-4edf-87b1-f4bea7bf0cde#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-gegen-belgien-fussball-em-in-zeiten-des-krieges](https://www.spiegel.de/ausland/ukraine-gegen-belgien-fussball-em-in-zeiten-des-krieges-a-4a5a34c4-dd83-4a9d-b1a2-a45e0db04d46#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/russland-nimmt-reisezugverkehr-mit-nordkorea-wieder-auf](https://www.spiegel.de/ausland/russland-nimmt-reisezugverkehr-mit-nordkorea-wieder-auf-a-fdb2b45b-6b80-4717-94e9-b5390b2ef33d#ref=rss)
-* [https://www.spiegel.de/ausland/russland-weitere-orf-korrespondentin-in-moskau-verliert-akkreditierung](https://www.spiegel.de/ausland/russland-weitere-orf-korrespondentin-in-moskau-verliert-akkreditierung-a-a2ffdc22-c7f0-43ee-b85b-ee2004b404e3#ref=rss)
-### julian
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ampel-in-der-krise-affaere-um-bettina-stark-watzinger-julian-assange-frei](https://www.spiegel.de/politik/deutschland/news-des-tages-ampel-in-der-krise-affaere-um-bettina-stark-watzinger-julian-assange-frei-a-50d52cfb-bf58-43a4-ba97-c6d4448f3bd8#ref=rss)
-* [https://www.spiegel.de/ausland/julian-assange-ehefrau-stella-dankt-allen-er-wollte-hier-sein](https://www.spiegel.de/ausland/julian-assange-ehefrau-stella-dankt-allen-er-wollte-hier-sein-a-559edd18-472f-4409-b45f-e53a00e95de6#ref=rss)
-### assange
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ampel-in-der-krise-affaere-um-bettina-stark-watzinger-julian-assange-frei](https://www.spiegel.de/politik/deutschland/news-des-tages-ampel-in-der-krise-affaere-um-bettina-stark-watzinger-julian-assange-frei-a-50d52cfb-bf58-43a4-ba97-c6d4448f3bd8#ref=rss)
-* [https://www.spiegel.de/ausland/julian-assange-ehefrau-stella-dankt-allen-er-wollte-hier-sein](https://www.spiegel.de/ausland/julian-assange-ehefrau-stella-dankt-allen-er-wollte-hier-sein-a-559edd18-472f-4409-b45f-e53a00e95de6#ref=rss)
-### geschichte
-
-* [https://www.spiegel.de/ausland/athen-warnt-skopje-vor-nationalistischer-wende](https://www.spiegel.de/ausland/athen-warnt-skopje-vor-nationalistischer-wende-a-2a6e430c-4c0e-4a3d-8f60-5849789cab21#ref=rss)
-* [https://www.spiegel.de/kultur/das-ende-der-beratenden-kommission-ohne-kompass-durch-den-raum-der-geschichte](https://www.spiegel.de/kultur/das-ende-der-beratenden-kommission-ohne-kompass-durch-den-raum-der-geschichte-a-09f807bc-a730-4f1e-a103-ba1943897056#ref=rss)
-* [https://www.spiegel.de/panorama/leute/russell-crowe-singt-bei-auftritt-in-rom-italo-pop](https://www.spiegel.de/panorama/leute/russell-crowe-singt-bei-auftritt-in-rom-italo-pop-a-8b7e8dd5-d589-4ac6-a423-18a61a759558#ref=rss)
-### rumänien
-
-* [https://www.spiegel.de/sport/fussball/rumaenien-ueberrascht-in-gruppe-e-ukraine-scheidet-aus](https://www.spiegel.de/sport/fussball/rumaenien-ueberrascht-in-gruppe-e-ukraine-scheidet-aus-a-6e87de43-4895-4644-88ce-5a15c736b141#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2024-rumaenien-belgien-slowakei-und-ukraine-wer-setzt-sich-in-gruppe-e-durch](https://www.spiegel.de/sport/fussball/em-2024-rumaenien-belgien-slowakei-und-ukraine-wer-setzt-sich-in-gruppe-e-durch-a-7194697b-9425-4edf-87b1-f4bea7bf0cde#ref=rss)
-### e
-
-* [https://www.spiegel.de/sport/fussball/rumaenien-ueberrascht-in-gruppe-e-ukraine-scheidet-aus](https://www.spiegel.de/sport/fussball/rumaenien-ueberrascht-in-gruppe-e-ukraine-scheidet-aus-a-6e87de43-4895-4644-88ce-5a15c736b141#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2024-rumaenien-belgien-slowakei-und-ukraine-wer-setzt-sich-in-gruppe-e-durch](https://www.spiegel.de/sport/fussball/em-2024-rumaenien-belgien-slowakei-und-ukraine-wer-setzt-sich-in-gruppe-e-durch-a-7194697b-9425-4edf-87b1-f4bea7bf0cde#ref=rss)
-### vater
-
-* [https://www.spiegel.de/panorama/justiz/siegen-wittgenstein-elfjaehrige-bringt-kind-zur-welt](https://www.spiegel.de/panorama/justiz/siegen-wittgenstein-elfjaehrige-bringt-kind-zur-welt-a-bd8820c6-3d11-47d8-af4d-3dec6fa61745#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/gummersbach-baby-zu-tode-geschuettelt-drei-jahre-haft-fuer-vater](https://www.spiegel.de/panorama/justiz/gummersbach-baby-zu-tode-geschuettelt-drei-jahre-haft-fuer-vater-a-5ac2bbe3-a303-4136-a5be-96bec7263785#ref=rss)
-### trump
-
-* [https://www.spiegel.de/wirtschaft/joe-biden-donald-trump-wer-steckt-hinter-den-millionenspenden-im-wahlkampf](https://www.spiegel.de/wirtschaft/joe-biden-donald-trump-wer-steckt-hinter-den-millionenspenden-im-wahlkampf-a-135eea05-db58-4d66-9bfa-66a68e450f06#ref=rss)
-### starkwatzinger
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ampel-in-der-krise-affaere-um-bettina-stark-watzinger-julian-assange-frei](https://www.spiegel.de/politik/deutschland/news-des-tages-ampel-in-der-krise-affaere-um-bettina-stark-watzinger-julian-assange-frei-a-50d52cfb-bf58-43a4-ba97-c6d4448f3bd8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/foerdergeld-affaere-im-bmbf-grosses-unwohlsein-namen-in-listen-zu-markieren](https://www.spiegel.de/politik/deutschland/foerdergeld-affaere-im-bmbf-grosses-unwohlsein-namen-in-listen-zu-markieren-a-050cc30f-41c1-438a-96da-15d33fabe9ee#ref=rss)
-### frei
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ampel-in-der-krise-affaere-um-bettina-stark-watzinger-julian-assange-frei](https://www.spiegel.de/politik/deutschland/news-des-tages-ampel-in-der-krise-affaere-um-bettina-stark-watzinger-julian-assange-frei-a-50d52cfb-bf58-43a4-ba97-c6d4448f3bd8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/geldwaeschebekaempfung-ampel-fraktionen-fordern-von-christian-lindner-weitere-schritte](https://www.spiegel.de/wirtschaft/service/geldwaeschebekaempfung-ampel-fraktionen-fordern-von-christian-lindner-weitere-schritte-a-735a00d0-8a20-4d63-bbe2-098bec86b2cc#ref=rss)
-### ruhrgebiet
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ruhrgebiet-duisburg-naechste-wochenlange-bahn-sperrung](https://www.spiegel.de/wirtschaft/unternehmen/ruhrgebiet-duisburg-naechste-wochenlange-bahn-sperrung-a-a9d15763-a9a9-48cf-9b3f-141aedb52289#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ruhrgebiet-duisburg-naechste-wochenlange-bahn-sperrung](https://www.spiegel.de/wirtschaft/unternehmen/ruhrgebiet-duisburg-naechste-wochenlange-bahn-sperrung-a-a9d15763-a9a9-48cf-9b3f-141aedb52289#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/kraftwerkstrategie-je-fuenf-gigawatt-gaskraftwerke-2025-und-2026](https://www.spiegel.de/wirtschaft/soziales/kraftwerkstrategie-je-fuenf-gigawatt-gaskraftwerke-2025-und-2026-a-72ea81a2-d5e3-42b6-9d3c-e9e78e8337b8#ref=rss)
-### em
-
-* [https://www.spiegel.de/sport/fussball/em-2024-tuerkei-tschechien-oder-georgien-wer-folgt-portugal-in-gruppe-f](https://www.spiegel.de/sport/fussball/em-2024-tuerkei-tschechien-oder-georgien-wer-folgt-portugal-in-gruppe-f-a-35080403-bf26-44af-8a7b-0a7be10c4903#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2024-rumaenien-belgien-slowakei-und-ukraine-wer-setzt-sich-in-gruppe-e-durch](https://www.spiegel.de/sport/fussball/em-2024-rumaenien-belgien-slowakei-und-ukraine-wer-setzt-sich-in-gruppe-e-durch-a-7194697b-9425-4edf-87b1-f4bea7bf0cde#ref=rss)
-### 2024
-
-* [https://www.spiegel.de/sport/fussball/em-2024-tuerkei-tschechien-oder-georgien-wer-folgt-portugal-in-gruppe-f](https://www.spiegel.de/sport/fussball/em-2024-tuerkei-tschechien-oder-georgien-wer-folgt-portugal-in-gruppe-f-a-35080403-bf26-44af-8a7b-0a7be10c4903#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2024-rumaenien-belgien-slowakei-und-ukraine-wer-setzt-sich-in-gruppe-e-durch](https://www.spiegel.de/sport/fussball/em-2024-rumaenien-belgien-slowakei-und-ukraine-wer-setzt-sich-in-gruppe-e-durch-a-7194697b-9425-4edf-87b1-f4bea7bf0cde#ref=rss)
-### portugal
-
-* [https://www.spiegel.de/sport/fussball/em-2024-tuerkei-tschechien-oder-georgien-wer-folgt-portugal-in-gruppe-f](https://www.spiegel.de/sport/fussball/em-2024-tuerkei-tschechien-oder-georgien-wer-folgt-portugal-in-gruppe-f-a-35080403-bf26-44af-8a7b-0a7be10c4903#ref=rss)
-### f
-
-* [https://www.spiegel.de/sport/fussball/em-2024-tuerkei-tschechien-oder-georgien-wer-folgt-portugal-in-gruppe-f](https://www.spiegel.de/sport/fussball/em-2024-tuerkei-tschechien-oder-georgien-wer-folgt-portugal-in-gruppe-f-a-35080403-bf26-44af-8a7b-0a7be10c4903#ref=rss)
-### tabellenrechner
-
-* [https://www.spiegel.de/sport/fussball/em-2024-tuerkei-tschechien-oder-georgien-wer-folgt-portugal-in-gruppe-f](https://www.spiegel.de/sport/fussball/em-2024-tuerkei-tschechien-oder-georgien-wer-folgt-portugal-in-gruppe-f-a-35080403-bf26-44af-8a7b-0a7be10c4903#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2024-rumaenien-belgien-slowakei-und-ukraine-wer-setzt-sich-in-gruppe-e-durch](https://www.spiegel.de/sport/fussball/em-2024-rumaenien-belgien-slowakei-und-ukraine-wer-setzt-sich-in-gruppe-e-durch-a-7194697b-9425-4edf-87b1-f4bea7bf0cde#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/sport/fussball/em-2024-tuerkei-tschechien-oder-georgien-wer-folgt-portugal-in-gruppe-f](https://www.spiegel.de/sport/fussball/em-2024-tuerkei-tschechien-oder-georgien-wer-folgt-portugal-in-gruppe-f-a-35080403-bf26-44af-8a7b-0a7be10c4903#ref=rss)
-* [https://www.spiegel.de/ausland/julian-assange-ehefrau-stella-dankt-allen-er-wollte-hier-sein](https://www.spiegel.de/ausland/julian-assange-ehefrau-stella-dankt-allen-er-wollte-hier-sein-a-559edd18-472f-4409-b45f-e53a00e95de6#ref=rss)
-### fred
-
-* [https://www.spiegel.de/kultur/musik/fred-fesl-bayerischer-liedermacher-ist-tot](https://www.spiegel.de/kultur/musik/fred-fesl-bayerischer-liedermacher-ist-tot-a-af118362-d739-4846-8ddc-1a6d4766a260#ref=rss)
-### fesl
-
-* [https://www.spiegel.de/kultur/musik/fred-fesl-bayerischer-liedermacher-ist-tot](https://www.spiegel.de/kultur/musik/fred-fesl-bayerischer-liedermacher-ist-tot-a-af118362-d739-4846-8ddc-1a6d4766a260#ref=rss)
-### bayerischer
-
-* [https://www.spiegel.de/kultur/musik/fred-fesl-bayerischer-liedermacher-ist-tot](https://www.spiegel.de/kultur/musik/fred-fesl-bayerischer-liedermacher-ist-tot-a-af118362-d739-4846-8ddc-1a6d4766a260#ref=rss)
-### tot
-
-* [https://www.spiegel.de/kultur/musik/fred-fesl-bayerischer-liedermacher-ist-tot](https://www.spiegel.de/kultur/musik/fred-fesl-bayerischer-liedermacher-ist-tot-a-af118362-d739-4846-8ddc-1a6d4766a260#ref=rss)
-### nordkorea
-
-* [https://www.spiegel.de/ausland/russland-nimmt-reisezugverkehr-mit-nordkorea-wieder-auf](https://www.spiegel.de/ausland/russland-nimmt-reisezugverkehr-mit-nordkorea-wieder-auf-a-fdb2b45b-6b80-4717-94e9-b5390b2ef33d#ref=rss)
-### woche
-
-* [https://www.spiegel.de/ausland/russland-nimmt-reisezugverkehr-mit-nordkorea-wieder-auf](https://www.spiegel.de/ausland/russland-nimmt-reisezugverkehr-mit-nordkorea-wieder-auf-a-fdb2b45b-6b80-4717-94e9-b5390b2ef33d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/mallorca-urlaubern-droht-eurowings-streik](https://www.spiegel.de/wirtschaft/unternehmen/mallorca-urlaubern-droht-eurowings-streik-a-48211ea6-5dd9-4ae4-818e-65f03cac3fe6#ref=rss)
-### klette
-
-* [https://www.spiegel.de/panorama/raf-rentner-klette-staub-garwick-wie-sie-im-untergrund-lebten](https://www.spiegel.de/panorama/raf-rentner-klette-staub-garwick-wie-sie-im-untergrund-lebten-a-f7d3791c-8ede-43fb-8f10-b1722e1349f8#ref=rss)
-### lebten
-
-* [https://www.spiegel.de/panorama/raf-rentner-klette-staub-garwick-wie-sie-im-untergrund-lebten](https://www.spiegel.de/panorama/raf-rentner-klette-staub-garwick-wie-sie-im-untergrund-lebten-a-f7d3791c-8ede-43fb-8f10-b1722e1349f8#ref=rss)
-### konnte
-
-* [https://www.spiegel.de/panorama/raf-rentner-klette-staub-garwick-wie-sie-im-untergrund-lebten](https://www.spiegel.de/panorama/raf-rentner-klette-staub-garwick-wie-sie-im-untergrund-lebten-a-f7d3791c-8ede-43fb-8f10-b1722e1349f8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/gummersbach-baby-zu-tode-geschuettelt-drei-jahre-haft-fuer-vater](https://www.spiegel.de/panorama/justiz/gummersbach-baby-zu-tode-geschuettelt-drei-jahre-haft-fuer-vater-a-5ac2bbe3-a303-4136-a5be-96bec7263785#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/panorama/raf-rentner-klette-staub-garwick-wie-sie-im-untergrund-lebten](https://www.spiegel.de/panorama/raf-rentner-klette-staub-garwick-wie-sie-im-untergrund-lebten-a-f7d3791c-8ede-43fb-8f10-b1722e1349f8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/gummersbach-baby-zu-tode-geschuettelt-drei-jahre-haft-fuer-vater](https://www.spiegel.de/panorama/justiz/gummersbach-baby-zu-tode-geschuettelt-drei-jahre-haft-fuer-vater-a-5ac2bbe3-a303-4136-a5be-96bec7263785#ref=rss)
+* [https://www.spiegel.de/sport/fussball/em-2024-toni-kroos-kritisiert-dfb-berichterstattung](https://www.spiegel.de/sport/fussball/em-2024-toni-kroos-kritisiert-dfb-berichterstattung-a-a1e8fa03-51b9-4c43-9566-d6fa24201195#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-draft-deutsches-talent-tristan-da-silva-spielt-mit-moritz-und-franz-wagner-bei-orlando-magic](https://www.spiegel.de/sport/basketball/nba-draft-deutsches-talent-tristan-da-silva-spielt-mit-moritz-und-franz-wagner-bei-orlando-magic-a-9fc27747-a515-43a7-9e9e-04e945e333a9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/landwirtschaft-wie-zornig-und-rechts-sind-die-bauern-frau-pieper](https://www.spiegel.de/wirtschaft/soziales/landwirtschaft-wie-zornig-und-rechts-sind-die-bauern-frau-pieper-a-623d69bc-4745-4821-80fe-8c3269ce7388#ref=rss)
+* [https://www.spiegel.de/kultur/marc-uwe-kling-hat-einen-krimi-geschrieben-views-handelt-von-der-suche-nach-einem-verschwundenen-maechen](https://www.spiegel.de/kultur/marc-uwe-kling-hat-einen-krimi-geschrieben-views-handelt-von-der-suche-nach-einem-verschwundenen-maechen-a-feb0eb9a-fd0e-42af-897c-61842f905352#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/panorama/raf-rentner-klette-staub-garwick-wie-sie-im-untergrund-lebten](https://www.spiegel.de/panorama/raf-rentner-klette-staub-garwick-wie-sie-im-untergrund-lebten-a-f7d3791c-8ede-43fb-8f10-b1722e1349f8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/mallorca-urlaubern-droht-eurowings-streik](https://www.spiegel.de/wirtschaft/unternehmen/mallorca-urlaubern-droht-eurowings-streik-a-48211ea6-5dd9-4ae4-818e-65f03cac3fe6#ref=rss)
-### osten
+* [https://www.spiegel.de/panorama/gesellschaft/katholischer-kirche-mehr-als-400-000-menschen-2023-ausgetreten](https://www.spiegel.de/panorama/gesellschaft/katholischer-kirche-mehr-als-400-000-menschen-2023-ausgetreten-a-b8fc0501-ef6f-420b-899a-820be718da42#ref=rss)
+* [https://www.spiegel.de/auto/fahrrad-markt-jeder-vierte-in-deutschland-besitzt-ein-e-bike](https://www.spiegel.de/auto/fahrrad-markt-jeder-vierte-in-deutschland-besitzt-ein-e-bike-a-4d061f26-44a7-4256-8737-ee01646339a4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutschland-nettozuwanderung-hat-sich-2023-mehr-als-halbiert](https://www.spiegel.de/politik/deutschland/deutschland-nettozuwanderung-hat-sich-2023-mehr-als-halbiert-a-ba12e11b-2784-43b0-b7be-0152a47c2939#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/politik/deutschland/deutsche-bahn-politiker-werfen-bahn-nach-plaenen-ueber-zugstreichungen-vor-dem-osten-zu-schaden](https://www.spiegel.de/politik/deutschland/deutsche-bahn-politiker-werfen-bahn-nach-plaenen-ueber-zugstreichungen-vor-dem-osten-zu-schaden-a-c35a84e2-63b3-49a0-84f9-7758e69e419a#ref=rss)
-### offenbar
+* [https://www.spiegel.de/panorama/gesellschaft/katholischer-kirche-mehr-als-400-000-menschen-2023-ausgetreten](https://www.spiegel.de/panorama/gesellschaft/katholischer-kirche-mehr-als-400-000-menschen-2023-ausgetreten-a-b8fc0501-ef6f-420b-899a-820be718da42#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/stuttgart-drei-verletzte-nach-auseinandersetzung-in-em-fanzone](https://www.spiegel.de/panorama/justiz/stuttgart-drei-verletzte-nach-auseinandersetzung-in-em-fanzone-a-9677539e-e4ba-4790-995e-2ced992a8bb0#ref=rss)
+* [https://www.spiegel.de/auto/fahrrad-markt-jeder-vierte-in-deutschland-besitzt-ein-e-bike](https://www.spiegel.de/auto/fahrrad-markt-jeder-vierte-in-deutschland-besitzt-ein-e-bike-a-4d061f26-44a7-4256-8737-ee01646339a4#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/politik/deutschland/deutsche-bahn-politiker-werfen-bahn-nach-plaenen-ueber-zugstreichungen-vor-dem-osten-zu-schaden](https://www.spiegel.de/politik/deutschland/deutsche-bahn-politiker-werfen-bahn-nach-plaenen-ueber-zugstreichungen-vor-dem-osten-zu-schaden-a-c35a84e2-63b3-49a0-84f9-7758e69e419a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/foerdergeld-affaere-im-bmbf-grosses-unwohlsein-namen-in-listen-zu-markieren](https://www.spiegel.de/politik/deutschland/foerdergeld-affaere-im-bmbf-grosses-unwohlsein-namen-in-listen-zu-markieren-a-050cc30f-41c1-438a-96da-15d33fabe9ee#ref=rss)
-### allen
+* [https://www.spiegel.de/panorama/gesellschaft/katholischer-kirche-mehr-als-400-000-menschen-2023-ausgetreten](https://www.spiegel.de/panorama/gesellschaft/katholischer-kirche-mehr-als-400-000-menschen-2023-ausgetreten-a-b8fc0501-ef6f-420b-899a-820be718da42#ref=rss)
+* [https://www.spiegel.de/wirtschaft/weniger-reiseziele-sind-mit-billigfluegen-erreichbar](https://www.spiegel.de/wirtschaft/weniger-reiseziele-sind-mit-billigfluegen-erreichbar-a-c502b477-14b9-4dcc-aff7-c4b935436064#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/scheidungen-in-deutschland-zahl-sinkt-auf-niedrigsten-stand-seit-1990](https://www.spiegel.de/panorama/gesellschaft/scheidungen-in-deutschland-zahl-sinkt-auf-niedrigsten-stand-seit-1990-a-38297d23-fbbd-4656-a7c8-7154ef353769#ref=rss)
+### zahl
 
-* [https://www.spiegel.de/politik/deutschland/deutsche-bahn-politiker-werfen-bahn-nach-plaenen-ueber-zugstreichungen-vor-dem-osten-zu-schaden](https://www.spiegel.de/politik/deutschland/deutsche-bahn-politiker-werfen-bahn-nach-plaenen-ueber-zugstreichungen-vor-dem-osten-zu-schaden-a-c35a84e2-63b3-49a0-84f9-7758e69e419a#ref=rss)
-* [https://www.spiegel.de/ausland/julian-assange-ehefrau-stella-dankt-allen-er-wollte-hier-sein](https://www.spiegel.de/ausland/julian-assange-ehefrau-stella-dankt-allen-er-wollte-hier-sein-a-559edd18-472f-4409-b45f-e53a00e95de6#ref=rss)
-### gigawatt
+* [https://www.spiegel.de/panorama/gesellschaft/katholischer-kirche-mehr-als-400-000-menschen-2023-ausgetreten](https://www.spiegel.de/panorama/gesellschaft/katholischer-kirche-mehr-als-400-000-menschen-2023-ausgetreten-a-b8fc0501-ef6f-420b-899a-820be718da42#ref=rss)
+* [https://www.spiegel.de/wirtschaft/weniger-reiseziele-sind-mit-billigfluegen-erreichbar](https://www.spiegel.de/wirtschaft/weniger-reiseziele-sind-mit-billigfluegen-erreichbar-a-c502b477-14b9-4dcc-aff7-c4b935436064#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/scheidungen-in-deutschland-zahl-sinkt-auf-niedrigsten-stand-seit-1990](https://www.spiegel.de/panorama/gesellschaft/scheidungen-in-deutschland-zahl-sinkt-auf-niedrigsten-stand-seit-1990-a-38297d23-fbbd-4656-a7c8-7154ef353769#ref=rss)
+### tschechien
 
-* [https://www.spiegel.de/wirtschaft/soziales/kraftwerkstrategie-je-fuenf-gigawatt-gaskraftwerke-2025-und-2026](https://www.spiegel.de/wirtschaft/soziales/kraftwerkstrategie-je-fuenf-gigawatt-gaskraftwerke-2025-und-2026-a-72ea81a2-d5e3-42b6-9d3c-e9e78e8337b8#ref=rss)
-### neuen
+* [https://www.spiegel.de/panorama/justiz/tschechien-mann-zuendete-feuerwerkskoerper-in-der-vagina-seiner-frau-18-jahre-haft](https://www.spiegel.de/panorama/justiz/tschechien-mann-zuendete-feuerwerkskoerper-in-der-vagina-seiner-frau-18-jahre-haft-a-5fca76e4-37e1-405a-9cd1-63be4cb7ee54#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/schmiergeldaffaere-erneut-razzia-bei-afd-politiker-petr-bystron](https://www.spiegel.de/politik/deutschland/schmiergeldaffaere-erneut-razzia-bei-afd-politiker-petr-bystron-a-8cb6091a-3dac-4366-8f50-b2980514ae63#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/wirtschaft/soziales/kraftwerkstrategie-je-fuenf-gigawatt-gaskraftwerke-2025-und-2026](https://www.spiegel.de/wirtschaft/soziales/kraftwerkstrategie-je-fuenf-gigawatt-gaskraftwerke-2025-und-2026-a-72ea81a2-d5e3-42b6-9d3c-e9e78e8337b8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/geldwaeschebekaempfung-ampel-fraktionen-fordern-von-christian-lindner-weitere-schritte](https://www.spiegel.de/wirtschaft/service/geldwaeschebekaempfung-ampel-fraktionen-fordern-von-christian-lindner-weitere-schritte-a-735a00d0-8a20-4d63-bbe2-098bec86b2cc#ref=rss)
-### bulgarien
+* [https://www.spiegel.de/panorama/justiz/fall-arian-in-stade-gefundene-kinderleiche-polizei-gibt-erste-obduktionsergebnisse-bekannt](https://www.spiegel.de/panorama/justiz/fall-arian-in-stade-gefundene-kinderleiche-polizei-gibt-erste-obduktionsergebnisse-bekannt-a-9e9a2b20-f094-4a17-aa58-9f4266fc6d64#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/schmiergeldaffaere-erneut-razzia-bei-afd-politiker-petr-bystron](https://www.spiegel.de/politik/deutschland/schmiergeldaffaere-erneut-razzia-bei-afd-politiker-petr-bystron-a-8cb6091a-3dac-4366-8f50-b2980514ae63#ref=rss)
+### em
 
-* [https://www.spiegel.de/wirtschaft/service/bulgarien-muss-wegen-hohe-inflation-weiter-auf-euro-einfuehrung-warten](https://www.spiegel.de/wirtschaft/service/bulgarien-muss-wegen-hohe-inflation-weiter-auf-euro-einfuehrung-warten-a-267a4bab-b784-409c-bd73-de8e5750670d#ref=rss)
-### warten
+* [https://www.spiegel.de/sport/fussball/em-2024-toni-kroos-kritisiert-dfb-berichterstattung](https://www.spiegel.de/sport/fussball/em-2024-toni-kroos-kritisiert-dfb-berichterstattung-a-a1e8fa03-51b9-4c43-9566-d6fa24201195#ref=rss)
+* [https://www.spiegel.de/sport/fussball/em-2024-diese-spieler-haben-fuer-die-momente-der-bisherigen-em-gesorgt](https://www.spiegel.de/sport/fussball/em-2024-diese-spieler-haben-fuer-die-momente-der-bisherigen-em-gesorgt-a-0c7308f2-6781-4bd5-8495-07ff5720b36d#ref=rss)
+### wirft
 
-* [https://www.spiegel.de/wirtschaft/service/bulgarien-muss-wegen-hohe-inflation-weiter-auf-euro-einfuehrung-warten](https://www.spiegel.de/wirtschaft/service/bulgarien-muss-wegen-hohe-inflation-weiter-auf-euro-einfuehrung-warten-a-267a4bab-b784-409c-bd73-de8e5750670d#ref=rss)
-### joe
+* [https://www.spiegel.de/politik/deutschland/spionage-wollten-russische-agenten-in-frankfurt-einen-ukrainer-entfuehren](https://www.spiegel.de/politik/deutschland/spionage-wollten-russische-agenten-in-frankfurt-einen-ukrainer-entfuehren-a-429a9b43-6e0b-4e16-be3c-2a8b4d411605#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/staatsbuergerschaftsrecht-kevin-kuehnert-wirft-friedrich-merz-ehrverletzung-vor](https://www.spiegel.de/politik/deutschland/staatsbuergerschaftsrecht-kevin-kuehnert-wirft-friedrich-merz-ehrverletzung-vor-a-bbf0b7da-4c7f-4955-bb72-085abf1b8ea8#ref=rss)
+### russischen
 
-* [https://www.spiegel.de/wirtschaft/joe-biden-donald-trump-wer-steckt-hinter-den-millionenspenden-im-wahlkampf](https://www.spiegel.de/wirtschaft/joe-biden-donald-trump-wer-steckt-hinter-den-millionenspenden-im-wahlkampf-a-135eea05-db58-4d66-9bfa-66a68e450f06#ref=rss)
-### biden
+* [https://www.spiegel.de/politik/deutschland/schmiergeldaffaere-erneut-razzia-bei-afd-politiker-petr-bystron](https://www.spiegel.de/politik/deutschland/schmiergeldaffaere-erneut-razzia-bei-afd-politiker-petr-bystron-a-8cb6091a-3dac-4366-8f50-b2980514ae63#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/us-behoerden-loben-zehn-millionen-dollar-fuer-hinweise-auf-russischen-hacker-aus](https://www.spiegel.de/netzwelt/web/us-behoerden-loben-zehn-millionen-dollar-fuer-hinweise-auf-russischen-hacker-aus-a-2f95521e-e88e-4bb3-be23-067a2054c309#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/wirtschaft/joe-biden-donald-trump-wer-steckt-hinter-den-millionenspenden-im-wahlkampf](https://www.spiegel.de/wirtschaft/joe-biden-donald-trump-wer-steckt-hinter-den-millionenspenden-im-wahlkampf-a-135eea05-db58-4d66-9bfa-66a68e450f06#ref=rss)
-### donald
+* [https://www.spiegel.de/netzwelt/web/us-behoerden-loben-zehn-millionen-dollar-fuer-hinweise-auf-russischen-hacker-aus](https://www.spiegel.de/netzwelt/web/us-behoerden-loben-zehn-millionen-dollar-fuer-hinweise-auf-russischen-hacker-aus-a-2f95521e-e88e-4bb3-be23-067a2054c309#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutschland-nettozuwanderung-hat-sich-2023-mehr-als-halbiert](https://www.spiegel.de/politik/deutschland/deutschland-nettozuwanderung-hat-sich-2023-mehr-als-halbiert-a-ba12e11b-2784-43b0-b7be-0152a47c2939#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/eu-fuehrt-wieder-zoelle-auf-zucker-und-eier-aus-der-ukraine-ein](https://www.spiegel.de/wirtschaft/unternehmen/eu-fuehrt-wieder-zoelle-auf-zucker-und-eier-aus-der-ukraine-ein-a-96982cd0-ec3f-4a64-b159-039cebfdcb6b#ref=rss)
+### ausgebrochen
 
-* [https://www.spiegel.de/wirtschaft/joe-biden-donald-trump-wer-steckt-hinter-den-millionenspenden-im-wahlkampf](https://www.spiegel.de/wirtschaft/joe-biden-donald-trump-wer-steckt-hinter-den-millionenspenden-im-wahlkampf-a-135eea05-db58-4d66-9bfa-66a68e450f06#ref=rss)
-### hinter
+* [https://www.spiegel.de/panorama/kopenhagen-feuer-in-steuerministerium-ausgebrochen](https://www.spiegel.de/panorama/kopenhagen-feuer-in-steuerministerium-ausgebrochen-a-205aa8ca-80a7-4303-84ca-7c28e0c4e76f#ref=rss)
+### kirche
 
-* [https://www.spiegel.de/wirtschaft/joe-biden-donald-trump-wer-steckt-hinter-den-millionenspenden-im-wahlkampf](https://www.spiegel.de/wirtschaft/joe-biden-donald-trump-wer-steckt-hinter-den-millionenspenden-im-wahlkampf-a-135eea05-db58-4d66-9bfa-66a68e450f06#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ursula-haverbeck-holocaustleugnerin-erneut-wegen-volksverhetzung-verurteilt](https://www.spiegel.de/panorama/justiz/ursula-haverbeck-holocaustleugnerin-erneut-wegen-volksverhetzung-verurteilt-a-67fe4ed5-dd8c-409a-9358-f7b67a9a2182#ref=rss)
-### wahlkampf
+* [https://www.spiegel.de/panorama/gesellschaft/katholischer-kirche-mehr-als-400-000-menschen-2023-ausgetreten](https://www.spiegel.de/panorama/gesellschaft/katholischer-kirche-mehr-als-400-000-menschen-2023-ausgetreten-a-b8fc0501-ef6f-420b-899a-820be718da42#ref=rss)
+### zuvor
 
-* [https://www.spiegel.de/wirtschaft/joe-biden-donald-trump-wer-steckt-hinter-den-millionenspenden-im-wahlkampf](https://www.spiegel.de/wirtschaft/joe-biden-donald-trump-wer-steckt-hinter-den-millionenspenden-im-wahlkampf-a-135eea05-db58-4d66-9bfa-66a68e450f06#ref=rss)
-### russell
+* [https://www.spiegel.de/panorama/gesellschaft/katholischer-kirche-mehr-als-400-000-menschen-2023-ausgetreten](https://www.spiegel.de/panorama/gesellschaft/katholischer-kirche-mehr-als-400-000-menschen-2023-ausgetreten-a-b8fc0501-ef6f-420b-899a-820be718da42#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/scheidungen-in-deutschland-zahl-sinkt-auf-niedrigsten-stand-seit-1990](https://www.spiegel.de/panorama/gesellschaft/scheidungen-in-deutschland-zahl-sinkt-auf-niedrigsten-stand-seit-1990-a-38297d23-fbbd-4656-a7c8-7154ef353769#ref=rss)
+### sechstagewoche
 
-* [https://www.spiegel.de/panorama/leute/russell-crowe-singt-bei-auftritt-in-rom-italo-pop](https://www.spiegel.de/panorama/leute/russell-crowe-singt-bei-auftritt-in-rom-italo-pop-a-8b7e8dd5-d589-4ac6-a423-18a61a759558#ref=rss)
-### crowe
+* [https://www.spiegel.de/start/sechstagewoche-als-vorbild-wie-viele-tage-die-woche-sollten-wir-arbeiten-newsletter](https://www.spiegel.de/start/sechstagewoche-als-vorbild-wie-viele-tage-die-woche-sollten-wir-arbeiten-newsletter-a-29f13ec1-ff39-4093-abab-94fe2f4e37b2#ref=rss)
+### viele
 
-* [https://www.spiegel.de/panorama/leute/russell-crowe-singt-bei-auftritt-in-rom-italo-pop](https://www.spiegel.de/panorama/leute/russell-crowe-singt-bei-auftritt-in-rom-italo-pop-a-8b7e8dd5-d589-4ac6-a423-18a61a759558#ref=rss)
-### auftritt
+* [https://www.spiegel.de/start/sechstagewoche-als-vorbild-wie-viele-tage-die-woche-sollten-wir-arbeiten-newsletter](https://www.spiegel.de/start/sechstagewoche-als-vorbild-wie-viele-tage-die-woche-sollten-wir-arbeiten-newsletter-a-29f13ec1-ff39-4093-abab-94fe2f4e37b2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutschland-nettozuwanderung-hat-sich-2023-mehr-als-halbiert](https://www.spiegel.de/politik/deutschland/deutschland-nettozuwanderung-hat-sich-2023-mehr-als-halbiert-a-ba12e11b-2784-43b0-b7be-0152a47c2939#ref=rss)
+### woche
 
-* [https://www.spiegel.de/panorama/leute/russell-crowe-singt-bei-auftritt-in-rom-italo-pop](https://www.spiegel.de/panorama/leute/russell-crowe-singt-bei-auftritt-in-rom-italo-pop-a-8b7e8dd5-d589-4ac6-a423-18a61a759558#ref=rss)
-### rom
+* [https://www.spiegel.de/start/sechstagewoche-als-vorbild-wie-viele-tage-die-woche-sollten-wir-arbeiten-newsletter](https://www.spiegel.de/start/sechstagewoche-als-vorbild-wie-viele-tage-die-woche-sollten-wir-arbeiten-newsletter-a-29f13ec1-ff39-4093-abab-94fe2f4e37b2#ref=rss)
+### führt
 
-* [https://www.spiegel.de/panorama/leute/russell-crowe-singt-bei-auftritt-in-rom-italo-pop](https://www.spiegel.de/panorama/leute/russell-crowe-singt-bei-auftritt-in-rom-italo-pop-a-8b7e8dd5-d589-4ac6-a423-18a61a759558#ref=rss)
-### drei
+* [https://www.spiegel.de/start/sechstagewoche-als-vorbild-wie-viele-tage-die-woche-sollten-wir-arbeiten-newsletter](https://www.spiegel.de/start/sechstagewoche-als-vorbild-wie-viele-tage-die-woche-sollten-wir-arbeiten-newsletter-a-29f13ec1-ff39-4093-abab-94fe2f4e37b2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/eu-fuehrt-wieder-zoelle-auf-zucker-und-eier-aus-der-ukraine-ein](https://www.spiegel.de/wirtschaft/unternehmen/eu-fuehrt-wieder-zoelle-auf-zucker-und-eier-aus-der-ukraine-ein-a-96982cd0-ec3f-4a64-b159-039cebfdcb6b#ref=rss)
+### emma
 
-* [https://www.spiegel.de/panorama/justiz/gummersbach-baby-zu-tode-geschuettelt-drei-jahre-haft-fuer-vater](https://www.spiegel.de/panorama/justiz/gummersbach-baby-zu-tode-geschuettelt-drei-jahre-haft-fuer-vater-a-5ac2bbe3-a303-4136-a5be-96bec7263785#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-gegen-belgien-fussball-em-in-zeiten-des-krieges](https://www.spiegel.de/ausland/ukraine-gegen-belgien-fussball-em-in-zeiten-des-krieges-a-4a5a34c4-dd83-4a9d-b1a2-a45e0db04d46#ref=rss)
-### verurteilt
+* [https://www.spiegel.de/kultur/kino/emma-roberts-fragt-sich-wieso-niemand-george-clooney-vorwirft-ein-nepo-baby-zu-sein](https://www.spiegel.de/kultur/kino/emma-roberts-fragt-sich-wieso-niemand-george-clooney-vorwirft-ein-nepo-baby-zu-sein-a-c8aa2415-5f4c-4cb0-adb0-55e5f0b7f2e2#ref=rss)
+### roberts
 
-* [https://www.spiegel.de/panorama/justiz/gummersbach-baby-zu-tode-geschuettelt-drei-jahre-haft-fuer-vater](https://www.spiegel.de/panorama/justiz/gummersbach-baby-zu-tode-geschuettelt-drei-jahre-haft-fuer-vater-a-5ac2bbe3-a303-4136-a5be-96bec7263785#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ursula-haverbeck-holocaustleugnerin-erneut-wegen-volksverhetzung-verurteilt](https://www.spiegel.de/panorama/justiz/ursula-haverbeck-holocaustleugnerin-erneut-wegen-volksverhetzung-verurteilt-a-67fe4ed5-dd8c-409a-9358-f7b67a9a2182#ref=rss)
-### bettina
+* [https://www.spiegel.de/kultur/kino/emma-roberts-fragt-sich-wieso-niemand-george-clooney-vorwirft-ein-nepo-baby-zu-sein](https://www.spiegel.de/kultur/kino/emma-roberts-fragt-sich-wieso-niemand-george-clooney-vorwirft-ein-nepo-baby-zu-sein-a-c8aa2415-5f4c-4cb0-adb0-55e5f0b7f2e2#ref=rss)
+### kritisiert
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ampel-in-der-krise-affaere-um-bettina-stark-watzinger-julian-assange-frei](https://www.spiegel.de/politik/deutschland/news-des-tages-ampel-in-der-krise-affaere-um-bettina-stark-watzinger-julian-assange-frei-a-50d52cfb-bf58-43a4-ba97-c6d4448f3bd8#ref=rss)
-### ursula
+* [https://www.spiegel.de/kultur/kino/emma-roberts-fragt-sich-wieso-niemand-george-clooney-vorwirft-ein-nepo-baby-zu-sein](https://www.spiegel.de/kultur/kino/emma-roberts-fragt-sich-wieso-niemand-george-clooney-vorwirft-ein-nepo-baby-zu-sein-a-c8aa2415-5f4c-4cb0-adb0-55e5f0b7f2e2#ref=rss)
+* [https://www.spiegel.de/sport/fussball/em-2024-toni-kroos-kritisiert-dfb-berichterstattung](https://www.spiegel.de/sport/fussball/em-2024-toni-kroos-kritisiert-dfb-berichterstattung-a-a1e8fa03-51b9-4c43-9566-d6fa24201195#ref=rss)
+### emvorrunde
 
-* [https://www.spiegel.de/panorama/justiz/ursula-haverbeck-holocaustleugnerin-erneut-wegen-volksverhetzung-verurteilt](https://www.spiegel.de/panorama/justiz/ursula-haverbeck-holocaustleugnerin-erneut-wegen-volksverhetzung-verurteilt-a-67fe4ed5-dd8c-409a-9358-f7b67a9a2182#ref=rss)
-### haverbeck
+* [https://www.spiegel.de/sport/georgier-feiern-historischen-em-sieg-es-ist-unser-erstes-mal](https://www.spiegel.de/sport/georgier-feiern-historischen-em-sieg-es-ist-unser-erstes-mal-a-a4bf392f-0b27-43ef-8770-9addb0f5a52f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/em-2024-diese-spieler-haben-fuer-die-momente-der-bisherigen-em-gesorgt](https://www.spiegel.de/sport/fussball/em-2024-diese-spieler-haben-fuer-die-momente-der-bisherigen-em-gesorgt-a-0c7308f2-6781-4bd5-8495-07ff5720b36d#ref=rss)
+### mann
 
-* [https://www.spiegel.de/panorama/justiz/ursula-haverbeck-holocaustleugnerin-erneut-wegen-volksverhetzung-verurteilt](https://www.spiegel.de/panorama/justiz/ursula-haverbeck-holocaustleugnerin-erneut-wegen-volksverhetzung-verurteilt-a-67fe4ed5-dd8c-409a-9358-f7b67a9a2182#ref=rss)
-### volksverhetzung
+* [https://www.spiegel.de/panorama/justiz/tschechien-mann-zuendete-feuerwerkskoerper-in-der-vagina-seiner-frau-18-jahre-haft](https://www.spiegel.de/panorama/justiz/tschechien-mann-zuendete-feuerwerkskoerper-in-der-vagina-seiner-frau-18-jahre-haft-a-5fca76e4-37e1-405a-9cd1-63be4cb7ee54#ref=rss)
+### verletzt
 
-* [https://www.spiegel.de/panorama/justiz/ursula-haverbeck-holocaustleugnerin-erneut-wegen-volksverhetzung-verurteilt](https://www.spiegel.de/panorama/justiz/ursula-haverbeck-holocaustleugnerin-erneut-wegen-volksverhetzung-verurteilt-a-67fe4ed5-dd8c-409a-9358-f7b67a9a2182#ref=rss)
-### innenministerin
+* [https://www.spiegel.de/panorama/justiz/tschechien-mann-zuendete-feuerwerkskoerper-in-der-vagina-seiner-frau-18-jahre-haft](https://www.spiegel.de/panorama/justiz/tschechien-mann-zuendete-feuerwerkskoerper-in-der-vagina-seiner-frau-18-jahre-haft-a-5fca76e4-37e1-405a-9cd1-63be4cb7ee54#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/stuttgart-drei-verletzte-nach-auseinandersetzung-in-em-fanzone](https://www.spiegel.de/panorama/justiz/stuttgart-drei-verletzte-nach-auseinandersetzung-in-em-fanzone-a-9677539e-e4ba-4790-995e-2ced992a8bb0#ref=rss)
+### fall
 
-* [https://www.spiegel.de/politik/deutschland/strukturfoerderung-innenministerin-nancy-faeser-will-forschungseinrichtungen-und-behoerden-in-ostdeutschland-ansiedeln](https://www.spiegel.de/politik/deutschland/strukturfoerderung-innenministerin-nancy-faeser-will-forschungseinrichtungen-und-behoerden-in-ostdeutschland-ansiedeln-a-27af416a-da29-44dd-8248-89f74063b00a#ref=rss)
-### faeser
+* [https://www.spiegel.de/panorama/justiz/fall-arian-in-stade-gefundene-kinderleiche-polizei-gibt-erste-obduktionsergebnisse-bekannt](https://www.spiegel.de/panorama/justiz/fall-arian-in-stade-gefundene-kinderleiche-polizei-gibt-erste-obduktionsergebnisse-bekannt-a-9e9a2b20-f094-4a17-aa58-9f4266fc6d64#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spionage-wollten-russische-agenten-in-frankfurt-einen-ukrainer-entfuehren](https://www.spiegel.de/politik/deutschland/spionage-wollten-russische-agenten-in-frankfurt-einen-ukrainer-entfuehren-a-429a9b43-6e0b-4e16-be3c-2a8b4d411605#ref=rss)
+### kind
 
-* [https://www.spiegel.de/politik/deutschland/strukturfoerderung-innenministerin-nancy-faeser-will-forschungseinrichtungen-und-behoerden-in-ostdeutschland-ansiedeln](https://www.spiegel.de/politik/deutschland/strukturfoerderung-innenministerin-nancy-faeser-will-forschungseinrichtungen-und-behoerden-in-ostdeutschland-ansiedeln-a-27af416a-da29-44dd-8248-89f74063b00a#ref=rss)
-### forschungseinrichtungen
+* [https://www.spiegel.de/panorama/justiz/fall-arian-in-stade-gefundene-kinderleiche-polizei-gibt-erste-obduktionsergebnisse-bekannt](https://www.spiegel.de/panorama/justiz/fall-arian-in-stade-gefundene-kinderleiche-polizei-gibt-erste-obduktionsergebnisse-bekannt-a-9e9a2b20-f094-4a17-aa58-9f4266fc6d64#ref=rss)
+### bisher
 
-* [https://www.spiegel.de/politik/deutschland/strukturfoerderung-innenministerin-nancy-faeser-will-forschungseinrichtungen-und-behoerden-in-ostdeutschland-ansiedeln](https://www.spiegel.de/politik/deutschland/strukturfoerderung-innenministerin-nancy-faeser-will-forschungseinrichtungen-und-behoerden-in-ostdeutschland-ansiedeln-a-27af416a-da29-44dd-8248-89f74063b00a#ref=rss)
-### behörden
+* [https://www.spiegel.de/panorama/justiz/fall-arian-in-stade-gefundene-kinderleiche-polizei-gibt-erste-obduktionsergebnisse-bekannt](https://www.spiegel.de/panorama/justiz/fall-arian-in-stade-gefundene-kinderleiche-polizei-gibt-erste-obduktionsergebnisse-bekannt-a-9e9a2b20-f094-4a17-aa58-9f4266fc6d64#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/abitur-kultusministerium-will-alte-aufgaben-kostenlos-online-stellen](https://www.spiegel.de/panorama/bildung/abitur-kultusministerium-will-alte-aufgaben-kostenlos-online-stellen-a-996487b2-f5d7-4900-8425-4e741bf76626#ref=rss)
+### auseinandersetzung
 
-* [https://www.spiegel.de/politik/deutschland/strukturfoerderung-innenministerin-nancy-faeser-will-forschungseinrichtungen-und-behoerden-in-ostdeutschland-ansiedeln](https://www.spiegel.de/politik/deutschland/strukturfoerderung-innenministerin-nancy-faeser-will-forschungseinrichtungen-und-behoerden-in-ostdeutschland-ansiedeln-a-27af416a-da29-44dd-8248-89f74063b00a#ref=rss)
-### ostdeutschland
+* [https://www.spiegel.de/panorama/justiz/stuttgart-drei-verletzte-nach-auseinandersetzung-in-em-fanzone](https://www.spiegel.de/panorama/justiz/stuttgart-drei-verletzte-nach-auseinandersetzung-in-em-fanzone-a-9677539e-e4ba-4790-995e-2ced992a8bb0#ref=rss)
+### unklar
 
-* [https://www.spiegel.de/politik/deutschland/strukturfoerderung-innenministerin-nancy-faeser-will-forschungseinrichtungen-und-behoerden-in-ostdeutschland-ansiedeln](https://www.spiegel.de/politik/deutschland/strukturfoerderung-innenministerin-nancy-faeser-will-forschungseinrichtungen-und-behoerden-in-ostdeutschland-ansiedeln-a-27af416a-da29-44dd-8248-89f74063b00a#ref=rss)
-### ansiedeln
+* [https://www.spiegel.de/panorama/justiz/stuttgart-drei-verletzte-nach-auseinandersetzung-in-em-fanzone](https://www.spiegel.de/panorama/justiz/stuttgart-drei-verletzte-nach-auseinandersetzung-in-em-fanzone-a-9677539e-e4ba-4790-995e-2ced992a8bb0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bundesgerichtshof-schraenkt-werbung-mit-dem-begriff-klimaneutral-ein](https://www.spiegel.de/wirtschaft/unternehmen/bundesgerichtshof-schraenkt-werbung-mit-dem-begriff-klimaneutral-ein-a-76d0707e-e865-4287-b9ad-61a4add4f3d5#ref=rss)
+### elon
 
-* [https://www.spiegel.de/politik/deutschland/strukturfoerderung-innenministerin-nancy-faeser-will-forschungseinrichtungen-und-behoerden-in-ostdeutschland-ansiedeln](https://www.spiegel.de/politik/deutschland/strukturfoerderung-innenministerin-nancy-faeser-will-forschungseinrichtungen-und-behoerden-in-ostdeutschland-ansiedeln-a-27af416a-da29-44dd-8248-89f74063b00a#ref=rss)
-### künftig
+* [https://www.spiegel.de/wissenschaft/weltall/elon-musks-team-soll-internationale-raumstation-aus-dem-orbit-holen](https://www.spiegel.de/wissenschaft/weltall/elon-musks-team-soll-internationale-raumstation-aus-dem-orbit-holen-a-570833b7-53b3-43ce-9565-a5067e818474#ref=rss)
+### musks
 
-* [https://www.spiegel.de/politik/deutschland/strukturfoerderung-innenministerin-nancy-faeser-will-forschungseinrichtungen-und-behoerden-in-ostdeutschland-ansiedeln](https://www.spiegel.de/politik/deutschland/strukturfoerderung-innenministerin-nancy-faeser-will-forschungseinrichtungen-und-behoerden-in-ostdeutschland-ansiedeln-a-27af416a-da29-44dd-8248-89f74063b00a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/experten-fordern-billigeren-strom-und-teurere-fossile-brennstoffe](https://www.spiegel.de/wissenschaft/natur/experten-fordern-billigeren-strom-und-teurere-fossile-brennstoffe-a-5748d811-3e1e-4acb-ab91-1704c62ae375#ref=rss)
-### orfkorrespondentin
+* [https://www.spiegel.de/wissenschaft/weltall/elon-musks-team-soll-internationale-raumstation-aus-dem-orbit-holen](https://www.spiegel.de/wissenschaft/weltall/elon-musks-team-soll-internationale-raumstation-aus-dem-orbit-holen-a-570833b7-53b3-43ce-9565-a5067e818474#ref=rss)
+### team
 
-* [https://www.spiegel.de/ausland/russland-weitere-orf-korrespondentin-in-moskau-verliert-akkreditierung](https://www.spiegel.de/ausland/russland-weitere-orf-korrespondentin-in-moskau-verliert-akkreditierung-a-a2ffdc22-c7f0-43ee-b85b-ee2004b404e3#ref=rss)
-### moskau
+* [https://www.spiegel.de/wissenschaft/weltall/elon-musks-team-soll-internationale-raumstation-aus-dem-orbit-holen](https://www.spiegel.de/wissenschaft/weltall/elon-musks-team-soll-internationale-raumstation-aus-dem-orbit-holen-a-570833b7-53b3-43ce-9565-a5067e818474#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-draft-deutsches-talent-tristan-da-silva-spielt-mit-moritz-und-franz-wagner-bei-orlando-magic](https://www.spiegel.de/sport/basketball/nba-draft-deutsches-talent-tristan-da-silva-spielt-mit-moritz-und-franz-wagner-bei-orlando-magic-a-9fc27747-a515-43a7-9e9e-04e945e333a9#ref=rss)
+### marilyn
 
-* [https://www.spiegel.de/ausland/russland-weitere-orf-korrespondentin-in-moskau-verliert-akkreditierung](https://www.spiegel.de/ausland/russland-weitere-orf-korrespondentin-in-moskau-verliert-akkreditierung-a-a2ffdc22-c7f0-43ee-b85b-ee2004b404e3#ref=rss)
-### rudi
+* [https://www.spiegel.de/panorama/leute/marilyn-monroe-letzte-villa-in-los-angeles-unter-denkmalschutz-gestellt](https://www.spiegel.de/panorama/leute/marilyn-monroe-letzte-villa-in-los-angeles-unter-denkmalschutz-gestellt-a-c52b5e92-339b-4bf8-9cb9-70df14be16f0#ref=rss)
+### monroe
 
-* [https://www.spiegel.de/sport/fussball/dfb-sportdirektor-rudi-voeller-ich-bin-halt-ein-bisschen-old-school](https://www.spiegel.de/sport/fussball/dfb-sportdirektor-rudi-voeller-ich-bin-halt-ein-bisschen-old-school-a-3ab400c0-f56b-459a-be9a-9b2dfb3bcd08#ref=rss)
-### völler
+* [https://www.spiegel.de/panorama/leute/marilyn-monroe-letzte-villa-in-los-angeles-unter-denkmalschutz-gestellt](https://www.spiegel.de/panorama/leute/marilyn-monroe-letzte-villa-in-los-angeles-unter-denkmalschutz-gestellt-a-c52b5e92-339b-4bf8-9cb9-70df14be16f0#ref=rss)
+### los
 
-* [https://www.spiegel.de/sport/fussball/dfb-sportdirektor-rudi-voeller-ich-bin-halt-ein-bisschen-old-school](https://www.spiegel.de/sport/fussball/dfb-sportdirektor-rudi-voeller-ich-bin-halt-ein-bisschen-old-school-a-3ab400c0-f56b-459a-be9a-9b2dfb3bcd08#ref=rss)
-### fordern
+* [https://www.spiegel.de/panorama/leute/marilyn-monroe-letzte-villa-in-los-angeles-unter-denkmalschutz-gestellt](https://www.spiegel.de/panorama/leute/marilyn-monroe-letzte-villa-in-los-angeles-unter-denkmalschutz-gestellt-a-c52b5e92-339b-4bf8-9cb9-70df14be16f0#ref=rss)
+### angeles
 
-* [https://www.spiegel.de/wissenschaft/natur/experten-fordern-billigeren-strom-und-teurere-fossile-brennstoffe](https://www.spiegel.de/wissenschaft/natur/experten-fordern-billigeren-strom-und-teurere-fossile-brennstoffe-a-5748d811-3e1e-4acb-ab91-1704c62ae375#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/geldwaeschebekaempfung-ampel-fraktionen-fordern-von-christian-lindner-weitere-schritte](https://www.spiegel.de/wirtschaft/service/geldwaeschebekaempfung-ampel-fraktionen-fordern-von-christian-lindner-weitere-schritte-a-735a00d0-8a20-4d63-bbe2-098bec86b2cc#ref=rss)
-### strom
+* [https://www.spiegel.de/panorama/leute/marilyn-monroe-letzte-villa-in-los-angeles-unter-denkmalschutz-gestellt](https://www.spiegel.de/panorama/leute/marilyn-monroe-letzte-villa-in-los-angeles-unter-denkmalschutz-gestellt-a-c52b5e92-339b-4bf8-9cb9-70df14be16f0#ref=rss)
+### unter
 
-* [https://www.spiegel.de/wissenschaft/natur/experten-fordern-billigeren-strom-und-teurere-fossile-brennstoffe](https://www.spiegel.de/wissenschaft/natur/experten-fordern-billigeren-strom-und-teurere-fossile-brennstoffe-a-5748d811-3e1e-4acb-ab91-1704c62ae375#ref=rss)
-### kenia
+* [https://www.spiegel.de/panorama/leute/marilyn-monroe-letzte-villa-in-los-angeles-unter-denkmalschutz-gestellt](https://www.spiegel.de/panorama/leute/marilyn-monroe-letzte-villa-in-los-angeles-unter-denkmalschutz-gestellt-a-c52b5e92-339b-4bf8-9cb9-70df14be16f0#ref=rss)
+### denkmalschutz
 
-* [https://www.spiegel.de/ausland/kenia-praesident-william-ruto-will-umstrittenes-steuergesetz-nach-ausschreitungen-zurueckziehen](https://www.spiegel.de/ausland/kenia-praesident-william-ruto-will-umstrittenes-steuergesetz-nach-ausschreitungen-zurueckziehen-a-ef029bfc-b211-4c50-a51e-65bc280e36a2#ref=rss)
-### präsident
+* [https://www.spiegel.de/panorama/leute/marilyn-monroe-letzte-villa-in-los-angeles-unter-denkmalschutz-gestellt](https://www.spiegel.de/panorama/leute/marilyn-monroe-letzte-villa-in-los-angeles-unter-denkmalschutz-gestellt-a-c52b5e92-339b-4bf8-9cb9-70df14be16f0#ref=rss)
+### bedroht
 
-* [https://www.spiegel.de/ausland/kenia-praesident-william-ruto-will-umstrittenes-steuergesetz-nach-ausschreitungen-zurueckziehen](https://www.spiegel.de/ausland/kenia-praesident-william-ruto-will-umstrittenes-steuergesetz-nach-ausschreitungen-zurueckziehen-a-ef029bfc-b211-4c50-a51e-65bc280e36a2#ref=rss)
-### william
+* [https://www.spiegel.de/panorama/leute/marilyn-monroe-letzte-villa-in-los-angeles-unter-denkmalschutz-gestellt](https://www.spiegel.de/panorama/leute/marilyn-monroe-letzte-villa-in-los-angeles-unter-denkmalschutz-gestellt-a-c52b5e92-339b-4bf8-9cb9-70df14be16f0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/landwirtschaft-wie-zornig-und-rechts-sind-die-bauern-frau-pieper](https://www.spiegel.de/wirtschaft/soziales/landwirtschaft-wie-zornig-und-rechts-sind-die-bauern-frau-pieper-a-623d69bc-4745-4821-80fe-8c3269ce7388#ref=rss)
+### 2024
 
-* [https://www.spiegel.de/ausland/kenia-praesident-william-ruto-will-umstrittenes-steuergesetz-nach-ausschreitungen-zurueckziehen](https://www.spiegel.de/ausland/kenia-praesident-william-ruto-will-umstrittenes-steuergesetz-nach-ausschreitungen-zurueckziehen-a-ef029bfc-b211-4c50-a51e-65bc280e36a2#ref=rss)
-### ruto
+* [https://www.spiegel.de/sport/fussball/em-2024-toni-kroos-kritisiert-dfb-berichterstattung](https://www.spiegel.de/sport/fussball/em-2024-toni-kroos-kritisiert-dfb-berichterstattung-a-a1e8fa03-51b9-4c43-9566-d6fa24201195#ref=rss)
+* [https://www.spiegel.de/sport/fussball/em-2024-diese-spieler-haben-fuer-die-momente-der-bisherigen-em-gesorgt](https://www.spiegel.de/sport/fussball/em-2024-diese-spieler-haben-fuer-die-momente-der-bisherigen-em-gesorgt-a-0c7308f2-6781-4bd5-8495-07ff5720b36d#ref=rss)
+### toni
 
-* [https://www.spiegel.de/ausland/kenia-praesident-william-ruto-will-umstrittenes-steuergesetz-nach-ausschreitungen-zurueckziehen](https://www.spiegel.de/ausland/kenia-praesident-william-ruto-will-umstrittenes-steuergesetz-nach-ausschreitungen-zurueckziehen-a-ef029bfc-b211-4c50-a51e-65bc280e36a2#ref=rss)
-### steuergesetz
+* [https://www.spiegel.de/sport/fussball/em-2024-toni-kroos-kritisiert-dfb-berichterstattung](https://www.spiegel.de/sport/fussball/em-2024-toni-kroos-kritisiert-dfb-berichterstattung-a-a1e8fa03-51b9-4c43-9566-d6fa24201195#ref=rss)
+### kroos
 
-* [https://www.spiegel.de/ausland/kenia-praesident-william-ruto-will-umstrittenes-steuergesetz-nach-ausschreitungen-zurueckziehen](https://www.spiegel.de/ausland/kenia-praesident-william-ruto-will-umstrittenes-steuergesetz-nach-ausschreitungen-zurueckziehen-a-ef029bfc-b211-4c50-a51e-65bc280e36a2#ref=rss)
-### gesetz
+* [https://www.spiegel.de/sport/fussball/em-2024-toni-kroos-kritisiert-dfb-berichterstattung](https://www.spiegel.de/sport/fussball/em-2024-toni-kroos-kritisiert-dfb-berichterstattung-a-a1e8fa03-51b9-4c43-9566-d6fa24201195#ref=rss)
+### gemeinsamen
 
-* [https://www.spiegel.de/ausland/kenia-praesident-william-ruto-will-umstrittenes-steuergesetz-nach-ausschreitungen-zurueckziehen](https://www.spiegel.de/ausland/kenia-praesident-william-ruto-will-umstrittenes-steuergesetz-nach-ausschreitungen-zurueckziehen-a-ef029bfc-b211-4c50-a51e-65bc280e36a2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/geldwaeschebekaempfung-ampel-fraktionen-fordern-von-christian-lindner-weitere-schritte](https://www.spiegel.de/wirtschaft/service/geldwaeschebekaempfung-ampel-fraktionen-fordern-von-christian-lindner-weitere-schritte-a-735a00d0-8a20-4d63-bbe2-098bec86b2cc#ref=rss)
-### ehefrau
+* [https://www.spiegel.de/sport/fussball/em-2024-toni-kroos-kritisiert-dfb-berichterstattung](https://www.spiegel.de/sport/fussball/em-2024-toni-kroos-kritisiert-dfb-berichterstattung-a-a1e8fa03-51b9-4c43-9566-d6fa24201195#ref=rss)
+* [https://www.spiegel.de/ausland/russland-baltische-staaten-und-polen-verlangen-verteidigungssystem-an-eu-aussengrenze](https://www.spiegel.de/ausland/russland-baltische-staaten-und-polen-verlangen-verteidigungssystem-an-eu-aussengrenze-a-0d672b07-416b-4313-915b-51b8fb285f87#ref=rss)
+### podcast
 
-* [https://www.spiegel.de/ausland/julian-assange-ehefrau-stella-dankt-allen-er-wollte-hier-sein](https://www.spiegel.de/ausland/julian-assange-ehefrau-stella-dankt-allen-er-wollte-hier-sein-a-559edd18-472f-4409-b45f-e53a00e95de6#ref=rss)
-### stella
+* [https://www.spiegel.de/sport/fussball/em-2024-toni-kroos-kritisiert-dfb-berichterstattung](https://www.spiegel.de/sport/fussball/em-2024-toni-kroos-kritisiert-dfb-berichterstattung-a-a1e8fa03-51b9-4c43-9566-d6fa24201195#ref=rss)
+* [https://www.spiegel.de/ausland/podcast-judging-amand-knox-trailer](https://www.spiegel.de/ausland/podcast-judging-amand-knox-trailer-a-14708d04-bbf9-42ae-96f4-bc47a3d4e826#ref=rss)
+### stimmung
 
-* [https://www.spiegel.de/ausland/julian-assange-ehefrau-stella-dankt-allen-er-wollte-hier-sein](https://www.spiegel.de/ausland/julian-assange-ehefrau-stella-dankt-allen-er-wollte-hier-sein-a-559edd18-472f-4409-b45f-e53a00e95de6#ref=rss)
-### fördergeldaffäre
+* [https://www.spiegel.de/sport/fussball/em-2024-toni-kroos-kritisiert-dfb-berichterstattung](https://www.spiegel.de/sport/fussball/em-2024-toni-kroos-kritisiert-dfb-berichterstattung-a-a1e8fa03-51b9-4c43-9566-d6fa24201195#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/landwirtschaft-wie-zornig-und-rechts-sind-die-bauern-frau-pieper](https://www.spiegel.de/wirtschaft/soziales/landwirtschaft-wie-zornig-und-rechts-sind-die-bauern-frau-pieper-a-623d69bc-4745-4821-80fe-8c3269ce7388#ref=rss)
+### tristan
 
-* [https://www.spiegel.de/politik/deutschland/foerdergeld-affaere-im-bmbf-grosses-unwohlsein-namen-in-listen-zu-markieren](https://www.spiegel.de/politik/deutschland/foerdergeld-affaere-im-bmbf-grosses-unwohlsein-namen-in-listen-zu-markieren-a-050cc30f-41c1-438a-96da-15d33fabe9ee#ref=rss)
-### namen
+* [https://www.spiegel.de/sport/basketball/nba-draft-deutsches-talent-tristan-da-silva-spielt-mit-moritz-und-franz-wagner-bei-orlando-magic](https://www.spiegel.de/sport/basketball/nba-draft-deutsches-talent-tristan-da-silva-spielt-mit-moritz-und-franz-wagner-bei-orlando-magic-a-9fc27747-a515-43a7-9e9e-04e945e333a9#ref=rss)
+### silva
 
-* [https://www.spiegel.de/politik/deutschland/foerdergeld-affaere-im-bmbf-grosses-unwohlsein-namen-in-listen-zu-markieren](https://www.spiegel.de/politik/deutschland/foerdergeld-affaere-im-bmbf-grosses-unwohlsein-namen-in-listen-zu-markieren-a-050cc30f-41c1-438a-96da-15d33fabe9ee#ref=rss)
-### arian
+* [https://www.spiegel.de/sport/basketball/nba-draft-deutsches-talent-tristan-da-silva-spielt-mit-moritz-und-franz-wagner-bei-orlando-magic](https://www.spiegel.de/sport/basketball/nba-draft-deutsches-talent-tristan-da-silva-spielt-mit-moritz-und-franz-wagner-bei-orlando-magic-a-9fc27747-a515-43a7-9e9e-04e945e333a9#ref=rss)
+### habeck
 
-* [https://www.spiegel.de/panorama/justiz/arian-wie-gehen-die-ermittlungen-weiter](https://www.spiegel.de/panorama/justiz/arian-wie-gehen-die-ermittlungen-weiter-a-d55a4af3-5395-4e7c-94ff-a582a8c25aec#ref=rss)
-### gehen
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-lobt-angela-merkels-feinen-spott-in-neuer-rolling-stone](https://www.spiegel.de/politik/deutschland/robert-habeck-lobt-angela-merkels-feinen-spott-in-neuer-rolling-stone-a-fe78a989-6442-4cac-b99d-2e1b112b5318#ref=rss)
+### lobt
 
-* [https://www.spiegel.de/panorama/justiz/arian-wie-gehen-die-ermittlungen-weiter](https://www.spiegel.de/panorama/justiz/arian-wie-gehen-die-ermittlungen-weiter-a-d55a4af3-5395-4e7c-94ff-a582a8c25aec#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/arafat-abou-chaker-und-bushdio-gericht-entscheidet-im-immobilienstreit](https://www.spiegel.de/panorama/justiz/arafat-abou-chaker-und-bushdio-gericht-entscheidet-im-immobilienstreit-a-c4f528fc-63e3-4ef2-bf47-462ffdd02164#ref=rss)
-### ampelfraktionen
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-lobt-angela-merkels-feinen-spott-in-neuer-rolling-stone](https://www.spiegel.de/politik/deutschland/robert-habeck-lobt-angela-merkels-feinen-spott-in-neuer-rolling-stone-a-fe78a989-6442-4cac-b99d-2e1b112b5318#ref=rss)
+### merkels
 
-* [https://www.spiegel.de/wirtschaft/service/geldwaeschebekaempfung-ampel-fraktionen-fordern-von-christian-lindner-weitere-schritte](https://www.spiegel.de/wirtschaft/service/geldwaeschebekaempfung-ampel-fraktionen-fordern-von-christian-lindner-weitere-schritte-a-735a00d0-8a20-4d63-bbe2-098bec86b2cc#ref=rss)
-### arafat
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-lobt-angela-merkels-feinen-spott-in-neuer-rolling-stone](https://www.spiegel.de/politik/deutschland/robert-habeck-lobt-angela-merkels-feinen-spott-in-neuer-rolling-stone-a-fe78a989-6442-4cac-b99d-2e1b112b5318#ref=rss)
+### macht
 
-* [https://www.spiegel.de/panorama/justiz/arafat-abou-chaker-und-bushdio-gericht-entscheidet-im-immobilienstreit](https://www.spiegel.de/panorama/justiz/arafat-abou-chaker-und-bushdio-gericht-entscheidet-im-immobilienstreit-a-c4f528fc-63e3-4ef2-bf47-462ffdd02164#ref=rss)
-### abouchaker
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-lobt-angela-merkels-feinen-spott-in-neuer-rolling-stone](https://www.spiegel.de/politik/deutschland/robert-habeck-lobt-angela-merkels-feinen-spott-in-neuer-rolling-stone-a-fe78a989-6442-4cac-b99d-2e1b112b5318#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-waehlen-macht-laut-studie-ungluecklich](https://www.spiegel.de/politik/deutschland/afd-waehlen-macht-laut-studie-ungluecklich-a-e9cbc0cb-d753-40ba-ac5b-5dcd93fcec89#ref=rss)
+### zugleich
 
-* [https://www.spiegel.de/panorama/justiz/arafat-abou-chaker-und-bushdio-gericht-entscheidet-im-immobilienstreit](https://www.spiegel.de/panorama/justiz/arafat-abou-chaker-und-bushdio-gericht-entscheidet-im-immobilienstreit-a-c4f528fc-63e3-4ef2-bf47-462ffdd02164#ref=rss)
-### gericht
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-lobt-angela-merkels-feinen-spott-in-neuer-rolling-stone](https://www.spiegel.de/politik/deutschland/robert-habeck-lobt-angela-merkels-feinen-spott-in-neuer-rolling-stone-a-fe78a989-6442-4cac-b99d-2e1b112b5318#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutschland-nettozuwanderung-hat-sich-2023-mehr-als-halbiert](https://www.spiegel.de/politik/deutschland/deutschland-nettozuwanderung-hat-sich-2023-mehr-als-halbiert-a-ba12e11b-2784-43b0-b7be-0152a47c2939#ref=rss)
+### ebike
 
-* [https://www.spiegel.de/panorama/justiz/arafat-abou-chaker-und-bushdio-gericht-entscheidet-im-immobilienstreit](https://www.spiegel.de/panorama/justiz/arafat-abou-chaker-und-bushdio-gericht-entscheidet-im-immobilienstreit-a-c4f528fc-63e3-4ef2-bf47-462ffdd02164#ref=rss)
+* [https://www.spiegel.de/auto/fahrrad-markt-jeder-vierte-in-deutschland-besitzt-ein-e-bike](https://www.spiegel.de/auto/fahrrad-markt-jeder-vierte-in-deutschland-besitzt-ein-e-bike-a-4d061f26-44a7-4256-8737-ee01646339a4#ref=rss)
+### kaufen
+
+* [https://www.spiegel.de/auto/fahrrad-markt-jeder-vierte-in-deutschland-besitzt-ein-e-bike](https://www.spiegel.de/auto/fahrrad-markt-jeder-vierte-in-deutschland-besitzt-ein-e-bike-a-4d061f26-44a7-4256-8737-ee01646339a4#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/abitur-kultusministerium-will-alte-aufgaben-kostenlos-online-stellen](https://www.spiegel.de/panorama/bildung/abitur-kultusministerium-will-alte-aufgaben-kostenlos-online-stellen-a-996487b2-f5d7-4900-8425-4e741bf76626#ref=rss)
+### besonders
+
+* [https://www.spiegel.de/auto/fahrrad-markt-jeder-vierte-in-deutschland-besitzt-ein-e-bike](https://www.spiegel.de/auto/fahrrad-markt-jeder-vierte-in-deutschland-besitzt-ein-e-bike-a-4d061f26-44a7-4256-8737-ee01646339a4#ref=rss)
+* [https://www.spiegel.de/sport/fussball/em-2024-diese-spieler-haben-fuer-die-momente-der-bisherigen-em-gesorgt](https://www.spiegel.de/sport/fussball/em-2024-diese-spieler-haben-fuer-die-momente-der-bisherigen-em-gesorgt-a-0c7308f2-6781-4bd5-8495-07ff5720b36d#ref=rss)
+### petr
+
+* [https://www.spiegel.de/politik/deutschland/schmiergeldaffaere-erneut-razzia-bei-afd-politiker-petr-bystron](https://www.spiegel.de/politik/deutschland/schmiergeldaffaere-erneut-razzia-bei-afd-politiker-petr-bystron-a-8cb6091a-3dac-4366-8f50-b2980514ae63#ref=rss)
+### bystron
+
+* [https://www.spiegel.de/politik/deutschland/schmiergeldaffaere-erneut-razzia-bei-afd-politiker-petr-bystron](https://www.spiegel.de/politik/deutschland/schmiergeldaffaere-erneut-razzia-bei-afd-politiker-petr-bystron-a-8cb6091a-3dac-4366-8f50-b2980514ae63#ref=rss)
+### abitur
+
+* [https://www.spiegel.de/panorama/bildung/abitur-kultusministerium-will-alte-aufgaben-kostenlos-online-stellen](https://www.spiegel.de/panorama/bildung/abitur-kultusministerium-will-alte-aufgaben-kostenlos-online-stellen-a-996487b2-f5d7-4900-8425-4e741bf76626#ref=rss)
+### alte
+
+* [https://www.spiegel.de/panorama/bildung/abitur-kultusministerium-will-alte-aufgaben-kostenlos-online-stellen](https://www.spiegel.de/panorama/bildung/abitur-kultusministerium-will-alte-aufgaben-kostenlos-online-stellen-a-996487b2-f5d7-4900-8425-4e741bf76626#ref=rss)
+### aufgaben
+
+* [https://www.spiegel.de/panorama/bildung/abitur-kultusministerium-will-alte-aufgaben-kostenlos-online-stellen](https://www.spiegel.de/panorama/bildung/abitur-kultusministerium-will-alte-aufgaben-kostenlos-online-stellen-a-996487b2-f5d7-4900-8425-4e741bf76626#ref=rss)
+### kostenlos
+
+* [https://www.spiegel.de/panorama/bildung/abitur-kultusministerium-will-alte-aufgaben-kostenlos-online-stellen](https://www.spiegel.de/panorama/bildung/abitur-kultusministerium-will-alte-aufgaben-kostenlos-online-stellen-a-996487b2-f5d7-4900-8425-4e741bf76626#ref=rss)
+### pieper
+
+* [https://www.spiegel.de/wirtschaft/soziales/landwirtschaft-wie-zornig-und-rechts-sind-die-bauern-frau-pieper](https://www.spiegel.de/wirtschaft/soziales/landwirtschaft-wie-zornig-und-rechts-sind-die-bauern-frau-pieper-a-623d69bc-4745-4821-80fe-8c3269ce7388#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/russland-baltische-staaten-und-polen-verlangen-verteidigungssystem-an-eu-aussengrenze](https://www.spiegel.de/ausland/russland-baltische-staaten-und-polen-verlangen-verteidigungssystem-an-eu-aussengrenze-a-0d672b07-416b-4313-915b-51b8fb285f87#ref=rss)
+### projekt
+
+* [https://www.spiegel.de/ausland/russland-baltische-staaten-und-polen-verlangen-verteidigungssystem-an-eu-aussengrenze](https://www.spiegel.de/ausland/russland-baltische-staaten-und-polen-verlangen-verteidigungssystem-an-eu-aussengrenze-a-0d672b07-416b-4313-915b-51b8fb285f87#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/staatsbuergerschaftsrecht-kevin-kuehnert-wirft-friedrich-merz-ehrverletzung-vor](https://www.spiegel.de/politik/deutschland/staatsbuergerschaftsrecht-kevin-kuehnert-wirft-friedrich-merz-ehrverletzung-vor-a-bbf0b7da-4c7f-4955-bb72-085abf1b8ea8#ref=rss)
+### eu
+
+* [https://www.spiegel.de/ausland/russland-baltische-staaten-und-polen-verlangen-verteidigungssystem-an-eu-aussengrenze](https://www.spiegel.de/ausland/russland-baltische-staaten-und-polen-verlangen-verteidigungssystem-an-eu-aussengrenze-a-0d672b07-416b-4313-915b-51b8fb285f87#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/eu-fuehrt-wieder-zoelle-auf-zucker-und-eier-aus-der-ukraine-ein](https://www.spiegel.de/wirtschaft/unternehmen/eu-fuehrt-wieder-zoelle-auf-zucker-und-eier-aus-der-ukraine-ein-a-96982cd0-ec3f-4a64-b159-039cebfdcb6b#ref=rss)
+### staatsbürgerschaftsrecht
+
+* [https://www.spiegel.de/politik/deutschland/staatsbuergerschaftsrecht-kevin-kuehnert-wirft-friedrich-merz-ehrverletzung-vor](https://www.spiegel.de/politik/deutschland/staatsbuergerschaftsrecht-kevin-kuehnert-wirft-friedrich-merz-ehrverletzung-vor-a-bbf0b7da-4c7f-4955-bb72-085abf1b8ea8#ref=rss)
+### kühnert
+
+* [https://www.spiegel.de/politik/deutschland/staatsbuergerschaftsrecht-kevin-kuehnert-wirft-friedrich-merz-ehrverletzung-vor](https://www.spiegel.de/politik/deutschland/staatsbuergerschaftsrecht-kevin-kuehnert-wirft-friedrich-merz-ehrverletzung-vor-a-bbf0b7da-4c7f-4955-bb72-085abf1b8ea8#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/staatsbuergerschaftsrecht-kevin-kuehnert-wirft-friedrich-merz-ehrverletzung-vor](https://www.spiegel.de/politik/deutschland/staatsbuergerschaftsrecht-kevin-kuehnert-wirft-friedrich-merz-ehrverletzung-vor-a-bbf0b7da-4c7f-4955-bb72-085abf1b8ea8#ref=rss)
+### bundesgerichtshof
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bundesgerichtshof-schraenkt-werbung-mit-dem-begriff-klimaneutral-ein](https://www.spiegel.de/wirtschaft/unternehmen/bundesgerichtshof-schraenkt-werbung-mit-dem-begriff-klimaneutral-ein-a-76d0707e-e865-4287-b9ad-61a4add4f3d5#ref=rss)
+### klimaneutral
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bundesgerichtshof-schraenkt-werbung-mit-dem-begriff-klimaneutral-ein](https://www.spiegel.de/wirtschaft/unternehmen/bundesgerichtshof-schraenkt-werbung-mit-dem-begriff-klimaneutral-ein-a-76d0707e-e865-4287-b9ad-61a4add4f3d5#ref=rss)
+### marcuwe
+
+* [https://www.spiegel.de/kultur/marc-uwe-kling-hat-einen-krimi-geschrieben-views-handelt-von-der-suche-nach-einem-verschwundenen-maechen](https://www.spiegel.de/kultur/marc-uwe-kling-hat-einen-krimi-geschrieben-views-handelt-von-der-suche-nach-einem-verschwundenen-maechen-a-feb0eb9a-fd0e-42af-897c-61842f905352#ref=rss)
+### kling
+
+* [https://www.spiegel.de/kultur/marc-uwe-kling-hat-einen-krimi-geschrieben-views-handelt-von-der-suche-nach-einem-verschwundenen-maechen](https://www.spiegel.de/kultur/marc-uwe-kling-hat-einen-krimi-geschrieben-views-handelt-von-der-suche-nach-einem-verschwundenen-maechen-a-feb0eb9a-fd0e-42af-897c-61842f905352#ref=rss)
+### judging
+
+* [https://www.spiegel.de/ausland/podcast-judging-amand-knox-trailer](https://www.spiegel.de/ausland/podcast-judging-amand-knox-trailer-a-14708d04-bbf9-42ae-96f4-bc47a3d4e826#ref=rss)
+### knox
+
+* [https://www.spiegel.de/ausland/podcast-judging-amand-knox-trailer](https://www.spiegel.de/ausland/podcast-judging-amand-knox-trailer-a-14708d04-bbf9-42ae-96f4-bc47a3d4e826#ref=rss)
+### scheidungen
+
+* [https://www.spiegel.de/panorama/gesellschaft/scheidungen-in-deutschland-zahl-sinkt-auf-niedrigsten-stand-seit-1990](https://www.spiegel.de/panorama/gesellschaft/scheidungen-in-deutschland-zahl-sinkt-auf-niedrigsten-stand-seit-1990-a-38297d23-fbbd-4656-a7c8-7154ef353769#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/deutschland/afd-waehlen-macht-laut-studie-ungluecklich](https://www.spiegel.de/politik/deutschland/afd-waehlen-macht-laut-studie-ungluecklich-a-e9cbc0cb-d753-40ba-ac5b-5dcd93fcec89#ref=rss)
+### laut
+
+* [https://www.spiegel.de/politik/deutschland/afd-waehlen-macht-laut-studie-ungluecklich](https://www.spiegel.de/politik/deutschland/afd-waehlen-macht-laut-studie-ungluecklich-a-e9cbc0cb-d753-40ba-ac5b-5dcd93fcec89#ref=rss)
+### studie
+
+* [https://www.spiegel.de/politik/deutschland/afd-waehlen-macht-laut-studie-ungluecklich](https://www.spiegel.de/politik/deutschland/afd-waehlen-macht-laut-studie-ungluecklich-a-e9cbc0cb-d753-40ba-ac5b-5dcd93fcec89#ref=rss)
+### zölle
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/eu-fuehrt-wieder-zoelle-auf-zucker-und-eier-aus-der-ukraine-ein](https://www.spiegel.de/wirtschaft/unternehmen/eu-fuehrt-wieder-zoelle-auf-zucker-und-eier-aus-der-ukraine-ein-a-96982cd0-ec3f-4a64-b159-039cebfdcb6b#ref=rss)
 
