@@ -4,310 +4,307 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### donald
-
-* [https://www.spiegel.de/ausland/joe-biden-und-donald-trump-was-dieses-fernsehduell-anders-macht](https://www.spiegel.de/ausland/joe-biden-und-donald-trump-was-dieses-fernsehduell-anders-macht-a-46674be3-f2e6-49d3-8f19-4cbd993817ae#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-joe-biden-vs-donald-trump-afd-waehler-spione-in-frankfurt](https://www.spiegel.de/politik/deutschland/news-des-tages-joe-biden-vs-donald-trump-afd-waehler-spione-in-frankfurt-a-34fdcddf-8683-47d9-bfb0-08f0d1bba2d5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-us-manager-schmeicheln-dem-ex-praesidenten-hoffnung-auf-steuersenkungen](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-us-manager-schmeicheln-dem-ex-praesidenten-hoffnung-auf-steuersenkungen-a-d403e178-e085-4e8f-b5a5-fc8f87bf7761#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/joe-biden-und-donald-trump-was-dieses-fernsehduell-anders-macht](https://www.spiegel.de/ausland/joe-biden-und-donald-trump-was-dieses-fernsehduell-anders-macht-a-46674be3-f2e6-49d3-8f19-4cbd993817ae#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-joe-biden-vs-donald-trump-afd-waehler-spione-in-frankfurt](https://www.spiegel.de/politik/deutschland/news-des-tages-joe-biden-vs-donald-trump-afd-waehler-spione-in-frankfurt-a-34fdcddf-8683-47d9-bfb0-08f0d1bba2d5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-us-manager-schmeicheln-dem-ex-praesidenten-hoffnung-auf-steuersenkungen](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-us-manager-schmeicheln-dem-ex-praesidenten-hoffnung-auf-steuersenkungen-a-d403e178-e085-4e8f-b5a5-fc8f87bf7761#ref=rss)
-### 2024
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-die-zweite-chance-des-nico-schlotterbeck-im-dfb-team](https://www.spiegel.de/sport/fussball/fussball-em-2024-die-zweite-chance-des-nico-schlotterbeck-im-dfb-team-a-a1c8cd31-c708-4b23-bbc1-05ee5df7e39a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2024-warum-fussballer-bei-siegtreffern-ihr-trikot-ausziehen](https://www.spiegel.de/sport/fussball/em-2024-warum-fussballer-bei-siegtreffern-ihr-trikot-ausziehen-a-555e60cf-f279-4c87-bc33-595eee0113cb#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2024-die-neue-kapitaensregel-macht-den-fussball-zum-gewinner](https://www.spiegel.de/sport/fussball/em-2024-die-neue-kapitaensregel-macht-den-fussball-zum-gewinner-a-e2eb495b-f3a6-44ff-aa73-b78fb298bb0f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/rote-liste-2024-mehr-als-tausend-weitere-tier-und-pflanzenarten-vom-aussterben-bedroht](https://www.spiegel.de/wissenschaft/natur/rote-liste-2024-mehr-als-tausend-weitere-tier-und-pflanzenarten-vom-aussterben-bedroht-a-97366b3f-b312-4228-8d45-7e6c53739880#ref=rss)
-### bundestag
-
-* [https://www.spiegel.de/politik/deutschland/saskia-esken-will-fuer-die-spd-doch-noch-mal-fuer-den-bundestag-kandidieren](https://www.spiegel.de/politik/deutschland/saskia-esken-will-fuer-die-spd-doch-noch-mal-fuer-den-bundestag-kandidieren-a-9f658d93-c7a3-45f9-8ac6-f4e2246edb2a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/maskenbeschaffung-und-milliardenschaeden-bundestag-debattiert-ueber-fehler-bei-jens-spahns-vorgehen](https://www.spiegel.de/politik/deutschland/maskenbeschaffung-und-milliardenschaeden-bundestag-debattiert-ueber-fehler-bei-jens-spahns-vorgehen-a-f4814099-7adb-4637-bda3-b4dfdb4f0d01#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-harsche-kritik-an-bauernpraesident-rukwied-wegen-haltung-zu-eu-beitritt](https://www.spiegel.de/politik/deutschland/ukraine-harsche-kritik-an-bauernpraesident-rukwied-wegen-haltung-zu-eu-beitritt-a-48db0cb1-5960-4521-ad65-d18fff669e4a#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/politik/deutschland/saskia-esken-will-fuer-die-spd-doch-noch-mal-fuer-den-bundestag-kandidieren](https://www.spiegel.de/politik/deutschland/saskia-esken-will-fuer-die-spd-doch-noch-mal-fuer-den-bundestag-kandidieren-a-9f658d93-c7a3-45f9-8ac6-f4e2246edb2a#ref=rss)
-* [https://www.spiegel.de/kultur/fusion-festival-gaza-krieg-sorgt-fuer-wirbel](https://www.spiegel.de/kultur/fusion-festival-gaza-krieg-sorgt-fuer-wirbel-a-488fe35c-da0f-4e16-b4e4-98e313782cff#ref=rss)
-* [https://www.spiegel.de/panorama/ai-weiwei-spricht-ueber-schwierige-innerfamiliaere-beziehungen](https://www.spiegel.de/panorama/ai-weiwei-spricht-ueber-schwierige-innerfamiliaere-beziehungen-a-9c975726-a75e-4250-b6d8-b1bc5f2c87a7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/altes-aegypten-warum-die-schreiber-krumme-ruecken-hatten](https://www.spiegel.de/wissenschaft/mensch/altes-aegypten-warum-die-schreiber-krumme-ruecken-hatten-a-a0aeb67e-426d-4c72-bfa9-7d5dd2ac4760#ref=rss)
-### joe
-
-* [https://www.spiegel.de/ausland/joe-biden-und-donald-trump-was-dieses-fernsehduell-anders-macht](https://www.spiegel.de/ausland/joe-biden-und-donald-trump-was-dieses-fernsehduell-anders-macht-a-46674be3-f2e6-49d3-8f19-4cbd993817ae#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-joe-biden-vs-donald-trump-afd-waehler-spione-in-frankfurt](https://www.spiegel.de/politik/deutschland/news-des-tages-joe-biden-vs-donald-trump-afd-waehler-spione-in-frankfurt-a-34fdcddf-8683-47d9-bfb0-08f0d1bba2d5#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-der-faktencheck-zum-tv-duell-zwischen-joe-biden-und-donald-trump](https://www.spiegel.de/ausland/us-wahl-2024-der-faktencheck-zum-tv-duell-zwischen-joe-biden-und-donald-trump-a-4106eec8-8f32-4b22-b459-bca3507d3382#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/tv-duell-von-joe-biden-und-donald-trump-chatgpt-und-copilot-wiederholen-falschinformationen](https://www.spiegel.de/netzwelt/apps/tv-duell-von-joe-biden-und-donald-trump-chatgpt-und-copilot-wiederholen-falschinformationen-a-bb1068f5-bc07-4006-8123-76d07de9ff2c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/joe-biden-gegen-donald-trump-deutsche-politik-entsetzt-ueber-tv-duell](https://www.spiegel.de/politik/deutschland/joe-biden-gegen-donald-trump-deutsche-politik-entsetzt-ueber-tv-duell-a-ebf216eb-aa7b-4ce4-904f-e0794f948e4b#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-sollte-der-welt-einen-gefallen-tun-und-verzichten-der-spiegel-leitartikel](https://www.spiegel.de/ausland/joe-biden-sollte-der-welt-einen-gefallen-tun-und-verzichten-der-spiegel-leitartikel-a-64d59b66-ce82-4056-bfbe-9fd36b993860#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-und-donald-trump-im-tv-duell-das-war-schmerzhaft-die-ersten-reaktionen](https://www.spiegel.de/ausland/joe-biden-und-donald-trump-im-tv-duell-das-war-schmerzhaft-die-ersten-reaktionen-a-98ae60ff-e46e-4a83-9603-febe08add473#ref=rss)
 ### biden
 
-* [https://www.spiegel.de/ausland/joe-biden-und-donald-trump-was-dieses-fernsehduell-anders-macht](https://www.spiegel.de/ausland/joe-biden-und-donald-trump-was-dieses-fernsehduell-anders-macht-a-46674be3-f2e6-49d3-8f19-4cbd993817ae#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-joe-biden-vs-donald-trump-afd-waehler-spione-in-frankfurt](https://www.spiegel.de/politik/deutschland/news-des-tages-joe-biden-vs-donald-trump-afd-waehler-spione-in-frankfurt-a-34fdcddf-8683-47d9-bfb0-08f0d1bba2d5#ref=rss)
-### em
+* [https://www.spiegel.de/ausland/us-wahl-2024-der-faktencheck-zum-tv-duell-zwischen-joe-biden-und-donald-trump](https://www.spiegel.de/ausland/us-wahl-2024-der-faktencheck-zum-tv-duell-zwischen-joe-biden-und-donald-trump-a-4106eec8-8f32-4b22-b459-bca3507d3382#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/tv-duell-von-joe-biden-und-donald-trump-chatgpt-und-copilot-wiederholen-falschinformationen](https://www.spiegel.de/netzwelt/apps/tv-duell-von-joe-biden-und-donald-trump-chatgpt-und-copilot-wiederholen-falschinformationen-a-bb1068f5-bc07-4006-8123-76d07de9ff2c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/joe-biden-gegen-donald-trump-deutsche-politik-entsetzt-ueber-tv-duell](https://www.spiegel.de/politik/deutschland/joe-biden-gegen-donald-trump-deutsche-politik-entsetzt-ueber-tv-duell-a-ebf216eb-aa7b-4ce4-904f-e0794f948e4b#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-sollte-der-welt-einen-gefallen-tun-und-verzichten-der-spiegel-leitartikel](https://www.spiegel.de/ausland/joe-biden-sollte-der-welt-einen-gefallen-tun-und-verzichten-der-spiegel-leitartikel-a-64d59b66-ce82-4056-bfbe-9fd36b993860#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-und-donald-trump-im-tv-duell-das-war-schmerzhaft-die-ersten-reaktionen](https://www.spiegel.de/ausland/joe-biden-und-donald-trump-im-tv-duell-das-war-schmerzhaft-die-ersten-reaktionen-a-98ae60ff-e46e-4a83-9603-febe08add473#ref=rss)
+### joe
 
-* [https://www.spiegel.de/sport/fussball/em-2024-warum-fussballer-bei-siegtreffern-ihr-trikot-ausziehen](https://www.spiegel.de/sport/fussball/em-2024-warum-fussballer-bei-siegtreffern-ihr-trikot-ausziehen-a-555e60cf-f279-4c87-bc33-595eee0113cb#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2024-die-neue-kapitaensregel-macht-den-fussball-zum-gewinner](https://www.spiegel.de/sport/fussball/em-2024-die-neue-kapitaensregel-macht-den-fussball-zum-gewinner-a-e2eb495b-f3a6-44ff-aa73-b78fb298bb0f#ref=rss)
-### ukraine
+* [https://www.spiegel.de/ausland/us-wahl-2024-der-faktencheck-zum-tv-duell-zwischen-joe-biden-und-donald-trump](https://www.spiegel.de/ausland/us-wahl-2024-der-faktencheck-zum-tv-duell-zwischen-joe-biden-und-donald-trump-a-4106eec8-8f32-4b22-b459-bca3507d3382#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/tv-duell-von-joe-biden-und-donald-trump-chatgpt-und-copilot-wiederholen-falschinformationen](https://www.spiegel.de/netzwelt/apps/tv-duell-von-joe-biden-und-donald-trump-chatgpt-und-copilot-wiederholen-falschinformationen-a-bb1068f5-bc07-4006-8123-76d07de9ff2c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/joe-biden-gegen-donald-trump-deutsche-politik-entsetzt-ueber-tv-duell](https://www.spiegel.de/politik/deutschland/joe-biden-gegen-donald-trump-deutsche-politik-entsetzt-ueber-tv-duell-a-ebf216eb-aa7b-4ce4-904f-e0794f948e4b#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-sollte-der-welt-einen-gefallen-tun-und-verzichten-der-spiegel-leitartikel](https://www.spiegel.de/ausland/joe-biden-sollte-der-welt-einen-gefallen-tun-und-verzichten-der-spiegel-leitartikel-a-64d59b66-ce82-4056-bfbe-9fd36b993860#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-und-donald-trump-im-tv-duell-das-war-schmerzhaft-die-ersten-reaktionen](https://www.spiegel.de/ausland/joe-biden-und-donald-trump-im-tv-duell-das-war-schmerzhaft-die-ersten-reaktionen-a-98ae60ff-e46e-4a83-9603-febe08add473#ref=rss)
+### donald
 
-* [https://www.spiegel.de/politik/deutschland/ukraine-harsche-kritik-an-bauernpraesident-rukwied-wegen-haltung-zu-eu-beitritt](https://www.spiegel.de/politik/deutschland/ukraine-harsche-kritik-an-bauernpraesident-rukwied-wegen-haltung-zu-eu-beitritt-a-48db0cb1-5960-4521-ad65-d18fff669e4a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/ukraine-nach-em-aus-vor-allem-haben-wir-einen-krieg-zu-gewinnen](https://www.spiegel.de/sport/fussball/ukraine-nach-em-aus-vor-allem-haben-wir-einen-krieg-zu-gewinnen-a-534b975e-a9ea-46a3-a7d5-c92caba913e6#ref=rss)
-### julian
+* [https://www.spiegel.de/ausland/us-wahl-2024-der-faktencheck-zum-tv-duell-zwischen-joe-biden-und-donald-trump](https://www.spiegel.de/ausland/us-wahl-2024-der-faktencheck-zum-tv-duell-zwischen-joe-biden-und-donald-trump-a-4106eec8-8f32-4b22-b459-bca3507d3382#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/tv-duell-von-joe-biden-und-donald-trump-chatgpt-und-copilot-wiederholen-falschinformationen](https://www.spiegel.de/netzwelt/apps/tv-duell-von-joe-biden-und-donald-trump-chatgpt-und-copilot-wiederholen-falschinformationen-a-bb1068f5-bc07-4006-8123-76d07de9ff2c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/joe-biden-gegen-donald-trump-deutsche-politik-entsetzt-ueber-tv-duell](https://www.spiegel.de/politik/deutschland/joe-biden-gegen-donald-trump-deutsche-politik-entsetzt-ueber-tv-duell-a-ebf216eb-aa7b-4ce4-904f-e0794f948e4b#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-sollte-der-welt-einen-gefallen-tun-und-verzichten-der-spiegel-leitartikel](https://www.spiegel.de/ausland/joe-biden-sollte-der-welt-einen-gefallen-tun-und-verzichten-der-spiegel-leitartikel-a-64d59b66-ce82-4056-bfbe-9fd36b993860#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-und-donald-trump-im-tv-duell-das-war-schmerzhaft-die-ersten-reaktionen](https://www.spiegel.de/ausland/joe-biden-und-donald-trump-im-tv-duell-das-war-schmerzhaft-die-ersten-reaktionen-a-98ae60ff-e46e-4a83-9603-febe08add473#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-die-zweite-chance-des-nico-schlotterbeck-im-dfb-team](https://www.spiegel.de/sport/fussball/fussball-em-2024-die-zweite-chance-des-nico-schlotterbeck-im-dfb-team-a-a1c8cd31-c708-4b23-bbc1-05ee5df7e39a#ref=rss)
-* [https://www.spiegel.de/gesundheit/julian-assange-wie-gefaengnis-der-gesundheit-schaden-kann](https://www.spiegel.de/gesundheit/julian-assange-wie-gefaengnis-der-gesundheit-schaden-kann-a-6ae98471-8614-451a-8f1f-e830e69638b4#ref=rss)
-### danach
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-joerg-kachelmann-ueber-gewitter-am-wochenende-vorhersage](https://www.spiegel.de/panorama/wetter-in-deutschland-joerg-kachelmann-ueber-gewitter-am-wochenende-vorhersage-a-27e90a57-3961-4b66-92df-143a181dd2c0#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-frueherer-botschafter-in-deutschland-stirbt-nach-abberufung-in-seiner-heimat](https://www.spiegel.de/ausland/belarus-frueherer-botschafter-in-deutschland-stirbt-nach-abberufung-in-seiner-heimat-a-8495221e-aec4-476e-8598-3318787ae6a1#ref=rss)
+* [https://www.spiegel.de/sport/em-2024-wie-man-auf-daenisch-den-schiedsrichter-beschimpft](https://www.spiegel.de/sport/em-2024-wie-man-auf-daenisch-den-schiedsrichter-beschimpft-a-f3aeb6d0-559b-494d-8f85-70bced4a89b4#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-heftige-gewittern-zum-fussball-am-samstag-erwartet](https://www.spiegel.de/panorama/wetter-in-deutschland-heftige-gewittern-zum-fussball-am-samstag-erwartet-a-2a12a87e-1426-4d35-a583-8342e044779d#ref=rss)
+### tvduell
 
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-die-zweite-chance-des-nico-schlotterbeck-im-dfb-team](https://www.spiegel.de/sport/fussball/fussball-em-2024-die-zweite-chance-des-nico-schlotterbeck-im-dfb-team-a-a1c8cd31-c708-4b23-bbc1-05ee5df7e39a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/pille-danach-berliner-apotheker-muss-tablette-zur-notfallverhuetung-ausgeben](https://www.spiegel.de/panorama/justiz/pille-danach-berliner-apotheker-muss-tablette-zur-notfallverhuetung-ausgeben-a-46f58522-e923-4766-8200-1019649f085b#ref=rss)
-### droht
+* [https://www.spiegel.de/ausland/us-wahl-2024-der-faktencheck-zum-tv-duell-zwischen-joe-biden-und-donald-trump](https://www.spiegel.de/ausland/us-wahl-2024-der-faktencheck-zum-tv-duell-zwischen-joe-biden-und-donald-trump-a-4106eec8-8f32-4b22-b459-bca3507d3382#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/tv-duell-von-joe-biden-und-donald-trump-chatgpt-und-copilot-wiederholen-falschinformationen](https://www.spiegel.de/netzwelt/apps/tv-duell-von-joe-biden-und-donald-trump-chatgpt-und-copilot-wiederholen-falschinformationen-a-bb1068f5-bc07-4006-8123-76d07de9ff2c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/joe-biden-gegen-donald-trump-deutsche-politik-entsetzt-ueber-tv-duell](https://www.spiegel.de/politik/deutschland/joe-biden-gegen-donald-trump-deutsche-politik-entsetzt-ueber-tv-duell-a-ebf216eb-aa7b-4ce4-904f-e0794f948e4b#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-und-donald-trump-im-tv-duell-das-war-schmerzhaft-die-ersten-reaktionen](https://www.spiegel.de/ausland/joe-biden-und-donald-trump-im-tv-duell-das-war-schmerzhaft-die-ersten-reaktionen-a-98ae60ff-e46e-4a83-9603-febe08add473#ref=rss)
+### experten
 
-* [https://www.spiegel.de/ausland/sudan-in-14-gebieten-droht-die-hungersnot](https://www.spiegel.de/ausland/sudan-in-14-gebieten-droht-die-hungersnot-a-f06900b0-ccdd-420c-931e-713da64be71f#ref=rss)
-* [https://www.spiegel.de/ausland/taiwan-warnt-buerger-vor-chinareisen](https://www.spiegel.de/ausland/taiwan-warnt-buerger-vor-chinareisen-a-71b0e8b7-3417-49e1-90d6-56bda50d0279#ref=rss)
-### krieg
+* [https://www.spiegel.de/politik/deutschland/deutsche-bahn-streckenstreichungen-im-osten-experten-suchen-nach-den-wahren-gruenden](https://www.spiegel.de/politik/deutschland/deutsche-bahn-streckenstreichungen-im-osten-experten-suchen-nach-den-wahren-gruenden-a-2d9f2d6b-dbee-4cd0-84b4-d55da10dc779#ref=rss)
+* [https://www.spiegel.de/wirtschaft/immobilienpreise-runter-loehne-rauf-das-eigenheim-wird-wieder-erschwinglicher](https://www.spiegel.de/wirtschaft/immobilienpreise-runter-loehne-rauf-das-eigenheim-wird-wieder-erschwinglicher-a-27085afd-237d-48d6-bf42-67d596b97ee7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/boeing-wie-schlecht-geht-es-dem-flugzeugbauer-wirklich](https://www.spiegel.de/wirtschaft/unternehmen/boeing-wie-schlecht-geht-es-dem-flugzeugbauer-wirklich-a-7e78e217-26e2-431d-9c24-313f4e607db0#ref=rss)
+### usa
 
-* [https://www.spiegel.de/ausland/sudan-in-14-gebieten-droht-die-hungersnot](https://www.spiegel.de/ausland/sudan-in-14-gebieten-droht-die-hungersnot-a-f06900b0-ccdd-420c-931e-713da64be71f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/ukraine-nach-em-aus-vor-allem-haben-wir-einen-krieg-zu-gewinnen](https://www.spiegel.de/sport/fussball/ukraine-nach-em-aus-vor-allem-haben-wir-einen-krieg-zu-gewinnen-a-534b975e-a9ea-46a3-a7d5-c92caba913e6#ref=rss)
-### benko
+* [https://www.spiegel.de/wirtschaft/china-ueberholt-europa-und-die-usa-bei-patent-anmeldungen-und-wird-zum-hightech-standort](https://www.spiegel.de/wirtschaft/china-ueberholt-europa-und-die-usa-bei-patent-anmeldungen-und-wird-zum-hightech-standort-a-9219fdbe-9c58-41d0-be71-864eb8ec9b69#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/joe-biden-gegen-donald-trump-deutsche-politik-entsetzt-ueber-tv-duell](https://www.spiegel.de/politik/deutschland/joe-biden-gegen-donald-trump-deutsche-politik-entsetzt-ueber-tv-duell-a-ebf216eb-aa7b-4ce4-904f-e0794f948e4b#ref=rss)
+* [https://www.spiegel.de/panorama/leute/jenni-rivera-saengerin-posthum-mit-stern-auf-walk-of-fame-geehrt](https://www.spiegel.de/panorama/leute/jenni-rivera-saengerin-posthum-mit-stern-auf-walk-of-fame-geehrt-a-49ba9b3d-d237-4219-bbb8-cc7231fd10da#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/wirtschaft/rene-benko-oesterreichs-staatsanwaelte-erheben-heftige-vorwuerfe](https://www.spiegel.de/wirtschaft/rene-benko-oesterreichs-staatsanwaelte-erheben-heftige-vorwuerfe-a-e6915c00-f802-4c9e-8b30-11f653a71635#ref=rss)
-### stadt
+* [https://www.spiegel.de/politik/deutschland/deutsche-bahn-streckenstreichungen-im-osten-experten-suchen-nach-den-wahren-gruenden](https://www.spiegel.de/politik/deutschland/deutsche-bahn-streckenstreichungen-im-osten-experten-suchen-nach-den-wahren-gruenden-a-2d9f2d6b-dbee-4cd0-84b4-d55da10dc779#ref=rss)
+* [https://www.spiegel.de/wirtschaft/autoindustrie-europas-strafzoelle-treffen-deutsche-autobauer-haerter-als-chinesische-konzerne](https://www.spiegel.de/wirtschaft/autoindustrie-europas-strafzoelle-treffen-deutsche-autobauer-haerter-als-chinesische-konzerne-a-0fe2ed2a-cfeb-4db9-ab43-42e8898079ba#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/joe-biden-gegen-donald-trump-deutsche-politik-entsetzt-ueber-tv-duell](https://www.spiegel.de/politik/deutschland/joe-biden-gegen-donald-trump-deutsche-politik-entsetzt-ueber-tv-duell-a-ebf216eb-aa7b-4ce4-904f-e0794f948e4b#ref=rss)
+### wahren
 
-* [https://www.spiegel.de/panorama/wien-erneut-zur-lebenswertesten-stadt-der-welt-gekuert](https://www.spiegel.de/panorama/wien-erneut-zur-lebenswertesten-stadt-der-welt-gekuert-a-20ad0cb1-c8ad-42c1-9ee6-578ed16276b9#ref=rss)
-* [https://www.spiegel.de/panorama/grossbritannien-post-entschuldigt-sich-fuer-verspaetete-briefzustellung-wegen-moewenattacken](https://www.spiegel.de/panorama/grossbritannien-post-entschuldigt-sich-fuer-verspaetete-briefzustellung-wegen-moewenattacken-a-4e360dcc-add6-4c51-bb21-e519b26dc8ed#ref=rss)
-### fußballem
+* [https://www.spiegel.de/politik/deutschland/deutsche-bahn-streckenstreichungen-im-osten-experten-suchen-nach-den-wahren-gruenden](https://www.spiegel.de/politik/deutschland/deutsche-bahn-streckenstreichungen-im-osten-experten-suchen-nach-den-wahren-gruenden-a-2d9f2d6b-dbee-4cd0-84b4-d55da10dc779#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/toronto-kanadier-erhaelt-bei-wahl-keine-einzige-stimme](https://www.spiegel.de/panorama/gesellschaft/toronto-kanadier-erhaelt-bei-wahl-keine-einzige-stimme-a-ca0dbcb0-e53f-40ca-b921-ee8f30747cec#ref=rss)
+### chinesische
 
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-die-zweite-chance-des-nico-schlotterbeck-im-dfb-team](https://www.spiegel.de/sport/fussball/fussball-em-2024-die-zweite-chance-des-nico-schlotterbeck-im-dfb-team-a-a1c8cd31-c708-4b23-bbc1-05ee5df7e39a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/ukraine-nach-em-aus-vor-allem-haben-wir-einen-krieg-zu-gewinnen](https://www.spiegel.de/sport/fussball/ukraine-nach-em-aus-vor-allem-haben-wir-einen-krieg-zu-gewinnen-a-534b975e-a9ea-46a3-a7d5-c92caba913e6#ref=rss)
-### nico
+* [https://www.spiegel.de/wirtschaft/autoindustrie-europas-strafzoelle-treffen-deutsche-autobauer-haerter-als-chinesische-konzerne](https://www.spiegel.de/wirtschaft/autoindustrie-europas-strafzoelle-treffen-deutsche-autobauer-haerter-als-chinesische-konzerne-a-0fe2ed2a-cfeb-4db9-ab43-42e8898079ba#ref=rss)
+### demokraten
 
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-die-zweite-chance-des-nico-schlotterbeck-im-dfb-team](https://www.spiegel.de/sport/fussball/fussball-em-2024-die-zweite-chance-des-nico-schlotterbeck-im-dfb-team-a-a1c8cd31-c708-4b23-bbc1-05ee5df7e39a#ref=rss)
-### schlotterbeck
+* [https://www.spiegel.de/politik/deutschland/joe-biden-gegen-donald-trump-deutsche-politik-entsetzt-ueber-tv-duell](https://www.spiegel.de/politik/deutschland/joe-biden-gegen-donald-trump-deutsche-politik-entsetzt-ueber-tv-duell-a-ebf216eb-aa7b-4ce4-904f-e0794f948e4b#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-sollte-der-welt-einen-gefallen-tun-und-verzichten-der-spiegel-leitartikel](https://www.spiegel.de/ausland/joe-biden-sollte-der-welt-einen-gefallen-tun-und-verzichten-der-spiegel-leitartikel-a-64d59b66-ce82-4056-bfbe-9fd36b993860#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-und-donald-trump-im-tv-duell-das-war-schmerzhaft-die-ersten-reaktionen](https://www.spiegel.de/ausland/joe-biden-und-donald-trump-im-tv-duell-das-war-schmerzhaft-die-ersten-reaktionen-a-98ae60ff-e46e-4a83-9603-febe08add473#ref=rss)
+### döner
 
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-die-zweite-chance-des-nico-schlotterbeck-im-dfb-team](https://www.spiegel.de/sport/fussball/fussball-em-2024-die-zweite-chance-des-nico-schlotterbeck-im-dfb-team-a-a1c8cd31-c708-4b23-bbc1-05ee5df7e39a#ref=rss)
-### galt
+* [https://www.spiegel.de/panorama/doener-als-deutsches-nationalgericht-kebap-experte-seidel-fordert-reinheitsgebot](https://www.spiegel.de/panorama/doener-als-deutsches-nationalgericht-kebap-experte-seidel-fordert-reinheitsgebot-a-4a6ac435-b470-4fb8-ab55-8025676b9040#ref=rss)
+### james
 
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-die-zweite-chance-des-nico-schlotterbeck-im-dfb-team](https://www.spiegel.de/sport/fussball/fussball-em-2024-die-zweite-chance-des-nico-schlotterbeck-im-dfb-team-a-a1c8cd31-c708-4b23-bbc1-05ee5df7e39a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-us-manager-schmeicheln-dem-ex-praesidenten-hoffnung-auf-steuersenkungen](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-us-manager-schmeicheln-dem-ex-praesidenten-hoffnung-auf-steuersenkungen-a-d403e178-e085-4e8f-b5a5-fc8f87bf7761#ref=rss)
-### saskia
+* [https://www.spiegel.de/sport/basketball/nba-lebron-james-und-bronny-james-koennten-als-erstes-vater-sohn-duo-gemeinsam-in-der-nba-auflaufen](https://www.spiegel.de/sport/basketball/nba-lebron-james-und-bronny-james-koennten-als-erstes-vater-sohn-duo-gemeinsam-in-der-nba-auflaufen-a-1b9064a3-27ff-497f-8d96-4aa0c79adb71#ref=rss)
+### bahn
 
-* [https://www.spiegel.de/politik/deutschland/saskia-esken-will-fuer-die-spd-doch-noch-mal-fuer-den-bundestag-kandidieren](https://www.spiegel.de/politik/deutschland/saskia-esken-will-fuer-die-spd-doch-noch-mal-fuer-den-bundestag-kandidieren-a-9f658d93-c7a3-45f9-8ac6-f4e2246edb2a#ref=rss)
-### esken
+* [https://www.spiegel.de/politik/deutschland/deutsche-bahn-streckenstreichungen-im-osten-experten-suchen-nach-den-wahren-gruenden](https://www.spiegel.de/politik/deutschland/deutsche-bahn-streckenstreichungen-im-osten-experten-suchen-nach-den-wahren-gruenden-a-2d9f2d6b-dbee-4cd0-84b4-d55da10dc779#ref=rss)
+### streckenstreichungen
 
-* [https://www.spiegel.de/politik/deutschland/saskia-esken-will-fuer-die-spd-doch-noch-mal-fuer-den-bundestag-kandidieren](https://www.spiegel.de/politik/deutschland/saskia-esken-will-fuer-die-spd-doch-noch-mal-fuer-den-bundestag-kandidieren-a-9f658d93-c7a3-45f9-8ac6-f4e2246edb2a#ref=rss)
-### anders
+* [https://www.spiegel.de/politik/deutschland/deutsche-bahn-streckenstreichungen-im-osten-experten-suchen-nach-den-wahren-gruenden](https://www.spiegel.de/politik/deutschland/deutsche-bahn-streckenstreichungen-im-osten-experten-suchen-nach-den-wahren-gruenden-a-2d9f2d6b-dbee-4cd0-84b4-d55da10dc779#ref=rss)
+### osten
 
-* [https://www.spiegel.de/ausland/joe-biden-und-donald-trump-was-dieses-fernsehduell-anders-macht](https://www.spiegel.de/ausland/joe-biden-und-donald-trump-was-dieses-fernsehduell-anders-macht-a-46674be3-f2e6-49d3-8f19-4cbd993817ae#ref=rss)
-### macht
+* [https://www.spiegel.de/politik/deutschland/deutsche-bahn-streckenstreichungen-im-osten-experten-suchen-nach-den-wahren-gruenden](https://www.spiegel.de/politik/deutschland/deutsche-bahn-streckenstreichungen-im-osten-experten-suchen-nach-den-wahren-gruenden-a-2d9f2d6b-dbee-4cd0-84b4-d55da10dc779#ref=rss)
+### kevin
 
-* [https://www.spiegel.de/ausland/joe-biden-und-donald-trump-was-dieses-fernsehduell-anders-macht](https://www.spiegel.de/ausland/joe-biden-und-donald-trump-was-dieses-fernsehduell-anders-macht-a-46674be3-f2e6-49d3-8f19-4cbd993817ae#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2024-die-neue-kapitaensregel-macht-den-fussball-zum-gewinner](https://www.spiegel.de/sport/fussball/em-2024-die-neue-kapitaensregel-macht-den-fussball-zum-gewinner-a-e2eb495b-f3a6-44ff-aa73-b78fb298bb0f#ref=rss)
-### donnerstagabend
+* [https://www.spiegel.de/kultur/kino/kevin-costner-mache-filme-fuer-maenner-mit-starken-frauenfiguren-aber](https://www.spiegel.de/kultur/kino/kevin-costner-mache-filme-fuer-maenner-mit-starken-frauenfiguren-aber-a-c9204c94-0b0d-4734-96e3-c12e79a0de95#ref=rss)
+### costner
 
-* [https://www.spiegel.de/ausland/joe-biden-und-donald-trump-was-dieses-fernsehduell-anders-macht](https://www.spiegel.de/ausland/joe-biden-und-donald-trump-was-dieses-fernsehduell-anders-macht-a-46674be3-f2e6-49d3-8f19-4cbd993817ae#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-joe-biden-vs-donald-trump-afd-waehler-spione-in-frankfurt](https://www.spiegel.de/politik/deutschland/news-des-tages-joe-biden-vs-donald-trump-afd-waehler-spione-in-frankfurt-a-34fdcddf-8683-47d9-bfb0-08f0d1bba2d5#ref=rss)
-### assange
+* [https://www.spiegel.de/kultur/kino/kevin-costner-mache-filme-fuer-maenner-mit-starken-frauenfiguren-aber](https://www.spiegel.de/kultur/kino/kevin-costner-mache-filme-fuer-maenner-mit-starken-frauenfiguren-aber-a-c9204c94-0b0d-4734-96e3-c12e79a0de95#ref=rss)
+### filme
 
-* [https://www.spiegel.de/gesundheit/julian-assange-wie-gefaengnis-der-gesundheit-schaden-kann](https://www.spiegel.de/gesundheit/julian-assange-wie-gefaengnis-der-gesundheit-schaden-kann-a-6ae98471-8614-451a-8f1f-e830e69638b4#ref=rss)
-### gesundheit
+* [https://www.spiegel.de/kultur/kino/kevin-costner-mache-filme-fuer-maenner-mit-starken-frauenfiguren-aber](https://www.spiegel.de/kultur/kino/kevin-costner-mache-filme-fuer-maenner-mit-starken-frauenfiguren-aber-a-c9204c94-0b0d-4734-96e3-c12e79a0de95#ref=rss)
+### männer
 
-* [https://www.spiegel.de/gesundheit/julian-assange-wie-gefaengnis-der-gesundheit-schaden-kann](https://www.spiegel.de/gesundheit/julian-assange-wie-gefaengnis-der-gesundheit-schaden-kann-a-6ae98471-8614-451a-8f1f-e830e69638b4#ref=rss)
-### sorgt
+* [https://www.spiegel.de/kultur/kino/kevin-costner-mache-filme-fuer-maenner-mit-starken-frauenfiguren-aber](https://www.spiegel.de/kultur/kino/kevin-costner-mache-filme-fuer-maenner-mit-starken-frauenfiguren-aber-a-c9204c94-0b0d-4734-96e3-c12e79a0de95#ref=rss)
+### toronto
 
-* [https://www.spiegel.de/gesundheit/julian-assange-wie-gefaengnis-der-gesundheit-schaden-kann](https://www.spiegel.de/gesundheit/julian-assange-wie-gefaengnis-der-gesundheit-schaden-kann-a-6ae98471-8614-451a-8f1f-e830e69638b4#ref=rss)
-* [https://www.spiegel.de/kultur/fusion-festival-gaza-krieg-sorgt-fuer-wirbel](https://www.spiegel.de/kultur/fusion-festival-gaza-krieg-sorgt-fuer-wirbel-a-488fe35c-da0f-4e16-b4e4-98e313782cff#ref=rss)
-### menschen
+* [https://www.spiegel.de/panorama/gesellschaft/toronto-kanadier-erhaelt-bei-wahl-keine-einzige-stimme](https://www.spiegel.de/panorama/gesellschaft/toronto-kanadier-erhaelt-bei-wahl-keine-einzige-stimme-a-ca0dbcb0-e53f-40ca-b921-ee8f30747cec#ref=rss)
+### kandidaten
 
-* [https://www.spiegel.de/gesundheit/julian-assange-wie-gefaengnis-der-gesundheit-schaden-kann](https://www.spiegel.de/gesundheit/julian-assange-wie-gefaengnis-der-gesundheit-schaden-kann-a-6ae98471-8614-451a-8f1f-e830e69638b4#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-in-14-gebieten-droht-die-hungersnot](https://www.spiegel.de/ausland/sudan-in-14-gebieten-droht-die-hungersnot-a-f06900b0-ccdd-420c-931e-713da64be71f#ref=rss)
-### lubna
+* [https://www.spiegel.de/panorama/gesellschaft/toronto-kanadier-erhaelt-bei-wahl-keine-einzige-stimme](https://www.spiegel.de/panorama/gesellschaft/toronto-kanadier-erhaelt-bei-wahl-keine-einzige-stimme-a-ca0dbcb0-e53f-40ca-b921-ee8f30747cec#ref=rss)
+### wetter
 
-* [https://www.spiegel.de/ausland/norwegen-gleichstellungsministerin-lubna-jaffery-zeigt-bei-pride-event-ihre-brueste](https://www.spiegel.de/ausland/norwegen-gleichstellungsministerin-lubna-jaffery-zeigt-bei-pride-event-ihre-brueste-a-fef6741e-e393-45dc-a400-858f4bd81fa3#ref=rss)
-### jaffery
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-joerg-kachelmann-ueber-gewitter-am-wochenende-vorhersage](https://www.spiegel.de/panorama/wetter-in-deutschland-joerg-kachelmann-ueber-gewitter-am-wochenende-vorhersage-a-27e90a57-3961-4b66-92df-143a181dd2c0#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-heftige-gewittern-zum-fussball-am-samstag-erwartet](https://www.spiegel.de/panorama/wetter-in-deutschland-heftige-gewittern-zum-fussball-am-samstag-erwartet-a-2a12a87e-1426-4d35-a583-8342e044779d#ref=rss)
+### jörg
 
-* [https://www.spiegel.de/ausland/norwegen-gleichstellungsministerin-lubna-jaffery-zeigt-bei-pride-event-ihre-brueste](https://www.spiegel.de/ausland/norwegen-gleichstellungsministerin-lubna-jaffery-zeigt-bei-pride-event-ihre-brueste-a-fef6741e-e393-45dc-a400-858f4bd81fa3#ref=rss)
-### fusion
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-joerg-kachelmann-ueber-gewitter-am-wochenende-vorhersage](https://www.spiegel.de/panorama/wetter-in-deutschland-joerg-kachelmann-ueber-gewitter-am-wochenende-vorhersage-a-27e90a57-3961-4b66-92df-143a181dd2c0#ref=rss)
+### kachelmann
 
-* [https://www.spiegel.de/kultur/fusion-festival-gaza-krieg-sorgt-fuer-wirbel](https://www.spiegel.de/kultur/fusion-festival-gaza-krieg-sorgt-fuer-wirbel-a-488fe35c-da0f-4e16-b4e4-98e313782cff#ref=rss)
-### festival
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-joerg-kachelmann-ueber-gewitter-am-wochenende-vorhersage](https://www.spiegel.de/panorama/wetter-in-deutschland-joerg-kachelmann-ueber-gewitter-am-wochenende-vorhersage-a-27e90a57-3961-4b66-92df-143a181dd2c0#ref=rss)
+### gewitter
 
-* [https://www.spiegel.de/kultur/fusion-festival-gaza-krieg-sorgt-fuer-wirbel](https://www.spiegel.de/kultur/fusion-festival-gaza-krieg-sorgt-fuer-wirbel-a-488fe35c-da0f-4e16-b4e4-98e313782cff#ref=rss)
-### problem
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-joerg-kachelmann-ueber-gewitter-am-wochenende-vorhersage](https://www.spiegel.de/panorama/wetter-in-deutschland-joerg-kachelmann-ueber-gewitter-am-wochenende-vorhersage-a-27e90a57-3961-4b66-92df-143a181dd2c0#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-heftige-gewittern-zum-fussball-am-samstag-erwartet](https://www.spiegel.de/panorama/wetter-in-deutschland-heftige-gewittern-zum-fussball-am-samstag-erwartet-a-2a12a87e-1426-4d35-a583-8342e044779d#ref=rss)
+### wochenende
 
-* [https://www.spiegel.de/kultur/fusion-festival-gaza-krieg-sorgt-fuer-wirbel](https://www.spiegel.de/kultur/fusion-festival-gaza-krieg-sorgt-fuer-wirbel-a-488fe35c-da0f-4e16-b4e4-98e313782cff#ref=rss)
-* [https://www.spiegel.de/karriere/altersdiskriminierung-und-arbeitsrecht-boomer-gebt-die-startrampen-frei-kommentar](https://www.spiegel.de/karriere/altersdiskriminierung-und-arbeitsrecht-boomer-gebt-die-startrampen-frei-kommentar-a-92fd2a64-7f6c-42a7-b1fa-649d51228694#ref=rss)
-### manche
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-joerg-kachelmann-ueber-gewitter-am-wochenende-vorhersage](https://www.spiegel.de/panorama/wetter-in-deutschland-joerg-kachelmann-ueber-gewitter-am-wochenende-vorhersage-a-27e90a57-3961-4b66-92df-143a181dd2c0#ref=rss)
+### deutschlands
 
-* [https://www.spiegel.de/kultur/fusion-festival-gaza-krieg-sorgt-fuer-wirbel](https://www.spiegel.de/kultur/fusion-festival-gaza-krieg-sorgt-fuer-wirbel-a-488fe35c-da0f-4e16-b4e4-98e313782cff#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/rote-liste-2024-mehr-als-tausend-weitere-tier-und-pflanzenarten-vom-aussterben-bedroht](https://www.spiegel.de/wissenschaft/natur/rote-liste-2024-mehr-als-tausend-weitere-tier-und-pflanzenarten-vom-aussterben-bedroht-a-97366b3f-b312-4228-8d45-7e6c53739880#ref=rss)
-### fürchten
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-joerg-kachelmann-ueber-gewitter-am-wochenende-vorhersage](https://www.spiegel.de/panorama/wetter-in-deutschland-joerg-kachelmann-ueber-gewitter-am-wochenende-vorhersage-a-27e90a57-3961-4b66-92df-143a181dd2c0#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-heftige-gewittern-zum-fussball-am-samstag-erwartet](https://www.spiegel.de/panorama/wetter-in-deutschland-heftige-gewittern-zum-fussball-am-samstag-erwartet-a-2a12a87e-1426-4d35-a583-8342e044779d#ref=rss)
+### unwetter
 
-* [https://www.spiegel.de/kultur/fusion-festival-gaza-krieg-sorgt-fuer-wirbel](https://www.spiegel.de/kultur/fusion-festival-gaza-krieg-sorgt-fuer-wirbel-a-488fe35c-da0f-4e16-b4e4-98e313782cff#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-us-manager-schmeicheln-dem-ex-praesidenten-hoffnung-auf-steuersenkungen](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-us-manager-schmeicheln-dem-ex-praesidenten-hoffnung-auf-steuersenkungen-a-d403e178-e085-4e8f-b5a5-fc8f87bf7761#ref=rss)
-### maskenbeschaffung
-
-* [https://www.spiegel.de/politik/deutschland/maskenbeschaffung-und-milliardenschaeden-bundestag-debattiert-ueber-fehler-bei-jens-spahns-vorgehen](https://www.spiegel.de/politik/deutschland/maskenbeschaffung-und-milliardenschaeden-bundestag-debattiert-ueber-fehler-bei-jens-spahns-vorgehen-a-f4814099-7adb-4637-bda3-b4dfdb4f0d01#ref=rss)
-### fehler
-
-* [https://www.spiegel.de/politik/deutschland/maskenbeschaffung-und-milliardenschaeden-bundestag-debattiert-ueber-fehler-bei-jens-spahns-vorgehen](https://www.spiegel.de/politik/deutschland/maskenbeschaffung-und-milliardenschaeden-bundestag-debattiert-ueber-fehler-bei-jens-spahns-vorgehen-a-f4814099-7adb-4637-bda3-b4dfdb4f0d01#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/politik/deutschland/maskenbeschaffung-und-milliardenschaeden-bundestag-debattiert-ueber-fehler-bei-jens-spahns-vorgehen](https://www.spiegel.de/politik/deutschland/maskenbeschaffung-und-milliardenschaeden-bundestag-debattiert-ueber-fehler-bei-jens-spahns-vorgehen-a-f4814099-7adb-4637-bda3-b4dfdb4f0d01#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/rote-liste-2024-mehr-als-tausend-weitere-tier-und-pflanzenarten-vom-aussterben-bedroht](https://www.spiegel.de/wissenschaft/natur/rote-liste-2024-mehr-als-tausend-weitere-tier-und-pflanzenarten-vom-aussterben-bedroht-a-97366b3f-b312-4228-8d45-7e6c53739880#ref=rss)
-### junge
-
-* [https://www.spiegel.de/karriere/altersdiskriminierung-und-arbeitsrecht-boomer-gebt-die-startrampen-frei-kommentar](https://www.spiegel.de/karriere/altersdiskriminierung-und-arbeitsrecht-boomer-gebt-die-startrampen-frei-kommentar-a-92fd2a64-7f6c-42a7-b1fa-649d51228694#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/gestaendnisse-einer-mutter-das-tote-baby-vom-waller-see-spiegel-tv](https://www.spiegel.de/panorama/justiz/gestaendnisse-einer-mutter-das-tote-baby-vom-waller-see-spiegel-tv-a-e7ff33ae-602a-4bc0-a99e-4a220150240a#ref=rss)
-### trikot
-
-* [https://www.spiegel.de/sport/fussball/em-2024-warum-fussballer-bei-siegtreffern-ihr-trikot-ausziehen](https://www.spiegel.de/sport/fussball/em-2024-warum-fussballer-bei-siegtreffern-ihr-trikot-ausziehen-a-555e60cf-f279-4c87-bc33-595eee0113cb#ref=rss)
-### plötzlich
-
-* [https://www.spiegel.de/sport/fussball/em-2024-warum-fussballer-bei-siegtreffern-ihr-trikot-ausziehen](https://www.spiegel.de/sport/fussball/em-2024-warum-fussballer-bei-siegtreffern-ihr-trikot-ausziehen-a-555e60cf-f279-4c87-bc33-595eee0113cb#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/tuttlingen-unbekannter-schiesst-auf-autokorso-nach-em-spiel](https://www.spiegel.de/panorama/justiz/tuttlingen-unbekannter-schiesst-auf-autokorso-nach-em-spiel-a-a2efb19f-a7e0-4c49-887c-5317ffefd364#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/sport/fussball/em-2024-warum-fussballer-bei-siegtreffern-ihr-trikot-ausziehen](https://www.spiegel.de/sport/fussball/em-2024-warum-fussballer-bei-siegtreffern-ihr-trikot-ausziehen-a-555e60cf-f279-4c87-bc33-595eee0113cb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/katrin-goering-eckardt-ich-bin-dafuer-straftaeter-abzuschieben](https://www.spiegel.de/politik/deutschland/katrin-goering-eckardt-ich-bin-dafuer-straftaeter-abzuschieben-a-13cd4dc9-e22c-4b81-866c-543055a955c3#ref=rss)
-### dazu
-
-* [https://www.spiegel.de/sport/fussball/em-2024-warum-fussballer-bei-siegtreffern-ihr-trikot-ausziehen](https://www.spiegel.de/sport/fussball/em-2024-warum-fussballer-bei-siegtreffern-ihr-trikot-ausziehen-a-555e60cf-f279-4c87-bc33-595eee0113cb#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/pille-danach-berliner-apotheker-muss-tablette-zur-notfallverhuetung-ausgeben](https://www.spiegel.de/panorama/justiz/pille-danach-berliner-apotheker-muss-tablette-zur-notfallverhuetung-ausgeben-a-46f58522-e923-4766-8200-1019649f085b#ref=rss)
-### tanken
-
-* [https://www.spiegel.de/wirtschaft/adac-tanken-kostet-abseits-der-autobahn-bis-zu-54-cent-weniger](https://www.spiegel.de/wirtschaft/adac-tanken-kostet-abseits-der-autobahn-bis-zu-54-cent-weniger-a-10f6cf0c-7347-4cb3-a0e0-b716dc4799c6#ref=rss)
-### autobahn
-
-* [https://www.spiegel.de/wirtschaft/adac-tanken-kostet-abseits-der-autobahn-bis-zu-54-cent-weniger](https://www.spiegel.de/wirtschaft/adac-tanken-kostet-abseits-der-autobahn-bis-zu-54-cent-weniger-a-10f6cf0c-7347-4cb3-a0e0-b716dc4799c6#ref=rss)
-### katrin
-
-* [https://www.spiegel.de/politik/deutschland/katrin-goering-eckardt-ich-bin-dafuer-straftaeter-abzuschieben](https://www.spiegel.de/politik/deutschland/katrin-goering-eckardt-ich-bin-dafuer-straftaeter-abzuschieben-a-13cd4dc9-e22c-4b81-866c-543055a955c3#ref=rss)
-### göringeckardt
-
-* [https://www.spiegel.de/politik/deutschland/katrin-goering-eckardt-ich-bin-dafuer-straftaeter-abzuschieben](https://www.spiegel.de/politik/deutschland/katrin-goering-eckardt-ich-bin-dafuer-straftaeter-abzuschieben-a-13cd4dc9-e22c-4b81-866c-543055a955c3#ref=rss)
-### mutter
-
-* [https://www.spiegel.de/panorama/justiz/gestaendnisse-einer-mutter-das-tote-baby-vom-waller-see-spiegel-tv](https://www.spiegel.de/panorama/justiz/gestaendnisse-einer-mutter-das-tote-baby-vom-waller-see-spiegel-tv-a-e7ff33ae-602a-4bc0-a99e-4a220150240a#ref=rss)
-### kind
-
-* [https://www.spiegel.de/panorama/justiz/gestaendnisse-einer-mutter-das-tote-baby-vom-waller-see-spiegel-tv](https://www.spiegel.de/panorama/justiz/gestaendnisse-einer-mutter-das-tote-baby-vom-waller-see-spiegel-tv-a-e7ff33ae-602a-4bc0-a99e-4a220150240a#ref=rss)
-* [https://www.spiegel.de/panorama/ai-weiwei-spricht-ueber-schwierige-innerfamiliaere-beziehungen](https://www.spiegel.de/panorama/ai-weiwei-spricht-ueber-schwierige-innerfamiliaere-beziehungen-a-9c975726-a75e-4250-b6d8-b1bc5f2c87a7#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-harsche-kritik-an-bauernpraesident-rukwied-wegen-haltung-zu-eu-beitritt](https://www.spiegel.de/politik/deutschland/ukraine-harsche-kritik-an-bauernpraesident-rukwied-wegen-haltung-zu-eu-beitritt-a-48db0cb1-5960-4521-ad65-d18fff669e4a#ref=rss)
-### rukwied
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-harsche-kritik-an-bauernpraesident-rukwied-wegen-haltung-zu-eu-beitritt](https://www.spiegel.de/politik/deutschland/ukraine-harsche-kritik-an-bauernpraesident-rukwied-wegen-haltung-zu-eu-beitritt-a-48db0cb1-5960-4521-ad65-d18fff669e4a#ref=rss)
-### eubeitritt
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-harsche-kritik-an-bauernpraesident-rukwied-wegen-haltung-zu-eu-beitritt](https://www.spiegel.de/politik/deutschland/ukraine-harsche-kritik-an-bauernpraesident-rukwied-wegen-haltung-zu-eu-beitritt-a-48db0cb1-5960-4521-ad65-d18fff669e4a#ref=rss)
-### ai
-
-* [https://www.spiegel.de/panorama/ai-weiwei-spricht-ueber-schwierige-innerfamiliaere-beziehungen](https://www.spiegel.de/panorama/ai-weiwei-spricht-ueber-schwierige-innerfamiliaere-beziehungen-a-9c975726-a75e-4250-b6d8-b1bc5f2c87a7#ref=rss)
-### weiwei
-
-* [https://www.spiegel.de/panorama/ai-weiwei-spricht-ueber-schwierige-innerfamiliaere-beziehungen](https://www.spiegel.de/panorama/ai-weiwei-spricht-ueber-schwierige-innerfamiliaere-beziehungen-a-9c975726-a75e-4250-b6d8-b1bc5f2c87a7#ref=rss)
-### eigenen
-
-* [https://www.spiegel.de/panorama/ai-weiwei-spricht-ueber-schwierige-innerfamiliaere-beziehungen](https://www.spiegel.de/panorama/ai-weiwei-spricht-ueber-schwierige-innerfamiliaere-beziehungen-a-9c975726-a75e-4250-b6d8-b1bc5f2c87a7#ref=rss)
-* [https://www.spiegel.de/kultur/buehrle-sammlung-im-kunsthaus-zuerich-warum-sie-ihre-eigenen-bilder-abhaengen-liess](https://www.spiegel.de/kultur/buehrle-sammlung-im-kunsthaus-zuerich-warum-sie-ihre-eigenen-bilder-abhaengen-liess-a-536537e0-31d9-4eea-ba79-592700c6f4f8#ref=rss)
-### tipico
-
-* [https://www.spiegel.de/wirtschaft/bgh-prozess-gegen-tipico-bekommen-verlierer-von-sportwetten-geld-zurueck](https://www.spiegel.de/wirtschaft/bgh-prozess-gegen-tipico-bekommen-verlierer-von-sportwetten-geld-zurueck-a-26e371bc-3e23-4ec6-9ef8-3d4af0637768#ref=rss)
-### sportwetten
-
-* [https://www.spiegel.de/wirtschaft/bgh-prozess-gegen-tipico-bekommen-verlierer-von-sportwetten-geld-zurueck](https://www.spiegel.de/wirtschaft/bgh-prozess-gegen-tipico-bekommen-verlierer-von-sportwetten-geld-zurueck-a-26e371bc-3e23-4ec6-9ef8-3d4af0637768#ref=rss)
-### geld
-
-* [https://www.spiegel.de/wirtschaft/bgh-prozess-gegen-tipico-bekommen-verlierer-von-sportwetten-geld-zurueck](https://www.spiegel.de/wirtschaft/bgh-prozess-gegen-tipico-bekommen-verlierer-von-sportwetten-geld-zurueck-a-26e371bc-3e23-4ec6-9ef8-3d4af0637768#ref=rss)
-### kapitänsregel
-
-* [https://www.spiegel.de/sport/fussball/em-2024-die-neue-kapitaensregel-macht-den-fussball-zum-gewinner](https://www.spiegel.de/sport/fussball/em-2024-die-neue-kapitaensregel-macht-den-fussball-zum-gewinner-a-e2eb495b-f3a6-44ff-aa73-b78fb298bb0f#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-joerg-kachelmann-ueber-gewitter-am-wochenende-vorhersage](https://www.spiegel.de/panorama/wetter-in-deutschland-joerg-kachelmann-ueber-gewitter-am-wochenende-vorhersage-a-27e90a57-3961-4b66-92df-143a181dd2c0#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-heftige-gewittern-zum-fussball-am-samstag-erwartet](https://www.spiegel.de/panorama/wetter-in-deutschland-heftige-gewittern-zum-fussball-am-samstag-erwartet-a-2a12a87e-1426-4d35-a583-8342e044779d#ref=rss)
 ### fußball
 
-* [https://www.spiegel.de/sport/fussball/em-2024-die-neue-kapitaensregel-macht-den-fussball-zum-gewinner](https://www.spiegel.de/sport/fussball/em-2024-die-neue-kapitaensregel-macht-den-fussball-zum-gewinner-a-e2eb495b-f3a6-44ff-aa73-b78fb298bb0f#ref=rss)
-### gewinner
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-joerg-kachelmann-ueber-gewitter-am-wochenende-vorhersage](https://www.spiegel.de/panorama/wetter-in-deutschland-joerg-kachelmann-ueber-gewitter-am-wochenende-vorhersage-a-27e90a57-3961-4b66-92df-143a181dd2c0#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-heftige-gewittern-zum-fussball-am-samstag-erwartet](https://www.spiegel.de/panorama/wetter-in-deutschland-heftige-gewittern-zum-fussball-am-samstag-erwartet-a-2a12a87e-1426-4d35-a583-8342e044779d#ref=rss)
+### neudelhi
 
-* [https://www.spiegel.de/sport/fussball/em-2024-die-neue-kapitaensregel-macht-den-fussball-zum-gewinner](https://www.spiegel.de/sport/fussball/em-2024-die-neue-kapitaensregel-macht-den-fussball-zum-gewinner-a-e2eb495b-f3a6-44ff-aa73-b78fb298bb0f#ref=rss)
-### neuen
+* [https://www.spiegel.de/panorama/indien-dach-von-flughafen-in-neu-delhi-stuerzt-teilweise-ein-ein-toter](https://www.spiegel.de/panorama/indien-dach-von-flughafen-in-neu-delhi-stuerzt-teilweise-ein-ein-toter-a-8714a1de-8b50-45b5-8641-039be5065df8#ref=rss)
+### belarus
 
-* [https://www.spiegel.de/sport/fussball/em-2024-die-neue-kapitaensregel-macht-den-fussball-zum-gewinner](https://www.spiegel.de/sport/fussball/em-2024-die-neue-kapitaensregel-macht-den-fussball-zum-gewinner-a-e2eb495b-f3a6-44ff-aa73-b78fb298bb0f#ref=rss)
-* [https://www.spiegel.de/ausland/taiwan-warnt-buerger-vor-chinareisen](https://www.spiegel.de/ausland/taiwan-warnt-buerger-vor-chinareisen-a-71b0e8b7-3417-49e1-90d6-56bda50d0279#ref=rss)
-### klingt
+* [https://www.spiegel.de/ausland/belarus-frueherer-botschafter-in-deutschland-stirbt-nach-abberufung-in-seiner-heimat](https://www.spiegel.de/ausland/belarus-frueherer-botschafter-in-deutschland-stirbt-nach-abberufung-in-seiner-heimat-a-8495221e-aec4-476e-8598-3318787ae6a1#ref=rss)
+### botschafter
 
-* [https://www.spiegel.de/sport/fussball/em-2024-die-neue-kapitaensregel-macht-den-fussball-zum-gewinner](https://www.spiegel.de/sport/fussball/em-2024-die-neue-kapitaensregel-macht-den-fussball-zum-gewinner-a-e2eb495b-f3a6-44ff-aa73-b78fb298bb0f#ref=rss)
-* [https://www.spiegel.de/panorama/grossbritannien-post-entschuldigt-sich-fuer-verspaetete-briefzustellung-wegen-moewenattacken](https://www.spiegel.de/panorama/grossbritannien-post-entschuldigt-sich-fuer-verspaetete-briefzustellung-wegen-moewenattacken-a-4e360dcc-add6-4c51-bb21-e519b26dc8ed#ref=rss)
-### sudan
+* [https://www.spiegel.de/ausland/belarus-frueherer-botschafter-in-deutschland-stirbt-nach-abberufung-in-seiner-heimat](https://www.spiegel.de/ausland/belarus-frueherer-botschafter-in-deutschland-stirbt-nach-abberufung-in-seiner-heimat-a-8495221e-aec4-476e-8598-3318787ae6a1#ref=rss)
+### abberufung
 
-* [https://www.spiegel.de/ausland/sudan-in-14-gebieten-droht-die-hungersnot](https://www.spiegel.de/ausland/sudan-in-14-gebieten-droht-die-hungersnot-a-f06900b0-ccdd-420c-931e-713da64be71f#ref=rss)
-### gebieten
+* [https://www.spiegel.de/ausland/belarus-frueherer-botschafter-in-deutschland-stirbt-nach-abberufung-in-seiner-heimat](https://www.spiegel.de/ausland/belarus-frueherer-botschafter-in-deutschland-stirbt-nach-abberufung-in-seiner-heimat-a-8495221e-aec4-476e-8598-3318787ae6a1#ref=rss)
+### tod
 
-* [https://www.spiegel.de/ausland/sudan-in-14-gebieten-droht-die-hungersnot](https://www.spiegel.de/ausland/sudan-in-14-gebieten-droht-die-hungersnot-a-f06900b0-ccdd-420c-931e-713da64be71f#ref=rss)
-### hungersnot
+* [https://www.spiegel.de/ausland/belarus-frueherer-botschafter-in-deutschland-stirbt-nach-abberufung-in-seiner-heimat](https://www.spiegel.de/ausland/belarus-frueherer-botschafter-in-deutschland-stirbt-nach-abberufung-in-seiner-heimat-a-8495221e-aec4-476e-8598-3318787ae6a1#ref=rss)
+* [https://www.spiegel.de/ausland/nordkorea-soll-mann-wegen-hoerens-von-k-pop-aus-suedkorea-oeffentlich-hingerichtet-haben](https://www.spiegel.de/ausland/nordkorea-soll-mann-wegen-hoerens-von-k-pop-aus-suedkorea-oeffentlich-hingerichtet-haben-a-52a812ff-340a-41d2-9ca0-7587686a1921#ref=rss)
+### 2024
 
-* [https://www.spiegel.de/ausland/sudan-in-14-gebieten-droht-die-hungersnot](https://www.spiegel.de/ausland/sudan-in-14-gebieten-droht-die-hungersnot-a-f06900b0-ccdd-420c-931e-713da64be71f#ref=rss)
-### betroffen
+* [https://www.spiegel.de/sport/em-2024-wie-man-auf-daenisch-den-schiedsrichter-beschimpft](https://www.spiegel.de/sport/em-2024-wie-man-auf-daenisch-den-schiedsrichter-beschimpft-a-f3aeb6d0-559b-494d-8f85-70bced4a89b4#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-der-faktencheck-zum-tv-duell-zwischen-joe-biden-und-donald-trump](https://www.spiegel.de/ausland/us-wahl-2024-der-faktencheck-zum-tv-duell-zwischen-joe-biden-und-donald-trump-a-4106eec8-8f32-4b22-b459-bca3507d3382#ref=rss)
+### dänisch
 
-* [https://www.spiegel.de/ausland/sudan-in-14-gebieten-droht-die-hungersnot](https://www.spiegel.de/ausland/sudan-in-14-gebieten-droht-die-hungersnot-a-f06900b0-ccdd-420c-931e-713da64be71f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/altes-aegypten-warum-die-schreiber-krumme-ruecken-hatten](https://www.spiegel.de/wissenschaft/mensch/altes-aegypten-warum-die-schreiber-krumme-ruecken-hatten-a-a0aeb67e-426d-4c72-bfa9-7d5dd2ac4760#ref=rss)
-### frankfurt
+* [https://www.spiegel.de/sport/em-2024-wie-man-auf-daenisch-den-schiedsrichter-beschimpft](https://www.spiegel.de/sport/em-2024-wie-man-auf-daenisch-den-schiedsrichter-beschimpft-a-f3aeb6d0-559b-494d-8f85-70bced4a89b4#ref=rss)
+### europas
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-joe-biden-vs-donald-trump-afd-waehler-spione-in-frankfurt](https://www.spiegel.de/politik/deutschland/news-des-tages-joe-biden-vs-donald-trump-afd-waehler-spione-in-frankfurt-a-34fdcddf-8683-47d9-bfb0-08f0d1bba2d5#ref=rss)
-### liste
+* [https://www.spiegel.de/wirtschaft/autoindustrie-europas-strafzoelle-treffen-deutsche-autobauer-haerter-als-chinesische-konzerne](https://www.spiegel.de/wirtschaft/autoindustrie-europas-strafzoelle-treffen-deutsche-autobauer-haerter-als-chinesische-konzerne-a-0fe2ed2a-cfeb-4db9-ab43-42e8898079ba#ref=rss)
+### härter
 
-* [https://www.spiegel.de/wissenschaft/natur/rote-liste-2024-mehr-als-tausend-weitere-tier-und-pflanzenarten-vom-aussterben-bedroht](https://www.spiegel.de/wissenschaft/natur/rote-liste-2024-mehr-als-tausend-weitere-tier-und-pflanzenarten-vom-aussterben-bedroht-a-97366b3f-b312-4228-8d45-7e6c53739880#ref=rss)
-### bedroht
+* [https://www.spiegel.de/wirtschaft/autoindustrie-europas-strafzoelle-treffen-deutsche-autobauer-haerter-als-chinesische-konzerne](https://www.spiegel.de/wirtschaft/autoindustrie-europas-strafzoelle-treffen-deutsche-autobauer-haerter-als-chinesische-konzerne-a-0fe2ed2a-cfeb-4db9-ab43-42e8898079ba#ref=rss)
+### konzerne
 
-* [https://www.spiegel.de/wissenschaft/natur/rote-liste-2024-mehr-als-tausend-weitere-tier-und-pflanzenarten-vom-aussterben-bedroht](https://www.spiegel.de/wissenschaft/natur/rote-liste-2024-mehr-als-tausend-weitere-tier-und-pflanzenarten-vom-aussterben-bedroht-a-97366b3f-b312-4228-8d45-7e6c53739880#ref=rss)
-### rené
+* [https://www.spiegel.de/wirtschaft/autoindustrie-europas-strafzoelle-treffen-deutsche-autobauer-haerter-als-chinesische-konzerne](https://www.spiegel.de/wirtschaft/autoindustrie-europas-strafzoelle-treffen-deutsche-autobauer-haerter-als-chinesische-konzerne-a-0fe2ed2a-cfeb-4db9-ab43-42e8898079ba#ref=rss)
+### volkswagen
 
-* [https://www.spiegel.de/wirtschaft/rene-benko-oesterreichs-staatsanwaelte-erheben-heftige-vorwuerfe](https://www.spiegel.de/wirtschaft/rene-benko-oesterreichs-staatsanwaelte-erheben-heftige-vorwuerfe-a-e6915c00-f802-4c9e-8b30-11f653a71635#ref=rss)
-### haus
+* [https://www.spiegel.de/wirtschaft/autoindustrie-europas-strafzoelle-treffen-deutsche-autobauer-haerter-als-chinesische-konzerne](https://www.spiegel.de/wirtschaft/autoindustrie-europas-strafzoelle-treffen-deutsche-autobauer-haerter-als-chinesische-konzerne-a-0fe2ed2a-cfeb-4db9-ab43-42e8898079ba#ref=rss)
+* [https://www.spiegel.de/wirtschaft/arbeitsrecht-neues-gesetz-regelt-bezahlung-von-betriebsraeten](https://www.spiegel.de/wirtschaft/arbeitsrecht-neues-gesetz-regelt-bezahlung-von-betriebsraeten-a-7bb5fd03-ff2a-435e-aded-5cb8b6cd3e4c#ref=rss)
+### saudiarabien
 
-* [https://www.spiegel.de/panorama/usa-wassermassen-reissen-haus-in-minnesota-in-die-flut-evakuierungen-nicht-geplant](https://www.spiegel.de/panorama/usa-wassermassen-reissen-haus-in-minnesota-in-die-flut-evakuierungen-nicht-geplant-a-9ad51e40-b5d0-4177-abbb-9a39a8d1a163#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-us-manager-schmeicheln-dem-ex-praesidenten-hoffnung-auf-steuersenkungen](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-us-manager-schmeicheln-dem-ex-praesidenten-hoffnung-auf-steuersenkungen-a-d403e178-e085-4e8f-b5a5-fc8f87bf7761#ref=rss)
-### minnesota
+* [https://www.spiegel.de/wissenschaft/saudi-arabien-hitzewelle-beim-hadsch-wurde-durch-klimawandel-massiv-verstaerkt](https://www.spiegel.de/wissenschaft/saudi-arabien-hitzewelle-beim-hadsch-wurde-durch-klimawandel-massiv-verstaerkt-a-38863688-8f98-4133-a1d3-626b91372c78#ref=rss)
+### hadsch
 
-* [https://www.spiegel.de/panorama/usa-wassermassen-reissen-haus-in-minnesota-in-die-flut-evakuierungen-nicht-geplant](https://www.spiegel.de/panorama/usa-wassermassen-reissen-haus-in-minnesota-in-die-flut-evakuierungen-nicht-geplant-a-9ad51e40-b5d0-4177-abbb-9a39a8d1a163#ref=rss)
-### kunsthaus
+* [https://www.spiegel.de/wissenschaft/saudi-arabien-hitzewelle-beim-hadsch-wurde-durch-klimawandel-massiv-verstaerkt](https://www.spiegel.de/wissenschaft/saudi-arabien-hitzewelle-beim-hadsch-wurde-durch-klimawandel-massiv-verstaerkt-a-38863688-8f98-4133-a1d3-626b91372c78#ref=rss)
+### klimawandel
 
-* [https://www.spiegel.de/kultur/buehrle-sammlung-im-kunsthaus-zuerich-warum-sie-ihre-eigenen-bilder-abhaengen-liess](https://www.spiegel.de/kultur/buehrle-sammlung-im-kunsthaus-zuerich-warum-sie-ihre-eigenen-bilder-abhaengen-liess-a-536537e0-31d9-4eea-ba79-592700c6f4f8#ref=rss)
-### zürich
+* [https://www.spiegel.de/wissenschaft/saudi-arabien-hitzewelle-beim-hadsch-wurde-durch-klimawandel-massiv-verstaerkt](https://www.spiegel.de/wissenschaft/saudi-arabien-hitzewelle-beim-hadsch-wurde-durch-klimawandel-massiv-verstaerkt-a-38863688-8f98-4133-a1d3-626b91372c78#ref=rss)
+### forscher
 
-* [https://www.spiegel.de/kultur/buehrle-sammlung-im-kunsthaus-zuerich-warum-sie-ihre-eigenen-bilder-abhaengen-liess](https://www.spiegel.de/kultur/buehrle-sammlung-im-kunsthaus-zuerich-warum-sie-ihre-eigenen-bilder-abhaengen-liess-a-536537e0-31d9-4eea-ba79-592700c6f4f8#ref=rss)
-### ägypten
+* [https://www.spiegel.de/wissenschaft/saudi-arabien-hitzewelle-beim-hadsch-wurde-durch-klimawandel-massiv-verstaerkt](https://www.spiegel.de/wissenschaft/saudi-arabien-hitzewelle-beim-hadsch-wurde-durch-klimawandel-massiv-verstaerkt-a-38863688-8f98-4133-a1d3-626b91372c78#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/soziale-roboter-wenn-haut-auf-robotergesicht-trifft-neue-wege-der-interaktion](https://www.spiegel.de/wissenschaft/technik/soziale-roboter-wenn-haut-auf-robotergesicht-trifft-neue-wege-der-interaktion-a-644c9141-4153-4a36-9e84-91582f35078e#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/wissenschaft/mensch/altes-aegypten-warum-die-schreiber-krumme-ruecken-hatten](https://www.spiegel.de/wissenschaft/mensch/altes-aegypten-warum-die-schreiber-krumme-ruecken-hatten-a-a0aeb67e-426d-4c72-bfa9-7d5dd2ac4760#ref=rss)
-### expräsidenten
+* [https://www.spiegel.de/wirtschaft/immobilienpreise-runter-loehne-rauf-das-eigenheim-wird-wieder-erschwinglicher](https://www.spiegel.de/wirtschaft/immobilienpreise-runter-loehne-rauf-das-eigenheim-wird-wieder-erschwinglicher-a-27085afd-237d-48d6-bf42-67d596b97ee7#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-und-donald-trump-im-tv-duell-das-war-schmerzhaft-die-ersten-reaktionen](https://www.spiegel.de/ausland/joe-biden-und-donald-trump-im-tv-duell-das-war-schmerzhaft-die-ersten-reaktionen-a-98ae60ff-e46e-4a83-9603-febe08add473#ref=rss)
+### europa
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-us-manager-schmeicheln-dem-ex-praesidenten-hoffnung-auf-steuersenkungen](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-us-manager-schmeicheln-dem-ex-praesidenten-hoffnung-auf-steuersenkungen-a-d403e178-e085-4e8f-b5a5-fc8f87bf7761#ref=rss)
-### warnt
+* [https://www.spiegel.de/wirtschaft/china-ueberholt-europa-und-die-usa-bei-patent-anmeldungen-und-wird-zum-hightech-standort](https://www.spiegel.de/wirtschaft/china-ueberholt-europa-und-die-usa-bei-patent-anmeldungen-und-wird-zum-hightech-standort-a-9219fdbe-9c58-41d0-be71-864eb8ec9b69#ref=rss)
+### hightechstandort
 
-* [https://www.spiegel.de/ausland/taiwan-warnt-buerger-vor-chinareisen](https://www.spiegel.de/ausland/taiwan-warnt-buerger-vor-chinareisen-a-71b0e8b7-3417-49e1-90d6-56bda50d0279#ref=rss)
-### bürger
+* [https://www.spiegel.de/wirtschaft/china-ueberholt-europa-und-die-usa-bei-patent-anmeldungen-und-wird-zum-hightech-standort](https://www.spiegel.de/wirtschaft/china-ueberholt-europa-und-die-usa-bei-patent-anmeldungen-und-wird-zum-hightech-standort-a-9219fdbe-9c58-41d0-be71-864eb8ec9b69#ref=rss)
+### zweite
 
-* [https://www.spiegel.de/ausland/taiwan-warnt-buerger-vor-chinareisen](https://www.spiegel.de/ausland/taiwan-warnt-buerger-vor-chinareisen-a-71b0e8b7-3417-49e1-90d6-56bda50d0279#ref=rss)
-### tuttlingen
+* [https://www.spiegel.de/wirtschaft/china-ueberholt-europa-und-die-usa-bei-patent-anmeldungen-und-wird-zum-hightech-standort](https://www.spiegel.de/wirtschaft/china-ueberholt-europa-und-die-usa-bei-patent-anmeldungen-und-wird-zum-hightech-standort-a-9219fdbe-9c58-41d0-be71-864eb8ec9b69#ref=rss)
+* [https://www.spiegel.de/kultur/esther-sedlaczek-und-bastian-schweinsteiger-was-die-flirt-spekulationen-ueber-uns-verraten](https://www.spiegel.de/kultur/esther-sedlaczek-und-bastian-schweinsteiger-was-die-flirt-spekulationen-ueber-uns-verraten-a-68a223f1-885d-4929-808a-c5621f341989#ref=rss)
+### nordkorea
 
-* [https://www.spiegel.de/panorama/justiz/tuttlingen-unbekannter-schiesst-auf-autokorso-nach-em-spiel](https://www.spiegel.de/panorama/justiz/tuttlingen-unbekannter-schiesst-auf-autokorso-nach-em-spiel-a-a2efb19f-a7e0-4c49-887c-5317ffefd364#ref=rss)
-### autokorso
+* [https://www.spiegel.de/ausland/nordkorea-soll-mann-wegen-hoerens-von-k-pop-aus-suedkorea-oeffentlich-hingerichtet-haben](https://www.spiegel.de/ausland/nordkorea-soll-mann-wegen-hoerens-von-k-pop-aus-suedkorea-oeffentlich-hingerichtet-haben-a-52a812ff-340a-41d2-9ca0-7587686a1921#ref=rss)
+### mann
 
-* [https://www.spiegel.de/panorama/justiz/tuttlingen-unbekannter-schiesst-auf-autokorso-nach-em-spiel](https://www.spiegel.de/panorama/justiz/tuttlingen-unbekannter-schiesst-auf-autokorso-nach-em-spiel-a-a2efb19f-a7e0-4c49-887c-5317ffefd364#ref=rss)
-### emspiel
+* [https://www.spiegel.de/ausland/nordkorea-soll-mann-wegen-hoerens-von-k-pop-aus-suedkorea-oeffentlich-hingerichtet-haben](https://www.spiegel.de/ausland/nordkorea-soll-mann-wegen-hoerens-von-k-pop-aus-suedkorea-oeffentlich-hingerichtet-haben-a-52a812ff-340a-41d2-9ca0-7587686a1921#ref=rss)
+### verbreiten
 
-* [https://www.spiegel.de/panorama/justiz/tuttlingen-unbekannter-schiesst-auf-autokorso-nach-em-spiel](https://www.spiegel.de/panorama/justiz/tuttlingen-unbekannter-schiesst-auf-autokorso-nach-em-spiel-a-a2efb19f-a7e0-4c49-887c-5317ffefd364#ref=rss)
-### wien
+* [https://www.spiegel.de/ausland/nordkorea-soll-mann-wegen-hoerens-von-k-pop-aus-suedkorea-oeffentlich-hingerichtet-haben](https://www.spiegel.de/ausland/nordkorea-soll-mann-wegen-hoerens-von-k-pop-aus-suedkorea-oeffentlich-hingerichtet-haben-a-52a812ff-340a-41d2-9ca0-7587686a1921#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/tv-duell-von-joe-biden-und-donald-trump-chatgpt-und-copilot-wiederholen-falschinformationen](https://www.spiegel.de/netzwelt/apps/tv-duell-von-joe-biden-und-donald-trump-chatgpt-und-copilot-wiederholen-falschinformationen-a-bb1068f5-bc07-4006-8123-76d07de9ff2c#ref=rss)
+### giorgia
 
-* [https://www.spiegel.de/panorama/wien-erneut-zur-lebenswertesten-stadt-der-welt-gekuert](https://www.spiegel.de/panorama/wien-erneut-zur-lebenswertesten-stadt-der-welt-gekuert-a-20ad0cb1-c8ad-42c1-9ee6-578ed16276b9#ref=rss)
-### pille
+* [https://www.spiegel.de/ausland/eu-personalien-giorgia-meloni-kritisiert-nominierung-von-ursula-von-der-leyen-scharf](https://www.spiegel.de/ausland/eu-personalien-giorgia-meloni-kritisiert-nominierung-von-ursula-von-der-leyen-scharf-a-b936470b-7d83-4ac7-a861-f0738eed26a1#ref=rss)
+### meloni
 
-* [https://www.spiegel.de/panorama/justiz/pille-danach-berliner-apotheker-muss-tablette-zur-notfallverhuetung-ausgeben](https://www.spiegel.de/panorama/justiz/pille-danach-berliner-apotheker-muss-tablette-zur-notfallverhuetung-ausgeben-a-46f58522-e923-4766-8200-1019649f085b#ref=rss)
-### berliner
+* [https://www.spiegel.de/ausland/eu-personalien-giorgia-meloni-kritisiert-nominierung-von-ursula-von-der-leyen-scharf](https://www.spiegel.de/ausland/eu-personalien-giorgia-meloni-kritisiert-nominierung-von-ursula-von-der-leyen-scharf-a-b936470b-7d83-4ac7-a861-f0738eed26a1#ref=rss)
+### nominierung
 
-* [https://www.spiegel.de/panorama/justiz/pille-danach-berliner-apotheker-muss-tablette-zur-notfallverhuetung-ausgeben](https://www.spiegel.de/panorama/justiz/pille-danach-berliner-apotheker-muss-tablette-zur-notfallverhuetung-ausgeben-a-46f58522-e923-4766-8200-1019649f085b#ref=rss)
-### apotheker
+* [https://www.spiegel.de/ausland/eu-personalien-giorgia-meloni-kritisiert-nominierung-von-ursula-von-der-leyen-scharf](https://www.spiegel.de/ausland/eu-personalien-giorgia-meloni-kritisiert-nominierung-von-ursula-von-der-leyen-scharf-a-b936470b-7d83-4ac7-a861-f0738eed26a1#ref=rss)
+### ursula
 
-* [https://www.spiegel.de/panorama/justiz/pille-danach-berliner-apotheker-muss-tablette-zur-notfallverhuetung-ausgeben](https://www.spiegel.de/panorama/justiz/pille-danach-berliner-apotheker-muss-tablette-zur-notfallverhuetung-ausgeben-a-46f58522-e923-4766-8200-1019649f085b#ref=rss)
-### wir
+* [https://www.spiegel.de/ausland/eu-personalien-giorgia-meloni-kritisiert-nominierung-von-ursula-von-der-leyen-scharf](https://www.spiegel.de/ausland/eu-personalien-giorgia-meloni-kritisiert-nominierung-von-ursula-von-der-leyen-scharf-a-b936470b-7d83-4ac7-a861-f0738eed26a1#ref=rss)
+### leyen
 
-* [https://www.spiegel.de/sport/fussball/ukraine-nach-em-aus-vor-allem-haben-wir-einen-krieg-zu-gewinnen](https://www.spiegel.de/sport/fussball/ukraine-nach-em-aus-vor-allem-haben-wir-einen-krieg-zu-gewinnen-a-534b975e-a9ea-46a3-a7d5-c92caba913e6#ref=rss)
-* [https://www.spiegel.de/panorama/grossbritannien-post-entschuldigt-sich-fuer-verspaetete-briefzustellung-wegen-moewenattacken](https://www.spiegel.de/panorama/grossbritannien-post-entschuldigt-sich-fuer-verspaetete-briefzustellung-wegen-moewenattacken-a-4e360dcc-add6-4c51-bb21-e519b26dc8ed#ref=rss)
-### post
+* [https://www.spiegel.de/ausland/eu-personalien-giorgia-meloni-kritisiert-nominierung-von-ursula-von-der-leyen-scharf](https://www.spiegel.de/ausland/eu-personalien-giorgia-meloni-kritisiert-nominierung-von-ursula-von-der-leyen-scharf-a-b936470b-7d83-4ac7-a861-f0738eed26a1#ref=rss)
+### scharf
 
-* [https://www.spiegel.de/panorama/grossbritannien-post-entschuldigt-sich-fuer-verspaetete-briefzustellung-wegen-moewenattacken](https://www.spiegel.de/panorama/grossbritannien-post-entschuldigt-sich-fuer-verspaetete-briefzustellung-wegen-moewenattacken-a-4e360dcc-add6-4c51-bb21-e519b26dc8ed#ref=rss)
+* [https://www.spiegel.de/ausland/eu-personalien-giorgia-meloni-kritisiert-nominierung-von-ursula-von-der-leyen-scharf](https://www.spiegel.de/ausland/eu-personalien-giorgia-meloni-kritisiert-nominierung-von-ursula-von-der-leyen-scharf-a-b936470b-7d83-4ac7-a861-f0738eed26a1#ref=rss)
+### frage
+
+* [https://www.spiegel.de/ausland/eu-personalien-giorgia-meloni-kritisiert-nominierung-von-ursula-von-der-leyen-scharf](https://www.spiegel.de/ausland/eu-personalien-giorgia-meloni-kritisiert-nominierung-von-ursula-von-der-leyen-scharf-a-b936470b-7d83-4ac7-a861-f0738eed26a1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/arbeitsrecht-neues-gesetz-regelt-bezahlung-von-betriebsraeten](https://www.spiegel.de/wirtschaft/arbeitsrecht-neues-gesetz-regelt-bezahlung-von-betriebsraeten-a-7bb5fd03-ff2a-435e-aded-5cb8b6cd3e4c#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/wirtschaft/service/energiewende-studie-zeigt-eklatante-ungleichheiten-bei-stromnetzgebuehren](https://www.spiegel.de/wirtschaft/service/energiewende-studie-zeigt-eklatante-ungleichheiten-bei-stromnetzgebuehren-a-ee78079c-b96d-4e6d-b6b7-2f3008c412f5#ref=rss)
+### bezahlung
+
+* [https://www.spiegel.de/wirtschaft/arbeitsrecht-neues-gesetz-regelt-bezahlung-von-betriebsraeten](https://www.spiegel.de/wirtschaft/arbeitsrecht-neues-gesetz-regelt-bezahlung-von-betriebsraeten-a-7bb5fd03-ff2a-435e-aded-5cb8b6cd3e4c#ref=rss)
+### samstag
+
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-heftige-gewittern-zum-fussball-am-samstag-erwartet](https://www.spiegel.de/panorama/wetter-in-deutschland-heftige-gewittern-zum-fussball-am-samstag-erwartet-a-2a12a87e-1426-4d35-a583-8342e044779d#ref=rss)
+### roboter
+
+* [https://www.spiegel.de/wissenschaft/technik/soziale-roboter-wenn-haut-auf-robotergesicht-trifft-neue-wege-der-interaktion](https://www.spiegel.de/wissenschaft/technik/soziale-roboter-wenn-haut-auf-robotergesicht-trifft-neue-wege-der-interaktion-a-644c9141-4153-4a36-9e84-91582f35078e#ref=rss)
+### haut
+
+* [https://www.spiegel.de/wissenschaft/technik/soziale-roboter-wenn-haut-auf-robotergesicht-trifft-neue-wege-der-interaktion](https://www.spiegel.de/wissenschaft/technik/soziale-roboter-wenn-haut-auf-robotergesicht-trifft-neue-wege-der-interaktion-a-644c9141-4153-4a36-9e84-91582f35078e#ref=rss)
+### kristen
+
+* [https://www.spiegel.de/kultur/kino/kristen-stewart-stoehngeraeusche-bei-selbstfriedigungsszenen-unrealistisch](https://www.spiegel.de/kultur/kino/kristen-stewart-stoehngeraeusche-bei-selbstfriedigungsszenen-unrealistisch-a-15d4face-f217-4e30-af31-0cab472e8f29#ref=rss)
+### stewart
+
+* [https://www.spiegel.de/kultur/kino/kristen-stewart-stoehngeraeusche-bei-selbstfriedigungsszenen-unrealistisch](https://www.spiegel.de/kultur/kino/kristen-stewart-stoehngeraeusche-bei-selbstfriedigungsszenen-unrealistisch-a-15d4face-f217-4e30-af31-0cab472e8f29#ref=rss)
+### sedlaczek
+
+* [https://www.spiegel.de/kultur/esther-sedlaczek-und-bastian-schweinsteiger-was-die-flirt-spekulationen-ueber-uns-verraten](https://www.spiegel.de/kultur/esther-sedlaczek-und-bastian-schweinsteiger-was-die-flirt-spekulationen-ueber-uns-verraten-a-68a223f1-885d-4929-808a-c5621f341989#ref=rss)
+### schweinsteiger
+
+* [https://www.spiegel.de/kultur/esther-sedlaczek-und-bastian-schweinsteiger-was-die-flirt-spekulationen-ueber-uns-verraten](https://www.spiegel.de/kultur/esther-sedlaczek-und-bastian-schweinsteiger-was-die-flirt-spekulationen-ueber-uns-verraten-a-68a223f1-885d-4929-808a-c5621f341989#ref=rss)
+### julian
+
+* [https://www.spiegel.de/ausland/julian-assange-ist-frei-doch-der-deal-ist-ein-gefaehrlicher-praezedenzfall](https://www.spiegel.de/ausland/julian-assange-ist-frei-doch-der-deal-ist-ein-gefaehrlicher-praezedenzfall-a-82e4750a-867d-4c8d-9834-574040ff04eb#ref=rss)
+### assange
+
+* [https://www.spiegel.de/ausland/julian-assange-ist-frei-doch-der-deal-ist-ein-gefaehrlicher-praezedenzfall](https://www.spiegel.de/ausland/julian-assange-ist-frei-doch-der-deal-ist-ein-gefaehrlicher-praezedenzfall-a-82e4750a-867d-4c8d-9834-574040ff04eb#ref=rss)
+### deal
+
+* [https://www.spiegel.de/ausland/julian-assange-ist-frei-doch-der-deal-ist-ein-gefaehrlicher-praezedenzfall](https://www.spiegel.de/ausland/julian-assange-ist-frei-doch-der-deal-ist-ein-gefaehrlicher-praezedenzfall-a-82e4750a-867d-4c8d-9834-574040ff04eb#ref=rss)
+### präzedenzfall
+
+* [https://www.spiegel.de/ausland/julian-assange-ist-frei-doch-der-deal-ist-ein-gefaehrlicher-praezedenzfall](https://www.spiegel.de/ausland/julian-assange-ist-frei-doch-der-deal-ist-ein-gefaehrlicher-praezedenzfall-a-82e4750a-867d-4c8d-9834-574040ff04eb#ref=rss)
+### boeing
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/boeing-wie-schlecht-geht-es-dem-flugzeugbauer-wirklich](https://www.spiegel.de/wirtschaft/unternehmen/boeing-wie-schlecht-geht-es-dem-flugzeugbauer-wirklich-a-7e78e217-26e2-431d-9c24-313f4e607db0#ref=rss)
+### deutsches
+
+* [https://www.spiegel.de/panorama/doener-als-deutsches-nationalgericht-kebap-experte-seidel-fordert-reinheitsgebot](https://www.spiegel.de/panorama/doener-als-deutsches-nationalgericht-kebap-experte-seidel-fordert-reinheitsgebot-a-4a6ac435-b470-4fb8-ab55-8025676b9040#ref=rss)
+### nationalgericht
+
+* [https://www.spiegel.de/panorama/doener-als-deutsches-nationalgericht-kebap-experte-seidel-fordert-reinheitsgebot](https://www.spiegel.de/panorama/doener-als-deutsches-nationalgericht-kebap-experte-seidel-fordert-reinheitsgebot-a-4a6ac435-b470-4fb8-ab55-8025676b9040#ref=rss)
+### kebapexperte
+
+* [https://www.spiegel.de/panorama/doener-als-deutsches-nationalgericht-kebap-experte-seidel-fordert-reinheitsgebot](https://www.spiegel.de/panorama/doener-als-deutsches-nationalgericht-kebap-experte-seidel-fordert-reinheitsgebot-a-4a6ac435-b470-4fb8-ab55-8025676b9040#ref=rss)
+### seidel
+
+* [https://www.spiegel.de/panorama/doener-als-deutsches-nationalgericht-kebap-experte-seidel-fordert-reinheitsgebot](https://www.spiegel.de/panorama/doener-als-deutsches-nationalgericht-kebap-experte-seidel-fordert-reinheitsgebot-a-4a6ac435-b470-4fb8-ab55-8025676b9040#ref=rss)
+### reinheitsgebot
+
+* [https://www.spiegel.de/panorama/doener-als-deutsches-nationalgericht-kebap-experte-seidel-fordert-reinheitsgebot](https://www.spiegel.de/panorama/doener-als-deutsches-nationalgericht-kebap-experte-seidel-fordert-reinheitsgebot-a-4a6ac435-b470-4fb8-ab55-8025676b9040#ref=rss)
+### jenni
+
+* [https://www.spiegel.de/panorama/leute/jenni-rivera-saengerin-posthum-mit-stern-auf-walk-of-fame-geehrt](https://www.spiegel.de/panorama/leute/jenni-rivera-saengerin-posthum-mit-stern-auf-walk-of-fame-geehrt-a-49ba9b3d-d237-4219-bbb8-cc7231fd10da#ref=rss)
+### rivera
+
+* [https://www.spiegel.de/panorama/leute/jenni-rivera-saengerin-posthum-mit-stern-auf-walk-of-fame-geehrt](https://www.spiegel.de/panorama/leute/jenni-rivera-saengerin-posthum-mit-stern-auf-walk-of-fame-geehrt-a-49ba9b3d-d237-4219-bbb8-cc7231fd10da#ref=rss)
+### sängerin
+
+* [https://www.spiegel.de/panorama/leute/jenni-rivera-saengerin-posthum-mit-stern-auf-walk-of-fame-geehrt](https://www.spiegel.de/panorama/leute/jenni-rivera-saengerin-posthum-mit-stern-auf-walk-of-fame-geehrt-a-49ba9b3d-d237-4219-bbb8-cc7231fd10da#ref=rss)
+### auftritt
+
+* [https://www.spiegel.de/ausland/joe-biden-sollte-der-welt-einen-gefallen-tun-und-verzichten-der-spiegel-leitartikel](https://www.spiegel.de/ausland/joe-biden-sollte-der-welt-einen-gefallen-tun-und-verzichten-der-spiegel-leitartikel-a-64d59b66-ce82-4056-bfbe-9fd36b993860#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-und-donald-trump-im-tv-duell-das-war-schmerzhaft-die-ersten-reaktionen](https://www.spiegel.de/ausland/joe-biden-und-donald-trump-im-tv-duell-das-war-schmerzhaft-die-ersten-reaktionen-a-98ae60ff-e46e-4a83-9603-febe08add473#ref=rss)
+### nba
+
+* [https://www.spiegel.de/sport/basketball/nba-lebron-james-und-bronny-james-koennten-als-erstes-vater-sohn-duo-gemeinsam-in-der-nba-auflaufen](https://www.spiegel.de/sport/basketball/nba-lebron-james-und-bronny-james-koennten-als-erstes-vater-sohn-duo-gemeinsam-in-der-nba-auflaufen-a-1b9064a3-27ff-497f-8d96-4aa0c79adb71#ref=rss)
+### bronny
+
+* [https://www.spiegel.de/sport/basketball/nba-lebron-james-und-bronny-james-koennten-als-erstes-vater-sohn-duo-gemeinsam-in-der-nba-auflaufen](https://www.spiegel.de/sport/basketball/nba-lebron-james-und-bronny-james-koennten-als-erstes-vater-sohn-duo-gemeinsam-in-der-nba-auflaufen-a-1b9064a3-27ff-497f-8d96-4aa0c79adb71#ref=rss)
+### reformpaket
+
+* [https://www.spiegel.de/ausland/argentinien-javier-milei-bringt-reformpaket-durch-den-kongress](https://www.spiegel.de/ausland/argentinien-javier-milei-bringt-reformpaket-durch-den-kongress-a-e29f4848-0507-468e-86c6-a4ecb373b528#ref=rss)
 
