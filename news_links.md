@@ -4,376 +4,338 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### 2024
-
-* [https://www.spiegel.de/sport/fussball/em-2024-die-strafen-europameister-der-gruppenphase-wer-musste-am-meisten-zahlen](https://www.spiegel.de/sport/fussball/em-2024-die-strafen-europameister-der-gruppenphase-wer-musste-am-meisten-zahlen-a-d6590a3b-cc65-444d-897c-ede703e76c35#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/fussball-em-2024-deutsche-bahn-begruendet-pannen-und-verspaetungen](https://www.spiegel.de/wirtschaft/service/fussball-em-2024-deutsche-bahn-begruendet-pannen-und-verspaetungen-a-81014c2a-9dcf-420a-b5d4-dedbec799d0e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/em-2024-kosten-fuer-fans-250-euro-pro-karte-200-euro-fuers-apartment-und-100-euro-fuer-bier](https://www.spiegel.de/wirtschaft/em-2024-kosten-fuer-fans-250-euro-pro-karte-200-euro-fuers-apartment-und-100-euro-fuer-bier-a-5cdc0873-f183-4df2-a70e-68e51d5e2671#ref=rss)
-* [https://www.spiegel.de/sport/fussball-em-2024-wo-ist-der-ball-das-quiz-zum-achtelfinale](https://www.spiegel.de/sport/fussball-em-2024-wo-ist-der-ball-das-quiz-zum-achtelfinale-a-ef06f4f8-5fec-44de-8b06-1202ce35522a#ref=rss)
-* [https://www.spiegel.de/sport/em-2024-diese-em-zeigt-die-schoenheit-kultureller-aneignung-und-die-haesslichkeit-von-hass](https://www.spiegel.de/sport/em-2024-diese-em-zeigt-die-schoenheit-kultureller-aneignung-und-die-haesslichkeit-von-hass-a-52a3ceb1-1561-4907-b1cf-ad1db54361ef#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-wahl-2024-es-droht-das-ende-der-tories-wie-wir-sie-kennen](https://www.spiegel.de/ausland/grossbritannien-wahl-2024-es-droht-das-ende-der-tories-wie-wir-sie-kennen-a-66b6cda7-8b0e-4d57-830b-8f4699978a4e#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/service/fussball-em-2024-deutsche-bahn-begruendet-pannen-und-verspaetungen](https://www.spiegel.de/wirtschaft/service/fussball-em-2024-deutsche-bahn-begruendet-pannen-und-verspaetungen-a-81014c2a-9dcf-420a-b5d4-dedbec799d0e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fall-demiral-auswaertiges-amt-bestellt-tuerkischen-botschafter-wegen-wolfsgruss-ein](https://www.spiegel.de/politik/deutschland/fall-demiral-auswaertiges-amt-bestellt-tuerkischen-botschafter-wegen-wolfsgruss-ein-a-6535914b-d181-425f-a571-7041babc2119#ref=rss)
-* [https://www.spiegel.de/politik/krise-der-demokratie-die-bedrohung-durch-selbstherrlichkeit-und-willkuer](https://www.spiegel.de/politik/krise-der-demokratie-die-bedrohung-durch-selbstherrlichkeit-und-willkuer-a-de5f8b0d-5d3c-4fdb-9182-c51ad0ec5e0b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/industrie-deutsche-firmen-melden-fuenften-rueckgang-in-folge-bei-auftraegen](https://www.spiegel.de/wirtschaft/unternehmen/industrie-deutsche-firmen-melden-fuenften-rueckgang-in-folge-bei-auftraegen-a-ed89868a-8a18-4c04-b629-617c6a5c358b#ref=rss)
-### em
-
-* [https://www.spiegel.de/sport/fussball/em-2024-die-strafen-europameister-der-gruppenphase-wer-musste-am-meisten-zahlen](https://www.spiegel.de/sport/fussball/em-2024-die-strafen-europameister-der-gruppenphase-wer-musste-am-meisten-zahlen-a-d6590a3b-cc65-444d-897c-ede703e76c35#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/fussball-em-2024-deutsche-bahn-begruendet-pannen-und-verspaetungen](https://www.spiegel.de/wirtschaft/service/fussball-em-2024-deutsche-bahn-begruendet-pannen-und-verspaetungen-a-81014c2a-9dcf-420a-b5d4-dedbec799d0e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/em-2024-kosten-fuer-fans-250-euro-pro-karte-200-euro-fuers-apartment-und-100-euro-fuer-bier](https://www.spiegel.de/wirtschaft/em-2024-kosten-fuer-fans-250-euro-pro-karte-200-euro-fuers-apartment-und-100-euro-fuer-bier-a-5cdc0873-f183-4df2-a70e-68e51d5e2671#ref=rss)
-* [https://www.spiegel.de/sport/em-2024-diese-em-zeigt-die-schoenheit-kultureller-aneignung-und-die-haesslichkeit-von-hass](https://www.spiegel.de/sport/em-2024-diese-em-zeigt-die-schoenheit-kultureller-aneignung-und-die-haesslichkeit-von-hass-a-52a3ceb1-1561-4907-b1cf-ad1db54361ef#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/zensus-mehr-als-eine-million-wohnungen-standen-laenger-als-ein-jahr-leer](https://www.spiegel.de/wirtschaft/zensus-mehr-als-eine-million-wohnungen-standen-laenger-als-ein-jahr-leer-a-0044e3ab-caac-4b4c-b9f4-8751771ad07f#ref=rss)
-* [https://www.spiegel.de/ausland/nahostkonflikt-hisbollah-will-200-raketen-auf-israel-abgefeuert-haben](https://www.spiegel.de/ausland/nahostkonflikt-hisbollah-will-200-raketen-auf-israel-abgefeuert-haben-a-a7100cf3-d3e0-4f68-bd0c-b6cd2326d49b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/altersarmut-zahl-der-senioren-mit-grundsicherung-erneut-gestiegen-rund-720-000-betroffene](https://www.spiegel.de/wirtschaft/soziales/altersarmut-zahl-der-senioren-mit-grundsicherung-erneut-gestiegen-rund-720-000-betroffene-a-2e757b91-0350-4ad4-848a-6141605cd808#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/sport/tour-de-france-mark-cavendish-knackt-tour-rekord-von-eddy-merckx](https://www.spiegel.de/sport/tour-de-france-mark-cavendish-knackt-tour-rekord-von-eddy-merckx-a-fef4dd5b-9ef5-4ff5-9a3f-ed814eb29a1d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/zensus-mehr-als-eine-million-wohnungen-standen-laenger-als-ein-jahr-leer](https://www.spiegel.de/wirtschaft/zensus-mehr-als-eine-million-wohnungen-standen-laenger-als-ein-jahr-leer-a-0044e3ab-caac-4b4c-b9f4-8751771ad07f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/altersarmut-zahl-der-senioren-mit-grundsicherung-erneut-gestiegen-rund-720-000-betroffene](https://www.spiegel.de/wirtschaft/soziales/altersarmut-zahl-der-senioren-mit-grundsicherung-erneut-gestiegen-rund-720-000-betroffene-a-2e757b91-0350-4ad4-848a-6141605cd808#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/zensus-mehr-als-eine-million-wohnungen-standen-laenger-als-ein-jahr-leer](https://www.spiegel.de/wirtschaft/zensus-mehr-als-eine-million-wohnungen-standen-laenger-als-ein-jahr-leer-a-0044e3ab-caac-4b4c-b9f4-8751771ad07f#ref=rss)
-* [https://www.spiegel.de/panorama/deutscher-wetterdienst-meldet-naesse-rekord-seit-messbeginn](https://www.spiegel.de/panorama/deutscher-wetterdienst-meldet-naesse-rekord-seit-messbeginn-a-dd073c06-e2be-444c-8436-ae51efa477b8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/em-2024-kosten-fuer-fans-250-euro-pro-karte-200-euro-fuers-apartment-und-100-euro-fuer-bier](https://www.spiegel.de/wirtschaft/em-2024-kosten-fuer-fans-250-euro-pro-karte-200-euro-fuers-apartment-und-100-euro-fuer-bier-a-5cdc0873-f183-4df2-a70e-68e51d5e2671#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/altersarmut-zahl-der-senioren-mit-grundsicherung-erneut-gestiegen-rund-720-000-betroffene](https://www.spiegel.de/wirtschaft/soziales/altersarmut-zahl-der-senioren-mit-grundsicherung-erneut-gestiegen-rund-720-000-betroffene-a-2e757b91-0350-4ad4-848a-6141605cd808#ref=rss)
-### mädchen
-
-* [https://www.spiegel.de/panorama/mechernich-vermisstes-maedchen-wieder-da](https://www.spiegel.de/panorama/mechernich-vermisstes-maedchen-wieder-da-a-c0093765-2c84-4304-a058-d4e087ca8fe9#ref=rss)
-* [https://www.spiegel.de/panorama/australien-vermisstes-maedchen-nach-krokodilangriff-tot-geborgen](https://www.spiegel.de/panorama/australien-vermisstes-maedchen-nach-krokodilangriff-tot-geborgen-a-4f9c7ce2-c4fd-4313-8dc7-b3f2f83e364d#ref=rss)
-### länger
-
-* [https://www.spiegel.de/wirtschaft/zensus-mehr-als-eine-million-wohnungen-standen-laenger-als-ein-jahr-leer](https://www.spiegel.de/wirtschaft/zensus-mehr-als-eine-million-wohnungen-standen-laenger-als-ein-jahr-leer-a-0044e3ab-caac-4b4c-b9f4-8751771ad07f#ref=rss)
-* [https://www.spiegel.de/netzwelt/games/minesweeper-fuers-handy-netflix-legt-den-klassiker-fuer-seine-abonnenten-neu-auf](https://www.spiegel.de/netzwelt/games/minesweeper-fuers-handy-netflix-legt-den-klassiker-fuer-seine-abonnenten-neu-auf-a-44635102-a60d-43f2-a9cb-942d75efd35a#ref=rss)
-### 200
-
-* [https://www.spiegel.de/ausland/nahostkonflikt-hisbollah-will-200-raketen-auf-israel-abgefeuert-haben](https://www.spiegel.de/ausland/nahostkonflikt-hisbollah-will-200-raketen-auf-israel-abgefeuert-haben-a-a7100cf3-d3e0-4f68-bd0c-b6cd2326d49b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/em-2024-kosten-fuer-fans-250-euro-pro-karte-200-euro-fuers-apartment-und-100-euro-fuer-bier](https://www.spiegel.de/wirtschaft/em-2024-kosten-fuer-fans-250-euro-pro-karte-200-euro-fuers-apartment-und-100-euro-fuer-bier-a-5cdc0873-f183-4df2-a70e-68e51d5e2671#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/nahostkonflikt-hisbollah-will-200-raketen-auf-israel-abgefeuert-haben](https://www.spiegel.de/ausland/nahostkonflikt-hisbollah-will-200-raketen-auf-israel-abgefeuert-haben-a-a7100cf3-d3e0-4f68-bd0c-b6cd2326d49b#ref=rss)
-### fußballem
-
-* [https://www.spiegel.de/wirtschaft/service/fussball-em-2024-deutsche-bahn-begruendet-pannen-und-verspaetungen](https://www.spiegel.de/wirtschaft/service/fussball-em-2024-deutsche-bahn-begruendet-pannen-und-verspaetungen-a-81014c2a-9dcf-420a-b5d4-dedbec799d0e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/em-2024-kosten-fuer-fans-250-euro-pro-karte-200-euro-fuers-apartment-und-100-euro-fuer-bier](https://www.spiegel.de/wirtschaft/em-2024-kosten-fuer-fans-250-euro-pro-karte-200-euro-fuers-apartment-und-100-euro-fuer-bier-a-5cdc0873-f183-4df2-a70e-68e51d5e2671#ref=rss)
-* [https://www.spiegel.de/sport/fussball-em-2024-wo-ist-der-ball-das-quiz-zum-achtelfinale](https://www.spiegel.de/sport/fussball-em-2024-wo-ist-der-ball-das-quiz-zum-achtelfinale-a-ef06f4f8-5fec-44de-8b06-1202ce35522a#ref=rss)
-### joe
-
-* [https://www.spiegel.de/ausland/wie-joe-biden-den-aufstand-stoppen-will-krisentreffen-im-weissen-haus](https://www.spiegel.de/ausland/wie-joe-biden-den-aufstand-stoppen-will-krisentreffen-im-weissen-haus-a-0f17f1a5-d231-4163-af68-dd17a5adfd20#ref=rss)
-* [https://www.spiegel.de/politik/krise-der-demokratie-die-bedrohung-durch-selbstherrlichkeit-und-willkuer](https://www.spiegel.de/politik/krise-der-demokratie-die-bedrohung-durch-selbstherrlichkeit-und-willkuer-a-de5f8b0d-5d3c-4fdb-9182-c51ad0ec5e0b#ref=rss)
-### biden
-
-* [https://www.spiegel.de/ausland/wie-joe-biden-den-aufstand-stoppen-will-krisentreffen-im-weissen-haus](https://www.spiegel.de/ausland/wie-joe-biden-den-aufstand-stoppen-will-krisentreffen-im-weissen-haus-a-0f17f1a5-d231-4163-af68-dd17a5adfd20#ref=rss)
-* [https://www.spiegel.de/politik/krise-der-demokratie-die-bedrohung-durch-selbstherrlichkeit-und-willkuer](https://www.spiegel.de/politik/krise-der-demokratie-die-bedrohung-durch-selbstherrlichkeit-und-willkuer-a-de5f8b0d-5d3c-4fdb-9182-c51ad0ec5e0b#ref=rss)
-### strafzölle
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/strafzoelle-eu-fuehrt-vorlaeufige-strafzoelle-auf-e-autos-aus-china-ein](https://www.spiegel.de/wirtschaft/unternehmen/strafzoelle-eu-fuehrt-vorlaeufige-strafzoelle-auf-e-autos-aus-china-ein-a-1fa4b0e9-4e82-4b6e-85ca-97e2601bf642#ref=rss)
-### murphy
-
-* [https://www.spiegel.de/panorama/leute/eddie-murphy-erwartet-ein-lustiges-enkelkind-von-sohn-eric-murphy-und-jasmine-lawrence](https://www.spiegel.de/panorama/leute/eddie-murphy-erwartet-ein-lustiges-enkelkind-von-sohn-eric-murphy-und-jasmine-lawrence-a-53b68eb3-0217-464a-970e-42d269b6ba98#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/panorama/leute/eddie-murphy-erwartet-ein-lustiges-enkelkind-von-sohn-eric-murphy-und-jasmine-lawrence](https://www.spiegel.de/panorama/leute/eddie-murphy-erwartet-ein-lustiges-enkelkind-von-sohn-eric-murphy-und-jasmine-lawrence-a-53b68eb3-0217-464a-970e-42d269b6ba98#ref=rss)
-* [https://www.spiegel.de/panorama/feuer-im-hamburger-elbtunnel](https://www.spiegel.de/panorama/feuer-im-hamburger-elbtunnel-a-b9f7ce45-cbce-413c-9871-cf554a4616d2#ref=rss)
-* [https://www.spiegel.de/panorama/leute/david-beckham-und-victoria-beckham-feiern-25-hochzeitstag-in-outfits-von-damals](https://www.spiegel.de/panorama/leute/david-beckham-und-victoria-beckham-feiern-25-hochzeitstag-in-outfits-von-damals-a-63e5b57d-8e5d-4988-bbd2-6a8235674582#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-will-milliarden-euro-bei-digitalisierung-sparen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-will-milliarden-euro-bei-digitalisierung-sparen-a-5530a649-e543-47a1-9335-1c2fce0b924d#ref=rss)
+* [https://www.spiegel.de/panorama/leute/schauspielerin-lara-flynn-boyle-ueber-altersdiskriminierung-in-hollywood-es-ist-unsere-verantwortung](https://www.spiegel.de/panorama/leute/schauspielerin-lara-flynn-boyle-ueber-altersdiskriminierung-in-hollywood-es-ist-unsere-verantwortung-a-e1fe4407-fc15-4fee-934d-ddc6b2d00938#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/oesterreich-bisher-offenbar-70-raser-autos-entzogen](https://www.spiegel.de/panorama/justiz/oesterreich-bisher-offenbar-70-raser-autos-entzogen-a-62bd582b-cb21-48bb-8c9c-f7beafe7a2f9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/denisova-mensch-knochenfund-in-tibet-zeigt-ernaehrung-waehrend-der-eiszeit](https://www.spiegel.de/wissenschaft/mensch/denisova-mensch-knochenfund-in-tibet-zeigt-ernaehrung-waehrend-der-eiszeit-a-4ed390f2-6588-4231-9cb7-7add50283bc6#ref=rss)
+### putin
+
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-betrachtet-taliban-als-verbuendete-im-kampf-gegen-terrorismus](https://www.spiegel.de/ausland/russland-wladimir-putin-betrachtet-taliban-als-verbuendete-im-kampf-gegen-terrorismus-a-68a6cd0b-4bb6-4148-8877-c2dac4342fda#ref=rss)
+* [https://www.spiegel.de/panorama/taylor-swift-und-wladimir-putin-waren-schon-da-australischer-wildpark-erlaesst-koala-kuschelverbot](https://www.spiegel.de/panorama/taylor-swift-und-wladimir-putin-waren-schon-da-australischer-wildpark-erlaesst-koala-kuschelverbot-a-b1e7e903-91a3-4862-9cdd-e47d603ffcef#ref=rss)
+### sport
+
+* [https://www.spiegel.de/kultur/tv/sport-1-zeigt-jetzt-polizei-dokus-und-keine-sexy-sport-clips-mehr](https://www.spiegel.de/kultur/tv/sport-1-zeigt-jetzt-polizei-dokus-und-keine-sexy-sport-clips-mehr-a-07bb042a-b905-4cef-ae50-be57083c7ced#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-em-2024-spanier-haben-ihren-eigenen-schinken-mitgebracht](https://www.spiegel.de/sport/fussball/fussball-em-2024-spanier-haben-ihren-eigenen-schinken-mitgebracht-a-106d881e-b030-4b9b-b170-e6324ae1fed1#ref=rss)
+### milliarden
+
+* [https://www.spiegel.de/politik/deutschland/verteidigung-bundeswehr-kauft-satelliten-bei-airbus-fuer-2-1-milliarden-euro](https://www.spiegel.de/politik/deutschland/verteidigung-bundeswehr-kauft-satelliten-bei-airbus-fuer-2-1-milliarden-euro-a-c72b0350-a36a-421e-bf42-01449539e4eb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-will-milliarden-euro-bei-digitalisierung-sparen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-will-milliarden-euro-bei-digitalisierung-sparen-a-5530a649-e543-47a1-9335-1c2fce0b924d#ref=rss)
 ### euro
 
-* [https://www.spiegel.de/wirtschaft/em-2024-kosten-fuer-fans-250-euro-pro-karte-200-euro-fuers-apartment-und-100-euro-fuer-bier](https://www.spiegel.de/wirtschaft/em-2024-kosten-fuer-fans-250-euro-pro-karte-200-euro-fuers-apartment-und-100-euro-fuer-bier-a-5cdc0873-f183-4df2-a70e-68e51d5e2671#ref=rss)
-### beckham
+* [https://www.spiegel.de/politik/deutschland/verteidigung-bundeswehr-kauft-satelliten-bei-airbus-fuer-2-1-milliarden-euro](https://www.spiegel.de/politik/deutschland/verteidigung-bundeswehr-kauft-satelliten-bei-airbus-fuer-2-1-milliarden-euro-a-c72b0350-a36a-421e-bf42-01449539e4eb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-will-milliarden-euro-bei-digitalisierung-sparen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-will-milliarden-euro-bei-digitalisierung-sparen-a-5530a649-e543-47a1-9335-1c2fce0b924d#ref=rss)
+* [https://www.spiegel.de/panorama/leute/coldplay-muss-ex-manager-millionen-zahlen](https://www.spiegel.de/panorama/leute/coldplay-muss-ex-manager-millionen-zahlen-a-890cd7da-7740-4252-9696-c58945a08b4f#ref=rss)
+### streit
 
-* [https://www.spiegel.de/panorama/leute/david-beckham-und-victoria-beckham-feiern-25-hochzeitstag-in-outfits-von-damals](https://www.spiegel.de/panorama/leute/david-beckham-und-victoria-beckham-feiern-25-hochzeitstag-in-outfits-von-damals-a-63e5b57d-8e5d-4988-bbd2-6a8235674582#ref=rss)
-### mark
+* [https://www.spiegel.de/panorama/mamming-in-bayern-gast-zahlt-16-bier-mit-karte-das-sagt-der-wirt](https://www.spiegel.de/panorama/mamming-in-bayern-gast-zahlt-16-bier-mit-karte-das-sagt-der-wirt-a-210b47d1-6e7b-4eab-b432-ed735b94c462#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-vogelgrippevirus-h5n1-bei-kuehen-strafzoelle-auf-elektroautos-streit-um-wolfsgruss](https://www.spiegel.de/politik/deutschland/news-des-tages-vogelgrippevirus-h5n1-bei-kuehen-strafzoelle-auf-elektroautos-streit-um-wolfsgruss-a-a632342a-408a-480c-9f2e-2e58ec6a7915#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/sport/tour-de-france-mark-cavendish-knackt-tour-rekord-von-eddy-merckx](https://www.spiegel.de/sport/tour-de-france-mark-cavendish-knackt-tour-rekord-von-eddy-merckx-a-fef4dd5b-9ef5-4ff5-9a3f-ed814eb29a1d#ref=rss)
-### cavendish
+* [https://www.spiegel.de/panorama/mamming-in-bayern-gast-zahlt-16-bier-mit-karte-das-sagt-der-wirt](https://www.spiegel.de/panorama/mamming-in-bayern-gast-zahlt-16-bier-mit-karte-das-sagt-der-wirt-a-210b47d1-6e7b-4eab-b432-ed735b94c462#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-will-milliarden-euro-bei-digitalisierung-sparen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-will-milliarden-euro-bei-digitalisierung-sparen-a-5530a649-e543-47a1-9335-1c2fce0b924d#ref=rss)
+* [https://www.spiegel.de/politik/geheimes-strategiepapier-enthuellt-wie-russische-agenten-den-informationskrieg-gewinnen-wollen](https://www.spiegel.de/politik/geheimes-strategiepapier-enthuellt-wie-russische-agenten-den-informationskrieg-gewinnen-wollen-a-5c0203d4-b10e-45a8-86f7-a26ce9a817c3#ref=rss)
+### wolfsgruß
 
-* [https://www.spiegel.de/sport/tour-de-france-mark-cavendish-knackt-tour-rekord-von-eddy-merckx](https://www.spiegel.de/sport/tour-de-france-mark-cavendish-knackt-tour-rekord-von-eddy-merckx-a-fef4dd5b-9ef5-4ff5-9a3f-ed814eb29a1d#ref=rss)
-### tourrekord
+* [https://www.spiegel.de/sport/em-2024-kontroverse-um-wolfsgruss-bei-tuerkei-sieg-eklat-im-achtelfinale](https://www.spiegel.de/sport/em-2024-kontroverse-um-wolfsgruss-bei-tuerkei-sieg-eklat-im-achtelfinale-a-02ba36c0-7871-418f-b091-a1e93c80f537#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-vogelgrippevirus-h5n1-bei-kuehen-strafzoelle-auf-elektroautos-streit-um-wolfsgruss](https://www.spiegel.de/politik/deutschland/news-des-tages-vogelgrippevirus-h5n1-bei-kuehen-strafzoelle-auf-elektroautos-streit-um-wolfsgruss-a-a632342a-408a-480c-9f2e-2e58ec6a7915#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/sport/tour-de-france-mark-cavendish-knackt-tour-rekord-von-eddy-merckx](https://www.spiegel.de/sport/tour-de-france-mark-cavendish-knackt-tour-rekord-von-eddy-merckx-a-fef4dd5b-9ef5-4ff5-9a3f-ed814eb29a1d#ref=rss)
-### eddy
+* [https://www.spiegel.de/ausland/karibik-hurrikan-beryl-wuetet-mit-windgeschwindigkeiten-von-215-km-h-jamaika-schwer-getroffen](https://www.spiegel.de/ausland/karibik-hurrikan-beryl-wuetet-mit-windgeschwindigkeiten-von-215-km-h-jamaika-schwer-getroffen-a-3c1a6de2-9480-4a4b-adf9-1e765b2044e3#ref=rss)
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-betrachtet-taliban-als-verbuendete-im-kampf-gegen-terrorismus](https://www.spiegel.de/ausland/russland-wladimir-putin-betrachtet-taliban-als-verbuendete-im-kampf-gegen-terrorismus-a-68a6cd0b-4bb6-4148-8877-c2dac4342fda#ref=rss)
+* [https://www.spiegel.de/panorama/leute/schauspielerin-lara-flynn-boyle-ueber-altersdiskriminierung-in-hollywood-es-ist-unsere-verantwortung](https://www.spiegel.de/panorama/leute/schauspielerin-lara-flynn-boyle-ueber-altersdiskriminierung-in-hollywood-es-ist-unsere-verantwortung-a-e1fe4407-fc15-4fee-934d-ddc6b2d00938#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/sport/tour-de-france-mark-cavendish-knackt-tour-rekord-von-eddy-merckx](https://www.spiegel.de/sport/tour-de-france-mark-cavendish-knackt-tour-rekord-von-eddy-merckx-a-fef4dd5b-9ef5-4ff5-9a3f-ed814eb29a1d#ref=rss)
-### merckx
+* [https://www.spiegel.de/ausland/israel-regierung-genehmigt-ausbau-weiterer-siedlungen-im-westjordanland](https://www.spiegel.de/ausland/israel-regierung-genehmigt-ausbau-weiterer-siedlungen-im-westjordanland-a-e97e1316-a34b-4931-a127-63c681bed749#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wirtschaftskrise-trumpf-chefin-leibinger-kammueller-warnt-vor-beaengstigender-weltlage](https://www.spiegel.de/wirtschaft/wirtschaftskrise-trumpf-chefin-leibinger-kammueller-warnt-vor-beaengstigender-weltlage-a-93411f90-d8bd-42a7-be3b-1a5204dd9fd1#ref=rss)
+### spiegel
 
-* [https://www.spiegel.de/sport/tour-de-france-mark-cavendish-knackt-tour-rekord-von-eddy-merckx](https://www.spiegel.de/sport/tour-de-france-mark-cavendish-knackt-tour-rekord-von-eddy-merckx-a-fef4dd5b-9ef5-4ff5-9a3f-ed814eb29a1d#ref=rss)
-### vergangenen
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-will-milliarden-euro-bei-digitalisierung-sparen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-will-milliarden-euro-bei-digitalisierung-sparen-a-5530a649-e543-47a1-9335-1c2fce0b924d#ref=rss)
+* [https://www.spiegel.de/reise/reise-newsletter-vom-spiegel-hier-geht-es-zur-anmeldung](https://www.spiegel.de/reise/reise-newsletter-vom-spiegel-hier-geht-es-zur-anmeldung-a-1644ec72-9277-442d-a061-949409b57ec6#ref=rss)
+### wladimir
 
-* [https://www.spiegel.de/sport/tour-de-france-mark-cavendish-knackt-tour-rekord-von-eddy-merckx](https://www.spiegel.de/sport/tour-de-france-mark-cavendish-knackt-tour-rekord-von-eddy-merckx-a-fef4dd5b-9ef5-4ff5-9a3f-ed814eb29a1d#ref=rss)
-* [https://www.spiegel.de/panorama/deutscher-wetterdienst-meldet-naesse-rekord-seit-messbeginn](https://www.spiegel.de/panorama/deutscher-wetterdienst-meldet-naesse-rekord-seit-messbeginn-a-dd073c06-e2be-444c-8436-ae51efa477b8#ref=rss)
-### schwer
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-betrachtet-taliban-als-verbuendete-im-kampf-gegen-terrorismus](https://www.spiegel.de/ausland/russland-wladimir-putin-betrachtet-taliban-als-verbuendete-im-kampf-gegen-terrorismus-a-68a6cd0b-4bb6-4148-8877-c2dac4342fda#ref=rss)
+* [https://www.spiegel.de/panorama/taylor-swift-und-wladimir-putin-waren-schon-da-australischer-wildpark-erlaesst-koala-kuschelverbot](https://www.spiegel.de/panorama/taylor-swift-und-wladimir-putin-waren-schon-da-australischer-wildpark-erlaesst-koala-kuschelverbot-a-b1e7e903-91a3-4862-9cdd-e47d603ffcef#ref=rss)
+### 1
 
-* [https://www.spiegel.de/sport/tour-de-france-mark-cavendish-knackt-tour-rekord-von-eddy-merckx](https://www.spiegel.de/sport/tour-de-france-mark-cavendish-knackt-tour-rekord-von-eddy-merckx-a-fef4dd5b-9ef5-4ff5-9a3f-ed814eb29a1d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/industrie-deutsche-firmen-melden-fuenften-rueckgang-in-folge-bei-auftraegen](https://www.spiegel.de/wirtschaft/unternehmen/industrie-deutsche-firmen-melden-fuenften-rueckgang-in-folge-bei-auftraegen-a-ed89868a-8a18-4c04-b629-617c6a5c358b#ref=rss)
-### strafeneuropameister
+* [https://www.spiegel.de/kultur/tv/sport-1-zeigt-jetzt-polizei-dokus-und-keine-sexy-sport-clips-mehr](https://www.spiegel.de/kultur/tv/sport-1-zeigt-jetzt-polizei-dokus-und-keine-sexy-sport-clips-mehr-a-07bb042a-b905-4cef-ae50-be57083c7ced#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/oesterreich-bisher-offenbar-70-raser-autos-entzogen](https://www.spiegel.de/panorama/justiz/oesterreich-bisher-offenbar-70-raser-autos-entzogen-a-62bd582b-cb21-48bb-8c9c-f7beafe7a2f9#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/sport/fussball/em-2024-die-strafen-europameister-der-gruppenphase-wer-musste-am-meisten-zahlen](https://www.spiegel.de/sport/fussball/em-2024-die-strafen-europameister-der-gruppenphase-wer-musste-am-meisten-zahlen-a-d6590a3b-cc65-444d-897c-ede703e76c35#ref=rss)
-### gruppenphase
+* [https://www.spiegel.de/kultur/tv/sport-1-zeigt-jetzt-polizei-dokus-und-keine-sexy-sport-clips-mehr](https://www.spiegel.de/kultur/tv/sport-1-zeigt-jetzt-polizei-dokus-und-keine-sexy-sport-clips-mehr-a-07bb042a-b905-4cef-ae50-be57083c7ced#ref=rss)
+* [https://www.spiegel.de/kultur/musik/studie-zu-melodischer-komplexitaet-top-hits-werden-immer-simpler](https://www.spiegel.de/kultur/musik/studie-zu-melodischer-komplexitaet-top-hits-werden-immer-simpler-a-749fd093-529a-40c9-b691-32d35898efb6#ref=rss)
+### waren
 
-* [https://www.spiegel.de/sport/fussball/em-2024-die-strafen-europameister-der-gruppenphase-wer-musste-am-meisten-zahlen](https://www.spiegel.de/sport/fussball/em-2024-die-strafen-europameister-der-gruppenphase-wer-musste-am-meisten-zahlen-a-d6590a3b-cc65-444d-897c-ede703e76c35#ref=rss)
-### zahlen
+* [https://www.spiegel.de/kultur/tv/sport-1-zeigt-jetzt-polizei-dokus-und-keine-sexy-sport-clips-mehr](https://www.spiegel.de/kultur/tv/sport-1-zeigt-jetzt-polizei-dokus-und-keine-sexy-sport-clips-mehr-a-07bb042a-b905-4cef-ae50-be57083c7ced#ref=rss)
+* [https://www.spiegel.de/panorama/taylor-swift-und-wladimir-putin-waren-schon-da-australischer-wildpark-erlaesst-koala-kuschelverbot](https://www.spiegel.de/panorama/taylor-swift-und-wladimir-putin-waren-schon-da-australischer-wildpark-erlaesst-koala-kuschelverbot-a-b1e7e903-91a3-4862-9cdd-e47d603ffcef#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/oesterreich-bisher-offenbar-70-raser-autos-entzogen](https://www.spiegel.de/panorama/justiz/oesterreich-bisher-offenbar-70-raser-autos-entzogen-a-62bd582b-cb21-48bb-8c9c-f7beafe7a2f9#ref=rss)
+### taylor
 
-* [https://www.spiegel.de/sport/fussball/em-2024-die-strafen-europameister-der-gruppenphase-wer-musste-am-meisten-zahlen](https://www.spiegel.de/sport/fussball/em-2024-die-strafen-europameister-der-gruppenphase-wer-musste-am-meisten-zahlen-a-d6590a3b-cc65-444d-897c-ede703e76c35#ref=rss)
-### wohnungen
+* [https://www.spiegel.de/panorama/taylor-swift-und-wladimir-putin-waren-schon-da-australischer-wildpark-erlaesst-koala-kuschelverbot](https://www.spiegel.de/panorama/taylor-swift-und-wladimir-putin-waren-schon-da-australischer-wildpark-erlaesst-koala-kuschelverbot-a-b1e7e903-91a3-4862-9cdd-e47d603ffcef#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-wie-medienmagnat-vincent-bollore-die-strippen-fuer-frankreichs-rechtsradikale-zieht](https://www.spiegel.de/ausland/frankreich-wie-medienmagnat-vincent-bollore-die-strippen-fuer-frankreichs-rechtsradikale-zieht-a-1c1a52ac-444c-44be-8766-6e9cf46f77bc#ref=rss)
+### swift
 
-* [https://www.spiegel.de/wirtschaft/zensus-mehr-als-eine-million-wohnungen-standen-laenger-als-ein-jahr-leer](https://www.spiegel.de/wirtschaft/zensus-mehr-als-eine-million-wohnungen-standen-laenger-als-ein-jahr-leer-a-0044e3ab-caac-4b4c-b9f4-8751771ad07f#ref=rss)
-### standen
+* [https://www.spiegel.de/panorama/taylor-swift-und-wladimir-putin-waren-schon-da-australischer-wildpark-erlaesst-koala-kuschelverbot](https://www.spiegel.de/panorama/taylor-swift-und-wladimir-putin-waren-schon-da-australischer-wildpark-erlaesst-koala-kuschelverbot-a-b1e7e903-91a3-4862-9cdd-e47d603ffcef#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-wie-medienmagnat-vincent-bollore-die-strippen-fuer-frankreichs-rechtsradikale-zieht](https://www.spiegel.de/ausland/frankreich-wie-medienmagnat-vincent-bollore-die-strippen-fuer-frankreichs-rechtsradikale-zieht-a-1c1a52ac-444c-44be-8766-6e9cf46f77bc#ref=rss)
+### wirtschaft
 
-* [https://www.spiegel.de/wirtschaft/zensus-mehr-als-eine-million-wohnungen-standen-laenger-als-ein-jahr-leer](https://www.spiegel.de/wirtschaft/zensus-mehr-als-eine-million-wohnungen-standen-laenger-als-ein-jahr-leer-a-0044e3ab-caac-4b4c-b9f4-8751771ad07f#ref=rss)
-### leer
+* [https://www.spiegel.de/karriere/schweden-als-vorbild-wie-die-betreuung-durch-grosseltern-die-wirtschaft-unterstuetzen-kann](https://www.spiegel.de/karriere/schweden-als-vorbild-wie-die-betreuung-durch-grosseltern-die-wirtschaft-unterstuetzen-kann-a-f99a96cf-2f5d-4dc6-9862-1a2619406bc6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wirtschaftskrise-trumpf-chefin-leibinger-kammueller-warnt-vor-beaengstigender-weltlage](https://www.spiegel.de/wirtschaft/wirtschaftskrise-trumpf-chefin-leibinger-kammueller-warnt-vor-beaengstigender-weltlage-a-93411f90-d8bd-42a7-be3b-1a5204dd9fd1#ref=rss)
+### arbeiten
 
-* [https://www.spiegel.de/wirtschaft/zensus-mehr-als-eine-million-wohnungen-standen-laenger-als-ein-jahr-leer](https://www.spiegel.de/wirtschaft/zensus-mehr-als-eine-million-wohnungen-standen-laenger-als-ein-jahr-leer-a-0044e3ab-caac-4b4c-b9f4-8751771ad07f#ref=rss)
-### erstmals
+* [https://www.spiegel.de/karriere/schweden-als-vorbild-wie-die-betreuung-durch-grosseltern-die-wirtschaft-unterstuetzen-kann](https://www.spiegel.de/karriere/schweden-als-vorbild-wie-die-betreuung-durch-grosseltern-die-wirtschaft-unterstuetzen-kann-a-f99a96cf-2f5d-4dc6-9862-1a2619406bc6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/verteidigung-bundeswehr-kauft-satelliten-bei-airbus-fuer-2-1-milliarden-euro](https://www.spiegel.de/politik/deutschland/verteidigung-bundeswehr-kauft-satelliten-bei-airbus-fuer-2-1-milliarden-euro-a-c72b0350-a36a-421e-bf42-01449539e4eb#ref=rss)
+### gehen
 
-* [https://www.spiegel.de/wirtschaft/zensus-mehr-als-eine-million-wohnungen-standen-laenger-als-ein-jahr-leer](https://www.spiegel.de/wirtschaft/zensus-mehr-als-eine-million-wohnungen-standen-laenger-als-ein-jahr-leer-a-0044e3ab-caac-4b4c-b9f4-8751771ad07f#ref=rss)
-* [https://www.spiegel.de/ausland/kanada-erstmals-fuehrt-eine-frau-die-streitkraefte](https://www.spiegel.de/ausland/kanada-erstmals-fuehrt-eine-frau-die-streitkraefte-a-36c73ad3-12e8-4223-a4ce-fc7e6ab52bcf#ref=rss)
-### gründe
+* [https://www.spiegel.de/karriere/schweden-als-vorbild-wie-die-betreuung-durch-grosseltern-die-wirtschaft-unterstuetzen-kann](https://www.spiegel.de/karriere/schweden-als-vorbild-wie-die-betreuung-durch-grosseltern-die-wirtschaft-unterstuetzen-kann-a-f99a96cf-2f5d-4dc6-9862-1a2619406bc6#ref=rss)
+* [https://www.spiegel.de/sport/em-2024-kontroverse-um-wolfsgruss-bei-tuerkei-sieg-eklat-im-achtelfinale](https://www.spiegel.de/sport/em-2024-kontroverse-um-wolfsgruss-bei-tuerkei-sieg-eklat-im-achtelfinale-a-02ba36c0-7871-418f-b091-a1e93c80f537#ref=rss)
+### bundeswehr
 
-* [https://www.spiegel.de/wirtschaft/zensus-mehr-als-eine-million-wohnungen-standen-laenger-als-ein-jahr-leer](https://www.spiegel.de/wirtschaft/zensus-mehr-als-eine-million-wohnungen-standen-laenger-als-ein-jahr-leer-a-0044e3ab-caac-4b4c-b9f4-8751771ad07f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/fussball-em-2024-deutsche-bahn-begruendet-pannen-und-verspaetungen](https://www.spiegel.de/wirtschaft/service/fussball-em-2024-deutsche-bahn-begruendet-pannen-und-verspaetungen-a-81014c2a-9dcf-420a-b5d4-dedbec799d0e#ref=rss)
-### großbritannien
+* [https://www.spiegel.de/politik/deutschland/verteidigung-bundeswehr-kauft-satelliten-bei-airbus-fuer-2-1-milliarden-euro](https://www.spiegel.de/politik/deutschland/verteidigung-bundeswehr-kauft-satelliten-bei-airbus-fuer-2-1-milliarden-euro-a-c72b0350-a36a-421e-bf42-01449539e4eb#ref=rss)
+### satelliten
 
-* [https://www.spiegel.de/ausland/grossbritannien-warum-die-briten-immer-an-einem-donnerstag-waehlen](https://www.spiegel.de/ausland/grossbritannien-warum-die-briten-immer-an-einem-donnerstag-waehlen-a-a99f1446-67cd-491c-8b19-0280bd25497e#ref=rss)
-### briten
+* [https://www.spiegel.de/politik/deutschland/verteidigung-bundeswehr-kauft-satelliten-bei-airbus-fuer-2-1-milliarden-euro](https://www.spiegel.de/politik/deutschland/verteidigung-bundeswehr-kauft-satelliten-bei-airbus-fuer-2-1-milliarden-euro-a-c72b0350-a36a-421e-bf42-01449539e4eb#ref=rss)
+### airbus
 
-* [https://www.spiegel.de/ausland/grossbritannien-warum-die-briten-immer-an-einem-donnerstag-waehlen](https://www.spiegel.de/ausland/grossbritannien-warum-die-briten-immer-an-einem-donnerstag-waehlen-a-a99f1446-67cd-491c-8b19-0280bd25497e#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-wahl-2024-es-droht-das-ende-der-tories-wie-wir-sie-kennen](https://www.spiegel.de/ausland/grossbritannien-wahl-2024-es-droht-das-ende-der-tories-wie-wir-sie-kennen-a-66b6cda7-8b0e-4d57-830b-8f4699978a4e#ref=rss)
-### donnerstag
+* [https://www.spiegel.de/politik/deutschland/verteidigung-bundeswehr-kauft-satelliten-bei-airbus-fuer-2-1-milliarden-euro](https://www.spiegel.de/politik/deutschland/verteidigung-bundeswehr-kauft-satelliten-bei-airbus-fuer-2-1-milliarden-euro-a-c72b0350-a36a-421e-bf42-01449539e4eb#ref=rss)
+### zahlt
 
-* [https://www.spiegel.de/ausland/grossbritannien-warum-die-briten-immer-an-einem-donnerstag-waehlen](https://www.spiegel.de/ausland/grossbritannien-warum-die-briten-immer-an-einem-donnerstag-waehlen-a-a99f1446-67cd-491c-8b19-0280bd25497e#ref=rss)
-### wählen
+* [https://www.spiegel.de/politik/deutschland/verteidigung-bundeswehr-kauft-satelliten-bei-airbus-fuer-2-1-milliarden-euro](https://www.spiegel.de/politik/deutschland/verteidigung-bundeswehr-kauft-satelliten-bei-airbus-fuer-2-1-milliarden-euro-a-c72b0350-a36a-421e-bf42-01449539e4eb#ref=rss)
+* [https://www.spiegel.de/panorama/mamming-in-bayern-gast-zahlt-16-bier-mit-karte-das-sagt-der-wirt](https://www.spiegel.de/panorama/mamming-in-bayern-gast-zahlt-16-bier-mit-karte-das-sagt-der-wirt-a-210b47d1-6e7b-4eab-b432-ed735b94c462#ref=rss)
+### neue
 
-* [https://www.spiegel.de/ausland/grossbritannien-warum-die-briten-immer-an-einem-donnerstag-waehlen](https://www.spiegel.de/ausland/grossbritannien-warum-die-briten-immer-an-einem-donnerstag-waehlen-a-a99f1446-67cd-491c-8b19-0280bd25497e#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-wahl-2024-es-droht-das-ende-der-tories-wie-wir-sie-kennen](https://www.spiegel.de/ausland/grossbritannien-wahl-2024-es-droht-das-ende-der-tories-wie-wir-sie-kennen-a-66b6cda7-8b0e-4d57-830b-8f4699978a4e#ref=rss)
-### droht
+* [https://www.spiegel.de/politik/deutschland/verteidigung-bundeswehr-kauft-satelliten-bei-airbus-fuer-2-1-milliarden-euro](https://www.spiegel.de/politik/deutschland/verteidigung-bundeswehr-kauft-satelliten-bei-airbus-fuer-2-1-milliarden-euro-a-c72b0350-a36a-421e-bf42-01449539e4eb#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/wegovy-wirkstoff-semaglutid-aus-abnehmspritze-koennte-mit-schwerer-augenkrankheit-naion-zusammenhaengen](https://www.spiegel.de/wissenschaft/medizin/wegovy-wirkstoff-semaglutid-aus-abnehmspritze-koennte-mit-schwerer-augenkrankheit-naion-zusammenhaengen-a-c16f1edd-904f-4b35-9d5f-9ab508726db7#ref=rss)
+### christian
 
-* [https://www.spiegel.de/ausland/grossbritannien-warum-die-briten-immer-an-einem-donnerstag-waehlen](https://www.spiegel.de/ausland/grossbritannien-warum-die-briten-immer-an-einem-donnerstag-waehlen-a-a99f1446-67cd-491c-8b19-0280bd25497e#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-wahl-2024-es-droht-das-ende-der-tories-wie-wir-sie-kennen](https://www.spiegel.de/ausland/grossbritannien-wahl-2024-es-droht-das-ende-der-tories-wie-wir-sie-kennen-a-66b6cda7-8b0e-4d57-830b-8f4699978a4e#ref=rss)
-### mehrere
+* [https://www.spiegel.de/politik/deutschland/deutschlandticket-wie-christian-lindner-seinen-verkehrsminister-volker-wissing-haengen-liess](https://www.spiegel.de/politik/deutschland/deutschlandticket-wie-christian-lindner-seinen-verkehrsminister-volker-wissing-haengen-liess-a-da419041-3122-4c04-bf79-0f749fbcfea0#ref=rss)
+### lindner
 
-* [https://www.spiegel.de/ausland/grossbritannien-warum-die-briten-immer-an-einem-donnerstag-waehlen](https://www.spiegel.de/ausland/grossbritannien-warum-die-briten-immer-an-einem-donnerstag-waehlen-a-a99f1446-67cd-491c-8b19-0280bd25497e#ref=rss)
-* [https://www.spiegel.de/ausland/kanada-erstmals-fuehrt-eine-frau-die-streitkraefte](https://www.spiegel.de/ausland/kanada-erstmals-fuehrt-eine-frau-die-streitkraefte-a-36c73ad3-12e8-4223-a4ce-fc7e6ab52bcf#ref=rss)
-### regierungssprecherin
+* [https://www.spiegel.de/politik/deutschland/deutschlandticket-wie-christian-lindner-seinen-verkehrsminister-volker-wissing-haengen-liess](https://www.spiegel.de/politik/deutschland/deutschlandticket-wie-christian-lindner-seinen-verkehrsminister-volker-wissing-haengen-liess-a-da419041-3122-4c04-bf79-0f749fbcfea0#ref=rss)
+### volker
 
-* [https://www.spiegel.de/ausland/frankreich-wahlkampfteam-um-regierungssprecherin-angegriffen](https://www.spiegel.de/ausland/frankreich-wahlkampfteam-um-regierungssprecherin-angegriffen-a-91ffb285-35bb-4f17-b0a4-cf5b8863fea9#ref=rss)
-### angegriffen
+* [https://www.spiegel.de/politik/deutschland/deutschlandticket-wie-christian-lindner-seinen-verkehrsminister-volker-wissing-haengen-liess](https://www.spiegel.de/politik/deutschland/deutschlandticket-wie-christian-lindner-seinen-verkehrsminister-volker-wissing-haengen-liess-a-da419041-3122-4c04-bf79-0f749fbcfea0#ref=rss)
+### wissing
 
-* [https://www.spiegel.de/ausland/frankreich-wahlkampfteam-um-regierungssprecherin-angegriffen](https://www.spiegel.de/ausland/frankreich-wahlkampfteam-um-regierungssprecherin-angegriffen-a-91ffb285-35bb-4f17-b0a4-cf5b8863fea9#ref=rss)
-### sehr
+* [https://www.spiegel.de/politik/deutschland/deutschlandticket-wie-christian-lindner-seinen-verkehrsminister-volker-wissing-haengen-liess](https://www.spiegel.de/politik/deutschland/deutschlandticket-wie-christian-lindner-seinen-verkehrsminister-volker-wissing-haengen-liess-a-da419041-3122-4c04-bf79-0f749fbcfea0#ref=rss)
+### gast
 
-* [https://www.spiegel.de/ausland/frankreich-wahlkampfteam-um-regierungssprecherin-angegriffen](https://www.spiegel.de/ausland/frankreich-wahlkampfteam-um-regierungssprecherin-angegriffen-a-91ffb285-35bb-4f17-b0a4-cf5b8863fea9#ref=rss)
-### bremen
+* [https://www.spiegel.de/panorama/mamming-in-bayern-gast-zahlt-16-bier-mit-karte-das-sagt-der-wirt](https://www.spiegel.de/panorama/mamming-in-bayern-gast-zahlt-16-bier-mit-karte-das-sagt-der-wirt-a-210b47d1-6e7b-4eab-b432-ed735b94c462#ref=rss)
+### karte
 
-* [https://www.spiegel.de/panorama/bildung/bremen-schueler-starb-bei-abschlussfahrt-behoerde-prueft-vorfall](https://www.spiegel.de/panorama/bildung/bremen-schueler-starb-bei-abschlussfahrt-behoerde-prueft-vorfall-a-45e86516-3c2e-42c2-900c-ec61c9127f52#ref=rss)
-### schüler
+* [https://www.spiegel.de/panorama/mamming-in-bayern-gast-zahlt-16-bier-mit-karte-das-sagt-der-wirt](https://www.spiegel.de/panorama/mamming-in-bayern-gast-zahlt-16-bier-mit-karte-das-sagt-der-wirt-a-210b47d1-6e7b-4eab-b432-ed735b94c462#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/panorama/bildung/bremen-schueler-starb-bei-abschlussfahrt-behoerde-prueft-vorfall](https://www.spiegel.de/panorama/bildung/bremen-schueler-starb-bei-abschlussfahrt-behoerde-prueft-vorfall-a-45e86516-3c2e-42c2-900c-ec61c9127f52#ref=rss)
-### starb
+* [https://www.spiegel.de/panorama/mamming-in-bayern-gast-zahlt-16-bier-mit-karte-das-sagt-der-wirt](https://www.spiegel.de/panorama/mamming-in-bayern-gast-zahlt-16-bier-mit-karte-das-sagt-der-wirt-a-210b47d1-6e7b-4eab-b432-ed735b94c462#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wirtschaftskrise-trumpf-chefin-leibinger-kammueller-warnt-vor-beaengstigender-weltlage](https://www.spiegel.de/wirtschaft/wirtschaftskrise-trumpf-chefin-leibinger-kammueller-warnt-vor-beaengstigender-weltlage-a-93411f90-d8bd-42a7-be3b-1a5204dd9fd1#ref=rss)
+### wirt
 
-* [https://www.spiegel.de/panorama/bildung/bremen-schueler-starb-bei-abschlussfahrt-behoerde-prueft-vorfall](https://www.spiegel.de/panorama/bildung/bremen-schueler-starb-bei-abschlussfahrt-behoerde-prueft-vorfall-a-45e86516-3c2e-42c2-900c-ec61c9127f52#ref=rss)
-### abschlussfahrt
+* [https://www.spiegel.de/panorama/mamming-in-bayern-gast-zahlt-16-bier-mit-karte-das-sagt-der-wirt](https://www.spiegel.de/panorama/mamming-in-bayern-gast-zahlt-16-bier-mit-karte-das-sagt-der-wirt-a-210b47d1-6e7b-4eab-b432-ed735b94c462#ref=rss)
+### 2024
 
-* [https://www.spiegel.de/panorama/bildung/bremen-schueler-starb-bei-abschlussfahrt-behoerde-prueft-vorfall](https://www.spiegel.de/panorama/bildung/bremen-schueler-starb-bei-abschlussfahrt-behoerde-prueft-vorfall-a-45e86516-3c2e-42c2-900c-ec61c9127f52#ref=rss)
-### vorfall
+* [https://www.spiegel.de/sport/em-2024-kontroverse-um-wolfsgruss-bei-tuerkei-sieg-eklat-im-achtelfinale](https://www.spiegel.de/sport/em-2024-kontroverse-um-wolfsgruss-bei-tuerkei-sieg-eklat-im-achtelfinale-a-02ba36c0-7871-418f-b091-a1e93c80f537#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-em-2024-spanier-haben-ihren-eigenen-schinken-mitgebracht](https://www.spiegel.de/sport/fussball/fussball-em-2024-spanier-haben-ihren-eigenen-schinken-mitgebracht-a-106d881e-b030-4b9b-b170-e6324ae1fed1#ref=rss)
+### fußballem
 
-* [https://www.spiegel.de/panorama/bildung/bremen-schueler-starb-bei-abschlussfahrt-behoerde-prueft-vorfall](https://www.spiegel.de/panorama/bildung/bremen-schueler-starb-bei-abschlussfahrt-behoerde-prueft-vorfall-a-45e86516-3c2e-42c2-900c-ec61c9127f52#ref=rss)
-### raketen
+* [https://www.spiegel.de/sport/em-2024-kontroverse-um-wolfsgruss-bei-tuerkei-sieg-eklat-im-achtelfinale](https://www.spiegel.de/sport/em-2024-kontroverse-um-wolfsgruss-bei-tuerkei-sieg-eklat-im-achtelfinale-a-02ba36c0-7871-418f-b091-a1e93c80f537#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-em-2024-spanier-haben-ihren-eigenen-schinken-mitgebracht](https://www.spiegel.de/sport/fussball/fussball-em-2024-spanier-haben-ihren-eigenen-schinken-mitgebracht-a-106d881e-b030-4b9b-b170-e6324ae1fed1#ref=rss)
+### karibik
 
-* [https://www.spiegel.de/ausland/nahostkonflikt-hisbollah-will-200-raketen-auf-israel-abgefeuert-haben](https://www.spiegel.de/ausland/nahostkonflikt-hisbollah-will-200-raketen-auf-israel-abgefeuert-haben-a-a7100cf3-d3e0-4f68-bd0c-b6cd2326d49b#ref=rss)
-### abgefeuert
+* [https://www.spiegel.de/ausland/karibik-hurrikan-beryl-wuetet-mit-windgeschwindigkeiten-von-215-km-h-jamaika-schwer-getroffen](https://www.spiegel.de/ausland/karibik-hurrikan-beryl-wuetet-mit-windgeschwindigkeiten-von-215-km-h-jamaika-schwer-getroffen-a-3c1a6de2-9480-4a4b-adf9-1e765b2044e3#ref=rss)
+### hurrikan
 
-* [https://www.spiegel.de/ausland/nahostkonflikt-hisbollah-will-200-raketen-auf-israel-abgefeuert-haben](https://www.spiegel.de/ausland/nahostkonflikt-hisbollah-will-200-raketen-auf-israel-abgefeuert-haben-a-a7100cf3-d3e0-4f68-bd0c-b6cd2326d49b#ref=rss)
+* [https://www.spiegel.de/ausland/karibik-hurrikan-beryl-wuetet-mit-windgeschwindigkeiten-von-215-km-h-jamaika-schwer-getroffen](https://www.spiegel.de/ausland/karibik-hurrikan-beryl-wuetet-mit-windgeschwindigkeiten-von-215-km-h-jamaika-schwer-getroffen-a-3c1a6de2-9480-4a4b-adf9-1e765b2044e3#ref=rss)
+### beryl
+
+* [https://www.spiegel.de/ausland/karibik-hurrikan-beryl-wuetet-mit-windgeschwindigkeiten-von-215-km-h-jamaika-schwer-getroffen](https://www.spiegel.de/ausland/karibik-hurrikan-beryl-wuetet-mit-windgeschwindigkeiten-von-215-km-h-jamaika-schwer-getroffen-a-3c1a6de2-9480-4a4b-adf9-1e765b2044e3#ref=rss)
+### windgeschwindigkeiten
+
+* [https://www.spiegel.de/ausland/karibik-hurrikan-beryl-wuetet-mit-windgeschwindigkeiten-von-215-km-h-jamaika-schwer-getroffen](https://www.spiegel.de/ausland/karibik-hurrikan-beryl-wuetet-mit-windgeschwindigkeiten-von-215-km-h-jamaika-schwer-getroffen-a-3c1a6de2-9480-4a4b-adf9-1e765b2044e3#ref=rss)
+### 215
+
+* [https://www.spiegel.de/ausland/karibik-hurrikan-beryl-wuetet-mit-windgeschwindigkeiten-von-215-km-h-jamaika-schwer-getroffen](https://www.spiegel.de/ausland/karibik-hurrikan-beryl-wuetet-mit-windgeschwindigkeiten-von-215-km-h-jamaika-schwer-getroffen-a-3c1a6de2-9480-4a4b-adf9-1e765b2044e3#ref=rss)
+### km/h
+
+* [https://www.spiegel.de/ausland/karibik-hurrikan-beryl-wuetet-mit-windgeschwindigkeiten-von-215-km-h-jamaika-schwer-getroffen](https://www.spiegel.de/ausland/karibik-hurrikan-beryl-wuetet-mit-windgeschwindigkeiten-von-215-km-h-jamaika-schwer-getroffen-a-3c1a6de2-9480-4a4b-adf9-1e765b2044e3#ref=rss)
+### jamaika
+
+* [https://www.spiegel.de/ausland/karibik-hurrikan-beryl-wuetet-mit-windgeschwindigkeiten-von-215-km-h-jamaika-schwer-getroffen](https://www.spiegel.de/ausland/karibik-hurrikan-beryl-wuetet-mit-windgeschwindigkeiten-von-215-km-h-jamaika-schwer-getroffen-a-3c1a6de2-9480-4a4b-adf9-1e765b2044e3#ref=rss)
+### bisher
+
+* [https://www.spiegel.de/ausland/karibik-hurrikan-beryl-wuetet-mit-windgeschwindigkeiten-von-215-km-h-jamaika-schwer-getroffen](https://www.spiegel.de/ausland/karibik-hurrikan-beryl-wuetet-mit-windgeschwindigkeiten-von-215-km-h-jamaika-schwer-getroffen-a-3c1a6de2-9480-4a4b-adf9-1e765b2044e3#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/oesterreich-bisher-offenbar-70-raser-autos-entzogen](https://www.spiegel.de/panorama/justiz/oesterreich-bisher-offenbar-70-raser-autos-entzogen-a-62bd582b-cb21-48bb-8c9c-f7beafe7a2f9#ref=rss)
+### westjordanland
+
+* [https://www.spiegel.de/ausland/israel-regierung-genehmigt-ausbau-weiterer-siedlungen-im-westjordanland](https://www.spiegel.de/ausland/israel-regierung-genehmigt-ausbau-weiterer-siedlungen-im-westjordanland-a-e97e1316-a34b-4931-a127-63c681bed749#ref=rss)
+### verraten
+
+* [https://www.spiegel.de/wissenschaft/weltall/star-trek-warp-antrieb-wie-sich-ein-solches-raumschiff-verraten-wuerde](https://www.spiegel.de/wissenschaft/weltall/star-trek-warp-antrieb-wie-sich-ein-solches-raumschiff-verraten-wuerde-a-97195a2b-0de4-4f30-83ae-0196c628d06d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-em-2024-spanier-haben-ihren-eigenen-schinken-mitgebracht](https://www.spiegel.de/sport/fussball/fussball-em-2024-spanier-haben-ihren-eigenen-schinken-mitgebracht-a-106d881e-b030-4b9b-b170-e6324ae1fed1#ref=rss)
+### würde
+
+* [https://www.spiegel.de/wissenschaft/weltall/star-trek-warp-antrieb-wie-sich-ein-solches-raumschiff-verraten-wuerde](https://www.spiegel.de/wissenschaft/weltall/star-trek-warp-antrieb-wie-sich-ein-solches-raumschiff-verraten-wuerde-a-97195a2b-0de4-4f30-83ae-0196c628d06d#ref=rss)
+### macht
+
+* [https://www.spiegel.de/wissenschaft/weltall/star-trek-warp-antrieb-wie-sich-ein-solches-raumschiff-verraten-wuerde](https://www.spiegel.de/wissenschaft/weltall/star-trek-warp-antrieb-wie-sich-ein-solches-raumschiff-verraten-wuerde-a-97195a2b-0de4-4f30-83ae-0196c628d06d#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-historische-niederlage-der-tories-zeichnet-sich-ab-was-sagen-die-briten-dazu](https://www.spiegel.de/ausland/grossbritannien-historische-niederlage-der-tories-zeichnet-sich-ab-was-sagen-die-briten-dazu-a-b97bf4ad-ee6c-4427-bb37-39f617c42c4a#ref=rss)
+### zeigen
+
+* [https://www.spiegel.de/wissenschaft/weltall/star-trek-warp-antrieb-wie-sich-ein-solches-raumschiff-verraten-wuerde](https://www.spiegel.de/wissenschaft/weltall/star-trek-warp-antrieb-wie-sich-ein-solches-raumschiff-verraten-wuerde-a-97195a2b-0de4-4f30-83ae-0196c628d06d#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-historische-niederlage-der-tories-zeichnet-sich-ab-was-sagen-die-briten-dazu](https://www.spiegel.de/ausland/grossbritannien-historische-niederlage-der-tories-zeichnet-sich-ab-was-sagen-die-briten-dazu-a-b97bf4ad-ee6c-4427-bb37-39f617c42c4a#ref=rss)
+### bund
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-diesen-termin-peilen-bund-und-laender-fuer-2025-an](https://www.spiegel.de/politik/deutschland/bundestagswahl-diesen-termin-peilen-bund-und-laender-fuer-2025-an-a-a093c3a5-1929-43d3-9367-cf49ebd083d3#ref=rss)
+### länder
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-diesen-termin-peilen-bund-und-laender-fuer-2025-an](https://www.spiegel.de/politik/deutschland/bundestagswahl-diesen-termin-peilen-bund-und-laender-fuer-2025-an-a-a093c3a5-1929-43d3-9367-cf49ebd083d3#ref=rss)
+### spiegelinformationen
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-diesen-termin-peilen-bund-und-laender-fuer-2025-an](https://www.spiegel.de/politik/deutschland/bundestagswahl-diesen-termin-peilen-bund-und-laender-fuer-2025-an-a-a093c3a5-1929-43d3-9367-cf49ebd083d3#ref=rss)
+* [https://www.spiegel.de/politik/geheimes-strategiepapier-enthuellt-wie-russische-agenten-den-informationskrieg-gewinnen-wollen](https://www.spiegel.de/politik/geheimes-strategiepapier-enthuellt-wie-russische-agenten-den-informationskrieg-gewinnen-wollen-a-5c0203d4-b10e-45a8-86f7-a26ce9a817c3#ref=rss)
+### bald
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-diesen-termin-peilen-bund-und-laender-fuer-2025-an](https://www.spiegel.de/politik/deutschland/bundestagswahl-diesen-termin-peilen-bund-und-laender-fuer-2025-an-a-a093c3a5-1929-43d3-9367-cf49ebd083d3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/fritzi-koehler-geib-kfw-chefvolkswirtin-soll-in-bundesbank-vorstand](https://www.spiegel.de/wirtschaft/unternehmen/fritzi-koehler-geib-kfw-chefvolkswirtin-soll-in-bundesbank-vorstand-a-2122ce49-6623-44ef-98e0-5a4c8dc1e1f6#ref=rss)
 ### bahn
 
-* [https://www.spiegel.de/wirtschaft/service/fussball-em-2024-deutsche-bahn-begruendet-pannen-und-verspaetungen](https://www.spiegel.de/wirtschaft/service/fussball-em-2024-deutsche-bahn-begruendet-pannen-und-verspaetungen-a-81014c2a-9dcf-420a-b5d4-dedbec799d0e#ref=rss)
-### pannen
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-will-milliarden-euro-bei-digitalisierung-sparen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-will-milliarden-euro-bei-digitalisierung-sparen-a-5530a649-e543-47a1-9335-1c2fce0b924d#ref=rss)
+### sparen
 
-* [https://www.spiegel.de/wirtschaft/service/fussball-em-2024-deutsche-bahn-begruendet-pannen-und-verspaetungen](https://www.spiegel.de/wirtschaft/service/fussball-em-2024-deutsche-bahn-begruendet-pannen-und-verspaetungen-a-81014c2a-9dcf-420a-b5d4-dedbec799d0e#ref=rss)
-### verspätungen
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-will-milliarden-euro-bei-digitalisierung-sparen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-will-milliarden-euro-bei-digitalisierung-sparen-a-5530a649-e543-47a1-9335-1c2fce0b924d#ref=rss)
+### laut
 
-* [https://www.spiegel.de/wirtschaft/service/fussball-em-2024-deutsche-bahn-begruendet-pannen-und-verspaetungen](https://www.spiegel.de/wirtschaft/service/fussball-em-2024-deutsche-bahn-begruendet-pannen-und-verspaetungen-a-81014c2a-9dcf-420a-b5d4-dedbec799d0e#ref=rss)
-### teils
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-will-milliarden-euro-bei-digitalisierung-sparen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-will-milliarden-euro-bei-digitalisierung-sparen-a-5530a649-e543-47a1-9335-1c2fce0b924d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/oesterreich-bisher-offenbar-70-raser-autos-entzogen](https://www.spiegel.de/panorama/justiz/oesterreich-bisher-offenbar-70-raser-autos-entzogen-a-62bd582b-cb21-48bb-8c9c-f7beafe7a2f9#ref=rss)
+### vogelgrippevirus
 
-* [https://www.spiegel.de/wirtschaft/service/fussball-em-2024-deutsche-bahn-begruendet-pannen-und-verspaetungen](https://www.spiegel.de/wirtschaft/service/fussball-em-2024-deutsche-bahn-begruendet-pannen-und-verspaetungen-a-81014c2a-9dcf-420a-b5d4-dedbec799d0e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/altersarmut-zahl-der-senioren-mit-grundsicherung-erneut-gestiegen-rund-720-000-betroffene](https://www.spiegel.de/wirtschaft/soziales/altersarmut-zahl-der-senioren-mit-grundsicherung-erneut-gestiegen-rund-720-000-betroffene-a-2e757b91-0350-4ad4-848a-6141605cd808#ref=rss)
-### rund
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-vogelgrippevirus-h5n1-bei-kuehen-strafzoelle-auf-elektroautos-streit-um-wolfsgruss](https://www.spiegel.de/politik/deutschland/news-des-tages-vogelgrippevirus-h5n1-bei-kuehen-strafzoelle-auf-elektroautos-streit-um-wolfsgruss-a-a632342a-408a-480c-9f2e-2e58ec6a7915#ref=rss)
+### h5n1
 
-* [https://www.spiegel.de/wirtschaft/service/fussball-em-2024-deutsche-bahn-begruendet-pannen-und-verspaetungen](https://www.spiegel.de/wirtschaft/service/fussball-em-2024-deutsche-bahn-begruendet-pannen-und-verspaetungen-a-81014c2a-9dcf-420a-b5d4-dedbec799d0e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/altersarmut-zahl-der-senioren-mit-grundsicherung-erneut-gestiegen-rund-720-000-betroffene](https://www.spiegel.de/wirtschaft/soziales/altersarmut-zahl-der-senioren-mit-grundsicherung-erneut-gestiegen-rund-720-000-betroffene-a-2e757b91-0350-4ad4-848a-6141605cd808#ref=rss)
-### umfragen
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-vogelgrippevirus-h5n1-bei-kuehen-strafzoelle-auf-elektroautos-streit-um-wolfsgruss](https://www.spiegel.de/politik/deutschland/news-des-tages-vogelgrippevirus-h5n1-bei-kuehen-strafzoelle-auf-elektroautos-streit-um-wolfsgruss-a-a632342a-408a-480c-9f2e-2e58ec6a7915#ref=rss)
+### kühen
 
-* [https://www.spiegel.de/ausland/wie-joe-biden-den-aufstand-stoppen-will-krisentreffen-im-weissen-haus](https://www.spiegel.de/ausland/wie-joe-biden-den-aufstand-stoppen-will-krisentreffen-im-weissen-haus-a-0f17f1a5-d231-4163-af68-dd17a5adfd20#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-wahl-2024-es-droht-das-ende-der-tories-wie-wir-sie-kennen](https://www.spiegel.de/ausland/grossbritannien-wahl-2024-es-droht-das-ende-der-tories-wie-wir-sie-kennen-a-66b6cda7-8b0e-4d57-830b-8f4699978a4e#ref=rss)
-### christina
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-vogelgrippevirus-h5n1-bei-kuehen-strafzoelle-auf-elektroautos-streit-um-wolfsgruss](https://www.spiegel.de/politik/deutschland/news-des-tages-vogelgrippevirus-h5n1-bei-kuehen-strafzoelle-auf-elektroautos-streit-um-wolfsgruss-a-a632342a-408a-480c-9f2e-2e58ec6a7915#ref=rss)
+### strafzölle
 
-* [https://www.spiegel.de/panorama/leute/christina-applegate-moechte-noch-einmal-schnaps-mit-cher-trinken](https://www.spiegel.de/panorama/leute/christina-applegate-moechte-noch-einmal-schnaps-mit-cher-trinken-a-6b5b97ab-8b83-4471-9983-4d9ec872424a#ref=rss)
-### applegate
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-vogelgrippevirus-h5n1-bei-kuehen-strafzoelle-auf-elektroautos-streit-um-wolfsgruss](https://www.spiegel.de/politik/deutschland/news-des-tages-vogelgrippevirus-h5n1-bei-kuehen-strafzoelle-auf-elektroautos-streit-um-wolfsgruss-a-a632342a-408a-480c-9f2e-2e58ec6a7915#ref=rss)
+### lage
 
-* [https://www.spiegel.de/panorama/leute/christina-applegate-moechte-noch-einmal-schnaps-mit-cher-trinken](https://www.spiegel.de/panorama/leute/christina-applegate-moechte-noch-einmal-schnaps-mit-cher-trinken-a-6b5b97ab-8b83-4471-9983-4d9ec872424a#ref=rss)
-### amt
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-vogelgrippevirus-h5n1-bei-kuehen-strafzoelle-auf-elektroautos-streit-um-wolfsgruss](https://www.spiegel.de/politik/deutschland/news-des-tages-vogelgrippevirus-h5n1-bei-kuehen-strafzoelle-auf-elektroautos-streit-um-wolfsgruss-a-a632342a-408a-480c-9f2e-2e58ec6a7915#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wirtschaftskrise-trumpf-chefin-leibinger-kammueller-warnt-vor-beaengstigender-weltlage](https://www.spiegel.de/wirtschaft/wirtschaftskrise-trumpf-chefin-leibinger-kammueller-warnt-vor-beaengstigender-weltlage-a-93411f90-d8bd-42a7-be3b-1a5204dd9fd1#ref=rss)
+### taliban
 
-* [https://www.spiegel.de/politik/deutschland/fall-demiral-auswaertiges-amt-bestellt-tuerkischen-botschafter-wegen-wolfsgruss-ein](https://www.spiegel.de/politik/deutschland/fall-demiral-auswaertiges-amt-bestellt-tuerkischen-botschafter-wegen-wolfsgruss-ein-a-6535914b-d181-425f-a571-7041babc2119#ref=rss)
-### türkischen
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-betrachtet-taliban-als-verbuendete-im-kampf-gegen-terrorismus](https://www.spiegel.de/ausland/russland-wladimir-putin-betrachtet-taliban-als-verbuendete-im-kampf-gegen-terrorismus-a-68a6cd0b-4bb6-4148-8877-c2dac4342fda#ref=rss)
+### märz
 
-* [https://www.spiegel.de/politik/deutschland/fall-demiral-auswaertiges-amt-bestellt-tuerkischen-botschafter-wegen-wolfsgruss-ein](https://www.spiegel.de/politik/deutschland/fall-demiral-auswaertiges-amt-bestellt-tuerkischen-botschafter-wegen-wolfsgruss-ein-a-6535914b-d181-425f-a571-7041babc2119#ref=rss)
-### botschafter
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-betrachtet-taliban-als-verbuendete-im-kampf-gegen-terrorismus](https://www.spiegel.de/ausland/russland-wladimir-putin-betrachtet-taliban-als-verbuendete-im-kampf-gegen-terrorismus-a-68a6cd0b-4bb6-4148-8877-c2dac4342fda#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/oesterreich-bisher-offenbar-70-raser-autos-entzogen](https://www.spiegel.de/panorama/justiz/oesterreich-bisher-offenbar-70-raser-autos-entzogen-a-62bd582b-cb21-48bb-8c9c-f7beafe7a2f9#ref=rss)
+### dutzende
 
-* [https://www.spiegel.de/politik/deutschland/fall-demiral-auswaertiges-amt-bestellt-tuerkischen-botschafter-wegen-wolfsgruss-ein](https://www.spiegel.de/politik/deutschland/fall-demiral-auswaertiges-amt-bestellt-tuerkischen-botschafter-wegen-wolfsgruss-ein-a-6535914b-d181-425f-a571-7041babc2119#ref=rss)
-### jahren
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-betrachtet-taliban-als-verbuendete-im-kampf-gegen-terrorismus](https://www.spiegel.de/ausland/russland-wladimir-putin-betrachtet-taliban-als-verbuendete-im-kampf-gegen-terrorismus-a-68a6cd0b-4bb6-4148-8877-c2dac4342fda#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/oesterreich-bisher-offenbar-70-raser-autos-entzogen](https://www.spiegel.de/panorama/justiz/oesterreich-bisher-offenbar-70-raser-autos-entzogen-a-62bd582b-cb21-48bb-8c9c-f7beafe7a2f9#ref=rss)
+### zeigt
 
-* [https://www.spiegel.de/wissenschaft/natur/suedafrika-termitenhuegel-sind-seit-34-000-jahren-bewohnt](https://www.spiegel.de/wissenschaft/natur/suedafrika-termitenhuegel-sind-seit-34-000-jahren-bewohnt-a-c4ec7efe-8883-4df9-9bef-1f378c1b6530#ref=rss)
-* [https://www.spiegel.de/panorama/leute/david-beckham-und-victoria-beckham-feiern-25-hochzeitstag-in-outfits-von-damals](https://www.spiegel.de/panorama/leute/david-beckham-und-victoria-beckham-feiern-25-hochzeitstag-in-outfits-von-damals-a-63e5b57d-8e5d-4988-bbd2-6a8235674582#ref=rss)
-### klima
+* [https://www.spiegel.de/kultur/tv/sport-1-zeigt-jetzt-polizei-dokus-und-keine-sexy-sport-clips-mehr](https://www.spiegel.de/kultur/tv/sport-1-zeigt-jetzt-polizei-dokus-und-keine-sexy-sport-clips-mehr-a-07bb042a-b905-4cef-ae50-be57083c7ced#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/denisova-mensch-knochenfund-in-tibet-zeigt-ernaehrung-waehrend-der-eiszeit](https://www.spiegel.de/wissenschaft/mensch/denisova-mensch-knochenfund-in-tibet-zeigt-ernaehrung-waehrend-der-eiszeit-a-4ed390f2-6588-4231-9cb7-7add50283bc6#ref=rss)
+### clips
 
-* [https://www.spiegel.de/wissenschaft/natur/suedafrika-termitenhuegel-sind-seit-34-000-jahren-bewohnt](https://www.spiegel.de/wissenschaft/natur/suedafrika-termitenhuegel-sind-seit-34-000-jahren-bewohnt-a-c4ec7efe-8883-4df9-9bef-1f378c1b6530#ref=rss)
-* [https://www.spiegel.de/ausland/kanada-erstmals-fuehrt-eine-frau-die-streitkraefte](https://www.spiegel.de/ausland/kanada-erstmals-fuehrt-eine-frau-die-streitkraefte-a-36c73ad3-12e8-4223-a4ce-fc7e6ab52bcf#ref=rss)
-### führt
+* [https://www.spiegel.de/kultur/tv/sport-1-zeigt-jetzt-polizei-dokus-und-keine-sexy-sport-clips-mehr](https://www.spiegel.de/kultur/tv/sport-1-zeigt-jetzt-polizei-dokus-und-keine-sexy-sport-clips-mehr-a-07bb042a-b905-4cef-ae50-be57083c7ced#ref=rss)
+### dylan
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/strafzoelle-eu-fuehrt-vorlaeufige-strafzoelle-auf-e-autos-aus-china-ein](https://www.spiegel.de/wirtschaft/unternehmen/strafzoelle-eu-fuehrt-vorlaeufige-strafzoelle-auf-e-autos-aus-china-ein-a-1fa4b0e9-4e82-4b6e-85ca-97e2601bf642#ref=rss)
-* [https://www.spiegel.de/ausland/kanada-erstmals-fuehrt-eine-frau-die-streitkraefte](https://www.spiegel.de/ausland/kanada-erstmals-fuehrt-eine-frau-die-streitkraefte-a-36c73ad3-12e8-4223-a4ce-fc7e6ab52bcf#ref=rss)
-### eautos
+* [https://www.spiegel.de/sport/fussball/tour-de-france-dylan-groenewegen-gewinnt-6-etappe-im-fotofinish](https://www.spiegel.de/sport/fussball/tour-de-france-dylan-groenewegen-gewinnt-6-etappe-im-fotofinish-a-4a454c5d-ed6a-4da7-a666-ac3987777536#ref=rss)
+### groenewegen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/strafzoelle-eu-fuehrt-vorlaeufige-strafzoelle-auf-e-autos-aus-china-ein](https://www.spiegel.de/wirtschaft/unternehmen/strafzoelle-eu-fuehrt-vorlaeufige-strafzoelle-auf-e-autos-aus-china-ein-a-1fa4b0e9-4e82-4b6e-85ca-97e2601bf642#ref=rss)
-### sieht
+* [https://www.spiegel.de/sport/fussball/tour-de-france-dylan-groenewegen-gewinnt-6-etappe-im-fotofinish](https://www.spiegel.de/sport/fussball/tour-de-france-dylan-groenewegen-gewinnt-6-etappe-im-fotofinish-a-4a454c5d-ed6a-4da7-a666-ac3987777536#ref=rss)
+### etappe
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/strafzoelle-eu-fuehrt-vorlaeufige-strafzoelle-auf-e-autos-aus-china-ein](https://www.spiegel.de/wirtschaft/unternehmen/strafzoelle-eu-fuehrt-vorlaeufige-strafzoelle-auf-e-autos-aus-china-ein-a-1fa4b0e9-4e82-4b6e-85ca-97e2601bf642#ref=rss)
-* [https://www.spiegel.de/panorama/deutscher-wetterdienst-meldet-naesse-rekord-seit-messbeginn](https://www.spiegel.de/panorama/deutscher-wetterdienst-meldet-naesse-rekord-seit-messbeginn-a-dd073c06-e2be-444c-8436-ae51efa477b8#ref=rss)
-### eddie
+* [https://www.spiegel.de/sport/fussball/tour-de-france-dylan-groenewegen-gewinnt-6-etappe-im-fotofinish](https://www.spiegel.de/sport/fussball/tour-de-france-dylan-groenewegen-gewinnt-6-etappe-im-fotofinish-a-4a454c5d-ed6a-4da7-a666-ac3987777536#ref=rss)
+### historische
 
-* [https://www.spiegel.de/panorama/leute/eddie-murphy-erwartet-ein-lustiges-enkelkind-von-sohn-eric-murphy-und-jasmine-lawrence](https://www.spiegel.de/panorama/leute/eddie-murphy-erwartet-ein-lustiges-enkelkind-von-sohn-eric-murphy-und-jasmine-lawrence-a-53b68eb3-0217-464a-970e-42d269b6ba98#ref=rss)
-### sohn
+* [https://www.spiegel.de/ausland/grossbritannien-historische-niederlage-der-tories-zeichnet-sich-ab-was-sagen-die-briten-dazu](https://www.spiegel.de/ausland/grossbritannien-historische-niederlage-der-tories-zeichnet-sich-ab-was-sagen-die-briten-dazu-a-b97bf4ad-ee6c-4427-bb37-39f617c42c4a#ref=rss)
+### niederlage
 
-* [https://www.spiegel.de/panorama/leute/eddie-murphy-erwartet-ein-lustiges-enkelkind-von-sohn-eric-murphy-und-jasmine-lawrence](https://www.spiegel.de/panorama/leute/eddie-murphy-erwartet-ein-lustiges-enkelkind-von-sohn-eric-murphy-und-jasmine-lawrence-a-53b68eb3-0217-464a-970e-42d269b6ba98#ref=rss)
-### lawrence
+* [https://www.spiegel.de/ausland/grossbritannien-historische-niederlage-der-tories-zeichnet-sich-ab-was-sagen-die-briten-dazu](https://www.spiegel.de/ausland/grossbritannien-historische-niederlage-der-tories-zeichnet-sich-ab-was-sagen-die-briten-dazu-a-b97bf4ad-ee6c-4427-bb37-39f617c42c4a#ref=rss)
+### tories
 
-* [https://www.spiegel.de/panorama/leute/eddie-murphy-erwartet-ein-lustiges-enkelkind-von-sohn-eric-murphy-und-jasmine-lawrence](https://www.spiegel.de/panorama/leute/eddie-murphy-erwartet-ein-lustiges-enkelkind-von-sohn-eric-murphy-und-jasmine-lawrence-a-53b68eb3-0217-464a-970e-42d269b6ba98#ref=rss)
-### paar
+* [https://www.spiegel.de/ausland/grossbritannien-historische-niederlage-der-tories-zeichnet-sich-ab-was-sagen-die-briten-dazu](https://www.spiegel.de/ausland/grossbritannien-historische-niederlage-der-tories-zeichnet-sich-ab-was-sagen-die-briten-dazu-a-b97bf4ad-ee6c-4427-bb37-39f617c42c4a#ref=rss)
+### sagen
 
-* [https://www.spiegel.de/panorama/leute/eddie-murphy-erwartet-ein-lustiges-enkelkind-von-sohn-eric-murphy-und-jasmine-lawrence](https://www.spiegel.de/panorama/leute/eddie-murphy-erwartet-ein-lustiges-enkelkind-von-sohn-eric-murphy-und-jasmine-lawrence-a-53b68eb3-0217-464a-970e-42d269b6ba98#ref=rss)
-* [https://www.spiegel.de/panorama/leute/david-beckham-und-victoria-beckham-feiern-25-hochzeitstag-in-outfits-von-damals](https://www.spiegel.de/panorama/leute/david-beckham-und-victoria-beckham-feiern-25-hochzeitstag-in-outfits-von-damals-a-63e5b57d-8e5d-4988-bbd2-6a8235674582#ref=rss)
-### rechnen
+* [https://www.spiegel.de/ausland/grossbritannien-historische-niederlage-der-tories-zeichnet-sich-ab-was-sagen-die-briten-dazu](https://www.spiegel.de/ausland/grossbritannien-historische-niederlage-der-tories-zeichnet-sich-ab-was-sagen-die-briten-dazu-a-b97bf4ad-ee6c-4427-bb37-39f617c42c4a#ref=rss)
+### briten
 
-* [https://www.spiegel.de/panorama/leute/eddie-murphy-erwartet-ein-lustiges-enkelkind-von-sohn-eric-murphy-und-jasmine-lawrence](https://www.spiegel.de/panorama/leute/eddie-murphy-erwartet-ein-lustiges-enkelkind-von-sohn-eric-murphy-und-jasmine-lawrence-a-53b68eb3-0217-464a-970e-42d269b6ba98#ref=rss)
-* [https://www.spiegel.de/wirtschaft/em-2024-kosten-fuer-fans-250-euro-pro-karte-200-euro-fuers-apartment-und-100-euro-fuer-bier](https://www.spiegel.de/wirtschaft/em-2024-kosten-fuer-fans-250-euro-pro-karte-200-euro-fuers-apartment-und-100-euro-fuer-bier-a-5cdc0873-f183-4df2-a70e-68e51d5e2671#ref=rss)
-### hamburger
+* [https://www.spiegel.de/ausland/grossbritannien-historische-niederlage-der-tories-zeichnet-sich-ab-was-sagen-die-briten-dazu](https://www.spiegel.de/ausland/grossbritannien-historische-niederlage-der-tories-zeichnet-sich-ab-was-sagen-die-briten-dazu-a-b97bf4ad-ee6c-4427-bb37-39f617c42c4a#ref=rss)
+### dazu
 
-* [https://www.spiegel.de/panorama/feuer-im-hamburger-elbtunnel](https://www.spiegel.de/panorama/feuer-im-hamburger-elbtunnel-a-b9f7ce45-cbce-413c-9871-cf554a4616d2#ref=rss)
-### elbtunnel
+* [https://www.spiegel.de/ausland/grossbritannien-historische-niederlage-der-tories-zeichnet-sich-ab-was-sagen-die-briten-dazu](https://www.spiegel.de/ausland/grossbritannien-historische-niederlage-der-tories-zeichnet-sich-ab-was-sagen-die-briten-dazu-a-b97bf4ad-ee6c-4427-bb37-39f617c42c4a#ref=rss)
+### studie
 
-* [https://www.spiegel.de/panorama/feuer-im-hamburger-elbtunnel](https://www.spiegel.de/panorama/feuer-im-hamburger-elbtunnel-a-b9f7ce45-cbce-413c-9871-cf554a4616d2#ref=rss)
-### bertelsmann
+* [https://www.spiegel.de/kultur/musik/studie-zu-melodischer-komplexitaet-top-hits-werden-immer-simpler](https://www.spiegel.de/kultur/musik/studie-zu-melodischer-komplexitaet-top-hits-werden-immer-simpler-a-749fd093-529a-40c9-b691-32d35898efb6#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/wegovy-wirkstoff-semaglutid-aus-abnehmspritze-koennte-mit-schwerer-augenkrankheit-naion-zusammenhaengen](https://www.spiegel.de/wissenschaft/medizin/wegovy-wirkstoff-semaglutid-aus-abnehmspritze-koennte-mit-schwerer-augenkrankheit-naion-zusammenhaengen-a-c16f1edd-904f-4b35-9d5f-9ab508726db7#ref=rss)
+### lara
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bertelsmann-thomas-coesfeld-enkel-von-reinhard-mohn-rueckt-in-vorstand-auf](https://www.spiegel.de/wirtschaft/unternehmen/bertelsmann-thomas-coesfeld-enkel-von-reinhard-mohn-rueckt-in-vorstand-auf-a-88d5cc05-a97f-4ef7-983e-58ee60a32027#ref=rss)
-### thomas
+* [https://www.spiegel.de/panorama/leute/schauspielerin-lara-flynn-boyle-ueber-altersdiskriminierung-in-hollywood-es-ist-unsere-verantwortung](https://www.spiegel.de/panorama/leute/schauspielerin-lara-flynn-boyle-ueber-altersdiskriminierung-in-hollywood-es-ist-unsere-verantwortung-a-e1fe4407-fc15-4fee-934d-ddc6b2d00938#ref=rss)
+### flynn
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bertelsmann-thomas-coesfeld-enkel-von-reinhard-mohn-rueckt-in-vorstand-auf](https://www.spiegel.de/wirtschaft/unternehmen/bertelsmann-thomas-coesfeld-enkel-von-reinhard-mohn-rueckt-in-vorstand-auf-a-88d5cc05-a97f-4ef7-983e-58ee60a32027#ref=rss)
-### coesfeld
+* [https://www.spiegel.de/panorama/leute/schauspielerin-lara-flynn-boyle-ueber-altersdiskriminierung-in-hollywood-es-ist-unsere-verantwortung](https://www.spiegel.de/panorama/leute/schauspielerin-lara-flynn-boyle-ueber-altersdiskriminierung-in-hollywood-es-ist-unsere-verantwortung-a-e1fe4407-fc15-4fee-934d-ddc6b2d00938#ref=rss)
+### boyle
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bertelsmann-thomas-coesfeld-enkel-von-reinhard-mohn-rueckt-in-vorstand-auf](https://www.spiegel.de/wirtschaft/unternehmen/bertelsmann-thomas-coesfeld-enkel-von-reinhard-mohn-rueckt-in-vorstand-auf-a-88d5cc05-a97f-4ef7-983e-58ee60a32027#ref=rss)
-### enkel
+* [https://www.spiegel.de/panorama/leute/schauspielerin-lara-flynn-boyle-ueber-altersdiskriminierung-in-hollywood-es-ist-unsere-verantwortung](https://www.spiegel.de/panorama/leute/schauspielerin-lara-flynn-boyle-ueber-altersdiskriminierung-in-hollywood-es-ist-unsere-verantwortung-a-e1fe4407-fc15-4fee-934d-ddc6b2d00938#ref=rss)
+### gern
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bertelsmann-thomas-coesfeld-enkel-von-reinhard-mohn-rueckt-in-vorstand-auf](https://www.spiegel.de/wirtschaft/unternehmen/bertelsmann-thomas-coesfeld-enkel-von-reinhard-mohn-rueckt-in-vorstand-auf-a-88d5cc05-a97f-4ef7-983e-58ee60a32027#ref=rss)
-### reinhard
+* [https://www.spiegel.de/panorama/leute/schauspielerin-lara-flynn-boyle-ueber-altersdiskriminierung-in-hollywood-es-ist-unsere-verantwortung](https://www.spiegel.de/panorama/leute/schauspielerin-lara-flynn-boyle-ueber-altersdiskriminierung-in-hollywood-es-ist-unsere-verantwortung-a-e1fe4407-fc15-4fee-934d-ddc6b2d00938#ref=rss)
+* [https://www.spiegel.de/reise/reise-newsletter-vom-spiegel-hier-geht-es-zur-anmeldung](https://www.spiegel.de/reise/reise-newsletter-vom-spiegel-hier-geht-es-zur-anmeldung-a-1644ec72-9277-442d-a061-949409b57ec6#ref=rss)
+### wirkstoff
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bertelsmann-thomas-coesfeld-enkel-von-reinhard-mohn-rueckt-in-vorstand-auf](https://www.spiegel.de/wirtschaft/unternehmen/bertelsmann-thomas-coesfeld-enkel-von-reinhard-mohn-rueckt-in-vorstand-auf-a-88d5cc05-a97f-4ef7-983e-58ee60a32027#ref=rss)
-### mohn
+* [https://www.spiegel.de/wissenschaft/medizin/wegovy-wirkstoff-semaglutid-aus-abnehmspritze-koennte-mit-schwerer-augenkrankheit-naion-zusammenhaengen](https://www.spiegel.de/wissenschaft/medizin/wegovy-wirkstoff-semaglutid-aus-abnehmspritze-koennte-mit-schwerer-augenkrankheit-naion-zusammenhaengen-a-c16f1edd-904f-4b35-9d5f-9ab508726db7#ref=rss)
+### semaglutid
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bertelsmann-thomas-coesfeld-enkel-von-reinhard-mohn-rueckt-in-vorstand-auf](https://www.spiegel.de/wirtschaft/unternehmen/bertelsmann-thomas-coesfeld-enkel-von-reinhard-mohn-rueckt-in-vorstand-auf-a-88d5cc05-a97f-4ef7-983e-58ee60a32027#ref=rss)
-### vorstand
+* [https://www.spiegel.de/wissenschaft/medizin/wegovy-wirkstoff-semaglutid-aus-abnehmspritze-koennte-mit-schwerer-augenkrankheit-naion-zusammenhaengen](https://www.spiegel.de/wissenschaft/medizin/wegovy-wirkstoff-semaglutid-aus-abnehmspritze-koennte-mit-schwerer-augenkrankheit-naion-zusammenhaengen-a-c16f1edd-904f-4b35-9d5f-9ab508726db7#ref=rss)
+### ernährung
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bertelsmann-thomas-coesfeld-enkel-von-reinhard-mohn-rueckt-in-vorstand-auf](https://www.spiegel.de/wirtschaft/unternehmen/bertelsmann-thomas-coesfeld-enkel-von-reinhard-mohn-rueckt-in-vorstand-auf-a-88d5cc05-a97f-4ef7-983e-58ee60a32027#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-em-2024-spanier-haben-ihren-eigenen-schinken-mitgebracht](https://www.spiegel.de/sport/fussball/fussball-em-2024-spanier-haben-ihren-eigenen-schinken-mitgebracht-a-106d881e-b030-4b9b-b170-e6324ae1fed1#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/denisova-mensch-knochenfund-in-tibet-zeigt-ernaehrung-waehrend-der-eiszeit](https://www.spiegel.de/wissenschaft/mensch/denisova-mensch-knochenfund-in-tibet-zeigt-ernaehrung-waehrend-der-eiszeit-a-4ed390f2-6588-4231-9cb7-7add50283bc6#ref=rss)
+### antwort
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2024-spanier-haben-ihren-eigenen-schinken-mitgebracht](https://www.spiegel.de/sport/fussball/fussball-em-2024-spanier-haben-ihren-eigenen-schinken-mitgebracht-a-106d881e-b030-4b9b-b170-e6324ae1fed1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/antwort-auf-protestbrief-linker-nachwuchsorganisation-junge-liberale-und-junge-union-verteidigen-schuldenbremse](https://www.spiegel.de/politik/deutschland/antwort-auf-protestbrief-linker-nachwuchsorganisation-junge-liberale-und-junge-union-verteidigen-schuldenbremse-a-c52d7d28-9f1c-40b7-8a28-39b9c240c36f#ref=rss)
+### junge
+
+* [https://www.spiegel.de/politik/deutschland/antwort-auf-protestbrief-linker-nachwuchsorganisation-junge-liberale-und-junge-union-verteidigen-schuldenbremse](https://www.spiegel.de/politik/deutschland/antwort-auf-protestbrief-linker-nachwuchsorganisation-junge-liberale-und-junge-union-verteidigen-schuldenbremse-a-c52d7d28-9f1c-40b7-8a28-39b9c240c36f#ref=rss)
+### schuldenbremse
+
+* [https://www.spiegel.de/politik/deutschland/antwort-auf-protestbrief-linker-nachwuchsorganisation-junge-liberale-und-junge-union-verteidigen-schuldenbremse](https://www.spiegel.de/politik/deutschland/antwort-auf-protestbrief-linker-nachwuchsorganisation-junge-liberale-und-junge-union-verteidigen-schuldenbremse-a-c52d7d28-9f1c-40b7-8a28-39b9c240c36f#ref=rss)
+### österreich
+
+* [https://www.spiegel.de/panorama/justiz/oesterreich-bisher-offenbar-70-raser-autos-entzogen](https://www.spiegel.de/panorama/justiz/oesterreich-bisher-offenbar-70-raser-autos-entzogen-a-62bd582b-cb21-48bb-8c9c-f7beafe7a2f9#ref=rss)
+### leibingerkammüller
+
+* [https://www.spiegel.de/wirtschaft/wirtschaftskrise-trumpf-chefin-leibinger-kammueller-warnt-vor-beaengstigender-weltlage](https://www.spiegel.de/wirtschaft/wirtschaftskrise-trumpf-chefin-leibinger-kammueller-warnt-vor-beaengstigender-weltlage-a-93411f90-d8bd-42a7-be3b-1a5204dd9fd1#ref=rss)
+### tibet
+
+* [https://www.spiegel.de/wissenschaft/mensch/denisova-mensch-knochenfund-in-tibet-zeigt-ernaehrung-waehrend-der-eiszeit](https://www.spiegel.de/wissenschaft/mensch/denisova-mensch-knochenfund-in-tibet-zeigt-ernaehrung-waehrend-der-eiszeit-a-4ed390f2-6588-4231-9cb7-7add50283bc6#ref=rss)
+### coldplay
+
+* [https://www.spiegel.de/panorama/leute/coldplay-muss-ex-manager-millionen-zahlen](https://www.spiegel.de/panorama/leute/coldplay-muss-ex-manager-millionen-zahlen-a-890cd7da-7740-4252-9696-c58945a08b4f#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/panorama/leute/coldplay-muss-ex-manager-millionen-zahlen](https://www.spiegel.de/panorama/leute/coldplay-muss-ex-manager-millionen-zahlen-a-890cd7da-7740-4252-9696-c58945a08b4f#ref=rss)
+### zahlen
+
+* [https://www.spiegel.de/panorama/leute/coldplay-muss-ex-manager-millionen-zahlen](https://www.spiegel.de/panorama/leute/coldplay-muss-ex-manager-millionen-zahlen-a-890cd7da-7740-4252-9696-c58945a08b4f#ref=rss)
+### frankreich
+
+* [https://www.spiegel.de/ausland/frankreich-wie-medienmagnat-vincent-bollore-die-strippen-fuer-frankreichs-rechtsradikale-zieht](https://www.spiegel.de/ausland/frankreich-wie-medienmagnat-vincent-bollore-die-strippen-fuer-frankreichs-rechtsradikale-zieht-a-1c1a52ac-444c-44be-8766-6e9cf46f77bc#ref=rss)
+### vincent
+
+* [https://www.spiegel.de/ausland/frankreich-wie-medienmagnat-vincent-bollore-die-strippen-fuer-frankreichs-rechtsradikale-zieht](https://www.spiegel.de/ausland/frankreich-wie-medienmagnat-vincent-bollore-die-strippen-fuer-frankreichs-rechtsradikale-zieht-a-1c1a52ac-444c-44be-8766-6e9cf46f77bc#ref=rss)
+### bolloré
+
+* [https://www.spiegel.de/ausland/frankreich-wie-medienmagnat-vincent-bollore-die-strippen-fuer-frankreichs-rechtsradikale-zieht](https://www.spiegel.de/ausland/frankreich-wie-medienmagnat-vincent-bollore-die-strippen-fuer-frankreichs-rechtsradikale-zieht-a-1c1a52ac-444c-44be-8766-6e9cf46f77bc#ref=rss)
+### strippen
+
+* [https://www.spiegel.de/ausland/frankreich-wie-medienmagnat-vincent-bollore-die-strippen-fuer-frankreichs-rechtsradikale-zieht](https://www.spiegel.de/ausland/frankreich-wie-medienmagnat-vincent-bollore-die-strippen-fuer-frankreichs-rechtsradikale-zieht-a-1c1a52ac-444c-44be-8766-6e9cf46f77bc#ref=rss)
 ### zieht
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bertelsmann-thomas-coesfeld-enkel-von-reinhard-mohn-rueckt-in-vorstand-auf](https://www.spiegel.de/wirtschaft/unternehmen/bertelsmann-thomas-coesfeld-enkel-von-reinhard-mohn-rueckt-in-vorstand-auf-a-88d5cc05-a97f-4ef7-983e-58ee60a32027#ref=rss)
-* [https://www.spiegel.de/wirtschaft/em-2024-kosten-fuer-fans-250-euro-pro-karte-200-euro-fuers-apartment-und-100-euro-fuer-bier](https://www.spiegel.de/wirtschaft/em-2024-kosten-fuer-fans-250-euro-pro-karte-200-euro-fuers-apartment-und-100-euro-fuer-bier-a-5cdc0873-f183-4df2-a70e-68e51d5e2671#ref=rss)
-### betrachtet
-
-* [https://www.spiegel.de/panorama/deutscher-wetterdienst-meldet-naesse-rekord-seit-messbeginn](https://www.spiegel.de/panorama/deutscher-wetterdienst-meldet-naesse-rekord-seit-messbeginn-a-dd073c06-e2be-444c-8436-ae51efa477b8#ref=rss)
-### demokratie
-
-* [https://www.spiegel.de/politik/krise-der-demokratie-die-bedrohung-durch-selbstherrlichkeit-und-willkuer](https://www.spiegel.de/politik/krise-der-demokratie-die-bedrohung-durch-selbstherrlichkeit-und-willkuer-a-de5f8b0d-5d3c-4fdb-9182-c51ad0ec5e0b#ref=rss)
-### selbstherrlichkeit
-
-* [https://www.spiegel.de/politik/krise-der-demokratie-die-bedrohung-durch-selbstherrlichkeit-und-willkuer](https://www.spiegel.de/politik/krise-der-demokratie-die-bedrohung-durch-selbstherrlichkeit-und-willkuer-a-de5f8b0d-5d3c-4fdb-9182-c51ad0ec5e0b#ref=rss)
-### willkür
-
-* [https://www.spiegel.de/politik/krise-der-demokratie-die-bedrohung-durch-selbstherrlichkeit-und-willkuer](https://www.spiegel.de/politik/krise-der-demokratie-die-bedrohung-durch-selbstherrlichkeit-und-willkuer-a-de5f8b0d-5d3c-4fdb-9182-c51ad0ec5e0b#ref=rss)
-### fürs
-
-* [https://www.spiegel.de/netzwelt/games/minesweeper-fuers-handy-netflix-legt-den-klassiker-fuer-seine-abonnenten-neu-auf](https://www.spiegel.de/netzwelt/games/minesweeper-fuers-handy-netflix-legt-den-klassiker-fuer-seine-abonnenten-neu-auf-a-44635102-a60d-43f2-a9cb-942d75efd35a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/em-2024-kosten-fuer-fans-250-euro-pro-karte-200-euro-fuers-apartment-und-100-euro-fuer-bier](https://www.spiegel.de/wirtschaft/em-2024-kosten-fuer-fans-250-euro-pro-karte-200-euro-fuers-apartment-und-100-euro-fuer-bier-a-5cdc0873-f183-4df2-a70e-68e51d5e2671#ref=rss)
-### neu
-
-* [https://www.spiegel.de/netzwelt/games/minesweeper-fuers-handy-netflix-legt-den-klassiker-fuer-seine-abonnenten-neu-auf](https://www.spiegel.de/netzwelt/games/minesweeper-fuers-handy-netflix-legt-den-klassiker-fuer-seine-abonnenten-neu-auf-a-44635102-a60d-43f2-a9cb-942d75efd35a#ref=rss)
-* [https://www.spiegel.de/auto/fahrberichte/audi-q6-e-tron-im-test-wie-ein-neuer-quattro-antrieb-das-fahrgefuehl-veraendert](https://www.spiegel.de/auto/fahrberichte/audi-q6-e-tron-im-test-wie-ein-neuer-quattro-antrieb-das-fahrgefuehl-veraendert-a-af3d44f5-01ae-43ef-aa6d-8bfc1706e860#ref=rss)
-### frau
-
-* [https://www.spiegel.de/ausland/kanada-erstmals-fuehrt-eine-frau-die-streitkraefte](https://www.spiegel.de/ausland/kanada-erstmals-fuehrt-eine-frau-die-streitkraefte-a-36c73ad3-12e8-4223-a4ce-fc7e6ab52bcf#ref=rss)
-### streitkräfte
-
-* [https://www.spiegel.de/ausland/kanada-erstmals-fuehrt-eine-frau-die-streitkraefte](https://www.spiegel.de/ausland/kanada-erstmals-fuehrt-eine-frau-die-streitkraefte-a-36c73ad3-12e8-4223-a4ce-fc7e6ab52bcf#ref=rss)
-### industrie
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/industrie-deutsche-firmen-melden-fuenften-rueckgang-in-folge-bei-auftraegen](https://www.spiegel.de/wirtschaft/unternehmen/industrie-deutsche-firmen-melden-fuenften-rueckgang-in-folge-bei-auftraegen-a-ed89868a-8a18-4c04-b629-617c6a5c358b#ref=rss)
-### firmen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/industrie-deutsche-firmen-melden-fuenften-rueckgang-in-folge-bei-auftraegen](https://www.spiegel.de/wirtschaft/unternehmen/industrie-deutsche-firmen-melden-fuenften-rueckgang-in-folge-bei-auftraegen-a-ed89868a-8a18-4c04-b629-617c6a5c358b#ref=rss)
-### fünften
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/industrie-deutsche-firmen-melden-fuenften-rueckgang-in-folge-bei-auftraegen](https://www.spiegel.de/wirtschaft/unternehmen/industrie-deutsche-firmen-melden-fuenften-rueckgang-in-folge-bei-auftraegen-a-ed89868a-8a18-4c04-b629-617c6a5c358b#ref=rss)
-### rückgang
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/industrie-deutsche-firmen-melden-fuenften-rueckgang-in-folge-bei-auftraegen](https://www.spiegel.de/wirtschaft/unternehmen/industrie-deutsche-firmen-melden-fuenften-rueckgang-in-folge-bei-auftraegen-a-ed89868a-8a18-4c04-b629-617c6a5c358b#ref=rss)
-### folge
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/industrie-deutsche-firmen-melden-fuenften-rueckgang-in-folge-bei-auftraegen](https://www.spiegel.de/wirtschaft/unternehmen/industrie-deutsche-firmen-melden-fuenften-rueckgang-in-folge-bei-auftraegen-a-ed89868a-8a18-4c04-b629-617c6a5c358b#ref=rss)
-### fans
-
-* [https://www.spiegel.de/wirtschaft/em-2024-kosten-fuer-fans-250-euro-pro-karte-200-euro-fuers-apartment-und-100-euro-fuer-bier](https://www.spiegel.de/wirtschaft/em-2024-kosten-fuer-fans-250-euro-pro-karte-200-euro-fuers-apartment-und-100-euro-fuer-bier-a-5cdc0873-f183-4df2-a70e-68e51d5e2671#ref=rss)
-### weit
-
-* [https://www.spiegel.de/wirtschaft/em-2024-kosten-fuer-fans-250-euro-pro-karte-200-euro-fuers-apartment-und-100-euro-fuer-bier](https://www.spiegel.de/wirtschaft/em-2024-kosten-fuer-fans-250-euro-pro-karte-200-euro-fuers-apartment-und-100-euro-fuer-bier-a-5cdc0873-f183-4df2-a70e-68e51d5e2671#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-wahl-2024-es-droht-das-ende-der-tories-wie-wir-sie-kennen](https://www.spiegel.de/ausland/grossbritannien-wahl-2024-es-droht-das-ende-der-tories-wie-wir-sie-kennen-a-66b6cda7-8b0e-4d57-830b-8f4699978a4e#ref=rss)
-### kommen
-
-* [https://www.spiegel.de/wirtschaft/em-2024-kosten-fuer-fans-250-euro-pro-karte-200-euro-fuers-apartment-und-100-euro-fuer-bier](https://www.spiegel.de/wirtschaft/em-2024-kosten-fuer-fans-250-euro-pro-karte-200-euro-fuers-apartment-und-100-euro-fuer-bier-a-5cdc0873-f183-4df2-a70e-68e51d5e2671#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-wahl-2024-es-droht-das-ende-der-tories-wie-wir-sie-kennen](https://www.spiegel.de/ausland/grossbritannien-wahl-2024-es-droht-das-ende-der-tories-wie-wir-sie-kennen-a-66b6cda7-8b0e-4d57-830b-8f4699978a4e#ref=rss)
-### q6
-
-* [https://www.spiegel.de/auto/fahrberichte/audi-q6-e-tron-im-test-wie-ein-neuer-quattro-antrieb-das-fahrgefuehl-veraendert](https://www.spiegel.de/auto/fahrberichte/audi-q6-e-tron-im-test-wie-ein-neuer-quattro-antrieb-das-fahrgefuehl-veraendert-a-af3d44f5-01ae-43ef-aa6d-8bfc1706e860#ref=rss)
-### etron
-
-* [https://www.spiegel.de/auto/fahrberichte/audi-q6-e-tron-im-test-wie-ein-neuer-quattro-antrieb-das-fahrgefuehl-veraendert](https://www.spiegel.de/auto/fahrberichte/audi-q6-e-tron-im-test-wie-ein-neuer-quattro-antrieb-das-fahrgefuehl-veraendert-a-af3d44f5-01ae-43ef-aa6d-8bfc1706e860#ref=rss)
-### quattroantrieb
-
-* [https://www.spiegel.de/auto/fahrberichte/audi-q6-e-tron-im-test-wie-ein-neuer-quattro-antrieb-das-fahrgefuehl-veraendert](https://www.spiegel.de/auto/fahrberichte/audi-q6-e-tron-im-test-wie-ein-neuer-quattro-antrieb-das-fahrgefuehl-veraendert-a-af3d44f5-01ae-43ef-aa6d-8bfc1706e860#ref=rss)
-### vermisstes
-
-* [https://www.spiegel.de/panorama/mechernich-vermisstes-maedchen-wieder-da](https://www.spiegel.de/panorama/mechernich-vermisstes-maedchen-wieder-da-a-c0093765-2c84-4304-a058-d4e087ca8fe9#ref=rss)
-* [https://www.spiegel.de/panorama/australien-vermisstes-maedchen-nach-krokodilangriff-tot-geborgen](https://www.spiegel.de/panorama/australien-vermisstes-maedchen-nach-krokodilangriff-tot-geborgen-a-4f9c7ce2-c4fd-4313-8dc7-b3f2f83e364d#ref=rss)
-### wo
-
-* [https://www.spiegel.de/sport/fussball-em-2024-wo-ist-der-ball-das-quiz-zum-achtelfinale](https://www.spiegel.de/sport/fussball-em-2024-wo-ist-der-ball-das-quiz-zum-achtelfinale-a-ef06f4f8-5fec-44de-8b06-1202ce35522a#ref=rss)
-### ball
-
-* [https://www.spiegel.de/sport/fussball-em-2024-wo-ist-der-ball-das-quiz-zum-achtelfinale](https://www.spiegel.de/sport/fussball-em-2024-wo-ist-der-ball-das-quiz-zum-achtelfinale-a-ef06f4f8-5fec-44de-8b06-1202ce35522a#ref=rss)
-### wir
-
-* [https://www.spiegel.de/sport/fussball-em-2024-wo-ist-der-ball-das-quiz-zum-achtelfinale](https://www.spiegel.de/sport/fussball-em-2024-wo-ist-der-ball-das-quiz-zum-achtelfinale-a-ef06f4f8-5fec-44de-8b06-1202ce35522a#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-wahl-2024-es-droht-das-ende-der-tories-wie-wir-sie-kennen](https://www.spiegel.de/ausland/grossbritannien-wahl-2024-es-droht-das-ende-der-tories-wie-wir-sie-kennen-a-66b6cda7-8b0e-4d57-830b-8f4699978a4e#ref=rss)
-### grundsicherung
-
-* [https://www.spiegel.de/wirtschaft/soziales/altersarmut-zahl-der-senioren-mit-grundsicherung-erneut-gestiegen-rund-720-000-betroffene](https://www.spiegel.de/wirtschaft/soziales/altersarmut-zahl-der-senioren-mit-grundsicherung-erneut-gestiegen-rund-720-000-betroffene-a-2e757b91-0350-4ad4-848a-6141605cd808#ref=rss)
-### david
-
-* [https://www.spiegel.de/panorama/leute/david-beckham-und-victoria-beckham-feiern-25-hochzeitstag-in-outfits-von-damals](https://www.spiegel.de/panorama/leute/david-beckham-und-victoria-beckham-feiern-25-hochzeitstag-in-outfits-von-damals-a-63e5b57d-8e5d-4988-bbd2-6a8235674582#ref=rss)
-### victoria
-
-* [https://www.spiegel.de/panorama/leute/david-beckham-und-victoria-beckham-feiern-25-hochzeitstag-in-outfits-von-damals](https://www.spiegel.de/panorama/leute/david-beckham-und-victoria-beckham-feiern-25-hochzeitstag-in-outfits-von-damals-a-63e5b57d-8e5d-4988-bbd2-6a8235674582#ref=rss)
-### 25
-
-* [https://www.spiegel.de/panorama/leute/david-beckham-und-victoria-beckham-feiern-25-hochzeitstag-in-outfits-von-damals](https://www.spiegel.de/panorama/leute/david-beckham-und-victoria-beckham-feiern-25-hochzeitstag-in-outfits-von-damals-a-63e5b57d-8e5d-4988-bbd2-6a8235674582#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-wie-medienmagnat-vincent-bollore-die-strippen-fuer-frankreichs-rechtsradikale-zieht](https://www.spiegel.de/ausland/frankreich-wie-medienmagnat-vincent-bollore-die-strippen-fuer-frankreichs-rechtsradikale-zieht-a-1c1a52ac-444c-44be-8766-6e9cf46f77bc#ref=rss)
 
