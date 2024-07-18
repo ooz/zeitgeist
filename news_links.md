@@ -4,332 +4,368 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### republikaner
-
-* [https://www.spiegel.de/politik/deutschland/donald-trump-republikaner-tragen-einen-verband-als-zeichen-der-verehrung](https://www.spiegel.de/politik/deutschland/donald-trump-republikaner-tragen-einen-verband-als-zeichen-der-verehrung-a-7dbc86b9-3fe8-4eaf-a508-aa7565b6f741#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahlkampf-donald-trumps-vize-j-d-vance-haelt-parteitagsrede](https://www.spiegel.de/ausland/us-wahlkampf-donald-trumps-vize-j-d-vance-haelt-parteitagsrede-a-8b64fae2-0eca-42cc-9ba2-967935629cf8#ref=rss)
-* [https://www.spiegel.de/kultur/musik/lee-greenwoods-god-bless-the-u-s-a-wie-donald-trump-das-lied-nutzt](https://www.spiegel.de/kultur/musik/lee-greenwoods-god-bless-the-u-s-a-wie-donald-trump-das-lied-nutzt-a-58d4f772-145c-4670-8a25-f3ec9eca4cae#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-der-parteitag-der-republikaner-ein-durch-und-durch-furchtbarer-mensch](https://www.spiegel.de/ausland/donald-trump-und-der-parteitag-der-republikaner-ein-durch-und-durch-furchtbarer-mensch-a-72b8ceb7-bc64-4c10-bbd3-d9c55cb498c7#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/politik/deutschland/donald-trump-republikaner-tragen-einen-verband-als-zeichen-der-verehrung](https://www.spiegel.de/politik/deutschland/donald-trump-republikaner-tragen-einen-verband-als-zeichen-der-verehrung-a-7dbc86b9-3fe8-4eaf-a508-aa7565b6f741#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahlkampf-donald-trumps-vize-j-d-vance-haelt-parteitagsrede](https://www.spiegel.de/ausland/us-wahlkampf-donald-trumps-vize-j-d-vance-haelt-parteitagsrede-a-8b64fae2-0eca-42cc-9ba2-967935629cf8#ref=rss)
-* [https://www.spiegel.de/kultur/musik/lee-greenwoods-god-bless-the-u-s-a-wie-donald-trump-das-lied-nutzt](https://www.spiegel.de/kultur/musik/lee-greenwoods-god-bless-the-u-s-a-wie-donald-trump-das-lied-nutzt-a-58d4f772-145c-4670-8a25-f3ec9eca4cae#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-der-parteitag-der-republikaner-ein-durch-und-durch-furchtbarer-mensch](https://www.spiegel.de/ausland/donald-trump-und-der-parteitag-der-republikaner-ein-durch-und-durch-furchtbarer-mensch-a-72b8ceb7-bc64-4c10-bbd3-d9c55cb498c7#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-identifikation-mit-der-deutschen-nationalmannschaft-laut-umfrage-gestiegen](https://www.spiegel.de/sport/fussball/fussball-em-2024-identifikation-mit-der-deutschen-nationalmannschaft-laut-umfrage-gestiegen-a-b0b676b3-bb83-4204-972f-212b312e40a9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-strecke-bei-duisburg-bis-august-gesperrt-ausfaelle-und-ice-umleitungen](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-strecke-bei-duisburg-bis-august-gesperrt-ausfaelle-und-ice-umleitungen-a-31f60e09-629e-4840-bef8-d81bd917de0b#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-ice-nach-stuttgart-nachts-in-ludwigshafen-evakuiert](https://www.spiegel.de/panorama/deutsche-bahn-ice-nach-stuttgart-nachts-in-ludwigshafen-evakuiert-a-76e72c64-f419-4823-a290-6098580ab26c#ref=rss)
+* [https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner](https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-a-ef586402-5e18-4787-a495-4e7ffbc8f5a5#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-attentat-die-grafikanalyse-des-tathergangs-und-die-verschiedenen-perspektiven](https://www.spiegel.de/ausland/donald-trump-attentat-die-grafikanalyse-des-tathergangs-und-die-verschiedenen-perspektiven-a-52d62f3e-b943-417f-9ee8-4e26cb1e22cf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-coronavirus-jan-redmann](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-coronavirus-jan-redmann-a-1005f559-d1fc-4771-b903-b7d0456d2201#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahlkampf-enttaeuschung-ueber-donald-trumps-vize-j-d-vance](https://www.spiegel.de/ausland/us-wahlkampf-enttaeuschung-ueber-donald-trumps-vize-j-d-vance-a-4daec5c1-afdd-45ef-8f47-bdd30256d43a#ref=rss)
+* [https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-podcast](https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-podcast-a-d0c4ff83-58a1-4469-9e34-8233a823c41a#ref=rss)
+* [https://www.spiegel.de/deinspiegel/basketball-deutschland-star-satou-sabally-ueber-olympia-karriere-einhoerner-und-donald-trump-das-haerteste-spiel-das-ich-je-gespielt-habe](https://www.spiegel.de/deinspiegel/basketball-deutschland-star-satou-sabally-ueber-olympia-karriere-einhoerner-und-donald-trump-das-haerteste-spiel-das-ich-je-gespielt-habe-a-21f0ce7d-29f6-441b-ab60-268802ccd644#ref=rss)
+* [https://www.spiegel.de/ausland/thomas-matthew-crooks-der-mann-der-donald-trump-toeten-wollte](https://www.spiegel.de/ausland/thomas-matthew-crooks-der-mann-der-donald-trump-toeten-wollte-a-ac030d91-560a-4463-be0e-4ee89601bc5a#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/politik/deutschland/donald-trump-republikaner-tragen-einen-verband-als-zeichen-der-verehrung](https://www.spiegel.de/politik/deutschland/donald-trump-republikaner-tragen-einen-verband-als-zeichen-der-verehrung-a-7dbc86b9-3fe8-4eaf-a508-aa7565b6f741#ref=rss)
-* [https://www.spiegel.de/kultur/musik/lee-greenwoods-god-bless-the-u-s-a-wie-donald-trump-das-lied-nutzt](https://www.spiegel.de/kultur/musik/lee-greenwoods-god-bless-the-u-s-a-wie-donald-trump-das-lied-nutzt-a-58d4f772-145c-4670-8a25-f3ec9eca4cae#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-der-parteitag-der-republikaner-ein-durch-und-durch-furchtbarer-mensch](https://www.spiegel.de/ausland/donald-trump-und-der-parteitag-der-republikaner-ein-durch-und-durch-furchtbarer-mensch-a-72b8ceb7-bc64-4c10-bbd3-d9c55cb498c7#ref=rss)
-### parteitag
-
-* [https://www.spiegel.de/ausland/us-wahlkampf-donald-trumps-vize-j-d-vance-haelt-parteitagsrede](https://www.spiegel.de/ausland/us-wahlkampf-donald-trumps-vize-j-d-vance-haelt-parteitagsrede-a-8b64fae2-0eca-42cc-9ba2-967935629cf8#ref=rss)
-* [https://www.spiegel.de/kultur/musik/lee-greenwoods-god-bless-the-u-s-a-wie-donald-trump-das-lied-nutzt](https://www.spiegel.de/kultur/musik/lee-greenwoods-god-bless-the-u-s-a-wie-donald-trump-das-lied-nutzt-a-58d4f772-145c-4670-8a25-f3ec9eca4cae#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-der-parteitag-der-republikaner-ein-durch-und-durch-furchtbarer-mensch](https://www.spiegel.de/ausland/donald-trump-und-der-parteitag-der-republikaner-ein-durch-und-durch-furchtbarer-mensch-a-72b8ceb7-bc64-4c10-bbd3-d9c55cb498c7#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/justiz/gewalttaten-in-berlin-razzia-bei-mutmasslichen-rechtsextremisten-in-berlin-brandenburg-und-sachsen](https://www.spiegel.de/panorama/justiz/gewalttaten-in-berlin-razzia-bei-mutmasslichen-rechtsextremisten-in-berlin-brandenburg-und-sachsen-a-0cb784fa-3d95-41b1-bfae-7d0a30309897#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-identifikation-mit-der-deutschen-nationalmannschaft-laut-umfrage-gestiegen](https://www.spiegel.de/sport/fussball/fussball-em-2024-identifikation-mit-der-deutschen-nationalmannschaft-laut-umfrage-gestiegen-a-b0b676b3-bb83-4204-972f-212b312e40a9#ref=rss)
-* [https://www.spiegel.de/kultur/nordrhein-westfalen-kulturfoerderung-nur-bei-mindesthonorar-fuer-kuenstler](https://www.spiegel.de/kultur/nordrhein-westfalen-kulturfoerderung-nur-bei-mindesthonorar-fuer-kuenstler-a-6139475e-2199-4ac8-9408-7f32dcf9b769#ref=rss)
-* [https://www.spiegel.de/politik/bundeshaushalt-2025-tricks-und-luftbuchungen-ein-laienhaftes-staatsschauspiel](https://www.spiegel.de/politik/bundeshaushalt-2025-tricks-und-luftbuchungen-ein-laienhaftes-staatsschauspiel-a-5a085c33-f8c6-4f72-b1ef-eb4f7d94f041#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-identifikation-mit-der-deutschen-nationalmannschaft-laut-umfrage-gestiegen](https://www.spiegel.de/sport/fussball/fussball-em-2024-identifikation-mit-der-deutschen-nationalmannschaft-laut-umfrage-gestiegen-a-b0b676b3-bb83-4204-972f-212b312e40a9#ref=rss)
-* [https://www.spiegel.de/start/generationenkonflikte-im-job-was-koennen-millennials-bei-der-arbeit-von-der-gen-z-lernen](https://www.spiegel.de/start/generationenkonflikte-im-job-was-koennen-millennials-bei-der-arbeit-von-der-gen-z-lernen-a-5214b0bf-259e-49d5-aaf6-039baf9931e2#ref=rss)
-* [https://www.spiegel.de/panorama/wohnungsbrand-in-nizza-behoerden-ermitteln-nach-dem-tod-von-sieben-menschen-wegen-verdachts-auf-brandstiftung](https://www.spiegel.de/panorama/wohnungsbrand-in-nizza-behoerden-ermitteln-nach-dem-tod-von-sieben-menschen-wegen-verdachts-auf-brandstiftung-a-1bde3a0d-663a-4c7f-92e8-a809dc2cb11b#ref=rss)
-### neue
-
-* [https://www.spiegel.de/kultur/tv/eltons-12-neue-rtl-samstagabendshow-produziert-von-raab-entertainment](https://www.spiegel.de/kultur/tv/eltons-12-neue-rtl-samstagabendshow-produziert-von-raab-entertainment-a-e92fae41-db72-496b-ac97-6c98c02417e9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-unternehmer-wuenschen-sich-mit-deutlicher-mehrheit-cdu-vorsitzenden-als-kanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-unternehmer-wuenschen-sich-mit-deutlicher-mehrheit-cdu-vorsitzenden-als-kanzler-a-298d3331-065e-4e68-bec8-2567d8aee0be#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/pompeji-erdbeben-erschuetterte-stadt-zeitlich-zu-vulkanausbruch](https://www.spiegel.de/wissenschaft/mensch/pompeji-erdbeben-erschuetterte-stadt-zeitlich-zu-vulkanausbruch-a-fd736aa6-9486-4ae7-b1f0-e02195f6e6ae#ref=rss)
-### bundeswehr
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/marine-sucht-ersatz-fuer-floppydisks](https://www.spiegel.de/netzwelt/netzpolitik/marine-sucht-ersatz-fuer-floppydisks-a-72f71159-bc67-4a56-8630-e02c1e42c6a3#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/bayern-schulen-und-unis-muessen-mit-bundeswehr-kooperieren](https://www.spiegel.de/panorama/bildung/bayern-schulen-und-unis-muessen-mit-bundeswehr-kooperieren-a-26435573-6968-4bcb-b96a-c09ebeb05606#ref=rss)
-### the
-
-* [https://www.spiegel.de/kultur/kino/the-acolyte-star-manny-jacinto-spricht-ueber-seine-rausgeschnittenen-top-gun-szenen](https://www.spiegel.de/kultur/kino/the-acolyte-star-manny-jacinto-spricht-ueber-seine-rausgeschnittenen-top-gun-szenen-a-76516ecb-e755-445a-8d6a-f0d378c914d0#ref=rss)
-* [https://www.spiegel.de/kultur/musik/lee-greenwoods-god-bless-the-u-s-a-wie-donald-trump-das-lied-nutzt](https://www.spiegel.de/kultur/musik/lee-greenwoods-god-bless-the-u-s-a-wie-donald-trump-das-lied-nutzt-a-58d4f772-145c-4670-8a25-f3ec9eca4cae#ref=rss)
-### früheren
-
-* [https://www.spiegel.de/sport/fussball/fussball-transfers-hansi-flick-holt-thiago-alcantara-zum-fc-barcelona](https://www.spiegel.de/sport/fussball/fussball-transfers-hansi-flick-holt-thiago-alcantara-zum-fc-barcelona-a-77f43dcc-ef7b-48ec-b3c6-db36cfa105a5#ref=rss)
-### weg
-
-* [https://www.spiegel.de/panorama/justiz/gewalttaten-in-berlin-razzia-bei-mutmasslichen-rechtsextremisten-in-berlin-brandenburg-und-sachsen](https://www.spiegel.de/panorama/justiz/gewalttaten-in-berlin-razzia-bei-mutmasslichen-rechtsextremisten-in-berlin-brandenburg-und-sachsen-a-0cb784fa-3d95-41b1-bfae-7d0a30309897#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-ice-nach-stuttgart-nachts-in-ludwigshafen-evakuiert](https://www.spiegel.de/panorama/deutsche-bahn-ice-nach-stuttgart-nachts-in-ludwigshafen-evakuiert-a-76e72c64-f419-4823-a290-6098580ab26c#ref=rss)
-### 2024
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-identifikation-mit-der-deutschen-nationalmannschaft-laut-umfrage-gestiegen](https://www.spiegel.de/sport/fussball/fussball-em-2024-identifikation-mit-der-deutschen-nationalmannschaft-laut-umfrage-gestiegen-a-b0b676b3-bb83-4204-972f-212b312e40a9#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2024-toni-kroos-wirbt-fuer-alexander-zverev-als-deutschen-fahnentraeger](https://www.spiegel.de/sport/olympia/olympia-2024-toni-kroos-wirbt-fuer-alexander-zverev-als-deutschen-fahnentraeger-a-a973d1b7-b2d0-40e2-b517-78ed49b69afc#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-identifikation-mit-der-deutschen-nationalmannschaft-laut-umfrage-gestiegen](https://www.spiegel.de/sport/fussball/fussball-em-2024-identifikation-mit-der-deutschen-nationalmannschaft-laut-umfrage-gestiegen-a-b0b676b3-bb83-4204-972f-212b312e40a9#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2024-toni-kroos-wirbt-fuer-alexander-zverev-als-deutschen-fahnentraeger](https://www.spiegel.de/sport/olympia/olympia-2024-toni-kroos-wirbt-fuer-alexander-zverev-als-deutschen-fahnentraeger-a-a973d1b7-b2d0-40e2-b517-78ed49b69afc#ref=rss)
-### laut
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-identifikation-mit-der-deutschen-nationalmannschaft-laut-umfrage-gestiegen](https://www.spiegel.de/sport/fussball/fussball-em-2024-identifikation-mit-der-deutschen-nationalmannschaft-laut-umfrage-gestiegen-a-b0b676b3-bb83-4204-972f-212b312e40a9#ref=rss)
-* [https://www.spiegel.de/kultur/taylor-swift-in-gelsenkirchen-so-laut-wie-bei-metallica](https://www.spiegel.de/kultur/taylor-swift-in-gelsenkirchen-so-laut-wie-bei-metallica-a-6b284ac3-60c1-40e9-b65c-cc8bdefdcefa#ref=rss)
-### umfrage
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-identifikation-mit-der-deutschen-nationalmannschaft-laut-umfrage-gestiegen](https://www.spiegel.de/sport/fussball/fussball-em-2024-identifikation-mit-der-deutschen-nationalmannschaft-laut-umfrage-gestiegen-a-b0b676b3-bb83-4204-972f-212b312e40a9#ref=rss)
-### fans
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-identifikation-mit-der-deutschen-nationalmannschaft-laut-umfrage-gestiegen](https://www.spiegel.de/sport/fussball/fussball-em-2024-identifikation-mit-der-deutschen-nationalmannschaft-laut-umfrage-gestiegen-a-b0b676b3-bb83-4204-972f-212b312e40a9#ref=rss)
-* [https://www.spiegel.de/kultur/taylor-swift-in-gelsenkirchen-so-laut-wie-bei-metallica](https://www.spiegel.de/kultur/taylor-swift-in-gelsenkirchen-so-laut-wie-bei-metallica-a-6b284ac3-60c1-40e9-b65c-cc8bdefdcefa#ref=rss)
-### wm
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2024-identifikation-mit-der-deutschen-nationalmannschaft-laut-umfrage-gestiegen](https://www.spiegel.de/sport/fussball/fussball-em-2024-identifikation-mit-der-deutschen-nationalmannschaft-laut-umfrage-gestiegen-a-b0b676b3-bb83-4204-972f-212b312e40a9#ref=rss)
-### eltons
-
-* [https://www.spiegel.de/kultur/tv/eltons-12-neue-rtl-samstagabendshow-produziert-von-raab-entertainment](https://www.spiegel.de/kultur/tv/eltons-12-neue-rtl-samstagabendshow-produziert-von-raab-entertainment-a-e92fae41-db72-496b-ac97-6c98c02417e9#ref=rss)
-### 12
-
-* [https://www.spiegel.de/kultur/tv/eltons-12-neue-rtl-samstagabendshow-produziert-von-raab-entertainment](https://www.spiegel.de/kultur/tv/eltons-12-neue-rtl-samstagabendshow-produziert-von-raab-entertainment-a-e92fae41-db72-496b-ac97-6c98c02417e9#ref=rss)
-### raab
-
-* [https://www.spiegel.de/kultur/tv/eltons-12-neue-rtl-samstagabendshow-produziert-von-raab-entertainment](https://www.spiegel.de/kultur/tv/eltons-12-neue-rtl-samstagabendshow-produziert-von-raab-entertainment-a-e92fae41-db72-496b-ac97-6c98c02417e9#ref=rss)
-### macht
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-unternehmer-wuenschen-sich-mit-deutlicher-mehrheit-cdu-vorsitzenden-als-kanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-unternehmer-wuenschen-sich-mit-deutlicher-mehrheit-cdu-vorsitzenden-als-kanzler-a-298d3331-065e-4e68-bec8-2567d8aee0be#ref=rss)
-* [https://www.spiegel.de/kultur/taylor-swift-in-gelsenkirchen-so-laut-wie-bei-metallica](https://www.spiegel.de/kultur/taylor-swift-in-gelsenkirchen-so-laut-wie-bei-metallica-a-6b284ac3-60c1-40e9-b65c-cc8bdefdcefa#ref=rss)
-### frust
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-unternehmer-wuenschen-sich-mit-deutlicher-mehrheit-cdu-vorsitzenden-als-kanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-unternehmer-wuenschen-sich-mit-deutlicher-mehrheit-cdu-vorsitzenden-als-kanzler-a-298d3331-065e-4e68-bec8-2567d8aee0be#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-der-parteitag-der-republikaner-ein-durch-und-durch-furchtbarer-mensch](https://www.spiegel.de/ausland/donald-trump-und-der-parteitag-der-republikaner-ein-durch-und-durch-furchtbarer-mensch-a-72b8ceb7-bc64-4c10-bbd3-d9c55cb498c7#ref=rss)
-### arbeit
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-unternehmer-wuenschen-sich-mit-deutlicher-mehrheit-cdu-vorsitzenden-als-kanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-unternehmer-wuenschen-sich-mit-deutlicher-mehrheit-cdu-vorsitzenden-als-kanzler-a-298d3331-065e-4e68-bec8-2567d8aee0be#ref=rss)
-* [https://www.spiegel.de/start/generationenkonflikte-im-job-was-koennen-millennials-bei-der-arbeit-von-der-gen-z-lernen](https://www.spiegel.de/start/generationenkonflikte-im-job-was-koennen-millennials-bei-der-arbeit-von-der-gen-z-lernen-a-5214b0bf-259e-49d5-aaf6-039baf9931e2#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-unternehmer-wuenschen-sich-mit-deutlicher-mehrheit-cdu-vorsitzenden-als-kanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-unternehmer-wuenschen-sich-mit-deutlicher-mehrheit-cdu-vorsitzenden-als-kanzler-a-298d3331-065e-4e68-bec8-2567d8aee0be#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/bundesverfassungsgericht-lehnt-beschwerden-ab-yoga-zentrum-muss-mindestlohn-zahlen](https://www.spiegel.de/wirtschaft/soziales/bundesverfassungsgericht-lehnt-beschwerden-ab-yoga-zentrum-muss-mindestlohn-zahlen-a-77694036-bc54-439e-80fc-59e9fc5638f5#ref=rss)
-### fallen
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-unternehmer-wuenschen-sich-mit-deutlicher-mehrheit-cdu-vorsitzenden-als-kanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-unternehmer-wuenschen-sich-mit-deutlicher-mehrheit-cdu-vorsitzenden-als-kanzler-a-298d3331-065e-4e68-bec8-2567d8aee0be#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-strecke-bei-duisburg-bis-august-gesperrt-ausfaelle-und-ice-umleitungen](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-strecke-bei-duisburg-bis-august-gesperrt-ausfaelle-und-ice-umleitungen-a-31f60e09-629e-4840-bef8-d81bd917de0b#ref=rss)
-### job
-
-* [https://www.spiegel.de/start/generationenkonflikte-im-job-was-koennen-millennials-bei-der-arbeit-von-der-gen-z-lernen](https://www.spiegel.de/start/generationenkonflikte-im-job-was-koennen-millennials-bei-der-arbeit-von-der-gen-z-lernen-a-5214b0bf-259e-49d5-aaf6-039baf9931e2#ref=rss)
-* [https://www.spiegel.de/ausland/ursula-von-der-leyen-will-verteidigung-der-eu-staerken](https://www.spiegel.de/ausland/ursula-von-der-leyen-will-verteidigung-der-eu-staerken-a-d2c091c2-b7f2-4a8d-920e-55aaf6ea9392#ref=rss)
-### millennials
-
-* [https://www.spiegel.de/start/generationenkonflikte-im-job-was-koennen-millennials-bei-der-arbeit-von-der-gen-z-lernen](https://www.spiegel.de/start/generationenkonflikte-im-job-was-koennen-millennials-bei-der-arbeit-von-der-gen-z-lernen-a-5214b0bf-259e-49d5-aaf6-039baf9931e2#ref=rss)
-### gen
-
-* [https://www.spiegel.de/start/generationenkonflikte-im-job-was-koennen-millennials-bei-der-arbeit-von-der-gen-z-lernen](https://www.spiegel.de/start/generationenkonflikte-im-job-was-koennen-millennials-bei-der-arbeit-von-der-gen-z-lernen-a-5214b0bf-259e-49d5-aaf6-039baf9931e2#ref=rss)
-### z
-
-* [https://www.spiegel.de/start/generationenkonflikte-im-job-was-koennen-millennials-bei-der-arbeit-von-der-gen-z-lernen](https://www.spiegel.de/start/generationenkonflikte-im-job-was-koennen-millennials-bei-der-arbeit-von-der-gen-z-lernen-a-5214b0bf-259e-49d5-aaf6-039baf9931e2#ref=rss)
-### texte
-
-* [https://www.spiegel.de/start/generationenkonflikte-im-job-was-koennen-millennials-bei-der-arbeit-von-der-gen-z-lernen](https://www.spiegel.de/start/generationenkonflikte-im-job-was-koennen-millennials-bei-der-arbeit-von-der-gen-z-lernen-a-5214b0bf-259e-49d5-aaf6-039baf9931e2#ref=rss)
-* [https://www.spiegel.de/kultur/musik/finch-rapper-reichte-songtext-in-der-schule-ein-bekam-note-eins](https://www.spiegel.de/kultur/musik/finch-rapper-reichte-songtext-in-der-schule-ein-bekam-note-eins-a-7ecf785d-1695-4688-b61c-3b6ac6e2622f#ref=rss)
-### verband
-
-* [https://www.spiegel.de/politik/deutschland/donald-trump-republikaner-tragen-einen-verband-als-zeichen-der-verehrung](https://www.spiegel.de/politik/deutschland/donald-trump-republikaner-tragen-einen-verband-als-zeichen-der-verehrung-a-7dbc86b9-3fe8-4eaf-a508-aa7565b6f741#ref=rss)
-### olympia
-
-* [https://www.spiegel.de/sport/olympia/olympia-2024-toni-kroos-wirbt-fuer-alexander-zverev-als-deutschen-fahnentraeger](https://www.spiegel.de/sport/olympia/olympia-2024-toni-kroos-wirbt-fuer-alexander-zverev-als-deutschen-fahnentraeger-a-a973d1b7-b2d0-40e2-b517-78ed49b69afc#ref=rss)
-### toni
-
-* [https://www.spiegel.de/sport/olympia/olympia-2024-toni-kroos-wirbt-fuer-alexander-zverev-als-deutschen-fahnentraeger](https://www.spiegel.de/sport/olympia/olympia-2024-toni-kroos-wirbt-fuer-alexander-zverev-als-deutschen-fahnentraeger-a-a973d1b7-b2d0-40e2-b517-78ed49b69afc#ref=rss)
-### kroos
-
-* [https://www.spiegel.de/sport/olympia/olympia-2024-toni-kroos-wirbt-fuer-alexander-zverev-als-deutschen-fahnentraeger](https://www.spiegel.de/sport/olympia/olympia-2024-toni-kroos-wirbt-fuer-alexander-zverev-als-deutschen-fahnentraeger-a-a973d1b7-b2d0-40e2-b517-78ed49b69afc#ref=rss)
-### alexander
-
-* [https://www.spiegel.de/sport/olympia/olympia-2024-toni-kroos-wirbt-fuer-alexander-zverev-als-deutschen-fahnentraeger](https://www.spiegel.de/sport/olympia/olympia-2024-toni-kroos-wirbt-fuer-alexander-zverev-als-deutschen-fahnentraeger-a-a973d1b7-b2d0-40e2-b517-78ed49b69afc#ref=rss)
-### zverev
-
-* [https://www.spiegel.de/sport/olympia/olympia-2024-toni-kroos-wirbt-fuer-alexander-zverev-als-deutschen-fahnentraeger](https://www.spiegel.de/sport/olympia/olympia-2024-toni-kroos-wirbt-fuer-alexander-zverev-als-deutschen-fahnentraeger-a-a973d1b7-b2d0-40e2-b517-78ed49b69afc#ref=rss)
-### fahnenträger
-
-* [https://www.spiegel.de/sport/olympia/olympia-2024-toni-kroos-wirbt-fuer-alexander-zverev-als-deutschen-fahnentraeger](https://www.spiegel.de/sport/olympia/olympia-2024-toni-kroos-wirbt-fuer-alexander-zverev-als-deutschen-fahnentraeger-a-a973d1b7-b2d0-40e2-b517-78ed49b69afc#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/sport/olympia/olympia-2024-toni-kroos-wirbt-fuer-alexander-zverev-als-deutschen-fahnentraeger](https://www.spiegel.de/sport/olympia/olympia-2024-toni-kroos-wirbt-fuer-alexander-zverev-als-deutschen-fahnentraeger-a-a973d1b7-b2d0-40e2-b517-78ed49b69afc#ref=rss)
-* [https://www.spiegel.de/sport/fussball/cavan-sullivan-14-jaehriger-fussballer-in-den-usa-gibt-profi-debuet](https://www.spiegel.de/sport/fussball/cavan-sullivan-14-jaehriger-fussballer-in-den-usa-gibt-profi-debuet-a-9d884a35-eea5-4e1e-899f-032eb5c4736a#ref=rss)
-### escooter
-
-* [https://www.spiegel.de/auto/e-scooter-so-gefaehrlich-ist-die-alkoholfahrt-und-das-kostet-es](https://www.spiegel.de/auto/e-scooter-so-gefaehrlich-ist-die-alkoholfahrt-und-das-kostet-es-a-7c94e473-c17c-4046-8faa-fc264b81d272#ref=rss)
-### fahrt
-
-* [https://www.spiegel.de/auto/e-scooter-so-gefaehrlich-ist-die-alkoholfahrt-und-das-kostet-es](https://www.spiegel.de/auto/e-scooter-so-gefaehrlich-ist-die-alkoholfahrt-und-das-kostet-es-a-7c94e473-c17c-4046-8faa-fc264b81d272#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-ice-nach-stuttgart-nachts-in-ludwigshafen-evakuiert](https://www.spiegel.de/panorama/deutsche-bahn-ice-nach-stuttgart-nachts-in-ludwigshafen-evakuiert-a-76e72c64-f419-4823-a290-6098580ab26c#ref=rss)
-### dazu
-
-* [https://www.spiegel.de/auto/e-scooter-so-gefaehrlich-ist-die-alkoholfahrt-und-das-kostet-es](https://www.spiegel.de/auto/e-scooter-so-gefaehrlich-ist-die-alkoholfahrt-und-das-kostet-es-a-7c94e473-c17c-4046-8faa-fc264b81d272#ref=rss)
-* [https://www.spiegel.de/kultur/nordrhein-westfalen-kulturfoerderung-nur-bei-mindesthonorar-fuer-kuenstler](https://www.spiegel.de/kultur/nordrhein-westfalen-kulturfoerderung-nur-bei-mindesthonorar-fuer-kuenstler-a-6139475e-2199-4ac8-9408-7f32dcf9b769#ref=rss)
-### hagen
-
-* [https://www.spiegel.de/panorama/hagen-neunjaehriger-am-steuer-zwei-autos-beim-ausparken-beschaedigt](https://www.spiegel.de/panorama/hagen-neunjaehriger-am-steuer-zwei-autos-beim-ausparken-beschaedigt-a-a5ffa03b-72b0-4301-ad96-3ba3635d5018#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/hagen-neunjaehriger-am-steuer-zwei-autos-beim-ausparken-beschaedigt](https://www.spiegel.de/panorama/hagen-neunjaehriger-am-steuer-zwei-autos-beim-ausparken-beschaedigt-a-a5ffa03b-72b0-4301-ad96-3ba3635d5018#ref=rss)
-### manny
-
-* [https://www.spiegel.de/kultur/kino/the-acolyte-star-manny-jacinto-spricht-ueber-seine-rausgeschnittenen-top-gun-szenen](https://www.spiegel.de/kultur/kino/the-acolyte-star-manny-jacinto-spricht-ueber-seine-rausgeschnittenen-top-gun-szenen-a-76516ecb-e755-445a-8d6a-f0d378c914d0#ref=rss)
-### jacinto
-
-* [https://www.spiegel.de/kultur/kino/the-acolyte-star-manny-jacinto-spricht-ueber-seine-rausgeschnittenen-top-gun-szenen](https://www.spiegel.de/kultur/kino/the-acolyte-star-manny-jacinto-spricht-ueber-seine-rausgeschnittenen-top-gun-szenen-a-76516ecb-e755-445a-8d6a-f0d378c914d0#ref=rss)
-### spinnen
-
-* [https://www.spiegel.de/psychologie/spinnen-warum-sie-den-tod-nicht-verdient-haben-tipps-von-mark-benecke](https://www.spiegel.de/psychologie/spinnen-warum-sie-den-tod-nicht-verdient-haben-tipps-von-mark-benecke-a-55e339a9-2b85-4be7-9853-8fba8db0a4ee#ref=rss)
-### tod
-
-* [https://www.spiegel.de/psychologie/spinnen-warum-sie-den-tod-nicht-verdient-haben-tipps-von-mark-benecke](https://www.spiegel.de/psychologie/spinnen-warum-sie-den-tod-nicht-verdient-haben-tipps-von-mark-benecke-a-55e339a9-2b85-4be7-9853-8fba8db0a4ee#ref=rss)
-* [https://www.spiegel.de/panorama/wohnungsbrand-in-nizza-behoerden-ermitteln-nach-dem-tod-von-sieben-menschen-wegen-verdachts-auf-brandstiftung](https://www.spiegel.de/panorama/wohnungsbrand-in-nizza-behoerden-ermitteln-nach-dem-tod-von-sieben-menschen-wegen-verdachts-auf-brandstiftung-a-1bde3a0d-663a-4c7f-92e8-a809dc2cb11b#ref=rss)
-### tipps
-
-* [https://www.spiegel.de/psychologie/spinnen-warum-sie-den-tod-nicht-verdient-haben-tipps-von-mark-benecke](https://www.spiegel.de/psychologie/spinnen-warum-sie-den-tod-nicht-verdient-haben-tipps-von-mark-benecke-a-55e339a9-2b85-4be7-9853-8fba8db0a4ee#ref=rss)
-* [https://www.spiegel.de/kultur/musik/finch-rapper-reichte-songtext-in-der-schule-ein-bekam-note-eins](https://www.spiegel.de/kultur/musik/finch-rapper-reichte-songtext-in-der-schule-ein-bekam-note-eins-a-7ecf785d-1695-4688-b61c-3b6ac6e2622f#ref=rss)
-### mark
-
-* [https://www.spiegel.de/psychologie/spinnen-warum-sie-den-tod-nicht-verdient-haben-tipps-von-mark-benecke](https://www.spiegel.de/psychologie/spinnen-warum-sie-den-tod-nicht-verdient-haben-tipps-von-mark-benecke-a-55e339a9-2b85-4be7-9853-8fba8db0a4ee#ref=rss)
-### benecke
-
-* [https://www.spiegel.de/psychologie/spinnen-warum-sie-den-tod-nicht-verdient-haben-tipps-von-mark-benecke](https://www.spiegel.de/psychologie/spinnen-warum-sie-den-tod-nicht-verdient-haben-tipps-von-mark-benecke-a-55e339a9-2b85-4be7-9853-8fba8db0a4ee#ref=rss)
-### cavan
-
-* [https://www.spiegel.de/sport/fussball/cavan-sullivan-14-jaehriger-fussballer-in-den-usa-gibt-profi-debuet](https://www.spiegel.de/sport/fussball/cavan-sullivan-14-jaehriger-fussballer-in-den-usa-gibt-profi-debuet-a-9d884a35-eea5-4e1e-899f-032eb5c4736a#ref=rss)
-### sullivan
-
-* [https://www.spiegel.de/sport/fussball/cavan-sullivan-14-jaehriger-fussballer-in-den-usa-gibt-profi-debuet](https://www.spiegel.de/sport/fussball/cavan-sullivan-14-jaehriger-fussballer-in-den-usa-gibt-profi-debuet-a-9d884a35-eea5-4e1e-899f-032eb5c4736a#ref=rss)
-### usa
-
-* [https://www.spiegel.de/sport/fussball/cavan-sullivan-14-jaehriger-fussballer-in-den-usa-gibt-profi-debuet](https://www.spiegel.de/sport/fussball/cavan-sullivan-14-jaehriger-fussballer-in-den-usa-gibt-profi-debuet-a-9d884a35-eea5-4e1e-899f-032eb5c4736a#ref=rss)
-* [https://www.spiegel.de/kultur/musik/lee-greenwoods-god-bless-the-u-s-a-wie-donald-trump-das-lied-nutzt](https://www.spiegel.de/kultur/musik/lee-greenwoods-god-bless-the-u-s-a-wie-donald-trump-das-lied-nutzt-a-58d4f772-145c-4670-8a25-f3ec9eca4cae#ref=rss)
-### literaturnobelpreisträgerin
-
-* [https://www.spiegel.de/kultur/literatur/literaturnobelpreistraegerin-alice-munro-luege-verrat-missbrauch-aller-art](https://www.spiegel.de/kultur/literatur/literaturnobelpreistraegerin-alice-munro-luege-verrat-missbrauch-aller-art-a-5b6e4807-fb41-4ee0-b51a-882217dfb04d#ref=rss)
-### alice
-
-* [https://www.spiegel.de/kultur/literatur/literaturnobelpreistraegerin-alice-munro-luege-verrat-missbrauch-aller-art](https://www.spiegel.de/kultur/literatur/literaturnobelpreistraegerin-alice-munro-luege-verrat-missbrauch-aller-art-a-5b6e4807-fb41-4ee0-b51a-882217dfb04d#ref=rss)
-### munro
-
-* [https://www.spiegel.de/kultur/literatur/literaturnobelpreistraegerin-alice-munro-luege-verrat-missbrauch-aller-art](https://www.spiegel.de/kultur/literatur/literaturnobelpreistraegerin-alice-munro-luege-verrat-missbrauch-aller-art-a-5b6e4807-fb41-4ee0-b51a-882217dfb04d#ref=rss)
-### hansi
-
-* [https://www.spiegel.de/sport/fussball/fussball-transfers-hansi-flick-holt-thiago-alcantara-zum-fc-barcelona](https://www.spiegel.de/sport/fussball/fussball-transfers-hansi-flick-holt-thiago-alcantara-zum-fc-barcelona-a-77f43dcc-ef7b-48ec-b3c6-db36cfa105a5#ref=rss)
-### flick
-
-* [https://www.spiegel.de/sport/fussball/fussball-transfers-hansi-flick-holt-thiago-alcantara-zum-fc-barcelona](https://www.spiegel.de/sport/fussball/fussball-transfers-hansi-flick-holt-thiago-alcantara-zum-fc-barcelona-a-77f43dcc-ef7b-48ec-b3c6-db36cfa105a5#ref=rss)
-### schulen
-
-* [https://www.spiegel.de/panorama/bildung/bayern-schulen-und-unis-muessen-mit-bundeswehr-kooperieren](https://www.spiegel.de/panorama/bildung/bayern-schulen-und-unis-muessen-mit-bundeswehr-kooperieren-a-26435573-6968-4bcb-b96a-c09ebeb05606#ref=rss)
-### trumps
-
-* [https://www.spiegel.de/ausland/us-wahlkampf-donald-trumps-vize-j-d-vance-haelt-parteitagsrede](https://www.spiegel.de/ausland/us-wahlkampf-donald-trumps-vize-j-d-vance-haelt-parteitagsrede-a-8b64fae2-0eca-42cc-9ba2-967935629cf8#ref=rss)
-### vize
-
-* [https://www.spiegel.de/ausland/us-wahlkampf-donald-trumps-vize-j-d-vance-haelt-parteitagsrede](https://www.spiegel.de/ausland/us-wahlkampf-donald-trumps-vize-j-d-vance-haelt-parteitagsrede-a-8b64fae2-0eca-42cc-9ba2-967935629cf8#ref=rss)
+* [https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner](https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-a-ef586402-5e18-4787-a495-4e7ffbc8f5a5#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-attentat-die-grafikanalyse-des-tathergangs-und-die-verschiedenen-perspektiven](https://www.spiegel.de/ausland/donald-trump-attentat-die-grafikanalyse-des-tathergangs-und-die-verschiedenen-perspektiven-a-52d62f3e-b943-417f-9ee8-4e26cb1e22cf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-coronavirus-jan-redmann](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-coronavirus-jan-redmann-a-1005f559-d1fc-4771-b903-b7d0456d2201#ref=rss)
+* [https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-podcast](https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-podcast-a-d0c4ff83-58a1-4469-9e34-8233a823c41a#ref=rss)
+* [https://www.spiegel.de/deinspiegel/basketball-deutschland-star-satou-sabally-ueber-olympia-karriere-einhoerner-und-donald-trump-das-haerteste-spiel-das-ich-je-gespielt-habe](https://www.spiegel.de/deinspiegel/basketball-deutschland-star-satou-sabally-ueber-olympia-karriere-einhoerner-und-donald-trump-das-haerteste-spiel-das-ich-je-gespielt-habe-a-21f0ce7d-29f6-441b-ab60-268802ccd644#ref=rss)
+* [https://www.spiegel.de/ausland/thomas-matthew-crooks-der-mann-der-donald-trump-toeten-wollte](https://www.spiegel.de/ausland/thomas-matthew-crooks-der-mann-der-donald-trump-toeten-wollte-a-ac030d91-560a-4463-be0e-4ee89601bc5a#ref=rss)
 ### jd
 
-* [https://www.spiegel.de/ausland/us-wahlkampf-donald-trumps-vize-j-d-vance-haelt-parteitagsrede](https://www.spiegel.de/ausland/us-wahlkampf-donald-trumps-vize-j-d-vance-haelt-parteitagsrede-a-8b64fae2-0eca-42cc-9ba2-967935629cf8#ref=rss)
+* [https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner](https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-a-ef586402-5e18-4787-a495-4e7ffbc8f5a5#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahlkampf-enttaeuschung-ueber-donald-trumps-vize-j-d-vance](https://www.spiegel.de/ausland/us-wahlkampf-enttaeuschung-ueber-donald-trumps-vize-j-d-vance-a-4daec5c1-afdd-45ef-8f47-bdd30256d43a#ref=rss)
+* [https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-podcast](https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-podcast-a-d0c4ff83-58a1-4469-9e34-8233a823c41a#ref=rss)
 ### vance
 
-* [https://www.spiegel.de/ausland/us-wahlkampf-donald-trumps-vize-j-d-vance-haelt-parteitagsrede](https://www.spiegel.de/ausland/us-wahlkampf-donald-trumps-vize-j-d-vance-haelt-parteitagsrede-a-8b64fae2-0eca-42cc-9ba2-967935629cf8#ref=rss)
-### nordrheinwestfalen
+* [https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner](https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-a-ef586402-5e18-4787-a495-4e7ffbc8f5a5#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahlkampf-enttaeuschung-ueber-donald-trumps-vize-j-d-vance](https://www.spiegel.de/ausland/us-wahlkampf-enttaeuschung-ueber-donald-trumps-vize-j-d-vance-a-4daec5c1-afdd-45ef-8f47-bdd30256d43a#ref=rss)
+* [https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-podcast](https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-podcast-a-d0c4ff83-58a1-4469-9e34-8233a823c41a#ref=rss)
+### republikaner
 
-* [https://www.spiegel.de/kultur/nordrhein-westfalen-kulturfoerderung-nur-bei-mindesthonorar-fuer-kuenstler](https://www.spiegel.de/kultur/nordrhein-westfalen-kulturfoerderung-nur-bei-mindesthonorar-fuer-kuenstler-a-6139475e-2199-4ac8-9408-7f32dcf9b769#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/bundesverfassungsgericht-lehnt-beschwerden-ab-yoga-zentrum-muss-mindestlohn-zahlen](https://www.spiegel.de/wirtschaft/soziales/bundesverfassungsgericht-lehnt-beschwerden-ab-yoga-zentrum-muss-mindestlohn-zahlen-a-77694036-bc54-439e-80fc-59e9fc5638f5#ref=rss)
-### künstler
+* [https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner](https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-a-ef586402-5e18-4787-a495-4e7ffbc8f5a5#ref=rss)
+* [https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-podcast](https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-podcast-a-d0c4ff83-58a1-4469-9e34-8233a823c41a#ref=rss)
+### jan
 
-* [https://www.spiegel.de/kultur/nordrhein-westfalen-kulturfoerderung-nur-bei-mindesthonorar-fuer-kuenstler](https://www.spiegel.de/kultur/nordrhein-westfalen-kulturfoerderung-nur-bei-mindesthonorar-fuer-kuenstler-a-6139475e-2199-4ac8-9408-7f32dcf9b769#ref=rss)
-### nizza
-
-* [https://www.spiegel.de/panorama/wohnungsbrand-in-nizza-behoerden-ermitteln-nach-dem-tod-von-sieben-menschen-wegen-verdachts-auf-brandstiftung](https://www.spiegel.de/panorama/wohnungsbrand-in-nizza-behoerden-ermitteln-nach-dem-tod-von-sieben-menschen-wegen-verdachts-auf-brandstiftung-a-1bde3a0d-663a-4c7f-92e8-a809dc2cb11b#ref=rss)
-### sieben
-
-* [https://www.spiegel.de/panorama/wohnungsbrand-in-nizza-behoerden-ermitteln-nach-dem-tod-von-sieben-menschen-wegen-verdachts-auf-brandstiftung](https://www.spiegel.de/panorama/wohnungsbrand-in-nizza-behoerden-ermitteln-nach-dem-tod-von-sieben-menschen-wegen-verdachts-auf-brandstiftung-a-1bde3a0d-663a-4c7f-92e8-a809dc2cb11b#ref=rss)
-### mitten
-
-* [https://www.spiegel.de/panorama/wohnungsbrand-in-nizza-behoerden-ermitteln-nach-dem-tod-von-sieben-menschen-wegen-verdachts-auf-brandstiftung](https://www.spiegel.de/panorama/wohnungsbrand-in-nizza-behoerden-ermitteln-nach-dem-tod-von-sieben-menschen-wegen-verdachts-auf-brandstiftung-a-1bde3a0d-663a-4c7f-92e8-a809dc2cb11b#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-ice-nach-stuttgart-nachts-in-ludwigshafen-evakuiert](https://www.spiegel.de/panorama/deutsche-bahn-ice-nach-stuttgart-nachts-in-ludwigshafen-evakuiert-a-76e72c64-f419-4823-a290-6098580ab26c#ref=rss)
-### nacht
-
-* [https://www.spiegel.de/panorama/wohnungsbrand-in-nizza-behoerden-ermitteln-nach-dem-tod-von-sieben-menschen-wegen-verdachts-auf-brandstiftung](https://www.spiegel.de/panorama/wohnungsbrand-in-nizza-behoerden-ermitteln-nach-dem-tod-von-sieben-menschen-wegen-verdachts-auf-brandstiftung-a-1bde3a0d-663a-4c7f-92e8-a809dc2cb11b#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-ice-nach-stuttgart-nachts-in-ludwigshafen-evakuiert](https://www.spiegel.de/panorama/deutsche-bahn-ice-nach-stuttgart-nachts-in-ludwigshafen-evakuiert-a-76e72c64-f419-4823-a290-6098580ab26c#ref=rss)
-### yoga
-
-* [https://www.spiegel.de/wirtschaft/soziales/bundesverfassungsgericht-lehnt-beschwerden-ab-yoga-zentrum-muss-mindestlohn-zahlen](https://www.spiegel.de/wirtschaft/soziales/bundesverfassungsgericht-lehnt-beschwerden-ab-yoga-zentrum-muss-mindestlohn-zahlen-a-77694036-bc54-439e-80fc-59e9fc5638f5#ref=rss)
-### lee
-
-* [https://www.spiegel.de/kultur/musik/lee-greenwoods-god-bless-the-u-s-a-wie-donald-trump-das-lied-nutzt](https://www.spiegel.de/kultur/musik/lee-greenwoods-god-bless-the-u-s-a-wie-donald-trump-das-lied-nutzt-a-58d4f772-145c-4670-8a25-f3ec9eca4cae#ref=rss)
-### god
-
-* [https://www.spiegel.de/kultur/musik/lee-greenwoods-god-bless-the-u-s-a-wie-donald-trump-das-lied-nutzt](https://www.spiegel.de/kultur/musik/lee-greenwoods-god-bless-the-u-s-a-wie-donald-trump-das-lied-nutzt-a-58d4f772-145c-4670-8a25-f3ec9eca4cae#ref=rss)
-### bless
-
-* [https://www.spiegel.de/kultur/musik/lee-greenwoods-god-bless-the-u-s-a-wie-donald-trump-das-lied-nutzt](https://www.spiegel.de/kultur/musik/lee-greenwoods-god-bless-the-u-s-a-wie-donald-trump-das-lied-nutzt-a-58d4f772-145c-4670-8a25-f3ec9eca4cae#ref=rss)
-### taylor
-
-* [https://www.spiegel.de/kultur/taylor-swift-in-gelsenkirchen-so-laut-wie-bei-metallica](https://www.spiegel.de/kultur/taylor-swift-in-gelsenkirchen-so-laut-wie-bei-metallica-a-6b284ac3-60c1-40e9-b65c-cc8bdefdcefa#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-strecke-bei-duisburg-bis-august-gesperrt-ausfaelle-und-ice-umleitungen](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-strecke-bei-duisburg-bis-august-gesperrt-ausfaelle-und-ice-umleitungen-a-31f60e09-629e-4840-bef8-d81bd917de0b#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-ice-nach-stuttgart-nachts-in-ludwigshafen-evakuiert](https://www.spiegel.de/panorama/deutsche-bahn-ice-nach-stuttgart-nachts-in-ludwigshafen-evakuiert-a-76e72c64-f419-4823-a290-6098580ab26c#ref=rss)
-### duisburg
-
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-strecke-bei-duisburg-bis-august-gesperrt-ausfaelle-und-ice-umleitungen](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-strecke-bei-duisburg-bis-august-gesperrt-ausfaelle-und-ice-umleitungen-a-31f60e09-629e-4840-bef8-d81bd917de0b#ref=rss)
-### august
-
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-strecke-bei-duisburg-bis-august-gesperrt-ausfaelle-und-ice-umleitungen](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-strecke-bei-duisburg-bis-august-gesperrt-ausfaelle-und-ice-umleitungen-a-31f60e09-629e-4840-bef8-d81bd917de0b#ref=rss)
-### gesperrt
-
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-strecke-bei-duisburg-bis-august-gesperrt-ausfaelle-und-ice-umleitungen](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-strecke-bei-duisburg-bis-august-gesperrt-ausfaelle-und-ice-umleitungen-a-31f60e09-629e-4840-bef8-d81bd917de0b#ref=rss)
-### stimmen
-
-* [https://www.spiegel.de/ausland/donald-trump-und-der-parteitag-der-republikaner-ein-durch-und-durch-furchtbarer-mensch](https://www.spiegel.de/ausland/donald-trump-und-der-parteitag-der-republikaner-ein-durch-und-durch-furchtbarer-mensch-a-72b8ceb7-bc64-4c10-bbd3-d9c55cb498c7#ref=rss)
-* [https://www.spiegel.de/ausland/ursula-von-der-leyen-will-verteidigung-der-eu-staerken](https://www.spiegel.de/ausland/ursula-von-der-leyen-will-verteidigung-der-eu-staerken-a-d2c091c2-b7f2-4a8d-920e-55aaf6ea9392#ref=rss)
-### pompeji
-
-* [https://www.spiegel.de/wissenschaft/mensch/pompeji-erdbeben-erschuetterte-stadt-zeitlich-zu-vulkanausbruch](https://www.spiegel.de/wissenschaft/mensch/pompeji-erdbeben-erschuetterte-stadt-zeitlich-zu-vulkanausbruch-a-fd736aa6-9486-4ae7-b1f0-e02195f6e6ae#ref=rss)
-### erdbeben
-
-* [https://www.spiegel.de/wissenschaft/mensch/pompeji-erdbeben-erschuetterte-stadt-zeitlich-zu-vulkanausbruch](https://www.spiegel.de/wissenschaft/mensch/pompeji-erdbeben-erschuetterte-stadt-zeitlich-zu-vulkanausbruch-a-fd736aa6-9486-4ae7-b1f0-e02195f6e6ae#ref=rss)
-### stadt
-
-* [https://www.spiegel.de/wissenschaft/mensch/pompeji-erdbeben-erschuetterte-stadt-zeitlich-zu-vulkanausbruch](https://www.spiegel.de/wissenschaft/mensch/pompeji-erdbeben-erschuetterte-stadt-zeitlich-zu-vulkanausbruch-a-fd736aa6-9486-4ae7-b1f0-e02195f6e6ae#ref=rss)
-### vulkanausbruch
-
-* [https://www.spiegel.de/wissenschaft/mensch/pompeji-erdbeben-erschuetterte-stadt-zeitlich-zu-vulkanausbruch](https://www.spiegel.de/wissenschaft/mensch/pompeji-erdbeben-erschuetterte-stadt-zeitlich-zu-vulkanausbruch-a-fd736aa6-9486-4ae7-b1f0-e02195f6e6ae#ref=rss)
-### finch
-
-* [https://www.spiegel.de/kultur/musik/finch-rapper-reichte-songtext-in-der-schule-ein-bekam-note-eins](https://www.spiegel.de/kultur/musik/finch-rapper-reichte-songtext-in-der-schule-ein-bekam-note-eins-a-7ecf785d-1695-4688-b61c-3b6ac6e2622f#ref=rss)
-### rapper
-
-* [https://www.spiegel.de/kultur/musik/finch-rapper-reichte-songtext-in-der-schule-ein-bekam-note-eins](https://www.spiegel.de/kultur/musik/finch-rapper-reichte-songtext-in-der-schule-ein-bekam-note-eins-a-7ecf785d-1695-4688-b61c-3b6ac6e2622f#ref=rss)
-### ice
-
-* [https://www.spiegel.de/panorama/deutsche-bahn-ice-nach-stuttgart-nachts-in-ludwigshafen-evakuiert](https://www.spiegel.de/panorama/deutsche-bahn-ice-nach-stuttgart-nachts-in-ludwigshafen-evakuiert-a-76e72c64-f419-4823-a290-6098580ab26c#ref=rss)
-### stuttgart
-
-* [https://www.spiegel.de/panorama/deutsche-bahn-ice-nach-stuttgart-nachts-in-ludwigshafen-evakuiert](https://www.spiegel.de/panorama/deutsche-bahn-ice-nach-stuttgart-nachts-in-ludwigshafen-evakuiert-a-76e72c64-f419-4823-a290-6098580ab26c#ref=rss)
-### ludwigshafen
-
-* [https://www.spiegel.de/panorama/deutsche-bahn-ice-nach-stuttgart-nachts-in-ludwigshafen-evakuiert](https://www.spiegel.de/panorama/deutsche-bahn-ice-nach-stuttgart-nachts-in-ludwigshafen-evakuiert-a-76e72c64-f419-4823-a290-6098580ab26c#ref=rss)
-### 2025
-
-* [https://www.spiegel.de/politik/bundeshaushalt-2025-tricks-und-luftbuchungen-ein-laienhaftes-staatsschauspiel](https://www.spiegel.de/politik/bundeshaushalt-2025-tricks-und-luftbuchungen-ein-laienhaftes-staatsschauspiel-a-5a085c33-f8c6-4f72-b1ef-eb4f7d94f041#ref=rss)
-### tricks
-
-* [https://www.spiegel.de/politik/bundeshaushalt-2025-tricks-und-luftbuchungen-ein-laienhaftes-staatsschauspiel](https://www.spiegel.de/politik/bundeshaushalt-2025-tricks-und-luftbuchungen-ein-laienhaftes-staatsschauspiel-a-5a085c33-f8c6-4f72-b1ef-eb4f7d94f041#ref=rss)
-### luftbuchungen
-
-* [https://www.spiegel.de/politik/bundeshaushalt-2025-tricks-und-luftbuchungen-ein-laienhaftes-staatsschauspiel](https://www.spiegel.de/politik/bundeshaushalt-2025-tricks-und-luftbuchungen-ein-laienhaftes-staatsschauspiel-a-5a085c33-f8c6-4f72-b1ef-eb4f7d94f041#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-coronavirus-jan-redmann](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-coronavirus-jan-redmann-a-1005f559-d1fc-4771-b903-b7d0456d2201#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/brandenburger-cdu-startet-wahlkampf-jan-redmann-umfaehrt-kritik](https://www.spiegel.de/politik/deutschland/brandenburger-cdu-startet-wahlkampf-jan-redmann-umfaehrt-kritik-a-099eabc9-43dc-4ab5-8f28-ccc7179a501b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/jan-boehmermann-unterliegt-vor-gericht-erneut-bei-streit-um-honig-werbung](https://www.spiegel.de/panorama/justiz/jan-boehmermann-unterliegt-vor-gericht-erneut-bei-streit-um-honig-werbung-a-9898d256-54f9-43e8-8595-adef930a4ad7#ref=rss)
 ### ursula
 
-* [https://www.spiegel.de/ausland/ursula-von-der-leyen-will-verteidigung-der-eu-staerken](https://www.spiegel.de/ausland/ursula-von-der-leyen-will-verteidigung-der-eu-staerken-a-d2c091c2-b7f2-4a8d-920e-55aaf6ea9392#ref=rss)
+* [https://www.spiegel.de/politik/ursula-von-der-leyen-bleibt-praesidentin-der-eu-kommission-die-wahl-der-vernunft](https://www.spiegel.de/politik/ursula-von-der-leyen-bleibt-praesidentin-der-eu-kommission-die-wahl-der-vernunft-a-88d14c9e-c744-45ec-9de8-00b1eff8f06b#ref=rss)
+* [https://www.spiegel.de/politik/ursula-von-der-leyen-gute-nachricht-fuer-europa-und-weitere-reaktionen-auf-wiederwahl](https://www.spiegel.de/politik/ursula-von-der-leyen-gute-nachricht-fuer-europa-und-weitere-reaktionen-auf-wiederwahl-a-68d22c2e-c4ba-4f29-a0e8-1b0711e29d20#ref=rss)
+### olympia
+
+* [https://www.spiegel.de/deinspiegel/basketball-deutschland-star-satou-sabally-ueber-olympia-karriere-einhoerner-und-donald-trump-das-haerteste-spiel-das-ich-je-gespielt-habe](https://www.spiegel.de/deinspiegel/basketball-deutschland-star-satou-sabally-ueber-olympia-karriere-einhoerner-und-donald-trump-das-haerteste-spiel-das-ich-je-gespielt-habe-a-21f0ce7d-29f6-441b-ab60-268802ccd644#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2024-australischer-hockeyspieler-matthew-dawson-laesst-sich-fingerspitze-amputieren](https://www.spiegel.de/sport/olympia/olympia-2024-australischer-hockeyspieler-matthew-dawson-laesst-sich-fingerspitze-amputieren-a-9ad133b9-6c34-49fc-901c-6c87001fec6f#ref=rss)
+### matthew
+
+* [https://www.spiegel.de/sport/olympia/olympia-2024-australischer-hockeyspieler-matthew-dawson-laesst-sich-fingerspitze-amputieren](https://www.spiegel.de/sport/olympia/olympia-2024-australischer-hockeyspieler-matthew-dawson-laesst-sich-fingerspitze-amputieren-a-9ad133b9-6c34-49fc-901c-6c87001fec6f#ref=rss)
+* [https://www.spiegel.de/ausland/thomas-matthew-crooks-der-mann-der-donald-trump-toeten-wollte](https://www.spiegel.de/ausland/thomas-matthew-crooks-der-mann-der-donald-trump-toeten-wollte-a-ac030d91-560a-4463-be0e-4ee89601bc5a#ref=rss)
+### biden
+
+* [https://www.spiegel.de/ausland/usa-barack-obama-verliert-vertrauen-in-joe-biden](https://www.spiegel.de/ausland/usa-barack-obama-verliert-vertrauen-in-joe-biden-a-9e48217e-a9aa-48c1-beba-2e4c19e0b657#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-coronavirus-jan-redmann](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-coronavirus-jan-redmann-a-1005f559-d1fc-4771-b903-b7d0456d2201#ref=rss)
+### wahlkampf
+
+* [https://www.spiegel.de/ausland/usa-barack-obama-verliert-vertrauen-in-joe-biden](https://www.spiegel.de/ausland/usa-barack-obama-verliert-vertrauen-in-joe-biden-a-9e48217e-a9aa-48c1-beba-2e4c19e0b657#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-coronavirus-jan-redmann](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-coronavirus-jan-redmann-a-1005f559-d1fc-4771-b903-b7d0456d2201#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/brandenburger-cdu-startet-wahlkampf-jan-redmann-umfaehrt-kritik](https://www.spiegel.de/politik/deutschland/brandenburger-cdu-startet-wahlkampf-jan-redmann-umfaehrt-kritik-a-099eabc9-43dc-4ab5-8f28-ccc7179a501b#ref=rss)
+### viele
+
+* [https://www.spiegel.de/wirtschaft/soziales/elterngeld-betriebe-leiden-nur-kurzfristig-unter-laengeren-elternzeiten](https://www.spiegel.de/wirtschaft/soziales/elterngeld-betriebe-leiden-nur-kurzfristig-unter-laengeren-elternzeiten-a-95dbec51-851f-40ac-9fa5-18d61287eec8#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahlkampf-enttaeuschung-ueber-donald-trumps-vize-j-d-vance](https://www.spiegel.de/ausland/us-wahlkampf-enttaeuschung-ueber-donald-trumps-vize-j-d-vance-a-4daec5c1-afdd-45ef-8f47-bdd30256d43a#ref=rss)
+* [https://www.spiegel.de/panorama/rechtsextremismus-die-lukrativen-spendengeschaefte-des-compact-magazins](https://www.spiegel.de/panorama/rechtsextremismus-die-lukrativen-spendengeschaefte-des-compact-magazins-a-6910c870-4899-48f0-91e6-2da69ab957ec#ref=rss)
+### attentat
+
+* [https://www.spiegel.de/ausland/donald-trump-attentat-die-grafikanalyse-des-tathergangs-und-die-verschiedenen-perspektiven](https://www.spiegel.de/ausland/donald-trump-attentat-die-grafikanalyse-des-tathergangs-und-die-verschiedenen-perspektiven-a-52d62f3e-b943-417f-9ee8-4e26cb1e22cf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-coronavirus-jan-redmann](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-coronavirus-jan-redmann-a-1005f559-d1fc-4771-b903-b7d0456d2201#ref=rss)
+### kommen
+
+* [https://www.spiegel.de/ausland/donald-trump-attentat-die-grafikanalyse-des-tathergangs-und-die-verschiedenen-perspektiven](https://www.spiegel.de/ausland/donald-trump-attentat-die-grafikanalyse-des-tathergangs-und-die-verschiedenen-perspektiven-a-52d62f3e-b943-417f-9ee8-4e26cb1e22cf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-coronavirus-jan-redmann](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-coronavirus-jan-redmann-a-1005f559-d1fc-4771-b903-b7d0456d2201#ref=rss)
+* [https://www.spiegel.de/auto/deutsche-bahn-gibt-puenktlichkeitsziel-fuer-2024-vorzeitig-auf](https://www.spiegel.de/auto/deutsche-bahn-gibt-puenktlichkeitsziel-fuer-2024-vorzeitig-auf-a-8b804ed1-35b7-403b-a985-b7c54c96b737#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/ausland/donald-trump-attentat-die-grafikanalyse-des-tathergangs-und-die-verschiedenen-perspektiven](https://www.spiegel.de/ausland/donald-trump-attentat-die-grafikanalyse-des-tathergangs-und-die-verschiedenen-perspektiven-a-52d62f3e-b943-417f-9ee8-4e26cb1e22cf#ref=rss)
+* [https://www.spiegel.de/auto/deutsche-bahn-gibt-puenktlichkeitsziel-fuer-2024-vorzeitig-auf](https://www.spiegel.de/auto/deutsche-bahn-gibt-puenktlichkeitsziel-fuer-2024-vorzeitig-auf-a-8b804ed1-35b7-403b-a985-b7c54c96b737#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-mehr-als-1000-straftaten-im-zusammenhang-mit-clankriminalitaet-erfasst](https://www.spiegel.de/panorama/justiz/berlin-mehr-als-1000-straftaten-im-zusammenhang-mit-clankriminalitaet-erfasst-a-cf2f7b46-1e4c-4658-bbeb-78fa46aff6ba#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/ausland/donald-trump-attentat-die-grafikanalyse-des-tathergangs-und-die-verschiedenen-perspektiven](https://www.spiegel.de/ausland/donald-trump-attentat-die-grafikanalyse-des-tathergangs-und-die-verschiedenen-perspektiven-a-52d62f3e-b943-417f-9ee8-4e26cb1e22cf#ref=rss)
+* [https://www.spiegel.de/panorama/rechtsextremismus-die-lukrativen-spendengeschaefte-des-compact-magazins](https://www.spiegel.de/panorama/rechtsextremismus-die-lukrativen-spendengeschaefte-des-compact-magazins-a-6910c870-4899-48f0-91e6-2da69ab957ec#ref=rss)
+* [https://www.spiegel.de/auto/deutsche-bahn-gibt-puenktlichkeitsziel-fuer-2024-vorzeitig-auf](https://www.spiegel.de/auto/deutsche-bahn-gibt-puenktlichkeitsziel-fuer-2024-vorzeitig-auf-a-8b804ed1-35b7-403b-a985-b7c54c96b737#ref=rss)
+### redmann
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-coronavirus-jan-redmann](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-coronavirus-jan-redmann-a-1005f559-d1fc-4771-b903-b7d0456d2201#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/brandenburger-cdu-startet-wahlkampf-jan-redmann-umfaehrt-kritik](https://www.spiegel.de/politik/deutschland/brandenburger-cdu-startet-wahlkampf-jan-redmann-umfaehrt-kritik-a-099eabc9-43dc-4ab5-8f28-ccc7179a501b#ref=rss)
+### crooks
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-coronavirus-jan-redmann](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-coronavirus-jan-redmann-a-1005f559-d1fc-4771-b903-b7d0456d2201#ref=rss)
+* [https://www.spiegel.de/ausland/thomas-matthew-crooks-der-mann-der-donald-trump-toeten-wollte](https://www.spiegel.de/ausland/thomas-matthew-crooks-der-mann-der-donald-trump-toeten-wollte-a-ac030d91-560a-4463-be0e-4ee89601bc5a#ref=rss)
 ### leyen
 
-* [https://www.spiegel.de/ausland/ursula-von-der-leyen-will-verteidigung-der-eu-staerken](https://www.spiegel.de/ausland/ursula-von-der-leyen-will-verteidigung-der-eu-staerken-a-d2c091c2-b7f2-4a8d-920e-55aaf6ea9392#ref=rss)
+* [https://www.spiegel.de/politik/ursula-von-der-leyen-bleibt-praesidentin-der-eu-kommission-die-wahl-der-vernunft](https://www.spiegel.de/politik/ursula-von-der-leyen-bleibt-praesidentin-der-eu-kommission-die-wahl-der-vernunft-a-88d14c9e-c744-45ec-9de8-00b1eff8f06b#ref=rss)
+* [https://www.spiegel.de/politik/ursula-von-der-leyen-gute-nachricht-fuer-europa-und-weitere-reaktionen-auf-wiederwahl](https://www.spiegel.de/politik/ursula-von-der-leyen-gute-nachricht-fuer-europa-und-weitere-reaktionen-auf-wiederwahl-a-68d22c2e-c4ba-4f29-a0e8-1b0711e29d20#ref=rss)
+### töten
+
+* [https://www.spiegel.de/panorama/italien-provinzregierung-von-trentino-will-baeren-mutter-nach-attacke-auf-jogger-toeten-lassen](https://www.spiegel.de/panorama/italien-provinzregierung-von-trentino-will-baeren-mutter-nach-attacke-auf-jogger-toeten-lassen-a-0aa3fd2f-bb43-440f-8996-4565bb8f9788#ref=rss)
+* [https://www.spiegel.de/ausland/thomas-matthew-crooks-der-mann-der-donald-trump-toeten-wollte](https://www.spiegel.de/ausland/thomas-matthew-crooks-der-mann-der-donald-trump-toeten-wollte-a-ac030d91-560a-4463-be0e-4ee89601bc5a#ref=rss)
+### funktioniert
+
+* [https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner](https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-a-ef586402-5e18-4787-a495-4e7ffbc8f5a5#ref=rss)
+* [https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-podcast](https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-podcast-a-d0c4ff83-58a1-4469-9e34-8233a823c41a#ref=rss)
+### machtmaschine
+
+* [https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner](https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-a-ef586402-5e18-4787-a495-4e7ffbc8f5a5#ref=rss)
+* [https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-podcast](https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-podcast-a-d0c4ff83-58a1-4469-9e34-8233a823c41a#ref=rss)
+### früher
+
+* [https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner](https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-a-ef586402-5e18-4787-a495-4e7ffbc8f5a5#ref=rss)
+* [https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-podcast](https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-podcast-a-d0c4ff83-58a1-4469-9e34-8233a823c41a#ref=rss)
+### verglich
+
+* [https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner](https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-a-ef586402-5e18-4787-a495-4e7ffbc8f5a5#ref=rss)
+* [https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-podcast](https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-podcast-a-d0c4ff83-58a1-4469-9e34-8233a823c41a#ref=rss)
+### hitler
+
+* [https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner](https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-a-ef586402-5e18-4787-a495-4e7ffbc8f5a5#ref=rss)
+* [https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-podcast](https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-podcast-a-d0c4ff83-58a1-4469-9e34-8233a823c41a#ref=rss)
+### vizekandidat
+
+* [https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner](https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-a-ef586402-5e18-4787-a495-4e7ffbc8f5a5#ref=rss)
+* [https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-podcast](https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-podcast-a-d0c4ff83-58a1-4469-9e34-8233a823c41a#ref=rss)
+### hardliner
+
+* [https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner](https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-a-ef586402-5e18-4787-a495-4e7ffbc8f5a5#ref=rss)
+* [https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-podcast](https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-podcast-a-d0c4ff83-58a1-4469-9e34-8233a823c41a#ref=rss)
+### versöhner
+
+* [https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner](https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-a-ef586402-5e18-4787-a495-4e7ffbc8f5a5#ref=rss)
+* [https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-podcast](https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-podcast-a-d0c4ff83-58a1-4469-9e34-8233a823c41a#ref=rss)
+### spiegelkorrespondent
+
+* [https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner](https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-a-ef586402-5e18-4787-a495-4e7ffbc8f5a5#ref=rss)
+* [https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-podcast](https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-podcast-a-d0c4ff83-58a1-4469-9e34-8233a823c41a#ref=rss)
+### marc
+
+* [https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner](https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-a-ef586402-5e18-4787-a495-4e7ffbc8f5a5#ref=rss)
+* [https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-podcast](https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-podcast-a-d0c4ff83-58a1-4469-9e34-8233a823c41a#ref=rss)
+### pitzke
+
+* [https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner](https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-a-ef586402-5e18-4787-a495-4e7ffbc8f5a5#ref=rss)
+* [https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-podcast](https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-podcast-a-d0c4ff83-58a1-4469-9e34-8233a823c41a#ref=rss)
+### berichtet
+
+* [https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner](https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-a-ef586402-5e18-4787-a495-4e7ffbc8f5a5#ref=rss)
+* [https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-podcast](https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-podcast-a-d0c4ff83-58a1-4469-9e34-8233a823c41a#ref=rss)
+### parteitag
+
+* [https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner](https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-a-ef586402-5e18-4787-a495-4e7ffbc8f5a5#ref=rss)
+* [https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-podcast](https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-podcast-a-d0c4ff83-58a1-4469-9e34-8233a823c41a#ref=rss)
+### milwaukee
+
+* [https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner](https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-a-ef586402-5e18-4787-a495-4e7ffbc8f5a5#ref=rss)
+* [https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-podcast](https://www.spiegel.de/politik/donald-trump-j-d-vance-so-funktioniert-die-machtmaschine-der-republikaner-podcast-a-d0c4ff83-58a1-4469-9e34-8233a823c41a#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/israel-will-einberufungsbefehle-an-tausend-ultraorthodoxe-verschicken](https://www.spiegel.de/ausland/israel-will-einberufungsbefehle-an-tausend-ultraorthodoxe-verschicken-a-2d8f453d-3c4e-44d4-9522-b97c205babc8#ref=rss)
+### obama
+
+* [https://www.spiegel.de/ausland/usa-barack-obama-verliert-vertrauen-in-joe-biden](https://www.spiegel.de/ausland/usa-barack-obama-verliert-vertrauen-in-joe-biden-a-9e48217e-a9aa-48c1-beba-2e4c19e0b657#ref=rss)
+### joe
+
+* [https://www.spiegel.de/ausland/usa-barack-obama-verliert-vertrauen-in-joe-biden](https://www.spiegel.de/ausland/usa-barack-obama-verliert-vertrauen-in-joe-biden-a-9e48217e-a9aa-48c1-beba-2e4c19e0b657#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-coronavirus-jan-redmann](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-coronavirus-jan-redmann-a-1005f559-d1fc-4771-b903-b7d0456d2201#ref=rss)
+### bild
+
+* [https://www.spiegel.de/ausland/usa-barack-obama-verliert-vertrauen-in-joe-biden](https://www.spiegel.de/ausland/usa-barack-obama-verliert-vertrauen-in-joe-biden-a-9e48217e-a9aa-48c1-beba-2e4c19e0b657#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/jan-boehmermann-unterliegt-vor-gericht-erneut-bei-streit-um-honig-werbung](https://www.spiegel.de/panorama/justiz/jan-boehmermann-unterliegt-vor-gericht-erneut-bei-streit-um-honig-werbung-a-9898d256-54f9-43e8-8595-adef930a4ad7#ref=rss)
+### medienberichten
+
+* [https://www.spiegel.de/ausland/usa-barack-obama-verliert-vertrauen-in-joe-biden](https://www.spiegel.de/ausland/usa-barack-obama-verliert-vertrauen-in-joe-biden-a-9e48217e-a9aa-48c1-beba-2e4c19e0b657#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-mainz-profi-kaishu-sano-wegen-verdacht-auf-sexuellen-uebergriff-festgenommen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-mainz-profi-kaishu-sano-wegen-verdacht-auf-sexuellen-uebergriff-festgenommen-a-093babdd-cea3-41b9-9473-4bd8819677e6#ref=rss)
+### zufolge
+
+* [https://www.spiegel.de/ausland/usa-barack-obama-verliert-vertrauen-in-joe-biden](https://www.spiegel.de/ausland/usa-barack-obama-verliert-vertrauen-in-joe-biden-a-9e48217e-a9aa-48c1-beba-2e4c19e0b657#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-mehr-als-1000-straftaten-im-zusammenhang-mit-clankriminalitaet-erfasst](https://www.spiegel.de/panorama/justiz/berlin-mehr-als-1000-straftaten-im-zusammenhang-mit-clankriminalitaet-erfasst-a-cf2f7b46-1e4c-4658-bbeb-78fa46aff6ba#ref=rss)
+### unterstützer
+
+* [https://www.spiegel.de/ausland/usa-barack-obama-verliert-vertrauen-in-joe-biden](https://www.spiegel.de/ausland/usa-barack-obama-verliert-vertrauen-in-joe-biden-a-9e48217e-a9aa-48c1-beba-2e4c19e0b657#ref=rss)
+* [https://www.spiegel.de/panorama/rechtsextremismus-die-lukrativen-spendengeschaefte-des-compact-magazins](https://www.spiegel.de/panorama/rechtsextremismus-die-lukrativen-spendengeschaefte-des-compact-magazins-a-6910c870-4899-48f0-91e6-2da69ab957ec#ref=rss)
+### unter
+
+* [https://www.spiegel.de/wirtschaft/soziales/elterngeld-betriebe-leiden-nur-kurzfristig-unter-laengeren-elternzeiten](https://www.spiegel.de/wirtschaft/soziales/elterngeld-betriebe-leiden-nur-kurzfristig-unter-laengeren-elternzeiten-a-95dbec51-851f-40ac-9fa5-18d61287eec8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/saudi-arabien-airline-will-flugtaxi-service-nach-mekka-anbieten](https://www.spiegel.de/wirtschaft/unternehmen/saudi-arabien-airline-will-flugtaxi-service-nach-mekka-anbieten-a-3f725c94-b86d-47ab-8a1c-10d4ac2e3414#ref=rss)
+### perspektiven
+
+* [https://www.spiegel.de/ausland/donald-trump-attentat-die-grafikanalyse-des-tathergangs-und-die-verschiedenen-perspektiven](https://www.spiegel.de/ausland/donald-trump-attentat-die-grafikanalyse-des-tathergangs-und-die-verschiedenen-perspektiven-a-52d62f3e-b943-417f-9ee8-4e26cb1e22cf#ref=rss)
+### ans
+
+* [https://www.spiegel.de/ausland/donald-trump-attentat-die-grafikanalyse-des-tathergangs-und-die-verschiedenen-perspektiven](https://www.spiegel.de/ausland/donald-trump-attentat-die-grafikanalyse-des-tathergangs-und-die-verschiedenen-perspektiven-a-52d62f3e-b943-417f-9ee8-4e26cb1e22cf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-coronavirus-jan-redmann](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-coronavirus-jan-redmann-a-1005f559-d1fc-4771-b903-b7d0456d2201#ref=rss)
+### licht
+
+* [https://www.spiegel.de/ausland/donald-trump-attentat-die-grafikanalyse-des-tathergangs-und-die-verschiedenen-perspektiven](https://www.spiegel.de/ausland/donald-trump-attentat-die-grafikanalyse-des-tathergangs-und-die-verschiedenen-perspektiven-a-52d62f3e-b943-417f-9ee8-4e26cb1e22cf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-coronavirus-jan-redmann](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-coronavirus-jan-redmann-a-1005f559-d1fc-4771-b903-b7d0456d2201#ref=rss)
+### expräsidenten
+
+* [https://www.spiegel.de/ausland/donald-trump-attentat-die-grafikanalyse-des-tathergangs-und-die-verschiedenen-perspektiven](https://www.spiegel.de/ausland/donald-trump-attentat-die-grafikanalyse-des-tathergangs-und-die-verschiedenen-perspektiven-a-52d62f3e-b943-417f-9ee8-4e26cb1e22cf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-coronavirus-jan-redmann](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-coronavirus-jan-redmann-a-1005f559-d1fc-4771-b903-b7d0456d2201#ref=rss)
+### italien
+
+* [https://www.spiegel.de/ausland/italien-journalistin-soll-nach-kommentar-ueber-giorgia-melonis-koerpergroesse-strafe-zahlen](https://www.spiegel.de/ausland/italien-journalistin-soll-nach-kommentar-ueber-giorgia-melonis-koerpergroesse-strafe-zahlen-a-fe6becfe-e390-49bf-9e95-d07490514d65#ref=rss)
+* [https://www.spiegel.de/panorama/italien-provinzregierung-von-trentino-will-baeren-mutter-nach-attacke-auf-jogger-toeten-lassen](https://www.spiegel.de/panorama/italien-provinzregierung-von-trentino-will-baeren-mutter-nach-attacke-auf-jogger-toeten-lassen-a-0aa3fd2f-bb43-440f-8996-4565bb8f9788#ref=rss)
+### giorgia
+
+* [https://www.spiegel.de/ausland/italien-journalistin-soll-nach-kommentar-ueber-giorgia-melonis-koerpergroesse-strafe-zahlen](https://www.spiegel.de/ausland/italien-journalistin-soll-nach-kommentar-ueber-giorgia-melonis-koerpergroesse-strafe-zahlen-a-fe6becfe-e390-49bf-9e95-d07490514d65#ref=rss)
+### streit
+
+* [https://www.spiegel.de/ausland/italien-journalistin-soll-nach-kommentar-ueber-giorgia-melonis-koerpergroesse-strafe-zahlen](https://www.spiegel.de/ausland/italien-journalistin-soll-nach-kommentar-ueber-giorgia-melonis-koerpergroesse-strafe-zahlen-a-fe6becfe-e390-49bf-9e95-d07490514d65#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/jan-boehmermann-unterliegt-vor-gericht-erneut-bei-streit-um-honig-werbung](https://www.spiegel.de/panorama/justiz/jan-boehmermann-unterliegt-vor-gericht-erneut-bei-streit-um-honig-werbung-a-9898d256-54f9-43e8-8595-adef930a4ad7#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/ausland/italien-journalistin-soll-nach-kommentar-ueber-giorgia-melonis-koerpergroesse-strafe-zahlen](https://www.spiegel.de/ausland/italien-journalistin-soll-nach-kommentar-ueber-giorgia-melonis-koerpergroesse-strafe-zahlen-a-fe6becfe-e390-49bf-9e95-d07490514d65#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/jan-boehmermann-unterliegt-vor-gericht-erneut-bei-streit-um-honig-werbung](https://www.spiegel.de/panorama/justiz/jan-boehmermann-unterliegt-vor-gericht-erneut-bei-streit-um-honig-werbung-a-9898d256-54f9-43e8-8595-adef930a4ad7#ref=rss)
+### brandenburg
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-coronavirus-jan-redmann](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-coronavirus-jan-redmann-a-1005f559-d1fc-4771-b903-b7d0456d2201#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/brandenburger-cdu-startet-wahlkampf-jan-redmann-umfaehrt-kritik](https://www.spiegel.de/politik/deutschland/brandenburger-cdu-startet-wahlkampf-jan-redmann-umfaehrt-kritik-a-099eabc9-43dc-4ab5-8f28-ccc7179a501b#ref=rss)
+### cdu
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-coronavirus-jan-redmann](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-coronavirus-jan-redmann-a-1005f559-d1fc-4771-b903-b7d0456d2201#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/brandenburger-cdu-startet-wahlkampf-jan-redmann-umfaehrt-kritik](https://www.spiegel.de/politik/deutschland/brandenburger-cdu-startet-wahlkampf-jan-redmann-umfaehrt-kritik-a-099eabc9-43dc-4ab5-8f28-ccc7179a501b#ref=rss)
+### wiederwahl
+
+* [https://www.spiegel.de/politik/ursula-von-der-leyen-bleibt-praesidentin-der-eu-kommission-die-wahl-der-vernunft](https://www.spiegel.de/politik/ursula-von-der-leyen-bleibt-praesidentin-der-eu-kommission-die-wahl-der-vernunft-a-88d14c9e-c744-45ec-9de8-00b1eff8f06b#ref=rss)
+* [https://www.spiegel.de/politik/ursula-von-der-leyen-gute-nachricht-fuer-europa-und-weitere-reaktionen-auf-wiederwahl](https://www.spiegel.de/politik/ursula-von-der-leyen-gute-nachricht-fuer-europa-und-weitere-reaktionen-auf-wiederwahl-a-68d22c2e-c4ba-4f29-a0e8-1b0711e29d20#ref=rss)
+### zeit
+
+* [https://www.spiegel.de/politik/ursula-von-der-leyen-bleibt-praesidentin-der-eu-kommission-die-wahl-der-vernunft](https://www.spiegel.de/politik/ursula-von-der-leyen-bleibt-praesidentin-der-eu-kommission-die-wahl-der-vernunft-a-88d14c9e-c744-45ec-9de8-00b1eff8f06b#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahlkampf-enttaeuschung-ueber-donald-trumps-vize-j-d-vance](https://www.spiegel.de/ausland/us-wahlkampf-enttaeuschung-ueber-donald-trumps-vize-j-d-vance-a-4daec5c1-afdd-45ef-8f47-bdd30256d43a#ref=rss)
+### ich
+
+* [https://www.spiegel.de/ausland/us-wahlkampf-enttaeuschung-ueber-donald-trumps-vize-j-d-vance](https://www.spiegel.de/ausland/us-wahlkampf-enttaeuschung-ueber-donald-trumps-vize-j-d-vance-a-4daec5c1-afdd-45ef-8f47-bdd30256d43a#ref=rss)
+* [https://www.spiegel.de/deinspiegel/basketball-deutschland-star-satou-sabally-ueber-olympia-karriere-einhoerner-und-donald-trump-das-haerteste-spiel-das-ich-je-gespielt-habe](https://www.spiegel.de/deinspiegel/basketball-deutschland-star-satou-sabally-ueber-olympia-karriere-einhoerner-und-donald-trump-das-haerteste-spiel-das-ich-je-gespielt-habe-a-21f0ce7d-29f6-441b-ab60-268802ccd644#ref=rss)
+### allem
+
+* [https://www.spiegel.de/politik/deutschland/brandenburger-cdu-startet-wahlkampf-jan-redmann-umfaehrt-kritik](https://www.spiegel.de/politik/deutschland/brandenburger-cdu-startet-wahlkampf-jan-redmann-umfaehrt-kritik-a-099eabc9-43dc-4ab5-8f28-ccc7179a501b#ref=rss)
+* [https://www.spiegel.de/start/berufseinstieg-als-theaterschauspieler-es-war-ein-schmerzhafter-prozess](https://www.spiegel.de/start/berufseinstieg-als-theaterschauspieler-es-war-ein-schmerzhafter-prozess-a-3abcce18-dfbd-4f0c-a42e-0e5ab066883b#ref=rss)
+### victor
+
+* [https://www.spiegel.de/sport/tour-de-france-victor-campenaerts-gewinnt-etappe-und-telefoniert-direkt-mit-seinem-baby](https://www.spiegel.de/sport/tour-de-france-victor-campenaerts-gewinnt-etappe-und-telefoniert-direkt-mit-seinem-baby-a-811852bc-e97e-463d-a180-84f29e3727ed#ref=rss)
+### campenaerts
+
+* [https://www.spiegel.de/sport/tour-de-france-victor-campenaerts-gewinnt-etappe-und-telefoniert-direkt-mit-seinem-baby](https://www.spiegel.de/sport/tour-de-france-victor-campenaerts-gewinnt-etappe-und-telefoniert-direkt-mit-seinem-baby-a-811852bc-e97e-463d-a180-84f29e3727ed#ref=rss)
+### direkt
+
+* [https://www.spiegel.de/sport/tour-de-france-victor-campenaerts-gewinnt-etappe-und-telefoniert-direkt-mit-seinem-baby](https://www.spiegel.de/sport/tour-de-france-victor-campenaerts-gewinnt-etappe-und-telefoniert-direkt-mit-seinem-baby-a-811852bc-e97e-463d-a180-84f29e3727ed#ref=rss)
+### ziel
+
+* [https://www.spiegel.de/sport/tour-de-france-victor-campenaerts-gewinnt-etappe-und-telefoniert-direkt-mit-seinem-baby](https://www.spiegel.de/sport/tour-de-france-victor-campenaerts-gewinnt-etappe-und-telefoniert-direkt-mit-seinem-baby-a-811852bc-e97e-463d-a180-84f29e3727ed#ref=rss)
+* [https://www.spiegel.de/auto/deutsche-bahn-gibt-puenktlichkeitsziel-fuer-2024-vorzeitig-auf](https://www.spiegel.de/auto/deutsche-bahn-gibt-puenktlichkeitsziel-fuer-2024-vorzeitig-auf-a-8b804ed1-35b7-403b-a985-b7c54c96b737#ref=rss)
+### nahm
+
+* [https://www.spiegel.de/sport/tour-de-france-victor-campenaerts-gewinnt-etappe-und-telefoniert-direkt-mit-seinem-baby](https://www.spiegel.de/sport/tour-de-france-victor-campenaerts-gewinnt-etappe-und-telefoniert-direkt-mit-seinem-baby-a-811852bc-e97e-463d-a180-84f29e3727ed#ref=rss)
+* [https://www.spiegel.de/ausland/thomas-matthew-crooks-der-mann-der-donald-trump-toeten-wollte](https://www.spiegel.de/ausland/thomas-matthew-crooks-der-mann-der-donald-trump-toeten-wollte-a-ac030d91-560a-4463-be0e-4ee89601bc5a#ref=rss)
+### wochen
+
+* [https://www.spiegel.de/sport/tour-de-france-victor-campenaerts-gewinnt-etappe-und-telefoniert-direkt-mit-seinem-baby](https://www.spiegel.de/sport/tour-de-france-victor-campenaerts-gewinnt-etappe-und-telefoniert-direkt-mit-seinem-baby-a-811852bc-e97e-463d-a180-84f29e3727ed#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/magic-mushrooms-was-psilocybin-im-hirn-macht](https://www.spiegel.de/wissenschaft/mensch/magic-mushrooms-was-psilocybin-im-hirn-macht-a-1f4ab48d-a147-4886-a47a-489fd08c5a73#ref=rss)
+### karriere
+
+* [https://www.spiegel.de/sport/tour-de-france-victor-campenaerts-gewinnt-etappe-und-telefoniert-direkt-mit-seinem-baby](https://www.spiegel.de/sport/tour-de-france-victor-campenaerts-gewinnt-etappe-und-telefoniert-direkt-mit-seinem-baby-a-811852bc-e97e-463d-a180-84f29e3727ed#ref=rss)
+* [https://www.spiegel.de/deinspiegel/basketball-deutschland-star-satou-sabally-ueber-olympia-karriere-einhoerner-und-donald-trump-das-haerteste-spiel-das-ich-je-gespielt-habe](https://www.spiegel.de/deinspiegel/basketball-deutschland-star-satou-sabally-ueber-olympia-karriere-einhoerner-und-donald-trump-das-haerteste-spiel-das-ich-je-gespielt-habe-a-21f0ce7d-29f6-441b-ab60-268802ccd644#ref=rss)
+### klausmichael
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/hamburg-klaus-michael-kuehne-praesentiert-einen-rettungsplan-fuer-den-elbtower](https://www.spiegel.de/wirtschaft/unternehmen/hamburg-klaus-michael-kuehne-praesentiert-einen-rettungsplan-fuer-den-elbtower-a-eaba4a7f-95cd-4239-be3c-294a3d987a72#ref=rss)
+### kühne
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/hamburg-klaus-michael-kuehne-praesentiert-einen-rettungsplan-fuer-den-elbtower](https://www.spiegel.de/wirtschaft/unternehmen/hamburg-klaus-michael-kuehne-praesentiert-einen-rettungsplan-fuer-den-elbtower-a-eaba4a7f-95cd-4239-be3c-294a3d987a72#ref=rss)
+### imagepflege
+
+* [https://www.spiegel.de/ausland/cop29-aserbaidschan-nutzt-uno-klimakonferenz-fuer-greenwashing-und-imagepflege](https://www.spiegel.de/ausland/cop29-aserbaidschan-nutzt-uno-klimakonferenz-fuer-greenwashing-und-imagepflege-a-55902de4-614f-48dd-833d-89f3eafeb398#ref=rss)
+### kristen
+
+* [https://www.spiegel.de/kultur/kristen-stewart-in-love-lies-bleeding-maechtig-aufgepumpt](https://www.spiegel.de/kultur/kristen-stewart-in-love-lies-bleeding-maechtig-aufgepumpt-a-375f4f2c-75c8-4c54-a050-4a8d3f346633#ref=rss)
+### stewart
+
+* [https://www.spiegel.de/kultur/kristen-stewart-in-love-lies-bleeding-maechtig-aufgepumpt](https://www.spiegel.de/kultur/kristen-stewart-in-love-lies-bleeding-maechtig-aufgepumpt-a-375f4f2c-75c8-4c54-a050-4a8d3f346633#ref=rss)
+### love
+
+* [https://www.spiegel.de/kultur/kristen-stewart-in-love-lies-bleeding-maechtig-aufgepumpt](https://www.spiegel.de/kultur/kristen-stewart-in-love-lies-bleeding-maechtig-aufgepumpt-a-375f4f2c-75c8-4c54-a050-4a8d3f346633#ref=rss)
+### lies
+
+* [https://www.spiegel.de/kultur/kristen-stewart-in-love-lies-bleeding-maechtig-aufgepumpt](https://www.spiegel.de/kultur/kristen-stewart-in-love-lies-bleeding-maechtig-aufgepumpt-a-375f4f2c-75c8-4c54-a050-4a8d3f346633#ref=rss)
+### bleeding
+
+* [https://www.spiegel.de/kultur/kristen-stewart-in-love-lies-bleeding-maechtig-aufgepumpt](https://www.spiegel.de/kultur/kristen-stewart-in-love-lies-bleeding-maechtig-aufgepumpt-a-375f4f2c-75c8-4c54-a050-4a8d3f346633#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/kultur/stuttgart-21-architekt-christoph-ingenhoven-vergleicht-seinen-bahnhof-mit-gefrorener-musik](https://www.spiegel.de/kultur/stuttgart-21-architekt-christoph-ingenhoven-vergleicht-seinen-bahnhof-mit-gefrorener-musik-a-6d437da8-272a-45d8-85f0-4e3b53552991#ref=rss)
+* [https://www.spiegel.de/panorama/reutte-in-tirol-canyoingtour-in-oesterreich-endet-fuer-deutschen-toedlich](https://www.spiegel.de/panorama/reutte-in-tirol-canyoingtour-in-oesterreich-endet-fuer-deutschen-toedlich-a-c6c5268e-ffb7-4b8f-9a40-7ab1572c2d10#ref=rss)
+### trentino
+
+* [https://www.spiegel.de/panorama/italien-provinzregierung-von-trentino-will-baeren-mutter-nach-attacke-auf-jogger-toeten-lassen](https://www.spiegel.de/panorama/italien-provinzregierung-von-trentino-will-baeren-mutter-nach-attacke-auf-jogger-toeten-lassen-a-0aa3fd2f-bb43-440f-8996-4565bb8f9788#ref=rss)
+### satou
+
+* [https://www.spiegel.de/deinspiegel/basketball-deutschland-star-satou-sabally-ueber-olympia-karriere-einhoerner-und-donald-trump-das-haerteste-spiel-das-ich-je-gespielt-habe](https://www.spiegel.de/deinspiegel/basketball-deutschland-star-satou-sabally-ueber-olympia-karriere-einhoerner-und-donald-trump-das-haerteste-spiel-das-ich-je-gespielt-habe-a-21f0ce7d-29f6-441b-ab60-268802ccd644#ref=rss)
+### sabally
+
+* [https://www.spiegel.de/deinspiegel/basketball-deutschland-star-satou-sabally-ueber-olympia-karriere-einhoerner-und-donald-trump-das-haerteste-spiel-das-ich-je-gespielt-habe](https://www.spiegel.de/deinspiegel/basketball-deutschland-star-satou-sabally-ueber-olympia-karriere-einhoerner-und-donald-trump-das-haerteste-spiel-das-ich-je-gespielt-habe-a-21f0ce7d-29f6-441b-ab60-268802ccd644#ref=rss)
+### compactmagazins
+
+* [https://www.spiegel.de/panorama/rechtsextremismus-die-lukrativen-spendengeschaefte-des-compact-magazins](https://www.spiegel.de/panorama/rechtsextremismus-die-lukrativen-spendengeschaefte-des-compact-magazins-a-6910c870-4899-48f0-91e6-2da69ab957ec#ref=rss)
+### mekka
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/saudi-arabien-airline-will-flugtaxi-service-nach-mekka-anbieten](https://www.spiegel.de/wirtschaft/unternehmen/saudi-arabien-airline-will-flugtaxi-service-nach-mekka-anbieten-a-3f725c94-b86d-47ab-8a1c-10d4ac2e3414#ref=rss)
+### kaishū
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-mainz-profi-kaishu-sano-wegen-verdacht-auf-sexuellen-uebergriff-festgenommen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-mainz-profi-kaishu-sano-wegen-verdacht-auf-sexuellen-uebergriff-festgenommen-a-093babdd-cea3-41b9-9473-4bd8819677e6#ref=rss)
+### sano
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-mainz-profi-kaishu-sano-wegen-verdacht-auf-sexuellen-uebergriff-festgenommen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-mainz-profi-kaishu-sano-wegen-verdacht-auf-sexuellen-uebergriff-festgenommen-a-093babdd-cea3-41b9-9473-4bd8819677e6#ref=rss)
+### sexuellen
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-mainz-profi-kaishu-sano-wegen-verdacht-auf-sexuellen-uebergriff-festgenommen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-mainz-profi-kaishu-sano-wegen-verdacht-auf-sexuellen-uebergriff-festgenommen-a-093babdd-cea3-41b9-9473-4bd8819677e6#ref=rss)
+### übergriff
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-mainz-profi-kaishu-sano-wegen-verdacht-auf-sexuellen-uebergriff-festgenommen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-mainz-profi-kaishu-sano-wegen-verdacht-auf-sexuellen-uebergriff-festgenommen-a-093babdd-cea3-41b9-9473-4bd8819677e6#ref=rss)
+### tokio
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-mainz-profi-kaishu-sano-wegen-verdacht-auf-sexuellen-uebergriff-festgenommen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-mainz-profi-kaishu-sano-wegen-verdacht-auf-sexuellen-uebergriff-festgenommen-a-093babdd-cea3-41b9-9473-4bd8819677e6#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2024-australischer-hockeyspieler-matthew-dawson-laesst-sich-fingerspitze-amputieren](https://www.spiegel.de/sport/olympia/olympia-2024-australischer-hockeyspieler-matthew-dawson-laesst-sich-fingerspitze-amputieren-a-9ad133b9-6c34-49fc-901c-6c87001fec6f#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/auto/deutsche-bahn-gibt-puenktlichkeitsziel-fuer-2024-vorzeitig-auf](https://www.spiegel.de/auto/deutsche-bahn-gibt-puenktlichkeitsziel-fuer-2024-vorzeitig-auf-a-8b804ed1-35b7-403b-a985-b7c54c96b737#ref=rss)
+### 2024
+
+* [https://www.spiegel.de/auto/deutsche-bahn-gibt-puenktlichkeitsziel-fuer-2024-vorzeitig-auf](https://www.spiegel.de/auto/deutsche-bahn-gibt-puenktlichkeitsziel-fuer-2024-vorzeitig-auf-a-8b804ed1-35b7-403b-a985-b7c54c96b737#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2024-australischer-hockeyspieler-matthew-dawson-laesst-sich-fingerspitze-amputieren](https://www.spiegel.de/sport/olympia/olympia-2024-australischer-hockeyspieler-matthew-dawson-laesst-sich-fingerspitze-amputieren-a-9ad133b9-6c34-49fc-901c-6c87001fec6f#ref=rss)
+### diesem
+
+* [https://www.spiegel.de/auto/deutsche-bahn-gibt-puenktlichkeitsziel-fuer-2024-vorzeitig-auf](https://www.spiegel.de/auto/deutsche-bahn-gibt-puenktlichkeitsziel-fuer-2024-vorzeitig-auf-a-8b804ed1-35b7-403b-a985-b7c54c96b737#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/jan-boehmermann-unterliegt-vor-gericht-erneut-bei-streit-um-honig-werbung](https://www.spiegel.de/panorama/justiz/jan-boehmermann-unterliegt-vor-gericht-erneut-bei-streit-um-honig-werbung-a-9898d256-54f9-43e8-8595-adef930a4ad7#ref=rss)
+* [https://www.spiegel.de/ausland/thomas-matthew-crooks-der-mann-der-donald-trump-toeten-wollte](https://www.spiegel.de/ausland/thomas-matthew-crooks-der-mann-der-donald-trump-toeten-wollte-a-ac030d91-560a-4463-be0e-4ee89601bc5a#ref=rss)
+### tirol
+
+* [https://www.spiegel.de/panorama/reutte-in-tirol-canyoingtour-in-oesterreich-endet-fuer-deutschen-toedlich](https://www.spiegel.de/panorama/reutte-in-tirol-canyoingtour-in-oesterreich-endet-fuer-deutschen-toedlich-a-c6c5268e-ffb7-4b8f-9a40-7ab1572c2d10#ref=rss)
+### tag
+
+* [https://www.spiegel.de/panorama/reutte-in-tirol-canyoingtour-in-oesterreich-endet-fuer-deutschen-toedlich](https://www.spiegel.de/panorama/reutte-in-tirol-canyoingtour-in-oesterreich-endet-fuer-deutschen-toedlich-a-c6c5268e-ffb7-4b8f-9a40-7ab1572c2d10#ref=rss)
+* [https://www.spiegel.de/ausland/thomas-matthew-crooks-der-mann-der-donald-trump-toeten-wollte](https://www.spiegel.de/ausland/thomas-matthew-crooks-der-mann-der-donald-trump-toeten-wollte-a-ac030d91-560a-4463-be0e-4ee89601bc5a#ref=rss)
+### dawson
+
+* [https://www.spiegel.de/sport/olympia/olympia-2024-australischer-hockeyspieler-matthew-dawson-laesst-sich-fingerspitze-amputieren](https://www.spiegel.de/sport/olympia/olympia-2024-australischer-hockeyspieler-matthew-dawson-laesst-sich-fingerspitze-amputieren-a-9ad133b9-6c34-49fc-901c-6c87001fec6f#ref=rss)
+### fingerspitze
+
+* [https://www.spiegel.de/sport/olympia/olympia-2024-australischer-hockeyspieler-matthew-dawson-laesst-sich-fingerspitze-amputieren](https://www.spiegel.de/sport/olympia/olympia-2024-australischer-hockeyspieler-matthew-dawson-laesst-sich-fingerspitze-amputieren-a-9ad133b9-6c34-49fc-901c-6c87001fec6f#ref=rss)
+### sogenannte
+
+* [https://www.spiegel.de/wissenschaft/mensch/magic-mushrooms-was-psilocybin-im-hirn-macht](https://www.spiegel.de/wissenschaft/mensch/magic-mushrooms-was-psilocybin-im-hirn-macht-a-1f4ab48d-a147-4886-a47a-489fd08c5a73#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-mehr-als-1000-straftaten-im-zusammenhang-mit-clankriminalitaet-erfasst](https://www.spiegel.de/panorama/justiz/berlin-mehr-als-1000-straftaten-im-zusammenhang-mit-clankriminalitaet-erfasst-a-cf2f7b46-1e4c-4658-bbeb-78fa46aff6ba#ref=rss)
+### thomas
+
+* [https://www.spiegel.de/ausland/thomas-matthew-crooks-der-mann-der-donald-trump-toeten-wollte](https://www.spiegel.de/ausland/thomas-matthew-crooks-der-mann-der-donald-trump-toeten-wollte-a-ac030d91-560a-4463-be0e-4ee89601bc5a#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/panorama/justiz/berlin-mehr-als-1000-straftaten-im-zusammenhang-mit-clankriminalitaet-erfasst](https://www.spiegel.de/panorama/justiz/berlin-mehr-als-1000-straftaten-im-zusammenhang-mit-clankriminalitaet-erfasst-a-cf2f7b46-1e4c-4658-bbeb-78fa46aff6ba#ref=rss)
+### straftaten
+
+* [https://www.spiegel.de/panorama/justiz/berlin-mehr-als-1000-straftaten-im-zusammenhang-mit-clankriminalitaet-erfasst](https://www.spiegel.de/panorama/justiz/berlin-mehr-als-1000-straftaten-im-zusammenhang-mit-clankriminalitaet-erfasst-a-cf2f7b46-1e4c-4658-bbeb-78fa46aff6ba#ref=rss)
+### clankriminalität
+
+* [https://www.spiegel.de/panorama/justiz/berlin-mehr-als-1000-straftaten-im-zusammenhang-mit-clankriminalitaet-erfasst](https://www.spiegel.de/panorama/justiz/berlin-mehr-als-1000-straftaten-im-zusammenhang-mit-clankriminalitaet-erfasst-a-cf2f7b46-1e4c-4658-bbeb-78fa46aff6ba#ref=rss)
 
