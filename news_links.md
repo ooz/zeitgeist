@@ -4,339 +4,437 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### biden
-
-* [https://www.spiegel.de/ausland/kamala-harris-im-video-portraet-manchmal-muss-man-die-verdammte-tuer-eintreten](https://www.spiegel.de/ausland/kamala-harris-im-video-portraet-manchmal-muss-man-die-verdammte-tuer-eintreten-a-cc0aecaa-0fb3-4702-a0e2-d05e7f04ff4b#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-zieht-zurueck-donald-trump-und-die-republikaner-schalten-auf-angriff](https://www.spiegel.de/ausland/joe-biden-zieht-zurueck-donald-trump-und-die-republikaner-schalten-auf-angriff-a-5007aebf-a70b-4dfc-81a4-a2fa9c980979#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-seine-karriere-als-us-politiker-in-bildern](https://www.spiegel.de/ausland/joe-biden-seine-karriere-als-us-politiker-in-bildern-a-3ee7884c-678a-45c5-ad63-6bbb635ca418#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-zieht-sich-aus-us-wahlkampf-zurueck-spendenwelle-fuer-demokraten](https://www.spiegel.de/ausland/joe-biden-zieht-sich-aus-us-wahlkampf-zurueck-spendenwelle-fuer-demokraten-a-4b9d0de6-8b49-4af3-a85b-53e2d4aa050e#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-west-wing-erfinder-aaron-sorkin-schlaegt-mitt-romney-als-ersatz-fuer-joe-biden-vor-und-rudert-zurueck](https://www.spiegel.de/ausland/us-wahl-2024-west-wing-erfinder-aaron-sorkin-schlaegt-mitt-romney-als-ersatz-fuer-joe-biden-vor-und-rudert-zurueck-a-f1115bf1-128d-489f-987d-2cd39dee67cd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/joe-biden-so-beurteilen-deutsche-politiker-den-rueckzug](https://www.spiegel.de/politik/deutschland/joe-biden-so-beurteilen-deutsche-politiker-den-rueckzug-a-c3c2e029-ee25-4926-886f-59c24e42519f#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-rueckzug-live-us-praesident-zieht-sich-von-seiner-kandidatur-zurueck](https://www.spiegel.de/ausland/joe-biden-rueckzug-live-us-praesident-zieht-sich-von-seiner-kandidatur-zurueck-a-257c6dcd-e571-46fe-a9f2-ff934ca8cd6e#ref=rss)
-* [https://www.spiegel.de/ausland/kamala-harris-wird-sie-joe-biden-beerben](https://www.spiegel.de/ausland/kamala-harris-wird-sie-joe-biden-beerben-a-91f10c7e-462c-428e-b909-864cca09f942#ref=rss)
-### joe
-
-* [https://www.spiegel.de/ausland/kamala-harris-im-video-portraet-manchmal-muss-man-die-verdammte-tuer-eintreten](https://www.spiegel.de/ausland/kamala-harris-im-video-portraet-manchmal-muss-man-die-verdammte-tuer-eintreten-a-cc0aecaa-0fb3-4702-a0e2-d05e7f04ff4b#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-zieht-zurueck-donald-trump-und-die-republikaner-schalten-auf-angriff](https://www.spiegel.de/ausland/joe-biden-zieht-zurueck-donald-trump-und-die-republikaner-schalten-auf-angriff-a-5007aebf-a70b-4dfc-81a4-a2fa9c980979#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-seine-karriere-als-us-politiker-in-bildern](https://www.spiegel.de/ausland/joe-biden-seine-karriere-als-us-politiker-in-bildern-a-3ee7884c-678a-45c5-ad63-6bbb635ca418#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-zieht-sich-aus-us-wahlkampf-zurueck-spendenwelle-fuer-demokraten](https://www.spiegel.de/ausland/joe-biden-zieht-sich-aus-us-wahlkampf-zurueck-spendenwelle-fuer-demokraten-a-4b9d0de6-8b49-4af3-a85b-53e2d4aa050e#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-west-wing-erfinder-aaron-sorkin-schlaegt-mitt-romney-als-ersatz-fuer-joe-biden-vor-und-rudert-zurueck](https://www.spiegel.de/ausland/us-wahl-2024-west-wing-erfinder-aaron-sorkin-schlaegt-mitt-romney-als-ersatz-fuer-joe-biden-vor-und-rudert-zurueck-a-f1115bf1-128d-489f-987d-2cd39dee67cd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/joe-biden-so-beurteilen-deutsche-politiker-den-rueckzug](https://www.spiegel.de/politik/deutschland/joe-biden-so-beurteilen-deutsche-politiker-den-rueckzug-a-c3c2e029-ee25-4926-886f-59c24e42519f#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-rueckzug-live-us-praesident-zieht-sich-von-seiner-kandidatur-zurueck](https://www.spiegel.de/ausland/joe-biden-rueckzug-live-us-praesident-zieht-sich-von-seiner-kandidatur-zurueck-a-257c6dcd-e571-46fe-a9f2-ff934ca8cd6e#ref=rss)
-* [https://www.spiegel.de/ausland/kamala-harris-wird-sie-joe-biden-beerben](https://www.spiegel.de/ausland/kamala-harris-wird-sie-joe-biden-beerben-a-91f10c7e-462c-428e-b909-864cca09f942#ref=rss)
 ### kamala
 
-* [https://www.spiegel.de/ausland/kamala-harris-im-video-portraet-manchmal-muss-man-die-verdammte-tuer-eintreten](https://www.spiegel.de/ausland/kamala-harris-im-video-portraet-manchmal-muss-man-die-verdammte-tuer-eintreten-a-cc0aecaa-0fb3-4702-a0e2-d05e7f04ff4b#ref=rss)
-* [https://www.spiegel.de/ausland/kamala-harris-wie-spricht-man-den-namen-der-us-demokratin-aus](https://www.spiegel.de/ausland/kamala-harris-wie-spricht-man-den-namen-der-us-demokratin-aus-a-61b2b8d2-49b4-4da4-98c6-ca318466a3d1#ref=rss)
-* [https://www.spiegel.de/ausland/pressestimmen-zu-kamala-harris-sie-wirkt-auf-das-konservative-amerika-wie-ein-rotes-tuch-auf-einen-stier](https://www.spiegel.de/ausland/pressestimmen-zu-kamala-harris-sie-wirkt-auf-das-konservative-amerika-wie-ein-rotes-tuch-auf-einen-stier-a-936c28ac-1a72-4ee9-b1d0-c5bc6af72ec6#ref=rss)
-* [https://www.spiegel.de/ausland/kamala-harris-wird-sie-joe-biden-beerben](https://www.spiegel.de/ausland/kamala-harris-wird-sie-joe-biden-beerben-a-91f10c7e-462c-428e-b909-864cca09f942#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-rueckzug-live-us-praesident-zieht-sich-von-seiner-kandidatur-zurueck](https://www.spiegel.de/ausland/joe-biden-rueckzug-live-us-praesident-zieht-sich-von-seiner-kandidatur-zurueck-a-257c6dcd-e571-46fe-a9f2-ff934ca8cd6e#ref=rss)
+* [https://www.spiegel.de/ausland/usa-kamala-harris-wuerdigt-joe-bidens-unerreichtes-politisches-erbe](https://www.spiegel.de/ausland/usa-kamala-harris-wuerdigt-joe-bidens-unerreichtes-politisches-erbe-a-342dc50f-8858-4171-ad53-ac62cff4963f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/metin-hakverdi-spd-ueber-kamala-harris-sie-hat-ihre-lektion-gelernt](https://www.spiegel.de/politik/deutschland/metin-hakverdi-spd-ueber-kamala-harris-sie-hat-ihre-lektion-gelernt-a-ec30ccd8-9ddb-4020-9983-5e6c6940311b#ref=rss)
+* [https://www.spiegel.de/ausland/kamala-harris-erste-oeffentliche-aeusserung-nach-biden-rueckzug-was-sagt-sie-zur-praesidentschafts-kandidatur](https://www.spiegel.de/ausland/kamala-harris-erste-oeffentliche-aeusserung-nach-biden-rueckzug-was-sagt-sie-zur-praesidentschafts-kandidatur-a-d7a69ec5-26d1-4a38-9bab-5fb06fa70b9a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-kamala-harris-gaza-krieg-tadej-pogacar](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-kamala-harris-gaza-krieg-tadej-pogacar-a-772cce14-d7ac-4d2c-a76a-55345f480a79#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/kamala-harris-kokosnuss-und-palme-was-hat-es-mit-den-emojis-auf-sich](https://www.spiegel.de/netzwelt/web/kamala-harris-kokosnuss-und-palme-was-hat-es-mit-den-emojis-auf-sich-a-d16648c9-4ae8-476a-8f54-78bc55e0de94#ref=rss)
 ### harris
 
-* [https://www.spiegel.de/ausland/kamala-harris-im-video-portraet-manchmal-muss-man-die-verdammte-tuer-eintreten](https://www.spiegel.de/ausland/kamala-harris-im-video-portraet-manchmal-muss-man-die-verdammte-tuer-eintreten-a-cc0aecaa-0fb3-4702-a0e2-d05e7f04ff4b#ref=rss)
-* [https://www.spiegel.de/ausland/kamala-harris-wie-spricht-man-den-namen-der-us-demokratin-aus](https://www.spiegel.de/ausland/kamala-harris-wie-spricht-man-den-namen-der-us-demokratin-aus-a-61b2b8d2-49b4-4da4-98c6-ca318466a3d1#ref=rss)
-* [https://www.spiegel.de/ausland/pressestimmen-zu-kamala-harris-sie-wirkt-auf-das-konservative-amerika-wie-ein-rotes-tuch-auf-einen-stier](https://www.spiegel.de/ausland/pressestimmen-zu-kamala-harris-sie-wirkt-auf-das-konservative-amerika-wie-ein-rotes-tuch-auf-einen-stier-a-936c28ac-1a72-4ee9-b1d0-c5bc6af72ec6#ref=rss)
-* [https://www.spiegel.de/ausland/kamala-harris-wird-sie-joe-biden-beerben](https://www.spiegel.de/ausland/kamala-harris-wird-sie-joe-biden-beerben-a-91f10c7e-462c-428e-b909-864cca09f942#ref=rss)
-### kampf
-
-* [https://www.spiegel.de/ausland/kamala-harris-im-video-portraet-manchmal-muss-man-die-verdammte-tuer-eintreten](https://www.spiegel.de/ausland/kamala-harris-im-video-portraet-manchmal-muss-man-die-verdammte-tuer-eintreten-a-cc0aecaa-0fb3-4702-a0e2-d05e7f04ff4b#ref=rss)
-* [https://www.spiegel.de/ausland/jemen-huthi-anfuehrer-zeigt-sich-gluecklich-ueber-direkten-kampf-gegen-israel](https://www.spiegel.de/ausland/jemen-huthi-anfuehrer-zeigt-sich-gluecklich-ueber-direkten-kampf-gegen-israel-a-57725fe1-8009-4d4c-8da7-6298d411648c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/aids-und-hiv-sorge-um-fortschritte-im-kampf-gegen-die-immunkrankheit](https://www.spiegel.de/wissenschaft/aids-und-hiv-sorge-um-fortschritte-im-kampf-gegen-die-immunkrankheit-a-776637b7-5af7-4d1b-87fa-061b140cb8bf#ref=rss)
 * [https://www.spiegel.de/ausland/joe-biden-rueckzug-live-us-praesident-zieht-sich-von-seiner-kandidatur-zurueck](https://www.spiegel.de/ausland/joe-biden-rueckzug-live-us-praesident-zieht-sich-von-seiner-kandidatur-zurueck-a-257c6dcd-e571-46fe-a9f2-ff934ca8cd6e#ref=rss)
-### trump
+* [https://www.spiegel.de/ausland/usa-kamala-harris-wuerdigt-joe-bidens-unerreichtes-politisches-erbe](https://www.spiegel.de/ausland/usa-kamala-harris-wuerdigt-joe-bidens-unerreichtes-politisches-erbe-a-342dc50f-8858-4171-ad53-ac62cff4963f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/metin-hakverdi-spd-ueber-kamala-harris-sie-hat-ihre-lektion-gelernt](https://www.spiegel.de/politik/deutschland/metin-hakverdi-spd-ueber-kamala-harris-sie-hat-ihre-lektion-gelernt-a-ec30ccd8-9ddb-4020-9983-5e6c6940311b#ref=rss)
+* [https://www.spiegel.de/ausland/kamala-harris-erste-oeffentliche-aeusserung-nach-biden-rueckzug-was-sagt-sie-zur-praesidentschafts-kandidatur](https://www.spiegel.de/ausland/kamala-harris-erste-oeffentliche-aeusserung-nach-biden-rueckzug-was-sagt-sie-zur-praesidentschafts-kandidatur-a-d7a69ec5-26d1-4a38-9bab-5fb06fa70b9a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-kamala-harris-gaza-krieg-tadej-pogacar](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-kamala-harris-gaza-krieg-tadej-pogacar-a-772cce14-d7ac-4d2c-a76a-55345f480a79#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/kamala-harris-kokosnuss-und-palme-was-hat-es-mit-den-emojis-auf-sich](https://www.spiegel.de/netzwelt/web/kamala-harris-kokosnuss-und-palme-was-hat-es-mit-den-emojis-auf-sich-a-d16648c9-4ae8-476a-8f54-78bc55e0de94#ref=rss)
+### joe
 
-* [https://www.spiegel.de/ausland/kamala-harris-im-video-portraet-manchmal-muss-man-die-verdammte-tuer-eintreten](https://www.spiegel.de/ausland/kamala-harris-im-video-portraet-manchmal-muss-man-die-verdammte-tuer-eintreten-a-cc0aecaa-0fb3-4702-a0e2-d05e7f04ff4b#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-zieht-zurueck-donald-trump-und-die-republikaner-schalten-auf-angriff](https://www.spiegel.de/ausland/joe-biden-zieht-zurueck-donald-trump-und-die-republikaner-schalten-auf-angriff-a-5007aebf-a70b-4dfc-81a4-a2fa9c980979#ref=rss)
 * [https://www.spiegel.de/ausland/joe-biden-rueckzug-live-us-praesident-zieht-sich-von-seiner-kandidatur-zurueck](https://www.spiegel.de/ausland/joe-biden-rueckzug-live-us-praesident-zieht-sich-von-seiner-kandidatur-zurueck-a-257c6dcd-e571-46fe-a9f2-ff934ca8cd6e#ref=rss)
-* [https://www.spiegel.de/ausland/pressestimmen-zu-kamala-harris-sie-wirkt-auf-das-konservative-amerika-wie-ein-rotes-tuch-auf-einen-stier](https://www.spiegel.de/ausland/pressestimmen-zu-kamala-harris-sie-wirkt-auf-das-konservative-amerika-wie-ein-rotes-tuch-auf-einen-stier-a-936c28ac-1a72-4ee9-b1d0-c5bc6af72ec6#ref=rss)
-### zurück
+* [https://www.spiegel.de/ausland/usa-kamala-harris-wuerdigt-joe-bidens-unerreichtes-politisches-erbe](https://www.spiegel.de/ausland/usa-kamala-harris-wuerdigt-joe-bidens-unerreichtes-politisches-erbe-a-342dc50f-8858-4171-ad53-ac62cff4963f#ref=rss)
+* [https://www.spiegel.de/ausland/kamala-harris-erste-oeffentliche-aeusserung-nach-biden-rueckzug-was-sagt-sie-zur-praesidentschafts-kandidatur](https://www.spiegel.de/ausland/kamala-harris-erste-oeffentliche-aeusserung-nach-biden-rueckzug-was-sagt-sie-zur-praesidentschafts-kandidatur-a-d7a69ec5-26d1-4a38-9bab-5fb06fa70b9a#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-von-delaware-ins-weisse-haus-seine-karriere-in-bildern](https://www.spiegel.de/ausland/joe-biden-von-delaware-ins-weisse-haus-seine-karriere-in-bildern-a-b411d807-dc6e-4c23-8ba8-93bd66916c6e#ref=rss)
+### wir
 
-* [https://www.spiegel.de/ausland/joe-biden-zieht-zurueck-donald-trump-und-die-republikaner-schalten-auf-angriff](https://www.spiegel.de/ausland/joe-biden-zieht-zurueck-donald-trump-und-die-republikaner-schalten-auf-angriff-a-5007aebf-a70b-4dfc-81a4-a2fa9c980979#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-zieht-sich-aus-us-wahlkampf-zurueck-spendenwelle-fuer-demokraten](https://www.spiegel.de/ausland/joe-biden-zieht-sich-aus-us-wahlkampf-zurueck-spendenwelle-fuer-demokraten-a-4b9d0de6-8b49-4af3-a85b-53e2d4aa050e#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-west-wing-erfinder-aaron-sorkin-schlaegt-mitt-romney-als-ersatz-fuer-joe-biden-vor-und-rudert-zurueck](https://www.spiegel.de/ausland/us-wahl-2024-west-wing-erfinder-aaron-sorkin-schlaegt-mitt-romney-als-ersatz-fuer-joe-biden-vor-und-rudert-zurueck-a-f1115bf1-128d-489f-987d-2cd39dee67cd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-nur-ein-drittel-der-spd-mitglieder-wollen-ihn-als-kanzlerkandidat](https://www.spiegel.de/politik/deutschland/olaf-scholz-nur-ein-drittel-der-spd-mitglieder-wollen-ihn-als-kanzlerkandidat-a-fa21ba1b-bea4-4163-af1e-714bb4f6b1db#ref=rss)
-### rückzug
+* [https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen](https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen-a-5db7ef9e-22e5-4dd3-be1a-7f671f3c82aa#ref=rss)
+* [https://www.spiegel.de/ausland/secret-service-chefin-cheatle-raeumt-schwere-versaeumnisse-ein](https://www.spiegel.de/ausland/secret-service-chefin-cheatle-raeumt-schwere-versaeumnisse-ein-a-4d024138-5ddb-4524-8b95-e572776aad01#ref=rss)
+* [https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen-podcast](https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen-podcast-a-2bc7fdd2-f7c0-4ccd-8d0b-b3135c49b7b5#ref=rss)
+### auftritt
 
-* [https://www.spiegel.de/ausland/joe-biden-zieht-zurueck-donald-trump-und-die-republikaner-schalten-auf-angriff](https://www.spiegel.de/ausland/joe-biden-zieht-zurueck-donald-trump-und-die-republikaner-schalten-auf-angriff-a-5007aebf-a70b-4dfc-81a4-a2fa9c980979#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/joe-biden-so-beurteilen-deutsche-politiker-den-rueckzug](https://www.spiegel.de/politik/deutschland/joe-biden-so-beurteilen-deutsche-politiker-den-rueckzug-a-c3c2e029-ee25-4926-886f-59c24e42519f#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-rueckzug-live-us-praesident-zieht-sich-von-seiner-kandidatur-zurueck](https://www.spiegel.de/ausland/joe-biden-rueckzug-live-us-praesident-zieht-sich-von-seiner-kandidatur-zurueck-a-257c6dcd-e571-46fe-a9f2-ff934ca8cd6e#ref=rss)
-* [https://www.spiegel.de/ausland/pressestimmen-zu-kamala-harris-sie-wirkt-auf-das-konservative-amerika-wie-ein-rotes-tuch-auf-einen-stier](https://www.spiegel.de/ausland/pressestimmen-zu-kamala-harris-sie-wirkt-auf-das-konservative-amerika-wie-ein-rotes-tuch-auf-einen-stier-a-936c28ac-1a72-4ee9-b1d0-c5bc6af72ec6#ref=rss)
-### mehr
+* [https://www.spiegel.de/ausland/usa-kamala-harris-wuerdigt-joe-bidens-unerreichtes-politisches-erbe](https://www.spiegel.de/ausland/usa-kamala-harris-wuerdigt-joe-bidens-unerreichtes-politisches-erbe-a-342dc50f-8858-4171-ad53-ac62cff4963f#ref=rss)
+* [https://www.spiegel.de/ausland/kamala-harris-erste-oeffentliche-aeusserung-nach-biden-rueckzug-was-sagt-sie-zur-praesidentschafts-kandidatur](https://www.spiegel.de/ausland/kamala-harris-erste-oeffentliche-aeusserung-nach-biden-rueckzug-was-sagt-sie-zur-praesidentschafts-kandidatur-a-d7a69ec5-26d1-4a38-9bab-5fb06fa70b9a#ref=rss)
+* [https://www.spiegel.de/panorama/leute/lena-meyer-landrut-sagt-zweiten-auftritt-in-folge-ab](https://www.spiegel.de/panorama/leute/lena-meyer-landrut-sagt-zweiten-auftritt-in-folge-ab-a-fb9ccae7-0e2a-4bfb-ba9b-e4ad359a6db2#ref=rss)
+### entdeckt
 
-* [https://www.spiegel.de/ausland/joe-biden-seine-karriere-als-us-politiker-in-bildern](https://www.spiegel.de/ausland/joe-biden-seine-karriere-als-us-politiker-in-bildern-a-3ee7884c-678a-45c5-ad63-6bbb635ca418#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-nur-ein-drittel-der-spd-mitglieder-wollen-ihn-als-kanzlerkandidat](https://www.spiegel.de/politik/deutschland/olaf-scholz-nur-ein-drittel-der-spd-mitglieder-wollen-ihn-als-kanzlerkandidat-a-fa21ba1b-bea4-4163-af1e-714bb4f6b1db#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/brandenburg-mehr-rechtsextreme-vorfaelle-an-schulen](https://www.spiegel.de/panorama/bildung/brandenburg-mehr-rechtsextreme-vorfaelle-an-schulen-a-dae1b3c1-cef7-438b-ab66-100def49a042#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-pernille-harder-und-magdalena-eriksson-haben-sich-verlobt](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-pernille-harder-und-magdalena-eriksson-haben-sich-verlobt-a-ffdd35d2-e0b1-47ce-bfdd-5839008c91e1#ref=rss)
-* [https://www.spiegel.de/wissenschaft/aids-und-hiv-sorge-um-fortschritte-im-kampf-gegen-die-immunkrankheit](https://www.spiegel.de/wissenschaft/aids-und-hiv-sorge-um-fortschritte-im-kampf-gegen-die-immunkrankheit-a-776637b7-5af7-4d1b-87fa-061b140cb8bf#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/brandenburg-mehr-rechtsextreme-vorfaelle-an-schulen](https://www.spiegel.de/panorama/bildung/brandenburg-mehr-rechtsextreme-vorfaelle-an-schulen-a-dae1b3c1-cef7-438b-ab66-100def49a042#ref=rss)
-### formel
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-ungarn-mclaren-richtet-chaos-an-und-verstappen-kollidiert-mit-hamilton-pressestimmen](https://www.spiegel.de/sport/formel1/formel-1-in-ungarn-mclaren-richtet-chaos-an-und-verstappen-kollidiert-mit-hamilton-pressestimmen-a-12a5ff86-a267-4463-99f2-6110be6abb74#ref=rss)
-* [https://www.spiegel.de/sport/formel-e-pascal-wehrlein-erster-deutscher-weltmeister-der-elektro-rennserie](https://www.spiegel.de/sport/formel-e-pascal-wehrlein-erster-deutscher-weltmeister-der-elektro-rennserie-a-f4780b8e-edf3-432a-875e-e98b2c00cfc4#ref=rss)
-### spielen
-
-* [https://www.spiegel.de/sport/olympia-2024-palaestinensisches-ringerteam-kaempft-um-teilnahme-an-spielen-in-paris](https://www.spiegel.de/sport/olympia-2024-palaestinensisches-ringerteam-kaempft-um-teilnahme-an-spielen-in-paris-a-421c5989-9d84-4db4-b7b5-2be58832e04c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-nur-ein-drittel-der-spd-mitglieder-wollen-ihn-als-kanzlerkandidat](https://www.spiegel.de/politik/deutschland/olaf-scholz-nur-ein-drittel-der-spd-mitglieder-wollen-ihn-als-kanzlerkandidat-a-fa21ba1b-bea4-4163-af1e-714bb4f6b1db#ref=rss)
-### zieht
-
-* [https://www.spiegel.de/ausland/joe-biden-zieht-zurueck-donald-trump-und-die-republikaner-schalten-auf-angriff](https://www.spiegel.de/ausland/joe-biden-zieht-zurueck-donald-trump-und-die-republikaner-schalten-auf-angriff-a-5007aebf-a70b-4dfc-81a4-a2fa9c980979#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-zieht-sich-aus-us-wahlkampf-zurueck-spendenwelle-fuer-demokraten](https://www.spiegel.de/ausland/joe-biden-zieht-sich-aus-us-wahlkampf-zurueck-spendenwelle-fuer-demokraten-a-4b9d0de6-8b49-4af3-a85b-53e2d4aa050e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-nur-ein-drittel-der-spd-mitglieder-wollen-ihn-als-kanzlerkandidat](https://www.spiegel.de/politik/deutschland/olaf-scholz-nur-ein-drittel-der-spd-mitglieder-wollen-ihn-als-kanzlerkandidat-a-fa21ba1b-bea4-4163-af1e-714bb4f6b1db#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/joe-biden-zieht-zurueck-donald-trump-und-die-republikaner-schalten-auf-angriff](https://www.spiegel.de/ausland/joe-biden-zieht-zurueck-donald-trump-und-die-republikaner-schalten-auf-angriff-a-5007aebf-a70b-4dfc-81a4-a2fa9c980979#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-rueckzug-live-us-praesident-zieht-sich-von-seiner-kandidatur-zurueck](https://www.spiegel.de/ausland/joe-biden-rueckzug-live-us-praesident-zieht-sich-von-seiner-kandidatur-zurueck-a-257c6dcd-e571-46fe-a9f2-ff934ca8cd6e#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/joe-biden-seine-karriere-als-us-politiker-in-bildern](https://www.spiegel.de/ausland/joe-biden-seine-karriere-als-us-politiker-in-bildern-a-3ee7884c-678a-45c5-ad63-6bbb635ca418#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-nur-ein-drittel-der-spd-mitglieder-wollen-ihn-als-kanzlerkandidat](https://www.spiegel.de/politik/deutschland/olaf-scholz-nur-ein-drittel-der-spd-mitglieder-wollen-ihn-als-kanzlerkandidat-a-fa21ba1b-bea4-4163-af1e-714bb4f6b1db#ref=rss)
-### demokraten
-
-* [https://www.spiegel.de/ausland/joe-biden-zieht-sich-aus-us-wahlkampf-zurueck-spendenwelle-fuer-demokraten](https://www.spiegel.de/ausland/joe-biden-zieht-sich-aus-us-wahlkampf-zurueck-spendenwelle-fuer-demokraten-a-4b9d0de6-8b49-4af3-a85b-53e2d4aa050e#ref=rss)
-* [https://www.spiegel.de/ausland/pressestimmen-zu-kamala-harris-sie-wirkt-auf-das-konservative-amerika-wie-ein-rotes-tuch-auf-einen-stier](https://www.spiegel.de/ausland/pressestimmen-zu-kamala-harris-sie-wirkt-auf-das-konservative-amerika-wie-ein-rotes-tuch-auf-einen-stier-a-936c28ac-1a72-4ee9-b1d0-c5bc6af72ec6#ref=rss)
-### sorkin
-
-* [https://www.spiegel.de/ausland/us-wahl-2024-west-wing-erfinder-aaron-sorkin-schlaegt-mitt-romney-als-ersatz-fuer-joe-biden-vor-und-rudert-zurueck](https://www.spiegel.de/ausland/us-wahl-2024-west-wing-erfinder-aaron-sorkin-schlaegt-mitt-romney-als-ersatz-fuer-joe-biden-vor-und-rudert-zurueck-a-f1115bf1-128d-489f-987d-2cd39dee67cd#ref=rss)
-### gewalt
-
-* [https://www.spiegel.de/politik/deutschland/studie-zu-politischer-gewalt-afd-anhaenger-zeigen-deutlich-hoehere-gewaltbereitschaft](https://www.spiegel.de/politik/deutschland/studie-zu-politischer-gewalt-afd-anhaenger-zeigen-deutlich-hoehere-gewaltbereitschaft-a-6ad2ba6f-c5f6-4e3f-8191-23661e124238#ref=rss)
-### medien
-
-* [https://www.spiegel.de/sport/tour-de-france-2024-sieger-tadej-pogacar-der-prinz-des-radsports-bedroht-das-koenigtum-von-merckx](https://www.spiegel.de/sport/tour-de-france-2024-sieger-tadej-pogacar-der-prinz-des-radsports-bedroht-das-koenigtum-von-merckx-a-09e8ff07-15ab-41b1-be91-9430075f06d1#ref=rss)
-* [https://www.spiegel.de/ausland/pressestimmen-zu-kamala-harris-sie-wirkt-auf-das-konservative-amerika-wie-ein-rotes-tuch-auf-einen-stier](https://www.spiegel.de/ausland/pressestimmen-zu-kamala-harris-sie-wirkt-auf-das-konservative-amerika-wie-ein-rotes-tuch-auf-einen-stier-a-936c28ac-1a72-4ee9-b1d0-c5bc6af72ec6#ref=rss)
-* [https://www.spiegel.de/panorama/leute/madonnas-sohn-david-banda-meine-mutter-hat-mich-immer-unterstuetzt](https://www.spiegel.de/panorama/leute/madonnas-sohn-david-banda-meine-mutter-hat-mich-immer-unterstuetzt-a-37622ece-880d-4556-a267-bab284af077c#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/politik/deutschland/joe-biden-so-beurteilen-deutsche-politiker-den-rueckzug](https://www.spiegel.de/politik/deutschland/joe-biden-so-beurteilen-deutsche-politiker-den-rueckzug-a-c3c2e029-ee25-4926-886f-59c24e42519f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-bahn-schickt-bis-dezember-deutlich-weniger-fernzuege-nach-nordrhein-westfalen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-bahn-schickt-bis-dezember-deutlich-weniger-fernzuege-nach-nordrhein-westfalen-a-0fb051dc-6efe-44e9-ace4-d33600afda36#ref=rss)
-### bidens
-
-* [https://www.spiegel.de/politik/deutschland/joe-biden-so-beurteilen-deutsche-politiker-den-rueckzug](https://www.spiegel.de/politik/deutschland/joe-biden-so-beurteilen-deutsche-politiker-den-rueckzug-a-c3c2e029-ee25-4926-886f-59c24e42519f#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-rueckzug-live-us-praesident-zieht-sich-von-seiner-kandidatur-zurueck](https://www.spiegel.de/ausland/joe-biden-rueckzug-live-us-praesident-zieht-sich-von-seiner-kandidatur-zurueck-a-257c6dcd-e571-46fe-a9f2-ff934ca8cd6e#ref=rss)
-* [https://www.spiegel.de/ausland/pressestimmen-zu-kamala-harris-sie-wirkt-auf-das-konservative-amerika-wie-ein-rotes-tuch-auf-einen-stier](https://www.spiegel.de/ausland/pressestimmen-zu-kamala-harris-sie-wirkt-auf-das-konservative-amerika-wie-ein-rotes-tuch-auf-einen-stier-a-936c28ac-1a72-4ee9-b1d0-c5bc6af72ec6#ref=rss)
-### weniger
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-bahn-schickt-bis-dezember-deutlich-weniger-fernzuege-nach-nordrhein-westfalen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-bahn-schickt-bis-dezember-deutlich-weniger-fernzuege-nach-nordrhein-westfalen-a-0fb051dc-6efe-44e9-ace4-d33600afda36#ref=rss)
-* [https://www.spiegel.de/karriere/bewerbungen-hilfe-ich-bin-zu-gut-fuer-den-job-tipps-von-der-karriereberaterin](https://www.spiegel.de/karriere/bewerbungen-hilfe-ich-bin-zu-gut-fuer-den-job-tipps-von-der-karriereberaterin-a-8cf21ae6-8028-4603-a5cc-85f192b99959#ref=rss)
-### videoporträt
-
-* [https://www.spiegel.de/ausland/kamala-harris-im-video-portraet-manchmal-muss-man-die-verdammte-tuer-eintreten](https://www.spiegel.de/ausland/kamala-harris-im-video-portraet-manchmal-muss-man-die-verdammte-tuer-eintreten-a-cc0aecaa-0fb3-4702-a0e2-d05e7f04ff4b#ref=rss)
-### beerben
-
-* [https://www.spiegel.de/ausland/kamala-harris-im-video-portraet-manchmal-muss-man-die-verdammte-tuer-eintreten](https://www.spiegel.de/ausland/kamala-harris-im-video-portraet-manchmal-muss-man-die-verdammte-tuer-eintreten-a-cc0aecaa-0fb3-4702-a0e2-d05e7f04ff4b#ref=rss)
-* [https://www.spiegel.de/ausland/kamala-harris-wird-sie-joe-biden-beerben](https://www.spiegel.de/ausland/kamala-harris-wird-sie-joe-biden-beerben-a-91f10c7e-462c-428e-b909-864cca09f942#ref=rss)
-### karriere
-
-* [https://www.spiegel.de/ausland/kamala-harris-im-video-portraet-manchmal-muss-man-die-verdammte-tuer-eintreten](https://www.spiegel.de/ausland/kamala-harris-im-video-portraet-manchmal-muss-man-die-verdammte-tuer-eintreten-a-cc0aecaa-0fb3-4702-a0e2-d05e7f04ff4b#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-seine-karriere-als-us-politiker-in-bildern](https://www.spiegel.de/ausland/joe-biden-seine-karriere-als-us-politiker-in-bildern-a-3ee7884c-678a-45c5-ad63-6bbb635ca418#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/jemen-huthi-anfuehrer-zeigt-sich-gluecklich-ueber-direkten-kampf-gegen-israel](https://www.spiegel.de/ausland/jemen-huthi-anfuehrer-zeigt-sich-gluecklich-ueber-direkten-kampf-gegen-israel-a-57725fe1-8009-4d4c-8da7-6298d411648c#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/jemen-huthi-anfuehrer-zeigt-sich-gluecklich-ueber-direkten-kampf-gegen-israel](https://www.spiegel.de/ausland/jemen-huthi-anfuehrer-zeigt-sich-gluecklich-ueber-direkten-kampf-gegen-israel-a-57725fe1-8009-4d4c-8da7-6298d411648c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/aids-und-hiv-sorge-um-fortschritte-im-kampf-gegen-die-immunkrankheit](https://www.spiegel.de/wissenschaft/aids-und-hiv-sorge-um-fortschritte-im-kampf-gegen-die-immunkrankheit-a-776637b7-5af7-4d1b-87fa-061b140cb8bf#ref=rss)
-### erfreut
-
-* [https://www.spiegel.de/ausland/jemen-huthi-anfuehrer-zeigt-sich-gluecklich-ueber-direkten-kampf-gegen-israel](https://www.spiegel.de/ausland/jemen-huthi-anfuehrer-zeigt-sich-gluecklich-ueber-direkten-kampf-gegen-israel-a-57725fe1-8009-4d4c-8da7-6298d411648c#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-rueckzug-live-us-praesident-zieht-sich-von-seiner-kandidatur-zurueck](https://www.spiegel.de/ausland/joe-biden-rueckzug-live-us-praesident-zieht-sich-von-seiner-kandidatur-zurueck-a-257c6dcd-e571-46fe-a9f2-ff934ca8cd6e#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-pernille-harder-und-magdalena-eriksson-haben-sich-verlobt](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-pernille-harder-und-magdalena-eriksson-haben-sich-verlobt-a-ffdd35d2-e0b1-47ce-bfdd-5839008c91e1#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-pernille-harder-und-magdalena-eriksson-haben-sich-verlobt](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-pernille-harder-und-magdalena-eriksson-haben-sich-verlobt-a-ffdd35d2-e0b1-47ce-bfdd-5839008c91e1#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-pernille-harder-und-magdalena-eriksson-haben-sich-verlobt](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-pernille-harder-und-magdalena-eriksson-haben-sich-verlobt-a-ffdd35d2-e0b1-47ce-bfdd-5839008c91e1#ref=rss)
-### pernille
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-pernille-harder-und-magdalena-eriksson-haben-sich-verlobt](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-pernille-harder-und-magdalena-eriksson-haben-sich-verlobt-a-ffdd35d2-e0b1-47ce-bfdd-5839008c91e1#ref=rss)
-### harder
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-pernille-harder-und-magdalena-eriksson-haben-sich-verlobt](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-pernille-harder-und-magdalena-eriksson-haben-sich-verlobt-a-ffdd35d2-e0b1-47ce-bfdd-5839008c91e1#ref=rss)
-### magdalena
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-pernille-harder-und-magdalena-eriksson-haben-sich-verlobt](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-pernille-harder-und-magdalena-eriksson-haben-sich-verlobt-a-ffdd35d2-e0b1-47ce-bfdd-5839008c91e1#ref=rss)
-### eriksson
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-pernille-harder-und-magdalena-eriksson-haben-sich-verlobt](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-pernille-harder-und-magdalena-eriksson-haben-sich-verlobt-a-ffdd35d2-e0b1-47ce-bfdd-5839008c91e1#ref=rss)
-### vergangenen
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-pernille-harder-und-magdalena-eriksson-haben-sich-verlobt](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-pernille-harder-und-magdalena-eriksson-haben-sich-verlobt-a-ffdd35d2-e0b1-47ce-bfdd-5839008c91e1#ref=rss)
-* [https://www.spiegel.de/wissenschaft/aids-und-hiv-sorge-um-fortschritte-im-kampf-gegen-die-immunkrankheit](https://www.spiegel.de/wissenschaft/aids-und-hiv-sorge-um-fortschritte-im-kampf-gegen-die-immunkrankheit-a-776637b7-5af7-4d1b-87fa-061b140cb8bf#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/mars-rover-curiosity-rammt-fels-und-entdeckt-schwefel-gab-es-einst-leben-auf-dem-planeten](https://www.spiegel.de/wissenschaft/weltall/mars-rover-curiosity-rammt-fels-und-entdeckt-schwefel-gab-es-einst-leben-auf-dem-planeten-a-29660591-a57a-4500-b57e-a6c526c67709#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/ulm-brautpaar-entdeckt-bei-gondelfahrt-leiche-im-see](https://www.spiegel.de/panorama/gesellschaft/ulm-brautpaar-entdeckt-bei-gondelfahrt-leiche-im-see-a-757b9523-bcd3-4533-8ab7-fe0446124d73#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/exoplanet-umkreist-seinen-stern-in-gurkenform-1100-lichtjahre-entfernt](https://www.spiegel.de/wissenschaft/weltall/exoplanet-umkreist-seinen-stern-in-gurkenform-1100-lichtjahre-entfernt-a-3f4f63d6-95bd-47f4-8957-78fb1b7c290e#ref=rss)
 ### ungarn
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-ungarn-mclaren-richtet-chaos-an-und-verstappen-kollidiert-mit-hamilton-pressestimmen](https://www.spiegel.de/sport/formel1/formel-1-in-ungarn-mclaren-richtet-chaos-an-und-verstappen-kollidiert-mit-hamilton-pressestimmen-a-12a5ff86-a267-4463-99f2-6110be6abb74#ref=rss)
-### mclaren
+* [https://www.spiegel.de/sport/formel1/formel-1-in-ungarn-mclarens-teamorder-an-lando-norris-ein-angebot-das-er-nicht-ablehnen-kann](https://www.spiegel.de/sport/formel1/formel-1-in-ungarn-mclarens-teamorder-an-lando-norris-ein-angebot-das-er-nicht-ablehnen-kann-a-3059353c-6bba-4b49-8e8b-2d2fd0a67a57#ref=rss)
+* [https://www.spiegel.de/ausland/josep-borrell-eu-chefdiplomat-boykottiert-ungarn](https://www.spiegel.de/ausland/josep-borrell-eu-chefdiplomat-boykottiert-ungarn-a-6240789c-8379-44e2-b2f0-fccb34ce91b4#ref=rss)
+### biden
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-ungarn-mclaren-richtet-chaos-an-und-verstappen-kollidiert-mit-hamilton-pressestimmen](https://www.spiegel.de/sport/formel1/formel-1-in-ungarn-mclaren-richtet-chaos-an-und-verstappen-kollidiert-mit-hamilton-pressestimmen-a-12a5ff86-a267-4463-99f2-6110be6abb74#ref=rss)
-### verstappen
+* [https://www.spiegel.de/ausland/joe-biden-rueckzug-live-us-praesident-zieht-sich-von-seiner-kandidatur-zurueck](https://www.spiegel.de/ausland/joe-biden-rueckzug-live-us-praesident-zieht-sich-von-seiner-kandidatur-zurueck-a-257c6dcd-e571-46fe-a9f2-ff934ca8cd6e#ref=rss)
+* [https://www.spiegel.de/ausland/kamala-harris-erste-oeffentliche-aeusserung-nach-biden-rueckzug-was-sagt-sie-zur-praesidentschafts-kandidatur](https://www.spiegel.de/ausland/kamala-harris-erste-oeffentliche-aeusserung-nach-biden-rueckzug-was-sagt-sie-zur-praesidentschafts-kandidatur-a-d7a69ec5-26d1-4a38-9bab-5fb06fa70b9a#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-von-delaware-ins-weisse-haus-seine-karriere-in-bildern](https://www.spiegel.de/ausland/joe-biden-von-delaware-ins-weisse-haus-seine-karriere-in-bildern-a-b411d807-dc6e-4c23-8ba8-93bd66916c6e#ref=rss)
+### vorhersagen
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-ungarn-mclaren-richtet-chaos-an-und-verstappen-kollidiert-mit-hamilton-pressestimmen](https://www.spiegel.de/sport/formel1/formel-1-in-ungarn-mclaren-richtet-chaos-an-und-verstappen-kollidiert-mit-hamilton-pressestimmen-a-12a5ff86-a267-4463-99f2-6110be6abb74#ref=rss)
-### pressestimmen
+* [https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen](https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen-a-5db7ef9e-22e5-4dd3-be1a-7f671f3c82aa#ref=rss)
+* [https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen-podcast](https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen-podcast-a-2bc7fdd2-f7c0-4ccd-8d0b-b3135c49b7b5#ref=rss)
+### lernen
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-ungarn-mclaren-richtet-chaos-an-und-verstappen-kollidiert-mit-hamilton-pressestimmen](https://www.spiegel.de/sport/formel1/formel-1-in-ungarn-mclaren-richtet-chaos-an-und-verstappen-kollidiert-mit-hamilton-pressestimmen-a-12a5ff86-a267-4463-99f2-6110be6abb74#ref=rss)
-* [https://www.spiegel.de/ausland/pressestimmen-zu-kamala-harris-sie-wirkt-auf-das-konservative-amerika-wie-ein-rotes-tuch-auf-einen-stier](https://www.spiegel.de/ausland/pressestimmen-zu-kamala-harris-sie-wirkt-auf-das-konservative-amerika-wie-ein-rotes-tuch-auf-einen-stier-a-936c28ac-1a72-4ee9-b1d0-c5bc6af72ec6#ref=rss)
-### große
+* [https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen](https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen-a-5db7ef9e-22e5-4dd3-be1a-7f671f3c82aa#ref=rss)
+* [https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen-podcast](https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen-podcast-a-2bc7fdd2-f7c0-4ccd-8d0b-b3135c49b7b5#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-ungarn-mclaren-richtet-chaos-an-und-verstappen-kollidiert-mit-hamilton-pressestimmen](https://www.spiegel.de/sport/formel1/formel-1-in-ungarn-mclaren-richtet-chaos-an-und-verstappen-kollidiert-mit-hamilton-pressestimmen-a-12a5ff86-a267-4463-99f2-6110be6abb74#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/studie-zu-politischer-gewalt-afd-anhaenger-zeigen-deutlich-hoehere-gewaltbereitschaft](https://www.spiegel.de/politik/deutschland/studie-zu-politischer-gewalt-afd-anhaenger-zeigen-deutlich-hoehere-gewaltbereitschaft-a-6ad2ba6f-c5f6-4e3f-8191-23661e124238#ref=rss)
-### internationale
+* [https://www.spiegel.de/panorama/justiz/kiel-ex-freundin-getoetet-20-jaehriger-zu-fuenf-jahren-jugendstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/kiel-ex-freundin-getoetet-20-jaehriger-zu-fuenf-jahren-jugendstrafe-verurteilt-a-699104a4-76e9-49da-9cfe-11a0349eedde#ref=rss)
+* [https://www.spiegel.de/kultur/tv/kim-cattrall-wohl-keine-rueckkehr-als-samantha-jones-in-and-just-like-that](https://www.spiegel.de/kultur/tv/kim-cattrall-wohl-keine-rueckkehr-als-samantha-jones-in-and-just-like-that-a-36c3662a-e886-49a6-b9ca-3dcf2cd711ea#ref=rss)
+* [https://www.spiegel.de/panorama/leute/lena-meyer-landrut-sagt-zweiten-auftritt-in-folge-ab](https://www.spiegel.de/panorama/leute/lena-meyer-landrut-sagt-zweiten-auftritt-in-folge-ab-a-fb9ccae7-0e2a-4bfb-ba9b-e4ad359a6db2#ref=rss)
+* [https://www.spiegel.de/kultur/kino/captain-america-marvel-superheldin-sabra-darf-offenbar-israelische-identitaet-behalten](https://www.spiegel.de/kultur/kino/captain-america-marvel-superheldin-sabra-darf-offenbar-israelische-identitaet-behalten-a-54de567d-c754-4bb1-9cb5-26ef79d20fc3#ref=rss)
+### donald
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-ungarn-mclaren-richtet-chaos-an-und-verstappen-kollidiert-mit-hamilton-pressestimmen](https://www.spiegel.de/sport/formel1/formel-1-in-ungarn-mclaren-richtet-chaos-an-und-verstappen-kollidiert-mit-hamilton-pressestimmen-a-12a5ff86-a267-4463-99f2-6110be6abb74#ref=rss)
-* [https://www.spiegel.de/ausland/pressestimmen-zu-kamala-harris-sie-wirkt-auf-das-konservative-amerika-wie-ein-rotes-tuch-auf-einen-stier](https://www.spiegel.de/ausland/pressestimmen-zu-kamala-harris-sie-wirkt-auf-das-konservative-amerika-wie-ein-rotes-tuch-auf-einen-stier-a-936c28ac-1a72-4ee9-b1d0-c5bc6af72ec6#ref=rss)
-### einig
+* [https://www.spiegel.de/ausland/secret-service-chefin-cheatle-raeumt-schwere-versaeumnisse-ein](https://www.spiegel.de/ausland/secret-service-chefin-cheatle-raeumt-schwere-versaeumnisse-ein-a-4d024138-5ddb-4524-8b95-e572776aad01#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-kamala-harris-gaza-krieg-tadej-pogacar](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-kamala-harris-gaza-krieg-tadej-pogacar-a-772cce14-d7ac-4d2c-a76a-55345f480a79#ref=rss)
+* [https://www.spiegel.de/ausland/wieso-versagte-der-secret-service-beim-trump-attentat](https://www.spiegel.de/ausland/wieso-versagte-der-secret-service-beim-trump-attentat-a-45f86187-88ce-4a31-b2b2-58c929544e8c#ref=rss)
+### trump
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-ungarn-mclaren-richtet-chaos-an-und-verstappen-kollidiert-mit-hamilton-pressestimmen](https://www.spiegel.de/sport/formel1/formel-1-in-ungarn-mclaren-richtet-chaos-an-und-verstappen-kollidiert-mit-hamilton-pressestimmen-a-12a5ff86-a267-4463-99f2-6110be6abb74#ref=rss)
-* [https://www.spiegel.de/ausland/pressestimmen-zu-kamala-harris-sie-wirkt-auf-das-konservative-amerika-wie-ein-rotes-tuch-auf-einen-stier](https://www.spiegel.de/ausland/pressestimmen-zu-kamala-harris-sie-wirkt-auf-das-konservative-amerika-wie-ein-rotes-tuch-auf-einen-stier-a-936c28ac-1a72-4ee9-b1d0-c5bc6af72ec6#ref=rss)
-### verliert
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-kamala-harris-gaza-krieg-tadej-pogacar](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-kamala-harris-gaza-krieg-tadej-pogacar-a-772cce14-d7ac-4d2c-a76a-55345f480a79#ref=rss)
+* [https://www.spiegel.de/ausland/wieso-versagte-der-secret-service-beim-trump-attentat](https://www.spiegel.de/ausland/wieso-versagte-der-secret-service-beim-trump-attentat-a-45f86187-88ce-4a31-b2b2-58c929544e8c#ref=rss)
+### baerbock
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-ungarn-mclaren-richtet-chaos-an-und-verstappen-kollidiert-mit-hamilton-pressestimmen](https://www.spiegel.de/sport/formel1/formel-1-in-ungarn-mclaren-richtet-chaos-an-und-verstappen-kollidiert-mit-hamilton-pressestimmen-a-12a5ff86-a267-4463-99f2-6110be6abb74#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/varta-sanierungsplan-schockt-aktionaere-aktienkurs-crasht-um-80-prozent](https://www.spiegel.de/wirtschaft/unternehmen/varta-sanierungsplan-schockt-aktionaere-aktienkurs-crasht-um-80-prozent-a-3bb47583-2c34-42d9-9f7d-57b94036d815#ref=rss)
-### 2024
+* [https://www.spiegel.de/ausland/josep-borrell-eu-chefdiplomat-boykottiert-ungarn](https://www.spiegel.de/ausland/josep-borrell-eu-chefdiplomat-boykottiert-ungarn-a-6240789c-8379-44e2-b2f0-fccb34ce91b4#ref=rss)
+* [https://www.spiegel.de/ausland/annalena-baerbock-appelliert-nach-uno-rechtsgutachten-zu-besatzungspolitik-an-israel](https://www.spiegel.de/ausland/annalena-baerbock-appelliert-nach-uno-rechtsgutachten-zu-besatzungspolitik-an-israel-a-f377a6b1-6375-44e4-a062-b6c5ac69091b#ref=rss)
+### kosten
 
-* [https://www.spiegel.de/sport/olympia-2024-palaestinensisches-ringerteam-kaempft-um-teilnahme-an-spielen-in-paris](https://www.spiegel.de/sport/olympia-2024-palaestinensisches-ringerteam-kaempft-um-teilnahme-an-spielen-in-paris-a-421c5989-9d84-4db4-b7b5-2be58832e04c#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-west-wing-erfinder-aaron-sorkin-schlaegt-mitt-romney-als-ersatz-fuer-joe-biden-vor-und-rudert-zurueck](https://www.spiegel.de/ausland/us-wahl-2024-west-wing-erfinder-aaron-sorkin-schlaegt-mitt-romney-als-ersatz-fuer-joe-biden-vor-und-rudert-zurueck-a-f1115bf1-128d-489f-987d-2cd39dee67cd#ref=rss)
-### seines
+* [https://www.spiegel.de/ausland/grossbritannien-innenministerin-beziffert-kosten-des-gekippten-ruanda-pakts-auf-700-millionen-pfund](https://www.spiegel.de/ausland/grossbritannien-innenministerin-beziffert-kosten-des-gekippten-ruanda-pakts-auf-700-millionen-pfund-a-27af3380-0fa2-4a1c-8234-e75adaf17ec0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/immobilien-neue-eigenheime-in-metropolen-werden-rar](https://www.spiegel.de/wirtschaft/immobilien-neue-eigenheime-in-metropolen-werden-rar-a-7ed713c8-e26b-4e4e-8a73-5c990654b699#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/sport/olympia-2024-palaestinensisches-ringerteam-kaempft-um-teilnahme-an-spielen-in-paris](https://www.spiegel.de/sport/olympia-2024-palaestinensisches-ringerteam-kaempft-um-teilnahme-an-spielen-in-paris-a-421c5989-9d84-4db4-b7b5-2be58832e04c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/varta-sanierungsplan-schockt-aktionaere-aktienkurs-crasht-um-80-prozent](https://www.spiegel.de/wirtschaft/unternehmen/varta-sanierungsplan-schockt-aktionaere-aktienkurs-crasht-um-80-prozent-a-3bb47583-2c34-42d9-9f7d-57b94036d815#ref=rss)
-### köln
+* [https://www.spiegel.de/panorama/justiz/kiel-ex-freundin-getoetet-20-jaehriger-zu-fuenf-jahren-jugendstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/kiel-ex-freundin-getoetet-20-jaehriger-zu-fuenf-jahren-jugendstrafe-verurteilt-a-699104a4-76e9-49da-9cfe-11a0349eedde#ref=rss)
+* [https://www.spiegel.de/ausland/russland-gericht-verurteilt-journalistin-alsu-kurmasheva-zu-sechseinhalb-jahren-haft](https://www.spiegel.de/ausland/russland-gericht-verurteilt-journalistin-alsu-kurmasheva-zu-sechseinhalb-jahren-haft-a-0aaf3a0a-77d0-45ab-b971-ec4bbee25c3e#ref=rss)
+* [https://www.spiegel.de/kultur/kino/captain-america-marvel-superheldin-sabra-darf-offenbar-israelische-identitaet-behalten](https://www.spiegel.de/kultur/kino/captain-america-marvel-superheldin-sabra-darf-offenbar-israelische-identitaet-behalten-a-54de567d-c754-4bb1-9cb5-26ef79d20fc3#ref=rss)
+### usa
 
-* [https://www.spiegel.de/panorama/gesellschaft/koeln-rechtsextreme-rufe-und-abgerissene-fahnen-beim-csd](https://www.spiegel.de/panorama/gesellschaft/koeln-rechtsextreme-rufe-und-abgerissene-fahnen-beim-csd-a-b57c3f3b-5882-47dd-b707-3c0f0bcd9b6d#ref=rss)
-### rechtsextreme
+* [https://www.spiegel.de/ausland/usa-kamala-harris-wuerdigt-joe-bidens-unerreichtes-politisches-erbe](https://www.spiegel.de/ausland/usa-kamala-harris-wuerdigt-joe-bidens-unerreichtes-politisches-erbe-a-342dc50f-8858-4171-ad53-ac62cff4963f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/metin-hakverdi-spd-ueber-kamala-harris-sie-hat-ihre-lektion-gelernt](https://www.spiegel.de/politik/deutschland/metin-hakverdi-spd-ueber-kamala-harris-sie-hat-ihre-lektion-gelernt-a-ec30ccd8-9ddb-4020-9983-5e6c6940311b#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-von-delaware-ins-weisse-haus-seine-karriere-in-bildern](https://www.spiegel.de/ausland/joe-biden-von-delaware-ins-weisse-haus-seine-karriere-in-bildern-a-b411d807-dc6e-4c23-8ba8-93bd66916c6e#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/panorama/gesellschaft/koeln-rechtsextreme-rufe-und-abgerissene-fahnen-beim-csd](https://www.spiegel.de/panorama/gesellschaft/koeln-rechtsextreme-rufe-und-abgerissene-fahnen-beim-csd-a-b57c3f3b-5882-47dd-b707-3c0f0bcd9b6d#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/brandenburg-mehr-rechtsextreme-vorfaelle-an-schulen](https://www.spiegel.de/panorama/bildung/brandenburg-mehr-rechtsextreme-vorfaelle-an-schulen-a-dae1b3c1-cef7-438b-ab66-100def49a042#ref=rss)
-### csd
+* [https://www.spiegel.de/wirtschaft/immobilien-neue-eigenheime-in-metropolen-werden-rar](https://www.spiegel.de/wirtschaft/immobilien-neue-eigenheime-in-metropolen-werden-rar-a-7ed713c8-e26b-4e4e-8a73-5c990654b699#ref=rss)
+* [https://www.spiegel.de/wissenschaft/hunde-warum-sie-manchmal-pessimistische-entscheidungen-treffen](https://www.spiegel.de/wissenschaft/hunde-warum-sie-manchmal-pessimistische-entscheidungen-treffen-a-8c7076c9-7c6e-42fe-85bf-dff0fb8cc3a2#ref=rss)
+### cheatle
 
-* [https://www.spiegel.de/panorama/gesellschaft/koeln-rechtsextreme-rufe-und-abgerissene-fahnen-beim-csd](https://www.spiegel.de/panorama/gesellschaft/koeln-rechtsextreme-rufe-und-abgerissene-fahnen-beim-csd-a-b57c3f3b-5882-47dd-b707-3c0f0bcd9b6d#ref=rss)
-### großen
+* [https://www.spiegel.de/ausland/secret-service-chefin-cheatle-raeumt-schwere-versaeumnisse-ein](https://www.spiegel.de/ausland/secret-service-chefin-cheatle-raeumt-schwere-versaeumnisse-ein-a-4d024138-5ddb-4524-8b95-e572776aad01#ref=rss)
+* [https://www.spiegel.de/ausland/wieso-versagte-der-secret-service-beim-trump-attentat](https://www.spiegel.de/ausland/wieso-versagte-der-secret-service-beim-trump-attentat-a-45f86187-88ce-4a31-b2b2-58c929544e8c#ref=rss)
+### and
 
-* [https://www.spiegel.de/panorama/gesellschaft/koeln-rechtsextreme-rufe-und-abgerissene-fahnen-beim-csd](https://www.spiegel.de/panorama/gesellschaft/koeln-rechtsextreme-rufe-und-abgerissene-fahnen-beim-csd-a-b57c3f3b-5882-47dd-b707-3c0f0bcd9b6d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/joe-biden-so-beurteilen-deutsche-politiker-den-rueckzug](https://www.spiegel.de/politik/deutschland/joe-biden-so-beurteilen-deutsche-politiker-den-rueckzug-a-c3c2e029-ee25-4926-886f-59c24e42519f#ref=rss)
-### republikaner
+* [https://www.spiegel.de/kultur/tv/kim-cattrall-wohl-keine-rueckkehr-als-samantha-jones-in-and-just-like-that](https://www.spiegel.de/kultur/tv/kim-cattrall-wohl-keine-rueckkehr-als-samantha-jones-in-and-just-like-that-a-36c3662a-e886-49a6-b9ca-3dcf2cd711ea#ref=rss)
+### unter
 
-* [https://www.spiegel.de/ausland/joe-biden-zieht-zurueck-donald-trump-und-die-republikaner-schalten-auf-angriff](https://www.spiegel.de/ausland/joe-biden-zieht-zurueck-donald-trump-und-die-republikaner-schalten-auf-angriff-a-5007aebf-a70b-4dfc-81a4-a2fa9c980979#ref=rss)
-### aids
+* [https://www.spiegel.de/ausland/gaza-krieg-schwangere-und-neugeborene-leiden-unter-hunger-und-mangelnder-medizinischer-versorgung](https://www.spiegel.de/ausland/gaza-krieg-schwangere-und-neugeborene-leiden-unter-hunger-und-mangelnder-medizinischer-versorgung-a-fdfc42ea-4e1c-42ec-8ac4-8678bd00dcd3#ref=rss)
+* [https://www.spiegel.de/ausland/russland-gericht-verurteilt-journalistin-alsu-kurmasheva-zu-sechseinhalb-jahren-haft](https://www.spiegel.de/ausland/russland-gericht-verurteilt-journalistin-alsu-kurmasheva-zu-sechseinhalb-jahren-haft-a-0aaf3a0a-77d0-45ab-b971-ec4bbee25c3e#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/instagram-und-facebook-nutzt-meta-irrefuehrende-oder-aggressive-praktiken](https://www.spiegel.de/netzwelt/apps/instagram-und-facebook-nutzt-meta-irrefuehrende-oder-aggressive-praktiken-a-4085e998-3e9d-419e-aea4-a3645c1338a2#ref=rss)
+### marsrover
 
-* [https://www.spiegel.de/wissenschaft/aids-und-hiv-sorge-um-fortschritte-im-kampf-gegen-die-immunkrankheit](https://www.spiegel.de/wissenschaft/aids-und-hiv-sorge-um-fortschritte-im-kampf-gegen-die-immunkrankheit-a-776637b7-5af7-4d1b-87fa-061b140cb8bf#ref=rss)
-### fortschritte
+* [https://www.spiegel.de/wissenschaft/weltall/mars-rover-curiosity-rammt-fels-und-entdeckt-schwefel-gab-es-einst-leben-auf-dem-planeten](https://www.spiegel.de/wissenschaft/weltall/mars-rover-curiosity-rammt-fels-und-entdeckt-schwefel-gab-es-einst-leben-auf-dem-planeten-a-29660591-a57a-4500-b57e-a6c526c67709#ref=rss)
+### curiosity
 
-* [https://www.spiegel.de/wissenschaft/aids-und-hiv-sorge-um-fortschritte-im-kampf-gegen-die-immunkrankheit](https://www.spiegel.de/wissenschaft/aids-und-hiv-sorge-um-fortschritte-im-kampf-gegen-die-immunkrankheit-a-776637b7-5af7-4d1b-87fa-061b140cb8bf#ref=rss)
-### immunkrankheit
+* [https://www.spiegel.de/wissenschaft/weltall/mars-rover-curiosity-rammt-fels-und-entdeckt-schwefel-gab-es-einst-leben-auf-dem-planeten](https://www.spiegel.de/wissenschaft/weltall/mars-rover-curiosity-rammt-fels-und-entdeckt-schwefel-gab-es-einst-leben-auf-dem-planeten-a-29660591-a57a-4500-b57e-a6c526c67709#ref=rss)
+### fels
 
-* [https://www.spiegel.de/wissenschaft/aids-und-hiv-sorge-um-fortschritte-im-kampf-gegen-die-immunkrankheit](https://www.spiegel.de/wissenschaft/aids-und-hiv-sorge-um-fortschritte-im-kampf-gegen-die-immunkrankheit-a-776637b7-5af7-4d1b-87fa-061b140cb8bf#ref=rss)
-### bisherigen
+* [https://www.spiegel.de/wissenschaft/weltall/mars-rover-curiosity-rammt-fels-und-entdeckt-schwefel-gab-es-einst-leben-auf-dem-planeten](https://www.spiegel.de/wissenschaft/weltall/mars-rover-curiosity-rammt-fels-und-entdeckt-schwefel-gab-es-einst-leben-auf-dem-planeten-a-29660591-a57a-4500-b57e-a6c526c67709#ref=rss)
+### schwefel
 
-* [https://www.spiegel.de/wissenschaft/aids-und-hiv-sorge-um-fortschritte-im-kampf-gegen-die-immunkrankheit](https://www.spiegel.de/wissenschaft/aids-und-hiv-sorge-um-fortschritte-im-kampf-gegen-die-immunkrankheit-a-776637b7-5af7-4d1b-87fa-061b140cb8bf#ref=rss)
-* [https://www.spiegel.de/karriere/bewerbungen-hilfe-ich-bin-zu-gut-fuer-den-job-tipps-von-der-karriereberaterin](https://www.spiegel.de/karriere/bewerbungen-hilfe-ich-bin-zu-gut-fuer-den-job-tipps-von-der-karriereberaterin-a-8cf21ae6-8028-4603-a5cc-85f192b99959#ref=rss)
-### varta
+* [https://www.spiegel.de/wissenschaft/weltall/mars-rover-curiosity-rammt-fels-und-entdeckt-schwefel-gab-es-einst-leben-auf-dem-planeten](https://www.spiegel.de/wissenschaft/weltall/mars-rover-curiosity-rammt-fels-und-entdeckt-schwefel-gab-es-einst-leben-auf-dem-planeten-a-29660591-a57a-4500-b57e-a6c526c67709#ref=rss)
+### einst
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/varta-sanierungsplan-schockt-aktionaere-aktienkurs-crasht-um-80-prozent](https://www.spiegel.de/wirtschaft/unternehmen/varta-sanierungsplan-schockt-aktionaere-aktienkurs-crasht-um-80-prozent-a-3bb47583-2c34-42d9-9f7d-57b94036d815#ref=rss)
-### aktionäre
+* [https://www.spiegel.de/wissenschaft/weltall/mars-rover-curiosity-rammt-fels-und-entdeckt-schwefel-gab-es-einst-leben-auf-dem-planeten](https://www.spiegel.de/wissenschaft/weltall/mars-rover-curiosity-rammt-fels-und-entdeckt-schwefel-gab-es-einst-leben-auf-dem-planeten-a-29660591-a57a-4500-b57e-a6c526c67709#ref=rss)
+### leben
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/varta-sanierungsplan-schockt-aktionaere-aktienkurs-crasht-um-80-prozent](https://www.spiegel.de/wirtschaft/unternehmen/varta-sanierungsplan-schockt-aktionaere-aktienkurs-crasht-um-80-prozent-a-3bb47583-2c34-42d9-9f7d-57b94036d815#ref=rss)
-### aktienkurs
+* [https://www.spiegel.de/wissenschaft/weltall/mars-rover-curiosity-rammt-fels-und-entdeckt-schwefel-gab-es-einst-leben-auf-dem-planeten](https://www.spiegel.de/wissenschaft/weltall/mars-rover-curiosity-rammt-fels-und-entdeckt-schwefel-gab-es-einst-leben-auf-dem-planeten-a-29660591-a57a-4500-b57e-a6c526c67709#ref=rss)
+### formel
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/varta-sanierungsplan-schockt-aktionaere-aktienkurs-crasht-um-80-prozent](https://www.spiegel.de/wirtschaft/unternehmen/varta-sanierungsplan-schockt-aktionaere-aktienkurs-crasht-um-80-prozent-a-3bb47583-2c34-42d9-9f7d-57b94036d815#ref=rss)
-### west
+* [https://www.spiegel.de/sport/formel1/formel-1-in-ungarn-mclarens-teamorder-an-lando-norris-ein-angebot-das-er-nicht-ablehnen-kann](https://www.spiegel.de/sport/formel1/formel-1-in-ungarn-mclarens-teamorder-an-lando-norris-ein-angebot-das-er-nicht-ablehnen-kann-a-3059353c-6bba-4b49-8e8b-2d2fd0a67a57#ref=rss)
+### 1
 
-* [https://www.spiegel.de/ausland/us-wahl-2024-west-wing-erfinder-aaron-sorkin-schlaegt-mitt-romney-als-ersatz-fuer-joe-biden-vor-und-rudert-zurueck](https://www.spiegel.de/ausland/us-wahl-2024-west-wing-erfinder-aaron-sorkin-schlaegt-mitt-romney-als-ersatz-fuer-joe-biden-vor-und-rudert-zurueck-a-f1115bf1-128d-489f-987d-2cd39dee67cd#ref=rss)
-### aaron
+* [https://www.spiegel.de/sport/formel1/formel-1-in-ungarn-mclarens-teamorder-an-lando-norris-ein-angebot-das-er-nicht-ablehnen-kann](https://www.spiegel.de/sport/formel1/formel-1-in-ungarn-mclarens-teamorder-an-lando-norris-ein-angebot-das-er-nicht-ablehnen-kann-a-3059353c-6bba-4b49-8e8b-2d2fd0a67a57#ref=rss)
+### teamorder
 
-* [https://www.spiegel.de/ausland/us-wahl-2024-west-wing-erfinder-aaron-sorkin-schlaegt-mitt-romney-als-ersatz-fuer-joe-biden-vor-und-rudert-zurueck](https://www.spiegel.de/ausland/us-wahl-2024-west-wing-erfinder-aaron-sorkin-schlaegt-mitt-romney-als-ersatz-fuer-joe-biden-vor-und-rudert-zurueck-a-f1115bf1-128d-489f-987d-2cd39dee67cd#ref=rss)
-### studie
+* [https://www.spiegel.de/sport/formel1/formel-1-in-ungarn-mclarens-teamorder-an-lando-norris-ein-angebot-das-er-nicht-ablehnen-kann](https://www.spiegel.de/sport/formel1/formel-1-in-ungarn-mclarens-teamorder-an-lando-norris-ein-angebot-das-er-nicht-ablehnen-kann-a-3059353c-6bba-4b49-8e8b-2d2fd0a67a57#ref=rss)
+### lando
 
-* [https://www.spiegel.de/politik/deutschland/studie-zu-politischer-gewalt-afd-anhaenger-zeigen-deutlich-hoehere-gewaltbereitschaft](https://www.spiegel.de/politik/deutschland/studie-zu-politischer-gewalt-afd-anhaenger-zeigen-deutlich-hoehere-gewaltbereitschaft-a-6ad2ba6f-c5f6-4e3f-8191-23661e124238#ref=rss)
-### deutlich
+* [https://www.spiegel.de/sport/formel1/formel-1-in-ungarn-mclarens-teamorder-an-lando-norris-ein-angebot-das-er-nicht-ablehnen-kann](https://www.spiegel.de/sport/formel1/formel-1-in-ungarn-mclarens-teamorder-an-lando-norris-ein-angebot-das-er-nicht-ablehnen-kann-a-3059353c-6bba-4b49-8e8b-2d2fd0a67a57#ref=rss)
+### norris
 
-* [https://www.spiegel.de/politik/deutschland/studie-zu-politischer-gewalt-afd-anhaenger-zeigen-deutlich-hoehere-gewaltbereitschaft](https://www.spiegel.de/politik/deutschland/studie-zu-politischer-gewalt-afd-anhaenger-zeigen-deutlich-hoehere-gewaltbereitschaft-a-6ad2ba6f-c5f6-4e3f-8191-23661e124238#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-bahn-schickt-bis-dezember-deutlich-weniger-fernzuege-nach-nordrhein-westfalen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-bahn-schickt-bis-dezember-deutlich-weniger-fernzuege-nach-nordrhein-westfalen-a-0fb051dc-6efe-44e9-ace4-d33600afda36#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-in-ungarn-mclarens-teamorder-an-lando-norris-ein-angebot-das-er-nicht-ablehnen-kann](https://www.spiegel.de/sport/formel1/formel-1-in-ungarn-mclarens-teamorder-an-lando-norris-ein-angebot-das-er-nicht-ablehnen-kann-a-3059353c-6bba-4b49-8e8b-2d2fd0a67a57#ref=rss)
+### tahiti
+
+* [https://www.spiegel.de/sport/olympia/olympische-spiele-2024-das-muessen-sie-zu-den-surfwettbewerben-auf-tahiti-wissen](https://www.spiegel.de/sport/olympia/olympische-spiele-2024-das-muessen-sie-zu-den-surfwettbewerben-auf-tahiti-wissen-a-5769b358-c72b-4e65-bb12-70eff0edd5d0#ref=rss)
+### fast
+
+* [https://www.spiegel.de/sport/olympia/olympische-spiele-2024-das-muessen-sie-zu-den-surfwettbewerben-auf-tahiti-wissen](https://www.spiegel.de/sport/olympia/olympische-spiele-2024-das-muessen-sie-zu-den-surfwettbewerben-auf-tahiti-wissen-a-5769b358-c72b-4e65-bb12-70eff0edd5d0#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-von-delaware-ins-weisse-haus-seine-karriere-in-bildern](https://www.spiegel.de/ausland/joe-biden-von-delaware-ins-weisse-haus-seine-karriere-in-bildern-a-b411d807-dc6e-4c23-8ba8-93bd66916c6e#ref=rss)
+### entfernt
+
+* [https://www.spiegel.de/sport/olympia/olympische-spiele-2024-das-muessen-sie-zu-den-surfwettbewerben-auf-tahiti-wissen](https://www.spiegel.de/sport/olympia/olympische-spiele-2024-das-muessen-sie-zu-den-surfwettbewerben-auf-tahiti-wissen-a-5769b358-c72b-4e65-bb12-70eff0edd5d0#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/exoplanet-umkreist-seinen-stern-in-gurkenform-1100-lichtjahre-entfernt](https://www.spiegel.de/wissenschaft/weltall/exoplanet-umkreist-seinen-stern-in-gurkenform-1100-lichtjahre-entfernt-a-3f4f63d6-95bd-47f4-8957-78fb1b7c290e#ref=rss)
+### welt
+
+* [https://www.spiegel.de/sport/olympia/olympische-spiele-2024-das-muessen-sie-zu-den-surfwettbewerben-auf-tahiti-wissen](https://www.spiegel.de/sport/olympia/olympische-spiele-2024-das-muessen-sie-zu-den-surfwettbewerben-auf-tahiti-wissen-a-5769b358-c72b-4e65-bb12-70eff0edd5d0#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-krieg-schwangere-und-neugeborene-leiden-unter-hunger-und-mangelnder-medizinischer-versorgung](https://www.spiegel.de/ausland/gaza-krieg-schwangere-und-neugeborene-leiden-unter-hunger-und-mangelnder-medizinischer-versorgung-a-fdfc42ea-4e1c-42ec-8ac4-8678bd00dcd3#ref=rss)
+### rückzug
+
+* [https://www.spiegel.de/ausland/joe-biden-rueckzug-live-us-praesident-zieht-sich-von-seiner-kandidatur-zurueck](https://www.spiegel.de/ausland/joe-biden-rueckzug-live-us-praesident-zieht-sich-von-seiner-kandidatur-zurueck-a-257c6dcd-e571-46fe-a9f2-ff934ca8cd6e#ref=rss)
+* [https://www.spiegel.de/ausland/kamala-harris-erste-oeffentliche-aeusserung-nach-biden-rueckzug-was-sagt-sie-zur-praesidentschafts-kandidatur](https://www.spiegel.de/ausland/kamala-harris-erste-oeffentliche-aeusserung-nach-biden-rueckzug-was-sagt-sie-zur-praesidentschafts-kandidatur-a-d7a69ec5-26d1-4a38-9bab-5fb06fa70b9a#ref=rss)
+### live
+
+* [https://www.spiegel.de/ausland/joe-biden-rueckzug-live-us-praesident-zieht-sich-von-seiner-kandidatur-zurueck](https://www.spiegel.de/ausland/joe-biden-rueckzug-live-us-praesident-zieht-sich-von-seiner-kandidatur-zurueck-a-257c6dcd-e571-46fe-a9f2-ff934ca8cd6e#ref=rss)
+* [https://www.spiegel.de/ausland/wieso-versagte-der-secret-service-beim-trump-attentat](https://www.spiegel.de/ausland/wieso-versagte-der-secret-service-beim-trump-attentat-a-45f86187-88ce-4a31-b2b2-58c929544e8c#ref=rss)
+### nancy
+
+* [https://www.spiegel.de/ausland/joe-biden-rueckzug-live-us-praesident-zieht-sich-von-seiner-kandidatur-zurueck](https://www.spiegel.de/ausland/joe-biden-rueckzug-live-us-praesident-zieht-sich-von-seiner-kandidatur-zurueck-a-257c6dcd-e571-46fe-a9f2-ff934ca8cd6e#ref=rss)
+### pelosi
+
+* [https://www.spiegel.de/ausland/joe-biden-rueckzug-live-us-praesident-zieht-sich-von-seiner-kandidatur-zurueck](https://www.spiegel.de/ausland/joe-biden-rueckzug-live-us-praesident-zieht-sich-von-seiner-kandidatur-zurueck-a-257c6dcd-e571-46fe-a9f2-ff934ca8cd6e#ref=rss)
+### stellt
+
+* [https://www.spiegel.de/ausland/joe-biden-rueckzug-live-us-praesident-zieht-sich-von-seiner-kandidatur-zurueck](https://www.spiegel.de/ausland/joe-biden-rueckzug-live-us-praesident-zieht-sich-von-seiner-kandidatur-zurueck-a-257c6dcd-e571-46fe-a9f2-ff934ca8cd6e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/exoplanet-umkreist-seinen-stern-in-gurkenform-1100-lichtjahre-entfernt](https://www.spiegel.de/wissenschaft/weltall/exoplanet-umkreist-seinen-stern-in-gurkenform-1100-lichtjahre-entfernt-a-3f4f63d6-95bd-47f4-8957-78fb1b7c290e#ref=rss)
+### news
+
+* [https://www.spiegel.de/ausland/joe-biden-rueckzug-live-us-praesident-zieht-sich-von-seiner-kandidatur-zurueck](https://www.spiegel.de/ausland/joe-biden-rueckzug-live-us-praesident-zieht-sich-von-seiner-kandidatur-zurueck-a-257c6dcd-e571-46fe-a9f2-ff934ca8cd6e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-kamala-harris-gaza-krieg-tadej-pogacar](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-kamala-harris-gaza-krieg-tadej-pogacar-a-772cce14-d7ac-4d2c-a76a-55345f480a79#ref=rss)
+### josep
+
+* [https://www.spiegel.de/ausland/josep-borrell-eu-chefdiplomat-boykottiert-ungarn](https://www.spiegel.de/ausland/josep-borrell-eu-chefdiplomat-boykottiert-ungarn-a-6240789c-8379-44e2-b2f0-fccb34ce91b4#ref=rss)
+### borrell
+
+* [https://www.spiegel.de/ausland/josep-borrell-eu-chefdiplomat-boykottiert-ungarn](https://www.spiegel.de/ausland/josep-borrell-eu-chefdiplomat-boykottiert-ungarn-a-6240789c-8379-44e2-b2f0-fccb34ce91b4#ref=rss)
+### annalena
+
+* [https://www.spiegel.de/ausland/josep-borrell-eu-chefdiplomat-boykottiert-ungarn](https://www.spiegel.de/ausland/josep-borrell-eu-chefdiplomat-boykottiert-ungarn-a-6240789c-8379-44e2-b2f0-fccb34ce91b4#ref=rss)
+* [https://www.spiegel.de/ausland/annalena-baerbock-appelliert-nach-uno-rechtsgutachten-zu-besatzungspolitik-an-israel](https://www.spiegel.de/ausland/annalena-baerbock-appelliert-nach-uno-rechtsgutachten-zu-besatzungspolitik-an-israel-a-f377a6b1-6375-44e4-a062-b6c5ac69091b#ref=rss)
+### zukunft
+
+* [https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen](https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen-a-5db7ef9e-22e5-4dd3-be1a-7f671f3c82aa#ref=rss)
+* [https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen-podcast](https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen-podcast-a-2bc7fdd2-f7c0-4ccd-8d0b-b3135c49b7b5#ref=rss)
+### superprognostikern
+
+* [https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen](https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen-a-5db7ef9e-22e5-4dd3-be1a-7f671f3c82aa#ref=rss)
+* [https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen-podcast](https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen-podcast-a-2bc7fdd2-f7c0-4ccd-8d0b-b3135c49b7b5#ref=rss)
+### forscherinnen
+
+* [https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen](https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen-a-5db7ef9e-22e5-4dd3-be1a-7f671f3c82aa#ref=rss)
+* [https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen-podcast](https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen-podcast-a-2bc7fdd2-f7c0-4ccd-8d0b-b3135c49b7b5#ref=rss)
+### geheimdienste
+
+* [https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen](https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen-a-5db7ef9e-22e5-4dd3-be1a-7f671f3c82aa#ref=rss)
+* [https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen-podcast](https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen-podcast-a-2bc7fdd2-f7c0-4ccd-8d0b-b3135c49b7b5#ref=rss)
+### übertreffen
+
+* [https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen](https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen-a-5db7ef9e-22e5-4dd3-be1a-7f671f3c82aa#ref=rss)
+* [https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen-podcast](https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen-podcast-a-2bc7fdd2-f7c0-4ccd-8d0b-b3135c49b7b5#ref=rss)
+### spiegelredakteur
+
+* [https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen](https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen-a-5db7ef9e-22e5-4dd3-be1a-7f671f3c82aa#ref=rss)
+* [https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen-podcast](https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen-podcast-a-2bc7fdd2-f7c0-4ccd-8d0b-b3135c49b7b5#ref=rss)
+### martin
+
+* [https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen](https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen-a-5db7ef9e-22e5-4dd3-be1a-7f671f3c82aa#ref=rss)
+* [https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen-podcast](https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen-podcast-a-2bc7fdd2-f7c0-4ccd-8d0b-b3135c49b7b5#ref=rss)
+### schlak
+
+* [https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen](https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen-a-5db7ef9e-22e5-4dd3-be1a-7f671f3c82aa#ref=rss)
+* [https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen-podcast](https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen-podcast-a-2bc7fdd2-f7c0-4ccd-8d0b-b3135c49b7b5#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen](https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen-a-5db7ef9e-22e5-4dd3-be1a-7f671f3c82aa#ref=rss)
+* [https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen-podcast](https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen-podcast-a-2bc7fdd2-f7c0-4ccd-8d0b-b3135c49b7b5#ref=rss)
+### superprognostiker
+
+* [https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen](https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen-a-5db7ef9e-22e5-4dd3-be1a-7f671f3c82aa#ref=rss)
+* [https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen-podcast](https://www.spiegel.de/wissenschaft/zukunft-vorhersagen-was-wir-von-superprognostikern-lernen-koennen-podcast-a-2bc7fdd2-f7c0-4ccd-8d0b-b3135c49b7b5#ref=rss)
+### innenministerin
+
+* [https://www.spiegel.de/ausland/grossbritannien-innenministerin-beziffert-kosten-des-gekippten-ruanda-pakts-auf-700-millionen-pfund](https://www.spiegel.de/ausland/grossbritannien-innenministerin-beziffert-kosten-des-gekippten-ruanda-pakts-auf-700-millionen-pfund-a-27af3380-0fa2-4a1c-8234-e75adaf17ec0#ref=rss)
+### neue
+
+* [https://www.spiegel.de/ausland/grossbritannien-innenministerin-beziffert-kosten-des-gekippten-ruanda-pakts-auf-700-millionen-pfund](https://www.spiegel.de/ausland/grossbritannien-innenministerin-beziffert-kosten-des-gekippten-ruanda-pakts-auf-700-millionen-pfund-a-27af3380-0fa2-4a1c-8234-e75adaf17ec0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/immobilien-neue-eigenheime-in-metropolen-werden-rar](https://www.spiegel.de/wirtschaft/immobilien-neue-eigenheime-in-metropolen-werden-rar-a-7ed713c8-e26b-4e4e-8a73-5c990654b699#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/ausland/grossbritannien-innenministerin-beziffert-kosten-des-gekippten-ruanda-pakts-auf-700-millionen-pfund](https://www.spiegel.de/ausland/grossbritannien-innenministerin-beziffert-kosten-des-gekippten-ruanda-pakts-auf-700-millionen-pfund-a-27af3380-0fa2-4a1c-8234-e75adaf17ec0#ref=rss)
+* [https://www.spiegel.de/ausland/annalena-baerbock-appelliert-nach-uno-rechtsgutachten-zu-besatzungspolitik-an-israel](https://www.spiegel.de/ausland/annalena-baerbock-appelliert-nach-uno-rechtsgutachten-zu-besatzungspolitik-an-israel-a-f377a6b1-6375-44e4-a062-b6c5ac69091b#ref=rss)
+### kiel
+
+* [https://www.spiegel.de/panorama/justiz/kiel-ex-freundin-getoetet-20-jaehriger-zu-fuenf-jahren-jugendstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/kiel-ex-freundin-getoetet-20-jaehriger-zu-fuenf-jahren-jugendstrafe-verurteilt-a-699104a4-76e9-49da-9cfe-11a0349eedde#ref=rss)
+### exfreundin
+
+* [https://www.spiegel.de/panorama/justiz/kiel-ex-freundin-getoetet-20-jaehriger-zu-fuenf-jahren-jugendstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/kiel-ex-freundin-getoetet-20-jaehriger-zu-fuenf-jahren-jugendstrafe-verurteilt-a-699104a4-76e9-49da-9cfe-11a0349eedde#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/panorama/justiz/kiel-ex-freundin-getoetet-20-jaehriger-zu-fuenf-jahren-jugendstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/kiel-ex-freundin-getoetet-20-jaehriger-zu-fuenf-jahren-jugendstrafe-verurteilt-a-699104a4-76e9-49da-9cfe-11a0349eedde#ref=rss)
+* [https://www.spiegel.de/ausland/russland-gericht-verurteilt-journalistin-alsu-kurmasheva-zu-sechseinhalb-jahren-haft](https://www.spiegel.de/ausland/russland-gericht-verurteilt-journalistin-alsu-kurmasheva-zu-sechseinhalb-jahren-haft-a-0aaf3a0a-77d0-45ab-b971-ec4bbee25c3e#ref=rss)
+### ersten
+
+* [https://www.spiegel.de/ausland/usa-kamala-harris-wuerdigt-joe-bidens-unerreichtes-politisches-erbe](https://www.spiegel.de/ausland/usa-kamala-harris-wuerdigt-joe-bidens-unerreichtes-politisches-erbe-a-342dc50f-8858-4171-ad53-ac62cff4963f#ref=rss)
+* [https://www.spiegel.de/ausland/kamala-harris-erste-oeffentliche-aeusserung-nach-biden-rueckzug-was-sagt-sie-zur-praesidentschafts-kandidatur](https://www.spiegel.de/ausland/kamala-harris-erste-oeffentliche-aeusserung-nach-biden-rueckzug-was-sagt-sie-zur-praesidentschafts-kandidatur-a-d7a69ec5-26d1-4a38-9bab-5fb06fa70b9a#ref=rss)
+### möchte
+
+* [https://www.spiegel.de/ausland/usa-kamala-harris-wuerdigt-joe-bidens-unerreichtes-politisches-erbe](https://www.spiegel.de/ausland/usa-kamala-harris-wuerdigt-joe-bidens-unerreichtes-politisches-erbe-a-342dc50f-8858-4171-ad53-ac62cff4963f#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/instagram-und-facebook-nutzt-meta-irrefuehrende-oder-aggressive-praktiken](https://www.spiegel.de/netzwelt/apps/instagram-und-facebook-nutzt-meta-irrefuehrende-oder-aggressive-praktiken-a-4085e998-3e9d-419e-aea4-a3645c1338a2#ref=rss)
+### metin
+
+* [https://www.spiegel.de/politik/deutschland/metin-hakverdi-spd-ueber-kamala-harris-sie-hat-ihre-lektion-gelernt](https://www.spiegel.de/politik/deutschland/metin-hakverdi-spd-ueber-kamala-harris-sie-hat-ihre-lektion-gelernt-a-ec30ccd8-9ddb-4020-9983-5e6c6940311b#ref=rss)
+### hakverdi
+
+* [https://www.spiegel.de/politik/deutschland/metin-hakverdi-spd-ueber-kamala-harris-sie-hat-ihre-lektion-gelernt](https://www.spiegel.de/politik/deutschland/metin-hakverdi-spd-ueber-kamala-harris-sie-hat-ihre-lektion-gelernt-a-ec30ccd8-9ddb-4020-9983-5e6c6940311b#ref=rss)
+### weiße
+
+* [https://www.spiegel.de/politik/deutschland/metin-hakverdi-spd-ueber-kamala-harris-sie-hat-ihre-lektion-gelernt](https://www.spiegel.de/politik/deutschland/metin-hakverdi-spd-ueber-kamala-harris-sie-hat-ihre-lektion-gelernt-a-ec30ccd8-9ddb-4020-9983-5e6c6940311b#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-von-delaware-ins-weisse-haus-seine-karriere-in-bildern](https://www.spiegel.de/ausland/joe-biden-von-delaware-ins-weisse-haus-seine-karriere-in-bildern-a-b411d807-dc6e-4c23-8ba8-93bd66916c6e#ref=rss)
+### haus
+
+* [https://www.spiegel.de/politik/deutschland/metin-hakverdi-spd-ueber-kamala-harris-sie-hat-ihre-lektion-gelernt](https://www.spiegel.de/politik/deutschland/metin-hakverdi-spd-ueber-kamala-harris-sie-hat-ihre-lektion-gelernt-a-ec30ccd8-9ddb-4020-9983-5e6c6940311b#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-von-delaware-ins-weisse-haus-seine-karriere-in-bildern](https://www.spiegel.de/ausland/joe-biden-von-delaware-ins-weisse-haus-seine-karriere-in-bildern-a-b411d807-dc6e-4c23-8ba8-93bd66916c6e#ref=rss)
+### untersuchung
+
+* [https://www.spiegel.de/wirtschaft/immobilien-neue-eigenheime-in-metropolen-werden-rar](https://www.spiegel.de/wirtschaft/immobilien-neue-eigenheime-in-metropolen-werden-rar-a-7ed713c8-e26b-4e4e-8a73-5c990654b699#ref=rss)
+* [https://www.spiegel.de/wissenschaft/hunde-warum-sie-manchmal-pessimistische-entscheidungen-treffen](https://www.spiegel.de/wissenschaft/hunde-warum-sie-manchmal-pessimistische-entscheidungen-treffen-a-8c7076c9-7c6e-42fe-85bf-dff0fb8cc3a2#ref=rss)
+### erste
+
+* [https://www.spiegel.de/ausland/kamala-harris-erste-oeffentliche-aeusserung-nach-biden-rueckzug-was-sagt-sie-zur-praesidentschafts-kandidatur](https://www.spiegel.de/ausland/kamala-harris-erste-oeffentliche-aeusserung-nach-biden-rueckzug-was-sagt-sie-zur-praesidentschafts-kandidatur-a-d7a69ec5-26d1-4a38-9bab-5fb06fa70b9a#ref=rss)
+### bidenrückzug
+
+* [https://www.spiegel.de/ausland/kamala-harris-erste-oeffentliche-aeusserung-nach-biden-rueckzug-was-sagt-sie-zur-praesidentschafts-kandidatur](https://www.spiegel.de/ausland/kamala-harris-erste-oeffentliche-aeusserung-nach-biden-rueckzug-was-sagt-sie-zur-praesidentschafts-kandidatur-a-d7a69ec5-26d1-4a38-9bab-5fb06fa70b9a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-kamala-harris-gaza-krieg-tadej-pogacar](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-kamala-harris-gaza-krieg-tadej-pogacar-a-772cce14-d7ac-4d2c-a76a-55345f480a79#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/ausland/kamala-harris-erste-oeffentliche-aeusserung-nach-biden-rueckzug-was-sagt-sie-zur-praesidentschafts-kandidatur](https://www.spiegel.de/ausland/kamala-harris-erste-oeffentliche-aeusserung-nach-biden-rueckzug-was-sagt-sie-zur-praesidentschafts-kandidatur-a-d7a69ec5-26d1-4a38-9bab-5fb06fa70b9a#ref=rss)
+* [https://www.spiegel.de/panorama/leute/lena-meyer-landrut-sagt-zweiten-auftritt-in-folge-ab](https://www.spiegel.de/panorama/leute/lena-meyer-landrut-sagt-zweiten-auftritt-in-folge-ab-a-fb9ccae7-0e2a-4bfb-ba9b-e4ad359a6db2#ref=rss)
+### secretservicechefin
+
+* [https://www.spiegel.de/ausland/secret-service-chefin-cheatle-raeumt-schwere-versaeumnisse-ein](https://www.spiegel.de/ausland/secret-service-chefin-cheatle-raeumt-schwere-versaeumnisse-ein-a-4d024138-5ddb-4524-8b95-e572776aad01#ref=rss)
+* [https://www.spiegel.de/ausland/wieso-versagte-der-secret-service-beim-trump-attentat](https://www.spiegel.de/ausland/wieso-versagte-der-secret-service-beim-trump-attentat-a-45f86187-88ce-4a31-b2b2-58c929544e8c#ref=rss)
+### räumt
+
+* [https://www.spiegel.de/ausland/secret-service-chefin-cheatle-raeumt-schwere-versaeumnisse-ein](https://www.spiegel.de/ausland/secret-service-chefin-cheatle-raeumt-schwere-versaeumnisse-ein-a-4d024138-5ddb-4524-8b95-e572776aad01#ref=rss)
+### kimberly
+
+* [https://www.spiegel.de/ausland/secret-service-chefin-cheatle-raeumt-schwere-versaeumnisse-ein](https://www.spiegel.de/ausland/secret-service-chefin-cheatle-raeumt-schwere-versaeumnisse-ein-a-4d024138-5ddb-4524-8b95-e572776aad01#ref=rss)
+* [https://www.spiegel.de/ausland/wieso-versagte-der-secret-service-beim-trump-attentat](https://www.spiegel.de/ausland/wieso-versagte-der-secret-service-beim-trump-attentat-a-45f86187-88ce-4a31-b2b2-58c929544e8c#ref=rss)
+### kim
+
+* [https://www.spiegel.de/kultur/tv/kim-cattrall-wohl-keine-rueckkehr-als-samantha-jones-in-and-just-like-that](https://www.spiegel.de/kultur/tv/kim-cattrall-wohl-keine-rueckkehr-als-samantha-jones-in-and-just-like-that-a-36c3662a-e886-49a6-b9ca-3dcf2cd711ea#ref=rss)
+### cattrall
+
+* [https://www.spiegel.de/kultur/tv/kim-cattrall-wohl-keine-rueckkehr-als-samantha-jones-in-and-just-like-that](https://www.spiegel.de/kultur/tv/kim-cattrall-wohl-keine-rueckkehr-als-samantha-jones-in-and-just-like-that-a-36c3662a-e886-49a6-b9ca-3dcf2cd711ea#ref=rss)
+### samantha
+
+* [https://www.spiegel.de/kultur/tv/kim-cattrall-wohl-keine-rueckkehr-als-samantha-jones-in-and-just-like-that](https://www.spiegel.de/kultur/tv/kim-cattrall-wohl-keine-rueckkehr-als-samantha-jones-in-and-just-like-that-a-36c3662a-e886-49a6-b9ca-3dcf2cd711ea#ref=rss)
+### jones
+
+* [https://www.spiegel.de/kultur/tv/kim-cattrall-wohl-keine-rueckkehr-als-samantha-jones-in-and-just-like-that](https://www.spiegel.de/kultur/tv/kim-cattrall-wohl-keine-rueckkehr-als-samantha-jones-in-and-just-like-that-a-36c3662a-e886-49a6-b9ca-3dcf2cd711ea#ref=rss)
+### just
+
+* [https://www.spiegel.de/kultur/tv/kim-cattrall-wohl-keine-rueckkehr-als-samantha-jones-in-and-just-like-that](https://www.spiegel.de/kultur/tv/kim-cattrall-wohl-keine-rueckkehr-als-samantha-jones-in-and-just-like-that-a-36c3662a-e886-49a6-b9ca-3dcf2cd711ea#ref=rss)
+### like
+
+* [https://www.spiegel.de/kultur/tv/kim-cattrall-wohl-keine-rueckkehr-als-samantha-jones-in-and-just-like-that](https://www.spiegel.de/kultur/tv/kim-cattrall-wohl-keine-rueckkehr-als-samantha-jones-in-and-just-like-that-a-36c3662a-e886-49a6-b9ca-3dcf2cd711ea#ref=rss)
+### that…
+
+* [https://www.spiegel.de/kultur/tv/kim-cattrall-wohl-keine-rueckkehr-als-samantha-jones-in-and-just-like-that](https://www.spiegel.de/kultur/tv/kim-cattrall-wohl-keine-rueckkehr-als-samantha-jones-in-and-just-like-that-a-36c3662a-e886-49a6-b9ca-3dcf2cd711ea#ref=rss)
+### macht
+
+* [https://www.spiegel.de/kultur/tv/kim-cattrall-wohl-keine-rueckkehr-als-samantha-jones-in-and-just-like-that](https://www.spiegel.de/kultur/tv/kim-cattrall-wohl-keine-rueckkehr-als-samantha-jones-in-and-just-like-that-a-36c3662a-e886-49a6-b9ca-3dcf2cd711ea#ref=rss)
+* [https://www.spiegel.de/ausland/russland-gericht-verurteilt-journalistin-alsu-kurmasheva-zu-sechseinhalb-jahren-haft](https://www.spiegel.de/ausland/russland-gericht-verurteilt-journalistin-alsu-kurmasheva-zu-sechseinhalb-jahren-haft-a-0aaf3a0a-77d0-45ab-b971-ec4bbee25c3e#ref=rss)
+### gazakrieg
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-kamala-harris-gaza-krieg-tadej-pogacar](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-kamala-harris-gaza-krieg-tadej-pogacar-a-772cce14-d7ac-4d2c-a76a-55345f480a79#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-krieg-schwangere-und-neugeborene-leiden-unter-hunger-und-mangelnder-medizinischer-versorgung](https://www.spiegel.de/ausland/gaza-krieg-schwangere-und-neugeborene-leiden-unter-hunger-und-mangelnder-medizinischer-versorgung-a-fdfc42ea-4e1c-42ec-8ac4-8678bd00dcd3#ref=rss)
 ### tadej
 
-* [https://www.spiegel.de/sport/tour-de-france-2024-sieger-tadej-pogacar-der-prinz-des-radsports-bedroht-das-koenigtum-von-merckx](https://www.spiegel.de/sport/tour-de-france-2024-sieger-tadej-pogacar-der-prinz-des-radsports-bedroht-das-koenigtum-von-merckx-a-09e8ff07-15ab-41b1-be91-9430075f06d1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-kamala-harris-gaza-krieg-tadej-pogacar](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-kamala-harris-gaza-krieg-tadej-pogacar-a-772cce14-d7ac-4d2c-a76a-55345f480a79#ref=rss)
 ### pogačar
 
-* [https://www.spiegel.de/sport/tour-de-france-2024-sieger-tadej-pogacar-der-prinz-des-radsports-bedroht-das-koenigtum-von-merckx](https://www.spiegel.de/sport/tour-de-france-2024-sieger-tadej-pogacar-der-prinz-des-radsports-bedroht-das-koenigtum-von-merckx-a-09e8ff07-15ab-41b1-be91-9430075f06d1#ref=rss)
-### namen
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-kamala-harris-gaza-krieg-tadej-pogacar](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-kamala-harris-gaza-krieg-tadej-pogacar-a-772cce14-d7ac-4d2c-a76a-55345f480a79#ref=rss)
+### schwangere
 
-* [https://www.spiegel.de/ausland/kamala-harris-wie-spricht-man-den-namen-der-us-demokratin-aus](https://www.spiegel.de/ausland/kamala-harris-wie-spricht-man-den-namen-der-us-demokratin-aus-a-61b2b8d2-49b4-4da4-98c6-ca318466a3d1#ref=rss)
-### wietzesee
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-kamala-harris-gaza-krieg-tadej-pogacar](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-kamala-harris-gaza-krieg-tadej-pogacar-a-772cce14-d7ac-4d2c-a76a-55345f480a79#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-krieg-schwangere-und-neugeborene-leiden-unter-hunger-und-mangelnder-medizinischer-versorgung](https://www.spiegel.de/ausland/gaza-krieg-schwangere-und-neugeborene-leiden-unter-hunger-und-mangelnder-medizinischer-versorgung-a-fdfc42ea-4e1c-42ec-8ac4-8678bd00dcd3#ref=rss)
+### neugeborene
 
-* [https://www.spiegel.de/panorama/gesellschaft/wietzesee-in-isernhagen-27-jaehriger-bei-badeunfall-toedlich-verunglueckt](https://www.spiegel.de/panorama/gesellschaft/wietzesee-in-isernhagen-27-jaehriger-bei-badeunfall-toedlich-verunglueckt-a-b85380eb-3f38-4a84-a0ab-0715349a9d09#ref=rss)
-### 27jähriger
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-kamala-harris-gaza-krieg-tadej-pogacar](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-kamala-harris-gaza-krieg-tadej-pogacar-a-772cce14-d7ac-4d2c-a76a-55345f480a79#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-krieg-schwangere-und-neugeborene-leiden-unter-hunger-und-mangelnder-medizinischer-versorgung](https://www.spiegel.de/ausland/gaza-krieg-schwangere-und-neugeborene-leiden-unter-hunger-und-mangelnder-medizinischer-versorgung-a-fdfc42ea-4e1c-42ec-8ac4-8678bd00dcd3#ref=rss)
+### gazastreifen
 
-* [https://www.spiegel.de/panorama/gesellschaft/wietzesee-in-isernhagen-27-jaehriger-bei-badeunfall-toedlich-verunglueckt](https://www.spiegel.de/panorama/gesellschaft/wietzesee-in-isernhagen-27-jaehriger-bei-badeunfall-toedlich-verunglueckt-a-b85380eb-3f38-4a84-a0ab-0715349a9d09#ref=rss)
-### lüneburg
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-kamala-harris-gaza-krieg-tadej-pogacar](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-kamala-harris-gaza-krieg-tadej-pogacar-a-772cce14-d7ac-4d2c-a76a-55345f480a79#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-krieg-schwangere-und-neugeborene-leiden-unter-hunger-und-mangelnder-medizinischer-versorgung](https://www.spiegel.de/ausland/gaza-krieg-schwangere-und-neugeborene-leiden-unter-hunger-und-mangelnder-medizinischer-versorgung-a-fdfc42ea-4e1c-42ec-8ac4-8678bd00dcd3#ref=rss)
+### leiden
 
-* [https://www.spiegel.de/start/studieren-in-lueneburg-campus-wohnviertel-wg-zimmer-preise-und-kneipen](https://www.spiegel.de/start/studieren-in-lueneburg-campus-wohnviertel-wg-zimmer-preise-und-kneipen-a-0dc7efd9-4a0d-4599-bd7d-7cec0f6d6f79#ref=rss)
-### politiker
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-kamala-harris-gaza-krieg-tadej-pogacar](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-kamala-harris-gaza-krieg-tadej-pogacar-a-772cce14-d7ac-4d2c-a76a-55345f480a79#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-krieg-schwangere-und-neugeborene-leiden-unter-hunger-und-mangelnder-medizinischer-versorgung](https://www.spiegel.de/ausland/gaza-krieg-schwangere-und-neugeborene-leiden-unter-hunger-und-mangelnder-medizinischer-versorgung-a-fdfc42ea-4e1c-42ec-8ac4-8678bd00dcd3#ref=rss)
+### journalistin
 
-* [https://www.spiegel.de/politik/deutschland/joe-biden-so-beurteilen-deutsche-politiker-den-rueckzug](https://www.spiegel.de/politik/deutschland/joe-biden-so-beurteilen-deutsche-politiker-den-rueckzug-a-c3c2e029-ee25-4926-886f-59c24e42519f#ref=rss)
-### frage
+* [https://www.spiegel.de/ausland/russland-gericht-verurteilt-journalistin-alsu-kurmasheva-zu-sechseinhalb-jahren-haft](https://www.spiegel.de/ausland/russland-gericht-verurteilt-journalistin-alsu-kurmasheva-zu-sechseinhalb-jahren-haft-a-0aaf3a0a-77d0-45ab-b971-ec4bbee25c3e#ref=rss)
+### alsu
 
-* [https://www.spiegel.de/politik/deutschland/joe-biden-so-beurteilen-deutsche-politiker-den-rueckzug](https://www.spiegel.de/politik/deutschland/joe-biden-so-beurteilen-deutsche-politiker-den-rueckzug-a-c3c2e029-ee25-4926-886f-59c24e42519f#ref=rss)
-* [https://www.spiegel.de/reise/fernweh/drohnen-fotos-bei-den-siena-awards-eine-frage-der-perspektive](https://www.spiegel.de/reise/fernweh/drohnen-fotos-bei-den-siena-awards-eine-frage-der-perspektive-a-0abac275-8705-4694-9381-190ecfc3f481#ref=rss)
-### kandidatur
+* [https://www.spiegel.de/ausland/russland-gericht-verurteilt-journalistin-alsu-kurmasheva-zu-sechseinhalb-jahren-haft](https://www.spiegel.de/ausland/russland-gericht-verurteilt-journalistin-alsu-kurmasheva-zu-sechseinhalb-jahren-haft-a-0aaf3a0a-77d0-45ab-b971-ec4bbee25c3e#ref=rss)
+### kurmasheva
 
-* [https://www.spiegel.de/ausland/joe-biden-rueckzug-live-us-praesident-zieht-sich-von-seiner-kandidatur-zurueck](https://www.spiegel.de/ausland/joe-biden-rueckzug-live-us-praesident-zieht-sich-von-seiner-kandidatur-zurueck-a-257c6dcd-e571-46fe-a9f2-ff934ca8cd6e#ref=rss)
-* [https://www.spiegel.de/ausland/kamala-harris-wird-sie-joe-biden-beerben](https://www.spiegel.de/ausland/kamala-harris-wird-sie-joe-biden-beerben-a-91f10c7e-462c-428e-b909-864cca09f942#ref=rss)
-### zeit
+* [https://www.spiegel.de/ausland/russland-gericht-verurteilt-journalistin-alsu-kurmasheva-zu-sechseinhalb-jahren-haft](https://www.spiegel.de/ausland/russland-gericht-verurteilt-journalistin-alsu-kurmasheva-zu-sechseinhalb-jahren-haft-a-0aaf3a0a-77d0-45ab-b971-ec4bbee25c3e#ref=rss)
+### haft
 
-* [https://www.spiegel.de/ausland/joe-biden-rueckzug-live-us-praesident-zieht-sich-von-seiner-kandidatur-zurueck](https://www.spiegel.de/ausland/joe-biden-rueckzug-live-us-praesident-zieht-sich-von-seiner-kandidatur-zurueck-a-257c6dcd-e571-46fe-a9f2-ff934ca8cd6e#ref=rss)
-* [https://www.spiegel.de/ausland/kamala-harris-wird-sie-joe-biden-beerben](https://www.spiegel.de/ausland/kamala-harris-wird-sie-joe-biden-beerben-a-91f10c7e-462c-428e-b909-864cca09f942#ref=rss)
-### zugspitze
+* [https://www.spiegel.de/ausland/russland-gericht-verurteilt-journalistin-alsu-kurmasheva-zu-sechseinhalb-jahren-haft](https://www.spiegel.de/ausland/russland-gericht-verurteilt-journalistin-alsu-kurmasheva-zu-sechseinhalb-jahren-haft-a-0aaf3a0a-77d0-45ab-b971-ec4bbee25c3e#ref=rss)
+### ulm
 
-* [https://www.spiegel.de/panorama/gesellschaft/zugspitze-18-jaehriger-bei-unwetter-in-suedbayern-von-blitz-erschlagen](https://www.spiegel.de/panorama/gesellschaft/zugspitze-18-jaehriger-bei-unwetter-in-suedbayern-von-blitz-erschlagen-a-17e59e51-3a33-46a6-b5c6-d53a83a0e1b6#ref=rss)
-### 18jähriger
+* [https://www.spiegel.de/panorama/gesellschaft/ulm-brautpaar-entdeckt-bei-gondelfahrt-leiche-im-see](https://www.spiegel.de/panorama/gesellschaft/ulm-brautpaar-entdeckt-bei-gondelfahrt-leiche-im-see-a-757b9523-bcd3-4533-8ab7-fe0446124d73#ref=rss)
+### brautpaar
 
-* [https://www.spiegel.de/panorama/gesellschaft/zugspitze-18-jaehriger-bei-unwetter-in-suedbayern-von-blitz-erschlagen](https://www.spiegel.de/panorama/gesellschaft/zugspitze-18-jaehriger-bei-unwetter-in-suedbayern-von-blitz-erschlagen-a-17e59e51-3a33-46a6-b5c6-d53a83a0e1b6#ref=rss)
-### unwetter
+* [https://www.spiegel.de/panorama/gesellschaft/ulm-brautpaar-entdeckt-bei-gondelfahrt-leiche-im-see](https://www.spiegel.de/panorama/gesellschaft/ulm-brautpaar-entdeckt-bei-gondelfahrt-leiche-im-see-a-757b9523-bcd3-4533-8ab7-fe0446124d73#ref=rss)
+### gondelfahrt
 
-* [https://www.spiegel.de/panorama/gesellschaft/zugspitze-18-jaehriger-bei-unwetter-in-suedbayern-von-blitz-erschlagen](https://www.spiegel.de/panorama/gesellschaft/zugspitze-18-jaehriger-bei-unwetter-in-suedbayern-von-blitz-erschlagen-a-17e59e51-3a33-46a6-b5c6-d53a83a0e1b6#ref=rss)
-### scholz
+* [https://www.spiegel.de/panorama/gesellschaft/ulm-brautpaar-entdeckt-bei-gondelfahrt-leiche-im-see](https://www.spiegel.de/panorama/gesellschaft/ulm-brautpaar-entdeckt-bei-gondelfahrt-leiche-im-see-a-757b9523-bcd3-4533-8ab7-fe0446124d73#ref=rss)
+### leiche
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-nur-ein-drittel-der-spd-mitglieder-wollen-ihn-als-kanzlerkandidat](https://www.spiegel.de/politik/deutschland/olaf-scholz-nur-ein-drittel-der-spd-mitglieder-wollen-ihn-als-kanzlerkandidat-a-fa21ba1b-bea4-4163-af1e-714bb4f6b1db#ref=rss)
-### siena
+* [https://www.spiegel.de/panorama/gesellschaft/ulm-brautpaar-entdeckt-bei-gondelfahrt-leiche-im-see](https://www.spiegel.de/panorama/gesellschaft/ulm-brautpaar-entdeckt-bei-gondelfahrt-leiche-im-see-a-757b9523-bcd3-4533-8ab7-fe0446124d73#ref=rss)
+### instagram
 
-* [https://www.spiegel.de/reise/fernweh/drohnen-fotos-bei-den-siena-awards-eine-frage-der-perspektive](https://www.spiegel.de/reise/fernweh/drohnen-fotos-bei-den-siena-awards-eine-frage-der-perspektive-a-0abac275-8705-4694-9381-190ecfc3f481#ref=rss)
-### brandenburg
+* [https://www.spiegel.de/netzwelt/apps/instagram-und-facebook-nutzt-meta-irrefuehrende-oder-aggressive-praktiken](https://www.spiegel.de/netzwelt/apps/instagram-und-facebook-nutzt-meta-irrefuehrende-oder-aggressive-praktiken-a-4085e998-3e9d-419e-aea4-a3645c1338a2#ref=rss)
+### facebook
 
-* [https://www.spiegel.de/panorama/bildung/brandenburg-mehr-rechtsextreme-vorfaelle-an-schulen](https://www.spiegel.de/panorama/bildung/brandenburg-mehr-rechtsextreme-vorfaelle-an-schulen-a-dae1b3c1-cef7-438b-ab66-100def49a042#ref=rss)
-### vorfälle
+* [https://www.spiegel.de/netzwelt/apps/instagram-und-facebook-nutzt-meta-irrefuehrende-oder-aggressive-praktiken](https://www.spiegel.de/netzwelt/apps/instagram-und-facebook-nutzt-meta-irrefuehrende-oder-aggressive-praktiken-a-4085e998-3e9d-419e-aea4-a3645c1338a2#ref=rss)
+### meta
 
-* [https://www.spiegel.de/panorama/bildung/brandenburg-mehr-rechtsextreme-vorfaelle-an-schulen](https://www.spiegel.de/panorama/bildung/brandenburg-mehr-rechtsextreme-vorfaelle-an-schulen-a-dae1b3c1-cef7-438b-ab66-100def49a042#ref=rss)
-### madonnas
+* [https://www.spiegel.de/netzwelt/apps/instagram-und-facebook-nutzt-meta-irrefuehrende-oder-aggressive-praktiken](https://www.spiegel.de/netzwelt/apps/instagram-und-facebook-nutzt-meta-irrefuehrende-oder-aggressive-praktiken-a-4085e998-3e9d-419e-aea4-a3645c1338a2#ref=rss)
+### daten
 
-* [https://www.spiegel.de/panorama/leute/madonnas-sohn-david-banda-meine-mutter-hat-mich-immer-unterstuetzt](https://www.spiegel.de/panorama/leute/madonnas-sohn-david-banda-meine-mutter-hat-mich-immer-unterstuetzt-a-37622ece-880d-4556-a267-bab284af077c#ref=rss)
-### david
+* [https://www.spiegel.de/netzwelt/apps/instagram-und-facebook-nutzt-meta-irrefuehrende-oder-aggressive-praktiken](https://www.spiegel.de/netzwelt/apps/instagram-und-facebook-nutzt-meta-irrefuehrende-oder-aggressive-praktiken-a-4085e998-3e9d-419e-aea4-a3645c1338a2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wohnen-in-deutschland-wie-hoch-sind-die-mieten-in-ihrer-nachbarschaft](https://www.spiegel.de/wirtschaft/wohnen-in-deutschland-wie-hoch-sind-die-mieten-in-ihrer-nachbarschaft-a-241dd859-f9a6-46c7-9b68-5f4c9a224e26#ref=rss)
+### richter
 
-* [https://www.spiegel.de/panorama/leute/madonnas-sohn-david-banda-meine-mutter-hat-mich-immer-unterstuetzt](https://www.spiegel.de/panorama/leute/madonnas-sohn-david-banda-meine-mutter-hat-mich-immer-unterstuetzt-a-37622ece-880d-4556-a267-bab284af077c#ref=rss)
-### banda
+* [https://www.spiegel.de/politik/deutschland/extreme-rechte-wie-eine-e-mail-adresse-einen-afd-nahen-richter-in-erklaerungsnot-bringt](https://www.spiegel.de/politik/deutschland/extreme-rechte-wie-eine-e-mail-adresse-einen-afd-nahen-richter-in-erklaerungsnot-bringt-a-094a1160-001f-4faf-bd9e-b3b31a1627e8#ref=rss)
+### attentat
 
-* [https://www.spiegel.de/panorama/leute/madonnas-sohn-david-banda-meine-mutter-hat-mich-immer-unterstuetzt](https://www.spiegel.de/panorama/leute/madonnas-sohn-david-banda-meine-mutter-hat-mich-immer-unterstuetzt-a-37622ece-880d-4556-a267-bab284af077c#ref=rss)
-### bahn
+* [https://www.spiegel.de/ausland/wieso-versagte-der-secret-service-beim-trump-attentat](https://www.spiegel.de/ausland/wieso-versagte-der-secret-service-beim-trump-attentat-a-45f86187-88ce-4a31-b2b2-58c929544e8c#ref=rss)
+### lena
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-bahn-schickt-bis-dezember-deutlich-weniger-fernzuege-nach-nordrhein-westfalen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-bahn-schickt-bis-dezember-deutlich-weniger-fernzuege-nach-nordrhein-westfalen-a-0fb051dc-6efe-44e9-ace4-d33600afda36#ref=rss)
-### nordrheinwestfalen
+* [https://www.spiegel.de/panorama/leute/lena-meyer-landrut-sagt-zweiten-auftritt-in-folge-ab](https://www.spiegel.de/panorama/leute/lena-meyer-landrut-sagt-zweiten-auftritt-in-folge-ab-a-fb9ccae7-0e2a-4bfb-ba9b-e4ad359a6db2#ref=rss)
+### captain
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-bahn-schickt-bis-dezember-deutlich-weniger-fernzuege-nach-nordrhein-westfalen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-bahn-schickt-bis-dezember-deutlich-weniger-fernzuege-nach-nordrhein-westfalen-a-0fb051dc-6efe-44e9-ace4-d33600afda36#ref=rss)
-### bewerbungen
+* [https://www.spiegel.de/kultur/kino/captain-america-marvel-superheldin-sabra-darf-offenbar-israelische-identitaet-behalten](https://www.spiegel.de/kultur/kino/captain-america-marvel-superheldin-sabra-darf-offenbar-israelische-identitaet-behalten-a-54de567d-c754-4bb1-9cb5-26ef79d20fc3#ref=rss)
+### sabra
 
-* [https://www.spiegel.de/karriere/bewerbungen-hilfe-ich-bin-zu-gut-fuer-den-job-tipps-von-der-karriereberaterin](https://www.spiegel.de/karriere/bewerbungen-hilfe-ich-bin-zu-gut-fuer-den-job-tipps-von-der-karriereberaterin-a-8cf21ae6-8028-4603-a5cc-85f192b99959#ref=rss)
-### job
+* [https://www.spiegel.de/kultur/kino/captain-america-marvel-superheldin-sabra-darf-offenbar-israelische-identitaet-behalten](https://www.spiegel.de/kultur/kino/captain-america-marvel-superheldin-sabra-darf-offenbar-israelische-identitaet-behalten-a-54de567d-c754-4bb1-9cb5-26ef79d20fc3#ref=rss)
+### israelische
 
-* [https://www.spiegel.de/karriere/bewerbungen-hilfe-ich-bin-zu-gut-fuer-den-job-tipps-von-der-karriereberaterin](https://www.spiegel.de/karriere/bewerbungen-hilfe-ich-bin-zu-gut-fuer-den-job-tipps-von-der-karriereberaterin-a-8cf21ae6-8028-4603-a5cc-85f192b99959#ref=rss)
-### e
+* [https://www.spiegel.de/kultur/kino/captain-america-marvel-superheldin-sabra-darf-offenbar-israelische-identitaet-behalten](https://www.spiegel.de/kultur/kino/captain-america-marvel-superheldin-sabra-darf-offenbar-israelische-identitaet-behalten-a-54de567d-c754-4bb1-9cb5-26ef79d20fc3#ref=rss)
+### identität
 
-* [https://www.spiegel.de/sport/formel-e-pascal-wehrlein-erster-deutscher-weltmeister-der-elektro-rennserie](https://www.spiegel.de/sport/formel-e-pascal-wehrlein-erster-deutscher-weltmeister-der-elektro-rennserie-a-f4780b8e-edf3-432a-875e-e98b2c00cfc4#ref=rss)
-### pascal
+* [https://www.spiegel.de/kultur/kino/captain-america-marvel-superheldin-sabra-darf-offenbar-israelische-identitaet-behalten](https://www.spiegel.de/kultur/kino/captain-america-marvel-superheldin-sabra-darf-offenbar-israelische-identitaet-behalten-a-54de567d-c754-4bb1-9cb5-26ef79d20fc3#ref=rss)
+### fans
 
-* [https://www.spiegel.de/sport/formel-e-pascal-wehrlein-erster-deutscher-weltmeister-der-elektro-rennserie](https://www.spiegel.de/sport/formel-e-pascal-wehrlein-erster-deutscher-weltmeister-der-elektro-rennserie-a-f4780b8e-edf3-432a-875e-e98b2c00cfc4#ref=rss)
-### wehrlein
+* [https://www.spiegel.de/kultur/kino/captain-america-marvel-superheldin-sabra-darf-offenbar-israelische-identitaet-behalten](https://www.spiegel.de/kultur/kino/captain-america-marvel-superheldin-sabra-darf-offenbar-israelische-identitaet-behalten-a-54de567d-c754-4bb1-9cb5-26ef79d20fc3#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/kamala-harris-kokosnuss-und-palme-was-hat-es-mit-den-emojis-auf-sich](https://www.spiegel.de/netzwelt/web/kamala-harris-kokosnuss-und-palme-was-hat-es-mit-den-emojis-auf-sich-a-d16648c9-4ae8-476a-8f54-78bc55e0de94#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/sport/formel-e-pascal-wehrlein-erster-deutscher-weltmeister-der-elektro-rennserie](https://www.spiegel.de/sport/formel-e-pascal-wehrlein-erster-deutscher-weltmeister-der-elektro-rennserie-a-f4780b8e-edf3-432a-875e-e98b2c00cfc4#ref=rss)
+* [https://www.spiegel.de/kultur/kino/captain-america-marvel-superheldin-sabra-darf-offenbar-israelische-identitaet-behalten](https://www.spiegel.de/kultur/kino/captain-america-marvel-superheldin-sabra-darf-offenbar-israelische-identitaet-behalten-a-54de567d-c754-4bb1-9cb5-26ef79d20fc3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/hunde-warum-sie-manchmal-pessimistische-entscheidungen-treffen](https://www.spiegel.de/wissenschaft/hunde-warum-sie-manchmal-pessimistische-entscheidungen-treffen-a-8c7076c9-7c6e-42fe-85bf-dff0fb8cc3a2#ref=rss)
+### hunde
+
+* [https://www.spiegel.de/wissenschaft/hunde-warum-sie-manchmal-pessimistische-entscheidungen-treffen](https://www.spiegel.de/wissenschaft/hunde-warum-sie-manchmal-pessimistische-entscheidungen-treffen-a-8c7076c9-7c6e-42fe-85bf-dff0fb8cc3a2#ref=rss)
+### kokosnuss
+
+* [https://www.spiegel.de/netzwelt/web/kamala-harris-kokosnuss-und-palme-was-hat-es-mit-den-emojis-auf-sich](https://www.spiegel.de/netzwelt/web/kamala-harris-kokosnuss-und-palme-was-hat-es-mit-den-emojis-auf-sich-a-d16648c9-4ae8-476a-8f54-78bc55e0de94#ref=rss)
+### palme
+
+* [https://www.spiegel.de/netzwelt/web/kamala-harris-kokosnuss-und-palme-was-hat-es-mit-den-emojis-auf-sich](https://www.spiegel.de/netzwelt/web/kamala-harris-kokosnuss-und-palme-was-hat-es-mit-den-emojis-auf-sich-a-d16648c9-4ae8-476a-8f54-78bc55e0de94#ref=rss)
+### emojis
+
+* [https://www.spiegel.de/netzwelt/web/kamala-harris-kokosnuss-und-palme-was-hat-es-mit-den-emojis-auf-sich](https://www.spiegel.de/netzwelt/web/kamala-harris-kokosnuss-und-palme-was-hat-es-mit-den-emojis-auf-sich-a-d16648c9-4ae8-476a-8f54-78bc55e0de94#ref=rss)
+### wohnen
+
+* [https://www.spiegel.de/wirtschaft/wohnen-in-deutschland-wie-hoch-sind-die-mieten-in-ihrer-nachbarschaft](https://www.spiegel.de/wirtschaft/wohnen-in-deutschland-wie-hoch-sind-die-mieten-in-ihrer-nachbarschaft-a-241dd859-f9a6-46c7-9b68-5f4c9a224e26#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wirtschaft/wohnen-in-deutschland-wie-hoch-sind-die-mieten-in-ihrer-nachbarschaft](https://www.spiegel.de/wirtschaft/wohnen-in-deutschland-wie-hoch-sind-die-mieten-in-ihrer-nachbarschaft-a-241dd859-f9a6-46c7-9b68-5f4c9a224e26#ref=rss)
+### karriere
+
+* [https://www.spiegel.de/ausland/joe-biden-von-delaware-ins-weisse-haus-seine-karriere-in-bildern](https://www.spiegel.de/ausland/joe-biden-von-delaware-ins-weisse-haus-seine-karriere-in-bildern-a-b411d807-dc6e-4c23-8ba8-93bd66916c6e#ref=rss)
+### bildern
+
+* [https://www.spiegel.de/ausland/joe-biden-von-delaware-ins-weisse-haus-seine-karriere-in-bildern](https://www.spiegel.de/ausland/joe-biden-von-delaware-ins-weisse-haus-seine-karriere-in-bildern-a-b411d807-dc6e-4c23-8ba8-93bd66916c6e#ref=rss)
 
