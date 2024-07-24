@@ -4,410 +4,333 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### kamala
+### frauen
 
-* [https://www.spiegel.de/netzwelt/web/kamala-harris-kamala-is-brat-so-funktioniert-der-social-media-auftritt-der-politikerin](https://www.spiegel.de/netzwelt/web/kamala-harris-kamala-is-brat-so-funktioniert-der-social-media-auftritt-der-politikerin-a-5fd69426-ee4b-4b93-a037-36fd9509f19f#ref=rss)
-* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-a-2521420c-1fb9-4c37-b695-04a441da704a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/us-wahlkampf-kamala-harris-sammelt-binnen-24-stunden-ueber-80-millionen-dollar-ein](https://www.spiegel.de/wirtschaft/us-wahlkampf-kamala-harris-sammelt-binnen-24-stunden-ueber-80-millionen-dollar-ein-a-0519d7f0-000e-4552-a265-e4eb3fb2e675#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-wahl-kitagesetz-opposition-in-russland](https://www.spiegel.de/politik/deutschland/news-des-tages-us-wahl-kitagesetz-opposition-in-russland-a-2a385dc1-b659-49bd-9bcf-08752f94b6c0#ref=rss)
-* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-podcast](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-podcast-a-385f4520-21d7-4b27-a1cc-ac5a9196db2a#ref=rss)
-### harris
+* [https://www.spiegel.de/wirtschaft/soziales/pflegefachkraft-mehr-als-33-000-menschen-schliessen-neue-ausbildung-ab](https://www.spiegel.de/wirtschaft/soziales/pflegefachkraft-mehr-als-33-000-menschen-schliessen-neue-ausbildung-ab-a-94c0191e-63e1-4fee-9ae7-79817652dcc8#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2024-fussballtraining-ausgespaeht-mitarbeiter-des-kanadischen-betreuerstabs-festgenommen](https://www.spiegel.de/sport/olympia/olympia-2024-fussballtraining-ausgespaeht-mitarbeiter-des-kanadischen-betreuerstabs-festgenommen-a-88b9dada-a500-4ede-ba7b-4b1b3eb401f2#ref=rss)
+* [https://www.spiegel.de/karriere/frauen-in-der-forschung-warum-die-tu-eindhoven-fuenf-jahre-lang-zuerst-frauen-eingestellt-hat](https://www.spiegel.de/karriere/frauen-in-der-forschung-warum-die-tu-eindhoven-fuenf-jahre-lang-zuerst-frauen-eingestellt-hat-a-6bf8708b-55ca-497a-a7f9-fd717d592c98#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/netzwelt/web/kamala-harris-kamala-is-brat-so-funktioniert-der-social-media-auftritt-der-politikerin](https://www.spiegel.de/netzwelt/web/kamala-harris-kamala-is-brat-so-funktioniert-der-social-media-auftritt-der-politikerin-a-5fd69426-ee4b-4b93-a037-36fd9509f19f#ref=rss)
-* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-a-2521420c-1fb9-4c37-b695-04a441da704a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/us-wahlkampf-kamala-harris-sammelt-binnen-24-stunden-ueber-80-millionen-dollar-ein](https://www.spiegel.de/wirtschaft/us-wahlkampf-kamala-harris-sammelt-binnen-24-stunden-ueber-80-millionen-dollar-ein-a-0519d7f0-000e-4552-a265-e4eb3fb2e675#ref=rss)
-* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-podcast](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-podcast-a-385f4520-21d7-4b27-a1cc-ac5a9196db2a#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-wie-ampel-und-union-das-gericht-schuetzen-wollen](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-wie-ampel-und-union-das-gericht-schuetzen-wollen-a-9325fe76-a238-42ff-832a-cceef1b45f90#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/gerichtsurteil-zur-luftqualitaet-muessen-jetzt-millionen-dieselautos-stillgelegt-werden](https://www.spiegel.de/wissenschaft/natur/gerichtsurteil-zur-luftqualitaet-muessen-jetzt-millionen-dieselautos-stillgelegt-werden-a-8a813131-e2c7-4260-a4b5-9e05bd84a8ab#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-studentin-vergewaltigt-drei-jahre-haft-fuer-fahrer](https://www.spiegel.de/panorama/justiz/berlin-studentin-vergewaltigt-drei-jahre-haft-fuer-fahrer-a-1f3dacad-1e3c-4aa3-aa2c-3ddc5346c58d#ref=rss)
-* [https://www.spiegel.de/ausland/russland-spiegel-kolumnist-mikhail-zygar-in-abwesenheit-verurteilt](https://www.spiegel.de/ausland/russland-spiegel-kolumnist-mikhail-zygar-in-abwesenheit-verurteilt-a-c54cfe1c-9cff-4fb0-b8af-ff6c3b8c22e8#ref=rss)
-* [https://www.spiegel.de/ausland/spanien-gericht-verurteilt-rentner-nach-briefbombenserie-zu-langer-haftstrafe](https://www.spiegel.de/ausland/spanien-gericht-verurteilt-rentner-nach-briefbombenserie-zu-langer-haftstrafe-a-d4ccdf0a-46cc-4217-9cfa-10236a6dd9c1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-gerichtsurteil-zum-schutzstatus-eines-syrers-sorgt-fuer-debatten](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-gerichtsurteil-zum-schutzstatus-eines-syrers-sorgt-fuer-debatten-a-5df20e5b-6b9a-464d-be7f-219a9ad427df#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/aschaffenburg-39-jaehriger-wegen-mordversuchs-an-ex-frau-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/aschaffenburg-39-jaehriger-wegen-mordversuchs-an-ex-frau-zu-lebenslanger-haft-verurteilt-a-1fd24c4c-deff-4dba-a176-308491aba2b3#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/kultur/kino/harry-potter-daniel-radcliffe-und-die-verbindung-zu-seinem-alter-ego](https://www.spiegel.de/kultur/kino/harry-potter-daniel-radcliffe-und-die-verbindung-zu-seinem-alter-ego-a-3b5671f6-2e75-49c1-9ca4-09d657421446#ref=rss)
-* [https://www.spiegel.de/wirtschaft/us-wahlkampf-kamala-harris-sammelt-binnen-24-stunden-ueber-80-millionen-dollar-ein](https://www.spiegel.de/wirtschaft/us-wahlkampf-kamala-harris-sammelt-binnen-24-stunden-ueber-80-millionen-dollar-ein-a-0519d7f0-000e-4552-a265-e4eb3fb2e675#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-gerichtsurteil-zum-schutzstatus-eines-syrers-sorgt-fuer-debatten](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-gerichtsurteil-zum-schutzstatus-eines-syrers-sorgt-fuer-debatten-a-5df20e5b-6b9a-464d-be7f-219a9ad427df#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-wahl-kitagesetz-opposition-in-russland](https://www.spiegel.de/politik/deutschland/news-des-tages-us-wahl-kitagesetz-opposition-in-russland-a-2a385dc1-b659-49bd-9bcf-08752f94b6c0#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/passau-rund-120-000-euro-schaden-durch-vandalismus-an-autos-65-jaehrige-soll-verantwortlich-sein](https://www.spiegel.de/panorama/justiz/passau-rund-120-000-euro-schaden-durch-vandalismus-an-autos-65-jaehrige-soll-verantwortlich-sein-a-fd6f7b02-fdfe-4612-af31-0a12f12f5781#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/woelfe-in-deutschland-fachleute-koennen-nicht-mehr-alle-toten-tiere-untersuchen](https://www.spiegel.de/wissenschaft/natur/woelfe-in-deutschland-fachleute-koennen-nicht-mehr-alle-toten-tiere-untersuchen-a-9acac6b6-6454-4bdd-9890-41388dcb2898#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-a-2521420c-1fb9-4c37-b695-04a441da704a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/us-wahlkampf-kamala-harris-sammelt-binnen-24-stunden-ueber-80-millionen-dollar-ein](https://www.spiegel.de/wirtschaft/us-wahlkampf-kamala-harris-sammelt-binnen-24-stunden-ueber-80-millionen-dollar-ein-a-0519d7f0-000e-4552-a265-e4eb3fb2e675#ref=rss)
-* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-podcast](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-podcast-a-385f4520-21d7-4b27-a1cc-ac5a9196db2a#ref=rss)
-* [https://www.spiegel.de/ausland/kimberly-cheatle-secret-service-chefin-tritt-zurueck](https://www.spiegel.de/ausland/kimberly-cheatle-secret-service-chefin-tritt-zurueck-a-b23ae277-402f-41b6-842d-b689f06b6b4a#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-a-2521420c-1fb9-4c37-b695-04a441da704a#ref=rss)
-* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-podcast](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-podcast-a-385f4520-21d7-4b27-a1cc-ac5a9196db2a#ref=rss)
-* [https://www.spiegel.de/ausland/kimberly-cheatle-secret-service-chefin-tritt-zurueck](https://www.spiegel.de/ausland/kimberly-cheatle-secret-service-chefin-tritt-zurueck-a-b23ae277-402f-41b6-842d-b689f06b6b4a#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/netzwelt/web/kamala-harris-kamala-is-brat-so-funktioniert-der-social-media-auftritt-der-politikerin](https://www.spiegel.de/netzwelt/web/kamala-harris-kamala-is-brat-so-funktioniert-der-social-media-auftritt-der-politikerin-a-5fd69426-ee4b-4b93-a037-36fd9509f19f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/us-wahlkampf-kamala-harris-sammelt-binnen-24-stunden-ueber-80-millionen-dollar-ein](https://www.spiegel.de/wirtschaft/us-wahlkampf-kamala-harris-sammelt-binnen-24-stunden-ueber-80-millionen-dollar-ein-a-0519d7f0-000e-4552-a265-e4eb3fb2e675#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-labour-regierung-will-umstrittenes-wohncontainerschiff-fuer-migranten-schliessen](https://www.spiegel.de/ausland/grossbritannien-labour-regierung-will-umstrittenes-wohncontainerschiff-fuer-migranten-schliessen-a-98d83029-1cf8-443f-b2bc-ddff7ec372c9#ref=rss)
-* [https://www.spiegel.de/ausland/kimberly-cheatle-secret-service-chefin-tritt-zurueck](https://www.spiegel.de/ausland/kimberly-cheatle-secret-service-chefin-tritt-zurueck-a-b23ae277-402f-41b6-842d-b689f06b6b4a#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/wissenschaft/natur/gerichtsurteil-zur-luftqualitaet-muessen-jetzt-millionen-dieselautos-stillgelegt-werden](https://www.spiegel.de/wissenschaft/natur/gerichtsurteil-zur-luftqualitaet-muessen-jetzt-millionen-dieselautos-stillgelegt-werden-a-8a813131-e2c7-4260-a4b5-9e05bd84a8ab#ref=rss)
-* [https://www.spiegel.de/wirtschaft/us-wahlkampf-kamala-harris-sammelt-binnen-24-stunden-ueber-80-millionen-dollar-ein](https://www.spiegel.de/wirtschaft/us-wahlkampf-kamala-harris-sammelt-binnen-24-stunden-ueber-80-millionen-dollar-ein-a-0519d7f0-000e-4552-a265-e4eb3fb2e675#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/so-viel-verdienen-die-dax-bosse-bis-zu-zehn-millionen-euro-jahresgehalt](https://www.spiegel.de/wirtschaft/soziales/so-viel-verdienen-die-dax-bosse-bis-zu-zehn-millionen-euro-jahresgehalt-a-7642ae90-598d-41ea-954a-773e95b203e0#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/ausland/russland-spiegel-kolumnist-mikhail-zygar-in-abwesenheit-verurteilt](https://www.spiegel.de/ausland/russland-spiegel-kolumnist-mikhail-zygar-in-abwesenheit-verurteilt-a-c54cfe1c-9cff-4fb0-b8af-ff6c3b8c22e8#ref=rss)
-* [https://www.spiegel.de/ausland/spanien-gericht-verurteilt-rentner-nach-briefbombenserie-zu-langer-haftstrafe](https://www.spiegel.de/ausland/spanien-gericht-verurteilt-rentner-nach-briefbombenserie-zu-langer-haftstrafe-a-d4ccdf0a-46cc-4217-9cfa-10236a6dd9c1#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/aschaffenburg-39-jaehriger-wegen-mordversuchs-an-ex-frau-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/aschaffenburg-39-jaehriger-wegen-mordversuchs-an-ex-frau-zu-lebenslanger-haft-verurteilt-a-1fd24c4c-deff-4dba-a176-308491aba2b3#ref=rss)
-### opposition
-
-* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-wie-ampel-und-union-das-gericht-schuetzen-wollen](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-wie-ampel-und-union-das-gericht-schuetzen-wollen-a-9325fe76-a238-42ff-832a-cceef1b45f90#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-wahl-kitagesetz-opposition-in-russland](https://www.spiegel.de/politik/deutschland/news-des-tages-us-wahl-kitagesetz-opposition-in-russland-a-2a385dc1-b659-49bd-9bcf-08752f94b6c0#ref=rss)
-### joe
-
-* [https://www.spiegel.de/netzwelt/web/kamala-harris-kamala-is-brat-so-funktioniert-der-social-media-auftritt-der-politikerin](https://www.spiegel.de/netzwelt/web/kamala-harris-kamala-is-brat-so-funktioniert-der-social-media-auftritt-der-politikerin-a-5fd69426-ee4b-4b93-a037-36fd9509f19f#ref=rss)
-* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-a-2521420c-1fb9-4c37-b695-04a441da704a#ref=rss)
-* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-podcast](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-podcast-a-385f4520-21d7-4b27-a1cc-ac5a9196db2a#ref=rss)
-### biden
-
-* [https://www.spiegel.de/netzwelt/web/kamala-harris-kamala-is-brat-so-funktioniert-der-social-media-auftritt-der-politikerin](https://www.spiegel.de/netzwelt/web/kamala-harris-kamala-is-brat-so-funktioniert-der-social-media-auftritt-der-politikerin-a-5fd69426-ee4b-4b93-a037-36fd9509f19f#ref=rss)
-* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-a-2521420c-1fb9-4c37-b695-04a441da704a#ref=rss)
-* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-podcast](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-podcast-a-385f4520-21d7-4b27-a1cc-ac5a9196db2a#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wissenschaft/natur/gerichtsurteil-zur-luftqualitaet-muessen-jetzt-millionen-dieselautos-stillgelegt-werden](https://www.spiegel.de/wissenschaft/natur/gerichtsurteil-zur-luftqualitaet-muessen-jetzt-millionen-dieselautos-stillgelegt-werden-a-8a813131-e2c7-4260-a4b5-9e05bd84a8ab#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/woelfe-in-deutschland-fachleute-koennen-nicht-mehr-alle-toten-tiere-untersuchen](https://www.spiegel.de/wissenschaft/natur/woelfe-in-deutschland-fachleute-koennen-nicht-mehr-alle-toten-tiere-untersuchen-a-9acac6b6-6454-4bdd-9890-41388dcb2898#ref=rss)
-### bundesregierung
-
-* [https://www.spiegel.de/wissenschaft/natur/gerichtsurteil-zur-luftqualitaet-muessen-jetzt-millionen-dieselautos-stillgelegt-werden](https://www.spiegel.de/wissenschaft/natur/gerichtsurteil-zur-luftqualitaet-muessen-jetzt-millionen-dieselautos-stillgelegt-werden-a-8a813131-e2c7-4260-a4b5-9e05bd84a8ab#ref=rss)
-* [https://www.spiegel.de/wirtschaft/neuer-gebaeudetyp-e-wie-die-bundesregierung-guenstigeres-und-schnelleres-bauen-ermoeglichen-will](https://www.spiegel.de/wirtschaft/neuer-gebaeudetyp-e-wie-die-bundesregierung-guenstigeres-und-schnelleres-bauen-ermoeglichen-will-a-2476af77-eaa7-4d87-91ab-75d8ea3b7d56#ref=rss)
-### wirklich
-
-* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-a-2521420c-1fb9-4c37-b695-04a441da704a#ref=rss)
-* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-podcast](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-podcast-a-385f4520-21d7-4b27-a1cc-ac5a9196db2a#ref=rss)
-* [https://www.spiegel.de/geschichte/bogdan-staschinski-erinnerungen-des-kgb-killers-diesmal-geht-es-wirklich-um-meinen-kopf](https://www.spiegel.de/geschichte/bogdan-staschinski-erinnerungen-des-kgb-killers-diesmal-geht-es-wirklich-um-meinen-kopf-a-2c60c191-6e03-44f7-a0b7-d305297a2cdd#ref=rss)
-### russische
-
-* [https://www.spiegel.de/ausland/russland-spiegel-kolumnist-mikhail-zygar-in-abwesenheit-verurteilt](https://www.spiegel.de/ausland/russland-spiegel-kolumnist-mikhail-zygar-in-abwesenheit-verurteilt-a-c54cfe1c-9cff-4fb0-b8af-ff6c3b8c22e8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-wahl-kitagesetz-opposition-in-russland](https://www.spiegel.de/politik/deutschland/news-des-tages-us-wahl-kitagesetz-opposition-in-russland-a-2a385dc1-b659-49bd-9bcf-08752f94b6c0#ref=rss)
-### strafe
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/amazon-vorlaeufige-strafe-in-millionenhoehe-italien-verhaengt-strafe-gegen-onlinehaendler-wegen-steuerbetrug](https://www.spiegel.de/wirtschaft/unternehmen/amazon-vorlaeufige-strafe-in-millionenhoehe-italien-verhaengt-strafe-gegen-onlinehaendler-wegen-steuerbetrug-a-92fd57ca-5c3d-47cf-a6e2-07dc86a9bbcb#ref=rss)
-### bundesverfassungsgericht
-
-* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-wie-ampel-und-union-das-gericht-schuetzen-wollen](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-wie-ampel-und-union-das-gericht-schuetzen-wollen-a-9325fe76-a238-42ff-832a-cceef1b45f90#ref=rss)
-### ampel
-
-* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-wie-ampel-und-union-das-gericht-schuetzen-wollen](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-wie-ampel-und-union-das-gericht-schuetzen-wollen-a-9325fe76-a238-42ff-832a-cceef1b45f90#ref=rss)
-### union
-
-* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-wie-ampel-und-union-das-gericht-schuetzen-wollen](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-wie-ampel-und-union-das-gericht-schuetzen-wollen-a-9325fe76-a238-42ff-832a-cceef1b45f90#ref=rss)
-### schützen
-
-* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-wie-ampel-und-union-das-gericht-schuetzen-wollen](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-wie-ampel-und-union-das-gericht-schuetzen-wollen-a-9325fe76-a238-42ff-832a-cceef1b45f90#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/gerichtsurteil-zur-luftqualitaet-muessen-jetzt-millionen-dieselautos-stillgelegt-werden](https://www.spiegel.de/wissenschaft/natur/gerichtsurteil-zur-luftqualitaet-muessen-jetzt-millionen-dieselautos-stillgelegt-werden-a-8a813131-e2c7-4260-a4b5-9e05bd84a8ab#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-wie-ampel-und-union-das-gericht-schuetzen-wollen](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-wie-ampel-und-union-das-gericht-schuetzen-wollen-a-9325fe76-a238-42ff-832a-cceef1b45f90#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-labour-regierung-will-umstrittenes-wohncontainerschiff-fuer-migranten-schliessen](https://www.spiegel.de/ausland/grossbritannien-labour-regierung-will-umstrittenes-wohncontainerschiff-fuer-migranten-schliessen-a-98d83029-1cf8-443f-b2bc-ddff7ec372c9#ref=rss)
-### gemeinsam
-
-* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-wie-ampel-und-union-das-gericht-schuetzen-wollen](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-wie-ampel-und-union-das-gericht-schuetzen-wollen-a-9325fe76-a238-42ff-832a-cceef1b45f90#ref=rss)
-* [https://www.spiegel.de/kultur/kino/harry-potter-daniel-radcliffe-und-die-verbindung-zu-seinem-alter-ego](https://www.spiegel.de/kultur/kino/harry-potter-daniel-radcliffe-und-die-verbindung-zu-seinem-alter-ego-a-3b5671f6-2e75-49c1-9ca4-09d657421446#ref=rss)
-### außenminister
-
-* [https://www.spiegel.de/ausland/ukrainischer-aussenminister-in-china-zu-gast-bei-wladimir-putins-partner](https://www.spiegel.de/ausland/ukrainischer-aussenminister-in-china-zu-gast-bei-wladimir-putins-partner-a-e3dd29ba-deea-4fd9-852f-2ae6c0124cf6#ref=rss)
-### partner
-
-* [https://www.spiegel.de/ausland/ukrainischer-aussenminister-in-china-zu-gast-bei-wladimir-putins-partner](https://www.spiegel.de/ausland/ukrainischer-aussenminister-in-china-zu-gast-bei-wladimir-putins-partner-a-e3dd29ba-deea-4fd9-852f-2ae6c0124cf6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/venezia-fc-beendet-partnerschaft-mit-kappa-abschied-vom-trendigsten-fussballtrikot-der-welt](https://www.spiegel.de/sport/fussball/venezia-fc-beendet-partnerschaft-mit-kappa-abschied-vom-trendigsten-fussballtrikot-der-welt-a-f7fce17d-552a-48cb-acd3-f411e9cadc91#ref=rss)
-### ioc
-
-* [https://www.spiegel.de/sport/olympia/ioc-beschliesst-olympische-e-sport-spiele-in-saudi-arabien](https://www.spiegel.de/sport/olympia/ioc-beschliesst-olympische-e-sport-spiele-in-saudi-arabien-a-5d4abfa8-b187-4e9f-bce5-c97d42ea605f#ref=rss)
-### olympischen
-
-* [https://www.spiegel.de/sport/olympia/ioc-beschliesst-olympische-e-sport-spiele-in-saudi-arabien](https://www.spiegel.de/sport/olympia/ioc-beschliesst-olympische-e-sport-spiele-in-saudi-arabien-a-5d4abfa8-b187-4e9f-bce5-c97d42ea605f#ref=rss)
-* [https://www.spiegel.de/sport/olympia/charlotte-dujardin-trainingsvideo-sorgt-fuer-olympia-aus-von-dressur-star](https://www.spiegel.de/sport/olympia/charlotte-dujardin-trainingsvideo-sorgt-fuer-olympia-aus-von-dressur-star-a-abc63c18-5b30-46e7-b3eb-e4ba55b05616#ref=rss)
-### spiele
-
-* [https://www.spiegel.de/sport/olympia/ioc-beschliesst-olympische-e-sport-spiele-in-saudi-arabien](https://www.spiegel.de/sport/olympia/ioc-beschliesst-olympische-e-sport-spiele-in-saudi-arabien-a-5d4abfa8-b187-4e9f-bce5-c97d42ea605f#ref=rss)
-* [https://www.spiegel.de/sport/olympia/charlotte-dujardin-trainingsvideo-sorgt-fuer-olympia-aus-von-dressur-star](https://www.spiegel.de/sport/olympia/charlotte-dujardin-trainingsvideo-sorgt-fuer-olympia-aus-von-dressur-star-a-abc63c18-5b30-46e7-b3eb-e4ba55b05616#ref=rss)
-### ermittlungen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/wirecard-ermittlungen-gegen-elf-beschuldigte-eingestellt](https://www.spiegel.de/wirtschaft/unternehmen/wirecard-ermittlungen-gegen-elf-beschuldigte-eingestellt-a-8eb4d87f-65ad-465a-beb3-c1639228204b#ref=rss)
-### elf
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/wirecard-ermittlungen-gegen-elf-beschuldigte-eingestellt](https://www.spiegel.de/wirtschaft/unternehmen/wirecard-ermittlungen-gegen-elf-beschuldigte-eingestellt-a-8eb4d87f-65ad-465a-beb3-c1639228204b#ref=rss)
-### entlastet
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/wirecard-ermittlungen-gegen-elf-beschuldigte-eingestellt](https://www.spiegel.de/wirtschaft/unternehmen/wirecard-ermittlungen-gegen-elf-beschuldigte-eingestellt-a-8eb4d87f-65ad-465a-beb3-c1639228204b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-wahl-kitagesetz-opposition-in-russland](https://www.spiegel.de/politik/deutschland/news-des-tages-us-wahl-kitagesetz-opposition-in-russland-a-2a385dc1-b659-49bd-9bcf-08752f94b6c0#ref=rss)
-### gerichtsurteil
-
-* [https://www.spiegel.de/wissenschaft/natur/gerichtsurteil-zur-luftqualitaet-muessen-jetzt-millionen-dieselautos-stillgelegt-werden](https://www.spiegel.de/wissenschaft/natur/gerichtsurteil-zur-luftqualitaet-muessen-jetzt-millionen-dieselautos-stillgelegt-werden-a-8a813131-e2c7-4260-a4b5-9e05bd84a8ab#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-gerichtsurteil-zum-schutzstatus-eines-syrers-sorgt-fuer-debatten](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-gerichtsurteil-zum-schutzstatus-eines-syrers-sorgt-fuer-debatten-a-5df20e5b-6b9a-464d-be7f-219a9ad427df#ref=rss)
-### harry
-
-* [https://www.spiegel.de/kultur/kino/harry-potter-daniel-radcliffe-und-die-verbindung-zu-seinem-alter-ego](https://www.spiegel.de/kultur/kino/harry-potter-daniel-radcliffe-und-die-verbindung-zu-seinem-alter-ego-a-3b5671f6-2e75-49c1-9ca4-09d657421446#ref=rss)
-### potter
-
-* [https://www.spiegel.de/kultur/kino/harry-potter-daniel-radcliffe-und-die-verbindung-zu-seinem-alter-ego](https://www.spiegel.de/kultur/kino/harry-potter-daniel-radcliffe-und-die-verbindung-zu-seinem-alter-ego-a-3b5671f6-2e75-49c1-9ca4-09d657421446#ref=rss)
-### daniel
-
-* [https://www.spiegel.de/kultur/kino/harry-potter-daniel-radcliffe-und-die-verbindung-zu-seinem-alter-ego](https://www.spiegel.de/kultur/kino/harry-potter-daniel-radcliffe-und-die-verbindung-zu-seinem-alter-ego-a-3b5671f6-2e75-49c1-9ca4-09d657421446#ref=rss)
-### radcliffe
-
-* [https://www.spiegel.de/kultur/kino/harry-potter-daniel-radcliffe-und-die-verbindung-zu-seinem-alter-ego](https://www.spiegel.de/kultur/kino/harry-potter-daniel-radcliffe-und-die-verbindung-zu-seinem-alter-ego-a-3b5671f6-2e75-49c1-9ca4-09d657421446#ref=rss)
-### alter
-
-* [https://www.spiegel.de/kultur/kino/harry-potter-daniel-radcliffe-und-die-verbindung-zu-seinem-alter-ego](https://www.spiegel.de/kultur/kino/harry-potter-daniel-radcliffe-und-die-verbindung-zu-seinem-alter-ego-a-3b5671f6-2e75-49c1-9ca4-09d657421446#ref=rss)
-### ego
-
-* [https://www.spiegel.de/kultur/kino/harry-potter-daniel-radcliffe-und-die-verbindung-zu-seinem-alter-ego](https://www.spiegel.de/kultur/kino/harry-potter-daniel-radcliffe-und-die-verbindung-zu-seinem-alter-ego-a-3b5671f6-2e75-49c1-9ca4-09d657421446#ref=rss)
+* [https://www.spiegel.de/kultur/kino/sandra-hueller-in-der-wendekomoedie-zwei-zu-eins-neustart-zu-dritt](https://www.spiegel.de/kultur/kino/sandra-hueller-in-der-wendekomoedie-zwei-zu-eins-neustart-zu-dritt-a-1ed083f3-3fae-417e-8792-ab15393bcb7a#ref=rss)
+* [https://www.spiegel.de/familie/sommerferien-drei-wege-um-kinder-zu-beschaeftigen](https://www.spiegel.de/familie/sommerferien-drei-wege-um-kinder-zu-beschaeftigen-a-86dda316-fae2-418b-acb8-bf771fdb2c9a#ref=rss)
 ### jahren
 
-* [https://www.spiegel.de/kultur/kino/harry-potter-daniel-radcliffe-und-die-verbindung-zu-seinem-alter-ego](https://www.spiegel.de/kultur/kino/harry-potter-daniel-radcliffe-und-die-verbindung-zu-seinem-alter-ego-a-3b5671f6-2e75-49c1-9ca4-09d657421446#ref=rss)
-* [https://www.spiegel.de/wirtschaft/neuer-gebaeudetyp-e-wie-die-bundesregierung-guenstigeres-und-schnelleres-bauen-ermoeglichen-will](https://www.spiegel.de/wirtschaft/neuer-gebaeudetyp-e-wie-die-bundesregierung-guenstigeres-und-schnelleres-bauen-ermoeglichen-will-a-2476af77-eaa7-4d87-91ab-75d8ea3b7d56#ref=rss)
-### anstelle
+* [https://www.spiegel.de/ausland/grossbritannien-keir-starmer-stellt-sich-fragen-im-parlament-livestream](https://www.spiegel.de/ausland/grossbritannien-keir-starmer-stellt-sich-fragen-im-parlament-livestream-a-72425a4b-6fb2-43a3-8749-ab2f4d2b0529#ref=rss)
+* [https://www.spiegel.de/kultur/tv/winfried-glatzeder-hat-im-dschungelcamp-schreckliche-facetten-an-sich-entdeckt](https://www.spiegel.de/kultur/tv/winfried-glatzeder-hat-im-dschungelcamp-schreckliche-facetten-an-sich-entdeckt-a-c6f54bd0-5ee0-4fae-afb8-cd136e6ac2c4#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-ioc-vergibt-winterspiele-2030-an-franzoesische-alpen](https://www.spiegel.de/sport/olympia/olympia-ioc-vergibt-winterspiele-2030-an-franzoesische-alpen-a-a888c83d-9e7b-4f3c-a92d-9b3b4b05bdb7#ref=rss)
+* [https://www.spiegel.de/kultur/musik/john-mayall-ist-tot-blues-musiker-und-foerderer-von-eric-clapton-gestorben](https://www.spiegel.de/kultur/musik/john-mayall-ist-tot-blues-musiker-und-foerderer-von-eric-clapton-gestorben-a-e712bff6-6a28-45f1-9bfe-fa84a3b6ef96#ref=rss)
+### olympia
 
-* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-a-2521420c-1fb9-4c37-b695-04a441da704a#ref=rss)
-* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-podcast](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-podcast-a-385f4520-21d7-4b27-a1cc-ac5a9196db2a#ref=rss)
-### punkten
+* [https://www.spiegel.de/sport/olympia/olympia-ioc-vergibt-winterspiele-2030-an-franzoesische-alpen](https://www.spiegel.de/sport/olympia/olympia-ioc-vergibt-winterspiele-2030-an-franzoesische-alpen-a-a888c83d-9e7b-4f3c-a92d-9b3b4b05bdb7#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2024-dennis-schroeder-spricht-ueber-seine-bescheidene-kindheit-und-den-erfolg-als-fahnentraeger](https://www.spiegel.de/sport/olympia/olympia-2024-dennis-schroeder-spricht-ueber-seine-bescheidene-kindheit-und-den-erfolg-als-fahnentraeger-a-a2feb802-1961-46d9-8b5d-2143ce2c1821#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2024-fussballtraining-ausgespaeht-mitarbeiter-des-kanadischen-betreuerstabs-festgenommen](https://www.spiegel.de/sport/olympia/olympia-2024-fussballtraining-ausgespaeht-mitarbeiter-des-kanadischen-betreuerstabs-festgenommen-a-88b9dada-a500-4ede-ba7b-4b1b3eb401f2#ref=rss)
+### stellt
 
-* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-a-2521420c-1fb9-4c37-b695-04a441da704a#ref=rss)
-* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-podcast](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-podcast-a-385f4520-21d7-4b27-a1cc-ac5a9196db2a#ref=rss)
-### usvizepräsidentin
+* [https://www.spiegel.de/ausland/grossbritannien-keir-starmer-stellt-sich-fragen-im-parlament-livestream](https://www.spiegel.de/ausland/grossbritannien-keir-starmer-stellt-sich-fragen-im-parlament-livestream-a-72425a4b-6fb2-43a3-8749-ab2f4d2b0529#ref=rss)
+* [https://www.spiegel.de/politik/olaf-scholz-das-sagt-der-bundeskanzler-in-der-sommer-pressekonferenz](https://www.spiegel.de/politik/olaf-scholz-das-sagt-der-bundeskanzler-in-der-sommer-pressekonferenz-a-683461ed-ab2a-45e5-b837-24ba8dce0e05#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-sieht-verbot-des-islamischen-zentrums-als-konsequentes-vorgehen-gegen-extremismus](https://www.spiegel.de/politik/deutschland/spd-sieht-verbot-des-islamischen-zentrums-als-konsequentes-vorgehen-gegen-extremismus-a-afb96c0d-a2ff-4385-8edc-eaa11c0516ad#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-a-2521420c-1fb9-4c37-b695-04a441da704a#ref=rss)
-* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-podcast](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-podcast-a-385f4520-21d7-4b27-a1cc-ac5a9196db2a#ref=rss)
-### rekordzeit
+* [https://www.spiegel.de/ausland/grossbritannien-keir-starmer-stellt-sich-fragen-im-parlament-livestream](https://www.spiegel.de/ausland/grossbritannien-keir-starmer-stellt-sich-fragen-im-parlament-livestream-a-72425a4b-6fb2-43a3-8749-ab2f4d2b0529#ref=rss)
+* [https://www.spiegel.de/politik/olaf-scholz-das-sagt-der-bundeskanzler-in-der-sommer-pressekonferenz](https://www.spiegel.de/politik/olaf-scholz-das-sagt-der-bundeskanzler-in-der-sommer-pressekonferenz-a-683461ed-ab2a-45e5-b837-24ba8dce0e05#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/digitalpakt-fuer-schulen-laender-fuerchten-finanzluecke-von-hunderten-millionen-euro](https://www.spiegel.de/panorama/bildung/digitalpakt-fuer-schulen-laender-fuerchten-finanzluecke-von-hunderten-millionen-euro-a-e220fafe-495a-42dc-8f99-1d05d11f8ceb#ref=rss)
+### trump
 
-* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-a-2521420c-1fb9-4c37-b695-04a441da704a#ref=rss)
-* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-podcast](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-podcast-a-385f4520-21d7-4b27-a1cc-ac5a9196db2a#ref=rss)
-### beweisen
+* [https://www.spiegel.de/ausland/kamala-harris-wollt-ihr-mitgefuehl-oder-hass](https://www.spiegel.de/ausland/kamala-harris-wollt-ihr-mitgefuehl-oder-hass-a-91dab355-352c-48dc-a2fc-74250779f1b1#ref=rss)
+* [https://www.spiegel.de/ausland/israel-palaestina-konflikt-donald-trump-gibt-sich-als-friedensstifter-vor-treffen-mit-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-palaestina-konflikt-donald-trump-gibt-sich-als-friedensstifter-vor-treffen-mit-benjamin-netanyahu-a-c5855837-5771-49b1-b816-76d6f2917e37#ref=rss)
+### deutlich
 
-* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-a-2521420c-1fb9-4c37-b695-04a441da704a#ref=rss)
-* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-podcast](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-podcast-a-385f4520-21d7-4b27-a1cc-ac5a9196db2a#ref=rss)
-### zeigen
+* [https://www.spiegel.de/panorama/gesellschaft/sachsen-anhalt-zugang-zu-schwangerschaftsabbruechen-wird-schwerer](https://www.spiegel.de/panorama/gesellschaft/sachsen-anhalt-zugang-zu-schwangerschaftsabbruechen-wird-schwerer-a-6a30be37-6140-4187-9aec-71502af80e4e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsches-konsumklima-steigt-deutlich-staerker-als-erwartet](https://www.spiegel.de/wirtschaft/deutsches-konsumklima-steigt-deutlich-staerker-als-erwartet-a-d50b1d6c-5260-4a44-a8f0-56e1b435ec7d#ref=rss)
+* [https://www.spiegel.de/panorama/charles-iii-britische-royals-haben-45-millionen-pfund-mehr-zur-verfuegung](https://www.spiegel.de/panorama/charles-iii-britische-royals-haben-45-millionen-pfund-mehr-zur-verfuegung-a-018e57e6-45e7-475d-8f67-75b546c69934#ref=rss)
+### treffen
 
-* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-a-2521420c-1fb9-4c37-b695-04a441da704a#ref=rss)
-* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-podcast](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-podcast-a-385f4520-21d7-4b27-a1cc-ac5a9196db2a#ref=rss)
-### wofür
+* [https://www.spiegel.de/ausland/israel-palaestina-konflikt-donald-trump-gibt-sich-als-friedensstifter-vor-treffen-mit-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-palaestina-konflikt-donald-trump-gibt-sich-als-friedensstifter-vor-treffen-mit-benjamin-netanyahu-a-c5855837-5771-49b1-b816-76d6f2917e37#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2024-fussballtraining-ausgespaeht-mitarbeiter-des-kanadischen-betreuerstabs-festgenommen](https://www.spiegel.de/sport/olympia/olympia-2024-fussballtraining-ausgespaeht-mitarbeiter-des-kanadischen-betreuerstabs-festgenommen-a-88b9dada-a500-4ede-ba7b-4b1b3eb401f2#ref=rss)
+### digitalpakt
 
-* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-a-2521420c-1fb9-4c37-b695-04a441da704a#ref=rss)
-* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-podcast](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-podcast-a-385f4520-21d7-4b27-a1cc-ac5a9196db2a#ref=rss)
-### chancen
+* [https://www.spiegel.de/panorama/bildung/digitalpakt-fuer-schulen-laender-fuerchten-finanzluecke-von-hunderten-millionen-euro](https://www.spiegel.de/panorama/bildung/digitalpakt-fuer-schulen-laender-fuerchten-finanzluecke-von-hunderten-millionen-euro-a-e220fafe-495a-42dc-8f99-1d05d11f8ceb#ref=rss)
+### millionen
 
-* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-a-2521420c-1fb9-4c37-b695-04a441da704a#ref=rss)
-* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-podcast](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-podcast-a-385f4520-21d7-4b27-a1cc-ac5a9196db2a#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-a-2521420c-1fb9-4c37-b695-04a441da704a#ref=rss)
-* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-podcast](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-podcast-a-385f4520-21d7-4b27-a1cc-ac5a9196db2a#ref=rss)
-### mathieu
-
-* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-a-2521420c-1fb9-4c37-b695-04a441da704a#ref=rss)
-* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-podcast](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-podcast-a-385f4520-21d7-4b27-a1cc-ac5a9196db2a#ref=rss)
-### rohr
-
-* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-a-2521420c-1fb9-4c37-b695-04a441da704a#ref=rss)
-* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-podcast](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-podcast-a-385f4520-21d7-4b27-a1cc-ac5a9196db2a#ref=rss)
-### leiter
-
-* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-a-2521420c-1fb9-4c37-b695-04a441da704a#ref=rss)
-* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-podcast](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-podcast-a-385f4520-21d7-4b27-a1cc-ac5a9196db2a#ref=rss)
-### auslandsressorts
-
-* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-a-2521420c-1fb9-4c37-b695-04a441da704a#ref=rss)
-* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-podcast](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-so-kann-sie-anstelle-von-joe-biden-punkten-podcast-a-385f4520-21d7-4b27-a1cc-ac5a9196db2a#ref=rss)
-### studentin
-
-* [https://www.spiegel.de/panorama/justiz/berlin-studentin-vergewaltigt-drei-jahre-haft-fuer-fahrer](https://www.spiegel.de/panorama/justiz/berlin-studentin-vergewaltigt-drei-jahre-haft-fuer-fahrer-a-1f3dacad-1e3c-4aa3-aa2c-3ddc5346c58d#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/panorama/justiz/berlin-studentin-vergewaltigt-drei-jahre-haft-fuer-fahrer](https://www.spiegel.de/panorama/justiz/berlin-studentin-vergewaltigt-drei-jahre-haft-fuer-fahrer-a-1f3dacad-1e3c-4aa3-aa2c-3ddc5346c58d#ref=rss)
-* [https://www.spiegel.de/ausland/spanien-gericht-verurteilt-rentner-nach-briefbombenserie-zu-langer-haftstrafe](https://www.spiegel.de/ausland/spanien-gericht-verurteilt-rentner-nach-briefbombenserie-zu-langer-haftstrafe-a-d4ccdf0a-46cc-4217-9cfa-10236a6dd9c1#ref=rss)
-### haft
-
-* [https://www.spiegel.de/panorama/justiz/berlin-studentin-vergewaltigt-drei-jahre-haft-fuer-fahrer](https://www.spiegel.de/panorama/justiz/berlin-studentin-vergewaltigt-drei-jahre-haft-fuer-fahrer-a-1f3dacad-1e3c-4aa3-aa2c-3ddc5346c58d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/aschaffenburg-39-jaehriger-wegen-mordversuchs-an-ex-frau-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/aschaffenburg-39-jaehriger-wegen-mordversuchs-an-ex-frau-zu-lebenslanger-haft-verurteilt-a-1fd24c4c-deff-4dba-a176-308491aba2b3#ref=rss)
-### fahrer
-
-* [https://www.spiegel.de/panorama/justiz/berlin-studentin-vergewaltigt-drei-jahre-haft-fuer-fahrer](https://www.spiegel.de/panorama/justiz/berlin-studentin-vergewaltigt-drei-jahre-haft-fuer-fahrer-a-1f3dacad-1e3c-4aa3-aa2c-3ddc5346c58d#ref=rss)
-### lage
-
-* [https://www.spiegel.de/panorama/justiz/berlin-studentin-vergewaltigt-drei-jahre-haft-fuer-fahrer](https://www.spiegel.de/panorama/justiz/berlin-studentin-vergewaltigt-drei-jahre-haft-fuer-fahrer-a-1f3dacad-1e3c-4aa3-aa2c-3ddc5346c58d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-wahl-kitagesetz-opposition-in-russland](https://www.spiegel.de/politik/deutschland/news-des-tages-us-wahl-kitagesetz-opposition-in-russland-a-2a385dc1-b659-49bd-9bcf-08752f94b6c0#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/russland-spiegel-kolumnist-mikhail-zygar-in-abwesenheit-verurteilt](https://www.spiegel.de/ausland/russland-spiegel-kolumnist-mikhail-zygar-in-abwesenheit-verurteilt-a-c54cfe1c-9cff-4fb0-b8af-ff6c3b8c22e8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-wahl-kitagesetz-opposition-in-russland](https://www.spiegel.de/politik/deutschland/news-des-tages-us-wahl-kitagesetz-opposition-in-russland-a-2a385dc1-b659-49bd-9bcf-08752f94b6c0#ref=rss)
-### spiegelkolumnist
-
-* [https://www.spiegel.de/ausland/russland-spiegel-kolumnist-mikhail-zygar-in-abwesenheit-verurteilt](https://www.spiegel.de/ausland/russland-spiegel-kolumnist-mikhail-zygar-in-abwesenheit-verurteilt-a-c54cfe1c-9cff-4fb0-b8af-ff6c3b8c22e8#ref=rss)
-### mikhail
-
-* [https://www.spiegel.de/ausland/russland-spiegel-kolumnist-mikhail-zygar-in-abwesenheit-verurteilt](https://www.spiegel.de/ausland/russland-spiegel-kolumnist-mikhail-zygar-in-abwesenheit-verurteilt-a-c54cfe1c-9cff-4fb0-b8af-ff6c3b8c22e8#ref=rss)
-### zygar
-
-* [https://www.spiegel.de/ausland/russland-spiegel-kolumnist-mikhail-zygar-in-abwesenheit-verurteilt](https://www.spiegel.de/ausland/russland-spiegel-kolumnist-mikhail-zygar-in-abwesenheit-verurteilt-a-c54cfe1c-9cff-4fb0-b8af-ff6c3b8c22e8#ref=rss)
-### haftstrafe
-
-* [https://www.spiegel.de/ausland/russland-spiegel-kolumnist-mikhail-zygar-in-abwesenheit-verurteilt](https://www.spiegel.de/ausland/russland-spiegel-kolumnist-mikhail-zygar-in-abwesenheit-verurteilt-a-c54cfe1c-9cff-4fb0-b8af-ff6c3b8c22e8#ref=rss)
-* [https://www.spiegel.de/ausland/spanien-gericht-verurteilt-rentner-nach-briefbombenserie-zu-langer-haftstrafe](https://www.spiegel.de/ausland/spanien-gericht-verurteilt-rentner-nach-briefbombenserie-zu-langer-haftstrafe-a-d4ccdf0a-46cc-4217-9cfa-10236a6dd9c1#ref=rss)
-### spanien
-
-* [https://www.spiegel.de/ausland/spanien-gericht-verurteilt-rentner-nach-briefbombenserie-zu-langer-haftstrafe](https://www.spiegel.de/ausland/spanien-gericht-verurteilt-rentner-nach-briefbombenserie-zu-langer-haftstrafe-a-d4ccdf0a-46cc-4217-9cfa-10236a6dd9c1#ref=rss)
-### rentner
-
-* [https://www.spiegel.de/ausland/spanien-gericht-verurteilt-rentner-nach-briefbombenserie-zu-langer-haftstrafe](https://www.spiegel.de/ausland/spanien-gericht-verurteilt-rentner-nach-briefbombenserie-zu-langer-haftstrafe-a-d4ccdf0a-46cc-4217-9cfa-10236a6dd9c1#ref=rss)
-### mann
-
-* [https://www.spiegel.de/ausland/spanien-gericht-verurteilt-rentner-nach-briefbombenserie-zu-langer-haftstrafe](https://www.spiegel.de/ausland/spanien-gericht-verurteilt-rentner-nach-briefbombenserie-zu-langer-haftstrafe-a-d4ccdf0a-46cc-4217-9cfa-10236a6dd9c1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/us-wahlkampf-kamala-harris-sammelt-binnen-24-stunden-ueber-80-millionen-dollar-ein](https://www.spiegel.de/wirtschaft/us-wahlkampf-kamala-harris-sammelt-binnen-24-stunden-ueber-80-millionen-dollar-ein-a-0519d7f0-000e-4552-a265-e4eb3fb2e675#ref=rss)
-### brasilien
-
-* [https://www.spiegel.de/panorama/brasilien-haie-mit-kokain-im-koerper](https://www.spiegel.de/panorama/brasilien-haie-mit-kokain-im-koerper-a-4b98cb18-8165-4994-b615-be61410e5267#ref=rss)
-### kokain
-
-* [https://www.spiegel.de/panorama/brasilien-haie-mit-kokain-im-koerper](https://www.spiegel.de/panorama/brasilien-haie-mit-kokain-im-koerper-a-4b98cb18-8165-4994-b615-be61410e5267#ref=rss)
-### finden
-
-* [https://www.spiegel.de/panorama/brasilien-haie-mit-kokain-im-koerper](https://www.spiegel.de/panorama/brasilien-haie-mit-kokain-im-koerper-a-4b98cb18-8165-4994-b615-be61410e5267#ref=rss)
-* [https://www.spiegel.de/sport/olympia/charlotte-dujardin-trainingsvideo-sorgt-fuer-olympia-aus-von-dressur-star](https://www.spiegel.de/sport/olympia/charlotte-dujardin-trainingsvideo-sorgt-fuer-olympia-aus-von-dressur-star-a-abc63c18-5b30-46e7-b3eb-e4ba55b05616#ref=rss)
-### binnen
-
-* [https://www.spiegel.de/wirtschaft/us-wahlkampf-kamala-harris-sammelt-binnen-24-stunden-ueber-80-millionen-dollar-ein](https://www.spiegel.de/wirtschaft/us-wahlkampf-kamala-harris-sammelt-binnen-24-stunden-ueber-80-millionen-dollar-ein-a-0519d7f0-000e-4552-a265-e4eb3fb2e675#ref=rss)
-### 24
-
-* [https://www.spiegel.de/wirtschaft/us-wahlkampf-kamala-harris-sammelt-binnen-24-stunden-ueber-80-millionen-dollar-ein](https://www.spiegel.de/wirtschaft/us-wahlkampf-kamala-harris-sammelt-binnen-24-stunden-ueber-80-millionen-dollar-ein-a-0519d7f0-000e-4552-a265-e4eb3fb2e675#ref=rss)
-### stunden
-
-* [https://www.spiegel.de/wirtschaft/us-wahlkampf-kamala-harris-sammelt-binnen-24-stunden-ueber-80-millionen-dollar-ein](https://www.spiegel.de/wirtschaft/us-wahlkampf-kamala-harris-sammelt-binnen-24-stunden-ueber-80-millionen-dollar-ein-a-0519d7f0-000e-4552-a265-e4eb3fb2e675#ref=rss)
-### 80
-
-* [https://www.spiegel.de/wirtschaft/us-wahlkampf-kamala-harris-sammelt-binnen-24-stunden-ueber-80-millionen-dollar-ein](https://www.spiegel.de/wirtschaft/us-wahlkampf-kamala-harris-sammelt-binnen-24-stunden-ueber-80-millionen-dollar-ein-a-0519d7f0-000e-4552-a265-e4eb3fb2e675#ref=rss)
-### dollar
-
-* [https://www.spiegel.de/wirtschaft/us-wahlkampf-kamala-harris-sammelt-binnen-24-stunden-ueber-80-millionen-dollar-ein](https://www.spiegel.de/wirtschaft/us-wahlkampf-kamala-harris-sammelt-binnen-24-stunden-ueber-80-millionen-dollar-ein-a-0519d7f0-000e-4552-a265-e4eb3fb2e675#ref=rss)
-### start
-
-* [https://www.spiegel.de/wirtschaft/us-wahlkampf-kamala-harris-sammelt-binnen-24-stunden-ueber-80-millionen-dollar-ein](https://www.spiegel.de/wirtschaft/us-wahlkampf-kamala-harris-sammelt-binnen-24-stunden-ueber-80-millionen-dollar-ein-a-0519d7f0-000e-4552-a265-e4eb3fb2e675#ref=rss)
-* [https://www.spiegel.de/sport/olympia/charlotte-dujardin-trainingsvideo-sorgt-fuer-olympia-aus-von-dressur-star](https://www.spiegel.de/sport/olympia/charlotte-dujardin-trainingsvideo-sorgt-fuer-olympia-aus-von-dressur-star-a-abc63c18-5b30-46e7-b3eb-e4ba55b05616#ref=rss)
-### welt
-
-* [https://www.spiegel.de/wirtschaft/us-wahlkampf-kamala-harris-sammelt-binnen-24-stunden-ueber-80-millionen-dollar-ein](https://www.spiegel.de/wirtschaft/us-wahlkampf-kamala-harris-sammelt-binnen-24-stunden-ueber-80-millionen-dollar-ein-a-0519d7f0-000e-4552-a265-e4eb3fb2e675#ref=rss)
-* [https://www.spiegel.de/sport/fussball/venezia-fc-beendet-partnerschaft-mit-kappa-abschied-vom-trendigsten-fussballtrikot-der-welt](https://www.spiegel.de/sport/fussball/venezia-fc-beendet-partnerschaft-mit-kappa-abschied-vom-trendigsten-fussballtrikot-der-welt-a-f7fce17d-552a-48cb-acd3-f411e9cadc91#ref=rss)
-### amazon
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/amazon-vorlaeufige-strafe-in-millionenhoehe-italien-verhaengt-strafe-gegen-onlinehaendler-wegen-steuerbetrug](https://www.spiegel.de/wirtschaft/unternehmen/amazon-vorlaeufige-strafe-in-millionenhoehe-italien-verhaengt-strafe-gegen-onlinehaendler-wegen-steuerbetrug-a-92fd57ca-5c3d-47cf-a6e2-07dc86a9bbcb#ref=rss)
-### vorläufige
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/amazon-vorlaeufige-strafe-in-millionenhoehe-italien-verhaengt-strafe-gegen-onlinehaendler-wegen-steuerbetrug](https://www.spiegel.de/wirtschaft/unternehmen/amazon-vorlaeufige-strafe-in-millionenhoehe-italien-verhaengt-strafe-gegen-onlinehaendler-wegen-steuerbetrug-a-92fd57ca-5c3d-47cf-a6e2-07dc86a9bbcb#ref=rss)
-### millionenhöhe
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/amazon-vorlaeufige-strafe-in-millionenhoehe-italien-verhaengt-strafe-gegen-onlinehaendler-wegen-steuerbetrug](https://www.spiegel.de/wirtschaft/unternehmen/amazon-vorlaeufige-strafe-in-millionenhoehe-italien-verhaengt-strafe-gegen-onlinehaendler-wegen-steuerbetrug-a-92fd57ca-5c3d-47cf-a6e2-07dc86a9bbcb#ref=rss)
-### steuerbetrug
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/amazon-vorlaeufige-strafe-in-millionenhoehe-italien-verhaengt-strafe-gegen-onlinehaendler-wegen-steuerbetrug](https://www.spiegel.de/wirtschaft/unternehmen/amazon-vorlaeufige-strafe-in-millionenhoehe-italien-verhaengt-strafe-gegen-onlinehaendler-wegen-steuerbetrug-a-92fd57ca-5c3d-47cf-a6e2-07dc86a9bbcb#ref=rss)
-### venezia
-
-* [https://www.spiegel.de/sport/fussball/venezia-fc-beendet-partnerschaft-mit-kappa-abschied-vom-trendigsten-fussballtrikot-der-welt](https://www.spiegel.de/sport/fussball/venezia-fc-beendet-partnerschaft-mit-kappa-abschied-vom-trendigsten-fussballtrikot-der-welt-a-f7fce17d-552a-48cb-acd3-f411e9cadc91#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/venezia-fc-beendet-partnerschaft-mit-kappa-abschied-vom-trendigsten-fussballtrikot-der-welt](https://www.spiegel.de/sport/fussball/venezia-fc-beendet-partnerschaft-mit-kappa-abschied-vom-trendigsten-fussballtrikot-der-welt-a-f7fce17d-552a-48cb-acd3-f411e9cadc91#ref=rss)
-### kappa
-
-* [https://www.spiegel.de/sport/fussball/venezia-fc-beendet-partnerschaft-mit-kappa-abschied-vom-trendigsten-fussballtrikot-der-welt](https://www.spiegel.de/sport/fussball/venezia-fc-beendet-partnerschaft-mit-kappa-abschied-vom-trendigsten-fussballtrikot-der-welt-a-f7fce17d-552a-48cb-acd3-f411e9cadc91#ref=rss)
-### marke
-
-* [https://www.spiegel.de/sport/fussball/venezia-fc-beendet-partnerschaft-mit-kappa-abschied-vom-trendigsten-fussballtrikot-der-welt](https://www.spiegel.de/sport/fussball/venezia-fc-beendet-partnerschaft-mit-kappa-abschied-vom-trendigsten-fussballtrikot-der-welt-a-f7fce17d-552a-48cb-acd3-f411e9cadc91#ref=rss)
-### charlotte
-
-* [https://www.spiegel.de/sport/olympia/charlotte-dujardin-trainingsvideo-sorgt-fuer-olympia-aus-von-dressur-star](https://www.spiegel.de/sport/olympia/charlotte-dujardin-trainingsvideo-sorgt-fuer-olympia-aus-von-dressur-star-a-abc63c18-5b30-46e7-b3eb-e4ba55b05616#ref=rss)
-### dujardin
-
-* [https://www.spiegel.de/sport/olympia/charlotte-dujardin-trainingsvideo-sorgt-fuer-olympia-aus-von-dressur-star](https://www.spiegel.de/sport/olympia/charlotte-dujardin-trainingsvideo-sorgt-fuer-olympia-aus-von-dressur-star-a-abc63c18-5b30-46e7-b3eb-e4ba55b05616#ref=rss)
-### sorgt
-
-* [https://www.spiegel.de/sport/olympia/charlotte-dujardin-trainingsvideo-sorgt-fuer-olympia-aus-von-dressur-star](https://www.spiegel.de/sport/olympia/charlotte-dujardin-trainingsvideo-sorgt-fuer-olympia-aus-von-dressur-star-a-abc63c18-5b30-46e7-b3eb-e4ba55b05616#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-gerichtsurteil-zum-schutzstatus-eines-syrers-sorgt-fuer-debatten](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-gerichtsurteil-zum-schutzstatus-eines-syrers-sorgt-fuer-debatten-a-5df20e5b-6b9a-464d-be7f-219a9ad427df#ref=rss)
-### dressurstar
-
-* [https://www.spiegel.de/sport/olympia/charlotte-dujardin-trainingsvideo-sorgt-fuer-olympia-aus-von-dressur-star](https://www.spiegel.de/sport/olympia/charlotte-dujardin-trainingsvideo-sorgt-fuer-olympia-aus-von-dressur-star-a-abc63c18-5b30-46e7-b3eb-e4ba55b05616#ref=rss)
-### nordrheinwestfalen
-
-* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-gerichtsurteil-zum-schutzstatus-eines-syrers-sorgt-fuer-debatten](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-gerichtsurteil-zum-schutzstatus-eines-syrers-sorgt-fuer-debatten-a-5df20e5b-6b9a-464d-be7f-219a9ad427df#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/digitalpakt-fuer-schulen-laender-fuerchten-finanzluecke-von-hunderten-millionen-euro](https://www.spiegel.de/panorama/bildung/digitalpakt-fuer-schulen-laender-fuerchten-finanzluecke-von-hunderten-millionen-euro-a-e220fafe-495a-42dc-8f99-1d05d11f8ceb#ref=rss)
+* [https://www.spiegel.de/panorama/charles-iii-britische-royals-haben-45-millionen-pfund-mehr-zur-verfuegung](https://www.spiegel.de/panorama/charles-iii-britische-royals-haben-45-millionen-pfund-mehr-zur-verfuegung-a-018e57e6-45e7-475d-8f67-75b546c69934#ref=rss)
 ### euro
 
-* [https://www.spiegel.de/wirtschaft/soziales/so-viel-verdienen-die-dax-bosse-bis-zu-zehn-millionen-euro-jahresgehalt](https://www.spiegel.de/wirtschaft/soziales/so-viel-verdienen-die-dax-bosse-bis-zu-zehn-millionen-euro-jahresgehalt-a-7642ae90-598d-41ea-954a-773e95b203e0#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/passau-rund-120-000-euro-schaden-durch-vandalismus-an-autos-65-jaehrige-soll-verantwortlich-sein](https://www.spiegel.de/panorama/justiz/passau-rund-120-000-euro-schaden-durch-vandalismus-an-autos-65-jaehrige-soll-verantwortlich-sein-a-fd6f7b02-fdfe-4612-af31-0a12f12f5781#ref=rss)
-### aschaffenburg
+* [https://www.spiegel.de/panorama/bildung/digitalpakt-fuer-schulen-laender-fuerchten-finanzluecke-von-hunderten-millionen-euro](https://www.spiegel.de/panorama/bildung/digitalpakt-fuer-schulen-laender-fuerchten-finanzluecke-von-hunderten-millionen-euro-a-e220fafe-495a-42dc-8f99-1d05d11f8ceb#ref=rss)
+* [https://www.spiegel.de/kultur/musik/taylor-swift-wie-fans-sich-auf-das-konzert-vorbereiten](https://www.spiegel.de/kultur/musik/taylor-swift-wie-fans-sich-auf-das-konzert-vorbereiten-a-3563651c-7833-4c4a-b125-6c1a8d530c7e#ref=rss)
+### russland
 
-* [https://www.spiegel.de/panorama/justiz/aschaffenburg-39-jaehriger-wegen-mordversuchs-an-ex-frau-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/aschaffenburg-39-jaehriger-wegen-mordversuchs-an-ex-frau-zu-lebenslanger-haft-verurteilt-a-1fd24c4c-deff-4dba-a176-308491aba2b3#ref=rss)
-### 39jähriger
+* [https://www.spiegel.de/ausland/russland-ranghoher-offizier-bei-explosion-in-moskau-verletzt](https://www.spiegel.de/ausland/russland-ranghoher-offizier-bei-explosion-in-moskau-verletzt-a-8adef3c1-8de4-4e74-8463-76c24afd379a#ref=rss)
+* [https://www.spiegel.de/ausland/flucht-aus-russland-wie-putin-kritische-journalisten-in-deutschland-leben](https://www.spiegel.de/ausland/flucht-aus-russland-wie-putin-kritische-journalisten-in-deutschland-leben-a-2c84ac48-3d34-484b-b3ea-ac94123fef78#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/panorama/justiz/aschaffenburg-39-jaehriger-wegen-mordversuchs-an-ex-frau-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/aschaffenburg-39-jaehriger-wegen-mordversuchs-an-ex-frau-zu-lebenslanger-haft-verurteilt-a-1fd24c4c-deff-4dba-a176-308491aba2b3#ref=rss)
-### exfrau
+* [https://www.spiegel.de/wirtschaft/soziales/pflegefachkraft-mehr-als-33-000-menschen-schliessen-neue-ausbildung-ab](https://www.spiegel.de/wirtschaft/soziales/pflegefachkraft-mehr-als-33-000-menschen-schliessen-neue-ausbildung-ab-a-94c0191e-63e1-4fee-9ae7-79817652dcc8#ref=rss)
+* [https://www.spiegel.de/panorama/charles-iii-britische-royals-haben-45-millionen-pfund-mehr-zur-verfuegung](https://www.spiegel.de/panorama/charles-iii-britische-royals-haben-45-millionen-pfund-mehr-zur-verfuegung-a-018e57e6-45e7-475d-8f67-75b546c69934#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/panorama/justiz/aschaffenburg-39-jaehriger-wegen-mordversuchs-an-ex-frau-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/aschaffenburg-39-jaehriger-wegen-mordversuchs-an-ex-frau-zu-lebenslanger-haft-verurteilt-a-1fd24c4c-deff-4dba-a176-308491aba2b3#ref=rss)
-### umstrittenes
+* [https://www.spiegel.de/wirtschaft/deutsches-konsumklima-steigt-deutlich-staerker-als-erwartet](https://www.spiegel.de/wirtschaft/deutsches-konsumklima-steigt-deutlich-staerker-als-erwartet-a-d50b1d6c-5260-4a44-a8f0-56e1b435ec7d#ref=rss)
+* [https://www.spiegel.de/ausland/flucht-aus-russland-wie-putin-kritische-journalisten-in-deutschland-leben](https://www.spiegel.de/ausland/flucht-aus-russland-wie-putin-kritische-journalisten-in-deutschland-leben-a-2c84ac48-3d34-484b-b3ea-ac94123fef78#ref=rss)
+### großbritannien
 
-* [https://www.spiegel.de/ausland/grossbritannien-labour-regierung-will-umstrittenes-wohncontainerschiff-fuer-migranten-schliessen](https://www.spiegel.de/ausland/grossbritannien-labour-regierung-will-umstrittenes-wohncontainerschiff-fuer-migranten-schliessen-a-98d83029-1cf8-443f-b2bc-ddff7ec372c9#ref=rss)
-### gebäudetyp
+* [https://www.spiegel.de/ausland/grossbritannien-keir-starmer-stellt-sich-fragen-im-parlament-livestream](https://www.spiegel.de/ausland/grossbritannien-keir-starmer-stellt-sich-fragen-im-parlament-livestream-a-72425a4b-6fb2-43a3-8749-ab2f4d2b0529#ref=rss)
+* [https://www.spiegel.de/kultur/musik/john-mayall-ist-tot-blues-musiker-und-foerderer-von-eric-clapton-gestorben](https://www.spiegel.de/kultur/musik/john-mayall-ist-tot-blues-musiker-und-foerderer-von-eric-clapton-gestorben-a-e712bff6-6a28-45f1-9bfe-fa84a3b6ef96#ref=rss)
+### keir
 
-* [https://www.spiegel.de/wirtschaft/neuer-gebaeudetyp-e-wie-die-bundesregierung-guenstigeres-und-schnelleres-bauen-ermoeglichen-will](https://www.spiegel.de/wirtschaft/neuer-gebaeudetyp-e-wie-die-bundesregierung-guenstigeres-und-schnelleres-bauen-ermoeglichen-will-a-2476af77-eaa7-4d87-91ab-75d8ea3b7d56#ref=rss)
-### bauen
+* [https://www.spiegel.de/ausland/grossbritannien-keir-starmer-stellt-sich-fragen-im-parlament-livestream](https://www.spiegel.de/ausland/grossbritannien-keir-starmer-stellt-sich-fragen-im-parlament-livestream-a-72425a4b-6fb2-43a3-8749-ab2f4d2b0529#ref=rss)
+### starmer
 
-* [https://www.spiegel.de/wirtschaft/neuer-gebaeudetyp-e-wie-die-bundesregierung-guenstigeres-und-schnelleres-bauen-ermoeglichen-will](https://www.spiegel.de/wirtschaft/neuer-gebaeudetyp-e-wie-die-bundesregierung-guenstigeres-und-schnelleres-bauen-ermoeglichen-will-a-2476af77-eaa7-4d87-91ab-75d8ea3b7d56#ref=rss)
-### autos
+* [https://www.spiegel.de/ausland/grossbritannien-keir-starmer-stellt-sich-fragen-im-parlament-livestream](https://www.spiegel.de/ausland/grossbritannien-keir-starmer-stellt-sich-fragen-im-parlament-livestream-a-72425a4b-6fb2-43a3-8749-ab2f4d2b0529#ref=rss)
+### erste
 
-* [https://www.spiegel.de/panorama/justiz/passau-rund-120-000-euro-schaden-durch-vandalismus-an-autos-65-jaehrige-soll-verantwortlich-sein](https://www.spiegel.de/panorama/justiz/passau-rund-120-000-euro-schaden-durch-vandalismus-an-autos-65-jaehrige-soll-verantwortlich-sein-a-fd6f7b02-fdfe-4612-af31-0a12f12f5781#ref=rss)
-### 65jährige
+* [https://www.spiegel.de/ausland/grossbritannien-keir-starmer-stellt-sich-fragen-im-parlament-livestream](https://www.spiegel.de/ausland/grossbritannien-keir-starmer-stellt-sich-fragen-im-parlament-livestream-a-72425a4b-6fb2-43a3-8749-ab2f4d2b0529#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/pflegefachkraft-mehr-als-33-000-menschen-schliessen-neue-ausbildung-ab](https://www.spiegel.de/wirtschaft/soziales/pflegefachkraft-mehr-als-33-000-menschen-schliessen-neue-ausbildung-ab-a-94c0191e-63e1-4fee-9ae7-79817652dcc8#ref=rss)
+### plant
 
-* [https://www.spiegel.de/panorama/justiz/passau-rund-120-000-euro-schaden-durch-vandalismus-an-autos-65-jaehrige-soll-verantwortlich-sein](https://www.spiegel.de/panorama/justiz/passau-rund-120-000-euro-schaden-durch-vandalismus-an-autos-65-jaehrige-soll-verantwortlich-sein-a-fd6f7b02-fdfe-4612-af31-0a12f12f5781#ref=rss)
-### kommunikation
+* [https://www.spiegel.de/ausland/grossbritannien-keir-starmer-stellt-sich-fragen-im-parlament-livestream](https://www.spiegel.de/ausland/grossbritannien-keir-starmer-stellt-sich-fragen-im-parlament-livestream-a-72425a4b-6fb2-43a3-8749-ab2f4d2b0529#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/reckitt-benckiser-will-sich-von-calgon-und-vielen-weiteren-marken-trennen](https://www.spiegel.de/wirtschaft/unternehmen/reckitt-benckiser-will-sich-von-calgon-und-vielen-weiteren-marken-trennen-a-20543f55-dd17-4d48-b30d-5562b0d34574#ref=rss)
+### sehen
 
-* [https://www.spiegel.de/wissenschaft/natur/kommunikation-affen-gestikulieren-aehnlich-schnell-wie-menschen-sprechen](https://www.spiegel.de/wissenschaft/natur/kommunikation-affen-gestikulieren-aehnlich-schnell-wie-menschen-sprechen-a-e6d2d206-c0b1-449e-9d3e-cb48e30f7dd1#ref=rss)
-### schnell
+* [https://www.spiegel.de/ausland/grossbritannien-keir-starmer-stellt-sich-fragen-im-parlament-livestream](https://www.spiegel.de/ausland/grossbritannien-keir-starmer-stellt-sich-fragen-im-parlament-livestream-a-72425a4b-6fb2-43a3-8749-ab2f4d2b0529#ref=rss)
+* [https://www.spiegel.de/politik/olaf-scholz-das-sagt-der-bundeskanzler-in-der-sommer-pressekonferenz](https://www.spiegel.de/politik/olaf-scholz-das-sagt-der-bundeskanzler-in-der-sommer-pressekonferenz-a-683461ed-ab2a-45e5-b837-24ba8dce0e05#ref=rss)
+### antworten
 
-* [https://www.spiegel.de/wissenschaft/natur/kommunikation-affen-gestikulieren-aehnlich-schnell-wie-menschen-sprechen](https://www.spiegel.de/wissenschaft/natur/kommunikation-affen-gestikulieren-aehnlich-schnell-wie-menschen-sprechen-a-e6d2d206-c0b1-449e-9d3e-cb48e30f7dd1#ref=rss)
-### sprechen
+* [https://www.spiegel.de/ausland/grossbritannien-keir-starmer-stellt-sich-fragen-im-parlament-livestream](https://www.spiegel.de/ausland/grossbritannien-keir-starmer-stellt-sich-fragen-im-parlament-livestream-a-72425a4b-6fb2-43a3-8749-ab2f4d2b0529#ref=rss)
+* [https://www.spiegel.de/politik/olaf-scholz-das-sagt-der-bundeskanzler-in-der-sommer-pressekonferenz](https://www.spiegel.de/politik/olaf-scholz-das-sagt-der-bundeskanzler-in-der-sommer-pressekonferenz-a-683461ed-ab2a-45e5-b837-24ba8dce0e05#ref=rss)
+### live
 
-* [https://www.spiegel.de/wissenschaft/natur/kommunikation-affen-gestikulieren-aehnlich-schnell-wie-menschen-sprechen](https://www.spiegel.de/wissenschaft/natur/kommunikation-affen-gestikulieren-aehnlich-schnell-wie-menschen-sprechen-a-e6d2d206-c0b1-449e-9d3e-cb48e30f7dd1#ref=rss)
-### kimberly
+* [https://www.spiegel.de/ausland/grossbritannien-keir-starmer-stellt-sich-fragen-im-parlament-livestream](https://www.spiegel.de/ausland/grossbritannien-keir-starmer-stellt-sich-fragen-im-parlament-livestream-a-72425a4b-6fb2-43a3-8749-ab2f4d2b0529#ref=rss)
+* [https://www.spiegel.de/politik/olaf-scholz-das-sagt-der-bundeskanzler-in-der-sommer-pressekonferenz](https://www.spiegel.de/politik/olaf-scholz-das-sagt-der-bundeskanzler-in-der-sommer-pressekonferenz-a-683461ed-ab2a-45e5-b837-24ba8dce0e05#ref=rss)
+### benckiser
 
-* [https://www.spiegel.de/ausland/kimberly-cheatle-secret-service-chefin-tritt-zurueck](https://www.spiegel.de/ausland/kimberly-cheatle-secret-service-chefin-tritt-zurueck-a-b23ae277-402f-41b6-842d-b689f06b6b4a#ref=rss)
-### cheatle
+* [https://www.spiegel.de/wirtschaft/unternehmen/reckitt-benckiser-will-sich-von-calgon-und-vielen-weiteren-marken-trennen](https://www.spiegel.de/wirtschaft/unternehmen/reckitt-benckiser-will-sich-von-calgon-und-vielen-weiteren-marken-trennen-a-20543f55-dd17-4d48-b30d-5562b0d34574#ref=rss)
+### winfried
 
-* [https://www.spiegel.de/ausland/kimberly-cheatle-secret-service-chefin-tritt-zurueck](https://www.spiegel.de/ausland/kimberly-cheatle-secret-service-chefin-tritt-zurueck-a-b23ae277-402f-41b6-842d-b689f06b6b4a#ref=rss)
-### wölfe
+* [https://www.spiegel.de/kultur/tv/winfried-glatzeder-hat-im-dschungelcamp-schreckliche-facetten-an-sich-entdeckt](https://www.spiegel.de/kultur/tv/winfried-glatzeder-hat-im-dschungelcamp-schreckliche-facetten-an-sich-entdeckt-a-c6f54bd0-5ee0-4fae-afb8-cd136e6ac2c4#ref=rss)
+### glatzeder
 
-* [https://www.spiegel.de/wissenschaft/natur/woelfe-in-deutschland-fachleute-koennen-nicht-mehr-alle-toten-tiere-untersuchen](https://www.spiegel.de/wissenschaft/natur/woelfe-in-deutschland-fachleute-koennen-nicht-mehr-alle-toten-tiere-untersuchen-a-9acac6b6-6454-4bdd-9890-41388dcb2898#ref=rss)
-### toten
+* [https://www.spiegel.de/kultur/tv/winfried-glatzeder-hat-im-dschungelcamp-schreckliche-facetten-an-sich-entdeckt](https://www.spiegel.de/kultur/tv/winfried-glatzeder-hat-im-dschungelcamp-schreckliche-facetten-an-sich-entdeckt-a-c6f54bd0-5ee0-4fae-afb8-cd136e6ac2c4#ref=rss)
+### dschungelcamp
 
-* [https://www.spiegel.de/wissenschaft/natur/woelfe-in-deutschland-fachleute-koennen-nicht-mehr-alle-toten-tiere-untersuchen](https://www.spiegel.de/wissenschaft/natur/woelfe-in-deutschland-fachleute-koennen-nicht-mehr-alle-toten-tiere-untersuchen-a-9acac6b6-6454-4bdd-9890-41388dcb2898#ref=rss)
-### tiere
+* [https://www.spiegel.de/kultur/tv/winfried-glatzeder-hat-im-dschungelcamp-schreckliche-facetten-an-sich-entdeckt](https://www.spiegel.de/kultur/tv/winfried-glatzeder-hat-im-dschungelcamp-schreckliche-facetten-an-sich-entdeckt-a-c6f54bd0-5ee0-4fae-afb8-cd136e6ac2c4#ref=rss)
+### anders
 
-* [https://www.spiegel.de/wissenschaft/natur/woelfe-in-deutschland-fachleute-koennen-nicht-mehr-alle-toten-tiere-untersuchen](https://www.spiegel.de/wissenschaft/natur/woelfe-in-deutschland-fachleute-koennen-nicht-mehr-alle-toten-tiere-untersuchen-a-9acac6b6-6454-4bdd-9890-41388dcb2898#ref=rss)
-### formel1einstieg
+* [https://www.spiegel.de/kultur/tv/winfried-glatzeder-hat-im-dschungelcamp-schreckliche-facetten-an-sich-entdeckt](https://www.spiegel.de/kultur/tv/winfried-glatzeder-hat-im-dschungelcamp-schreckliche-facetten-an-sich-entdeckt-a-c6f54bd0-5ee0-4fae-afb8-cd136e6ac2c4#ref=rss)
+* [https://www.spiegel.de/karriere/frauen-in-der-forschung-warum-die-tu-eindhoven-fuenf-jahre-lang-zuerst-frauen-eingestellt-hat](https://www.spiegel.de/karriere/frauen-in-der-forschung-warum-die-tu-eindhoven-fuenf-jahre-lang-zuerst-frauen-eingestellt-hat-a-6bf8708b-55ca-497a-a7f9-fd717d592c98#ref=rss)
+### ersten
 
-* [https://www.spiegel.de/sport/formel1/formel-1-einstieg-von-audi-mattia-binotto-kommt-andreas-seidl-geht](https://www.spiegel.de/sport/formel1/formel-1-einstieg-von-audi-mattia-binotto-kommt-andreas-seidl-geht-a-8c655b3a-514d-45f9-a24b-49a0887b3718#ref=rss)
-### audi
+* [https://www.spiegel.de/netzwelt/florida-it-sicherheitsfirma-engagiert-nordkoreanischen-identitaetsdieb](https://www.spiegel.de/netzwelt/florida-it-sicherheitsfirma-engagiert-nordkoreanischen-identitaetsdieb-a-3b348bdc-f80f-45ae-8e18-bd4dc8d9eeee#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/digitalpakt-fuer-schulen-laender-fuerchten-finanzluecke-von-hunderten-millionen-euro](https://www.spiegel.de/panorama/bildung/digitalpakt-fuer-schulen-laender-fuerchten-finanzluecke-von-hunderten-millionen-euro-a-e220fafe-495a-42dc-8f99-1d05d11f8ceb#ref=rss)
+### zugang
 
-* [https://www.spiegel.de/sport/formel1/formel-1-einstieg-von-audi-mattia-binotto-kommt-andreas-seidl-geht](https://www.spiegel.de/sport/formel1/formel-1-einstieg-von-audi-mattia-binotto-kommt-andreas-seidl-geht-a-8c655b3a-514d-45f9-a24b-49a0887b3718#ref=rss)
-### mattia
+* [https://www.spiegel.de/netzwelt/florida-it-sicherheitsfirma-engagiert-nordkoreanischen-identitaetsdieb](https://www.spiegel.de/netzwelt/florida-it-sicherheitsfirma-engagiert-nordkoreanischen-identitaetsdieb-a-3b348bdc-f80f-45ae-8e18-bd4dc8d9eeee#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/sachsen-anhalt-zugang-zu-schwangerschaftsabbruechen-wird-schwerer](https://www.spiegel.de/panorama/gesellschaft/sachsen-anhalt-zugang-zu-schwangerschaftsabbruechen-wird-schwerer-a-6a30be37-6140-4187-9aec-71502af80e4e#ref=rss)
+### ioc
 
-* [https://www.spiegel.de/sport/formel1/formel-1-einstieg-von-audi-mattia-binotto-kommt-andreas-seidl-geht](https://www.spiegel.de/sport/formel1/formel-1-einstieg-von-audi-mattia-binotto-kommt-andreas-seidl-geht-a-8c655b3a-514d-45f9-a24b-49a0887b3718#ref=rss)
-### binotto
+* [https://www.spiegel.de/sport/olympia/olympia-ioc-vergibt-winterspiele-2030-an-franzoesische-alpen](https://www.spiegel.de/sport/olympia/olympia-ioc-vergibt-winterspiele-2030-an-franzoesische-alpen-a-a888c83d-9e7b-4f3c-a92d-9b3b4b05bdb7#ref=rss)
+### 2030
 
-* [https://www.spiegel.de/sport/formel1/formel-1-einstieg-von-audi-mattia-binotto-kommt-andreas-seidl-geht](https://www.spiegel.de/sport/formel1/formel-1-einstieg-von-audi-mattia-binotto-kommt-andreas-seidl-geht-a-8c655b3a-514d-45f9-a24b-49a0887b3718#ref=rss)
-### bogdan
+* [https://www.spiegel.de/sport/olympia/olympia-ioc-vergibt-winterspiele-2030-an-franzoesische-alpen](https://www.spiegel.de/sport/olympia/olympia-ioc-vergibt-winterspiele-2030-an-franzoesische-alpen-a-a888c83d-9e7b-4f3c-a92d-9b3b4b05bdb7#ref=rss)
+### frankreich
 
-* [https://www.spiegel.de/geschichte/bogdan-staschinski-erinnerungen-des-kgb-killers-diesmal-geht-es-wirklich-um-meinen-kopf](https://www.spiegel.de/geschichte/bogdan-staschinski-erinnerungen-des-kgb-killers-diesmal-geht-es-wirklich-um-meinen-kopf-a-2c60c191-6e03-44f7-a0b7-d305297a2cdd#ref=rss)
-### staschinski
+* [https://www.spiegel.de/sport/olympia/olympia-ioc-vergibt-winterspiele-2030-an-franzoesische-alpen](https://www.spiegel.de/sport/olympia/olympia-ioc-vergibt-winterspiele-2030-an-franzoesische-alpen-a-a888c83d-9e7b-4f3c-a92d-9b3b4b05bdb7#ref=rss)
+### 2034
 
-* [https://www.spiegel.de/geschichte/bogdan-staschinski-erinnerungen-des-kgb-killers-diesmal-geht-es-wirklich-um-meinen-kopf](https://www.spiegel.de/geschichte/bogdan-staschinski-erinnerungen-des-kgb-killers-diesmal-geht-es-wirklich-um-meinen-kopf-a-2c60c191-6e03-44f7-a0b7-d305297a2cdd#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-ioc-vergibt-winterspiele-2030-an-franzoesische-alpen](https://www.spiegel.de/sport/olympia/olympia-ioc-vergibt-winterspiele-2030-an-franzoesische-alpen-a-a888c83d-9e7b-4f3c-a92d-9b3b4b05bdb7#ref=rss)
+### kamala
+
+* [https://www.spiegel.de/ausland/kamala-harris-wollt-ihr-mitgefuehl-oder-hass](https://www.spiegel.de/ausland/kamala-harris-wollt-ihr-mitgefuehl-oder-hass-a-91dab355-352c-48dc-a2fc-74250779f1b1#ref=rss)
+### harris
+
+* [https://www.spiegel.de/ausland/kamala-harris-wollt-ihr-mitgefuehl-oder-hass](https://www.spiegel.de/ausland/kamala-harris-wollt-ihr-mitgefuehl-oder-hass-a-91dab355-352c-48dc-a2fc-74250779f1b1#ref=rss)
+### olaf
+
+* [https://www.spiegel.de/politik/olaf-scholz-das-sagt-der-bundeskanzler-in-der-sommer-pressekonferenz](https://www.spiegel.de/politik/olaf-scholz-das-sagt-der-bundeskanzler-in-der-sommer-pressekonferenz-a-683461ed-ab2a-45e5-b837-24ba8dce0e05#ref=rss)
+### scholz
+
+* [https://www.spiegel.de/politik/olaf-scholz-das-sagt-der-bundeskanzler-in-der-sommer-pressekonferenz](https://www.spiegel.de/politik/olaf-scholz-das-sagt-der-bundeskanzler-in-der-sommer-pressekonferenz-a-683461ed-ab2a-45e5-b837-24ba8dce0e05#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/politik/olaf-scholz-das-sagt-der-bundeskanzler-in-der-sommer-pressekonferenz](https://www.spiegel.de/politik/olaf-scholz-das-sagt-der-bundeskanzler-in-der-sommer-pressekonferenz-a-683461ed-ab2a-45e5-b837-24ba8dce0e05#ref=rss)
+* [https://www.spiegel.de/karriere/frauen-in-der-forschung-warum-die-tu-eindhoven-fuenf-jahre-lang-zuerst-frauen-eingestellt-hat](https://www.spiegel.de/karriere/frauen-in-der-forschung-warum-die-tu-eindhoven-fuenf-jahre-lang-zuerst-frauen-eingestellt-hat-a-6bf8708b-55ca-497a-a7f9-fd717d592c98#ref=rss)
+### sachsenanhalt
+
+* [https://www.spiegel.de/panorama/gesellschaft/sachsen-anhalt-zugang-zu-schwangerschaftsabbruechen-wird-schwerer](https://www.spiegel.de/panorama/gesellschaft/sachsen-anhalt-zugang-zu-schwangerschaftsabbruechen-wird-schwerer-a-6a30be37-6140-4187-9aec-71502af80e4e#ref=rss)
+### zahl
+
+* [https://www.spiegel.de/panorama/gesellschaft/sachsen-anhalt-zugang-zu-schwangerschaftsabbruechen-wird-schwerer](https://www.spiegel.de/panorama/gesellschaft/sachsen-anhalt-zugang-zu-schwangerschaftsabbruechen-wird-schwerer-a-6a30be37-6140-4187-9aec-71502af80e4e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/pflegefachkraft-mehr-als-33-000-menschen-schliessen-neue-ausbildung-ab](https://www.spiegel.de/wirtschaft/soziales/pflegefachkraft-mehr-als-33-000-menschen-schliessen-neue-ausbildung-ab-a-94c0191e-63e1-4fee-9ae7-79817652dcc8#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/israel-palaestina-konflikt-donald-trump-gibt-sich-als-friedensstifter-vor-treffen-mit-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-palaestina-konflikt-donald-trump-gibt-sich-als-friedensstifter-vor-treffen-mit-benjamin-netanyahu-a-c5855837-5771-49b1-b816-76d6f2917e37#ref=rss)
+### benjamin
+
+* [https://www.spiegel.de/ausland/israel-palaestina-konflikt-donald-trump-gibt-sich-als-friedensstifter-vor-treffen-mit-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-palaestina-konflikt-donald-trump-gibt-sich-als-friedensstifter-vor-treffen-mit-benjamin-netanyahu-a-c5855837-5771-49b1-b816-76d6f2917e37#ref=rss)
+### netanyahu
+
+* [https://www.spiegel.de/ausland/israel-palaestina-konflikt-donald-trump-gibt-sich-als-friedensstifter-vor-treffen-mit-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-palaestina-konflikt-donald-trump-gibt-sich-als-friedensstifter-vor-treffen-mit-benjamin-netanyahu-a-c5855837-5771-49b1-b816-76d6f2917e37#ref=rss)
+### alles
+
+* [https://www.spiegel.de/ausland/israel-palaestina-konflikt-donald-trump-gibt-sich-als-friedensstifter-vor-treffen-mit-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-palaestina-konflikt-donald-trump-gibt-sich-als-friedensstifter-vor-treffen-mit-benjamin-netanyahu-a-c5855837-5771-49b1-b816-76d6f2917e37#ref=rss)
+* [https://www.spiegel.de/kultur/musik/taylor-swift-wie-fans-sich-auf-das-konzert-vorbereiten](https://www.spiegel.de/kultur/musik/taylor-swift-wie-fans-sich-auf-das-konzert-vorbereiten-a-3563651c-7833-4c4a-b125-6c1a8d530c7e#ref=rss)
+### bundesverfassungsgericht
+
+* [https://www.spiegel.de/politik/deutschland/geplante-grundgesetzaenderung-fuer-das-bundesverfassungsgericht-gefaehrliche-luecke-in-der-wehrhaftigkeit-unserer-demokratie-wird-geschlossen](https://www.spiegel.de/politik/deutschland/geplante-grundgesetzaenderung-fuer-das-bundesverfassungsgericht-gefaehrliche-luecke-in-der-wehrhaftigkeit-unserer-demokratie-wird-geschlossen-a-250c2fea-70ae-4d48-94bb-eb640f402bd6#ref=rss)
+### demokratie
+
+* [https://www.spiegel.de/politik/deutschland/geplante-grundgesetzaenderung-fuer-das-bundesverfassungsgericht-gefaehrliche-luecke-in-der-wehrhaftigkeit-unserer-demokratie-wird-geschlossen](https://www.spiegel.de/politik/deutschland/geplante-grundgesetzaenderung-fuer-das-bundesverfassungsgericht-gefaehrliche-luecke-in-der-wehrhaftigkeit-unserer-demokratie-wird-geschlossen-a-250c2fea-70ae-4d48-94bb-eb640f402bd6#ref=rss)
+### sondern
+
+* [https://www.spiegel.de/politik/deutschland/geplante-grundgesetzaenderung-fuer-das-bundesverfassungsgericht-gefaehrliche-luecke-in-der-wehrhaftigkeit-unserer-demokratie-wird-geschlossen](https://www.spiegel.de/politik/deutschland/geplante-grundgesetzaenderung-fuer-das-bundesverfassungsgericht-gefaehrliche-luecke-in-der-wehrhaftigkeit-unserer-demokratie-wird-geschlossen-a-250c2fea-70ae-4d48-94bb-eb640f402bd6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-sieht-verbot-des-islamischen-zentrums-als-konsequentes-vorgehen-gegen-extremismus](https://www.spiegel.de/politik/deutschland/spd-sieht-verbot-des-islamischen-zentrums-als-konsequentes-vorgehen-gegen-extremismus-a-afb96c0d-a2ff-4385-8edc-eaa11c0516ad#ref=rss)
+### schulen
+
+* [https://www.spiegel.de/panorama/bildung/digitalpakt-fuer-schulen-laender-fuerchten-finanzluecke-von-hunderten-millionen-euro](https://www.spiegel.de/panorama/bildung/digitalpakt-fuer-schulen-laender-fuerchten-finanzluecke-von-hunderten-millionen-euro-a-e220fafe-495a-42dc-8f99-1d05d11f8ceb#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/schweigefuchs-in-nrw-trotz-wolfsgruss-aehnlichkeit-erlaubt](https://www.spiegel.de/panorama/bildung/schweigefuchs-in-nrw-trotz-wolfsgruss-aehnlichkeit-erlaubt-a-3a76656d-3d1f-48d5-8a1a-320d1bbe0c7b#ref=rss)
+### länder
+
+* [https://www.spiegel.de/panorama/bildung/digitalpakt-fuer-schulen-laender-fuerchten-finanzluecke-von-hunderten-millionen-euro](https://www.spiegel.de/panorama/bildung/digitalpakt-fuer-schulen-laender-fuerchten-finanzluecke-von-hunderten-millionen-euro-a-e220fafe-495a-42dc-8f99-1d05d11f8ceb#ref=rss)
+### offizier
+
+* [https://www.spiegel.de/ausland/russland-ranghoher-offizier-bei-explosion-in-moskau-verletzt](https://www.spiegel.de/ausland/russland-ranghoher-offizier-bei-explosion-in-moskau-verletzt-a-8adef3c1-8de4-4e74-8463-76c24afd379a#ref=rss)
+### explosion
+
+* [https://www.spiegel.de/ausland/russland-ranghoher-offizier-bei-explosion-in-moskau-verletzt](https://www.spiegel.de/ausland/russland-ranghoher-offizier-bei-explosion-in-moskau-verletzt-a-8adef3c1-8de4-4e74-8463-76c24afd379a#ref=rss)
+### verletzt
+
+* [https://www.spiegel.de/ausland/russland-ranghoher-offizier-bei-explosion-in-moskau-verletzt](https://www.spiegel.de/ausland/russland-ranghoher-offizier-bei-explosion-in-moskau-verletzt-a-8adef3c1-8de4-4e74-8463-76c24afd379a#ref=rss)
+### 2024
+
+* [https://www.spiegel.de/sport/olympia/olympia-2024-dennis-schroeder-spricht-ueber-seine-bescheidene-kindheit-und-den-erfolg-als-fahnentraeger](https://www.spiegel.de/sport/olympia/olympia-2024-dennis-schroeder-spricht-ueber-seine-bescheidene-kindheit-und-den-erfolg-als-fahnentraeger-a-a2feb802-1961-46d9-8b5d-2143ce2c1821#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2024-fussballtraining-ausgespaeht-mitarbeiter-des-kanadischen-betreuerstabs-festgenommen](https://www.spiegel.de/sport/olympia/olympia-2024-fussballtraining-ausgespaeht-mitarbeiter-des-kanadischen-betreuerstabs-festgenommen-a-88b9dada-a500-4ede-ba7b-4b1b3eb401f2#ref=rss)
+### dennis
+
+* [https://www.spiegel.de/sport/olympia/olympia-2024-dennis-schroeder-spricht-ueber-seine-bescheidene-kindheit-und-den-erfolg-als-fahnentraeger](https://www.spiegel.de/sport/olympia/olympia-2024-dennis-schroeder-spricht-ueber-seine-bescheidene-kindheit-und-den-erfolg-als-fahnentraeger-a-a2feb802-1961-46d9-8b5d-2143ce2c1821#ref=rss)
+### schröder
+
+* [https://www.spiegel.de/sport/olympia/olympia-2024-dennis-schroeder-spricht-ueber-seine-bescheidene-kindheit-und-den-erfolg-als-fahnentraeger](https://www.spiegel.de/sport/olympia/olympia-2024-dennis-schroeder-spricht-ueber-seine-bescheidene-kindheit-und-den-erfolg-als-fahnentraeger-a-a2feb802-1961-46d9-8b5d-2143ce2c1821#ref=rss)
+### emmanuel
+
+* [https://www.spiegel.de/sport/olympia-eroeffnungsfeier-emmanuel-macron-befeuert-spekulationen-ueber-auftritt-von-celine-dion](https://www.spiegel.de/sport/olympia-eroeffnungsfeier-emmanuel-macron-befeuert-spekulationen-ueber-auftritt-von-celine-dion-a-31559aee-aaf9-4557-9352-e428a881f019#ref=rss)
+### macron
+
+* [https://www.spiegel.de/sport/olympia-eroeffnungsfeier-emmanuel-macron-befeuert-spekulationen-ueber-auftritt-von-celine-dion](https://www.spiegel.de/sport/olympia-eroeffnungsfeier-emmanuel-macron-befeuert-spekulationen-ueber-auftritt-von-celine-dion-a-31559aee-aaf9-4557-9352-e428a881f019#ref=rss)
+### céline
+
+* [https://www.spiegel.de/sport/olympia-eroeffnungsfeier-emmanuel-macron-befeuert-spekulationen-ueber-auftritt-von-celine-dion](https://www.spiegel.de/sport/olympia-eroeffnungsfeier-emmanuel-macron-befeuert-spekulationen-ueber-auftritt-von-celine-dion-a-31559aee-aaf9-4557-9352-e428a881f019#ref=rss)
+### dion
+
+* [https://www.spiegel.de/sport/olympia-eroeffnungsfeier-emmanuel-macron-befeuert-spekulationen-ueber-auftritt-von-celine-dion](https://www.spiegel.de/sport/olympia-eroeffnungsfeier-emmanuel-macron-befeuert-spekulationen-ueber-auftritt-von-celine-dion-a-31559aee-aaf9-4557-9352-e428a881f019#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/sport/olympia-eroeffnungsfeier-emmanuel-macron-befeuert-spekulationen-ueber-auftritt-von-celine-dion](https://www.spiegel.de/sport/olympia-eroeffnungsfeier-emmanuel-macron-befeuert-spekulationen-ueber-auftritt-von-celine-dion-a-31559aee-aaf9-4557-9352-e428a881f019#ref=rss)
+* [https://www.spiegel.de/karriere/frauen-in-der-forschung-warum-die-tu-eindhoven-fuenf-jahre-lang-zuerst-frauen-eingestellt-hat](https://www.spiegel.de/karriere/frauen-in-der-forschung-warum-die-tu-eindhoven-fuenf-jahre-lang-zuerst-frauen-eingestellt-hat-a-6bf8708b-55ca-497a-a7f9-fd717d592c98#ref=rss)
+### taylor
+
+* [https://www.spiegel.de/kultur/musik/taylor-swift-wie-fans-sich-auf-das-konzert-vorbereiten](https://www.spiegel.de/kultur/musik/taylor-swift-wie-fans-sich-auf-das-konzert-vorbereiten-a-3563651c-7833-4c4a-b125-6c1a8d530c7e#ref=rss)
+### swift
+
+* [https://www.spiegel.de/kultur/musik/taylor-swift-wie-fans-sich-auf-das-konzert-vorbereiten](https://www.spiegel.de/kultur/musik/taylor-swift-wie-fans-sich-auf-das-konzert-vorbereiten-a-3563651c-7833-4c4a-b125-6c1a8d530c7e#ref=rss)
+### blauzungenkrankheit
+
+* [https://www.spiegel.de/wissenschaft/natur/blauzungenkrankheit-bei-rindern-und-schafen-faelle-nehmen-in-nrw-und-niedersachsen-rasant-zu](https://www.spiegel.de/wissenschaft/natur/blauzungenkrankheit-bei-rindern-und-schafen-faelle-nehmen-in-nrw-und-niedersachsen-rasant-zu-a-1124a294-b478-4719-90df-4c9fb6bf8c72#ref=rss)
+### nehmen
+
+* [https://www.spiegel.de/wissenschaft/natur/blauzungenkrankheit-bei-rindern-und-schafen-faelle-nehmen-in-nrw-und-niedersachsen-rasant-zu](https://www.spiegel.de/wissenschaft/natur/blauzungenkrankheit-bei-rindern-und-schafen-faelle-nehmen-in-nrw-und-niedersachsen-rasant-zu-a-1124a294-b478-4719-90df-4c9fb6bf8c72#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jan-redmann-lka-ermittelt-offenbar-wegen-verletzung-des-dienstgeheimnisses](https://www.spiegel.de/politik/deutschland/jan-redmann-lka-ermittelt-offenbar-wegen-verletzung-des-dienstgeheimnisses-a-52b742bd-f4d8-4018-9102-09efddbe9803#ref=rss)
+### nrw
+
+* [https://www.spiegel.de/wissenschaft/natur/blauzungenkrankheit-bei-rindern-und-schafen-faelle-nehmen-in-nrw-und-niedersachsen-rasant-zu](https://www.spiegel.de/wissenschaft/natur/blauzungenkrankheit-bei-rindern-und-schafen-faelle-nehmen-in-nrw-und-niedersachsen-rasant-zu-a-1124a294-b478-4719-90df-4c9fb6bf8c72#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/schweigefuchs-in-nrw-trotz-wolfsgruss-aehnlichkeit-erlaubt](https://www.spiegel.de/panorama/bildung/schweigefuchs-in-nrw-trotz-wolfsgruss-aehnlichkeit-erlaubt-a-3a76656d-3d1f-48d5-8a1a-320d1bbe0c7b#ref=rss)
+### ausbildung
+
+* [https://www.spiegel.de/wirtschaft/soziales/pflegefachkraft-mehr-als-33-000-menschen-schliessen-neue-ausbildung-ab](https://www.spiegel.de/wirtschaft/soziales/pflegefachkraft-mehr-als-33-000-menschen-schliessen-neue-ausbildung-ab-a-94c0191e-63e1-4fee-9ae7-79817652dcc8#ref=rss)
+### steigt
+
+* [https://www.spiegel.de/wirtschaft/soziales/pflegefachkraft-mehr-als-33-000-menschen-schliessen-neue-ausbildung-ab](https://www.spiegel.de/wirtschaft/soziales/pflegefachkraft-mehr-als-33-000-menschen-schliessen-neue-ausbildung-ab-a-94c0191e-63e1-4fee-9ae7-79817652dcc8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsches-konsumklima-steigt-deutlich-staerker-als-erwartet](https://www.spiegel.de/wirtschaft/deutsches-konsumklima-steigt-deutlich-staerker-als-erwartet-a-d50b1d6c-5260-4a44-a8f0-56e1b435ec7d#ref=rss)
+### jan
+
+* [https://www.spiegel.de/politik/deutschland/jan-redmann-lka-ermittelt-offenbar-wegen-verletzung-des-dienstgeheimnisses](https://www.spiegel.de/politik/deutschland/jan-redmann-lka-ermittelt-offenbar-wegen-verletzung-des-dienstgeheimnisses-a-52b742bd-f4d8-4018-9102-09efddbe9803#ref=rss)
+### redmann
+
+* [https://www.spiegel.de/politik/deutschland/jan-redmann-lka-ermittelt-offenbar-wegen-verletzung-des-dienstgeheimnisses](https://www.spiegel.de/politik/deutschland/jan-redmann-lka-ermittelt-offenbar-wegen-verletzung-des-dienstgeheimnisses-a-52b742bd-f4d8-4018-9102-09efddbe9803#ref=rss)
+### lka
+
+* [https://www.spiegel.de/politik/deutschland/jan-redmann-lka-ermittelt-offenbar-wegen-verletzung-des-dienstgeheimnisses](https://www.spiegel.de/politik/deutschland/jan-redmann-lka-ermittelt-offenbar-wegen-verletzung-des-dienstgeheimnisses-a-52b742bd-f4d8-4018-9102-09efddbe9803#ref=rss)
+### john
+
+* [https://www.spiegel.de/kultur/musik/john-mayall-ist-tot-blues-musiker-und-foerderer-von-eric-clapton-gestorben](https://www.spiegel.de/kultur/musik/john-mayall-ist-tot-blues-musiker-und-foerderer-von-eric-clapton-gestorben-a-e712bff6-6a28-45f1-9bfe-fa84a3b6ef96#ref=rss)
+### mayall
+
+* [https://www.spiegel.de/kultur/musik/john-mayall-ist-tot-blues-musiker-und-foerderer-von-eric-clapton-gestorben](https://www.spiegel.de/kultur/musik/john-mayall-ist-tot-blues-musiker-und-foerderer-von-eric-clapton-gestorben-a-e712bff6-6a28-45f1-9bfe-fa84a3b6ef96#ref=rss)
+### eric
+
+* [https://www.spiegel.de/kultur/musik/john-mayall-ist-tot-blues-musiker-und-foerderer-von-eric-clapton-gestorben](https://www.spiegel.de/kultur/musik/john-mayall-ist-tot-blues-musiker-und-foerderer-von-eric-clapton-gestorben-a-e712bff6-6a28-45f1-9bfe-fa84a3b6ef96#ref=rss)
+### clapton
+
+* [https://www.spiegel.de/kultur/musik/john-mayall-ist-tot-blues-musiker-und-foerderer-von-eric-clapton-gestorben](https://www.spiegel.de/kultur/musik/john-mayall-ist-tot-blues-musiker-und-foerderer-von-eric-clapton-gestorben-a-e712bff6-6a28-45f1-9bfe-fa84a3b6ef96#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/kultur/musik/john-mayall-ist-tot-blues-musiker-und-foerderer-von-eric-clapton-gestorben](https://www.spiegel.de/kultur/musik/john-mayall-ist-tot-blues-musiker-und-foerderer-von-eric-clapton-gestorben-a-e712bff6-6a28-45f1-9bfe-fa84a3b6ef96#ref=rss)
+### sandra
+
+* [https://www.spiegel.de/kultur/kino/sandra-hueller-in-der-wendekomoedie-zwei-zu-eins-neustart-zu-dritt](https://www.spiegel.de/kultur/kino/sandra-hueller-in-der-wendekomoedie-zwei-zu-eins-neustart-zu-dritt-a-1ed083f3-3fae-417e-8792-ab15393bcb7a#ref=rss)
+### eins
+
+* [https://www.spiegel.de/kultur/kino/sandra-hueller-in-der-wendekomoedie-zwei-zu-eins-neustart-zu-dritt](https://www.spiegel.de/kultur/kino/sandra-hueller-in-der-wendekomoedie-zwei-zu-eins-neustart-zu-dritt-a-1ed083f3-3fae-417e-8792-ab15393bcb7a#ref=rss)
+### unterfranken
+
+* [https://www.spiegel.de/panorama/justiz/unterfranken-polizei-durchsucht-wohnungen-der-bandidos](https://www.spiegel.de/panorama/justiz/unterfranken-polizei-durchsucht-wohnungen-der-bandidos-a-5037e6f1-76ad-4eaf-924e-f558c572c522#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/justiz/unterfranken-polizei-durchsucht-wohnungen-der-bandidos](https://www.spiegel.de/panorama/justiz/unterfranken-polizei-durchsucht-wohnungen-der-bandidos-a-5037e6f1-76ad-4eaf-924e-f558c572c522#ref=rss)
+### bandidos
+
+* [https://www.spiegel.de/panorama/justiz/unterfranken-polizei-durchsucht-wohnungen-der-bandidos](https://www.spiegel.de/panorama/justiz/unterfranken-polizei-durchsucht-wohnungen-der-bandidos-a-5037e6f1-76ad-4eaf-924e-f558c572c522#ref=rss)
+### schweigefuchs
+
+* [https://www.spiegel.de/panorama/bildung/schweigefuchs-in-nrw-trotz-wolfsgruss-aehnlichkeit-erlaubt](https://www.spiegel.de/panorama/bildung/schweigefuchs-in-nrw-trotz-wolfsgruss-aehnlichkeit-erlaubt-a-3a76656d-3d1f-48d5-8a1a-320d1bbe0c7b#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/panorama/bildung/schweigefuchs-in-nrw-trotz-wolfsgruss-aehnlichkeit-erlaubt](https://www.spiegel.de/panorama/bildung/schweigefuchs-in-nrw-trotz-wolfsgruss-aehnlichkeit-erlaubt-a-3a76656d-3d1f-48d5-8a1a-320d1bbe0c7b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-sieht-verbot-des-islamischen-zentrums-als-konsequentes-vorgehen-gegen-extremismus](https://www.spiegel.de/politik/deutschland/spd-sieht-verbot-des-islamischen-zentrums-als-konsequentes-vorgehen-gegen-extremismus-a-afb96c0d-a2ff-4385-8edc-eaa11c0516ad#ref=rss)
+### sommerferien
+
+* [https://www.spiegel.de/familie/sommerferien-drei-wege-um-kinder-zu-beschaeftigen](https://www.spiegel.de/familie/sommerferien-drei-wege-um-kinder-zu-beschaeftigen-a-86dda316-fae2-418b-acb8-bf771fdb2c9a#ref=rss)
+### tu
+
+* [https://www.spiegel.de/karriere/frauen-in-der-forschung-warum-die-tu-eindhoven-fuenf-jahre-lang-zuerst-frauen-eingestellt-hat](https://www.spiegel.de/karriere/frauen-in-der-forschung-warum-die-tu-eindhoven-fuenf-jahre-lang-zuerst-frauen-eingestellt-hat-a-6bf8708b-55ca-497a-a7f9-fd717d592c98#ref=rss)
+### eindhoven
+
+* [https://www.spiegel.de/karriere/frauen-in-der-forschung-warum-die-tu-eindhoven-fuenf-jahre-lang-zuerst-frauen-eingestellt-hat](https://www.spiegel.de/karriere/frauen-in-der-forschung-warum-die-tu-eindhoven-fuenf-jahre-lang-zuerst-frauen-eingestellt-hat-a-6bf8708b-55ca-497a-a7f9-fd717d592c98#ref=rss)
+### fünf
+
+* [https://www.spiegel.de/karriere/frauen-in-der-forschung-warum-die-tu-eindhoven-fuenf-jahre-lang-zuerst-frauen-eingestellt-hat](https://www.spiegel.de/karriere/frauen-in-der-forschung-warum-die-tu-eindhoven-fuenf-jahre-lang-zuerst-frauen-eingestellt-hat-a-6bf8708b-55ca-497a-a7f9-fd717d592c98#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/karriere/frauen-in-der-forschung-warum-die-tu-eindhoven-fuenf-jahre-lang-zuerst-frauen-eingestellt-hat](https://www.spiegel.de/karriere/frauen-in-der-forschung-warum-die-tu-eindhoven-fuenf-jahre-lang-zuerst-frauen-eingestellt-hat-a-6bf8708b-55ca-497a-a7f9-fd717d592c98#ref=rss)
+### lang
+
+* [https://www.spiegel.de/karriere/frauen-in-der-forschung-warum-die-tu-eindhoven-fuenf-jahre-lang-zuerst-frauen-eingestellt-hat](https://www.spiegel.de/karriere/frauen-in-der-forschung-warum-die-tu-eindhoven-fuenf-jahre-lang-zuerst-frauen-eingestellt-hat-a-6bf8708b-55ca-497a-a7f9-fd717d592c98#ref=rss)
+### zuerst
+
+* [https://www.spiegel.de/karriere/frauen-in-der-forschung-warum-die-tu-eindhoven-fuenf-jahre-lang-zuerst-frauen-eingestellt-hat](https://www.spiegel.de/karriere/frauen-in-der-forschung-warum-die-tu-eindhoven-fuenf-jahre-lang-zuerst-frauen-eingestellt-hat-a-6bf8708b-55ca-497a-a7f9-fd717d592c98#ref=rss)
+### eingestellt
+
+* [https://www.spiegel.de/karriere/frauen-in-der-forschung-warum-die-tu-eindhoven-fuenf-jahre-lang-zuerst-frauen-eingestellt-hat](https://www.spiegel.de/karriere/frauen-in-der-forschung-warum-die-tu-eindhoven-fuenf-jahre-lang-zuerst-frauen-eingestellt-hat-a-6bf8708b-55ca-497a-a7f9-fd717d592c98#ref=rss)
+### leben
+
+* [https://www.spiegel.de/ausland/flucht-aus-russland-wie-putin-kritische-journalisten-in-deutschland-leben](https://www.spiegel.de/ausland/flucht-aus-russland-wie-putin-kritische-journalisten-in-deutschland-leben-a-2c84ac48-3d34-484b-b3ea-ac94123fef78#ref=rss)
+### hamburg
+
+* [https://www.spiegel.de/politik/deutschland/spd-sieht-verbot-des-islamischen-zentrums-als-konsequentes-vorgehen-gegen-extremismus](https://www.spiegel.de/politik/deutschland/spd-sieht-verbot-des-islamischen-zentrums-als-konsequentes-vorgehen-gegen-extremismus-a-afb96c0d-a2ff-4385-8edc-eaa11c0516ad#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/spd-sieht-verbot-des-islamischen-zentrums-als-konsequentes-vorgehen-gegen-extremismus](https://www.spiegel.de/politik/deutschland/spd-sieht-verbot-des-islamischen-zentrums-als-konsequentes-vorgehen-gegen-extremismus-a-afb96c0d-a2ff-4385-8edc-eaa11c0516ad#ref=rss)
+### charles
+
+* [https://www.spiegel.de/panorama/charles-iii-britische-royals-haben-45-millionen-pfund-mehr-zur-verfuegung](https://www.spiegel.de/panorama/charles-iii-britische-royals-haben-45-millionen-pfund-mehr-zur-verfuegung-a-018e57e6-45e7-475d-8f67-75b546c69934#ref=rss)
+### iii
+
+* [https://www.spiegel.de/panorama/charles-iii-britische-royals-haben-45-millionen-pfund-mehr-zur-verfuegung](https://www.spiegel.de/panorama/charles-iii-britische-royals-haben-45-millionen-pfund-mehr-zur-verfuegung-a-018e57e6-45e7-475d-8f67-75b546c69934#ref=rss)
 
