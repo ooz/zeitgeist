@@ -4,381 +4,341 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### superreiche
+### israel
 
-* [https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet](https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-a-397689f9-5c5c-4602-9b9c-3e0c06b74159#ref=rss)
-* [https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-podcast](https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-podcast-a-76d6a9a1-7e9c-42c0-865f-0542d6fafe60#ref=rss)
-### zahlen
+* [https://www.spiegel.de/sport/fussball/mesut-oezil-scharfe-kritik-an-israelfeindlichem-instagram-post](https://www.spiegel.de/sport/fussball/mesut-oezil-scharfe-kritik-an-israelfeindlichem-instagram-post-a-e6761816-e60f-48bb-9a63-717b66d0923e#ref=rss)
+* [https://www.spiegel.de/ausland/israel-armee-offenbar-in-erhoehter-alarmbereitschaft-sorge-vor-gegenschlaegen](https://www.spiegel.de/ausland/israel-armee-offenbar-in-erhoehter-alarmbereitschaft-sorge-vor-gegenschlaegen-a-070a68b6-025c-4f7a-b20b-392a19708e72#ref=rss)
+* [https://www.spiegel.de/ausland/hamas-israel-meldet-tod-von-kommandant-mohammed-deif](https://www.spiegel.de/ausland/hamas-israel-meldet-tod-von-kommandant-mohammed-deif-a-b6a7e34d-be56-4a7d-8e7d-76ac1ae3ed10#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-sorge-um-die-geiseln-in-gaza-was-die-welt-jetzt-tun-muss-um-sie-zu-retten](https://www.spiegel.de/ausland/israel-gaza-krieg-sorge-um-die-geiseln-in-gaza-was-die-welt-jetzt-tun-muss-um-sie-zu-retten-a-0c1a97a5-34d8-4659-bbd6-421abfd83d09#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet](https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-a-397689f9-5c5c-4602-9b9c-3e0c06b74159#ref=rss)
-* [https://www.spiegel.de/karriere/arbeitsrecht-angestellte-trotz-krankschreibung-auf-gartenparty-arbeitgeber-muss-ersatz-zahlen](https://www.spiegel.de/karriere/arbeitsrecht-angestellte-trotz-krankschreibung-auf-gartenparty-arbeitgeber-muss-ersatz-zahlen-a-62f40a5d-8514-48e5-86e1-ca3553dd9c7c#ref=rss)
-* [https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-podcast](https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-podcast-a-76d6a9a1-7e9c-42c0-865f-0542d6fafe60#ref=rss)
-### 2024
-
-* [https://www.spiegel.de/reise/europa/olympia-2024-in-paris-wohin-die-locals-fluechten-wenn-es-in-der-stadt-voll-wird](https://www.spiegel.de/reise/europa/olympia-2024-in-paris-wohin-die-locals-fluechten-wenn-es-in-der-stadt-voll-wird-a-8082612e-12d7-4142-9afe-408c37fa6593#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympische-spiele-2024-kanutin-elena-lilik-gewinnt-silber-im-canadier-einer](https://www.spiegel.de/sport/olympia/olympische-spiele-2024-kanutin-elena-lilik-gewinnt-silber-im-canadier-einer-a-c9f91323-1fc5-4a94-883f-9e794fd83c0e#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympische-sommerspiele-2024-miriam-butkereit-gewinnt-silber-im-judo](https://www.spiegel.de/sport/olympia/olympische-sommerspiele-2024-miriam-butkereit-gewinnt-silber-im-judo-a-b86797d5-2b38-49be-bc6b-41b59e74f6f5#ref=rss)
-* [https://www.spiegel.de/sport/olympia/sensation-mit-sechseckigem-schlaeger](https://www.spiegel.de/sport/olympia/sensation-mit-sechseckigem-schlaeger-a-d414528f-dacc-4780-a685-01e109c4624f#ref=rss)
-### kamala
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-doppelschlag-im-nahen-osten-bluttat-in-southport-kamala-harris](https://www.spiegel.de/politik/deutschland/news-des-tages-doppelschlag-im-nahen-osten-bluttat-in-southport-kamala-harris-a-e10dd639-8911-449f-9eaa-ea7419033046#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-neffe-fred-c-trump-iii-will-fuer-kamala-harris-stimmen](https://www.spiegel.de/ausland/donald-trump-neffe-fred-c-trump-iii-will-fuer-kamala-harris-stimmen-a-9039581a-95fc-4b76-91f7-1606e3edae94#ref=rss)
-### harris
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-doppelschlag-im-nahen-osten-bluttat-in-southport-kamala-harris](https://www.spiegel.de/politik/deutschland/news-des-tages-doppelschlag-im-nahen-osten-bluttat-in-southport-kamala-harris-a-e10dd639-8911-449f-9eaa-ea7419033046#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-neffe-fred-c-trump-iii-will-fuer-kamala-harris-stimmen](https://www.spiegel.de/ausland/donald-trump-neffe-fred-c-trump-iii-will-fuer-kamala-harris-stimmen-a-9039581a-95fc-4b76-91f7-1606e3edae94#ref=rss)
-### trump
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-doppelschlag-im-nahen-osten-bluttat-in-southport-kamala-harris](https://www.spiegel.de/politik/deutschland/news-des-tages-doppelschlag-im-nahen-osten-bluttat-in-southport-kamala-harris-a-e10dd639-8911-449f-9eaa-ea7419033046#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-neffe-fred-c-trump-iii-will-fuer-kamala-harris-stimmen](https://www.spiegel.de/ausland/donald-trump-neffe-fred-c-trump-iii-will-fuer-kamala-harris-stimmen-a-9039581a-95fc-4b76-91f7-1606e3edae94#ref=rss)
-### olympische
-
-* [https://www.spiegel.de/sport/olympia/olympische-spiele-2024-kanutin-elena-lilik-gewinnt-silber-im-canadier-einer](https://www.spiegel.de/sport/olympia/olympische-spiele-2024-kanutin-elena-lilik-gewinnt-silber-im-canadier-einer-a-c9f91323-1fc5-4a94-883f-9e794fd83c0e#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympische-sommerspiele-2024-miriam-butkereit-gewinnt-silber-im-judo](https://www.spiegel.de/sport/olympia/olympische-sommerspiele-2024-miriam-butkereit-gewinnt-silber-im-judo-a-b86797d5-2b38-49be-bc6b-41b59e74f6f5#ref=rss)
-* [https://www.spiegel.de/sport/olympia/sensation-mit-sechseckigem-schlaeger](https://www.spiegel.de/sport/olympia/sensation-mit-sechseckigem-schlaeger-a-d414528f-dacc-4780-a685-01e109c4624f#ref=rss)
-* [https://www.spiegel.de/sport/tennis/olympische-spiele-angelique-kerbers-tennis-karriere-endet-im-viertelfinale](https://www.spiegel.de/sport/tennis/olympische-spiele-angelique-kerbers-tennis-karriere-endet-im-viertelfinale-a-486a0988-a9c0-462b-b9d9-0acb2e42a536#ref=rss)
-### spiele
-
-* [https://www.spiegel.de/sport/olympia/olympische-spiele-2024-kanutin-elena-lilik-gewinnt-silber-im-canadier-einer](https://www.spiegel.de/sport/olympia/olympische-spiele-2024-kanutin-elena-lilik-gewinnt-silber-im-canadier-einer-a-c9f91323-1fc5-4a94-883f-9e794fd83c0e#ref=rss)
-* [https://www.spiegel.de/sport/olympia/sensation-mit-sechseckigem-schlaeger](https://www.spiegel.de/sport/olympia/sensation-mit-sechseckigem-schlaeger-a-d414528f-dacc-4780-a685-01e109c4624f#ref=rss)
-* [https://www.spiegel.de/sport/tennis/olympische-spiele-angelique-kerbers-tennis-karriere-endet-im-viertelfinale](https://www.spiegel.de/sport/tennis/olympische-spiele-angelique-kerbers-tennis-karriere-endet-im-viertelfinale-a-486a0988-a9c0-462b-b9d9-0acb2e42a536#ref=rss)
-* [https://www.spiegel.de/deinspiegel/spiele-und-basteltipps-fuer-die-ferien-ein-sommer-ohne-langeweile](https://www.spiegel.de/deinspiegel/spiele-und-basteltipps-fuer-die-ferien-ein-sommer-ohne-langeweile-a-fed64c8f-1c60-4523-9fd7-4b895c27850e#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet](https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-a-397689f9-5c5c-4602-9b9c-3e0c06b74159#ref=rss)
-* [https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-podcast](https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-podcast-a-76d6a9a1-7e9c-42c0-865f-0542d6fafe60#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/o2-will-mehr-mobilfunk-masten-in-naturschutzgebieten-bauen](https://www.spiegel.de/netzwelt/netzpolitik/o2-will-mehr-mobilfunk-masten-in-naturschutzgebieten-bauen-a-d9cf5bcc-6215-4ad8-9e3b-a3c06618e858#ref=rss)
-### paris
-
-* [https://www.spiegel.de/reise/europa/olympia-2024-in-paris-wohin-die-locals-fluechten-wenn-es-in-der-stadt-voll-wird](https://www.spiegel.de/reise/europa/olympia-2024-in-paris-wohin-die-locals-fluechten-wenn-es-in-der-stadt-voll-wird-a-8082612e-12d7-4142-9afe-408c37fa6593#ref=rss)
-* [https://www.spiegel.de/sport/olympia/sensation-mit-sechseckigem-schlaeger](https://www.spiegel.de/sport/olympia/sensation-mit-sechseckigem-schlaeger-a-d414528f-dacc-4780-a685-01e109c4624f#ref=rss)
-### maduro
-
-* [https://www.spiegel.de/ausland/venezuela-proteste-gegen-nicolas-maduro-droht-die-naechste-massenauswanderung](https://www.spiegel.de/ausland/venezuela-proteste-gegen-nicolas-maduro-droht-die-naechste-massenauswanderung-a-47e254c2-671a-457b-b40e-265f116e1a41#ref=rss)
-### donald
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-doppelschlag-im-nahen-osten-bluttat-in-southport-kamala-harris](https://www.spiegel.de/politik/deutschland/news-des-tages-doppelschlag-im-nahen-osten-bluttat-in-southport-kamala-harris-a-e10dd639-8911-449f-9eaa-ea7419033046#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-neffe-fred-c-trump-iii-will-fuer-kamala-harris-stimmen](https://www.spiegel.de/ausland/donald-trump-neffe-fred-c-trump-iii-will-fuer-kamala-harris-stimmen-a-9039581a-95fc-4b76-91f7-1606e3edae94#ref=rss)
-### olympischen
-
-* [https://www.spiegel.de/sport/olympia/olympische-sommerspiele-2024-miriam-butkereit-gewinnt-silber-im-judo](https://www.spiegel.de/sport/olympia/olympische-sommerspiele-2024-miriam-butkereit-gewinnt-silber-im-judo-a-b86797d5-2b38-49be-bc6b-41b59e74f6f5#ref=rss)
-* [https://www.spiegel.de/sport/olympia/sensation-mit-sechseckigem-schlaeger](https://www.spiegel.de/sport/olympia/sensation-mit-sechseckigem-schlaeger-a-d414528f-dacc-4780-a685-01e109c4624f#ref=rss)
-* [https://www.spiegel.de/sport/tennis/olympische-spiele-angelique-kerbers-tennis-karriere-endet-im-viertelfinale](https://www.spiegel.de/sport/tennis/olympische-spiele-angelique-kerbers-tennis-karriere-endet-im-viertelfinale-a-486a0988-a9c0-462b-b9d9-0acb2e42a536#ref=rss)
-### hamas
-
-* [https://www.spiegel.de/ausland/nahost-wer-ismail-haniyyeh-war-und-wofuer-er-stand](https://www.spiegel.de/ausland/nahost-wer-ismail-haniyyeh-war-und-wofuer-er-stand-a-7b56824f-c03e-4db9-9d31-c8db3da257ff#ref=rss)
-* [https://www.spiegel.de/politik/israel-gaza-konflikt-baerbock-appelliert-nach-angriffen-auf-hamas-und-hisbollah-zur-maessigung](https://www.spiegel.de/politik/israel-gaza-konflikt-baerbock-appelliert-nach-angriffen-auf-hamas-und-hisbollah-zur-maessigung-a-09e143bd-3020-4313-b12e-67ddb6dd7bad#ref=rss)
-### urteil
-
-* [https://www.spiegel.de/panorama/justiz/ns-prozess-wird-das-urteil-gegen-irmgard-furchner-revidiert-bundesgerichtshof-prueft-fall](https://www.spiegel.de/panorama/justiz/ns-prozess-wird-das-urteil-gegen-irmgard-furchner-revidiert-bundesgerichtshof-prueft-fall-a-5b9926c4-7b14-4aae-b3a0-004326c0d5a5#ref=rss)
-### bundesgerichtshof
-
-* [https://www.spiegel.de/panorama/justiz/ns-prozess-wird-das-urteil-gegen-irmgard-furchner-revidiert-bundesgerichtshof-prueft-fall](https://www.spiegel.de/panorama/justiz/ns-prozess-wird-das-urteil-gegen-irmgard-furchner-revidiert-bundesgerichtshof-prueft-fall-a-5b9926c4-7b14-4aae-b3a0-004326c0d5a5#ref=rss)
-### vermögensteuer
-
-* [https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet](https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-a-397689f9-5c5c-4602-9b9c-3e0c06b74159#ref=rss)
-* [https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-podcast](https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-podcast-a-76d6a9a1-7e9c-42c0-865f-0542d6fafe60#ref=rss)
-### milliardäre
-
-* [https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet](https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-a-397689f9-5c5c-4602-9b9c-3e0c06b74159#ref=rss)
-* [https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-podcast](https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-podcast-a-76d6a9a1-7e9c-42c0-865f-0542d6fafe60#ref=rss)
-### stärker
-
-* [https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet](https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-a-397689f9-5c5c-4602-9b9c-3e0c06b74159#ref=rss)
-* [https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-podcast](https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-podcast-a-76d6a9a1-7e9c-42c0-865f-0542d6fafe60#ref=rss)
-### kasse
-
-* [https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet](https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-a-397689f9-5c5c-4602-9b9c-3e0c06b74159#ref=rss)
-* [https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-podcast](https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-podcast-a-76d6a9a1-7e9c-42c0-865f-0542d6fafe60#ref=rss)
-### bittet
-
-* [https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet](https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-a-397689f9-5c5c-4602-9b9c-3e0c06b74159#ref=rss)
-* [https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-podcast](https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-podcast-a-76d6a9a1-7e9c-42c0-865f-0542d6fafe60#ref=rss)
-### klingt
-
-* [https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet](https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-a-397689f9-5c5c-4602-9b9c-3e0c06b74159#ref=rss)
-* [https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-podcast](https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-podcast-a-76d6a9a1-7e9c-42c0-865f-0542d6fafe60#ref=rss)
-### absurd
-
-* [https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet](https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-a-397689f9-5c5c-4602-9b9c-3e0c06b74159#ref=rss)
-* [https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-podcast](https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-podcast-a-76d6a9a1-7e9c-42c0-865f-0542d6fafe60#ref=rss)
-### weniger
-
-* [https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet](https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-a-397689f9-5c5c-4602-9b9c-3e0c06b74159#ref=rss)
-* [https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-podcast](https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-podcast-a-76d6a9a1-7e9c-42c0-865f-0542d6fafe60#ref=rss)
-### steuern
-
-* [https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet](https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-a-397689f9-5c5c-4602-9b9c-3e0c06b74159#ref=rss)
-* [https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-podcast](https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-podcast-a-76d6a9a1-7e9c-42c0-865f-0542d6fafe60#ref=rss)
-### normalverdienende
-
-* [https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet](https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-a-397689f9-5c5c-4602-9b9c-3e0c06b74159#ref=rss)
-* [https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-podcast](https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-podcast-a-76d6a9a1-7e9c-42c0-865f-0542d6fafe60#ref=rss)
-### realität
-
-* [https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet](https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-a-397689f9-5c5c-4602-9b9c-3e0c06b74159#ref=rss)
-* [https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-podcast](https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-podcast-a-76d6a9a1-7e9c-42c0-865f-0542d6fafe60#ref=rss)
-### spiegelredakteur
-
-* [https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet](https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-a-397689f9-5c5c-4602-9b9c-3e0c06b74159#ref=rss)
-* [https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-podcast](https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-podcast-a-76d6a9a1-7e9c-42c0-865f-0542d6fafe60#ref=rss)
-### david
-
-* [https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet](https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-a-397689f9-5c5c-4602-9b9c-3e0c06b74159#ref=rss)
-* [https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-podcast](https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-podcast-a-76d6a9a1-7e9c-42c0-865f-0542d6fafe60#ref=rss)
-### böcking
-
-* [https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet](https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-a-397689f9-5c5c-4602-9b9c-3e0c06b74159#ref=rss)
-* [https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-podcast](https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-podcast-a-76d6a9a1-7e9c-42c0-865f-0542d6fafe60#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet](https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-a-397689f9-5c5c-4602-9b9c-3e0c06b74159#ref=rss)
-* [https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-podcast](https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-podcast-a-76d6a9a1-7e9c-42c0-865f-0542d6fafe60#ref=rss)
-### wirksame
-
-* [https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet](https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-a-397689f9-5c5c-4602-9b9c-3e0c06b74159#ref=rss)
-* [https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-podcast](https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-podcast-a-76d6a9a1-7e9c-42c0-865f-0542d6fafe60#ref=rss)
-### reform
-
-* [https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet](https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-a-397689f9-5c5c-4602-9b9c-3e0c06b74159#ref=rss)
-* [https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-podcast](https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-podcast-a-76d6a9a1-7e9c-42c0-865f-0542d6fafe60#ref=rss)
-### funktionieren
-
-* [https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet](https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-a-397689f9-5c5c-4602-9b9c-3e0c06b74159#ref=rss)
-* [https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-podcast](https://www.spiegel.de/politik/vermoegensteuer-fuer-superreiche-wie-man-milliardaere-staerker-zur-kasse-bittet-podcast-a-76d6a9a1-7e9c-42c0-865f-0542d6fafe60#ref=rss)
-### schlaf
-
-* [https://www.spiegel.de/wissenschaft/medizin/ploetzlicher-kindstod-darf-das-baby-doch-ins-elternbett](https://www.spiegel.de/wissenschaft/medizin/ploetzlicher-kindstod-darf-das-baby-doch-ins-elternbett-a-415ab24a-7cd8-436e-bf07-84ba22fce96d#ref=rss)
-* [https://www.spiegel.de/panorama/seattle-21-jaehriger-raser-belltown-hellcat-wurde-festgenommen](https://www.spiegel.de/panorama/seattle-21-jaehriger-raser-belltown-hellcat-wurde-festgenommen-a-2f3c57d6-aa32-4f02-9f13-cec44bae18b1#ref=rss)
-### macht
-
-* [https://www.spiegel.de/wissenschaft/medizin/ploetzlicher-kindstod-darf-das-baby-doch-ins-elternbett](https://www.spiegel.de/wissenschaft/medizin/ploetzlicher-kindstod-darf-das-baby-doch-ins-elternbett-a-415ab24a-7cd8-436e-bf07-84ba22fce96d#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-proteste-gegen-nicolas-maduro-droht-die-naechste-massenauswanderung](https://www.spiegel.de/ausland/venezuela-proteste-gegen-nicolas-maduro-droht-die-naechste-massenauswanderung-a-47e254c2-671a-457b-b40e-265f116e1a41#ref=rss)
-### eltern
-
-* [https://www.spiegel.de/wissenschaft/medizin/ploetzlicher-kindstod-darf-das-baby-doch-ins-elternbett](https://www.spiegel.de/wissenschaft/medizin/ploetzlicher-kindstod-darf-das-baby-doch-ins-elternbett-a-415ab24a-7cd8-436e-bf07-84ba22fce96d#ref=rss)
-* [https://www.spiegel.de/deinspiegel/spiele-und-basteltipps-fuer-die-ferien-ein-sommer-ohne-langeweile](https://www.spiegel.de/deinspiegel/spiele-und-basteltipps-fuer-die-ferien-ein-sommer-ohne-langeweile-a-fed64c8f-1c60-4523-9fd7-4b895c27850e#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/wissenschaft/medizin/ploetzlicher-kindstod-darf-das-baby-doch-ins-elternbett](https://www.spiegel.de/wissenschaft/medizin/ploetzlicher-kindstod-darf-das-baby-doch-ins-elternbett-a-415ab24a-7cd8-436e-bf07-84ba22fce96d#ref=rss)
-* [https://www.spiegel.de/deinspiegel/spiele-und-basteltipps-fuer-die-ferien-ein-sommer-ohne-langeweile](https://www.spiegel.de/deinspiegel/spiele-und-basteltipps-fuer-die-ferien-ein-sommer-ohne-langeweile-a-fed64c8f-1c60-4523-9fd7-4b895c27850e#ref=rss)
-### olympia
-
-* [https://www.spiegel.de/reise/europa/olympia-2024-in-paris-wohin-die-locals-fluechten-wenn-es-in-der-stadt-voll-wird](https://www.spiegel.de/reise/europa/olympia-2024-in-paris-wohin-die-locals-fluechten-wenn-es-in-der-stadt-voll-wird-a-8082612e-12d7-4142-9afe-408c37fa6593#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympische-spiele-2024-kanutin-elena-lilik-gewinnt-silber-im-canadier-einer](https://www.spiegel.de/sport/olympia/olympische-spiele-2024-kanutin-elena-lilik-gewinnt-silber-im-canadier-einer-a-c9f91323-1fc5-4a94-883f-9e794fd83c0e#ref=rss)
-### stadt
-
-* [https://www.spiegel.de/reise/europa/olympia-2024-in-paris-wohin-die-locals-fluechten-wenn-es-in-der-stadt-voll-wird](https://www.spiegel.de/reise/europa/olympia-2024-in-paris-wohin-die-locals-fluechten-wenn-es-in-der-stadt-voll-wird-a-8082612e-12d7-4142-9afe-408c37fa6593#ref=rss)
-* [https://www.spiegel.de/wirtschaft/taylor-swift-versteigerung-der-swiftkirchen-ortsschilder-erreicht-1400-gebote](https://www.spiegel.de/wirtschaft/taylor-swift-versteigerung-der-swiftkirchen-ortsschilder-erreicht-1400-gebote-a-bd02efcd-ebfa-4c4b-8dbf-31a8547265bf#ref=rss)
-### wo
-
-* [https://www.spiegel.de/reise/europa/olympia-2024-in-paris-wohin-die-locals-fluechten-wenn-es-in-der-stadt-voll-wird](https://www.spiegel.de/reise/europa/olympia-2024-in-paris-wohin-die-locals-fluechten-wenn-es-in-der-stadt-voll-wird-a-8082612e-12d7-4142-9afe-408c37fa6593#ref=rss)
-* [https://www.spiegel.de/reise/europa/italien-griechenland-spanien-tuerkei-wo-im-urlaub-das-wasser-knapp-werden-koennte](https://www.spiegel.de/reise/europa/italien-griechenland-spanien-tuerkei-wo-im-urlaub-das-wasser-knapp-werden-koennte-a-c8247f44-8dcc-4ced-8076-ea7fa768696d#ref=rss)
-### besonders
-
-* [https://www.spiegel.de/reise/europa/olympia-2024-in-paris-wohin-die-locals-fluechten-wenn-es-in-der-stadt-voll-wird](https://www.spiegel.de/reise/europa/olympia-2024-in-paris-wohin-die-locals-fluechten-wenn-es-in-der-stadt-voll-wird-a-8082612e-12d7-4142-9afe-408c37fa6593#ref=rss)
-* [https://www.spiegel.de/panorama/groenland-eisbaer-greift-deutschen-forscher-an](https://www.spiegel.de/panorama/groenland-eisbaer-greift-deutschen-forscher-an-a-38875755-aa68-4dcb-9e93-58b1db974535#ref=rss)
-### wacken
-
-* [https://www.spiegel.de/panorama/wacken-open-air-metal-fans-hoffen-auf-schlammfreies-festivalerlebnis](https://www.spiegel.de/panorama/wacken-open-air-metal-fans-hoffen-auf-schlammfreies-festivalerlebnis-a-2fe1b6b2-dd37-44fb-a837-d994b91e30a7#ref=rss)
-### veranstalter
-
-* [https://www.spiegel.de/panorama/wacken-open-air-metal-fans-hoffen-auf-schlammfreies-festivalerlebnis](https://www.spiegel.de/panorama/wacken-open-air-metal-fans-hoffen-auf-schlammfreies-festivalerlebnis-a-2fe1b6b2-dd37-44fb-a837-d994b91e30a7#ref=rss)
-* [https://www.spiegel.de/kultur/musik/1-9-millionen-pfund-schadenersatz-fuer-einen-kuss](https://www.spiegel.de/kultur/musik/1-9-millionen-pfund-schadenersatz-fuer-einen-kuss-a-a788ce76-da79-450b-8ecf-bb67b567dfec#ref=rss)
-### robert
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/boeing-krise-neuer-ceo-robert-ortberg-soll-den-luftfahrtgiganten-retten](https://www.spiegel.de/wirtschaft/unternehmen/boeing-krise-neuer-ceo-robert-ortberg-soll-den-luftfahrtgiganten-retten-a-34f78992-66df-4c4a-aea0-0a0b0815d67a#ref=rss)
-### ortberg
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/boeing-krise-neuer-ceo-robert-ortberg-soll-den-luftfahrtgiganten-retten](https://www.spiegel.de/wirtschaft/unternehmen/boeing-krise-neuer-ceo-robert-ortberg-soll-den-luftfahrtgiganten-retten-a-34f78992-66df-4c4a-aea0-0a0b0815d67a#ref=rss)
-### luftfahrtgiganten
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/boeing-krise-neuer-ceo-robert-ortberg-soll-den-luftfahrtgiganten-retten](https://www.spiegel.de/wirtschaft/unternehmen/boeing-krise-neuer-ceo-robert-ortberg-soll-den-luftfahrtgiganten-retten-a-34f78992-66df-4c4a-aea0-0a0b0815d67a#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/boeing-krise-neuer-ceo-robert-ortberg-soll-den-luftfahrtgiganten-retten](https://www.spiegel.de/wirtschaft/unternehmen/boeing-krise-neuer-ceo-robert-ortberg-soll-den-luftfahrtgiganten-retten-a-34f78992-66df-4c4a-aea0-0a0b0815d67a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/taylor-swift-versteigerung-der-swiftkirchen-ortsschilder-erreicht-1400-gebote](https://www.spiegel.de/wirtschaft/taylor-swift-versteigerung-der-swiftkirchen-ortsschilder-erreicht-1400-gebote-a-bd02efcd-ebfa-4c4b-8dbf-31a8547265bf#ref=rss)
-### nicolás
-
-* [https://www.spiegel.de/ausland/venezuela-proteste-gegen-nicolas-maduro-droht-die-naechste-massenauswanderung](https://www.spiegel.de/ausland/venezuela-proteste-gegen-nicolas-maduro-droht-die-naechste-massenauswanderung-a-47e254c2-671a-457b-b40e-265f116e1a41#ref=rss)
-### droht
-
-* [https://www.spiegel.de/ausland/venezuela-proteste-gegen-nicolas-maduro-droht-die-naechste-massenauswanderung](https://www.spiegel.de/ausland/venezuela-proteste-gegen-nicolas-maduro-droht-die-naechste-massenauswanderung-a-47e254c2-671a-457b-b40e-265f116e1a41#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-doppelschlag-im-nahen-osten-bluttat-in-southport-kamala-harris](https://www.spiegel.de/politik/deutschland/news-des-tages-doppelschlag-im-nahen-osten-bluttat-in-southport-kamala-harris-a-e10dd639-8911-449f-9eaa-ea7419033046#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/venezuela-proteste-gegen-nicolas-maduro-droht-die-naechste-massenauswanderung](https://www.spiegel.de/ausland/venezuela-proteste-gegen-nicolas-maduro-droht-die-naechste-massenauswanderung-a-47e254c2-671a-457b-b40e-265f116e1a41#ref=rss)
-* [https://www.spiegel.de/panorama/groenland-eisbaer-greift-deutschen-forscher-an](https://www.spiegel.de/panorama/groenland-eisbaer-greift-deutschen-forscher-an-a-38875755-aa68-4dcb-9e93-58b1db974535#ref=rss)
-### sicher
-
-* [https://www.spiegel.de/wirtschaft/flugsicherheit-mechanikermangel-bereitet-im-luftverkehr-sorgen](https://www.spiegel.de/wirtschaft/flugsicherheit-mechanikermangel-bereitet-im-luftverkehr-sorgen-a-401d2740-03aa-48fe-90cc-68a158afa636#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-neffe-fred-c-trump-iii-will-fuer-kamala-harris-stimmen](https://www.spiegel.de/ausland/donald-trump-neffe-fred-c-trump-iii-will-fuer-kamala-harris-stimmen-a-9039581a-95fc-4b76-91f7-1606e3edae94#ref=rss)
-### schwer
-
-* [https://www.spiegel.de/wirtschaft/flugsicherheit-mechanikermangel-bereitet-im-luftverkehr-sorgen](https://www.spiegel.de/wirtschaft/flugsicherheit-mechanikermangel-bereitet-im-luftverkehr-sorgen-a-401d2740-03aa-48fe-90cc-68a158afa636#ref=rss)
-* [https://www.spiegel.de/panorama/groenland-eisbaer-greift-deutschen-forscher-an](https://www.spiegel.de/panorama/groenland-eisbaer-greift-deutschen-forscher-an-a-38875755-aa68-4dcb-9e93-58b1db974535#ref=rss)
-### doppelschlag
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-doppelschlag-im-nahen-osten-bluttat-in-southport-kamala-harris](https://www.spiegel.de/politik/deutschland/news-des-tages-doppelschlag-im-nahen-osten-bluttat-in-southport-kamala-harris-a-e10dd639-8911-449f-9eaa-ea7419033046#ref=rss)
-### bluttat
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-doppelschlag-im-nahen-osten-bluttat-in-southport-kamala-harris](https://www.spiegel.de/politik/deutschland/news-des-tages-doppelschlag-im-nahen-osten-bluttat-in-southport-kamala-harris-a-e10dd639-8911-449f-9eaa-ea7419033046#ref=rss)
-### southport
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-doppelschlag-im-nahen-osten-bluttat-in-southport-kamala-harris](https://www.spiegel.de/politik/deutschland/news-des-tages-doppelschlag-im-nahen-osten-bluttat-in-southport-kamala-harris-a-e10dd639-8911-449f-9eaa-ea7419033046#ref=rss)
-### lage
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-doppelschlag-im-nahen-osten-bluttat-in-southport-kamala-harris](https://www.spiegel.de/politik/deutschland/news-des-tages-doppelschlag-im-nahen-osten-bluttat-in-southport-kamala-harris-a-e10dd639-8911-449f-9eaa-ea7419033046#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/rettungsaktion-deutsche-hobby-piloten-gerettet-nach-notlandung-im-eismeer](https://www.spiegel.de/wissenschaft/mensch/rettungsaktion-deutsche-hobby-piloten-gerettet-nach-notlandung-im-eismeer-a-481b873a-680f-449e-9fd7-edd7606cbccb#ref=rss)
-### kanutin
-
-* [https://www.spiegel.de/sport/olympia/olympische-spiele-2024-kanutin-elena-lilik-gewinnt-silber-im-canadier-einer](https://www.spiegel.de/sport/olympia/olympische-spiele-2024-kanutin-elena-lilik-gewinnt-silber-im-canadier-einer-a-c9f91323-1fc5-4a94-883f-9e794fd83c0e#ref=rss)
-### elena
-
-* [https://www.spiegel.de/sport/olympia/olympische-spiele-2024-kanutin-elena-lilik-gewinnt-silber-im-canadier-einer](https://www.spiegel.de/sport/olympia/olympische-spiele-2024-kanutin-elena-lilik-gewinnt-silber-im-canadier-einer-a-c9f91323-1fc5-4a94-883f-9e794fd83c0e#ref=rss)
-### lilik
-
-* [https://www.spiegel.de/sport/olympia/olympische-spiele-2024-kanutin-elena-lilik-gewinnt-silber-im-canadier-einer](https://www.spiegel.de/sport/olympia/olympische-spiele-2024-kanutin-elena-lilik-gewinnt-silber-im-canadier-einer-a-c9f91323-1fc5-4a94-883f-9e794fd83c0e#ref=rss)
-### gewinnt
-
-* [https://www.spiegel.de/sport/olympia/olympische-spiele-2024-kanutin-elena-lilik-gewinnt-silber-im-canadier-einer](https://www.spiegel.de/sport/olympia/olympische-spiele-2024-kanutin-elena-lilik-gewinnt-silber-im-canadier-einer-a-c9f91323-1fc5-4a94-883f-9e794fd83c0e#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympische-sommerspiele-2024-miriam-butkereit-gewinnt-silber-im-judo](https://www.spiegel.de/sport/olympia/olympische-sommerspiele-2024-miriam-butkereit-gewinnt-silber-im-judo-a-b86797d5-2b38-49be-bc6b-41b59e74f6f5#ref=rss)
-### silber
-
-* [https://www.spiegel.de/sport/olympia/olympische-spiele-2024-kanutin-elena-lilik-gewinnt-silber-im-canadier-einer](https://www.spiegel.de/sport/olympia/olympische-spiele-2024-kanutin-elena-lilik-gewinnt-silber-im-canadier-einer-a-c9f91323-1fc5-4a94-883f-9e794fd83c0e#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympische-sommerspiele-2024-miriam-butkereit-gewinnt-silber-im-judo](https://www.spiegel.de/sport/olympia/olympische-sommerspiele-2024-miriam-butkereit-gewinnt-silber-im-judo-a-b86797d5-2b38-49be-bc6b-41b59e74f6f5#ref=rss)
-### canadiereiner
-
-* [https://www.spiegel.de/sport/olympia/olympische-spiele-2024-kanutin-elena-lilik-gewinnt-silber-im-canadier-einer](https://www.spiegel.de/sport/olympia/olympische-spiele-2024-kanutin-elena-lilik-gewinnt-silber-im-canadier-einer-a-c9f91323-1fc5-4a94-883f-9e794fd83c0e#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2024-victor-wembanyama-fuehrte-frankreichs-basketballer-zu-zwei-siegen](https://www.spiegel.de/sport/olympia/olympia-2024-victor-wembanyama-fuehrte-frankreichs-basketballer-zu-zwei-siegen-a-e5cef357-5a5c-41e2-abb6-361e4128447a#ref=rss)
+* [https://www.spiegel.de/ausland/israel-armee-offenbar-in-erhoehter-alarmbereitschaft-sorge-vor-gegenschlaegen](https://www.spiegel.de/ausland/israel-armee-offenbar-in-erhoehter-alarmbereitschaft-sorge-vor-gegenschlaegen-a-070a68b6-025c-4f7a-b20b-392a19708e72#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/crowdstrike-zwei-wochen-nach-dem-it-debakel-ist-der-albtraum-nicht-vorbei](https://www.spiegel.de/netzwelt/web/crowdstrike-zwei-wochen-nach-dem-it-debakel-ist-der-albtraum-nicht-vorbei-a-53751450-4335-4668-a94c-cbb4154935b4#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-sorge-um-die-geiseln-in-gaza-was-die-welt-jetzt-tun-muss-um-sie-zu-retten](https://www.spiegel.de/ausland/israel-gaza-krieg-sorge-um-die-geiseln-in-gaza-was-die-welt-jetzt-tun-muss-um-sie-zu-retten-a-0c1a97a5-34d8-4659-bbd6-421abfd83d09#ref=rss)
+* [https://www.spiegel.de/ausland/libanon-boris-pistorius-raet-deutschen-sofortige-ausreise](https://www.spiegel.de/ausland/libanon-boris-pistorius-raet-deutschen-sofortige-ausreise-a-84a0e730-791f-44ef-bc96-960321689a19#ref=rss)
 ### deutsche
 
-* [https://www.spiegel.de/sport/olympia/olympische-spiele-2024-kanutin-elena-lilik-gewinnt-silber-im-canadier-einer](https://www.spiegel.de/sport/olympia/olympische-spiele-2024-kanutin-elena-lilik-gewinnt-silber-im-canadier-einer-a-c9f91323-1fc5-4a94-883f-9e794fd83c0e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/rettungsaktion-deutsche-hobby-piloten-gerettet-nach-notlandung-im-eismeer](https://www.spiegel.de/wissenschaft/mensch/rettungsaktion-deutsche-hobby-piloten-gerettet-nach-notlandung-im-eismeer-a-481b873a-680f-449e-9fd7-edd7606cbccb#ref=rss)
-### grönland
+* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-trotz-schrumpfung-ministerium-sieht-chancen-auf-kommendes-wachstum](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-trotz-schrumpfung-ministerium-sieht-chancen-auf-kommendes-wachstum-a-e5b82d3e-d92b-41b4-ac1c-f215af0235a2#ref=rss)
+* [https://www.spiegel.de/sport/fussball/mesut-oezil-scharfe-kritik-an-israelfeindlichem-instagram-post](https://www.spiegel.de/sport/fussball/mesut-oezil-scharfe-kritik-an-israelfeindlichem-instagram-post-a-e6761816-e60f-48bb-9a63-717b66d0923e#ref=rss)
+* [https://www.spiegel.de/ausland/libanon-boris-pistorius-raet-deutschen-sofortige-ausreise](https://www.spiegel.de/ausland/libanon-boris-pistorius-raet-deutschen-sofortige-ausreise-a-84a0e730-791f-44ef-bc96-960321689a19#ref=rss)
+* [https://www.spiegel.de/sport/schwimmen-bei-olympia-2024-isabel-gose-holt-bronze-ich-muss-jetzt-weinen](https://www.spiegel.de/sport/schwimmen-bei-olympia-2024-isabel-gose-holt-bronze-ich-muss-jetzt-weinen-a-0f3a13e7-e135-49e6-ba52-dfc478c35153#ref=rss)
+### olympia
 
-* [https://www.spiegel.de/panorama/groenland-eisbaer-greift-deutschen-forscher-an](https://www.spiegel.de/panorama/groenland-eisbaer-greift-deutschen-forscher-an-a-38875755-aa68-4dcb-9e93-58b1db974535#ref=rss)
-### diesem
+* [https://www.spiegel.de/sport/olympia/olympia-2024-wie-die-sommerspiele-den-paris-tourismus-killen](https://www.spiegel.de/sport/olympia/olympia-2024-wie-die-sommerspiele-den-paris-tourismus-killen-a-18e1fe14-1f6c-4163-b0ce-11b8be04db66#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2024-triathlet-tyler-mislawchuk-muss-sich-nach-wettkampf-uebergeben](https://www.spiegel.de/sport/olympia/olympia-2024-triathlet-tyler-mislawchuk-muss-sich-nach-wettkampf-uebergeben-a-15b09eb7-02bb-47f0-b914-c6ab512356aa#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2024-victor-wembanyama-fuehrte-frankreichs-basketballer-zu-zwei-siegen](https://www.spiegel.de/sport/olympia/olympia-2024-victor-wembanyama-fuehrte-frankreichs-basketballer-zu-zwei-siegen-a-e5cef357-5a5c-41e2-abb6-361e4128447a#ref=rss)
+* [https://www.spiegel.de/sport/schwimmen-bei-olympia-2024-isabel-gose-holt-bronze-ich-muss-jetzt-weinen](https://www.spiegel.de/sport/schwimmen-bei-olympia-2024-isabel-gose-holt-bronze-ich-muss-jetzt-weinen-a-0f3a13e7-e135-49e6-ba52-dfc478c35153#ref=rss)
+### 2024
 
-* [https://www.spiegel.de/panorama/groenland-eisbaer-greift-deutschen-forscher-an](https://www.spiegel.de/panorama/groenland-eisbaer-greift-deutschen-forscher-an-a-38875755-aa68-4dcb-9e93-58b1db974535#ref=rss)
-* [https://www.spiegel.de/wirtschaft/galeries-lafayette-berliner-luxuskaufhaus-schliesst](https://www.spiegel.de/wirtschaft/galeries-lafayette-berliner-luxuskaufhaus-schliesst-a-02206261-8c53-47d2-8eea-1e8b1f84051f#ref=rss)
-### sommer
+* [https://www.spiegel.de/sport/olympia/olympia-2024-wie-die-sommerspiele-den-paris-tourismus-killen](https://www.spiegel.de/sport/olympia/olympia-2024-wie-die-sommerspiele-den-paris-tourismus-killen-a-18e1fe14-1f6c-4163-b0ce-11b8be04db66#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2024-triathlet-tyler-mislawchuk-muss-sich-nach-wettkampf-uebergeben](https://www.spiegel.de/sport/olympia/olympia-2024-triathlet-tyler-mislawchuk-muss-sich-nach-wettkampf-uebergeben-a-15b09eb7-02bb-47f0-b914-c6ab512356aa#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2024-victor-wembanyama-fuehrte-frankreichs-basketballer-zu-zwei-siegen](https://www.spiegel.de/sport/olympia/olympia-2024-victor-wembanyama-fuehrte-frankreichs-basketballer-zu-zwei-siegen-a-e5cef357-5a5c-41e2-abb6-361e4128447a#ref=rss)
+* [https://www.spiegel.de/sport/schwimmen-bei-olympia-2024-isabel-gose-holt-bronze-ich-muss-jetzt-weinen](https://www.spiegel.de/sport/schwimmen-bei-olympia-2024-isabel-gose-holt-bronze-ich-muss-jetzt-weinen-a-0f3a13e7-e135-49e6-ba52-dfc478c35153#ref=rss)
+### sorge
 
-* [https://www.spiegel.de/panorama/groenland-eisbaer-greift-deutschen-forscher-an](https://www.spiegel.de/panorama/groenland-eisbaer-greift-deutschen-forscher-an-a-38875755-aa68-4dcb-9e93-58b1db974535#ref=rss)
-* [https://www.spiegel.de/deinspiegel/spiele-und-basteltipps-fuer-die-ferien-ein-sommer-ohne-langeweile](https://www.spiegel.de/deinspiegel/spiele-und-basteltipps-fuer-die-ferien-ein-sommer-ohne-langeweile-a-fed64c8f-1c60-4523-9fd7-4b895c27850e#ref=rss)
-### miriam
+* [https://www.spiegel.de/ausland/israel-armee-offenbar-in-erhoehter-alarmbereitschaft-sorge-vor-gegenschlaegen](https://www.spiegel.de/ausland/israel-armee-offenbar-in-erhoehter-alarmbereitschaft-sorge-vor-gegenschlaegen-a-070a68b6-025c-4f7a-b20b-392a19708e72#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-sorge-um-die-geiseln-in-gaza-was-die-welt-jetzt-tun-muss-um-sie-zu-retten](https://www.spiegel.de/ausland/israel-gaza-krieg-sorge-um-die-geiseln-in-gaza-was-die-welt-jetzt-tun-muss-um-sie-zu-retten-a-0c1a97a5-34d8-4659-bbd6-421abfd83d09#ref=rss)
+### hitze
 
-* [https://www.spiegel.de/sport/olympia/olympische-sommerspiele-2024-miriam-butkereit-gewinnt-silber-im-judo](https://www.spiegel.de/sport/olympia/olympische-sommerspiele-2024-miriam-butkereit-gewinnt-silber-im-judo-a-b86797d5-2b38-49be-bc6b-41b59e74f6f5#ref=rss)
-### butkereit
+* [https://www.spiegel.de/ausland/albanien-eroeffnung-von-italiens-fluechtlingslager-verzoegert-sich-weiter](https://www.spiegel.de/ausland/albanien-eroeffnung-von-italiens-fluechtlingslager-verzoegert-sich-weiter-a-73246650-4522-40e6-8868-8cde63da699f#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/martina-bogdahn-mit-muehlensommer-ein-bauernhof-zum-lesen](https://www.spiegel.de/kultur/literatur/martina-bogdahn-mit-muehlensommer-ein-bauernhof-zum-lesen-a-422de8e4-aafb-4fcb-a67b-04d63431c604#ref=rss)
+* [https://www.spiegel.de/ausland/hitze-und-wassermangel-im-donbass-wir-leben-wie-obdachlose-aus-kuebeln](https://www.spiegel.de/ausland/hitze-und-wassermangel-im-donbass-wir-leben-wie-obdachlose-aus-kuebeln-a-55fb48fe-d417-4f95-83d5-3e0cce009450#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/sport/olympia/olympische-sommerspiele-2024-miriam-butkereit-gewinnt-silber-im-judo](https://www.spiegel.de/sport/olympia/olympische-sommerspiele-2024-miriam-butkereit-gewinnt-silber-im-judo-a-b86797d5-2b38-49be-bc6b-41b59e74f6f5#ref=rss)
-### judo
+* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-trotz-schrumpfung-ministerium-sieht-chancen-auf-kommendes-wachstum](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-trotz-schrumpfung-ministerium-sieht-chancen-auf-kommendes-wachstum-a-e5b82d3e-d92b-41b4-ac1c-f215af0235a2#ref=rss)
+* [https://www.spiegel.de/start/rekord-unbesetzter-ausbildungsplaetze-deutschland-akademisiert-sich-kaputt-kommentar](https://www.spiegel.de/start/rekord-unbesetzter-ausbildungsplaetze-deutschland-akademisiert-sich-kaputt-kommentar-a-6838503d-2f95-4366-9ed4-d666587ffd9e#ref=rss)
+* [https://www.spiegel.de/karriere/arbeitsbelastung-in-deutschland-berufstaetige-leiden-haeufiger-unter-stress](https://www.spiegel.de/karriere/arbeitsbelastung-in-deutschland-berufstaetige-leiden-haeufiger-unter-stress-a-74aef233-93b2-4791-adf5-0ebcd89de2c1#ref=rss)
+### millionen
 
-* [https://www.spiegel.de/sport/olympia/olympische-sommerspiele-2024-miriam-butkereit-gewinnt-silber-im-judo](https://www.spiegel.de/sport/olympia/olympische-sommerspiele-2024-miriam-butkereit-gewinnt-silber-im-judo-a-b86797d5-2b38-49be-bc6b-41b59e74f6f5#ref=rss)
-### nicola
-
-* [https://www.spiegel.de/panorama/nicola-peltz-beckham-verklagt-hundefriseur-wegen-totem-chihuahua](https://www.spiegel.de/panorama/nicola-peltz-beckham-verklagt-hundefriseur-wegen-totem-chihuahua-a-9a6fb295-c43c-444f-93b9-f622e752f8b5#ref=rss)
-### peltzbeckham
-
-* [https://www.spiegel.de/panorama/nicola-peltz-beckham-verklagt-hundefriseur-wegen-totem-chihuahua](https://www.spiegel.de/panorama/nicola-peltz-beckham-verklagt-hundefriseur-wegen-totem-chihuahua-a-9a6fb295-c43c-444f-93b9-f622e752f8b5#ref=rss)
-### hundefriseur
-
-* [https://www.spiegel.de/panorama/nicola-peltz-beckham-verklagt-hundefriseur-wegen-totem-chihuahua](https://www.spiegel.de/panorama/nicola-peltz-beckham-verklagt-hundefriseur-wegen-totem-chihuahua-a-9a6fb295-c43c-444f-93b9-f622e752f8b5#ref=rss)
-### gerettet
-
-* [https://www.spiegel.de/wissenschaft/mensch/rettungsaktion-deutsche-hobby-piloten-gerettet-nach-notlandung-im-eismeer](https://www.spiegel.de/wissenschaft/mensch/rettungsaktion-deutsche-hobby-piloten-gerettet-nach-notlandung-im-eismeer-a-481b873a-680f-449e-9fd7-edd7606cbccb#ref=rss)
-### wasser
-
-* [https://www.spiegel.de/wissenschaft/mensch/rettungsaktion-deutsche-hobby-piloten-gerettet-nach-notlandung-im-eismeer](https://www.spiegel.de/wissenschaft/mensch/rettungsaktion-deutsche-hobby-piloten-gerettet-nach-notlandung-im-eismeer-a-481b873a-680f-449e-9fd7-edd7606cbccb#ref=rss)
-* [https://www.spiegel.de/reise/europa/italien-griechenland-spanien-tuerkei-wo-im-urlaub-das-wasser-knapp-werden-koennte](https://www.spiegel.de/reise/europa/italien-griechenland-spanien-tuerkei-wo-im-urlaub-das-wasser-knapp-werden-koennte-a-c8247f44-8dcc-4ced-8076-ea7fa768696d#ref=rss)
-### seattle
-
-* [https://www.spiegel.de/panorama/seattle-21-jaehriger-raser-belltown-hellcat-wurde-festgenommen](https://www.spiegel.de/panorama/seattle-21-jaehriger-raser-belltown-hellcat-wurde-festgenommen-a-2f3c57d6-aa32-4f02-9f13-cec44bae18b1#ref=rss)
-### belltown
-
-* [https://www.spiegel.de/panorama/seattle-21-jaehriger-raser-belltown-hellcat-wurde-festgenommen](https://www.spiegel.de/panorama/seattle-21-jaehriger-raser-belltown-hellcat-wurde-festgenommen-a-2f3c57d6-aa32-4f02-9f13-cec44bae18b1#ref=rss)
-### hellcat
-
-* [https://www.spiegel.de/panorama/seattle-21-jaehriger-raser-belltown-hellcat-wurde-festgenommen](https://www.spiegel.de/panorama/seattle-21-jaehriger-raser-belltown-hellcat-wurde-festgenommen-a-2f3c57d6-aa32-4f02-9f13-cec44bae18b1#ref=rss)
-### angelique
-
-* [https://www.spiegel.de/sport/tennis/olympische-spiele-angelique-kerbers-tennis-karriere-endet-im-viertelfinale](https://www.spiegel.de/sport/tennis/olympische-spiele-angelique-kerbers-tennis-karriere-endet-im-viertelfinale-a-486a0988-a9c0-462b-b9d9-0acb2e42a536#ref=rss)
-### viertelfinale
-
-* [https://www.spiegel.de/sport/tennis/olympische-spiele-angelique-kerbers-tennis-karriere-endet-im-viertelfinale](https://www.spiegel.de/sport/tennis/olympische-spiele-angelique-kerbers-tennis-karriere-endet-im-viertelfinale-a-486a0988-a9c0-462b-b9d9-0acb2e42a536#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/sport/tennis/olympische-spiele-angelique-kerbers-tennis-karriere-endet-im-viertelfinale](https://www.spiegel.de/sport/tennis/olympische-spiele-angelique-kerbers-tennis-karriere-endet-im-viertelfinale-a-486a0988-a9c0-462b-b9d9-0acb2e42a536#ref=rss)
-* [https://www.spiegel.de/deinspiegel/spiele-und-basteltipps-fuer-die-ferien-ein-sommer-ohne-langeweile](https://www.spiegel.de/deinspiegel/spiele-und-basteltipps-fuer-die-ferien-ein-sommer-ohne-langeweile-a-fed64c8f-1c60-4523-9fd7-4b895c27850e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/baywa-rettungsplan-fuer-agrarkonzern-zeichnet-sich-ab](https://www.spiegel.de/wirtschaft/unternehmen/baywa-rettungsplan-fuer-agrarkonzern-zeichnet-sich-ab-a-642a91d0-4704-4413-8912-32dfd86c4ab6#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/crowdstrike-zwei-wochen-nach-dem-it-debakel-ist-der-albtraum-nicht-vorbei](https://www.spiegel.de/netzwelt/web/crowdstrike-zwei-wochen-nach-dem-it-debakel-ist-der-albtraum-nicht-vorbei-a-53751450-4335-4668-a94c-cbb4154935b4#ref=rss)
 ### unter
 
-* [https://www.spiegel.de/kultur/musik/1-9-millionen-pfund-schadenersatz-fuer-einen-kuss](https://www.spiegel.de/kultur/musik/1-9-millionen-pfund-schadenersatz-fuer-einen-kuss-a-a788ce76-da79-450b-8ecf-bb67b567dfec#ref=rss)
-* [https://www.spiegel.de/reise/europa/italien-griechenland-spanien-tuerkei-wo-im-urlaub-das-wasser-knapp-werden-koennte](https://www.spiegel.de/reise/europa/italien-griechenland-spanien-tuerkei-wo-im-urlaub-das-wasser-knapp-werden-koennte-a-c8247f44-8dcc-4ced-8076-ea7fa768696d#ref=rss)
-### galeries
+* [https://www.spiegel.de/karriere/arbeitsbelastung-in-deutschland-berufstaetige-leiden-haeufiger-unter-stress](https://www.spiegel.de/karriere/arbeitsbelastung-in-deutschland-berufstaetige-leiden-haeufiger-unter-stress-a-74aef233-93b2-4791-adf5-0ebcd89de2c1#ref=rss)
+* [https://www.spiegel.de/panorama/leute/sharon-stone-macht-urlaub-in-der-tuerkei-und-kommt-mit-blauem-auge-davon](https://www.spiegel.de/panorama/leute/sharon-stone-macht-urlaub-in-der-tuerkei-und-kommt-mit-blauem-auge-davon-a-8acd6916-d5a7-443b-a78f-4aad331a2dfc#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bundesliga-borussia-dortmund-verpflichtet-nationalspieler-pascal-gross](https://www.spiegel.de/sport/fussball/bundesliga-borussia-dortmund-verpflichtet-nationalspieler-pascal-gross-a-8d590331-8f1e-4959-91d0-9e8319adee36#ref=rss)
+### macht
 
-* [https://www.spiegel.de/wirtschaft/galeries-lafayette-berliner-luxuskaufhaus-schliesst](https://www.spiegel.de/wirtschaft/galeries-lafayette-berliner-luxuskaufhaus-schliesst-a-02206261-8c53-47d2-8eea-1e8b1f84051f#ref=rss)
-### lafayette
+* [https://www.spiegel.de/wirtschaft/unternehmen/loop-earplugs-was-ist-dran-am-hype-um-die-ohrstoepsel](https://www.spiegel.de/wirtschaft/unternehmen/loop-earplugs-was-ist-dran-am-hype-um-die-ohrstoepsel-a-6edc77a6-afc1-4ed0-8f02-824d4a85e93f#ref=rss)
+* [https://www.spiegel.de/panorama/leute/sharon-stone-macht-urlaub-in-der-tuerkei-und-kommt-mit-blauem-auge-davon](https://www.spiegel.de/panorama/leute/sharon-stone-macht-urlaub-in-der-tuerkei-und-kommt-mit-blauem-auge-davon-a-8acd6916-d5a7-443b-a78f-4aad331a2dfc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-macht-weniger-gewinn](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-macht-weniger-gewinn-a-904bcb1d-611b-4b27-8464-10e5d0859a19#ref=rss)
+### welt
 
-* [https://www.spiegel.de/wirtschaft/galeries-lafayette-berliner-luxuskaufhaus-schliesst](https://www.spiegel.de/wirtschaft/galeries-lafayette-berliner-luxuskaufhaus-schliesst-a-02206261-8c53-47d2-8eea-1e8b1f84051f#ref=rss)
-### berliner
+* [https://www.spiegel.de/sport/olympia/olympia-2024-victor-wembanyama-fuehrte-frankreichs-basketballer-zu-zwei-siegen](https://www.spiegel.de/sport/olympia/olympia-2024-victor-wembanyama-fuehrte-frankreichs-basketballer-zu-zwei-siegen-a-e5cef357-5a5c-41e2-abb6-361e4128447a#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-sorge-um-die-geiseln-in-gaza-was-die-welt-jetzt-tun-muss-um-sie-zu-retten](https://www.spiegel.de/ausland/israel-gaza-krieg-sorge-um-die-geiseln-in-gaza-was-die-welt-jetzt-tun-muss-um-sie-zu-retten-a-0c1a97a5-34d8-4659-bbd6-421abfd83d09#ref=rss)
+### libanon
 
-* [https://www.spiegel.de/wirtschaft/galeries-lafayette-berliner-luxuskaufhaus-schliesst](https://www.spiegel.de/wirtschaft/galeries-lafayette-berliner-luxuskaufhaus-schliesst-a-02206261-8c53-47d2-8eea-1e8b1f84051f#ref=rss)
-### fred
+* [https://www.spiegel.de/ausland/israel-armee-offenbar-in-erhoehter-alarmbereitschaft-sorge-vor-gegenschlaegen](https://www.spiegel.de/ausland/israel-armee-offenbar-in-erhoehter-alarmbereitschaft-sorge-vor-gegenschlaegen-a-070a68b6-025c-4f7a-b20b-392a19708e72#ref=rss)
+* [https://www.spiegel.de/ausland/libanon-boris-pistorius-raet-deutschen-sofortige-ausreise](https://www.spiegel.de/ausland/libanon-boris-pistorius-raet-deutschen-sofortige-ausreise-a-84a0e730-791f-44ef-bc96-960321689a19#ref=rss)
+### iran
 
-* [https://www.spiegel.de/ausland/donald-trump-neffe-fred-c-trump-iii-will-fuer-kamala-harris-stimmen](https://www.spiegel.de/ausland/donald-trump-neffe-fred-c-trump-iii-will-fuer-kamala-harris-stimmen-a-9039581a-95fc-4b76-91f7-1606e3edae94#ref=rss)
-### c
-
-* [https://www.spiegel.de/ausland/donald-trump-neffe-fred-c-trump-iii-will-fuer-kamala-harris-stimmen](https://www.spiegel.de/ausland/donald-trump-neffe-fred-c-trump-iii-will-fuer-kamala-harris-stimmen-a-9039581a-95fc-4b76-91f7-1606e3edae94#ref=rss)
-### iii
-
-* [https://www.spiegel.de/ausland/donald-trump-neffe-fred-c-trump-iii-will-fuer-kamala-harris-stimmen](https://www.spiegel.de/ausland/donald-trump-neffe-fred-c-trump-iii-will-fuer-kamala-harris-stimmen-a-9039581a-95fc-4b76-91f7-1606e3edae94#ref=rss)
+* [https://www.spiegel.de/ausland/israel-armee-offenbar-in-erhoehter-alarmbereitschaft-sorge-vor-gegenschlaegen](https://www.spiegel.de/ausland/israel-armee-offenbar-in-erhoehter-alarmbereitschaft-sorge-vor-gegenschlaegen-a-070a68b6-025c-4f7a-b20b-392a19708e72#ref=rss)
+* [https://www.spiegel.de/ausland/iran-tausende-bei-staatlicher-trauerfeier-fuer-hamas-anfuehrer-ismail-haniyyeh](https://www.spiegel.de/ausland/iran-tausende-bei-staatlicher-trauerfeier-fuer-hamas-anfuehrer-ismail-haniyyeh-a-753260e0-b7d9-47d0-9be0-3839fb1021ff#ref=rss)
 ### ismail
 
-* [https://www.spiegel.de/ausland/nahost-wer-ismail-haniyyeh-war-und-wofuer-er-stand](https://www.spiegel.de/ausland/nahost-wer-ismail-haniyyeh-war-und-wofuer-er-stand-a-7b56824f-c03e-4db9-9d31-c8db3da257ff#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-sorge-um-die-geiseln-in-gaza-was-die-welt-jetzt-tun-muss-um-sie-zu-retten](https://www.spiegel.de/ausland/israel-gaza-krieg-sorge-um-die-geiseln-in-gaza-was-die-welt-jetzt-tun-muss-um-sie-zu-retten-a-0c1a97a5-34d8-4659-bbd6-421abfd83d09#ref=rss)
+* [https://www.spiegel.de/ausland/iran-tausende-bei-staatlicher-trauerfeier-fuer-hamas-anfuehrer-ismail-haniyyeh](https://www.spiegel.de/ausland/iran-tausende-bei-staatlicher-trauerfeier-fuer-hamas-anfuehrer-ismail-haniyyeh-a-753260e0-b7d9-47d0-9be0-3839fb1021ff#ref=rss)
 ### haniyyeh
 
-* [https://www.spiegel.de/ausland/nahost-wer-ismail-haniyyeh-war-und-wofuer-er-stand](https://www.spiegel.de/ausland/nahost-wer-ismail-haniyyeh-war-und-wofuer-er-stand-a-7b56824f-c03e-4db9-9d31-c8db3da257ff#ref=rss)
-### führer
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-sorge-um-die-geiseln-in-gaza-was-die-welt-jetzt-tun-muss-um-sie-zu-retten](https://www.spiegel.de/ausland/israel-gaza-krieg-sorge-um-die-geiseln-in-gaza-was-die-welt-jetzt-tun-muss-um-sie-zu-retten-a-0c1a97a5-34d8-4659-bbd6-421abfd83d09#ref=rss)
+* [https://www.spiegel.de/ausland/iran-tausende-bei-staatlicher-trauerfeier-fuer-hamas-anfuehrer-ismail-haniyyeh](https://www.spiegel.de/ausland/iran-tausende-bei-staatlicher-trauerfeier-fuer-hamas-anfuehrer-ismail-haniyyeh-a-753260e0-b7d9-47d0-9be0-3839fb1021ff#ref=rss)
+### tausende
 
-* [https://www.spiegel.de/ausland/nahost-wer-ismail-haniyyeh-war-und-wofuer-er-stand](https://www.spiegel.de/ausland/nahost-wer-ismail-haniyyeh-war-und-wofuer-er-stand-a-7b56824f-c03e-4db9-9d31-c8db3da257ff#ref=rss)
-* [https://www.spiegel.de/politik/israel-gaza-konflikt-baerbock-appelliert-nach-angriffen-auf-hamas-und-hisbollah-zur-maessigung](https://www.spiegel.de/politik/israel-gaza-konflikt-baerbock-appelliert-nach-angriffen-auf-hamas-und-hisbollah-zur-maessigung-a-09e143bd-3020-4313-b12e-67ddb6dd7bad#ref=rss)
-### huw
+* [https://www.spiegel.de/ausland/iran-tausende-bei-staatlicher-trauerfeier-fuer-hamas-anfuehrer-ismail-haniyyeh](https://www.spiegel.de/ausland/iran-tausende-bei-staatlicher-trauerfeier-fuer-hamas-anfuehrer-ismail-haniyyeh-a-753260e0-b7d9-47d0-9be0-3839fb1021ff#ref=rss)
+* [https://www.spiegel.de/geschichte/80-jahrestag-des-warschauer-aufstands-als-die-polen-sich-gegen-die-nazis-wehrten](https://www.spiegel.de/geschichte/80-jahrestag-des-warschauer-aufstands-als-die-polen-sich-gegen-die-nazis-wehrten-a-d9ab85c4-85e5-4be9-8286-7af135949d12#ref=rss)
+### albanien
 
-* [https://www.spiegel.de/panorama/justiz/ex-bbc-moderator-gesteht-besitz-von-kindesmissbrauchs-clips](https://www.spiegel.de/panorama/justiz/ex-bbc-moderator-gesteht-besitz-von-kindesmissbrauchs-clips-a-ad81709c-05d1-4796-9744-1bd91d9f868b#ref=rss)
-### edwards
+* [https://www.spiegel.de/ausland/albanien-eroeffnung-von-italiens-fluechtlingslager-verzoegert-sich-weiter](https://www.spiegel.de/ausland/albanien-eroeffnung-von-italiens-fluechtlingslager-verzoegert-sich-weiter-a-73246650-4522-40e6-8868-8cde63da699f#ref=rss)
+### eröffnung
 
-* [https://www.spiegel.de/panorama/justiz/ex-bbc-moderator-gesteht-besitz-von-kindesmissbrauchs-clips](https://www.spiegel.de/panorama/justiz/ex-bbc-moderator-gesteht-besitz-von-kindesmissbrauchs-clips-a-ad81709c-05d1-4796-9744-1bd91d9f868b#ref=rss)
-### baerbock
+* [https://www.spiegel.de/ausland/albanien-eroeffnung-von-italiens-fluechtlingslager-verzoegert-sich-weiter](https://www.spiegel.de/ausland/albanien-eroeffnung-von-italiens-fluechtlingslager-verzoegert-sich-weiter-a-73246650-4522-40e6-8868-8cde63da699f#ref=rss)
+### italiens
 
-* [https://www.spiegel.de/politik/israel-gaza-konflikt-baerbock-appelliert-nach-angriffen-auf-hamas-und-hisbollah-zur-maessigung](https://www.spiegel.de/politik/israel-gaza-konflikt-baerbock-appelliert-nach-angriffen-auf-hamas-und-hisbollah-zur-maessigung-a-09e143bd-3020-4313-b12e-67ddb6dd7bad#ref=rss)
-### hisbollah
+* [https://www.spiegel.de/ausland/albanien-eroeffnung-von-italiens-fluechtlingslager-verzoegert-sich-weiter](https://www.spiegel.de/ausland/albanien-eroeffnung-von-italiens-fluechtlingslager-verzoegert-sich-weiter-a-73246650-4522-40e6-8868-8cde63da699f#ref=rss)
+### wirtschaft
 
-* [https://www.spiegel.de/politik/israel-gaza-konflikt-baerbock-appelliert-nach-angriffen-auf-hamas-und-hisbollah-zur-maessigung](https://www.spiegel.de/politik/israel-gaza-konflikt-baerbock-appelliert-nach-angriffen-auf-hamas-und-hisbollah-zur-maessigung-a-09e143bd-3020-4313-b12e-67ddb6dd7bad#ref=rss)
-### mäßigung
+* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-trotz-schrumpfung-ministerium-sieht-chancen-auf-kommendes-wachstum](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-trotz-schrumpfung-ministerium-sieht-chancen-auf-kommendes-wachstum-a-e5b82d3e-d92b-41b4-ac1c-f215af0235a2#ref=rss)
+### ministerium
 
-* [https://www.spiegel.de/politik/israel-gaza-konflikt-baerbock-appelliert-nach-angriffen-auf-hamas-und-hisbollah-zur-maessigung](https://www.spiegel.de/politik/israel-gaza-konflikt-baerbock-appelliert-nach-angriffen-auf-hamas-und-hisbollah-zur-maessigung-a-09e143bd-3020-4313-b12e-67ddb6dd7bad#ref=rss)
-### angestellte
+* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-trotz-schrumpfung-ministerium-sieht-chancen-auf-kommendes-wachstum](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-trotz-schrumpfung-ministerium-sieht-chancen-auf-kommendes-wachstum-a-e5b82d3e-d92b-41b4-ac1c-f215af0235a2#ref=rss)
+### wachstum
 
-* [https://www.spiegel.de/karriere/arbeitsrecht-angestellte-trotz-krankschreibung-auf-gartenparty-arbeitgeber-muss-ersatz-zahlen](https://www.spiegel.de/karriere/arbeitsrecht-angestellte-trotz-krankschreibung-auf-gartenparty-arbeitgeber-muss-ersatz-zahlen-a-62f40a5d-8514-48e5-86e1-ca3553dd9c7c#ref=rss)
-### gartenparty
+* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-trotz-schrumpfung-ministerium-sieht-chancen-auf-kommendes-wachstum](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-trotz-schrumpfung-ministerium-sieht-chancen-auf-kommendes-wachstum-a-e5b82d3e-d92b-41b4-ac1c-f215af0235a2#ref=rss)
+### kommenden
 
-* [https://www.spiegel.de/karriere/arbeitsrecht-angestellte-trotz-krankschreibung-auf-gartenparty-arbeitgeber-muss-ersatz-zahlen](https://www.spiegel.de/karriere/arbeitsrecht-angestellte-trotz-krankschreibung-auf-gartenparty-arbeitgeber-muss-ersatz-zahlen-a-62f40a5d-8514-48e5-86e1-ca3553dd9c7c#ref=rss)
-### arbeitgeber
+* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-trotz-schrumpfung-ministerium-sieht-chancen-auf-kommendes-wachstum](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-trotz-schrumpfung-ministerium-sieht-chancen-auf-kommendes-wachstum-a-e5b82d3e-d92b-41b4-ac1c-f215af0235a2#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-zum-wochenende-wird-wechselhaft](https://www.spiegel.de/panorama/wetter-zum-wochenende-wird-wechselhaft-a-43cafe68-c793-4810-b3fe-f4c467895b08#ref=rss)
+### leiden
 
-* [https://www.spiegel.de/karriere/arbeitsrecht-angestellte-trotz-krankschreibung-auf-gartenparty-arbeitgeber-muss-ersatz-zahlen](https://www.spiegel.de/karriere/arbeitsrecht-angestellte-trotz-krankschreibung-auf-gartenparty-arbeitgeber-muss-ersatz-zahlen-a-62f40a5d-8514-48e5-86e1-ca3553dd9c7c#ref=rss)
-### fröhlichen
+* [https://www.spiegel.de/sport/olympia/olympia-2024-wie-die-sommerspiele-den-paris-tourismus-killen](https://www.spiegel.de/sport/olympia/olympia-2024-wie-die-sommerspiele-den-paris-tourismus-killen-a-18e1fe14-1f6c-4163-b0ce-11b8be04db66#ref=rss)
+* [https://www.spiegel.de/karriere/arbeitsbelastung-in-deutschland-berufstaetige-leiden-haeufiger-unter-stress](https://www.spiegel.de/karriere/arbeitsbelastung-in-deutschland-berufstaetige-leiden-haeufiger-unter-stress-a-74aef233-93b2-4791-adf5-0ebcd89de2c1#ref=rss)
+### etwa
 
-* [https://www.spiegel.de/karriere/arbeitsrecht-angestellte-trotz-krankschreibung-auf-gartenparty-arbeitgeber-muss-ersatz-zahlen](https://www.spiegel.de/karriere/arbeitsrecht-angestellte-trotz-krankschreibung-auf-gartenparty-arbeitgeber-muss-ersatz-zahlen-a-62f40a5d-8514-48e5-86e1-ca3553dd9c7c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/taylor-swift-versteigerung-der-swiftkirchen-ortsschilder-erreicht-1400-gebote](https://www.spiegel.de/wirtschaft/taylor-swift-versteigerung-der-swiftkirchen-ortsschilder-erreicht-1400-gebote-a-bd02efcd-ebfa-4c4b-8dbf-31a8547265bf#ref=rss)
-### o2
+* [https://www.spiegel.de/sport/olympia/olympia-2024-wie-die-sommerspiele-den-paris-tourismus-killen](https://www.spiegel.de/sport/olympia/olympia-2024-wie-die-sommerspiele-den-paris-tourismus-killen-a-18e1fe14-1f6c-4163-b0ce-11b8be04db66#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/baywa-rettungsplan-fuer-agrarkonzern-zeichnet-sich-ab](https://www.spiegel.de/wirtschaft/unternehmen/baywa-rettungsplan-fuer-agrarkonzern-zeichnet-sich-ab-a-642a91d0-4704-4413-8912-32dfd86c4ab6#ref=rss)
+### deutschlands
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/o2-will-mehr-mobilfunk-masten-in-naturschutzgebieten-bauen](https://www.spiegel.de/netzwelt/netzpolitik/o2-will-mehr-mobilfunk-masten-in-naturschutzgebieten-bauen-a-d9cf5bcc-6215-4ad8-9e3b-a3c06618e858#ref=rss)
-### mobilfunkmasten
+* [https://www.spiegel.de/panorama/wetter-zum-wochenende-wird-wechselhaft](https://www.spiegel.de/panorama/wetter-zum-wochenende-wird-wechselhaft-a-43cafe68-c793-4810-b3fe-f4c467895b08#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/vonovia-daemmt-verluste-ein-preisverfall-bei-immobilien-ebbt-ab](https://www.spiegel.de/wirtschaft/unternehmen/vonovia-daemmt-verluste-ein-preisverfall-bei-immobilien-ebbt-ab-a-8a9ec220-dd1e-4b78-bd84-2bb997b1dc7e#ref=rss)
+### tagen
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/o2-will-mehr-mobilfunk-masten-in-naturschutzgebieten-bauen](https://www.spiegel.de/netzwelt/netzpolitik/o2-will-mehr-mobilfunk-masten-in-naturschutzgebieten-bauen-a-d9cf5bcc-6215-4ad8-9e3b-a3c06618e858#ref=rss)
-### taylor
+* [https://www.spiegel.de/panorama/wetter-zum-wochenende-wird-wechselhaft](https://www.spiegel.de/panorama/wetter-zum-wochenende-wird-wechselhaft-a-43cafe68-c793-4810-b3fe-f4c467895b08#ref=rss)
+* [https://www.spiegel.de/ausland/libanon-boris-pistorius-raet-deutschen-sofortige-ausreise](https://www.spiegel.de/ausland/libanon-boris-pistorius-raet-deutschen-sofortige-ausreise-a-84a0e730-791f-44ef-bc96-960321689a19#ref=rss)
+### ausbildungsplätze
 
-* [https://www.spiegel.de/wirtschaft/taylor-swift-versteigerung-der-swiftkirchen-ortsschilder-erreicht-1400-gebote](https://www.spiegel.de/wirtschaft/taylor-swift-versteigerung-der-swiftkirchen-ortsschilder-erreicht-1400-gebote-a-bd02efcd-ebfa-4c4b-8dbf-31a8547265bf#ref=rss)
-### swift
+* [https://www.spiegel.de/start/rekord-unbesetzter-ausbildungsplaetze-deutschland-akademisiert-sich-kaputt-kommentar](https://www.spiegel.de/start/rekord-unbesetzter-ausbildungsplaetze-deutschland-akademisiert-sich-kaputt-kommentar-a-6838503d-2f95-4366-9ed4-d666587ffd9e#ref=rss)
+### viele
 
-* [https://www.spiegel.de/wirtschaft/taylor-swift-versteigerung-der-swiftkirchen-ortsschilder-erreicht-1400-gebote](https://www.spiegel.de/wirtschaft/taylor-swift-versteigerung-der-swiftkirchen-ortsschilder-erreicht-1400-gebote-a-bd02efcd-ebfa-4c4b-8dbf-31a8547265bf#ref=rss)
+* [https://www.spiegel.de/start/rekord-unbesetzter-ausbildungsplaetze-deutschland-akademisiert-sich-kaputt-kommentar](https://www.spiegel.de/start/rekord-unbesetzter-ausbildungsplaetze-deutschland-akademisiert-sich-kaputt-kommentar-a-6838503d-2f95-4366-9ed4-d666587ffd9e#ref=rss)
+* [https://www.spiegel.de/ausland/hitze-und-wassermangel-im-donbass-wir-leben-wie-obdachlose-aus-kuebeln](https://www.spiegel.de/ausland/hitze-und-wassermangel-im-donbass-wir-leben-wie-obdachlose-aus-kuebeln-a-55fb48fe-d417-4f95-83d5-3e0cce009450#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/start/rekord-unbesetzter-ausbildungsplaetze-deutschland-akademisiert-sich-kaputt-kommentar](https://www.spiegel.de/start/rekord-unbesetzter-ausbildungsplaetze-deutschland-akademisiert-sich-kaputt-kommentar-a-6838503d-2f95-4366-9ed4-d666587ffd9e#ref=rss)
+* [https://www.spiegel.de/ausland/hitze-und-wassermangel-im-donbass-wir-leben-wie-obdachlose-aus-kuebeln](https://www.spiegel.de/ausland/hitze-und-wassermangel-im-donbass-wir-leben-wie-obdachlose-aus-kuebeln-a-55fb48fe-d417-4f95-83d5-3e0cce009450#ref=rss)
+### paul
+
+* [https://www.spiegel.de/ausland/paul-watson-japan-verlangt-von-daenemark-auslieferung-von-sea-shepherd-gruender](https://www.spiegel.de/ausland/paul-watson-japan-verlangt-von-daenemark-auslieferung-von-sea-shepherd-gruender-a-e88b6edc-5c35-456a-bdb2-5ac341058d3a#ref=rss)
+### watson
+
+* [https://www.spiegel.de/ausland/paul-watson-japan-verlangt-von-daenemark-auslieferung-von-sea-shepherd-gruender](https://www.spiegel.de/ausland/paul-watson-japan-verlangt-von-daenemark-auslieferung-von-sea-shepherd-gruender-a-e88b6edc-5c35-456a-bdb2-5ac341058d3a#ref=rss)
+### juli
+
+* [https://www.spiegel.de/ausland/paul-watson-japan-verlangt-von-daenemark-auslieferung-von-sea-shepherd-gruender](https://www.spiegel.de/ausland/paul-watson-japan-verlangt-von-daenemark-auslieferung-von-sea-shepherd-gruender-a-e88b6edc-5c35-456a-bdb2-5ac341058d3a#ref=rss)
+* [https://www.spiegel.de/panorama/augenblicke-die-bilder-des-tages-im-juli](https://www.spiegel.de/panorama/augenblicke-die-bilder-des-tages-im-juli-a-37866602-ead3-4980-8bdb-a90e888fc008#ref=rss)
+### gesehen
+
+* [https://www.spiegel.de/sport/olympia/olympia-2024-triathlet-tyler-mislawchuk-muss-sich-nach-wettkampf-uebergeben](https://www.spiegel.de/sport/olympia/olympia-2024-triathlet-tyler-mislawchuk-muss-sich-nach-wettkampf-uebergeben-a-15b09eb7-02bb-47f0-b914-c6ab512356aa#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2024-victor-wembanyama-fuehrte-frankreichs-basketballer-zu-zwei-siegen](https://www.spiegel.de/sport/olympia/olympia-2024-victor-wembanyama-fuehrte-frankreichs-basketballer-zu-zwei-siegen-a-e5cef357-5a5c-41e2-abb6-361e4128447a#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/sport/olympia/olympia-2024-triathlet-tyler-mislawchuk-muss-sich-nach-wettkampf-uebergeben](https://www.spiegel.de/sport/olympia/olympia-2024-triathlet-tyler-mislawchuk-muss-sich-nach-wettkampf-uebergeben-a-15b09eb7-02bb-47f0-b914-c6ab512356aa#ref=rss)
+* [https://www.spiegel.de/ausland/israel-armee-offenbar-in-erhoehter-alarmbereitschaft-sorge-vor-gegenschlaegen](https://www.spiegel.de/ausland/israel-armee-offenbar-in-erhoehter-alarmbereitschaft-sorge-vor-gegenschlaegen-a-070a68b6-025c-4f7a-b20b-392a19708e72#ref=rss)
+### vorbei
+
+* [https://www.spiegel.de/sport/olympia/olympia-2024-triathlet-tyler-mislawchuk-muss-sich-nach-wettkampf-uebergeben](https://www.spiegel.de/sport/olympia/olympia-2024-triathlet-tyler-mislawchuk-muss-sich-nach-wettkampf-uebergeben-a-15b09eb7-02bb-47f0-b914-c6ab512356aa#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/crowdstrike-zwei-wochen-nach-dem-it-debakel-ist-der-albtraum-nicht-vorbei](https://www.spiegel.de/netzwelt/web/crowdstrike-zwei-wochen-nach-dem-it-debakel-ist-der-albtraum-nicht-vorbei-a-53751450-4335-4668-a94c-cbb4154935b4#ref=rss)
+### baywa
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/baywa-rettungsplan-fuer-agrarkonzern-zeichnet-sich-ab](https://www.spiegel.de/wirtschaft/unternehmen/baywa-rettungsplan-fuer-agrarkonzern-zeichnet-sich-ab-a-642a91d0-4704-4413-8912-32dfd86c4ab6#ref=rss)
+### rettungsplan
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/baywa-rettungsplan-fuer-agrarkonzern-zeichnet-sich-ab](https://www.spiegel.de/wirtschaft/unternehmen/baywa-rettungsplan-fuer-agrarkonzern-zeichnet-sich-ab-a-642a91d0-4704-4413-8912-32dfd86c4ab6#ref=rss)
+### agrarkonzern
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/baywa-rettungsplan-fuer-agrarkonzern-zeichnet-sich-ab](https://www.spiegel.de/wirtschaft/unternehmen/baywa-rettungsplan-fuer-agrarkonzern-zeichnet-sich-ab-a-642a91d0-4704-4413-8912-32dfd86c4ab6#ref=rss)
+### hoch
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/baywa-rettungsplan-fuer-agrarkonzern-zeichnet-sich-ab](https://www.spiegel.de/wirtschaft/unternehmen/baywa-rettungsplan-fuer-agrarkonzern-zeichnet-sich-ab-a-642a91d0-4704-4413-8912-32dfd86c4ab6#ref=rss)
+* [https://www.spiegel.de/karriere/arbeitsbelastung-in-deutschland-berufstaetige-leiden-haeufiger-unter-stress](https://www.spiegel.de/karriere/arbeitsbelastung-in-deutschland-berufstaetige-leiden-haeufiger-unter-stress-a-74aef233-93b2-4791-adf5-0ebcd89de2c1#ref=rss)
+### mesut
+
+* [https://www.spiegel.de/sport/fussball/mesut-oezil-scharfe-kritik-an-israelfeindlichem-instagram-post](https://www.spiegel.de/sport/fussball/mesut-oezil-scharfe-kritik-an-israelfeindlichem-instagram-post-a-e6761816-e60f-48bb-9a63-717b66d0923e#ref=rss)
+### özil
+
+* [https://www.spiegel.de/sport/fussball/mesut-oezil-scharfe-kritik-an-israelfeindlichem-instagram-post](https://www.spiegel.de/sport/fussball/mesut-oezil-scharfe-kritik-an-israelfeindlichem-instagram-post-a-e6761816-e60f-48bb-9a63-717b66d0923e#ref=rss)
+### nationalspieler
+
+* [https://www.spiegel.de/sport/fussball/mesut-oezil-scharfe-kritik-an-israelfeindlichem-instagram-post](https://www.spiegel.de/sport/fussball/mesut-oezil-scharfe-kritik-an-israelfeindlichem-instagram-post-a-e6761816-e60f-48bb-9a63-717b66d0923e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bundesliga-borussia-dortmund-verpflichtet-nationalspieler-pascal-gross](https://www.spiegel.de/sport/fussball/bundesliga-borussia-dortmund-verpflichtet-nationalspieler-pascal-gross-a-8d590331-8f1e-4959-91d0-9e8319adee36#ref=rss)
+### martina
+
+* [https://www.spiegel.de/kultur/literatur/martina-bogdahn-mit-muehlensommer-ein-bauernhof-zum-lesen](https://www.spiegel.de/kultur/literatur/martina-bogdahn-mit-muehlensommer-ein-bauernhof-zum-lesen-a-422de8e4-aafb-4fcb-a67b-04d63431c604#ref=rss)
+### mühlensommer
+
+* [https://www.spiegel.de/kultur/literatur/martina-bogdahn-mit-muehlensommer-ein-bauernhof-zum-lesen](https://www.spiegel.de/kultur/literatur/martina-bogdahn-mit-muehlensommer-ein-bauernhof-zum-lesen-a-422de8e4-aafb-4fcb-a67b-04d63431c604#ref=rss)
+### bauernhof
+
+* [https://www.spiegel.de/kultur/literatur/martina-bogdahn-mit-muehlensommer-ein-bauernhof-zum-lesen](https://www.spiegel.de/kultur/literatur/martina-bogdahn-mit-muehlensommer-ein-bauernhof-zum-lesen-a-422de8e4-aafb-4fcb-a67b-04d63431c604#ref=rss)
+### wir
+
+* [https://www.spiegel.de/ausland/hitze-und-wassermangel-im-donbass-wir-leben-wie-obdachlose-aus-kuebeln](https://www.spiegel.de/ausland/hitze-und-wassermangel-im-donbass-wir-leben-wie-obdachlose-aus-kuebeln-a-55fb48fe-d417-4f95-83d5-3e0cce009450#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/loop-earplugs-was-ist-dran-am-hype-um-die-ohrstoepsel](https://www.spiegel.de/wirtschaft/unternehmen/loop-earplugs-was-ist-dran-am-hype-um-die-ohrstoepsel-a-6edc77a6-afc1-4ed0-8f02-824d4a85e93f#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/ausland/hitze-und-wassermangel-im-donbass-wir-leben-wie-obdachlose-aus-kuebeln](https://www.spiegel.de/ausland/hitze-und-wassermangel-im-donbass-wir-leben-wie-obdachlose-aus-kuebeln-a-55fb48fe-d417-4f95-83d5-3e0cce009450#ref=rss)
+* [https://www.spiegel.de/ausland/iran-tausende-bei-staatlicher-trauerfeier-fuer-hamas-anfuehrer-ismail-haniyyeh](https://www.spiegel.de/ausland/iran-tausende-bei-staatlicher-trauerfeier-fuer-hamas-anfuehrer-ismail-haniyyeh-a-753260e0-b7d9-47d0-9be0-3839fb1021ff#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/hitze-und-wassermangel-im-donbass-wir-leben-wie-obdachlose-aus-kuebeln](https://www.spiegel.de/ausland/hitze-und-wassermangel-im-donbass-wir-leben-wie-obdachlose-aus-kuebeln-a-55fb48fe-d417-4f95-83d5-3e0cce009450#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/ausland/hitze-und-wassermangel-im-donbass-wir-leben-wie-obdachlose-aus-kuebeln](https://www.spiegel.de/ausland/hitze-und-wassermangel-im-donbass-wir-leben-wie-obdachlose-aus-kuebeln-a-55fb48fe-d417-4f95-83d5-3e0cce009450#ref=rss)
+* [https://www.spiegel.de/geschichte/80-jahrestag-des-warschauer-aufstands-als-die-polen-sich-gegen-die-nazis-wehrten](https://www.spiegel.de/geschichte/80-jahrestag-des-warschauer-aufstands-als-die-polen-sich-gegen-die-nazis-wehrten-a-d9ab85c4-85e5-4be9-8286-7af135949d12#ref=rss)
+### häufiger
+
+* [https://www.spiegel.de/karriere/arbeitsbelastung-in-deutschland-berufstaetige-leiden-haeufiger-unter-stress](https://www.spiegel.de/karriere/arbeitsbelastung-in-deutschland-berufstaetige-leiden-haeufiger-unter-stress-a-74aef233-93b2-4791-adf5-0ebcd89de2c1#ref=rss)
+### ohrstöpsel
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/loop-earplugs-was-ist-dran-am-hype-um-die-ohrstoepsel](https://www.spiegel.de/wirtschaft/unternehmen/loop-earplugs-was-ist-dran-am-hype-um-die-ohrstoepsel-a-6edc77a6-afc1-4ed0-8f02-824d4a85e93f#ref=rss)
+### victor
+
+* [https://www.spiegel.de/sport/olympia/olympia-2024-victor-wembanyama-fuehrte-frankreichs-basketballer-zu-zwei-siegen](https://www.spiegel.de/sport/olympia/olympia-2024-victor-wembanyama-fuehrte-frankreichs-basketballer-zu-zwei-siegen-a-e5cef357-5a5c-41e2-abb6-361e4128447a#ref=rss)
+### wembanyama
+
+* [https://www.spiegel.de/sport/olympia/olympia-2024-victor-wembanyama-fuehrte-frankreichs-basketballer-zu-zwei-siegen](https://www.spiegel.de/sport/olympia/olympia-2024-victor-wembanyama-fuehrte-frankreichs-basketballer-zu-zwei-siegen-a-e5cef357-5a5c-41e2-abb6-361e4128447a#ref=rss)
+### basketballer
+
+* [https://www.spiegel.de/sport/olympia/olympia-2024-victor-wembanyama-fuehrte-frankreichs-basketballer-zu-zwei-siegen](https://www.spiegel.de/sport/olympia/olympia-2024-victor-wembanyama-fuehrte-frankreichs-basketballer-zu-zwei-siegen-a-e5cef357-5a5c-41e2-abb6-361e4128447a#ref=rss)
+### felsbrocken
+
+* [https://www.spiegel.de/panorama/oberstdorf-felsbrocken-erschlaegt-38-jaehrigen-wanderer](https://www.spiegel.de/panorama/oberstdorf-felsbrocken-erschlaegt-38-jaehrigen-wanderer-a-62e8d75b-5483-4b75-9705-d65b64ca10e3#ref=rss)
+### gewitters
+
+* [https://www.spiegel.de/panorama/oberstdorf-felsbrocken-erschlaegt-38-jaehrigen-wanderer](https://www.spiegel.de/panorama/oberstdorf-felsbrocken-erschlaegt-38-jaehrigen-wanderer-a-62e8d75b-5483-4b75-9705-d65b64ca10e3#ref=rss)
+### sechs
+
+* [https://www.spiegel.de/panorama/oberstdorf-felsbrocken-erschlaegt-38-jaehrigen-wanderer](https://www.spiegel.de/panorama/oberstdorf-felsbrocken-erschlaegt-38-jaehrigen-wanderer-a-62e8d75b-5483-4b75-9705-d65b64ca10e3#ref=rss)
+* [https://www.spiegel.de/ausland/hamas-israel-meldet-tod-von-kommandant-mohammed-deif](https://www.spiegel.de/ausland/hamas-israel-meldet-tod-von-kommandant-mohammed-deif-a-b6a7e34d-be56-4a7d-8e7d-76ac1ae3ed10#ref=rss)
+### armee
+
+* [https://www.spiegel.de/ausland/israel-armee-offenbar-in-erhoehter-alarmbereitschaft-sorge-vor-gegenschlaegen](https://www.spiegel.de/ausland/israel-armee-offenbar-in-erhoehter-alarmbereitschaft-sorge-vor-gegenschlaegen-a-070a68b6-025c-4f7a-b20b-392a19708e72#ref=rss)
+* [https://www.spiegel.de/ausland/hamas-israel-meldet-tod-von-kommandant-mohammed-deif](https://www.spiegel.de/ausland/hamas-israel-meldet-tod-von-kommandant-mohammed-deif-a-b6a7e34d-be56-4a7d-8e7d-76ac1ae3ed10#ref=rss)
+### terrorführer
+
+* [https://www.spiegel.de/ausland/israel-armee-offenbar-in-erhoehter-alarmbereitschaft-sorge-vor-gegenschlaegen](https://www.spiegel.de/ausland/israel-armee-offenbar-in-erhoehter-alarmbereitschaft-sorge-vor-gegenschlaegen-a-070a68b6-025c-4f7a-b20b-392a19708e72#ref=rss)
+* [https://www.spiegel.de/ausland/libanon-boris-pistorius-raet-deutschen-sofortige-ausreise](https://www.spiegel.de/ausland/libanon-boris-pistorius-raet-deutschen-sofortige-ausreise-a-84a0e730-791f-44ef-bc96-960321689a19#ref=rss)
+### sharon
+
+* [https://www.spiegel.de/panorama/leute/sharon-stone-macht-urlaub-in-der-tuerkei-und-kommt-mit-blauem-auge-davon](https://www.spiegel.de/panorama/leute/sharon-stone-macht-urlaub-in-der-tuerkei-und-kommt-mit-blauem-auge-davon-a-8acd6916-d5a7-443b-a78f-4aad331a2dfc#ref=rss)
+### crowdstrike
+
+* [https://www.spiegel.de/netzwelt/web/crowdstrike-zwei-wochen-nach-dem-it-debakel-ist-der-albtraum-nicht-vorbei](https://www.spiegel.de/netzwelt/web/crowdstrike-zwei-wochen-nach-dem-it-debakel-ist-der-albtraum-nicht-vorbei-a-53751450-4335-4668-a94c-cbb4154935b4#ref=rss)
+### wochen
+
+* [https://www.spiegel.de/netzwelt/web/crowdstrike-zwei-wochen-nach-dem-it-debakel-ist-der-albtraum-nicht-vorbei](https://www.spiegel.de/netzwelt/web/crowdstrike-zwei-wochen-nach-dem-it-debakel-ist-der-albtraum-nicht-vorbei-a-53751450-4335-4668-a94c-cbb4154935b4#ref=rss)
+* [https://www.spiegel.de/ausland/hamas-israel-meldet-tod-von-kommandant-mohammed-deif](https://www.spiegel.de/ausland/hamas-israel-meldet-tod-von-kommandant-mohammed-deif-a-b6a7e34d-be56-4a7d-8e7d-76ac1ae3ed10#ref=rss)
+### eigenen
+
+* [https://www.spiegel.de/netzwelt/web/crowdstrike-zwei-wochen-nach-dem-it-debakel-ist-der-albtraum-nicht-vorbei](https://www.spiegel.de/netzwelt/web/crowdstrike-zwei-wochen-nach-dem-it-debakel-ist-der-albtraum-nicht-vorbei-a-53751450-4335-4668-a94c-cbb4154935b4#ref=rss)
+* [https://www.spiegel.de/sport/schwimmen-bei-olympia-2024-isabel-gose-holt-bronze-ich-muss-jetzt-weinen](https://www.spiegel.de/sport/schwimmen-bei-olympia-2024-isabel-gose-holt-bronze-ich-muss-jetzt-weinen-a-0f3a13e7-e135-49e6-ba52-dfc478c35153#ref=rss)
+### borussia
+
+* [https://www.spiegel.de/sport/fussball/bundesliga-borussia-dortmund-verpflichtet-nationalspieler-pascal-gross](https://www.spiegel.de/sport/fussball/bundesliga-borussia-dortmund-verpflichtet-nationalspieler-pascal-gross-a-8d590331-8f1e-4959-91d0-9e8319adee36#ref=rss)
+### dortmund
+
+* [https://www.spiegel.de/sport/fussball/bundesliga-borussia-dortmund-verpflichtet-nationalspieler-pascal-gross](https://www.spiegel.de/sport/fussball/bundesliga-borussia-dortmund-verpflichtet-nationalspieler-pascal-gross-a-8d590331-8f1e-4959-91d0-9e8319adee36#ref=rss)
+### verpflichtet
+
+* [https://www.spiegel.de/sport/fussball/bundesliga-borussia-dortmund-verpflichtet-nationalspieler-pascal-gross](https://www.spiegel.de/sport/fussball/bundesliga-borussia-dortmund-verpflichtet-nationalspieler-pascal-gross-a-8d590331-8f1e-4959-91d0-9e8319adee36#ref=rss)
+### pascal
+
+* [https://www.spiegel.de/sport/fussball/bundesliga-borussia-dortmund-verpflichtet-nationalspieler-pascal-gross](https://www.spiegel.de/sport/fussball/bundesliga-borussia-dortmund-verpflichtet-nationalspieler-pascal-gross-a-8d590331-8f1e-4959-91d0-9e8319adee36#ref=rss)
+### groß
+
+* [https://www.spiegel.de/sport/fussball/bundesliga-borussia-dortmund-verpflichtet-nationalspieler-pascal-gross](https://www.spiegel.de/sport/fussball/bundesliga-borussia-dortmund-verpflichtet-nationalspieler-pascal-gross-a-8d590331-8f1e-4959-91d0-9e8319adee36#ref=rss)
+### hamas
+
+* [https://www.spiegel.de/ausland/hamas-israel-meldet-tod-von-kommandant-mohammed-deif](https://www.spiegel.de/ausland/hamas-israel-meldet-tod-von-kommandant-mohammed-deif-a-b6a7e34d-be56-4a7d-8e7d-76ac1ae3ed10#ref=rss)
+* [https://www.spiegel.de/ausland/iran-tausende-bei-staatlicher-trauerfeier-fuer-hamas-anfuehrer-ismail-haniyyeh](https://www.spiegel.de/ausland/iran-tausende-bei-staatlicher-trauerfeier-fuer-hamas-anfuehrer-ismail-haniyyeh-a-753260e0-b7d9-47d0-9be0-3839fb1021ff#ref=rss)
+### mohammed
+
+* [https://www.spiegel.de/ausland/hamas-israel-meldet-tod-von-kommandant-mohammed-deif](https://www.spiegel.de/ausland/hamas-israel-meldet-tod-von-kommandant-mohammed-deif-a-b6a7e34d-be56-4a7d-8e7d-76ac1ae3ed10#ref=rss)
+### deif
+
+* [https://www.spiegel.de/ausland/hamas-israel-meldet-tod-von-kommandant-mohammed-deif](https://www.spiegel.de/ausland/hamas-israel-meldet-tod-von-kommandant-mohammed-deif-a-b6a7e34d-be56-4a7d-8e7d-76ac1ae3ed10#ref=rss)
+### 2023
+
+* [https://www.spiegel.de/ausland/hamas-israel-meldet-tod-von-kommandant-mohammed-deif](https://www.spiegel.de/ausland/hamas-israel-meldet-tod-von-kommandant-mohammed-deif-a-b6a7e34d-be56-4a7d-8e7d-76ac1ae3ed10#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/vonovia-daemmt-verluste-ein-preisverfall-bei-immobilien-ebbt-ab](https://www.spiegel.de/wirtschaft/unternehmen/vonovia-daemmt-verluste-ein-preisverfall-bei-immobilien-ebbt-ab-a-8a9ec220-dd1e-4b78-bd84-2bb997b1dc7e#ref=rss)
+### geiseln
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-sorge-um-die-geiseln-in-gaza-was-die-welt-jetzt-tun-muss-um-sie-zu-retten](https://www.spiegel.de/ausland/israel-gaza-krieg-sorge-um-die-geiseln-in-gaza-was-die-welt-jetzt-tun-muss-um-sie-zu-retten-a-0c1a97a5-34d8-4659-bbd6-421abfd83d09#ref=rss)
+### gaza
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-sorge-um-die-geiseln-in-gaza-was-die-welt-jetzt-tun-muss-um-sie-zu-retten](https://www.spiegel.de/ausland/israel-gaza-krieg-sorge-um-die-geiseln-in-gaza-was-die-welt-jetzt-tun-muss-um-sie-zu-retten-a-0c1a97a5-34d8-4659-bbd6-421abfd83d09#ref=rss)
+### retten
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-sorge-um-die-geiseln-in-gaza-was-die-welt-jetzt-tun-muss-um-sie-zu-retten](https://www.spiegel.de/ausland/israel-gaza-krieg-sorge-um-die-geiseln-in-gaza-was-die-welt-jetzt-tun-muss-um-sie-zu-retten-a-0c1a97a5-34d8-4659-bbd6-421abfd83d09#ref=rss)
+### tötung
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-sorge-um-die-geiseln-in-gaza-was-die-welt-jetzt-tun-muss-um-sie-zu-retten](https://www.spiegel.de/ausland/israel-gaza-krieg-sorge-um-die-geiseln-in-gaza-was-die-welt-jetzt-tun-muss-um-sie-zu-retten-a-0c1a97a5-34d8-4659-bbd6-421abfd83d09#ref=rss)
+* [https://www.spiegel.de/ausland/libanon-boris-pistorius-raet-deutschen-sofortige-ausreise](https://www.spiegel.de/ausland/libanon-boris-pistorius-raet-deutschen-sofortige-ausreise-a-84a0e730-791f-44ef-bc96-960321689a19#ref=rss)
+### immobilienkonzern
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/vonovia-daemmt-verluste-ein-preisverfall-bei-immobilien-ebbt-ab](https://www.spiegel.de/wirtschaft/unternehmen/vonovia-daemmt-verluste-ein-preisverfall-bei-immobilien-ebbt-ab-a-8a9ec220-dd1e-4b78-bd84-2bb997b1dc7e#ref=rss)
+### verluste
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/vonovia-daemmt-verluste-ein-preisverfall-bei-immobilien-ebbt-ab](https://www.spiegel.de/wirtschaft/unternehmen/vonovia-daemmt-verluste-ein-preisverfall-bei-immobilien-ebbt-ab-a-8a9ec220-dd1e-4b78-bd84-2bb997b1dc7e#ref=rss)
+### weniger
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/vonovia-daemmt-verluste-ein-preisverfall-bei-immobilien-ebbt-ab](https://www.spiegel.de/wirtschaft/unternehmen/vonovia-daemmt-verluste-ein-preisverfall-bei-immobilien-ebbt-ab-a-8a9ec220-dd1e-4b78-bd84-2bb997b1dc7e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-macht-weniger-gewinn](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-macht-weniger-gewinn-a-904bcb1d-611b-4b27-8464-10e5d0859a19#ref=rss)
+### pistorius
+
+* [https://www.spiegel.de/ausland/libanon-boris-pistorius-raet-deutschen-sofortige-ausreise](https://www.spiegel.de/ausland/libanon-boris-pistorius-raet-deutschen-sofortige-ausreise-a-84a0e730-791f-44ef-bc96-960321689a19#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/ausland/libanon-boris-pistorius-raet-deutschen-sofortige-ausreise](https://www.spiegel.de/ausland/libanon-boris-pistorius-raet-deutschen-sofortige-ausreise-a-84a0e730-791f-44ef-bc96-960321689a19#ref=rss)
+* [https://www.spiegel.de/geschichte/80-jahrestag-des-warschauer-aufstands-als-die-polen-sich-gegen-die-nazis-wehrten](https://www.spiegel.de/geschichte/80-jahrestag-des-warschauer-aufstands-als-die-polen-sich-gegen-die-nazis-wehrten-a-d9ab85c4-85e5-4be9-8286-7af135949d12#ref=rss)
+### ausreise
+
+* [https://www.spiegel.de/ausland/libanon-boris-pistorius-raet-deutschen-sofortige-ausreise](https://www.spiegel.de/ausland/libanon-boris-pistorius-raet-deutschen-sofortige-ausreise-a-84a0e730-791f-44ef-bc96-960321689a19#ref=rss)
+### vw
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-macht-weniger-gewinn](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-macht-weniger-gewinn-a-904bcb1d-611b-4b27-8464-10e5d0859a19#ref=rss)
+### volkswagen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-macht-weniger-gewinn](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-macht-weniger-gewinn-a-904bcb1d-611b-4b27-8464-10e5d0859a19#ref=rss)
+### trauerfeier
+
+* [https://www.spiegel.de/ausland/iran-tausende-bei-staatlicher-trauerfeier-fuer-hamas-anfuehrer-ismail-haniyyeh](https://www.spiegel.de/ausland/iran-tausende-bei-staatlicher-trauerfeier-fuer-hamas-anfuehrer-ismail-haniyyeh-a-753260e0-b7d9-47d0-9be0-3839fb1021ff#ref=rss)
+### isabel
+
+* [https://www.spiegel.de/sport/schwimmen-bei-olympia-2024-isabel-gose-holt-bronze-ich-muss-jetzt-weinen](https://www.spiegel.de/sport/schwimmen-bei-olympia-2024-isabel-gose-holt-bronze-ich-muss-jetzt-weinen-a-0f3a13e7-e135-49e6-ba52-dfc478c35153#ref=rss)
+### gose
+
+* [https://www.spiegel.de/sport/schwimmen-bei-olympia-2024-isabel-gose-holt-bronze-ich-muss-jetzt-weinen](https://www.spiegel.de/sport/schwimmen-bei-olympia-2024-isabel-gose-holt-bronze-ich-muss-jetzt-weinen-a-0f3a13e7-e135-49e6-ba52-dfc478c35153#ref=rss)
+### 80
+
+* [https://www.spiegel.de/geschichte/80-jahrestag-des-warschauer-aufstands-als-die-polen-sich-gegen-die-nazis-wehrten](https://www.spiegel.de/geschichte/80-jahrestag-des-warschauer-aufstands-als-die-polen-sich-gegen-die-nazis-wehrten-a-d9ab85c4-85e5-4be9-8286-7af135949d12#ref=rss)
+### nazis
+
+* [https://www.spiegel.de/geschichte/80-jahrestag-des-warschauer-aufstands-als-die-polen-sich-gegen-die-nazis-wehrten](https://www.spiegel.de/geschichte/80-jahrestag-des-warschauer-aufstands-als-die-polen-sich-gegen-die-nazis-wehrten-a-d9ab85c4-85e5-4be9-8286-7af135949d12#ref=rss)
+### afd
+
+* [https://www.spiegel.de/ausland/afd-was-sich-von-den-us-demokraten-fuer-den-kampf-gegen-die-afd-lernen-laesst](https://www.spiegel.de/ausland/afd-was-sich-von-den-us-demokraten-fuer-den-kampf-gegen-die-afd-lernen-laesst-a-329af64e-e7e9-4e0b-b6b6-cc99ebc8dfa3#ref=rss)
+### usdemokraten
+
+* [https://www.spiegel.de/ausland/afd-was-sich-von-den-us-demokraten-fuer-den-kampf-gegen-die-afd-lernen-laesst](https://www.spiegel.de/ausland/afd-was-sich-von-den-us-demokraten-fuer-den-kampf-gegen-die-afd-lernen-laesst-a-329af64e-e7e9-4e0b-b6b6-cc99ebc8dfa3#ref=rss)
 
