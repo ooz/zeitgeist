@@ -4,81 +4,328 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
-
-* [https://www.spiegel.de/ausland/venezuela-deutschland-und-andere-eu-staaten-verlangen-von-nicolas-maduro-wahltransparenz](https://www.spiegel.de/ausland/venezuela-deutschland-und-andere-eu-staaten-verlangen-von-nicolas-maduro-wahltransparenz-a-d443b3f0-a4cc-4c75-b41c-82e62d776c35#ref=rss)
-* [https://www.spiegel.de/panorama/oesterreich-wanderer-aus-deutschland-in-tirol-von-kuehen-schwer-verletzt](https://www.spiegel.de/panorama/oesterreich-wanderer-aus-deutschland-in-tirol-von-kuehen-schwer-verletzt-a-73b8aa35-31a8-40b2-8588-81cf79787fb7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-historiker-jan-c-behrends-kritisiert-parteifuehrung-in-debatte-ueber-us-raketen](https://www.spiegel.de/politik/deutschland/spd-historiker-jan-c-behrends-kritisiert-parteifuehrung-in-debatte-ueber-us-raketen-a-97e6569e-117c-469e-b1e8-32928daf3ad7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/martin-sellner-polizei-beendet-lesung-in-neulingen-in-baden-wuerttemberg](https://www.spiegel.de/politik/deutschland/martin-sellner-polizei-beendet-lesung-in-neulingen-in-baden-wuerttemberg-a-5521a220-f881-472f-82d9-8aa85cec7cd6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/israel-droht-vergeltung-durch-iran-cdu-fordert-beteiligung-der-bundeswehr-zum-schutz](https://www.spiegel.de/politik/deutschland/israel-droht-vergeltung-durch-iran-cdu-fordert-beteiligung-der-bundeswehr-zum-schutz-a-c8d546a2-e916-45aa-aaa3-e45a3c6fcf04#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-annelena-baerbock-verteidigt-us-langstreckenwaffen-in-deutschland](https://www.spiegel.de/politik/deutschland/ukraine-krieg-annelena-baerbock-verteidigt-us-langstreckenwaffen-in-deutschland-a-c00c9ce7-c8a2-47b6-8ddb-3c9e3b87880d#ref=rss)
-### kamala
-
-* [https://www.spiegel.de/ausland/kamala-harris-hoffnungstraegerin-im-kampf-gegen-das-abtreibungsverbot](https://www.spiegel.de/ausland/kamala-harris-hoffnungstraegerin-im-kampf-gegen-das-abtreibungsverbot-a-778de858-0075-4449-9f0d-f31b1bcea4f4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-kamala-harris-vs-donald-trump-schutz-vor-der-sonne](https://www.spiegel.de/politik/deutschland/news-kamala-harris-vs-donald-trump-schutz-vor-der-sonne-a-bbd97686-091c-4736-b8d4-e6a156e681a0#ref=rss)
-* [https://www.spiegel.de/ausland/kamala-harris-ehemann-doug-emhoff-bestaetigt-nach-medienbericht-affaere-waehrend-erster-ehe](https://www.spiegel.de/ausland/kamala-harris-ehemann-doug-emhoff-bestaetigt-nach-medienbericht-affaere-waehrend-erster-ehe-a-814e9033-7d6c-47f0-8c64-b8279417c5e8#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-jimmy-carter-will-bis-zur-wahl-durchhalten-um-fuer-kamala-harris-zu-stimmen](https://www.spiegel.de/ausland/us-wahl-2024-jimmy-carter-will-bis-zur-wahl-durchhalten-um-fuer-kamala-harris-zu-stimmen-a-af050ce2-49d3-4c89-851c-2aa0533fdcc2#ref=rss)
-### harris
-
-* [https://www.spiegel.de/ausland/kamala-harris-hoffnungstraegerin-im-kampf-gegen-das-abtreibungsverbot](https://www.spiegel.de/ausland/kamala-harris-hoffnungstraegerin-im-kampf-gegen-das-abtreibungsverbot-a-778de858-0075-4449-9f0d-f31b1bcea4f4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-kamala-harris-vs-donald-trump-schutz-vor-der-sonne](https://www.spiegel.de/politik/deutschland/news-kamala-harris-vs-donald-trump-schutz-vor-der-sonne-a-bbd97686-091c-4736-b8d4-e6a156e681a0#ref=rss)
-* [https://www.spiegel.de/ausland/kamala-harris-ehemann-doug-emhoff-bestaetigt-nach-medienbericht-affaere-waehrend-erster-ehe](https://www.spiegel.de/ausland/kamala-harris-ehemann-doug-emhoff-bestaetigt-nach-medienbericht-affaere-waehrend-erster-ehe-a-814e9033-7d6c-47f0-8c64-b8279417c5e8#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-jimmy-carter-will-bis-zur-wahl-durchhalten-um-fuer-kamala-harris-zu-stimmen](https://www.spiegel.de/ausland/us-wahl-2024-jimmy-carter-will-bis-zur-wahl-durchhalten-um-fuer-kamala-harris-zu-stimmen-a-af050ce2-49d3-4c89-851c-2aa0533fdcc2#ref=rss)
 ### olympia
 
+* [https://www.spiegel.de/sport/olympia/olympia-2024-novak-djokovic-besiegt-carlos-alcaraz-und-kroent-sich-zum-tennis-olympiasieger](https://www.spiegel.de/sport/olympia/olympia-2024-novak-djokovic-besiegt-carlos-alcaraz-und-kroent-sich-zum-tennis-olympiasieger-a-19eeabf6-e681-4707-8de9-4af7cf0a9b3f#ref=rss)
+* [https://www.spiegel.de/sport/olympia-2024-novak-djokovic-besiegt-carlos-alcaraz-und-kroent-sich-zum-tennis-olympiasieger](https://www.spiegel.de/sport/olympia-2024-novak-djokovic-besiegt-carlos-alcaraz-und-kroent-sich-zum-tennis-olympiasieger-a-407da670-d8ec-4603-9a89-b619b538e2ae#ref=rss)
+* [https://www.spiegel.de/psychologie/olympia-2024-europameisterschaft-wieso-uns-sport-seit-jeher-fasziniert](https://www.spiegel.de/psychologie/olympia-2024-europameisterschaft-wieso-uns-sport-seit-jeher-fasziniert-a-aa2ff71a-1c55-4073-b991-f50c6b9495bd#ref=rss)
+* [https://www.spiegel.de/sport/olympia-2024-warum-es-in-paris-nur-ein-team-grossbritannien-gibt](https://www.spiegel.de/sport/olympia-2024-warum-es-in-paris-nur-ein-team-grossbritannien-gibt-a-719ce777-7f3f-485d-875c-e1ad97613e92#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2024-laura-ludwig-beendet-ihre-grosse-karriere](https://www.spiegel.de/sport/olympia/olympia-2024-laura-ludwig-beendet-ihre-grosse-karriere-a-45edb6f4-7b07-48a1-a803-6c372292cdda#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2024-jessica-von-bredow-werndl-verteidigt-dressur-gold-isabell-werth-holt-silber](https://www.spiegel.de/sport/olympia/olympia-2024-jessica-von-bredow-werndl-verteidigt-dressur-gold-isabell-werth-holt-silber-a-f5694aec-5c3c-4294-8638-0d9c4c7d66ea#ref=rss)
 * [https://www.spiegel.de/sport/olympia-2024-das-sind-die-lieblinge-des-internets](https://www.spiegel.de/sport/olympia-2024-das-sind-die-lieblinge-des-internets-a-99d06db5-b339-4ecf-afa0-560bad0d1106#ref=rss)
-* [https://www.spiegel.de/sport/olympia/taiwan-bei-olympia-2024-aussenministerium-verurteilt-fan-vorfall-in-paris](https://www.spiegel.de/sport/olympia/taiwan-bei-olympia-2024-aussenministerium-verurteilt-fan-vorfall-in-paris-a-2fc57770-ce2c-4c1b-bf04-4dce386c5c36#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2024-eine-brise-formel-1-kitesurfer-jannis-maus-im-portraet](https://www.spiegel.de/sport/olympia/olympia-2024-eine-brise-formel-1-kitesurfer-jannis-maus-im-portraet-a-49e11b7e-f9d8-4618-b347-16a577637c2c#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2024-leo-neugebauer-holt-silber-im-zehnkampf-ein-geschenk-fuer-die-leichtathletik](https://www.spiegel.de/sport/olympia/olympia-2024-leo-neugebauer-holt-silber-im-zehnkampf-ein-geschenk-fuer-die-leichtathletik-a-5e6a1093-38ea-4ac6-9421-edb9498479fe#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/cholon-bei-tel-aviv-palaestinensischer-angreifer-toetet-zwei-israelis](https://www.spiegel.de/ausland/cholon-bei-tel-aviv-palaestinensischer-angreifer-toetet-zwei-israelis-a-0fc1f553-9768-43b2-a7bb-4daf5d585cef#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/israel-droht-vergeltung-durch-iran-cdu-fordert-beteiligung-der-bundeswehr-zum-schutz](https://www.spiegel.de/politik/deutschland/israel-droht-vergeltung-durch-iran-cdu-fordert-beteiligung-der-bundeswehr-zum-schutz-a-c8d546a2-e916-45aa-aaa3-e45a3c6fcf04#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-nahost-hisbollah-feuert-50-raketen-auf-norden-von-israel-ab](https://www.spiegel.de/ausland/krieg-in-nahost-hisbollah-feuert-50-raketen-auf-norden-von-israel-ab-a-43714b20-b694-4a54-a276-373089cf6e8d#ref=rss)
 ### 2024
 
+* [https://www.spiegel.de/sport/olympia/olympia-2024-novak-djokovic-besiegt-carlos-alcaraz-und-kroent-sich-zum-tennis-olympiasieger](https://www.spiegel.de/sport/olympia/olympia-2024-novak-djokovic-besiegt-carlos-alcaraz-und-kroent-sich-zum-tennis-olympiasieger-a-19eeabf6-e681-4707-8de9-4af7cf0a9b3f#ref=rss)
+* [https://www.spiegel.de/sport/olympia-2024-novak-djokovic-besiegt-carlos-alcaraz-und-kroent-sich-zum-tennis-olympiasieger](https://www.spiegel.de/sport/olympia-2024-novak-djokovic-besiegt-carlos-alcaraz-und-kroent-sich-zum-tennis-olympiasieger-a-407da670-d8ec-4603-9a89-b619b538e2ae#ref=rss)
+* [https://www.spiegel.de/psychologie/olympia-2024-europameisterschaft-wieso-uns-sport-seit-jeher-fasziniert](https://www.spiegel.de/psychologie/olympia-2024-europameisterschaft-wieso-uns-sport-seit-jeher-fasziniert-a-aa2ff71a-1c55-4073-b991-f50c6b9495bd#ref=rss)
+* [https://www.spiegel.de/sport/olympia-2024-warum-es-in-paris-nur-ein-team-grossbritannien-gibt](https://www.spiegel.de/sport/olympia-2024-warum-es-in-paris-nur-ein-team-grossbritannien-gibt-a-719ce777-7f3f-485d-875c-e1ad97613e92#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2024-laura-ludwig-beendet-ihre-grosse-karriere](https://www.spiegel.de/sport/olympia/olympia-2024-laura-ludwig-beendet-ihre-grosse-karriere-a-45edb6f4-7b07-48a1-a803-6c372292cdda#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2024-jessica-von-bredow-werndl-verteidigt-dressur-gold-isabell-werth-holt-silber](https://www.spiegel.de/sport/olympia/olympia-2024-jessica-von-bredow-werndl-verteidigt-dressur-gold-isabell-werth-holt-silber-a-f5694aec-5c3c-4294-8638-0d9c4c7d66ea#ref=rss)
 * [https://www.spiegel.de/sport/olympia-2024-das-sind-die-lieblinge-des-internets](https://www.spiegel.de/sport/olympia-2024-das-sind-die-lieblinge-des-internets-a-99d06db5-b339-4ecf-afa0-560bad0d1106#ref=rss)
-* [https://www.spiegel.de/sport/olympia/taiwan-bei-olympia-2024-aussenministerium-verurteilt-fan-vorfall-in-paris](https://www.spiegel.de/sport/olympia/taiwan-bei-olympia-2024-aussenministerium-verurteilt-fan-vorfall-in-paris-a-2fc57770-ce2c-4c1b-bf04-4dce386c5c36#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2024-eine-brise-formel-1-kitesurfer-jannis-maus-im-portraet](https://www.spiegel.de/sport/olympia/olympia-2024-eine-brise-formel-1-kitesurfer-jannis-maus-im-portraet-a-49e11b7e-f9d8-4618-b347-16a577637c2c#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2024-leo-neugebauer-holt-silber-im-zehnkampf-ein-geschenk-fuer-die-leichtathletik](https://www.spiegel.de/sport/olympia/olympia-2024-leo-neugebauer-holt-silber-im-zehnkampf-ein-geschenk-fuer-die-leichtathletik-a-5e6a1093-38ea-4ac6-9421-edb9498479fe#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-jimmy-carter-will-bis-zur-wahl-durchhalten-um-fuer-kamala-harris-zu-stimmen](https://www.spiegel.de/ausland/us-wahl-2024-jimmy-carter-will-bis-zur-wahl-durchhalten-um-fuer-kamala-harris-zu-stimmen-a-af050ce2-49d3-4c89-851c-2aa0533fdcc2#ref=rss)
-### woche
+### waren
 
-* [https://www.spiegel.de/karriere/raetsel-der-woche-zahlentrio-gesucht](https://www.spiegel.de/karriere/raetsel-der-woche-zahlentrio-gesucht-a-6b6c2f54-9bb1-493c-a8bb-e76a95c982ec#ref=rss)
-* [https://www.spiegel.de/kultur/princess-charming-are-you-the-one-realitystars-in-love-ruetzels-recap](https://www.spiegel.de/kultur/princess-charming-are-you-the-one-realitystars-in-love-ruetzels-recap-a-69ffbb17-4933-4661-b5c8-17af6eedaa93#ref=rss)
-* [https://www.spiegel.de/ausland/kamala-harris-hoffnungstraegerin-im-kampf-gegen-das-abtreibungsverbot](https://www.spiegel.de/ausland/kamala-harris-hoffnungstraegerin-im-kampf-gegen-das-abtreibungsverbot-a-778de858-0075-4449-9f0d-f31b1bcea4f4#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/deutsche-bahn-bekennerschreiben-nach-braenden-an-bahnstrecken-aufgetaucht](https://www.spiegel.de/panorama/justiz/deutsche-bahn-bekennerschreiben-nach-braenden-an-bahnstrecken-aufgetaucht-a-92c8082b-3b64-49c9-b209-6e96ae8697ea#ref=rss)
-### verteidigt
+* [https://www.spiegel.de/ausland/haeusliche-gewalt-in-rumaenien-und-moldau-sie-toeteten-ihre-maenner-um-zu-leben](https://www.spiegel.de/ausland/haeusliche-gewalt-in-rumaenien-und-moldau-sie-toeteten-ihre-maenner-um-zu-leben-a-437cd7d6-c0cc-4892-9aff-86d6f88618a8#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2024-laura-ludwig-beendet-ihre-grosse-karriere](https://www.spiegel.de/sport/olympia/olympia-2024-laura-ludwig-beendet-ihre-grosse-karriere-a-45edb6f4-7b07-48a1-a803-6c372292cdda#ref=rss)
+* [https://www.spiegel.de/panorama/leute/tim-maelzer-ueber-zeit-in-der-spitzengastronomie-wir-waren-rassistisch-wir-waren-sexistisch-wir-waren-alles](https://www.spiegel.de/panorama/leute/tim-maelzer-ueber-zeit-in-der-spitzengastronomie-wir-waren-rassistisch-wir-waren-sexistisch-wir-waren-alles-a-4362c5bc-ed0e-45a0-9147-ada83aecd526#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/ausland/kamala-harris-ehemann-doug-emhoff-bestaetigt-nach-medienbericht-affaere-waehrend-erster-ehe](https://www.spiegel.de/ausland/kamala-harris-ehemann-doug-emhoff-bestaetigt-nach-medienbericht-affaere-waehrend-erster-ehe-a-814e9033-7d6c-47f0-8c64-b8279417c5e8#ref=rss)
-* [https://www.spiegel.de/karriere/niedersachsen-stephan-weil-verteidigt-gehaltserhoehung-von-bueroleiterin](https://www.spiegel.de/karriere/niedersachsen-stephan-weil-verteidigt-gehaltserhoehung-von-bueroleiterin-a-003aa689-5e98-46a8-a286-bc8f615e719f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-annelena-baerbock-verteidigt-us-langstreckenwaffen-in-deutschland](https://www.spiegel.de/politik/deutschland/ukraine-krieg-annelena-baerbock-verteidigt-us-langstreckenwaffen-in-deutschland-a-c00c9ce7-c8a2-47b6-8ddb-3c9e3b87880d#ref=rss)
+* [https://www.spiegel.de/ausland/schweden-bandenkriminalitaet-und-toedliche-schusswaffen-eine-reportage-von-spiegel-tv](https://www.spiegel.de/ausland/schweden-bandenkriminalitaet-und-toedliche-schusswaffen-eine-reportage-von-spiegel-tv-a-86248569-c88d-4db9-9e0b-0e51755e6d2e#ref=rss)
+* [https://www.spiegel.de/panorama/muenchen-abbrechender-ast-verletzt-zwei-menschen-im-englischen-garten](https://www.spiegel.de/panorama/muenchen-abbrechender-ast-verletzt-zwei-menschen-im-englischen-garten-a-6a5a258c-04c6-4074-84b9-319a7a640ac0#ref=rss)
+* [https://www.spiegel.de/ausland/bangladesch-proteste-geraten-zunehmend-ausser-kontrolle-mehr-als-40-tote-am-wochenende](https://www.spiegel.de/ausland/bangladesch-proteste-geraten-zunehmend-ausser-kontrolle-mehr-als-40-tote-am-wochenende-a-6afedc4b-c280-4db2-82b9-fcdadc2b60a9#ref=rss)
+### novak
+
+* [https://www.spiegel.de/sport/olympia/olympia-2024-novak-djokovic-besiegt-carlos-alcaraz-und-kroent-sich-zum-tennis-olympiasieger](https://www.spiegel.de/sport/olympia/olympia-2024-novak-djokovic-besiegt-carlos-alcaraz-und-kroent-sich-zum-tennis-olympiasieger-a-19eeabf6-e681-4707-8de9-4af7cf0a9b3f#ref=rss)
+* [https://www.spiegel.de/sport/olympia-2024-novak-djokovic-besiegt-carlos-alcaraz-und-kroent-sich-zum-tennis-olympiasieger](https://www.spiegel.de/sport/olympia-2024-novak-djokovic-besiegt-carlos-alcaraz-und-kroent-sich-zum-tennis-olympiasieger-a-407da670-d8ec-4603-9a89-b619b538e2ae#ref=rss)
+### djokovic
+
+* [https://www.spiegel.de/sport/olympia/olympia-2024-novak-djokovic-besiegt-carlos-alcaraz-und-kroent-sich-zum-tennis-olympiasieger](https://www.spiegel.de/sport/olympia/olympia-2024-novak-djokovic-besiegt-carlos-alcaraz-und-kroent-sich-zum-tennis-olympiasieger-a-19eeabf6-e681-4707-8de9-4af7cf0a9b3f#ref=rss)
+* [https://www.spiegel.de/sport/olympia-2024-novak-djokovic-besiegt-carlos-alcaraz-und-kroent-sich-zum-tennis-olympiasieger](https://www.spiegel.de/sport/olympia-2024-novak-djokovic-besiegt-carlos-alcaraz-und-kroent-sich-zum-tennis-olympiasieger-a-407da670-d8ec-4603-9a89-b619b538e2ae#ref=rss)
+### carlos
+
+* [https://www.spiegel.de/sport/olympia/olympia-2024-novak-djokovic-besiegt-carlos-alcaraz-und-kroent-sich-zum-tennis-olympiasieger](https://www.spiegel.de/sport/olympia/olympia-2024-novak-djokovic-besiegt-carlos-alcaraz-und-kroent-sich-zum-tennis-olympiasieger-a-19eeabf6-e681-4707-8de9-4af7cf0a9b3f#ref=rss)
+* [https://www.spiegel.de/sport/olympia-2024-novak-djokovic-besiegt-carlos-alcaraz-und-kroent-sich-zum-tennis-olympiasieger](https://www.spiegel.de/sport/olympia-2024-novak-djokovic-besiegt-carlos-alcaraz-und-kroent-sich-zum-tennis-olympiasieger-a-407da670-d8ec-4603-9a89-b619b538e2ae#ref=rss)
+### alcaraz
+
+* [https://www.spiegel.de/sport/olympia/olympia-2024-novak-djokovic-besiegt-carlos-alcaraz-und-kroent-sich-zum-tennis-olympiasieger](https://www.spiegel.de/sport/olympia/olympia-2024-novak-djokovic-besiegt-carlos-alcaraz-und-kroent-sich-zum-tennis-olympiasieger-a-19eeabf6-e681-4707-8de9-4af7cf0a9b3f#ref=rss)
+* [https://www.spiegel.de/sport/olympia-2024-novak-djokovic-besiegt-carlos-alcaraz-und-kroent-sich-zum-tennis-olympiasieger](https://www.spiegel.de/sport/olympia-2024-novak-djokovic-besiegt-carlos-alcaraz-und-kroent-sich-zum-tennis-olympiasieger-a-407da670-d8ec-4603-9a89-b619b538e2ae#ref=rss)
+### wir
+
+* [https://www.spiegel.de/psychologie/olympia-2024-europameisterschaft-wieso-uns-sport-seit-jeher-fasziniert](https://www.spiegel.de/psychologie/olympia-2024-europameisterschaft-wieso-uns-sport-seit-jeher-fasziniert-a-aa2ff71a-1c55-4073-b991-f50c6b9495bd#ref=rss)
+* [https://www.spiegel.de/panorama/leute/tim-maelzer-ueber-zeit-in-der-spitzengastronomie-wir-waren-rassistisch-wir-waren-sexistisch-wir-waren-alles](https://www.spiegel.de/panorama/leute/tim-maelzer-ueber-zeit-in-der-spitzengastronomie-wir-waren-rassistisch-wir-waren-sexistisch-wir-waren-alles-a-4362c5bc-ed0e-45a0-9147-ada83aecd526#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/donald-trump-verfahren-wird-fortgefuehrt](https://www.spiegel.de/ausland/donald-trump-verfahren-wird-fortgefuehrt-a-b4351520-9946-4030-81b7-3869e810843e#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wie-der-ex-praesident-und-die-maga-bewegung-zur-freakshow-werden](https://www.spiegel.de/ausland/donald-trump-wie-der-ex-praesident-und-die-maga-bewegung-zur-freakshow-werden-a-3ef5d619-c17c-4259-8529-053dfffc965d#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/ausland/schweden-bandenkriminalitaet-und-toedliche-schusswaffen-eine-reportage-von-spiegel-tv](https://www.spiegel.de/ausland/schweden-bandenkriminalitaet-und-toedliche-schusswaffen-eine-reportage-von-spiegel-tv-a-86248569-c88d-4db9-9e0b-0e51755e6d2e#ref=rss)
+* [https://www.spiegel.de/ausland/bangladesch-proteste-geraten-zunehmend-ausser-kontrolle-mehr-als-40-tote-am-wochenende](https://www.spiegel.de/ausland/bangladesch-proteste-geraten-zunehmend-ausser-kontrolle-mehr-als-40-tote-am-wochenende-a-6afedc4b-c280-4db2-82b9-fcdadc2b60a9#ref=rss)
+* [https://www.spiegel.de/netzwelt/wacken-vs-taylor-swift-metal-fans-verbrauchen-mehr-handydaten](https://www.spiegel.de/netzwelt/wacken-vs-taylor-swift-metal-fans-verbrauchen-mehr-handydaten-a-a449db63-b307-49b2-b18a-7a837f191b7b#ref=rss)
+### krönt
+
+* [https://www.spiegel.de/sport/olympia/olympia-2024-novak-djokovic-besiegt-carlos-alcaraz-und-kroent-sich-zum-tennis-olympiasieger](https://www.spiegel.de/sport/olympia/olympia-2024-novak-djokovic-besiegt-carlos-alcaraz-und-kroent-sich-zum-tennis-olympiasieger-a-19eeabf6-e681-4707-8de9-4af7cf0a9b3f#ref=rss)
+* [https://www.spiegel.de/sport/olympia-2024-novak-djokovic-besiegt-carlos-alcaraz-und-kroent-sich-zum-tennis-olympiasieger](https://www.spiegel.de/sport/olympia-2024-novak-djokovic-besiegt-carlos-alcaraz-und-kroent-sich-zum-tennis-olympiasieger-a-407da670-d8ec-4603-9a89-b619b538e2ae#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2024-jessica-von-bredow-werndl-verteidigt-dressur-gold-isabell-werth-holt-silber](https://www.spiegel.de/sport/olympia/olympia-2024-jessica-von-bredow-werndl-verteidigt-dressur-gold-isabell-werth-holt-silber-a-f5694aec-5c3c-4294-8638-0d9c4c7d66ea#ref=rss)
+### tennisolympiasieger
+
+* [https://www.spiegel.de/sport/olympia/olympia-2024-novak-djokovic-besiegt-carlos-alcaraz-und-kroent-sich-zum-tennis-olympiasieger](https://www.spiegel.de/sport/olympia/olympia-2024-novak-djokovic-besiegt-carlos-alcaraz-und-kroent-sich-zum-tennis-olympiasieger-a-19eeabf6-e681-4707-8de9-4af7cf0a9b3f#ref=rss)
+* [https://www.spiegel.de/sport/olympia-2024-novak-djokovic-besiegt-carlos-alcaraz-und-kroent-sich-zum-tennis-olympiasieger](https://www.spiegel.de/sport/olympia-2024-novak-djokovic-besiegt-carlos-alcaraz-und-kroent-sich-zum-tennis-olympiasieger-a-407da670-d8ec-4603-9a89-b619b538e2ae#ref=rss)
+### männer
+
+* [https://www.spiegel.de/panorama/justiz/maenner-in-oslo-wohl-aufgrund-sexueller-orientierung-verletzt](https://www.spiegel.de/panorama/justiz/maenner-in-oslo-wohl-aufgrund-sexueller-orientierung-verletzt-a-b7eb0d83-61c6-4985-8a13-3bd7af92f72a#ref=rss)
+* [https://www.spiegel.de/ausland/haeusliche-gewalt-in-rumaenien-und-moldau-sie-toeteten-ihre-maenner-um-zu-leben](https://www.spiegel.de/ausland/haeusliche-gewalt-in-rumaenien-und-moldau-sie-toeteten-ihre-maenner-um-zu-leben-a-437cd7d6-c0cc-4892-9aff-86d6f88618a8#ref=rss)
+### verletzt
+
+* [https://www.spiegel.de/panorama/justiz/maenner-in-oslo-wohl-aufgrund-sexueller-orientierung-verletzt](https://www.spiegel.de/panorama/justiz/maenner-in-oslo-wohl-aufgrund-sexueller-orientierung-verletzt-a-b7eb0d83-61c6-4985-8a13-3bd7af92f72a#ref=rss)
+* [https://www.spiegel.de/panorama/muenchen-abbrechender-ast-verletzt-zwei-menschen-im-englischen-garten](https://www.spiegel.de/panorama/muenchen-abbrechender-ast-verletzt-zwei-menschen-im-englischen-garten-a-6a5a258c-04c6-4074-84b9-319a7a640ac0#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/panorama/justiz/maenner-in-oslo-wohl-aufgrund-sexueller-orientierung-verletzt](https://www.spiegel.de/panorama/justiz/maenner-in-oslo-wohl-aufgrund-sexueller-orientierung-verletzt-a-b7eb0d83-61c6-4985-8a13-3bd7af92f72a#ref=rss)
+* [https://www.spiegel.de/panorama/muenchen-abbrechender-ast-verletzt-zwei-menschen-im-englischen-garten](https://www.spiegel.de/panorama/muenchen-abbrechender-ast-verletzt-zwei-menschen-im-englischen-garten-a-6a5a258c-04c6-4074-84b9-319a7a640ac0#ref=rss)
+### erste
+
+* [https://www.spiegel.de/panorama/justiz/maenner-in-oslo-wohl-aufgrund-sexueller-orientierung-verletzt](https://www.spiegel.de/panorama/justiz/maenner-in-oslo-wohl-aufgrund-sexueller-orientierung-verletzt-a-b7eb0d83-61c6-4985-8a13-3bd7af92f72a#ref=rss)
+* [https://www.spiegel.de/ausland/f-16-kampfjets-wolodymyr-selenskyj-stellt-neue-flugzeuge-vor](https://www.spiegel.de/ausland/f-16-kampfjets-wolodymyr-selenskyj-stellt-neue-flugzeuge-vor-a-5ed8b5c0-9a64-432e-ac71-f510f52aa9bc#ref=rss)
+* [https://www.spiegel.de/sport/olympia-2024-das-sind-die-lieblinge-des-internets](https://www.spiegel.de/sport/olympia-2024-das-sind-die-lieblinge-des-internets-a-99d06db5-b339-4ecf-afa0-560bad0d1106#ref=rss)
+### gelsenkirchen
+
+* [https://www.spiegel.de/netzwelt/wacken-vs-taylor-swift-metal-fans-verbrauchen-mehr-handydaten](https://www.spiegel.de/netzwelt/wacken-vs-taylor-swift-metal-fans-verbrauchen-mehr-handydaten-a-a449db63-b307-49b2-b18a-7a837f191b7b#ref=rss)
+* [https://www.spiegel.de/panorama/gelsenkirchen-dreijaehriger-nach-intensiver-suche-im-eigenen-haus-gefunden](https://www.spiegel.de/panorama/gelsenkirchen-dreijaehriger-nach-intensiver-suche-im-eigenen-haus-gefunden-a-0f12bd5b-3962-4d03-9550-af55adcf6a95#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/anne-frank-statue-in-amsterdam-mit-roter-farbe-beschmiert](https://www.spiegel.de/panorama/anne-frank-statue-in-amsterdam-mit-roter-farbe-beschmiert-a-a5224ef1-9206-45cb-bbff-3978f228426c#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/limbach-oberfrohna-siebenkoepfige-schwanenfamilie-haelt-polizei-auf-trab](https://www.spiegel.de/panorama/gesellschaft/limbach-oberfrohna-siebenkoepfige-schwanenfamilie-haelt-polizei-auf-trab-a-29f65ce7-0baf-48f7-976f-c931a75df501#ref=rss)
+### alle
+
+* [https://www.spiegel.de/psychologie/olympia-2024-europameisterschaft-wieso-uns-sport-seit-jeher-fasziniert](https://www.spiegel.de/psychologie/olympia-2024-europameisterschaft-wieso-uns-sport-seit-jeher-fasziniert-a-aa2ff71a-1c55-4073-b991-f50c6b9495bd#ref=rss)
+* [https://www.spiegel.de/ausland/haeusliche-gewalt-in-rumaenien-und-moldau-sie-toeteten-ihre-maenner-um-zu-leben](https://www.spiegel.de/ausland/haeusliche-gewalt-in-rumaenien-und-moldau-sie-toeteten-ihre-maenner-um-zu-leben-a-437cd7d6-c0cc-4892-9aff-86d6f88618a8#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wie-der-ex-praesident-und-die-maga-bewegung-zur-freakshow-werden](https://www.spiegel.de/ausland/donald-trump-wie-der-ex-praesident-und-die-maga-bewegung-zur-freakshow-werden-a-3ef5d619-c17c-4259-8529-053dfffc965d#ref=rss)
+### gewalt
+
+* [https://www.spiegel.de/ausland/haeusliche-gewalt-in-rumaenien-und-moldau-sie-toeteten-ihre-maenner-um-zu-leben](https://www.spiegel.de/ausland/haeusliche-gewalt-in-rumaenien-und-moldau-sie-toeteten-ihre-maenner-um-zu-leben-a-437cd7d6-c0cc-4892-9aff-86d6f88618a8#ref=rss)
+* [https://www.spiegel.de/panorama/leute/tim-maelzer-ueber-zeit-in-der-spitzengastronomie-wir-waren-rassistisch-wir-waren-sexistisch-wir-waren-alles](https://www.spiegel.de/panorama/leute/tim-maelzer-ueber-zeit-in-der-spitzengastronomie-wir-waren-rassistisch-wir-waren-sexistisch-wir-waren-alles-a-4362c5bc-ed0e-45a0-9147-ada83aecd526#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/donald-trump-verfahren-wird-fortgefuehrt](https://www.spiegel.de/ausland/donald-trump-verfahren-wird-fortgefuehrt-a-b4351520-9946-4030-81b7-3869e810843e#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wie-der-ex-praesident-und-die-maga-bewegung-zur-freakshow-werden](https://www.spiegel.de/ausland/donald-trump-wie-der-ex-praesident-und-die-maga-bewegung-zur-freakshow-werden-a-3ef5d619-c17c-4259-8529-053dfffc965d#ref=rss)
+### paris
+
+* [https://www.spiegel.de/sport/olympia-2024-warum-es-in-paris-nur-ein-team-grossbritannien-gibt](https://www.spiegel.de/sport/olympia-2024-warum-es-in-paris-nur-ein-team-grossbritannien-gibt-a-719ce777-7f3f-485d-875c-e1ad97613e92#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2024-laura-ludwig-beendet-ihre-grosse-karriere](https://www.spiegel.de/sport/olympia/olympia-2024-laura-ludwig-beendet-ihre-grosse-karriere-a-45edb6f4-7b07-48a1-a803-6c372292cdda#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2024-jessica-von-bredow-werndl-verteidigt-dressur-gold-isabell-werth-holt-silber](https://www.spiegel.de/sport/olympia/olympia-2024-jessica-von-bredow-werndl-verteidigt-dressur-gold-isabell-werth-holt-silber-a-f5694aec-5c3c-4294-8638-0d9c4c7d66ea#ref=rss)
+### ludwig
+
+* [https://www.spiegel.de/sport/olympia/olympia-2024-laura-ludwig-beendet-ihre-grosse-karriere](https://www.spiegel.de/sport/olympia/olympia-2024-laura-ludwig-beendet-ihre-grosse-karriere-a-45edb6f4-7b07-48a1-a803-6c372292cdda#ref=rss)
+### gold
+
+* [https://www.spiegel.de/sport/olympia/olympia-2024-laura-ludwig-beendet-ihre-grosse-karriere](https://www.spiegel.de/sport/olympia/olympia-2024-laura-ludwig-beendet-ihre-grosse-karriere-a-45edb6f4-7b07-48a1-a803-6c372292cdda#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2024-jessica-von-bredow-werndl-verteidigt-dressur-gold-isabell-werth-holt-silber](https://www.spiegel.de/sport/olympia/olympia-2024-jessica-von-bredow-werndl-verteidigt-dressur-gold-isabell-werth-holt-silber-a-f5694aec-5c3c-4294-8638-0d9c4c7d66ea#ref=rss)
 ### jahres
 
 * [https://www.spiegel.de/sport/fussball/toni-kroos-zum-fussballer-des-jahres-gewaehlt-xabi-alonso-ist-trainer-des-jahres](https://www.spiegel.de/sport/fussball/toni-kroos-zum-fussballer-des-jahres-gewaehlt-xabi-alonso-ist-trainer-des-jahres-a-9a6f6c93-cd68-4b6a-a978-d0ba499dfcfa#ref=rss)
-### österreich
+### schweden
 
-* [https://www.spiegel.de/panorama/oesterreich-wanderer-aus-deutschland-in-tirol-von-kuehen-schwer-verletzt](https://www.spiegel.de/panorama/oesterreich-wanderer-aus-deutschland-in-tirol-von-kuehen-schwer-verletzt-a-73b8aa35-31a8-40b2-8588-81cf79787fb7#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/exodus-europaeischer-juden-1947-ueber-oesterreich-und-italien-flucht-auf-2634-meter](https://www.spiegel.de/panorama/gesellschaft/exodus-europaeischer-juden-1947-ueber-oesterreich-und-italien-flucht-auf-2634-meter-a-9011000a-b319-4156-9a97-9816d39b1ab1#ref=rss)
-### mehr
+* [https://www.spiegel.de/ausland/schweden-bandenkriminalitaet-und-toedliche-schusswaffen-eine-reportage-von-spiegel-tv](https://www.spiegel.de/ausland/schweden-bandenkriminalitaet-und-toedliche-schusswaffen-eine-reportage-von-spiegel-tv-a-86248569-c88d-4db9-9e0b-0e51755e6d2e#ref=rss)
+### schusswaffen
 
-* [https://www.spiegel.de/ausland/kamala-harris-hoffnungstraegerin-im-kampf-gegen-das-abtreibungsverbot](https://www.spiegel.de/ausland/kamala-harris-hoffnungstraegerin-im-kampf-gegen-das-abtreibungsverbot-a-778de858-0075-4449-9f0d-f31b1bcea4f4#ref=rss)
-* [https://www.spiegel.de/stil/im-garten-aelterer-frauen-ueber-wild-wuchernde-pflanzen-und-besondere-baeume](https://www.spiegel.de/stil/im-garten-aelterer-frauen-ueber-wild-wuchernde-pflanzen-und-besondere-baeume-a-833417e9-f2d8-4a18-b7e9-f9239cea1713#ref=rss)
-### polizei
+* [https://www.spiegel.de/ausland/schweden-bandenkriminalitaet-und-toedliche-schusswaffen-eine-reportage-von-spiegel-tv](https://www.spiegel.de/ausland/schweden-bandenkriminalitaet-und-toedliche-schusswaffen-eine-reportage-von-spiegel-tv-a-86248569-c88d-4db9-9e0b-0e51755e6d2e#ref=rss)
+### spiegel
 
-* [https://www.spiegel.de/politik/deutschland/martin-sellner-polizei-beendet-lesung-in-neulingen-in-baden-wuerttemberg](https://www.spiegel.de/politik/deutschland/martin-sellner-polizei-beendet-lesung-in-neulingen-in-baden-wuerttemberg-a-5521a220-f881-472f-82d9-8aa85cec7cd6#ref=rss)
-* [https://www.spiegel.de/ausland/cholon-bei-tel-aviv-palaestinensischer-angreifer-toetet-zwei-israelis](https://www.spiegel.de/ausland/cholon-bei-tel-aviv-palaestinensischer-angreifer-toetet-zwei-israelis-a-0fc1f553-9768-43b2-a7bb-4daf5d585cef#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/deutsche-bahn-bekennerschreiben-nach-braenden-an-bahnstrecken-aufgetaucht](https://www.spiegel.de/panorama/justiz/deutsche-bahn-bekennerschreiben-nach-braenden-an-bahnstrecken-aufgetaucht-a-92c8082b-3b64-49c9-b209-6e96ae8697ea#ref=rss)
-### zwei
+* [https://www.spiegel.de/ausland/schweden-bandenkriminalitaet-und-toedliche-schusswaffen-eine-reportage-von-spiegel-tv](https://www.spiegel.de/ausland/schweden-bandenkriminalitaet-und-toedliche-schusswaffen-eine-reportage-von-spiegel-tv-a-86248569-c88d-4db9-9e0b-0e51755e6d2e#ref=rss)
+### tv
 
-* [https://www.spiegel.de/sport/olympia/taiwan-bei-olympia-2024-aussenministerium-verurteilt-fan-vorfall-in-paris](https://www.spiegel.de/sport/olympia/taiwan-bei-olympia-2024-aussenministerium-verurteilt-fan-vorfall-in-paris-a-2fc57770-ce2c-4c1b-bf04-4dce386c5c36#ref=rss)
-* [https://www.spiegel.de/ausland/cholon-bei-tel-aviv-palaestinensischer-angreifer-toetet-zwei-israelis](https://www.spiegel.de/ausland/cholon-bei-tel-aviv-palaestinensischer-angreifer-toetet-zwei-israelis-a-0fc1f553-9768-43b2-a7bb-4daf5d585cef#ref=rss)
-* [https://www.spiegel.de/sport/imane-khelif-kontroverse-im-olympia-boxen-schuetzt-endlich-den-frauensport](https://www.spiegel.de/sport/imane-khelif-kontroverse-im-olympia-boxen-schuetzt-endlich-den-frauensport-a-7279a7cc-2eda-4213-9a60-760a9819654d#ref=rss)
-### deutsche
+* [https://www.spiegel.de/ausland/schweden-bandenkriminalitaet-und-toedliche-schusswaffen-eine-reportage-von-spiegel-tv](https://www.spiegel.de/ausland/schweden-bandenkriminalitaet-und-toedliche-schusswaffen-eine-reportage-von-spiegel-tv-a-86248569-c88d-4db9-9e0b-0e51755e6d2e#ref=rss)
+### anderen
 
-* [https://www.spiegel.de/sport/olympia/olympia-2024-eine-brise-formel-1-kitesurfer-jannis-maus-im-portraet](https://www.spiegel.de/sport/olympia/olympia-2024-eine-brise-formel-1-kitesurfer-jannis-maus-im-portraet-a-49e11b7e-f9d8-4618-b347-16a577637c2c#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2024-leo-neugebauer-holt-silber-im-zehnkampf-ein-geschenk-fuer-die-leichtathletik](https://www.spiegel.de/sport/olympia/olympia-2024-leo-neugebauer-holt-silber-im-zehnkampf-ein-geschenk-fuer-die-leichtathletik-a-5e6a1093-38ea-4ac6-9421-edb9498479fe#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/deutsche-bahn-bekennerschreiben-nach-braenden-an-bahnstrecken-aufgetaucht](https://www.spiegel.de/panorama/justiz/deutsche-bahn-bekennerschreiben-nach-braenden-an-bahnstrecken-aufgetaucht-a-92c8082b-3b64-49c9-b209-6e96ae8697ea#ref=rss)
+* [https://www.spiegel.de/ausland/schweden-bandenkriminalitaet-und-toedliche-schusswaffen-eine-reportage-von-spiegel-tv](https://www.spiegel.de/ausland/schweden-bandenkriminalitaet-und-toedliche-schusswaffen-eine-reportage-von-spiegel-tv-a-86248569-c88d-4db9-9e0b-0e51755e6d2e#ref=rss)
+* [https://www.spiegel.de/psychologie/olympia-2024-europameisterschaft-wieso-uns-sport-seit-jeher-fasziniert](https://www.spiegel.de/psychologie/olympia-2024-europameisterschaft-wieso-uns-sport-seit-jeher-fasziniert-a-aa2ff71a-1c55-4073-b991-f50c6b9495bd#ref=rss)
+### jugendliche
+
+* [https://www.spiegel.de/ausland/schweden-bandenkriminalitaet-und-toedliche-schusswaffen-eine-reportage-von-spiegel-tv](https://www.spiegel.de/ausland/schweden-bandenkriminalitaet-und-toedliche-schusswaffen-eine-reportage-von-spiegel-tv-a-86248569-c88d-4db9-9e0b-0e51755e6d2e#ref=rss)
+* [https://www.spiegel.de/panorama/leute/harry-und-meghan-gruenden-elternnetzwerk-gegen-cyber-mobbing](https://www.spiegel.de/panorama/leute/harry-und-meghan-gruenden-elternnetzwerk-gegen-cyber-mobbing-a-9a1627fa-250c-401e-b20c-9e0e9a00e078#ref=rss)
+### besiegt
+
+* [https://www.spiegel.de/sport/olympia/olympia-2024-novak-djokovic-besiegt-carlos-alcaraz-und-kroent-sich-zum-tennis-olympiasieger](https://www.spiegel.de/sport/olympia/olympia-2024-novak-djokovic-besiegt-carlos-alcaraz-und-kroent-sich-zum-tennis-olympiasieger-a-19eeabf6-e681-4707-8de9-4af7cf0a9b3f#ref=rss)
+* [https://www.spiegel.de/sport/olympia-2024-novak-djokovic-besiegt-carlos-alcaraz-und-kroent-sich-zum-tennis-olympiasieger](https://www.spiegel.de/sport/olympia-2024-novak-djokovic-besiegt-carlos-alcaraz-und-kroent-sich-zum-tennis-olympiasieger-a-407da670-d8ec-4603-9a89-b619b538e2ae#ref=rss)
+### olympischen
+
+* [https://www.spiegel.de/sport/olympia/olympia-2024-novak-djokovic-besiegt-carlos-alcaraz-und-kroent-sich-zum-tennis-olympiasieger](https://www.spiegel.de/sport/olympia/olympia-2024-novak-djokovic-besiegt-carlos-alcaraz-und-kroent-sich-zum-tennis-olympiasieger-a-19eeabf6-e681-4707-8de9-4af7cf0a9b3f#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2024-jessica-von-bredow-werndl-verteidigt-dressur-gold-isabell-werth-holt-silber](https://www.spiegel.de/sport/olympia/olympia-2024-jessica-von-bredow-werndl-verteidigt-dressur-gold-isabell-werth-holt-silber-a-f5694aec-5c3c-4294-8638-0d9c4c7d66ea#ref=rss)
+### spielen
+
+* [https://www.spiegel.de/sport/olympia/olympia-2024-novak-djokovic-besiegt-carlos-alcaraz-und-kroent-sich-zum-tennis-olympiasieger](https://www.spiegel.de/sport/olympia/olympia-2024-novak-djokovic-besiegt-carlos-alcaraz-und-kroent-sich-zum-tennis-olympiasieger-a-19eeabf6-e681-4707-8de9-4af7cf0a9b3f#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2024-jessica-von-bredow-werndl-verteidigt-dressur-gold-isabell-werth-holt-silber](https://www.spiegel.de/sport/olympia/olympia-2024-jessica-von-bredow-werndl-verteidigt-dressur-gold-isabell-werth-holt-silber-a-f5694aec-5c3c-4294-8638-0d9c4c7d66ea#ref=rss)
+### harry
+
+* [https://www.spiegel.de/panorama/leute/harry-und-meghan-gruenden-elternnetzwerk-gegen-cyber-mobbing](https://www.spiegel.de/panorama/leute/harry-und-meghan-gruenden-elternnetzwerk-gegen-cyber-mobbing-a-9a1627fa-250c-401e-b20c-9e0e9a00e078#ref=rss)
+### meghan
+
+* [https://www.spiegel.de/panorama/leute/harry-und-meghan-gruenden-elternnetzwerk-gegen-cyber-mobbing](https://www.spiegel.de/panorama/leute/harry-und-meghan-gruenden-elternnetzwerk-gegen-cyber-mobbing-a-9a1627fa-250c-401e-b20c-9e0e9a00e078#ref=rss)
+### opfer
+
+* [https://www.spiegel.de/panorama/leute/harry-und-meghan-gruenden-elternnetzwerk-gegen-cyber-mobbing](https://www.spiegel.de/panorama/leute/harry-und-meghan-gruenden-elternnetzwerk-gegen-cyber-mobbing-a-9a1627fa-250c-401e-b20c-9e0e9a00e078#ref=rss)
+* [https://www.spiegel.de/ausland/haeusliche-gewalt-in-rumaenien-und-moldau-sie-toeteten-ihre-maenner-um-zu-leben](https://www.spiegel.de/ausland/haeusliche-gewalt-in-rumaenien-und-moldau-sie-toeteten-ihre-maenner-um-zu-leben-a-437cd7d6-c0cc-4892-9aff-86d6f88618a8#ref=rss)
+### erst
+
+* [https://www.spiegel.de/panorama/leute/harry-und-meghan-gruenden-elternnetzwerk-gegen-cyber-mobbing](https://www.spiegel.de/panorama/leute/harry-und-meghan-gruenden-elternnetzwerk-gegen-cyber-mobbing-a-9a1627fa-250c-401e-b20c-9e0e9a00e078#ref=rss)
+* [https://www.spiegel.de/psychologie/olympia-2024-europameisterschaft-wieso-uns-sport-seit-jeher-fasziniert](https://www.spiegel.de/psychologie/olympia-2024-europameisterschaft-wieso-uns-sport-seit-jeher-fasziniert-a-aa2ff71a-1c55-4073-b991-f50c6b9495bd#ref=rss)
+### oslo
+
+* [https://www.spiegel.de/panorama/justiz/maenner-in-oslo-wohl-aufgrund-sexueller-orientierung-verletzt](https://www.spiegel.de/panorama/justiz/maenner-in-oslo-wohl-aufgrund-sexueller-orientierung-verletzt-a-b7eb0d83-61c6-4985-8a13-3bd7af92f72a#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/panorama/justiz/maenner-in-oslo-wohl-aufgrund-sexueller-orientierung-verletzt](https://www.spiegel.de/panorama/justiz/maenner-in-oslo-wohl-aufgrund-sexueller-orientierung-verletzt-a-b7eb0d83-61c6-4985-8a13-3bd7af92f72a#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/limbach-oberfrohna-siebenkoepfige-schwanenfamilie-haelt-polizei-auf-trab](https://www.spiegel.de/panorama/gesellschaft/limbach-oberfrohna-siebenkoepfige-schwanenfamilie-haelt-polizei-auf-trab-a-29f65ce7-0baf-48f7-976f-c931a75df501#ref=rss)
+### ast
+
+* [https://www.spiegel.de/panorama/muenchen-abbrechender-ast-verletzt-zwei-menschen-im-englischen-garten](https://www.spiegel.de/panorama/muenchen-abbrechender-ast-verletzt-zwei-menschen-im-englischen-garten-a-6a5a258c-04c6-4074-84b9-319a7a640ac0#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/lgbtq-rechte-in-russland-wie-wladimir-putin-queere-und-nackte-jagt](https://www.spiegel.de/ausland/lgbtq-rechte-in-russland-wie-wladimir-putin-queere-und-nackte-jagt-a-1a7a7339-e957-4ae5-9b6c-9524c9907611#ref=rss)
+### queere
+
+* [https://www.spiegel.de/ausland/lgbtq-rechte-in-russland-wie-wladimir-putin-queere-und-nackte-jagt](https://www.spiegel.de/ausland/lgbtq-rechte-in-russland-wie-wladimir-putin-queere-und-nackte-jagt-a-1a7a7339-e957-4ae5-9b6c-9524c9907611#ref=rss)
+### polizisten
+
+* [https://www.spiegel.de/ausland/lgbtq-rechte-in-russland-wie-wladimir-putin-queere-und-nackte-jagt](https://www.spiegel.de/ausland/lgbtq-rechte-in-russland-wie-wladimir-putin-queere-und-nackte-jagt-a-1a7a7339-e957-4ae5-9b6c-9524c9907611#ref=rss)
+* [https://www.spiegel.de/panorama/gelsenkirchen-dreijaehriger-nach-intensiver-suche-im-eigenen-haus-gefunden](https://www.spiegel.de/panorama/gelsenkirchen-dreijaehriger-nach-intensiver-suche-im-eigenen-haus-gefunden-a-0f12bd5b-3962-4d03-9550-af55adcf6a95#ref=rss)
+### sitzen
+
+* [https://www.spiegel.de/ausland/lgbtq-rechte-in-russland-wie-wladimir-putin-queere-und-nackte-jagt](https://www.spiegel.de/ausland/lgbtq-rechte-in-russland-wie-wladimir-putin-queere-und-nackte-jagt-a-1a7a7339-e957-4ae5-9b6c-9524c9907611#ref=rss)
+* [https://www.spiegel.de/ausland/haeusliche-gewalt-in-rumaenien-und-moldau-sie-toeteten-ihre-maenner-um-zu-leben](https://www.spiegel.de/ausland/haeusliche-gewalt-in-rumaenien-und-moldau-sie-toeteten-ihre-maenner-um-zu-leben-a-437cd7d6-c0cc-4892-9aff-86d6f88618a8#ref=rss)
+### stellt
+
+* [https://www.spiegel.de/ausland/f-16-kampfjets-wolodymyr-selenskyj-stellt-neue-flugzeuge-vor](https://www.spiegel.de/ausland/f-16-kampfjets-wolodymyr-selenskyj-stellt-neue-flugzeuge-vor-a-5ed8b5c0-9a64-432e-ac71-f510f52aa9bc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/haushalt-der-ampel-die-quaelerei-beginnt-von-vorn](https://www.spiegel.de/politik/deutschland/haushalt-der-ampel-die-quaelerei-beginnt-von-vorn-a-a7446f0e-bd26-48c0-9180-3e4602b3f6b8#ref=rss)
+### ukrainische
+
+* [https://www.spiegel.de/ausland/f-16-kampfjets-wolodymyr-selenskyj-stellt-neue-flugzeuge-vor](https://www.spiegel.de/ausland/f-16-kampfjets-wolodymyr-selenskyj-stellt-neue-flugzeuge-vor-a-5ed8b5c0-9a64-432e-ac71-f510f52aa9bc#ref=rss)
+### bangladesch
+
+* [https://www.spiegel.de/ausland/bangladesch-proteste-geraten-zunehmend-ausser-kontrolle-mehr-als-40-tote-am-wochenende](https://www.spiegel.de/ausland/bangladesch-proteste-geraten-zunehmend-ausser-kontrolle-mehr-als-40-tote-am-wochenende-a-6afedc4b-c280-4db2-82b9-fcdadc2b60a9#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/ausland/bangladesch-proteste-geraten-zunehmend-ausser-kontrolle-mehr-als-40-tote-am-wochenende](https://www.spiegel.de/ausland/bangladesch-proteste-geraten-zunehmend-ausser-kontrolle-mehr-als-40-tote-am-wochenende-a-6afedc4b-c280-4db2-82b9-fcdadc2b60a9#ref=rss)
+* [https://www.spiegel.de/kultur/musik/pawel-kuschnir-russischer-pianist-und-kriegsgegner-stirbt-bei-hungerstreik](https://www.spiegel.de/kultur/musik/pawel-kuschnir-russischer-pianist-und-kriegsgegner-stirbt-bei-hungerstreik-a-0b777713-b946-4347-a792-c669ccd26a89#ref=rss)
+### wacken
+
+* [https://www.spiegel.de/netzwelt/wacken-vs-taylor-swift-metal-fans-verbrauchen-mehr-handydaten](https://www.spiegel.de/netzwelt/wacken-vs-taylor-swift-metal-fans-verbrauchen-mehr-handydaten-a-a449db63-b307-49b2-b18a-7a837f191b7b#ref=rss)
+### taylor
+
+* [https://www.spiegel.de/netzwelt/wacken-vs-taylor-swift-metal-fans-verbrauchen-mehr-handydaten](https://www.spiegel.de/netzwelt/wacken-vs-taylor-swift-metal-fans-verbrauchen-mehr-handydaten-a-a449db63-b307-49b2-b18a-7a837f191b7b#ref=rss)
+### swift
+
+* [https://www.spiegel.de/netzwelt/wacken-vs-taylor-swift-metal-fans-verbrauchen-mehr-handydaten](https://www.spiegel.de/netzwelt/wacken-vs-taylor-swift-metal-fans-verbrauchen-mehr-handydaten-a-a449db63-b307-49b2-b18a-7a837f191b7b#ref=rss)
+### stadt
+
+* [https://www.spiegel.de/panorama/anne-frank-statue-in-amsterdam-mit-roter-farbe-beschmiert](https://www.spiegel.de/panorama/anne-frank-statue-in-amsterdam-mit-roter-farbe-beschmiert-a-a5224ef1-9206-45cb-bbff-3978f228426c#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/limbach-oberfrohna-siebenkoepfige-schwanenfamilie-haelt-polizei-auf-trab](https://www.spiegel.de/panorama/gesellschaft/limbach-oberfrohna-siebenkoepfige-schwanenfamilie-haelt-polizei-auf-trab-a-29f65ce7-0baf-48f7-976f-c931a75df501#ref=rss)
+### italien
+
+* [https://www.spiegel.de/ausland/italien-influencer-auf-tiktok-und-instagram-laestern-ueber-urlaub-in-suedeuropa](https://www.spiegel.de/ausland/italien-influencer-auf-tiktok-und-instagram-laestern-ueber-urlaub-in-suedeuropa-a-abfdcf42-d38b-446f-aba7-b7a1ead947c6#ref=rss)
+### tiktok
+
+* [https://www.spiegel.de/ausland/italien-influencer-auf-tiktok-und-instagram-laestern-ueber-urlaub-in-suedeuropa](https://www.spiegel.de/ausland/italien-influencer-auf-tiktok-und-instagram-laestern-ueber-urlaub-in-suedeuropa-a-abfdcf42-d38b-446f-aba7-b7a1ead947c6#ref=rss)
+### lästern
+
+* [https://www.spiegel.de/ausland/italien-influencer-auf-tiktok-und-instagram-laestern-ueber-urlaub-in-suedeuropa](https://www.spiegel.de/ausland/italien-influencer-auf-tiktok-und-instagram-laestern-ueber-urlaub-in-suedeuropa-a-abfdcf42-d38b-446f-aba7-b7a1ead947c6#ref=rss)
+### urlaub
+
+* [https://www.spiegel.de/ausland/italien-influencer-auf-tiktok-und-instagram-laestern-ueber-urlaub-in-suedeuropa](https://www.spiegel.de/ausland/italien-influencer-auf-tiktok-und-instagram-laestern-ueber-urlaub-in-suedeuropa-a-abfdcf42-d38b-446f-aba7-b7a1ead947c6#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-blind-am-beckenrand](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-blind-am-beckenrand-a-118dd6c7-2671-4c89-aa8c-cf74db4e6376#ref=rss)
+### haien
+
+* [https://www.spiegel.de/ausland/kokainfunde-in-haien-die-tiere-sind-der-droge-auf-krasse-weise-ausgesetzt](https://www.spiegel.de/ausland/kokainfunde-in-haien-die-tiere-sind-der-droge-auf-krasse-weise-ausgesetzt-a-8cb9736a-f3d7-430f-a767-696a04f19191#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/ausland/kokainfunde-in-haien-die-tiere-sind-der-droge-auf-krasse-weise-ausgesetzt](https://www.spiegel.de/ausland/kokainfunde-in-haien-die-tiere-sind-der-droge-auf-krasse-weise-ausgesetzt-a-8cb9736a-f3d7-430f-a767-696a04f19191#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wie-der-ex-praesident-und-die-maga-bewegung-zur-freakshow-werden](https://www.spiegel.de/ausland/donald-trump-wie-der-ex-praesident-und-die-maga-bewegung-zur-freakshow-werden-a-3ef5d619-c17c-4259-8529-053dfffc965d#ref=rss)
+### pawel
+
+* [https://www.spiegel.de/kultur/musik/pawel-kuschnir-russischer-pianist-und-kriegsgegner-stirbt-bei-hungerstreik](https://www.spiegel.de/kultur/musik/pawel-kuschnir-russischer-pianist-und-kriegsgegner-stirbt-bei-hungerstreik-a-0b777713-b946-4347-a792-c669ccd26a89#ref=rss)
+### kuschnir
+
+* [https://www.spiegel.de/kultur/musik/pawel-kuschnir-russischer-pianist-und-kriegsgegner-stirbt-bei-hungerstreik](https://www.spiegel.de/kultur/musik/pawel-kuschnir-russischer-pianist-und-kriegsgegner-stirbt-bei-hungerstreik-a-0b777713-b946-4347-a792-c669ccd26a89#ref=rss)
+### wieso
+
+* [https://www.spiegel.de/psychologie/olympia-2024-europameisterschaft-wieso-uns-sport-seit-jeher-fasziniert](https://www.spiegel.de/psychologie/olympia-2024-europameisterschaft-wieso-uns-sport-seit-jeher-fasziniert-a-aa2ff71a-1c55-4073-b991-f50c6b9495bd#ref=rss)
+* [https://www.spiegel.de/ausland/haeusliche-gewalt-in-rumaenien-und-moldau-sie-toeteten-ihre-maenner-um-zu-leben](https://www.spiegel.de/ausland/haeusliche-gewalt-in-rumaenien-und-moldau-sie-toeteten-ihre-maenner-um-zu-leben-a-437cd7d6-c0cc-4892-9aff-86d6f88618a8#ref=rss)
+### eigenen
+
+* [https://www.spiegel.de/psychologie/olympia-2024-europameisterschaft-wieso-uns-sport-seit-jeher-fasziniert](https://www.spiegel.de/psychologie/olympia-2024-europameisterschaft-wieso-uns-sport-seit-jeher-fasziniert-a-aa2ff71a-1c55-4073-b991-f50c6b9495bd#ref=rss)
+* [https://www.spiegel.de/panorama/gelsenkirchen-dreijaehriger-nach-intensiver-suche-im-eigenen-haus-gefunden](https://www.spiegel.de/panorama/gelsenkirchen-dreijaehriger-nach-intensiver-suche-im-eigenen-haus-gefunden-a-0f12bd5b-3962-4d03-9550-af55adcf6a95#ref=rss)
+### ampel
+
+* [https://www.spiegel.de/politik/deutschland/haushalt-der-ampel-die-quaelerei-beginnt-von-vorn](https://www.spiegel.de/politik/deutschland/haushalt-der-ampel-die-quaelerei-beginnt-von-vorn-a-a7446f0e-bd26-48c0-9180-3e4602b3f6b8#ref=rss)
+### rumänien
+
+* [https://www.spiegel.de/ausland/haeusliche-gewalt-in-rumaenien-und-moldau-sie-toeteten-ihre-maenner-um-zu-leben](https://www.spiegel.de/ausland/haeusliche-gewalt-in-rumaenien-und-moldau-sie-toeteten-ihre-maenner-um-zu-leben-a-437cd7d6-c0cc-4892-9aff-86d6f88618a8#ref=rss)
+### moldau
+
+* [https://www.spiegel.de/ausland/haeusliche-gewalt-in-rumaenien-und-moldau-sie-toeteten-ihre-maenner-um-zu-leben](https://www.spiegel.de/ausland/haeusliche-gewalt-in-rumaenien-und-moldau-sie-toeteten-ihre-maenner-um-zu-leben-a-437cd7d6-c0cc-4892-9aff-86d6f88618a8#ref=rss)
+### leben
+
+* [https://www.spiegel.de/ausland/haeusliche-gewalt-in-rumaenien-und-moldau-sie-toeteten-ihre-maenner-um-zu-leben](https://www.spiegel.de/ausland/haeusliche-gewalt-in-rumaenien-und-moldau-sie-toeteten-ihre-maenner-um-zu-leben-a-437cd7d6-c0cc-4892-9aff-86d6f88618a8#ref=rss)
+* [https://www.spiegel.de/panorama/leute/josh-hartnett-so-bereitete-er-sich-fuer-filmrolle-als-serienmoerder-vor](https://www.spiegel.de/panorama/leute/josh-hartnett-so-bereitete-er-sich-fuer-filmrolle-als-serienmoerder-vor-a-91abf397-0df2-48ed-bd9e-8e9811c8ea74#ref=rss)
+### weg
+
+* [https://www.spiegel.de/ausland/haeusliche-gewalt-in-rumaenien-und-moldau-sie-toeteten-ihre-maenner-um-zu-leben](https://www.spiegel.de/ausland/haeusliche-gewalt-in-rumaenien-und-moldau-sie-toeteten-ihre-maenner-um-zu-leben-a-437cd7d6-c0cc-4892-9aff-86d6f88618a8#ref=rss)
+* [https://www.spiegel.de/wissenschaft/kaiserschnitte-welche-folgen-haben-sie-fuer-die-muetter](https://www.spiegel.de/wissenschaft/kaiserschnitte-welche-folgen-haben-sie-fuer-die-muetter-a-56d88e70-c030-41c6-bc1e-0e74106c0d9e#ref=rss)
+### anders
+
+* [https://www.spiegel.de/sport/olympia-2024-warum-es-in-paris-nur-ein-team-grossbritannien-gibt](https://www.spiegel.de/sport/olympia-2024-warum-es-in-paris-nur-ein-team-grossbritannien-gibt-a-719ce777-7f3f-485d-875c-e1ad97613e92#ref=rss)
+* [https://www.spiegel.de/sport/fussball/toni-kroos-zum-fussballer-des-jahres-gewaehlt-xabi-alonso-ist-trainer-des-jahres](https://www.spiegel.de/sport/fussball/toni-kroos-zum-fussballer-des-jahres-gewaehlt-xabi-alonso-ist-trainer-des-jahres-a-9a6f6c93-cd68-4b6a-a978-d0ba499dfcfa#ref=rss)
+### thomas
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-blind-am-beckenrand](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-blind-am-beckenrand-a-118dd6c7-2671-4c89-aa8c-cf74db4e6376#ref=rss)
+### plaßmann
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-blind-am-beckenrand](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-blind-am-beckenrand-a-118dd6c7-2671-4c89-aa8c-cf74db4e6376#ref=rss)
+### klaus
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-blind-am-beckenrand](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-blind-am-beckenrand-a-118dd6c7-2671-4c89-aa8c-cf74db4e6376#ref=rss)
+### stuttmann
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-blind-am-beckenrand](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-blind-am-beckenrand-a-118dd6c7-2671-4c89-aa8c-cf74db4e6376#ref=rss)
+### chappatte
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-blind-am-beckenrand](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-blind-am-beckenrand-a-118dd6c7-2671-4c89-aa8c-cf74db4e6376#ref=rss)
+### haus
+
+* [https://www.spiegel.de/panorama/gelsenkirchen-dreijaehriger-nach-intensiver-suche-im-eigenen-haus-gefunden](https://www.spiegel.de/panorama/gelsenkirchen-dreijaehriger-nach-intensiver-suche-im-eigenen-haus-gefunden-a-0f12bd5b-3962-4d03-9550-af55adcf6a95#ref=rss)
+### laura
+
+* [https://www.spiegel.de/sport/olympia/olympia-2024-laura-ludwig-beendet-ihre-grosse-karriere](https://www.spiegel.de/sport/olympia/olympia-2024-laura-ludwig-beendet-ihre-grosse-karriere-a-45edb6f4-7b07-48a1-a803-6c372292cdda#ref=rss)
+### kaiserschnitte
+
+* [https://www.spiegel.de/wissenschaft/kaiserschnitte-welche-folgen-haben-sie-fuer-die-muetter](https://www.spiegel.de/wissenschaft/kaiserschnitte-welche-folgen-haben-sie-fuer-die-muetter-a-56d88e70-c030-41c6-bc1e-0e74106c0d9e#ref=rss)
+### folgen
+
+* [https://www.spiegel.de/wissenschaft/kaiserschnitte-welche-folgen-haben-sie-fuer-die-muetter](https://www.spiegel.de/wissenschaft/kaiserschnitte-welche-folgen-haben-sie-fuer-die-muetter-a-56d88e70-c030-41c6-bc1e-0e74106c0d9e#ref=rss)
+### mütter
+
+* [https://www.spiegel.de/wissenschaft/kaiserschnitte-welche-folgen-haben-sie-fuer-die-muetter](https://www.spiegel.de/wissenschaft/kaiserschnitte-welche-folgen-haben-sie-fuer-die-muetter-a-56d88e70-c030-41c6-bc1e-0e74106c0d9e#ref=rss)
+### josh
+
+* [https://www.spiegel.de/panorama/leute/josh-hartnett-so-bereitete-er-sich-fuer-filmrolle-als-serienmoerder-vor](https://www.spiegel.de/panorama/leute/josh-hartnett-so-bereitete-er-sich-fuer-filmrolle-als-serienmoerder-vor-a-91abf397-0df2-48ed-bd9e-8e9811c8ea74#ref=rss)
+### hartnett
+
+* [https://www.spiegel.de/panorama/leute/josh-hartnett-so-bereitete-er-sich-fuer-filmrolle-als-serienmoerder-vor](https://www.spiegel.de/panorama/leute/josh-hartnett-so-bereitete-er-sich-fuer-filmrolle-als-serienmoerder-vor-a-91abf397-0df2-48ed-bd9e-8e9811c8ea74#ref=rss)
+### jessica
+
+* [https://www.spiegel.de/sport/olympia/olympia-2024-jessica-von-bredow-werndl-verteidigt-dressur-gold-isabell-werth-holt-silber](https://www.spiegel.de/sport/olympia/olympia-2024-jessica-von-bredow-werndl-verteidigt-dressur-gold-isabell-werth-holt-silber-a-f5694aec-5c3c-4294-8638-0d9c4c7d66ea#ref=rss)
+### bredowwerndl
+
+* [https://www.spiegel.de/sport/olympia/olympia-2024-jessica-von-bredow-werndl-verteidigt-dressur-gold-isabell-werth-holt-silber](https://www.spiegel.de/sport/olympia/olympia-2024-jessica-von-bredow-werndl-verteidigt-dressur-gold-isabell-werth-holt-silber-a-f5694aec-5c3c-4294-8638-0d9c4c7d66ea#ref=rss)
+### tim
+
+* [https://www.spiegel.de/panorama/leute/tim-maelzer-ueber-zeit-in-der-spitzengastronomie-wir-waren-rassistisch-wir-waren-sexistisch-wir-waren-alles](https://www.spiegel.de/panorama/leute/tim-maelzer-ueber-zeit-in-der-spitzengastronomie-wir-waren-rassistisch-wir-waren-sexistisch-wir-waren-alles-a-4362c5bc-ed0e-45a0-9147-ada83aecd526#ref=rss)
+### mälzer
+
+* [https://www.spiegel.de/panorama/leute/tim-maelzer-ueber-zeit-in-der-spitzengastronomie-wir-waren-rassistisch-wir-waren-sexistisch-wir-waren-alles](https://www.spiegel.de/panorama/leute/tim-maelzer-ueber-zeit-in-der-spitzengastronomie-wir-waren-rassistisch-wir-waren-sexistisch-wir-waren-alles-a-4362c5bc-ed0e-45a0-9147-ada83aecd526#ref=rss)
+### limbachoberfrohna
+
+* [https://www.spiegel.de/panorama/gesellschaft/limbach-oberfrohna-siebenkoepfige-schwanenfamilie-haelt-polizei-auf-trab](https://www.spiegel.de/panorama/gesellschaft/limbach-oberfrohna-siebenkoepfige-schwanenfamilie-haelt-polizei-auf-trab-a-29f65ce7-0baf-48f7-976f-c931a75df501#ref=rss)
 ### toni
 
 * [https://www.spiegel.de/sport/fussball/toni-kroos-zum-fussballer-des-jahres-gewaehlt-xabi-alonso-ist-trainer-des-jahres](https://www.spiegel.de/sport/fussball/toni-kroos-zum-fussballer-des-jahres-gewaehlt-xabi-alonso-ist-trainer-des-jahres-a-9a6f6c93-cd68-4b6a-a978-d0ba499dfcfa#ref=rss)
@@ -91,276 +338,4 @@ tags: __no_header__
 ### gewählt
 
 * [https://www.spiegel.de/sport/fussball/toni-kroos-zum-fussballer-des-jahres-gewaehlt-xabi-alonso-ist-trainer-des-jahres](https://www.spiegel.de/sport/fussball/toni-kroos-zum-fussballer-des-jahres-gewaehlt-xabi-alonso-ist-trainer-des-jahres-a-9a6f6c93-cd68-4b6a-a978-d0ba499dfcfa#ref=rss)
-### zweiten
-
-* [https://www.spiegel.de/sport/fussball/toni-kroos-zum-fussballer-des-jahres-gewaehlt-xabi-alonso-ist-trainer-des-jahres](https://www.spiegel.de/sport/fussball/toni-kroos-zum-fussballer-des-jahres-gewaehlt-xabi-alonso-ist-trainer-des-jahres-a-9a6f6c93-cd68-4b6a-a978-d0ba499dfcfa#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/exodus-europaeischer-juden-1947-ueber-oesterreich-und-italien-flucht-auf-2634-meter](https://www.spiegel.de/panorama/gesellschaft/exodus-europaeischer-juden-1947-ueber-oesterreich-und-italien-flucht-auf-2634-meter-a-9011000a-b319-4156-9a97-9816d39b1ab1#ref=rss)
-### venezuela
-
-* [https://www.spiegel.de/ausland/venezuela-deutschland-und-andere-eu-staaten-verlangen-von-nicolas-maduro-wahltransparenz](https://www.spiegel.de/ausland/venezuela-deutschland-und-andere-eu-staaten-verlangen-von-nicolas-maduro-wahltransparenz-a-d443b3f0-a4cc-4c75-b41c-82e62d776c35#ref=rss)
-### maduro
-
-* [https://www.spiegel.de/ausland/venezuela-deutschland-und-andere-eu-staaten-verlangen-von-nicolas-maduro-wahltransparenz](https://www.spiegel.de/ausland/venezuela-deutschland-und-andere-eu-staaten-verlangen-von-nicolas-maduro-wahltransparenz-a-d443b3f0-a4cc-4c75-b41c-82e62d776c35#ref=rss)
-### wanderer
-
-* [https://www.spiegel.de/panorama/oesterreich-wanderer-aus-deutschland-in-tirol-von-kuehen-schwer-verletzt](https://www.spiegel.de/panorama/oesterreich-wanderer-aus-deutschland-in-tirol-von-kuehen-schwer-verletzt-a-73b8aa35-31a8-40b2-8588-81cf79787fb7#ref=rss)
-### tirol
-
-* [https://www.spiegel.de/panorama/oesterreich-wanderer-aus-deutschland-in-tirol-von-kuehen-schwer-verletzt](https://www.spiegel.de/panorama/oesterreich-wanderer-aus-deutschland-in-tirol-von-kuehen-schwer-verletzt-a-73b8aa35-31a8-40b2-8588-81cf79787fb7#ref=rss)
-### schwer
-
-* [https://www.spiegel.de/panorama/oesterreich-wanderer-aus-deutschland-in-tirol-von-kuehen-schwer-verletzt](https://www.spiegel.de/panorama/oesterreich-wanderer-aus-deutschland-in-tirol-von-kuehen-schwer-verletzt-a-73b8aa35-31a8-40b2-8588-81cf79787fb7#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/panorama/oesterreich-wanderer-aus-deutschland-in-tirol-von-kuehen-schwer-verletzt](https://www.spiegel.de/panorama/oesterreich-wanderer-aus-deutschland-in-tirol-von-kuehen-schwer-verletzt-a-73b8aa35-31a8-40b2-8588-81cf79787fb7#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/panorama/oesterreich-wanderer-aus-deutschland-in-tirol-von-kuehen-schwer-verletzt](https://www.spiegel.de/panorama/oesterreich-wanderer-aus-deutschland-in-tirol-von-kuehen-schwer-verletzt-a-73b8aa35-31a8-40b2-8588-81cf79787fb7#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-jimmy-carter-will-bis-zur-wahl-durchhalten-um-fuer-kamala-harris-zu-stimmen](https://www.spiegel.de/ausland/us-wahl-2024-jimmy-carter-will-bis-zur-wahl-durchhalten-um-fuer-kamala-harris-zu-stimmen-a-af050ce2-49d3-4c89-851c-2aa0533fdcc2#ref=rss)
-### faktoren
-
-* [https://www.spiegel.de/karriere/raetsel-der-woche-zahlentrio-gesucht](https://www.spiegel.de/karriere/raetsel-der-woche-zahlentrio-gesucht-a-6b6c2f54-9bb1-493c-a8bb-e76a95c982ec#ref=rss)
-### zahl
-
-* [https://www.spiegel.de/karriere/raetsel-der-woche-zahlentrio-gesucht](https://www.spiegel.de/karriere/raetsel-der-woche-zahlentrio-gesucht-a-6b6c2f54-9bb1-493c-a8bb-e76a95c982ec#ref=rss)
-### 1
-
-* [https://www.spiegel.de/karriere/raetsel-der-woche-zahlentrio-gesucht](https://www.spiegel.de/karriere/raetsel-der-woche-zahlentrio-gesucht-a-6b6c2f54-9bb1-493c-a8bb-e76a95c982ec#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2024-eine-brise-formel-1-kitesurfer-jannis-maus-im-portraet](https://www.spiegel.de/sport/olympia/olympia-2024-eine-brise-formel-1-kitesurfer-jannis-maus-im-portraet-a-49e11b7e-f9d8-4618-b347-16a577637c2c#ref=rss)
-### princess
-
-* [https://www.spiegel.de/kultur/princess-charming-are-you-the-one-realitystars-in-love-ruetzels-recap](https://www.spiegel.de/kultur/princess-charming-are-you-the-one-realitystars-in-love-ruetzels-recap-a-69ffbb17-4933-4661-b5c8-17af6eedaa93#ref=rss)
-### charming
-
-* [https://www.spiegel.de/kultur/princess-charming-are-you-the-one-realitystars-in-love-ruetzels-recap](https://www.spiegel.de/kultur/princess-charming-are-you-the-one-realitystars-in-love-ruetzels-recap-a-69ffbb17-4933-4661-b5c8-17af6eedaa93#ref=rss)
-### are
-
-* [https://www.spiegel.de/kultur/princess-charming-are-you-the-one-realitystars-in-love-ruetzels-recap](https://www.spiegel.de/kultur/princess-charming-are-you-the-one-realitystars-in-love-ruetzels-recap-a-69ffbb17-4933-4661-b5c8-17af6eedaa93#ref=rss)
-### you
-
-* [https://www.spiegel.de/kultur/princess-charming-are-you-the-one-realitystars-in-love-ruetzels-recap](https://www.spiegel.de/kultur/princess-charming-are-you-the-one-realitystars-in-love-ruetzels-recap-a-69ffbb17-4933-4661-b5c8-17af6eedaa93#ref=rss)
-### the
-
-* [https://www.spiegel.de/kultur/princess-charming-are-you-the-one-realitystars-in-love-ruetzels-recap](https://www.spiegel.de/kultur/princess-charming-are-you-the-one-realitystars-in-love-ruetzels-recap-a-69ffbb17-4933-4661-b5c8-17af6eedaa93#ref=rss)
-### one
-
-* [https://www.spiegel.de/kultur/princess-charming-are-you-the-one-realitystars-in-love-ruetzels-recap](https://www.spiegel.de/kultur/princess-charming-are-you-the-one-realitystars-in-love-ruetzels-recap-a-69ffbb17-4933-4661-b5c8-17af6eedaa93#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/wirtschaft/besuch-in-einer-senioren-wg-gemeinsam-weniger-einsam](https://www.spiegel.de/wirtschaft/besuch-in-einer-senioren-wg-gemeinsam-weniger-einsam-a-5d700780-a42e-4a68-9e23-db82ce344b2e#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/amazon-fire-tv-so-geben-sie-dem-stick-eine-zweite-chance](https://www.spiegel.de/netzwelt/gadgets/amazon-fire-tv-so-geben-sie-dem-stick-eine-zweite-chance-a-2c2e3f0d-2762-4c98-9958-92c1e46b9687#ref=rss)
-### alt
-
-* [https://www.spiegel.de/wirtschaft/besuch-in-einer-senioren-wg-gemeinsam-weniger-einsam](https://www.spiegel.de/wirtschaft/besuch-in-einer-senioren-wg-gemeinsam-weniger-einsam-a-5d700780-a42e-4a68-9e23-db82ce344b2e#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-jimmy-carter-will-bis-zur-wahl-durchhalten-um-fuer-kamala-harris-zu-stimmen](https://www.spiegel.de/ausland/us-wahl-2024-jimmy-carter-will-bis-zur-wahl-durchhalten-um-fuer-kamala-harris-zu-stimmen-a-af050ce2-49d3-4c89-851c-2aa0533fdcc2#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/spd-historiker-jan-c-behrends-kritisiert-parteifuehrung-in-debatte-ueber-us-raketen](https://www.spiegel.de/politik/deutschland/spd-historiker-jan-c-behrends-kritisiert-parteifuehrung-in-debatte-ueber-us-raketen-a-97e6569e-117c-469e-b1e8-32928daf3ad7#ref=rss)
-* [https://www.spiegel.de/karriere/niedersachsen-stephan-weil-verteidigt-gehaltserhoehung-von-bueroleiterin](https://www.spiegel.de/karriere/niedersachsen-stephan-weil-verteidigt-gehaltserhoehung-von-bueroleiterin-a-003aa689-5e98-46a8-a286-bc8f615e719f#ref=rss)
-### historiker
-
-* [https://www.spiegel.de/politik/deutschland/spd-historiker-jan-c-behrends-kritisiert-parteifuehrung-in-debatte-ueber-us-raketen](https://www.spiegel.de/politik/deutschland/spd-historiker-jan-c-behrends-kritisiert-parteifuehrung-in-debatte-ueber-us-raketen-a-97e6569e-117c-469e-b1e8-32928daf3ad7#ref=rss)
-### jan
-
-* [https://www.spiegel.de/politik/deutschland/spd-historiker-jan-c-behrends-kritisiert-parteifuehrung-in-debatte-ueber-us-raketen](https://www.spiegel.de/politik/deutschland/spd-historiker-jan-c-behrends-kritisiert-parteifuehrung-in-debatte-ueber-us-raketen-a-97e6569e-117c-469e-b1e8-32928daf3ad7#ref=rss)
-### c
-
-* [https://www.spiegel.de/politik/deutschland/spd-historiker-jan-c-behrends-kritisiert-parteifuehrung-in-debatte-ueber-us-raketen](https://www.spiegel.de/politik/deutschland/spd-historiker-jan-c-behrends-kritisiert-parteifuehrung-in-debatte-ueber-us-raketen-a-97e6569e-117c-469e-b1e8-32928daf3ad7#ref=rss)
-### behrends
-
-* [https://www.spiegel.de/politik/deutschland/spd-historiker-jan-c-behrends-kritisiert-parteifuehrung-in-debatte-ueber-us-raketen](https://www.spiegel.de/politik/deutschland/spd-historiker-jan-c-behrends-kritisiert-parteifuehrung-in-debatte-ueber-us-raketen-a-97e6569e-117c-469e-b1e8-32928daf3ad7#ref=rss)
-### kritisiert
-
-* [https://www.spiegel.de/politik/deutschland/spd-historiker-jan-c-behrends-kritisiert-parteifuehrung-in-debatte-ueber-us-raketen](https://www.spiegel.de/politik/deutschland/spd-historiker-jan-c-behrends-kritisiert-parteifuehrung-in-debatte-ueber-us-raketen-a-97e6569e-117c-469e-b1e8-32928daf3ad7#ref=rss)
-### debatte
-
-* [https://www.spiegel.de/politik/deutschland/spd-historiker-jan-c-behrends-kritisiert-parteifuehrung-in-debatte-ueber-us-raketen](https://www.spiegel.de/politik/deutschland/spd-historiker-jan-c-behrends-kritisiert-parteifuehrung-in-debatte-ueber-us-raketen-a-97e6569e-117c-469e-b1e8-32928daf3ad7#ref=rss)
-* [https://www.spiegel.de/sport/imane-khelif-kontroverse-im-olympia-boxen-schuetzt-endlich-den-frauensport](https://www.spiegel.de/sport/imane-khelif-kontroverse-im-olympia-boxen-schuetzt-endlich-den-frauensport-a-7279a7cc-2eda-4213-9a60-760a9819654d#ref=rss)
-### internationale
-
-* [https://www.spiegel.de/politik/deutschland/spd-historiker-jan-c-behrends-kritisiert-parteifuehrung-in-debatte-ueber-us-raketen](https://www.spiegel.de/politik/deutschland/spd-historiker-jan-c-behrends-kritisiert-parteifuehrung-in-debatte-ueber-us-raketen-a-97e6569e-117c-469e-b1e8-32928daf3ad7#ref=rss)
-* [https://www.spiegel.de/sport/imane-khelif-kontroverse-im-olympia-boxen-schuetzt-endlich-den-frauensport](https://www.spiegel.de/sport/imane-khelif-kontroverse-im-olympia-boxen-schuetzt-endlich-den-frauensport-a-7279a7cc-2eda-4213-9a60-760a9819654d#ref=rss)
-### lage
-
-* [https://www.spiegel.de/politik/deutschland/spd-historiker-jan-c-behrends-kritisiert-parteifuehrung-in-debatte-ueber-us-raketen](https://www.spiegel.de/politik/deutschland/spd-historiker-jan-c-behrends-kritisiert-parteifuehrung-in-debatte-ueber-us-raketen-a-97e6569e-117c-469e-b1e8-32928daf3ad7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-kamala-harris-vs-donald-trump-schutz-vor-der-sonne](https://www.spiegel.de/politik/deutschland/news-kamala-harris-vs-donald-trump-schutz-vor-der-sonne-a-bbd97686-091c-4736-b8d4-e6a156e681a0#ref=rss)
-### martin
-
-* [https://www.spiegel.de/politik/deutschland/martin-sellner-polizei-beendet-lesung-in-neulingen-in-baden-wuerttemberg](https://www.spiegel.de/politik/deutschland/martin-sellner-polizei-beendet-lesung-in-neulingen-in-baden-wuerttemberg-a-5521a220-f881-472f-82d9-8aa85cec7cd6#ref=rss)
-### sellner
-
-* [https://www.spiegel.de/politik/deutschland/martin-sellner-polizei-beendet-lesung-in-neulingen-in-baden-wuerttemberg](https://www.spiegel.de/politik/deutschland/martin-sellner-polizei-beendet-lesung-in-neulingen-in-baden-wuerttemberg-a-5521a220-f881-472f-82d9-8aa85cec7cd6#ref=rss)
-### neulingen
-
-* [https://www.spiegel.de/politik/deutschland/martin-sellner-polizei-beendet-lesung-in-neulingen-in-baden-wuerttemberg](https://www.spiegel.de/politik/deutschland/martin-sellner-polizei-beendet-lesung-in-neulingen-in-baden-wuerttemberg-a-5521a220-f881-472f-82d9-8aa85cec7cd6#ref=rss)
-### rechtsextreme
-
-* [https://www.spiegel.de/politik/deutschland/martin-sellner-polizei-beendet-lesung-in-neulingen-in-baden-wuerttemberg](https://www.spiegel.de/politik/deutschland/martin-sellner-polizei-beendet-lesung-in-neulingen-in-baden-wuerttemberg-a-5521a220-f881-472f-82d9-8aa85cec7cd6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/dirk-neubauer-tritt-ab-der-landrat-im-haus-ohne-klingelschild](https://www.spiegel.de/politik/deutschland/dirk-neubauer-tritt-ab-der-landrat-im-haus-ohne-klingelschild-a-749e538b-bf2f-4e02-92d2-c8a16843736a#ref=rss)
-### dazu
-
-* [https://www.spiegel.de/politik/deutschland/martin-sellner-polizei-beendet-lesung-in-neulingen-in-baden-wuerttemberg](https://www.spiegel.de/politik/deutschland/martin-sellner-polizei-beendet-lesung-in-neulingen-in-baden-wuerttemberg-a-5521a220-f881-472f-82d9-8aa85cec7cd6#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/amazon-fire-tv-so-geben-sie-dem-stick-eine-zweite-chance](https://www.spiegel.de/netzwelt/gadgets/amazon-fire-tv-so-geben-sie-dem-stick-eine-zweite-chance-a-2c2e3f0d-2762-4c98-9958-92c1e46b9687#ref=rss)
-### 19
-
-* [https://www.spiegel.de/familie/drogen-herointod-mit-19-jahren-unser-sohn-der-suechtige](https://www.spiegel.de/familie/drogen-herointod-mit-19-jahren-unser-sohn-der-suechtige-a-f7473478-d97a-4f7e-ab25-dc8a2af77446#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/familie/drogen-herointod-mit-19-jahren-unser-sohn-der-suechtige](https://www.spiegel.de/familie/drogen-herointod-mit-19-jahren-unser-sohn-der-suechtige-a-f7473478-d97a-4f7e-ab25-dc8a2af77446#ref=rss)
-* [https://www.spiegel.de/ausland/kamala-harris-ehemann-doug-emhoff-bestaetigt-nach-medienbericht-affaere-waehrend-erster-ehe](https://www.spiegel.de/ausland/kamala-harris-ehemann-doug-emhoff-bestaetigt-nach-medienbericht-affaere-waehrend-erster-ehe-a-814e9033-7d6c-47f0-8c64-b8279417c5e8#ref=rss)
-### prozent
-
-* [https://www.spiegel.de/politik/deutschland/sonntagsfrage-nur-noch-10-prozent-wuerden-gruene-waehlen-ampelregierung-unbeliebt-wie-nie](https://www.spiegel.de/politik/deutschland/sonntagsfrage-nur-noch-10-prozent-wuerden-gruene-waehlen-ampelregierung-unbeliebt-wie-nie-a-826d6e44-8fdf-472b-a651-3102b76dcb4f#ref=rss)
-### wählen
-
-* [https://www.spiegel.de/politik/deutschland/sonntagsfrage-nur-noch-10-prozent-wuerden-gruene-waehlen-ampelregierung-unbeliebt-wie-nie](https://www.spiegel.de/politik/deutschland/sonntagsfrage-nur-noch-10-prozent-wuerden-gruene-waehlen-ampelregierung-unbeliebt-wie-nie-a-826d6e44-8fdf-472b-a651-3102b76dcb4f#ref=rss)
-### ampelregierung
-
-* [https://www.spiegel.de/politik/deutschland/sonntagsfrage-nur-noch-10-prozent-wuerden-gruene-waehlen-ampelregierung-unbeliebt-wie-nie](https://www.spiegel.de/politik/deutschland/sonntagsfrage-nur-noch-10-prozent-wuerden-gruene-waehlen-ampelregierung-unbeliebt-wie-nie-a-826d6e44-8fdf-472b-a651-3102b76dcb4f#ref=rss)
-### donald
-
-* [https://www.spiegel.de/politik/deutschland/news-kamala-harris-vs-donald-trump-schutz-vor-der-sonne](https://www.spiegel.de/politik/deutschland/news-kamala-harris-vs-donald-trump-schutz-vor-der-sonne-a-bbd97686-091c-4736-b8d4-e6a156e681a0#ref=rss)
-### trump
-
-* [https://www.spiegel.de/politik/deutschland/news-kamala-harris-vs-donald-trump-schutz-vor-der-sonne](https://www.spiegel.de/politik/deutschland/news-kamala-harris-vs-donald-trump-schutz-vor-der-sonne-a-bbd97686-091c-4736-b8d4-e6a156e681a0#ref=rss)
-### schutz
-
-* [https://www.spiegel.de/politik/deutschland/news-kamala-harris-vs-donald-trump-schutz-vor-der-sonne](https://www.spiegel.de/politik/deutschland/news-kamala-harris-vs-donald-trump-schutz-vor-der-sonne-a-bbd97686-091c-4736-b8d4-e6a156e681a0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/israel-droht-vergeltung-durch-iran-cdu-fordert-beteiligung-der-bundeswehr-zum-schutz](https://www.spiegel.de/politik/deutschland/israel-droht-vergeltung-durch-iran-cdu-fordert-beteiligung-der-bundeswehr-zum-schutz-a-c8d546a2-e916-45aa-aaa3-e45a3c6fcf04#ref=rss)
-### sonne
-
-* [https://www.spiegel.de/politik/deutschland/news-kamala-harris-vs-donald-trump-schutz-vor-der-sonne](https://www.spiegel.de/politik/deutschland/news-kamala-harris-vs-donald-trump-schutz-vor-der-sonne-a-bbd97686-091c-4736-b8d4-e6a156e681a0#ref=rss)
-### uns
-
-* [https://www.spiegel.de/politik/deutschland/news-kamala-harris-vs-donald-trump-schutz-vor-der-sonne](https://www.spiegel.de/politik/deutschland/news-kamala-harris-vs-donald-trump-schutz-vor-der-sonne-a-bbd97686-091c-4736-b8d4-e6a156e681a0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-annelena-baerbock-verteidigt-us-langstreckenwaffen-in-deutschland](https://www.spiegel.de/politik/deutschland/ukraine-krieg-annelena-baerbock-verteidigt-us-langstreckenwaffen-in-deutschland-a-c00c9ce7-c8a2-47b6-8ddb-3c9e3b87880d#ref=rss)
-### taiwan
-
-* [https://www.spiegel.de/sport/olympia/taiwan-bei-olympia-2024-aussenministerium-verurteilt-fan-vorfall-in-paris](https://www.spiegel.de/sport/olympia/taiwan-bei-olympia-2024-aussenministerium-verurteilt-fan-vorfall-in-paris-a-2fc57770-ce2c-4c1b-bf04-4dce386c5c36#ref=rss)
-### außenministerium
-
-* [https://www.spiegel.de/sport/olympia/taiwan-bei-olympia-2024-aussenministerium-verurteilt-fan-vorfall-in-paris](https://www.spiegel.de/sport/olympia/taiwan-bei-olympia-2024-aussenministerium-verurteilt-fan-vorfall-in-paris-a-2fc57770-ce2c-4c1b-bf04-4dce386c5c36#ref=rss)
-### paris
-
-* [https://www.spiegel.de/sport/olympia/taiwan-bei-olympia-2024-aussenministerium-verurteilt-fan-vorfall-in-paris](https://www.spiegel.de/sport/olympia/taiwan-bei-olympia-2024-aussenministerium-verurteilt-fan-vorfall-in-paris-a-2fc57770-ce2c-4c1b-bf04-4dce386c5c36#ref=rss)
-### antreten
-
-* [https://www.spiegel.de/sport/olympia/taiwan-bei-olympia-2024-aussenministerium-verurteilt-fan-vorfall-in-paris](https://www.spiegel.de/sport/olympia/taiwan-bei-olympia-2024-aussenministerium-verurteilt-fan-vorfall-in-paris-a-2fc57770-ce2c-4c1b-bf04-4dce386c5c36#ref=rss)
-* [https://www.spiegel.de/sport/imane-khelif-kontroverse-im-olympia-boxen-schuetzt-endlich-den-frauensport](https://www.spiegel.de/sport/imane-khelif-kontroverse-im-olympia-boxen-schuetzt-endlich-den-frauensport-a-7279a7cc-2eda-4213-9a60-760a9819654d#ref=rss)
-### ehemann
-
-* [https://www.spiegel.de/ausland/kamala-harris-ehemann-doug-emhoff-bestaetigt-nach-medienbericht-affaere-waehrend-erster-ehe](https://www.spiegel.de/ausland/kamala-harris-ehemann-doug-emhoff-bestaetigt-nach-medienbericht-affaere-waehrend-erster-ehe-a-814e9033-7d6c-47f0-8c64-b8279417c5e8#ref=rss)
-### doug
-
-* [https://www.spiegel.de/ausland/kamala-harris-ehemann-doug-emhoff-bestaetigt-nach-medienbericht-affaere-waehrend-erster-ehe](https://www.spiegel.de/ausland/kamala-harris-ehemann-doug-emhoff-bestaetigt-nach-medienbericht-affaere-waehrend-erster-ehe-a-814e9033-7d6c-47f0-8c64-b8279417c5e8#ref=rss)
-### emhoff
-
-* [https://www.spiegel.de/ausland/kamala-harris-ehemann-doug-emhoff-bestaetigt-nach-medienbericht-affaere-waehrend-erster-ehe](https://www.spiegel.de/ausland/kamala-harris-ehemann-doug-emhoff-bestaetigt-nach-medienbericht-affaere-waehrend-erster-ehe-a-814e9033-7d6c-47f0-8c64-b8279417c5e8#ref=rss)
-### affäre
-
-* [https://www.spiegel.de/ausland/kamala-harris-ehemann-doug-emhoff-bestaetigt-nach-medienbericht-affaere-waehrend-erster-ehe](https://www.spiegel.de/ausland/kamala-harris-ehemann-doug-emhoff-bestaetigt-nach-medienbericht-affaere-waehrend-erster-ehe-a-814e9033-7d6c-47f0-8c64-b8279417c5e8#ref=rss)
-### stephan
-
-* [https://www.spiegel.de/karriere/niedersachsen-stephan-weil-verteidigt-gehaltserhoehung-von-bueroleiterin](https://www.spiegel.de/karriere/niedersachsen-stephan-weil-verteidigt-gehaltserhoehung-von-bueroleiterin-a-003aa689-5e98-46a8-a286-bc8f615e719f#ref=rss)
-### angreifer
-
-* [https://www.spiegel.de/ausland/cholon-bei-tel-aviv-palaestinensischer-angreifer-toetet-zwei-israelis](https://www.spiegel.de/ausland/cholon-bei-tel-aviv-palaestinensischer-angreifer-toetet-zwei-israelis-a-0fc1f553-9768-43b2-a7bb-4daf5d585cef#ref=rss)
-### tel
-
-* [https://www.spiegel.de/ausland/cholon-bei-tel-aviv-palaestinensischer-angreifer-toetet-zwei-israelis](https://www.spiegel.de/ausland/cholon-bei-tel-aviv-palaestinensischer-angreifer-toetet-zwei-israelis-a-0fc1f553-9768-43b2-a7bb-4daf5d585cef#ref=rss)
-### aviv
-
-* [https://www.spiegel.de/ausland/cholon-bei-tel-aviv-palaestinensischer-angreifer-toetet-zwei-israelis](https://www.spiegel.de/ausland/cholon-bei-tel-aviv-palaestinensischer-angreifer-toetet-zwei-israelis-a-0fc1f553-9768-43b2-a7bb-4daf5d585cef#ref=rss)
-### älterer
-
-* [https://www.spiegel.de/ausland/cholon-bei-tel-aviv-palaestinensischer-angreifer-toetet-zwei-israelis](https://www.spiegel.de/ausland/cholon-bei-tel-aviv-palaestinensischer-angreifer-toetet-zwei-israelis-a-0fc1f553-9768-43b2-a7bb-4daf5d585cef#ref=rss)
-* [https://www.spiegel.de/stil/im-garten-aelterer-frauen-ueber-wild-wuchernde-pflanzen-und-besondere-baeume](https://www.spiegel.de/stil/im-garten-aelterer-frauen-ueber-wild-wuchernde-pflanzen-und-besondere-baeume-a-833417e9-f2d8-4a18-b7e9-f9239cea1713#ref=rss)
-### mann
-
-* [https://www.spiegel.de/ausland/cholon-bei-tel-aviv-palaestinensischer-angreifer-toetet-zwei-israelis](https://www.spiegel.de/ausland/cholon-bei-tel-aviv-palaestinensischer-angreifer-toetet-zwei-israelis-a-0fc1f553-9768-43b2-a7bb-4daf5d585cef#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-jimmy-carter-will-bis-zur-wahl-durchhalten-um-fuer-kamala-harris-zu-stimmen](https://www.spiegel.de/ausland/us-wahl-2024-jimmy-carter-will-bis-zur-wahl-durchhalten-um-fuer-kamala-harris-zu-stimmen-a-af050ce2-49d3-4c89-851c-2aa0533fdcc2#ref=rss)
-### jannis
-
-* [https://www.spiegel.de/sport/olympia/olympia-2024-eine-brise-formel-1-kitesurfer-jannis-maus-im-portraet](https://www.spiegel.de/sport/olympia/olympia-2024-eine-brise-formel-1-kitesurfer-jannis-maus-im-portraet-a-49e11b7e-f9d8-4618-b347-16a577637c2c#ref=rss)
-### maus
-
-* [https://www.spiegel.de/sport/olympia/olympia-2024-eine-brise-formel-1-kitesurfer-jannis-maus-im-portraet](https://www.spiegel.de/sport/olympia/olympia-2024-eine-brise-formel-1-kitesurfer-jannis-maus-im-portraet-a-49e11b7e-f9d8-4618-b347-16a577637c2c#ref=rss)
-### hinter
-
-* [https://www.spiegel.de/sport/olympia/olympia-2024-eine-brise-formel-1-kitesurfer-jannis-maus-im-portraet](https://www.spiegel.de/sport/olympia/olympia-2024-eine-brise-formel-1-kitesurfer-jannis-maus-im-portraet-a-49e11b7e-f9d8-4618-b347-16a577637c2c#ref=rss)
-* [https://www.spiegel.de/stil/im-garten-aelterer-frauen-ueber-wild-wuchernde-pflanzen-und-besondere-baeume](https://www.spiegel.de/stil/im-garten-aelterer-frauen-ueber-wild-wuchernde-pflanzen-und-besondere-baeume-a-833417e9-f2d8-4a18-b7e9-f9239cea1713#ref=rss)
-### warren
-
-* [https://www.spiegel.de/wirtschaft/berkshire-hathaway-warren-buffett-verkauft-apple-aktien](https://www.spiegel.de/wirtschaft/berkshire-hathaway-warren-buffett-verkauft-apple-aktien-a-961c29d2-4ce4-4341-8a67-b735e8acb517#ref=rss)
-### buffett
-
-* [https://www.spiegel.de/wirtschaft/berkshire-hathaway-warren-buffett-verkauft-apple-aktien](https://www.spiegel.de/wirtschaft/berkshire-hathaway-warren-buffett-verkauft-apple-aktien-a-961c29d2-4ce4-4341-8a67-b735e8acb517#ref=rss)
-### verkauft
-
-* [https://www.spiegel.de/wirtschaft/berkshire-hathaway-warren-buffett-verkauft-apple-aktien](https://www.spiegel.de/wirtschaft/berkshire-hathaway-warren-buffett-verkauft-apple-aktien-a-961c29d2-4ce4-4341-8a67-b735e8acb517#ref=rss)
-### appleaktien
-
-* [https://www.spiegel.de/wirtschaft/berkshire-hathaway-warren-buffett-verkauft-apple-aktien](https://www.spiegel.de/wirtschaft/berkshire-hathaway-warren-buffett-verkauft-apple-aktien-a-961c29d2-4ce4-4341-8a67-b735e8acb517#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/wirtschaft/berkshire-hathaway-warren-buffett-verkauft-apple-aktien](https://www.spiegel.de/wirtschaft/berkshire-hathaway-warren-buffett-verkauft-apple-aktien-a-961c29d2-4ce4-4341-8a67-b735e8acb517#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/exodus-europaeischer-juden-1947-ueber-oesterreich-und-italien-flucht-auf-2634-meter](https://www.spiegel.de/panorama/gesellschaft/exodus-europaeischer-juden-1947-ueber-oesterreich-und-italien-flucht-auf-2634-meter-a-9011000a-b319-4156-9a97-9816d39b1ab1#ref=rss)
-### baerbock
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-annelena-baerbock-verteidigt-us-langstreckenwaffen-in-deutschland](https://www.spiegel.de/politik/deutschland/ukraine-krieg-annelena-baerbock-verteidigt-us-langstreckenwaffen-in-deutschland-a-c00c9ce7-c8a2-47b6-8ddb-3c9e3b87880d#ref=rss)
-### leo
-
-* [https://www.spiegel.de/sport/olympia/olympia-2024-leo-neugebauer-holt-silber-im-zehnkampf-ein-geschenk-fuer-die-leichtathletik](https://www.spiegel.de/sport/olympia/olympia-2024-leo-neugebauer-holt-silber-im-zehnkampf-ein-geschenk-fuer-die-leichtathletik-a-5e6a1093-38ea-4ac6-9421-edb9498479fe#ref=rss)
-### neugebauer
-
-* [https://www.spiegel.de/sport/olympia/olympia-2024-leo-neugebauer-holt-silber-im-zehnkampf-ein-geschenk-fuer-die-leichtathletik](https://www.spiegel.de/sport/olympia/olympia-2024-leo-neugebauer-holt-silber-im-zehnkampf-ein-geschenk-fuer-die-leichtathletik-a-5e6a1093-38ea-4ac6-9421-edb9498479fe#ref=rss)
-### geschenk
-
-* [https://www.spiegel.de/sport/olympia/olympia-2024-leo-neugebauer-holt-silber-im-zehnkampf-ein-geschenk-fuer-die-leichtathletik](https://www.spiegel.de/sport/olympia/olympia-2024-leo-neugebauer-holt-silber-im-zehnkampf-ein-geschenk-fuer-die-leichtathletik-a-5e6a1093-38ea-4ac6-9421-edb9498479fe#ref=rss)
-### leichtathletik
-
-* [https://www.spiegel.de/sport/olympia/olympia-2024-leo-neugebauer-holt-silber-im-zehnkampf-ein-geschenk-fuer-die-leichtathletik](https://www.spiegel.de/sport/olympia/olympia-2024-leo-neugebauer-holt-silber-im-zehnkampf-ein-geschenk-fuer-die-leichtathletik-a-5e6a1093-38ea-4ac6-9421-edb9498479fe#ref=rss)
-### bekennerschreiben
-
-* [https://www.spiegel.de/panorama/justiz/deutsche-bahn-bekennerschreiben-nach-braenden-an-bahnstrecken-aufgetaucht](https://www.spiegel.de/panorama/justiz/deutsche-bahn-bekennerschreiben-nach-braenden-an-bahnstrecken-aufgetaucht-a-92c8082b-3b64-49c9-b209-6e96ae8697ea#ref=rss)
-### juden
-
-* [https://www.spiegel.de/panorama/gesellschaft/exodus-europaeischer-juden-1947-ueber-oesterreich-und-italien-flucht-auf-2634-meter](https://www.spiegel.de/panorama/gesellschaft/exodus-europaeischer-juden-1947-ueber-oesterreich-und-italien-flucht-auf-2634-meter-a-9011000a-b319-4156-9a97-9816d39b1ab1#ref=rss)
-### wild
-
-* [https://www.spiegel.de/stil/im-garten-aelterer-frauen-ueber-wild-wuchernde-pflanzen-und-besondere-baeume](https://www.spiegel.de/stil/im-garten-aelterer-frauen-ueber-wild-wuchernde-pflanzen-und-besondere-baeume-a-833417e9-f2d8-4a18-b7e9-f9239cea1713#ref=rss)
-### pflanzen
-
-* [https://www.spiegel.de/stil/im-garten-aelterer-frauen-ueber-wild-wuchernde-pflanzen-und-besondere-baeume](https://www.spiegel.de/stil/im-garten-aelterer-frauen-ueber-wild-wuchernde-pflanzen-und-besondere-baeume-a-833417e9-f2d8-4a18-b7e9-f9239cea1713#ref=rss)
-### fire
-
-* [https://www.spiegel.de/netzwelt/gadgets/amazon-fire-tv-so-geben-sie-dem-stick-eine-zweite-chance](https://www.spiegel.de/netzwelt/gadgets/amazon-fire-tv-so-geben-sie-dem-stick-eine-zweite-chance-a-2c2e3f0d-2762-4c98-9958-92c1e46b9687#ref=rss)
-### tv
-
-* [https://www.spiegel.de/netzwelt/gadgets/amazon-fire-tv-so-geben-sie-dem-stick-eine-zweite-chance](https://www.spiegel.de/netzwelt/gadgets/amazon-fire-tv-so-geben-sie-dem-stick-eine-zweite-chance-a-2c2e3f0d-2762-4c98-9958-92c1e46b9687#ref=rss)
-### stick
-
-* [https://www.spiegel.de/netzwelt/gadgets/amazon-fire-tv-so-geben-sie-dem-stick-eine-zweite-chance](https://www.spiegel.de/netzwelt/gadgets/amazon-fire-tv-so-geben-sie-dem-stick-eine-zweite-chance-a-2c2e3f0d-2762-4c98-9958-92c1e46b9687#ref=rss)
-### dirk
-
-* [https://www.spiegel.de/politik/deutschland/dirk-neubauer-tritt-ab-der-landrat-im-haus-ohne-klingelschild](https://www.spiegel.de/politik/deutschland/dirk-neubauer-tritt-ab-der-landrat-im-haus-ohne-klingelschild-a-749e538b-bf2f-4e02-92d2-c8a16843736a#ref=rss)
-### neubauer
-
-* [https://www.spiegel.de/politik/deutschland/dirk-neubauer-tritt-ab-der-landrat-im-haus-ohne-klingelschild](https://www.spiegel.de/politik/deutschland/dirk-neubauer-tritt-ab-der-landrat-im-haus-ohne-klingelschild-a-749e538b-bf2f-4e02-92d2-c8a16843736a#ref=rss)
-### landrat
-
-* [https://www.spiegel.de/politik/deutschland/dirk-neubauer-tritt-ab-der-landrat-im-haus-ohne-klingelschild](https://www.spiegel.de/politik/deutschland/dirk-neubauer-tritt-ab-der-landrat-im-haus-ohne-klingelschild-a-749e538b-bf2f-4e02-92d2-c8a16843736a#ref=rss)
-### jimmy
-
-* [https://www.spiegel.de/ausland/us-wahl-2024-jimmy-carter-will-bis-zur-wahl-durchhalten-um-fuer-kamala-harris-zu-stimmen](https://www.spiegel.de/ausland/us-wahl-2024-jimmy-carter-will-bis-zur-wahl-durchhalten-um-fuer-kamala-harris-zu-stimmen-a-af050ce2-49d3-4c89-851c-2aa0533fdcc2#ref=rss)
-### carter
-
-* [https://www.spiegel.de/ausland/us-wahl-2024-jimmy-carter-will-bis-zur-wahl-durchhalten-um-fuer-kamala-harris-zu-stimmen](https://www.spiegel.de/ausland/us-wahl-2024-jimmy-carter-will-bis-zur-wahl-durchhalten-um-fuer-kamala-harris-zu-stimmen-a-af050ce2-49d3-4c89-851c-2aa0533fdcc2#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/ausland/us-wahl-2024-jimmy-carter-will-bis-zur-wahl-durchhalten-um-fuer-kamala-harris-zu-stimmen](https://www.spiegel.de/ausland/us-wahl-2024-jimmy-carter-will-bis-zur-wahl-durchhalten-um-fuer-kamala-harris-zu-stimmen-a-af050ce2-49d3-4c89-851c-2aa0533fdcc2#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-nahost-hisbollah-feuert-50-raketen-auf-norden-von-israel-ab](https://www.spiegel.de/ausland/krieg-in-nahost-hisbollah-feuert-50-raketen-auf-norden-von-israel-ab-a-43714b20-b694-4a54-a276-373089cf6e8d#ref=rss)
-### raketen
-
-* [https://www.spiegel.de/ausland/krieg-in-nahost-hisbollah-feuert-50-raketen-auf-norden-von-israel-ab](https://www.spiegel.de/ausland/krieg-in-nahost-hisbollah-feuert-50-raketen-auf-norden-von-israel-ab-a-43714b20-b694-4a54-a276-373089cf6e8d#ref=rss)
 
