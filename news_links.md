@@ -4,351 +4,344 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutsche
-
-* [https://www.spiegel.de/kultur/tv/tatort-star-horst-lettenmayer-der-mann-mit-den-augen-aus-dem-krimi-vorspann-ist-tot](https://www.spiegel.de/kultur/tv/tatort-star-horst-lettenmayer-der-mann-mit-den-augen-aus-dem-krimi-vorspann-ist-tot-a-9ce21e2c-d243-469c-87b2-8114e32881ab#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2024-triathlon-gold-fuer-deutschland-bei-olympia-2024-ein-triumph-jenseits-der-seine-debatte](https://www.spiegel.de/sport/olympia/olympia-2024-triathlon-gold-fuer-deutschland-bei-olympia-2024-ein-triumph-jenseits-der-seine-debatte-a-4c77e8e6-9a0d-4ade-8fc7-6c30a2872cfa#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-news-heute-noah-lyles-rief-vor-100-meter-gold-seine-therapeutin-an](https://www.spiegel.de/sport/olympia/olympia-news-heute-noah-lyles-rief-vor-100-meter-gold-seine-therapeutin-an-a-cebc9375-c205-4940-b3cc-1b8e222d0544#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-mitarbeiter-ueben-kritik-am-eigenen-unternehmen](https://www.spiegel.de/wirtschaft/deutsche-bahn-mitarbeiter-ueben-kritik-am-eigenen-unternehmen-a-4dbd5c8e-50e6-4335-bf91-6ea475a8b9b3#ref=rss)
-* [https://www.spiegel.de/sport/olympia-2024-deutsche-triathlon-staffel-gewinnt-gold](https://www.spiegel.de/sport/olympia-2024-deutsche-triathlon-staffel-gewinnt-gold-a-1e25b1e9-bcf4-4c9d-a91b-c968b0452b33#ref=rss)
 ### olympia
 
-* [https://www.spiegel.de/sport/olympia/olympia-2024-ethan-katzberg-gewinnt-gold-im-hammerwurf-wegen-der-sprinter-merkt-es-kaum-jemand](https://www.spiegel.de/sport/olympia/olympia-2024-ethan-katzberg-gewinnt-gold-im-hammerwurf-wegen-der-sprinter-merkt-es-kaum-jemand-a-8db47705-c03c-4c88-975a-2e38f2e95e2c#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2024-triathlon-gold-fuer-deutschland-bei-olympia-2024-ein-triumph-jenseits-der-seine-debatte](https://www.spiegel.de/sport/olympia/olympia-2024-triathlon-gold-fuer-deutschland-bei-olympia-2024-ein-triumph-jenseits-der-seine-debatte-a-4c77e8e6-9a0d-4ade-8fc7-6c30a2872cfa#ref=rss)
-* [https://www.spiegel.de/sport/olympia-2024-deutsche-triathlon-staffel-gewinnt-gold](https://www.spiegel.de/sport/olympia-2024-deutsche-triathlon-staffel-gewinnt-gold-a-1e25b1e9-bcf4-4c9d-a91b-c968b0452b33#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2024-noah-lyles-erfuellt-sein-versprechen-und-wird-schnellster-mann-der-welt](https://www.spiegel.de/sport/olympia/olympia-2024-noah-lyles-erfuellt-sein-versprechen-und-wird-schnellster-mann-der-welt-a-f20a0553-7f53-4c22-ac35-ca70f4431e5a#ref=rss)
-* [https://www.spiegel.de/sport/olympia-2024-boxerin-imane-khelif-fordert-ende-der-gender-debatte](https://www.spiegel.de/sport/olympia-2024-boxerin-imane-khelif-fordert-ende-der-gender-debatte-a-fcd1fab9-16e1-4bde-86c9-d7f387ee6c14#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2024-rebeca-andrade-triumphiert-vor-simone-biles-vom-armenviertel-zur-olympiasiegerin-im-bodenfinale](https://www.spiegel.de/sport/olympia/olympia-2024-rebeca-andrade-triumphiert-vor-simone-biles-vom-armenviertel-zur-olympiasiegerin-im-bodenfinale-a-3e456961-f44c-4810-a2d2-324db22debae#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ausschreitungen-in-grossbritannien-unruhen-in-bangladesch-olympia](https://www.spiegel.de/politik/deutschland/news-des-tages-ausschreitungen-in-grossbritannien-unruhen-in-bangladesch-olympia-a-0a745d61-8774-4861-9071-adedb3cb762c#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2024-anthony-ammirati-verliert-stabhochsprung-medaille-nicht-wegen-penis](https://www.spiegel.de/sport/olympia/olympia-2024-anthony-ammirati-verliert-stabhochsprung-medaille-nicht-wegen-penis-a-33b7ea12-a337-440b-a826-486e2660394b#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2024-die-deutschen-3x3-basketballerinnen-kaempfen-um-gold-das-sollte-man-nicht-verpassen](https://www.spiegel.de/sport/olympia/olympia-2024-die-deutschen-3x3-basketballerinnen-kaempfen-um-gold-das-sollte-man-nicht-verpassen-a-9dd174ec-e270-4ae0-9619-8350b51bf063#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/sport/olympia/olympia-news-heute-noah-lyles-rief-vor-100-meter-gold-seine-therapeutin-an](https://www.spiegel.de/sport/olympia/olympia-news-heute-noah-lyles-rief-vor-100-meter-gold-seine-therapeutin-an-a-cebc9375-c205-4940-b3cc-1b8e222d0544#ref=rss)
+* [https://www.spiegel.de/panorama/mallorca-massentourismus-gegner-wollen-ballermann-lokal-besetzen](https://www.spiegel.de/panorama/mallorca-massentourismus-gegner-wollen-ballermann-lokal-besetzen-a-2fc4abe0-fbec-4c0e-b986-a04c1c21ef7f#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2024-die-deutschen-3x3-basketballerinnen-kaempfen-um-gold-das-sollte-man-nicht-verpassen](https://www.spiegel.de/sport/olympia/olympia-2024-die-deutschen-3x3-basketballerinnen-kaempfen-um-gold-das-sollte-man-nicht-verpassen-a-9dd174ec-e270-4ae0-9619-8350b51bf063#ref=rss)
+### abnehmspritzen
+
+* [https://www.spiegel.de/wirtschaft/abnehmspritzen-nie-wieder-diaet-das-geschaeft-mit-ozempic-wegovy-und-co](https://www.spiegel.de/wirtschaft/abnehmspritzen-nie-wieder-diaet-das-geschaeft-mit-ozempic-wegovy-und-co-a-004947d5-ef4d-4cda-bfef-e2b2928b8327#ref=rss)
+* [https://www.spiegel.de/politik/abnehmspritzen-das-geschaeft-mit-ozempic-wegovy-und-co](https://www.spiegel.de/politik/abnehmspritzen-das-geschaeft-mit-ozempic-wegovy-und-co-a-e934c313-86bb-4878-8bd4-a6c882092719#ref=rss)
+### ozempic
+
+* [https://www.spiegel.de/wirtschaft/abnehmspritzen-nie-wieder-diaet-das-geschaeft-mit-ozempic-wegovy-und-co](https://www.spiegel.de/wirtschaft/abnehmspritzen-nie-wieder-diaet-das-geschaeft-mit-ozempic-wegovy-und-co-a-004947d5-ef4d-4cda-bfef-e2b2928b8327#ref=rss)
+* [https://www.spiegel.de/politik/abnehmspritzen-das-geschaeft-mit-ozempic-wegovy-und-co](https://www.spiegel.de/politik/abnehmspritzen-das-geschaeft-mit-ozempic-wegovy-und-co-a-e934c313-86bb-4878-8bd4-a6c882092719#ref=rss)
+### wegovy
+
+* [https://www.spiegel.de/wirtschaft/abnehmspritzen-nie-wieder-diaet-das-geschaeft-mit-ozempic-wegovy-und-co](https://www.spiegel.de/wirtschaft/abnehmspritzen-nie-wieder-diaet-das-geschaeft-mit-ozempic-wegovy-und-co-a-004947d5-ef4d-4cda-bfef-e2b2928b8327#ref=rss)
+* [https://www.spiegel.de/politik/abnehmspritzen-das-geschaeft-mit-ozempic-wegovy-und-co](https://www.spiegel.de/politik/abnehmspritzen-das-geschaeft-mit-ozempic-wegovy-und-co-a-e934c313-86bb-4878-8bd4-a6c882092719#ref=rss)
+### nie
+
+* [https://www.spiegel.de/wirtschaft/abnehmspritzen-nie-wieder-diaet-das-geschaeft-mit-ozempic-wegovy-und-co](https://www.spiegel.de/wirtschaft/abnehmspritzen-nie-wieder-diaet-das-geschaeft-mit-ozempic-wegovy-und-co-a-004947d5-ef4d-4cda-bfef-e2b2928b8327#ref=rss)
+* [https://www.spiegel.de/politik/abnehmspritzen-das-geschaeft-mit-ozempic-wegovy-und-co](https://www.spiegel.de/politik/abnehmspritzen-das-geschaeft-mit-ozempic-wegovy-und-co-a-e934c313-86bb-4878-8bd4-a6c882092719#ref=rss)
+### diät
+
+* [https://www.spiegel.de/wirtschaft/abnehmspritzen-nie-wieder-diaet-das-geschaeft-mit-ozempic-wegovy-und-co](https://www.spiegel.de/wirtschaft/abnehmspritzen-nie-wieder-diaet-das-geschaeft-mit-ozempic-wegovy-und-co-a-004947d5-ef4d-4cda-bfef-e2b2928b8327#ref=rss)
+* [https://www.spiegel.de/politik/abnehmspritzen-das-geschaeft-mit-ozempic-wegovy-und-co](https://www.spiegel.de/politik/abnehmspritzen-das-geschaeft-mit-ozempic-wegovy-und-co-a-e934c313-86bb-4878-8bd4-a6c882092719#ref=rss)
+### co
+
+* [https://www.spiegel.de/wirtschaft/abnehmspritzen-nie-wieder-diaet-das-geschaeft-mit-ozempic-wegovy-und-co](https://www.spiegel.de/wirtschaft/abnehmspritzen-nie-wieder-diaet-das-geschaeft-mit-ozempic-wegovy-und-co-a-004947d5-ef4d-4cda-bfef-e2b2928b8327#ref=rss)
+* [https://www.spiegel.de/netzwelt/tiktok-wenn-die-scham-an-der-broetchentheke-mitbestellt](https://www.spiegel.de/netzwelt/tiktok-wenn-die-scham-an-der-broetchentheke-mitbestellt-a-13b8904b-fb27-41e3-ac92-20f9b91745ad#ref=rss)
+* [https://www.spiegel.de/politik/abnehmspritzen-das-geschaeft-mit-ozempic-wegovy-und-co](https://www.spiegel.de/politik/abnehmspritzen-das-geschaeft-mit-ozempic-wegovy-und-co-a-e934c313-86bb-4878-8bd4-a6c882092719#ref=rss)
 ### 2024
 
-* [https://www.spiegel.de/sport/olympia/olympia-2024-ethan-katzberg-gewinnt-gold-im-hammerwurf-wegen-der-sprinter-merkt-es-kaum-jemand](https://www.spiegel.de/sport/olympia/olympia-2024-ethan-katzberg-gewinnt-gold-im-hammerwurf-wegen-der-sprinter-merkt-es-kaum-jemand-a-8db47705-c03c-4c88-975a-2e38f2e95e2c#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2024-triathlon-gold-fuer-deutschland-bei-olympia-2024-ein-triumph-jenseits-der-seine-debatte](https://www.spiegel.de/sport/olympia/olympia-2024-triathlon-gold-fuer-deutschland-bei-olympia-2024-ein-triumph-jenseits-der-seine-debatte-a-4c77e8e6-9a0d-4ade-8fc7-6c30a2872cfa#ref=rss)
-* [https://www.spiegel.de/sport/olympia-2024-deutsche-triathlon-staffel-gewinnt-gold](https://www.spiegel.de/sport/olympia-2024-deutsche-triathlon-staffel-gewinnt-gold-a-1e25b1e9-bcf4-4c9d-a91b-c968b0452b33#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2024-noah-lyles-erfuellt-sein-versprechen-und-wird-schnellster-mann-der-welt](https://www.spiegel.de/sport/olympia/olympia-2024-noah-lyles-erfuellt-sein-versprechen-und-wird-schnellster-mann-der-welt-a-f20a0553-7f53-4c22-ac35-ca70f4431e5a#ref=rss)
-* [https://www.spiegel.de/sport/olympia-2024-boxerin-imane-khelif-fordert-ende-der-gender-debatte](https://www.spiegel.de/sport/olympia-2024-boxerin-imane-khelif-fordert-ende-der-gender-debatte-a-fcd1fab9-16e1-4bde-86c9-d7f387ee6c14#ref=rss)
-### großbritannien
+* [https://www.spiegel.de/sport/olympia/olympia-2024-rebeca-andrade-triumphiert-vor-simone-biles-vom-armenviertel-zur-olympiasiegerin-im-bodenfinale](https://www.spiegel.de/sport/olympia/olympia-2024-rebeca-andrade-triumphiert-vor-simone-biles-vom-armenviertel-zur-olympiasiegerin-im-bodenfinale-a-3e456961-f44c-4810-a2d2-324db22debae#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2024-anthony-ammirati-verliert-stabhochsprung-medaille-nicht-wegen-penis](https://www.spiegel.de/sport/olympia/olympia-2024-anthony-ammirati-verliert-stabhochsprung-medaille-nicht-wegen-penis-a-33b7ea12-a337-440b-a826-486e2660394b#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2024-die-deutschen-3x3-basketballerinnen-kaempfen-um-gold-das-sollte-man-nicht-verpassen](https://www.spiegel.de/sport/olympia/olympia-2024-die-deutschen-3x3-basketballerinnen-kaempfen-um-gold-das-sollte-man-nicht-verpassen-a-9dd174ec-e270-4ae0-9619-8350b51bf063#ref=rss)
+### grünen
 
-* [https://www.spiegel.de/ausland/grossbritannien-ausschreitungen-erreichen-neuen-hoehepunkt-mob-stuermt-asylunterkunft-in-rotherham](https://www.spiegel.de/ausland/grossbritannien-ausschreitungen-erreichen-neuen-hoehepunkt-mob-stuermt-asylunterkunft-in-rotherham-a-551523c2-e81f-4f88-a1fb-26a40da4c460#ref=rss)
-* [https://www.spiegel.de/ausland/rassistische-krawalle-in-grossbritannien-bist-du-englisch-bist-du-weiss](https://www.spiegel.de/ausland/rassistische-krawalle-in-grossbritannien-bist-du-englisch-bist-du-weiss-a-5fdab454-6e1a-4a39-a74a-521a95b32ec8#ref=rss)
-* [https://www.spiegel.de/sport/olympia-2024-deutsche-triathlon-staffel-gewinnt-gold](https://www.spiegel.de/sport/olympia-2024-deutsche-triathlon-staffel-gewinnt-gold-a-1e25b1e9-bcf4-4c9d-a91b-c968b0452b33#ref=rss)
-### mann
+* [https://www.spiegel.de/panorama/bildung/gendern-an-schulen-in-sachsen-neue-regelung-fuehrt-zu-punktabzug-in-schularbeiten](https://www.spiegel.de/panorama/bildung/gendern-an-schulen-in-sachsen-neue-regelung-fuehrt-zu-punktabzug-in-schularbeiten-a-16ee1c6a-546d-4824-a664-ce6ba15ab661#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/union-und-die-gruenen-michael-kretschmer-und-markus-soeder-wollen-keine-gruenen-koalitionen](https://www.spiegel.de/politik/deutschland/union-und-die-gruenen-michael-kretschmer-und-markus-soeder-wollen-keine-gruenen-koalitionen-a-a10d226e-ba77-443a-ad7d-fdade1e7a4a6#ref=rss)
+### kämpfen
 
-* [https://www.spiegel.de/kultur/tv/tatort-star-horst-lettenmayer-der-mann-mit-den-augen-aus-dem-krimi-vorspann-ist-tot](https://www.spiegel.de/kultur/tv/tatort-star-horst-lettenmayer-der-mann-mit-den-augen-aus-dem-krimi-vorspann-ist-tot-a-9ce21e2c-d243-469c-87b2-8114e32881ab#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2024-noah-lyles-erfuellt-sein-versprechen-und-wird-schnellster-mann-der-welt](https://www.spiegel.de/sport/olympia/olympia-2024-noah-lyles-erfuellt-sein-versprechen-und-wird-schnellster-mann-der-welt-a-f20a0553-7f53-4c22-ac35-ca70f4431e5a#ref=rss)
-### menschen
+* [https://www.spiegel.de/sport/olympia/olympia-2024-die-deutschen-3x3-basketballerinnen-kaempfen-um-gold-das-sollte-man-nicht-verpassen](https://www.spiegel.de/sport/olympia/olympia-2024-die-deutschen-3x3-basketballerinnen-kaempfen-um-gold-das-sollte-man-nicht-verpassen-a-9dd174ec-e270-4ae0-9619-8350b51bf063#ref=rss)
+* [https://www.spiegel.de/ausland/israels-ministerpraesident-unter-druck-opfert-netanyahu-die-geiseln-um-an-der-macht-zu-bleiben](https://www.spiegel.de/ausland/israels-ministerpraesident-unter-druck-opfert-netanyahu-die-geiseln-um-an-der-macht-zu-bleiben-a-c17dc251-ac7b-44ec-8949-c1f09946092b#ref=rss)
+### stabhochsprung
 
-* [https://www.spiegel.de/wissenschaft/mensch/hitzereport-der-dak-gesundheit-hitze-macht-jedem-vierten-zu-schaffen](https://www.spiegel.de/wissenschaft/mensch/hitzereport-der-dak-gesundheit-hitze-macht-jedem-vierten-zu-schaffen-a-f26cfdbe-a483-4d4c-b609-d1794e158882#ref=rss)
-* [https://www.spiegel.de/panorama/china-200-tote-und-vermisste-bei-sommer-unwettern](https://www.spiegel.de/panorama/china-200-tote-und-vermisste-bei-sommer-unwettern-a-44eeb7f9-61c5-4f36-a813-f8f9e4b9c2f6#ref=rss)
-* [https://www.spiegel.de/panorama/italien-reisbus-unfall-in-der-toskana-ein-toter-25-verletzte](https://www.spiegel.de/panorama/italien-reisbus-unfall-in-der-toskana-ein-toter-25-verletzte-a-81a86095-01af-458c-870d-46faea37b258#ref=rss)
-* [https://www.spiegel.de/sport/olympia-2024-boxerin-imane-khelif-fordert-ende-der-gender-debatte](https://www.spiegel.de/sport/olympia-2024-boxerin-imane-khelif-fordert-ende-der-gender-debatte-a-fcd1fab9-16e1-4bde-86c9-d7f387ee6c14#ref=rss)
-### offenbar
+* [https://www.spiegel.de/sport/olympia/olympia-news-heute-noah-lyles-rief-vor-100-meter-gold-seine-therapeutin-an](https://www.spiegel.de/sport/olympia/olympia-news-heute-noah-lyles-rief-vor-100-meter-gold-seine-therapeutin-an-a-cebc9375-c205-4940-b3cc-1b8e222d0544#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2024-anthony-ammirati-verliert-stabhochsprung-medaille-nicht-wegen-penis](https://www.spiegel.de/sport/olympia/olympia-2024-anthony-ammirati-verliert-stabhochsprung-medaille-nicht-wegen-penis-a-33b7ea12-a337-440b-a826-486e2660394b#ref=rss)
+### 3x3basketballerinnen
 
-* [https://www.spiegel.de/ausland/grossbritannien-ausschreitungen-erreichen-neuen-hoehepunkt-mob-stuermt-asylunterkunft-in-rotherham](https://www.spiegel.de/ausland/grossbritannien-ausschreitungen-erreichen-neuen-hoehepunkt-mob-stuermt-asylunterkunft-in-rotherham-a-551523c2-e81f-4f88-a1fb-26a40da4c460#ref=rss)
-* [https://www.spiegel.de/ausland/bangladesch-premierministerin-scheich-hasina-verlaesst-offenbar-das-land](https://www.spiegel.de/ausland/bangladesch-premierministerin-scheich-hasina-verlaesst-offenbar-das-land-a-480b6761-3fb7-4c01-a943-100f23e0dcda#ref=rss)
-* [https://www.spiegel.de/ausland/gefangenenaustausch-mit-russland-kinder-von-spionen-ahnungslos-ueber-ihre-wahre-identitaet](https://www.spiegel.de/ausland/gefangenenaustausch-mit-russland-kinder-von-spionen-ahnungslos-ueber-ihre-wahre-identitaet-a-9ae33ed9-92f3-4368-87cd-4f8d5374af5e#ref=rss)
-### gewinnt
+* [https://www.spiegel.de/sport/olympia/olympia-news-heute-noah-lyles-rief-vor-100-meter-gold-seine-therapeutin-an](https://www.spiegel.de/sport/olympia/olympia-news-heute-noah-lyles-rief-vor-100-meter-gold-seine-therapeutin-an-a-cebc9375-c205-4940-b3cc-1b8e222d0544#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2024-die-deutschen-3x3-basketballerinnen-kaempfen-um-gold-das-sollte-man-nicht-verpassen](https://www.spiegel.de/sport/olympia/olympia-2024-die-deutschen-3x3-basketballerinnen-kaempfen-um-gold-das-sollte-man-nicht-verpassen-a-9dd174ec-e270-4ae0-9619-8350b51bf063#ref=rss)
+### greifen
 
-* [https://www.spiegel.de/sport/olympia/olympia-2024-ethan-katzberg-gewinnt-gold-im-hammerwurf-wegen-der-sprinter-merkt-es-kaum-jemand](https://www.spiegel.de/sport/olympia/olympia-2024-ethan-katzberg-gewinnt-gold-im-hammerwurf-wegen-der-sprinter-merkt-es-kaum-jemand-a-8db47705-c03c-4c88-975a-2e38f2e95e2c#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2024-triathlon-gold-fuer-deutschland-bei-olympia-2024-ein-triumph-jenseits-der-seine-debatte](https://www.spiegel.de/sport/olympia/olympia-2024-triathlon-gold-fuer-deutschland-bei-olympia-2024-ein-triumph-jenseits-der-seine-debatte-a-4c77e8e6-9a0d-4ade-8fc7-6c30a2872cfa#ref=rss)
-* [https://www.spiegel.de/sport/olympia-2024-deutsche-triathlon-staffel-gewinnt-gold](https://www.spiegel.de/sport/olympia-2024-deutsche-triathlon-staffel-gewinnt-gold-a-1e25b1e9-bcf4-4c9d-a91b-c968b0452b33#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-news-heute-noah-lyles-rief-vor-100-meter-gold-seine-therapeutin-an](https://www.spiegel.de/sport/olympia/olympia-news-heute-noah-lyles-rief-vor-100-meter-gold-seine-therapeutin-an-a-cebc9375-c205-4940-b3cc-1b8e222d0544#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/experte-fordert-schwimmbadverbote-fuer-handy-eltern](https://www.spiegel.de/netzwelt/gadgets/experte-fordert-schwimmbadverbote-fuer-handy-eltern-a-482b21e0-7079-43ff-9309-b22c179d7232#ref=rss)
 ### gold
 
-* [https://www.spiegel.de/sport/olympia/olympia-2024-ethan-katzberg-gewinnt-gold-im-hammerwurf-wegen-der-sprinter-merkt-es-kaum-jemand](https://www.spiegel.de/sport/olympia/olympia-2024-ethan-katzberg-gewinnt-gold-im-hammerwurf-wegen-der-sprinter-merkt-es-kaum-jemand-a-8db47705-c03c-4c88-975a-2e38f2e95e2c#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2024-triathlon-gold-fuer-deutschland-bei-olympia-2024-ein-triumph-jenseits-der-seine-debatte](https://www.spiegel.de/sport/olympia/olympia-2024-triathlon-gold-fuer-deutschland-bei-olympia-2024-ein-triumph-jenseits-der-seine-debatte-a-4c77e8e6-9a0d-4ade-8fc7-6c30a2872cfa#ref=rss)
-* [https://www.spiegel.de/sport/olympia-2024-deutsche-triathlon-staffel-gewinnt-gold](https://www.spiegel.de/sport/olympia-2024-deutsche-triathlon-staffel-gewinnt-gold-a-1e25b1e9-bcf4-4c9d-a91b-c968b0452b33#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-news-heute-noah-lyles-rief-vor-100-meter-gold-seine-therapeutin-an](https://www.spiegel.de/sport/olympia/olympia-news-heute-noah-lyles-rief-vor-100-meter-gold-seine-therapeutin-an-a-cebc9375-c205-4940-b3cc-1b8e222d0544#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2024-die-deutschen-3x3-basketballerinnen-kaempfen-um-gold-das-sollte-man-nicht-verpassen](https://www.spiegel.de/sport/olympia/olympia-2024-die-deutschen-3x3-basketballerinnen-kaempfen-um-gold-das-sollte-man-nicht-verpassen-a-9dd174ec-e270-4ae0-9619-8350b51bf063#ref=rss)
+### news
+
+* [https://www.spiegel.de/sport/olympia/olympia-news-heute-noah-lyles-rief-vor-100-meter-gold-seine-therapeutin-an](https://www.spiegel.de/sport/olympia/olympia-news-heute-noah-lyles-rief-vor-100-meter-gold-seine-therapeutin-an-a-cebc9375-c205-4940-b3cc-1b8e222d0544#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ausschreitungen-in-grossbritannien-unruhen-in-bangladesch-olympia](https://www.spiegel.de/politik/deutschland/news-des-tages-ausschreitungen-in-grossbritannien-unruhen-in-bangladesch-olympia-a-0a745d61-8774-4861-9071-adedb3cb762c#ref=rss)
+### alt
+
+* [https://www.spiegel.de/geschichte/laermbelaestigung-in-ballungszentren-die-nervige-sinfonie-der-grossstadt](https://www.spiegel.de/geschichte/laermbelaestigung-in-ballungszentren-die-nervige-sinfonie-der-grossstadt-a-9f8949fc-15c5-47e9-99a0-289ca136e543#ref=rss)
+* [https://www.spiegel.de/kultur/marina-abramovic-will-103-jahre-alt-werden](https://www.spiegel.de/kultur/marina-abramovic-will-103-jahre-alt-werden-a-85a58278-74e7-4bfe-88d8-2c21b0446fdf#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/geschichte/laermbelaestigung-in-ballungszentren-die-nervige-sinfonie-der-grossstadt](https://www.spiegel.de/geschichte/laermbelaestigung-in-ballungszentren-die-nervige-sinfonie-der-grossstadt-a-9f8949fc-15c5-47e9-99a0-289ca136e543#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-koennte-deutsche-aus-dem-libanon-retten](https://www.spiegel.de/politik/deutschland/bundeswehr-koennte-deutsche-aus-dem-libanon-retten-a-6fd7dd82-2656-4232-b3a3-3a05e90d7880#ref=rss)
+### geschäft
+
+* [https://www.spiegel.de/wirtschaft/abnehmspritzen-nie-wieder-diaet-das-geschaeft-mit-ozempic-wegovy-und-co](https://www.spiegel.de/wirtschaft/abnehmspritzen-nie-wieder-diaet-das-geschaeft-mit-ozempic-wegovy-und-co-a-004947d5-ef4d-4cda-bfef-e2b2928b8327#ref=rss)
+* [https://www.spiegel.de/politik/abnehmspritzen-das-geschaeft-mit-ozempic-wegovy-und-co](https://www.spiegel.de/politik/abnehmspritzen-das-geschaeft-mit-ozempic-wegovy-und-co-a-e934c313-86bb-4878-8bd4-a6c882092719#ref=rss)
+### versprechen
+
+* [https://www.spiegel.de/wirtschaft/abnehmspritzen-nie-wieder-diaet-das-geschaeft-mit-ozempic-wegovy-und-co](https://www.spiegel.de/wirtschaft/abnehmspritzen-nie-wieder-diaet-das-geschaeft-mit-ozempic-wegovy-und-co-a-004947d5-ef4d-4cda-bfef-e2b2928b8327#ref=rss)
+* [https://www.spiegel.de/politik/abnehmspritzen-das-geschaeft-mit-ozempic-wegovy-und-co](https://www.spiegel.de/politik/abnehmspritzen-das-geschaeft-mit-ozempic-wegovy-und-co-a-e934c313-86bb-4878-8bd4-a6c882092719#ref=rss)
+### einzelne
+
+* [https://www.spiegel.de/wirtschaft/abnehmspritzen-nie-wieder-diaet-das-geschaeft-mit-ozempic-wegovy-und-co](https://www.spiegel.de/wirtschaft/abnehmspritzen-nie-wieder-diaet-das-geschaeft-mit-ozempic-wegovy-und-co-a-004947d5-ef4d-4cda-bfef-e2b2928b8327#ref=rss)
+* [https://www.spiegel.de/politik/abnehmspritzen-das-geschaeft-mit-ozempic-wegovy-und-co](https://www.spiegel.de/politik/abnehmspritzen-das-geschaeft-mit-ozempic-wegovy-und-co-a-e934c313-86bb-4878-8bd4-a6c882092719#ref=rss)
+### pharmakonzerne
+
+* [https://www.spiegel.de/wirtschaft/abnehmspritzen-nie-wieder-diaet-das-geschaeft-mit-ozempic-wegovy-und-co](https://www.spiegel.de/wirtschaft/abnehmspritzen-nie-wieder-diaet-das-geschaeft-mit-ozempic-wegovy-und-co-a-004947d5-ef4d-4cda-bfef-e2b2928b8327#ref=rss)
+* [https://www.spiegel.de/politik/abnehmspritzen-das-geschaeft-mit-ozempic-wegovy-und-co](https://www.spiegel.de/politik/abnehmspritzen-das-geschaeft-mit-ozempic-wegovy-und-co-a-e934c313-86bb-4878-8bd4-a6c882092719#ref=rss)
+### profitieren
+
+* [https://www.spiegel.de/wirtschaft/abnehmspritzen-nie-wieder-diaet-das-geschaeft-mit-ozempic-wegovy-und-co](https://www.spiegel.de/wirtschaft/abnehmspritzen-nie-wieder-diaet-das-geschaeft-mit-ozempic-wegovy-und-co-a-004947d5-ef4d-4cda-bfef-e2b2928b8327#ref=rss)
+* [https://www.spiegel.de/politik/abnehmspritzen-das-geschaeft-mit-ozempic-wegovy-und-co](https://www.spiegel.de/politik/abnehmspritzen-das-geschaeft-mit-ozempic-wegovy-und-co-a-e934c313-86bb-4878-8bd4-a6c882092719#ref=rss)
+### enorm
+
+* [https://www.spiegel.de/wirtschaft/abnehmspritzen-nie-wieder-diaet-das-geschaeft-mit-ozempic-wegovy-und-co](https://www.spiegel.de/wirtschaft/abnehmspritzen-nie-wieder-diaet-das-geschaeft-mit-ozempic-wegovy-und-co-a-004947d5-ef4d-4cda-bfef-e2b2928b8327#ref=rss)
+* [https://www.spiegel.de/politik/abnehmspritzen-das-geschaeft-mit-ozempic-wegovy-und-co](https://www.spiegel.de/politik/abnehmspritzen-das-geschaeft-mit-ozempic-wegovy-und-co-a-e934c313-86bb-4878-8bd4-a6c882092719#ref=rss)
+### spiegelredakteur
+
+* [https://www.spiegel.de/wirtschaft/abnehmspritzen-nie-wieder-diaet-das-geschaeft-mit-ozempic-wegovy-und-co](https://www.spiegel.de/wirtschaft/abnehmspritzen-nie-wieder-diaet-das-geschaeft-mit-ozempic-wegovy-und-co-a-004947d5-ef4d-4cda-bfef-e2b2928b8327#ref=rss)
+* [https://www.spiegel.de/politik/abnehmspritzen-das-geschaeft-mit-ozempic-wegovy-und-co](https://www.spiegel.de/politik/abnehmspritzen-das-geschaeft-mit-ozempic-wegovy-und-co-a-e934c313-86bb-4878-8bd4-a6c882092719#ref=rss)
+### alexander
+
+* [https://www.spiegel.de/wirtschaft/abnehmspritzen-nie-wieder-diaet-das-geschaeft-mit-ozempic-wegovy-und-co](https://www.spiegel.de/wirtschaft/abnehmspritzen-nie-wieder-diaet-das-geschaeft-mit-ozempic-wegovy-und-co-a-004947d5-ef4d-4cda-bfef-e2b2928b8327#ref=rss)
+* [https://www.spiegel.de/politik/abnehmspritzen-das-geschaeft-mit-ozempic-wegovy-und-co](https://www.spiegel.de/politik/abnehmspritzen-das-geschaeft-mit-ozempic-wegovy-und-co-a-e934c313-86bb-4878-8bd4-a6c882092719#ref=rss)
+### preker
+
+* [https://www.spiegel.de/wirtschaft/abnehmspritzen-nie-wieder-diaet-das-geschaeft-mit-ozempic-wegovy-und-co](https://www.spiegel.de/wirtschaft/abnehmspritzen-nie-wieder-diaet-das-geschaeft-mit-ozempic-wegovy-und-co-a-004947d5-ef4d-4cda-bfef-e2b2928b8327#ref=rss)
+* [https://www.spiegel.de/politik/abnehmspritzen-das-geschaeft-mit-ozempic-wegovy-und-co](https://www.spiegel.de/politik/abnehmspritzen-das-geschaeft-mit-ozempic-wegovy-und-co-a-e934c313-86bb-4878-8bd4-a6c882092719#ref=rss)
+### gewinner
+
+* [https://www.spiegel.de/wirtschaft/abnehmspritzen-nie-wieder-diaet-das-geschaeft-mit-ozempic-wegovy-und-co](https://www.spiegel.de/wirtschaft/abnehmspritzen-nie-wieder-diaet-das-geschaeft-mit-ozempic-wegovy-und-co-a-004947d5-ef4d-4cda-bfef-e2b2928b8327#ref=rss)
+* [https://www.spiegel.de/politik/abnehmspritzen-das-geschaeft-mit-ozempic-wegovy-und-co](https://www.spiegel.de/politik/abnehmspritzen-das-geschaeft-mit-ozempic-wegovy-und-co-a-e934c313-86bb-4878-8bd4-a6c882092719#ref=rss)
+### verlierer
+
+* [https://www.spiegel.de/wirtschaft/abnehmspritzen-nie-wieder-diaet-das-geschaeft-mit-ozempic-wegovy-und-co](https://www.spiegel.de/wirtschaft/abnehmspritzen-nie-wieder-diaet-das-geschaeft-mit-ozempic-wegovy-und-co-a-004947d5-ef4d-4cda-bfef-e2b2928b8327#ref=rss)
+* [https://www.spiegel.de/politik/abnehmspritzen-das-geschaeft-mit-ozempic-wegovy-und-co](https://www.spiegel.de/politik/abnehmspritzen-das-geschaeft-mit-ozempic-wegovy-und-co-a-e934c313-86bb-4878-8bd4-a6c882092719#ref=rss)
+### schlankheitstrends
+
+* [https://www.spiegel.de/wirtschaft/abnehmspritzen-nie-wieder-diaet-das-geschaeft-mit-ozempic-wegovy-und-co](https://www.spiegel.de/wirtschaft/abnehmspritzen-nie-wieder-diaet-das-geschaeft-mit-ozempic-wegovy-und-co-a-004947d5-ef4d-4cda-bfef-e2b2928b8327#ref=rss)
+* [https://www.spiegel.de/politik/abnehmspritzen-das-geschaeft-mit-ozempic-wegovy-und-co](https://www.spiegel.de/politik/abnehmspritzen-das-geschaeft-mit-ozempic-wegovy-und-co-a-e934c313-86bb-4878-8bd4-a6c882092719#ref=rss)
+### niclas
+
+* [https://www.spiegel.de/sport/fussball/fussball-nationalspieler-niclas-fuellkrug-wechselt-von-borussia-dortmund-zu-west-ham-united](https://www.spiegel.de/sport/fussball/fussball-nationalspieler-niclas-fuellkrug-wechselt-von-borussia-dortmund-zu-west-ham-united-a-f2c291c6-f682-4c27-875f-a28e2dcd3966#ref=rss)
+### füllkrug
+
+* [https://www.spiegel.de/sport/fussball/fussball-nationalspieler-niclas-fuellkrug-wechselt-von-borussia-dortmund-zu-west-ham-united](https://www.spiegel.de/sport/fussball/fussball-nationalspieler-niclas-fuellkrug-wechselt-von-borussia-dortmund-zu-west-ham-united-a-f2c291c6-f682-4c27-875f-a28e2dcd3966#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/sport/fussball/fussball-nationalspieler-niclas-fuellkrug-wechselt-von-borussia-dortmund-zu-west-ham-united](https://www.spiegel.de/sport/fussball/fussball-nationalspieler-niclas-fuellkrug-wechselt-von-borussia-dortmund-zu-west-ham-united-a-f2c291c6-f682-4c27-875f-a28e2dcd3966#ref=rss)
+* [https://www.spiegel.de/panorama/mallorca-massentourismus-gegner-wollen-ballermann-lokal-besetzen](https://www.spiegel.de/panorama/mallorca-massentourismus-gegner-wollen-ballermann-lokal-besetzen-a-2fc4abe0-fbec-4c0e-b986-a04c1c21ef7f#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/sport/fussball/fussball-nationalspieler-niclas-fuellkrug-wechselt-von-borussia-dortmund-zu-west-ham-united](https://www.spiegel.de/sport/fussball/fussball-nationalspieler-niclas-fuellkrug-wechselt-von-borussia-dortmund-zu-west-ham-united-a-f2c291c6-f682-4c27-875f-a28e2dcd3966#ref=rss)
+* [https://www.spiegel.de/netzwelt/tiktok-wenn-die-scham-an-der-broetchentheke-mitbestellt](https://www.spiegel.de/netzwelt/tiktok-wenn-die-scham-an-der-broetchentheke-mitbestellt-a-13b8904b-fb27-41e3-ac92-20f9b91745ad#ref=rss)
+### mallorca
+
+* [https://www.spiegel.de/panorama/mallorca-massentourismus-gegner-wollen-ballermann-lokal-besetzen](https://www.spiegel.de/panorama/mallorca-massentourismus-gegner-wollen-ballermann-lokal-besetzen-a-2fc4abe0-fbec-4c0e-b986-a04c1c21ef7f#ref=rss)
+### rebeca
+
+* [https://www.spiegel.de/sport/olympia/olympia-2024-rebeca-andrade-triumphiert-vor-simone-biles-vom-armenviertel-zur-olympiasiegerin-im-bodenfinale](https://www.spiegel.de/sport/olympia/olympia-2024-rebeca-andrade-triumphiert-vor-simone-biles-vom-armenviertel-zur-olympiasiegerin-im-bodenfinale-a-3e456961-f44c-4810-a2d2-324db22debae#ref=rss)
+### andrade
+
+* [https://www.spiegel.de/sport/olympia/olympia-2024-rebeca-andrade-triumphiert-vor-simone-biles-vom-armenviertel-zur-olympiasiegerin-im-bodenfinale](https://www.spiegel.de/sport/olympia/olympia-2024-rebeca-andrade-triumphiert-vor-simone-biles-vom-armenviertel-zur-olympiasiegerin-im-bodenfinale-a-3e456961-f44c-4810-a2d2-324db22debae#ref=rss)
+### simone
+
+* [https://www.spiegel.de/sport/olympia/olympia-2024-rebeca-andrade-triumphiert-vor-simone-biles-vom-armenviertel-zur-olympiasiegerin-im-bodenfinale](https://www.spiegel.de/sport/olympia/olympia-2024-rebeca-andrade-triumphiert-vor-simone-biles-vom-armenviertel-zur-olympiasiegerin-im-bodenfinale-a-3e456961-f44c-4810-a2d2-324db22debae#ref=rss)
+### biles
+
+* [https://www.spiegel.de/sport/olympia/olympia-2024-rebeca-andrade-triumphiert-vor-simone-biles-vom-armenviertel-zur-olympiasiegerin-im-bodenfinale](https://www.spiegel.de/sport/olympia/olympia-2024-rebeca-andrade-triumphiert-vor-simone-biles-vom-armenviertel-zur-olympiasiegerin-im-bodenfinale-a-3e456961-f44c-4810-a2d2-324db22debae#ref=rss)
+### armenviertel
+
+* [https://www.spiegel.de/sport/olympia/olympia-2024-rebeca-andrade-triumphiert-vor-simone-biles-vom-armenviertel-zur-olympiasiegerin-im-bodenfinale](https://www.spiegel.de/sport/olympia/olympia-2024-rebeca-andrade-triumphiert-vor-simone-biles-vom-armenviertel-zur-olympiasiegerin-im-bodenfinale-a-3e456961-f44c-4810-a2d2-324db22debae#ref=rss)
+### heißt
+
+* [https://www.spiegel.de/sport/olympia/olympia-2024-rebeca-andrade-triumphiert-vor-simone-biles-vom-armenviertel-zur-olympiasiegerin-im-bodenfinale](https://www.spiegel.de/sport/olympia/olympia-2024-rebeca-andrade-triumphiert-vor-simone-biles-vom-armenviertel-zur-olympiasiegerin-im-bodenfinale-a-3e456961-f44c-4810-a2d2-324db22debae#ref=rss)
+* [https://www.spiegel.de/ausland/israels-ministerpraesident-unter-druck-opfert-netanyahu-die-geiseln-um-an-der-macht-zu-bleiben](https://www.spiegel.de/ausland/israels-ministerpraesident-unter-druck-opfert-netanyahu-die-geiseln-um-an-der-macht-zu-bleiben-a-c17dc251-ac7b-44ec-8949-c1f09946092b#ref=rss)
 ### bangladesch
 
-* [https://www.spiegel.de/ausland/bangladesch-premierministerin-scheich-hasina-verlaesst-offenbar-das-land](https://www.spiegel.de/ausland/bangladesch-premierministerin-scheich-hasina-verlaesst-offenbar-das-land-a-480b6761-3fb7-4c01-a943-100f23e0dcda#ref=rss)
-* [https://www.spiegel.de/ausland/bangladesch-ueber-300-tote-bei-anti-regierungsprotesten](https://www.spiegel.de/ausland/bangladesch-ueber-300-tote-bei-anti-regierungsprotesten-a-86549024-d97e-4b9a-bdc2-0048d8d15160#ref=rss)
-### hunderte
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ausschreitungen-in-grossbritannien-unruhen-in-bangladesch-olympia](https://www.spiegel.de/politik/deutschland/news-des-tages-ausschreitungen-in-grossbritannien-unruhen-in-bangladesch-olympia-a-0a745d61-8774-4861-9071-adedb3cb762c#ref=rss)
+### lage
 
-* [https://www.spiegel.de/ausland/bangladesch-premierministerin-scheich-hasina-verlaesst-offenbar-das-land](https://www.spiegel.de/ausland/bangladesch-premierministerin-scheich-hasina-verlaesst-offenbar-das-land-a-480b6761-3fb7-4c01-a943-100f23e0dcda#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/schule-hunderte-bussgeld-verfahren-wegen-schwaenzens](https://www.spiegel.de/panorama/bildung/schule-hunderte-bussgeld-verfahren-wegen-schwaenzens-a-a915cc37-a455-4cd5-b1b2-48f6a407f045#ref=rss)
-### tote
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ausschreitungen-in-grossbritannien-unruhen-in-bangladesch-olympia](https://www.spiegel.de/politik/deutschland/news-des-tages-ausschreitungen-in-grossbritannien-unruhen-in-bangladesch-olympia-a-0a745d61-8774-4861-9071-adedb3cb762c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-koennte-deutsche-aus-dem-libanon-retten](https://www.spiegel.de/politik/deutschland/bundeswehr-koennte-deutsche-aus-dem-libanon-retten-a-6fd7dd82-2656-4232-b3a3-3a05e90d7880#ref=rss)
+### türkei
 
-* [https://www.spiegel.de/ausland/bangladesch-premierministerin-scheich-hasina-verlaesst-offenbar-das-land](https://www.spiegel.de/ausland/bangladesch-premierministerin-scheich-hasina-verlaesst-offenbar-das-land-a-480b6761-3fb7-4c01-a943-100f23e0dcda#ref=rss)
-* [https://www.spiegel.de/panorama/china-200-tote-und-vermisste-bei-sommer-unwettern](https://www.spiegel.de/panorama/china-200-tote-und-vermisste-bei-sommer-unwettern-a-44eeb7f9-61c5-4f36-a813-f8f9e4b9c2f6#ref=rss)
-* [https://www.spiegel.de/ausland/bangladesch-ueber-300-tote-bei-anti-regierungsprotesten](https://www.spiegel.de/ausland/bangladesch-ueber-300-tote-bei-anti-regierungsprotesten-a-86549024-d97e-4b9a-bdc2-0048d8d15160#ref=rss)
-### mehr
+* [https://www.spiegel.de/ausland/gazakrieg-tuerkei-will-sich-suedafrikas-klage-wegen-voelkermords-gegen-israel-anschliessen](https://www.spiegel.de/ausland/gazakrieg-tuerkei-will-sich-suedafrikas-klage-wegen-voelkermords-gegen-israel-anschliessen-a-e1a893da-1389-476a-be8d-44a27d0aae96#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/recep-tayyip-erdogan-wettert-nach-instagram-sperre-gegen-soziale-medien](https://www.spiegel.de/netzwelt/netzpolitik/recep-tayyip-erdogan-wettert-nach-instagram-sperre-gegen-soziale-medien-a-808d7800-01a2-45ab-8ccf-86ad8ba83ffe#ref=rss)
+### klage
 
-* [https://www.spiegel.de/panorama/china-200-tote-und-vermisste-bei-sommer-unwettern](https://www.spiegel.de/panorama/china-200-tote-und-vermisste-bei-sommer-unwettern-a-44eeb7f9-61c5-4f36-a813-f8f9e4b9c2f6#ref=rss)
-* [https://www.spiegel.de/start/bafoeg-zahl-der-empfaenger-2023-leicht-angestiegen](https://www.spiegel.de/start/bafoeg-zahl-der-empfaenger-2023-leicht-angestiegen-a-e5f3d662-7322-499e-a222-7ed76ee1b9ea#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/medizin-ploetzliche-blindheit-bei-schwangerer-patientin-ein-raetselhafter-fall](https://www.spiegel.de/gesundheit/diagnose/medizin-ploetzliche-blindheit-bei-schwangerer-patientin-ein-raetselhafter-fall-a-eb60fccf-1510-4fa0-b76f-0e3d538586d3#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/panorama/bildung/schule-hunderte-bussgeld-verfahren-wegen-schwaenzens](https://www.spiegel.de/panorama/bildung/schule-hunderte-bussgeld-verfahren-wegen-schwaenzens-a-a915cc37-a455-4cd5-b1b2-48f6a407f045#ref=rss)
-* [https://www.spiegel.de/ausland/gefangenenaustausch-mit-russland-kinder-von-spionen-ahnungslos-ueber-ihre-wahre-identitaet](https://www.spiegel.de/ausland/gefangenenaustausch-mit-russland-kinder-von-spionen-ahnungslos-ueber-ihre-wahre-identitaet-a-9ae33ed9-92f3-4368-87cd-4f8d5374af5e#ref=rss)
-### venedig
-
-* [https://www.spiegel.de/reise/staedte/eintrittsgeld-in-venedig-venedig-ist-ein-sternerestaurant-das-sich-zum-preis-eines-big-mac-verkauft](https://www.spiegel.de/reise/staedte/eintrittsgeld-in-venedig-venedig-ist-ein-sternerestaurant-das-sich-zum-preis-eines-big-mac-verkauft-a-1416caa2-e320-4fc3-96ec-4f61269a395c#ref=rss)
-### erreichen
-
-* [https://www.spiegel.de/ausland/grossbritannien-ausschreitungen-erreichen-neuen-hoehepunkt-mob-stuermt-asylunterkunft-in-rotherham](https://www.spiegel.de/ausland/grossbritannien-ausschreitungen-erreichen-neuen-hoehepunkt-mob-stuermt-asylunterkunft-in-rotherham-a-551523c2-e81f-4f88-a1fb-26a40da4c460#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-news-heute-noah-lyles-rief-vor-100-meter-gold-seine-therapeutin-an](https://www.spiegel.de/sport/olympia/olympia-news-heute-noah-lyles-rief-vor-100-meter-gold-seine-therapeutin-an-a-cebc9375-c205-4940-b3cc-1b8e222d0544#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/ausland/grossbritannien-ausschreitungen-erreichen-neuen-hoehepunkt-mob-stuermt-asylunterkunft-in-rotherham](https://www.spiegel.de/ausland/grossbritannien-ausschreitungen-erreichen-neuen-hoehepunkt-mob-stuermt-asylunterkunft-in-rotherham-a-551523c2-e81f-4f88-a1fb-26a40da4c460#ref=rss)
-* [https://www.spiegel.de/ausland/rassistische-krawalle-in-grossbritannien-bist-du-englisch-bist-du-weiss](https://www.spiegel.de/ausland/rassistische-krawalle-in-grossbritannien-bist-du-englisch-bist-du-weiss-a-5fdab454-6e1a-4a39-a74a-521a95b32ec8#ref=rss)
-### rotherham
-
-* [https://www.spiegel.de/ausland/grossbritannien-ausschreitungen-erreichen-neuen-hoehepunkt-mob-stuermt-asylunterkunft-in-rotherham](https://www.spiegel.de/ausland/grossbritannien-ausschreitungen-erreichen-neuen-hoehepunkt-mob-stuermt-asylunterkunft-in-rotherham-a-551523c2-e81f-4f88-a1fb-26a40da4c460#ref=rss)
-### leben
-
-* [https://www.spiegel.de/ausland/grossbritannien-ausschreitungen-erreichen-neuen-hoehepunkt-mob-stuermt-asylunterkunft-in-rotherham](https://www.spiegel.de/ausland/grossbritannien-ausschreitungen-erreichen-neuen-hoehepunkt-mob-stuermt-asylunterkunft-in-rotherham-a-551523c2-e81f-4f88-a1fb-26a40da4c460#ref=rss)
-* [https://www.spiegel.de/panorama/china-200-tote-und-vermisste-bei-sommer-unwettern](https://www.spiegel.de/panorama/china-200-tote-und-vermisste-bei-sommer-unwettern-a-44eeb7f9-61c5-4f36-a813-f8f9e4b9c2f6#ref=rss)
-### zeigen
-
-* [https://www.spiegel.de/ausland/grossbritannien-ausschreitungen-erreichen-neuen-hoehepunkt-mob-stuermt-asylunterkunft-in-rotherham](https://www.spiegel.de/ausland/grossbritannien-ausschreitungen-erreichen-neuen-hoehepunkt-mob-stuermt-asylunterkunft-in-rotherham-a-551523c2-e81f-4f88-a1fb-26a40da4c460#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-mitarbeiter-ueben-kritik-am-eigenen-unternehmen](https://www.spiegel.de/wirtschaft/deutsche-bahn-mitarbeiter-ueben-kritik-am-eigenen-unternehmen-a-4dbd5c8e-50e6-4335-bf91-6ea475a8b9b3#ref=rss)
-### gewalt
-
-* [https://www.spiegel.de/ausland/grossbritannien-ausschreitungen-erreichen-neuen-hoehepunkt-mob-stuermt-asylunterkunft-in-rotherham](https://www.spiegel.de/ausland/grossbritannien-ausschreitungen-erreichen-neuen-hoehepunkt-mob-stuermt-asylunterkunft-in-rotherham-a-551523c2-e81f-4f88-a1fb-26a40da4c460#ref=rss)
-* [https://www.spiegel.de/ausland/rassistische-krawalle-in-grossbritannien-bist-du-englisch-bist-du-weiss](https://www.spiegel.de/ausland/rassistische-krawalle-in-grossbritannien-bist-du-englisch-bist-du-weiss-a-5fdab454-6e1a-4a39-a74a-521a95b32ec8#ref=rss)
-### horst
-
-* [https://www.spiegel.de/kultur/tv/tatort-star-horst-lettenmayer-der-mann-mit-den-augen-aus-dem-krimi-vorspann-ist-tot](https://www.spiegel.de/kultur/tv/tatort-star-horst-lettenmayer-der-mann-mit-den-augen-aus-dem-krimi-vorspann-ist-tot-a-9ce21e2c-d243-469c-87b2-8114e32881ab#ref=rss)
-### lettenmayer
-
-* [https://www.spiegel.de/kultur/tv/tatort-star-horst-lettenmayer-der-mann-mit-den-augen-aus-dem-krimi-vorspann-ist-tot](https://www.spiegel.de/kultur/tv/tatort-star-horst-lettenmayer-der-mann-mit-den-augen-aus-dem-krimi-vorspann-ist-tot-a-9ce21e2c-d243-469c-87b2-8114e32881ab#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/kultur/tv/tatort-star-horst-lettenmayer-der-mann-mit-den-augen-aus-dem-krimi-vorspann-ist-tot](https://www.spiegel.de/kultur/tv/tatort-star-horst-lettenmayer-der-mann-mit-den-augen-aus-dem-krimi-vorspann-ist-tot-a-9ce21e2c-d243-469c-87b2-8114e32881ab#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/lohr-am-main-15-jaehriger-in-wuerzburg-wegen-mordes-an-mitschueler-zu-achteinhalb-jahren-jugendstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/lohr-am-main-15-jaehriger-in-wuerzburg-wegen-mordes-an-mitschueler-zu-achteinhalb-jahren-jugendstrafe-verurteilt-a-13578ce4-86dd-42a6-a967-8c6914a10d4f#ref=rss)
-### krawalle
-
-* [https://www.spiegel.de/ausland/rassistische-krawalle-in-grossbritannien-bist-du-englisch-bist-du-weiss](https://www.spiegel.de/ausland/rassistische-krawalle-in-grossbritannien-bist-du-englisch-bist-du-weiss-a-5fdab454-6e1a-4a39-a74a-521a95b32ec8#ref=rss)
-### bist
-
-* [https://www.spiegel.de/ausland/rassistische-krawalle-in-grossbritannien-bist-du-englisch-bist-du-weiss](https://www.spiegel.de/ausland/rassistische-krawalle-in-grossbritannien-bist-du-englisch-bist-du-weiss-a-5fdab454-6e1a-4a39-a74a-521a95b32ec8#ref=rss)
-### du
-
-* [https://www.spiegel.de/ausland/rassistische-krawalle-in-grossbritannien-bist-du-englisch-bist-du-weiss](https://www.spiegel.de/ausland/rassistische-krawalle-in-grossbritannien-bist-du-englisch-bist-du-weiss-a-5fdab454-6e1a-4a39-a74a-521a95b32ec8#ref=rss)
-### toter
-
-* [https://www.spiegel.de/panorama/frankreich-ein-toter-und-mehrere-verletzte-am-mont-blanc](https://www.spiegel.de/panorama/frankreich-ein-toter-und-mehrere-verletzte-am-mont-blanc-a-738e9b48-5459-49ef-a324-1a61b07ab209#ref=rss)
-* [https://www.spiegel.de/panorama/italien-reisbus-unfall-in-der-toskana-ein-toter-25-verletzte](https://www.spiegel.de/panorama/italien-reisbus-unfall-in-der-toskana-ein-toter-25-verletzte-a-81a86095-01af-458c-870d-46faea37b258#ref=rss)
-### verletzte
-
-* [https://www.spiegel.de/panorama/frankreich-ein-toter-und-mehrere-verletzte-am-mont-blanc](https://www.spiegel.de/panorama/frankreich-ein-toter-und-mehrere-verletzte-am-mont-blanc-a-738e9b48-5459-49ef-a324-1a61b07ab209#ref=rss)
-* [https://www.spiegel.de/panorama/italien-reisbus-unfall-in-der-toskana-ein-toter-25-verletzte](https://www.spiegel.de/panorama/italien-reisbus-unfall-in-der-toskana-ein-toter-25-verletzte-a-81a86095-01af-458c-870d-46faea37b258#ref=rss)
-### montag
-
-* [https://www.spiegel.de/panorama/frankreich-ein-toter-und-mehrere-verletzte-am-mont-blanc](https://www.spiegel.de/panorama/frankreich-ein-toter-und-mehrere-verletzte-am-mont-blanc-a-738e9b48-5459-49ef-a324-1a61b07ab209#ref=rss)
-* [https://www.spiegel.de/ausland/israel-vergeltungsschlag-irans-schon-in-den-naechsten-24-stunden-befuerchtet](https://www.spiegel.de/ausland/israel-vergeltungsschlag-irans-schon-in-den-naechsten-24-stunden-befuerchtet-a-4de62df7-c1ba-48e3-8e2a-be1004013552#ref=rss)
-### starb
-
-* [https://www.spiegel.de/panorama/frankreich-ein-toter-und-mehrere-verletzte-am-mont-blanc](https://www.spiegel.de/panorama/frankreich-ein-toter-und-mehrere-verletzte-am-mont-blanc-a-738e9b48-5459-49ef-a324-1a61b07ab209#ref=rss)
-* [https://www.spiegel.de/panorama/italien-reisbus-unfall-in-der-toskana-ein-toter-25-verletzte](https://www.spiegel.de/panorama/italien-reisbus-unfall-in-der-toskana-ein-toter-25-verletzte-a-81a86095-01af-458c-870d-46faea37b258#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/panorama/frankreich-ein-toter-und-mehrere-verletzte-am-mont-blanc](https://www.spiegel.de/panorama/frankreich-ein-toter-und-mehrere-verletzte-am-mont-blanc-a-738e9b48-5459-49ef-a324-1a61b07ab209#ref=rss)
-* [https://www.spiegel.de/panorama/italien-reisbus-unfall-in-der-toskana-ein-toter-25-verletzte](https://www.spiegel.de/panorama/italien-reisbus-unfall-in-der-toskana-ein-toter-25-verletzte-a-81a86095-01af-458c-870d-46faea37b258#ref=rss)
-### ethan
-
-* [https://www.spiegel.de/sport/olympia/olympia-2024-ethan-katzberg-gewinnt-gold-im-hammerwurf-wegen-der-sprinter-merkt-es-kaum-jemand](https://www.spiegel.de/sport/olympia/olympia-2024-ethan-katzberg-gewinnt-gold-im-hammerwurf-wegen-der-sprinter-merkt-es-kaum-jemand-a-8db47705-c03c-4c88-975a-2e38f2e95e2c#ref=rss)
-### katzberg
-
-* [https://www.spiegel.de/sport/olympia/olympia-2024-ethan-katzberg-gewinnt-gold-im-hammerwurf-wegen-der-sprinter-merkt-es-kaum-jemand](https://www.spiegel.de/sport/olympia/olympia-2024-ethan-katzberg-gewinnt-gold-im-hammerwurf-wegen-der-sprinter-merkt-es-kaum-jemand-a-8db47705-c03c-4c88-975a-2e38f2e95e2c#ref=rss)
-### jemand
-
-* [https://www.spiegel.de/sport/olympia/olympia-2024-ethan-katzberg-gewinnt-gold-im-hammerwurf-wegen-der-sprinter-merkt-es-kaum-jemand](https://www.spiegel.de/sport/olympia/olympia-2024-ethan-katzberg-gewinnt-gold-im-hammerwurf-wegen-der-sprinter-merkt-es-kaum-jemand-a-8db47705-c03c-4c88-975a-2e38f2e95e2c#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/sport/olympia/olympia-2024-ethan-katzberg-gewinnt-gold-im-hammerwurf-wegen-der-sprinter-merkt-es-kaum-jemand](https://www.spiegel.de/sport/olympia/olympia-2024-ethan-katzberg-gewinnt-gold-im-hammerwurf-wegen-der-sprinter-merkt-es-kaum-jemand-a-8db47705-c03c-4c88-975a-2e38f2e95e2c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/autoindustrie-sieht-kaum-aussicht-auf-schnelle-besserung](https://www.spiegel.de/wirtschaft/autoindustrie-sieht-kaum-aussicht-auf-schnelle-besserung-a-3dd71fb2-cb47-4c55-bafb-b0fd874f2404#ref=rss)
-### triumph
-
-* [https://www.spiegel.de/sport/olympia/olympia-2024-ethan-katzberg-gewinnt-gold-im-hammerwurf-wegen-der-sprinter-merkt-es-kaum-jemand](https://www.spiegel.de/sport/olympia/olympia-2024-ethan-katzberg-gewinnt-gold-im-hammerwurf-wegen-der-sprinter-merkt-es-kaum-jemand-a-8db47705-c03c-4c88-975a-2e38f2e95e2c#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2024-triathlon-gold-fuer-deutschland-bei-olympia-2024-ein-triumph-jenseits-der-seine-debatte](https://www.spiegel.de/sport/olympia/olympia-2024-triathlon-gold-fuer-deutschland-bei-olympia-2024-ein-triumph-jenseits-der-seine-debatte-a-4c77e8e6-9a0d-4ade-8fc7-6c30a2872cfa#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wissenschaft/mensch/hitzereport-der-dak-gesundheit-hitze-macht-jedem-vierten-zu-schaffen](https://www.spiegel.de/wissenschaft/mensch/hitzereport-der-dak-gesundheit-hitze-macht-jedem-vierten-zu-schaffen-a-f26cfdbe-a483-4d4c-b609-d1794e158882#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2024-triathlon-gold-fuer-deutschland-bei-olympia-2024-ein-triumph-jenseits-der-seine-debatte](https://www.spiegel.de/sport/olympia/olympia-2024-triathlon-gold-fuer-deutschland-bei-olympia-2024-ein-triumph-jenseits-der-seine-debatte-a-4c77e8e6-9a0d-4ade-8fc7-6c30a2872cfa#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/wissenschaft/mensch/hitzereport-der-dak-gesundheit-hitze-macht-jedem-vierten-zu-schaffen](https://www.spiegel.de/wissenschaft/mensch/hitzereport-der-dak-gesundheit-hitze-macht-jedem-vierten-zu-schaffen-a-f26cfdbe-a483-4d4c-b609-d1794e158882#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2024-triathlon-gold-fuer-deutschland-bei-olympia-2024-ein-triumph-jenseits-der-seine-debatte](https://www.spiegel.de/sport/olympia/olympia-2024-triathlon-gold-fuer-deutschland-bei-olympia-2024-ein-triumph-jenseits-der-seine-debatte-a-4c77e8e6-9a0d-4ade-8fc7-6c30a2872cfa#ref=rss)
-### besonders
-
-* [https://www.spiegel.de/wissenschaft/mensch/hitzereport-der-dak-gesundheit-hitze-macht-jedem-vierten-zu-schaffen](https://www.spiegel.de/wissenschaft/mensch/hitzereport-der-dak-gesundheit-hitze-macht-jedem-vierten-zu-schaffen-a-f26cfdbe-a483-4d4c-b609-d1794e158882#ref=rss)
-* [https://www.spiegel.de/start/studieren-in-kassel-campus-wohnviertel-wg-zimmer-preise-und-kneipen](https://www.spiegel.de/start/studieren-in-kassel-campus-wohnviertel-wg-zimmer-preise-und-kneipen-a-d7f7646d-def0-43b7-9770-862fffc976ee#ref=rss)
-### premierministerin
-
-* [https://www.spiegel.de/ausland/bangladesch-premierministerin-scheich-hasina-verlaesst-offenbar-das-land](https://www.spiegel.de/ausland/bangladesch-premierministerin-scheich-hasina-verlaesst-offenbar-das-land-a-480b6761-3fb7-4c01-a943-100f23e0dcda#ref=rss)
-### scheich
-
-* [https://www.spiegel.de/ausland/bangladesch-premierministerin-scheich-hasina-verlaesst-offenbar-das-land](https://www.spiegel.de/ausland/bangladesch-premierministerin-scheich-hasina-verlaesst-offenbar-das-land-a-480b6761-3fb7-4c01-a943-100f23e0dcda#ref=rss)
-### hasina
-
-* [https://www.spiegel.de/ausland/bangladesch-premierministerin-scheich-hasina-verlaesst-offenbar-das-land](https://www.spiegel.de/ausland/bangladesch-premierministerin-scheich-hasina-verlaesst-offenbar-das-land-a-480b6761-3fb7-4c01-a943-100f23e0dcda#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/ausland/bangladesch-premierministerin-scheich-hasina-verlaesst-offenbar-das-land](https://www.spiegel.de/ausland/bangladesch-premierministerin-scheich-hasina-verlaesst-offenbar-das-land-a-480b6761-3fb7-4c01-a943-100f23e0dcda#ref=rss)
-* [https://www.spiegel.de/ausland/bangladesch-ueber-300-tote-bei-anti-regierungsprotesten](https://www.spiegel.de/ausland/bangladesch-ueber-300-tote-bei-anti-regierungsprotesten-a-86549024-d97e-4b9a-bdc2-0048d8d15160#ref=rss)
-### land
-
-* [https://www.spiegel.de/ausland/bangladesch-premierministerin-scheich-hasina-verlaesst-offenbar-das-land](https://www.spiegel.de/ausland/bangladesch-premierministerin-scheich-hasina-verlaesst-offenbar-das-land-a-480b6761-3fb7-4c01-a943-100f23e0dcda#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-angriff-auf-wagner-soeldner-mali-bricht-diplomatische-beziehungen-zur-ukraine-ab](https://www.spiegel.de/ausland/ukraine-krieg-angriff-auf-wagner-soeldner-mali-bricht-diplomatische-beziehungen-zur-ukraine-ab-a-14091f6d-fb92-4eb1-a516-220a9bb2c8af#ref=rss)
-### demonstranten
-
-* [https://www.spiegel.de/ausland/bangladesch-premierministerin-scheich-hasina-verlaesst-offenbar-das-land](https://www.spiegel.de/ausland/bangladesch-premierministerin-scheich-hasina-verlaesst-offenbar-das-land-a-480b6761-3fb7-4c01-a943-100f23e0dcda#ref=rss)
-* [https://www.spiegel.de/ausland/bangladesch-ueber-300-tote-bei-anti-regierungsprotesten](https://www.spiegel.de/ausland/bangladesch-ueber-300-tote-bei-anti-regierungsprotesten-a-86549024-d97e-4b9a-bdc2-0048d8d15160#ref=rss)
-### adele
-
-* [https://www.spiegel.de/panorama/leute/adele-uebertraegt-bei-ihrem-konzert-das-100-meter-frauenfinale-live-anders-als-das-zdf](https://www.spiegel.de/panorama/leute/adele-uebertraegt-bei-ihrem-konzert-das-100-meter-frauenfinale-live-anders-als-das-zdf-a-a57d14f3-360d-40a3-b187-632680c29db4#ref=rss)
-### konzert
-
-* [https://www.spiegel.de/panorama/leute/adele-uebertraegt-bei-ihrem-konzert-das-100-meter-frauenfinale-live-anders-als-das-zdf](https://www.spiegel.de/panorama/leute/adele-uebertraegt-bei-ihrem-konzert-das-100-meter-frauenfinale-live-anders-als-das-zdf-a-a57d14f3-360d-40a3-b187-632680c29db4#ref=rss)
-### live
-
-* [https://www.spiegel.de/panorama/leute/adele-uebertraegt-bei-ihrem-konzert-das-100-meter-frauenfinale-live-anders-als-das-zdf](https://www.spiegel.de/panorama/leute/adele-uebertraegt-bei-ihrem-konzert-das-100-meter-frauenfinale-live-anders-als-das-zdf-a-a57d14f3-360d-40a3-b187-632680c29db4#ref=rss)
-### erst
-
-* [https://www.spiegel.de/panorama/leute/adele-uebertraegt-bei-ihrem-konzert-das-100-meter-frauenfinale-live-anders-als-das-zdf](https://www.spiegel.de/panorama/leute/adele-uebertraegt-bei-ihrem-konzert-das-100-meter-frauenfinale-live-anders-als-das-zdf-a-a57d14f3-360d-40a3-b187-632680c29db4#ref=rss)
-* [https://www.spiegel.de/ausland/bangladesch-ueber-300-tote-bei-anti-regierungsprotesten](https://www.spiegel.de/ausland/bangladesch-ueber-300-tote-bei-anti-regierungsprotesten-a-86549024-d97e-4b9a-bdc2-0048d8d15160#ref=rss)
-### mixedwettbewerb
-
-* [https://www.spiegel.de/sport/olympia/olympia-2024-triathlon-gold-fuer-deutschland-bei-olympia-2024-ein-triumph-jenseits-der-seine-debatte](https://www.spiegel.de/sport/olympia/olympia-2024-triathlon-gold-fuer-deutschland-bei-olympia-2024-ein-triumph-jenseits-der-seine-debatte-a-4c77e8e6-9a0d-4ade-8fc7-6c30a2872cfa#ref=rss)
-* [https://www.spiegel.de/sport/olympia-2024-deutsche-triathlon-staffel-gewinnt-gold](https://www.spiegel.de/sport/olympia-2024-deutsche-triathlon-staffel-gewinnt-gold-a-1e25b1e9-bcf4-4c9d-a91b-c968b0452b33#ref=rss)
-### attacke
-
-* [https://www.spiegel.de/sport/olympia/olympia-2024-triathlon-gold-fuer-deutschland-bei-olympia-2024-ein-triumph-jenseits-der-seine-debatte](https://www.spiegel.de/sport/olympia/olympia-2024-triathlon-gold-fuer-deutschland-bei-olympia-2024-ein-triumph-jenseits-der-seine-debatte-a-4c77e8e6-9a0d-4ade-8fc7-6c30a2872cfa#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-angriff-auf-wagner-soeldner-mali-bricht-diplomatische-beziehungen-zur-ukraine-ab](https://www.spiegel.de/ausland/ukraine-krieg-angriff-auf-wagner-soeldner-mali-bricht-diplomatische-beziehungen-zur-ukraine-ab-a-14091f6d-fb92-4eb1-a516-220a9bb2c8af#ref=rss)
-### laura
-
-* [https://www.spiegel.de/sport/olympia/olympia-2024-triathlon-gold-fuer-deutschland-bei-olympia-2024-ein-triumph-jenseits-der-seine-debatte](https://www.spiegel.de/sport/olympia/olympia-2024-triathlon-gold-fuer-deutschland-bei-olympia-2024-ein-triumph-jenseits-der-seine-debatte-a-4c77e8e6-9a0d-4ade-8fc7-6c30a2872cfa#ref=rss)
-* [https://www.spiegel.de/sport/olympia-2024-deutsche-triathlon-staffel-gewinnt-gold](https://www.spiegel.de/sport/olympia-2024-deutsche-triathlon-staffel-gewinnt-gold-a-1e25b1e9-bcf4-4c9d-a91b-c968b0452b33#ref=rss)
-### lindemann
-
-* [https://www.spiegel.de/sport/olympia/olympia-2024-triathlon-gold-fuer-deutschland-bei-olympia-2024-ein-triumph-jenseits-der-seine-debatte](https://www.spiegel.de/sport/olympia/olympia-2024-triathlon-gold-fuer-deutschland-bei-olympia-2024-ein-triumph-jenseits-der-seine-debatte-a-4c77e8e6-9a0d-4ade-8fc7-6c30a2872cfa#ref=rss)
-* [https://www.spiegel.de/sport/olympia-2024-deutsche-triathlon-staffel-gewinnt-gold](https://www.spiegel.de/sport/olympia-2024-deutsche-triathlon-staffel-gewinnt-gold-a-1e25b1e9-bcf4-4c9d-a91b-c968b0452b33#ref=rss)
-### vince
-
-* [https://www.spiegel.de/kultur/kino/star-aus-voll-auf-die-nuesse-vince-vaughn-beklagt-dass-es-kaum-noch-gefaehrliche](https://www.spiegel.de/kultur/kino/star-aus-voll-auf-die-nuesse-vince-vaughn-beklagt-dass-es-kaum-noch-gefaehrliche-a-5b9a1cf2-2b44-4ebf-b0a6-1a5dc5049fcf#ref=rss)
-### vaughn
-
-* [https://www.spiegel.de/kultur/kino/star-aus-voll-auf-die-nuesse-vince-vaughn-beklagt-dass-es-kaum-noch-gefaehrliche](https://www.spiegel.de/kultur/kino/star-aus-voll-auf-die-nuesse-vince-vaughn-beklagt-dass-es-kaum-noch-gefaehrliche-a-5b9a1cf2-2b44-4ebf-b0a6-1a5dc5049fcf#ref=rss)
-### beziehungen
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-angriff-auf-wagner-soeldner-mali-bricht-diplomatische-beziehungen-zur-ukraine-ab](https://www.spiegel.de/ausland/ukraine-krieg-angriff-auf-wagner-soeldner-mali-bricht-diplomatische-beziehungen-zur-ukraine-ab-a-14091f6d-fb92-4eb1-a516-220a9bb2c8af#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-angriff-auf-wagner-soeldner-mali-bricht-diplomatische-beziehungen-zur-ukraine-ab](https://www.spiegel.de/ausland/ukraine-krieg-angriff-auf-wagner-soeldner-mali-bricht-diplomatische-beziehungen-zur-ukraine-ab-a-14091f6d-fb92-4eb1-a516-220a9bb2c8af#ref=rss)
-### schwere
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-angriff-auf-wagner-soeldner-mali-bricht-diplomatische-beziehungen-zur-ukraine-ab](https://www.spiegel.de/ausland/ukraine-krieg-angriff-auf-wagner-soeldner-mali-bricht-diplomatische-beziehungen-zur-ukraine-ab-a-14091f6d-fb92-4eb1-a516-220a9bb2c8af#ref=rss)
-* [https://www.spiegel.de/panorama/china-200-tote-und-vermisste-bei-sommer-unwettern](https://www.spiegel.de/panorama/china-200-tote-und-vermisste-bei-sommer-unwettern-a-44eeb7f9-61c5-4f36-a813-f8f9e4b9c2f6#ref=rss)
-### 15jähriger
-
-* [https://www.spiegel.de/panorama/justiz/lohr-am-main-15-jaehriger-in-wuerzburg-wegen-mordes-an-mitschueler-zu-achteinhalb-jahren-jugendstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/lohr-am-main-15-jaehriger-in-wuerzburg-wegen-mordes-an-mitschueler-zu-achteinhalb-jahren-jugendstrafe-verurteilt-a-13578ce4-86dd-42a6-a967-8c6914a10d4f#ref=rss)
-### würzburg
-
-* [https://www.spiegel.de/panorama/justiz/lohr-am-main-15-jaehriger-in-wuerzburg-wegen-mordes-an-mitschueler-zu-achteinhalb-jahren-jugendstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/lohr-am-main-15-jaehriger-in-wuerzburg-wegen-mordes-an-mitschueler-zu-achteinhalb-jahren-jugendstrafe-verurteilt-a-13578ce4-86dd-42a6-a967-8c6914a10d4f#ref=rss)
-### mordes
-
-* [https://www.spiegel.de/panorama/justiz/lohr-am-main-15-jaehriger-in-wuerzburg-wegen-mordes-an-mitschueler-zu-achteinhalb-jahren-jugendstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/lohr-am-main-15-jaehriger-in-wuerzburg-wegen-mordes-an-mitschueler-zu-achteinhalb-jahren-jugendstrafe-verurteilt-a-13578ce4-86dd-42a6-a967-8c6914a10d4f#ref=rss)
-### anderen
-
-* [https://www.spiegel.de/panorama/justiz/lohr-am-main-15-jaehriger-in-wuerzburg-wegen-mordes-an-mitschueler-zu-achteinhalb-jahren-jugendstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/lohr-am-main-15-jaehriger-in-wuerzburg-wegen-mordes-an-mitschueler-zu-achteinhalb-jahren-jugendstrafe-verurteilt-a-13578ce4-86dd-42a6-a967-8c6914a10d4f#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/medizin-ploetzliche-blindheit-bei-schwangerer-patientin-ein-raetselhafter-fall](https://www.spiegel.de/gesundheit/diagnose/medizin-ploetzliche-blindheit-bei-schwangerer-patientin-ein-raetselhafter-fall-a-eb60fccf-1510-4fa0-b76f-0e3d538586d3#ref=rss)
-### schule
-
-* [https://www.spiegel.de/panorama/justiz/lohr-am-main-15-jaehriger-in-wuerzburg-wegen-mordes-an-mitschueler-zu-achteinhalb-jahren-jugendstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/lohr-am-main-15-jaehriger-in-wuerzburg-wegen-mordes-an-mitschueler-zu-achteinhalb-jahren-jugendstrafe-verurteilt-a-13578ce4-86dd-42a6-a967-8c6914a10d4f#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/schule-hunderte-bussgeld-verfahren-wegen-schwaenzens](https://www.spiegel.de/panorama/bildung/schule-hunderte-bussgeld-verfahren-wegen-schwaenzens-a-a915cc37-a455-4cd5-b1b2-48f6a407f045#ref=rss)
-### china
-
-* [https://www.spiegel.de/panorama/china-200-tote-und-vermisste-bei-sommer-unwettern](https://www.spiegel.de/panorama/china-200-tote-und-vermisste-bei-sommer-unwettern-a-44eeb7f9-61c5-4f36-a813-f8f9e4b9c2f6#ref=rss)
-### vorjahr
-
-* [https://www.spiegel.de/panorama/bildung/schule-hunderte-bussgeld-verfahren-wegen-schwaenzens](https://www.spiegel.de/panorama/bildung/schule-hunderte-bussgeld-verfahren-wegen-schwaenzens-a-a915cc37-a455-4cd5-b1b2-48f6a407f045#ref=rss)
-* [https://www.spiegel.de/start/bafoeg-zahl-der-empfaenger-2023-leicht-angestiegen](https://www.spiegel.de/start/bafoeg-zahl-der-empfaenger-2023-leicht-angestiegen-a-e5f3d662-7322-499e-a222-7ed76ee1b9ea#ref=rss)
-### infineon
-
-* [https://www.spiegel.de/wirtschaft/infineon-chiphersteller-kuendigt-entlassungen-in-hochlohnlaendern-an](https://www.spiegel.de/wirtschaft/infineon-chiphersteller-kuendigt-entlassungen-in-hochlohnlaendern-an-a-8fde18d8-812b-4483-afd7-53bc0748ba79#ref=rss)
-### chiphersteller
-
-* [https://www.spiegel.de/wirtschaft/infineon-chiphersteller-kuendigt-entlassungen-in-hochlohnlaendern-an](https://www.spiegel.de/wirtschaft/infineon-chiphersteller-kuendigt-entlassungen-in-hochlohnlaendern-an-a-8fde18d8-812b-4483-afd7-53bc0748ba79#ref=rss)
-### hochlohnländern
-
-* [https://www.spiegel.de/wirtschaft/infineon-chiphersteller-kuendigt-entlassungen-in-hochlohnlaendern-an](https://www.spiegel.de/wirtschaft/infineon-chiphersteller-kuendigt-entlassungen-in-hochlohnlaendern-an-a-8fde18d8-812b-4483-afd7-53bc0748ba79#ref=rss)
-### toskana
-
-* [https://www.spiegel.de/panorama/italien-reisbus-unfall-in-der-toskana-ein-toter-25-verletzte](https://www.spiegel.de/panorama/italien-reisbus-unfall-in-der-toskana-ein-toter-25-verletzte-a-81a86095-01af-458c-870d-46faea37b258#ref=rss)
-### bafög
-
-* [https://www.spiegel.de/start/bafoeg-zahl-der-empfaenger-2023-leicht-angestiegen](https://www.spiegel.de/start/bafoeg-zahl-der-empfaenger-2023-leicht-angestiegen-a-e5f3d662-7322-499e-a222-7ed76ee1b9ea#ref=rss)
-### zahl
-
-* [https://www.spiegel.de/start/bafoeg-zahl-der-empfaenger-2023-leicht-angestiegen](https://www.spiegel.de/start/bafoeg-zahl-der-empfaenger-2023-leicht-angestiegen-a-e5f3d662-7322-499e-a222-7ed76ee1b9ea#ref=rss)
-### studierende
-
-* [https://www.spiegel.de/start/bafoeg-zahl-der-empfaenger-2023-leicht-angestiegen](https://www.spiegel.de/start/bafoeg-zahl-der-empfaenger-2023-leicht-angestiegen-a-e5f3d662-7322-499e-a222-7ed76ee1b9ea#ref=rss)
-* [https://www.spiegel.de/ausland/bangladesch-ueber-300-tote-bei-anti-regierungsprotesten](https://www.spiegel.de/ausland/bangladesch-ueber-300-tote-bei-anti-regierungsprotesten-a-86549024-d97e-4b9a-bdc2-0048d8d15160#ref=rss)
-### lange
-
-* [https://www.spiegel.de/start/bafoeg-zahl-der-empfaenger-2023-leicht-angestiegen](https://www.spiegel.de/start/bafoeg-zahl-der-empfaenger-2023-leicht-angestiegen-a-e5f3d662-7322-499e-a222-7ed76ee1b9ea#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2024-noah-lyles-erfuellt-sein-versprechen-und-wird-schnellster-mann-der-welt](https://www.spiegel.de/sport/olympia/olympia-2024-noah-lyles-erfuellt-sein-versprechen-und-wird-schnellster-mann-der-welt-a-f20a0553-7f53-4c22-ac35-ca70f4431e5a#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/reise/staedte/eintrittsgeld-in-venedig-venedig-ist-ein-sternerestaurant-das-sich-zum-preis-eines-big-mac-verkauft](https://www.spiegel.de/reise/staedte/eintrittsgeld-in-venedig-venedig-ist-ein-sternerestaurant-das-sich-zum-preis-eines-big-mac-verkauft-a-1416caa2-e320-4fc3-96ec-4f61269a395c#ref=rss)
+* [https://www.spiegel.de/ausland/gazakrieg-tuerkei-will-sich-suedafrikas-klage-wegen-voelkermords-gegen-israel-anschliessen](https://www.spiegel.de/ausland/gazakrieg-tuerkei-will-sich-suedafrikas-klage-wegen-voelkermords-gegen-israel-anschliessen-a-e1a893da-1389-476a-be8d-44a27d0aae96#ref=rss)
 ### israel
 
-* [https://www.spiegel.de/ausland/israel-vergeltungsschlag-irans-schon-in-den-naechsten-24-stunden-befuerchtet](https://www.spiegel.de/ausland/israel-vergeltungsschlag-irans-schon-in-den-naechsten-24-stunden-befuerchtet-a-4de62df7-c1ba-48e3-8e2a-be1004013552#ref=rss)
-### irans
+* [https://www.spiegel.de/ausland/gazakrieg-tuerkei-will-sich-suedafrikas-klage-wegen-voelkermords-gegen-israel-anschliessen](https://www.spiegel.de/ausland/gazakrieg-tuerkei-will-sich-suedafrikas-klage-wegen-voelkermords-gegen-israel-anschliessen-a-e1a893da-1389-476a-be8d-44a27d0aae96#ref=rss)
+### 2023
 
-* [https://www.spiegel.de/ausland/israel-vergeltungsschlag-irans-schon-in-den-naechsten-24-stunden-befuerchtet](https://www.spiegel.de/ausland/israel-vergeltungsschlag-irans-schon-in-den-naechsten-24-stunden-befuerchtet-a-4de62df7-c1ba-48e3-8e2a-be1004013552#ref=rss)
+* [https://www.spiegel.de/ausland/gazakrieg-tuerkei-will-sich-suedafrikas-klage-wegen-voelkermords-gegen-israel-anschliessen](https://www.spiegel.de/ausland/gazakrieg-tuerkei-will-sich-suedafrikas-klage-wegen-voelkermords-gegen-israel-anschliessen-a-e1a893da-1389-476a-be8d-44a27d0aae96#ref=rss)
+* [https://www.spiegel.de/ausland/niger-usa-raeumen-strategisch-wichtige-drohnenbasis-in-agadez](https://www.spiegel.de/ausland/niger-usa-raeumen-strategisch-wichtige-drohnenbasis-in-agadez-a-fc36ee66-2e5d-47fe-8144-ee0a584d8479#ref=rss)
+### libanon
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-koennte-deutsche-aus-dem-libanon-retten](https://www.spiegel.de/politik/deutschland/bundeswehr-koennte-deutsche-aus-dem-libanon-retten-a-6fd7dd82-2656-4232-b3a3-3a05e90d7880#ref=rss)
+### sachsen
+
+* [https://www.spiegel.de/panorama/bildung/gendern-an-schulen-in-sachsen-neue-regelung-fuehrt-zu-punktabzug-in-schularbeiten](https://www.spiegel.de/panorama/bildung/gendern-an-schulen-in-sachsen-neue-regelung-fuehrt-zu-punktabzug-in-schularbeiten-a-16ee1c6a-546d-4824-a664-ce6ba15ab661#ref=rss)
+### neue
+
+* [https://www.spiegel.de/panorama/bildung/gendern-an-schulen-in-sachsen-neue-regelung-fuehrt-zu-punktabzug-in-schularbeiten](https://www.spiegel.de/panorama/bildung/gendern-an-schulen-in-sachsen-neue-regelung-fuehrt-zu-punktabzug-in-schularbeiten-a-16ee1c6a-546d-4824-a664-ce6ba15ab661#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/haushaltsstreit-schwesig-draengt-ampel-zur-einigung](https://www.spiegel.de/politik/deutschland/haushaltsstreit-schwesig-draengt-ampel-zur-einigung-a-c0cb9650-fdb4-436c-9a92-ceaad1ee4b8f#ref=rss)
+### experte
+
+* [https://www.spiegel.de/netzwelt/biochemiker-warnt-vor-risiken-von-ki-generierten-biowaffen](https://www.spiegel.de/netzwelt/biochemiker-warnt-vor-risiken-von-ki-generierten-biowaffen-a-9c685679-63a6-4bc1-96ad-2985087cd5d3#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/experte-fordert-schwimmbadverbote-fuer-handy-eltern](https://www.spiegel.de/netzwelt/gadgets/experte-fordert-schwimmbadverbote-fuer-handy-eltern-a-482b21e0-7079-43ff-9309-b22c179d7232#ref=rss)
+### niger
+
+* [https://www.spiegel.de/ausland/niger-usa-raeumen-strategisch-wichtige-drohnenbasis-in-agadez](https://www.spiegel.de/ausland/niger-usa-raeumen-strategisch-wichtige-drohnenbasis-in-agadez-a-fc36ee66-2e5d-47fe-8144-ee0a584d8479#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/ausland/israel-vergeltungsschlag-irans-schon-in-den-naechsten-24-stunden-befuerchtet](https://www.spiegel.de/ausland/israel-vergeltungsschlag-irans-schon-in-den-naechsten-24-stunden-befuerchtet-a-4de62df7-c1ba-48e3-8e2a-be1004013552#ref=rss)
-* [https://www.spiegel.de/sport/olympia-2024-deutsche-triathlon-staffel-gewinnt-gold](https://www.spiegel.de/sport/olympia-2024-deutsche-triathlon-staffel-gewinnt-gold-a-1e25b1e9-bcf4-4c9d-a91b-c968b0452b33#ref=rss)
-### sorge
+* [https://www.spiegel.de/ausland/niger-usa-raeumen-strategisch-wichtige-drohnenbasis-in-agadez](https://www.spiegel.de/ausland/niger-usa-raeumen-strategisch-wichtige-drohnenbasis-in-agadez-a-fc36ee66-2e5d-47fe-8144-ee0a584d8479#ref=rss)
+### russlands
 
-* [https://www.spiegel.de/wirtschaft/sorge-um-us-konjunktur-laesst-aktienkurse-einbrechen](https://www.spiegel.de/wirtschaft/sorge-um-us-konjunktur-laesst-aktienkurse-einbrechen-a-78243cfd-b02e-41cf-b233-1747b64c688f#ref=rss)
-### uskonjunktur
+* [https://www.spiegel.de/ausland/niger-usa-raeumen-strategisch-wichtige-drohnenbasis-in-agadez](https://www.spiegel.de/ausland/niger-usa-raeumen-strategisch-wichtige-drohnenbasis-in-agadez-a-fc36ee66-2e5d-47fe-8144-ee0a584d8479#ref=rss)
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-schickt-sicherheitsrats-sekretaer-sergej-schoigu-nach-iran](https://www.spiegel.de/ausland/russland-wladimir-putin-schickt-sicherheitsrats-sekretaer-sergej-schoigu-nach-iran-a-8c531328-fd75-4158-bd71-cbb58ecc2d23#ref=rss)
+### börse
 
-* [https://www.spiegel.de/wirtschaft/sorge-um-us-konjunktur-laesst-aktienkurse-einbrechen](https://www.spiegel.de/wirtschaft/sorge-um-us-konjunktur-laesst-aktienkurse-einbrechen-a-78243cfd-b02e-41cf-b233-1747b64c688f#ref=rss)
-### kritik
+* [https://www.spiegel.de/wirtschaft/service/boerse-aktienkurse-und-kryptowaehrungen-brechen-ein-korrektur-oder-crash](https://www.spiegel.de/wirtschaft/service/boerse-aktienkurse-und-kryptowaehrungen-brechen-ein-korrektur-oder-crash-a-c7de3304-095b-45dd-9173-9796482a3864#ref=rss)
+* [https://www.spiegel.de/wirtschaft/boerse-schlechte-wirtschaftsdaten-belasten-wall-street-nasdaq-index-stuerzt-ab-apple-und-nvidia-besonders-betroffen](https://www.spiegel.de/wirtschaft/boerse-schlechte-wirtschaftsdaten-belasten-wall-street-nasdaq-index-stuerzt-ab-apple-und-nvidia-besonders-betroffen-a-896d29f6-da4f-439e-8594-de0309b9d118#ref=rss)
+### aktienkurse
 
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-mitarbeiter-ueben-kritik-am-eigenen-unternehmen](https://www.spiegel.de/wirtschaft/deutsche-bahn-mitarbeiter-ueben-kritik-am-eigenen-unternehmen-a-4dbd5c8e-50e6-4335-bf91-6ea475a8b9b3#ref=rss)
-### unternehmen
+* [https://www.spiegel.de/wirtschaft/service/boerse-aktienkurse-und-kryptowaehrungen-brechen-ein-korrektur-oder-crash](https://www.spiegel.de/wirtschaft/service/boerse-aktienkurse-und-kryptowaehrungen-brechen-ein-korrektur-oder-crash-a-c7de3304-095b-45dd-9173-9796482a3864#ref=rss)
+### kryptowährungen
 
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-mitarbeiter-ueben-kritik-am-eigenen-unternehmen](https://www.spiegel.de/wirtschaft/deutsche-bahn-mitarbeiter-ueben-kritik-am-eigenen-unternehmen-a-4dbd5c8e-50e6-4335-bf91-6ea475a8b9b3#ref=rss)
-### hin
+* [https://www.spiegel.de/wirtschaft/service/boerse-aktienkurse-und-kryptowaehrungen-brechen-ein-korrektur-oder-crash](https://www.spiegel.de/wirtschaft/service/boerse-aktienkurse-und-kryptowaehrungen-brechen-ein-korrektur-oder-crash-a-c7de3304-095b-45dd-9173-9796482a3864#ref=rss)
+### korrektur
 
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-mitarbeiter-ueben-kritik-am-eigenen-unternehmen](https://www.spiegel.de/wirtschaft/deutsche-bahn-mitarbeiter-ueben-kritik-am-eigenen-unternehmen-a-4dbd5c8e-50e6-4335-bf91-6ea475a8b9b3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/autoindustrie-sieht-kaum-aussicht-auf-schnelle-besserung](https://www.spiegel.de/wirtschaft/autoindustrie-sieht-kaum-aussicht-auf-schnelle-besserung-a-3dd71fb2-cb47-4c55-bafb-b0fd874f2404#ref=rss)
-### nichts
+* [https://www.spiegel.de/wirtschaft/service/boerse-aktienkurse-und-kryptowaehrungen-brechen-ein-korrektur-oder-crash](https://www.spiegel.de/wirtschaft/service/boerse-aktienkurse-und-kryptowaehrungen-brechen-ein-korrektur-oder-crash-a-c7de3304-095b-45dd-9173-9796482a3864#ref=rss)
+### crash
 
-* [https://www.spiegel.de/gesundheit/diagnose/medizin-ploetzliche-blindheit-bei-schwangerer-patientin-ein-raetselhafter-fall](https://www.spiegel.de/gesundheit/diagnose/medizin-ploetzliche-blindheit-bei-schwangerer-patientin-ein-raetselhafter-fall-a-eb60fccf-1510-4fa0-b76f-0e3d538586d3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/autoindustrie-sieht-kaum-aussicht-auf-schnelle-besserung](https://www.spiegel.de/wirtschaft/autoindustrie-sieht-kaum-aussicht-auf-schnelle-besserung-a-3dd71fb2-cb47-4c55-bafb-b0fd874f2404#ref=rss)
-### kassel
+* [https://www.spiegel.de/wirtschaft/service/boerse-aktienkurse-und-kryptowaehrungen-brechen-ein-korrektur-oder-crash](https://www.spiegel.de/wirtschaft/service/boerse-aktienkurse-und-kryptowaehrungen-brechen-ein-korrektur-oder-crash-a-c7de3304-095b-45dd-9173-9796482a3864#ref=rss)
+### angst
 
-* [https://www.spiegel.de/start/studieren-in-kassel-campus-wohnviertel-wg-zimmer-preise-und-kneipen](https://www.spiegel.de/start/studieren-in-kassel-campus-wohnviertel-wg-zimmer-preise-und-kneipen-a-d7f7646d-def0-43b7-9770-862fffc976ee#ref=rss)
-### besteht
+* [https://www.spiegel.de/wirtschaft/service/boerse-aktienkurse-und-kryptowaehrungen-brechen-ein-korrektur-oder-crash](https://www.spiegel.de/wirtschaft/service/boerse-aktienkurse-und-kryptowaehrungen-brechen-ein-korrektur-oder-crash-a-c7de3304-095b-45dd-9173-9796482a3864#ref=rss)
+* [https://www.spiegel.de/kultur/marina-abramovic-will-103-jahre-alt-werden](https://www.spiegel.de/kultur/marina-abramovic-will-103-jahre-alt-werden-a-85a58278-74e7-4bfe-88d8-2c21b0446fdf#ref=rss)
+### krieg
 
-* [https://www.spiegel.de/start/studieren-in-kassel-campus-wohnviertel-wg-zimmer-preise-und-kneipen](https://www.spiegel.de/start/studieren-in-kassel-campus-wohnviertel-wg-zimmer-preise-und-kneipen-a-d7f7646d-def0-43b7-9770-862fffc976ee#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2024-noah-lyles-erfuellt-sein-versprechen-und-wird-schnellster-mann-der-welt](https://www.spiegel.de/sport/olympia/olympia-2024-noah-lyles-erfuellt-sein-versprechen-und-wird-schnellster-mann-der-welt-a-f20a0553-7f53-4c22-ac35-ca70f4431e5a#ref=rss)
-### gefangenenaustausch
+* [https://www.spiegel.de/wirtschaft/service/boerse-aktienkurse-und-kryptowaehrungen-brechen-ein-korrektur-oder-crash](https://www.spiegel.de/wirtschaft/service/boerse-aktienkurse-und-kryptowaehrungen-brechen-ein-korrektur-oder-crash-a-c7de3304-095b-45dd-9173-9796482a3864#ref=rss)
+* [https://www.spiegel.de/ausland/israels-ministerpraesident-unter-druck-opfert-netanyahu-die-geiseln-um-an-der-macht-zu-bleiben](https://www.spiegel.de/ausland/israels-ministerpraesident-unter-druck-opfert-netanyahu-die-geiseln-um-an-der-macht-zu-bleiben-a-c17dc251-ac7b-44ec-8949-c1f09946092b#ref=rss)
+### marina
 
-* [https://www.spiegel.de/ausland/gefangenenaustausch-mit-russland-kinder-von-spionen-ahnungslos-ueber-ihre-wahre-identitaet](https://www.spiegel.de/ausland/gefangenenaustausch-mit-russland-kinder-von-spionen-ahnungslos-ueber-ihre-wahre-identitaet-a-9ae33ed9-92f3-4368-87cd-4f8d5374af5e#ref=rss)
-### noah
+* [https://www.spiegel.de/kultur/marina-abramovic-will-103-jahre-alt-werden](https://www.spiegel.de/kultur/marina-abramovic-will-103-jahre-alt-werden-a-85a58278-74e7-4bfe-88d8-2c21b0446fdf#ref=rss)
+### abramović
 
-* [https://www.spiegel.de/sport/olympia/olympia-2024-noah-lyles-erfuellt-sein-versprechen-und-wird-schnellster-mann-der-welt](https://www.spiegel.de/sport/olympia/olympia-2024-noah-lyles-erfuellt-sein-versprechen-und-wird-schnellster-mann-der-welt-a-f20a0553-7f53-4c22-ac35-ca70f4431e5a#ref=rss)
-### lyles
+* [https://www.spiegel.de/kultur/marina-abramovic-will-103-jahre-alt-werden](https://www.spiegel.de/kultur/marina-abramovic-will-103-jahre-alt-werden-a-85a58278-74e7-4bfe-88d8-2c21b0446fdf#ref=rss)
+### haushaltsstreit
 
-* [https://www.spiegel.de/sport/olympia/olympia-2024-noah-lyles-erfuellt-sein-versprechen-und-wird-schnellster-mann-der-welt](https://www.spiegel.de/sport/olympia/olympia-2024-noah-lyles-erfuellt-sein-versprechen-und-wird-schnellster-mann-der-welt-a-f20a0553-7f53-4c22-ac35-ca70f4431e5a#ref=rss)
-### schnellster
+* [https://www.spiegel.de/politik/deutschland/haushaltsstreit-schwesig-draengt-ampel-zur-einigung](https://www.spiegel.de/politik/deutschland/haushaltsstreit-schwesig-draengt-ampel-zur-einigung-a-c0cb9650-fdb4-436c-9a92-ceaad1ee4b8f#ref=rss)
+### schwesig
 
-* [https://www.spiegel.de/sport/olympia/olympia-2024-noah-lyles-erfuellt-sein-versprechen-und-wird-schnellster-mann-der-welt](https://www.spiegel.de/sport/olympia/olympia-2024-noah-lyles-erfuellt-sein-versprechen-und-wird-schnellster-mann-der-welt-a-f20a0553-7f53-4c22-ac35-ca70f4431e5a#ref=rss)
-### welt
+* [https://www.spiegel.de/politik/deutschland/haushaltsstreit-schwesig-draengt-ampel-zur-einigung](https://www.spiegel.de/politik/deutschland/haushaltsstreit-schwesig-draengt-ampel-zur-einigung-a-c0cb9650-fdb4-436c-9a92-ceaad1ee4b8f#ref=rss)
+### ampel
 
-* [https://www.spiegel.de/sport/olympia/olympia-2024-noah-lyles-erfuellt-sein-versprechen-und-wird-schnellster-mann-der-welt](https://www.spiegel.de/sport/olympia/olympia-2024-noah-lyles-erfuellt-sein-versprechen-und-wird-schnellster-mann-der-welt-a-f20a0553-7f53-4c22-ac35-ca70f4431e5a#ref=rss)
-### boxerin
+* [https://www.spiegel.de/politik/deutschland/haushaltsstreit-schwesig-draengt-ampel-zur-einigung](https://www.spiegel.de/politik/deutschland/haushaltsstreit-schwesig-draengt-ampel-zur-einigung-a-c0cb9650-fdb4-436c-9a92-ceaad1ee4b8f#ref=rss)
+### zeigt
 
-* [https://www.spiegel.de/sport/olympia-2024-boxerin-imane-khelif-fordert-ende-der-gender-debatte](https://www.spiegel.de/sport/olympia-2024-boxerin-imane-khelif-fordert-ende-der-gender-debatte-a-fcd1fab9-16e1-4bde-86c9-d7f387ee6c14#ref=rss)
-### imane
+* [https://www.spiegel.de/politik/deutschland/haushaltsstreit-schwesig-draengt-ampel-zur-einigung](https://www.spiegel.de/politik/deutschland/haushaltsstreit-schwesig-draengt-ampel-zur-einigung-a-c0cb9650-fdb4-436c-9a92-ceaad1ee4b8f#ref=rss)
+* [https://www.spiegel.de/ausland/bulgarien-steht-vor-weiteren-neuwahlen](https://www.spiegel.de/ausland/bulgarien-steht-vor-weiteren-neuwahlen-a-8f93e8aa-7c54-49ea-8349-85b14c62aca6#ref=rss)
+### genervt
 
-* [https://www.spiegel.de/sport/olympia-2024-boxerin-imane-khelif-fordert-ende-der-gender-debatte](https://www.spiegel.de/sport/olympia-2024-boxerin-imane-khelif-fordert-ende-der-gender-debatte-a-fcd1fab9-16e1-4bde-86c9-d7f387ee6c14#ref=rss)
-### khelif
+* [https://www.spiegel.de/politik/deutschland/haushaltsstreit-schwesig-draengt-ampel-zur-einigung](https://www.spiegel.de/politik/deutschland/haushaltsstreit-schwesig-draengt-ampel-zur-einigung-a-c0cb9650-fdb4-436c-9a92-ceaad1ee4b8f#ref=rss)
+* [https://www.spiegel.de/ausland/bulgarien-steht-vor-weiteren-neuwahlen](https://www.spiegel.de/ausland/bulgarien-steht-vor-weiteren-neuwahlen-a-8f93e8aa-7c54-49ea-8349-85b14c62aca6#ref=rss)
+### veep
 
-* [https://www.spiegel.de/sport/olympia-2024-boxerin-imane-khelif-fordert-ende-der-gender-debatte](https://www.spiegel.de/sport/olympia-2024-boxerin-imane-khelif-fordert-ende-der-gender-debatte-a-fcd1fab9-16e1-4bde-86c9-d7f387ee6c14#ref=rss)
+* [https://www.spiegel.de/kultur/tv/veep-julia-louis-dreyfus-will-kamala-harris-lieber-keine-ratschlaege-erteilen](https://www.spiegel.de/kultur/tv/veep-julia-louis-dreyfus-will-kamala-harris-lieber-keine-ratschlaege-erteilen-a-6cec5698-314d-4d6b-90d7-d84d9ed0921b#ref=rss)
+### julia
+
+* [https://www.spiegel.de/kultur/tv/veep-julia-louis-dreyfus-will-kamala-harris-lieber-keine-ratschlaege-erteilen](https://www.spiegel.de/kultur/tv/veep-julia-louis-dreyfus-will-kamala-harris-lieber-keine-ratschlaege-erteilen-a-6cec5698-314d-4d6b-90d7-d84d9ed0921b#ref=rss)
+### louisdreyfus
+
+* [https://www.spiegel.de/kultur/tv/veep-julia-louis-dreyfus-will-kamala-harris-lieber-keine-ratschlaege-erteilen](https://www.spiegel.de/kultur/tv/veep-julia-louis-dreyfus-will-kamala-harris-lieber-keine-ratschlaege-erteilen-a-6cec5698-314d-4d6b-90d7-d84d9ed0921b#ref=rss)
+### kamala
+
+* [https://www.spiegel.de/kultur/tv/veep-julia-louis-dreyfus-will-kamala-harris-lieber-keine-ratschlaege-erteilen](https://www.spiegel.de/kultur/tv/veep-julia-louis-dreyfus-will-kamala-harris-lieber-keine-ratschlaege-erteilen-a-6cec5698-314d-4d6b-90d7-d84d9ed0921b#ref=rss)
+### harris
+
+* [https://www.spiegel.de/kultur/tv/veep-julia-louis-dreyfus-will-kamala-harris-lieber-keine-ratschlaege-erteilen](https://www.spiegel.de/kultur/tv/veep-julia-louis-dreyfus-will-kamala-harris-lieber-keine-ratschlaege-erteilen-a-6cec5698-314d-4d6b-90d7-d84d9ed0921b#ref=rss)
+### lieber
+
+* [https://www.spiegel.de/kultur/tv/veep-julia-louis-dreyfus-will-kamala-harris-lieber-keine-ratschlaege-erteilen](https://www.spiegel.de/kultur/tv/veep-julia-louis-dreyfus-will-kamala-harris-lieber-keine-ratschlaege-erteilen-a-6cec5698-314d-4d6b-90d7-d84d9ed0921b#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/experte-fordert-schwimmbadverbote-fuer-handy-eltern](https://www.spiegel.de/netzwelt/gadgets/experte-fordert-schwimmbadverbote-fuer-handy-eltern-a-482b21e0-7079-43ff-9309-b22c179d7232#ref=rss)
+### nasdaqindex
+
+* [https://www.spiegel.de/wirtschaft/boerse-schlechte-wirtschaftsdaten-belasten-wall-street-nasdaq-index-stuerzt-ab-apple-und-nvidia-besonders-betroffen](https://www.spiegel.de/wirtschaft/boerse-schlechte-wirtschaftsdaten-belasten-wall-street-nasdaq-index-stuerzt-ab-apple-und-nvidia-besonders-betroffen-a-896d29f6-da4f-439e-8594-de0309b9d118#ref=rss)
+### apple
+
+* [https://www.spiegel.de/wirtschaft/boerse-schlechte-wirtschaftsdaten-belasten-wall-street-nasdaq-index-stuerzt-ab-apple-und-nvidia-besonders-betroffen](https://www.spiegel.de/wirtschaft/boerse-schlechte-wirtschaftsdaten-belasten-wall-street-nasdaq-index-stuerzt-ab-apple-und-nvidia-besonders-betroffen-a-896d29f6-da4f-439e-8594-de0309b9d118#ref=rss)
+### nvidia
+
+* [https://www.spiegel.de/wirtschaft/boerse-schlechte-wirtschaftsdaten-belasten-wall-street-nasdaq-index-stuerzt-ab-apple-und-nvidia-besonders-betroffen](https://www.spiegel.de/wirtschaft/boerse-schlechte-wirtschaftsdaten-belasten-wall-street-nasdaq-index-stuerzt-ab-apple-und-nvidia-besonders-betroffen-a-896d29f6-da4f-439e-8594-de0309b9d118#ref=rss)
+### freitag
+
+* [https://www.spiegel.de/wirtschaft/boerse-schlechte-wirtschaftsdaten-belasten-wall-street-nasdaq-index-stuerzt-ab-apple-und-nvidia-besonders-betroffen](https://www.spiegel.de/wirtschaft/boerse-schlechte-wirtschaftsdaten-belasten-wall-street-nasdaq-index-stuerzt-ab-apple-und-nvidia-besonders-betroffen-a-896d29f6-da4f-439e-8594-de0309b9d118#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/recep-tayyip-erdogan-wettert-nach-instagram-sperre-gegen-soziale-medien](https://www.spiegel.de/netzwelt/netzpolitik/recep-tayyip-erdogan-wettert-nach-instagram-sperre-gegen-soziale-medien-a-808d7800-01a2-45ab-8ccf-86ad8ba83ffe#ref=rss)
+### anthony
+
+* [https://www.spiegel.de/sport/olympia/olympia-2024-anthony-ammirati-verliert-stabhochsprung-medaille-nicht-wegen-penis](https://www.spiegel.de/sport/olympia/olympia-2024-anthony-ammirati-verliert-stabhochsprung-medaille-nicht-wegen-penis-a-33b7ea12-a337-440b-a826-486e2660394b#ref=rss)
+### ammirati
+
+* [https://www.spiegel.de/sport/olympia/olympia-2024-anthony-ammirati-verliert-stabhochsprung-medaille-nicht-wegen-penis](https://www.spiegel.de/sport/olympia/olympia-2024-anthony-ammirati-verliert-stabhochsprung-medaille-nicht-wegen-penis-a-33b7ea12-a337-440b-a826-486e2660394b#ref=rss)
+### macht
+
+* [https://www.spiegel.de/sport/olympia/olympia-2024-die-deutschen-3x3-basketballerinnen-kaempfen-um-gold-das-sollte-man-nicht-verpassen](https://www.spiegel.de/sport/olympia/olympia-2024-die-deutschen-3x3-basketballerinnen-kaempfen-um-gold-das-sollte-man-nicht-verpassen-a-9dd174ec-e270-4ae0-9619-8350b51bf063#ref=rss)
+* [https://www.spiegel.de/ausland/israels-ministerpraesident-unter-druck-opfert-netanyahu-die-geiseln-um-an-der-macht-zu-bleiben](https://www.spiegel.de/ausland/israels-ministerpraesident-unter-druck-opfert-netanyahu-die-geiseln-um-an-der-macht-zu-bleiben-a-c17dc251-ac7b-44ec-8949-c1f09946092b#ref=rss)
+### sergej
+
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-schickt-sicherheitsrats-sekretaer-sergej-schoigu-nach-iran](https://www.spiegel.de/ausland/russland-wladimir-putin-schickt-sicherheitsrats-sekretaer-sergej-schoigu-nach-iran-a-8c531328-fd75-4158-bd71-cbb58ecc2d23#ref=rss)
+### schoigu
+
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-schickt-sicherheitsrats-sekretaer-sergej-schoigu-nach-iran](https://www.spiegel.de/ausland/russland-wladimir-putin-schickt-sicherheitsrats-sekretaer-sergej-schoigu-nach-iran-a-8c531328-fd75-4158-bd71-cbb58ecc2d23#ref=rss)
+### irans
+
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-schickt-sicherheitsrats-sekretaer-sergej-schoigu-nach-iran](https://www.spiegel.de/ausland/russland-wladimir-putin-schickt-sicherheitsrats-sekretaer-sergej-schoigu-nach-iran-a-8c531328-fd75-4158-bd71-cbb58ecc2d23#ref=rss)
+### bulgarien
+
+* [https://www.spiegel.de/ausland/bulgarien-steht-vor-weiteren-neuwahlen](https://www.spiegel.de/ausland/bulgarien-steht-vor-weiteren-neuwahlen-a-8f93e8aa-7c54-49ea-8349-85b14c62aca6#ref=rss)
+### kretschmer
+
+* [https://www.spiegel.de/politik/deutschland/union-und-die-gruenen-michael-kretschmer-und-markus-soeder-wollen-keine-gruenen-koalitionen](https://www.spiegel.de/politik/deutschland/union-und-die-gruenen-michael-kretschmer-und-markus-soeder-wollen-keine-gruenen-koalitionen-a-a10d226e-ba77-443a-ad7d-fdade1e7a4a6#ref=rss)
+### söder
+
+* [https://www.spiegel.de/politik/deutschland/union-und-die-gruenen-michael-kretschmer-und-markus-soeder-wollen-keine-gruenen-koalitionen](https://www.spiegel.de/politik/deutschland/union-und-die-gruenen-michael-kretschmer-und-markus-soeder-wollen-keine-gruenen-koalitionen-a-a10d226e-ba77-443a-ad7d-fdade1e7a4a6#ref=rss)
+### nancy
+
+* [https://www.spiegel.de/ausland/nancy-pelosi-sieht-joe-biden-auf-dem-mount-rushmore](https://www.spiegel.de/ausland/nancy-pelosi-sieht-joe-biden-auf-dem-mount-rushmore-a-82d8cab5-ae5a-47fb-bf47-cd20def834b0#ref=rss)
+### pelosi
+
+* [https://www.spiegel.de/ausland/nancy-pelosi-sieht-joe-biden-auf-dem-mount-rushmore](https://www.spiegel.de/ausland/nancy-pelosi-sieht-joe-biden-auf-dem-mount-rushmore-a-82d8cab5-ae5a-47fb-bf47-cd20def834b0#ref=rss)
+### joe
+
+* [https://www.spiegel.de/ausland/nancy-pelosi-sieht-joe-biden-auf-dem-mount-rushmore](https://www.spiegel.de/ausland/nancy-pelosi-sieht-joe-biden-auf-dem-mount-rushmore-a-82d8cab5-ae5a-47fb-bf47-cd20def834b0#ref=rss)
+### biden
+
+* [https://www.spiegel.de/ausland/nancy-pelosi-sieht-joe-biden-auf-dem-mount-rushmore](https://www.spiegel.de/ausland/nancy-pelosi-sieht-joe-biden-auf-dem-mount-rushmore-a-82d8cab5-ae5a-47fb-bf47-cd20def834b0#ref=rss)
+### mount
+
+* [https://www.spiegel.de/ausland/nancy-pelosi-sieht-joe-biden-auf-dem-mount-rushmore](https://www.spiegel.de/ausland/nancy-pelosi-sieht-joe-biden-auf-dem-mount-rushmore-a-82d8cab5-ae5a-47fb-bf47-cd20def834b0#ref=rss)
+### israels
+
+* [https://www.spiegel.de/ausland/israels-ministerpraesident-unter-druck-opfert-netanyahu-die-geiseln-um-an-der-macht-zu-bleiben](https://www.spiegel.de/ausland/israels-ministerpraesident-unter-druck-opfert-netanyahu-die-geiseln-um-an-der-macht-zu-bleiben-a-c17dc251-ac7b-44ec-8949-c1f09946092b#ref=rss)
+### ministerpräsident
+
+* [https://www.spiegel.de/ausland/israels-ministerpraesident-unter-druck-opfert-netanyahu-die-geiseln-um-an-der-macht-zu-bleiben](https://www.spiegel.de/ausland/israels-ministerpraesident-unter-druck-opfert-netanyahu-die-geiseln-um-an-der-macht-zu-bleiben-a-c17dc251-ac7b-44ec-8949-c1f09946092b#ref=rss)
+### netanyahu
+
+* [https://www.spiegel.de/ausland/israels-ministerpraesident-unter-druck-opfert-netanyahu-die-geiseln-um-an-der-macht-zu-bleiben](https://www.spiegel.de/ausland/israels-ministerpraesident-unter-druck-opfert-netanyahu-die-geiseln-um-an-der-macht-zu-bleiben-a-c17dc251-ac7b-44ec-8949-c1f09946092b#ref=rss)
+### geiseln
+
+* [https://www.spiegel.de/ausland/israels-ministerpraesident-unter-druck-opfert-netanyahu-die-geiseln-um-an-der-macht-zu-bleiben](https://www.spiegel.de/ausland/israels-ministerpraesident-unter-druck-opfert-netanyahu-die-geiseln-um-an-der-macht-zu-bleiben-a-c17dc251-ac7b-44ec-8949-c1f09946092b#ref=rss)
 
