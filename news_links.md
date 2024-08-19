@@ -6,318 +6,328 @@ tags: __no_header__
 
 ### ukraine
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/streit-um-ukrainehilfen-laesst-ruestungsaktien-einbrechen](https://www.spiegel.de/wirtschaft/unternehmen/streit-um-ukrainehilfen-laesst-ruestungsaktien-einbrechen-a-f07b8c80-0436-497f-a14a-94095489f943#ref=rss)
-* [https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-verlegt-angeblich-soldaten-an-die-grenze-zur-ukraine](https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-verlegt-angeblich-soldaten-an-die-grenze-zur-ukraine-a-c5e8348f-7068-4d50-81bd-95e7f89ed7b3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-spd-aussenpolitiker-michael-roth-kritisiert-kuerzung-bei-militaerhilfe](https://www.spiegel.de/politik/deutschland/ukraine-krieg-spd-aussenpolitiker-michael-roth-kritisiert-kuerzung-bei-militaerhilfe-a-da74639f-8813-48d1-b2fb-c5e0f4cc4d7e#ref=rss)
-### offenbar
+* [https://www.spiegel.de/politik/deutschland/ukraine-ampel-setzt-auf-50-milliarden-topf-fuer-militaerhilfe-aber-wann-kommt-der](https://www.spiegel.de/politik/deutschland/ukraine-ampel-setzt-auf-50-milliarden-topf-fuer-militaerhilfe-aber-wann-kommt-der-a-233105fd-f618-40c4-8cae-38ff7d844344#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-bezichtigt-russische-soldaten-der-pluenderung-in-eroberten-kursk-gebieten](https://www.spiegel.de/ausland/ukraine-bezichtigt-russische-soldaten-der-pluenderung-in-eroberten-kursk-gebieten-a-0153ca6e-ae72-4971-b3c1-9df9d139fa9d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-fuehrende-cdu-politiker-kritisieren-christian-lindners-sparplaene](https://www.spiegel.de/politik/deutschland/ukraine-fuehrende-cdu-politiker-kritisieren-christian-lindners-sparplaene-a-62920d54-1fea-44c8-bd2c-5fb0ea37ebbf#ref=rss)
+### boomer
 
-* [https://www.spiegel.de/auto/subventionen-staat-foerdert-co-ausstoss-mit-35-8-milliarden-euro-pro-jahr](https://www.spiegel.de/auto/subventionen-staat-foerdert-co-ausstoss-mit-35-8-milliarden-euro-pro-jahr-a-c68334bf-d132-4dee-bf21-a0b47028121e#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukrainische-armee-meldet-weitere-erfolge-im-russischen-grenzgebiet-kursk](https://www.spiegel.de/ausland/russland-ukrainische-armee-meldet-weitere-erfolge-im-russischen-grenzgebiet-kursk-a-f1d9510f-24a2-4ce7-a7ef-a369b1ede1d4#ref=rss)
-* [https://www.spiegel.de/panorama/italien-segelboot-vor-sizilien-gesunken-sieben-vermisste](https://www.spiegel.de/panorama/italien-segelboot-vor-sizilien-gesunken-sieben-vermisste-a-517f77da-7dbc-4078-99cb-32f345a84084#ref=rss)
-* [https://www.spiegel.de/panorama/bad-vilbel-sieben-verletzte-nach-frontalzusammenstoss-auf-bundesstrasse-3](https://www.spiegel.de/panorama/bad-vilbel-sieben-verletzte-nach-frontalzusammenstoss-auf-bundesstrasse-3-a-98eadca5-a3e5-466a-8f1d-997540f1d52e#ref=rss)
-### rund
+* [https://www.spiegel.de/panorama/boomer-die-wahrheit-ueber-die-generation-die-viele-unserer-probleme-verursacht-hat](https://www.spiegel.de/panorama/boomer-die-wahrheit-ueber-die-generation-die-viele-unserer-probleme-verursacht-hat-a-16b0c445-c542-4b26-b8aa-d72ca42954ff#ref=rss)
+* [https://www.spiegel.de/panorama/boomer-muetter-und-vaeter-unserer-probleme-podcast](https://www.spiegel.de/panorama/boomer-muetter-und-vaeter-unserer-probleme-podcast-a-7f14e73e-8352-4fd8-ab08-0791297512bd#ref=rss)
+### generation
 
-* [https://www.spiegel.de/ausland/tuerkei-waldbraende-in-izmir-mindestens-26-verletzte-und-keine-entwarnung](https://www.spiegel.de/ausland/tuerkei-waldbraende-in-izmir-mindestens-26-verletzte-und-keine-entwarnung-a-eea2b558-0647-4149-8443-8e4c409b9632#ref=rss)
-* [https://www.spiegel.de/panorama/ludwigsburg-und-kornwestheim-marder-verursacht-stromausfall](https://www.spiegel.de/panorama/ludwigsburg-und-kornwestheim-marder-verursacht-stromausfall-a-81ab450c-3ff5-45ac-9c9f-c377c6d4b37c#ref=rss)
-* [https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-verlegt-angeblich-soldaten-an-die-grenze-zur-ukraine](https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-verlegt-angeblich-soldaten-an-die-grenze-zur-ukraine-a-c5e8348f-7068-4d50-81bd-95e7f89ed7b3#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/kriminalitaet-der-fokus-auf-messer-hat-mit-der-realitaet-nichts-zu-tun-kommentar](https://www.spiegel.de/panorama/justiz/kriminalitaet-der-fokus-auf-messer-hat-mit-der-realitaet-nichts-zu-tun-kommentar-a-366aa8da-2049-4299-b762-ae16d7a5a87a#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/sport/fussball/yann-sommer-beendet-seine-karriere-in-der-schweizer-nationalmannschaft](https://www.spiegel.de/sport/fussball/yann-sommer-beendet-seine-karriere-in-der-schweizer-nationalmannschaft-a-0cc56860-2cf2-46b7-b755-ceb2543ac1e2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-spd-aussenpolitiker-michael-roth-kritisiert-kuerzung-bei-militaerhilfe](https://www.spiegel.de/politik/deutschland/ukraine-krieg-spd-aussenpolitiker-michael-roth-kritisiert-kuerzung-bei-militaerhilfe-a-da74639f-8813-48d1-b2fb-c5e0f4cc4d7e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/deutschland-zahl-der-todesfaelle-erstmals-seit-2016-gesunken](https://www.spiegel.de/wissenschaft/deutschland-zahl-der-todesfaelle-erstmals-seit-2016-gesunken-a-7f044290-4528-4377-872a-7b87febb5d5f#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-spd-aussenpolitiker-michael-roth-kritisiert-kuerzung-bei-militaerhilfe](https://www.spiegel.de/politik/deutschland/ukraine-krieg-spd-aussenpolitiker-michael-roth-kritisiert-kuerzung-bei-militaerhilfe-a-da74639f-8813-48d1-b2fb-c5e0f4cc4d7e#ref=rss)
-* [https://www.spiegel.de/ausland/gazakrieg-us-aussenminister-antony-blinken-warnt-vor-vielleicht-letzter-gelegenheit-fuer-geiseldeal](https://www.spiegel.de/ausland/gazakrieg-us-aussenminister-antony-blinken-warnt-vor-vielleicht-letzter-gelegenheit-fuer-geiseldeal-a-fbb4e6a2-92f0-42c5-b813-ceb9191a0ac5#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/die-haeschenschule-wird-100-neue-fassung-von-anke-engelke-polarisiert](https://www.spiegel.de/kultur/literatur/die-haeschenschule-wird-100-neue-fassung-von-anke-engelke-polarisiert-a-a5ae049e-fd11-48aa-a109-e4bc3e5b9b78#ref=rss)
-### lange
-
-* [https://www.spiegel.de/wirtschaft/antisemitismus-chef-eines-news-corps-senders-muss-sich-fuer-hitlergruss-rechtfertigen](https://www.spiegel.de/wirtschaft/antisemitismus-chef-eines-news-corps-senders-muss-sich-fuer-hitlergruss-rechtfertigen-a-929a454e-483d-4e7c-a5d1-61bcc5bb06fb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/streit-um-ukrainehilfen-laesst-ruestungsaktien-einbrechen](https://www.spiegel.de/wirtschaft/unternehmen/streit-um-ukrainehilfen-laesst-ruestungsaktien-einbrechen-a-f07b8c80-0436-497f-a14a-94095489f943#ref=rss)
-* [https://www.spiegel.de/psychologie/freunde-einladen-trotz-unlust-wie-ich-meine-einsamkeit-ueberwunden-habe](https://www.spiegel.de/psychologie/freunde-einladen-trotz-unlust-wie-ich-meine-einsamkeit-ueberwunden-habe-a-38475c3d-1af9-4733-a2cf-324be3dc4bbe#ref=rss)
-### angeblich
-
-* [https://www.spiegel.de/wirtschaft/antisemitismus-chef-eines-news-corps-senders-muss-sich-fuer-hitlergruss-rechtfertigen](https://www.spiegel.de/wirtschaft/antisemitismus-chef-eines-news-corps-senders-muss-sich-fuer-hitlergruss-rechtfertigen-a-929a454e-483d-4e7c-a5d1-61bcc5bb06fb#ref=rss)
-* [https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-verlegt-angeblich-soldaten-an-die-grenze-zur-ukraine](https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-verlegt-angeblich-soldaten-an-die-grenze-zur-ukraine-a-c5e8348f-7068-4d50-81bd-95e7f89ed7b3#ref=rss)
-* [https://www.spiegel.de/kultur/clooney-foundation-russland-erklaert-menschenrechts-ngo-zu-unerwuenschter-organisation](https://www.spiegel.de/kultur/clooney-foundation-russland-erklaert-menschenrechts-ngo-zu-unerwuenschter-organisation-a-abd9624f-ebf4-4250-82d7-901047df68cf#ref=rss)
-### mindestens
-
-* [https://www.spiegel.de/ausland/tuerkei-waldbraende-in-izmir-mindestens-26-verletzte-und-keine-entwarnung](https://www.spiegel.de/ausland/tuerkei-waldbraende-in-izmir-mindestens-26-verletzte-und-keine-entwarnung-a-eea2b558-0647-4149-8443-8e4c409b9632#ref=rss)
-* [https://www.spiegel.de/panorama/italien-segelboot-vor-sizilien-gesunken-sieben-vermisste](https://www.spiegel.de/panorama/italien-segelboot-vor-sizilien-gesunken-sieben-vermisste-a-517f77da-7dbc-4078-99cb-32f345a84084#ref=rss)
-### verletzte
-
-* [https://www.spiegel.de/ausland/tuerkei-waldbraende-in-izmir-mindestens-26-verletzte-und-keine-entwarnung](https://www.spiegel.de/ausland/tuerkei-waldbraende-in-izmir-mindestens-26-verletzte-und-keine-entwarnung-a-eea2b558-0647-4149-8443-8e4c409b9632#ref=rss)
-* [https://www.spiegel.de/panorama/bad-vilbel-sieben-verletzte-nach-frontalzusammenstoss-auf-bundesstrasse-3](https://www.spiegel.de/panorama/bad-vilbel-sieben-verletzte-nach-frontalzusammenstoss-auf-bundesstrasse-3-a-98eadca5-a3e5-466a-8f1d-997540f1d52e#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/russland-ukrainische-armee-meldet-weitere-erfolge-im-russischen-grenzgebiet-kursk](https://www.spiegel.de/ausland/russland-ukrainische-armee-meldet-weitere-erfolge-im-russischen-grenzgebiet-kursk-a-f1d9510f-24a2-4ce7-a7ef-a369b1ede1d4#ref=rss)
-* [https://www.spiegel.de/kultur/clooney-foundation-russland-erklaert-menschenrechts-ngo-zu-unerwuenschter-organisation](https://www.spiegel.de/kultur/clooney-foundation-russland-erklaert-menschenrechts-ngo-zu-unerwuenschter-organisation-a-abd9624f-ebf4-4250-82d7-901047df68cf#ref=rss)
-### ukrainische
-
-* [https://www.spiegel.de/ausland/russland-ukrainische-armee-meldet-weitere-erfolge-im-russischen-grenzgebiet-kursk](https://www.spiegel.de/ausland/russland-ukrainische-armee-meldet-weitere-erfolge-im-russischen-grenzgebiet-kursk-a-f1d9510f-24a2-4ce7-a7ef-a369b1ede1d4#ref=rss)
-* [https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-verlegt-angeblich-soldaten-an-die-grenze-zur-ukraine](https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-verlegt-angeblich-soldaten-an-die-grenze-zur-ukraine-a-c5e8348f-7068-4d50-81bd-95e7f89ed7b3#ref=rss)
-### soldaten
-
-* [https://www.spiegel.de/ausland/russland-ukrainische-armee-meldet-weitere-erfolge-im-russischen-grenzgebiet-kursk](https://www.spiegel.de/ausland/russland-ukrainische-armee-meldet-weitere-erfolge-im-russischen-grenzgebiet-kursk-a-f1d9510f-24a2-4ce7-a7ef-a369b1ede1d4#ref=rss)
-* [https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-verlegt-angeblich-soldaten-an-die-grenze-zur-ukraine](https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-verlegt-angeblich-soldaten-an-die-grenze-zur-ukraine-a-c5e8348f-7068-4d50-81bd-95e7f89ed7b3#ref=rss)
-### ich
-
-* [https://www.spiegel.de/psychologie/freunde-einladen-trotz-unlust-wie-ich-meine-einsamkeit-ueberwunden-habe](https://www.spiegel.de/psychologie/freunde-einladen-trotz-unlust-wie-ich-meine-einsamkeit-ueberwunden-habe-a-38475c3d-1af9-4733-a2cf-324be3dc4bbe#ref=rss)
-* [https://www.spiegel.de/familie/kinder-werden-so-schnell-gross-gut-so-ich-bin-froh-dass-die-spielplatzzeit-vorbei-ist](https://www.spiegel.de/familie/kinder-werden-so-schnell-gross-gut-so-ich-bin-froh-dass-die-spielplatzzeit-vorbei-ist-a-45fe3190-cf10-44f8-88d5-9df6adb8acb0#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/psychologie/freunde-einladen-trotz-unlust-wie-ich-meine-einsamkeit-ueberwunden-habe](https://www.spiegel.de/psychologie/freunde-einladen-trotz-unlust-wie-ich-meine-einsamkeit-ueberwunden-habe-a-38475c3d-1af9-4733-a2cf-324be3dc4bbe#ref=rss)
-* [https://www.spiegel.de/panorama/italien-segelboot-vor-sizilien-gesunken-sieben-vermisste](https://www.spiegel.de/panorama/italien-segelboot-vor-sizilien-gesunken-sieben-vermisste-a-517f77da-7dbc-4078-99cb-32f345a84084#ref=rss)
-* [https://www.spiegel.de/wissenschaft/deutschland-zahl-der-todesfaelle-erstmals-seit-2016-gesunken](https://www.spiegel.de/wissenschaft/deutschland-zahl-der-todesfaelle-erstmals-seit-2016-gesunken-a-7f044290-4528-4377-872a-7b87febb5d5f#ref=rss)
-### gut
-
-* [https://www.spiegel.de/psychologie/freunde-einladen-trotz-unlust-wie-ich-meine-einsamkeit-ueberwunden-habe](https://www.spiegel.de/psychologie/freunde-einladen-trotz-unlust-wie-ich-meine-einsamkeit-ueberwunden-habe-a-38475c3d-1af9-4733-a2cf-324be3dc4bbe#ref=rss)
-* [https://www.spiegel.de/familie/kinder-werden-so-schnell-gross-gut-so-ich-bin-froh-dass-die-spielplatzzeit-vorbei-ist](https://www.spiegel.de/familie/kinder-werden-so-schnell-gross-gut-so-ich-bin-froh-dass-die-spielplatzzeit-vorbei-ist-a-45fe3190-cf10-44f8-88d5-9df6adb8acb0#ref=rss)
-### waren
-
-* [https://www.spiegel.de/panorama/italien-segelboot-vor-sizilien-gesunken-sieben-vermisste](https://www.spiegel.de/panorama/italien-segelboot-vor-sizilien-gesunken-sieben-vermisste-a-517f77da-7dbc-4078-99cb-32f345a84084#ref=rss)
-* [https://www.spiegel.de/wissenschaft/deutschland-zahl-der-todesfaelle-erstmals-seit-2016-gesunken](https://www.spiegel.de/wissenschaft/deutschland-zahl-der-todesfaelle-erstmals-seit-2016-gesunken-a-7f044290-4528-4377-872a-7b87febb5d5f#ref=rss)
-### subventionen
-
-* [https://www.spiegel.de/auto/subventionen-staat-foerdert-co-ausstoss-mit-35-8-milliarden-euro-pro-jahr](https://www.spiegel.de/auto/subventionen-staat-foerdert-co-ausstoss-mit-35-8-milliarden-euro-pro-jahr-a-c68334bf-d132-4dee-bf21-a0b47028121e#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/auto/subventionen-staat-foerdert-co-ausstoss-mit-35-8-milliarden-euro-pro-jahr](https://www.spiegel.de/auto/subventionen-staat-foerdert-co-ausstoss-mit-35-8-milliarden-euro-pro-jahr-a-c68334bf-d132-4dee-bf21-a0b47028121e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/deutschland-zahl-der-todesfaelle-erstmals-seit-2016-gesunken](https://www.spiegel.de/wissenschaft/deutschland-zahl-der-todesfaelle-erstmals-seit-2016-gesunken-a-7f044290-4528-4377-872a-7b87febb5d5f#ref=rss)
-### erstmals
-
-* [https://www.spiegel.de/auto/subventionen-staat-foerdert-co-ausstoss-mit-35-8-milliarden-euro-pro-jahr](https://www.spiegel.de/auto/subventionen-staat-foerdert-co-ausstoss-mit-35-8-milliarden-euro-pro-jahr-a-c68334bf-d132-4dee-bf21-a0b47028121e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/deutschland-zahl-der-todesfaelle-erstmals-seit-2016-gesunken](https://www.spiegel.de/wissenschaft/deutschland-zahl-der-todesfaelle-erstmals-seit-2016-gesunken-a-7f044290-4528-4377-872a-7b87febb5d5f#ref=rss)
-### besonders
-
-* [https://www.spiegel.de/auto/subventionen-staat-foerdert-co-ausstoss-mit-35-8-milliarden-euro-pro-jahr](https://www.spiegel.de/auto/subventionen-staat-foerdert-co-ausstoss-mit-35-8-milliarden-euro-pro-jahr-a-c68334bf-d132-4dee-bf21-a0b47028121e#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-waldbraende-in-izmir-mindestens-26-verletzte-und-keine-entwarnung](https://www.spiegel.de/ausland/tuerkei-waldbraende-in-izmir-mindestens-26-verletzte-und-keine-entwarnung-a-eea2b558-0647-4149-8443-8e4c409b9632#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/auto/subventionen-staat-foerdert-co-ausstoss-mit-35-8-milliarden-euro-pro-jahr](https://www.spiegel.de/auto/subventionen-staat-foerdert-co-ausstoss-mit-35-8-milliarden-euro-pro-jahr-a-c68334bf-d132-4dee-bf21-a0b47028121e#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/die-haeschenschule-wird-100-neue-fassung-von-anke-engelke-polarisiert](https://www.spiegel.de/kultur/literatur/die-haeschenschule-wird-100-neue-fassung-von-anke-engelke-polarisiert-a-a5ae049e-fd11-48aa-a109-e4bc3e5b9b78#ref=rss)
-### hitlergruß
-
-* [https://www.spiegel.de/wirtschaft/antisemitismus-chef-eines-news-corps-senders-muss-sich-fuer-hitlergruss-rechtfertigen](https://www.spiegel.de/wirtschaft/antisemitismus-chef-eines-news-corps-senders-muss-sich-fuer-hitlergruss-rechtfertigen-a-929a454e-483d-4e7c-a5d1-61bcc5bb06fb#ref=rss)
-### channing
-
-* [https://www.spiegel.de/panorama/leute/channing-tatum-lobt-taylor-swifts-kochkuenste](https://www.spiegel.de/panorama/leute/channing-tatum-lobt-taylor-swifts-kochkuenste-a-9bb13d89-362d-4aea-b4df-b15db7c8168e#ref=rss)
-### tatum
-
-* [https://www.spiegel.de/panorama/leute/channing-tatum-lobt-taylor-swifts-kochkuenste](https://www.spiegel.de/panorama/leute/channing-tatum-lobt-taylor-swifts-kochkuenste-a-9bb13d89-362d-4aea-b4df-b15db7c8168e#ref=rss)
-### taylor
-
-* [https://www.spiegel.de/panorama/leute/channing-tatum-lobt-taylor-swifts-kochkuenste](https://www.spiegel.de/panorama/leute/channing-tatum-lobt-taylor-swifts-kochkuenste-a-9bb13d89-362d-4aea-b4df-b15db7c8168e#ref=rss)
-### türkei
-
-* [https://www.spiegel.de/ausland/tuerkei-waldbraende-in-izmir-mindestens-26-verletzte-und-keine-entwarnung](https://www.spiegel.de/ausland/tuerkei-waldbraende-in-izmir-mindestens-26-verletzte-und-keine-entwarnung-a-eea2b558-0647-4149-8443-8e4c409b9632#ref=rss)
-### waldbrände
-
-* [https://www.spiegel.de/ausland/tuerkei-waldbraende-in-izmir-mindestens-26-verletzte-und-keine-entwarnung](https://www.spiegel.de/ausland/tuerkei-waldbraende-in-izmir-mindestens-26-verletzte-und-keine-entwarnung-a-eea2b558-0647-4149-8443-8e4c409b9632#ref=rss)
-### izmir
-
-* [https://www.spiegel.de/ausland/tuerkei-waldbraende-in-izmir-mindestens-26-verletzte-und-keine-entwarnung](https://www.spiegel.de/ausland/tuerkei-waldbraende-in-izmir-mindestens-26-verletzte-und-keine-entwarnung-a-eea2b558-0647-4149-8443-8e4c409b9632#ref=rss)
-### 26
-
-* [https://www.spiegel.de/ausland/tuerkei-waldbraende-in-izmir-mindestens-26-verletzte-und-keine-entwarnung](https://www.spiegel.de/ausland/tuerkei-waldbraende-in-izmir-mindestens-26-verletzte-und-keine-entwarnung-a-eea2b558-0647-4149-8443-8e4c409b9632#ref=rss)
-### entwarnung
-
-* [https://www.spiegel.de/ausland/tuerkei-waldbraende-in-izmir-mindestens-26-verletzte-und-keine-entwarnung](https://www.spiegel.de/ausland/tuerkei-waldbraende-in-izmir-mindestens-26-verletzte-und-keine-entwarnung-a-eea2b558-0647-4149-8443-8e4c409b9632#ref=rss)
-### bundesarbeitsgericht
-
-* [https://www.spiegel.de/karriere/bundesarbeitsgericht-duschen-kann-teil-der-arbeitszeit-sein](https://www.spiegel.de/karriere/bundesarbeitsgericht-duschen-kann-teil-der-arbeitszeit-sein-a-b95ce10a-d6dc-4fda-948f-3be20cc471c0#ref=rss)
-### teil
-
-* [https://www.spiegel.de/karriere/bundesarbeitsgericht-duschen-kann-teil-der-arbeitszeit-sein](https://www.spiegel.de/karriere/bundesarbeitsgericht-duschen-kann-teil-der-arbeitszeit-sein-a-b95ce10a-d6dc-4fda-948f-3be20cc471c0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/trotz-schwindender-nachfrage-autos-sind-noch-immer-deutschlands-exportschlager](https://www.spiegel.de/wirtschaft/trotz-schwindender-nachfrage-autos-sind-noch-immer-deutschlands-exportschlager-a-000ff6da-9764-4b49-8551-ac3b7c73ece9#ref=rss)
-### arbeitszeit
-
-* [https://www.spiegel.de/karriere/bundesarbeitsgericht-duschen-kann-teil-der-arbeitszeit-sein](https://www.spiegel.de/karriere/bundesarbeitsgericht-duschen-kann-teil-der-arbeitszeit-sein-a-b95ce10a-d6dc-4fda-948f-3be20cc471c0#ref=rss)
+* [https://www.spiegel.de/panorama/boomer-die-wahrheit-ueber-die-generation-die-viele-unserer-probleme-verursacht-hat](https://www.spiegel.de/panorama/boomer-die-wahrheit-ueber-die-generation-die-viele-unserer-probleme-verursacht-hat-a-16b0c445-c542-4b26-b8aa-d72ca42954ff#ref=rss)
+* [https://www.spiegel.de/panorama/boomer-muetter-und-vaeter-unserer-probleme-podcast](https://www.spiegel.de/panorama/boomer-muetter-und-vaeter-unserer-probleme-podcast-a-7f14e73e-8352-4fd8-ab08-0791297512bd#ref=rss)
+* [https://www.spiegel.de/netzwelt/tiktok-trend-wie-songs-durch-sped-up-versions-die-charts-neu-erobern](https://www.spiegel.de/netzwelt/tiktok-trend-wie-songs-durch-sped-up-versions-die-charts-neu-erobern-a-11b80c03-c3d7-4205-8cc2-62cbb2b8eddb#ref=rss)
 ### viele
 
-* [https://www.spiegel.de/karriere/bundesarbeitsgericht-duschen-kann-teil-der-arbeitszeit-sein](https://www.spiegel.de/karriere/bundesarbeitsgericht-duschen-kann-teil-der-arbeitszeit-sein-a-b95ce10a-d6dc-4fda-948f-3be20cc471c0#ref=rss)
-* [https://www.spiegel.de/netzwelt/telekommunikation-mobilfunk-turbo-5g-enttaeuscht-auf-dem-land](https://www.spiegel.de/netzwelt/telekommunikation-mobilfunk-turbo-5g-enttaeuscht-auf-dem-land-a-5c3a56c8-06c9-4dab-a240-a8747ef4225b#ref=rss)
-### kursk
-
-* [https://www.spiegel.de/ausland/russland-ukrainische-armee-meldet-weitere-erfolge-im-russischen-grenzgebiet-kursk](https://www.spiegel.de/ausland/russland-ukrainische-armee-meldet-weitere-erfolge-im-russischen-grenzgebiet-kursk-a-f1d9510f-24a2-4ce7-a7ef-a369b1ede1d4#ref=rss)
-### anderen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/streit-um-ukrainehilfen-laesst-ruestungsaktien-einbrechen](https://www.spiegel.de/wirtschaft/unternehmen/streit-um-ukrainehilfen-laesst-ruestungsaktien-einbrechen-a-f07b8c80-0436-497f-a14a-94095489f943#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/kriminalitaet-der-fokus-auf-messer-hat-mit-der-realitaet-nichts-zu-tun-kommentar](https://www.spiegel.de/panorama/justiz/kriminalitaet-der-fokus-auf-messer-hat-mit-der-realitaet-nichts-zu-tun-kommentar-a-366aa8da-2049-4299-b762-ae16d7a5a87a#ref=rss)
-### ronald
-
-* [https://www.spiegel.de/sport/fussball/fussball-ex-nationalspieler-ronald-borchers-ist-tot](https://www.spiegel.de/sport/fussball/fussball-ex-nationalspieler-ronald-borchers-ist-tot-a-d53a0798-3908-4f44-9a75-d7bfc0c1aebd#ref=rss)
-### borchers
-
-* [https://www.spiegel.de/sport/fussball/fussball-ex-nationalspieler-ronald-borchers-ist-tot](https://www.spiegel.de/sport/fussball/fussball-ex-nationalspieler-ronald-borchers-ist-tot-a-d53a0798-3908-4f44-9a75-d7bfc0c1aebd#ref=rss)
-### frankfurt
-
-* [https://www.spiegel.de/sport/fussball/fussball-ex-nationalspieler-ronald-borchers-ist-tot](https://www.spiegel.de/sport/fussball/fussball-ex-nationalspieler-ronald-borchers-ist-tot-a-d53a0798-3908-4f44-9a75-d7bfc0c1aebd#ref=rss)
-* [https://www.spiegel.de/panorama/bad-vilbel-sieben-verletzte-nach-frontalzusammenstoss-auf-bundesstrasse-3](https://www.spiegel.de/panorama/bad-vilbel-sieben-verletzte-nach-frontalzusammenstoss-auf-bundesstrasse-3-a-98eadca5-a3e5-466a-8f1d-997540f1d52e#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/sport/fussball/fussball-ex-nationalspieler-ronald-borchers-ist-tot](https://www.spiegel.de/sport/fussball/fussball-ex-nationalspieler-ronald-borchers-ist-tot-a-d53a0798-3908-4f44-9a75-d7bfc0c1aebd#ref=rss)
-* [https://www.spiegel.de/wissenschaft/deutschland-zahl-der-todesfaelle-erstmals-seit-2016-gesunken](https://www.spiegel.de/wissenschaft/deutschland-zahl-der-todesfaelle-erstmals-seit-2016-gesunken-a-7f044290-4528-4377-872a-7b87febb5d5f#ref=rss)
-### yann
-
-* [https://www.spiegel.de/sport/fussball/yann-sommer-beendet-seine-karriere-in-der-schweizer-nationalmannschaft](https://www.spiegel.de/sport/fussball/yann-sommer-beendet-seine-karriere-in-der-schweizer-nationalmannschaft-a-0cc56860-2cf2-46b7-b755-ceb2543ac1e2#ref=rss)
-### sommer
-
-* [https://www.spiegel.de/sport/fussball/yann-sommer-beendet-seine-karriere-in-der-schweizer-nationalmannschaft](https://www.spiegel.de/sport/fussball/yann-sommer-beendet-seine-karriere-in-der-schweizer-nationalmannschaft-a-0cc56860-2cf2-46b7-b755-ceb2543ac1e2#ref=rss)
-### schweizer
-
-* [https://www.spiegel.de/sport/fussball/yann-sommer-beendet-seine-karriere-in-der-schweizer-nationalmannschaft](https://www.spiegel.de/sport/fussball/yann-sommer-beendet-seine-karriere-in-der-schweizer-nationalmannschaft-a-0cc56860-2cf2-46b7-b755-ceb2543ac1e2#ref=rss)
-### tor
-
-* [https://www.spiegel.de/sport/fussball/yann-sommer-beendet-seine-karriere-in-der-schweizer-nationalmannschaft](https://www.spiegel.de/sport/fussball/yann-sommer-beendet-seine-karriere-in-der-schweizer-nationalmannschaft-a-0cc56860-2cf2-46b7-b755-ceb2543ac1e2#ref=rss)
-* [https://www.spiegel.de/sport/fussball/la-liga-kein-sieg-fuer-real-madrid-kein-tor-fuer-kylian-mbappe-bei-auftakt](https://www.spiegel.de/sport/fussball/la-liga-kein-sieg-fuer-real-madrid-kein-tor-fuer-kylian-mbappe-bei-auftakt-a-be67482f-1022-4902-ba37-bd48ea155f87#ref=rss)
-### marder
-
-* [https://www.spiegel.de/panorama/ludwigsburg-und-kornwestheim-marder-verursacht-stromausfall](https://www.spiegel.de/panorama/ludwigsburg-und-kornwestheim-marder-verursacht-stromausfall-a-81ab450c-3ff5-45ac-9c9f-c377c6d4b37c#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/ludwigsburg-und-kornwestheim-marder-verursacht-stromausfall](https://www.spiegel.de/panorama/ludwigsburg-und-kornwestheim-marder-verursacht-stromausfall-a-81ab450c-3ff5-45ac-9c9f-c377c6d4b37c#ref=rss)
-* [https://www.spiegel.de/panorama/bad-vilbel-sieben-verletzte-nach-frontalzusammenstoss-auf-bundesstrasse-3](https://www.spiegel.de/panorama/bad-vilbel-sieben-verletzte-nach-frontalzusammenstoss-auf-bundesstrasse-3-a-98eadca5-a3e5-466a-8f1d-997540f1d52e#ref=rss)
-### belarus
-
-* [https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-verlegt-angeblich-soldaten-an-die-grenze-zur-ukraine](https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-verlegt-angeblich-soldaten-an-die-grenze-zur-ukraine-a-c5e8348f-7068-4d50-81bd-95e7f89ed7b3#ref=rss)
-### alexander
-
-* [https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-verlegt-angeblich-soldaten-an-die-grenze-zur-ukraine](https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-verlegt-angeblich-soldaten-an-die-grenze-zur-ukraine-a-c5e8348f-7068-4d50-81bd-95e7f89ed7b3#ref=rss)
-### lukaschenko
-
-* [https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-verlegt-angeblich-soldaten-an-die-grenze-zur-ukraine](https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-verlegt-angeblich-soldaten-an-die-grenze-zur-ukraine-a-c5e8348f-7068-4d50-81bd-95e7f89ed7b3#ref=rss)
-### verlegt
-
-* [https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-verlegt-angeblich-soldaten-an-die-grenze-zur-ukraine](https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-verlegt-angeblich-soldaten-an-die-grenze-zur-ukraine-a-c5e8348f-7068-4d50-81bd-95e7f89ed7b3#ref=rss)
-### grenze
-
-* [https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-verlegt-angeblich-soldaten-an-die-grenze-zur-ukraine](https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-verlegt-angeblich-soldaten-an-die-grenze-zur-ukraine-a-c5e8348f-7068-4d50-81bd-95e7f89ed7b3#ref=rss)
+* [https://www.spiegel.de/panorama/boomer-die-wahrheit-ueber-die-generation-die-viele-unserer-probleme-verursacht-hat](https://www.spiegel.de/panorama/boomer-die-wahrheit-ueber-die-generation-die-viele-unserer-probleme-verursacht-hat-a-16b0c445-c542-4b26-b8aa-d72ca42954ff#ref=rss)
+* [https://www.spiegel.de/panorama/naomi-osaka-spricht-ueber-traumatische-geburt](https://www.spiegel.de/panorama/naomi-osaka-spricht-ueber-traumatische-geburt-a-50574f43-705b-4709-98ab-d51174360e2a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/sizilien-wassertornado-versenkt-segeljacht-bei-porticello-nahe-palermo-mindestens-ein-toter-viele-vermisste](https://www.spiegel.de/wissenschaft/natur/sizilien-wassertornado-versenkt-segeljacht-bei-porticello-nahe-palermo-mindestens-ein-toter-viele-vermisste-a-5876a861-dc12-46f6-962f-90d1e373c9a9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/einzelhandel-blickt-pessimistischer-in-die-zukunft](https://www.spiegel.de/wirtschaft/einzelhandel-blickt-pessimistischer-in-die-zukunft-a-d5e303ac-3bbf-48a4-847f-8dc36d8279f3#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/psychologie/freunde-einladen-trotz-unlust-wie-ich-meine-einsamkeit-ueberwunden-habe](https://www.spiegel.de/psychologie/freunde-einladen-trotz-unlust-wie-ich-meine-einsamkeit-ueberwunden-habe-a-38475c3d-1af9-4733-a2cf-324be3dc4bbe#ref=rss)
-* [https://www.spiegel.de/start/studieren-in-flensburg-campus-wohnviertel-wg-zimmer-preise-und-kneipen](https://www.spiegel.de/start/studieren-in-flensburg-campus-wohnviertel-wg-zimmer-preise-und-kneipen-a-c70d7671-bfce-4f1b-84ee-f00f3e2bfb99#ref=rss)
-### kinder
+* [https://www.spiegel.de/panorama/naomi-osaka-spricht-ueber-traumatische-geburt](https://www.spiegel.de/panorama/naomi-osaka-spricht-ueber-traumatische-geburt-a-50574f43-705b-4709-98ab-d51174360e2a#ref=rss)
+* [https://www.spiegel.de/sport/ilkay-guendogan-austritt-aus-der-nationalelf-auf-social-media-verkuendet](https://www.spiegel.de/sport/ilkay-guendogan-austritt-aus-der-nationalelf-auf-social-media-verkuendet-a-d2fc406e-6003-40c2-b729-5ed189d23888#ref=rss)
+* [https://www.spiegel.de/kultur/kino/michael-oher-spricht-darueber-wie-falsch-ihn-hollywood-darstellte](https://www.spiegel.de/kultur/kino/michael-oher-spricht-darueber-wie-falsch-ihn-hollywood-darstellte-a-2d405752-0874-42ae-9e0c-5fbb6b011543#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/intel-in-magdeburg-die-probleme-werden-mehr-so-reagiert-die-politik](https://www.spiegel.de/panorama/gesellschaft/intel-in-magdeburg-die-probleme-werden-mehr-so-reagiert-die-politik-a-70d78836-90ff-440e-b2e8-7e9799f557ed#ref=rss)
+### taylor
 
-* [https://www.spiegel.de/familie/kinder-werden-so-schnell-gross-gut-so-ich-bin-froh-dass-die-spielplatzzeit-vorbei-ist](https://www.spiegel.de/familie/kinder-werden-so-schnell-gross-gut-so-ich-bin-froh-dass-die-spielplatzzeit-vorbei-ist-a-45fe3190-cf10-44f8-88d5-9df6adb8acb0#ref=rss)
-* [https://www.spiegel.de/panorama/bad-vilbel-sieben-verletzte-nach-frontalzusammenstoss-auf-bundesstrasse-3](https://www.spiegel.de/panorama/bad-vilbel-sieben-verletzte-nach-frontalzusammenstoss-auf-bundesstrasse-3-a-98eadca5-a3e5-466a-8f1d-997540f1d52e#ref=rss)
-### schnell
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-die-linke-bsw-sahra-wagenknecht-kamala-harris-us-demokraten-taylor-swift](https://www.spiegel.de/politik/deutschland/news-des-tages-die-linke-bsw-sahra-wagenknecht-kamala-harris-us-demokraten-taylor-swift-a-5d94d255-a672-4c8b-8645-51739f23b5a9#ref=rss)
+* [https://www.spiegel.de/ausland/taylor-swift-donald-trump-wollte-mit-ki-bildern-swifties-fuer-sich-gewinnen-hat-nicht-geklappt](https://www.spiegel.de/ausland/taylor-swift-donald-trump-wollte-mit-ki-bildern-swifties-fuer-sich-gewinnen-hat-nicht-geklappt-a-aa81a609-4b90-42a3-b099-921d68ff1376#ref=rss)
+### swift
 
-* [https://www.spiegel.de/familie/kinder-werden-so-schnell-gross-gut-so-ich-bin-froh-dass-die-spielplatzzeit-vorbei-ist](https://www.spiegel.de/familie/kinder-werden-so-schnell-gross-gut-so-ich-bin-froh-dass-die-spielplatzzeit-vorbei-ist-a-45fe3190-cf10-44f8-88d5-9df6adb8acb0#ref=rss)
-### groß
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-die-linke-bsw-sahra-wagenknecht-kamala-harris-us-demokraten-taylor-swift](https://www.spiegel.de/politik/deutschland/news-des-tages-die-linke-bsw-sahra-wagenknecht-kamala-harris-us-demokraten-taylor-swift-a-5d94d255-a672-4c8b-8645-51739f23b5a9#ref=rss)
+* [https://www.spiegel.de/ausland/taylor-swift-donald-trump-wollte-mit-ki-bildern-swifties-fuer-sich-gewinnen-hat-nicht-geklappt](https://www.spiegel.de/ausland/taylor-swift-donald-trump-wollte-mit-ki-bildern-swifties-fuer-sich-gewinnen-hat-nicht-geklappt-a-aa81a609-4b90-42a3-b099-921d68ff1376#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/familie/kinder-werden-so-schnell-gross-gut-so-ich-bin-froh-dass-die-spielplatzzeit-vorbei-ist](https://www.spiegel.de/familie/kinder-werden-so-schnell-gross-gut-so-ich-bin-froh-dass-die-spielplatzzeit-vorbei-ist-a-45fe3190-cf10-44f8-88d5-9df6adb8acb0#ref=rss)
-### sizilien
-
-* [https://www.spiegel.de/panorama/italien-segelboot-vor-sizilien-gesunken-sieben-vermisste](https://www.spiegel.de/panorama/italien-segelboot-vor-sizilien-gesunken-sieben-vermisste-a-517f77da-7dbc-4078-99cb-32f345a84084#ref=rss)
-### gesunken
-
-* [https://www.spiegel.de/panorama/italien-segelboot-vor-sizilien-gesunken-sieben-vermisste](https://www.spiegel.de/panorama/italien-segelboot-vor-sizilien-gesunken-sieben-vermisste-a-517f77da-7dbc-4078-99cb-32f345a84084#ref=rss)
-* [https://www.spiegel.de/wissenschaft/deutschland-zahl-der-todesfaelle-erstmals-seit-2016-gesunken](https://www.spiegel.de/wissenschaft/deutschland-zahl-der-todesfaelle-erstmals-seit-2016-gesunken-a-7f044290-4528-4377-872a-7b87febb5d5f#ref=rss)
-### allem
-
-* [https://www.spiegel.de/panorama/italien-segelboot-vor-sizilien-gesunken-sieben-vermisste](https://www.spiegel.de/panorama/italien-segelboot-vor-sizilien-gesunken-sieben-vermisste-a-517f77da-7dbc-4078-99cb-32f345a84084#ref=rss)
-* [https://www.spiegel.de/wissenschaft/deutschland-zahl-der-todesfaelle-erstmals-seit-2016-gesunken](https://www.spiegel.de/wissenschaft/deutschland-zahl-der-todesfaelle-erstmals-seit-2016-gesunken-a-7f044290-4528-4377-872a-7b87febb5d5f#ref=rss)
-### britische
-
-* [https://www.spiegel.de/panorama/italien-segelboot-vor-sizilien-gesunken-sieben-vermisste](https://www.spiegel.de/panorama/italien-segelboot-vor-sizilien-gesunken-sieben-vermisste-a-517f77da-7dbc-4078-99cb-32f345a84084#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/grossbritannien-will-frauenfeindlichkeit-als-form-des-extremismus-werten](https://www.spiegel.de/panorama/justiz/grossbritannien-will-frauenfeindlichkeit-als-form-des-extremismus-werten-a-6323bc93-c12e-4a87-bdbe-d0d01c17a0d3#ref=rss)
-### michael
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-spd-aussenpolitiker-michael-roth-kritisiert-kuerzung-bei-militaerhilfe](https://www.spiegel.de/politik/deutschland/ukraine-krieg-spd-aussenpolitiker-michael-roth-kritisiert-kuerzung-bei-militaerhilfe-a-da74639f-8813-48d1-b2fb-c5e0f4cc4d7e#ref=rss)
-### roth
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-spd-aussenpolitiker-michael-roth-kritisiert-kuerzung-bei-militaerhilfe](https://www.spiegel.de/politik/deutschland/ukraine-krieg-spd-aussenpolitiker-michael-roth-kritisiert-kuerzung-bei-militaerhilfe-a-da74639f-8813-48d1-b2fb-c5e0f4cc4d7e#ref=rss)
-### künftig
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-spd-aussenpolitiker-michael-roth-kritisiert-kuerzung-bei-militaerhilfe](https://www.spiegel.de/politik/deutschland/ukraine-krieg-spd-aussenpolitiker-michael-roth-kritisiert-kuerzung-bei-militaerhilfe-a-da74639f-8813-48d1-b2fb-c5e0f4cc4d7e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/grossbritannien-will-frauenfeindlichkeit-als-form-des-extremismus-werten](https://www.spiegel.de/panorama/justiz/grossbritannien-will-frauenfeindlichkeit-als-form-des-extremismus-werten-a-6323bc93-c12e-4a87-bdbe-d0d01c17a0d3#ref=rss)
-### unterstützen
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-spd-aussenpolitiker-michael-roth-kritisiert-kuerzung-bei-militaerhilfe](https://www.spiegel.de/politik/deutschland/ukraine-krieg-spd-aussenpolitiker-michael-roth-kritisiert-kuerzung-bei-militaerhilfe-a-da74639f-8813-48d1-b2fb-c5e0f4cc4d7e#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-hollywoodstars-unterstuetzen-kamala-harris-auf-dem-parteitag-der-demokraten](https://www.spiegel.de/ausland/us-wahl-hollywoodstars-unterstuetzen-kamala-harris-auf-dem-parteitag-der-demokraten-a-35724d86-e99d-4727-a9c4-ace1a6eaa171#ref=rss)
-### clooney
-
-* [https://www.spiegel.de/kultur/clooney-foundation-russland-erklaert-menschenrechts-ngo-zu-unerwuenschter-organisation](https://www.spiegel.de/kultur/clooney-foundation-russland-erklaert-menschenrechts-ngo-zu-unerwuenschter-organisation-a-abd9624f-ebf4-4250-82d7-901047df68cf#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/sizilien-wassertornado-versenkt-segeljacht-bei-porticello-nahe-palermo-mindestens-ein-toter-viele-vermisste](https://www.spiegel.de/wissenschaft/natur/sizilien-wassertornado-versenkt-segeljacht-bei-porticello-nahe-palermo-mindestens-ein-toter-viele-vermisste-a-5876a861-dc12-46f6-962f-90d1e373c9a9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/violinspinne-zwei-todesfaelle-in-italien-wie-gefaehrlich-ist-dieses-tier](https://www.spiegel.de/wissenschaft/medizin/violinspinne-zwei-todesfaelle-in-italien-wie-gefaehrlich-ist-dieses-tier-a-7ee0971e-a08b-4139-ba3a-75d34a738b7d#ref=rss)
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-vereinfacht-asyl-fuer-fliehende-aus-neoliberalen-staaten](https://www.spiegel.de/ausland/russland-wladimir-putin-vereinfacht-asyl-fuer-fliehende-aus-neoliberalen-staaten-a-467fce06-4285-4bee-b7b9-7f4f27117d82#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/highfield-festival-bei-leipzig-riesenrad-in-flammen-polizei-vermutet-versehen](https://www.spiegel.de/panorama/justiz/highfield-festival-bei-leipzig-riesenrad-in-flammen-polizei-vermutet-versehen-a-1c513f5d-3174-43ce-b090-142cec9116fc#ref=rss)
 ### land
 
-* [https://www.spiegel.de/kultur/clooney-foundation-russland-erklaert-menschenrechts-ngo-zu-unerwuenschter-organisation](https://www.spiegel.de/kultur/clooney-foundation-russland-erklaert-menschenrechts-ngo-zu-unerwuenschter-organisation-a-abd9624f-ebf4-4250-82d7-901047df68cf#ref=rss)
-* [https://www.spiegel.de/netzwelt/telekommunikation-mobilfunk-turbo-5g-enttaeuscht-auf-dem-land](https://www.spiegel.de/netzwelt/telekommunikation-mobilfunk-turbo-5g-enttaeuscht-auf-dem-land-a-5c3a56c8-06c9-4dab-a240-a8747ef4225b#ref=rss)
-### sandra
+* [https://www.spiegel.de/ausland/nicaraguas-regierung-verbietet-1500-zivilgesellschaftliche-gruppen](https://www.spiegel.de/ausland/nicaraguas-regierung-verbietet-1500-zivilgesellschaftliche-gruppen-a-30369a69-58f4-4a40-b990-620a6e019104#ref=rss)
+* [https://www.spiegel.de/ausland/indien-vergewaltigung-und-mord-an-angehender-aerztin-erschuettert-das-land](https://www.spiegel.de/ausland/indien-vergewaltigung-und-mord-an-angehender-aerztin-erschuettert-das-land-a-e4b6cd74-05da-448a-9b7b-c4ea7308ad5d#ref=rss)
+### bestreitet
 
-* [https://www.spiegel.de/kultur/sandra-hueller-rockt-die-ruhrtriennale-mit-songs-von-pj-harvey](https://www.spiegel.de/kultur/sandra-hueller-rockt-die-ruhrtriennale-mit-songs-von-pj-harvey-a-59befae6-e0f6-43cd-b556-dc71574c15c7#ref=rss)
-### hüller
+* [https://www.spiegel.de/politik/deutschland/ukraine-ampel-setzt-auf-50-milliarden-topf-fuer-militaerhilfe-aber-wann-kommt-der](https://www.spiegel.de/politik/deutschland/ukraine-ampel-setzt-auf-50-milliarden-topf-fuer-militaerhilfe-aber-wann-kommt-der-a-233105fd-f618-40c4-8cae-38ff7d844344#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/prozess-in-frankfurt-anaesthesist-bestreitet-einmalmaterial-mehrfach-verwendet-zu-haben](https://www.spiegel.de/panorama/justiz/prozess-in-frankfurt-anaesthesist-bestreitet-einmalmaterial-mehrfach-verwendet-zu-haben-a-e79627f0-8f9f-4b44-a6bb-b597cb15d80d#ref=rss)
+### probleme
 
-* [https://www.spiegel.de/kultur/sandra-hueller-rockt-die-ruhrtriennale-mit-songs-von-pj-harvey](https://www.spiegel.de/kultur/sandra-hueller-rockt-die-ruhrtriennale-mit-songs-von-pj-harvey-a-59befae6-e0f6-43cd-b556-dc71574c15c7#ref=rss)
-### 5g
+* [https://www.spiegel.de/panorama/boomer-die-wahrheit-ueber-die-generation-die-viele-unserer-probleme-verursacht-hat](https://www.spiegel.de/panorama/boomer-die-wahrheit-ueber-die-generation-die-viele-unserer-probleme-verursacht-hat-a-16b0c445-c542-4b26-b8aa-d72ca42954ff#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/intel-in-magdeburg-die-probleme-werden-mehr-so-reagiert-die-politik](https://www.spiegel.de/panorama/gesellschaft/intel-in-magdeburg-die-probleme-werden-mehr-so-reagiert-die-politik-a-70d78836-90ff-440e-b2e8-7e9799f557ed#ref=rss)
+* [https://www.spiegel.de/panorama/boomer-muetter-und-vaeter-unserer-probleme-podcast](https://www.spiegel.de/panorama/boomer-muetter-und-vaeter-unserer-probleme-podcast-a-7f14e73e-8352-4fd8-ab08-0791297512bd#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/netzwelt/telekommunikation-mobilfunk-turbo-5g-enttaeuscht-auf-dem-land](https://www.spiegel.de/netzwelt/telekommunikation-mobilfunk-turbo-5g-enttaeuscht-auf-dem-land-a-5c3a56c8-06c9-4dab-a240-a8747ef4225b#ref=rss)
-### fast
+* [https://www.spiegel.de/wirtschaft/unternehmen/baustoffreycyling-verbaende-warnen-vor-scheitern-von-ersatzbaustoffverordnung](https://www.spiegel.de/wirtschaft/unternehmen/baustoffreycyling-verbaende-warnen-vor-scheitern-von-ersatzbaustoffverordnung-a-ad574a0d-2818-483d-b9da-6c4f4a3d5004#ref=rss)
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-vereinfacht-asyl-fuer-fliehende-aus-neoliberalen-staaten](https://www.spiegel.de/ausland/russland-wladimir-putin-vereinfacht-asyl-fuer-fliehende-aus-neoliberalen-staaten-a-467fce06-4285-4bee-b7b9-7f4f27117d82#ref=rss)
+* [https://www.spiegel.de/netzwelt/tiktok-trend-wie-songs-durch-sped-up-versions-die-charts-neu-erobern](https://www.spiegel.de/netzwelt/tiktok-trend-wie-songs-durch-sped-up-versions-die-charts-neu-erobern-a-11b80c03-c3d7-4205-8cc2-62cbb2b8eddb#ref=rss)
+### linke
 
-* [https://www.spiegel.de/netzwelt/telekommunikation-mobilfunk-turbo-5g-enttaeuscht-auf-dem-land](https://www.spiegel.de/netzwelt/telekommunikation-mobilfunk-turbo-5g-enttaeuscht-auf-dem-land-a-5c3a56c8-06c9-4dab-a240-a8747ef4225b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/kriminalitaet-der-fokus-auf-messer-hat-mit-der-realitaet-nichts-zu-tun-kommentar](https://www.spiegel.de/panorama/justiz/kriminalitaet-der-fokus-auf-messer-hat-mit-der-realitaet-nichts-zu-tun-kommentar-a-366aa8da-2049-4299-b762-ae16d7a5a87a#ref=rss)
-### prozent
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-die-linke-bsw-sahra-wagenknecht-kamala-harris-us-demokraten-taylor-swift](https://www.spiegel.de/politik/deutschland/news-des-tages-die-linke-bsw-sahra-wagenknecht-kamala-harris-us-demokraten-taylor-swift-a-5d94d255-a672-4c8b-8645-51739f23b5a9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/die-linke-in-der-existenzkrise-sieben-gruende-warum-die-partei-verschwinden-wird](https://www.spiegel.de/politik/deutschland/die-linke-in-der-existenzkrise-sieben-gruende-warum-die-partei-verschwinden-wird-a-5a33b361-d53e-4639-a4c0-1b75d2f1c122#ref=rss)
+### usdemokraten
 
-* [https://www.spiegel.de/wissenschaft/deutschland-zahl-der-todesfaelle-erstmals-seit-2016-gesunken](https://www.spiegel.de/wissenschaft/deutschland-zahl-der-todesfaelle-erstmals-seit-2016-gesunken-a-7f044290-4528-4377-872a-7b87febb5d5f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/kriminalitaet-der-fokus-auf-messer-hat-mit-der-realitaet-nichts-zu-tun-kommentar](https://www.spiegel.de/panorama/justiz/kriminalitaet-der-fokus-auf-messer-hat-mit-der-realitaet-nichts-zu-tun-kommentar-a-366aa8da-2049-4299-b762-ae16d7a5a87a#ref=rss)
-### parteitag
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-die-linke-bsw-sahra-wagenknecht-kamala-harris-us-demokraten-taylor-swift](https://www.spiegel.de/politik/deutschland/news-des-tages-die-linke-bsw-sahra-wagenknecht-kamala-harris-us-demokraten-taylor-swift-a-5d94d255-a672-4c8b-8645-51739f23b5a9#ref=rss)
+* [https://www.spiegel.de/ausland/taylor-swift-donald-trump-wollte-mit-ki-bildern-swifties-fuer-sich-gewinnen-hat-nicht-geklappt](https://www.spiegel.de/ausland/taylor-swift-donald-trump-wollte-mit-ki-bildern-swifties-fuer-sich-gewinnen-hat-nicht-geklappt-a-aa81a609-4b90-42a3-b099-921d68ff1376#ref=rss)
+### russische
 
-* [https://www.spiegel.de/ausland/us-wahl-hollywoodstars-unterstuetzen-kamala-harris-auf-dem-parteitag-der-demokraten](https://www.spiegel.de/ausland/us-wahl-hollywoodstars-unterstuetzen-kamala-harris-auf-dem-parteitag-der-demokraten-a-35724d86-e99d-4727-a9c4-ace1a6eaa171#ref=rss)
-### gazakrieg
+* [https://www.spiegel.de/ausland/ukraine-bezichtigt-russische-soldaten-der-pluenderung-in-eroberten-kursk-gebieten](https://www.spiegel.de/ausland/ukraine-bezichtigt-russische-soldaten-der-pluenderung-in-eroberten-kursk-gebieten-a-0153ca6e-ae72-4971-b3c1-9df9d139fa9d#ref=rss)
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-vereinfacht-asyl-fuer-fliehende-aus-neoliberalen-staaten](https://www.spiegel.de/ausland/russland-wladimir-putin-vereinfacht-asyl-fuer-fliehende-aus-neoliberalen-staaten-a-467fce06-4285-4bee-b7b9-7f4f27117d82#ref=rss)
+### welt
 
-* [https://www.spiegel.de/ausland/gazakrieg-us-aussenminister-antony-blinken-warnt-vor-vielleicht-letzter-gelegenheit-fuer-geiseldeal](https://www.spiegel.de/ausland/gazakrieg-us-aussenminister-antony-blinken-warnt-vor-vielleicht-letzter-gelegenheit-fuer-geiseldeal-a-fbb4e6a2-92f0-42c5-b813-ceb9191a0ac5#ref=rss)
-### antony
+* [https://www.spiegel.de/sport/isle-of-man-motorradfahrer-stirbt-bei-amateurvariante-des-gefaehrlichsten-rennens-der-welt](https://www.spiegel.de/sport/isle-of-man-motorradfahrer-stirbt-bei-amateurvariante-des-gefaehrlichsten-rennens-der-welt-a-700f2bdc-0d4e-455c-84d6-1460ca688ba7#ref=rss)
+* [https://www.spiegel.de/ausland/taylor-swift-donald-trump-wollte-mit-ki-bildern-swifties-fuer-sich-gewinnen-hat-nicht-geklappt](https://www.spiegel.de/ausland/taylor-swift-donald-trump-wollte-mit-ki-bildern-swifties-fuer-sich-gewinnen-hat-nicht-geklappt-a-aa81a609-4b90-42a3-b099-921d68ff1376#ref=rss)
+### manöver
 
-* [https://www.spiegel.de/ausland/gazakrieg-us-aussenminister-antony-blinken-warnt-vor-vielleicht-letzter-gelegenheit-fuer-geiseldeal](https://www.spiegel.de/ausland/gazakrieg-us-aussenminister-antony-blinken-warnt-vor-vielleicht-letzter-gelegenheit-fuer-geiseldeal-a-fbb4e6a2-92f0-42c5-b813-ceb9191a0ac5#ref=rss)
-### blinken
+* [https://www.spiegel.de/wissenschaft/weltall/raumfahrt-esa-sonde-juice-fliegt-riskantes-manoever-in-mondnaehe](https://www.spiegel.de/wissenschaft/weltall/raumfahrt-esa-sonde-juice-fliegt-riskantes-manoever-in-mondnaehe-a-25b2dd6e-49aa-4766-90ba-b7dbc98d3759#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-fuehrende-cdu-politiker-kritisieren-christian-lindners-sparplaene](https://www.spiegel.de/politik/deutschland/ukraine-fuehrende-cdu-politiker-kritisieren-christian-lindners-sparplaene-a-62920d54-1fea-44c8-bd2c-5fb0ea37ebbf#ref=rss)
+### nicaraguas
 
-* [https://www.spiegel.de/ausland/gazakrieg-us-aussenminister-antony-blinken-warnt-vor-vielleicht-letzter-gelegenheit-fuer-geiseldeal](https://www.spiegel.de/ausland/gazakrieg-us-aussenminister-antony-blinken-warnt-vor-vielleicht-letzter-gelegenheit-fuer-geiseldeal-a-fbb4e6a2-92f0-42c5-b813-ceb9191a0ac5#ref=rss)
-### häschenschule
+* [https://www.spiegel.de/ausland/nicaraguas-regierung-verbietet-1500-zivilgesellschaftliche-gruppen](https://www.spiegel.de/ausland/nicaraguas-regierung-verbietet-1500-zivilgesellschaftliche-gruppen-a-30369a69-58f4-4a40-b990-620a6e019104#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/kultur/literatur/die-haeschenschule-wird-100-neue-fassung-von-anke-engelke-polarisiert](https://www.spiegel.de/kultur/literatur/die-haeschenschule-wird-100-neue-fassung-von-anke-engelke-polarisiert-a-a5ae049e-fd11-48aa-a109-e4bc3e5b9b78#ref=rss)
+* [https://www.spiegel.de/ausland/nicaraguas-regierung-verbietet-1500-zivilgesellschaftliche-gruppen](https://www.spiegel.de/ausland/nicaraguas-regierung-verbietet-1500-zivilgesellschaftliche-gruppen-a-30369a69-58f4-4a40-b990-620a6e019104#ref=rss)
+### ampel
+
+* [https://www.spiegel.de/politik/deutschland/ukraine-ampel-setzt-auf-50-milliarden-topf-fuer-militaerhilfe-aber-wann-kommt-der](https://www.spiegel.de/politik/deutschland/ukraine-ampel-setzt-auf-50-milliarden-topf-fuer-militaerhilfe-aber-wann-kommt-der-a-233105fd-f618-40c4-8cae-38ff7d844344#ref=rss)
+### militärhilfe
+
+* [https://www.spiegel.de/politik/deutschland/ukraine-ampel-setzt-auf-50-milliarden-topf-fuer-militaerhilfe-aber-wann-kommt-der](https://www.spiegel.de/politik/deutschland/ukraine-ampel-setzt-auf-50-milliarden-topf-fuer-militaerhilfe-aber-wann-kommt-der-a-233105fd-f618-40c4-8cae-38ff7d844344#ref=rss)
+### mehrfach
+
+* [https://www.spiegel.de/panorama/justiz/prozess-in-frankfurt-anaesthesist-bestreitet-einmalmaterial-mehrfach-verwendet-zu-haben](https://www.spiegel.de/panorama/justiz/prozess-in-frankfurt-anaesthesist-bestreitet-einmalmaterial-mehrfach-verwendet-zu-haben-a-e79627f0-8f9f-4b44-a6bb-b597cb15d80d#ref=rss)
+### verwendet
+
+* [https://www.spiegel.de/panorama/justiz/prozess-in-frankfurt-anaesthesist-bestreitet-einmalmaterial-mehrfach-verwendet-zu-haben](https://www.spiegel.de/panorama/justiz/prozess-in-frankfurt-anaesthesist-bestreitet-einmalmaterial-mehrfach-verwendet-zu-haben-a-e79627f0-8f9f-4b44-a6bb-b597cb15d80d#ref=rss)
+### danach
+
+* [https://www.spiegel.de/panorama/justiz/prozess-in-frankfurt-anaesthesist-bestreitet-einmalmaterial-mehrfach-verwendet-zu-haben](https://www.spiegel.de/panorama/justiz/prozess-in-frankfurt-anaesthesist-bestreitet-einmalmaterial-mehrfach-verwendet-zu-haben-a-e79627f0-8f9f-4b44-a6bb-b597cb15d80d#ref=rss)
+* [https://www.spiegel.de/ausland/indien-vergewaltigung-und-mord-an-angehender-aerztin-erschuettert-das-land](https://www.spiegel.de/ausland/indien-vergewaltigung-und-mord-an-angehender-aerztin-erschuettert-das-land-a-e4b6cd74-05da-448a-9b7b-c4ea7308ad5d#ref=rss)
+### mädchen
+
+* [https://www.spiegel.de/panorama/justiz/prozess-in-frankfurt-anaesthesist-bestreitet-einmalmaterial-mehrfach-verwendet-zu-haben](https://www.spiegel.de/panorama/justiz/prozess-in-frankfurt-anaesthesist-bestreitet-einmalmaterial-mehrfach-verwendet-zu-haben-a-e79627f0-8f9f-4b44-a6bb-b597cb15d80d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-marzahn-leiche-von-14-jaehriger-in-berliner-keller-gefunden](https://www.spiegel.de/panorama/justiz/berlin-marzahn-leiche-von-14-jaehriger-in-berliner-keller-gefunden-a-d531754d-8c7e-4b54-8aa2-743cbac5dbd7#ref=rss)
+### stirbt
+
+* [https://www.spiegel.de/panorama/justiz/prozess-in-frankfurt-anaesthesist-bestreitet-einmalmaterial-mehrfach-verwendet-zu-haben](https://www.spiegel.de/panorama/justiz/prozess-in-frankfurt-anaesthesist-bestreitet-einmalmaterial-mehrfach-verwendet-zu-haben-a-e79627f0-8f9f-4b44-a6bb-b597cb15d80d#ref=rss)
+* [https://www.spiegel.de/sport/isle-of-man-motorradfahrer-stirbt-bei-amateurvariante-des-gefaehrlichsten-rennens-der-welt](https://www.spiegel.de/sport/isle-of-man-motorradfahrer-stirbt-bei-amateurvariante-des-gefaehrlichsten-rennens-der-welt-a-700f2bdc-0d4e-455c-84d6-1460ca688ba7#ref=rss)
+### unserer
+
+* [https://www.spiegel.de/panorama/boomer-die-wahrheit-ueber-die-generation-die-viele-unserer-probleme-verursacht-hat](https://www.spiegel.de/panorama/boomer-die-wahrheit-ueber-die-generation-die-viele-unserer-probleme-verursacht-hat-a-16b0c445-c542-4b26-b8aa-d72ca42954ff#ref=rss)
+* [https://www.spiegel.de/panorama/boomer-muetter-und-vaeter-unserer-probleme-podcast](https://www.spiegel.de/panorama/boomer-muetter-und-vaeter-unserer-probleme-podcast-a-7f14e73e-8352-4fd8-ab08-0791297512bd#ref=rss)
+### reich
+
+* [https://www.spiegel.de/panorama/boomer-die-wahrheit-ueber-die-generation-die-viele-unserer-probleme-verursacht-hat](https://www.spiegel.de/panorama/boomer-die-wahrheit-ueber-die-generation-die-viele-unserer-probleme-verursacht-hat-a-16b0c445-c542-4b26-b8aa-d72ca42954ff#ref=rss)
+* [https://www.spiegel.de/panorama/boomer-muetter-und-vaeter-unserer-probleme-podcast](https://www.spiegel.de/panorama/boomer-muetter-und-vaeter-unserer-probleme-podcast-a-7f14e73e-8352-4fd8-ab08-0791297512bd#ref=rss)
+### egoistisch
+
+* [https://www.spiegel.de/panorama/boomer-die-wahrheit-ueber-die-generation-die-viele-unserer-probleme-verursacht-hat](https://www.spiegel.de/panorama/boomer-die-wahrheit-ueber-die-generation-die-viele-unserer-probleme-verursacht-hat-a-16b0c445-c542-4b26-b8aa-d72ca42954ff#ref=rss)
+* [https://www.spiegel.de/panorama/boomer-muetter-und-vaeter-unserer-probleme-podcast](https://www.spiegel.de/panorama/boomer-muetter-und-vaeter-unserer-probleme-podcast-a-7f14e73e-8352-4fd8-ab08-0791297512bd#ref=rss)
+### unsensibel
+
+* [https://www.spiegel.de/panorama/boomer-die-wahrheit-ueber-die-generation-die-viele-unserer-probleme-verursacht-hat](https://www.spiegel.de/panorama/boomer-die-wahrheit-ueber-die-generation-die-viele-unserer-probleme-verursacht-hat-a-16b0c445-c542-4b26-b8aa-d72ca42954ff#ref=rss)
+* [https://www.spiegel.de/panorama/boomer-muetter-und-vaeter-unserer-probleme-podcast](https://www.spiegel.de/panorama/boomer-muetter-und-vaeter-unserer-probleme-podcast-a-7f14e73e-8352-4fd8-ab08-0791297512bd#ref=rss)
+### babyboomer
+
+* [https://www.spiegel.de/panorama/boomer-die-wahrheit-ueber-die-generation-die-viele-unserer-probleme-verursacht-hat](https://www.spiegel.de/panorama/boomer-die-wahrheit-ueber-die-generation-die-viele-unserer-probleme-verursacht-hat-a-16b0c445-c542-4b26-b8aa-d72ca42954ff#ref=rss)
+* [https://www.spiegel.de/panorama/boomer-muetter-und-vaeter-unserer-probleme-podcast](https://www.spiegel.de/panorama/boomer-muetter-und-vaeter-unserer-probleme-podcast-a-7f14e73e-8352-4fd8-ab08-0791297512bd#ref=rss)
+### erst
+
+* [https://www.spiegel.de/panorama/boomer-die-wahrheit-ueber-die-generation-die-viele-unserer-probleme-verursacht-hat](https://www.spiegel.de/panorama/boomer-die-wahrheit-ueber-die-generation-die-viele-unserer-probleme-verursacht-hat-a-16b0c445-c542-4b26-b8aa-d72ca42954ff#ref=rss)
+* [https://www.spiegel.de/panorama/boomer-muetter-und-vaeter-unserer-probleme-podcast](https://www.spiegel.de/panorama/boomer-muetter-und-vaeter-unserer-probleme-podcast-a-7f14e73e-8352-4fd8-ab08-0791297512bd#ref=rss)
+### meme
+
+* [https://www.spiegel.de/panorama/boomer-die-wahrheit-ueber-die-generation-die-viele-unserer-probleme-verursacht-hat](https://www.spiegel.de/panorama/boomer-die-wahrheit-ueber-die-generation-die-viele-unserer-probleme-verursacht-hat-a-16b0c445-c542-4b26-b8aa-d72ca42954ff#ref=rss)
+* [https://www.spiegel.de/panorama/boomer-muetter-und-vaeter-unserer-probleme-podcast](https://www.spiegel.de/panorama/boomer-muetter-und-vaeter-unserer-probleme-podcast-a-7f14e73e-8352-4fd8-ab08-0791297512bd#ref=rss)
+### feindbild
+
+* [https://www.spiegel.de/panorama/boomer-die-wahrheit-ueber-die-generation-die-viele-unserer-probleme-verursacht-hat](https://www.spiegel.de/panorama/boomer-die-wahrheit-ueber-die-generation-die-viele-unserer-probleme-verursacht-hat-a-16b0c445-c542-4b26-b8aa-d72ca42954ff#ref=rss)
+* [https://www.spiegel.de/panorama/boomer-muetter-und-vaeter-unserer-probleme-podcast](https://www.spiegel.de/panorama/boomer-muetter-und-vaeter-unserer-probleme-podcast-a-7f14e73e-8352-4fd8-ab08-0791297512bd#ref=rss)
+### geworden
+
+* [https://www.spiegel.de/panorama/boomer-die-wahrheit-ueber-die-generation-die-viele-unserer-probleme-verursacht-hat](https://www.spiegel.de/panorama/boomer-die-wahrheit-ueber-die-generation-die-viele-unserer-probleme-verursacht-hat-a-16b0c445-c542-4b26-b8aa-d72ca42954ff#ref=rss)
+* [https://www.spiegel.de/panorama/boomer-muetter-und-vaeter-unserer-probleme-podcast](https://www.spiegel.de/panorama/boomer-muetter-und-vaeter-unserer-probleme-podcast-a-7f14e73e-8352-4fd8-ab08-0791297512bd#ref=rss)
+### spiegelreporterin
+
+* [https://www.spiegel.de/panorama/boomer-die-wahrheit-ueber-die-generation-die-viele-unserer-probleme-verursacht-hat](https://www.spiegel.de/panorama/boomer-die-wahrheit-ueber-die-generation-die-viele-unserer-probleme-verursacht-hat-a-16b0c445-c542-4b26-b8aa-d72ca42954ff#ref=rss)
+* [https://www.spiegel.de/panorama/boomer-muetter-und-vaeter-unserer-probleme-podcast](https://www.spiegel.de/panorama/boomer-muetter-und-vaeter-unserer-probleme-podcast-a-7f14e73e-8352-4fd8-ab08-0791297512bd#ref=rss)
+### barbara
+
+* [https://www.spiegel.de/panorama/boomer-die-wahrheit-ueber-die-generation-die-viele-unserer-probleme-verursacht-hat](https://www.spiegel.de/panorama/boomer-die-wahrheit-ueber-die-generation-die-viele-unserer-probleme-verursacht-hat-a-16b0c445-c542-4b26-b8aa-d72ca42954ff#ref=rss)
+* [https://www.spiegel.de/panorama/boomer-muetter-und-vaeter-unserer-probleme-podcast](https://www.spiegel.de/panorama/boomer-muetter-und-vaeter-unserer-probleme-podcast-a-7f14e73e-8352-4fd8-ab08-0791297512bd#ref=rss)
+### supp
+
+* [https://www.spiegel.de/panorama/boomer-die-wahrheit-ueber-die-generation-die-viele-unserer-probleme-verursacht-hat](https://www.spiegel.de/panorama/boomer-die-wahrheit-ueber-die-generation-die-viele-unserer-probleme-verursacht-hat-a-16b0c445-c542-4b26-b8aa-d72ca42954ff#ref=rss)
+* [https://www.spiegel.de/panorama/boomer-muetter-und-vaeter-unserer-probleme-podcast](https://www.spiegel.de/panorama/boomer-muetter-und-vaeter-unserer-probleme-podcast-a-7f14e73e-8352-4fd8-ab08-0791297512bd#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/panorama/boomer-die-wahrheit-ueber-die-generation-die-viele-unserer-probleme-verursacht-hat](https://www.spiegel.de/panorama/boomer-die-wahrheit-ueber-die-generation-die-viele-unserer-probleme-verursacht-hat-a-16b0c445-c542-4b26-b8aa-d72ca42954ff#ref=rss)
+* [https://www.spiegel.de/panorama/boomer-muetter-und-vaeter-unserer-probleme-podcast](https://www.spiegel.de/panorama/boomer-muetter-und-vaeter-unserer-probleme-podcast-a-7f14e73e-8352-4fd8-ab08-0791297512bd#ref=rss)
+### klischees
+
+* [https://www.spiegel.de/panorama/boomer-die-wahrheit-ueber-die-generation-die-viele-unserer-probleme-verursacht-hat](https://www.spiegel.de/panorama/boomer-die-wahrheit-ueber-die-generation-die-viele-unserer-probleme-verursacht-hat-a-16b0c445-c542-4b26-b8aa-d72ca42954ff#ref=rss)
+* [https://www.spiegel.de/panorama/boomer-muetter-und-vaeter-unserer-probleme-podcast](https://www.spiegel.de/panorama/boomer-muetter-und-vaeter-unserer-probleme-podcast-a-7f14e73e-8352-4fd8-ab08-0791297512bd#ref=rss)
+### stimmen
+
+* [https://www.spiegel.de/panorama/boomer-die-wahrheit-ueber-die-generation-die-viele-unserer-probleme-verursacht-hat](https://www.spiegel.de/panorama/boomer-die-wahrheit-ueber-die-generation-die-viele-unserer-probleme-verursacht-hat-a-16b0c445-c542-4b26-b8aa-d72ca42954ff#ref=rss)
+* [https://www.spiegel.de/panorama/boomer-muetter-und-vaeter-unserer-probleme-podcast](https://www.spiegel.de/panorama/boomer-muetter-und-vaeter-unserer-probleme-podcast-a-7f14e73e-8352-4fd8-ab08-0791297512bd#ref=rss)
+### naomi
+
+* [https://www.spiegel.de/panorama/naomi-osaka-spricht-ueber-traumatische-geburt](https://www.spiegel.de/panorama/naomi-osaka-spricht-ueber-traumatische-geburt-a-50574f43-705b-4709-98ab-d51174360e2a#ref=rss)
+### osaka
+
+* [https://www.spiegel.de/panorama/naomi-osaka-spricht-ueber-traumatische-geburt](https://www.spiegel.de/panorama/naomi-osaka-spricht-ueber-traumatische-geburt-a-50574f43-705b-4709-98ab-d51174360e2a#ref=rss)
+### tiktok
+
+* [https://www.spiegel.de/panorama/naomi-osaka-spricht-ueber-traumatische-geburt](https://www.spiegel.de/panorama/naomi-osaka-spricht-ueber-traumatische-geburt-a-50574f43-705b-4709-98ab-d51174360e2a#ref=rss)
+* [https://www.spiegel.de/netzwelt/tiktok-trend-wie-songs-durch-sped-up-versions-die-charts-neu-erobern](https://www.spiegel.de/netzwelt/tiktok-trend-wie-songs-durch-sped-up-versions-die-charts-neu-erobern-a-11b80c03-c3d7-4205-8cc2-62cbb2b8eddb#ref=rss)
+### i̇lkay
+
+* [https://www.spiegel.de/sport/ilkay-guendogan-austritt-aus-der-nationalelf-auf-social-media-verkuendet](https://www.spiegel.de/sport/ilkay-guendogan-austritt-aus-der-nationalelf-auf-social-media-verkuendet-a-d2fc406e-6003-40c2-b729-5ed189d23888#ref=rss)
+### gündoğan
+
+* [https://www.spiegel.de/sport/ilkay-guendogan-austritt-aus-der-nationalelf-auf-social-media-verkuendet](https://www.spiegel.de/sport/ilkay-guendogan-austritt-aus-der-nationalelf-auf-social-media-verkuendet-a-d2fc406e-6003-40c2-b729-5ed189d23888#ref=rss)
+### sahra
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-die-linke-bsw-sahra-wagenknecht-kamala-harris-us-demokraten-taylor-swift](https://www.spiegel.de/politik/deutschland/news-des-tages-die-linke-bsw-sahra-wagenknecht-kamala-harris-us-demokraten-taylor-swift-a-5d94d255-a672-4c8b-8645-51739f23b5a9#ref=rss)
+### wagenknecht
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-die-linke-bsw-sahra-wagenknecht-kamala-harris-us-demokraten-taylor-swift](https://www.spiegel.de/politik/deutschland/news-des-tages-die-linke-bsw-sahra-wagenknecht-kamala-harris-us-demokraten-taylor-swift-a-5d94d255-a672-4c8b-8645-51739f23b5a9#ref=rss)
+### sizilien
+
+* [https://www.spiegel.de/wissenschaft/natur/sizilien-wassertornado-versenkt-segeljacht-bei-porticello-nahe-palermo-mindestens-ein-toter-viele-vermisste](https://www.spiegel.de/wissenschaft/natur/sizilien-wassertornado-versenkt-segeljacht-bei-porticello-nahe-palermo-mindestens-ein-toter-viele-vermisste-a-5876a861-dc12-46f6-962f-90d1e373c9a9#ref=rss)
+### toter
+
+* [https://www.spiegel.de/wissenschaft/natur/sizilien-wassertornado-versenkt-segeljacht-bei-porticello-nahe-palermo-mindestens-ein-toter-viele-vermisste](https://www.spiegel.de/wissenschaft/natur/sizilien-wassertornado-versenkt-segeljacht-bei-porticello-nahe-palermo-mindestens-ein-toter-viele-vermisste-a-5876a861-dc12-46f6-962f-90d1e373c9a9#ref=rss)
+### familie
+
+* [https://www.spiegel.de/wissenschaft/natur/sizilien-wassertornado-versenkt-segeljacht-bei-porticello-nahe-palermo-mindestens-ein-toter-viele-vermisste](https://www.spiegel.de/wissenschaft/natur/sizilien-wassertornado-versenkt-segeljacht-bei-porticello-nahe-palermo-mindestens-ein-toter-viele-vermisste-a-5876a861-dc12-46f6-962f-90d1e373c9a9#ref=rss)
+* [https://www.spiegel.de/kultur/kino/michael-oher-spricht-darueber-wie-falsch-ihn-hollywood-darstellte](https://www.spiegel.de/kultur/kino/michael-oher-spricht-darueber-wie-falsch-ihn-hollywood-darstellte-a-2d405752-0874-42ae-9e0c-5fbb6b011543#ref=rss)
+### soldaten
+
+* [https://www.spiegel.de/ausland/ukraine-bezichtigt-russische-soldaten-der-pluenderung-in-eroberten-kursk-gebieten](https://www.spiegel.de/ausland/ukraine-bezichtigt-russische-soldaten-der-pluenderung-in-eroberten-kursk-gebieten-a-0153ca6e-ae72-4971-b3c1-9df9d139fa9d#ref=rss)
+### wenig
+
+* [https://www.spiegel.de/ausland/ukraine-bezichtigt-russische-soldaten-der-pluenderung-in-eroberten-kursk-gebieten](https://www.spiegel.de/ausland/ukraine-bezichtigt-russische-soldaten-der-pluenderung-in-eroberten-kursk-gebieten-a-0153ca6e-ae72-4971-b3c1-9df9d139fa9d#ref=rss)
+* [https://www.spiegel.de/ausland/indien-vergewaltigung-und-mord-an-angehender-aerztin-erschuettert-das-land](https://www.spiegel.de/ausland/indien-vergewaltigung-und-mord-an-angehender-aerztin-erschuettert-das-land-a-e4b6cd74-05da-448a-9b7b-c4ea7308ad5d#ref=rss)
+### violinspinne
+
+* [https://www.spiegel.de/wissenschaft/medizin/violinspinne-zwei-todesfaelle-in-italien-wie-gefaehrlich-ist-dieses-tier](https://www.spiegel.de/wissenschaft/medizin/violinspinne-zwei-todesfaelle-in-italien-wie-gefaehrlich-ist-dieses-tier-a-7ee0971e-a08b-4139-ba3a-75d34a738b7d#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/wissenschaft/medizin/violinspinne-zwei-todesfaelle-in-italien-wie-gefaehrlich-ist-dieses-tier](https://www.spiegel.de/wissenschaft/medizin/violinspinne-zwei-todesfaelle-in-italien-wie-gefaehrlich-ist-dieses-tier-a-7ee0971e-a08b-4139-ba3a-75d34a738b7d#ref=rss)
+### italien
+
+* [https://www.spiegel.de/wissenschaft/medizin/violinspinne-zwei-todesfaelle-in-italien-wie-gefaehrlich-ist-dieses-tier](https://www.spiegel.de/wissenschaft/medizin/violinspinne-zwei-todesfaelle-in-italien-wie-gefaehrlich-ist-dieses-tier-a-7ee0971e-a08b-4139-ba3a-75d34a738b7d#ref=rss)
+### plettenberg
+
+* [https://www.spiegel.de/panorama/justiz/plettenberg-polizeihund-findet-vermisstes-kind](https://www.spiegel.de/panorama/justiz/plettenberg-polizeihund-findet-vermisstes-kind-a-da4d4ff4-d202-4c1b-aa7f-9fbcd2f8d713#ref=rss)
+### kind
+
+* [https://www.spiegel.de/panorama/justiz/plettenberg-polizeihund-findet-vermisstes-kind](https://www.spiegel.de/panorama/justiz/plettenberg-polizeihund-findet-vermisstes-kind-a-da4d4ff4-d202-4c1b-aa7f-9fbcd2f8d713#ref=rss)
+### gefunden
+
+* [https://www.spiegel.de/panorama/justiz/plettenberg-polizeihund-findet-vermisstes-kind](https://www.spiegel.de/panorama/justiz/plettenberg-polizeihund-findet-vermisstes-kind-a-da4d4ff4-d202-4c1b-aa7f-9fbcd2f8d713#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-marzahn-leiche-von-14-jaehriger-in-berliner-keller-gefunden](https://www.spiegel.de/panorama/justiz/berlin-marzahn-leiche-von-14-jaehriger-in-berliner-keller-gefunden-a-d531754d-8c7e-4b54-8aa2-743cbac5dbd7#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-vereinfacht-asyl-fuer-fliehende-aus-neoliberalen-staaten](https://www.spiegel.de/ausland/russland-wladimir-putin-vereinfacht-asyl-fuer-fliehende-aus-neoliberalen-staaten-a-467fce06-4285-4bee-b7b9-7f4f27117d82#ref=rss)
+### putin
+
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-vereinfacht-asyl-fuer-fliehende-aus-neoliberalen-staaten](https://www.spiegel.de/ausland/russland-wladimir-putin-vereinfacht-asyl-fuer-fliehende-aus-neoliberalen-staaten-a-467fce06-4285-4bee-b7b9-7f4f27117d82#ref=rss)
+### keller
+
+* [https://www.spiegel.de/panorama/justiz/berlin-marzahn-leiche-von-14-jaehriger-in-berliner-keller-gefunden](https://www.spiegel.de/panorama/justiz/berlin-marzahn-leiche-von-14-jaehriger-in-berliner-keller-gefunden-a-d531754d-8c7e-4b54-8aa2-743cbac5dbd7#ref=rss)
+### indien
+
+* [https://www.spiegel.de/ausland/indien-vergewaltigung-und-mord-an-angehender-aerztin-erschuettert-das-land](https://www.spiegel.de/ausland/indien-vergewaltigung-und-mord-an-angehender-aerztin-erschuettert-das-land-a-e4b6cd74-05da-448a-9b7b-c4ea7308ad5d#ref=rss)
+### ärztin
+
+* [https://www.spiegel.de/ausland/indien-vergewaltigung-und-mord-an-angehender-aerztin-erschuettert-das-land](https://www.spiegel.de/ausland/indien-vergewaltigung-und-mord-an-angehender-aerztin-erschuettert-das-land-a-e4b6cd74-05da-448a-9b7b-c4ea7308ad5d#ref=rss)
+### pessimistischer
+
+* [https://www.spiegel.de/wirtschaft/einzelhandel-blickt-pessimistischer-in-die-zukunft](https://www.spiegel.de/wirtschaft/einzelhandel-blickt-pessimistischer-in-die-zukunft-a-d5e303ac-3bbf-48a4-847f-8dc36d8279f3#ref=rss)
+### zukunft
+
+* [https://www.spiegel.de/wirtschaft/einzelhandel-blickt-pessimistischer-in-die-zukunft](https://www.spiegel.de/wirtschaft/einzelhandel-blickt-pessimistischer-in-die-zukunft-a-d5e303ac-3bbf-48a4-847f-8dc36d8279f3#ref=rss)
+### bremen
+
+* [https://www.spiegel.de/panorama/bildung/bremen-zahlreiche-schulen-erhalten-drohmails](https://www.spiegel.de/panorama/bildung/bremen-zahlreiche-schulen-erhalten-drohmails-a-8eae66c6-f941-4037-8e82-a063dd6364c9#ref=rss)
+### schulen
+
+* [https://www.spiegel.de/panorama/bildung/bremen-zahlreiche-schulen-erhalten-drohmails](https://www.spiegel.de/panorama/bildung/bremen-zahlreiche-schulen-erhalten-drohmails-a-8eae66c6-f941-4037-8e82-a063dd6364c9#ref=rss)
+### garnisonkirche
+
+* [https://www.spiegel.de/kultur/garnisonkirche-in-potsdam-wie-weiht-man-ein-symbol-fuer-rechtsextreme-ein](https://www.spiegel.de/kultur/garnisonkirche-in-potsdam-wie-weiht-man-ein-symbol-fuer-rechtsextreme-ein-a-b4c02ff6-4d53-4994-a9ad-e8dd99e4b014#ref=rss)
+### neu
+
+* [https://www.spiegel.de/kultur/garnisonkirche-in-potsdam-wie-weiht-man-ein-symbol-fuer-rechtsextreme-ein](https://www.spiegel.de/kultur/garnisonkirche-in-potsdam-wie-weiht-man-ein-symbol-fuer-rechtsextreme-ein-a-b4c02ff6-4d53-4994-a9ad-e8dd99e4b014#ref=rss)
+* [https://www.spiegel.de/netzwelt/tiktok-trend-wie-songs-durch-sped-up-versions-die-charts-neu-erobern](https://www.spiegel.de/netzwelt/tiktok-trend-wie-songs-durch-sped-up-versions-die-charts-neu-erobern-a-11b80c03-c3d7-4205-8cc2-62cbb2b8eddb#ref=rss)
+### magdeburg
+
+* [https://www.spiegel.de/panorama/gesellschaft/intel-in-magdeburg-die-probleme-werden-mehr-so-reagiert-die-politik](https://www.spiegel.de/panorama/gesellschaft/intel-in-magdeburg-die-probleme-werden-mehr-so-reagiert-die-politik-a-70d78836-90ff-440e-b2e8-7e9799f557ed#ref=rss)
+### bundespolizei
+
+* [https://www.spiegel.de/panorama/justiz/bundespolizei-verzeichnet-neue-hoechstzahl-an-angriffen-auf-einsatzkraefte](https://www.spiegel.de/panorama/justiz/bundespolizei-verzeichnet-neue-hoechstzahl-an-angriffen-auf-einsatzkraefte-a-64e05d35-5ffb-4da6-b2bd-1b6c9cd5d5ff#ref=rss)
 ### neue
 
-* [https://www.spiegel.de/kultur/literatur/die-haeschenschule-wird-100-neue-fassung-von-anke-engelke-polarisiert](https://www.spiegel.de/kultur/literatur/die-haeschenschule-wird-100-neue-fassung-von-anke-engelke-polarisiert-a-a5ae049e-fd11-48aa-a109-e4bc3e5b9b78#ref=rss)
-* [https://www.spiegel.de/sport/fussball/la-liga-kein-sieg-fuer-real-madrid-kein-tor-fuer-kylian-mbappe-bei-auftakt](https://www.spiegel.de/sport/fussball/la-liga-kein-sieg-fuer-real-madrid-kein-tor-fuer-kylian-mbappe-bei-auftakt-a-be67482f-1022-4902-ba37-bd48ea155f87#ref=rss)
-### anke
+* [https://www.spiegel.de/panorama/justiz/bundespolizei-verzeichnet-neue-hoechstzahl-an-angriffen-auf-einsatzkraefte](https://www.spiegel.de/panorama/justiz/bundespolizei-verzeichnet-neue-hoechstzahl-an-angriffen-auf-einsatzkraefte-a-64e05d35-5ffb-4da6-b2bd-1b6c9cd5d5ff#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/highfield-festival-bei-leipzig-riesenrad-in-flammen-polizei-vermutet-versehen](https://www.spiegel.de/panorama/justiz/highfield-festival-bei-leipzig-riesenrad-in-flammen-polizei-vermutet-versehen-a-1c513f5d-3174-43ce-b090-142cec9116fc#ref=rss)
+### einsatzkräfte
 
-* [https://www.spiegel.de/kultur/literatur/die-haeschenschule-wird-100-neue-fassung-von-anke-engelke-polarisiert](https://www.spiegel.de/kultur/literatur/die-haeschenschule-wird-100-neue-fassung-von-anke-engelke-polarisiert-a-a5ae049e-fd11-48aa-a109-e4bc3e5b9b78#ref=rss)
-### engelke
+* [https://www.spiegel.de/panorama/justiz/bundespolizei-verzeichnet-neue-hoechstzahl-an-angriffen-auf-einsatzkraefte](https://www.spiegel.de/panorama/justiz/bundespolizei-verzeichnet-neue-hoechstzahl-an-angriffen-auf-einsatzkraefte-a-64e05d35-5ffb-4da6-b2bd-1b6c9cd5d5ff#ref=rss)
+### isle
 
-* [https://www.spiegel.de/kultur/literatur/die-haeschenschule-wird-100-neue-fassung-von-anke-engelke-polarisiert](https://www.spiegel.de/kultur/literatur/die-haeschenschule-wird-100-neue-fassung-von-anke-engelke-polarisiert-a-a5ae049e-fd11-48aa-a109-e4bc3e5b9b78#ref=rss)
-### deutschlands
+* [https://www.spiegel.de/sport/isle-of-man-motorradfahrer-stirbt-bei-amateurvariante-des-gefaehrlichsten-rennens-der-welt](https://www.spiegel.de/sport/isle-of-man-motorradfahrer-stirbt-bei-amateurvariante-des-gefaehrlichsten-rennens-der-welt-a-700f2bdc-0d4e-455c-84d6-1460ca688ba7#ref=rss)
+### of
 
-* [https://www.spiegel.de/wirtschaft/trotz-schwindender-nachfrage-autos-sind-noch-immer-deutschlands-exportschlager](https://www.spiegel.de/wirtschaft/trotz-schwindender-nachfrage-autos-sind-noch-immer-deutschlands-exportschlager-a-000ff6da-9764-4b49-8551-ac3b7c73ece9#ref=rss)
-### usa
+* [https://www.spiegel.de/sport/isle-of-man-motorradfahrer-stirbt-bei-amateurvariante-des-gefaehrlichsten-rennens-der-welt](https://www.spiegel.de/sport/isle-of-man-motorradfahrer-stirbt-bei-amateurvariante-des-gefaehrlichsten-rennens-der-welt-a-700f2bdc-0d4e-455c-84d6-1460ca688ba7#ref=rss)
+### amateurvariante
 
-* [https://www.spiegel.de/wirtschaft/trotz-schwindender-nachfrage-autos-sind-noch-immer-deutschlands-exportschlager](https://www.spiegel.de/wirtschaft/trotz-schwindender-nachfrage-autos-sind-noch-immer-deutschlands-exportschlager-a-000ff6da-9764-4b49-8551-ac3b7c73ece9#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-kontroverse-in-cincinnati-peinlich-novak-djokovic-fordert-videobeweis](https://www.spiegel.de/sport/tennis/tennis-kontroverse-in-cincinnati-peinlich-novak-djokovic-fordert-videobeweis-a-cc1ef1df-582f-40b2-9557-01873134e989#ref=rss)
-### messer
+* [https://www.spiegel.de/sport/isle-of-man-motorradfahrer-stirbt-bei-amateurvariante-des-gefaehrlichsten-rennens-der-welt](https://www.spiegel.de/sport/isle-of-man-motorradfahrer-stirbt-bei-amateurvariante-des-gefaehrlichsten-rennens-der-welt-a-700f2bdc-0d4e-455c-84d6-1460ca688ba7#ref=rss)
+### leipzig
 
-* [https://www.spiegel.de/panorama/justiz/kriminalitaet-der-fokus-auf-messer-hat-mit-der-realitaet-nichts-zu-tun-kommentar](https://www.spiegel.de/panorama/justiz/kriminalitaet-der-fokus-auf-messer-hat-mit-der-realitaet-nichts-zu-tun-kommentar-a-366aa8da-2049-4299-b762-ae16d7a5a87a#ref=rss)
-### liga
+* [https://www.spiegel.de/panorama/justiz/highfield-festival-bei-leipzig-riesenrad-in-flammen-polizei-vermutet-versehen](https://www.spiegel.de/panorama/justiz/highfield-festival-bei-leipzig-riesenrad-in-flammen-polizei-vermutet-versehen-a-1c513f5d-3174-43ce-b090-142cec9116fc#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/sport/fussball/la-liga-kein-sieg-fuer-real-madrid-kein-tor-fuer-kylian-mbappe-bei-auftakt](https://www.spiegel.de/sport/fussball/la-liga-kein-sieg-fuer-real-madrid-kein-tor-fuer-kylian-mbappe-bei-auftakt-a-be67482f-1022-4902-ba37-bd48ea155f87#ref=rss)
-### real
+* [https://www.spiegel.de/panorama/justiz/highfield-festival-bei-leipzig-riesenrad-in-flammen-polizei-vermutet-versehen](https://www.spiegel.de/panorama/justiz/highfield-festival-bei-leipzig-riesenrad-in-flammen-polizei-vermutet-versehen-a-1c513f5d-3174-43ce-b090-142cec9116fc#ref=rss)
+### juice
 
-* [https://www.spiegel.de/sport/fussball/la-liga-kein-sieg-fuer-real-madrid-kein-tor-fuer-kylian-mbappe-bei-auftakt](https://www.spiegel.de/sport/fussball/la-liga-kein-sieg-fuer-real-madrid-kein-tor-fuer-kylian-mbappe-bei-auftakt-a-be67482f-1022-4902-ba37-bd48ea155f87#ref=rss)
-### madrid
+* [https://www.spiegel.de/wissenschaft/weltall/raumfahrt-esa-sonde-juice-fliegt-riskantes-manoever-in-mondnaehe](https://www.spiegel.de/wissenschaft/weltall/raumfahrt-esa-sonde-juice-fliegt-riskantes-manoever-in-mondnaehe-a-25b2dd6e-49aa-4766-90ba-b7dbc98d3759#ref=rss)
+### fliegt
 
-* [https://www.spiegel.de/sport/fussball/la-liga-kein-sieg-fuer-real-madrid-kein-tor-fuer-kylian-mbappe-bei-auftakt](https://www.spiegel.de/sport/fussball/la-liga-kein-sieg-fuer-real-madrid-kein-tor-fuer-kylian-mbappe-bei-auftakt-a-be67482f-1022-4902-ba37-bd48ea155f87#ref=rss)
-### kylian
+* [https://www.spiegel.de/wissenschaft/weltall/raumfahrt-esa-sonde-juice-fliegt-riskantes-manoever-in-mondnaehe](https://www.spiegel.de/wissenschaft/weltall/raumfahrt-esa-sonde-juice-fliegt-riskantes-manoever-in-mondnaehe-a-25b2dd6e-49aa-4766-90ba-b7dbc98d3759#ref=rss)
+### sorgt
 
-* [https://www.spiegel.de/sport/fussball/la-liga-kein-sieg-fuer-real-madrid-kein-tor-fuer-kylian-mbappe-bei-auftakt](https://www.spiegel.de/sport/fussball/la-liga-kein-sieg-fuer-real-madrid-kein-tor-fuer-kylian-mbappe-bei-auftakt-a-be67482f-1022-4902-ba37-bd48ea155f87#ref=rss)
-### mbappé
+* [https://www.spiegel.de/politik/deutschland/ukraine-fuehrende-cdu-politiker-kritisieren-christian-lindners-sparplaene](https://www.spiegel.de/politik/deutschland/ukraine-fuehrende-cdu-politiker-kritisieren-christian-lindners-sparplaene-a-62920d54-1fea-44c8-bd2c-5fb0ea37ebbf#ref=rss)
+* [https://www.spiegel.de/ausland/taylor-swift-donald-trump-wollte-mit-ki-bildern-swifties-fuer-sich-gewinnen-hat-nicht-geklappt](https://www.spiegel.de/ausland/taylor-swift-donald-trump-wollte-mit-ki-bildern-swifties-fuer-sich-gewinnen-hat-nicht-geklappt-a-aa81a609-4b90-42a3-b099-921d68ff1376#ref=rss)
+### partei
 
-* [https://www.spiegel.de/sport/fussball/la-liga-kein-sieg-fuer-real-madrid-kein-tor-fuer-kylian-mbappe-bei-auftakt](https://www.spiegel.de/sport/fussball/la-liga-kein-sieg-fuer-real-madrid-kein-tor-fuer-kylian-mbappe-bei-auftakt-a-be67482f-1022-4902-ba37-bd48ea155f87#ref=rss)
-### flensburg
+* [https://www.spiegel.de/politik/deutschland/die-linke-in-der-existenzkrise-sieben-gruende-warum-die-partei-verschwinden-wird](https://www.spiegel.de/politik/deutschland/die-linke-in-der-existenzkrise-sieben-gruende-warum-die-partei-verschwinden-wird-a-5a33b361-d53e-4639-a4c0-1b75d2f1c122#ref=rss)
+### donald
 
-* [https://www.spiegel.de/start/studieren-in-flensburg-campus-wohnviertel-wg-zimmer-preise-und-kneipen](https://www.spiegel.de/start/studieren-in-flensburg-campus-wohnviertel-wg-zimmer-preise-und-kneipen-a-c70d7671-bfce-4f1b-84ee-f00f3e2bfb99#ref=rss)
-### novak
+* [https://www.spiegel.de/ausland/taylor-swift-donald-trump-wollte-mit-ki-bildern-swifties-fuer-sich-gewinnen-hat-nicht-geklappt](https://www.spiegel.de/ausland/taylor-swift-donald-trump-wollte-mit-ki-bildern-swifties-fuer-sich-gewinnen-hat-nicht-geklappt-a-aa81a609-4b90-42a3-b099-921d68ff1376#ref=rss)
+### trump
 
-* [https://www.spiegel.de/sport/tennis/tennis-kontroverse-in-cincinnati-peinlich-novak-djokovic-fordert-videobeweis](https://www.spiegel.de/sport/tennis/tennis-kontroverse-in-cincinnati-peinlich-novak-djokovic-fordert-videobeweis-a-cc1ef1df-582f-40b2-9557-01873134e989#ref=rss)
-### djokovic
+* [https://www.spiegel.de/ausland/taylor-swift-donald-trump-wollte-mit-ki-bildern-swifties-fuer-sich-gewinnen-hat-nicht-geklappt](https://www.spiegel.de/ausland/taylor-swift-donald-trump-wollte-mit-ki-bildern-swifties-fuer-sich-gewinnen-hat-nicht-geklappt-a-aa81a609-4b90-42a3-b099-921d68ff1376#ref=rss)
+### gewinnen
 
-* [https://www.spiegel.de/sport/tennis/tennis-kontroverse-in-cincinnati-peinlich-novak-djokovic-fordert-videobeweis](https://www.spiegel.de/sport/tennis/tennis-kontroverse-in-cincinnati-peinlich-novak-djokovic-fordert-videobeweis-a-cc1ef1df-582f-40b2-9557-01873134e989#ref=rss)
+* [https://www.spiegel.de/ausland/taylor-swift-donald-trump-wollte-mit-ki-bildern-swifties-fuer-sich-gewinnen-hat-nicht-geklappt](https://www.spiegel.de/ausland/taylor-swift-donald-trump-wollte-mit-ki-bildern-swifties-fuer-sich-gewinnen-hat-nicht-geklappt-a-aa81a609-4b90-42a3-b099-921d68ff1376#ref=rss)
+### dschungelcamp
+
+* [https://www.spiegel.de/kultur/dschungelcamp-tag-3-kommt-wir-essen-winfried](https://www.spiegel.de/kultur/dschungelcamp-tag-3-kommt-wir-essen-winfried-a-16b89983-35a3-41e7-b8a3-9f4c8dc847e4#ref=rss)
+### winfried
+
+* [https://www.spiegel.de/kultur/dschungelcamp-tag-3-kommt-wir-essen-winfried](https://www.spiegel.de/kultur/dschungelcamp-tag-3-kommt-wir-essen-winfried-a-16b89983-35a3-41e7-b8a3-9f4c8dc847e4#ref=rss)
+### natur
+
+* [https://www.spiegel.de/kultur/dschungelcamp-tag-3-kommt-wir-essen-winfried](https://www.spiegel.de/kultur/dschungelcamp-tag-3-kommt-wir-essen-winfried-a-16b89983-35a3-41e7-b8a3-9f4c8dc847e4#ref=rss)
+### ganz
+
+* [https://www.spiegel.de/kultur/dschungelcamp-tag-3-kommt-wir-essen-winfried](https://www.spiegel.de/kultur/dschungelcamp-tag-3-kommt-wir-essen-winfried-a-16b89983-35a3-41e7-b8a3-9f4c8dc847e4#ref=rss)
+* [https://www.spiegel.de/netzwelt/tiktok-trend-wie-songs-durch-sped-up-versions-die-charts-neu-erobern](https://www.spiegel.de/netzwelt/tiktok-trend-wie-songs-durch-sped-up-versions-die-charts-neu-erobern-a-11b80c03-c3d7-4205-8cc2-62cbb2b8eddb#ref=rss)
+### versions
+
+* [https://www.spiegel.de/netzwelt/tiktok-trend-wie-songs-durch-sped-up-versions-die-charts-neu-erobern](https://www.spiegel.de/netzwelt/tiktok-trend-wie-songs-durch-sped-up-versions-die-charts-neu-erobern-a-11b80c03-c3d7-4205-8cc2-62cbb2b8eddb#ref=rss)
 
