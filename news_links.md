@@ -4,324 +4,322 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### harris
-
-* [https://www.spiegel.de/politik/wahlkampf-in-den-usa-kamala-harris-ist-eine-marxistin-spiegel-spitzengespraech](https://www.spiegel.de/politik/wahlkampf-in-den-usa-kamala-harris-ist-eine-marxistin-spiegel-spitzengespraech-a-7a9ea9ca-4153-4dbf-829e-5c6dce2594db#ref=rss)
-* [https://www.spiegel.de/kultur/us-wahlkampf-kamala-harris-und-ihr-umfeld-inszenieren-sich-als-beinahe-spiessige-familie](https://www.spiegel.de/kultur/us-wahlkampf-kamala-harris-und-ihr-umfeld-inszenieren-sich-als-beinahe-spiessige-familie-a-040a8574-6d0e-4a28-a355-f9df30beef7a#ref=rss)
-### bezahlkarte
-
-* [https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich](https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-a-fe2d7662-ad9d-4637-b593-225359946d1d#ref=rss)
-* [https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-podcast](https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-podcast-a-9a339858-d395-4d16-82eb-1a9ae0da15cd#ref=rss)
-### asylsuchende
-
-* [https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich](https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-a-fe2d7662-ad9d-4637-b593-225359946d1d#ref=rss)
-* [https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-podcast](https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-podcast-a-9a339858-d395-4d16-82eb-1a9ae0da15cd#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/abwanderung-von-ost-nach-west-tesla-intel-und-tsmc-werden-das-problem-nicht-loesen](https://www.spiegel.de/panorama/abwanderung-von-ost-nach-west-tesla-intel-und-tsmc-werden-das-problem-nicht-loesen-a-f603b6bd-01ea-446e-972e-7b769d60c397#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/verladung-von-modul-fuer-raumschiff-orion-mit-technik-aus-bremen-zum-mond](https://www.spiegel.de/wissenschaft/weltall/verladung-von-modul-fuer-raumschiff-orion-mit-technik-aus-bremen-zum-mond-a-769c075e-1862-4589-9fcd-8085ee66b70b#ref=rss)
-* [https://www.spiegel.de/panorama/schweiz-zwei-tote-bei-gleitschirmunfall](https://www.spiegel.de/panorama/schweiz-zwei-tote-bei-gleitschirmunfall-a-bb1cee90-1c4f-477a-b440-0d14e6a9d2da#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/1n-telecom-verbraucherschuetzer-klagen-wegen-perfider-masche](https://www.spiegel.de/netzwelt/netzpolitik/1n-telecom-verbraucherschuetzer-klagen-wegen-perfider-masche-a-3d8d29be-26ed-4c63-ae5a-16f3a667447b#ref=rss)
-### einsatz
-
-* [https://www.spiegel.de/ausland/finnland-umweltorganisationen-verklagen-regierung-mangelnder-einsatz-gegen-klimakrise](https://www.spiegel.de/ausland/finnland-umweltorganisationen-verklagen-regierung-mangelnder-einsatz-gegen-klimakrise-a-065cd604-220f-4f59-8f22-346b702398cb#ref=rss)
-* [https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich](https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-a-fe2d7662-ad9d-4637-b593-225359946d1d#ref=rss)
-* [https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-podcast](https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-podcast-a-9a339858-d395-4d16-82eb-1a9ae0da15cd#ref=rss)
-### meyer
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/meyer-werft-in-papenburg-warum-der-staat-die-meyer-werft-retten-will](https://www.spiegel.de/wirtschaft/unternehmen/meyer-werft-in-papenburg-warum-der-staat-die-meyer-werft-retten-will-a-91cfe60f-7ea2-4e6b-b2d6-2a8be7527fd4#ref=rss)
-### werft
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/meyer-werft-in-papenburg-warum-der-staat-die-meyer-werft-retten-will](https://www.spiegel.de/wirtschaft/unternehmen/meyer-werft-in-papenburg-warum-der-staat-die-meyer-werft-retten-will-a-91cfe60f-7ea2-4e6b-b2d6-2a8be7527fd4#ref=rss)
-### wahlkampf
-
-* [https://www.spiegel.de/politik/wahlkampf-in-den-usa-kamala-harris-ist-eine-marxistin-spiegel-spitzengespraech](https://www.spiegel.de/politik/wahlkampf-in-den-usa-kamala-harris-ist-eine-marxistin-spiegel-spitzengespraech-a-7a9ea9ca-4153-4dbf-829e-5c6dce2594db#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wahlkampf-in-den-usa-geld-fuer-die-deutsche-bahn-gesunkene-luxusjacht-bayesian](https://www.spiegel.de/politik/deutschland/news-des-tages-wahlkampf-in-den-usa-geld-fuer-die-deutsche-bahn-gesunkene-luxusjacht-bayesian-a-cc8c827d-68bd-495f-b744-0f4fc4302ce1#ref=rss)
-### kamala
-
-* [https://www.spiegel.de/politik/wahlkampf-in-den-usa-kamala-harris-ist-eine-marxistin-spiegel-spitzengespraech](https://www.spiegel.de/politik/wahlkampf-in-den-usa-kamala-harris-ist-eine-marxistin-spiegel-spitzengespraech-a-7a9ea9ca-4153-4dbf-829e-5c6dce2594db#ref=rss)
-* [https://www.spiegel.de/kultur/us-wahlkampf-kamala-harris-und-ihr-umfeld-inszenieren-sich-als-beinahe-spiessige-familie](https://www.spiegel.de/kultur/us-wahlkampf-kamala-harris-und-ihr-umfeld-inszenieren-sich-als-beinahe-spiessige-familie-a-040a8574-6d0e-4a28-a355-f9df30beef7a#ref=rss)
-### wirklich
-
-* [https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich](https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-a-fe2d7662-ad9d-4637-b593-225359946d1d#ref=rss)
-* [https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-podcast](https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-podcast-a-9a339858-d395-4d16-82eb-1a9ae0da15cd#ref=rss)
-* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-auf-youtube-siuuuuuubscribe-me](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-auf-youtube-siuuuuuubscribe-me-a-28585def-a16f-45b9-80b6-2e72c759ba6b#ref=rss)
-### behörden
-
-* [https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich](https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-a-fe2d7662-ad9d-4637-b593-225359946d1d#ref=rss)
-* [https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-podcast](https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-podcast-a-9a339858-d395-4d16-82eb-1a9ae0da15cd#ref=rss)
-* [https://www.spiegel.de/ausland/aserbaidschan-regierungskritiker-bahruz-samadov-wohl-wegen-hochverrats-in-baku-festgenommen](https://www.spiegel.de/ausland/aserbaidschan-regierungskritiker-bahruz-samadov-wohl-wegen-hochverrats-in-baku-festgenommen-a-7f78d06d-3710-479b-88cf-3e130ac94c27#ref=rss)
-### drei
-
-* [https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich](https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-a-fe2d7662-ad9d-4637-b593-225359946d1d#ref=rss)
-* [https://www.spiegel.de/kultur/musik/taylor-swift-fan-reaktionen-auf-statement-zu-wiener-konzertabsage-gespalten](https://www.spiegel.de/kultur/musik/taylor-swift-fan-reaktionen-auf-statement-zu-wiener-konzertabsage-gespalten-a-170f4999-94ae-4d7d-abc2-8a3aa255e2fc#ref=rss)
-* [https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-podcast](https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-podcast-a-9a339858-d395-4d16-82eb-1a9ae0da15cd#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/panorama/abwanderung-von-ost-nach-west-tesla-intel-und-tsmc-werden-das-problem-nicht-loesen](https://www.spiegel.de/panorama/abwanderung-von-ost-nach-west-tesla-intel-und-tsmc-werden-das-problem-nicht-loesen-a-f603b6bd-01ea-446e-972e-7b769d60c397#ref=rss)
-* [https://www.spiegel.de/wirtschaft/botswana-riesiger-rohdiamant-in-gefunden](https://www.spiegel.de/wirtschaft/botswana-riesiger-rohdiamant-in-gefunden-a-a78935d9-fa9c-4a27-9484-e05ff2cd550a#ref=rss)
-* [https://www.spiegel.de/politik/hamburg-nur-wenige-unterstuetzen-volksbegehren-gegen-gendergerechte-sprache](https://www.spiegel.de/politik/hamburg-nur-wenige-unterstuetzen-volksbegehren-gegen-gendergerechte-sprache-a-b70fb3aa-b83b-470a-b674-722d341036cb#ref=rss)
-### gemacht
+* [https://www.spiegel.de/ausland/jagd-saison-schweden-laesst-fast-500-baeren-in-kurzer-zeit-erschiessen](https://www.spiegel.de/ausland/jagd-saison-schweden-laesst-fast-500-baeren-in-kurzer-zeit-erschiessen-a-5f9701bf-4eaf-42a9-836f-65c63e5bc2c0#ref=rss)
+* [https://www.spiegel.de/ausland/gleichstellungspolitik-island-macht-unisex-toiletten-fuer-mehr-gleichstellung-verpflichtend](https://www.spiegel.de/ausland/gleichstellungspolitik-island-macht-unisex-toiletten-fuer-mehr-gleichstellung-verpflichtend-a-e3373c47-0ac6-40ff-bcc9-eec4516ebc00#ref=rss)
+* [https://www.spiegel.de/panorama/berliner-hauptbahnhof-mehr-diebstaehle-und-gewalttaten](https://www.spiegel.de/panorama/berliner-hauptbahnhof-mehr-diebstaehle-und-gewalttaten-a-4930056f-f5ce-4faa-8bf1-cd2e454b0086#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kirchen-in-deutschland-ampel-will-offenbar-staatsleistungen-streichen](https://www.spiegel.de/politik/deutschland/kirchen-in-deutschland-ampel-will-offenbar-staatsleistungen-streichen-a-4dca9a83-bc60-4550-bc75-75537531db43#ref=rss)
+* [https://www.spiegel.de/kultur/tim-raue-hat-seinen-geruchs-und-geschmackssinn-versichert](https://www.spiegel.de/kultur/tim-raue-hat-seinen-geruchs-und-geschmackssinn-versichert-a-daa987a1-943e-4b8a-ae3f-043e98ef75fa#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/lehrkraeftemangel-hessen-verzichtet-bei-quereinsteigern-auf-zweites-unterrichtsfach](https://www.spiegel.de/panorama/bildung/lehrkraeftemangel-hessen-verzichtet-bei-quereinsteigern-auf-zweites-unterrichtsfach-a-adce907b-57c9-494e-b59b-4ec7669d55c2#ref=rss)
+### kamala
 
-* [https://www.spiegel.de/sport/olympia-2024-in-paris-hochsprung-shelby-mcewen-der-mann-der-sicheres-olympiagold-verspielte](https://www.spiegel.de/sport/olympia-2024-in-paris-hochsprung-shelby-mcewen-der-mann-der-sicheres-olympiagold-verspielte-a-a5b29497-18b0-48a9-9d23-dc1e35e0462d#ref=rss)
-* [https://www.spiegel.de/ausland/aserbaidschan-regierungskritiker-bahruz-samadov-wohl-wegen-hochverrats-in-baku-festgenommen](https://www.spiegel.de/ausland/aserbaidschan-regierungskritiker-bahruz-samadov-wohl-wegen-hochverrats-in-baku-festgenommen-a-7f78d06d-3710-479b-88cf-3e130ac94c27#ref=rss)
-* [https://www.spiegel.de/wirtschaft/botswana-riesiger-rohdiamant-in-gefunden](https://www.spiegel.de/wirtschaft/botswana-riesiger-rohdiamant-in-gefunden-a-a78935d9-fa9c-4a27-9484-e05ff2cd550a#ref=rss)
-### kursk
+* [https://www.spiegel.de/netzwelt/web/donald-trump-liebt-bitcoin-und-kamala-harris-steckt-in-der-kryptofalle](https://www.spiegel.de/netzwelt/web/donald-trump-liebt-bitcoin-und-kamala-harris-steckt-in-der-kryptofalle-a-06b53bc3-2d32-4b52-b042-0a3c5102b246#ref=rss)
+* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-gute-vibes-allein-gewinnen-noch-keine-us-wahl](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-gute-vibes-allein-gewinnen-noch-keine-us-wahl-a-299fb04a-1fb6-482f-8e6d-05938d1d5897#ref=rss)
+* [https://www.spiegel.de/ausland/kamala-harris-auf-dem-parteitag-demokraten-der-kampf-gegen-donald-trump-ist-eroeffnet](https://www.spiegel.de/ausland/kamala-harris-auf-dem-parteitag-demokraten-der-kampf-gegen-donald-trump-ist-eroeffnet-a-207710af-08ef-48da-b749-69156594252d#ref=rss)
+### harris
 
-* [https://www.spiegel.de/ausland/kursk-chef-der-atomenergiebehoerde-rafael-grossi-will-akw-besuchen](https://www.spiegel.de/ausland/kursk-chef-der-atomenergiebehoerde-rafael-grossi-will-akw-besuchen-a-1e8e7d8a-8799-4a0c-98ed-b863a052d5b4#ref=rss)
-* [https://www.spiegel.de/ausland/ukraines-offensive-in-russland-wie-der-kreml-den-russen-die-besetzung-als-neue-normalitaet-verkauft](https://www.spiegel.de/ausland/ukraines-offensive-in-russland-wie-der-kreml-den-russen-die-besetzung-als-neue-normalitaet-verkauft-a-2e59701b-02f7-49f9-bde9-e102173e4397#ref=rss)
-### cristiano
-
-* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-auf-youtube-siuuuuuubscribe-me](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-auf-youtube-siuuuuuubscribe-me-a-28585def-a16f-45b9-80b6-2e72c759ba6b#ref=rss)
-### finnland
-
-* [https://www.spiegel.de/ausland/finnland-umweltorganisationen-verklagen-regierung-mangelnder-einsatz-gegen-klimakrise](https://www.spiegel.de/ausland/finnland-umweltorganisationen-verklagen-regierung-mangelnder-einsatz-gegen-klimakrise-a-065cd604-220f-4f59-8f22-346b702398cb#ref=rss)
-### klagen
-
-* [https://www.spiegel.de/ausland/finnland-umweltorganisationen-verklagen-regierung-mangelnder-einsatz-gegen-klimakrise](https://www.spiegel.de/ausland/finnland-umweltorganisationen-verklagen-regierung-mangelnder-einsatz-gegen-klimakrise-a-065cd604-220f-4f59-8f22-346b702398cb#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/1n-telecom-verbraucherschuetzer-klagen-wegen-perfider-masche](https://www.spiegel.de/netzwelt/netzpolitik/1n-telecom-verbraucherschuetzer-klagen-wegen-perfider-masche-a-3d8d29be-26ed-4c63-ae5a-16f3a667447b#ref=rss)
-### usa
-
-* [https://www.spiegel.de/politik/wahlkampf-in-den-usa-kamala-harris-ist-eine-marxistin-spiegel-spitzengespraech](https://www.spiegel.de/politik/wahlkampf-in-den-usa-kamala-harris-ist-eine-marxistin-spiegel-spitzengespraech-a-7a9ea9ca-4153-4dbf-829e-5c6dce2594db#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wahlkampf-in-den-usa-geld-fuer-die-deutsche-bahn-gesunkene-luxusjacht-bayesian](https://www.spiegel.de/politik/deutschland/news-des-tages-wahlkampf-in-den-usa-geld-fuer-die-deutsche-bahn-gesunkene-luxusjacht-bayesian-a-cc8c827d-68bd-495f-b744-0f4fc4302ce1#ref=rss)
-### safari
-
-* [https://www.spiegel.de/netzwelt/chrome-statt-safari-als-browser-apple-lockert-vorgaben-bei-standard-apps](https://www.spiegel.de/netzwelt/chrome-statt-safari-als-browser-apple-lockert-vorgaben-bei-standard-apps-a-a09b13e4-46b7-4b98-8573-74dc0a035b7b#ref=rss)
-### apple
-
-* [https://www.spiegel.de/netzwelt/chrome-statt-safari-als-browser-apple-lockert-vorgaben-bei-standard-apps](https://www.spiegel.de/netzwelt/chrome-statt-safari-als-browser-apple-lockert-vorgaben-bei-standard-apps-a-a09b13e4-46b7-4b98-8573-74dc0a035b7b#ref=rss)
-### bringt
-
-* [https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich](https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-a-fe2d7662-ad9d-4637-b593-225359946d1d#ref=rss)
-* [https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-podcast](https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-podcast-a-9a339858-d395-4d16-82eb-1a9ae0da15cd#ref=rss)
-### zahlungen
-
-* [https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich](https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-a-fe2d7662-ad9d-4637-b593-225359946d1d#ref=rss)
-* [https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-podcast](https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-podcast-a-9a339858-d395-4d16-82eb-1a9ae0da15cd#ref=rss)
-### schlepper
-
-* [https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich](https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-a-fe2d7662-ad9d-4637-b593-225359946d1d#ref=rss)
-* [https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-podcast](https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-podcast-a-9a339858-d395-4d16-82eb-1a9ae0da15cd#ref=rss)
-### verhindern
-
-* [https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich](https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-a-fe2d7662-ad9d-4637-b593-225359946d1d#ref=rss)
-* [https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-podcast](https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-podcast-a-9a339858-d395-4d16-82eb-1a9ae0da15cd#ref=rss)
-### entlasten
-
-* [https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich](https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-a-fe2d7662-ad9d-4637-b593-225359946d1d#ref=rss)
-* [https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-podcast](https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-podcast-a-9a339858-d395-4d16-82eb-1a9ae0da15cd#ref=rss)
-### einigen
-
-* [https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich](https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-a-fe2d7662-ad9d-4637-b593-225359946d1d#ref=rss)
-* [https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-podcast](https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-podcast-a-9a339858-d395-4d16-82eb-1a9ae0da15cd#ref=rss)
-### kommunen
-
-* [https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich](https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-a-fe2d7662-ad9d-4637-b593-225359946d1d#ref=rss)
-* [https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-podcast](https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-podcast-a-9a339858-d395-4d16-82eb-1a9ae0da15cd#ref=rss)
-### monaten
-
-* [https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich](https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-a-fe2d7662-ad9d-4637-b593-225359946d1d#ref=rss)
-* [https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-podcast](https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-podcast-a-9a339858-d395-4d16-82eb-1a9ae0da15cd#ref=rss)
-### spiegelredakteurin
-
-* [https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich](https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-a-fe2d7662-ad9d-4637-b593-225359946d1d#ref=rss)
-* [https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-podcast](https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-podcast-a-9a339858-d395-4d16-82eb-1a9ae0da15cd#ref=rss)
-### katherine
-
-* [https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich](https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-a-fe2d7662-ad9d-4637-b593-225359946d1d#ref=rss)
-* [https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-podcast](https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-podcast-a-9a339858-d395-4d16-82eb-1a9ae0da15cd#ref=rss)
-### rydlink
-
-* [https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich](https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-a-fe2d7662-ad9d-4637-b593-225359946d1d#ref=rss)
-* [https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-podcast](https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-podcast-a-9a339858-d395-4d16-82eb-1a9ae0da15cd#ref=rss)
-### zieht
-
-* [https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich](https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-a-fe2d7662-ad9d-4637-b593-225359946d1d#ref=rss)
-* [https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-podcast](https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-podcast-a-9a339858-d395-4d16-82eb-1a9ae0da15cd#ref=rss)
-### ernüchterndes
-
-* [https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich](https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-a-fe2d7662-ad9d-4637-b593-225359946d1d#ref=rss)
-* [https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-podcast](https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-podcast-a-9a339858-d395-4d16-82eb-1a9ae0da15cd#ref=rss)
-### resümee
-
-* [https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich](https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-a-fe2d7662-ad9d-4637-b593-225359946d1d#ref=rss)
-* [https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-podcast](https://www.spiegel.de/politik/was-bringt-die-bezahlkarte-fuer-asylsuchende-wirklich-podcast-a-9a339858-d395-4d16-82eb-1a9ae0da15cd#ref=rss)
-### archäologen
-
-* [https://www.spiegel.de/wissenschaft/berlin-mitte-archaeologen-finden-ein-wakizashi-wie-kommt-ein-samuraischwert-in-den-kriegsschutt](https://www.spiegel.de/wissenschaft/berlin-mitte-archaeologen-finden-ein-wakizashi-wie-kommt-ein-samuraischwert-in-den-kriegsschutt-a-8f3a5806-725b-4a67-8c40-137223d46d53#ref=rss)
-### wakizashi
-
-* [https://www.spiegel.de/wissenschaft/berlin-mitte-archaeologen-finden-ein-wakizashi-wie-kommt-ein-samuraischwert-in-den-kriegsschutt](https://www.spiegel.de/wissenschaft/berlin-mitte-archaeologen-finden-ein-wakizashi-wie-kommt-ein-samuraischwert-in-den-kriegsschutt-a-8f3a5806-725b-4a67-8c40-137223d46d53#ref=rss)
-### gefunden
-
-* [https://www.spiegel.de/wissenschaft/berlin-mitte-archaeologen-finden-ein-wakizashi-wie-kommt-ein-samuraischwert-in-den-kriegsschutt](https://www.spiegel.de/wissenschaft/berlin-mitte-archaeologen-finden-ein-wakizashi-wie-kommt-ein-samuraischwert-in-den-kriegsschutt-a-8f3a5806-725b-4a67-8c40-137223d46d53#ref=rss)
-* [https://www.spiegel.de/wirtschaft/botswana-riesiger-rohdiamant-in-gefunden](https://www.spiegel.de/wirtschaft/botswana-riesiger-rohdiamant-in-gefunden-a-a78935d9-fa9c-4a27-9484-e05ff2cd550a#ref=rss)
-### schneider
-
-* [https://www.spiegel.de/wirtschaft/nestle-chef-schneider-gibt-sein-amt-auf](https://www.spiegel.de/wirtschaft/nestle-chef-schneider-gibt-sein-amt-auf-a-b0a25599-d5a2-49b5-ae1b-210740347fff#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/donald-trump-liebt-bitcoin-und-kamala-harris-steckt-in-der-kryptofalle](https://www.spiegel.de/netzwelt/web/donald-trump-liebt-bitcoin-und-kamala-harris-steckt-in-der-kryptofalle-a-06b53bc3-2d32-4b52-b042-0a3c5102b246#ref=rss)
+* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-gute-vibes-allein-gewinnen-noch-keine-us-wahl](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-gute-vibes-allein-gewinnen-noch-keine-us-wahl-a-299fb04a-1fb6-482f-8e6d-05938d1d5897#ref=rss)
+* [https://www.spiegel.de/ausland/kamala-harris-auf-dem-parteitag-demokraten-der-kampf-gegen-donald-trump-ist-eroeffnet](https://www.spiegel.de/ausland/kamala-harris-auf-dem-parteitag-demokraten-der-kampf-gegen-donald-trump-ist-eroeffnet-a-207710af-08ef-48da-b749-69156594252d#ref=rss)
 ### neue
 
-* [https://www.spiegel.de/panorama/abwanderung-von-ost-nach-west-tesla-intel-und-tsmc-werden-das-problem-nicht-loesen](https://www.spiegel.de/panorama/abwanderung-von-ost-nach-west-tesla-intel-und-tsmc-werden-das-problem-nicht-loesen-a-f603b6bd-01ea-446e-972e-7b769d60c397#ref=rss)
-* [https://www.spiegel.de/ausland/ukraines-offensive-in-russland-wie-der-kreml-den-russen-die-besetzung-als-neue-normalitaet-verkauft](https://www.spiegel.de/ausland/ukraines-offensive-in-russland-wie-der-kreml-den-russen-die-besetzung-als-neue-normalitaet-verkauft-a-2e59701b-02f7-49f9-bde9-e102173e4397#ref=rss)
-### raumschiff
+* [https://www.spiegel.de/politik/deutschland/jeder-dritte-afd-waehler-billigt-gewalt-gegen-politiker](https://www.spiegel.de/politik/deutschland/jeder-dritte-afd-waehler-billigt-gewalt-gegen-politiker-a-5d52881a-2d90-44f6-b5a7-4f44e767389c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-saisonprognose-meister-fc-bayern-muenchen-das-war-einmal](https://www.spiegel.de/sport/fussball/fussball-bundesliga-saisonprognose-meister-fc-bayern-muenchen-das-war-einmal-a-f1d47849-fa1d-4c27-b9e1-b98591c8e1e3#ref=rss)
+* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-gute-vibes-allein-gewinnen-noch-keine-us-wahl](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-gute-vibes-allein-gewinnen-noch-keine-us-wahl-a-299fb04a-1fb6-482f-8e6d-05938d1d5897#ref=rss)
+* [https://www.spiegel.de/auto/fahrberichte/autogramm-vw-california-schlafsack-trifft-smartphone](https://www.spiegel.de/auto/fahrberichte/autogramm-vw-california-schlafsack-trifft-smartphone-a-380044dd-565b-4255-830d-e1cd0e8ac80f#ref=rss)
+### donald
 
-* [https://www.spiegel.de/wissenschaft/weltall/verladung-von-modul-fuer-raumschiff-orion-mit-technik-aus-bremen-zum-mond](https://www.spiegel.de/wissenschaft/weltall/verladung-von-modul-fuer-raumschiff-orion-mit-technik-aus-bremen-zum-mond-a-769c075e-1862-4589-9fcd-8085ee66b70b#ref=rss)
-### orion
+* [https://www.spiegel.de/netzwelt/web/donald-trump-liebt-bitcoin-und-kamala-harris-steckt-in-der-kryptofalle](https://www.spiegel.de/netzwelt/web/donald-trump-liebt-bitcoin-und-kamala-harris-steckt-in-der-kryptofalle-a-06b53bc3-2d32-4b52-b042-0a3c5102b246#ref=rss)
+* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-gute-vibes-allein-gewinnen-noch-keine-us-wahl](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-gute-vibes-allein-gewinnen-noch-keine-us-wahl-a-299fb04a-1fb6-482f-8e6d-05938d1d5897#ref=rss)
+* [https://www.spiegel.de/ausland/kamala-harris-auf-dem-parteitag-demokraten-der-kampf-gegen-donald-trump-ist-eroeffnet](https://www.spiegel.de/ausland/kamala-harris-auf-dem-parteitag-demokraten-der-kampf-gegen-donald-trump-ist-eroeffnet-a-207710af-08ef-48da-b749-69156594252d#ref=rss)
+### trump
 
-* [https://www.spiegel.de/wissenschaft/weltall/verladung-von-modul-fuer-raumschiff-orion-mit-technik-aus-bremen-zum-mond](https://www.spiegel.de/wissenschaft/weltall/verladung-von-modul-fuer-raumschiff-orion-mit-technik-aus-bremen-zum-mond-a-769c075e-1862-4589-9fcd-8085ee66b70b#ref=rss)
-### mond
+* [https://www.spiegel.de/netzwelt/web/donald-trump-liebt-bitcoin-und-kamala-harris-steckt-in-der-kryptofalle](https://www.spiegel.de/netzwelt/web/donald-trump-liebt-bitcoin-und-kamala-harris-steckt-in-der-kryptofalle-a-06b53bc3-2d32-4b52-b042-0a3c5102b246#ref=rss)
+* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-gute-vibes-allein-gewinnen-noch-keine-us-wahl](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-gute-vibes-allein-gewinnen-noch-keine-us-wahl-a-299fb04a-1fb6-482f-8e6d-05938d1d5897#ref=rss)
+* [https://www.spiegel.de/ausland/kamala-harris-auf-dem-parteitag-demokraten-der-kampf-gegen-donald-trump-ist-eroeffnet](https://www.spiegel.de/ausland/kamala-harris-auf-dem-parteitag-demokraten-der-kampf-gegen-donald-trump-ist-eroeffnet-a-207710af-08ef-48da-b749-69156594252d#ref=rss)
+### linke
 
-* [https://www.spiegel.de/wissenschaft/weltall/verladung-von-modul-fuer-raumschiff-orion-mit-technik-aus-bremen-zum-mond](https://www.spiegel.de/wissenschaft/weltall/verladung-von-modul-fuer-raumschiff-orion-mit-technik-aus-bremen-zum-mond-a-769c075e-1862-4589-9fcd-8085ee66b70b#ref=rss)
-### jamie
+* [https://www.spiegel.de/politik/deutschland/auslaenderkriminalitaet-wie-rechte-und-linke-die-wahrheit-verdrehen-kolumne](https://www.spiegel.de/politik/deutschland/auslaenderkriminalitaet-wie-rechte-und-linke-die-wahrheit-verdrehen-kolumne-a-77a92155-1676-4d36-97fb-bbaa71e72d50#ref=rss)
+* [https://www.spiegel.de/geschichte/paul-breitner-der-linke-rebell-mit-maserati-und-pool-zeitreise-der-spiegel-vor-50-jahren](https://www.spiegel.de/geschichte/paul-breitner-der-linke-rebell-mit-maserati-und-pool-zeitreise-der-spiegel-vor-50-jahren-a-6f65c3db-6c74-46dd-bfe3-49d116ca8a7b#ref=rss)
+### afghanistan
 
-* [https://www.spiegel.de/panorama/bildung/jamie-oliver-macht-schwachen-schuelern-mut](https://www.spiegel.de/panorama/bildung/jamie-oliver-macht-schwachen-schuelern-mut-a-d709df83-64c1-4a54-b252-cdda9d6ecfc1#ref=rss)
-### oliver
-
-* [https://www.spiegel.de/panorama/bildung/jamie-oliver-macht-schwachen-schuelern-mut](https://www.spiegel.de/panorama/bildung/jamie-oliver-macht-schwachen-schuelern-mut-a-d709df83-64c1-4a54-b252-cdda9d6ecfc1#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-taliban-fuehren-verschaerften-sitten-kanon-in-afghanistan-ein](https://www.spiegel.de/ausland/afghanistan-taliban-fuehren-verschaerften-sitten-kanon-in-afghanistan-ein-a-3b801b11-13de-4db3-95e6-1fd84ebdda01#ref=rss)
 ### macht
 
-* [https://www.spiegel.de/panorama/bildung/jamie-oliver-macht-schwachen-schuelern-mut](https://www.spiegel.de/panorama/bildung/jamie-oliver-macht-schwachen-schuelern-mut-a-d709df83-64c1-4a54-b252-cdda9d6ecfc1#ref=rss)
-* [https://www.spiegel.de/politik/hamburg-nur-wenige-unterstuetzen-volksbegehren-gegen-gendergerechte-sprache](https://www.spiegel.de/politik/hamburg-nur-wenige-unterstuetzen-volksbegehren-gegen-gendergerechte-sprache-a-b70fb3aa-b83b-470a-b674-722d341036cb#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/panorama/bildung/jamie-oliver-macht-schwachen-schuelern-mut](https://www.spiegel.de/panorama/bildung/jamie-oliver-macht-schwachen-schuelern-mut-a-d709df83-64c1-4a54-b252-cdda9d6ecfc1#ref=rss)
-* [https://www.spiegel.de/kultur/us-wahlkampf-kamala-harris-und-ihr-umfeld-inszenieren-sich-als-beinahe-spiessige-familie](https://www.spiegel.de/kultur/us-wahlkampf-kamala-harris-und-ihr-umfeld-inszenieren-sich-als-beinahe-spiessige-familie-a-040a8574-6d0e-4a28-a355-f9df30beef7a#ref=rss)
-### 2024
-
-* [https://www.spiegel.de/sport/olympia-2024-in-paris-hochsprung-shelby-mcewen-der-mann-der-sicheres-olympiagold-verspielte](https://www.spiegel.de/sport/olympia-2024-in-paris-hochsprung-shelby-mcewen-der-mann-der-sicheres-olympiagold-verspielte-a-a5b29497-18b0-48a9-9d23-dc1e35e0462d#ref=rss)
-* [https://www.spiegel.de/netzwelt/games/gamescom-2024-in-koeln-zehn-spiele-die-fuer-gespraechsstoff-sorgen](https://www.spiegel.de/netzwelt/games/gamescom-2024-in-koeln-zehn-spiele-die-fuer-gespraechsstoff-sorgen-a-77ec5c2b-6e9e-4643-80b2-00e46ca9ec4f#ref=rss)
-### hochsprung
-
-* [https://www.spiegel.de/sport/olympia-2024-in-paris-hochsprung-shelby-mcewen-der-mann-der-sicheres-olympiagold-verspielte](https://www.spiegel.de/sport/olympia-2024-in-paris-hochsprung-shelby-mcewen-der-mann-der-sicheres-olympiagold-verspielte-a-a5b29497-18b0-48a9-9d23-dc1e35e0462d#ref=rss)
-### shelby
-
-* [https://www.spiegel.de/sport/olympia-2024-in-paris-hochsprung-shelby-mcewen-der-mann-der-sicheres-olympiagold-verspielte](https://www.spiegel.de/sport/olympia-2024-in-paris-hochsprung-shelby-mcewen-der-mann-der-sicheres-olympiagold-verspielte-a-a5b29497-18b0-48a9-9d23-dc1e35e0462d#ref=rss)
-### mcewen
-
-* [https://www.spiegel.de/sport/olympia-2024-in-paris-hochsprung-shelby-mcewen-der-mann-der-sicheres-olympiagold-verspielte](https://www.spiegel.de/sport/olympia-2024-in-paris-hochsprung-shelby-mcewen-der-mann-der-sicheres-olympiagold-verspielte-a-a5b29497-18b0-48a9-9d23-dc1e35e0462d#ref=rss)
-### bekommen
-
-* [https://www.spiegel.de/sport/olympia-2024-in-paris-hochsprung-shelby-mcewen-der-mann-der-sicheres-olympiagold-verspielte](https://www.spiegel.de/sport/olympia-2024-in-paris-hochsprung-shelby-mcewen-der-mann-der-sicheres-olympiagold-verspielte-a-a5b29497-18b0-48a9-9d23-dc1e35e0462d#ref=rss)
-* [https://www.spiegel.de/politik/nancy-faeser-prueft-geldzahlung-fuer-abgeschobene-afghanen](https://www.spiegel.de/politik/nancy-faeser-prueft-geldzahlung-fuer-abgeschobene-afghanen-a-4b22c65e-9111-4e22-b226-63ece68441f9#ref=rss)
-### nancy
-
-* [https://www.spiegel.de/politik/nancy-faeser-prueft-geldzahlung-fuer-abgeschobene-afghanen](https://www.spiegel.de/politik/nancy-faeser-prueft-geldzahlung-fuer-abgeschobene-afghanen-a-4b22c65e-9111-4e22-b226-63ece68441f9#ref=rss)
-### faeser
-
-* [https://www.spiegel.de/politik/nancy-faeser-prueft-geldzahlung-fuer-abgeschobene-afghanen](https://www.spiegel.de/politik/nancy-faeser-prueft-geldzahlung-fuer-abgeschobene-afghanen-a-4b22c65e-9111-4e22-b226-63ece68441f9#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wahlkampf-in-den-usa-geld-fuer-die-deutsche-bahn-gesunkene-luxusjacht-bayesian](https://www.spiegel.de/politik/deutschland/news-des-tages-wahlkampf-in-den-usa-geld-fuer-die-deutsche-bahn-gesunkene-luxusjacht-bayesian-a-cc8c827d-68bd-495f-b744-0f4fc4302ce1#ref=rss)
-### parlament
-
-* [https://www.spiegel.de/ausland/tuerkei-was-steckt-hinter-der-schlaegerei-im-parlament](https://www.spiegel.de/ausland/tuerkei-was-steckt-hinter-der-schlaegerei-im-parlament-a-ceb2f280-ba9f-447a-8980-a5c0745f1401#ref=rss)
-### darunter
-
-* [https://www.spiegel.de/ausland/tuerkei-was-steckt-hinter-der-schlaegerei-im-parlament](https://www.spiegel.de/ausland/tuerkei-was-steckt-hinter-der-schlaegerei-im-parlament-a-ceb2f280-ba9f-447a-8980-a5c0745f1401#ref=rss)
-* [https://www.spiegel.de/netzwelt/games/gamescom-2024-in-koeln-zehn-spiele-die-fuer-gespraechsstoff-sorgen](https://www.spiegel.de/netzwelt/games/gamescom-2024-in-koeln-zehn-spiele-die-fuer-gespraechsstoff-sorgen-a-77ec5c2b-6e9e-4643-80b2-00e46ca9ec4f#ref=rss)
-### köln
-
-* [https://www.spiegel.de/ausland/tuerkei-was-steckt-hinter-der-schlaegerei-im-parlament](https://www.spiegel.de/ausland/tuerkei-was-steckt-hinter-der-schlaegerei-im-parlament-a-ceb2f280-ba9f-447a-8980-a5c0745f1401#ref=rss)
-* [https://www.spiegel.de/netzwelt/games/gamescom-2024-in-koeln-zehn-spiele-die-fuer-gespraechsstoff-sorgen](https://www.spiegel.de/netzwelt/games/gamescom-2024-in-koeln-zehn-spiele-die-fuer-gespraechsstoff-sorgen-a-77ec5c2b-6e9e-4643-80b2-00e46ca9ec4f#ref=rss)
-### werdohl
-
-* [https://www.spiegel.de/panorama/werdohl-in-nordrhein-westfalen-zweijaehriger-stirbt-nach-sturz-in-die-lenne](https://www.spiegel.de/panorama/werdohl-in-nordrhein-westfalen-zweijaehriger-stirbt-nach-sturz-in-die-lenne-a-3936c0b6-cc9b-4c31-b348-597205f796b5#ref=rss)
-### nordrheinwestfalen
-
-* [https://www.spiegel.de/panorama/werdohl-in-nordrhein-westfalen-zweijaehriger-stirbt-nach-sturz-in-die-lenne](https://www.spiegel.de/panorama/werdohl-in-nordrhein-westfalen-zweijaehriger-stirbt-nach-sturz-in-die-lenne-a-3936c0b6-cc9b-4c31-b348-597205f796b5#ref=rss)
-### taylor
-
-* [https://www.spiegel.de/kultur/musik/taylor-swift-fan-reaktionen-auf-statement-zu-wiener-konzertabsage-gespalten](https://www.spiegel.de/kultur/musik/taylor-swift-fan-reaktionen-auf-statement-zu-wiener-konzertabsage-gespalten-a-170f4999-94ae-4d7d-abc2-8a3aa255e2fc#ref=rss)
-### swift
-
-* [https://www.spiegel.de/kultur/musik/taylor-swift-fan-reaktionen-auf-statement-zu-wiener-konzertabsage-gespalten](https://www.spiegel.de/kultur/musik/taylor-swift-fan-reaktionen-auf-statement-zu-wiener-konzertabsage-gespalten-a-170f4999-94ae-4d7d-abc2-8a3aa255e2fc#ref=rss)
-### wiener
-
-* [https://www.spiegel.de/kultur/musik/taylor-swift-fan-reaktionen-auf-statement-zu-wiener-konzertabsage-gespalten](https://www.spiegel.de/kultur/musik/taylor-swift-fan-reaktionen-auf-statement-zu-wiener-konzertabsage-gespalten-a-170f4999-94ae-4d7d-abc2-8a3aa255e2fc#ref=rss)
-### absage
-
-* [https://www.spiegel.de/kultur/musik/taylor-swift-fan-reaktionen-auf-statement-zu-wiener-konzertabsage-gespalten](https://www.spiegel.de/kultur/musik/taylor-swift-fan-reaktionen-auf-statement-zu-wiener-konzertabsage-gespalten-a-170f4999-94ae-4d7d-abc2-8a3aa255e2fc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-erteilt-moeglicher-schwarz-gruener-koalition-scharfe-absage](https://www.spiegel.de/politik/deutschland/markus-soeder-erteilt-moeglicher-schwarz-gruener-koalition-scharfe-absage-a-130cfe51-f095-4a98-bfe0-88b1051ee97a#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/schweiz-zwei-tote-bei-gleitschirmunfall](https://www.spiegel.de/panorama/schweiz-zwei-tote-bei-gleitschirmunfall-a-bb1cee90-1c4f-477a-b440-0d14e6a9d2da#ref=rss)
-### bavarian
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/bavarian-nordic-das-unternehmen-das-die-welt-mit-mpox-impfstoff-versorgen-soll](https://www.spiegel.de/wirtschaft/unternehmen/bavarian-nordic-das-unternehmen-das-die-welt-mit-mpox-impfstoff-versorgen-soll-a-d9a10c33-f9fb-4dc0-b008-be0d2c6e75da#ref=rss)
-### nordic
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/bavarian-nordic-das-unternehmen-das-die-welt-mit-mpox-impfstoff-versorgen-soll](https://www.spiegel.de/wirtschaft/unternehmen/bavarian-nordic-das-unternehmen-das-die-welt-mit-mpox-impfstoff-versorgen-soll-a-d9a10c33-f9fb-4dc0-b008-be0d2c6e75da#ref=rss)
-### unternehmen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/bavarian-nordic-das-unternehmen-das-die-welt-mit-mpox-impfstoff-versorgen-soll](https://www.spiegel.de/wirtschaft/unternehmen/bavarian-nordic-das-unternehmen-das-die-welt-mit-mpox-impfstoff-versorgen-soll-a-d9a10c33-f9fb-4dc0-b008-be0d2c6e75da#ref=rss)
-### rafael
-
-* [https://www.spiegel.de/ausland/kursk-chef-der-atomenergiebehoerde-rafael-grossi-will-akw-besuchen](https://www.spiegel.de/ausland/kursk-chef-der-atomenergiebehoerde-rafael-grossi-will-akw-besuchen-a-1e8e7d8a-8799-4a0c-98ed-b863a052d5b4#ref=rss)
-### grossi
-
-* [https://www.spiegel.de/ausland/kursk-chef-der-atomenergiebehoerde-rafael-grossi-will-akw-besuchen](https://www.spiegel.de/ausland/kursk-chef-der-atomenergiebehoerde-rafael-grossi-will-akw-besuchen-a-1e8e7d8a-8799-4a0c-98ed-b863a052d5b4#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/ausland/kursk-chef-der-atomenergiebehoerde-rafael-grossi-will-akw-besuchen](https://www.spiegel.de/ausland/kursk-chef-der-atomenergiebehoerde-rafael-grossi-will-akw-besuchen-a-1e8e7d8a-8799-4a0c-98ed-b863a052d5b4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-erteilt-moeglicher-schwarz-gruener-koalition-scharfe-absage](https://www.spiegel.de/politik/deutschland/markus-soeder-erteilt-moeglicher-schwarz-gruener-koalition-scharfe-absage-a-130cfe51-f095-4a98-bfe0-88b1051ee97a#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/ukraines-offensive-in-russland-wie-der-kreml-den-russen-die-besetzung-als-neue-normalitaet-verkauft](https://www.spiegel.de/ausland/ukraines-offensive-in-russland-wie-der-kreml-den-russen-die-besetzung-als-neue-normalitaet-verkauft-a-2e59701b-02f7-49f9-bde9-e102173e4397#ref=rss)
-### besetzung
-
-* [https://www.spiegel.de/ausland/ukraines-offensive-in-russland-wie-der-kreml-den-russen-die-besetzung-als-neue-normalitaet-verkauft](https://www.spiegel.de/ausland/ukraines-offensive-in-russland-wie-der-kreml-den-russen-die-besetzung-als-neue-normalitaet-verkauft-a-2e59701b-02f7-49f9-bde9-e102173e4397#ref=rss)
-### umfeld
-
-* [https://www.spiegel.de/kultur/us-wahlkampf-kamala-harris-und-ihr-umfeld-inszenieren-sich-als-beinahe-spiessige-familie](https://www.spiegel.de/kultur/us-wahlkampf-kamala-harris-und-ihr-umfeld-inszenieren-sich-als-beinahe-spiessige-familie-a-040a8574-6d0e-4a28-a355-f9df30beef7a#ref=rss)
-### inszenieren
-
-* [https://www.spiegel.de/kultur/us-wahlkampf-kamala-harris-und-ihr-umfeld-inszenieren-sich-als-beinahe-spiessige-familie](https://www.spiegel.de/kultur/us-wahlkampf-kamala-harris-und-ihr-umfeld-inszenieren-sich-als-beinahe-spiessige-familie-a-040a8574-6d0e-4a28-a355-f9df30beef7a#ref=rss)
-### beinahe
-
-* [https://www.spiegel.de/kultur/us-wahlkampf-kamala-harris-und-ihr-umfeld-inszenieren-sich-als-beinahe-spiessige-familie](https://www.spiegel.de/kultur/us-wahlkampf-kamala-harris-und-ihr-umfeld-inszenieren-sich-als-beinahe-spiessige-familie-a-040a8574-6d0e-4a28-a355-f9df30beef7a#ref=rss)
-### familie
-
-* [https://www.spiegel.de/kultur/us-wahlkampf-kamala-harris-und-ihr-umfeld-inszenieren-sich-als-beinahe-spiessige-familie](https://www.spiegel.de/kultur/us-wahlkampf-kamala-harris-und-ihr-umfeld-inszenieren-sich-als-beinahe-spiessige-familie-a-040a8574-6d0e-4a28-a355-f9df30beef7a#ref=rss)
-* [https://www.spiegel.de/ausland/aserbaidschan-regierungskritiker-bahruz-samadov-wohl-wegen-hochverrats-in-baku-festgenommen](https://www.spiegel.de/ausland/aserbaidschan-regierungskritiker-bahruz-samadov-wohl-wegen-hochverrats-in-baku-festgenommen-a-7f78d06d-3710-479b-88cf-3e130ac94c27#ref=rss)
-### zehn
-
-* [https://www.spiegel.de/netzwelt/games/gamescom-2024-in-koeln-zehn-spiele-die-fuer-gespraechsstoff-sorgen](https://www.spiegel.de/netzwelt/games/gamescom-2024-in-koeln-zehn-spiele-die-fuer-gespraechsstoff-sorgen-a-77ec5c2b-6e9e-4643-80b2-00e46ca9ec4f#ref=rss)
-### wo
-
-* [https://www.spiegel.de/netzwelt/games/gamescom-2024-in-koeln-zehn-spiele-die-fuer-gespraechsstoff-sorgen](https://www.spiegel.de/netzwelt/games/gamescom-2024-in-koeln-zehn-spiele-die-fuer-gespraechsstoff-sorgen-a-77ec5c2b-6e9e-4643-80b2-00e46ca9ec4f#ref=rss)
-### bahruz
-
-* [https://www.spiegel.de/ausland/aserbaidschan-regierungskritiker-bahruz-samadov-wohl-wegen-hochverrats-in-baku-festgenommen](https://www.spiegel.de/ausland/aserbaidschan-regierungskritiker-bahruz-samadov-wohl-wegen-hochverrats-in-baku-festgenommen-a-7f78d06d-3710-479b-88cf-3e130ac94c27#ref=rss)
-### samadov
-
-* [https://www.spiegel.de/ausland/aserbaidschan-regierungskritiker-bahruz-samadov-wohl-wegen-hochverrats-in-baku-festgenommen](https://www.spiegel.de/ausland/aserbaidschan-regierungskritiker-bahruz-samadov-wohl-wegen-hochverrats-in-baku-festgenommen-a-7f78d06d-3710-479b-88cf-3e130ac94c27#ref=rss)
-### zuletzt
-
-* [https://www.spiegel.de/ausland/aserbaidschan-regierungskritiker-bahruz-samadov-wohl-wegen-hochverrats-in-baku-festgenommen](https://www.spiegel.de/ausland/aserbaidschan-regierungskritiker-bahruz-samadov-wohl-wegen-hochverrats-in-baku-festgenommen-a-7f78d06d-3710-479b-88cf-3e130ac94c27#ref=rss)
-* [https://www.spiegel.de/wirtschaft/botswana-riesiger-rohdiamant-in-gefunden](https://www.spiegel.de/wirtschaft/botswana-riesiger-rohdiamant-in-gefunden-a-a78935d9-fa9c-4a27-9484-e05ff2cd550a#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-taliban-fuehren-verschaerften-sitten-kanon-in-afghanistan-ein](https://www.spiegel.de/ausland/afghanistan-taliban-fuehren-verschaerften-sitten-kanon-in-afghanistan-ein-a-3b801b11-13de-4db3-95e6-1fd84ebdda01#ref=rss)
+* [https://www.spiegel.de/ausland/gleichstellungspolitik-island-macht-unisex-toiletten-fuer-mehr-gleichstellung-verpflichtend](https://www.spiegel.de/ausland/gleichstellungspolitik-island-macht-unisex-toiletten-fuer-mehr-gleichstellung-verpflichtend-a-e3373c47-0ac6-40ff-bcc9-eec4516ebc00#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bayesian-unglueck-vor-sizilien-werftunternehmer-macht-crew-schwere-vorwuerfe](https://www.spiegel.de/wirtschaft/bayesian-unglueck-vor-sizilien-werftunternehmer-macht-crew-schwere-vorwuerfe-a-11866087-fac9-404d-84aa-137a39aae433#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/ausland/aserbaidschan-regierungskritiker-bahruz-samadov-wohl-wegen-hochverrats-in-baku-festgenommen](https://www.spiegel.de/ausland/aserbaidschan-regierungskritiker-bahruz-samadov-wohl-wegen-hochverrats-in-baku-festgenommen-a-7f78d06d-3710-479b-88cf-3e130ac94c27#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/1n-telecom-verbraucherschuetzer-klagen-wegen-perfider-masche](https://www.spiegel.de/netzwelt/netzpolitik/1n-telecom-verbraucherschuetzer-klagen-wegen-perfider-masche-a-3d8d29be-26ed-4c63-ae5a-16f3a667447b#ref=rss)
-### botswana
+* [https://www.spiegel.de/politik/deutschland/jeder-dritte-afd-waehler-billigt-gewalt-gegen-politiker](https://www.spiegel.de/politik/deutschland/jeder-dritte-afd-waehler-billigt-gewalt-gegen-politiker-a-5d52881a-2d90-44f6-b5a7-4f44e767389c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kirchen-in-deutschland-ampel-will-offenbar-staatsleistungen-streichen](https://www.spiegel.de/politik/deutschland/kirchen-in-deutschland-ampel-will-offenbar-staatsleistungen-streichen-a-4dca9a83-bc60-4550-bc75-75537531db43#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/twitter-nachfolger-x-warum-elon-musk-verklagt-den-daenischen-windkraft-konzern-orsted-verklagt](https://www.spiegel.de/wirtschaft/unternehmen/twitter-nachfolger-x-warum-elon-musk-verklagt-den-daenischen-windkraft-konzern-orsted-verklagt-a-4096b0a9-94e1-4056-95bf-a194a507bddb#ref=rss)
+### bayesian
 
-* [https://www.spiegel.de/wirtschaft/botswana-riesiger-rohdiamant-in-gefunden](https://www.spiegel.de/wirtschaft/botswana-riesiger-rohdiamant-in-gefunden-a-a78935d9-fa9c-4a27-9484-e05ff2cd550a#ref=rss)
-### ronaldo
+* [https://www.spiegel.de/panorama/gesellschaft/bayesian-letztes-todesopfer-in-gesunkener-jacht-entdeckt](https://www.spiegel.de/panorama/gesellschaft/bayesian-letztes-todesopfer-in-gesunkener-jacht-entdeckt-a-672eb7e2-e8d9-4888-acba-6b648cae613c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bayesian-unglueck-vor-sizilien-werftunternehmer-macht-crew-schwere-vorwuerfe](https://www.spiegel.de/wirtschaft/bayesian-unglueck-vor-sizilien-werftunternehmer-macht-crew-schwere-vorwuerfe-a-11866087-fac9-404d-84aa-137a39aae433#ref=rss)
+### bayern
 
-* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-auf-youtube-siuuuuuubscribe-me](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-auf-youtube-siuuuuuubscribe-me-a-28585def-a16f-45b9-80b6-2e72c759ba6b#ref=rss)
-### söder
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-saisonprognose-meister-fc-bayern-muenchen-das-war-einmal](https://www.spiegel.de/sport/fussball/fussball-bundesliga-saisonprognose-meister-fc-bayern-muenchen-das-war-einmal-a-f1d47849-fa1d-4c27-b9e1-b98591c8e1e3#ref=rss)
+* [https://www.spiegel.de/geschichte/paul-breitner-der-linke-rebell-mit-maserati-und-pool-zeitreise-der-spiegel-vor-50-jahren](https://www.spiegel.de/geschichte/paul-breitner-der-linke-rebell-mit-maserati-und-pool-zeitreise-der-spiegel-vor-50-jahren-a-6f65c3db-6c74-46dd-bfe3-49d116ca8a7b#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-erteilt-moeglicher-schwarz-gruener-koalition-scharfe-absage](https://www.spiegel.de/politik/deutschland/markus-soeder-erteilt-moeglicher-schwarz-gruener-koalition-scharfe-absage-a-130cfe51-f095-4a98-bfe0-88b1051ee97a#ref=rss)
-### schwarzgrüner
+* [https://www.spiegel.de/panorama/berliner-hauptbahnhof-mehr-diebstaehle-und-gewalttaten](https://www.spiegel.de/panorama/berliner-hauptbahnhof-mehr-diebstaehle-und-gewalttaten-a-4930056f-f5ce-4faa-8bf1-cd2e454b0086#ref=rss)
+* [https://www.spiegel.de/geschichte/paul-breitner-der-linke-rebell-mit-maserati-und-pool-zeitreise-der-spiegel-vor-50-jahren](https://www.spiegel.de/geschichte/paul-breitner-der-linke-rebell-mit-maserati-und-pool-zeitreise-der-spiegel-vor-50-jahren-a-6f65c3db-6c74-46dd-bfe3-49d116ca8a7b#ref=rss)
+* [https://www.spiegel.de/auto/fahrberichte/autogramm-vw-california-schlafsack-trifft-smartphone](https://www.spiegel.de/auto/fahrberichte/autogramm-vw-california-schlafsack-trifft-smartphone-a-380044dd-565b-4255-830d-e1cd0e8ac80f#ref=rss)
+### versichert
 
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-erteilt-moeglicher-schwarz-gruener-koalition-scharfe-absage](https://www.spiegel.de/politik/deutschland/markus-soeder-erteilt-moeglicher-schwarz-gruener-koalition-scharfe-absage-a-130cfe51-f095-4a98-bfe0-88b1051ee97a#ref=rss)
-### 1n
+* [https://www.spiegel.de/kultur/tim-raue-hat-seinen-geruchs-und-geschmackssinn-versichert](https://www.spiegel.de/kultur/tim-raue-hat-seinen-geruchs-und-geschmackssinn-versichert-a-daa987a1-943e-4b8a-ae3f-043e98ef75fa#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/1n-telecom-verbraucherschuetzer-klagen-wegen-perfider-masche](https://www.spiegel.de/netzwelt/netzpolitik/1n-telecom-verbraucherschuetzer-klagen-wegen-perfider-masche-a-3d8d29be-26ed-4c63-ae5a-16f3a667447b#ref=rss)
-### telecom
+* [https://www.spiegel.de/kultur/tim-raue-hat-seinen-geruchs-und-geschmackssinn-versichert](https://www.spiegel.de/kultur/tim-raue-hat-seinen-geruchs-und-geschmackssinn-versichert-a-daa987a1-943e-4b8a-ae3f-043e98ef75fa#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/airtag-selbsthilfe-frau-schickt-sich-selbst-apple-tracker-um-spur-zu-dieben-zu-legen](https://www.spiegel.de/netzwelt/gadgets/airtag-selbsthilfe-frau-schickt-sich-selbst-apple-tracker-um-spur-zu-dieben-zu-legen-a-d9a2efba-c9cf-4905-a7e0-e099b91335a9#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/lehrkraeftemangel-hessen-verzichtet-bei-quereinsteigern-auf-zweites-unterrichtsfach](https://www.spiegel.de/panorama/bildung/lehrkraeftemangel-hessen-verzichtet-bei-quereinsteigern-auf-zweites-unterrichtsfach-a-adce907b-57c9-494e-b59b-4ec7669d55c2#ref=rss)
+### neun
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/1n-telecom-verbraucherschuetzer-klagen-wegen-perfider-masche](https://www.spiegel.de/netzwelt/netzpolitik/1n-telecom-verbraucherschuetzer-klagen-wegen-perfider-masche-a-3d8d29be-26ed-4c63-ae5a-16f3a667447b#ref=rss)
-### masche
+* [https://www.spiegel.de/panorama/borkum-feuer-in-reihenhaus-neun-verletzte](https://www.spiegel.de/panorama/borkum-feuer-in-reihenhaus-neun-verletzte-a-5f7a6856-b2d3-4194-963b-8ef0ddaa4617#ref=rss)
+* [https://www.spiegel.de/sport/fussball/copa-sudamericana-rot-fuer-foul-nach-neun-sekunden](https://www.spiegel.de/sport/fussball/copa-sudamericana-rot-fuer-foul-nach-neun-sekunden-a-9301ea35-a055-448d-94c9-1c0747c7761b#ref=rss)
+### ausländerkriminalität
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/1n-telecom-verbraucherschuetzer-klagen-wegen-perfider-masche](https://www.spiegel.de/netzwelt/netzpolitik/1n-telecom-verbraucherschuetzer-klagen-wegen-perfider-masche-a-3d8d29be-26ed-4c63-ae5a-16f3a667447b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/auslaenderkriminalitaet-wie-rechte-und-linke-die-wahrheit-verdrehen-kolumne](https://www.spiegel.de/politik/deutschland/auslaenderkriminalitaet-wie-rechte-und-linke-die-wahrheit-verdrehen-kolumne-a-77a92155-1676-4d36-97fb-bbaa71e72d50#ref=rss)
+### rechte
+
+* [https://www.spiegel.de/politik/deutschland/auslaenderkriminalitaet-wie-rechte-und-linke-die-wahrheit-verdrehen-kolumne](https://www.spiegel.de/politik/deutschland/auslaenderkriminalitaet-wie-rechte-und-linke-die-wahrheit-verdrehen-kolumne-a-77a92155-1676-4d36-97fb-bbaa71e72d50#ref=rss)
+### wahrheit
+
+* [https://www.spiegel.de/politik/deutschland/auslaenderkriminalitaet-wie-rechte-und-linke-die-wahrheit-verdrehen-kolumne](https://www.spiegel.de/politik/deutschland/auslaenderkriminalitaet-wie-rechte-und-linke-die-wahrheit-verdrehen-kolumne-a-77a92155-1676-4d36-97fb-bbaa71e72d50#ref=rss)
+### verdrehen
+
+* [https://www.spiegel.de/politik/deutschland/auslaenderkriminalitaet-wie-rechte-und-linke-die-wahrheit-verdrehen-kolumne](https://www.spiegel.de/politik/deutschland/auslaenderkriminalitaet-wie-rechte-und-linke-die-wahrheit-verdrehen-kolumne-a-77a92155-1676-4d36-97fb-bbaa71e72d50#ref=rss)
+### schwer
+
+* [https://www.spiegel.de/politik/deutschland/auslaenderkriminalitaet-wie-rechte-und-linke-die-wahrheit-verdrehen-kolumne](https://www.spiegel.de/politik/deutschland/auslaenderkriminalitaet-wie-rechte-und-linke-die-wahrheit-verdrehen-kolumne-a-77a92155-1676-4d36-97fb-bbaa71e72d50#ref=rss)
+* [https://www.spiegel.de/panorama/borkum-feuer-in-reihenhaus-neun-verletzte](https://www.spiegel.de/panorama/borkum-feuer-in-reihenhaus-neun-verletzte-a-5f7a6856-b2d3-4194-963b-8ef0ddaa4617#ref=rss)
+### thema
+
+* [https://www.spiegel.de/politik/deutschland/auslaenderkriminalitaet-wie-rechte-und-linke-die-wahrheit-verdrehen-kolumne](https://www.spiegel.de/politik/deutschland/auslaenderkriminalitaet-wie-rechte-und-linke-die-wahrheit-verdrehen-kolumne-a-77a92155-1676-4d36-97fb-bbaa71e72d50#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/donald-trump-liebt-bitcoin-und-kamala-harris-steckt-in-der-kryptofalle](https://www.spiegel.de/netzwelt/web/donald-trump-liebt-bitcoin-und-kamala-harris-steckt-in-der-kryptofalle-a-06b53bc3-2d32-4b52-b042-0a3c5102b246#ref=rss)
+### melanie
+
+* [https://www.spiegel.de/panorama/justiz/melanie-mueller-wegen-hitlergruss-zu-geldstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/melanie-mueller-wegen-hitlergruss-zu-geldstrafe-verurteilt-a-88d1d961-0cd2-4458-8d0b-cc6b73645e6f#ref=rss)
+### müller
+
+* [https://www.spiegel.de/panorama/justiz/melanie-mueller-wegen-hitlergruss-zu-geldstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/melanie-mueller-wegen-hitlergruss-zu-geldstrafe-verurteilt-a-88d1d961-0cd2-4458-8d0b-cc6b73645e6f#ref=rss)
+### hitlergruß
+
+* [https://www.spiegel.de/panorama/justiz/melanie-mueller-wegen-hitlergruss-zu-geldstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/melanie-mueller-wegen-hitlergruss-zu-geldstrafe-verurteilt-a-88d1d961-0cd2-4458-8d0b-cc6b73645e6f#ref=rss)
+### geldstrafe
+
+* [https://www.spiegel.de/panorama/justiz/melanie-mueller-wegen-hitlergruss-zu-geldstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/melanie-mueller-wegen-hitlergruss-zu-geldstrafe-verurteilt-a-88d1d961-0cd2-4458-8d0b-cc6b73645e6f#ref=rss)
+### gilt
+
+* [https://www.spiegel.de/panorama/justiz/melanie-mueller-wegen-hitlergruss-zu-geldstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/melanie-mueller-wegen-hitlergruss-zu-geldstrafe-verurteilt-a-88d1d961-0cd2-4458-8d0b-cc6b73645e6f#ref=rss)
+* [https://www.spiegel.de/ausland/gleichstellungspolitik-island-macht-unisex-toiletten-fuer-mehr-gleichstellung-verpflichtend](https://www.spiegel.de/ausland/gleichstellungspolitik-island-macht-unisex-toiletten-fuer-mehr-gleichstellung-verpflichtend-a-e3373c47-0ac6-40ff-bcc9-eec4516ebc00#ref=rss)
+### taliban
+
+* [https://www.spiegel.de/ausland/afghanistan-taliban-fuehren-verschaerften-sitten-kanon-in-afghanistan-ein](https://www.spiegel.de/ausland/afghanistan-taliban-fuehren-verschaerften-sitten-kanon-in-afghanistan-ein-a-3b801b11-13de-4db3-95e6-1fd84ebdda01#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/ausland/afghanistan-taliban-fuehren-verschaerften-sitten-kanon-in-afghanistan-ein](https://www.spiegel.de/ausland/afghanistan-taliban-fuehren-verschaerften-sitten-kanon-in-afghanistan-ein-a-3b801b11-13de-4db3-95e6-1fd84ebdda01#ref=rss)
+* [https://www.spiegel.de/ausland/gleichstellungspolitik-island-macht-unisex-toiletten-fuer-mehr-gleichstellung-verpflichtend](https://www.spiegel.de/ausland/gleichstellungspolitik-island-macht-unisex-toiletten-fuer-mehr-gleichstellung-verpflichtend-a-e3373c47-0ac6-40ff-bcc9-eec4516ebc00#ref=rss)
+### schweden
+
+* [https://www.spiegel.de/ausland/jagd-saison-schweden-laesst-fast-500-baeren-in-kurzer-zeit-erschiessen](https://www.spiegel.de/ausland/jagd-saison-schweden-laesst-fast-500-baeren-in-kurzer-zeit-erschiessen-a-5f9701bf-4eaf-42a9-836f-65c63e5bc2c0#ref=rss)
+### schluss
+
+* [https://www.spiegel.de/politik/deutschland/jeder-dritte-afd-waehler-billigt-gewalt-gegen-politiker](https://www.spiegel.de/politik/deutschland/jeder-dritte-afd-waehler-billigt-gewalt-gegen-politiker-a-5d52881a-2d90-44f6-b5a7-4f44e767389c#ref=rss)
+* [https://www.spiegel.de/ausland/gleichstellungspolitik-island-macht-unisex-toiletten-fuer-mehr-gleichstellung-verpflichtend](https://www.spiegel.de/ausland/gleichstellungspolitik-island-macht-unisex-toiletten-fuer-mehr-gleichstellung-verpflichtend-a-e3373c47-0ac6-40ff-bcc9-eec4516ebc00#ref=rss)
+### straftaten
+
+* [https://www.spiegel.de/politik/deutschland/jeder-dritte-afd-waehler-billigt-gewalt-gegen-politiker](https://www.spiegel.de/politik/deutschland/jeder-dritte-afd-waehler-billigt-gewalt-gegen-politiker-a-5d52881a-2d90-44f6-b5a7-4f44e767389c#ref=rss)
+* [https://www.spiegel.de/panorama/berliner-hauptbahnhof-mehr-diebstaehle-und-gewalttaten](https://www.spiegel.de/panorama/berliner-hauptbahnhof-mehr-diebstaehle-und-gewalttaten-a-4930056f-f5ce-4faa-8bf1-cd2e454b0086#ref=rss)
+### todesopfer
+
+* [https://www.spiegel.de/panorama/gesellschaft/bayesian-letztes-todesopfer-in-gesunkener-jacht-entdeckt](https://www.spiegel.de/panorama/gesellschaft/bayesian-letztes-todesopfer-in-gesunkener-jacht-entdeckt-a-672eb7e2-e8d9-4888-acba-6b648cae613c#ref=rss)
+### gehört
+
+* [https://www.spiegel.de/panorama/gesellschaft/bayesian-letztes-todesopfer-in-gesunkener-jacht-entdeckt](https://www.spiegel.de/panorama/gesellschaft/bayesian-letztes-todesopfer-in-gesunkener-jacht-entdeckt-a-672eb7e2-e8d9-4888-acba-6b648cae613c#ref=rss)
+* [https://www.spiegel.de/ausland/usa-j-d-vance-blamiert-sich-mit-verkrampftem-auftritt-im-donut-laden](https://www.spiegel.de/ausland/usa-j-d-vance-blamiert-sich-mit-verkrampftem-auftritt-im-donut-laden-a-28e60f71-4efd-4adc-aeb5-e1975d292b9c#ref=rss)
+### brand
+
+* [https://www.spiegel.de/wirtschaft/gerichtsurteil-mieter-verursacht-brand-und-darf-miete-mindern](https://www.spiegel.de/wirtschaft/gerichtsurteil-mieter-verursacht-brand-und-darf-miete-mindern-a-1719d0c3-b815-44d4-ae5e-3409fc47cdf1#ref=rss)
+* [https://www.spiegel.de/panorama/borkum-feuer-in-reihenhaus-neun-verletzte](https://www.spiegel.de/panorama/borkum-feuer-in-reihenhaus-neun-verletzte-a-5f7a6856-b2d3-4194-963b-8ef0ddaa4617#ref=rss)
+### miete
+
+* [https://www.spiegel.de/wirtschaft/gerichtsurteil-mieter-verursacht-brand-und-darf-miete-mindern](https://www.spiegel.de/wirtschaft/gerichtsurteil-mieter-verursacht-brand-und-darf-miete-mindern-a-1719d0c3-b815-44d4-ae5e-3409fc47cdf1#ref=rss)
+### mindern
+
+* [https://www.spiegel.de/wirtschaft/gerichtsurteil-mieter-verursacht-brand-und-darf-miete-mindern](https://www.spiegel.de/wirtschaft/gerichtsurteil-mieter-verursacht-brand-und-darf-miete-mindern-a-1719d0c3-b815-44d4-ae5e-3409fc47cdf1#ref=rss)
+### mann
+
+* [https://www.spiegel.de/wirtschaft/gerichtsurteil-mieter-verursacht-brand-und-darf-miete-mindern](https://www.spiegel.de/wirtschaft/gerichtsurteil-mieter-verursacht-brand-und-darf-miete-mindern-a-1719d0c3-b815-44d4-ae5e-3409fc47cdf1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/twitter-nachfolger-x-warum-elon-musk-verklagt-den-daenischen-windkraft-konzern-orsted-verklagt](https://www.spiegel.de/wirtschaft/unternehmen/twitter-nachfolger-x-warum-elon-musk-verklagt-den-daenischen-windkraft-konzern-orsted-verklagt-a-4096b0a9-94e1-4056-95bf-a194a507bddb#ref=rss)
+### laut
+
+* [https://www.spiegel.de/wirtschaft/gerichtsurteil-mieter-verursacht-brand-und-darf-miete-mindern](https://www.spiegel.de/wirtschaft/gerichtsurteil-mieter-verursacht-brand-und-darf-miete-mindern-a-1719d0c3-b815-44d4-ae5e-3409fc47cdf1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kirchen-in-deutschland-ampel-will-offenbar-staatsleistungen-streichen](https://www.spiegel.de/politik/deutschland/kirchen-in-deutschland-ampel-will-offenbar-staatsleistungen-streichen-a-4dca9a83-bc60-4550-bc75-75537531db43#ref=rss)
+### jonas
+
+* [https://www.spiegel.de/sport/ironman-jonas-deichmann-knackt-weltrekord](https://www.spiegel.de/sport/ironman-jonas-deichmann-knackt-weltrekord-a-aef6e607-bdc7-4abd-83a0-4895cea613f6#ref=rss)
+### deichmann
+
+* [https://www.spiegel.de/sport/ironman-jonas-deichmann-knackt-weltrekord](https://www.spiegel.de/sport/ironman-jonas-deichmann-knackt-weltrekord-a-aef6e607-bdc7-4abd-83a0-4895cea613f6#ref=rss)
+### 120
+
+* [https://www.spiegel.de/sport/ironman-jonas-deichmann-knackt-weltrekord](https://www.spiegel.de/sport/ironman-jonas-deichmann-knackt-weltrekord-a-aef6e607-bdc7-4abd-83a0-4895cea613f6#ref=rss)
+### niedersachsen
+
+* [https://www.spiegel.de/panorama/niedersachsen-seniorin-muss-wegen-zucchini-vergiftung-ins-krankenhaus](https://www.spiegel.de/panorama/niedersachsen-seniorin-muss-wegen-zucchini-vergiftung-ins-krankenhaus-a-e91c4043-4e3e-401a-ae6b-78eab2e3072a#ref=rss)
+### krankenhaus
+
+* [https://www.spiegel.de/panorama/niedersachsen-seniorin-muss-wegen-zucchini-vergiftung-ins-krankenhaus](https://www.spiegel.de/panorama/niedersachsen-seniorin-muss-wegen-zucchini-vergiftung-ins-krankenhaus-a-e91c4043-4e3e-401a-ae6b-78eab2e3072a#ref=rss)
+### frau
+
+* [https://www.spiegel.de/panorama/niedersachsen-seniorin-muss-wegen-zucchini-vergiftung-ins-krankenhaus](https://www.spiegel.de/panorama/niedersachsen-seniorin-muss-wegen-zucchini-vergiftung-ins-krankenhaus-a-e91c4043-4e3e-401a-ae6b-78eab2e3072a#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/airtag-selbsthilfe-frau-schickt-sich-selbst-apple-tracker-um-spur-zu-dieben-zu-legen](https://www.spiegel.de/netzwelt/gadgets/airtag-selbsthilfe-frau-schickt-sich-selbst-apple-tracker-um-spur-zu-dieben-zu-legen-a-d9a2efba-c9cf-4905-a7e0-e099b91335a9#ref=rss)
+### island
+
+* [https://www.spiegel.de/ausland/gleichstellungspolitik-island-macht-unisex-toiletten-fuer-mehr-gleichstellung-verpflichtend](https://www.spiegel.de/ausland/gleichstellungspolitik-island-macht-unisex-toiletten-fuer-mehr-gleichstellung-verpflichtend-a-e3373c47-0ac6-40ff-bcc9-eec4516ebc00#ref=rss)
+### gleichstellung
+
+* [https://www.spiegel.de/ausland/gleichstellungspolitik-island-macht-unisex-toiletten-fuer-mehr-gleichstellung-verpflichtend](https://www.spiegel.de/ausland/gleichstellungspolitik-island-macht-unisex-toiletten-fuer-mehr-gleichstellung-verpflichtend-a-e3373c47-0ac6-40ff-bcc9-eec4516ebc00#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/usa-j-d-vance-blamiert-sich-mit-verkrampftem-auftritt-im-donut-laden](https://www.spiegel.de/ausland/usa-j-d-vance-blamiert-sich-mit-verkrampftem-auftritt-im-donut-laden-a-28e60f71-4efd-4adc-aeb5-e1975d292b9c#ref=rss)
+### jd
+
+* [https://www.spiegel.de/ausland/usa-j-d-vance-blamiert-sich-mit-verkrampftem-auftritt-im-donut-laden](https://www.spiegel.de/ausland/usa-j-d-vance-blamiert-sich-mit-verkrampftem-auftritt-im-donut-laden-a-28e60f71-4efd-4adc-aeb5-e1975d292b9c#ref=rss)
+### vance
+
+* [https://www.spiegel.de/ausland/usa-j-d-vance-blamiert-sich-mit-verkrampftem-auftritt-im-donut-laden](https://www.spiegel.de/ausland/usa-j-d-vance-blamiert-sich-mit-verkrampftem-auftritt-im-donut-laden-a-28e60f71-4efd-4adc-aeb5-e1975d292b9c#ref=rss)
+### auftritt
+
+* [https://www.spiegel.de/ausland/usa-j-d-vance-blamiert-sich-mit-verkrampftem-auftritt-im-donut-laden](https://www.spiegel.de/ausland/usa-j-d-vance-blamiert-sich-mit-verkrampftem-auftritt-im-donut-laden-a-28e60f71-4efd-4adc-aeb5-e1975d292b9c#ref=rss)
+* [https://www.spiegel.de/ausland/kamala-harris-auf-dem-parteitag-demokraten-der-kampf-gegen-donald-trump-ist-eroeffnet](https://www.spiegel.de/ausland/kamala-harris-auf-dem-parteitag-demokraten-der-kampf-gegen-donald-trump-ist-eroeffnet-a-207710af-08ef-48da-b749-69156594252d#ref=rss)
+### donutladen
+
+* [https://www.spiegel.de/ausland/usa-j-d-vance-blamiert-sich-mit-verkrampftem-auftritt-im-donut-laden](https://www.spiegel.de/ausland/usa-j-d-vance-blamiert-sich-mit-verkrampftem-auftritt-im-donut-laden-a-28e60f71-4efd-4adc-aeb5-e1975d292b9c#ref=rss)
+### bsw
+
+* [https://www.spiegel.de/panorama/bsw-wagenknecht-partei-in-nrw-bekommt-doppelspitze](https://www.spiegel.de/panorama/bsw-wagenknecht-partei-in-nrw-bekommt-doppelspitze-a-ddc737f6-49f3-422f-8af6-6cbd9726f21a#ref=rss)
+### bekommt
+
+* [https://www.spiegel.de/panorama/bsw-wagenknecht-partei-in-nrw-bekommt-doppelspitze](https://www.spiegel.de/panorama/bsw-wagenknecht-partei-in-nrw-bekommt-doppelspitze-a-ddc737f6-49f3-422f-8af6-6cbd9726f21a#ref=rss)
+* [https://www.spiegel.de/auto/fahrberichte/autogramm-vw-california-schlafsack-trifft-smartphone](https://www.spiegel.de/auto/fahrberichte/autogramm-vw-california-schlafsack-trifft-smartphone-a-380044dd-565b-4255-830d-e1cd0e8ac80f#ref=rss)
+### doppelspitze
+
+* [https://www.spiegel.de/panorama/bsw-wagenknecht-partei-in-nrw-bekommt-doppelspitze](https://www.spiegel.de/panorama/bsw-wagenknecht-partei-in-nrw-bekommt-doppelspitze-a-ddc737f6-49f3-422f-8af6-6cbd9726f21a#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-saisonprognose-meister-fc-bayern-muenchen-das-war-einmal](https://www.spiegel.de/sport/fussball/fussball-bundesliga-saisonprognose-meister-fc-bayern-muenchen-das-war-einmal-a-f1d47849-fa1d-4c27-b9e1-b98591c8e1e3#ref=rss)
+### einmal
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-saisonprognose-meister-fc-bayern-muenchen-das-war-einmal](https://www.spiegel.de/sport/fussball/fussball-bundesliga-saisonprognose-meister-fc-bayern-muenchen-das-war-einmal-a-f1d47849-fa1d-4c27-b9e1-b98591c8e1e3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/copa-sudamericana-rot-fuer-foul-nach-neun-sekunden](https://www.spiegel.de/sport/fussball/copa-sudamericana-rot-fuer-foul-nach-neun-sekunden-a-9301ea35-a055-448d-94c9-1c0747c7761b#ref=rss)
+### berliner
+
+* [https://www.spiegel.de/panorama/berliner-hauptbahnhof-mehr-diebstaehle-und-gewalttaten](https://www.spiegel.de/panorama/berliner-hauptbahnhof-mehr-diebstaehle-und-gewalttaten-a-4930056f-f5ce-4faa-8bf1-cd2e454b0086#ref=rss)
+* [https://www.spiegel.de/kultur/tim-raue-hat-seinen-geruchs-und-geschmackssinn-versichert](https://www.spiegel.de/kultur/tim-raue-hat-seinen-geruchs-und-geschmackssinn-versichert-a-daa987a1-943e-4b8a-ae3f-043e98ef75fa#ref=rss)
+### hauptbahnhof
+
+* [https://www.spiegel.de/panorama/berliner-hauptbahnhof-mehr-diebstaehle-und-gewalttaten](https://www.spiegel.de/panorama/berliner-hauptbahnhof-mehr-diebstaehle-und-gewalttaten-a-4930056f-f5ce-4faa-8bf1-cd2e454b0086#ref=rss)
+### diebstähle
+
+* [https://www.spiegel.de/panorama/berliner-hauptbahnhof-mehr-diebstaehle-und-gewalttaten](https://www.spiegel.de/panorama/berliner-hauptbahnhof-mehr-diebstaehle-und-gewalttaten-a-4930056f-f5ce-4faa-8bf1-cd2e454b0086#ref=rss)
+### gewalttaten
+
+* [https://www.spiegel.de/panorama/berliner-hauptbahnhof-mehr-diebstaehle-und-gewalttaten](https://www.spiegel.de/panorama/berliner-hauptbahnhof-mehr-diebstaehle-und-gewalttaten-a-4930056f-f5ce-4faa-8bf1-cd2e454b0086#ref=rss)
+### andere
+
+* [https://www.spiegel.de/panorama/berliner-hauptbahnhof-mehr-diebstaehle-und-gewalttaten](https://www.spiegel.de/panorama/berliner-hauptbahnhof-mehr-diebstaehle-und-gewalttaten-a-4930056f-f5ce-4faa-8bf1-cd2e454b0086#ref=rss)
+* [https://www.spiegel.de/sport/fussball/copa-sudamericana-rot-fuer-foul-nach-neun-sekunden](https://www.spiegel.de/sport/fussball/copa-sudamericana-rot-fuer-foul-nach-neun-sekunden-a-9301ea35-a055-448d-94c9-1c0747c7761b#ref=rss)
+### rente
+
+* [https://www.spiegel.de/wirtschaft/rente-friederich-merz-spricht-sich-gegen-eine-erhoehung-des-eintrittsalters-aus](https://www.spiegel.de/wirtschaft/rente-friederich-merz-spricht-sich-gegen-eine-erhoehung-des-eintrittsalters-aus-a-9dfcd34c-2dcf-46d2-8b2e-df22f2f039a9#ref=rss)
+### merz
+
+* [https://www.spiegel.de/wirtschaft/rente-friederich-merz-spricht-sich-gegen-eine-erhoehung-des-eintrittsalters-aus](https://www.spiegel.de/wirtschaft/rente-friederich-merz-spricht-sich-gegen-eine-erhoehung-des-eintrittsalters-aus-a-9dfcd34c-2dcf-46d2-8b2e-df22f2f039a9#ref=rss)
+### kirchen
+
+* [https://www.spiegel.de/politik/deutschland/kirchen-in-deutschland-ampel-will-offenbar-staatsleistungen-streichen](https://www.spiegel.de/politik/deutschland/kirchen-in-deutschland-ampel-will-offenbar-staatsleistungen-streichen-a-4dca9a83-bc60-4550-bc75-75537531db43#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/politik/deutschland/kirchen-in-deutschland-ampel-will-offenbar-staatsleistungen-streichen](https://www.spiegel.de/politik/deutschland/kirchen-in-deutschland-ampel-will-offenbar-staatsleistungen-streichen-a-4dca9a83-bc60-4550-bc75-75537531db43#ref=rss)
+### ampel
+
+* [https://www.spiegel.de/politik/deutschland/kirchen-in-deutschland-ampel-will-offenbar-staatsleistungen-streichen](https://www.spiegel.de/politik/deutschland/kirchen-in-deutschland-ampel-will-offenbar-staatsleistungen-streichen-a-4dca9a83-bc60-4550-bc75-75537531db43#ref=rss)
+### staatsleistungen
+
+* [https://www.spiegel.de/politik/deutschland/kirchen-in-deutschland-ampel-will-offenbar-staatsleistungen-streichen](https://www.spiegel.de/politik/deutschland/kirchen-in-deutschland-ampel-will-offenbar-staatsleistungen-streichen-a-4dca9a83-bc60-4550-bc75-75537531db43#ref=rss)
+### dänischen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/twitter-nachfolger-x-warum-elon-musk-verklagt-den-daenischen-windkraft-konzern-orsted-verklagt](https://www.spiegel.de/wirtschaft/unternehmen/twitter-nachfolger-x-warum-elon-musk-verklagt-den-daenischen-windkraft-konzern-orsted-verklagt-a-4096b0a9-94e1-4056-95bf-a194a507bddb#ref=rss)
+### ørsted
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/twitter-nachfolger-x-warum-elon-musk-verklagt-den-daenischen-windkraft-konzern-orsted-verklagt](https://www.spiegel.de/wirtschaft/unternehmen/twitter-nachfolger-x-warum-elon-musk-verklagt-den-daenischen-windkraft-konzern-orsted-verklagt-a-4096b0a9-94e1-4056-95bf-a194a507bddb#ref=rss)
+### verklagt
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/twitter-nachfolger-x-warum-elon-musk-verklagt-den-daenischen-windkraft-konzern-orsted-verklagt](https://www.spiegel.de/wirtschaft/unternehmen/twitter-nachfolger-x-warum-elon-musk-verklagt-den-daenischen-windkraft-konzern-orsted-verklagt-a-4096b0a9-94e1-4056-95bf-a194a507bddb#ref=rss)
+### straubing
+
+* [https://www.spiegel.de/panorama/justiz/straubing-ein-geflohener-straftaeter-gefasst-drei-weitere-auf-der-flucht](https://www.spiegel.de/panorama/justiz/straubing-ein-geflohener-straftaeter-gefasst-drei-weitere-auf-der-flucht-a-0f2977c6-7dc6-40eb-90db-22025f02c4fc#ref=rss)
+### gefasst
+
+* [https://www.spiegel.de/panorama/justiz/straubing-ein-geflohener-straftaeter-gefasst-drei-weitere-auf-der-flucht](https://www.spiegel.de/panorama/justiz/straubing-ein-geflohener-straftaeter-gefasst-drei-weitere-auf-der-flucht-a-0f2977c6-7dc6-40eb-90db-22025f02c4fc#ref=rss)
+### drei
+
+* [https://www.spiegel.de/panorama/justiz/straubing-ein-geflohener-straftaeter-gefasst-drei-weitere-auf-der-flucht](https://www.spiegel.de/panorama/justiz/straubing-ein-geflohener-straftaeter-gefasst-drei-weitere-auf-der-flucht-a-0f2977c6-7dc6-40eb-90db-22025f02c4fc#ref=rss)
+### flucht
+
+* [https://www.spiegel.de/panorama/justiz/straubing-ein-geflohener-straftaeter-gefasst-drei-weitere-auf-der-flucht](https://www.spiegel.de/panorama/justiz/straubing-ein-geflohener-straftaeter-gefasst-drei-weitere-auf-der-flucht-a-0f2977c6-7dc6-40eb-90db-22025f02c4fc#ref=rss)
+### dauerte
+
+* [https://www.spiegel.de/panorama/justiz/straubing-ein-geflohener-straftaeter-gefasst-drei-weitere-auf-der-flucht](https://www.spiegel.de/panorama/justiz/straubing-ein-geflohener-straftaeter-gefasst-drei-weitere-auf-der-flucht-a-0f2977c6-7dc6-40eb-90db-22025f02c4fc#ref=rss)
+* [https://www.spiegel.de/sport/fussball/copa-sudamericana-rot-fuer-foul-nach-neun-sekunden](https://www.spiegel.de/sport/fussball/copa-sudamericana-rot-fuer-foul-nach-neun-sekunden-a-9301ea35-a055-448d-94c9-1c0747c7761b#ref=rss)
+### tim
+
+* [https://www.spiegel.de/kultur/tim-raue-hat-seinen-geruchs-und-geschmackssinn-versichert](https://www.spiegel.de/kultur/tim-raue-hat-seinen-geruchs-und-geschmackssinn-versichert-a-daa987a1-943e-4b8a-ae3f-043e98ef75fa#ref=rss)
+### raue
+
+* [https://www.spiegel.de/kultur/tim-raue-hat-seinen-geruchs-und-geschmackssinn-versichert](https://www.spiegel.de/kultur/tim-raue-hat-seinen-geruchs-und-geschmackssinn-versichert-a-daa987a1-943e-4b8a-ae3f-043e98ef75fa#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/kultur/tim-raue-hat-seinen-geruchs-und-geschmackssinn-versichert](https://www.spiegel.de/kultur/tim-raue-hat-seinen-geruchs-und-geschmackssinn-versichert-a-daa987a1-943e-4b8a-ae3f-043e98ef75fa#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/airtag-selbsthilfe-frau-schickt-sich-selbst-apple-tracker-um-spur-zu-dieben-zu-legen](https://www.spiegel.de/netzwelt/gadgets/airtag-selbsthilfe-frau-schickt-sich-selbst-apple-tracker-um-spur-zu-dieben-zu-legen-a-d9a2efba-c9cf-4905-a7e0-e099b91335a9#ref=rss)
+### borkum
+
+* [https://www.spiegel.de/panorama/borkum-feuer-in-reihenhaus-neun-verletzte](https://www.spiegel.de/panorama/borkum-feuer-in-reihenhaus-neun-verletzte-a-5f7a6856-b2d3-4194-963b-8ef0ddaa4617#ref=rss)
+### reihenhaus
+
+* [https://www.spiegel.de/panorama/borkum-feuer-in-reihenhaus-neun-verletzte](https://www.spiegel.de/panorama/borkum-feuer-in-reihenhaus-neun-verletzte-a-5f7a6856-b2d3-4194-963b-8ef0ddaa4617#ref=rss)
+### spur
+
+* [https://www.spiegel.de/netzwelt/gadgets/airtag-selbsthilfe-frau-schickt-sich-selbst-apple-tracker-um-spur-zu-dieben-zu-legen](https://www.spiegel.de/netzwelt/gadgets/airtag-selbsthilfe-frau-schickt-sich-selbst-apple-tracker-um-spur-zu-dieben-zu-legen-a-d9a2efba-c9cf-4905-a7e0-e099b91335a9#ref=rss)
+### sekunden
+
+* [https://www.spiegel.de/sport/fussball/copa-sudamericana-rot-fuer-foul-nach-neun-sekunden](https://www.spiegel.de/sport/fussball/copa-sudamericana-rot-fuer-foul-nach-neun-sekunden-a-9301ea35-a055-448d-94c9-1c0747c7761b#ref=rss)
+### hessen
+
+* [https://www.spiegel.de/panorama/bildung/lehrkraeftemangel-hessen-verzichtet-bei-quereinsteigern-auf-zweites-unterrichtsfach](https://www.spiegel.de/panorama/bildung/lehrkraeftemangel-hessen-verzichtet-bei-quereinsteigern-auf-zweites-unterrichtsfach-a-adce907b-57c9-494e-b59b-4ec7669d55c2#ref=rss)
+### abschluss
+
+* [https://www.spiegel.de/panorama/bildung/lehrkraeftemangel-hessen-verzichtet-bei-quereinsteigern-auf-zweites-unterrichtsfach](https://www.spiegel.de/panorama/bildung/lehrkraeftemangel-hessen-verzichtet-bei-quereinsteigern-auf-zweites-unterrichtsfach-a-adce907b-57c9-494e-b59b-4ec7669d55c2#ref=rss)
+* [https://www.spiegel.de/ausland/kamala-harris-auf-dem-parteitag-demokraten-der-kampf-gegen-donald-trump-ist-eroeffnet](https://www.spiegel.de/ausland/kamala-harris-auf-dem-parteitag-demokraten-der-kampf-gegen-donald-trump-ist-eroeffnet-a-207710af-08ef-48da-b749-69156594252d#ref=rss)
+### gewinnen
+
+* [https://www.spiegel.de/panorama/bildung/lehrkraeftemangel-hessen-verzichtet-bei-quereinsteigern-auf-zweites-unterrichtsfach](https://www.spiegel.de/panorama/bildung/lehrkraeftemangel-hessen-verzichtet-bei-quereinsteigern-auf-zweites-unterrichtsfach-a-adce907b-57c9-494e-b59b-4ec7669d55c2#ref=rss)
+* [https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-gute-vibes-allein-gewinnen-noch-keine-us-wahl](https://www.spiegel.de/ausland/kamala-harris-gegen-donald-trump-gute-vibes-allein-gewinnen-noch-keine-us-wahl-a-299fb04a-1fb6-482f-8e6d-05938d1d5897#ref=rss)
+### paul
+
+* [https://www.spiegel.de/geschichte/paul-breitner-der-linke-rebell-mit-maserati-und-pool-zeitreise-der-spiegel-vor-50-jahren](https://www.spiegel.de/geschichte/paul-breitner-der-linke-rebell-mit-maserati-und-pool-zeitreise-der-spiegel-vor-50-jahren-a-6f65c3db-6c74-46dd-bfe3-49d116ca8a7b#ref=rss)
+### breitner
+
+* [https://www.spiegel.de/geschichte/paul-breitner-der-linke-rebell-mit-maserati-und-pool-zeitreise-der-spiegel-vor-50-jahren](https://www.spiegel.de/geschichte/paul-breitner-der-linke-rebell-mit-maserati-und-pool-zeitreise-der-spiegel-vor-50-jahren-a-6f65c3db-6c74-46dd-bfe3-49d116ca8a7b#ref=rss)
+### vw
+
+* [https://www.spiegel.de/auto/fahrberichte/autogramm-vw-california-schlafsack-trifft-smartphone](https://www.spiegel.de/auto/fahrberichte/autogramm-vw-california-schlafsack-trifft-smartphone-a-380044dd-565b-4255-830d-e1cd0e8ac80f#ref=rss)
+### california
+
+* [https://www.spiegel.de/auto/fahrberichte/autogramm-vw-california-schlafsack-trifft-smartphone](https://www.spiegel.de/auto/fahrberichte/autogramm-vw-california-schlafsack-trifft-smartphone-a-380044dd-565b-4255-830d-e1cd0e8ac80f#ref=rss)
 
