@@ -4,324 +4,345 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
-
-* [https://www.spiegel.de/politik/extremwetter-und-klimawandel-die-ausnahme-wird-zur-regel-wie-gehen-wir-damit-um](https://www.spiegel.de/politik/extremwetter-und-klimawandel-die-ausnahme-wird-zur-regel-wie-gehen-wir-damit-um-a-eaa091ef-562d-47ed-a453-1ecc55497b05#ref=rss)
-* [https://www.spiegel.de/panorama/fahrlerer-ueber-fuehrerschein-kandidaten-warum-sind-da-drei-pedale-ich-hab-doch-nur-zwei-fuesse](https://www.spiegel.de/panorama/fahrlerer-ueber-fuehrerschein-kandidaten-warum-sind-da-drei-pedale-ich-hab-doch-nur-zwei-fuesse-a-ac297d64-ad4e-436b-ab6a-266d1266222f#ref=rss)
-* [https://www.spiegel.de/kultur/kino/filmfest-venedig-welche-filme-sich-lohnen-und-welche-eher-nicht](https://www.spiegel.de/kultur/kino/filmfest-venedig-welche-filme-sich-lohnen-und-welche-eher-nicht-a-6918152f-62f2-482a-a836-87741ddef324#ref=rss)
-* [https://www.spiegel.de/ausland/new-york-im-angesagtesten-lokal-der-stadt-stehen-omas-am-herd-alle-gute-vom-spiegel](https://www.spiegel.de/ausland/new-york-im-angesagtesten-lokal-der-stadt-stehen-omas-am-herd-alle-gute-vom-spiegel-a-bc7b0250-30a4-4579-93f2-23ccbfbb51d2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-diese-lebensmittel-preise-sind-am-staerksten-gestiegen](https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-diese-lebensmittel-preise-sind-am-staerksten-gestiegen-a-f8678a24-9c6b-4e66-99bc-8d7a9f2ff7f8#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/kamala-harris-oder-donald-trump-dieser-professor-will-schon-wissen-wer-gewinnt](https://www.spiegel.de/ausland/kamala-harris-oder-donald-trump-dieser-professor-will-schon-wissen-wer-gewinnt-a-5b75c452-9ce8-482d-aa0c-e5739f9e1933#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-strafmass-im-schweigegeldprozess-wird-erst-nach-der-wahl-verkuendet](https://www.spiegel.de/ausland/donald-trump-strafmass-im-schweigegeldprozess-wird-erst-nach-der-wahl-verkuendet-a-e2ad60de-224e-45e1-a816-1354986676b1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-olaf-scholz-elon-musk](https://www.spiegel.de/politik/deutschland/news-donald-trump-olaf-scholz-elon-musk-a-dfb23622-e1cf-4c1c-9da0-d89be7027e27#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/kamala-harris-oder-donald-trump-dieser-professor-will-schon-wissen-wer-gewinnt](https://www.spiegel.de/ausland/kamala-harris-oder-donald-trump-dieser-professor-will-schon-wissen-wer-gewinnt-a-5b75c452-9ce8-482d-aa0c-e5739f9e1933#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-strafmass-im-schweigegeldprozess-wird-erst-nach-der-wahl-verkuendet](https://www.spiegel.de/ausland/donald-trump-strafmass-im-schweigegeldprozess-wird-erst-nach-der-wahl-verkuendet-a-e2ad60de-224e-45e1-a816-1354986676b1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-olaf-scholz-elon-musk](https://www.spiegel.de/politik/deutschland/news-donald-trump-olaf-scholz-elon-musk-a-dfb23622-e1cf-4c1c-9da0-d89be7027e27#ref=rss)
-### bibi
-
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-im-nahen-osten-bibi-ist-der-feind-bibi-ist-das-problem-aber-bibi-ist-auch-die-loesung](https://www.spiegel.de/politik/deutschland/annalena-baerbock-im-nahen-osten-bibi-ist-der-feind-bibi-ist-das-problem-aber-bibi-ist-auch-die-loesung-a-2b586d6b-c985-499b-8711-2198afa0d102#ref=rss)
-### wir
-
-* [https://www.spiegel.de/panorama/justiz/illegale-autorennen-bei-tempo-250-auf-der-autobahn-haben-wir-abgebrochen](https://www.spiegel.de/panorama/justiz/illegale-autorennen-bei-tempo-250-auf-der-autobahn-haben-wir-abgebrochen-a-d0c4f12b-d797-4ca1-a5d4-8b24d392a50a#ref=rss)
-* [https://www.spiegel.de/gesundheit/was-wir-tun-koennen-um-unser-herz-zu-schuetzen-podcast](https://www.spiegel.de/gesundheit/was-wir-tun-koennen-um-unser-herz-zu-schuetzen-podcast-a-f7f71763-66ea-47a6-ab9d-9fe9ea7bc6c1#ref=rss)
-* [https://www.spiegel.de/psychologie/sonne-30-grad-der-sommer-geht-und-wir-sagen-tschuess](https://www.spiegel.de/psychologie/sonne-30-grad-der-sommer-geht-und-wir-sagen-tschuess-a-92c87277-76fa-4b48-bc48-d6d4524d7858#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/wissenschaft/medizin/vogelgrippe-erstmals-mensch-ohne-kontakt-zu-tieren-an-der-vogelgrippe-erkrankt](https://www.spiegel.de/wissenschaft/medizin/vogelgrippe-erstmals-mensch-ohne-kontakt-zu-tieren-an-der-vogelgrippe-erkrankt-a-2537b689-213e-4e33-8d83-b79857ffe7f7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/starliner-raumkapsel-landet-auf-der-erde-ohne-astronauten](https://www.spiegel.de/wissenschaft/weltall/starliner-raumkapsel-landet-auf-der-erde-ohne-astronauten-a-843ac440-aebf-4d96-9895-343df3b07f5e#ref=rss)
-### ich
-
-* [https://www.spiegel.de/sport/tennis/halbfinals-der-us-open-jack-draper-uebergibt-sich-vor-nervositaet-und-verliert-das-groesste-spiel-seines-lebens](https://www.spiegel.de/sport/tennis/halbfinals-der-us-open-jack-draper-uebergibt-sich-vor-nervositaet-und-verliert-das-groesste-spiel-seines-lebens-a-c0a4bec8-0a3d-47a9-bdb8-8f9dd1ab1dee#ref=rss)
-* [https://www.spiegel.de/panorama/fahrlerer-ueber-fuehrerschein-kandidaten-warum-sind-da-drei-pedale-ich-hab-doch-nur-zwei-fuesse](https://www.spiegel.de/panorama/fahrlerer-ueber-fuehrerschein-kandidaten-warum-sind-da-drei-pedale-ich-hab-doch-nur-zwei-fuesse-a-ac297d64-ad4e-436b-ab6a-266d1266222f#ref=rss)
-### 2025
-
-* [https://www.spiegel.de/politik/deutschland/haushaltsdebatte-im-bundestag-der-schwindel-im-etatentwurf-fuer-2025](https://www.spiegel.de/politik/deutschland/haushaltsdebatte-im-bundestag-der-schwindel-im-etatentwurf-fuer-2025-a-765e2a77-960e-403b-844c-f28cbd082fdd#ref=rss)
-* [https://www.spiegel.de/politik/bundestagswahl-2025-olaf-scholz-sagt-boris-pistorius-wolle-ihn-als-kanzlerkandidat](https://www.spiegel.de/politik/bundestagswahl-2025-olaf-scholz-sagt-boris-pistorius-wolle-ihn-als-kanzlerkandidat-a-657ab594-a4f7-486e-958d-7acfb65f29d8#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-keine-nominierung-fuer-den-goldenen-ball-france-football-erklaert-die-entscheidung](https://www.spiegel.de/sport/fussball/jamal-musiala-keine-nominierung-fuer-den-goldenen-ball-france-football-erklaert-die-entscheidung-a-b0895eb8-f6b8-4af8-ab06-10fbdeafdc32#ref=rss)
-* [https://www.spiegel.de/gesundheit/was-wir-tun-koennen-um-unser-herz-zu-schuetzen-podcast](https://www.spiegel.de/gesundheit/was-wir-tun-koennen-um-unser-herz-zu-schuetzen-podcast-a-f7f71763-66ea-47a6-ab9d-9fe9ea7bc6c1#ref=rss)
-* [https://www.spiegel.de/panorama/fahrlerer-ueber-fuehrerschein-kandidaten-warum-sind-da-drei-pedale-ich-hab-doch-nur-zwei-fuesse](https://www.spiegel.de/panorama/fahrlerer-ueber-fuehrerschein-kandidaten-warum-sind-da-drei-pedale-ich-hab-doch-nur-zwei-fuesse-a-ac297d64-ad4e-436b-ab6a-266d1266222f#ref=rss)
-### partei
-
-* [https://www.spiegel.de/politik/deutschland/hessen-afd-politiker-maximilian-mueger-verlaesst-nach-sturmgewehr-skandal-die-partei](https://www.spiegel.de/politik/deutschland/hessen-afd-politiker-maximilian-mueger-verlaesst-nach-sturmgewehr-skandal-die-partei-a-761c2c2b-151c-40b2-8728-3b3046bab382#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-plus-bsw-ex-cdu-generalsekretaer-polenz-bringt-hoecke-wagenknecht-regierung-ins-spiel](https://www.spiegel.de/politik/deutschland/afd-plus-bsw-ex-cdu-generalsekretaer-polenz-bringt-hoecke-wagenknecht-regierung-ins-spiel-a-5ef11465-2a7c-4ddf-a482-007df3858a37#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/fahrlerer-ueber-fuehrerschein-kandidaten-warum-sind-da-drei-pedale-ich-hab-doch-nur-zwei-fuesse](https://www.spiegel.de/panorama/fahrlerer-ueber-fuehrerschein-kandidaten-warum-sind-da-drei-pedale-ich-hab-doch-nur-zwei-fuesse-a-ac297d64-ad4e-436b-ab6a-266d1266222f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/starliner-raumkapsel-landet-auf-der-erde-ohne-astronauten](https://www.spiegel.de/wissenschaft/weltall/starliner-raumkapsel-landet-auf-der-erde-ohne-astronauten-a-843ac440-aebf-4d96-9895-343df3b07f5e#ref=rss)
-* [https://www.spiegel.de/panorama/bundeswehr-deutsche-fregatte-soll-durch-die-strasse-von-taiwan-fahren](https://www.spiegel.de/panorama/bundeswehr-deutsche-fregatte-soll-durch-die-strasse-von-taiwan-fahren-a-8160df14-08a2-41f6-9f51-523de2f3013e#ref=rss)
-### olaf
-
-* [https://www.spiegel.de/politik/bundestagswahl-2025-olaf-scholz-sagt-boris-pistorius-wolle-ihn-als-kanzlerkandidat](https://www.spiegel.de/politik/bundestagswahl-2025-olaf-scholz-sagt-boris-pistorius-wolle-ihn-als-kanzlerkandidat-a-657ab594-a4f7-486e-958d-7acfb65f29d8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-olaf-scholz-elon-musk](https://www.spiegel.de/politik/deutschland/news-donald-trump-olaf-scholz-elon-musk-a-dfb23622-e1cf-4c1c-9da0-d89be7027e27#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/bundestagswahl-2025-olaf-scholz-sagt-boris-pistorius-wolle-ihn-als-kanzlerkandidat](https://www.spiegel.de/politik/bundestagswahl-2025-olaf-scholz-sagt-boris-pistorius-wolle-ihn-als-kanzlerkandidat-a-657ab594-a4f7-486e-958d-7acfb65f29d8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-olaf-scholz-elon-musk](https://www.spiegel.de/politik/deutschland/news-donald-trump-olaf-scholz-elon-musk-a-dfb23622-e1cf-4c1c-9da0-d89be7027e27#ref=rss)
-### boris
-
-* [https://www.spiegel.de/politik/bundestagswahl-2025-olaf-scholz-sagt-boris-pistorius-wolle-ihn-als-kanzlerkandidat](https://www.spiegel.de/politik/bundestagswahl-2025-olaf-scholz-sagt-boris-pistorius-wolle-ihn-als-kanzlerkandidat-a-657ab594-a4f7-486e-958d-7acfb65f29d8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-olaf-scholz-elon-musk](https://www.spiegel.de/politik/deutschland/news-donald-trump-olaf-scholz-elon-musk-a-dfb23622-e1cf-4c1c-9da0-d89be7027e27#ref=rss)
-### pistorius
-
-* [https://www.spiegel.de/politik/bundestagswahl-2025-olaf-scholz-sagt-boris-pistorius-wolle-ihn-als-kanzlerkandidat](https://www.spiegel.de/politik/bundestagswahl-2025-olaf-scholz-sagt-boris-pistorius-wolle-ihn-als-kanzlerkandidat-a-657ab594-a4f7-486e-958d-7acfb65f29d8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-olaf-scholz-elon-musk](https://www.spiegel.de/politik/deutschland/news-donald-trump-olaf-scholz-elon-musk-a-dfb23622-e1cf-4c1c-9da0-d89be7027e27#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/panorama/bundeswehr-deutsche-fregatte-soll-durch-die-strasse-von-taiwan-fahren](https://www.spiegel.de/panorama/bundeswehr-deutsche-fregatte-soll-durch-die-strasse-von-taiwan-fahren-a-8160df14-08a2-41f6-9f51-523de2f3013e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-faehrt-weiterhin-container-durch-russland](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-faehrt-weiterhin-container-durch-russland-a-a34637fa-6b41-4ef9-a9e4-d1fbf87c688f#ref=rss)
-### bsw
-
-* [https://www.spiegel.de/wirtschaft/warum-das-bsw-als-anwalt-der-kleinen-agiert-und-auslaendische-konzerne-herausfordert](https://www.spiegel.de/wirtschaft/warum-das-bsw-als-anwalt-der-kleinen-agiert-und-auslaendische-konzerne-herausfordert-a-183f46bd-4df1-457b-87db-584bddcfbd0a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-plus-bsw-ex-cdu-generalsekretaer-polenz-bringt-hoecke-wagenknecht-regierung-ins-spiel](https://www.spiegel.de/politik/deutschland/afd-plus-bsw-ex-cdu-generalsekretaer-polenz-bringt-hoecke-wagenknecht-regierung-ins-spiel-a-5ef11465-2a7c-4ddf-a482-007df3858a37#ref=rss)
 ### viele
 
-* [https://www.spiegel.de/politik/deutschland/afd-plus-bsw-ex-cdu-generalsekretaer-polenz-bringt-hoecke-wagenknecht-regierung-ins-spiel](https://www.spiegel.de/politik/deutschland/afd-plus-bsw-ex-cdu-generalsekretaer-polenz-bringt-hoecke-wagenknecht-regierung-ins-spiel-a-5ef11465-2a7c-4ddf-a482-007df3858a37#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-faehrt-weiterhin-container-durch-russland](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-faehrt-weiterhin-container-durch-russland-a-a34637fa-6b41-4ef9-a9e4-d1fbf87c688f#ref=rss)
-### baerbock
+* [https://www.spiegel.de/panorama/kroatien-braunbaer-beisst-spaziergaenger-im-nationalpark-plitvicer-seen](https://www.spiegel.de/panorama/kroatien-braunbaer-beisst-spaziergaenger-im-nationalpark-plitvicer-seen-a-4bc3899b-747e-4e7d-8fba-df980b3531b6#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-us-behoerden-vereiteln-offenbar-terroranschlag-gegen-juedisches-zentrum-in-new-york](https://www.spiegel.de/ausland/new-york-us-behoerden-vereiteln-offenbar-terroranschlag-gegen-juedisches-zentrum-in-new-york-a-676bf998-e017-4f58-87a4-a4dcc7f11499#ref=rss)
+* [https://www.spiegel.de/panorama/suedchina-mindestens-zwei-tote-und-viele-verletze-durch-taifun-yagi](https://www.spiegel.de/panorama/suedchina-mindestens-zwei-tote-und-viele-verletze-durch-taifun-yagi-a-675c7110-c013-4e4b-9363-58bbcad53925#ref=rss)
+* [https://www.spiegel.de/stil/caprihosen-warum-die-dreiviertelhosen-problematisch-sind-und-ich-sie-trotzdem-trage](https://www.spiegel.de/stil/caprihosen-warum-die-dreiviertelhosen-problematisch-sind-und-ich-sie-trotzdem-trage-a-ffb8edc3-1266-4451-af07-74ff0b12b97e#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-im-nahen-osten-bibi-ist-der-feind-bibi-ist-das-problem-aber-bibi-ist-auch-die-loesung](https://www.spiegel.de/politik/deutschland/annalena-baerbock-im-nahen-osten-bibi-ist-der-feind-bibi-ist-das-problem-aber-bibi-ist-auch-die-loesung-a-2b586d6b-c985-499b-8711-2198afa0d102#ref=rss)
-### lage
+* [https://www.spiegel.de/ausland/joerg-haider-was-bleibt-vom-erbe-des-populaeren-fpoe-chefs-podcast](https://www.spiegel.de/ausland/joerg-haider-was-bleibt-vom-erbe-des-populaeren-fpoe-chefs-podcast-a-ea51f137-5374-4111-a83f-eff270fbb091#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/straubing-nach-flucht-aus-massregelvollzug-straftaeter-in-tuerkei-gefasst](https://www.spiegel.de/panorama/justiz/straubing-nach-flucht-aus-massregelvollzug-straftaeter-in-tuerkei-gefasst-a-0f4ee47a-8850-4343-becf-6361d74ecaa2#ref=rss)
+* [https://www.spiegel.de/panorama/suedchina-mindestens-zwei-tote-und-viele-verletze-durch-taifun-yagi](https://www.spiegel.de/panorama/suedchina-mindestens-zwei-tote-und-viele-verletze-durch-taifun-yagi-a-675c7110-c013-4e4b-9363-58bbcad53925#ref=rss)
+### luke
 
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-im-nahen-osten-bibi-ist-der-feind-bibi-ist-das-problem-aber-bibi-ist-auch-die-loesung](https://www.spiegel.de/politik/deutschland/annalena-baerbock-im-nahen-osten-bibi-ist-der-feind-bibi-ist-das-problem-aber-bibi-ist-auch-die-loesung-a-2b586d6b-c985-499b-8711-2198afa0d102#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-olaf-scholz-elon-musk](https://www.spiegel.de/politik/deutschland/news-donald-trump-olaf-scholz-elon-musk-a-dfb23622-e1cf-4c1c-9da0-d89be7027e27#ref=rss)
-### ifa
+* [https://www.spiegel.de/kultur/luke-mockridge-darf-sagen-was-er-will-und-er-will-offenbar-ekelhaft-sein](https://www.spiegel.de/kultur/luke-mockridge-darf-sagen-was-er-will-und-er-will-offenbar-ekelhaft-sein-a-5d5c2899-03bb-4387-bebf-722727e6a54c#ref=rss)
+* [https://www.spiegel.de/panorama/leute/luke-mockridge-macht-sich-ueber-behinderte-lustig-verbandspraesident-fordert-entschuldigung](https://www.spiegel.de/panorama/leute/luke-mockridge-macht-sich-ueber-behinderte-lustig-verbandspraesident-fordert-entschuldigung-a-21b40265-282e-4794-9623-d3eb7b97b41e#ref=rss)
+### mockridge
 
-* [https://www.spiegel.de/netzwelt/gadgets/ifa-2024-heute-kocht-die-ki-kabellos](https://www.spiegel.de/netzwelt/gadgets/ifa-2024-heute-kocht-die-ki-kabellos-a-6d4cc275-104c-40bb-a405-36b37e30c026#ref=rss)
-### ki
+* [https://www.spiegel.de/kultur/luke-mockridge-darf-sagen-was-er-will-und-er-will-offenbar-ekelhaft-sein](https://www.spiegel.de/kultur/luke-mockridge-darf-sagen-was-er-will-und-er-will-offenbar-ekelhaft-sein-a-5d5c2899-03bb-4387-bebf-722727e6a54c#ref=rss)
+* [https://www.spiegel.de/panorama/leute/luke-mockridge-macht-sich-ueber-behinderte-lustig-verbandspraesident-fordert-entschuldigung](https://www.spiegel.de/panorama/leute/luke-mockridge-macht-sich-ueber-behinderte-lustig-verbandspraesident-fordert-entschuldigung-a-21b40265-282e-4794-9623-d3eb7b97b41e#ref=rss)
+### mann
 
-* [https://www.spiegel.de/netzwelt/gadgets/ifa-2024-heute-kocht-die-ki-kabellos](https://www.spiegel.de/netzwelt/gadgets/ifa-2024-heute-kocht-die-ki-kabellos-a-6d4cc275-104c-40bb-a405-36b37e30c026#ref=rss)
-### gerichte
+* [https://www.spiegel.de/panorama/kroatien-braunbaer-beisst-spaziergaenger-im-nationalpark-plitvicer-seen](https://www.spiegel.de/panorama/kroatien-braunbaer-beisst-spaziergaenger-im-nationalpark-plitvicer-seen-a-4bc3899b-747e-4e7d-8fba-df980b3531b6#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/lindau-am-bodensee-vermeintliche-machete-erweist-sich-bei-polizeieinsatz-als-kruecke](https://www.spiegel.de/panorama/justiz/lindau-am-bodensee-vermeintliche-machete-erweist-sich-bei-polizeieinsatz-als-kruecke-a-0f4f25bd-9c8c-4697-aef6-28bbaf144637#ref=rss)
+### unter
 
-* [https://www.spiegel.de/netzwelt/gadgets/ifa-2024-heute-kocht-die-ki-kabellos](https://www.spiegel.de/netzwelt/gadgets/ifa-2024-heute-kocht-die-ki-kabellos-a-6d4cc275-104c-40bb-a405-36b37e30c026#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-strafmass-im-schweigegeldprozess-wird-erst-nach-der-wahl-verkuendet](https://www.spiegel.de/ausland/donald-trump-strafmass-im-schweigegeldprozess-wird-erst-nach-der-wahl-verkuendet-a-e2ad60de-224e-45e1-a816-1354986676b1#ref=rss)
-### schmyt
+* [https://www.spiegel.de/sport/fussball/bvb-legendspiel-juergen-klopp-und-seine-stars-von-damals-in-bildern](https://www.spiegel.de/sport/fussball/bvb-legendspiel-juergen-klopp-und-seine-stars-von-damals-in-bildern-a-b5dc2619-d30c-4813-acc3-b163676d630e#ref=rss)
+* [https://www.spiegel.de/familie/sommerferien-die-wahrheit-ueber-familienurlaube](https://www.spiegel.de/familie/sommerferien-die-wahrheit-ueber-familienurlaube-a-dcc04216-99fb-48d0-8a65-468dfa9dac82#ref=rss)
+* [https://www.spiegel.de/panorama/italien-leiche-von-vermisstem-charite-professor-marcus-maurer-gefunden](https://www.spiegel.de/panorama/italien-leiche-von-vermisstem-charite-professor-marcus-maurer-gefunden-a-1edf4be2-ce5d-4f24-bfee-861f531825f1#ref=rss)
+### haider
 
-* [https://www.spiegel.de/karriere/schmyt-macht-vorwurf-der-haeuslichen-gewalt-gegen-sich-oeffentlich](https://www.spiegel.de/karriere/schmyt-macht-vorwurf-der-haeuslichen-gewalt-gegen-sich-oeffentlich-a-3631337e-a144-49d0-9f29-18cfc54c5c9c#ref=rss)
+* [https://www.spiegel.de/ausland/joerg-haider-was-bleibt-vom-erbe-des-populaeren-fpoe-chefs-podcast](https://www.spiegel.de/ausland/joerg-haider-was-bleibt-vom-erbe-des-populaeren-fpoe-chefs-podcast-a-ea51f137-5374-4111-a83f-eff270fbb091#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/sport/olympia/paralympics-2024-deutsche-rollstuhlbasketballer-holen-sensationelle-medaille](https://www.spiegel.de/sport/olympia/paralympics-2024-deutsche-rollstuhlbasketballer-holen-sensationelle-medaille-a-2e9951f4-a7ce-451b-92a8-432949880056#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-schwere-stoerung-im-zugverkehr-in-mitteldeutschland](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-schwere-stoerung-im-zugverkehr-in-mitteldeutschland-a-e8c3e36d-57f4-4531-933f-122d888d9d23#ref=rss)
+### mutter
+
+* [https://www.spiegel.de/karriere/unerfuellter-kinderwunsch-wie-der-wunsch-nach-kindern-die-karriere-beeinflusst](https://www.spiegel.de/karriere/unerfuellter-kinderwunsch-wie-der-wunsch-nach-kindern-die-karriere-beeinflusst-a-3f42b8e9-74a5-4c49-8d8d-04afb376a29b#ref=rss)
+* [https://www.spiegel.de/start/ausbildung-in-der-pflege-mutter-und-tochter-sind-kolleginnen-in-einem-wohnheim](https://www.spiegel.de/start/ausbildung-in-der-pflege-mutter-und-tochter-sind-kolleginnen-in-einem-wohnheim-a-09ff5f12-eccb-4944-8b78-4ae02045f9a1#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/justiz/straubing-nach-flucht-aus-massregelvollzug-straftaeter-in-tuerkei-gefasst](https://www.spiegel.de/panorama/justiz/straubing-nach-flucht-aus-massregelvollzug-straftaeter-in-tuerkei-gefasst-a-0f4ee47a-8850-4343-becf-6361d74ecaa2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/lindau-am-bodensee-vermeintliche-machete-erweist-sich-bei-polizeieinsatz-als-kruecke](https://www.spiegel.de/panorama/justiz/lindau-am-bodensee-vermeintliche-machete-erweist-sich-bei-polizeieinsatz-als-kruecke-a-0f4f25bd-9c8c-4697-aef6-28bbaf144637#ref=rss)
+* [https://www.spiegel.de/panorama/paintball-waffe-maenner-sorgen-in-bayern-mit-schuessen-fuer-polizeieinsatz](https://www.spiegel.de/panorama/paintball-waffe-maenner-sorgen-in-bayern-mit-schuessen-fuer-polizeieinsatz-a-945eb074-cb59-4f85-992c-a9c35e890c2f#ref=rss)
 ### macht
 
-* [https://www.spiegel.de/karriere/schmyt-macht-vorwurf-der-haeuslichen-gewalt-gegen-sich-oeffentlich](https://www.spiegel.de/karriere/schmyt-macht-vorwurf-der-haeuslichen-gewalt-gegen-sich-oeffentlich-a-3631337e-a144-49d0-9f29-18cfc54c5c9c#ref=rss)
-* [https://www.spiegel.de/politik/extremwetter-und-klimawandel-die-ausnahme-wird-zur-regel-wie-gehen-wir-damit-um](https://www.spiegel.de/politik/extremwetter-und-klimawandel-die-ausnahme-wird-zur-regel-wie-gehen-wir-damit-um-a-eaa091ef-562d-47ed-a453-1ecc55497b05#ref=rss)
-### vorwurf
+* [https://www.spiegel.de/kultur/luke-mockridge-darf-sagen-was-er-will-und-er-will-offenbar-ekelhaft-sein](https://www.spiegel.de/kultur/luke-mockridge-darf-sagen-was-er-will-und-er-will-offenbar-ekelhaft-sein-a-5d5c2899-03bb-4387-bebf-722727e6a54c#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/taylor-swift-donald-trump-kamala-harris-us-wahlkampf-mit-gefaelschten-promi-endorsements](https://www.spiegel.de/netzwelt/web/taylor-swift-donald-trump-kamala-harris-us-wahlkampf-mit-gefaelschten-promi-endorsements-a-9da60f4f-5964-4bf2-a771-25ccb2edb414#ref=rss)
+* [https://www.spiegel.de/panorama/leute/luke-mockridge-macht-sich-ueber-behinderte-lustig-verbandspraesident-fordert-entschuldigung](https://www.spiegel.de/panorama/leute/luke-mockridge-macht-sich-ueber-behinderte-lustig-verbandspraesident-fordert-entschuldigung-a-21b40265-282e-4794-9623-d3eb7b97b41e#ref=rss)
+### machete
 
-* [https://www.spiegel.de/karriere/schmyt-macht-vorwurf-der-haeuslichen-gewalt-gegen-sich-oeffentlich](https://www.spiegel.de/karriere/schmyt-macht-vorwurf-der-haeuslichen-gewalt-gegen-sich-oeffentlich-a-3631337e-a144-49d0-9f29-18cfc54c5c9c#ref=rss)
-### spiegel
+* [https://www.spiegel.de/panorama/justiz/lindau-am-bodensee-vermeintliche-machete-erweist-sich-bei-polizeieinsatz-als-kruecke](https://www.spiegel.de/panorama/justiz/lindau-am-bodensee-vermeintliche-machete-erweist-sich-bei-polizeieinsatz-als-kruecke-a-0f4f25bd-9c8c-4697-aef6-28bbaf144637#ref=rss)
+### bedroht
 
-* [https://www.spiegel.de/karriere/schmyt-macht-vorwurf-der-haeuslichen-gewalt-gegen-sich-oeffentlich](https://www.spiegel.de/karriere/schmyt-macht-vorwurf-der-haeuslichen-gewalt-gegen-sich-oeffentlich-a-3631337e-a144-49d0-9f29-18cfc54c5c9c#ref=rss)
-* [https://www.spiegel.de/ausland/new-york-im-angesagtesten-lokal-der-stadt-stehen-omas-am-herd-alle-gute-vom-spiegel](https://www.spiegel.de/ausland/new-york-im-angesagtesten-lokal-der-stadt-stehen-omas-am-herd-alle-gute-vom-spiegel-a-bc7b0250-30a4-4579-93f2-23ccbfbb51d2#ref=rss)
-### solingen
+* [https://www.spiegel.de/panorama/justiz/lindau-am-bodensee-vermeintliche-machete-erweist-sich-bei-polizeieinsatz-als-kruecke](https://www.spiegel.de/panorama/justiz/lindau-am-bodensee-vermeintliche-machete-erweist-sich-bei-polizeieinsatz-als-kruecke-a-0f4f25bd-9c8c-4697-aef6-28bbaf144637#ref=rss)
+* [https://www.spiegel.de/panorama/warum-suedkorea-bald-kein-eigenes-kimchi-mehr-produzieren-koennte-klimawandel-bedroht-nationalgericht](https://www.spiegel.de/panorama/warum-suedkorea-bald-kein-eigenes-kimchi-mehr-produzieren-koennte-klimawandel-bedroht-nationalgericht-a-38f6dd14-feca-4431-aedb-3f42f52b77c3#ref=rss)
+### hubschrauber
 
-* [https://www.spiegel.de/panorama/justiz/solingen-ermittler-veroeffentlichen-verdaechtigen-foto-und-bitten-um-mithilfe](https://www.spiegel.de/panorama/justiz/solingen-ermittler-veroeffentlichen-verdaechtigen-foto-und-bitten-um-mithilfe-a-60a52844-9700-4015-95ce-4d7095efbc4a#ref=rss)
-### ermittler
-
-* [https://www.spiegel.de/panorama/justiz/solingen-ermittler-veroeffentlichen-verdaechtigen-foto-und-bitten-um-mithilfe](https://www.spiegel.de/panorama/justiz/solingen-ermittler-veroeffentlichen-verdaechtigen-foto-und-bitten-um-mithilfe-a-60a52844-9700-4015-95ce-4d7095efbc4a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/brasilien-defektes-enteisungssystem-wohl-grund-fuer-flugzeugabsturz](https://www.spiegel.de/wissenschaft/brasilien-defektes-enteisungssystem-wohl-grund-fuer-flugzeugabsturz-a-9236c5ea-c289-4752-b651-ab295b144e00#ref=rss)
-### autorennen
-
-* [https://www.spiegel.de/panorama/justiz/illegale-autorennen-bei-tempo-250-auf-der-autobahn-haben-wir-abgebrochen](https://www.spiegel.de/panorama/justiz/illegale-autorennen-bei-tempo-250-auf-der-autobahn-haben-wir-abgebrochen-a-d0c4f12b-d797-4ca1-a5d4-8b24d392a50a#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/panorama/justiz/illegale-autorennen-bei-tempo-250-auf-der-autobahn-haben-wir-abgebrochen](https://www.spiegel.de/panorama/justiz/illegale-autorennen-bei-tempo-250-auf-der-autobahn-haben-wir-abgebrochen-a-d0c4f12b-d797-4ca1-a5d4-8b24d392a50a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/brasilien-defektes-enteisungssystem-wohl-grund-fuer-flugzeugabsturz](https://www.spiegel.de/wissenschaft/brasilien-defektes-enteisungssystem-wohl-grund-fuer-flugzeugabsturz-a-9236c5ea-c289-4752-b651-ab295b144e00#ref=rss)
-### laut
-
-* [https://www.spiegel.de/panorama/justiz/illegale-autorennen-bei-tempo-250-auf-der-autobahn-haben-wir-abgebrochen](https://www.spiegel.de/panorama/justiz/illegale-autorennen-bei-tempo-250-auf-der-autobahn-haben-wir-abgebrochen-a-d0c4f12b-d797-4ca1-a5d4-8b24d392a50a#ref=rss)
-* [https://www.spiegel.de/politik/bundestagswahl-2025-olaf-scholz-sagt-boris-pistorius-wolle-ihn-als-kanzlerkandidat](https://www.spiegel.de/politik/bundestagswahl-2025-olaf-scholz-sagt-boris-pistorius-wolle-ihn-als-kanzlerkandidat-a-657ab594-a4f7-486e-958d-7acfb65f29d8#ref=rss)
-### vogelgrippe
-
-* [https://www.spiegel.de/wissenschaft/medizin/vogelgrippe-erstmals-mensch-ohne-kontakt-zu-tieren-an-der-vogelgrippe-erkrankt](https://www.spiegel.de/wissenschaft/medizin/vogelgrippe-erstmals-mensch-ohne-kontakt-zu-tieren-an-der-vogelgrippe-erkrankt-a-2537b689-213e-4e33-8d83-b79857ffe7f7#ref=rss)
-### erstmals
-
-* [https://www.spiegel.de/wissenschaft/medizin/vogelgrippe-erstmals-mensch-ohne-kontakt-zu-tieren-an-der-vogelgrippe-erkrankt](https://www.spiegel.de/wissenschaft/medizin/vogelgrippe-erstmals-mensch-ohne-kontakt-zu-tieren-an-der-vogelgrippe-erkrankt-a-2537b689-213e-4e33-8d83-b79857ffe7f7#ref=rss)
-* [https://www.spiegel.de/kultur/kino/pamela-anderson-in-toronto-endlich-geht-es-einmal-nicht-um-sextapes-oder-ehemaenner](https://www.spiegel.de/kultur/kino/pamela-anderson-in-toronto-endlich-geht-es-einmal-nicht-um-sextapes-oder-ehemaenner-a-34412407-1e2a-43a1-a41a-0548bbce5de3#ref=rss)
-### mensch
-
-* [https://www.spiegel.de/wissenschaft/medizin/vogelgrippe-erstmals-mensch-ohne-kontakt-zu-tieren-an-der-vogelgrippe-erkrankt](https://www.spiegel.de/wissenschaft/medizin/vogelgrippe-erstmals-mensch-ohne-kontakt-zu-tieren-an-der-vogelgrippe-erkrankt-a-2537b689-213e-4e33-8d83-b79857ffe7f7#ref=rss)
-* [https://www.spiegel.de/sport/tennis/halbfinals-der-us-open-jack-draper-uebergibt-sich-vor-nervositaet-und-verliert-das-groesste-spiel-seines-lebens](https://www.spiegel.de/sport/tennis/halbfinals-der-us-open-jack-draper-uebergibt-sich-vor-nervositaet-und-verliert-das-groesste-spiel-seines-lebens-a-c0a4bec8-0a3d-47a9-bdb8-8f9dd1ab1dee#ref=rss)
-### tieren
-
-* [https://www.spiegel.de/wissenschaft/medizin/vogelgrippe-erstmals-mensch-ohne-kontakt-zu-tieren-an-der-vogelgrippe-erkrankt](https://www.spiegel.de/wissenschaft/medizin/vogelgrippe-erstmals-mensch-ohne-kontakt-zu-tieren-an-der-vogelgrippe-erkrankt-a-2537b689-213e-4e33-8d83-b79857ffe7f7#ref=rss)
-### jack
-
-* [https://www.spiegel.de/sport/tennis/halbfinals-der-us-open-jack-draper-uebergibt-sich-vor-nervositaet-und-verliert-das-groesste-spiel-seines-lebens](https://www.spiegel.de/sport/tennis/halbfinals-der-us-open-jack-draper-uebergibt-sich-vor-nervositaet-und-verliert-das-groesste-spiel-seines-lebens-a-c0a4bec8-0a3d-47a9-bdb8-8f9dd1ab1dee#ref=rss)
-### draper
-
-* [https://www.spiegel.de/sport/tennis/halbfinals-der-us-open-jack-draper-uebergibt-sich-vor-nervositaet-und-verliert-das-groesste-spiel-seines-lebens](https://www.spiegel.de/sport/tennis/halbfinals-der-us-open-jack-draper-uebergibt-sich-vor-nervositaet-und-verliert-das-groesste-spiel-seines-lebens-a-c0a4bec8-0a3d-47a9-bdb8-8f9dd1ab1dee#ref=rss)
-### spiel
-
-* [https://www.spiegel.de/sport/tennis/halbfinals-der-us-open-jack-draper-uebergibt-sich-vor-nervositaet-und-verliert-das-groesste-spiel-seines-lebens](https://www.spiegel.de/sport/tennis/halbfinals-der-us-open-jack-draper-uebergibt-sich-vor-nervositaet-und-verliert-das-groesste-spiel-seines-lebens-a-c0a4bec8-0a3d-47a9-bdb8-8f9dd1ab1dee#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-plus-bsw-ex-cdu-generalsekretaer-polenz-bringt-hoecke-wagenknecht-regierung-ins-spiel](https://www.spiegel.de/politik/deutschland/afd-plus-bsw-ex-cdu-generalsekretaer-polenz-bringt-hoecke-wagenknecht-regierung-ins-spiel-a-5ef11465-2a7c-4ddf-a482-007df3858a37#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/ausland/kamala-harris-oder-donald-trump-dieser-professor-will-schon-wissen-wer-gewinnt](https://www.spiegel.de/ausland/kamala-harris-oder-donald-trump-dieser-professor-will-schon-wissen-wer-gewinnt-a-5b75c452-9ce8-482d-aa0c-e5739f9e1933#ref=rss)
-* [https://www.spiegel.de/kultur/kino/pamela-anderson-in-toronto-endlich-geht-es-einmal-nicht-um-sextapes-oder-ehemaenner](https://www.spiegel.de/kultur/kino/pamela-anderson-in-toronto-endlich-geht-es-einmal-nicht-um-sextapes-oder-ehemaenner-a-34412407-1e2a-43a1-a41a-0548bbce5de3#ref=rss)
-### bundestag
-
-* [https://www.spiegel.de/politik/deutschland/haushaltsdebatte-im-bundestag-der-schwindel-im-etatentwurf-fuer-2025](https://www.spiegel.de/politik/deutschland/haushaltsdebatte-im-bundestag-der-schwindel-im-etatentwurf-fuer-2025-a-765e2a77-960e-403b-844c-f28cbd082fdd#ref=rss)
-### etatentwurf
-
-* [https://www.spiegel.de/politik/deutschland/haushaltsdebatte-im-bundestag-der-schwindel-im-etatentwurf-fuer-2025](https://www.spiegel.de/politik/deutschland/haushaltsdebatte-im-bundestag-der-schwindel-im-etatentwurf-fuer-2025-a-765e2a77-960e-403b-844c-f28cbd082fdd#ref=rss)
-### jamal
-
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-keine-nominierung-fuer-den-goldenen-ball-france-football-erklaert-die-entscheidung](https://www.spiegel.de/sport/fussball/jamal-musiala-keine-nominierung-fuer-den-goldenen-ball-france-football-erklaert-die-entscheidung-a-b0895eb8-f6b8-4af8-ab06-10fbdeafdc32#ref=rss)
-### musiala
-
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-keine-nominierung-fuer-den-goldenen-ball-france-football-erklaert-die-entscheidung](https://www.spiegel.de/sport/fussball/jamal-musiala-keine-nominierung-fuer-den-goldenen-ball-france-football-erklaert-die-entscheidung-a-b0895eb8-f6b8-4af8-ab06-10fbdeafdc32#ref=rss)
-### france
-
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-keine-nominierung-fuer-den-goldenen-ball-france-football-erklaert-die-entscheidung](https://www.spiegel.de/sport/fussball/jamal-musiala-keine-nominierung-fuer-den-goldenen-ball-france-football-erklaert-die-entscheidung-a-b0895eb8-f6b8-4af8-ab06-10fbdeafdc32#ref=rss)
-### football
-
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-keine-nominierung-fuer-den-goldenen-ball-france-football-erklaert-die-entscheidung](https://www.spiegel.de/sport/fussball/jamal-musiala-keine-nominierung-fuer-den-goldenen-ball-france-football-erklaert-die-entscheidung-a-b0895eb8-f6b8-4af8-ab06-10fbdeafdc32#ref=rss)
-### entscheidung
-
-* [https://www.spiegel.de/sport/fussball/jamal-musiala-keine-nominierung-fuer-den-goldenen-ball-france-football-erklaert-die-entscheidung](https://www.spiegel.de/sport/fussball/jamal-musiala-keine-nominierung-fuer-den-goldenen-ball-france-football-erklaert-die-entscheidung-a-b0895eb8-f6b8-4af8-ab06-10fbdeafdc32#ref=rss)
-### extremwetter
-
-* [https://www.spiegel.de/politik/extremwetter-und-klimawandel-die-ausnahme-wird-zur-regel-wie-gehen-wir-damit-um](https://www.spiegel.de/politik/extremwetter-und-klimawandel-die-ausnahme-wird-zur-regel-wie-gehen-wir-damit-um-a-eaa091ef-562d-47ed-a453-1ecc55497b05#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/gesundheit/was-wir-tun-koennen-um-unser-herz-zu-schuetzen-podcast](https://www.spiegel.de/gesundheit/was-wir-tun-koennen-um-unser-herz-zu-schuetzen-podcast-a-f7f71763-66ea-47a6-ab9d-9fe9ea7bc6c1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-diese-lebensmittel-preise-sind-am-staerksten-gestiegen](https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-diese-lebensmittel-preise-sind-am-staerksten-gestiegen-a-f8678a24-9c6b-4e66-99bc-8d7a9f2ff7f8#ref=rss)
-### brasilien
-
-* [https://www.spiegel.de/wissenschaft/brasilien-defektes-enteisungssystem-wohl-grund-fuer-flugzeugabsturz](https://www.spiegel.de/wissenschaft/brasilien-defektes-enteisungssystem-wohl-grund-fuer-flugzeugabsturz-a-9236c5ea-c289-4752-b651-ab295b144e00#ref=rss)
-### eis
-
-* [https://www.spiegel.de/wissenschaft/brasilien-defektes-enteisungssystem-wohl-grund-fuer-flugzeugabsturz](https://www.spiegel.de/wissenschaft/brasilien-defektes-enteisungssystem-wohl-grund-fuer-flugzeugabsturz-a-9236c5ea-c289-4752-b651-ab295b144e00#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-strafmass-im-schweigegeldprozess-wird-erst-nach-der-wahl-verkuendet](https://www.spiegel.de/ausland/donald-trump-strafmass-im-schweigegeldprozess-wird-erst-nach-der-wahl-verkuendet-a-e2ad60de-224e-45e1-a816-1354986676b1#ref=rss)
-### maximilian
-
-* [https://www.spiegel.de/politik/deutschland/hessen-afd-politiker-maximilian-mueger-verlaesst-nach-sturmgewehr-skandal-die-partei](https://www.spiegel.de/politik/deutschland/hessen-afd-politiker-maximilian-mueger-verlaesst-nach-sturmgewehr-skandal-die-partei-a-761c2c2b-151c-40b2-8728-3b3046bab382#ref=rss)
-### müger
-
-* [https://www.spiegel.de/politik/deutschland/hessen-afd-politiker-maximilian-mueger-verlaesst-nach-sturmgewehr-skandal-die-partei](https://www.spiegel.de/politik/deutschland/hessen-afd-politiker-maximilian-mueger-verlaesst-nach-sturmgewehr-skandal-die-partei-a-761c2c2b-151c-40b2-8728-3b3046bab382#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/politik/deutschland/hessen-afd-politiker-maximilian-mueger-verlaesst-nach-sturmgewehr-skandal-die-partei](https://www.spiegel.de/politik/deutschland/hessen-afd-politiker-maximilian-mueger-verlaesst-nach-sturmgewehr-skandal-die-partei-a-761c2c2b-151c-40b2-8728-3b3046bab382#ref=rss)
-* [https://www.spiegel.de/ausland/westjordanland-amerikanische-aktivistin-bei-siedlungsprotest-getoetet-usa-fordern-aufklaerung](https://www.spiegel.de/ausland/westjordanland-amerikanische-aktivistin-bei-siedlungsprotest-getoetet-usa-fordern-aufklaerung-a-a6c4db92-b544-43ca-8985-5ab44d7d363b#ref=rss)
-### freie
-
-* [https://www.spiegel.de/politik/deutschland/hessen-afd-politiker-maximilian-mueger-verlaesst-nach-sturmgewehr-skandal-die-partei](https://www.spiegel.de/politik/deutschland/hessen-afd-politiker-maximilian-mueger-verlaesst-nach-sturmgewehr-skandal-die-partei-a-761c2c2b-151c-40b2-8728-3b3046bab382#ref=rss)
-### waffen
-
-* [https://www.spiegel.de/politik/deutschland/hessen-afd-politiker-maximilian-mueger-verlaesst-nach-sturmgewehr-skandal-die-partei](https://www.spiegel.de/politik/deutschland/hessen-afd-politiker-maximilian-mueger-verlaesst-nach-sturmgewehr-skandal-die-partei-a-761c2c2b-151c-40b2-8728-3b3046bab382#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-olaf-scholz-elon-musk](https://www.spiegel.de/politik/deutschland/news-donald-trump-olaf-scholz-elon-musk-a-dfb23622-e1cf-4c1c-9da0-d89be7027e27#ref=rss)
-### fahrlehrer
-
-* [https://www.spiegel.de/panorama/fahrlerer-ueber-fuehrerschein-kandidaten-warum-sind-da-drei-pedale-ich-hab-doch-nur-zwei-fuesse](https://www.spiegel.de/panorama/fahrlerer-ueber-fuehrerschein-kandidaten-warum-sind-da-drei-pedale-ich-hab-doch-nur-zwei-fuesse-a-ac297d64-ad4e-436b-ab6a-266d1266222f#ref=rss)
-### teils
-
-* [https://www.spiegel.de/panorama/fahrlerer-ueber-fuehrerschein-kandidaten-warum-sind-da-drei-pedale-ich-hab-doch-nur-zwei-fuesse](https://www.spiegel.de/panorama/fahrlerer-ueber-fuehrerschein-kandidaten-warum-sind-da-drei-pedale-ich-hab-doch-nur-zwei-fuesse-a-ac297d64-ad4e-436b-ab6a-266d1266222f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-diese-lebensmittel-preise-sind-am-staerksten-gestiegen](https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-diese-lebensmittel-preise-sind-am-staerksten-gestiegen-a-f8678a24-9c6b-4e66-99bc-8d7a9f2ff7f8#ref=rss)
-### liegt
-
-* [https://www.spiegel.de/panorama/fahrlerer-ueber-fuehrerschein-kandidaten-warum-sind-da-drei-pedale-ich-hab-doch-nur-zwei-fuesse](https://www.spiegel.de/panorama/fahrlerer-ueber-fuehrerschein-kandidaten-warum-sind-da-drei-pedale-ich-hab-doch-nur-zwei-fuesse-a-ac297d64-ad4e-436b-ab6a-266d1266222f#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-strafmass-im-schweigegeldprozess-wird-erst-nach-der-wahl-verkuendet](https://www.spiegel.de/ausland/donald-trump-strafmass-im-schweigegeldprozess-wird-erst-nach-der-wahl-verkuendet-a-e2ad60de-224e-45e1-a816-1354986676b1#ref=rss)
-### 30
-
-* [https://www.spiegel.de/psychologie/sonne-30-grad-der-sommer-geht-und-wir-sagen-tschuess](https://www.spiegel.de/psychologie/sonne-30-grad-der-sommer-geht-und-wir-sagen-tschuess-a-92c87277-76fa-4b48-bc48-d6d4524d7858#ref=rss)
-### grad
-
-* [https://www.spiegel.de/psychologie/sonne-30-grad-der-sommer-geht-und-wir-sagen-tschuess](https://www.spiegel.de/psychologie/sonne-30-grad-der-sommer-geht-und-wir-sagen-tschuess-a-92c87277-76fa-4b48-bc48-d6d4524d7858#ref=rss)
-### venedig
-
-* [https://www.spiegel.de/kultur/kino/filmfest-venedig-welche-filme-sich-lohnen-und-welche-eher-nicht](https://www.spiegel.de/kultur/kino/filmfest-venedig-welche-filme-sich-lohnen-und-welche-eher-nicht-a-6918152f-62f2-482a-a836-87741ddef324#ref=rss)
-### filmfestival
-
-* [https://www.spiegel.de/kultur/kino/filmfest-venedig-welche-filme-sich-lohnen-und-welche-eher-nicht](https://www.spiegel.de/kultur/kino/filmfest-venedig-welche-filme-sich-lohnen-und-welche-eher-nicht-a-6918152f-62f2-482a-a836-87741ddef324#ref=rss)
-* [https://www.spiegel.de/kultur/kino/pamela-anderson-in-toronto-endlich-geht-es-einmal-nicht-um-sextapes-oder-ehemaenner](https://www.spiegel.de/kultur/kino/pamela-anderson-in-toronto-endlich-geht-es-einmal-nicht-um-sextapes-oder-ehemaenner-a-34412407-1e2a-43a1-a41a-0548bbce5de3#ref=rss)
-### ende
-
-* [https://www.spiegel.de/kultur/kino/filmfest-venedig-welche-filme-sich-lohnen-und-welche-eher-nicht](https://www.spiegel.de/kultur/kino/filmfest-venedig-welche-filme-sich-lohnen-und-welche-eher-nicht-a-6918152f-62f2-482a-a836-87741ddef324#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/starliner-raumkapsel-landet-auf-der-erde-ohne-astronauten](https://www.spiegel.de/wissenschaft/weltall/starliner-raumkapsel-landet-auf-der-erde-ohne-astronauten-a-843ac440-aebf-4d96-9895-343df3b07f5e#ref=rss)
-### 17
-
-* [https://www.spiegel.de/kultur/kino/filmfest-venedig-welche-filme-sich-lohnen-und-welche-eher-nicht](https://www.spiegel.de/kultur/kino/filmfest-venedig-welche-filme-sich-lohnen-und-welche-eher-nicht-a-6918152f-62f2-482a-a836-87741ddef324#ref=rss)
-* [https://www.spiegel.de/kultur/kino/pamela-anderson-in-toronto-endlich-geht-es-einmal-nicht-um-sextapes-oder-ehemaenner](https://www.spiegel.de/kultur/kino/pamela-anderson-in-toronto-endlich-geht-es-einmal-nicht-um-sextapes-oder-ehemaenner-a-34412407-1e2a-43a1-a41a-0548bbce5de3#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/politik/bundestagswahl-2025-olaf-scholz-sagt-boris-pistorius-wolle-ihn-als-kanzlerkandidat](https://www.spiegel.de/politik/bundestagswahl-2025-olaf-scholz-sagt-boris-pistorius-wolle-ihn-als-kanzlerkandidat-a-657ab594-a4f7-486e-958d-7acfb65f29d8#ref=rss)
-### umfragen
-
-* [https://www.spiegel.de/politik/bundestagswahl-2025-olaf-scholz-sagt-boris-pistorius-wolle-ihn-als-kanzlerkandidat](https://www.spiegel.de/politik/bundestagswahl-2025-olaf-scholz-sagt-boris-pistorius-wolle-ihn-als-kanzlerkandidat-a-657ab594-a4f7-486e-958d-7acfb65f29d8#ref=rss)
-### erst
-
-* [https://www.spiegel.de/politik/bundestagswahl-2025-olaf-scholz-sagt-boris-pistorius-wolle-ihn-als-kanzlerkandidat](https://www.spiegel.de/politik/bundestagswahl-2025-olaf-scholz-sagt-boris-pistorius-wolle-ihn-als-kanzlerkandidat-a-657ab594-a4f7-486e-958d-7acfb65f29d8#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-strafmass-im-schweigegeldprozess-wird-erst-nach-der-wahl-verkuendet](https://www.spiegel.de/ausland/donald-trump-strafmass-im-schweigegeldprozess-wird-erst-nach-der-wahl-verkuendet-a-e2ad60de-224e-45e1-a816-1354986676b1#ref=rss)
-### erde
-
-* [https://www.spiegel.de/wissenschaft/weltall/starliner-raumkapsel-landet-auf-der-erde-ohne-astronauten](https://www.spiegel.de/wissenschaft/weltall/starliner-raumkapsel-landet-auf-der-erde-ohne-astronauten-a-843ac440-aebf-4d96-9895-343df3b07f5e#ref=rss)
-### astronauten
-
-* [https://www.spiegel.de/wissenschaft/weltall/starliner-raumkapsel-landet-auf-der-erde-ohne-astronauten](https://www.spiegel.de/wissenschaft/weltall/starliner-raumkapsel-landet-auf-der-erde-ohne-astronauten-a-843ac440-aebf-4d96-9895-343df3b07f5e#ref=rss)
-### straße
-
-* [https://www.spiegel.de/panorama/bundeswehr-deutsche-fregatte-soll-durch-die-strasse-von-taiwan-fahren](https://www.spiegel.de/panorama/bundeswehr-deutsche-fregatte-soll-durch-die-strasse-von-taiwan-fahren-a-8160df14-08a2-41f6-9f51-523de2f3013e#ref=rss)
-### taiwan
-
-* [https://www.spiegel.de/panorama/bundeswehr-deutsche-fregatte-soll-durch-die-strasse-von-taiwan-fahren](https://www.spiegel.de/panorama/bundeswehr-deutsche-fregatte-soll-durch-die-strasse-von-taiwan-fahren-a-8160df14-08a2-41f6-9f51-523de2f3013e#ref=rss)
-### konzerne
-
-* [https://www.spiegel.de/wirtschaft/warum-das-bsw-als-anwalt-der-kleinen-agiert-und-auslaendische-konzerne-herausfordert](https://www.spiegel.de/wirtschaft/warum-das-bsw-als-anwalt-der-kleinen-agiert-und-auslaendische-konzerne-herausfordert-a-183f46bd-4df1-457b-87db-584bddcfbd0a#ref=rss)
-### weniger
-
-* [https://www.spiegel.de/wirtschaft/warum-das-bsw-als-anwalt-der-kleinen-agiert-und-auslaendische-konzerne-herausfordert](https://www.spiegel.de/wirtschaft/warum-das-bsw-als-anwalt-der-kleinen-agiert-und-auslaendische-konzerne-herausfordert-a-183f46bd-4df1-457b-87db-584bddcfbd0a#ref=rss)
-* [https://www.spiegel.de/ausland/new-york-im-angesagtesten-lokal-der-stadt-stehen-omas-am-herd-alle-gute-vom-spiegel](https://www.spiegel.de/ausland/new-york-im-angesagtesten-lokal-der-stadt-stehen-omas-am-herd-alle-gute-vom-spiegel-a-bc7b0250-30a4-4579-93f2-23ccbfbb51d2#ref=rss)
-### thüringen
-
-* [https://www.spiegel.de/politik/deutschland/afd-plus-bsw-ex-cdu-generalsekretaer-polenz-bringt-hoecke-wagenknecht-regierung-ins-spiel](https://www.spiegel.de/politik/deutschland/afd-plus-bsw-ex-cdu-generalsekretaer-polenz-bringt-hoecke-wagenknecht-regierung-ins-spiel-a-5ef11465-2a7c-4ddf-a482-007df3858a37#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/afd-plus-bsw-ex-cdu-generalsekretaer-polenz-bringt-hoecke-wagenknecht-regierung-ins-spiel](https://www.spiegel.de/politik/deutschland/afd-plus-bsw-ex-cdu-generalsekretaer-polenz-bringt-hoecke-wagenknecht-regierung-ins-spiel-a-5ef11465-2a7c-4ddf-a482-007df3858a37#ref=rss)
-### plus
-
-* [https://www.spiegel.de/politik/deutschland/afd-plus-bsw-ex-cdu-generalsekretaer-polenz-bringt-hoecke-wagenknecht-regierung-ins-spiel](https://www.spiegel.de/politik/deutschland/afd-plus-bsw-ex-cdu-generalsekretaer-polenz-bringt-hoecke-wagenknecht-regierung-ins-spiel-a-5ef11465-2a7c-4ddf-a482-007df3858a37#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-diese-lebensmittel-preise-sind-am-staerksten-gestiegen](https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-diese-lebensmittel-preise-sind-am-staerksten-gestiegen-a-f8678a24-9c6b-4e66-99bc-8d7a9f2ff7f8#ref=rss)
-### ruprecht
-
-* [https://www.spiegel.de/politik/deutschland/afd-plus-bsw-ex-cdu-generalsekretaer-polenz-bringt-hoecke-wagenknecht-regierung-ins-spiel](https://www.spiegel.de/politik/deutschland/afd-plus-bsw-ex-cdu-generalsekretaer-polenz-bringt-hoecke-wagenknecht-regierung-ins-spiel-a-5ef11465-2a7c-4ddf-a482-007df3858a37#ref=rss)
-### polenz
-
-* [https://www.spiegel.de/politik/deutschland/afd-plus-bsw-ex-cdu-generalsekretaer-polenz-bringt-hoecke-wagenknecht-regierung-ins-spiel](https://www.spiegel.de/politik/deutschland/afd-plus-bsw-ex-cdu-generalsekretaer-polenz-bringt-hoecke-wagenknecht-regierung-ins-spiel-a-5ef11465-2a7c-4ddf-a482-007df3858a37#ref=rss)
-### pamela
-
-* [https://www.spiegel.de/kultur/kino/pamela-anderson-in-toronto-endlich-geht-es-einmal-nicht-um-sextapes-oder-ehemaenner](https://www.spiegel.de/kultur/kino/pamela-anderson-in-toronto-endlich-geht-es-einmal-nicht-um-sextapes-oder-ehemaenner-a-34412407-1e2a-43a1-a41a-0548bbce5de3#ref=rss)
-### anderson
-
-* [https://www.spiegel.de/kultur/kino/pamela-anderson-in-toronto-endlich-geht-es-einmal-nicht-um-sextapes-oder-ehemaenner](https://www.spiegel.de/kultur/kino/pamela-anderson-in-toronto-endlich-geht-es-einmal-nicht-um-sextapes-oder-ehemaenner-a-34412407-1e2a-43a1-a41a-0548bbce5de3#ref=rss)
-### toronto
-
-* [https://www.spiegel.de/kultur/kino/pamela-anderson-in-toronto-endlich-geht-es-einmal-nicht-um-sextapes-oder-ehemaenner](https://www.spiegel.de/kultur/kino/pamela-anderson-in-toronto-endlich-geht-es-einmal-nicht-um-sextapes-oder-ehemaenner-a-34412407-1e2a-43a1-a41a-0548bbce5de3#ref=rss)
+* [https://www.spiegel.de/panorama/paintball-waffe-maenner-sorgen-in-bayern-mit-schuessen-fuer-polizeieinsatz](https://www.spiegel.de/panorama/paintball-waffe-maenner-sorgen-in-bayern-mit-schuessen-fuer-polizeieinsatz-a-945eb074-cb59-4f85-992c-a9c35e890c2f#ref=rss)
+* [https://www.spiegel.de/panorama/schweiz-2200-touristen-sitzen-nach-erdrutsch-im-saastal-fest](https://www.spiegel.de/panorama/schweiz-2200-touristen-sitzen-nach-erdrutsch-im-saastal-fest-a-dc404d4b-9c97-4bbe-8262-6aec59b54b8d#ref=rss)
+* [https://www.spiegel.de/panorama/harz-waldbrand-am-brocken-weitet-sich-aus](https://www.spiegel.de/panorama/harz-waldbrand-am-brocken-weitet-sich-aus-a-e1e0ca6b-ddd7-42a9-ae4b-d9042ff1bb5a#ref=rss)
 ### new
 
-* [https://www.spiegel.de/ausland/new-york-im-angesagtesten-lokal-der-stadt-stehen-omas-am-herd-alle-gute-vom-spiegel](https://www.spiegel.de/ausland/new-york-im-angesagtesten-lokal-der-stadt-stehen-omas-am-herd-alle-gute-vom-spiegel-a-bc7b0250-30a4-4579-93f2-23ccbfbb51d2#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-us-behoerden-vereiteln-offenbar-terroranschlag-gegen-juedisches-zentrum-in-new-york](https://www.spiegel.de/ausland/new-york-us-behoerden-vereiteln-offenbar-terroranschlag-gegen-juedisches-zentrum-in-new-york-a-676bf998-e017-4f58-87a4-a4dcc7f11499#ref=rss)
 ### york
 
-* [https://www.spiegel.de/ausland/new-york-im-angesagtesten-lokal-der-stadt-stehen-omas-am-herd-alle-gute-vom-spiegel](https://www.spiegel.de/ausland/new-york-im-angesagtesten-lokal-der-stadt-stehen-omas-am-herd-alle-gute-vom-spiegel-a-bc7b0250-30a4-4579-93f2-23ccbfbb51d2#ref=rss)
-### stadt
+* [https://www.spiegel.de/ausland/new-york-us-behoerden-vereiteln-offenbar-terroranschlag-gegen-juedisches-zentrum-in-new-york](https://www.spiegel.de/ausland/new-york-us-behoerden-vereiteln-offenbar-terroranschlag-gegen-juedisches-zentrum-in-new-york-a-676bf998-e017-4f58-87a4-a4dcc7f11499#ref=rss)
+### kroatien
 
-* [https://www.spiegel.de/ausland/new-york-im-angesagtesten-lokal-der-stadt-stehen-omas-am-herd-alle-gute-vom-spiegel](https://www.spiegel.de/ausland/new-york-im-angesagtesten-lokal-der-stadt-stehen-omas-am-herd-alle-gute-vom-spiegel-a-bc7b0250-30a4-4579-93f2-23ccbfbb51d2#ref=rss)
-* [https://www.spiegel.de/ausland/westjordanland-amerikanische-aktivistin-bei-siedlungsprotest-getoetet-usa-fordern-aufklaerung](https://www.spiegel.de/ausland/westjordanland-amerikanische-aktivistin-bei-siedlungsprotest-getoetet-usa-fordern-aufklaerung-a-a6c4db92-b544-43ca-8985-5ab44d7d363b#ref=rss)
+* [https://www.spiegel.de/panorama/kroatien-braunbaer-beisst-spaziergaenger-im-nationalpark-plitvicer-seen](https://www.spiegel.de/panorama/kroatien-braunbaer-beisst-spaziergaenger-im-nationalpark-plitvicer-seen-a-4bc3899b-747e-4e7d-8fba-df980b3531b6#ref=rss)
+### spaziergänger
+
+* [https://www.spiegel.de/panorama/kroatien-braunbaer-beisst-spaziergaenger-im-nationalpark-plitvicer-seen](https://www.spiegel.de/panorama/kroatien-braunbaer-beisst-spaziergaenger-im-nationalpark-plitvicer-seen-a-4bc3899b-747e-4e7d-8fba-df980b3531b6#ref=rss)
+### nationalpark
+
+* [https://www.spiegel.de/panorama/kroatien-braunbaer-beisst-spaziergaenger-im-nationalpark-plitvicer-seen](https://www.spiegel.de/panorama/kroatien-braunbaer-beisst-spaziergaenger-im-nationalpark-plitvicer-seen-a-4bc3899b-747e-4e7d-8fba-df980b3531b6#ref=rss)
+### besonders
+
+* [https://www.spiegel.de/panorama/kroatien-braunbaer-beisst-spaziergaenger-im-nationalpark-plitvicer-seen](https://www.spiegel.de/panorama/kroatien-braunbaer-beisst-spaziergaenger-im-nationalpark-plitvicer-seen-a-4bc3899b-747e-4e7d-8fba-df980b3531b6#ref=rss)
+* [https://www.spiegel.de/sport/olympia/paralympics-2024-deutsche-rollstuhlbasketballer-holen-sensationelle-medaille](https://www.spiegel.de/sport/olympia/paralympics-2024-deutsche-rollstuhlbasketballer-holen-sensationelle-medaille-a-2e9951f4-a7ce-451b-92a8-432949880056#ref=rss)
+### jürgen
+
+* [https://www.spiegel.de/sport/fussball/bvb-legendspiel-juergen-klopp-und-seine-stars-von-damals-in-bildern](https://www.spiegel.de/sport/fussball/bvb-legendspiel-juergen-klopp-und-seine-stars-von-damals-in-bildern-a-b5dc2619-d30c-4813-acc3-b163676d630e#ref=rss)
+### klopp
+
+* [https://www.spiegel.de/sport/fussball/bvb-legendspiel-juergen-klopp-und-seine-stars-von-damals-in-bildern](https://www.spiegel.de/sport/fussball/bvb-legendspiel-juergen-klopp-und-seine-stars-von-damals-in-bildern-a-b5dc2619-d30c-4813-acc3-b163676d630e#ref=rss)
+### bildern
+
+* [https://www.spiegel.de/sport/fussball/bvb-legendspiel-juergen-klopp-und-seine-stars-von-damals-in-bildern](https://www.spiegel.de/sport/fussball/bvb-legendspiel-juergen-klopp-und-seine-stars-von-damals-in-bildern-a-b5dc2619-d30c-4813-acc3-b163676d630e#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/taylor-swift-donald-trump-kamala-harris-us-wahlkampf-mit-gefaelschten-promi-endorsements](https://www.spiegel.de/netzwelt/web/taylor-swift-donald-trump-kamala-harris-us-wahlkampf-mit-gefaelschten-promi-endorsements-a-9da60f4f-5964-4bf2-a771-25ccb2edb414#ref=rss)
+### frankreich
+
+* [https://www.spiegel.de/ausland/frankreich-tausende-demonstrieren-gegen-ernennung-von-michel-barnier](https://www.spiegel.de/ausland/frankreich-tausende-demonstrieren-gegen-ernennung-von-michel-barnier-a-f962c0ac-0d59-4284-8429-ce5c3e41dcfb#ref=rss)
+### tausende
+
+* [https://www.spiegel.de/ausland/frankreich-tausende-demonstrieren-gegen-ernennung-von-michel-barnier](https://www.spiegel.de/ausland/frankreich-tausende-demonstrieren-gegen-ernennung-von-michel-barnier-a-f962c0ac-0d59-4284-8429-ce5c3e41dcfb#ref=rss)
+### michel
+
+* [https://www.spiegel.de/ausland/frankreich-tausende-demonstrieren-gegen-ernennung-von-michel-barnier](https://www.spiegel.de/ausland/frankreich-tausende-demonstrieren-gegen-ernennung-von-michel-barnier-a-f962c0ac-0d59-4284-8429-ce5c3e41dcfb#ref=rss)
+### barnier
+
+* [https://www.spiegel.de/ausland/frankreich-tausende-demonstrieren-gegen-ernennung-von-michel-barnier](https://www.spiegel.de/ausland/frankreich-tausende-demonstrieren-gegen-ernennung-von-michel-barnier-a-f962c0ac-0d59-4284-8429-ce5c3e41dcfb#ref=rss)
+### land
+
+* [https://www.spiegel.de/ausland/frankreich-tausende-demonstrieren-gegen-ernennung-von-michel-barnier](https://www.spiegel.de/ausland/frankreich-tausende-demonstrieren-gegen-ernennung-von-michel-barnier-a-f962c0ac-0d59-4284-8429-ce5c3e41dcfb#ref=rss)
+* [https://www.spiegel.de/panorama/suedchina-mindestens-zwei-tote-und-viele-verletze-durch-taifun-yagi](https://www.spiegel.de/panorama/suedchina-mindestens-zwei-tote-und-viele-verletze-durch-taifun-yagi-a-675c7110-c013-4e4b-9363-58bbcad53925#ref=rss)
+### jörg
+
+* [https://www.spiegel.de/ausland/joerg-haider-was-bleibt-vom-erbe-des-populaeren-fpoe-chefs-podcast](https://www.spiegel.de/ausland/joerg-haider-was-bleibt-vom-erbe-des-populaeren-fpoe-chefs-podcast-a-ea51f137-5374-4111-a83f-eff270fbb091#ref=rss)
+### podcast
+
+* [https://www.spiegel.de/ausland/joerg-haider-was-bleibt-vom-erbe-des-populaeren-fpoe-chefs-podcast](https://www.spiegel.de/ausland/joerg-haider-was-bleibt-vom-erbe-des-populaeren-fpoe-chefs-podcast-a-ea51f137-5374-4111-a83f-eff270fbb091#ref=rss)
+* [https://www.spiegel.de/panorama/leute/luke-mockridge-macht-sich-ueber-behinderte-lustig-verbandspraesident-fordert-entschuldigung](https://www.spiegel.de/panorama/leute/luke-mockridge-macht-sich-ueber-behinderte-lustig-verbandspraesident-fordert-entschuldigung-a-21b40265-282e-4794-9623-d3eb7b97b41e#ref=rss)
+### caitlin
+
+* [https://www.spiegel.de/sport/surfen-caitlin-simmers-wird-juengste-surf-weltmeisterin-der-geschichte](https://www.spiegel.de/sport/surfen-caitlin-simmers-wird-juengste-surf-weltmeisterin-der-geschichte-a-e2ca215e-c73a-49cd-8375-7e1d6e084c50#ref=rss)
+### simmers
+
+* [https://www.spiegel.de/sport/surfen-caitlin-simmers-wird-juengste-surf-weltmeisterin-der-geschichte](https://www.spiegel.de/sport/surfen-caitlin-simmers-wird-juengste-surf-weltmeisterin-der-geschichte-a-e2ca215e-c73a-49cd-8375-7e1d6e084c50#ref=rss)
+### ich
+
+* [https://www.spiegel.de/sport/surfen-caitlin-simmers-wird-juengste-surf-weltmeisterin-der-geschichte](https://www.spiegel.de/sport/surfen-caitlin-simmers-wird-juengste-surf-weltmeisterin-der-geschichte-a-e2ca215e-c73a-49cd-8375-7e1d6e084c50#ref=rss)
+* [https://www.spiegel.de/stil/caprihosen-warum-die-dreiviertelhosen-problematisch-sind-und-ich-sie-trotzdem-trage](https://www.spiegel.de/stil/caprihosen-warum-die-dreiviertelhosen-problematisch-sind-und-ich-sie-trotzdem-trage-a-ffb8edc3-1266-4451-af07-74ff0b12b97e#ref=rss)
+### babelsberg
+
+* [https://www.spiegel.de/sport/fussball/babelsberg-03-gegen-energie-cottbus-spielerfrau-bei-pokalspiel-attackiert](https://www.spiegel.de/sport/fussball/babelsberg-03-gegen-energie-cottbus-spielerfrau-bei-pokalspiel-attackiert-a-11547115-a104-4111-8769-6786fc2fe7d2#ref=rss)
+### familie
+
+* [https://www.spiegel.de/sport/fussball/babelsberg-03-gegen-energie-cottbus-spielerfrau-bei-pokalspiel-attackiert](https://www.spiegel.de/sport/fussball/babelsberg-03-gegen-energie-cottbus-spielerfrau-bei-pokalspiel-attackiert-a-11547115-a104-4111-8769-6786fc2fe7d2#ref=rss)
+* [https://www.spiegel.de/karriere/unerfuellter-kinderwunsch-wie-der-wunsch-nach-kindern-die-karriere-beeinflusst](https://www.spiegel.de/karriere/unerfuellter-kinderwunsch-wie-der-wunsch-nach-kindern-die-karriere-beeinflusst-a-3f42b8e9-74a5-4c49-8d8d-04afb376a29b#ref=rss)
+### kanada
+
+* [https://www.spiegel.de/sport/olympia/paralympics-2024-deutsche-rollstuhlbasketballer-holen-sensationelle-medaille](https://www.spiegel.de/sport/olympia/paralympics-2024-deutsche-rollstuhlbasketballer-holen-sensationelle-medaille-a-2e9951f4-a7ce-451b-92a8-432949880056#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-us-behoerden-vereiteln-offenbar-terroranschlag-gegen-juedisches-zentrum-in-new-york](https://www.spiegel.de/ausland/new-york-us-behoerden-vereiteln-offenbar-terroranschlag-gegen-juedisches-zentrum-in-new-york-a-676bf998-e017-4f58-87a4-a4dcc7f11499#ref=rss)
+### bundespolizei
+
+* [https://www.spiegel.de/panorama/bundespolizei-taser-erprobung-soll-ausgeweitet-werden](https://www.spiegel.de/panorama/bundespolizei-taser-erprobung-soll-ausgeweitet-werden-a-4a6a76d5-3f62-4b5d-be6c-9c339a2b3e94#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/panorama/bundespolizei-taser-erprobung-soll-ausgeweitet-werden](https://www.spiegel.de/panorama/bundespolizei-taser-erprobung-soll-ausgeweitet-werden-a-4a6a76d5-3f62-4b5d-be6c-9c339a2b3e94#ref=rss)
+* [https://www.spiegel.de/panorama/warum-suedkorea-bald-kein-eigenes-kimchi-mehr-produzieren-koennte-klimawandel-bedroht-nationalgericht](https://www.spiegel.de/panorama/warum-suedkorea-bald-kein-eigenes-kimchi-mehr-produzieren-koennte-klimawandel-bedroht-nationalgericht-a-38f6dd14-feca-4431-aedb-3f42f52b77c3#ref=rss)
+### wagenknechtpartei
+
+* [https://www.spiegel.de/politik/deutschland/wagenknecht-partei-bsw-gruendet-landesverbaende-in-nrw-und-sachsen-anhalt](https://www.spiegel.de/politik/deutschland/wagenknecht-partei-bsw-gruendet-landesverbaende-in-nrw-und-sachsen-anhalt-a-239ba116-3ef6-4186-9ea4-ae0e24667867#ref=rss)
+### landesverbände
+
+* [https://www.spiegel.de/politik/deutschland/wagenknecht-partei-bsw-gruendet-landesverbaende-in-nrw-und-sachsen-anhalt](https://www.spiegel.de/politik/deutschland/wagenknecht-partei-bsw-gruendet-landesverbaende-in-nrw-und-sachsen-anhalt-a-239ba116-3ef6-4186-9ea4-ae0e24667867#ref=rss)
+### sachsenanhalt
+
+* [https://www.spiegel.de/politik/deutschland/wagenknecht-partei-bsw-gruendet-landesverbaende-in-nrw-und-sachsen-anhalt](https://www.spiegel.de/politik/deutschland/wagenknecht-partei-bsw-gruendet-landesverbaende-in-nrw-und-sachsen-anhalt-a-239ba116-3ef6-4186-9ea4-ae0e24667867#ref=rss)
+### weitet
+
+* [https://www.spiegel.de/politik/deutschland/wagenknecht-partei-bsw-gruendet-landesverbaende-in-nrw-und-sachsen-anhalt](https://www.spiegel.de/politik/deutschland/wagenknecht-partei-bsw-gruendet-landesverbaende-in-nrw-und-sachsen-anhalt-a-239ba116-3ef6-4186-9ea4-ae0e24667867#ref=rss)
+* [https://www.spiegel.de/panorama/harz-waldbrand-am-brocken-weitet-sich-aus](https://www.spiegel.de/panorama/harz-waldbrand-am-brocken-weitet-sich-aus-a-e1e0ca6b-ddd7-42a9-ae4b-d9042ff1bb5a#ref=rss)
+### bald
+
+* [https://www.spiegel.de/politik/deutschland/wagenknecht-partei-bsw-gruendet-landesverbaende-in-nrw-und-sachsen-anhalt](https://www.spiegel.de/politik/deutschland/wagenknecht-partei-bsw-gruendet-landesverbaende-in-nrw-und-sachsen-anhalt-a-239ba116-3ef6-4186-9ea4-ae0e24667867#ref=rss)
+* [https://www.spiegel.de/panorama/warum-suedkorea-bald-kein-eigenes-kimchi-mehr-produzieren-koennte-klimawandel-bedroht-nationalgericht](https://www.spiegel.de/panorama/warum-suedkorea-bald-kein-eigenes-kimchi-mehr-produzieren-koennte-klimawandel-bedroht-nationalgericht-a-38f6dd14-feca-4431-aedb-3f42f52b77c3#ref=rss)
+### vier
+
+* [https://www.spiegel.de/panorama/justiz/straubing-nach-flucht-aus-massregelvollzug-straftaeter-in-tuerkei-gefasst](https://www.spiegel.de/panorama/justiz/straubing-nach-flucht-aus-massregelvollzug-straftaeter-in-tuerkei-gefasst-a-0f4ee47a-8850-4343-becf-6361d74ecaa2#ref=rss)
+* [https://www.spiegel.de/panorama/paintball-waffe-maenner-sorgen-in-bayern-mit-schuessen-fuer-polizeieinsatz](https://www.spiegel.de/panorama/paintball-waffe-maenner-sorgen-in-bayern-mit-schuessen-fuer-polizeieinsatz-a-945eb074-cb59-4f85-992c-a9c35e890c2f#ref=rss)
+### mitte
+
+* [https://www.spiegel.de/panorama/justiz/straubing-nach-flucht-aus-massregelvollzug-straftaeter-in-tuerkei-gefasst](https://www.spiegel.de/panorama/justiz/straubing-nach-flucht-aus-massregelvollzug-straftaeter-in-tuerkei-gefasst-a-0f4ee47a-8850-4343-becf-6361d74ecaa2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-schwere-stoerung-im-zugverkehr-in-mitteldeutschland](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-schwere-stoerung-im-zugverkehr-in-mitteldeutschland-a-e8c3e36d-57f4-4531-933f-122d888d9d23#ref=rss)
+### festgenommen
+
+* [https://www.spiegel.de/panorama/justiz/straubing-nach-flucht-aus-massregelvollzug-straftaeter-in-tuerkei-gefasst](https://www.spiegel.de/panorama/justiz/straubing-nach-flucht-aus-massregelvollzug-straftaeter-in-tuerkei-gefasst-a-0f4ee47a-8850-4343-becf-6361d74ecaa2#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-us-behoerden-vereiteln-offenbar-terroranschlag-gegen-juedisches-zentrum-in-new-york](https://www.spiegel.de/ausland/new-york-us-behoerden-vereiteln-offenbar-terroranschlag-gegen-juedisches-zentrum-in-new-york-a-676bf998-e017-4f58-87a4-a4dcc7f11499#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/kultur/luke-mockridge-darf-sagen-was-er-will-und-er-will-offenbar-ekelhaft-sein](https://www.spiegel.de/kultur/luke-mockridge-darf-sagen-was-er-will-und-er-will-offenbar-ekelhaft-sein-a-5d5c2899-03bb-4387-bebf-722727e6a54c#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-us-behoerden-vereiteln-offenbar-terroranschlag-gegen-juedisches-zentrum-in-new-york](https://www.spiegel.de/ausland/new-york-us-behoerden-vereiteln-offenbar-terroranschlag-gegen-juedisches-zentrum-in-new-york-a-676bf998-e017-4f58-87a4-a4dcc7f11499#ref=rss)
+### comedian
+
+* [https://www.spiegel.de/kultur/luke-mockridge-darf-sagen-was-er-will-und-er-will-offenbar-ekelhaft-sein](https://www.spiegel.de/kultur/luke-mockridge-darf-sagen-was-er-will-und-er-will-offenbar-ekelhaft-sein-a-5d5c2899-03bb-4387-bebf-722727e6a54c#ref=rss)
+* [https://www.spiegel.de/panorama/leute/luke-mockridge-macht-sich-ueber-behinderte-lustig-verbandspraesident-fordert-entschuldigung](https://www.spiegel.de/panorama/leute/luke-mockridge-macht-sich-ueber-behinderte-lustig-verbandspraesident-fordert-entschuldigung-a-21b40265-282e-4794-9623-d3eb7b97b41e#ref=rss)
+### witze
+
+* [https://www.spiegel.de/kultur/luke-mockridge-darf-sagen-was-er-will-und-er-will-offenbar-ekelhaft-sein](https://www.spiegel.de/kultur/luke-mockridge-darf-sagen-was-er-will-und-er-will-offenbar-ekelhaft-sein-a-5d5c2899-03bb-4387-bebf-722727e6a54c#ref=rss)
+* [https://www.spiegel.de/panorama/leute/luke-mockridge-macht-sich-ueber-behinderte-lustig-verbandspraesident-fordert-entschuldigung](https://www.spiegel.de/panorama/leute/luke-mockridge-macht-sich-ueber-behinderte-lustig-verbandspraesident-fordert-entschuldigung-a-21b40265-282e-4794-9623-d3eb7b97b41e#ref=rss)
+### behinderte
+
+* [https://www.spiegel.de/kultur/luke-mockridge-darf-sagen-was-er-will-und-er-will-offenbar-ekelhaft-sein](https://www.spiegel.de/kultur/luke-mockridge-darf-sagen-was-er-will-und-er-will-offenbar-ekelhaft-sein-a-5d5c2899-03bb-4387-bebf-722727e6a54c#ref=rss)
+* [https://www.spiegel.de/panorama/leute/luke-mockridge-macht-sich-ueber-behinderte-lustig-verbandspraesident-fordert-entschuldigung](https://www.spiegel.de/panorama/leute/luke-mockridge-macht-sich-ueber-behinderte-lustig-verbandspraesident-fordert-entschuldigung-a-21b40265-282e-4794-9623-d3eb7b97b41e#ref=rss)
+### niemand
+
+* [https://www.spiegel.de/kultur/luke-mockridge-darf-sagen-was-er-will-und-er-will-offenbar-ekelhaft-sein](https://www.spiegel.de/kultur/luke-mockridge-darf-sagen-was-er-will-und-er-will-offenbar-ekelhaft-sein-a-5d5c2899-03bb-4387-bebf-722727e6a54c#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/taylor-swift-donald-trump-kamala-harris-us-wahlkampf-mit-gefaelschten-promi-endorsements](https://www.spiegel.de/netzwelt/web/taylor-swift-donald-trump-kamala-harris-us-wahlkampf-mit-gefaelschten-promi-endorsements-a-9da60f4f-5964-4bf2-a771-25ccb2edb414#ref=rss)
+### polizeieinsatz
+
+* [https://www.spiegel.de/panorama/justiz/lindau-am-bodensee-vermeintliche-machete-erweist-sich-bei-polizeieinsatz-als-kruecke](https://www.spiegel.de/panorama/justiz/lindau-am-bodensee-vermeintliche-machete-erweist-sich-bei-polizeieinsatz-als-kruecke-a-0f4f25bd-9c8c-4697-aef6-28bbaf144637#ref=rss)
+* [https://www.spiegel.de/panorama/paintball-waffe-maenner-sorgen-in-bayern-mit-schuessen-fuer-polizeieinsatz](https://www.spiegel.de/panorama/paintball-waffe-maenner-sorgen-in-bayern-mit-schuessen-fuer-polizeieinsatz-a-945eb074-cb59-4f85-992c-a9c35e890c2f#ref=rss)
+### krücke
+
+* [https://www.spiegel.de/panorama/justiz/lindau-am-bodensee-vermeintliche-machete-erweist-sich-bei-polizeieinsatz-als-kruecke](https://www.spiegel.de/panorama/justiz/lindau-am-bodensee-vermeintliche-machete-erweist-sich-bei-polizeieinsatz-als-kruecke-a-0f4f25bd-9c8c-4697-aef6-28bbaf144637#ref=rss)
+### ausbildung
+
+* [https://www.spiegel.de/start/ausbildung-in-der-pflege-mutter-und-tochter-sind-kolleginnen-in-einem-wohnheim](https://www.spiegel.de/start/ausbildung-in-der-pflege-mutter-und-tochter-sind-kolleginnen-in-einem-wohnheim-a-09ff5f12-eccb-4944-8b78-4ae02045f9a1#ref=rss)
+### tochter
+
+* [https://www.spiegel.de/start/ausbildung-in-der-pflege-mutter-und-tochter-sind-kolleginnen-in-einem-wohnheim](https://www.spiegel.de/start/ausbildung-in-der-pflege-mutter-und-tochter-sind-kolleginnen-in-einem-wohnheim-a-09ff5f12-eccb-4944-8b78-4ae02045f9a1#ref=rss)
+### donald
+
+* [https://www.spiegel.de/netzwelt/web/taylor-swift-donald-trump-kamala-harris-us-wahlkampf-mit-gefaelschten-promi-endorsements](https://www.spiegel.de/netzwelt/web/taylor-swift-donald-trump-kamala-harris-us-wahlkampf-mit-gefaelschten-promi-endorsements-a-9da60f4f-5964-4bf2-a771-25ccb2edb414#ref=rss)
+### trump
+
+* [https://www.spiegel.de/netzwelt/web/taylor-swift-donald-trump-kamala-harris-us-wahlkampf-mit-gefaelschten-promi-endorsements](https://www.spiegel.de/netzwelt/web/taylor-swift-donald-trump-kamala-harris-us-wahlkampf-mit-gefaelschten-promi-endorsements-a-9da60f4f-5964-4bf2-a771-25ccb2edb414#ref=rss)
+### gefälschten
+
+* [https://www.spiegel.de/netzwelt/web/taylor-swift-donald-trump-kamala-harris-us-wahlkampf-mit-gefaelschten-promi-endorsements](https://www.spiegel.de/netzwelt/web/taylor-swift-donald-trump-kamala-harris-us-wahlkampf-mit-gefaelschten-promi-endorsements-a-9da60f4f-5964-4bf2-a771-25ccb2edb414#ref=rss)
+### paintballwaffe
+
+* [https://www.spiegel.de/panorama/paintball-waffe-maenner-sorgen-in-bayern-mit-schuessen-fuer-polizeieinsatz](https://www.spiegel.de/panorama/paintball-waffe-maenner-sorgen-in-bayern-mit-schuessen-fuer-polizeieinsatz-a-945eb074-cb59-4f85-992c-a9c35e890c2f#ref=rss)
+### männer
+
+* [https://www.spiegel.de/panorama/paintball-waffe-maenner-sorgen-in-bayern-mit-schuessen-fuer-polizeieinsatz](https://www.spiegel.de/panorama/paintball-waffe-maenner-sorgen-in-bayern-mit-schuessen-fuer-polizeieinsatz-a-945eb074-cb59-4f85-992c-a9c35e890c2f#ref=rss)
+### queen
+
+* [https://www.spiegel.de/kultur/queen-elizabeth-diesen-witz-erzaehlte-sie-bei-ihrem-letzten-ausritt](https://www.spiegel.de/kultur/queen-elizabeth-diesen-witz-erzaehlte-sie-bei-ihrem-letzten-ausritt-a-5a79c444-7cc2-43e0-8ce4-1d2625a8f653#ref=rss)
+### elizabeth
+
+* [https://www.spiegel.de/kultur/queen-elizabeth-diesen-witz-erzaehlte-sie-bei-ihrem-letzten-ausritt](https://www.spiegel.de/kultur/queen-elizabeth-diesen-witz-erzaehlte-sie-bei-ihrem-letzten-ausritt-a-5a79c444-7cc2-43e0-8ce4-1d2625a8f653#ref=rss)
+### witz
+
+* [https://www.spiegel.de/kultur/queen-elizabeth-diesen-witz-erzaehlte-sie-bei-ihrem-letzten-ausritt](https://www.spiegel.de/kultur/queen-elizabeth-diesen-witz-erzaehlte-sie-bei-ihrem-letzten-ausritt-a-5a79c444-7cc2-43e0-8ce4-1d2625a8f653#ref=rss)
+### ausritt
+
+* [https://www.spiegel.de/kultur/queen-elizabeth-diesen-witz-erzaehlte-sie-bei-ihrem-letzten-ausritt](https://www.spiegel.de/kultur/queen-elizabeth-diesen-witz-erzaehlte-sie-bei-ihrem-letzten-ausritt-a-5a79c444-7cc2-43e0-8ce4-1d2625a8f653#ref=rss)
 ### bahn
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-faehrt-weiterhin-container-durch-russland](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-faehrt-weiterhin-container-durch-russland-a-a34637fa-6b41-4ef9-a9e4-d1fbf87c688f#ref=rss)
-### russland
+* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-schwere-stoerung-im-zugverkehr-in-mitteldeutschland](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-schwere-stoerung-im-zugverkehr-in-mitteldeutschland-a-e8c3e36d-57f4-4531-933f-122d888d9d23#ref=rss)
+### daniel
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-faehrt-weiterhin-container-durch-russland](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-faehrt-weiterhin-container-durch-russland-a-a34637fa-6b41-4ef9-a9e4-d1fbf87c688f#ref=rss)
-### getötet
+* [https://www.spiegel.de/sport/fussball/daniel-peretz-und-saengerin-noa-kirel-geben-verlobung-bei-instagram-bekannt](https://www.spiegel.de/sport/fussball/daniel-peretz-und-saengerin-noa-kirel-geben-verlobung-bei-instagram-bekannt-a-55c36282-866c-4d20-bad0-3fa2b51fd211#ref=rss)
+### peretz
 
-* [https://www.spiegel.de/ausland/westjordanland-amerikanische-aktivistin-bei-siedlungsprotest-getoetet-usa-fordern-aufklaerung](https://www.spiegel.de/ausland/westjordanland-amerikanische-aktivistin-bei-siedlungsprotest-getoetet-usa-fordern-aufklaerung-a-a6c4db92-b544-43ca-8985-5ab44d7d363b#ref=rss)
-### verkündet
+* [https://www.spiegel.de/sport/fussball/daniel-peretz-und-saengerin-noa-kirel-geben-verlobung-bei-instagram-bekannt](https://www.spiegel.de/sport/fussball/daniel-peretz-und-saengerin-noa-kirel-geben-verlobung-bei-instagram-bekannt-a-55c36282-866c-4d20-bad0-3fa2b51fd211#ref=rss)
+### sängerin
 
-* [https://www.spiegel.de/ausland/donald-trump-strafmass-im-schweigegeldprozess-wird-erst-nach-der-wahl-verkuendet](https://www.spiegel.de/ausland/donald-trump-strafmass-im-schweigegeldprozess-wird-erst-nach-der-wahl-verkuendet-a-e2ad60de-224e-45e1-a816-1354986676b1#ref=rss)
-### expräsident
+* [https://www.spiegel.de/sport/fussball/daniel-peretz-und-saengerin-noa-kirel-geben-verlobung-bei-instagram-bekannt](https://www.spiegel.de/sport/fussball/daniel-peretz-und-saengerin-noa-kirel-geben-verlobung-bei-instagram-bekannt-a-55c36282-866c-4d20-bad0-3fa2b51fd211#ref=rss)
+### noa
 
-* [https://www.spiegel.de/ausland/donald-trump-strafmass-im-schweigegeldprozess-wird-erst-nach-der-wahl-verkuendet](https://www.spiegel.de/ausland/donald-trump-strafmass-im-schweigegeldprozess-wird-erst-nach-der-wahl-verkuendet-a-e2ad60de-224e-45e1-a816-1354986676b1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-olaf-scholz-elon-musk](https://www.spiegel.de/politik/deutschland/news-donald-trump-olaf-scholz-elon-musk-a-dfb23622-e1cf-4c1c-9da0-d89be7027e27#ref=rss)
+* [https://www.spiegel.de/sport/fussball/daniel-peretz-und-saengerin-noa-kirel-geben-verlobung-bei-instagram-bekannt](https://www.spiegel.de/sport/fussball/daniel-peretz-und-saengerin-noa-kirel-geben-verlobung-bei-instagram-bekannt-a-55c36282-866c-4d20-bad0-3fa2b51fd211#ref=rss)
+### kirel
+
+* [https://www.spiegel.de/sport/fussball/daniel-peretz-und-saengerin-noa-kirel-geben-verlobung-bei-instagram-bekannt](https://www.spiegel.de/sport/fussball/daniel-peretz-und-saengerin-noa-kirel-geben-verlobung-bei-instagram-bekannt-a-55c36282-866c-4d20-bad0-3fa2b51fd211#ref=rss)
+### bekannt
+
+* [https://www.spiegel.de/sport/fussball/daniel-peretz-und-saengerin-noa-kirel-geben-verlobung-bei-instagram-bekannt](https://www.spiegel.de/sport/fussball/daniel-peretz-und-saengerin-noa-kirel-geben-verlobung-bei-instagram-bekannt-a-55c36282-866c-4d20-bad0-3fa2b51fd211#ref=rss)
+### spiele
+
+* [https://www.spiegel.de/sport/fussball/daniel-peretz-und-saengerin-noa-kirel-geben-verlobung-bei-instagram-bekannt](https://www.spiegel.de/sport/fussball/daniel-peretz-und-saengerin-noa-kirel-geben-verlobung-bei-instagram-bekannt-a-55c36282-866c-4d20-bad0-3fa2b51fd211#ref=rss)
+* [https://www.spiegel.de/panorama/leute/luke-mockridge-macht-sich-ueber-behinderte-lustig-verbandspraesident-fordert-entschuldigung](https://www.spiegel.de/panorama/leute/luke-mockridge-macht-sich-ueber-behinderte-lustig-verbandspraesident-fordert-entschuldigung-a-21b40265-282e-4794-9623-d3eb7b97b41e#ref=rss)
+### verletzt
+
+* [https://www.spiegel.de/sport/fussball/daniel-peretz-und-saengerin-noa-kirel-geben-verlobung-bei-instagram-bekannt](https://www.spiegel.de/sport/fussball/daniel-peretz-und-saengerin-noa-kirel-geben-verlobung-bei-instagram-bekannt-a-55c36282-866c-4d20-bad0-3fa2b51fd211#ref=rss)
+* [https://www.spiegel.de/panorama/suedchina-mindestens-zwei-tote-und-viele-verletze-durch-taifun-yagi](https://www.spiegel.de/panorama/suedchina-mindestens-zwei-tote-und-viele-verletze-durch-taifun-yagi-a-675c7110-c013-4e4b-9363-58bbcad53925#ref=rss)
+### gefunden
+
+* [https://www.spiegel.de/sport/fussball/daniel-peretz-und-saengerin-noa-kirel-geben-verlobung-bei-instagram-bekannt](https://www.spiegel.de/sport/fussball/daniel-peretz-und-saengerin-noa-kirel-geben-verlobung-bei-instagram-bekannt-a-55c36282-866c-4d20-bad0-3fa2b51fd211#ref=rss)
+* [https://www.spiegel.de/panorama/italien-leiche-von-vermisstem-charite-professor-marcus-maurer-gefunden](https://www.spiegel.de/panorama/italien-leiche-von-vermisstem-charite-professor-marcus-maurer-gefunden-a-1edf4be2-ce5d-4f24-bfee-861f531825f1#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/panorama/leute/luke-mockridge-macht-sich-ueber-behinderte-lustig-verbandspraesident-fordert-entschuldigung](https://www.spiegel.de/panorama/leute/luke-mockridge-macht-sich-ueber-behinderte-lustig-verbandspraesident-fordert-entschuldigung-a-21b40265-282e-4794-9623-d3eb7b97b41e#ref=rss)
+### entschuldigung
+
+* [https://www.spiegel.de/panorama/leute/luke-mockridge-macht-sich-ueber-behinderte-lustig-verbandspraesident-fordert-entschuldigung](https://www.spiegel.de/panorama/leute/luke-mockridge-macht-sich-ueber-behinderte-lustig-verbandspraesident-fordert-entschuldigung-a-21b40265-282e-4794-9623-d3eb7b97b41e#ref=rss)
+### jüdisches
+
+* [https://www.spiegel.de/ausland/new-york-us-behoerden-vereiteln-offenbar-terroranschlag-gegen-juedisches-zentrum-in-new-york](https://www.spiegel.de/ausland/new-york-us-behoerden-vereiteln-offenbar-terroranschlag-gegen-juedisches-zentrum-in-new-york-a-676bf998-e017-4f58-87a4-a4dcc7f11499#ref=rss)
+### zentrum
+
+* [https://www.spiegel.de/ausland/new-york-us-behoerden-vereiteln-offenbar-terroranschlag-gegen-juedisches-zentrum-in-new-york](https://www.spiegel.de/ausland/new-york-us-behoerden-vereiteln-offenbar-terroranschlag-gegen-juedisches-zentrum-in-new-york-a-676bf998-e017-4f58-87a4-a4dcc7f11499#ref=rss)
+### touristen
+
+* [https://www.spiegel.de/panorama/schweiz-2200-touristen-sitzen-nach-erdrutsch-im-saastal-fest](https://www.spiegel.de/panorama/schweiz-2200-touristen-sitzen-nach-erdrutsch-im-saastal-fest-a-dc404d4b-9c97-4bbe-8262-6aec59b54b8d#ref=rss)
+### erdrutsch
+
+* [https://www.spiegel.de/panorama/schweiz-2200-touristen-sitzen-nach-erdrutsch-im-saastal-fest](https://www.spiegel.de/panorama/schweiz-2200-touristen-sitzen-nach-erdrutsch-im-saastal-fest-a-dc404d4b-9c97-4bbe-8262-6aec59b54b8d#ref=rss)
+### meisten
+
+* [https://www.spiegel.de/panorama/schweiz-2200-touristen-sitzen-nach-erdrutsch-im-saastal-fest](https://www.spiegel.de/panorama/schweiz-2200-touristen-sitzen-nach-erdrutsch-im-saastal-fest-a-dc404d4b-9c97-4bbe-8262-6aec59b54b8d#ref=rss)
+* [https://www.spiegel.de/familie/sommerferien-die-wahrheit-ueber-familienurlaube](https://www.spiegel.de/familie/sommerferien-die-wahrheit-ueber-familienurlaube-a-dcc04216-99fb-48d0-8a65-468dfa9dac82#ref=rss)
+### hendrik
+
+* [https://www.spiegel.de/politik/deutschland/hendrik-streeck-warum-der-virologe-fuer-die-cdu-in-den-bundestag-will](https://www.spiegel.de/politik/deutschland/hendrik-streeck-warum-der-virologe-fuer-die-cdu-in-den-bundestag-will-a-01736220-e7c1-4823-b53c-651434f46322#ref=rss)
+### streeck
+
+* [https://www.spiegel.de/politik/deutschland/hendrik-streeck-warum-der-virologe-fuer-die-cdu-in-den-bundestag-will](https://www.spiegel.de/politik/deutschland/hendrik-streeck-warum-der-virologe-fuer-die-cdu-in-den-bundestag-will-a-01736220-e7c1-4823-b53c-651434f46322#ref=rss)
+### bundestag
+
+* [https://www.spiegel.de/politik/deutschland/hendrik-streeck-warum-der-virologe-fuer-die-cdu-in-den-bundestag-will](https://www.spiegel.de/politik/deutschland/hendrik-streeck-warum-der-virologe-fuer-die-cdu-in-den-bundestag-will-a-01736220-e7c1-4823-b53c-651434f46322#ref=rss)
+### südchina
+
+* [https://www.spiegel.de/panorama/suedchina-mindestens-zwei-tote-und-viele-verletze-durch-taifun-yagi](https://www.spiegel.de/panorama/suedchina-mindestens-zwei-tote-und-viele-verletze-durch-taifun-yagi-a-675c7110-c013-4e4b-9363-58bbcad53925#ref=rss)
+### mindestens
+
+* [https://www.spiegel.de/panorama/suedchina-mindestens-zwei-tote-und-viele-verletze-durch-taifun-yagi](https://www.spiegel.de/panorama/suedchina-mindestens-zwei-tote-und-viele-verletze-durch-taifun-yagi-a-675c7110-c013-4e4b-9363-58bbcad53925#ref=rss)
+### yagi
+
+* [https://www.spiegel.de/panorama/suedchina-mindestens-zwei-tote-und-viele-verletze-durch-taifun-yagi](https://www.spiegel.de/panorama/suedchina-mindestens-zwei-tote-und-viele-verletze-durch-taifun-yagi-a-675c7110-c013-4e4b-9363-58bbcad53925#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/panorama/suedchina-mindestens-zwei-tote-und-viele-verletze-durch-taifun-yagi](https://www.spiegel.de/panorama/suedchina-mindestens-zwei-tote-und-viele-verletze-durch-taifun-yagi-a-675c7110-c013-4e4b-9363-58bbcad53925#ref=rss)
+* [https://www.spiegel.de/stil/caprihosen-warum-die-dreiviertelhosen-problematisch-sind-und-ich-sie-trotzdem-trage](https://www.spiegel.de/stil/caprihosen-warum-die-dreiviertelhosen-problematisch-sind-und-ich-sie-trotzdem-trage-a-ffb8edc3-1266-4451-af07-74ff0b12b97e#ref=rss)
+### familienurlaube
+
+* [https://www.spiegel.de/familie/sommerferien-die-wahrheit-ueber-familienurlaube](https://www.spiegel.de/familie/sommerferien-die-wahrheit-ueber-familienurlaube-a-dcc04216-99fb-48d0-8a65-468dfa9dac82#ref=rss)
+### brocken
+
+* [https://www.spiegel.de/panorama/harz-waldbrand-am-brocken-weitet-sich-aus](https://www.spiegel.de/panorama/harz-waldbrand-am-brocken-weitet-sich-aus-a-e1e0ca6b-ddd7-42a9-ae4b-d9042ff1bb5a#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/panorama/warum-suedkorea-bald-kein-eigenes-kimchi-mehr-produzieren-koennte-klimawandel-bedroht-nationalgericht](https://www.spiegel.de/panorama/warum-suedkorea-bald-kein-eigenes-kimchi-mehr-produzieren-koennte-klimawandel-bedroht-nationalgericht-a-38f6dd14-feca-4431-aedb-3f42f52b77c3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-florian-kohfeldt-kehrt-als-trainer-nach-deutschland-zurueck-und-uebernimmt-bundesliga-absteiger-darmstadt](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-florian-kohfeldt-kehrt-als-trainer-nach-deutschland-zurueck-und-uebernimmt-bundesliga-absteiger-darmstadt-a-730b70b8-f379-45a7-ab63-f5af982b0ddc#ref=rss)
+### florian
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-florian-kohfeldt-kehrt-als-trainer-nach-deutschland-zurueck-und-uebernimmt-bundesliga-absteiger-darmstadt](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-florian-kohfeldt-kehrt-als-trainer-nach-deutschland-zurueck-und-uebernimmt-bundesliga-absteiger-darmstadt-a-730b70b8-f379-45a7-ab63-f5af982b0ddc#ref=rss)
+### kohfeldt
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-florian-kohfeldt-kehrt-als-trainer-nach-deutschland-zurueck-und-uebernimmt-bundesliga-absteiger-darmstadt](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-florian-kohfeldt-kehrt-als-trainer-nach-deutschland-zurueck-und-uebernimmt-bundesliga-absteiger-darmstadt-a-730b70b8-f379-45a7-ab63-f5af982b0ddc#ref=rss)
+### übernimmt
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-florian-kohfeldt-kehrt-als-trainer-nach-deutschland-zurueck-und-uebernimmt-bundesliga-absteiger-darmstadt](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-florian-kohfeldt-kehrt-als-trainer-nach-deutschland-zurueck-und-uebernimmt-bundesliga-absteiger-darmstadt-a-730b70b8-f379-45a7-ab63-f5af982b0ddc#ref=rss)
+### bundesligaabsteiger
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-florian-kohfeldt-kehrt-als-trainer-nach-deutschland-zurueck-und-uebernimmt-bundesliga-absteiger-darmstadt](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-florian-kohfeldt-kehrt-als-trainer-nach-deutschland-zurueck-und-uebernimmt-bundesliga-absteiger-darmstadt-a-730b70b8-f379-45a7-ab63-f5af982b0ddc#ref=rss)
+### darmstadt
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-florian-kohfeldt-kehrt-als-trainer-nach-deutschland-zurueck-und-uebernimmt-bundesliga-absteiger-darmstadt](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-florian-kohfeldt-kehrt-als-trainer-nach-deutschland-zurueck-und-uebernimmt-bundesliga-absteiger-darmstadt-a-730b70b8-f379-45a7-ab63-f5af982b0ddc#ref=rss)
+### leiche
+
+* [https://www.spiegel.de/panorama/italien-leiche-von-vermisstem-charite-professor-marcus-maurer-gefunden](https://www.spiegel.de/panorama/italien-leiche-von-vermisstem-charite-professor-marcus-maurer-gefunden-a-1edf4be2-ce5d-4f24-bfee-861f531825f1#ref=rss)
+### marcus
+
+* [https://www.spiegel.de/panorama/italien-leiche-von-vermisstem-charite-professor-marcus-maurer-gefunden](https://www.spiegel.de/panorama/italien-leiche-von-vermisstem-charite-professor-marcus-maurer-gefunden-a-1edf4be2-ce5d-4f24-bfee-861f531825f1#ref=rss)
+### maurer
+
+* [https://www.spiegel.de/panorama/italien-leiche-von-vermisstem-charite-professor-marcus-maurer-gefunden](https://www.spiegel.de/panorama/italien-leiche-von-vermisstem-charite-professor-marcus-maurer-gefunden-a-1edf4be2-ce5d-4f24-bfee-861f531825f1#ref=rss)
 
