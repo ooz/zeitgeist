@@ -4,414 +4,324 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### münchen
+### mehr
 
-* [https://www.spiegel.de/panorama/justiz/muenchen-attentaeter-von-muenchen-radikalisierte-sich-in-oesterreich](https://www.spiegel.de/panorama/justiz/muenchen-attentaeter-von-muenchen-radikalisierte-sich-in-oesterreich-a-7b4ccfed-04e5-47e8-a4dd-8227e0213ec6#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/muenchen-ermittler-rekonstruieren-anschlag-auf-israelisches-generalkonsulat-und-ns-dokumentationszentrum](https://www.spiegel.de/panorama/justiz/muenchen-ermittler-rekonstruieren-anschlag-auf-israelisches-generalkonsulat-und-ns-dokumentationszentrum-a-b0470d83-fe43-452d-aeae-e56d06abaf85#ref=rss)
-### deutschland
+* [https://www.spiegel.de/politik/extremwetter-und-klimawandel-die-ausnahme-wird-zur-regel-wie-gehen-wir-damit-um](https://www.spiegel.de/politik/extremwetter-und-klimawandel-die-ausnahme-wird-zur-regel-wie-gehen-wir-damit-um-a-eaa091ef-562d-47ed-a453-1ecc55497b05#ref=rss)
+* [https://www.spiegel.de/panorama/fahrlerer-ueber-fuehrerschein-kandidaten-warum-sind-da-drei-pedale-ich-hab-doch-nur-zwei-fuesse](https://www.spiegel.de/panorama/fahrlerer-ueber-fuehrerschein-kandidaten-warum-sind-da-drei-pedale-ich-hab-doch-nur-zwei-fuesse-a-ac297d64-ad4e-436b-ab6a-266d1266222f#ref=rss)
+* [https://www.spiegel.de/kultur/kino/filmfest-venedig-welche-filme-sich-lohnen-und-welche-eher-nicht](https://www.spiegel.de/kultur/kino/filmfest-venedig-welche-filme-sich-lohnen-und-welche-eher-nicht-a-6918152f-62f2-482a-a836-87741ddef324#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-im-angesagtesten-lokal-der-stadt-stehen-omas-am-herd-alle-gute-vom-spiegel](https://www.spiegel.de/ausland/new-york-im-angesagtesten-lokal-der-stadt-stehen-omas-am-herd-alle-gute-vom-spiegel-a-bc7b0250-30a4-4579-93f2-23ccbfbb51d2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-diese-lebensmittel-preise-sind-am-staerksten-gestiegen](https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-diese-lebensmittel-preise-sind-am-staerksten-gestiegen-a-f8678a24-9c6b-4e66-99bc-8d7a9f2ff7f8#ref=rss)
+### donald
 
-* [https://www.spiegel.de/panorama/justiz/muenchen-attentaeter-von-muenchen-radikalisierte-sich-in-oesterreich](https://www.spiegel.de/panorama/justiz/muenchen-attentaeter-von-muenchen-radikalisierte-sich-in-oesterreich-a-7b4ccfed-04e5-47e8-a4dd-8227e0213ec6#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-taliban-lassen-aus-deutschland-abgeschobene-straftaeter-wieder-frei](https://www.spiegel.de/ausland/afghanistan-taliban-lassen-aus-deutschland-abgeschobene-straftaeter-wieder-frei-a-1181ca8f-23fc-4af9-bb2d-c49062f09c0c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-olaf-scholz-fluechtlingspolitik-friedrich-merz-volkswagen](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-olaf-scholz-fluechtlingspolitik-friedrich-merz-volkswagen-a-db59b13c-811c-462d-ad9a-9e00c8e55701#ref=rss)
-* [https://www.spiegel.de/sport/fussball/marvin-plattenhardt-ex-hertha-profi-beendet-fussball-karriere-und-produziert-pistazienmilch](https://www.spiegel.de/sport/fussball/marvin-plattenhardt-ex-hertha-profi-beendet-fussball-karriere-und-produziert-pistazienmilch-a-f868f7c5-503d-4246-adfe-7b51134781b9#ref=rss)
-### afd
+* [https://www.spiegel.de/ausland/kamala-harris-oder-donald-trump-dieser-professor-will-schon-wissen-wer-gewinnt](https://www.spiegel.de/ausland/kamala-harris-oder-donald-trump-dieser-professor-will-schon-wissen-wer-gewinnt-a-5b75c452-9ce8-482d-aa0c-e5739f9e1933#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-strafmass-im-schweigegeldprozess-wird-erst-nach-der-wahl-verkuendet](https://www.spiegel.de/ausland/donald-trump-strafmass-im-schweigegeldprozess-wird-erst-nach-der-wahl-verkuendet-a-e2ad60de-224e-45e1-a816-1354986676b1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-olaf-scholz-elon-musk](https://www.spiegel.de/politik/deutschland/news-donald-trump-olaf-scholz-elon-musk-a-dfb23622-e1cf-4c1c-9da0-d89be7027e27#ref=rss)
+### trump
 
-* [https://www.spiegel.de/politik/deutschland/ukraine-konflikt-anton-hofreiter-attackiert-afd-und-bsw-als-kriegstreiber](https://www.spiegel.de/politik/deutschland/ukraine-konflikt-anton-hofreiter-attackiert-afd-und-bsw-als-kriegstreiber-a-928cf507-d603-46e5-9574-1b7299e13db3#ref=rss)
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt-a-8c19dd12-5d23-4ea3-823c-6781c702f099#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-strategie-nach-landtagswahlen-wie-der-hoecke-erfolg-die-afd-veraendert](https://www.spiegel.de/politik/deutschland/afd-strategie-nach-landtagswahlen-wie-der-hoecke-erfolg-die-afd-veraendert-a-17255df2-ff3b-415e-a8bc-8dcba8ddfbbb#ref=rss)
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast-a-3143358c-4edb-4fa9-8c4e-950425de2561#ref=rss)
-### thüringen
+* [https://www.spiegel.de/ausland/kamala-harris-oder-donald-trump-dieser-professor-will-schon-wissen-wer-gewinnt](https://www.spiegel.de/ausland/kamala-harris-oder-donald-trump-dieser-professor-will-schon-wissen-wer-gewinnt-a-5b75c452-9ce8-482d-aa0c-e5739f9e1933#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-strafmass-im-schweigegeldprozess-wird-erst-nach-der-wahl-verkuendet](https://www.spiegel.de/ausland/donald-trump-strafmass-im-schweigegeldprozess-wird-erst-nach-der-wahl-verkuendet-a-e2ad60de-224e-45e1-a816-1354986676b1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-olaf-scholz-elon-musk](https://www.spiegel.de/politik/deutschland/news-donald-trump-olaf-scholz-elon-musk-a-dfb23622-e1cf-4c1c-9da0-d89be7027e27#ref=rss)
+### bibi
 
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt-a-8c19dd12-5d23-4ea3-823c-6781c702f099#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-strategie-nach-landtagswahlen-wie-der-hoecke-erfolg-die-afd-veraendert](https://www.spiegel.de/politik/deutschland/afd-strategie-nach-landtagswahlen-wie-der-hoecke-erfolg-die-afd-veraendert-a-17255df2-ff3b-415e-a8bc-8dcba8ddfbbb#ref=rss)
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast-a-3143358c-4edb-4fa9-8c4e-950425de2561#ref=rss)
-### menschen
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-im-nahen-osten-bibi-ist-der-feind-bibi-ist-das-problem-aber-bibi-ist-auch-die-loesung](https://www.spiegel.de/politik/deutschland/annalena-baerbock-im-nahen-osten-bibi-ist-der-feind-bibi-ist-das-problem-aber-bibi-ist-auch-die-loesung-a-2b586d6b-c985-499b-8711-2198afa0d102#ref=rss)
+### wir
 
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt-a-8c19dd12-5d23-4ea3-823c-6781c702f099#ref=rss)
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast-a-3143358c-4edb-4fa9-8c4e-950425de2561#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-wahlerfolge-menschen-mit-migrationshintergrund-denken-ueber-wegzug-aus-der-heimat-nach](https://www.spiegel.de/politik/deutschland/afd-wahlerfolge-menschen-mit-migrationshintergrund-denken-ueber-wegzug-aus-der-heimat-nach-a-23b6fc70-63a9-4ba9-a680-0bc76004e583#ref=rss)
-### ukraine
+* [https://www.spiegel.de/panorama/justiz/illegale-autorennen-bei-tempo-250-auf-der-autobahn-haben-wir-abgebrochen](https://www.spiegel.de/panorama/justiz/illegale-autorennen-bei-tempo-250-auf-der-autobahn-haben-wir-abgebrochen-a-d0c4f12b-d797-4ca1-a5d4-8b24d392a50a#ref=rss)
+* [https://www.spiegel.de/gesundheit/was-wir-tun-koennen-um-unser-herz-zu-schuetzen-podcast](https://www.spiegel.de/gesundheit/was-wir-tun-koennen-um-unser-herz-zu-schuetzen-podcast-a-f7f71763-66ea-47a6-ab9d-9fe9ea7bc6c1#ref=rss)
+* [https://www.spiegel.de/psychologie/sonne-30-grad-der-sommer-geht-und-wir-sagen-tschuess](https://www.spiegel.de/psychologie/sonne-30-grad-der-sommer-geht-und-wir-sagen-tschuess-a-92c87277-76fa-4b48-bc48-d6d4524d7858#ref=rss)
+### ohne
 
-* [https://www.spiegel.de/politik/deutschland/ukraine-konflikt-anton-hofreiter-attackiert-afd-und-bsw-als-kriegstreiber](https://www.spiegel.de/politik/deutschland/ukraine-konflikt-anton-hofreiter-attackiert-afd-und-bsw-als-kriegstreiber-a-928cf507-d603-46e5-9574-1b7299e13db3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-olaf-scholz-bekraeftigt-deutschen-beistand-so-lange-wie-noetig](https://www.spiegel.de/politik/deutschland/ukraine-krieg-olaf-scholz-bekraeftigt-deutschen-beistand-so-lange-wie-noetig-a-cd827f06-66c6-49d7-af5c-4789ec4a71bc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ramstein-treffen-zur-ukraine-welche-zusaetzlichen-waffen-bekommt-die-ukraine-livestream](https://www.spiegel.de/politik/deutschland/ramstein-treffen-zur-ukraine-welche-zusaetzlichen-waffen-bekommt-die-ukraine-livestream-a-cb390655-6eee-4606-ba08-ba82bedad667#ref=rss)
-### jahre
+* [https://www.spiegel.de/wissenschaft/medizin/vogelgrippe-erstmals-mensch-ohne-kontakt-zu-tieren-an-der-vogelgrippe-erkrankt](https://www.spiegel.de/wissenschaft/medizin/vogelgrippe-erstmals-mensch-ohne-kontakt-zu-tieren-an-der-vogelgrippe-erkrankt-a-2537b689-213e-4e33-8d83-b79857ffe7f7#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/starliner-raumkapsel-landet-auf-der-erde-ohne-astronauten](https://www.spiegel.de/wissenschaft/weltall/starliner-raumkapsel-landet-auf-der-erde-ohne-astronauten-a-843ac440-aebf-4d96-9895-343df3b07f5e#ref=rss)
+### ich
 
-* [https://www.spiegel.de/panorama/justiz/frankreich-tochter-bezeichnet-angeklagten-als-einen-der-schlimmsten-sexualstraftaeter-der-vergangenen-20-jahre](https://www.spiegel.de/panorama/justiz/frankreich-tochter-bezeichnet-angeklagten-als-einen-der-schlimmsten-sexualstraftaeter-der-vergangenen-20-jahre-a-9a5f5360-55f5-4036-922d-e356cf422690#ref=rss)
-* [https://www.spiegel.de/kultur/musik/sergio-mendes-brasilianischer-jazzmusiker-im-alter-von-83-jahren-gestorben](https://www.spiegel.de/kultur/musik/sergio-mendes-brasilianischer-jazzmusiker-im-alter-von-83-jahren-gestorben-a-393640f1-6389-4e84-9d20-a425929d1ed6#ref=rss)
-* [https://www.spiegel.de/kultur/musik/the-the-ll-cool-j-hinds-international-music-album-der-woche](https://www.spiegel.de/kultur/musik/the-the-ll-cool-j-hinds-international-music-album-der-woche-a-a229e0c9-ae2f-47d0-8062-76a8e6a583f3#ref=rss)
-### scholz
+* [https://www.spiegel.de/sport/tennis/halbfinals-der-us-open-jack-draper-uebergibt-sich-vor-nervositaet-und-verliert-das-groesste-spiel-seines-lebens](https://www.spiegel.de/sport/tennis/halbfinals-der-us-open-jack-draper-uebergibt-sich-vor-nervositaet-und-verliert-das-groesste-spiel-seines-lebens-a-c0a4bec8-0a3d-47a9-bdb8-8f9dd1ab1dee#ref=rss)
+* [https://www.spiegel.de/panorama/fahrlerer-ueber-fuehrerschein-kandidaten-warum-sind-da-drei-pedale-ich-hab-doch-nur-zwei-fuesse](https://www.spiegel.de/panorama/fahrlerer-ueber-fuehrerschein-kandidaten-warum-sind-da-drei-pedale-ich-hab-doch-nur-zwei-fuesse-a-ac297d64-ad4e-436b-ab6a-266d1266222f#ref=rss)
+### 2025
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-olaf-scholz-fluechtlingspolitik-friedrich-merz-volkswagen](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-olaf-scholz-fluechtlingspolitik-friedrich-merz-volkswagen-a-db59b13c-811c-462d-ad9a-9e00c8e55701#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-olaf-scholz-bekraeftigt-deutschen-beistand-so-lange-wie-noetig](https://www.spiegel.de/politik/deutschland/ukraine-krieg-olaf-scholz-bekraeftigt-deutschen-beistand-so-lange-wie-noetig-a-cd827f06-66c6-49d7-af5c-4789ec4a71bc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ramstein-treffen-zur-ukraine-welche-zusaetzlichen-waffen-bekommt-die-ukraine-livestream](https://www.spiegel.de/politik/deutschland/ramstein-treffen-zur-ukraine-welche-zusaetzlichen-waffen-bekommt-die-ukraine-livestream-a-cb390655-6eee-4606-ba08-ba82bedad667#ref=rss)
-### neue
+* [https://www.spiegel.de/politik/deutschland/haushaltsdebatte-im-bundestag-der-schwindel-im-etatentwurf-fuer-2025](https://www.spiegel.de/politik/deutschland/haushaltsdebatte-im-bundestag-der-schwindel-im-etatentwurf-fuer-2025-a-765e2a77-960e-403b-844c-f28cbd082fdd#ref=rss)
+* [https://www.spiegel.de/politik/bundestagswahl-2025-olaf-scholz-sagt-boris-pistorius-wolle-ihn-als-kanzlerkandidat](https://www.spiegel.de/politik/bundestagswahl-2025-olaf-scholz-sagt-boris-pistorius-wolle-ihn-als-kanzlerkandidat-a-657ab594-a4f7-486e-958d-7acfb65f29d8#ref=rss)
+### erklärt
 
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-olaf-scholz-bekraeftigt-deutschen-beistand-so-lange-wie-noetig](https://www.spiegel.de/politik/deutschland/ukraine-krieg-olaf-scholz-bekraeftigt-deutschen-beistand-so-lange-wie-noetig-a-cd827f06-66c6-49d7-af5c-4789ec4a71bc#ref=rss)
-* [https://www.spiegel.de/sport/fussball/marvin-plattenhardt-ex-hertha-profi-beendet-fussball-karriere-und-produziert-pistazienmilch](https://www.spiegel.de/sport/fussball/marvin-plattenhardt-ex-hertha-profi-beendet-fussball-karriere-und-produziert-pistazienmilch-a-f868f7c5-503d-4246-adfe-7b51134781b9#ref=rss)
-* [https://www.spiegel.de/ausland/westjordanland-us-aktivistin-von-israelischer-armee-getoetet](https://www.spiegel.de/ausland/westjordanland-us-aktivistin-von-israelischer-armee-getoetet-a-07249e35-4c53-4112-bf76-1b605a7001a4#ref=rss)
-* [https://www.spiegel.de/auto/elektroautos-bundesregierung-plant-mit-foerderstopp-fuer-deutsche-batterieforschung](https://www.spiegel.de/auto/elektroautos-bundesregierung-plant-mit-foerderstopp-fuer-deutsche-batterieforschung-a-4fe4867a-5cd7-4d25-935b-933fd89ad211#ref=rss)
-### the
+* [https://www.spiegel.de/sport/fussball/jamal-musiala-keine-nominierung-fuer-den-goldenen-ball-france-football-erklaert-die-entscheidung](https://www.spiegel.de/sport/fussball/jamal-musiala-keine-nominierung-fuer-den-goldenen-ball-france-football-erklaert-die-entscheidung-a-b0895eb8-f6b8-4af8-ab06-10fbdeafdc32#ref=rss)
+* [https://www.spiegel.de/gesundheit/was-wir-tun-koennen-um-unser-herz-zu-schuetzen-podcast](https://www.spiegel.de/gesundheit/was-wir-tun-koennen-um-unser-herz-zu-schuetzen-podcast-a-f7f71763-66ea-47a6-ab9d-9fe9ea7bc6c1#ref=rss)
+* [https://www.spiegel.de/panorama/fahrlerer-ueber-fuehrerschein-kandidaten-warum-sind-da-drei-pedale-ich-hab-doch-nur-zwei-fuesse](https://www.spiegel.de/panorama/fahrlerer-ueber-fuehrerschein-kandidaten-warum-sind-da-drei-pedale-ich-hab-doch-nur-zwei-fuesse-a-ac297d64-ad4e-436b-ab6a-266d1266222f#ref=rss)
+### partei
 
-* [https://www.spiegel.de/kultur/musik/the-the-ll-cool-j-hinds-international-music-album-der-woche](https://www.spiegel.de/kultur/musik/the-the-ll-cool-j-hinds-international-music-album-der-woche-a-a229e0c9-ae2f-47d0-8062-76a8e6a583f3#ref=rss)
-### maria
-
-* [https://www.spiegel.de/ausland/italien-kulturminister-gennaro-sangiuliano-stolpert-ueber-affaere-mit-influencerin-maria-rosaria-boccia](https://www.spiegel.de/ausland/italien-kulturminister-gennaro-sangiuliano-stolpert-ueber-affaere-mit-influencerin-maria-rosaria-boccia-a-c75292c5-1f1f-4615-8d51-544cfe437cc9#ref=rss)
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt-a-8c19dd12-5d23-4ea3-823c-6781c702f099#ref=rss)
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast-a-3143358c-4edb-4fa9-8c4e-950425de2561#ref=rss)
-### bundesregierung
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-konflikt-anton-hofreiter-attackiert-afd-und-bsw-als-kriegstreiber](https://www.spiegel.de/politik/deutschland/ukraine-konflikt-anton-hofreiter-attackiert-afd-und-bsw-als-kriegstreiber-a-928cf507-d603-46e5-9574-1b7299e13db3#ref=rss)
-* [https://www.spiegel.de/auto/elektroautos-bundesregierung-plant-mit-foerderstopp-fuer-deutsche-batterieforschung](https://www.spiegel.de/auto/elektroautos-bundesregierung-plant-mit-foerderstopp-fuer-deutsche-batterieforschung-a-4fe4867a-5cd7-4d25-935b-933fd89ad211#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/hessen-afd-politiker-maximilian-mueger-verlaesst-nach-sturmgewehr-skandal-die-partei](https://www.spiegel.de/politik/deutschland/hessen-afd-politiker-maximilian-mueger-verlaesst-nach-sturmgewehr-skandal-die-partei-a-761c2c2b-151c-40b2-8728-3b3046bab382#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-plus-bsw-ex-cdu-generalsekretaer-polenz-bringt-hoecke-wagenknecht-regierung-ins-spiel](https://www.spiegel.de/politik/deutschland/afd-plus-bsw-ex-cdu-generalsekretaer-polenz-bringt-hoecke-wagenknecht-regierung-ins-spiel-a-5ef11465-2a7c-4ddf-a482-007df3858a37#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/politik/deutschland/ukraine-konflikt-anton-hofreiter-attackiert-afd-und-bsw-als-kriegstreiber](https://www.spiegel.de/politik/deutschland/ukraine-konflikt-anton-hofreiter-attackiert-afd-und-bsw-als-kriegstreiber-a-928cf507-d603-46e5-9574-1b7299e13db3#ref=rss)
-* [https://www.spiegel.de/sport/vuelta-a-espana-primoz-roglic-uebernimmt-gesamtfuehrung-und-steht-vor-rekordsieg](https://www.spiegel.de/sport/vuelta-a-espana-primoz-roglic-uebernimmt-gesamtfuehrung-und-steht-vor-rekordsieg-a-c52f3264-79f6-4c68-ab0c-c2f054ea8c95#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-strategie-nach-landtagswahlen-wie-der-hoecke-erfolg-die-afd-veraendert](https://www.spiegel.de/politik/deutschland/afd-strategie-nach-landtagswahlen-wie-der-hoecke-erfolg-die-afd-veraendert-a-17255df2-ff3b-415e-a8bc-8dcba8ddfbbb#ref=rss)
-### viele
-
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt-a-8c19dd12-5d23-4ea3-823c-6781c702f099#ref=rss)
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast-a-3143358c-4edb-4fa9-8c4e-950425de2561#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-wahlerfolge-menschen-mit-migrationshintergrund-denken-ueber-wegzug-aus-der-heimat-nach](https://www.spiegel.de/politik/deutschland/afd-wahlerfolge-menschen-mit-migrationshintergrund-denken-ueber-wegzug-aus-der-heimat-nach-a-23b6fc70-63a9-4ba9-a680-0bc76004e583#ref=rss)
-### land
-
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt-a-8c19dd12-5d23-4ea3-823c-6781c702f099#ref=rss)
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast-a-3143358c-4edb-4fa9-8c4e-950425de2561#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/grossbritannien-angriff-auf-asylbewerberunterkunft-mann-zu-neun-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/grossbritannien-angriff-auf-asylbewerberunterkunft-mann-zu-neun-jahren-haft-verurteilt-a-4bc250ba-f5bf-4b11-96cb-adcc7e6c9de5#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/kultur/musik/sergio-mendes-brasilianischer-jazzmusiker-im-alter-von-83-jahren-gestorben](https://www.spiegel.de/kultur/musik/sergio-mendes-brasilianischer-jazzmusiker-im-alter-von-83-jahren-gestorben-a-393640f1-6389-4e84-9d20-a425929d1ed6#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/grossbritannien-angriff-auf-asylbewerberunterkunft-mann-zu-neun-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/grossbritannien-angriff-auf-asylbewerberunterkunft-mann-zu-neun-jahren-haft-verurteilt-a-4bc250ba-f5bf-4b11-96cb-adcc7e6c9de5#ref=rss)
-* [https://www.spiegel.de/auto/elektroautos-bundesregierung-plant-mit-foerderstopp-fuer-deutsche-batterieforschung](https://www.spiegel.de/auto/elektroautos-bundesregierung-plant-mit-foerderstopp-fuer-deutsche-batterieforschung-a-4fe4867a-5cd7-4d25-935b-933fd89ad211#ref=rss)
-### vater
-
-* [https://www.spiegel.de/panorama/justiz/georgia-toedliche-schuesse-an-high-school-vater-und-sohn-drohen-lebenslange-haft](https://www.spiegel.de/panorama/justiz/georgia-toedliche-schuesse-an-high-school-vater-und-sohn-drohen-lebenslange-haft-a-cbff2e3c-e4c2-47c7-bbe8-d4f6359a857d#ref=rss)
-### gefängnis
-
-* [https://www.spiegel.de/panorama/justiz/georgia-toedliche-schuesse-an-high-school-vater-und-sohn-drohen-lebenslange-haft](https://www.spiegel.de/panorama/justiz/georgia-toedliche-schuesse-an-high-school-vater-und-sohn-drohen-lebenslange-haft-a-cbff2e3c-e4c2-47c7-bbe8-d4f6359a857d#ref=rss)
-* [https://www.spiegel.de/panorama/leute/fyre-ii-festival-soll-stattfinden-dieses-mal-aber-wirklich-sagt-billy-mcfarland](https://www.spiegel.de/panorama/leute/fyre-ii-festival-soll-stattfinden-dieses-mal-aber-wirklich-sagt-billy-mcfarland-a-c75111a9-730e-4997-bdad-7b4e3a777ea1#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-taliban-lassen-aus-deutschland-abgeschobene-straftaeter-wieder-frei](https://www.spiegel.de/ausland/afghanistan-taliban-lassen-aus-deutschland-abgeschobene-straftaeter-wieder-frei-a-1181ca8f-23fc-4af9-bb2d-c49062f09c0c#ref=rss)
-### heimat
-
-* [https://www.spiegel.de/ausland/afghanistan-taliban-lassen-aus-deutschland-abgeschobene-straftaeter-wieder-frei](https://www.spiegel.de/ausland/afghanistan-taliban-lassen-aus-deutschland-abgeschobene-straftaeter-wieder-frei-a-1181ca8f-23fc-4af9-bb2d-c49062f09c0c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-wahlerfolge-menschen-mit-migrationshintergrund-denken-ueber-wegzug-aus-der-heimat-nach](https://www.spiegel.de/politik/deutschland/afd-wahlerfolge-menschen-mit-migrationshintergrund-denken-ueber-wegzug-aus-der-heimat-nach-a-23b6fc70-63a9-4ba9-a680-0bc76004e583#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-olaf-scholz-fluechtlingspolitik-friedrich-merz-volkswagen](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-olaf-scholz-fluechtlingspolitik-friedrich-merz-volkswagen-a-db59b13c-811c-462d-ad9a-9e00c8e55701#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-olaf-scholz-bekraeftigt-deutschen-beistand-so-lange-wie-noetig](https://www.spiegel.de/politik/deutschland/ukraine-krieg-olaf-scholz-bekraeftigt-deutschen-beistand-so-lange-wie-noetig-a-cd827f06-66c6-49d7-af5c-4789ec4a71bc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ramstein-treffen-zur-ukraine-welche-zusaetzlichen-waffen-bekommt-die-ukraine-livestream](https://www.spiegel.de/politik/deutschland/ramstein-treffen-zur-ukraine-welche-zusaetzlichen-waffen-bekommt-die-ukraine-livestream-a-cb390655-6eee-4606-ba08-ba82bedad667#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-olaf-scholz-fluechtlingspolitik-friedrich-merz-volkswagen](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-olaf-scholz-fluechtlingspolitik-friedrich-merz-volkswagen-a-db59b13c-811c-462d-ad9a-9e00c8e55701#ref=rss)
-* [https://www.spiegel.de/panorama/nordsee-vor-borkum-gesunkene-jacht-ist-ein-deutsches-boot](https://www.spiegel.de/panorama/nordsee-vor-borkum-gesunkene-jacht-ist-ein-deutsches-boot-a-de17c9ad-4b65-4f0f-a369-0c5e623cb2dc#ref=rss)
-* [https://www.spiegel.de/auto/elektroautos-bundesregierung-plant-mit-foerderstopp-fuer-deutsche-batterieforschung](https://www.spiegel.de/auto/elektroautos-bundesregierung-plant-mit-foerderstopp-fuer-deutsche-batterieforschung-a-4fe4867a-5cd7-4d25-935b-933fd89ad211#ref=rss)
-### album
-
-* [https://www.spiegel.de/kultur/musik/the-the-ll-cool-j-hinds-international-music-album-der-woche](https://www.spiegel.de/kultur/musik/the-the-ll-cool-j-hinds-international-music-album-der-woche-a-a229e0c9-ae2f-47d0-8062-76a8e6a583f3#ref=rss)
-### österreich
-
-* [https://www.spiegel.de/panorama/justiz/muenchen-attentaeter-von-muenchen-radikalisierte-sich-in-oesterreich](https://www.spiegel.de/panorama/justiz/muenchen-attentaeter-von-muenchen-radikalisierte-sich-in-oesterreich-a-7b4ccfed-04e5-47e8-a4dd-8227e0213ec6#ref=rss)
-### emrah
-
-* [https://www.spiegel.de/panorama/justiz/muenchen-attentaeter-von-muenchen-radikalisierte-sich-in-oesterreich](https://www.spiegel.de/panorama/justiz/muenchen-attentaeter-von-muenchen-radikalisierte-sich-in-oesterreich-a-7b4ccfed-04e5-47e8-a4dd-8227e0213ec6#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/muenchen-ermittler-rekonstruieren-anschlag-auf-israelisches-generalkonsulat-und-ns-dokumentationszentrum](https://www.spiegel.de/panorama/justiz/muenchen-ermittler-rekonstruieren-anschlag-auf-israelisches-generalkonsulat-und-ns-dokumentationszentrum-a-b0470d83-fe43-452d-aeae-e56d06abaf85#ref=rss)
-### i
-
-* [https://www.spiegel.de/panorama/justiz/muenchen-attentaeter-von-muenchen-radikalisierte-sich-in-oesterreich](https://www.spiegel.de/panorama/justiz/muenchen-attentaeter-von-muenchen-radikalisierte-sich-in-oesterreich-a-7b4ccfed-04e5-47e8-a4dd-8227e0213ec6#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/muenchen-ermittler-rekonstruieren-anschlag-auf-israelisches-generalkonsulat-und-ns-dokumentationszentrum](https://www.spiegel.de/panorama/justiz/muenchen-ermittler-rekonstruieren-anschlag-auf-israelisches-generalkonsulat-und-ns-dokumentationszentrum-a-b0470d83-fe43-452d-aeae-e56d06abaf85#ref=rss)
-### ermittler
-
-* [https://www.spiegel.de/panorama/justiz/muenchen-ermittler-rekonstruieren-anschlag-auf-israelisches-generalkonsulat-und-ns-dokumentationszentrum](https://www.spiegel.de/panorama/justiz/muenchen-ermittler-rekonstruieren-anschlag-auf-israelisches-generalkonsulat-und-ns-dokumentationszentrum-a-b0470d83-fe43-452d-aeae-e56d06abaf85#ref=rss)
-### generalkonsulat
-
-* [https://www.spiegel.de/panorama/justiz/muenchen-ermittler-rekonstruieren-anschlag-auf-israelisches-generalkonsulat-und-ns-dokumentationszentrum](https://www.spiegel.de/panorama/justiz/muenchen-ermittler-rekonstruieren-anschlag-auf-israelisches-generalkonsulat-und-ns-dokumentationszentrum-a-b0470d83-fe43-452d-aeae-e56d06abaf85#ref=rss)
-### nsdokumentationszentrum
-
-* [https://www.spiegel.de/panorama/justiz/muenchen-ermittler-rekonstruieren-anschlag-auf-israelisches-generalkonsulat-und-ns-dokumentationszentrum](https://www.spiegel.de/panorama/justiz/muenchen-ermittler-rekonstruieren-anschlag-auf-israelisches-generalkonsulat-und-ns-dokumentationszentrum-a-b0470d83-fe43-452d-aeae-e56d06abaf85#ref=rss)
-### rekonstruiert
-
-* [https://www.spiegel.de/panorama/justiz/muenchen-ermittler-rekonstruieren-anschlag-auf-israelisches-generalkonsulat-und-ns-dokumentationszentrum](https://www.spiegel.de/panorama/justiz/muenchen-ermittler-rekonstruieren-anschlag-auf-israelisches-generalkonsulat-und-ns-dokumentationszentrum-a-b0470d83-fe43-452d-aeae-e56d06abaf85#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/flugsaurier-wie-hielten-sich-die-reptilien-in-der-luft-forscherinnen-und-forscher-geben-antworten](https://www.spiegel.de/wissenschaft/natur/flugsaurier-wie-hielten-sich-die-reptilien-in-der-luft-forscherinnen-und-forscher-geben-antworten-a-0f9f46c6-e142-4b9f-881f-a718bc782dae#ref=rss)
-### gennaro
-
-* [https://www.spiegel.de/ausland/italien-kulturminister-gennaro-sangiuliano-stolpert-ueber-affaere-mit-influencerin-maria-rosaria-boccia](https://www.spiegel.de/ausland/italien-kulturminister-gennaro-sangiuliano-stolpert-ueber-affaere-mit-influencerin-maria-rosaria-boccia-a-c75292c5-1f1f-4615-8d51-544cfe437cc9#ref=rss)
-### sangiuliano
-
-* [https://www.spiegel.de/ausland/italien-kulturminister-gennaro-sangiuliano-stolpert-ueber-affaere-mit-influencerin-maria-rosaria-boccia](https://www.spiegel.de/ausland/italien-kulturminister-gennaro-sangiuliano-stolpert-ueber-affaere-mit-influencerin-maria-rosaria-boccia-a-c75292c5-1f1f-4615-8d51-544cfe437cc9#ref=rss)
-### job
-
-* [https://www.spiegel.de/ausland/italien-kulturminister-gennaro-sangiuliano-stolpert-ueber-affaere-mit-influencerin-maria-rosaria-boccia](https://www.spiegel.de/ausland/italien-kulturminister-gennaro-sangiuliano-stolpert-ueber-affaere-mit-influencerin-maria-rosaria-boccia-a-c75292c5-1f1f-4615-8d51-544cfe437cc9#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/foerdergeldaffaere-ex-staatssekretaerin-sabine-doering-will-sprechen-darf-aber-nicht](https://www.spiegel.de/panorama/bildung/foerdergeldaffaere-ex-staatssekretaerin-sabine-doering-will-sprechen-darf-aber-nicht-a-c3c06310-fbaa-4ccc-865b-026ab29de9e9#ref=rss)
-### anton
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-konflikt-anton-hofreiter-attackiert-afd-und-bsw-als-kriegstreiber](https://www.spiegel.de/politik/deutschland/ukraine-konflikt-anton-hofreiter-attackiert-afd-und-bsw-als-kriegstreiber-a-928cf507-d603-46e5-9574-1b7299e13db3#ref=rss)
-### hofreiter
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-konflikt-anton-hofreiter-attackiert-afd-und-bsw-als-kriegstreiber](https://www.spiegel.de/politik/deutschland/ukraine-konflikt-anton-hofreiter-attackiert-afd-und-bsw-als-kriegstreiber-a-928cf507-d603-46e5-9574-1b7299e13db3#ref=rss)
-### bsw
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-konflikt-anton-hofreiter-attackiert-afd-und-bsw-als-kriegstreiber](https://www.spiegel.de/politik/deutschland/ukraine-konflikt-anton-hofreiter-attackiert-afd-und-bsw-als-kriegstreiber-a-928cf507-d603-46e5-9574-1b7299e13db3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-die-linkspartei-und-das-bsw-das-sahra-wagenknecht-dilemma-der-cdu](https://www.spiegel.de/politik/deutschland/friedrich-merz-die-linkspartei-und-das-bsw-das-sahra-wagenknecht-dilemma-der-cdu-a-d0d2f3df-2271-46ad-bdd9-2c7d86a71ee9#ref=rss)
-### tochter
-
-* [https://www.spiegel.de/panorama/justiz/frankreich-tochter-bezeichnet-angeklagten-als-einen-der-schlimmsten-sexualstraftaeter-der-vergangenen-20-jahre](https://www.spiegel.de/panorama/justiz/frankreich-tochter-bezeichnet-angeklagten-als-einen-der-schlimmsten-sexualstraftaeter-der-vergangenen-20-jahre-a-9a5f5360-55f5-4036-922d-e356cf422690#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/panorama/justiz/frankreich-tochter-bezeichnet-angeklagten-als-einen-der-schlimmsten-sexualstraftaeter-der-vergangenen-20-jahre](https://www.spiegel.de/panorama/justiz/frankreich-tochter-bezeichnet-angeklagten-als-einen-der-schlimmsten-sexualstraftaeter-der-vergangenen-20-jahre-a-9a5f5360-55f5-4036-922d-e356cf422690#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/foerdergeldaffaere-ex-staatssekretaerin-sabine-doering-will-sprechen-darf-aber-nicht](https://www.spiegel.de/panorama/bildung/foerdergeldaffaere-ex-staatssekretaerin-sabine-doering-will-sprechen-darf-aber-nicht-a-c3c06310-fbaa-4ccc-865b-026ab29de9e9#ref=rss)
-### vorwürfen
-
-* [https://www.spiegel.de/panorama/justiz/frankreich-tochter-bezeichnet-angeklagten-als-einen-der-schlimmsten-sexualstraftaeter-der-vergangenen-20-jahre](https://www.spiegel.de/panorama/justiz/frankreich-tochter-bezeichnet-angeklagten-als-einen-der-schlimmsten-sexualstraftaeter-der-vergangenen-20-jahre-a-9a5f5360-55f5-4036-922d-e356cf422690#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/foerdergeldaffaere-ex-staatssekretaerin-sabine-doering-will-sprechen-darf-aber-nicht](https://www.spiegel.de/panorama/bildung/foerdergeldaffaere-ex-staatssekretaerin-sabine-doering-will-sprechen-darf-aber-nicht-a-c3c06310-fbaa-4ccc-865b-026ab29de9e9#ref=rss)
-### afderfolg
-
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt-a-8c19dd12-5d23-4ea3-823c-6781c702f099#ref=rss)
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast-a-3143358c-4edb-4fa9-8c4e-950425de2561#ref=rss)
-### jeder
-
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt-a-8c19dd12-5d23-4ea3-823c-6781c702f099#ref=rss)
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast-a-3143358c-4edb-4fa9-8c4e-950425de2561#ref=rss)
-### dritte
-
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt-a-8c19dd12-5d23-4ea3-823c-6781c702f099#ref=rss)
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast-a-3143358c-4edb-4fa9-8c4e-950425de2561#ref=rss)
-### rechtsextrem
-
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt-a-8c19dd12-5d23-4ea3-823c-6781c702f099#ref=rss)
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast-a-3143358c-4edb-4fa9-8c4e-950425de2561#ref=rss)
-### wählt
-
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt-a-8c19dd12-5d23-4ea3-823c-6781c702f099#ref=rss)
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast-a-3143358c-4edb-4fa9-8c4e-950425de2561#ref=rss)
-### triumphiert
-
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt-a-8c19dd12-5d23-4ea3-823c-6781c702f099#ref=rss)
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast-a-3143358c-4edb-4fa9-8c4e-950425de2561#ref=rss)
-### wählen
-
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt-a-8c19dd12-5d23-4ea3-823c-6781c702f099#ref=rss)
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast-a-3143358c-4edb-4fa9-8c4e-950425de2561#ref=rss)
-### sondern
-
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt-a-8c19dd12-5d23-4ea3-823c-6781c702f099#ref=rss)
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast-a-3143358c-4edb-4fa9-8c4e-950425de2561#ref=rss)
-### extremen
-
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt-a-8c19dd12-5d23-4ea3-823c-6781c702f099#ref=rss)
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast-a-3143358c-4edb-4fa9-8c4e-950425de2561#ref=rss)
-### positionen
-
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt-a-8c19dd12-5d23-4ea3-823c-6781c702f099#ref=rss)
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast-a-3143358c-4edb-4fa9-8c4e-950425de2561#ref=rss)
-### fiedler
-
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt-a-8c19dd12-5d23-4ea3-823c-6781c702f099#ref=rss)
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast-a-3143358c-4edb-4fa9-8c4e-950425de2561#ref=rss)
-### spiegel
-
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt-a-8c19dd12-5d23-4ea3-823c-6781c702f099#ref=rss)
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast-a-3143358c-4edb-4fa9-8c4e-950425de2561#ref=rss)
-### gereist
-
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt-a-8c19dd12-5d23-4ea3-823c-6781c702f099#ref=rss)
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast-a-3143358c-4edb-4fa9-8c4e-950425de2561#ref=rss)
-### weiß
-
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt-a-8c19dd12-5d23-4ea3-823c-6781c702f099#ref=rss)
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast-a-3143358c-4edb-4fa9-8c4e-950425de2561#ref=rss)
-### sorgen
-
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt-a-8c19dd12-5d23-4ea3-823c-6781c702f099#ref=rss)
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast-a-3143358c-4edb-4fa9-8c4e-950425de2561#ref=rss)
-### mut
-
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt-a-8c19dd12-5d23-4ea3-823c-6781c702f099#ref=rss)
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast-a-3143358c-4edb-4fa9-8c4e-950425de2561#ref=rss)
-### macht
-
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-wenn-jeder-dritte-rechtsextrem-waehlt-a-8c19dd12-5d23-4ea3-823c-6781c702f099#ref=rss)
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast-a-3143358c-4edb-4fa9-8c4e-950425de2561#ref=rss)
-### fast
-
-* [https://www.spiegel.de/wirtschaft/soziales/krankenkassen-machen-2-2-milliarden-euro-minus-in-sechs-monaten](https://www.spiegel.de/wirtschaft/soziales/krankenkassen-machen-2-2-milliarden-euro-minus-in-sechs-monaten-a-d5a9e12f-7d21-40a3-a6a8-bde5b0feee8a#ref=rss)
-* [https://www.spiegel.de/sport/vuelta-a-espana-primoz-roglic-uebernimmt-gesamtfuehrung-und-steht-vor-rekordsieg](https://www.spiegel.de/sport/vuelta-a-espana-primoz-roglic-uebernimmt-gesamtfuehrung-und-steht-vor-rekordsieg-a-c52f3264-79f6-4c68-ab0c-c2f054ea8c95#ref=rss)
-### sérgio
-
-* [https://www.spiegel.de/kultur/musik/sergio-mendes-brasilianischer-jazzmusiker-im-alter-von-83-jahren-gestorben](https://www.spiegel.de/kultur/musik/sergio-mendes-brasilianischer-jazzmusiker-im-alter-von-83-jahren-gestorben-a-393640f1-6389-4e84-9d20-a425929d1ed6#ref=rss)
-### mendes
-
-* [https://www.spiegel.de/kultur/musik/sergio-mendes-brasilianischer-jazzmusiker-im-alter-von-83-jahren-gestorben](https://www.spiegel.de/kultur/musik/sergio-mendes-brasilianischer-jazzmusiker-im-alter-von-83-jahren-gestorben-a-393640f1-6389-4e84-9d20-a425929d1ed6#ref=rss)
-### alter
-
-* [https://www.spiegel.de/kultur/musik/sergio-mendes-brasilianischer-jazzmusiker-im-alter-von-83-jahren-gestorben](https://www.spiegel.de/kultur/musik/sergio-mendes-brasilianischer-jazzmusiker-im-alter-von-83-jahren-gestorben-a-393640f1-6389-4e84-9d20-a425929d1ed6#ref=rss)
-* [https://www.spiegel.de/kultur/musik/the-the-ll-cool-j-hinds-international-music-album-der-woche](https://www.spiegel.de/kultur/musik/the-the-ll-cool-j-hinds-international-music-album-der-woche-a-a229e0c9-ae2f-47d0-8062-76a8e6a583f3#ref=rss)
-### 83
-
-* [https://www.spiegel.de/kultur/musik/sergio-mendes-brasilianischer-jazzmusiker-im-alter-von-83-jahren-gestorben](https://www.spiegel.de/kultur/musik/sergio-mendes-brasilianischer-jazzmusiker-im-alter-von-83-jahren-gestorben-a-393640f1-6389-4e84-9d20-a425929d1ed6#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/kultur/musik/sergio-mendes-brasilianischer-jazzmusiker-im-alter-von-83-jahren-gestorben](https://www.spiegel.de/kultur/musik/sergio-mendes-brasilianischer-jazzmusiker-im-alter-von-83-jahren-gestorben-a-393640f1-6389-4e84-9d20-a425929d1ed6#ref=rss)
-### primož
-
-* [https://www.spiegel.de/sport/vuelta-a-espana-primoz-roglic-uebernimmt-gesamtfuehrung-und-steht-vor-rekordsieg](https://www.spiegel.de/sport/vuelta-a-espana-primoz-roglic-uebernimmt-gesamtfuehrung-und-steht-vor-rekordsieg-a-c52f3264-79f6-4c68-ab0c-c2f054ea8c95#ref=rss)
-### roglič
-
-* [https://www.spiegel.de/sport/vuelta-a-espana-primoz-roglic-uebernimmt-gesamtfuehrung-und-steht-vor-rekordsieg](https://www.spiegel.de/sport/vuelta-a-espana-primoz-roglic-uebernimmt-gesamtfuehrung-und-steht-vor-rekordsieg-a-c52f3264-79f6-4c68-ab0c-c2f054ea8c95#ref=rss)
-### sohn
-
-* [https://www.spiegel.de/panorama/justiz/georgia-toedliche-schuesse-an-high-school-vater-und-sohn-drohen-lebenslange-haft](https://www.spiegel.de/panorama/justiz/georgia-toedliche-schuesse-an-high-school-vater-und-sohn-drohen-lebenslange-haft-a-cbff2e3c-e4c2-47c7-bbe8-d4f6359a857d#ref=rss)
-### haft
-
-* [https://www.spiegel.de/panorama/justiz/georgia-toedliche-schuesse-an-high-school-vater-und-sohn-drohen-lebenslange-haft](https://www.spiegel.de/panorama/justiz/georgia-toedliche-schuesse-an-high-school-vater-und-sohn-drohen-lebenslange-haft-a-cbff2e3c-e4c2-47c7-bbe8-d4f6359a857d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/grossbritannien-angriff-auf-asylbewerberunterkunft-mann-zu-neun-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/grossbritannien-angriff-auf-asylbewerberunterkunft-mann-zu-neun-jahren-haft-verurteilt-a-4bc250ba-f5bf-4b11-96cb-adcc7e6c9de5#ref=rss)
-### fyre
-
-* [https://www.spiegel.de/panorama/leute/fyre-ii-festival-soll-stattfinden-dieses-mal-aber-wirklich-sagt-billy-mcfarland](https://www.spiegel.de/panorama/leute/fyre-ii-festival-soll-stattfinden-dieses-mal-aber-wirklich-sagt-billy-mcfarland-a-c75111a9-730e-4997-bdad-7b4e3a777ea1#ref=rss)
-### billy
-
-* [https://www.spiegel.de/panorama/leute/fyre-ii-festival-soll-stattfinden-dieses-mal-aber-wirklich-sagt-billy-mcfarland](https://www.spiegel.de/panorama/leute/fyre-ii-festival-soll-stattfinden-dieses-mal-aber-wirklich-sagt-billy-mcfarland-a-c75111a9-730e-4997-bdad-7b4e3a777ea1#ref=rss)
-### mcfarland
-
-* [https://www.spiegel.de/panorama/leute/fyre-ii-festival-soll-stattfinden-dieses-mal-aber-wirklich-sagt-billy-mcfarland](https://www.spiegel.de/panorama/leute/fyre-ii-festival-soll-stattfinden-dieses-mal-aber-wirklich-sagt-billy-mcfarland-a-c75111a9-730e-4997-bdad-7b4e3a777ea1#ref=rss)
-### taliban
-
-* [https://www.spiegel.de/ausland/afghanistan-taliban-lassen-aus-deutschland-abgeschobene-straftaeter-wieder-frei](https://www.spiegel.de/ausland/afghanistan-taliban-lassen-aus-deutschland-abgeschobene-straftaeter-wieder-frei-a-1181ca8f-23fc-4af9-bb2d-c49062f09c0c#ref=rss)
-### straftäter
-
-* [https://www.spiegel.de/ausland/afghanistan-taliban-lassen-aus-deutschland-abgeschobene-straftaeter-wieder-frei](https://www.spiegel.de/ausland/afghanistan-taliban-lassen-aus-deutschland-abgeschobene-straftaeter-wieder-frei-a-1181ca8f-23fc-4af9-bb2d-c49062f09c0c#ref=rss)
-### kamen
-
-* [https://www.spiegel.de/ausland/afghanistan-taliban-lassen-aus-deutschland-abgeschobene-straftaeter-wieder-frei](https://www.spiegel.de/ausland/afghanistan-taliban-lassen-aus-deutschland-abgeschobene-straftaeter-wieder-frei-a-1181ca8f-23fc-4af9-bb2d-c49062f09c0c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-olaf-scholz-bekraeftigt-deutschen-beistand-so-lange-wie-noetig](https://www.spiegel.de/politik/deutschland/ukraine-krieg-olaf-scholz-bekraeftigt-deutschen-beistand-so-lange-wie-noetig-a-cd827f06-66c6-49d7-af5c-4789ec4a71bc#ref=rss)
-### brasilien
-
-* [https://www.spiegel.de/sport/american-football/nfl-in-brasilien-weshalb-die-philadelphia-eagles-zum-saisonauftakt-kein-gruen-tragen](https://www.spiegel.de/sport/american-football/nfl-in-brasilien-weshalb-die-philadelphia-eagles-zum-saisonauftakt-kein-gruen-tragen-a-eb416576-d3bf-4e2f-be09-cb484e8acc93#ref=rss)
-### philadelphia
-
-* [https://www.spiegel.de/sport/american-football/nfl-in-brasilien-weshalb-die-philadelphia-eagles-zum-saisonauftakt-kein-gruen-tragen](https://www.spiegel.de/sport/american-football/nfl-in-brasilien-weshalb-die-philadelphia-eagles-zum-saisonauftakt-kein-gruen-tragen-a-eb416576-d3bf-4e2f-be09-cb484e8acc93#ref=rss)
-### eagles
-
-* [https://www.spiegel.de/sport/american-football/nfl-in-brasilien-weshalb-die-philadelphia-eagles-zum-saisonauftakt-kein-gruen-tragen](https://www.spiegel.de/sport/american-football/nfl-in-brasilien-weshalb-die-philadelphia-eagles-zum-saisonauftakt-kein-gruen-tragen-a-eb416576-d3bf-4e2f-be09-cb484e8acc93#ref=rss)
+* [https://www.spiegel.de/panorama/fahrlerer-ueber-fuehrerschein-kandidaten-warum-sind-da-drei-pedale-ich-hab-doch-nur-zwei-fuesse](https://www.spiegel.de/panorama/fahrlerer-ueber-fuehrerschein-kandidaten-warum-sind-da-drei-pedale-ich-hab-doch-nur-zwei-fuesse-a-ac297d64-ad4e-436b-ab6a-266d1266222f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/starliner-raumkapsel-landet-auf-der-erde-ohne-astronauten](https://www.spiegel.de/wissenschaft/weltall/starliner-raumkapsel-landet-auf-der-erde-ohne-astronauten-a-843ac440-aebf-4d96-9895-343df3b07f5e#ref=rss)
+* [https://www.spiegel.de/panorama/bundeswehr-deutsche-fregatte-soll-durch-die-strasse-von-taiwan-fahren](https://www.spiegel.de/panorama/bundeswehr-deutsche-fregatte-soll-durch-die-strasse-von-taiwan-fahren-a-8160df14-08a2-41f6-9f51-523de2f3013e#ref=rss)
 ### olaf
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-olaf-scholz-fluechtlingspolitik-friedrich-merz-volkswagen](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-olaf-scholz-fluechtlingspolitik-friedrich-merz-volkswagen-a-db59b13c-811c-462d-ad9a-9e00c8e55701#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-olaf-scholz-bekraeftigt-deutschen-beistand-so-lange-wie-noetig](https://www.spiegel.de/politik/deutschland/ukraine-krieg-olaf-scholz-bekraeftigt-deutschen-beistand-so-lange-wie-noetig-a-cd827f06-66c6-49d7-af5c-4789ec4a71bc#ref=rss)
-### friedrich
+* [https://www.spiegel.de/politik/bundestagswahl-2025-olaf-scholz-sagt-boris-pistorius-wolle-ihn-als-kanzlerkandidat](https://www.spiegel.de/politik/bundestagswahl-2025-olaf-scholz-sagt-boris-pistorius-wolle-ihn-als-kanzlerkandidat-a-657ab594-a4f7-486e-958d-7acfb65f29d8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-olaf-scholz-elon-musk](https://www.spiegel.de/politik/deutschland/news-donald-trump-olaf-scholz-elon-musk-a-dfb23622-e1cf-4c1c-9da0-d89be7027e27#ref=rss)
+### scholz
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-olaf-scholz-fluechtlingspolitik-friedrich-merz-volkswagen](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-olaf-scholz-fluechtlingspolitik-friedrich-merz-volkswagen-a-db59b13c-811c-462d-ad9a-9e00c8e55701#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-die-linkspartei-und-das-bsw-das-sahra-wagenknecht-dilemma-der-cdu](https://www.spiegel.de/politik/deutschland/friedrich-merz-die-linkspartei-und-das-bsw-das-sahra-wagenknecht-dilemma-der-cdu-a-d0d2f3df-2271-46ad-bdd9-2c7d86a71ee9#ref=rss)
-### merz
+* [https://www.spiegel.de/politik/bundestagswahl-2025-olaf-scholz-sagt-boris-pistorius-wolle-ihn-als-kanzlerkandidat](https://www.spiegel.de/politik/bundestagswahl-2025-olaf-scholz-sagt-boris-pistorius-wolle-ihn-als-kanzlerkandidat-a-657ab594-a4f7-486e-958d-7acfb65f29d8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-olaf-scholz-elon-musk](https://www.spiegel.de/politik/deutschland/news-donald-trump-olaf-scholz-elon-musk-a-dfb23622-e1cf-4c1c-9da0-d89be7027e27#ref=rss)
+### boris
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-olaf-scholz-fluechtlingspolitik-friedrich-merz-volkswagen](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-olaf-scholz-fluechtlingspolitik-friedrich-merz-volkswagen-a-db59b13c-811c-462d-ad9a-9e00c8e55701#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-die-linkspartei-und-das-bsw-das-sahra-wagenknecht-dilemma-der-cdu](https://www.spiegel.de/politik/deutschland/friedrich-merz-die-linkspartei-und-das-bsw-das-sahra-wagenknecht-dilemma-der-cdu-a-d0d2f3df-2271-46ad-bdd9-2c7d86a71ee9#ref=rss)
-### eigenen
+* [https://www.spiegel.de/politik/bundestagswahl-2025-olaf-scholz-sagt-boris-pistorius-wolle-ihn-als-kanzlerkandidat](https://www.spiegel.de/politik/bundestagswahl-2025-olaf-scholz-sagt-boris-pistorius-wolle-ihn-als-kanzlerkandidat-a-657ab594-a4f7-486e-958d-7acfb65f29d8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-olaf-scholz-elon-musk](https://www.spiegel.de/politik/deutschland/news-donald-trump-olaf-scholz-elon-musk-a-dfb23622-e1cf-4c1c-9da0-d89be7027e27#ref=rss)
+### pistorius
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-olaf-scholz-fluechtlingspolitik-friedrich-merz-volkswagen](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-olaf-scholz-fluechtlingspolitik-friedrich-merz-volkswagen-a-db59b13c-811c-462d-ad9a-9e00c8e55701#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-die-linkspartei-und-das-bsw-das-sahra-wagenknecht-dilemma-der-cdu](https://www.spiegel.de/politik/deutschland/friedrich-merz-die-linkspartei-und-das-bsw-das-sahra-wagenknecht-dilemma-der-cdu-a-d0d2f3df-2271-46ad-bdd9-2c7d86a71ee9#ref=rss)
-### deutschen
+* [https://www.spiegel.de/politik/bundestagswahl-2025-olaf-scholz-sagt-boris-pistorius-wolle-ihn-als-kanzlerkandidat](https://www.spiegel.de/politik/bundestagswahl-2025-olaf-scholz-sagt-boris-pistorius-wolle-ihn-als-kanzlerkandidat-a-657ab594-a4f7-486e-958d-7acfb65f29d8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-olaf-scholz-elon-musk](https://www.spiegel.de/politik/deutschland/news-donald-trump-olaf-scholz-elon-musk-a-dfb23622-e1cf-4c1c-9da0-d89be7027e27#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-olaf-scholz-bekraeftigt-deutschen-beistand-so-lange-wie-noetig](https://www.spiegel.de/politik/deutschland/ukraine-krieg-olaf-scholz-bekraeftigt-deutschen-beistand-so-lange-wie-noetig-a-cd827f06-66c6-49d7-af5c-4789ec4a71bc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-wahlerfolge-menschen-mit-migrationshintergrund-denken-ueber-wegzug-aus-der-heimat-nach](https://www.spiegel.de/politik/deutschland/afd-wahlerfolge-menschen-mit-migrationshintergrund-denken-ueber-wegzug-aus-der-heimat-nach-a-23b6fc70-63a9-4ba9-a680-0bc76004e583#ref=rss)
+* [https://www.spiegel.de/panorama/bundeswehr-deutsche-fregatte-soll-durch-die-strasse-von-taiwan-fahren](https://www.spiegel.de/panorama/bundeswehr-deutsche-fregatte-soll-durch-die-strasse-von-taiwan-fahren-a-8160df14-08a2-41f6-9f51-523de2f3013e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-faehrt-weiterhin-container-durch-russland](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-faehrt-weiterhin-container-durch-russland-a-a34637fa-6b41-4ef9-a9e4-d1fbf87c688f#ref=rss)
+### bsw
+
+* [https://www.spiegel.de/wirtschaft/warum-das-bsw-als-anwalt-der-kleinen-agiert-und-auslaendische-konzerne-herausfordert](https://www.spiegel.de/wirtschaft/warum-das-bsw-als-anwalt-der-kleinen-agiert-und-auslaendische-konzerne-herausfordert-a-183f46bd-4df1-457b-87db-584bddcfbd0a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-plus-bsw-ex-cdu-generalsekretaer-polenz-bringt-hoecke-wagenknecht-regierung-ins-spiel](https://www.spiegel.de/politik/deutschland/afd-plus-bsw-ex-cdu-generalsekretaer-polenz-bringt-hoecke-wagenknecht-regierung-ins-spiel-a-5ef11465-2a7c-4ddf-a482-007df3858a37#ref=rss)
+### viele
+
+* [https://www.spiegel.de/politik/deutschland/afd-plus-bsw-ex-cdu-generalsekretaer-polenz-bringt-hoecke-wagenknecht-regierung-ins-spiel](https://www.spiegel.de/politik/deutschland/afd-plus-bsw-ex-cdu-generalsekretaer-polenz-bringt-hoecke-wagenknecht-regierung-ins-spiel-a-5ef11465-2a7c-4ddf-a482-007df3858a37#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-faehrt-weiterhin-container-durch-russland](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-faehrt-weiterhin-container-durch-russland-a-a34637fa-6b41-4ef9-a9e4-d1fbf87c688f#ref=rss)
+### baerbock
+
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-im-nahen-osten-bibi-ist-der-feind-bibi-ist-das-problem-aber-bibi-ist-auch-die-loesung](https://www.spiegel.de/politik/deutschland/annalena-baerbock-im-nahen-osten-bibi-ist-der-feind-bibi-ist-das-problem-aber-bibi-ist-auch-die-loesung-a-2b586d6b-c985-499b-8711-2198afa0d102#ref=rss)
+### lage
+
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-im-nahen-osten-bibi-ist-der-feind-bibi-ist-das-problem-aber-bibi-ist-auch-die-loesung](https://www.spiegel.de/politik/deutschland/annalena-baerbock-im-nahen-osten-bibi-ist-der-feind-bibi-ist-das-problem-aber-bibi-ist-auch-die-loesung-a-2b586d6b-c985-499b-8711-2198afa0d102#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-olaf-scholz-elon-musk](https://www.spiegel.de/politik/deutschland/news-donald-trump-olaf-scholz-elon-musk-a-dfb23622-e1cf-4c1c-9da0-d89be7027e27#ref=rss)
+### ifa
+
+* [https://www.spiegel.de/netzwelt/gadgets/ifa-2024-heute-kocht-die-ki-kabellos](https://www.spiegel.de/netzwelt/gadgets/ifa-2024-heute-kocht-die-ki-kabellos-a-6d4cc275-104c-40bb-a405-36b37e30c026#ref=rss)
+### ki
+
+* [https://www.spiegel.de/netzwelt/gadgets/ifa-2024-heute-kocht-die-ki-kabellos](https://www.spiegel.de/netzwelt/gadgets/ifa-2024-heute-kocht-die-ki-kabellos-a-6d4cc275-104c-40bb-a405-36b37e30c026#ref=rss)
+### gerichte
+
+* [https://www.spiegel.de/netzwelt/gadgets/ifa-2024-heute-kocht-die-ki-kabellos](https://www.spiegel.de/netzwelt/gadgets/ifa-2024-heute-kocht-die-ki-kabellos-a-6d4cc275-104c-40bb-a405-36b37e30c026#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-strafmass-im-schweigegeldprozess-wird-erst-nach-der-wahl-verkuendet](https://www.spiegel.de/ausland/donald-trump-strafmass-im-schweigegeldprozess-wird-erst-nach-der-wahl-verkuendet-a-e2ad60de-224e-45e1-a816-1354986676b1#ref=rss)
+### schmyt
+
+* [https://www.spiegel.de/karriere/schmyt-macht-vorwurf-der-haeuslichen-gewalt-gegen-sich-oeffentlich](https://www.spiegel.de/karriere/schmyt-macht-vorwurf-der-haeuslichen-gewalt-gegen-sich-oeffentlich-a-3631337e-a144-49d0-9f29-18cfc54c5c9c#ref=rss)
+### macht
+
+* [https://www.spiegel.de/karriere/schmyt-macht-vorwurf-der-haeuslichen-gewalt-gegen-sich-oeffentlich](https://www.spiegel.de/karriere/schmyt-macht-vorwurf-der-haeuslichen-gewalt-gegen-sich-oeffentlich-a-3631337e-a144-49d0-9f29-18cfc54c5c9c#ref=rss)
+* [https://www.spiegel.de/politik/extremwetter-und-klimawandel-die-ausnahme-wird-zur-regel-wie-gehen-wir-damit-um](https://www.spiegel.de/politik/extremwetter-und-klimawandel-die-ausnahme-wird-zur-regel-wie-gehen-wir-damit-um-a-eaa091ef-562d-47ed-a453-1ecc55497b05#ref=rss)
+### vorwurf
+
+* [https://www.spiegel.de/karriere/schmyt-macht-vorwurf-der-haeuslichen-gewalt-gegen-sich-oeffentlich](https://www.spiegel.de/karriere/schmyt-macht-vorwurf-der-haeuslichen-gewalt-gegen-sich-oeffentlich-a-3631337e-a144-49d0-9f29-18cfc54c5c9c#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/karriere/schmyt-macht-vorwurf-der-haeuslichen-gewalt-gegen-sich-oeffentlich](https://www.spiegel.de/karriere/schmyt-macht-vorwurf-der-haeuslichen-gewalt-gegen-sich-oeffentlich-a-3631337e-a144-49d0-9f29-18cfc54c5c9c#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-im-angesagtesten-lokal-der-stadt-stehen-omas-am-herd-alle-gute-vom-spiegel](https://www.spiegel.de/ausland/new-york-im-angesagtesten-lokal-der-stadt-stehen-omas-am-herd-alle-gute-vom-spiegel-a-bc7b0250-30a4-4579-93f2-23ccbfbb51d2#ref=rss)
+### solingen
+
+* [https://www.spiegel.de/panorama/justiz/solingen-ermittler-veroeffentlichen-verdaechtigen-foto-und-bitten-um-mithilfe](https://www.spiegel.de/panorama/justiz/solingen-ermittler-veroeffentlichen-verdaechtigen-foto-und-bitten-um-mithilfe-a-60a52844-9700-4015-95ce-4d7095efbc4a#ref=rss)
+### ermittler
+
+* [https://www.spiegel.de/panorama/justiz/solingen-ermittler-veroeffentlichen-verdaechtigen-foto-und-bitten-um-mithilfe](https://www.spiegel.de/panorama/justiz/solingen-ermittler-veroeffentlichen-verdaechtigen-foto-und-bitten-um-mithilfe-a-60a52844-9700-4015-95ce-4d7095efbc4a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/brasilien-defektes-enteisungssystem-wohl-grund-fuer-flugzeugabsturz](https://www.spiegel.de/wissenschaft/brasilien-defektes-enteisungssystem-wohl-grund-fuer-flugzeugabsturz-a-9236c5ea-c289-4752-b651-ab295b144e00#ref=rss)
+### autorennen
+
+* [https://www.spiegel.de/panorama/justiz/illegale-autorennen-bei-tempo-250-auf-der-autobahn-haben-wir-abgebrochen](https://www.spiegel.de/panorama/justiz/illegale-autorennen-bei-tempo-250-auf-der-autobahn-haben-wir-abgebrochen-a-d0c4f12b-d797-4ca1-a5d4-8b24d392a50a#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/panorama/justiz/illegale-autorennen-bei-tempo-250-auf-der-autobahn-haben-wir-abgebrochen](https://www.spiegel.de/panorama/justiz/illegale-autorennen-bei-tempo-250-auf-der-autobahn-haben-wir-abgebrochen-a-d0c4f12b-d797-4ca1-a5d4-8b24d392a50a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/brasilien-defektes-enteisungssystem-wohl-grund-fuer-flugzeugabsturz](https://www.spiegel.de/wissenschaft/brasilien-defektes-enteisungssystem-wohl-grund-fuer-flugzeugabsturz-a-9236c5ea-c289-4752-b651-ab295b144e00#ref=rss)
+### laut
+
+* [https://www.spiegel.de/panorama/justiz/illegale-autorennen-bei-tempo-250-auf-der-autobahn-haben-wir-abgebrochen](https://www.spiegel.de/panorama/justiz/illegale-autorennen-bei-tempo-250-auf-der-autobahn-haben-wir-abgebrochen-a-d0c4f12b-d797-4ca1-a5d4-8b24d392a50a#ref=rss)
+* [https://www.spiegel.de/politik/bundestagswahl-2025-olaf-scholz-sagt-boris-pistorius-wolle-ihn-als-kanzlerkandidat](https://www.spiegel.de/politik/bundestagswahl-2025-olaf-scholz-sagt-boris-pistorius-wolle-ihn-als-kanzlerkandidat-a-657ab594-a4f7-486e-958d-7acfb65f29d8#ref=rss)
+### vogelgrippe
+
+* [https://www.spiegel.de/wissenschaft/medizin/vogelgrippe-erstmals-mensch-ohne-kontakt-zu-tieren-an-der-vogelgrippe-erkrankt](https://www.spiegel.de/wissenschaft/medizin/vogelgrippe-erstmals-mensch-ohne-kontakt-zu-tieren-an-der-vogelgrippe-erkrankt-a-2537b689-213e-4e33-8d83-b79857ffe7f7#ref=rss)
+### erstmals
+
+* [https://www.spiegel.de/wissenschaft/medizin/vogelgrippe-erstmals-mensch-ohne-kontakt-zu-tieren-an-der-vogelgrippe-erkrankt](https://www.spiegel.de/wissenschaft/medizin/vogelgrippe-erstmals-mensch-ohne-kontakt-zu-tieren-an-der-vogelgrippe-erkrankt-a-2537b689-213e-4e33-8d83-b79857ffe7f7#ref=rss)
+* [https://www.spiegel.de/kultur/kino/pamela-anderson-in-toronto-endlich-geht-es-einmal-nicht-um-sextapes-oder-ehemaenner](https://www.spiegel.de/kultur/kino/pamela-anderson-in-toronto-endlich-geht-es-einmal-nicht-um-sextapes-oder-ehemaenner-a-34412407-1e2a-43a1-a41a-0548bbce5de3#ref=rss)
+### mensch
+
+* [https://www.spiegel.de/wissenschaft/medizin/vogelgrippe-erstmals-mensch-ohne-kontakt-zu-tieren-an-der-vogelgrippe-erkrankt](https://www.spiegel.de/wissenschaft/medizin/vogelgrippe-erstmals-mensch-ohne-kontakt-zu-tieren-an-der-vogelgrippe-erkrankt-a-2537b689-213e-4e33-8d83-b79857ffe7f7#ref=rss)
+* [https://www.spiegel.de/sport/tennis/halbfinals-der-us-open-jack-draper-uebergibt-sich-vor-nervositaet-und-verliert-das-groesste-spiel-seines-lebens](https://www.spiegel.de/sport/tennis/halbfinals-der-us-open-jack-draper-uebergibt-sich-vor-nervositaet-und-verliert-das-groesste-spiel-seines-lebens-a-c0a4bec8-0a3d-47a9-bdb8-8f9dd1ab1dee#ref=rss)
+### tieren
+
+* [https://www.spiegel.de/wissenschaft/medizin/vogelgrippe-erstmals-mensch-ohne-kontakt-zu-tieren-an-der-vogelgrippe-erkrankt](https://www.spiegel.de/wissenschaft/medizin/vogelgrippe-erstmals-mensch-ohne-kontakt-zu-tieren-an-der-vogelgrippe-erkrankt-a-2537b689-213e-4e33-8d83-b79857ffe7f7#ref=rss)
+### jack
+
+* [https://www.spiegel.de/sport/tennis/halbfinals-der-us-open-jack-draper-uebergibt-sich-vor-nervositaet-und-verliert-das-groesste-spiel-seines-lebens](https://www.spiegel.de/sport/tennis/halbfinals-der-us-open-jack-draper-uebergibt-sich-vor-nervositaet-und-verliert-das-groesste-spiel-seines-lebens-a-c0a4bec8-0a3d-47a9-bdb8-8f9dd1ab1dee#ref=rss)
+### draper
+
+* [https://www.spiegel.de/sport/tennis/halbfinals-der-us-open-jack-draper-uebergibt-sich-vor-nervositaet-und-verliert-das-groesste-spiel-seines-lebens](https://www.spiegel.de/sport/tennis/halbfinals-der-us-open-jack-draper-uebergibt-sich-vor-nervositaet-und-verliert-das-groesste-spiel-seines-lebens-a-c0a4bec8-0a3d-47a9-bdb8-8f9dd1ab1dee#ref=rss)
+### spiel
+
+* [https://www.spiegel.de/sport/tennis/halbfinals-der-us-open-jack-draper-uebergibt-sich-vor-nervositaet-und-verliert-das-groesste-spiel-seines-lebens](https://www.spiegel.de/sport/tennis/halbfinals-der-us-open-jack-draper-uebergibt-sich-vor-nervositaet-und-verliert-das-groesste-spiel-seines-lebens-a-c0a4bec8-0a3d-47a9-bdb8-8f9dd1ab1dee#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-plus-bsw-ex-cdu-generalsekretaer-polenz-bringt-hoecke-wagenknecht-regierung-ins-spiel](https://www.spiegel.de/politik/deutschland/afd-plus-bsw-ex-cdu-generalsekretaer-polenz-bringt-hoecke-wagenknecht-regierung-ins-spiel-a-5ef11465-2a7c-4ddf-a482-007df3858a37#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/ausland/kamala-harris-oder-donald-trump-dieser-professor-will-schon-wissen-wer-gewinnt](https://www.spiegel.de/ausland/kamala-harris-oder-donald-trump-dieser-professor-will-schon-wissen-wer-gewinnt-a-5b75c452-9ce8-482d-aa0c-e5739f9e1933#ref=rss)
+* [https://www.spiegel.de/kultur/kino/pamela-anderson-in-toronto-endlich-geht-es-einmal-nicht-um-sextapes-oder-ehemaenner](https://www.spiegel.de/kultur/kino/pamela-anderson-in-toronto-endlich-geht-es-einmal-nicht-um-sextapes-oder-ehemaenner-a-34412407-1e2a-43a1-a41a-0548bbce5de3#ref=rss)
+### bundestag
+
+* [https://www.spiegel.de/politik/deutschland/haushaltsdebatte-im-bundestag-der-schwindel-im-etatentwurf-fuer-2025](https://www.spiegel.de/politik/deutschland/haushaltsdebatte-im-bundestag-der-schwindel-im-etatentwurf-fuer-2025-a-765e2a77-960e-403b-844c-f28cbd082fdd#ref=rss)
+### etatentwurf
+
+* [https://www.spiegel.de/politik/deutschland/haushaltsdebatte-im-bundestag-der-schwindel-im-etatentwurf-fuer-2025](https://www.spiegel.de/politik/deutschland/haushaltsdebatte-im-bundestag-der-schwindel-im-etatentwurf-fuer-2025-a-765e2a77-960e-403b-844c-f28cbd082fdd#ref=rss)
+### jamal
+
+* [https://www.spiegel.de/sport/fussball/jamal-musiala-keine-nominierung-fuer-den-goldenen-ball-france-football-erklaert-die-entscheidung](https://www.spiegel.de/sport/fussball/jamal-musiala-keine-nominierung-fuer-den-goldenen-ball-france-football-erklaert-die-entscheidung-a-b0895eb8-f6b8-4af8-ab06-10fbdeafdc32#ref=rss)
+### musiala
+
+* [https://www.spiegel.de/sport/fussball/jamal-musiala-keine-nominierung-fuer-den-goldenen-ball-france-football-erklaert-die-entscheidung](https://www.spiegel.de/sport/fussball/jamal-musiala-keine-nominierung-fuer-den-goldenen-ball-france-football-erklaert-die-entscheidung-a-b0895eb8-f6b8-4af8-ab06-10fbdeafdc32#ref=rss)
+### france
+
+* [https://www.spiegel.de/sport/fussball/jamal-musiala-keine-nominierung-fuer-den-goldenen-ball-france-football-erklaert-die-entscheidung](https://www.spiegel.de/sport/fussball/jamal-musiala-keine-nominierung-fuer-den-goldenen-ball-france-football-erklaert-die-entscheidung-a-b0895eb8-f6b8-4af8-ab06-10fbdeafdc32#ref=rss)
+### football
+
+* [https://www.spiegel.de/sport/fussball/jamal-musiala-keine-nominierung-fuer-den-goldenen-ball-france-football-erklaert-die-entscheidung](https://www.spiegel.de/sport/fussball/jamal-musiala-keine-nominierung-fuer-den-goldenen-ball-france-football-erklaert-die-entscheidung-a-b0895eb8-f6b8-4af8-ab06-10fbdeafdc32#ref=rss)
+### entscheidung
+
+* [https://www.spiegel.de/sport/fussball/jamal-musiala-keine-nominierung-fuer-den-goldenen-ball-france-football-erklaert-die-entscheidung](https://www.spiegel.de/sport/fussball/jamal-musiala-keine-nominierung-fuer-den-goldenen-ball-france-football-erklaert-die-entscheidung-a-b0895eb8-f6b8-4af8-ab06-10fbdeafdc32#ref=rss)
+### extremwetter
+
+* [https://www.spiegel.de/politik/extremwetter-und-klimawandel-die-ausnahme-wird-zur-regel-wie-gehen-wir-damit-um](https://www.spiegel.de/politik/extremwetter-und-klimawandel-die-ausnahme-wird-zur-regel-wie-gehen-wir-damit-um-a-eaa091ef-562d-47ed-a453-1ecc55497b05#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/gesundheit/was-wir-tun-koennen-um-unser-herz-zu-schuetzen-podcast](https://www.spiegel.de/gesundheit/was-wir-tun-koennen-um-unser-herz-zu-schuetzen-podcast-a-f7f71763-66ea-47a6-ab9d-9fe9ea7bc6c1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-diese-lebensmittel-preise-sind-am-staerksten-gestiegen](https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-diese-lebensmittel-preise-sind-am-staerksten-gestiegen-a-f8678a24-9c6b-4e66-99bc-8d7a9f2ff7f8#ref=rss)
+### brasilien
+
+* [https://www.spiegel.de/wissenschaft/brasilien-defektes-enteisungssystem-wohl-grund-fuer-flugzeugabsturz](https://www.spiegel.de/wissenschaft/brasilien-defektes-enteisungssystem-wohl-grund-fuer-flugzeugabsturz-a-9236c5ea-c289-4752-b651-ab295b144e00#ref=rss)
+### eis
+
+* [https://www.spiegel.de/wissenschaft/brasilien-defektes-enteisungssystem-wohl-grund-fuer-flugzeugabsturz](https://www.spiegel.de/wissenschaft/brasilien-defektes-enteisungssystem-wohl-grund-fuer-flugzeugabsturz-a-9236c5ea-c289-4752-b651-ab295b144e00#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-strafmass-im-schweigegeldprozess-wird-erst-nach-der-wahl-verkuendet](https://www.spiegel.de/ausland/donald-trump-strafmass-im-schweigegeldprozess-wird-erst-nach-der-wahl-verkuendet-a-e2ad60de-224e-45e1-a816-1354986676b1#ref=rss)
+### maximilian
+
+* [https://www.spiegel.de/politik/deutschland/hessen-afd-politiker-maximilian-mueger-verlaesst-nach-sturmgewehr-skandal-die-partei](https://www.spiegel.de/politik/deutschland/hessen-afd-politiker-maximilian-mueger-verlaesst-nach-sturmgewehr-skandal-die-partei-a-761c2c2b-151c-40b2-8728-3b3046bab382#ref=rss)
+### müger
+
+* [https://www.spiegel.de/politik/deutschland/hessen-afd-politiker-maximilian-mueger-verlaesst-nach-sturmgewehr-skandal-die-partei](https://www.spiegel.de/politik/deutschland/hessen-afd-politiker-maximilian-mueger-verlaesst-nach-sturmgewehr-skandal-die-partei-a-761c2c2b-151c-40b2-8728-3b3046bab382#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/politik/deutschland/hessen-afd-politiker-maximilian-mueger-verlaesst-nach-sturmgewehr-skandal-die-partei](https://www.spiegel.de/politik/deutschland/hessen-afd-politiker-maximilian-mueger-verlaesst-nach-sturmgewehr-skandal-die-partei-a-761c2c2b-151c-40b2-8728-3b3046bab382#ref=rss)
+* [https://www.spiegel.de/ausland/westjordanland-amerikanische-aktivistin-bei-siedlungsprotest-getoetet-usa-fordern-aufklaerung](https://www.spiegel.de/ausland/westjordanland-amerikanische-aktivistin-bei-siedlungsprotest-getoetet-usa-fordern-aufklaerung-a-a6c4db92-b544-43ca-8985-5ab44d7d363b#ref=rss)
+### freie
+
+* [https://www.spiegel.de/politik/deutschland/hessen-afd-politiker-maximilian-mueger-verlaesst-nach-sturmgewehr-skandal-die-partei](https://www.spiegel.de/politik/deutschland/hessen-afd-politiker-maximilian-mueger-verlaesst-nach-sturmgewehr-skandal-die-partei-a-761c2c2b-151c-40b2-8728-3b3046bab382#ref=rss)
 ### waffen
 
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-olaf-scholz-bekraeftigt-deutschen-beistand-so-lange-wie-noetig](https://www.spiegel.de/politik/deutschland/ukraine-krieg-olaf-scholz-bekraeftigt-deutschen-beistand-so-lange-wie-noetig-a-cd827f06-66c6-49d7-af5c-4789ec4a71bc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ramstein-treffen-zur-ukraine-welche-zusaetzlichen-waffen-bekommt-die-ukraine-livestream](https://www.spiegel.de/politik/deutschland/ramstein-treffen-zur-ukraine-welche-zusaetzlichen-waffen-bekommt-die-ukraine-livestream-a-cb390655-6eee-4606-ba08-ba82bedad667#ref=rss)
-### präsident
+* [https://www.spiegel.de/politik/deutschland/hessen-afd-politiker-maximilian-mueger-verlaesst-nach-sturmgewehr-skandal-die-partei](https://www.spiegel.de/politik/deutschland/hessen-afd-politiker-maximilian-mueger-verlaesst-nach-sturmgewehr-skandal-die-partei-a-761c2c2b-151c-40b2-8728-3b3046bab382#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-olaf-scholz-elon-musk](https://www.spiegel.de/politik/deutschland/news-donald-trump-olaf-scholz-elon-musk-a-dfb23622-e1cf-4c1c-9da0-d89be7027e27#ref=rss)
+### fahrlehrer
 
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-olaf-scholz-bekraeftigt-deutschen-beistand-so-lange-wie-noetig](https://www.spiegel.de/politik/deutschland/ukraine-krieg-olaf-scholz-bekraeftigt-deutschen-beistand-so-lange-wie-noetig-a-cd827f06-66c6-49d7-af5c-4789ec4a71bc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ramstein-treffen-zur-ukraine-welche-zusaetzlichen-waffen-bekommt-die-ukraine-livestream](https://www.spiegel.de/politik/deutschland/ramstein-treffen-zur-ukraine-welche-zusaetzlichen-waffen-bekommt-die-ukraine-livestream-a-cb390655-6eee-4606-ba08-ba82bedad667#ref=rss)
-### selenskyj
+* [https://www.spiegel.de/panorama/fahrlerer-ueber-fuehrerschein-kandidaten-warum-sind-da-drei-pedale-ich-hab-doch-nur-zwei-fuesse](https://www.spiegel.de/panorama/fahrlerer-ueber-fuehrerschein-kandidaten-warum-sind-da-drei-pedale-ich-hab-doch-nur-zwei-fuesse-a-ac297d64-ad4e-436b-ab6a-266d1266222f#ref=rss)
+### teils
 
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-olaf-scholz-bekraeftigt-deutschen-beistand-so-lange-wie-noetig](https://www.spiegel.de/politik/deutschland/ukraine-krieg-olaf-scholz-bekraeftigt-deutschen-beistand-so-lange-wie-noetig-a-cd827f06-66c6-49d7-af5c-4789ec4a71bc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ramstein-treffen-zur-ukraine-welche-zusaetzlichen-waffen-bekommt-die-ukraine-livestream](https://www.spiegel.de/politik/deutschland/ramstein-treffen-zur-ukraine-welche-zusaetzlichen-waffen-bekommt-die-ukraine-livestream-a-cb390655-6eee-4606-ba08-ba82bedad667#ref=rss)
-### neuen
+* [https://www.spiegel.de/panorama/fahrlerer-ueber-fuehrerschein-kandidaten-warum-sind-da-drei-pedale-ich-hab-doch-nur-zwei-fuesse](https://www.spiegel.de/panorama/fahrlerer-ueber-fuehrerschein-kandidaten-warum-sind-da-drei-pedale-ich-hab-doch-nur-zwei-fuesse-a-ac297d64-ad4e-436b-ab6a-266d1266222f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-diese-lebensmittel-preise-sind-am-staerksten-gestiegen](https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-diese-lebensmittel-preise-sind-am-staerksten-gestiegen-a-f8678a24-9c6b-4e66-99bc-8d7a9f2ff7f8#ref=rss)
+### liegt
 
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-olaf-scholz-bekraeftigt-deutschen-beistand-so-lange-wie-noetig](https://www.spiegel.de/politik/deutschland/ukraine-krieg-olaf-scholz-bekraeftigt-deutschen-beistand-so-lange-wie-noetig-a-cd827f06-66c6-49d7-af5c-4789ec4a71bc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-wahlerfolge-menschen-mit-migrationshintergrund-denken-ueber-wegzug-aus-der-heimat-nach](https://www.spiegel.de/politik/deutschland/afd-wahlerfolge-menschen-mit-migrationshintergrund-denken-ueber-wegzug-aus-der-heimat-nach-a-23b6fc70-63a9-4ba9-a680-0bc76004e583#ref=rss)
-### heißt
+* [https://www.spiegel.de/panorama/fahrlerer-ueber-fuehrerschein-kandidaten-warum-sind-da-drei-pedale-ich-hab-doch-nur-zwei-fuesse](https://www.spiegel.de/panorama/fahrlerer-ueber-fuehrerschein-kandidaten-warum-sind-da-drei-pedale-ich-hab-doch-nur-zwei-fuesse-a-ac297d64-ad4e-436b-ab6a-266d1266222f#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-strafmass-im-schweigegeldprozess-wird-erst-nach-der-wahl-verkuendet](https://www.spiegel.de/ausland/donald-trump-strafmass-im-schweigegeldprozess-wird-erst-nach-der-wahl-verkuendet-a-e2ad60de-224e-45e1-a816-1354986676b1#ref=rss)
+### 30
 
-* [https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast](https://www.spiegel.de/politik/afd-erfolg-in-thueringen-was-es-heisst-wenn-jeder-dritte-rechtsextrem-waehlt-podcast-a-3143358c-4edb-4fa9-8c4e-950425de2561#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/haushaltsplaene-der-ampel-bundesrechnungshof-kritisiert-fehlende-sorgfalt-und-soliditaet](https://www.spiegel.de/politik/deutschland/haushaltsplaene-der-ampel-bundesrechnungshof-kritisiert-fehlende-sorgfalt-und-soliditaet-a-4e47cef2-9daa-48b3-942b-a44fdb384151#ref=rss)
-### fördergeldaffäre
+* [https://www.spiegel.de/psychologie/sonne-30-grad-der-sommer-geht-und-wir-sagen-tschuess](https://www.spiegel.de/psychologie/sonne-30-grad-der-sommer-geht-und-wir-sagen-tschuess-a-92c87277-76fa-4b48-bc48-d6d4524d7858#ref=rss)
+### grad
 
-* [https://www.spiegel.de/panorama/bildung/foerdergeldaffaere-ex-staatssekretaerin-sabine-doering-will-sprechen-darf-aber-nicht](https://www.spiegel.de/panorama/bildung/foerdergeldaffaere-ex-staatssekretaerin-sabine-doering-will-sprechen-darf-aber-nicht-a-c3c06310-fbaa-4ccc-865b-026ab29de9e9#ref=rss)
-### sabine
+* [https://www.spiegel.de/psychologie/sonne-30-grad-der-sommer-geht-und-wir-sagen-tschuess](https://www.spiegel.de/psychologie/sonne-30-grad-der-sommer-geht-und-wir-sagen-tschuess-a-92c87277-76fa-4b48-bc48-d6d4524d7858#ref=rss)
+### venedig
 
-* [https://www.spiegel.de/panorama/bildung/foerdergeldaffaere-ex-staatssekretaerin-sabine-doering-will-sprechen-darf-aber-nicht](https://www.spiegel.de/panorama/bildung/foerdergeldaffaere-ex-staatssekretaerin-sabine-doering-will-sprechen-darf-aber-nicht-a-c3c06310-fbaa-4ccc-865b-026ab29de9e9#ref=rss)
-### döring
+* [https://www.spiegel.de/kultur/kino/filmfest-venedig-welche-filme-sich-lohnen-und-welche-eher-nicht](https://www.spiegel.de/kultur/kino/filmfest-venedig-welche-filme-sich-lohnen-und-welche-eher-nicht-a-6918152f-62f2-482a-a836-87741ddef324#ref=rss)
+### filmfestival
 
-* [https://www.spiegel.de/panorama/bildung/foerdergeldaffaere-ex-staatssekretaerin-sabine-doering-will-sprechen-darf-aber-nicht](https://www.spiegel.de/panorama/bildung/foerdergeldaffaere-ex-staatssekretaerin-sabine-doering-will-sprechen-darf-aber-nicht-a-c3c06310-fbaa-4ccc-865b-026ab29de9e9#ref=rss)
-### marvin
+* [https://www.spiegel.de/kultur/kino/filmfest-venedig-welche-filme-sich-lohnen-und-welche-eher-nicht](https://www.spiegel.de/kultur/kino/filmfest-venedig-welche-filme-sich-lohnen-und-welche-eher-nicht-a-6918152f-62f2-482a-a836-87741ddef324#ref=rss)
+* [https://www.spiegel.de/kultur/kino/pamela-anderson-in-toronto-endlich-geht-es-einmal-nicht-um-sextapes-oder-ehemaenner](https://www.spiegel.de/kultur/kino/pamela-anderson-in-toronto-endlich-geht-es-einmal-nicht-um-sextapes-oder-ehemaenner-a-34412407-1e2a-43a1-a41a-0548bbce5de3#ref=rss)
+### ende
 
-* [https://www.spiegel.de/sport/fussball/marvin-plattenhardt-ex-hertha-profi-beendet-fussball-karriere-und-produziert-pistazienmilch](https://www.spiegel.de/sport/fussball/marvin-plattenhardt-ex-hertha-profi-beendet-fussball-karriere-und-produziert-pistazienmilch-a-f868f7c5-503d-4246-adfe-7b51134781b9#ref=rss)
-### plattenhardt
+* [https://www.spiegel.de/kultur/kino/filmfest-venedig-welche-filme-sich-lohnen-und-welche-eher-nicht](https://www.spiegel.de/kultur/kino/filmfest-venedig-welche-filme-sich-lohnen-und-welche-eher-nicht-a-6918152f-62f2-482a-a836-87741ddef324#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/starliner-raumkapsel-landet-auf-der-erde-ohne-astronauten](https://www.spiegel.de/wissenschaft/weltall/starliner-raumkapsel-landet-auf-der-erde-ohne-astronauten-a-843ac440-aebf-4d96-9895-343df3b07f5e#ref=rss)
+### 17
 
-* [https://www.spiegel.de/sport/fussball/marvin-plattenhardt-ex-hertha-profi-beendet-fussball-karriere-und-produziert-pistazienmilch](https://www.spiegel.de/sport/fussball/marvin-plattenhardt-ex-hertha-profi-beendet-fussball-karriere-und-produziert-pistazienmilch-a-f868f7c5-503d-4246-adfe-7b51134781b9#ref=rss)
-### exherthaprofi
+* [https://www.spiegel.de/kultur/kino/filmfest-venedig-welche-filme-sich-lohnen-und-welche-eher-nicht](https://www.spiegel.de/kultur/kino/filmfest-venedig-welche-filme-sich-lohnen-und-welche-eher-nicht-a-6918152f-62f2-482a-a836-87741ddef324#ref=rss)
+* [https://www.spiegel.de/kultur/kino/pamela-anderson-in-toronto-endlich-geht-es-einmal-nicht-um-sextapes-oder-ehemaenner](https://www.spiegel.de/kultur/kino/pamela-anderson-in-toronto-endlich-geht-es-einmal-nicht-um-sextapes-oder-ehemaenner-a-34412407-1e2a-43a1-a41a-0548bbce5de3#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/sport/fussball/marvin-plattenhardt-ex-hertha-profi-beendet-fussball-karriere-und-produziert-pistazienmilch](https://www.spiegel.de/sport/fussball/marvin-plattenhardt-ex-hertha-profi-beendet-fussball-karriere-und-produziert-pistazienmilch-a-f868f7c5-503d-4246-adfe-7b51134781b9#ref=rss)
-### beendet
+* [https://www.spiegel.de/politik/bundestagswahl-2025-olaf-scholz-sagt-boris-pistorius-wolle-ihn-als-kanzlerkandidat](https://www.spiegel.de/politik/bundestagswahl-2025-olaf-scholz-sagt-boris-pistorius-wolle-ihn-als-kanzlerkandidat-a-657ab594-a4f7-486e-958d-7acfb65f29d8#ref=rss)
+### umfragen
 
-* [https://www.spiegel.de/sport/fussball/marvin-plattenhardt-ex-hertha-profi-beendet-fussball-karriere-und-produziert-pistazienmilch](https://www.spiegel.de/sport/fussball/marvin-plattenhardt-ex-hertha-profi-beendet-fussball-karriere-und-produziert-pistazienmilch-a-f868f7c5-503d-4246-adfe-7b51134781b9#ref=rss)
-### westjordanland
+* [https://www.spiegel.de/politik/bundestagswahl-2025-olaf-scholz-sagt-boris-pistorius-wolle-ihn-als-kanzlerkandidat](https://www.spiegel.de/politik/bundestagswahl-2025-olaf-scholz-sagt-boris-pistorius-wolle-ihn-als-kanzlerkandidat-a-657ab594-a4f7-486e-958d-7acfb65f29d8#ref=rss)
+### erst
 
-* [https://www.spiegel.de/ausland/westjordanland-us-aktivistin-von-israelischer-armee-getoetet](https://www.spiegel.de/ausland/westjordanland-us-aktivistin-von-israelischer-armee-getoetet-a-07249e35-4c53-4112-bf76-1b605a7001a4#ref=rss)
-### ll
+* [https://www.spiegel.de/politik/bundestagswahl-2025-olaf-scholz-sagt-boris-pistorius-wolle-ihn-als-kanzlerkandidat](https://www.spiegel.de/politik/bundestagswahl-2025-olaf-scholz-sagt-boris-pistorius-wolle-ihn-als-kanzlerkandidat-a-657ab594-a4f7-486e-958d-7acfb65f29d8#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-strafmass-im-schweigegeldprozess-wird-erst-nach-der-wahl-verkuendet](https://www.spiegel.de/ausland/donald-trump-strafmass-im-schweigegeldprozess-wird-erst-nach-der-wahl-verkuendet-a-e2ad60de-224e-45e1-a816-1354986676b1#ref=rss)
+### erde
 
-* [https://www.spiegel.de/kultur/musik/the-the-ll-cool-j-hinds-international-music-album-der-woche](https://www.spiegel.de/kultur/musik/the-the-ll-cool-j-hinds-international-music-album-der-woche-a-a229e0c9-ae2f-47d0-8062-76a8e6a583f3#ref=rss)
-### cool
+* [https://www.spiegel.de/wissenschaft/weltall/starliner-raumkapsel-landet-auf-der-erde-ohne-astronauten](https://www.spiegel.de/wissenschaft/weltall/starliner-raumkapsel-landet-auf-der-erde-ohne-astronauten-a-843ac440-aebf-4d96-9895-343df3b07f5e#ref=rss)
+### astronauten
 
-* [https://www.spiegel.de/kultur/musik/the-the-ll-cool-j-hinds-international-music-album-der-woche](https://www.spiegel.de/kultur/musik/the-the-ll-cool-j-hinds-international-music-album-der-woche-a-a229e0c9-ae2f-47d0-8062-76a8e6a583f3#ref=rss)
-### j
+* [https://www.spiegel.de/wissenschaft/weltall/starliner-raumkapsel-landet-auf-der-erde-ohne-astronauten](https://www.spiegel.de/wissenschaft/weltall/starliner-raumkapsel-landet-auf-der-erde-ohne-astronauten-a-843ac440-aebf-4d96-9895-343df3b07f5e#ref=rss)
+### straße
 
-* [https://www.spiegel.de/kultur/musik/the-the-ll-cool-j-hinds-international-music-album-der-woche](https://www.spiegel.de/kultur/musik/the-the-ll-cool-j-hinds-international-music-album-der-woche-a-a229e0c9-ae2f-47d0-8062-76a8e6a583f3#ref=rss)
-### woche
+* [https://www.spiegel.de/panorama/bundeswehr-deutsche-fregatte-soll-durch-die-strasse-von-taiwan-fahren](https://www.spiegel.de/panorama/bundeswehr-deutsche-fregatte-soll-durch-die-strasse-von-taiwan-fahren-a-8160df14-08a2-41f6-9f51-523de2f3013e#ref=rss)
+### taiwan
 
-* [https://www.spiegel.de/kultur/musik/the-the-ll-cool-j-hinds-international-music-album-der-woche](https://www.spiegel.de/kultur/musik/the-the-ll-cool-j-hinds-international-music-album-der-woche-a-a229e0c9-ae2f-47d0-8062-76a8e6a583f3#ref=rss)
-### zoo
+* [https://www.spiegel.de/panorama/bundeswehr-deutsche-fregatte-soll-durch-die-strasse-von-taiwan-fahren](https://www.spiegel.de/panorama/bundeswehr-deutsche-fregatte-soll-durch-die-strasse-von-taiwan-fahren-a-8160df14-08a2-41f6-9f51-523de2f3013e#ref=rss)
+### konzerne
 
-* [https://www.spiegel.de/wissenschaft/zoo-berlin-fuehrt-experimente-mit-kameras-und-kuenstlicher-intelligenz-bei-gorillas-durch](https://www.spiegel.de/wissenschaft/zoo-berlin-fuehrt-experimente-mit-kameras-und-kuenstlicher-intelligenz-bei-gorillas-durch-a-41f19d03-798e-48fe-a3fc-e9d1e001bf5b#ref=rss)
-### borkum
+* [https://www.spiegel.de/wirtschaft/warum-das-bsw-als-anwalt-der-kleinen-agiert-und-auslaendische-konzerne-herausfordert](https://www.spiegel.de/wirtschaft/warum-das-bsw-als-anwalt-der-kleinen-agiert-und-auslaendische-konzerne-herausfordert-a-183f46bd-4df1-457b-87db-584bddcfbd0a#ref=rss)
+### weniger
 
-* [https://www.spiegel.de/panorama/nordsee-vor-borkum-gesunkene-jacht-ist-ein-deutsches-boot](https://www.spiegel.de/panorama/nordsee-vor-borkum-gesunkene-jacht-ist-ein-deutsches-boot-a-de17c9ad-4b65-4f0f-a369-0c5e623cb2dc#ref=rss)
-### jacht
+* [https://www.spiegel.de/wirtschaft/warum-das-bsw-als-anwalt-der-kleinen-agiert-und-auslaendische-konzerne-herausfordert](https://www.spiegel.de/wirtschaft/warum-das-bsw-als-anwalt-der-kleinen-agiert-und-auslaendische-konzerne-herausfordert-a-183f46bd-4df1-457b-87db-584bddcfbd0a#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-im-angesagtesten-lokal-der-stadt-stehen-omas-am-herd-alle-gute-vom-spiegel](https://www.spiegel.de/ausland/new-york-im-angesagtesten-lokal-der-stadt-stehen-omas-am-herd-alle-gute-vom-spiegel-a-bc7b0250-30a4-4579-93f2-23ccbfbb51d2#ref=rss)
+### thüringen
 
-* [https://www.spiegel.de/panorama/nordsee-vor-borkum-gesunkene-jacht-ist-ein-deutsches-boot](https://www.spiegel.de/panorama/nordsee-vor-borkum-gesunkene-jacht-ist-ein-deutsches-boot-a-de17c9ad-4b65-4f0f-a369-0c5e623cb2dc#ref=rss)
-### feuer
+* [https://www.spiegel.de/politik/deutschland/afd-plus-bsw-ex-cdu-generalsekretaer-polenz-bringt-hoecke-wagenknecht-regierung-ins-spiel](https://www.spiegel.de/politik/deutschland/afd-plus-bsw-ex-cdu-generalsekretaer-polenz-bringt-hoecke-wagenknecht-regierung-ins-spiel-a-5ef11465-2a7c-4ddf-a482-007df3858a37#ref=rss)
+### afd
 
-* [https://www.spiegel.de/panorama/nordsee-vor-borkum-gesunkene-jacht-ist-ein-deutsches-boot](https://www.spiegel.de/panorama/nordsee-vor-borkum-gesunkene-jacht-ist-ein-deutsches-boot-a-de17c9ad-4b65-4f0f-a369-0c5e623cb2dc#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/grossbritannien-angriff-auf-asylbewerberunterkunft-mann-zu-neun-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/grossbritannien-angriff-auf-asylbewerberunterkunft-mann-zu-neun-jahren-haft-verurteilt-a-4bc250ba-f5bf-4b11-96cb-adcc7e6c9de5#ref=rss)
-### großbritannien
+* [https://www.spiegel.de/politik/deutschland/afd-plus-bsw-ex-cdu-generalsekretaer-polenz-bringt-hoecke-wagenknecht-regierung-ins-spiel](https://www.spiegel.de/politik/deutschland/afd-plus-bsw-ex-cdu-generalsekretaer-polenz-bringt-hoecke-wagenknecht-regierung-ins-spiel-a-5ef11465-2a7c-4ddf-a482-007df3858a37#ref=rss)
+### plus
 
-* [https://www.spiegel.de/panorama/justiz/grossbritannien-angriff-auf-asylbewerberunterkunft-mann-zu-neun-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/grossbritannien-angriff-auf-asylbewerberunterkunft-mann-zu-neun-jahren-haft-verurteilt-a-4bc250ba-f5bf-4b11-96cb-adcc7e6c9de5#ref=rss)
-### verurteilt
+* [https://www.spiegel.de/politik/deutschland/afd-plus-bsw-ex-cdu-generalsekretaer-polenz-bringt-hoecke-wagenknecht-regierung-ins-spiel](https://www.spiegel.de/politik/deutschland/afd-plus-bsw-ex-cdu-generalsekretaer-polenz-bringt-hoecke-wagenknecht-regierung-ins-spiel-a-5ef11465-2a7c-4ddf-a482-007df3858a37#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-diese-lebensmittel-preise-sind-am-staerksten-gestiegen](https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-diese-lebensmittel-preise-sind-am-staerksten-gestiegen-a-f8678a24-9c6b-4e66-99bc-8d7a9f2ff7f8#ref=rss)
+### ruprecht
 
-* [https://www.spiegel.de/panorama/justiz/grossbritannien-angriff-auf-asylbewerberunterkunft-mann-zu-neun-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/grossbritannien-angriff-auf-asylbewerberunterkunft-mann-zu-neun-jahren-haft-verurteilt-a-4bc250ba-f5bf-4b11-96cb-adcc7e6c9de5#ref=rss)
-### flugsaurier
+* [https://www.spiegel.de/politik/deutschland/afd-plus-bsw-ex-cdu-generalsekretaer-polenz-bringt-hoecke-wagenknecht-regierung-ins-spiel](https://www.spiegel.de/politik/deutschland/afd-plus-bsw-ex-cdu-generalsekretaer-polenz-bringt-hoecke-wagenknecht-regierung-ins-spiel-a-5ef11465-2a7c-4ddf-a482-007df3858a37#ref=rss)
+### polenz
 
-* [https://www.spiegel.de/wissenschaft/natur/flugsaurier-wie-hielten-sich-die-reptilien-in-der-luft-forscherinnen-und-forscher-geben-antworten](https://www.spiegel.de/wissenschaft/natur/flugsaurier-wie-hielten-sich-die-reptilien-in-der-luft-forscherinnen-und-forscher-geben-antworten-a-0f9f46c6-e142-4b9f-881f-a718bc782dae#ref=rss)
-### hielten
+* [https://www.spiegel.de/politik/deutschland/afd-plus-bsw-ex-cdu-generalsekretaer-polenz-bringt-hoecke-wagenknecht-regierung-ins-spiel](https://www.spiegel.de/politik/deutschland/afd-plus-bsw-ex-cdu-generalsekretaer-polenz-bringt-hoecke-wagenknecht-regierung-ins-spiel-a-5ef11465-2a7c-4ddf-a482-007df3858a37#ref=rss)
+### pamela
 
-* [https://www.spiegel.de/wissenschaft/natur/flugsaurier-wie-hielten-sich-die-reptilien-in-der-luft-forscherinnen-und-forscher-geben-antworten](https://www.spiegel.de/wissenschaft/natur/flugsaurier-wie-hielten-sich-die-reptilien-in-der-luft-forscherinnen-und-forscher-geben-antworten-a-0f9f46c6-e142-4b9f-881f-a718bc782dae#ref=rss)
-### reptilien
+* [https://www.spiegel.de/kultur/kino/pamela-anderson-in-toronto-endlich-geht-es-einmal-nicht-um-sextapes-oder-ehemaenner](https://www.spiegel.de/kultur/kino/pamela-anderson-in-toronto-endlich-geht-es-einmal-nicht-um-sextapes-oder-ehemaenner-a-34412407-1e2a-43a1-a41a-0548bbce5de3#ref=rss)
+### anderson
 
-* [https://www.spiegel.de/wissenschaft/natur/flugsaurier-wie-hielten-sich-die-reptilien-in-der-luft-forscherinnen-und-forscher-geben-antworten](https://www.spiegel.de/wissenschaft/natur/flugsaurier-wie-hielten-sich-die-reptilien-in-der-luft-forscherinnen-und-forscher-geben-antworten-a-0f9f46c6-e142-4b9f-881f-a718bc782dae#ref=rss)
-### luft
+* [https://www.spiegel.de/kultur/kino/pamela-anderson-in-toronto-endlich-geht-es-einmal-nicht-um-sextapes-oder-ehemaenner](https://www.spiegel.de/kultur/kino/pamela-anderson-in-toronto-endlich-geht-es-einmal-nicht-um-sextapes-oder-ehemaenner-a-34412407-1e2a-43a1-a41a-0548bbce5de3#ref=rss)
+### toronto
 
-* [https://www.spiegel.de/wissenschaft/natur/flugsaurier-wie-hielten-sich-die-reptilien-in-der-luft-forscherinnen-und-forscher-geben-antworten](https://www.spiegel.de/wissenschaft/natur/flugsaurier-wie-hielten-sich-die-reptilien-in-der-luft-forscherinnen-und-forscher-geben-antworten-a-0f9f46c6-e142-4b9f-881f-a718bc782dae#ref=rss)
-### forscherinnen
+* [https://www.spiegel.de/kultur/kino/pamela-anderson-in-toronto-endlich-geht-es-einmal-nicht-um-sextapes-oder-ehemaenner](https://www.spiegel.de/kultur/kino/pamela-anderson-in-toronto-endlich-geht-es-einmal-nicht-um-sextapes-oder-ehemaenner-a-34412407-1e2a-43a1-a41a-0548bbce5de3#ref=rss)
+### new
 
-* [https://www.spiegel.de/wissenschaft/natur/flugsaurier-wie-hielten-sich-die-reptilien-in-der-luft-forscherinnen-und-forscher-geben-antworten](https://www.spiegel.de/wissenschaft/natur/flugsaurier-wie-hielten-sich-die-reptilien-in-der-luft-forscherinnen-und-forscher-geben-antworten-a-0f9f46c6-e142-4b9f-881f-a718bc782dae#ref=rss)
-### forscher
+* [https://www.spiegel.de/ausland/new-york-im-angesagtesten-lokal-der-stadt-stehen-omas-am-herd-alle-gute-vom-spiegel](https://www.spiegel.de/ausland/new-york-im-angesagtesten-lokal-der-stadt-stehen-omas-am-herd-alle-gute-vom-spiegel-a-bc7b0250-30a4-4579-93f2-23ccbfbb51d2#ref=rss)
+### york
 
-* [https://www.spiegel.de/wissenschaft/natur/flugsaurier-wie-hielten-sich-die-reptilien-in-der-luft-forscherinnen-und-forscher-geben-antworten](https://www.spiegel.de/wissenschaft/natur/flugsaurier-wie-hielten-sich-die-reptilien-in-der-luft-forscherinnen-und-forscher-geben-antworten-a-0f9f46c6-e142-4b9f-881f-a718bc782dae#ref=rss)
-### migrationshintergrund
+* [https://www.spiegel.de/ausland/new-york-im-angesagtesten-lokal-der-stadt-stehen-omas-am-herd-alle-gute-vom-spiegel](https://www.spiegel.de/ausland/new-york-im-angesagtesten-lokal-der-stadt-stehen-omas-am-herd-alle-gute-vom-spiegel-a-bc7b0250-30a4-4579-93f2-23ccbfbb51d2#ref=rss)
+### stadt
 
-* [https://www.spiegel.de/politik/deutschland/afd-wahlerfolge-menschen-mit-migrationshintergrund-denken-ueber-wegzug-aus-der-heimat-nach](https://www.spiegel.de/politik/deutschland/afd-wahlerfolge-menschen-mit-migrationshintergrund-denken-ueber-wegzug-aus-der-heimat-nach-a-23b6fc70-63a9-4ba9-a680-0bc76004e583#ref=rss)
-### wegzug
+* [https://www.spiegel.de/ausland/new-york-im-angesagtesten-lokal-der-stadt-stehen-omas-am-herd-alle-gute-vom-spiegel](https://www.spiegel.de/ausland/new-york-im-angesagtesten-lokal-der-stadt-stehen-omas-am-herd-alle-gute-vom-spiegel-a-bc7b0250-30a4-4579-93f2-23ccbfbb51d2#ref=rss)
+* [https://www.spiegel.de/ausland/westjordanland-amerikanische-aktivistin-bei-siedlungsprotest-getoetet-usa-fordern-aufklaerung](https://www.spiegel.de/ausland/westjordanland-amerikanische-aktivistin-bei-siedlungsprotest-getoetet-usa-fordern-aufklaerung-a-a6c4db92-b544-43ca-8985-5ab44d7d363b#ref=rss)
+### bahn
 
-* [https://www.spiegel.de/politik/deutschland/afd-wahlerfolge-menschen-mit-migrationshintergrund-denken-ueber-wegzug-aus-der-heimat-nach](https://www.spiegel.de/politik/deutschland/afd-wahlerfolge-menschen-mit-migrationshintergrund-denken-ueber-wegzug-aus-der-heimat-nach-a-23b6fc70-63a9-4ba9-a680-0bc76004e583#ref=rss)
-### plant
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-faehrt-weiterhin-container-durch-russland](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-faehrt-weiterhin-container-durch-russland-a-a34637fa-6b41-4ef9-a9e4-d1fbf87c688f#ref=rss)
+### russland
 
-* [https://www.spiegel.de/auto/elektroautos-bundesregierung-plant-mit-foerderstopp-fuer-deutsche-batterieforschung](https://www.spiegel.de/auto/elektroautos-bundesregierung-plant-mit-foerderstopp-fuer-deutsche-batterieforschung-a-4fe4867a-5cd7-4d25-935b-933fd89ad211#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-faehrt-weiterhin-container-durch-russland](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-faehrt-weiterhin-container-durch-russland-a-a34637fa-6b41-4ef9-a9e4-d1fbf87c688f#ref=rss)
+### getötet
+
+* [https://www.spiegel.de/ausland/westjordanland-amerikanische-aktivistin-bei-siedlungsprotest-getoetet-usa-fordern-aufklaerung](https://www.spiegel.de/ausland/westjordanland-amerikanische-aktivistin-bei-siedlungsprotest-getoetet-usa-fordern-aufklaerung-a-a6c4db92-b544-43ca-8985-5ab44d7d363b#ref=rss)
+### verkündet
+
+* [https://www.spiegel.de/ausland/donald-trump-strafmass-im-schweigegeldprozess-wird-erst-nach-der-wahl-verkuendet](https://www.spiegel.de/ausland/donald-trump-strafmass-im-schweigegeldprozess-wird-erst-nach-der-wahl-verkuendet-a-e2ad60de-224e-45e1-a816-1354986676b1#ref=rss)
+### expräsident
+
+* [https://www.spiegel.de/ausland/donald-trump-strafmass-im-schweigegeldprozess-wird-erst-nach-der-wahl-verkuendet](https://www.spiegel.de/ausland/donald-trump-strafmass-im-schweigegeldprozess-wird-erst-nach-der-wahl-verkuendet-a-e2ad60de-224e-45e1-a816-1354986676b1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-olaf-scholz-elon-musk](https://www.spiegel.de/politik/deutschland/news-donald-trump-olaf-scholz-elon-musk-a-dfb23622-e1cf-4c1c-9da0-d89be7027e27#ref=rss)
 
