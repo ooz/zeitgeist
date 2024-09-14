@@ -4,392 +4,342 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### land
+### deutsche
 
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-a-c9f2d54f-59f7-482f-8c70-2a6446da7608#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast-a-4c04c081-09e2-4d16-b155-ee89c4e5c029#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/brandenburg-wahl-michael-kretschmer-ueberrascht-spd-mit-wahlkampfgeschenk](https://www.spiegel.de/politik/deutschland/brandenburg-wahl-michael-kretschmer-ueberrascht-spd-mit-wahlkampfgeschenk-a-6c51b4ff-2244-4f9f-9140-c550e8b4e9c6#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/us-wahlkampf-so-reagieren-die-waehler-umkaempfter-bundesstaaten-auf-taylor-swifts-unterstuetzung-fuer-harris](https://www.spiegel.de/ausland/us-wahlkampf-so-reagieren-die-waehler-umkaempfter-bundesstaaten-auf-taylor-swifts-unterstuetzung-fuer-harris-a-55b6bc2d-e5ac-44b8-a787-e383c2c62e5f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-jugend-und-die-afd-donald-trump-hamburger-morgenpost](https://www.spiegel.de/politik/deutschland/news-des-tages-jugend-und-die-afd-donald-trump-hamburger-morgenpost-a-7f5ba386-1cd4-43ac-b914-484dbf44c07a#ref=rss)
-* [https://www.spiegel.de/panorama/leute/john-legend-verteidigt-migranten-in-springfield-gegen-donald-trumps-attacke](https://www.spiegel.de/panorama/leute/john-legend-verteidigt-migranten-in-springfield-gegen-donald-trumps-attacke-a-93bf7272-ef85-4586-a6a2-4b8fa4afc181#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahlkampf-nach-tv-duell-kamala-harris-gewinnt-und-laesst-fragen-offen-podcast](https://www.spiegel.de/ausland/us-wahlkampf-nach-tv-duell-kamala-harris-gewinnt-und-laesst-fragen-offen-podcast-a-8f735726-f2f9-4272-a797-79d72679ef42#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/justiz/rotherham-maenner-wegen-vergewaltigung-zu-langjaehrigen-haftstrafen-verurteilt](https://www.spiegel.de/panorama/justiz/rotherham-maenner-wegen-vergewaltigung-zu-langjaehrigen-haftstrafen-verurteilt-a-4867dc79-78cf-4ed6-8c1a-b190acaff7cd#ref=rss)
-* [https://www.spiegel.de/ausland/ukrainekrieg-warum-iran-russland-raketen-liefert](https://www.spiegel.de/ausland/ukrainekrieg-warum-iran-russland-raketen-liefert-a-867b7512-a61e-495e-8f7a-07cd0f37b0a9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/systemgastronomie-mitarbeiter-von-mcdonalds-und-co-fordern-mehr-geld-und-gehen-in-den-streik](https://www.spiegel.de/wirtschaft/unternehmen/systemgastronomie-mitarbeiter-von-mcdonalds-und-co-fordern-mehr-geld-und-gehen-in-den-streik-a-1ee4efcd-eba0-4020-92d9-59b3043fc050#ref=rss)
-### sudan
-
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-a-c9f2d54f-59f7-482f-8c70-2a6446da7608#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast-a-4c04c081-09e2-4d16-b155-ee89c4e5c029#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-a-c9f2d54f-59f7-482f-8c70-2a6446da7608#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast-a-4c04c081-09e2-4d16-b155-ee89c4e5c029#ref=rss)
-* [https://www.spiegel.de/ausland/papst-franziskus-reist-um-die-welt-warum-tut-er-sich-diese-strapazen-an](https://www.spiegel.de/ausland/papst-franziskus-reist-um-die-welt-warum-tut-er-sich-diese-strapazen-an-a-07d3cbdc-096e-4221-91a1-b77f661492ff#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/intel-polen-zahlt-fuer-ansiedlung-von-chip-fabrik-bei-breslau](https://www.spiegel.de/wirtschaft/unternehmen/intel-polen-zahlt-fuer-ansiedlung-von-chip-fabrik-bei-breslau-a-79bd7e92-97ab-47c0-a9cc-8042f2063c71#ref=rss)
+* [https://www.spiegel.de/politik/ostsee-deutsche-luftwaffe-reagiert-auf-russische-flugzeuge-ohne-transponder-kennung](https://www.spiegel.de/politik/ostsee-deutsche-luftwaffe-reagiert-auf-russische-flugzeuge-ohne-transponder-kennung-a-6194e680-ae0d-45c5-998f-4e7d2c0d263a#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-wahl-regieren-bald-die-liberalen-neos-podcast](https://www.spiegel.de/ausland/oesterreich-wahl-regieren-bald-die-liberalen-neos-podcast-a-28d23da9-5f55-4c68-8faa-8e190f81a0c3#ref=rss)
+* [https://www.spiegel.de/auto/xpeng-g6-im-test-elektroauto-vom-partner-aus-china-als-vorbild-fuer-vw](https://www.spiegel.de/auto/xpeng-g6-im-test-elektroauto-vom-partner-aus-china-als-vorbild-fuer-vw-a-bdb1ae42-7070-4dc5-9c46-dc65f3d4c91f#ref=rss)
+* [https://www.spiegel.de/reise/deutschland/wuppertal-dessau-bremerhaven-unerwartete-deutsche-ziele-im-marco-polo-trendguide-2025](https://www.spiegel.de/reise/deutschland/wuppertal-dessau-bremerhaven-unerwartete-deutsche-ziele-im-marco-polo-trendguide-2025-a-23c3cf8f-21d9-4f57-9d3f-b8e4c54b7287#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/us-wahlkampf-so-reagieren-die-waehler-umkaempfter-bundesstaaten-auf-taylor-swifts-unterstuetzung-fuer-harris](https://www.spiegel.de/ausland/us-wahlkampf-so-reagieren-die-waehler-umkaempfter-bundesstaaten-auf-taylor-swifts-unterstuetzung-fuer-harris-a-55b6bc2d-e5ac-44b8-a787-e383c2c62e5f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-jugend-und-die-afd-donald-trump-hamburger-morgenpost](https://www.spiegel.de/politik/deutschland/news-des-tages-jugend-und-die-afd-donald-trump-hamburger-morgenpost-a-7f5ba386-1cd4-43ac-b914-484dbf44c07a#ref=rss)
-* [https://www.spiegel.de/panorama/leute/john-legend-verteidigt-migranten-in-springfield-gegen-donald-trumps-attacke](https://www.spiegel.de/panorama/leute/john-legend-verteidigt-migranten-in-springfield-gegen-donald-trumps-attacke-a-93bf7272-ef85-4586-a6a2-4b8fa4afc181#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahlkampf-nach-tv-duell-kamala-harris-gewinnt-und-laesst-fragen-offen-podcast](https://www.spiegel.de/ausland/us-wahlkampf-nach-tv-duell-kamala-harris-gewinnt-und-laesst-fragen-offen-podcast-a-8f735726-f2f9-4272-a797-79d72679ef42#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-oder-kamala-harris-papst-franziskus-spricht-wahlempfehlung-aus](https://www.spiegel.de/ausland/donald-trump-oder-kamala-harris-papst-franziskus-spricht-wahlempfehlung-aus-a-cf0953a5-b2ac-4c23-8556-cc4e5ab39c8c#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-springfield-bombendrohung-gegen-schulen-nach-haustierbehauptung](https://www.spiegel.de/ausland/donald-trump-und-springfield-bombendrohung-gegen-schulen-nach-haustierbehauptung-a-5fc18ad5-9162-4790-b3d0-90f8617dc9ef#ref=rss)
+### waren
+
+* [https://www.spiegel.de/sport/golf/solheim-cup-rekordvorsprung-fuer-die-us-golferinnen-und-organisationschaos-fuer-die-fans](https://www.spiegel.de/sport/golf/solheim-cup-rekordvorsprung-fuer-die-us-golferinnen-und-organisationschaos-fuer-die-fans-a-63754c2d-eca3-4b76-98c0-2e6b7e23498f#ref=rss)
+* [https://www.spiegel.de/politik/ostsee-deutsche-luftwaffe-reagiert-auf-russische-flugzeuge-ohne-transponder-kennung](https://www.spiegel.de/politik/ostsee-deutsche-luftwaffe-reagiert-auf-russische-flugzeuge-ohne-transponder-kennung-a-6194e680-ae0d-45c5-998f-4e7d2c0d263a#ref=rss)
+* [https://www.spiegel.de/auto/xpeng-g6-im-test-elektroauto-vom-partner-aus-china-als-vorbild-fuer-vw](https://www.spiegel.de/auto/xpeng-g6-im-test-elektroauto-vom-partner-aus-china-als-vorbild-fuer-vw-a-bdb1ae42-7070-4dc5-9c46-dc65f3d4c91f#ref=rss)
+### russische
+
+* [https://www.spiegel.de/politik/ostsee-deutsche-luftwaffe-reagiert-auf-russische-flugzeuge-ohne-transponder-kennung](https://www.spiegel.de/politik/ostsee-deutsche-luftwaffe-reagiert-auf-russische-flugzeuge-ohne-transponder-kennung-a-6194e680-ae0d-45c5-998f-4e7d2c0d263a#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-putins-hilflose-soldaten-spiegel-tv-gibt-exklusive-einblicke-in-gefangenenlager](https://www.spiegel.de/ausland/ukraine-krieg-putins-hilflose-soldaten-spiegel-tv-gibt-exklusive-einblicke-in-gefangenenlager-a-de656c3a-f7cf-4f10-b95f-ea1de08f48f7#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/politik/ostsee-deutsche-luftwaffe-reagiert-auf-russische-flugzeuge-ohne-transponder-kennung](https://www.spiegel.de/politik/ostsee-deutsche-luftwaffe-reagiert-auf-russische-flugzeuge-ohne-transponder-kennung-a-6194e680-ae0d-45c5-998f-4e7d2c0d263a#ref=rss)
+* [https://www.spiegel.de/panorama/leute/lottie-moss-besorgte-sich-abnehmspritzen-unter-der-hand-und-landete-im-krankenhaus](https://www.spiegel.de/panorama/leute/lottie-moss-besorgte-sich-abnehmspritzen-unter-der-hand-und-landete-im-krankenhaus-a-1872fc79-000b-4693-9227-f20f52d23fba#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/panorama/justiz/rotherham-maenner-wegen-vergewaltigung-zu-langjaehrigen-haftstrafen-verurteilt](https://www.spiegel.de/panorama/justiz/rotherham-maenner-wegen-vergewaltigung-zu-langjaehrigen-haftstrafen-verurteilt-a-4867dc79-78cf-4ed6-8c1a-b190acaff7cd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/dresden-durchsuchung-bei-44-jaehrigem-wegen-wahlfaelschung-in-sachsen](https://www.spiegel.de/politik/deutschland/dresden-durchsuchung-bei-44-jaehrigem-wegen-wahlfaelschung-in-sachsen-a-646ae67f-280b-451c-b33c-49f138ef80c8#ref=rss)
-* [https://www.spiegel.de/kultur/musik/linkin-park-erstmals-auf-platz-eins-der-deutschen-single-charts](https://www.spiegel.de/kultur/musik/linkin-park-erstmals-auf-platz-eins-der-deutschen-single-charts-a-7888bd62-a528-408c-928c-42f05521056c#ref=rss)
-### berlin
+* [https://www.spiegel.de/politik/ostsee-deutsche-luftwaffe-reagiert-auf-russische-flugzeuge-ohne-transponder-kennung](https://www.spiegel.de/politik/ostsee-deutsche-luftwaffe-reagiert-auf-russische-flugzeuge-ohne-transponder-kennung-a-6194e680-ae0d-45c5-998f-4e7d2c0d263a#ref=rss)
+* [https://www.spiegel.de/panorama/hochwasser-in-tschechien-und-polen-zwei-orte-evakuiert](https://www.spiegel.de/panorama/hochwasser-in-tschechien-und-polen-zwei-orte-evakuiert-a-9dacc165-18f3-4ed0-a608-c69d026e651a#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-springfield-bombendrohung-gegen-schulen-nach-haustierbehauptung](https://www.spiegel.de/ausland/donald-trump-und-springfield-bombendrohung-gegen-schulen-nach-haustierbehauptung-a-5fc18ad5-9162-4790-b3d0-90f8617dc9ef#ref=rss)
+### autos
 
-* [https://www.spiegel.de/politik/deutschland/so-reden-wagenknecht-und-voigt-ueber-ihren-diskreten-termin-in-berlin](https://www.spiegel.de/politik/deutschland/so-reden-wagenknecht-und-voigt-ueber-ihren-diskreten-termin-in-berlin-a-094f66bd-5e2b-4298-ac46-adabd121d4ba#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-kultursenator-joe-chialo-in-antisemitismus-streit-von-demonstranten-bedraengt](https://www.spiegel.de/politik/deutschland/berlin-kultursenator-joe-chialo-in-antisemitismus-streit-von-demonstranten-bedraengt-a-23746526-141a-4b6e-92da-b3afc66dd131#ref=rss)
-### rede
+* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-fahrer-beschaedigt-sechs-geparkte-autos-und-faehrt-davon](https://www.spiegel.de/panorama/justiz/gelsenkirchen-fahrer-beschaedigt-sechs-geparkte-autos-und-faehrt-davon-a-0b00a36a-5044-4242-9811-a7906dd76664#ref=rss)
+* [https://www.spiegel.de/auto/xpeng-g6-im-test-elektroauto-vom-partner-aus-china-als-vorbild-fuer-vw](https://www.spiegel.de/auto/xpeng-g6-im-test-elektroauto-vom-partner-aus-china-als-vorbild-fuer-vw-a-bdb1ae42-7070-4dc5-9c46-dc65f3d4c91f#ref=rss)
+### serhou
 
-* [https://www.spiegel.de/politik/deutschland/so-reden-wagenknecht-und-voigt-ueber-ihren-diskreten-termin-in-berlin](https://www.spiegel.de/politik/deutschland/so-reden-wagenknecht-und-voigt-ueber-ihren-diskreten-termin-in-berlin-a-094f66bd-5e2b-4298-ac46-adabd121d4ba#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/intel-polen-zahlt-fuer-ansiedlung-von-chip-fabrik-bei-breslau](https://www.spiegel.de/wirtschaft/unternehmen/intel-polen-zahlt-fuer-ansiedlung-von-chip-fabrik-bei-breslau-a-79bd7e92-97ab-47c0-a9cc-8042f2063c71#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-kultursenator-joe-chialo-in-antisemitismus-streit-von-demonstranten-bedraengt](https://www.spiegel.de/politik/deutschland/berlin-kultursenator-joe-chialo-in-antisemitismus-streit-von-demonstranten-bedraengt-a-23746526-141a-4b6e-92da-b3afc66dd131#ref=rss)
+* [https://www.spiegel.de/sport/fussball/serhou-guirassy-bei-borussia-dortmund-der-mann-der-einen-neuen-bvb-verspricht](https://www.spiegel.de/sport/fussball/serhou-guirassy-bei-borussia-dortmund-der-mann-der-einen-neuen-bvb-verspricht-a-f6776a20-d977-4098-ae3f-a8a835d3cab2#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bundesliga-borussia-dortmund-stoppt-tabellenfuehrer-heidenheim-karim-adeyemi-trifft-doppelt](https://www.spiegel.de/sport/fussball/bundesliga-borussia-dortmund-stoppt-tabellenfuehrer-heidenheim-karim-adeyemi-trifft-doppelt-a-df0e10ea-07bf-495b-97c9-a88725d897a7#ref=rss)
+### guirassy
+
+* [https://www.spiegel.de/sport/fussball/serhou-guirassy-bei-borussia-dortmund-der-mann-der-einen-neuen-bvb-verspricht](https://www.spiegel.de/sport/fussball/serhou-guirassy-bei-borussia-dortmund-der-mann-der-einen-neuen-bvb-verspricht-a-f6776a20-d977-4098-ae3f-a8a835d3cab2#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bundesliga-borussia-dortmund-stoppt-tabellenfuehrer-heidenheim-karim-adeyemi-trifft-doppelt](https://www.spiegel.de/sport/fussball/bundesliga-borussia-dortmund-stoppt-tabellenfuehrer-heidenheim-karim-adeyemi-trifft-doppelt-a-df0e10ea-07bf-495b-97c9-a88725d897a7#ref=rss)
+### borussia
+
+* [https://www.spiegel.de/sport/fussball/serhou-guirassy-bei-borussia-dortmund-der-mann-der-einen-neuen-bvb-verspricht](https://www.spiegel.de/sport/fussball/serhou-guirassy-bei-borussia-dortmund-der-mann-der-einen-neuen-bvb-verspricht-a-f6776a20-d977-4098-ae3f-a8a835d3cab2#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bundesliga-borussia-dortmund-stoppt-tabellenfuehrer-heidenheim-karim-adeyemi-trifft-doppelt](https://www.spiegel.de/sport/fussball/bundesliga-borussia-dortmund-stoppt-tabellenfuehrer-heidenheim-karim-adeyemi-trifft-doppelt-a-df0e10ea-07bf-495b-97c9-a88725d897a7#ref=rss)
+### dortmund
+
+* [https://www.spiegel.de/sport/fussball/serhou-guirassy-bei-borussia-dortmund-der-mann-der-einen-neuen-bvb-verspricht](https://www.spiegel.de/sport/fussball/serhou-guirassy-bei-borussia-dortmund-der-mann-der-einen-neuen-bvb-verspricht-a-f6776a20-d977-4098-ae3f-a8a835d3cab2#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bundesliga-borussia-dortmund-stoppt-tabellenfuehrer-heidenheim-karim-adeyemi-trifft-doppelt](https://www.spiegel.de/sport/fussball/bundesliga-borussia-dortmund-stoppt-tabellenfuehrer-heidenheim-karim-adeyemi-trifft-doppelt-a-df0e10ea-07bf-495b-97c9-a88725d897a7#ref=rss)
+### heidenheim
+
+* [https://www.spiegel.de/sport/fussball/serhou-guirassy-bei-borussia-dortmund-der-mann-der-einen-neuen-bvb-verspricht](https://www.spiegel.de/sport/fussball/serhou-guirassy-bei-borussia-dortmund-der-mann-der-einen-neuen-bvb-verspricht-a-f6776a20-d977-4098-ae3f-a8a835d3cab2#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bundesliga-borussia-dortmund-stoppt-tabellenfuehrer-heidenheim-karim-adeyemi-trifft-doppelt](https://www.spiegel.de/sport/fussball/bundesliga-borussia-dortmund-stoppt-tabellenfuehrer-heidenheim-karim-adeyemi-trifft-doppelt-a-df0e10ea-07bf-495b-97c9-a88725d897a7#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/ukraine-joe-biden-und-keir-starmer-vertagen-entscheidung-ueber-waffen-einsatz-gegen-russland](https://www.spiegel.de/ausland/ukraine-joe-biden-und-keir-starmer-vertagen-entscheidung-ueber-waffen-einsatz-gegen-russland-a-c4f9d9c8-4529-4b73-b2d6-84e1bdb65557#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-putins-hilflose-soldaten-spiegel-tv-gibt-exklusive-einblicke-in-gefangenenlager](https://www.spiegel.de/ausland/ukraine-krieg-putins-hilflose-soldaten-spiegel-tv-gibt-exklusive-einblicke-in-gefangenenlager-a-de656c3a-f7cf-4f10-b95f-ea1de08f48f7#ref=rss)
 ### russland
 
-* [https://www.spiegel.de/ausland/ukrainekrieg-warum-iran-russland-raketen-liefert](https://www.spiegel.de/ausland/ukrainekrieg-warum-iran-russland-raketen-liefert-a-867b7512-a61e-495e-8f7a-07cd0f37b0a9#ref=rss)
-* [https://www.spiegel.de/ausland/russland-hat-ein-putin-kritischer-oligarch-ein-attentat-auf-eine-mitstreiter-von-alexey-nawalny-verueben-lassen](https://www.spiegel.de/ausland/russland-hat-ein-putin-kritischer-oligarch-ein-attentat-auf-eine-mitstreiter-von-alexey-nawalny-verueben-lassen-a-c97abfcd-d789-415b-b97c-0d6aef6b3e25#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-frauen-uebernehmen-jobs-in-bisher-maennlich-dominierten-branchen](https://www.spiegel.de/ausland/ukraine-krieg-frauen-uebernehmen-jobs-in-bisher-maennlich-dominierten-branchen-a-bd5a8ef6-872c-497c-bdea-f750a4aaf935#ref=rss)
-* [https://www.spiegel.de/sport/fussball/alex-morgan-beendet-ihre-karriere-ihr-kampf-fuer-gleichstellung-wird-weitergehen](https://www.spiegel.de/sport/fussball/alex-morgan-beendet-ihre-karriere-ihr-kampf-fuer-gleichstellung-wird-weitergehen-a-4e88d009-4ba2-46ea-829c-4730ae73a41b#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-joe-biden-und-keir-starmer-vertagen-entscheidung-ueber-waffen-einsatz-gegen-russland](https://www.spiegel.de/ausland/ukraine-joe-biden-und-keir-starmer-vertagen-entscheidung-ueber-waffen-einsatz-gegen-russland-a-c4f9d9c8-4529-4b73-b2d6-84e1bdb65557#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-putins-hilflose-soldaten-spiegel-tv-gibt-exklusive-einblicke-in-gefangenenlager](https://www.spiegel.de/ausland/ukraine-krieg-putins-hilflose-soldaten-spiegel-tv-gibt-exklusive-einblicke-in-gefangenenlager-a-de656c3a-f7cf-4f10-b95f-ea1de08f48f7#ref=rss)
 ### droht
 
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-a-c9f2d54f-59f7-482f-8c70-2a6446da7608#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/daenemark-29-jaehriger-soll-dutzende-verkehrsdelikte-begangen-haben-und-sich-gefilmt-haben](https://www.spiegel.de/panorama/justiz/daenemark-29-jaehriger-soll-dutzende-verkehrsdelikte-begangen-haben-und-sich-gefilmt-haben-a-d169b257-bb3f-4962-8efd-8abf0c23e54f#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast-a-4c04c081-09e2-4d16-b155-ee89c4e5c029#ref=rss)
-### spiegelkorrespondent
+* [https://www.spiegel.de/ausland/ukraine-joe-biden-und-keir-starmer-vertagen-entscheidung-ueber-waffen-einsatz-gegen-russland](https://www.spiegel.de/ausland/ukraine-joe-biden-und-keir-starmer-vertagen-entscheidung-ueber-waffen-einsatz-gegen-russland-a-c4f9d9c8-4529-4b73-b2d6-84e1bdb65557#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-em-2028-nordirland-droht-das-aus-als-co-gastgeber-wegen-kostenexplosion-bei-stadionbau](https://www.spiegel.de/sport/fussball/fussball-em-2028-nordirland-droht-das-aus-als-co-gastgeber-wegen-kostenexplosion-bei-stadionbau-a-2d0fba2f-baa5-4efa-af03-30ff6a192b96#ref=rss)
+* [https://www.spiegel.de/ausland/demokratische-republik-kongo-militaergericht-verurteilt-37-menschen-zum-tod](https://www.spiegel.de/ausland/demokratische-republik-kongo-militaergericht-verurteilt-37-menschen-zum-tod-a-aec9b138-5333-4a35-8f3b-e2bbc84abb37#ref=rss)
+### gehen
 
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-a-c9f2d54f-59f7-482f-8c70-2a6446da7608#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast-a-4c04c081-09e2-4d16-b155-ee89c4e5c029#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahlkampf-nach-tv-duell-kamala-harris-gewinnt-und-laesst-fragen-offen-podcast](https://www.spiegel.de/ausland/us-wahlkampf-nach-tv-duell-kamala-harris-gewinnt-und-laesst-fragen-offen-podcast-a-8f735726-f2f9-4272-a797-79d72679ef42#ref=rss)
-### harris
+* [https://www.spiegel.de/ausland/oesterreich-wahl-regieren-bald-die-liberalen-neos-podcast](https://www.spiegel.de/ausland/oesterreich-wahl-regieren-bald-die-liberalen-neos-podcast-a-28d23da9-5f55-4c68-8faa-8e190f81a0c3#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-oder-kamala-harris-papst-franziskus-spricht-wahlempfehlung-aus](https://www.spiegel.de/ausland/donald-trump-oder-kamala-harris-papst-franziskus-spricht-wahlempfehlung-aus-a-cf0953a5-b2ac-4c23-8556-cc4e5ab39c8c#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-springfield-bombendrohung-gegen-schulen-nach-haustierbehauptung](https://www.spiegel.de/ausland/donald-trump-und-springfield-bombendrohung-gegen-schulen-nach-haustierbehauptung-a-5fc18ad5-9162-4790-b3d0-90f8617dc9ef#ref=rss)
+### warnt
 
-* [https://www.spiegel.de/ausland/us-wahlkampf-so-reagieren-die-waehler-umkaempfter-bundesstaaten-auf-taylor-swifts-unterstuetzung-fuer-harris](https://www.spiegel.de/ausland/us-wahlkampf-so-reagieren-die-waehler-umkaempfter-bundesstaaten-auf-taylor-swifts-unterstuetzung-fuer-harris-a-55b6bc2d-e5ac-44b8-a787-e383c2c62e5f#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahlkampf-nach-tv-duell-kamala-harris-gewinnt-und-laesst-fragen-offen-podcast](https://www.spiegel.de/ausland/us-wahlkampf-nach-tv-duell-kamala-harris-gewinnt-und-laesst-fragen-offen-podcast-a-8f735726-f2f9-4272-a797-79d72679ef42#ref=rss)
-### menschen
+* [https://www.spiegel.de/politik/deutschland/news-ki-forscher-warnt-vor-ki-wahlkampf-in-brandenburg-buergerfest-des-bundespraesidenten](https://www.spiegel.de/politik/deutschland/news-ki-forscher-warnt-vor-ki-wahlkampf-in-brandenburg-buergerfest-des-bundespraesidenten-a-3bf8b3c6-0c1d-49cc-a41f-20064155e17d#ref=rss)
+* [https://www.spiegel.de/panorama/leute/lottie-moss-besorgte-sich-abnehmspritzen-unter-der-hand-und-landete-im-krankenhaus](https://www.spiegel.de/panorama/leute/lottie-moss-besorgte-sich-abnehmspritzen-unter-der-hand-und-landete-im-krankenhaus-a-1872fc79-000b-4693-9227-f20f52d23fba#ref=rss)
+### donald
 
-* [https://www.spiegel.de/panorama/justiz/daenemark-29-jaehriger-soll-dutzende-verkehrsdelikte-begangen-haben-und-sich-gefilmt-haben](https://www.spiegel.de/panorama/justiz/daenemark-29-jaehriger-soll-dutzende-verkehrsdelikte-begangen-haben-und-sich-gefilmt-haben-a-d169b257-bb3f-4962-8efd-8abf0c23e54f#ref=rss)
-* [https://www.spiegel.de/panorama/leute/john-legend-verteidigt-migranten-in-springfield-gegen-donald-trumps-attacke](https://www.spiegel.de/panorama/leute/john-legend-verteidigt-migranten-in-springfield-gegen-donald-trumps-attacke-a-93bf7272-ef85-4586-a6a2-4b8fa4afc181#ref=rss)
-* [https://www.spiegel.de/panorama/oesterreich-schnee-und-regen-fuehren-zu-verkehrsbehinderungen](https://www.spiegel.de/panorama/oesterreich-schnee-und-regen-fuehren-zu-verkehrsbehinderungen-a-03ef336f-8a3a-408f-af46-53ab13f0201a#ref=rss)
-### migranten
+* [https://www.spiegel.de/ausland/donald-trump-oder-kamala-harris-papst-franziskus-spricht-wahlempfehlung-aus](https://www.spiegel.de/ausland/donald-trump-oder-kamala-harris-papst-franziskus-spricht-wahlempfehlung-aus-a-cf0953a5-b2ac-4c23-8556-cc4e5ab39c8c#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-springfield-bombendrohung-gegen-schulen-nach-haustierbehauptung](https://www.spiegel.de/ausland/donald-trump-und-springfield-bombendrohung-gegen-schulen-nach-haustierbehauptung-a-5fc18ad5-9162-4790-b3d0-90f8617dc9ef#ref=rss)
+### solheim
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-jugend-und-die-afd-donald-trump-hamburger-morgenpost](https://www.spiegel.de/politik/deutschland/news-des-tages-jugend-und-die-afd-donald-trump-hamburger-morgenpost-a-7f5ba386-1cd4-43ac-b914-484dbf44c07a#ref=rss)
-* [https://www.spiegel.de/panorama/leute/john-legend-verteidigt-migranten-in-springfield-gegen-donald-trumps-attacke](https://www.spiegel.de/panorama/leute/john-legend-verteidigt-migranten-in-springfield-gegen-donald-trumps-attacke-a-93bf7272-ef85-4586-a6a2-4b8fa4afc181#ref=rss)
-### tvduell
+* [https://www.spiegel.de/sport/golf/solheim-cup-rekordvorsprung-fuer-die-us-golferinnen-und-organisationschaos-fuer-die-fans](https://www.spiegel.de/sport/golf/solheim-cup-rekordvorsprung-fuer-die-us-golferinnen-und-organisationschaos-fuer-die-fans-a-63754c2d-eca3-4b76-98c0-2e6b7e23498f#ref=rss)
+### cup
 
-* [https://www.spiegel.de/panorama/leute/john-legend-verteidigt-migranten-in-springfield-gegen-donald-trumps-attacke](https://www.spiegel.de/panorama/leute/john-legend-verteidigt-migranten-in-springfield-gegen-donald-trumps-attacke-a-93bf7272-ef85-4586-a6a2-4b8fa4afc181#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahlkampf-nach-tv-duell-kamala-harris-gewinnt-und-laesst-fragen-offen-podcast](https://www.spiegel.de/ausland/us-wahlkampf-nach-tv-duell-kamala-harris-gewinnt-und-laesst-fragen-offen-podcast-a-8f735726-f2f9-4272-a797-79d72679ef42#ref=rss)
-### polen
+* [https://www.spiegel.de/sport/golf/solheim-cup-rekordvorsprung-fuer-die-us-golferinnen-und-organisationschaos-fuer-die-fans](https://www.spiegel.de/sport/golf/solheim-cup-rekordvorsprung-fuer-die-us-golferinnen-und-organisationschaos-fuer-die-fans-a-63754c2d-eca3-4b76-98c0-2e6b7e23498f#ref=rss)
+### ersten
 
-* [https://www.spiegel.de/panorama/oesterreich-schnee-und-regen-fuehren-zu-verkehrsbehinderungen](https://www.spiegel.de/panorama/oesterreich-schnee-und-regen-fuehren-zu-verkehrsbehinderungen-a-03ef336f-8a3a-408f-af46-53ab13f0201a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/intel-polen-zahlt-fuer-ansiedlung-von-chip-fabrik-bei-breslau](https://www.spiegel.de/wirtschaft/unternehmen/intel-polen-zahlt-fuer-ansiedlung-von-chip-fabrik-bei-breslau-a-79bd7e92-97ab-47c0-a9cc-8042f2063c71#ref=rss)
-### geld
+* [https://www.spiegel.de/sport/golf/solheim-cup-rekordvorsprung-fuer-die-us-golferinnen-und-organisationschaos-fuer-die-fans](https://www.spiegel.de/sport/golf/solheim-cup-rekordvorsprung-fuer-die-us-golferinnen-und-organisationschaos-fuer-die-fans-a-63754c2d-eca3-4b76-98c0-2e6b7e23498f#ref=rss)
+* [https://www.spiegel.de/reise/deutschland/wuppertal-dessau-bremerhaven-unerwartete-deutsche-ziele-im-marco-polo-trendguide-2025](https://www.spiegel.de/reise/deutschland/wuppertal-dessau-bremerhaven-unerwartete-deutsche-ziele-im-marco-polo-trendguide-2025-a-23c3cf8f-21d9-4f57-9d3f-b8e4c54b7287#ref=rss)
+### usa
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/systemgastronomie-mitarbeiter-von-mcdonalds-und-co-fordern-mehr-geld-und-gehen-in-den-streik](https://www.spiegel.de/wirtschaft/unternehmen/systemgastronomie-mitarbeiter-von-mcdonalds-und-co-fordern-mehr-geld-und-gehen-in-den-streik-a-1ee4efcd-eba0-4020-92d9-59b3043fc050#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/intel-polen-zahlt-fuer-ansiedlung-von-chip-fabrik-bei-breslau](https://www.spiegel.de/wirtschaft/unternehmen/intel-polen-zahlt-fuer-ansiedlung-von-chip-fabrik-bei-breslau-a-79bd7e92-97ab-47c0-a9cc-8042f2063c71#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/ausland/us-wahlkampf-nach-tv-duell-kamala-harris-gewinnt-und-laesst-fragen-offen-podcast](https://www.spiegel.de/ausland/us-wahlkampf-nach-tv-duell-kamala-harris-gewinnt-und-laesst-fragen-offen-podcast-a-8f735726-f2f9-4272-a797-79d72679ef42#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/brandenburg-wahl-michael-kretschmer-ueberrascht-spd-mit-wahlkampfgeschenk](https://www.spiegel.de/politik/deutschland/brandenburg-wahl-michael-kretschmer-ueberrascht-spd-mit-wahlkampfgeschenk-a-6c51b4ff-2244-4f9f-9140-c550e8b4e9c6#ref=rss)
-### arbeit
-
-* [https://www.spiegel.de/panorama/leute/justin-timberlake-bekennt-sich-schuldig-und-muss-gemeinnuetzige-arbeit-leisten](https://www.spiegel.de/panorama/leute/justin-timberlake-bekennt-sich-schuldig-und-muss-gemeinnuetzige-arbeit-leisten-a-c3b9fc83-9eb1-4966-a08f-c01ab36e27ef#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/systemgastronomie-mitarbeiter-von-mcdonalds-und-co-fordern-mehr-geld-und-gehen-in-den-streik](https://www.spiegel.de/wirtschaft/unternehmen/systemgastronomie-mitarbeiter-von-mcdonalds-und-co-fordern-mehr-geld-und-gehen-in-den-streik-a-1ee4efcd-eba0-4020-92d9-59b3043fc050#ref=rss)
-### rotherham
-
-* [https://www.spiegel.de/panorama/justiz/rotherham-maenner-wegen-vergewaltigung-zu-langjaehrigen-haftstrafen-verurteilt](https://www.spiegel.de/panorama/justiz/rotherham-maenner-wegen-vergewaltigung-zu-langjaehrigen-haftstrafen-verurteilt-a-4867dc79-78cf-4ed6-8c1a-b190acaff7cd#ref=rss)
-### männer
-
-* [https://www.spiegel.de/panorama/justiz/rotherham-maenner-wegen-vergewaltigung-zu-langjaehrigen-haftstrafen-verurteilt](https://www.spiegel.de/panorama/justiz/rotherham-maenner-wegen-vergewaltigung-zu-langjaehrigen-haftstrafen-verurteilt-a-4867dc79-78cf-4ed6-8c1a-b190acaff7cd#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-frauen-uebernehmen-jobs-in-bisher-maennlich-dominierten-branchen](https://www.spiegel.de/ausland/ukraine-krieg-frauen-uebernehmen-jobs-in-bisher-maennlich-dominierten-branchen-a-bd5a8ef6-872c-497c-bdea-f750a4aaf935#ref=rss)
-### wagenknecht
-
-* [https://www.spiegel.de/politik/deutschland/so-reden-wagenknecht-und-voigt-ueber-ihren-diskreten-termin-in-berlin](https://www.spiegel.de/politik/deutschland/so-reden-wagenknecht-und-voigt-ueber-ihren-diskreten-termin-in-berlin-a-094f66bd-5e2b-4298-ac46-adabd121d4ba#ref=rss)
-### voigt
-
-* [https://www.spiegel.de/politik/deutschland/so-reden-wagenknecht-und-voigt-ueber-ihren-diskreten-termin-in-berlin](https://www.spiegel.de/politik/deutschland/so-reden-wagenknecht-und-voigt-ueber-ihren-diskreten-termin-in-berlin-a-094f66bd-5e2b-4298-ac46-adabd121d4ba#ref=rss)
-### ukrainekrieg
-
-* [https://www.spiegel.de/ausland/ukrainekrieg-warum-iran-russland-raketen-liefert](https://www.spiegel.de/ausland/ukrainekrieg-warum-iran-russland-raketen-liefert-a-867b7512-a61e-495e-8f7a-07cd0f37b0a9#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-frauen-uebernehmen-jobs-in-bisher-maennlich-dominierten-branchen](https://www.spiegel.de/ausland/ukraine-krieg-frauen-uebernehmen-jobs-in-bisher-maennlich-dominierten-branchen-a-bd5a8ef6-872c-497c-bdea-f750a4aaf935#ref=rss)
+* [https://www.spiegel.de/sport/golf/solheim-cup-rekordvorsprung-fuer-die-us-golferinnen-und-organisationschaos-fuer-die-fans](https://www.spiegel.de/sport/golf/solheim-cup-rekordvorsprung-fuer-die-us-golferinnen-und-organisationschaos-fuer-die-fans-a-63754c2d-eca3-4b76-98c0-2e6b7e23498f#ref=rss)
+* [https://www.spiegel.de/ausland/rt-usa-bezeichnen-russischen-sender-als-vollwertiges-mitglied-des-geheimdienstes](https://www.spiegel.de/ausland/rt-usa-bezeichnen-russischen-sender-als-vollwertiges-mitglied-des-geheimdienstes-a-4c2290c8-c623-43e5-ba4f-a1c6d87dc75e#ref=rss)
 ### iran
 
-* [https://www.spiegel.de/ausland/ukrainekrieg-warum-iran-russland-raketen-liefert](https://www.spiegel.de/ausland/ukrainekrieg-warum-iran-russland-raketen-liefert-a-867b7512-a61e-495e-8f7a-07cd0f37b0a9#ref=rss)
-### beiden
+* [https://www.spiegel.de/ausland/iran-bringt-forschungssatelliten-ins-all-international-gibt-es-zweifel-an-der-darstellung](https://www.spiegel.de/ausland/iran-bringt-forschungssatelliten-ins-all-international-gibt-es-zweifel-an-der-darstellung-a-d91b58f9-9e8b-47bb-96ac-2cd443b56bbd#ref=rss)
+### forschungssatelliten
 
-* [https://www.spiegel.de/ausland/ukrainekrieg-warum-iran-russland-raketen-liefert](https://www.spiegel.de/ausland/ukrainekrieg-warum-iran-russland-raketen-liefert-a-867b7512-a61e-495e-8f7a-07cd0f37b0a9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/asyldebatte-deutschland-und-kenia-schliessen-migrationsabkommen](https://www.spiegel.de/politik/deutschland/asyldebatte-deutschland-und-kenia-schliessen-migrationsabkommen-a-bf0984cd-c995-48a6-ba4d-d29eddb444fa#ref=rss)
-### bisher
+* [https://www.spiegel.de/ausland/iran-bringt-forschungssatelliten-ins-all-international-gibt-es-zweifel-an-der-darstellung](https://www.spiegel.de/ausland/iran-bringt-forschungssatelliten-ins-all-international-gibt-es-zweifel-an-der-darstellung-a-d91b58f9-9e8b-47bb-96ac-2cd443b56bbd#ref=rss)
+### all
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-frauen-uebernehmen-jobs-in-bisher-maennlich-dominierten-branchen](https://www.spiegel.de/ausland/ukraine-krieg-frauen-uebernehmen-jobs-in-bisher-maennlich-dominierten-branchen-a-bd5a8ef6-872c-497c-bdea-f750a4aaf935#ref=rss)
-### männlich
+* [https://www.spiegel.de/ausland/iran-bringt-forschungssatelliten-ins-all-international-gibt-es-zweifel-an-der-darstellung](https://www.spiegel.de/ausland/iran-bringt-forschungssatelliten-ins-all-international-gibt-es-zweifel-an-der-darstellung-a-d91b58f9-9e8b-47bb-96ac-2cd443b56bbd#ref=rss)
+### international
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-frauen-uebernehmen-jobs-in-bisher-maennlich-dominierten-branchen](https://www.spiegel.de/ausland/ukraine-krieg-frauen-uebernehmen-jobs-in-bisher-maennlich-dominierten-branchen-a-bd5a8ef6-872c-497c-bdea-f750a4aaf935#ref=rss)
-### dominierten
+* [https://www.spiegel.de/ausland/iran-bringt-forschungssatelliten-ins-all-international-gibt-es-zweifel-an-der-darstellung](https://www.spiegel.de/ausland/iran-bringt-forschungssatelliten-ins-all-international-gibt-es-zweifel-an-der-darstellung-a-d91b58f9-9e8b-47bb-96ac-2cd443b56bbd#ref=rss)
+### zweifel
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-frauen-uebernehmen-jobs-in-bisher-maennlich-dominierten-branchen](https://www.spiegel.de/ausland/ukraine-krieg-frauen-uebernehmen-jobs-in-bisher-maennlich-dominierten-branchen-a-bd5a8ef6-872c-497c-bdea-f750a4aaf935#ref=rss)
-### branchen
+* [https://www.spiegel.de/ausland/iran-bringt-forschungssatelliten-ins-all-international-gibt-es-zweifel-an-der-darstellung](https://www.spiegel.de/ausland/iran-bringt-forschungssatelliten-ins-all-international-gibt-es-zweifel-an-der-darstellung-a-d91b58f9-9e8b-47bb-96ac-2cd443b56bbd#ref=rss)
+### auftrag
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-frauen-uebernehmen-jobs-in-bisher-maennlich-dominierten-branchen](https://www.spiegel.de/ausland/ukraine-krieg-frauen-uebernehmen-jobs-in-bisher-maennlich-dominierten-branchen-a-bd5a8ef6-872c-497c-bdea-f750a4aaf935#ref=rss)
-### unter
-
-* [https://www.spiegel.de/panorama/gesellschaft/bayesian-untergang-dieses-schiff-ist-unsinkbar-wenn-kein-wasser-eingedrungen-waere-haette-es-keinerlei-probleme-gegeben](https://www.spiegel.de/panorama/gesellschaft/bayesian-untergang-dieses-schiff-ist-unsinkbar-wenn-kein-wasser-eingedrungen-waere-haette-es-keinerlei-probleme-gegeben-a-29287007-797f-4651-b9f2-cf7a1d3e055c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-mainz-05-stellt-biontech-als-sponsor-vor](https://www.spiegel.de/sport/fussball/fussball-bundesliga-mainz-05-stellt-biontech-als-sponsor-vor-a-a4be04b3-1bef-45dd-8ec5-f209039c872f#ref=rss)
-### derweil
-
-* [https://www.spiegel.de/panorama/gesellschaft/bayesian-untergang-dieses-schiff-ist-unsinkbar-wenn-kein-wasser-eingedrungen-waere-haette-es-keinerlei-probleme-gegeben](https://www.spiegel.de/panorama/gesellschaft/bayesian-untergang-dieses-schiff-ist-unsinkbar-wenn-kein-wasser-eingedrungen-waere-haette-es-keinerlei-probleme-gegeben-a-29287007-797f-4651-b9f2-cf7a1d3e055c#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahlkampf-so-reagieren-die-waehler-umkaempfter-bundesstaaten-auf-taylor-swifts-unterstuetzung-fuer-harris](https://www.spiegel.de/ausland/us-wahlkampf-so-reagieren-die-waehler-umkaempfter-bundesstaaten-auf-taylor-swifts-unterstuetzung-fuer-harris-a-55b6bc2d-e5ac-44b8-a787-e383c2c62e5f#ref=rss)
-### hunger
-
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-a-c9f2d54f-59f7-482f-8c70-2a6446da7608#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast-a-4c04c081-09e2-4d16-b155-ee89c4e5c029#ref=rss)
-### krieg
-
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-a-c9f2d54f-59f7-482f-8c70-2a6446da7608#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast-a-4c04c081-09e2-4d16-b155-ee89c4e5c029#ref=rss)
-### zerrütten
-
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-a-c9f2d54f-59f7-482f-8c70-2a6446da7608#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast-a-4c04c081-09e2-4d16-b155-ee89c4e5c029#ref=rss)
-### sturz
-
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-a-c9f2d54f-59f7-482f-8c70-2a6446da7608#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast-a-4c04c081-09e2-4d16-b155-ee89c4e5c029#ref=rss)
-### diktators
-
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-a-c9f2d54f-59f7-482f-8c70-2a6446da7608#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast-a-4c04c081-09e2-4d16-b155-ee89c4e5c029#ref=rss)
-### hunderttausenden
-
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-a-c9f2d54f-59f7-482f-8c70-2a6446da7608#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast-a-4c04c081-09e2-4d16-b155-ee89c4e5c029#ref=rss)
-### hungertod
-
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-a-c9f2d54f-59f7-482f-8c70-2a6446da7608#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast-a-4c04c081-09e2-4d16-b155-ee89c4e5c029#ref=rss)
-### machtkampf
-
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-a-c9f2d54f-59f7-482f-8c70-2a6446da7608#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast-a-4c04c081-09e2-4d16-b155-ee89c4e5c029#ref=rss)
-### zweier
-
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-a-c9f2d54f-59f7-482f-8c70-2a6446da7608#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast-a-4c04c081-09e2-4d16-b155-ee89c4e5c029#ref=rss)
-### generäle
-
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-a-c9f2d54f-59f7-482f-8c70-2a6446da7608#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast-a-4c04c081-09e2-4d16-b155-ee89c4e5c029#ref=rss)
-### zerrüttet
-
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-a-c9f2d54f-59f7-482f-8c70-2a6446da7608#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast-a-4c04c081-09e2-4d16-b155-ee89c4e5c029#ref=rss)
-### wenigen
-
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-a-c9f2d54f-59f7-482f-8c70-2a6446da7608#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast-a-4c04c081-09e2-4d16-b155-ee89c4e5c029#ref=rss)
-### demokratie
-
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-a-c9f2d54f-59f7-482f-8c70-2a6446da7608#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast-a-4c04c081-09e2-4d16-b155-ee89c4e5c029#ref=rss)
-### hoffte
-
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-a-c9f2d54f-59f7-482f-8c70-2a6446da7608#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast-a-4c04c081-09e2-4d16-b155-ee89c4e5c029#ref=rss)
-### fritz
-
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-a-c9f2d54f-59f7-482f-8c70-2a6446da7608#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast-a-4c04c081-09e2-4d16-b155-ee89c4e5c029#ref=rss)
-### schaap
-
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-a-c9f2d54f-59f7-482f-8c70-2a6446da7608#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast-a-4c04c081-09e2-4d16-b155-ee89c4e5c029#ref=rss)
-### ort
-
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-a-c9f2d54f-59f7-482f-8c70-2a6446da7608#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast-a-4c04c081-09e2-4d16-b155-ee89c4e5c029#ref=rss)
-### recherchiert
-
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-a-c9f2d54f-59f7-482f-8c70-2a6446da7608#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast-a-4c04c081-09e2-4d16-b155-ee89c4e5c029#ref=rss)
-### uswahlkampf
-
-* [https://www.spiegel.de/ausland/us-wahlkampf-so-reagieren-die-waehler-umkaempfter-bundesstaaten-auf-taylor-swifts-unterstuetzung-fuer-harris](https://www.spiegel.de/ausland/us-wahlkampf-so-reagieren-die-waehler-umkaempfter-bundesstaaten-auf-taylor-swifts-unterstuetzung-fuer-harris-a-55b6bc2d-e5ac-44b8-a787-e383c2c62e5f#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahlkampf-nach-tv-duell-kamala-harris-gewinnt-und-laesst-fragen-offen-podcast](https://www.spiegel.de/ausland/us-wahlkampf-nach-tv-duell-kamala-harris-gewinnt-und-laesst-fragen-offen-podcast-a-8f735726-f2f9-4272-a797-79d72679ef42#ref=rss)
-### taylor
-
-* [https://www.spiegel.de/ausland/us-wahlkampf-so-reagieren-die-waehler-umkaempfter-bundesstaaten-auf-taylor-swifts-unterstuetzung-fuer-harris](https://www.spiegel.de/ausland/us-wahlkampf-so-reagieren-die-waehler-umkaempfter-bundesstaaten-auf-taylor-swifts-unterstuetzung-fuer-harris-a-55b6bc2d-e5ac-44b8-a787-e383c2c62e5f#ref=rss)
-### swifts
-
-* [https://www.spiegel.de/ausland/us-wahlkampf-so-reagieren-die-waehler-umkaempfter-bundesstaaten-auf-taylor-swifts-unterstuetzung-fuer-harris](https://www.spiegel.de/ausland/us-wahlkampf-so-reagieren-die-waehler-umkaempfter-bundesstaaten-auf-taylor-swifts-unterstuetzung-fuer-harris-a-55b6bc2d-e5ac-44b8-a787-e383c2c62e5f#ref=rss)
-### ums
-
-* [https://www.spiegel.de/ausland/us-wahlkampf-so-reagieren-die-waehler-umkaempfter-bundesstaaten-auf-taylor-swifts-unterstuetzung-fuer-harris](https://www.spiegel.de/ausland/us-wahlkampf-so-reagieren-die-waehler-umkaempfter-bundesstaaten-auf-taylor-swifts-unterstuetzung-fuer-harris-a-55b6bc2d-e5ac-44b8-a787-e383c2c62e5f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/brandenburg-wahl-michael-kretschmer-ueberrascht-spd-mit-wahlkampfgeschenk](https://www.spiegel.de/politik/deutschland/brandenburg-wahl-michael-kretschmer-ueberrascht-spd-mit-wahlkampfgeschenk-a-6c51b4ff-2244-4f9f-9140-c550e8b4e9c6#ref=rss)
-### dazu
-
-* [https://www.spiegel.de/ausland/us-wahlkampf-so-reagieren-die-waehler-umkaempfter-bundesstaaten-auf-taylor-swifts-unterstuetzung-fuer-harris](https://www.spiegel.de/ausland/us-wahlkampf-so-reagieren-die-waehler-umkaempfter-bundesstaaten-auf-taylor-swifts-unterstuetzung-fuer-harris-a-55b6bc2d-e5ac-44b8-a787-e383c2c62e5f#ref=rss)
-* [https://www.spiegel.de/ausland/russland-hat-ein-putin-kritischer-oligarch-ein-attentat-auf-eine-mitstreiter-von-alexey-nawalny-verueben-lassen](https://www.spiegel.de/ausland/russland-hat-ein-putin-kritischer-oligarch-ein-attentat-auf-eine-mitstreiter-von-alexey-nawalny-verueben-lassen-a-c97abfcd-d789-415b-b97c-0d6aef6b3e25#ref=rss)
-### dänemark
-
-* [https://www.spiegel.de/panorama/justiz/daenemark-29-jaehriger-soll-dutzende-verkehrsdelikte-begangen-haben-und-sich-gefilmt-haben](https://www.spiegel.de/panorama/justiz/daenemark-29-jaehriger-soll-dutzende-verkehrsdelikte-begangen-haben-und-sich-gefilmt-haben-a-d169b257-bb3f-4962-8efd-8abf0c23e54f#ref=rss)
-### 29jähriger
-
-* [https://www.spiegel.de/panorama/justiz/daenemark-29-jaehriger-soll-dutzende-verkehrsdelikte-begangen-haben-und-sich-gefilmt-haben](https://www.spiegel.de/panorama/justiz/daenemark-29-jaehriger-soll-dutzende-verkehrsdelikte-begangen-haben-und-sich-gefilmt-haben-a-d169b257-bb3f-4962-8efd-8abf0c23e54f#ref=rss)
-### dresden
-
-* [https://www.spiegel.de/politik/deutschland/dresden-durchsuchung-bei-44-jaehrigem-wegen-wahlfaelschung-in-sachsen](https://www.spiegel.de/politik/deutschland/dresden-durchsuchung-bei-44-jaehrigem-wegen-wahlfaelschung-in-sachsen-a-646ae67f-280b-451c-b33c-49f138ef80c8#ref=rss)
-### durchsuchung
-
-* [https://www.spiegel.de/politik/deutschland/dresden-durchsuchung-bei-44-jaehrigem-wegen-wahlfaelschung-in-sachsen](https://www.spiegel.de/politik/deutschland/dresden-durchsuchung-bei-44-jaehrigem-wegen-wahlfaelschung-in-sachsen-a-646ae67f-280b-451c-b33c-49f138ef80c8#ref=rss)
-### sachsen
-
-* [https://www.spiegel.de/politik/deutschland/dresden-durchsuchung-bei-44-jaehrigem-wegen-wahlfaelschung-in-sachsen](https://www.spiegel.de/politik/deutschland/dresden-durchsuchung-bei-44-jaehrigem-wegen-wahlfaelschung-in-sachsen-a-646ae67f-280b-451c-b33c-49f138ef80c8#ref=rss)
-### partei
-
-* [https://www.spiegel.de/politik/deutschland/dresden-durchsuchung-bei-44-jaehrigem-wegen-wahlfaelschung-in-sachsen](https://www.spiegel.de/politik/deutschland/dresden-durchsuchung-bei-44-jaehrigem-wegen-wahlfaelschung-in-sachsen-a-646ae67f-280b-451c-b33c-49f138ef80c8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/brandenburg-wahl-michael-kretschmer-ueberrascht-spd-mit-wahlkampfgeschenk](https://www.spiegel.de/politik/deutschland/brandenburg-wahl-michael-kretschmer-ueberrascht-spd-mit-wahlkampfgeschenk-a-6c51b4ff-2244-4f9f-9140-c550e8b4e9c6#ref=rss)
-### verdacht
-
-* [https://www.spiegel.de/politik/deutschland/dresden-durchsuchung-bei-44-jaehrigem-wegen-wahlfaelschung-in-sachsen](https://www.spiegel.de/politik/deutschland/dresden-durchsuchung-bei-44-jaehrigem-wegen-wahlfaelschung-in-sachsen-a-646ae67f-280b-451c-b33c-49f138ef80c8#ref=rss)
-* [https://www.spiegel.de/ausland/russland-hat-ein-putin-kritischer-oligarch-ein-attentat-auf-eine-mitstreiter-von-alexey-nawalny-verueben-lassen](https://www.spiegel.de/ausland/russland-hat-ein-putin-kritischer-oligarch-ein-attentat-auf-eine-mitstreiter-von-alexey-nawalny-verueben-lassen-a-c97abfcd-d789-415b-b97c-0d6aef6b3e25#ref=rss)
-### linkin
-
-* [https://www.spiegel.de/kultur/musik/linkin-park-erstmals-auf-platz-eins-der-deutschen-single-charts](https://www.spiegel.de/kultur/musik/linkin-park-erstmals-auf-platz-eins-der-deutschen-single-charts-a-7888bd62-a528-408c-928c-42f05521056c#ref=rss)
-### park
-
-* [https://www.spiegel.de/kultur/musik/linkin-park-erstmals-auf-platz-eins-der-deutschen-single-charts](https://www.spiegel.de/kultur/musik/linkin-park-erstmals-auf-platz-eins-der-deutschen-single-charts-a-7888bd62-a528-408c-928c-42f05521056c#ref=rss)
-### erstmals
-
-* [https://www.spiegel.de/kultur/musik/linkin-park-erstmals-auf-platz-eins-der-deutschen-single-charts](https://www.spiegel.de/kultur/musik/linkin-park-erstmals-auf-platz-eins-der-deutschen-single-charts-a-7888bd62-a528-408c-928c-42f05521056c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/mpox-who-segnet-erstmals-impfstoff-ab](https://www.spiegel.de/wissenschaft/mensch/mpox-who-segnet-erstmals-impfstoff-ab-a-009dd51d-8fc5-46e3-b863-69f652fcabda#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/kultur/musik/linkin-park-erstmals-auf-platz-eins-der-deutschen-single-charts](https://www.spiegel.de/kultur/musik/linkin-park-erstmals-auf-platz-eins-der-deutschen-single-charts-a-7888bd62-a528-408c-928c-42f05521056c#ref=rss)
-### singlecharts
-
-* [https://www.spiegel.de/kultur/musik/linkin-park-erstmals-auf-platz-eins-der-deutschen-single-charts](https://www.spiegel.de/kultur/musik/linkin-park-erstmals-auf-platz-eins-der-deutschen-single-charts-a-7888bd62-a528-408c-928c-42f05521056c#ref=rss)
-### mainz
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-mainz-05-stellt-biontech-als-sponsor-vor](https://www.spiegel.de/sport/fussball/fussball-bundesliga-mainz-05-stellt-biontech-als-sponsor-vor-a-a4be04b3-1bef-45dd-8ec5-f209039c872f#ref=rss)
-### 05
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-mainz-05-stellt-biontech-als-sponsor-vor](https://www.spiegel.de/sport/fussball/fussball-bundesliga-mainz-05-stellt-biontech-als-sponsor-vor-a-a4be04b3-1bef-45dd-8ec5-f209039c872f#ref=rss)
-### biontech
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-mainz-05-stellt-biontech-als-sponsor-vor](https://www.spiegel.de/sport/fussball/fussball-bundesliga-mainz-05-stellt-biontech-als-sponsor-vor-a-a4be04b3-1bef-45dd-8ec5-f209039c872f#ref=rss)
-### hinweis
-
-* [https://www.spiegel.de/politik/deutschland/mutmassliche-anschlagsplaene-in-bayern-zeuge-gab-hinweis-auf-terrorverdaechtigen](https://www.spiegel.de/politik/deutschland/mutmassliche-anschlagsplaene-in-bayern-zeuge-gab-hinweis-auf-terrorverdaechtigen-a-064e4986-169b-4464-8318-197ffcb2c117#ref=rss)
-### jugend
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-jugend-und-die-afd-donald-trump-hamburger-morgenpost](https://www.spiegel.de/politik/deutschland/news-des-tages-jugend-und-die-afd-donald-trump-hamburger-morgenpost-a-7f5ba386-1cd4-43ac-b914-484dbf44c07a#ref=rss)
-### hamburger
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-jugend-und-die-afd-donald-trump-hamburger-morgenpost](https://www.spiegel.de/politik/deutschland/news-des-tages-jugend-und-die-afd-donald-trump-hamburger-morgenpost-a-7f5ba386-1cd4-43ac-b914-484dbf44c07a#ref=rss)
-### trumps
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-jugend-und-die-afd-donald-trump-hamburger-morgenpost](https://www.spiegel.de/politik/deutschland/news-des-tages-jugend-und-die-afd-donald-trump-hamburger-morgenpost-a-7f5ba386-1cd4-43ac-b914-484dbf44c07a#ref=rss)
-* [https://www.spiegel.de/panorama/leute/john-legend-verteidigt-migranten-in-springfield-gegen-donald-trumps-attacke](https://www.spiegel.de/panorama/leute/john-legend-verteidigt-migranten-in-springfield-gegen-donald-trumps-attacke-a-93bf7272-ef85-4586-a6a2-4b8fa4afc181#ref=rss)
-### podcast
-
-* [https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast](https://www.spiegel.de/ausland/sudan-hunger-und-krieg-zerruetten-das-land-nach-dem-sturz-des-diktators-podcast-a-4c04c081-09e2-4d16-b155-ee89c4e5c029#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahlkampf-nach-tv-duell-kamala-harris-gewinnt-und-laesst-fragen-offen-podcast](https://www.spiegel.de/ausland/us-wahlkampf-nach-tv-duell-kamala-harris-gewinnt-und-laesst-fragen-offen-podcast-a-8f735726-f2f9-4272-a797-79d72679ef42#ref=rss)
-### john
-
-* [https://www.spiegel.de/panorama/leute/john-legend-verteidigt-migranten-in-springfield-gegen-donald-trumps-attacke](https://www.spiegel.de/panorama/leute/john-legend-verteidigt-migranten-in-springfield-gegen-donald-trumps-attacke-a-93bf7272-ef85-4586-a6a2-4b8fa4afc181#ref=rss)
-### legend
-
-* [https://www.spiegel.de/panorama/leute/john-legend-verteidigt-migranten-in-springfield-gegen-donald-trumps-attacke](https://www.spiegel.de/panorama/leute/john-legend-verteidigt-migranten-in-springfield-gegen-donald-trumps-attacke-a-93bf7272-ef85-4586-a6a2-4b8fa4afc181#ref=rss)
-### springfield
-
-* [https://www.spiegel.de/panorama/leute/john-legend-verteidigt-migranten-in-springfield-gegen-donald-trumps-attacke](https://www.spiegel.de/panorama/leute/john-legend-verteidigt-migranten-in-springfield-gegen-donald-trumps-attacke-a-93bf7272-ef85-4586-a6a2-4b8fa4afc181#ref=rss)
-### papst
-
-* [https://www.spiegel.de/ausland/papst-franziskus-reist-um-die-welt-warum-tut-er-sich-diese-strapazen-an](https://www.spiegel.de/ausland/papst-franziskus-reist-um-die-welt-warum-tut-er-sich-diese-strapazen-an-a-07d3cbdc-096e-4221-91a1-b77f661492ff#ref=rss)
-### franziskus
-
-* [https://www.spiegel.de/ausland/papst-franziskus-reist-um-die-welt-warum-tut-er-sich-diese-strapazen-an](https://www.spiegel.de/ausland/papst-franziskus-reist-um-die-welt-warum-tut-er-sich-diese-strapazen-an-a-07d3cbdc-096e-4221-91a1-b77f661492ff#ref=rss)
-### welt
-
-* [https://www.spiegel.de/ausland/papst-franziskus-reist-um-die-welt-warum-tut-er-sich-diese-strapazen-an](https://www.spiegel.de/ausland/papst-franziskus-reist-um-die-welt-warum-tut-er-sich-diese-strapazen-an-a-07d3cbdc-096e-4221-91a1-b77f661492ff#ref=rss)
-### tut
-
-* [https://www.spiegel.de/ausland/papst-franziskus-reist-um-die-welt-warum-tut-er-sich-diese-strapazen-an](https://www.spiegel.de/ausland/papst-franziskus-reist-um-die-welt-warum-tut-er-sich-diese-strapazen-an-a-07d3cbdc-096e-4221-91a1-b77f661492ff#ref=rss)
-### strapazen
-
-* [https://www.spiegel.de/ausland/papst-franziskus-reist-um-die-welt-warum-tut-er-sich-diese-strapazen-an](https://www.spiegel.de/ausland/papst-franziskus-reist-um-die-welt-warum-tut-er-sich-diese-strapazen-an-a-07d3cbdc-096e-4221-91a1-b77f661492ff#ref=rss)
-### österreich
-
-* [https://www.spiegel.de/panorama/oesterreich-schnee-und-regen-fuehren-zu-verkehrsbehinderungen](https://www.spiegel.de/panorama/oesterreich-schnee-und-regen-fuehren-zu-verkehrsbehinderungen-a-03ef336f-8a3a-408f-af46-53ab13f0201a#ref=rss)
-### folgen
-
-* [https://www.spiegel.de/panorama/oesterreich-schnee-und-regen-fuehren-zu-verkehrsbehinderungen](https://www.spiegel.de/panorama/oesterreich-schnee-und-regen-fuehren-zu-verkehrsbehinderungen-a-03ef336f-8a3a-408f-af46-53ab13f0201a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/asyldebatte-deutschland-und-kenia-schliessen-migrationsabkommen](https://www.spiegel.de/politik/deutschland/asyldebatte-deutschland-und-kenia-schliessen-migrationsabkommen-a-bf0984cd-c995-48a6-ba4d-d29eddb444fa#ref=rss)
-### kenia
-
-* [https://www.spiegel.de/politik/deutschland/asyldebatte-deutschland-und-kenia-schliessen-migrationsabkommen](https://www.spiegel.de/politik/deutschland/asyldebatte-deutschland-und-kenia-schliessen-migrationsabkommen-a-bf0984cd-c995-48a6-ba4d-d29eddb444fa#ref=rss)
-### systemgastronomie
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/systemgastronomie-mitarbeiter-von-mcdonalds-und-co-fordern-mehr-geld-und-gehen-in-den-streik](https://www.spiegel.de/wirtschaft/unternehmen/systemgastronomie-mitarbeiter-von-mcdonalds-und-co-fordern-mehr-geld-und-gehen-in-den-streik-a-1ee4efcd-eba0-4020-92d9-59b3043fc050#ref=rss)
-### mitarbeiter
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/systemgastronomie-mitarbeiter-von-mcdonalds-und-co-fordern-mehr-geld-und-gehen-in-den-streik](https://www.spiegel.de/wirtschaft/unternehmen/systemgastronomie-mitarbeiter-von-mcdonalds-und-co-fordern-mehr-geld-und-gehen-in-den-streik-a-1ee4efcd-eba0-4020-92d9-59b3043fc050#ref=rss)
-### who
-
-* [https://www.spiegel.de/wissenschaft/mensch/mpox-who-segnet-erstmals-impfstoff-ab](https://www.spiegel.de/wissenschaft/mensch/mpox-who-segnet-erstmals-impfstoff-ab-a-009dd51d-8fc5-46e3-b863-69f652fcabda#ref=rss)
-### impfstoff
-
-* [https://www.spiegel.de/wissenschaft/mensch/mpox-who-segnet-erstmals-impfstoff-ab](https://www.spiegel.de/wissenschaft/mensch/mpox-who-segnet-erstmals-impfstoff-ab-a-009dd51d-8fc5-46e3-b863-69f652fcabda#ref=rss)
-### harald
-
-* [https://www.spiegel.de/kultur/harald-naegeli-skelett-putzkraefte-wischen-bekanntes-kunstwerk-weg](https://www.spiegel.de/kultur/harald-naegeli-skelett-putzkraefte-wischen-bekanntes-kunstwerk-weg-a-0719de14-15bb-48a1-b5e6-33ed550b6e27#ref=rss)
+* [https://www.spiegel.de/ausland/iran-bringt-forschungssatelliten-ins-all-international-gibt-es-zweifel-an-der-darstellung](https://www.spiegel.de/ausland/iran-bringt-forschungssatelliten-ins-all-international-gibt-es-zweifel-an-der-darstellung-a-d91b58f9-9e8b-47bb-96ac-2cd443b56bbd#ref=rss)
+* [https://www.spiegel.de/ausland/rt-usa-bezeichnen-russischen-sender-als-vollwertiges-mitglied-des-geheimdienstes](https://www.spiegel.de/ausland/rt-usa-bezeichnen-russischen-sender-als-vollwertiges-mitglied-des-geheimdienstes-a-4c2290c8-c623-43e5-ba4f-a1c6d87dc75e#ref=rss)
 ### weg
 
-* [https://www.spiegel.de/kultur/harald-naegeli-skelett-putzkraefte-wischen-bekanntes-kunstwerk-weg](https://www.spiegel.de/kultur/harald-naegeli-skelett-putzkraefte-wischen-bekanntes-kunstwerk-weg-a-0719de14-15bb-48a1-b5e6-33ed550b6e27#ref=rss)
-### macht
+* [https://www.spiegel.de/wirtschaft/schuldnerberatungsstellen-krankheit-und-sucht-erstmals-haeufigster-ueberschuldungsgrund](https://www.spiegel.de/wirtschaft/schuldnerberatungsstellen-krankheit-und-sucht-erstmals-haeufigster-ueberschuldungsgrund-a-d10014b8-9d62-43d2-bc61-783495807f7c#ref=rss)
+* [https://www.spiegel.de/tests/fahrrad-zubehoer/rucksaecke-fuer-radfahrer-im-test-chrome-evoc-deuter-ortlieb-vaude-und-aevor](https://www.spiegel.de/tests/fahrrad-zubehoer/rucksaecke-fuer-radfahrer-im-test-chrome-evoc-deuter-ortlieb-vaude-und-aevor-a-6eefcf16-3c82-40cf-bf9e-b69965fe7ace#ref=rss)
+### transponderkennung
 
-* [https://www.spiegel.de/wirtschaft/london-preis-fuer-baerenfellmuetzen-der-koeniglichen-garde-des-buckingham-palastes-explodiert](https://www.spiegel.de/wirtschaft/london-preis-fuer-baerenfellmuetzen-der-koeniglichen-garde-des-buckingham-palastes-explodiert-a-27e90461-35f8-4d80-9ceb-d5446ebeb326#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/brandenburg-wahl-michael-kretschmer-ueberrascht-spd-mit-wahlkampfgeschenk](https://www.spiegel.de/politik/deutschland/brandenburg-wahl-michael-kretschmer-ueberrascht-spd-mit-wahlkampfgeschenk-a-6c51b4ff-2244-4f9f-9140-c550e8b4e9c6#ref=rss)
-### alex
+* [https://www.spiegel.de/politik/ostsee-deutsche-luftwaffe-reagiert-auf-russische-flugzeuge-ohne-transponder-kennung](https://www.spiegel.de/politik/ostsee-deutsche-luftwaffe-reagiert-auf-russische-flugzeuge-ohne-transponder-kennung-a-6194e680-ae0d-45c5-998f-4e7d2c0d263a#ref=rss)
+### mussten
 
-* [https://www.spiegel.de/sport/fussball/alex-morgan-beendet-ihre-karriere-ihr-kampf-fuer-gleichstellung-wird-weitergehen](https://www.spiegel.de/sport/fussball/alex-morgan-beendet-ihre-karriere-ihr-kampf-fuer-gleichstellung-wird-weitergehen-a-4e88d009-4ba2-46ea-829c-4730ae73a41b#ref=rss)
-### morgan
+* [https://www.spiegel.de/politik/ostsee-deutsche-luftwaffe-reagiert-auf-russische-flugzeuge-ohne-transponder-kennung](https://www.spiegel.de/politik/ostsee-deutsche-luftwaffe-reagiert-auf-russische-flugzeuge-ohne-transponder-kennung-a-6194e680-ae0d-45c5-998f-4e7d2c0d263a#ref=rss)
+* [https://www.spiegel.de/ausland/demokratische-republik-kongo-militaergericht-verurteilt-37-menschen-zum-tod](https://www.spiegel.de/ausland/demokratische-republik-kongo-militaergericht-verurteilt-37-menschen-zum-tod-a-aec9b138-5333-4a35-8f3b-e2bbc84abb37#ref=rss)
+### janet
 
-* [https://www.spiegel.de/sport/fussball/alex-morgan-beendet-ihre-karriere-ihr-kampf-fuer-gleichstellung-wird-weitergehen](https://www.spiegel.de/sport/fussball/alex-morgan-beendet-ihre-karriere-ihr-kampf-fuer-gleichstellung-wird-weitergehen-a-4e88d009-4ba2-46ea-829c-4730ae73a41b#ref=rss)
-### karriere
+* [https://www.spiegel.de/panorama/janet-jackson-wenn-die-hose-reisst-vor-den-augen-der-queen](https://www.spiegel.de/panorama/janet-jackson-wenn-die-hose-reisst-vor-den-augen-der-queen-a-c885bdec-ba69-4ff7-ac83-75dbdff57061#ref=rss)
+### jackson
 
-* [https://www.spiegel.de/sport/fussball/alex-morgan-beendet-ihre-karriere-ihr-kampf-fuer-gleichstellung-wird-weitergehen](https://www.spiegel.de/sport/fussball/alex-morgan-beendet-ihre-karriere-ihr-kampf-fuer-gleichstellung-wird-weitergehen-a-4e88d009-4ba2-46ea-829c-4730ae73a41b#ref=rss)
+* [https://www.spiegel.de/panorama/janet-jackson-wenn-die-hose-reisst-vor-den-augen-der-queen](https://www.spiegel.de/panorama/janet-jackson-wenn-die-hose-reisst-vor-den-augen-der-queen-a-c885bdec-ba69-4ff7-ac83-75dbdff57061#ref=rss)
+### gelsenkirchen
+
+* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-fahrer-beschaedigt-sechs-geparkte-autos-und-faehrt-davon](https://www.spiegel.de/panorama/justiz/gelsenkirchen-fahrer-beschaedigt-sechs-geparkte-autos-und-faehrt-davon-a-0b00a36a-5044-4242-9811-a7906dd76664#ref=rss)
+### beschädigt
+
+* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-fahrer-beschaedigt-sechs-geparkte-autos-und-faehrt-davon](https://www.spiegel.de/panorama/justiz/gelsenkirchen-fahrer-beschaedigt-sechs-geparkte-autos-und-faehrt-davon-a-0b00a36a-5044-4242-9811-a7906dd76664#ref=rss)
+### sechs
+
+* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-fahrer-beschaedigt-sechs-geparkte-autos-und-faehrt-davon](https://www.spiegel.de/panorama/justiz/gelsenkirchen-fahrer-beschaedigt-sechs-geparkte-autos-und-faehrt-davon-a-0b00a36a-5044-4242-9811-a7906dd76664#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-chancenlos-zivzivadze-schiesst-karlsruhe-an-die-spitze](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-chancenlos-zivzivadze-schiesst-karlsruhe-an-die-spitze-a-d922cc98-78af-4db8-b722-1ecd4f991f48#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-fahrer-beschaedigt-sechs-geparkte-autos-und-faehrt-davon](https://www.spiegel.de/panorama/justiz/gelsenkirchen-fahrer-beschaedigt-sechs-geparkte-autos-und-faehrt-davon-a-0b00a36a-5044-4242-9811-a7906dd76664#ref=rss)
+* [https://www.spiegel.de/sport/fussball/serhou-guirassy-bei-borussia-dortmund-der-mann-der-einen-neuen-bvb-verspricht](https://www.spiegel.de/sport/fussball/serhou-guirassy-bei-borussia-dortmund-der-mann-der-einen-neuen-bvb-verspricht-a-f6776a20-d977-4098-ae3f-a8a835d3cab2#ref=rss)
+### hochwasser
+
+* [https://www.spiegel.de/panorama/selfies-im-hochwasser](https://www.spiegel.de/panorama/selfies-im-hochwasser-a-18f12608-5ac3-4f86-9545-07342b35f071#ref=rss)
+* [https://www.spiegel.de/panorama/hochwasser-in-tschechien-und-polen-zwei-orte-evakuiert](https://www.spiegel.de/panorama/hochwasser-in-tschechien-und-polen-zwei-orte-evakuiert-a-9dacc165-18f3-4ed0-a608-c69d026e651a#ref=rss)
+### polen
+
+* [https://www.spiegel.de/panorama/selfies-im-hochwasser](https://www.spiegel.de/panorama/selfies-im-hochwasser-a-18f12608-5ac3-4f86-9545-07342b35f071#ref=rss)
+* [https://www.spiegel.de/panorama/hochwasser-in-tschechien-und-polen-zwei-orte-evakuiert](https://www.spiegel.de/panorama/hochwasser-in-tschechien-und-polen-zwei-orte-evakuiert-a-9dacc165-18f3-4ed0-a608-c69d026e651a#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/autoindustrie-befuerchtet-millionen-jobverluste-wegen-strengerer-klimaregeln-in-der-eu](https://www.spiegel.de/wirtschaft/unternehmen/autoindustrie-befuerchtet-millionen-jobverluste-wegen-strengerer-klimaregeln-in-der-eu-a-deae41d4-8bee-4e3c-bbd5-26abb66ccaf5#ref=rss)
+### kosten
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/autoindustrie-befuerchtet-millionen-jobverluste-wegen-strengerer-klimaregeln-in-der-eu](https://www.spiegel.de/wirtschaft/unternehmen/autoindustrie-befuerchtet-millionen-jobverluste-wegen-strengerer-klimaregeln-in-der-eu-a-deae41d4-8bee-4e3c-bbd5-26abb66ccaf5#ref=rss)
+* [https://www.spiegel.de/auto/xpeng-g6-im-test-elektroauto-vom-partner-aus-china-als-vorbild-fuer-vw](https://www.spiegel.de/auto/xpeng-g6-im-test-elektroauto-vom-partner-aus-china-als-vorbild-fuer-vw-a-bdb1ae42-7070-4dc5-9c46-dc65f3d4c91f#ref=rss)
+### gute
+
+* [https://www.spiegel.de/ausland/massai-in-kenia-in-diesem-dorf-haben-frauen-genitalverstuemmelung-abgeschafft](https://www.spiegel.de/ausland/massai-in-kenia-in-diesem-dorf-haben-frauen-genitalverstuemmelung-abgeschafft-a-364c0ced-0c73-457a-bcf7-231685f537d6#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-wahl-regieren-bald-die-liberalen-neos-podcast](https://www.spiegel.de/ausland/oesterreich-wahl-regieren-bald-die-liberalen-neos-podcast-a-28d23da9-5f55-4c68-8faa-8e190f81a0c3#ref=rss)
+### selling
+
+* [https://www.spiegel.de/kultur/selling-sunset-auf-netflix-das-ist-das-ende-von-reality-tv](https://www.spiegel.de/kultur/selling-sunset-auf-netflix-das-ist-das-ende-von-reality-tv-a-44eaf70e-f076-4e52-9516-8c2322fb8de4#ref=rss)
+### sunset
+
+* [https://www.spiegel.de/kultur/selling-sunset-auf-netflix-das-ist-das-ende-von-reality-tv](https://www.spiegel.de/kultur/selling-sunset-auf-netflix-das-ist-das-ende-von-reality-tv-a-44eaf70e-f076-4e52-9516-8c2322fb8de4#ref=rss)
+### los
+
+* [https://www.spiegel.de/kultur/selling-sunset-auf-netflix-das-ist-das-ende-von-reality-tv](https://www.spiegel.de/kultur/selling-sunset-auf-netflix-das-ist-das-ende-von-reality-tv-a-44eaf70e-f076-4e52-9516-8c2322fb8de4#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bundesliga-borussia-dortmund-stoppt-tabellenfuehrer-heidenheim-karim-adeyemi-trifft-doppelt](https://www.spiegel.de/sport/fussball/bundesliga-borussia-dortmund-stoppt-tabellenfuehrer-heidenheim-karim-adeyemi-trifft-doppelt-a-df0e10ea-07bf-495b-97c9-a88725d897a7#ref=rss)
+### neue
+
+* [https://www.spiegel.de/kultur/selling-sunset-auf-netflix-das-ist-das-ende-von-reality-tv](https://www.spiegel.de/kultur/selling-sunset-auf-netflix-das-ist-das-ende-von-reality-tv-a-44eaf70e-f076-4e52-9516-8c2322fb8de4#ref=rss)
+* [https://www.spiegel.de/ausland/rt-usa-bezeichnen-russischen-sender-als-vollwertiges-mitglied-des-geheimdienstes](https://www.spiegel.de/ausland/rt-usa-bezeichnen-russischen-sender-als-vollwertiges-mitglied-des-geheimdienstes-a-4c2290c8-c623-43e5-ba4f-a1c6d87dc75e#ref=rss)
+### tore
+
+* [https://www.spiegel.de/sport/fussball/serhou-guirassy-bei-borussia-dortmund-der-mann-der-einen-neuen-bvb-verspricht](https://www.spiegel.de/sport/fussball/serhou-guirassy-bei-borussia-dortmund-der-mann-der-einen-neuen-bvb-verspricht-a-f6776a20-d977-4098-ae3f-a8a835d3cab2#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-chancenlos-zivzivadze-schiesst-karlsruhe-an-die-spitze](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-chancenlos-zivzivadze-schiesst-karlsruhe-an-die-spitze-a-d922cc98-78af-4db8-b722-1ecd4f991f48#ref=rss)
+### biden
+
+* [https://www.spiegel.de/ausland/ukraine-joe-biden-und-keir-starmer-vertagen-entscheidung-ueber-waffen-einsatz-gegen-russland](https://www.spiegel.de/ausland/ukraine-joe-biden-und-keir-starmer-vertagen-entscheidung-ueber-waffen-einsatz-gegen-russland-a-c4f9d9c8-4529-4b73-b2d6-84e1bdb65557#ref=rss)
+### starmer
+
+* [https://www.spiegel.de/ausland/ukraine-joe-biden-und-keir-starmer-vertagen-entscheidung-ueber-waffen-einsatz-gegen-russland](https://www.spiegel.de/ausland/ukraine-joe-biden-und-keir-starmer-vertagen-entscheidung-ueber-waffen-einsatz-gegen-russland-a-c4f9d9c8-4529-4b73-b2d6-84e1bdb65557#ref=rss)
+### britische
+
+* [https://www.spiegel.de/ausland/ukraine-joe-biden-und-keir-starmer-vertagen-entscheidung-ueber-waffen-einsatz-gegen-russland](https://www.spiegel.de/ausland/ukraine-joe-biden-und-keir-starmer-vertagen-entscheidung-ueber-waffen-einsatz-gegen-russland-a-c4f9d9c8-4529-4b73-b2d6-84e1bdb65557#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-em-2028-nordirland-droht-das-aus-als-co-gastgeber-wegen-kostenexplosion-bei-stadionbau](https://www.spiegel.de/sport/fussball/fussball-em-2028-nordirland-droht-das-aus-als-co-gastgeber-wegen-kostenexplosion-bei-stadionbau-a-2d0fba2f-baa5-4efa-af03-30ff6a192b96#ref=rss)
+### neos
+
+* [https://www.spiegel.de/ausland/oesterreich-wahl-regieren-bald-die-liberalen-neos-podcast](https://www.spiegel.de/ausland/oesterreich-wahl-regieren-bald-die-liberalen-neos-podcast-a-28d23da9-5f55-4c68-8faa-8e190f81a0c3#ref=rss)
+### kiforscher
+
+* [https://www.spiegel.de/politik/deutschland/news-ki-forscher-warnt-vor-ki-wahlkampf-in-brandenburg-buergerfest-des-bundespraesidenten](https://www.spiegel.de/politik/deutschland/news-ki-forscher-warnt-vor-ki-wahlkampf-in-brandenburg-buergerfest-des-bundespraesidenten-a-3bf8b3c6-0c1d-49cc-a41f-20064155e17d#ref=rss)
+### wahlkampf
+
+* [https://www.spiegel.de/politik/deutschland/news-ki-forscher-warnt-vor-ki-wahlkampf-in-brandenburg-buergerfest-des-bundespraesidenten](https://www.spiegel.de/politik/deutschland/news-ki-forscher-warnt-vor-ki-wahlkampf-in-brandenburg-buergerfest-des-bundespraesidenten-a-3bf8b3c6-0c1d-49cc-a41f-20064155e17d#ref=rss)
+### brandenburg
+
+* [https://www.spiegel.de/politik/deutschland/news-ki-forscher-warnt-vor-ki-wahlkampf-in-brandenburg-buergerfest-des-bundespraesidenten](https://www.spiegel.de/politik/deutschland/news-ki-forscher-warnt-vor-ki-wahlkampf-in-brandenburg-buergerfest-des-bundespraesidenten-a-3bf8b3c6-0c1d-49cc-a41f-20064155e17d#ref=rss)
+### test
+
+* [https://www.spiegel.de/tests/fahrrad-zubehoer/rucksaecke-fuer-radfahrer-im-test-chrome-evoc-deuter-ortlieb-vaude-und-aevor](https://www.spiegel.de/tests/fahrrad-zubehoer/rucksaecke-fuer-radfahrer-im-test-chrome-evoc-deuter-ortlieb-vaude-und-aevor-a-6eefcf16-3c82-40cf-bf9e-b69965fe7ace#ref=rss)
+* [https://www.spiegel.de/auto/xpeng-g6-im-test-elektroauto-vom-partner-aus-china-als-vorbild-fuer-vw](https://www.spiegel.de/auto/xpeng-g6-im-test-elektroauto-vom-partner-aus-china-als-vorbild-fuer-vw-a-bdb1ae42-7070-4dc5-9c46-dc65f3d4c91f#ref=rss)
+### xpeng
+
+* [https://www.spiegel.de/auto/xpeng-g6-im-test-elektroauto-vom-partner-aus-china-als-vorbild-fuer-vw](https://www.spiegel.de/auto/xpeng-g6-im-test-elektroauto-vom-partner-aus-china-als-vorbild-fuer-vw-a-bdb1ae42-7070-4dc5-9c46-dc65f3d4c91f#ref=rss)
+### g6
+
+* [https://www.spiegel.de/auto/xpeng-g6-im-test-elektroauto-vom-partner-aus-china-als-vorbild-fuer-vw](https://www.spiegel.de/auto/xpeng-g6-im-test-elektroauto-vom-partner-aus-china-als-vorbild-fuer-vw-a-bdb1ae42-7070-4dc5-9c46-dc65f3d4c91f#ref=rss)
+### vorbild
+
+* [https://www.spiegel.de/auto/xpeng-g6-im-test-elektroauto-vom-partner-aus-china-als-vorbild-fuer-vw](https://www.spiegel.de/auto/xpeng-g6-im-test-elektroauto-vom-partner-aus-china-als-vorbild-fuer-vw-a-bdb1ae42-7070-4dc5-9c46-dc65f3d4c91f#ref=rss)
+### vw
+
+* [https://www.spiegel.de/auto/xpeng-g6-im-test-elektroauto-vom-partner-aus-china-als-vorbild-fuer-vw](https://www.spiegel.de/auto/xpeng-g6-im-test-elektroauto-vom-partner-aus-china-als-vorbild-fuer-vw-a-bdb1ae42-7070-4dc5-9c46-dc65f3d4c91f#ref=rss)
+### hersteller
+
+* [https://www.spiegel.de/auto/xpeng-g6-im-test-elektroauto-vom-partner-aus-china-als-vorbild-fuer-vw](https://www.spiegel.de/auto/xpeng-g6-im-test-elektroauto-vom-partner-aus-china-als-vorbild-fuer-vw-a-bdb1ae42-7070-4dc5-9c46-dc65f3d4c91f#ref=rss)
+* [https://www.spiegel.de/panorama/leute/lottie-moss-besorgte-sich-abnehmspritzen-unter-der-hand-und-landete-im-krankenhaus](https://www.spiegel.de/panorama/leute/lottie-moss-besorgte-sich-abnehmspritzen-unter-der-hand-und-landete-im-krankenhaus-a-1872fc79-000b-4693-9227-f20f52d23fba#ref=rss)
+### beteiligt
+
+* [https://www.spiegel.de/auto/xpeng-g6-im-test-elektroauto-vom-partner-aus-china-als-vorbild-fuer-vw](https://www.spiegel.de/auto/xpeng-g6-im-test-elektroauto-vom-partner-aus-china-als-vorbild-fuer-vw-a-bdb1ae42-7070-4dc5-9c46-dc65f3d4c91f#ref=rss)
+* [https://www.spiegel.de/ausland/rt-usa-bezeichnen-russischen-sender-als-vollwertiges-mitglied-des-geheimdienstes](https://www.spiegel.de/ausland/rt-usa-bezeichnen-russischen-sender-als-vollwertiges-mitglied-des-geheimdienstes-a-4c2290c8-c623-43e5-ba4f-a1c6d87dc75e#ref=rss)
+### soldaten
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-putins-hilflose-soldaten-spiegel-tv-gibt-exklusive-einblicke-in-gefangenenlager](https://www.spiegel.de/ausland/ukraine-krieg-putins-hilflose-soldaten-spiegel-tv-gibt-exklusive-einblicke-in-gefangenenlager-a-de656c3a-f7cf-4f10-b95f-ea1de08f48f7#ref=rss)
+### josefine
+
+* [https://www.spiegel.de/politik/deutschland/migration-gruene-ministerin-josefine-paul-muss-fuer-mehr-abschiebungen-sorgen](https://www.spiegel.de/politik/deutschland/migration-gruene-ministerin-josefine-paul-muss-fuer-mehr-abschiebungen-sorgen-a-a1f5287d-f62c-4f07-a64a-794742dd171b#ref=rss)
+### paul
+
+* [https://www.spiegel.de/politik/deutschland/migration-gruene-ministerin-josefine-paul-muss-fuer-mehr-abschiebungen-sorgen](https://www.spiegel.de/politik/deutschland/migration-gruene-ministerin-josefine-paul-muss-fuer-mehr-abschiebungen-sorgen-a-a1f5287d-f62c-4f07-a64a-794742dd171b#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/politik/deutschland/migration-gruene-ministerin-josefine-paul-muss-fuer-mehr-abschiebungen-sorgen](https://www.spiegel.de/politik/deutschland/migration-gruene-ministerin-josefine-paul-muss-fuer-mehr-abschiebungen-sorgen-a-a1f5287d-f62c-4f07-a64a-794742dd171b#ref=rss)
+### abschiebungen
+
+* [https://www.spiegel.de/politik/deutschland/migration-gruene-ministerin-josefine-paul-muss-fuer-mehr-abschiebungen-sorgen](https://www.spiegel.de/politik/deutschland/migration-gruene-ministerin-josefine-paul-muss-fuer-mehr-abschiebungen-sorgen-a-a1f5287d-f62c-4f07-a64a-794742dd171b#ref=rss)
+### rt
+
+* [https://www.spiegel.de/ausland/rt-usa-bezeichnen-russischen-sender-als-vollwertiges-mitglied-des-geheimdienstes](https://www.spiegel.de/ausland/rt-usa-bezeichnen-russischen-sender-als-vollwertiges-mitglied-des-geheimdienstes-a-4c2290c8-c623-43e5-ba4f-a1c6d87dc75e#ref=rss)
+### russischen
+
+* [https://www.spiegel.de/ausland/rt-usa-bezeichnen-russischen-sender-als-vollwertiges-mitglied-des-geheimdienstes](https://www.spiegel.de/ausland/rt-usa-bezeichnen-russischen-sender-als-vollwertiges-mitglied-des-geheimdienstes-a-4c2290c8-c623-43e5-ba4f-a1c6d87dc75e#ref=rss)
+### sender
+
+* [https://www.spiegel.de/ausland/rt-usa-bezeichnen-russischen-sender-als-vollwertiges-mitglied-des-geheimdienstes](https://www.spiegel.de/ausland/rt-usa-bezeichnen-russischen-sender-als-vollwertiges-mitglied-des-geheimdienstes-a-4c2290c8-c623-43e5-ba4f-a1c6d87dc75e#ref=rss)
+### scharf
+
+* [https://www.spiegel.de/ausland/rt-usa-bezeichnen-russischen-sender-als-vollwertiges-mitglied-des-geheimdienstes](https://www.spiegel.de/ausland/rt-usa-bezeichnen-russischen-sender-als-vollwertiges-mitglied-des-geheimdienstes-a-4c2290c8-c623-43e5-ba4f-a1c6d87dc75e#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-oder-kamala-harris-papst-franziskus-spricht-wahlempfehlung-aus](https://www.spiegel.de/ausland/donald-trump-oder-kamala-harris-papst-franziskus-spricht-wahlempfehlung-aus-a-cf0953a5-b2ac-4c23-8556-cc4e5ab39c8c#ref=rss)
+### fußballem
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2028-nordirland-droht-das-aus-als-co-gastgeber-wegen-kostenexplosion-bei-stadionbau](https://www.spiegel.de/sport/fussball/fussball-em-2028-nordirland-droht-das-aus-als-co-gastgeber-wegen-kostenexplosion-bei-stadionbau-a-2d0fba2f-baa5-4efa-af03-30ff6a192b96#ref=rss)
+### 2028
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2028-nordirland-droht-das-aus-als-co-gastgeber-wegen-kostenexplosion-bei-stadionbau](https://www.spiegel.de/sport/fussball/fussball-em-2028-nordirland-droht-das-aus-als-co-gastgeber-wegen-kostenexplosion-bei-stadionbau-a-2d0fba2f-baa5-4efa-af03-30ff6a192b96#ref=rss)
+### kostenexplosion
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2028-nordirland-droht-das-aus-als-co-gastgeber-wegen-kostenexplosion-bei-stadionbau](https://www.spiegel.de/sport/fussball/fussball-em-2028-nordirland-droht-das-aus-als-co-gastgeber-wegen-kostenexplosion-bei-stadionbau-a-2d0fba2f-baa5-4efa-af03-30ff6a192b96#ref=rss)
+### karim
+
+* [https://www.spiegel.de/sport/fussball/bundesliga-borussia-dortmund-stoppt-tabellenfuehrer-heidenheim-karim-adeyemi-trifft-doppelt](https://www.spiegel.de/sport/fussball/bundesliga-borussia-dortmund-stoppt-tabellenfuehrer-heidenheim-karim-adeyemi-trifft-doppelt-a-df0e10ea-07bf-495b-97c9-a88725d897a7#ref=rss)
+### adeyemi
+
+* [https://www.spiegel.de/sport/fussball/bundesliga-borussia-dortmund-stoppt-tabellenfuehrer-heidenheim-karim-adeyemi-trifft-doppelt](https://www.spiegel.de/sport/fussball/bundesliga-borussia-dortmund-stoppt-tabellenfuehrer-heidenheim-karim-adeyemi-trifft-doppelt-a-df0e10ea-07bf-495b-97c9-a88725d897a7#ref=rss)
+### trifft
+
+* [https://www.spiegel.de/sport/fussball/bundesliga-borussia-dortmund-stoppt-tabellenfuehrer-heidenheim-karim-adeyemi-trifft-doppelt](https://www.spiegel.de/sport/fussball/bundesliga-borussia-dortmund-stoppt-tabellenfuehrer-heidenheim-karim-adeyemi-trifft-doppelt-a-df0e10ea-07bf-495b-97c9-a88725d897a7#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-chancenlos-zivzivadze-schiesst-karlsruhe-an-die-spitze](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-chancenlos-zivzivadze-schiesst-karlsruhe-an-die-spitze-a-d922cc98-78af-4db8-b722-1ecd4f991f48#ref=rss)
+### gala
+
+* [https://www.spiegel.de/sport/fussball/bundesliga-borussia-dortmund-stoppt-tabellenfuehrer-heidenheim-karim-adeyemi-trifft-doppelt](https://www.spiegel.de/sport/fussball/bundesliga-borussia-dortmund-stoppt-tabellenfuehrer-heidenheim-karim-adeyemi-trifft-doppelt-a-df0e10ea-07bf-495b-97c9-a88725d897a7#ref=rss)
+### neuer
+
+* [https://www.spiegel.de/sport/fussball/bundesliga-borussia-dortmund-stoppt-tabellenfuehrer-heidenheim-karim-adeyemi-trifft-doppelt](https://www.spiegel.de/sport/fussball/bundesliga-borussia-dortmund-stoppt-tabellenfuehrer-heidenheim-karim-adeyemi-trifft-doppelt-a-df0e10ea-07bf-495b-97c9-a88725d897a7#ref=rss)
+* [https://www.spiegel.de/reise/deutschland/wuppertal-dessau-bremerhaven-unerwartete-deutsche-ziele-im-marco-polo-trendguide-2025](https://www.spiegel.de/reise/deutschland/wuppertal-dessau-bremerhaven-unerwartete-deutsche-ziele-im-marco-polo-trendguide-2025-a-23c3cf8f-21d9-4f57-9d3f-b8e4c54b7287#ref=rss)
+### simbabwe
+
+* [https://www.spiegel.de/panorama/simbabwe-will-200-elefanten-wegen-duerre-und-hungersnot-toeten](https://www.spiegel.de/panorama/simbabwe-will-200-elefanten-wegen-duerre-und-hungersnot-toeten-a-2f25be00-0d92-42a7-affa-f7eae87a8553#ref=rss)
+### elefanten
+
+* [https://www.spiegel.de/panorama/simbabwe-will-200-elefanten-wegen-duerre-und-hungersnot-toeten](https://www.spiegel.de/panorama/simbabwe-will-200-elefanten-wegen-duerre-und-hungersnot-toeten-a-2f25be00-0d92-42a7-affa-f7eae87a8553#ref=rss)
+### dürre
+
+* [https://www.spiegel.de/panorama/simbabwe-will-200-elefanten-wegen-duerre-und-hungersnot-toeten](https://www.spiegel.de/panorama/simbabwe-will-200-elefanten-wegen-duerre-und-hungersnot-toeten-a-2f25be00-0d92-42a7-affa-f7eae87a8553#ref=rss)
 ### kamala
 
-* [https://www.spiegel.de/ausland/us-wahlkampf-nach-tv-duell-kamala-harris-gewinnt-und-laesst-fragen-offen-podcast](https://www.spiegel.de/ausland/us-wahlkampf-nach-tv-duell-kamala-harris-gewinnt-und-laesst-fragen-offen-podcast-a-8f735726-f2f9-4272-a797-79d72679ef42#ref=rss)
-### fragen
+* [https://www.spiegel.de/ausland/donald-trump-oder-kamala-harris-papst-franziskus-spricht-wahlempfehlung-aus](https://www.spiegel.de/ausland/donald-trump-oder-kamala-harris-papst-franziskus-spricht-wahlempfehlung-aus-a-cf0953a5-b2ac-4c23-8556-cc4e5ab39c8c#ref=rss)
+### harris
 
-* [https://www.spiegel.de/ausland/us-wahlkampf-nach-tv-duell-kamala-harris-gewinnt-und-laesst-fragen-offen-podcast](https://www.spiegel.de/ausland/us-wahlkampf-nach-tv-duell-kamala-harris-gewinnt-und-laesst-fragen-offen-podcast-a-8f735726-f2f9-4272-a797-79d72679ef42#ref=rss)
-### sollte
+* [https://www.spiegel.de/ausland/donald-trump-oder-kamala-harris-papst-franziskus-spricht-wahlempfehlung-aus](https://www.spiegel.de/ausland/donald-trump-oder-kamala-harris-papst-franziskus-spricht-wahlempfehlung-aus-a-cf0953a5-b2ac-4c23-8556-cc4e5ab39c8c#ref=rss)
+### papst
 
-* [https://www.spiegel.de/ausland/us-wahlkampf-nach-tv-duell-kamala-harris-gewinnt-und-laesst-fragen-offen-podcast](https://www.spiegel.de/ausland/us-wahlkampf-nach-tv-duell-kamala-harris-gewinnt-und-laesst-fragen-offen-podcast-a-8f735726-f2f9-4272-a797-79d72679ef42#ref=rss)
-### mitstreiter
+* [https://www.spiegel.de/ausland/donald-trump-oder-kamala-harris-papst-franziskus-spricht-wahlempfehlung-aus](https://www.spiegel.de/ausland/donald-trump-oder-kamala-harris-papst-franziskus-spricht-wahlempfehlung-aus-a-cf0953a5-b2ac-4c23-8556-cc4e5ab39c8c#ref=rss)
+### franziskus
 
-* [https://www.spiegel.de/ausland/russland-hat-ein-putin-kritischer-oligarch-ein-attentat-auf-eine-mitstreiter-von-alexey-nawalny-verueben-lassen](https://www.spiegel.de/ausland/russland-hat-ein-putin-kritischer-oligarch-ein-attentat-auf-eine-mitstreiter-von-alexey-nawalny-verueben-lassen-a-c97abfcd-d789-415b-b97c-0d6aef6b3e25#ref=rss)
-### kretschmer
+* [https://www.spiegel.de/ausland/donald-trump-oder-kamala-harris-papst-franziskus-spricht-wahlempfehlung-aus](https://www.spiegel.de/ausland/donald-trump-oder-kamala-harris-papst-franziskus-spricht-wahlempfehlung-aus-a-cf0953a5-b2ac-4c23-8556-cc4e5ab39c8c#ref=rss)
+### springfield
 
-* [https://www.spiegel.de/politik/deutschland/brandenburg-wahl-michael-kretschmer-ueberrascht-spd-mit-wahlkampfgeschenk](https://www.spiegel.de/politik/deutschland/brandenburg-wahl-michael-kretschmer-ueberrascht-spd-mit-wahlkampfgeschenk-a-6c51b4ff-2244-4f9f-9140-c550e8b4e9c6#ref=rss)
-### wahlkampfgeschenk
+* [https://www.spiegel.de/ausland/donald-trump-und-springfield-bombendrohung-gegen-schulen-nach-haustierbehauptung](https://www.spiegel.de/ausland/donald-trump-und-springfield-bombendrohung-gegen-schulen-nach-haustierbehauptung-a-5fc18ad5-9162-4790-b3d0-90f8617dc9ef#ref=rss)
+### haustierbehauptung
 
-* [https://www.spiegel.de/politik/deutschland/brandenburg-wahl-michael-kretschmer-ueberrascht-spd-mit-wahlkampfgeschenk](https://www.spiegel.de/politik/deutschland/brandenburg-wahl-michael-kretschmer-ueberrascht-spd-mit-wahlkampfgeschenk-a-6c51b4ff-2244-4f9f-9140-c550e8b4e9c6#ref=rss)
-### intel
+* [https://www.spiegel.de/ausland/donald-trump-und-springfield-bombendrohung-gegen-schulen-nach-haustierbehauptung](https://www.spiegel.de/ausland/donald-trump-und-springfield-bombendrohung-gegen-schulen-nach-haustierbehauptung-a-5fc18ad5-9162-4790-b3d0-90f8617dc9ef#ref=rss)
+### unter
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/intel-polen-zahlt-fuer-ansiedlung-von-chip-fabrik-bei-breslau](https://www.spiegel.de/wirtschaft/unternehmen/intel-polen-zahlt-fuer-ansiedlung-von-chip-fabrik-bei-breslau-a-79bd7e92-97ab-47c0-a9cc-8042f2063c71#ref=rss)
-### ansiedlung
+* [https://www.spiegel.de/ausland/donald-trump-und-springfield-bombendrohung-gegen-schulen-nach-haustierbehauptung](https://www.spiegel.de/ausland/donald-trump-und-springfield-bombendrohung-gegen-schulen-nach-haustierbehauptung-a-5fc18ad5-9162-4790-b3d0-90f8617dc9ef#ref=rss)
+* [https://www.spiegel.de/panorama/leute/lottie-moss-besorgte-sich-abnehmspritzen-unter-der-hand-und-landete-im-krankenhaus](https://www.spiegel.de/panorama/leute/lottie-moss-besorgte-sich-abnehmspritzen-unter-der-hand-und-landete-im-krankenhaus-a-1872fc79-000b-4693-9227-f20f52d23fba#ref=rss)
+### gericht
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/intel-polen-zahlt-fuer-ansiedlung-von-chip-fabrik-bei-breslau](https://www.spiegel.de/wirtschaft/unternehmen/intel-polen-zahlt-fuer-ansiedlung-von-chip-fabrik-bei-breslau-a-79bd7e92-97ab-47c0-a9cc-8042f2063c71#ref=rss)
-### kultursenator
+* [https://www.spiegel.de/ausland/demokratische-republik-kongo-militaergericht-verurteilt-37-menschen-zum-tod](https://www.spiegel.de/ausland/demokratische-republik-kongo-militaergericht-verurteilt-37-menschen-zum-tod-a-aec9b138-5333-4a35-8f3b-e2bbc84abb37#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-brasilien-ordnet-geldbusse-von-firmen-x-und-starlink-an](https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-brasilien-ordnet-geldbusse-von-firmen-x-und-starlink-an-a-fe442ab3-5467-48c3-9e40-40e388eaa605#ref=rss)
+### lottie
 
-* [https://www.spiegel.de/politik/deutschland/berlin-kultursenator-joe-chialo-in-antisemitismus-streit-von-demonstranten-bedraengt](https://www.spiegel.de/politik/deutschland/berlin-kultursenator-joe-chialo-in-antisemitismus-streit-von-demonstranten-bedraengt-a-23746526-141a-4b6e-92da-b3afc66dd131#ref=rss)
+* [https://www.spiegel.de/panorama/leute/lottie-moss-besorgte-sich-abnehmspritzen-unter-der-hand-und-landete-im-krankenhaus](https://www.spiegel.de/panorama/leute/lottie-moss-besorgte-sich-abnehmspritzen-unter-der-hand-und-landete-im-krankenhaus-a-1872fc79-000b-4693-9227-f20f52d23fba#ref=rss)
+### moss
+
+* [https://www.spiegel.de/panorama/leute/lottie-moss-besorgte-sich-abnehmspritzen-unter-der-hand-und-landete-im-krankenhaus](https://www.spiegel.de/panorama/leute/lottie-moss-besorgte-sich-abnehmspritzen-unter-der-hand-und-landete-im-krankenhaus-a-1872fc79-000b-4693-9227-f20f52d23fba#ref=rss)
+### abnehmspritzen
+
+* [https://www.spiegel.de/panorama/leute/lottie-moss-besorgte-sich-abnehmspritzen-unter-der-hand-und-landete-im-krankenhaus](https://www.spiegel.de/panorama/leute/lottie-moss-besorgte-sich-abnehmspritzen-unter-der-hand-und-landete-im-krankenhaus-a-1872fc79-000b-4693-9227-f20f52d23fba#ref=rss)
+### schalke
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-chancenlos-zivzivadze-schiesst-karlsruhe-an-die-spitze](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-chancenlos-zivzivadze-schiesst-karlsruhe-an-die-spitze-a-d922cc98-78af-4db8-b722-1ecd4f991f48#ref=rss)
+### zivzivadze
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-chancenlos-zivzivadze-schiesst-karlsruhe-an-die-spitze](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-chancenlos-zivzivadze-schiesst-karlsruhe-an-die-spitze-a-d922cc98-78af-4db8-b722-1ecd4f991f48#ref=rss)
+### karlsruhe
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-chancenlos-zivzivadze-schiesst-karlsruhe-an-die-spitze](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-chancenlos-zivzivadze-schiesst-karlsruhe-an-die-spitze-a-d922cc98-78af-4db8-b722-1ecd4f991f48#ref=rss)
+### elon
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-brasilien-ordnet-geldbusse-von-firmen-x-und-starlink-an](https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-brasilien-ordnet-geldbusse-von-firmen-x-und-starlink-an-a-fe442ab3-5467-48c3-9e40-40e388eaa605#ref=rss)
+### musk
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-brasilien-ordnet-geldbusse-von-firmen-x-und-starlink-an](https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-brasilien-ordnet-geldbusse-von-firmen-x-und-starlink-an-a-fe442ab3-5467-48c3-9e40-40e388eaa605#ref=rss)
 
