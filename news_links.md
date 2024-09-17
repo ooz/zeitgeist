@@ -4,384 +4,305 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-ein-jahr-zeit-zu-lernen](https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-ein-jahr-zeit-zu-lernen-a-77f323de-5892-4dac-a843-9a53d8b0ebcf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kanzlerkandidatur-der-union-friedrich-merz-und-markus-soeder-einigen-sich-auf-den-cdu-chef](https://www.spiegel.de/politik/deutschland/kanzlerkandidatur-der-union-friedrich-merz-und-markus-soeder-einigen-sich-auf-den-cdu-chef-a-1a96e850-3297-4cdf-8b8e-0842b9cf0c97#ref=rss)
-* [https://www.spiegel.de/politik/cdu-csu-friedrich-merz-und-markus-soeder-geben-gemeinsame-pressekonferenz-livestream](https://www.spiegel.de/politik/cdu-csu-friedrich-merz-und-markus-soeder-geben-gemeinsame-pressekonferenz-livestream-a-a0c303c5-0f2e-4479-a9a6-92c31fd9607c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-friedrich-merz-wird-kanzlerkandidat-der-union](https://www.spiegel.de/politik/deutschland/cdu-csu-friedrich-merz-wird-kanzlerkandidat-der-union-a-6c0557ca-b775-4002-b1cd-d156a9d0e7a8#ref=rss)
 ### merz
 
-* [https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-ein-jahr-zeit-zu-lernen](https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-ein-jahr-zeit-zu-lernen-a-77f323de-5892-4dac-a843-9a53d8b0ebcf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kanzlerkandidatur-der-union-friedrich-merz-und-markus-soeder-einigen-sich-auf-den-cdu-chef](https://www.spiegel.de/politik/deutschland/kanzlerkandidatur-der-union-friedrich-merz-und-markus-soeder-einigen-sich-auf-den-cdu-chef-a-1a96e850-3297-4cdf-8b8e-0842b9cf0c97#ref=rss)
-* [https://www.spiegel.de/politik/cdu-csu-friedrich-merz-und-markus-soeder-geben-gemeinsame-pressekonferenz-livestream](https://www.spiegel.de/politik/cdu-csu-friedrich-merz-und-markus-soeder-geben-gemeinsame-pressekonferenz-livestream-a-a0c303c5-0f2e-4479-a9a6-92c31fd9607c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-friedrich-merz-wird-kanzlerkandidat-der-union](https://www.spiegel.de/politik/deutschland/cdu-csu-friedrich-merz-wird-kanzlerkandidat-der-union-a-6c0557ca-b775-4002-b1cd-d156a9d0e7a8#ref=rss)
-### union
-
-* [https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-ein-jahr-zeit-zu-lernen](https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-ein-jahr-zeit-zu-lernen-a-77f323de-5892-4dac-a843-9a53d8b0ebcf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kanzlerkandidatur-der-union-friedrich-merz-und-markus-soeder-einigen-sich-auf-den-cdu-chef](https://www.spiegel.de/politik/deutschland/kanzlerkandidatur-der-union-friedrich-merz-und-markus-soeder-einigen-sich-auf-den-cdu-chef-a-1a96e850-3297-4cdf-8b8e-0842b9cf0c97#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kanzlerkandidatur-in-der-union-warum-sich-hendrik-wuest-jetzt-neu-erfinden-muss](https://www.spiegel.de/politik/deutschland/kanzlerkandidatur-in-der-union-warum-sich-hendrik-wuest-jetzt-neu-erfinden-muss-a-d1e17587-d0e6-4a66-b752-c49854034c9f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-friedrich-merz-wird-kanzlerkandidat-der-union](https://www.spiegel.de/politik/deutschland/cdu-csu-friedrich-merz-wird-kanzlerkandidat-der-union-a-6c0557ca-b775-4002-b1cd-d156a9d0e7a8#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wissenschaft/demografischer-wandel-ueber-10-000-todesfaelle-im-vergangenen-jahr-durch-alzheimer](https://www.spiegel.de/wissenschaft/demografischer-wandel-ueber-10-000-todesfaelle-im-vergangenen-jahr-durch-alzheimer-a-0fc4440c-cee5-4e05-b5a5-2883b398c0be#ref=rss)
-* [https://www.spiegel.de/panorama/hochwasser-in-polen-tschechien-oesterreich-und-deutschland-das-chaos-nach-der-flut](https://www.spiegel.de/panorama/hochwasser-in-polen-tschechien-oesterreich-und-deutschland-das-chaos-nach-der-flut-a-50c767f3-d9df-446f-ae3b-adb1a18ec11e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/intel-rueckzug-in-magdeburg-lauter-verlierer](https://www.spiegel.de/wirtschaft/intel-rueckzug-in-magdeburg-lauter-verlierer-a-b0ad0f72-8bb6-4b66-9e00-75e80ebca1de#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/opioid-krise-in-deutschland-sucht-auf-rezept](https://www.spiegel.de/panorama/gesellschaft/opioid-krise-in-deutschland-sucht-auf-rezept-a-8e5a7d4c-2b2e-4597-9e7a-2e6eccec7032#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/migration-grenzkontrollen-in-deutschland-gefaehrden-deutschlands-ansehen-in-der-eu](https://www.spiegel.de/politik/deutschland/migration-grenzkontrollen-in-deutschland-gefaehrden-deutschlands-ansehen-in-der-eu-a-6c2249bc-00e5-42b4-b3f4-74c1d3ca7db6#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/service/fast-fashion-modebranche-setzt-immer-mehr-auf-plastik](https://www.spiegel.de/wirtschaft/service/fast-fashion-modebranche-setzt-immer-mehr-auf-plastik-a-c033337a-80e2-4ff8-ba67-9cb05a1a73e0#ref=rss)
-* [https://www.spiegel.de/wissenschaft/demografischer-wandel-ueber-10-000-todesfaelle-im-vergangenen-jahr-durch-alzheimer](https://www.spiegel.de/wissenschaft/demografischer-wandel-ueber-10-000-todesfaelle-im-vergangenen-jahr-durch-alzheimer-a-0fc4440c-cee5-4e05-b5a5-2883b398c0be#ref=rss)
-* [https://www.spiegel.de/ausland/ursula-von-der-leyen-besetzt-neue-eu-kommission-zu-40-prozent-mit-frauen](https://www.spiegel.de/ausland/ursula-von-der-leyen-besetzt-neue-eu-kommission-zu-40-prozent-mit-frauen-a-887a2581-dec9-48e9-ba16-e66a1d5761d6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/migration-grenzkontrollen-in-deutschland-gefaehrden-deutschlands-ansehen-in-der-eu](https://www.spiegel.de/politik/deutschland/migration-grenzkontrollen-in-deutschland-gefaehrden-deutschlands-ansehen-in-der-eu-a-6c2249bc-00e5-42b4-b3f4-74c1d3ca7db6#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wirtschaft/service/fast-fashion-modebranche-setzt-immer-mehr-auf-plastik](https://www.spiegel.de/wirtschaft/service/fast-fashion-modebranche-setzt-immer-mehr-auf-plastik-a-c033337a-80e2-4ff8-ba67-9cb05a1a73e0#ref=rss)
-* [https://www.spiegel.de/ausland/ursula-von-der-leyen-besetzt-neue-eu-kommission-zu-40-prozent-mit-frauen](https://www.spiegel.de/ausland/ursula-von-der-leyen-besetzt-neue-eu-kommission-zu-40-prozent-mit-frauen-a-887a2581-dec9-48e9-ba16-e66a1d5761d6#ref=rss)
-* [https://www.spiegel.de/ausland/europaeische-migrationspolitik-24-stunden-neue-deutsche-haerte](https://www.spiegel.de/ausland/europaeische-migrationspolitik-24-stunden-neue-deutsche-haerte-a-80462121-e178-4684-8f63-d0d8ef30703a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/migration-grenzkontrollen-in-deutschland-gefaehrden-deutschlands-ansehen-in-der-eu](https://www.spiegel.de/politik/deutschland/migration-grenzkontrollen-in-deutschland-gefaehrden-deutschlands-ansehen-in-der-eu-a-6c2249bc-00e5-42b4-b3f4-74c1d3ca7db6#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/hochwasser-in-bayern-tote-und-geschwaechte-schwalben-nach-dauerregen](https://www.spiegel.de/panorama/hochwasser-in-bayern-tote-und-geschwaechte-schwalben-nach-dauerregen-a-a3afbab5-f7d7-4d1a-b7de-e566a007d757#ref=rss)
-* [https://www.spiegel.de/wissenschaft/titan-untersuchung-ehemaliger-mitarbeiter-belastet-betreiberfirma-oceangate](https://www.spiegel.de/wissenschaft/titan-untersuchung-ehemaliger-mitarbeiter-belastet-betreiberfirma-oceangate-a-2d72b22c-05b4-4fe6-84ee-ba528bcfb0a3#ref=rss)
-* [https://www.spiegel.de/wissenschaft/demografischer-wandel-ueber-10-000-todesfaelle-im-vergangenen-jahr-durch-alzheimer](https://www.spiegel.de/wissenschaft/demografischer-wandel-ueber-10-000-todesfaelle-im-vergangenen-jahr-durch-alzheimer-a-0fc4440c-cee5-4e05-b5a5-2883b398c0be#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/steuersenkungen-gutverdiener-profitieren-von-plaenen-der-ampelregierung-besonders](https://www.spiegel.de/wirtschaft/soziales/steuersenkungen-gutverdiener-profitieren-von-plaenen-der-ampelregierung-besonders-a-c87ecb39-d802-4b05-b75a-f76159a3923b#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/donald-trump-die-schuesse-in-florida-zeigen-dass-er-teil-des-problems-ist](https://www.spiegel.de/ausland/donald-trump-die-schuesse-in-florida-zeigen-dass-er-teil-des-problems-ist-a-5d66ba7b-e0be-474d-908b-5acf8744e1c3#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-bodycam-aufnahmen-zeigen-festnahme-des-mutmasslichen-attentaeters](https://www.spiegel.de/ausland/donald-trump-bodycam-aufnahmen-zeigen-festnahme-des-mutmasslichen-attentaeters-a-edd300e6-7f00-4cea-8292-7c142211fc2e#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/donald-trump-die-schuesse-in-florida-zeigen-dass-er-teil-des-problems-ist](https://www.spiegel.de/ausland/donald-trump-die-schuesse-in-florida-zeigen-dass-er-teil-des-problems-ist-a-5d66ba7b-e0be-474d-908b-5acf8744e1c3#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-bodycam-aufnahmen-zeigen-festnahme-des-mutmasslichen-attentaeters](https://www.spiegel.de/ausland/donald-trump-bodycam-aufnahmen-zeigen-festnahme-des-mutmasslichen-attentaeters-a-edd300e6-7f00-4cea-8292-7c142211fc2e#ref=rss)
-### zeigen
-
-* [https://www.spiegel.de/ausland/donald-trump-die-schuesse-in-florida-zeigen-dass-er-teil-des-problems-ist](https://www.spiegel.de/ausland/donald-trump-die-schuesse-in-florida-zeigen-dass-er-teil-des-problems-ist-a-5d66ba7b-e0be-474d-908b-5acf8744e1c3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/steuersenkungen-gutverdiener-profitieren-von-plaenen-der-ampelregierung-besonders](https://www.spiegel.de/wirtschaft/soziales/steuersenkungen-gutverdiener-profitieren-von-plaenen-der-ampelregierung-besonders-a-c87ecb39-d802-4b05-b75a-f76159a3923b#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-bodycam-aufnahmen-zeigen-festnahme-des-mutmasslichen-attentaeters](https://www.spiegel.de/ausland/donald-trump-bodycam-aufnahmen-zeigen-festnahme-des-mutmasslichen-attentaeters-a-edd300e6-7f00-4cea-8292-7c142211fc2e#ref=rss)
-### markus
-
-* [https://www.spiegel.de/politik/deutschland/kanzlerkandidatur-der-union-friedrich-merz-und-markus-soeder-einigen-sich-auf-den-cdu-chef](https://www.spiegel.de/politik/deutschland/kanzlerkandidatur-der-union-friedrich-merz-und-markus-soeder-einigen-sich-auf-den-cdu-chef-a-1a96e850-3297-4cdf-8b8e-0842b9cf0c97#ref=rss)
-* [https://www.spiegel.de/politik/cdu-csu-friedrich-merz-und-markus-soeder-geben-gemeinsame-pressekonferenz-livestream](https://www.spiegel.de/politik/cdu-csu-friedrich-merz-und-markus-soeder-geben-gemeinsame-pressekonferenz-livestream-a-a0c303c5-0f2e-4479-a9a6-92c31fd9607c#ref=rss)
-### söder
-
-* [https://www.spiegel.de/politik/deutschland/kanzlerkandidatur-der-union-friedrich-merz-und-markus-soeder-einigen-sich-auf-den-cdu-chef](https://www.spiegel.de/politik/deutschland/kanzlerkandidatur-der-union-friedrich-merz-und-markus-soeder-einigen-sich-auf-den-cdu-chef-a-1a96e850-3297-4cdf-8b8e-0842b9cf0c97#ref=rss)
-* [https://www.spiegel.de/politik/cdu-csu-friedrich-merz-und-markus-soeder-geben-gemeinsame-pressekonferenz-livestream](https://www.spiegel.de/politik/cdu-csu-friedrich-merz-und-markus-soeder-geben-gemeinsame-pressekonferenz-livestream-a-a0c303c5-0f2e-4479-a9a6-92c31fd9607c#ref=rss)
-### unter
-
-* [https://www.spiegel.de/wirtschaft/service/fast-fashion-modebranche-setzt-immer-mehr-auf-plastik](https://www.spiegel.de/wirtschaft/service/fast-fashion-modebranche-setzt-immer-mehr-auf-plastik-a-c033337a-80e2-4ff8-ba67-9cb05a1a73e0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/intel-rueckzug-in-magdeburg-lauter-verlierer](https://www.spiegel.de/wirtschaft/intel-rueckzug-in-magdeburg-lauter-verlierer-a-b0ad0f72-8bb6-4b66-9e00-75e80ebca1de#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-uno-prangert-menschenrechtskrise-unter-nicolas-maduro-an](https://www.spiegel.de/ausland/venezuela-uno-prangert-menschenrechtskrise-unter-nicolas-maduro-an-a-3a4084a9-8032-4082-b5bd-e3d3bfbdc141#ref=rss)
-### hochwasser
-
-* [https://www.spiegel.de/panorama/hochwasser-in-bayern-tote-und-geschwaechte-schwalben-nach-dauerregen](https://www.spiegel.de/panorama/hochwasser-in-bayern-tote-und-geschwaechte-schwalben-nach-dauerregen-a-a3afbab5-f7d7-4d1a-b7de-e566a007d757#ref=rss)
-* [https://www.spiegel.de/panorama/hochwasser-in-polen-tschechien-oesterreich-und-deutschland-das-chaos-nach-der-flut](https://www.spiegel.de/panorama/hochwasser-in-polen-tschechien-oesterreich-und-deutschland-das-chaos-nach-der-flut-a-50c767f3-d9df-446f-ae3b-adb1a18ec11e#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-ein-jahr-zeit-zu-lernen](https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-ein-jahr-zeit-zu-lernen-a-77f323de-5892-4dac-a843-9a53d8b0ebcf#ref=rss)
-* [https://www.spiegel.de/wissenschaft/demografischer-wandel-ueber-10-000-todesfaelle-im-vergangenen-jahr-durch-alzheimer](https://www.spiegel.de/wissenschaft/demografischer-wandel-ueber-10-000-todesfaelle-im-vergangenen-jahr-durch-alzheimer-a-0fc4440c-cee5-4e05-b5a5-2883b398c0be#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-friedrich-merz-wird-kanzlerkandidat-der-union](https://www.spiegel.de/politik/deutschland/cdu-csu-friedrich-merz-wird-kanzlerkandidat-der-union-a-6c0557ca-b775-4002-b1cd-d156a9d0e7a8#ref=rss)
-### gut
-
-* [https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-ein-jahr-zeit-zu-lernen](https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-ein-jahr-zeit-zu-lernen-a-77f323de-5892-4dac-a843-9a53d8b0ebcf#ref=rss)
-* [https://www.spiegel.de/kultur/stefan-raab-comeback-zehn-jahre-mit-jan-boehmermann-gut-dass-er-wieder-da-ist](https://www.spiegel.de/kultur/stefan-raab-comeback-zehn-jahre-mit-jan-boehmermann-gut-dass-er-wieder-da-ist-a-0de52d67-d2ec-4dbb-adff-652be1e8a52f#ref=rss)
-### allem
-
-* [https://www.spiegel.de/wissenschaft/demografischer-wandel-ueber-10-000-todesfaelle-im-vergangenen-jahr-durch-alzheimer](https://www.spiegel.de/wissenschaft/demografischer-wandel-ueber-10-000-todesfaelle-im-vergangenen-jahr-durch-alzheimer-a-0fc4440c-cee5-4e05-b5a5-2883b398c0be#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/steuersenkungen-gutverdiener-profitieren-von-plaenen-der-ampelregierung-besonders](https://www.spiegel.de/wirtschaft/soziales/steuersenkungen-gutverdiener-profitieren-von-plaenen-der-ampelregierung-besonders-a-c87ecb39-d802-4b05-b75a-f76159a3923b#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/wissenschaft/demografischer-wandel-ueber-10-000-todesfaelle-im-vergangenen-jahr-durch-alzheimer](https://www.spiegel.de/wissenschaft/demografischer-wandel-ueber-10-000-todesfaelle-im-vergangenen-jahr-durch-alzheimer-a-0fc4440c-cee5-4e05-b5a5-2883b398c0be#ref=rss)
-* [https://www.spiegel.de/ausland/ursula-von-der-leyen-besetzt-neue-eu-kommission-zu-40-prozent-mit-frauen](https://www.spiegel.de/ausland/ursula-von-der-leyen-besetzt-neue-eu-kommission-zu-40-prozent-mit-frauen-a-887a2581-dec9-48e9-ba16-e66a1d5761d6#ref=rss)
-### new
-
-* [https://www.spiegel.de/panorama/new-york-city-11-jaehriger-beim-u-bahn-surfen-in-new-york-gestorben](https://www.spiegel.de/panorama/new-york-city-11-jaehriger-beim-u-bahn-surfen-in-new-york-gestorben-a-c465ad20-70ba-4e45-8eb4-d9958e8462c8#ref=rss)
-* [https://www.spiegel.de/panorama/leute/heidi-klum-einblick-in-ihr-neues-halloween-kostuem-auf-instagram](https://www.spiegel.de/panorama/leute/heidi-klum-einblick-in-ihr-neues-halloween-kostuem-auf-instagram-a-51957296-8d3b-4cdd-8658-78a4a2990187#ref=rss)
-### york
-
-* [https://www.spiegel.de/panorama/new-york-city-11-jaehriger-beim-u-bahn-surfen-in-new-york-gestorben](https://www.spiegel.de/panorama/new-york-city-11-jaehriger-beim-u-bahn-surfen-in-new-york-gestorben-a-c465ad20-70ba-4e45-8eb4-d9958e8462c8#ref=rss)
-* [https://www.spiegel.de/panorama/leute/heidi-klum-einblick-in-ihr-neues-halloween-kostuem-auf-instagram](https://www.spiegel.de/panorama/leute/heidi-klum-einblick-in-ihr-neues-halloween-kostuem-auf-instagram-a-51957296-8d3b-4cdd-8658-78a4a2990187#ref=rss)
-### kanzlerkandidatur
-
-* [https://www.spiegel.de/politik/deutschland/kanzlerkandidatur-der-union-friedrich-merz-und-markus-soeder-einigen-sich-auf-den-cdu-chef](https://www.spiegel.de/politik/deutschland/kanzlerkandidatur-der-union-friedrich-merz-und-markus-soeder-einigen-sich-auf-den-cdu-chef-a-1a96e850-3297-4cdf-8b8e-0842b9cf0c97#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kanzlerkandidatur-in-der-union-warum-sich-hendrik-wuest-jetzt-neu-erfinden-muss](https://www.spiegel.de/politik/deutschland/kanzlerkandidatur-in-der-union-warum-sich-hendrik-wuest-jetzt-neu-erfinden-muss-a-d1e17587-d0e6-4a66-b752-c49854034c9f#ref=rss)
-### cduchef
-
-* [https://www.spiegel.de/politik/deutschland/kanzlerkandidatur-der-union-friedrich-merz-und-markus-soeder-einigen-sich-auf-den-cdu-chef](https://www.spiegel.de/politik/deutschland/kanzlerkandidatur-der-union-friedrich-merz-und-markus-soeder-einigen-sich-auf-den-cdu-chef-a-1a96e850-3297-4cdf-8b8e-0842b9cf0c97#ref=rss)
-* [https://www.spiegel.de/politik/cdu-csu-friedrich-merz-und-markus-soeder-geben-gemeinsame-pressekonferenz-livestream](https://www.spiegel.de/politik/cdu-csu-friedrich-merz-und-markus-soeder-geben-gemeinsame-pressekonferenz-livestream-a-a0c303c5-0f2e-4479-a9a6-92c31fd9607c#ref=rss)
-### pressekonferenz
-
-* [https://www.spiegel.de/politik/deutschland/kanzlerkandidatur-der-union-friedrich-merz-und-markus-soeder-einigen-sich-auf-den-cdu-chef](https://www.spiegel.de/politik/deutschland/kanzlerkandidatur-der-union-friedrich-merz-und-markus-soeder-einigen-sich-auf-den-cdu-chef-a-1a96e850-3297-4cdf-8b8e-0842b9cf0c97#ref=rss)
-* [https://www.spiegel.de/politik/cdu-csu-friedrich-merz-und-markus-soeder-geben-gemeinsame-pressekonferenz-livestream](https://www.spiegel.de/politik/cdu-csu-friedrich-merz-und-markus-soeder-geben-gemeinsame-pressekonferenz-livestream-a-a0c303c5-0f2e-4479-a9a6-92c31fd9607c#ref=rss)
-### magdeburg
-
-* [https://www.spiegel.de/wirtschaft/intel-zweckoptimismus-in-magdeburg-ampelstreit-in-berlin](https://www.spiegel.de/wirtschaft/intel-zweckoptimismus-in-magdeburg-ampelstreit-in-berlin-a-966122a4-3feb-458d-ab66-a045c6c2f0b2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/intel-rueckzug-in-magdeburg-lauter-verlierer](https://www.spiegel.de/wirtschaft/intel-rueckzug-in-magdeburg-lauter-verlierer-a-b0ad0f72-8bb6-4b66-9e00-75e80ebca1de#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/kultur/stefan-raab-comeback-zehn-jahre-mit-jan-boehmermann-gut-dass-er-wieder-da-ist](https://www.spiegel.de/kultur/stefan-raab-comeback-zehn-jahre-mit-jan-boehmermann-gut-dass-er-wieder-da-ist-a-0de52d67-d2ec-4dbb-adff-652be1e8a52f#ref=rss)
-* [https://www.spiegel.de/ausland/ursula-von-der-leyen-besetzt-neue-eu-kommission-zu-40-prozent-mit-frauen](https://www.spiegel.de/ausland/ursula-von-der-leyen-besetzt-neue-eu-kommission-zu-40-prozent-mit-frauen-a-887a2581-dec9-48e9-ba16-e66a1d5761d6#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/avignon-ehemann-gesteht-massenhaften-missbrauch-von-ehefrau](https://www.spiegel.de/panorama/justiz/avignon-ehemann-gesteht-massenhaften-missbrauch-von-ehefrau-a-f9b421e1-6854-48f3-93d0-2b7b0c4b8346#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/ausland/donald-trump-bodycam-aufnahmen-zeigen-festnahme-des-mutmasslichen-attentaeters](https://www.spiegel.de/ausland/donald-trump-bodycam-aufnahmen-zeigen-festnahme-des-mutmasslichen-attentaeters-a-edd300e6-7f00-4cea-8292-7c142211fc2e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/rechtsextreme-parolen-zu-lamour-toujours-auf-oktoberfest-in-neuenhagen](https://www.spiegel.de/panorama/justiz/rechtsextreme-parolen-zu-lamour-toujours-auf-oktoberfest-in-neuenhagen-a-fb22738d-49eb-47cf-a182-1144ee492de0#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/sport/extremschwimmen-nathalie-pohl-durchquert-gefaehrliche-meerengen-oceans-seven-als-erste-deutsche-frau](https://www.spiegel.de/sport/extremschwimmen-nathalie-pohl-durchquert-gefaehrliche-meerengen-oceans-seven-als-erste-deutsche-frau-a-407a0e2d-ed91-4f7a-99d6-11fdc2dabc2f#ref=rss)
-* [https://www.spiegel.de/ausland/europaeische-migrationspolitik-24-stunden-neue-deutsche-haerte](https://www.spiegel.de/ausland/europaeische-migrationspolitik-24-stunden-neue-deutsche-haerte-a-80462121-e178-4684-8f63-d0d8ef30703a#ref=rss)
-### grenzkontrollen
-
-* [https://www.spiegel.de/ausland/europaeische-migrationspolitik-24-stunden-neue-deutsche-haerte](https://www.spiegel.de/ausland/europaeische-migrationspolitik-24-stunden-neue-deutsche-haerte-a-80462121-e178-4684-8f63-d0d8ef30703a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/migration-grenzkontrollen-in-deutschland-gefaehrden-deutschlands-ansehen-in-der-eu](https://www.spiegel.de/politik/deutschland/migration-grenzkontrollen-in-deutschland-gefaehrden-deutschlands-ansehen-in-der-eu-a-6c2249bc-00e5-42b4-b3f4-74c1d3ca7db6#ref=rss)
-### kruse
-
-* [https://www.spiegel.de/sport/fussball/fussball-max-kruse-kritisiert-hassnachrichten-nach-spielabbruch-gegen-delay-sports](https://www.spiegel.de/sport/fussball/fussball-max-kruse-kritisiert-hassnachrichten-nach-spielabbruch-gegen-delay-sports-a-0efa5b13-4e77-4c84-afe3-c455303d3ea4#ref=rss)
-### setzt
-
-* [https://www.spiegel.de/wirtschaft/service/fast-fashion-modebranche-setzt-immer-mehr-auf-plastik](https://www.spiegel.de/wirtschaft/service/fast-fashion-modebranche-setzt-immer-mehr-auf-plastik-a-c033337a-80e2-4ff8-ba67-9cb05a1a73e0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/migration-grenzkontrollen-in-deutschland-gefaehrden-deutschlands-ansehen-in-der-eu](https://www.spiegel.de/politik/deutschland/migration-grenzkontrollen-in-deutschland-gefaehrden-deutschlands-ansehen-in-der-eu-a-6c2249bc-00e5-42b4-b3f4-74c1d3ca7db6#ref=rss)
-### analyse
-
-* [https://www.spiegel.de/wirtschaft/service/fast-fashion-modebranche-setzt-immer-mehr-auf-plastik](https://www.spiegel.de/wirtschaft/service/fast-fashion-modebranche-setzt-immer-mehr-auf-plastik-a-c033337a-80e2-4ff8-ba67-9cb05a1a73e0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/steuersenkungen-gutverdiener-profitieren-von-plaenen-der-ampelregierung-besonders](https://www.spiegel.de/wirtschaft/soziales/steuersenkungen-gutverdiener-profitieren-von-plaenen-der-ampelregierung-besonders-a-c87ecb39-d802-4b05-b75a-f76159a3923b#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/panorama/hochwasser-in-bayern-tote-und-geschwaechte-schwalben-nach-dauerregen](https://www.spiegel.de/panorama/hochwasser-in-bayern-tote-und-geschwaechte-schwalben-nach-dauerregen-a-a3afbab5-f7d7-4d1a-b7de-e566a007d757#ref=rss)
-### tote
-
-* [https://www.spiegel.de/panorama/hochwasser-in-bayern-tote-und-geschwaechte-schwalben-nach-dauerregen](https://www.spiegel.de/panorama/hochwasser-in-bayern-tote-und-geschwaechte-schwalben-nach-dauerregen-a-a3afbab5-f7d7-4d1a-b7de-e566a007d757#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/opioid-krise-in-deutschland-sucht-auf-rezept](https://www.spiegel.de/panorama/gesellschaft/opioid-krise-in-deutschland-sucht-auf-rezept-a-8e5a7d4c-2b2e-4597-9e7a-2e6eccec7032#ref=rss)
-### schwalben
-
-* [https://www.spiegel.de/panorama/hochwasser-in-bayern-tote-und-geschwaechte-schwalben-nach-dauerregen](https://www.spiegel.de/panorama/hochwasser-in-bayern-tote-und-geschwaechte-schwalben-nach-dauerregen-a-a3afbab5-f7d7-4d1a-b7de-e566a007d757#ref=rss)
-### zeit
-
-* [https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-ein-jahr-zeit-zu-lernen](https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-ein-jahr-zeit-zu-lernen-a-77f323de-5892-4dac-a843-9a53d8b0ebcf#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-ein-jahr-zeit-zu-lernen](https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-ein-jahr-zeit-zu-lernen-a-77f323de-5892-4dac-a843-9a53d8b0ebcf#ref=rss)
-### florida
-
-* [https://www.spiegel.de/ausland/donald-trump-die-schuesse-in-florida-zeigen-dass-er-teil-des-problems-ist](https://www.spiegel.de/ausland/donald-trump-die-schuesse-in-florida-zeigen-dass-er-teil-des-problems-ist-a-5d66ba7b-e0be-474d-908b-5acf8744e1c3#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-bodycam-aufnahmen-zeigen-festnahme-des-mutmasslichen-attentaeters](https://www.spiegel.de/ausland/donald-trump-bodycam-aufnahmen-zeigen-festnahme-des-mutmasslichen-attentaeters-a-edd300e6-7f00-4cea-8292-7c142211fc2e#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/donald-trump-die-schuesse-in-florida-zeigen-dass-er-teil-des-problems-ist](https://www.spiegel.de/ausland/donald-trump-die-schuesse-in-florida-zeigen-dass-er-teil-des-problems-ist-a-5d66ba7b-e0be-474d-908b-5acf8744e1c3#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/opioid-krise-in-deutschland-sucht-auf-rezept](https://www.spiegel.de/panorama/gesellschaft/opioid-krise-in-deutschland-sucht-auf-rezept-a-8e5a7d4c-2b2e-4597-9e7a-2e6eccec7032#ref=rss)
-### champions
-
-* [https://www.spiegel.de/sport/fussball/die-36-klubs-der-champions-league-im-spiegel-ranking-das-sind-die-besten-teams-europas](https://www.spiegel.de/sport/fussball/die-36-klubs-der-champions-league-im-spiegel-ranking-das-sind-die-besten-teams-europas-a-a1b13a7d-d66a-4995-ac34-f3826ea775eb#ref=rss)
-### league
-
-* [https://www.spiegel.de/sport/fussball/die-36-klubs-der-champions-league-im-spiegel-ranking-das-sind-die-besten-teams-europas](https://www.spiegel.de/sport/fussball/die-36-klubs-der-champions-league-im-spiegel-ranking-das-sind-die-besten-teams-europas-a-a1b13a7d-d66a-4995-ac34-f3826ea775eb#ref=rss)
-### spiegelranking
-
-* [https://www.spiegel.de/sport/fussball/die-36-klubs-der-champions-league-im-spiegel-ranking-das-sind-die-besten-teams-europas](https://www.spiegel.de/sport/fussball/die-36-klubs-der-champions-league-im-spiegel-ranking-das-sind-die-besten-teams-europas-a-a1b13a7d-d66a-4995-ac34-f3826ea775eb#ref=rss)
-### besten
-
-* [https://www.spiegel.de/sport/fussball/die-36-klubs-der-champions-league-im-spiegel-ranking-das-sind-die-besten-teams-europas](https://www.spiegel.de/sport/fussball/die-36-klubs-der-champions-league-im-spiegel-ranking-das-sind-die-besten-teams-europas-a-a1b13a7d-d66a-4995-ac34-f3826ea775eb#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/sport/fussball/die-36-klubs-der-champions-league-im-spiegel-ranking-das-sind-die-besten-teams-europas](https://www.spiegel.de/sport/fussball/die-36-klubs-der-champions-league-im-spiegel-ranking-das-sind-die-besten-teams-europas-a-a1b13a7d-d66a-4995-ac34-f3826ea775eb#ref=rss)
-* [https://www.spiegel.de/ausland/europaeische-migrationspolitik-24-stunden-neue-deutsche-haerte](https://www.spiegel.de/ausland/europaeische-migrationspolitik-24-stunden-neue-deutsche-haerte-a-80462121-e178-4684-8f63-d0d8ef30703a#ref=rss)
-### ehemaliger
-
-* [https://www.spiegel.de/wissenschaft/titan-untersuchung-ehemaliger-mitarbeiter-belastet-betreiberfirma-oceangate](https://www.spiegel.de/wissenschaft/titan-untersuchung-ehemaliger-mitarbeiter-belastet-betreiberfirma-oceangate-a-2d72b22c-05b4-4fe6-84ee-ba528bcfb0a3#ref=rss)
-### mitarbeiter
-
-* [https://www.spiegel.de/wissenschaft/titan-untersuchung-ehemaliger-mitarbeiter-belastet-betreiberfirma-oceangate](https://www.spiegel.de/wissenschaft/titan-untersuchung-ehemaliger-mitarbeiter-belastet-betreiberfirma-oceangate-a-2d72b22c-05b4-4fe6-84ee-ba528bcfb0a3#ref=rss)
-### belastet
-
-* [https://www.spiegel.de/wissenschaft/titan-untersuchung-ehemaliger-mitarbeiter-belastet-betreiberfirma-oceangate](https://www.spiegel.de/wissenschaft/titan-untersuchung-ehemaliger-mitarbeiter-belastet-betreiberfirma-oceangate-a-2d72b22c-05b4-4fe6-84ee-ba528bcfb0a3#ref=rss)
-### betreiberfirma
-
-* [https://www.spiegel.de/wissenschaft/titan-untersuchung-ehemaliger-mitarbeiter-belastet-betreiberfirma-oceangate](https://www.spiegel.de/wissenschaft/titan-untersuchung-ehemaliger-mitarbeiter-belastet-betreiberfirma-oceangate-a-2d72b22c-05b4-4fe6-84ee-ba528bcfb0a3#ref=rss)
-### fünf
-
-* [https://www.spiegel.de/wissenschaft/titan-untersuchung-ehemaliger-mitarbeiter-belastet-betreiberfirma-oceangate](https://www.spiegel.de/wissenschaft/titan-untersuchung-ehemaliger-mitarbeiter-belastet-betreiberfirma-oceangate-a-2d72b22c-05b4-4fe6-84ee-ba528bcfb0a3#ref=rss)
-* [https://www.spiegel.de/ausland/ursula-von-der-leyen-besetzt-neue-eu-kommission-zu-40-prozent-mit-frauen](https://www.spiegel.de/ausland/ursula-von-der-leyen-besetzt-neue-eu-kommission-zu-40-prozent-mit-frauen-a-887a2581-dec9-48e9-ba16-e66a1d5761d6#ref=rss)
-### alzheimer
-
-* [https://www.spiegel.de/wissenschaft/demografischer-wandel-ueber-10-000-todesfaelle-im-vergangenen-jahr-durch-alzheimer](https://www.spiegel.de/wissenschaft/demografischer-wandel-ueber-10-000-todesfaelle-im-vergangenen-jahr-durch-alzheimer-a-0fc4440c-cee5-4e05-b5a5-2883b398c0be#ref=rss)
-### polen
-
-* [https://www.spiegel.de/panorama/hochwasser-in-polen-tschechien-oesterreich-und-deutschland-das-chaos-nach-der-flut](https://www.spiegel.de/panorama/hochwasser-in-polen-tschechien-oesterreich-und-deutschland-das-chaos-nach-der-flut-a-50c767f3-d9df-446f-ae3b-adb1a18ec11e#ref=rss)
-* [https://www.spiegel.de/ausland/europaeische-migrationspolitik-24-stunden-neue-deutsche-haerte](https://www.spiegel.de/ausland/europaeische-migrationspolitik-24-stunden-neue-deutsche-haerte-a-80462121-e178-4684-8f63-d0d8ef30703a#ref=rss)
-### österreich
-
-* [https://www.spiegel.de/panorama/hochwasser-in-polen-tschechien-oesterreich-und-deutschland-das-chaos-nach-der-flut](https://www.spiegel.de/panorama/hochwasser-in-polen-tschechien-oesterreich-und-deutschland-das-chaos-nach-der-flut-a-50c767f3-d9df-446f-ae3b-adb1a18ec11e#ref=rss)
-* [https://www.spiegel.de/ausland/europaeische-migrationspolitik-24-stunden-neue-deutsche-haerte](https://www.spiegel.de/ausland/europaeische-migrationspolitik-24-stunden-neue-deutsche-haerte-a-80462121-e178-4684-8f63-d0d8ef30703a#ref=rss)
-### einigen
-
-* [https://www.spiegel.de/panorama/hochwasser-in-polen-tschechien-oesterreich-und-deutschland-das-chaos-nach-der-flut](https://www.spiegel.de/panorama/hochwasser-in-polen-tschechien-oesterreich-und-deutschland-das-chaos-nach-der-flut-a-50c767f3-d9df-446f-ae3b-adb1a18ec11e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kanzlerkandidatur-der-union-friedrich-merz-und-markus-soeder-einigen-sich-auf-den-cdu-chef](https://www.spiegel.de/politik/deutschland/kanzlerkandidatur-der-union-friedrich-merz-und-markus-soeder-einigen-sich-auf-den-cdu-chef-a-1a96e850-3297-4cdf-8b8e-0842b9cf0c97#ref=rss)
-### gemeinsamen
-
-* [https://www.spiegel.de/politik/deutschland/kanzlerkandidatur-der-union-friedrich-merz-und-markus-soeder-einigen-sich-auf-den-cdu-chef](https://www.spiegel.de/politik/deutschland/kanzlerkandidatur-der-union-friedrich-merz-und-markus-soeder-einigen-sich-auf-den-cdu-chef-a-1a96e850-3297-4cdf-8b8e-0842b9cf0c97#ref=rss)
-* [https://www.spiegel.de/politik/cdu-csu-friedrich-merz-und-markus-soeder-geben-gemeinsame-pressekonferenz-livestream](https://www.spiegel.de/politik/cdu-csu-friedrich-merz-und-markus-soeder-geben-gemeinsame-pressekonferenz-livestream-a-a0c303c5-0f2e-4479-a9a6-92c31fd9607c#ref=rss)
-### wahlkampf
-
-* [https://www.spiegel.de/politik/deutschland/kanzlerkandidatur-der-union-friedrich-merz-und-markus-soeder-einigen-sich-auf-den-cdu-chef](https://www.spiegel.de/politik/deutschland/kanzlerkandidatur-der-union-friedrich-merz-und-markus-soeder-einigen-sich-auf-den-cdu-chef-a-1a96e850-3297-4cdf-8b8e-0842b9cf0c97#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-friedrich-merz-wird-kanzlerkandidat-der-union](https://www.spiegel.de/politik/deutschland/cdu-csu-friedrich-merz-wird-kanzlerkandidat-der-union-a-6c0557ca-b775-4002-b1cd-d156a9d0e7a8#ref=rss)
-### csuchef
-
-* [https://www.spiegel.de/politik/deutschland/kanzlerkandidatur-der-union-friedrich-merz-und-markus-soeder-einigen-sich-auf-den-cdu-chef](https://www.spiegel.de/politik/deutschland/kanzlerkandidatur-der-union-friedrich-merz-und-markus-soeder-einigen-sich-auf-den-cdu-chef-a-1a96e850-3297-4cdf-8b8e-0842b9cf0c97#ref=rss)
-* [https://www.spiegel.de/politik/cdu-csu-friedrich-merz-und-markus-soeder-geben-gemeinsame-pressekonferenz-livestream](https://www.spiegel.de/politik/cdu-csu-friedrich-merz-und-markus-soeder-geben-gemeinsame-pressekonferenz-livestream-a-a0c303c5-0f2e-4479-a9a6-92c31fd9607c#ref=rss)
-### steuersenkungen
-
-* [https://www.spiegel.de/wirtschaft/soziales/steuersenkungen-gutverdiener-profitieren-von-plaenen-der-ampelregierung-besonders](https://www.spiegel.de/wirtschaft/soziales/steuersenkungen-gutverdiener-profitieren-von-plaenen-der-ampelregierung-besonders-a-c87ecb39-d802-4b05-b75a-f76159a3923b#ref=rss)
-### besonders
-
-* [https://www.spiegel.de/wirtschaft/soziales/steuersenkungen-gutverdiener-profitieren-von-plaenen-der-ampelregierung-besonders](https://www.spiegel.de/wirtschaft/soziales/steuersenkungen-gutverdiener-profitieren-von-plaenen-der-ampelregierung-besonders-a-c87ecb39-d802-4b05-b75a-f76159a3923b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/zertifikate-sind-bei-anlegern-wieder-gefragt-verbraucherschuetzer-warnen](https://www.spiegel.de/wirtschaft/zertifikate-sind-bei-anlegern-wieder-gefragt-verbraucherschuetzer-warnen-a-06b0e0b3-b35a-4622-951f-ad54f1bc6bf8#ref=rss)
-### intel
-
-* [https://www.spiegel.de/wirtschaft/intel-zweckoptimismus-in-magdeburg-ampelstreit-in-berlin](https://www.spiegel.de/wirtschaft/intel-zweckoptimismus-in-magdeburg-ampelstreit-in-berlin-a-966122a4-3feb-458d-ab66-a045c6c2f0b2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/intel-rueckzug-in-magdeburg-lauter-verlierer](https://www.spiegel.de/wirtschaft/intel-rueckzug-in-magdeburg-lauter-verlierer-a-b0ad0f72-8bb6-4b66-9e00-75e80ebca1de#ref=rss)
-### zweckoptimismus
-
-* [https://www.spiegel.de/wirtschaft/intel-zweckoptimismus-in-magdeburg-ampelstreit-in-berlin](https://www.spiegel.de/wirtschaft/intel-zweckoptimismus-in-magdeburg-ampelstreit-in-berlin-a-966122a4-3feb-458d-ab66-a045c6c2f0b2#ref=rss)
-### bau
-
-* [https://www.spiegel.de/wirtschaft/intel-zweckoptimismus-in-magdeburg-ampelstreit-in-berlin](https://www.spiegel.de/wirtschaft/intel-zweckoptimismus-in-magdeburg-ampelstreit-in-berlin-a-966122a4-3feb-458d-ab66-a045c6c2f0b2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/intel-rueckzug-in-magdeburg-lauter-verlierer](https://www.spiegel.de/wirtschaft/intel-rueckzug-in-magdeburg-lauter-verlierer-a-b0ad0f72-8bb6-4b66-9e00-75e80ebca1de#ref=rss)
-### cdu/csu
-
-* [https://www.spiegel.de/politik/cdu-csu-friedrich-merz-und-markus-soeder-geben-gemeinsame-pressekonferenz-livestream](https://www.spiegel.de/politik/cdu-csu-friedrich-merz-und-markus-soeder-geben-gemeinsame-pressekonferenz-livestream-a-a0c303c5-0f2e-4479-a9a6-92c31fd9607c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-friedrich-merz-wird-kanzlerkandidat-der-union](https://www.spiegel.de/politik/deutschland/cdu-csu-friedrich-merz-wird-kanzlerkandidat-der-union-a-6c0557ca-b775-4002-b1cd-d156a9d0e7a8#ref=rss)
-### kfrage
-
-* [https://www.spiegel.de/politik/cdu-csu-friedrich-merz-und-markus-soeder-geben-gemeinsame-pressekonferenz-livestream](https://www.spiegel.de/politik/cdu-csu-friedrich-merz-und-markus-soeder-geben-gemeinsame-pressekonferenz-livestream-a-a0c303c5-0f2e-4479-a9a6-92c31fd9607c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-friedrich-merz-wird-kanzlerkandidat-der-union](https://www.spiegel.de/politik/deutschland/cdu-csu-friedrich-merz-wird-kanzlerkandidat-der-union-a-6c0557ca-b775-4002-b1cd-d156a9d0e7a8#ref=rss)
-### sehen
-
-* [https://www.spiegel.de/politik/cdu-csu-friedrich-merz-und-markus-soeder-geben-gemeinsame-pressekonferenz-livestream](https://www.spiegel.de/politik/cdu-csu-friedrich-merz-und-markus-soeder-geben-gemeinsame-pressekonferenz-livestream-a-a0c303c5-0f2e-4479-a9a6-92c31fd9607c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/zertifikate-sind-bei-anlegern-wieder-gefragt-verbraucherschuetzer-warnen](https://www.spiegel.de/wirtschaft/zertifikate-sind-bei-anlegern-wieder-gefragt-verbraucherschuetzer-warnen-a-06b0e0b3-b35a-4622-951f-ad54f1bc6bf8#ref=rss)
-### stefan
-
-* [https://www.spiegel.de/kultur/stefan-raab-comeback-zehn-jahre-mit-jan-boehmermann-gut-dass-er-wieder-da-ist](https://www.spiegel.de/kultur/stefan-raab-comeback-zehn-jahre-mit-jan-boehmermann-gut-dass-er-wieder-da-ist-a-0de52d67-d2ec-4dbb-adff-652be1e8a52f#ref=rss)
-### zehn
-
-* [https://www.spiegel.de/kultur/stefan-raab-comeback-zehn-jahre-mit-jan-boehmermann-gut-dass-er-wieder-da-ist](https://www.spiegel.de/kultur/stefan-raab-comeback-zehn-jahre-mit-jan-boehmermann-gut-dass-er-wieder-da-ist-a-0de52d67-d2ec-4dbb-adff-652be1e8a52f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/avignon-ehemann-gesteht-massenhaften-missbrauch-von-ehefrau](https://www.spiegel.de/panorama/justiz/avignon-ehemann-gesteht-massenhaften-missbrauch-von-ehefrau-a-f9b421e1-6854-48f3-93d0-2b7b0c4b8346#ref=rss)
-### heidi
-
-* [https://www.spiegel.de/panorama/leute/heidi-klum-einblick-in-ihr-neues-halloween-kostuem-auf-instagram](https://www.spiegel.de/panorama/leute/heidi-klum-einblick-in-ihr-neues-halloween-kostuem-auf-instagram-a-51957296-8d3b-4cdd-8658-78a4a2990187#ref=rss)
-### klum
-
-* [https://www.spiegel.de/panorama/leute/heidi-klum-einblick-in-ihr-neues-halloween-kostuem-auf-instagram](https://www.spiegel.de/panorama/leute/heidi-klum-einblick-in-ihr-neues-halloween-kostuem-auf-instagram-a-51957296-8d3b-4cdd-8658-78a4a2990187#ref=rss)
-### festnahme
-
-* [https://www.spiegel.de/ausland/donald-trump-bodycam-aufnahmen-zeigen-festnahme-des-mutmasslichen-attentaeters](https://www.spiegel.de/ausland/donald-trump-bodycam-aufnahmen-zeigen-festnahme-des-mutmasslichen-attentaeters-a-edd300e6-7f00-4cea-8292-7c142211fc2e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-gegen-olaf-scholz-die-unbeliebten](https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-gegen-olaf-scholz-die-unbeliebten-a-edbf4396-7181-4d8c-b87f-36045dd9fe1f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/reaktionen-auf-friedrich-merz-kanzlerkandidatur-fuer-die-union](https://www.spiegel.de/politik/deutschland/reaktionen-auf-friedrich-merz-kanzlerkandidatur-fuer-die-union-a-1e0cb0d6-38c9-4c78-ab0c-a2253e349eba#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-us-chiphersteller-intel-reinhold-messner](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-us-chiphersteller-intel-reinhold-messner-a-7991f67d-8168-4d7e-bf62-503346308076#ref=rss)
 ### mann
 
-* [https://www.spiegel.de/ausland/donald-trump-bodycam-aufnahmen-zeigen-festnahme-des-mutmasslichen-attentaeters](https://www.spiegel.de/ausland/donald-trump-bodycam-aufnahmen-zeigen-festnahme-des-mutmasslichen-attentaeters-a-edd300e6-7f00-4cea-8292-7c142211fc2e#ref=rss)
-* [https://www.spiegel.de/sport/reinhold-messner-feiert-den-80-geburtstag-ein-mann-geht-steil](https://www.spiegel.de/sport/reinhold-messner-feiert-den-80-geburtstag-ein-mann-geht-steil-a-ba99d372-e16f-415d-af10-3ba7c2961f07#ref=rss)
-### nathalie
+* [https://www.spiegel.de/ausland/donald-trump-was-der-verdaechtige-ryan-routh-mit-der-ukraine-zu-tun-hat](https://www.spiegel.de/ausland/donald-trump-was-der-verdaechtige-ryan-routh-mit-der-ukraine-zu-tun-hat-a-f6621d1b-b260-4790-8380-d855a3a10043#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ard-afd-gegner-gekauft-das-ist-dran-an-den-vorwuerfen-gegen-die-ard](https://www.spiegel.de/wirtschaft/ard-afd-gegner-gekauft-das-ist-dran-an-den-vorwuerfen-gegen-die-ard-a-cd54a576-d15b-44d4-8a12-3cce8e681563#ref=rss)
+* [https://www.spiegel.de/ausland/beirut-hisbollah-pager-explodiert-in-supermarkt-ueberwachungskamera-filmt-vorfall](https://www.spiegel.de/ausland/beirut-hisbollah-pager-explodiert-in-supermarkt-ueberwachungskamera-filmt-vorfall-a-325b332c-b5bf-4408-a6f4-91d750da3f9e#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-hisbollah-mitglieder-durch-explodierende-pager-in-beirut-und-im-sueden-libanons-verwundet](https://www.spiegel.de/ausland/israel-gaza-krieg-hisbollah-mitglieder-durch-explodierende-pager-in-beirut-und-im-sueden-libanons-verwundet-a-8d9a237f-fdeb-4377-9394-9f0be7783816#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/sport/extremschwimmen-nathalie-pohl-durchquert-gefaehrliche-meerengen-oceans-seven-als-erste-deutsche-frau](https://www.spiegel.de/sport/extremschwimmen-nathalie-pohl-durchquert-gefaehrliche-meerengen-oceans-seven-als-erste-deutsche-frau-a-407a0e2d-ed91-4f7a-99d6-11fdc2dabc2f#ref=rss)
-### pohl
+* [https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-gegen-olaf-scholz-die-unbeliebten](https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-gegen-olaf-scholz-die-unbeliebten-a-edbf4396-7181-4d8c-b87f-36045dd9fe1f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/reaktionen-auf-friedrich-merz-kanzlerkandidatur-fuer-die-union](https://www.spiegel.de/politik/deutschland/reaktionen-auf-friedrich-merz-kanzlerkandidatur-fuer-die-union-a-1e0cb0d6-38c9-4c78-ab0c-a2253e349eba#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-us-chiphersteller-intel-reinhold-messner](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-us-chiphersteller-intel-reinhold-messner-a-7991f67d-8168-4d7e-bf62-503346308076#ref=rss)
+### söder
 
-* [https://www.spiegel.de/sport/extremschwimmen-nathalie-pohl-durchquert-gefaehrliche-meerengen-oceans-seven-als-erste-deutsche-frau](https://www.spiegel.de/sport/extremschwimmen-nathalie-pohl-durchquert-gefaehrliche-meerengen-oceans-seven-als-erste-deutsche-frau-a-407a0e2d-ed91-4f7a-99d6-11fdc2dabc2f#ref=rss)
-### meerengen
+* [https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-gegen-olaf-scholz-die-unbeliebten](https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-gegen-olaf-scholz-die-unbeliebten-a-edbf4396-7181-4d8c-b87f-36045dd9fe1f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-us-chiphersteller-intel-reinhold-messner](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-us-chiphersteller-intel-reinhold-messner-a-7991f67d-8168-4d7e-bf62-503346308076#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-ein-doener-macht-noch-keinen-kanzler](https://www.spiegel.de/politik/deutschland/markus-soeder-ein-doener-macht-noch-keinen-kanzler-a-824924aa-229e-49c0-9d39-54758f418a7b#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/sport/extremschwimmen-nathalie-pohl-durchquert-gefaehrliche-meerengen-oceans-seven-als-erste-deutsche-frau](https://www.spiegel.de/sport/extremschwimmen-nathalie-pohl-durchquert-gefaehrliche-meerengen-oceans-seven-als-erste-deutsche-frau-a-407a0e2d-ed91-4f7a-99d6-11fdc2dabc2f#ref=rss)
-### erste
+* [https://www.spiegel.de/ausland/donald-trump-was-der-verdaechtige-ryan-routh-mit-der-ukraine-zu-tun-hat](https://www.spiegel.de/ausland/donald-trump-was-der-verdaechtige-ryan-routh-mit-der-ukraine-zu-tun-hat-a-f6621d1b-b260-4790-8380-d855a3a10043#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-boris-pistorius-hofft-auf-frisches-geld-fuer-waffenhilfe](https://www.spiegel.de/politik/deutschland/ukraine-krieg-boris-pistorius-hofft-auf-frisches-geld-fuer-waffenhilfe-a-502297e3-92c4-4ff6-b48e-0c64b73aebe0#ref=rss)
+### markus
 
-* [https://www.spiegel.de/sport/extremschwimmen-nathalie-pohl-durchquert-gefaehrliche-meerengen-oceans-seven-als-erste-deutsche-frau](https://www.spiegel.de/sport/extremschwimmen-nathalie-pohl-durchquert-gefaehrliche-meerengen-oceans-seven-als-erste-deutsche-frau-a-407a0e2d-ed91-4f7a-99d6-11fdc2dabc2f#ref=rss)
-### welt
+* [https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-gegen-olaf-scholz-die-unbeliebten](https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-gegen-olaf-scholz-die-unbeliebten-a-edbf4396-7181-4d8c-b87f-36045dd9fe1f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-ein-doener-macht-noch-keinen-kanzler](https://www.spiegel.de/politik/deutschland/markus-soeder-ein-doener-macht-noch-keinen-kanzler-a-824924aa-229e-49c0-9d39-54758f418a7b#ref=rss)
+### union
 
-* [https://www.spiegel.de/sport/extremschwimmen-nathalie-pohl-durchquert-gefaehrliche-meerengen-oceans-seven-als-erste-deutsche-frau](https://www.spiegel.de/sport/extremschwimmen-nathalie-pohl-durchquert-gefaehrliche-meerengen-oceans-seven-als-erste-deutsche-frau-a-407a0e2d-ed91-4f7a-99d6-11fdc2dabc2f#ref=rss)
-* [https://www.spiegel.de/sport/reinhold-messner-feiert-den-80-geburtstag-ein-mann-geht-steil](https://www.spiegel.de/sport/reinhold-messner-feiert-den-80-geburtstag-ein-mann-geht-steil-a-ba99d372-e16f-415d-af10-3ba7c2961f07#ref=rss)
-### leyen
+* [https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-gegen-olaf-scholz-die-unbeliebten](https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-gegen-olaf-scholz-die-unbeliebten-a-edbf4396-7181-4d8c-b87f-36045dd9fe1f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/reaktionen-auf-friedrich-merz-kanzlerkandidatur-fuer-die-union](https://www.spiegel.de/politik/deutschland/reaktionen-auf-friedrich-merz-kanzlerkandidatur-fuer-die-union-a-1e0cb0d6-38c9-4c78-ab0c-a2253e349eba#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/ausland/ursula-von-der-leyen-besetzt-neue-eu-kommission-zu-40-prozent-mit-frauen](https://www.spiegel.de/ausland/ursula-von-der-leyen-besetzt-neue-eu-kommission-zu-40-prozent-mit-frauen-a-887a2581-dec9-48e9-ba16-e66a1d5761d6#ref=rss)
-### kommenden
+* [https://www.spiegel.de/wirtschaft/zwoelf-milliarden-euro-fuer-start-ups](https://www.spiegel.de/wirtschaft/zwoelf-milliarden-euro-fuer-start-ups-a-c1088a7f-b2a6-4b0f-a55c-a28c41e6a68c#ref=rss)
+* [https://www.spiegel.de/auto/elektroauto-kaufen-suv-dominieren-den-markt-elektroautos-in-deutschland](https://www.spiegel.de/auto/elektroauto-kaufen-suv-dominieren-den-markt-elektroautos-in-deutschland-a-a6cb0316-ddbe-4449-b943-87197b883f49#ref=rss)
+### macht
 
-* [https://www.spiegel.de/ausland/ursula-von-der-leyen-besetzt-neue-eu-kommission-zu-40-prozent-mit-frauen](https://www.spiegel.de/ausland/ursula-von-der-leyen-besetzt-neue-eu-kommission-zu-40-prozent-mit-frauen-a-887a2581-dec9-48e9-ba16-e66a1d5761d6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-friedrich-merz-wird-kanzlerkandidat-der-union](https://www.spiegel.de/politik/deutschland/cdu-csu-friedrich-merz-wird-kanzlerkandidat-der-union-a-6c0557ca-b775-4002-b1cd-d156a9d0e7a8#ref=rss)
-### reinhold
+* [https://www.spiegel.de/familie/kinderarmut-armut-ist-das-gefuehl-etwas-zu-verpassen](https://www.spiegel.de/familie/kinderarmut-armut-ist-das-gefuehl-etwas-zu-verpassen-a-0662e8c3-399e-4fad-b0ad-ef7c0f943cd1#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-hisbollah-mitglieder-durch-explodierende-pager-in-beirut-und-im-sueden-libanons-verwundet](https://www.spiegel.de/ausland/israel-gaza-krieg-hisbollah-mitglieder-durch-explodierende-pager-in-beirut-und-im-sueden-libanons-verwundet-a-8d9a237f-fdeb-4377-9394-9f0be7783816#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-ein-doener-macht-noch-keinen-kanzler](https://www.spiegel.de/politik/deutschland/markus-soeder-ein-doener-macht-noch-keinen-kanzler-a-824924aa-229e-49c0-9d39-54758f418a7b#ref=rss)
+### pager
 
-* [https://www.spiegel.de/sport/reinhold-messner-feiert-den-80-geburtstag-ein-mann-geht-steil](https://www.spiegel.de/sport/reinhold-messner-feiert-den-80-geburtstag-ein-mann-geht-steil-a-ba99d372-e16f-415d-af10-3ba7c2961f07#ref=rss)
-### messner
+* [https://www.spiegel.de/ausland/beirut-hisbollah-pager-explodiert-in-supermarkt-ueberwachungskamera-filmt-vorfall](https://www.spiegel.de/ausland/beirut-hisbollah-pager-explodiert-in-supermarkt-ueberwachungskamera-filmt-vorfall-a-325b332c-b5bf-4408-a6f4-91d750da3f9e#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-hisbollah-mitglieder-durch-explodierende-pager-in-beirut-und-im-sueden-libanons-verwundet](https://www.spiegel.de/ausland/israel-gaza-krieg-hisbollah-mitglieder-durch-explodierende-pager-in-beirut-und-im-sueden-libanons-verwundet-a-8d9a237f-fdeb-4377-9394-9f0be7783816#ref=rss)
+### eukommission
 
-* [https://www.spiegel.de/sport/reinhold-messner-feiert-den-80-geburtstag-ein-mann-geht-steil](https://www.spiegel.de/sport/reinhold-messner-feiert-den-80-geburtstag-ein-mann-geht-steil-a-ba99d372-e16f-415d-af10-3ba7c2961f07#ref=rss)
-### feiert
+* [https://www.spiegel.de/ausland/700-000-tote-eu-weit-im-jahr-durch-rauchen-eu-kommission-fordert-mehr-rauchfreie-zonen](https://www.spiegel.de/ausland/700-000-tote-eu-weit-im-jahr-durch-rauchen-eu-kommission-fordert-mehr-rauchfreie-zonen-a-ec980393-218b-4297-bc73-774fecfe654c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/eu-kommission-von-der-leyen-praesentiert-neue-besetzung-fuenf-frauen-ein-liberaler-und-ein-extrem-rechter](https://www.spiegel.de/politik/deutschland/eu-kommission-von-der-leyen-praesentiert-neue-besetzung-fuenf-frauen-ein-liberaler-und-ein-extrem-rechter-a-5fea7273-bb43-4451-9bff-134082c591ea#ref=rss)
+### bleibt
 
-* [https://www.spiegel.de/sport/reinhold-messner-feiert-den-80-geburtstag-ein-mann-geht-steil](https://www.spiegel.de/sport/reinhold-messner-feiert-den-80-geburtstag-ein-mann-geht-steil-a-ba99d372-e16f-415d-af10-3ba7c2961f07#ref=rss)
-### 80
+* [https://www.spiegel.de/ausland/hochwasser-in-europa-helikopter-rettet-feuerwehrleute-aus-den-ueberschwemmungen](https://www.spiegel.de/ausland/hochwasser-in-europa-helikopter-rettet-feuerwehrleute-aus-den-ueberschwemmungen-a-2e96a02f-85d5-4529-b006-b0aea8ac282a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-us-chiphersteller-intel-reinhold-messner](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-us-chiphersteller-intel-reinhold-messner-a-7991f67d-8168-4d7e-bf62-503346308076#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-ein-doener-macht-noch-keinen-kanzler](https://www.spiegel.de/politik/deutschland/markus-soeder-ein-doener-macht-noch-keinen-kanzler-a-824924aa-229e-49c0-9d39-54758f418a7b#ref=rss)
+### dominique
 
-* [https://www.spiegel.de/sport/reinhold-messner-feiert-den-80-geburtstag-ein-mann-geht-steil](https://www.spiegel.de/sport/reinhold-messner-feiert-den-80-geburtstag-ein-mann-geht-steil-a-ba99d372-e16f-415d-af10-3ba7c2961f07#ref=rss)
-### geburtstag
+* [https://www.spiegel.de/ausland/dominique-pelicot-sagt-im-vergewaltigungsfall-in-avignon-aus-ich-habe-alles-vermasselt](https://www.spiegel.de/ausland/dominique-pelicot-sagt-im-vergewaltigungsfall-in-avignon-aus-ich-habe-alles-vermasselt-a-76bd35f7-2095-42ed-94ee-d1cbb6dd62ae#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/missbrauchsfall-von-avignon-dominique-pelicot-bittet-ehefrau-gisele-um-vergebung](https://www.spiegel.de/panorama/justiz/missbrauchsfall-von-avignon-dominique-pelicot-bittet-ehefrau-gisele-um-vergebung-a-0565ac44-26b0-4c73-9c98-0b8170195fc8#ref=rss)
+### pelicot
 
-* [https://www.spiegel.de/sport/reinhold-messner-feiert-den-80-geburtstag-ein-mann-geht-steil](https://www.spiegel.de/sport/reinhold-messner-feiert-den-80-geburtstag-ein-mann-geht-steil-a-ba99d372-e16f-415d-af10-3ba7c2961f07#ref=rss)
-### bergsteiger
+* [https://www.spiegel.de/ausland/dominique-pelicot-sagt-im-vergewaltigungsfall-in-avignon-aus-ich-habe-alles-vermasselt](https://www.spiegel.de/ausland/dominique-pelicot-sagt-im-vergewaltigungsfall-in-avignon-aus-ich-habe-alles-vermasselt-a-76bd35f7-2095-42ed-94ee-d1cbb6dd62ae#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/missbrauchsfall-von-avignon-dominique-pelicot-bittet-ehefrau-gisele-um-vergebung](https://www.spiegel.de/panorama/justiz/missbrauchsfall-von-avignon-dominique-pelicot-bittet-ehefrau-gisele-um-vergebung-a-0565ac44-26b0-4c73-9c98-0b8170195fc8#ref=rss)
+### ehefrau
 
-* [https://www.spiegel.de/sport/reinhold-messner-feiert-den-80-geburtstag-ein-mann-geht-steil](https://www.spiegel.de/sport/reinhold-messner-feiert-den-80-geburtstag-ein-mann-geht-steil-a-ba99d372-e16f-415d-af10-3ba7c2961f07#ref=rss)
-### gern
+* [https://www.spiegel.de/ausland/dominique-pelicot-sagt-im-vergewaltigungsfall-in-avignon-aus-ich-habe-alles-vermasselt](https://www.spiegel.de/ausland/dominique-pelicot-sagt-im-vergewaltigungsfall-in-avignon-aus-ich-habe-alles-vermasselt-a-76bd35f7-2095-42ed-94ee-d1cbb6dd62ae#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/missbrauchsfall-von-avignon-dominique-pelicot-bittet-ehefrau-gisele-um-vergebung](https://www.spiegel.de/panorama/justiz/missbrauchsfall-von-avignon-dominique-pelicot-bittet-ehefrau-gisele-um-vergebung-a-0565ac44-26b0-4c73-9c98-0b8170195fc8#ref=rss)
+### billie
 
-* [https://www.spiegel.de/sport/reinhold-messner-feiert-den-80-geburtstag-ein-mann-geht-steil](https://www.spiegel.de/sport/reinhold-messner-feiert-den-80-geburtstag-ein-mann-geht-steil-a-ba99d372-e16f-415d-af10-3ba7c2961f07#ref=rss)
-* [https://www.spiegel.de/wirtschaft/zertifikate-sind-bei-anlegern-wieder-gefragt-verbraucherschuetzer-warnen](https://www.spiegel.de/wirtschaft/zertifikate-sind-bei-anlegern-wieder-gefragt-verbraucherschuetzer-warnen-a-06b0e0b3-b35a-4622-951f-ad54f1bc6bf8#ref=rss)
-### hendrik
+* [https://www.spiegel.de/ausland/billie-eilish-zur-us-wahl-waehlt-als-ob-euer-leben-davon-anhinge](https://www.spiegel.de/ausland/billie-eilish-zur-us-wahl-waehlt-als-ob-euer-leben-davon-anhinge-a-6201c4fc-ccfc-44b9-84df-ae3ff7001ce6#ref=rss)
+### eilish
 
-* [https://www.spiegel.de/politik/deutschland/kanzlerkandidatur-in-der-union-warum-sich-hendrik-wuest-jetzt-neu-erfinden-muss](https://www.spiegel.de/politik/deutschland/kanzlerkandidatur-in-der-union-warum-sich-hendrik-wuest-jetzt-neu-erfinden-muss-a-d1e17587-d0e6-4a66-b752-c49854034c9f#ref=rss)
-### wüst
+* [https://www.spiegel.de/ausland/billie-eilish-zur-us-wahl-waehlt-als-ob-euer-leben-davon-anhinge](https://www.spiegel.de/ausland/billie-eilish-zur-us-wahl-waehlt-als-ob-euer-leben-davon-anhinge-a-6201c4fc-ccfc-44b9-84df-ae3ff7001ce6#ref=rss)
+### davon
 
-* [https://www.spiegel.de/politik/deutschland/kanzlerkandidatur-in-der-union-warum-sich-hendrik-wuest-jetzt-neu-erfinden-muss](https://www.spiegel.de/politik/deutschland/kanzlerkandidatur-in-der-union-warum-sich-hendrik-wuest-jetzt-neu-erfinden-muss-a-d1e17587-d0e6-4a66-b752-c49854034c9f#ref=rss)
-### prozess
+* [https://www.spiegel.de/ausland/billie-eilish-zur-us-wahl-waehlt-als-ob-euer-leben-davon-anhinge](https://www.spiegel.de/ausland/billie-eilish-zur-us-wahl-waehlt-als-ob-euer-leben-davon-anhinge-a-6201c4fc-ccfc-44b9-84df-ae3ff7001ce6#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-hisbollah-mitglieder-durch-explodierende-pager-in-beirut-und-im-sueden-libanons-verwundet](https://www.spiegel.de/ausland/israel-gaza-krieg-hisbollah-mitglieder-durch-explodierende-pager-in-beirut-und-im-sueden-libanons-verwundet-a-8d9a237f-fdeb-4377-9394-9f0be7783816#ref=rss)
+### unterstützung
 
-* [https://www.spiegel.de/panorama/justiz/avignon-ehemann-gesteht-massenhaften-missbrauch-von-ehefrau](https://www.spiegel.de/panorama/justiz/avignon-ehemann-gesteht-massenhaften-missbrauch-von-ehefrau-a-f9b421e1-6854-48f3-93d0-2b7b0c4b8346#ref=rss)
-### avignon
+* [https://www.spiegel.de/ausland/billie-eilish-zur-us-wahl-waehlt-als-ob-euer-leben-davon-anhinge](https://www.spiegel.de/ausland/billie-eilish-zur-us-wahl-waehlt-als-ob-euer-leben-davon-anhinge-a-6201c4fc-ccfc-44b9-84df-ae3ff7001ce6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-boris-pistorius-hofft-auf-frisches-geld-fuer-waffenhilfe](https://www.spiegel.de/politik/deutschland/ukraine-krieg-boris-pistorius-hofft-auf-frisches-geld-fuer-waffenhilfe-a-502297e3-92c4-4ff6-b48e-0c64b73aebe0#ref=rss)
+### donald
 
-* [https://www.spiegel.de/panorama/justiz/avignon-ehemann-gesteht-massenhaften-missbrauch-von-ehefrau](https://www.spiegel.de/panorama/justiz/avignon-ehemann-gesteht-massenhaften-missbrauch-von-ehefrau-a-f9b421e1-6854-48f3-93d0-2b7b0c4b8346#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-was-der-verdaechtige-ryan-routh-mit-der-ukraine-zu-tun-hat](https://www.spiegel.de/ausland/donald-trump-was-der-verdaechtige-ryan-routh-mit-der-ukraine-zu-tun-hat-a-f6621d1b-b260-4790-8380-d855a3a10043#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/donald-trump-was-der-verdaechtige-ryan-routh-mit-der-ukraine-zu-tun-hat](https://www.spiegel.de/ausland/donald-trump-was-der-verdaechtige-ryan-routh-mit-der-ukraine-zu-tun-hat-a-f6621d1b-b260-4790-8380-d855a3a10043#ref=rss)
+### ryan
+
+* [https://www.spiegel.de/ausland/donald-trump-was-der-verdaechtige-ryan-routh-mit-der-ukraine-zu-tun-hat](https://www.spiegel.de/ausland/donald-trump-was-der-verdaechtige-ryan-routh-mit-der-ukraine-zu-tun-hat-a-f6621d1b-b260-4790-8380-d855a3a10043#ref=rss)
+### routh
+
+* [https://www.spiegel.de/ausland/donald-trump-was-der-verdaechtige-ryan-routh-mit-der-ukraine-zu-tun-hat](https://www.spiegel.de/ausland/donald-trump-was-der-verdaechtige-ryan-routh-mit-der-ukraine-zu-tun-hat-a-f6621d1b-b260-4790-8380-d855a3a10043#ref=rss)
+### olaf
+
+* [https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-gegen-olaf-scholz-die-unbeliebten](https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-gegen-olaf-scholz-die-unbeliebten-a-edbf4396-7181-4d8c-b87f-36045dd9fe1f#ref=rss)
+### scholz
+
+* [https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-gegen-olaf-scholz-die-unbeliebten](https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-gegen-olaf-scholz-die-unbeliebten-a-edbf4396-7181-4d8c-b87f-36045dd9fe1f#ref=rss)
+### kanzlerkandidatur
+
+* [https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-gegen-olaf-scholz-die-unbeliebten](https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-gegen-olaf-scholz-die-unbeliebten-a-edbf4396-7181-4d8c-b87f-36045dd9fe1f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/reaktionen-auf-friedrich-merz-kanzlerkandidatur-fuer-die-union](https://www.spiegel.de/politik/deutschland/reaktionen-auf-friedrich-merz-kanzlerkandidatur-fuer-die-union-a-1e0cb0d6-38c9-4c78-ab0c-a2253e349eba#ref=rss)
+### zwölf
+
+* [https://www.spiegel.de/wirtschaft/zwoelf-milliarden-euro-fuer-start-ups](https://www.spiegel.de/wirtschaft/zwoelf-milliarden-euro-fuer-start-ups-a-c1088a7f-b2a6-4b0f-a55c-a28c41e6a68c#ref=rss)
+### milliarden
+
+* [https://www.spiegel.de/wirtschaft/zwoelf-milliarden-euro-fuer-start-ups](https://www.spiegel.de/wirtschaft/zwoelf-milliarden-euro-fuer-start-ups-a-c1088a7f-b2a6-4b0f-a55c-a28c41e6a68c#ref=rss)
+### euro
+
+* [https://www.spiegel.de/wirtschaft/zwoelf-milliarden-euro-fuer-start-ups](https://www.spiegel.de/wirtschaft/zwoelf-milliarden-euro-fuer-start-ups-a-c1088a7f-b2a6-4b0f-a55c-a28c41e6a68c#ref=rss)
+### finanzminister
+
+* [https://www.spiegel.de/wirtschaft/zwoelf-milliarden-euro-fuer-start-ups](https://www.spiegel.de/wirtschaft/zwoelf-milliarden-euro-fuer-start-ups-a-c1088a7f-b2a6-4b0f-a55c-a28c41e6a68c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-boris-pistorius-hofft-auf-frisches-geld-fuer-waffenhilfe](https://www.spiegel.de/politik/deutschland/ukraine-krieg-boris-pistorius-hofft-auf-frisches-geld-fuer-waffenhilfe-a-502297e3-92c4-4ff6-b48e-0c64b73aebe0#ref=rss)
+### lindner
+
+* [https://www.spiegel.de/wirtschaft/zwoelf-milliarden-euro-fuer-start-ups](https://www.spiegel.de/wirtschaft/zwoelf-milliarden-euro-fuer-start-ups-a-c1088a7f-b2a6-4b0f-a55c-a28c41e6a68c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-boris-pistorius-hofft-auf-frisches-geld-fuer-waffenhilfe](https://www.spiegel.de/politik/deutschland/ukraine-krieg-boris-pistorius-hofft-auf-frisches-geld-fuer-waffenhilfe-a-502297e3-92c4-4ff6-b48e-0c64b73aebe0#ref=rss)
+### ard
+
+* [https://www.spiegel.de/wirtschaft/ard-afd-gegner-gekauft-das-ist-dran-an-den-vorwuerfen-gegen-die-ard](https://www.spiegel.de/wirtschaft/ard-afd-gegner-gekauft-das-ist-dran-an-den-vorwuerfen-gegen-die-ard-a-cd54a576-d15b-44d4-8a12-3cce8e681563#ref=rss)
+### armut
+
+* [https://www.spiegel.de/familie/kinderarmut-armut-ist-das-gefuehl-etwas-zu-verpassen](https://www.spiegel.de/familie/kinderarmut-armut-ist-das-gefuehl-etwas-zu-verpassen-a-0662e8c3-399e-4fad-b0ad-ef7c0f943cd1#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/familie/kinderarmut-armut-ist-das-gefuehl-etwas-zu-verpassen](https://www.spiegel.de/familie/kinderarmut-armut-ist-das-gefuehl-etwas-zu-verpassen-a-0662e8c3-399e-4fad-b0ad-ef7c0f943cd1#ref=rss)
+* [https://www.spiegel.de/ausland/dominique-pelicot-sagt-im-vergewaltigungsfall-in-avignon-aus-ich-habe-alles-vermasselt](https://www.spiegel.de/ausland/dominique-pelicot-sagt-im-vergewaltigungsfall-in-avignon-aus-ich-habe-alles-vermasselt-a-76bd35f7-2095-42ed-94ee-d1cbb6dd62ae#ref=rss)
+### beirut
+
+* [https://www.spiegel.de/ausland/beirut-hisbollah-pager-explodiert-in-supermarkt-ueberwachungskamera-filmt-vorfall](https://www.spiegel.de/ausland/beirut-hisbollah-pager-explodiert-in-supermarkt-ueberwachungskamera-filmt-vorfall-a-325b332c-b5bf-4408-a6f4-91d750da3f9e#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-hisbollah-mitglieder-durch-explodierende-pager-in-beirut-und-im-sueden-libanons-verwundet](https://www.spiegel.de/ausland/israel-gaza-krieg-hisbollah-mitglieder-durch-explodierende-pager-in-beirut-und-im-sueden-libanons-verwundet-a-8d9a237f-fdeb-4377-9394-9f0be7783816#ref=rss)
+### explodiert
+
+* [https://www.spiegel.de/ausland/beirut-hisbollah-pager-explodiert-in-supermarkt-ueberwachungskamera-filmt-vorfall](https://www.spiegel.de/ausland/beirut-hisbollah-pager-explodiert-in-supermarkt-ueberwachungskamera-filmt-vorfall-a-325b332c-b5bf-4408-a6f4-91d750da3f9e#ref=rss)
+### sehen
+
+* [https://www.spiegel.de/ausland/beirut-hisbollah-pager-explodiert-in-supermarkt-ueberwachungskamera-filmt-vorfall](https://www.spiegel.de/ausland/beirut-hisbollah-pager-explodiert-in-supermarkt-ueberwachungskamera-filmt-vorfall-a-325b332c-b5bf-4408-a6f4-91d750da3f9e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/supermond-mit-partieller-mondfinsternis-heute-nacht-so-stehen-die-chancen-auf-gute-sicht](https://www.spiegel.de/wissenschaft/natur/supermond-mit-partieller-mondfinsternis-heute-nacht-so-stehen-die-chancen-auf-gute-sicht-a-e333c635-78ec-42ad-a909-653f40856667#ref=rss)
+### moment
+
+* [https://www.spiegel.de/ausland/beirut-hisbollah-pager-explodiert-in-supermarkt-ueberwachungskamera-filmt-vorfall](https://www.spiegel.de/ausland/beirut-hisbollah-pager-explodiert-in-supermarkt-ueberwachungskamera-filmt-vorfall-a-325b332c-b5bf-4408-a6f4-91d750da3f9e#ref=rss)
+* [https://www.spiegel.de/geschichte/oesterreich-widerstandskaempferin-melanie-berger-volle-spricht-in-wien-ueber-volkskanzler-und-die-kunst-des-neinsagens](https://www.spiegel.de/geschichte/oesterreich-widerstandskaempferin-melanie-berger-volle-spricht-in-wien-ueber-volkskanzler-und-die-kunst-des-neinsagens-a-8c13b212-c5cc-43d5-a618-23da0281b7b8#ref=rss)
+### italien
+
+* [https://www.spiegel.de/panorama/italien-warnung-fuer-urlauber-diese-staedte-gelten-als-besonders-gefaehrlich](https://www.spiegel.de/panorama/italien-warnung-fuer-urlauber-diese-staedte-gelten-als-besonders-gefaehrlich-a-1f7f9a51-9879-4bb3-b640-46e581b8e223#ref=rss)
+### städte
+
+* [https://www.spiegel.de/panorama/italien-warnung-fuer-urlauber-diese-staedte-gelten-als-besonders-gefaehrlich](https://www.spiegel.de/panorama/italien-warnung-fuer-urlauber-diese-staedte-gelten-als-besonders-gefaehrlich-a-1f7f9a51-9879-4bb3-b640-46e581b8e223#ref=rss)
+### besonders
+
+* [https://www.spiegel.de/panorama/italien-warnung-fuer-urlauber-diese-staedte-gelten-als-besonders-gefaehrlich](https://www.spiegel.de/panorama/italien-warnung-fuer-urlauber-diese-staedte-gelten-als-besonders-gefaehrlich-a-1f7f9a51-9879-4bb3-b640-46e581b8e223#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/supermond-mit-partieller-mondfinsternis-heute-nacht-so-stehen-die-chancen-auf-gute-sicht](https://www.spiegel.de/wissenschaft/natur/supermond-mit-partieller-mondfinsternis-heute-nacht-so-stehen-die-chancen-auf-gute-sicht-a-e333c635-78ec-42ad-a909-653f40856667#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/ausland/700-000-tote-eu-weit-im-jahr-durch-rauchen-eu-kommission-fordert-mehr-rauchfreie-zonen](https://www.spiegel.de/ausland/700-000-tote-eu-weit-im-jahr-durch-rauchen-eu-kommission-fordert-mehr-rauchfreie-zonen-a-ec980393-218b-4297-bc73-774fecfe654c#ref=rss)
+* [https://www.spiegel.de/panorama/abschiebungen-flugzeug-von-hamburg-nach-serbien-und-mazedonien-gestartet](https://www.spiegel.de/panorama/abschiebungen-flugzeug-von-hamburg-nach-serbien-und-mazedonien-gestartet-a-d15b19b3-a2f8-4ff8-ade0-8c2056554cee#ref=rss)
+### liegt
+
+* [https://www.spiegel.de/ausland/700-000-tote-eu-weit-im-jahr-durch-rauchen-eu-kommission-fordert-mehr-rauchfreie-zonen](https://www.spiegel.de/ausland/700-000-tote-eu-weit-im-jahr-durch-rauchen-eu-kommission-fordert-mehr-rauchfreie-zonen-a-ec980393-218b-4297-bc73-774fecfe654c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/elektroautos-in-norwegen-benziner-und-diesel-bald-geschichte](https://www.spiegel.de/wissenschaft/elektroautos-in-norwegen-benziner-und-diesel-bald-geschichte-a-f253d02b-79d9-4694-a808-eea1f4a6c36a#ref=rss)
+### hochwasser
+
+* [https://www.spiegel.de/ausland/hochwasser-in-europa-helikopter-rettet-feuerwehrleute-aus-den-ueberschwemmungen](https://www.spiegel.de/ausland/hochwasser-in-europa-helikopter-rettet-feuerwehrleute-aus-den-ueberschwemmungen-a-2e96a02f-85d5-4529-b006-b0aea8ac282a#ref=rss)
+* [https://www.spiegel.de/ausland/polen-die-ortschaft-klodzko-wird-regemaessig-ueberflutet-diesmal-ist-es-schlimmer-als-beim-jahrhunderthochwasser-1997](https://www.spiegel.de/ausland/polen-die-ortschaft-klodzko-wird-regemaessig-ueberflutet-diesmal-ist-es-schlimmer-als-beim-jahrhunderthochwasser-1997-a-3f415dc0-5bc1-4ef2-bae2-264a1f176fbc#ref=rss)
+### europa
+
+* [https://www.spiegel.de/ausland/hochwasser-in-europa-helikopter-rettet-feuerwehrleute-aus-den-ueberschwemmungen](https://www.spiegel.de/ausland/hochwasser-in-europa-helikopter-rettet-feuerwehrleute-aus-den-ueberschwemmungen-a-2e96a02f-85d5-4529-b006-b0aea8ac282a#ref=rss)
+### feuerwehrleute
+
+* [https://www.spiegel.de/ausland/hochwasser-in-europa-helikopter-rettet-feuerwehrleute-aus-den-ueberschwemmungen](https://www.spiegel.de/ausland/hochwasser-in-europa-helikopter-rettet-feuerwehrleute-aus-den-ueberschwemmungen-a-2e96a02f-85d5-4529-b006-b0aea8ac282a#ref=rss)
+### fluten
+
+* [https://www.spiegel.de/ausland/hochwasser-in-europa-helikopter-rettet-feuerwehrleute-aus-den-ueberschwemmungen](https://www.spiegel.de/ausland/hochwasser-in-europa-helikopter-rettet-feuerwehrleute-aus-den-ueberschwemmungen-a-2e96a02f-85d5-4529-b006-b0aea8ac282a#ref=rss)
+* [https://www.spiegel.de/ausland/polen-die-ortschaft-klodzko-wird-regemaessig-ueberflutet-diesmal-ist-es-schlimmer-als-beim-jahrhunderthochwasser-1997](https://www.spiegel.de/ausland/polen-die-ortschaft-klodzko-wird-regemaessig-ueberflutet-diesmal-ist-es-schlimmer-als-beim-jahrhunderthochwasser-1997-a-3f415dc0-5bc1-4ef2-bae2-264a1f176fbc#ref=rss)
+### kłodzko
+
+* [https://www.spiegel.de/ausland/polen-die-ortschaft-klodzko-wird-regemaessig-ueberflutet-diesmal-ist-es-schlimmer-als-beim-jahrhunderthochwasser-1997](https://www.spiegel.de/ausland/polen-die-ortschaft-klodzko-wird-regemaessig-ueberflutet-diesmal-ist-es-schlimmer-als-beim-jahrhunderthochwasser-1997-a-3f415dc0-5bc1-4ef2-bae2-264a1f176fbc#ref=rss)
+### diesmal
+
+* [https://www.spiegel.de/ausland/polen-die-ortschaft-klodzko-wird-regemaessig-ueberflutet-diesmal-ist-es-schlimmer-als-beim-jahrhunderthochwasser-1997](https://www.spiegel.de/ausland/polen-die-ortschaft-klodzko-wird-regemaessig-ueberflutet-diesmal-ist-es-schlimmer-als-beim-jahrhunderthochwasser-1997-a-3f415dc0-5bc1-4ef2-bae2-264a1f176fbc#ref=rss)
+### schlimmer
+
+* [https://www.spiegel.de/ausland/polen-die-ortschaft-klodzko-wird-regemaessig-ueberflutet-diesmal-ist-es-schlimmer-als-beim-jahrhunderthochwasser-1997](https://www.spiegel.de/ausland/polen-die-ortschaft-klodzko-wird-regemaessig-ueberflutet-diesmal-ist-es-schlimmer-als-beim-jahrhunderthochwasser-1997-a-3f415dc0-5bc1-4ef2-bae2-264a1f176fbc#ref=rss)
+### 1997
+
+* [https://www.spiegel.de/ausland/polen-die-ortschaft-klodzko-wird-regemaessig-ueberflutet-diesmal-ist-es-schlimmer-als-beim-jahrhunderthochwasser-1997](https://www.spiegel.de/ausland/polen-die-ortschaft-klodzko-wird-regemaessig-ueberflutet-diesmal-ist-es-schlimmer-als-beim-jahrhunderthochwasser-1997-a-3f415dc0-5bc1-4ef2-bae2-264a1f176fbc#ref=rss)
+### ort
+
+* [https://www.spiegel.de/ausland/polen-die-ortschaft-klodzko-wird-regemaessig-ueberflutet-diesmal-ist-es-schlimmer-als-beim-jahrhunderthochwasser-1997](https://www.spiegel.de/ausland/polen-die-ortschaft-klodzko-wird-regemaessig-ueberflutet-diesmal-ist-es-schlimmer-als-beim-jahrhunderthochwasser-1997-a-3f415dc0-5bc1-4ef2-bae2-264a1f176fbc#ref=rss)
 ### viele
 
-* [https://www.spiegel.de/panorama/gesellschaft/opioid-krise-in-deutschland-sucht-auf-rezept](https://www.spiegel.de/panorama/gesellschaft/opioid-krise-in-deutschland-sucht-auf-rezept-a-8e5a7d4c-2b2e-4597-9e7a-2e6eccec7032#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/migration-grenzkontrollen-in-deutschland-gefaehrden-deutschlands-ansehen-in-der-eu](https://www.spiegel.de/politik/deutschland/migration-grenzkontrollen-in-deutschland-gefaehrden-deutschlands-ansehen-in-der-eu-a-6c2249bc-00e5-42b4-b3f4-74c1d3ca7db6#ref=rss)
-### tausende
+* [https://www.spiegel.de/ausland/polen-die-ortschaft-klodzko-wird-regemaessig-ueberflutet-diesmal-ist-es-schlimmer-als-beim-jahrhunderthochwasser-1997](https://www.spiegel.de/ausland/polen-die-ortschaft-klodzko-wird-regemaessig-ueberflutet-diesmal-ist-es-schlimmer-als-beim-jahrhunderthochwasser-1997-a-3f415dc0-5bc1-4ef2-bae2-264a1f176fbc#ref=rss)
+* [https://www.spiegel.de/panorama/abschiebungen-flugzeug-von-hamburg-nach-serbien-und-mazedonien-gestartet](https://www.spiegel.de/panorama/abschiebungen-flugzeug-von-hamburg-nach-serbien-und-mazedonien-gestartet-a-d15b19b3-a2f8-4ff8-ade0-8c2056554cee#ref=rss)
+### bornholm
 
-* [https://www.spiegel.de/panorama/gesellschaft/opioid-krise-in-deutschland-sucht-auf-rezept](https://www.spiegel.de/panorama/gesellschaft/opioid-krise-in-deutschland-sucht-auf-rezept-a-8e5a7d4c-2b2e-4597-9e7a-2e6eccec7032#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-uno-prangert-menschenrechtskrise-unter-nicolas-maduro-an](https://www.spiegel.de/ausland/venezuela-uno-prangert-menschenrechtskrise-unter-nicolas-maduro-an-a-3a4084a9-8032-4082-b5bd-e3d3bfbdc141#ref=rss)
-### rechtsextreme
+* [https://www.spiegel.de/panorama/daenemark-anderthalb-meter-langer-walpenis-auf-bornholm-angespuelt](https://www.spiegel.de/panorama/daenemark-anderthalb-meter-langer-walpenis-auf-bornholm-angespuelt-a-df0a0de4-5132-4e25-b518-3f4399569339#ref=rss)
+### angespült
 
-* [https://www.spiegel.de/panorama/justiz/rechtsextreme-parolen-zu-lamour-toujours-auf-oktoberfest-in-neuenhagen](https://www.spiegel.de/panorama/justiz/rechtsextreme-parolen-zu-lamour-toujours-auf-oktoberfest-in-neuenhagen-a-fb22738d-49eb-47cf-a182-1144ee492de0#ref=rss)
-### parolen
+* [https://www.spiegel.de/panorama/daenemark-anderthalb-meter-langer-walpenis-auf-bornholm-angespuelt](https://www.spiegel.de/panorama/daenemark-anderthalb-meter-langer-walpenis-auf-bornholm-angespuelt-a-df0a0de4-5132-4e25-b518-3f4399569339#ref=rss)
+### asylpolitik
 
-* [https://www.spiegel.de/panorama/justiz/rechtsextreme-parolen-zu-lamour-toujours-auf-oktoberfest-in-neuenhagen](https://www.spiegel.de/panorama/justiz/rechtsextreme-parolen-zu-lamour-toujours-auf-oktoberfest-in-neuenhagen-a-fb22738d-49eb-47cf-a182-1144ee492de0#ref=rss)
-### ermittelt
+* [https://www.spiegel.de/ausland/niederlande-verkuenden-kurswechsel-in-der-asylpolitik](https://www.spiegel.de/ausland/niederlande-verkuenden-kurswechsel-in-der-asylpolitik-a-19c829d6-e388-412d-a41f-5b786c537a30#ref=rss)
+### schneller
 
-* [https://www.spiegel.de/panorama/justiz/rechtsextreme-parolen-zu-lamour-toujours-auf-oktoberfest-in-neuenhagen](https://www.spiegel.de/panorama/justiz/rechtsextreme-parolen-zu-lamour-toujours-auf-oktoberfest-in-neuenhagen-a-fb22738d-49eb-47cf-a182-1144ee492de0#ref=rss)
-### zertifikate
+* [https://www.spiegel.de/ausland/niederlande-verkuenden-kurswechsel-in-der-asylpolitik](https://www.spiegel.de/ausland/niederlande-verkuenden-kurswechsel-in-der-asylpolitik-a-19c829d6-e388-412d-a41f-5b786c537a30#ref=rss)
+* [https://www.spiegel.de/wissenschaft/elektroautos-in-norwegen-benziner-und-diesel-bald-geschichte](https://www.spiegel.de/wissenschaft/elektroautos-in-norwegen-benziner-und-diesel-bald-geschichte-a-f253d02b-79d9-4694-a808-eea1f4a6c36a#ref=rss)
+### avignon
 
-* [https://www.spiegel.de/wirtschaft/zertifikate-sind-bei-anlegern-wieder-gefragt-verbraucherschuetzer-warnen](https://www.spiegel.de/wirtschaft/zertifikate-sind-bei-anlegern-wieder-gefragt-verbraucherschuetzer-warnen-a-06b0e0b3-b35a-4622-951f-ad54f1bc6bf8#ref=rss)
-### gefragt
+* [https://www.spiegel.de/ausland/dominique-pelicot-sagt-im-vergewaltigungsfall-in-avignon-aus-ich-habe-alles-vermasselt](https://www.spiegel.de/ausland/dominique-pelicot-sagt-im-vergewaltigungsfall-in-avignon-aus-ich-habe-alles-vermasselt-a-76bd35f7-2095-42ed-94ee-d1cbb6dd62ae#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/missbrauchsfall-von-avignon-dominique-pelicot-bittet-ehefrau-gisele-um-vergebung](https://www.spiegel.de/panorama/justiz/missbrauchsfall-von-avignon-dominique-pelicot-bittet-ehefrau-gisele-um-vergebung-a-0565ac44-26b0-4c73-9c98-0b8170195fc8#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/wirtschaft/zertifikate-sind-bei-anlegern-wieder-gefragt-verbraucherschuetzer-warnen](https://www.spiegel.de/wirtschaft/zertifikate-sind-bei-anlegern-wieder-gefragt-verbraucherschuetzer-warnen-a-06b0e0b3-b35a-4622-951f-ad54f1bc6bf8#ref=rss)
-### verbraucherschützer
+* [https://www.spiegel.de/ausland/dominique-pelicot-sagt-im-vergewaltigungsfall-in-avignon-aus-ich-habe-alles-vermasselt](https://www.spiegel.de/ausland/dominique-pelicot-sagt-im-vergewaltigungsfall-in-avignon-aus-ich-habe-alles-vermasselt-a-76bd35f7-2095-42ed-94ee-d1cbb6dd62ae#ref=rss)
+* [https://www.spiegel.de/geschichte/oesterreich-widerstandskaempferin-melanie-berger-volle-spricht-in-wien-ueber-volkskanzler-und-die-kunst-des-neinsagens](https://www.spiegel.de/geschichte/oesterreich-widerstandskaempferin-melanie-berger-volle-spricht-in-wien-ueber-volkskanzler-und-die-kunst-des-neinsagens-a-8c13b212-c5cc-43d5-a618-23da0281b7b8#ref=rss)
+### männern
 
-* [https://www.spiegel.de/wirtschaft/zertifikate-sind-bei-anlegern-wieder-gefragt-verbraucherschuetzer-warnen](https://www.spiegel.de/wirtschaft/zertifikate-sind-bei-anlegern-wieder-gefragt-verbraucherschuetzer-warnen-a-06b0e0b3-b35a-4622-951f-ad54f1bc6bf8#ref=rss)
-### warnen
+* [https://www.spiegel.de/ausland/dominique-pelicot-sagt-im-vergewaltigungsfall-in-avignon-aus-ich-habe-alles-vermasselt](https://www.spiegel.de/ausland/dominique-pelicot-sagt-im-vergewaltigungsfall-in-avignon-aus-ich-habe-alles-vermasselt-a-76bd35f7-2095-42ed-94ee-d1cbb6dd62ae#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/missbrauchsfall-von-avignon-dominique-pelicot-bittet-ehefrau-gisele-um-vergebung](https://www.spiegel.de/panorama/justiz/missbrauchsfall-von-avignon-dominique-pelicot-bittet-ehefrau-gisele-um-vergebung-a-0565ac44-26b0-4c73-9c98-0b8170195fc8#ref=rss)
+### watergate
 
-* [https://www.spiegel.de/wirtschaft/zertifikate-sind-bei-anlegern-wieder-gefragt-verbraucherschuetzer-warnen](https://www.spiegel.de/wirtschaft/zertifikate-sind-bei-anlegern-wieder-gefragt-verbraucherschuetzer-warnen-a-06b0e0b3-b35a-4622-951f-ad54f1bc6bf8#ref=rss)
-### kanzler
+* [https://www.spiegel.de/kultur/watergate-in-berlin-kreuzberg-beruehmter-techno-club-schliesst-zum-ende-des-jahres](https://www.spiegel.de/kultur/watergate-in-berlin-kreuzberg-beruehmter-techno-club-schliesst-zum-ende-des-jahres-a-82cc4c86-15ec-478e-9b05-e1e6021bf763#ref=rss)
+### widerstandskämpferin
 
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-friedrich-merz-wird-kanzlerkandidat-der-union](https://www.spiegel.de/politik/deutschland/cdu-csu-friedrich-merz-wird-kanzlerkandidat-der-union-a-6c0557ca-b775-4002-b1cd-d156a9d0e7a8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/migration-grenzkontrollen-in-deutschland-gefaehrden-deutschlands-ansehen-in-der-eu](https://www.spiegel.de/politik/deutschland/migration-grenzkontrollen-in-deutschland-gefaehrden-deutschlands-ansehen-in-der-eu-a-6c2249bc-00e5-42b4-b3f4-74c1d3ca7db6#ref=rss)
-### max
+* [https://www.spiegel.de/geschichte/oesterreich-widerstandskaempferin-melanie-berger-volle-spricht-in-wien-ueber-volkskanzler-und-die-kunst-des-neinsagens](https://www.spiegel.de/geschichte/oesterreich-widerstandskaempferin-melanie-berger-volle-spricht-in-wien-ueber-volkskanzler-und-die-kunst-des-neinsagens-a-8c13b212-c5cc-43d5-a618-23da0281b7b8#ref=rss)
+### mélanie
 
-* [https://www.spiegel.de/sport/fussball/fussball-max-kruse-kritisiert-hassnachrichten-nach-spielabbruch-gegen-delay-sports](https://www.spiegel.de/sport/fussball/fussball-max-kruse-kritisiert-hassnachrichten-nach-spielabbruch-gegen-delay-sports-a-0efa5b13-4e77-4c84-afe3-c455303d3ea4#ref=rss)
-### hassnachrichten
+* [https://www.spiegel.de/geschichte/oesterreich-widerstandskaempferin-melanie-berger-volle-spricht-in-wien-ueber-volkskanzler-und-die-kunst-des-neinsagens](https://www.spiegel.de/geschichte/oesterreich-widerstandskaempferin-melanie-berger-volle-spricht-in-wien-ueber-volkskanzler-und-die-kunst-des-neinsagens-a-8c13b212-c5cc-43d5-a618-23da0281b7b8#ref=rss)
+### bergervolle
 
-* [https://www.spiegel.de/sport/fussball/fussball-max-kruse-kritisiert-hassnachrichten-nach-spielabbruch-gegen-delay-sports](https://www.spiegel.de/sport/fussball/fussball-max-kruse-kritisiert-hassnachrichten-nach-spielabbruch-gegen-delay-sports-a-0efa5b13-4e77-4c84-afe3-c455303d3ea4#ref=rss)
-### spielabbruch
+* [https://www.spiegel.de/geschichte/oesterreich-widerstandskaempferin-melanie-berger-volle-spricht-in-wien-ueber-volkskanzler-und-die-kunst-des-neinsagens](https://www.spiegel.de/geschichte/oesterreich-widerstandskaempferin-melanie-berger-volle-spricht-in-wien-ueber-volkskanzler-und-die-kunst-des-neinsagens-a-8c13b212-c5cc-43d5-a618-23da0281b7b8#ref=rss)
+### wien
 
-* [https://www.spiegel.de/sport/fussball/fussball-max-kruse-kritisiert-hassnachrichten-nach-spielabbruch-gegen-delay-sports](https://www.spiegel.de/sport/fussball/fussball-max-kruse-kritisiert-hassnachrichten-nach-spielabbruch-gegen-delay-sports-a-0efa5b13-4e77-4c84-afe3-c455303d3ea4#ref=rss)
-### uno
+* [https://www.spiegel.de/geschichte/oesterreich-widerstandskaempferin-melanie-berger-volle-spricht-in-wien-ueber-volkskanzler-und-die-kunst-des-neinsagens](https://www.spiegel.de/geschichte/oesterreich-widerstandskaempferin-melanie-berger-volle-spricht-in-wien-ueber-volkskanzler-und-die-kunst-des-neinsagens-a-8c13b212-c5cc-43d5-a618-23da0281b7b8#ref=rss)
+### volkskanzler
 
-* [https://www.spiegel.de/ausland/venezuela-uno-prangert-menschenrechtskrise-unter-nicolas-maduro-an](https://www.spiegel.de/ausland/venezuela-uno-prangert-menschenrechtskrise-unter-nicolas-maduro-an-a-3a4084a9-8032-4082-b5bd-e3d3bfbdc141#ref=rss)
-### maduro
+* [https://www.spiegel.de/geschichte/oesterreich-widerstandskaempferin-melanie-berger-volle-spricht-in-wien-ueber-volkskanzler-und-die-kunst-des-neinsagens](https://www.spiegel.de/geschichte/oesterreich-widerstandskaempferin-melanie-berger-volle-spricht-in-wien-ueber-volkskanzler-und-die-kunst-des-neinsagens-a-8c13b212-c5cc-43d5-a618-23da0281b7b8#ref=rss)
+### reinhold
 
-* [https://www.spiegel.de/ausland/venezuela-uno-prangert-menschenrechtskrise-unter-nicolas-maduro-an](https://www.spiegel.de/ausland/venezuela-uno-prangert-menschenrechtskrise-unter-nicolas-maduro-an-a-3a4084a9-8032-4082-b5bd-e3d3bfbdc141#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-us-chiphersteller-intel-reinhold-messner](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-us-chiphersteller-intel-reinhold-messner-a-7991f67d-8168-4d7e-bf62-503346308076#ref=rss)
+### messner
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-us-chiphersteller-intel-reinhold-messner](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-us-chiphersteller-intel-reinhold-messner-a-7991f67d-8168-4d7e-bf62-503346308076#ref=rss)
+### leyen
+
+* [https://www.spiegel.de/politik/deutschland/eu-kommission-von-der-leyen-praesentiert-neue-besetzung-fuenf-frauen-ein-liberaler-und-ein-extrem-rechter](https://www.spiegel.de/politik/deutschland/eu-kommission-von-der-leyen-praesentiert-neue-besetzung-fuenf-frauen-ein-liberaler-und-ein-extrem-rechter-a-5fea7273-bb43-4451-9bff-134082c591ea#ref=rss)
+### vergebung
+
+* [https://www.spiegel.de/panorama/justiz/missbrauchsfall-von-avignon-dominique-pelicot-bittet-ehefrau-gisele-um-vergebung](https://www.spiegel.de/panorama/justiz/missbrauchsfall-von-avignon-dominique-pelicot-bittet-ehefrau-gisele-um-vergebung-a-0565ac44-26b0-4c73-9c98-0b8170195fc8#ref=rss)
+### elektroautos
+
+* [https://www.spiegel.de/wissenschaft/elektroautos-in-norwegen-benziner-und-diesel-bald-geschichte](https://www.spiegel.de/wissenschaft/elektroautos-in-norwegen-benziner-und-diesel-bald-geschichte-a-f253d02b-79d9-4694-a808-eea1f4a6c36a#ref=rss)
+* [https://www.spiegel.de/auto/elektroauto-kaufen-suv-dominieren-den-markt-elektroautos-in-deutschland](https://www.spiegel.de/auto/elektroauto-kaufen-suv-dominieren-den-markt-elektroautos-in-deutschland-a-a6cb0316-ddbe-4449-b943-87197b883f49#ref=rss)
+### hamburg
+
+* [https://www.spiegel.de/panorama/abschiebungen-flugzeug-von-hamburg-nach-serbien-und-mazedonien-gestartet](https://www.spiegel.de/panorama/abschiebungen-flugzeug-von-hamburg-nach-serbien-und-mazedonien-gestartet-a-d15b19b3-a2f8-4ff8-ade0-8c2056554cee#ref=rss)
+### gestartet
+
+* [https://www.spiegel.de/panorama/abschiebungen-flugzeug-von-hamburg-nach-serbien-und-mazedonien-gestartet](https://www.spiegel.de/panorama/abschiebungen-flugzeug-von-hamburg-nach-serbien-und-mazedonien-gestartet-a-d15b19b3-a2f8-4ff8-ade0-8c2056554cee#ref=rss)
+### suv
+
+* [https://www.spiegel.de/auto/elektroauto-kaufen-suv-dominieren-den-markt-elektroautos-in-deutschland](https://www.spiegel.de/auto/elektroauto-kaufen-suv-dominieren-den-markt-elektroautos-in-deutschland-a-a6cb0316-ddbe-4449-b943-87197b883f49#ref=rss)
+### groß
+
+* [https://www.spiegel.de/auto/elektroauto-kaufen-suv-dominieren-den-markt-elektroautos-in-deutschland](https://www.spiegel.de/auto/elektroauto-kaufen-suv-dominieren-den-markt-elektroautos-in-deutschland-a-a6cb0316-ddbe-4449-b943-87197b883f49#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/supermond-mit-partieller-mondfinsternis-heute-nacht-so-stehen-die-chancen-auf-gute-sicht](https://www.spiegel.de/wissenschaft/natur/supermond-mit-partieller-mondfinsternis-heute-nacht-so-stehen-die-chancen-auf-gute-sicht-a-e333c635-78ec-42ad-a909-653f40856667#ref=rss)
+### miley
+
+* [https://www.spiegel.de/panorama/leute/miley-cyrus-klage-wegen-angeblicher-songkopie](https://www.spiegel.de/panorama/leute/miley-cyrus-klage-wegen-angeblicher-songkopie-a-7721bb9f-e15f-492c-99b7-5b617c419ef4#ref=rss)
+### cyrus
+
+* [https://www.spiegel.de/panorama/leute/miley-cyrus-klage-wegen-angeblicher-songkopie](https://www.spiegel.de/panorama/leute/miley-cyrus-klage-wegen-angeblicher-songkopie-a-7721bb9f-e15f-492c-99b7-5b617c419ef4#ref=rss)
+### song
+
+* [https://www.spiegel.de/panorama/leute/miley-cyrus-klage-wegen-angeblicher-songkopie](https://www.spiegel.de/panorama/leute/miley-cyrus-klage-wegen-angeblicher-songkopie-a-7721bb9f-e15f-492c-99b7-5b617c419ef4#ref=rss)
+### sean
+
+* [https://www.spiegel.de/panorama/justiz/sean-diddy-combs-wegen-zwangsprostitution-angeklagt](https://www.spiegel.de/panorama/justiz/sean-diddy-combs-wegen-zwangsprostitution-angeklagt-a-23ba6675-6104-4594-bf13-76aad6fbf6c1#ref=rss)
+### diddy
+
+* [https://www.spiegel.de/panorama/justiz/sean-diddy-combs-wegen-zwangsprostitution-angeklagt](https://www.spiegel.de/panorama/justiz/sean-diddy-combs-wegen-zwangsprostitution-angeklagt-a-23ba6675-6104-4594-bf13-76aad6fbf6c1#ref=rss)
+### combs
+
+* [https://www.spiegel.de/panorama/justiz/sean-diddy-combs-wegen-zwangsprostitution-angeklagt](https://www.spiegel.de/panorama/justiz/sean-diddy-combs-wegen-zwangsprostitution-angeklagt-a-23ba6675-6104-4594-bf13-76aad6fbf6c1#ref=rss)
+### pistorius
+
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-boris-pistorius-hofft-auf-frisches-geld-fuer-waffenhilfe](https://www.spiegel.de/politik/deutschland/ukraine-krieg-boris-pistorius-hofft-auf-frisches-geld-fuer-waffenhilfe-a-502297e3-92c4-4ff6-b48e-0c64b73aebe0#ref=rss)
+### nacht
+
+* [https://www.spiegel.de/wissenschaft/natur/supermond-mit-partieller-mondfinsternis-heute-nacht-so-stehen-die-chancen-auf-gute-sicht](https://www.spiegel.de/wissenschaft/natur/supermond-mit-partieller-mondfinsternis-heute-nacht-so-stehen-die-chancen-auf-gute-sicht-a-e333c635-78ec-42ad-a909-653f40856667#ref=rss)
+### stehen
+
+* [https://www.spiegel.de/wissenschaft/natur/supermond-mit-partieller-mondfinsternis-heute-nacht-so-stehen-die-chancen-auf-gute-sicht](https://www.spiegel.de/wissenschaft/natur/supermond-mit-partieller-mondfinsternis-heute-nacht-so-stehen-die-chancen-auf-gute-sicht-a-e333c635-78ec-42ad-a909-653f40856667#ref=rss)
+### josua
+
+* [https://www.spiegel.de/netzwelt/web/josua-wirth-der-tiktok-star-der-mit-taliban-und-einem-tiger-posiert](https://www.spiegel.de/netzwelt/web/josua-wirth-der-tiktok-star-der-mit-taliban-und-einem-tiger-posiert-a-e67488c5-ab2f-4257-910a-207771c41858#ref=rss)
+### wirth
+
+* [https://www.spiegel.de/netzwelt/web/josua-wirth-der-tiktok-star-der-mit-taliban-und-einem-tiger-posiert](https://www.spiegel.de/netzwelt/web/josua-wirth-der-tiktok-star-der-mit-taliban-und-einem-tiger-posiert-a-e67488c5-ab2f-4257-910a-207771c41858#ref=rss)
 
