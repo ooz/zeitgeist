@@ -4,305 +4,292 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### merz
+### kate
 
-* [https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-gegen-olaf-scholz-die-unbeliebten](https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-gegen-olaf-scholz-die-unbeliebten-a-edbf4396-7181-4d8c-b87f-36045dd9fe1f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/reaktionen-auf-friedrich-merz-kanzlerkandidatur-fuer-die-union](https://www.spiegel.de/politik/deutschland/reaktionen-auf-friedrich-merz-kanzlerkandidatur-fuer-die-union-a-1e0cb0d6-38c9-4c78-ab0c-a2253e349eba#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-us-chiphersteller-intel-reinhold-messner](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-us-chiphersteller-intel-reinhold-messner-a-7991f67d-8168-4d7e-bf62-503346308076#ref=rss)
-### mann
+* [https://www.spiegel.de/kultur/kate-winslet-die-fotografin-wir-frauen-lernen-immer-noch-kein-nein-zu-akzeptieren](https://www.spiegel.de/kultur/kate-winslet-die-fotografin-wir-frauen-lernen-immer-noch-kein-nein-zu-akzeptieren-a-a42f47ab-4d0c-44d6-a554-b8ccfdd4d6cd#ref=rss)
+* [https://www.spiegel.de/kultur/kate-winslet-im-kinofilm-die-fotografin-wer-war-die-frau-in-hitlers-badewanne](https://www.spiegel.de/kultur/kate-winslet-im-kinofilm-die-fotografin-wer-war-die-frau-in-hitlers-badewanne-a-7b224f14-bf27-45db-9f34-d31a13af7b30#ref=rss)
+* [https://www.spiegel.de/panorama/leute/prinzessin-kate-nimmt-erstes-arbeitstreffen-seit-krebsbehandlung-wahr](https://www.spiegel.de/panorama/leute/prinzessin-kate-nimmt-erstes-arbeitstreffen-seit-krebsbehandlung-wahr-a-9b449656-8075-4f4b-8885-6e83edbff3c7#ref=rss)
+### winslet
 
-* [https://www.spiegel.de/ausland/donald-trump-was-der-verdaechtige-ryan-routh-mit-der-ukraine-zu-tun-hat](https://www.spiegel.de/ausland/donald-trump-was-der-verdaechtige-ryan-routh-mit-der-ukraine-zu-tun-hat-a-f6621d1b-b260-4790-8380-d855a3a10043#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ard-afd-gegner-gekauft-das-ist-dran-an-den-vorwuerfen-gegen-die-ard](https://www.spiegel.de/wirtschaft/ard-afd-gegner-gekauft-das-ist-dran-an-den-vorwuerfen-gegen-die-ard-a-cd54a576-d15b-44d4-8a12-3cce8e681563#ref=rss)
-* [https://www.spiegel.de/ausland/beirut-hisbollah-pager-explodiert-in-supermarkt-ueberwachungskamera-filmt-vorfall](https://www.spiegel.de/ausland/beirut-hisbollah-pager-explodiert-in-supermarkt-ueberwachungskamera-filmt-vorfall-a-325b332c-b5bf-4408-a6f4-91d750da3f9e#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-hisbollah-mitglieder-durch-explodierende-pager-in-beirut-und-im-sueden-libanons-verwundet](https://www.spiegel.de/ausland/israel-gaza-krieg-hisbollah-mitglieder-durch-explodierende-pager-in-beirut-und-im-sueden-libanons-verwundet-a-8d9a237f-fdeb-4377-9394-9f0be7783816#ref=rss)
-### friedrich
+* [https://www.spiegel.de/kultur/kate-winslet-die-fotografin-wir-frauen-lernen-immer-noch-kein-nein-zu-akzeptieren](https://www.spiegel.de/kultur/kate-winslet-die-fotografin-wir-frauen-lernen-immer-noch-kein-nein-zu-akzeptieren-a-a42f47ab-4d0c-44d6-a554-b8ccfdd4d6cd#ref=rss)
+* [https://www.spiegel.de/kultur/kate-winslet-im-kinofilm-die-fotografin-wer-war-die-frau-in-hitlers-badewanne](https://www.spiegel.de/kultur/kate-winslet-im-kinofilm-die-fotografin-wer-war-die-frau-in-hitlers-badewanne-a-7b224f14-bf27-45db-9f34-d31a13af7b30#ref=rss)
+### fotografin
 
-* [https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-gegen-olaf-scholz-die-unbeliebten](https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-gegen-olaf-scholz-die-unbeliebten-a-edbf4396-7181-4d8c-b87f-36045dd9fe1f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/reaktionen-auf-friedrich-merz-kanzlerkandidatur-fuer-die-union](https://www.spiegel.de/politik/deutschland/reaktionen-auf-friedrich-merz-kanzlerkandidatur-fuer-die-union-a-1e0cb0d6-38c9-4c78-ab0c-a2253e349eba#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-us-chiphersteller-intel-reinhold-messner](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-us-chiphersteller-intel-reinhold-messner-a-7991f67d-8168-4d7e-bf62-503346308076#ref=rss)
-### söder
+* [https://www.spiegel.de/kultur/kate-winslet-die-fotografin-wir-frauen-lernen-immer-noch-kein-nein-zu-akzeptieren](https://www.spiegel.de/kultur/kate-winslet-die-fotografin-wir-frauen-lernen-immer-noch-kein-nein-zu-akzeptieren-a-a42f47ab-4d0c-44d6-a554-b8ccfdd4d6cd#ref=rss)
+* [https://www.spiegel.de/kultur/kate-winslet-im-kinofilm-die-fotografin-wer-war-die-frau-in-hitlers-badewanne](https://www.spiegel.de/kultur/kate-winslet-im-kinofilm-die-fotografin-wer-war-die-frau-in-hitlers-badewanne-a-7b224f14-bf27-45db-9f34-d31a13af7b30#ref=rss)
+### anderen
 
-* [https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-gegen-olaf-scholz-die-unbeliebten](https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-gegen-olaf-scholz-die-unbeliebten-a-edbf4396-7181-4d8c-b87f-36045dd9fe1f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-us-chiphersteller-intel-reinhold-messner](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-us-chiphersteller-intel-reinhold-messner-a-7991f67d-8168-4d7e-bf62-503346308076#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-ein-doener-macht-noch-keinen-kanzler](https://www.spiegel.de/politik/deutschland/markus-soeder-ein-doener-macht-noch-keinen-kanzler-a-824924aa-229e-49c0-9d39-54758f418a7b#ref=rss)
-### ukraine
+* [https://www.spiegel.de/wissenschaft/mensch/mathematik-kinder-lernen-mithilfe-der-finger-besser-rechnen](https://www.spiegel.de/wissenschaft/mensch/mathematik-kinder-lernen-mithilfe-der-finger-besser-rechnen-a-8d2b500e-0cc3-4f6c-adb3-6985d60bbdba#ref=rss)
+* [https://www.spiegel.de/panorama/grossbritannien-eichhoernchen-attacke-im-zug-fahrt-abgebrochen](https://www.spiegel.de/panorama/grossbritannien-eichhoernchen-attacke-im-zug-fahrt-abgebrochen-a-05a3fa42-41b7-4057-9a41-272a2cc789d7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/brandenburg-afd-politiker-sollen-sich-mit-rechtsextremen-ueber-revolution-ausgetauscht-haben](https://www.spiegel.de/politik/deutschland/brandenburg-afd-politiker-sollen-sich-mit-rechtsextremen-ueber-revolution-ausgetauscht-haben-a-6bbbb9eb-5f94-4ae1-8257-e5d31378b494#ref=rss)
+### aktivisten
 
-* [https://www.spiegel.de/ausland/donald-trump-was-der-verdaechtige-ryan-routh-mit-der-ukraine-zu-tun-hat](https://www.spiegel.de/ausland/donald-trump-was-der-verdaechtige-ryan-routh-mit-der-ukraine-zu-tun-hat-a-f6621d1b-b260-4790-8380-d855a3a10043#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-boris-pistorius-hofft-auf-frisches-geld-fuer-waffenhilfe](https://www.spiegel.de/politik/deutschland/ukraine-krieg-boris-pistorius-hofft-auf-frisches-geld-fuer-waffenhilfe-a-502297e3-92c4-4ff6-b48e-0c64b73aebe0#ref=rss)
-### markus
+* [https://www.spiegel.de/wirtschaft/soziales/london-aktivisten-befestigen-babytragen-an-statuen-um-sich-fuer-bessere-elternurlaubsmoeglichkeiten-einzusetzen](https://www.spiegel.de/wirtschaft/soziales/london-aktivisten-befestigen-babytragen-an-statuen-um-sich-fuer-bessere-elternurlaubsmoeglichkeiten-einzusetzen-a-7b352724-f1fd-4670-b487-028f4c2c15f4#ref=rss)
+* [https://www.spiegel.de/geschichte/berlins-kultursenator-joe-chialo-ueber-rassismuserfahrungen-ich-stehe-als-verletzter-nicht-zur-verfuegung](https://www.spiegel.de/geschichte/berlins-kultursenator-joe-chialo-ueber-rassismuserfahrungen-ich-stehe-als-verletzter-nicht-zur-verfuegung-a-f2cce6ed-62f2-4c54-a38f-7fb663435044#ref=rss)
+### zug
 
-* [https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-gegen-olaf-scholz-die-unbeliebten](https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-gegen-olaf-scholz-die-unbeliebten-a-edbf4396-7181-4d8c-b87f-36045dd9fe1f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-ein-doener-macht-noch-keinen-kanzler](https://www.spiegel.de/politik/deutschland/markus-soeder-ein-doener-macht-noch-keinen-kanzler-a-824924aa-229e-49c0-9d39-54758f418a7b#ref=rss)
-### union
-
-* [https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-gegen-olaf-scholz-die-unbeliebten](https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-gegen-olaf-scholz-die-unbeliebten-a-edbf4396-7181-4d8c-b87f-36045dd9fe1f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/reaktionen-auf-friedrich-merz-kanzlerkandidatur-fuer-die-union](https://www.spiegel.de/politik/deutschland/reaktionen-auf-friedrich-merz-kanzlerkandidatur-fuer-die-union-a-1e0cb0d6-38c9-4c78-ab0c-a2253e349eba#ref=rss)
+* [https://www.spiegel.de/panorama/grossbritannien-eichhoernchen-attacke-im-zug-fahrt-abgebrochen](https://www.spiegel.de/panorama/grossbritannien-eichhoernchen-attacke-im-zug-fahrt-abgebrochen-a-05a3fa42-41b7-4057-9a41-272a2cc789d7#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/wirtschaft/zwoelf-milliarden-euro-fuer-start-ups](https://www.spiegel.de/wirtschaft/zwoelf-milliarden-euro-fuer-start-ups-a-c1088a7f-b2a6-4b0f-a55c-a28c41e6a68c#ref=rss)
-* [https://www.spiegel.de/auto/elektroauto-kaufen-suv-dominieren-den-markt-elektroautos-in-deutschland](https://www.spiegel.de/auto/elektroauto-kaufen-suv-dominieren-den-markt-elektroautos-in-deutschland-a-a6cb0316-ddbe-4449-b943-87197b883f49#ref=rss)
-### macht
+* [https://www.spiegel.de/geschichte/berlins-kultursenator-joe-chialo-ueber-rassismuserfahrungen-ich-stehe-als-verletzter-nicht-zur-verfuegung](https://www.spiegel.de/geschichte/berlins-kultursenator-joe-chialo-ueber-rassismuserfahrungen-ich-stehe-als-verletzter-nicht-zur-verfuegung-a-f2cce6ed-62f2-4c54-a38f-7fb663435044#ref=rss)
+* [https://www.spiegel.de/kultur/musik/tiktok-jeder-vierte-hit-ging-vor-charteintritt-viral](https://www.spiegel.de/kultur/musik/tiktok-jeder-vierte-hit-ging-vor-charteintritt-viral-a-310b3c31-bb7c-47ba-9f16-2f4bc63f912d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rohstoff-fonds-der-bundesregierung-kann-starten](https://www.spiegel.de/wirtschaft/soziales/rohstoff-fonds-der-bundesregierung-kann-starten-a-9f1bf9a9-f798-4d39-9ab7-951447cfb234#ref=rss)
+### gericht
 
-* [https://www.spiegel.de/familie/kinderarmut-armut-ist-das-gefuehl-etwas-zu-verpassen](https://www.spiegel.de/familie/kinderarmut-armut-ist-das-gefuehl-etwas-zu-verpassen-a-0662e8c3-399e-4fad-b0ad-ef7c0f943cd1#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-hisbollah-mitglieder-durch-explodierende-pager-in-beirut-und-im-sueden-libanons-verwundet](https://www.spiegel.de/ausland/israel-gaza-krieg-hisbollah-mitglieder-durch-explodierende-pager-in-beirut-und-im-sueden-libanons-verwundet-a-8d9a237f-fdeb-4377-9394-9f0be7783816#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-ein-doener-macht-noch-keinen-kanzler](https://www.spiegel.de/politik/deutschland/markus-soeder-ein-doener-macht-noch-keinen-kanzler-a-824924aa-229e-49c0-9d39-54758f418a7b#ref=rss)
-### pager
+* [https://www.spiegel.de/wirtschaft/unternehmen/google-gericht-kassiert-milliardenstrafe-fuer-internetkonzern](https://www.spiegel.de/wirtschaft/unternehmen/google-gericht-kassiert-milliardenstrafe-fuer-internetkonzern-a-0995ee4f-0284-46e6-807e-4106f84f111f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/rechtsschutzversicherung-fuer-wen-sie-sich-wirklich-lohnt](https://www.spiegel.de/wirtschaft/service/rechtsschutzversicherung-fuer-wen-sie-sich-wirklich-lohnt-a-7d484690-3ddc-4010-ae56-e0910d34ab0c#ref=rss)
+### brandenburg
 
-* [https://www.spiegel.de/ausland/beirut-hisbollah-pager-explodiert-in-supermarkt-ueberwachungskamera-filmt-vorfall](https://www.spiegel.de/ausland/beirut-hisbollah-pager-explodiert-in-supermarkt-ueberwachungskamera-filmt-vorfall-a-325b332c-b5bf-4408-a6f4-91d750da3f9e#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-hisbollah-mitglieder-durch-explodierende-pager-in-beirut-und-im-sueden-libanons-verwundet](https://www.spiegel.de/ausland/israel-gaza-krieg-hisbollah-mitglieder-durch-explodierende-pager-in-beirut-und-im-sueden-libanons-verwundet-a-8d9a237f-fdeb-4377-9394-9f0be7783816#ref=rss)
-### eukommission
+* [https://www.spiegel.de/panorama/dresden-wasserstand-der-elbe-erreicht-sechs-meter-marke](https://www.spiegel.de/panorama/dresden-wasserstand-der-elbe-erreicht-sechs-meter-marke-a-9ce21f3e-d305-4f3c-a3a9-46ed69f3bfd4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/brandenburg-afd-politiker-sollen-sich-mit-rechtsextremen-ueber-revolution-ausgetauscht-haben](https://www.spiegel.de/politik/deutschland/brandenburg-afd-politiker-sollen-sich-mit-rechtsextremen-ueber-revolution-ausgetauscht-haben-a-6bbbb9eb-5f94-4ae1-8257-e5d31378b494#ref=rss)
+### libanon
 
-* [https://www.spiegel.de/ausland/700-000-tote-eu-weit-im-jahr-durch-rauchen-eu-kommission-fordert-mehr-rauchfreie-zonen](https://www.spiegel.de/ausland/700-000-tote-eu-weit-im-jahr-durch-rauchen-eu-kommission-fordert-mehr-rauchfreie-zonen-a-ec980393-218b-4297-bc73-774fecfe654c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/eu-kommission-von-der-leyen-praesentiert-neue-besetzung-fuenf-frauen-ein-liberaler-und-ein-extrem-rechter](https://www.spiegel.de/politik/deutschland/eu-kommission-von-der-leyen-praesentiert-neue-besetzung-fuenf-frauen-ein-liberaler-und-ein-extrem-rechter-a-5fea7273-bb43-4451-9bff-134082c591ea#ref=rss)
-### bleibt
+* [https://www.spiegel.de/ausland/hisbollah-pager-explodieren-im-libanon-szenen-der-explosionen-kursieren-im-netz-steckt-israel-dahinter](https://www.spiegel.de/ausland/hisbollah-pager-explodieren-im-libanon-szenen-der-explosionen-kursieren-im-netz-steckt-israel-dahinter-a-1dbd7b72-841f-4cd5-ac92-44b25c1ae339#ref=rss)
+* [https://www.spiegel.de/ausland/iran-schickt-rettungsteams-in-den-libanon](https://www.spiegel.de/ausland/iran-schickt-rettungsteams-in-den-libanon-a-be7d6f51-e8c2-435f-81b7-fe5f462dd0d5#ref=rss)
+### kinder
 
-* [https://www.spiegel.de/ausland/hochwasser-in-europa-helikopter-rettet-feuerwehrleute-aus-den-ueberschwemmungen](https://www.spiegel.de/ausland/hochwasser-in-europa-helikopter-rettet-feuerwehrleute-aus-den-ueberschwemmungen-a-2e96a02f-85d5-4529-b006-b0aea8ac282a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-us-chiphersteller-intel-reinhold-messner](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-us-chiphersteller-intel-reinhold-messner-a-7991f67d-8168-4d7e-bf62-503346308076#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-ein-doener-macht-noch-keinen-kanzler](https://www.spiegel.de/politik/deutschland/markus-soeder-ein-doener-macht-noch-keinen-kanzler-a-824924aa-229e-49c0-9d39-54758f418a7b#ref=rss)
-### dominique
+* [https://www.spiegel.de/wissenschaft/mensch/mathematik-kinder-lernen-mithilfe-der-finger-besser-rechnen](https://www.spiegel.de/wissenschaft/mensch/mathematik-kinder-lernen-mithilfe-der-finger-besser-rechnen-a-8d2b500e-0cc3-4f6c-adb3-6985d60bbdba#ref=rss)
+### lernen
 
-* [https://www.spiegel.de/ausland/dominique-pelicot-sagt-im-vergewaltigungsfall-in-avignon-aus-ich-habe-alles-vermasselt](https://www.spiegel.de/ausland/dominique-pelicot-sagt-im-vergewaltigungsfall-in-avignon-aus-ich-habe-alles-vermasselt-a-76bd35f7-2095-42ed-94ee-d1cbb6dd62ae#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/missbrauchsfall-von-avignon-dominique-pelicot-bittet-ehefrau-gisele-um-vergebung](https://www.spiegel.de/panorama/justiz/missbrauchsfall-von-avignon-dominique-pelicot-bittet-ehefrau-gisele-um-vergebung-a-0565ac44-26b0-4c73-9c98-0b8170195fc8#ref=rss)
-### pelicot
+* [https://www.spiegel.de/wissenschaft/mensch/mathematik-kinder-lernen-mithilfe-der-finger-besser-rechnen](https://www.spiegel.de/wissenschaft/mensch/mathematik-kinder-lernen-mithilfe-der-finger-besser-rechnen-a-8d2b500e-0cc3-4f6c-adb3-6985d60bbdba#ref=rss)
+* [https://www.spiegel.de/kultur/kate-winslet-die-fotografin-wir-frauen-lernen-immer-noch-kein-nein-zu-akzeptieren](https://www.spiegel.de/kultur/kate-winslet-die-fotografin-wir-frauen-lernen-immer-noch-kein-nein-zu-akzeptieren-a-a42f47ab-4d0c-44d6-a554-b8ccfdd4d6cd#ref=rss)
+### mithilfe
 
-* [https://www.spiegel.de/ausland/dominique-pelicot-sagt-im-vergewaltigungsfall-in-avignon-aus-ich-habe-alles-vermasselt](https://www.spiegel.de/ausland/dominique-pelicot-sagt-im-vergewaltigungsfall-in-avignon-aus-ich-habe-alles-vermasselt-a-76bd35f7-2095-42ed-94ee-d1cbb6dd62ae#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/missbrauchsfall-von-avignon-dominique-pelicot-bittet-ehefrau-gisele-um-vergebung](https://www.spiegel.de/panorama/justiz/missbrauchsfall-von-avignon-dominique-pelicot-bittet-ehefrau-gisele-um-vergebung-a-0565ac44-26b0-4c73-9c98-0b8170195fc8#ref=rss)
-### ehefrau
+* [https://www.spiegel.de/wissenschaft/mensch/mathematik-kinder-lernen-mithilfe-der-finger-besser-rechnen](https://www.spiegel.de/wissenschaft/mensch/mathematik-kinder-lernen-mithilfe-der-finger-besser-rechnen-a-8d2b500e-0cc3-4f6c-adb3-6985d60bbdba#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/rechtsschutzversicherung-fuer-wen-sie-sich-wirklich-lohnt](https://www.spiegel.de/wirtschaft/service/rechtsschutzversicherung-fuer-wen-sie-sich-wirklich-lohnt-a-7d484690-3ddc-4010-ae56-e0910d34ab0c#ref=rss)
+### besser
 
-* [https://www.spiegel.de/ausland/dominique-pelicot-sagt-im-vergewaltigungsfall-in-avignon-aus-ich-habe-alles-vermasselt](https://www.spiegel.de/ausland/dominique-pelicot-sagt-im-vergewaltigungsfall-in-avignon-aus-ich-habe-alles-vermasselt-a-76bd35f7-2095-42ed-94ee-d1cbb6dd62ae#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/missbrauchsfall-von-avignon-dominique-pelicot-bittet-ehefrau-gisele-um-vergebung](https://www.spiegel.de/panorama/justiz/missbrauchsfall-von-avignon-dominique-pelicot-bittet-ehefrau-gisele-um-vergebung-a-0565ac44-26b0-4c73-9c98-0b8170195fc8#ref=rss)
-### billie
+* [https://www.spiegel.de/wissenschaft/mensch/mathematik-kinder-lernen-mithilfe-der-finger-besser-rechnen](https://www.spiegel.de/wissenschaft/mensch/mathematik-kinder-lernen-mithilfe-der-finger-besser-rechnen-a-8d2b500e-0cc3-4f6c-adb3-6985d60bbdba#ref=rss)
+### rechnen
 
-* [https://www.spiegel.de/ausland/billie-eilish-zur-us-wahl-waehlt-als-ob-euer-leben-davon-anhinge](https://www.spiegel.de/ausland/billie-eilish-zur-us-wahl-waehlt-als-ob-euer-leben-davon-anhinge-a-6201c4fc-ccfc-44b9-84df-ae3ff7001ce6#ref=rss)
-### eilish
+* [https://www.spiegel.de/wissenschaft/mensch/mathematik-kinder-lernen-mithilfe-der-finger-besser-rechnen](https://www.spiegel.de/wissenschaft/mensch/mathematik-kinder-lernen-mithilfe-der-finger-besser-rechnen-a-8d2b500e-0cc3-4f6c-adb3-6985d60bbdba#ref=rss)
+### london
 
-* [https://www.spiegel.de/ausland/billie-eilish-zur-us-wahl-waehlt-als-ob-euer-leben-davon-anhinge](https://www.spiegel.de/ausland/billie-eilish-zur-us-wahl-waehlt-als-ob-euer-leben-davon-anhinge-a-6201c4fc-ccfc-44b9-84df-ae3ff7001ce6#ref=rss)
-### davon
+* [https://www.spiegel.de/wirtschaft/soziales/london-aktivisten-befestigen-babytragen-an-statuen-um-sich-fuer-bessere-elternurlaubsmoeglichkeiten-einzusetzen](https://www.spiegel.de/wirtschaft/soziales/london-aktivisten-befestigen-babytragen-an-statuen-um-sich-fuer-bessere-elternurlaubsmoeglichkeiten-einzusetzen-a-7b352724-f1fd-4670-b487-028f4c2c15f4#ref=rss)
+### statuen
 
-* [https://www.spiegel.de/ausland/billie-eilish-zur-us-wahl-waehlt-als-ob-euer-leben-davon-anhinge](https://www.spiegel.de/ausland/billie-eilish-zur-us-wahl-waehlt-als-ob-euer-leben-davon-anhinge-a-6201c4fc-ccfc-44b9-84df-ae3ff7001ce6#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-hisbollah-mitglieder-durch-explodierende-pager-in-beirut-und-im-sueden-libanons-verwundet](https://www.spiegel.de/ausland/israel-gaza-krieg-hisbollah-mitglieder-durch-explodierende-pager-in-beirut-und-im-sueden-libanons-verwundet-a-8d9a237f-fdeb-4377-9394-9f0be7783816#ref=rss)
-### unterstützung
+* [https://www.spiegel.de/wirtschaft/soziales/london-aktivisten-befestigen-babytragen-an-statuen-um-sich-fuer-bessere-elternurlaubsmoeglichkeiten-einzusetzen](https://www.spiegel.de/wirtschaft/soziales/london-aktivisten-befestigen-babytragen-an-statuen-um-sich-fuer-bessere-elternurlaubsmoeglichkeiten-einzusetzen-a-7b352724-f1fd-4670-b487-028f4c2c15f4#ref=rss)
+### großbritannien
 
-* [https://www.spiegel.de/ausland/billie-eilish-zur-us-wahl-waehlt-als-ob-euer-leben-davon-anhinge](https://www.spiegel.de/ausland/billie-eilish-zur-us-wahl-waehlt-als-ob-euer-leben-davon-anhinge-a-6201c4fc-ccfc-44b9-84df-ae3ff7001ce6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-boris-pistorius-hofft-auf-frisches-geld-fuer-waffenhilfe](https://www.spiegel.de/politik/deutschland/ukraine-krieg-boris-pistorius-hofft-auf-frisches-geld-fuer-waffenhilfe-a-502297e3-92c4-4ff6-b48e-0c64b73aebe0#ref=rss)
-### donald
+* [https://www.spiegel.de/wirtschaft/soziales/london-aktivisten-befestigen-babytragen-an-statuen-um-sich-fuer-bessere-elternurlaubsmoeglichkeiten-einzusetzen](https://www.spiegel.de/wirtschaft/soziales/london-aktivisten-befestigen-babytragen-an-statuen-um-sich-fuer-bessere-elternurlaubsmoeglichkeiten-einzusetzen-a-7b352724-f1fd-4670-b487-028f4c2c15f4#ref=rss)
+* [https://www.spiegel.de/panorama/grossbritannien-eichhoernchen-attacke-im-zug-fahrt-abgebrochen](https://www.spiegel.de/panorama/grossbritannien-eichhoernchen-attacke-im-zug-fahrt-abgebrochen-a-05a3fa42-41b7-4057-9a41-272a2cc789d7#ref=rss)
+### ändern
 
-* [https://www.spiegel.de/ausland/donald-trump-was-der-verdaechtige-ryan-routh-mit-der-ukraine-zu-tun-hat](https://www.spiegel.de/ausland/donald-trump-was-der-verdaechtige-ryan-routh-mit-der-ukraine-zu-tun-hat-a-f6621d1b-b260-4790-8380-d855a3a10043#ref=rss)
-### trump
+* [https://www.spiegel.de/wirtschaft/soziales/london-aktivisten-befestigen-babytragen-an-statuen-um-sich-fuer-bessere-elternurlaubsmoeglichkeiten-einzusetzen](https://www.spiegel.de/wirtschaft/soziales/london-aktivisten-befestigen-babytragen-an-statuen-um-sich-fuer-bessere-elternurlaubsmoeglichkeiten-einzusetzen-a-7b352724-f1fd-4670-b487-028f4c2c15f4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rohstoff-fonds-der-bundesregierung-kann-starten](https://www.spiegel.de/wirtschaft/soziales/rohstoff-fonds-der-bundesregierung-kann-starten-a-9f1bf9a9-f798-4d39-9ab7-951447cfb234#ref=rss)
+### fotos
 
-* [https://www.spiegel.de/ausland/donald-trump-was-der-verdaechtige-ryan-routh-mit-der-ukraine-zu-tun-hat](https://www.spiegel.de/ausland/donald-trump-was-der-verdaechtige-ryan-routh-mit-der-ukraine-zu-tun-hat-a-f6621d1b-b260-4790-8380-d855a3a10043#ref=rss)
-### ryan
+* [https://www.spiegel.de/panorama/bayesian-drama-das-sind-die-vielleicht-letzten-fotos-des-gesunkenen-schiffs](https://www.spiegel.de/panorama/bayesian-drama-das-sind-die-vielleicht-letzten-fotos-des-gesunkenen-schiffs-a-cfc0ecf7-621c-4ce9-ad80-f4f4d1f9297f#ref=rss)
+### parton
 
-* [https://www.spiegel.de/ausland/donald-trump-was-der-verdaechtige-ryan-routh-mit-der-ukraine-zu-tun-hat](https://www.spiegel.de/ausland/donald-trump-was-der-verdaechtige-ryan-routh-mit-der-ukraine-zu-tun-hat-a-f6621d1b-b260-4790-8380-d855a3a10043#ref=rss)
-### routh
+* [https://www.spiegel.de/kultur/musik/dolly-parton-kann-verstehen-dass-beyonce-keine-cma-nominierung-bekommen-hat](https://www.spiegel.de/kultur/musik/dolly-parton-kann-verstehen-dass-beyonce-keine-cma-nominierung-bekommen-hat-a-87c852cb-8269-4d5a-9112-c5033d8fa870#ref=rss)
+### beyoncé
 
-* [https://www.spiegel.de/ausland/donald-trump-was-der-verdaechtige-ryan-routh-mit-der-ukraine-zu-tun-hat](https://www.spiegel.de/ausland/donald-trump-was-der-verdaechtige-ryan-routh-mit-der-ukraine-zu-tun-hat-a-f6621d1b-b260-4790-8380-d855a3a10043#ref=rss)
-### olaf
+* [https://www.spiegel.de/kultur/musik/dolly-parton-kann-verstehen-dass-beyonce-keine-cma-nominierung-bekommen-hat](https://www.spiegel.de/kultur/musik/dolly-parton-kann-verstehen-dass-beyonce-keine-cma-nominierung-bekommen-hat-a-87c852cb-8269-4d5a-9112-c5033d8fa870#ref=rss)
+### album
 
-* [https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-gegen-olaf-scholz-die-unbeliebten](https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-gegen-olaf-scholz-die-unbeliebten-a-edbf4396-7181-4d8c-b87f-36045dd9fe1f#ref=rss)
-### scholz
+* [https://www.spiegel.de/kultur/musik/dolly-parton-kann-verstehen-dass-beyonce-keine-cma-nominierung-bekommen-hat](https://www.spiegel.de/kultur/musik/dolly-parton-kann-verstehen-dass-beyonce-keine-cma-nominierung-bekommen-hat-a-87c852cb-8269-4d5a-9112-c5033d8fa870#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-gegen-olaf-scholz-die-unbeliebten](https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-gegen-olaf-scholz-die-unbeliebten-a-edbf4396-7181-4d8c-b87f-36045dd9fe1f#ref=rss)
-### kanzlerkandidatur
+* [https://www.spiegel.de/sport/formel1/formel-1-red-bull-verzichtet-offenbar-auf-sonderlackierung-um-gewicht-zu-sparen](https://www.spiegel.de/sport/formel1/formel-1-red-bull-verzichtet-offenbar-auf-sonderlackierung-um-gewicht-zu-sparen-a-fc3ba306-b955-44cc-a305-f3b70c20c98c#ref=rss)
+* [https://www.spiegel.de/sport/ukrainischer-box-weltmeister-usyk-offenbar-kurzzeitig-in-polen-festgenommen](https://www.spiegel.de/sport/ukrainischer-box-weltmeister-usyk-offenbar-kurzzeitig-in-polen-festgenommen-a-4b4bc3b2-6921-431e-980d-d9bfeaf8a599#ref=rss)
+### medienberichten
 
-* [https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-gegen-olaf-scholz-die-unbeliebten](https://www.spiegel.de/politik/deutschland/cdu-kanzlerkandidat-friedrich-merz-gegen-olaf-scholz-die-unbeliebten-a-edbf4396-7181-4d8c-b87f-36045dd9fe1f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/reaktionen-auf-friedrich-merz-kanzlerkandidatur-fuer-die-union](https://www.spiegel.de/politik/deutschland/reaktionen-auf-friedrich-merz-kanzlerkandidatur-fuer-die-union-a-1e0cb0d6-38c9-4c78-ab0c-a2253e349eba#ref=rss)
-### zwölf
+* [https://www.spiegel.de/sport/formel1/formel-1-red-bull-verzichtet-offenbar-auf-sonderlackierung-um-gewicht-zu-sparen](https://www.spiegel.de/sport/formel1/formel-1-red-bull-verzichtet-offenbar-auf-sonderlackierung-um-gewicht-zu-sparen-a-fc3ba306-b955-44cc-a305-f3b70c20c98c#ref=rss)
+* [https://www.spiegel.de/sport/ukrainischer-box-weltmeister-usyk-offenbar-kurzzeitig-in-polen-festgenommen](https://www.spiegel.de/sport/ukrainischer-box-weltmeister-usyk-offenbar-kurzzeitig-in-polen-festgenommen-a-4b4bc3b2-6921-431e-980d-d9bfeaf8a599#ref=rss)
+### zufolge
 
-* [https://www.spiegel.de/wirtschaft/zwoelf-milliarden-euro-fuer-start-ups](https://www.spiegel.de/wirtschaft/zwoelf-milliarden-euro-fuer-start-ups-a-c1088a7f-b2a6-4b0f-a55c-a28c41e6a68c#ref=rss)
-### milliarden
+* [https://www.spiegel.de/sport/formel1/formel-1-red-bull-verzichtet-offenbar-auf-sonderlackierung-um-gewicht-zu-sparen](https://www.spiegel.de/sport/formel1/formel-1-red-bull-verzichtet-offenbar-auf-sonderlackierung-um-gewicht-zu-sparen-a-fc3ba306-b955-44cc-a305-f3b70c20c98c#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/mrbeast-kandidaten-verklagen-youtube-star-wegen-chronischer-misshandlung](https://www.spiegel.de/netzwelt/web/mrbeast-kandidaten-verklagen-youtube-star-wegen-chronischer-misshandlung-a-645119c0-25e9-4cb9-a5a0-168a76f66fae#ref=rss)
+### starten
 
-* [https://www.spiegel.de/wirtschaft/zwoelf-milliarden-euro-fuer-start-ups](https://www.spiegel.de/wirtschaft/zwoelf-milliarden-euro-fuer-start-ups-a-c1088a7f-b2a6-4b0f-a55c-a28c41e6a68c#ref=rss)
-### euro
+* [https://www.spiegel.de/sport/formel1/formel-1-red-bull-verzichtet-offenbar-auf-sonderlackierung-um-gewicht-zu-sparen](https://www.spiegel.de/sport/formel1/formel-1-red-bull-verzichtet-offenbar-auf-sonderlackierung-um-gewicht-zu-sparen-a-fc3ba306-b955-44cc-a305-f3b70c20c98c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rohstoff-fonds-der-bundesregierung-kann-starten](https://www.spiegel.de/wirtschaft/soziales/rohstoff-fonds-der-bundesregierung-kann-starten-a-9f1bf9a9-f798-4d39-9ab7-951447cfb234#ref=rss)
+### mrbeast
 
-* [https://www.spiegel.de/wirtschaft/zwoelf-milliarden-euro-fuer-start-ups](https://www.spiegel.de/wirtschaft/zwoelf-milliarden-euro-fuer-start-ups-a-c1088a7f-b2a6-4b0f-a55c-a28c41e6a68c#ref=rss)
-### finanzminister
+* [https://www.spiegel.de/netzwelt/web/mrbeast-kandidaten-verklagen-youtube-star-wegen-chronischer-misshandlung](https://www.spiegel.de/netzwelt/web/mrbeast-kandidaten-verklagen-youtube-star-wegen-chronischer-misshandlung-a-645119c0-25e9-4cb9-a5a0-168a76f66fae#ref=rss)
+### kandidaten
 
-* [https://www.spiegel.de/wirtschaft/zwoelf-milliarden-euro-fuer-start-ups](https://www.spiegel.de/wirtschaft/zwoelf-milliarden-euro-fuer-start-ups-a-c1088a7f-b2a6-4b0f-a55c-a28c41e6a68c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-boris-pistorius-hofft-auf-frisches-geld-fuer-waffenhilfe](https://www.spiegel.de/politik/deutschland/ukraine-krieg-boris-pistorius-hofft-auf-frisches-geld-fuer-waffenhilfe-a-502297e3-92c4-4ff6-b48e-0c64b73aebe0#ref=rss)
-### lindner
+* [https://www.spiegel.de/netzwelt/web/mrbeast-kandidaten-verklagen-youtube-star-wegen-chronischer-misshandlung](https://www.spiegel.de/netzwelt/web/mrbeast-kandidaten-verklagen-youtube-star-wegen-chronischer-misshandlung-a-645119c0-25e9-4cb9-a5a0-168a76f66fae#ref=rss)
+### erreicht
 
-* [https://www.spiegel.de/wirtschaft/zwoelf-milliarden-euro-fuer-start-ups](https://www.spiegel.de/wirtschaft/zwoelf-milliarden-euro-fuer-start-ups-a-c1088a7f-b2a6-4b0f-a55c-a28c41e6a68c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-boris-pistorius-hofft-auf-frisches-geld-fuer-waffenhilfe](https://www.spiegel.de/politik/deutschland/ukraine-krieg-boris-pistorius-hofft-auf-frisches-geld-fuer-waffenhilfe-a-502297e3-92c4-4ff6-b48e-0c64b73aebe0#ref=rss)
-### ard
+* [https://www.spiegel.de/netzwelt/web/mrbeast-kandidaten-verklagen-youtube-star-wegen-chronischer-misshandlung](https://www.spiegel.de/netzwelt/web/mrbeast-kandidaten-verklagen-youtube-star-wegen-chronischer-misshandlung-a-645119c0-25e9-4cb9-a5a0-168a76f66fae#ref=rss)
+* [https://www.spiegel.de/panorama/dresden-wasserstand-der-elbe-erreicht-sechs-meter-marke](https://www.spiegel.de/panorama/dresden-wasserstand-der-elbe-erreicht-sechs-meter-marke-a-9ce21f3e-d305-4f3c-a3a9-46ed69f3bfd4#ref=rss)
+### fahrt
 
-* [https://www.spiegel.de/wirtschaft/ard-afd-gegner-gekauft-das-ist-dran-an-den-vorwuerfen-gegen-die-ard](https://www.spiegel.de/wirtschaft/ard-afd-gegner-gekauft-das-ist-dran-an-den-vorwuerfen-gegen-die-ard-a-cd54a576-d15b-44d4-8a12-3cce8e681563#ref=rss)
-### armut
+* [https://www.spiegel.de/panorama/grossbritannien-eichhoernchen-attacke-im-zug-fahrt-abgebrochen](https://www.spiegel.de/panorama/grossbritannien-eichhoernchen-attacke-im-zug-fahrt-abgebrochen-a-05a3fa42-41b7-4057-9a41-272a2cc789d7#ref=rss)
+### flughafen
 
-* [https://www.spiegel.de/familie/kinderarmut-armut-ist-das-gefuehl-etwas-zu-verpassen](https://www.spiegel.de/familie/kinderarmut-armut-ist-das-gefuehl-etwas-zu-verpassen-a-0662e8c3-399e-4fad-b0ad-ef7c0f943cd1#ref=rss)
-### sagt
+* [https://www.spiegel.de/panorama/grossbritannien-eichhoernchen-attacke-im-zug-fahrt-abgebrochen](https://www.spiegel.de/panorama/grossbritannien-eichhoernchen-attacke-im-zug-fahrt-abgebrochen-a-05a3fa42-41b7-4057-9a41-272a2cc789d7#ref=rss)
+* [https://www.spiegel.de/sport/ukrainischer-box-weltmeister-usyk-offenbar-kurzzeitig-in-polen-festgenommen](https://www.spiegel.de/sport/ukrainischer-box-weltmeister-usyk-offenbar-kurzzeitig-in-polen-festgenommen-a-4b4bc3b2-6921-431e-980d-d9bfeaf8a599#ref=rss)
+### joe
 
-* [https://www.spiegel.de/familie/kinderarmut-armut-ist-das-gefuehl-etwas-zu-verpassen](https://www.spiegel.de/familie/kinderarmut-armut-ist-das-gefuehl-etwas-zu-verpassen-a-0662e8c3-399e-4fad-b0ad-ef7c0f943cd1#ref=rss)
-* [https://www.spiegel.de/ausland/dominique-pelicot-sagt-im-vergewaltigungsfall-in-avignon-aus-ich-habe-alles-vermasselt](https://www.spiegel.de/ausland/dominique-pelicot-sagt-im-vergewaltigungsfall-in-avignon-aus-ich-habe-alles-vermasselt-a-76bd35f7-2095-42ed-94ee-d1cbb6dd62ae#ref=rss)
-### beirut
+* [https://www.spiegel.de/geschichte/berlins-kultursenator-joe-chialo-ueber-rassismuserfahrungen-ich-stehe-als-verletzter-nicht-zur-verfuegung](https://www.spiegel.de/geschichte/berlins-kultursenator-joe-chialo-ueber-rassismuserfahrungen-ich-stehe-als-verletzter-nicht-zur-verfuegung-a-f2cce6ed-62f2-4c54-a38f-7fb663435044#ref=rss)
+### chialo
 
-* [https://www.spiegel.de/ausland/beirut-hisbollah-pager-explodiert-in-supermarkt-ueberwachungskamera-filmt-vorfall](https://www.spiegel.de/ausland/beirut-hisbollah-pager-explodiert-in-supermarkt-ueberwachungskamera-filmt-vorfall-a-325b332c-b5bf-4408-a6f4-91d750da3f9e#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-hisbollah-mitglieder-durch-explodierende-pager-in-beirut-und-im-sueden-libanons-verwundet](https://www.spiegel.de/ausland/israel-gaza-krieg-hisbollah-mitglieder-durch-explodierende-pager-in-beirut-und-im-sueden-libanons-verwundet-a-8d9a237f-fdeb-4377-9394-9f0be7783816#ref=rss)
-### explodiert
+* [https://www.spiegel.de/geschichte/berlins-kultursenator-joe-chialo-ueber-rassismuserfahrungen-ich-stehe-als-verletzter-nicht-zur-verfuegung](https://www.spiegel.de/geschichte/berlins-kultursenator-joe-chialo-ueber-rassismuserfahrungen-ich-stehe-als-verletzter-nicht-zur-verfuegung-a-f2cce6ed-62f2-4c54-a38f-7fb663435044#ref=rss)
+### wenigen
 
-* [https://www.spiegel.de/ausland/beirut-hisbollah-pager-explodiert-in-supermarkt-ueberwachungskamera-filmt-vorfall](https://www.spiegel.de/ausland/beirut-hisbollah-pager-explodiert-in-supermarkt-ueberwachungskamera-filmt-vorfall-a-325b332c-b5bf-4408-a6f4-91d750da3f9e#ref=rss)
-### sehen
+* [https://www.spiegel.de/geschichte/berlins-kultursenator-joe-chialo-ueber-rassismuserfahrungen-ich-stehe-als-verletzter-nicht-zur-verfuegung](https://www.spiegel.de/geschichte/berlins-kultursenator-joe-chialo-ueber-rassismuserfahrungen-ich-stehe-als-verletzter-nicht-zur-verfuegung-a-f2cce6ed-62f2-4c54-a38f-7fb663435044#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rohstoff-fonds-der-bundesregierung-kann-starten](https://www.spiegel.de/wirtschaft/soziales/rohstoff-fonds-der-bundesregierung-kann-starten-a-9f1bf9a9-f798-4d39-9ab7-951447cfb234#ref=rss)
+### usedom
 
-* [https://www.spiegel.de/ausland/beirut-hisbollah-pager-explodiert-in-supermarkt-ueberwachungskamera-filmt-vorfall](https://www.spiegel.de/ausland/beirut-hisbollah-pager-explodiert-in-supermarkt-ueberwachungskamera-filmt-vorfall-a-325b332c-b5bf-4408-a6f4-91d750da3f9e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/supermond-mit-partieller-mondfinsternis-heute-nacht-so-stehen-die-chancen-auf-gute-sicht](https://www.spiegel.de/wissenschaft/natur/supermond-mit-partieller-mondfinsternis-heute-nacht-so-stehen-die-chancen-auf-gute-sicht-a-e333c635-78ec-42ad-a909-653f40856667#ref=rss)
-### moment
+* [https://www.spiegel.de/panorama/usedom-elch-nimmt-bad-in-der-ostsee](https://www.spiegel.de/panorama/usedom-elch-nimmt-bad-in-der-ostsee-a-74fdc58a-ef64-4055-9265-3d62b633018e#ref=rss)
+### elch
 
-* [https://www.spiegel.de/ausland/beirut-hisbollah-pager-explodiert-in-supermarkt-ueberwachungskamera-filmt-vorfall](https://www.spiegel.de/ausland/beirut-hisbollah-pager-explodiert-in-supermarkt-ueberwachungskamera-filmt-vorfall-a-325b332c-b5bf-4408-a6f4-91d750da3f9e#ref=rss)
-* [https://www.spiegel.de/geschichte/oesterreich-widerstandskaempferin-melanie-berger-volle-spricht-in-wien-ueber-volkskanzler-und-die-kunst-des-neinsagens](https://www.spiegel.de/geschichte/oesterreich-widerstandskaempferin-melanie-berger-volle-spricht-in-wien-ueber-volkskanzler-und-die-kunst-des-neinsagens-a-8c13b212-c5cc-43d5-a618-23da0281b7b8#ref=rss)
-### italien
+* [https://www.spiegel.de/panorama/usedom-elch-nimmt-bad-in-der-ostsee](https://www.spiegel.de/panorama/usedom-elch-nimmt-bad-in-der-ostsee-a-74fdc58a-ef64-4055-9265-3d62b633018e#ref=rss)
+### nimmt
 
-* [https://www.spiegel.de/panorama/italien-warnung-fuer-urlauber-diese-staedte-gelten-als-besonders-gefaehrlich](https://www.spiegel.de/panorama/italien-warnung-fuer-urlauber-diese-staedte-gelten-als-besonders-gefaehrlich-a-1f7f9a51-9879-4bb3-b640-46e581b8e223#ref=rss)
-### städte
+* [https://www.spiegel.de/panorama/usedom-elch-nimmt-bad-in-der-ostsee](https://www.spiegel.de/panorama/usedom-elch-nimmt-bad-in-der-ostsee-a-74fdc58a-ef64-4055-9265-3d62b633018e#ref=rss)
+* [https://www.spiegel.de/panorama/leute/prinzessin-kate-nimmt-erstes-arbeitstreffen-seit-krebsbehandlung-wahr](https://www.spiegel.de/panorama/leute/prinzessin-kate-nimmt-erstes-arbeitstreffen-seit-krebsbehandlung-wahr-a-9b449656-8075-4f4b-8885-6e83edbff3c7#ref=rss)
+### wasser
 
-* [https://www.spiegel.de/panorama/italien-warnung-fuer-urlauber-diese-staedte-gelten-als-besonders-gefaehrlich](https://www.spiegel.de/panorama/italien-warnung-fuer-urlauber-diese-staedte-gelten-als-besonders-gefaehrlich-a-1f7f9a51-9879-4bb3-b640-46e581b8e223#ref=rss)
-### besonders
+* [https://www.spiegel.de/panorama/usedom-elch-nimmt-bad-in-der-ostsee](https://www.spiegel.de/panorama/usedom-elch-nimmt-bad-in-der-ostsee-a-74fdc58a-ef64-4055-9265-3d62b633018e#ref=rss)
+* [https://www.spiegel.de/panorama/leute/julian-nagelsmann-kommen-bei-nationalhymne-die-traenen](https://www.spiegel.de/panorama/leute/julian-nagelsmann-kommen-bei-nationalhymne-die-traenen-a-d02bae11-50b8-4d9a-a573-31fd93a21b2f#ref=rss)
+### einsatz
 
-* [https://www.spiegel.de/panorama/italien-warnung-fuer-urlauber-diese-staedte-gelten-als-besonders-gefaehrlich](https://www.spiegel.de/panorama/italien-warnung-fuer-urlauber-diese-staedte-gelten-als-besonders-gefaehrlich-a-1f7f9a51-9879-4bb3-b640-46e581b8e223#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/supermond-mit-partieller-mondfinsternis-heute-nacht-so-stehen-die-chancen-auf-gute-sicht](https://www.spiegel.de/wissenschaft/natur/supermond-mit-partieller-mondfinsternis-heute-nacht-so-stehen-die-chancen-auf-gute-sicht-a-e333c635-78ec-42ad-a909-653f40856667#ref=rss)
-### mehr
+* [https://www.spiegel.de/panorama/usedom-elch-nimmt-bad-in-der-ostsee](https://www.spiegel.de/panorama/usedom-elch-nimmt-bad-in-der-ostsee-a-74fdc58a-ef64-4055-9265-3d62b633018e#ref=rss)
+* [https://www.spiegel.de/kultur/kate-winslet-im-kinofilm-die-fotografin-wer-war-die-frau-in-hitlers-badewanne](https://www.spiegel.de/kultur/kate-winslet-im-kinofilm-die-fotografin-wer-war-die-frau-in-hitlers-badewanne-a-7b224f14-bf27-45db-9f34-d31a13af7b30#ref=rss)
+### überschwemmt
 
-* [https://www.spiegel.de/ausland/700-000-tote-eu-weit-im-jahr-durch-rauchen-eu-kommission-fordert-mehr-rauchfreie-zonen](https://www.spiegel.de/ausland/700-000-tote-eu-weit-im-jahr-durch-rauchen-eu-kommission-fordert-mehr-rauchfreie-zonen-a-ec980393-218b-4297-bc73-774fecfe654c#ref=rss)
-* [https://www.spiegel.de/panorama/abschiebungen-flugzeug-von-hamburg-nach-serbien-und-mazedonien-gestartet](https://www.spiegel.de/panorama/abschiebungen-flugzeug-von-hamburg-nach-serbien-und-mazedonien-gestartet-a-d15b19b3-a2f8-4ff8-ade0-8c2056554cee#ref=rss)
-### liegt
-
-* [https://www.spiegel.de/ausland/700-000-tote-eu-weit-im-jahr-durch-rauchen-eu-kommission-fordert-mehr-rauchfreie-zonen](https://www.spiegel.de/ausland/700-000-tote-eu-weit-im-jahr-durch-rauchen-eu-kommission-fordert-mehr-rauchfreie-zonen-a-ec980393-218b-4297-bc73-774fecfe654c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/elektroautos-in-norwegen-benziner-und-diesel-bald-geschichte](https://www.spiegel.de/wissenschaft/elektroautos-in-norwegen-benziner-und-diesel-bald-geschichte-a-f253d02b-79d9-4694-a808-eea1f4a6c36a#ref=rss)
-### hochwasser
-
-* [https://www.spiegel.de/ausland/hochwasser-in-europa-helikopter-rettet-feuerwehrleute-aus-den-ueberschwemmungen](https://www.spiegel.de/ausland/hochwasser-in-europa-helikopter-rettet-feuerwehrleute-aus-den-ueberschwemmungen-a-2e96a02f-85d5-4529-b006-b0aea8ac282a#ref=rss)
-* [https://www.spiegel.de/ausland/polen-die-ortschaft-klodzko-wird-regemaessig-ueberflutet-diesmal-ist-es-schlimmer-als-beim-jahrhunderthochwasser-1997](https://www.spiegel.de/ausland/polen-die-ortschaft-klodzko-wird-regemaessig-ueberflutet-diesmal-ist-es-schlimmer-als-beim-jahrhunderthochwasser-1997-a-3f415dc0-5bc1-4ef2-bae2-264a1f176fbc#ref=rss)
-### europa
-
-* [https://www.spiegel.de/ausland/hochwasser-in-europa-helikopter-rettet-feuerwehrleute-aus-den-ueberschwemmungen](https://www.spiegel.de/ausland/hochwasser-in-europa-helikopter-rettet-feuerwehrleute-aus-den-ueberschwemmungen-a-2e96a02f-85d5-4529-b006-b0aea8ac282a#ref=rss)
-### feuerwehrleute
-
-* [https://www.spiegel.de/ausland/hochwasser-in-europa-helikopter-rettet-feuerwehrleute-aus-den-ueberschwemmungen](https://www.spiegel.de/ausland/hochwasser-in-europa-helikopter-rettet-feuerwehrleute-aus-den-ueberschwemmungen-a-2e96a02f-85d5-4529-b006-b0aea8ac282a#ref=rss)
-### fluten
-
-* [https://www.spiegel.de/ausland/hochwasser-in-europa-helikopter-rettet-feuerwehrleute-aus-den-ueberschwemmungen](https://www.spiegel.de/ausland/hochwasser-in-europa-helikopter-rettet-feuerwehrleute-aus-den-ueberschwemmungen-a-2e96a02f-85d5-4529-b006-b0aea8ac282a#ref=rss)
-* [https://www.spiegel.de/ausland/polen-die-ortschaft-klodzko-wird-regemaessig-ueberflutet-diesmal-ist-es-schlimmer-als-beim-jahrhunderthochwasser-1997](https://www.spiegel.de/ausland/polen-die-ortschaft-klodzko-wird-regemaessig-ueberflutet-diesmal-ist-es-schlimmer-als-beim-jahrhunderthochwasser-1997-a-3f415dc0-5bc1-4ef2-bae2-264a1f176fbc#ref=rss)
-### kłodzko
-
-* [https://www.spiegel.de/ausland/polen-die-ortschaft-klodzko-wird-regemaessig-ueberflutet-diesmal-ist-es-schlimmer-als-beim-jahrhunderthochwasser-1997](https://www.spiegel.de/ausland/polen-die-ortschaft-klodzko-wird-regemaessig-ueberflutet-diesmal-ist-es-schlimmer-als-beim-jahrhunderthochwasser-1997-a-3f415dc0-5bc1-4ef2-bae2-264a1f176fbc#ref=rss)
-### diesmal
-
-* [https://www.spiegel.de/ausland/polen-die-ortschaft-klodzko-wird-regemaessig-ueberflutet-diesmal-ist-es-schlimmer-als-beim-jahrhunderthochwasser-1997](https://www.spiegel.de/ausland/polen-die-ortschaft-klodzko-wird-regemaessig-ueberflutet-diesmal-ist-es-schlimmer-als-beim-jahrhunderthochwasser-1997-a-3f415dc0-5bc1-4ef2-bae2-264a1f176fbc#ref=rss)
-### schlimmer
-
-* [https://www.spiegel.de/ausland/polen-die-ortschaft-klodzko-wird-regemaessig-ueberflutet-diesmal-ist-es-schlimmer-als-beim-jahrhunderthochwasser-1997](https://www.spiegel.de/ausland/polen-die-ortschaft-klodzko-wird-regemaessig-ueberflutet-diesmal-ist-es-schlimmer-als-beim-jahrhunderthochwasser-1997-a-3f415dc0-5bc1-4ef2-bae2-264a1f176fbc#ref=rss)
-### 1997
-
-* [https://www.spiegel.de/ausland/polen-die-ortschaft-klodzko-wird-regemaessig-ueberflutet-diesmal-ist-es-schlimmer-als-beim-jahrhunderthochwasser-1997](https://www.spiegel.de/ausland/polen-die-ortschaft-klodzko-wird-regemaessig-ueberflutet-diesmal-ist-es-schlimmer-als-beim-jahrhunderthochwasser-1997-a-3f415dc0-5bc1-4ef2-bae2-264a1f176fbc#ref=rss)
-### ort
-
-* [https://www.spiegel.de/ausland/polen-die-ortschaft-klodzko-wird-regemaessig-ueberflutet-diesmal-ist-es-schlimmer-als-beim-jahrhunderthochwasser-1997](https://www.spiegel.de/ausland/polen-die-ortschaft-klodzko-wird-regemaessig-ueberflutet-diesmal-ist-es-schlimmer-als-beim-jahrhunderthochwasser-1997-a-3f415dc0-5bc1-4ef2-bae2-264a1f176fbc#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/hochwasser-warum-fordern-jetzt-nicht-alle-mehr-klimaschutz](https://www.spiegel.de/wissenschaft/mensch/hochwasser-warum-fordern-jetzt-nicht-alle-mehr-klimaschutz-a-caaadc7a-82b9-4029-a351-612fe3c77ed0#ref=rss)
+* [https://www.spiegel.de/panorama/dresden-wasserstand-der-elbe-erreicht-sechs-meter-marke](https://www.spiegel.de/panorama/dresden-wasserstand-der-elbe-erreicht-sechs-meter-marke-a-9ce21f3e-d305-4f3c-a3a9-46ed69f3bfd4#ref=rss)
 ### viele
 
-* [https://www.spiegel.de/ausland/polen-die-ortschaft-klodzko-wird-regemaessig-ueberflutet-diesmal-ist-es-schlimmer-als-beim-jahrhunderthochwasser-1997](https://www.spiegel.de/ausland/polen-die-ortschaft-klodzko-wird-regemaessig-ueberflutet-diesmal-ist-es-schlimmer-als-beim-jahrhunderthochwasser-1997-a-3f415dc0-5bc1-4ef2-bae2-264a1f176fbc#ref=rss)
-* [https://www.spiegel.de/panorama/abschiebungen-flugzeug-von-hamburg-nach-serbien-und-mazedonien-gestartet](https://www.spiegel.de/panorama/abschiebungen-flugzeug-von-hamburg-nach-serbien-und-mazedonien-gestartet-a-d15b19b3-a2f8-4ff8-ade0-8c2056554cee#ref=rss)
-### bornholm
+* [https://www.spiegel.de/wissenschaft/mensch/hochwasser-warum-fordern-jetzt-nicht-alle-mehr-klimaschutz](https://www.spiegel.de/wissenschaft/mensch/hochwasser-warum-fordern-jetzt-nicht-alle-mehr-klimaschutz-a-caaadc7a-82b9-4029-a351-612fe3c77ed0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/rechtsschutzversicherung-fuer-wen-sie-sich-wirklich-lohnt](https://www.spiegel.de/wirtschaft/service/rechtsschutzversicherung-fuer-wen-sie-sich-wirklich-lohnt-a-7d484690-3ddc-4010-ae56-e0910d34ab0c#ref=rss)
+### peter
 
-* [https://www.spiegel.de/panorama/daenemark-anderthalb-meter-langer-walpenis-auf-bornholm-angespuelt](https://www.spiegel.de/panorama/daenemark-anderthalb-meter-langer-walpenis-auf-bornholm-angespuelt-a-df0a0de4-5132-4e25-b518-3f4399569339#ref=rss)
-### angespült
+* [https://www.spiegel.de/wissenschaft/mensch/hochwasser-warum-fordern-jetzt-nicht-alle-mehr-klimaschutz](https://www.spiegel.de/wissenschaft/mensch/hochwasser-warum-fordern-jetzt-nicht-alle-mehr-klimaschutz-a-caaadc7a-82b9-4029-a351-612fe3c77ed0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/intel-milliarden-dihk-fordert-entlastung-bei-strompreisen](https://www.spiegel.de/wirtschaft/service/intel-milliarden-dihk-fordert-entlastung-bei-strompreisen-a-1ec78b9d-fa70-4dab-8f17-9fb5e3933656#ref=rss)
+### uns
 
-* [https://www.spiegel.de/panorama/daenemark-anderthalb-meter-langer-walpenis-auf-bornholm-angespuelt](https://www.spiegel.de/panorama/daenemark-anderthalb-meter-langer-walpenis-auf-bornholm-angespuelt-a-df0a0de4-5132-4e25-b518-3f4399569339#ref=rss)
-### asylpolitik
+* [https://www.spiegel.de/wissenschaft/mensch/hochwasser-warum-fordern-jetzt-nicht-alle-mehr-klimaschutz](https://www.spiegel.de/wissenschaft/mensch/hochwasser-warum-fordern-jetzt-nicht-alle-mehr-klimaschutz-a-caaadc7a-82b9-4029-a351-612fe3c77ed0#ref=rss)
+### wir
 
-* [https://www.spiegel.de/ausland/niederlande-verkuenden-kurswechsel-in-der-asylpolitik](https://www.spiegel.de/ausland/niederlande-verkuenden-kurswechsel-in-der-asylpolitik-a-19c829d6-e388-412d-a41f-5b786c537a30#ref=rss)
-### schneller
+* [https://www.spiegel.de/wissenschaft/mensch/hochwasser-warum-fordern-jetzt-nicht-alle-mehr-klimaschutz](https://www.spiegel.de/wissenschaft/mensch/hochwasser-warum-fordern-jetzt-nicht-alle-mehr-klimaschutz-a-caaadc7a-82b9-4029-a351-612fe3c77ed0#ref=rss)
+* [https://www.spiegel.de/kultur/kate-winslet-die-fotografin-wir-frauen-lernen-immer-noch-kein-nein-zu-akzeptieren](https://www.spiegel.de/kultur/kate-winslet-die-fotografin-wir-frauen-lernen-immer-noch-kein-nein-zu-akzeptieren-a-a42f47ab-4d0c-44d6-a554-b8ccfdd4d6cd#ref=rss)
+### gilt
 
-* [https://www.spiegel.de/ausland/niederlande-verkuenden-kurswechsel-in-der-asylpolitik](https://www.spiegel.de/ausland/niederlande-verkuenden-kurswechsel-in-der-asylpolitik-a-19c829d6-e388-412d-a41f-5b786c537a30#ref=rss)
-* [https://www.spiegel.de/wissenschaft/elektroautos-in-norwegen-benziner-und-diesel-bald-geschichte](https://www.spiegel.de/wissenschaft/elektroautos-in-norwegen-benziner-und-diesel-bald-geschichte-a-f253d02b-79d9-4694-a808-eea1f4a6c36a#ref=rss)
-### avignon
+* [https://www.spiegel.de/politik/deutschland/spd-abgeordnete-warnen-davor-friedrich-merz-zu-unterschaetzen](https://www.spiegel.de/politik/deutschland/spd-abgeordnete-warnen-davor-friedrich-merz-zu-unterschaetzen-a-205aa4da-9d26-438c-a195-c99558d08cf7#ref=rss)
+* [https://www.spiegel.de/panorama/dresden-wasserstand-der-elbe-erreicht-sechs-meter-marke](https://www.spiegel.de/panorama/dresden-wasserstand-der-elbe-erreicht-sechs-meter-marke-a-9ce21f3e-d305-4f3c-a3a9-46ed69f3bfd4#ref=rss)
+### tiktok
 
-* [https://www.spiegel.de/ausland/dominique-pelicot-sagt-im-vergewaltigungsfall-in-avignon-aus-ich-habe-alles-vermasselt](https://www.spiegel.de/ausland/dominique-pelicot-sagt-im-vergewaltigungsfall-in-avignon-aus-ich-habe-alles-vermasselt-a-76bd35f7-2095-42ed-94ee-d1cbb6dd62ae#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/missbrauchsfall-von-avignon-dominique-pelicot-bittet-ehefrau-gisele-um-vergebung](https://www.spiegel.de/panorama/justiz/missbrauchsfall-von-avignon-dominique-pelicot-bittet-ehefrau-gisele-um-vergebung-a-0565ac44-26b0-4c73-9c98-0b8170195fc8#ref=rss)
-### jahre
+* [https://www.spiegel.de/kultur/musik/tiktok-jeder-vierte-hit-ging-vor-charteintritt-viral](https://www.spiegel.de/kultur/musik/tiktok-jeder-vierte-hit-ging-vor-charteintritt-viral-a-310b3c31-bb7c-47ba-9f16-2f4bc63f912d#ref=rss)
+### zahlen
 
-* [https://www.spiegel.de/ausland/dominique-pelicot-sagt-im-vergewaltigungsfall-in-avignon-aus-ich-habe-alles-vermasselt](https://www.spiegel.de/ausland/dominique-pelicot-sagt-im-vergewaltigungsfall-in-avignon-aus-ich-habe-alles-vermasselt-a-76bd35f7-2095-42ed-94ee-d1cbb6dd62ae#ref=rss)
-* [https://www.spiegel.de/geschichte/oesterreich-widerstandskaempferin-melanie-berger-volle-spricht-in-wien-ueber-volkskanzler-und-die-kunst-des-neinsagens](https://www.spiegel.de/geschichte/oesterreich-widerstandskaempferin-melanie-berger-volle-spricht-in-wien-ueber-volkskanzler-und-die-kunst-des-neinsagens-a-8c13b212-c5cc-43d5-a618-23da0281b7b8#ref=rss)
-### männern
+* [https://www.spiegel.de/kultur/musik/tiktok-jeder-vierte-hit-ging-vor-charteintritt-viral](https://www.spiegel.de/kultur/musik/tiktok-jeder-vierte-hit-ging-vor-charteintritt-viral-a-310b3c31-bb7c-47ba-9f16-2f4bc63f912d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/google-gericht-kassiert-milliardenstrafe-fuer-internetkonzern](https://www.spiegel.de/wirtschaft/unternehmen/google-gericht-kassiert-milliardenstrafe-fuer-internetkonzern-a-0995ee4f-0284-46e6-807e-4106f84f111f#ref=rss)
+### salvatore
 
-* [https://www.spiegel.de/ausland/dominique-pelicot-sagt-im-vergewaltigungsfall-in-avignon-aus-ich-habe-alles-vermasselt](https://www.spiegel.de/ausland/dominique-pelicot-sagt-im-vergewaltigungsfall-in-avignon-aus-ich-habe-alles-vermasselt-a-76bd35f7-2095-42ed-94ee-d1cbb6dd62ae#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/missbrauchsfall-von-avignon-dominique-pelicot-bittet-ehefrau-gisele-um-vergebung](https://www.spiegel.de/panorama/justiz/missbrauchsfall-von-avignon-dominique-pelicot-bittet-ehefrau-gisele-um-vergebung-a-0565ac44-26b0-4c73-9c98-0b8170195fc8#ref=rss)
-### watergate
+* [https://www.spiegel.de/sport/fussball/fussball-italiens-wm-held-salvatore-toto-schillaci-ist-tot](https://www.spiegel.de/sport/fussball/fussball-italiens-wm-held-salvatore-toto-schillaci-ist-tot-a-8dded942-c27b-44e8-bdd9-a89f89ac2ccb#ref=rss)
+### schillaci
 
-* [https://www.spiegel.de/kultur/watergate-in-berlin-kreuzberg-beruehmter-techno-club-schliesst-zum-ende-des-jahres](https://www.spiegel.de/kultur/watergate-in-berlin-kreuzberg-beruehmter-techno-club-schliesst-zum-ende-des-jahres-a-82cc4c86-15ec-478e-9b05-e1e6021bf763#ref=rss)
-### widerstandskämpferin
+* [https://www.spiegel.de/sport/fussball/fussball-italiens-wm-held-salvatore-toto-schillaci-ist-tot](https://www.spiegel.de/sport/fussball/fussball-italiens-wm-held-salvatore-toto-schillaci-ist-tot-a-8dded942-c27b-44e8-bdd9-a89f89ac2ccb#ref=rss)
+### lee
 
-* [https://www.spiegel.de/geschichte/oesterreich-widerstandskaempferin-melanie-berger-volle-spricht-in-wien-ueber-volkskanzler-und-die-kunst-des-neinsagens](https://www.spiegel.de/geschichte/oesterreich-widerstandskaempferin-melanie-berger-volle-spricht-in-wien-ueber-volkskanzler-und-die-kunst-des-neinsagens-a-8c13b212-c5cc-43d5-a618-23da0281b7b8#ref=rss)
-### mélanie
+* [https://www.spiegel.de/kultur/kate-winslet-die-fotografin-wir-frauen-lernen-immer-noch-kein-nein-zu-akzeptieren](https://www.spiegel.de/kultur/kate-winslet-die-fotografin-wir-frauen-lernen-immer-noch-kein-nein-zu-akzeptieren-a-a42f47ab-4d0c-44d6-a554-b8ccfdd4d6cd#ref=rss)
+* [https://www.spiegel.de/kultur/kate-winslet-im-kinofilm-die-fotografin-wer-war-die-frau-in-hitlers-badewanne](https://www.spiegel.de/kultur/kate-winslet-im-kinofilm-die-fotografin-wer-war-die-frau-in-hitlers-badewanne-a-7b224f14-bf27-45db-9f34-d31a13af7b30#ref=rss)
+### miller
 
-* [https://www.spiegel.de/geschichte/oesterreich-widerstandskaempferin-melanie-berger-volle-spricht-in-wien-ueber-volkskanzler-und-die-kunst-des-neinsagens](https://www.spiegel.de/geschichte/oesterreich-widerstandskaempferin-melanie-berger-volle-spricht-in-wien-ueber-volkskanzler-und-die-kunst-des-neinsagens-a-8c13b212-c5cc-43d5-a618-23da0281b7b8#ref=rss)
-### bergervolle
+* [https://www.spiegel.de/kultur/kate-winslet-die-fotografin-wir-frauen-lernen-immer-noch-kein-nein-zu-akzeptieren](https://www.spiegel.de/kultur/kate-winslet-die-fotografin-wir-frauen-lernen-immer-noch-kein-nein-zu-akzeptieren-a-a42f47ab-4d0c-44d6-a554-b8ccfdd4d6cd#ref=rss)
+* [https://www.spiegel.de/kultur/kate-winslet-im-kinofilm-die-fotografin-wer-war-die-frau-in-hitlers-badewanne](https://www.spiegel.de/kultur/kate-winslet-im-kinofilm-die-fotografin-wer-war-die-frau-in-hitlers-badewanne-a-7b224f14-bf27-45db-9f34-d31a13af7b30#ref=rss)
+### portugal
 
-* [https://www.spiegel.de/geschichte/oesterreich-widerstandskaempferin-melanie-berger-volle-spricht-in-wien-ueber-volkskanzler-und-die-kunst-des-neinsagens](https://www.spiegel.de/geschichte/oesterreich-widerstandskaempferin-melanie-berger-volle-spricht-in-wien-ueber-volkskanzler-und-die-kunst-des-neinsagens-a-8c13b212-c5cc-43d5-a618-23da0281b7b8#ref=rss)
-### wien
+* [https://www.spiegel.de/ausland/waldbraende-in-portugal-loeschflugzeuge-aus-nachbarlaendern-unterstuetzen-brandbekaempfung](https://www.spiegel.de/ausland/waldbraende-in-portugal-loeschflugzeuge-aus-nachbarlaendern-unterstuetzen-brandbekaempfung-a-256b5511-da6e-4a86-af9a-3b7bb713e63d#ref=rss)
+### löschflugzeuge
 
-* [https://www.spiegel.de/geschichte/oesterreich-widerstandskaempferin-melanie-berger-volle-spricht-in-wien-ueber-volkskanzler-und-die-kunst-des-neinsagens](https://www.spiegel.de/geschichte/oesterreich-widerstandskaempferin-melanie-berger-volle-spricht-in-wien-ueber-volkskanzler-und-die-kunst-des-neinsagens-a-8c13b212-c5cc-43d5-a618-23da0281b7b8#ref=rss)
-### volkskanzler
+* [https://www.spiegel.de/ausland/waldbraende-in-portugal-loeschflugzeuge-aus-nachbarlaendern-unterstuetzen-brandbekaempfung](https://www.spiegel.de/ausland/waldbraende-in-portugal-loeschflugzeuge-aus-nachbarlaendern-unterstuetzen-brandbekaempfung-a-256b5511-da6e-4a86-af9a-3b7bb713e63d#ref=rss)
+### nachbarländern
 
-* [https://www.spiegel.de/geschichte/oesterreich-widerstandskaempferin-melanie-berger-volle-spricht-in-wien-ueber-volkskanzler-und-die-kunst-des-neinsagens](https://www.spiegel.de/geschichte/oesterreich-widerstandskaempferin-melanie-berger-volle-spricht-in-wien-ueber-volkskanzler-und-die-kunst-des-neinsagens-a-8c13b212-c5cc-43d5-a618-23da0281b7b8#ref=rss)
-### reinhold
+* [https://www.spiegel.de/ausland/waldbraende-in-portugal-loeschflugzeuge-aus-nachbarlaendern-unterstuetzen-brandbekaempfung](https://www.spiegel.de/ausland/waldbraende-in-portugal-loeschflugzeuge-aus-nachbarlaendern-unterstuetzen-brandbekaempfung-a-256b5511-da6e-4a86-af9a-3b7bb713e63d#ref=rss)
+### unterstützen
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-us-chiphersteller-intel-reinhold-messner](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-us-chiphersteller-intel-reinhold-messner-a-7991f67d-8168-4d7e-bf62-503346308076#ref=rss)
-### messner
+* [https://www.spiegel.de/ausland/waldbraende-in-portugal-loeschflugzeuge-aus-nachbarlaendern-unterstuetzen-brandbekaempfung](https://www.spiegel.de/ausland/waldbraende-in-portugal-loeschflugzeuge-aus-nachbarlaendern-unterstuetzen-brandbekaempfung-a-256b5511-da6e-4a86-af9a-3b7bb713e63d#ref=rss)
+### brandbekämpfung
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-us-chiphersteller-intel-reinhold-messner](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-us-chiphersteller-intel-reinhold-messner-a-7991f67d-8168-4d7e-bf62-503346308076#ref=rss)
-### leyen
+* [https://www.spiegel.de/ausland/waldbraende-in-portugal-loeschflugzeuge-aus-nachbarlaendern-unterstuetzen-brandbekaempfung](https://www.spiegel.de/ausland/waldbraende-in-portugal-loeschflugzeuge-aus-nachbarlaendern-unterstuetzen-brandbekaempfung-a-256b5511-da6e-4a86-af9a-3b7bb713e63d#ref=rss)
+### mats
 
-* [https://www.spiegel.de/politik/deutschland/eu-kommission-von-der-leyen-praesentiert-neue-besetzung-fuenf-frauen-ein-liberaler-und-ein-extrem-rechter](https://www.spiegel.de/politik/deutschland/eu-kommission-von-der-leyen-praesentiert-neue-besetzung-fuenf-frauen-ein-liberaler-und-ein-extrem-rechter-a-5fea7273-bb43-4451-9bff-134082c591ea#ref=rss)
-### vergebung
+* [https://www.spiegel.de/sport/fussball/serie-a-mats-hummels-neuer-klub-as-rom-trennt-sich-von-trainer-daniele-de-rossi](https://www.spiegel.de/sport/fussball/serie-a-mats-hummels-neuer-klub-as-rom-trennt-sich-von-trainer-daniele-de-rossi-a-3165e254-19eb-4dca-b9e6-ba9e7aebd8e2#ref=rss)
+### as
 
-* [https://www.spiegel.de/panorama/justiz/missbrauchsfall-von-avignon-dominique-pelicot-bittet-ehefrau-gisele-um-vergebung](https://www.spiegel.de/panorama/justiz/missbrauchsfall-von-avignon-dominique-pelicot-bittet-ehefrau-gisele-um-vergebung-a-0565ac44-26b0-4c73-9c98-0b8170195fc8#ref=rss)
-### elektroautos
+* [https://www.spiegel.de/sport/fussball/serie-a-mats-hummels-neuer-klub-as-rom-trennt-sich-von-trainer-daniele-de-rossi](https://www.spiegel.de/sport/fussball/serie-a-mats-hummels-neuer-klub-as-rom-trennt-sich-von-trainer-daniele-de-rossi-a-3165e254-19eb-4dca-b9e6-ba9e7aebd8e2#ref=rss)
+### rom
 
-* [https://www.spiegel.de/wissenschaft/elektroautos-in-norwegen-benziner-und-diesel-bald-geschichte](https://www.spiegel.de/wissenschaft/elektroautos-in-norwegen-benziner-und-diesel-bald-geschichte-a-f253d02b-79d9-4694-a808-eea1f4a6c36a#ref=rss)
-* [https://www.spiegel.de/auto/elektroauto-kaufen-suv-dominieren-den-markt-elektroautos-in-deutschland](https://www.spiegel.de/auto/elektroauto-kaufen-suv-dominieren-den-markt-elektroautos-in-deutschland-a-a6cb0316-ddbe-4449-b943-87197b883f49#ref=rss)
-### hamburg
+* [https://www.spiegel.de/sport/fussball/serie-a-mats-hummels-neuer-klub-as-rom-trennt-sich-von-trainer-daniele-de-rossi](https://www.spiegel.de/sport/fussball/serie-a-mats-hummels-neuer-klub-as-rom-trennt-sich-von-trainer-daniele-de-rossi-a-3165e254-19eb-4dca-b9e6-ba9e7aebd8e2#ref=rss)
+### trainer
 
-* [https://www.spiegel.de/panorama/abschiebungen-flugzeug-von-hamburg-nach-serbien-und-mazedonien-gestartet](https://www.spiegel.de/panorama/abschiebungen-flugzeug-von-hamburg-nach-serbien-und-mazedonien-gestartet-a-d15b19b3-a2f8-4ff8-ade0-8c2056554cee#ref=rss)
-### gestartet
+* [https://www.spiegel.de/sport/fussball/serie-a-mats-hummels-neuer-klub-as-rom-trennt-sich-von-trainer-daniele-de-rossi](https://www.spiegel.de/sport/fussball/serie-a-mats-hummels-neuer-klub-as-rom-trennt-sich-von-trainer-daniele-de-rossi-a-3165e254-19eb-4dca-b9e6-ba9e7aebd8e2#ref=rss)
+* [https://www.spiegel.de/sport/ukrainischer-box-weltmeister-usyk-offenbar-kurzzeitig-in-polen-festgenommen](https://www.spiegel.de/sport/ukrainischer-box-weltmeister-usyk-offenbar-kurzzeitig-in-polen-festgenommen-a-4b4bc3b2-6921-431e-980d-d9bfeaf8a599#ref=rss)
+### daniele
 
-* [https://www.spiegel.de/panorama/abschiebungen-flugzeug-von-hamburg-nach-serbien-und-mazedonien-gestartet](https://www.spiegel.de/panorama/abschiebungen-flugzeug-von-hamburg-nach-serbien-und-mazedonien-gestartet-a-d15b19b3-a2f8-4ff8-ade0-8c2056554cee#ref=rss)
-### suv
+* [https://www.spiegel.de/sport/fussball/serie-a-mats-hummels-neuer-klub-as-rom-trennt-sich-von-trainer-daniele-de-rossi](https://www.spiegel.de/sport/fussball/serie-a-mats-hummels-neuer-klub-as-rom-trennt-sich-von-trainer-daniele-de-rossi-a-3165e254-19eb-4dca-b9e6-ba9e7aebd8e2#ref=rss)
+### de
 
-* [https://www.spiegel.de/auto/elektroauto-kaufen-suv-dominieren-den-markt-elektroautos-in-deutschland](https://www.spiegel.de/auto/elektroauto-kaufen-suv-dominieren-den-markt-elektroautos-in-deutschland-a-a6cb0316-ddbe-4449-b943-87197b883f49#ref=rss)
-### groß
+* [https://www.spiegel.de/sport/fussball/serie-a-mats-hummels-neuer-klub-as-rom-trennt-sich-von-trainer-daniele-de-rossi](https://www.spiegel.de/sport/fussball/serie-a-mats-hummels-neuer-klub-as-rom-trennt-sich-von-trainer-daniele-de-rossi-a-3165e254-19eb-4dca-b9e6-ba9e7aebd8e2#ref=rss)
+### rossi
 
-* [https://www.spiegel.de/auto/elektroauto-kaufen-suv-dominieren-den-markt-elektroautos-in-deutschland](https://www.spiegel.de/auto/elektroauto-kaufen-suv-dominieren-den-markt-elektroautos-in-deutschland-a-a6cb0316-ddbe-4449-b943-87197b883f49#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/supermond-mit-partieller-mondfinsternis-heute-nacht-so-stehen-die-chancen-auf-gute-sicht](https://www.spiegel.de/wissenschaft/natur/supermond-mit-partieller-mondfinsternis-heute-nacht-so-stehen-die-chancen-auf-gute-sicht-a-e333c635-78ec-42ad-a909-653f40856667#ref=rss)
-### miley
+* [https://www.spiegel.de/sport/fussball/serie-a-mats-hummels-neuer-klub-as-rom-trennt-sich-von-trainer-daniele-de-rossi](https://www.spiegel.de/sport/fussball/serie-a-mats-hummels-neuer-klub-as-rom-trennt-sich-von-trainer-daniele-de-rossi-a-3165e254-19eb-4dca-b9e6-ba9e7aebd8e2#ref=rss)
+### usyk
 
-* [https://www.spiegel.de/panorama/leute/miley-cyrus-klage-wegen-angeblicher-songkopie](https://www.spiegel.de/panorama/leute/miley-cyrus-klage-wegen-angeblicher-songkopie-a-7721bb9f-e15f-492c-99b7-5b617c419ef4#ref=rss)
-### cyrus
+* [https://www.spiegel.de/sport/ukrainischer-box-weltmeister-usyk-offenbar-kurzzeitig-in-polen-festgenommen](https://www.spiegel.de/sport/ukrainischer-box-weltmeister-usyk-offenbar-kurzzeitig-in-polen-festgenommen-a-4b4bc3b2-6921-431e-980d-d9bfeaf8a599#ref=rss)
+### google
 
-* [https://www.spiegel.de/panorama/leute/miley-cyrus-klage-wegen-angeblicher-songkopie](https://www.spiegel.de/panorama/leute/miley-cyrus-klage-wegen-angeblicher-songkopie-a-7721bb9f-e15f-492c-99b7-5b617c419ef4#ref=rss)
-### song
+* [https://www.spiegel.de/wirtschaft/unternehmen/google-gericht-kassiert-milliardenstrafe-fuer-internetkonzern](https://www.spiegel.de/wirtschaft/unternehmen/google-gericht-kassiert-milliardenstrafe-fuer-internetkonzern-a-0995ee4f-0284-46e6-807e-4106f84f111f#ref=rss)
+### entschieden
 
-* [https://www.spiegel.de/panorama/leute/miley-cyrus-klage-wegen-angeblicher-songkopie](https://www.spiegel.de/panorama/leute/miley-cyrus-klage-wegen-angeblicher-songkopie-a-7721bb9f-e15f-492c-99b7-5b617c419ef4#ref=rss)
-### sean
+* [https://www.spiegel.de/wirtschaft/unternehmen/google-gericht-kassiert-milliardenstrafe-fuer-internetkonzern](https://www.spiegel.de/wirtschaft/unternehmen/google-gericht-kassiert-milliardenstrafe-fuer-internetkonzern-a-0995ee4f-0284-46e6-807e-4106f84f111f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-scheitert-mit-klage-zu-vorsitz-von-bundestagsausschuessen](https://www.spiegel.de/politik/deutschland/afd-scheitert-mit-klage-zu-vorsitz-von-bundestagsausschuessen-a-1fe71e9b-fcbb-4886-b73b-1704c49114ff#ref=rss)
+### afd
 
-* [https://www.spiegel.de/panorama/justiz/sean-diddy-combs-wegen-zwangsprostitution-angeklagt](https://www.spiegel.de/panorama/justiz/sean-diddy-combs-wegen-zwangsprostitution-angeklagt-a-23ba6675-6104-4594-bf13-76aad6fbf6c1#ref=rss)
-### diddy
+* [https://www.spiegel.de/politik/deutschland/afd-scheitert-mit-klage-zu-vorsitz-von-bundestagsausschuessen](https://www.spiegel.de/politik/deutschland/afd-scheitert-mit-klage-zu-vorsitz-von-bundestagsausschuessen-a-1fe71e9b-fcbb-4886-b73b-1704c49114ff#ref=rss)
+### karlsruhe
 
-* [https://www.spiegel.de/panorama/justiz/sean-diddy-combs-wegen-zwangsprostitution-angeklagt](https://www.spiegel.de/panorama/justiz/sean-diddy-combs-wegen-zwangsprostitution-angeklagt-a-23ba6675-6104-4594-bf13-76aad6fbf6c1#ref=rss)
-### combs
+* [https://www.spiegel.de/politik/deutschland/afd-scheitert-mit-klage-zu-vorsitz-von-bundestagsausschuessen](https://www.spiegel.de/politik/deutschland/afd-scheitert-mit-klage-zu-vorsitz-von-bundestagsausschuessen-a-1fe71e9b-fcbb-4886-b73b-1704c49114ff#ref=rss)
+### dresden
 
-* [https://www.spiegel.de/panorama/justiz/sean-diddy-combs-wegen-zwangsprostitution-angeklagt](https://www.spiegel.de/panorama/justiz/sean-diddy-combs-wegen-zwangsprostitution-angeklagt-a-23ba6675-6104-4594-bf13-76aad6fbf6c1#ref=rss)
-### pistorius
+* [https://www.spiegel.de/panorama/dresden-wasserstand-der-elbe-erreicht-sechs-meter-marke](https://www.spiegel.de/panorama/dresden-wasserstand-der-elbe-erreicht-sechs-meter-marke-a-9ce21f3e-d305-4f3c-a3a9-46ed69f3bfd4#ref=rss)
+### prinzessin
 
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-boris-pistorius-hofft-auf-frisches-geld-fuer-waffenhilfe](https://www.spiegel.de/politik/deutschland/ukraine-krieg-boris-pistorius-hofft-auf-frisches-geld-fuer-waffenhilfe-a-502297e3-92c4-4ff6-b48e-0c64b73aebe0#ref=rss)
-### nacht
+* [https://www.spiegel.de/panorama/leute/prinzessin-kate-nimmt-erstes-arbeitstreffen-seit-krebsbehandlung-wahr](https://www.spiegel.de/panorama/leute/prinzessin-kate-nimmt-erstes-arbeitstreffen-seit-krebsbehandlung-wahr-a-9b449656-8075-4f4b-8885-6e83edbff3c7#ref=rss)
+### afdpolitiker
 
-* [https://www.spiegel.de/wissenschaft/natur/supermond-mit-partieller-mondfinsternis-heute-nacht-so-stehen-die-chancen-auf-gute-sicht](https://www.spiegel.de/wissenschaft/natur/supermond-mit-partieller-mondfinsternis-heute-nacht-so-stehen-die-chancen-auf-gute-sicht-a-e333c635-78ec-42ad-a909-653f40856667#ref=rss)
-### stehen
+* [https://www.spiegel.de/politik/deutschland/brandenburg-afd-politiker-sollen-sich-mit-rechtsextremen-ueber-revolution-ausgetauscht-haben](https://www.spiegel.de/politik/deutschland/brandenburg-afd-politiker-sollen-sich-mit-rechtsextremen-ueber-revolution-ausgetauscht-haben-a-6bbbb9eb-5f94-4ae1-8257-e5d31378b494#ref=rss)
+### revolution
 
-* [https://www.spiegel.de/wissenschaft/natur/supermond-mit-partieller-mondfinsternis-heute-nacht-so-stehen-die-chancen-auf-gute-sicht](https://www.spiegel.de/wissenschaft/natur/supermond-mit-partieller-mondfinsternis-heute-nacht-so-stehen-die-chancen-auf-gute-sicht-a-e333c635-78ec-42ad-a909-653f40856667#ref=rss)
-### josua
+* [https://www.spiegel.de/politik/deutschland/brandenburg-afd-politiker-sollen-sich-mit-rechtsextremen-ueber-revolution-ausgetauscht-haben](https://www.spiegel.de/politik/deutschland/brandenburg-afd-politiker-sollen-sich-mit-rechtsextremen-ueber-revolution-ausgetauscht-haben-a-6bbbb9eb-5f94-4ae1-8257-e5d31378b494#ref=rss)
+### iran
 
-* [https://www.spiegel.de/netzwelt/web/josua-wirth-der-tiktok-star-der-mit-taliban-und-einem-tiger-posiert](https://www.spiegel.de/netzwelt/web/josua-wirth-der-tiktok-star-der-mit-taliban-und-einem-tiger-posiert-a-e67488c5-ab2f-4257-910a-207771c41858#ref=rss)
-### wirth
+* [https://www.spiegel.de/ausland/iran-schickt-rettungsteams-in-den-libanon](https://www.spiegel.de/ausland/iran-schickt-rettungsteams-in-den-libanon-a-be7d6f51-e8c2-435f-81b7-fe5f462dd0d5#ref=rss)
+### rechtsschutzversicherung
 
-* [https://www.spiegel.de/netzwelt/web/josua-wirth-der-tiktok-star-der-mit-taliban-und-einem-tiger-posiert](https://www.spiegel.de/netzwelt/web/josua-wirth-der-tiktok-star-der-mit-taliban-und-einem-tiger-posiert-a-e67488c5-ab2f-4257-910a-207771c41858#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/rechtsschutzversicherung-fuer-wen-sie-sich-wirklich-lohnt](https://www.spiegel.de/wirtschaft/service/rechtsschutzversicherung-fuer-wen-sie-sich-wirklich-lohnt-a-7d484690-3ddc-4010-ae56-e0910d34ab0c#ref=rss)
+### wirklich
+
+* [https://www.spiegel.de/wirtschaft/service/rechtsschutzversicherung-fuer-wen-sie-sich-wirklich-lohnt](https://www.spiegel.de/wirtschaft/service/rechtsschutzversicherung-fuer-wen-sie-sich-wirklich-lohnt-a-7d484690-3ddc-4010-ae56-e0910d34ab0c#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/wirtschaft/service/intel-milliarden-dihk-fordert-entlastung-bei-strompreisen](https://www.spiegel.de/wirtschaft/service/intel-milliarden-dihk-fordert-entlastung-bei-strompreisen-a-1ec78b9d-fa70-4dab-8f17-9fb5e3933656#ref=rss)
+### kamala
+
+* [https://www.spiegel.de/ausland/kamala-harris-russische-propagandagruppe-soll-unfallvideo-inszeniert-haben](https://www.spiegel.de/ausland/kamala-harris-russische-propagandagruppe-soll-unfallvideo-inszeniert-haben-a-10b4812e-b493-4352-b06a-c800a86daf2a#ref=rss)
+### harris
+
+* [https://www.spiegel.de/ausland/kamala-harris-russische-propagandagruppe-soll-unfallvideo-inszeniert-haben](https://www.spiegel.de/ausland/kamala-harris-russische-propagandagruppe-soll-unfallvideo-inszeniert-haben-a-10b4812e-b493-4352-b06a-c800a86daf2a#ref=rss)
+### unfallvideo
+
+* [https://www.spiegel.de/ausland/kamala-harris-russische-propagandagruppe-soll-unfallvideo-inszeniert-haben](https://www.spiegel.de/ausland/kamala-harris-russische-propagandagruppe-soll-unfallvideo-inszeniert-haben-a-10b4812e-b493-4352-b06a-c800a86daf2a#ref=rss)
+### rohstofffonds
+
+* [https://www.spiegel.de/wirtschaft/soziales/rohstoff-fonds-der-bundesregierung-kann-starten](https://www.spiegel.de/wirtschaft/soziales/rohstoff-fonds-der-bundesregierung-kann-starten-a-9f1bf9a9-f798-4d39-9ab7-951447cfb234#ref=rss)
+### bundesregierung
+
+* [https://www.spiegel.de/wirtschaft/soziales/rohstoff-fonds-der-bundesregierung-kann-starten](https://www.spiegel.de/wirtschaft/soziales/rohstoff-fonds-der-bundesregierung-kann-starten-a-9f1bf9a9-f798-4d39-9ab7-951447cfb234#ref=rss)
+### julian
+
+* [https://www.spiegel.de/panorama/leute/julian-nagelsmann-kommen-bei-nationalhymne-die-traenen](https://www.spiegel.de/panorama/leute/julian-nagelsmann-kommen-bei-nationalhymne-die-traenen-a-d02bae11-50b8-4d9a-a573-31fd93a21b2f#ref=rss)
+### nagelsmann
+
+* [https://www.spiegel.de/panorama/leute/julian-nagelsmann-kommen-bei-nationalhymne-die-traenen](https://www.spiegel.de/panorama/leute/julian-nagelsmann-kommen-bei-nationalhymne-die-traenen-a-d02bae11-50b8-4d9a-a573-31fd93a21b2f#ref=rss)
 
