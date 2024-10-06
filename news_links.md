@@ -4,324 +4,337 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
+### fußballbundesliga
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-verspielt-sieg-bei-eintracht-frankfurt-im-topspiel](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-verspielt-sieg-bei-eintracht-frankfurt-im-topspiel-a-fec7b09b-8e74-4cd7-9755-09b1f66a9eee#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-springt-an-die-tabellenspitze-fuer-zwei-stunden](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-springt-an-die-tabellenspitze-fuer-zwei-stunden-a-83f8dfae-da66-4c5d-8681-d4e832637caf#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-jean-luc-dompe-leitet-sieg-des-hamburger-sv-gegen-fortuna-duesseldorf-ein](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-jean-luc-dompe-leitet-sieg-des-hamburger-sv-gegen-fortuna-duesseldorf-ein-a-7ec34de0-05c3-429b-ac22-b8c132f4852e#ref=rss)
+### sieg
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-verspielt-sieg-bei-eintracht-frankfurt-im-topspiel](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-verspielt-sieg-bei-eintracht-frankfurt-im-topspiel-a-fec7b09b-8e74-4cd7-9755-09b1f66a9eee#ref=rss)
+* [https://www.spiegel.de/sport/fussball/naechster-erfolg-fuer-den-fc-barcelona-robert-lewandowski-braucht-nur-26-minuten-fuer-drei-tore](https://www.spiegel.de/sport/fussball/naechster-erfolg-fuer-den-fc-barcelona-robert-lewandowski-braucht-nur-26-minuten-fuer-drei-tore-a-a011e73b-e6df-47b8-938c-fc1e58ab5a64#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-jean-luc-dompe-leitet-sieg-des-hamburger-sv-gegen-fortuna-duesseldorf-ein](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-jean-luc-dompe-leitet-sieg-des-hamburger-sv-gegen-fortuna-duesseldorf-ein-a-7ec34de0-05c3-429b-ac22-b8c132f4852e#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-verspielt-sieg-bei-eintracht-frankfurt-im-topspiel](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-verspielt-sieg-bei-eintracht-frankfurt-im-topspiel-a-fec7b09b-8e74-4cd7-9755-09b1f66a9eee#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-springt-an-die-tabellenspitze-fuer-zwei-stunden](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-springt-an-die-tabellenspitze-fuer-zwei-stunden-a-83f8dfae-da66-4c5d-8681-d4e832637caf#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-jean-luc-dompe-leitet-sieg-des-hamburger-sv-gegen-fortuna-duesseldorf-ein](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-jean-luc-dompe-leitet-sieg-des-hamburger-sv-gegen-fortuna-duesseldorf-ein-a-7ec34de0-05c3-429b-ac22-b8c132f4852e#ref=rss)
+* [https://www.spiegel.de/kultur/mehr-lesen-mit-elke-heidenreich-buchtipp-starke-buecher-von-starken-frauen](https://www.spiegel.de/kultur/mehr-lesen-mit-elke-heidenreich-buchtipp-starke-buecher-von-starken-frauen-a-d6383b9a-603f-423a-9060-976eb558c49e#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/netzwelt/web/google-testet-offenbar-blauen-haken-fuer-suchergebnisse](https://www.spiegel.de/netzwelt/web/google-testet-offenbar-blauen-haken-fuer-suchergebnisse-a-abc87cee-2d0e-482f-be0d-253068b34e1e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/migration-fdp-will-abgelehnten-asylbewerbern-nur-noch-bett-seife-brot-minimum-zahlen](https://www.spiegel.de/politik/deutschland/migration-fdp-will-abgelehnten-asylbewerbern-nur-noch-bett-seife-brot-minimum-zahlen-a-4aba84c9-194a-4269-b589-5a0793390057#ref=rss)
-* [https://www.spiegel.de/panorama/leute/al-pacino-spricht-ueber-nahtoderfahrung-waehrend-corona-infektion](https://www.spiegel.de/panorama/leute/al-pacino-spricht-ueber-nahtoderfahrung-waehrend-corona-infektion-a-fe792990-46c4-40c3-9de0-344d28110c5e#ref=rss)
-* [https://www.spiegel.de/politik/ampel-regierung-genehmigt-wieder-waffen-exporte-in-die-tuerkei](https://www.spiegel.de/politik/ampel-regierung-genehmigt-wieder-waffen-exporte-in-die-tuerkei-a-dc5d8cb6-f602-4fdd-9e1e-a9251db30f9f#ref=rss)
-* [https://www.spiegel.de/familie/alleinerziehende-und-ihre-kinder-mapa-ich-bin-stolz-auf-uns](https://www.spiegel.de/familie/alleinerziehende-und-ihre-kinder-mapa-ich-bin-stolz-auf-uns-a-27177719-bbc5-46a9-901d-060a67add22f#ref=rss)
-* [https://www.spiegel.de/ausland/daenemark-verstaerkt-kontrollen-an-grenzen-zu-schweden-und-deutschland](https://www.spiegel.de/ausland/daenemark-verstaerkt-kontrollen-an-grenzen-zu-schweden-und-deutschland-a-5e0f3b1c-0f45-4d9e-ab5a-6dec7babe623#ref=rss)
-### 7
-
-* [https://www.spiegel.de/kultur/7-oktober-jahrestag-des-hamas-ueberfalls-auf-israel-die-wichtigsten-buecher](https://www.spiegel.de/kultur/7-oktober-jahrestag-des-hamas-ueberfalls-auf-israel-die-wichtigsten-buecher-a-7bc29173-b2a3-4c65-926b-541c7631f2b8#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-die-tragische-geschichte-der-ermordeten-und-entfuehrten-soldatinnen-am-7-oktober](https://www.spiegel.de/ausland/israel-gaza-krieg-die-tragische-geschichte-der-ermordeten-und-entfuehrten-soldatinnen-am-7-oktober-a-26aad6aa-14f1-4547-8aa0-3f8ebc757cf6#ref=rss)
-* [https://www.spiegel.de/kultur/tv/sommerhaus-der-stars-7-vs-wild-stefan-raab-ruetzels-recap](https://www.spiegel.de/kultur/tv/sommerhaus-der-stars-7-vs-wild-stefan-raab-ruetzels-recap-a-d728ecfb-e85a-4106-ad30-cc90210a466f#ref=rss)
-* [https://www.spiegel.de/politik/7-oktober-olaf-scholz-verurteilt-antisemitismus-und-blinden-israel-hass](https://www.spiegel.de/politik/7-oktober-olaf-scholz-verurteilt-antisemitismus-und-blinden-israel-hass-a-7e54d232-a897-408e-aaea-bda6d11782e9#ref=rss)
-### oktober
-
-* [https://www.spiegel.de/kultur/7-oktober-jahrestag-des-hamas-ueberfalls-auf-israel-die-wichtigsten-buecher](https://www.spiegel.de/kultur/7-oktober-jahrestag-des-hamas-ueberfalls-auf-israel-die-wichtigsten-buecher-a-7bc29173-b2a3-4c65-926b-541c7631f2b8#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-die-tragische-geschichte-der-ermordeten-und-entfuehrten-soldatinnen-am-7-oktober](https://www.spiegel.de/ausland/israel-gaza-krieg-die-tragische-geschichte-der-ermordeten-und-entfuehrten-soldatinnen-am-7-oktober-a-26aad6aa-14f1-4547-8aa0-3f8ebc757cf6#ref=rss)
-* [https://www.spiegel.de/politik/7-oktober-olaf-scholz-verurteilt-antisemitismus-und-blinden-israel-hass](https://www.spiegel.de/politik/7-oktober-olaf-scholz-verurteilt-antisemitismus-und-blinden-israel-hass-a-7e54d232-a897-408e-aaea-bda6d11782e9#ref=rss)
-* [https://www.spiegel.de/geschichte/germantown-wie-franz-daniel-pastorius-die-ersten-deutschen-nach-amerika-lotste](https://www.spiegel.de/geschichte/germantown-wie-franz-daniel-pastorius-die-ersten-deutschen-nach-amerika-lotste-a-77f5e98d-3bf0-46be-900c-86e060db3390#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/deutschland/migration-fdp-will-abgelehnten-asylbewerbern-nur-noch-bett-seife-brot-minimum-zahlen](https://www.spiegel.de/politik/deutschland/migration-fdp-will-abgelehnten-asylbewerbern-nur-noch-bett-seife-brot-minimum-zahlen-a-4aba84c9-194a-4269-b589-5a0793390057#ref=rss)
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-will-zu-ukraine-gipfel-nach-deutschland-kommen](https://www.spiegel.de/ausland/wolodymyr-selenskyj-will-zu-ukraine-gipfel-nach-deutschland-kommen-a-eab195a9-7605-481d-8f75-45b20e76554e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/interpol-chef-juergen-stock-staaten-drohen-gegen-die-mafia-zu-verlieren](https://www.spiegel.de/panorama/justiz/interpol-chef-juergen-stock-staaten-drohen-gegen-die-mafia-zu-verlieren-a-5ee73430-6a51-4283-bdca-b4e3a0be4496#ref=rss)
-* [https://www.spiegel.de/ausland/daenemark-verstaerkt-kontrollen-an-grenzen-zu-schweden-und-deutschland](https://www.spiegel.de/ausland/daenemark-verstaerkt-kontrollen-an-grenzen-zu-schweden-und-deutschland-a-5e0f3b1c-0f45-4d9e-ab5a-6dec7babe623#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-wie-gefolterte-frauen-aus-syrien-in-rehanli-weitermachen](https://www.spiegel.de/ausland/tuerkei-wie-gefolterte-frauen-aus-syrien-in-rehanli-weitermachen-a-f20cbfe7-b917-4401-a88d-0ed379d403e0#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-sue-gray-stabschefin-von-keir-starmer-tritt-zurueck](https://www.spiegel.de/ausland/grossbritannien-sue-gray-stabschefin-von-keir-starmer-tritt-zurueck-a-ea86bee1-8ada-463e-8aa3-d9ca6210327b#ref=rss)
+* [https://www.spiegel.de/kultur/mehr-lesen-mit-elke-heidenreich-buchtipp-starke-buecher-von-starken-frauen](https://www.spiegel.de/kultur/mehr-lesen-mit-elke-heidenreich-buchtipp-starke-buecher-von-starken-frauen-a-d6383b9a-603f-423a-9060-976eb558c49e#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-franken-trotzdem-mit-dagmar-manzel-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-franken-trotzdem-mit-dagmar-manzel-im-schnellcheck-a-224c2a90-387f-4cff-90c6-9f57d96b4884#ref=rss)
 ### israel
 
-* [https://www.spiegel.de/kultur/7-oktober-jahrestag-des-hamas-ueberfalls-auf-israel-die-wichtigsten-buecher](https://www.spiegel.de/kultur/7-oktober-jahrestag-des-hamas-ueberfalls-auf-israel-die-wichtigsten-buecher-a-7bc29173-b2a3-4c65-926b-541c7631f2b8#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gegen-die-hisbollah-so-soll-der-mossad-die-pager-attacke-vorbereitet-haben](https://www.spiegel.de/ausland/israel-gegen-die-hisbollah-so-soll-der-mossad-die-pager-attacke-vorbereitet-haben-a-38dc2c90-baef-4f44-ab59-ef7c077e5658#ref=rss)
-* [https://www.spiegel.de/politik/7-oktober-olaf-scholz-verurteilt-antisemitismus-und-blinden-israel-hass](https://www.spiegel.de/politik/7-oktober-olaf-scholz-verurteilt-antisemitismus-und-blinden-israel-hass-a-7e54d232-a897-408e-aaea-bda6d11782e9#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-krieg-israels-armee-greift-hamas-kommandozentrale-an](https://www.spiegel.de/ausland/gaza-krieg-israels-armee-greift-hamas-kommandozentrale-an-a-8edb8cf8-0922-4f0a-a706-896c27b5f79b#ref=rss)
-### trump
+* [https://www.spiegel.de/ausland/krieg-in-nahost-die-palaestinenser-bleiben-wo-sie-sind-kommentar](https://www.spiegel.de/ausland/krieg-in-nahost-die-palaestinenser-bleiben-wo-sie-sind-kommentar-a-e5e97598-71ef-4214-8eba-c88d1fed2b81#ref=rss)
+* [https://www.spiegel.de/panorama/7-oktober-hamas-ueberfall-auf-israel-demonstrationen-in-zahlreichen-staedten-in-deutschland](https://www.spiegel.de/panorama/7-oktober-hamas-ueberfall-auf-israel-demonstrationen-in-zahlreichen-staedten-in-deutschland-a-fda75eac-5226-41a1-b225-a43b6bd4e06d#ref=rss)
+* [https://www.spiegel.de/ausland/libanon-hisbollah-vs-israel-der-krieg-in-karten-und-grafiken](https://www.spiegel.de/ausland/libanon-hisbollah-vs-israel-der-krieg-in-karten-und-grafiken-a-6be7718c-1b6d-435d-941f-a080324a1c8e#ref=rss)
+### bayern
 
-* [https://www.spiegel.de/ausland/auftritt-von-donald-trump-und-elon-musk-in-butler-traumatherapie-und-bizarrer-feldgottesdienst](https://www.spiegel.de/ausland/auftritt-von-donald-trump-und-elon-musk-in-butler-traumatherapie-und-bizarrer-feldgottesdienst-a-2f1060ee-710b-4b6f-ac97-500235490639#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-nennt-schuetzen-vom-13-juli-ein-boesartiges-monster](https://www.spiegel.de/ausland/donald-trump-nennt-schuetzen-vom-13-juli-ein-boesartiges-monster-a-f43ef5e7-3375-439f-bf39-9286017e3d29#ref=rss)
-### ersten
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-verspielt-sieg-bei-eintracht-frankfurt-im-topspiel](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-verspielt-sieg-bei-eintracht-frankfurt-im-topspiel-a-fec7b09b-8e74-4cd7-9755-09b1f66a9eee#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nachruf-auf-willi-giesemann-er-war-uwe-seelers-rueckendeckung-pele-brach-ihm-das-schienbein](https://www.spiegel.de/sport/fussball/nachruf-auf-willi-giesemann-er-war-uwe-seelers-rueckendeckung-pele-brach-ihm-das-schienbein-a-f8530d79-48e1-48a8-a044-6bf8386e9d59#ref=rss)
+### krieg
 
-* [https://www.spiegel.de/kultur/7-oktober-jahrestag-des-hamas-ueberfalls-auf-israel-die-wichtigsten-buecher](https://www.spiegel.de/kultur/7-oktober-jahrestag-des-hamas-ueberfalls-auf-israel-die-wichtigsten-buecher-a-7bc29173-b2a3-4c65-926b-541c7631f2b8#ref=rss)
-* [https://www.spiegel.de/geschichte/germantown-wie-franz-daniel-pastorius-die-ersten-deutschen-nach-amerika-lotste](https://www.spiegel.de/geschichte/germantown-wie-franz-daniel-pastorius-die-ersten-deutschen-nach-amerika-lotste-a-77f5e98d-3bf0-46be-900c-86e060db3390#ref=rss)
-* [https://www.spiegel.de/panorama/hachenburg-im-westerwald-polizei-loest-bei-grossrazzia-in-der-nacht-kampfsportevent-auf](https://www.spiegel.de/panorama/hachenburg-im-westerwald-polizei-loest-bei-grossrazzia-in-der-nacht-kampfsportevent-auf-a-fc963cba-3324-4bf1-b1ce-f651ee5d9e69#ref=rss)
-### deutsche
+* [https://www.spiegel.de/panorama/justiz/neues-buendnis-in-der-rocker-szene-aus-feinden-werden-freunde-spiegel-tv](https://www.spiegel.de/panorama/justiz/neues-buendnis-in-der-rocker-szene-aus-feinden-werden-freunde-spiegel-tv-a-e16f12cb-fbc3-4b84-936f-838823d97782#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-nahost-die-palaestinenser-bleiben-wo-sie-sind-kommentar](https://www.spiegel.de/ausland/krieg-in-nahost-die-palaestinenser-bleiben-wo-sie-sind-kommentar-a-e5e97598-71ef-4214-8eba-c88d1fed2b81#ref=rss)
+* [https://www.spiegel.de/ausland/libanon-hisbollah-vs-israel-der-krieg-in-karten-und-grafiken](https://www.spiegel.de/ausland/libanon-hisbollah-vs-israel-der-krieg-in-karten-und-grafiken-a-6be7718c-1b6d-435d-941f-a080324a1c8e#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/politik/7-oktober-olaf-scholz-verurteilt-antisemitismus-und-blinden-israel-hass](https://www.spiegel.de/politik/7-oktober-olaf-scholz-verurteilt-antisemitismus-und-blinden-israel-hass-a-7e54d232-a897-408e-aaea-bda6d11782e9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bundesregierung-deutsche-wirtschaft-schrumpft-auch-2024](https://www.spiegel.de/wirtschaft/bundesregierung-deutsche-wirtschaft-schrumpft-auch-2024-a-67719252-e03b-4daf-b469-488d80fee1b3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutscher-mittelstand-orafol-chef-loclair-aeussert-besorgnis-ueber-den-aktuellen-zustand](https://www.spiegel.de/wirtschaft/deutscher-mittelstand-orafol-chef-loclair-aeussert-besorgnis-ueber-den-aktuellen-zustand-a-9895deb3-a877-4d41-90d7-4a5fbfa095ce#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/auftritt-von-donald-trump-und-elon-musk-in-butler-traumatherapie-und-bizarrer-feldgottesdienst](https://www.spiegel.de/ausland/auftritt-von-donald-trump-und-elon-musk-in-butler-traumatherapie-und-bizarrer-feldgottesdienst-a-2f1060ee-710b-4b6f-ac97-500235490639#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-nennt-schuetzen-vom-13-juli-ein-boesartiges-monster](https://www.spiegel.de/ausland/donald-trump-nennt-schuetzen-vom-13-juli-ein-boesartiges-monster-a-f43ef5e7-3375-439f-bf39-9286017e3d29#ref=rss)
-### ich
-
-* [https://www.spiegel.de/familie/alleinerziehende-und-ihre-kinder-mapa-ich-bin-stolz-auf-uns](https://www.spiegel.de/familie/alleinerziehende-und-ihre-kinder-mapa-ich-bin-stolz-auf-uns-a-27177719-bbc5-46a9-901d-060a67add22f#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/netzwelt/web/google-testet-offenbar-blauen-haken-fuer-suchergebnisse](https://www.spiegel.de/netzwelt/web/google-testet-offenbar-blauen-haken-fuer-suchergebnisse-a-abc87cee-2d0e-482f-be0d-253068b34e1e#ref=rss)
-* [https://www.spiegel.de/panorama/leute/al-pacino-spricht-ueber-nahtoderfahrung-waehrend-corona-infektion](https://www.spiegel.de/panorama/leute/al-pacino-spricht-ueber-nahtoderfahrung-waehrend-corona-infektion-a-fe792990-46c4-40c3-9de0-344d28110c5e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bundesregierung-deutsche-wirtschaft-schrumpft-auch-2024](https://www.spiegel.de/wirtschaft/bundesregierung-deutsche-wirtschaft-schrumpft-auch-2024-a-67719252-e03b-4daf-b469-488d80fee1b3#ref=rss)
-### israelischen
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-die-tragische-geschichte-der-ermordeten-und-entfuehrten-soldatinnen-am-7-oktober](https://www.spiegel.de/ausland/israel-gaza-krieg-die-tragische-geschichte-der-ermordeten-und-entfuehrten-soldatinnen-am-7-oktober-a-26aad6aa-14f1-4547-8aa0-3f8ebc757cf6#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gegen-die-hisbollah-so-soll-der-mossad-die-pager-attacke-vorbereitet-haben](https://www.spiegel.de/ausland/israel-gegen-die-hisbollah-so-soll-der-mossad-die-pager-attacke-vorbereitet-haben-a-38dc2c90-baef-4f44-ab59-ef7c077e5658#ref=rss)
-* [https://www.spiegel.de/ausland/daenemark-verstaerkt-kontrollen-an-grenzen-zu-schweden-und-deutschland](https://www.spiegel.de/ausland/daenemark-verstaerkt-kontrollen-an-grenzen-zu-schweden-und-deutschland-a-5e0f3b1c-0f45-4d9e-ab5a-6dec7babe623#ref=rss)
-### hisbollah
-
-* [https://www.spiegel.de/ausland/israel-gegen-die-hisbollah-so-soll-der-mossad-die-pager-attacke-vorbereitet-haben](https://www.spiegel.de/ausland/israel-gegen-die-hisbollah-so-soll-der-mossad-die-pager-attacke-vorbereitet-haben-a-38dc2c90-baef-4f44-ab59-ef7c077e5658#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-friedensdemos-ralf-stegner-gaza-krieg-libanon-und-iran](https://www.spiegel.de/politik/deutschland/news-friedensdemos-ralf-stegner-gaza-krieg-libanon-und-iran-a-fa155920-b87a-46b1-924c-de6edc0475b3#ref=rss)
-### bundesregierung
-
-* [https://www.spiegel.de/politik/ampel-regierung-genehmigt-wieder-waffen-exporte-in-die-tuerkei](https://www.spiegel.de/politik/ampel-regierung-genehmigt-wieder-waffen-exporte-in-die-tuerkei-a-dc5d8cb6-f602-4fdd-9e1e-a9251db30f9f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bundesregierung-deutsche-wirtschaft-schrumpft-auch-2024](https://www.spiegel.de/wirtschaft/bundesregierung-deutsche-wirtschaft-schrumpft-auch-2024-a-67719252-e03b-4daf-b469-488d80fee1b3#ref=rss)
-### kopie
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-1728201702](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-1728201702-a-0da0bf49-5d6b-4f81-b01d-56c51d193353#ref=rss)
-### leverkusen
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-leverkusen-fehlt-die-gier-laute-kritik-nach-remis-gegen-leverkusen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-leverkusen-fehlt-die-gier-laute-kritik-nach-remis-gegen-leverkusen-a-d9d014d9-792f-44e7-9946-43b6f667da0a#ref=rss)
-### google
-
-* [https://www.spiegel.de/netzwelt/web/google-testet-offenbar-blauen-haken-fuer-suchergebnisse](https://www.spiegel.de/netzwelt/web/google-testet-offenbar-blauen-haken-fuer-suchergebnisse-a-abc87cee-2d0e-482f-be0d-253068b34e1e#ref=rss)
-### blauen
-
-* [https://www.spiegel.de/netzwelt/web/google-testet-offenbar-blauen-haken-fuer-suchergebnisse](https://www.spiegel.de/netzwelt/web/google-testet-offenbar-blauen-haken-fuer-suchergebnisse-a-abc87cee-2d0e-482f-be0d-253068b34e1e#ref=rss)
-### haken
-
-* [https://www.spiegel.de/netzwelt/web/google-testet-offenbar-blauen-haken-fuer-suchergebnisse](https://www.spiegel.de/netzwelt/web/google-testet-offenbar-blauen-haken-fuer-suchergebnisse-a-abc87cee-2d0e-482f-be0d-253068b34e1e#ref=rss)
-### medien
-
-* [https://www.spiegel.de/netzwelt/web/google-testet-offenbar-blauen-haken-fuer-suchergebnisse](https://www.spiegel.de/netzwelt/web/google-testet-offenbar-blauen-haken-fuer-suchergebnisse-a-abc87cee-2d0e-482f-be0d-253068b34e1e#ref=rss)
-* [https://www.spiegel.de/ausland/ungarn-demonstranten-prangern-victor-orban-fuer-vereinnahmung-ungarischer-medien-an](https://www.spiegel.de/ausland/ungarn-demonstranten-prangern-victor-orban-fuer-vereinnahmung-ungarischer-medien-an-a-e4cc8816-af43-4d3e-9af7-44c79b082b5a#ref=rss)
-### ums
-
-* [https://www.spiegel.de/netzwelt/web/google-testet-offenbar-blauen-haken-fuer-suchergebnisse](https://www.spiegel.de/netzwelt/web/google-testet-offenbar-blauen-haken-fuer-suchergebnisse-a-abc87cee-2d0e-482f-be0d-253068b34e1e#ref=rss)
-* [https://www.spiegel.de/ausland/aermelkanal-kleinkind-wird-auf-fluechtlingsboot-totgetrampelt](https://www.spiegel.de/ausland/aermelkanal-kleinkind-wird-auf-fluechtlingsboot-totgetrampelt-a-812f55f8-ce44-48d5-b443-018c4fb59c22#ref=rss)
-### slowakei
-
-* [https://www.spiegel.de/panorama/slowakei-braunbaer-toetet-pilzsammler](https://www.spiegel.de/panorama/slowakei-braunbaer-toetet-pilzsammler-a-8a1b3ccf-e28e-4d96-9810-761085faf296#ref=rss)
-### zahlen
-
-* [https://www.spiegel.de/politik/deutschland/migration-fdp-will-abgelehnten-asylbewerbern-nur-noch-bett-seife-brot-minimum-zahlen](https://www.spiegel.de/politik/deutschland/migration-fdp-will-abgelehnten-asylbewerbern-nur-noch-bett-seife-brot-minimum-zahlen-a-4aba84c9-194a-4269-b589-5a0793390057#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bundesregierung-deutsche-wirtschaft-schrumpft-auch-2024](https://www.spiegel.de/wirtschaft/bundesregierung-deutsche-wirtschaft-schrumpft-auch-2024-a-67719252-e03b-4daf-b469-488d80fee1b3#ref=rss)
-### al
-
-* [https://www.spiegel.de/panorama/leute/al-pacino-spricht-ueber-nahtoderfahrung-waehrend-corona-infektion](https://www.spiegel.de/panorama/leute/al-pacino-spricht-ueber-nahtoderfahrung-waehrend-corona-infektion-a-fe792990-46c4-40c3-9de0-344d28110c5e#ref=rss)
-### pacino
-
-* [https://www.spiegel.de/panorama/leute/al-pacino-spricht-ueber-nahtoderfahrung-waehrend-corona-infektion](https://www.spiegel.de/panorama/leute/al-pacino-spricht-ueber-nahtoderfahrung-waehrend-corona-infektion-a-fe792990-46c4-40c3-9de0-344d28110c5e#ref=rss)
-### schwer
-
-* [https://www.spiegel.de/panorama/leute/al-pacino-spricht-ueber-nahtoderfahrung-waehrend-corona-infektion](https://www.spiegel.de/panorama/leute/al-pacino-spricht-ueber-nahtoderfahrung-waehrend-corona-infektion-a-fe792990-46c4-40c3-9de0-344d28110c5e#ref=rss)
-### zustand
-
-* [https://www.spiegel.de/panorama/leute/al-pacino-spricht-ueber-nahtoderfahrung-waehrend-corona-infektion](https://www.spiegel.de/panorama/leute/al-pacino-spricht-ueber-nahtoderfahrung-waehrend-corona-infektion-a-fe792990-46c4-40c3-9de0-344d28110c5e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutscher-mittelstand-orafol-chef-loclair-aeussert-besorgnis-ueber-den-aktuellen-zustand](https://www.spiegel.de/wirtschaft/deutscher-mittelstand-orafol-chef-loclair-aeussert-besorgnis-ueber-den-aktuellen-zustand-a-9895deb3-a877-4d41-90d7-4a5fbfa095ce#ref=rss)
-### hamas
-
-* [https://www.spiegel.de/kultur/7-oktober-jahrestag-des-hamas-ueberfalls-auf-israel-die-wichtigsten-buecher](https://www.spiegel.de/kultur/7-oktober-jahrestag-des-hamas-ueberfalls-auf-israel-die-wichtigsten-buecher-a-7bc29173-b2a3-4c65-926b-541c7631f2b8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-friedensdemos-ralf-stegner-gaza-krieg-libanon-und-iran](https://www.spiegel.de/politik/deutschland/news-friedensdemos-ralf-stegner-gaza-krieg-libanon-und-iran-a-fa155920-b87a-46b1-924c-de6edc0475b3#ref=rss)
-### sofort
-
-* [https://www.spiegel.de/kultur/7-oktober-jahrestag-des-hamas-ueberfalls-auf-israel-die-wichtigsten-buecher](https://www.spiegel.de/kultur/7-oktober-jahrestag-des-hamas-ueberfalls-auf-israel-die-wichtigsten-buecher-a-7bc29173-b2a3-4c65-926b-541c7631f2b8#ref=rss)
-* [https://www.spiegel.de/panorama/zuelpich-heissluftballon-geraet-in-stromleitung-und-faengt-feuer](https://www.spiegel.de/panorama/zuelpich-heissluftballon-geraet-in-stromleitung-und-faengt-feuer-a-bfd69429-88f9-4f64-adf9-e696ce0cc237#ref=rss)
-### soldatinnen
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-die-tragische-geschichte-der-ermordeten-und-entfuehrten-soldatinnen-am-7-oktober](https://www.spiegel.de/ausland/israel-gaza-krieg-die-tragische-geschichte-der-ermordeten-und-entfuehrten-soldatinnen-am-7-oktober-a-26aad6aa-14f1-4547-8aa0-3f8ebc757cf6#ref=rss)
-### hätten
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-die-tragische-geschichte-der-ermordeten-und-entfuehrten-soldatinnen-am-7-oktober](https://www.spiegel.de/ausland/israel-gaza-krieg-die-tragische-geschichte-der-ermordeten-und-entfuehrten-soldatinnen-am-7-oktober-a-26aad6aa-14f1-4547-8aa0-3f8ebc757cf6#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/interpol-chef-juergen-stock-staaten-drohen-gegen-die-mafia-zu-verlieren](https://www.spiegel.de/panorama/justiz/interpol-chef-juergen-stock-staaten-drohen-gegen-die-mafia-zu-verlieren-a-5ee73430-6a51-4283-bdca-b4e3a0be4496#ref=rss)
-### armee
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-die-tragische-geschichte-der-ermordeten-und-entfuehrten-soldatinnen-am-7-oktober](https://www.spiegel.de/ausland/israel-gaza-krieg-die-tragische-geschichte-der-ermordeten-und-entfuehrten-soldatinnen-am-7-oktober-a-26aad6aa-14f1-4547-8aa0-3f8ebc757cf6#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-krieg-israels-armee-greift-hamas-kommandozentrale-an](https://www.spiegel.de/ausland/gaza-krieg-israels-armee-greift-hamas-kommandozentrale-an-a-8edb8cf8-0922-4f0a-a706-896c27b5f79b#ref=rss)
-### kommen
-
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-will-zu-ukraine-gipfel-nach-deutschland-kommen](https://www.spiegel.de/ausland/wolodymyr-selenskyj-will-zu-ukraine-gipfel-nach-deutschland-kommen-a-eab195a9-7605-481d-8f75-45b20e76554e#ref=rss)
-### stefan
-
-* [https://www.spiegel.de/kultur/tv/sommerhaus-der-stars-7-vs-wild-stefan-raab-ruetzels-recap](https://www.spiegel.de/kultur/tv/sommerhaus-der-stars-7-vs-wild-stefan-raab-ruetzels-recap-a-d728ecfb-e85a-4106-ad30-cc90210a466f#ref=rss)
-### unter
-
-* [https://www.spiegel.de/kultur/tv/sommerhaus-der-stars-7-vs-wild-stefan-raab-ruetzels-recap](https://www.spiegel.de/kultur/tv/sommerhaus-der-stars-7-vs-wild-stefan-raab-ruetzels-recap-a-d728ecfb-e85a-4106-ad30-cc90210a466f#ref=rss)
-* [https://www.spiegel.de/ausland/aermelkanal-kleinkind-wird-auf-fluechtlingsboot-totgetrampelt](https://www.spiegel.de/ausland/aermelkanal-kleinkind-wird-auf-fluechtlingsboot-totgetrampelt-a-812f55f8-ce44-48d5-b443-018c4fb59c22#ref=rss)
-### woche
-
-* [https://www.spiegel.de/kultur/tv/sommerhaus-der-stars-7-vs-wild-stefan-raab-ruetzels-recap](https://www.spiegel.de/kultur/tv/sommerhaus-der-stars-7-vs-wild-stefan-raab-ruetzels-recap-a-d728ecfb-e85a-4106-ad30-cc90210a466f#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-1728201702](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-1728201702-a-0da0bf49-5d6b-4f81-b01d-56c51d193353#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/wissenschaft/hirnforschung-nostalgie-ist-ein-maechtiges-werkzeug-um-menschen-zu-manipulieren](https://www.spiegel.de/wissenschaft/hirnforschung-nostalgie-ist-ein-maechtiges-werkzeug-um-menschen-zu-manipulieren-a-6d4e4706-d064-452a-8a68-485c3b0d9dde#ref=rss)
-* [https://www.spiegel.de/politik/7-oktober-olaf-scholz-verurteilt-antisemitismus-und-blinden-israel-hass](https://www.spiegel.de/politik/7-oktober-olaf-scholz-verurteilt-antisemitismus-und-blinden-israel-hass-a-7e54d232-a897-408e-aaea-bda6d11782e9#ref=rss)
-### olaf
-
-* [https://www.spiegel.de/politik/7-oktober-olaf-scholz-verurteilt-antisemitismus-und-blinden-israel-hass](https://www.spiegel.de/politik/7-oktober-olaf-scholz-verurteilt-antisemitismus-und-blinden-israel-hass-a-7e54d232-a897-408e-aaea-bda6d11782e9#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/7-oktober-olaf-scholz-verurteilt-antisemitismus-und-blinden-israel-hass](https://www.spiegel.de/politik/7-oktober-olaf-scholz-verurteilt-antisemitismus-und-blinden-israel-hass-a-7e54d232-a897-408e-aaea-bda6d11782e9#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/politik/7-oktober-olaf-scholz-verurteilt-antisemitismus-und-blinden-israel-hass](https://www.spiegel.de/politik/7-oktober-olaf-scholz-verurteilt-antisemitismus-und-blinden-israel-hass-a-7e54d232-a897-408e-aaea-bda6d11782e9#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/interpol-chef-juergen-stock-staaten-drohen-gegen-die-mafia-zu-verlieren](https://www.spiegel.de/panorama/justiz/interpol-chef-juergen-stock-staaten-drohen-gegen-die-mafia-zu-verlieren-a-5ee73430-6a51-4283-bdca-b4e3a0be4496#ref=rss)
-### türkei
-
-* [https://www.spiegel.de/politik/ampel-regierung-genehmigt-wieder-waffen-exporte-in-die-tuerkei](https://www.spiegel.de/politik/ampel-regierung-genehmigt-wieder-waffen-exporte-in-die-tuerkei-a-dc5d8cb6-f602-4fdd-9e1e-a9251db30f9f#ref=rss)
-### auftritt
-
-* [https://www.spiegel.de/ausland/auftritt-von-donald-trump-und-elon-musk-in-butler-traumatherapie-und-bizarrer-feldgottesdienst](https://www.spiegel.de/ausland/auftritt-von-donald-trump-und-elon-musk-in-butler-traumatherapie-und-bizarrer-feldgottesdienst-a-2f1060ee-710b-4b6f-ac97-500235490639#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-leverkusen-fehlt-die-gier-laute-kritik-nach-remis-gegen-leverkusen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-leverkusen-fehlt-die-gier-laute-kritik-nach-remis-gegen-leverkusen-a-d9d014d9-792f-44e7-9946-43b6f667da0a#ref=rss)
-### elon
-
-* [https://www.spiegel.de/ausland/auftritt-von-donald-trump-und-elon-musk-in-butler-traumatherapie-und-bizarrer-feldgottesdienst](https://www.spiegel.de/ausland/auftritt-von-donald-trump-und-elon-musk-in-butler-traumatherapie-und-bizarrer-feldgottesdienst-a-2f1060ee-710b-4b6f-ac97-500235490639#ref=rss)
-### musk
-
-* [https://www.spiegel.de/ausland/auftritt-von-donald-trump-und-elon-musk-in-butler-traumatherapie-und-bizarrer-feldgottesdienst](https://www.spiegel.de/ausland/auftritt-von-donald-trump-und-elon-musk-in-butler-traumatherapie-und-bizarrer-feldgottesdienst-a-2f1060ee-710b-4b6f-ac97-500235490639#ref=rss)
-### bizarrer
-
-* [https://www.spiegel.de/ausland/auftritt-von-donald-trump-und-elon-musk-in-butler-traumatherapie-und-bizarrer-feldgottesdienst](https://www.spiegel.de/ausland/auftritt-von-donald-trump-und-elon-musk-in-butler-traumatherapie-und-bizarrer-feldgottesdienst-a-2f1060ee-710b-4b6f-ac97-500235490639#ref=rss)
-### feldgottesdienst
-
-* [https://www.spiegel.de/ausland/auftritt-von-donald-trump-und-elon-musk-in-butler-traumatherapie-und-bizarrer-feldgottesdienst](https://www.spiegel.de/ausland/auftritt-von-donald-trump-und-elon-musk-in-butler-traumatherapie-und-bizarrer-feldgottesdienst-a-2f1060ee-710b-4b6f-ac97-500235490639#ref=rss)
-### thomas
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-1728201702](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-1728201702-a-0da0bf49-5d6b-4f81-b01d-56c51d193353#ref=rss)
-### plaßmann
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-1728201702](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-1728201702-a-0da0bf49-5d6b-4f81-b01d-56c51d193353#ref=rss)
-### klaus
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-1728201702](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-1728201702-a-0da0bf49-5d6b-4f81-b01d-56c51d193353#ref=rss)
-### stuttmann
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-1728201702](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-1728201702-a-0da0bf49-5d6b-4f81-b01d-56c51d193353#ref=rss)
-### chappatte
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-1728201702](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-1728201702-a-0da0bf49-5d6b-4f81-b01d-56c51d193353#ref=rss)
-### sehen
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-1728201702](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-1728201702-a-0da0bf49-5d6b-4f81-b01d-56c51d193353#ref=rss)
-* [https://www.spiegel.de/panorama/pennsylvania-us-schule-installiert-ueberwachungsfenster-in-genderneutralen-toiletten](https://www.spiegel.de/panorama/pennsylvania-us-schule-installiert-ueberwachungsfenster-in-genderneutralen-toiletten-a-bfa8ac4f-f76d-4ed2-a759-efe22720af9b#ref=rss)
-### aktuellen
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-1728201702](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-1728201702-a-0da0bf49-5d6b-4f81-b01d-56c51d193353#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutscher-mittelstand-orafol-chef-loclair-aeussert-besorgnis-ueber-den-aktuellen-zustand](https://www.spiegel.de/wirtschaft/deutscher-mittelstand-orafol-chef-loclair-aeussert-besorgnis-ueber-den-aktuellen-zustand-a-9895deb3-a877-4d41-90d7-4a5fbfa095ce#ref=rss)
-### jürgen
-
-* [https://www.spiegel.de/panorama/justiz/interpol-chef-juergen-stock-staaten-drohen-gegen-die-mafia-zu-verlieren](https://www.spiegel.de/panorama/justiz/interpol-chef-juergen-stock-staaten-drohen-gegen-die-mafia-zu-verlieren-a-5ee73430-6a51-4283-bdca-b4e3a0be4496#ref=rss)
-### stock
-
-* [https://www.spiegel.de/panorama/justiz/interpol-chef-juergen-stock-staaten-drohen-gegen-die-mafia-zu-verlieren](https://www.spiegel.de/panorama/justiz/interpol-chef-juergen-stock-staaten-drohen-gegen-die-mafia-zu-verlieren-a-5ee73430-6a51-4283-bdca-b4e3a0be4496#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/neues-buendnis-in-der-rocker-szene-aus-feinden-werden-freunde-spiegel-tv](https://www.spiegel.de/panorama/justiz/neues-buendnis-in-der-rocker-szene-aus-feinden-werden-freunde-spiegel-tv-a-e16f12cb-fbc3-4b84-936f-838823d97782#ref=rss)
+* [https://www.spiegel.de/panorama/7-oktober-hamas-ueberfall-auf-israel-demonstrationen-in-zahlreichen-staedten-in-deutschland](https://www.spiegel.de/panorama/7-oktober-hamas-ueberfall-auf-israel-demonstrationen-in-zahlreichen-staedten-in-deutschland-a-fda75eac-5226-41a1-b225-a43b6bd4e06d#ref=rss)
+* [https://www.spiegel.de/panorama/juedinnen-und-juden-in-berlin-ueber-alltag-und-antisemitismus](https://www.spiegel.de/panorama/juedinnen-und-juden-in-berlin-ueber-alltag-und-antisemitismus-a-e6099408-20bc-413b-92ac-cb547cc5fc60#ref=rss)
 ### macht
 
-* [https://www.spiegel.de/panorama/justiz/interpol-chef-juergen-stock-staaten-drohen-gegen-die-mafia-zu-verlieren](https://www.spiegel.de/panorama/justiz/interpol-chef-juergen-stock-staaten-drohen-gegen-die-mafia-zu-verlieren-a-5ee73430-6a51-4283-bdca-b4e3a0be4496#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutscher-mittelstand-orafol-chef-loclair-aeussert-besorgnis-ueber-den-aktuellen-zustand](https://www.spiegel.de/wirtschaft/deutscher-mittelstand-orafol-chef-loclair-aeussert-besorgnis-ueber-den-aktuellen-zustand-a-9895deb3-a877-4d41-90d7-4a5fbfa095ce#ref=rss)
-### wirtschaft
+* [https://www.spiegel.de/wissenschaft/natur/palaeontologin-ueber-dinosaurier-zaehne-war-tyrannosaurus-rex-ein-knabberer](https://www.spiegel.de/wissenschaft/natur/palaeontologin-ueber-dinosaurier-zaehne-war-tyrannosaurus-rex-ein-knabberer-a-d9a25749-17d9-475f-a721-3eadf1bab98f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-springt-an-die-tabellenspitze-fuer-zwei-stunden](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-springt-an-die-tabellenspitze-fuer-zwei-stunden-a-83f8dfae-da66-4c5d-8681-d4e832637caf#ref=rss)
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-kaempft-gegen-die-internationale-childfree-bewegung](https://www.spiegel.de/ausland/russland-wladimir-putin-kaempft-gegen-die-internationale-childfree-bewegung-a-4f0dc3ed-9882-4064-8a0e-3a148d3a8cef#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/wirtschaft/bundesregierung-deutsche-wirtschaft-schrumpft-auch-2024](https://www.spiegel.de/wirtschaft/bundesregierung-deutsche-wirtschaft-schrumpft-auch-2024-a-67719252-e03b-4daf-b469-488d80fee1b3#ref=rss)
-### schrumpft
+* [https://www.spiegel.de/ausland/tuerkei-wie-gefolterte-frauen-aus-syrien-in-rehanli-weitermachen](https://www.spiegel.de/ausland/tuerkei-wie-gefolterte-frauen-aus-syrien-in-rehanli-weitermachen-a-f20cbfe7-b917-4401-a88d-0ed379d403e0#ref=rss)
+* [https://www.spiegel.de/kultur/mehr-lesen-mit-elke-heidenreich-buchtipp-starke-buecher-von-starken-frauen](https://www.spiegel.de/kultur/mehr-lesen-mit-elke-heidenreich-buchtipp-starke-buecher-von-starken-frauen-a-d6383b9a-603f-423a-9060-976eb558c49e#ref=rss)
+### syrien
 
-* [https://www.spiegel.de/wirtschaft/bundesregierung-deutsche-wirtschaft-schrumpft-auch-2024](https://www.spiegel.de/wirtschaft/bundesregierung-deutsche-wirtschaft-schrumpft-auch-2024-a-67719252-e03b-4daf-b469-488d80fee1b3#ref=rss)
-### 2024
+* [https://www.spiegel.de/ausland/tuerkei-wie-gefolterte-frauen-aus-syrien-in-rehanli-weitermachen](https://www.spiegel.de/ausland/tuerkei-wie-gefolterte-frauen-aus-syrien-in-rehanli-weitermachen-a-f20cbfe7-b917-4401-a88d-0ed379d403e0#ref=rss)
+* [https://www.spiegel.de/ausland/libanon-hisbollah-vs-israel-der-krieg-in-karten-und-grafiken](https://www.spiegel.de/ausland/libanon-hisbollah-vs-israel-der-krieg-in-karten-und-grafiken-a-6be7718c-1b6d-435d-941f-a080324a1c8e#ref=rss)
+### viele
 
-* [https://www.spiegel.de/wirtschaft/bundesregierung-deutsche-wirtschaft-schrumpft-auch-2024](https://www.spiegel.de/wirtschaft/bundesregierung-deutsche-wirtschaft-schrumpft-auch-2024-a-67719252-e03b-4daf-b469-488d80fee1b3#ref=rss)
-### keanu
+* [https://www.spiegel.de/ausland/tuerkei-wie-gefolterte-frauen-aus-syrien-in-rehanli-weitermachen](https://www.spiegel.de/ausland/tuerkei-wie-gefolterte-frauen-aus-syrien-in-rehanli-weitermachen-a-f20cbfe7-b917-4401-a88d-0ed379d403e0#ref=rss)
+* [https://www.spiegel.de/psychologie/unsicherheit-tipps-fuer-den-umgang-mit-aengstlichen-gefuehlen](https://www.spiegel.de/psychologie/unsicherheit-tipps-fuer-den-umgang-mit-aengstlichen-gefuehlen-a-507bb038-da32-45c5-9830-6fa0630e1bce#ref=rss)
+* [https://www.spiegel.de/politik/smartphone-sucht-alte-hausmittel-gegen-die-ueberforderung-der-digitalisierung](https://www.spiegel.de/politik/smartphone-sucht-alte-hausmittel-gegen-die-ueberforderung-der-digitalisierung-a-1581776c-4ded-4e83-8a77-78debb1be2df#ref=rss)
+### fc
 
-* [https://www.spiegel.de/panorama/leute/keanu-reeves-gibt-sein-debuet-als-profi-rennfahrer-in-indianapolis](https://www.spiegel.de/panorama/leute/keanu-reeves-gibt-sein-debuet-als-profi-rennfahrer-in-indianapolis-a-2b77d5b6-5d67-4589-8b53-a667c43c7333#ref=rss)
-### reeves
+* [https://www.spiegel.de/sport/fussball/naechster-erfolg-fuer-den-fc-barcelona-robert-lewandowski-braucht-nur-26-minuten-fuer-drei-tore](https://www.spiegel.de/sport/fussball/naechster-erfolg-fuer-den-fc-barcelona-robert-lewandowski-braucht-nur-26-minuten-fuer-drei-tore-a-a011e73b-e6df-47b8-938c-fc1e58ab5a64#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nachruf-auf-willi-giesemann-er-war-uwe-seelers-rueckendeckung-pele-brach-ihm-das-schienbein](https://www.spiegel.de/sport/fussball/nachruf-auf-willi-giesemann-er-war-uwe-seelers-rueckendeckung-pele-brach-ihm-das-schienbein-a-f8530d79-48e1-48a8-a044-6bf8386e9d59#ref=rss)
+### hamburger
 
-* [https://www.spiegel.de/panorama/leute/keanu-reeves-gibt-sein-debuet-als-profi-rennfahrer-in-indianapolis](https://www.spiegel.de/panorama/leute/keanu-reeves-gibt-sein-debuet-als-profi-rennfahrer-in-indianapolis-a-2b77d5b6-5d67-4589-8b53-a667c43c7333#ref=rss)
-### orafolchef
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-jean-luc-dompe-leitet-sieg-des-hamburger-sv-gegen-fortuna-duesseldorf-ein](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-jean-luc-dompe-leitet-sieg-des-hamburger-sv-gegen-fortuna-duesseldorf-ein-a-7ec34de0-05c3-429b-ac22-b8c132f4852e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nachruf-auf-willi-giesemann-er-war-uwe-seelers-rueckendeckung-pele-brach-ihm-das-schienbein](https://www.spiegel.de/sport/fussball/nachruf-auf-willi-giesemann-er-war-uwe-seelers-rueckendeckung-pele-brach-ihm-das-schienbein-a-f8530d79-48e1-48a8-a044-6bf8386e9d59#ref=rss)
+### sv
 
-* [https://www.spiegel.de/wirtschaft/deutscher-mittelstand-orafol-chef-loclair-aeussert-besorgnis-ueber-den-aktuellen-zustand](https://www.spiegel.de/wirtschaft/deutscher-mittelstand-orafol-chef-loclair-aeussert-besorgnis-ueber-den-aktuellen-zustand-a-9895deb3-a877-4d41-90d7-4a5fbfa095ce#ref=rss)
-### loclair
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-jean-luc-dompe-leitet-sieg-des-hamburger-sv-gegen-fortuna-duesseldorf-ein](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-jean-luc-dompe-leitet-sieg-des-hamburger-sv-gegen-fortuna-duesseldorf-ein-a-7ec34de0-05c3-429b-ac22-b8c132f4852e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nachruf-auf-willi-giesemann-er-war-uwe-seelers-rueckendeckung-pele-brach-ihm-das-schienbein](https://www.spiegel.de/sport/fussball/nachruf-auf-willi-giesemann-er-war-uwe-seelers-rueckendeckung-pele-brach-ihm-das-schienbein-a-f8530d79-48e1-48a8-a044-6bf8386e9d59#ref=rss)
+### bücher
 
-* [https://www.spiegel.de/wirtschaft/deutscher-mittelstand-orafol-chef-loclair-aeussert-besorgnis-ueber-den-aktuellen-zustand](https://www.spiegel.de/wirtschaft/deutscher-mittelstand-orafol-chef-loclair-aeussert-besorgnis-ueber-den-aktuellen-zustand-a-9895deb3-a877-4d41-90d7-4a5fbfa095ce#ref=rss)
-### allem
+* [https://www.spiegel.de/kultur/mehr-lesen-mit-elke-heidenreich-buchtipp-starke-buecher-von-starken-frauen](https://www.spiegel.de/kultur/mehr-lesen-mit-elke-heidenreich-buchtipp-starke-buecher-von-starken-frauen-a-d6383b9a-603f-423a-9060-976eb558c49e#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/wirtschaft/deutscher-mittelstand-orafol-chef-loclair-aeussert-besorgnis-ueber-den-aktuellen-zustand](https://www.spiegel.de/wirtschaft/deutscher-mittelstand-orafol-chef-loclair-aeussert-besorgnis-ueber-den-aktuellen-zustand-a-9895deb3-a877-4d41-90d7-4a5fbfa095ce#ref=rss)
-* [https://www.spiegel.de/familie/alleinerziehende-und-ihre-kinder-mapa-ich-bin-stolz-auf-uns](https://www.spiegel.de/familie/alleinerziehende-und-ihre-kinder-mapa-ich-bin-stolz-auf-uns-a-27177719-bbc5-46a9-901d-060a67add22f#ref=rss)
-### gazakrieg
+* [https://www.spiegel.de/sport/fussball/nachruf-auf-willi-giesemann-er-war-uwe-seelers-rueckendeckung-pele-brach-ihm-das-schienbein](https://www.spiegel.de/sport/fussball/nachruf-auf-willi-giesemann-er-war-uwe-seelers-rueckendeckung-pele-brach-ihm-das-schienbein-a-f8530d79-48e1-48a8-a044-6bf8386e9d59#ref=rss)
+* [https://www.spiegel.de/ausland/libanon-hisbollah-vs-israel-der-krieg-in-karten-und-grafiken](https://www.spiegel.de/ausland/libanon-hisbollah-vs-israel-der-krieg-in-karten-und-grafiken-a-6be7718c-1b6d-435d-941f-a080324a1c8e#ref=rss)
+* [https://www.spiegel.de/panorama/leute/stanley-tucci-sexsymbol-mit-63-der-schauspieler-ist-begeistert](https://www.spiegel.de/panorama/leute/stanley-tucci-sexsymbol-mit-63-der-schauspieler-ist-begeistert-a-9dab463e-eef9-421c-a568-d46963ff9d15#ref=rss)
+### ostukraine
 
-* [https://www.spiegel.de/politik/deutschland/news-friedensdemos-ralf-stegner-gaza-krieg-libanon-und-iran](https://www.spiegel.de/politik/deutschland/news-friedensdemos-ralf-stegner-gaza-krieg-libanon-und-iran-a-fa155920-b87a-46b1-924c-de6edc0475b3#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-krieg-israels-armee-greift-hamas-kommandozentrale-an](https://www.spiegel.de/ausland/gaza-krieg-israels-armee-greift-hamas-kommandozentrale-an-a-8edb8cf8-0922-4f0a-a706-896c27b5f79b#ref=rss)
-### libanon
+* [https://www.spiegel.de/ausland/ostukraine-kremlkritiker-ildar-dadin-bei-kaempfen-getoetet](https://www.spiegel.de/ausland/ostukraine-kremlkritiker-ildar-dadin-bei-kaempfen-getoetet-a-5e240512-3bc9-402d-9823-d574b28af4e0#ref=rss)
+### ildar
 
-* [https://www.spiegel.de/politik/deutschland/news-friedensdemos-ralf-stegner-gaza-krieg-libanon-und-iran](https://www.spiegel.de/politik/deutschland/news-friedensdemos-ralf-stegner-gaza-krieg-libanon-und-iran-a-fa155920-b87a-46b1-924c-de6edc0475b3#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-krieg-israels-armee-greift-hamas-kommandozentrale-an](https://www.spiegel.de/ausland/gaza-krieg-israels-armee-greift-hamas-kommandozentrale-an-a-8edb8cf8-0922-4f0a-a706-896c27b5f79b#ref=rss)
-### bin
+* [https://www.spiegel.de/ausland/ostukraine-kremlkritiker-ildar-dadin-bei-kaempfen-getoetet](https://www.spiegel.de/ausland/ostukraine-kremlkritiker-ildar-dadin-bei-kaempfen-getoetet-a-5e240512-3bc9-402d-9823-d574b28af4e0#ref=rss)
+### dadin
 
-* [https://www.spiegel.de/familie/alleinerziehende-und-ihre-kinder-mapa-ich-bin-stolz-auf-uns](https://www.spiegel.de/familie/alleinerziehende-und-ihre-kinder-mapa-ich-bin-stolz-auf-uns-a-27177719-bbc5-46a9-901d-060a67add22f#ref=rss)
-### wo
+* [https://www.spiegel.de/ausland/ostukraine-kremlkritiker-ildar-dadin-bei-kaempfen-getoetet](https://www.spiegel.de/ausland/ostukraine-kremlkritiker-ildar-dadin-bei-kaempfen-getoetet-a-5e240512-3bc9-402d-9823-d574b28af4e0#ref=rss)
+### kämpfen
 
-* [https://www.spiegel.de/familie/alleinerziehende-und-ihre-kinder-mapa-ich-bin-stolz-auf-uns](https://www.spiegel.de/familie/alleinerziehende-und-ihre-kinder-mapa-ich-bin-stolz-auf-uns-a-27177719-bbc5-46a9-901d-060a67add22f#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-nennt-schuetzen-vom-13-juli-ein-boesartiges-monster](https://www.spiegel.de/ausland/donald-trump-nennt-schuetzen-vom-13-juli-ein-boesartiges-monster-a-f43ef5e7-3375-439f-bf39-9286017e3d29#ref=rss)
-### sollten
+* [https://www.spiegel.de/ausland/ostukraine-kremlkritiker-ildar-dadin-bei-kaempfen-getoetet](https://www.spiegel.de/ausland/ostukraine-kremlkritiker-ildar-dadin-bei-kaempfen-getoetet-a-5e240512-3bc9-402d-9823-d574b28af4e0#ref=rss)
+### russische
 
-* [https://www.spiegel.de/familie/alleinerziehende-und-ihre-kinder-mapa-ich-bin-stolz-auf-uns](https://www.spiegel.de/familie/alleinerziehende-und-ihre-kinder-mapa-ich-bin-stolz-auf-uns-a-27177719-bbc5-46a9-901d-060a67add22f#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-krieg-israels-armee-greift-hamas-kommandozentrale-an](https://www.spiegel.de/ausland/gaza-krieg-israels-armee-greift-hamas-kommandozentrale-an-a-8edb8cf8-0922-4f0a-a706-896c27b5f79b#ref=rss)
-### franz
+* [https://www.spiegel.de/ausland/ostukraine-kremlkritiker-ildar-dadin-bei-kaempfen-getoetet](https://www.spiegel.de/ausland/ostukraine-kremlkritiker-ildar-dadin-bei-kaempfen-getoetet-a-5e240512-3bc9-402d-9823-d574b28af4e0#ref=rss)
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-kaempft-gegen-die-internationale-childfree-bewegung](https://www.spiegel.de/ausland/russland-wladimir-putin-kaempft-gegen-die-internationale-childfree-bewegung-a-4f0dc3ed-9882-4064-8a0e-3a148d3a8cef#ref=rss)
+### münchen
 
-* [https://www.spiegel.de/geschichte/germantown-wie-franz-daniel-pastorius-die-ersten-deutschen-nach-amerika-lotste](https://www.spiegel.de/geschichte/germantown-wie-franz-daniel-pastorius-die-ersten-deutschen-nach-amerika-lotste-a-77f5e98d-3bf0-46be-900c-86e060db3390#ref=rss)
-### daniel
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-verspielt-sieg-bei-eintracht-frankfurt-im-topspiel](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-verspielt-sieg-bei-eintracht-frankfurt-im-topspiel-a-fec7b09b-8e74-4cd7-9755-09b1f66a9eee#ref=rss)
+### verspielt
 
-* [https://www.spiegel.de/geschichte/germantown-wie-franz-daniel-pastorius-die-ersten-deutschen-nach-amerika-lotste](https://www.spiegel.de/geschichte/germantown-wie-franz-daniel-pastorius-die-ersten-deutschen-nach-amerika-lotste-a-77f5e98d-3bf0-46be-900c-86e060db3390#ref=rss)
-### pastorius
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-verspielt-sieg-bei-eintracht-frankfurt-im-topspiel](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-verspielt-sieg-bei-eintracht-frankfurt-im-topspiel-a-fec7b09b-8e74-4cd7-9755-09b1f66a9eee#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/fruehe-kinderbetreuung-in-den-kitas-verspielt-man-die-bildungspotenziale-von-kindern](https://www.spiegel.de/panorama/bildung/fruehe-kinderbetreuung-in-den-kitas-verspielt-man-die-bildungspotenziale-von-kindern-a-9bd2ca0c-52ff-48f3-b3b1-869ded5f98e3#ref=rss)
+### eintracht
 
-* [https://www.spiegel.de/geschichte/germantown-wie-franz-daniel-pastorius-die-ersten-deutschen-nach-amerika-lotste](https://www.spiegel.de/geschichte/germantown-wie-franz-daniel-pastorius-die-ersten-deutschen-nach-amerika-lotste-a-77f5e98d-3bf0-46be-900c-86e060db3390#ref=rss)
-### deutschen
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-verspielt-sieg-bei-eintracht-frankfurt-im-topspiel](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-verspielt-sieg-bei-eintracht-frankfurt-im-topspiel-a-fec7b09b-8e74-4cd7-9755-09b1f66a9eee#ref=rss)
+### seines
 
-* [https://www.spiegel.de/geschichte/germantown-wie-franz-daniel-pastorius-die-ersten-deutschen-nach-amerika-lotste](https://www.spiegel.de/geschichte/germantown-wie-franz-daniel-pastorius-die-ersten-deutschen-nach-amerika-lotste-a-77f5e98d-3bf0-46be-900c-86e060db3390#ref=rss)
-### amerika
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-verspielt-sieg-bei-eintracht-frankfurt-im-topspiel](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-verspielt-sieg-bei-eintracht-frankfurt-im-topspiel-a-fec7b09b-8e74-4cd7-9755-09b1f66a9eee#ref=rss)
+* [https://www.spiegel.de/sport/fussball/naechster-erfolg-fuer-den-fc-barcelona-robert-lewandowski-braucht-nur-26-minuten-fuer-drei-tore](https://www.spiegel.de/sport/fussball/naechster-erfolg-fuer-den-fc-barcelona-robert-lewandowski-braucht-nur-26-minuten-fuer-drei-tore-a-a011e73b-e6df-47b8-938c-fc1e58ab5a64#ref=rss)
+### spiegel
 
-* [https://www.spiegel.de/geschichte/germantown-wie-franz-daniel-pastorius-die-ersten-deutschen-nach-amerika-lotste](https://www.spiegel.de/geschichte/germantown-wie-franz-daniel-pastorius-die-ersten-deutschen-nach-amerika-lotste-a-77f5e98d-3bf0-46be-900c-86e060db3390#ref=rss)
-### lotste
-
-* [https://www.spiegel.de/geschichte/germantown-wie-franz-daniel-pastorius-die-ersten-deutschen-nach-amerika-lotste](https://www.spiegel.de/geschichte/germantown-wie-franz-daniel-pastorius-die-ersten-deutschen-nach-amerika-lotste-a-77f5e98d-3bf0-46be-900c-86e060db3390#ref=rss)
-### 13
-
-* [https://www.spiegel.de/geschichte/germantown-wie-franz-daniel-pastorius-die-ersten-deutschen-nach-amerika-lotste](https://www.spiegel.de/geschichte/germantown-wie-franz-daniel-pastorius-die-ersten-deutschen-nach-amerika-lotste-a-77f5e98d-3bf0-46be-900c-86e060db3390#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-nennt-schuetzen-vom-13-juli-ein-boesartiges-monster](https://www.spiegel.de/ausland/donald-trump-nennt-schuetzen-vom-13-juli-ein-boesartiges-monster-a-f43ef5e7-3375-439f-bf39-9286017e3d29#ref=rss)
-### westerwald
-
-* [https://www.spiegel.de/panorama/hachenburg-im-westerwald-polizei-loest-bei-grossrazzia-in-der-nacht-kampfsportevent-auf](https://www.spiegel.de/panorama/hachenburg-im-westerwald-polizei-loest-bei-grossrazzia-in-der-nacht-kampfsportevent-auf-a-fc963cba-3324-4bf1-b1ce-f651ee5d9e69#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/neues-buendnis-in-der-rocker-szene-aus-feinden-werden-freunde-spiegel-tv](https://www.spiegel.de/panorama/justiz/neues-buendnis-in-der-rocker-szene-aus-feinden-werden-freunde-spiegel-tv-a-e16f12cb-fbc3-4b84-936f-838823d97782#ref=rss)
+* [https://www.spiegel.de/panorama/juedinnen-und-juden-in-berlin-ueber-alltag-und-antisemitismus](https://www.spiegel.de/panorama/juedinnen-und-juden-in-berlin-ueber-alltag-und-antisemitismus-a-e6099408-20bc-413b-92ac-cb547cc5fc60#ref=rss)
 ### polizei
 
-* [https://www.spiegel.de/panorama/hachenburg-im-westerwald-polizei-loest-bei-grossrazzia-in-der-nacht-kampfsportevent-auf](https://www.spiegel.de/panorama/hachenburg-im-westerwald-polizei-loest-bei-grossrazzia-in-der-nacht-kampfsportevent-auf-a-fc963cba-3324-4bf1-b1ce-f651ee5d9e69#ref=rss)
-### dänemark
+* [https://www.spiegel.de/panorama/justiz/neues-buendnis-in-der-rocker-szene-aus-feinden-werden-freunde-spiegel-tv](https://www.spiegel.de/panorama/justiz/neues-buendnis-in-der-rocker-szene-aus-feinden-werden-freunde-spiegel-tv-a-e16f12cb-fbc3-4b84-936f-838823d97782#ref=rss)
+* [https://www.spiegel.de/panorama/7-oktober-hamas-ueberfall-auf-israel-demonstrationen-in-zahlreichen-staedten-in-deutschland](https://www.spiegel.de/panorama/7-oktober-hamas-ueberfall-auf-israel-demonstrationen-in-zahlreichen-staedten-in-deutschland-a-fda75eac-5226-41a1-b225-a43b6bd4e06d#ref=rss)
+### rex
 
-* [https://www.spiegel.de/ausland/daenemark-verstaerkt-kontrollen-an-grenzen-zu-schweden-und-deutschland](https://www.spiegel.de/ausland/daenemark-verstaerkt-kontrollen-an-grenzen-zu-schweden-und-deutschland-a-5e0f3b1c-0f45-4d9e-ab5a-6dec7babe623#ref=rss)
-### grenzen
+* [https://www.spiegel.de/wissenschaft/natur/palaeontologin-ueber-dinosaurier-zaehne-war-tyrannosaurus-rex-ein-knabberer](https://www.spiegel.de/wissenschaft/natur/palaeontologin-ueber-dinosaurier-zaehne-war-tyrannosaurus-rex-ein-knabberer-a-d9a25749-17d9-475f-a721-3eadf1bab98f#ref=rss)
+### weitermachen
 
-* [https://www.spiegel.de/ausland/daenemark-verstaerkt-kontrollen-an-grenzen-zu-schweden-und-deutschland](https://www.spiegel.de/ausland/daenemark-verstaerkt-kontrollen-an-grenzen-zu-schweden-und-deutschland-a-5e0f3b1c-0f45-4d9e-ab5a-6dec7babe623#ref=rss)
-### tausende
+* [https://www.spiegel.de/ausland/tuerkei-wie-gefolterte-frauen-aus-syrien-in-rehanli-weitermachen](https://www.spiegel.de/ausland/tuerkei-wie-gefolterte-frauen-aus-syrien-in-rehanli-weitermachen-a-f20cbfe7-b917-4401-a88d-0ed379d403e0#ref=rss)
+### hilft
 
-* [https://www.spiegel.de/ausland/gaza-krieg-israels-armee-greift-hamas-kommandozentrale-an](https://www.spiegel.de/ausland/gaza-krieg-israels-armee-greift-hamas-kommandozentrale-an-a-8edb8cf8-0922-4f0a-a706-896c27b5f79b#ref=rss)
-* [https://www.spiegel.de/ausland/ungarn-demonstranten-prangern-victor-orban-fuer-vereinnahmung-ungarischer-medien-an](https://www.spiegel.de/ausland/ungarn-demonstranten-prangern-victor-orban-fuer-vereinnahmung-ungarischer-medien-an-a-e4cc8816-af43-4d3e-9af7-44c79b082b5a#ref=rss)
-### zülpich
+* [https://www.spiegel.de/ausland/tuerkei-wie-gefolterte-frauen-aus-syrien-in-rehanli-weitermachen](https://www.spiegel.de/ausland/tuerkei-wie-gefolterte-frauen-aus-syrien-in-rehanli-weitermachen-a-f20cbfe7-b917-4401-a88d-0ed379d403e0#ref=rss)
+* [https://www.spiegel.de/psychologie/unsicherheit-tipps-fuer-den-umgang-mit-aengstlichen-gefuehlen](https://www.spiegel.de/psychologie/unsicherheit-tipps-fuer-den-umgang-mit-aengstlichen-gefuehlen-a-507bb038-da32-45c5-9830-6fa0630e1bce#ref=rss)
+### robert
 
-* [https://www.spiegel.de/panorama/zuelpich-heissluftballon-geraet-in-stromleitung-und-faengt-feuer](https://www.spiegel.de/panorama/zuelpich-heissluftballon-geraet-in-stromleitung-und-faengt-feuer-a-bfd69429-88f9-4f64-adf9-e696ce0cc237#ref=rss)
-### heißluftballon
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-der-gruene-kettensaegenmann](https://www.spiegel.de/politik/deutschland/robert-habeck-der-gruene-kettensaegenmann-a-e7710284-f373-4c45-8df5-ad1fbc839be4#ref=rss)
+* [https://www.spiegel.de/sport/fussball/naechster-erfolg-fuer-den-fc-barcelona-robert-lewandowski-braucht-nur-26-minuten-fuer-drei-tore](https://www.spiegel.de/sport/fussball/naechster-erfolg-fuer-den-fc-barcelona-robert-lewandowski-braucht-nur-26-minuten-fuer-drei-tore-a-a011e73b-e6df-47b8-938c-fc1e58ab5a64#ref=rss)
+### neu
 
-* [https://www.spiegel.de/panorama/zuelpich-heissluftballon-geraet-in-stromleitung-und-faengt-feuer](https://www.spiegel.de/panorama/zuelpich-heissluftballon-geraet-in-stromleitung-und-faengt-feuer-a-bfd69429-88f9-4f64-adf9-e696ce0cc237#ref=rss)
-### stromleitung
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-der-gruene-kettensaegenmann](https://www.spiegel.de/politik/deutschland/robert-habeck-der-gruene-kettensaegenmann-a-e7710284-f373-4c45-8df5-ad1fbc839be4#ref=rss)
+### ganz
 
-* [https://www.spiegel.de/panorama/zuelpich-heissluftballon-geraet-in-stromleitung-und-faengt-feuer](https://www.spiegel.de/panorama/zuelpich-heissluftballon-geraet-in-stromleitung-und-faengt-feuer-a-bfd69429-88f9-4f64-adf9-e696ce0cc237#ref=rss)
-### monster
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-der-gruene-kettensaegenmann](https://www.spiegel.de/politik/deutschland/robert-habeck-der-gruene-kettensaegenmann-a-e7710284-f373-4c45-8df5-ad1fbc839be4#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/fruehe-kinderbetreuung-in-den-kitas-verspielt-man-die-bildungspotenziale-von-kindern](https://www.spiegel.de/panorama/bildung/fruehe-kinderbetreuung-in-den-kitas-verspielt-man-die-bildungspotenziale-von-kindern-a-9bd2ca0c-52ff-48f3-b3b1-869ded5f98e3#ref=rss)
+### barcelona
 
-* [https://www.spiegel.de/ausland/donald-trump-nennt-schuetzen-vom-13-juli-ein-boesartiges-monster](https://www.spiegel.de/ausland/donald-trump-nennt-schuetzen-vom-13-juli-ein-boesartiges-monster-a-f43ef5e7-3375-439f-bf39-9286017e3d29#ref=rss)
-### leben
+* [https://www.spiegel.de/sport/fussball/naechster-erfolg-fuer-den-fc-barcelona-robert-lewandowski-braucht-nur-26-minuten-fuer-drei-tore](https://www.spiegel.de/sport/fussball/naechster-erfolg-fuer-den-fc-barcelona-robert-lewandowski-braucht-nur-26-minuten-fuer-drei-tore-a-a011e73b-e6df-47b8-938c-fc1e58ab5a64#ref=rss)
+### davon
 
-* [https://www.spiegel.de/ausland/donald-trump-nennt-schuetzen-vom-13-juli-ein-boesartiges-monster](https://www.spiegel.de/ausland/donald-trump-nennt-schuetzen-vom-13-juli-ein-boesartiges-monster-a-f43ef5e7-3375-439f-bf39-9286017e3d29#ref=rss)
-* [https://www.spiegel.de/ausland/aermelkanal-kleinkind-wird-auf-fluechtlingsboot-totgetrampelt](https://www.spiegel.de/ausland/aermelkanal-kleinkind-wird-auf-fluechtlingsboot-totgetrampelt-a-812f55f8-ce44-48d5-b443-018c4fb59c22#ref=rss)
-### victor
+* [https://www.spiegel.de/sport/fussball/naechster-erfolg-fuer-den-fc-barcelona-robert-lewandowski-braucht-nur-26-minuten-fuer-drei-tore](https://www.spiegel.de/sport/fussball/naechster-erfolg-fuer-den-fc-barcelona-robert-lewandowski-braucht-nur-26-minuten-fuer-drei-tore-a-a011e73b-e6df-47b8-938c-fc1e58ab5a64#ref=rss)
+* [https://www.spiegel.de/tests/elektronik/gaming-tastaturen-im-test-diese-fuenf-modelle-sind-funktional-und-nicht-haesslich](https://www.spiegel.de/tests/elektronik/gaming-tastaturen-im-test-diese-fuenf-modelle-sind-funktional-und-nicht-haesslich-a-1ac99460-2dbc-4781-adab-65e4e49a6621#ref=rss)
+### teils
 
-* [https://www.spiegel.de/ausland/ungarn-demonstranten-prangern-victor-orban-fuer-vereinnahmung-ungarischer-medien-an](https://www.spiegel.de/ausland/ungarn-demonstranten-prangern-victor-orban-fuer-vereinnahmung-ungarischer-medien-an-a-e4cc8816-af43-4d3e-9af7-44c79b082b5a#ref=rss)
-### genug
+* [https://www.spiegel.de/panorama/7-oktober-hamas-ueberfall-auf-israel-demonstrationen-in-zahlreichen-staedten-in-deutschland](https://www.spiegel.de/panorama/7-oktober-hamas-ueberfall-auf-israel-demonstrationen-in-zahlreichen-staedten-in-deutschland-a-fda75eac-5226-41a1-b225-a43b6bd4e06d#ref=rss)
+### kurz
 
-* [https://www.spiegel.de/ausland/ungarn-demonstranten-prangern-victor-orban-fuer-vereinnahmung-ungarischer-medien-an](https://www.spiegel.de/ausland/ungarn-demonstranten-prangern-victor-orban-fuer-vereinnahmung-ungarischer-medien-an-a-e4cc8816-af43-4d3e-9af7-44c79b082b5a#ref=rss)
-### ärmelkanal
+* [https://www.spiegel.de/panorama/7-oktober-hamas-ueberfall-auf-israel-demonstrationen-in-zahlreichen-staedten-in-deutschland](https://www.spiegel.de/panorama/7-oktober-hamas-ueberfall-auf-israel-demonstrationen-in-zahlreichen-staedten-in-deutschland-a-fda75eac-5226-41a1-b225-a43b6bd4e06d#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/fruehe-kinderbetreuung-in-den-kitas-verspielt-man-die-bildungspotenziale-von-kindern](https://www.spiegel.de/panorama/bildung/fruehe-kinderbetreuung-in-den-kitas-verspielt-man-die-bildungspotenziale-von-kindern-a-9bd2ca0c-52ff-48f3-b3b1-869ded5f98e3#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/ausland/aermelkanal-kleinkind-wird-auf-fluechtlingsboot-totgetrampelt](https://www.spiegel.de/ausland/aermelkanal-kleinkind-wird-auf-fluechtlingsboot-totgetrampelt-a-812f55f8-ce44-48d5-b443-018c4fb59c22#ref=rss)
+* [https://www.spiegel.de/panorama/7-oktober-hamas-ueberfall-auf-israel-demonstrationen-in-zahlreichen-staedten-in-deutschland](https://www.spiegel.de/panorama/7-oktober-hamas-ueberfall-auf-israel-demonstrationen-in-zahlreichen-staedten-in-deutschland-a-fda75eac-5226-41a1-b225-a43b6bd4e06d#ref=rss)
+* [https://www.spiegel.de/panorama/juedinnen-und-juden-in-berlin-ueber-alltag-und-antisemitismus](https://www.spiegel.de/panorama/juedinnen-und-juden-in-berlin-ueber-alltag-und-antisemitismus-a-e6099408-20bc-413b-92ac-cb547cc5fc60#ref=rss)
+### mallorca
+
+* [https://www.spiegel.de/panorama/mallorca-deutscher-tourist-stirbt-bei-autounfall](https://www.spiegel.de/panorama/mallorca-deutscher-tourist-stirbt-bei-autounfall-a-dd53b175-708f-4424-a2df-897c48f6e3fc#ref=rss)
+### suche
+
+* [https://www.spiegel.de/panorama/mallorca-deutscher-tourist-stirbt-bei-autounfall](https://www.spiegel.de/panorama/mallorca-deutscher-tourist-stirbt-bei-autounfall-a-dd53b175-708f-4424-a2df-897c48f6e3fc#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/goeppingen-suche-nach-schuetze-mit-maschinenpistole-dauert-an](https://www.spiegel.de/panorama/justiz/goeppingen-suche-nach-schuetze-mit-maschinenpistole-dauert-an-a-b4993df2-8d22-4b1f-ab84-07e008342519#ref=rss)
+### gamingtastaturen
+
+* [https://www.spiegel.de/tests/elektronik/gaming-tastaturen-im-test-diese-fuenf-modelle-sind-funktional-und-nicht-haesslich](https://www.spiegel.de/tests/elektronik/gaming-tastaturen-im-test-diese-fuenf-modelle-sind-funktional-und-nicht-haesslich-a-1ac99460-2dbc-4781-adab-65e4e49a6621#ref=rss)
+### fünf
+
+* [https://www.spiegel.de/tests/elektronik/gaming-tastaturen-im-test-diese-fuenf-modelle-sind-funktional-und-nicht-haesslich](https://www.spiegel.de/tests/elektronik/gaming-tastaturen-im-test-diese-fuenf-modelle-sind-funktional-und-nicht-haesslich-a-1ac99460-2dbc-4781-adab-65e4e49a6621#ref=rss)
+### modelle
+
+* [https://www.spiegel.de/tests/elektronik/gaming-tastaturen-im-test-diese-fuenf-modelle-sind-funktional-und-nicht-haesslich](https://www.spiegel.de/tests/elektronik/gaming-tastaturen-im-test-diese-fuenf-modelle-sind-funktional-und-nicht-haesslich-a-1ac99460-2dbc-4781-adab-65e4e49a6621#ref=rss)
+### funktional
+
+* [https://www.spiegel.de/tests/elektronik/gaming-tastaturen-im-test-diese-fuenf-modelle-sind-funktional-und-nicht-haesslich](https://www.spiegel.de/tests/elektronik/gaming-tastaturen-im-test-diese-fuenf-modelle-sind-funktional-und-nicht-haesslich-a-1ac99460-2dbc-4781-adab-65e4e49a6621#ref=rss)
+### wir
+
+* [https://www.spiegel.de/tests/elektronik/gaming-tastaturen-im-test-diese-fuenf-modelle-sind-funktional-und-nicht-haesslich](https://www.spiegel.de/tests/elektronik/gaming-tastaturen-im-test-diese-fuenf-modelle-sind-funktional-und-nicht-haesslich-a-1ac99460-2dbc-4781-adab-65e4e49a6621#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-franken-trotzdem-mit-dagmar-manzel-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-franken-trotzdem-mit-dagmar-manzel-im-schnellcheck-a-224c2a90-387f-4cff-90c6-9f57d96b4884#ref=rss)
+### gut
+
+* [https://www.spiegel.de/tests/elektronik/gaming-tastaturen-im-test-diese-fuenf-modelle-sind-funktional-und-nicht-haesslich](https://www.spiegel.de/tests/elektronik/gaming-tastaturen-im-test-diese-fuenf-modelle-sind-funktional-und-nicht-haesslich-a-1ac99460-2dbc-4781-adab-65e4e49a6621#ref=rss)
+* [https://www.spiegel.de/psychologie/unsicherheit-tipps-fuer-den-umgang-mit-aengstlichen-gefuehlen](https://www.spiegel.de/psychologie/unsicherheit-tipps-fuer-den-umgang-mit-aengstlichen-gefuehlen-a-507bb038-da32-45c5-9830-6fa0630e1bce#ref=rss)
+### sue
+
+* [https://www.spiegel.de/ausland/grossbritannien-sue-gray-stabschefin-von-keir-starmer-tritt-zurueck](https://www.spiegel.de/ausland/grossbritannien-sue-gray-stabschefin-von-keir-starmer-tritt-zurueck-a-ea86bee1-8ada-463e-8aa3-d9ca6210327b#ref=rss)
+### gray
+
+* [https://www.spiegel.de/ausland/grossbritannien-sue-gray-stabschefin-von-keir-starmer-tritt-zurueck](https://www.spiegel.de/ausland/grossbritannien-sue-gray-stabschefin-von-keir-starmer-tritt-zurueck-a-ea86bee1-8ada-463e-8aa3-d9ca6210327b#ref=rss)
+### keir
+
+* [https://www.spiegel.de/ausland/grossbritannien-sue-gray-stabschefin-von-keir-starmer-tritt-zurueck](https://www.spiegel.de/ausland/grossbritannien-sue-gray-stabschefin-von-keir-starmer-tritt-zurueck-a-ea86bee1-8ada-463e-8aa3-d9ca6210327b#ref=rss)
+### starmer
+
+* [https://www.spiegel.de/ausland/grossbritannien-sue-gray-stabschefin-von-keir-starmer-tritt-zurueck](https://www.spiegel.de/ausland/grossbritannien-sue-gray-stabschefin-von-keir-starmer-tritt-zurueck-a-ea86bee1-8ada-463e-8aa3-d9ca6210327b#ref=rss)
+### tritt
+
+* [https://www.spiegel.de/ausland/grossbritannien-sue-gray-stabschefin-von-keir-starmer-tritt-zurueck](https://www.spiegel.de/ausland/grossbritannien-sue-gray-stabschefin-von-keir-starmer-tritt-zurueck-a-ea86bee1-8ada-463e-8aa3-d9ca6210327b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nachruf-auf-willi-giesemann-er-war-uwe-seelers-rueckendeckung-pele-brach-ihm-das-schienbein](https://www.spiegel.de/sport/fussball/nachruf-auf-willi-giesemann-er-war-uwe-seelers-rueckendeckung-pele-brach-ihm-das-schienbein-a-f8530d79-48e1-48a8-a044-6bf8386e9d59#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/ausland/grossbritannien-sue-gray-stabschefin-von-keir-starmer-tritt-zurueck](https://www.spiegel.de/ausland/grossbritannien-sue-gray-stabschefin-von-keir-starmer-tritt-zurueck-a-ea86bee1-8ada-463e-8aa3-d9ca6210327b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/buergergeld-reform-spd-fraktion-rudert-bei-ampelplaenen-zur-jobpraemie-zurueck](https://www.spiegel.de/wirtschaft/soziales/buergergeld-reform-spd-fraktion-rudert-bei-ampelplaenen-zur-jobpraemie-zurueck-a-fc6a5052-a90f-44ed-b23c-a357b09c51d0#ref=rss)
+### andere
+
+* [https://www.spiegel.de/ausland/grossbritannien-sue-gray-stabschefin-von-keir-starmer-tritt-zurueck](https://www.spiegel.de/ausland/grossbritannien-sue-gray-stabschefin-von-keir-starmer-tritt-zurueck-a-ea86bee1-8ada-463e-8aa3-d9ca6210327b#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/fruehe-kinderbetreuung-in-den-kitas-verspielt-man-die-bildungspotenziale-von-kindern](https://www.spiegel.de/panorama/bildung/fruehe-kinderbetreuung-in-den-kitas-verspielt-man-die-bildungspotenziale-von-kindern-a-9bd2ca0c-52ff-48f3-b3b1-869ded5f98e3#ref=rss)
+### kitas
+
+* [https://www.spiegel.de/panorama/bildung/fruehe-kinderbetreuung-in-den-kitas-verspielt-man-die-bildungspotenziale-von-kindern](https://www.spiegel.de/panorama/bildung/fruehe-kinderbetreuung-in-den-kitas-verspielt-man-die-bildungspotenziale-von-kindern-a-9bd2ca0c-52ff-48f3-b3b1-869ded5f98e3#ref=rss)
+### personal
+
+* [https://www.spiegel.de/panorama/bildung/fruehe-kinderbetreuung-in-den-kitas-verspielt-man-die-bildungspotenziale-von-kindern](https://www.spiegel.de/panorama/bildung/fruehe-kinderbetreuung-in-den-kitas-verspielt-man-die-bildungspotenziale-von-kindern-a-9bd2ca0c-52ff-48f3-b3b1-869ded5f98e3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/marburg-virus-ruanda-startet-versuchsimpfungen-mit-bislang-nicht-zugelassenem-wirkstoff](https://www.spiegel.de/wissenschaft/medizin/marburg-virus-ruanda-startet-versuchsimpfungen-mit-bislang-nicht-zugelassenem-wirkstoff-a-b5832388-6b1b-4b08-a103-66b343510b3a#ref=rss)
+### rb
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-springt-an-die-tabellenspitze-fuer-zwei-stunden](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-springt-an-die-tabellenspitze-fuer-zwei-stunden-a-83f8dfae-da66-4c5d-8681-d4e832637caf#ref=rss)
+### leipzig
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-springt-an-die-tabellenspitze-fuer-zwei-stunden](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-springt-an-die-tabellenspitze-fuer-zwei-stunden-a-83f8dfae-da66-4c5d-8681-d4e832637caf#ref=rss)
+### henrike
+
+* [https://www.spiegel.de/kultur/kuenstlerin-henrike-naumann-in-chemnitz-harter-stil](https://www.spiegel.de/kultur/kuenstlerin-henrike-naumann-in-chemnitz-harter-stil-a-69defe67-cb55-4337-84c6-07d09dedacfd#ref=rss)
+### naumann
+
+* [https://www.spiegel.de/kultur/kuenstlerin-henrike-naumann-in-chemnitz-harter-stil](https://www.spiegel.de/kultur/kuenstlerin-henrike-naumann-in-chemnitz-harter-stil-a-69defe67-cb55-4337-84c6-07d09dedacfd#ref=rss)
+### möglichst
+
+* [https://www.spiegel.de/psychologie/unsicherheit-tipps-fuer-den-umgang-mit-aengstlichen-gefuehlen](https://www.spiegel.de/psychologie/unsicherheit-tipps-fuer-den-umgang-mit-aengstlichen-gefuehlen-a-507bb038-da32-45c5-9830-6fa0630e1bce#ref=rss)
+### besonders
+
+* [https://www.spiegel.de/psychologie/unsicherheit-tipps-fuer-den-umgang-mit-aengstlichen-gefuehlen](https://www.spiegel.de/psychologie/unsicherheit-tipps-fuer-den-umgang-mit-aengstlichen-gefuehlen-a-507bb038-da32-45c5-9830-6fa0630e1bce#ref=rss)
+* [https://www.spiegel.de/ausland/libanon-hisbollah-vs-israel-der-krieg-in-karten-und-grafiken](https://www.spiegel.de/ausland/libanon-hisbollah-vs-israel-der-krieg-in-karten-und-grafiken-a-6be7718c-1b6d-435d-941f-a080324a1c8e#ref=rss)
+### spdfraktion
+
+* [https://www.spiegel.de/wirtschaft/soziales/buergergeld-reform-spd-fraktion-rudert-bei-ampelplaenen-zur-jobpraemie-zurueck](https://www.spiegel.de/wirtschaft/soziales/buergergeld-reform-spd-fraktion-rudert-bei-ampelplaenen-zur-jobpraemie-zurueck-a-fc6a5052-a90f-44ed-b23c-a357b09c51d0#ref=rss)
+### alte
+
+* [https://www.spiegel.de/politik/smartphone-sucht-alte-hausmittel-gegen-die-ueberforderung-der-digitalisierung](https://www.spiegel.de/politik/smartphone-sucht-alte-hausmittel-gegen-die-ueberforderung-der-digitalisierung-a-1581776c-4ded-4e83-8a77-78debb1be2df#ref=rss)
+### hausmittel
+
+* [https://www.spiegel.de/politik/smartphone-sucht-alte-hausmittel-gegen-die-ueberforderung-der-digitalisierung](https://www.spiegel.de/politik/smartphone-sucht-alte-hausmittel-gegen-die-ueberforderung-der-digitalisierung-a-1581776c-4ded-4e83-8a77-78debb1be2df#ref=rss)
+### digitalisierung
+
+* [https://www.spiegel.de/politik/smartphone-sucht-alte-hausmittel-gegen-die-ueberforderung-der-digitalisierung](https://www.spiegel.de/politik/smartphone-sucht-alte-hausmittel-gegen-die-ueberforderung-der-digitalisierung-a-1581776c-4ded-4e83-8a77-78debb1be2df#ref=rss)
+### alltag
+
+* [https://www.spiegel.de/politik/smartphone-sucht-alte-hausmittel-gegen-die-ueberforderung-der-digitalisierung](https://www.spiegel.de/politik/smartphone-sucht-alte-hausmittel-gegen-die-ueberforderung-der-digitalisierung-a-1581776c-4ded-4e83-8a77-78debb1be2df#ref=rss)
+* [https://www.spiegel.de/panorama/juedinnen-und-juden-in-berlin-ueber-alltag-und-antisemitismus](https://www.spiegel.de/panorama/juedinnen-und-juden-in-berlin-ueber-alltag-und-antisemitismus-a-e6099408-20bc-413b-92ac-cb547cc5fc60#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/politik/smartphone-sucht-alte-hausmittel-gegen-die-ueberforderung-der-digitalisierung](https://www.spiegel.de/politik/smartphone-sucht-alte-hausmittel-gegen-die-ueberforderung-der-digitalisierung-a-1581776c-4ded-4e83-8a77-78debb1be2df#ref=rss)
+* [https://www.spiegel.de/ausland/libanon-hisbollah-vs-israel-der-krieg-in-karten-und-grafiken](https://www.spiegel.de/ausland/libanon-hisbollah-vs-israel-der-krieg-in-karten-und-grafiken-a-6be7718c-1b6d-435d-941f-a080324a1c8e#ref=rss)
+### jeanluc
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-jean-luc-dompe-leitet-sieg-des-hamburger-sv-gegen-fortuna-duesseldorf-ein](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-jean-luc-dompe-leitet-sieg-des-hamburger-sv-gegen-fortuna-duesseldorf-ein-a-7ec34de0-05c3-429b-ac22-b8c132f4852e#ref=rss)
+### dompé
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-jean-luc-dompe-leitet-sieg-des-hamburger-sv-gegen-fortuna-duesseldorf-ein](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-jean-luc-dompe-leitet-sieg-des-hamburger-sv-gegen-fortuna-duesseldorf-ein-a-7ec34de0-05c3-429b-ac22-b8c132f4852e#ref=rss)
+### leitet
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-jean-luc-dompe-leitet-sieg-des-hamburger-sv-gegen-fortuna-duesseldorf-ein](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-jean-luc-dompe-leitet-sieg-des-hamburger-sv-gegen-fortuna-duesseldorf-ein-a-7ec34de0-05c3-429b-ac22-b8c132f4852e#ref=rss)
+### fortuna
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-jean-luc-dompe-leitet-sieg-des-hamburger-sv-gegen-fortuna-duesseldorf-ein](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-jean-luc-dompe-leitet-sieg-des-hamburger-sv-gegen-fortuna-duesseldorf-ein-a-7ec34de0-05c3-429b-ac22-b8c132f4852e#ref=rss)
+### düsseldorf
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-jean-luc-dompe-leitet-sieg-des-hamburger-sv-gegen-fortuna-duesseldorf-ein](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-jean-luc-dompe-leitet-sieg-des-hamburger-sv-gegen-fortuna-duesseldorf-ein-a-7ec34de0-05c3-429b-ac22-b8c132f4852e#ref=rss)
+### dennoch
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-jean-luc-dompe-leitet-sieg-des-hamburger-sv-gegen-fortuna-duesseldorf-ein](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-jean-luc-dompe-leitet-sieg-des-hamburger-sv-gegen-fortuna-duesseldorf-ein-a-7ec34de0-05c3-429b-ac22-b8c132f4852e#ref=rss)
+* [https://www.spiegel.de/kultur/mehr-lesen-mit-elke-heidenreich-buchtipp-starke-buecher-von-starken-frauen](https://www.spiegel.de/kultur/mehr-lesen-mit-elke-heidenreich-buchtipp-starke-buecher-von-starken-frauen-a-d6383b9a-603f-423a-9060-976eb558c49e#ref=rss)
+### juden
+
+* [https://www.spiegel.de/panorama/juedinnen-und-juden-in-berlin-ueber-alltag-und-antisemitismus](https://www.spiegel.de/panorama/juedinnen-und-juden-in-berlin-ueber-alltag-und-antisemitismus-a-e6099408-20bc-413b-92ac-cb547cc5fc60#ref=rss)
+### antisemitismus
+
+* [https://www.spiegel.de/panorama/juedinnen-und-juden-in-berlin-ueber-alltag-und-antisemitismus](https://www.spiegel.de/panorama/juedinnen-und-juden-in-berlin-ueber-alltag-und-antisemitismus-a-e6099408-20bc-413b-92ac-cb547cc5fc60#ref=rss)
+### schachbrett
+
+* [https://www.spiegel.de/karriere/raetsel-der-woche-schachbrett-mit-luecken](https://www.spiegel.de/karriere/raetsel-der-woche-schachbrett-mit-luecken-a-3e12a3d1-40af-4e20-b5e6-97a9180ecb30#ref=rss)
+### elke
+
+* [https://www.spiegel.de/kultur/mehr-lesen-mit-elke-heidenreich-buchtipp-starke-buecher-von-starken-frauen](https://www.spiegel.de/kultur/mehr-lesen-mit-elke-heidenreich-buchtipp-starke-buecher-von-starken-frauen-a-d6383b9a-603f-423a-9060-976eb558c49e#ref=rss)
+### heidenreich
+
+* [https://www.spiegel.de/kultur/mehr-lesen-mit-elke-heidenreich-buchtipp-starke-buecher-von-starken-frauen](https://www.spiegel.de/kultur/mehr-lesen-mit-elke-heidenreich-buchtipp-starke-buecher-von-starken-frauen-a-d6383b9a-603f-423a-9060-976eb558c49e#ref=rss)
+### sigmar
+
+* [https://www.spiegel.de/auto/sigmar-gabriel-spd-geisselt-verbrenner-aus-und-lobt-umweltbilanz-des-diesel](https://www.spiegel.de/auto/sigmar-gabriel-spd-geisselt-verbrenner-aus-und-lobt-umweltbilanz-des-diesel-a-2b40ee17-a4bc-46ef-9ee7-f2ae69c5a441#ref=rss)
+### gabriel
+
+* [https://www.spiegel.de/auto/sigmar-gabriel-spd-geisselt-verbrenner-aus-und-lobt-umweltbilanz-des-diesel](https://www.spiegel.de/auto/sigmar-gabriel-spd-geisselt-verbrenner-aus-und-lobt-umweltbilanz-des-diesel-a-2b40ee17-a4bc-46ef-9ee7-f2ae69c5a441#ref=rss)
+### verbrenneraus
+
+* [https://www.spiegel.de/auto/sigmar-gabriel-spd-geisselt-verbrenner-aus-und-lobt-umweltbilanz-des-diesel](https://www.spiegel.de/auto/sigmar-gabriel-spd-geisselt-verbrenner-aus-und-lobt-umweltbilanz-des-diesel-a-2b40ee17-a4bc-46ef-9ee7-f2ae69c5a441#ref=rss)
+### dagmar
+
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-franken-trotzdem-mit-dagmar-manzel-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-franken-trotzdem-mit-dagmar-manzel-im-schnellcheck-a-224c2a90-387f-4cff-90c6-9f57d96b4884#ref=rss)
+### manzel
+
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-franken-trotzdem-mit-dagmar-manzel-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-franken-trotzdem-mit-dagmar-manzel-im-schnellcheck-a-224c2a90-387f-4cff-90c6-9f57d96b4884#ref=rss)
+### willi
+
+* [https://www.spiegel.de/sport/fussball/nachruf-auf-willi-giesemann-er-war-uwe-seelers-rueckendeckung-pele-brach-ihm-das-schienbein](https://www.spiegel.de/sport/fussball/nachruf-auf-willi-giesemann-er-war-uwe-seelers-rueckendeckung-pele-brach-ihm-das-schienbein-a-f8530d79-48e1-48a8-a044-6bf8386e9d59#ref=rss)
+### giesemann
+
+* [https://www.spiegel.de/sport/fussball/nachruf-auf-willi-giesemann-er-war-uwe-seelers-rueckendeckung-pele-brach-ihm-das-schienbein](https://www.spiegel.de/sport/fussball/nachruf-auf-willi-giesemann-er-war-uwe-seelers-rueckendeckung-pele-brach-ihm-das-schienbein-a-f8530d79-48e1-48a8-a044-6bf8386e9d59#ref=rss)
+### verantwortlich
+
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-kaempft-gegen-die-internationale-childfree-bewegung](https://www.spiegel.de/ausland/russland-wladimir-putin-kaempft-gegen-die-internationale-childfree-bewegung-a-4f0dc3ed-9882-4064-8a0e-3a148d3a8cef#ref=rss)
+* [https://www.spiegel.de/panorama/leute/stanley-tucci-sexsymbol-mit-63-der-schauspieler-ist-begeistert](https://www.spiegel.de/panorama/leute/stanley-tucci-sexsymbol-mit-63-der-schauspieler-ist-begeistert-a-9dab463e-eef9-421c-a568-d46963ff9d15#ref=rss)
+### libanon
+
+* [https://www.spiegel.de/ausland/libanon-hisbollah-vs-israel-der-krieg-in-karten-und-grafiken](https://www.spiegel.de/ausland/libanon-hisbollah-vs-israel-der-krieg-in-karten-und-grafiken-a-6be7718c-1b6d-435d-941f-a080324a1c8e#ref=rss)
+### karten
+
+* [https://www.spiegel.de/ausland/libanon-hisbollah-vs-israel-der-krieg-in-karten-und-grafiken](https://www.spiegel.de/ausland/libanon-hisbollah-vs-israel-der-krieg-in-karten-und-grafiken-a-6be7718c-1b6d-435d-941f-a080324a1c8e#ref=rss)
+### grafiken
+
+* [https://www.spiegel.de/ausland/libanon-hisbollah-vs-israel-der-krieg-in-karten-und-grafiken](https://www.spiegel.de/ausland/libanon-hisbollah-vs-israel-der-krieg-in-karten-und-grafiken-a-6be7718c-1b6d-435d-941f-a080324a1c8e#ref=rss)
+### marburgvirus
+
+* [https://www.spiegel.de/wissenschaft/medizin/marburg-virus-ruanda-startet-versuchsimpfungen-mit-bislang-nicht-zugelassenem-wirkstoff](https://www.spiegel.de/wissenschaft/medizin/marburg-virus-ruanda-startet-versuchsimpfungen-mit-bislang-nicht-zugelassenem-wirkstoff-a-b5832388-6b1b-4b08-a103-66b343510b3a#ref=rss)
+### ruanda
+
+* [https://www.spiegel.de/wissenschaft/medizin/marburg-virus-ruanda-startet-versuchsimpfungen-mit-bislang-nicht-zugelassenem-wirkstoff](https://www.spiegel.de/wissenschaft/medizin/marburg-virus-ruanda-startet-versuchsimpfungen-mit-bislang-nicht-zugelassenem-wirkstoff-a-b5832388-6b1b-4b08-a103-66b343510b3a#ref=rss)
+### stanley
+
+* [https://www.spiegel.de/panorama/leute/stanley-tucci-sexsymbol-mit-63-der-schauspieler-ist-begeistert](https://www.spiegel.de/panorama/leute/stanley-tucci-sexsymbol-mit-63-der-schauspieler-ist-begeistert-a-9dab463e-eef9-421c-a568-d46963ff9d15#ref=rss)
+### tucci
+
+* [https://www.spiegel.de/panorama/leute/stanley-tucci-sexsymbol-mit-63-der-schauspieler-ist-begeistert](https://www.spiegel.de/panorama/leute/stanley-tucci-sexsymbol-mit-63-der-schauspieler-ist-begeistert-a-9dab463e-eef9-421c-a568-d46963ff9d15#ref=rss)
 
