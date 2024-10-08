@@ -4,334 +4,355 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
-
-* [https://www.spiegel.de/auto/auto-kaufen-zahl-der-pkw-in-deutschland-auf-rekordhoch](https://www.spiegel.de/auto/auto-kaufen-zahl-der-pkw-in-deutschland-auf-rekordhoch-a-ecc60f43-47f5-4ba4-b68f-2ccda1a9282a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/bundeswaldinventur-deutscher-wald-ist-zu-kohlenstoffquelle-geworden](https://www.spiegel.de/wissenschaft/bundeswaldinventur-deutscher-wald-ist-zu-kohlenstoffquelle-geworden-a-6ddc709f-472f-4920-8418-59a373bcac78#ref=rss)
-* [https://www.spiegel.de/wirtschaft/krankschreibungen-in-deutschland-im-laufenden-jahr-laut-aok-bericht-auf-hoechststand](https://www.spiegel.de/wirtschaft/krankschreibungen-in-deutschland-im-laufenden-jahr-laut-aok-bericht-auf-hoechststand-a-e415ca11-bbf1-4259-a3eb-c8239dee9d8e#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/kita-misere-missstaende-in-deutschen-kitas-werden-von-politik-und-gesellschaft-uebersehen](https://www.spiegel.de/panorama/bildung/kita-misere-missstaende-in-deutschen-kitas-werden-von-politik-und-gesellschaft-uebersehen-a-aad9e2fa-036e-4da3-9b4d-1f23d66687d6#ref=rss)
-### laut
-
-* [https://www.spiegel.de/netzwelt/web/ken-jebsen-youtube-sperrt-offenbar-kanal-von-kayvan-soufi-siavash](https://www.spiegel.de/netzwelt/web/ken-jebsen-youtube-sperrt-offenbar-kanal-von-kayvan-soufi-siavash-a-6577a63c-4c10-4cda-b88c-e3189a9026c3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/krankschreibungen-in-deutschland-im-laufenden-jahr-laut-aok-bericht-auf-hoechststand](https://www.spiegel.de/wirtschaft/krankschreibungen-in-deutschland-im-laufenden-jahr-laut-aok-bericht-auf-hoechststand-a-e415ca11-bbf1-4259-a3eb-c8239dee9d8e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/taylor-swift-ist-jetzt-die-reichste-musikerin-der-welt](https://www.spiegel.de/wirtschaft/taylor-swift-ist-jetzt-die-reichste-musikerin-der-welt-a-d6556b8e-484b-4b53-8c79-25a9106be83a#ref=rss)
-### eltern
-
-* [https://www.spiegel.de/panorama/roedental-in-oberfranken-fuenfjaehriger-ruft-die-polizei-wegen-problemen-beim-videospielen](https://www.spiegel.de/panorama/roedental-in-oberfranken-fuenfjaehriger-ruft-die-polizei-wegen-problemen-beim-videospielen-a-6f47866d-c53f-4850-960a-83725f30e344#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/lesen-rund-ein-drittel-der-eltern-liest-kindern-selten-oder-nie-vor](https://www.spiegel.de/panorama/bildung/lesen-rund-ein-drittel-der-eltern-liest-kindern-selten-oder-nie-vor-a-9958c30c-5e0a-46d9-a26c-741c7e100c2f#ref=rss)
-### welt
-
-* [https://www.spiegel.de/stil/dubai-schokolade-von-sarah-hamouda-wie-tiktok-der-suessigkeit-und-dem-emirat-zu-ruhm-verhalf](https://www.spiegel.de/stil/dubai-schokolade-von-sarah-hamouda-wie-tiktok-der-suessigkeit-und-dem-emirat-zu-ruhm-verhalf-a-1438f6f4-4987-45ac-8cc1-a5f81b38d200#ref=rss)
-* [https://www.spiegel.de/panorama/nepal-fuenf-am-dhaulagiri-vermisste-bergsteiger-sind-tot](https://www.spiegel.de/panorama/nepal-fuenf-am-dhaulagiri-vermisste-bergsteiger-sind-tot-a-2c54f691-3f8c-4b86-bbb9-36f1fcd0e999#ref=rss)
-* [https://www.spiegel.de/wirtschaft/taylor-swift-ist-jetzt-die-reichste-musikerin-der-welt](https://www.spiegel.de/wirtschaft/taylor-swift-ist-jetzt-die-reichste-musikerin-der-welt-a-d6556b8e-484b-4b53-8c79-25a9106be83a#ref=rss)
-### wald
-
-* [https://www.spiegel.de/wissenschaft/bundeswaldinventur-deutscher-wald-ist-zu-kohlenstoffquelle-geworden](https://www.spiegel.de/wissenschaft/bundeswaldinventur-deutscher-wald-ist-zu-kohlenstoffquelle-geworden-a-6ddc709f-472f-4920-8418-59a373bcac78#ref=rss)
-### alle
-
-* [https://www.spiegel.de/wissenschaft/bundeswaldinventur-deutscher-wald-ist-zu-kohlenstoffquelle-geworden](https://www.spiegel.de/wissenschaft/bundeswaldinventur-deutscher-wald-ist-zu-kohlenstoffquelle-geworden-a-6ddc709f-472f-4920-8418-59a373bcac78#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/zeitz-in-sachsen-anhalt-unbekannte-reissen-stolpersteine-heraus](https://www.spiegel.de/panorama/justiz/zeitz-in-sachsen-anhalt-unbekannte-reissen-stolpersteine-heraus-a-f5ca45e1-1762-4863-aff9-fca56036ac82#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-andres-iniesta-kuendigt-karriereende-an](https://www.spiegel.de/sport/fussball/fussball-andres-iniesta-kuendigt-karriereende-an-a-f4aec3f8-1d41-413d-bcec-4e4fff0d402e#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/wissenschaft/bundeswaldinventur-deutscher-wald-ist-zu-kohlenstoffquelle-geworden](https://www.spiegel.de/wissenschaft/bundeswaldinventur-deutscher-wald-ist-zu-kohlenstoffquelle-geworden-a-6ddc709f-472f-4920-8418-59a373bcac78#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-stan-wawrinka-verliert-weil-der-schiedsrichter-einen-punkt-vergisst](https://www.spiegel.de/sport/tennis/tennis-stan-wawrinka-verliert-weil-der-schiedsrichter-einen-punkt-vergisst-a-0296aade-a0f2-4d74-8937-1dda2366d6d8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/flix-bietet-mehr-regionalverbindungen-auf-der-schiene-an](https://www.spiegel.de/wirtschaft/flix-bietet-mehr-regionalverbindungen-auf-der-schiene-an-a-6c720297-bf5d-49e3-b868-04d6a7ec9fa7#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/sport/tennis/tennis-stan-wawrinka-verliert-weil-der-schiedsrichter-einen-punkt-vergisst](https://www.spiegel.de/sport/tennis/tennis-stan-wawrinka-verliert-weil-der-schiedsrichter-einen-punkt-vergisst-a-0296aade-a0f2-4d74-8937-1dda2366d6d8#ref=rss)
-* [https://www.spiegel.de/kultur/tv/dschungelcamp-moderatorin-sonja-zietlow-zieht-ueber-den-deutschen-fernsehpreis-her](https://www.spiegel.de/kultur/tv/dschungelcamp-moderatorin-sonja-zietlow-zieht-ueber-den-deutschen-fernsehpreis-her-a-2d4ddc29-0a40-4d35-8a95-3c9fedced369#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-andres-iniesta-kuendigt-karriereende-an](https://www.spiegel.de/sport/fussball/fussball-andres-iniesta-kuendigt-karriereende-an-a-f4aec3f8-1d41-413d-bcec-4e4fff0d402e#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/kultur/tv/dschungelcamp-moderatorin-sonja-zietlow-zieht-ueber-den-deutschen-fernsehpreis-her](https://www.spiegel.de/kultur/tv/dschungelcamp-moderatorin-sonja-zietlow-zieht-ueber-den-deutschen-fernsehpreis-her-a-2d4ddc29-0a40-4d35-8a95-3c9fedced369#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/kita-misere-missstaende-in-deutschen-kitas-werden-von-politik-und-gesellschaft-uebersehen](https://www.spiegel.de/panorama/bildung/kita-misere-missstaende-in-deutschen-kitas-werden-von-politik-und-gesellschaft-uebersehen-a-aad9e2fa-036e-4da3-9b4d-1f23d66687d6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/flix-bietet-mehr-regionalverbindungen-auf-der-schiene-an](https://www.spiegel.de/wirtschaft/flix-bietet-mehr-regionalverbindungen-auf-der-schiene-an-a-6c720297-bf5d-49e3-b868-04d6a7ec9fa7#ref=rss)
-### kindern
-
-* [https://www.spiegel.de/panorama/bildung/lesen-rund-ein-drittel-der-eltern-liest-kindern-selten-oder-nie-vor](https://www.spiegel.de/panorama/bildung/lesen-rund-ein-drittel-der-eltern-liest-kindern-selten-oder-nie-vor-a-9958c30c-5e0a-46d9-a26c-741c7e100c2f#ref=rss)
-### kamala
-
-* [https://www.spiegel.de/ausland/kamala-harris-lehnt-friedensgespraeche-mit-russland-ohne-beteiligung-der-ukraine-ab](https://www.spiegel.de/ausland/kamala-harris-lehnt-friedensgespraeche-mit-russland-ohne-beteiligung-der-ukraine-ab-a-d75508d3-a82f-456f-91f9-09f538781a26#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/sally-field-berichtet-von-heimlichem-schwangerschaftsabbruch-mit-17](https://www.spiegel.de/panorama/justiz/sally-field-berichtet-von-heimlichem-schwangerschaftsabbruch-mit-17-a-a8a29301-2418-4101-a244-a2a4d8b7f268#ref=rss)
-### harris
-
-* [https://www.spiegel.de/ausland/kamala-harris-lehnt-friedensgespraeche-mit-russland-ohne-beteiligung-der-ukraine-ab](https://www.spiegel.de/ausland/kamala-harris-lehnt-friedensgespraeche-mit-russland-ohne-beteiligung-der-ukraine-ab-a-d75508d3-a82f-456f-91f9-09f538781a26#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/sally-field-berichtet-von-heimlichem-schwangerschaftsabbruch-mit-17](https://www.spiegel.de/panorama/justiz/sally-field-berichtet-von-heimlichem-schwangerschaftsabbruch-mit-17-a-a8a29301-2418-4101-a244-a2a4d8b7f268#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/iran-aussenminister-abbas-arakchi-besucht-saudi-arabien-und-weitere-golfstaaten](https://www.spiegel.de/ausland/iran-aussenminister-abbas-arakchi-besucht-saudi-arabien-und-weitere-golfstaaten-a-157b54d5-de37-44a0-824b-c4ce9e23c74d#ref=rss)
-### außenminister
-
-* [https://www.spiegel.de/ausland/iran-aussenminister-abbas-arakchi-besucht-saudi-arabien-und-weitere-golfstaaten](https://www.spiegel.de/ausland/iran-aussenminister-abbas-arakchi-besucht-saudi-arabien-und-weitere-golfstaaten-a-157b54d5-de37-44a0-824b-c4ce9e23c74d#ref=rss)
-### abbas
-
-* [https://www.spiegel.de/ausland/iran-aussenminister-abbas-arakchi-besucht-saudi-arabien-und-weitere-golfstaaten](https://www.spiegel.de/ausland/iran-aussenminister-abbas-arakchi-besucht-saudi-arabien-und-weitere-golfstaaten-a-157b54d5-de37-44a0-824b-c4ce9e23c74d#ref=rss)
-### arakchi
-
-* [https://www.spiegel.de/ausland/iran-aussenminister-abbas-arakchi-besucht-saudi-arabien-und-weitere-golfstaaten](https://www.spiegel.de/ausland/iran-aussenminister-abbas-arakchi-besucht-saudi-arabien-und-weitere-golfstaaten-a-157b54d5-de37-44a0-824b-c4ce9e23c74d#ref=rss)
-### saudiarabien
-
-* [https://www.spiegel.de/ausland/iran-aussenminister-abbas-arakchi-besucht-saudi-arabien-und-weitere-golfstaaten](https://www.spiegel.de/ausland/iran-aussenminister-abbas-arakchi-besucht-saudi-arabien-und-weitere-golfstaaten-a-157b54d5-de37-44a0-824b-c4ce9e23c74d#ref=rss)
+* [https://www.spiegel.de/auto/auto-ersatzteile-werden-immer-teurer-kfz-versicherungen-deshalb-auch](https://www.spiegel.de/auto/auto-ersatzteile-werden-immer-teurer-kfz-versicherungen-deshalb-auch-a-3d4ca045-6848-4c9e-a6ae-ca4017a0a8bd#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/thueringen-will-die-kita-misere-lindern-ohne-mehr-personal-einzustellen](https://www.spiegel.de/panorama/bildung/thueringen-will-die-kita-misere-lindern-ohne-mehr-personal-einzustellen-a-db9f1245-b301-4bd1-8304-c2bf48ff3779#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/belastung-durch-miete-steigt-fuer-viele-haushalte](https://www.spiegel.de/wirtschaft/service/belastung-durch-miete-steigt-fuer-viele-haushalte-a-1a5f6794-caf8-41a8-b615-28019383ce6d#ref=rss)
+* [https://www.spiegel.de/auto/verbraucher-sollten-kraftstoffpreise-per-app-vergleichen](https://www.spiegel.de/auto/verbraucher-sollten-kraftstoffpreise-per-app-vergleichen-a-0307edc1-d7e8-4d19-b959-278a242e31ce#ref=rss)
+* [https://www.spiegel.de/panorama/hundesteuer-sorgt-fuer-rekordeinnahmen](https://www.spiegel.de/panorama/hundesteuer-sorgt-fuer-rekordeinnahmen-a-6e35e0f5-4433-4ef4-9f7a-459ccaa255de#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berliner-gruenen-abgeordnete-bayram-kandidiert-nicht-mehr-fuer-den-bundestag](https://www.spiegel.de/politik/deutschland/berliner-gruenen-abgeordnete-bayram-kandidiert-nicht-mehr-fuer-den-bundestag-a-c3b348b2-3013-43d3-a356-5aaa587c08cd#ref=rss)
 ### israel
 
-* [https://www.spiegel.de/ausland/iran-aussenminister-abbas-arakchi-besucht-saudi-arabien-und-weitere-golfstaaten](https://www.spiegel.de/ausland/iran-aussenminister-abbas-arakchi-besucht-saudi-arabien-und-weitere-golfstaaten-a-157b54d5-de37-44a0-824b-c4ce9e23c74d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/moschee-in-bayern-prediger-soll-juden-den-tod-gewuenscht-haben](https://www.spiegel.de/panorama/justiz/moschee-in-bayern-prediger-soll-juden-den-tod-gewuenscht-haben-a-f9b0590f-5a5c-4130-9e81-0895228c8ee9#ref=rss)
-### fragen
+* [https://www.spiegel.de/ausland/spiegel-reporter-in-israel-man-wuenscht-auch-den-israelis-dass-der-krieg-endlich-zu-ende-geht](https://www.spiegel.de/ausland/spiegel-reporter-in-israel-man-wuenscht-auch-den-israelis-dass-der-krieg-endlich-zu-ende-geht-a-b4579a95-f073-4d69-8343-0e5b6e8a2dfa#ref=rss)
+* [https://www.spiegel.de/ausland/nahostkonflikt-greift-iran-im-konflikt-mit-israel-zur-atombombe](https://www.spiegel.de/ausland/nahostkonflikt-greift-iran-im-konflikt-mit-israel-zur-atombombe-a-53fc116b-7f82-4c80-a285-1254fe8f3ded#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-langzeitarbeitslose-matthias-miersch-spd-israel-und-libanon](https://www.spiegel.de/politik/deutschland/news-des-tages-langzeitarbeitslose-matthias-miersch-spd-israel-und-libanon-a-ee0dda95-3e20-45cf-8d1b-dcc07c6ca0d4#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/israel-gaza-konflikt-hamburger-schulen-sollten-auf-schweigeminute-verzichten](https://www.spiegel.de/panorama/bildung/israel-gaza-konflikt-hamburger-schulen-sollten-auf-schweigeminute-verzichten-a-54f2b4b7-66d1-49d0-bbae-eef856452bc8#ref=rss)
+### pig
 
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### pro
+* [https://www.spiegel.de/politik/pig-butchering-scam-der-kryptobetrug-der-die-opfer-millionen-kostet-podcast](https://www.spiegel.de/politik/pig-butchering-scam-der-kryptobetrug-der-die-opfer-millionen-kostet-podcast-a-e06bcfc0-1a77-4b83-90e1-3b1771d7e0d2#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/pig-butchering-scam-der-krypto-betrug-der-die-opfer-millionen-kostet](https://www.spiegel.de/netzwelt/web/pig-butchering-scam-der-krypto-betrug-der-die-opfer-millionen-kostet-a-7aeef8d7-7dc3-4a56-9d9d-202c66f1d2cf#ref=rss)
+### millionen
 
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/auto/auto-kaufen-zahl-der-pkw-in-deutschland-auf-rekordhoch](https://www.spiegel.de/auto/auto-kaufen-zahl-der-pkw-in-deutschland-auf-rekordhoch-a-ecc60f43-47f5-4ba4-b68f-2ccda1a9282a#ref=rss)
-### tag
+* [https://www.spiegel.de/politik/pig-butchering-scam-der-kryptobetrug-der-die-opfer-millionen-kostet-podcast](https://www.spiegel.de/politik/pig-butchering-scam-der-kryptobetrug-der-die-opfer-millionen-kostet-podcast-a-e06bcfc0-1a77-4b83-90e1-3b1771d7e0d2#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/pig-butchering-scam-der-krypto-betrug-der-die-opfer-millionen-kostet](https://www.spiegel.de/netzwelt/web/pig-butchering-scam-der-krypto-betrug-der-die-opfer-millionen-kostet-a-7aeef8d7-7dc3-4a56-9d9d-202c66f1d2cf#ref=rss)
+* [https://www.spiegel.de/ausland/hurrikan-milton-trifft-auf-florida-wer-bleibt-wird-sterben](https://www.spiegel.de/ausland/hurrikan-milton-trifft-auf-florida-wer-bleibt-wird-sterben-a-2a1bc787-1f2b-445c-88c9-7ffdd7cbe59b#ref=rss)
+* [https://www.spiegel.de/panorama/hundesteuer-sorgt-fuer-rekordeinnahmen](https://www.spiegel.de/panorama/hundesteuer-sorgt-fuer-rekordeinnahmen-a-6e35e0f5-4433-4ef4-9f7a-459ccaa255de#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### wissen
+* [https://www.spiegel.de/politik/pig-butchering-scam-der-kryptobetrug-der-die-opfer-millionen-kostet-podcast](https://www.spiegel.de/politik/pig-butchering-scam-der-kryptobetrug-der-die-opfer-millionen-kostet-podcast-a-e06bcfc0-1a77-4b83-90e1-3b1771d7e0d2#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/pig-butchering-scam-der-krypto-betrug-der-die-opfer-millionen-kostet](https://www.spiegel.de/netzwelt/web/pig-butchering-scam-der-krypto-betrug-der-die-opfer-millionen-kostet-a-7aeef8d7-7dc3-4a56-9d9d-202c66f1d2cf#ref=rss)
+* [https://www.spiegel.de/wissenschaft/lebenserwartung-des-menschen-steigt-langsamer](https://www.spiegel.de/wissenschaft/lebenserwartung-des-menschen-steigt-langsamer-a-d206a0c4-050b-4ac0-8ad5-4d4ffcca41e4#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/csu-vize-manfred-weber-schliesst-schwarz-gruen-im-bund-nicht-aus](https://www.spiegel.de/politik/deutschland/csu-vize-manfred-weber-schliesst-schwarz-gruen-im-bund-nicht-aus-a-d05daf24-93ce-4772-aed9-1868ffce8234#ref=rss)
-### zahl
+* [https://www.spiegel.de/politik/pig-butchering-scam-der-kryptobetrug-der-die-opfer-millionen-kostet-podcast](https://www.spiegel.de/politik/pig-butchering-scam-der-kryptobetrug-der-die-opfer-millionen-kostet-podcast-a-e06bcfc0-1a77-4b83-90e1-3b1771d7e0d2#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/pig-butchering-scam-der-krypto-betrug-der-die-opfer-millionen-kostet](https://www.spiegel.de/netzwelt/web/pig-butchering-scam-der-krypto-betrug-der-die-opfer-millionen-kostet-a-7aeef8d7-7dc3-4a56-9d9d-202c66f1d2cf#ref=rss)
+* [https://www.spiegel.de/ausland/usa-joe-biden-verschiebt-deutschlandreise-wegen-hurrikan-milton](https://www.spiegel.de/ausland/usa-joe-biden-verschiebt-deutschlandreise-wegen-hurrikan-milton-a-ca4234d4-666f-41cc-8c10-91a63cf401dd#ref=rss)
+* [https://www.spiegel.de/panorama/hundesteuer-sorgt-fuer-rekordeinnahmen](https://www.spiegel.de/panorama/hundesteuer-sorgt-fuer-rekordeinnahmen-a-6e35e0f5-4433-4ef4-9f7a-459ccaa255de#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/auto/auto-kaufen-zahl-der-pkw-in-deutschland-auf-rekordhoch](https://www.spiegel.de/auto/auto-kaufen-zahl-der-pkw-in-deutschland-auf-rekordhoch-a-ecc60f43-47f5-4ba4-b68f-2ccda1a9282a#ref=rss)
-### pkw
+* [https://www.spiegel.de/kultur/volksbuehne-in-berlin-lassen-sich-zwei-theaterrammboecke-zu-braven-gaertnern-machen](https://www.spiegel.de/kultur/volksbuehne-in-berlin-lassen-sich-zwei-theaterrammboecke-zu-braven-gaertnern-machen-a-798bbcd1-8ddf-40ae-861c-5afc6b0dea15#ref=rss)
+* [https://www.spiegel.de/panorama/leute/lisa-marie-presley-bahrte-ihren-verstorbenen-sohn-zwei-monate-auf-trockeneis-auf](https://www.spiegel.de/panorama/leute/lisa-marie-presley-bahrte-ihren-verstorbenen-sohn-zwei-monate-auf-trockeneis-auf-a-82dc07f0-e241-4973-b61c-203aec9d8aff#ref=rss)
+* [https://www.spiegel.de/ausland/hurrikan-milton-trifft-auf-florida-wer-bleibt-wird-sterben](https://www.spiegel.de/ausland/hurrikan-milton-trifft-auf-florida-wer-bleibt-wird-sterben-a-2a1bc787-1f2b-445c-88c9-7ffdd7cbe59b#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/auto/auto-kaufen-zahl-der-pkw-in-deutschland-auf-rekordhoch](https://www.spiegel.de/auto/auto-kaufen-zahl-der-pkw-in-deutschland-auf-rekordhoch-a-ecc60f43-47f5-4ba4-b68f-2ccda1a9282a#ref=rss)
-### sean
+* [https://www.spiegel.de/kultur/volksbuehne-in-berlin-lassen-sich-zwei-theaterrammboecke-zu-braven-gaertnern-machen](https://www.spiegel.de/kultur/volksbuehne-in-berlin-lassen-sich-zwei-theaterrammboecke-zu-braven-gaertnern-machen-a-798bbcd1-8ddf-40ae-861c-5afc6b0dea15#ref=rss)
+* [https://www.spiegel.de/wissenschaft/lebenserwartung-des-menschen-steigt-langsamer](https://www.spiegel.de/wissenschaft/lebenserwartung-des-menschen-steigt-langsamer-a-d206a0c4-050b-4ac0-8ad5-4d4ffcca41e4#ref=rss)
+* [https://www.spiegel.de/panorama/grossbritannien-frau-bekommt-bewerbung-zurueck-48-jahre-nach-dem-absenden](https://www.spiegel.de/panorama/grossbritannien-frau-bekommt-bewerbung-zurueck-48-jahre-nach-dem-absenden-a-9fd4c486-d757-4510-977a-be0840b2e4de#ref=rss)
+### viele
 
-* [https://www.spiegel.de/panorama/justiz/sean-combs-kanzlei-geht-gegen-stars-aus-umfeld-vor](https://www.spiegel.de/panorama/justiz/sean-combs-kanzlei-geht-gegen-stars-aus-umfeld-vor-a-e310b443-acfa-43b5-9878-3fa9711e70a6#ref=rss)
-### combs
+* [https://www.spiegel.de/panorama/justiz/hyaluronsaeure-gericht-verbietet-vorher-nachher-bilder-von-unterspritzungen](https://www.spiegel.de/panorama/justiz/hyaluronsaeure-gericht-verbietet-vorher-nachher-bilder-von-unterspritzungen-a-1f4cba96-1deb-44f0-aa89-3a1b23043d25#ref=rss)
+* [https://www.spiegel.de/wissenschaft/lebenserwartung-des-menschen-steigt-langsamer](https://www.spiegel.de/wissenschaft/lebenserwartung-des-menschen-steigt-langsamer-a-d206a0c4-050b-4ac0-8ad5-4d4ffcca41e4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/belastung-durch-miete-steigt-fuer-viele-haushalte](https://www.spiegel.de/wirtschaft/service/belastung-durch-miete-steigt-fuer-viele-haushalte-a-1a5f6794-caf8-41a8-b615-28019383ce6d#ref=rss)
+### usa
 
-* [https://www.spiegel.de/panorama/justiz/sean-combs-kanzlei-geht-gegen-stars-aus-umfeld-vor](https://www.spiegel.de/panorama/justiz/sean-combs-kanzlei-geht-gegen-stars-aus-umfeld-vor-a-e310b443-acfa-43b5-9878-3fa9711e70a6#ref=rss)
-### prediger
+* [https://www.spiegel.de/wissenschaft/lebenserwartung-des-menschen-steigt-langsamer](https://www.spiegel.de/wissenschaft/lebenserwartung-des-menschen-steigt-langsamer-a-d206a0c4-050b-4ac0-8ad5-4d4ffcca41e4#ref=rss)
+* [https://www.spiegel.de/ausland/nahostkonflikt-greift-iran-im-konflikt-mit-israel-zur-atombombe](https://www.spiegel.de/ausland/nahostkonflikt-greift-iran-im-konflikt-mit-israel-zur-atombombe-a-53fc116b-7f82-4c80-a285-1254fe8f3ded#ref=rss)
+* [https://www.spiegel.de/ausland/usa-joe-biden-verschiebt-deutschlandreise-wegen-hurrikan-milton](https://www.spiegel.de/ausland/usa-joe-biden-verschiebt-deutschlandreise-wegen-hurrikan-milton-a-ca4234d4-666f-41cc-8c10-91a63cf401dd#ref=rss)
+### sieht
 
-* [https://www.spiegel.de/panorama/justiz/moschee-in-bayern-prediger-soll-juden-den-tod-gewuenscht-haben](https://www.spiegel.de/panorama/justiz/moschee-in-bayern-prediger-soll-juden-den-tod-gewuenscht-haben-a-f9b0590f-5a5c-4130-9e81-0895228c8ee9#ref=rss)
-### juden
+* [https://www.spiegel.de/panorama/niederlande-museumsmitarbeiter-wirft-kunstwerk-aus-bierdosen-in-den-muell](https://www.spiegel.de/panorama/niederlande-museumsmitarbeiter-wirft-kunstwerk-aus-bierdosen-in-den-muell-a-c0f91c71-c458-4619-b77f-ecc93767e1fc#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-britischer-inlandsgeheimdienst-sieht-zunehmende-gefahr-fuer-europas-sicherheit-durch-russland](https://www.spiegel.de/ausland/ukraine-krieg-britischer-inlandsgeheimdienst-sieht-zunehmende-gefahr-fuer-europas-sicherheit-durch-russland-a-5904e139-2ecb-4f02-9e28-bf2706936827#ref=rss)
+* [https://www.spiegel.de/politik/prozess-gegen-vereinte-patrioten-gutachter-haelt-angeklagte-fuer-schuldfaehig](https://www.spiegel.de/politik/prozess-gegen-vereinte-patrioten-gutachter-haelt-angeklagte-fuer-schuldfaehig-a-f56ed4ff-69ef-46e4-b0ef-4f12d36784e2#ref=rss)
+### laut
 
-* [https://www.spiegel.de/panorama/justiz/moschee-in-bayern-prediger-soll-juden-den-tod-gewuenscht-haben](https://www.spiegel.de/panorama/justiz/moschee-in-bayern-prediger-soll-juden-den-tod-gewuenscht-haben-a-f9b0590f-5a5c-4130-9e81-0895228c8ee9#ref=rss)
-### erhebt
+* [https://www.spiegel.de/ausland/ukraine-krieg-britischer-inlandsgeheimdienst-sieht-zunehmende-gefahr-fuer-europas-sicherheit-durch-russland](https://www.spiegel.de/ausland/ukraine-krieg-britischer-inlandsgeheimdienst-sieht-zunehmende-gefahr-fuer-europas-sicherheit-durch-russland-a-5904e139-2ecb-4f02-9e28-bf2706936827#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/belastung-durch-miete-steigt-fuer-viele-haushalte](https://www.spiegel.de/wirtschaft/service/belastung-durch-miete-steigt-fuer-viele-haushalte-a-1a5f6794-caf8-41a8-b615-28019383ce6d#ref=rss)
+* [https://www.spiegel.de/politik/prozess-gegen-vereinte-patrioten-gutachter-haelt-angeklagte-fuer-schuldfaehig](https://www.spiegel.de/politik/prozess-gegen-vereinte-patrioten-gutachter-haelt-angeklagte-fuer-schuldfaehig-a-f56ed4ff-69ef-46e4-b0ef-4f12d36784e2#ref=rss)
+### hurrikan
 
-* [https://www.spiegel.de/panorama/justiz/moschee-in-bayern-prediger-soll-juden-den-tod-gewuenscht-haben](https://www.spiegel.de/panorama/justiz/moschee-in-bayern-prediger-soll-juden-den-tod-gewuenscht-haben-a-f9b0590f-5a5c-4130-9e81-0895228c8ee9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hanna-s-generalbundesanwaltschaft-erhebt-anklage-gegen-mutmassliche-linksextremistin](https://www.spiegel.de/politik/deutschland/hanna-s-generalbundesanwaltschaft-erhebt-anklage-gegen-mutmassliche-linksextremistin-a-ebbfefb2-dd2d-4473-a1e4-2b7ee8051739#ref=rss)
-### anklage
+* [https://www.spiegel.de/ausland/hurrikan-milton-trifft-auf-florida-wer-bleibt-wird-sterben](https://www.spiegel.de/ausland/hurrikan-milton-trifft-auf-florida-wer-bleibt-wird-sterben-a-2a1bc787-1f2b-445c-88c9-7ffdd7cbe59b#ref=rss)
+* [https://www.spiegel.de/ausland/usa-joe-biden-verschiebt-deutschlandreise-wegen-hurrikan-milton](https://www.spiegel.de/ausland/usa-joe-biden-verschiebt-deutschlandreise-wegen-hurrikan-milton-a-ca4234d4-666f-41cc-8c10-91a63cf401dd#ref=rss)
+### milton
 
-* [https://www.spiegel.de/panorama/justiz/moschee-in-bayern-prediger-soll-juden-den-tod-gewuenscht-haben](https://www.spiegel.de/panorama/justiz/moschee-in-bayern-prediger-soll-juden-den-tod-gewuenscht-haben-a-f9b0590f-5a5c-4130-9e81-0895228c8ee9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hanna-s-generalbundesanwaltschaft-erhebt-anklage-gegen-mutmassliche-linksextremistin](https://www.spiegel.de/politik/deutschland/hanna-s-generalbundesanwaltschaft-erhebt-anklage-gegen-mutmassliche-linksextremistin-a-ebbfefb2-dd2d-4473-a1e4-2b7ee8051739#ref=rss)
-### ermittler
+* [https://www.spiegel.de/ausland/hurrikan-milton-trifft-auf-florida-wer-bleibt-wird-sterben](https://www.spiegel.de/ausland/hurrikan-milton-trifft-auf-florida-wer-bleibt-wird-sterben-a-2a1bc787-1f2b-445c-88c9-7ffdd7cbe59b#ref=rss)
+* [https://www.spiegel.de/ausland/usa-joe-biden-verschiebt-deutschlandreise-wegen-hurrikan-milton](https://www.spiegel.de/ausland/usa-joe-biden-verschiebt-deutschlandreise-wegen-hurrikan-milton-a-ca4234d4-666f-41cc-8c10-91a63cf401dd#ref=rss)
+### sollten
 
-* [https://www.spiegel.de/panorama/justiz/moschee-in-bayern-prediger-soll-juden-den-tod-gewuenscht-haben](https://www.spiegel.de/panorama/justiz/moschee-in-bayern-prediger-soll-juden-den-tod-gewuenscht-haben-a-f9b0590f-5a5c-4130-9e81-0895228c8ee9#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-ermittler-melden-schlag-gegen-kinderpornografie-plattform](https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-ermittler-melden-schlag-gegen-kinderpornografie-plattform-a-998da171-7773-4bc3-bf5a-19e942c43e1a#ref=rss)
-### mann
+* [https://www.spiegel.de/auto/verbraucher-sollten-kraftstoffpreise-per-app-vergleichen](https://www.spiegel.de/auto/verbraucher-sollten-kraftstoffpreise-per-app-vergleichen-a-0307edc1-d7e8-4d19-b959-278a242e31ce#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/israel-gaza-konflikt-hamburger-schulen-sollten-auf-schweigeminute-verzichten](https://www.spiegel.de/panorama/bildung/israel-gaza-konflikt-hamburger-schulen-sollten-auf-schweigeminute-verzichten-a-54f2b4b7-66d1-49d0-bbae-eef856452bc8#ref=rss)
+### volksbühne
 
-* [https://www.spiegel.de/panorama/justiz/moschee-in-bayern-prediger-soll-juden-den-tod-gewuenscht-haben](https://www.spiegel.de/panorama/justiz/moschee-in-bayern-prediger-soll-juden-den-tod-gewuenscht-haben-a-f9b0590f-5a5c-4130-9e81-0895228c8ee9#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/ken-jebsen-youtube-sperrt-offenbar-kanal-von-kayvan-soufi-siavash](https://www.spiegel.de/netzwelt/web/ken-jebsen-youtube-sperrt-offenbar-kanal-von-kayvan-soufi-siavash-a-6577a63c-4c10-4cda-b88c-e3189a9026c3#ref=rss)
-### ken
-
-* [https://www.spiegel.de/netzwelt/web/ken-jebsen-youtube-sperrt-offenbar-kanal-von-kayvan-soufi-siavash](https://www.spiegel.de/netzwelt/web/ken-jebsen-youtube-sperrt-offenbar-kanal-von-kayvan-soufi-siavash-a-6577a63c-4c10-4cda-b88c-e3189a9026c3#ref=rss)
-### jebsen
-
-* [https://www.spiegel.de/netzwelt/web/ken-jebsen-youtube-sperrt-offenbar-kanal-von-kayvan-soufi-siavash](https://www.spiegel.de/netzwelt/web/ken-jebsen-youtube-sperrt-offenbar-kanal-von-kayvan-soufi-siavash-a-6577a63c-4c10-4cda-b88c-e3189a9026c3#ref=rss)
-### youtube
-
-* [https://www.spiegel.de/netzwelt/web/ken-jebsen-youtube-sperrt-offenbar-kanal-von-kayvan-soufi-siavash](https://www.spiegel.de/netzwelt/web/ken-jebsen-youtube-sperrt-offenbar-kanal-von-kayvan-soufi-siavash-a-6577a63c-4c10-4cda-b88c-e3189a9026c3#ref=rss)
+* [https://www.spiegel.de/kultur/volksbuehne-in-berlin-lassen-sich-zwei-theaterrammboecke-zu-braven-gaertnern-machen](https://www.spiegel.de/kultur/volksbuehne-in-berlin-lassen-sich-zwei-theaterrammboecke-zu-braven-gaertnern-machen-a-798bbcd1-8ddf-40ae-861c-5afc6b0dea15#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/netzwelt/web/ken-jebsen-youtube-sperrt-offenbar-kanal-von-kayvan-soufi-siavash](https://www.spiegel.de/netzwelt/web/ken-jebsen-youtube-sperrt-offenbar-kanal-von-kayvan-soufi-siavash-a-6577a63c-4c10-4cda-b88c-e3189a9026c3#ref=rss)
-* [https://www.spiegel.de/panorama/nepal-fuenf-am-dhaulagiri-vermisste-bergsteiger-sind-tot](https://www.spiegel.de/panorama/nepal-fuenf-am-dhaulagiri-vermisste-bergsteiger-sind-tot-a-2c54f691-3f8c-4b86-bbb9-36f1fcd0e999#ref=rss)
-### kanal
+* [https://www.spiegel.de/kultur/volksbuehne-in-berlin-lassen-sich-zwei-theaterrammboecke-zu-braven-gaertnern-machen](https://www.spiegel.de/kultur/volksbuehne-in-berlin-lassen-sich-zwei-theaterrammboecke-zu-braven-gaertnern-machen-a-798bbcd1-8ddf-40ae-861c-5afc6b0dea15#ref=rss)
+* [https://www.spiegel.de/kultur/genderinklusive-sprache-kann-offenbar-verstaendlich-und-einfach-sein](https://www.spiegel.de/kultur/genderinklusive-sprache-kann-offenbar-verstaendlich-und-einfach-sein-a-36695fe4-ffa0-4fc7-a0bf-af92987b6416#ref=rss)
+### berliner
 
-* [https://www.spiegel.de/netzwelt/web/ken-jebsen-youtube-sperrt-offenbar-kanal-von-kayvan-soufi-siavash](https://www.spiegel.de/netzwelt/web/ken-jebsen-youtube-sperrt-offenbar-kanal-von-kayvan-soufi-siavash-a-6577a63c-4c10-4cda-b88c-e3189a9026c3#ref=rss)
-### netz
+* [https://www.spiegel.de/kultur/volksbuehne-in-berlin-lassen-sich-zwei-theaterrammboecke-zu-braven-gaertnern-machen](https://www.spiegel.de/kultur/volksbuehne-in-berlin-lassen-sich-zwei-theaterrammboecke-zu-braven-gaertnern-machen-a-798bbcd1-8ddf-40ae-861c-5afc6b0dea15#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berliner-gruenen-abgeordnete-bayram-kandidiert-nicht-mehr-fuer-den-bundestag](https://www.spiegel.de/politik/deutschland/berliner-gruenen-abgeordnete-bayram-kandidiert-nicht-mehr-fuer-den-bundestag-a-c3b348b2-3013-43d3-a356-5aaa587c08cd#ref=rss)
+### übernehmen
 
-* [https://www.spiegel.de/netzwelt/web/ken-jebsen-youtube-sperrt-offenbar-kanal-von-kayvan-soufi-siavash](https://www.spiegel.de/netzwelt/web/ken-jebsen-youtube-sperrt-offenbar-kanal-von-kayvan-soufi-siavash-a-6577a63c-4c10-4cda-b88c-e3189a9026c3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/flix-bietet-mehr-regionalverbindungen-auf-der-schiene-an](https://www.spiegel.de/wirtschaft/flix-bietet-mehr-regionalverbindungen-auf-der-schiene-an-a-6c720297-bf5d-49e3-b868-04d6a7ec9fa7#ref=rss)
-### fünfjähriger
-
-* [https://www.spiegel.de/panorama/roedental-in-oberfranken-fuenfjaehriger-ruft-die-polizei-wegen-problemen-beim-videospielen](https://www.spiegel.de/panorama/roedental-in-oberfranken-fuenfjaehriger-ruft-die-polizei-wegen-problemen-beim-videospielen-a-6f47866d-c53f-4850-960a-83725f30e344#ref=rss)
-### genauen
-
-* [https://www.spiegel.de/panorama/roedental-in-oberfranken-fuenfjaehriger-ruft-die-polizei-wegen-problemen-beim-videospielen](https://www.spiegel.de/panorama/roedental-in-oberfranken-fuenfjaehriger-ruft-die-polizei-wegen-problemen-beim-videospielen-a-6f47866d-c53f-4850-960a-83725f30e344#ref=rss)
-* [https://www.spiegel.de/panorama/nepal-fuenf-am-dhaulagiri-vermisste-bergsteiger-sind-tot](https://www.spiegel.de/panorama/nepal-fuenf-am-dhaulagiri-vermisste-bergsteiger-sind-tot-a-2c54f691-3f8c-4b86-bbb9-36f1fcd0e999#ref=rss)
-### sarah
-
-* [https://www.spiegel.de/stil/dubai-schokolade-von-sarah-hamouda-wie-tiktok-der-suessigkeit-und-dem-emirat-zu-ruhm-verhalf](https://www.spiegel.de/stil/dubai-schokolade-von-sarah-hamouda-wie-tiktok-der-suessigkeit-und-dem-emirat-zu-ruhm-verhalf-a-1438f6f4-4987-45ac-8cc1-a5f81b38d200#ref=rss)
-### hamouda
-
-* [https://www.spiegel.de/stil/dubai-schokolade-von-sarah-hamouda-wie-tiktok-der-suessigkeit-und-dem-emirat-zu-ruhm-verhalf](https://www.spiegel.de/stil/dubai-schokolade-von-sarah-hamouda-wie-tiktok-der-suessigkeit-und-dem-emirat-zu-ruhm-verhalf-a-1438f6f4-4987-45ac-8cc1-a5f81b38d200#ref=rss)
+* [https://www.spiegel.de/kultur/volksbuehne-in-berlin-lassen-sich-zwei-theaterrammboecke-zu-braven-gaertnern-machen](https://www.spiegel.de/kultur/volksbuehne-in-berlin-lassen-sich-zwei-theaterrammboecke-zu-braven-gaertnern-machen-a-798bbcd1-8ddf-40ae-861c-5afc6b0dea15#ref=rss)
+* [https://www.spiegel.de/ausland/jens-stoltenberg-bestaetigt-wechsel-zur-muenchner-sicherheitskonferenz](https://www.spiegel.de/ausland/jens-stoltenberg-bestaetigt-wechsel-zur-muenchner-sicherheitskonferenz-a-b7e0a971-51b6-4f99-8810-ccae170e5335#ref=rss)
 ### physiknobelpreis
 
-* [https://www.spiegel.de/wissenschaft/physik-nobelpreis-geht-an-john-j-hopfield-und-geoffrey-e-hinton](https://www.spiegel.de/wissenschaft/physik-nobelpreis-geht-an-john-j-hopfield-und-geoffrey-e-hinton-a-2f302df5-8cb7-4e7a-a14e-cfee30262099#ref=rss)
-### john
+* [https://www.spiegel.de/wissenschaft/physik-nobelpreis-wie-es-ein-tischlerlehrling-zum-ki-star-brachte](https://www.spiegel.de/wissenschaft/physik-nobelpreis-wie-es-ein-tischlerlehrling-zum-ki-star-brachte-a-978eff81-1d9d-477a-8e53-9c60067a7812#ref=rss)
+### 40
 
-* [https://www.spiegel.de/wissenschaft/physik-nobelpreis-geht-an-john-j-hopfield-und-geoffrey-e-hinton](https://www.spiegel.de/wissenschaft/physik-nobelpreis-geht-an-john-j-hopfield-und-geoffrey-e-hinton-a-2f302df5-8cb7-4e7a-a14e-cfee30262099#ref=rss)
-### hopfield
+* [https://www.spiegel.de/wissenschaft/physik-nobelpreis-wie-es-ein-tischlerlehrling-zum-ki-star-brachte](https://www.spiegel.de/wissenschaft/physik-nobelpreis-wie-es-ein-tischlerlehrling-zum-ki-star-brachte-a-978eff81-1d9d-477a-8e53-9c60067a7812#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/belastung-durch-miete-steigt-fuer-viele-haushalte](https://www.spiegel.de/wirtschaft/service/belastung-durch-miete-steigt-fuer-viele-haushalte-a-1a5f6794-caf8-41a8-b615-28019383ce6d#ref=rss)
+### gericht
 
-* [https://www.spiegel.de/wissenschaft/physik-nobelpreis-geht-an-john-j-hopfield-und-geoffrey-e-hinton](https://www.spiegel.de/wissenschaft/physik-nobelpreis-geht-an-john-j-hopfield-und-geoffrey-e-hinton-a-2f302df5-8cb7-4e7a-a14e-cfee30262099#ref=rss)
-### geoffrey
+* [https://www.spiegel.de/panorama/justiz/hyaluronsaeure-gericht-verbietet-vorher-nachher-bilder-von-unterspritzungen](https://www.spiegel.de/panorama/justiz/hyaluronsaeure-gericht-verbietet-vorher-nachher-bilder-von-unterspritzungen-a-1f4cba96-1deb-44f0-aa89-3a1b23043d25#ref=rss)
+### eukommission
 
-* [https://www.spiegel.de/wissenschaft/physik-nobelpreis-geht-an-john-j-hopfield-und-geoffrey-e-hinton](https://www.spiegel.de/wissenschaft/physik-nobelpreis-geht-an-john-j-hopfield-und-geoffrey-e-hinton-a-2f302df5-8cb7-4e7a-a14e-cfee30262099#ref=rss)
-### hinton
+* [https://www.spiegel.de/ausland/eu-kommission-will-digitalen-reisepass-einfuehren](https://www.spiegel.de/ausland/eu-kommission-will-digitalen-reisepass-einfuehren-a-45222946-1f62-4f71-ac79-a34914b47a76#ref=rss)
+### europas
 
-* [https://www.spiegel.de/wissenschaft/physik-nobelpreis-geht-an-john-j-hopfield-und-geoffrey-e-hinton](https://www.spiegel.de/wissenschaft/physik-nobelpreis-geht-an-john-j-hopfield-und-geoffrey-e-hinton-a-2f302df5-8cb7-4e7a-a14e-cfee30262099#ref=rss)
-### fünf
+* [https://www.spiegel.de/ausland/eu-kommission-will-digitalen-reisepass-einfuehren](https://www.spiegel.de/ausland/eu-kommission-will-digitalen-reisepass-einfuehren-a-45222946-1f62-4f71-ac79-a34914b47a76#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-britischer-inlandsgeheimdienst-sieht-zunehmende-gefahr-fuer-europas-sicherheit-durch-russland](https://www.spiegel.de/ausland/ukraine-krieg-britischer-inlandsgeheimdienst-sieht-zunehmende-gefahr-fuer-europas-sicherheit-durch-russland-a-5904e139-2ecb-4f02-9e28-bf2706936827#ref=rss)
+### künftig
 
-* [https://www.spiegel.de/panorama/nepal-fuenf-am-dhaulagiri-vermisste-bergsteiger-sind-tot](https://www.spiegel.de/panorama/nepal-fuenf-am-dhaulagiri-vermisste-bergsteiger-sind-tot-a-2c54f691-3f8c-4b86-bbb9-36f1fcd0e999#ref=rss)
-### dhaulagiri
+* [https://www.spiegel.de/ausland/eu-kommission-will-digitalen-reisepass-einfuehren](https://www.spiegel.de/ausland/eu-kommission-will-digitalen-reisepass-einfuehren-a-45222946-1f62-4f71-ac79-a34914b47a76#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/thueringen-will-die-kita-misere-lindern-ohne-mehr-personal-einzustellen](https://www.spiegel.de/panorama/bildung/thueringen-will-die-kita-misere-lindern-ohne-mehr-personal-einzustellen-a-db9f1245-b301-4bd1-8304-c2bf48ff3779#ref=rss)
+### donald
 
-* [https://www.spiegel.de/panorama/nepal-fuenf-am-dhaulagiri-vermisste-bergsteiger-sind-tot](https://www.spiegel.de/panorama/nepal-fuenf-am-dhaulagiri-vermisste-bergsteiger-sind-tot-a-2c54f691-3f8c-4b86-bbb9-36f1fcd0e999#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-soll-wladimir-putin-heimlich-corona-tests-geschickt-haben](https://www.spiegel.de/ausland/donald-trump-soll-wladimir-putin-heimlich-corona-tests-geschickt-haben-a-39befc10-b759-414b-af72-5985c3935be7#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/donald-trump-soll-wladimir-putin-heimlich-corona-tests-geschickt-haben](https://www.spiegel.de/ausland/donald-trump-soll-wladimir-putin-heimlich-corona-tests-geschickt-haben-a-39befc10-b759-414b-af72-5985c3935be7#ref=rss)
+### wladimir
+
+* [https://www.spiegel.de/ausland/donald-trump-soll-wladimir-putin-heimlich-corona-tests-geschickt-haben](https://www.spiegel.de/ausland/donald-trump-soll-wladimir-putin-heimlich-corona-tests-geschickt-haben-a-39befc10-b759-414b-af72-5985c3935be7#ref=rss)
+### putin
+
+* [https://www.spiegel.de/ausland/donald-trump-soll-wladimir-putin-heimlich-corona-tests-geschickt-haben](https://www.spiegel.de/ausland/donald-trump-soll-wladimir-putin-heimlich-corona-tests-geschickt-haben-a-39befc10-b759-414b-af72-5985c3935be7#ref=rss)
+### butcheringscam
+
+* [https://www.spiegel.de/politik/pig-butchering-scam-der-kryptobetrug-der-die-opfer-millionen-kostet-podcast](https://www.spiegel.de/politik/pig-butchering-scam-der-kryptobetrug-der-die-opfer-millionen-kostet-podcast-a-e06bcfc0-1a77-4b83-90e1-3b1771d7e0d2#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/pig-butchering-scam-der-krypto-betrug-der-die-opfer-millionen-kostet](https://www.spiegel.de/netzwelt/web/pig-butchering-scam-der-krypto-betrug-der-die-opfer-millionen-kostet-a-7aeef8d7-7dc3-4a56-9d9d-202c66f1d2cf#ref=rss)
+### kryptobetrug
+
+* [https://www.spiegel.de/politik/pig-butchering-scam-der-kryptobetrug-der-die-opfer-millionen-kostet-podcast](https://www.spiegel.de/politik/pig-butchering-scam-der-kryptobetrug-der-die-opfer-millionen-kostet-podcast-a-e06bcfc0-1a77-4b83-90e1-3b1771d7e0d2#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/pig-butchering-scam-der-krypto-betrug-der-die-opfer-millionen-kostet](https://www.spiegel.de/netzwelt/web/pig-butchering-scam-der-krypto-betrug-der-die-opfer-millionen-kostet-a-7aeef8d7-7dc3-4a56-9d9d-202c66f1d2cf#ref=rss)
+### opfer
+
+* [https://www.spiegel.de/politik/pig-butchering-scam-der-kryptobetrug-der-die-opfer-millionen-kostet-podcast](https://www.spiegel.de/politik/pig-butchering-scam-der-kryptobetrug-der-die-opfer-millionen-kostet-podcast-a-e06bcfc0-1a77-4b83-90e1-3b1771d7e0d2#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/pig-butchering-scam-der-krypto-betrug-der-die-opfer-millionen-kostet](https://www.spiegel.de/netzwelt/web/pig-butchering-scam-der-krypto-betrug-der-die-opfer-millionen-kostet-a-7aeef8d7-7dc3-4a56-9d9d-202c66f1d2cf#ref=rss)
+### kostet
+
+* [https://www.spiegel.de/politik/pig-butchering-scam-der-kryptobetrug-der-die-opfer-millionen-kostet-podcast](https://www.spiegel.de/politik/pig-butchering-scam-der-kryptobetrug-der-die-opfer-millionen-kostet-podcast-a-e06bcfc0-1a77-4b83-90e1-3b1771d7e0d2#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/pig-butchering-scam-der-krypto-betrug-der-die-opfer-millionen-kostet](https://www.spiegel.de/netzwelt/web/pig-butchering-scam-der-krypto-betrug-der-die-opfer-millionen-kostet-a-7aeef8d7-7dc3-4a56-9d9d-202c66f1d2cf#ref=rss)
+### betrugsmasche
+
+* [https://www.spiegel.de/politik/pig-butchering-scam-der-kryptobetrug-der-die-opfer-millionen-kostet-podcast](https://www.spiegel.de/politik/pig-butchering-scam-der-kryptobetrug-der-die-opfer-millionen-kostet-podcast-a-e06bcfc0-1a77-4b83-90e1-3b1771d7e0d2#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/pig-butchering-scam-der-krypto-betrug-der-die-opfer-millionen-kostet](https://www.spiegel.de/netzwelt/web/pig-butchering-scam-der-krypto-betrug-der-die-opfer-millionen-kostet-a-7aeef8d7-7dc3-4a56-9d9d-202c66f1d2cf#ref=rss)
+### namens
+
+* [https://www.spiegel.de/politik/pig-butchering-scam-der-kryptobetrug-der-die-opfer-millionen-kostet-podcast](https://www.spiegel.de/politik/pig-butchering-scam-der-kryptobetrug-der-die-opfer-millionen-kostet-podcast-a-e06bcfc0-1a77-4b83-90e1-3b1771d7e0d2#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/pig-butchering-scam-der-krypto-betrug-der-die-opfer-millionen-kostet](https://www.spiegel.de/netzwelt/web/pig-butchering-scam-der-krypto-betrug-der-die-opfer-millionen-kostet-a-7aeef8d7-7dc3-4a56-9d9d-202c66f1d2cf#ref=rss)
+### butchering
+
+* [https://www.spiegel.de/politik/pig-butchering-scam-der-kryptobetrug-der-die-opfer-millionen-kostet-podcast](https://www.spiegel.de/politik/pig-butchering-scam-der-kryptobetrug-der-die-opfer-millionen-kostet-podcast-a-e06bcfc0-1a77-4b83-90e1-3b1771d7e0d2#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/pig-butchering-scam-der-krypto-betrug-der-die-opfer-millionen-kostet](https://www.spiegel.de/netzwelt/web/pig-butchering-scam-der-krypto-betrug-der-die-opfer-millionen-kostet-a-7aeef8d7-7dc3-4a56-9d9d-202c66f1d2cf#ref=rss)
+### treibt
+
+* [https://www.spiegel.de/politik/pig-butchering-scam-der-kryptobetrug-der-die-opfer-millionen-kostet-podcast](https://www.spiegel.de/politik/pig-butchering-scam-der-kryptobetrug-der-die-opfer-millionen-kostet-podcast-a-e06bcfc0-1a77-4b83-90e1-3b1771d7e0d2#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/pig-butchering-scam-der-krypto-betrug-der-die-opfer-millionen-kostet](https://www.spiegel.de/netzwelt/web/pig-butchering-scam-der-krypto-betrug-der-die-opfer-millionen-kostet-a-7aeef8d7-7dc3-4a56-9d9d-202c66f1d2cf#ref=rss)
+### ruin
+
+* [https://www.spiegel.de/politik/pig-butchering-scam-der-kryptobetrug-der-die-opfer-millionen-kostet-podcast](https://www.spiegel.de/politik/pig-butchering-scam-der-kryptobetrug-der-die-opfer-millionen-kostet-podcast-a-e06bcfc0-1a77-4b83-90e1-3b1771d7e0d2#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/pig-butchering-scam-der-krypto-betrug-der-die-opfer-millionen-kostet](https://www.spiegel.de/netzwelt/web/pig-butchering-scam-der-krypto-betrug-der-die-opfer-millionen-kostet-a-7aeef8d7-7dc3-4a56-9d9d-202c66f1d2cf#ref=rss)
+### jeden
+
+* [https://www.spiegel.de/politik/pig-butchering-scam-der-kryptobetrug-der-die-opfer-millionen-kostet-podcast](https://www.spiegel.de/politik/pig-butchering-scam-der-kryptobetrug-der-die-opfer-millionen-kostet-podcast-a-e06bcfc0-1a77-4b83-90e1-3b1771d7e0d2#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/pig-butchering-scam-der-krypto-betrug-der-die-opfer-millionen-kostet](https://www.spiegel.de/netzwelt/web/pig-butchering-scam-der-krypto-betrug-der-die-opfer-millionen-kostet-a-7aeef8d7-7dc3-4a56-9d9d-202c66f1d2cf#ref=rss)
+### treffen
+
+* [https://www.spiegel.de/politik/pig-butchering-scam-der-kryptobetrug-der-die-opfer-millionen-kostet-podcast](https://www.spiegel.de/politik/pig-butchering-scam-der-kryptobetrug-der-die-opfer-millionen-kostet-podcast-a-e06bcfc0-1a77-4b83-90e1-3b1771d7e0d2#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/pig-butchering-scam-der-krypto-betrug-der-die-opfer-millionen-kostet](https://www.spiegel.de/netzwelt/web/pig-butchering-scam-der-krypto-betrug-der-die-opfer-millionen-kostet-a-7aeef8d7-7dc3-4a56-9d9d-202c66f1d2cf#ref=rss)
+### spiegelredakteur
+
+* [https://www.spiegel.de/politik/pig-butchering-scam-der-kryptobetrug-der-die-opfer-millionen-kostet-podcast](https://www.spiegel.de/politik/pig-butchering-scam-der-kryptobetrug-der-die-opfer-millionen-kostet-podcast-a-e06bcfc0-1a77-4b83-90e1-3b1771d7e0d2#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/pig-butchering-scam-der-krypto-betrug-der-die-opfer-millionen-kostet](https://www.spiegel.de/netzwelt/web/pig-butchering-scam-der-krypto-betrug-der-die-opfer-millionen-kostet-a-7aeef8d7-7dc3-4a56-9d9d-202c66f1d2cf#ref=rss)
+### max
+
+* [https://www.spiegel.de/politik/pig-butchering-scam-der-kryptobetrug-der-die-opfer-millionen-kostet-podcast](https://www.spiegel.de/politik/pig-butchering-scam-der-kryptobetrug-der-die-opfer-millionen-kostet-podcast-a-e06bcfc0-1a77-4b83-90e1-3b1771d7e0d2#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/pig-butchering-scam-der-krypto-betrug-der-die-opfer-millionen-kostet](https://www.spiegel.de/netzwelt/web/pig-butchering-scam-der-krypto-betrug-der-die-opfer-millionen-kostet-a-7aeef8d7-7dc3-4a56-9d9d-202c66f1d2cf#ref=rss)
+### hoppenstedt
+
+* [https://www.spiegel.de/politik/pig-butchering-scam-der-kryptobetrug-der-die-opfer-millionen-kostet-podcast](https://www.spiegel.de/politik/pig-butchering-scam-der-kryptobetrug-der-die-opfer-millionen-kostet-podcast-a-e06bcfc0-1a77-4b83-90e1-3b1771d7e0d2#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/pig-butchering-scam-der-krypto-betrug-der-die-opfer-millionen-kostet](https://www.spiegel.de/netzwelt/web/pig-butchering-scam-der-krypto-betrug-der-die-opfer-millionen-kostet-a-7aeef8d7-7dc3-4a56-9d9d-202c66f1d2cf#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/politik/pig-butchering-scam-der-kryptobetrug-der-die-opfer-millionen-kostet-podcast](https://www.spiegel.de/politik/pig-butchering-scam-der-kryptobetrug-der-die-opfer-millionen-kostet-podcast-a-e06bcfc0-1a77-4b83-90e1-3b1771d7e0d2#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/pig-butchering-scam-der-krypto-betrug-der-die-opfer-millionen-kostet](https://www.spiegel.de/netzwelt/web/pig-butchering-scam-der-krypto-betrug-der-die-opfer-millionen-kostet-a-7aeef8d7-7dc3-4a56-9d9d-202c66f1d2cf#ref=rss)
+### scam
+
+* [https://www.spiegel.de/politik/pig-butchering-scam-der-kryptobetrug-der-die-opfer-millionen-kostet-podcast](https://www.spiegel.de/politik/pig-butchering-scam-der-kryptobetrug-der-die-opfer-millionen-kostet-podcast-a-e06bcfc0-1a77-4b83-90e1-3b1771d7e0d2#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/pig-butchering-scam-der-krypto-betrug-der-die-opfer-millionen-kostet](https://www.spiegel.de/netzwelt/web/pig-butchering-scam-der-krypto-betrug-der-die-opfer-millionen-kostet-a-7aeef8d7-7dc3-4a56-9d9d-202c66f1d2cf#ref=rss)
+### schützt
+
+* [https://www.spiegel.de/politik/pig-butchering-scam-der-kryptobetrug-der-die-opfer-millionen-kostet-podcast](https://www.spiegel.de/politik/pig-butchering-scam-der-kryptobetrug-der-die-opfer-millionen-kostet-podcast-a-e06bcfc0-1a77-4b83-90e1-3b1771d7e0d2#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/pig-butchering-scam-der-krypto-betrug-der-die-opfer-millionen-kostet](https://www.spiegel.de/netzwelt/web/pig-butchering-scam-der-krypto-betrug-der-die-opfer-millionen-kostet-a-7aeef8d7-7dc3-4a56-9d9d-202c66f1d2cf#ref=rss)
+### lebenserwartung
+
+* [https://www.spiegel.de/wissenschaft/lebenserwartung-des-menschen-steigt-langsamer](https://www.spiegel.de/wissenschaft/lebenserwartung-des-menschen-steigt-langsamer-a-d206a0c4-050b-4ac0-8ad5-4d4ffcca41e4#ref=rss)
+### steigt
+
+* [https://www.spiegel.de/wissenschaft/lebenserwartung-des-menschen-steigt-langsamer](https://www.spiegel.de/wissenschaft/lebenserwartung-des-menschen-steigt-langsamer-a-d206a0c4-050b-4ac0-8ad5-4d4ffcca41e4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/belastung-durch-miete-steigt-fuer-viele-haushalte](https://www.spiegel.de/wirtschaft/service/belastung-durch-miete-steigt-fuer-viele-haushalte-a-1a5f6794-caf8-41a8-b615-28019383ce6d#ref=rss)
+### hund
+
+* [https://www.spiegel.de/panorama/altenkrempe-hund-laeuft-auf-a1-und-verursacht-auffahrunfall-vier-verletzte](https://www.spiegel.de/panorama/altenkrempe-hund-laeuft-auf-a1-und-verursacht-auffahrunfall-vier-verletzte-a-2fe60398-bb3d-4e6b-b776-43d5935a18fd#ref=rss)
+### a1
+
+* [https://www.spiegel.de/panorama/altenkrempe-hund-laeuft-auf-a1-und-verursacht-auffahrunfall-vier-verletzte](https://www.spiegel.de/panorama/altenkrempe-hund-laeuft-auf-a1-und-verursacht-auffahrunfall-vier-verletzte-a-2fe60398-bb3d-4e6b-b776-43d5935a18fd#ref=rss)
+### auffahrunfall
+
+* [https://www.spiegel.de/panorama/altenkrempe-hund-laeuft-auf-a1-und-verursacht-auffahrunfall-vier-verletzte](https://www.spiegel.de/panorama/altenkrempe-hund-laeuft-auf-a1-und-verursacht-auffahrunfall-vier-verletzte-a-2fe60398-bb3d-4e6b-b776-43d5935a18fd#ref=rss)
+### verletzte
+
+* [https://www.spiegel.de/panorama/altenkrempe-hund-laeuft-auf-a1-und-verursacht-auffahrunfall-vier-verletzte](https://www.spiegel.de/panorama/altenkrempe-hund-laeuft-auf-a1-und-verursacht-auffahrunfall-vier-verletzte-a-2fe60398-bb3d-4e6b-b776-43d5935a18fd#ref=rss)
+* [https://www.spiegel.de/ausland/tirana-mindestens-13-verletzte-bei-anti-regierungsprotesten-in-albanien](https://www.spiegel.de/ausland/tirana-mindestens-13-verletzte-bei-anti-regierungsprotesten-in-albanien-a-6081e40b-491e-4b39-819d-e17e724b5256#ref=rss)
+### kam
+
+* [https://www.spiegel.de/panorama/altenkrempe-hund-laeuft-auf-a1-und-verursacht-auffahrunfall-vier-verletzte](https://www.spiegel.de/panorama/altenkrempe-hund-laeuft-auf-a1-und-verursacht-auffahrunfall-vier-verletzte-a-2fe60398-bb3d-4e6b-b776-43d5935a18fd#ref=rss)
+* [https://www.spiegel.de/panorama/niederlande-museumsmitarbeiter-wirft-kunstwerk-aus-bierdosen-in-den-muell](https://www.spiegel.de/panorama/niederlande-museumsmitarbeiter-wirft-kunstwerk-aus-bierdosen-in-den-muell-a-c0f91c71-c458-4619-b77f-ecc93767e1fc#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/ausland/spiegel-reporter-in-israel-man-wuenscht-auch-den-israelis-dass-der-krieg-endlich-zu-ende-geht](https://www.spiegel.de/ausland/spiegel-reporter-in-israel-man-wuenscht-auch-den-israelis-dass-der-krieg-endlich-zu-ende-geht-a-b4579a95-f073-4d69-8343-0e5b6e8a2dfa#ref=rss)
+### jahrestag
+
+* [https://www.spiegel.de/ausland/spiegel-reporter-in-israel-man-wuenscht-auch-den-israelis-dass-der-krieg-endlich-zu-ende-geht](https://www.spiegel.de/ausland/spiegel-reporter-in-israel-man-wuenscht-auch-den-israelis-dass-der-krieg-endlich-zu-ende-geht-a-b4579a95-f073-4d69-8343-0e5b6e8a2dfa#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/israel-gaza-konflikt-hamburger-schulen-sollten-auf-schweigeminute-verzichten](https://www.spiegel.de/panorama/bildung/israel-gaza-konflikt-hamburger-schulen-sollten-auf-schweigeminute-verzichten-a-54f2b4b7-66d1-49d0-bbae-eef856452bc8#ref=rss)
+### lange
+
+* [https://www.spiegel.de/ausland/spiegel-reporter-in-israel-man-wuenscht-auch-den-israelis-dass-der-krieg-endlich-zu-ende-geht](https://www.spiegel.de/ausland/spiegel-reporter-in-israel-man-wuenscht-auch-den-israelis-dass-der-krieg-endlich-zu-ende-geht-a-b4579a95-f073-4d69-8343-0e5b6e8a2dfa#ref=rss)
+* [https://www.spiegel.de/auto/verbraucher-sollten-kraftstoffpreise-per-app-vergleichen](https://www.spiegel.de/auto/verbraucher-sollten-kraftstoffpreise-per-app-vergleichen-a-0307edc1-d7e8-4d19-b959-278a242e31ce#ref=rss)
+### lisa
+
+* [https://www.spiegel.de/panorama/leute/lisa-marie-presley-bahrte-ihren-verstorbenen-sohn-zwei-monate-auf-trockeneis-auf](https://www.spiegel.de/panorama/leute/lisa-marie-presley-bahrte-ihren-verstorbenen-sohn-zwei-monate-auf-trockeneis-auf-a-82dc07f0-e241-4973-b61c-203aec9d8aff#ref=rss)
+### marie
+
+* [https://www.spiegel.de/panorama/leute/lisa-marie-presley-bahrte-ihren-verstorbenen-sohn-zwei-monate-auf-trockeneis-auf](https://www.spiegel.de/panorama/leute/lisa-marie-presley-bahrte-ihren-verstorbenen-sohn-zwei-monate-auf-trockeneis-auf-a-82dc07f0-e241-4973-b61c-203aec9d8aff#ref=rss)
+### presley
+
+* [https://www.spiegel.de/panorama/leute/lisa-marie-presley-bahrte-ihren-verstorbenen-sohn-zwei-monate-auf-trockeneis-auf](https://www.spiegel.de/panorama/leute/lisa-marie-presley-bahrte-ihren-verstorbenen-sohn-zwei-monate-auf-trockeneis-auf-a-82dc07f0-e241-4973-b61c-203aec9d8aff#ref=rss)
+### verstorbenen
+
+* [https://www.spiegel.de/panorama/leute/lisa-marie-presley-bahrte-ihren-verstorbenen-sohn-zwei-monate-auf-trockeneis-auf](https://www.spiegel.de/panorama/leute/lisa-marie-presley-bahrte-ihren-verstorbenen-sohn-zwei-monate-auf-trockeneis-auf-a-82dc07f0-e241-4973-b61c-203aec9d8aff#ref=rss)
+### sohn
+
+* [https://www.spiegel.de/panorama/leute/lisa-marie-presley-bahrte-ihren-verstorbenen-sohn-zwei-monate-auf-trockeneis-auf](https://www.spiegel.de/panorama/leute/lisa-marie-presley-bahrte-ihren-verstorbenen-sohn-zwei-monate-auf-trockeneis-auf-a-82dc07f0-e241-4973-b61c-203aec9d8aff#ref=rss)
+### monate
+
+* [https://www.spiegel.de/panorama/leute/lisa-marie-presley-bahrte-ihren-verstorbenen-sohn-zwei-monate-auf-trockeneis-auf](https://www.spiegel.de/panorama/leute/lisa-marie-presley-bahrte-ihren-verstorbenen-sohn-zwei-monate-auf-trockeneis-auf-a-82dc07f0-e241-4973-b61c-203aec9d8aff#ref=rss)
+### warnt
+
+* [https://www.spiegel.de/ausland/nahostkonflikt-greift-iran-im-konflikt-mit-israel-zur-atombombe](https://www.spiegel.de/ausland/nahostkonflikt-greift-iran-im-konflikt-mit-israel-zur-atombombe-a-53fc116b-7f82-4c80-a285-1254fe8f3ded#ref=rss)
+* [https://www.spiegel.de/ausland/hurrikan-milton-trifft-auf-florida-wer-bleibt-wird-sterben](https://www.spiegel.de/ausland/hurrikan-milton-trifft-auf-florida-wer-bleibt-wird-sterben-a-2a1bc787-1f2b-445c-88c9-7ffdd7cbe59b#ref=rss)
+### museumsmitarbeiter
+
+* [https://www.spiegel.de/panorama/niederlande-museumsmitarbeiter-wirft-kunstwerk-aus-bierdosen-in-den-muell](https://www.spiegel.de/panorama/niederlande-museumsmitarbeiter-wirft-kunstwerk-aus-bierdosen-in-den-muell-a-c0f91c71-c458-4619-b77f-ecc93767e1fc#ref=rss)
+### kunstwerk
+
+* [https://www.spiegel.de/panorama/niederlande-museumsmitarbeiter-wirft-kunstwerk-aus-bierdosen-in-den-muell](https://www.spiegel.de/panorama/niederlande-museumsmitarbeiter-wirft-kunstwerk-aus-bierdosen-in-den-muell-a-c0f91c71-c458-4619-b77f-ecc93767e1fc#ref=rss)
+### bierdosen
+
+* [https://www.spiegel.de/panorama/niederlande-museumsmitarbeiter-wirft-kunstwerk-aus-bierdosen-in-den-muell](https://www.spiegel.de/panorama/niederlande-museumsmitarbeiter-wirft-kunstwerk-aus-bierdosen-in-den-muell-a-c0f91c71-c458-4619-b77f-ecc93767e1fc#ref=rss)
+### müll
+
+* [https://www.spiegel.de/panorama/niederlande-museumsmitarbeiter-wirft-kunstwerk-aus-bierdosen-in-den-muell](https://www.spiegel.de/panorama/niederlande-museumsmitarbeiter-wirft-kunstwerk-aus-bierdosen-in-den-muell-a-c0f91c71-c458-4619-b77f-ecc93767e1fc#ref=rss)
+### ukrainekrieg
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-britischer-inlandsgeheimdienst-sieht-zunehmende-gefahr-fuer-europas-sicherheit-durch-russland](https://www.spiegel.de/ausland/ukraine-krieg-britischer-inlandsgeheimdienst-sieht-zunehmende-gefahr-fuer-europas-sicherheit-durch-russland-a-5904e139-2ecb-4f02-9e28-bf2706936827#ref=rss)
+### sicherheit
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-britischer-inlandsgeheimdienst-sieht-zunehmende-gefahr-fuer-europas-sicherheit-durch-russland](https://www.spiegel.de/ausland/ukraine-krieg-britischer-inlandsgeheimdienst-sieht-zunehmende-gefahr-fuer-europas-sicherheit-durch-russland-a-5904e139-2ecb-4f02-9e28-bf2706936827#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-britischer-inlandsgeheimdienst-sieht-zunehmende-gefahr-fuer-europas-sicherheit-durch-russland](https://www.spiegel.de/ausland/ukraine-krieg-britischer-inlandsgeheimdienst-sieht-zunehmende-gefahr-fuer-europas-sicherheit-durch-russland-a-5904e139-2ecb-4f02-9e28-bf2706936827#ref=rss)
+### zunehmend
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-britischer-inlandsgeheimdienst-sieht-zunehmende-gefahr-fuer-europas-sicherheit-durch-russland](https://www.spiegel.de/ausland/ukraine-krieg-britischer-inlandsgeheimdienst-sieht-zunehmende-gefahr-fuer-europas-sicherheit-durch-russland-a-5904e139-2ecb-4f02-9e28-bf2706936827#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/belastung-durch-miete-steigt-fuer-viele-haushalte](https://www.spiegel.de/wirtschaft/service/belastung-durch-miete-steigt-fuer-viele-haushalte-a-1a5f6794-caf8-41a8-b615-28019383ce6d#ref=rss)
+### chef
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-britischer-inlandsgeheimdienst-sieht-zunehmende-gefahr-fuer-europas-sicherheit-durch-russland](https://www.spiegel.de/ausland/ukraine-krieg-britischer-inlandsgeheimdienst-sieht-zunehmende-gefahr-fuer-europas-sicherheit-durch-russland-a-5904e139-2ecb-4f02-9e28-bf2706936827#ref=rss)
+* [https://www.spiegel.de/ausland/jens-stoltenberg-bestaetigt-wechsel-zur-muenchner-sicherheitskonferenz](https://www.spiegel.de/ausland/jens-stoltenberg-bestaetigt-wechsel-zur-muenchner-sicherheitskonferenz-a-b7e0a971-51b6-4f99-8810-ccae170e5335#ref=rss)
+### langzeitarbeitslose
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-langzeitarbeitslose-matthias-miersch-spd-israel-und-libanon](https://www.spiegel.de/politik/deutschland/news-des-tages-langzeitarbeitslose-matthias-miersch-spd-israel-und-libanon-a-ee0dda95-3e20-45cf-8d1b-dcc07c6ca0d4#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-langzeitarbeitslose-matthias-miersch-spd-israel-und-libanon](https://www.spiegel.de/politik/deutschland/news-des-tages-langzeitarbeitslose-matthias-miersch-spd-israel-und-libanon-a-ee0dda95-3e20-45cf-8d1b-dcc07c6ca0d4#ref=rss)
+### libanon
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-langzeitarbeitslose-matthias-miersch-spd-israel-und-libanon](https://www.spiegel.de/politik/deutschland/news-des-tages-langzeitarbeitslose-matthias-miersch-spd-israel-und-libanon-a-ee0dda95-3e20-45cf-8d1b-dcc07c6ca0d4#ref=rss)
+### autofahrer
+
+* [https://www.spiegel.de/auto/auto-ersatzteile-werden-immer-teurer-kfz-versicherungen-deshalb-auch](https://www.spiegel.de/auto/auto-ersatzteile-werden-immer-teurer-kfz-versicherungen-deshalb-auch-a-3d4ca045-6848-4c9e-a6ae-ca4017a0a8bd#ref=rss)
+* [https://www.spiegel.de/auto/verbraucher-sollten-kraftstoffpreise-per-app-vergleichen](https://www.spiegel.de/auto/verbraucher-sollten-kraftstoffpreise-per-app-vergleichen-a-0307edc1-d7e8-4d19-b959-278a242e31ce#ref=rss)
+### empfiehlt
+
+* [https://www.spiegel.de/auto/auto-ersatzteile-werden-immer-teurer-kfz-versicherungen-deshalb-auch](https://www.spiegel.de/auto/auto-ersatzteile-werden-immer-teurer-kfz-versicherungen-deshalb-auch-a-3d4ca045-6848-4c9e-a6ae-ca4017a0a8bd#ref=rss)
+* [https://www.spiegel.de/auto/verbraucher-sollten-kraftstoffpreise-per-app-vergleichen](https://www.spiegel.de/auto/verbraucher-sollten-kraftstoffpreise-per-app-vergleichen-a-0307edc1-d7e8-4d19-b959-278a242e31ce#ref=rss)
+### jens
+
+* [https://www.spiegel.de/ausland/jens-stoltenberg-bestaetigt-wechsel-zur-muenchner-sicherheitskonferenz](https://www.spiegel.de/ausland/jens-stoltenberg-bestaetigt-wechsel-zur-muenchner-sicherheitskonferenz-a-b7e0a971-51b6-4f99-8810-ccae170e5335#ref=rss)
+### stoltenberg
+
+* [https://www.spiegel.de/ausland/jens-stoltenberg-bestaetigt-wechsel-zur-muenchner-sicherheitskonferenz](https://www.spiegel.de/ausland/jens-stoltenberg-bestaetigt-wechsel-zur-muenchner-sicherheitskonferenz-a-b7e0a971-51b6-4f99-8810-ccae170e5335#ref=rss)
+### münchner
+
+* [https://www.spiegel.de/ausland/jens-stoltenberg-bestaetigt-wechsel-zur-muenchner-sicherheitskonferenz](https://www.spiegel.de/ausland/jens-stoltenberg-bestaetigt-wechsel-zur-muenchner-sicherheitskonferenz-a-b7e0a971-51b6-4f99-8810-ccae170e5335#ref=rss)
+### sicherheitskonferenz
+
+* [https://www.spiegel.de/ausland/jens-stoltenberg-bestaetigt-wechsel-zur-muenchner-sicherheitskonferenz](https://www.spiegel.de/ausland/jens-stoltenberg-bestaetigt-wechsel-zur-muenchner-sicherheitskonferenz-a-b7e0a971-51b6-4f99-8810-ccae170e5335#ref=rss)
+### thüringen
+
+* [https://www.spiegel.de/panorama/bildung/thueringen-will-die-kita-misere-lindern-ohne-mehr-personal-einzustellen](https://www.spiegel.de/panorama/bildung/thueringen-will-die-kita-misere-lindern-ohne-mehr-personal-einzustellen-a-db9f1245-b301-4bd1-8304-c2bf48ff3779#ref=rss)
 ### ohne
 
-* [https://www.spiegel.de/panorama/nepal-fuenf-am-dhaulagiri-vermisste-bergsteiger-sind-tot](https://www.spiegel.de/panorama/nepal-fuenf-am-dhaulagiri-vermisste-bergsteiger-sind-tot-a-2c54f691-3f8c-4b86-bbb9-36f1fcd0e999#ref=rss)
-* [https://www.spiegel.de/ausland/kamala-harris-lehnt-friedensgespraeche-mit-russland-ohne-beteiligung-der-ukraine-ab](https://www.spiegel.de/ausland/kamala-harris-lehnt-friedensgespraeche-mit-russland-ohne-beteiligung-der-ukraine-ab-a-d75508d3-a82f-456f-91f9-09f538781a26#ref=rss)
-### hanna
+* [https://www.spiegel.de/panorama/bildung/thueringen-will-die-kita-misere-lindern-ohne-mehr-personal-einzustellen](https://www.spiegel.de/panorama/bildung/thueringen-will-die-kita-misere-lindern-ohne-mehr-personal-einzustellen-a-db9f1245-b301-4bd1-8304-c2bf48ff3779#ref=rss)
+### wirbelsturm
 
-* [https://www.spiegel.de/politik/deutschland/hanna-s-generalbundesanwaltschaft-erhebt-anklage-gegen-mutmassliche-linksextremistin](https://www.spiegel.de/politik/deutschland/hanna-s-generalbundesanwaltschaft-erhebt-anklage-gegen-mutmassliche-linksextremistin-a-ebbfefb2-dd2d-4473-a1e4-2b7ee8051739#ref=rss)
-### s
+* [https://www.spiegel.de/ausland/hurrikan-milton-trifft-auf-florida-wer-bleibt-wird-sterben](https://www.spiegel.de/ausland/hurrikan-milton-trifft-auf-florida-wer-bleibt-wird-sterben-a-2a1bc787-1f2b-445c-88c9-7ffdd7cbe59b#ref=rss)
+* [https://www.spiegel.de/ausland/usa-joe-biden-verschiebt-deutschlandreise-wegen-hurrikan-milton](https://www.spiegel.de/ausland/usa-joe-biden-verschiebt-deutschlandreise-wegen-hurrikan-milton-a-ca4234d4-666f-41cc-8c10-91a63cf401dd#ref=rss)
+### tirana
 
-* [https://www.spiegel.de/politik/deutschland/hanna-s-generalbundesanwaltschaft-erhebt-anklage-gegen-mutmassliche-linksextremistin](https://www.spiegel.de/politik/deutschland/hanna-s-generalbundesanwaltschaft-erhebt-anklage-gegen-mutmassliche-linksextremistin-a-ebbfefb2-dd2d-4473-a1e4-2b7ee8051739#ref=rss)
-### bundesanwaltschaft
+* [https://www.spiegel.de/ausland/tirana-mindestens-13-verletzte-bei-anti-regierungsprotesten-in-albanien](https://www.spiegel.de/ausland/tirana-mindestens-13-verletzte-bei-anti-regierungsprotesten-in-albanien-a-6081e40b-491e-4b39-819d-e17e724b5256#ref=rss)
+### sprache
 
-* [https://www.spiegel.de/politik/deutschland/hanna-s-generalbundesanwaltschaft-erhebt-anklage-gegen-mutmassliche-linksextremistin](https://www.spiegel.de/politik/deutschland/hanna-s-generalbundesanwaltschaft-erhebt-anklage-gegen-mutmassliche-linksextremistin-a-ebbfefb2-dd2d-4473-a1e4-2b7ee8051739#ref=rss)
-### linksextremistin
+* [https://www.spiegel.de/kultur/genderinklusive-sprache-kann-offenbar-verstaendlich-und-einfach-sein](https://www.spiegel.de/kultur/genderinklusive-sprache-kann-offenbar-verstaendlich-und-einfach-sein-a-36695fe4-ffa0-4fc7-a0bf-af92987b6416#ref=rss)
+### miete
 
-* [https://www.spiegel.de/politik/deutschland/hanna-s-generalbundesanwaltschaft-erhebt-anklage-gegen-mutmassliche-linksextremistin](https://www.spiegel.de/politik/deutschland/hanna-s-generalbundesanwaltschaft-erhebt-anklage-gegen-mutmassliche-linksextremistin-a-ebbfefb2-dd2d-4473-a1e4-2b7ee8051739#ref=rss)
-### unter
+* [https://www.spiegel.de/wirtschaft/service/belastung-durch-miete-steigt-fuer-viele-haushalte](https://www.spiegel.de/wirtschaft/service/belastung-durch-miete-steigt-fuer-viele-haushalte-a-1a5f6794-caf8-41a8-b615-28019383ce6d#ref=rss)
+### haushalte
 
-* [https://www.spiegel.de/politik/deutschland/hanna-s-generalbundesanwaltschaft-erhebt-anklage-gegen-mutmassliche-linksextremistin](https://www.spiegel.de/politik/deutschland/hanna-s-generalbundesanwaltschaft-erhebt-anklage-gegen-mutmassliche-linksextremistin-a-ebbfefb2-dd2d-4473-a1e4-2b7ee8051739#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/madeleine-mccann-christian-b-in-vergewaltigungsprozess-freigesprochen](https://www.spiegel.de/panorama/justiz/madeleine-mccann-christian-b-in-vergewaltigungsprozess-freigesprochen-a-be87ea9a-a231-4f82-8551-52b03a023894#ref=rss)
-### zehn
+* [https://www.spiegel.de/wirtschaft/service/belastung-durch-miete-steigt-fuer-viele-haushalte](https://www.spiegel.de/wirtschaft/service/belastung-durch-miete-steigt-fuer-viele-haushalte-a-1a5f6794-caf8-41a8-b615-28019383ce6d#ref=rss)
+### tanken
 
-* [https://www.spiegel.de/wissenschaft/bundeswaldinventur-deutscher-wald-ist-zu-kohlenstoffquelle-geworden](https://www.spiegel.de/wissenschaft/bundeswaldinventur-deutscher-wald-ist-zu-kohlenstoffquelle-geworden-a-6ddc709f-472f-4920-8418-59a373bcac78#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-marco-curto-nannte-hwang-hee-chan-jackie-chan-zehn-spiele-sperre](https://www.spiegel.de/sport/fussball/fussball-marco-curto-nannte-hwang-hee-chan-jackie-chan-zehn-spiele-sperre-a-118c9ce8-691d-4904-ab2a-6a5af3c370ea#ref=rss)
-### laufenden
+* [https://www.spiegel.de/auto/verbraucher-sollten-kraftstoffpreise-per-app-vergleichen](https://www.spiegel.de/auto/verbraucher-sollten-kraftstoffpreise-per-app-vergleichen-a-0307edc1-d7e8-4d19-b959-278a242e31ce#ref=rss)
+### biden
 
-* [https://www.spiegel.de/wirtschaft/krankschreibungen-in-deutschland-im-laufenden-jahr-laut-aok-bericht-auf-hoechststand](https://www.spiegel.de/wirtschaft/krankschreibungen-in-deutschland-im-laufenden-jahr-laut-aok-bericht-auf-hoechststand-a-e415ca11-bbf1-4259-a3eb-c8239dee9d8e#ref=rss)
-### jahr
+* [https://www.spiegel.de/ausland/usa-joe-biden-verschiebt-deutschlandreise-wegen-hurrikan-milton](https://www.spiegel.de/ausland/usa-joe-biden-verschiebt-deutschlandreise-wegen-hurrikan-milton-a-ca4234d4-666f-41cc-8c10-91a63cf401dd#ref=rss)
+### hamburger
 
-* [https://www.spiegel.de/wirtschaft/krankschreibungen-in-deutschland-im-laufenden-jahr-laut-aok-bericht-auf-hoechststand](https://www.spiegel.de/wirtschaft/krankschreibungen-in-deutschland-im-laufenden-jahr-laut-aok-bericht-auf-hoechststand-a-e415ca11-bbf1-4259-a3eb-c8239dee9d8e#ref=rss)
-### stan
+* [https://www.spiegel.de/panorama/bildung/israel-gaza-konflikt-hamburger-schulen-sollten-auf-schweigeminute-verzichten](https://www.spiegel.de/panorama/bildung/israel-gaza-konflikt-hamburger-schulen-sollten-auf-schweigeminute-verzichten-a-54f2b4b7-66d1-49d0-bbae-eef856452bc8#ref=rss)
+### schulen
 
-* [https://www.spiegel.de/sport/tennis/tennis-stan-wawrinka-verliert-weil-der-schiedsrichter-einen-punkt-vergisst](https://www.spiegel.de/sport/tennis/tennis-stan-wawrinka-verliert-weil-der-schiedsrichter-einen-punkt-vergisst-a-0296aade-a0f2-4d74-8937-1dda2366d6d8#ref=rss)
-### wawrinka
+* [https://www.spiegel.de/panorama/bildung/israel-gaza-konflikt-hamburger-schulen-sollten-auf-schweigeminute-verzichten](https://www.spiegel.de/panorama/bildung/israel-gaza-konflikt-hamburger-schulen-sollten-auf-schweigeminute-verzichten-a-54f2b4b7-66d1-49d0-bbae-eef856452bc8#ref=rss)
+### canan
 
-* [https://www.spiegel.de/sport/tennis/tennis-stan-wawrinka-verliert-weil-der-schiedsrichter-einen-punkt-vergisst](https://www.spiegel.de/sport/tennis/tennis-stan-wawrinka-verliert-weil-der-schiedsrichter-einen-punkt-vergisst-a-0296aade-a0f2-4d74-8937-1dda2366d6d8#ref=rss)
-### 20
+* [https://www.spiegel.de/politik/deutschland/berliner-gruenen-abgeordnete-bayram-kandidiert-nicht-mehr-fuer-den-bundestag](https://www.spiegel.de/politik/deutschland/berliner-gruenen-abgeordnete-bayram-kandidiert-nicht-mehr-fuer-den-bundestag-a-c3b348b2-3013-43d3-a356-5aaa587c08cd#ref=rss)
+### bayram
 
-* [https://www.spiegel.de/sport/tennis/tennis-stan-wawrinka-verliert-weil-der-schiedsrichter-einen-punkt-vergisst](https://www.spiegel.de/sport/tennis/tennis-stan-wawrinka-verliert-weil-der-schiedsrichter-einen-punkt-vergisst-a-0296aade-a0f2-4d74-8937-1dda2366d6d8#ref=rss)
-* [https://www.spiegel.de/kultur/tv/dschungelcamp-moderatorin-sonja-zietlow-zieht-ueber-den-deutschen-fernsehpreis-her](https://www.spiegel.de/kultur/tv/dschungelcamp-moderatorin-sonja-zietlow-zieht-ueber-den-deutschen-fernsehpreis-her-a-2d4ddc29-0a40-4d35-8a95-3c9fedced369#ref=rss)
-### sonja
+* [https://www.spiegel.de/politik/deutschland/berliner-gruenen-abgeordnete-bayram-kandidiert-nicht-mehr-fuer-den-bundestag](https://www.spiegel.de/politik/deutschland/berliner-gruenen-abgeordnete-bayram-kandidiert-nicht-mehr-fuer-den-bundestag-a-c3b348b2-3013-43d3-a356-5aaa587c08cd#ref=rss)
+### bundestag
 
-* [https://www.spiegel.de/kultur/tv/dschungelcamp-moderatorin-sonja-zietlow-zieht-ueber-den-deutschen-fernsehpreis-her](https://www.spiegel.de/kultur/tv/dschungelcamp-moderatorin-sonja-zietlow-zieht-ueber-den-deutschen-fernsehpreis-her-a-2d4ddc29-0a40-4d35-8a95-3c9fedced369#ref=rss)
-### zietlow
-
-* [https://www.spiegel.de/kultur/tv/dschungelcamp-moderatorin-sonja-zietlow-zieht-ueber-den-deutschen-fernsehpreis-her](https://www.spiegel.de/kultur/tv/dschungelcamp-moderatorin-sonja-zietlow-zieht-ueber-den-deutschen-fernsehpreis-her-a-2d4ddc29-0a40-4d35-8a95-3c9fedced369#ref=rss)
-### rund
-
-* [https://www.spiegel.de/panorama/bildung/lesen-rund-ein-drittel-der-eltern-liest-kindern-selten-oder-nie-vor](https://www.spiegel.de/panorama/bildung/lesen-rund-ein-drittel-der-eltern-liest-kindern-selten-oder-nie-vor-a-9958c30c-5e0a-46d9-a26c-741c7e100c2f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/flix-bietet-mehr-regionalverbindungen-auf-der-schiene-an](https://www.spiegel.de/wirtschaft/flix-bietet-mehr-regionalverbindungen-auf-der-schiene-an-a-6c720297-bf5d-49e3-b868-04d6a7ec9fa7#ref=rss)
-### liest
-
-* [https://www.spiegel.de/panorama/bildung/lesen-rund-ein-drittel-der-eltern-liest-kindern-selten-oder-nie-vor](https://www.spiegel.de/panorama/bildung/lesen-rund-ein-drittel-der-eltern-liest-kindern-selten-oder-nie-vor-a-9958c30c-5e0a-46d9-a26c-741c7e100c2f#ref=rss)
-### nie
-
-* [https://www.spiegel.de/panorama/bildung/lesen-rund-ein-drittel-der-eltern-liest-kindern-selten-oder-nie-vor](https://www.spiegel.de/panorama/bildung/lesen-rund-ein-drittel-der-eltern-liest-kindern-selten-oder-nie-vor-a-9958c30c-5e0a-46d9-a26c-741c7e100c2f#ref=rss)
-### zeitz
-
-* [https://www.spiegel.de/panorama/justiz/zeitz-in-sachsen-anhalt-unbekannte-reissen-stolpersteine-heraus](https://www.spiegel.de/panorama/justiz/zeitz-in-sachsen-anhalt-unbekannte-reissen-stolpersteine-heraus-a-f5ca45e1-1762-4863-aff9-fca56036ac82#ref=rss)
-### sachsenanhalt
-
-* [https://www.spiegel.de/panorama/justiz/zeitz-in-sachsen-anhalt-unbekannte-reissen-stolpersteine-heraus](https://www.spiegel.de/panorama/justiz/zeitz-in-sachsen-anhalt-unbekannte-reissen-stolpersteine-heraus-a-f5ca45e1-1762-4863-aff9-fca56036ac82#ref=rss)
-### unbekannte
-
-* [https://www.spiegel.de/panorama/justiz/zeitz-in-sachsen-anhalt-unbekannte-reissen-stolpersteine-heraus](https://www.spiegel.de/panorama/justiz/zeitz-in-sachsen-anhalt-unbekannte-reissen-stolpersteine-heraus-a-f5ca45e1-1762-4863-aff9-fca56036ac82#ref=rss)
-### stolpersteine
-
-* [https://www.spiegel.de/panorama/justiz/zeitz-in-sachsen-anhalt-unbekannte-reissen-stolpersteine-heraus](https://www.spiegel.de/panorama/justiz/zeitz-in-sachsen-anhalt-unbekannte-reissen-stolpersteine-heraus-a-f5ca45e1-1762-4863-aff9-fca56036ac82#ref=rss)
-### julian
-
-* [https://www.spiegel.de/sport/fussball/dfb-david-raum-sagt-julian-nagelsmann-als-sechster-spieler-ab](https://www.spiegel.de/sport/fussball/dfb-david-raum-sagt-julian-nagelsmann-als-sechster-spieler-ab-a-cea95704-9836-4585-b23b-f01a111ce9c2#ref=rss)
-### nagelsmann
-
-* [https://www.spiegel.de/sport/fussball/dfb-david-raum-sagt-julian-nagelsmann-als-sechster-spieler-ab](https://www.spiegel.de/sport/fussball/dfb-david-raum-sagt-julian-nagelsmann-als-sechster-spieler-ab-a-cea95704-9836-4585-b23b-f01a111ce9c2#ref=rss)
-### schlag
-
-* [https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-ermittler-melden-schlag-gegen-kinderpornografie-plattform](https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-ermittler-melden-schlag-gegen-kinderpornografie-plattform-a-998da171-7773-4bc3-bf5a-19e942c43e1a#ref=rss)
-### großen
-
-* [https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-ermittler-melden-schlag-gegen-kinderpornografie-plattform](https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-ermittler-melden-schlag-gegen-kinderpornografie-plattform-a-998da171-7773-4bc3-bf5a-19e942c43e1a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-andres-iniesta-kuendigt-karriereende-an](https://www.spiegel.de/sport/fussball/fussball-andres-iniesta-kuendigt-karriereende-an-a-f4aec3f8-1d41-413d-bcec-4e4fff0d402e#ref=rss)
-### kaution
-
-* [https://www.spiegel.de/wirtschaft/handelsstreit-china-verhaengt-kaution-auf-brandy-aus-der-eu](https://www.spiegel.de/wirtschaft/handelsstreit-china-verhaengt-kaution-auf-brandy-aus-der-eu-a-5ecfc89f-6aa8-4b9b-afb5-4e531fbbd79f#ref=rss)
-### taylor
-
-* [https://www.spiegel.de/wirtschaft/taylor-swift-ist-jetzt-die-reichste-musikerin-der-welt](https://www.spiegel.de/wirtschaft/taylor-swift-ist-jetzt-die-reichste-musikerin-der-welt-a-d6556b8e-484b-4b53-8c79-25a9106be83a#ref=rss)
-### swift
-
-* [https://www.spiegel.de/wirtschaft/taylor-swift-ist-jetzt-die-reichste-musikerin-der-welt](https://www.spiegel.de/wirtschaft/taylor-swift-ist-jetzt-die-reichste-musikerin-der-welt-a-d6556b8e-484b-4b53-8c79-25a9106be83a#ref=rss)
-### madeleine
-
-* [https://www.spiegel.de/panorama/justiz/madeleine-mccann-christian-b-in-vergewaltigungsprozess-freigesprochen](https://www.spiegel.de/panorama/justiz/madeleine-mccann-christian-b-in-vergewaltigungsprozess-freigesprochen-a-be87ea9a-a231-4f82-8551-52b03a023894#ref=rss)
-### mccann
-
-* [https://www.spiegel.de/panorama/justiz/madeleine-mccann-christian-b-in-vergewaltigungsprozess-freigesprochen](https://www.spiegel.de/panorama/justiz/madeleine-mccann-christian-b-in-vergewaltigungsprozess-freigesprochen-a-be87ea9a-a231-4f82-8551-52b03a023894#ref=rss)
-### christian
-
-* [https://www.spiegel.de/panorama/justiz/madeleine-mccann-christian-b-in-vergewaltigungsprozess-freigesprochen](https://www.spiegel.de/panorama/justiz/madeleine-mccann-christian-b-in-vergewaltigungsprozess-freigesprochen-a-be87ea9a-a231-4f82-8551-52b03a023894#ref=rss)
-### b
-
-* [https://www.spiegel.de/panorama/justiz/madeleine-mccann-christian-b-in-vergewaltigungsprozess-freigesprochen](https://www.spiegel.de/panorama/justiz/madeleine-mccann-christian-b-in-vergewaltigungsprozess-freigesprochen-a-be87ea9a-a231-4f82-8551-52b03a023894#ref=rss)
-### freigesprochen
-
-* [https://www.spiegel.de/panorama/justiz/madeleine-mccann-christian-b-in-vergewaltigungsprozess-freigesprochen](https://www.spiegel.de/panorama/justiz/madeleine-mccann-christian-b-in-vergewaltigungsprozess-freigesprochen-a-be87ea9a-a231-4f82-8551-52b03a023894#ref=rss)
-### verdacht
-
-* [https://www.spiegel.de/panorama/justiz/madeleine-mccann-christian-b-in-vergewaltigungsprozess-freigesprochen](https://www.spiegel.de/panorama/justiz/madeleine-mccann-christian-b-in-vergewaltigungsprozess-freigesprochen-a-be87ea9a-a231-4f82-8551-52b03a023894#ref=rss)
-* [https://www.spiegel.de/panorama/hamburg-sozialbehoerde-raeumt-bei-marburg-virus-verdacht-fehler-ein](https://www.spiegel.de/panorama/hamburg-sozialbehoerde-raeumt-bei-marburg-virus-verdacht-fehler-ein-a-ce87374e-147a-44c9-aeb0-69fff433e360#ref=rss)
-### fußball
-
-* [https://www.spiegel.de/sport/fussball/fussball-andres-iniesta-kuendigt-karriereende-an](https://www.spiegel.de/sport/fussball/fussball-andres-iniesta-kuendigt-karriereende-an-a-f4aec3f8-1d41-413d-bcec-4e4fff0d402e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-marco-curto-nannte-hwang-hee-chan-jackie-chan-zehn-spiele-sperre](https://www.spiegel.de/sport/fussball/fussball-marco-curto-nannte-hwang-hee-chan-jackie-chan-zehn-spiele-sperre-a-118c9ce8-691d-4904-ab2a-6a5af3c370ea#ref=rss)
-### andrés
-
-* [https://www.spiegel.de/sport/fussball/fussball-andres-iniesta-kuendigt-karriereende-an](https://www.spiegel.de/sport/fussball/fussball-andres-iniesta-kuendigt-karriereende-an-a-f4aec3f8-1d41-413d-bcec-4e4fff0d402e#ref=rss)
-### iniesta
-
-* [https://www.spiegel.de/sport/fussball/fussball-andres-iniesta-kuendigt-karriereende-an](https://www.spiegel.de/sport/fussball/fussball-andres-iniesta-kuendigt-karriereende-an-a-f4aec3f8-1d41-413d-bcec-4e4fff0d402e#ref=rss)
-### missstände
-
-* [https://www.spiegel.de/panorama/bildung/kita-misere-missstaende-in-deutschen-kitas-werden-von-politik-und-gesellschaft-uebersehen](https://www.spiegel.de/panorama/bildung/kita-misere-missstaende-in-deutschen-kitas-werden-von-politik-und-gesellschaft-uebersehen-a-aad9e2fa-036e-4da3-9b4d-1f23d66687d6#ref=rss)
-### politik
-
-* [https://www.spiegel.de/panorama/bildung/kita-misere-missstaende-in-deutschen-kitas-werden-von-politik-und-gesellschaft-uebersehen](https://www.spiegel.de/panorama/bildung/kita-misere-missstaende-in-deutschen-kitas-werden-von-politik-und-gesellschaft-uebersehen-a-aad9e2fa-036e-4da3-9b4d-1f23d66687d6#ref=rss)
-### manfred
-
-* [https://www.spiegel.de/politik/deutschland/csu-vize-manfred-weber-schliesst-schwarz-gruen-im-bund-nicht-aus](https://www.spiegel.de/politik/deutschland/csu-vize-manfred-weber-schliesst-schwarz-gruen-im-bund-nicht-aus-a-d05daf24-93ce-4772-aed9-1868ffce8234#ref=rss)
-### weber
-
-* [https://www.spiegel.de/politik/deutschland/csu-vize-manfred-weber-schliesst-schwarz-gruen-im-bund-nicht-aus](https://www.spiegel.de/politik/deutschland/csu-vize-manfred-weber-schliesst-schwarz-gruen-im-bund-nicht-aus-a-d05daf24-93ce-4772-aed9-1868ffce8234#ref=rss)
-### sally
-
-* [https://www.spiegel.de/panorama/justiz/sally-field-berichtet-von-heimlichem-schwangerschaftsabbruch-mit-17](https://www.spiegel.de/panorama/justiz/sally-field-berichtet-von-heimlichem-schwangerschaftsabbruch-mit-17-a-a8a29301-2418-4101-a244-a2a4d8b7f268#ref=rss)
-### field
-
-* [https://www.spiegel.de/panorama/justiz/sally-field-berichtet-von-heimlichem-schwangerschaftsabbruch-mit-17](https://www.spiegel.de/panorama/justiz/sally-field-berichtet-von-heimlichem-schwangerschaftsabbruch-mit-17-a-a8a29301-2418-4101-a244-a2a4d8b7f268#ref=rss)
-### schauspielerin
-
-* [https://www.spiegel.de/panorama/justiz/sally-field-berichtet-von-heimlichem-schwangerschaftsabbruch-mit-17](https://www.spiegel.de/panorama/justiz/sally-field-berichtet-von-heimlichem-schwangerschaftsabbruch-mit-17-a-a8a29301-2418-4101-a244-a2a4d8b7f268#ref=rss)
-### marco
-
-* [https://www.spiegel.de/sport/fussball/fussball-marco-curto-nannte-hwang-hee-chan-jackie-chan-zehn-spiele-sperre](https://www.spiegel.de/sport/fussball/fussball-marco-curto-nannte-hwang-hee-chan-jackie-chan-zehn-spiele-sperre-a-118c9ce8-691d-4904-ab2a-6a5af3c370ea#ref=rss)
-### curto
-
-* [https://www.spiegel.de/sport/fussball/fussball-marco-curto-nannte-hwang-hee-chan-jackie-chan-zehn-spiele-sperre](https://www.spiegel.de/sport/fussball/fussball-marco-curto-nannte-hwang-hee-chan-jackie-chan-zehn-spiele-sperre-a-118c9ce8-691d-4904-ab2a-6a5af3c370ea#ref=rss)
-### flix
-
-* [https://www.spiegel.de/wirtschaft/flix-bietet-mehr-regionalverbindungen-auf-der-schiene-an](https://www.spiegel.de/wirtschaft/flix-bietet-mehr-regionalverbindungen-auf-der-schiene-an-a-6c720297-bf5d-49e3-b868-04d6a7ec9fa7#ref=rss)
-### schiene
-
-* [https://www.spiegel.de/wirtschaft/flix-bietet-mehr-regionalverbindungen-auf-der-schiene-an](https://www.spiegel.de/wirtschaft/flix-bietet-mehr-regionalverbindungen-auf-der-schiene-an-a-6c720297-bf5d-49e3-b868-04d6a7ec9fa7#ref=rss)
-### räumt
-
-* [https://www.spiegel.de/panorama/hamburg-sozialbehoerde-raeumt-bei-marburg-virus-verdacht-fehler-ein](https://www.spiegel.de/panorama/hamburg-sozialbehoerde-raeumt-bei-marburg-virus-verdacht-fehler-ein-a-ce87374e-147a-44c9-aeb0-69fff433e360#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berliner-gruenen-abgeordnete-bayram-kandidiert-nicht-mehr-fuer-den-bundestag](https://www.spiegel.de/politik/deutschland/berliner-gruenen-abgeordnete-bayram-kandidiert-nicht-mehr-fuer-den-bundestag-a-c3b348b2-3013-43d3-a356-5aaa587c08cd#ref=rss)
 
