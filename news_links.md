@@ -4,455 +4,308 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### israel
+### deutschland
 
-* [https://www.spiegel.de/ausland/libanon-israel-soll-uno-hauptquartier-beschossen-haben-zwei-verletzte](https://www.spiegel.de/ausland/libanon-israel-soll-uno-hauptquartier-beschossen-haben-zwei-verletzte-a-f2773bde-8dc4-4b6b-b290-12330f5456f8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-provoziert-und-der-kanzler-faellt-drauf-rein](https://www.spiegel.de/politik/deutschland/friedrich-merz-provoziert-und-der-kanzler-faellt-drauf-rein-a-aca3c2f4-c2f1-4960-858b-71a1b2110fbc#ref=rss)
-* [https://www.spiegel.de/politik/nahost-debatte-bundestag-streitet-ueber-zusammenhang-von-antisemitismus-und-migration](https://www.spiegel.de/politik/nahost-debatte-bundestag-streitet-ueber-zusammenhang-von-antisemitismus-und-migration-a-45f2d57c-26aa-45fd-ba51-b38b385fa985#ref=rss)
-* [https://www.spiegel.de/ausland/gazastreifen-uno-kommission-erhebt-schwere-vorwuerfe-gegen-israel](https://www.spiegel.de/ausland/gazastreifen-uno-kommission-erhebt-schwere-vorwuerfe-gegen-israel-a-151bc6cc-c36a-42ea-908c-685cee96e8dc#ref=rss)
-### milton
-
-* [https://www.spiegel.de/wissenschaft/milton-trockener-luftschub-raubte-dem-hurrikan-etwas-kraft](https://www.spiegel.de/wissenschaft/milton-trockener-luftschub-raubte-dem-hurrikan-etwas-kraft-a-82e5f791-1f28-4d03-98d9-365c3999236b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-hurrikan-milton-donald-trumps-fitness-literaturnobelpreis-fuer-suedkoreanerin-han-kang](https://www.spiegel.de/politik/deutschland/news-des-tages-hurrikan-milton-donald-trumps-fitness-literaturnobelpreis-fuer-suedkoreanerin-han-kang-a-56083cf7-7fbb-42b3-ae75-5a22e4286524#ref=rss)
-* [https://www.spiegel.de/panorama/hurrikan-milton-in-florida-ueberschwemmungen-und-zerstoerungen-millionen-ohne-strom](https://www.spiegel.de/panorama/hurrikan-milton-in-florida-ueberschwemmungen-und-zerstoerungen-millionen-ohne-strom-a-850a6fed-5a11-494e-9434-65b312fe3db6#ref=rss)
-### hurrikan
-
-* [https://www.spiegel.de/wissenschaft/milton-trockener-luftschub-raubte-dem-hurrikan-etwas-kraft](https://www.spiegel.de/wissenschaft/milton-trockener-luftschub-raubte-dem-hurrikan-etwas-kraft-a-82e5f791-1f28-4d03-98d9-365c3999236b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-hurrikan-milton-donald-trumps-fitness-literaturnobelpreis-fuer-suedkoreanerin-han-kang](https://www.spiegel.de/politik/deutschland/news-des-tages-hurrikan-milton-donald-trumps-fitness-literaturnobelpreis-fuer-suedkoreanerin-han-kang-a-56083cf7-7fbb-42b3-ae75-5a22e4286524#ref=rss)
-* [https://www.spiegel.de/panorama/hurrikan-milton-in-florida-ueberschwemmungen-und-zerstoerungen-millionen-ohne-strom](https://www.spiegel.de/panorama/hurrikan-milton-in-florida-ueberschwemmungen-und-zerstoerungen-millionen-ohne-strom-a-850a6fed-5a11-494e-9434-65b312fe3db6#ref=rss)
-### literaturnobelpreis
-
-* [https://www.spiegel.de/kultur/literatur/literaturnobelpreis-fuer-han-kang-brutal-und-zart-zugleich](https://www.spiegel.de/kultur/literatur/literaturnobelpreis-fuer-han-kang-brutal-und-zart-zugleich-a-87574935-be61-4385-bbb5-31f394c2f6c2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-hurrikan-milton-donald-trumps-fitness-literaturnobelpreis-fuer-suedkoreanerin-han-kang](https://www.spiegel.de/politik/deutschland/news-des-tages-hurrikan-milton-donald-trumps-fitness-literaturnobelpreis-fuer-suedkoreanerin-han-kang-a-56083cf7-7fbb-42b3-ae75-5a22e4286524#ref=rss)
-### han
-
-* [https://www.spiegel.de/kultur/literatur/literaturnobelpreis-fuer-han-kang-brutal-und-zart-zugleich](https://www.spiegel.de/kultur/literatur/literaturnobelpreis-fuer-han-kang-brutal-und-zart-zugleich-a-87574935-be61-4385-bbb5-31f394c2f6c2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-hurrikan-milton-donald-trumps-fitness-literaturnobelpreis-fuer-suedkoreanerin-han-kang](https://www.spiegel.de/politik/deutschland/news-des-tages-hurrikan-milton-donald-trumps-fitness-literaturnobelpreis-fuer-suedkoreanerin-han-kang-a-56083cf7-7fbb-42b3-ae75-5a22e4286524#ref=rss)
-### kang
-
-* [https://www.spiegel.de/kultur/literatur/literaturnobelpreis-fuer-han-kang-brutal-und-zart-zugleich](https://www.spiegel.de/kultur/literatur/literaturnobelpreis-fuer-han-kang-brutal-und-zart-zugleich-a-87574935-be61-4385-bbb5-31f394c2f6c2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-hurrikan-milton-donald-trumps-fitness-literaturnobelpreis-fuer-suedkoreanerin-han-kang](https://www.spiegel.de/politik/deutschland/news-des-tages-hurrikan-milton-donald-trumps-fitness-literaturnobelpreis-fuer-suedkoreanerin-han-kang-a-56083cf7-7fbb-42b3-ae75-5a22e4286524#ref=rss)
-### kitas
-
-* [https://www.spiegel.de/politik/kitas-ist-gewaltfreie-erziehung-unerreichbar-podcast](https://www.spiegel.de/politik/kitas-ist-gewaltfreie-erziehung-unerreichbar-podcast-a-a0aee69a-4d58-460d-b5da-e2d4031b6126#ref=rss)
-* [https://www.spiegel.de/familie/kitas-ist-gewaltfreie-erziehung-unerreichbar](https://www.spiegel.de/familie/kitas-ist-gewaltfreie-erziehung-unerreichbar-a-2adad44d-2c26-4ae5-a677-621dafe9b6c7#ref=rss)
-### donald
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-hurrikan-milton-donald-trumps-fitness-literaturnobelpreis-fuer-suedkoreanerin-han-kang](https://www.spiegel.de/politik/deutschland/news-des-tages-hurrikan-milton-donald-trumps-fitness-literaturnobelpreis-fuer-suedkoreanerin-han-kang-a-56083cf7-7fbb-42b3-ae75-5a22e4286524#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-god-bless-the-usa-bibeln-werden-in-china-gedruckt](https://www.spiegel.de/ausland/donald-trump-god-bless-the-usa-bibeln-werden-in-china-gedruckt-a-e536ddd8-1be8-43dc-93de-6ac9ffc94c49#ref=rss)
-### trump
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-hurrikan-milton-donald-trumps-fitness-literaturnobelpreis-fuer-suedkoreanerin-han-kang](https://www.spiegel.de/politik/deutschland/news-des-tages-hurrikan-milton-donald-trumps-fitness-literaturnobelpreis-fuer-suedkoreanerin-han-kang-a-56083cf7-7fbb-42b3-ae75-5a22e4286524#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-god-bless-the-usa-bibeln-werden-in-china-gedruckt](https://www.spiegel.de/ausland/donald-trump-god-bless-the-usa-bibeln-werden-in-china-gedruckt-a-e536ddd8-1be8-43dc-93de-6ac9ffc94c49#ref=rss)
-### darum
-
-* [https://www.spiegel.de/politik/deutschland/rechtsanwalt-ulrich-karpenstein-wie-das-bundesverfassungsgericht-geschuetzt-werden-soll](https://www.spiegel.de/politik/deutschland/rechtsanwalt-ulrich-karpenstein-wie-das-bundesverfassungsgericht-geschuetzt-werden-soll-a-7c2376c8-7d79-4f01-89c6-ce7fc2ebd16d#ref=rss)
-* [https://www.spiegel.de/sport/tennis/ruecktritt-von-rafael-nadal-darum-wird-der-sandplatzkoenig-dem-tennis-fehlen](https://www.spiegel.de/sport/tennis/ruecktritt-von-rafael-nadal-darum-wird-der-sandplatzkoenig-dem-tennis-fehlen-a-07aa1bb4-f1df-4665-bac0-7a66db29acb5#ref=rss)
-* [https://www.spiegel.de/kultur/musik/sean-diddy-combs-darum-steht-der-rapper-vor-gericht](https://www.spiegel.de/kultur/musik/sean-diddy-combs-darum-steht-der-rapper-vor-gericht-a-64accb82-0922-404a-ab4e-b75c48583d30#ref=rss)
-### the
-
-* [https://www.spiegel.de/kultur/kino/the-beast-von-bertrand-bonello-im-kino-bis-der-letzte-schrei-ertoent](https://www.spiegel.de/kultur/kino/the-beast-von-bertrand-bonello-im-kino-bis-der-letzte-schrei-ertoent-a-16205140-28a7-4bfa-bfd3-bd675a1071a2#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-god-bless-the-usa-bibeln-werden-in-china-gedruckt](https://www.spiegel.de/ausland/donald-trump-god-bless-the-usa-bibeln-werden-in-china-gedruckt-a-e536ddd8-1be8-43dc-93de-6ac9ffc94c49#ref=rss)
-### allem
-
-* [https://www.spiegel.de/auto/kalifornien-polizei-schafft-sich-cybertruck-an-fuer-150-000-dollar-und-nur-fuer-notfaelle](https://www.spiegel.de/auto/kalifornien-polizei-schafft-sich-cybertruck-an-fuer-150-000-dollar-und-nur-fuer-notfaelle-a-ee8cb1e5-7589-49b4-9f50-94b5aeeecd68#ref=rss)
-* [https://www.spiegel.de/sport/tennis/ruecktritt-von-rafael-nadal-darum-wird-der-sandplatzkoenig-dem-tennis-fehlen](https://www.spiegel.de/sport/tennis/ruecktritt-von-rafael-nadal-darum-wird-der-sandplatzkoenig-dem-tennis-fehlen-a-07aa1bb4-f1df-4665-bac0-7a66db29acb5#ref=rss)
-* [https://www.spiegel.de/politik/nahost-debatte-bundestag-streitet-ueber-zusammenhang-von-antisemitismus-und-migration](https://www.spiegel.de/politik/nahost-debatte-bundestag-streitet-ueber-zusammenhang-von-antisemitismus-und-migration-a-45f2d57c-26aa-45fd-ba51-b38b385fa985#ref=rss)
-### werfen
-
-* [https://www.spiegel.de/politik/deutschland/manfred-weber-fraktionschefs-aus-eu-parlament-werfen-evp-chef-pakt-mit-extrem-rechten-vor](https://www.spiegel.de/politik/deutschland/manfred-weber-fraktionschefs-aus-eu-parlament-werfen-evp-chef-pakt-mit-extrem-rechten-vor-a-5012f406-28dd-4b11-8b40-bdc1a3e035b1#ref=rss)
-* [https://www.spiegel.de/ausland/gazastreifen-uno-kommission-erhebt-schwere-vorwuerfe-gegen-israel](https://www.spiegel.de/ausland/gazastreifen-uno-kommission-erhebt-schwere-vorwuerfe-gegen-israel-a-151bc6cc-c36a-42ea-908c-685cee96e8dc#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/ausland/libanon-israel-soll-uno-hauptquartier-beschossen-haben-zwei-verletzte](https://www.spiegel.de/ausland/libanon-israel-soll-uno-hauptquartier-beschossen-haben-zwei-verletzte-a-f2773bde-8dc4-4b6b-b290-12330f5456f8#ref=rss)
-* [https://www.spiegel.de/kultur/musik/sean-diddy-combs-darum-steht-der-rapper-vor-gericht](https://www.spiegel.de/kultur/musik/sean-diddy-combs-darum-steht-der-rapper-vor-gericht-a-64accb82-0922-404a-ab4e-b75c48583d30#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-provoziert-und-der-kanzler-faellt-drauf-rein](https://www.spiegel.de/politik/deutschland/friedrich-merz-provoziert-und-der-kanzler-faellt-drauf-rein-a-aca3c2f4-c2f1-4960-858b-71a1b2110fbc#ref=rss)
-* [https://www.spiegel.de/politik/nahost-debatte-bundestag-streitet-ueber-zusammenhang-von-antisemitismus-und-migration](https://www.spiegel.de/politik/nahost-debatte-bundestag-streitet-ueber-zusammenhang-von-antisemitismus-und-migration-a-45f2d57c-26aa-45fd-ba51-b38b385fa985#ref=rss)
-### kennedy
-
-* [https://www.spiegel.de/ausland/ethel-kennedy-ist-tot](https://www.spiegel.de/ausland/ethel-kennedy-ist-tot-a-8870259e-9fc5-43de-87eb-a2a872a15747#ref=rss)
-### vorfälle
-
-* [https://www.spiegel.de/start/rechte-einflussnahme-uni-cottbus-richtet-meldestelle-fuer-rechtsextreme-vorfaelle-ein](https://www.spiegel.de/start/rechte-einflussnahme-uni-cottbus-richtet-meldestelle-fuer-rechtsextreme-vorfaelle-ein-a-3d11c7ab-0497-48c4-923c-d55e367d03f1#ref=rss)
-* [https://www.spiegel.de/politik/kitas-ist-gewaltfreie-erziehung-unerreichbar-podcast](https://www.spiegel.de/politik/kitas-ist-gewaltfreie-erziehung-unerreichbar-podcast-a-a0aee69a-4d58-460d-b5da-e2d4031b6126#ref=rss)
-* [https://www.spiegel.de/familie/kitas-ist-gewaltfreie-erziehung-unerreichbar](https://www.spiegel.de/familie/kitas-ist-gewaltfreie-erziehung-unerreichbar-a-2adad44d-2c26-4ae5-a677-621dafe9b6c7#ref=rss)
-### wichtigsten
-
-* [https://www.spiegel.de/panorama/afghanistan-was-das-urteil-des-europaeischen-gerichtshofs-fuer-das-asylrecht-afghanischer-frauen-bedeutet](https://www.spiegel.de/panorama/afghanistan-was-das-urteil-des-europaeischen-gerichtshofs-fuer-das-asylrecht-afghanischer-frauen-bedeutet-a-47a51cf5-4395-4f38-b2fd-c71e530e2939#ref=rss)
-* [https://www.spiegel.de/ausland/geisterschiff-in-der-nordsee-wie-gefaehrlich-ist-die-ruby](https://www.spiegel.de/ausland/geisterschiff-in-der-nordsee-wie-gefaehrlich-ist-die-ruby-a-4798364c-1104-407a-be61-a5c726d5295e#ref=rss)
-* [https://www.spiegel.de/kultur/musik/sean-diddy-combs-darum-steht-der-rapper-vor-gericht](https://www.spiegel.de/kultur/musik/sean-diddy-combs-darum-steht-der-rapper-vor-gericht-a-64accb82-0922-404a-ab4e-b75c48583d30#ref=rss)
-### antworten
-
-* [https://www.spiegel.de/panorama/afghanistan-was-das-urteil-des-europaeischen-gerichtshofs-fuer-das-asylrecht-afghanischer-frauen-bedeutet](https://www.spiegel.de/panorama/afghanistan-was-das-urteil-des-europaeischen-gerichtshofs-fuer-das-asylrecht-afghanischer-frauen-bedeutet-a-47a51cf5-4395-4f38-b2fd-c71e530e2939#ref=rss)
-* [https://www.spiegel.de/ausland/geisterschiff-in-der-nordsee-wie-gefaehrlich-ist-die-ruby](https://www.spiegel.de/ausland/geisterschiff-in-der-nordsee-wie-gefaehrlich-ist-die-ruby-a-4798364c-1104-407a-be61-a5c726d5295e#ref=rss)
-* [https://www.spiegel.de/kultur/musik/sean-diddy-combs-darum-steht-der-rapper-vor-gericht](https://www.spiegel.de/kultur/musik/sean-diddy-combs-darum-steht-der-rapper-vor-gericht-a-64accb82-0922-404a-ab4e-b75c48583d30#ref=rss)
-### florida
-
-* [https://www.spiegel.de/wissenschaft/milton-trockener-luftschub-raubte-dem-hurrikan-etwas-kraft](https://www.spiegel.de/wissenschaft/milton-trockener-luftschub-raubte-dem-hurrikan-etwas-kraft-a-82e5f791-1f28-4d03-98d9-365c3999236b#ref=rss)
-* [https://www.spiegel.de/panorama/hurrikan-milton-in-florida-ueberschwemmungen-und-zerstoerungen-millionen-ohne-strom](https://www.spiegel.de/panorama/hurrikan-milton-in-florida-ueberschwemmungen-und-zerstoerungen-millionen-ohne-strom-a-850a6fed-5a11-494e-9434-65b312fe3db6#ref=rss)
-### unerreichbar
-
-* [https://www.spiegel.de/politik/kitas-ist-gewaltfreie-erziehung-unerreichbar-podcast](https://www.spiegel.de/politik/kitas-ist-gewaltfreie-erziehung-unerreichbar-podcast-a-a0aee69a-4d58-460d-b5da-e2d4031b6126#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klima-forschende-warnen-vor-temperatur-overshoot-einmal-drei-grad-und-zurueck-das-wird-wohl-nichts](https://www.spiegel.de/wissenschaft/natur/klima-forschende-warnen-vor-temperatur-overshoot-einmal-drei-grad-und-zurueck-das-wird-wohl-nichts-a-29fdfb5c-2492-4c01-9538-15eb3a9b8cf6#ref=rss)
-* [https://www.spiegel.de/familie/kitas-ist-gewaltfreie-erziehung-unerreichbar](https://www.spiegel.de/familie/kitas-ist-gewaltfreie-erziehung-unerreichbar-a-2adad44d-2c26-4ae5-a677-621dafe9b6c7#ref=rss)
+* [https://www.spiegel.de/politik/russland-wie-beide-politischen-lager-in-deutschland-den-ton-im-umgang-mit-dem-land-verfehlen](https://www.spiegel.de/politik/russland-wie-beide-politischen-lager-in-deutschland-den-ton-im-umgang-mit-dem-land-verfehlen-a-780c57a6-ccc6-4835-b8a4-cf3eb1300e1c#ref=rss)
+* [https://www.spiegel.de/politik/parteitag-in-augsburg-csu-fordert-obergrenze-fuer-asylantraege](https://www.spiegel.de/politik/parteitag-in-augsburg-csu-fordert-obergrenze-fuer-asylantraege-a-8601a302-e806-497a-84fa-ba31c363cd0a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/lukas-podolski-abschiedsspiel-in-koeln-tor-lob-von-loew-und-emotionales-spektakel](https://www.spiegel.de/sport/fussball/lukas-podolski-abschiedsspiel-in-koeln-tor-lob-von-loew-und-emotionales-spektakel-a-c8a023f8-05d3-4427-811e-bf0081208a42#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/kultur/hugh-jackman-hollywoodstar-gibt-wieder-den-grossen-showman-im-musical](https://www.spiegel.de/kultur/hugh-jackman-hollywoodstar-gibt-wieder-den-grossen-showman-im-musical-a-820735fa-2530-455b-9cf7-21ce267b185c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/islamistischer-tiktok-star-abdelhamid-steht-unter-betrugsverdacht](https://www.spiegel.de/panorama/justiz/islamistischer-tiktok-star-abdelhamid-steht-unter-betrugsverdacht-a-c60c5feb-110c-4059-981c-a3327f50c149#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/deutscher-wald-kann-seine-funktion-als-klimaretter-nicht-mehr-erfuellen-dein-feind-der-baum](https://www.spiegel.de/wissenschaft/natur/deutscher-wald-kann-seine-funktion-als-klimaretter-nicht-mehr-erfuellen-dein-feind-der-baum-a-c624d22a-8691-4863-8297-9a0c6a9057f1#ref=rss)
-### unter
+* [https://www.spiegel.de/politik/parteitag-in-augsburg-csu-fordert-obergrenze-fuer-asylantraege](https://www.spiegel.de/politik/parteitag-in-augsburg-csu-fordert-obergrenze-fuer-asylantraege-a-8601a302-e806-497a-84fa-ba31c363cd0a#ref=rss)
+* [https://www.spiegel.de/auto/strassenverkehrsordnung-mehr-tempo-30-und-fahrradspuren](https://www.spiegel.de/auto/strassenverkehrsordnung-mehr-tempo-30-und-fahrradspuren-a-ee8b6426-5a54-4a1e-ab9f-bc52fae469eb#ref=rss)
+* [https://www.spiegel.de/sport/fussball/lukas-podolski-abschiedsspiel-in-koeln-tor-lob-von-loew-und-emotionales-spektakel](https://www.spiegel.de/sport/fussball/lukas-podolski-abschiedsspiel-in-koeln-tor-lob-von-loew-und-emotionales-spektakel-a-c8a023f8-05d3-4427-811e-bf0081208a42#ref=rss)
+### köln
 
-* [https://www.spiegel.de/panorama/hurrikan-milton-in-florida-ueberschwemmungen-und-zerstoerungen-millionen-ohne-strom](https://www.spiegel.de/panorama/hurrikan-milton-in-florida-ueberschwemmungen-und-zerstoerungen-millionen-ohne-strom-a-850a6fed-5a11-494e-9434-65b312fe3db6#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/islamistischer-tiktok-star-abdelhamid-steht-unter-betrugsverdacht](https://www.spiegel.de/panorama/justiz/islamistischer-tiktok-star-abdelhamid-steht-unter-betrugsverdacht-a-c60c5feb-110c-4059-981c-a3327f50c149#ref=rss)
-* [https://www.spiegel.de/ausland/gazastreifen-uno-kommission-erhebt-schwere-vorwuerfe-gegen-israel](https://www.spiegel.de/ausland/gazastreifen-uno-kommission-erhebt-schwere-vorwuerfe-gegen-israel-a-151bc6cc-c36a-42ea-908c-685cee96e8dc#ref=rss)
-### china
+* [https://www.spiegel.de/panorama/koeln-aufwendigste-bombenentschaerfung-seit-dem-zweiten-weltkrieg-laeuft](https://www.spiegel.de/panorama/koeln-aufwendigste-bombenentschaerfung-seit-dem-zweiten-weltkrieg-laeuft-a-19198bfc-555a-42c4-a9a9-92f20e1e9c64#ref=rss)
+* [https://www.spiegel.de/sport/fussball/lukas-podolski-abschiedsspiel-in-koeln-tor-lob-von-loew-und-emotionales-spektakel](https://www.spiegel.de/sport/fussball/lukas-podolski-abschiedsspiel-in-koeln-tor-lob-von-loew-und-emotionales-spektakel-a-c8a023f8-05d3-4427-811e-bf0081208a42#ref=rss)
+### pizza
 
-* [https://www.spiegel.de/ausland/donald-trump-god-bless-the-usa-bibeln-werden-in-china-gedruckt](https://www.spiegel.de/ausland/donald-trump-god-bless-the-usa-bibeln-werden-in-china-gedruckt-a-e536ddd8-1be8-43dc-93de-6ac9ffc94c49#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-umsatz-bricht-um-13-prozent-ein-verluste-auch-bei-mercedes](https://www.spiegel.de/wirtschaft/unternehmen/bmw-umsatz-bricht-um-13-prozent-ein-verluste-auch-bei-mercedes-a-a7bf06c1-0876-4a7c-b779-a8ce2baf8a1e#ref=rss)
-### ulrich
+* [https://www.spiegel.de/kultur/pizza-so-muss-sie-sein-knusprig-sauheiss-und-mit-fast-verbrannten-raendern-kolumne](https://www.spiegel.de/kultur/pizza-so-muss-sie-sein-knusprig-sauheiss-und-mit-fast-verbrannten-raendern-kolumne-a-adc2efc8-4943-4e1e-8491-25087b69bc2c#ref=rss)
+### mann
 
-* [https://www.spiegel.de/politik/deutschland/rechtsanwalt-ulrich-karpenstein-wie-das-bundesverfassungsgericht-geschuetzt-werden-soll](https://www.spiegel.de/politik/deutschland/rechtsanwalt-ulrich-karpenstein-wie-das-bundesverfassungsgericht-geschuetzt-werden-soll-a-7c2376c8-7d79-4f01-89c6-ce7fc2ebd16d#ref=rss)
-### karpenstein
+* [https://www.spiegel.de/panorama/justiz/dresden-mann-stellt-halteverbotsschild-zu-polizeiauto-jetzt-droht-ihm-eine-strafe](https://www.spiegel.de/panorama/justiz/dresden-mann-stellt-halteverbotsschild-zu-polizeiauto-jetzt-droht-ihm-eine-strafe-a-0c1d8aeb-aa3b-4da9-8ff8-6c5045f26190#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/krefeld-polizei-schoss-verdaechtigen-vor-kino-nieder-mann-hatte-brennbare-fluessigkeit-dabei](https://www.spiegel.de/panorama/justiz/krefeld-polizei-schoss-verdaechtigen-vor-kino-nieder-mann-hatte-brennbare-fluessigkeit-dabei-a-77be65f2-d7d5-4493-a21e-08edb30f7a08#ref=rss)
+### meldet
 
-* [https://www.spiegel.de/politik/deutschland/rechtsanwalt-ulrich-karpenstein-wie-das-bundesverfassungsgericht-geschuetzt-werden-soll](https://www.spiegel.de/politik/deutschland/rechtsanwalt-ulrich-karpenstein-wie-das-bundesverfassungsgericht-geschuetzt-werden-soll-a-7c2376c8-7d79-4f01-89c6-ce7fc2ebd16d#ref=rss)
-### bundesverfassungsgericht
-
-* [https://www.spiegel.de/politik/deutschland/rechtsanwalt-ulrich-karpenstein-wie-das-bundesverfassungsgericht-geschuetzt-werden-soll](https://www.spiegel.de/politik/deutschland/rechtsanwalt-ulrich-karpenstein-wie-das-bundesverfassungsgericht-geschuetzt-werden-soll-a-7c2376c8-7d79-4f01-89c6-ce7fc2ebd16d#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/politik/deutschland/rechtsanwalt-ulrich-karpenstein-wie-das-bundesverfassungsgericht-geschuetzt-werden-soll](https://www.spiegel.de/politik/deutschland/rechtsanwalt-ulrich-karpenstein-wie-das-bundesverfassungsgericht-geschuetzt-werden-soll-a-7c2376c8-7d79-4f01-89c6-ce7fc2ebd16d#ref=rss)
-* [https://www.spiegel.de/start/rechte-einflussnahme-uni-cottbus-richtet-meldestelle-fuer-rechtsextreme-vorfaelle-ein](https://www.spiegel.de/start/rechte-einflussnahme-uni-cottbus-richtet-meldestelle-fuer-rechtsextreme-vorfaelle-ein-a-3d11c7ab-0497-48c4-923c-d55e367d03f1#ref=rss)
-### besser
-
-* [https://www.spiegel.de/politik/deutschland/rechtsanwalt-ulrich-karpenstein-wie-das-bundesverfassungsgericht-geschuetzt-werden-soll](https://www.spiegel.de/politik/deutschland/rechtsanwalt-ulrich-karpenstein-wie-das-bundesverfassungsgericht-geschuetzt-werden-soll-a-7c2376c8-7d79-4f01-89c6-ce7fc2ebd16d#ref=rss)
-* [https://www.spiegel.de/start/rechte-einflussnahme-uni-cottbus-richtet-meldestelle-fuer-rechtsextreme-vorfaelle-ein](https://www.spiegel.de/start/rechte-einflussnahme-uni-cottbus-richtet-meldestelle-fuer-rechtsextreme-vorfaelle-ein-a-3d11c7ab-0497-48c4-923c-d55e367d03f1#ref=rss)
-### schützen
-
-* [https://www.spiegel.de/politik/deutschland/rechtsanwalt-ulrich-karpenstein-wie-das-bundesverfassungsgericht-geschuetzt-werden-soll](https://www.spiegel.de/politik/deutschland/rechtsanwalt-ulrich-karpenstein-wie-das-bundesverfassungsgericht-geschuetzt-werden-soll-a-7c2376c8-7d79-4f01-89c6-ce7fc2ebd16d#ref=rss)
-* [https://www.spiegel.de/start/rechte-einflussnahme-uni-cottbus-richtet-meldestelle-fuer-rechtsextreme-vorfaelle-ein](https://www.spiegel.de/start/rechte-einflussnahme-uni-cottbus-richtet-meldestelle-fuer-rechtsextreme-vorfaelle-ein-a-3d11c7ab-0497-48c4-923c-d55e367d03f1#ref=rss)
-### beast
-
-* [https://www.spiegel.de/kultur/kino/the-beast-von-bertrand-bonello-im-kino-bis-der-letzte-schrei-ertoent](https://www.spiegel.de/kultur/kino/the-beast-von-bertrand-bonello-im-kino-bis-der-letzte-schrei-ertoent-a-16205140-28a7-4bfa-bfd3-bd675a1071a2#ref=rss)
-### bertrand
-
-* [https://www.spiegel.de/kultur/kino/the-beast-von-bertrand-bonello-im-kino-bis-der-letzte-schrei-ertoent](https://www.spiegel.de/kultur/kino/the-beast-von-bertrand-bonello-im-kino-bis-der-letzte-schrei-ertoent-a-16205140-28a7-4bfa-bfd3-bd675a1071a2#ref=rss)
-### kino
-
-* [https://www.spiegel.de/kultur/kino/the-beast-von-bertrand-bonello-im-kino-bis-der-letzte-schrei-ertoent](https://www.spiegel.de/kultur/kino/the-beast-von-bertrand-bonello-im-kino-bis-der-letzte-schrei-ertoent-a-16205140-28a7-4bfa-bfd3-bd675a1071a2#ref=rss)
-### drei
-
-* [https://www.spiegel.de/kultur/kino/the-beast-von-bertrand-bonello-im-kino-bis-der-letzte-schrei-ertoent](https://www.spiegel.de/kultur/kino/the-beast-von-bertrand-bonello-im-kino-bis-der-letzte-schrei-ertoent-a-16205140-28a7-4bfa-bfd3-bd675a1071a2#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klima-forschende-warnen-vor-temperatur-overshoot-einmal-drei-grad-und-zurueck-das-wird-wohl-nichts](https://www.spiegel.de/wissenschaft/natur/klima-forschende-warnen-vor-temperatur-overshoot-einmal-drei-grad-und-zurueck-das-wird-wohl-nichts-a-29fdfb5c-2492-4c01-9538-15eb3a9b8cf6#ref=rss)
-### liebe
-
-* [https://www.spiegel.de/kultur/kino/the-beast-von-bertrand-bonello-im-kino-bis-der-letzte-schrei-ertoent](https://www.spiegel.de/kultur/kino/the-beast-von-bertrand-bonello-im-kino-bis-der-letzte-schrei-ertoent-a-16205140-28a7-4bfa-bfd3-bd675a1071a2#ref=rss)
-* [https://www.spiegel.de/sport/tennis/ruecktritt-von-rafael-nadal-darum-wird-der-sandplatzkoenig-dem-tennis-fehlen](https://www.spiegel.de/sport/tennis/ruecktritt-von-rafael-nadal-darum-wird-der-sandplatzkoenig-dem-tennis-fehlen-a-07aa1bb4-f1df-4665-bac0-7a66db29acb5#ref=rss)
-### kalifornien
-
-* [https://www.spiegel.de/auto/kalifornien-polizei-schafft-sich-cybertruck-an-fuer-150-000-dollar-und-nur-fuer-notfaelle](https://www.spiegel.de/auto/kalifornien-polizei-schafft-sich-cybertruck-an-fuer-150-000-dollar-und-nur-fuer-notfaelle-a-ee8cb1e5-7589-49b4-9f50-94b5aeeecd68#ref=rss)
+* [https://www.spiegel.de/netzwelt/bundesnetzagentur-weist-berichte-ueber-online-zensur-zurueck](https://www.spiegel.de/netzwelt/bundesnetzagentur-weist-berichte-ueber-online-zensur-zurueck-a-36ad6c31-f798-4e2d-9ce1-cf9910d8cc54#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/nexfundai-fbi-steckt-hinter-kryptofirma-und-deren-token](https://www.spiegel.de/netzwelt/web/nexfundai-fbi-steckt-hinter-kryptofirma-und-deren-token-a-235e9793-b29d-4820-9ed8-fa0e367d2d35#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/burkhard-garweg-fahndung-nach-ex-raf-terrorist-gesuchte-frau-meldet-sich](https://www.spiegel.de/panorama/justiz/burkhard-garweg-fahndung-nach-ex-raf-terrorist-gesuchte-frau-meldet-sich-a-08f8a3da-0f5a-4a00-ba74-7650e313d923#ref=rss)
 ### polizei
 
-* [https://www.spiegel.de/auto/kalifornien-polizei-schafft-sich-cybertruck-an-fuer-150-000-dollar-und-nur-fuer-notfaelle](https://www.spiegel.de/auto/kalifornien-polizei-schafft-sich-cybertruck-an-fuer-150-000-dollar-und-nur-fuer-notfaelle-a-ee8cb1e5-7589-49b4-9f50-94b5aeeecd68#ref=rss)
-### schafft
+* [https://www.spiegel.de/panorama/justiz/krefeld-polizei-schoss-verdaechtigen-vor-kino-nieder-mann-hatte-brennbare-fluessigkeit-dabei](https://www.spiegel.de/panorama/justiz/krefeld-polizei-schoss-verdaechtigen-vor-kino-nieder-mann-hatte-brennbare-fluessigkeit-dabei-a-77be65f2-d7d5-4493-a21e-08edb30f7a08#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/burkhard-garweg-fahndung-nach-ex-raf-terrorist-gesuchte-frau-meldet-sich](https://www.spiegel.de/panorama/justiz/burkhard-garweg-fahndung-nach-ex-raf-terrorist-gesuchte-frau-meldet-sich-a-08f8a3da-0f5a-4a00-ba74-7650e313d923#ref=rss)
+### feuer
 
-* [https://www.spiegel.de/auto/kalifornien-polizei-schafft-sich-cybertruck-an-fuer-150-000-dollar-und-nur-fuer-notfaelle](https://www.spiegel.de/auto/kalifornien-polizei-schafft-sich-cybertruck-an-fuer-150-000-dollar-und-nur-fuer-notfaelle-a-ee8cb1e5-7589-49b4-9f50-94b5aeeecd68#ref=rss)
-### notfälle
+* [https://www.spiegel.de/panorama/justiz/krefeld-polizei-schoss-verdaechtigen-vor-kino-nieder-mann-hatte-brennbare-fluessigkeit-dabei](https://www.spiegel.de/panorama/justiz/krefeld-polizei-schoss-verdaechtigen-vor-kino-nieder-mann-hatte-brennbare-fluessigkeit-dabei-a-77be65f2-d7d5-4493-a21e-08edb30f7a08#ref=rss)
+* [https://www.spiegel.de/panorama/kuehlungsborn-feuer-auf-oeltanker-in-der-ostsee-ausgebrochen](https://www.spiegel.de/panorama/kuehlungsborn-feuer-auf-oeltanker-in-der-ostsee-ausgebrochen-a-beb33acb-b314-4e40-82aa-04da35bdbba9#ref=rss)
+* [https://www.spiegel.de/ausland/unifil-und-der-krieg-im-libanon-friedenstruppen-unter-feuer](https://www.spiegel.de/ausland/unifil-und-der-krieg-im-libanon-friedenstruppen-unter-feuer-a-35c12b67-97a2-4708-8652-984761a3cb49#ref=rss)
+### tränen
 
-* [https://www.spiegel.de/auto/kalifornien-polizei-schafft-sich-cybertruck-an-fuer-150-000-dollar-und-nur-fuer-notfaelle](https://www.spiegel.de/auto/kalifornien-polizei-schafft-sich-cybertruck-an-fuer-150-000-dollar-und-nur-fuer-notfaelle-a-ee8cb1e5-7589-49b4-9f50-94b5aeeecd68#ref=rss)
-### stadt
+* [https://www.spiegel.de/panorama/leute/andrew-garfield-im-nyt-podcast-modern-love-bricht-der-schauspieler-in-traenen-aus](https://www.spiegel.de/panorama/leute/andrew-garfield-im-nyt-podcast-modern-love-bricht-der-schauspieler-in-traenen-aus-a-ff6ed75b-7ccc-4de7-bf69-67797c804014#ref=rss)
+* [https://www.spiegel.de/familie/schulnoten-abschaffen-wie-das-bayerische-schulsystem-kinderseelen-kaputtmacht](https://www.spiegel.de/familie/schulnoten-abschaffen-wie-das-bayerische-schulsystem-kinderseelen-kaputtmacht-a-742acc7e-3091-4f94-8cb9-9ad41551ff20#ref=rss)
+### russland
 
-* [https://www.spiegel.de/auto/kalifornien-polizei-schafft-sich-cybertruck-an-fuer-150-000-dollar-und-nur-fuer-notfaelle](https://www.spiegel.de/auto/kalifornien-polizei-schafft-sich-cybertruck-an-fuer-150-000-dollar-und-nur-fuer-notfaelle-a-ee8cb1e5-7589-49b4-9f50-94b5aeeecd68#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ulm-waffenverbotszone-in-der-innenstadt-kommt-am-15-oktober](https://www.spiegel.de/panorama/justiz/ulm-waffenverbotszone-in-der-innenstadt-kommt-am-15-oktober-a-2e41b04c-c94a-4b76-bbe9-fe6d5e6fe03e#ref=rss)
-### manfred
+* [https://www.spiegel.de/politik/russland-wie-beide-politischen-lager-in-deutschland-den-ton-im-umgang-mit-dem-land-verfehlen](https://www.spiegel.de/politik/russland-wie-beide-politischen-lager-in-deutschland-den-ton-im-umgang-mit-dem-land-verfehlen-a-780c57a6-ccc6-4835-b8a4-cf3eb1300e1c#ref=rss)
+### beide
 
-* [https://www.spiegel.de/politik/deutschland/manfred-weber-fraktionschefs-aus-eu-parlament-werfen-evp-chef-pakt-mit-extrem-rechten-vor](https://www.spiegel.de/politik/deutschland/manfred-weber-fraktionschefs-aus-eu-parlament-werfen-evp-chef-pakt-mit-extrem-rechten-vor-a-5012f406-28dd-4b11-8b40-bdc1a3e035b1#ref=rss)
-### weber
+* [https://www.spiegel.de/politik/russland-wie-beide-politischen-lager-in-deutschland-den-ton-im-umgang-mit-dem-land-verfehlen](https://www.spiegel.de/politik/russland-wie-beide-politischen-lager-in-deutschland-den-ton-im-umgang-mit-dem-land-verfehlen-a-780c57a6-ccc6-4835-b8a4-cf3eb1300e1c#ref=rss)
+### ton
 
-* [https://www.spiegel.de/politik/deutschland/manfred-weber-fraktionschefs-aus-eu-parlament-werfen-evp-chef-pakt-mit-extrem-rechten-vor](https://www.spiegel.de/politik/deutschland/manfred-weber-fraktionschefs-aus-eu-parlament-werfen-evp-chef-pakt-mit-extrem-rechten-vor-a-5012f406-28dd-4b11-8b40-bdc1a3e035b1#ref=rss)
-### euparlament
+* [https://www.spiegel.de/politik/russland-wie-beide-politischen-lager-in-deutschland-den-ton-im-umgang-mit-dem-land-verfehlen](https://www.spiegel.de/politik/russland-wie-beide-politischen-lager-in-deutschland-den-ton-im-umgang-mit-dem-land-verfehlen-a-780c57a6-ccc6-4835-b8a4-cf3eb1300e1c#ref=rss)
+### umgang
 
-* [https://www.spiegel.de/politik/deutschland/manfred-weber-fraktionschefs-aus-eu-parlament-werfen-evp-chef-pakt-mit-extrem-rechten-vor](https://www.spiegel.de/politik/deutschland/manfred-weber-fraktionschefs-aus-eu-parlament-werfen-evp-chef-pakt-mit-extrem-rechten-vor-a-5012f406-28dd-4b11-8b40-bdc1a3e035b1#ref=rss)
-### evpchef
+* [https://www.spiegel.de/politik/russland-wie-beide-politischen-lager-in-deutschland-den-ton-im-umgang-mit-dem-land-verfehlen](https://www.spiegel.de/politik/russland-wie-beide-politischen-lager-in-deutschland-den-ton-im-umgang-mit-dem-land-verfehlen-a-780c57a6-ccc6-4835-b8a4-cf3eb1300e1c#ref=rss)
+### verfehlen
 
-* [https://www.spiegel.de/politik/deutschland/manfred-weber-fraktionschefs-aus-eu-parlament-werfen-evp-chef-pakt-mit-extrem-rechten-vor](https://www.spiegel.de/politik/deutschland/manfred-weber-fraktionschefs-aus-eu-parlament-werfen-evp-chef-pakt-mit-extrem-rechten-vor-a-5012f406-28dd-4b11-8b40-bdc1a3e035b1#ref=rss)
-### extrem
+* [https://www.spiegel.de/politik/russland-wie-beide-politischen-lager-in-deutschland-den-ton-im-umgang-mit-dem-land-verfehlen](https://www.spiegel.de/politik/russland-wie-beide-politischen-lager-in-deutschland-den-ton-im-umgang-mit-dem-land-verfehlen-a-780c57a6-ccc6-4835-b8a4-cf3eb1300e1c#ref=rss)
+### thüringen
 
-* [https://www.spiegel.de/politik/deutschland/manfred-weber-fraktionschefs-aus-eu-parlament-werfen-evp-chef-pakt-mit-extrem-rechten-vor](https://www.spiegel.de/politik/deutschland/manfred-weber-fraktionschefs-aus-eu-parlament-werfen-evp-chef-pakt-mit-extrem-rechten-vor-a-5012f406-28dd-4b11-8b40-bdc1a3e035b1#ref=rss)
-* [https://www.spiegel.de/wissenschaft/milton-trockener-luftschub-raubte-dem-hurrikan-etwas-kraft](https://www.spiegel.de/wissenschaft/milton-trockener-luftschub-raubte-dem-hurrikan-etwas-kraft-a-82e5f791-1f28-4d03-98d9-365c3999236b#ref=rss)
-### rechten
+* [https://www.spiegel.de/politik/deutschland/thueringen-brombeer-koalition-in-sicht-noch-einige-forderungen-des-bsw-offen](https://www.spiegel.de/politik/deutschland/thueringen-brombeer-koalition-in-sicht-noch-einige-forderungen-des-bsw-offen-a-33485c9d-7edc-42c5-b501-27ac7a664dc0#ref=rss)
+### brombeerkoalition
 
-* [https://www.spiegel.de/politik/deutschland/manfred-weber-fraktionschefs-aus-eu-parlament-werfen-evp-chef-pakt-mit-extrem-rechten-vor](https://www.spiegel.de/politik/deutschland/manfred-weber-fraktionschefs-aus-eu-parlament-werfen-evp-chef-pakt-mit-extrem-rechten-vor-a-5012f406-28dd-4b11-8b40-bdc1a3e035b1#ref=rss)
-* [https://www.spiegel.de/start/rechte-einflussnahme-uni-cottbus-richtet-meldestelle-fuer-rechtsextreme-vorfaelle-ein](https://www.spiegel.de/start/rechte-einflussnahme-uni-cottbus-richtet-meldestelle-fuer-rechtsextreme-vorfaelle-ein-a-3d11c7ab-0497-48c4-923c-d55e367d03f1#ref=rss)
-### orbán
+* [https://www.spiegel.de/politik/deutschland/thueringen-brombeer-koalition-in-sicht-noch-einige-forderungen-des-bsw-offen](https://www.spiegel.de/politik/deutschland/thueringen-brombeer-koalition-in-sicht-noch-einige-forderungen-des-bsw-offen-a-33485c9d-7edc-42c5-b501-27ac7a664dc0#ref=rss)
+### forderungen
 
-* [https://www.spiegel.de/politik/deutschland/manfred-weber-fraktionschefs-aus-eu-parlament-werfen-evp-chef-pakt-mit-extrem-rechten-vor](https://www.spiegel.de/politik/deutschland/manfred-weber-fraktionschefs-aus-eu-parlament-werfen-evp-chef-pakt-mit-extrem-rechten-vor-a-5012f406-28dd-4b11-8b40-bdc1a3e035b1#ref=rss)
-### afd
+* [https://www.spiegel.de/politik/deutschland/thueringen-brombeer-koalition-in-sicht-noch-einige-forderungen-des-bsw-offen](https://www.spiegel.de/politik/deutschland/thueringen-brombeer-koalition-in-sicht-noch-einige-forderungen-des-bsw-offen-a-33485c9d-7edc-42c5-b501-27ac7a664dc0#ref=rss)
+### bsw
 
-* [https://www.spiegel.de/politik/deutschland/manfred-weber-fraktionschefs-aus-eu-parlament-werfen-evp-chef-pakt-mit-extrem-rechten-vor](https://www.spiegel.de/politik/deutschland/manfred-weber-fraktionschefs-aus-eu-parlament-werfen-evp-chef-pakt-mit-extrem-rechten-vor-a-5012f406-28dd-4b11-8b40-bdc1a3e035b1#ref=rss)
-* [https://www.spiegel.de/politik/nahost-debatte-bundestag-streitet-ueber-zusammenhang-von-antisemitismus-und-migration](https://www.spiegel.de/politik/nahost-debatte-bundestag-streitet-ueber-zusammenhang-von-antisemitismus-und-migration-a-45f2d57c-26aa-45fd-ba51-b38b385fa985#ref=rss)
-### libanon
+* [https://www.spiegel.de/politik/deutschland/thueringen-brombeer-koalition-in-sicht-noch-einige-forderungen-des-bsw-offen](https://www.spiegel.de/politik/deutschland/thueringen-brombeer-koalition-in-sicht-noch-einige-forderungen-des-bsw-offen-a-33485c9d-7edc-42c5-b501-27ac7a664dc0#ref=rss)
+### offen
 
-* [https://www.spiegel.de/ausland/libanon-israel-soll-uno-hauptquartier-beschossen-haben-zwei-verletzte](https://www.spiegel.de/ausland/libanon-israel-soll-uno-hauptquartier-beschossen-haben-zwei-verletzte-a-f2773bde-8dc4-4b6b-b290-12330f5456f8#ref=rss)
-### uno
+* [https://www.spiegel.de/politik/deutschland/thueringen-brombeer-koalition-in-sicht-noch-einige-forderungen-des-bsw-offen](https://www.spiegel.de/politik/deutschland/thueringen-brombeer-koalition-in-sicht-noch-einige-forderungen-des-bsw-offen-a-33485c9d-7edc-42c5-b501-27ac7a664dc0#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/nexfundai-fbi-steckt-hinter-kryptofirma-und-deren-token](https://www.spiegel.de/netzwelt/web/nexfundai-fbi-steckt-hinter-kryptofirma-und-deren-token-a-235e9793-b29d-4820-9ed8-fa0e367d2d35#ref=rss)
+### sogenannte
 
-* [https://www.spiegel.de/ausland/libanon-israel-soll-uno-hauptquartier-beschossen-haben-zwei-verletzte](https://www.spiegel.de/ausland/libanon-israel-soll-uno-hauptquartier-beschossen-haben-zwei-verletzte-a-f2773bde-8dc4-4b6b-b290-12330f5456f8#ref=rss)
-* [https://www.spiegel.de/ausland/gazastreifen-uno-kommission-erhebt-schwere-vorwuerfe-gegen-israel](https://www.spiegel.de/ausland/gazastreifen-uno-kommission-erhebt-schwere-vorwuerfe-gegen-israel-a-151bc6cc-c36a-42ea-908c-685cee96e8dc#ref=rss)
-### beschuss
+* [https://www.spiegel.de/politik/deutschland/thueringen-brombeer-koalition-in-sicht-noch-einige-forderungen-des-bsw-offen](https://www.spiegel.de/politik/deutschland/thueringen-brombeer-koalition-in-sicht-noch-einige-forderungen-des-bsw-offen-a-33485c9d-7edc-42c5-b501-27ac7a664dc0#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/nexfundai-fbi-steckt-hinter-kryptofirma-und-deren-token](https://www.spiegel.de/netzwelt/web/nexfundai-fbi-steckt-hinter-kryptofirma-und-deren-token-a-235e9793-b29d-4820-9ed8-fa0e367d2d35#ref=rss)
+### dresden
 
-* [https://www.spiegel.de/ausland/libanon-israel-soll-uno-hauptquartier-beschossen-haben-zwei-verletzte](https://www.spiegel.de/ausland/libanon-israel-soll-uno-hauptquartier-beschossen-haben-zwei-verletzte-a-f2773bde-8dc4-4b6b-b290-12330f5456f8#ref=rss)
-* [https://www.spiegel.de/ausland/gazastreifen-uno-kommission-erhebt-schwere-vorwuerfe-gegen-israel](https://www.spiegel.de/ausland/gazastreifen-uno-kommission-erhebt-schwere-vorwuerfe-gegen-israel-a-151bc6cc-c36a-42ea-908c-685cee96e8dc#ref=rss)
-### elsass
+* [https://www.spiegel.de/panorama/justiz/dresden-mann-stellt-halteverbotsschild-zu-polizeiauto-jetzt-droht-ihm-eine-strafe](https://www.spiegel.de/panorama/justiz/dresden-mann-stellt-halteverbotsschild-zu-polizeiauto-jetzt-droht-ihm-eine-strafe-a-0c1d8aeb-aa3b-4da9-8ff8-6c5045f26190#ref=rss)
+### stellt
 
-* [https://www.spiegel.de/panorama/elsass-tgv-stuerzte-von-bruecke-staatsbahn-und-lokfuehrer-wegen-fahrlaessiger-toetung-verurteilt](https://www.spiegel.de/panorama/elsass-tgv-stuerzte-von-bruecke-staatsbahn-und-lokfuehrer-wegen-fahrlaessiger-toetung-verurteilt-a-02a7e02e-18ea-4329-9a87-68423e6f9496#ref=rss)
-### tgv
+* [https://www.spiegel.de/panorama/justiz/dresden-mann-stellt-halteverbotsschild-zu-polizeiauto-jetzt-droht-ihm-eine-strafe](https://www.spiegel.de/panorama/justiz/dresden-mann-stellt-halteverbotsschild-zu-polizeiauto-jetzt-droht-ihm-eine-strafe-a-0c1d8aeb-aa3b-4da9-8ff8-6c5045f26190#ref=rss)
+* [https://www.spiegel.de/politik/parteitag-in-augsburg-csu-fordert-obergrenze-fuer-asylantraege](https://www.spiegel.de/politik/parteitag-in-augsburg-csu-fordert-obergrenze-fuer-asylantraege-a-8601a302-e806-497a-84fa-ba31c363cd0a#ref=rss)
+### halteverbotsschild
 
-* [https://www.spiegel.de/panorama/elsass-tgv-stuerzte-von-bruecke-staatsbahn-und-lokfuehrer-wegen-fahrlaessiger-toetung-verurteilt](https://www.spiegel.de/panorama/elsass-tgv-stuerzte-von-bruecke-staatsbahn-und-lokfuehrer-wegen-fahrlaessiger-toetung-verurteilt-a-02a7e02e-18ea-4329-9a87-68423e6f9496#ref=rss)
-### menschen
+* [https://www.spiegel.de/panorama/justiz/dresden-mann-stellt-halteverbotsschild-zu-polizeiauto-jetzt-droht-ihm-eine-strafe](https://www.spiegel.de/panorama/justiz/dresden-mann-stellt-halteverbotsschild-zu-polizeiauto-jetzt-droht-ihm-eine-strafe-a-0c1d8aeb-aa3b-4da9-8ff8-6c5045f26190#ref=rss)
+### stand
 
-* [https://www.spiegel.de/panorama/elsass-tgv-stuerzte-von-bruecke-staatsbahn-und-lokfuehrer-wegen-fahrlaessiger-toetung-verurteilt](https://www.spiegel.de/panorama/elsass-tgv-stuerzte-von-bruecke-staatsbahn-und-lokfuehrer-wegen-fahrlaessiger-toetung-verurteilt-a-02a7e02e-18ea-4329-9a87-68423e6f9496#ref=rss)
-* [https://www.spiegel.de/panorama/hurrikan-milton-in-florida-ueberschwemmungen-und-zerstoerungen-millionen-ohne-strom](https://www.spiegel.de/panorama/hurrikan-milton-in-florida-ueberschwemmungen-und-zerstoerungen-millionen-ohne-strom-a-850a6fed-5a11-494e-9434-65b312fe3db6#ref=rss)
-### urteil
+* [https://www.spiegel.de/panorama/justiz/dresden-mann-stellt-halteverbotsschild-zu-polizeiauto-jetzt-droht-ihm-eine-strafe](https://www.spiegel.de/panorama/justiz/dresden-mann-stellt-halteverbotsschild-zu-polizeiauto-jetzt-droht-ihm-eine-strafe-a-0c1d8aeb-aa3b-4da9-8ff8-6c5045f26190#ref=rss)
+* [https://www.spiegel.de/sport/bergsteigen-18-jaehriger-bezwingt-als-juengster-bergsteiger-alle-achttausender](https://www.spiegel.de/sport/bergsteigen-18-jaehriger-bezwingt-als-juengster-bergsteiger-alle-achttausender-a-541994dd-a788-4f22-9cb5-e41368bc3fba#ref=rss)
+### whoopi
 
-* [https://www.spiegel.de/panorama/elsass-tgv-stuerzte-von-bruecke-staatsbahn-und-lokfuehrer-wegen-fahrlaessiger-toetung-verurteilt](https://www.spiegel.de/panorama/elsass-tgv-stuerzte-von-bruecke-staatsbahn-und-lokfuehrer-wegen-fahrlaessiger-toetung-verurteilt-a-02a7e02e-18ea-4329-9a87-68423e6f9496#ref=rss)
-* [https://www.spiegel.de/panorama/afghanistan-was-das-urteil-des-europaeischen-gerichtshofs-fuer-das-asylrecht-afghanischer-frauen-bedeutet](https://www.spiegel.de/panorama/afghanistan-was-das-urteil-des-europaeischen-gerichtshofs-fuer-das-asylrecht-afghanischer-frauen-bedeutet-a-47a51cf5-4395-4f38-b2fd-c71e530e2939#ref=rss)
-### friedrich
+* [https://www.spiegel.de/panorama/leute/whoopi-goldberg-wehrt-sich-gegen-beleidigung-von-donald-trump](https://www.spiegel.de/panorama/leute/whoopi-goldberg-wehrt-sich-gegen-beleidigung-von-donald-trump-a-b60de57a-decc-4d5e-9c5e-4945368a419b#ref=rss)
+### goldberg
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-provoziert-und-der-kanzler-faellt-drauf-rein](https://www.spiegel.de/politik/deutschland/friedrich-merz-provoziert-und-der-kanzler-faellt-drauf-rein-a-aca3c2f4-c2f1-4960-858b-71a1b2110fbc#ref=rss)
-### kanzler
+* [https://www.spiegel.de/panorama/leute/whoopi-goldberg-wehrt-sich-gegen-beleidigung-von-donald-trump](https://www.spiegel.de/panorama/leute/whoopi-goldberg-wehrt-sich-gegen-beleidigung-von-donald-trump-a-b60de57a-decc-4d5e-9c5e-4945368a419b#ref=rss)
+### wehrt
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-provoziert-und-der-kanzler-faellt-drauf-rein](https://www.spiegel.de/politik/deutschland/friedrich-merz-provoziert-und-der-kanzler-faellt-drauf-rein-a-aca3c2f4-c2f1-4960-858b-71a1b2110fbc#ref=rss)
-### fällt
+* [https://www.spiegel.de/panorama/leute/whoopi-goldberg-wehrt-sich-gegen-beleidigung-von-donald-trump](https://www.spiegel.de/panorama/leute/whoopi-goldberg-wehrt-sich-gegen-beleidigung-von-donald-trump-a-b60de57a-decc-4d5e-9c5e-4945368a419b#ref=rss)
+### donald
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-provoziert-und-der-kanzler-faellt-drauf-rein](https://www.spiegel.de/politik/deutschland/friedrich-merz-provoziert-und-der-kanzler-faellt-drauf-rein-a-aca3c2f4-c2f1-4960-858b-71a1b2110fbc#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/deutscher-wald-kann-seine-funktion-als-klimaretter-nicht-mehr-erfuellen-dein-feind-der-baum](https://www.spiegel.de/wissenschaft/natur/deutscher-wald-kann-seine-funktion-als-klimaretter-nicht-mehr-erfuellen-dein-feind-der-baum-a-c624d22a-8691-4863-8297-9a0c6a9057f1#ref=rss)
+* [https://www.spiegel.de/panorama/leute/whoopi-goldberg-wehrt-sich-gegen-beleidigung-von-donald-trump](https://www.spiegel.de/panorama/leute/whoopi-goldberg-wehrt-sich-gegen-beleidigung-von-donald-trump-a-b60de57a-decc-4d5e-9c5e-4945368a419b#ref=rss)
+### trump
+
+* [https://www.spiegel.de/panorama/leute/whoopi-goldberg-wehrt-sich-gegen-beleidigung-von-donald-trump](https://www.spiegel.de/panorama/leute/whoopi-goldberg-wehrt-sich-gegen-beleidigung-von-donald-trump-a-b60de57a-decc-4d5e-9c5e-4945368a419b#ref=rss)
+### andere
+
+* [https://www.spiegel.de/panorama/leute/whoopi-goldberg-wehrt-sich-gegen-beleidigung-von-donald-trump](https://www.spiegel.de/panorama/leute/whoopi-goldberg-wehrt-sich-gegen-beleidigung-von-donald-trump-a-b60de57a-decc-4d5e-9c5e-4945368a419b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-alvaro-morata-hatte-depressionen-und-panikattacken](https://www.spiegel.de/sport/fussball/fussball-alvaro-morata-hatte-depressionen-und-panikattacken-a-e965b67c-aad9-43dd-b030-bdcc8b272414#ref=rss)
+### alle
+
+* [https://www.spiegel.de/panorama/leute/whoopi-goldberg-wehrt-sich-gegen-beleidigung-von-donald-trump](https://www.spiegel.de/panorama/leute/whoopi-goldberg-wehrt-sich-gegen-beleidigung-von-donald-trump-a-b60de57a-decc-4d5e-9c5e-4945368a419b#ref=rss)
+* [https://www.spiegel.de/sport/bergsteigen-18-jaehriger-bezwingt-als-juengster-bergsteiger-alle-achttausender](https://www.spiegel.de/sport/bergsteigen-18-jaehriger-bezwingt-als-juengster-bergsteiger-alle-achttausender-a-541994dd-a788-4f22-9cb5-e41368bc3fba#ref=rss)
+### bundesnetzagentur
+
+* [https://www.spiegel.de/netzwelt/bundesnetzagentur-weist-berichte-ueber-online-zensur-zurueck](https://www.spiegel.de/netzwelt/bundesnetzagentur-weist-berichte-ueber-online-zensur-zurueck-a-36ad6c31-f798-4e2d-9ce1-cf9910d8cc54#ref=rss)
+### rechte
+
+* [https://www.spiegel.de/netzwelt/bundesnetzagentur-weist-berichte-ueber-online-zensur-zurueck](https://www.spiegel.de/netzwelt/bundesnetzagentur-weist-berichte-ueber-online-zensur-zurueck-a-36ad6c31-f798-4e2d-9ce1-cf9910d8cc54#ref=rss)
+* [https://www.spiegel.de/ausland/elon-musk-beugt-sich-brasiliens-oberstem-gericht](https://www.spiegel.de/ausland/elon-musk-beugt-sich-brasiliens-oberstem-gericht-a-3e6ec7f4-33a3-41e0-9488-d84bfd2ee75c#ref=rss)
+### steckt
+
+* [https://www.spiegel.de/netzwelt/bundesnetzagentur-weist-berichte-ueber-online-zensur-zurueck](https://www.spiegel.de/netzwelt/bundesnetzagentur-weist-berichte-ueber-online-zensur-zurueck-a-36ad6c31-f798-4e2d-9ce1-cf9910d8cc54#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/nexfundai-fbi-steckt-hinter-kryptofirma-und-deren-token](https://www.spiegel.de/netzwelt/web/nexfundai-fbi-steckt-hinter-kryptofirma-und-deren-token-a-235e9793-b29d-4820-9ed8-fa0e367d2d35#ref=rss)
+### sancta
+
+* [https://www.spiegel.de/kultur/extrem-oper-sancta-jetzt-gibt-es-kritik-von-der-katholischen-kirche-in-stuttgart](https://www.spiegel.de/kultur/extrem-oper-sancta-jetzt-gibt-es-kritik-von-der-katholischen-kirche-in-stuttgart-a-bd4c9729-7032-4f02-8545-5057d0db61e1#ref=rss)
+### stuttgart
+
+* [https://www.spiegel.de/kultur/extrem-oper-sancta-jetzt-gibt-es-kritik-von-der-katholischen-kirche-in-stuttgart](https://www.spiegel.de/kultur/extrem-oper-sancta-jetzt-gibt-es-kritik-von-der-katholischen-kirche-in-stuttgart-a-bd4c9729-7032-4f02-8545-5057d0db61e1#ref=rss)
+### sorgt
+
+* [https://www.spiegel.de/kultur/extrem-oper-sancta-jetzt-gibt-es-kritik-von-der-katholischen-kirche-in-stuttgart](https://www.spiegel.de/kultur/extrem-oper-sancta-jetzt-gibt-es-kritik-von-der-katholischen-kirche-in-stuttgart-a-bd4c9729-7032-4f02-8545-5057d0db61e1#ref=rss)
+* [https://www.spiegel.de/politik/berlin-selenskyj-besuch-sorgt-fuer-zugausfaelle-und-staus](https://www.spiegel.de/politik/berlin-selenskyj-besuch-sorgt-fuer-zugausfaelle-und-staus-a-c317985d-1c28-410f-a373-100eec792668#ref=rss)
+### parteitag
+
+* [https://www.spiegel.de/politik/parteitag-in-augsburg-csu-fordert-obergrenze-fuer-asylantraege](https://www.spiegel.de/politik/parteitag-in-augsburg-csu-fordert-obergrenze-fuer-asylantraege-a-8601a302-e806-497a-84fa-ba31c363cd0a#ref=rss)
+### csu
+
+* [https://www.spiegel.de/politik/parteitag-in-augsburg-csu-fordert-obergrenze-fuer-asylantraege](https://www.spiegel.de/politik/parteitag-in-augsburg-csu-fordert-obergrenze-fuer-asylantraege-a-8601a302-e806-497a-84fa-ba31c363cd0a#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/politik/parteitag-in-augsburg-csu-fordert-obergrenze-fuer-asylantraege](https://www.spiegel.de/politik/parteitag-in-augsburg-csu-fordert-obergrenze-fuer-asylantraege-a-8601a302-e806-497a-84fa-ba31c363cd0a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/fachkraeftemangel-moritz-schularick-verlangt-globales-online-testverfahren-fuer-zuwanderer](https://www.spiegel.de/wirtschaft/unternehmen/fachkraeftemangel-moritz-schularick-verlangt-globales-online-testverfahren-fuer-zuwanderer-a-83c61e12-9afc-470d-9f32-560430cc2209#ref=rss)
+### asylanträge
+
+* [https://www.spiegel.de/politik/parteitag-in-augsburg-csu-fordert-obergrenze-fuer-asylantraege](https://www.spiegel.de/politik/parteitag-in-augsburg-csu-fordert-obergrenze-fuer-asylantraege-a-8601a302-e806-497a-84fa-ba31c363cd0a#ref=rss)
 ### jahr
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-provoziert-und-der-kanzler-faellt-drauf-rein](https://www.spiegel.de/politik/deutschland/friedrich-merz-provoziert-und-der-kanzler-faellt-drauf-rein-a-aca3c2f4-c2f1-4960-858b-71a1b2110fbc#ref=rss)
-* [https://www.spiegel.de/kultur/hugh-jackman-hollywoodstar-gibt-wieder-den-grossen-showman-im-musical](https://www.spiegel.de/kultur/hugh-jackman-hollywoodstar-gibt-wieder-den-grossen-showman-im-musical-a-820735fa-2530-455b-9cf7-21ce267b185c#ref=rss)
-### ethel
+* [https://www.spiegel.de/politik/parteitag-in-augsburg-csu-fordert-obergrenze-fuer-asylantraege](https://www.spiegel.de/politik/parteitag-in-augsburg-csu-fordert-obergrenze-fuer-asylantraege-a-8601a302-e806-497a-84fa-ba31c363cd0a#ref=rss)
+* [https://www.spiegel.de/ausland/friedensnobelpreis-geht-an-japanische-anti-atomwaffenorganisation](https://www.spiegel.de/ausland/friedensnobelpreis-geht-an-japanische-anti-atomwaffenorganisation-a-b6f57a17-0ce3-4d36-b581-6bd650acbb37#ref=rss)
+### hurrikan
 
-* [https://www.spiegel.de/ausland/ethel-kennedy-ist-tot](https://www.spiegel.de/ausland/ethel-kennedy-ist-tot-a-8870259e-9fc5-43de-87eb-a2a872a15747#ref=rss)
-### tot
+* [https://www.spiegel.de/panorama/hurrikan-milton-ueberlebende-erzaehlen-wie-sie-die-naturkatastrophe-erlebten](https://www.spiegel.de/panorama/hurrikan-milton-ueberlebende-erzaehlen-wie-sie-die-naturkatastrophe-erlebten-a-6835c7c9-3bc9-473a-96a4-64ae5f19ac7f#ref=rss)
+### milton
 
-* [https://www.spiegel.de/ausland/ethel-kennedy-ist-tot](https://www.spiegel.de/ausland/ethel-kennedy-ist-tot-a-8870259e-9fc5-43de-87eb-a2a872a15747#ref=rss)
-* [https://www.spiegel.de/panorama/hurrikan-milton-in-florida-ueberschwemmungen-und-zerstoerungen-millionen-ohne-strom](https://www.spiegel.de/panorama/hurrikan-milton-in-florida-ueberschwemmungen-und-zerstoerungen-millionen-ohne-strom-a-850a6fed-5a11-494e-9434-65b312fe3db6#ref=rss)
-### jahren
+* [https://www.spiegel.de/panorama/hurrikan-milton-ueberlebende-erzaehlen-wie-sie-die-naturkatastrophe-erlebten](https://www.spiegel.de/panorama/hurrikan-milton-ueberlebende-erzaehlen-wie-sie-die-naturkatastrophe-erlebten-a-6835c7c9-3bc9-473a-96a4-64ae5f19ac7f#ref=rss)
+### erzählen
 
-* [https://www.spiegel.de/ausland/ethel-kennedy-ist-tot](https://www.spiegel.de/ausland/ethel-kennedy-ist-tot-a-8870259e-9fc5-43de-87eb-a2a872a15747#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/islamistischer-tiktok-star-abdelhamid-steht-unter-betrugsverdacht](https://www.spiegel.de/panorama/justiz/islamistischer-tiktok-star-abdelhamid-steht-unter-betrugsverdacht-a-c60c5feb-110c-4059-981c-a3327f50c149#ref=rss)
-### cottbus
+* [https://www.spiegel.de/panorama/hurrikan-milton-ueberlebende-erzaehlen-wie-sie-die-naturkatastrophe-erlebten](https://www.spiegel.de/panorama/hurrikan-milton-ueberlebende-erzaehlen-wie-sie-die-naturkatastrophe-erlebten-a-6835c7c9-3bc9-473a-96a4-64ae5f19ac7f#ref=rss)
+### viele
 
-* [https://www.spiegel.de/start/rechte-einflussnahme-uni-cottbus-richtet-meldestelle-fuer-rechtsextreme-vorfaelle-ein](https://www.spiegel.de/start/rechte-einflussnahme-uni-cottbus-richtet-meldestelle-fuer-rechtsextreme-vorfaelle-ein-a-3d11c7ab-0497-48c4-923c-d55e367d03f1#ref=rss)
-### meldestelle
+* [https://www.spiegel.de/panorama/hurrikan-milton-ueberlebende-erzaehlen-wie-sie-die-naturkatastrophe-erlebten](https://www.spiegel.de/panorama/hurrikan-milton-ueberlebende-erzaehlen-wie-sie-die-naturkatastrophe-erlebten-a-6835c7c9-3bc9-473a-96a4-64ae5f19ac7f#ref=rss)
+* [https://www.spiegel.de/panorama/koeln-aufwendigste-bombenentschaerfung-seit-dem-zweiten-weltkrieg-laeuft](https://www.spiegel.de/panorama/koeln-aufwendigste-bombenentschaerfung-seit-dem-zweiten-weltkrieg-laeuft-a-19198bfc-555a-42c4-a9a9-92f20e1e9c64#ref=rss)
+### hatten
 
-* [https://www.spiegel.de/start/rechte-einflussnahme-uni-cottbus-richtet-meldestelle-fuer-rechtsextreme-vorfaelle-ein](https://www.spiegel.de/start/rechte-einflussnahme-uni-cottbus-richtet-meldestelle-fuer-rechtsextreme-vorfaelle-ein-a-3d11c7ab-0497-48c4-923c-d55e367d03f1#ref=rss)
-### rafael
+* [https://www.spiegel.de/panorama/hurrikan-milton-ueberlebende-erzaehlen-wie-sie-die-naturkatastrophe-erlebten](https://www.spiegel.de/panorama/hurrikan-milton-ueberlebende-erzaehlen-wie-sie-die-naturkatastrophe-erlebten-a-6835c7c9-3bc9-473a-96a4-64ae5f19ac7f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/lukas-podolski-abschiedsspiel-in-koeln-tor-lob-von-loew-und-emotionales-spektakel](https://www.spiegel.de/sport/fussball/lukas-podolski-abschiedsspiel-in-koeln-tor-lob-von-loew-und-emotionales-spektakel-a-c8a023f8-05d3-4427-811e-bf0081208a42#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/sport/tennis/ruecktritt-von-rafael-nadal-darum-wird-der-sandplatzkoenig-dem-tennis-fehlen](https://www.spiegel.de/sport/tennis/ruecktritt-von-rafael-nadal-darum-wird-der-sandplatzkoenig-dem-tennis-fehlen-a-07aa1bb4-f1df-4665-bac0-7a66db29acb5#ref=rss)
-### nadal
+* [https://www.spiegel.de/politik/berlin-selenskyj-besuch-sorgt-fuer-zugausfaelle-und-staus](https://www.spiegel.de/politik/berlin-selenskyj-besuch-sorgt-fuer-zugausfaelle-und-staus-a-c317985d-1c28-410f-a373-100eec792668#ref=rss)
+### diesem
 
-* [https://www.spiegel.de/sport/tennis/ruecktritt-von-rafael-nadal-darum-wird-der-sandplatzkoenig-dem-tennis-fehlen](https://www.spiegel.de/sport/tennis/ruecktritt-von-rafael-nadal-darum-wird-der-sandplatzkoenig-dem-tennis-fehlen-a-07aa1bb4-f1df-4665-bac0-7a66db29acb5#ref=rss)
-### tennis
+* [https://www.spiegel.de/politik/berlin-selenskyj-besuch-sorgt-fuer-zugausfaelle-und-staus](https://www.spiegel.de/politik/berlin-selenskyj-besuch-sorgt-fuer-zugausfaelle-und-staus-a-c317985d-1c28-410f-a373-100eec792668#ref=rss)
+* [https://www.spiegel.de/ausland/friedensnobelpreis-geht-an-japanische-anti-atomwaffenorganisation](https://www.spiegel.de/ausland/friedensnobelpreis-geht-an-japanische-anti-atomwaffenorganisation-a-b6f57a17-0ce3-4d36-b581-6bd650acbb37#ref=rss)
+### stellantis
 
-* [https://www.spiegel.de/sport/tennis/ruecktritt-von-rafael-nadal-darum-wird-der-sandplatzkoenig-dem-tennis-fehlen](https://www.spiegel.de/sport/tennis/ruecktritt-von-rafael-nadal-darum-wird-der-sandplatzkoenig-dem-tennis-fehlen-a-07aa1bb4-f1df-4665-bac0-7a66db29acb5#ref=rss)
-### waren
+* [https://www.spiegel.de/wirtschaft/unternehmen/opel-mutterkonzern-stellantis-carlos-tavares-geht-2026-nathalie-knight-schon-jetzt](https://www.spiegel.de/wirtschaft/unternehmen/opel-mutterkonzern-stellantis-carlos-tavares-geht-2026-nathalie-knight-schon-jetzt-a-a54f1d26-e58b-4a77-989b-c31cd447868f#ref=rss)
+### tavares
 
-* [https://www.spiegel.de/sport/tennis/ruecktritt-von-rafael-nadal-darum-wird-der-sandplatzkoenig-dem-tennis-fehlen](https://www.spiegel.de/sport/tennis/ruecktritt-von-rafael-nadal-darum-wird-der-sandplatzkoenig-dem-tennis-fehlen-a-07aa1bb4-f1df-4665-bac0-7a66db29acb5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/milton-trockener-luftschub-raubte-dem-hurrikan-etwas-kraft](https://www.spiegel.de/wissenschaft/milton-trockener-luftschub-raubte-dem-hurrikan-etwas-kraft-a-82e5f791-1f28-4d03-98d9-365c3999236b#ref=rss)
-### afghanistan
+* [https://www.spiegel.de/wirtschaft/unternehmen/opel-mutterkonzern-stellantis-carlos-tavares-geht-2026-nathalie-knight-schon-jetzt](https://www.spiegel.de/wirtschaft/unternehmen/opel-mutterkonzern-stellantis-carlos-tavares-geht-2026-nathalie-knight-schon-jetzt-a-a54f1d26-e58b-4a77-989b-c31cd447868f#ref=rss)
+### knight
 
-* [https://www.spiegel.de/panorama/afghanistan-was-das-urteil-des-europaeischen-gerichtshofs-fuer-das-asylrecht-afghanischer-frauen-bedeutet](https://www.spiegel.de/panorama/afghanistan-was-das-urteil-des-europaeischen-gerichtshofs-fuer-das-asylrecht-afghanischer-frauen-bedeutet-a-47a51cf5-4395-4f38-b2fd-c71e530e2939#ref=rss)
-### europäischen
+* [https://www.spiegel.de/wirtschaft/unternehmen/opel-mutterkonzern-stellantis-carlos-tavares-geht-2026-nathalie-knight-schon-jetzt](https://www.spiegel.de/wirtschaft/unternehmen/opel-mutterkonzern-stellantis-carlos-tavares-geht-2026-nathalie-knight-schon-jetzt-a-a54f1d26-e58b-4a77-989b-c31cd447868f#ref=rss)
+### verlassen
 
-* [https://www.spiegel.de/panorama/afghanistan-was-das-urteil-des-europaeischen-gerichtshofs-fuer-das-asylrecht-afghanischer-frauen-bedeutet](https://www.spiegel.de/panorama/afghanistan-was-das-urteil-des-europaeischen-gerichtshofs-fuer-das-asylrecht-afghanischer-frauen-bedeutet-a-47a51cf5-4395-4f38-b2fd-c71e530e2939#ref=rss)
-* [https://www.spiegel.de/ausland/geisterschiff-in-der-nordsee-wie-gefaehrlich-ist-die-ruby](https://www.spiegel.de/ausland/geisterschiff-in-der-nordsee-wie-gefaehrlich-ist-die-ruby-a-4798364c-1104-407a-be61-a5c726d5295e#ref=rss)
-### frauen
+* [https://www.spiegel.de/wirtschaft/unternehmen/opel-mutterkonzern-stellantis-carlos-tavares-geht-2026-nathalie-knight-schon-jetzt](https://www.spiegel.de/wirtschaft/unternehmen/opel-mutterkonzern-stellantis-carlos-tavares-geht-2026-nathalie-knight-schon-jetzt-a-a54f1d26-e58b-4a77-989b-c31cd447868f#ref=rss)
+* [https://www.spiegel.de/panorama/koeln-aufwendigste-bombenentschaerfung-seit-dem-zweiten-weltkrieg-laeuft](https://www.spiegel.de/panorama/koeln-aufwendigste-bombenentschaerfung-seit-dem-zweiten-weltkrieg-laeuft-a-19198bfc-555a-42c4-a9a9-92f20e1e9c64#ref=rss)
+### fbi
 
-* [https://www.spiegel.de/panorama/afghanistan-was-das-urteil-des-europaeischen-gerichtshofs-fuer-das-asylrecht-afghanischer-frauen-bedeutet](https://www.spiegel.de/panorama/afghanistan-was-das-urteil-des-europaeischen-gerichtshofs-fuer-das-asylrecht-afghanischer-frauen-bedeutet-a-47a51cf5-4395-4f38-b2fd-c71e530e2939#ref=rss)
-### bedeutet
+* [https://www.spiegel.de/netzwelt/web/nexfundai-fbi-steckt-hinter-kryptofirma-und-deren-token](https://www.spiegel.de/netzwelt/web/nexfundai-fbi-steckt-hinter-kryptofirma-und-deren-token-a-235e9793-b29d-4820-9ed8-fa0e367d2d35#ref=rss)
+### kino
 
-* [https://www.spiegel.de/panorama/afghanistan-was-das-urteil-des-europaeischen-gerichtshofs-fuer-das-asylrecht-afghanischer-frauen-bedeutet](https://www.spiegel.de/panorama/afghanistan-was-das-urteil-des-europaeischen-gerichtshofs-fuer-das-asylrecht-afghanischer-frauen-bedeutet-a-47a51cf5-4395-4f38-b2fd-c71e530e2939#ref=rss)
-### fragen
+* [https://www.spiegel.de/panorama/justiz/krefeld-polizei-schoss-verdaechtigen-vor-kino-nieder-mann-hatte-brennbare-fluessigkeit-dabei](https://www.spiegel.de/panorama/justiz/krefeld-polizei-schoss-verdaechtigen-vor-kino-nieder-mann-hatte-brennbare-fluessigkeit-dabei-a-77be65f2-d7d5-4493-a21e-08edb30f7a08#ref=rss)
+### etwa
 
-* [https://www.spiegel.de/panorama/afghanistan-was-das-urteil-des-europaeischen-gerichtshofs-fuer-das-asylrecht-afghanischer-frauen-bedeutet](https://www.spiegel.de/panorama/afghanistan-was-das-urteil-des-europaeischen-gerichtshofs-fuer-das-asylrecht-afghanischer-frauen-bedeutet-a-47a51cf5-4395-4f38-b2fd-c71e530e2939#ref=rss)
-* [https://www.spiegel.de/ausland/geisterschiff-in-der-nordsee-wie-gefaehrlich-ist-die-ruby](https://www.spiegel.de/ausland/geisterschiff-in-der-nordsee-wie-gefaehrlich-ist-die-ruby-a-4798364c-1104-407a-be61-a5c726d5295e#ref=rss)
-### weniger
+* [https://www.spiegel.de/panorama/justiz/krefeld-polizei-schoss-verdaechtigen-vor-kino-nieder-mann-hatte-brennbare-fluessigkeit-dabei](https://www.spiegel.de/panorama/justiz/krefeld-polizei-schoss-verdaechtigen-vor-kino-nieder-mann-hatte-brennbare-fluessigkeit-dabei-a-77be65f2-d7d5-4493-a21e-08edb30f7a08#ref=rss)
+* [https://www.spiegel.de/auto/strassenverkehrsordnung-mehr-tempo-30-und-fahrradspuren](https://www.spiegel.de/auto/strassenverkehrsordnung-mehr-tempo-30-und-fahrradspuren-a-ee8b6426-5a54-4a1e-ab9f-bc52fae469eb#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/wissenschaft/milton-trockener-luftschub-raubte-dem-hurrikan-etwas-kraft](https://www.spiegel.de/wissenschaft/milton-trockener-luftschub-raubte-dem-hurrikan-etwas-kraft-a-82e5f791-1f28-4d03-98d9-365c3999236b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-umsatz-bricht-um-13-prozent-ein-verluste-auch-bei-mercedes](https://www.spiegel.de/wirtschaft/unternehmen/bmw-umsatz-bricht-um-13-prozent-ein-verluste-auch-bei-mercedes-a-a7bf06c1-0876-4a7c-b779-a8ce2baf8a1e#ref=rss)
-### befürchtet
-
-* [https://www.spiegel.de/wissenschaft/milton-trockener-luftschub-raubte-dem-hurrikan-etwas-kraft](https://www.spiegel.de/wissenschaft/milton-trockener-luftschub-raubte-dem-hurrikan-etwas-kraft-a-82e5f791-1f28-4d03-98d9-365c3999236b#ref=rss)
-* [https://www.spiegel.de/panorama/hurrikan-milton-in-florida-ueberschwemmungen-und-zerstoerungen-millionen-ohne-strom](https://www.spiegel.de/panorama/hurrikan-milton-in-florida-ueberschwemmungen-und-zerstoerungen-millionen-ohne-strom-a-850a6fed-5a11-494e-9434-65b312fe3db6#ref=rss)
-### gewalt
-
-* [https://www.spiegel.de/kultur/literatur/literaturnobelpreis-fuer-han-kang-brutal-und-zart-zugleich](https://www.spiegel.de/kultur/literatur/literaturnobelpreis-fuer-han-kang-brutal-und-zart-zugleich-a-87574935-be61-4385-bbb5-31f394c2f6c2#ref=rss)
-* [https://www.spiegel.de/ausland/gazastreifen-uno-kommission-erhebt-schwere-vorwuerfe-gegen-israel](https://www.spiegel.de/ausland/gazastreifen-uno-kommission-erhebt-schwere-vorwuerfe-gegen-israel-a-151bc6cc-c36a-42ea-908c-685cee96e8dc#ref=rss)
-### gewaltfreie
-
-* [https://www.spiegel.de/politik/kitas-ist-gewaltfreie-erziehung-unerreichbar-podcast](https://www.spiegel.de/politik/kitas-ist-gewaltfreie-erziehung-unerreichbar-podcast-a-a0aee69a-4d58-460d-b5da-e2d4031b6126#ref=rss)
-* [https://www.spiegel.de/familie/kitas-ist-gewaltfreie-erziehung-unerreichbar](https://www.spiegel.de/familie/kitas-ist-gewaltfreie-erziehung-unerreichbar-a-2adad44d-2c26-4ae5-a677-621dafe9b6c7#ref=rss)
-### erziehung
-
-* [https://www.spiegel.de/politik/kitas-ist-gewaltfreie-erziehung-unerreichbar-podcast](https://www.spiegel.de/politik/kitas-ist-gewaltfreie-erziehung-unerreichbar-podcast-a-a0aee69a-4d58-460d-b5da-e2d4031b6126#ref=rss)
-* [https://www.spiegel.de/familie/kitas-ist-gewaltfreie-erziehung-unerreichbar](https://www.spiegel.de/familie/kitas-ist-gewaltfreie-erziehung-unerreichbar-a-2adad44d-2c26-4ae5-a677-621dafe9b6c7#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/politik/kitas-ist-gewaltfreie-erziehung-unerreichbar-podcast](https://www.spiegel.de/politik/kitas-ist-gewaltfreie-erziehung-unerreichbar-podcast-a-a0aee69a-4d58-460d-b5da-e2d4031b6126#ref=rss)
-* [https://www.spiegel.de/familie/kitas-ist-gewaltfreie-erziehung-unerreichbar](https://www.spiegel.de/familie/kitas-ist-gewaltfreie-erziehung-unerreichbar-a-2adad44d-2c26-4ae5-a677-621dafe9b6c7#ref=rss)
-### erbrochenes
-
-* [https://www.spiegel.de/politik/kitas-ist-gewaltfreie-erziehung-unerreichbar-podcast](https://www.spiegel.de/politik/kitas-ist-gewaltfreie-erziehung-unerreichbar-podcast-a-a0aee69a-4d58-460d-b5da-e2d4031b6126#ref=rss)
-* [https://www.spiegel.de/familie/kitas-ist-gewaltfreie-erziehung-unerreichbar](https://www.spiegel.de/familie/kitas-ist-gewaltfreie-erziehung-unerreichbar-a-2adad44d-2c26-4ae5-a677-621dafe9b6c7#ref=rss)
-### aufwischen
-
-* [https://www.spiegel.de/politik/kitas-ist-gewaltfreie-erziehung-unerreichbar-podcast](https://www.spiegel.de/politik/kitas-ist-gewaltfreie-erziehung-unerreichbar-podcast-a-a0aee69a-4d58-460d-b5da-e2d4031b6126#ref=rss)
-* [https://www.spiegel.de/familie/kitas-ist-gewaltfreie-erziehung-unerreichbar](https://www.spiegel.de/familie/kitas-ist-gewaltfreie-erziehung-unerreichbar-a-2adad44d-2c26-4ae5-a677-621dafe9b6c7#ref=rss)
-### schlafraum
-
-* [https://www.spiegel.de/politik/kitas-ist-gewaltfreie-erziehung-unerreichbar-podcast](https://www.spiegel.de/politik/kitas-ist-gewaltfreie-erziehung-unerreichbar-podcast-a-a0aee69a-4d58-460d-b5da-e2d4031b6126#ref=rss)
-* [https://www.spiegel.de/familie/kitas-ist-gewaltfreie-erziehung-unerreichbar](https://www.spiegel.de/familie/kitas-ist-gewaltfreie-erziehung-unerreichbar-a-2adad44d-2c26-4ae5-a677-621dafe9b6c7#ref=rss)
-### gesperrt
-
-* [https://www.spiegel.de/politik/kitas-ist-gewaltfreie-erziehung-unerreichbar-podcast](https://www.spiegel.de/politik/kitas-ist-gewaltfreie-erziehung-unerreichbar-podcast-a-a0aee69a-4d58-460d-b5da-e2d4031b6126#ref=rss)
-* [https://www.spiegel.de/familie/kitas-ist-gewaltfreie-erziehung-unerreichbar](https://www.spiegel.de/familie/kitas-ist-gewaltfreie-erziehung-unerreichbar-a-2adad44d-2c26-4ae5-a677-621dafe9b6c7#ref=rss)
-### schockierende
-
-* [https://www.spiegel.de/politik/kitas-ist-gewaltfreie-erziehung-unerreichbar-podcast](https://www.spiegel.de/politik/kitas-ist-gewaltfreie-erziehung-unerreichbar-podcast-a-a0aee69a-4d58-460d-b5da-e2d4031b6126#ref=rss)
-* [https://www.spiegel.de/familie/kitas-ist-gewaltfreie-erziehung-unerreichbar](https://www.spiegel.de/familie/kitas-ist-gewaltfreie-erziehung-unerreichbar-a-2adad44d-2c26-4ae5-a677-621dafe9b6c7#ref=rss)
-### lenken
-
-* [https://www.spiegel.de/politik/kitas-ist-gewaltfreie-erziehung-unerreichbar-podcast](https://www.spiegel.de/politik/kitas-ist-gewaltfreie-erziehung-unerreichbar-podcast-a-a0aee69a-4d58-460d-b5da-e2d4031b6126#ref=rss)
-* [https://www.spiegel.de/familie/kitas-ist-gewaltfreie-erziehung-unerreichbar](https://www.spiegel.de/familie/kitas-ist-gewaltfreie-erziehung-unerreichbar-a-2adad44d-2c26-4ae5-a677-621dafe9b6c7#ref=rss)
-### blick
-
-* [https://www.spiegel.de/politik/kitas-ist-gewaltfreie-erziehung-unerreichbar-podcast](https://www.spiegel.de/politik/kitas-ist-gewaltfreie-erziehung-unerreichbar-podcast-a-a0aee69a-4d58-460d-b5da-e2d4031b6126#ref=rss)
-* [https://www.spiegel.de/familie/kitas-ist-gewaltfreie-erziehung-unerreichbar](https://www.spiegel.de/familie/kitas-ist-gewaltfreie-erziehung-unerreichbar-a-2adad44d-2c26-4ae5-a677-621dafe9b6c7#ref=rss)
-### systemische
-
-* [https://www.spiegel.de/politik/kitas-ist-gewaltfreie-erziehung-unerreichbar-podcast](https://www.spiegel.de/politik/kitas-ist-gewaltfreie-erziehung-unerreichbar-podcast-a-a0aee69a-4d58-460d-b5da-e2d4031b6126#ref=rss)
-* [https://www.spiegel.de/familie/kitas-ist-gewaltfreie-erziehung-unerreichbar](https://www.spiegel.de/familie/kitas-ist-gewaltfreie-erziehung-unerreichbar-a-2adad44d-2c26-4ae5-a677-621dafe9b6c7#ref=rss)
-### missstände
-
-* [https://www.spiegel.de/politik/kitas-ist-gewaltfreie-erziehung-unerreichbar-podcast](https://www.spiegel.de/politik/kitas-ist-gewaltfreie-erziehung-unerreichbar-podcast-a-a0aee69a-4d58-460d-b5da-e2d4031b6126#ref=rss)
-* [https://www.spiegel.de/familie/kitas-ist-gewaltfreie-erziehung-unerreichbar](https://www.spiegel.de/familie/kitas-ist-gewaltfreie-erziehung-unerreichbar-a-2adad44d-2c26-4ae5-a677-621dafe9b6c7#ref=rss)
-### spiegelredakteurin
-
-* [https://www.spiegel.de/politik/kitas-ist-gewaltfreie-erziehung-unerreichbar-podcast](https://www.spiegel.de/politik/kitas-ist-gewaltfreie-erziehung-unerreichbar-podcast-a-a0aee69a-4d58-460d-b5da-e2d4031b6126#ref=rss)
-* [https://www.spiegel.de/familie/kitas-ist-gewaltfreie-erziehung-unerreichbar](https://www.spiegel.de/familie/kitas-ist-gewaltfreie-erziehung-unerreichbar-a-2adad44d-2c26-4ae5-a677-621dafe9b6c7#ref=rss)
-### miriam
-
-* [https://www.spiegel.de/politik/kitas-ist-gewaltfreie-erziehung-unerreichbar-podcast](https://www.spiegel.de/politik/kitas-ist-gewaltfreie-erziehung-unerreichbar-podcast-a-a0aee69a-4d58-460d-b5da-e2d4031b6126#ref=rss)
-* [https://www.spiegel.de/familie/kitas-ist-gewaltfreie-erziehung-unerreichbar](https://www.spiegel.de/familie/kitas-ist-gewaltfreie-erziehung-unerreichbar-a-2adad44d-2c26-4ae5-a677-621dafe9b6c7#ref=rss)
-### olbrisch
-
-* [https://www.spiegel.de/politik/kitas-ist-gewaltfreie-erziehung-unerreichbar-podcast](https://www.spiegel.de/politik/kitas-ist-gewaltfreie-erziehung-unerreichbar-podcast-a-a0aee69a-4d58-460d-b5da-e2d4031b6126#ref=rss)
-* [https://www.spiegel.de/familie/kitas-ist-gewaltfreie-erziehung-unerreichbar](https://www.spiegel.de/familie/kitas-ist-gewaltfreie-erziehung-unerreichbar-a-2adad44d-2c26-4ae5-a677-621dafe9b6c7#ref=rss)
-### berichtet
-
-* [https://www.spiegel.de/politik/kitas-ist-gewaltfreie-erziehung-unerreichbar-podcast](https://www.spiegel.de/politik/kitas-ist-gewaltfreie-erziehung-unerreichbar-podcast-a-a0aee69a-4d58-460d-b5da-e2d4031b6126#ref=rss)
-* [https://www.spiegel.de/familie/kitas-ist-gewaltfreie-erziehung-unerreichbar](https://www.spiegel.de/familie/kitas-ist-gewaltfreie-erziehung-unerreichbar-a-2adad44d-2c26-4ae5-a677-621dafe9b6c7#ref=rss)
-### ulm
-
-* [https://www.spiegel.de/panorama/justiz/ulm-waffenverbotszone-in-der-innenstadt-kommt-am-15-oktober](https://www.spiegel.de/panorama/justiz/ulm-waffenverbotszone-in-der-innenstadt-kommt-am-15-oktober-a-2e41b04c-c94a-4b76-bbe9-fe6d5e6fe03e#ref=rss)
-### künftig
-
-* [https://www.spiegel.de/panorama/justiz/ulm-waffenverbotszone-in-der-innenstadt-kommt-am-15-oktober](https://www.spiegel.de/panorama/justiz/ulm-waffenverbotszone-in-der-innenstadt-kommt-am-15-oktober-a-2e41b04c-c94a-4b76-bbe9-fe6d5e6fe03e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-hurrikan-milton-donald-trumps-fitness-literaturnobelpreis-fuer-suedkoreanerin-han-kang](https://www.spiegel.de/politik/deutschland/news-des-tages-hurrikan-milton-donald-trumps-fitness-literaturnobelpreis-fuer-suedkoreanerin-han-kang-a-56083cf7-7fbb-42b3-ae75-5a22e4286524#ref=rss)
-### einmal
-
-* [https://www.spiegel.de/wissenschaft/natur/klima-forschende-warnen-vor-temperatur-overshoot-einmal-drei-grad-und-zurueck-das-wird-wohl-nichts](https://www.spiegel.de/wissenschaft/natur/klima-forschende-warnen-vor-temperatur-overshoot-einmal-drei-grad-und-zurueck-das-wird-wohl-nichts-a-29fdfb5c-2492-4c01-9538-15eb3a9b8cf6#ref=rss)
-* [https://www.spiegel.de/kultur/hugh-jackman-hollywoodstar-gibt-wieder-den-grossen-showman-im-musical](https://www.spiegel.de/kultur/hugh-jackman-hollywoodstar-gibt-wieder-den-grossen-showman-im-musical-a-820735fa-2530-455b-9cf7-21ce267b185c#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/wissenschaft/natur/klima-forschende-warnen-vor-temperatur-overshoot-einmal-drei-grad-und-zurueck-das-wird-wohl-nichts](https://www.spiegel.de/wissenschaft/natur/klima-forschende-warnen-vor-temperatur-overshoot-einmal-drei-grad-und-zurueck-das-wird-wohl-nichts-a-29fdfb5c-2492-4c01-9538-15eb3a9b8cf6#ref=rss)
-* [https://www.spiegel.de/kultur/musik/sean-diddy-combs-darum-steht-der-rapper-vor-gericht](https://www.spiegel.de/kultur/musik/sean-diddy-combs-darum-steht-der-rapper-vor-gericht-a-64accb82-0922-404a-ab4e-b75c48583d30#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/wissenschaft/natur/klima-forschende-warnen-vor-temperatur-overshoot-einmal-drei-grad-und-zurueck-das-wird-wohl-nichts](https://www.spiegel.de/wissenschaft/natur/klima-forschende-warnen-vor-temperatur-overshoot-einmal-drei-grad-und-zurueck-das-wird-wohl-nichts-a-29fdfb5c-2492-4c01-9538-15eb3a9b8cf6#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/deutscher-wald-kann-seine-funktion-als-klimaretter-nicht-mehr-erfuellen-dein-feind-der-baum](https://www.spiegel.de/wissenschaft/natur/deutscher-wald-kann-seine-funktion-als-klimaretter-nicht-mehr-erfuellen-dein-feind-der-baum-a-c624d22a-8691-4863-8297-9a0c6a9057f1#ref=rss)
-### großen
-
-* [https://www.spiegel.de/kultur/hugh-jackman-hollywoodstar-gibt-wieder-den-grossen-showman-im-musical](https://www.spiegel.de/kultur/hugh-jackman-hollywoodstar-gibt-wieder-den-grossen-showman-im-musical-a-820735fa-2530-455b-9cf7-21ce267b185c#ref=rss)
-* [https://www.spiegel.de/kultur/elton-john-erhaelt-auszeichnung-fuer-sein-lebenswerk-und-beschimpft-elon-musk](https://www.spiegel.de/kultur/elton-john-erhaelt-auszeichnung-fuer-sein-lebenswerk-und-beschimpft-elon-musk-a-15d445eb-3d1a-4a57-b3b3-a3edca2ddb6d#ref=rss)
-### talent
-
-* [https://www.spiegel.de/kultur/hugh-jackman-hollywoodstar-gibt-wieder-den-grossen-showman-im-musical](https://www.spiegel.de/kultur/hugh-jackman-hollywoodstar-gibt-wieder-den-grossen-showman-im-musical-a-820735fa-2530-455b-9cf7-21ce267b185c#ref=rss)
-* [https://www.spiegel.de/panorama/welthundetag-diese-hunde-sind-beruehmt](https://www.spiegel.de/panorama/welthundetag-diese-hunde-sind-beruehmt-a-891c7dba-c4da-4f8b-8a70-297f22768ae0#ref=rss)
-### abdelhamid
-
-* [https://www.spiegel.de/panorama/justiz/islamistischer-tiktok-star-abdelhamid-steht-unter-betrugsverdacht](https://www.spiegel.de/panorama/justiz/islamistischer-tiktok-star-abdelhamid-steht-unter-betrugsverdacht-a-c60c5feb-110c-4059-981c-a3327f50c149#ref=rss)
-### setzt
-
-* [https://www.spiegel.de/panorama/justiz/islamistischer-tiktok-star-abdelhamid-steht-unter-betrugsverdacht](https://www.spiegel.de/panorama/justiz/islamistischer-tiktok-star-abdelhamid-steht-unter-betrugsverdacht-a-c60c5feb-110c-4059-981c-a3327f50c149#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-umsatz-bricht-um-13-prozent-ein-verluste-auch-bei-mercedes](https://www.spiegel.de/wirtschaft/unternehmen/bmw-umsatz-bricht-um-13-prozent-ein-verluste-auch-bei-mercedes-a-a7bf06c1-0876-4a7c-b779-a8ce2baf8a1e#ref=rss)
-### behörden
-
-* [https://www.spiegel.de/panorama/justiz/islamistischer-tiktok-star-abdelhamid-steht-unter-betrugsverdacht](https://www.spiegel.de/panorama/justiz/islamistischer-tiktok-star-abdelhamid-steht-unter-betrugsverdacht-a-c60c5feb-110c-4059-981c-a3327f50c149#ref=rss)
-* [https://www.spiegel.de/kultur/musik/sean-diddy-combs-darum-steht-der-rapper-vor-gericht](https://www.spiegel.de/kultur/musik/sean-diddy-combs-darum-steht-der-rapper-vor-gericht-a-64accb82-0922-404a-ab4e-b75c48583d30#ref=rss)
-### bundestag
-
-* [https://www.spiegel.de/politik/nahost-debatte-bundestag-streitet-ueber-zusammenhang-von-antisemitismus-und-migration](https://www.spiegel.de/politik/nahost-debatte-bundestag-streitet-ueber-zusammenhang-von-antisemitismus-und-migration-a-45f2d57c-26aa-45fd-ba51-b38b385fa985#ref=rss)
-### antisemitismus
-
-* [https://www.spiegel.de/politik/nahost-debatte-bundestag-streitet-ueber-zusammenhang-von-antisemitismus-und-migration](https://www.spiegel.de/politik/nahost-debatte-bundestag-streitet-ueber-zusammenhang-von-antisemitismus-und-migration-a-45f2d57c-26aa-45fd-ba51-b38b385fa985#ref=rss)
-### migration
-
-* [https://www.spiegel.de/politik/nahost-debatte-bundestag-streitet-ueber-zusammenhang-von-antisemitismus-und-migration](https://www.spiegel.de/politik/nahost-debatte-bundestag-streitet-ueber-zusammenhang-von-antisemitismus-und-migration-a-45f2d57c-26aa-45fd-ba51-b38b385fa985#ref=rss)
-### kampf
-
-* [https://www.spiegel.de/politik/nahost-debatte-bundestag-streitet-ueber-zusammenhang-von-antisemitismus-und-migration](https://www.spiegel.de/politik/nahost-debatte-bundestag-streitet-ueber-zusammenhang-von-antisemitismus-und-migration-a-45f2d57c-26aa-45fd-ba51-b38b385fa985#ref=rss)
-### ruby
-
-* [https://www.spiegel.de/ausland/geisterschiff-in-der-nordsee-wie-gefaehrlich-ist-die-ruby](https://www.spiegel.de/ausland/geisterschiff-in-der-nordsee-wie-gefaehrlich-ist-die-ruby-a-4798364c-1104-407a-be61-a5c726d5295e#ref=rss)
-### sean
-
-* [https://www.spiegel.de/kultur/musik/sean-diddy-combs-darum-steht-der-rapper-vor-gericht](https://www.spiegel.de/kultur/musik/sean-diddy-combs-darum-steht-der-rapper-vor-gericht-a-64accb82-0922-404a-ab4e-b75c48583d30#ref=rss)
-### diddy
-
-* [https://www.spiegel.de/kultur/musik/sean-diddy-combs-darum-steht-der-rapper-vor-gericht](https://www.spiegel.de/kultur/musik/sean-diddy-combs-darum-steht-der-rapper-vor-gericht-a-64accb82-0922-404a-ab4e-b75c48583d30#ref=rss)
-### combs
-
-* [https://www.spiegel.de/kultur/musik/sean-diddy-combs-darum-steht-der-rapper-vor-gericht](https://www.spiegel.de/kultur/musik/sean-diddy-combs-darum-steht-der-rapper-vor-gericht-a-64accb82-0922-404a-ab4e-b75c48583d30#ref=rss)
-### rapper
-
-* [https://www.spiegel.de/kultur/musik/sean-diddy-combs-darum-steht-der-rapper-vor-gericht](https://www.spiegel.de/kultur/musik/sean-diddy-combs-darum-steht-der-rapper-vor-gericht-a-64accb82-0922-404a-ab4e-b75c48583d30#ref=rss)
-### gazastreifen
-
-* [https://www.spiegel.de/ausland/gazastreifen-uno-kommission-erhebt-schwere-vorwuerfe-gegen-israel](https://www.spiegel.de/ausland/gazastreifen-uno-kommission-erhebt-schwere-vorwuerfe-gegen-israel-a-151bc6cc-c36a-42ea-908c-685cee96e8dc#ref=rss)
-### elton
-
-* [https://www.spiegel.de/kultur/elton-john-erhaelt-auszeichnung-fuer-sein-lebenswerk-und-beschimpft-elon-musk](https://www.spiegel.de/kultur/elton-john-erhaelt-auszeichnung-fuer-sein-lebenswerk-und-beschimpft-elon-musk-a-15d445eb-3d1a-4a57-b3b3-a3edca2ddb6d#ref=rss)
-### john
-
-* [https://www.spiegel.de/kultur/elton-john-erhaelt-auszeichnung-fuer-sein-lebenswerk-und-beschimpft-elon-musk](https://www.spiegel.de/kultur/elton-john-erhaelt-auszeichnung-fuer-sein-lebenswerk-und-beschimpft-elon-musk-a-15d445eb-3d1a-4a57-b3b3-a3edca2ddb6d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/krefeld-polizei-schoss-verdaechtigen-vor-kino-nieder-mann-hatte-brennbare-fluessigkeit-dabei](https://www.spiegel.de/panorama/justiz/krefeld-polizei-schoss-verdaechtigen-vor-kino-nieder-mann-hatte-brennbare-fluessigkeit-dabei-a-77be65f2-d7d5-4493-a21e-08edb30f7a08#ref=rss)
+* [https://www.spiegel.de/panorama/koeln-aufwendigste-bombenentschaerfung-seit-dem-zweiten-weltkrieg-laeuft](https://www.spiegel.de/panorama/koeln-aufwendigste-bombenentschaerfung-seit-dem-zweiten-weltkrieg-laeuft-a-19198bfc-555a-42c4-a9a9-92f20e1e9c64#ref=rss)
 ### elon
 
-* [https://www.spiegel.de/kultur/elton-john-erhaelt-auszeichnung-fuer-sein-lebenswerk-und-beschimpft-elon-musk](https://www.spiegel.de/kultur/elton-john-erhaelt-auszeichnung-fuer-sein-lebenswerk-und-beschimpft-elon-musk-a-15d445eb-3d1a-4a57-b3b3-a3edca2ddb6d#ref=rss)
+* [https://www.spiegel.de/ausland/elon-musk-beugt-sich-brasiliens-oberstem-gericht](https://www.spiegel.de/ausland/elon-musk-beugt-sich-brasiliens-oberstem-gericht-a-3e6ec7f4-33a3-41e0-9488-d84bfd2ee75c#ref=rss)
 ### musk
 
-* [https://www.spiegel.de/kultur/elton-john-erhaelt-auszeichnung-fuer-sein-lebenswerk-und-beschimpft-elon-musk](https://www.spiegel.de/kultur/elton-john-erhaelt-auszeichnung-fuer-sein-lebenswerk-und-beschimpft-elon-musk-a-15d445eb-3d1a-4a57-b3b3-a3edca2ddb6d#ref=rss)
-### welthundetag
+* [https://www.spiegel.de/ausland/elon-musk-beugt-sich-brasiliens-oberstem-gericht](https://www.spiegel.de/ausland/elon-musk-beugt-sich-brasiliens-oberstem-gericht-a-3e6ec7f4-33a3-41e0-9488-d84bfd2ee75c#ref=rss)
+### läuft
 
-* [https://www.spiegel.de/panorama/welthundetag-diese-hunde-sind-beruehmt](https://www.spiegel.de/panorama/welthundetag-diese-hunde-sind-beruehmt-a-891c7dba-c4da-4f8b-8a70-297f22768ae0#ref=rss)
-### wald
+* [https://www.spiegel.de/ausland/elon-musk-beugt-sich-brasiliens-oberstem-gericht](https://www.spiegel.de/ausland/elon-musk-beugt-sich-brasiliens-oberstem-gericht-a-3e6ec7f4-33a3-41e0-9488-d84bfd2ee75c#ref=rss)
+* [https://www.spiegel.de/panorama/koeln-aufwendigste-bombenentschaerfung-seit-dem-zweiten-weltkrieg-laeuft](https://www.spiegel.de/panorama/koeln-aufwendigste-bombenentschaerfung-seit-dem-zweiten-weltkrieg-laeuft-a-19198bfc-555a-42c4-a9a9-92f20e1e9c64#ref=rss)
+### kühlungsborn
 
-* [https://www.spiegel.de/wissenschaft/natur/deutscher-wald-kann-seine-funktion-als-klimaretter-nicht-mehr-erfuellen-dein-feind-der-baum](https://www.spiegel.de/wissenschaft/natur/deutscher-wald-kann-seine-funktion-als-klimaretter-nicht-mehr-erfuellen-dein-feind-der-baum-a-c624d22a-8691-4863-8297-9a0c6a9057f1#ref=rss)
-### funktion
+* [https://www.spiegel.de/panorama/kuehlungsborn-feuer-auf-oeltanker-in-der-ostsee-ausgebrochen](https://www.spiegel.de/panorama/kuehlungsborn-feuer-auf-oeltanker-in-der-ostsee-ausgebrochen-a-beb33acb-b314-4e40-82aa-04da35bdbba9#ref=rss)
+### öltanker
 
-* [https://www.spiegel.de/wissenschaft/natur/deutscher-wald-kann-seine-funktion-als-klimaretter-nicht-mehr-erfuellen-dein-feind-der-baum](https://www.spiegel.de/wissenschaft/natur/deutscher-wald-kann-seine-funktion-als-klimaretter-nicht-mehr-erfuellen-dein-feind-der-baum-a-c624d22a-8691-4863-8297-9a0c6a9057f1#ref=rss)
-### klimaretter
+* [https://www.spiegel.de/panorama/kuehlungsborn-feuer-auf-oeltanker-in-der-ostsee-ausgebrochen](https://www.spiegel.de/panorama/kuehlungsborn-feuer-auf-oeltanker-in-der-ostsee-ausgebrochen-a-beb33acb-b314-4e40-82aa-04da35bdbba9#ref=rss)
+### ostsee
 
-* [https://www.spiegel.de/wissenschaft/natur/deutscher-wald-kann-seine-funktion-als-klimaretter-nicht-mehr-erfuellen-dein-feind-der-baum](https://www.spiegel.de/wissenschaft/natur/deutscher-wald-kann-seine-funktion-als-klimaretter-nicht-mehr-erfuellen-dein-feind-der-baum-a-c624d22a-8691-4863-8297-9a0c6a9057f1#ref=rss)
-### mercedes
+* [https://www.spiegel.de/panorama/kuehlungsborn-feuer-auf-oeltanker-in-der-ostsee-ausgebrochen](https://www.spiegel.de/panorama/kuehlungsborn-feuer-auf-oeltanker-in-der-ostsee-ausgebrochen-a-beb33acb-b314-4e40-82aa-04da35bdbba9#ref=rss)
+### bergsteiger
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-umsatz-bricht-um-13-prozent-ein-verluste-auch-bei-mercedes](https://www.spiegel.de/wirtschaft/unternehmen/bmw-umsatz-bricht-um-13-prozent-ein-verluste-auch-bei-mercedes-a-a7bf06c1-0876-4a7c-b779-a8ce2baf8a1e#ref=rss)
-### schwächelt
+* [https://www.spiegel.de/sport/bergsteigen-18-jaehriger-bezwingt-als-juengster-bergsteiger-alle-achttausender](https://www.spiegel.de/sport/bergsteigen-18-jaehriger-bezwingt-als-juengster-bergsteiger-alle-achttausender-a-541994dd-a788-4f22-9cb5-e41368bc3fba#ref=rss)
+### burkhard
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-umsatz-bricht-um-13-prozent-ein-verluste-auch-bei-mercedes](https://www.spiegel.de/wirtschaft/unternehmen/bmw-umsatz-bricht-um-13-prozent-ein-verluste-auch-bei-mercedes-a-a7bf06c1-0876-4a7c-b779-a8ce2baf8a1e#ref=rss)
-### bmw
+* [https://www.spiegel.de/panorama/justiz/burkhard-garweg-fahndung-nach-ex-raf-terrorist-gesuchte-frau-meldet-sich](https://www.spiegel.de/panorama/justiz/burkhard-garweg-fahndung-nach-ex-raf-terrorist-gesuchte-frau-meldet-sich-a-08f8a3da-0f5a-4a00-ba74-7650e313d923#ref=rss)
+### garweg
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-umsatz-bricht-um-13-prozent-ein-verluste-auch-bei-mercedes](https://www.spiegel.de/wirtschaft/unternehmen/bmw-umsatz-bricht-um-13-prozent-ein-verluste-auch-bei-mercedes-a-a7bf06c1-0876-4a7c-b779-a8ce2baf8a1e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/burkhard-garweg-fahndung-nach-ex-raf-terrorist-gesuchte-frau-meldet-sich](https://www.spiegel.de/panorama/justiz/burkhard-garweg-fahndung-nach-ex-raf-terrorist-gesuchte-frau-meldet-sich-a-08f8a3da-0f5a-4a00-ba74-7650e313d923#ref=rss)
+### frau
+
+* [https://www.spiegel.de/panorama/justiz/burkhard-garweg-fahndung-nach-ex-raf-terrorist-gesuchte-frau-meldet-sich](https://www.spiegel.de/panorama/justiz/burkhard-garweg-fahndung-nach-ex-raf-terrorist-gesuchte-frau-meldet-sich-a-08f8a3da-0f5a-4a00-ba74-7650e313d923#ref=rss)
+### álvaro
+
+* [https://www.spiegel.de/sport/fussball/fussball-alvaro-morata-hatte-depressionen-und-panikattacken](https://www.spiegel.de/sport/fussball/fussball-alvaro-morata-hatte-depressionen-und-panikattacken-a-e965b67c-aad9-43dd-b030-bdcc8b272414#ref=rss)
+### morata
+
+* [https://www.spiegel.de/sport/fussball/fussball-alvaro-morata-hatte-depressionen-und-panikattacken](https://www.spiegel.de/sport/fussball/fussball-alvaro-morata-hatte-depressionen-und-panikattacken-a-e965b67c-aad9-43dd-b030-bdcc8b272414#ref=rss)
+### depressionen
+
+* [https://www.spiegel.de/sport/fussball/fussball-alvaro-morata-hatte-depressionen-und-panikattacken](https://www.spiegel.de/sport/fussball/fussball-alvaro-morata-hatte-depressionen-und-panikattacken-a-e965b67c-aad9-43dd-b030-bdcc8b272414#ref=rss)
+### panikattacken
+
+* [https://www.spiegel.de/sport/fussball/fussball-alvaro-morata-hatte-depressionen-und-panikattacken](https://www.spiegel.de/sport/fussball/fussball-alvaro-morata-hatte-depressionen-und-panikattacken-a-e965b67c-aad9-43dd-b030-bdcc8b272414#ref=rss)
+### unter
+
+* [https://www.spiegel.de/sport/fussball/fussball-alvaro-morata-hatte-depressionen-und-panikattacken](https://www.spiegel.de/sport/fussball/fussball-alvaro-morata-hatte-depressionen-und-panikattacken-a-e965b67c-aad9-43dd-b030-bdcc8b272414#ref=rss)
+* [https://www.spiegel.de/ausland/unifil-und-der-krieg-im-libanon-friedenstruppen-unter-feuer](https://www.spiegel.de/ausland/unifil-und-der-krieg-im-libanon-friedenstruppen-unter-feuer-a-35c12b67-97a2-4708-8652-984761a3cb49#ref=rss)
+### friedensnobelpreis
+
+* [https://www.spiegel.de/ausland/friedensnobelpreis-geht-an-japanische-anti-atomwaffenorganisation](https://www.spiegel.de/ausland/friedensnobelpreis-geht-an-japanische-anti-atomwaffenorganisation-a-b6f57a17-0ce3-4d36-b581-6bd650acbb37#ref=rss)
+### zweiten
+
+* [https://www.spiegel.de/panorama/koeln-aufwendigste-bombenentschaerfung-seit-dem-zweiten-weltkrieg-laeuft](https://www.spiegel.de/panorama/koeln-aufwendigste-bombenentschaerfung-seit-dem-zweiten-weltkrieg-laeuft-a-19198bfc-555a-42c4-a9a9-92f20e1e9c64#ref=rss)
+### weltkrieg
+
+* [https://www.spiegel.de/panorama/koeln-aufwendigste-bombenentschaerfung-seit-dem-zweiten-weltkrieg-laeuft](https://www.spiegel.de/panorama/koeln-aufwendigste-bombenentschaerfung-seit-dem-zweiten-weltkrieg-laeuft-a-19198bfc-555a-42c4-a9a9-92f20e1e9c64#ref=rss)
+### ägypten
+
+* [https://www.spiegel.de/wissenschaft/mensch/3900-jahre-altes-priesterinnengrab-in-aegypten-freigelegt](https://www.spiegel.de/wissenschaft/mensch/3900-jahre-altes-priesterinnengrab-in-aegypten-freigelegt-a-69ea7608-d81d-46ce-8b4b-b7b093f6bd6b#ref=rss)
+### andrew
+
+* [https://www.spiegel.de/panorama/leute/andrew-garfield-im-nyt-podcast-modern-love-bricht-der-schauspieler-in-traenen-aus](https://www.spiegel.de/panorama/leute/andrew-garfield-im-nyt-podcast-modern-love-bricht-der-schauspieler-in-traenen-aus-a-ff6ed75b-7ccc-4de7-bf69-67797c804014#ref=rss)
+### garfield
+
+* [https://www.spiegel.de/panorama/leute/andrew-garfield-im-nyt-podcast-modern-love-bricht-der-schauspieler-in-traenen-aus](https://www.spiegel.de/panorama/leute/andrew-garfield-im-nyt-podcast-modern-love-bricht-der-schauspieler-in-traenen-aus-a-ff6ed75b-7ccc-4de7-bf69-67797c804014#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/deutschland/afd-will-bundestagsabgeordneten-dirk-spaniel-ausschliessen](https://www.spiegel.de/politik/deutschland/afd-will-bundestagsabgeordneten-dirk-spaniel-ausschliessen-a-fa77243f-4842-4565-85de-c6ece316c43c#ref=rss)
+### dirk
+
+* [https://www.spiegel.de/politik/deutschland/afd-will-bundestagsabgeordneten-dirk-spaniel-ausschliessen](https://www.spiegel.de/politik/deutschland/afd-will-bundestagsabgeordneten-dirk-spaniel-ausschliessen-a-fa77243f-4842-4565-85de-c6ece316c43c#ref=rss)
+### spaniel
+
+* [https://www.spiegel.de/politik/deutschland/afd-will-bundestagsabgeordneten-dirk-spaniel-ausschliessen](https://www.spiegel.de/politik/deutschland/afd-will-bundestagsabgeordneten-dirk-spaniel-ausschliessen-a-fa77243f-4842-4565-85de-c6ece316c43c#ref=rss)
+### naomi
+
+* [https://www.spiegel.de/kultur/naomi-campbell-und-der-spendenskandal-kippen-statt-kinderhilfe](https://www.spiegel.de/kultur/naomi-campbell-und-der-spendenskandal-kippen-statt-kinderhilfe-a-95d3f5e1-cf87-46b0-99c9-d0d5a0f0dd08#ref=rss)
+### campbell
+
+* [https://www.spiegel.de/kultur/naomi-campbell-und-der-spendenskandal-kippen-statt-kinderhilfe](https://www.spiegel.de/kultur/naomi-campbell-und-der-spendenskandal-kippen-statt-kinderhilfe-a-95d3f5e1-cf87-46b0-99c9-d0d5a0f0dd08#ref=rss)
+### unifil
+
+* [https://www.spiegel.de/ausland/unifil-und-der-krieg-im-libanon-friedenstruppen-unter-feuer](https://www.spiegel.de/ausland/unifil-und-der-krieg-im-libanon-friedenstruppen-unter-feuer-a-35c12b67-97a2-4708-8652-984761a3cb49#ref=rss)
+### libanon
+
+* [https://www.spiegel.de/ausland/unifil-und-der-krieg-im-libanon-friedenstruppen-unter-feuer](https://www.spiegel.de/ausland/unifil-und-der-krieg-im-libanon-friedenstruppen-unter-feuer-a-35c12b67-97a2-4708-8652-984761a3cb49#ref=rss)
+### lukas
+
+* [https://www.spiegel.de/sport/fussball/lukas-podolski-abschiedsspiel-in-koeln-tor-lob-von-loew-und-emotionales-spektakel](https://www.spiegel.de/sport/fussball/lukas-podolski-abschiedsspiel-in-koeln-tor-lob-von-loew-und-emotionales-spektakel-a-c8a023f8-05d3-4427-811e-bf0081208a42#ref=rss)
+### podolski
+
+* [https://www.spiegel.de/sport/fussball/lukas-podolski-abschiedsspiel-in-koeln-tor-lob-von-loew-und-emotionales-spektakel](https://www.spiegel.de/sport/fussball/lukas-podolski-abschiedsspiel-in-koeln-tor-lob-von-loew-und-emotionales-spektakel-a-c8a023f8-05d3-4427-811e-bf0081208a42#ref=rss)
+### löw
+
+* [https://www.spiegel.de/sport/fussball/lukas-podolski-abschiedsspiel-in-koeln-tor-lob-von-loew-und-emotionales-spektakel](https://www.spiegel.de/sport/fussball/lukas-podolski-abschiedsspiel-in-koeln-tor-lob-von-loew-und-emotionales-spektakel-a-c8a023f8-05d3-4427-811e-bf0081208a42#ref=rss)
+### moritz
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/fachkraeftemangel-moritz-schularick-verlangt-globales-online-testverfahren-fuer-zuwanderer](https://www.spiegel.de/wirtschaft/unternehmen/fachkraeftemangel-moritz-schularick-verlangt-globales-online-testverfahren-fuer-zuwanderer-a-83c61e12-9afc-470d-9f32-560430cc2209#ref=rss)
+### schularick
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/fachkraeftemangel-moritz-schularick-verlangt-globales-online-testverfahren-fuer-zuwanderer](https://www.spiegel.de/wirtschaft/unternehmen/fachkraeftemangel-moritz-schularick-verlangt-globales-online-testverfahren-fuer-zuwanderer-a-83c61e12-9afc-470d-9f32-560430cc2209#ref=rss)
+### onlinetestverfahren
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/fachkraeftemangel-moritz-schularick-verlangt-globales-online-testverfahren-fuer-zuwanderer](https://www.spiegel.de/wirtschaft/unternehmen/fachkraeftemangel-moritz-schularick-verlangt-globales-online-testverfahren-fuer-zuwanderer-a-83c61e12-9afc-470d-9f32-560430cc2209#ref=rss)
 
