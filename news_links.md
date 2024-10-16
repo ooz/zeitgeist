@@ -4,351 +4,333 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### neue
-
-* [https://www.spiegel.de/netzwelt/gadgets/android-15-und-weitere-updates-google-fuehrt-diebstahlschutz-fuer-android-handys-ein](https://www.spiegel.de/netzwelt/gadgets/android-15-und-weitere-updates-google-fuehrt-diebstahlschutz-fuer-android-handys-ein-a-cc301129-b7bb-4f8a-98e4-cc682e14a40f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-shell-jugendstudie-bahnkrise](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-shell-jugendstudie-bahnkrise-a-938ebc11-67c5-4e6e-8267-e0f260a849e0#ref=rss)
-* [https://www.spiegel.de/kultur/neun-fakten-ueber-superman-chistopher-reeve-held-my-beer](https://www.spiegel.de/kultur/neun-fakten-ueber-superman-chistopher-reeve-held-my-beer-a-b07ea221-0586-44c9-b227-b30baf76bf24#ref=rss)
-* [https://www.spiegel.de/auto/pariser-autosalon-mit-diesen-modellen-kaempfen-china-und-europa-um-autofahrer](https://www.spiegel.de/auto/pariser-autosalon-mit-diesen-modellen-kaempfen-china-und-europa-um-autofahrer-a-4783136d-5111-4ec5-9c17-3da7980e9cdb#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/wirtschaft/soziales/klimaschutz-das-koennte-ein-soziales-klimageld-fuer-sie-bedeuten](https://www.spiegel.de/wirtschaft/soziales/klimaschutz-das-koennte-ein-soziales-klimageld-fuer-sie-bedeuten-a-3bb1709b-efba-43e6-8e38-c889053ec2b4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-shell-jugendstudie-bahnkrise](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-shell-jugendstudie-bahnkrise-a-938ebc11-67c5-4e6e-8267-e0f260a849e0#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-israel-und-der-angriff-auf-das-aksa-krankenhaus-drohnen-summen-dann-schlaegt-die-erste-rakete-ein](https://www.spiegel.de/ausland/gaza-israel-und-der-angriff-auf-das-aksa-krankenhaus-drohnen-summen-dann-schlaegt-die-erste-rakete-ein-a-b145237c-813d-4ba7-8151-eb7c07ba8dbf#ref=rss)
-* [https://www.spiegel.de/kultur/neun-fakten-ueber-superman-chistopher-reeve-held-my-beer](https://www.spiegel.de/kultur/neun-fakten-ueber-superman-chistopher-reeve-held-my-beer-a-b07ea221-0586-44c9-b227-b30baf76bf24#ref=rss)
-### shein
-
-* [https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie](https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-a-cfd52f92-8022-44b5-a719-8e40f0dbf7e8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-podcast](https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-podcast-a-795b71f6-0eca-4d85-a26a-3b783eafe93b#ref=rss)
-### verändert
-
-* [https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie](https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-a-cfd52f92-8022-44b5-a719-8e40f0dbf7e8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-podcast](https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-podcast-a-795b71f6-0eca-4d85-a26a-3b783eafe93b#ref=rss)
-### konzern
-
-* [https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie](https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-a-cfd52f92-8022-44b5-a719-8e40f0dbf7e8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-podcast](https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-podcast-a-795b71f6-0eca-4d85-a26a-3b783eafe93b#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/panorama/essen-drei-kinder-schweben-nach-moeglicher-pilzvergiftung-in-lebensgefahr](https://www.spiegel.de/panorama/essen-drei-kinder-schweben-nach-moeglicher-pilzvergiftung-in-lebensgefahr-a-7eccab64-233d-4ec4-8f69-2798de4b0826#ref=rss)
-* [https://www.spiegel.de/kultur/neun-fakten-ueber-superman-chistopher-reeve-held-my-beer](https://www.spiegel.de/kultur/neun-fakten-ueber-superman-chistopher-reeve-held-my-beer-a-b07ea221-0586-44c9-b227-b30baf76bf24#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/kultur/musik/sarah-connor-saengerin-legt-sich-fuer-schwertwale-in-berlin-in-leeres-aquarium](https://www.spiegel.de/kultur/musik/sarah-connor-saengerin-legt-sich-fuer-schwertwale-in-berlin-in-leeres-aquarium-a-06a47a4a-ed25-437f-a21b-d25c8e379a48#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/berlin-schulkind-an-seltener-bakterieller-infektionskrankheit-diphtherie-erkrankt](https://www.spiegel.de/wissenschaft/medizin/berlin-schulkind-an-seltener-bakterieller-infektionskrankheit-diphtherie-erkrankt-a-ffee7dff-a6ea-4f80-943d-5800ebdc05c1#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/gaza-krieg-usa-drohen-israel-offenbar-mit-stopp-von-waffenlieferungen](https://www.spiegel.de/ausland/gaza-krieg-usa-drohen-israel-offenbar-mit-stopp-von-waffenlieferungen-a-60fd66a5-be34-4deb-a1df-162f4639ce57#ref=rss)
-* [https://www.spiegel.de/netzwelt/microsoft-hacker-versuchen-4000-mal-pro-sekunde-passwoerter-zu-stehlen](https://www.spiegel.de/netzwelt/microsoft-hacker-versuchen-4000-mal-pro-sekunde-passwoerter-zu-stehlen-a-216ab029-dc88-4538-9c9c-f150b990b22c#ref=rss)
-* [https://www.spiegel.de/auto/pariser-autosalon-mit-diesen-modellen-kaempfen-china-und-europa-um-autofahrer](https://www.spiegel.de/auto/pariser-autosalon-mit-diesen-modellen-kaempfen-china-und-europa-um-autofahrer-a-4783136d-5111-4ec5-9c17-3da7980e9cdb#ref=rss)
-### china
-
-* [https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie](https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-a-cfd52f92-8022-44b5-a719-8e40f0dbf7e8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-podcast](https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-podcast-a-795b71f6-0eca-4d85-a26a-3b783eafe93b#ref=rss)
-* [https://www.spiegel.de/auto/pariser-autosalon-mit-diesen-modellen-kaempfen-china-und-europa-um-autofahrer](https://www.spiegel.de/auto/pariser-autosalon-mit-diesen-modellen-kaempfen-china-und-europa-um-autofahrer-a-4783136d-5111-4ec5-9c17-3da7980e9cdb#ref=rss)
-### chinesische
-
-* [https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie](https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-a-cfd52f92-8022-44b5-a719-8e40f0dbf7e8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-podcast](https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-podcast-a-795b71f6-0eca-4d85-a26a-3b783eafe93b#ref=rss)
-* [https://www.spiegel.de/auto/pariser-autosalon-mit-diesen-modellen-kaempfen-china-und-europa-um-autofahrer](https://www.spiegel.de/auto/pariser-autosalon-mit-diesen-modellen-kaempfen-china-und-europa-um-autofahrer-a-4783136d-5111-4ec5-9c17-3da7980e9cdb#ref=rss)
-### industrie
-
-* [https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie](https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-a-cfd52f92-8022-44b5-a719-8e40f0dbf7e8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-podcast](https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-podcast-a-795b71f6-0eca-4d85-a26a-3b783eafe93b#ref=rss)
-### drei
-
-* [https://www.spiegel.de/panorama/essen-drei-kinder-schweben-nach-moeglicher-pilzvergiftung-in-lebensgefahr](https://www.spiegel.de/panorama/essen-drei-kinder-schweben-nach-moeglicher-pilzvergiftung-in-lebensgefahr-a-7eccab64-233d-4ec4-8f69-2798de4b0826#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/spanien-stark-bewaffnete-sekte-ausgehoben](https://www.spiegel.de/panorama/justiz/spanien-stark-bewaffnete-sekte-ausgehoben-a-e210572c-9d88-4a9e-8466-cc3fdfa803e7#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/ausland/nordkorea-verbindungsstrassen-nach-suedkorea-gesprengt-spannungen-nehmen-zu](https://www.spiegel.de/ausland/nordkorea-verbindungsstrassen-nach-suedkorea-gesprengt-spannungen-nehmen-zu-a-92296b29-31cc-4078-ae90-e967e5278da0#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-krieg-usa-drohen-israel-offenbar-mit-stopp-von-waffenlieferungen](https://www.spiegel.de/ausland/gaza-krieg-usa-drohen-israel-offenbar-mit-stopp-von-waffenlieferungen-a-60fd66a5-be34-4deb-a1df-162f4639ce57#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-israel-und-der-angriff-auf-das-aksa-krankenhaus-drohnen-summen-dann-schlaegt-die-erste-rakete-ein](https://www.spiegel.de/ausland/gaza-israel-und-der-angriff-auf-das-aksa-krankenhaus-drohnen-summen-dann-schlaegt-die-erste-rakete-ein-a-b145237c-813d-4ba7-8151-eb7c07ba8dbf#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/gaza-krieg-usa-drohen-israel-offenbar-mit-stopp-von-waffenlieferungen](https://www.spiegel.de/ausland/gaza-krieg-usa-drohen-israel-offenbar-mit-stopp-von-waffenlieferungen-a-60fd66a5-be34-4deb-a1df-162f4639ce57#ref=rss)
-* [https://www.spiegel.de/netzwelt/microsoft-hacker-versuchen-4000-mal-pro-sekunde-passwoerter-zu-stehlen](https://www.spiegel.de/netzwelt/microsoft-hacker-versuchen-4000-mal-pro-sekunde-passwoerter-zu-stehlen-a-216ab029-dc88-4538-9c9c-f150b990b22c#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/gaza-krieg-usa-drohen-israel-offenbar-mit-stopp-von-waffenlieferungen](https://www.spiegel.de/ausland/gaza-krieg-usa-drohen-israel-offenbar-mit-stopp-von-waffenlieferungen-a-60fd66a5-be34-4deb-a1df-162f4639ce57#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/israel-rolf-muetzenich-will-botschafter-zu-situation-im-libanon-befragen](https://www.spiegel.de/politik/deutschland/israel-rolf-muetzenich-will-botschafter-zu-situation-im-libanon-befragen-a-8e44ff28-e197-4d7b-ae40-14247c724993#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-shell-jugendstudie-bahnkrise](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-shell-jugendstudie-bahnkrise-a-938ebc11-67c5-4e6e-8267-e0f260a849e0#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/spanien-stark-bewaffnete-sekte-ausgehoben](https://www.spiegel.de/panorama/justiz/spanien-stark-bewaffnete-sekte-ausgehoben-a-e210572c-9d88-4a9e-8466-cc3fdfa803e7#ref=rss)
-* [https://www.spiegel.de/sport/fussball/manchester-united-sparkurs-und-stellenabbau-sir-alex-ferguson-hoert-als-botschafter-auf](https://www.spiegel.de/sport/fussball/manchester-united-sparkurs-und-stellenabbau-sir-alex-ferguson-hoert-als-botschafter-auf-a-4753bbed-1506-4480-8557-ceef3ee65e74#ref=rss)
 ### jahren
 
-* [https://www.spiegel.de/wirtschaft/soziales/klimaschutz-das-koennte-ein-soziales-klimageld-fuer-sie-bedeuten](https://www.spiegel.de/wirtschaft/soziales/klimaschutz-das-koennte-ein-soziales-klimageld-fuer-sie-bedeuten-a-3bb1709b-efba-43e6-8e38-c889053ec2b4#ref=rss)
-* [https://www.spiegel.de/sport/wm-im-kastanienschlagen-in-england-david-jakins-wehrt-sich-gegen-betrugsvorwuerfe](https://www.spiegel.de/sport/wm-im-kastanienschlagen-in-england-david-jakins-wehrt-sich-gegen-betrugsvorwuerfe-a-d6443ae7-7929-4e82-9843-c32c383bfc46#ref=rss)
-### studie
+* [https://www.spiegel.de/wirtschaft/schloss-neuschwanstein-bayern-scheitert-mit-markenklage](https://www.spiegel.de/wirtschaft/schloss-neuschwanstein-bayern-scheitert-mit-markenklage-a-6138ea3d-80e7-417f-b5eb-c9a89e9bc190#ref=rss)
+* [https://www.spiegel.de/panorama/leute/cameron-diaz-erfuellte-sich-in-langer-schauspielpause-ihren-traum](https://www.spiegel.de/panorama/leute/cameron-diaz-erfuellte-sich-in-langer-schauspielpause-ihren-traum-a-d962d9ea-9a62-4652-896a-cff0915d9b38#ref=rss)
+* [https://www.spiegel.de/geschichte/ernest-hemingway-warum-sein-bruder-leicester-seinen-eigenen-inselstaat-gruendete](https://www.spiegel.de/geschichte/ernest-hemingway-warum-sein-bruder-leicester-seinen-eigenen-inselstaat-gruendete-a-f2a32d84-18fe-44c1-81e4-eda2aa125261#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/gesamtmetall-praesident-stefan-wolf-warnt-vor-verlust-von-bis-zu-300-000-jobs](https://www.spiegel.de/wirtschaft/unternehmen/gesamtmetall-praesident-stefan-wolf-warnt-vor-verlust-von-bis-zu-300-000-jobs-a-7987fc9b-fbe8-4441-ad60-0845fd636c90#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-qualifikation-lionel-messi-fuehrt-argentinien-mit-fuenf-torbeteiligungen-zu-6-0-sieg](https://www.spiegel.de/sport/fussball/wm-qualifikation-lionel-messi-fuehrt-argentinien-mit-fuenf-torbeteiligungen-zu-6-0-sieg-a-d9643a9b-7055-43a7-86b3-ab9db4647eb8#ref=rss)
+### viele
 
-* [https://www.spiegel.de/wirtschaft/soziales/klimaschutz-das-koennte-ein-soziales-klimageld-fuer-sie-bedeuten](https://www.spiegel.de/wirtschaft/soziales/klimaschutz-das-koennte-ein-soziales-klimageld-fuer-sie-bedeuten-a-3bb1709b-efba-43e6-8e38-c889053ec2b4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-shell-jugendstudie-bahnkrise](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-shell-jugendstudie-bahnkrise-a-938ebc11-67c5-4e6e-8267-e0f260a849e0#ref=rss)
-### franziska
+* [https://www.spiegel.de/panorama/nigeria-fast-hundert-tote-bei-explosion-von-tanklastwagen](https://www.spiegel.de/panorama/nigeria-fast-hundert-tote-bei-explosion-von-tanklastwagen-a-c9961e4c-b57a-4a3c-af33-cf8b8288d68f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ueber-geschlechterparitaet-in-der-bundesregierung-wir-tun-damit-auch-den-frauen-keinen-gefallen](https://www.spiegel.de/politik/deutschland/friedrich-merz-ueber-geschlechterparitaet-in-der-bundesregierung-wir-tun-damit-auch-den-frauen-keinen-gefallen-a-84ec18ef-67ad-4085-a928-2dea15b525be#ref=rss)
+* [https://www.spiegel.de/ausland/asylpolitik-italiens-ministerpraesidentin-giorgia-meloni-deportiert-fluechtlinge-nach-albanien](https://www.spiegel.de/ausland/asylpolitik-italiens-ministerpraesidentin-giorgia-meloni-deportiert-fluechtlinge-nach-albanien-a-0cda5474-4cc7-4d01-9548-8b4454700d4d#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/shell-jugendstudie-junge-radikale-maenner-als-sorgenkinder-der-nation](https://www.spiegel.de/panorama/bildung/shell-jugendstudie-junge-radikale-maenner-als-sorgenkinder-der-nation-a-77f584f0-c1a6-4ca6-8fa1-05e58a89d717#ref=rss)
+* [https://www.spiegel.de/panorama/koenigsbronn-auto-erfasst-ausgebrochene-schafherde-13-tiere-tot](https://www.spiegel.de/panorama/koenigsbronn-auto-erfasst-ausgebrochene-schafherde-13-tiere-tot-a-14a05970-21fd-4886-8c9e-6644661d181f#ref=rss)
+### radikale
 
-* [https://www.spiegel.de/panorama/justiz/franziska-giffey-angriff-auf-wirtschaftssenatorin-hat-der-beschuldigte-bewusst-gehandelt-oder-im-wahn](https://www.spiegel.de/panorama/justiz/franziska-giffey-angriff-auf-wirtschaftssenatorin-hat-der-beschuldigte-bewusst-gehandelt-oder-im-wahn-a-c2ff3da8-2d26-4644-a484-9b8f7d6365b5#ref=rss)
-### giffey
+* [https://www.spiegel.de/panorama/gesellschaft/dietrich-bonhoeffer-nationalistische-christen-huldigen-widerstandskaempfer-bischoefe-protestieren](https://www.spiegel.de/panorama/gesellschaft/dietrich-bonhoeffer-nationalistische-christen-huldigen-widerstandskaempfer-bischoefe-protestieren-a-98210b4e-e83a-4147-ae87-ce3e0503df27#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/shell-jugendstudie-junge-radikale-maenner-als-sorgenkinder-der-nation](https://www.spiegel.de/panorama/bildung/shell-jugendstudie-junge-radikale-maenner-als-sorgenkinder-der-nation-a-77f584f0-c1a6-4ca6-8fa1-05e58a89d717#ref=rss)
+### usa
 
-* [https://www.spiegel.de/panorama/justiz/franziska-giffey-angriff-auf-wirtschaftssenatorin-hat-der-beschuldigte-bewusst-gehandelt-oder-im-wahn](https://www.spiegel.de/panorama/justiz/franziska-giffey-angriff-auf-wirtschaftssenatorin-hat-der-beschuldigte-bewusst-gehandelt-oder-im-wahn-a-c2ff3da8-2d26-4644-a484-9b8f7d6365b5#ref=rss)
-### angriff
+* [https://www.spiegel.de/panorama/gesellschaft/dietrich-bonhoeffer-nationalistische-christen-huldigen-widerstandskaempfer-bischoefe-protestieren](https://www.spiegel.de/panorama/gesellschaft/dietrich-bonhoeffer-nationalistische-christen-huldigen-widerstandskaempfer-bischoefe-protestieren-a-98210b4e-e83a-4147-ae87-ce3e0503df27#ref=rss)
+* [https://www.spiegel.de/ausland/gazastreifen-usa-drohen-israel-mit-kuerzung-der-militaerhilfe-bei-anhaltender-humanitaerer-krise](https://www.spiegel.de/ausland/gazastreifen-usa-drohen-israel-mit-kuerzung-der-militaerhilfe-bei-anhaltender-humanitaerer-krise-a-3ce54fd0-54c6-4f6b-a072-bb2c4c41a0b7#ref=rss)
+* [https://www.spiegel.de/ausland/usa-konservative-muetter-kaempfen-fuer-strengere-waffengesetze-die-waffen-rebellinnen-aus-der-vorstadt](https://www.spiegel.de/ausland/usa-konservative-muetter-kaempfen-fuer-strengere-waffengesetze-die-waffen-rebellinnen-aus-der-vorstadt-a-7fa33714-0adc-4c30-91ca-01fdabbbec40#ref=rss)
+### bundesregierung
 
-* [https://www.spiegel.de/panorama/justiz/franziska-giffey-angriff-auf-wirtschaftssenatorin-hat-der-beschuldigte-bewusst-gehandelt-oder-im-wahn](https://www.spiegel.de/panorama/justiz/franziska-giffey-angriff-auf-wirtschaftssenatorin-hat-der-beschuldigte-bewusst-gehandelt-oder-im-wahn-a-c2ff3da8-2d26-4644-a484-9b8f7d6365b5#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-israel-und-der-angriff-auf-das-aksa-krankenhaus-drohnen-summen-dann-schlaegt-die-erste-rakete-ein](https://www.spiegel.de/ausland/gaza-israel-und-der-angriff-auf-das-aksa-krankenhaus-drohnen-summen-dann-schlaegt-die-erste-rakete-ein-a-b145237c-813d-4ba7-8151-eb7c07ba8dbf#ref=rss)
-### wirtschaftssenatorin
+* [https://www.spiegel.de/netzwelt/games/computerspielfoerderung-games-entwickler-bekommen-bald-erstmals-stipendien-vom-bund](https://www.spiegel.de/netzwelt/games/computerspielfoerderung-games-entwickler-bekommen-bald-erstmals-stipendien-vom-bund-a-5401d73a-5608-400c-9e98-bd201bbc6490#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ueber-geschlechterparitaet-in-der-bundesregierung-wir-tun-damit-auch-den-frauen-keinen-gefallen](https://www.spiegel.de/politik/deutschland/friedrich-merz-ueber-geschlechterparitaet-in-der-bundesregierung-wir-tun-damit-auch-den-frauen-keinen-gefallen-a-84ec18ef-67ad-4085-a928-2dea15b525be#ref=rss)
+### taiwan
 
-* [https://www.spiegel.de/panorama/justiz/franziska-giffey-angriff-auf-wirtschaftssenatorin-hat-der-beschuldigte-bewusst-gehandelt-oder-im-wahn](https://www.spiegel.de/panorama/justiz/franziska-giffey-angriff-auf-wirtschaftssenatorin-hat-der-beschuldigte-bewusst-gehandelt-oder-im-wahn-a-c2ff3da8-2d26-4644-a484-9b8f7d6365b5#ref=rss)
-### bewusst
+* [https://www.spiegel.de/ausland/taiwan-xi-jinping-besucht-front-und-bekraeftigt-angeblichen-anspruch-chinas](https://www.spiegel.de/ausland/taiwan-xi-jinping-besucht-front-und-bekraeftigt-angeblichen-anspruch-chinas-a-82bb5651-c69c-4724-8c9d-5b1bc73404aa#ref=rss)
+### nation
 
-* [https://www.spiegel.de/panorama/justiz/franziska-giffey-angriff-auf-wirtschaftssenatorin-hat-der-beschuldigte-bewusst-gehandelt-oder-im-wahn](https://www.spiegel.de/panorama/justiz/franziska-giffey-angriff-auf-wirtschaftssenatorin-hat-der-beschuldigte-bewusst-gehandelt-oder-im-wahn-a-c2ff3da8-2d26-4644-a484-9b8f7d6365b5#ref=rss)
-### gehandelt
+* [https://www.spiegel.de/panorama/bildung/shell-jugendstudie-junge-radikale-maenner-als-sorgenkinder-der-nation](https://www.spiegel.de/panorama/bildung/shell-jugendstudie-junge-radikale-maenner-als-sorgenkinder-der-nation-a-77f584f0-c1a6-4ca6-8fa1-05e58a89d717#ref=rss)
+* [https://www.spiegel.de/geschichte/ernest-hemingway-warum-sein-bruder-leicester-seinen-eigenen-inselstaat-gruendete](https://www.spiegel.de/geschichte/ernest-hemingway-warum-sein-bruder-leicester-seinen-eigenen-inselstaat-gruendete-a-f2a32d84-18fe-44c1-81e4-eda2aa125261#ref=rss)
+### israel
 
-* [https://www.spiegel.de/panorama/justiz/franziska-giffey-angriff-auf-wirtschaftssenatorin-hat-der-beschuldigte-bewusst-gehandelt-oder-im-wahn](https://www.spiegel.de/panorama/justiz/franziska-giffey-angriff-auf-wirtschaftssenatorin-hat-der-beschuldigte-bewusst-gehandelt-oder-im-wahn-a-c2ff3da8-2d26-4644-a484-9b8f7d6365b5#ref=rss)
-### wahn
+* [https://www.spiegel.de/ausland/gazastreifen-usa-drohen-israel-mit-kuerzung-der-militaerhilfe-bei-anhaltender-humanitaerer-krise](https://www.spiegel.de/ausland/gazastreifen-usa-drohen-israel-mit-kuerzung-der-militaerhilfe-bei-anhaltender-humanitaerer-krise-a-3ce54fd0-54c6-4f6b-a072-bb2c4c41a0b7#ref=rss)
+### donald
 
-* [https://www.spiegel.de/panorama/justiz/franziska-giffey-angriff-auf-wirtschaftssenatorin-hat-der-beschuldigte-bewusst-gehandelt-oder-im-wahn](https://www.spiegel.de/panorama/justiz/franziska-giffey-angriff-auf-wirtschaftssenatorin-hat-der-beschuldigte-bewusst-gehandelt-oder-im-wahn-a-c2ff3da8-2d26-4644-a484-9b8f7d6365b5#ref=rss)
-### eigentlich
+* [https://www.spiegel.de/wirtschaft/unternehmen/weltbank-praesident-ajay-banga-sieht-moegliche-donald-trump-wahl-gelassen](https://www.spiegel.de/wirtschaft/unternehmen/weltbank-praesident-ajay-banga-sieht-moegliche-donald-trump-wahl-gelassen-a-477b8391-a148-49b0-bde7-a29b779b3102#ref=rss)
+* [https://www.spiegel.de/ausland/wahlkampf-in-den-usa-elon-musk-hat-donald-trump-75-millionen-dollar-gespendet](https://www.spiegel.de/ausland/wahlkampf-in-den-usa-elon-musk-hat-donald-trump-75-millionen-dollar-gespendet-a-0d503008-9408-404b-b1b7-e450c089de46#ref=rss)
+### dietrich
 
-* [https://www.spiegel.de/wissenschaft/natur/interview-ueber-umweltverschmutzung-gibt-es-eigentlich-noch-unberuehrte-orte](https://www.spiegel.de/wissenschaft/natur/interview-ueber-umweltverschmutzung-gibt-es-eigentlich-noch-unberuehrte-orte-a-6a9850e1-fbfb-4986-b1fa-90dbf46dadc7#ref=rss)
-* [https://www.spiegel.de/netzwelt/microsoft-hacker-versuchen-4000-mal-pro-sekunde-passwoerter-zu-stehlen](https://www.spiegel.de/netzwelt/microsoft-hacker-versuchen-4000-mal-pro-sekunde-passwoerter-zu-stehlen-a-216ab029-dc88-4538-9c9c-f150b990b22c#ref=rss)
-### unberührte
+* [https://www.spiegel.de/panorama/gesellschaft/dietrich-bonhoeffer-nationalistische-christen-huldigen-widerstandskaempfer-bischoefe-protestieren](https://www.spiegel.de/panorama/gesellschaft/dietrich-bonhoeffer-nationalistische-christen-huldigen-widerstandskaempfer-bischoefe-protestieren-a-98210b4e-e83a-4147-ae87-ce3e0503df27#ref=rss)
+### bonhoeffer
 
-* [https://www.spiegel.de/wissenschaft/natur/interview-ueber-umweltverschmutzung-gibt-es-eigentlich-noch-unberuehrte-orte](https://www.spiegel.de/wissenschaft/natur/interview-ueber-umweltverschmutzung-gibt-es-eigentlich-noch-unberuehrte-orte-a-6a9850e1-fbfb-4986-b1fa-90dbf46dadc7#ref=rss)
-### modekonzern
+* [https://www.spiegel.de/panorama/gesellschaft/dietrich-bonhoeffer-nationalistische-christen-huldigen-widerstandskaempfer-bischoefe-protestieren](https://www.spiegel.de/panorama/gesellschaft/dietrich-bonhoeffer-nationalistische-christen-huldigen-widerstandskaempfer-bischoefe-protestieren-a-98210b4e-e83a-4147-ae87-ce3e0503df27#ref=rss)
+### christen
 
-* [https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie](https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-a-cfd52f92-8022-44b5-a719-8e40f0dbf7e8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-podcast](https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-podcast-a-795b71f6-0eca-4d85-a26a-3b783eafe93b#ref=rss)
-### günstige
+* [https://www.spiegel.de/panorama/gesellschaft/dietrich-bonhoeffer-nationalistische-christen-huldigen-widerstandskaempfer-bischoefe-protestieren](https://www.spiegel.de/panorama/gesellschaft/dietrich-bonhoeffer-nationalistische-christen-huldigen-widerstandskaempfer-bischoefe-protestieren-a-98210b4e-e83a-4147-ae87-ce3e0503df27#ref=rss)
+### widerstandskämpfer
 
-* [https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie](https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-a-cfd52f92-8022-44b5-a719-8e40f0dbf7e8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-podcast](https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-podcast-a-795b71f6-0eca-4d85-a26a-3b783eafe93b#ref=rss)
-### mode
+* [https://www.spiegel.de/panorama/gesellschaft/dietrich-bonhoeffer-nationalistische-christen-huldigen-widerstandskaempfer-bischoefe-protestieren](https://www.spiegel.de/panorama/gesellschaft/dietrich-bonhoeffer-nationalistische-christen-huldigen-widerstandskaempfer-bischoefe-protestieren-a-98210b4e-e83a-4147-ae87-ce3e0503df27#ref=rss)
+### bischöfe
 
-* [https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie](https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-a-cfd52f92-8022-44b5-a719-8e40f0dbf7e8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-podcast](https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-podcast-a-795b71f6-0eca-4d85-a26a-3b783eafe93b#ref=rss)
-### anders
+* [https://www.spiegel.de/panorama/gesellschaft/dietrich-bonhoeffer-nationalistische-christen-huldigen-widerstandskaempfer-bischoefe-protestieren](https://www.spiegel.de/panorama/gesellschaft/dietrich-bonhoeffer-nationalistische-christen-huldigen-widerstandskaempfer-bischoefe-protestieren-a-98210b4e-e83a-4147-ae87-ce3e0503df27#ref=rss)
+### protestieren
 
-* [https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie](https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-a-cfd52f92-8022-44b5-a719-8e40f0dbf7e8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-podcast](https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-podcast-a-795b71f6-0eca-4d85-a26a-3b783eafe93b#ref=rss)
-### gesagt
+* [https://www.spiegel.de/panorama/gesellschaft/dietrich-bonhoeffer-nationalistische-christen-huldigen-widerstandskaempfer-bischoefe-protestieren](https://www.spiegel.de/panorama/gesellschaft/dietrich-bonhoeffer-nationalistische-christen-huldigen-widerstandskaempfer-bischoefe-protestieren-a-98210b4e-e83a-4147-ae87-ce3e0503df27#ref=rss)
+### gewalt
 
-* [https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie](https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-a-cfd52f92-8022-44b5-a719-8e40f0dbf7e8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-podcast](https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-podcast-a-795b71f6-0eca-4d85-a26a-3b783eafe93b#ref=rss)
-### designdiebstahl
+* [https://www.spiegel.de/panorama/gesellschaft/dietrich-bonhoeffer-nationalistische-christen-huldigen-widerstandskaempfer-bischoefe-protestieren](https://www.spiegel.de/panorama/gesellschaft/dietrich-bonhoeffer-nationalistische-christen-huldigen-widerstandskaempfer-bischoefe-protestieren-a-98210b4e-e83a-4147-ae87-ce3e0503df27#ref=rss)
+* [https://www.spiegel.de/ausland/taiwan-xi-jinping-besucht-front-und-bekraeftigt-angeblichen-anspruch-chinas](https://www.spiegel.de/ausland/taiwan-xi-jinping-besucht-front-und-bekraeftigt-angeblichen-anspruch-chinas-a-82bb5651-c69c-4724-8c9d-5b1bc73404aa#ref=rss)
+### neuschwanstein
 
-* [https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie](https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-a-cfd52f92-8022-44b5-a719-8e40f0dbf7e8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-podcast](https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-podcast-a-795b71f6-0eca-4d85-a26a-3b783eafe93b#ref=rss)
-### schlechte
+* [https://www.spiegel.de/wirtschaft/schloss-neuschwanstein-bayern-scheitert-mit-markenklage](https://www.spiegel.de/wirtschaft/schloss-neuschwanstein-bayern-scheitert-mit-markenklage-a-6138ea3d-80e7-417f-b5eb-c9a89e9bc190#ref=rss)
+### bayern
 
-* [https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie](https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-a-cfd52f92-8022-44b5-a719-8e40f0dbf7e8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-podcast](https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-podcast-a-795b71f6-0eca-4d85-a26a-3b783eafe93b#ref=rss)
-### arbeitsbedingungen
+* [https://www.spiegel.de/wirtschaft/schloss-neuschwanstein-bayern-scheitert-mit-markenklage](https://www.spiegel.de/wirtschaft/schloss-neuschwanstein-bayern-scheitert-mit-markenklage-a-6138ea3d-80e7-417f-b5eb-c9a89e9bc190#ref=rss)
+### fast
 
-* [https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie](https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-a-cfd52f92-8022-44b5-a719-8e40f0dbf7e8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-podcast](https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-podcast-a-795b71f6-0eca-4d85-a26a-3b783eafe93b#ref=rss)
-### miese
-
-* [https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie](https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-a-cfd52f92-8022-44b5-a719-8e40f0dbf7e8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-podcast](https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-podcast-a-795b71f6-0eca-4d85-a26a-3b783eafe93b#ref=rss)
-### qualität
-
-* [https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie](https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-a-cfd52f92-8022-44b5-a719-8e40f0dbf7e8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-podcast](https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-podcast-a-795b71f6-0eca-4d85-a26a-3b783eafe93b#ref=rss)
-### spiegelredakteurin
-
-* [https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie](https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-a-cfd52f92-8022-44b5-a719-8e40f0dbf7e8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-podcast](https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-podcast-a-795b71f6-0eca-4d85-a26a-3b783eafe93b#ref=rss)
-### katharina
-
-* [https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie](https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-a-cfd52f92-8022-44b5-a719-8e40f0dbf7e8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-podcast](https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-podcast-a-795b71f6-0eca-4d85-a26a-3b783eafe93b#ref=rss)
-### koerth
-
-* [https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie](https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-a-cfd52f92-8022-44b5-a719-8e40f0dbf7e8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-podcast](https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-podcast-a-795b71f6-0eca-4d85-a26a-3b783eafe93b#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie](https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-a-cfd52f92-8022-44b5-a719-8e40f0dbf7e8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-podcast](https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-podcast-a-795b71f6-0eca-4d85-a26a-3b783eafe93b#ref=rss)
-### käufer
-
-* [https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie](https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-a-cfd52f92-8022-44b5-a719-8e40f0dbf7e8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-podcast](https://www.spiegel.de/wirtschaft/modekonzern-shein-so-veraendert-der-konzern-aus-china-die-fashion-industrie-podcast-a-795b71f6-0eca-4d85-a26a-3b783eafe93b#ref=rss)
-### essen
-
-* [https://www.spiegel.de/panorama/essen-drei-kinder-schweben-nach-moeglicher-pilzvergiftung-in-lebensgefahr](https://www.spiegel.de/panorama/essen-drei-kinder-schweben-nach-moeglicher-pilzvergiftung-in-lebensgefahr-a-7eccab64-233d-4ec4-8f69-2798de4b0826#ref=rss)
-### stellantis
-
-* [https://www.spiegel.de/wirtschaft/stellantis-wie-die-opel-mutter-jetzt-zurueckschlagen-will](https://www.spiegel.de/wirtschaft/stellantis-wie-die-opel-mutter-jetzt-zurueckschlagen-will-a-86e60dc5-4493-46e0-8e84-b70c2850501b#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/wirtschaft/stellantis-wie-die-opel-mutter-jetzt-zurueckschlagen-will](https://www.spiegel.de/wirtschaft/stellantis-wie-die-opel-mutter-jetzt-zurueckschlagen-will-a-86e60dc5-4493-46e0-8e84-b70c2850501b#ref=rss)
-* [https://www.spiegel.de/auto/fahrkultur/elektroauto-laden-adac-kritisiert-zustand-der-ladesaeulen-an-raststaetten](https://www.spiegel.de/auto/fahrkultur/elektroauto-laden-adac-kritisiert-zustand-der-ladesaeulen-an-raststaetten-a-fa8c4e16-8fb7-471f-b851-2c91448ea33b#ref=rss)
-### nordkorea
-
-* [https://www.spiegel.de/ausland/nordkorea-verbindungsstrassen-nach-suedkorea-gesprengt-spannungen-nehmen-zu](https://www.spiegel.de/ausland/nordkorea-verbindungsstrassen-nach-suedkorea-gesprengt-spannungen-nehmen-zu-a-92296b29-31cc-4078-ae90-e967e5278da0#ref=rss)
-### sarah
-
-* [https://www.spiegel.de/kultur/musik/sarah-connor-saengerin-legt-sich-fuer-schwertwale-in-berlin-in-leeres-aquarium](https://www.spiegel.de/kultur/musik/sarah-connor-saengerin-legt-sich-fuer-schwertwale-in-berlin-in-leeres-aquarium-a-06a47a4a-ed25-437f-a21b-d25c8e379a48#ref=rss)
-### connor
-
-* [https://www.spiegel.de/kultur/musik/sarah-connor-saengerin-legt-sich-fuer-schwertwale-in-berlin-in-leeres-aquarium](https://www.spiegel.de/kultur/musik/sarah-connor-saengerin-legt-sich-fuer-schwertwale-in-berlin-in-leeres-aquarium-a-06a47a4a-ed25-437f-a21b-d25c8e379a48#ref=rss)
-### sängerin
-
-* [https://www.spiegel.de/kultur/musik/sarah-connor-saengerin-legt-sich-fuer-schwertwale-in-berlin-in-leeres-aquarium](https://www.spiegel.de/kultur/musik/sarah-connor-saengerin-legt-sich-fuer-schwertwale-in-berlin-in-leeres-aquarium-a-06a47a4a-ed25-437f-a21b-d25c8e379a48#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/panorama/justiz/erfurt-75-jaehriger-wegen-kastrationen-zu-mehrjaehriger-haftstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/erfurt-75-jaehriger-wegen-kastrationen-zu-mehrjaehriger-haftstrafe-verurteilt-a-45683fa5-b9de-4c35-89d7-712cb4a7763b#ref=rss)
-### weniger
-
-* [https://www.spiegel.de/ausland/gaza-krieg-usa-drohen-israel-offenbar-mit-stopp-von-waffenlieferungen](https://www.spiegel.de/ausland/gaza-krieg-usa-drohen-israel-offenbar-mit-stopp-von-waffenlieferungen-a-60fd66a5-be34-4deb-a1df-162f4639ce57#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-shell-jugendstudie-bahnkrise](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-shell-jugendstudie-bahnkrise-a-938ebc11-67c5-4e6e-8267-e0f260a849e0#ref=rss)
-### zufolge
-
-* [https://www.spiegel.de/ausland/gaza-krieg-usa-drohen-israel-offenbar-mit-stopp-von-waffenlieferungen](https://www.spiegel.de/ausland/gaza-krieg-usa-drohen-israel-offenbar-mit-stopp-von-waffenlieferungen-a-60fd66a5-be34-4deb-a1df-162f4639ce57#ref=rss)
-* [https://www.spiegel.de/kultur/kino/kino-flop-joker-folie-a-deux-koennte-zwischen-125-und-200-millionen-dollar-kosten](https://www.spiegel.de/kultur/kino/kino-flop-joker-folie-a-deux-koennte-zwischen-125-und-200-millionen-dollar-kosten-a-27047219-09db-486b-b428-6fed55088560#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### pro
-
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/netzwelt/microsoft-hacker-versuchen-4000-mal-pro-sekunde-passwoerter-zu-stehlen](https://www.spiegel.de/netzwelt/microsoft-hacker-versuchen-4000-mal-pro-sekunde-passwoerter-zu-stehlen-a-216ab029-dc88-4538-9c9c-f150b990b22c#ref=rss)
-### tag
-
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### wichtigsten
-
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/kultur/tracey-emin-glaubt-maenner-verlieren-im-alter-ihre-schaffenskraft](https://www.spiegel.de/kultur/tracey-emin-glaubt-maenner-verlieren-im-alter-ihre-schaffenskraft-a-602c4f17-d8a7-428c-979c-e804c41ab58e#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-shell-jugendstudie-bahnkrise](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-shell-jugendstudie-bahnkrise-a-938ebc11-67c5-4e6e-8267-e0f260a849e0#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-shell-jugendstudie-bahnkrise](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-shell-jugendstudie-bahnkrise-a-938ebc11-67c5-4e6e-8267-e0f260a849e0#ref=rss)
-### tracey
-
-* [https://www.spiegel.de/kultur/tracey-emin-glaubt-maenner-verlieren-im-alter-ihre-schaffenskraft](https://www.spiegel.de/kultur/tracey-emin-glaubt-maenner-verlieren-im-alter-ihre-schaffenskraft-a-602c4f17-d8a7-428c-979c-e804c41ab58e#ref=rss)
-### emin
-
-* [https://www.spiegel.de/kultur/tracey-emin-glaubt-maenner-verlieren-im-alter-ihre-schaffenskraft](https://www.spiegel.de/kultur/tracey-emin-glaubt-maenner-verlieren-im-alter-ihre-schaffenskraft-a-602c4f17-d8a7-428c-979c-e804c41ab58e#ref=rss)
-### männer
-
-* [https://www.spiegel.de/kultur/tracey-emin-glaubt-maenner-verlieren-im-alter-ihre-schaffenskraft](https://www.spiegel.de/kultur/tracey-emin-glaubt-maenner-verlieren-im-alter-ihre-schaffenskraft-a-602c4f17-d8a7-428c-979c-e804c41ab58e#ref=rss)
-* [https://www.spiegel.de/stil/barbershop-wo-maenner-auf-der-brust-trommeln-ich-auch](https://www.spiegel.de/stil/barbershop-wo-maenner-auf-der-brust-trommeln-ich-auch-a-6e669e6d-2506-47ae-86f1-00b3e0984348#ref=rss)
-### überzeugt
-
-* [https://www.spiegel.de/kultur/tracey-emin-glaubt-maenner-verlieren-im-alter-ihre-schaffenskraft](https://www.spiegel.de/kultur/tracey-emin-glaubt-maenner-verlieren-im-alter-ihre-schaffenskraft-a-602c4f17-d8a7-428c-979c-e804c41ab58e#ref=rss)
-* [https://www.spiegel.de/kultur/kino/kino-flop-joker-folie-a-deux-koennte-zwischen-125-und-200-millionen-dollar-kosten](https://www.spiegel.de/kultur/kino/kino-flop-joker-folie-a-deux-koennte-zwischen-125-und-200-millionen-dollar-kosten-a-27047219-09db-486b-b428-6fed55088560#ref=rss)
-### hinter
-
-* [https://www.spiegel.de/kultur/tracey-emin-glaubt-maenner-verlieren-im-alter-ihre-schaffenskraft](https://www.spiegel.de/kultur/tracey-emin-glaubt-maenner-verlieren-im-alter-ihre-schaffenskraft-a-602c4f17-d8a7-428c-979c-e804c41ab58e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-droht-in-spd-fraktion-indirekt-mit-vertrauensfrage](https://www.spiegel.de/politik/deutschland/olaf-scholz-droht-in-spd-fraktion-indirekt-mit-vertrauensfrage-a-7debf1dc-3362-4487-a311-69c63f15dec5#ref=rss)
-### wissing
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/rechnungshof-wirft-volker-wissing-vorschnelle-ueberweisung-von-bahn-milliarden-vor](https://www.spiegel.de/wirtschaft/unternehmen/rechnungshof-wirft-volker-wissing-vorschnelle-ueberweisung-von-bahn-milliarden-vor-a-0cc169ff-2f93-497d-b97d-0cd14b85c319#ref=rss)
-### bekommt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/rechnungshof-wirft-volker-wissing-vorschnelle-ueberweisung-von-bahn-milliarden-vor](https://www.spiegel.de/wirtschaft/unternehmen/rechnungshof-wirft-volker-wissing-vorschnelle-ueberweisung-von-bahn-milliarden-vor-a-0cc169ff-2f93-497d-b97d-0cd14b85c319#ref=rss)
-* [https://www.spiegel.de/sport/wm-im-kastanienschlagen-in-england-david-jakins-wehrt-sich-gegen-betrugsvorwuerfe](https://www.spiegel.de/sport/wm-im-kastanienschlagen-in-england-david-jakins-wehrt-sich-gegen-betrugsvorwuerfe-a-d6443ae7-7929-4e82-9843-c32c383bfc46#ref=rss)
-### diesen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/rechnungshof-wirft-volker-wissing-vorschnelle-ueberweisung-von-bahn-milliarden-vor](https://www.spiegel.de/wirtschaft/unternehmen/rechnungshof-wirft-volker-wissing-vorschnelle-ueberweisung-von-bahn-milliarden-vor-a-0cc169ff-2f93-497d-b97d-0cd14b85c319#ref=rss)
-* [https://www.spiegel.de/auto/pariser-autosalon-mit-diesen-modellen-kaempfen-china-und-europa-um-autofahrer](https://www.spiegel.de/auto/pariser-autosalon-mit-diesen-modellen-kaempfen-china-und-europa-um-autofahrer-a-4783136d-5111-4ec5-9c17-3da7980e9cdb#ref=rss)
-### macht
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/rechnungshof-wirft-volker-wissing-vorschnelle-ueberweisung-von-bahn-milliarden-vor](https://www.spiegel.de/wirtschaft/unternehmen/rechnungshof-wirft-volker-wissing-vorschnelle-ueberweisung-von-bahn-milliarden-vor-a-0cc169ff-2f93-497d-b97d-0cd14b85c319#ref=rss)
-* [https://www.spiegel.de/stil/barbershop-wo-maenner-auf-der-brust-trommeln-ich-auch](https://www.spiegel.de/stil/barbershop-wo-maenner-auf-der-brust-trommeln-ich-auch-a-6e669e6d-2506-47ae-86f1-00b3e0984348#ref=rss)
-### diphtherie
-
-* [https://www.spiegel.de/wissenschaft/medizin/berlin-schulkind-an-seltener-bakterieller-infektionskrankheit-diphtherie-erkrankt](https://www.spiegel.de/wissenschaft/medizin/berlin-schulkind-an-seltener-bakterieller-infektionskrankheit-diphtherie-erkrankt-a-ffee7dff-a6ea-4f80-943d-5800ebdc05c1#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/kultur/kino/kino-flop-joker-folie-a-deux-koennte-zwischen-125-und-200-millionen-dollar-kosten](https://www.spiegel.de/kultur/kino/kino-flop-joker-folie-a-deux-koennte-zwischen-125-und-200-millionen-dollar-kosten-a-27047219-09db-486b-b428-6fed55088560#ref=rss)
-### dollar
-
-* [https://www.spiegel.de/kultur/kino/kino-flop-joker-folie-a-deux-koennte-zwischen-125-und-200-millionen-dollar-kosten](https://www.spiegel.de/kultur/kino/kino-flop-joker-folie-a-deux-koennte-zwischen-125-und-200-millionen-dollar-kosten-a-27047219-09db-486b-b428-6fed55088560#ref=rss)
-### sekte
-
-* [https://www.spiegel.de/panorama/justiz/spanien-stark-bewaffnete-sekte-ausgehoben](https://www.spiegel.de/panorama/justiz/spanien-stark-bewaffnete-sekte-ausgehoben-a-e210572c-9d88-4a9e-8466-cc3fdfa803e7#ref=rss)
+* [https://www.spiegel.de/panorama/nigeria-fast-hundert-tote-bei-explosion-von-tanklastwagen](https://www.spiegel.de/panorama/nigeria-fast-hundert-tote-bei-explosion-von-tanklastwagen-a-c9961e4c-b57a-4a3c-af33-cf8b8288d68f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/aberglaube-warum-kunstwerke-aus-den-haaren-toter-einst-die-wohnzimmer-zierten](https://www.spiegel.de/wissenschaft/mensch/aberglaube-warum-kunstwerke-aus-den-haaren-toter-einst-die-wohnzimmer-zierten-a-cc0ece84-fd5f-4261-8155-2631cb1aaee7#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/panorama/justiz/spanien-stark-bewaffnete-sekte-ausgehoben](https://www.spiegel.de/panorama/justiz/spanien-stark-bewaffnete-sekte-ausgehoben-a-e210572c-9d88-4a9e-8466-cc3fdfa803e7#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-israel-und-der-angriff-auf-das-aksa-krankenhaus-drohnen-summen-dann-schlaegt-die-erste-rakete-ein](https://www.spiegel.de/ausland/gaza-israel-und-der-angriff-auf-das-aksa-krankenhaus-drohnen-summen-dann-schlaegt-die-erste-rakete-ein-a-b145237c-813d-4ba7-8151-eb7c07ba8dbf#ref=rss)
-### manchester
+* [https://www.spiegel.de/panorama/nigeria-fast-hundert-tote-bei-explosion-von-tanklastwagen](https://www.spiegel.de/panorama/nigeria-fast-hundert-tote-bei-explosion-von-tanklastwagen-a-c9961e4c-b57a-4a3c-af33-cf8b8288d68f#ref=rss)
+* [https://www.spiegel.de/ausland/gazastreifen-usa-drohen-israel-mit-kuerzung-der-militaerhilfe-bei-anhaltender-humanitaerer-krise](https://www.spiegel.de/ausland/gazastreifen-usa-drohen-israel-mit-kuerzung-der-militaerhilfe-bei-anhaltender-humanitaerer-krise-a-3ce54fd0-54c6-4f6b-a072-bb2c4c41a0b7#ref=rss)
+### erstmals
 
-* [https://www.spiegel.de/sport/fussball/manchester-united-sparkurs-und-stellenabbau-sir-alex-ferguson-hoert-als-botschafter-auf](https://www.spiegel.de/sport/fussball/manchester-united-sparkurs-und-stellenabbau-sir-alex-ferguson-hoert-als-botschafter-auf-a-4753bbed-1506-4480-8557-ceef3ee65e74#ref=rss)
-### united
+* [https://www.spiegel.de/netzwelt/games/computerspielfoerderung-games-entwickler-bekommen-bald-erstmals-stipendien-vom-bund](https://www.spiegel.de/netzwelt/games/computerspielfoerderung-games-entwickler-bekommen-bald-erstmals-stipendien-vom-bund-a-5401d73a-5608-400c-9e98-bd201bbc6490#ref=rss)
+* [https://www.spiegel.de/netzwelt/london-sothebys-versteigert-erstmals-von-ki-roboter-gemaltes-kunstwerk](https://www.spiegel.de/netzwelt/london-sothebys-versteigert-erstmals-von-ki-roboter-gemaltes-kunstwerk-a-d7a35fd2-f70e-4552-9a30-39647de29927#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/sport/fussball/manchester-united-sparkurs-und-stellenabbau-sir-alex-ferguson-hoert-als-botschafter-auf](https://www.spiegel.de/sport/fussball/manchester-united-sparkurs-und-stellenabbau-sir-alex-ferguson-hoert-als-botschafter-auf-a-4753bbed-1506-4480-8557-ceef3ee65e74#ref=rss)
-### botschafter
+* [https://www.spiegel.de/netzwelt/games/computerspielfoerderung-games-entwickler-bekommen-bald-erstmals-stipendien-vom-bund](https://www.spiegel.de/netzwelt/games/computerspielfoerderung-games-entwickler-bekommen-bald-erstmals-stipendien-vom-bund-a-5401d73a-5608-400c-9e98-bd201bbc6490#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/ard-chef-kai-gniffke-will-mit-verlegern-frieden-schliessen](https://www.spiegel.de/kultur/literatur/ard-chef-kai-gniffke-will-mit-verlegern-frieden-schliessen-a-983eab6e-d7cb-4f84-bb48-208febae2966#ref=rss)
+### überzeugt
 
-* [https://www.spiegel.de/sport/fussball/manchester-united-sparkurs-und-stellenabbau-sir-alex-ferguson-hoert-als-botschafter-auf](https://www.spiegel.de/sport/fussball/manchester-united-sparkurs-und-stellenabbau-sir-alex-ferguson-hoert-als-botschafter-auf-a-4753bbed-1506-4480-8557-ceef3ee65e74#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/israel-rolf-muetzenich-will-botschafter-zu-situation-im-libanon-befragen](https://www.spiegel.de/politik/deutschland/israel-rolf-muetzenich-will-botschafter-zu-situation-im-libanon-befragen-a-8e44ff28-e197-4d7b-ae40-14247c724993#ref=rss)
-### pulp
+* [https://www.spiegel.de/netzwelt/games/computerspielfoerderung-games-entwickler-bekommen-bald-erstmals-stipendien-vom-bund](https://www.spiegel.de/netzwelt/games/computerspielfoerderung-games-entwickler-bekommen-bald-erstmals-stipendien-vom-bund-a-5401d73a-5608-400c-9e98-bd201bbc6490#ref=rss)
+* [https://www.spiegel.de/kultur/musik/k-pop-saengerin-hanni-pham-von-newjeans-berichtet-von-mobbing-am-arbeitsplatz](https://www.spiegel.de/kultur/musik/k-pop-saengerin-hanni-pham-von-newjeans-berichtet-von-mobbing-am-arbeitsplatz-a-79aafccd-8b9b-4a8b-9644-72ef751b63c5#ref=rss)
+### krieg
 
-* [https://www.spiegel.de/kultur/kino/pulp-fiction-samuel-l-jackson-zitiert-legendaeren-vers-aus-filmklassiker](https://www.spiegel.de/kultur/kino/pulp-fiction-samuel-l-jackson-zitiert-legendaeren-vers-aus-filmklassiker-a-a6ce9fc4-d82c-471a-b8b3-2a6f3d025d2e#ref=rss)
-### fiction
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-stellt-siegesplan-vor](https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-stellt-siegesplan-vor-a-e9d1f4d3-0d5b-418a-9eaf-1ac30ae43719#ref=rss)
+### wolodymyr
 
-* [https://www.spiegel.de/kultur/kino/pulp-fiction-samuel-l-jackson-zitiert-legendaeren-vers-aus-filmklassiker](https://www.spiegel.de/kultur/kino/pulp-fiction-samuel-l-jackson-zitiert-legendaeren-vers-aus-filmklassiker-a-a6ce9fc4-d82c-471a-b8b3-2a6f3d025d2e#ref=rss)
-### samuel
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-stellt-siegesplan-vor](https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-stellt-siegesplan-vor-a-e9d1f4d3-0d5b-418a-9eaf-1ac30ae43719#ref=rss)
+### selenskyj
 
-* [https://www.spiegel.de/kultur/kino/pulp-fiction-samuel-l-jackson-zitiert-legendaeren-vers-aus-filmklassiker](https://www.spiegel.de/kultur/kino/pulp-fiction-samuel-l-jackson-zitiert-legendaeren-vers-aus-filmklassiker-a-a6ce9fc4-d82c-471a-b8b3-2a6f3d025d2e#ref=rss)
-### l
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-stellt-siegesplan-vor](https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-stellt-siegesplan-vor-a-e9d1f4d3-0d5b-418a-9eaf-1ac30ae43719#ref=rss)
+### siegesplan
 
-* [https://www.spiegel.de/kultur/kino/pulp-fiction-samuel-l-jackson-zitiert-legendaeren-vers-aus-filmklassiker](https://www.spiegel.de/kultur/kino/pulp-fiction-samuel-l-jackson-zitiert-legendaeren-vers-aus-filmklassiker-a-a6ce9fc4-d82c-471a-b8b3-2a6f3d025d2e#ref=rss)
-### jackson
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-stellt-siegesplan-vor](https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-stellt-siegesplan-vor-a-e9d1f4d3-0d5b-418a-9eaf-1ac30ae43719#ref=rss)
+### ardchef
 
-* [https://www.spiegel.de/kultur/kino/pulp-fiction-samuel-l-jackson-zitiert-legendaeren-vers-aus-filmklassiker](https://www.spiegel.de/kultur/kino/pulp-fiction-samuel-l-jackson-zitiert-legendaeren-vers-aus-filmklassiker-a-a6ce9fc4-d82c-471a-b8b3-2a6f3d025d2e#ref=rss)
-### wm
+* [https://www.spiegel.de/kultur/literatur/ard-chef-kai-gniffke-will-mit-verlegern-frieden-schliessen](https://www.spiegel.de/kultur/literatur/ard-chef-kai-gniffke-will-mit-verlegern-frieden-schliessen-a-983eab6e-d7cb-4f84-bb48-208febae2966#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/sport/wm-im-kastanienschlagen-in-england-david-jakins-wehrt-sich-gegen-betrugsvorwuerfe](https://www.spiegel.de/sport/wm-im-kastanienschlagen-in-england-david-jakins-wehrt-sich-gegen-betrugsvorwuerfe-a-d6443ae7-7929-4e82-9843-c32c383bfc46#ref=rss)
-### kastanienschlagen
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ueber-geschlechterparitaet-in-der-bundesregierung-wir-tun-damit-auch-den-frauen-keinen-gefallen](https://www.spiegel.de/politik/deutschland/friedrich-merz-ueber-geschlechterparitaet-in-der-bundesregierung-wir-tun-damit-auch-den-frauen-keinen-gefallen-a-84ec18ef-67ad-4085-a928-2dea15b525be#ref=rss)
+### merz
 
-* [https://www.spiegel.de/sport/wm-im-kastanienschlagen-in-england-david-jakins-wehrt-sich-gegen-betrugsvorwuerfe](https://www.spiegel.de/sport/wm-im-kastanienschlagen-in-england-david-jakins-wehrt-sich-gegen-betrugsvorwuerfe-a-d6443ae7-7929-4e82-9843-c32c383bfc46#ref=rss)
-### david
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ueber-geschlechterparitaet-in-der-bundesregierung-wir-tun-damit-auch-den-frauen-keinen-gefallen](https://www.spiegel.de/politik/deutschland/friedrich-merz-ueber-geschlechterparitaet-in-der-bundesregierung-wir-tun-damit-auch-den-frauen-keinen-gefallen-a-84ec18ef-67ad-4085-a928-2dea15b525be#ref=rss)
+### wir
 
-* [https://www.spiegel.de/sport/wm-im-kastanienschlagen-in-england-david-jakins-wehrt-sich-gegen-betrugsvorwuerfe](https://www.spiegel.de/sport/wm-im-kastanienschlagen-in-england-david-jakins-wehrt-sich-gegen-betrugsvorwuerfe-a-d6443ae7-7929-4e82-9843-c32c383bfc46#ref=rss)
-### jakins
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ueber-geschlechterparitaet-in-der-bundesregierung-wir-tun-damit-auch-den-frauen-keinen-gefallen](https://www.spiegel.de/politik/deutschland/friedrich-merz-ueber-geschlechterparitaet-in-der-bundesregierung-wir-tun-damit-auch-den-frauen-keinen-gefallen-a-84ec18ef-67ad-4085-a928-2dea15b525be#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/gesamtmetall-praesident-stefan-wolf-warnt-vor-verlust-von-bis-zu-300-000-jobs](https://www.spiegel.de/wirtschaft/unternehmen/gesamtmetall-praesident-stefan-wolf-warnt-vor-verlust-von-bis-zu-300-000-jobs-a-7987fc9b-fbe8-4441-ad60-0845fd636c90#ref=rss)
+### hanni
 
-* [https://www.spiegel.de/sport/wm-im-kastanienschlagen-in-england-david-jakins-wehrt-sich-gegen-betrugsvorwuerfe](https://www.spiegel.de/sport/wm-im-kastanienschlagen-in-england-david-jakins-wehrt-sich-gegen-betrugsvorwuerfe-a-d6443ae7-7929-4e82-9843-c32c383bfc46#ref=rss)
-### nimmt
+* [https://www.spiegel.de/kultur/musik/k-pop-saengerin-hanni-pham-von-newjeans-berichtet-von-mobbing-am-arbeitsplatz](https://www.spiegel.de/kultur/musik/k-pop-saengerin-hanni-pham-von-newjeans-berichtet-von-mobbing-am-arbeitsplatz-a-79aafccd-8b9b-4a8b-9644-72ef751b63c5#ref=rss)
+### pham
 
-* [https://www.spiegel.de/sport/wm-im-kastanienschlagen-in-england-david-jakins-wehrt-sich-gegen-betrugsvorwuerfe](https://www.spiegel.de/sport/wm-im-kastanienschlagen-in-england-david-jakins-wehrt-sich-gegen-betrugsvorwuerfe-a-d6443ae7-7929-4e82-9843-c32c383bfc46#ref=rss)
-* [https://www.spiegel.de/netzwelt/microsoft-hacker-versuchen-4000-mal-pro-sekunde-passwoerter-zu-stehlen](https://www.spiegel.de/netzwelt/microsoft-hacker-versuchen-4000-mal-pro-sekunde-passwoerter-zu-stehlen-a-216ab029-dc88-4538-9c9c-f150b990b22c#ref=rss)
-### gaza
+* [https://www.spiegel.de/kultur/musik/k-pop-saengerin-hanni-pham-von-newjeans-berichtet-von-mobbing-am-arbeitsplatz](https://www.spiegel.de/kultur/musik/k-pop-saengerin-hanni-pham-von-newjeans-berichtet-von-mobbing-am-arbeitsplatz-a-79aafccd-8b9b-4a8b-9644-72ef751b63c5#ref=rss)
+### newjeans
 
-* [https://www.spiegel.de/ausland/gaza-israel-und-der-angriff-auf-das-aksa-krankenhaus-drohnen-summen-dann-schlaegt-die-erste-rakete-ein](https://www.spiegel.de/ausland/gaza-israel-und-der-angriff-auf-das-aksa-krankenhaus-drohnen-summen-dann-schlaegt-die-erste-rakete-ein-a-b145237c-813d-4ba7-8151-eb7c07ba8dbf#ref=rss)
-### neun
+* [https://www.spiegel.de/kultur/musik/k-pop-saengerin-hanni-pham-von-newjeans-berichtet-von-mobbing-am-arbeitsplatz](https://www.spiegel.de/kultur/musik/k-pop-saengerin-hanni-pham-von-newjeans-berichtet-von-mobbing-am-arbeitsplatz-a-79aafccd-8b9b-4a8b-9644-72ef751b63c5#ref=rss)
+### berichtet
 
-* [https://www.spiegel.de/kultur/neun-fakten-ueber-superman-chistopher-reeve-held-my-beer](https://www.spiegel.de/kultur/neun-fakten-ueber-superman-chistopher-reeve-held-my-beer-a-b07ea221-0586-44c9-b227-b30baf76bf24#ref=rss)
-### fakten
+* [https://www.spiegel.de/kultur/musik/k-pop-saengerin-hanni-pham-von-newjeans-berichtet-von-mobbing-am-arbeitsplatz](https://www.spiegel.de/kultur/musik/k-pop-saengerin-hanni-pham-von-newjeans-berichtet-von-mobbing-am-arbeitsplatz-a-79aafccd-8b9b-4a8b-9644-72ef751b63c5#ref=rss)
+### uns
 
-* [https://www.spiegel.de/kultur/neun-fakten-ueber-superman-chistopher-reeve-held-my-beer](https://www.spiegel.de/kultur/neun-fakten-ueber-superman-chistopher-reeve-held-my-beer-a-b07ea221-0586-44c9-b227-b30baf76bf24#ref=rss)
-### superman
+* [https://www.spiegel.de/kultur/musik/k-pop-saengerin-hanni-pham-von-newjeans-berichtet-von-mobbing-am-arbeitsplatz](https://www.spiegel.de/kultur/musik/k-pop-saengerin-hanni-pham-von-newjeans-berichtet-von-mobbing-am-arbeitsplatz-a-79aafccd-8b9b-4a8b-9644-72ef751b63c5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/gesamtmetall-praesident-stefan-wolf-warnt-vor-verlust-von-bis-zu-300-000-jobs](https://www.spiegel.de/wirtschaft/unternehmen/gesamtmetall-praesident-stefan-wolf-warnt-vor-verlust-von-bis-zu-300-000-jobs-a-7987fc9b-fbe8-4441-ad60-0845fd636c90#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/kultur/neun-fakten-ueber-superman-chistopher-reeve-held-my-beer](https://www.spiegel.de/kultur/neun-fakten-ueber-superman-chistopher-reeve-held-my-beer-a-b07ea221-0586-44c9-b227-b30baf76bf24#ref=rss)
-### reeve
+* [https://www.spiegel.de/kultur/musik/k-pop-saengerin-hanni-pham-von-newjeans-berichtet-von-mobbing-am-arbeitsplatz](https://www.spiegel.de/kultur/musik/k-pop-saengerin-hanni-pham-von-newjeans-berichtet-von-mobbing-am-arbeitsplatz-a-79aafccd-8b9b-4a8b-9644-72ef751b63c5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/gesamtmetall-praesident-stefan-wolf-warnt-vor-verlust-von-bis-zu-300-000-jobs](https://www.spiegel.de/wirtschaft/unternehmen/gesamtmetall-praesident-stefan-wolf-warnt-vor-verlust-von-bis-zu-300-000-jobs-a-7987fc9b-fbe8-4441-ad60-0845fd636c90#ref=rss)
+### vertrauensfrage
 
-* [https://www.spiegel.de/kultur/neun-fakten-ueber-superman-chistopher-reeve-held-my-beer](https://www.spiegel.de/kultur/neun-fakten-ueber-superman-chistopher-reeve-held-my-beer-a-b07ea221-0586-44c9-b227-b30baf76bf24#ref=rss)
-### microsoft
+* [https://www.spiegel.de/politik/deutschland/vertrauensfrage-im-bundestag-von-willy-brandt-bis-gerhard-schroeder](https://www.spiegel.de/politik/deutschland/vertrauensfrage-im-bundestag-von-willy-brandt-bis-gerhard-schroeder-a-fa3dc79e-9f83-4577-bc55-d6b6f22fbef5#ref=rss)
+### bundestag
 
-* [https://www.spiegel.de/netzwelt/microsoft-hacker-versuchen-4000-mal-pro-sekunde-passwoerter-zu-stehlen](https://www.spiegel.de/netzwelt/microsoft-hacker-versuchen-4000-mal-pro-sekunde-passwoerter-zu-stehlen-a-216ab029-dc88-4538-9c9c-f150b990b22c#ref=rss)
-### greifen
+* [https://www.spiegel.de/politik/deutschland/vertrauensfrage-im-bundestag-von-willy-brandt-bis-gerhard-schroeder](https://www.spiegel.de/politik/deutschland/vertrauensfrage-im-bundestag-von-willy-brandt-bis-gerhard-schroeder-a-fa3dc79e-9f83-4577-bc55-d6b6f22fbef5#ref=rss)
+### erst
 
-* [https://www.spiegel.de/netzwelt/microsoft-hacker-versuchen-4000-mal-pro-sekunde-passwoerter-zu-stehlen](https://www.spiegel.de/netzwelt/microsoft-hacker-versuchen-4000-mal-pro-sekunde-passwoerter-zu-stehlen-a-216ab029-dc88-4538-9c9c-f150b990b22c#ref=rss)
-* [https://www.spiegel.de/auto/pariser-autosalon-mit-diesen-modellen-kaempfen-china-und-europa-um-autofahrer](https://www.spiegel.de/auto/pariser-autosalon-mit-diesen-modellen-kaempfen-china-und-europa-um-autofahrer-a-4783136d-5111-4ec5-9c17-3da7980e9cdb#ref=rss)
-### adac
+* [https://www.spiegel.de/politik/deutschland/vertrauensfrage-im-bundestag-von-willy-brandt-bis-gerhard-schroeder](https://www.spiegel.de/politik/deutschland/vertrauensfrage-im-bundestag-von-willy-brandt-bis-gerhard-schroeder-a-fa3dc79e-9f83-4577-bc55-d6b6f22fbef5#ref=rss)
+* [https://www.spiegel.de/panorama/stadtallendorf-brand-in-neuer-feuerwehrstation-rund-20-millionen-euro-schaden](https://www.spiegel.de/panorama/stadtallendorf-brand-in-neuer-feuerwehrstation-rund-20-millionen-euro-schaden-a-2645338b-c76a-4325-9b4c-f3dbf6fcecdd#ref=rss)
+### leyen
 
-* [https://www.spiegel.de/auto/fahrkultur/elektroauto-laden-adac-kritisiert-zustand-der-ladesaeulen-an-raststaetten](https://www.spiegel.de/auto/fahrkultur/elektroauto-laden-adac-kritisiert-zustand-der-ladesaeulen-an-raststaetten-a-fa8c4e16-8fb7-471f-b851-2c91448ea33b#ref=rss)
-### ladesäulen
+* [https://www.spiegel.de/ausland/eu-asylpolitik-ursula-von-der-leyen-plant-erleichterte-abschiebungen-aus-eu](https://www.spiegel.de/ausland/eu-asylpolitik-ursula-von-der-leyen-plant-erleichterte-abschiebungen-aus-eu-a-1d8fc423-6549-4538-a012-937303ce68de#ref=rss)
+### plant
 
-* [https://www.spiegel.de/auto/fahrkultur/elektroauto-laden-adac-kritisiert-zustand-der-ladesaeulen-an-raststaetten](https://www.spiegel.de/auto/fahrkultur/elektroauto-laden-adac-kritisiert-zustand-der-ladesaeulen-an-raststaetten-a-fa8c4e16-8fb7-471f-b851-2c91448ea33b#ref=rss)
-### modellen
+* [https://www.spiegel.de/ausland/eu-asylpolitik-ursula-von-der-leyen-plant-erleichterte-abschiebungen-aus-eu](https://www.spiegel.de/ausland/eu-asylpolitik-ursula-von-der-leyen-plant-erleichterte-abschiebungen-aus-eu-a-1d8fc423-6549-4538-a012-937303ce68de#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/auto/pariser-autosalon-mit-diesen-modellen-kaempfen-china-und-europa-um-autofahrer](https://www.spiegel.de/auto/pariser-autosalon-mit-diesen-modellen-kaempfen-china-und-europa-um-autofahrer-a-4783136d-5111-4ec5-9c17-3da7980e9cdb#ref=rss)
-### libanon
+* [https://www.spiegel.de/ausland/eu-asylpolitik-ursula-von-der-leyen-plant-erleichterte-abschiebungen-aus-eu](https://www.spiegel.de/ausland/eu-asylpolitik-ursula-von-der-leyen-plant-erleichterte-abschiebungen-aus-eu-a-1d8fc423-6549-4538-a012-937303ce68de#ref=rss)
+* [https://www.spiegel.de/ausland/anthony-albanese-australiens-premier-wegen-hauskaufs-in-der-kritik](https://www.spiegel.de/ausland/anthony-albanese-australiens-premier-wegen-hauskaufs-in-der-kritik-a-43cd09a9-aa68-49fc-9dbd-c1445a083f39#ref=rss)
+### jake
 
-* [https://www.spiegel.de/politik/deutschland/israel-rolf-muetzenich-will-botschafter-zu-situation-im-libanon-befragen](https://www.spiegel.de/politik/deutschland/israel-rolf-muetzenich-will-botschafter-zu-situation-im-libanon-befragen-a-8e44ff28-e197-4d7b-ae40-14247c724993#ref=rss)
+* [https://www.spiegel.de/panorama/jake-e-lee-ehemaliger-ozzy-osbourne-gitarrist-in-las-vegas-mehrmals-angeschossen](https://www.spiegel.de/panorama/jake-e-lee-ehemaliger-ozzy-osbourne-gitarrist-in-las-vegas-mehrmals-angeschossen-a-bfb913a0-5369-492b-bad8-3a7e215763c2#ref=rss)
+### e
+
+* [https://www.spiegel.de/panorama/jake-e-lee-ehemaliger-ozzy-osbourne-gitarrist-in-las-vegas-mehrmals-angeschossen](https://www.spiegel.de/panorama/jake-e-lee-ehemaliger-ozzy-osbourne-gitarrist-in-las-vegas-mehrmals-angeschossen-a-bfb913a0-5369-492b-bad8-3a7e215763c2#ref=rss)
+### lee
+
+* [https://www.spiegel.de/panorama/jake-e-lee-ehemaliger-ozzy-osbourne-gitarrist-in-las-vegas-mehrmals-angeschossen](https://www.spiegel.de/panorama/jake-e-lee-ehemaliger-ozzy-osbourne-gitarrist-in-las-vegas-mehrmals-angeschossen-a-bfb913a0-5369-492b-bad8-3a7e215763c2#ref=rss)
+### stadtallendorf
+
+* [https://www.spiegel.de/panorama/stadtallendorf-brand-in-neuer-feuerwehrstation-rund-20-millionen-euro-schaden](https://www.spiegel.de/panorama/stadtallendorf-brand-in-neuer-feuerwehrstation-rund-20-millionen-euro-schaden-a-2645338b-c76a-4325-9b4c-f3dbf6fcecdd#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/panorama/stadtallendorf-brand-in-neuer-feuerwehrstation-rund-20-millionen-euro-schaden](https://www.spiegel.de/panorama/stadtallendorf-brand-in-neuer-feuerwehrstation-rund-20-millionen-euro-schaden-a-2645338b-c76a-4325-9b4c-f3dbf6fcecdd#ref=rss)
+* [https://www.spiegel.de/ausland/wahlkampf-in-den-usa-elon-musk-hat-donald-trump-75-millionen-dollar-gespendet](https://www.spiegel.de/ausland/wahlkampf-in-den-usa-elon-musk-hat-donald-trump-75-millionen-dollar-gespendet-a-0d503008-9408-404b-b1b7-e450c089de46#ref=rss)
+### euro
+
+* [https://www.spiegel.de/panorama/stadtallendorf-brand-in-neuer-feuerwehrstation-rund-20-millionen-euro-schaden](https://www.spiegel.de/panorama/stadtallendorf-brand-in-neuer-feuerwehrstation-rund-20-millionen-euro-schaden-a-2645338b-c76a-4325-9b4c-f3dbf6fcecdd#ref=rss)
+* [https://www.spiegel.de/netzwelt/london-sothebys-versteigert-erstmals-von-ki-roboter-gemaltes-kunstwerk](https://www.spiegel.de/netzwelt/london-sothebys-versteigert-erstmals-von-ki-roboter-gemaltes-kunstwerk-a-d7a35fd2-f70e-4552-9a30-39647de29927#ref=rss)
+### schaden
+
+* [https://www.spiegel.de/panorama/stadtallendorf-brand-in-neuer-feuerwehrstation-rund-20-millionen-euro-schaden](https://www.spiegel.de/panorama/stadtallendorf-brand-in-neuer-feuerwehrstation-rund-20-millionen-euro-schaden-a-2645338b-c76a-4325-9b4c-f3dbf6fcecdd#ref=rss)
+### hilfe
+
+* [https://www.spiegel.de/panorama/stadtallendorf-brand-in-neuer-feuerwehrstation-rund-20-millionen-euro-schaden](https://www.spiegel.de/panorama/stadtallendorf-brand-in-neuer-feuerwehrstation-rund-20-millionen-euro-schaden-a-2645338b-c76a-4325-9b4c-f3dbf6fcecdd#ref=rss)
+* [https://www.spiegel.de/ausland/gazastreifen-usa-drohen-israel-mit-kuerzung-der-militaerhilfe-bei-anhaltender-humanitaerer-krise](https://www.spiegel.de/ausland/gazastreifen-usa-drohen-israel-mit-kuerzung-der-militaerhilfe-bei-anhaltender-humanitaerer-krise-a-3ce54fd0-54c6-4f6b-a072-bb2c4c41a0b7#ref=rss)
+### thomas
+
+* [https://www.spiegel.de/sport/fussball/thomas-tuchel-ex-bayern-trainer-wird-neuer-nationaltrainer-englands](https://www.spiegel.de/sport/fussball/thomas-tuchel-ex-bayern-trainer-wird-neuer-nationaltrainer-englands-a-ef1c43dc-bc8e-4937-95b9-4eba08eb61fb#ref=rss)
+### tuchel
+
+* [https://www.spiegel.de/sport/fussball/thomas-tuchel-ex-bayern-trainer-wird-neuer-nationaltrainer-englands](https://www.spiegel.de/sport/fussball/thomas-tuchel-ex-bayern-trainer-wird-neuer-nationaltrainer-englands-a-ef1c43dc-bc8e-4937-95b9-4eba08eb61fb#ref=rss)
+### übernimmt
+
+* [https://www.spiegel.de/sport/fussball/thomas-tuchel-ex-bayern-trainer-wird-neuer-nationaltrainer-englands](https://www.spiegel.de/sport/fussball/thomas-tuchel-ex-bayern-trainer-wird-neuer-nationaltrainer-englands-a-ef1c43dc-bc8e-4937-95b9-4eba08eb61fb#ref=rss)
+### englische
+
+* [https://www.spiegel.de/sport/fussball/thomas-tuchel-ex-bayern-trainer-wird-neuer-nationaltrainer-englands](https://www.spiegel.de/sport/fussball/thomas-tuchel-ex-bayern-trainer-wird-neuer-nationaltrainer-englands-a-ef1c43dc-bc8e-4937-95b9-4eba08eb61fb#ref=rss)
+### nationalmannschaft
+
+* [https://www.spiegel.de/sport/fussball/thomas-tuchel-ex-bayern-trainer-wird-neuer-nationaltrainer-englands](https://www.spiegel.de/sport/fussball/thomas-tuchel-ex-bayern-trainer-wird-neuer-nationaltrainer-englands-a-ef1c43dc-bc8e-4937-95b9-4eba08eb61fb#ref=rss)
+### cameron
+
+* [https://www.spiegel.de/panorama/leute/cameron-diaz-erfuellte-sich-in-langer-schauspielpause-ihren-traum](https://www.spiegel.de/panorama/leute/cameron-diaz-erfuellte-sich-in-langer-schauspielpause-ihren-traum-a-d962d9ea-9a62-4652-896a-cff0915d9b38#ref=rss)
+### diaz
+
+* [https://www.spiegel.de/panorama/leute/cameron-diaz-erfuellte-sich-in-langer-schauspielpause-ihren-traum](https://www.spiegel.de/panorama/leute/cameron-diaz-erfuellte-sich-in-langer-schauspielpause-ihren-traum-a-d962d9ea-9a62-4652-896a-cff0915d9b38#ref=rss)
+### ministerpräsidentin
+
+* [https://www.spiegel.de/ausland/asylpolitik-italiens-ministerpraesidentin-giorgia-meloni-deportiert-fluechtlinge-nach-albanien](https://www.spiegel.de/ausland/asylpolitik-italiens-ministerpraesidentin-giorgia-meloni-deportiert-fluechtlinge-nach-albanien-a-0cda5474-4cc7-4d01-9548-8b4454700d4d#ref=rss)
+### meloni
+
+* [https://www.spiegel.de/ausland/asylpolitik-italiens-ministerpraesidentin-giorgia-meloni-deportiert-fluechtlinge-nach-albanien](https://www.spiegel.de/ausland/asylpolitik-italiens-ministerpraesidentin-giorgia-meloni-deportiert-fluechtlinge-nach-albanien-a-0cda5474-4cc7-4d01-9548-8b4454700d4d#ref=rss)
+### flüchtlinge
+
+* [https://www.spiegel.de/ausland/asylpolitik-italiens-ministerpraesidentin-giorgia-meloni-deportiert-fluechtlinge-nach-albanien](https://www.spiegel.de/ausland/asylpolitik-italiens-ministerpraesidentin-giorgia-meloni-deportiert-fluechtlinge-nach-albanien-a-0cda5474-4cc7-4d01-9548-8b4454700d4d#ref=rss)
+### albanien
+
+* [https://www.spiegel.de/ausland/asylpolitik-italiens-ministerpraesidentin-giorgia-meloni-deportiert-fluechtlinge-nach-albanien](https://www.spiegel.de/ausland/asylpolitik-italiens-ministerpraesidentin-giorgia-meloni-deportiert-fluechtlinge-nach-albanien-a-0cda5474-4cc7-4d01-9548-8b4454700d4d#ref=rss)
+### xi
+
+* [https://www.spiegel.de/ausland/taiwan-xi-jinping-besucht-front-und-bekraeftigt-angeblichen-anspruch-chinas](https://www.spiegel.de/ausland/taiwan-xi-jinping-besucht-front-und-bekraeftigt-angeblichen-anspruch-chinas-a-82bb5651-c69c-4724-8c9d-5b1bc73404aa#ref=rss)
+### jinping
+
+* [https://www.spiegel.de/ausland/taiwan-xi-jinping-besucht-front-und-bekraeftigt-angeblichen-anspruch-chinas](https://www.spiegel.de/ausland/taiwan-xi-jinping-besucht-front-und-bekraeftigt-angeblichen-anspruch-chinas-a-82bb5651-c69c-4724-8c9d-5b1bc73404aa#ref=rss)
+### besucht
+
+* [https://www.spiegel.de/ausland/taiwan-xi-jinping-besucht-front-und-bekraeftigt-angeblichen-anspruch-chinas](https://www.spiegel.de/ausland/taiwan-xi-jinping-besucht-front-und-bekraeftigt-angeblichen-anspruch-chinas-a-82bb5651-c69c-4724-8c9d-5b1bc73404aa#ref=rss)
+### shelljugendstudie
+
+* [https://www.spiegel.de/panorama/bildung/shell-jugendstudie-junge-radikale-maenner-als-sorgenkinder-der-nation](https://www.spiegel.de/panorama/bildung/shell-jugendstudie-junge-radikale-maenner-als-sorgenkinder-der-nation-a-77f584f0-c1a6-4ca6-8fa1-05e58a89d717#ref=rss)
+### junge
+
+* [https://www.spiegel.de/panorama/bildung/shell-jugendstudie-junge-radikale-maenner-als-sorgenkinder-der-nation](https://www.spiegel.de/panorama/bildung/shell-jugendstudie-junge-radikale-maenner-als-sorgenkinder-der-nation-a-77f584f0-c1a6-4ca6-8fa1-05e58a89d717#ref=rss)
+### männer
+
+* [https://www.spiegel.de/panorama/bildung/shell-jugendstudie-junge-radikale-maenner-als-sorgenkinder-der-nation](https://www.spiegel.de/panorama/bildung/shell-jugendstudie-junge-radikale-maenner-als-sorgenkinder-der-nation-a-77f584f0-c1a6-4ca6-8fa1-05e58a89d717#ref=rss)
+### sorgenkinder
+
+* [https://www.spiegel.de/panorama/bildung/shell-jugendstudie-junge-radikale-maenner-als-sorgenkinder-der-nation](https://www.spiegel.de/panorama/bildung/shell-jugendstudie-junge-radikale-maenner-als-sorgenkinder-der-nation-a-77f584f0-c1a6-4ca6-8fa1-05e58a89d717#ref=rss)
+### anthony
+
+* [https://www.spiegel.de/ausland/anthony-albanese-australiens-premier-wegen-hauskaufs-in-der-kritik](https://www.spiegel.de/ausland/anthony-albanese-australiens-premier-wegen-hauskaufs-in-der-kritik-a-43cd09a9-aa68-49fc-9dbd-c1445a083f39#ref=rss)
+### albanese
+
+* [https://www.spiegel.de/ausland/anthony-albanese-australiens-premier-wegen-hauskaufs-in-der-kritik](https://www.spiegel.de/ausland/anthony-albanese-australiens-premier-wegen-hauskaufs-in-der-kritik-a-43cd09a9-aa68-49fc-9dbd-c1445a083f39#ref=rss)
+### serien
+
+* [https://www.spiegel.de/kultur/tv/k-dramas-warum-sind-serien-aus-korea-ueberall-und-was-lohnt-sich](https://www.spiegel.de/kultur/tv/k-dramas-warum-sind-serien-aus-korea-ueberall-und-was-lohnt-sich-a-4f61414a-b2e5-4182-801e-355f0a4a6d21#ref=rss)
+### hemingway
+
+* [https://www.spiegel.de/geschichte/ernest-hemingway-warum-sein-bruder-leicester-seinen-eigenen-inselstaat-gruendete](https://www.spiegel.de/geschichte/ernest-hemingway-warum-sein-bruder-leicester-seinen-eigenen-inselstaat-gruendete-a-f2a32d84-18fe-44c1-81e4-eda2aa125261#ref=rss)
+### leicester
+
+* [https://www.spiegel.de/geschichte/ernest-hemingway-warum-sein-bruder-leicester-seinen-eigenen-inselstaat-gruendete](https://www.spiegel.de/geschichte/ernest-hemingway-warum-sein-bruder-leicester-seinen-eigenen-inselstaat-gruendete-a-f2a32d84-18fe-44c1-81e4-eda2aa125261#ref=rss)
+### gründete
+
+* [https://www.spiegel.de/geschichte/ernest-hemingway-warum-sein-bruder-leicester-seinen-eigenen-inselstaat-gruendete](https://www.spiegel.de/geschichte/ernest-hemingway-warum-sein-bruder-leicester-seinen-eigenen-inselstaat-gruendete-a-f2a32d84-18fe-44c1-81e4-eda2aa125261#ref=rss)
+### amerikanische
+
+* [https://www.spiegel.de/ausland/gazastreifen-usa-drohen-israel-mit-kuerzung-der-militaerhilfe-bei-anhaltender-humanitaerer-krise](https://www.spiegel.de/ausland/gazastreifen-usa-drohen-israel-mit-kuerzung-der-militaerhilfe-bei-anhaltender-humanitaerer-krise-a-3ce54fd0-54c6-4f6b-a072-bb2c4c41a0b7#ref=rss)
+* [https://www.spiegel.de/ausland/wahlkampf-in-den-usa-elon-musk-hat-donald-trump-75-millionen-dollar-gespendet](https://www.spiegel.de/ausland/wahlkampf-in-den-usa-elon-musk-hat-donald-trump-75-millionen-dollar-gespendet-a-0d503008-9408-404b-b1b7-e450c089de46#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/ausland/gazastreifen-usa-drohen-israel-mit-kuerzung-der-militaerhilfe-bei-anhaltender-humanitaerer-krise](https://www.spiegel.de/ausland/gazastreifen-usa-drohen-israel-mit-kuerzung-der-militaerhilfe-bei-anhaltender-humanitaerer-krise-a-3ce54fd0-54c6-4f6b-a072-bb2c4c41a0b7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/gesamtmetall-praesident-stefan-wolf-warnt-vor-verlust-von-bis-zu-300-000-jobs](https://www.spiegel.de/wirtschaft/unternehmen/gesamtmetall-praesident-stefan-wolf-warnt-vor-verlust-von-bis-zu-300-000-jobs-a-7987fc9b-fbe8-4441-ad60-0845fd636c90#ref=rss)
+### ausgebrochene
+
+* [https://www.spiegel.de/panorama/koenigsbronn-auto-erfasst-ausgebrochene-schafherde-13-tiere-tot](https://www.spiegel.de/panorama/koenigsbronn-auto-erfasst-ausgebrochene-schafherde-13-tiere-tot-a-14a05970-21fd-4886-8c9e-6644661d181f#ref=rss)
+### schafherde
+
+* [https://www.spiegel.de/panorama/koenigsbronn-auto-erfasst-ausgebrochene-schafherde-13-tiere-tot](https://www.spiegel.de/panorama/koenigsbronn-auto-erfasst-ausgebrochene-schafherde-13-tiere-tot-a-14a05970-21fd-4886-8c9e-6644661d181f#ref=rss)
+### tiere
+
+* [https://www.spiegel.de/panorama/koenigsbronn-auto-erfasst-ausgebrochene-schafherde-13-tiere-tot](https://www.spiegel.de/panorama/koenigsbronn-auto-erfasst-ausgebrochene-schafherde-13-tiere-tot-a-14a05970-21fd-4886-8c9e-6644661d181f#ref=rss)
+### stefan
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/gesamtmetall-praesident-stefan-wolf-warnt-vor-verlust-von-bis-zu-300-000-jobs](https://www.spiegel.de/wirtschaft/unternehmen/gesamtmetall-praesident-stefan-wolf-warnt-vor-verlust-von-bis-zu-300-000-jobs-a-7987fc9b-fbe8-4441-ad60-0845fd636c90#ref=rss)
+### wolf
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/gesamtmetall-praesident-stefan-wolf-warnt-vor-verlust-von-bis-zu-300-000-jobs](https://www.spiegel.de/wirtschaft/unternehmen/gesamtmetall-praesident-stefan-wolf-warnt-vor-verlust-von-bis-zu-300-000-jobs-a-7987fc9b-fbe8-4441-ad60-0845fd636c90#ref=rss)
+### wmqualifikation
+
+* [https://www.spiegel.de/sport/fussball/wm-qualifikation-lionel-messi-fuehrt-argentinien-mit-fuenf-torbeteiligungen-zu-6-0-sieg](https://www.spiegel.de/sport/fussball/wm-qualifikation-lionel-messi-fuehrt-argentinien-mit-fuenf-torbeteiligungen-zu-6-0-sieg-a-d9643a9b-7055-43a7-86b3-ab9db4647eb8#ref=rss)
+### lionel
+
+* [https://www.spiegel.de/sport/fussball/wm-qualifikation-lionel-messi-fuehrt-argentinien-mit-fuenf-torbeteiligungen-zu-6-0-sieg](https://www.spiegel.de/sport/fussball/wm-qualifikation-lionel-messi-fuehrt-argentinien-mit-fuenf-torbeteiligungen-zu-6-0-sieg-a-d9643a9b-7055-43a7-86b3-ab9db4647eb8#ref=rss)
+### messi
+
+* [https://www.spiegel.de/sport/fussball/wm-qualifikation-lionel-messi-fuehrt-argentinien-mit-fuenf-torbeteiligungen-zu-6-0-sieg](https://www.spiegel.de/sport/fussball/wm-qualifikation-lionel-messi-fuehrt-argentinien-mit-fuenf-torbeteiligungen-zu-6-0-sieg-a-d9643a9b-7055-43a7-86b3-ab9db4647eb8#ref=rss)
+### argentinien
+
+* [https://www.spiegel.de/sport/fussball/wm-qualifikation-lionel-messi-fuehrt-argentinien-mit-fuenf-torbeteiligungen-zu-6-0-sieg](https://www.spiegel.de/sport/fussball/wm-qualifikation-lionel-messi-fuehrt-argentinien-mit-fuenf-torbeteiligungen-zu-6-0-sieg-a-d9643a9b-7055-43a7-86b3-ab9db4647eb8#ref=rss)
+### konservative
+
+* [https://www.spiegel.de/ausland/usa-konservative-muetter-kaempfen-fuer-strengere-waffengesetze-die-waffen-rebellinnen-aus-der-vorstadt](https://www.spiegel.de/ausland/usa-konservative-muetter-kaempfen-fuer-strengere-waffengesetze-die-waffen-rebellinnen-aus-der-vorstadt-a-7fa33714-0adc-4c30-91ca-01fdabbbec40#ref=rss)
+### mütter
+
+* [https://www.spiegel.de/ausland/usa-konservative-muetter-kaempfen-fuer-strengere-waffengesetze-die-waffen-rebellinnen-aus-der-vorstadt](https://www.spiegel.de/ausland/usa-konservative-muetter-kaempfen-fuer-strengere-waffengesetze-die-waffen-rebellinnen-aus-der-vorstadt-a-7fa33714-0adc-4c30-91ca-01fdabbbec40#ref=rss)
+### kämpfen
+
+* [https://www.spiegel.de/ausland/usa-konservative-muetter-kaempfen-fuer-strengere-waffengesetze-die-waffen-rebellinnen-aus-der-vorstadt](https://www.spiegel.de/ausland/usa-konservative-muetter-kaempfen-fuer-strengere-waffengesetze-die-waffen-rebellinnen-aus-der-vorstadt-a-7fa33714-0adc-4c30-91ca-01fdabbbec40#ref=rss)
+### strengere
+
+* [https://www.spiegel.de/ausland/usa-konservative-muetter-kaempfen-fuer-strengere-waffengesetze-die-waffen-rebellinnen-aus-der-vorstadt](https://www.spiegel.de/ausland/usa-konservative-muetter-kaempfen-fuer-strengere-waffengesetze-die-waffen-rebellinnen-aus-der-vorstadt-a-7fa33714-0adc-4c30-91ca-01fdabbbec40#ref=rss)
+### waffengesetze
+
+* [https://www.spiegel.de/ausland/usa-konservative-muetter-kaempfen-fuer-strengere-waffengesetze-die-waffen-rebellinnen-aus-der-vorstadt](https://www.spiegel.de/ausland/usa-konservative-muetter-kaempfen-fuer-strengere-waffengesetze-die-waffen-rebellinnen-aus-der-vorstadt-a-7fa33714-0adc-4c30-91ca-01fdabbbec40#ref=rss)
+### republikaner
+
+* [https://www.spiegel.de/ausland/usa-konservative-muetter-kaempfen-fuer-strengere-waffengesetze-die-waffen-rebellinnen-aus-der-vorstadt](https://www.spiegel.de/ausland/usa-konservative-muetter-kaempfen-fuer-strengere-waffengesetze-die-waffen-rebellinnen-aus-der-vorstadt-a-7fa33714-0adc-4c30-91ca-01fdabbbec40#ref=rss)
+* [https://www.spiegel.de/ausland/wahlkampf-in-den-usa-elon-musk-hat-donald-trump-75-millionen-dollar-gespendet](https://www.spiegel.de/ausland/wahlkampf-in-den-usa-elon-musk-hat-donald-trump-75-millionen-dollar-gespendet-a-0d503008-9408-404b-b1b7-e450c089de46#ref=rss)
+### trump
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/weltbank-praesident-ajay-banga-sieht-moegliche-donald-trump-wahl-gelassen](https://www.spiegel.de/wirtschaft/unternehmen/weltbank-praesident-ajay-banga-sieht-moegliche-donald-trump-wahl-gelassen-a-477b8391-a148-49b0-bde7-a29b779b3102#ref=rss)
+* [https://www.spiegel.de/ausland/wahlkampf-in-den-usa-elon-musk-hat-donald-trump-75-millionen-dollar-gespendet](https://www.spiegel.de/ausland/wahlkampf-in-den-usa-elon-musk-hat-donald-trump-75-millionen-dollar-gespendet-a-0d503008-9408-404b-b1b7-e450c089de46#ref=rss)
+### weltbankpräsident
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/weltbank-praesident-ajay-banga-sieht-moegliche-donald-trump-wahl-gelassen](https://www.spiegel.de/wirtschaft/unternehmen/weltbank-praesident-ajay-banga-sieht-moegliche-donald-trump-wahl-gelassen-a-477b8391-a148-49b0-bde7-a29b779b3102#ref=rss)
+### banga
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/weltbank-praesident-ajay-banga-sieht-moegliche-donald-trump-wahl-gelassen](https://www.spiegel.de/wirtschaft/unternehmen/weltbank-praesident-ajay-banga-sieht-moegliche-donald-trump-wahl-gelassen-a-477b8391-a148-49b0-bde7-a29b779b3102#ref=rss)
+### mögliche
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/weltbank-praesident-ajay-banga-sieht-moegliche-donald-trump-wahl-gelassen](https://www.spiegel.de/wirtschaft/unternehmen/weltbank-praesident-ajay-banga-sieht-moegliche-donald-trump-wahl-gelassen-a-477b8391-a148-49b0-bde7-a29b779b3102#ref=rss)
+### elon
+
+* [https://www.spiegel.de/ausland/wahlkampf-in-den-usa-elon-musk-hat-donald-trump-75-millionen-dollar-gespendet](https://www.spiegel.de/ausland/wahlkampf-in-den-usa-elon-musk-hat-donald-trump-75-millionen-dollar-gespendet-a-0d503008-9408-404b-b1b7-e450c089de46#ref=rss)
+### musk
+
+* [https://www.spiegel.de/ausland/wahlkampf-in-den-usa-elon-musk-hat-donald-trump-75-millionen-dollar-gespendet](https://www.spiegel.de/ausland/wahlkampf-in-den-usa-elon-musk-hat-donald-trump-75-millionen-dollar-gespendet-a-0d503008-9408-404b-b1b7-e450c089de46#ref=rss)
+### teslachef
+
+* [https://www.spiegel.de/ausland/wahlkampf-in-den-usa-elon-musk-hat-donald-trump-75-millionen-dollar-gespendet](https://www.spiegel.de/ausland/wahlkampf-in-den-usa-elon-musk-hat-donald-trump-75-millionen-dollar-gespendet-a-0d503008-9408-404b-b1b7-e450c089de46#ref=rss)
 
