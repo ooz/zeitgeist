@@ -4,356 +4,387 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### trump
+### neue
 
-* [https://www.spiegel.de/ausland/us-wahl-2024-junge-menschen-erzaehlen-was-sie-bewegt-und-wie-trump-einen-von-ihnen-umstimmte](https://www.spiegel.de/ausland/us-wahl-2024-junge-menschen-erzaehlen-was-sie-bewegt-und-wie-trump-einen-von-ihnen-umstimmte-a-7fb73597-31b2-4ba3-9fce-b0e4d3403816#ref=rss)
-* [https://www.spiegel.de/panorama/leute/donald-trump-schauspielikone-shirley-maclaine-erzaehlt-von-anzueglichen-blicken-des-ex-praesidenten](https://www.spiegel.de/panorama/leute/donald-trump-schauspielikone-shirley-maclaine-erzaehlt-von-anzueglichen-blicken-des-ex-praesidenten-a-44e48530-dea0-4d11-9c30-10f43ddce65d#ref=rss)
-* [https://www.spiegel.de/ausland/telefonspionage-trumps-handy-im-visier-chinesischer-hacker](https://www.spiegel.de/ausland/telefonspionage-trumps-handy-im-visier-chinesischer-hacker-a-a41e31ed-312d-4fbf-8ca8-b26d8f55457c#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/eu-fordert-alle-seiten-im-nahostkonflikt-zu-zurueckhaltung-auf](https://www.spiegel.de/ausland/eu-fordert-alle-seiten-im-nahostkonflikt-zu-zurueckhaltung-auf-a-e1cd7d81-c29e-4f40-82df-6217057ee4e9#ref=rss)
-* [https://www.spiegel.de/ausland/israels-vergeltungsangriff-auf-iran-washington-macht-doch-einen-unterschied-kommentar](https://www.spiegel.de/ausland/israels-vergeltungsangriff-auf-iran-washington-macht-doch-einen-unterschied-kommentar-a-c966d402-ff16-4c78-aa65-cd9976134630#ref=rss)
-* [https://www.spiegel.de/ausland/israels-gegenschlag-auf-iran-wie-israel-die-iranische-flugabwehr-ueberwand](https://www.spiegel.de/ausland/israels-gegenschlag-auf-iran-wie-israel-die-iranische-flugabwehr-ueberwand-a-9929f59a-24a5-43d8-a45c-ff5c6313323a#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/us-wahl-2024-junge-menschen-erzaehlen-was-sie-bewegt-und-wie-trump-einen-von-ihnen-umstimmte](https://www.spiegel.de/ausland/us-wahl-2024-junge-menschen-erzaehlen-was-sie-bewegt-und-wie-trump-einen-von-ihnen-umstimmte-a-7fb73597-31b2-4ba3-9fce-b0e4d3403816#ref=rss)
-* [https://www.spiegel.de/panorama/leute/donald-trump-schauspielikone-shirley-maclaine-erzaehlt-von-anzueglichen-blicken-des-ex-praesidenten](https://www.spiegel.de/panorama/leute/donald-trump-schauspielikone-shirley-maclaine-erzaehlt-von-anzueglichen-blicken-des-ex-praesidenten-a-44e48530-dea0-4d11-9c30-10f43ddce65d#ref=rss)
-* [https://www.spiegel.de/ausland/telefonspionage-trumps-handy-im-visier-chinesischer-hacker](https://www.spiegel.de/ausland/telefonspionage-trumps-handy-im-visier-chinesischer-hacker-a-a41e31ed-312d-4fbf-8ca8-b26d8f55457c#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/politik/kevin-lick-gymnasiast-in-russland-verurteilt-wegen-hochverrats-verurteilt](https://www.spiegel.de/politik/kevin-lick-gymnasiast-in-russland-verurteilt-wegen-hochverrats-verurteilt-a-4e0f6e64-c73a-46ff-8b5c-fa45dc5bf1d5#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-rohstoffkonzerne-muessen-21-milliarden-euro-strafe-fuer-dammbruch-von-bento-rodrigues-zahlen](https://www.spiegel.de/ausland/brasilien-rohstoffkonzerne-muessen-21-milliarden-euro-strafe-fuer-dammbruch-von-bento-rodrigues-zahlen-a-0421acac-d3ca-477e-8363-2f888a37e485#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-zeigt-nerven-in-soelden-lena-duerr-ueberraschend-stark](https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-zeigt-nerven-in-soelden-lena-duerr-ueberraschend-stark-a-4a4611d6-e707-463d-b12a-bc68086d7b9e#ref=rss)
-* [https://www.spiegel.de/sport/schach-wie-bist-du-so-schnell-eine-so-gute-spielerin-geworden-solveig-friberg](https://www.spiegel.de/sport/schach-wie-bist-du-so-schnell-eine-so-gute-spielerin-geworden-solveig-friberg-a-b579c499-d91f-42c3-9113-ff2286f8a1a9#ref=rss)
-### israels
-
-* [https://www.spiegel.de/ausland/eu-fordert-alle-seiten-im-nahostkonflikt-zu-zurueckhaltung-auf](https://www.spiegel.de/ausland/eu-fordert-alle-seiten-im-nahostkonflikt-zu-zurueckhaltung-auf-a-e1cd7d81-c29e-4f40-82df-6217057ee4e9#ref=rss)
-* [https://www.spiegel.de/ausland/israels-vergeltungsangriff-auf-iran-washington-macht-doch-einen-unterschied-kommentar](https://www.spiegel.de/ausland/israels-vergeltungsangriff-auf-iran-washington-macht-doch-einen-unterschied-kommentar-a-c966d402-ff16-4c78-aa65-cd9976134630#ref=rss)
-* [https://www.spiegel.de/ausland/israels-gegenschlag-auf-iran-wie-israel-die-iranische-flugabwehr-ueberwand](https://www.spiegel.de/ausland/israels-gegenschlag-auf-iran-wie-israel-die-iranische-flugabwehr-ueberwand-a-9929f59a-24a5-43d8-a45c-ff5c6313323a#ref=rss)
-### georgien
-
-* [https://www.spiegel.de/ausland/georgien-erste-hochrechnungen-zeigen-unterschiedliche-ergebnisse-bei-parlamentswahlen](https://www.spiegel.de/ausland/georgien-erste-hochrechnungen-zeigen-unterschiedliche-ergebnisse-bei-parlamentswahlen-a-2aebf843-e08b-452f-9804-4ae7d698a4cd#ref=rss)
-* [https://www.spiegel.de/ausland/praesidentin-salome-zurabishvili-prangert-gewalt-bei-parlamentswahlen-in-georgien-an](https://www.spiegel.de/ausland/praesidentin-salome-zurabishvili-prangert-gewalt-bei-parlamentswahlen-in-georgien-an-a-109193f4-f585-4e7a-8b21-d9c59ad5672a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/drogen-psychoaktive-substanzen-wie-spice-erobern-die-gefaengnisse](https://www.spiegel.de/panorama/justiz/drogen-psychoaktive-substanzen-wie-spice-erobern-die-gefaengnisse-a-c16d5407-b17b-4b34-a7ae-5681605bc569#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elbtower-insolvenzverwalter-zuversichtlich-neuen-investor-im-herbst-vorzustellen](https://www.spiegel.de/wirtschaft/elbtower-insolvenzverwalter-zuversichtlich-neuen-investor-im-herbst-vorzustellen-a-c463ee2e-6ed9-4fd6-a43c-3b17eb7e5dbc#ref=rss)
+* [https://www.spiegel.de/start/studium-neue-routinen-fuer-das-neue-studienjahr-tipps-zum-semesterstart](https://www.spiegel.de/start/studium-neue-routinen-fuer-das-neue-studienjahr-tipps-zum-semesterstart-a-7f8cb0e7-73da-432b-a15c-7ac7a15dc561#ref=rss)
+* [https://www.spiegel.de/politik/us-wahl-2024-kamala-harris-setzt-neue-massstaebe-fuer-politikerinnen](https://www.spiegel.de/politik/us-wahl-2024-kamala-harris-setzt-neue-massstaebe-fuer-politikerinnen-a-99691449-0be3-4350-a74a-6e0df93ce78c#ref=rss)
+* [https://www.spiegel.de/reise/deutschland/von-oberhausen-ueber-emmerich-bis-in-die-niederlande-80-wochen-bauarbeiten-was-bedeutet-das-fuer-bahnreisende](https://www.spiegel.de/reise/deutschland/von-oberhausen-ueber-emmerich-bis-in-die-niederlande-80-wochen-bauarbeiten-was-bedeutet-das-fuer-bahnreisende-a-9c681fc9-d6c3-44e5-97a9-5b4802b0cd72#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/ausland/spanien-ermittler-finden-rekordladung-kokain-versteckt-zwischen-bananen](https://www.spiegel.de/ausland/spanien-ermittler-finden-rekordladung-kokain-versteckt-zwischen-bananen-a-3f0b6ec5-77e3-49fc-aae9-d6807d0a8c5a#ref=rss)
-* [https://www.spiegel.de/politik/cdu-chef-friedrich-merz-frueher-renteneintritt-soll-unattraktiver-werden](https://www.spiegel.de/politik/cdu-chef-friedrich-merz-frueher-renteneintritt-soll-unattraktiver-werden-a-58f8e9db-82cb-407c-ac88-697d9ec57461#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/aussenpolitik-warum-deutschland-mehr-waffen-nach-indien-liefern-will](https://www.spiegel.de/politik/deutschland/aussenpolitik-warum-deutschland-mehr-waffen-nach-indien-liefern-will-a-3eb3c433-f6d3-4fa7-a85b-b9f0f5672f40#ref=rss)
-* [https://www.spiegel.de/ausland/israels-vergeltungsangriff-auf-iran-washington-macht-doch-einen-unterschied-kommentar](https://www.spiegel.de/ausland/israels-vergeltungsangriff-auf-iran-washington-macht-doch-einen-unterschied-kommentar-a-c966d402-ff16-4c78-aa65-cd9976134630#ref=rss)
-### leipzig
+* [https://www.spiegel.de/ausland/us-wahl-humor-kolumnistin-der-washington-post-spricht-sich-fuer-kamala-harris-aus](https://www.spiegel.de/ausland/us-wahl-humor-kolumnistin-der-washington-post-spricht-sich-fuer-kamala-harris-aus-a-925cd873-3ca7-4345-a6b3-138a73017091#ref=rss)
+* [https://www.spiegel.de/partnerschaft/wenig-oder-kein-sex-mehr-psychologin-juliane-burghardt-erklaert-wie-wir-wieder-lust-bekommen](https://www.spiegel.de/partnerschaft/wenig-oder-kein-sex-mehr-psychologin-juliane-burghardt-erklaert-wie-wir-wieder-lust-bekommen-a-9fb75d16-6669-48f4-9990-bc3045394d66#ref=rss)
+* [https://www.spiegel.de/start/studium-neue-routinen-fuer-das-neue-studienjahr-tipps-zum-semesterstart](https://www.spiegel.de/start/studium-neue-routinen-fuer-das-neue-studienjahr-tipps-zum-semesterstart-a-7f8cb0e7-73da-432b-a15c-7ac7a15dc561#ref=rss)
+* [https://www.spiegel.de/panorama/deutscher-anwaltverein-hamburg-erhaelt-erneut-den-goldenen-blitzer-hoechste-einnahmen-in-deutschland](https://www.spiegel.de/panorama/deutscher-anwaltverein-hamburg-erhaelt-erneut-den-goldenen-blitzer-hoechste-einnahmen-in-deutschland-a-41f5fde9-a6f3-4391-8707-8107199d43dd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-putins-nutzen-vom-brics-gipfel-ki-in-der-medizin](https://www.spiegel.de/politik/deutschland/news-putins-nutzen-vom-brics-gipfel-ki-in-der-medizin-a-3a2e88f0-24fb-4d03-be59-f877962d0c65#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-schwere-russische-angriffe-beuteln-die-ukraine](https://www.spiegel.de/ausland/russland-ukraine-krieg-schwere-russische-angriffe-beuteln-die-ukraine-a-6bbab1d4-3c24-4850-9fb4-2f66c1be1c00#ref=rss)
+### männer
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-rb-leipzig-erobert-tabellenspitze-der-bvb-implodiert](https://www.spiegel.de/sport/fussball/bundesliga-rb-leipzig-erobert-tabellenspitze-der-bvb-implodiert-a-0fe8c36c-e70a-46fb-9b21-d3c9c915c31d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/leipzig-siebenjaehriges-maedchen-stirbt-nach-mutmasslicher-messerattacke-durch-13-jaehrige-schwester](https://www.spiegel.de/panorama/justiz/leipzig-siebenjaehriges-maedchen-stirbt-nach-mutmasslicher-messerattacke-durch-13-jaehrige-schwester-a-fac39d67-57d1-48df-83a3-66c7def92b54#ref=rss)
-* [https://www.spiegel.de/sport/fussball/nachruf-auf-bernd-bauchspiess-der-fussball-chemiker](https://www.spiegel.de/sport/fussball/nachruf-auf-bernd-bauchspiess-der-fussball-chemiker-a-84473563-e3d7-4d0d-97c0-93c5075569b1#ref=rss)
+* [https://www.spiegel.de/panorama/rechtsextremismus-polizei-durchsucht-wohnungen-junger-neonazis-in-berlin-und-brandenburg](https://www.spiegel.de/panorama/rechtsextremismus-polizei-durchsucht-wohnungen-junger-neonazis-in-berlin-und-brandenburg-a-7dfef7fc-83f6-49d4-9bef-4c84084e7fc4#ref=rss)
+* [https://www.spiegel.de/partnerschaft/wenig-oder-kein-sex-mehr-psychologin-juliane-burghardt-erklaert-wie-wir-wieder-lust-bekommen](https://www.spiegel.de/partnerschaft/wenig-oder-kein-sex-mehr-psychologin-juliane-burghardt-erklaert-wie-wir-wieder-lust-bekommen-a-9fb75d16-6669-48f4-9990-bc3045394d66#ref=rss)
+* [https://www.spiegel.de/ausland/michelle-obama-unterstuetzt-in-kalamazoo-den-wahlkampf-von-kamala-harris](https://www.spiegel.de/ausland/michelle-obama-unterstuetzt-in-kalamazoo-den-wahlkampf-von-kamala-harris-a-44d1b339-31a8-4781-b150-6e8488f266e0#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahlen-michelle-obama-sieht-frauenrechte-durch-donald-trump-bedroht](https://www.spiegel.de/ausland/us-wahlen-michelle-obama-sieht-frauenrechte-durch-donald-trump-bedroht-a-9648664c-2632-4403-a905-318ae32076fc#ref=rss)
+### kamala
+
+* [https://www.spiegel.de/ausland/us-wahl-humor-kolumnistin-der-washington-post-spricht-sich-fuer-kamala-harris-aus](https://www.spiegel.de/ausland/us-wahl-humor-kolumnistin-der-washington-post-spricht-sich-fuer-kamala-harris-aus-a-925cd873-3ca7-4345-a6b3-138a73017091#ref=rss)
+* [https://www.spiegel.de/politik/us-wahl-2024-kamala-harris-setzt-neue-massstaebe-fuer-politikerinnen](https://www.spiegel.de/politik/us-wahl-2024-kamala-harris-setzt-neue-massstaebe-fuer-politikerinnen-a-99691449-0be3-4350-a74a-6e0df93ce78c#ref=rss)
+* [https://www.spiegel.de/ausland/michelle-obama-unterstuetzt-in-kalamazoo-den-wahlkampf-von-kamala-harris](https://www.spiegel.de/ausland/michelle-obama-unterstuetzt-in-kalamazoo-den-wahlkampf-von-kamala-harris-a-44d1b339-31a8-4781-b150-6e8488f266e0#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahlen-michelle-obama-sieht-frauenrechte-durch-donald-trump-bedroht](https://www.spiegel.de/ausland/us-wahlen-michelle-obama-sieht-frauenrechte-durch-donald-trump-bedroht-a-9648664c-2632-4403-a905-318ae32076fc#ref=rss)
+### harris
+
+* [https://www.spiegel.de/ausland/us-wahl-humor-kolumnistin-der-washington-post-spricht-sich-fuer-kamala-harris-aus](https://www.spiegel.de/ausland/us-wahl-humor-kolumnistin-der-washington-post-spricht-sich-fuer-kamala-harris-aus-a-925cd873-3ca7-4345-a6b3-138a73017091#ref=rss)
+* [https://www.spiegel.de/politik/us-wahl-2024-kamala-harris-setzt-neue-massstaebe-fuer-politikerinnen](https://www.spiegel.de/politik/us-wahl-2024-kamala-harris-setzt-neue-massstaebe-fuer-politikerinnen-a-99691449-0be3-4350-a74a-6e0df93ce78c#ref=rss)
+* [https://www.spiegel.de/ausland/michelle-obama-unterstuetzt-in-kalamazoo-den-wahlkampf-von-kamala-harris](https://www.spiegel.de/ausland/michelle-obama-unterstuetzt-in-kalamazoo-den-wahlkampf-von-kamala-harris-a-44d1b339-31a8-4781-b150-6e8488f266e0#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahlen-michelle-obama-sieht-frauenrechte-durch-donald-trump-bedroht](https://www.spiegel.de/ausland/us-wahlen-michelle-obama-sieht-frauenrechte-durch-donald-trump-bedroht-a-9648664c-2632-4403-a905-318ae32076fc#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/rechtsextremismus-polizei-durchsucht-wohnungen-junger-neonazis-in-berlin-und-brandenburg](https://www.spiegel.de/panorama/rechtsextremismus-polizei-durchsucht-wohnungen-junger-neonazis-in-berlin-und-brandenburg-a-7dfef7fc-83f6-49d4-9bef-4c84084e7fc4#ref=rss)
+* [https://www.spiegel.de/ausland/israel-lkw-rast-in-bushaltestelle-in-tel-aviv-dutzende-verletzte-bei-mutmasslichem-terroranschlag](https://www.spiegel.de/ausland/israel-lkw-rast-in-bushaltestelle-in-tel-aviv-dutzende-verletzte-bei-mutmasslichem-terroranschlag-a-07fcdcb8-3249-4f21-9da9-7d4965ea532d#ref=rss)
+### problem
+
+* [https://www.spiegel.de/sport/surfen-ohne-augenlicht-das-aussergewoehnliche-gespuer-von-ben-neumann-fuer-das-wasser](https://www.spiegel.de/sport/surfen-ohne-augenlicht-das-aussergewoehnliche-gespuer-von-ben-neumann-fuer-das-wasser-a-0aa679a9-c29d-4ba5-9ff9-6bceadef5bcf#ref=rss)
+* [https://www.spiegel.de/panorama/leute/prinz-william-erzaehlt-von-besuch-im-obdachlosenheim-mit-diana](https://www.spiegel.de/panorama/leute/prinz-william-erzaehlt-von-besuch-im-obdachlosenheim-mit-diana-a-5bd9cda6-c44f-48c3-b411-6f6278096397#ref=rss)
+### israels
+
+* [https://www.spiegel.de/ausland/israels-angriff-auf-iran-ali-khamenei-mahnt-ueberlegtes-handeln-an](https://www.spiegel.de/ausland/israels-angriff-auf-iran-ali-khamenei-mahnt-ueberlegtes-handeln-an-a-c83610bc-810a-48a6-97d4-e566a3e502ca#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-nahost-kaempfe-in-gaza-und-im-libanon-hoffnung-auf-geiselgespraeche](https://www.spiegel.de/ausland/krieg-in-nahost-kaempfe-in-gaza-und-im-libanon-hoffnung-auf-geiselgespraeche-a-21d65c45-cfeb-458a-a829-9cf3cada4da8#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/ausland/us-wahl-2024-junge-menschen-erzaehlen-was-sie-bewegt-und-wie-trump-einen-von-ihnen-umstimmte](https://www.spiegel.de/ausland/us-wahl-2024-junge-menschen-erzaehlen-was-sie-bewegt-und-wie-trump-einen-von-ihnen-umstimmte-a-7fb73597-31b2-4ba3-9fce-b0e4d3403816#ref=rss)
-* [https://www.spiegel.de/politik/arm-und-reich-ein-ausflug-in-die-dollar-street](https://www.spiegel.de/politik/arm-und-reich-ein-ausflug-in-die-dollar-street-a-4a4e4259-0e36-410d-b629-227615798f70#ref=rss)
-* [https://www.spiegel.de/ausland/mcdonalds-anzahl-der-erkrankten-durch-kolibakterien-steigt](https://www.spiegel.de/ausland/mcdonalds-anzahl-der-erkrankten-durch-kolibakterien-steigt-a-d5ed6592-00b0-481b-a867-762ad74c649e#ref=rss)
-### verurteilt
+* [https://www.spiegel.de/ausland/israel-lkw-rast-in-bushaltestelle-in-tel-aviv-dutzende-verletzte-bei-mutmasslichem-terroranschlag](https://www.spiegel.de/ausland/israel-lkw-rast-in-bushaltestelle-in-tel-aviv-dutzende-verletzte-bei-mutmasslichem-terroranschlag-a-07fcdcb8-3249-4f21-9da9-7d4965ea532d#ref=rss)
+* [https://www.spiegel.de/partnerschaft/wenig-oder-kein-sex-mehr-psychologin-juliane-burghardt-erklaert-wie-wir-wieder-lust-bekommen](https://www.spiegel.de/partnerschaft/wenig-oder-kein-sex-mehr-psychologin-juliane-burghardt-erklaert-wie-wir-wieder-lust-bekommen-a-9fb75d16-6669-48f4-9990-bc3045394d66#ref=rss)
+* [https://www.spiegel.de/start/studium-neue-routinen-fuer-das-neue-studienjahr-tipps-zum-semesterstart](https://www.spiegel.de/start/studium-neue-routinen-fuer-das-neue-studienjahr-tipps-zum-semesterstart-a-7f8cb0e7-73da-432b-a15c-7ac7a15dc561#ref=rss)
+### washington
 
-* [https://www.spiegel.de/politik/kevin-lick-gymnasiast-in-russland-verurteilt-wegen-hochverrats-verurteilt](https://www.spiegel.de/politik/kevin-lick-gymnasiast-in-russland-verurteilt-wegen-hochverrats-verurteilt-a-4e0f6e64-c73a-46ff-8b5c-fa45dc5bf1d5#ref=rss)
-### israel
+* [https://www.spiegel.de/ausland/us-wahl-humor-kolumnistin-der-washington-post-spricht-sich-fuer-kamala-harris-aus](https://www.spiegel.de/ausland/us-wahl-humor-kolumnistin-der-washington-post-spricht-sich-fuer-kamala-harris-aus-a-925cd873-3ca7-4345-a6b3-138a73017091#ref=rss)
+* [https://www.spiegel.de/ausland/elon-musk-verstiess-offenbar-gegen-us-einwanderungsgesetz](https://www.spiegel.de/ausland/elon-musk-verstiess-offenbar-gegen-us-einwanderungsgesetz-a-c4c903f8-5a8e-4520-9a05-abb80a2b9588#ref=rss)
+### post
 
-* [https://www.spiegel.de/ausland/eu-fordert-alle-seiten-im-nahostkonflikt-zu-zurueckhaltung-auf](https://www.spiegel.de/ausland/eu-fordert-alle-seiten-im-nahostkonflikt-zu-zurueckhaltung-auf-a-e1cd7d81-c29e-4f40-82df-6217057ee4e9#ref=rss)
-* [https://www.spiegel.de/ausland/israels-gegenschlag-auf-iran-wie-israel-die-iranische-flugabwehr-ueberwand](https://www.spiegel.de/ausland/israels-gegenschlag-auf-iran-wie-israel-die-iranische-flugabwehr-ueberwand-a-9929f59a-24a5-43d8-a45c-ff5c6313323a#ref=rss)
-### erste
+* [https://www.spiegel.de/ausland/us-wahl-humor-kolumnistin-der-washington-post-spricht-sich-fuer-kamala-harris-aus](https://www.spiegel.de/ausland/us-wahl-humor-kolumnistin-der-washington-post-spricht-sich-fuer-kamala-harris-aus-a-925cd873-3ca7-4345-a6b3-138a73017091#ref=rss)
+* [https://www.spiegel.de/ausland/elon-musk-verstiess-offenbar-gegen-us-einwanderungsgesetz](https://www.spiegel.de/ausland/elon-musk-verstiess-offenbar-gegen-us-einwanderungsgesetz-a-c4c903f8-5a8e-4520-9a05-abb80a2b9588#ref=rss)
+### lange
 
-* [https://www.spiegel.de/ausland/georgien-erste-hochrechnungen-zeigen-unterschiedliche-ergebnisse-bei-parlamentswahlen](https://www.spiegel.de/ausland/georgien-erste-hochrechnungen-zeigen-unterschiedliche-ergebnisse-bei-parlamentswahlen-a-2aebf843-e08b-452f-9804-4ae7d698a4cd#ref=rss)
-* [https://www.spiegel.de/ausland/spanien-ermittler-finden-rekordladung-kokain-versteckt-zwischen-bananen](https://www.spiegel.de/ausland/spanien-ermittler-finden-rekordladung-kokain-versteckt-zwischen-bananen-a-3f0b6ec5-77e3-49fc-aae9-d6807d0a8c5a#ref=rss)
-* [https://www.spiegel.de/politik/cdu-chef-friedrich-merz-frueher-renteneintritt-soll-unattraktiver-werden](https://www.spiegel.de/politik/cdu-chef-friedrich-merz-frueher-renteneintritt-soll-unattraktiver-werden-a-58f8e9db-82cb-407c-ac88-697d9ec57461#ref=rss)
+* [https://www.spiegel.de/start/studium-neue-routinen-fuer-das-neue-studienjahr-tipps-zum-semesterstart](https://www.spiegel.de/start/studium-neue-routinen-fuer-das-neue-studienjahr-tipps-zum-semesterstart-a-7f8cb0e7-73da-432b-a15c-7ac7a15dc561#ref=rss)
+* [https://www.spiegel.de/sport/ironman-wm-in-hawaii-patrick-lange-gewinnt-zum-dritten-mal](https://www.spiegel.de/sport/ironman-wm-in-hawaii-patrick-lange-gewinnt-zum-dritten-mal-a-86ef169f-f274-4a7c-a06d-ab52467d0c26#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/deinspiegel/ki-expertin-katharina-zweig-in-manchen-bereichen-ist-die-kuenstliche-intelligenz-bereits-schlauer-als-wir](https://www.spiegel.de/deinspiegel/ki-expertin-katharina-zweig-in-manchen-bereichen-ist-die-kuenstliche-intelligenz-bereits-schlauer-als-wir-a-1675eed9-e4a1-4e34-b3ab-a52dd3bac716#ref=rss)
+* [https://www.spiegel.de/reise/deutschland/von-oberhausen-ueber-emmerich-bis-in-die-niederlande-80-wochen-bauarbeiten-was-bedeutet-das-fuer-bahnreisende](https://www.spiegel.de/reise/deutschland/von-oberhausen-ueber-emmerich-bis-in-die-niederlande-80-wochen-bauarbeiten-was-bedeutet-das-fuer-bahnreisende-a-9c681fc9-d6c3-44e5-97a9-5b4802b0cd72#ref=rss)
+* [https://www.spiegel.de/panorama/leute/prinz-william-erzaehlt-von-besuch-im-obdachlosenheim-mit-diana](https://www.spiegel.de/panorama/leute/prinz-william-erzaehlt-von-besuch-im-obdachlosenheim-mit-diana-a-5bd9cda6-c44f-48c3-b411-6f6278096397#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/politik/us-wahl-2024-kamala-harris-setzt-neue-massstaebe-fuer-politikerinnen](https://www.spiegel.de/politik/us-wahl-2024-kamala-harris-setzt-neue-massstaebe-fuer-politikerinnen-a-99691449-0be3-4350-a74a-6e0df93ce78c#ref=rss)
+* [https://www.spiegel.de/ausland/vatikan-frauen-fordern-gleichberechtigung-bei-der-weltsynode](https://www.spiegel.de/ausland/vatikan-frauen-fordern-gleichberechtigung-bei-der-weltsynode-a-49c5576d-c940-4a7f-b671-f7589ccc8478#ref=rss)
+### woche
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw43-2024-von-thomas-plassmann-klaus-stuttmann-und-chappatte](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw43-2024-von-thomas-plassmann-klaus-stuttmann-und-chappatte-a-fe5495b2-4a76-4202-bb9e-df380b207448#ref=rss)
+* [https://www.spiegel.de/karriere/raetsel-der-woche-das-tor-zur-freiheit](https://www.spiegel.de/karriere/raetsel-der-woche-das-tor-zur-freiheit-a-51210d12-6f55-4a9f-95d7-fd807432475d#ref=rss)
+### michelle
+
+* [https://www.spiegel.de/ausland/michelle-obama-unterstuetzt-in-kalamazoo-den-wahlkampf-von-kamala-harris](https://www.spiegel.de/ausland/michelle-obama-unterstuetzt-in-kalamazoo-den-wahlkampf-von-kamala-harris-a-44d1b339-31a8-4781-b150-6e8488f266e0#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahlen-michelle-obama-sieht-frauenrechte-durch-donald-trump-bedroht](https://www.spiegel.de/ausland/us-wahlen-michelle-obama-sieht-frauenrechte-durch-donald-trump-bedroht-a-9648664c-2632-4403-a905-318ae32076fc#ref=rss)
+### obama
+
+* [https://www.spiegel.de/ausland/michelle-obama-unterstuetzt-in-kalamazoo-den-wahlkampf-von-kamala-harris](https://www.spiegel.de/ausland/michelle-obama-unterstuetzt-in-kalamazoo-den-wahlkampf-von-kamala-harris-a-44d1b339-31a8-4781-b150-6e8488f266e0#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahlen-michelle-obama-sieht-frauenrechte-durch-donald-trump-bedroht](https://www.spiegel.de/ausland/us-wahlen-michelle-obama-sieht-frauenrechte-durch-donald-trump-bedroht-a-9648664c-2632-4403-a905-318ae32076fc#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/panorama/rechtsextremismus-polizei-durchsucht-wohnungen-junger-neonazis-in-berlin-und-brandenburg](https://www.spiegel.de/panorama/rechtsextremismus-polizei-durchsucht-wohnungen-junger-neonazis-in-berlin-und-brandenburg-a-7dfef7fc-83f6-49d4-9bef-4c84084e7fc4#ref=rss)
+### brandenburg
+
+* [https://www.spiegel.de/panorama/rechtsextremismus-polizei-durchsucht-wohnungen-junger-neonazis-in-berlin-und-brandenburg](https://www.spiegel.de/panorama/rechtsextremismus-polizei-durchsucht-wohnungen-junger-neonazis-in-berlin-und-brandenburg-a-7dfef7fc-83f6-49d4-9bef-4c84084e7fc4#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/sport/surfen-ohne-augenlicht-das-aussergewoehnliche-gespuer-von-ben-neumann-fuer-das-wasser](https://www.spiegel.de/sport/surfen-ohne-augenlicht-das-aussergewoehnliche-gespuer-von-ben-neumann-fuer-das-wasser-a-0aa679a9-c29d-4ba5-9ff9-6bceadef5bcf#ref=rss)
+### ben
+
+* [https://www.spiegel.de/sport/surfen-ohne-augenlicht-das-aussergewoehnliche-gespuer-von-ben-neumann-fuer-das-wasser](https://www.spiegel.de/sport/surfen-ohne-augenlicht-das-aussergewoehnliche-gespuer-von-ben-neumann-fuer-das-wasser-a-0aa679a9-c29d-4ba5-9ff9-6bceadef5bcf#ref=rss)
+### neumann
+
+* [https://www.spiegel.de/sport/surfen-ohne-augenlicht-das-aussergewoehnliche-gespuer-von-ben-neumann-fuer-das-wasser](https://www.spiegel.de/sport/surfen-ohne-augenlicht-das-aussergewoehnliche-gespuer-von-ben-neumann-fuer-das-wasser-a-0aa679a9-c29d-4ba5-9ff9-6bceadef5bcf#ref=rss)
+### wasser
+
+* [https://www.spiegel.de/sport/surfen-ohne-augenlicht-das-aussergewoehnliche-gespuer-von-ben-neumann-fuer-das-wasser](https://www.spiegel.de/sport/surfen-ohne-augenlicht-das-aussergewoehnliche-gespuer-von-ben-neumann-fuer-das-wasser-a-0aa679a9-c29d-4ba5-9ff9-6bceadef5bcf#ref=rss)
+### sehen
+
+* [https://www.spiegel.de/sport/surfen-ohne-augenlicht-das-aussergewoehnliche-gespuer-von-ben-neumann-fuer-das-wasser](https://www.spiegel.de/sport/surfen-ohne-augenlicht-das-aussergewoehnliche-gespuer-von-ben-neumann-fuer-das-wasser-a-0aa679a9-c29d-4ba5-9ff9-6bceadef5bcf#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw43-2024-von-thomas-plassmann-klaus-stuttmann-und-chappatte](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw43-2024-von-thomas-plassmann-klaus-stuttmann-und-chappatte-a-fe5495b2-4a76-4202-bb9e-df380b207448#ref=rss)
+### drogen
+
+* [https://www.spiegel.de/panorama/justiz/drogen-psychoaktive-substanzen-wie-spice-erobern-die-gefaengnisse](https://www.spiegel.de/panorama/justiz/drogen-psychoaktive-substanzen-wie-spice-erobern-die-gefaengnisse-a-c16d5407-b17b-4b34-a7ae-5681605bc569#ref=rss)
+### gefängnisse
+
+* [https://www.spiegel.de/panorama/justiz/drogen-psychoaktive-substanzen-wie-spice-erobern-die-gefaengnisse](https://www.spiegel.de/panorama/justiz/drogen-psychoaktive-substanzen-wie-spice-erobern-die-gefaengnisse-a-c16d5407-b17b-4b34-a7ae-5681605bc569#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/israels-angriff-auf-iran-ali-khamenei-mahnt-ueberlegtes-handeln-an](https://www.spiegel.de/ausland/israels-angriff-auf-iran-ali-khamenei-mahnt-ueberlegtes-handeln-an-a-c83610bc-810a-48a6-97d4-e566a3e502ca#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-nahost-kaempfe-in-gaza-und-im-libanon-hoffnung-auf-geiselgespraeche](https://www.spiegel.de/ausland/krieg-in-nahost-kaempfe-in-gaza-und-im-libanon-hoffnung-auf-geiselgespraeche-a-21d65c45-cfeb-458a-a829-9cf3cada4da8#ref=rss)
+### ali
+
+* [https://www.spiegel.de/ausland/israels-angriff-auf-iran-ali-khamenei-mahnt-ueberlegtes-handeln-an](https://www.spiegel.de/ausland/israels-angriff-auf-iran-ali-khamenei-mahnt-ueberlegtes-handeln-an-a-c83610bc-810a-48a6-97d4-e566a3e502ca#ref=rss)
+### khamenei
+
+* [https://www.spiegel.de/ausland/israels-angriff-auf-iran-ali-khamenei-mahnt-ueberlegtes-handeln-an](https://www.spiegel.de/ausland/israels-angriff-auf-iran-ali-khamenei-mahnt-ueberlegtes-handeln-an-a-c83610bc-810a-48a6-97d4-e566a3e502ca#ref=rss)
+### handeln
+
+* [https://www.spiegel.de/ausland/israels-angriff-auf-iran-ali-khamenei-mahnt-ueberlegtes-handeln-an](https://www.spiegel.de/ausland/israels-angriff-auf-iran-ali-khamenei-mahnt-ueberlegtes-handeln-an-a-c83610bc-810a-48a6-97d4-e566a3e502ca#ref=rss)
+* [https://www.spiegel.de/ausland/elon-musk-verstiess-offenbar-gegen-us-einwanderungsgesetz](https://www.spiegel.de/ausland/elon-musk-verstiess-offenbar-gegen-us-einwanderungsgesetz-a-c4c903f8-5a8e-4520-9a05-abb80a2b9588#ref=rss)
+### tel
+
+* [https://www.spiegel.de/ausland/israel-lkw-rast-in-bushaltestelle-in-tel-aviv-dutzende-verletzte-bei-mutmasslichem-terroranschlag](https://www.spiegel.de/ausland/israel-lkw-rast-in-bushaltestelle-in-tel-aviv-dutzende-verletzte-bei-mutmasslichem-terroranschlag-a-07fcdcb8-3249-4f21-9da9-7d4965ea532d#ref=rss)
+### aviv
+
+* [https://www.spiegel.de/ausland/israel-lkw-rast-in-bushaltestelle-in-tel-aviv-dutzende-verletzte-bei-mutmasslichem-terroranschlag](https://www.spiegel.de/ausland/israel-lkw-rast-in-bushaltestelle-in-tel-aviv-dutzende-verletzte-bei-mutmasslichem-terroranschlag-a-07fcdcb8-3249-4f21-9da9-7d4965ea532d#ref=rss)
+### bushaltestelle
+
+* [https://www.spiegel.de/ausland/israel-lkw-rast-in-bushaltestelle-in-tel-aviv-dutzende-verletzte-bei-mutmasslichem-terroranschlag](https://www.spiegel.de/ausland/israel-lkw-rast-in-bushaltestelle-in-tel-aviv-dutzende-verletzte-bei-mutmasslichem-terroranschlag-a-07fcdcb8-3249-4f21-9da9-7d4965ea532d#ref=rss)
+### dutzende
+
+* [https://www.spiegel.de/ausland/israel-lkw-rast-in-bushaltestelle-in-tel-aviv-dutzende-verletzte-bei-mutmasslichem-terroranschlag](https://www.spiegel.de/ausland/israel-lkw-rast-in-bushaltestelle-in-tel-aviv-dutzende-verletzte-bei-mutmasslichem-terroranschlag-a-07fcdcb8-3249-4f21-9da9-7d4965ea532d#ref=rss)
 ### uswahl
 
-* [https://www.spiegel.de/ausland/us-wahl-2024-junge-menschen-erzaehlen-was-sie-bewegt-und-wie-trump-einen-von-ihnen-umstimmte](https://www.spiegel.de/ausland/us-wahl-2024-junge-menschen-erzaehlen-was-sie-bewegt-und-wie-trump-einen-von-ihnen-umstimmte-a-7fb73597-31b2-4ba3-9fce-b0e4d3403816#ref=rss)
-* [https://www.spiegel.de/ausland/telefonspionage-trumps-handy-im-visier-chinesischer-hacker](https://www.spiegel.de/ausland/telefonspionage-trumps-handy-im-visier-chinesischer-hacker-a-a41e31ed-312d-4fbf-8ca8-b26d8f55457c#ref=rss)
-### zwei
+* [https://www.spiegel.de/ausland/us-wahl-humor-kolumnistin-der-washington-post-spricht-sich-fuer-kamala-harris-aus](https://www.spiegel.de/ausland/us-wahl-humor-kolumnistin-der-washington-post-spricht-sich-fuer-kamala-harris-aus-a-925cd873-3ca7-4345-a6b3-138a73017091#ref=rss)
+* [https://www.spiegel.de/politik/us-wahl-2024-kamala-harris-setzt-neue-massstaebe-fuer-politikerinnen](https://www.spiegel.de/politik/us-wahl-2024-kamala-harris-setzt-neue-massstaebe-fuer-politikerinnen-a-99691449-0be3-4350-a74a-6e0df93ce78c#ref=rss)
+### elbtower
 
-* [https://www.spiegel.de/ausland/us-wahl-2024-junge-menschen-erzaehlen-was-sie-bewegt-und-wie-trump-einen-von-ihnen-umstimmte](https://www.spiegel.de/ausland/us-wahl-2024-junge-menschen-erzaehlen-was-sie-bewegt-und-wie-trump-einen-von-ihnen-umstimmte-a-7fb73597-31b2-4ba3-9fce-b0e4d3403816#ref=rss)
-* [https://www.spiegel.de/start/gastronomie-tim-raue-und-junggastronomen-ueber-arbeitsbedingungen](https://www.spiegel.de/start/gastronomie-tim-raue-und-junggastronomen-ueber-arbeitsbedingungen-a-546e77ad-6e95-4338-b4e2-285e751d1100#ref=rss)
-* [https://www.spiegel.de/panorama/moers-e-bike-akku-explodiert-in-mehrfamilienhaus-drei-verletzte](https://www.spiegel.de/panorama/moers-e-bike-akku-explodiert-in-mehrfamilienhaus-drei-verletzte-a-e0ad3366-c25d-4a58-8202-4729e6a14eb6#ref=rss)
-### zeigt
+* [https://www.spiegel.de/wirtschaft/elbtower-insolvenzverwalter-zuversichtlich-neuen-investor-im-herbst-vorzustellen](https://www.spiegel.de/wirtschaft/elbtower-insolvenzverwalter-zuversichtlich-neuen-investor-im-herbst-vorzustellen-a-c463ee2e-6ed9-4fd6-a43c-3b17eb7e5dbc#ref=rss)
+### insolvenzverwalter
 
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-zeigt-nerven-in-soelden-lena-duerr-ueberraschend-stark](https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-zeigt-nerven-in-soelden-lena-duerr-ueberraschend-stark-a-4a4611d6-e707-463d-b12a-bc68086d7b9e#ref=rss)
-* [https://www.spiegel.de/politik/arm-und-reich-ein-ausflug-in-die-dollar-street](https://www.spiegel.de/politik/arm-und-reich-ein-ausflug-in-die-dollar-street-a-4a4e4259-0e36-410d-b629-227615798f70#ref=rss)
-### kevin
+* [https://www.spiegel.de/wirtschaft/elbtower-insolvenzverwalter-zuversichtlich-neuen-investor-im-herbst-vorzustellen](https://www.spiegel.de/wirtschaft/elbtower-insolvenzverwalter-zuversichtlich-neuen-investor-im-herbst-vorzustellen-a-c463ee2e-6ed9-4fd6-a43c-3b17eb7e5dbc#ref=rss)
+### investor
 
-* [https://www.spiegel.de/politik/kevin-lick-gymnasiast-in-russland-verurteilt-wegen-hochverrats-verurteilt](https://www.spiegel.de/politik/kevin-lick-gymnasiast-in-russland-verurteilt-wegen-hochverrats-verurteilt-a-4e0f6e64-c73a-46ff-8b5c-fa45dc5bf1d5#ref=rss)
-### lick
+* [https://www.spiegel.de/wirtschaft/elbtower-insolvenzverwalter-zuversichtlich-neuen-investor-im-herbst-vorzustellen](https://www.spiegel.de/wirtschaft/elbtower-insolvenzverwalter-zuversichtlich-neuen-investor-im-herbst-vorzustellen-a-c463ee2e-6ed9-4fd6-a43c-3b17eb7e5dbc#ref=rss)
+### bauarbeiten
 
-* [https://www.spiegel.de/politik/kevin-lick-gymnasiast-in-russland-verurteilt-wegen-hochverrats-verurteilt](https://www.spiegel.de/politik/kevin-lick-gymnasiast-in-russland-verurteilt-wegen-hochverrats-verurteilt-a-4e0f6e64-c73a-46ff-8b5c-fa45dc5bf1d5#ref=rss)
-### russland
+* [https://www.spiegel.de/wirtschaft/elbtower-insolvenzverwalter-zuversichtlich-neuen-investor-im-herbst-vorzustellen](https://www.spiegel.de/wirtschaft/elbtower-insolvenzverwalter-zuversichtlich-neuen-investor-im-herbst-vorzustellen-a-c463ee2e-6ed9-4fd6-a43c-3b17eb7e5dbc#ref=rss)
+* [https://www.spiegel.de/reise/deutschland/von-oberhausen-ueber-emmerich-bis-in-die-niederlande-80-wochen-bauarbeiten-was-bedeutet-das-fuer-bahnreisende](https://www.spiegel.de/reise/deutschland/von-oberhausen-ueber-emmerich-bis-in-die-niederlande-80-wochen-bauarbeiten-was-bedeutet-das-fuer-bahnreisende-a-9c681fc9-d6c3-44e5-97a9-5b4802b0cd72#ref=rss)
+### sex
 
-* [https://www.spiegel.de/politik/kevin-lick-gymnasiast-in-russland-verurteilt-wegen-hochverrats-verurteilt](https://www.spiegel.de/politik/kevin-lick-gymnasiast-in-russland-verurteilt-wegen-hochverrats-verurteilt-a-4e0f6e64-c73a-46ff-8b5c-fa45dc5bf1d5#ref=rss)
-### später
+* [https://www.spiegel.de/partnerschaft/wenig-oder-kein-sex-mehr-psychologin-juliane-burghardt-erklaert-wie-wir-wieder-lust-bekommen](https://www.spiegel.de/partnerschaft/wenig-oder-kein-sex-mehr-psychologin-juliane-burghardt-erklaert-wie-wir-wieder-lust-bekommen-a-9fb75d16-6669-48f4-9990-bc3045394d66#ref=rss)
+### juliane
 
-* [https://www.spiegel.de/politik/kevin-lick-gymnasiast-in-russland-verurteilt-wegen-hochverrats-verurteilt](https://www.spiegel.de/politik/kevin-lick-gymnasiast-in-russland-verurteilt-wegen-hochverrats-verurteilt-a-4e0f6e64-c73a-46ff-8b5c-fa45dc5bf1d5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/leipzig-siebenjaehriges-maedchen-stirbt-nach-mutmasslicher-messerattacke-durch-13-jaehrige-schwester](https://www.spiegel.de/panorama/justiz/leipzig-siebenjaehriges-maedchen-stirbt-nach-mutmasslicher-messerattacke-durch-13-jaehrige-schwester-a-fac39d67-57d1-48df-83a3-66c7def92b54#ref=rss)
-### fordert
+* [https://www.spiegel.de/partnerschaft/wenig-oder-kein-sex-mehr-psychologin-juliane-burghardt-erklaert-wie-wir-wieder-lust-bekommen](https://www.spiegel.de/partnerschaft/wenig-oder-kein-sex-mehr-psychologin-juliane-burghardt-erklaert-wie-wir-wieder-lust-bekommen-a-9fb75d16-6669-48f4-9990-bc3045394d66#ref=rss)
+### burghardt
 
-* [https://www.spiegel.de/ausland/eu-fordert-alle-seiten-im-nahostkonflikt-zu-zurueckhaltung-auf](https://www.spiegel.de/ausland/eu-fordert-alle-seiten-im-nahostkonflikt-zu-zurueckhaltung-auf-a-e1cd7d81-c29e-4f40-82df-6217057ee4e9#ref=rss)
-### zurückhaltung
+* [https://www.spiegel.de/partnerschaft/wenig-oder-kein-sex-mehr-psychologin-juliane-burghardt-erklaert-wie-wir-wieder-lust-bekommen](https://www.spiegel.de/partnerschaft/wenig-oder-kein-sex-mehr-psychologin-juliane-burghardt-erklaert-wie-wir-wieder-lust-bekommen-a-9fb75d16-6669-48f4-9990-bc3045394d66#ref=rss)
+### wir
 
-* [https://www.spiegel.de/ausland/eu-fordert-alle-seiten-im-nahostkonflikt-zu-zurueckhaltung-auf](https://www.spiegel.de/ausland/eu-fordert-alle-seiten-im-nahostkonflikt-zu-zurueckhaltung-auf-a-e1cd7d81-c29e-4f40-82df-6217057ee4e9#ref=rss)
-### union
+* [https://www.spiegel.de/partnerschaft/wenig-oder-kein-sex-mehr-psychologin-juliane-burghardt-erklaert-wie-wir-wieder-lust-bekommen](https://www.spiegel.de/partnerschaft/wenig-oder-kein-sex-mehr-psychologin-juliane-burghardt-erklaert-wie-wir-wieder-lust-bekommen-a-9fb75d16-6669-48f4-9990-bc3045394d66#ref=rss)
+* [https://www.spiegel.de/deinspiegel/ki-expertin-katharina-zweig-in-manchen-bereichen-ist-die-kuenstliche-intelligenz-bereits-schlauer-als-wir](https://www.spiegel.de/deinspiegel/ki-expertin-katharina-zweig-in-manchen-bereichen-ist-die-kuenstliche-intelligenz-bereits-schlauer-als-wir-a-1675eed9-e4a1-4e34-b3ab-a52dd3bac716#ref=rss)
+### lust
 
-* [https://www.spiegel.de/ausland/eu-fordert-alle-seiten-im-nahostkonflikt-zu-zurueckhaltung-auf](https://www.spiegel.de/ausland/eu-fordert-alle-seiten-im-nahostkonflikt-zu-zurueckhaltung-auf-a-e1cd7d81-c29e-4f40-82df-6217057ee4e9#ref=rss)
-* [https://www.spiegel.de/politik/cdu-chef-friedrich-merz-frueher-renteneintritt-soll-unattraktiver-werden](https://www.spiegel.de/politik/cdu-chef-friedrich-merz-frueher-renteneintritt-soll-unattraktiver-werden-a-58f8e9db-82cb-407c-ac88-697d9ec57461#ref=rss)
-### allen
+* [https://www.spiegel.de/partnerschaft/wenig-oder-kein-sex-mehr-psychologin-juliane-burghardt-erklaert-wie-wir-wieder-lust-bekommen](https://www.spiegel.de/partnerschaft/wenig-oder-kein-sex-mehr-psychologin-juliane-burghardt-erklaert-wie-wir-wieder-lust-bekommen-a-9fb75d16-6669-48f4-9990-bc3045394d66#ref=rss)
+### weniger
 
-* [https://www.spiegel.de/ausland/eu-fordert-alle-seiten-im-nahostkonflikt-zu-zurueckhaltung-auf](https://www.spiegel.de/ausland/eu-fordert-alle-seiten-im-nahostkonflikt-zu-zurueckhaltung-auf-a-e1cd7d81-c29e-4f40-82df-6217057ee4e9#ref=rss)
-* [https://www.spiegel.de/tests/elektronik/stiftung-warentest-das-sind-die-besten-laserdrucker-2024](https://www.spiegel.de/tests/elektronik/stiftung-warentest-das-sind-die-besten-laserdrucker-2024-a-550506b8-d3a2-40ea-bc23-7301734086b8#ref=rss)
-### land
+* [https://www.spiegel.de/partnerschaft/wenig-oder-kein-sex-mehr-psychologin-juliane-burghardt-erklaert-wie-wir-wieder-lust-bekommen](https://www.spiegel.de/partnerschaft/wenig-oder-kein-sex-mehr-psychologin-juliane-burghardt-erklaert-wie-wir-wieder-lust-bekommen-a-9fb75d16-6669-48f4-9990-bc3045394d66#ref=rss)
+* [https://www.spiegel.de/start/studium-neue-routinen-fuer-das-neue-studienjahr-tipps-zum-semesterstart](https://www.spiegel.de/start/studium-neue-routinen-fuer-das-neue-studienjahr-tipps-zum-semesterstart-a-7f8cb0e7-73da-432b-a15c-7ac7a15dc561#ref=rss)
+### drei
 
-* [https://www.spiegel.de/ausland/eu-fordert-alle-seiten-im-nahostkonflikt-zu-zurueckhaltung-auf](https://www.spiegel.de/ausland/eu-fordert-alle-seiten-im-nahostkonflikt-zu-zurueckhaltung-auf-a-e1cd7d81-c29e-4f40-82df-6217057ee4e9#ref=rss)
-* [https://www.spiegel.de/geschichte/provokation-aus-italien-regierung-nennt-faschistische-kriegsniederlage-tragisch-und-heroisch](https://www.spiegel.de/geschichte/provokation-aus-italien-regierung-nennt-faschistische-kriegsniederlage-tragisch-und-heroisch-a-2149037e-5a33-4397-8d9e-2f938b49b92e#ref=rss)
-### winterzeit
+* [https://www.spiegel.de/partnerschaft/wenig-oder-kein-sex-mehr-psychologin-juliane-burghardt-erklaert-wie-wir-wieder-lust-bekommen](https://www.spiegel.de/partnerschaft/wenig-oder-kein-sex-mehr-psychologin-juliane-burghardt-erklaert-wie-wir-wieder-lust-bekommen-a-9fb75d16-6669-48f4-9990-bc3045394d66#ref=rss)
+* [https://www.spiegel.de/wissenschaft/zeitumstellung-sommerzeit-zu-ende-uhren-auf-normalzeit-zurueckgestellt](https://www.spiegel.de/wissenschaft/zeitumstellung-sommerzeit-zu-ende-uhren-auf-normalzeit-zurueckgestellt-a-e36aff90-cb5f-491a-9db4-45336dfd817f#ref=rss)
+### tipps
 
-* [https://www.spiegel.de/wissenschaft/mensch/zeitumstellung-auf-winterzeit-das-sollten-sie-wissen](https://www.spiegel.de/wissenschaft/mensch/zeitumstellung-auf-winterzeit-das-sollten-sie-wissen-a-11562cfa-7e4b-4fc2-9988-5eacef2df09b#ref=rss)
-### zurück
+* [https://www.spiegel.de/partnerschaft/wenig-oder-kein-sex-mehr-psychologin-juliane-burghardt-erklaert-wie-wir-wieder-lust-bekommen](https://www.spiegel.de/partnerschaft/wenig-oder-kein-sex-mehr-psychologin-juliane-burghardt-erklaert-wie-wir-wieder-lust-bekommen-a-9fb75d16-6669-48f4-9990-bc3045394d66#ref=rss)
+* [https://www.spiegel.de/start/studium-neue-routinen-fuer-das-neue-studienjahr-tipps-zum-semesterstart](https://www.spiegel.de/start/studium-neue-routinen-fuer-das-neue-studienjahr-tipps-zum-semesterstart-a-7f8cb0e7-73da-432b-a15c-7ac7a15dc561#ref=rss)
+### routinen
 
-* [https://www.spiegel.de/wissenschaft/mensch/zeitumstellung-auf-winterzeit-das-sollten-sie-wissen](https://www.spiegel.de/wissenschaft/mensch/zeitumstellung-auf-winterzeit-das-sollten-sie-wissen-a-11562cfa-7e4b-4fc2-9988-5eacef2df09b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/aussenpolitik-warum-deutschland-mehr-waffen-nach-indien-liefern-will](https://www.spiegel.de/politik/deutschland/aussenpolitik-warum-deutschland-mehr-waffen-nach-indien-liefern-will-a-3eb3c433-f6d3-4fa7-a85b-b9f0f5672f40#ref=rss)
-### ganze
+* [https://www.spiegel.de/start/studium-neue-routinen-fuer-das-neue-studienjahr-tipps-zum-semesterstart](https://www.spiegel.de/start/studium-neue-routinen-fuer-das-neue-studienjahr-tipps-zum-semesterstart-a-7f8cb0e7-73da-432b-a15c-7ac7a15dc561#ref=rss)
+### studienjahr
 
-* [https://www.spiegel.de/wissenschaft/mensch/zeitumstellung-auf-winterzeit-das-sollten-sie-wissen](https://www.spiegel.de/wissenschaft/mensch/zeitumstellung-auf-winterzeit-das-sollten-sie-wissen-a-11562cfa-7e4b-4fc2-9988-5eacef2df09b#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-rohstoffkonzerne-muessen-21-milliarden-euro-strafe-fuer-dammbruch-von-bento-rodrigues-zahlen](https://www.spiegel.de/ausland/brasilien-rohstoffkonzerne-muessen-21-milliarden-euro-strafe-fuer-dammbruch-von-bento-rodrigues-zahlen-a-0421acac-d3ca-477e-8363-2f888a37e485#ref=rss)
-### parlamentswahlen
+* [https://www.spiegel.de/start/studium-neue-routinen-fuer-das-neue-studienjahr-tipps-zum-semesterstart](https://www.spiegel.de/start/studium-neue-routinen-fuer-das-neue-studienjahr-tipps-zum-semesterstart-a-7f8cb0e7-73da-432b-a15c-7ac7a15dc561#ref=rss)
+### viele
 
-* [https://www.spiegel.de/ausland/georgien-erste-hochrechnungen-zeigen-unterschiedliche-ergebnisse-bei-parlamentswahlen](https://www.spiegel.de/ausland/georgien-erste-hochrechnungen-zeigen-unterschiedliche-ergebnisse-bei-parlamentswahlen-a-2aebf843-e08b-452f-9804-4ae7d698a4cd#ref=rss)
-* [https://www.spiegel.de/ausland/praesidentin-salome-zurabishvili-prangert-gewalt-bei-parlamentswahlen-in-georgien-an](https://www.spiegel.de/ausland/praesidentin-salome-zurabishvili-prangert-gewalt-bei-parlamentswahlen-in-georgien-an-a-109193f4-f585-4e7a-8b21-d9c59ad5672a#ref=rss)
-### zudem
+* [https://www.spiegel.de/start/studium-neue-routinen-fuer-das-neue-studienjahr-tipps-zum-semesterstart](https://www.spiegel.de/start/studium-neue-routinen-fuer-das-neue-studienjahr-tipps-zum-semesterstart-a-7f8cb0e7-73da-432b-a15c-7ac7a15dc561#ref=rss)
+* [https://www.spiegel.de/ausland/vatikan-frauen-fordern-gleichberechtigung-bei-der-weltsynode](https://www.spiegel.de/ausland/vatikan-frauen-fordern-gleichberechtigung-bei-der-weltsynode-a-49c5576d-c940-4a7f-b671-f7589ccc8478#ref=rss)
+### mein
 
-* [https://www.spiegel.de/ausland/georgien-erste-hochrechnungen-zeigen-unterschiedliche-ergebnisse-bei-parlamentswahlen](https://www.spiegel.de/ausland/georgien-erste-hochrechnungen-zeigen-unterschiedliche-ergebnisse-bei-parlamentswahlen-a-2aebf843-e08b-452f-9804-4ae7d698a4cd#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-sonderzug-von-rot-weiss-essen-auf-dem-weg-nach-hansa-rostock-attackiert](https://www.spiegel.de/sport/fussball/fussball-sonderzug-von-rot-weiss-essen-auf-dem-weg-nach-hansa-rostock-attackiert-a-3e41bf3c-5464-47be-8a12-73a1e88a1b66#ref=rss)
-### präsidentin
+* [https://www.spiegel.de/start/studium-neue-routinen-fuer-das-neue-studienjahr-tipps-zum-semesterstart](https://www.spiegel.de/start/studium-neue-routinen-fuer-das-neue-studienjahr-tipps-zum-semesterstart-a-7f8cb0e7-73da-432b-a15c-7ac7a15dc561#ref=rss)
+* [https://www.spiegel.de/ausland/elon-musk-verstiess-offenbar-gegen-us-einwanderungsgesetz](https://www.spiegel.de/ausland/elon-musk-verstiess-offenbar-gegen-us-einwanderungsgesetz-a-c4c903f8-5a8e-4520-9a05-abb80a2b9588#ref=rss)
+### katharina
 
-* [https://www.spiegel.de/ausland/praesidentin-salome-zurabishvili-prangert-gewalt-bei-parlamentswahlen-in-georgien-an](https://www.spiegel.de/ausland/praesidentin-salome-zurabishvili-prangert-gewalt-bei-parlamentswahlen-in-georgien-an-a-109193f4-f585-4e7a-8b21-d9c59ad5672a#ref=rss)
-### gewalt
+* [https://www.spiegel.de/deinspiegel/ki-expertin-katharina-zweig-in-manchen-bereichen-ist-die-kuenstliche-intelligenz-bereits-schlauer-als-wir](https://www.spiegel.de/deinspiegel/ki-expertin-katharina-zweig-in-manchen-bereichen-ist-die-kuenstliche-intelligenz-bereits-schlauer-als-wir-a-1675eed9-e4a1-4e34-b3ab-a52dd3bac716#ref=rss)
+### zweig
 
-* [https://www.spiegel.de/ausland/praesidentin-salome-zurabishvili-prangert-gewalt-bei-parlamentswahlen-in-georgien-an](https://www.spiegel.de/ausland/praesidentin-salome-zurabishvili-prangert-gewalt-bei-parlamentswahlen-in-georgien-an-a-109193f4-f585-4e7a-8b21-d9c59ad5672a#ref=rss)
-### gilt
+* [https://www.spiegel.de/deinspiegel/ki-expertin-katharina-zweig-in-manchen-bereichen-ist-die-kuenstliche-intelligenz-bereits-schlauer-als-wir](https://www.spiegel.de/deinspiegel/ki-expertin-katharina-zweig-in-manchen-bereichen-ist-die-kuenstliche-intelligenz-bereits-schlauer-als-wir-a-1675eed9-e4a1-4e34-b3ab-a52dd3bac716#ref=rss)
+### künstliche
 
-* [https://www.spiegel.de/ausland/praesidentin-salome-zurabishvili-prangert-gewalt-bei-parlamentswahlen-in-georgien-an](https://www.spiegel.de/ausland/praesidentin-salome-zurabishvili-prangert-gewalt-bei-parlamentswahlen-in-georgien-an-a-109193f4-f585-4e7a-8b21-d9c59ad5672a#ref=rss)
-* [https://www.spiegel.de/start/gastronomie-tim-raue-und-junggastronomen-ueber-arbeitsbedingungen](https://www.spiegel.de/start/gastronomie-tim-raue-und-junggastronomen-ueber-arbeitsbedingungen-a-546e77ad-6e95-4338-b4e2-285e751d1100#ref=rss)
-### bundesliga
+* [https://www.spiegel.de/deinspiegel/ki-expertin-katharina-zweig-in-manchen-bereichen-ist-die-kuenstliche-intelligenz-bereits-schlauer-als-wir](https://www.spiegel.de/deinspiegel/ki-expertin-katharina-zweig-in-manchen-bereichen-ist-die-kuenstliche-intelligenz-bereits-schlauer-als-wir-a-1675eed9-e4a1-4e34-b3ab-a52dd3bac716#ref=rss)
+### intelligenz
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-rb-leipzig-erobert-tabellenspitze-der-bvb-implodiert](https://www.spiegel.de/sport/fussball/bundesliga-rb-leipzig-erobert-tabellenspitze-der-bvb-implodiert-a-0fe8c36c-e70a-46fb-9b21-d3c9c915c31d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-hamburger-sv-und-schalke-verlieren-hertha-bsc-schlaegt-karlsruher-sc](https://www.spiegel.de/sport/fussball/2-bundesliga-hamburger-sv-und-schalke-verlieren-hertha-bsc-schlaegt-karlsruher-sc-a-69e7cc78-ca3d-49c9-8359-86a3a97456c4#ref=rss)
-### rb
+* [https://www.spiegel.de/deinspiegel/ki-expertin-katharina-zweig-in-manchen-bereichen-ist-die-kuenstliche-intelligenz-bereits-schlauer-als-wir](https://www.spiegel.de/deinspiegel/ki-expertin-katharina-zweig-in-manchen-bereichen-ist-die-kuenstliche-intelligenz-bereits-schlauer-als-wir-a-1675eed9-e4a1-4e34-b3ab-a52dd3bac716#ref=rss)
+### ki
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-rb-leipzig-erobert-tabellenspitze-der-bvb-implodiert](https://www.spiegel.de/sport/fussball/bundesliga-rb-leipzig-erobert-tabellenspitze-der-bvb-implodiert-a-0fe8c36c-e70a-46fb-9b21-d3c9c915c31d#ref=rss)
-### tabellenspitze
+* [https://www.spiegel.de/deinspiegel/ki-expertin-katharina-zweig-in-manchen-bereichen-ist-die-kuenstliche-intelligenz-bereits-schlauer-als-wir](https://www.spiegel.de/deinspiegel/ki-expertin-katharina-zweig-in-manchen-bereichen-ist-die-kuenstliche-intelligenz-bereits-schlauer-als-wir-a-1675eed9-e4a1-4e34-b3ab-a52dd3bac716#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-putins-nutzen-vom-brics-gipfel-ki-in-der-medizin](https://www.spiegel.de/politik/deutschland/news-putins-nutzen-vom-brics-gipfel-ki-in-der-medizin-a-3a2e88f0-24fb-4d03-be59-f877962d0c65#ref=rss)
+### elf
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-rb-leipzig-erobert-tabellenspitze-der-bvb-implodiert](https://www.spiegel.de/sport/fussball/bundesliga-rb-leipzig-erobert-tabellenspitze-der-bvb-implodiert-a-0fe8c36c-e70a-46fb-9b21-d3c9c915c31d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-hamburger-sv-und-schalke-verlieren-hertha-bsc-schlaegt-karlsruher-sc](https://www.spiegel.de/sport/fussball/2-bundesliga-hamburger-sv-und-schalke-verlieren-hertha-bsc-schlaegt-karlsruher-sc-a-69e7cc78-ca3d-49c9-8359-86a3a97456c4#ref=rss)
-### bvb
+* [https://www.spiegel.de/deinspiegel/ki-expertin-katharina-zweig-in-manchen-bereichen-ist-die-kuenstliche-intelligenz-bereits-schlauer-als-wir](https://www.spiegel.de/deinspiegel/ki-expertin-katharina-zweig-in-manchen-bereichen-ist-die-kuenstliche-intelligenz-bereits-schlauer-als-wir-a-1675eed9-e4a1-4e34-b3ab-a52dd3bac716#ref=rss)
+* [https://www.spiegel.de/panorama/leute/prinz-william-erzaehlt-von-besuch-im-obdachlosenheim-mit-diana](https://www.spiegel.de/panorama/leute/prinz-william-erzaehlt-von-besuch-im-obdachlosenheim-mit-diana-a-5bd9cda6-c44f-48c3-b411-6f6278096397#ref=rss)
+### alt
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-rb-leipzig-erobert-tabellenspitze-der-bvb-implodiert](https://www.spiegel.de/sport/fussball/bundesliga-rb-leipzig-erobert-tabellenspitze-der-bvb-implodiert-a-0fe8c36c-e70a-46fb-9b21-d3c9c915c31d#ref=rss)
-### 2024
-
-* [https://www.spiegel.de/ausland/us-wahl-2024-junge-menschen-erzaehlen-was-sie-bewegt-und-wie-trump-einen-von-ihnen-umstimmte](https://www.spiegel.de/ausland/us-wahl-2024-junge-menschen-erzaehlen-was-sie-bewegt-und-wie-trump-einen-von-ihnen-umstimmte-a-7fb73597-31b2-4ba3-9fce-b0e4d3403816#ref=rss)
-* [https://www.spiegel.de/tests/elektronik/stiftung-warentest-das-sind-die-besten-laserdrucker-2024](https://www.spiegel.de/tests/elektronik/stiftung-warentest-das-sind-die-besten-laserdrucker-2024-a-550506b8-d3a2-40ea-bc23-7301734086b8#ref=rss)
-### junge
-
-* [https://www.spiegel.de/ausland/us-wahl-2024-junge-menschen-erzaehlen-was-sie-bewegt-und-wie-trump-einen-von-ihnen-umstimmte](https://www.spiegel.de/ausland/us-wahl-2024-junge-menschen-erzaehlen-was-sie-bewegt-und-wie-trump-einen-von-ihnen-umstimmte-a-7fb73597-31b2-4ba3-9fce-b0e4d3403816#ref=rss)
-### erzählen
-
-* [https://www.spiegel.de/ausland/us-wahl-2024-junge-menschen-erzaehlen-was-sie-bewegt-und-wie-trump-einen-von-ihnen-umstimmte](https://www.spiegel.de/ausland/us-wahl-2024-junge-menschen-erzaehlen-was-sie-bewegt-und-wie-trump-einen-von-ihnen-umstimmte-a-7fb73597-31b2-4ba3-9fce-b0e4d3403816#ref=rss)
-### bewegt
-
-* [https://www.spiegel.de/ausland/us-wahl-2024-junge-menschen-erzaehlen-was-sie-bewegt-und-wie-trump-einen-von-ihnen-umstimmte](https://www.spiegel.de/ausland/us-wahl-2024-junge-menschen-erzaehlen-was-sie-bewegt-und-wie-trump-einen-von-ihnen-umstimmte-a-7fb73597-31b2-4ba3-9fce-b0e4d3403816#ref=rss)
-### cduchef
-
-* [https://www.spiegel.de/politik/cdu-chef-friedrich-merz-frueher-renteneintritt-soll-unattraktiver-werden](https://www.spiegel.de/politik/cdu-chef-friedrich-merz-frueher-renteneintritt-soll-unattraktiver-werden-a-58f8e9db-82cb-407c-ac88-697d9ec57461#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/cdu-chef-friedrich-merz-frueher-renteneintritt-soll-unattraktiver-werden](https://www.spiegel.de/politik/cdu-chef-friedrich-merz-frueher-renteneintritt-soll-unattraktiver-werden-a-58f8e9db-82cb-407c-ac88-697d9ec57461#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/cdu-chef-friedrich-merz-frueher-renteneintritt-soll-unattraktiver-werden](https://www.spiegel.de/politik/cdu-chef-friedrich-merz-frueher-renteneintritt-soll-unattraktiver-werden-a-58f8e9db-82cb-407c-ac88-697d9ec57461#ref=rss)
-### arbeit
-
-* [https://www.spiegel.de/politik/cdu-chef-friedrich-merz-frueher-renteneintritt-soll-unattraktiver-werden](https://www.spiegel.de/politik/cdu-chef-friedrich-merz-frueher-renteneintritt-soll-unattraktiver-werden-a-58f8e9db-82cb-407c-ac88-697d9ec57461#ref=rss)
-* [https://www.spiegel.de/start/gastronomie-tim-raue-und-junggastronomen-ueber-arbeitsbedingungen](https://www.spiegel.de/start/gastronomie-tim-raue-und-junggastronomen-ueber-arbeitsbedingungen-a-546e77ad-6e95-4338-b4e2-285e751d1100#ref=rss)
-### gastronomie
-
-* [https://www.spiegel.de/start/gastronomie-tim-raue-und-junggastronomen-ueber-arbeitsbedingungen](https://www.spiegel.de/start/gastronomie-tim-raue-und-junggastronomen-ueber-arbeitsbedingungen-a-546e77ad-6e95-4338-b4e2-285e751d1100#ref=rss)
-### tim
-
-* [https://www.spiegel.de/start/gastronomie-tim-raue-und-junggastronomen-ueber-arbeitsbedingungen](https://www.spiegel.de/start/gastronomie-tim-raue-und-junggastronomen-ueber-arbeitsbedingungen-a-546e77ad-6e95-4338-b4e2-285e751d1100#ref=rss)
-### raue
-
-* [https://www.spiegel.de/start/gastronomie-tim-raue-und-junggastronomen-ueber-arbeitsbedingungen](https://www.spiegel.de/start/gastronomie-tim-raue-und-junggastronomen-ueber-arbeitsbedingungen-a-546e77ad-6e95-4338-b4e2-285e751d1100#ref=rss)
-### junggastronomen
-
-* [https://www.spiegel.de/start/gastronomie-tim-raue-und-junggastronomen-ueber-arbeitsbedingungen](https://www.spiegel.de/start/gastronomie-tim-raue-und-junggastronomen-ueber-arbeitsbedingungen-a-546e77ad-6e95-4338-b4e2-285e751d1100#ref=rss)
+* [https://www.spiegel.de/deinspiegel/ki-expertin-katharina-zweig-in-manchen-bereichen-ist-die-kuenstliche-intelligenz-bereits-schlauer-als-wir](https://www.spiegel.de/deinspiegel/ki-expertin-katharina-zweig-in-manchen-bereichen-ist-die-kuenstliche-intelligenz-bereits-schlauer-als-wir-a-1675eed9-e4a1-4e34-b3ab-a52dd3bac716#ref=rss)
+* [https://www.spiegel.de/panorama/leute/prinz-william-erzaehlt-von-besuch-im-obdachlosenheim-mit-diana](https://www.spiegel.de/panorama/leute/prinz-william-erzaehlt-von-besuch-im-obdachlosenheim-mit-diana-a-5bd9cda6-c44f-48c3-b411-6f6278096397#ref=rss)
 ### sagt
 
-* [https://www.spiegel.de/start/gastronomie-tim-raue-und-junggastronomen-ueber-arbeitsbedingungen](https://www.spiegel.de/start/gastronomie-tim-raue-und-junggastronomen-ueber-arbeitsbedingungen-a-546e77ad-6e95-4338-b4e2-285e751d1100#ref=rss)
-* [https://www.spiegel.de/panorama/leute/donald-trump-schauspielikone-shirley-maclaine-erzaehlt-von-anzueglichen-blicken-des-ex-praesidenten](https://www.spiegel.de/panorama/leute/donald-trump-schauspielikone-shirley-maclaine-erzaehlt-von-anzueglichen-blicken-des-ex-praesidenten-a-44e48530-dea0-4d11-9c30-10f43ddce65d#ref=rss)
-### deutschland
+* [https://www.spiegel.de/deinspiegel/ki-expertin-katharina-zweig-in-manchen-bereichen-ist-die-kuenstliche-intelligenz-bereits-schlauer-als-wir](https://www.spiegel.de/deinspiegel/ki-expertin-katharina-zweig-in-manchen-bereichen-ist-die-kuenstliche-intelligenz-bereits-schlauer-als-wir-a-1675eed9-e4a1-4e34-b3ab-a52dd3bac716#ref=rss)
+* [https://www.spiegel.de/panorama/leute/prinz-william-erzaehlt-von-besuch-im-obdachlosenheim-mit-diana](https://www.spiegel.de/panorama/leute/prinz-william-erzaehlt-von-besuch-im-obdachlosenheim-mit-diana-a-5bd9cda6-c44f-48c3-b411-6f6278096397#ref=rss)
+### golo
 
-* [https://www.spiegel.de/politik/deutschland/aussenpolitik-warum-deutschland-mehr-waffen-nach-indien-liefern-will](https://www.spiegel.de/politik/deutschland/aussenpolitik-warum-deutschland-mehr-waffen-nach-indien-liefern-will-a-3eb3c433-f6d3-4fa7-a85b-b9f0f5672f40#ref=rss)
-### indien
+* [https://www.spiegel.de/kultur/schoener-schreiben-mit-golo-mann-die-deutschkolumne](https://www.spiegel.de/kultur/schoener-schreiben-mit-golo-mann-die-deutschkolumne-a-53ec5da0-7f02-4453-b82c-71a05e93fc49#ref=rss)
+### mann
 
-* [https://www.spiegel.de/politik/deutschland/aussenpolitik-warum-deutschland-mehr-waffen-nach-indien-liefern-will](https://www.spiegel.de/politik/deutschland/aussenpolitik-warum-deutschland-mehr-waffen-nach-indien-liefern-will-a-3eb3c433-f6d3-4fa7-a85b-b9f0f5672f40#ref=rss)
-### 21
+* [https://www.spiegel.de/kultur/schoener-schreiben-mit-golo-mann-die-deutschkolumne](https://www.spiegel.de/kultur/schoener-schreiben-mit-golo-mann-die-deutschkolumne-a-53ec5da0-7f02-4453-b82c-71a05e93fc49#ref=rss)
+### zeigt
 
-* [https://www.spiegel.de/ausland/brasilien-rohstoffkonzerne-muessen-21-milliarden-euro-strafe-fuer-dammbruch-von-bento-rodrigues-zahlen](https://www.spiegel.de/ausland/brasilien-rohstoffkonzerne-muessen-21-milliarden-euro-strafe-fuer-dammbruch-von-bento-rodrigues-zahlen-a-0421acac-d3ca-477e-8363-2f888a37e485#ref=rss)
-### milliarden
+* [https://www.spiegel.de/kultur/schoener-schreiben-mit-golo-mann-die-deutschkolumne](https://www.spiegel.de/kultur/schoener-schreiben-mit-golo-mann-die-deutschkolumne-a-53ec5da0-7f02-4453-b82c-71a05e93fc49#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-putins-nutzen-vom-brics-gipfel-ki-in-der-medizin](https://www.spiegel.de/politik/deutschland/news-putins-nutzen-vom-brics-gipfel-ki-in-der-medizin-a-3a2e88f0-24fb-4d03-be59-f877962d0c65#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/ausland/brasilien-rohstoffkonzerne-muessen-21-milliarden-euro-strafe-fuer-dammbruch-von-bento-rodrigues-zahlen](https://www.spiegel.de/ausland/brasilien-rohstoffkonzerne-muessen-21-milliarden-euro-strafe-fuer-dammbruch-von-bento-rodrigues-zahlen-a-0421acac-d3ca-477e-8363-2f888a37e485#ref=rss)
-### euro
+* [https://www.spiegel.de/kultur/schoener-schreiben-mit-golo-mann-die-deutschkolumne](https://www.spiegel.de/kultur/schoener-schreiben-mit-golo-mann-die-deutschkolumne-a-53ec5da0-7f02-4453-b82c-71a05e93fc49#ref=rss)
+* [https://www.spiegel.de/reise/deutschland/von-oberhausen-ueber-emmerich-bis-in-die-niederlande-80-wochen-bauarbeiten-was-bedeutet-das-fuer-bahnreisende](https://www.spiegel.de/reise/deutschland/von-oberhausen-ueber-emmerich-bis-in-die-niederlande-80-wochen-bauarbeiten-was-bedeutet-das-fuer-bahnreisende-a-9c681fc9-d6c3-44e5-97a9-5b4802b0cd72#ref=rss)
+### 2024
 
-* [https://www.spiegel.de/ausland/brasilien-rohstoffkonzerne-muessen-21-milliarden-euro-strafe-fuer-dammbruch-von-bento-rodrigues-zahlen](https://www.spiegel.de/ausland/brasilien-rohstoffkonzerne-muessen-21-milliarden-euro-strafe-fuer-dammbruch-von-bento-rodrigues-zahlen-a-0421acac-d3ca-477e-8363-2f888a37e485#ref=rss)
-### strafe
+* [https://www.spiegel.de/politik/us-wahl-2024-kamala-harris-setzt-neue-massstaebe-fuer-politikerinnen](https://www.spiegel.de/politik/us-wahl-2024-kamala-harris-setzt-neue-massstaebe-fuer-politikerinnen-a-99691449-0be3-4350-a74a-6e0df93ce78c#ref=rss)
+* [https://www.spiegel.de/sport/ironman-wm-in-hawaii-patrick-lange-gewinnt-zum-dritten-mal](https://www.spiegel.de/sport/ironman-wm-in-hawaii-patrick-lange-gewinnt-zum-dritten-mal-a-86ef169f-f274-4a7c-a06d-ab52467d0c26#ref=rss)
+### maßstäbe
 
-* [https://www.spiegel.de/ausland/brasilien-rohstoffkonzerne-muessen-21-milliarden-euro-strafe-fuer-dammbruch-von-bento-rodrigues-zahlen](https://www.spiegel.de/ausland/brasilien-rohstoffkonzerne-muessen-21-milliarden-euro-strafe-fuer-dammbruch-von-bento-rodrigues-zahlen-a-0421acac-d3ca-477e-8363-2f888a37e485#ref=rss)
-### dammbruch
+* [https://www.spiegel.de/politik/us-wahl-2024-kamala-harris-setzt-neue-massstaebe-fuer-politikerinnen](https://www.spiegel.de/politik/us-wahl-2024-kamala-harris-setzt-neue-massstaebe-fuer-politikerinnen-a-99691449-0be3-4350-a74a-6e0df93ce78c#ref=rss)
+### politikerinnen
 
-* [https://www.spiegel.de/ausland/brasilien-rohstoffkonzerne-muessen-21-milliarden-euro-strafe-fuer-dammbruch-von-bento-rodrigues-zahlen](https://www.spiegel.de/ausland/brasilien-rohstoffkonzerne-muessen-21-milliarden-euro-strafe-fuer-dammbruch-von-bento-rodrigues-zahlen-a-0421acac-d3ca-477e-8363-2f888a37e485#ref=rss)
-### zahlen
+* [https://www.spiegel.de/politik/us-wahl-2024-kamala-harris-setzt-neue-massstaebe-fuer-politikerinnen](https://www.spiegel.de/politik/us-wahl-2024-kamala-harris-setzt-neue-massstaebe-fuer-politikerinnen-a-99691449-0be3-4350-a74a-6e0df93ce78c#ref=rss)
+### tritt
 
-* [https://www.spiegel.de/ausland/brasilien-rohstoffkonzerne-muessen-21-milliarden-euro-strafe-fuer-dammbruch-von-bento-rodrigues-zahlen](https://www.spiegel.de/ausland/brasilien-rohstoffkonzerne-muessen-21-milliarden-euro-strafe-fuer-dammbruch-von-bento-rodrigues-zahlen-a-0421acac-d3ca-477e-8363-2f888a37e485#ref=rss)
-### stiftung
+* [https://www.spiegel.de/politik/us-wahl-2024-kamala-harris-setzt-neue-massstaebe-fuer-politikerinnen](https://www.spiegel.de/politik/us-wahl-2024-kamala-harris-setzt-neue-massstaebe-fuer-politikerinnen-a-99691449-0be3-4350-a74a-6e0df93ce78c#ref=rss)
+* [https://www.spiegel.de/ausland/michelle-obama-unterstuetzt-in-kalamazoo-den-wahlkampf-von-kamala-harris](https://www.spiegel.de/ausland/michelle-obama-unterstuetzt-in-kalamazoo-den-wahlkampf-von-kamala-harris-a-44d1b339-31a8-4781-b150-6e8488f266e0#ref=rss)
+### cartoons
 
-* [https://www.spiegel.de/tests/elektronik/stiftung-warentest-das-sind-die-besten-laserdrucker-2024](https://www.spiegel.de/tests/elektronik/stiftung-warentest-das-sind-die-besten-laserdrucker-2024-a-550506b8-d3a2-40ea-bc23-7301734086b8#ref=rss)
-### warentest
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw43-2024-von-thomas-plassmann-klaus-stuttmann-und-chappatte](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw43-2024-von-thomas-plassmann-klaus-stuttmann-und-chappatte-a-fe5495b2-4a76-4202-bb9e-df380b207448#ref=rss)
+### thomas
 
-* [https://www.spiegel.de/tests/elektronik/stiftung-warentest-das-sind-die-besten-laserdrucker-2024](https://www.spiegel.de/tests/elektronik/stiftung-warentest-das-sind-die-besten-laserdrucker-2024-a-550506b8-d3a2-40ea-bc23-7301734086b8#ref=rss)
-### laserdrucker
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw43-2024-von-thomas-plassmann-klaus-stuttmann-und-chappatte](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw43-2024-von-thomas-plassmann-klaus-stuttmann-und-chappatte-a-fe5495b2-4a76-4202-bb9e-df380b207448#ref=rss)
+### plaßmann
 
-* [https://www.spiegel.de/tests/elektronik/stiftung-warentest-das-sind-die-besten-laserdrucker-2024](https://www.spiegel.de/tests/elektronik/stiftung-warentest-das-sind-die-besten-laserdrucker-2024-a-550506b8-d3a2-40ea-bc23-7301734086b8#ref=rss)
-### usa
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw43-2024-von-thomas-plassmann-klaus-stuttmann-und-chappatte](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw43-2024-von-thomas-plassmann-klaus-stuttmann-und-chappatte-a-fe5495b2-4a76-4202-bb9e-df380b207448#ref=rss)
+### klaus
 
-* [https://www.spiegel.de/ausland/israels-vergeltungsangriff-auf-iran-washington-macht-doch-einen-unterschied-kommentar](https://www.spiegel.de/ausland/israels-vergeltungsangriff-auf-iran-washington-macht-doch-einen-unterschied-kommentar-a-c966d402-ff16-4c78-aa65-cd9976134630#ref=rss)
-* [https://www.spiegel.de/ausland/mcdonalds-anzahl-der-erkrankten-durch-kolibakterien-steigt](https://www.spiegel.de/ausland/mcdonalds-anzahl-der-erkrankten-durch-kolibakterien-steigt-a-d5ed6592-00b0-481b-a867-762ad74c649e#ref=rss)
-### cheddar
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw43-2024-von-thomas-plassmann-klaus-stuttmann-und-chappatte](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw43-2024-von-thomas-plassmann-klaus-stuttmann-und-chappatte-a-fe5495b2-4a76-4202-bb9e-df380b207448#ref=rss)
+### stuttmann
 
-* [https://www.spiegel.de/panorama/london-der-grosse-kaeseraub-cheddar-fuer-300-000-pfund-gestohlen](https://www.spiegel.de/panorama/london-der-grosse-kaeseraub-cheddar-fuer-300-000-pfund-gestohlen-a-a893596b-e309-4b0c-a452-85a051079991#ref=rss)
-### mikaela
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw43-2024-von-thomas-plassmann-klaus-stuttmann-und-chappatte](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw43-2024-von-thomas-plassmann-klaus-stuttmann-und-chappatte-a-fe5495b2-4a76-4202-bb9e-df380b207448#ref=rss)
+### chappatte
 
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-zeigt-nerven-in-soelden-lena-duerr-ueberraschend-stark](https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-zeigt-nerven-in-soelden-lena-duerr-ueberraschend-stark-a-4a4611d6-e707-463d-b12a-bc68086d7b9e#ref=rss)
-### shiffrin
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw43-2024-von-thomas-plassmann-klaus-stuttmann-und-chappatte](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw43-2024-von-thomas-plassmann-klaus-stuttmann-und-chappatte-a-fe5495b2-4a76-4202-bb9e-df380b207448#ref=rss)
+### tag
 
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-zeigt-nerven-in-soelden-lena-duerr-ueberraschend-stark](https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-zeigt-nerven-in-soelden-lena-duerr-ueberraschend-stark-a-4a4611d6-e707-463d-b12a-bc68086d7b9e#ref=rss)
-### nerven
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw43-2024-von-thomas-plassmann-klaus-stuttmann-und-chappatte](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-kw43-2024-von-thomas-plassmann-klaus-stuttmann-und-chappatte-a-fe5495b2-4a76-4202-bb9e-df380b207448#ref=rss)
+* [https://www.spiegel.de/ausland/georgien-spannungen-nach-verkuendetem-sieg-der-regierungspartei](https://www.spiegel.de/ausland/georgien-spannungen-nach-verkuendetem-sieg-der-regierungspartei-a-89c84c1d-d1d3-4430-9563-83fa6f78d6d7#ref=rss)
+### hamburg
 
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-zeigt-nerven-in-soelden-lena-duerr-ueberraschend-stark](https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-zeigt-nerven-in-soelden-lena-duerr-ueberraschend-stark-a-4a4611d6-e707-463d-b12a-bc68086d7b9e#ref=rss)
-### lena
+* [https://www.spiegel.de/panorama/deutscher-anwaltverein-hamburg-erhaelt-erneut-den-goldenen-blitzer-hoechste-einnahmen-in-deutschland](https://www.spiegel.de/panorama/deutscher-anwaltverein-hamburg-erhaelt-erneut-den-goldenen-blitzer-hoechste-einnahmen-in-deutschland-a-41f5fde9-a6f3-4391-8707-8107199d43dd#ref=rss)
+### erhält
 
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-zeigt-nerven-in-soelden-lena-duerr-ueberraschend-stark](https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-zeigt-nerven-in-soelden-lena-duerr-ueberraschend-stark-a-4a4611d6-e707-463d-b12a-bc68086d7b9e#ref=rss)
-### dürr
+* [https://www.spiegel.de/panorama/deutscher-anwaltverein-hamburg-erhaelt-erneut-den-goldenen-blitzer-hoechste-einnahmen-in-deutschland](https://www.spiegel.de/panorama/deutscher-anwaltverein-hamburg-erhaelt-erneut-den-goldenen-blitzer-hoechste-einnahmen-in-deutschland-a-41f5fde9-a6f3-4391-8707-8107199d43dd#ref=rss)
+### goldenen
 
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-zeigt-nerven-in-soelden-lena-duerr-ueberraschend-stark](https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-zeigt-nerven-in-soelden-lena-duerr-ueberraschend-stark-a-4a4611d6-e707-463d-b12a-bc68086d7b9e#ref=rss)
-### stark
+* [https://www.spiegel.de/panorama/deutscher-anwaltverein-hamburg-erhaelt-erneut-den-goldenen-blitzer-hoechste-einnahmen-in-deutschland](https://www.spiegel.de/panorama/deutscher-anwaltverein-hamburg-erhaelt-erneut-den-goldenen-blitzer-hoechste-einnahmen-in-deutschland-a-41f5fde9-a6f3-4391-8707-8107199d43dd#ref=rss)
+### blitzer
 
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-zeigt-nerven-in-soelden-lena-duerr-ueberraschend-stark](https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-zeigt-nerven-in-soelden-lena-duerr-ueberraschend-stark-a-4a4611d6-e707-463d-b12a-bc68086d7b9e#ref=rss)
-### verliert
+* [https://www.spiegel.de/panorama/deutscher-anwaltverein-hamburg-erhaelt-erneut-den-goldenen-blitzer-hoechste-einnahmen-in-deutschland](https://www.spiegel.de/panorama/deutscher-anwaltverein-hamburg-erhaelt-erneut-den-goldenen-blitzer-hoechste-einnahmen-in-deutschland-a-41f5fde9-a6f3-4391-8707-8107199d43dd#ref=rss)
+### einnahmen
 
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-hamburger-sv-und-schalke-verlieren-hertha-bsc-schlaegt-karlsruher-sc](https://www.spiegel.de/sport/fussball/2-bundesliga-hamburger-sv-und-schalke-verlieren-hertha-bsc-schlaegt-karlsruher-sc-a-69e7cc78-ca3d-49c9-8359-86a3a97456c4#ref=rss)
-### schnell
+* [https://www.spiegel.de/panorama/deutscher-anwaltverein-hamburg-erhaelt-erneut-den-goldenen-blitzer-hoechste-einnahmen-in-deutschland](https://www.spiegel.de/panorama/deutscher-anwaltverein-hamburg-erhaelt-erneut-den-goldenen-blitzer-hoechste-einnahmen-in-deutschland-a-41f5fde9-a6f3-4391-8707-8107199d43dd#ref=rss)
+### bahn
 
-* [https://www.spiegel.de/sport/schach-wie-bist-du-so-schnell-eine-so-gute-spielerin-geworden-solveig-friberg](https://www.spiegel.de/sport/schach-wie-bist-du-so-schnell-eine-so-gute-spielerin-geworden-solveig-friberg-a-b579c499-d91f-42c3-9113-ff2286f8a1a9#ref=rss)
-* [https://www.spiegel.de/panorama/leute/donald-trump-schauspielikone-shirley-maclaine-erzaehlt-von-anzueglichen-blicken-des-ex-praesidenten](https://www.spiegel.de/panorama/leute/donald-trump-schauspielikone-shirley-maclaine-erzaehlt-von-anzueglichen-blicken-des-ex-praesidenten-a-44e48530-dea0-4d11-9c30-10f43ddce65d#ref=rss)
-### spielerin
+* [https://www.spiegel.de/reise/deutschland/von-oberhausen-ueber-emmerich-bis-in-die-niederlande-80-wochen-bauarbeiten-was-bedeutet-das-fuer-bahnreisende](https://www.spiegel.de/reise/deutschland/von-oberhausen-ueber-emmerich-bis-in-die-niederlande-80-wochen-bauarbeiten-was-bedeutet-das-fuer-bahnreisende-a-9c681fc9-d6c3-44e5-97a9-5b4802b0cd72#ref=rss)
+### sonntag
 
-* [https://www.spiegel.de/sport/schach-wie-bist-du-so-schnell-eine-so-gute-spielerin-geworden-solveig-friberg](https://www.spiegel.de/sport/schach-wie-bist-du-so-schnell-eine-so-gute-spielerin-geworden-solveig-friberg-a-b579c499-d91f-42c3-9113-ff2286f8a1a9#ref=rss)
-### solveig
+* [https://www.spiegel.de/politik/deutschland/news-putins-nutzen-vom-brics-gipfel-ki-in-der-medizin](https://www.spiegel.de/politik/deutschland/news-putins-nutzen-vom-brics-gipfel-ki-in-der-medizin-a-3a2e88f0-24fb-4d03-be59-f877962d0c65#ref=rss)
+* [https://www.spiegel.de/wissenschaft/zeitumstellung-sommerzeit-zu-ende-uhren-auf-normalzeit-zurueckgestellt](https://www.spiegel.de/wissenschaft/zeitumstellung-sommerzeit-zu-ende-uhren-auf-normalzeit-zurueckgestellt-a-e36aff90-cb5f-491a-9db4-45336dfd817f#ref=rss)
+### freiheit
 
-* [https://www.spiegel.de/sport/schach-wie-bist-du-so-schnell-eine-so-gute-spielerin-geworden-solveig-friberg](https://www.spiegel.de/sport/schach-wie-bist-du-so-schnell-eine-so-gute-spielerin-geworden-solveig-friberg-a-b579c499-d91f-42c3-9113-ff2286f8a1a9#ref=rss)
-### friberg
+* [https://www.spiegel.de/karriere/raetsel-der-woche-das-tor-zur-freiheit](https://www.spiegel.de/karriere/raetsel-der-woche-das-tor-zur-freiheit-a-51210d12-6f55-4a9f-95d7-fd807432475d#ref=rss)
+### wärter
 
-* [https://www.spiegel.de/sport/schach-wie-bist-du-so-schnell-eine-so-gute-spielerin-geworden-solveig-friberg](https://www.spiegel.de/sport/schach-wie-bist-du-so-schnell-eine-so-gute-spielerin-geworden-solveig-friberg-a-b579c499-d91f-42c3-9113-ff2286f8a1a9#ref=rss)
-### ausflug
+* [https://www.spiegel.de/karriere/raetsel-der-woche-das-tor-zur-freiheit](https://www.spiegel.de/karriere/raetsel-der-woche-das-tor-zur-freiheit-a-51210d12-6f55-4a9f-95d7-fd807432475d#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/politik/arm-und-reich-ein-ausflug-in-die-dollar-street](https://www.spiegel.de/politik/arm-und-reich-ein-ausflug-in-die-dollar-street-a-4a4e4259-0e36-410d-b629-227615798f70#ref=rss)
-### dollar
+* [https://www.spiegel.de/karriere/raetsel-der-woche-das-tor-zur-freiheit](https://www.spiegel.de/karriere/raetsel-der-woche-das-tor-zur-freiheit-a-51210d12-6f55-4a9f-95d7-fd807432475d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/zeitumstellung-sommerzeit-zu-ende-uhren-auf-normalzeit-zurueckgestellt](https://www.spiegel.de/wissenschaft/zeitumstellung-sommerzeit-zu-ende-uhren-auf-normalzeit-zurueckgestellt-a-e36aff90-cb5f-491a-9db4-45336dfd817f#ref=rss)
+### angriffe
 
-* [https://www.spiegel.de/politik/arm-und-reich-ein-ausflug-in-die-dollar-street](https://www.spiegel.de/politik/arm-und-reich-ein-ausflug-in-die-dollar-street-a-4a4e4259-0e36-410d-b629-227615798f70#ref=rss)
-### street
+* [https://www.spiegel.de/panorama/gesellschaft/vandalismus-gegen-lastenraeder-in-muenchen-das-lastenrad-wurde-als-feindbild-auserkoren](https://www.spiegel.de/panorama/gesellschaft/vandalismus-gegen-lastenraeder-in-muenchen-das-lastenrad-wurde-als-feindbild-auserkoren-a-9fce2656-a41d-4055-9c54-88a2e251e5d5#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-schwere-russische-angriffe-beuteln-die-ukraine](https://www.spiegel.de/ausland/russland-ukraine-krieg-schwere-russische-angriffe-beuteln-die-ukraine-a-6bbab1d4-3c24-4850-9fb4-2f66c1be1c00#ref=rss)
+### weltsynode
 
-* [https://www.spiegel.de/politik/arm-und-reich-ein-ausflug-in-die-dollar-street](https://www.spiegel.de/politik/arm-und-reich-ein-ausflug-in-die-dollar-street-a-4a4e4259-0e36-410d-b629-227615798f70#ref=rss)
-### ganz
+* [https://www.spiegel.de/ausland/vatikan-frauen-fordern-gleichberechtigung-bei-der-weltsynode](https://www.spiegel.de/ausland/vatikan-frauen-fordern-gleichberechtigung-bei-der-weltsynode-a-49c5576d-c940-4a7f-b671-f7589ccc8478#ref=rss)
+### schwere
 
-* [https://www.spiegel.de/politik/arm-und-reich-ein-ausflug-in-die-dollar-street](https://www.spiegel.de/politik/arm-und-reich-ein-ausflug-in-die-dollar-street-a-4a4e4259-0e36-410d-b629-227615798f70#ref=rss)
-### normalen
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-schwere-russische-angriffe-beuteln-die-ukraine](https://www.spiegel.de/ausland/russland-ukraine-krieg-schwere-russische-angriffe-beuteln-die-ukraine-a-6bbab1d4-3c24-4850-9fb4-2f66c1be1c00#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/politik/arm-und-reich-ein-ausflug-in-die-dollar-street](https://www.spiegel.de/politik/arm-und-reich-ein-ausflug-in-die-dollar-street-a-4a4e4259-0e36-410d-b629-227615798f70#ref=rss)
-### shirley
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-schwere-russische-angriffe-beuteln-die-ukraine](https://www.spiegel.de/ausland/russland-ukraine-krieg-schwere-russische-angriffe-beuteln-die-ukraine-a-6bbab1d4-3c24-4850-9fb4-2f66c1be1c00#ref=rss)
+### osten
 
-* [https://www.spiegel.de/panorama/leute/donald-trump-schauspielikone-shirley-maclaine-erzaehlt-von-anzueglichen-blicken-des-ex-praesidenten](https://www.spiegel.de/panorama/leute/donald-trump-schauspielikone-shirley-maclaine-erzaehlt-von-anzueglichen-blicken-des-ex-praesidenten-a-44e48530-dea0-4d11-9c30-10f43ddce65d#ref=rss)
-### maclaine
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-schwere-russische-angriffe-beuteln-die-ukraine](https://www.spiegel.de/ausland/russland-ukraine-krieg-schwere-russische-angriffe-beuteln-die-ukraine-a-6bbab1d4-3c24-4850-9fb4-2f66c1be1c00#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-nahost-kaempfe-in-gaza-und-im-libanon-hoffnung-auf-geiselgespraeche](https://www.spiegel.de/ausland/krieg-in-nahost-kaempfe-in-gaza-und-im-libanon-hoffnung-auf-geiselgespraeche-a-21d65c45-cfeb-458a-a829-9cf3cada4da8#ref=rss)
+### prinz
 
-* [https://www.spiegel.de/panorama/leute/donald-trump-schauspielikone-shirley-maclaine-erzaehlt-von-anzueglichen-blicken-des-ex-praesidenten](https://www.spiegel.de/panorama/leute/donald-trump-schauspielikone-shirley-maclaine-erzaehlt-von-anzueglichen-blicken-des-ex-praesidenten-a-44e48530-dea0-4d11-9c30-10f43ddce65d#ref=rss)
-### offenbar
+* [https://www.spiegel.de/panorama/leute/prinz-william-erzaehlt-von-besuch-im-obdachlosenheim-mit-diana](https://www.spiegel.de/panorama/leute/prinz-william-erzaehlt-von-besuch-im-obdachlosenheim-mit-diana-a-5bd9cda6-c44f-48c3-b411-6f6278096397#ref=rss)
+### william
 
-* [https://www.spiegel.de/ausland/telefonspionage-trumps-handy-im-visier-chinesischer-hacker](https://www.spiegel.de/ausland/telefonspionage-trumps-handy-im-visier-chinesischer-hacker-a-a41e31ed-312d-4fbf-8ca8-b26d8f55457c#ref=rss)
-* [https://www.spiegel.de/panorama/moers-e-bike-akku-explodiert-in-mehrfamilienhaus-drei-verletzte](https://www.spiegel.de/panorama/moers-e-bike-akku-explodiert-in-mehrfamilienhaus-drei-verletzte-a-e0ad3366-c25d-4a58-8202-4729e6a14eb6#ref=rss)
-### hacker
+* [https://www.spiegel.de/panorama/leute/prinz-william-erzaehlt-von-besuch-im-obdachlosenheim-mit-diana](https://www.spiegel.de/panorama/leute/prinz-william-erzaehlt-von-besuch-im-obdachlosenheim-mit-diana-a-5bd9cda6-c44f-48c3-b411-6f6278096397#ref=rss)
+### diana
 
-* [https://www.spiegel.de/ausland/telefonspionage-trumps-handy-im-visier-chinesischer-hacker](https://www.spiegel.de/ausland/telefonspionage-trumps-handy-im-visier-chinesischer-hacker-a-a41e31ed-312d-4fbf-8ca8-b26d8f55457c#ref=rss)
-### angegriffen
+* [https://www.spiegel.de/panorama/leute/prinz-william-erzaehlt-von-besuch-im-obdachlosenheim-mit-diana](https://www.spiegel.de/panorama/leute/prinz-william-erzaehlt-von-besuch-im-obdachlosenheim-mit-diana-a-5bd9cda6-c44f-48c3-b411-6f6278096397#ref=rss)
+### erstmals
 
-* [https://www.spiegel.de/ausland/telefonspionage-trumps-handy-im-visier-chinesischer-hacker](https://www.spiegel.de/ausland/telefonspionage-trumps-handy-im-visier-chinesischer-hacker-a-a41e31ed-312d-4fbf-8ca8-b26d8f55457c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-sonderzug-von-rot-weiss-essen-auf-dem-weg-nach-hansa-rostock-attackiert](https://www.spiegel.de/sport/fussball/fussball-sonderzug-von-rot-weiss-essen-auf-dem-weg-nach-hansa-rostock-attackiert-a-3e41bf3c-5464-47be-8a12-73a1e88a1b66#ref=rss)
-### waren
-
-* [https://www.spiegel.de/ausland/telefonspionage-trumps-handy-im-visier-chinesischer-hacker](https://www.spiegel.de/ausland/telefonspionage-trumps-handy-im-visier-chinesischer-hacker-a-a41e31ed-312d-4fbf-8ca8-b26d8f55457c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/leipzig-siebenjaehriges-maedchen-stirbt-nach-mutmasslicher-messerattacke-durch-13-jaehrige-schwester](https://www.spiegel.de/panorama/justiz/leipzig-siebenjaehriges-maedchen-stirbt-nach-mutmasslicher-messerattacke-durch-13-jaehrige-schwester-a-fac39d67-57d1-48df-83a3-66c7def92b54#ref=rss)
-### siebenjährige
-
-* [https://www.spiegel.de/panorama/justiz/leipzig-siebenjaehriges-maedchen-stirbt-nach-mutmasslicher-messerattacke-durch-13-jaehrige-schwester](https://www.spiegel.de/panorama/justiz/leipzig-siebenjaehriges-maedchen-stirbt-nach-mutmasslicher-messerattacke-durch-13-jaehrige-schwester-a-fac39d67-57d1-48df-83a3-66c7def92b54#ref=rss)
-### schwester
-
-* [https://www.spiegel.de/panorama/justiz/leipzig-siebenjaehriges-maedchen-stirbt-nach-mutmasslicher-messerattacke-durch-13-jaehrige-schwester](https://www.spiegel.de/panorama/justiz/leipzig-siebenjaehriges-maedchen-stirbt-nach-mutmasslicher-messerattacke-durch-13-jaehrige-schwester-a-fac39d67-57d1-48df-83a3-66c7def92b54#ref=rss)
-### hause
-
-* [https://www.spiegel.de/panorama/justiz/leipzig-siebenjaehriges-maedchen-stirbt-nach-mutmasslicher-messerattacke-durch-13-jaehrige-schwester](https://www.spiegel.de/panorama/justiz/leipzig-siebenjaehriges-maedchen-stirbt-nach-mutmasslicher-messerattacke-durch-13-jaehrige-schwester-a-fac39d67-57d1-48df-83a3-66c7def92b54#ref=rss)
-### schwer
-
-* [https://www.spiegel.de/panorama/justiz/leipzig-siebenjaehriges-maedchen-stirbt-nach-mutmasslicher-messerattacke-durch-13-jaehrige-schwester](https://www.spiegel.de/panorama/justiz/leipzig-siebenjaehriges-maedchen-stirbt-nach-mutmasslicher-messerattacke-durch-13-jaehrige-schwester-a-fac39d67-57d1-48df-83a3-66c7def92b54#ref=rss)
-* [https://www.spiegel.de/panorama/moers-e-bike-akku-explodiert-in-mehrfamilienhaus-drei-verletzte](https://www.spiegel.de/panorama/moers-e-bike-akku-explodiert-in-mehrfamilienhaus-drei-verletzte-a-e0ad3366-c25d-4a58-8202-4729e6a14eb6#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/panorama/justiz/leipzig-siebenjaehriges-maedchen-stirbt-nach-mutmasslicher-messerattacke-durch-13-jaehrige-schwester](https://www.spiegel.de/panorama/justiz/leipzig-siebenjaehriges-maedchen-stirbt-nach-mutmasslicher-messerattacke-durch-13-jaehrige-schwester-a-fac39d67-57d1-48df-83a3-66c7def92b54#ref=rss)
-* [https://www.spiegel.de/panorama/moers-e-bike-akku-explodiert-in-mehrfamilienhaus-drei-verletzte](https://www.spiegel.de/panorama/moers-e-bike-akku-explodiert-in-mehrfamilienhaus-drei-verletzte-a-e0ad3366-c25d-4a58-8202-4729e6a14eb6#ref=rss)
-### wenig
-
-* [https://www.spiegel.de/panorama/justiz/leipzig-siebenjaehriges-maedchen-stirbt-nach-mutmasslicher-messerattacke-durch-13-jaehrige-schwester](https://www.spiegel.de/panorama/justiz/leipzig-siebenjaehriges-maedchen-stirbt-nach-mutmasslicher-messerattacke-durch-13-jaehrige-schwester-a-fac39d67-57d1-48df-83a3-66c7def92b54#ref=rss)
-* [https://www.spiegel.de/panorama/ufo361-unterwegs-mit-einem-phaenomen](https://www.spiegel.de/panorama/ufo361-unterwegs-mit-einem-phaenomen-a-09a52672-fc63-42ca-a9dd-55001b481686#ref=rss)
-### essen
-
-* [https://www.spiegel.de/sport/fussball/fussball-sonderzug-von-rot-weiss-essen-auf-dem-weg-nach-hansa-rostock-attackiert](https://www.spiegel.de/sport/fussball/fussball-sonderzug-von-rot-weiss-essen-auf-dem-weg-nach-hansa-rostock-attackiert-a-3e41bf3c-5464-47be-8a12-73a1e88a1b66#ref=rss)
-### weg
-
-* [https://www.spiegel.de/sport/fussball/fussball-sonderzug-von-rot-weiss-essen-auf-dem-weg-nach-hansa-rostock-attackiert](https://www.spiegel.de/sport/fussball/fussball-sonderzug-von-rot-weiss-essen-auf-dem-weg-nach-hansa-rostock-attackiert-a-3e41bf3c-5464-47be-8a12-73a1e88a1b66#ref=rss)
-### hansa
-
-* [https://www.spiegel.de/sport/fussball/fussball-sonderzug-von-rot-weiss-essen-auf-dem-weg-nach-hansa-rostock-attackiert](https://www.spiegel.de/sport/fussball/fussball-sonderzug-von-rot-weiss-essen-auf-dem-weg-nach-hansa-rostock-attackiert-a-3e41bf3c-5464-47be-8a12-73a1e88a1b66#ref=rss)
-### rostock
-
-* [https://www.spiegel.de/sport/fussball/fussball-sonderzug-von-rot-weiss-essen-auf-dem-weg-nach-hansa-rostock-attackiert](https://www.spiegel.de/sport/fussball/fussball-sonderzug-von-rot-weiss-essen-auf-dem-weg-nach-hansa-rostock-attackiert-a-3e41bf3c-5464-47be-8a12-73a1e88a1b66#ref=rss)
-### gegenschlag
-
-* [https://www.spiegel.de/ausland/israels-gegenschlag-auf-iran-wie-israel-die-iranische-flugabwehr-ueberwand](https://www.spiegel.de/ausland/israels-gegenschlag-auf-iran-wie-israel-die-iranische-flugabwehr-ueberwand-a-9929f59a-24a5-43d8-a45c-ff5c6313323a#ref=rss)
+* [https://www.spiegel.de/panorama/leute/prinz-william-erzaehlt-von-besuch-im-obdachlosenheim-mit-diana](https://www.spiegel.de/panorama/leute/prinz-william-erzaehlt-von-besuch-im-obdachlosenheim-mit-diana-a-5bd9cda6-c44f-48c3-b411-6f6278096397#ref=rss)
+* [https://www.spiegel.de/ausland/michelle-obama-unterstuetzt-in-kalamazoo-den-wahlkampf-von-kamala-harris](https://www.spiegel.de/ausland/michelle-obama-unterstuetzt-in-kalamazoo-den-wahlkampf-von-kamala-harris-a-44d1b339-31a8-4781-b150-6e8488f266e0#ref=rss)
 ### selbst
 
-* [https://www.spiegel.de/ausland/israels-gegenschlag-auf-iran-wie-israel-die-iranische-flugabwehr-ueberwand](https://www.spiegel.de/ausland/israels-gegenschlag-auf-iran-wie-israel-die-iranische-flugabwehr-ueberwand-a-9929f59a-24a5-43d8-a45c-ff5c6313323a#ref=rss)
-* [https://www.spiegel.de/panorama/ufo361-unterwegs-mit-einem-phaenomen](https://www.spiegel.de/panorama/ufo361-unterwegs-mit-einem-phaenomen-a-09a52672-fc63-42ca-a9dd-55001b481686#ref=rss)
-### bernd
+* [https://www.spiegel.de/ausland/michelle-obama-unterstuetzt-in-kalamazoo-den-wahlkampf-von-kamala-harris](https://www.spiegel.de/ausland/michelle-obama-unterstuetzt-in-kalamazoo-den-wahlkampf-von-kamala-harris-a-44d1b339-31a8-4781-b150-6e8488f266e0#ref=rss)
+* [https://www.spiegel.de/ausland/elon-musk-verstiess-offenbar-gegen-us-einwanderungsgesetz](https://www.spiegel.de/ausland/elon-musk-verstiess-offenbar-gegen-us-einwanderungsgesetz-a-c4c903f8-5a8e-4520-9a05-abb80a2b9588#ref=rss)
+### wahlkampf
 
-* [https://www.spiegel.de/sport/fussball/nachruf-auf-bernd-bauchspiess-der-fussball-chemiker](https://www.spiegel.de/sport/fussball/nachruf-auf-bernd-bauchspiess-der-fussball-chemiker-a-84473563-e3d7-4d0d-97c0-93c5075569b1#ref=rss)
-### bauchspieß
+* [https://www.spiegel.de/ausland/michelle-obama-unterstuetzt-in-kalamazoo-den-wahlkampf-von-kamala-harris](https://www.spiegel.de/ausland/michelle-obama-unterstuetzt-in-kalamazoo-den-wahlkampf-von-kamala-harris-a-44d1b339-31a8-4781-b150-6e8488f266e0#ref=rss)
+* [https://www.spiegel.de/ausland/elon-musk-verstiess-offenbar-gegen-us-einwanderungsgesetz](https://www.spiegel.de/ausland/elon-musk-verstiess-offenbar-gegen-us-einwanderungsgesetz-a-c4c903f8-5a8e-4520-9a05-abb80a2b9588#ref=rss)
+### orakel
 
-* [https://www.spiegel.de/sport/fussball/nachruf-auf-bernd-bauchspiess-der-fussball-chemiker](https://www.spiegel.de/sport/fussball/nachruf-auf-bernd-bauchspiess-der-fussball-chemiker-a-84473563-e3d7-4d0d-97c0-93c5075569b1#ref=rss)
-### ufo361
+* [https://www.spiegel.de/geschichte/orakel-von-delphi-das-geheimnis-der-teilzeit-prophetinnen](https://www.spiegel.de/geschichte/orakel-von-delphi-das-geheimnis-der-teilzeit-prophetinnen-a-e656f0f6-4e3f-4c28-9a13-06cc1382bb6e#ref=rss)
+### delphi
 
-* [https://www.spiegel.de/panorama/ufo361-unterwegs-mit-einem-phaenomen](https://www.spiegel.de/panorama/ufo361-unterwegs-mit-einem-phaenomen-a-09a52672-fc63-42ca-a9dd-55001b481686#ref=rss)
-### zahl
+* [https://www.spiegel.de/geschichte/orakel-von-delphi-das-geheimnis-der-teilzeit-prophetinnen](https://www.spiegel.de/geschichte/orakel-von-delphi-das-geheimnis-der-teilzeit-prophetinnen-a-e656f0f6-4e3f-4c28-9a13-06cc1382bb6e#ref=rss)
+### gaza
 
-* [https://www.spiegel.de/ausland/mcdonalds-anzahl-der-erkrankten-durch-kolibakterien-steigt](https://www.spiegel.de/ausland/mcdonalds-anzahl-der-erkrankten-durch-kolibakterien-steigt-a-d5ed6592-00b0-481b-a867-762ad74c649e#ref=rss)
-### erkrankten
+* [https://www.spiegel.de/ausland/krieg-in-nahost-kaempfe-in-gaza-und-im-libanon-hoffnung-auf-geiselgespraeche](https://www.spiegel.de/ausland/krieg-in-nahost-kaempfe-in-gaza-und-im-libanon-hoffnung-auf-geiselgespraeche-a-21d65c45-cfeb-458a-a829-9cf3cada4da8#ref=rss)
+### donald
 
-* [https://www.spiegel.de/ausland/mcdonalds-anzahl-der-erkrankten-durch-kolibakterien-steigt](https://www.spiegel.de/ausland/mcdonalds-anzahl-der-erkrankten-durch-kolibakterien-steigt-a-d5ed6592-00b0-481b-a867-762ad74c649e#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahlen-michelle-obama-sieht-frauenrechte-durch-donald-trump-bedroht](https://www.spiegel.de/ausland/us-wahlen-michelle-obama-sieht-frauenrechte-durch-donald-trump-bedroht-a-9648664c-2632-4403-a905-318ae32076fc#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/us-wahlen-michelle-obama-sieht-frauenrechte-durch-donald-trump-bedroht](https://www.spiegel.de/ausland/us-wahlen-michelle-obama-sieht-frauenrechte-durch-donald-trump-bedroht-a-9648664c-2632-4403-a905-318ae32076fc#ref=rss)
+### uhren
+
+* [https://www.spiegel.de/wissenschaft/zeitumstellung-sommerzeit-zu-ende-uhren-auf-normalzeit-zurueckgestellt](https://www.spiegel.de/wissenschaft/zeitumstellung-sommerzeit-zu-ende-uhren-auf-normalzeit-zurueckgestellt-a-e36aff90-cb5f-491a-9db4-45336dfd817f#ref=rss)
+### normalzeit
+
+* [https://www.spiegel.de/wissenschaft/zeitumstellung-sommerzeit-zu-ende-uhren-auf-normalzeit-zurueckgestellt](https://www.spiegel.de/wissenschaft/zeitumstellung-sommerzeit-zu-ende-uhren-auf-normalzeit-zurueckgestellt-a-e36aff90-cb5f-491a-9db4-45336dfd817f#ref=rss)
+### uhr
+
+* [https://www.spiegel.de/wissenschaft/zeitumstellung-sommerzeit-zu-ende-uhren-auf-normalzeit-zurueckgestellt](https://www.spiegel.de/wissenschaft/zeitumstellung-sommerzeit-zu-ende-uhren-auf-normalzeit-zurueckgestellt-a-e36aff90-cb5f-491a-9db4-45336dfd817f#ref=rss)
+### ironman
+
+* [https://www.spiegel.de/sport/ironman-wm-in-hawaii-patrick-lange-gewinnt-zum-dritten-mal](https://www.spiegel.de/sport/ironman-wm-in-hawaii-patrick-lange-gewinnt-zum-dritten-mal-a-86ef169f-f274-4a7c-a06d-ab52467d0c26#ref=rss)
+### patrick
+
+* [https://www.spiegel.de/sport/ironman-wm-in-hawaii-patrick-lange-gewinnt-zum-dritten-mal](https://www.spiegel.de/sport/ironman-wm-in-hawaii-patrick-lange-gewinnt-zum-dritten-mal-a-86ef169f-f274-4a7c-a06d-ab52467d0c26#ref=rss)
+### dritten
+
+* [https://www.spiegel.de/sport/ironman-wm-in-hawaii-patrick-lange-gewinnt-zum-dritten-mal](https://www.spiegel.de/sport/ironman-wm-in-hawaii-patrick-lange-gewinnt-zum-dritten-mal-a-86ef169f-f274-4a7c-a06d-ab52467d0c26#ref=rss)
+### elon
+
+* [https://www.spiegel.de/ausland/elon-musk-verstiess-offenbar-gegen-us-einwanderungsgesetz](https://www.spiegel.de/ausland/elon-musk-verstiess-offenbar-gegen-us-einwanderungsgesetz-a-c4c903f8-5a8e-4520-9a05-abb80a2b9588#ref=rss)
+### musk
+
+* [https://www.spiegel.de/ausland/elon-musk-verstiess-offenbar-gegen-us-einwanderungsgesetz](https://www.spiegel.de/ausland/elon-musk-verstiess-offenbar-gegen-us-einwanderungsgesetz-a-c4c903f8-5a8e-4520-9a05-abb80a2b9588#ref=rss)
 
