@@ -4,408 +4,393 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### dollar
-
-* [https://www.spiegel.de/wirtschaft/boeing-will-durch-aktienverkaeufe-15-milliarden-dollar-einnehmen](https://www.spiegel.de/wirtschaft/boeing-will-durch-aktienverkaeufe-15-milliarden-dollar-einnehmen-a-530a2e1a-705e-4d78-94b4-f0e5893cf58f#ref=rss)
-* [https://www.spiegel.de/panorama/timothee-chalamet-ueberraschender-auftritt-bei-eigenem-doppelgaengerwettbewerb-in-new-york](https://www.spiegel.de/panorama/timothee-chalamet-ueberraschender-auftritt-bei-eigenem-doppelgaengerwettbewerb-in-new-york-a-d918419a-38f9-4745-8e3c-25f76a944ddb#ref=rss)
-* [https://www.spiegel.de/ausland/ukrainekrieg-nordkorea-lieferte-russland-waffen-in-milliardenhoehe](https://www.spiegel.de/ausland/ukrainekrieg-nordkorea-lieferte-russland-waffen-in-milliardenhoehe-a-f2cbb837-a331-44b1-9989-991574c817d2#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/justiz/zwei-tote-nach-schuessen-in-oberoesterreich-buergermeister-laut-medienberichten-tot](https://www.spiegel.de/panorama/justiz/zwei-tote-nach-schuessen-in-oberoesterreich-buergermeister-laut-medienberichten-tot-a-ea60358c-2311-4d2f-97fd-2303a844787f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/satz-des-pythagoras-junge-frauen-ueberraschen-mathe-welt-mit-pythagoras-beweisen](https://www.spiegel.de/wissenschaft/satz-des-pythagoras-junge-frauen-ueberraschen-mathe-welt-mit-pythagoras-beweisen-a-a54d5c13-8f42-407a-9ae6-3cee091c6f2d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/industriegipfel-dihk-fordert-guenstigere-energie-fuer-alle-betriebe](https://www.spiegel.de/wirtschaft/industriegipfel-dihk-fordert-guenstigere-energie-fuer-alle-betriebe-a-ff963113-5868-412c-8439-5940c9ff41a0#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/politik/deutschland/brandenburg-bsw-und-spd-einig-ueber-diplomatische-loesung-des-ukrainekonflikts](https://www.spiegel.de/politik/deutschland/brandenburg-bsw-und-spd-einig-ueber-diplomatische-loesung-des-ukrainekonflikts-a-dee21479-1727-4e55-be06-e6e18c7bbf5f#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-attackiert-charkiw-und-cherson-mehrere-tote-und-verletzte](https://www.spiegel.de/ausland/ukraine-krieg-russland-attackiert-charkiw-und-cherson-mehrere-tote-und-verletzte-a-6f53f952-5191-4d4b-8698-233c931a28cf#ref=rss)
-* [https://www.spiegel.de/ausland/ukrainekrieg-nordkorea-lieferte-russland-waffen-in-milliardenhoehe](https://www.spiegel.de/ausland/ukrainekrieg-nordkorea-lieferte-russland-waffen-in-milliardenhoehe-a-f2cbb837-a331-44b1-9989-991574c817d2#ref=rss)
-### milliarden
-
-* [https://www.spiegel.de/wirtschaft/boeing-will-durch-aktienverkaeufe-15-milliarden-dollar-einnehmen](https://www.spiegel.de/wirtschaft/boeing-will-durch-aktienverkaeufe-15-milliarden-dollar-einnehmen-a-530a2e1a-705e-4d78-94b4-f0e5893cf58f#ref=rss)
-* [https://www.spiegel.de/ausland/ukrainekrieg-nordkorea-lieferte-russland-waffen-in-milliardenhoehe](https://www.spiegel.de/ausland/ukrainekrieg-nordkorea-lieferte-russland-waffen-in-milliardenhoehe-a-f2cbb837-a331-44b1-9989-991574c817d2#ref=rss)
-### ich
-
-* [https://www.spiegel.de/psychologie/dating-apps-wie-ich-mich-auf-tinder-bumble-und-okcupid-verlor](https://www.spiegel.de/psychologie/dating-apps-wie-ich-mich-auf-tinder-bumble-und-okcupid-verlor-a-1dd2b9d4-45ff-4298-99ac-b679c70f6919#ref=rss)
-### wahl
-
-* [https://www.spiegel.de/ausland/viktor-orban-reist-nach-georgien-eu-aussenbeauftragter-josep-borrell-distanziert-sich](https://www.spiegel.de/ausland/viktor-orban-reist-nach-georgien-eu-aussenbeauftragter-josep-borrell-distanziert-sich-a-049ca18d-31fa-4789-a147-e9c635e9d8cc#ref=rss)
-* [https://www.spiegel.de/ausland/litauen-sozialdemokraten-gewinnen-parlamentswahl](https://www.spiegel.de/ausland/litauen-sozialdemokraten-gewinnen-parlamentswahl-a-af58a950-1df5-4ef6-9900-47c1d48850f6#ref=rss)
-* [https://www.spiegel.de/ausland/japan-regierungskoalition-verliert-mehrheit-ministerpraesident-shigeru-ishiba-sucht-partner](https://www.spiegel.de/ausland/japan-regierungskoalition-verliert-mehrheit-ministerpraesident-shigeru-ishiba-sucht-partner-a-85700544-de3f-433a-acca-ef49c9423fa7#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-attackiert-charkiw-und-cherson-mehrere-tote-und-verletzte](https://www.spiegel.de/ausland/ukraine-krieg-russland-attackiert-charkiw-und-cherson-mehrere-tote-und-verletzte-a-6f53f952-5191-4d4b-8698-233c931a28cf#ref=rss)
-* [https://www.spiegel.de/ausland/ukrainekrieg-nordkorea-lieferte-russland-waffen-in-milliardenhoehe](https://www.spiegel.de/ausland/ukrainekrieg-nordkorea-lieferte-russland-waffen-in-milliardenhoehe-a-f2cbb837-a331-44b1-9989-991574c817d2#ref=rss)
-### mögliche
-
-* [https://www.spiegel.de/wirtschaft/volkswagen-will-mindestens-drei-werke-in-deutschland-komplett-schliessen](https://www.spiegel.de/wirtschaft/volkswagen-will-mindestens-drei-werke-in-deutschland-komplett-schliessen-a-e87afec9-d9da-4703-9f23-97bd8ce912e4#ref=rss)
-* [https://www.spiegel.de/ausland/litauen-sozialdemokraten-gewinnen-parlamentswahl](https://www.spiegel.de/ausland/litauen-sozialdemokraten-gewinnen-parlamentswahl-a-af58a950-1df5-4ef6-9900-47c1d48850f6#ref=rss)
-* [https://www.spiegel.de/ausland/ukrainekrieg-nordkorea-lieferte-russland-waffen-in-milliardenhoehe](https://www.spiegel.de/ausland/ukrainekrieg-nordkorea-lieferte-russland-waffen-in-milliardenhoehe-a-f2cbb837-a331-44b1-9989-991574c817d2#ref=rss)
-### allerdings
-
-* [https://www.spiegel.de/wissenschaft/satz-des-pythagoras-junge-frauen-ueberraschen-mathe-welt-mit-pythagoras-beweisen](https://www.spiegel.de/wissenschaft/satz-des-pythagoras-junge-frauen-ueberraschen-mathe-welt-mit-pythagoras-beweisen-a-a54d5c13-8f42-407a-9ae6-3cee091c6f2d#ref=rss)
-* [https://www.spiegel.de/panorama/timothee-chalamet-ueberraschender-auftritt-bei-eigenem-doppelgaengerwettbewerb-in-new-york](https://www.spiegel.de/panorama/timothee-chalamet-ueberraschender-auftritt-bei-eigenem-doppelgaengerwettbewerb-in-new-york-a-d918419a-38f9-4745-8e3c-25f76a944ddb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/industriegipfel-dihk-fordert-guenstigere-energie-fuer-alle-betriebe](https://www.spiegel.de/wirtschaft/industriegipfel-dihk-fordert-guenstigere-energie-fuer-alle-betriebe-a-ff963113-5868-412c-8439-5940c9ff41a0#ref=rss)
-### wert
-
-* [https://www.spiegel.de/wirtschaft/boeing-will-durch-aktienverkaeufe-15-milliarden-dollar-einnehmen](https://www.spiegel.de/wirtschaft/boeing-will-durch-aktienverkaeufe-15-milliarden-dollar-einnehmen-a-530a2e1a-705e-4d78-94b4-f0e5893cf58f#ref=rss)
-* [https://www.spiegel.de/ausland/ukrainekrieg-nordkorea-lieferte-russland-waffen-in-milliardenhoehe](https://www.spiegel.de/ausland/ukrainekrieg-nordkorea-lieferte-russland-waffen-in-milliardenhoehe-a-f2cbb837-a331-44b1-9989-991574c817d2#ref=rss)
-### mich
-
-* [https://www.spiegel.de/psychologie/dating-apps-wie-ich-mich-auf-tinder-bumble-und-okcupid-verlor](https://www.spiegel.de/psychologie/dating-apps-wie-ich-mich-auf-tinder-bumble-und-okcupid-verlor-a-1dd2b9d4-45ff-4298-99ac-b679c70f6919#ref=rss)
-### schauspieler
-
-* [https://www.spiegel.de/kultur/kino/gerard-depardieu-erscheint-aus-gesundheitlichen-gruenden-nicht-zu-prozessbeginn-wegen-sexuellen-uebergriffen](https://www.spiegel.de/kultur/kino/gerard-depardieu-erscheint-aus-gesundheitlichen-gruenden-nicht-zu-prozessbeginn-wegen-sexuellen-uebergriffen-a-20e74a01-d54b-4241-bf92-7eece996ece6#ref=rss)
-* [https://www.spiegel.de/panorama/timothee-chalamet-ueberraschender-auftritt-bei-eigenem-doppelgaengerwettbewerb-in-new-york](https://www.spiegel.de/panorama/timothee-chalamet-ueberraschender-auftritt-bei-eigenem-doppelgaengerwettbewerb-in-new-york-a-d918419a-38f9-4745-8e3c-25f76a944ddb#ref=rss)
-### politik
-
-* [https://www.spiegel.de/politik/deutschland/kriminalitaet-bekaempfen-verlogenheit-der-politik-bei-der-vorratsdatenspeicherung](https://www.spiegel.de/politik/deutschland/kriminalitaet-bekaempfen-verlogenheit-der-politik-bei-der-vorratsdatenspeicherung-a-588688b4-34ea-41aa-90f1-c76c3fd050ac#ref=rss)
-* [https://www.spiegel.de/wirtschaft/industriegipfel-dihk-fordert-guenstigere-energie-fuer-alle-betriebe](https://www.spiegel.de/wirtschaft/industriegipfel-dihk-fordert-guenstigere-energie-fuer-alle-betriebe-a-ff963113-5868-412c-8439-5940c9ff41a0#ref=rss)
-### reist
-
-* [https://www.spiegel.de/ausland/viktor-orban-reist-nach-georgien-eu-aussenbeauftragter-josep-borrell-distanziert-sich](https://www.spiegel.de/ausland/viktor-orban-reist-nach-georgien-eu-aussenbeauftragter-josep-borrell-distanziert-sich-a-049ca18d-31fa-4789-a147-e9c635e9d8cc#ref=rss)
 ### georgien
 
-* [https://www.spiegel.de/ausland/viktor-orban-reist-nach-georgien-eu-aussenbeauftragter-josep-borrell-distanziert-sich](https://www.spiegel.de/ausland/viktor-orban-reist-nach-georgien-eu-aussenbeauftragter-josep-borrell-distanziert-sich-a-049ca18d-31fa-4789-a147-e9c635e9d8cc#ref=rss)
-### borrell
-
-* [https://www.spiegel.de/ausland/viktor-orban-reist-nach-georgien-eu-aussenbeauftragter-josep-borrell-distanziert-sich](https://www.spiegel.de/ausland/viktor-orban-reist-nach-georgien-eu-aussenbeauftragter-josep-borrell-distanziert-sich-a-049ca18d-31fa-4789-a147-e9c635e9d8cc#ref=rss)
-### gewonnen
-
-* [https://www.spiegel.de/ausland/viktor-orban-reist-nach-georgien-eu-aussenbeauftragter-josep-borrell-distanziert-sich](https://www.spiegel.de/ausland/viktor-orban-reist-nach-georgien-eu-aussenbeauftragter-josep-borrell-distanziert-sich-a-049ca18d-31fa-4789-a147-e9c635e9d8cc#ref=rss)
-* [https://www.spiegel.de/panorama/timothee-chalamet-ueberraschender-auftritt-bei-eigenem-doppelgaengerwettbewerb-in-new-york](https://www.spiegel.de/panorama/timothee-chalamet-ueberraschender-auftritt-bei-eigenem-doppelgaengerwettbewerb-in-new-york-a-d918419a-38f9-4745-8e3c-25f76a944ddb#ref=rss)
-### regierungschef
-
-* [https://www.spiegel.de/ausland/viktor-orban-reist-nach-georgien-eu-aussenbeauftragter-josep-borrell-distanziert-sich](https://www.spiegel.de/ausland/viktor-orban-reist-nach-georgien-eu-aussenbeauftragter-josep-borrell-distanziert-sich-a-049ca18d-31fa-4789-a147-e9c635e9d8cc#ref=rss)
-* [https://www.spiegel.de/ausland/israel-regierung-verlegt-sitzung-an-geheimen-ort-aus-angst-vor-angriffen](https://www.spiegel.de/ausland/israel-regierung-verlegt-sitzung-an-geheimen-ort-aus-angst-vor-angriffen-a-ac6cdff6-20fe-4e3c-b32b-f783bf1decb2#ref=rss)
-### deutlich
-
-* [https://www.spiegel.de/ausland/viktor-orban-reist-nach-georgien-eu-aussenbeauftragter-josep-borrell-distanziert-sich](https://www.spiegel.de/ausland/viktor-orban-reist-nach-georgien-eu-aussenbeauftragter-josep-borrell-distanziert-sich-a-049ca18d-31fa-4789-a147-e9c635e9d8cc#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-rassismus-sexismus-hass-bei-wahlkampfrede-im-madison-square-garden](https://www.spiegel.de/ausland/donald-trump-rassismus-sexismus-hass-bei-wahlkampfrede-im-madison-square-garden-a-3f8f7d59-ef57-4436-9930-74371a44804f#ref=rss)
-### tote
-
-* [https://www.spiegel.de/panorama/justiz/zwei-tote-nach-schuessen-in-oberoesterreich-buergermeister-laut-medienberichten-tot](https://www.spiegel.de/panorama/justiz/zwei-tote-nach-schuessen-in-oberoesterreich-buergermeister-laut-medienberichten-tot-a-ea60358c-2311-4d2f-97fd-2303a844787f#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-attackiert-charkiw-und-cherson-mehrere-tote-und-verletzte](https://www.spiegel.de/ausland/ukraine-krieg-russland-attackiert-charkiw-und-cherson-mehrere-tote-und-verletzte-a-6f53f952-5191-4d4b-8698-233c931a28cf#ref=rss)
-### zufolge
-
-* [https://www.spiegel.de/panorama/justiz/zwei-tote-nach-schuessen-in-oberoesterreich-buergermeister-laut-medienberichten-tot](https://www.spiegel.de/panorama/justiz/zwei-tote-nach-schuessen-in-oberoesterreich-buergermeister-laut-medienberichten-tot-a-ea60358c-2311-4d2f-97fd-2303a844787f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lohnkuerzungen-nullrunden-werksschliessung-eine-giftliste-verunsichert-vw-belegschaft](https://www.spiegel.de/wirtschaft/lohnkuerzungen-nullrunden-werksschliessung-eine-giftliste-verunsichert-vw-belegschaft-a-b0b8cc69-c3a0-46b5-b476-a90a807f4df7#ref=rss)
-### allianz
-
-* [https://www.spiegel.de/reise/deutschland/allianz-pro-schiene-bautzen-hat-den-bahnhof-des-jahres-2024](https://www.spiegel.de/reise/deutschland/allianz-pro-schiene-bautzen-hat-den-bahnhof-des-jahres-2024-a-72944dab-bff0-491b-98be-d7d7b134e2f9#ref=rss)
-### pro
-
-* [https://www.spiegel.de/reise/deutschland/allianz-pro-schiene-bautzen-hat-den-bahnhof-des-jahres-2024](https://www.spiegel.de/reise/deutschland/allianz-pro-schiene-bautzen-hat-den-bahnhof-des-jahres-2024-a-72944dab-bff0-491b-98be-d7d7b134e2f9#ref=rss)
-### schiene
-
-* [https://www.spiegel.de/reise/deutschland/allianz-pro-schiene-bautzen-hat-den-bahnhof-des-jahres-2024](https://www.spiegel.de/reise/deutschland/allianz-pro-schiene-bautzen-hat-den-bahnhof-des-jahres-2024-a-72944dab-bff0-491b-98be-d7d7b134e2f9#ref=rss)
-### bautzen
-
-* [https://www.spiegel.de/reise/deutschland/allianz-pro-schiene-bautzen-hat-den-bahnhof-des-jahres-2024](https://www.spiegel.de/reise/deutschland/allianz-pro-schiene-bautzen-hat-den-bahnhof-des-jahres-2024-a-72944dab-bff0-491b-98be-d7d7b134e2f9#ref=rss)
-### bahnhof
-
-* [https://www.spiegel.de/reise/deutschland/allianz-pro-schiene-bautzen-hat-den-bahnhof-des-jahres-2024](https://www.spiegel.de/reise/deutschland/allianz-pro-schiene-bautzen-hat-den-bahnhof-des-jahres-2024-a-72944dab-bff0-491b-98be-d7d7b134e2f9#ref=rss)
-### wenigen
-
-* [https://www.spiegel.de/reise/deutschland/allianz-pro-schiene-bautzen-hat-den-bahnhof-des-jahres-2024](https://www.spiegel.de/reise/deutschland/allianz-pro-schiene-bautzen-hat-den-bahnhof-des-jahres-2024-a-72944dab-bff0-491b-98be-d7d7b134e2f9#ref=rss)
-* [https://www.spiegel.de/wissenschaft/satz-des-pythagoras-junge-frauen-ueberraschen-mathe-welt-mit-pythagoras-beweisen](https://www.spiegel.de/wissenschaft/satz-des-pythagoras-junge-frauen-ueberraschen-mathe-welt-mit-pythagoras-beweisen-a-a54d5c13-8f42-407a-9ae6-3cee091c6f2d#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/reise/deutschland/allianz-pro-schiene-bautzen-hat-den-bahnhof-des-jahres-2024](https://www.spiegel.de/reise/deutschland/allianz-pro-schiene-bautzen-hat-den-bahnhof-des-jahres-2024-a-72944dab-bff0-491b-98be-d7d7b134e2f9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kriminalitaet-bekaempfen-verlogenheit-der-politik-bei-der-vorratsdatenspeicherung](https://www.spiegel.de/politik/deutschland/kriminalitaet-bekaempfen-verlogenheit-der-politik-bei-der-vorratsdatenspeicherung-a-588688b4-34ea-41aa-90f1-c76c3fd050ac#ref=rss)
-### leben
-
-* [https://www.spiegel.de/reise/deutschland/allianz-pro-schiene-bautzen-hat-den-bahnhof-des-jahres-2024](https://www.spiegel.de/reise/deutschland/allianz-pro-schiene-bautzen-hat-den-bahnhof-des-jahres-2024-a-72944dab-bff0-491b-98be-d7d7b134e2f9#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klimakrise-treibhausgas-konzentration-erreicht-den-naechsten-rekordstand](https://www.spiegel.de/wissenschaft/natur/klimakrise-treibhausgas-konzentration-erreicht-den-naechsten-rekordstand-a-edb03efb-3ebe-42b0-9939-71c6fc0094b8#ref=rss)
-### brandenburg
-
-* [https://www.spiegel.de/politik/deutschland/brandenburg-bsw-und-spd-einig-ueber-diplomatische-loesung-des-ukrainekonflikts](https://www.spiegel.de/politik/deutschland/brandenburg-bsw-und-spd-einig-ueber-diplomatische-loesung-des-ukrainekonflikts-a-dee21479-1727-4e55-be06-e6e18c7bbf5f#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/brandenburg-bsw-und-spd-einig-ueber-diplomatische-loesung-des-ukrainekonflikts](https://www.spiegel.de/politik/deutschland/brandenburg-bsw-und-spd-einig-ueber-diplomatische-loesung-des-ukrainekonflikts-a-dee21479-1727-4e55-be06-e6e18c7bbf5f#ref=rss)
-### darauf
-
-* [https://www.spiegel.de/politik/deutschland/brandenburg-bsw-und-spd-einig-ueber-diplomatische-loesung-des-ukrainekonflikts](https://www.spiegel.de/politik/deutschland/brandenburg-bsw-und-spd-einig-ueber-diplomatische-loesung-des-ukrainekonflikts-a-dee21479-1727-4e55-be06-e6e18c7bbf5f#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/wissenschaft/natur/klimakrise-treibhausgas-konzentration-erreicht-den-naechsten-rekordstand](https://www.spiegel.de/wissenschaft/natur/klimakrise-treibhausgas-konzentration-erreicht-den-naechsten-rekordstand-a-edb03efb-3ebe-42b0-9939-71c6fc0094b8#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-europa-franz-stefan-gady-erklaert-warum-pazifismus-nicht-hilfreich-ist](https://www.spiegel.de/ausland/krieg-in-europa-franz-stefan-gady-erklaert-warum-pazifismus-nicht-hilfreich-ist-a-8b763339-eec6-4d35-9ba2-acb8b6581cee#ref=rss)
-### charkiw
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-attackiert-charkiw-und-cherson-mehrere-tote-und-verletzte](https://www.spiegel.de/ausland/ukraine-krieg-russland-attackiert-charkiw-und-cherson-mehrere-tote-und-verletzte-a-6f53f952-5191-4d4b-8698-233c931a28cf#ref=rss)
-### cherson
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-attackiert-charkiw-und-cherson-mehrere-tote-und-verletzte](https://www.spiegel.de/ausland/ukraine-krieg-russland-attackiert-charkiw-und-cherson-mehrere-tote-und-verletzte-a-6f53f952-5191-4d4b-8698-233c931a28cf#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-attackiert-charkiw-und-cherson-mehrere-tote-und-verletzte](https://www.spiegel.de/ausland/ukraine-krieg-russland-attackiert-charkiw-und-cherson-mehrere-tote-und-verletzte-a-6f53f952-5191-4d4b-8698-233c931a28cf#ref=rss)
-* [https://www.spiegel.de/ausland/japan-regierungskoalition-verliert-mehrheit-ministerpraesident-shigeru-ishiba-sucht-partner](https://www.spiegel.de/ausland/japan-regierungskoalition-verliert-mehrheit-ministerpraesident-shigeru-ishiba-sucht-partner-a-85700544-de3f-433a-acca-ef49c9423fa7#ref=rss)
+* [https://www.spiegel.de/ausland/georgien-praesidentin-salome-surabischwili-sieht-wahlbeeinflussung-durch-russland-und-ruft-zu-protesten-auf](https://www.spiegel.de/ausland/georgien-praesidentin-salome-surabischwili-sieht-wahlbeeinflussung-durch-russland-und-ruft-zu-protesten-auf-a-073eb79e-6159-43c7-a555-951415aca2df#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-entlassungen-bei-volkswagen-reiche-russen-in-berlin-viktor-orban-in-georgien](https://www.spiegel.de/politik/deutschland/news-des-tages-entlassungen-bei-volkswagen-reiche-russen-in-berlin-viktor-orban-in-georgien-a-5ac0ddd7-765f-4fd3-b6d5-4af3bf552e90#ref=rss)
 ### volkswagen
 
-* [https://www.spiegel.de/wirtschaft/volkswagen-will-mindestens-drei-werke-in-deutschland-komplett-schliessen](https://www.spiegel.de/wirtschaft/volkswagen-will-mindestens-drei-werke-in-deutschland-komplett-schliessen-a-e87afec9-d9da-4703-9f23-97bd8ce912e4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lohnkuerzungen-nullrunden-werksschliessung-eine-giftliste-verunsichert-vw-belegschaft](https://www.spiegel.de/wirtschaft/lohnkuerzungen-nullrunden-werksschliessung-eine-giftliste-verunsichert-vw-belegschaft-a-b0b8cc69-c3a0-46b5-b476-a90a807f4df7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-entlassungen-bei-volkswagen-reiche-russen-in-berlin-viktor-orban-in-georgien](https://www.spiegel.de/politik/deutschland/news-des-tages-entlassungen-bei-volkswagen-reiche-russen-in-berlin-viktor-orban-in-georgien-a-5ac0ddd7-765f-4fd3-b6d5-4af3bf552e90#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-in-der-krise-will-volkswagen-wirklich-zehntausende-mitarbeiter-entlassen](https://www.spiegel.de/wirtschaft/unternehmen/vw-in-der-krise-will-volkswagen-wirklich-zehntausende-mitarbeiter-entlassen-a-50cbc31d-83a5-4888-bce1-9ef711e368e7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/volkswagen-bundeskanzler-olaf-scholz-fordert-vw-auf-jobs-zu-erhalten](https://www.spiegel.de/politik/deutschland/volkswagen-bundeskanzler-olaf-scholz-fordert-vw-auf-jobs-zu-erhalten-a-9617d9af-4c12-4fa5-972b-c8e45433e67d#ref=rss)
+### drei
+
+* [https://www.spiegel.de/sport/fussball/ballon-dor-real-madrid-offenbar-vor-boykott-preis-fuer-manchester-citys-rodri](https://www.spiegel.de/sport/fussball/ballon-dor-real-madrid-offenbar-vor-boykott-preis-fuer-manchester-citys-rodri-a-00e0b084-5ab7-43e8-b417-4b1fb1982397#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-in-der-krise-will-volkswagen-wirklich-zehntausende-mitarbeiter-entlassen](https://www.spiegel.de/wirtschaft/unternehmen/vw-in-der-krise-will-volkswagen-wirklich-zehntausende-mitarbeiter-entlassen-a-50cbc31d-83a5-4888-bce1-9ef711e368e7#ref=rss)
+* [https://www.spiegel.de/panorama/leute/selena-gomez-ice-spice-anne-hathaway-stars-im-fruehzeitigen-halloween-fieber](https://www.spiegel.de/panorama/leute/selena-gomez-ice-spice-anne-hathaway-stars-im-fruehzeitigen-halloween-fieber-a-9b199a07-2568-4a20-a43e-2486c09b8520#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/volkswagen-bundeskanzler-olaf-scholz-fordert-vw-auf-jobs-zu-erhalten](https://www.spiegel.de/politik/deutschland/volkswagen-bundeskanzler-olaf-scholz-fordert-vw-auf-jobs-zu-erhalten-a-9617d9af-4c12-4fa5-972b-c8e45433e67d#ref=rss)
+### frau
+
+* [https://www.spiegel.de/panorama/italien-haushaltshilfe-entsorgt-aus-versehen-mit-geld-gefuellte-matratze](https://www.spiegel.de/panorama/italien-haushaltshilfe-entsorgt-aus-versehen-mit-geld-gefuellte-matratze-a-88cfe077-b60e-4bc3-9ec4-027332b14a98#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/regensburg-krankenpflegerin-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/regensburg-krankenpflegerin-zu-lebenslanger-haft-verurteilt-a-d7d34d09-ef7d-410f-bc4d-02a88bd3da83#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/leiche-im-neckar-staatsanwaltschaft-gibt-weitere-details-ueber-getoetete-66-jaehrige-bekannt](https://www.spiegel.de/panorama/justiz/leiche-im-neckar-staatsanwaltschaft-gibt-weitere-details-ueber-getoetete-66-jaehrige-bekannt-a-06673935-7bc3-49b8-89f6-5a686f33fe4c#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/justiz/iserlohn-polizei-erweitert-ermittlungen-wegen-gruppenvergewaltigung](https://www.spiegel.de/panorama/justiz/iserlohn-polizei-erweitert-ermittlungen-wegen-gruppenvergewaltigung-a-7f9dfab3-815e-4902-8d3d-7042d3a86a8b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bruchsal-polizei-sucht-56-jaehrigen-nach-toedlichen-schuessen-in-oberoesterreich](https://www.spiegel.de/panorama/justiz/bruchsal-polizei-sucht-56-jaehrigen-nach-toedlichen-schuessen-in-oberoesterreich-a-1d4bf210-45fc-4e22-b4c5-f028e7e624bd#ref=rss)
+### mann
+
+* [https://www.spiegel.de/netzwelt/web/virtueller-kindesmissbrauch-18-jahre-haft-fuer-englaender-wegen-ki-generierten-missbrauchs](https://www.spiegel.de/netzwelt/web/virtueller-kindesmissbrauch-18-jahre-haft-fuer-englaender-wegen-ki-generierten-missbrauchs-a-f518b7a4-98de-45d6-b598-0611cb467b8d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bruchsal-polizei-sucht-56-jaehrigen-nach-toedlichen-schuessen-in-oberoesterreich](https://www.spiegel.de/panorama/justiz/bruchsal-polizei-sucht-56-jaehrigen-nach-toedlichen-schuessen-in-oberoesterreich-a-1d4bf210-45fc-4e22-b4c5-f028e7e624bd#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-kritisiert-elon-musk-der-reichste-mann-der-welt-hat-sich-als-illegaler-arbeiter-entpuppt](https://www.spiegel.de/ausland/joe-biden-kritisiert-elon-musk-der-reichste-mann-der-welt-hat-sich-als-illegaler-arbeiter-entpuppt-a-f45c5a74-05c2-4b85-93ee-528fddc9b816#ref=rss)
+### getötet
+
+* [https://www.spiegel.de/panorama/justiz/bruchsal-polizei-sucht-56-jaehrigen-nach-toedlichen-schuessen-in-oberoesterreich](https://www.spiegel.de/panorama/justiz/bruchsal-polizei-sucht-56-jaehrigen-nach-toedlichen-schuessen-in-oberoesterreich-a-1d4bf210-45fc-4e22-b4c5-f028e7e624bd#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-mehr-als-600-000-russische-soldaten-laut-nato-gefallen-oder-verwundet](https://www.spiegel.de/ausland/ukraine-krieg-mehr-als-600-000-russische-soldaten-laut-nato-gefallen-oder-verwundet-a-02d6314a-b97c-443f-aa86-a51c0ece32f7#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/leiche-im-neckar-staatsanwaltschaft-gibt-weitere-details-ueber-getoetete-66-jaehrige-bekannt](https://www.spiegel.de/panorama/justiz/leiche-im-neckar-staatsanwaltschaft-gibt-weitere-details-ueber-getoetete-66-jaehrige-bekannt-a-06673935-7bc3-49b8-89f6-5a686f33fe4c#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deloitte-studie-konzerne-ziehen-investitionen-aus-deutschland-ab](https://www.spiegel.de/wirtschaft/unternehmen/deloitte-studie-konzerne-ziehen-investitionen-aus-deutschland-ab-a-44d7c940-bc8e-4340-b095-ab1ea721b194#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-in-der-krise-will-volkswagen-wirklich-zehntausende-mitarbeiter-entlassen](https://www.spiegel.de/wirtschaft/unternehmen/vw-in-der-krise-will-volkswagen-wirklich-zehntausende-mitarbeiter-entlassen-a-50cbc31d-83a5-4888-bce1-9ef711e368e7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/thueringen-cdu-bsw-und-spd-streben-koalitionsverhandlungen-an](https://www.spiegel.de/politik/deutschland/thueringen-cdu-bsw-und-spd-streben-koalitionsverhandlungen-an-a-de08fd28-03e4-424a-be34-48b169403379#ref=rss)
+### ausland
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deloitte-studie-konzerne-ziehen-investitionen-aus-deutschland-ab](https://www.spiegel.de/wirtschaft/unternehmen/deloitte-studie-konzerne-ziehen-investitionen-aus-deutschland-ab-a-44d7c940-bc8e-4340-b095-ab1ea721b194#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-mehr-als-600-000-russische-soldaten-laut-nato-gefallen-oder-verwundet](https://www.spiegel.de/ausland/ukraine-krieg-mehr-als-600-000-russische-soldaten-laut-nato-gefallen-oder-verwundet-a-02d6314a-b97c-443f-aa86-a51c0ece32f7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/volkswagen-bundeskanzler-olaf-scholz-fordert-vw-auf-jobs-zu-erhalten](https://www.spiegel.de/politik/deutschland/volkswagen-bundeskanzler-olaf-scholz-fordert-vw-auf-jobs-zu-erhalten-a-9617d9af-4c12-4fa5-972b-c8e45433e67d#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deloitte-studie-konzerne-ziehen-investitionen-aus-deutschland-ab](https://www.spiegel.de/wirtschaft/unternehmen/deloitte-studie-konzerne-ziehen-investitionen-aus-deutschland-ab-a-44d7c940-bc8e-4340-b095-ab1ea721b194#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-mehr-als-600-000-russische-soldaten-laut-nato-gefallen-oder-verwundet](https://www.spiegel.de/ausland/ukraine-krieg-mehr-als-600-000-russische-soldaten-laut-nato-gefallen-oder-verwundet-a-02d6314a-b97c-443f-aa86-a51c0ece32f7#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/georgien-praesidentin-salome-surabischwili-sieht-wahlbeeinflussung-durch-russland-und-ruft-zu-protesten-auf](https://www.spiegel.de/ausland/georgien-praesidentin-salome-surabischwili-sieht-wahlbeeinflussung-durch-russland-und-ruft-zu-protesten-auf-a-073eb79e-6159-43c7-a555-951415aca2df#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-mehr-als-600-000-russische-soldaten-laut-nato-gefallen-oder-verwundet](https://www.spiegel.de/ausland/ukraine-krieg-mehr-als-600-000-russische-soldaten-laut-nato-gefallen-oder-verwundet-a-02d6314a-b97c-443f-aa86-a51c0ece32f7#ref=rss)
+### halloween
+
+* [https://www.spiegel.de/panorama/halloween-grusel-experte-ueber-die-kunst-des-erschreckens](https://www.spiegel.de/panorama/halloween-grusel-experte-ueber-die-kunst-des-erschreckens-a-8b1fe2ec-20a1-45c1-a678-0ae153b2d470#ref=rss)
+* [https://www.spiegel.de/panorama/leute/selena-gomez-ice-spice-anne-hathaway-stars-im-fruehzeitigen-halloween-fieber](https://www.spiegel.de/panorama/leute/selena-gomez-ice-spice-anne-hathaway-stars-im-fruehzeitigen-halloween-fieber-a-9b199a07-2568-4a20-a43e-2486c09b8520#ref=rss)
+### bsw
+
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-bezeichnet-erfurter-kompromiss-als-fehler](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-bezeichnet-erfurter-kompromiss-als-fehler-a-61a80ba9-a1b7-4838-badf-52b1d4f54379#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/thueringen-cdu-bsw-und-spd-streben-koalitionsverhandlungen-an](https://www.spiegel.de/politik/deutschland/thueringen-cdu-bsw-und-spd-streben-koalitionsverhandlungen-an-a-de08fd28-03e4-424a-be34-48b169403379#ref=rss)
+### cdu
+
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-bezeichnet-erfurter-kompromiss-als-fehler](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-bezeichnet-erfurter-kompromiss-als-fehler-a-61a80ba9-a1b7-4838-badf-52b1d4f54379#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/thueringen-cdu-bsw-und-spd-streben-koalitionsverhandlungen-an](https://www.spiegel.de/politik/deutschland/thueringen-cdu-bsw-und-spd-streben-koalitionsverhandlungen-an-a-de08fd28-03e4-424a-be34-48b169403379#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-bezeichnet-erfurter-kompromiss-als-fehler](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-bezeichnet-erfurter-kompromiss-als-fehler-a-61a80ba9-a1b7-4838-badf-52b1d4f54379#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/thueringen-cdu-bsw-und-spd-streben-koalitionsverhandlungen-an](https://www.spiegel.de/politik/deutschland/thueringen-cdu-bsw-und-spd-streben-koalitionsverhandlungen-an-a-de08fd28-03e4-424a-be34-48b169403379#ref=rss)
+### manchester
+
+* [https://www.spiegel.de/sport/fussball/ballon-dor-real-madrid-offenbar-vor-boykott-preis-fuer-manchester-citys-rodri](https://www.spiegel.de/sport/fussball/ballon-dor-real-madrid-offenbar-vor-boykott-preis-fuer-manchester-citys-rodri-a-00e0b084-5ab7-43e8-b417-4b1fb1982397#ref=rss)
+* [https://www.spiegel.de/sport/fussball/manchester-united-trennt-sich-von-trainer-erik-ten-hag](https://www.spiegel.de/sport/fussball/manchester-united-trennt-sich-von-trainer-erik-ten-hag-a-c07e3915-0119-40c8-b464-13d190b88b47#ref=rss)
+### welt
+
+* [https://www.spiegel.de/sport/fussball/ballon-dor-real-madrid-offenbar-vor-boykott-preis-fuer-manchester-citys-rodri](https://www.spiegel.de/sport/fussball/ballon-dor-real-madrid-offenbar-vor-boykott-preis-fuer-manchester-citys-rodri-a-00e0b084-5ab7-43e8-b417-4b1fb1982397#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-kritisiert-elon-musk-der-reichste-mann-der-welt-hat-sich-als-illegaler-arbeiter-entpuppt](https://www.spiegel.de/ausland/joe-biden-kritisiert-elon-musk-der-reichste-mann-der-welt-hat-sich-als-illegaler-arbeiter-entpuppt-a-f45c5a74-05c2-4b85-93ee-528fddc9b816#ref=rss)
+### zehntausende
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-in-der-krise-will-volkswagen-wirklich-zehntausende-mitarbeiter-entlassen](https://www.spiegel.de/wirtschaft/unternehmen/vw-in-der-krise-will-volkswagen-wirklich-zehntausende-mitarbeiter-entlassen-a-50cbc31d-83a5-4888-bce1-9ef711e368e7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/volkswagen-bundeskanzler-olaf-scholz-fordert-vw-auf-jobs-zu-erhalten](https://www.spiegel.de/politik/deutschland/volkswagen-bundeskanzler-olaf-scholz-fordert-vw-auf-jobs-zu-erhalten-a-9617d9af-4c12-4fa5-972b-c8e45433e67d#ref=rss)
+### laut
+
+* [https://www.spiegel.de/kultur/kino/gerard-depardieu-prozess-wegen-sexueller-belaestigung-auf-maerz-2025-verschoben](https://www.spiegel.de/kultur/kino/gerard-depardieu-prozess-wegen-sexueller-belaestigung-auf-maerz-2025-verschoben-a-f20d7b33-84b7-4f1a-a31c-c70d75e38db9#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-mehr-als-600-000-russische-soldaten-laut-nato-gefallen-oder-verwundet](https://www.spiegel.de/ausland/ukraine-krieg-mehr-als-600-000-russische-soldaten-laut-nato-gefallen-oder-verwundet-a-02d6314a-b97c-443f-aa86-a51c0ece32f7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/volkswagen-bundeskanzler-olaf-scholz-fordert-vw-auf-jobs-zu-erhalten](https://www.spiegel.de/politik/deutschland/volkswagen-bundeskanzler-olaf-scholz-fordert-vw-auf-jobs-zu-erhalten-a-9617d9af-4c12-4fa5-972b-c8e45433e67d#ref=rss)
+### haft
+
+* [https://www.spiegel.de/ausland/deutsch-iraner-jamshid-sharmahd-hingerichtet](https://www.spiegel.de/ausland/deutsch-iraner-jamshid-sharmahd-hingerichtet-a-6120b103-7eec-4667-844c-6f55ad849422#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/regensburg-krankenpflegerin-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/regensburg-krankenpflegerin-zu-lebenslanger-haft-verurteilt-a-d7d34d09-ef7d-410f-bc4d-02a88bd3da83#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/virtueller-kindesmissbrauch-18-jahre-haft-fuer-englaender-wegen-ki-generierten-missbrauchs](https://www.spiegel.de/netzwelt/web/virtueller-kindesmissbrauch-18-jahre-haft-fuer-englaender-wegen-ki-generierten-missbrauchs-a-f518b7a4-98de-45d6-b598-0611cb467b8d#ref=rss)
+### thüringen
+
+* [https://www.spiegel.de/politik/deutschland/thueringen-cdu-bsw-und-spd-streben-koalitionsverhandlungen-an](https://www.spiegel.de/politik/deutschland/thueringen-cdu-bsw-und-spd-streben-koalitionsverhandlungen-an-a-de08fd28-03e4-424a-be34-48b169403379#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/thueringen-bjoern-hoeckes-kritiker-klaus-stoeber-soll-aus-der-afd-geworfen-werden](https://www.spiegel.de/politik/deutschland/thueringen-bjoern-hoeckes-kritiker-klaus-stoeber-soll-aus-der-afd-geworfen-werden-a-72c90205-3833-46da-bcd4-2c6619cf9338#ref=rss)
+### männer
+
+* [https://www.spiegel.de/panorama/justiz/iserlohn-polizei-erweitert-ermittlungen-wegen-gruppenvergewaltigung](https://www.spiegel.de/panorama/justiz/iserlohn-polizei-erweitert-ermittlungen-wegen-gruppenvergewaltigung-a-7f9dfab3-815e-4902-8d3d-7042d3a86a8b#ref=rss)
+* [https://www.spiegel.de/kultur/diskriminierung-wie-sich-frauenfeindlichkeit-und-maennerfeindlichkeit-unterscheiden](https://www.spiegel.de/kultur/diskriminierung-wie-sich-frauenfeindlichkeit-und-maennerfeindlichkeit-unterscheiden-a-abb5e18a-a178-4721-b298-d9471240df1c#ref=rss)
+### elon
+
+* [https://www.spiegel.de/ausland/joe-biden-kritisiert-elon-musk-der-reichste-mann-der-welt-hat-sich-als-illegaler-arbeiter-entpuppt](https://www.spiegel.de/ausland/joe-biden-kritisiert-elon-musk-der-reichste-mann-der-welt-hat-sich-als-illegaler-arbeiter-entpuppt-a-f45c5a74-05c2-4b85-93ee-528fddc9b816#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-heimatbesuch-in-new-york-city-mit-rassistischen-witzen-im-rahmenprogramm](https://www.spiegel.de/ausland/donald-trump-heimatbesuch-in-new-york-city-mit-rassistischen-witzen-im-rahmenprogramm-a-9faf3787-0b62-4212-b8ea-b3d1ddffc16c#ref=rss)
+### musk
+
+* [https://www.spiegel.de/ausland/joe-biden-kritisiert-elon-musk-der-reichste-mann-der-welt-hat-sich-als-illegaler-arbeiter-entpuppt](https://www.spiegel.de/ausland/joe-biden-kritisiert-elon-musk-der-reichste-mann-der-welt-hat-sich-als-illegaler-arbeiter-entpuppt-a-f45c5a74-05c2-4b85-93ee-528fddc9b816#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-heimatbesuch-in-new-york-city-mit-rassistischen-witzen-im-rahmenprogramm](https://www.spiegel.de/ausland/donald-trump-heimatbesuch-in-new-york-city-mit-rassistischen-witzen-im-rahmenprogramm-a-9faf3787-0b62-4212-b8ea-b3d1ddffc16c#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-fordert-neue-kaufanreize-fuer-e-autos-und-hoehere-loehne](https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-fordert-neue-kaufanreize-fuer-e-autos-und-hoehere-loehne-a-af7d3a9d-2708-4739-bf5d-199e3f4de454#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/volkswagen-bundeskanzler-olaf-scholz-fordert-vw-auf-jobs-zu-erhalten](https://www.spiegel.de/politik/deutschland/volkswagen-bundeskanzler-olaf-scholz-fordert-vw-auf-jobs-zu-erhalten-a-9617d9af-4c12-4fa5-972b-c8e45433e67d#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/georgien-praesidentin-salome-surabischwili-sieht-wahlbeeinflussung-durch-russland-und-ruft-zu-protesten-auf](https://www.spiegel.de/ausland/georgien-praesidentin-salome-surabischwili-sieht-wahlbeeinflussung-durch-russland-und-ruft-zu-protesten-auf-a-073eb79e-6159-43c7-a555-951415aca2df#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-kritisiert-elon-musk-der-reichste-mann-der-welt-hat-sich-als-illegaler-arbeiter-entpuppt](https://www.spiegel.de/ausland/joe-biden-kritisiert-elon-musk-der-reichste-mann-der-welt-hat-sich-als-illegaler-arbeiter-entpuppt-a-f45c5a74-05c2-4b85-93ee-528fddc9b816#ref=rss)
+### sahra
+
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-bezeichnet-erfurter-kompromiss-als-fehler](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-bezeichnet-erfurter-kompromiss-als-fehler-a-61a80ba9-a1b7-4838-badf-52b1d4f54379#ref=rss)
+### wagenknecht
+
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-bezeichnet-erfurter-kompromiss-als-fehler](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-bezeichnet-erfurter-kompromiss-als-fehler-a-61a80ba9-a1b7-4838-badf-52b1d4f54379#ref=rss)
+### gefunden
+
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-bezeichnet-erfurter-kompromiss-als-fehler](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-bezeichnet-erfurter-kompromiss-als-fehler-a-61a80ba9-a1b7-4838-badf-52b1d4f54379#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/leiche-im-neckar-staatsanwaltschaft-gibt-weitere-details-ueber-getoetete-66-jaehrige-bekannt](https://www.spiegel.de/panorama/justiz/leiche-im-neckar-staatsanwaltschaft-gibt-weitere-details-ueber-getoetete-66-jaehrige-bekannt-a-06673935-7bc3-49b8-89f6-5a686f33fe4c#ref=rss)
+### kritisiert
+
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-bezeichnet-erfurter-kompromiss-als-fehler](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-bezeichnet-erfurter-kompromiss-als-fehler-a-61a80ba9-a1b7-4838-badf-52b1d4f54379#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/thueringen-bjoern-hoeckes-kritiker-klaus-stoeber-soll-aus-der-afd-geworfen-werden](https://www.spiegel.de/politik/deutschland/thueringen-bjoern-hoeckes-kritiker-klaus-stoeber-soll-aus-der-afd-geworfen-werden-a-72c90205-3833-46da-bcd4-2c6619cf9338#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-entlassungen-bei-volkswagen-reiche-russen-in-berlin-viktor-orban-in-georgien](https://www.spiegel.de/politik/deutschland/news-des-tages-entlassungen-bei-volkswagen-reiche-russen-in-berlin-viktor-orban-in-georgien-a-5ac0ddd7-765f-4fd3-b6d5-4af3bf552e90#ref=rss)
+### russische
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-entlassungen-bei-volkswagen-reiche-russen-in-berlin-viktor-orban-in-georgien](https://www.spiegel.de/politik/deutschland/news-des-tages-entlassungen-bei-volkswagen-reiche-russen-in-berlin-viktor-orban-in-georgien-a-5ac0ddd7-765f-4fd3-b6d5-4af3bf552e90#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-mehr-als-600-000-russische-soldaten-laut-nato-gefallen-oder-verwundet](https://www.spiegel.de/ausland/ukraine-krieg-mehr-als-600-000-russische-soldaten-laut-nato-gefallen-oder-verwundet-a-02d6314a-b97c-443f-aa86-a51c0ece32f7#ref=rss)
+### real
+
+* [https://www.spiegel.de/sport/fussball/ballon-dor-real-madrid-offenbar-vor-boykott-preis-fuer-manchester-citys-rodri](https://www.spiegel.de/sport/fussball/ballon-dor-real-madrid-offenbar-vor-boykott-preis-fuer-manchester-citys-rodri-a-00e0b084-5ab7-43e8-b417-4b1fb1982397#ref=rss)
+### madrid
+
+* [https://www.spiegel.de/sport/fussball/ballon-dor-real-madrid-offenbar-vor-boykott-preis-fuer-manchester-citys-rodri](https://www.spiegel.de/sport/fussball/ballon-dor-real-madrid-offenbar-vor-boykott-preis-fuer-manchester-citys-rodri-a-00e0b084-5ab7-43e8-b417-4b1fb1982397#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/sport/fussball/ballon-dor-real-madrid-offenbar-vor-boykott-preis-fuer-manchester-citys-rodri](https://www.spiegel.de/sport/fussball/ballon-dor-real-madrid-offenbar-vor-boykott-preis-fuer-manchester-citys-rodri-a-00e0b084-5ab7-43e8-b417-4b1fb1982397#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/regensburg-krankenpflegerin-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/regensburg-krankenpflegerin-zu-lebenslanger-haft-verurteilt-a-d7d34d09-ef7d-410f-bc4d-02a88bd3da83#ref=rss)
+### stars
+
+* [https://www.spiegel.de/sport/fussball/ballon-dor-real-madrid-offenbar-vor-boykott-preis-fuer-manchester-citys-rodri](https://www.spiegel.de/sport/fussball/ballon-dor-real-madrid-offenbar-vor-boykott-preis-fuer-manchester-citys-rodri-a-00e0b084-5ab7-43e8-b417-4b1fb1982397#ref=rss)
+* [https://www.spiegel.de/panorama/leute/selena-gomez-ice-spice-anne-hathaway-stars-im-fruehzeitigen-halloween-fieber](https://www.spiegel.de/panorama/leute/selena-gomez-ice-spice-anne-hathaway-stars-im-fruehzeitigen-halloween-fieber-a-9b199a07-2568-4a20-a43e-2486c09b8520#ref=rss)
 ### vw
 
-* [https://www.spiegel.de/wirtschaft/volkswagen-will-mindestens-drei-werke-in-deutschland-komplett-schliessen](https://www.spiegel.de/wirtschaft/volkswagen-will-mindestens-drei-werke-in-deutschland-komplett-schliessen-a-e87afec9-d9da-4703-9f23-97bd8ce912e4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lohnkuerzungen-nullrunden-werksschliessung-eine-giftliste-verunsichert-vw-belegschaft](https://www.spiegel.de/wirtschaft/lohnkuerzungen-nullrunden-werksschliessung-eine-giftliste-verunsichert-vw-belegschaft-a-b0b8cc69-c3a0-46b5-b476-a90a807f4df7#ref=rss)
-### betriebsrat
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-in-der-krise-will-volkswagen-wirklich-zehntausende-mitarbeiter-entlassen](https://www.spiegel.de/wirtschaft/unternehmen/vw-in-der-krise-will-volkswagen-wirklich-zehntausende-mitarbeiter-entlassen-a-50cbc31d-83a5-4888-bce1-9ef711e368e7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/volkswagen-bundeskanzler-olaf-scholz-fordert-vw-auf-jobs-zu-erhalten](https://www.spiegel.de/politik/deutschland/volkswagen-bundeskanzler-olaf-scholz-fordert-vw-auf-jobs-zu-erhalten-a-9617d9af-4c12-4fa5-972b-c8e45433e67d#ref=rss)
+### mitarbeiter
 
-* [https://www.spiegel.de/wirtschaft/volkswagen-will-mindestens-drei-werke-in-deutschland-komplett-schliessen](https://www.spiegel.de/wirtschaft/volkswagen-will-mindestens-drei-werke-in-deutschland-komplett-schliessen-a-e87afec9-d9da-4703-9f23-97bd8ce912e4#ref=rss)
-### donald
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-in-der-krise-will-volkswagen-wirklich-zehntausende-mitarbeiter-entlassen](https://www.spiegel.de/wirtschaft/unternehmen/vw-in-der-krise-will-volkswagen-wirklich-zehntausende-mitarbeiter-entlassen-a-50cbc31d-83a5-4888-bce1-9ef711e368e7#ref=rss)
+### entlassen
 
-* [https://www.spiegel.de/ausland/donald-trump-rassismus-sexismus-hass-bei-wahlkampfrede-im-madison-square-garden](https://www.spiegel.de/ausland/donald-trump-rassismus-sexismus-hass-bei-wahlkampfrede-im-madison-square-garden-a-3f8f7d59-ef57-4436-9930-74371a44804f#ref=rss)
-### trump
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-in-der-krise-will-volkswagen-wirklich-zehntausende-mitarbeiter-entlassen](https://www.spiegel.de/wirtschaft/unternehmen/vw-in-der-krise-will-volkswagen-wirklich-zehntausende-mitarbeiter-entlassen-a-50cbc31d-83a5-4888-bce1-9ef711e368e7#ref=rss)
+### werke
 
-* [https://www.spiegel.de/ausland/donald-trump-rassismus-sexismus-hass-bei-wahlkampfrede-im-madison-square-garden](https://www.spiegel.de/ausland/donald-trump-rassismus-sexismus-hass-bei-wahlkampfrede-im-madison-square-garden-a-3f8f7d59-ef57-4436-9930-74371a44804f#ref=rss)
-### new
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-in-der-krise-will-volkswagen-wirklich-zehntausende-mitarbeiter-entlassen](https://www.spiegel.de/wirtschaft/unternehmen/vw-in-der-krise-will-volkswagen-wirklich-zehntausende-mitarbeiter-entlassen-a-50cbc31d-83a5-4888-bce1-9ef711e368e7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/volkswagen-bundeskanzler-olaf-scholz-fordert-vw-auf-jobs-zu-erhalten](https://www.spiegel.de/politik/deutschland/volkswagen-bundeskanzler-olaf-scholz-fordert-vw-auf-jobs-zu-erhalten-a-9617d9af-4c12-4fa5-972b-c8e45433e67d#ref=rss)
+### schließen
 
-* [https://www.spiegel.de/ausland/donald-trump-rassismus-sexismus-hass-bei-wahlkampfrede-im-madison-square-garden](https://www.spiegel.de/ausland/donald-trump-rassismus-sexismus-hass-bei-wahlkampfrede-im-madison-square-garden-a-3f8f7d59-ef57-4436-9930-74371a44804f#ref=rss)
-* [https://www.spiegel.de/panorama/timothee-chalamet-ueberraschender-auftritt-bei-eigenem-doppelgaengerwettbewerb-in-new-york](https://www.spiegel.de/panorama/timothee-chalamet-ueberraschender-auftritt-bei-eigenem-doppelgaengerwettbewerb-in-new-york-a-d918419a-38f9-4745-8e3c-25f76a944ddb#ref=rss)
-### stand
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-in-der-krise-will-volkswagen-wirklich-zehntausende-mitarbeiter-entlassen](https://www.spiegel.de/wirtschaft/unternehmen/vw-in-der-krise-will-volkswagen-wirklich-zehntausende-mitarbeiter-entlassen-a-50cbc31d-83a5-4888-bce1-9ef711e368e7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/volkswagen-bundeskanzler-olaf-scholz-fordert-vw-auf-jobs-zu-erhalten](https://www.spiegel.de/politik/deutschland/volkswagen-bundeskanzler-olaf-scholz-fordert-vw-auf-jobs-zu-erhalten-a-9617d9af-4c12-4fa5-972b-c8e45433e67d#ref=rss)
+### diesem
 
-* [https://www.spiegel.de/ausland/donald-trump-rassismus-sexismus-hass-bei-wahlkampfrede-im-madison-square-garden](https://www.spiegel.de/ausland/donald-trump-rassismus-sexismus-hass-bei-wahlkampfrede-im-madison-square-garden-a-3f8f7d59-ef57-4436-9930-74371a44804f#ref=rss)
-* [https://www.spiegel.de/panorama/leute/bill-kaulitz-traeumt-von-einer-karriere-als-musical-star](https://www.spiegel.de/panorama/leute/bill-kaulitz-traeumt-von-einer-karriere-als-musical-star-a-28f13915-68cc-4d2e-b7e2-38b81460112b#ref=rss)
-### erwartet
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-in-der-krise-will-volkswagen-wirklich-zehntausende-mitarbeiter-entlassen](https://www.spiegel.de/wirtschaft/unternehmen/vw-in-der-krise-will-volkswagen-wirklich-zehntausende-mitarbeiter-entlassen-a-50cbc31d-83a5-4888-bce1-9ef711e368e7#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/japan-auf-dem-fuji-liegt-noch-immer-kein-schnee](https://www.spiegel.de/wissenschaft/natur/japan-auf-dem-fuji-liegt-noch-immer-kein-schnee-a-82933d60-e3b4-4136-9bc5-911322367d9c#ref=rss)
+### emmanuel
 
-* [https://www.spiegel.de/ausland/donald-trump-rassismus-sexismus-hass-bei-wahlkampfrede-im-madison-square-garden](https://www.spiegel.de/ausland/donald-trump-rassismus-sexismus-hass-bei-wahlkampfrede-im-madison-square-garden-a-3f8f7d59-ef57-4436-9930-74371a44804f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kriminalitaet-bekaempfen-verlogenheit-der-politik-bei-der-vorratsdatenspeicherung](https://www.spiegel.de/politik/deutschland/kriminalitaet-bekaempfen-verlogenheit-der-politik-bei-der-vorratsdatenspeicherung-a-588688b4-34ea-41aa-90f1-c76c3fd050ac#ref=rss)
-### sophie
+* [https://www.spiegel.de/ausland/emmanuel-macron-leibwaechter-nutzen-lauf-app-strava-das-koennte-ein-risiko-sein](https://www.spiegel.de/ausland/emmanuel-macron-leibwaechter-nutzen-lauf-app-strava-das-koennte-ein-risiko-sein-a-81e9dd11-3b2c-48ad-94d2-8e9de42f1f73#ref=rss)
+### laufapp
 
-* [https://www.spiegel.de/panorama/leute/sophie-turner-gratuliert-ihrem-neuen-freund-peregrine-pearson-oeffentlich-zum-geburtstag](https://www.spiegel.de/panorama/leute/sophie-turner-gratuliert-ihrem-neuen-freund-peregrine-pearson-oeffentlich-zum-geburtstag-a-9d9c1684-8679-44bf-bb13-179d56e53a4f#ref=rss)
-### turner
+* [https://www.spiegel.de/ausland/emmanuel-macron-leibwaechter-nutzen-lauf-app-strava-das-koennte-ein-risiko-sein](https://www.spiegel.de/ausland/emmanuel-macron-leibwaechter-nutzen-lauf-app-strava-das-koennte-ein-risiko-sein-a-81e9dd11-3b2c-48ad-94d2-8e9de42f1f73#ref=rss)
+### reagiert
 
-* [https://www.spiegel.de/panorama/leute/sophie-turner-gratuliert-ihrem-neuen-freund-peregrine-pearson-oeffentlich-zum-geburtstag](https://www.spiegel.de/panorama/leute/sophie-turner-gratuliert-ihrem-neuen-freund-peregrine-pearson-oeffentlich-zum-geburtstag-a-9d9c1684-8679-44bf-bb13-179d56e53a4f#ref=rss)
-### peregrine
-
-* [https://www.spiegel.de/panorama/leute/sophie-turner-gratuliert-ihrem-neuen-freund-peregrine-pearson-oeffentlich-zum-geburtstag](https://www.spiegel.de/panorama/leute/sophie-turner-gratuliert-ihrem-neuen-freund-peregrine-pearson-oeffentlich-zum-geburtstag-a-9d9c1684-8679-44bf-bb13-179d56e53a4f#ref=rss)
-### pearson
-
-* [https://www.spiegel.de/panorama/leute/sophie-turner-gratuliert-ihrem-neuen-freund-peregrine-pearson-oeffentlich-zum-geburtstag](https://www.spiegel.de/panorama/leute/sophie-turner-gratuliert-ihrem-neuen-freund-peregrine-pearson-oeffentlich-zum-geburtstag-a-9d9c1684-8679-44bf-bb13-179d56e53a4f#ref=rss)
-### ulrich
-
-* [https://www.spiegel.de/wirtschaft/sparkassen-praesident-ulrich-reuter-sehr-besorgt-ueber-zustand-der-deutschen-wirtschaft](https://www.spiegel.de/wirtschaft/sparkassen-praesident-ulrich-reuter-sehr-besorgt-ueber-zustand-der-deutschen-wirtschaft-a-bb123171-581b-44de-b83e-4db2c0e42950#ref=rss)
-### reuter
-
-* [https://www.spiegel.de/wirtschaft/sparkassen-praesident-ulrich-reuter-sehr-besorgt-ueber-zustand-der-deutschen-wirtschaft](https://www.spiegel.de/wirtschaft/sparkassen-praesident-ulrich-reuter-sehr-besorgt-ueber-zustand-der-deutschen-wirtschaft-a-bb123171-581b-44de-b83e-4db2c0e42950#ref=rss)
-### sehr
-
-* [https://www.spiegel.de/wirtschaft/sparkassen-praesident-ulrich-reuter-sehr-besorgt-ueber-zustand-der-deutschen-wirtschaft](https://www.spiegel.de/wirtschaft/sparkassen-praesident-ulrich-reuter-sehr-besorgt-ueber-zustand-der-deutschen-wirtschaft-a-bb123171-581b-44de-b83e-4db2c0e42950#ref=rss)
-* [https://www.spiegel.de/wirtschaft/industriegipfel-dihk-fordert-guenstigere-energie-fuer-alle-betriebe](https://www.spiegel.de/wirtschaft/industriegipfel-dihk-fordert-guenstigere-energie-fuer-alle-betriebe-a-ff963113-5868-412c-8439-5940c9ff41a0#ref=rss)
-### wirtschaft
-
-* [https://www.spiegel.de/wirtschaft/sparkassen-praesident-ulrich-reuter-sehr-besorgt-ueber-zustand-der-deutschen-wirtschaft](https://www.spiegel.de/wirtschaft/sparkassen-praesident-ulrich-reuter-sehr-besorgt-ueber-zustand-der-deutschen-wirtschaft-a-bb123171-581b-44de-b83e-4db2c0e42950#ref=rss)
-* [https://www.spiegel.de/wirtschaft/industriegipfel-dihk-fordert-guenstigere-energie-fuer-alle-betriebe](https://www.spiegel.de/wirtschaft/industriegipfel-dihk-fordert-guenstigere-energie-fuer-alle-betriebe-a-ff963113-5868-412c-8439-5940c9ff41a0#ref=rss)
-### finanzminister
-
-* [https://www.spiegel.de/wirtschaft/sparkassen-praesident-ulrich-reuter-sehr-besorgt-ueber-zustand-der-deutschen-wirtschaft](https://www.spiegel.de/wirtschaft/sparkassen-praesident-ulrich-reuter-sehr-besorgt-ueber-zustand-der-deutschen-wirtschaft-a-bb123171-581b-44de-b83e-4db2c0e42950#ref=rss)
-* [https://www.spiegel.de/wirtschaft/industriegipfel-dihk-fordert-guenstigere-energie-fuer-alle-betriebe](https://www.spiegel.de/wirtschaft/industriegipfel-dihk-fordert-guenstigere-energie-fuer-alle-betriebe-a-ff963113-5868-412c-8439-5940c9ff41a0#ref=rss)
-### wäre
-
-* [https://www.spiegel.de/wirtschaft/sparkassen-praesident-ulrich-reuter-sehr-besorgt-ueber-zustand-der-deutschen-wirtschaft](https://www.spiegel.de/wirtschaft/sparkassen-praesident-ulrich-reuter-sehr-besorgt-ueber-zustand-der-deutschen-wirtschaft-a-bb123171-581b-44de-b83e-4db2c0e42950#ref=rss)
-* [https://www.spiegel.de/psychologie/dating-apps-wie-ich-mich-auf-tinder-bumble-und-okcupid-verlor](https://www.spiegel.de/psychologie/dating-apps-wie-ich-mich-auf-tinder-bumble-und-okcupid-verlor-a-1dd2b9d4-45ff-4298-99ac-b679c70f6919#ref=rss)
-### dwyane
-
-* [https://www.spiegel.de/sport/basketball/baketball-dwyane-wade-wird-geehrt-seine-statue-verspottet](https://www.spiegel.de/sport/basketball/baketball-dwyane-wade-wird-geehrt-seine-statue-verspottet-a-e7498510-d7fc-4227-8d05-99075a3be3e4#ref=rss)
-### wade
-
-* [https://www.spiegel.de/sport/basketball/baketball-dwyane-wade-wird-geehrt-seine-statue-verspottet](https://www.spiegel.de/sport/basketball/baketball-dwyane-wade-wird-geehrt-seine-statue-verspottet-a-e7498510-d7fc-4227-8d05-99075a3be3e4#ref=rss)
-### statue
-
-* [https://www.spiegel.de/sport/basketball/baketball-dwyane-wade-wird-geehrt-seine-statue-verspottet](https://www.spiegel.de/sport/basketball/baketball-dwyane-wade-wird-geehrt-seine-statue-verspottet-a-e7498510-d7fc-4227-8d05-99075a3be3e4#ref=rss)
-### satz
-
-* [https://www.spiegel.de/wissenschaft/satz-des-pythagoras-junge-frauen-ueberraschen-mathe-welt-mit-pythagoras-beweisen](https://www.spiegel.de/wissenschaft/satz-des-pythagoras-junge-frauen-ueberraschen-mathe-welt-mit-pythagoras-beweisen-a-a54d5c13-8f42-407a-9ae6-3cee091c6f2d#ref=rss)
-### pythagoras
-
-* [https://www.spiegel.de/wissenschaft/satz-des-pythagoras-junge-frauen-ueberraschen-mathe-welt-mit-pythagoras-beweisen](https://www.spiegel.de/wissenschaft/satz-des-pythagoras-junge-frauen-ueberraschen-mathe-welt-mit-pythagoras-beweisen-a-a54d5c13-8f42-407a-9ae6-3cee091c6f2d#ref=rss)
-### junge
-
-* [https://www.spiegel.de/wissenschaft/satz-des-pythagoras-junge-frauen-ueberraschen-mathe-welt-mit-pythagoras-beweisen](https://www.spiegel.de/wissenschaft/satz-des-pythagoras-junge-frauen-ueberraschen-mathe-welt-mit-pythagoras-beweisen-a-a54d5c13-8f42-407a-9ae6-3cee091c6f2d#ref=rss)
-* [https://www.spiegel.de/panorama/leute/bill-kaulitz-traeumt-von-einer-karriere-als-musical-star](https://www.spiegel.de/panorama/leute/bill-kaulitz-traeumt-von-einer-karriere-als-musical-star-a-28f13915-68cc-4d2e-b7e2-38b81460112b#ref=rss)
-### gleich
-
-* [https://www.spiegel.de/wissenschaft/satz-des-pythagoras-junge-frauen-ueberraschen-mathe-welt-mit-pythagoras-beweisen](https://www.spiegel.de/wissenschaft/satz-des-pythagoras-junge-frauen-ueberraschen-mathe-welt-mit-pythagoras-beweisen-a-a54d5c13-8f42-407a-9ae6-3cee091c6f2d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/industriegipfel-dihk-fordert-guenstigere-energie-fuer-alle-betriebe](https://www.spiegel.de/wirtschaft/industriegipfel-dihk-fordert-guenstigere-energie-fuer-alle-betriebe-a-ff963113-5868-412c-8439-5940c9ff41a0#ref=rss)
-### litauen
-
-* [https://www.spiegel.de/ausland/litauen-sozialdemokraten-gewinnen-parlamentswahl](https://www.spiegel.de/ausland/litauen-sozialdemokraten-gewinnen-parlamentswahl-a-af58a950-1df5-4ef6-9900-47c1d48850f6#ref=rss)
-### sozialdemokraten
-
-* [https://www.spiegel.de/ausland/litauen-sozialdemokraten-gewinnen-parlamentswahl](https://www.spiegel.de/ausland/litauen-sozialdemokraten-gewinnen-parlamentswahl-a-af58a950-1df5-4ef6-9900-47c1d48850f6#ref=rss)
-### bisherige
-
-* [https://www.spiegel.de/ausland/litauen-sozialdemokraten-gewinnen-parlamentswahl](https://www.spiegel.de/ausland/litauen-sozialdemokraten-gewinnen-parlamentswahl-a-af58a950-1df5-4ef6-9900-47c1d48850f6#ref=rss)
-* [https://www.spiegel.de/ausland/japan-regierungskoalition-verliert-mehrheit-ministerpraesident-shigeru-ishiba-sucht-partner](https://www.spiegel.de/ausland/japan-regierungskoalition-verliert-mehrheit-ministerpraesident-shigeru-ishiba-sucht-partner-a-85700544-de3f-433a-acca-ef49c9423fa7#ref=rss)
-### partei
-
-* [https://www.spiegel.de/ausland/litauen-sozialdemokraten-gewinnen-parlamentswahl](https://www.spiegel.de/ausland/litauen-sozialdemokraten-gewinnen-parlamentswahl-a-af58a950-1df5-4ef6-9900-47c1d48850f6#ref=rss)
-* [https://www.spiegel.de/ausland/japan-regierungskoalition-verliert-mehrheit-ministerpraesident-shigeru-ishiba-sucht-partner](https://www.spiegel.de/ausland/japan-regierungskoalition-verliert-mehrheit-ministerpraesident-shigeru-ishiba-sucht-partner-a-85700544-de3f-433a-acca-ef49c9423fa7#ref=rss)
-### boeing
-
-* [https://www.spiegel.de/wirtschaft/boeing-will-durch-aktienverkaeufe-15-milliarden-dollar-einnehmen](https://www.spiegel.de/wirtschaft/boeing-will-durch-aktienverkaeufe-15-milliarden-dollar-einnehmen-a-530a2e1a-705e-4d78-94b4-f0e5893cf58f#ref=rss)
-### flugzeugbauer
-
-* [https://www.spiegel.de/wirtschaft/boeing-will-durch-aktienverkaeufe-15-milliarden-dollar-einnehmen](https://www.spiegel.de/wirtschaft/boeing-will-durch-aktienverkaeufe-15-milliarden-dollar-einnehmen-a-530a2e1a-705e-4d78-94b4-f0e5893cf58f#ref=rss)
-### aktienverkäufe
-
-* [https://www.spiegel.de/wirtschaft/boeing-will-durch-aktienverkaeufe-15-milliarden-dollar-einnehmen](https://www.spiegel.de/wirtschaft/boeing-will-durch-aktienverkaeufe-15-milliarden-dollar-einnehmen-a-530a2e1a-705e-4d78-94b4-f0e5893cf58f#ref=rss)
-### 15
-
-* [https://www.spiegel.de/wirtschaft/boeing-will-durch-aktienverkaeufe-15-milliarden-dollar-einnehmen](https://www.spiegel.de/wirtschaft/boeing-will-durch-aktienverkaeufe-15-milliarden-dollar-einnehmen-a-530a2e1a-705e-4d78-94b4-f0e5893cf58f#ref=rss)
-### dennis
-
-* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-fuehrt-die-brooklyn-nets-zum-ersten-saisonsieg](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-fuehrt-die-brooklyn-nets-zum-ersten-saisonsieg-a-4ba461e9-7690-486c-8716-11e7c1a97ed9#ref=rss)
-### schröder
-
-* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-fuehrt-die-brooklyn-nets-zum-ersten-saisonsieg](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-fuehrt-die-brooklyn-nets-zum-ersten-saisonsieg-a-4ba461e9-7690-486c-8716-11e7c1a97ed9#ref=rss)
-### brooklyn
-
-* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-fuehrt-die-brooklyn-nets-zum-ersten-saisonsieg](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-fuehrt-die-brooklyn-nets-zum-ersten-saisonsieg-a-4ba461e9-7690-486c-8716-11e7c1a97ed9#ref=rss)
-### nets
-
-* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-fuehrt-die-brooklyn-nets-zum-ersten-saisonsieg](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-fuehrt-die-brooklyn-nets-zum-ersten-saisonsieg-a-4ba461e9-7690-486c-8716-11e7c1a97ed9#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-fuehrt-die-brooklyn-nets-zum-ersten-saisonsieg](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-fuehrt-die-brooklyn-nets-zum-ersten-saisonsieg-a-4ba461e9-7690-486c-8716-11e7c1a97ed9#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-mats-hummels-debuet-fuer-as-rom-missglueckt](https://www.spiegel.de/sport/fussball/fussball-mats-hummels-debuet-fuer-as-rom-missglueckt-a-013602cb-94f0-45bc-b734-f4a561a7eb7e#ref=rss)
-### erstmals
-
-* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-fuehrt-die-brooklyn-nets-zum-ersten-saisonsieg](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-fuehrt-die-brooklyn-nets-zum-ersten-saisonsieg-a-4ba461e9-7690-486c-8716-11e7c1a97ed9#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-mats-hummels-debuet-fuer-as-rom-missglueckt](https://www.spiegel.de/sport/fussball/fussball-mats-hummels-debuet-fuer-as-rom-missglueckt-a-013602cb-94f0-45bc-b734-f4a561a7eb7e#ref=rss)
-### datingapps
-
-* [https://www.spiegel.de/psychologie/dating-apps-wie-ich-mich-auf-tinder-bumble-und-okcupid-verlor](https://www.spiegel.de/psychologie/dating-apps-wie-ich-mich-auf-tinder-bumble-und-okcupid-verlor-a-1dd2b9d4-45ff-4298-99ac-b679c70f6919#ref=rss)
-### verlor
-
-* [https://www.spiegel.de/psychologie/dating-apps-wie-ich-mich-auf-tinder-bumble-und-okcupid-verlor](https://www.spiegel.de/psychologie/dating-apps-wie-ich-mich-auf-tinder-bumble-und-okcupid-verlor-a-1dd2b9d4-45ff-4298-99ac-b679c70f6919#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/psychologie/dating-apps-wie-ich-mich-auf-tinder-bumble-und-okcupid-verlor](https://www.spiegel.de/psychologie/dating-apps-wie-ich-mich-auf-tinder-bumble-und-okcupid-verlor-a-1dd2b9d4-45ff-4298-99ac-b679c70f6919#ref=rss)
-* [https://www.spiegel.de/panorama/timothee-chalamet-ueberraschender-auftritt-bei-eigenem-doppelgaengerwettbewerb-in-new-york](https://www.spiegel.de/panorama/timothee-chalamet-ueberraschender-auftritt-bei-eigenem-doppelgaengerwettbewerb-in-new-york-a-d918419a-38f9-4745-8e3c-25f76a944ddb#ref=rss)
-### sollte
-
-* [https://www.spiegel.de/psychologie/dating-apps-wie-ich-mich-auf-tinder-bumble-und-okcupid-verlor](https://www.spiegel.de/psychologie/dating-apps-wie-ich-mich-auf-tinder-bumble-und-okcupid-verlor-a-1dd2b9d4-45ff-4298-99ac-b679c70f6919#ref=rss)
-* [https://www.spiegel.de/kultur/kino/gerard-depardieu-erscheint-aus-gesundheitlichen-gruenden-nicht-zu-prozessbeginn-wegen-sexuellen-uebergriffen](https://www.spiegel.de/kultur/kino/gerard-depardieu-erscheint-aus-gesundheitlichen-gruenden-nicht-zu-prozessbeginn-wegen-sexuellen-uebergriffen-a-20e74a01-d54b-4241-bf92-7eece996ece6#ref=rss)
+* [https://www.spiegel.de/ausland/emmanuel-macron-leibwaechter-nutzen-lauf-app-strava-das-koennte-ein-risiko-sein](https://www.spiegel.de/ausland/emmanuel-macron-leibwaechter-nutzen-lauf-app-strava-das-koennte-ein-risiko-sein-a-81e9dd11-3b2c-48ad-94d2-8e9de42f1f73#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/volkswagen-bundeskanzler-olaf-scholz-fordert-vw-auf-jobs-zu-erhalten](https://www.spiegel.de/politik/deutschland/volkswagen-bundeskanzler-olaf-scholz-fordert-vw-auf-jobs-zu-erhalten-a-9617d9af-4c12-4fa5-972b-c8e45433e67d#ref=rss)
 ### gérard
 
-* [https://www.spiegel.de/kultur/kino/gerard-depardieu-erscheint-aus-gesundheitlichen-gruenden-nicht-zu-prozessbeginn-wegen-sexuellen-uebergriffen](https://www.spiegel.de/kultur/kino/gerard-depardieu-erscheint-aus-gesundheitlichen-gruenden-nicht-zu-prozessbeginn-wegen-sexuellen-uebergriffen-a-20e74a01-d54b-4241-bf92-7eece996ece6#ref=rss)
+* [https://www.spiegel.de/kultur/kino/gerard-depardieu-prozess-wegen-sexueller-belaestigung-auf-maerz-2025-verschoben](https://www.spiegel.de/kultur/kino/gerard-depardieu-prozess-wegen-sexueller-belaestigung-auf-maerz-2025-verschoben-a-f20d7b33-84b7-4f1a-a31c-c70d75e38db9#ref=rss)
 ### depardieu
 
-* [https://www.spiegel.de/kultur/kino/gerard-depardieu-erscheint-aus-gesundheitlichen-gruenden-nicht-zu-prozessbeginn-wegen-sexuellen-uebergriffen](https://www.spiegel.de/kultur/kino/gerard-depardieu-erscheint-aus-gesundheitlichen-gruenden-nicht-zu-prozessbeginn-wegen-sexuellen-uebergriffen-a-20e74a01-d54b-4241-bf92-7eece996ece6#ref=rss)
-### prozessbeginn
+* [https://www.spiegel.de/kultur/kino/gerard-depardieu-prozess-wegen-sexueller-belaestigung-auf-maerz-2025-verschoben](https://www.spiegel.de/kultur/kino/gerard-depardieu-prozess-wegen-sexueller-belaestigung-auf-maerz-2025-verschoben-a-f20d7b33-84b7-4f1a-a31c-c70d75e38db9#ref=rss)
+### prozess
 
-* [https://www.spiegel.de/kultur/kino/gerard-depardieu-erscheint-aus-gesundheitlichen-gruenden-nicht-zu-prozessbeginn-wegen-sexuellen-uebergriffen](https://www.spiegel.de/kultur/kino/gerard-depardieu-erscheint-aus-gesundheitlichen-gruenden-nicht-zu-prozessbeginn-wegen-sexuellen-uebergriffen-a-20e74a01-d54b-4241-bf92-7eece996ece6#ref=rss)
-### wenige
+* [https://www.spiegel.de/kultur/kino/gerard-depardieu-prozess-wegen-sexueller-belaestigung-auf-maerz-2025-verschoben](https://www.spiegel.de/kultur/kino/gerard-depardieu-prozess-wegen-sexueller-belaestigung-auf-maerz-2025-verschoben-a-f20d7b33-84b7-4f1a-a31c-c70d75e38db9#ref=rss)
+### sexueller
 
-* [https://www.spiegel.de/kultur/kino/gerard-depardieu-erscheint-aus-gesundheitlichen-gruenden-nicht-zu-prozessbeginn-wegen-sexuellen-uebergriffen](https://www.spiegel.de/kultur/kino/gerard-depardieu-erscheint-aus-gesundheitlichen-gruenden-nicht-zu-prozessbeginn-wegen-sexuellen-uebergriffen-a-20e74a01-d54b-4241-bf92-7eece996ece6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-mats-hummels-debuet-fuer-as-rom-missglueckt](https://www.spiegel.de/sport/fussball/fussball-mats-hummels-debuet-fuer-as-rom-missglueckt-a-013602cb-94f0-45bc-b734-f4a561a7eb7e#ref=rss)
-### franzstefan
+* [https://www.spiegel.de/kultur/kino/gerard-depardieu-prozess-wegen-sexueller-belaestigung-auf-maerz-2025-verschoben](https://www.spiegel.de/kultur/kino/gerard-depardieu-prozess-wegen-sexueller-belaestigung-auf-maerz-2025-verschoben-a-f20d7b33-84b7-4f1a-a31c-c70d75e38db9#ref=rss)
+### belästigung
 
-* [https://www.spiegel.de/ausland/krieg-in-europa-franz-stefan-gady-erklaert-warum-pazifismus-nicht-hilfreich-ist](https://www.spiegel.de/ausland/krieg-in-europa-franz-stefan-gady-erklaert-warum-pazifismus-nicht-hilfreich-ist-a-8b763339-eec6-4d35-9ba2-acb8b6581cee#ref=rss)
-### gady
+* [https://www.spiegel.de/kultur/kino/gerard-depardieu-prozess-wegen-sexueller-belaestigung-auf-maerz-2025-verschoben](https://www.spiegel.de/kultur/kino/gerard-depardieu-prozess-wegen-sexueller-belaestigung-auf-maerz-2025-verschoben-a-f20d7b33-84b7-4f1a-a31c-c70d75e38db9#ref=rss)
+### jamshid
 
-* [https://www.spiegel.de/ausland/krieg-in-europa-franz-stefan-gady-erklaert-warum-pazifismus-nicht-hilfreich-ist](https://www.spiegel.de/ausland/krieg-in-europa-franz-stefan-gady-erklaert-warum-pazifismus-nicht-hilfreich-ist-a-8b763339-eec6-4d35-9ba2-acb8b6581cee#ref=rss)
-### erklärt
+* [https://www.spiegel.de/ausland/deutsch-iraner-jamshid-sharmahd-hingerichtet](https://www.spiegel.de/ausland/deutsch-iraner-jamshid-sharmahd-hingerichtet-a-6120b103-7eec-4667-844c-6f55ad849422#ref=rss)
+### sharmahd
 
-* [https://www.spiegel.de/ausland/krieg-in-europa-franz-stefan-gady-erklaert-warum-pazifismus-nicht-hilfreich-ist](https://www.spiegel.de/ausland/krieg-in-europa-franz-stefan-gady-erklaert-warum-pazifismus-nicht-hilfreich-ist-a-8b763339-eec6-4d35-9ba2-acb8b6581cee#ref=rss)
-### pazifismus
+* [https://www.spiegel.de/ausland/deutsch-iraner-jamshid-sharmahd-hingerichtet](https://www.spiegel.de/ausland/deutsch-iraner-jamshid-sharmahd-hingerichtet-a-6120b103-7eec-4667-844c-6f55ad849422#ref=rss)
+### deutschiraner
 
-* [https://www.spiegel.de/ausland/krieg-in-europa-franz-stefan-gady-erklaert-warum-pazifismus-nicht-hilfreich-ist](https://www.spiegel.de/ausland/krieg-in-europa-franz-stefan-gady-erklaert-warum-pazifismus-nicht-hilfreich-ist-a-8b763339-eec6-4d35-9ba2-acb8b6581cee#ref=rss)
-### hilfreich
+* [https://www.spiegel.de/ausland/deutsch-iraner-jamshid-sharmahd-hingerichtet](https://www.spiegel.de/ausland/deutsch-iraner-jamshid-sharmahd-hingerichtet-a-6120b103-7eec-4667-844c-6f55ad849422#ref=rss)
+### iran
 
-* [https://www.spiegel.de/ausland/krieg-in-europa-franz-stefan-gady-erklaert-warum-pazifismus-nicht-hilfreich-ist](https://www.spiegel.de/ausland/krieg-in-europa-franz-stefan-gady-erklaert-warum-pazifismus-nicht-hilfreich-ist-a-8b763339-eec6-4d35-9ba2-acb8b6581cee#ref=rss)
-### kriminalität
+* [https://www.spiegel.de/ausland/deutsch-iraner-jamshid-sharmahd-hingerichtet](https://www.spiegel.de/ausland/deutsch-iraner-jamshid-sharmahd-hingerichtet-a-6120b103-7eec-4667-844c-6f55ad849422#ref=rss)
+### einst
 
-* [https://www.spiegel.de/politik/deutschland/kriminalitaet-bekaempfen-verlogenheit-der-politik-bei-der-vorratsdatenspeicherung](https://www.spiegel.de/politik/deutschland/kriminalitaet-bekaempfen-verlogenheit-der-politik-bei-der-vorratsdatenspeicherung-a-588688b4-34ea-41aa-90f1-c76c3fd050ac#ref=rss)
-### bekämpfen
+* [https://www.spiegel.de/ausland/deutsch-iraner-jamshid-sharmahd-hingerichtet](https://www.spiegel.de/ausland/deutsch-iraner-jamshid-sharmahd-hingerichtet-a-6120b103-7eec-4667-844c-6f55ad849422#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-kritisiert-elon-musk-der-reichste-mann-der-welt-hat-sich-als-illegaler-arbeiter-entpuppt](https://www.spiegel.de/ausland/joe-biden-kritisiert-elon-musk-der-reichste-mann-der-welt-hat-sich-als-illegaler-arbeiter-entpuppt-a-f45c5a74-05c2-4b85-93ee-528fddc9b816#ref=rss)
+### italien
 
-* [https://www.spiegel.de/politik/deutschland/kriminalitaet-bekaempfen-verlogenheit-der-politik-bei-der-vorratsdatenspeicherung](https://www.spiegel.de/politik/deutschland/kriminalitaet-bekaempfen-verlogenheit-der-politik-bei-der-vorratsdatenspeicherung-a-588688b4-34ea-41aa-90f1-c76c3fd050ac#ref=rss)
-### vorratsdatenspeicherung
+* [https://www.spiegel.de/panorama/italien-haushaltshilfe-entsorgt-aus-versehen-mit-geld-gefuellte-matratze](https://www.spiegel.de/panorama/italien-haushaltshilfe-entsorgt-aus-versehen-mit-geld-gefuellte-matratze-a-88cfe077-b60e-4bc3-9ec4-027332b14a98#ref=rss)
+### geld
 
-* [https://www.spiegel.de/politik/deutschland/kriminalitaet-bekaempfen-verlogenheit-der-politik-bei-der-vorratsdatenspeicherung](https://www.spiegel.de/politik/deutschland/kriminalitaet-bekaempfen-verlogenheit-der-politik-bei-der-vorratsdatenspeicherung-a-588688b4-34ea-41aa-90f1-c76c3fd050ac#ref=rss)
-### öpnv
+* [https://www.spiegel.de/panorama/italien-haushaltshilfe-entsorgt-aus-versehen-mit-geld-gefuellte-matratze](https://www.spiegel.de/panorama/italien-haushaltshilfe-entsorgt-aus-versehen-mit-geld-gefuellte-matratze-a-88cfe077-b60e-4bc3-9ec4-027332b14a98#ref=rss)
+### matratze
 
-* [https://www.spiegel.de/auto/oepnv-staedtetag-schlaegt-streichung-von-buslinien-auf-dem-land-vor](https://www.spiegel.de/auto/oepnv-staedtetag-schlaegt-streichung-von-buslinien-auf-dem-land-vor-a-95d4988c-0395-430f-93c1-2ca6e4a97d15#ref=rss)
-### städtetag
+* [https://www.spiegel.de/panorama/italien-haushaltshilfe-entsorgt-aus-versehen-mit-geld-gefuellte-matratze](https://www.spiegel.de/panorama/italien-haushaltshilfe-entsorgt-aus-versehen-mit-geld-gefuellte-matratze-a-88cfe077-b60e-4bc3-9ec4-027332b14a98#ref=rss)
+### promis
 
-* [https://www.spiegel.de/auto/oepnv-staedtetag-schlaegt-streichung-von-buslinien-auf-dem-land-vor](https://www.spiegel.de/auto/oepnv-staedtetag-schlaegt-streichung-von-buslinien-auf-dem-land-vor-a-95d4988c-0395-430f-93c1-2ca6e4a97d15#ref=rss)
-### möglichkeit
+* [https://www.spiegel.de/panorama/leute/selena-gomez-ice-spice-anne-hathaway-stars-im-fruehzeitigen-halloween-fieber](https://www.spiegel.de/panorama/leute/selena-gomez-ice-spice-anne-hathaway-stars-im-fruehzeitigen-halloween-fieber-a-9b199a07-2568-4a20-a43e-2486c09b8520#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-heimatbesuch-in-new-york-city-mit-rassistischen-witzen-im-rahmenprogramm](https://www.spiegel.de/ausland/donald-trump-heimatbesuch-in-new-york-city-mit-rassistischen-witzen-im-rahmenprogramm-a-9faf3787-0b62-4212-b8ea-b3d1ddffc16c#ref=rss)
+### krankenpflegerin
 
-* [https://www.spiegel.de/auto/oepnv-staedtetag-schlaegt-streichung-von-buslinien-auf-dem-land-vor](https://www.spiegel.de/auto/oepnv-staedtetag-schlaegt-streichung-von-buslinien-auf-dem-land-vor-a-95d4988c-0395-430f-93c1-2ca6e4a97d15#ref=rss)
-* [https://www.spiegel.de/wirtschaft/krankschreibung-hausaerzte-verteidigen-telefonische-krankschreibung](https://www.spiegel.de/wirtschaft/krankschreibung-hausaerzte-verteidigen-telefonische-krankschreibung-a-d0fbbb68-cf1f-4ebc-a148-86f5aa6a3a7e#ref=rss)
-### sieht
+* [https://www.spiegel.de/panorama/justiz/regensburg-krankenpflegerin-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/regensburg-krankenpflegerin-zu-lebenslanger-haft-verurteilt-a-d7d34d09-ef7d-410f-bc4d-02a88bd3da83#ref=rss)
+### jva
 
-* [https://www.spiegel.de/auto/oepnv-staedtetag-schlaegt-streichung-von-buslinien-auf-dem-land-vor](https://www.spiegel.de/auto/oepnv-staedtetag-schlaegt-streichung-von-buslinien-auf-dem-land-vor-a-95d4988c-0395-430f-93c1-2ca6e4a97d15#ref=rss)
-* [https://www.spiegel.de/panorama/timothee-chalamet-ueberraschender-auftritt-bei-eigenem-doppelgaengerwettbewerb-in-new-york](https://www.spiegel.de/panorama/timothee-chalamet-ueberraschender-auftritt-bei-eigenem-doppelgaengerwettbewerb-in-new-york-a-d918419a-38f9-4745-8e3c-25f76a944ddb#ref=rss)
+* [https://www.spiegel.de/panorama/jva-augsburg-gablingen-vize-gefaengnisleiterin-weist-foltervorwuerfe-zurueck](https://www.spiegel.de/panorama/jva-augsburg-gablingen-vize-gefaengnisleiterin-weist-foltervorwuerfe-zurueck-a-411373fd-8868-4eb5-bbbb-b56b0488e105#ref=rss)
+### staatsanwaltschaft
+
+* [https://www.spiegel.de/panorama/jva-augsburg-gablingen-vize-gefaengnisleiterin-weist-foltervorwuerfe-zurueck](https://www.spiegel.de/panorama/jva-augsburg-gablingen-vize-gefaengnisleiterin-weist-foltervorwuerfe-zurueck-a-411373fd-8868-4eb5-bbbb-b56b0488e105#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/leiche-im-neckar-staatsanwaltschaft-gibt-weitere-details-ueber-getoetete-66-jaehrige-bekannt](https://www.spiegel.de/panorama/justiz/leiche-im-neckar-staatsanwaltschaft-gibt-weitere-details-ueber-getoetete-66-jaehrige-bekannt-a-06673935-7bc3-49b8-89f6-5a686f33fe4c#ref=rss)
+### iserlohn
+
+* [https://www.spiegel.de/panorama/justiz/iserlohn-polizei-erweitert-ermittlungen-wegen-gruppenvergewaltigung](https://www.spiegel.de/panorama/justiz/iserlohn-polizei-erweitert-ermittlungen-wegen-gruppenvergewaltigung-a-7f9dfab3-815e-4902-8d3d-7042d3a86a8b#ref=rss)
+### erweitert
+
+* [https://www.spiegel.de/panorama/justiz/iserlohn-polizei-erweitert-ermittlungen-wegen-gruppenvergewaltigung](https://www.spiegel.de/panorama/justiz/iserlohn-polizei-erweitert-ermittlungen-wegen-gruppenvergewaltigung-a-7f9dfab3-815e-4902-8d3d-7042d3a86a8b#ref=rss)
+### bayesian
+
+* [https://www.spiegel.de/panorama/gesunkene-bayesian-videoaufnahmen-von-tauchern-sorgen-fuer-noch-groesseres-raetsel](https://www.spiegel.de/panorama/gesunkene-bayesian-videoaufnahmen-von-tauchern-sorgen-fuer-noch-groesseres-raetsel-a-478297a9-78c2-4759-9d83-c2d944ea5690#ref=rss)
+### liegt
+
+* [https://www.spiegel.de/panorama/gesunkene-bayesian-videoaufnahmen-von-tauchern-sorgen-fuer-noch-groesseres-raetsel](https://www.spiegel.de/panorama/gesunkene-bayesian-videoaufnahmen-von-tauchern-sorgen-fuer-noch-groesseres-raetsel-a-478297a9-78c2-4759-9d83-c2d944ea5690#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/japan-auf-dem-fuji-liegt-noch-immer-kein-schnee](https://www.spiegel.de/wissenschaft/natur/japan-auf-dem-fuji-liegt-noch-immer-kein-schnee-a-82933d60-e3b4-4136-9bc5-911322367d9c#ref=rss)
+### neue
+
+* [https://www.spiegel.de/panorama/gesunkene-bayesian-videoaufnahmen-von-tauchern-sorgen-fuer-noch-groesseres-raetsel](https://www.spiegel.de/panorama/gesunkene-bayesian-videoaufnahmen-von-tauchern-sorgen-fuer-noch-groesseres-raetsel-a-478297a9-78c2-4759-9d83-c2d944ea5690#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-fordert-neue-kaufanreize-fuer-e-autos-und-hoehere-loehne](https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-fordert-neue-kaufanreize-fuer-e-autos-und-hoehere-loehne-a-af7d3a9d-2708-4739-bf5d-199e3f4de454#ref=rss)
+### björn
+
+* [https://www.spiegel.de/politik/deutschland/thueringen-bjoern-hoeckes-kritiker-klaus-stoeber-soll-aus-der-afd-geworfen-werden](https://www.spiegel.de/politik/deutschland/thueringen-bjoern-hoeckes-kritiker-klaus-stoeber-soll-aus-der-afd-geworfen-werden-a-72c90205-3833-46da-bcd4-2c6619cf9338#ref=rss)
+### höcke
+
+* [https://www.spiegel.de/politik/deutschland/thueringen-bjoern-hoeckes-kritiker-klaus-stoeber-soll-aus-der-afd-geworfen-werden](https://www.spiegel.de/politik/deutschland/thueringen-bjoern-hoeckes-kritiker-klaus-stoeber-soll-aus-der-afd-geworfen-werden-a-72c90205-3833-46da-bcd4-2c6619cf9338#ref=rss)
+### klaus
+
+* [https://www.spiegel.de/politik/deutschland/thueringen-bjoern-hoeckes-kritiker-klaus-stoeber-soll-aus-der-afd-geworfen-werden](https://www.spiegel.de/politik/deutschland/thueringen-bjoern-hoeckes-kritiker-klaus-stoeber-soll-aus-der-afd-geworfen-werden-a-72c90205-3833-46da-bcd4-2c6619cf9338#ref=rss)
+### stöber
+
+* [https://www.spiegel.de/politik/deutschland/thueringen-bjoern-hoeckes-kritiker-klaus-stoeber-soll-aus-der-afd-geworfen-werden](https://www.spiegel.de/politik/deutschland/thueringen-bjoern-hoeckes-kritiker-klaus-stoeber-soll-aus-der-afd-geworfen-werden-a-72c90205-3833-46da-bcd4-2c6619cf9338#ref=rss)
+### 18
+
+* [https://www.spiegel.de/netzwelt/web/virtueller-kindesmissbrauch-18-jahre-haft-fuer-englaender-wegen-ki-generierten-missbrauchs](https://www.spiegel.de/netzwelt/web/virtueller-kindesmissbrauch-18-jahre-haft-fuer-englaender-wegen-ki-generierten-missbrauchs-a-f518b7a4-98de-45d6-b598-0611cb467b8d#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/netzwelt/web/virtueller-kindesmissbrauch-18-jahre-haft-fuer-englaender-wegen-ki-generierten-missbrauchs](https://www.spiegel.de/netzwelt/web/virtueller-kindesmissbrauch-18-jahre-haft-fuer-englaender-wegen-ki-generierten-missbrauchs-a-f518b7a4-98de-45d6-b598-0611cb467b8d#ref=rss)
 ### sucht
 
-* [https://www.spiegel.de/wirtschaft/lohnkuerzungen-nullrunden-werksschliessung-eine-giftliste-verunsichert-vw-belegschaft](https://www.spiegel.de/wirtschaft/lohnkuerzungen-nullrunden-werksschliessung-eine-giftliste-verunsichert-vw-belegschaft-a-b0b8cc69-c3a0-46b5-b476-a90a807f4df7#ref=rss)
-* [https://www.spiegel.de/ausland/japan-regierungskoalition-verliert-mehrheit-ministerpraesident-shigeru-ishiba-sucht-partner](https://www.spiegel.de/ausland/japan-regierungskoalition-verliert-mehrheit-ministerpraesident-shigeru-ishiba-sucht-partner-a-85700544-de3f-433a-acca-ef49c9423fa7#ref=rss)
-### timothée
+* [https://www.spiegel.de/panorama/justiz/bruchsal-polizei-sucht-56-jaehrigen-nach-toedlichen-schuessen-in-oberoesterreich](https://www.spiegel.de/panorama/justiz/bruchsal-polizei-sucht-56-jaehrigen-nach-toedlichen-schuessen-in-oberoesterreich-a-1d4bf210-45fc-4e22-b4c5-f028e7e624bd#ref=rss)
+### 56jährigen
 
-* [https://www.spiegel.de/panorama/timothee-chalamet-ueberraschender-auftritt-bei-eigenem-doppelgaengerwettbewerb-in-new-york](https://www.spiegel.de/panorama/timothee-chalamet-ueberraschender-auftritt-bei-eigenem-doppelgaengerwettbewerb-in-new-york-a-d918419a-38f9-4745-8e3c-25f76a944ddb#ref=rss)
-### chalamet
+* [https://www.spiegel.de/panorama/justiz/bruchsal-polizei-sucht-56-jaehrigen-nach-toedlichen-schuessen-in-oberoesterreich](https://www.spiegel.de/panorama/justiz/bruchsal-polizei-sucht-56-jaehrigen-nach-toedlichen-schuessen-in-oberoesterreich-a-1d4bf210-45fc-4e22-b4c5-f028e7e624bd#ref=rss)
+### oberösterreich
 
-* [https://www.spiegel.de/panorama/timothee-chalamet-ueberraschender-auftritt-bei-eigenem-doppelgaengerwettbewerb-in-new-york](https://www.spiegel.de/panorama/timothee-chalamet-ueberraschender-auftritt-bei-eigenem-doppelgaengerwettbewerb-in-new-york-a-d918419a-38f9-4745-8e3c-25f76a944ddb#ref=rss)
-### nordkorea
+* [https://www.spiegel.de/panorama/justiz/bruchsal-polizei-sucht-56-jaehrigen-nach-toedlichen-schuessen-in-oberoesterreich](https://www.spiegel.de/panorama/justiz/bruchsal-polizei-sucht-56-jaehrigen-nach-toedlichen-schuessen-in-oberoesterreich-a-1d4bf210-45fc-4e22-b4c5-f028e7e624bd#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/ausland/ukrainekrieg-nordkorea-lieferte-russland-waffen-in-milliardenhoehe](https://www.spiegel.de/ausland/ukrainekrieg-nordkorea-lieferte-russland-waffen-in-milliardenhoehe-a-f2cbb837-a331-44b1-9989-991574c817d2#ref=rss)
-### waffen
+* [https://www.spiegel.de/panorama/justiz/bruchsal-polizei-sucht-56-jaehrigen-nach-toedlichen-schuessen-in-oberoesterreich](https://www.spiegel.de/panorama/justiz/bruchsal-polizei-sucht-56-jaehrigen-nach-toedlichen-schuessen-in-oberoesterreich-a-1d4bf210-45fc-4e22-b4c5-f028e7e624bd#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-mehr-als-600-000-russische-soldaten-laut-nato-gefallen-oder-verwundet](https://www.spiegel.de/ausland/ukraine-krieg-mehr-als-600-000-russische-soldaten-laut-nato-gefallen-oder-verwundet-a-02d6314a-b97c-443f-aa86-a51c0ece32f7#ref=rss)
+### joe
 
-* [https://www.spiegel.de/ausland/ukrainekrieg-nordkorea-lieferte-russland-waffen-in-milliardenhoehe](https://www.spiegel.de/ausland/ukrainekrieg-nordkorea-lieferte-russland-waffen-in-milliardenhoehe-a-f2cbb837-a331-44b1-9989-991574c817d2#ref=rss)
-### as
+* [https://www.spiegel.de/ausland/joe-biden-kritisiert-elon-musk-der-reichste-mann-der-welt-hat-sich-als-illegaler-arbeiter-entpuppt](https://www.spiegel.de/ausland/joe-biden-kritisiert-elon-musk-der-reichste-mann-der-welt-hat-sich-als-illegaler-arbeiter-entpuppt-a-f45c5a74-05c2-4b85-93ee-528fddc9b816#ref=rss)
+### biden
 
-* [https://www.spiegel.de/sport/fussball/fussball-mats-hummels-debuet-fuer-as-rom-missglueckt](https://www.spiegel.de/sport/fussball/fussball-mats-hummels-debuet-fuer-as-rom-missglueckt-a-013602cb-94f0-45bc-b734-f4a561a7eb7e#ref=rss)
-### rom
+* [https://www.spiegel.de/ausland/joe-biden-kritisiert-elon-musk-der-reichste-mann-der-welt-hat-sich-als-illegaler-arbeiter-entpuppt](https://www.spiegel.de/ausland/joe-biden-kritisiert-elon-musk-der-reichste-mann-der-welt-hat-sich-als-illegaler-arbeiter-entpuppt-a-f45c5a74-05c2-4b85-93ee-528fddc9b816#ref=rss)
+### vwkrise
 
-* [https://www.spiegel.de/sport/fussball/fussball-mats-hummels-debuet-fuer-as-rom-missglueckt](https://www.spiegel.de/sport/fussball/fussball-mats-hummels-debuet-fuer-as-rom-missglueckt-a-013602cb-94f0-45bc-b734-f4a561a7eb7e#ref=rss)
-### mats
+* [https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-fordert-neue-kaufanreize-fuer-e-autos-und-hoehere-loehne](https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-fordert-neue-kaufanreize-fuer-e-autos-und-hoehere-loehne-a-af7d3a9d-2708-4739-bf5d-199e3f4de454#ref=rss)
+### christiane
 
-* [https://www.spiegel.de/sport/fussball/fussball-mats-hummels-debuet-fuer-as-rom-missglueckt](https://www.spiegel.de/sport/fussball/fussball-mats-hummels-debuet-fuer-as-rom-missglueckt-a-013602cb-94f0-45bc-b734-f4a561a7eb7e#ref=rss)
-### hummels
+* [https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-fordert-neue-kaufanreize-fuer-e-autos-und-hoehere-loehne](https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-fordert-neue-kaufanreize-fuer-e-autos-und-hoehere-loehne-a-af7d3a9d-2708-4739-bf5d-199e3f4de454#ref=rss)
+### benner
 
-* [https://www.spiegel.de/sport/fussball/fussball-mats-hummels-debuet-fuer-as-rom-missglueckt](https://www.spiegel.de/sport/fussball/fussball-mats-hummels-debuet-fuer-as-rom-missglueckt-a-013602cb-94f0-45bc-b734-f4a561a7eb7e#ref=rss)
-### erlebt
+* [https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-fordert-neue-kaufanreize-fuer-e-autos-und-hoehere-loehne](https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-fordert-neue-kaufanreize-fuer-e-autos-und-hoehere-loehne-a-af7d3a9d-2708-4739-bf5d-199e3f4de454#ref=rss)
+### kaufanreize
 
-* [https://www.spiegel.de/sport/fussball/fussball-mats-hummels-debuet-fuer-as-rom-missglueckt](https://www.spiegel.de/sport/fussball/fussball-mats-hummels-debuet-fuer-as-rom-missglueckt-a-013602cb-94f0-45bc-b734-f4a561a7eb7e#ref=rss)
-* [https://www.spiegel.de/ausland/japan-regierungskoalition-verliert-mehrheit-ministerpraesident-shigeru-ishiba-sucht-partner](https://www.spiegel.de/ausland/japan-regierungskoalition-verliert-mehrheit-ministerpraesident-shigeru-ishiba-sucht-partner-a-85700544-de3f-433a-acca-ef49c9423fa7#ref=rss)
-### hubert
+* [https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-fordert-neue-kaufanreize-fuer-e-autos-und-hoehere-loehne](https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-fordert-neue-kaufanreize-fuer-e-autos-und-hoehere-loehne-a-af7d3a9d-2708-4739-bf5d-199e3f4de454#ref=rss)
+### eautos
 
-* [https://www.spiegel.de/wirtschaft/hubert-aiwanger-bayerischer-wirtschaftsminister-ignoriert-warnungen-vor-china](https://www.spiegel.de/wirtschaft/hubert-aiwanger-bayerischer-wirtschaftsminister-ignoriert-warnungen-vor-china-a-729f2a85-1726-4517-9189-d6e86f28bf63#ref=rss)
-### aiwanger
+* [https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-fordert-neue-kaufanreize-fuer-e-autos-und-hoehere-loehne](https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-fordert-neue-kaufanreize-fuer-e-autos-und-hoehere-loehne-a-af7d3a9d-2708-4739-bf5d-199e3f4de454#ref=rss)
+### höhere
 
-* [https://www.spiegel.de/wirtschaft/hubert-aiwanger-bayerischer-wirtschaftsminister-ignoriert-warnungen-vor-china](https://www.spiegel.de/wirtschaft/hubert-aiwanger-bayerischer-wirtschaftsminister-ignoriert-warnungen-vor-china-a-729f2a85-1726-4517-9189-d6e86f28bf63#ref=rss)
-### wirtschaftsminister
+* [https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-fordert-neue-kaufanreize-fuer-e-autos-und-hoehere-loehne](https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-fordert-neue-kaufanreize-fuer-e-autos-und-hoehere-loehne-a-af7d3a9d-2708-4739-bf5d-199e3f4de454#ref=rss)
+### löhne
 
-* [https://www.spiegel.de/wirtschaft/hubert-aiwanger-bayerischer-wirtschaftsminister-ignoriert-warnungen-vor-china](https://www.spiegel.de/wirtschaft/hubert-aiwanger-bayerischer-wirtschaftsminister-ignoriert-warnungen-vor-china-a-729f2a85-1726-4517-9189-d6e86f28bf63#ref=rss)
-### china
+* [https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-fordert-neue-kaufanreize-fuer-e-autos-und-hoehere-loehne](https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-fordert-neue-kaufanreize-fuer-e-autos-und-hoehere-loehne-a-af7d3a9d-2708-4739-bf5d-199e3f4de454#ref=rss)
+### netflix
 
-* [https://www.spiegel.de/wirtschaft/hubert-aiwanger-bayerischer-wirtschaftsminister-ignoriert-warnungen-vor-china](https://www.spiegel.de/wirtschaft/hubert-aiwanger-bayerischer-wirtschaftsminister-ignoriert-warnungen-vor-china-a-729f2a85-1726-4517-9189-d6e86f28bf63#ref=rss)
-### dagegen
+* [https://www.spiegel.de/netzwelt/web/so-bringen-sie-netflix-dazu-bessere-vorschlaege-zu-machen](https://www.spiegel.de/netzwelt/web/so-bringen-sie-netflix-dazu-bessere-vorschlaege-zu-machen-a-adef1248-21ca-4b06-b7ab-377c91876b2f#ref=rss)
+### 26
 
-* [https://www.spiegel.de/wirtschaft/hubert-aiwanger-bayerischer-wirtschaftsminister-ignoriert-warnungen-vor-china](https://www.spiegel.de/wirtschaft/hubert-aiwanger-bayerischer-wirtschaftsminister-ignoriert-warnungen-vor-china-a-729f2a85-1726-4517-9189-d6e86f28bf63#ref=rss)
-* [https://www.spiegel.de/wirtschaft/krankschreibung-hausaerzte-verteidigen-telefonische-krankschreibung](https://www.spiegel.de/wirtschaft/krankschreibung-hausaerzte-verteidigen-telefonische-krankschreibung-a-d0fbbb68-cf1f-4ebc-a148-86f5aa6a3a7e#ref=rss)
-### bill
+* [https://www.spiegel.de/wissenschaft/natur/japan-auf-dem-fuji-liegt-noch-immer-kein-schnee](https://www.spiegel.de/wissenschaft/natur/japan-auf-dem-fuji-liegt-noch-immer-kein-schnee-a-82933d60-e3b4-4136-9bc5-911322367d9c#ref=rss)
+### oktober
 
-* [https://www.spiegel.de/panorama/leute/bill-kaulitz-traeumt-von-einer-karriere-als-musical-star](https://www.spiegel.de/panorama/leute/bill-kaulitz-traeumt-von-einer-karriere-als-musical-star-a-28f13915-68cc-4d2e-b7e2-38b81460112b#ref=rss)
-### kaulitz
+* [https://www.spiegel.de/wissenschaft/natur/japan-auf-dem-fuji-liegt-noch-immer-kein-schnee](https://www.spiegel.de/wissenschaft/natur/japan-auf-dem-fuji-liegt-noch-immer-kein-schnee-a-82933d60-e3b4-4136-9bc5-911322367d9c#ref=rss)
+### schnee
 
-* [https://www.spiegel.de/panorama/leute/bill-kaulitz-traeumt-von-einer-karriere-als-musical-star](https://www.spiegel.de/panorama/leute/bill-kaulitz-traeumt-von-einer-karriere-als-musical-star-a-28f13915-68cc-4d2e-b7e2-38b81460112b#ref=rss)
-### japan
+* [https://www.spiegel.de/wissenschaft/natur/japan-auf-dem-fuji-liegt-noch-immer-kein-schnee](https://www.spiegel.de/wissenschaft/natur/japan-auf-dem-fuji-liegt-noch-immer-kein-schnee-a-82933d60-e3b4-4136-9bc5-911322367d9c#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/ausland/japan-regierungskoalition-verliert-mehrheit-ministerpraesident-shigeru-ishiba-sucht-partner](https://www.spiegel.de/ausland/japan-regierungskoalition-verliert-mehrheit-ministerpraesident-shigeru-ishiba-sucht-partner-a-85700544-de3f-433a-acca-ef49c9423fa7#ref=rss)
-### regierungskoalition
+* [https://www.spiegel.de/wissenschaft/natur/japan-auf-dem-fuji-liegt-noch-immer-kein-schnee](https://www.spiegel.de/wissenschaft/natur/japan-auf-dem-fuji-liegt-noch-immer-kein-schnee-a-82933d60-e3b4-4136-9bc5-911322367d9c#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/ausland/japan-regierungskoalition-verliert-mehrheit-ministerpraesident-shigeru-ishiba-sucht-partner](https://www.spiegel.de/ausland/japan-regierungskoalition-verliert-mehrheit-ministerpraesident-shigeru-ishiba-sucht-partner-a-85700544-de3f-433a-acca-ef49c9423fa7#ref=rss)
-### verliert
+* [https://www.spiegel.de/kultur/diskriminierung-wie-sich-frauenfeindlichkeit-und-maennerfeindlichkeit-unterscheiden](https://www.spiegel.de/kultur/diskriminierung-wie-sich-frauenfeindlichkeit-und-maennerfeindlichkeit-unterscheiden-a-abb5e18a-a178-4721-b298-d9471240df1c#ref=rss)
+### verachten
 
-* [https://www.spiegel.de/ausland/japan-regierungskoalition-verliert-mehrheit-ministerpraesident-shigeru-ishiba-sucht-partner](https://www.spiegel.de/ausland/japan-regierungskoalition-verliert-mehrheit-ministerpraesident-shigeru-ishiba-sucht-partner-a-85700544-de3f-433a-acca-ef49c9423fa7#ref=rss)
-### mehrheit
+* [https://www.spiegel.de/kultur/diskriminierung-wie-sich-frauenfeindlichkeit-und-maennerfeindlichkeit-unterscheiden](https://www.spiegel.de/kultur/diskriminierung-wie-sich-frauenfeindlichkeit-und-maennerfeindlichkeit-unterscheiden-a-abb5e18a-a178-4721-b298-d9471240df1c#ref=rss)
+### vergleichen
 
-* [https://www.spiegel.de/ausland/japan-regierungskoalition-verliert-mehrheit-ministerpraesident-shigeru-ishiba-sucht-partner](https://www.spiegel.de/ausland/japan-regierungskoalition-verliert-mehrheit-ministerpraesident-shigeru-ishiba-sucht-partner-a-85700544-de3f-433a-acca-ef49c9423fa7#ref=rss)
-### krankschreibung
+* [https://www.spiegel.de/kultur/diskriminierung-wie-sich-frauenfeindlichkeit-und-maennerfeindlichkeit-unterscheiden](https://www.spiegel.de/kultur/diskriminierung-wie-sich-frauenfeindlichkeit-und-maennerfeindlichkeit-unterscheiden-a-abb5e18a-a178-4721-b298-d9471240df1c#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-heimatbesuch-in-new-york-city-mit-rassistischen-witzen-im-rahmenprogramm](https://www.spiegel.de/ausland/donald-trump-heimatbesuch-in-new-york-city-mit-rassistischen-witzen-im-rahmenprogramm-a-9faf3787-0b62-4212-b8ea-b3d1ddffc16c#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/wirtschaft/krankschreibung-hausaerzte-verteidigen-telefonische-krankschreibung](https://www.spiegel.de/wirtschaft/krankschreibung-hausaerzte-verteidigen-telefonische-krankschreibung-a-d0fbbb68-cf1f-4ebc-a148-86f5aa6a3a7e#ref=rss)
-### hausärzte
+* [https://www.spiegel.de/ausland/ukraine-krieg-mehr-als-600-000-russische-soldaten-laut-nato-gefallen-oder-verwundet](https://www.spiegel.de/ausland/ukraine-krieg-mehr-als-600-000-russische-soldaten-laut-nato-gefallen-oder-verwundet-a-02d6314a-b97c-443f-aa86-a51c0ece32f7#ref=rss)
+### soldaten
 
-* [https://www.spiegel.de/wirtschaft/krankschreibung-hausaerzte-verteidigen-telefonische-krankschreibung](https://www.spiegel.de/wirtschaft/krankschreibung-hausaerzte-verteidigen-telefonische-krankschreibung-a-d0fbbb68-cf1f-4ebc-a148-86f5aa6a3a7e#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-mehr-als-600-000-russische-soldaten-laut-nato-gefallen-oder-verwundet](https://www.spiegel.de/ausland/ukraine-krieg-mehr-als-600-000-russische-soldaten-laut-nato-gefallen-oder-verwundet-a-02d6314a-b97c-443f-aa86-a51c0ece32f7#ref=rss)
+### nato
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-mehr-als-600-000-russische-soldaten-laut-nato-gefallen-oder-verwundet](https://www.spiegel.de/ausland/ukraine-krieg-mehr-als-600-000-russische-soldaten-laut-nato-gefallen-oder-verwundet-a-02d6314a-b97c-443f-aa86-a51c0ece32f7#ref=rss)
+### verwundet
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-mehr-als-600-000-russische-soldaten-laut-nato-gefallen-oder-verwundet](https://www.spiegel.de/ausland/ukraine-krieg-mehr-als-600-000-russische-soldaten-laut-nato-gefallen-oder-verwundet-a-02d6314a-b97c-443f-aa86-a51c0ece32f7#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/donald-trump-heimatbesuch-in-new-york-city-mit-rassistischen-witzen-im-rahmenprogramm](https://www.spiegel.de/ausland/donald-trump-heimatbesuch-in-new-york-city-mit-rassistischen-witzen-im-rahmenprogramm-a-9faf3787-0b62-4212-b8ea-b3d1ddffc16c#ref=rss)
+### rassistischen
+
+* [https://www.spiegel.de/ausland/donald-trump-heimatbesuch-in-new-york-city-mit-rassistischen-witzen-im-rahmenprogramm](https://www.spiegel.de/ausland/donald-trump-heimatbesuch-in-new-york-city-mit-rassistischen-witzen-im-rahmenprogramm-a-9faf3787-0b62-4212-b8ea-b3d1ddffc16c#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/ausland/donald-trump-heimatbesuch-in-new-york-city-mit-rassistischen-witzen-im-rahmenprogramm](https://www.spiegel.de/ausland/donald-trump-heimatbesuch-in-new-york-city-mit-rassistischen-witzen-im-rahmenprogramm-a-9faf3787-0b62-4212-b8ea-b3d1ddffc16c#ref=rss)
+### nürtingen
+
+* [https://www.spiegel.de/panorama/justiz/leiche-im-neckar-staatsanwaltschaft-gibt-weitere-details-ueber-getoetete-66-jaehrige-bekannt](https://www.spiegel.de/panorama/justiz/leiche-im-neckar-staatsanwaltschaft-gibt-weitere-details-ueber-getoetete-66-jaehrige-bekannt-a-06673935-7bc3-49b8-89f6-5a686f33fe4c#ref=rss)
+### leiche
+
+* [https://www.spiegel.de/panorama/justiz/leiche-im-neckar-staatsanwaltschaft-gibt-weitere-details-ueber-getoetete-66-jaehrige-bekannt](https://www.spiegel.de/panorama/justiz/leiche-im-neckar-staatsanwaltschaft-gibt-weitere-details-ueber-getoetete-66-jaehrige-bekannt-a-06673935-7bc3-49b8-89f6-5a686f33fe4c#ref=rss)
+### neckar
+
+* [https://www.spiegel.de/panorama/justiz/leiche-im-neckar-staatsanwaltschaft-gibt-weitere-details-ueber-getoetete-66-jaehrige-bekannt](https://www.spiegel.de/panorama/justiz/leiche-im-neckar-staatsanwaltschaft-gibt-weitere-details-ueber-getoetete-66-jaehrige-bekannt-a-06673935-7bc3-49b8-89f6-5a686f33fe4c#ref=rss)
+### erik
+
+* [https://www.spiegel.de/sport/fussball/manchester-united-trennt-sich-von-trainer-erik-ten-hag](https://www.spiegel.de/sport/fussball/manchester-united-trennt-sich-von-trainer-erik-ten-hag-a-c07e3915-0119-40c8-b464-13d190b88b47#ref=rss)
+### ten
+
+* [https://www.spiegel.de/sport/fussball/manchester-united-trennt-sich-von-trainer-erik-ten-hag](https://www.spiegel.de/sport/fussball/manchester-united-trennt-sich-von-trainer-erik-ten-hag-a-c07e3915-0119-40c8-b464-13d190b88b47#ref=rss)
+### hag
+
+* [https://www.spiegel.de/sport/fussball/manchester-united-trennt-sich-von-trainer-erik-ten-hag](https://www.spiegel.de/sport/fussball/manchester-united-trennt-sich-von-trainer-erik-ten-hag-a-c07e3915-0119-40c8-b464-13d190b88b47#ref=rss)
+### united
+
+* [https://www.spiegel.de/sport/fussball/manchester-united-trennt-sich-von-trainer-erik-ten-hag](https://www.spiegel.de/sport/fussball/manchester-united-trennt-sich-von-trainer-erik-ten-hag-a-c07e3915-0119-40c8-b464-13d190b88b47#ref=rss)
+### ruud
+
+* [https://www.spiegel.de/sport/fussball/manchester-united-trennt-sich-von-trainer-erik-ten-hag](https://www.spiegel.de/sport/fussball/manchester-united-trennt-sich-von-trainer-erik-ten-hag-a-c07e3915-0119-40c8-b464-13d190b88b47#ref=rss)
+### van
+
+* [https://www.spiegel.de/sport/fussball/manchester-united-trennt-sich-von-trainer-erik-ten-hag](https://www.spiegel.de/sport/fussball/manchester-united-trennt-sich-von-trainer-erik-ten-hag-a-c07e3915-0119-40c8-b464-13d190b88b47#ref=rss)
+### nistelrooy
+
+* [https://www.spiegel.de/sport/fussball/manchester-united-trennt-sich-von-trainer-erik-ten-hag](https://www.spiegel.de/sport/fussball/manchester-united-trennt-sich-von-trainer-erik-ten-hag-a-c07e3915-0119-40c8-b464-13d190b88b47#ref=rss)
+### übernimmt
+
+* [https://www.spiegel.de/sport/fussball/manchester-united-trennt-sich-von-trainer-erik-ten-hag](https://www.spiegel.de/sport/fussball/manchester-united-trennt-sich-von-trainer-erik-ten-hag-a-c07e3915-0119-40c8-b464-13d190b88b47#ref=rss)
 
