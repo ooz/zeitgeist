@@ -4,330 +4,259 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### kamala
+### mann
 
-* [https://www.spiegel.de/ausland/joe-bidens-angebliches-muell-zitat-kamala-harris-distanziert-sich](https://www.spiegel.de/ausland/joe-bidens-angebliches-muell-zitat-kamala-harris-distanziert-sich-a-6917af8c-92e9-445f-a297-75e473e0b581#ref=rss)
-* [https://www.spiegel.de/panorama/leute/donald-trump-50-cent-lehnte-millionen-angebot-fuer-auftritt-im-madison-square-garden-ab](https://www.spiegel.de/panorama/leute/donald-trump-50-cent-lehnte-millionen-angebot-fuer-auftritt-im-madison-square-garden-ab-a-54a37f34-68dd-4316-85ef-48daed7705b5#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-kamala-harris-vs-donald-trump-was-sie-zur-wahl-wissen-muessen-teil-1](https://www.spiegel.de/ausland/us-wahl-2024-kamala-harris-vs-donald-trump-was-sie-zur-wahl-wissen-muessen-teil-1-a-b74a600b-2b47-4bcf-8bc0-cf36c390d337#ref=rss)
-### harris
+* [https://www.spiegel.de/panorama/anklage-des-generalbundesanwalts-mutmasslicher-russischer-spion-unter-terrorverdacht](https://www.spiegel.de/panorama/anklage-des-generalbundesanwalts-mutmasslicher-russischer-spion-unter-terrorverdacht-a-8e382459-a0eb-46f8-a89f-0d2d50dc76f9#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-neukoelln-sprengstoff-war-hochexplosives-tatp-verdaechtiger-weiter-fluechtig](https://www.spiegel.de/panorama/justiz/berlin-neukoelln-sprengstoff-war-hochexplosives-tatp-verdaechtiger-weiter-fluechtig-a-2f4fc5ab-9f82-443d-b9fd-e52ce13e970f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/koeln-mann-wird-von-ice-ueberrollt-und-stirbt](https://www.spiegel.de/panorama/justiz/koeln-mann-wird-von-ice-ueberrollt-und-stirbt-a-7a643589-a397-4544-b61b-855bd427386d#ref=rss)
+### schäden
 
-* [https://www.spiegel.de/ausland/joe-bidens-angebliches-muell-zitat-kamala-harris-distanziert-sich](https://www.spiegel.de/ausland/joe-bidens-angebliches-muell-zitat-kamala-harris-distanziert-sich-a-6917af8c-92e9-445f-a297-75e473e0b581#ref=rss)
-* [https://www.spiegel.de/panorama/leute/donald-trump-50-cent-lehnte-millionen-angebot-fuer-auftritt-im-madison-square-garden-ab](https://www.spiegel.de/panorama/leute/donald-trump-50-cent-lehnte-millionen-angebot-fuer-auftritt-im-madison-square-garden-ab-a-54a37f34-68dd-4316-85ef-48daed7705b5#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-kamala-harris-vs-donald-trump-was-sie-zur-wahl-wissen-muessen-teil-1](https://www.spiegel.de/ausland/us-wahl-2024-kamala-harris-vs-donald-trump-was-sie-zur-wahl-wissen-muessen-teil-1-a-b74a600b-2b47-4bcf-8bc0-cf36c390d337#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/joe-bidens-angebliches-muell-zitat-kamala-harris-distanziert-sich](https://www.spiegel.de/ausland/joe-bidens-angebliches-muell-zitat-kamala-harris-distanziert-sich-a-6917af8c-92e9-445f-a297-75e473e0b581#ref=rss)
-* [https://www.spiegel.de/panorama/leute/donald-trump-50-cent-lehnte-millionen-angebot-fuer-auftritt-im-madison-square-garden-ab](https://www.spiegel.de/panorama/leute/donald-trump-50-cent-lehnte-millionen-angebot-fuer-auftritt-im-madison-square-garden-ab-a-54a37f34-68dd-4316-85ef-48daed7705b5#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-kamala-harris-vs-donald-trump-was-sie-zur-wahl-wissen-muessen-teil-1](https://www.spiegel.de/ausland/us-wahl-2024-kamala-harris-vs-donald-trump-was-sie-zur-wahl-wissen-muessen-teil-1-a-b74a600b-2b47-4bcf-8bc0-cf36c390d337#ref=rss)
+* [https://www.spiegel.de/gesundheit/corona-charite-expertin-zu-schaeden-an-gehirn-und-nervensystem](https://www.spiegel.de/gesundheit/corona-charite-expertin-zu-schaeden-an-gehirn-und-nervensystem-a-ef51e540-b97f-47ae-951a-4f0de36a2b28#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/philippinen-taiwan-super-taifun-kong-rey-sorgt-fuer-schaeden](https://www.spiegel.de/wissenschaft/natur/philippinen-taiwan-super-taifun-kong-rey-sorgt-fuer-schaeden-a-1a44aec8-dc29-4192-9485-0b05f5094b81#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/politik/deutschland/griechenland-tumult-bei-steinmeier-besuch-in-fluechtlingslager](https://www.spiegel.de/politik/deutschland/griechenland-tumult-bei-steinmeier-besuch-in-fluechtlingslager-a-f875093b-a784-4a11-8348-a64267e3eb61#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-im-gazastreifen-die-menschen-im-norden-sind-auf-sich-allein-gestellt](https://www.spiegel.de/ausland/krieg-im-gazastreifen-die-menschen-im-norden-sind-auf-sich-allein-gestellt-a-71c81f20-364d-42a6-a1ae-7ef3432d45d6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-vw-unwetter-in-spanien-buch-von-dirk-oschmann](https://www.spiegel.de/politik/deutschland/news-des-tages-vw-unwetter-in-spanien-buch-von-dirk-oschmann-a-47516a8d-c887-407d-b654-205da0aa0cfc#ref=rss)
-* [https://www.spiegel.de/ausland/libanon-israel-bombardiert-antike-stadt-baalbek](https://www.spiegel.de/ausland/libanon-israel-bombardiert-antike-stadt-baalbek-a-ed9f1fb2-3213-4d37-bea7-023396ac73ef#ref=rss)
-### donald
+* [https://www.spiegel.de/ausland/spanien-menschen-suchen-nach-flutkatastrophe-nach-vermissten-immerhin-sind-wir-am-leben](https://www.spiegel.de/ausland/spanien-menschen-suchen-nach-flutkatastrophe-nach-vermissten-immerhin-sind-wir-am-leben-a-363957ba-8b0b-4192-8d94-badf2bc21f9b#ref=rss)
+* [https://www.spiegel.de/reise/deutschland/herbstwandern-im-allgaeu-noch-einmal-farben-tanken-vor-dem-winter](https://www.spiegel.de/reise/deutschland/herbstwandern-im-allgaeu-noch-einmal-farben-tanken-vor-dem-winter-a-20e6baf4-3c65-4d7a-9f16-dfd84b7dd599#ref=rss)
+* [https://www.spiegel.de/geschichte/halloween-und-aberglaube-die-legende-vom-todriecher](https://www.spiegel.de/geschichte/halloween-und-aberglaube-die-legende-vom-todriecher-a-d5550c90-4238-4c45-9be9-6c3e967e4f6e#ref=rss)
+### wir
 
-* [https://www.spiegel.de/ausland/joe-bidens-angebliches-muell-zitat-kamala-harris-distanziert-sich](https://www.spiegel.de/ausland/joe-bidens-angebliches-muell-zitat-kamala-harris-distanziert-sich-a-6917af8c-92e9-445f-a297-75e473e0b581#ref=rss)
-* [https://www.spiegel.de/panorama/leute/donald-trump-50-cent-lehnte-millionen-angebot-fuer-auftritt-im-madison-square-garden-ab](https://www.spiegel.de/panorama/leute/donald-trump-50-cent-lehnte-millionen-angebot-fuer-auftritt-im-madison-square-garden-ab-a-54a37f34-68dd-4316-85ef-48daed7705b5#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-kamala-harris-vs-donald-trump-was-sie-zur-wahl-wissen-muessen-teil-1](https://www.spiegel.de/ausland/us-wahl-2024-kamala-harris-vs-donald-trump-was-sie-zur-wahl-wissen-muessen-teil-1-a-b74a600b-2b47-4bcf-8bc0-cf36c390d337#ref=rss)
-### spanien
+* [https://www.spiegel.de/ausland/spanien-menschen-suchen-nach-flutkatastrophe-nach-vermissten-immerhin-sind-wir-am-leben](https://www.spiegel.de/ausland/spanien-menschen-suchen-nach-flutkatastrophe-nach-vermissten-immerhin-sind-wir-am-leben-a-363957ba-8b0b-4192-8d94-badf2bc21f9b#ref=rss)
+* [https://www.spiegel.de/psychologie/der-koerper-in-den-wechseljahren-wie-wir-nackt-zu-uns-selbst-stehen-koennen](https://www.spiegel.de/psychologie/der-koerper-in-den-wechseljahren-wie-wir-nackt-zu-uns-selbst-stehen-koennen-a-6f919ede-cbe9-4c40-8638-4413654e4e5f#ref=rss)
+### halloween
 
-* [https://www.spiegel.de/wissenschaft/natur/sturzfluten-in-spanien-forschende-sehen-einfluss-des-klimawandels-und-luecken-im-warnsystem](https://www.spiegel.de/wissenschaft/natur/sturzfluten-in-spanien-forschende-sehen-einfluss-des-klimawandels-und-luecken-im-warnsystem-a-eece0c2a-b2d0-4b97-8e76-525582afea71#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-vw-unwetter-in-spanien-buch-von-dirk-oschmann](https://www.spiegel.de/politik/deutschland/news-des-tages-vw-unwetter-in-spanien-buch-von-dirk-oschmann-a-47516a8d-c887-407d-b654-205da0aa0cfc#ref=rss)
-* [https://www.spiegel.de/panorama/spanien-unwetter-opferzahl-steigt-auf-72-drei-tage-staatstrauer-ausgerufen](https://www.spiegel.de/panorama/spanien-unwetter-opferzahl-steigt-auf-72-drei-tage-staatstrauer-ausgerufen-a-b04e2cd1-568f-4af4-994f-e8bac78b78b0#ref=rss)
-### deutschen
+* [https://www.spiegel.de/panorama/allerheiligen-und-halloween-welche-braeuche-hinter-den-feiertagen-stecken](https://www.spiegel.de/panorama/allerheiligen-und-halloween-welche-braeuche-hinter-den-feiertagen-stecken-a-edde8050-c516-49be-85d7-cd58deb1c190#ref=rss)
+* [https://www.spiegel.de/geschichte/halloween-und-aberglaube-die-legende-vom-todriecher](https://www.spiegel.de/geschichte/halloween-und-aberglaube-die-legende-vom-todriecher-a-d5550c90-4238-4c45-9be9-6c3e967e4f6e#ref=rss)
+### usa
 
-* [https://www.spiegel.de/wirtschaft/volkswagen-krise-symbol-fuer-den-abstieg-der-deutschen-industrie-jetzt-sind-mutige-reformen-gefragt](https://www.spiegel.de/wirtschaft/volkswagen-krise-symbol-fuer-den-abstieg-der-deutschen-industrie-jetzt-sind-mutige-reformen-gefragt-a-f9b254ab-6adc-4988-9a41-3e9863229c90#ref=rss)
-* [https://www.spiegel.de/wirtschaft/foerderaffaere-deutscher-wasserstoff-verband-gibt-sich-doppelspitze](https://www.spiegel.de/wirtschaft/foerderaffaere-deutscher-wasserstoff-verband-gibt-sich-doppelspitze-a-85a70d62-9b1d-4e24-bdfc-42db0a46791a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/strafzoelle-fuer-e-autos-aus-china-was-jetzt-auf-die-autokaeufer-zukommt](https://www.spiegel.de/wirtschaft/strafzoelle-fuer-e-autos-aus-china-was-jetzt-auf-die-autokaeufer-zukommt-a-6dfd5430-bcd8-41ee-a50d-7600b47d67f9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/vogelgrippe-usa-melden-ersten-fall-von-h5n1-virus-bei-schwein](https://www.spiegel.de/wissenschaft/medizin/vogelgrippe-usa-melden-ersten-fall-von-h5n1-virus-bei-schwein-a-a6d31dd2-ebea-4b9b-be42-9ce599efcf58#ref=rss)
+* [https://www.spiegel.de/geschichte/star-politologe-francis-fukuyama-zu-den-wahlen-in-den-usa-wo-bleibt-jetzt-das-ende-der-geschichte](https://www.spiegel.de/geschichte/star-politologe-francis-fukuyama-zu-den-wahlen-in-den-usa-wo-bleibt-jetzt-das-ende-der-geschichte-a-881ebfed-8788-4ed3-a152-4c1b9329592e#ref=rss)
+### zieht
+
+* [https://www.spiegel.de/sport/fussball/ballon-dor-mats-hummels-kritisiert-real-madrid-und-zieht-donald-trump-vergleich](https://www.spiegel.de/sport/fussball/ballon-dor-mats-hummels-kritisiert-real-madrid-und-zieht-donald-trump-vergleich-a-b6420b03-edbc-4e24-8c30-db6fc837b28c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-paris-saint-germain-muss-tribuene-wegen-homophober-gesaenge-teilweise-schliessen](https://www.spiegel.de/sport/fussball/fussball-paris-saint-germain-muss-tribuene-wegen-homophober-gesaenge-teilweise-schliessen-a-83130f46-8105-4b96-a831-b53c456876c7#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-triumphiert-im-dfb-pokal-mainz-ist-nicht-manchester](https://www.spiegel.de/sport/fussball/fc-bayern-triumphiert-im-dfb-pokal-mainz-ist-nicht-manchester-a-e303096e-1b79-4f5c-b807-8a07b3206247#ref=rss)
 ### deutsche
 
-* [https://www.spiegel.de/wirtschaft/reform-der-altersvorsorge-was-die-deutsche-politik-von-schweden-lernen-kann](https://www.spiegel.de/wirtschaft/reform-der-altersvorsorge-was-die-deutsche-politik-von-schweden-lernen-kann-a-1b5a7901-7c3a-4b42-ab27-39c57b519750#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-gibt-gewinnwarnung-heraus](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-gibt-gewinnwarnung-heraus-a-f8a83e2a-d592-4c07-a7a5-86c5fe2f39d0#ref=rss)
-### wahl
+* [https://www.spiegel.de/wirtschaft/unternehmen/teilzeit-krankschreibungen-dgb-weist-vorstoss-von-aerztepraesident-klaus-reinhardt-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/teilzeit-krankschreibungen-dgb-weist-vorstoss-von-aerztepraesident-klaus-reinhardt-zurueck-a-55571bc5-b72b-4fc5-82e8-58fb679567d1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/weltkriegsverbrechen-deutsche-diplomaten-kritisieren-kuerzungen-bei-der-erinnerungskultur](https://www.spiegel.de/politik/deutschland/weltkriegsverbrechen-deutsche-diplomaten-kritisieren-kuerzungen-bei-der-erinnerungskultur-a-79558d4f-a091-45ab-90f3-803b79aca913#ref=rss)
+### uns
 
-* [https://www.spiegel.de/ausland/georgien-ukraine-praesident-wolodymyr-selenskyj-beklagt-russischen-sieg-bei-wahl](https://www.spiegel.de/ausland/georgien-ukraine-praesident-wolodymyr-selenskyj-beklagt-russischen-sieg-bei-wahl-a-c7de5740-09ae-42d9-beae-53d1035d23e0#ref=rss)
-* [https://www.spiegel.de/ausland/georgien-eu-reaktion-auf-umstrittene-wahl-bleibt-schwach](https://www.spiegel.de/ausland/georgien-eu-reaktion-auf-umstrittene-wahl-bleibt-schwach-a-3138780b-a7a1-49db-a181-dd10f5204b39#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-kamala-harris-vs-donald-trump-was-sie-zur-wahl-wissen-muessen-teil-1](https://www.spiegel.de/ausland/us-wahl-2024-kamala-harris-vs-donald-trump-was-sie-zur-wahl-wissen-muessen-teil-1-a-b74a600b-2b47-4bcf-8bc0-cf36c390d337#ref=rss)
-### joe
+* [https://www.spiegel.de/psychologie/der-koerper-in-den-wechseljahren-wie-wir-nackt-zu-uns-selbst-stehen-koennen](https://www.spiegel.de/psychologie/der-koerper-in-den-wechseljahren-wie-wir-nackt-zu-uns-selbst-stehen-koennen-a-6f919ede-cbe9-4c40-8638-4413654e4e5f#ref=rss)
+### suchen
 
-* [https://www.spiegel.de/ausland/joe-bidens-angebliches-muell-zitat-kamala-harris-distanziert-sich](https://www.spiegel.de/ausland/joe-bidens-angebliches-muell-zitat-kamala-harris-distanziert-sich-a-6917af8c-92e9-445f-a297-75e473e0b581#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-kamala-harris-vs-donald-trump-was-sie-zur-wahl-wissen-muessen-teil-1](https://www.spiegel.de/ausland/us-wahl-2024-kamala-harris-vs-donald-trump-was-sie-zur-wahl-wissen-muessen-teil-1-a-b74a600b-2b47-4bcf-8bc0-cf36c390d337#ref=rss)
-### biden
+* [https://www.spiegel.de/ausland/spanien-menschen-suchen-nach-flutkatastrophe-nach-vermissten-immerhin-sind-wir-am-leben](https://www.spiegel.de/ausland/spanien-menschen-suchen-nach-flutkatastrophe-nach-vermissten-immerhin-sind-wir-am-leben-a-363957ba-8b0b-4192-8d94-badf2bc21f9b#ref=rss)
+### flutkatastrophe
 
-* [https://www.spiegel.de/ausland/joe-bidens-angebliches-muell-zitat-kamala-harris-distanziert-sich](https://www.spiegel.de/ausland/joe-bidens-angebliches-muell-zitat-kamala-harris-distanziert-sich-a-6917af8c-92e9-445f-a297-75e473e0b581#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-kamala-harris-vs-donald-trump-was-sie-zur-wahl-wissen-muessen-teil-1](https://www.spiegel.de/ausland/us-wahl-2024-kamala-harris-vs-donald-trump-was-sie-zur-wahl-wissen-muessen-teil-1-a-b74a600b-2b47-4bcf-8bc0-cf36c390d337#ref=rss)
-### deutschland
+* [https://www.spiegel.de/ausland/spanien-menschen-suchen-nach-flutkatastrophe-nach-vermissten-immerhin-sind-wir-am-leben](https://www.spiegel.de/ausland/spanien-menschen-suchen-nach-flutkatastrophe-nach-vermissten-immerhin-sind-wir-am-leben-a-363957ba-8b0b-4192-8d94-badf2bc21f9b#ref=rss)
+### vermissten
 
-* [https://www.spiegel.de/politik/deutschland/griechenland-tumult-bei-steinmeier-besuch-in-fluechtlingslager](https://www.spiegel.de/politik/deutschland/griechenland-tumult-bei-steinmeier-besuch-in-fluechtlingslager-a-f875093b-a784-4a11-8348-a64267e3eb61#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/nuernberg-verstoss-gegen-russland-sanktionen-mann-verhaftet](https://www.spiegel.de/panorama/justiz/nuernberg-verstoss-gegen-russland-sanktionen-mann-verhaftet-a-4320a149-2bc9-4c32-aec6-879b93864519#ref=rss)
-### streit
+* [https://www.spiegel.de/ausland/spanien-menschen-suchen-nach-flutkatastrophe-nach-vermissten-immerhin-sind-wir-am-leben](https://www.spiegel.de/ausland/spanien-menschen-suchen-nach-flutkatastrophe-nach-vermissten-immerhin-sind-wir-am-leben-a-363957ba-8b0b-4192-8d94-badf2bc21f9b#ref=rss)
+### erst
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-in-der-krise-so-wollen-die-vw-chefs-das-unternehmen-gesund-sparen](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-in-der-krise-so-wollen-die-vw-chefs-das-unternehmen-gesund-sparen-a-fe76dd77-aa5c-4b31-9b77-b81f82d40e3e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/reform-der-altersvorsorge-was-die-deutsche-politik-von-schweden-lernen-kann](https://www.spiegel.de/wirtschaft/reform-der-altersvorsorge-was-die-deutsche-politik-von-schweden-lernen-kann-a-1b5a7901-7c3a-4b42-ab27-39c57b519750#ref=rss)
-* [https://www.spiegel.de/ausland/viktor-orban-schweden-kritisiert-orban-jetzt-bestellt-ungarn-den-botschafter-ein](https://www.spiegel.de/ausland/viktor-orban-schweden-kritisiert-orban-jetzt-bestellt-ungarn-den-botschafter-ein-a-a0f38587-d4db-48ae-8b29-16da6512f2e7#ref=rss)
-### offenbar
+* [https://www.spiegel.de/ausland/spanien-menschen-suchen-nach-flutkatastrophe-nach-vermissten-immerhin-sind-wir-am-leben](https://www.spiegel.de/ausland/spanien-menschen-suchen-nach-flutkatastrophe-nach-vermissten-immerhin-sind-wir-am-leben-a-363957ba-8b0b-4192-8d94-badf2bc21f9b#ref=rss)
+* [https://www.spiegel.de/psychologie/der-koerper-in-den-wechseljahren-wie-wir-nackt-zu-uns-selbst-stehen-koennen](https://www.spiegel.de/psychologie/der-koerper-in-den-wechseljahren-wie-wir-nackt-zu-uns-selbst-stehen-koennen-a-6f919ede-cbe9-4c40-8638-4413654e4e5f#ref=rss)
+### reformationstag
 
-* [https://www.spiegel.de/panorama/justiz/nuernberg-verstoss-gegen-russland-sanktionen-mann-verhaftet](https://www.spiegel.de/panorama/justiz/nuernberg-verstoss-gegen-russland-sanktionen-mann-verhaftet-a-4320a149-2bc9-4c32-aec6-879b93864519#ref=rss)
-* [https://www.spiegel.de/panorama/leute/donald-trump-50-cent-lehnte-millionen-angebot-fuer-auftritt-im-madison-square-garden-ab](https://www.spiegel.de/panorama/leute/donald-trump-50-cent-lehnte-millionen-angebot-fuer-auftritt-im-madison-square-garden-ab-a-54a37f34-68dd-4316-85ef-48daed7705b5#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/openai-entwickelt-offenbar-ersten-eigenen-ki-chip-mit-broadcom-und-tsmc](https://www.spiegel.de/netzwelt/web/openai-entwickelt-offenbar-ersten-eigenen-ki-chip-mit-broadcom-und-tsmc-a-cd38b016-433b-4176-8185-7dde66ef35a0#ref=rss)
-### mehr
+* [https://www.spiegel.de/panorama/reformationstag-warum-feiern-protestanten-den-31-oktober](https://www.spiegel.de/panorama/reformationstag-warum-feiern-protestanten-den-31-oktober-a-dd7c0202-6673-4444-a57f-f020b1f089ba#ref=rss)
+### 31
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-vw-unwetter-in-spanien-buch-von-dirk-oschmann](https://www.spiegel.de/politik/deutschland/news-des-tages-vw-unwetter-in-spanien-buch-von-dirk-oschmann-a-47516a8d-c887-407d-b654-205da0aa0cfc#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/maya-stadt-in-mexiko-entdeckt-warum-dort-noch-viele-grosse-funde-bevorstehen](https://www.spiegel.de/wissenschaft/mensch/maya-stadt-in-mexiko-entdeckt-warum-dort-noch-viele-grosse-funde-bevorstehen-a-f64b3674-792e-458a-b536-6bd26818317c#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/us-wahl-2024-x-zahlt-nutzern-wohl-tausende-dollar-fuer-desinformation-und-ki-bilder](https://www.spiegel.de/netzwelt/apps/us-wahl-2024-x-zahlt-nutzern-wohl-tausende-dollar-fuer-desinformation-und-ki-bilder-a-b661ba5d-1e9a-44a2-914d-c313ee7ea08d#ref=rss)
-### politik
+* [https://www.spiegel.de/panorama/reformationstag-warum-feiern-protestanten-den-31-oktober](https://www.spiegel.de/panorama/reformationstag-warum-feiern-protestanten-den-31-oktober-a-dd7c0202-6673-4444-a57f-f020b1f089ba#ref=rss)
+### oktober
 
-* [https://www.spiegel.de/wirtschaft/reform-der-altersvorsorge-was-die-deutsche-politik-von-schweden-lernen-kann](https://www.spiegel.de/wirtschaft/reform-der-altersvorsorge-was-die-deutsche-politik-von-schweden-lernen-kann-a-1b5a7901-7c3a-4b42-ab27-39c57b519750#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gruene-was-friedrich-merz-von-ricarda-lang-lernen-kann](https://www.spiegel.de/politik/deutschland/gruene-was-friedrich-merz-von-ricarda-lang-lernen-kann-a-029c46c8-fcb6-4700-a37d-699f395c77d5#ref=rss)
-### lernen
+* [https://www.spiegel.de/panorama/reformationstag-warum-feiern-protestanten-den-31-oktober](https://www.spiegel.de/panorama/reformationstag-warum-feiern-protestanten-den-31-oktober-a-dd7c0202-6673-4444-a57f-f020b1f089ba#ref=rss)
+### bundesländern
 
-* [https://www.spiegel.de/wirtschaft/reform-der-altersvorsorge-was-die-deutsche-politik-von-schweden-lernen-kann](https://www.spiegel.de/wirtschaft/reform-der-altersvorsorge-was-die-deutsche-politik-von-schweden-lernen-kann-a-1b5a7901-7c3a-4b42-ab27-39c57b519750#ref=rss)
-* [https://www.spiegel.de/start/work-life-balance-wie-viel-wollen-wir-eigentlich-arbeiten](https://www.spiegel.de/start/work-life-balance-wie-viel-wollen-wir-eigentlich-arbeiten-a-7772a70f-c9e2-4bc6-b570-867f8ebbc604#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gruene-was-friedrich-merz-von-ricarda-lang-lernen-kann](https://www.spiegel.de/politik/deutschland/gruene-was-friedrich-merz-von-ricarda-lang-lernen-kann-a-029c46c8-fcb6-4700-a37d-699f395c77d5#ref=rss)
-### hummels
+* [https://www.spiegel.de/panorama/reformationstag-warum-feiern-protestanten-den-31-oktober](https://www.spiegel.de/panorama/reformationstag-warum-feiern-protestanten-den-31-oktober-a-dd7c0202-6673-4444-a57f-f020b1f089ba#ref=rss)
+* [https://www.spiegel.de/panorama/allerheiligen-und-halloween-welche-braeuche-hinter-den-feiertagen-stecken](https://www.spiegel.de/panorama/allerheiligen-und-halloween-welche-braeuche-hinter-den-feiertagen-stecken-a-edde8050-c516-49be-85d7-cd58deb1c190#ref=rss)
+### feiertag
 
-* [https://www.spiegel.de/panorama/leute/mats-hummels-datet-nun-influencerin-nicola-cavanis](https://www.spiegel.de/panorama/leute/mats-hummels-datet-nun-influencerin-nicola-cavanis-a-298d2ffa-b273-4e7a-a140-13b659751445#ref=rss)
-### kritisiert
+* [https://www.spiegel.de/panorama/reformationstag-warum-feiern-protestanten-den-31-oktober](https://www.spiegel.de/panorama/reformationstag-warum-feiern-protestanten-den-31-oktober-a-dd7c0202-6673-4444-a57f-f020b1f089ba#ref=rss)
+* [https://www.spiegel.de/panorama/allerheiligen-und-halloween-welche-braeuche-hinter-den-feiertagen-stecken](https://www.spiegel.de/panorama/allerheiligen-und-halloween-welche-braeuche-hinter-den-feiertagen-stecken-a-edde8050-c516-49be-85d7-cd58deb1c190#ref=rss)
+### überblick
 
-* [https://www.spiegel.de/ausland/viktor-orban-schweden-kritisiert-orban-jetzt-bestellt-ungarn-den-botschafter-ein](https://www.spiegel.de/ausland/viktor-orban-schweden-kritisiert-orban-jetzt-bestellt-ungarn-den-botschafter-ein-a-a0f38587-d4db-48ae-8b29-16da6512f2e7#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-muslimische-spielerin-in-london-wegen-langer-hose-vom-spiel-ausgeschlossen](https://www.spiegel.de/sport/fussball/fussball-muslimische-spielerin-in-london-wegen-langer-hose-vom-spiel-ausgeschlossen-a-7a21c49b-dccf-4d28-8339-83737b51eac2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jamshid-sharmahd-hinrichtung-deutscher-botschafter-verlaesst-iran](https://www.spiegel.de/politik/deutschland/jamshid-sharmahd-hinrichtung-deutscher-botschafter-verlaesst-iran-a-e8337661-7fee-4a81-9315-9a2d3fb84958#ref=rss)
-### botschafter
+* [https://www.spiegel.de/panorama/reformationstag-warum-feiern-protestanten-den-31-oktober](https://www.spiegel.de/panorama/reformationstag-warum-feiern-protestanten-den-31-oktober-a-dd7c0202-6673-4444-a57f-f020b1f089ba#ref=rss)
+* [https://www.spiegel.de/panorama/allerheiligen-und-halloween-welche-braeuche-hinter-den-feiertagen-stecken](https://www.spiegel.de/panorama/allerheiligen-und-halloween-welche-braeuche-hinter-den-feiertagen-stecken-a-edde8050-c516-49be-85d7-cd58deb1c190#ref=rss)
+### allerheiligen
 
-* [https://www.spiegel.de/ausland/viktor-orban-schweden-kritisiert-orban-jetzt-bestellt-ungarn-den-botschafter-ein](https://www.spiegel.de/ausland/viktor-orban-schweden-kritisiert-orban-jetzt-bestellt-ungarn-den-botschafter-ein-a-a0f38587-d4db-48ae-8b29-16da6512f2e7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jamshid-sharmahd-hinrichtung-deutscher-botschafter-verlaesst-iran](https://www.spiegel.de/politik/deutschland/jamshid-sharmahd-hinrichtung-deutscher-botschafter-verlaesst-iran-a-e8337661-7fee-4a81-9315-9a2d3fb84958#ref=rss)
-### umstrittene
+* [https://www.spiegel.de/panorama/allerheiligen-und-halloween-welche-braeuche-hinter-den-feiertagen-stecken](https://www.spiegel.de/panorama/allerheiligen-und-halloween-welche-braeuche-hinter-den-feiertagen-stecken-a-edde8050-c516-49be-85d7-cd58deb1c190#ref=rss)
+### ersten
 
-* [https://www.spiegel.de/ausland/viktor-orban-schweden-kritisiert-orban-jetzt-bestellt-ungarn-den-botschafter-ein](https://www.spiegel.de/ausland/viktor-orban-schweden-kritisiert-orban-jetzt-bestellt-ungarn-den-botschafter-ein-a-a0f38587-d4db-48ae-8b29-16da6512f2e7#ref=rss)
-* [https://www.spiegel.de/ausland/georgien-eu-reaktion-auf-umstrittene-wahl-bleibt-schwach](https://www.spiegel.de/ausland/georgien-eu-reaktion-auf-umstrittene-wahl-bleibt-schwach-a-3138780b-a7a1-49db-a181-dd10f5204b39#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/us-wahl-2024-x-zahlt-nutzern-wohl-tausende-dollar-fuer-desinformation-und-ki-bilder](https://www.spiegel.de/netzwelt/apps/us-wahl-2024-x-zahlt-nutzern-wohl-tausende-dollar-fuer-desinformation-und-ki-bilder-a-b661ba5d-1e9a-44a2-914d-c313ee7ea08d#ref=rss)
-### georgien
+* [https://www.spiegel.de/panorama/metoo-eine-bilanz-nach-sieben-jahren-mutige-heldinnen-und-die-gegenreaktionen](https://www.spiegel.de/panorama/metoo-eine-bilanz-nach-sieben-jahren-mutige-heldinnen-und-die-gegenreaktionen-a-d9632983-d938-490e-a573-81ec3ed52fe6#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/vogelgrippe-usa-melden-ersten-fall-von-h5n1-virus-bei-schwein](https://www.spiegel.de/wissenschaft/medizin/vogelgrippe-usa-melden-ersten-fall-von-h5n1-virus-bei-schwein-a-a6d31dd2-ebea-4b9b-be42-9ce599efcf58#ref=rss)
+### klimawandel
 
-* [https://www.spiegel.de/ausland/georgien-ukraine-praesident-wolodymyr-selenskyj-beklagt-russischen-sieg-bei-wahl](https://www.spiegel.de/ausland/georgien-ukraine-praesident-wolodymyr-selenskyj-beklagt-russischen-sieg-bei-wahl-a-c7de5740-09ae-42d9-beae-53d1035d23e0#ref=rss)
-* [https://www.spiegel.de/ausland/georgien-eu-reaktion-auf-umstrittene-wahl-bleibt-schwach](https://www.spiegel.de/ausland/georgien-eu-reaktion-auf-umstrittene-wahl-bleibt-schwach-a-3138780b-a7a1-49db-a181-dd10f5204b39#ref=rss)
-### uspräsident
+* [https://www.spiegel.de/wissenschaft/natur/alpen-wie-der-klimawandel-die-naturgefahren-in-den-bergen-veraendert](https://www.spiegel.de/wissenschaft/natur/alpen-wie-der-klimawandel-die-naturgefahren-in-den-bergen-veraendert-a-eaed5456-7575-4eed-80da-996795a026a6#ref=rss)
+### naturgefahren
 
-* [https://www.spiegel.de/ausland/joe-bidens-angebliches-muell-zitat-kamala-harris-distanziert-sich](https://www.spiegel.de/ausland/joe-bidens-angebliches-muell-zitat-kamala-harris-distanziert-sich-a-6917af8c-92e9-445f-a297-75e473e0b581#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-kamala-harris-vs-donald-trump-was-sie-zur-wahl-wissen-muessen-teil-1](https://www.spiegel.de/ausland/us-wahl-2024-kamala-harris-vs-donald-trump-was-sie-zur-wahl-wissen-muessen-teil-1-a-b74a600b-2b47-4bcf-8bc0-cf36c390d337#ref=rss)
-### tcg
+* [https://www.spiegel.de/wissenschaft/natur/alpen-wie-der-klimawandel-die-naturgefahren-in-den-bergen-veraendert](https://www.spiegel.de/wissenschaft/natur/alpen-wie-der-klimawandel-die-naturgefahren-in-den-bergen-veraendert-a-eaed5456-7575-4eed-80da-996795a026a6#ref=rss)
+### bergen
 
-* [https://www.spiegel.de/netzwelt/games/pokemon-tcg-pocket-das-sollten-eltern-ueber-das-handygame-wissen](https://www.spiegel.de/netzwelt/games/pokemon-tcg-pocket-das-sollten-eltern-ueber-das-handygame-wissen-a-e0c2d34d-a30e-4a5c-b519-483b00f778c3#ref=rss)
-### pocket
+* [https://www.spiegel.de/wissenschaft/natur/alpen-wie-der-klimawandel-die-naturgefahren-in-den-bergen-veraendert](https://www.spiegel.de/wissenschaft/natur/alpen-wie-der-klimawandel-die-naturgefahren-in-den-bergen-veraendert-a-eaed5456-7575-4eed-80da-996795a026a6#ref=rss)
+### schwer
 
-* [https://www.spiegel.de/netzwelt/games/pokemon-tcg-pocket-das-sollten-eltern-ueber-das-handygame-wissen](https://www.spiegel.de/netzwelt/games/pokemon-tcg-pocket-das-sollten-eltern-ueber-das-handygame-wissen-a-e0c2d34d-a30e-4a5c-b519-483b00f778c3#ref=rss)
-### eltern
+* [https://www.spiegel.de/wissenschaft/natur/alpen-wie-der-klimawandel-die-naturgefahren-in-den-bergen-veraendert](https://www.spiegel.de/wissenschaft/natur/alpen-wie-der-klimawandel-die-naturgefahren-in-den-bergen-veraendert-a-eaed5456-7575-4eed-80da-996795a026a6#ref=rss)
+* [https://www.spiegel.de/wissenschaft/kriegsschiff-vasa-in-stockholm-schwedischer-dreimaster-soll-neues-stuetzsystem-bekommen](https://www.spiegel.de/wissenschaft/kriegsschiff-vasa-in-stockholm-schwedischer-dreimaster-soll-neues-stuetzsystem-bekommen-a-99ba74bc-a8e6-4a2c-96e3-65dde0e8b56a#ref=rss)
+### bestätigen
 
-* [https://www.spiegel.de/netzwelt/games/pokemon-tcg-pocket-das-sollten-eltern-ueber-das-handygame-wissen](https://www.spiegel.de/netzwelt/games/pokemon-tcg-pocket-das-sollten-eltern-ueber-das-handygame-wissen-a-e0c2d34d-a30e-4a5c-b519-483b00f778c3#ref=rss)
-### wissen
+* [https://www.spiegel.de/wissenschaft/natur/alpen-wie-der-klimawandel-die-naturgefahren-in-den-bergen-veraendert](https://www.spiegel.de/wissenschaft/natur/alpen-wie-der-klimawandel-die-naturgefahren-in-den-bergen-veraendert-a-eaed5456-7575-4eed-80da-996795a026a6#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/vogelgrippe-usa-melden-ersten-fall-von-h5n1-virus-bei-schwein](https://www.spiegel.de/wissenschaft/medizin/vogelgrippe-usa-melden-ersten-fall-von-h5n1-virus-bei-schwein-a-a6d31dd2-ebea-4b9b-be42-9ce599efcf58#ref=rss)
+### vasa
 
-* [https://www.spiegel.de/netzwelt/games/pokemon-tcg-pocket-das-sollten-eltern-ueber-das-handygame-wissen](https://www.spiegel.de/netzwelt/games/pokemon-tcg-pocket-das-sollten-eltern-ueber-das-handygame-wissen-a-e0c2d34d-a30e-4a5c-b519-483b00f778c3#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-kamala-harris-vs-donald-trump-was-sie-zur-wahl-wissen-muessen-teil-1](https://www.spiegel.de/ausland/us-wahl-2024-kamala-harris-vs-donald-trump-was-sie-zur-wahl-wissen-muessen-teil-1-a-b74a600b-2b47-4bcf-8bc0-cf36c390d337#ref=rss)
-### neues
+* [https://www.spiegel.de/wissenschaft/kriegsschiff-vasa-in-stockholm-schwedischer-dreimaster-soll-neues-stuetzsystem-bekommen](https://www.spiegel.de/wissenschaft/kriegsschiff-vasa-in-stockholm-schwedischer-dreimaster-soll-neues-stuetzsystem-bekommen-a-99ba74bc-a8e6-4a2c-96e3-65dde0e8b56a#ref=rss)
+### dreimaster
 
-* [https://www.spiegel.de/netzwelt/games/pokemon-tcg-pocket-das-sollten-eltern-ueber-das-handygame-wissen](https://www.spiegel.de/netzwelt/games/pokemon-tcg-pocket-das-sollten-eltern-ueber-das-handygame-wissen-a-e0c2d34d-a30e-4a5c-b519-483b00f778c3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/foerderaffaere-deutscher-wasserstoff-verband-gibt-sich-doppelspitze](https://www.spiegel.de/wirtschaft/foerderaffaere-deutscher-wasserstoff-verband-gibt-sich-doppelspitze-a-85a70d62-9b1d-4e24-bdfc-42db0a46791a#ref=rss)
-### wichtigsten
+* [https://www.spiegel.de/wissenschaft/kriegsschiff-vasa-in-stockholm-schwedischer-dreimaster-soll-neues-stuetzsystem-bekommen](https://www.spiegel.de/wissenschaft/kriegsschiff-vasa-in-stockholm-schwedischer-dreimaster-soll-neues-stuetzsystem-bekommen-a-99ba74bc-a8e6-4a2c-96e3-65dde0e8b56a#ref=rss)
+### stellantis
 
-* [https://www.spiegel.de/netzwelt/games/pokemon-tcg-pocket-das-sollten-eltern-ueber-das-handygame-wissen](https://www.spiegel.de/netzwelt/games/pokemon-tcg-pocket-das-sollten-eltern-ueber-das-handygame-wissen-a-e0c2d34d-a30e-4a5c-b519-483b00f778c3#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-kamala-harris-vs-donald-trump-was-sie-zur-wahl-wissen-muessen-teil-1](https://www.spiegel.de/ausland/us-wahl-2024-kamala-harris-vs-donald-trump-was-sie-zur-wahl-wissen-muessen-teil-1-a-b74a600b-2b47-4bcf-8bc0-cf36c390d337#ref=rss)
-### straßen
+* [https://www.spiegel.de/wirtschaft/unternehmen/autoindustrie-opel-mutter-stellantis-meldet-umsatzeinbruch](https://www.spiegel.de/wirtschaft/unternehmen/autoindustrie-opel-mutter-stellantis-meldet-umsatzeinbruch-a-2cc4a7a4-91db-4acf-9a9e-29d28de0adb2#ref=rss)
+### günstiger
 
-* [https://www.spiegel.de/wissenschaft/natur/sturzfluten-in-spanien-forschende-sehen-einfluss-des-klimawandels-und-luecken-im-warnsystem](https://www.spiegel.de/wissenschaft/natur/sturzfluten-in-spanien-forschende-sehen-einfluss-des-klimawandels-und-luecken-im-warnsystem-a-eece0c2a-b2d0-4b97-8e76-525582afea71#ref=rss)
-* [https://www.spiegel.de/panorama/spanien-unwetter-opferzahl-steigt-auf-72-drei-tage-staatstrauer-ausgerufen](https://www.spiegel.de/panorama/spanien-unwetter-opferzahl-steigt-auf-72-drei-tage-staatstrauer-ausgerufen-a-b04e2cd1-568f-4af4-994f-e8bac78b78b0#ref=rss)
-### unwetter
+* [https://www.spiegel.de/wirtschaft/unternehmen/autoindustrie-opel-mutter-stellantis-meldet-umsatzeinbruch](https://www.spiegel.de/wirtschaft/unternehmen/autoindustrie-opel-mutter-stellantis-meldet-umsatzeinbruch-a-2cc4a7a4-91db-4acf-9a9e-29d28de0adb2#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/riesenhamsterratten-im-einsatz-gegen-wildtier-schmuggel-in-tansania](https://www.spiegel.de/panorama/gesellschaft/riesenhamsterratten-im-einsatz-gegen-wildtier-schmuggel-in-tansania-a-65404f43-b634-4f8b-bcb9-eb9e739a47ac#ref=rss)
+### siemens
 
-* [https://www.spiegel.de/wissenschaft/natur/sturzfluten-in-spanien-forschende-sehen-einfluss-des-klimawandels-und-luecken-im-warnsystem](https://www.spiegel.de/wissenschaft/natur/sturzfluten-in-spanien-forschende-sehen-einfluss-des-klimawandels-und-luecken-im-warnsystem-a-eece0c2a-b2d0-4b97-8e76-525582afea71#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-vw-unwetter-in-spanien-buch-von-dirk-oschmann](https://www.spiegel.de/politik/deutschland/news-des-tages-vw-unwetter-in-spanien-buch-von-dirk-oschmann-a-47516a8d-c887-407d-b654-205da0aa0cfc#ref=rss)
-### zufolge
+* [https://www.spiegel.de/wirtschaft/unternehmen/siemens-uebernimmt-altair-engineering-fuer-rund-10-milliarden-dollar](https://www.spiegel.de/wirtschaft/unternehmen/siemens-uebernimmt-altair-engineering-fuer-rund-10-milliarden-dollar-a-f90ce198-cb82-4da3-a7e5-1caa9bf1555e#ref=rss)
+### altair
 
-* [https://www.spiegel.de/wissenschaft/natur/sturzfluten-in-spanien-forschende-sehen-einfluss-des-klimawandels-und-luecken-im-warnsystem](https://www.spiegel.de/wissenschaft/natur/sturzfluten-in-spanien-forschende-sehen-einfluss-des-klimawandels-und-luecken-im-warnsystem-a-eece0c2a-b2d0-4b97-8e76-525582afea71#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/openai-entwickelt-offenbar-ersten-eigenen-ki-chip-mit-broadcom-und-tsmc](https://www.spiegel.de/netzwelt/web/openai-entwickelt-offenbar-ersten-eigenen-ki-chip-mit-broadcom-und-tsmc-a-cd38b016-433b-4176-8185-7dde66ef35a0#ref=rss)
-### flüchtlingslager
+* [https://www.spiegel.de/wirtschaft/unternehmen/siemens-uebernimmt-altair-engineering-fuer-rund-10-milliarden-dollar](https://www.spiegel.de/wirtschaft/unternehmen/siemens-uebernimmt-altair-engineering-fuer-rund-10-milliarden-dollar-a-f90ce198-cb82-4da3-a7e5-1caa9bf1555e#ref=rss)
+### vogelgrippe
 
-* [https://www.spiegel.de/politik/deutschland/griechenland-tumult-bei-steinmeier-besuch-in-fluechtlingslager](https://www.spiegel.de/politik/deutschland/griechenland-tumult-bei-steinmeier-besuch-in-fluechtlingslager-a-f875093b-a784-4a11-8348-a64267e3eb61#ref=rss)
-### ausweis
+* [https://www.spiegel.de/wissenschaft/medizin/vogelgrippe-usa-melden-ersten-fall-von-h5n1-virus-bei-schwein](https://www.spiegel.de/wissenschaft/medizin/vogelgrippe-usa-melden-ersten-fall-von-h5n1-virus-bei-schwein-a-a6d31dd2-ebea-4b9b-be42-9ce599efcf58#ref=rss)
+### virus
 
-* [https://www.spiegel.de/politik/deutschland/griechenland-tumult-bei-steinmeier-besuch-in-fluechtlingslager](https://www.spiegel.de/politik/deutschland/griechenland-tumult-bei-steinmeier-besuch-in-fluechtlingslager-a-f875093b-a784-4a11-8348-a64267e3eb61#ref=rss)
-### symbol
-
-* [https://www.spiegel.de/wirtschaft/volkswagen-krise-symbol-fuer-den-abstieg-der-deutschen-industrie-jetzt-sind-mutige-reformen-gefragt](https://www.spiegel.de/wirtschaft/volkswagen-krise-symbol-fuer-den-abstieg-der-deutschen-industrie-jetzt-sind-mutige-reformen-gefragt-a-f9b254ab-6adc-4988-9a41-3e9863229c90#ref=rss)
-### abstieg
-
-* [https://www.spiegel.de/wirtschaft/volkswagen-krise-symbol-fuer-den-abstieg-der-deutschen-industrie-jetzt-sind-mutige-reformen-gefragt](https://www.spiegel.de/wirtschaft/volkswagen-krise-symbol-fuer-den-abstieg-der-deutschen-industrie-jetzt-sind-mutige-reformen-gefragt-a-f9b254ab-6adc-4988-9a41-3e9863229c90#ref=rss)
-### industrie
-
-* [https://www.spiegel.de/wirtschaft/volkswagen-krise-symbol-fuer-den-abstieg-der-deutschen-industrie-jetzt-sind-mutige-reformen-gefragt](https://www.spiegel.de/wirtschaft/volkswagen-krise-symbol-fuer-den-abstieg-der-deutschen-industrie-jetzt-sind-mutige-reformen-gefragt-a-f9b254ab-6adc-4988-9a41-3e9863229c90#ref=rss)
-### mutige
-
-* [https://www.spiegel.de/wirtschaft/volkswagen-krise-symbol-fuer-den-abstieg-der-deutschen-industrie-jetzt-sind-mutige-reformen-gefragt](https://www.spiegel.de/wirtschaft/volkswagen-krise-symbol-fuer-den-abstieg-der-deutschen-industrie-jetzt-sind-mutige-reformen-gefragt-a-f9b254ab-6adc-4988-9a41-3e9863229c90#ref=rss)
-### reformen
-
-* [https://www.spiegel.de/wirtschaft/volkswagen-krise-symbol-fuer-den-abstieg-der-deutschen-industrie-jetzt-sind-mutige-reformen-gefragt](https://www.spiegel.de/wirtschaft/volkswagen-krise-symbol-fuer-den-abstieg-der-deutschen-industrie-jetzt-sind-mutige-reformen-gefragt-a-f9b254ab-6adc-4988-9a41-3e9863229c90#ref=rss)
-### volkswagen
-
-* [https://www.spiegel.de/wirtschaft/volkswagen-krise-symbol-fuer-den-abstieg-der-deutschen-industrie-jetzt-sind-mutige-reformen-gefragt](https://www.spiegel.de/wirtschaft/volkswagen-krise-symbol-fuer-den-abstieg-der-deutschen-industrie-jetzt-sind-mutige-reformen-gefragt-a-f9b254ab-6adc-4988-9a41-3e9863229c90#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-in-der-krise-so-wollen-die-vw-chefs-das-unternehmen-gesund-sparen](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-in-der-krise-so-wollen-die-vw-chefs-das-unternehmen-gesund-sparen-a-fe76dd77-aa5c-4b31-9b77-b81f82d40e3e#ref=rss)
-### fast
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-in-der-krise-so-wollen-die-vw-chefs-das-unternehmen-gesund-sparen](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-in-der-krise-so-wollen-die-vw-chefs-das-unternehmen-gesund-sparen-a-fe76dd77-aa5c-4b31-9b77-b81f82d40e3e#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-im-gazastreifen-die-menschen-im-norden-sind-auf-sich-allein-gestellt](https://www.spiegel.de/ausland/krieg-im-gazastreifen-die-menschen-im-norden-sind-auf-sich-allein-gestellt-a-71c81f20-364d-42a6-a1ae-7ef3432d45d6#ref=rss)
-### russland
-
-* [https://www.spiegel.de/panorama/justiz/nuernberg-verstoss-gegen-russland-sanktionen-mann-verhaftet](https://www.spiegel.de/panorama/justiz/nuernberg-verstoss-gegen-russland-sanktionen-mann-verhaftet-a-4320a149-2bc9-4c32-aec6-879b93864519#ref=rss)
-* [https://www.spiegel.de/ausland/viktor-orban-schweden-kritisiert-orban-jetzt-bestellt-ungarn-den-botschafter-ein](https://www.spiegel.de/ausland/viktor-orban-schweden-kritisiert-orban-jetzt-bestellt-ungarn-den-botschafter-ein-a-a0f38587-d4db-48ae-8b29-16da6512f2e7#ref=rss)
-### norden
-
-* [https://www.spiegel.de/ausland/krieg-im-gazastreifen-die-menschen-im-norden-sind-auf-sich-allein-gestellt](https://www.spiegel.de/ausland/krieg-im-gazastreifen-die-menschen-im-norden-sind-auf-sich-allein-gestellt-a-71c81f20-364d-42a6-a1ae-7ef3432d45d6#ref=rss)
-### vw
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-vw-unwetter-in-spanien-buch-von-dirk-oschmann](https://www.spiegel.de/politik/deutschland/news-des-tages-vw-unwetter-in-spanien-buch-von-dirk-oschmann-a-47516a8d-c887-407d-b654-205da0aa0cfc#ref=rss)
-### buch
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-vw-unwetter-in-spanien-buch-von-dirk-oschmann](https://www.spiegel.de/politik/deutschland/news-des-tages-vw-unwetter-in-spanien-buch-von-dirk-oschmann-a-47516a8d-c887-407d-b654-205da0aa0cfc#ref=rss)
-### dirk
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-vw-unwetter-in-spanien-buch-von-dirk-oschmann](https://www.spiegel.de/politik/deutschland/news-des-tages-vw-unwetter-in-spanien-buch-von-dirk-oschmann-a-47516a8d-c887-407d-b654-205da0aa0cfc#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-vw-unwetter-in-spanien-buch-von-dirk-oschmann](https://www.spiegel.de/politik/deutschland/news-des-tages-vw-unwetter-in-spanien-buch-von-dirk-oschmann-a-47516a8d-c887-407d-b654-205da0aa0cfc#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-kamala-harris-vs-donald-trump-was-sie-zur-wahl-wissen-muessen-teil-1](https://www.spiegel.de/ausland/us-wahl-2024-kamala-harris-vs-donald-trump-was-sie-zur-wahl-wissen-muessen-teil-1-a-b74a600b-2b47-4bcf-8bc0-cf36c390d337#ref=rss)
-### lage
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-vw-unwetter-in-spanien-buch-von-dirk-oschmann](https://www.spiegel.de/politik/deutschland/news-des-tages-vw-unwetter-in-spanien-buch-von-dirk-oschmann-a-47516a8d-c887-407d-b654-205da0aa0cfc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-gibt-gewinnwarnung-heraus](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-gibt-gewinnwarnung-heraus-a-f8a83e2a-d592-4c07-a7a5-86c5fe2f39d0#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/libanon-israel-bombardiert-antike-stadt-baalbek](https://www.spiegel.de/ausland/libanon-israel-bombardiert-antike-stadt-baalbek-a-ed9f1fb2-3213-4d37-bea7-023396ac73ef#ref=rss)
-### stadt
-
-* [https://www.spiegel.de/ausland/libanon-israel-bombardiert-antike-stadt-baalbek](https://www.spiegel.de/ausland/libanon-israel-bombardiert-antike-stadt-baalbek-a-ed9f1fb2-3213-4d37-bea7-023396ac73ef#ref=rss)
-### baalbek
-
-* [https://www.spiegel.de/ausland/libanon-israel-bombardiert-antike-stadt-baalbek](https://www.spiegel.de/ausland/libanon-israel-bombardiert-antike-stadt-baalbek-a-ed9f1fb2-3213-4d37-bea7-023396ac73ef#ref=rss)
-### reform
-
-* [https://www.spiegel.de/wirtschaft/reform-der-altersvorsorge-was-die-deutsche-politik-von-schweden-lernen-kann](https://www.spiegel.de/wirtschaft/reform-der-altersvorsorge-was-die-deutsche-politik-von-schweden-lernen-kann-a-1b5a7901-7c3a-4b42-ab27-39c57b519750#ref=rss)
-### schweden
-
-* [https://www.spiegel.de/wirtschaft/reform-der-altersvorsorge-was-die-deutsche-politik-von-schweden-lernen-kann](https://www.spiegel.de/wirtschaft/reform-der-altersvorsorge-was-die-deutsche-politik-von-schweden-lernen-kann-a-1b5a7901-7c3a-4b42-ab27-39c57b519750#ref=rss)
-* [https://www.spiegel.de/ausland/viktor-orban-schweden-kritisiert-orban-jetzt-bestellt-ungarn-den-botschafter-ein](https://www.spiegel.de/ausland/viktor-orban-schweden-kritisiert-orban-jetzt-bestellt-ungarn-den-botschafter-ein-a-a0f38587-d4db-48ae-8b29-16da6512f2e7#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/wirtschaft/reform-der-altersvorsorge-was-die-deutsche-politik-von-schweden-lernen-kann](https://www.spiegel.de/wirtschaft/reform-der-altersvorsorge-was-die-deutsche-politik-von-schweden-lernen-kann-a-1b5a7901-7c3a-4b42-ab27-39c57b519750#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-muslimische-spielerin-in-london-wegen-langer-hose-vom-spiel-ausgeschlossen](https://www.spiegel.de/sport/fussball/fussball-muslimische-spielerin-in-london-wegen-langer-hose-vom-spiel-ausgeschlossen-a-7a21c49b-dccf-4d28-8339-83737b51eac2#ref=rss)
-### richtigen
-
-* [https://www.spiegel.de/wirtschaft/reform-der-altersvorsorge-was-die-deutsche-politik-von-schweden-lernen-kann](https://www.spiegel.de/wirtschaft/reform-der-altersvorsorge-was-die-deutsche-politik-von-schweden-lernen-kann-a-1b5a7901-7c3a-4b42-ab27-39c57b519750#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gruene-was-friedrich-merz-von-ricarda-lang-lernen-kann](https://www.spiegel.de/politik/deutschland/gruene-was-friedrich-merz-von-ricarda-lang-lernen-kann-a-029c46c8-fcb6-4700-a37d-699f395c77d5#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/wirtschaft/reform-der-altersvorsorge-was-die-deutsche-politik-von-schweden-lernen-kann](https://www.spiegel.de/wirtschaft/reform-der-altersvorsorge-was-die-deutsche-politik-von-schweden-lernen-kann-a-1b5a7901-7c3a-4b42-ab27-39c57b519750#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gruene-was-friedrich-merz-von-ricarda-lang-lernen-kann](https://www.spiegel.de/politik/deutschland/gruene-was-friedrich-merz-von-ricarda-lang-lernen-kann-a-029c46c8-fcb6-4700-a37d-699f395c77d5#ref=rss)
-### drei
-
-* [https://www.spiegel.de/panorama/spanien-unwetter-opferzahl-steigt-auf-72-drei-tage-staatstrauer-ausgerufen](https://www.spiegel.de/panorama/spanien-unwetter-opferzahl-steigt-auf-72-drei-tage-staatstrauer-ausgerufen-a-b04e2cd1-568f-4af4-994f-e8bac78b78b0#ref=rss)
-* [https://www.spiegel.de/panorama/leute/donald-trump-50-cent-lehnte-millionen-angebot-fuer-auftritt-im-madison-square-garden-ab](https://www.spiegel.de/panorama/leute/donald-trump-50-cent-lehnte-millionen-angebot-fuer-auftritt-im-madison-square-garden-ab-a-54a37f34-68dd-4316-85ef-48daed7705b5#ref=rss)
-### 50
-
-* [https://www.spiegel.de/panorama/leute/donald-trump-50-cent-lehnte-millionen-angebot-fuer-auftritt-im-madison-square-garden-ab](https://www.spiegel.de/panorama/leute/donald-trump-50-cent-lehnte-millionen-angebot-fuer-auftritt-im-madison-square-garden-ab-a-54a37f34-68dd-4316-85ef-48daed7705b5#ref=rss)
-### cent
-
-* [https://www.spiegel.de/panorama/leute/donald-trump-50-cent-lehnte-millionen-angebot-fuer-auftritt-im-madison-square-garden-ab](https://www.spiegel.de/panorama/leute/donald-trump-50-cent-lehnte-millionen-angebot-fuer-auftritt-im-madison-square-garden-ab-a-54a37f34-68dd-4316-85ef-48daed7705b5#ref=rss)
-### lehnte
-
-* [https://www.spiegel.de/panorama/leute/donald-trump-50-cent-lehnte-millionen-angebot-fuer-auftritt-im-madison-square-garden-ab](https://www.spiegel.de/panorama/leute/donald-trump-50-cent-lehnte-millionen-angebot-fuer-auftritt-im-madison-square-garden-ab-a-54a37f34-68dd-4316-85ef-48daed7705b5#ref=rss)
-### auftritt
-
-* [https://www.spiegel.de/panorama/leute/donald-trump-50-cent-lehnte-millionen-angebot-fuer-auftritt-im-madison-square-garden-ab](https://www.spiegel.de/panorama/leute/donald-trump-50-cent-lehnte-millionen-angebot-fuer-auftritt-im-madison-square-garden-ab-a-54a37f34-68dd-4316-85ef-48daed7705b5#ref=rss)
-### dollar
-
-* [https://www.spiegel.de/panorama/leute/donald-trump-50-cent-lehnte-millionen-angebot-fuer-auftritt-im-madison-square-garden-ab](https://www.spiegel.de/panorama/leute/donald-trump-50-cent-lehnte-millionen-angebot-fuer-auftritt-im-madison-square-garden-ab-a-54a37f34-68dd-4316-85ef-48daed7705b5#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/us-wahl-2024-x-zahlt-nutzern-wohl-tausende-dollar-fuer-desinformation-und-ki-bilder](https://www.spiegel.de/netzwelt/apps/us-wahl-2024-x-zahlt-nutzern-wohl-tausende-dollar-fuer-desinformation-und-ki-bilder-a-b661ba5d-1e9a-44a2-914d-c313ee7ea08d#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/panorama/leute/donald-trump-50-cent-lehnte-millionen-angebot-fuer-auftritt-im-madison-square-garden-ab](https://www.spiegel.de/panorama/leute/donald-trump-50-cent-lehnte-millionen-angebot-fuer-auftritt-im-madison-square-garden-ab-a-54a37f34-68dd-4316-85ef-48daed7705b5#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/us-wahl-2024-x-zahlt-nutzern-wohl-tausende-dollar-fuer-desinformation-und-ki-bilder](https://www.spiegel.de/netzwelt/apps/us-wahl-2024-x-zahlt-nutzern-wohl-tausende-dollar-fuer-desinformation-und-ki-bilder-a-b661ba5d-1e9a-44a2-914d-c313ee7ea08d#ref=rss)
-### eigenen
-
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-auch-die-fdp-will-wieder-einen-eigenen-wirtschaftsgipfel-abhalten](https://www.spiegel.de/politik/deutschland/christian-lindner-auch-die-fdp-will-wieder-einen-eigenen-wirtschaftsgipfel-abhalten-a-a8a4e868-10b1-426e-adb0-e5a6d42f7c46#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/openai-entwickelt-offenbar-ersten-eigenen-ki-chip-mit-broadcom-und-tsmc](https://www.spiegel.de/netzwelt/web/openai-entwickelt-offenbar-ersten-eigenen-ki-chip-mit-broadcom-und-tsmc-a-cd38b016-433b-4176-8185-7dde66ef35a0#ref=rss)
-### wirtschaftsgipfel
-
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-auch-die-fdp-will-wieder-einen-eigenen-wirtschaftsgipfel-abhalten](https://www.spiegel.de/politik/deutschland/christian-lindner-auch-die-fdp-will-wieder-einen-eigenen-wirtschaftsgipfel-abhalten-a-a8a4e868-10b1-426e-adb0-e5a6d42f7c46#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-auch-die-fdp-will-wieder-einen-eigenen-wirtschaftsgipfel-abhalten](https://www.spiegel.de/politik/deutschland/christian-lindner-auch-die-fdp-will-wieder-einen-eigenen-wirtschaftsgipfel-abhalten-a-a8a4e868-10b1-426e-adb0-e5a6d42f7c46#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jamshid-sharmahd-hinrichtung-deutscher-botschafter-verlaesst-iran](https://www.spiegel.de/politik/deutschland/jamshid-sharmahd-hinrichtung-deutscher-botschafter-verlaesst-iran-a-e8337661-7fee-4a81-9315-9a2d3fb84958#ref=rss)
-### openai
-
-* [https://www.spiegel.de/netzwelt/web/openai-entwickelt-offenbar-ersten-eigenen-ki-chip-mit-broadcom-und-tsmc](https://www.spiegel.de/netzwelt/web/openai-entwickelt-offenbar-ersten-eigenen-ki-chip-mit-broadcom-und-tsmc-a-cd38b016-433b-4176-8185-7dde66ef35a0#ref=rss)
-### broadcom
-
-* [https://www.spiegel.de/netzwelt/web/openai-entwickelt-offenbar-ersten-eigenen-ki-chip-mit-broadcom-und-tsmc](https://www.spiegel.de/netzwelt/web/openai-entwickelt-offenbar-ersten-eigenen-ki-chip-mit-broadcom-und-tsmc-a-cd38b016-433b-4176-8185-7dde66ef35a0#ref=rss)
-### tsmc
-
-* [https://www.spiegel.de/netzwelt/web/openai-entwickelt-offenbar-ersten-eigenen-ki-chip-mit-broadcom-und-tsmc](https://www.spiegel.de/netzwelt/web/openai-entwickelt-offenbar-ersten-eigenen-ki-chip-mit-broadcom-und-tsmc-a-cd38b016-433b-4176-8185-7dde66ef35a0#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/vogelgrippe-usa-melden-ersten-fall-von-h5n1-virus-bei-schwein](https://www.spiegel.de/wissenschaft/medizin/vogelgrippe-usa-melden-ersten-fall-von-h5n1-virus-bei-schwein-a-a6d31dd2-ebea-4b9b-be42-9ce599efcf58#ref=rss)
+* [https://www.spiegel.de/gesundheit/corona-charite-expertin-zu-schaeden-an-gehirn-und-nervensystem](https://www.spiegel.de/gesundheit/corona-charite-expertin-zu-schaeden-an-gehirn-und-nervensystem-a-ef51e540-b97f-47ae-951a-4f0de36a2b28#ref=rss)
 ### mats
 
-* [https://www.spiegel.de/panorama/leute/mats-hummels-datet-nun-influencerin-nicola-cavanis](https://www.spiegel.de/panorama/leute/mats-hummels-datet-nun-influencerin-nicola-cavanis-a-298d2ffa-b273-4e7a-a140-13b659751445#ref=rss)
-### nicola
+* [https://www.spiegel.de/sport/fussball/ballon-dor-mats-hummels-kritisiert-real-madrid-und-zieht-donald-trump-vergleich](https://www.spiegel.de/sport/fussball/ballon-dor-mats-hummels-kritisiert-real-madrid-und-zieht-donald-trump-vergleich-a-b6420b03-edbc-4e24-8c30-db6fc837b28c#ref=rss)
+### hummels
 
-* [https://www.spiegel.de/panorama/leute/mats-hummels-datet-nun-influencerin-nicola-cavanis](https://www.spiegel.de/panorama/leute/mats-hummels-datet-nun-influencerin-nicola-cavanis-a-298d2ffa-b273-4e7a-a140-13b659751445#ref=rss)
-### cavanis
+* [https://www.spiegel.de/sport/fussball/ballon-dor-mats-hummels-kritisiert-real-madrid-und-zieht-donald-trump-vergleich](https://www.spiegel.de/sport/fussball/ballon-dor-mats-hummels-kritisiert-real-madrid-und-zieht-donald-trump-vergleich-a-b6420b03-edbc-4e24-8c30-db6fc837b28c#ref=rss)
+### real
 
-* [https://www.spiegel.de/panorama/leute/mats-hummels-datet-nun-influencerin-nicola-cavanis](https://www.spiegel.de/panorama/leute/mats-hummels-datet-nun-influencerin-nicola-cavanis-a-298d2ffa-b273-4e7a-a140-13b659751445#ref=rss)
-### viktor
+* [https://www.spiegel.de/sport/fussball/ballon-dor-mats-hummels-kritisiert-real-madrid-und-zieht-donald-trump-vergleich](https://www.spiegel.de/sport/fussball/ballon-dor-mats-hummels-kritisiert-real-madrid-und-zieht-donald-trump-vergleich-a-b6420b03-edbc-4e24-8c30-db6fc837b28c#ref=rss)
+### riesenhamsterratten
 
-* [https://www.spiegel.de/ausland/viktor-orban-schweden-kritisiert-orban-jetzt-bestellt-ungarn-den-botschafter-ein](https://www.spiegel.de/ausland/viktor-orban-schweden-kritisiert-orban-jetzt-bestellt-ungarn-den-botschafter-ein-a-a0f38587-d4db-48ae-8b29-16da6512f2e7#ref=rss)
-### orbán
+* [https://www.spiegel.de/panorama/gesellschaft/riesenhamsterratten-im-einsatz-gegen-wildtier-schmuggel-in-tansania](https://www.spiegel.de/panorama/gesellschaft/riesenhamsterratten-im-einsatz-gegen-wildtier-schmuggel-in-tansania-a-65404f43-b634-4f8b-bcb9-eb9e739a47ac#ref=rss)
+### tansania
 
-* [https://www.spiegel.de/ausland/viktor-orban-schweden-kritisiert-orban-jetzt-bestellt-ungarn-den-botschafter-ein](https://www.spiegel.de/ausland/viktor-orban-schweden-kritisiert-orban-jetzt-bestellt-ungarn-den-botschafter-ein-a-a0f38587-d4db-48ae-8b29-16da6512f2e7#ref=rss)
-### sondern
+* [https://www.spiegel.de/panorama/gesellschaft/riesenhamsterratten-im-einsatz-gegen-wildtier-schmuggel-in-tansania](https://www.spiegel.de/panorama/gesellschaft/riesenhamsterratten-im-einsatz-gegen-wildtier-schmuggel-in-tansania-a-65404f43-b634-4f8b-bcb9-eb9e739a47ac#ref=rss)
+### kommen
 
-* [https://www.spiegel.de/ausland/viktor-orban-schweden-kritisiert-orban-jetzt-bestellt-ungarn-den-botschafter-ein](https://www.spiegel.de/ausland/viktor-orban-schweden-kritisiert-orban-jetzt-bestellt-ungarn-den-botschafter-ein-a-a0f38587-d4db-48ae-8b29-16da6512f2e7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/strafzoelle-fuer-e-autos-aus-china-was-jetzt-auf-die-autokaeufer-zukommt](https://www.spiegel.de/wirtschaft/strafzoelle-fuer-e-autos-aus-china-was-jetzt-auf-die-autokaeufer-zukommt-a-6dfd5430-bcd8-41ee-a50d-7600b47d67f9#ref=rss)
-### reagiert
+* [https://www.spiegel.de/panorama/gesellschaft/riesenhamsterratten-im-einsatz-gegen-wildtier-schmuggel-in-tansania](https://www.spiegel.de/panorama/gesellschaft/riesenhamsterratten-im-einsatz-gegen-wildtier-schmuggel-in-tansania-a-65404f43-b634-4f8b-bcb9-eb9e739a47ac#ref=rss)
+* [https://www.spiegel.de/psychologie/der-koerper-in-den-wechseljahren-wie-wir-nackt-zu-uns-selbst-stehen-koennen](https://www.spiegel.de/psychologie/der-koerper-in-den-wechseljahren-wie-wir-nackt-zu-uns-selbst-stehen-koennen-a-6f919ede-cbe9-4c40-8638-4413654e4e5f#ref=rss)
+### sprengstoff
 
-* [https://www.spiegel.de/ausland/viktor-orban-schweden-kritisiert-orban-jetzt-bestellt-ungarn-den-botschafter-ein](https://www.spiegel.de/ausland/viktor-orban-schweden-kritisiert-orban-jetzt-bestellt-ungarn-den-botschafter-ein-a-a0f38587-d4db-48ae-8b29-16da6512f2e7#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-muslimische-spielerin-in-london-wegen-langer-hose-vom-spiel-ausgeschlossen](https://www.spiegel.de/sport/fussball/fussball-muslimische-spielerin-in-london-wegen-langer-hose-vom-spiel-ausgeschlossen-a-7a21c49b-dccf-4d28-8339-83737b51eac2#ref=rss)
-### mayastadt
+* [https://www.spiegel.de/panorama/justiz/berlin-neukoelln-sprengstoff-war-hochexplosives-tatp-verdaechtiger-weiter-fluechtig](https://www.spiegel.de/panorama/justiz/berlin-neukoelln-sprengstoff-war-hochexplosives-tatp-verdaechtiger-weiter-fluechtig-a-2f4fc5ab-9f82-443d-b9fd-e52ce13e970f#ref=rss)
+### tatp
 
-* [https://www.spiegel.de/wissenschaft/mensch/maya-stadt-in-mexiko-entdeckt-warum-dort-noch-viele-grosse-funde-bevorstehen](https://www.spiegel.de/wissenschaft/mensch/maya-stadt-in-mexiko-entdeckt-warum-dort-noch-viele-grosse-funde-bevorstehen-a-f64b3674-792e-458a-b536-6bd26818317c#ref=rss)
-### große
+* [https://www.spiegel.de/panorama/justiz/berlin-neukoelln-sprengstoff-war-hochexplosives-tatp-verdaechtiger-weiter-fluechtig](https://www.spiegel.de/panorama/justiz/berlin-neukoelln-sprengstoff-war-hochexplosives-tatp-verdaechtiger-weiter-fluechtig-a-2f4fc5ab-9f82-443d-b9fd-e52ce13e970f#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/wissenschaft/mensch/maya-stadt-in-mexiko-entdeckt-warum-dort-noch-viele-grosse-funde-bevorstehen](https://www.spiegel.de/wissenschaft/mensch/maya-stadt-in-mexiko-entdeckt-warum-dort-noch-viele-grosse-funde-bevorstehen-a-f64b3674-792e-458a-b536-6bd26818317c#ref=rss)
-### deutscher
+* [https://www.spiegel.de/panorama/justiz/berlin-neukoelln-sprengstoff-war-hochexplosives-tatp-verdaechtiger-weiter-fluechtig](https://www.spiegel.de/panorama/justiz/berlin-neukoelln-sprengstoff-war-hochexplosives-tatp-verdaechtiger-weiter-fluechtig-a-2f4fc5ab-9f82-443d-b9fd-e52ce13e970f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/koeln-mann-wird-von-ice-ueberrollt-und-stirbt](https://www.spiegel.de/panorama/justiz/koeln-mann-wird-von-ice-ueberrollt-und-stirbt-a-7a643589-a397-4544-b61b-855bd427386d#ref=rss)
+### hannes
 
-* [https://www.spiegel.de/wirtschaft/foerderaffaere-deutscher-wasserstoff-verband-gibt-sich-doppelspitze](https://www.spiegel.de/wirtschaft/foerderaffaere-deutscher-wasserstoff-verband-gibt-sich-doppelspitze-a-85a70d62-9b1d-4e24-bdfc-42db0a46791a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jamshid-sharmahd-hinrichtung-deutscher-botschafter-verlaesst-iran](https://www.spiegel.de/politik/deutschland/jamshid-sharmahd-hinrichtung-deutscher-botschafter-verlaesst-iran-a-e8337661-7fee-4a81-9315-9a2d3fb84958#ref=rss)
-### wasserstoffverband
+* [https://www.spiegel.de/panorama/leute/hannes-jaenicke-haelt-deutschen-humor-fuer-ueberschaetzt](https://www.spiegel.de/panorama/leute/hannes-jaenicke-haelt-deutschen-humor-fuer-ueberschaetzt-a-15217000-fd9e-48d3-871e-039d037815b5#ref=rss)
+### jaenicke
 
-* [https://www.spiegel.de/wirtschaft/foerderaffaere-deutscher-wasserstoff-verband-gibt-sich-doppelspitze](https://www.spiegel.de/wirtschaft/foerderaffaere-deutscher-wasserstoff-verband-gibt-sich-doppelspitze-a-85a70d62-9b1d-4e24-bdfc-42db0a46791a#ref=rss)
-### china
+* [https://www.spiegel.de/panorama/leute/hannes-jaenicke-haelt-deutschen-humor-fuer-ueberschaetzt](https://www.spiegel.de/panorama/leute/hannes-jaenicke-haelt-deutschen-humor-fuer-ueberschaetzt-a-15217000-fd9e-48d3-871e-039d037815b5#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/wirtschaft/strafzoelle-fuer-e-autos-aus-china-was-jetzt-auf-die-autokaeufer-zukommt](https://www.spiegel.de/wirtschaft/strafzoelle-fuer-e-autos-aus-china-was-jetzt-auf-die-autokaeufer-zukommt-a-6dfd5430-bcd8-41ee-a50d-7600b47d67f9#ref=rss)
-### post
+* [https://www.spiegel.de/panorama/leute/hannes-jaenicke-haelt-deutschen-humor-fuer-ueberschaetzt](https://www.spiegel.de/panorama/leute/hannes-jaenicke-haelt-deutschen-humor-fuer-ueberschaetzt-a-15217000-fd9e-48d3-871e-039d037815b5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-christian-lindner-frank-walter-steinmeier-donald-trump](https://www.spiegel.de/politik/deutschland/news-christian-lindner-frank-walter-steinmeier-donald-trump-a-6b92dc00-dfb7-4b8d-b0cf-a1915ebb7b99#ref=rss)
+### humor
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-gibt-gewinnwarnung-heraus](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-gibt-gewinnwarnung-heraus-a-f8a83e2a-d592-4c07-a7a5-86c5fe2f39d0#ref=rss)
-### ismail
+* [https://www.spiegel.de/panorama/leute/hannes-jaenicke-haelt-deutschen-humor-fuer-ueberschaetzt](https://www.spiegel.de/panorama/leute/hannes-jaenicke-haelt-deutschen-humor-fuer-ueberschaetzt-a-15217000-fd9e-48d3-871e-039d037815b5#ref=rss)
+### einmal
 
-* [https://www.spiegel.de/sport/fussball/fussball-muslimische-spielerin-in-london-wegen-langer-hose-vom-spiel-ausgeschlossen](https://www.spiegel.de/sport/fussball/fussball-muslimische-spielerin-in-london-wegen-langer-hose-vom-spiel-ausgeschlossen-a-7a21c49b-dccf-4d28-8339-83737b51eac2#ref=rss)
-### uswahl
+* [https://www.spiegel.de/panorama/leute/hannes-jaenicke-haelt-deutschen-humor-fuer-ueberschaetzt](https://www.spiegel.de/panorama/leute/hannes-jaenicke-haelt-deutschen-humor-fuer-ueberschaetzt-a-15217000-fd9e-48d3-871e-039d037815b5#ref=rss)
+* [https://www.spiegel.de/reise/deutschland/herbstwandern-im-allgaeu-noch-einmal-farben-tanken-vor-dem-winter](https://www.spiegel.de/reise/deutschland/herbstwandern-im-allgaeu-noch-einmal-farben-tanken-vor-dem-winter-a-20e6baf4-3c65-4d7a-9f16-dfd84b7dd599#ref=rss)
+### paris
 
-* [https://www.spiegel.de/netzwelt/apps/us-wahl-2024-x-zahlt-nutzern-wohl-tausende-dollar-fuer-desinformation-und-ki-bilder](https://www.spiegel.de/netzwelt/apps/us-wahl-2024-x-zahlt-nutzern-wohl-tausende-dollar-fuer-desinformation-und-ki-bilder-a-b661ba5d-1e9a-44a2-914d-c313ee7ea08d#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-kamala-harris-vs-donald-trump-was-sie-zur-wahl-wissen-muessen-teil-1](https://www.spiegel.de/ausland/us-wahl-2024-kamala-harris-vs-donald-trump-was-sie-zur-wahl-wissen-muessen-teil-1-a-b74a600b-2b47-4bcf-8bc0-cf36c390d337#ref=rss)
-### 2024
+* [https://www.spiegel.de/sport/fussball/fussball-paris-saint-germain-muss-tribuene-wegen-homophober-gesaenge-teilweise-schliessen](https://www.spiegel.de/sport/fussball/fussball-paris-saint-germain-muss-tribuene-wegen-homophober-gesaenge-teilweise-schliessen-a-83130f46-8105-4b96-a831-b53c456876c7#ref=rss)
+### gesänge
 
-* [https://www.spiegel.de/netzwelt/apps/us-wahl-2024-x-zahlt-nutzern-wohl-tausende-dollar-fuer-desinformation-und-ki-bilder](https://www.spiegel.de/netzwelt/apps/us-wahl-2024-x-zahlt-nutzern-wohl-tausende-dollar-fuer-desinformation-und-ki-bilder-a-b661ba5d-1e9a-44a2-914d-c313ee7ea08d#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-kamala-harris-vs-donald-trump-was-sie-zur-wahl-wissen-muessen-teil-1](https://www.spiegel.de/ausland/us-wahl-2024-kamala-harris-vs-donald-trump-was-sie-zur-wahl-wissen-muessen-teil-1-a-b74a600b-2b47-4bcf-8bc0-cf36c390d337#ref=rss)
-### iran
+* [https://www.spiegel.de/sport/fussball/fussball-paris-saint-germain-muss-tribuene-wegen-homophober-gesaenge-teilweise-schliessen](https://www.spiegel.de/sport/fussball/fussball-paris-saint-germain-muss-tribuene-wegen-homophober-gesaenge-teilweise-schliessen-a-83130f46-8105-4b96-a831-b53c456876c7#ref=rss)
+### unfall
 
-* [https://www.spiegel.de/politik/deutschland/jamshid-sharmahd-hinrichtung-deutscher-botschafter-verlaesst-iran](https://www.spiegel.de/politik/deutschland/jamshid-sharmahd-hinrichtung-deutscher-botschafter-verlaesst-iran-a-e8337661-7fee-4a81-9315-9a2d3fb84958#ref=rss)
-### ricarda
+* [https://www.spiegel.de/panorama/justiz/koeln-mann-wird-von-ice-ueberrollt-und-stirbt](https://www.spiegel.de/panorama/justiz/koeln-mann-wird-von-ice-ueberrollt-und-stirbt-a-7a643589-a397-4544-b61b-855bd427386d#ref=rss)
+### anwälte
 
-* [https://www.spiegel.de/politik/deutschland/gruene-was-friedrich-merz-von-ricarda-lang-lernen-kann](https://www.spiegel.de/politik/deutschland/gruene-was-friedrich-merz-von-ricarda-lang-lernen-kann-a-029c46c8-fcb6-4700-a37d-699f395c77d5#ref=rss)
-### lang
+* [https://www.spiegel.de/panorama/justiz/jva-augsburg-gablingen-anwaelte-der-gefaengnisleitung-attackieren-justizministerium](https://www.spiegel.de/panorama/justiz/jva-augsburg-gablingen-anwaelte-der-gefaengnisleitung-attackieren-justizministerium-a-7d083c28-7001-44b2-8d84-2ca15f24334d#ref=rss)
+### justizministerium
 
-* [https://www.spiegel.de/politik/deutschland/gruene-was-friedrich-merz-von-ricarda-lang-lernen-kann](https://www.spiegel.de/politik/deutschland/gruene-was-friedrich-merz-von-ricarda-lang-lernen-kann-a-029c46c8-fcb6-4700-a37d-699f395c77d5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/jva-augsburg-gablingen-anwaelte-der-gefaengnisleitung-attackieren-justizministerium](https://www.spiegel.de/panorama/justiz/jva-augsburg-gablingen-anwaelte-der-gefaengnisleitung-attackieren-justizministerium-a-7d083c28-7001-44b2-8d84-2ca15f24334d#ref=rss)
+### francis
+
+* [https://www.spiegel.de/geschichte/star-politologe-francis-fukuyama-zu-den-wahlen-in-den-usa-wo-bleibt-jetzt-das-ende-der-geschichte](https://www.spiegel.de/geschichte/star-politologe-francis-fukuyama-zu-den-wahlen-in-den-usa-wo-bleibt-jetzt-das-ende-der-geschichte-a-881ebfed-8788-4ed3-a152-4c1b9329592e#ref=rss)
+### fukuyama
+
+* [https://www.spiegel.de/geschichte/star-politologe-francis-fukuyama-zu-den-wahlen-in-den-usa-wo-bleibt-jetzt-das-ende-der-geschichte](https://www.spiegel.de/geschichte/star-politologe-francis-fukuyama-zu-den-wahlen-in-den-usa-wo-bleibt-jetzt-das-ende-der-geschichte-a-881ebfed-8788-4ed3-a152-4c1b9329592e#ref=rss)
+### trump
+
+* [https://www.spiegel.de/geschichte/star-politologe-francis-fukuyama-zu-den-wahlen-in-den-usa-wo-bleibt-jetzt-das-ende-der-geschichte](https://www.spiegel.de/geschichte/star-politologe-francis-fukuyama-zu-den-wahlen-in-den-usa-wo-bleibt-jetzt-das-ende-der-geschichte-a-881ebfed-8788-4ed3-a152-4c1b9329592e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-christian-lindner-frank-walter-steinmeier-donald-trump](https://www.spiegel.de/politik/deutschland/news-christian-lindner-frank-walter-steinmeier-donald-trump-a-6b92dc00-dfb7-4b8d-b0cf-a1915ebb7b99#ref=rss)
+### ende
+
+* [https://www.spiegel.de/geschichte/star-politologe-francis-fukuyama-zu-den-wahlen-in-den-usa-wo-bleibt-jetzt-das-ende-der-geschichte](https://www.spiegel.de/geschichte/star-politologe-francis-fukuyama-zu-den-wahlen-in-den-usa-wo-bleibt-jetzt-das-ende-der-geschichte-a-881ebfed-8788-4ed3-a152-4c1b9329592e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-christian-lindner-frank-walter-steinmeier-donald-trump](https://www.spiegel.de/politik/deutschland/news-christian-lindner-frank-walter-steinmeier-donald-trump-a-6b92dc00-dfb7-4b8d-b0cf-a1915ebb7b99#ref=rss)
+### geschichte
+
+* [https://www.spiegel.de/geschichte/star-politologe-francis-fukuyama-zu-den-wahlen-in-den-usa-wo-bleibt-jetzt-das-ende-der-geschichte](https://www.spiegel.de/geschichte/star-politologe-francis-fukuyama-zu-den-wahlen-in-den-usa-wo-bleibt-jetzt-das-ende-der-geschichte-a-881ebfed-8788-4ed3-a152-4c1b9329592e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-christian-lindner-frank-walter-steinmeier-donald-trump](https://www.spiegel.de/politik/deutschland/news-christian-lindner-frank-walter-steinmeier-donald-trump-a-6b92dc00-dfb7-4b8d-b0cf-a1915ebb7b99#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-triumphiert-im-dfb-pokal-mainz-ist-nicht-manchester](https://www.spiegel.de/sport/fussball/fc-bayern-triumphiert-im-dfb-pokal-mainz-ist-nicht-manchester-a-e303096e-1b79-4f5c-b807-8a07b3206247#ref=rss)
+### gehirn
+
+* [https://www.spiegel.de/gesundheit/corona-charite-expertin-zu-schaeden-an-gehirn-und-nervensystem](https://www.spiegel.de/gesundheit/corona-charite-expertin-zu-schaeden-an-gehirn-und-nervensystem-a-ef51e540-b97f-47ae-951a-4f0de36a2b28#ref=rss)
+### nervensystem
+
+* [https://www.spiegel.de/gesundheit/corona-charite-expertin-zu-schaeden-an-gehirn-und-nervensystem](https://www.spiegel.de/gesundheit/corona-charite-expertin-zu-schaeden-an-gehirn-und-nervensystem-a-ef51e540-b97f-47ae-951a-4f0de36a2b28#ref=rss)
+### philippinen
+
+* [https://www.spiegel.de/wissenschaft/natur/philippinen-taiwan-super-taifun-kong-rey-sorgt-fuer-schaeden](https://www.spiegel.de/wissenschaft/natur/philippinen-taiwan-super-taifun-kong-rey-sorgt-fuer-schaeden-a-1a44aec8-dc29-4192-9485-0b05f5094b81#ref=rss)
+### taiwan
+
+* [https://www.spiegel.de/wissenschaft/natur/philippinen-taiwan-super-taifun-kong-rey-sorgt-fuer-schaeden](https://www.spiegel.de/wissenschaft/natur/philippinen-taiwan-super-taifun-kong-rey-sorgt-fuer-schaeden-a-1a44aec8-dc29-4192-9485-0b05f5094b81#ref=rss)
+### kongrey
+
+* [https://www.spiegel.de/wissenschaft/natur/philippinen-taiwan-super-taifun-kong-rey-sorgt-fuer-schaeden](https://www.spiegel.de/wissenschaft/natur/philippinen-taiwan-super-taifun-kong-rey-sorgt-fuer-schaeden-a-1a44aec8-dc29-4192-9485-0b05f5094b81#ref=rss)
+### teilzeitkrankschreibungen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/teilzeit-krankschreibungen-dgb-weist-vorstoss-von-aerztepraesident-klaus-reinhardt-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/teilzeit-krankschreibungen-dgb-weist-vorstoss-von-aerztepraesident-klaus-reinhardt-zurueck-a-55571bc5-b72b-4fc5-82e8-58fb679567d1#ref=rss)
+### ärztepräsident
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/teilzeit-krankschreibungen-dgb-weist-vorstoss-von-aerztepraesident-klaus-reinhardt-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/teilzeit-krankschreibungen-dgb-weist-vorstoss-von-aerztepraesident-klaus-reinhardt-zurueck-a-55571bc5-b72b-4fc5-82e8-58fb679567d1#ref=rss)
+### reinhardt
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/teilzeit-krankschreibungen-dgb-weist-vorstoss-von-aerztepraesident-klaus-reinhardt-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/teilzeit-krankschreibungen-dgb-weist-vorstoss-von-aerztepraesident-klaus-reinhardt-zurueck-a-55571bc5-b72b-4fc5-82e8-58fb679567d1#ref=rss)
+### allgäu
+
+* [https://www.spiegel.de/reise/deutschland/herbstwandern-im-allgaeu-noch-einmal-farben-tanken-vor-dem-winter](https://www.spiegel.de/reise/deutschland/herbstwandern-im-allgaeu-noch-einmal-farben-tanken-vor-dem-winter-a-20e6baf4-3c65-4d7a-9f16-dfd84b7dd599#ref=rss)
+### javier
+
+* [https://www.spiegel.de/ausland/argentinien-javier-milei-feuert-aussenministerin-nach-kuba-abstimmung-der-uno](https://www.spiegel.de/ausland/argentinien-javier-milei-feuert-aussenministerin-nach-kuba-abstimmung-der-uno-a-4a0e7d4b-14d3-4aa5-adff-c2255695d088#ref=rss)
+### milei
+
+* [https://www.spiegel.de/ausland/argentinien-javier-milei-feuert-aussenministerin-nach-kuba-abstimmung-der-uno](https://www.spiegel.de/ausland/argentinien-javier-milei-feuert-aussenministerin-nach-kuba-abstimmung-der-uno-a-4a0e7d4b-14d3-4aa5-adff-c2255695d088#ref=rss)
+### außenministerin
+
+* [https://www.spiegel.de/ausland/argentinien-javier-milei-feuert-aussenministerin-nach-kuba-abstimmung-der-uno](https://www.spiegel.de/ausland/argentinien-javier-milei-feuert-aussenministerin-nach-kuba-abstimmung-der-uno-a-4a0e7d4b-14d3-4aa5-adff-c2255695d088#ref=rss)
+### erinnerungskultur
+
+* [https://www.spiegel.de/politik/deutschland/weltkriegsverbrechen-deutsche-diplomaten-kritisieren-kuerzungen-bei-der-erinnerungskultur](https://www.spiegel.de/politik/deutschland/weltkriegsverbrechen-deutsche-diplomaten-kritisieren-kuerzungen-bei-der-erinnerungskultur-a-79558d4f-a091-45ab-90f3-803b79aca913#ref=rss)
+### bundespräsident
+
+* [https://www.spiegel.de/politik/deutschland/weltkriegsverbrechen-deutsche-diplomaten-kritisieren-kuerzungen-bei-der-erinnerungskultur](https://www.spiegel.de/politik/deutschland/weltkriegsverbrechen-deutsche-diplomaten-kritisieren-kuerzungen-bei-der-erinnerungskultur-a-79558d4f-a091-45ab-90f3-803b79aca913#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-christian-lindner-frank-walter-steinmeier-donald-trump](https://www.spiegel.de/politik/deutschland/news-christian-lindner-frank-walter-steinmeier-donald-trump-a-6b92dc00-dfb7-4b8d-b0cf-a1915ebb7b99#ref=rss)
+### steinmeier
+
+* [https://www.spiegel.de/politik/deutschland/weltkriegsverbrechen-deutsche-diplomaten-kritisieren-kuerzungen-bei-der-erinnerungskultur](https://www.spiegel.de/politik/deutschland/weltkriegsverbrechen-deutsche-diplomaten-kritisieren-kuerzungen-bei-der-erinnerungskultur-a-79558d4f-a091-45ab-90f3-803b79aca913#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-christian-lindner-frank-walter-steinmeier-donald-trump](https://www.spiegel.de/politik/deutschland/news-christian-lindner-frank-walter-steinmeier-donald-trump-a-6b92dc00-dfb7-4b8d-b0cf-a1915ebb7b99#ref=rss)
+### antwort
+
+* [https://www.spiegel.de/psychologie/der-koerper-in-den-wechseljahren-wie-wir-nackt-zu-uns-selbst-stehen-koennen](https://www.spiegel.de/psychologie/der-koerper-in-den-wechseljahren-wie-wir-nackt-zu-uns-selbst-stehen-koennen-a-6f919ede-cbe9-4c40-8638-4413654e4e5f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-christian-lindner-frank-walter-steinmeier-donald-trump](https://www.spiegel.de/politik/deutschland/news-christian-lindner-frank-walter-steinmeier-donald-trump-a-6b92dc00-dfb7-4b8d-b0cf-a1915ebb7b99#ref=rss)
 
