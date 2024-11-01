@@ -4,320 +4,340 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### halloween
-
-* [https://www.spiegel.de/kultur/halloween-kostuem-janelle-monae-verwandelt-sich-in-alien](https://www.spiegel.de/kultur/halloween-kostuem-janelle-monae-verwandelt-sich-in-alien-a-586c1133-000c-4a45-aaf7-14c76cd7cbe3#ref=rss)
-* [https://www.spiegel.de/kultur/halloween-renaissance-der-vampire-das-blutsauger-motiv-in-aktuellen-serien-und-filmen](https://www.spiegel.de/kultur/halloween-renaissance-der-vampire-das-blutsauger-motiv-in-aktuellen-serien-und-filmen-a-e895f74b-7d67-4f80-b8bc-682d47887e2e#ref=rss)
-* [https://www.spiegel.de/kultur/neue-kostueme-fuer-halloween-2024-tradwives-bodyhorror-klaus-biesenbach](https://www.spiegel.de/kultur/neue-kostueme-fuer-halloween-2024-tradwives-bodyhorror-klaus-biesenbach-a-8475101f-b35a-4642-81bb-fc75e3ea70fe#ref=rss)
-* [https://www.spiegel.de/kultur/kino/halloween-das-sind-die-besten-grusel-filme-fuer-den-31-oktober](https://www.spiegel.de/kultur/kino/halloween-das-sind-die-besten-grusel-filme-fuer-den-31-oktober-a-7edc41ff-95cd-43b2-bc77-6cd9e28be625#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/halloween-wie-erschreckt-man-eine-ki-herr-brinkmann](https://www.spiegel.de/wissenschaft/technik/halloween-wie-erschreckt-man-eine-ki-herr-brinkmann-a-3767f09c-babf-49f3-a7e8-a61c7a27c470#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/kultur/musik/stefan-raab-und-der-esc-2025-wie-er-fuer-deutschland-gewinnen-will](https://www.spiegel.de/kultur/musik/stefan-raab-und-der-esc-2025-wie-er-fuer-deutschland-gewinnen-will-a-0378b49a-6145-4cbb-b436-9d3b81290d93#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-signa-prime-wird-endgueltig-in-konkurs-geschickt](https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-signa-prime-wird-endgueltig-in-konkurs-geschickt-a-533d0bc7-a7f7-4670-86c0-9c44553efda3#ref=rss)
-### eukommission
+* [https://www.spiegel.de/panorama/peanut-instagram-eichhoernchen-von-behoerden-beschlagnahmt](https://www.spiegel.de/panorama/peanut-instagram-eichhoernchen-von-behoerden-beschlagnahmt-a-c7c35cde-abb3-4371-a7bf-68e05340f79b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagspraesidentin-baerbel-bas-kritisiert-haerteren-debattenton-im-bundestag](https://www.spiegel.de/politik/deutschland/bundestagspraesidentin-baerbel-bas-kritisiert-haerteren-debattenton-im-bundestag-a-929288b2-2aad-4a62-9fdb-82c7509945c3#ref=rss)
+* [https://www.spiegel.de/auto/paris-verbannt-pkw-durchgangsverkehr-aus-dem-stadtzentrum](https://www.spiegel.de/auto/paris-verbannt-pkw-durchgangsverkehr-aus-dem-stadtzentrum-a-71ade922-2110-4342-90a5-4b407361be85#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-fdp-gruene-die-ampel-koalition-am-ende-neuwahlen-dringend-erforderlich](https://www.spiegel.de/politik/deutschland/spd-fdp-gruene-die-ampel-koalition-am-ende-neuwahlen-dringend-erforderlich-a-23ed45fb-9e44-4393-a6f4-784e7ebd2a46#ref=rss)
+* [https://www.spiegel.de/panorama/spanien-schickt-mehr-einsatzkraefte-ins-katastrophengebiet](https://www.spiegel.de/panorama/spanien-schickt-mehr-einsatzkraefte-ins-katastrophengebiet-a-4ab96639-ecc0-43ca-80b9-c04d91ebbf78#ref=rss)
+### sechs
 
-* [https://www.spiegel.de/wirtschaft/eu-kommission-millionenstrafe-gegen-pharmariesen-teva](https://www.spiegel.de/wirtschaft/eu-kommission-millionenstrafe-gegen-pharmariesen-teva-a-a918130d-2257-45e3-9178-acc930456689#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/temu-eu-kommission-eroeffnet-verfahren-wegen-gefaelschter-und-gefaehrlicher-produkte](https://www.spiegel.de/netzwelt/netzpolitik/temu-eu-kommission-eroeffnet-verfahren-wegen-gefaelschter-und-gefaehrlicher-produkte-a-86ea512d-30c8-4ca3-a536-c2ff02a864d7#ref=rss)
-### teva
+* [https://www.spiegel.de/geschichte/ddr-zwangsarbeiter-ikea-will-sed-opfer-mit-sechs-millionen-euro-entschaedigen](https://www.spiegel.de/geschichte/ddr-zwangsarbeiter-ikea-will-sed-opfer-mit-sechs-millionen-euro-entschaedigen-a-2d02268b-dc36-45f0-a1b2-089aca0036c0#ref=rss)
+* [https://www.spiegel.de/panorama/brasilien-sechs-jahre-nach-mord-an-marielle-franco-hohe-haftstrafen-fuer-zwei-taeter](https://www.spiegel.de/panorama/brasilien-sechs-jahre-nach-mord-an-marielle-franco-hohe-haftstrafen-fuer-zwei-taeter-a-8e065e55-a3cc-4d1d-a9b7-a90ae086b03c#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/wirtschaft/eu-kommission-millionenstrafe-gegen-pharmariesen-teva](https://www.spiegel.de/wirtschaft/eu-kommission-millionenstrafe-gegen-pharmariesen-teva-a-a918130d-2257-45e3-9178-acc930456689#ref=rss)
-### menschen
+* [https://www.spiegel.de/politik/deutschland/thueringen-bsw-beugt-sich-sahra-wagenknechts-kritik](https://www.spiegel.de/politik/deutschland/thueringen-bsw-beugt-sich-sahra-wagenknechts-kritik-a-f1452d44-4806-4748-9ae5-7bac97c93562#ref=rss)
+* [https://www.spiegel.de/karriere/berliner-tramfahrer-gekuendigt-nach-facebook-post-was-man-auf-social-media-posten-darf-so-ist-die-rechtslage](https://www.spiegel.de/karriere/berliner-tramfahrer-gekuendigt-nach-facebook-post-was-man-auf-social-media-posten-darf-so-ist-die-rechtslage-a-b25a9894-38d8-4465-b201-c59dd529e128#ref=rss)
+* [https://www.spiegel.de/panorama/polizeieinsaetze-zu-halloween-boeller-und-eier-flogen-in-hannover-und-gelsenkirchen](https://www.spiegel.de/panorama/polizeieinsaetze-zu-halloween-boeller-und-eier-flogen-in-hannover-und-gelsenkirchen-a-b3150845-d676-4639-b43c-f32147603714#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/wirtschaft/eu-kommission-millionenstrafe-gegen-pharmariesen-teva](https://www.spiegel.de/wirtschaft/eu-kommission-millionenstrafe-gegen-pharmariesen-teva-a-a918130d-2257-45e3-9178-acc930456689#ref=rss)
-* [https://www.spiegel.de/kultur/neue-kostueme-fuer-halloween-2024-tradwives-bodyhorror-klaus-biesenbach](https://www.spiegel.de/kultur/neue-kostueme-fuer-halloween-2024-tradwives-bodyhorror-klaus-biesenbach-a-8475101f-b35a-4642-81bb-fc75e3ea70fe#ref=rss)
-* [https://www.spiegel.de/panorama/spanien-nach-den-sturzfluten-rettungskraefte-suchen-nach-vermissten-und-schuldigen](https://www.spiegel.de/panorama/spanien-nach-den-sturzfluten-rettungskraefte-suchen-nach-vermissten-und-schuldigen-a-bb276967-40fb-47ab-98c1-d2d183aebf17#ref=rss)
-### neue
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-nach-tod-einer-vierjaehrigen-10-jahre-haft-fuer-narkosearzt](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-nach-tod-einer-vierjaehrigen-10-jahre-haft-fuer-narkosearzt-a-4cfaac0b-82f2-428e-9ced-1cc44c2f5234#ref=rss)
+* [https://www.spiegel.de/fitness/sporttrend-fitnesstracker-misst-ihre-smartwatch-mist](https://www.spiegel.de/fitness/sporttrend-fitnesstracker-misst-ihre-smartwatch-mist-a-c3a00f4c-fcfd-4cfd-9978-0c4279f45c4a#ref=rss)
+* [https://www.spiegel.de/panorama/brasilien-sechs-jahre-nach-mord-an-marielle-franco-hohe-haftstrafen-fuer-zwei-taeter](https://www.spiegel.de/panorama/brasilien-sechs-jahre-nach-mord-an-marielle-franco-hohe-haftstrafen-fuer-zwei-taeter-a-8e065e55-a3cc-4d1d-a9b7-a90ae086b03c#ref=rss)
+### brasilien
 
-* [https://www.spiegel.de/kultur/luce-das-neue-maskottchen-der-katholischen-kirche](https://www.spiegel.de/kultur/luce-das-neue-maskottchen-der-katholischen-kirche-a-2b79de9c-f097-4b97-b08b-ff6f246a5082#ref=rss)
-* [https://www.spiegel.de/kultur/neue-kostueme-fuer-halloween-2024-tradwives-bodyhorror-klaus-biesenbach](https://www.spiegel.de/kultur/neue-kostueme-fuer-halloween-2024-tradwives-bodyhorror-klaus-biesenbach-a-8475101f-b35a-4642-81bb-fc75e3ea70fe#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/aldi-sued-muss-sonderangebote-anders-kennzeichnen](https://www.spiegel.de/wirtschaft/unternehmen/aldi-sued-muss-sonderangebote-anders-kennzeichnen-a-0dad22d4-8c1d-4a2f-b95d-79caa88c0294#ref=rss)
-### jahr
+* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-darf-ehemaliges-auto-von-ayrton-senna-fahren](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-darf-ehemaliges-auto-von-ayrton-senna-fahren-a-5fecf434-c350-4934-a007-e6355281479f#ref=rss)
+* [https://www.spiegel.de/panorama/brasilien-sechs-jahre-nach-mord-an-marielle-franco-hohe-haftstrafen-fuer-zwei-taeter](https://www.spiegel.de/panorama/brasilien-sechs-jahre-nach-mord-an-marielle-franco-hohe-haftstrafen-fuer-zwei-taeter-a-8e065e55-a3cc-4d1d-a9b7-a90ae086b03c#ref=rss)
+### ddrzwangsarbeiter
 
-* [https://www.spiegel.de/kultur/luce-das-neue-maskottchen-der-katholischen-kirche](https://www.spiegel.de/kultur/luce-das-neue-maskottchen-der-katholischen-kirche-a-2b79de9c-f097-4b97-b08b-ff6f246a5082#ref=rss)
-* [https://www.spiegel.de/kultur/neue-kostueme-fuer-halloween-2024-tradwives-bodyhorror-klaus-biesenbach](https://www.spiegel.de/kultur/neue-kostueme-fuer-halloween-2024-tradwives-bodyhorror-klaus-biesenbach-a-8475101f-b35a-4642-81bb-fc75e3ea70fe#ref=rss)
-* [https://www.spiegel.de/kultur/kino/halloween-das-sind-die-besten-grusel-filme-fuer-den-31-oktober](https://www.spiegel.de/kultur/kino/halloween-das-sind-die-besten-grusel-filme-fuer-den-31-oktober-a-7edc41ff-95cd-43b2-bc77-6cd9e28be625#ref=rss)
-### hexe
+* [https://www.spiegel.de/geschichte/ddr-zwangsarbeiter-ikea-will-sed-opfer-mit-sechs-millionen-euro-entschaedigen](https://www.spiegel.de/geschichte/ddr-zwangsarbeiter-ikea-will-sed-opfer-mit-sechs-millionen-euro-entschaedigen-a-2d02268b-dc36-45f0-a1b2-089aca0036c0#ref=rss)
+### millionen
 
-* [https://www.spiegel.de/kultur/neue-kostueme-fuer-halloween-2024-tradwives-bodyhorror-klaus-biesenbach](https://www.spiegel.de/kultur/neue-kostueme-fuer-halloween-2024-tradwives-bodyhorror-klaus-biesenbach-a-8475101f-b35a-4642-81bb-fc75e3ea70fe#ref=rss)
-### news
+* [https://www.spiegel.de/geschichte/ddr-zwangsarbeiter-ikea-will-sed-opfer-mit-sechs-millionen-euro-entschaedigen](https://www.spiegel.de/geschichte/ddr-zwangsarbeiter-ikea-will-sed-opfer-mit-sechs-millionen-euro-entschaedigen-a-2d02268b-dc36-45f0-a1b2-089aca0036c0#ref=rss)
+### euro
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-sprengstofffund-in-berlin-krieg-in-der-ukraine-kampf-gegen-machtmissbrauch-metoo](https://www.spiegel.de/politik/deutschland/news-des-tages-sprengstofffund-in-berlin-krieg-in-der-ukraine-kampf-gegen-machtmissbrauch-metoo-a-34903a7d-d0b5-4ba3-afc3-f5c104f7d44d#ref=rss)
-* [https://www.spiegel.de/kultur/tv/rishi-sunak-unkritisch-befragt-tv-sender-gb-news-soll-100-000-pfund-strafe-zahlen](https://www.spiegel.de/kultur/tv/rishi-sunak-unkritisch-befragt-tv-sender-gb-news-soll-100-000-pfund-strafe-zahlen-a-ecd60def-4949-4306-b470-0c3f49d5799d#ref=rss)
-### krieg
+* [https://www.spiegel.de/geschichte/ddr-zwangsarbeiter-ikea-will-sed-opfer-mit-sechs-millionen-euro-entschaedigen](https://www.spiegel.de/geschichte/ddr-zwangsarbeiter-ikea-will-sed-opfer-mit-sechs-millionen-euro-entschaedigen-a-2d02268b-dc36-45f0-a1b2-089aca0036c0#ref=rss)
+### entschädigen
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-sprengstofffund-in-berlin-krieg-in-der-ukraine-kampf-gegen-machtmissbrauch-metoo](https://www.spiegel.de/politik/deutschland/news-des-tages-sprengstofffund-in-berlin-krieg-in-der-ukraine-kampf-gegen-machtmissbrauch-metoo-a-34903a7d-d0b5-4ba3-afc3-f5c104f7d44d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/thueringen-wahl-bsw-spitze-stellt-bedingungen-fuer-regierungsbildung-in-erfurt](https://www.spiegel.de/politik/deutschland/thueringen-wahl-bsw-spitze-stellt-bedingungen-fuer-regierungsbildung-in-erfurt-a-9fed1a8b-8269-45f2-a923-fe8b66411d9a#ref=rss)
-### polizei
+* [https://www.spiegel.de/geschichte/ddr-zwangsarbeiter-ikea-will-sed-opfer-mit-sechs-millionen-euro-entschaedigen](https://www.spiegel.de/geschichte/ddr-zwangsarbeiter-ikea-will-sed-opfer-mit-sechs-millionen-euro-entschaedigen-a-2d02268b-dc36-45f0-a1b2-089aca0036c0#ref=rss)
+### ehemalige
 
-* [https://www.spiegel.de/panorama/justiz/london-festnahme-nach-diebstahl-von-22-tonnen-luxus-cheddar](https://www.spiegel.de/panorama/justiz/london-festnahme-nach-diebstahl-von-22-tonnen-luxus-cheddar-a-c4aee1da-0f40-461b-8ce2-b0eeac385d3c#ref=rss)
-* [https://www.spiegel.de/panorama/landkreis-konstanz-mann-liefert-sich-verfolgungsjagd-mit-polizei-ueber-80-kilometer](https://www.spiegel.de/panorama/landkreis-konstanz-mann-liefert-sich-verfolgungsjagd-mit-polizei-ueber-80-kilometer-a-7f2aaa88-6699-4b05-a78f-2f41c091a558#ref=rss)
-### halloweenkostüm
+* [https://www.spiegel.de/geschichte/ddr-zwangsarbeiter-ikea-will-sed-opfer-mit-sechs-millionen-euro-entschaedigen](https://www.spiegel.de/geschichte/ddr-zwangsarbeiter-ikea-will-sed-opfer-mit-sechs-millionen-euro-entschaedigen-a-2d02268b-dc36-45f0-a1b2-089aca0036c0#ref=rss)
+* [https://www.spiegel.de/panorama/brasilien-sechs-jahre-nach-mord-an-marielle-franco-hohe-haftstrafen-fuer-zwei-taeter](https://www.spiegel.de/panorama/brasilien-sechs-jahre-nach-mord-an-marielle-franco-hohe-haftstrafen-fuer-zwei-taeter-a-8e065e55-a3cc-4d1d-a9b7-a90ae086b03c#ref=rss)
+### deutscher
 
-* [https://www.spiegel.de/kultur/halloween-kostuem-janelle-monae-verwandelt-sich-in-alien](https://www.spiegel.de/kultur/halloween-kostuem-janelle-monae-verwandelt-sich-in-alien-a-586c1133-000c-4a45-aaf7-14c76cd7cbe3#ref=rss)
-* [https://www.spiegel.de/kultur/halloween-renaissance-der-vampire-das-blutsauger-motiv-in-aktuellen-serien-und-filmen](https://www.spiegel.de/kultur/halloween-renaissance-der-vampire-das-blutsauger-motiv-in-aktuellen-serien-und-filmen-a-e895f74b-7d67-4f80-b8bc-682d47887e2e#ref=rss)
-### janelle
+* [https://www.spiegel.de/geschichte/ddr-zwangsarbeiter-ikea-will-sed-opfer-mit-sechs-millionen-euro-entschaedigen](https://www.spiegel.de/geschichte/ddr-zwangsarbeiter-ikea-will-sed-opfer-mit-sechs-millionen-euro-entschaedigen-a-2d02268b-dc36-45f0-a1b2-089aca0036c0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-mckinsey-studie-fast-jeder-zweite-industriebetrieb-will-ins-ausland-expandieren](https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-mckinsey-studie-fast-jeder-zweite-industriebetrieb-will-ins-ausland-expandieren-a-2016e04c-6c8c-460a-919e-1daaafe22b6f#ref=rss)
+### 7
 
-* [https://www.spiegel.de/kultur/halloween-kostuem-janelle-monae-verwandelt-sich-in-alien](https://www.spiegel.de/kultur/halloween-kostuem-janelle-monae-verwandelt-sich-in-alien-a-586c1133-000c-4a45-aaf7-14c76cd7cbe3#ref=rss)
-### monáe
+* [https://www.spiegel.de/netzwelt/web/7-vs-wild-star-joe-vogel-im-interview-leute-fuehlen-sich-von-mir-bedroht-weil-ich-reden-kann](https://www.spiegel.de/netzwelt/web/7-vs-wild-star-joe-vogel-im-interview-leute-fuehlen-sich-von-mir-bedroht-weil-ich-reden-kann-a-ee4651ea-80fc-40e7-9b3a-cb639a51e277#ref=rss)
+### vs
 
-* [https://www.spiegel.de/kultur/halloween-kostuem-janelle-monae-verwandelt-sich-in-alien](https://www.spiegel.de/kultur/halloween-kostuem-janelle-monae-verwandelt-sich-in-alien-a-586c1133-000c-4a45-aaf7-14c76cd7cbe3#ref=rss)
-### dank
+* [https://www.spiegel.de/netzwelt/web/7-vs-wild-star-joe-vogel-im-interview-leute-fuehlen-sich-von-mir-bedroht-weil-ich-reden-kann](https://www.spiegel.de/netzwelt/web/7-vs-wild-star-joe-vogel-im-interview-leute-fuehlen-sich-von-mir-bedroht-weil-ich-reden-kann-a-ee4651ea-80fc-40e7-9b3a-cb639a51e277#ref=rss)
+### joe
 
-* [https://www.spiegel.de/kultur/halloween-kostuem-janelle-monae-verwandelt-sich-in-alien](https://www.spiegel.de/kultur/halloween-kostuem-janelle-monae-verwandelt-sich-in-alien-a-586c1133-000c-4a45-aaf7-14c76cd7cbe3#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/facebook-klagen-um-datenschutzverstoesse-bundesgerichtshof-beendet-verzoegerungstaktik](https://www.spiegel.de/netzwelt/netzpolitik/facebook-klagen-um-datenschutzverstoesse-bundesgerichtshof-beendet-verzoegerungstaktik-a-93581cc0-c18e-4886-a7e9-ca5ef456b324#ref=rss)
-### lisa
+* [https://www.spiegel.de/netzwelt/web/7-vs-wild-star-joe-vogel-im-interview-leute-fuehlen-sich-von-mir-bedroht-weil-ich-reden-kann](https://www.spiegel.de/netzwelt/web/7-vs-wild-star-joe-vogel-im-interview-leute-fuehlen-sich-von-mir-bedroht-weil-ich-reden-kann-a-ee4651ea-80fc-40e7-9b3a-cb639a51e277#ref=rss)
+### vogel
 
-* [https://www.spiegel.de/politik/deutschland/lisa-paus-ueber-das-alleinsein-ein-voller-terminkalender-schuetzt-nicht-davor-einsam-zu-sein](https://www.spiegel.de/politik/deutschland/lisa-paus-ueber-das-alleinsein-ein-voller-terminkalender-schuetzt-nicht-davor-einsam-zu-sein-a-c9c884ec-608a-49d5-bacf-944e5e0c5d4e#ref=rss)
-### paus
+* [https://www.spiegel.de/netzwelt/web/7-vs-wild-star-joe-vogel-im-interview-leute-fuehlen-sich-von-mir-bedroht-weil-ich-reden-kann](https://www.spiegel.de/netzwelt/web/7-vs-wild-star-joe-vogel-im-interview-leute-fuehlen-sich-von-mir-bedroht-weil-ich-reden-kann-a-ee4651ea-80fc-40e7-9b3a-cb639a51e277#ref=rss)
+### bedroht
 
-* [https://www.spiegel.de/politik/deutschland/lisa-paus-ueber-das-alleinsein-ein-voller-terminkalender-schuetzt-nicht-davor-einsam-zu-sein](https://www.spiegel.de/politik/deutschland/lisa-paus-ueber-das-alleinsein-ein-voller-terminkalender-schuetzt-nicht-davor-einsam-zu-sein-a-c9c884ec-608a-49d5-bacf-944e5e0c5d4e#ref=rss)
-### problem
+* [https://www.spiegel.de/netzwelt/web/7-vs-wild-star-joe-vogel-im-interview-leute-fuehlen-sich-von-mir-bedroht-weil-ich-reden-kann](https://www.spiegel.de/netzwelt/web/7-vs-wild-star-joe-vogel-im-interview-leute-fuehlen-sich-von-mir-bedroht-weil-ich-reden-kann-a-ee4651ea-80fc-40e7-9b3a-cb639a51e277#ref=rss)
+* [https://www.spiegel.de/wirtschaft/volkswagen-osnabrueck-in-sorge-welches-vw-werk-ist-bedroht](https://www.spiegel.de/wirtschaft/volkswagen-osnabrueck-in-sorge-welches-vw-werk-ist-bedroht-a-a8cadd88-71d4-4419-b5c1-96ac228acf04#ref=rss)
+### derzeit
 
-* [https://www.spiegel.de/politik/deutschland/lisa-paus-ueber-das-alleinsein-ein-voller-terminkalender-schuetzt-nicht-davor-einsam-zu-sein](https://www.spiegel.de/politik/deutschland/lisa-paus-ueber-das-alleinsein-ein-voller-terminkalender-schuetzt-nicht-davor-einsam-zu-sein-a-c9c884ec-608a-49d5-bacf-944e5e0c5d4e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/halloween-wie-erschreckt-man-eine-ki-herr-brinkmann](https://www.spiegel.de/wissenschaft/technik/halloween-wie-erschreckt-man-eine-ki-herr-brinkmann-a-3767f09c-babf-49f3-a7e8-a61c7a27c470#ref=rss)
-### hohe
+* [https://www.spiegel.de/netzwelt/web/7-vs-wild-star-joe-vogel-im-interview-leute-fuehlen-sich-von-mir-bedroht-weil-ich-reden-kann](https://www.spiegel.de/netzwelt/web/7-vs-wild-star-joe-vogel-im-interview-leute-fuehlen-sich-von-mir-bedroht-weil-ich-reden-kann-a-ee4651ea-80fc-40e7-9b3a-cb639a51e277#ref=rss)
+* [https://www.spiegel.de/wirtschaft/boeing-bessert-lohnangebot-im-tarifstreit-fuer-seine-arbeiter-auf-38-prozent-nach](https://www.spiegel.de/wirtschaft/boeing-bessert-lohnangebot-im-tarifstreit-fuer-seine-arbeiter-auf-38-prozent-nach-a-69a9a19b-3990-446e-af65-5975634f6dd4#ref=rss)
+### gruppe
 
-* [https://www.spiegel.de/wirtschaft/eu-kommission-millionenstrafe-gegen-pharmariesen-teva](https://www.spiegel.de/wirtschaft/eu-kommission-millionenstrafe-gegen-pharmariesen-teva-a-a918130d-2257-45e3-9178-acc930456689#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/temu-eu-kommission-eroeffnet-verfahren-wegen-gefaelschter-und-gefaehrlicher-produkte](https://www.spiegel.de/netzwelt/netzpolitik/temu-eu-kommission-eroeffnet-verfahren-wegen-gefaelschter-und-gefaehrlicher-produkte-a-86ea512d-30c8-4ca3-a536-c2ff02a864d7#ref=rss)
-### umgang
+* [https://www.spiegel.de/netzwelt/web/7-vs-wild-star-joe-vogel-im-interview-leute-fuehlen-sich-von-mir-bedroht-weil-ich-reden-kann](https://www.spiegel.de/netzwelt/web/7-vs-wild-star-joe-vogel-im-interview-leute-fuehlen-sich-von-mir-bedroht-weil-ich-reden-kann-a-ee4651ea-80fc-40e7-9b3a-cb639a51e277#ref=rss)
+* [https://www.spiegel.de/karriere/berliner-tramfahrer-gekuendigt-nach-facebook-post-was-man-auf-social-media-posten-darf-so-ist-die-rechtslage](https://www.spiegel.de/karriere/berliner-tramfahrer-gekuendigt-nach-facebook-post-was-man-auf-social-media-posten-darf-so-ist-die-rechtslage-a-b25a9894-38d8-4465-b201-c59dd529e128#ref=rss)
+### peanut
 
-* [https://www.spiegel.de/politik/deutschland/umgang-mit-teheran-in-der-iranpolitik-ist-baerbock-eine-getriebene](https://www.spiegel.de/politik/deutschland/umgang-mit-teheran-in-der-iranpolitik-ist-baerbock-eine-getriebene-a-421b5aec-2f58-4ebe-96f3-e2f89b858002#ref=rss)
-### teheran
+* [https://www.spiegel.de/panorama/peanut-instagram-eichhoernchen-von-behoerden-beschlagnahmt](https://www.spiegel.de/panorama/peanut-instagram-eichhoernchen-von-behoerden-beschlagnahmt-a-c7c35cde-abb3-4371-a7bf-68e05340f79b#ref=rss)
+### behörden
 
-* [https://www.spiegel.de/politik/deutschland/umgang-mit-teheran-in-der-iranpolitik-ist-baerbock-eine-getriebene](https://www.spiegel.de/politik/deutschland/umgang-mit-teheran-in-der-iranpolitik-ist-baerbock-eine-getriebene-a-421b5aec-2f58-4ebe-96f3-e2f89b858002#ref=rss)
-### baerbock
+* [https://www.spiegel.de/panorama/peanut-instagram-eichhoernchen-von-behoerden-beschlagnahmt](https://www.spiegel.de/panorama/peanut-instagram-eichhoernchen-von-behoerden-beschlagnahmt-a-c7c35cde-abb3-4371-a7bf-68e05340f79b#ref=rss)
+### beschlagnahmt
 
-* [https://www.spiegel.de/politik/deutschland/umgang-mit-teheran-in-der-iranpolitik-ist-baerbock-eine-getriebene](https://www.spiegel.de/politik/deutschland/umgang-mit-teheran-in-der-iranpolitik-ist-baerbock-eine-getriebene-a-421b5aec-2f58-4ebe-96f3-e2f89b858002#ref=rss)
-### deutschen
+* [https://www.spiegel.de/panorama/peanut-instagram-eichhoernchen-von-behoerden-beschlagnahmt](https://www.spiegel.de/panorama/peanut-instagram-eichhoernchen-von-behoerden-beschlagnahmt-a-c7c35cde-abb3-4371-a7bf-68e05340f79b#ref=rss)
+### thüringen
 
-* [https://www.spiegel.de/politik/deutschland/umgang-mit-teheran-in-der-iranpolitik-ist-baerbock-eine-getriebene](https://www.spiegel.de/politik/deutschland/umgang-mit-teheran-in-der-iranpolitik-ist-baerbock-eine-getriebene-a-421b5aec-2f58-4ebe-96f3-e2f89b858002#ref=rss)
-* [https://www.spiegel.de/politik/frank-walter-steinmeier-in-griechenland-bitte-um-vergebung-fuer-deutsche-verbrechen](https://www.spiegel.de/politik/frank-walter-steinmeier-in-griechenland-bitte-um-vergebung-fuer-deutsche-verbrechen-a-e65c41b9-2b1a-4724-9a54-c865d65d51bb#ref=rss)
-### grünen
+* [https://www.spiegel.de/politik/deutschland/thueringen-bsw-beugt-sich-sahra-wagenknechts-kritik](https://www.spiegel.de/politik/deutschland/thueringen-bsw-beugt-sich-sahra-wagenknechts-kritik-a-f1452d44-4806-4748-9ae5-7bac97c93562#ref=rss)
+### bsw
 
-* [https://www.spiegel.de/politik/deutschland/umgang-mit-teheran-in-der-iranpolitik-ist-baerbock-eine-getriebene](https://www.spiegel.de/politik/deutschland/umgang-mit-teheran-in-der-iranpolitik-ist-baerbock-eine-getriebene-a-421b5aec-2f58-4ebe-96f3-e2f89b858002#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-bahnfahren-mit-cem-oezdemir-dem-naechsten-ministerpraesidenten](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-bahnfahren-mit-cem-oezdemir-dem-naechsten-ministerpraesidenten-a-0a08b9de-13f3-4614-8f72-354999d01969#ref=rss)
-### berliner
+* [https://www.spiegel.de/politik/deutschland/thueringen-bsw-beugt-sich-sahra-wagenknechts-kritik](https://www.spiegel.de/politik/deutschland/thueringen-bsw-beugt-sich-sahra-wagenknechts-kritik-a-f1452d44-4806-4748-9ae5-7bac97c93562#ref=rss)
+### kritik
 
-* [https://www.spiegel.de/panorama/berliner-verkehrsbetriebe-kuendigung-eines-tramfahrers-wegen-facebook-post](https://www.spiegel.de/panorama/berliner-verkehrsbetriebe-kuendigung-eines-tramfahrers-wegen-facebook-post-a-8d118351-68d0-4a40-a2ba-9c0bc0030af6#ref=rss)
-### verkehrsbetriebe
+* [https://www.spiegel.de/politik/deutschland/thueringen-bsw-beugt-sich-sahra-wagenknechts-kritik](https://www.spiegel.de/politik/deutschland/thueringen-bsw-beugt-sich-sahra-wagenknechts-kritik-a-f1452d44-4806-4748-9ae5-7bac97c93562#ref=rss)
+### spd
 
-* [https://www.spiegel.de/panorama/berliner-verkehrsbetriebe-kuendigung-eines-tramfahrers-wegen-facebook-post](https://www.spiegel.de/panorama/berliner-verkehrsbetriebe-kuendigung-eines-tramfahrers-wegen-facebook-post-a-8d118351-68d0-4a40-a2ba-9c0bc0030af6#ref=rss)
-### kündigung
+* [https://www.spiegel.de/politik/deutschland/thueringen-bsw-beugt-sich-sahra-wagenknechts-kritik](https://www.spiegel.de/politik/deutschland/thueringen-bsw-beugt-sich-sahra-wagenknechts-kritik-a-f1452d44-4806-4748-9ae5-7bac97c93562#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-fdp-gruene-die-ampel-koalition-am-ende-neuwahlen-dringend-erforderlich](https://www.spiegel.de/politik/deutschland/spd-fdp-gruene-die-ampel-koalition-am-ende-neuwahlen-dringend-erforderlich-a-23ed45fb-9e44-4393-a6f4-784e7ebd2a46#ref=rss)
+### schickt
 
-* [https://www.spiegel.de/panorama/berliner-verkehrsbetriebe-kuendigung-eines-tramfahrers-wegen-facebook-post](https://www.spiegel.de/panorama/berliner-verkehrsbetriebe-kuendigung-eines-tramfahrers-wegen-facebook-post-a-8d118351-68d0-4a40-a2ba-9c0bc0030af6#ref=rss)
-### deshalb
+* [https://www.spiegel.de/politik/deutschland/thueringen-bsw-beugt-sich-sahra-wagenknechts-kritik](https://www.spiegel.de/politik/deutschland/thueringen-bsw-beugt-sich-sahra-wagenknechts-kritik-a-f1452d44-4806-4748-9ae5-7bac97c93562#ref=rss)
+* [https://www.spiegel.de/panorama/spanien-schickt-mehr-einsatzkraefte-ins-katastrophengebiet](https://www.spiegel.de/panorama/spanien-schickt-mehr-einsatzkraefte-ins-katastrophengebiet-a-4ab96639-ecc0-43ca-80b9-c04d91ebbf78#ref=rss)
+### russland
 
-* [https://www.spiegel.de/panorama/berliner-verkehrsbetriebe-kuendigung-eines-tramfahrers-wegen-facebook-post](https://www.spiegel.de/panorama/berliner-verkehrsbetriebe-kuendigung-eines-tramfahrers-wegen-facebook-post-a-8d118351-68d0-4a40-a2ba-9c0bc0030af6#ref=rss)
-* [https://www.spiegel.de/ausland/georgien-regierungspartei-georgischer-traum-bleibt-nach-partieller-neuauszaehlung-vorn](https://www.spiegel.de/ausland/georgien-regierungspartei-georgischer-traum-bleibt-nach-partieller-neuauszaehlung-vorn-a-c4bb8665-0469-4cf2-a1fe-79604382b2e4#ref=rss)
-### maskottchen
+* [https://www.spiegel.de/ausland/russland-sergej-lawrow-moechte-trotz-sanktionen-in-eu-einreisen](https://www.spiegel.de/ausland/russland-sergej-lawrow-moechte-trotz-sanktionen-in-eu-einreisen-a-a9d4adde-e92b-4c5e-9795-f22309b32c36#ref=rss)
+* [https://www.spiegel.de/ausland/usa-suchen-chinas-hilfe-gegen-nordkoreas-soldaten-in-der-ukraine](https://www.spiegel.de/ausland/usa-suchen-chinas-hilfe-gegen-nordkoreas-soldaten-in-der-ukraine-a-f2c60cc9-59c8-4868-906c-ffc48073e8f8#ref=rss)
+### sergej
 
-* [https://www.spiegel.de/kultur/luce-das-neue-maskottchen-der-katholischen-kirche](https://www.spiegel.de/kultur/luce-das-neue-maskottchen-der-katholischen-kirche-a-2b79de9c-f097-4b97-b08b-ff6f246a5082#ref=rss)
-### kirche
+* [https://www.spiegel.de/ausland/russland-sergej-lawrow-moechte-trotz-sanktionen-in-eu-einreisen](https://www.spiegel.de/ausland/russland-sergej-lawrow-moechte-trotz-sanktionen-in-eu-einreisen-a-a9d4adde-e92b-4c5e-9795-f22309b32c36#ref=rss)
+### lawrow
 
-* [https://www.spiegel.de/kultur/luce-das-neue-maskottchen-der-katholischen-kirche](https://www.spiegel.de/kultur/luce-das-neue-maskottchen-der-katholischen-kirche-a-2b79de9c-f097-4b97-b08b-ff6f246a5082#ref=rss)
-### 2025
+* [https://www.spiegel.de/ausland/russland-sergej-lawrow-moechte-trotz-sanktionen-in-eu-einreisen](https://www.spiegel.de/ausland/russland-sergej-lawrow-moechte-trotz-sanktionen-in-eu-einreisen-a-a9d4adde-e92b-4c5e-9795-f22309b32c36#ref=rss)
+### eu
 
-* [https://www.spiegel.de/kultur/luce-das-neue-maskottchen-der-katholischen-kirche](https://www.spiegel.de/kultur/luce-das-neue-maskottchen-der-katholischen-kirche-a-2b79de9c-f097-4b97-b08b-ff6f246a5082#ref=rss)
-* [https://www.spiegel.de/kultur/musik/stefan-raab-und-der-esc-2025-wie-er-fuer-deutschland-gewinnen-will](https://www.spiegel.de/kultur/musik/stefan-raab-und-der-esc-2025-wie-er-fuer-deutschland-gewinnen-will-a-0378b49a-6145-4cbb-b436-9d3b81290d93#ref=rss)
-### blutsaugermotiv
+* [https://www.spiegel.de/ausland/russland-sergej-lawrow-moechte-trotz-sanktionen-in-eu-einreisen](https://www.spiegel.de/ausland/russland-sergej-lawrow-moechte-trotz-sanktionen-in-eu-einreisen-a-a9d4adde-e92b-4c5e-9795-f22309b32c36#ref=rss)
+* [https://www.spiegel.de/ausland/gerhard-schroeder-und-viktor-orban-in-wien-denkwuerdiger-friedensgipfel-zum-ukrainekrieg](https://www.spiegel.de/ausland/gerhard-schroeder-und-viktor-orban-in-wien-denkwuerdiger-friedensgipfel-zum-ukrainekrieg-a-a643bebf-0f6b-4b5e-bfa1-924b13e626ee#ref=rss)
+### tramfahrer
 
-* [https://www.spiegel.de/kultur/halloween-renaissance-der-vampire-das-blutsauger-motiv-in-aktuellen-serien-und-filmen](https://www.spiegel.de/kultur/halloween-renaissance-der-vampire-das-blutsauger-motiv-in-aktuellen-serien-und-filmen-a-e895f74b-7d67-4f80-b8bc-682d47887e2e#ref=rss)
-### aktuellen
+* [https://www.spiegel.de/karriere/berliner-tramfahrer-gekuendigt-nach-facebook-post-was-man-auf-social-media-posten-darf-so-ist-die-rechtslage](https://www.spiegel.de/karriere/berliner-tramfahrer-gekuendigt-nach-facebook-post-was-man-auf-social-media-posten-darf-so-ist-die-rechtslage-a-b25a9894-38d8-4465-b201-c59dd529e128#ref=rss)
+### job
 
-* [https://www.spiegel.de/kultur/halloween-renaissance-der-vampire-das-blutsauger-motiv-in-aktuellen-serien-und-filmen](https://www.spiegel.de/kultur/halloween-renaissance-der-vampire-das-blutsauger-motiv-in-aktuellen-serien-und-filmen-a-e895f74b-7d67-4f80-b8bc-682d47887e2e#ref=rss)
-### serien
+* [https://www.spiegel.de/karriere/berliner-tramfahrer-gekuendigt-nach-facebook-post-was-man-auf-social-media-posten-darf-so-ist-die-rechtslage](https://www.spiegel.de/karriere/berliner-tramfahrer-gekuendigt-nach-facebook-post-was-man-auf-social-media-posten-darf-so-ist-die-rechtslage-a-b25a9894-38d8-4465-b201-c59dd529e128#ref=rss)
+### sollten
 
-* [https://www.spiegel.de/kultur/halloween-renaissance-der-vampire-das-blutsauger-motiv-in-aktuellen-serien-und-filmen](https://www.spiegel.de/kultur/halloween-renaissance-der-vampire-das-blutsauger-motiv-in-aktuellen-serien-und-filmen-a-e895f74b-7d67-4f80-b8bc-682d47887e2e#ref=rss)
-### filmen
+* [https://www.spiegel.de/karriere/berliner-tramfahrer-gekuendigt-nach-facebook-post-was-man-auf-social-media-posten-darf-so-ist-die-rechtslage](https://www.spiegel.de/karriere/berliner-tramfahrer-gekuendigt-nach-facebook-post-was-man-auf-social-media-posten-darf-so-ist-die-rechtslage-a-b25a9894-38d8-4465-b201-c59dd529e128#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-fdp-gruene-die-ampel-koalition-am-ende-neuwahlen-dringend-erforderlich](https://www.spiegel.de/politik/deutschland/spd-fdp-gruene-die-ampel-koalition-am-ende-neuwahlen-dringend-erforderlich-a-23ed45fb-9e44-4393-a6f4-784e7ebd2a46#ref=rss)
+### the
 
-* [https://www.spiegel.de/kultur/halloween-renaissance-der-vampire-das-blutsauger-motiv-in-aktuellen-serien-und-filmen](https://www.spiegel.de/kultur/halloween-renaissance-der-vampire-das-blutsauger-motiv-in-aktuellen-serien-und-filmen-a-e895f74b-7d67-4f80-b8bc-682d47887e2e#ref=rss)
-### lage
+* [https://www.spiegel.de/kultur/the-cure-und-songs-of-a-lost-world-drohnen-der-vergaenglichkeit](https://www.spiegel.de/kultur/the-cure-und-songs-of-a-lost-world-drohnen-der-vergaenglichkeit-a-f7e14f4a-ec1b-4125-a1ab-6abff9b834df#ref=rss)
+### cure
 
-* [https://www.spiegel.de/kultur/halloween-renaissance-der-vampire-das-blutsauger-motiv-in-aktuellen-serien-und-filmen](https://www.spiegel.de/kultur/halloween-renaissance-der-vampire-das-blutsauger-motiv-in-aktuellen-serien-und-filmen-a-e895f74b-7d67-4f80-b8bc-682d47887e2e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-sprengstofffund-in-berlin-krieg-in-der-ukraine-kampf-gegen-machtmissbrauch-metoo](https://www.spiegel.de/politik/deutschland/news-des-tages-sprengstofffund-in-berlin-krieg-in-der-ukraine-kampf-gegen-machtmissbrauch-metoo-a-34903a7d-d0b5-4ba3-afc3-f5c104f7d44d#ref=rss)
-### sagt
+* [https://www.spiegel.de/kultur/the-cure-und-songs-of-a-lost-world-drohnen-der-vergaenglichkeit](https://www.spiegel.de/kultur/the-cure-und-songs-of-a-lost-world-drohnen-der-vergaenglichkeit-a-f7e14f4a-ec1b-4125-a1ab-6abff9b834df#ref=rss)
+### songs
 
-* [https://www.spiegel.de/kultur/halloween-renaissance-der-vampire-das-blutsauger-motiv-in-aktuellen-serien-und-filmen](https://www.spiegel.de/kultur/halloween-renaissance-der-vampire-das-blutsauger-motiv-in-aktuellen-serien-und-filmen-a-e895f74b-7d67-4f80-b8bc-682d47887e2e#ref=rss)
-* [https://www.spiegel.de/ausland/nordsyrien-die-kurdischen-autonomiegebiete-fuehlen-sich-im-stich-gelassen](https://www.spiegel.de/ausland/nordsyrien-die-kurdischen-autonomiegebiete-fuehlen-sich-im-stich-gelassen-a-073e512a-9957-4936-923a-8c64d2ec9809#ref=rss)
-### heino
+* [https://www.spiegel.de/kultur/the-cure-und-songs-of-a-lost-world-drohnen-der-vergaenglichkeit](https://www.spiegel.de/kultur/the-cure-und-songs-of-a-lost-world-drohnen-der-vergaenglichkeit-a-f7e14f4a-ec1b-4125-a1ab-6abff9b834df#ref=rss)
+### of
 
-* [https://www.spiegel.de/panorama/heino-mittlerweile-meine-familie-musiker-schenkt-seinem-manager-seine-villa](https://www.spiegel.de/panorama/heino-mittlerweile-meine-familie-musiker-schenkt-seinem-manager-seine-villa-a-29129ebd-7918-4ae5-8471-5c31d4cefad0#ref=rss)
-### manager
+* [https://www.spiegel.de/kultur/the-cure-und-songs-of-a-lost-world-drohnen-der-vergaenglichkeit](https://www.spiegel.de/kultur/the-cure-und-songs-of-a-lost-world-drohnen-der-vergaenglichkeit-a-f7e14f4a-ec1b-4125-a1ab-6abff9b834df#ref=rss)
+### lost
 
-* [https://www.spiegel.de/panorama/heino-mittlerweile-meine-familie-musiker-schenkt-seinem-manager-seine-villa](https://www.spiegel.de/panorama/heino-mittlerweile-meine-familie-musiker-schenkt-seinem-manager-seine-villa-a-29129ebd-7918-4ae5-8471-5c31d4cefad0#ref=rss)
-### folgen
+* [https://www.spiegel.de/kultur/the-cure-und-songs-of-a-lost-world-drohnen-der-vergaenglichkeit](https://www.spiegel.de/kultur/the-cure-und-songs-of-a-lost-world-drohnen-der-vergaenglichkeit-a-f7e14f4a-ec1b-4125-a1ab-6abff9b834df#ref=rss)
+### world
 
-* [https://www.spiegel.de/panorama/heino-mittlerweile-meine-familie-musiker-schenkt-seinem-manager-seine-villa](https://www.spiegel.de/panorama/heino-mittlerweile-meine-familie-musiker-schenkt-seinem-manager-seine-villa-a-29129ebd-7918-4ae5-8471-5c31d4cefad0#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/temu-eu-kommission-eroeffnet-verfahren-wegen-gefaelschter-und-gefaehrlicher-produkte](https://www.spiegel.de/netzwelt/netzpolitik/temu-eu-kommission-eroeffnet-verfahren-wegen-gefaelschter-und-gefaehrlicher-produkte-a-86ea512d-30c8-4ca3-a536-c2ff02a864d7#ref=rss)
-### kurdischen
+* [https://www.spiegel.de/kultur/the-cure-und-songs-of-a-lost-world-drohnen-der-vergaenglichkeit](https://www.spiegel.de/kultur/the-cure-und-songs-of-a-lost-world-drohnen-der-vergaenglichkeit-a-f7e14f4a-ec1b-4125-a1ab-6abff9b834df#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/ausland/nordsyrien-die-kurdischen-autonomiegebiete-fuehlen-sich-im-stich-gelassen](https://www.spiegel.de/ausland/nordsyrien-die-kurdischen-autonomiegebiete-fuehlen-sich-im-stich-gelassen-a-073e512a-9957-4936-923a-8c64d2ec9809#ref=rss)
-### fühlen
+* [https://www.spiegel.de/kultur/the-cure-und-songs-of-a-lost-world-drohnen-der-vergaenglichkeit](https://www.spiegel.de/kultur/the-cure-und-songs-of-a-lost-world-drohnen-der-vergaenglichkeit-a-f7e14f4a-ec1b-4125-a1ab-6abff9b834df#ref=rss)
+* [https://www.spiegel.de/panorama/brasilien-sechs-jahre-nach-mord-an-marielle-franco-hohe-haftstrafen-fuer-zwei-taeter](https://www.spiegel.de/panorama/brasilien-sechs-jahre-nach-mord-an-marielle-franco-hohe-haftstrafen-fuer-zwei-taeter-a-8e065e55-a3cc-4d1d-a9b7-a90ae086b03c#ref=rss)
+### chinesische
 
-* [https://www.spiegel.de/ausland/nordsyrien-die-kurdischen-autonomiegebiete-fuehlen-sich-im-stich-gelassen](https://www.spiegel.de/ausland/nordsyrien-die-kurdischen-autonomiegebiete-fuehlen-sich-im-stich-gelassen-a-073e512a-9957-4936-923a-8c64d2ec9809#ref=rss)
-### stich
+* [https://www.spiegel.de/netzwelt/web/chinesische-forscher-machen-aus-metas-sprachmodell-llama-2-eine-militaer-ki](https://www.spiegel.de/netzwelt/web/chinesische-forscher-machen-aus-metas-sprachmodell-llama-2-eine-militaer-ki-a-8b6e1160-f737-44cf-92cd-d5c5685b3cd4#ref=rss)
+### forscher
 
-* [https://www.spiegel.de/ausland/nordsyrien-die-kurdischen-autonomiegebiete-fuehlen-sich-im-stich-gelassen](https://www.spiegel.de/ausland/nordsyrien-die-kurdischen-autonomiegebiete-fuehlen-sich-im-stich-gelassen-a-073e512a-9957-4936-923a-8c64d2ec9809#ref=rss)
-### gelassen
+* [https://www.spiegel.de/netzwelt/web/chinesische-forscher-machen-aus-metas-sprachmodell-llama-2-eine-militaer-ki](https://www.spiegel.de/netzwelt/web/chinesische-forscher-machen-aus-metas-sprachmodell-llama-2-eine-militaer-ki-a-8b6e1160-f737-44cf-92cd-d5c5685b3cd4#ref=rss)
+### metas
 
-* [https://www.spiegel.de/ausland/nordsyrien-die-kurdischen-autonomiegebiete-fuehlen-sich-im-stich-gelassen](https://www.spiegel.de/ausland/nordsyrien-die-kurdischen-autonomiegebiete-fuehlen-sich-im-stich-gelassen-a-073e512a-9957-4936-923a-8c64d2ec9809#ref=rss)
-### katja
+* [https://www.spiegel.de/netzwelt/web/chinesische-forscher-machen-aus-metas-sprachmodell-llama-2-eine-militaer-ki](https://www.spiegel.de/netzwelt/web/chinesische-forscher-machen-aus-metas-sprachmodell-llama-2-eine-militaer-ki-a-8b6e1160-f737-44cf-92cd-d5c5685b3cd4#ref=rss)
+### sprachmodell
 
-* [https://www.spiegel.de/politik/deutschland/bsw-streit-wie-katja-wolf-sahra-wagenknecht-herausfordert](https://www.spiegel.de/politik/deutschland/bsw-streit-wie-katja-wolf-sahra-wagenknecht-herausfordert-a-1637a11b-4b7d-48d5-a70e-5c7411d87142#ref=rss)
-### wolf
+* [https://www.spiegel.de/netzwelt/web/chinesische-forscher-machen-aus-metas-sprachmodell-llama-2-eine-militaer-ki](https://www.spiegel.de/netzwelt/web/chinesische-forscher-machen-aus-metas-sprachmodell-llama-2-eine-militaer-ki-a-8b6e1160-f737-44cf-92cd-d5c5685b3cd4#ref=rss)
+### llama
 
-* [https://www.spiegel.de/politik/deutschland/bsw-streit-wie-katja-wolf-sahra-wagenknecht-herausfordert](https://www.spiegel.de/politik/deutschland/bsw-streit-wie-katja-wolf-sahra-wagenknecht-herausfordert-a-1637a11b-4b7d-48d5-a70e-5c7411d87142#ref=rss)
-### sahra
+* [https://www.spiegel.de/netzwelt/web/chinesische-forscher-machen-aus-metas-sprachmodell-llama-2-eine-militaer-ki](https://www.spiegel.de/netzwelt/web/chinesische-forscher-machen-aus-metas-sprachmodell-llama-2-eine-militaer-ki-a-8b6e1160-f737-44cf-92cd-d5c5685b3cd4#ref=rss)
+### frei
 
-* [https://www.spiegel.de/politik/deutschland/bsw-streit-wie-katja-wolf-sahra-wagenknecht-herausfordert](https://www.spiegel.de/politik/deutschland/bsw-streit-wie-katja-wolf-sahra-wagenknecht-herausfordert-a-1637a11b-4b7d-48d5-a70e-5c7411d87142#ref=rss)
-### wagenknecht
+* [https://www.spiegel.de/netzwelt/web/chinesische-forscher-machen-aus-metas-sprachmodell-llama-2-eine-militaer-ki](https://www.spiegel.de/netzwelt/web/chinesische-forscher-machen-aus-metas-sprachmodell-llama-2-eine-militaer-ki-a-8b6e1160-f737-44cf-92cd-d5c5685b3cd4#ref=rss)
+* [https://www.spiegel.de/auto/paris-verbannt-pkw-durchgangsverkehr-aus-dem-stadtzentrum](https://www.spiegel.de/auto/paris-verbannt-pkw-durchgangsverkehr-aus-dem-stadtzentrum-a-71ade922-2110-4342-90a5-4b407361be85#ref=rss)
+### bundestagspräsidentin
 
-* [https://www.spiegel.de/politik/deutschland/bsw-streit-wie-katja-wolf-sahra-wagenknecht-herausfordert](https://www.spiegel.de/politik/deutschland/bsw-streit-wie-katja-wolf-sahra-wagenknecht-herausfordert-a-1637a11b-4b7d-48d5-a70e-5c7411d87142#ref=rss)
-### kostüme
+* [https://www.spiegel.de/politik/deutschland/bundestagspraesidentin-baerbel-bas-kritisiert-haerteren-debattenton-im-bundestag](https://www.spiegel.de/politik/deutschland/bundestagspraesidentin-baerbel-bas-kritisiert-haerteren-debattenton-im-bundestag-a-929288b2-2aad-4a62-9fdb-82c7509945c3#ref=rss)
+### bärbel
 
-* [https://www.spiegel.de/kultur/neue-kostueme-fuer-halloween-2024-tradwives-bodyhorror-klaus-biesenbach](https://www.spiegel.de/kultur/neue-kostueme-fuer-halloween-2024-tradwives-bodyhorror-klaus-biesenbach-a-8475101f-b35a-4642-81bb-fc75e3ea70fe#ref=rss)
-### 2024
+* [https://www.spiegel.de/politik/deutschland/bundestagspraesidentin-baerbel-bas-kritisiert-haerteren-debattenton-im-bundestag](https://www.spiegel.de/politik/deutschland/bundestagspraesidentin-baerbel-bas-kritisiert-haerteren-debattenton-im-bundestag-a-929288b2-2aad-4a62-9fdb-82c7509945c3#ref=rss)
+### bas
 
-* [https://www.spiegel.de/kultur/neue-kostueme-fuer-halloween-2024-tradwives-bodyhorror-klaus-biesenbach](https://www.spiegel.de/kultur/neue-kostueme-fuer-halloween-2024-tradwives-bodyhorror-klaus-biesenbach-a-8475101f-b35a-4642-81bb-fc75e3ea70fe#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-wie-die-white-dudes-for-harris-das-traditionelle-maennerbild-brechen](https://www.spiegel.de/ausland/us-wahl-2024-wie-die-white-dudes-for-harris-das-traditionelle-maennerbild-brechen-a-18248413-5e2a-4774-b1fb-c4852bb91db3#ref=rss)
-### ukraine
+* [https://www.spiegel.de/politik/deutschland/bundestagspraesidentin-baerbel-bas-kritisiert-haerteren-debattenton-im-bundestag](https://www.spiegel.de/politik/deutschland/bundestagspraesidentin-baerbel-bas-kritisiert-haerteren-debattenton-im-bundestag-a-929288b2-2aad-4a62-9fdb-82c7509945c3#ref=rss)
+### kritisiert
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-sprengstofffund-in-berlin-krieg-in-der-ukraine-kampf-gegen-machtmissbrauch-metoo](https://www.spiegel.de/politik/deutschland/news-des-tages-sprengstofffund-in-berlin-krieg-in-der-ukraine-kampf-gegen-machtmissbrauch-metoo-a-34903a7d-d0b5-4ba3-afc3-f5c104f7d44d#ref=rss)
-### #metoo
+* [https://www.spiegel.de/politik/deutschland/bundestagspraesidentin-baerbel-bas-kritisiert-haerteren-debattenton-im-bundestag](https://www.spiegel.de/politik/deutschland/bundestagspraesidentin-baerbel-bas-kritisiert-haerteren-debattenton-im-bundestag-a-929288b2-2aad-4a62-9fdb-82c7509945c3#ref=rss)
+* [https://www.spiegel.de/fitness/sporttrend-fitnesstracker-misst-ihre-smartwatch-mist](https://www.spiegel.de/fitness/sporttrend-fitnesstracker-misst-ihre-smartwatch-mist-a-c3a00f4c-fcfd-4cfd-9978-0c4279f45c4a#ref=rss)
+### bundestag
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-sprengstofffund-in-berlin-krieg-in-der-ukraine-kampf-gegen-machtmissbrauch-metoo](https://www.spiegel.de/politik/deutschland/news-des-tages-sprengstofffund-in-berlin-krieg-in-der-ukraine-kampf-gegen-machtmissbrauch-metoo-a-34903a7d-d0b5-4ba3-afc3-f5c104f7d44d#ref=rss)
-### mann
+* [https://www.spiegel.de/politik/deutschland/bundestagspraesidentin-baerbel-bas-kritisiert-haerteren-debattenton-im-bundestag](https://www.spiegel.de/politik/deutschland/bundestagspraesidentin-baerbel-bas-kritisiert-haerteren-debattenton-im-bundestag-a-929288b2-2aad-4a62-9fdb-82c7509945c3#ref=rss)
+### heidi
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-sprengstofffund-in-berlin-krieg-in-der-ukraine-kampf-gegen-machtmissbrauch-metoo](https://www.spiegel.de/politik/deutschland/news-des-tages-sprengstofffund-in-berlin-krieg-in-der-ukraine-kampf-gegen-machtmissbrauch-metoo-a-34903a7d-d0b5-4ba3-afc3-f5c104f7d44d#ref=rss)
-* [https://www.spiegel.de/panorama/landkreis-konstanz-mann-liefert-sich-verfolgungsjagd-mit-polizei-ueber-80-kilometer](https://www.spiegel.de/panorama/landkreis-konstanz-mann-liefert-sich-verfolgungsjagd-mit-polizei-ueber-80-kilometer-a-7f2aaa88-6699-4b05-a78f-2f41c091a558#ref=rss)
-### supplements
+* [https://www.spiegel.de/panorama/leute/heidi-klum-halloweenparty-erst-e-t-dann-baumrinde](https://www.spiegel.de/panorama/leute/heidi-klum-halloweenparty-erst-e-t-dann-baumrinde-a-1fc36c6a-a020-4aab-aa5f-59b21c96082a#ref=rss)
+### klum
 
-* [https://www.spiegel.de/politik/vitamine-und-mikronaehrstoffe-warum-das-geschaeft-mit-supplements-fragwuerdig-ist-podcast](https://www.spiegel.de/politik/vitamine-und-mikronaehrstoffe-warum-das-geschaeft-mit-supplements-fragwuerdig-ist-podcast-a-f1ab4558-68f0-4c83-bc03-0dfccc1b3847#ref=rss)
-### ironman
+* [https://www.spiegel.de/panorama/leute/heidi-klum-halloweenparty-erst-e-t-dann-baumrinde](https://www.spiegel.de/panorama/leute/heidi-klum-halloweenparty-erst-e-t-dann-baumrinde-a-1fc36c6a-a020-4aab-aa5f-59b21c96082a#ref=rss)
+### halloweenparty
 
-* [https://www.spiegel.de/sport/ironman-jonathan-pascual-kaempft-sich-trotz-krebserkrankung-ins-ziel](https://www.spiegel.de/sport/ironman-jonathan-pascual-kaempft-sich-trotz-krebserkrankung-ins-ziel-a-ee30b870-4e42-468c-944f-63a812d0511a#ref=rss)
-### jonathan
+* [https://www.spiegel.de/panorama/leute/heidi-klum-halloweenparty-erst-e-t-dann-baumrinde](https://www.spiegel.de/panorama/leute/heidi-klum-halloweenparty-erst-e-t-dann-baumrinde-a-1fc36c6a-a020-4aab-aa5f-59b21c96082a#ref=rss)
+### hansa
 
-* [https://www.spiegel.de/sport/ironman-jonathan-pascual-kaempft-sich-trotz-krebserkrankung-ins-ziel](https://www.spiegel.de/sport/ironman-jonathan-pascual-kaempft-sich-trotz-krebserkrankung-ins-ziel-a-ee30b870-4e42-468c-944f-63a812d0511a#ref=rss)
-### pascual
+* [https://www.spiegel.de/sport/fussball/hansa-rostock-ultra-mitbegruender-sebastian-eggert-wird-aufsichtsrats-chef](https://www.spiegel.de/sport/fussball/hansa-rostock-ultra-mitbegruender-sebastian-eggert-wird-aufsichtsrats-chef-a-6e309f2e-2ddd-41c2-9fad-95f833948b03#ref=rss)
+### rostock
 
-* [https://www.spiegel.de/sport/ironman-jonathan-pascual-kaempft-sich-trotz-krebserkrankung-ins-ziel](https://www.spiegel.de/sport/ironman-jonathan-pascual-kaempft-sich-trotz-krebserkrankung-ins-ziel-a-ee30b870-4e42-468c-944f-63a812d0511a#ref=rss)
-### kämpft
+* [https://www.spiegel.de/sport/fussball/hansa-rostock-ultra-mitbegruender-sebastian-eggert-wird-aufsichtsrats-chef](https://www.spiegel.de/sport/fussball/hansa-rostock-ultra-mitbegruender-sebastian-eggert-wird-aufsichtsrats-chef-a-6e309f2e-2ddd-41c2-9fad-95f833948b03#ref=rss)
+### sebastian
 
-* [https://www.spiegel.de/sport/ironman-jonathan-pascual-kaempft-sich-trotz-krebserkrankung-ins-ziel](https://www.spiegel.de/sport/ironman-jonathan-pascual-kaempft-sich-trotz-krebserkrankung-ins-ziel-a-ee30b870-4e42-468c-944f-63a812d0511a#ref=rss)
-### ziel
+* [https://www.spiegel.de/sport/fussball/hansa-rostock-ultra-mitbegruender-sebastian-eggert-wird-aufsichtsrats-chef](https://www.spiegel.de/sport/fussball/hansa-rostock-ultra-mitbegruender-sebastian-eggert-wird-aufsichtsrats-chef-a-6e309f2e-2ddd-41c2-9fad-95f833948b03#ref=rss)
+### eggert
 
-* [https://www.spiegel.de/sport/ironman-jonathan-pascual-kaempft-sich-trotz-krebserkrankung-ins-ziel](https://www.spiegel.de/sport/ironman-jonathan-pascual-kaempft-sich-trotz-krebserkrankung-ins-ziel-a-ee30b870-4e42-468c-944f-63a812d0511a#ref=rss)
-### ki
+* [https://www.spiegel.de/sport/fussball/hansa-rostock-ultra-mitbegruender-sebastian-eggert-wird-aufsichtsrats-chef](https://www.spiegel.de/sport/fussball/hansa-rostock-ultra-mitbegruender-sebastian-eggert-wird-aufsichtsrats-chef-a-6e309f2e-2ddd-41c2-9fad-95f833948b03#ref=rss)
+### aufsichtsratschef
 
-* [https://www.spiegel.de/wissenschaft/technik/halloween-wie-erschreckt-man-eine-ki-herr-brinkmann](https://www.spiegel.de/wissenschaft/technik/halloween-wie-erschreckt-man-eine-ki-herr-brinkmann-a-3767f09c-babf-49f3-a7e8-a61c7a27c470#ref=rss)
-### brinkmann
+* [https://www.spiegel.de/sport/fussball/hansa-rostock-ultra-mitbegruender-sebastian-eggert-wird-aufsichtsrats-chef](https://www.spiegel.de/sport/fussball/hansa-rostock-ultra-mitbegruender-sebastian-eggert-wird-aufsichtsrats-chef-a-6e309f2e-2ddd-41c2-9fad-95f833948b03#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/wissenschaft/technik/halloween-wie-erschreckt-man-eine-ki-herr-brinkmann](https://www.spiegel.de/wissenschaft/technik/halloween-wie-erschreckt-man-eine-ki-herr-brinkmann-a-3767f09c-babf-49f3-a7e8-a61c7a27c470#ref=rss)
+* [https://www.spiegel.de/sport/fussball/hansa-rostock-ultra-mitbegruender-sebastian-eggert-wird-aufsichtsrats-chef](https://www.spiegel.de/sport/fussball/hansa-rostock-ultra-mitbegruender-sebastian-eggert-wird-aufsichtsrats-chef-a-6e309f2e-2ddd-41c2-9fad-95f833948b03#ref=rss)
+* [https://www.spiegel.de/ausland/georgien-opposition-ruft-nach-umstrittener-wahl-zu-neuen-protesten-auf](https://www.spiegel.de/ausland/georgien-opposition-ruft-nach-umstrittener-wahl-zu-neuen-protesten-auf-a-2ac3b86a-f3f0-4ca2-9306-25dcad7bc96a#ref=rss)
+### gilt
+
+* [https://www.spiegel.de/auto/paris-verbannt-pkw-durchgangsverkehr-aus-dem-stadtzentrum](https://www.spiegel.de/auto/paris-verbannt-pkw-durchgangsverkehr-aus-dem-stadtzentrum-a-71ade922-2110-4342-90a5-4b407361be85#ref=rss)
+* [https://www.spiegel.de/netzwelt/ki-revolution-treibt-stromverbrauch-in-die-hoehe](https://www.spiegel.de/netzwelt/ki-revolution-treibt-stromverbrauch-in-die-hoehe-a-da916800-2227-4844-8465-800f8292829f#ref=rss)
+### andere
+
+* [https://www.spiegel.de/auto/paris-verbannt-pkw-durchgangsverkehr-aus-dem-stadtzentrum](https://www.spiegel.de/auto/paris-verbannt-pkw-durchgangsverkehr-aus-dem-stadtzentrum-a-71ade922-2110-4342-90a5-4b407361be85#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-mckinsey-studie-fast-jeder-zweite-industriebetrieb-will-ins-ausland-expandieren](https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-mckinsey-studie-fast-jeder-zweite-industriebetrieb-will-ins-ausland-expandieren-a-2016e04c-6c8c-460a-919e-1daaafe22b6f#ref=rss)
+### shaun
+
+* [https://www.spiegel.de/panorama/leute/shaun-white-und-nina-dobrev-haben-sich-verlobt-ruhe-in-frieden-freund](https://www.spiegel.de/panorama/leute/shaun-white-und-nina-dobrev-haben-sich-verlobt-ruhe-in-frieden-freund-a-4c2d78b2-a158-4368-a076-f48eef275e77#ref=rss)
 ### white
 
-* [https://www.spiegel.de/ausland/us-wahl-2024-wie-die-white-dudes-for-harris-das-traditionelle-maennerbild-brechen](https://www.spiegel.de/ausland/us-wahl-2024-wie-die-white-dudes-for-harris-das-traditionelle-maennerbild-brechen-a-18248413-5e2a-4774-b1fb-c4852bb91db3#ref=rss)
-### dudes
+* [https://www.spiegel.de/panorama/leute/shaun-white-und-nina-dobrev-haben-sich-verlobt-ruhe-in-frieden-freund](https://www.spiegel.de/panorama/leute/shaun-white-und-nina-dobrev-haben-sich-verlobt-ruhe-in-frieden-freund-a-4c2d78b2-a158-4368-a076-f48eef275e77#ref=rss)
+### nina
 
-* [https://www.spiegel.de/ausland/us-wahl-2024-wie-die-white-dudes-for-harris-das-traditionelle-maennerbild-brechen](https://www.spiegel.de/ausland/us-wahl-2024-wie-die-white-dudes-for-harris-das-traditionelle-maennerbild-brechen-a-18248413-5e2a-4774-b1fb-c4852bb91db3#ref=rss)
-### for
+* [https://www.spiegel.de/panorama/leute/shaun-white-und-nina-dobrev-haben-sich-verlobt-ruhe-in-frieden-freund](https://www.spiegel.de/panorama/leute/shaun-white-und-nina-dobrev-haben-sich-verlobt-ruhe-in-frieden-freund-a-4c2d78b2-a158-4368-a076-f48eef275e77#ref=rss)
+### dobrev
 
-* [https://www.spiegel.de/ausland/us-wahl-2024-wie-die-white-dudes-for-harris-das-traditionelle-maennerbild-brechen](https://www.spiegel.de/ausland/us-wahl-2024-wie-die-white-dudes-for-harris-das-traditionelle-maennerbild-brechen-a-18248413-5e2a-4774-b1fb-c4852bb91db3#ref=rss)
-### harris
+* [https://www.spiegel.de/panorama/leute/shaun-white-und-nina-dobrev-haben-sich-verlobt-ruhe-in-frieden-freund](https://www.spiegel.de/panorama/leute/shaun-white-und-nina-dobrev-haben-sich-verlobt-ruhe-in-frieden-freund-a-4c2d78b2-a158-4368-a076-f48eef275e77#ref=rss)
+### verlobt
 
-* [https://www.spiegel.de/ausland/us-wahl-2024-wie-die-white-dudes-for-harris-das-traditionelle-maennerbild-brechen](https://www.spiegel.de/ausland/us-wahl-2024-wie-die-white-dudes-for-harris-das-traditionelle-maennerbild-brechen-a-18248413-5e2a-4774-b1fb-c4852bb91db3#ref=rss)
-### männerbild
+* [https://www.spiegel.de/panorama/leute/shaun-white-und-nina-dobrev-haben-sich-verlobt-ruhe-in-frieden-freund](https://www.spiegel.de/panorama/leute/shaun-white-und-nina-dobrev-haben-sich-verlobt-ruhe-in-frieden-freund-a-4c2d78b2-a158-4368-a076-f48eef275e77#ref=rss)
+### große
 
-* [https://www.spiegel.de/ausland/us-wahl-2024-wie-die-white-dudes-for-harris-das-traditionelle-maennerbild-brechen](https://www.spiegel.de/ausland/us-wahl-2024-wie-die-white-dudes-for-harris-das-traditionelle-maennerbild-brechen-a-18248413-5e2a-4774-b1fb-c4852bb91db3#ref=rss)
-### brechen
+* [https://www.spiegel.de/fitness/sporttrend-fitnesstracker-misst-ihre-smartwatch-mist](https://www.spiegel.de/fitness/sporttrend-fitnesstracker-misst-ihre-smartwatch-mist-a-c3a00f4c-fcfd-4cfd-9978-0c4279f45c4a#ref=rss)
+* [https://www.spiegel.de/netzwelt/ki-revolution-treibt-stromverbrauch-in-die-hoehe](https://www.spiegel.de/netzwelt/ki-revolution-treibt-stromverbrauch-in-die-hoehe-a-da916800-2227-4844-8465-800f8292829f#ref=rss)
+### viele
 
-* [https://www.spiegel.de/ausland/us-wahl-2024-wie-die-white-dudes-for-harris-das-traditionelle-maennerbild-brechen](https://www.spiegel.de/ausland/us-wahl-2024-wie-die-white-dudes-for-harris-das-traditionelle-maennerbild-brechen-a-18248413-5e2a-4774-b1fb-c4852bb91db3#ref=rss)
-### männer
+* [https://www.spiegel.de/fitness/sporttrend-fitnesstracker-misst-ihre-smartwatch-mist](https://www.spiegel.de/fitness/sporttrend-fitnesstracker-misst-ihre-smartwatch-mist-a-c3a00f4c-fcfd-4cfd-9978-0c4279f45c4a#ref=rss)
+* [https://www.spiegel.de/panorama/brasilien-sechs-jahre-nach-mord-an-marielle-franco-hohe-haftstrafen-fuer-zwei-taeter](https://www.spiegel.de/panorama/brasilien-sechs-jahre-nach-mord-an-marielle-franco-hohe-haftstrafen-fuer-zwei-taeter-a-8e065e55-a3cc-4d1d-a9b7-a90ae086b03c#ref=rss)
+### lewis
 
-* [https://www.spiegel.de/ausland/us-wahl-2024-wie-die-white-dudes-for-harris-das-traditionelle-maennerbild-brechen](https://www.spiegel.de/ausland/us-wahl-2024-wie-die-white-dudes-for-harris-das-traditionelle-maennerbild-brechen-a-18248413-5e2a-4774-b1fb-c4852bb91db3#ref=rss)
-### frauen
+* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-darf-ehemaliges-auto-von-ayrton-senna-fahren](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-darf-ehemaliges-auto-von-ayrton-senna-fahren-a-5fecf434-c350-4934-a007-e6355281479f#ref=rss)
+### hamilton
 
-* [https://www.spiegel.de/ausland/us-wahl-2024-wie-die-white-dudes-for-harris-das-traditionelle-maennerbild-brechen](https://www.spiegel.de/ausland/us-wahl-2024-wie-die-white-dudes-for-harris-das-traditionelle-maennerbild-brechen-a-18248413-5e2a-4774-b1fb-c4852bb91db3#ref=rss)
-### eher
+* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-darf-ehemaliges-auto-von-ayrton-senna-fahren](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-darf-ehemaliges-auto-von-ayrton-senna-fahren-a-5fecf434-c350-4934-a007-e6355281479f#ref=rss)
+### ayrton
 
-* [https://www.spiegel.de/ausland/us-wahl-2024-wie-die-white-dudes-for-harris-das-traditionelle-maennerbild-brechen](https://www.spiegel.de/ausland/us-wahl-2024-wie-die-white-dudes-for-harris-das-traditionelle-maennerbild-brechen-a-18248413-5e2a-4774-b1fb-c4852bb91db3#ref=rss)
-### stefan
+* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-darf-ehemaliges-auto-von-ayrton-senna-fahren](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-darf-ehemaliges-auto-von-ayrton-senna-fahren-a-5fecf434-c350-4934-a007-e6355281479f#ref=rss)
+### senna
 
-* [https://www.spiegel.de/kultur/musik/stefan-raab-und-der-esc-2025-wie-er-fuer-deutschland-gewinnen-will](https://www.spiegel.de/kultur/musik/stefan-raab-und-der-esc-2025-wie-er-fuer-deutschland-gewinnen-will-a-0378b49a-6145-4cbb-b436-9d3b81290d93#ref=rss)
-### raab
+* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-darf-ehemaliges-auto-von-ayrton-senna-fahren](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-darf-ehemaliges-auto-von-ayrton-senna-fahren-a-5fecf434-c350-4934-a007-e6355281479f#ref=rss)
+### gerhard
 
-* [https://www.spiegel.de/kultur/musik/stefan-raab-und-der-esc-2025-wie-er-fuer-deutschland-gewinnen-will](https://www.spiegel.de/kultur/musik/stefan-raab-und-der-esc-2025-wie-er-fuer-deutschland-gewinnen-will-a-0378b49a-6145-4cbb-b436-9d3b81290d93#ref=rss)
-### nächsten
+* [https://www.spiegel.de/ausland/gerhard-schroeder-und-viktor-orban-in-wien-denkwuerdiger-friedensgipfel-zum-ukrainekrieg](https://www.spiegel.de/ausland/gerhard-schroeder-und-viktor-orban-in-wien-denkwuerdiger-friedensgipfel-zum-ukrainekrieg-a-a643bebf-0f6b-4b5e-bfa1-924b13e626ee#ref=rss)
+### schröder
 
-* [https://www.spiegel.de/kultur/musik/stefan-raab-und-der-esc-2025-wie-er-fuer-deutschland-gewinnen-will](https://www.spiegel.de/kultur/musik/stefan-raab-und-der-esc-2025-wie-er-fuer-deutschland-gewinnen-will-a-0378b49a-6145-4cbb-b436-9d3b81290d93#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-bahnfahren-mit-cem-oezdemir-dem-naechsten-ministerpraesidenten](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-bahnfahren-mit-cem-oezdemir-dem-naechsten-ministerpraesidenten-a-0a08b9de-13f3-4614-8f72-354999d01969#ref=rss)
-### sender
+* [https://www.spiegel.de/ausland/gerhard-schroeder-und-viktor-orban-in-wien-denkwuerdiger-friedensgipfel-zum-ukrainekrieg](https://www.spiegel.de/ausland/gerhard-schroeder-und-viktor-orban-in-wien-denkwuerdiger-friedensgipfel-zum-ukrainekrieg-a-a643bebf-0f6b-4b5e-bfa1-924b13e626ee#ref=rss)
+### viktor
 
-* [https://www.spiegel.de/kultur/musik/stefan-raab-und-der-esc-2025-wie-er-fuer-deutschland-gewinnen-will](https://www.spiegel.de/kultur/musik/stefan-raab-und-der-esc-2025-wie-er-fuer-deutschland-gewinnen-will-a-0378b49a-6145-4cbb-b436-9d3b81290d93#ref=rss)
-* [https://www.spiegel.de/kultur/tv/rishi-sunak-unkritisch-befragt-tv-sender-gb-news-soll-100-000-pfund-strafe-zahlen](https://www.spiegel.de/kultur/tv/rishi-sunak-unkritisch-befragt-tv-sender-gb-news-soll-100-000-pfund-strafe-zahlen-a-ecd60def-4949-4306-b470-0c3f49d5799d#ref=rss)
+* [https://www.spiegel.de/ausland/gerhard-schroeder-und-viktor-orban-in-wien-denkwuerdiger-friedensgipfel-zum-ukrainekrieg](https://www.spiegel.de/ausland/gerhard-schroeder-und-viktor-orban-in-wien-denkwuerdiger-friedensgipfel-zum-ukrainekrieg-a-a643bebf-0f6b-4b5e-bfa1-924b13e626ee#ref=rss)
+### orbán
+
+* [https://www.spiegel.de/ausland/gerhard-schroeder-und-viktor-orban-in-wien-denkwuerdiger-friedensgipfel-zum-ukrainekrieg](https://www.spiegel.de/ausland/gerhard-schroeder-und-viktor-orban-in-wien-denkwuerdiger-friedensgipfel-zum-ukrainekrieg-a-a643bebf-0f6b-4b5e-bfa1-924b13e626ee#ref=rss)
+### wien
+
+* [https://www.spiegel.de/ausland/gerhard-schroeder-und-viktor-orban-in-wien-denkwuerdiger-friedensgipfel-zum-ukrainekrieg](https://www.spiegel.de/ausland/gerhard-schroeder-und-viktor-orban-in-wien-denkwuerdiger-friedensgipfel-zum-ukrainekrieg-a-a643bebf-0f6b-4b5e-bfa1-924b13e626ee#ref=rss)
+### ampelkoalition
+
+* [https://www.spiegel.de/politik/deutschland/spd-fdp-gruene-die-ampel-koalition-am-ende-neuwahlen-dringend-erforderlich](https://www.spiegel.de/politik/deutschland/spd-fdp-gruene-die-ampel-koalition-am-ende-neuwahlen-dringend-erforderlich-a-23ed45fb-9e44-4393-a6f4-784e7ebd2a46#ref=rss)
+### endlich
+
+* [https://www.spiegel.de/politik/deutschland/spd-fdp-gruene-die-ampel-koalition-am-ende-neuwahlen-dringend-erforderlich](https://www.spiegel.de/politik/deutschland/spd-fdp-gruene-die-ampel-koalition-am-ende-neuwahlen-dringend-erforderlich-a-23ed45fb-9e44-4393-a6f4-784e7ebd2a46#ref=rss)
+* [https://www.spiegel.de/wirtschaft/boeing-bessert-lohnangebot-im-tarifstreit-fuer-seine-arbeiter-auf-38-prozent-nach](https://www.spiegel.de/wirtschaft/boeing-bessert-lohnangebot-im-tarifstreit-fuer-seine-arbeiter-auf-38-prozent-nach-a-69a9a19b-3990-446e-af65-5975634f6dd4#ref=rss)
+### halloween
+
+* [https://www.spiegel.de/panorama/polizeieinsaetze-zu-halloween-boeller-und-eier-flogen-in-hannover-und-gelsenkirchen](https://www.spiegel.de/panorama/polizeieinsaetze-zu-halloween-boeller-und-eier-flogen-in-hannover-und-gelsenkirchen-a-b3150845-d676-4639-b43c-f32147603714#ref=rss)
+### eier
+
+* [https://www.spiegel.de/panorama/polizeieinsaetze-zu-halloween-boeller-und-eier-flogen-in-hannover-und-gelsenkirchen](https://www.spiegel.de/panorama/polizeieinsaetze-zu-halloween-boeller-und-eier-flogen-in-hannover-und-gelsenkirchen-a-b3150845-d676-4639-b43c-f32147603714#ref=rss)
+### flogen
+
+* [https://www.spiegel.de/panorama/polizeieinsaetze-zu-halloween-boeller-und-eier-flogen-in-hannover-und-gelsenkirchen](https://www.spiegel.de/panorama/polizeieinsaetze-zu-halloween-boeller-und-eier-flogen-in-hannover-und-gelsenkirchen-a-b3150845-d676-4639-b43c-f32147603714#ref=rss)
+### hannover
+
+* [https://www.spiegel.de/panorama/polizeieinsaetze-zu-halloween-boeller-und-eier-flogen-in-hannover-und-gelsenkirchen](https://www.spiegel.de/panorama/polizeieinsaetze-zu-halloween-boeller-und-eier-flogen-in-hannover-und-gelsenkirchen-a-b3150845-d676-4639-b43c-f32147603714#ref=rss)
+### gelsenkirchen
+
+* [https://www.spiegel.de/panorama/polizeieinsaetze-zu-halloween-boeller-und-eier-flogen-in-hannover-und-gelsenkirchen](https://www.spiegel.de/panorama/polizeieinsaetze-zu-halloween-boeller-und-eier-flogen-in-hannover-und-gelsenkirchen-a-b3150845-d676-4639-b43c-f32147603714#ref=rss)
+### chinas
+
+* [https://www.spiegel.de/ausland/usa-suchen-chinas-hilfe-gegen-nordkoreas-soldaten-in-der-ukraine](https://www.spiegel.de/ausland/usa-suchen-chinas-hilfe-gegen-nordkoreas-soldaten-in-der-ukraine-a-f2c60cc9-59c8-4868-906c-ffc48073e8f8#ref=rss)
+### soldaten
+
+* [https://www.spiegel.de/ausland/usa-suchen-chinas-hilfe-gegen-nordkoreas-soldaten-in-der-ukraine](https://www.spiegel.de/ausland/usa-suchen-chinas-hilfe-gegen-nordkoreas-soldaten-in-der-ukraine-a-f2c60cc9-59c8-4868-906c-ffc48073e8f8#ref=rss)
+* [https://www.spiegel.de/panorama/spanien-schickt-mehr-einsatzkraefte-ins-katastrophengebiet](https://www.spiegel.de/panorama/spanien-schickt-mehr-einsatzkraefte-ins-katastrophengebiet-a-4ab96639-ecc0-43ca-80b9-c04d91ebbf78#ref=rss)
+### laut
+
+* [https://www.spiegel.de/ausland/usa-suchen-chinas-hilfe-gegen-nordkoreas-soldaten-in-der-ukraine](https://www.spiegel.de/ausland/usa-suchen-chinas-hilfe-gegen-nordkoreas-soldaten-in-der-ukraine-a-f2c60cc9-59c8-4868-906c-ffc48073e8f8#ref=rss)
+* [https://www.spiegel.de/ausland/iran-plant-offenbar-erneuten-gegenangriff-auf-israel](https://www.spiegel.de/ausland/iran-plant-offenbar-erneuten-gegenangriff-auf-israel-a-bc371b34-048c-42ae-ba54-bd62772be191#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-mckinsey-studie-fast-jeder-zweite-industriebetrieb-will-ins-ausland-expandieren](https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-mckinsey-studie-fast-jeder-zweite-industriebetrieb-will-ins-ausland-expandieren-a-2016e04c-6c8c-460a-919e-1daaafe22b6f#ref=rss)
+* [https://www.spiegel.de/ausland/iran-plant-offenbar-erneuten-gegenangriff-auf-israel](https://www.spiegel.de/ausland/iran-plant-offenbar-erneuten-gegenangriff-auf-israel-a-bc371b34-048c-42ae-ba54-bd62772be191#ref=rss)
 ### georgien
 
-* [https://www.spiegel.de/ausland/georgien-regierungspartei-georgischer-traum-bleibt-nach-partieller-neuauszaehlung-vorn](https://www.spiegel.de/ausland/georgien-regierungspartei-georgischer-traum-bleibt-nach-partieller-neuauszaehlung-vorn-a-c4bb8665-0469-4cf2-a1fe-79604382b2e4#ref=rss)
+* [https://www.spiegel.de/ausland/georgien-opposition-ruft-nach-umstrittener-wahl-zu-neuen-protesten-auf](https://www.spiegel.de/ausland/georgien-opposition-ruft-nach-umstrittener-wahl-zu-neuen-protesten-auf-a-2ac3b86a-f3f0-4ca2-9306-25dcad7bc96a#ref=rss)
+### opposition
+
+* [https://www.spiegel.de/ausland/georgien-opposition-ruft-nach-umstrittener-wahl-zu-neuen-protesten-auf](https://www.spiegel.de/ausland/georgien-opposition-ruft-nach-umstrittener-wahl-zu-neuen-protesten-auf-a-2ac3b86a-f3f0-4ca2-9306-25dcad7bc96a#ref=rss)
+### marielle
+
+* [https://www.spiegel.de/panorama/brasilien-sechs-jahre-nach-mord-an-marielle-franco-hohe-haftstrafen-fuer-zwei-taeter](https://www.spiegel.de/panorama/brasilien-sechs-jahre-nach-mord-an-marielle-franco-hohe-haftstrafen-fuer-zwei-taeter-a-8e065e55-a3cc-4d1d-a9b7-a90ae086b03c#ref=rss)
+### franco
+
+* [https://www.spiegel.de/panorama/brasilien-sechs-jahre-nach-mord-an-marielle-franco-hohe-haftstrafen-fuer-zwei-taeter](https://www.spiegel.de/panorama/brasilien-sechs-jahre-nach-mord-an-marielle-franco-hohe-haftstrafen-fuer-zwei-taeter-a-8e065e55-a3cc-4d1d-a9b7-a90ae086b03c#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/panorama/brasilien-sechs-jahre-nach-mord-an-marielle-franco-hohe-haftstrafen-fuer-zwei-taeter](https://www.spiegel.de/panorama/brasilien-sechs-jahre-nach-mord-an-marielle-franco-hohe-haftstrafen-fuer-zwei-taeter-a-8e065e55-a3cc-4d1d-a9b7-a90ae086b03c#ref=rss)
+### osnabrück
+
+* [https://www.spiegel.de/wirtschaft/volkswagen-osnabrueck-in-sorge-welches-vw-werk-ist-bedroht](https://www.spiegel.de/wirtschaft/volkswagen-osnabrueck-in-sorge-welches-vw-werk-ist-bedroht-a-a8cadd88-71d4-4419-b5c1-96ac228acf04#ref=rss)
+### hoffnung
+
+* [https://www.spiegel.de/wirtschaft/intels-neue-hoffnung](https://www.spiegel.de/wirtschaft/intels-neue-hoffnung-a-fd3d8dab-5d02-4acf-b9ab-e4da198c9d5d#ref=rss)
+### nächste
+
+* [https://www.spiegel.de/netzwelt/ki-revolution-treibt-stromverbrauch-in-die-hoehe](https://www.spiegel.de/netzwelt/ki-revolution-treibt-stromverbrauch-in-die-hoehe-a-da916800-2227-4844-8465-800f8292829f#ref=rss)
+* [https://www.spiegel.de/ausland/iran-plant-offenbar-erneuten-gegenangriff-auf-israel](https://www.spiegel.de/ausland/iran-plant-offenbar-erneuten-gegenangriff-auf-israel-a-bc371b34-048c-42ae-ba54-bd62772be191#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/iran-plant-offenbar-erneuten-gegenangriff-auf-israel](https://www.spiegel.de/ausland/iran-plant-offenbar-erneuten-gegenangriff-auf-israel-a-bc371b34-048c-42ae-ba54-bd62772be191#ref=rss)
+### boeing
+
+* [https://www.spiegel.de/wirtschaft/boeing-bessert-lohnangebot-im-tarifstreit-fuer-seine-arbeiter-auf-38-prozent-nach](https://www.spiegel.de/wirtschaft/boeing-bessert-lohnangebot-im-tarifstreit-fuer-seine-arbeiter-auf-38-prozent-nach-a-69a9a19b-3990-446e-af65-5975634f6dd4#ref=rss)
+### tarifstreit
+
+* [https://www.spiegel.de/wirtschaft/boeing-bessert-lohnangebot-im-tarifstreit-fuer-seine-arbeiter-auf-38-prozent-nach](https://www.spiegel.de/wirtschaft/boeing-bessert-lohnangebot-im-tarifstreit-fuer-seine-arbeiter-auf-38-prozent-nach-a-69a9a19b-3990-446e-af65-5975634f6dd4#ref=rss)
 ### spanien
 
-* [https://www.spiegel.de/panorama/spanien-nach-den-sturzfluten-rettungskraefte-suchen-nach-vermissten-und-schuldigen](https://www.spiegel.de/panorama/spanien-nach-den-sturzfluten-rettungskraefte-suchen-nach-vermissten-und-schuldigen-a-bb276967-40fb-47ab-98c1-d2d183aebf17#ref=rss)
-### rettungskräfte
-
-* [https://www.spiegel.de/panorama/spanien-nach-den-sturzfluten-rettungskraefte-suchen-nach-vermissten-und-schuldigen](https://www.spiegel.de/panorama/spanien-nach-den-sturzfluten-rettungskraefte-suchen-nach-vermissten-und-schuldigen-a-bb276967-40fb-47ab-98c1-d2d183aebf17#ref=rss)
-### badenwürttemberg
-
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-bahnfahren-mit-cem-oezdemir-dem-naechsten-ministerpraesidenten](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-bahnfahren-mit-cem-oezdemir-dem-naechsten-ministerpraesidenten-a-0a08b9de-13f3-4614-8f72-354999d01969#ref=rss)
-### cem
-
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-bahnfahren-mit-cem-oezdemir-dem-naechsten-ministerpraesidenten](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-bahnfahren-mit-cem-oezdemir-dem-naechsten-ministerpraesidenten-a-0a08b9de-13f3-4614-8f72-354999d01969#ref=rss)
-### özdemir
-
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-bahnfahren-mit-cem-oezdemir-dem-naechsten-ministerpraesidenten](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-bahnfahren-mit-cem-oezdemir-dem-naechsten-ministerpraesidenten-a-0a08b9de-13f3-4614-8f72-354999d01969#ref=rss)
-### landkreis
-
-* [https://www.spiegel.de/panorama/landkreis-konstanz-mann-liefert-sich-verfolgungsjagd-mit-polizei-ueber-80-kilometer](https://www.spiegel.de/panorama/landkreis-konstanz-mann-liefert-sich-verfolgungsjagd-mit-polizei-ueber-80-kilometer-a-7f2aaa88-6699-4b05-a78f-2f41c091a558#ref=rss)
-### konstanz
-
-* [https://www.spiegel.de/panorama/landkreis-konstanz-mann-liefert-sich-verfolgungsjagd-mit-polizei-ueber-80-kilometer](https://www.spiegel.de/panorama/landkreis-konstanz-mann-liefert-sich-verfolgungsjagd-mit-polizei-ueber-80-kilometer-a-7f2aaa88-6699-4b05-a78f-2f41c091a558#ref=rss)
-### konkurs
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-signa-prime-wird-endgueltig-in-konkurs-geschickt](https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-signa-prime-wird-endgueltig-in-konkurs-geschickt-a-533d0bc7-a7f7-4670-86c0-9c44553efda3#ref=rss)
-### rishi
-
-* [https://www.spiegel.de/kultur/tv/rishi-sunak-unkritisch-befragt-tv-sender-gb-news-soll-100-000-pfund-strafe-zahlen](https://www.spiegel.de/kultur/tv/rishi-sunak-unkritisch-befragt-tv-sender-gb-news-soll-100-000-pfund-strafe-zahlen-a-ecd60def-4949-4306-b470-0c3f49d5799d#ref=rss)
-### sunak
-
-* [https://www.spiegel.de/kultur/tv/rishi-sunak-unkritisch-befragt-tv-sender-gb-news-soll-100-000-pfund-strafe-zahlen](https://www.spiegel.de/kultur/tv/rishi-sunak-unkritisch-befragt-tv-sender-gb-news-soll-100-000-pfund-strafe-zahlen-a-ecd60def-4949-4306-b470-0c3f49d5799d#ref=rss)
-### gb
-
-* [https://www.spiegel.de/kultur/tv/rishi-sunak-unkritisch-befragt-tv-sender-gb-news-soll-100-000-pfund-strafe-zahlen](https://www.spiegel.de/kultur/tv/rishi-sunak-unkritisch-befragt-tv-sender-gb-news-soll-100-000-pfund-strafe-zahlen-a-ecd60def-4949-4306-b470-0c3f49d5799d#ref=rss)
-### strafe
-
-* [https://www.spiegel.de/kultur/tv/rishi-sunak-unkritisch-befragt-tv-sender-gb-news-soll-100-000-pfund-strafe-zahlen](https://www.spiegel.de/kultur/tv/rishi-sunak-unkritisch-befragt-tv-sender-gb-news-soll-100-000-pfund-strafe-zahlen-a-ecd60def-4949-4306-b470-0c3f49d5799d#ref=rss)
-### zahlen
-
-* [https://www.spiegel.de/kultur/tv/rishi-sunak-unkritisch-befragt-tv-sender-gb-news-soll-100-000-pfund-strafe-zahlen](https://www.spiegel.de/kultur/tv/rishi-sunak-unkritisch-befragt-tv-sender-gb-news-soll-100-000-pfund-strafe-zahlen-a-ecd60def-4949-4306-b470-0c3f49d5799d#ref=rss)
-### temu
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/temu-eu-kommission-eroeffnet-verfahren-wegen-gefaelschter-und-gefaehrlicher-produkte](https://www.spiegel.de/netzwelt/netzpolitik/temu-eu-kommission-eroeffnet-verfahren-wegen-gefaelschter-und-gefaehrlicher-produkte-a-86ea512d-30c8-4ca3-a536-c2ff02a864d7#ref=rss)
-### verfahren
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/temu-eu-kommission-eroeffnet-verfahren-wegen-gefaelschter-und-gefaehrlicher-produkte](https://www.spiegel.de/netzwelt/netzpolitik/temu-eu-kommission-eroeffnet-verfahren-wegen-gefaelschter-und-gefaehrlicher-produkte-a-86ea512d-30c8-4ca3-a536-c2ff02a864d7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/aldi-sued-muss-sonderangebote-anders-kennzeichnen](https://www.spiegel.de/wirtschaft/unternehmen/aldi-sued-muss-sonderangebote-anders-kennzeichnen-a-0dad22d4-8c1d-4a2f-b95d-79caa88c0294#ref=rss)
-### aldi
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/aldi-sued-muss-sonderangebote-anders-kennzeichnen](https://www.spiegel.de/wirtschaft/unternehmen/aldi-sued-muss-sonderangebote-anders-kennzeichnen-a-0dad22d4-8c1d-4a2f-b95d-79caa88c0294#ref=rss)
-### süd
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/aldi-sued-muss-sonderangebote-anders-kennzeichnen](https://www.spiegel.de/wirtschaft/unternehmen/aldi-sued-muss-sonderangebote-anders-kennzeichnen-a-0dad22d4-8c1d-4a2f-b95d-79caa88c0294#ref=rss)
-### frankwalter
-
-* [https://www.spiegel.de/politik/frank-walter-steinmeier-in-griechenland-bitte-um-vergebung-fuer-deutsche-verbrechen](https://www.spiegel.de/politik/frank-walter-steinmeier-in-griechenland-bitte-um-vergebung-fuer-deutsche-verbrechen-a-e65c41b9-2b1a-4724-9a54-c865d65d51bb#ref=rss)
-### steinmeier
-
-* [https://www.spiegel.de/politik/frank-walter-steinmeier-in-griechenland-bitte-um-vergebung-fuer-deutsche-verbrechen](https://www.spiegel.de/politik/frank-walter-steinmeier-in-griechenland-bitte-um-vergebung-fuer-deutsche-verbrechen-a-e65c41b9-2b1a-4724-9a54-c865d65d51bb#ref=rss)
-### verbrechen
-
-* [https://www.spiegel.de/politik/frank-walter-steinmeier-in-griechenland-bitte-um-vergebung-fuer-deutsche-verbrechen](https://www.spiegel.de/politik/frank-walter-steinmeier-in-griechenland-bitte-um-vergebung-fuer-deutsche-verbrechen-a-e65c41b9-2b1a-4724-9a54-c865d65d51bb#ref=rss)
+* [https://www.spiegel.de/panorama/spanien-schickt-mehr-einsatzkraefte-ins-katastrophengebiet](https://www.spiegel.de/panorama/spanien-schickt-mehr-einsatzkraefte-ins-katastrophengebiet-a-4ab96639-ecc0-43ca-80b9-c04d91ebbf78#ref=rss)
 
