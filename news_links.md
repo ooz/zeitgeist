@@ -4,340 +4,360 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
-
-* [https://www.spiegel.de/panorama/peanut-instagram-eichhoernchen-von-behoerden-beschlagnahmt](https://www.spiegel.de/panorama/peanut-instagram-eichhoernchen-von-behoerden-beschlagnahmt-a-c7c35cde-abb3-4371-a7bf-68e05340f79b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagspraesidentin-baerbel-bas-kritisiert-haerteren-debattenton-im-bundestag](https://www.spiegel.de/politik/deutschland/bundestagspraesidentin-baerbel-bas-kritisiert-haerteren-debattenton-im-bundestag-a-929288b2-2aad-4a62-9fdb-82c7509945c3#ref=rss)
-* [https://www.spiegel.de/auto/paris-verbannt-pkw-durchgangsverkehr-aus-dem-stadtzentrum](https://www.spiegel.de/auto/paris-verbannt-pkw-durchgangsverkehr-aus-dem-stadtzentrum-a-71ade922-2110-4342-90a5-4b407361be85#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-fdp-gruene-die-ampel-koalition-am-ende-neuwahlen-dringend-erforderlich](https://www.spiegel.de/politik/deutschland/spd-fdp-gruene-die-ampel-koalition-am-ende-neuwahlen-dringend-erforderlich-a-23ed45fb-9e44-4393-a6f4-784e7ebd2a46#ref=rss)
-* [https://www.spiegel.de/panorama/spanien-schickt-mehr-einsatzkraefte-ins-katastrophengebiet](https://www.spiegel.de/panorama/spanien-schickt-mehr-einsatzkraefte-ins-katastrophengebiet-a-4ab96639-ecc0-43ca-80b9-c04d91ebbf78#ref=rss)
-### sechs
-
-* [https://www.spiegel.de/geschichte/ddr-zwangsarbeiter-ikea-will-sed-opfer-mit-sechs-millionen-euro-entschaedigen](https://www.spiegel.de/geschichte/ddr-zwangsarbeiter-ikea-will-sed-opfer-mit-sechs-millionen-euro-entschaedigen-a-2d02268b-dc36-45f0-a1b2-089aca0036c0#ref=rss)
-* [https://www.spiegel.de/panorama/brasilien-sechs-jahre-nach-mord-an-marielle-franco-hohe-haftstrafen-fuer-zwei-taeter](https://www.spiegel.de/panorama/brasilien-sechs-jahre-nach-mord-an-marielle-franco-hohe-haftstrafen-fuer-zwei-taeter-a-8e065e55-a3cc-4d1d-a9b7-a90ae086b03c#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/politik/deutschland/thueringen-bsw-beugt-sich-sahra-wagenknechts-kritik](https://www.spiegel.de/politik/deutschland/thueringen-bsw-beugt-sich-sahra-wagenknechts-kritik-a-f1452d44-4806-4748-9ae5-7bac97c93562#ref=rss)
-* [https://www.spiegel.de/karriere/berliner-tramfahrer-gekuendigt-nach-facebook-post-was-man-auf-social-media-posten-darf-so-ist-die-rechtslage](https://www.spiegel.de/karriere/berliner-tramfahrer-gekuendigt-nach-facebook-post-was-man-auf-social-media-posten-darf-so-ist-die-rechtslage-a-b25a9894-38d8-4465-b201-c59dd529e128#ref=rss)
-* [https://www.spiegel.de/panorama/polizeieinsaetze-zu-halloween-boeller-und-eier-flogen-in-hannover-und-gelsenkirchen](https://www.spiegel.de/panorama/polizeieinsaetze-zu-halloween-boeller-und-eier-flogen-in-hannover-und-gelsenkirchen-a-b3150845-d676-4639-b43c-f32147603714#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-nach-tod-einer-vierjaehrigen-10-jahre-haft-fuer-narkosearzt](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-nach-tod-einer-vierjaehrigen-10-jahre-haft-fuer-narkosearzt-a-4cfaac0b-82f2-428e-9ced-1cc44c2f5234#ref=rss)
-* [https://www.spiegel.de/fitness/sporttrend-fitnesstracker-misst-ihre-smartwatch-mist](https://www.spiegel.de/fitness/sporttrend-fitnesstracker-misst-ihre-smartwatch-mist-a-c3a00f4c-fcfd-4cfd-9978-0c4279f45c4a#ref=rss)
-* [https://www.spiegel.de/panorama/brasilien-sechs-jahre-nach-mord-an-marielle-franco-hohe-haftstrafen-fuer-zwei-taeter](https://www.spiegel.de/panorama/brasilien-sechs-jahre-nach-mord-an-marielle-franco-hohe-haftstrafen-fuer-zwei-taeter-a-8e065e55-a3cc-4d1d-a9b7-a90ae086b03c#ref=rss)
-### brasilien
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-darf-ehemaliges-auto-von-ayrton-senna-fahren](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-darf-ehemaliges-auto-von-ayrton-senna-fahren-a-5fecf434-c350-4934-a007-e6355281479f#ref=rss)
-* [https://www.spiegel.de/panorama/brasilien-sechs-jahre-nach-mord-an-marielle-franco-hohe-haftstrafen-fuer-zwei-taeter](https://www.spiegel.de/panorama/brasilien-sechs-jahre-nach-mord-an-marielle-franco-hohe-haftstrafen-fuer-zwei-taeter-a-8e065e55-a3cc-4d1d-a9b7-a90ae086b03c#ref=rss)
-### ddrzwangsarbeiter
-
-* [https://www.spiegel.de/geschichte/ddr-zwangsarbeiter-ikea-will-sed-opfer-mit-sechs-millionen-euro-entschaedigen](https://www.spiegel.de/geschichte/ddr-zwangsarbeiter-ikea-will-sed-opfer-mit-sechs-millionen-euro-entschaedigen-a-2d02268b-dc36-45f0-a1b2-089aca0036c0#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/geschichte/ddr-zwangsarbeiter-ikea-will-sed-opfer-mit-sechs-millionen-euro-entschaedigen](https://www.spiegel.de/geschichte/ddr-zwangsarbeiter-ikea-will-sed-opfer-mit-sechs-millionen-euro-entschaedigen-a-2d02268b-dc36-45f0-a1b2-089aca0036c0#ref=rss)
-### euro
-
-* [https://www.spiegel.de/geschichte/ddr-zwangsarbeiter-ikea-will-sed-opfer-mit-sechs-millionen-euro-entschaedigen](https://www.spiegel.de/geschichte/ddr-zwangsarbeiter-ikea-will-sed-opfer-mit-sechs-millionen-euro-entschaedigen-a-2d02268b-dc36-45f0-a1b2-089aca0036c0#ref=rss)
-### entschädigen
-
-* [https://www.spiegel.de/geschichte/ddr-zwangsarbeiter-ikea-will-sed-opfer-mit-sechs-millionen-euro-entschaedigen](https://www.spiegel.de/geschichte/ddr-zwangsarbeiter-ikea-will-sed-opfer-mit-sechs-millionen-euro-entschaedigen-a-2d02268b-dc36-45f0-a1b2-089aca0036c0#ref=rss)
-### ehemalige
-
-* [https://www.spiegel.de/geschichte/ddr-zwangsarbeiter-ikea-will-sed-opfer-mit-sechs-millionen-euro-entschaedigen](https://www.spiegel.de/geschichte/ddr-zwangsarbeiter-ikea-will-sed-opfer-mit-sechs-millionen-euro-entschaedigen-a-2d02268b-dc36-45f0-a1b2-089aca0036c0#ref=rss)
-* [https://www.spiegel.de/panorama/brasilien-sechs-jahre-nach-mord-an-marielle-franco-hohe-haftstrafen-fuer-zwei-taeter](https://www.spiegel.de/panorama/brasilien-sechs-jahre-nach-mord-an-marielle-franco-hohe-haftstrafen-fuer-zwei-taeter-a-8e065e55-a3cc-4d1d-a9b7-a90ae086b03c#ref=rss)
-### deutscher
-
-* [https://www.spiegel.de/geschichte/ddr-zwangsarbeiter-ikea-will-sed-opfer-mit-sechs-millionen-euro-entschaedigen](https://www.spiegel.de/geschichte/ddr-zwangsarbeiter-ikea-will-sed-opfer-mit-sechs-millionen-euro-entschaedigen-a-2d02268b-dc36-45f0-a1b2-089aca0036c0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-mckinsey-studie-fast-jeder-zweite-industriebetrieb-will-ins-ausland-expandieren](https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-mckinsey-studie-fast-jeder-zweite-industriebetrieb-will-ins-ausland-expandieren-a-2016e04c-6c8c-460a-919e-1daaafe22b6f#ref=rss)
-### 7
-
-* [https://www.spiegel.de/netzwelt/web/7-vs-wild-star-joe-vogel-im-interview-leute-fuehlen-sich-von-mir-bedroht-weil-ich-reden-kann](https://www.spiegel.de/netzwelt/web/7-vs-wild-star-joe-vogel-im-interview-leute-fuehlen-sich-von-mir-bedroht-weil-ich-reden-kann-a-ee4651ea-80fc-40e7-9b3a-cb639a51e277#ref=rss)
-### vs
-
-* [https://www.spiegel.de/netzwelt/web/7-vs-wild-star-joe-vogel-im-interview-leute-fuehlen-sich-von-mir-bedroht-weil-ich-reden-kann](https://www.spiegel.de/netzwelt/web/7-vs-wild-star-joe-vogel-im-interview-leute-fuehlen-sich-von-mir-bedroht-weil-ich-reden-kann-a-ee4651ea-80fc-40e7-9b3a-cb639a51e277#ref=rss)
-### joe
-
-* [https://www.spiegel.de/netzwelt/web/7-vs-wild-star-joe-vogel-im-interview-leute-fuehlen-sich-von-mir-bedroht-weil-ich-reden-kann](https://www.spiegel.de/netzwelt/web/7-vs-wild-star-joe-vogel-im-interview-leute-fuehlen-sich-von-mir-bedroht-weil-ich-reden-kann-a-ee4651ea-80fc-40e7-9b3a-cb639a51e277#ref=rss)
-### vogel
-
-* [https://www.spiegel.de/netzwelt/web/7-vs-wild-star-joe-vogel-im-interview-leute-fuehlen-sich-von-mir-bedroht-weil-ich-reden-kann](https://www.spiegel.de/netzwelt/web/7-vs-wild-star-joe-vogel-im-interview-leute-fuehlen-sich-von-mir-bedroht-weil-ich-reden-kann-a-ee4651ea-80fc-40e7-9b3a-cb639a51e277#ref=rss)
-### bedroht
-
-* [https://www.spiegel.de/netzwelt/web/7-vs-wild-star-joe-vogel-im-interview-leute-fuehlen-sich-von-mir-bedroht-weil-ich-reden-kann](https://www.spiegel.de/netzwelt/web/7-vs-wild-star-joe-vogel-im-interview-leute-fuehlen-sich-von-mir-bedroht-weil-ich-reden-kann-a-ee4651ea-80fc-40e7-9b3a-cb639a51e277#ref=rss)
-* [https://www.spiegel.de/wirtschaft/volkswagen-osnabrueck-in-sorge-welches-vw-werk-ist-bedroht](https://www.spiegel.de/wirtschaft/volkswagen-osnabrueck-in-sorge-welches-vw-werk-ist-bedroht-a-a8cadd88-71d4-4419-b5c1-96ac228acf04#ref=rss)
-### derzeit
-
-* [https://www.spiegel.de/netzwelt/web/7-vs-wild-star-joe-vogel-im-interview-leute-fuehlen-sich-von-mir-bedroht-weil-ich-reden-kann](https://www.spiegel.de/netzwelt/web/7-vs-wild-star-joe-vogel-im-interview-leute-fuehlen-sich-von-mir-bedroht-weil-ich-reden-kann-a-ee4651ea-80fc-40e7-9b3a-cb639a51e277#ref=rss)
-* [https://www.spiegel.de/wirtschaft/boeing-bessert-lohnangebot-im-tarifstreit-fuer-seine-arbeiter-auf-38-prozent-nach](https://www.spiegel.de/wirtschaft/boeing-bessert-lohnangebot-im-tarifstreit-fuer-seine-arbeiter-auf-38-prozent-nach-a-69a9a19b-3990-446e-af65-5975634f6dd4#ref=rss)
-### gruppe
-
-* [https://www.spiegel.de/netzwelt/web/7-vs-wild-star-joe-vogel-im-interview-leute-fuehlen-sich-von-mir-bedroht-weil-ich-reden-kann](https://www.spiegel.de/netzwelt/web/7-vs-wild-star-joe-vogel-im-interview-leute-fuehlen-sich-von-mir-bedroht-weil-ich-reden-kann-a-ee4651ea-80fc-40e7-9b3a-cb639a51e277#ref=rss)
-* [https://www.spiegel.de/karriere/berliner-tramfahrer-gekuendigt-nach-facebook-post-was-man-auf-social-media-posten-darf-so-ist-die-rechtslage](https://www.spiegel.de/karriere/berliner-tramfahrer-gekuendigt-nach-facebook-post-was-man-auf-social-media-posten-darf-so-ist-die-rechtslage-a-b25a9894-38d8-4465-b201-c59dd529e128#ref=rss)
-### peanut
-
-* [https://www.spiegel.de/panorama/peanut-instagram-eichhoernchen-von-behoerden-beschlagnahmt](https://www.spiegel.de/panorama/peanut-instagram-eichhoernchen-von-behoerden-beschlagnahmt-a-c7c35cde-abb3-4371-a7bf-68e05340f79b#ref=rss)
-### behörden
-
-* [https://www.spiegel.de/panorama/peanut-instagram-eichhoernchen-von-behoerden-beschlagnahmt](https://www.spiegel.de/panorama/peanut-instagram-eichhoernchen-von-behoerden-beschlagnahmt-a-c7c35cde-abb3-4371-a7bf-68e05340f79b#ref=rss)
-### beschlagnahmt
-
-* [https://www.spiegel.de/panorama/peanut-instagram-eichhoernchen-von-behoerden-beschlagnahmt](https://www.spiegel.de/panorama/peanut-instagram-eichhoernchen-von-behoerden-beschlagnahmt-a-c7c35cde-abb3-4371-a7bf-68e05340f79b#ref=rss)
-### thüringen
-
-* [https://www.spiegel.de/politik/deutschland/thueringen-bsw-beugt-sich-sahra-wagenknechts-kritik](https://www.spiegel.de/politik/deutschland/thueringen-bsw-beugt-sich-sahra-wagenknechts-kritik-a-f1452d44-4806-4748-9ae5-7bac97c93562#ref=rss)
-### bsw
-
-* [https://www.spiegel.de/politik/deutschland/thueringen-bsw-beugt-sich-sahra-wagenknechts-kritik](https://www.spiegel.de/politik/deutschland/thueringen-bsw-beugt-sich-sahra-wagenknechts-kritik-a-f1452d44-4806-4748-9ae5-7bac97c93562#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/politik/deutschland/thueringen-bsw-beugt-sich-sahra-wagenknechts-kritik](https://www.spiegel.de/politik/deutschland/thueringen-bsw-beugt-sich-sahra-wagenknechts-kritik-a-f1452d44-4806-4748-9ae5-7bac97c93562#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/thueringen-bsw-beugt-sich-sahra-wagenknechts-kritik](https://www.spiegel.de/politik/deutschland/thueringen-bsw-beugt-sich-sahra-wagenknechts-kritik-a-f1452d44-4806-4748-9ae5-7bac97c93562#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-fdp-gruene-die-ampel-koalition-am-ende-neuwahlen-dringend-erforderlich](https://www.spiegel.de/politik/deutschland/spd-fdp-gruene-die-ampel-koalition-am-ende-neuwahlen-dringend-erforderlich-a-23ed45fb-9e44-4393-a6f4-784e7ebd2a46#ref=rss)
-### schickt
-
-* [https://www.spiegel.de/politik/deutschland/thueringen-bsw-beugt-sich-sahra-wagenknechts-kritik](https://www.spiegel.de/politik/deutschland/thueringen-bsw-beugt-sich-sahra-wagenknechts-kritik-a-f1452d44-4806-4748-9ae5-7bac97c93562#ref=rss)
-* [https://www.spiegel.de/panorama/spanien-schickt-mehr-einsatzkraefte-ins-katastrophengebiet](https://www.spiegel.de/panorama/spanien-schickt-mehr-einsatzkraefte-ins-katastrophengebiet-a-4ab96639-ecc0-43ca-80b9-c04d91ebbf78#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/russland-sergej-lawrow-moechte-trotz-sanktionen-in-eu-einreisen](https://www.spiegel.de/ausland/russland-sergej-lawrow-moechte-trotz-sanktionen-in-eu-einreisen-a-a9d4adde-e92b-4c5e-9795-f22309b32c36#ref=rss)
-* [https://www.spiegel.de/ausland/usa-suchen-chinas-hilfe-gegen-nordkoreas-soldaten-in-der-ukraine](https://www.spiegel.de/ausland/usa-suchen-chinas-hilfe-gegen-nordkoreas-soldaten-in-der-ukraine-a-f2c60cc9-59c8-4868-906c-ffc48073e8f8#ref=rss)
-### sergej
-
-* [https://www.spiegel.de/ausland/russland-sergej-lawrow-moechte-trotz-sanktionen-in-eu-einreisen](https://www.spiegel.de/ausland/russland-sergej-lawrow-moechte-trotz-sanktionen-in-eu-einreisen-a-a9d4adde-e92b-4c5e-9795-f22309b32c36#ref=rss)
-### lawrow
-
-* [https://www.spiegel.de/ausland/russland-sergej-lawrow-moechte-trotz-sanktionen-in-eu-einreisen](https://www.spiegel.de/ausland/russland-sergej-lawrow-moechte-trotz-sanktionen-in-eu-einreisen-a-a9d4adde-e92b-4c5e-9795-f22309b32c36#ref=rss)
-### eu
-
-* [https://www.spiegel.de/ausland/russland-sergej-lawrow-moechte-trotz-sanktionen-in-eu-einreisen](https://www.spiegel.de/ausland/russland-sergej-lawrow-moechte-trotz-sanktionen-in-eu-einreisen-a-a9d4adde-e92b-4c5e-9795-f22309b32c36#ref=rss)
-* [https://www.spiegel.de/ausland/gerhard-schroeder-und-viktor-orban-in-wien-denkwuerdiger-friedensgipfel-zum-ukrainekrieg](https://www.spiegel.de/ausland/gerhard-schroeder-und-viktor-orban-in-wien-denkwuerdiger-friedensgipfel-zum-ukrainekrieg-a-a643bebf-0f6b-4b5e-bfa1-924b13e626ee#ref=rss)
-### tramfahrer
-
-* [https://www.spiegel.de/karriere/berliner-tramfahrer-gekuendigt-nach-facebook-post-was-man-auf-social-media-posten-darf-so-ist-die-rechtslage](https://www.spiegel.de/karriere/berliner-tramfahrer-gekuendigt-nach-facebook-post-was-man-auf-social-media-posten-darf-so-ist-die-rechtslage-a-b25a9894-38d8-4465-b201-c59dd529e128#ref=rss)
-### job
-
-* [https://www.spiegel.de/karriere/berliner-tramfahrer-gekuendigt-nach-facebook-post-was-man-auf-social-media-posten-darf-so-ist-die-rechtslage](https://www.spiegel.de/karriere/berliner-tramfahrer-gekuendigt-nach-facebook-post-was-man-auf-social-media-posten-darf-so-ist-die-rechtslage-a-b25a9894-38d8-4465-b201-c59dd529e128#ref=rss)
-### sollten
-
-* [https://www.spiegel.de/karriere/berliner-tramfahrer-gekuendigt-nach-facebook-post-was-man-auf-social-media-posten-darf-so-ist-die-rechtslage](https://www.spiegel.de/karriere/berliner-tramfahrer-gekuendigt-nach-facebook-post-was-man-auf-social-media-posten-darf-so-ist-die-rechtslage-a-b25a9894-38d8-4465-b201-c59dd529e128#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-fdp-gruene-die-ampel-koalition-am-ende-neuwahlen-dringend-erforderlich](https://www.spiegel.de/politik/deutschland/spd-fdp-gruene-die-ampel-koalition-am-ende-neuwahlen-dringend-erforderlich-a-23ed45fb-9e44-4393-a6f4-784e7ebd2a46#ref=rss)
-### the
-
-* [https://www.spiegel.de/kultur/the-cure-und-songs-of-a-lost-world-drohnen-der-vergaenglichkeit](https://www.spiegel.de/kultur/the-cure-und-songs-of-a-lost-world-drohnen-der-vergaenglichkeit-a-f7e14f4a-ec1b-4125-a1ab-6abff9b834df#ref=rss)
-### cure
-
-* [https://www.spiegel.de/kultur/the-cure-und-songs-of-a-lost-world-drohnen-der-vergaenglichkeit](https://www.spiegel.de/kultur/the-cure-und-songs-of-a-lost-world-drohnen-der-vergaenglichkeit-a-f7e14f4a-ec1b-4125-a1ab-6abff9b834df#ref=rss)
-### songs
-
-* [https://www.spiegel.de/kultur/the-cure-und-songs-of-a-lost-world-drohnen-der-vergaenglichkeit](https://www.spiegel.de/kultur/the-cure-und-songs-of-a-lost-world-drohnen-der-vergaenglichkeit-a-f7e14f4a-ec1b-4125-a1ab-6abff9b834df#ref=rss)
-### of
-
-* [https://www.spiegel.de/kultur/the-cure-und-songs-of-a-lost-world-drohnen-der-vergaenglichkeit](https://www.spiegel.de/kultur/the-cure-und-songs-of-a-lost-world-drohnen-der-vergaenglichkeit-a-f7e14f4a-ec1b-4125-a1ab-6abff9b834df#ref=rss)
-### lost
-
-* [https://www.spiegel.de/kultur/the-cure-und-songs-of-a-lost-world-drohnen-der-vergaenglichkeit](https://www.spiegel.de/kultur/the-cure-und-songs-of-a-lost-world-drohnen-der-vergaenglichkeit-a-f7e14f4a-ec1b-4125-a1ab-6abff9b834df#ref=rss)
-### world
-
-* [https://www.spiegel.de/kultur/the-cure-und-songs-of-a-lost-world-drohnen-der-vergaenglichkeit](https://www.spiegel.de/kultur/the-cure-und-songs-of-a-lost-world-drohnen-der-vergaenglichkeit-a-f7e14f4a-ec1b-4125-a1ab-6abff9b834df#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/kultur/the-cure-und-songs-of-a-lost-world-drohnen-der-vergaenglichkeit](https://www.spiegel.de/kultur/the-cure-und-songs-of-a-lost-world-drohnen-der-vergaenglichkeit-a-f7e14f4a-ec1b-4125-a1ab-6abff9b834df#ref=rss)
-* [https://www.spiegel.de/panorama/brasilien-sechs-jahre-nach-mord-an-marielle-franco-hohe-haftstrafen-fuer-zwei-taeter](https://www.spiegel.de/panorama/brasilien-sechs-jahre-nach-mord-an-marielle-franco-hohe-haftstrafen-fuer-zwei-taeter-a-8e065e55-a3cc-4d1d-a9b7-a90ae086b03c#ref=rss)
-### chinesische
-
-* [https://www.spiegel.de/netzwelt/web/chinesische-forscher-machen-aus-metas-sprachmodell-llama-2-eine-militaer-ki](https://www.spiegel.de/netzwelt/web/chinesische-forscher-machen-aus-metas-sprachmodell-llama-2-eine-militaer-ki-a-8b6e1160-f737-44cf-92cd-d5c5685b3cd4#ref=rss)
-### forscher
-
-* [https://www.spiegel.de/netzwelt/web/chinesische-forscher-machen-aus-metas-sprachmodell-llama-2-eine-militaer-ki](https://www.spiegel.de/netzwelt/web/chinesische-forscher-machen-aus-metas-sprachmodell-llama-2-eine-militaer-ki-a-8b6e1160-f737-44cf-92cd-d5c5685b3cd4#ref=rss)
-### metas
-
-* [https://www.spiegel.de/netzwelt/web/chinesische-forscher-machen-aus-metas-sprachmodell-llama-2-eine-militaer-ki](https://www.spiegel.de/netzwelt/web/chinesische-forscher-machen-aus-metas-sprachmodell-llama-2-eine-militaer-ki-a-8b6e1160-f737-44cf-92cd-d5c5685b3cd4#ref=rss)
-### sprachmodell
-
-* [https://www.spiegel.de/netzwelt/web/chinesische-forscher-machen-aus-metas-sprachmodell-llama-2-eine-militaer-ki](https://www.spiegel.de/netzwelt/web/chinesische-forscher-machen-aus-metas-sprachmodell-llama-2-eine-militaer-ki-a-8b6e1160-f737-44cf-92cd-d5c5685b3cd4#ref=rss)
-### llama
-
-* [https://www.spiegel.de/netzwelt/web/chinesische-forscher-machen-aus-metas-sprachmodell-llama-2-eine-militaer-ki](https://www.spiegel.de/netzwelt/web/chinesische-forscher-machen-aus-metas-sprachmodell-llama-2-eine-militaer-ki-a-8b6e1160-f737-44cf-92cd-d5c5685b3cd4#ref=rss)
-### frei
-
-* [https://www.spiegel.de/netzwelt/web/chinesische-forscher-machen-aus-metas-sprachmodell-llama-2-eine-militaer-ki](https://www.spiegel.de/netzwelt/web/chinesische-forscher-machen-aus-metas-sprachmodell-llama-2-eine-militaer-ki-a-8b6e1160-f737-44cf-92cd-d5c5685b3cd4#ref=rss)
-* [https://www.spiegel.de/auto/paris-verbannt-pkw-durchgangsverkehr-aus-dem-stadtzentrum](https://www.spiegel.de/auto/paris-verbannt-pkw-durchgangsverkehr-aus-dem-stadtzentrum-a-71ade922-2110-4342-90a5-4b407361be85#ref=rss)
-### bundestagspräsidentin
-
-* [https://www.spiegel.de/politik/deutschland/bundestagspraesidentin-baerbel-bas-kritisiert-haerteren-debattenton-im-bundestag](https://www.spiegel.de/politik/deutschland/bundestagspraesidentin-baerbel-bas-kritisiert-haerteren-debattenton-im-bundestag-a-929288b2-2aad-4a62-9fdb-82c7509945c3#ref=rss)
-### bärbel
-
-* [https://www.spiegel.de/politik/deutschland/bundestagspraesidentin-baerbel-bas-kritisiert-haerteren-debattenton-im-bundestag](https://www.spiegel.de/politik/deutschland/bundestagspraesidentin-baerbel-bas-kritisiert-haerteren-debattenton-im-bundestag-a-929288b2-2aad-4a62-9fdb-82c7509945c3#ref=rss)
-### bas
-
-* [https://www.spiegel.de/politik/deutschland/bundestagspraesidentin-baerbel-bas-kritisiert-haerteren-debattenton-im-bundestag](https://www.spiegel.de/politik/deutschland/bundestagspraesidentin-baerbel-bas-kritisiert-haerteren-debattenton-im-bundestag-a-929288b2-2aad-4a62-9fdb-82c7509945c3#ref=rss)
-### kritisiert
-
-* [https://www.spiegel.de/politik/deutschland/bundestagspraesidentin-baerbel-bas-kritisiert-haerteren-debattenton-im-bundestag](https://www.spiegel.de/politik/deutschland/bundestagspraesidentin-baerbel-bas-kritisiert-haerteren-debattenton-im-bundestag-a-929288b2-2aad-4a62-9fdb-82c7509945c3#ref=rss)
-* [https://www.spiegel.de/fitness/sporttrend-fitnesstracker-misst-ihre-smartwatch-mist](https://www.spiegel.de/fitness/sporttrend-fitnesstracker-misst-ihre-smartwatch-mist-a-c3a00f4c-fcfd-4cfd-9978-0c4279f45c4a#ref=rss)
-### bundestag
-
-* [https://www.spiegel.de/politik/deutschland/bundestagspraesidentin-baerbel-bas-kritisiert-haerteren-debattenton-im-bundestag](https://www.spiegel.de/politik/deutschland/bundestagspraesidentin-baerbel-bas-kritisiert-haerteren-debattenton-im-bundestag-a-929288b2-2aad-4a62-9fdb-82c7509945c3#ref=rss)
-### heidi
-
-* [https://www.spiegel.de/panorama/leute/heidi-klum-halloweenparty-erst-e-t-dann-baumrinde](https://www.spiegel.de/panorama/leute/heidi-klum-halloweenparty-erst-e-t-dann-baumrinde-a-1fc36c6a-a020-4aab-aa5f-59b21c96082a#ref=rss)
-### klum
-
-* [https://www.spiegel.de/panorama/leute/heidi-klum-halloweenparty-erst-e-t-dann-baumrinde](https://www.spiegel.de/panorama/leute/heidi-klum-halloweenparty-erst-e-t-dann-baumrinde-a-1fc36c6a-a020-4aab-aa5f-59b21c96082a#ref=rss)
-### halloweenparty
-
-* [https://www.spiegel.de/panorama/leute/heidi-klum-halloweenparty-erst-e-t-dann-baumrinde](https://www.spiegel.de/panorama/leute/heidi-klum-halloweenparty-erst-e-t-dann-baumrinde-a-1fc36c6a-a020-4aab-aa5f-59b21c96082a#ref=rss)
-### hansa
-
-* [https://www.spiegel.de/sport/fussball/hansa-rostock-ultra-mitbegruender-sebastian-eggert-wird-aufsichtsrats-chef](https://www.spiegel.de/sport/fussball/hansa-rostock-ultra-mitbegruender-sebastian-eggert-wird-aufsichtsrats-chef-a-6e309f2e-2ddd-41c2-9fad-95f833948b03#ref=rss)
-### rostock
-
-* [https://www.spiegel.de/sport/fussball/hansa-rostock-ultra-mitbegruender-sebastian-eggert-wird-aufsichtsrats-chef](https://www.spiegel.de/sport/fussball/hansa-rostock-ultra-mitbegruender-sebastian-eggert-wird-aufsichtsrats-chef-a-6e309f2e-2ddd-41c2-9fad-95f833948b03#ref=rss)
-### sebastian
-
-* [https://www.spiegel.de/sport/fussball/hansa-rostock-ultra-mitbegruender-sebastian-eggert-wird-aufsichtsrats-chef](https://www.spiegel.de/sport/fussball/hansa-rostock-ultra-mitbegruender-sebastian-eggert-wird-aufsichtsrats-chef-a-6e309f2e-2ddd-41c2-9fad-95f833948b03#ref=rss)
-### eggert
-
-* [https://www.spiegel.de/sport/fussball/hansa-rostock-ultra-mitbegruender-sebastian-eggert-wird-aufsichtsrats-chef](https://www.spiegel.de/sport/fussball/hansa-rostock-ultra-mitbegruender-sebastian-eggert-wird-aufsichtsrats-chef-a-6e309f2e-2ddd-41c2-9fad-95f833948b03#ref=rss)
-### aufsichtsratschef
-
-* [https://www.spiegel.de/sport/fussball/hansa-rostock-ultra-mitbegruender-sebastian-eggert-wird-aufsichtsrats-chef](https://www.spiegel.de/sport/fussball/hansa-rostock-ultra-mitbegruender-sebastian-eggert-wird-aufsichtsrats-chef-a-6e309f2e-2ddd-41c2-9fad-95f833948b03#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/sport/fussball/hansa-rostock-ultra-mitbegruender-sebastian-eggert-wird-aufsichtsrats-chef](https://www.spiegel.de/sport/fussball/hansa-rostock-ultra-mitbegruender-sebastian-eggert-wird-aufsichtsrats-chef-a-6e309f2e-2ddd-41c2-9fad-95f833948b03#ref=rss)
-* [https://www.spiegel.de/ausland/georgien-opposition-ruft-nach-umstrittener-wahl-zu-neuen-protesten-auf](https://www.spiegel.de/ausland/georgien-opposition-ruft-nach-umstrittener-wahl-zu-neuen-protesten-auf-a-2ac3b86a-f3f0-4ca2-9306-25dcad7bc96a#ref=rss)
-### gilt
-
-* [https://www.spiegel.de/auto/paris-verbannt-pkw-durchgangsverkehr-aus-dem-stadtzentrum](https://www.spiegel.de/auto/paris-verbannt-pkw-durchgangsverkehr-aus-dem-stadtzentrum-a-71ade922-2110-4342-90a5-4b407361be85#ref=rss)
-* [https://www.spiegel.de/netzwelt/ki-revolution-treibt-stromverbrauch-in-die-hoehe](https://www.spiegel.de/netzwelt/ki-revolution-treibt-stromverbrauch-in-die-hoehe-a-da916800-2227-4844-8465-800f8292829f#ref=rss)
-### andere
-
-* [https://www.spiegel.de/auto/paris-verbannt-pkw-durchgangsverkehr-aus-dem-stadtzentrum](https://www.spiegel.de/auto/paris-verbannt-pkw-durchgangsverkehr-aus-dem-stadtzentrum-a-71ade922-2110-4342-90a5-4b407361be85#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-mckinsey-studie-fast-jeder-zweite-industriebetrieb-will-ins-ausland-expandieren](https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-mckinsey-studie-fast-jeder-zweite-industriebetrieb-will-ins-ausland-expandieren-a-2016e04c-6c8c-460a-919e-1daaafe22b6f#ref=rss)
-### shaun
-
-* [https://www.spiegel.de/panorama/leute/shaun-white-und-nina-dobrev-haben-sich-verlobt-ruhe-in-frieden-freund](https://www.spiegel.de/panorama/leute/shaun-white-und-nina-dobrev-haben-sich-verlobt-ruhe-in-frieden-freund-a-4c2d78b2-a158-4368-a076-f48eef275e77#ref=rss)
-### white
-
-* [https://www.spiegel.de/panorama/leute/shaun-white-und-nina-dobrev-haben-sich-verlobt-ruhe-in-frieden-freund](https://www.spiegel.de/panorama/leute/shaun-white-und-nina-dobrev-haben-sich-verlobt-ruhe-in-frieden-freund-a-4c2d78b2-a158-4368-a076-f48eef275e77#ref=rss)
-### nina
-
-* [https://www.spiegel.de/panorama/leute/shaun-white-und-nina-dobrev-haben-sich-verlobt-ruhe-in-frieden-freund](https://www.spiegel.de/panorama/leute/shaun-white-und-nina-dobrev-haben-sich-verlobt-ruhe-in-frieden-freund-a-4c2d78b2-a158-4368-a076-f48eef275e77#ref=rss)
-### dobrev
-
-* [https://www.spiegel.de/panorama/leute/shaun-white-und-nina-dobrev-haben-sich-verlobt-ruhe-in-frieden-freund](https://www.spiegel.de/panorama/leute/shaun-white-und-nina-dobrev-haben-sich-verlobt-ruhe-in-frieden-freund-a-4c2d78b2-a158-4368-a076-f48eef275e77#ref=rss)
-### verlobt
-
-* [https://www.spiegel.de/panorama/leute/shaun-white-und-nina-dobrev-haben-sich-verlobt-ruhe-in-frieden-freund](https://www.spiegel.de/panorama/leute/shaun-white-und-nina-dobrev-haben-sich-verlobt-ruhe-in-frieden-freund-a-4c2d78b2-a158-4368-a076-f48eef275e77#ref=rss)
-### große
-
-* [https://www.spiegel.de/fitness/sporttrend-fitnesstracker-misst-ihre-smartwatch-mist](https://www.spiegel.de/fitness/sporttrend-fitnesstracker-misst-ihre-smartwatch-mist-a-c3a00f4c-fcfd-4cfd-9978-0c4279f45c4a#ref=rss)
-* [https://www.spiegel.de/netzwelt/ki-revolution-treibt-stromverbrauch-in-die-hoehe](https://www.spiegel.de/netzwelt/ki-revolution-treibt-stromverbrauch-in-die-hoehe-a-da916800-2227-4844-8465-800f8292829f#ref=rss)
-### viele
-
-* [https://www.spiegel.de/fitness/sporttrend-fitnesstracker-misst-ihre-smartwatch-mist](https://www.spiegel.de/fitness/sporttrend-fitnesstracker-misst-ihre-smartwatch-mist-a-c3a00f4c-fcfd-4cfd-9978-0c4279f45c4a#ref=rss)
-* [https://www.spiegel.de/panorama/brasilien-sechs-jahre-nach-mord-an-marielle-franco-hohe-haftstrafen-fuer-zwei-taeter](https://www.spiegel.de/panorama/brasilien-sechs-jahre-nach-mord-an-marielle-franco-hohe-haftstrafen-fuer-zwei-taeter-a-8e065e55-a3cc-4d1d-a9b7-a90ae086b03c#ref=rss)
-### lewis
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-darf-ehemaliges-auto-von-ayrton-senna-fahren](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-darf-ehemaliges-auto-von-ayrton-senna-fahren-a-5fecf434-c350-4934-a007-e6355281479f#ref=rss)
-### hamilton
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-darf-ehemaliges-auto-von-ayrton-senna-fahren](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-darf-ehemaliges-auto-von-ayrton-senna-fahren-a-5fecf434-c350-4934-a007-e6355281479f#ref=rss)
-### ayrton
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-darf-ehemaliges-auto-von-ayrton-senna-fahren](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-darf-ehemaliges-auto-von-ayrton-senna-fahren-a-5fecf434-c350-4934-a007-e6355281479f#ref=rss)
-### senna
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-darf-ehemaliges-auto-von-ayrton-senna-fahren](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-darf-ehemaliges-auto-von-ayrton-senna-fahren-a-5fecf434-c350-4934-a007-e6355281479f#ref=rss)
-### gerhard
-
-* [https://www.spiegel.de/ausland/gerhard-schroeder-und-viktor-orban-in-wien-denkwuerdiger-friedensgipfel-zum-ukrainekrieg](https://www.spiegel.de/ausland/gerhard-schroeder-und-viktor-orban-in-wien-denkwuerdiger-friedensgipfel-zum-ukrainekrieg-a-a643bebf-0f6b-4b5e-bfa1-924b13e626ee#ref=rss)
-### schröder
-
-* [https://www.spiegel.de/ausland/gerhard-schroeder-und-viktor-orban-in-wien-denkwuerdiger-friedensgipfel-zum-ukrainekrieg](https://www.spiegel.de/ausland/gerhard-schroeder-und-viktor-orban-in-wien-denkwuerdiger-friedensgipfel-zum-ukrainekrieg-a-a643bebf-0f6b-4b5e-bfa1-924b13e626ee#ref=rss)
-### viktor
-
-* [https://www.spiegel.de/ausland/gerhard-schroeder-und-viktor-orban-in-wien-denkwuerdiger-friedensgipfel-zum-ukrainekrieg](https://www.spiegel.de/ausland/gerhard-schroeder-und-viktor-orban-in-wien-denkwuerdiger-friedensgipfel-zum-ukrainekrieg-a-a643bebf-0f6b-4b5e-bfa1-924b13e626ee#ref=rss)
-### orbán
-
-* [https://www.spiegel.de/ausland/gerhard-schroeder-und-viktor-orban-in-wien-denkwuerdiger-friedensgipfel-zum-ukrainekrieg](https://www.spiegel.de/ausland/gerhard-schroeder-und-viktor-orban-in-wien-denkwuerdiger-friedensgipfel-zum-ukrainekrieg-a-a643bebf-0f6b-4b5e-bfa1-924b13e626ee#ref=rss)
-### wien
-
-* [https://www.spiegel.de/ausland/gerhard-schroeder-und-viktor-orban-in-wien-denkwuerdiger-friedensgipfel-zum-ukrainekrieg](https://www.spiegel.de/ausland/gerhard-schroeder-und-viktor-orban-in-wien-denkwuerdiger-friedensgipfel-zum-ukrainekrieg-a-a643bebf-0f6b-4b5e-bfa1-924b13e626ee#ref=rss)
-### ampelkoalition
-
-* [https://www.spiegel.de/politik/deutschland/spd-fdp-gruene-die-ampel-koalition-am-ende-neuwahlen-dringend-erforderlich](https://www.spiegel.de/politik/deutschland/spd-fdp-gruene-die-ampel-koalition-am-ende-neuwahlen-dringend-erforderlich-a-23ed45fb-9e44-4393-a6f4-784e7ebd2a46#ref=rss)
-### endlich
-
-* [https://www.spiegel.de/politik/deutschland/spd-fdp-gruene-die-ampel-koalition-am-ende-neuwahlen-dringend-erforderlich](https://www.spiegel.de/politik/deutschland/spd-fdp-gruene-die-ampel-koalition-am-ende-neuwahlen-dringend-erforderlich-a-23ed45fb-9e44-4393-a6f4-784e7ebd2a46#ref=rss)
-* [https://www.spiegel.de/wirtschaft/boeing-bessert-lohnangebot-im-tarifstreit-fuer-seine-arbeiter-auf-38-prozent-nach](https://www.spiegel.de/wirtschaft/boeing-bessert-lohnangebot-im-tarifstreit-fuer-seine-arbeiter-auf-38-prozent-nach-a-69a9a19b-3990-446e-af65-5975634f6dd4#ref=rss)
-### halloween
-
-* [https://www.spiegel.de/panorama/polizeieinsaetze-zu-halloween-boeller-und-eier-flogen-in-hannover-und-gelsenkirchen](https://www.spiegel.de/panorama/polizeieinsaetze-zu-halloween-boeller-und-eier-flogen-in-hannover-und-gelsenkirchen-a-b3150845-d676-4639-b43c-f32147603714#ref=rss)
-### eier
-
-* [https://www.spiegel.de/panorama/polizeieinsaetze-zu-halloween-boeller-und-eier-flogen-in-hannover-und-gelsenkirchen](https://www.spiegel.de/panorama/polizeieinsaetze-zu-halloween-boeller-und-eier-flogen-in-hannover-und-gelsenkirchen-a-b3150845-d676-4639-b43c-f32147603714#ref=rss)
-### flogen
-
-* [https://www.spiegel.de/panorama/polizeieinsaetze-zu-halloween-boeller-und-eier-flogen-in-hannover-und-gelsenkirchen](https://www.spiegel.de/panorama/polizeieinsaetze-zu-halloween-boeller-und-eier-flogen-in-hannover-und-gelsenkirchen-a-b3150845-d676-4639-b43c-f32147603714#ref=rss)
-### hannover
-
-* [https://www.spiegel.de/panorama/polizeieinsaetze-zu-halloween-boeller-und-eier-flogen-in-hannover-und-gelsenkirchen](https://www.spiegel.de/panorama/polizeieinsaetze-zu-halloween-boeller-und-eier-flogen-in-hannover-und-gelsenkirchen-a-b3150845-d676-4639-b43c-f32147603714#ref=rss)
-### gelsenkirchen
-
-* [https://www.spiegel.de/panorama/polizeieinsaetze-zu-halloween-boeller-und-eier-flogen-in-hannover-und-gelsenkirchen](https://www.spiegel.de/panorama/polizeieinsaetze-zu-halloween-boeller-und-eier-flogen-in-hannover-und-gelsenkirchen-a-b3150845-d676-4639-b43c-f32147603714#ref=rss)
-### chinas
-
-* [https://www.spiegel.de/ausland/usa-suchen-chinas-hilfe-gegen-nordkoreas-soldaten-in-der-ukraine](https://www.spiegel.de/ausland/usa-suchen-chinas-hilfe-gegen-nordkoreas-soldaten-in-der-ukraine-a-f2c60cc9-59c8-4868-906c-ffc48073e8f8#ref=rss)
-### soldaten
-
-* [https://www.spiegel.de/ausland/usa-suchen-chinas-hilfe-gegen-nordkoreas-soldaten-in-der-ukraine](https://www.spiegel.de/ausland/usa-suchen-chinas-hilfe-gegen-nordkoreas-soldaten-in-der-ukraine-a-f2c60cc9-59c8-4868-906c-ffc48073e8f8#ref=rss)
-* [https://www.spiegel.de/panorama/spanien-schickt-mehr-einsatzkraefte-ins-katastrophengebiet](https://www.spiegel.de/panorama/spanien-schickt-mehr-einsatzkraefte-ins-katastrophengebiet-a-4ab96639-ecc0-43ca-80b9-c04d91ebbf78#ref=rss)
-### laut
-
-* [https://www.spiegel.de/ausland/usa-suchen-chinas-hilfe-gegen-nordkoreas-soldaten-in-der-ukraine](https://www.spiegel.de/ausland/usa-suchen-chinas-hilfe-gegen-nordkoreas-soldaten-in-der-ukraine-a-f2c60cc9-59c8-4868-906c-ffc48073e8f8#ref=rss)
-* [https://www.spiegel.de/ausland/iran-plant-offenbar-erneuten-gegenangriff-auf-israel](https://www.spiegel.de/ausland/iran-plant-offenbar-erneuten-gegenangriff-auf-israel-a-bc371b34-048c-42ae-ba54-bd62772be191#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-mckinsey-studie-fast-jeder-zweite-industriebetrieb-will-ins-ausland-expandieren](https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-mckinsey-studie-fast-jeder-zweite-industriebetrieb-will-ins-ausland-expandieren-a-2016e04c-6c8c-460a-919e-1daaafe22b6f#ref=rss)
-* [https://www.spiegel.de/ausland/iran-plant-offenbar-erneuten-gegenangriff-auf-israel](https://www.spiegel.de/ausland/iran-plant-offenbar-erneuten-gegenangriff-auf-israel-a-bc371b34-048c-42ae-ba54-bd62772be191#ref=rss)
-### georgien
-
-* [https://www.spiegel.de/ausland/georgien-opposition-ruft-nach-umstrittener-wahl-zu-neuen-protesten-auf](https://www.spiegel.de/ausland/georgien-opposition-ruft-nach-umstrittener-wahl-zu-neuen-protesten-auf-a-2ac3b86a-f3f0-4ca2-9306-25dcad7bc96a#ref=rss)
-### opposition
-
-* [https://www.spiegel.de/ausland/georgien-opposition-ruft-nach-umstrittener-wahl-zu-neuen-protesten-auf](https://www.spiegel.de/ausland/georgien-opposition-ruft-nach-umstrittener-wahl-zu-neuen-protesten-auf-a-2ac3b86a-f3f0-4ca2-9306-25dcad7bc96a#ref=rss)
-### marielle
-
-* [https://www.spiegel.de/panorama/brasilien-sechs-jahre-nach-mord-an-marielle-franco-hohe-haftstrafen-fuer-zwei-taeter](https://www.spiegel.de/panorama/brasilien-sechs-jahre-nach-mord-an-marielle-franco-hohe-haftstrafen-fuer-zwei-taeter-a-8e065e55-a3cc-4d1d-a9b7-a90ae086b03c#ref=rss)
-### franco
-
-* [https://www.spiegel.de/panorama/brasilien-sechs-jahre-nach-mord-an-marielle-franco-hohe-haftstrafen-fuer-zwei-taeter](https://www.spiegel.de/panorama/brasilien-sechs-jahre-nach-mord-an-marielle-franco-hohe-haftstrafen-fuer-zwei-taeter-a-8e065e55-a3cc-4d1d-a9b7-a90ae086b03c#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/brasilien-sechs-jahre-nach-mord-an-marielle-franco-hohe-haftstrafen-fuer-zwei-taeter](https://www.spiegel.de/panorama/brasilien-sechs-jahre-nach-mord-an-marielle-franco-hohe-haftstrafen-fuer-zwei-taeter-a-8e065e55-a3cc-4d1d-a9b7-a90ae086b03c#ref=rss)
-### osnabrück
-
-* [https://www.spiegel.de/wirtschaft/volkswagen-osnabrueck-in-sorge-welches-vw-werk-ist-bedroht](https://www.spiegel.de/wirtschaft/volkswagen-osnabrueck-in-sorge-welches-vw-werk-ist-bedroht-a-a8cadd88-71d4-4419-b5c1-96ac228acf04#ref=rss)
-### hoffnung
-
-* [https://www.spiegel.de/wirtschaft/intels-neue-hoffnung](https://www.spiegel.de/wirtschaft/intels-neue-hoffnung-a-fd3d8dab-5d02-4acf-b9ab-e4da198c9d5d#ref=rss)
-### nächste
-
-* [https://www.spiegel.de/netzwelt/ki-revolution-treibt-stromverbrauch-in-die-hoehe](https://www.spiegel.de/netzwelt/ki-revolution-treibt-stromverbrauch-in-die-hoehe-a-da916800-2227-4844-8465-800f8292829f#ref=rss)
-* [https://www.spiegel.de/ausland/iran-plant-offenbar-erneuten-gegenangriff-auf-israel](https://www.spiegel.de/ausland/iran-plant-offenbar-erneuten-gegenangriff-auf-israel-a-bc371b34-048c-42ae-ba54-bd62772be191#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/iran-plant-offenbar-erneuten-gegenangriff-auf-israel](https://www.spiegel.de/ausland/iran-plant-offenbar-erneuten-gegenangriff-auf-israel-a-bc371b34-048c-42ae-ba54-bd62772be191#ref=rss)
-### boeing
-
-* [https://www.spiegel.de/wirtschaft/boeing-bessert-lohnangebot-im-tarifstreit-fuer-seine-arbeiter-auf-38-prozent-nach](https://www.spiegel.de/wirtschaft/boeing-bessert-lohnangebot-im-tarifstreit-fuer-seine-arbeiter-auf-38-prozent-nach-a-69a9a19b-3990-446e-af65-5975634f6dd4#ref=rss)
-### tarifstreit
-
-* [https://www.spiegel.de/wirtschaft/boeing-bessert-lohnangebot-im-tarifstreit-fuer-seine-arbeiter-auf-38-prozent-nach](https://www.spiegel.de/wirtschaft/boeing-bessert-lohnangebot-im-tarifstreit-fuer-seine-arbeiter-auf-38-prozent-nach-a-69a9a19b-3990-446e-af65-5975634f6dd4#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/michigan-donald-trump-und-kamala-harris-kaempfen-um-arabische-und-muslimische-waehler-podcast](https://www.spiegel.de/ausland/michigan-donald-trump-und-kamala-harris-kaempfen-um-arabische-und-muslimische-waehler-podcast-a-6dca71ab-0de2-430d-b261-ebfead716b0c#ref=rss)
+* [https://www.spiegel.de/ausland/michigan-warum-arabische-amerikaner-donald-trump-zum-sieg-verhelfen-koennten](https://www.spiegel.de/ausland/michigan-warum-arabische-amerikaner-donald-trump-zum-sieg-verhelfen-koennten-a-f0dacd88-27c2-4f62-b219-2cdabf7d59c5#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-wie-wird-sich-die-welt-veraendern-wenn-trump-oder-harris-die-wahl-gewinnt](https://www.spiegel.de/ausland/us-wahl-2024-wie-wird-sich-die-welt-veraendern-wenn-trump-oder-harris-die-wahl-gewinnt-a-a3a0667b-0a7e-4c53-9f54-42509cee5a7a#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-jennifer-lopez-unterstuetzt-kamala-harris-im-endspurt](https://www.spiegel.de/ausland/us-wahl-2024-jennifer-lopez-unterstuetzt-kamala-harris-im-endspurt-a-e47e46b7-a23c-479e-ac3a-e6a22953b8ce#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-ein-roadtrip-durch-die-geteilten-staaten-von-amerika-spiegel-tv](https://www.spiegel.de/ausland/us-wahl-2024-ein-roadtrip-durch-die-geteilten-staaten-von-amerika-spiegel-tv-a-f96a1b36-2bf7-4ee5-99b4-896d9c3dea0f#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/michigan-donald-trump-und-kamala-harris-kaempfen-um-arabische-und-muslimische-waehler-podcast](https://www.spiegel.de/ausland/michigan-donald-trump-und-kamala-harris-kaempfen-um-arabische-und-muslimische-waehler-podcast-a-6dca71ab-0de2-430d-b261-ebfead716b0c#ref=rss)
+* [https://www.spiegel.de/ausland/michigan-warum-arabische-amerikaner-donald-trump-zum-sieg-verhelfen-koennten](https://www.spiegel.de/ausland/michigan-warum-arabische-amerikaner-donald-trump-zum-sieg-verhelfen-koennten-a-f0dacd88-27c2-4f62-b219-2cdabf7d59c5#ref=rss)
+* [https://www.spiegel.de/kultur/tv/netflix-prime-video-wow-sky-neue-serien-und-filme-im-november-2024-was-sich-lohnt](https://www.spiegel.de/kultur/tv/netflix-prime-video-wow-sky-neue-serien-und-filme-im-november-2024-was-sich-lohnt-a-e3f7d607-9a92-46cc-99c2-f5e3ae7e763b#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-jennifer-lopez-unterstuetzt-kamala-harris-im-endspurt](https://www.spiegel.de/ausland/us-wahl-2024-jennifer-lopez-unterstuetzt-kamala-harris-im-endspurt-a-e47e46b7-a23c-479e-ac3a-e6a22953b8ce#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/ausland/halloween-verbot-in-shanghai-warum-sich-chinas-polizei-vor-der-spassveranstaltung-fuerchtet](https://www.spiegel.de/ausland/halloween-verbot-in-shanghai-warum-sich-chinas-polizei-vor-der-spassveranstaltung-fuerchtet-a-e9c1de34-8d70-4a51-99ac-2ab2cdf4c7aa#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/seiffen-polizei-geht-im-erzgebirge-erneut-gegen-reichsbuerger-vor](https://www.spiegel.de/panorama/gesellschaft/seiffen-polizei-geht-im-erzgebirge-erneut-gegen-reichsbuerger-vor-a-00d9b2b5-1096-4def-9a38-cdd3636fc6b3#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-wilhelmsburg-mann-oeffnet-kindern-an-halloween-die-tuer-mit-waffe-in-der-hand](https://www.spiegel.de/panorama/justiz/hamburg-wilhelmsburg-mann-oeffnet-kindern-an-halloween-die-tuer-mit-waffe-in-der-hand-a-30697727-2742-40b0-9b0b-bf270eceea83#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/schwalmstadt-in-hessen-von-polizei-erschossene-20-jaehrige-trug-softairwaffe](https://www.spiegel.de/panorama/justiz/schwalmstadt-in-hessen-von-polizei-erschossene-20-jaehrige-trug-softairwaffe-a-a6e673bd-8d2f-47cd-b1e9-30fb808a8cad#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tatort-aus-dresden-unter-feuer-mit-cornelia-groeschel-ueber-korpsgeist-bei-der-polizei](https://www.spiegel.de/kultur/tv/tatort-aus-dresden-unter-feuer-mit-cornelia-groeschel-ueber-korpsgeist-bei-der-polizei-a-36876cf5-11ac-4ab8-8418-e3ecea07b1c9#ref=rss)
+### harris
+
+* [https://www.spiegel.de/ausland/michigan-donald-trump-und-kamala-harris-kaempfen-um-arabische-und-muslimische-waehler-podcast](https://www.spiegel.de/ausland/michigan-donald-trump-und-kamala-harris-kaempfen-um-arabische-und-muslimische-waehler-podcast-a-6dca71ab-0de2-430d-b261-ebfead716b0c#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-wie-wird-sich-die-welt-veraendern-wenn-trump-oder-harris-die-wahl-gewinnt](https://www.spiegel.de/ausland/us-wahl-2024-wie-wird-sich-die-welt-veraendern-wenn-trump-oder-harris-die-wahl-gewinnt-a-a3a0667b-0a7e-4c53-9f54-42509cee5a7a#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-jennifer-lopez-unterstuetzt-kamala-harris-im-endspurt](https://www.spiegel.de/ausland/us-wahl-2024-jennifer-lopez-unterstuetzt-kamala-harris-im-endspurt-a-e47e46b7-a23c-479e-ac3a-e6a22953b8ce#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-ein-roadtrip-durch-die-geteilten-staaten-von-amerika-spiegel-tv](https://www.spiegel.de/ausland/us-wahl-2024-ein-roadtrip-durch-die-geteilten-staaten-von-amerika-spiegel-tv-a-f96a1b36-2bf7-4ee5-99b4-896d9c3dea0f#ref=rss)
+### 2024
+
+* [https://www.spiegel.de/kultur/tv/netflix-prime-video-wow-sky-neue-serien-und-filme-im-november-2024-was-sich-lohnt](https://www.spiegel.de/kultur/tv/netflix-prime-video-wow-sky-neue-serien-und-filme-im-november-2024-was-sich-lohnt-a-e3f7d607-9a92-46cc-99c2-f5e3ae7e763b#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-wie-wird-sich-die-welt-veraendern-wenn-trump-oder-harris-die-wahl-gewinnt](https://www.spiegel.de/ausland/us-wahl-2024-wie-wird-sich-die-welt-veraendern-wenn-trump-oder-harris-die-wahl-gewinnt-a-a3a0667b-0a7e-4c53-9f54-42509cee5a7a#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-jennifer-lopez-unterstuetzt-kamala-harris-im-endspurt](https://www.spiegel.de/ausland/us-wahl-2024-jennifer-lopez-unterstuetzt-kamala-harris-im-endspurt-a-e47e46b7-a23c-479e-ac3a-e6a22953b8ce#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-europas-gruene-fordern-rueckzug-von-jill-stein-im-us-wahlkampf](https://www.spiegel.de/ausland/us-wahl-2024-europas-gruene-fordern-rueckzug-von-jill-stein-im-us-wahlkampf-a-99d6211b-76ff-41c8-add0-98c33d47a7e8#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-ein-roadtrip-durch-die-geteilten-staaten-von-amerika-spiegel-tv](https://www.spiegel.de/ausland/us-wahl-2024-ein-roadtrip-durch-die-geteilten-staaten-von-amerika-spiegel-tv-a-f96a1b36-2bf7-4ee5-99b4-896d9c3dea0f#ref=rss)
+### michigan
+
+* [https://www.spiegel.de/ausland/michigan-donald-trump-und-kamala-harris-kaempfen-um-arabische-und-muslimische-waehler-podcast](https://www.spiegel.de/ausland/michigan-donald-trump-und-kamala-harris-kaempfen-um-arabische-und-muslimische-waehler-podcast-a-6dca71ab-0de2-430d-b261-ebfead716b0c#ref=rss)
+* [https://www.spiegel.de/ausland/michigan-warum-arabische-amerikaner-donald-trump-zum-sieg-verhelfen-koennten](https://www.spiegel.de/ausland/michigan-warum-arabische-amerikaner-donald-trump-zum-sieg-verhelfen-koennten-a-f0dacd88-27c2-4f62-b219-2cdabf7d59c5#ref=rss)
+### lange
+
+* [https://www.spiegel.de/wissenschaft/natur/infinite-monkey-theorem-eher-verglueht-das-universum-als-dass-affen-shakespeare-schreiben](https://www.spiegel.de/wissenschaft/natur/infinite-monkey-theorem-eher-verglueht-das-universum-als-dass-affen-shakespeare-schreiben-a-89bb1d52-3d02-49d8-9c29-269d46bad8ba#ref=rss)
 ### spanien
 
-* [https://www.spiegel.de/panorama/spanien-schickt-mehr-einsatzkraefte-ins-katastrophengebiet](https://www.spiegel.de/panorama/spanien-schickt-mehr-einsatzkraefte-ins-katastrophengebiet-a-4ab96639-ecc0-43ca-80b9-c04d91ebbf78#ref=rss)
+* [https://www.spiegel.de/panorama/spanien-nach-dem-jahrhundertunwetter-luftaufnahmen-zeigen-die-schaeden-im-katastrophengebiet](https://www.spiegel.de/panorama/spanien-nach-dem-jahrhundertunwetter-luftaufnahmen-zeigen-die-schaeden-im-katastrophengebiet-a-d4201d4b-ead4-4087-b4d1-8337ac1977e6#ref=rss)
+* [https://www.spiegel.de/ausland/spanien-nach-dem-unwetter-manche-muessen-ihre-toten-betrauern-andere-sind-noch-im-chaos](https://www.spiegel.de/ausland/spanien-nach-dem-unwetter-manche-muessen-ihre-toten-betrauern-andere-sind-noch-im-chaos-a-dbf79218-f433-40cc-88db-1b8b1a14bc6f#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/ausland/spanien-nach-dem-unwetter-manche-muessen-ihre-toten-betrauern-andere-sind-noch-im-chaos](https://www.spiegel.de/ausland/spanien-nach-dem-unwetter-manche-muessen-ihre-toten-betrauern-andere-sind-noch-im-chaos-a-dbf79218-f433-40cc-88db-1b8b1a14bc6f#ref=rss)
+* [https://www.spiegel.de/panorama/serbien-acht-menschen-sterben-bei-einsturz-eines-bahnhofs-in-novi-sad](https://www.spiegel.de/panorama/serbien-acht-menschen-sterben-bei-einsturz-eines-bahnhofs-in-novi-sad-a-4b9d3058-f477-48d9-9cac-4a8cb1c8a79c#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-ein-roadtrip-durch-die-geteilten-staaten-von-amerika-spiegel-tv](https://www.spiegel.de/ausland/us-wahl-2024-ein-roadtrip-durch-die-geteilten-staaten-von-amerika-spiegel-tv-a-f96a1b36-2bf7-4ee5-99b4-896d9c3dea0f#ref=rss)
+### uswahl
+
+* [https://www.spiegel.de/ausland/us-wahl-2024-wie-wird-sich-die-welt-veraendern-wenn-trump-oder-harris-die-wahl-gewinnt](https://www.spiegel.de/ausland/us-wahl-2024-wie-wird-sich-die-welt-veraendern-wenn-trump-oder-harris-die-wahl-gewinnt-a-a3a0667b-0a7e-4c53-9f54-42509cee5a7a#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-jennifer-lopez-unterstuetzt-kamala-harris-im-endspurt](https://www.spiegel.de/ausland/us-wahl-2024-jennifer-lopez-unterstuetzt-kamala-harris-im-endspurt-a-e47e46b7-a23c-479e-ac3a-e6a22953b8ce#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-europas-gruene-fordern-rueckzug-von-jill-stein-im-us-wahlkampf](https://www.spiegel.de/ausland/us-wahl-2024-europas-gruene-fordern-rueckzug-von-jill-stein-im-us-wahlkampf-a-99d6211b-76ff-41c8-add0-98c33d47a7e8#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-ein-roadtrip-durch-die-geteilten-staaten-von-amerika-spiegel-tv](https://www.spiegel.de/ausland/us-wahl-2024-ein-roadtrip-durch-die-geteilten-staaten-von-amerika-spiegel-tv-a-f96a1b36-2bf7-4ee5-99b4-896d9c3dea0f#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/us-wahl-2024-jennifer-lopez-unterstuetzt-kamala-harris-im-endspurt](https://www.spiegel.de/ausland/us-wahl-2024-jennifer-lopez-unterstuetzt-kamala-harris-im-endspurt-a-e47e46b7-a23c-479e-ac3a-e6a22953b8ce#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-der-amerikanische-traum-lebt-gruenderin-danica-lause](https://www.spiegel.de/wirtschaft/unternehmen/usa-der-amerikanische-traum-lebt-gruenderin-danica-lause-a-848634ba-2f65-4530-9dc1-ea1cddc1ed22#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-europas-gruene-fordern-rueckzug-von-jill-stein-im-us-wahlkampf](https://www.spiegel.de/ausland/us-wahl-2024-europas-gruene-fordern-rueckzug-von-jill-stein-im-us-wahlkampf-a-99d6211b-76ff-41c8-add0-98c33d47a7e8#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-ein-roadtrip-durch-die-geteilten-staaten-von-amerika-spiegel-tv](https://www.spiegel.de/ausland/us-wahl-2024-ein-roadtrip-durch-die-geteilten-staaten-von-amerika-spiegel-tv-a-f96a1b36-2bf7-4ee5-99b4-896d9c3dea0f#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/krieg-zwischen-hisbollah-und-israel-gefaehrdet-kulturerbe-im-libanon](https://www.spiegel.de/ausland/krieg-zwischen-hisbollah-und-israel-gefaehrdet-kulturerbe-im-libanon-a-13a359e3-0529-485f-b300-66973ba87bd9#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-wie-wird-sich-die-welt-veraendern-wenn-trump-oder-harris-die-wahl-gewinnt](https://www.spiegel.de/ausland/us-wahl-2024-wie-wird-sich-die-welt-veraendern-wenn-trump-oder-harris-die-wahl-gewinnt-a-a3a0667b-0a7e-4c53-9f54-42509cee5a7a#ref=rss)
+### kamala
+
+* [https://www.spiegel.de/ausland/michigan-donald-trump-und-kamala-harris-kaempfen-um-arabische-und-muslimische-waehler-podcast](https://www.spiegel.de/ausland/michigan-donald-trump-und-kamala-harris-kaempfen-um-arabische-und-muslimische-waehler-podcast-a-6dca71ab-0de2-430d-b261-ebfead716b0c#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-jennifer-lopez-unterstuetzt-kamala-harris-im-endspurt](https://www.spiegel.de/ausland/us-wahl-2024-jennifer-lopez-unterstuetzt-kamala-harris-im-endspurt-a-e47e46b7-a23c-479e-ac3a-e6a22953b8ce#ref=rss)
+### viele
+
+* [https://www.spiegel.de/ausland/michigan-donald-trump-und-kamala-harris-kaempfen-um-arabische-und-muslimische-waehler-podcast](https://www.spiegel.de/ausland/michigan-donald-trump-und-kamala-harris-kaempfen-um-arabische-und-muslimische-waehler-podcast-a-6dca71ab-0de2-430d-b261-ebfead716b0c#ref=rss)
+* [https://www.spiegel.de/ausland/michigan-warum-arabische-amerikaner-donald-trump-zum-sieg-verhelfen-koennten](https://www.spiegel.de/ausland/michigan-warum-arabische-amerikaner-donald-trump-zum-sieg-verhelfen-koennten-a-f0dacd88-27c2-4f62-b219-2cdabf7d59c5#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-jennifer-lopez-unterstuetzt-kamala-harris-im-endspurt](https://www.spiegel.de/ausland/us-wahl-2024-jennifer-lopez-unterstuetzt-kamala-harris-im-endspurt-a-e47e46b7-a23c-479e-ac3a-e6a22953b8ce#ref=rss)
+### wurzeln
+
+* [https://www.spiegel.de/ausland/michigan-donald-trump-und-kamala-harris-kaempfen-um-arabische-und-muslimische-waehler-podcast](https://www.spiegel.de/ausland/michigan-donald-trump-und-kamala-harris-kaempfen-um-arabische-und-muslimische-waehler-podcast-a-6dca71ab-0de2-430d-b261-ebfead716b0c#ref=rss)
+* [https://www.spiegel.de/ausland/michigan-warum-arabische-amerikaner-donald-trump-zum-sieg-verhelfen-koennten](https://www.spiegel.de/ausland/michigan-warum-arabische-amerikaner-donald-trump-zum-sieg-verhelfen-koennten-a-f0dacd88-27c2-4f62-b219-2cdabf7d59c5#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-jennifer-lopez-unterstuetzt-kamala-harris-im-endspurt](https://www.spiegel.de/ausland/us-wahl-2024-jennifer-lopez-unterstuetzt-kamala-harris-im-endspurt-a-e47e46b7-a23c-479e-ac3a-e6a22953b8ce#ref=rss)
+### ampel
+
+* [https://www.spiegel.de/politik/deutschland/ampelfraktionen-und-union-einigen-sich-auf-resolution-gegen-antisemitismus](https://www.spiegel.de/politik/deutschland/ampelfraktionen-und-union-einigen-sich-auf-resolution-gegen-antisemitismus-a-7ab67476-a762-410a-a8cb-67e2c2601168#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-ueberrumpelt-ampel-mit-neuem-grundsatzpapier-zur-wirtschaftswende](https://www.spiegel.de/politik/deutschland/christian-lindner-ueberrumpelt-ampel-mit-neuem-grundsatzpapier-zur-wirtschaftswende-a-b7b643ba-fa80-4695-a07b-522c9ed5da7d#ref=rss)
+### studie
+
+* [https://www.spiegel.de/wissenschaft/natur/infinite-monkey-theorem-eher-verglueht-das-universum-als-dass-affen-shakespeare-schreiben](https://www.spiegel.de/wissenschaft/natur/infinite-monkey-theorem-eher-verglueht-das-universum-als-dass-affen-shakespeare-schreiben-a-89bb1d52-3d02-49d8-9c29-269d46bad8ba#ref=rss)
+* [https://www.spiegel.de/gesundheit/schwangerschaft/zucker-und-schwangerschaft-studie-zeigt-gesundheitsrisiken-im-spaeteren-leben](https://www.spiegel.de/gesundheit/schwangerschaft/zucker-und-schwangerschaft-studie-zeigt-gesundheitsrisiken-im-spaeteren-leben-a-ee8c5f01-ce80-409e-8c16-db0829c6d062#ref=rss)
+### junge
+
+* [https://www.spiegel.de/panorama/justiz/zingst-15-jaehriger-an-ueberdosis-ecstasy-pillen-gestorben](https://www.spiegel.de/panorama/justiz/zingst-15-jaehriger-an-ueberdosis-ecstasy-pillen-gestorben-a-faf04550-eda4-4cd2-949b-b9cda4c12118#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-jennifer-lopez-unterstuetzt-kamala-harris-im-endspurt](https://www.spiegel.de/ausland/us-wahl-2024-jennifer-lopez-unterstuetzt-kamala-harris-im-endspurt-a-e47e46b7-a23c-479e-ac3a-e6a22953b8ce#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-der-amerikanische-traum-lebt-gruenderin-danica-lause](https://www.spiegel.de/wirtschaft/unternehmen/usa-der-amerikanische-traum-lebt-gruenderin-danica-lause-a-848634ba-2f65-4530-9dc1-ea1cddc1ed22#ref=rss)
+### welt
+
+* [https://www.spiegel.de/kultur/musik/helene-fischer-und-die-trashige-schlagerszene-die-kinderlieder-der-schlagersaengerin](https://www.spiegel.de/kultur/musik/helene-fischer-und-die-trashige-schlagerszene-die-kinderlieder-der-schlagersaengerin-a-bdc0734e-78ac-42fc-a3d1-99d3363e862d#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-wie-wird-sich-die-welt-veraendern-wenn-trump-oder-harris-die-wahl-gewinnt](https://www.spiegel.de/ausland/us-wahl-2024-wie-wird-sich-die-welt-veraendern-wenn-trump-oder-harris-die-wahl-gewinnt-a-a3a0667b-0a7e-4c53-9f54-42509cee5a7a#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-ein-roadtrip-durch-die-geteilten-staaten-von-amerika-spiegel-tv](https://www.spiegel.de/ausland/us-wahl-2024-ein-roadtrip-durch-die-geteilten-staaten-von-amerika-spiegel-tv-a-f96a1b36-2bf7-4ee5-99b4-896d9c3dea0f#ref=rss)
+### hand
+
+* [https://www.spiegel.de/kultur/musik/helene-fischer-und-die-trashige-schlagerszene-die-kinderlieder-der-schlagersaengerin](https://www.spiegel.de/kultur/musik/helene-fischer-und-die-trashige-schlagerszene-die-kinderlieder-der-schlagersaengerin-a-bdc0734e-78ac-42fc-a3d1-99d3363e862d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-wilhelmsburg-mann-oeffnet-kindern-an-halloween-die-tuer-mit-waffe-in-der-hand](https://www.spiegel.de/panorama/justiz/hamburg-wilhelmsburg-mann-oeffnet-kindern-an-halloween-die-tuer-mit-waffe-in-der-hand-a-30697727-2742-40b0-9b0b-bf270eceea83#ref=rss)
+### diesem
+
+* [https://www.spiegel.de/kultur/tv/netflix-prime-video-wow-sky-neue-serien-und-filme-im-november-2024-was-sich-lohnt](https://www.spiegel.de/kultur/tv/netflix-prime-video-wow-sky-neue-serien-und-filme-im-november-2024-was-sich-lohnt-a-e3f7d607-9a92-46cc-99c2-f5e3ae7e763b#ref=rss)
+* [https://www.spiegel.de/ausland/halloween-verbot-in-shanghai-warum-sich-chinas-polizei-vor-der-spassveranstaltung-fuerchtet](https://www.spiegel.de/ausland/halloween-verbot-in-shanghai-warum-sich-chinas-polizei-vor-der-spassveranstaltung-fuerchtet-a-e9c1de34-8d70-4a51-99ac-2ab2cdf4c7aa#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tatort-aus-dresden-unter-feuer-mit-cornelia-groeschel-ueber-korpsgeist-bei-der-polizei](https://www.spiegel.de/kultur/tv/tatort-aus-dresden-unter-feuer-mit-cornelia-groeschel-ueber-korpsgeist-bei-der-polizei-a-36876cf5-11ac-4ab8-8418-e3ecea07b1c9#ref=rss)
+### china
+
+* [https://www.spiegel.de/ausland/us-wahl-2024-wie-wird-sich-die-welt-veraendern-wenn-trump-oder-harris-die-wahl-gewinnt](https://www.spiegel.de/ausland/us-wahl-2024-wie-wird-sich-die-welt-veraendern-wenn-trump-oder-harris-die-wahl-gewinnt-a-a3a0667b-0a7e-4c53-9f54-42509cee5a7a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-der-amerikanische-traum-lebt-gruenderin-danica-lause](https://www.spiegel.de/wirtschaft/unternehmen/usa-der-amerikanische-traum-lebt-gruenderin-danica-lause-a-848634ba-2f65-4530-9dc1-ea1cddc1ed22#ref=rss)
+* [https://www.spiegel.de/ausland/halloween-verbot-in-shanghai-warum-sich-chinas-polizei-vor-der-spassveranstaltung-fuerchtet](https://www.spiegel.de/ausland/halloween-verbot-in-shanghai-warum-sich-chinas-polizei-vor-der-spassveranstaltung-fuerchtet-a-e9c1de34-8d70-4a51-99ac-2ab2cdf4c7aa#ref=rss)
+### halloween
+
+* [https://www.spiegel.de/ausland/halloween-verbot-in-shanghai-warum-sich-chinas-polizei-vor-der-spassveranstaltung-fuerchtet](https://www.spiegel.de/ausland/halloween-verbot-in-shanghai-warum-sich-chinas-polizei-vor-der-spassveranstaltung-fuerchtet-a-e9c1de34-8d70-4a51-99ac-2ab2cdf4c7aa#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-wilhelmsburg-mann-oeffnet-kindern-an-halloween-die-tuer-mit-waffe-in-der-hand](https://www.spiegel.de/panorama/justiz/hamburg-wilhelmsburg-mann-oeffnet-kindern-an-halloween-die-tuer-mit-waffe-in-der-hand-a-30697727-2742-40b0-9b0b-bf270eceea83#ref=rss)
+### leben
+
+* [https://www.spiegel.de/gesundheit/schwangerschaft/zucker-und-schwangerschaft-studie-zeigt-gesundheitsrisiken-im-spaeteren-leben](https://www.spiegel.de/gesundheit/schwangerschaft/zucker-und-schwangerschaft-studie-zeigt-gesundheitsrisiken-im-spaeteren-leben-a-ee8c5f01-ce80-409e-8c16-db0829c6d062#ref=rss)
+* [https://www.spiegel.de/panorama/serbien-acht-menschen-sterben-bei-einsturz-eines-bahnhofs-in-novi-sad](https://www.spiegel.de/panorama/serbien-acht-menschen-sterben-bei-einsturz-eines-bahnhofs-in-novi-sad-a-4b9d3058-f477-48d9-9cac-4a8cb1c8a79c#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/ausland/krieg-zwischen-hisbollah-und-israel-gefaehrdet-kulturerbe-im-libanon](https://www.spiegel.de/ausland/krieg-zwischen-hisbollah-und-israel-gefaehrdet-kulturerbe-im-libanon-a-13a359e3-0529-485f-b300-66973ba87bd9#ref=rss)
+### hisbollah
+
+* [https://www.spiegel.de/ausland/krieg-zwischen-hisbollah-und-israel-gefaehrdet-kulturerbe-im-libanon](https://www.spiegel.de/ausland/krieg-zwischen-hisbollah-und-israel-gefaehrdet-kulturerbe-im-libanon-a-13a359e3-0529-485f-b300-66973ba87bd9#ref=rss)
+### kulturerbe
+
+* [https://www.spiegel.de/ausland/krieg-zwischen-hisbollah-und-israel-gefaehrdet-kulturerbe-im-libanon](https://www.spiegel.de/ausland/krieg-zwischen-hisbollah-und-israel-gefaehrdet-kulturerbe-im-libanon-a-13a359e3-0529-485f-b300-66973ba87bd9#ref=rss)
+### libanon
+
+* [https://www.spiegel.de/ausland/krieg-zwischen-hisbollah-und-israel-gefaehrdet-kulturerbe-im-libanon](https://www.spiegel.de/ausland/krieg-zwischen-hisbollah-und-israel-gefaehrdet-kulturerbe-im-libanon-a-13a359e3-0529-485f-b300-66973ba87bd9#ref=rss)
+### arabische
+
+* [https://www.spiegel.de/ausland/michigan-donald-trump-und-kamala-harris-kaempfen-um-arabische-und-muslimische-waehler-podcast](https://www.spiegel.de/ausland/michigan-donald-trump-und-kamala-harris-kaempfen-um-arabische-und-muslimische-waehler-podcast-a-6dca71ab-0de2-430d-b261-ebfead716b0c#ref=rss)
+* [https://www.spiegel.de/ausland/michigan-warum-arabische-amerikaner-donald-trump-zum-sieg-verhelfen-koennten](https://www.spiegel.de/ausland/michigan-warum-arabische-amerikaner-donald-trump-zum-sieg-verhelfen-koennten-a-f0dacd88-27c2-4f62-b219-2cdabf7d59c5#ref=rss)
+### uswähler
+
+* [https://www.spiegel.de/ausland/michigan-donald-trump-und-kamala-harris-kaempfen-um-arabische-und-muslimische-waehler-podcast](https://www.spiegel.de/ausland/michigan-donald-trump-und-kamala-harris-kaempfen-um-arabische-und-muslimische-waehler-podcast-a-6dca71ab-0de2-430d-b261-ebfead716b0c#ref=rss)
+* [https://www.spiegel.de/ausland/michigan-warum-arabische-amerikaner-donald-trump-zum-sieg-verhelfen-koennten](https://www.spiegel.de/ausland/michigan-warum-arabische-amerikaner-donald-trump-zum-sieg-verhelfen-koennten-a-f0dacd88-27c2-4f62-b219-2cdabf7d59c5#ref=rss)
+### arabischen
+
+* [https://www.spiegel.de/ausland/michigan-donald-trump-und-kamala-harris-kaempfen-um-arabische-und-muslimische-waehler-podcast](https://www.spiegel.de/ausland/michigan-donald-trump-und-kamala-harris-kaempfen-um-arabische-und-muslimische-waehler-podcast-a-6dca71ab-0de2-430d-b261-ebfead716b0c#ref=rss)
+* [https://www.spiegel.de/ausland/michigan-warum-arabische-amerikaner-donald-trump-zum-sieg-verhelfen-koennten](https://www.spiegel.de/ausland/michigan-warum-arabische-amerikaner-donald-trump-zum-sieg-verhelfen-koennten-a-f0dacd88-27c2-4f62-b219-2cdabf7d59c5#ref=rss)
+### wütend
+
+* [https://www.spiegel.de/ausland/michigan-donald-trump-und-kamala-harris-kaempfen-um-arabische-und-muslimische-waehler-podcast](https://www.spiegel.de/ausland/michigan-donald-trump-und-kamala-harris-kaempfen-um-arabische-und-muslimische-waehler-podcast-a-6dca71ab-0de2-430d-b261-ebfead716b0c#ref=rss)
+* [https://www.spiegel.de/ausland/michigan-warum-arabische-amerikaner-donald-trump-zum-sieg-verhelfen-koennten](https://www.spiegel.de/ausland/michigan-warum-arabische-amerikaner-donald-trump-zum-sieg-verhelfen-koennten-a-f0dacd88-27c2-4f62-b219-2cdabf7d59c5#ref=rss)
+### nahostpolitik
+
+* [https://www.spiegel.de/ausland/michigan-donald-trump-und-kamala-harris-kaempfen-um-arabische-und-muslimische-waehler-podcast](https://www.spiegel.de/ausland/michigan-donald-trump-und-kamala-harris-kaempfen-um-arabische-und-muslimische-waehler-podcast-a-6dca71ab-0de2-430d-b261-ebfead716b0c#ref=rss)
+* [https://www.spiegel.de/ausland/michigan-warum-arabische-amerikaner-donald-trump-zum-sieg-verhelfen-koennten](https://www.spiegel.de/ausland/michigan-warum-arabische-amerikaner-donald-trump-zum-sieg-verhelfen-koennten-a-f0dacd88-27c2-4f62-b219-2cdabf7d59c5#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/ausland/michigan-donald-trump-und-kamala-harris-kaempfen-um-arabische-und-muslimische-waehler-podcast](https://www.spiegel.de/ausland/michigan-donald-trump-und-kamala-harris-kaempfen-um-arabische-und-muslimische-waehler-podcast-a-6dca71ab-0de2-430d-b261-ebfead716b0c#ref=rss)
+* [https://www.spiegel.de/ausland/michigan-warum-arabische-amerikaner-donald-trump-zum-sieg-verhelfen-koennten](https://www.spiegel.de/ausland/michigan-warum-arabische-amerikaner-donald-trump-zum-sieg-verhelfen-koennten-a-f0dacd88-27c2-4f62-b219-2cdabf7d59c5#ref=rss)
+### swing
+
+* [https://www.spiegel.de/ausland/michigan-donald-trump-und-kamala-harris-kaempfen-um-arabische-und-muslimische-waehler-podcast](https://www.spiegel.de/ausland/michigan-donald-trump-und-kamala-harris-kaempfen-um-arabische-und-muslimische-waehler-podcast-a-6dca71ab-0de2-430d-b261-ebfead716b0c#ref=rss)
+* [https://www.spiegel.de/ausland/michigan-warum-arabische-amerikaner-donald-trump-zum-sieg-verhelfen-koennten](https://www.spiegel.de/ausland/michigan-warum-arabische-amerikaner-donald-trump-zum-sieg-verhelfen-koennten-a-f0dacd88-27c2-4f62-b219-2cdabf7d59c5#ref=rss)
+### state
+
+* [https://www.spiegel.de/ausland/michigan-donald-trump-und-kamala-harris-kaempfen-um-arabische-und-muslimische-waehler-podcast](https://www.spiegel.de/ausland/michigan-donald-trump-und-kamala-harris-kaempfen-um-arabische-und-muslimische-waehler-podcast-a-6dca71ab-0de2-430d-b261-ebfead716b0c#ref=rss)
+* [https://www.spiegel.de/ausland/michigan-warum-arabische-amerikaner-donald-trump-zum-sieg-verhelfen-koennten](https://www.spiegel.de/ausland/michigan-warum-arabische-amerikaner-donald-trump-zum-sieg-verhelfen-koennten-a-f0dacd88-27c2-4f62-b219-2cdabf7d59c5#ref=rss)
+### entscheidend
+
+* [https://www.spiegel.de/ausland/michigan-donald-trump-und-kamala-harris-kaempfen-um-arabische-und-muslimische-waehler-podcast](https://www.spiegel.de/ausland/michigan-donald-trump-und-kamala-harris-kaempfen-um-arabische-und-muslimische-waehler-podcast-a-6dca71ab-0de2-430d-b261-ebfead716b0c#ref=rss)
+* [https://www.spiegel.de/ausland/michigan-warum-arabische-amerikaner-donald-trump-zum-sieg-verhelfen-koennten](https://www.spiegel.de/ausland/michigan-warum-arabische-amerikaner-donald-trump-zum-sieg-verhelfen-koennten-a-f0dacd88-27c2-4f62-b219-2cdabf7d59c5#ref=rss)
+### spiegelredakteur
+
+* [https://www.spiegel.de/ausland/michigan-donald-trump-und-kamala-harris-kaempfen-um-arabische-und-muslimische-waehler-podcast](https://www.spiegel.de/ausland/michigan-donald-trump-und-kamala-harris-kaempfen-um-arabische-und-muslimische-waehler-podcast-a-6dca71ab-0de2-430d-b261-ebfead716b0c#ref=rss)
+* [https://www.spiegel.de/ausland/michigan-warum-arabische-amerikaner-donald-trump-zum-sieg-verhelfen-koennten](https://www.spiegel.de/ausland/michigan-warum-arabische-amerikaner-donald-trump-zum-sieg-verhelfen-koennten-a-f0dacd88-27c2-4f62-b219-2cdabf7d59c5#ref=rss)
+### cornelius
+
+* [https://www.spiegel.de/ausland/michigan-donald-trump-und-kamala-harris-kaempfen-um-arabische-und-muslimische-waehler-podcast](https://www.spiegel.de/ausland/michigan-donald-trump-und-kamala-harris-kaempfen-um-arabische-und-muslimische-waehler-podcast-a-6dca71ab-0de2-430d-b261-ebfead716b0c#ref=rss)
+* [https://www.spiegel.de/ausland/michigan-warum-arabische-amerikaner-donald-trump-zum-sieg-verhelfen-koennten](https://www.spiegel.de/ausland/michigan-warum-arabische-amerikaner-donald-trump-zum-sieg-verhelfen-koennten-a-f0dacd88-27c2-4f62-b219-2cdabf7d59c5#ref=rss)
+### dieckmann
+
+* [https://www.spiegel.de/ausland/michigan-donald-trump-und-kamala-harris-kaempfen-um-arabische-und-muslimische-waehler-podcast](https://www.spiegel.de/ausland/michigan-donald-trump-und-kamala-harris-kaempfen-um-arabische-und-muslimische-waehler-podcast-a-6dca71ab-0de2-430d-b261-ebfead716b0c#ref=rss)
+* [https://www.spiegel.de/ausland/michigan-warum-arabische-amerikaner-donald-trump-zum-sieg-verhelfen-koennten](https://www.spiegel.de/ausland/michigan-warum-arabische-amerikaner-donald-trump-zum-sieg-verhelfen-koennten-a-f0dacd88-27c2-4f62-b219-2cdabf7d59c5#ref=rss)
+### berichtet
+
+* [https://www.spiegel.de/ausland/michigan-donald-trump-und-kamala-harris-kaempfen-um-arabische-und-muslimische-waehler-podcast](https://www.spiegel.de/ausland/michigan-donald-trump-und-kamala-harris-kaempfen-um-arabische-und-muslimische-waehler-podcast-a-6dca71ab-0de2-430d-b261-ebfead716b0c#ref=rss)
+* [https://www.spiegel.de/ausland/michigan-warum-arabische-amerikaner-donald-trump-zum-sieg-verhelfen-koennten](https://www.spiegel.de/ausland/michigan-warum-arabische-amerikaner-donald-trump-zum-sieg-verhelfen-koennten-a-f0dacd88-27c2-4f62-b219-2cdabf7d59c5#ref=rss)
+### profitiert
+
+* [https://www.spiegel.de/ausland/michigan-donald-trump-und-kamala-harris-kaempfen-um-arabische-und-muslimische-waehler-podcast](https://www.spiegel.de/ausland/michigan-donald-trump-und-kamala-harris-kaempfen-um-arabische-und-muslimische-waehler-podcast-a-6dca71ab-0de2-430d-b261-ebfead716b0c#ref=rss)
+* [https://www.spiegel.de/ausland/michigan-warum-arabische-amerikaner-donald-trump-zum-sieg-verhelfen-koennten](https://www.spiegel.de/ausland/michigan-warum-arabische-amerikaner-donald-trump-zum-sieg-verhelfen-koennten-a-f0dacd88-27c2-4f62-b219-2cdabf7d59c5#ref=rss)
+### resolution
+
+* [https://www.spiegel.de/politik/deutschland/ampelfraktionen-und-union-einigen-sich-auf-resolution-gegen-antisemitismus](https://www.spiegel.de/politik/deutschland/ampelfraktionen-und-union-einigen-sich-auf-resolution-gegen-antisemitismus-a-7ab67476-a762-410a-a8cb-67e2c2601168#ref=rss)
+### schulen
+
+* [https://www.spiegel.de/politik/deutschland/ampelfraktionen-und-union-einigen-sich-auf-resolution-gegen-antisemitismus](https://www.spiegel.de/politik/deutschland/ampelfraktionen-und-union-einigen-sich-auf-resolution-gegen-antisemitismus-a-7ab67476-a762-410a-a8cb-67e2c2601168#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/zingst-15-jaehriger-an-ueberdosis-ecstasy-pillen-gestorben](https://www.spiegel.de/panorama/justiz/zingst-15-jaehriger-an-ueberdosis-ecstasy-pillen-gestorben-a-faf04550-eda4-4cd2-949b-b9cda4c12118#ref=rss)
+### liegt
+
+* [https://www.spiegel.de/politik/deutschland/ampelfraktionen-und-union-einigen-sich-auf-resolution-gegen-antisemitismus](https://www.spiegel.de/politik/deutschland/ampelfraktionen-und-union-einigen-sich-auf-resolution-gegen-antisemitismus-a-7ab67476-a762-410a-a8cb-67e2c2601168#ref=rss)
+* [https://www.spiegel.de/auto/elektroautos-kaufpraemie-ging-ueberwiegend-an-gutverdiener](https://www.spiegel.de/auto/elektroautos-kaufpraemie-ging-ueberwiegend-an-gutverdiener-a-da84da9e-339a-4453-9169-550c57c3fa0f#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/politik/deutschland/ampelfraktionen-und-union-einigen-sich-auf-resolution-gegen-antisemitismus](https://www.spiegel.de/politik/deutschland/ampelfraktionen-und-union-einigen-sich-auf-resolution-gegen-antisemitismus-a-7ab67476-a762-410a-a8cb-67e2c2601168#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-ein-roadtrip-durch-die-geteilten-staaten-von-amerika-spiegel-tv](https://www.spiegel.de/ausland/us-wahl-2024-ein-roadtrip-durch-die-geteilten-staaten-von-amerika-spiegel-tv-a-f96a1b36-2bf7-4ee5-99b4-896d9c3dea0f#ref=rss)
+### affen
+
+* [https://www.spiegel.de/wissenschaft/natur/infinite-monkey-theorem-eher-verglueht-das-universum-als-dass-affen-shakespeare-schreiben](https://www.spiegel.de/wissenschaft/natur/infinite-monkey-theorem-eher-verglueht-das-universum-als-dass-affen-shakespeare-schreiben-a-89bb1d52-3d02-49d8-9c29-269d46bad8ba#ref=rss)
+### shakespeare
+
+* [https://www.spiegel.de/wissenschaft/natur/infinite-monkey-theorem-eher-verglueht-das-universum-als-dass-affen-shakespeare-schreiben](https://www.spiegel.de/wissenschaft/natur/infinite-monkey-theorem-eher-verglueht-das-universum-als-dass-affen-shakespeare-schreiben-a-89bb1d52-3d02-49d8-9c29-269d46bad8ba#ref=rss)
+### dürfte
+
+* [https://www.spiegel.de/wissenschaft/natur/infinite-monkey-theorem-eher-verglueht-das-universum-als-dass-affen-shakespeare-schreiben](https://www.spiegel.de/wissenschaft/natur/infinite-monkey-theorem-eher-verglueht-das-universum-als-dass-affen-shakespeare-schreiben-a-89bb1d52-3d02-49d8-9c29-269d46bad8ba#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-ueberrumpelt-ampel-mit-neuem-grundsatzpapier-zur-wirtschaftswende](https://www.spiegel.de/politik/deutschland/christian-lindner-ueberrumpelt-ampel-mit-neuem-grundsatzpapier-zur-wirtschaftswende-a-b7b643ba-fa80-4695-a07b-522c9ed5da7d#ref=rss)
+### dauern
+
+* [https://www.spiegel.de/wissenschaft/natur/infinite-monkey-theorem-eher-verglueht-das-universum-als-dass-affen-shakespeare-schreiben](https://www.spiegel.de/wissenschaft/natur/infinite-monkey-theorem-eher-verglueht-das-universum-als-dass-affen-shakespeare-schreiben-a-89bb1d52-3d02-49d8-9c29-269d46bad8ba#ref=rss)
+* [https://www.spiegel.de/panorama/serbien-acht-menschen-sterben-bei-einsturz-eines-bahnhofs-in-novi-sad](https://www.spiegel.de/panorama/serbien-acht-menschen-sterben-bei-einsturz-eines-bahnhofs-in-novi-sad-a-4b9d3058-f477-48d9-9cac-4a8cb1c8a79c#ref=rss)
+### sehr
+
+* [https://www.spiegel.de/wissenschaft/natur/infinite-monkey-theorem-eher-verglueht-das-universum-als-dass-affen-shakespeare-schreiben](https://www.spiegel.de/wissenschaft/natur/infinite-monkey-theorem-eher-verglueht-das-universum-als-dass-affen-shakespeare-schreiben-a-89bb1d52-3d02-49d8-9c29-269d46bad8ba#ref=rss)
+### eltern
+
+* [https://www.spiegel.de/panorama/justiz/zingst-15-jaehriger-an-ueberdosis-ecstasy-pillen-gestorben](https://www.spiegel.de/panorama/justiz/zingst-15-jaehriger-an-ueberdosis-ecstasy-pillen-gestorben-a-faf04550-eda4-4cd2-949b-b9cda4c12118#ref=rss)
+* [https://www.spiegel.de/kultur/musik/helene-fischer-und-die-trashige-schlagerszene-die-kinderlieder-der-schlagersaengerin](https://www.spiegel.de/kultur/musik/helene-fischer-und-die-trashige-schlagerszene-die-kinderlieder-der-schlagersaengerin-a-bdc0734e-78ac-42fc-a3d1-99d3363e862d#ref=rss)
+### zeigen
+
+* [https://www.spiegel.de/panorama/spanien-nach-dem-jahrhundertunwetter-luftaufnahmen-zeigen-die-schaeden-im-katastrophengebiet](https://www.spiegel.de/panorama/spanien-nach-dem-jahrhundertunwetter-luftaufnahmen-zeigen-die-schaeden-im-katastrophengebiet-a-d4201d4b-ead4-4087-b4d1-8337ac1977e6#ref=rss)
+* [https://www.spiegel.de/panorama/leute/taylor-swift-als-kuchenstatue-schoenheitsfehler-bei-der-backmesse-in-birmingham](https://www.spiegel.de/panorama/leute/taylor-swift-als-kuchenstatue-schoenheitsfehler-bei-der-backmesse-in-birmingham-a-cfc6c78d-6607-443f-ba06-c4d9793c91bc#ref=rss)
+### schäden
+
+* [https://www.spiegel.de/panorama/spanien-nach-dem-jahrhundertunwetter-luftaufnahmen-zeigen-die-schaeden-im-katastrophengebiet](https://www.spiegel.de/panorama/spanien-nach-dem-jahrhundertunwetter-luftaufnahmen-zeigen-die-schaeden-im-katastrophengebiet-a-d4201d4b-ead4-4087-b4d1-8337ac1977e6#ref=rss)
+### ausmaß
+
+* [https://www.spiegel.de/panorama/spanien-nach-dem-jahrhundertunwetter-luftaufnahmen-zeigen-die-schaeden-im-katastrophengebiet](https://www.spiegel.de/panorama/spanien-nach-dem-jahrhundertunwetter-luftaufnahmen-zeigen-die-schaeden-im-katastrophengebiet-a-d4201d4b-ead4-4087-b4d1-8337ac1977e6#ref=rss)
+* [https://www.spiegel.de/ausland/spanien-nach-dem-unwetter-manche-muessen-ihre-toten-betrauern-andere-sind-noch-im-chaos](https://www.spiegel.de/ausland/spanien-nach-dem-unwetter-manche-muessen-ihre-toten-betrauern-andere-sind-noch-im-chaos-a-dbf79218-f433-40cc-88db-1b8b1a14bc6f#ref=rss)
+### deutlich
+
+* [https://www.spiegel.de/panorama/spanien-nach-dem-jahrhundertunwetter-luftaufnahmen-zeigen-die-schaeden-im-katastrophengebiet](https://www.spiegel.de/panorama/spanien-nach-dem-jahrhundertunwetter-luftaufnahmen-zeigen-die-schaeden-im-katastrophengebiet-a-d4201d4b-ead4-4087-b4d1-8337ac1977e6#ref=rss)
+* [https://www.spiegel.de/ausland/spanien-nach-dem-unwetter-manche-muessen-ihre-toten-betrauern-andere-sind-noch-im-chaos](https://www.spiegel.de/ausland/spanien-nach-dem-unwetter-manche-muessen-ihre-toten-betrauern-andere-sind-noch-im-chaos-a-dbf79218-f433-40cc-88db-1b8b1a14bc6f#ref=rss)
+### unwetter
+
+* [https://www.spiegel.de/ausland/spanien-nach-dem-unwetter-manche-muessen-ihre-toten-betrauern-andere-sind-noch-im-chaos](https://www.spiegel.de/ausland/spanien-nach-dem-unwetter-manche-muessen-ihre-toten-betrauern-andere-sind-noch-im-chaos-a-dbf79218-f433-40cc-88db-1b8b1a14bc6f#ref=rss)
+### helene
+
+* [https://www.spiegel.de/kultur/musik/helene-fischer-und-die-trashige-schlagerszene-die-kinderlieder-der-schlagersaengerin](https://www.spiegel.de/kultur/musik/helene-fischer-und-die-trashige-schlagerszene-die-kinderlieder-der-schlagersaengerin-a-bdc0734e-78ac-42fc-a3d1-99d3363e862d#ref=rss)
+### fischer
+
+* [https://www.spiegel.de/kultur/musik/helene-fischer-und-die-trashige-schlagerszene-die-kinderlieder-der-schlagersaengerin](https://www.spiegel.de/kultur/musik/helene-fischer-und-die-trashige-schlagerszene-die-kinderlieder-der-schlagersaengerin-a-bdc0734e-78ac-42fc-a3d1-99d3363e862d#ref=rss)
+### taylor
+
+* [https://www.spiegel.de/panorama/leute/taylor-swift-als-kuchenstatue-schoenheitsfehler-bei-der-backmesse-in-birmingham](https://www.spiegel.de/panorama/leute/taylor-swift-als-kuchenstatue-schoenheitsfehler-bei-der-backmesse-in-birmingham-a-cfc6c78d-6607-443f-ba06-c4d9793c91bc#ref=rss)
+### swift
+
+* [https://www.spiegel.de/panorama/leute/taylor-swift-als-kuchenstatue-schoenheitsfehler-bei-der-backmesse-in-birmingham](https://www.spiegel.de/panorama/leute/taylor-swift-als-kuchenstatue-schoenheitsfehler-bei-der-backmesse-in-birmingham-a-cfc6c78d-6607-443f-ba06-c4d9793c91bc#ref=rss)
+### birmingham
+
+* [https://www.spiegel.de/panorama/leute/taylor-swift-als-kuchenstatue-schoenheitsfehler-bei-der-backmesse-in-birmingham](https://www.spiegel.de/panorama/leute/taylor-swift-als-kuchenstatue-schoenheitsfehler-bei-der-backmesse-in-birmingham-a-cfc6c78d-6607-443f-ba06-c4d9793c91bc#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/kultur/tv/netflix-prime-video-wow-sky-neue-serien-und-filme-im-november-2024-was-sich-lohnt](https://www.spiegel.de/kultur/tv/netflix-prime-video-wow-sky-neue-serien-und-filme-im-november-2024-was-sich-lohnt-a-e3f7d607-9a92-46cc-99c2-f5e3ae7e763b#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-wie-wird-sich-die-welt-veraendern-wenn-trump-oder-harris-die-wahl-gewinnt](https://www.spiegel.de/ausland/us-wahl-2024-wie-wird-sich-die-welt-veraendern-wenn-trump-oder-harris-die-wahl-gewinnt-a-a3a0667b-0a7e-4c53-9f54-42509cee5a7a#ref=rss)
+### zweiten
+
+* [https://www.spiegel.de/kultur/tv/netflix-prime-video-wow-sky-neue-serien-und-filme-im-november-2024-was-sich-lohnt](https://www.spiegel.de/kultur/tv/netflix-prime-video-wow-sky-neue-serien-und-filme-im-november-2024-was-sich-lohnt-a-e3f7d607-9a92-46cc-99c2-f5e3ae7e763b#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/seiffen-polizei-geht-im-erzgebirge-erneut-gegen-reichsbuerger-vor](https://www.spiegel.de/panorama/gesellschaft/seiffen-polizei-geht-im-erzgebirge-erneut-gegen-reichsbuerger-vor-a-00d9b2b5-1096-4def-9a38-cdd3636fc6b3#ref=rss)
+### orbán
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-viktor-orban-gerhard-schroeder-katja-wolf-sahra-wagenknecht-arbeitsrecht](https://www.spiegel.de/politik/deutschland/news-des-tages-viktor-orban-gerhard-schroeder-katja-wolf-sahra-wagenknecht-arbeitsrecht-a-dd0a3f1e-ed63-456b-b553-48b423bd9aa9#ref=rss)
+### schröder
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-viktor-orban-gerhard-schroeder-katja-wolf-sahra-wagenknecht-arbeitsrecht](https://www.spiegel.de/politik/deutschland/news-des-tages-viktor-orban-gerhard-schroeder-katja-wolf-sahra-wagenknecht-arbeitsrecht-a-dd0a3f1e-ed63-456b-b553-48b423bd9aa9#ref=rss)
+### wagenknecht
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-viktor-orban-gerhard-schroeder-katja-wolf-sahra-wagenknecht-arbeitsrecht](https://www.spiegel.de/politik/deutschland/news-des-tages-viktor-orban-gerhard-schroeder-katja-wolf-sahra-wagenknecht-arbeitsrecht-a-dd0a3f1e-ed63-456b-b553-48b423bd9aa9#ref=rss)
+### jennifer
+
+* [https://www.spiegel.de/ausland/us-wahl-2024-jennifer-lopez-unterstuetzt-kamala-harris-im-endspurt](https://www.spiegel.de/ausland/us-wahl-2024-jennifer-lopez-unterstuetzt-kamala-harris-im-endspurt-a-e47e46b7-a23c-479e-ac3a-e6a22953b8ce#ref=rss)
+### lopez
+
+* [https://www.spiegel.de/ausland/us-wahl-2024-jennifer-lopez-unterstuetzt-kamala-harris-im-endspurt](https://www.spiegel.de/ausland/us-wahl-2024-jennifer-lopez-unterstuetzt-kamala-harris-im-endspurt-a-e47e46b7-a23c-479e-ac3a-e6a22953b8ce#ref=rss)
+### elektroautos
+
+* [https://www.spiegel.de/auto/elektroautos-kaufpraemie-ging-ueberwiegend-an-gutverdiener](https://www.spiegel.de/auto/elektroautos-kaufpraemie-ging-ueberwiegend-an-gutverdiener-a-da84da9e-339a-4453-9169-550c57c3fa0f#ref=rss)
+### kaufprämie
+
+* [https://www.spiegel.de/auto/elektroautos-kaufpraemie-ging-ueberwiegend-an-gutverdiener](https://www.spiegel.de/auto/elektroautos-kaufpraemie-ging-ueberwiegend-an-gutverdiener-a-da84da9e-339a-4453-9169-550c57c3fa0f#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/ausland/halloween-verbot-in-shanghai-warum-sich-chinas-polizei-vor-der-spassveranstaltung-fuerchtet](https://www.spiegel.de/ausland/halloween-verbot-in-shanghai-warum-sich-chinas-polizei-vor-der-spassveranstaltung-fuerchtet-a-e9c1de34-8d70-4a51-99ac-2ab2cdf4c7aa#ref=rss)
+### zucker
+
+* [https://www.spiegel.de/gesundheit/schwangerschaft/zucker-und-schwangerschaft-studie-zeigt-gesundheitsrisiken-im-spaeteren-leben](https://www.spiegel.de/gesundheit/schwangerschaft/zucker-und-schwangerschaft-studie-zeigt-gesundheitsrisiken-im-spaeteren-leben-a-ee8c5f01-ce80-409e-8c16-db0829c6d062#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/gesundheit/schwangerschaft/zucker-und-schwangerschaft-studie-zeigt-gesundheitsrisiken-im-spaeteren-leben](https://www.spiegel.de/gesundheit/schwangerschaft/zucker-und-schwangerschaft-studie-zeigt-gesundheitsrisiken-im-spaeteren-leben-a-ee8c5f01-ce80-409e-8c16-db0829c6d062#ref=rss)
+### späteren
+
+* [https://www.spiegel.de/gesundheit/schwangerschaft/zucker-und-schwangerschaft-studie-zeigt-gesundheitsrisiken-im-spaeteren-leben](https://www.spiegel.de/gesundheit/schwangerschaft/zucker-und-schwangerschaft-studie-zeigt-gesundheitsrisiken-im-spaeteren-leben-a-ee8c5f01-ce80-409e-8c16-db0829c6d062#ref=rss)
+### acht
+
+* [https://www.spiegel.de/panorama/serbien-acht-menschen-sterben-bei-einsturz-eines-bahnhofs-in-novi-sad](https://www.spiegel.de/panorama/serbien-acht-menschen-sterben-bei-einsturz-eines-bahnhofs-in-novi-sad-a-4b9d3058-f477-48d9-9cac-4a8cb1c8a79c#ref=rss)
+### novi
+
+* [https://www.spiegel.de/panorama/serbien-acht-menschen-sterben-bei-einsturz-eines-bahnhofs-in-novi-sad](https://www.spiegel.de/panorama/serbien-acht-menschen-sterben-bei-einsturz-eines-bahnhofs-in-novi-sad-a-4b9d3058-f477-48d9-9cac-4a8cb1c8a79c#ref=rss)
+### sad
+
+* [https://www.spiegel.de/panorama/serbien-acht-menschen-sterben-bei-einsturz-eines-bahnhofs-in-novi-sad](https://www.spiegel.de/panorama/serbien-acht-menschen-sterben-bei-einsturz-eines-bahnhofs-in-novi-sad-a-4b9d3058-f477-48d9-9cac-4a8cb1c8a79c#ref=rss)
+### wenigen
+
+* [https://www.spiegel.de/panorama/serbien-acht-menschen-sterben-bei-einsturz-eines-bahnhofs-in-novi-sad](https://www.spiegel.de/panorama/serbien-acht-menschen-sterben-bei-einsturz-eines-bahnhofs-in-novi-sad-a-4b9d3058-f477-48d9-9cac-4a8cb1c8a79c#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-ein-roadtrip-durch-die-geteilten-staaten-von-amerika-spiegel-tv](https://www.spiegel.de/ausland/us-wahl-2024-ein-roadtrip-durch-die-geteilten-staaten-von-amerika-spiegel-tv-a-f96a1b36-2bf7-4ee5-99b4-896d9c3dea0f#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/hamburg-wilhelmsburg-mann-oeffnet-kindern-an-halloween-die-tuer-mit-waffe-in-der-hand](https://www.spiegel.de/panorama/justiz/hamburg-wilhelmsburg-mann-oeffnet-kindern-an-halloween-die-tuer-mit-waffe-in-der-hand-a-30697727-2742-40b0-9b0b-bf270eceea83#ref=rss)
+### tür
+
+* [https://www.spiegel.de/panorama/justiz/hamburg-wilhelmsburg-mann-oeffnet-kindern-an-halloween-die-tuer-mit-waffe-in-der-hand](https://www.spiegel.de/panorama/justiz/hamburg-wilhelmsburg-mann-oeffnet-kindern-an-halloween-die-tuer-mit-waffe-in-der-hand-a-30697727-2742-40b0-9b0b-bf270eceea83#ref=rss)
+### waffe
+
+* [https://www.spiegel.de/panorama/justiz/hamburg-wilhelmsburg-mann-oeffnet-kindern-an-halloween-die-tuer-mit-waffe-in-der-hand](https://www.spiegel.de/panorama/justiz/hamburg-wilhelmsburg-mann-oeffnet-kindern-an-halloween-die-tuer-mit-waffe-in-der-hand-a-30697727-2742-40b0-9b0b-bf270eceea83#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/schwalmstadt-in-hessen-von-polizei-erschossene-20-jaehrige-trug-softairwaffe](https://www.spiegel.de/panorama/justiz/schwalmstadt-in-hessen-von-polizei-erschossene-20-jaehrige-trug-softairwaffe-a-a6e673bd-8d2f-47cd-b1e9-30fb808a8cad#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/panorama/justiz/hamburg-wilhelmsburg-mann-oeffnet-kindern-an-halloween-die-tuer-mit-waffe-in-der-hand](https://www.spiegel.de/panorama/justiz/hamburg-wilhelmsburg-mann-oeffnet-kindern-an-halloween-die-tuer-mit-waffe-in-der-hand-a-30697727-2742-40b0-9b0b-bf270eceea83#ref=rss)
+### grüne
+
+* [https://www.spiegel.de/ausland/us-wahl-2024-europas-gruene-fordern-rueckzug-von-jill-stein-im-us-wahlkampf](https://www.spiegel.de/ausland/us-wahl-2024-europas-gruene-fordern-rueckzug-von-jill-stein-im-us-wahlkampf-a-99d6211b-76ff-41c8-add0-98c33d47a7e8#ref=rss)
+### schwalmstadt
+
+* [https://www.spiegel.de/panorama/justiz/schwalmstadt-in-hessen-von-polizei-erschossene-20-jaehrige-trug-softairwaffe](https://www.spiegel.de/panorama/justiz/schwalmstadt-in-hessen-von-polizei-erschossene-20-jaehrige-trug-softairwaffe-a-a6e673bd-8d2f-47cd-b1e9-30fb808a8cad#ref=rss)
+### softairwaffe
+
+* [https://www.spiegel.de/panorama/justiz/schwalmstadt-in-hessen-von-polizei-erschossene-20-jaehrige-trug-softairwaffe](https://www.spiegel.de/panorama/justiz/schwalmstadt-in-hessen-von-polizei-erschossene-20-jaehrige-trug-softairwaffe-a-a6e673bd-8d2f-47cd-b1e9-30fb808a8cad#ref=rss)
+### frau
+
+* [https://www.spiegel.de/panorama/justiz/schwalmstadt-in-hessen-von-polizei-erschossene-20-jaehrige-trug-softairwaffe](https://www.spiegel.de/panorama/justiz/schwalmstadt-in-hessen-von-polizei-erschossene-20-jaehrige-trug-softairwaffe-a-a6e673bd-8d2f-47cd-b1e9-30fb808a8cad#ref=rss)
+### scissor
+
+* [https://www.spiegel.de/kultur/musik/scissor-sisters-kuendigen-comeback-an-tour-ab-mai-2025](https://www.spiegel.de/kultur/musik/scissor-sisters-kuendigen-comeback-an-tour-ab-mai-2025-a-48d99409-bb34-49cb-bb58-0bce6492f614#ref=rss)
+### sisters
+
+* [https://www.spiegel.de/kultur/musik/scissor-sisters-kuendigen-comeback-an-tour-ab-mai-2025](https://www.spiegel.de/kultur/musik/scissor-sisters-kuendigen-comeback-an-tour-ab-mai-2025-a-48d99409-bb34-49cb-bb58-0bce6492f614#ref=rss)
+### lindner
+
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-ueberrumpelt-ampel-mit-neuem-grundsatzpapier-zur-wirtschaftswende](https://www.spiegel.de/politik/deutschland/christian-lindner-ueberrumpelt-ampel-mit-neuem-grundsatzpapier-zur-wirtschaftswende-a-b7b643ba-fa80-4695-a07b-522c9ed5da7d#ref=rss)
+### justizsenatorin
+
+* [https://www.spiegel.de/politik/deutschland/afd-verbotsverfahren-warum-berlins-justizsenatorin-badenberg-von-einem-antrag-abraet](https://www.spiegel.de/politik/deutschland/afd-verbotsverfahren-warum-berlins-justizsenatorin-badenberg-von-einem-antrag-abraet-a-16c6af2f-e611-4b2b-9a68-3e76e95eed34#ref=rss)
+### badenberg
+
+* [https://www.spiegel.de/politik/deutschland/afd-verbotsverfahren-warum-berlins-justizsenatorin-badenberg-von-einem-antrag-abraet](https://www.spiegel.de/politik/deutschland/afd-verbotsverfahren-warum-berlins-justizsenatorin-badenberg-von-einem-antrag-abraet-a-16c6af2f-e611-4b2b-9a68-3e76e95eed34#ref=rss)
+### antrag
+
+* [https://www.spiegel.de/politik/deutschland/afd-verbotsverfahren-warum-berlins-justizsenatorin-badenberg-von-einem-antrag-abraet](https://www.spiegel.de/politik/deutschland/afd-verbotsverfahren-warum-berlins-justizsenatorin-badenberg-von-einem-antrag-abraet-a-16c6af2f-e611-4b2b-9a68-3e76e95eed34#ref=rss)
+### unter
+
+* [https://www.spiegel.de/kultur/tv/tatort-aus-dresden-unter-feuer-mit-cornelia-groeschel-ueber-korpsgeist-bei-der-polizei](https://www.spiegel.de/kultur/tv/tatort-aus-dresden-unter-feuer-mit-cornelia-groeschel-ueber-korpsgeist-bei-der-polizei-a-36876cf5-11ac-4ab8-8418-e3ecea07b1c9#ref=rss)
 
