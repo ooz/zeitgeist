@@ -4,404 +4,317 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### iran
+### menschen
 
-* [https://www.spiegel.de/ausland/iran-studentin-nach-protest-in-unterwaesche-offenbar-festgenommen](https://www.spiegel.de/ausland/iran-studentin-nach-protest-in-unterwaesche-offenbar-festgenommen-a-b24fe05e-f021-4f46-ade8-1a3044655e94#ref=rss)
-* [https://www.spiegel.de/ausland/iran-schliessung-der-konsulate-und-die-folgen-fuer-die-inhaftierte-deutsche-nahid-taghavi](https://www.spiegel.de/ausland/iran-schliessung-der-konsulate-und-die-folgen-fuer-die-inhaftierte-deutsche-nahid-taghavi-a-aa4443c7-9162-4b36-a667-3dac135e2f88#ref=rss)
-* [https://www.spiegel.de/ausland/nahost-konflikt-us-regierung-warnt-iran-vor-angriffen-auf-israel](https://www.spiegel.de/ausland/nahost-konflikt-us-regierung-warnt-iran-vor-angriffen-auf-israel-a-9acf3c86-cc33-46eb-bb53-a5f569742052#ref=rss)
-### usa
-
-* [https://www.spiegel.de/panorama/peanut-das-wohl-beruehmteste-eichhoernchen-der-usa-ist-tot](https://www.spiegel.de/panorama/peanut-das-wohl-beruehmteste-eichhoernchen-der-usa-ist-tot-a-2f2dc85f-11ba-4dba-895f-ad4f6b5aa2f3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-sahra-wagenknecht-und-der-bsw-usa-vor-der-wahl](https://www.spiegel.de/politik/deutschland/news-sahra-wagenknecht-und-der-bsw-usa-vor-der-wahl-a-0a0ec5a3-bbfa-4082-9a4e-f64f383cdbab#ref=rss)
-* [https://www.spiegel.de/ausland/nordkorea-usa-und-suedkorea-reagieren-mit-militaermanoever-auf-raketentests](https://www.spiegel.de/ausland/nordkorea-usa-und-suedkorea-reagieren-mit-militaermanoever-auf-raketentests-a-472d3088-b6b3-4970-aece-76b29226565b#ref=rss)
-### new
-
-* [https://www.spiegel.de/panorama/peanut-das-wohl-beruehmteste-eichhoernchen-der-usa-ist-tot](https://www.spiegel.de/panorama/peanut-das-wohl-beruehmteste-eichhoernchen-der-usa-ist-tot-a-2f2dc85f-11ba-4dba-895f-ad4f6b5aa2f3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/us-wahl-2024-new-york-times-warnt-vor-donald-trump](https://www.spiegel.de/wirtschaft/us-wahl-2024-new-york-times-warnt-vor-donald-trump-a-d7fd380a-9f1f-4aa8-8530-41d40e564c0a#ref=rss)
-* [https://www.spiegel.de/ausland/new-york-trockenster-oktober-buergermeister-ruft-wegen-duerre-zum-wassersparen-auf](https://www.spiegel.de/ausland/new-york-trockenster-oktober-buergermeister-ruft-wegen-duerre-zum-wassersparen-auf-a-d9fb53d6-0890-4e52-b3bd-0a747d59029d#ref=rss)
+* [https://www.spiegel.de/ausland/togo-friseurinnen-in-seelische-unterstuetzung-bei-psychischen-erkrankungen](https://www.spiegel.de/ausland/togo-friseurinnen-in-seelische-unterstuetzung-bei-psychischen-erkrankungen-a-024cecf8-6c23-4650-8961-8840ed0ef1ad#ref=rss)
+* [https://www.spiegel.de/panorama/uganda-14-jugendliche-in-kirche-von-blitz-getoetet](https://www.spiegel.de/panorama/uganda-14-jugendliche-in-kirche-von-blitz-getoetet-a-d38ca0b3-8013-4eef-a0a5-c80fa7e36788#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/rostock-verdacht-auf-brandanschlag-auf-queer-bar](https://www.spiegel.de/panorama/justiz/rostock-verdacht-auf-brandanschlag-auf-queer-bar-a-f808b847-5073-495b-89c6-2859fcc3b23e#ref=rss)
+* [https://www.spiegel.de/ausland/womens-march-in-den-usa-was-frauen-donald-trump-schon-immer-mal-sagen-wollten](https://www.spiegel.de/ausland/womens-march-in-den-usa-was-frauen-donald-trump-schon-immer-mal-sagen-wollten-a-e9de08f1-b7cb-4b29-9b4c-22d83c0a9766#ref=rss)
+* [https://www.spiegel.de/wissenschaft/pakistan-luftverschmutzung-erreicht-rekordwert](https://www.spiegel.de/wissenschaft/pakistan-luftverschmutzung-erreicht-rekordwert-a-3cfefc1c-2430-41f8-8afc-9f5d86bdf758#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/us-wahlkampf-kamala-harris-bei-saturday-night-live-donald-trump-als-vater-der-befruchtung](https://www.spiegel.de/ausland/us-wahlkampf-kamala-harris-bei-saturday-night-live-donald-trump-als-vater-der-befruchtung-a-76f250aa-d5ad-4b22-bd85-a8dfd0e518a0#ref=rss)
-* [https://www.spiegel.de/sport/us-wahl-wie-donald-trump-und-kamala-harris-die-sportwelt-fuer-ihre-interessen-nutzen](https://www.spiegel.de/sport/us-wahl-wie-donald-trump-und-kamala-harris-die-sportwelt-fuer-ihre-interessen-nutzen-a-f1c2b5e3-ec39-4ff6-bf82-7c388f17528b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/us-wahl-2024-new-york-times-warnt-vor-donald-trump](https://www.spiegel.de/wirtschaft/us-wahl-2024-new-york-times-warnt-vor-donald-trump-a-d7fd380a-9f1f-4aa8-8530-41d40e564c0a#ref=rss)
+* [https://www.spiegel.de/ausland/arizona-und-die-us-wahl-nicht-einmal-im-supermarkt-kann-man-donald-trump-entkommen](https://www.spiegel.de/ausland/arizona-und-die-us-wahl-nicht-einmal-im-supermarkt-kann-man-donald-trump-entkommen-a-3afd160c-d941-4ae1-be00-3ad8dd540503#ref=rss)
+* [https://www.spiegel.de/ausland/grenze-zwischen-den-usa-und-mexiko-warum-ein-indigenen-chef-donald-trumps-mauer-hasst](https://www.spiegel.de/ausland/grenze-zwischen-den-usa-und-mexiko-warum-ein-indigenen-chef-donald-trumps-mauer-hasst-a-2aed6af6-0a0e-458e-9308-1ca31c35f61e#ref=rss)
+* [https://www.spiegel.de/ausland/womens-march-in-den-usa-was-frauen-donald-trump-schon-immer-mal-sagen-wollten](https://www.spiegel.de/ausland/womens-march-in-den-usa-was-frauen-donald-trump-schon-immer-mal-sagen-wollten-a-e9de08f1-b7cb-4b29-9b4c-22d83c0a9766#ref=rss)
+### sharmahd
+
+* [https://www.spiegel.de/ausland/jamshid-sharmahd-tochter-gazelle-sharmahd-erhebt-vorwuerfe](https://www.spiegel.de/ausland/jamshid-sharmahd-tochter-gazelle-sharmahd-erhebt-vorwuerfe-a-423fc448-99a6-45cd-8f08-ace85353f0db#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/grenze-zwischen-den-usa-und-mexiko-warum-ein-indigenen-chef-donald-trumps-mauer-hasst](https://www.spiegel.de/ausland/grenze-zwischen-den-usa-und-mexiko-warum-ein-indigenen-chef-donald-trumps-mauer-hasst-a-2aed6af6-0a0e-458e-9308-1ca31c35f61e#ref=rss)
+* [https://www.spiegel.de/ausland/womens-march-in-den-usa-was-frauen-donald-trump-schon-immer-mal-sagen-wollten](https://www.spiegel.de/ausland/womens-march-in-den-usa-was-frauen-donald-trump-schon-immer-mal-sagen-wollten-a-e9de08f1-b7cb-4b29-9b4c-22d83c0a9766#ref=rss)
+* [https://www.spiegel.de/kultur/tv/el-hotzo-doku-auf-rtl-die-grosse-vergebungsreise-voellig-vergebens](https://www.spiegel.de/kultur/tv/el-hotzo-doku-auf-rtl-die-grosse-vergebungsreise-voellig-vergebens-a-60d248cf-c956-4232-96ad-df6908d34d4d#ref=rss)
+### vielen
+
+* [https://www.spiegel.de/ausland/togo-friseurinnen-in-seelische-unterstuetzung-bei-psychischen-erkrankungen](https://www.spiegel.de/ausland/togo-friseurinnen-in-seelische-unterstuetzung-bei-psychischen-erkrankungen-a-024cecf8-6c23-4650-8961-8840ed0ef1ad#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahlkampf-in-pennsylvania-wie-donald-trump-merchandise-zum-riesengeschaeft-wird](https://www.spiegel.de/ausland/us-wahlkampf-in-pennsylvania-wie-donald-trump-merchandise-zum-riesengeschaeft-wird-a-3d330b8a-4c56-4bf1-92fa-2905acef2b9d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-verspielt-fuehrung-gegen-den-1-fc-nuernberg](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-verspielt-fuehrung-gegen-den-1-fc-nuernberg-a-e1a26348-7957-484b-bd7e-56c4e3bf8e0f#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/us-wahlkampf-kamala-harris-bei-saturday-night-live-donald-trump-als-vater-der-befruchtung](https://www.spiegel.de/ausland/us-wahlkampf-kamala-harris-bei-saturday-night-live-donald-trump-als-vater-der-befruchtung-a-76f250aa-d5ad-4b22-bd85-a8dfd0e518a0#ref=rss)
-* [https://www.spiegel.de/sport/us-wahl-wie-donald-trump-und-kamala-harris-die-sportwelt-fuer-ihre-interessen-nutzen](https://www.spiegel.de/sport/us-wahl-wie-donald-trump-und-kamala-harris-die-sportwelt-fuer-ihre-interessen-nutzen-a-f1c2b5e3-ec39-4ff6-bf82-7c388f17528b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/us-wahl-2024-new-york-times-warnt-vor-donald-trump](https://www.spiegel.de/wirtschaft/us-wahl-2024-new-york-times-warnt-vor-donald-trump-a-d7fd380a-9f1f-4aa8-8530-41d40e564c0a#ref=rss)
-### york
-
-* [https://www.spiegel.de/panorama/peanut-das-wohl-beruehmteste-eichhoernchen-der-usa-ist-tot](https://www.spiegel.de/panorama/peanut-das-wohl-beruehmteste-eichhoernchen-der-usa-ist-tot-a-2f2dc85f-11ba-4dba-895f-ad4f6b5aa2f3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/us-wahl-2024-new-york-times-warnt-vor-donald-trump](https://www.spiegel.de/wirtschaft/us-wahl-2024-new-york-times-warnt-vor-donald-trump-a-d7fd380a-9f1f-4aa8-8530-41d40e564c0a#ref=rss)
-* [https://www.spiegel.de/ausland/new-york-trockenster-oktober-buergermeister-ruft-wegen-duerre-zum-wassersparen-auf](https://www.spiegel.de/ausland/new-york-trockenster-oktober-buergermeister-ruft-wegen-duerre-zum-wassersparen-auf-a-d9fb53d6-0890-4e52-b3bd-0a747d59029d#ref=rss)
-### kamala
-
-* [https://www.spiegel.de/ausland/us-wahlkampf-kamala-harris-bei-saturday-night-live-donald-trump-als-vater-der-befruchtung](https://www.spiegel.de/ausland/us-wahlkampf-kamala-harris-bei-saturday-night-live-donald-trump-als-vater-der-befruchtung-a-76f250aa-d5ad-4b22-bd85-a8dfd0e518a0#ref=rss)
-* [https://www.spiegel.de/sport/us-wahl-wie-donald-trump-und-kamala-harris-die-sportwelt-fuer-ihre-interessen-nutzen](https://www.spiegel.de/sport/us-wahl-wie-donald-trump-und-kamala-harris-die-sportwelt-fuer-ihre-interessen-nutzen-a-f1c2b5e3-ec39-4ff6-bf82-7c388f17528b#ref=rss)
-### harris
-
-* [https://www.spiegel.de/ausland/us-wahlkampf-kamala-harris-bei-saturday-night-live-donald-trump-als-vater-der-befruchtung](https://www.spiegel.de/ausland/us-wahlkampf-kamala-harris-bei-saturday-night-live-donald-trump-als-vater-der-befruchtung-a-76f250aa-d5ad-4b22-bd85-a8dfd0e518a0#ref=rss)
-* [https://www.spiegel.de/sport/us-wahl-wie-donald-trump-und-kamala-harris-die-sportwelt-fuer-ihre-interessen-nutzen](https://www.spiegel.de/sport/us-wahl-wie-donald-trump-und-kamala-harris-die-sportwelt-fuer-ihre-interessen-nutzen-a-f1c2b5e3-ec39-4ff6-bf82-7c388f17528b#ref=rss)
-### lindner
-
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-friedrich-merz-betont-gemeinsamkeiten-mit-grundsatzpapier](https://www.spiegel.de/politik/deutschland/christian-lindner-friedrich-merz-betont-gemeinsamkeiten-mit-grundsatzpapier-a-65c06921-8c5e-4558-92bc-29631b811ed5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ampel-koalition-es-brennt-gerade-die-huette-spd-chefin-saskia-esken-besorgt](https://www.spiegel.de/politik/deutschland/ampel-koalition-es-brennt-gerade-die-huette-spd-chefin-saskia-esken-besorgt-a-b02c7138-faca-4cb8-8990-9fb8b346bafd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ampel-koalition-in-der-krise-gruenen-fraktionschefin-droege-kritisiert-mangelnden-teamgeist](https://www.spiegel.de/politik/deutschland/ampel-koalition-in-der-krise-gruenen-fraktionschefin-droege-kritisiert-mangelnden-teamgeist-a-f8fbf4b0-2948-49c2-8ff1-21eacee6c19f#ref=rss)
-### times
-
-* [https://www.spiegel.de/panorama/peanut-das-wohl-beruehmteste-eichhoernchen-der-usa-ist-tot](https://www.spiegel.de/panorama/peanut-das-wohl-beruehmteste-eichhoernchen-der-usa-ist-tot-a-2f2dc85f-11ba-4dba-895f-ad4f6b5aa2f3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/us-wahl-2024-new-york-times-warnt-vor-donald-trump](https://www.spiegel.de/wirtschaft/us-wahl-2024-new-york-times-warnt-vor-donald-trump-a-d7fd380a-9f1f-4aa8-8530-41d40e564c0a#ref=rss)
-### berichtet
-
-* [https://www.spiegel.de/panorama/peanut-das-wohl-beruehmteste-eichhoernchen-der-usa-ist-tot](https://www.spiegel.de/panorama/peanut-das-wohl-beruehmteste-eichhoernchen-der-usa-ist-tot-a-2f2dc85f-11ba-4dba-895f-ad4f6b5aa2f3#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-who-berichtet-von-angriff-auf-polio-impfzentrum-in-gaza-stadt](https://www.spiegel.de/ausland/gaza-who-berichtet-von-angriff-auf-polio-impfzentrum-in-gaza-stadt-a-f72c80a3-e022-40f1-b26a-8638e4770b25#ref=rss)
-* [https://www.spiegel.de/ausland/iran-schliessung-der-konsulate-und-die-folgen-fuer-die-inhaftierte-deutsche-nahid-taghavi](https://www.spiegel.de/ausland/iran-schliessung-der-konsulate-und-die-folgen-fuer-die-inhaftierte-deutsche-nahid-taghavi-a-aa4443c7-9162-4b36-a667-3dac135e2f88#ref=rss)
-### eltern
-
-* [https://www.spiegel.de/ausland/gaza-who-berichtet-von-angriff-auf-polio-impfzentrum-in-gaza-stadt](https://www.spiegel.de/ausland/gaza-who-berichtet-von-angriff-auf-polio-impfzentrum-in-gaza-stadt-a-f72c80a3-e022-40f1-b26a-8638e4770b25#ref=rss)
-* [https://www.spiegel.de/panorama/leute/margot-robbie-und-tom-ackerley-sind-eltern-geworden](https://www.spiegel.de/panorama/leute/margot-robbie-und-tom-ackerley-sind-eltern-geworden-a-f8689b7c-9803-4d1f-8f81-74c3fb8cc775#ref=rss)
-### besten
-
-* [https://www.spiegel.de/sport/alpinismus-gespraech-mit-extrembergsteiger-dani-arnold-ueber-angst-und-verantwortung](https://www.spiegel.de/sport/alpinismus-gespraech-mit-extrembergsteiger-dani-arnold-ueber-angst-und-verantwortung-a-315bf9ab-838d-4719-8f18-b332e5ee562a#ref=rss)
-* [https://www.spiegel.de/tests/haushalt/stiftung-warentest-das-sind-die-besten-naehmaschinen](https://www.spiegel.de/tests/haushalt/stiftung-warentest-das-sind-die-besten-naehmaschinen-a-ffa91cec-54a2-4a09-a69f-d5db4ec1924b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-muenchen-besiegt-union-berlin-zurueck-im-zahnarzt-modus](https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-muenchen-besiegt-union-berlin-zurueck-im-zahnarzt-modus-a-7a3fb726-97ef-4091-884f-4c8404c3b788#ref=rss)
-### bsw
-
-* [https://www.spiegel.de/politik/brandenburg-spd-und-bsw-starten-koalitionsverhandlungen](https://www.spiegel.de/politik/brandenburg-spd-und-bsw-starten-koalitionsverhandlungen-a-a2c91c31-249f-49cf-9eb6-7e6cf1f09531#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-sahra-wagenknecht-und-der-bsw-usa-vor-der-wahl](https://www.spiegel.de/politik/deutschland/news-sahra-wagenknecht-und-der-bsw-usa-vor-der-wahl-a-0a0ec5a3-bbfa-4082-9a4e-f64f383cdbab#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-muenchen-besiegt-union-berlin-zurueck-im-zahnarzt-modus](https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-muenchen-besiegt-union-berlin-zurueck-im-zahnarzt-modus-a-7a3fb726-97ef-4091-884f-4c8404c3b788#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-zug-in-bahnhof-ahrensfelde-geht-komplett-in-flammen-auf](https://www.spiegel.de/panorama/berlin-zug-in-bahnhof-ahrensfelde-geht-komplett-in-flammen-auf-a-ca735cd0-e9f3-4570-b9a3-dc153dec82ed#ref=rss)
-### uswahl
-
-* [https://www.spiegel.de/ausland/us-wahlkampf-kamala-harris-bei-saturday-night-live-donald-trump-als-vater-der-befruchtung](https://www.spiegel.de/ausland/us-wahlkampf-kamala-harris-bei-saturday-night-live-donald-trump-als-vater-der-befruchtung-a-76f250aa-d5ad-4b22-bd85-a8dfd0e518a0#ref=rss)
-* [https://www.spiegel.de/sport/us-wahl-wie-donald-trump-und-kamala-harris-die-sportwelt-fuer-ihre-interessen-nutzen](https://www.spiegel.de/sport/us-wahl-wie-donald-trump-und-kamala-harris-die-sportwelt-fuer-ihre-interessen-nutzen-a-f1c2b5e3-ec39-4ff6-bf82-7c388f17528b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/us-wahl-2024-new-york-times-warnt-vor-donald-trump](https://www.spiegel.de/wirtschaft/us-wahl-2024-new-york-times-warnt-vor-donald-trump-a-d7fd380a-9f1f-4aa8-8530-41d40e564c0a#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/wirtschaft/us-wahl-2024-new-york-times-warnt-vor-donald-trump](https://www.spiegel.de/wirtschaft/us-wahl-2024-new-york-times-warnt-vor-donald-trump-a-d7fd380a-9f1f-4aa8-8530-41d40e564c0a#ref=rss)
-* [https://www.spiegel.de/ausland/nahost-konflikt-us-regierung-warnt-iran-vor-angriffen-auf-israel](https://www.spiegel.de/ausland/nahost-konflikt-us-regierung-warnt-iran-vor-angriffen-auf-israel-a-9acf3c86-cc33-46eb-bb53-a5f569742052#ref=rss)
-### kritisiert
-
-* [https://www.spiegel.de/panorama/bildung/cornelia-funke-kritisiert-schulen-deutsches-bildungssystem-sei-raub-der-kindheit](https://www.spiegel.de/panorama/bildung/cornelia-funke-kritisiert-schulen-deutsches-bildungssystem-sei-raub-der-kindheit-a-2a4b8e01-a5ef-4803-97ef-1e182e5cc566#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ampel-koalition-in-der-krise-gruenen-fraktionschefin-droege-kritisiert-mangelnden-teamgeist](https://www.spiegel.de/politik/deutschland/ampel-koalition-in-der-krise-gruenen-fraktionschefin-droege-kritisiert-mangelnden-teamgeist-a-f8fbf4b0-2948-49c2-8ff1-21eacee6c19f#ref=rss)
-### peanut
-
-* [https://www.spiegel.de/panorama/peanut-das-wohl-beruehmteste-eichhoernchen-der-usa-ist-tot](https://www.spiegel.de/panorama/peanut-das-wohl-beruehmteste-eichhoernchen-der-usa-ist-tot-a-2f2dc85f-11ba-4dba-895f-ad4f6b5aa2f3#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/panorama/peanut-das-wohl-beruehmteste-eichhoernchen-der-usa-ist-tot](https://www.spiegel.de/panorama/peanut-das-wohl-beruehmteste-eichhoernchen-der-usa-ist-tot-a-2f2dc85f-11ba-4dba-895f-ad4f6b5aa2f3#ref=rss)
-* [https://www.spiegel.de/sport/basketball/basketball-nba-star-joel-embiid-konfrontiert-und-schubst-offenbar-reporter](https://www.spiegel.de/sport/basketball/basketball-nba-star-joel-embiid-konfrontiert-und-schubst-offenbar-reporter-a-6853d848-52e1-4a9a-90ca-38ff238e0a70#ref=rss)
-### eichhörnchen
-
-* [https://www.spiegel.de/panorama/peanut-das-wohl-beruehmteste-eichhoernchen-der-usa-ist-tot](https://www.spiegel.de/panorama/peanut-das-wohl-beruehmteste-eichhoernchen-der-usa-ist-tot-a-2f2dc85f-11ba-4dba-895f-ad4f6b5aa2f3#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/peanut-das-wohl-beruehmteste-eichhoernchen-der-usa-ist-tot](https://www.spiegel.de/panorama/peanut-das-wohl-beruehmteste-eichhoernchen-der-usa-ist-tot-a-2f2dc85f-11ba-4dba-895f-ad4f6b5aa2f3#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-who-berichtet-von-angriff-auf-polio-impfzentrum-in-gaza-stadt](https://www.spiegel.de/ausland/gaza-who-berichtet-von-angriff-auf-polio-impfzentrum-in-gaza-stadt-a-f72c80a3-e022-40f1-b26a-8638e4770b25#ref=rss)
-### erste
-
-* [https://www.spiegel.de/panorama/peanut-das-wohl-beruehmteste-eichhoernchen-der-usa-ist-tot](https://www.spiegel.de/panorama/peanut-das-wohl-beruehmteste-eichhoernchen-der-usa-ist-tot-a-2f2dc85f-11ba-4dba-895f-ad4f6b5aa2f3#ref=rss)
-* [https://www.spiegel.de/ausland/kemi-badenoch-ist-neue-tory-chefin-laut-rechts-angriffslustig](https://www.spiegel.de/ausland/kemi-badenoch-ist-neue-tory-chefin-laut-rechts-angriffslustig-a-9ed57c56-6ad7-4dbb-84d5-83e899aea0f7#ref=rss)
-### dessen
-
-* [https://www.spiegel.de/panorama/peanut-das-wohl-beruehmteste-eichhoernchen-der-usa-ist-tot](https://www.spiegel.de/panorama/peanut-das-wohl-beruehmteste-eichhoernchen-der-usa-ist-tot-a-2f2dc85f-11ba-4dba-895f-ad4f6b5aa2f3#ref=rss)
-* [https://www.spiegel.de/sport/basketball/basketball-nba-star-joel-embiid-konfrontiert-und-schubst-offenbar-reporter](https://www.spiegel.de/sport/basketball/basketball-nba-star-joel-embiid-konfrontiert-und-schubst-offenbar-reporter-a-6853d848-52e1-4a9a-90ca-38ff238e0a70#ref=rss)
-### who
-
-* [https://www.spiegel.de/ausland/gaza-who-berichtet-von-angriff-auf-polio-impfzentrum-in-gaza-stadt](https://www.spiegel.de/ausland/gaza-who-berichtet-von-angriff-auf-polio-impfzentrum-in-gaza-stadt-a-f72c80a3-e022-40f1-b26a-8638e4770b25#ref=rss)
-### angriff
-
-* [https://www.spiegel.de/ausland/gaza-who-berichtet-von-angriff-auf-polio-impfzentrum-in-gaza-stadt](https://www.spiegel.de/ausland/gaza-who-berichtet-von-angriff-auf-polio-impfzentrum-in-gaza-stadt-a-f72c80a3-e022-40f1-b26a-8638e4770b25#ref=rss)
-### polioimpfzentrum
-
-* [https://www.spiegel.de/ausland/gaza-who-berichtet-von-angriff-auf-polio-impfzentrum-in-gaza-stadt](https://www.spiegel.de/ausland/gaza-who-berichtet-von-angriff-auf-polio-impfzentrum-in-gaza-stadt-a-f72c80a3-e022-40f1-b26a-8638e4770b25#ref=rss)
-### gazastadt
-
-* [https://www.spiegel.de/ausland/gaza-who-berichtet-von-angriff-auf-polio-impfzentrum-in-gaza-stadt](https://www.spiegel.de/ausland/gaza-who-berichtet-von-angriff-auf-polio-impfzentrum-in-gaza-stadt-a-f72c80a3-e022-40f1-b26a-8638e4770b25#ref=rss)
-### erhalten
-
-* [https://www.spiegel.de/ausland/gaza-who-berichtet-von-angriff-auf-polio-impfzentrum-in-gaza-stadt](https://www.spiegel.de/ausland/gaza-who-berichtet-von-angriff-auf-polio-impfzentrum-in-gaza-stadt-a-f72c80a3-e022-40f1-b26a-8638e4770b25#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/vw-chef-oliver-blume-sieht-keine-alternative-zu-sparprogramm](https://www.spiegel.de/wirtschaft/unternehmen/vw-chef-oliver-blume-sieht-keine-alternative-zu-sparprogramm-a-e9d1b261-6ed8-4b68-bb69-f087e6a0a0d2#ref=rss)
-### lionel
-
-* [https://www.spiegel.de/sport/fussball/lionel-messi-inter-miami-muss-nach-spaetem-gegentor-ums-weiterkommen-zittern](https://www.spiegel.de/sport/fussball/lionel-messi-inter-miami-muss-nach-spaetem-gegentor-ums-weiterkommen-zittern-a-da2d1621-aef0-4dde-bf42-42a84d306589#ref=rss)
-### messi
-
-* [https://www.spiegel.de/sport/fussball/lionel-messi-inter-miami-muss-nach-spaetem-gegentor-ums-weiterkommen-zittern](https://www.spiegel.de/sport/fussball/lionel-messi-inter-miami-muss-nach-spaetem-gegentor-ums-weiterkommen-zittern-a-da2d1621-aef0-4dde-bf42-42a84d306589#ref=rss)
-### inter
-
-* [https://www.spiegel.de/sport/fussball/lionel-messi-inter-miami-muss-nach-spaetem-gegentor-ums-weiterkommen-zittern](https://www.spiegel.de/sport/fussball/lionel-messi-inter-miami-muss-nach-spaetem-gegentor-ums-weiterkommen-zittern-a-da2d1621-aef0-4dde-bf42-42a84d306589#ref=rss)
-### miami
-
-* [https://www.spiegel.de/sport/fussball/lionel-messi-inter-miami-muss-nach-spaetem-gegentor-ums-weiterkommen-zittern](https://www.spiegel.de/sport/fussball/lionel-messi-inter-miami-muss-nach-spaetem-gegentor-ums-weiterkommen-zittern-a-da2d1621-aef0-4dde-bf42-42a84d306589#ref=rss)
-### zittern
-
-* [https://www.spiegel.de/sport/fussball/lionel-messi-inter-miami-muss-nach-spaetem-gegentor-ums-weiterkommen-zittern](https://www.spiegel.de/sport/fussball/lionel-messi-inter-miami-muss-nach-spaetem-gegentor-ums-weiterkommen-zittern-a-da2d1621-aef0-4dde-bf42-42a84d306589#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/sport/fussball/lionel-messi-inter-miami-muss-nach-spaetem-gegentor-ums-weiterkommen-zittern](https://www.spiegel.de/sport/fussball/lionel-messi-inter-miami-muss-nach-spaetem-gegentor-ums-weiterkommen-zittern-a-da2d1621-aef0-4dde-bf42-42a84d306589#ref=rss)
-* [https://www.spiegel.de/panorama/leute/margot-robbie-und-tom-ackerley-sind-eltern-geworden](https://www.spiegel.de/panorama/leute/margot-robbie-und-tom-ackerley-sind-eltern-geworden-a-f8689b7c-9803-4d1f-8f81-74c3fb8cc775#ref=rss)
-### anders
-
-* [https://www.spiegel.de/sport/fussball/lionel-messi-inter-miami-muss-nach-spaetem-gegentor-ums-weiterkommen-zittern](https://www.spiegel.de/sport/fussball/lionel-messi-inter-miami-muss-nach-spaetem-gegentor-ums-weiterkommen-zittern-a-da2d1621-aef0-4dde-bf42-42a84d306589#ref=rss)
-* [https://www.spiegel.de/wirtschaft/us-wahl-2024-new-york-times-warnt-vor-donald-trump](https://www.spiegel.de/wirtschaft/us-wahl-2024-new-york-times-warnt-vor-donald-trump-a-d7fd380a-9f1f-4aa8-8530-41d40e564c0a#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/iran-studentin-nach-protest-in-unterwaesche-offenbar-festgenommen](https://www.spiegel.de/ausland/iran-studentin-nach-protest-in-unterwaesche-offenbar-festgenommen-a-b24fe05e-f021-4f46-ade8-1a3044655e94#ref=rss)
-* [https://www.spiegel.de/sport/basketball/basketball-nba-star-joel-embiid-konfrontiert-und-schubst-offenbar-reporter](https://www.spiegel.de/sport/basketball/basketball-nba-star-joel-embiid-konfrontiert-und-schubst-offenbar-reporter-a-6853d848-52e1-4a9a-90ca-38ff238e0a70#ref=rss)
-### frau
-
-* [https://www.spiegel.de/ausland/iran-studentin-nach-protest-in-unterwaesche-offenbar-festgenommen](https://www.spiegel.de/ausland/iran-studentin-nach-protest-in-unterwaesche-offenbar-festgenommen-a-b24fe05e-f021-4f46-ade8-1a3044655e94#ref=rss)
-* [https://www.spiegel.de/sport/alpinismus-gespraech-mit-extrembergsteiger-dani-arnold-ueber-angst-und-verantwortung](https://www.spiegel.de/sport/alpinismus-gespraech-mit-extrembergsteiger-dani-arnold-ueber-angst-und-verantwortung-a-315bf9ab-838d-4719-8f18-b332e5ee562a#ref=rss)
-### laut
-
-* [https://www.spiegel.de/ausland/iran-studentin-nach-protest-in-unterwaesche-offenbar-festgenommen](https://www.spiegel.de/ausland/iran-studentin-nach-protest-in-unterwaesche-offenbar-festgenommen-a-b24fe05e-f021-4f46-ade8-1a3044655e94#ref=rss)
-* [https://www.spiegel.de/ausland/kemi-badenoch-ist-neue-tory-chefin-laut-rechts-angriffslustig](https://www.spiegel.de/ausland/kemi-badenoch-ist-neue-tory-chefin-laut-rechts-angriffslustig-a-9ed57c56-6ad7-4dbb-84d5-83e899aea0f7#ref=rss)
-### margot
-
-* [https://www.spiegel.de/panorama/leute/margot-robbie-und-tom-ackerley-sind-eltern-geworden](https://www.spiegel.de/panorama/leute/margot-robbie-und-tom-ackerley-sind-eltern-geworden-a-f8689b7c-9803-4d1f-8f81-74c3fb8cc775#ref=rss)
-### robbie
-
-* [https://www.spiegel.de/panorama/leute/margot-robbie-und-tom-ackerley-sind-eltern-geworden](https://www.spiegel.de/panorama/leute/margot-robbie-und-tom-ackerley-sind-eltern-geworden-a-f8689b7c-9803-4d1f-8f81-74c3fb8cc775#ref=rss)
-### tom
-
-* [https://www.spiegel.de/panorama/leute/margot-robbie-und-tom-ackerley-sind-eltern-geworden](https://www.spiegel.de/panorama/leute/margot-robbie-und-tom-ackerley-sind-eltern-geworden-a-f8689b7c-9803-4d1f-8f81-74c3fb8cc775#ref=rss)
-### ackerley
-
-* [https://www.spiegel.de/panorama/leute/margot-robbie-und-tom-ackerley-sind-eltern-geworden](https://www.spiegel.de/panorama/leute/margot-robbie-und-tom-ackerley-sind-eltern-geworden-a-f8689b7c-9803-4d1f-8f81-74c3fb8cc775#ref=rss)
-### geworden
-
-* [https://www.spiegel.de/panorama/leute/margot-robbie-und-tom-ackerley-sind-eltern-geworden](https://www.spiegel.de/panorama/leute/margot-robbie-und-tom-ackerley-sind-eltern-geworden-a-f8689b7c-9803-4d1f-8f81-74c3fb8cc775#ref=rss)
-### gespräch
-
-* [https://www.spiegel.de/sport/alpinismus-gespraech-mit-extrembergsteiger-dani-arnold-ueber-angst-und-verantwortung](https://www.spiegel.de/sport/alpinismus-gespraech-mit-extrembergsteiger-dani-arnold-ueber-angst-und-verantwortung-a-315bf9ab-838d-4719-8f18-b332e5ee562a#ref=rss)
-### extrembergsteiger
-
-* [https://www.spiegel.de/sport/alpinismus-gespraech-mit-extrembergsteiger-dani-arnold-ueber-angst-und-verantwortung](https://www.spiegel.de/sport/alpinismus-gespraech-mit-extrembergsteiger-dani-arnold-ueber-angst-und-verantwortung-a-315bf9ab-838d-4719-8f18-b332e5ee562a#ref=rss)
-### dani
-
-* [https://www.spiegel.de/sport/alpinismus-gespraech-mit-extrembergsteiger-dani-arnold-ueber-angst-und-verantwortung](https://www.spiegel.de/sport/alpinismus-gespraech-mit-extrembergsteiger-dani-arnold-ueber-angst-und-verantwortung-a-315bf9ab-838d-4719-8f18-b332e5ee562a#ref=rss)
-### arnold
-
-* [https://www.spiegel.de/sport/alpinismus-gespraech-mit-extrembergsteiger-dani-arnold-ueber-angst-und-verantwortung](https://www.spiegel.de/sport/alpinismus-gespraech-mit-extrembergsteiger-dani-arnold-ueber-angst-und-verantwortung-a-315bf9ab-838d-4719-8f18-b332e5ee562a#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/sport/alpinismus-gespraech-mit-extrembergsteiger-dani-arnold-ueber-angst-und-verantwortung](https://www.spiegel.de/sport/alpinismus-gespraech-mit-extrembergsteiger-dani-arnold-ueber-angst-und-verantwortung-a-315bf9ab-838d-4719-8f18-b332e5ee562a#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/israel-verschleppt-hochrangiges-hisbollah-mitglied-aus-dem-libanon](https://www.spiegel.de/ausland/israel-verschleppt-hochrangiges-hisbollah-mitglied-aus-dem-libanon-a-23bf83d5-957a-4247-9655-74d8932fe11a#ref=rss)
-* [https://www.spiegel.de/ausland/nahost-konflikt-us-regierung-warnt-iran-vor-angriffen-auf-israel](https://www.spiegel.de/ausland/nahost-konflikt-us-regierung-warnt-iran-vor-angriffen-auf-israel-a-9acf3c86-cc33-46eb-bb53-a5f569742052#ref=rss)
-### formel
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-unwetter-in-sao-paulo-sorgt-fuer-stressigen-sonntag](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-unwetter-in-sao-paulo-sorgt-fuer-stressigen-sonntag-a-07da18a2-40c3-4fcc-86d5-ca7a28221b5c#ref=rss)
-### 1
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-unwetter-in-sao-paulo-sorgt-fuer-stressigen-sonntag](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-unwetter-in-sao-paulo-sorgt-fuer-stressigen-sonntag-a-07da18a2-40c3-4fcc-86d5-ca7a28221b5c#ref=rss)
-### são
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-unwetter-in-sao-paulo-sorgt-fuer-stressigen-sonntag](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-unwetter-in-sao-paulo-sorgt-fuer-stressigen-sonntag-a-07da18a2-40c3-4fcc-86d5-ca7a28221b5c#ref=rss)
-### paulo
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-unwetter-in-sao-paulo-sorgt-fuer-stressigen-sonntag](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-unwetter-in-sao-paulo-sorgt-fuer-stressigen-sonntag-a-07da18a2-40c3-4fcc-86d5-ca7a28221b5c#ref=rss)
-### sonntag
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-unwetter-in-sao-paulo-sorgt-fuer-stressigen-sonntag](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-unwetter-in-sao-paulo-sorgt-fuer-stressigen-sonntag-a-07da18a2-40c3-4fcc-86d5-ca7a28221b5c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-sahra-wagenknecht-und-der-bsw-usa-vor-der-wahl](https://www.spiegel.de/politik/deutschland/news-sahra-wagenknecht-und-der-bsw-usa-vor-der-wahl-a-0a0ec5a3-bbfa-4082-9a4e-f64f383cdbab#ref=rss)
-### brandenburg
-
-* [https://www.spiegel.de/politik/brandenburg-spd-und-bsw-starten-koalitionsverhandlungen](https://www.spiegel.de/politik/brandenburg-spd-und-bsw-starten-koalitionsverhandlungen-a-a2c91c31-249f-49cf-9eb6-7e6cf1f09531#ref=rss)
-### sahra
-
-* [https://www.spiegel.de/politik/brandenburg-spd-und-bsw-starten-koalitionsverhandlungen](https://www.spiegel.de/politik/brandenburg-spd-und-bsw-starten-koalitionsverhandlungen-a-a2c91c31-249f-49cf-9eb6-7e6cf1f09531#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-sahra-wagenknecht-und-der-bsw-usa-vor-der-wahl](https://www.spiegel.de/politik/deutschland/news-sahra-wagenknecht-und-der-bsw-usa-vor-der-wahl-a-0a0ec5a3-bbfa-4082-9a4e-f64f383cdbab#ref=rss)
-### wagenknecht
-
-* [https://www.spiegel.de/politik/brandenburg-spd-und-bsw-starten-koalitionsverhandlungen](https://www.spiegel.de/politik/brandenburg-spd-und-bsw-starten-koalitionsverhandlungen-a-a2c91c31-249f-49cf-9eb6-7e6cf1f09531#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-sahra-wagenknecht-und-der-bsw-usa-vor-der-wahl](https://www.spiegel.de/politik/deutschland/news-sahra-wagenknecht-und-der-bsw-usa-vor-der-wahl-a-0a0ec5a3-bbfa-4082-9a4e-f64f383cdbab#ref=rss)
-### koalition
-
-* [https://www.spiegel.de/politik/brandenburg-spd-und-bsw-starten-koalitionsverhandlungen](https://www.spiegel.de/politik/brandenburg-spd-und-bsw-starten-koalitionsverhandlungen-a-a2c91c31-249f-49cf-9eb6-7e6cf1f09531#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ampel-koalition-in-der-krise-gruenen-fraktionschefin-droege-kritisiert-mangelnden-teamgeist](https://www.spiegel.de/politik/deutschland/ampel-koalition-in-der-krise-gruenen-fraktionschefin-droege-kritisiert-mangelnden-teamgeist-a-f8fbf4b0-2948-49c2-8ff1-21eacee6c19f#ref=rss)
-### position
-
-* [https://www.spiegel.de/politik/brandenburg-spd-und-bsw-starten-koalitionsverhandlungen](https://www.spiegel.de/politik/brandenburg-spd-und-bsw-starten-koalitionsverhandlungen-a-a2c91c31-249f-49cf-9eb6-7e6cf1f09531#ref=rss)
-* [https://www.spiegel.de/wirtschaft/us-wahl-2024-new-york-times-warnt-vor-donald-trump](https://www.spiegel.de/wirtschaft/us-wahl-2024-new-york-times-warnt-vor-donald-trump-a-d7fd380a-9f1f-4aa8-8530-41d40e564c0a#ref=rss)
-### joel
-
-* [https://www.spiegel.de/sport/basketball/basketball-nba-star-joel-embiid-konfrontiert-und-schubst-offenbar-reporter](https://www.spiegel.de/sport/basketball/basketball-nba-star-joel-embiid-konfrontiert-und-schubst-offenbar-reporter-a-6853d848-52e1-4a9a-90ca-38ff238e0a70#ref=rss)
-### embiid
-
-* [https://www.spiegel.de/sport/basketball/basketball-nba-star-joel-embiid-konfrontiert-und-schubst-offenbar-reporter](https://www.spiegel.de/sport/basketball/basketball-nba-star-joel-embiid-konfrontiert-und-schubst-offenbar-reporter-a-6853d848-52e1-4a9a-90ca-38ff238e0a70#ref=rss)
-### vwchef
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/vw-chef-oliver-blume-sieht-keine-alternative-zu-sparprogramm](https://www.spiegel.de/wirtschaft/unternehmen/vw-chef-oliver-blume-sieht-keine-alternative-zu-sparprogramm-a-e9d1b261-6ed8-4b68-bb69-f087e6a0a0d2#ref=rss)
-### oliver
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/vw-chef-oliver-blume-sieht-keine-alternative-zu-sparprogramm](https://www.spiegel.de/wirtschaft/unternehmen/vw-chef-oliver-blume-sieht-keine-alternative-zu-sparprogramm-a-e9d1b261-6ed8-4b68-bb69-f087e6a0a0d2#ref=rss)
-### blume
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/vw-chef-oliver-blume-sieht-keine-alternative-zu-sparprogramm](https://www.spiegel.de/wirtschaft/unternehmen/vw-chef-oliver-blume-sieht-keine-alternative-zu-sparprogramm-a-e9d1b261-6ed8-4b68-bb69-f087e6a0a0d2#ref=rss)
-### weniger
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/vw-chef-oliver-blume-sieht-keine-alternative-zu-sparprogramm](https://www.spiegel.de/wirtschaft/unternehmen/vw-chef-oliver-blume-sieht-keine-alternative-zu-sparprogramm-a-e9d1b261-6ed8-4b68-bb69-f087e6a0a0d2#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/wetter-phaenomen-warum-ist-deutschland-so-neblig-in-diesen-tagen](https://www.spiegel.de/wissenschaft/natur/wetter-phaenomen-warum-ist-deutschland-so-neblig-in-diesen-tagen-a-67e4b0f6-9299-43b4-a218-d6f8d0edff6f#ref=rss)
-### wahl
-
-* [https://www.spiegel.de/politik/deutschland/news-sahra-wagenknecht-und-der-bsw-usa-vor-der-wahl](https://www.spiegel.de/politik/deutschland/news-sahra-wagenknecht-und-der-bsw-usa-vor-der-wahl-a-0a0ec5a3-bbfa-4082-9a4e-f64f383cdbab#ref=rss)
-### turner
-
-* [https://www.spiegel.de/familie/turner-twins-hugo-und-ross-sie-sind-eineiige-zwillinge-und-haben-daraus-ein-geschaeftsmodell-gemacht](https://www.spiegel.de/familie/turner-twins-hugo-und-ross-sie-sind-eineiige-zwillinge-und-haben-daraus-ein-geschaeftsmodell-gemacht-a-259ee420-f6fc-475a-9677-e4c52e70c35c#ref=rss)
-### hugo
-
-* [https://www.spiegel.de/familie/turner-twins-hugo-und-ross-sie-sind-eineiige-zwillinge-und-haben-daraus-ein-geschaeftsmodell-gemacht](https://www.spiegel.de/familie/turner-twins-hugo-und-ross-sie-sind-eineiige-zwillinge-und-haben-daraus-ein-geschaeftsmodell-gemacht-a-259ee420-f6fc-475a-9677-e4c52e70c35c#ref=rss)
-### ross
-
-* [https://www.spiegel.de/familie/turner-twins-hugo-und-ross-sie-sind-eineiige-zwillinge-und-haben-daraus-ein-geschaeftsmodell-gemacht](https://www.spiegel.de/familie/turner-twins-hugo-und-ross-sie-sind-eineiige-zwillinge-und-haben-daraus-ein-geschaeftsmodell-gemacht-a-259ee420-f6fc-475a-9677-e4c52e70c35c#ref=rss)
-### zwillinge
-
-* [https://www.spiegel.de/familie/turner-twins-hugo-und-ross-sie-sind-eineiige-zwillinge-und-haben-daraus-ein-geschaeftsmodell-gemacht](https://www.spiegel.de/familie/turner-twins-hugo-und-ross-sie-sind-eineiige-zwillinge-und-haben-daraus-ein-geschaeftsmodell-gemacht-a-259ee420-f6fc-475a-9677-e4c52e70c35c#ref=rss)
-### stiftung
-
-* [https://www.spiegel.de/tests/haushalt/stiftung-warentest-das-sind-die-besten-naehmaschinen](https://www.spiegel.de/tests/haushalt/stiftung-warentest-das-sind-die-besten-naehmaschinen-a-ffa91cec-54a2-4a09-a69f-d5db4ec1924b#ref=rss)
-### warentest
-
-* [https://www.spiegel.de/tests/haushalt/stiftung-warentest-das-sind-die-besten-naehmaschinen](https://www.spiegel.de/tests/haushalt/stiftung-warentest-das-sind-die-besten-naehmaschinen-a-ffa91cec-54a2-4a09-a69f-d5db4ec1924b#ref=rss)
-### nähmaschinen
-
-* [https://www.spiegel.de/tests/haushalt/stiftung-warentest-das-sind-die-besten-naehmaschinen](https://www.spiegel.de/tests/haushalt/stiftung-warentest-das-sind-die-besten-naehmaschinen-a-ffa91cec-54a2-4a09-a69f-d5db4ec1924b#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/tests/haushalt/stiftung-warentest-das-sind-die-besten-naehmaschinen](https://www.spiegel.de/tests/haushalt/stiftung-warentest-das-sind-die-besten-naehmaschinen-a-ffa91cec-54a2-4a09-a69f-d5db4ec1924b#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahlkampf-kamala-harris-bei-saturday-night-live-donald-trump-als-vater-der-befruchtung](https://www.spiegel.de/ausland/us-wahlkampf-kamala-harris-bei-saturday-night-live-donald-trump-als-vater-der-befruchtung-a-76f250aa-d5ad-4b22-bd85-a8dfd0e518a0#ref=rss)
-### tagen
-
-* [https://www.spiegel.de/wissenschaft/natur/wetter-phaenomen-warum-ist-deutschland-so-neblig-in-diesen-tagen](https://www.spiegel.de/wissenschaft/natur/wetter-phaenomen-warum-ist-deutschland-so-neblig-in-diesen-tagen-a-67e4b0f6-9299-43b4-a218-d6f8d0edff6f#ref=rss)
-* [https://www.spiegel.de/ausland/new-york-trockenster-oktober-buergermeister-ruft-wegen-duerre-zum-wassersparen-auf](https://www.spiegel.de/ausland/new-york-trockenster-oktober-buergermeister-ruft-wegen-duerre-zum-wassersparen-auf-a-d9fb53d6-0890-4e52-b3bd-0a747d59029d#ref=rss)
-### tage
-
-* [https://www.spiegel.de/wissenschaft/natur/wetter-phaenomen-warum-ist-deutschland-so-neblig-in-diesen-tagen](https://www.spiegel.de/wissenschaft/natur/wetter-phaenomen-warum-ist-deutschland-so-neblig-in-diesen-tagen-a-67e4b0f6-9299-43b4-a218-d6f8d0edff6f#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahlkampf-kamala-harris-bei-saturday-night-live-donald-trump-als-vater-der-befruchtung](https://www.spiegel.de/ausland/us-wahlkampf-kamala-harris-bei-saturday-night-live-donald-trump-als-vater-der-befruchtung-a-76f250aa-d5ad-4b22-bd85-a8dfd0e518a0#ref=rss)
-### bundesliga
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-muenchen-besiegt-union-berlin-zurueck-im-zahnarzt-modus](https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-muenchen-besiegt-union-berlin-zurueck-im-zahnarzt-modus-a-7a3fb726-97ef-4091-884f-4c8404c3b788#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-borussia-dortmund-bezwingt-rb-leipzig-zu-hause-siegt-es-sich-doch-am-schoensten](https://www.spiegel.de/sport/fussball/bundesliga-borussia-dortmund-bezwingt-rb-leipzig-zu-hause-siegt-es-sich-doch-am-schoensten-a-95fcd1c2-1c72-4eab-a09e-abff8b2c50bf#ref=rss)
+* [https://www.spiegel.de/ausland/arizona-und-die-us-wahl-nicht-einmal-im-supermarkt-kann-man-donald-trump-entkommen](https://www.spiegel.de/ausland/arizona-und-die-us-wahl-nicht-einmal-im-supermarkt-kann-man-donald-trump-entkommen-a-3afd160c-d941-4ae1-be00-3ad8dd540503#ref=rss)
+* [https://www.spiegel.de/ausland/grenze-zwischen-den-usa-und-mexiko-warum-ein-indigenen-chef-donald-trumps-mauer-hasst](https://www.spiegel.de/ausland/grenze-zwischen-den-usa-und-mexiko-warum-ein-indigenen-chef-donald-trumps-mauer-hasst-a-2aed6af6-0a0e-458e-9308-1ca31c35f61e#ref=rss)
+* [https://www.spiegel.de/ausland/womens-march-in-den-usa-was-frauen-donald-trump-schon-immer-mal-sagen-wollten](https://www.spiegel.de/ausland/womens-march-in-den-usa-was-frauen-donald-trump-schon-immer-mal-sagen-wollten-a-e9de08f1-b7cb-4b29-9b4c-22d83c0a9766#ref=rss)
+### reden
+
+* [https://www.spiegel.de/politik/deutschland/koalitionsstreit-sie-reden-und-reden-und-reden](https://www.spiegel.de/politik/deutschland/koalitionsstreit-sie-reden-und-reden-und-reden-a-1144e242-e8b7-48b1-a700-2bd2bb8bb16f#ref=rss)
+### macht
+
+* [https://www.spiegel.de/wirtschaft/e-mobilitaet-frankreich-will-europaeisch-abgestimmte-kaufpraemie](https://www.spiegel.de/wirtschaft/e-mobilitaet-frankreich-will-europaeisch-abgestimmte-kaufpraemie-a-72cb48ef-a4f4-486c-9f23-c1d88d61e7f9#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahlkampf-in-pennsylvania-wie-donald-trump-merchandise-zum-riesengeschaeft-wird](https://www.spiegel.de/ausland/us-wahlkampf-in-pennsylvania-wie-donald-trump-merchandise-zum-riesengeschaeft-wird-a-3d330b8a-4c56-4bf1-92fa-2905acef2b9d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/pakistan-luftverschmutzung-erreicht-rekordwert](https://www.spiegel.de/wissenschaft/pakistan-luftverschmutzung-erreicht-rekordwert-a-3cfefc1c-2430-41f8-8afc-9f5d86bdf758#ref=rss)
+### unter
+
+* [https://www.spiegel.de/kultur/elke-heidenreich-buch-empfehlungen-horrormaessiges-familiendrama-und-kraftvolle-erzaehlung](https://www.spiegel.de/kultur/elke-heidenreich-buch-empfehlungen-horrormaessiges-familiendrama-und-kraftvolle-erzaehlung-a-602f4d68-8af5-48db-bb7e-b04d8b78c80d#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-dresden-unter-feuer-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-dresden-unter-feuer-im-schnellcheck-a-f09c81db-c293-4fce-a50b-cd7dc426f4cf#ref=rss)
 ### fc
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-muenchen-besiegt-union-berlin-zurueck-im-zahnarzt-modus](https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-muenchen-besiegt-union-berlin-zurueck-im-zahnarzt-modus-a-7a3fb726-97ef-4091-884f-4c8404c3b788#ref=rss)
-### bayern
+* [https://www.spiegel.de/sport/fussball/champions-league-fans-des-fc-bayern-muenchen-rufen-wegen-hoher-ticketpreise-zum-boykott-auf](https://www.spiegel.de/sport/fussball/champions-league-fans-des-fc-bayern-muenchen-rufen-wegen-hoher-ticketpreise-zum-boykott-auf-a-61330587-c871-4eeb-b0b2-3afd9c2e2624#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-verspielt-fuehrung-gegen-den-1-fc-nuernberg](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-verspielt-fuehrung-gegen-den-1-fc-nuernberg-a-e1a26348-7957-484b-bd7e-56c4e3bf8e0f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/joel-monteiro-schweizer-nationalstuermer-sieht-rote-karte-fuer-schuhwurf](https://www.spiegel.de/sport/fussball/joel-monteiro-schweizer-nationalstuermer-sieht-rote-karte-fuer-schuhwurf-a-4fc5f06d-6fb2-48a6-bca2-b715a072f886#ref=rss)
+### 1
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-muenchen-besiegt-union-berlin-zurueck-im-zahnarzt-modus](https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-muenchen-besiegt-union-berlin-zurueck-im-zahnarzt-modus-a-7a3fb726-97ef-4091-884f-4c8404c3b788#ref=rss)
-### union
+* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-max-verstappen-gewinnt-chaotisches-regenrennen-von-sao-paulo](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-max-verstappen-gewinnt-chaotisches-regenrennen-von-sao-paulo-a-9fbf55cd-eb71-4ddf-b406-77d520c9a5cc#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-verspielt-fuehrung-gegen-den-1-fc-nuernberg](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-verspielt-fuehrung-gegen-den-1-fc-nuernberg-a-e1a26348-7957-484b-bd7e-56c4e3bf8e0f#ref=rss)
+### max
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-muenchen-besiegt-union-berlin-zurueck-im-zahnarzt-modus](https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-muenchen-besiegt-union-berlin-zurueck-im-zahnarzt-modus-a-7a3fb726-97ef-4091-884f-4c8404c3b788#ref=rss)
-### deutsche
+* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-max-verstappen-gewinnt-chaotisches-regenrennen-von-sao-paulo](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-max-verstappen-gewinnt-chaotisches-regenrennen-von-sao-paulo-a-9fbf55cd-eb71-4ddf-b406-77d520c9a5cc#ref=rss)
+### verstappen
 
-* [https://www.spiegel.de/ausland/iran-schliessung-der-konsulate-und-die-folgen-fuer-die-inhaftierte-deutsche-nahid-taghavi](https://www.spiegel.de/ausland/iran-schliessung-der-konsulate-und-die-folgen-fuer-die-inhaftierte-deutsche-nahid-taghavi-a-aa4443c7-9162-4b36-a667-3dac135e2f88#ref=rss)
-### nahid
+* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-max-verstappen-gewinnt-chaotisches-regenrennen-von-sao-paulo](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-max-verstappen-gewinnt-chaotisches-regenrennen-von-sao-paulo-a-9fbf55cd-eb71-4ddf-b406-77d520c9a5cc#ref=rss)
+### são
 
-* [https://www.spiegel.de/ausland/iran-schliessung-der-konsulate-und-die-folgen-fuer-die-inhaftierte-deutsche-nahid-taghavi](https://www.spiegel.de/ausland/iran-schliessung-der-konsulate-und-die-folgen-fuer-die-inhaftierte-deutsche-nahid-taghavi-a-aa4443c7-9162-4b36-a667-3dac135e2f88#ref=rss)
-### taghavi
+* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-max-verstappen-gewinnt-chaotisches-regenrennen-von-sao-paulo](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-max-verstappen-gewinnt-chaotisches-regenrennen-von-sao-paulo-a-9fbf55cd-eb71-4ddf-b406-77d520c9a5cc#ref=rss)
+### paulo
 
-* [https://www.spiegel.de/ausland/iran-schliessung-der-konsulate-und-die-folgen-fuer-die-inhaftierte-deutsche-nahid-taghavi](https://www.spiegel.de/ausland/iran-schliessung-der-konsulate-und-die-folgen-fuer-die-inhaftierte-deutsche-nahid-taghavi-a-aa4443c7-9162-4b36-a667-3dac135e2f88#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-max-verstappen-gewinnt-chaotisches-regenrennen-von-sao-paulo](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-max-verstappen-gewinnt-chaotisches-regenrennen-von-sao-paulo-a-9fbf55cd-eb71-4ddf-b406-77d520c9a5cc#ref=rss)
+### togo
+
+* [https://www.spiegel.de/ausland/togo-friseurinnen-in-seelische-unterstuetzung-bei-psychischen-erkrankungen](https://www.spiegel.de/ausland/togo-friseurinnen-in-seelische-unterstuetzung-bei-psychischen-erkrankungen-a-024cecf8-6c23-4650-8961-8840ed0ef1ad#ref=rss)
+### friseurinnen
+
+* [https://www.spiegel.de/ausland/togo-friseurinnen-in-seelische-unterstuetzung-bei-psychischen-erkrankungen](https://www.spiegel.de/ausland/togo-friseurinnen-in-seelische-unterstuetzung-bei-psychischen-erkrankungen-a-024cecf8-6c23-4650-8961-8840ed0ef1ad#ref=rss)
+### unterstützung
+
+* [https://www.spiegel.de/ausland/togo-friseurinnen-in-seelische-unterstuetzung-bei-psychischen-erkrankungen](https://www.spiegel.de/ausland/togo-friseurinnen-in-seelische-unterstuetzung-bei-psychischen-erkrankungen-a-024cecf8-6c23-4650-8961-8840ed0ef1ad#ref=rss)
+* [https://www.spiegel.de/kultur/tv/el-hotzo-doku-auf-rtl-die-grosse-vergebungsreise-voellig-vergebens](https://www.spiegel.de/kultur/tv/el-hotzo-doku-auf-rtl-die-grosse-vergebungsreise-voellig-vergebens-a-60d248cf-c956-4232-96ad-df6908d34d4d#ref=rss)
+### psychischen
+
+* [https://www.spiegel.de/ausland/togo-friseurinnen-in-seelische-unterstuetzung-bei-psychischen-erkrankungen](https://www.spiegel.de/ausland/togo-friseurinnen-in-seelische-unterstuetzung-bei-psychischen-erkrankungen-a-024cecf8-6c23-4650-8961-8840ed0ef1ad#ref=rss)
+### erkrankungen
+
+* [https://www.spiegel.de/ausland/togo-friseurinnen-in-seelische-unterstuetzung-bei-psychischen-erkrankungen](https://www.spiegel.de/ausland/togo-friseurinnen-in-seelische-unterstuetzung-bei-psychischen-erkrankungen-a-024cecf8-6c23-4650-8961-8840ed0ef1ad#ref=rss)
+### libanon
+
+* [https://www.spiegel.de/ausland/libanon-hisbollah-feuert-dutzende-raketen-auf-israel-netanyahu-droht-mit-hartem-gegenschlag](https://www.spiegel.de/ausland/libanon-hisbollah-feuert-dutzende-raketen-auf-israel-netanyahu-droht-mit-hartem-gegenschlag-a-31159005-5b7c-481b-b36f-8a2d36e5b434#ref=rss)
+### hisbollah
+
+* [https://www.spiegel.de/ausland/libanon-hisbollah-feuert-dutzende-raketen-auf-israel-netanyahu-droht-mit-hartem-gegenschlag](https://www.spiegel.de/ausland/libanon-hisbollah-feuert-dutzende-raketen-auf-israel-netanyahu-droht-mit-hartem-gegenschlag-a-31159005-5b7c-481b-b36f-8a2d36e5b434#ref=rss)
+### dutzende
+
+* [https://www.spiegel.de/ausland/libanon-hisbollah-feuert-dutzende-raketen-auf-israel-netanyahu-droht-mit-hartem-gegenschlag](https://www.spiegel.de/ausland/libanon-hisbollah-feuert-dutzende-raketen-auf-israel-netanyahu-droht-mit-hartem-gegenschlag-a-31159005-5b7c-481b-b36f-8a2d36e5b434#ref=rss)
+### raketen
+
+* [https://www.spiegel.de/ausland/libanon-hisbollah-feuert-dutzende-raketen-auf-israel-netanyahu-droht-mit-hartem-gegenschlag](https://www.spiegel.de/ausland/libanon-hisbollah-feuert-dutzende-raketen-auf-israel-netanyahu-droht-mit-hartem-gegenschlag-a-31159005-5b7c-481b-b36f-8a2d36e5b434#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/libanon-hisbollah-feuert-dutzende-raketen-auf-israel-netanyahu-droht-mit-hartem-gegenschlag](https://www.spiegel.de/ausland/libanon-hisbollah-feuert-dutzende-raketen-auf-israel-netanyahu-droht-mit-hartem-gegenschlag-a-31159005-5b7c-481b-b36f-8a2d36e5b434#ref=rss)
+### netanyahu
+
+* [https://www.spiegel.de/ausland/libanon-hisbollah-feuert-dutzende-raketen-auf-israel-netanyahu-droht-mit-hartem-gegenschlag](https://www.spiegel.de/ausland/libanon-hisbollah-feuert-dutzende-raketen-auf-israel-netanyahu-droht-mit-hartem-gegenschlag-a-31159005-5b7c-481b-b36f-8a2d36e5b434#ref=rss)
+### grenze
+
+* [https://www.spiegel.de/ausland/libanon-hisbollah-feuert-dutzende-raketen-auf-israel-netanyahu-droht-mit-hartem-gegenschlag](https://www.spiegel.de/ausland/libanon-hisbollah-feuert-dutzende-raketen-auf-israel-netanyahu-droht-mit-hartem-gegenschlag-a-31159005-5b7c-481b-b36f-8a2d36e5b434#ref=rss)
+* [https://www.spiegel.de/ausland/grenze-zwischen-den-usa-und-mexiko-warum-ein-indigenen-chef-donald-trumps-mauer-hasst](https://www.spiegel.de/ausland/grenze-zwischen-den-usa-und-mexiko-warum-ein-indigenen-chef-donald-trumps-mauer-hasst-a-2aed6af6-0a0e-458e-9308-1ca31c35f61e#ref=rss)
+### arizona
+
+* [https://www.spiegel.de/ausland/arizona-und-die-us-wahl-nicht-einmal-im-supermarkt-kann-man-donald-trump-entkommen](https://www.spiegel.de/ausland/arizona-und-die-us-wahl-nicht-einmal-im-supermarkt-kann-man-donald-trump-entkommen-a-3afd160c-d941-4ae1-be00-3ad8dd540503#ref=rss)
+### mir
+
+* [https://www.spiegel.de/ausland/arizona-und-die-us-wahl-nicht-einmal-im-supermarkt-kann-man-donald-trump-entkommen](https://www.spiegel.de/ausland/arizona-und-die-us-wahl-nicht-einmal-im-supermarkt-kann-man-donald-trump-entkommen-a-3afd160c-d941-4ae1-be00-3ad8dd540503#ref=rss)
+* [https://www.spiegel.de/panorama/leute/jens-lehmann-findet-alkoholfahrt-keine-gute-sache-von-mir](https://www.spiegel.de/panorama/leute/jens-lehmann-findet-alkoholfahrt-keine-gute-sache-von-mir-a-decae0f5-4e45-40e3-95ba-badd4419bb43#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/panorama/gesellschaft/der-spiegel-50-jahre-mitarbeiter-kg-das-geschenk](https://www.spiegel.de/panorama/gesellschaft/der-spiegel-50-jahre-mitarbeiter-kg-das-geschenk-a-c4dd6b18-81b2-492b-961f-9ad772816798#ref=rss)
+### 50
+
+* [https://www.spiegel.de/panorama/gesellschaft/der-spiegel-50-jahre-mitarbeiter-kg-das-geschenk](https://www.spiegel.de/panorama/gesellschaft/der-spiegel-50-jahre-mitarbeiter-kg-das-geschenk-a-c4dd6b18-81b2-492b-961f-9ad772816798#ref=rss)
+### mitarbeiter
+
+* [https://www.spiegel.de/panorama/gesellschaft/der-spiegel-50-jahre-mitarbeiter-kg-das-geschenk](https://www.spiegel.de/panorama/gesellschaft/der-spiegel-50-jahre-mitarbeiter-kg-das-geschenk-a-c4dd6b18-81b2-492b-961f-9ad772816798#ref=rss)
+### kg
+
+* [https://www.spiegel.de/panorama/gesellschaft/der-spiegel-50-jahre-mitarbeiter-kg-das-geschenk](https://www.spiegel.de/panorama/gesellschaft/der-spiegel-50-jahre-mitarbeiter-kg-das-geschenk-a-c4dd6b18-81b2-492b-961f-9ad772816798#ref=rss)
+### versucht
+
+* [https://www.spiegel.de/politik/deutschland/koalitionsstreit-sie-reden-und-reden-und-reden](https://www.spiegel.de/politik/deutschland/koalitionsstreit-sie-reden-und-reden-und-reden-a-1144e242-e8b7-48b1-a700-2bd2bb8bb16f#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/pro-palaestina-demo-in-berlin-demonstrant-versucht-an-dienstwaffe-von-polizisten-zu-kommen](https://www.spiegel.de/panorama/gesellschaft/pro-palaestina-demo-in-berlin-demonstrant-versucht-an-dienstwaffe-von-polizisten-zu-kommen-a-c72342dd-4c5d-480c-9bc1-1affcd1cd654#ref=rss)
+### gehen
+
+* [https://www.spiegel.de/politik/deutschland/koalitionsstreit-sie-reden-und-reden-und-reden](https://www.spiegel.de/politik/deutschland/koalitionsstreit-sie-reden-und-reden-und-reden-a-1144e242-e8b7-48b1-a700-2bd2bb8bb16f#ref=rss)
+* [https://www.spiegel.de/kultur/elke-heidenreich-buch-empfehlungen-horrormaessiges-familiendrama-und-kraftvolle-erzaehlung](https://www.spiegel.de/kultur/elke-heidenreich-buch-empfehlungen-horrormaessiges-familiendrama-und-kraftvolle-erzaehlung-a-602f4d68-8af5-48db-bb7e-b04d8b78c80d#ref=rss)
+### uganda
+
+* [https://www.spiegel.de/panorama/uganda-14-jugendliche-in-kirche-von-blitz-getoetet](https://www.spiegel.de/panorama/uganda-14-jugendliche-in-kirche-von-blitz-getoetet-a-d38ca0b3-8013-4eef-a0a5-c80fa7e36788#ref=rss)
+### 14
+
+* [https://www.spiegel.de/panorama/uganda-14-jugendliche-in-kirche-von-blitz-getoetet](https://www.spiegel.de/panorama/uganda-14-jugendliche-in-kirche-von-blitz-getoetet-a-d38ca0b3-8013-4eef-a0a5-c80fa7e36788#ref=rss)
+### jugendliche
+
+* [https://www.spiegel.de/panorama/uganda-14-jugendliche-in-kirche-von-blitz-getoetet](https://www.spiegel.de/panorama/uganda-14-jugendliche-in-kirche-von-blitz-getoetet-a-d38ca0b3-8013-4eef-a0a5-c80fa7e36788#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bremen-jugendliche-bedrohen-kiosk-mitarbeiter-mit-messer-der-wehrt-sich](https://www.spiegel.de/panorama/justiz/bremen-jugendliche-bedrohen-kiosk-mitarbeiter-mit-messer-der-wehrt-sich-a-e1d424ae-9a92-4a47-b1d0-052298e7b9a2#ref=rss)
+### blitz
+
+* [https://www.spiegel.de/panorama/uganda-14-jugendliche-in-kirche-von-blitz-getoetet](https://www.spiegel.de/panorama/uganda-14-jugendliche-in-kirche-von-blitz-getoetet-a-d38ca0b3-8013-4eef-a0a5-c80fa7e36788#ref=rss)
+* [https://www.spiegel.de/kultur/kino/steve-mcqueen-zu-seinem-film-blitz-der-stolzeste-tag-meines-lebens-war-mit-450-frauen-am-set](https://www.spiegel.de/kultur/kino/steve-mcqueen-zu-seinem-film-blitz-der-stolzeste-tag-meines-lebens-war-mit-450-frauen-am-set-a-4658ae68-24f5-45f0-b60c-30f2d4a0cef1#ref=rss)
+### verletzt
+
+* [https://www.spiegel.de/panorama/uganda-14-jugendliche-in-kirche-von-blitz-getoetet](https://www.spiegel.de/panorama/uganda-14-jugendliche-in-kirche-von-blitz-getoetet-a-d38ca0b3-8013-4eef-a0a5-c80fa7e36788#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bremen-jugendliche-bedrohen-kiosk-mitarbeiter-mit-messer-der-wehrt-sich](https://www.spiegel.de/panorama/justiz/bremen-jugendliche-bedrohen-kiosk-mitarbeiter-mit-messer-der-wehrt-sich-a-e1d424ae-9a92-4a47-b1d0-052298e7b9a2#ref=rss)
 ### uswahlkampf
 
-* [https://www.spiegel.de/ausland/us-wahlkampf-kamala-harris-bei-saturday-night-live-donald-trump-als-vater-der-befruchtung](https://www.spiegel.de/ausland/us-wahlkampf-kamala-harris-bei-saturday-night-live-donald-trump-als-vater-der-befruchtung-a-76f250aa-d5ad-4b22-bd85-a8dfd0e518a0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/us-wahl-2024-new-york-times-warnt-vor-donald-trump](https://www.spiegel.de/wirtschaft/us-wahl-2024-new-york-times-warnt-vor-donald-trump-a-d7fd380a-9f1f-4aa8-8530-41d40e564c0a#ref=rss)
-### saturday
+* [https://www.spiegel.de/ausland/us-wahlkampf-in-pennsylvania-wie-donald-trump-merchandise-zum-riesengeschaeft-wird](https://www.spiegel.de/ausland/us-wahlkampf-in-pennsylvania-wie-donald-trump-merchandise-zum-riesengeschaeft-wird-a-3d330b8a-4c56-4bf1-92fa-2905acef2b9d#ref=rss)
+### riesengeschäft
 
-* [https://www.spiegel.de/ausland/us-wahlkampf-kamala-harris-bei-saturday-night-live-donald-trump-als-vater-der-befruchtung](https://www.spiegel.de/ausland/us-wahlkampf-kamala-harris-bei-saturday-night-live-donald-trump-als-vater-der-befruchtung-a-76f250aa-d5ad-4b22-bd85-a8dfd0e518a0#ref=rss)
-### night
+* [https://www.spiegel.de/ausland/us-wahlkampf-in-pennsylvania-wie-donald-trump-merchandise-zum-riesengeschaeft-wird](https://www.spiegel.de/ausland/us-wahlkampf-in-pennsylvania-wie-donald-trump-merchandise-zum-riesengeschaeft-wird-a-3d330b8a-4c56-4bf1-92fa-2905acef2b9d#ref=rss)
+### klagen
 
-* [https://www.spiegel.de/ausland/us-wahlkampf-kamala-harris-bei-saturday-night-live-donald-trump-als-vater-der-befruchtung](https://www.spiegel.de/ausland/us-wahlkampf-kamala-harris-bei-saturday-night-live-donald-trump-als-vater-der-befruchtung-a-76f250aa-d5ad-4b22-bd85-a8dfd0e518a0#ref=rss)
-### befruchtung
+* [https://www.spiegel.de/ausland/us-wahlkampf-in-pennsylvania-wie-donald-trump-merchandise-zum-riesengeschaeft-wird](https://www.spiegel.de/ausland/us-wahlkampf-in-pennsylvania-wie-donald-trump-merchandise-zum-riesengeschaeft-wird-a-3d330b8a-4c56-4bf1-92fa-2905acef2b9d#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/spanien-flut-opfer-bewerfen-koenig-felipe-und-pedro-sanchez-mit-schlamm](https://www.spiegel.de/panorama/gesellschaft/spanien-flut-opfer-bewerfen-koenig-felipe-und-pedro-sanchez-mit-schlamm-a-77b19488-e646-4ad9-9137-f183b7abd43b#ref=rss)
+### elke
 
-* [https://www.spiegel.de/ausland/us-wahlkampf-kamala-harris-bei-saturday-night-live-donald-trump-als-vater-der-befruchtung](https://www.spiegel.de/ausland/us-wahlkampf-kamala-harris-bei-saturday-night-live-donald-trump-als-vater-der-befruchtung-a-76f250aa-d5ad-4b22-bd85-a8dfd0e518a0#ref=rss)
-### nordkorea
+* [https://www.spiegel.de/kultur/elke-heidenreich-buch-empfehlungen-horrormaessiges-familiendrama-und-kraftvolle-erzaehlung](https://www.spiegel.de/kultur/elke-heidenreich-buch-empfehlungen-horrormaessiges-familiendrama-und-kraftvolle-erzaehlung-a-602f4d68-8af5-48db-bb7e-b04d8b78c80d#ref=rss)
+### familiendrama
 
-* [https://www.spiegel.de/ausland/nordkorea-usa-und-suedkorea-reagieren-mit-militaermanoever-auf-raketentests](https://www.spiegel.de/ausland/nordkorea-usa-und-suedkorea-reagieren-mit-militaermanoever-auf-raketentests-a-472d3088-b6b3-4970-aece-76b29226565b#ref=rss)
-### südkorea
+* [https://www.spiegel.de/kultur/elke-heidenreich-buch-empfehlungen-horrormaessiges-familiendrama-und-kraftvolle-erzaehlung](https://www.spiegel.de/kultur/elke-heidenreich-buch-empfehlungen-horrormaessiges-familiendrama-und-kraftvolle-erzaehlung-a-602f4d68-8af5-48db-bb7e-b04d8b78c80d#ref=rss)
+### kraftvolle
 
-* [https://www.spiegel.de/ausland/nordkorea-usa-und-suedkorea-reagieren-mit-militaermanoever-auf-raketentests](https://www.spiegel.de/ausland/nordkorea-usa-und-suedkorea-reagieren-mit-militaermanoever-auf-raketentests-a-472d3088-b6b3-4970-aece-76b29226565b#ref=rss)
-### militärmanöver
+* [https://www.spiegel.de/kultur/elke-heidenreich-buch-empfehlungen-horrormaessiges-familiendrama-und-kraftvolle-erzaehlung](https://www.spiegel.de/kultur/elke-heidenreich-buch-empfehlungen-horrormaessiges-familiendrama-und-kraftvolle-erzaehlung-a-602f4d68-8af5-48db-bb7e-b04d8b78c80d#ref=rss)
+### erzählung
 
-* [https://www.spiegel.de/ausland/nordkorea-usa-und-suedkorea-reagieren-mit-militaermanoever-auf-raketentests](https://www.spiegel.de/ausland/nordkorea-usa-und-suedkorea-reagieren-mit-militaermanoever-auf-raketentests-a-472d3088-b6b3-4970-aece-76b29226565b#ref=rss)
-### raketentests
+* [https://www.spiegel.de/kultur/elke-heidenreich-buch-empfehlungen-horrormaessiges-familiendrama-und-kraftvolle-erzaehlung](https://www.spiegel.de/kultur/elke-heidenreich-buch-empfehlungen-horrormaessiges-familiendrama-und-kraftvolle-erzaehlung-a-602f4d68-8af5-48db-bb7e-b04d8b78c80d#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/ausland/nordkorea-usa-und-suedkorea-reagieren-mit-militaermanoever-auf-raketentests](https://www.spiegel.de/ausland/nordkorea-usa-und-suedkorea-reagieren-mit-militaermanoever-auf-raketentests-a-472d3088-b6b3-4970-aece-76b29226565b#ref=rss)
-### christian
+* [https://www.spiegel.de/kultur/elke-heidenreich-buch-empfehlungen-horrormaessiges-familiendrama-und-kraftvolle-erzaehlung](https://www.spiegel.de/kultur/elke-heidenreich-buch-empfehlungen-horrormaessiges-familiendrama-und-kraftvolle-erzaehlung-a-602f4d68-8af5-48db-bb7e-b04d8b78c80d#ref=rss)
+* [https://www.spiegel.de/ausland/jamshid-sharmahd-tochter-gazelle-sharmahd-erhebt-vorwuerfe](https://www.spiegel.de/ausland/jamshid-sharmahd-tochter-gazelle-sharmahd-erhebt-vorwuerfe-a-423fc448-99a6-45cd-8f08-ace85353f0db#ref=rss)
+### tatort
 
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-friedrich-merz-betont-gemeinsamkeiten-mit-grundsatzpapier](https://www.spiegel.de/politik/deutschland/christian-lindner-friedrich-merz-betont-gemeinsamkeiten-mit-grundsatzpapier-a-65c06921-8c5e-4558-92bc-29631b811ed5#ref=rss)
-### merz
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-dresden-unter-feuer-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-dresden-unter-feuer-im-schnellcheck-a-f09c81db-c293-4fce-a50b-cd7dc426f4cf#ref=rss)
+### feuer
 
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-friedrich-merz-betont-gemeinsamkeiten-mit-grundsatzpapier](https://www.spiegel.de/politik/deutschland/christian-lindner-friedrich-merz-betont-gemeinsamkeiten-mit-grundsatzpapier-a-65c06921-8c5e-4558-92bc-29631b811ed5#ref=rss)
-### grundsatzpapier
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-dresden-unter-feuer-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-dresden-unter-feuer-im-schnellcheck-a-f09c81db-c293-4fce-a50b-cd7dc426f4cf#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/rostock-verdacht-auf-brandanschlag-auf-queer-bar](https://www.spiegel.de/panorama/justiz/rostock-verdacht-auf-brandanschlag-auf-queer-bar-a-f808b847-5073-495b-89c6-2859fcc3b23e#ref=rss)
+### jamshid
 
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-friedrich-merz-betont-gemeinsamkeiten-mit-grundsatzpapier](https://www.spiegel.de/politik/deutschland/christian-lindner-friedrich-merz-betont-gemeinsamkeiten-mit-grundsatzpapier-a-65c06921-8c5e-4558-92bc-29631b811ed5#ref=rss)
-### sportwelt
+* [https://www.spiegel.de/ausland/jamshid-sharmahd-tochter-gazelle-sharmahd-erhebt-vorwuerfe](https://www.spiegel.de/ausland/jamshid-sharmahd-tochter-gazelle-sharmahd-erhebt-vorwuerfe-a-423fc448-99a6-45cd-8f08-ace85353f0db#ref=rss)
+### tochter
 
-* [https://www.spiegel.de/sport/us-wahl-wie-donald-trump-und-kamala-harris-die-sportwelt-fuer-ihre-interessen-nutzen](https://www.spiegel.de/sport/us-wahl-wie-donald-trump-und-kamala-harris-die-sportwelt-fuer-ihre-interessen-nutzen-a-f1c2b5e3-ec39-4ff6-bf82-7c388f17528b#ref=rss)
-### interessen
+* [https://www.spiegel.de/ausland/jamshid-sharmahd-tochter-gazelle-sharmahd-erhebt-vorwuerfe](https://www.spiegel.de/ausland/jamshid-sharmahd-tochter-gazelle-sharmahd-erhebt-vorwuerfe-a-423fc448-99a6-45cd-8f08-ace85353f0db#ref=rss)
+### gazelle
 
-* [https://www.spiegel.de/sport/us-wahl-wie-donald-trump-und-kamala-harris-die-sportwelt-fuer-ihre-interessen-nutzen](https://www.spiegel.de/sport/us-wahl-wie-donald-trump-und-kamala-harris-die-sportwelt-fuer-ihre-interessen-nutzen-a-f1c2b5e3-ec39-4ff6-bf82-7c388f17528b#ref=rss)
-### zug
+* [https://www.spiegel.de/ausland/jamshid-sharmahd-tochter-gazelle-sharmahd-erhebt-vorwuerfe](https://www.spiegel.de/ausland/jamshid-sharmahd-tochter-gazelle-sharmahd-erhebt-vorwuerfe-a-423fc448-99a6-45cd-8f08-ace85353f0db#ref=rss)
+### iran
 
-* [https://www.spiegel.de/panorama/berlin-zug-in-bahnhof-ahrensfelde-geht-komplett-in-flammen-auf](https://www.spiegel.de/panorama/berlin-zug-in-bahnhof-ahrensfelde-geht-komplett-in-flammen-auf-a-ca735cd0-e9f3-4570-b9a3-dc153dec82ed#ref=rss)
-### ahrensfelde
+* [https://www.spiegel.de/ausland/jamshid-sharmahd-tochter-gazelle-sharmahd-erhebt-vorwuerfe](https://www.spiegel.de/ausland/jamshid-sharmahd-tochter-gazelle-sharmahd-erhebt-vorwuerfe-a-423fc448-99a6-45cd-8f08-ace85353f0db#ref=rss)
+### jens
 
-* [https://www.spiegel.de/panorama/berlin-zug-in-bahnhof-ahrensfelde-geht-komplett-in-flammen-auf](https://www.spiegel.de/panorama/berlin-zug-in-bahnhof-ahrensfelde-geht-komplett-in-flammen-auf-a-ca735cd0-e9f3-4570-b9a3-dc153dec82ed#ref=rss)
-### komplett
+* [https://www.spiegel.de/panorama/leute/jens-lehmann-findet-alkoholfahrt-keine-gute-sache-von-mir](https://www.spiegel.de/panorama/leute/jens-lehmann-findet-alkoholfahrt-keine-gute-sache-von-mir-a-decae0f5-4e45-40e3-95ba-badd4419bb43#ref=rss)
+### lehmann
 
-* [https://www.spiegel.de/panorama/berlin-zug-in-bahnhof-ahrensfelde-geht-komplett-in-flammen-auf](https://www.spiegel.de/panorama/berlin-zug-in-bahnhof-ahrensfelde-geht-komplett-in-flammen-auf-a-ca735cd0-e9f3-4570-b9a3-dc153dec82ed#ref=rss)
-### flammen
+* [https://www.spiegel.de/panorama/leute/jens-lehmann-findet-alkoholfahrt-keine-gute-sache-von-mir](https://www.spiegel.de/panorama/leute/jens-lehmann-findet-alkoholfahrt-keine-gute-sache-von-mir-a-decae0f5-4e45-40e3-95ba-badd4419bb43#ref=rss)
+### steve
 
-* [https://www.spiegel.de/panorama/berlin-zug-in-bahnhof-ahrensfelde-geht-komplett-in-flammen-auf](https://www.spiegel.de/panorama/berlin-zug-in-bahnhof-ahrensfelde-geht-komplett-in-flammen-auf-a-ca735cd0-e9f3-4570-b9a3-dc153dec82ed#ref=rss)
-### kemi
+* [https://www.spiegel.de/kultur/kino/steve-mcqueen-zu-seinem-film-blitz-der-stolzeste-tag-meines-lebens-war-mit-450-frauen-am-set](https://www.spiegel.de/kultur/kino/steve-mcqueen-zu-seinem-film-blitz-der-stolzeste-tag-meines-lebens-war-mit-450-frauen-am-set-a-4658ae68-24f5-45f0-b60c-30f2d4a0cef1#ref=rss)
+### mcqueen
 
-* [https://www.spiegel.de/ausland/kemi-badenoch-ist-neue-tory-chefin-laut-rechts-angriffslustig](https://www.spiegel.de/ausland/kemi-badenoch-ist-neue-tory-chefin-laut-rechts-angriffslustig-a-9ed57c56-6ad7-4dbb-84d5-83e899aea0f7#ref=rss)
-### badenoch
+* [https://www.spiegel.de/kultur/kino/steve-mcqueen-zu-seinem-film-blitz-der-stolzeste-tag-meines-lebens-war-mit-450-frauen-am-set](https://www.spiegel.de/kultur/kino/steve-mcqueen-zu-seinem-film-blitz-der-stolzeste-tag-meines-lebens-war-mit-450-frauen-am-set-a-4658ae68-24f5-45f0-b60c-30f2d4a0cef1#ref=rss)
+### film
 
-* [https://www.spiegel.de/ausland/kemi-badenoch-ist-neue-tory-chefin-laut-rechts-angriffslustig](https://www.spiegel.de/ausland/kemi-badenoch-ist-neue-tory-chefin-laut-rechts-angriffslustig-a-9ed57c56-6ad7-4dbb-84d5-83e899aea0f7#ref=rss)
-### cornelia
+* [https://www.spiegel.de/kultur/kino/steve-mcqueen-zu-seinem-film-blitz-der-stolzeste-tag-meines-lebens-war-mit-450-frauen-am-set](https://www.spiegel.de/kultur/kino/steve-mcqueen-zu-seinem-film-blitz-der-stolzeste-tag-meines-lebens-war-mit-450-frauen-am-set-a-4658ae68-24f5-45f0-b60c-30f2d4a0cef1#ref=rss)
+### tag
 
-* [https://www.spiegel.de/panorama/bildung/cornelia-funke-kritisiert-schulen-deutsches-bildungssystem-sei-raub-der-kindheit](https://www.spiegel.de/panorama/bildung/cornelia-funke-kritisiert-schulen-deutsches-bildungssystem-sei-raub-der-kindheit-a-2a4b8e01-a5ef-4803-97ef-1e182e5cc566#ref=rss)
-### funke
+* [https://www.spiegel.de/kultur/kino/steve-mcqueen-zu-seinem-film-blitz-der-stolzeste-tag-meines-lebens-war-mit-450-frauen-am-set](https://www.spiegel.de/kultur/kino/steve-mcqueen-zu-seinem-film-blitz-der-stolzeste-tag-meines-lebens-war-mit-450-frauen-am-set-a-4658ae68-24f5-45f0-b60c-30f2d4a0cef1#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/volkswagen-in-der-krise-die-ampel-vor-dem-aus-das-sind-die-cartoons-der-woche](https://www.spiegel.de/kultur/literatur/volkswagen-in-der-krise-die-ampel-vor-dem-aus-das-sind-die-cartoons-der-woche-a-07b1bb95-5fc4-4f1e-b60b-d616a31fd29f#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/panorama/bildung/cornelia-funke-kritisiert-schulen-deutsches-bildungssystem-sei-raub-der-kindheit](https://www.spiegel.de/panorama/bildung/cornelia-funke-kritisiert-schulen-deutsches-bildungssystem-sei-raub-der-kindheit-a-2a4b8e01-a5ef-4803-97ef-1e182e5cc566#ref=rss)
-### kindheit
+* [https://www.spiegel.de/kultur/kino/steve-mcqueen-zu-seinem-film-blitz-der-stolzeste-tag-meines-lebens-war-mit-450-frauen-am-set](https://www.spiegel.de/kultur/kino/steve-mcqueen-zu-seinem-film-blitz-der-stolzeste-tag-meines-lebens-war-mit-450-frauen-am-set-a-4658ae68-24f5-45f0-b60c-30f2d4a0cef1#ref=rss)
+* [https://www.spiegel.de/ausland/womens-march-in-den-usa-was-frauen-donald-trump-schon-immer-mal-sagen-wollten](https://www.spiegel.de/ausland/womens-march-in-den-usa-was-frauen-donald-trump-schon-immer-mal-sagen-wollten-a-e9de08f1-b7cb-4b29-9b4c-22d83c0a9766#ref=rss)
+### mexiko
 
-* [https://www.spiegel.de/panorama/bildung/cornelia-funke-kritisiert-schulen-deutsches-bildungssystem-sei-raub-der-kindheit](https://www.spiegel.de/panorama/bildung/cornelia-funke-kritisiert-schulen-deutsches-bildungssystem-sei-raub-der-kindheit-a-2a4b8e01-a5ef-4803-97ef-1e182e5cc566#ref=rss)
-### ampelkoalition
+* [https://www.spiegel.de/ausland/grenze-zwischen-den-usa-und-mexiko-warum-ein-indigenen-chef-donald-trumps-mauer-hasst](https://www.spiegel.de/ausland/grenze-zwischen-den-usa-und-mexiko-warum-ein-indigenen-chef-donald-trumps-mauer-hasst-a-2aed6af6-0a0e-458e-9308-1ca31c35f61e#ref=rss)
+### mauer
 
-* [https://www.spiegel.de/politik/deutschland/ampel-koalition-es-brennt-gerade-die-huette-spd-chefin-saskia-esken-besorgt](https://www.spiegel.de/politik/deutschland/ampel-koalition-es-brennt-gerade-die-huette-spd-chefin-saskia-esken-besorgt-a-b02c7138-faca-4cb8-8990-9fb8b346bafd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ampel-koalition-in-der-krise-gruenen-fraktionschefin-droege-kritisiert-mangelnden-teamgeist](https://www.spiegel.de/politik/deutschland/ampel-koalition-in-der-krise-gruenen-fraktionschefin-droege-kritisiert-mangelnden-teamgeist-a-f8fbf4b0-2948-49c2-8ff1-21eacee6c19f#ref=rss)
-### esken
+* [https://www.spiegel.de/ausland/grenze-zwischen-den-usa-und-mexiko-warum-ein-indigenen-chef-donald-trumps-mauer-hasst](https://www.spiegel.de/ausland/grenze-zwischen-den-usa-und-mexiko-warum-ein-indigenen-chef-donald-trumps-mauer-hasst-a-2aed6af6-0a0e-458e-9308-1ca31c35f61e#ref=rss)
+### alexander
 
-* [https://www.spiegel.de/politik/deutschland/ampel-koalition-es-brennt-gerade-die-huette-spd-chefin-saskia-esken-besorgt](https://www.spiegel.de/politik/deutschland/ampel-koalition-es-brennt-gerade-die-huette-spd-chefin-saskia-esken-besorgt-a-b02c7138-faca-4cb8-8990-9fb8b346bafd#ref=rss)
-### finanzminister
+* [https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-versoehnt-sich-mit-paris](https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-versoehnt-sich-mit-paris-a-a8355a26-32e5-4079-b334-38df23807944#ref=rss)
+### zverev
 
-* [https://www.spiegel.de/politik/deutschland/ampel-koalition-es-brennt-gerade-die-huette-spd-chefin-saskia-esken-besorgt](https://www.spiegel.de/politik/deutschland/ampel-koalition-es-brennt-gerade-die-huette-spd-chefin-saskia-esken-besorgt-a-b02c7138-faca-4cb8-8990-9fb8b346bafd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ampel-koalition-in-der-krise-gruenen-fraktionschefin-droege-kritisiert-mangelnden-teamgeist](https://www.spiegel.de/politik/deutschland/ampel-koalition-in-der-krise-gruenen-fraktionschefin-droege-kritisiert-mangelnden-teamgeist-a-f8fbf4b0-2948-49c2-8ff1-21eacee6c19f#ref=rss)
-### usregierung
+* [https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-versoehnt-sich-mit-paris](https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-versoehnt-sich-mit-paris-a-a8355a26-32e5-4079-b334-38df23807944#ref=rss)
+### paris
 
-* [https://www.spiegel.de/ausland/nahost-konflikt-us-regierung-warnt-iran-vor-angriffen-auf-israel](https://www.spiegel.de/ausland/nahost-konflikt-us-regierung-warnt-iran-vor-angriffen-auf-israel-a-9acf3c86-cc33-46eb-bb53-a5f569742052#ref=rss)
-### bürgermeister
+* [https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-versoehnt-sich-mit-paris](https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-versoehnt-sich-mit-paris-a-a8355a26-32e5-4079-b334-38df23807944#ref=rss)
+### statt
 
-* [https://www.spiegel.de/ausland/new-york-trockenster-oktober-buergermeister-ruft-wegen-duerre-zum-wassersparen-auf](https://www.spiegel.de/ausland/new-york-trockenster-oktober-buergermeister-ruft-wegen-duerre-zum-wassersparen-auf-a-d9fb53d6-0890-4e52-b3bd-0a747d59029d#ref=rss)
-### ruft
+* [https://www.spiegel.de/sport/fussball/champions-league-fans-des-fc-bayern-muenchen-rufen-wegen-hoher-ticketpreise-zum-boykott-auf](https://www.spiegel.de/sport/fussball/champions-league-fans-des-fc-bayern-muenchen-rufen-wegen-hoher-ticketpreise-zum-boykott-auf-a-61330587-c871-4eeb-b0b2-3afd9c2e2624#ref=rss)
+* [https://www.spiegel.de/ausland/manchester-buesten-von-israels-erstem-praesidenten-aus-universitaet-gestohlen](https://www.spiegel.de/ausland/manchester-buesten-von-israels-erstem-praesidenten-aus-universitaet-gestohlen-a-2d8b7786-fa5d-439e-bbc3-784d6f786277#ref=rss)
+### euro
 
-* [https://www.spiegel.de/ausland/new-york-trockenster-oktober-buergermeister-ruft-wegen-duerre-zum-wassersparen-auf](https://www.spiegel.de/ausland/new-york-trockenster-oktober-buergermeister-ruft-wegen-duerre-zum-wassersparen-auf-a-d9fb53d6-0890-4e52-b3bd-0a747d59029d#ref=rss)
-### wassersparen
+* [https://www.spiegel.de/sport/fussball/champions-league-fans-des-fc-bayern-muenchen-rufen-wegen-hoher-ticketpreise-zum-boykott-auf](https://www.spiegel.de/sport/fussball/champions-league-fans-des-fc-bayern-muenchen-rufen-wegen-hoher-ticketpreise-zum-boykott-auf-a-61330587-c871-4eeb-b0b2-3afd9c2e2624#ref=rss)
+### zahlen
 
-* [https://www.spiegel.de/ausland/new-york-trockenster-oktober-buergermeister-ruft-wegen-duerre-zum-wassersparen-auf](https://www.spiegel.de/ausland/new-york-trockenster-oktober-buergermeister-ruft-wegen-duerre-zum-wassersparen-auf-a-d9fb53d6-0890-4e52-b3bd-0a747d59029d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-fans-des-fc-bayern-muenchen-rufen-wegen-hoher-ticketpreise-zum-boykott-auf](https://www.spiegel.de/sport/fussball/champions-league-fans-des-fc-bayern-muenchen-rufen-wegen-hoher-ticketpreise-zum-boykott-auf-a-61330587-c871-4eeb-b0b2-3afd9c2e2624#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-sondervermoegen-union-wirft-boris-pistorius-trickserei-vor](https://www.spiegel.de/politik/deutschland/bundeswehr-sondervermoegen-union-wirft-boris-pistorius-trickserei-vor-a-74d0b1a0-bb12-4053-938a-2bda4db7e66f#ref=rss)
+### manchester
+
+* [https://www.spiegel.de/ausland/manchester-buesten-von-israels-erstem-praesidenten-aus-universitaet-gestohlen](https://www.spiegel.de/ausland/manchester-buesten-von-israels-erstem-praesidenten-aus-universitaet-gestohlen-a-2d8b7786-fa5d-439e-bbc3-784d6f786277#ref=rss)
+### büsten
+
+* [https://www.spiegel.de/ausland/manchester-buesten-von-israels-erstem-praesidenten-aus-universitaet-gestohlen](https://www.spiegel.de/ausland/manchester-buesten-von-israels-erstem-praesidenten-aus-universitaet-gestohlen-a-2d8b7786-fa5d-439e-bbc3-784d6f786277#ref=rss)
+### universität
+
+* [https://www.spiegel.de/ausland/manchester-buesten-von-israels-erstem-praesidenten-aus-universitaet-gestohlen](https://www.spiegel.de/ausland/manchester-buesten-von-israels-erstem-praesidenten-aus-universitaet-gestohlen-a-2d8b7786-fa5d-439e-bbc3-784d6f786277#ref=rss)
+### gestohlen
+
+* [https://www.spiegel.de/ausland/manchester-buesten-von-israels-erstem-praesidenten-aus-universitaet-gestohlen](https://www.spiegel.de/ausland/manchester-buesten-von-israels-erstem-praesidenten-aus-universitaet-gestohlen-a-2d8b7786-fa5d-439e-bbc3-784d6f786277#ref=rss)
+### propalästinensische
+
+* [https://www.spiegel.de/ausland/manchester-buesten-von-israels-erstem-praesidenten-aus-universitaet-gestohlen](https://www.spiegel.de/ausland/manchester-buesten-von-israels-erstem-praesidenten-aus-universitaet-gestohlen-a-2d8b7786-fa5d-439e-bbc3-784d6f786277#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/pro-palaestina-demo-in-berlin-demonstrant-versucht-an-dienstwaffe-von-polizisten-zu-kommen](https://www.spiegel.de/panorama/gesellschaft/pro-palaestina-demo-in-berlin-demonstrant-versucht-an-dienstwaffe-von-polizisten-zu-kommen-a-c72342dd-4c5d-480c-9bc1-1affcd1cd654#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/panorama/gesellschaft/pro-palaestina-demo-in-berlin-demonstrant-versucht-an-dienstwaffe-von-polizisten-zu-kommen](https://www.spiegel.de/panorama/gesellschaft/pro-palaestina-demo-in-berlin-demonstrant-versucht-an-dienstwaffe-von-polizisten-zu-kommen-a-c72342dd-4c5d-480c-9bc1-1affcd1cd654#ref=rss)
+### rostock
+
+* [https://www.spiegel.de/panorama/justiz/rostock-verdacht-auf-brandanschlag-auf-queer-bar](https://www.spiegel.de/panorama/justiz/rostock-verdacht-auf-brandanschlag-auf-queer-bar-a-f808b847-5073-495b-89c6-2859fcc3b23e#ref=rss)
+### brandanschlag
+
+* [https://www.spiegel.de/panorama/justiz/rostock-verdacht-auf-brandanschlag-auf-queer-bar](https://www.spiegel.de/panorama/justiz/rostock-verdacht-auf-brandanschlag-auf-queer-bar-a-f808b847-5073-495b-89c6-2859fcc3b23e#ref=rss)
+### bar
+
+* [https://www.spiegel.de/panorama/justiz/rostock-verdacht-auf-brandanschlag-auf-queer-bar](https://www.spiegel.de/panorama/justiz/rostock-verdacht-auf-brandanschlag-auf-queer-bar-a-f808b847-5073-495b-89c6-2859fcc3b23e#ref=rss)
+### bremen
+
+* [https://www.spiegel.de/panorama/justiz/bremen-jugendliche-bedrohen-kiosk-mitarbeiter-mit-messer-der-wehrt-sich](https://www.spiegel.de/panorama/justiz/bremen-jugendliche-bedrohen-kiosk-mitarbeiter-mit-messer-der-wehrt-sich-a-e1d424ae-9a92-4a47-b1d0-052298e7b9a2#ref=rss)
+### kioskmitarbeiter
+
+* [https://www.spiegel.de/panorama/justiz/bremen-jugendliche-bedrohen-kiosk-mitarbeiter-mit-messer-der-wehrt-sich](https://www.spiegel.de/panorama/justiz/bremen-jugendliche-bedrohen-kiosk-mitarbeiter-mit-messer-der-wehrt-sich-a-e1d424ae-9a92-4a47-b1d0-052298e7b9a2#ref=rss)
+### monteiro
+
+* [https://www.spiegel.de/sport/fussball/joel-monteiro-schweizer-nationalstuermer-sieht-rote-karte-fuer-schuhwurf](https://www.spiegel.de/sport/fussball/joel-monteiro-schweizer-nationalstuermer-sieht-rote-karte-fuer-schuhwurf-a-4fc5f06d-6fb2-48a6-bca2-b715a072f886#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/sport/fussball/joel-monteiro-schweizer-nationalstuermer-sieht-rote-karte-fuer-schuhwurf](https://www.spiegel.de/sport/fussball/joel-monteiro-schweizer-nationalstuermer-sieht-rote-karte-fuer-schuhwurf-a-4fc5f06d-6fb2-48a6-bca2-b715a072f886#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-sondervermoegen-union-wirft-boris-pistorius-trickserei-vor](https://www.spiegel.de/politik/deutschland/bundeswehr-sondervermoegen-union-wirft-boris-pistorius-trickserei-vor-a-74d0b1a0-bb12-4053-938a-2bda4db7e66f#ref=rss)
+### ondrej
+
+* [https://www.spiegel.de/sport/wintersport/nepal-bergsteiger-ondrej-huserka-nach-historischem-aufstieg-toedlich-verunglueckt](https://www.spiegel.de/sport/wintersport/nepal-bergsteiger-ondrej-huserka-nach-historischem-aufstieg-toedlich-verunglueckt-a-44984c76-4d8c-4c02-ad32-d6e9746867ea#ref=rss)
+### huserka
+
+* [https://www.spiegel.de/sport/wintersport/nepal-bergsteiger-ondrej-huserka-nach-historischem-aufstieg-toedlich-verunglueckt](https://www.spiegel.de/sport/wintersport/nepal-bergsteiger-ondrej-huserka-nach-historischem-aufstieg-toedlich-verunglueckt-a-44984c76-4d8c-4c02-ad32-d6e9746867ea#ref=rss)
+### wenige
+
+* [https://www.spiegel.de/sport/wintersport/nepal-bergsteiger-ondrej-huserka-nach-historischem-aufstieg-toedlich-verunglueckt](https://www.spiegel.de/sport/wintersport/nepal-bergsteiger-ondrej-huserka-nach-historischem-aufstieg-toedlich-verunglueckt-a-44984c76-4d8c-4c02-ad32-d6e9746867ea#ref=rss)
+* [https://www.spiegel.de/ausland/womens-march-in-den-usa-was-frauen-donald-trump-schon-immer-mal-sagen-wollten](https://www.spiegel.de/ausland/womens-march-in-den-usa-was-frauen-donald-trump-schon-immer-mal-sagen-wollten-a-e9de08f1-b7cb-4b29-9b4c-22d83c0a9766#ref=rss)
 ### krise
 
-* [https://www.spiegel.de/politik/deutschland/ampel-koalition-in-der-krise-gruenen-fraktionschefin-droege-kritisiert-mangelnden-teamgeist](https://www.spiegel.de/politik/deutschland/ampel-koalition-in-der-krise-gruenen-fraktionschefin-droege-kritisiert-mangelnden-teamgeist-a-f8fbf4b0-2948-49c2-8ff1-21eacee6c19f#ref=rss)
-### grünenfraktionschefin
+* [https://www.spiegel.de/kultur/literatur/volkswagen-in-der-krise-die-ampel-vor-dem-aus-das-sind-die-cartoons-der-woche](https://www.spiegel.de/kultur/literatur/volkswagen-in-der-krise-die-ampel-vor-dem-aus-das-sind-die-cartoons-der-woche-a-07b1bb95-5fc4-4f1e-b60b-d616a31fd29f#ref=rss)
+### ampel
 
-* [https://www.spiegel.de/politik/deutschland/ampel-koalition-in-der-krise-gruenen-fraktionschefin-droege-kritisiert-mangelnden-teamgeist](https://www.spiegel.de/politik/deutschland/ampel-koalition-in-der-krise-gruenen-fraktionschefin-droege-kritisiert-mangelnden-teamgeist-a-f8fbf4b0-2948-49c2-8ff1-21eacee6c19f#ref=rss)
-### dröge
+* [https://www.spiegel.de/kultur/literatur/volkswagen-in-der-krise-die-ampel-vor-dem-aus-das-sind-die-cartoons-der-woche](https://www.spiegel.de/kultur/literatur/volkswagen-in-der-krise-die-ampel-vor-dem-aus-das-sind-die-cartoons-der-woche-a-07b1bb95-5fc4-4f1e-b60b-d616a31fd29f#ref=rss)
+### woche
 
-* [https://www.spiegel.de/politik/deutschland/ampel-koalition-in-der-krise-gruenen-fraktionschefin-droege-kritisiert-mangelnden-teamgeist](https://www.spiegel.de/politik/deutschland/ampel-koalition-in-der-krise-gruenen-fraktionschefin-droege-kritisiert-mangelnden-teamgeist-a-f8fbf4b0-2948-49c2-8ff1-21eacee6c19f#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/volkswagen-in-der-krise-die-ampel-vor-dem-aus-das-sind-die-cartoons-der-woche](https://www.spiegel.de/kultur/literatur/volkswagen-in-der-krise-die-ampel-vor-dem-aus-das-sind-die-cartoons-der-woche-a-07b1bb95-5fc4-4f1e-b60b-d616a31fd29f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/pakistan-luftverschmutzung-erreicht-rekordwert](https://www.spiegel.de/wissenschaft/pakistan-luftverschmutzung-erreicht-rekordwert-a-3cfefc1c-2430-41f8-8afc-9f5d86bdf758#ref=rss)
+### spanien
+
+* [https://www.spiegel.de/panorama/gesellschaft/spanien-flut-opfer-bewerfen-koenig-felipe-und-pedro-sanchez-mit-schlamm](https://www.spiegel.de/panorama/gesellschaft/spanien-flut-opfer-bewerfen-koenig-felipe-und-pedro-sanchez-mit-schlamm-a-77b19488-e646-4ad9-9137-f183b7abd43b#ref=rss)
+### felipe
+
+* [https://www.spiegel.de/panorama/gesellschaft/spanien-flut-opfer-bewerfen-koenig-felipe-und-pedro-sanchez-mit-schlamm](https://www.spiegel.de/panorama/gesellschaft/spanien-flut-opfer-bewerfen-koenig-felipe-und-pedro-sanchez-mit-schlamm-a-77b19488-e646-4ad9-9137-f183b7abd43b#ref=rss)
+### pedro
+
+* [https://www.spiegel.de/panorama/gesellschaft/spanien-flut-opfer-bewerfen-koenig-felipe-und-pedro-sanchez-mit-schlamm](https://www.spiegel.de/panorama/gesellschaft/spanien-flut-opfer-bewerfen-koenig-felipe-und-pedro-sanchez-mit-schlamm-a-77b19488-e646-4ad9-9137-f183b7abd43b#ref=rss)
+### sánchez
+
+* [https://www.spiegel.de/panorama/gesellschaft/spanien-flut-opfer-bewerfen-koenig-felipe-und-pedro-sanchez-mit-schlamm](https://www.spiegel.de/panorama/gesellschaft/spanien-flut-opfer-bewerfen-koenig-felipe-und-pedro-sanchez-mit-schlamm-a-77b19488-e646-4ad9-9137-f183b7abd43b#ref=rss)
 
