@@ -4,407 +4,347 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### donald
-
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-a-51dfa639-8c93-4b3a-9e09-eb007f6a612e#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast-a-f32be486-fb7c-4f23-af9f-377548635ee8#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-warum-evangelikale-in-uganda-fuer-donald-trump-beten](https://www.spiegel.de/ausland/us-wahl-2024-warum-evangelikale-in-uganda-fuer-donald-trump-beten-a-bfc6c367-04f9-4062-8d13-376b701b3433#ref=rss)
-* [https://www.spiegel.de/kultur/musik/herbert-groenemeyer-verbietet-cdu-zeit-dass-sich-was-dreht-zu-nutzen](https://www.spiegel.de/kultur/musik/herbert-groenemeyer-verbietet-cdu-zeit-dass-sich-was-dreht-zu-nutzen-a-c5c54434-fd55-407a-bf42-432caa89eddb#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-a-51dfa639-8c93-4b3a-9e09-eb007f6a612e#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast-a-f32be486-fb7c-4f23-af9f-377548635ee8#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-news-heute-donald-trump-und-kamala-harris-kaempfen-in-den-swing-states-um-die-letzten-stimmen](https://www.spiegel.de/ausland/us-wahl-2024-news-heute-donald-trump-und-kamala-harris-kaempfen-in-den-swing-states-um-die-letzten-stimmen-a-8928a748-668c-4909-9ae1-88a76c032f02#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-warum-evangelikale-in-uganda-fuer-donald-trump-beten](https://www.spiegel.de/ausland/us-wahl-2024-warum-evangelikale-in-uganda-fuer-donald-trump-beten-a-bfc6c367-04f9-4062-8d13-376b701b3433#ref=rss)
-* [https://www.spiegel.de/kultur/musik/herbert-groenemeyer-verbietet-cdu-zeit-dass-sich-was-dreht-zu-nutzen](https://www.spiegel.de/kultur/musik/herbert-groenemeyer-verbietet-cdu-zeit-dass-sich-was-dreht-zu-nutzen-a-c5c54434-fd55-407a-bf42-432caa89eddb#ref=rss)
-### uswahl
-
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-a-51dfa639-8c93-4b3a-9e09-eb007f6a612e#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast-a-f32be486-fb7c-4f23-af9f-377548635ee8#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-news-heute-donald-trump-und-kamala-harris-kaempfen-in-den-swing-states-um-die-letzten-stimmen](https://www.spiegel.de/ausland/us-wahl-2024-news-heute-donald-trump-und-kamala-harris-kaempfen-in-den-swing-states-um-die-letzten-stimmen-a-8928a748-668c-4909-9ae1-88a76c032f02#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-warum-evangelikale-in-uganda-fuer-donald-trump-beten](https://www.spiegel.de/ausland/us-wahl-2024-warum-evangelikale-in-uganda-fuer-donald-trump-beten-a-bfc6c367-04f9-4062-8d13-376b701b3433#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/kultur/gehaltsverhandlung-warum-gelernte-hoeflichkeit-frauen-finanziell-benachteiligt](https://www.spiegel.de/kultur/gehaltsverhandlung-warum-gelernte-hoeflichkeit-frauen-finanziell-benachteiligt-a-6dfbbd90-8a29-4e3d-b95a-bc40d92b0451#ref=rss)
-* [https://www.spiegel.de/panorama/alleinstehende-frauen-mehr-rechte-fuer-solo-muetter](https://www.spiegel.de/panorama/alleinstehende-frauen-mehr-rechte-fuer-solo-muetter-a-0d54618f-b1fd-481e-8470-45fe0b965546#ref=rss)
-### stellt
-
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-stellt-erhoehte-waffenlieferungen-aus-dem-westen-fest](https://www.spiegel.de/ausland/wolodymyr-selenskyj-stellt-erhoehte-waffenlieferungen-aus-dem-westen-fest-a-55060060-363f-490a-97fa-3b43805116ba#ref=rss)
-* [https://www.spiegel.de/wissenschaft/nordsee-weniger-seehunde-im-wattenmeer](https://www.spiegel.de/wissenschaft/nordsee-weniger-seehunde-im-wattenmeer-a-80dfe31c-1c03-4847-82ea-a5b6dd62946c#ref=rss)
-### gewinnt
-
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-a-51dfa639-8c93-4b3a-9e09-eb007f6a612e#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast-a-f32be486-fb7c-4f23-af9f-377548635ee8#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/kamel-daoud-gewinnt-mit-houris-den-prix-goncourt-gael-faye-den-renaudot](https://www.spiegel.de/kultur/literatur/kamel-daoud-gewinnt-mit-houris-den-prix-goncourt-gael-faye-den-renaudot-a-29e0be27-34ae-4550-9b69-ba7f85038296#ref=rss)
-### jva
-
-* [https://www.spiegel.de/panorama/justiz/jva-augsburg-gablingen-strafverteidiger-fordern-besseren-schutz-von-haeftlingen](https://www.spiegel.de/panorama/justiz/jva-augsburg-gablingen-strafverteidiger-fordern-besseren-schutz-von-haeftlingen-a-7cd26270-5096-4bc5-a105-d31559f74e5e#ref=rss)
-### musiker
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-nachruf-auf-quincy-jones-bundeslaender-pruefen-reduzierung-des-oepnv-angebots-rauschtrinken-nimmt-zu](https://www.spiegel.de/politik/deutschland/news-des-tages-nachruf-auf-quincy-jones-bundeslaender-pruefen-reduzierung-des-oepnv-angebots-rauschtrinken-nimmt-zu-a-8ce6e467-a5c2-4f3d-81a0-121756ceaf52#ref=rss)
-* [https://www.spiegel.de/panorama/bob-dylan-musiker-postet-auf-x-jetzt-offenbar-selbst](https://www.spiegel.de/panorama/bob-dylan-musiker-postet-auf-x-jetzt-offenbar-selbst-a-0b38624b-f761-4788-aa9a-a4efcd6b1785#ref=rss)
-* [https://www.spiegel.de/kultur/musik/herbert-groenemeyer-verbietet-cdu-zeit-dass-sich-was-dreht-zu-nutzen](https://www.spiegel.de/kultur/musik/herbert-groenemeyer-verbietet-cdu-zeit-dass-sich-was-dreht-zu-nutzen-a-c5c54434-fd55-407a-bf42-432caa89eddb#ref=rss)
-### weniger
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-nachruf-auf-quincy-jones-bundeslaender-pruefen-reduzierung-des-oepnv-angebots-rauschtrinken-nimmt-zu](https://www.spiegel.de/politik/deutschland/news-des-tages-nachruf-auf-quincy-jones-bundeslaender-pruefen-reduzierung-des-oepnv-angebots-rauschtrinken-nimmt-zu-a-8ce6e467-a5c2-4f3d-81a0-121756ceaf52#ref=rss)
-* [https://www.spiegel.de/wissenschaft/nordsee-weniger-seehunde-im-wattenmeer](https://www.spiegel.de/wissenschaft/nordsee-weniger-seehunde-im-wattenmeer-a-80dfe31c-1c03-4847-82ea-a5b6dd62946c#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/kultur/kino/quentin-tarantino-mag-keine-remakes-und-hat-deshalb-auch-dune-nicht-gesehen](https://www.spiegel.de/kultur/kino/quentin-tarantino-mag-keine-remakes-und-hat-deshalb-auch-dune-nicht-gesehen-a-faa2981c-d2d7-4f07-a7af-c15554eb820d#ref=rss)
-* [https://www.spiegel.de/ausland/iran-kritik-an-umstrittenem-mordurteil-gegen-juedischen-iraner-hinrichtung-vollzogen](https://www.spiegel.de/ausland/iran-kritik-an-umstrittenem-mordurteil-gegen-juedischen-iraner-hinrichtung-vollzogen-a-bad93082-5183-4897-b662-3efbcca9b54a#ref=rss)
-* [https://www.spiegel.de/panorama/selbstbestimmungsgesetz-oeffentlicher-termin-in-berlin-wird-zur-feierlichen-veranstaltung-fuer-queere-menschen](https://www.spiegel.de/panorama/selbstbestimmungsgesetz-oeffentlicher-termin-in-berlin-wird-zur-feierlichen-veranstaltung-fuer-queere-menschen-a-deea62bc-7043-4f1c-9fa9-67e70e3c171e#ref=rss)
-### spanien
-
-* [https://www.spiegel.de/ausland/spanien-haben-rechtsradikale-felipe-und-letizia-mit-schlamm-beworfen](https://www.spiegel.de/ausland/spanien-haben-rechtsradikale-felipe-und-letizia-mit-schlamm-beworfen-a-18c01db6-7cb1-43b2-847d-e4d0953c756c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-trotz-flutkatastrophe-in-spanien-carlo-ancelotti-und-hansi-flick-aeussern-unverstaendnis](https://www.spiegel.de/sport/fussball/fussball-trotz-flutkatastrophe-in-spanien-carlo-ancelotti-und-hansi-flick-aeussern-unverstaendnis-a-3096dfee-82ac-4152-9999-29ccfbfa1bd8#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/politik/deutschland/nato-mark-rutte-lobt-scholz-fuer-dessen-fuehrungsrolle](https://www.spiegel.de/politik/deutschland/nato-mark-rutte-lobt-scholz-fuer-dessen-fuehrungsrolle-a-3172a7e5-b6d1-4cc1-b23e-1a33d661b03a#ref=rss)
-* [https://www.spiegel.de/panorama/selbstbestimmungsgesetz-oeffentlicher-termin-in-berlin-wird-zur-feierlichen-veranstaltung-fuer-queere-menschen](https://www.spiegel.de/panorama/selbstbestimmungsgesetz-oeffentlicher-termin-in-berlin-wird-zur-feierlichen-veranstaltung-fuer-queere-menschen-a-deea62bc-7043-4f1c-9fa9-67e70e3c171e#ref=rss)
-### waffenlieferungen
-
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-stellt-erhoehte-waffenlieferungen-aus-dem-westen-fest](https://www.spiegel.de/ausland/wolodymyr-selenskyj-stellt-erhoehte-waffenlieferungen-aus-dem-westen-fest-a-55060060-363f-490a-97fa-3b43805116ba#ref=rss)
-### fest
-
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-stellt-erhoehte-waffenlieferungen-aus-dem-westen-fest](https://www.spiegel.de/ausland/wolodymyr-selenskyj-stellt-erhoehte-waffenlieferungen-aus-dem-westen-fest-a-55060060-363f-490a-97fa-3b43805116ba#ref=rss)
-### woche
-
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-stellt-erhoehte-waffenlieferungen-aus-dem-westen-fest](https://www.spiegel.de/ausland/wolodymyr-selenskyj-stellt-erhoehte-waffenlieferungen-aus-dem-westen-fest-a-55060060-363f-490a-97fa-3b43805116ba#ref=rss)
-### ukrainische
-
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-stellt-erhoehte-waffenlieferungen-aus-dem-westen-fest](https://www.spiegel.de/ausland/wolodymyr-selenskyj-stellt-erhoehte-waffenlieferungen-aus-dem-westen-fest-a-55060060-363f-490a-97fa-3b43805116ba#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-stellt-erhoehte-waffenlieferungen-aus-dem-westen-fest](https://www.spiegel.de/ausland/wolodymyr-selenskyj-stellt-erhoehte-waffenlieferungen-aus-dem-westen-fest-a-55060060-363f-490a-97fa-3b43805116ba#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-warum-evangelikale-in-uganda-fuer-donald-trump-beten](https://www.spiegel.de/ausland/us-wahl-2024-warum-evangelikale-in-uganda-fuer-donald-trump-beten-a-bfc6c367-04f9-4062-8d13-376b701b3433#ref=rss)
-### alischer
-
-* [https://www.spiegel.de/wirtschaft/alischer-usmanow-geldwaescheverfahren-gegen-auflagen-eingestellt](https://www.spiegel.de/wirtschaft/alischer-usmanow-geldwaescheverfahren-gegen-auflagen-eingestellt-a-dd985585-e7a1-476e-94c1-300eb4567f1c#ref=rss)
-### usmanow
-
-* [https://www.spiegel.de/wirtschaft/alischer-usmanow-geldwaescheverfahren-gegen-auflagen-eingestellt](https://www.spiegel.de/wirtschaft/alischer-usmanow-geldwaescheverfahren-gegen-auflagen-eingestellt-a-dd985585-e7a1-476e-94c1-300eb4567f1c#ref=rss)
-### eingestellt
-
-* [https://www.spiegel.de/wirtschaft/alischer-usmanow-geldwaescheverfahren-gegen-auflagen-eingestellt](https://www.spiegel.de/wirtschaft/alischer-usmanow-geldwaescheverfahren-gegen-auflagen-eingestellt-a-dd985585-e7a1-476e-94c1-300eb4567f1c#ref=rss)
-### wirft
-
-* [https://www.spiegel.de/wirtschaft/alischer-usmanow-geldwaescheverfahren-gegen-auflagen-eingestellt](https://www.spiegel.de/wirtschaft/alischer-usmanow-geldwaescheverfahren-gegen-auflagen-eingestellt-a-dd985585-e7a1-476e-94c1-300eb4567f1c#ref=rss)
-* [https://www.spiegel.de/panorama/leute/daenemark-abgedankte-koenigin-margrethe-ii-verteidigt-eltern-gegen-nazi-vorwuerfe](https://www.spiegel.de/panorama/leute/daenemark-abgedankte-koenigin-margrethe-ii-verteidigt-eltern-gegen-nazi-vorwuerfe-a-ce936ef7-85c5-4b42-87ba-1440ce2c3555#ref=rss)
-### prozess
-
-* [https://www.spiegel.de/wirtschaft/alischer-usmanow-geldwaescheverfahren-gegen-auflagen-eingestellt](https://www.spiegel.de/wirtschaft/alischer-usmanow-geldwaescheverfahren-gegen-auflagen-eingestellt-a-dd985585-e7a1-476e-94c1-300eb4567f1c#ref=rss)
-* [https://www.spiegel.de/ausland/iran-kritik-an-umstrittenem-mordurteil-gegen-juedischen-iraner-hinrichtung-vollzogen](https://www.spiegel.de/ausland/iran-kritik-an-umstrittenem-mordurteil-gegen-juedischen-iraner-hinrichtung-vollzogen-a-bad93082-5183-4897-b662-3efbcca9b54a#ref=rss)
-### droht
-
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-a-51dfa639-8c93-4b3a-9e09-eb007f6a612e#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast-a-f32be486-fb7c-4f23-af9f-377548635ee8#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-a-51dfa639-8c93-4b3a-9e09-eb007f6a612e#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast-a-f32be486-fb7c-4f23-af9f-377548635ee8#ref=rss)
-### migranten
-
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-a-51dfa639-8c93-4b3a-9e09-eb007f6a612e#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast-a-f32be486-fb7c-4f23-af9f-377548635ee8#ref=rss)
-### deportieren
-
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-a-51dfa639-8c93-4b3a-9e09-eb007f6a612e#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast-a-f32be486-fb7c-4f23-af9f-377548635ee8#ref=rss)
-### willfährige
-
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-a-51dfa639-8c93-4b3a-9e09-eb007f6a612e#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast-a-f32be486-fb7c-4f23-af9f-377548635ee8#ref=rss)
-### beamte
-
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-a-51dfa639-8c93-4b3a-9e09-eb007f6a612e#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast-a-f32be486-fb7c-4f23-af9f-377548635ee8#ref=rss)
-### installieren
-
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-a-51dfa639-8c93-4b3a-9e09-eb007f6a612e#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast-a-f32be486-fb7c-4f23-af9f-377548635ee8#ref=rss)
-### verfolgt
-
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-a-51dfa639-8c93-4b3a-9e09-eb007f6a612e#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast-a-f32be486-fb7c-4f23-af9f-377548635ee8#ref=rss)
-### autoritäre
-
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-a-51dfa639-8c93-4b3a-9e09-eb007f6a612e#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast-a-f32be486-fb7c-4f23-af9f-377548635ee8#ref=rss)
-### pläne
-
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-a-51dfa639-8c93-4b3a-9e09-eb007f6a612e#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast-a-f32be486-fb7c-4f23-af9f-377548635ee8#ref=rss)
-### lügt
-
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-a-51dfa639-8c93-4b3a-9e09-eb007f6a612e#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast-a-f32be486-fb7c-4f23-af9f-377548635ee8#ref=rss)
-### gewinnen
-
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-a-51dfa639-8c93-4b3a-9e09-eb007f6a612e#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast-a-f32be486-fb7c-4f23-af9f-377548635ee8#ref=rss)
-### spiegelkorrespondent
-
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-a-51dfa639-8c93-4b3a-9e09-eb007f6a612e#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast-a-f32be486-fb7c-4f23-af9f-377548635ee8#ref=rss)
-### roland
-
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-a-51dfa639-8c93-4b3a-9e09-eb007f6a612e#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast-a-f32be486-fb7c-4f23-af9f-377548635ee8#ref=rss)
-### nelles
-
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-a-51dfa639-8c93-4b3a-9e09-eb007f6a612e#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast-a-f32be486-fb7c-4f23-af9f-377548635ee8#ref=rss)
-### ordnet
-
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-a-51dfa639-8c93-4b3a-9e09-eb007f6a612e#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast-a-f32be486-fb7c-4f23-af9f-377548635ee8#ref=rss)
-### gefahr
-
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-a-51dfa639-8c93-4b3a-9e09-eb007f6a612e#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast-a-f32be486-fb7c-4f23-af9f-377548635ee8#ref=rss)
-### zweiten
-
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-a-51dfa639-8c93-4b3a-9e09-eb007f6a612e#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast-a-f32be486-fb7c-4f23-af9f-377548635ee8#ref=rss)
-### amtszeit
-
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-a-51dfa639-8c93-4b3a-9e09-eb007f6a612e#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast-a-f32be486-fb7c-4f23-af9f-377548635ee8#ref=rss)
-### podcast
-
-* [https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast](https://www.spiegel.de/ausland/us-wahl-was-droht-wenn-donald-trump-gewinnt-podcast-a-f32be486-fb7c-4f23-af9f-377548635ee8#ref=rss)
-* [https://www.spiegel.de/kultur/kino/quentin-tarantino-mag-keine-remakes-und-hat-deshalb-auch-dune-nicht-gesehen](https://www.spiegel.de/kultur/kino/quentin-tarantino-mag-keine-remakes-und-hat-deshalb-auch-dune-nicht-gesehen-a-faa2981c-d2d7-4f07-a7af-c15554eb820d#ref=rss)
-### marek
-
-* [https://www.spiegel.de/sport/bergsteigen-marek-holecek-ueber-vergebliche-rettung-von-ondrej-huserka-im-himalaja](https://www.spiegel.de/sport/bergsteigen-marek-holecek-ueber-vergebliche-rettung-von-ondrej-huserka-im-himalaja-a-ad753cc6-e75b-4ba0-8a17-7d27b57fcda4#ref=rss)
-### holecek
-
-* [https://www.spiegel.de/sport/bergsteigen-marek-holecek-ueber-vergebliche-rettung-von-ondrej-huserka-im-himalaja](https://www.spiegel.de/sport/bergsteigen-marek-holecek-ueber-vergebliche-rettung-von-ondrej-huserka-im-himalaja-a-ad753cc6-e75b-4ba0-8a17-7d27b57fcda4#ref=rss)
-### ondrej
-
-* [https://www.spiegel.de/sport/bergsteigen-marek-holecek-ueber-vergebliche-rettung-von-ondrej-huserka-im-himalaja](https://www.spiegel.de/sport/bergsteigen-marek-holecek-ueber-vergebliche-rettung-von-ondrej-huserka-im-himalaja-a-ad753cc6-e75b-4ba0-8a17-7d27b57fcda4#ref=rss)
-### huserka
-
-* [https://www.spiegel.de/sport/bergsteigen-marek-holecek-ueber-vergebliche-rettung-von-ondrej-huserka-im-himalaja](https://www.spiegel.de/sport/bergsteigen-marek-holecek-ueber-vergebliche-rettung-von-ondrej-huserka-im-himalaja-a-ad753cc6-e75b-4ba0-8a17-7d27b57fcda4#ref=rss)
-### himalaja
-
-* [https://www.spiegel.de/sport/bergsteigen-marek-holecek-ueber-vergebliche-rettung-von-ondrej-huserka-im-himalaja](https://www.spiegel.de/sport/bergsteigen-marek-holecek-ueber-vergebliche-rettung-von-ondrej-huserka-im-himalaja-a-ad753cc6-e75b-4ba0-8a17-7d27b57fcda4#ref=rss)
-### augsburggablingen
-
-* [https://www.spiegel.de/panorama/justiz/jva-augsburg-gablingen-strafverteidiger-fordern-besseren-schutz-von-haeftlingen](https://www.spiegel.de/panorama/justiz/jva-augsburg-gablingen-strafverteidiger-fordern-besseren-schutz-von-haeftlingen-a-7cd26270-5096-4bc5-a105-d31559f74e5e#ref=rss)
-### news
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-nachruf-auf-quincy-jones-bundeslaender-pruefen-reduzierung-des-oepnv-angebots-rauschtrinken-nimmt-zu](https://www.spiegel.de/politik/deutschland/news-des-tages-nachruf-auf-quincy-jones-bundeslaender-pruefen-reduzierung-des-oepnv-angebots-rauschtrinken-nimmt-zu-a-8ce6e467-a5c2-4f3d-81a0-121756ceaf52#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-news-heute-donald-trump-und-kamala-harris-kaempfen-in-den-swing-states-um-die-letzten-stimmen](https://www.spiegel.de/ausland/us-wahl-2024-news-heute-donald-trump-und-kamala-harris-kaempfen-in-den-swing-states-um-die-letzten-stimmen-a-8928a748-668c-4909-9ae1-88a76c032f02#ref=rss)
-### quincy
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-nachruf-auf-quincy-jones-bundeslaender-pruefen-reduzierung-des-oepnv-angebots-rauschtrinken-nimmt-zu](https://www.spiegel.de/politik/deutschland/news-des-tages-nachruf-auf-quincy-jones-bundeslaender-pruefen-reduzierung-des-oepnv-angebots-rauschtrinken-nimmt-zu-a-8ce6e467-a5c2-4f3d-81a0-121756ceaf52#ref=rss)
-### jones
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-nachruf-auf-quincy-jones-bundeslaender-pruefen-reduzierung-des-oepnv-angebots-rauschtrinken-nimmt-zu](https://www.spiegel.de/politik/deutschland/news-des-tages-nachruf-auf-quincy-jones-bundeslaender-pruefen-reduzierung-des-oepnv-angebots-rauschtrinken-nimmt-zu-a-8ce6e467-a5c2-4f3d-81a0-121756ceaf52#ref=rss)
-### rauschtrinken
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-nachruf-auf-quincy-jones-bundeslaender-pruefen-reduzierung-des-oepnv-angebots-rauschtrinken-nimmt-zu](https://www.spiegel.de/politik/deutschland/news-des-tages-nachruf-auf-quincy-jones-bundeslaender-pruefen-reduzierung-des-oepnv-angebots-rauschtrinken-nimmt-zu-a-8ce6e467-a5c2-4f3d-81a0-121756ceaf52#ref=rss)
-### nimmt
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-nachruf-auf-quincy-jones-bundeslaender-pruefen-reduzierung-des-oepnv-angebots-rauschtrinken-nimmt-zu](https://www.spiegel.de/politik/deutschland/news-des-tages-nachruf-auf-quincy-jones-bundeslaender-pruefen-reduzierung-des-oepnv-angebots-rauschtrinken-nimmt-zu-a-8ce6e467-a5c2-4f3d-81a0-121756ceaf52#ref=rss)
-### quentin
-
-* [https://www.spiegel.de/kultur/kino/quentin-tarantino-mag-keine-remakes-und-hat-deshalb-auch-dune-nicht-gesehen](https://www.spiegel.de/kultur/kino/quentin-tarantino-mag-keine-remakes-und-hat-deshalb-auch-dune-nicht-gesehen-a-faa2981c-d2d7-4f07-a7af-c15554eb820d#ref=rss)
-### tarantino
-
-* [https://www.spiegel.de/kultur/kino/quentin-tarantino-mag-keine-remakes-und-hat-deshalb-auch-dune-nicht-gesehen](https://www.spiegel.de/kultur/kino/quentin-tarantino-mag-keine-remakes-und-hat-deshalb-auch-dune-nicht-gesehen-a-faa2981c-d2d7-4f07-a7af-c15554eb820d#ref=rss)
-### dune
-
-* [https://www.spiegel.de/kultur/kino/quentin-tarantino-mag-keine-remakes-und-hat-deshalb-auch-dune-nicht-gesehen](https://www.spiegel.de/kultur/kino/quentin-tarantino-mag-keine-remakes-und-hat-deshalb-auch-dune-nicht-gesehen-a-faa2981c-d2d7-4f07-a7af-c15554eb820d#ref=rss)
-### nordsee
-
-* [https://www.spiegel.de/wissenschaft/nordsee-weniger-seehunde-im-wattenmeer](https://www.spiegel.de/wissenschaft/nordsee-weniger-seehunde-im-wattenmeer-a-80dfe31c-1c03-4847-82ea-a5b6dd62946c#ref=rss)
-### seehunde
-
-* [https://www.spiegel.de/wissenschaft/nordsee-weniger-seehunde-im-wattenmeer](https://www.spiegel.de/wissenschaft/nordsee-weniger-seehunde-im-wattenmeer-a-80dfe31c-1c03-4847-82ea-a5b6dd62946c#ref=rss)
-### wattenmeer
-
-* [https://www.spiegel.de/wissenschaft/nordsee-weniger-seehunde-im-wattenmeer](https://www.spiegel.de/wissenschaft/nordsee-weniger-seehunde-im-wattenmeer-a-80dfe31c-1c03-4847-82ea-a5b6dd62946c#ref=rss)
-### einigen
-
-* [https://www.spiegel.de/wissenschaft/nordsee-weniger-seehunde-im-wattenmeer](https://www.spiegel.de/wissenschaft/nordsee-weniger-seehunde-im-wattenmeer-a-80dfe31c-1c03-4847-82ea-a5b6dd62946c#ref=rss)
-* [https://www.spiegel.de/panorama/bob-dylan-musiker-postet-auf-x-jetzt-offenbar-selbst](https://www.spiegel.de/panorama/bob-dylan-musiker-postet-auf-x-jetzt-offenbar-selbst-a-0b38624b-f761-4788-aa9a-a4efcd6b1785#ref=rss)
-### 2024
-
-* [https://www.spiegel.de/ausland/us-wahl-2024-news-heute-donald-trump-und-kamala-harris-kaempfen-in-den-swing-states-um-die-letzten-stimmen](https://www.spiegel.de/ausland/us-wahl-2024-news-heute-donald-trump-und-kamala-harris-kaempfen-in-den-swing-states-um-die-letzten-stimmen-a-8928a748-668c-4909-9ae1-88a76c032f02#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-warum-evangelikale-in-uganda-fuer-donald-trump-beten](https://www.spiegel.de/ausland/us-wahl-2024-warum-evangelikale-in-uganda-fuer-donald-trump-beten-a-bfc6c367-04f9-4062-8d13-376b701b3433#ref=rss)
-### mögliche
-
-* [https://www.spiegel.de/ausland/us-wahl-2024-news-heute-donald-trump-und-kamala-harris-kaempfen-in-den-swing-states-um-die-letzten-stimmen](https://www.spiegel.de/ausland/us-wahl-2024-news-heute-donald-trump-und-kamala-harris-kaempfen-in-den-swing-states-um-die-letzten-stimmen-a-8928a748-668c-4909-9ae1-88a76c032f02#ref=rss)
-* [https://www.spiegel.de/wirtschaft/commerzbank-bereitet-grosses-aktien-rueckkaufprogramm-vor](https://www.spiegel.de/wirtschaft/commerzbank-bereitet-grosses-aktien-rueckkaufprogramm-vor-a-e54d7700-e6e7-43ea-bf53-616cacf27664#ref=rss)
-### letzten
-
-* [https://www.spiegel.de/ausland/us-wahl-2024-news-heute-donald-trump-und-kamala-harris-kaempfen-in-den-swing-states-um-die-letzten-stimmen](https://www.spiegel.de/ausland/us-wahl-2024-news-heute-donald-trump-und-kamala-harris-kaempfen-in-den-swing-states-um-die-letzten-stimmen-a-8928a748-668c-4909-9ae1-88a76c032f02#ref=rss)
-### kämpft
-
-* [https://www.spiegel.de/ausland/us-wahl-2024-news-heute-donald-trump-und-kamala-harris-kaempfen-in-den-swing-states-um-die-letzten-stimmen](https://www.spiegel.de/ausland/us-wahl-2024-news-heute-donald-trump-und-kamala-harris-kaempfen-in-den-swing-states-um-die-letzten-stimmen-a-8928a748-668c-4909-9ae1-88a76c032f02#ref=rss)
-* [https://www.spiegel.de/wirtschaft/commerzbank-bereitet-grosses-aktien-rueckkaufprogramm-vor](https://www.spiegel.de/wirtschaft/commerzbank-bereitet-grosses-aktien-rueckkaufprogramm-vor-a-e54d7700-e6e7-43ea-bf53-616cacf27664#ref=rss)
-### iraner
-
-* [https://www.spiegel.de/ausland/iran-kritik-an-umstrittenem-mordurteil-gegen-juedischen-iraner-hinrichtung-vollzogen](https://www.spiegel.de/ausland/iran-kritik-an-umstrittenem-mordurteil-gegen-juedischen-iraner-hinrichtung-vollzogen-a-bad93082-5183-4897-b662-3efbcca9b54a#ref=rss)
-### bob
-
-* [https://www.spiegel.de/panorama/bob-dylan-musiker-postet-auf-x-jetzt-offenbar-selbst](https://www.spiegel.de/panorama/bob-dylan-musiker-postet-auf-x-jetzt-offenbar-selbst-a-0b38624b-f761-4788-aa9a-a4efcd6b1785#ref=rss)
-### dylan
-
-* [https://www.spiegel.de/panorama/bob-dylan-musiker-postet-auf-x-jetzt-offenbar-selbst](https://www.spiegel.de/panorama/bob-dylan-musiker-postet-auf-x-jetzt-offenbar-selbst-a-0b38624b-f761-4788-aa9a-a4efcd6b1785#ref=rss)
-### postet
-
-* [https://www.spiegel.de/panorama/bob-dylan-musiker-postet-auf-x-jetzt-offenbar-selbst](https://www.spiegel.de/panorama/bob-dylan-musiker-postet-auf-x-jetzt-offenbar-selbst-a-0b38624b-f761-4788-aa9a-a4efcd6b1785#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/bob-dylan-musiker-postet-auf-x-jetzt-offenbar-selbst](https://www.spiegel.de/panorama/bob-dylan-musiker-postet-auf-x-jetzt-offenbar-selbst-a-0b38624b-f761-4788-aa9a-a4efcd6b1785#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/panorama/bob-dylan-musiker-postet-auf-x-jetzt-offenbar-selbst](https://www.spiegel.de/panorama/bob-dylan-musiker-postet-auf-x-jetzt-offenbar-selbst-a-0b38624b-f761-4788-aa9a-a4efcd6b1785#ref=rss)
-### schlamm
-
-* [https://www.spiegel.de/ausland/spanien-haben-rechtsradikale-felipe-und-letizia-mit-schlamm-beworfen](https://www.spiegel.de/ausland/spanien-haben-rechtsradikale-felipe-und-letizia-mit-schlamm-beworfen-a-18c01db6-7cb1-43b2-847d-e4d0953c756c#ref=rss)
-### beworfen
-
-* [https://www.spiegel.de/ausland/spanien-haben-rechtsradikale-felipe-und-letizia-mit-schlamm-beworfen](https://www.spiegel.de/ausland/spanien-haben-rechtsradikale-felipe-und-letizia-mit-schlamm-beworfen-a-18c01db6-7cb1-43b2-847d-e4d0953c756c#ref=rss)
-### königin
-
-* [https://www.spiegel.de/ausland/spanien-haben-rechtsradikale-felipe-und-letizia-mit-schlamm-beworfen](https://www.spiegel.de/ausland/spanien-haben-rechtsradikale-felipe-und-letizia-mit-schlamm-beworfen-a-18c01db6-7cb1-43b2-847d-e4d0953c756c#ref=rss)
-* [https://www.spiegel.de/panorama/leute/daenemark-abgedankte-koenigin-margrethe-ii-verteidigt-eltern-gegen-nazi-vorwuerfe](https://www.spiegel.de/panorama/leute/daenemark-abgedankte-koenigin-margrethe-ii-verteidigt-eltern-gegen-nazi-vorwuerfe-a-ce936ef7-85c5-4b42-87ba-1440ce2c3555#ref=rss)
-### mark
-
-* [https://www.spiegel.de/politik/deutschland/nato-mark-rutte-lobt-scholz-fuer-dessen-fuehrungsrolle](https://www.spiegel.de/politik/deutschland/nato-mark-rutte-lobt-scholz-fuer-dessen-fuehrungsrolle-a-3172a7e5-b6d1-4cc1-b23e-1a33d661b03a#ref=rss)
-### rutte
-
-* [https://www.spiegel.de/politik/deutschland/nato-mark-rutte-lobt-scholz-fuer-dessen-fuehrungsrolle](https://www.spiegel.de/politik/deutschland/nato-mark-rutte-lobt-scholz-fuer-dessen-fuehrungsrolle-a-3172a7e5-b6d1-4cc1-b23e-1a33d661b03a#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/deutschland/nato-mark-rutte-lobt-scholz-fuer-dessen-fuehrungsrolle](https://www.spiegel.de/politik/deutschland/nato-mark-rutte-lobt-scholz-fuer-dessen-fuehrungsrolle-a-3172a7e5-b6d1-4cc1-b23e-1a33d661b03a#ref=rss)
-### dessen
-
-* [https://www.spiegel.de/politik/deutschland/nato-mark-rutte-lobt-scholz-fuer-dessen-fuehrungsrolle](https://www.spiegel.de/politik/deutschland/nato-mark-rutte-lobt-scholz-fuer-dessen-fuehrungsrolle-a-3172a7e5-b6d1-4cc1-b23e-1a33d661b03a#ref=rss)
-* [https://www.spiegel.de/kultur/musik/herbert-groenemeyer-verbietet-cdu-zeit-dass-sich-was-dreht-zu-nutzen](https://www.spiegel.de/kultur/musik/herbert-groenemeyer-verbietet-cdu-zeit-dass-sich-was-dreht-zu-nutzen-a-c5c54434-fd55-407a-bf42-432caa89eddb#ref=rss)
-### termin
-
-* [https://www.spiegel.de/panorama/selbstbestimmungsgesetz-oeffentlicher-termin-in-berlin-wird-zur-feierlichen-veranstaltung-fuer-queere-menschen](https://www.spiegel.de/panorama/selbstbestimmungsgesetz-oeffentlicher-termin-in-berlin-wird-zur-feierlichen-veranstaltung-fuer-queere-menschen-a-deea62bc-7043-4f1c-9fa9-67e70e3c171e#ref=rss)
-### queere
-
-* [https://www.spiegel.de/panorama/selbstbestimmungsgesetz-oeffentlicher-termin-in-berlin-wird-zur-feierlichen-veranstaltung-fuer-queere-menschen](https://www.spiegel.de/panorama/selbstbestimmungsgesetz-oeffentlicher-termin-in-berlin-wird-zur-feierlichen-veranstaltung-fuer-queere-menschen-a-deea62bc-7043-4f1c-9fa9-67e70e3c171e#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/selbstbestimmungsgesetz-oeffentlicher-termin-in-berlin-wird-zur-feierlichen-veranstaltung-fuer-queere-menschen](https://www.spiegel.de/panorama/selbstbestimmungsgesetz-oeffentlicher-termin-in-berlin-wird-zur-feierlichen-veranstaltung-fuer-queere-menschen-a-deea62bc-7043-4f1c-9fa9-67e70e3c171e#ref=rss)
-### höflichkeit
-
-* [https://www.spiegel.de/kultur/gehaltsverhandlung-warum-gelernte-hoeflichkeit-frauen-finanziell-benachteiligt](https://www.spiegel.de/kultur/gehaltsverhandlung-warum-gelernte-hoeflichkeit-frauen-finanziell-benachteiligt-a-6dfbbd90-8a29-4e3d-b95a-bc40d92b0451#ref=rss)
-### oft
-
-* [https://www.spiegel.de/kultur/gehaltsverhandlung-warum-gelernte-hoeflichkeit-frauen-finanziell-benachteiligt](https://www.spiegel.de/kultur/gehaltsverhandlung-warum-gelernte-hoeflichkeit-frauen-finanziell-benachteiligt-a-6dfbbd90-8a29-4e3d-b95a-bc40d92b0451#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-warum-evangelikale-in-uganda-fuer-donald-trump-beten](https://www.spiegel.de/ausland/us-wahl-2024-warum-evangelikale-in-uganda-fuer-donald-trump-beten-a-bfc6c367-04f9-4062-8d13-376b701b3433#ref=rss)
 ### laut
 
-* [https://www.spiegel.de/kultur/gehaltsverhandlung-warum-gelernte-hoeflichkeit-frauen-finanziell-benachteiligt](https://www.spiegel.de/kultur/gehaltsverhandlung-warum-gelernte-hoeflichkeit-frauen-finanziell-benachteiligt-a-6dfbbd90-8a29-4e3d-b95a-bc40d92b0451#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/a44-bei-aachen-bundespolizei-stoppt-60-jaehrigen-mit-artilleriekanone](https://www.spiegel.de/panorama/justiz/a44-bei-aachen-bundespolizei-stoppt-60-jaehrigen-mit-artilleriekanone-a-2c7820de-6d51-4cae-b58e-b0eb4ecd540a#ref=rss)
-### macht
+* [https://www.spiegel.de/politik/deutschland/asypolitik-mehr-als-60-prozent-der-abschiebungen-2024-laut-bericht-gescheitert](https://www.spiegel.de/politik/deutschland/asypolitik-mehr-als-60-prozent-der-abschiebungen-2024-laut-bericht-gescheitert-a-e738fbb2-f1fa-4266-b617-4b4a39adb10f#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/gluecksatlas-ueber-zufriedenheit-in-deutschland-das-corona-tief-ist-ueberwunden](https://www.spiegel.de/panorama/gesellschaft/gluecksatlas-ueber-zufriedenheit-in-deutschland-das-corona-tief-ist-ueberwunden-a-0e01f31e-fdcb-4123-9bac-f89bb1d84468#ref=rss)
+* [https://www.spiegel.de/ausland/schweden-regierung-stoppt-windkraftprojekte-in-der-ostsee-wegen-verteidigungsbedenken](https://www.spiegel.de/ausland/schweden-regierung-stoppt-windkraftprojekte-in-der-ostsee-wegen-verteidigungsbedenken-a-bf640b7a-d574-41ff-b689-f047dca666ec#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampelkoalition-mehrheit-der-bundesbuerger-lehnt-neuwahlen-laut-umfrage-ab](https://www.spiegel.de/politik/deutschland/ampelkoalition-mehrheit-der-bundesbuerger-lehnt-neuwahlen-laut-umfrage-ab-a-03975640-c917-41d2-a71b-eee08da2bc96#ref=rss)
+* [https://www.spiegel.de/ausland/russland-us-verteidigungsministerium-meldet-weitere-soldaten-aus-nordkorea-in-kursk](https://www.spiegel.de/ausland/russland-us-verteidigungsministerium-meldet-weitere-soldaten-aus-nordkorea-in-kursk-a-dcf61819-22f3-4b9b-8544-7d3cce733457#ref=rss)
+### russland
 
-* [https://www.spiegel.de/kultur/gehaltsverhandlung-warum-gelernte-hoeflichkeit-frauen-finanziell-benachteiligt](https://www.spiegel.de/kultur/gehaltsverhandlung-warum-gelernte-hoeflichkeit-frauen-finanziell-benachteiligt-a-6dfbbd90-8a29-4e3d-b95a-bc40d92b0451#ref=rss)
-* [https://www.spiegel.de/wirtschaft/commerzbank-bereitet-grosses-aktien-rueckkaufprogramm-vor](https://www.spiegel.de/wirtschaft/commerzbank-bereitet-grosses-aktien-rueckkaufprogramm-vor-a-e54d7700-e6e7-43ea-bf53-616cacf27664#ref=rss)
-### evangelikale
+* [https://www.spiegel.de/wirtschaft/unternehmen/uniper-erste-rueckzahlung-an-den-bund-dank-schadensersatzzahlungen-von-gazprom](https://www.spiegel.de/wirtschaft/unternehmen/uniper-erste-rueckzahlung-an-den-bund-dank-schadensersatzzahlungen-von-gazprom-a-2adf980c-0879-416f-aa64-cc53c96c7de4#ref=rss)
+* [https://www.spiegel.de/ausland/kim-jong-uns-truppen-fuer-wladimir-putin-wie-die-nordkoreaner-gegen-die-ukraine-kaempfen-sollen](https://www.spiegel.de/ausland/kim-jong-uns-truppen-fuer-wladimir-putin-wie-die-nordkoreaner-gegen-die-ukraine-kaempfen-sollen-a-8cadf187-ff1e-4e9c-bc23-1c455b2184fc#ref=rss)
+* [https://www.spiegel.de/ausland/russland-us-verteidigungsministerium-meldet-weitere-soldaten-aus-nordkorea-in-kursk](https://www.spiegel.de/ausland/russland-us-verteidigungsministerium-meldet-weitere-soldaten-aus-nordkorea-in-kursk-a-dcf61819-22f3-4b9b-8544-7d3cce733457#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-news-heute-donald-trump-und-kamala-harris-kaempfen-in-den-swing-states-um-die-letzten-stimmen](https://www.spiegel.de/ausland/us-wahl-2024-news-heute-donald-trump-und-kamala-harris-kaempfen-in-den-swing-states-um-die-letzten-stimmen-a-8928a748-668c-4909-9ae1-88a76c032f02#ref=rss)
+### trump
 
-* [https://www.spiegel.de/ausland/us-wahl-2024-warum-evangelikale-in-uganda-fuer-donald-trump-beten](https://www.spiegel.de/ausland/us-wahl-2024-warum-evangelikale-in-uganda-fuer-donald-trump-beten-a-bfc6c367-04f9-4062-8d13-376b701b3433#ref=rss)
-### uganda
+* [https://www.spiegel.de/ausland/us-wahlkampf-im-endspurt-donald-trump-mit-beleidigungen-und-duesterkeit-kamala-harris-mit-versoehnenden-worten](https://www.spiegel.de/ausland/us-wahlkampf-im-endspurt-donald-trump-mit-beleidigungen-und-duesterkeit-kamala-harris-mit-versoehnenden-worten-a-0cbcfd6d-12a1-4ac4-afcd-a87784c0c6d1#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-waehler-ueber-donald-trump-ich-muss-ueber-seine-persoenlichkeit-hinwegsehen-und-fuer-seine-politik-stimmen](https://www.spiegel.de/ausland/us-wahl-2024-waehler-ueber-donald-trump-ich-muss-ueber-seine-persoenlichkeit-hinwegsehen-und-fuer-seine-politik-stimmen-a-6e0f5702-35aa-4d56-9439-e28b18e2ea68#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-news-heute-donald-trump-und-kamala-harris-kaempfen-in-den-swing-states-um-die-letzten-stimmen](https://www.spiegel.de/ausland/us-wahl-2024-news-heute-donald-trump-und-kamala-harris-kaempfen-in-den-swing-states-um-die-letzten-stimmen-a-8928a748-668c-4909-9ae1-88a76c032f02#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/ausland/us-wahl-2024-warum-evangelikale-in-uganda-fuer-donald-trump-beten](https://www.spiegel.de/ausland/us-wahl-2024-warum-evangelikale-in-uganda-fuer-donald-trump-beten-a-bfc6c367-04f9-4062-8d13-376b701b3433#ref=rss)
-### politikwissenschaftler
-
-* [https://www.spiegel.de/ausland/russland-politikwissenschaftler-jens-siegert-ueber-die-zukunft-des-riesenreichs](https://www.spiegel.de/ausland/russland-politikwissenschaftler-jens-siegert-ueber-die-zukunft-des-riesenreichs-a-7cc93653-8040-463f-9e8d-62480c74f7a3#ref=rss)
-### jens
-
-* [https://www.spiegel.de/ausland/russland-politikwissenschaftler-jens-siegert-ueber-die-zukunft-des-riesenreichs](https://www.spiegel.de/ausland/russland-politikwissenschaftler-jens-siegert-ueber-die-zukunft-des-riesenreichs-a-7cc93653-8040-463f-9e8d-62480c74f7a3#ref=rss)
-### siegert
-
-* [https://www.spiegel.de/ausland/russland-politikwissenschaftler-jens-siegert-ueber-die-zukunft-des-riesenreichs](https://www.spiegel.de/ausland/russland-politikwissenschaftler-jens-siegert-ueber-die-zukunft-des-riesenreichs-a-7cc93653-8040-463f-9e8d-62480c74f7a3#ref=rss)
-### zukunft
-
-* [https://www.spiegel.de/ausland/russland-politikwissenschaftler-jens-siegert-ueber-die-zukunft-des-riesenreichs](https://www.spiegel.de/ausland/russland-politikwissenschaftler-jens-siegert-ueber-die-zukunft-des-riesenreichs-a-7cc93653-8040-463f-9e8d-62480c74f7a3#ref=rss)
-### flutkatastrophe
-
-* [https://www.spiegel.de/sport/fussball/fussball-trotz-flutkatastrophe-in-spanien-carlo-ancelotti-und-hansi-flick-aeussern-unverstaendnis](https://www.spiegel.de/sport/fussball/fussball-trotz-flutkatastrophe-in-spanien-carlo-ancelotti-und-hansi-flick-aeussern-unverstaendnis-a-3096dfee-82ac-4152-9999-29ccfbfa1bd8#ref=rss)
-### unverständnis
-
-* [https://www.spiegel.de/sport/fussball/fussball-trotz-flutkatastrophe-in-spanien-carlo-ancelotti-und-hansi-flick-aeussern-unverstaendnis](https://www.spiegel.de/sport/fussball/fussball-trotz-flutkatastrophe-in-spanien-carlo-ancelotti-und-hansi-flick-aeussern-unverstaendnis-a-3096dfee-82ac-4152-9999-29ccfbfa1bd8#ref=rss)
-### madrid
-
-* [https://www.spiegel.de/sport/fussball/fussball-trotz-flutkatastrophe-in-spanien-carlo-ancelotti-und-hansi-flick-aeussern-unverstaendnis](https://www.spiegel.de/sport/fussball/fussball-trotz-flutkatastrophe-in-spanien-carlo-ancelotti-und-hansi-flick-aeussern-unverstaendnis-a-3096dfee-82ac-4152-9999-29ccfbfa1bd8#ref=rss)
-### herbertstraße
-
-* [https://www.spiegel.de/panorama/gesellschaft/hamburg-tor-der-beruehmten-herbertstrasse-auf-st-pauli-demontiert](https://www.spiegel.de/panorama/gesellschaft/hamburg-tor-der-beruehmten-herbertstrasse-auf-st-pauli-demontiert-a-296ee876-5f38-44d9-974f-532ce51b0946#ref=rss)
-### hamburger
-
-* [https://www.spiegel.de/panorama/gesellschaft/hamburg-tor-der-beruehmten-herbertstrasse-auf-st-pauli-demontiert](https://www.spiegel.de/panorama/gesellschaft/hamburg-tor-der-beruehmten-herbertstrasse-auf-st-pauli-demontiert-a-296ee876-5f38-44d9-974f-532ce51b0946#ref=rss)
-* [https://www.spiegel.de/panorama/alleinstehende-frauen-mehr-rechte-fuer-solo-muetter](https://www.spiegel.de/panorama/alleinstehende-frauen-mehr-rechte-fuer-solo-muetter-a-0d54618f-b1fd-481e-8470-45fe0b965546#ref=rss)
-### kamel
-
-* [https://www.spiegel.de/kultur/literatur/kamel-daoud-gewinnt-mit-houris-den-prix-goncourt-gael-faye-den-renaudot](https://www.spiegel.de/kultur/literatur/kamel-daoud-gewinnt-mit-houris-den-prix-goncourt-gael-faye-den-renaudot-a-29e0be27-34ae-4550-9b69-ba7f85038296#ref=rss)
-### daoud
-
-* [https://www.spiegel.de/kultur/literatur/kamel-daoud-gewinnt-mit-houris-den-prix-goncourt-gael-faye-den-renaudot](https://www.spiegel.de/kultur/literatur/kamel-daoud-gewinnt-mit-houris-den-prix-goncourt-gael-faye-den-renaudot-a-29e0be27-34ae-4550-9b69-ba7f85038296#ref=rss)
-### houris
-
-* [https://www.spiegel.de/kultur/literatur/kamel-daoud-gewinnt-mit-houris-den-prix-goncourt-gael-faye-den-renaudot](https://www.spiegel.de/kultur/literatur/kamel-daoud-gewinnt-mit-houris-den-prix-goncourt-gael-faye-den-renaudot-a-29e0be27-34ae-4550-9b69-ba7f85038296#ref=rss)
-### prix
-
-* [https://www.spiegel.de/kultur/literatur/kamel-daoud-gewinnt-mit-houris-den-prix-goncourt-gael-faye-den-renaudot](https://www.spiegel.de/kultur/literatur/kamel-daoud-gewinnt-mit-houris-den-prix-goncourt-gael-faye-den-renaudot-a-29e0be27-34ae-4550-9b69-ba7f85038296#ref=rss)
-### goncourt
-
-* [https://www.spiegel.de/kultur/literatur/kamel-daoud-gewinnt-mit-houris-den-prix-goncourt-gael-faye-den-renaudot](https://www.spiegel.de/kultur/literatur/kamel-daoud-gewinnt-mit-houris-den-prix-goncourt-gael-faye-den-renaudot-a-29e0be27-34ae-4550-9b69-ba7f85038296#ref=rss)
-### sicher
-
-* [https://www.spiegel.de/kultur/literatur/kamel-daoud-gewinnt-mit-houris-den-prix-goncourt-gael-faye-den-renaudot](https://www.spiegel.de/kultur/literatur/kamel-daoud-gewinnt-mit-houris-den-prix-goncourt-gael-faye-den-renaudot-a-29e0be27-34ae-4550-9b69-ba7f85038296#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/a44-bei-aachen-bundespolizei-stoppt-60-jaehrigen-mit-artilleriekanone](https://www.spiegel.de/panorama/justiz/a44-bei-aachen-bundespolizei-stoppt-60-jaehrigen-mit-artilleriekanone-a-2c7820de-6d51-4cae-b58e-b0eb4ecd540a#ref=rss)
+* [https://www.spiegel.de/panorama/indonesien-tausende-menschen-nach-vulkanausbruch-in-sicherheit-gebracht](https://www.spiegel.de/panorama/indonesien-tausende-menschen-nach-vulkanausbruch-in-sicherheit-gebracht-a-ffd23a95-2a81-4c65-9f26-ba74bfa1e356#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/gluecksatlas-ueber-zufriedenheit-in-deutschland-das-corona-tief-ist-ueberwunden](https://www.spiegel.de/panorama/gesellschaft/gluecksatlas-ueber-zufriedenheit-in-deutschland-das-corona-tief-ist-ueberwunden-a-0e01f31e-fdcb-4123-9bac-f89bb1d84468#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-waehler-ueber-donald-trump-ich-muss-ueber-seine-persoenlichkeit-hinwegsehen-und-fuer-seine-politik-stimmen](https://www.spiegel.de/ausland/us-wahl-2024-waehler-ueber-donald-trump-ich-muss-ueber-seine-persoenlichkeit-hinwegsehen-und-fuer-seine-politik-stimmen-a-6e0f5702-35aa-4d56-9439-e28b18e2ea68#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/dgb-chefin-yasmin-fahimi-zur-ampel-krise-dieses-theater-verunsichert-die-menschen](https://www.spiegel.de/wirtschaft/soziales/dgb-chefin-yasmin-fahimi-zur-ampel-krise-dieses-theater-verunsichert-die-menschen-a-0bd8774d-dbd8-4ead-ac53-328cf9e3b643#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/kultur/literatur/kamel-daoud-gewinnt-mit-houris-den-prix-goncourt-gael-faye-den-renaudot](https://www.spiegel.de/kultur/literatur/kamel-daoud-gewinnt-mit-houris-den-prix-goncourt-gael-faye-den-renaudot-a-29e0be27-34ae-4550-9b69-ba7f85038296#ref=rss)
-* [https://www.spiegel.de/kultur/musik/herbert-groenemeyer-verbietet-cdu-zeit-dass-sich-was-dreht-zu-nutzen](https://www.spiegel.de/kultur/musik/herbert-groenemeyer-verbietet-cdu-zeit-dass-sich-was-dreht-zu-nutzen-a-c5c54434-fd55-407a-bf42-432caa89eddb#ref=rss)
-### margrethe
+* [https://www.spiegel.de/wirtschaft/soziales/wirtschaftskrise-und-us-wahlen-wie-sich-deutschland-selbst-retten-kann](https://www.spiegel.de/wirtschaft/soziales/wirtschaftskrise-und-us-wahlen-wie-sich-deutschland-selbst-retten-kann-a-3a302ac9-099a-49ce-820d-4cb1922c2bf3#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/gluecksatlas-ueber-zufriedenheit-in-deutschland-das-corona-tief-ist-ueberwunden](https://www.spiegel.de/panorama/gesellschaft/gluecksatlas-ueber-zufriedenheit-in-deutschland-das-corona-tief-ist-ueberwunden-a-0e01f31e-fdcb-4123-9bac-f89bb1d84468#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/autozulieferer-schaeffler-baut-tausende-stellen-ab-auch-deutschland-betroffen](https://www.spiegel.de/wirtschaft/unternehmen/autozulieferer-schaeffler-baut-tausende-stellen-ab-auch-deutschland-betroffen-a-14f6739f-42f8-43d6-8a54-805f939a29f5#ref=rss)
+### israel
 
-* [https://www.spiegel.de/panorama/leute/daenemark-abgedankte-koenigin-margrethe-ii-verteidigt-eltern-gegen-nazi-vorwuerfe](https://www.spiegel.de/panorama/leute/daenemark-abgedankte-koenigin-margrethe-ii-verteidigt-eltern-gegen-nazi-vorwuerfe-a-ce936ef7-85c5-4b42-87ba-1440ce2c3555#ref=rss)
-### eltern
+* [https://www.spiegel.de/ausland/masada-israel-wehrt-drohnenangriff-nahe-historischer-festung-ab](https://www.spiegel.de/ausland/masada-israel-wehrt-drohnenangriff-nahe-historischer-festung-ab-a-ebaf34c6-9f5d-422a-b901-c4574b55b224#ref=rss)
+* [https://www.spiegel.de/ausland/hisbollah-feuert-dutzende-raketen-auf-israel](https://www.spiegel.de/ausland/hisbollah-feuert-dutzende-raketen-auf-israel-a-3dacc356-31b2-4836-aec3-af5e166fe5c1#ref=rss)
+### tausende
 
-* [https://www.spiegel.de/panorama/leute/daenemark-abgedankte-koenigin-margrethe-ii-verteidigt-eltern-gegen-nazi-vorwuerfe](https://www.spiegel.de/panorama/leute/daenemark-abgedankte-koenigin-margrethe-ii-verteidigt-eltern-gegen-nazi-vorwuerfe-a-ce936ef7-85c5-4b42-87ba-1440ce2c3555#ref=rss)
-### buch
+* [https://www.spiegel.de/panorama/indonesien-tausende-menschen-nach-vulkanausbruch-in-sicherheit-gebracht](https://www.spiegel.de/panorama/indonesien-tausende-menschen-nach-vulkanausbruch-in-sicherheit-gebracht-a-ffd23a95-2a81-4c65-9f26-ba74bfa1e356#ref=rss)
+* [https://www.spiegel.de/ausland/kim-jong-uns-truppen-fuer-wladimir-putin-wie-die-nordkoreaner-gegen-die-ukraine-kaempfen-sollen](https://www.spiegel.de/ausland/kim-jong-uns-truppen-fuer-wladimir-putin-wie-die-nordkoreaner-gegen-die-ukraine-kaempfen-sollen-a-8cadf187-ff1e-4e9c-bc23-1c455b2184fc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/autozulieferer-schaeffler-baut-tausende-stellen-ab-auch-deutschland-betroffen](https://www.spiegel.de/wirtschaft/unternehmen/autozulieferer-schaeffler-baut-tausende-stellen-ab-auch-deutschland-betroffen-a-14f6739f-42f8-43d6-8a54-805f939a29f5#ref=rss)
+### donald
 
-* [https://www.spiegel.de/panorama/leute/daenemark-abgedankte-koenigin-margrethe-ii-verteidigt-eltern-gegen-nazi-vorwuerfe](https://www.spiegel.de/panorama/leute/daenemark-abgedankte-koenigin-margrethe-ii-verteidigt-eltern-gegen-nazi-vorwuerfe-a-ce936ef7-85c5-4b42-87ba-1440ce2c3555#ref=rss)
-* [https://www.spiegel.de/stil/luxus-uhren-wie-eine-historische-omega-einen-schriftsteller-in-die-uhrensucht-trieb](https://www.spiegel.de/stil/luxus-uhren-wie-eine-historische-omega-einen-schriftsteller-in-die-uhrensucht-trieb-a-3c9bf639-46d1-4d66-b22c-82288b9bcfe6#ref=rss)
-### philippinen
+* [https://www.spiegel.de/ausland/us-wahlkampf-im-endspurt-donald-trump-mit-beleidigungen-und-duesterkeit-kamala-harris-mit-versoehnenden-worten](https://www.spiegel.de/ausland/us-wahlkampf-im-endspurt-donald-trump-mit-beleidigungen-und-duesterkeit-kamala-harris-mit-versoehnenden-worten-a-0cbcfd6d-12a1-4ac4-afcd-a87784c0c6d1#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-waehler-ueber-donald-trump-ich-muss-ueber-seine-persoenlichkeit-hinwegsehen-und-fuer-seine-politik-stimmen](https://www.spiegel.de/ausland/us-wahl-2024-waehler-ueber-donald-trump-ich-muss-ueber-seine-persoenlichkeit-hinwegsehen-und-fuer-seine-politik-stimmen-a-6e0f5702-35aa-4d56-9439-e28b18e2ea68#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/ausland/philippinen-militaer-trainiert-wegen-spannungen-mit-china-die-eroberung-einer-insel](https://www.spiegel.de/ausland/philippinen-militaer-trainiert-wegen-spannungen-mit-china-die-eroberung-einer-insel-a-0e09d365-0f47-4eef-a519-adb4d7cc6cf5#ref=rss)
-### china
+* [https://www.spiegel.de/wirtschaft/soziales/wirtschaftskrise-und-us-wahlen-wie-sich-deutschland-selbst-retten-kann](https://www.spiegel.de/wirtschaft/soziales/wirtschaftskrise-und-us-wahlen-wie-sich-deutschland-selbst-retten-kann-a-3a302ac9-099a-49ce-820d-4cb1922c2bf3#ref=rss)
+* [https://www.spiegel.de/ausland/schweden-regierung-stoppt-windkraftprojekte-in-der-ostsee-wegen-verteidigungsbedenken](https://www.spiegel.de/ausland/schweden-regierung-stoppt-windkraftprojekte-in-der-ostsee-wegen-verteidigungsbedenken-a-bf640b7a-d574-41ff-b689-f047dca666ec#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/dgb-chefin-yasmin-fahimi-zur-ampel-krise-dieses-theater-verunsichert-die-menschen](https://www.spiegel.de/wirtschaft/soziales/dgb-chefin-yasmin-fahimi-zur-ampel-krise-dieses-theater-verunsichert-die-menschen-a-0bd8774d-dbd8-4ead-ac53-328cf9e3b643#ref=rss)
+### euro
 
-* [https://www.spiegel.de/ausland/philippinen-militaer-trainiert-wegen-spannungen-mit-china-die-eroberung-einer-insel](https://www.spiegel.de/ausland/philippinen-militaer-trainiert-wegen-spannungen-mit-china-die-eroberung-einer-insel-a-0e09d365-0f47-4eef-a519-adb4d7cc6cf5#ref=rss)
-### herbert
+* [https://www.spiegel.de/panorama/leute/filmindustrie-hollywood-reporter-enthuellt-gagen](https://www.spiegel.de/panorama/leute/filmindustrie-hollywood-reporter-enthuellt-gagen-a-8993ecb9-4f1e-43d2-a311-e5146b66083b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/uniper-erste-rueckzahlung-an-den-bund-dank-schadensersatzzahlungen-von-gazprom](https://www.spiegel.de/wirtschaft/unternehmen/uniper-erste-rueckzahlung-an-den-bund-dank-schadensersatzzahlungen-von-gazprom-a-2adf980c-0879-416f-aa64-cc53c96c7de4#ref=rss)
+### 2024
 
-* [https://www.spiegel.de/kultur/musik/herbert-groenemeyer-verbietet-cdu-zeit-dass-sich-was-dreht-zu-nutzen](https://www.spiegel.de/kultur/musik/herbert-groenemeyer-verbietet-cdu-zeit-dass-sich-was-dreht-zu-nutzen-a-c5c54434-fd55-407a-bf42-432caa89eddb#ref=rss)
-### grönemeyer
+* [https://www.spiegel.de/politik/deutschland/asypolitik-mehr-als-60-prozent-der-abschiebungen-2024-laut-bericht-gescheitert](https://www.spiegel.de/politik/deutschland/asypolitik-mehr-als-60-prozent-der-abschiebungen-2024-laut-bericht-gescheitert-a-e738fbb2-f1fa-4266-b617-4b4a39adb10f#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-waehler-ueber-donald-trump-ich-muss-ueber-seine-persoenlichkeit-hinwegsehen-und-fuer-seine-politik-stimmen](https://www.spiegel.de/ausland/us-wahl-2024-waehler-ueber-donald-trump-ich-muss-ueber-seine-persoenlichkeit-hinwegsehen-und-fuer-seine-politik-stimmen-a-6e0f5702-35aa-4d56-9439-e28b18e2ea68#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-news-heute-donald-trump-und-kamala-harris-kaempfen-in-den-swing-states-um-die-letzten-stimmen](https://www.spiegel.de/ausland/us-wahl-2024-news-heute-donald-trump-und-kamala-harris-kaempfen-in-den-swing-states-um-die-letzten-stimmen-a-8928a748-668c-4909-9ae1-88a76c032f02#ref=rss)
+### barrymore
 
-* [https://www.spiegel.de/kultur/musik/herbert-groenemeyer-verbietet-cdu-zeit-dass-sich-was-dreht-zu-nutzen](https://www.spiegel.de/kultur/musik/herbert-groenemeyer-verbietet-cdu-zeit-dass-sich-was-dreht-zu-nutzen-a-c5c54434-fd55-407a-bf42-432caa89eddb#ref=rss)
-### a44
+* [https://www.spiegel.de/panorama/leute/drew-barrymore-und-adam-sandler-ueberraschende-reaktion-der-toechter-auf-50-first-dates](https://www.spiegel.de/panorama/leute/drew-barrymore-und-adam-sandler-ueberraschende-reaktion-der-toechter-auf-50-first-dates-a-587bd8ba-9696-4aaf-ae8d-015568680f2b#ref=rss)
+### sandler
 
-* [https://www.spiegel.de/panorama/justiz/a44-bei-aachen-bundespolizei-stoppt-60-jaehrigen-mit-artilleriekanone](https://www.spiegel.de/panorama/justiz/a44-bei-aachen-bundespolizei-stoppt-60-jaehrigen-mit-artilleriekanone-a-2c7820de-6d51-4cae-b58e-b0eb4ecd540a#ref=rss)
-### polizei
+* [https://www.spiegel.de/panorama/leute/drew-barrymore-und-adam-sandler-ueberraschende-reaktion-der-toechter-auf-50-first-dates](https://www.spiegel.de/panorama/leute/drew-barrymore-und-adam-sandler-ueberraschende-reaktion-der-toechter-auf-50-first-dates-a-587bd8ba-9696-4aaf-ae8d-015568680f2b#ref=rss)
+### harris
 
-* [https://www.spiegel.de/panorama/justiz/a44-bei-aachen-bundespolizei-stoppt-60-jaehrigen-mit-artilleriekanone](https://www.spiegel.de/panorama/justiz/a44-bei-aachen-bundespolizei-stoppt-60-jaehrigen-mit-artilleriekanone-a-2c7820de-6d51-4cae-b58e-b0eb4ecd540a#ref=rss)
-### commerzbank
+* [https://www.spiegel.de/ausland/us-wahlkampf-im-endspurt-donald-trump-mit-beleidigungen-und-duesterkeit-kamala-harris-mit-versoehnenden-worten](https://www.spiegel.de/ausland/us-wahlkampf-im-endspurt-donald-trump-mit-beleidigungen-und-duesterkeit-kamala-harris-mit-versoehnenden-worten-a-0cbcfd6d-12a1-4ac4-afcd-a87784c0c6d1#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-news-heute-donald-trump-und-kamala-harris-kaempfen-in-den-swing-states-um-die-letzten-stimmen](https://www.spiegel.de/ausland/us-wahl-2024-news-heute-donald-trump-und-kamala-harris-kaempfen-in-den-swing-states-um-die-letzten-stimmen-a-8928a748-668c-4909-9ae1-88a76c032f02#ref=rss)
+### soldaten
 
-* [https://www.spiegel.de/wirtschaft/commerzbank-bereitet-grosses-aktien-rueckkaufprogramm-vor](https://www.spiegel.de/wirtschaft/commerzbank-bereitet-grosses-aktien-rueckkaufprogramm-vor-a-e54d7700-e6e7-43ea-bf53-616cacf27664#ref=rss)
+* [https://www.spiegel.de/ausland/kim-jong-uns-truppen-fuer-wladimir-putin-wie-die-nordkoreaner-gegen-die-ukraine-kaempfen-sollen](https://www.spiegel.de/ausland/kim-jong-uns-truppen-fuer-wladimir-putin-wie-die-nordkoreaner-gegen-die-ukraine-kaempfen-sollen-a-8cadf187-ff1e-4e9c-bc23-1c455b2184fc#ref=rss)
+* [https://www.spiegel.de/ausland/russland-us-verteidigungsministerium-meldet-weitere-soldaten-aus-nordkorea-in-kursk](https://www.spiegel.de/ausland/russland-us-verteidigungsministerium-meldet-weitere-soldaten-aus-nordkorea-in-kursk-a-dcf61819-22f3-4b9b-8544-7d3cce733457#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/ausland/kim-jong-uns-truppen-fuer-wladimir-putin-wie-die-nordkoreaner-gegen-die-ukraine-kaempfen-sollen](https://www.spiegel.de/ausland/kim-jong-uns-truppen-fuer-wladimir-putin-wie-die-nordkoreaner-gegen-die-ukraine-kaempfen-sollen-a-8cadf187-ff1e-4e9c-bc23-1c455b2184fc#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/harsefeld-in-niedersachsen-zwei-maenner-sterben-bei-unfall-in-tempo-30-zone-in-wohngebiet](https://www.spiegel.de/panorama/justiz/harsefeld-in-niedersachsen-zwei-maenner-sterben-bei-unfall-in-tempo-30-zone-in-wohngebiet-a-438b1116-be57-4ba2-94c2-39b8e1f7ca14#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/a-92-im-kreis-freising-unbekannter-verliert-sofa-auf-der-autobahn](https://www.spiegel.de/panorama/justiz/a-92-im-kreis-freising-unbekannter-verliert-sofa-auf-der-autobahn-a-14bb2666-e373-48d4-b0be-1e713c8fad4b#ref=rss)
+### uswahl
+
+* [https://www.spiegel.de/ausland/us-wahl-2024-waehler-ueber-donald-trump-ich-muss-ueber-seine-persoenlichkeit-hinwegsehen-und-fuer-seine-politik-stimmen](https://www.spiegel.de/ausland/us-wahl-2024-waehler-ueber-donald-trump-ich-muss-ueber-seine-persoenlichkeit-hinwegsehen-und-fuer-seine-politik-stimmen-a-6e0f5702-35aa-4d56-9439-e28b18e2ea68#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-news-heute-donald-trump-und-kamala-harris-kaempfen-in-den-swing-states-um-die-letzten-stimmen](https://www.spiegel.de/ausland/us-wahl-2024-news-heute-donald-trump-und-kamala-harris-kaempfen-in-den-swing-states-um-die-letzten-stimmen-a-8928a748-668c-4909-9ae1-88a76c032f02#ref=rss)
+### grünen
+
+* [https://www.spiegel.de/politik/deutschland/gruene-widerstand-gegen-fraktionsuebergreifende-resolution-zum-schutz-juedischen-lebens](https://www.spiegel.de/politik/deutschland/gruene-widerstand-gegen-fraktionsuebergreifende-resolution-zum-schutz-juedischen-lebens-a-7a6f70e3-6379-4483-8a36-d996df1cceb5#ref=rss)
+### filmindustrie
+
+* [https://www.spiegel.de/panorama/leute/filmindustrie-hollywood-reporter-enthuellt-gagen](https://www.spiegel.de/panorama/leute/filmindustrie-hollywood-reporter-enthuellt-gagen-a-8993ecb9-4f1e-43d2-a311-e5146b66083b#ref=rss)
+### hollywood
+
+* [https://www.spiegel.de/panorama/leute/filmindustrie-hollywood-reporter-enthuellt-gagen](https://www.spiegel.de/panorama/leute/filmindustrie-hollywood-reporter-enthuellt-gagen-a-8993ecb9-4f1e-43d2-a311-e5146b66083b#ref=rss)
+### reporter
+
+* [https://www.spiegel.de/panorama/leute/filmindustrie-hollywood-reporter-enthuellt-gagen](https://www.spiegel.de/panorama/leute/filmindustrie-hollywood-reporter-enthuellt-gagen-a-8993ecb9-4f1e-43d2-a311-e5146b66083b#ref=rss)
+### gagen
+
+* [https://www.spiegel.de/panorama/leute/filmindustrie-hollywood-reporter-enthuellt-gagen](https://www.spiegel.de/panorama/leute/filmindustrie-hollywood-reporter-enthuellt-gagen-a-8993ecb9-4f1e-43d2-a311-e5146b66083b#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/panorama/leute/filmindustrie-hollywood-reporter-enthuellt-gagen](https://www.spiegel.de/panorama/leute/filmindustrie-hollywood-reporter-enthuellt-gagen-a-8993ecb9-4f1e-43d2-a311-e5146b66083b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/uniper-erste-rueckzahlung-an-den-bund-dank-schadensersatzzahlungen-von-gazprom](https://www.spiegel.de/wirtschaft/unternehmen/uniper-erste-rueckzahlung-an-den-bund-dank-schadensersatzzahlungen-von-gazprom-a-2adf980c-0879-416f-aa64-cc53c96c7de4#ref=rss)
+### masada
+
+* [https://www.spiegel.de/ausland/masada-israel-wehrt-drohnenangriff-nahe-historischer-festung-ab](https://www.spiegel.de/ausland/masada-israel-wehrt-drohnenangriff-nahe-historischer-festung-ab-a-ebaf34c6-9f5d-422a-b901-c4574b55b224#ref=rss)
+### nahe
+
+* [https://www.spiegel.de/ausland/masada-israel-wehrt-drohnenangriff-nahe-historischer-festung-ab](https://www.spiegel.de/ausland/masada-israel-wehrt-drohnenangriff-nahe-historischer-festung-ab-a-ebaf34c6-9f5d-422a-b901-c4574b55b224#ref=rss)
+### massiven
+
+* [https://www.spiegel.de/ausland/masada-israel-wehrt-drohnenangriff-nahe-historischer-festung-ab](https://www.spiegel.de/ausland/masada-israel-wehrt-drohnenangriff-nahe-historischer-festung-ab-a-ebaf34c6-9f5d-422a-b901-c4574b55b224#ref=rss)
+* [https://www.spiegel.de/ausland/hisbollah-feuert-dutzende-raketen-auf-israel](https://www.spiegel.de/ausland/hisbollah-feuert-dutzende-raketen-auf-israel-a-3dacc356-31b2-4836-aec3-af5e166fe5c1#ref=rss)
+### landes
+
+* [https://www.spiegel.de/ausland/masada-israel-wehrt-drohnenangriff-nahe-historischer-festung-ab](https://www.spiegel.de/ausland/masada-israel-wehrt-drohnenangriff-nahe-historischer-festung-ab-a-ebaf34c6-9f5d-422a-b901-c4574b55b224#ref=rss)
+* [https://www.spiegel.de/ausland/schweden-regierung-stoppt-windkraftprojekte-in-der-ostsee-wegen-verteidigungsbedenken](https://www.spiegel.de/ausland/schweden-regierung-stoppt-windkraftprojekte-in-der-ostsee-wegen-verteidigungsbedenken-a-bf640b7a-d574-41ff-b689-f047dca666ec#ref=rss)
+### israelische
+
+* [https://www.spiegel.de/ausland/masada-israel-wehrt-drohnenangriff-nahe-historischer-festung-ab](https://www.spiegel.de/ausland/masada-israel-wehrt-drohnenangriff-nahe-historischer-festung-ab-a-ebaf34c6-9f5d-422a-b901-c4574b55b224#ref=rss)
+* [https://www.spiegel.de/ausland/hisbollah-feuert-dutzende-raketen-auf-israel](https://www.spiegel.de/ausland/hisbollah-feuert-dutzende-raketen-auf-israel-a-3dacc356-31b2-4836-aec3-af5e166fe5c1#ref=rss)
+### stockholm
+
+* [https://www.spiegel.de/auto/stockholm-innovative-faehre-setzt-auf-elektroantrieb-und-schwebende-kufentechnik](https://www.spiegel.de/auto/stockholm-innovative-faehre-setzt-auf-elektroantrieb-und-schwebende-kufentechnik-a-420e6c02-23da-46a2-9070-7749a7add87a#ref=rss)
+### fähre
+
+* [https://www.spiegel.de/auto/stockholm-innovative-faehre-setzt-auf-elektroantrieb-und-schwebende-kufentechnik](https://www.spiegel.de/auto/stockholm-innovative-faehre-setzt-auf-elektroantrieb-und-schwebende-kufentechnik-a-420e6c02-23da-46a2-9070-7749a7add87a#ref=rss)
+### setzt
+
+* [https://www.spiegel.de/auto/stockholm-innovative-faehre-setzt-auf-elektroantrieb-und-schwebende-kufentechnik](https://www.spiegel.de/auto/stockholm-innovative-faehre-setzt-auf-elektroantrieb-und-schwebende-kufentechnik-a-420e6c02-23da-46a2-9070-7749a7add87a#ref=rss)
+* [https://www.spiegel.de/ausland/hisbollah-feuert-dutzende-raketen-auf-israel](https://www.spiegel.de/ausland/hisbollah-feuert-dutzende-raketen-auf-israel-a-3dacc356-31b2-4836-aec3-af5e166fe5c1#ref=rss)
+### elektroantrieb
+
+* [https://www.spiegel.de/auto/stockholm-innovative-faehre-setzt-auf-elektroantrieb-und-schwebende-kufentechnik](https://www.spiegel.de/auto/stockholm-innovative-faehre-setzt-auf-elektroantrieb-und-schwebende-kufentechnik-a-420e6c02-23da-46a2-9070-7749a7add87a#ref=rss)
+### kufentechnik
+
+* [https://www.spiegel.de/auto/stockholm-innovative-faehre-setzt-auf-elektroantrieb-und-schwebende-kufentechnik](https://www.spiegel.de/auto/stockholm-innovative-faehre-setzt-auf-elektroantrieb-und-schwebende-kufentechnik-a-420e6c02-23da-46a2-9070-7749a7add87a#ref=rss)
+### schwedens
+
+* [https://www.spiegel.de/auto/stockholm-innovative-faehre-setzt-auf-elektroantrieb-und-schwebende-kufentechnik](https://www.spiegel.de/auto/stockholm-innovative-faehre-setzt-auf-elektroantrieb-und-schwebende-kufentechnik-a-420e6c02-23da-46a2-9070-7749a7add87a#ref=rss)
+* [https://www.spiegel.de/ausland/schweden-regierung-stoppt-windkraftprojekte-in-der-ostsee-wegen-verteidigungsbedenken](https://www.spiegel.de/ausland/schweden-regierung-stoppt-windkraftprojekte-in-der-ostsee-wegen-verteidigungsbedenken-a-bf640b7a-d574-41ff-b689-f047dca666ec#ref=rss)
+### profitiert
+
+* [https://www.spiegel.de/wirtschaft/service/butterpreise-auf-rekordhoch-wer-profitiert-von-den-hohen-verbraucherpreisen](https://www.spiegel.de/wirtschaft/service/butterpreise-auf-rekordhoch-wer-profitiert-von-den-hohen-verbraucherpreisen-a-b274de86-f802-493a-bc6f-f520b313f521#ref=rss)
+### afdpolitiker
+
+* [https://www.spiegel.de/panorama/justiz/razzia-gegen-mutmassliche-neonazi-terrorgruppe-acht-festnahmen](https://www.spiegel.de/panorama/justiz/razzia-gegen-mutmassliche-neonazi-terrorgruppe-acht-festnahmen-a-f02db8c9-0388-4d60-a9c8-d95c8a3b6721#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/politik/deutschland/asypolitik-mehr-als-60-prozent-der-abschiebungen-2024-laut-bericht-gescheitert](https://www.spiegel.de/politik/deutschland/asypolitik-mehr-als-60-prozent-der-abschiebungen-2024-laut-bericht-gescheitert-a-e738fbb2-f1fa-4266-b617-4b4a39adb10f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampelkoalition-mehrheit-der-bundesbuerger-lehnt-neuwahlen-laut-umfrage-ab](https://www.spiegel.de/politik/deutschland/ampelkoalition-mehrheit-der-bundesbuerger-lehnt-neuwahlen-laut-umfrage-ab-a-03975640-c917-41d2-a71b-eee08da2bc96#ref=rss)
+### prozent
+
+* [https://www.spiegel.de/politik/deutschland/asypolitik-mehr-als-60-prozent-der-abschiebungen-2024-laut-bericht-gescheitert](https://www.spiegel.de/politik/deutschland/asypolitik-mehr-als-60-prozent-der-abschiebungen-2024-laut-bericht-gescheitert-a-e738fbb2-f1fa-4266-b617-4b4a39adb10f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/boeing-streik-endet-beschaeftigte-nehmen-angebot-zur-lohnerhoehung-an](https://www.spiegel.de/wirtschaft/unternehmen/boeing-streik-endet-beschaeftigte-nehmen-angebot-zur-lohnerhoehung-an-a-3c6b1709-95fd-4f4d-9576-8a4a11d41d35#ref=rss)
+### bericht
+
+* [https://www.spiegel.de/politik/deutschland/asypolitik-mehr-als-60-prozent-der-abschiebungen-2024-laut-bericht-gescheitert](https://www.spiegel.de/politik/deutschland/asypolitik-mehr-als-60-prozent-der-abschiebungen-2024-laut-bericht-gescheitert-a-e738fbb2-f1fa-4266-b617-4b4a39adb10f#ref=rss)
+### zufolge
+
+* [https://www.spiegel.de/politik/deutschland/asypolitik-mehr-als-60-prozent-der-abschiebungen-2024-laut-bericht-gescheitert](https://www.spiegel.de/politik/deutschland/asypolitik-mehr-als-60-prozent-der-abschiebungen-2024-laut-bericht-gescheitert-a-e738fbb2-f1fa-4266-b617-4b4a39adb10f#ref=rss)
+* [https://www.spiegel.de/ausland/hisbollah-feuert-dutzende-raketen-auf-israel](https://www.spiegel.de/ausland/hisbollah-feuert-dutzende-raketen-auf-israel-a-3dacc356-31b2-4836-aec3-af5e166fe5c1#ref=rss)
+### viele
+
+* [https://www.spiegel.de/politik/deutschland/asypolitik-mehr-als-60-prozent-der-abschiebungen-2024-laut-bericht-gescheitert](https://www.spiegel.de/politik/deutschland/asypolitik-mehr-als-60-prozent-der-abschiebungen-2024-laut-bericht-gescheitert-a-e738fbb2-f1fa-4266-b617-4b4a39adb10f#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-waehler-ueber-donald-trump-ich-muss-ueber-seine-persoenlichkeit-hinwegsehen-und-fuer-seine-politik-stimmen](https://www.spiegel.de/ausland/us-wahl-2024-waehler-ueber-donald-trump-ich-muss-ueber-seine-persoenlichkeit-hinwegsehen-und-fuer-seine-politik-stimmen-a-6e0f5702-35aa-4d56-9439-e28b18e2ea68#ref=rss)
 ### max
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-max-verstappen-vor-titelkroenung-das-rennen-seines-lebens](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-max-verstappen-vor-titelkroenung-das-rennen-seines-lebens-a-696bc71e-5917-448c-bd15-db675f2177f4#ref=rss)
-### verstappen
+* [https://www.spiegel.de/netzwelt/web/max-schradin-vom-umstrittenen-9live-moderator-zum-gefeierten-twitch-star](https://www.spiegel.de/netzwelt/web/max-schradin-vom-umstrittenen-9live-moderator-zum-gefeierten-twitch-star-a-95b25a09-872e-4c2a-b695-2be79724249f#ref=rss)
+### schradin
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-max-verstappen-vor-titelkroenung-das-rennen-seines-lebens](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-max-verstappen-vor-titelkroenung-das-rennen-seines-lebens-a-696bc71e-5917-448c-bd15-db675f2177f4#ref=rss)
-### alleinstehende
+* [https://www.spiegel.de/netzwelt/web/max-schradin-vom-umstrittenen-9live-moderator-zum-gefeierten-twitch-star](https://www.spiegel.de/netzwelt/web/max-schradin-vom-umstrittenen-9live-moderator-zum-gefeierten-twitch-star-a-95b25a09-872e-4c2a-b695-2be79724249f#ref=rss)
+### landkreis
 
-* [https://www.spiegel.de/panorama/alleinstehende-frauen-mehr-rechte-fuer-solo-muetter](https://www.spiegel.de/panorama/alleinstehende-frauen-mehr-rechte-fuer-solo-muetter-a-0d54618f-b1fd-481e-8470-45fe0b965546#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/kirchseeon-im-landkreis-ebersberg-nadel-in-halloweensuessigkeit-entdeckt](https://www.spiegel.de/panorama/justiz/kirchseeon-im-landkreis-ebersberg-nadel-in-halloweensuessigkeit-entdeckt-a-25a0bc0c-50dc-4cd2-8d08-867222a9e804#ref=rss)
+### ebersberg
+
+* [https://www.spiegel.de/panorama/justiz/kirchseeon-im-landkreis-ebersberg-nadel-in-halloweensuessigkeit-entdeckt](https://www.spiegel.de/panorama/justiz/kirchseeon-im-landkreis-ebersberg-nadel-in-halloweensuessigkeit-entdeckt-a-25a0bc0c-50dc-4cd2-8d08-867222a9e804#ref=rss)
+### nadel
+
+* [https://www.spiegel.de/panorama/justiz/kirchseeon-im-landkreis-ebersberg-nadel-in-halloweensuessigkeit-entdeckt](https://www.spiegel.de/panorama/justiz/kirchseeon-im-landkreis-ebersberg-nadel-in-halloweensuessigkeit-entdeckt-a-25a0bc0c-50dc-4cd2-8d08-867222a9e804#ref=rss)
+### uniper
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/uniper-erste-rueckzahlung-an-den-bund-dank-schadensersatzzahlungen-von-gazprom](https://www.spiegel.de/wirtschaft/unternehmen/uniper-erste-rueckzahlung-an-den-bund-dank-schadensersatzzahlungen-von-gazprom-a-2adf980c-0879-416f-aa64-cc53c96c7de4#ref=rss)
+### schadensersatzzahlungen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/uniper-erste-rueckzahlung-an-den-bund-dank-schadensersatzzahlungen-von-gazprom](https://www.spiegel.de/wirtschaft/unternehmen/uniper-erste-rueckzahlung-an-den-bund-dank-schadensersatzzahlungen-von-gazprom-a-2adf980c-0879-416f-aa64-cc53c96c7de4#ref=rss)
+### konzern
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/uniper-erste-rueckzahlung-an-den-bund-dank-schadensersatzzahlungen-von-gazprom](https://www.spiegel.de/wirtschaft/unternehmen/uniper-erste-rueckzahlung-an-den-bund-dank-schadensersatzzahlungen-von-gazprom-a-2adf980c-0879-416f-aa64-cc53c96c7de4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/autozulieferer-schaeffler-baut-tausende-stellen-ab-auch-deutschland-betroffen](https://www.spiegel.de/wirtschaft/unternehmen/autozulieferer-schaeffler-baut-tausende-stellen-ab-auch-deutschland-betroffen-a-14f6739f-42f8-43d6-8a54-805f939a29f5#ref=rss)
+### drew
+
+* [https://www.spiegel.de/panorama/leute/drew-barrymore-und-adam-sandler-ueberraschende-reaktion-der-toechter-auf-50-first-dates](https://www.spiegel.de/panorama/leute/drew-barrymore-und-adam-sandler-ueberraschende-reaktion-der-toechter-auf-50-first-dates-a-587bd8ba-9696-4aaf-ae8d-015568680f2b#ref=rss)
+### adam
+
+* [https://www.spiegel.de/panorama/leute/drew-barrymore-und-adam-sandler-ueberraschende-reaktion-der-toechter-auf-50-first-dates](https://www.spiegel.de/panorama/leute/drew-barrymore-und-adam-sandler-ueberraschende-reaktion-der-toechter-auf-50-first-dates-a-587bd8ba-9696-4aaf-ae8d-015568680f2b#ref=rss)
+### reaktion
+
+* [https://www.spiegel.de/panorama/leute/drew-barrymore-und-adam-sandler-ueberraschende-reaktion-der-toechter-auf-50-first-dates](https://www.spiegel.de/panorama/leute/drew-barrymore-und-adam-sandler-ueberraschende-reaktion-der-toechter-auf-50-first-dates-a-587bd8ba-9696-4aaf-ae8d-015568680f2b#ref=rss)
+### töchter
+
+* [https://www.spiegel.de/panorama/leute/drew-barrymore-und-adam-sandler-ueberraschende-reaktion-der-toechter-auf-50-first-dates](https://www.spiegel.de/panorama/leute/drew-barrymore-und-adam-sandler-ueberraschende-reaktion-der-toechter-auf-50-first-dates-a-587bd8ba-9696-4aaf-ae8d-015568680f2b#ref=rss)
+### kamala
+
+* [https://www.spiegel.de/ausland/us-wahlkampf-im-endspurt-donald-trump-mit-beleidigungen-und-duesterkeit-kamala-harris-mit-versoehnenden-worten](https://www.spiegel.de/ausland/us-wahlkampf-im-endspurt-donald-trump-mit-beleidigungen-und-duesterkeit-kamala-harris-mit-versoehnenden-worten-a-0cbcfd6d-12a1-4ac4-afcd-a87784c0c6d1#ref=rss)
+### anhängern
+
+* [https://www.spiegel.de/ausland/us-wahlkampf-im-endspurt-donald-trump-mit-beleidigungen-und-duesterkeit-kamala-harris-mit-versoehnenden-worten](https://www.spiegel.de/ausland/us-wahlkampf-im-endspurt-donald-trump-mit-beleidigungen-und-duesterkeit-kamala-harris-mit-versoehnenden-worten-a-0cbcfd6d-12a1-4ac4-afcd-a87784c0c6d1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampelkoalition-mehrheit-der-bundesbuerger-lehnt-neuwahlen-laut-umfrage-ab](https://www.spiegel.de/politik/deutschland/ampelkoalition-mehrheit-der-bundesbuerger-lehnt-neuwahlen-laut-umfrage-ab-a-03975640-c917-41d2-a71b-eee08da2bc96#ref=rss)
+### angst
+
+* [https://www.spiegel.de/ausland/us-wahlkampf-im-endspurt-donald-trump-mit-beleidigungen-und-duesterkeit-kamala-harris-mit-versoehnenden-worten](https://www.spiegel.de/ausland/us-wahlkampf-im-endspurt-donald-trump-mit-beleidigungen-und-duesterkeit-kamala-harris-mit-versoehnenden-worten-a-0cbcfd6d-12a1-4ac4-afcd-a87784c0c6d1#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-news-heute-donald-trump-und-kamala-harris-kaempfen-in-den-swing-states-um-die-letzten-stimmen](https://www.spiegel.de/ausland/us-wahl-2024-news-heute-donald-trump-und-kamala-harris-kaempfen-in-den-swing-states-um-die-letzten-stimmen-a-8928a748-668c-4909-9ae1-88a76c032f02#ref=rss)
+### wahl
+
+* [https://www.spiegel.de/wirtschaft/soziales/wirtschaftskrise-und-us-wahlen-wie-sich-deutschland-selbst-retten-kann](https://www.spiegel.de/wirtschaft/soziales/wirtschaftskrise-und-us-wahlen-wie-sich-deutschland-selbst-retten-kann-a-3a302ac9-099a-49ce-820d-4cb1922c2bf3#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-waehler-ueber-donald-trump-ich-muss-ueber-seine-persoenlichkeit-hinwegsehen-und-fuer-seine-politik-stimmen](https://www.spiegel.de/ausland/us-wahl-2024-waehler-ueber-donald-trump-ich-muss-ueber-seine-persoenlichkeit-hinwegsehen-und-fuer-seine-politik-stimmen-a-6e0f5702-35aa-4d56-9439-e28b18e2ea68#ref=rss)
+### glücksatlas
+
+* [https://www.spiegel.de/panorama/gesellschaft/gluecksatlas-ueber-zufriedenheit-in-deutschland-das-corona-tief-ist-ueberwunden](https://www.spiegel.de/panorama/gesellschaft/gluecksatlas-ueber-zufriedenheit-in-deutschland-das-corona-tief-ist-ueberwunden-a-0e01f31e-fdcb-4123-9bac-f89bb1d84468#ref=rss)
+### überwunden
+
+* [https://www.spiegel.de/panorama/gesellschaft/gluecksatlas-ueber-zufriedenheit-in-deutschland-das-corona-tief-ist-ueberwunden](https://www.spiegel.de/panorama/gesellschaft/gluecksatlas-ueber-zufriedenheit-in-deutschland-das-corona-tief-ist-ueberwunden-a-0e01f31e-fdcb-4123-9bac-f89bb1d84468#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/panorama/gesellschaft/gluecksatlas-ueber-zufriedenheit-in-deutschland-das-corona-tief-ist-ueberwunden](https://www.spiegel.de/panorama/gesellschaft/gluecksatlas-ueber-zufriedenheit-in-deutschland-das-corona-tief-ist-ueberwunden-a-0e01f31e-fdcb-4123-9bac-f89bb1d84468#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/dgb-chefin-yasmin-fahimi-zur-ampel-krise-dieses-theater-verunsichert-die-menschen](https://www.spiegel.de/wirtschaft/soziales/dgb-chefin-yasmin-fahimi-zur-ampel-krise-dieses-theater-verunsichert-die-menschen-a-0bd8774d-dbd8-4ead-ac53-328cf9e3b643#ref=rss)
+### kim
+
+* [https://www.spiegel.de/ausland/kim-jong-uns-truppen-fuer-wladimir-putin-wie-die-nordkoreaner-gegen-die-ukraine-kaempfen-sollen](https://www.spiegel.de/ausland/kim-jong-uns-truppen-fuer-wladimir-putin-wie-die-nordkoreaner-gegen-die-ukraine-kaempfen-sollen-a-8cadf187-ff1e-4e9c-bc23-1c455b2184fc#ref=rss)
+### jong
+
+* [https://www.spiegel.de/ausland/kim-jong-uns-truppen-fuer-wladimir-putin-wie-die-nordkoreaner-gegen-die-ukraine-kaempfen-sollen](https://www.spiegel.de/ausland/kim-jong-uns-truppen-fuer-wladimir-putin-wie-die-nordkoreaner-gegen-die-ukraine-kaempfen-sollen-a-8cadf187-ff1e-4e9c-bc23-1c455b2184fc#ref=rss)
+### truppen
+
+* [https://www.spiegel.de/ausland/kim-jong-uns-truppen-fuer-wladimir-putin-wie-die-nordkoreaner-gegen-die-ukraine-kaempfen-sollen](https://www.spiegel.de/ausland/kim-jong-uns-truppen-fuer-wladimir-putin-wie-die-nordkoreaner-gegen-die-ukraine-kaempfen-sollen-a-8cadf187-ff1e-4e9c-bc23-1c455b2184fc#ref=rss)
+* [https://www.spiegel.de/ausland/russland-us-verteidigungsministerium-meldet-weitere-soldaten-aus-nordkorea-in-kursk](https://www.spiegel.de/ausland/russland-us-verteidigungsministerium-meldet-weitere-soldaten-aus-nordkorea-in-kursk-a-dcf61819-22f3-4b9b-8544-7d3cce733457#ref=rss)
+### putin
+
+* [https://www.spiegel.de/ausland/kim-jong-uns-truppen-fuer-wladimir-putin-wie-die-nordkoreaner-gegen-die-ukraine-kaempfen-sollen](https://www.spiegel.de/ausland/kim-jong-uns-truppen-fuer-wladimir-putin-wie-die-nordkoreaner-gegen-die-ukraine-kaempfen-sollen-a-8cadf187-ff1e-4e9c-bc23-1c455b2184fc#ref=rss)
+### stimmen
+
+* [https://www.spiegel.de/ausland/us-wahl-2024-waehler-ueber-donald-trump-ich-muss-ueber-seine-persoenlichkeit-hinwegsehen-und-fuer-seine-politik-stimmen](https://www.spiegel.de/ausland/us-wahl-2024-waehler-ueber-donald-trump-ich-muss-ueber-seine-persoenlichkeit-hinwegsehen-und-fuer-seine-politik-stimmen-a-6e0f5702-35aa-4d56-9439-e28b18e2ea68#ref=rss)
+### vier
+
+* [https://www.spiegel.de/ausland/us-wahl-2024-waehler-ueber-donald-trump-ich-muss-ueber-seine-persoenlichkeit-hinwegsehen-und-fuer-seine-politik-stimmen](https://www.spiegel.de/ausland/us-wahl-2024-waehler-ueber-donald-trump-ich-muss-ueber-seine-persoenlichkeit-hinwegsehen-und-fuer-seine-politik-stimmen-a-6e0f5702-35aa-4d56-9439-e28b18e2ea68#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/boeing-streik-endet-beschaeftigte-nehmen-angebot-zur-lohnerhoehung-an](https://www.spiegel.de/wirtschaft/unternehmen/boeing-streik-endet-beschaeftigte-nehmen-angebot-zur-lohnerhoehung-an-a-3c6b1709-95fd-4f4d-9576-8a4a11d41d35#ref=rss)
+### wohngebiet
+
+* [https://www.spiegel.de/panorama/justiz/harsefeld-in-niedersachsen-zwei-maenner-sterben-bei-unfall-in-tempo-30-zone-in-wohngebiet](https://www.spiegel.de/panorama/justiz/harsefeld-in-niedersachsen-zwei-maenner-sterben-bei-unfall-in-tempo-30-zone-in-wohngebiet-a-438b1116-be57-4ba2-94c2-39b8e1f7ca14#ref=rss)
+### fuhr
+
+* [https://www.spiegel.de/panorama/justiz/harsefeld-in-niedersachsen-zwei-maenner-sterben-bei-unfall-in-tempo-30-zone-in-wohngebiet](https://www.spiegel.de/panorama/justiz/harsefeld-in-niedersachsen-zwei-maenner-sterben-bei-unfall-in-tempo-30-zone-in-wohngebiet-a-438b1116-be57-4ba2-94c2-39b8e1f7ca14#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/a-92-im-kreis-freising-unbekannter-verliert-sofa-auf-der-autobahn](https://www.spiegel.de/panorama/justiz/a-92-im-kreis-freising-unbekannter-verliert-sofa-auf-der-autobahn-a-14bb2666-e373-48d4-b0be-1e713c8fad4b#ref=rss)
+### fahrer
+
+* [https://www.spiegel.de/panorama/justiz/harsefeld-in-niedersachsen-zwei-maenner-sterben-bei-unfall-in-tempo-30-zone-in-wohngebiet](https://www.spiegel.de/panorama/justiz/harsefeld-in-niedersachsen-zwei-maenner-sterben-bei-unfall-in-tempo-30-zone-in-wohngebiet-a-438b1116-be57-4ba2-94c2-39b8e1f7ca14#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/a-92-im-kreis-freising-unbekannter-verliert-sofa-auf-der-autobahn](https://www.spiegel.de/panorama/justiz/a-92-im-kreis-freising-unbekannter-verliert-sofa-auf-der-autobahn-a-14bb2666-e373-48d4-b0be-1e713c8fad4b#ref=rss)
+### autozulieferer
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/autozulieferer-schaeffler-baut-tausende-stellen-ab-auch-deutschland-betroffen](https://www.spiegel.de/wirtschaft/unternehmen/autozulieferer-schaeffler-baut-tausende-stellen-ab-auch-deutschland-betroffen-a-14f6739f-42f8-43d6-8a54-805f939a29f5#ref=rss)
+### schaeffler
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/autozulieferer-schaeffler-baut-tausende-stellen-ab-auch-deutschland-betroffen](https://www.spiegel.de/wirtschaft/unternehmen/autozulieferer-schaeffler-baut-tausende-stellen-ab-auch-deutschland-betroffen-a-14f6739f-42f8-43d6-8a54-805f939a29f5#ref=rss)
+### betroffen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/autozulieferer-schaeffler-baut-tausende-stellen-ab-auch-deutschland-betroffen](https://www.spiegel.de/wirtschaft/unternehmen/autozulieferer-schaeffler-baut-tausende-stellen-ab-auch-deutschland-betroffen-a-14f6739f-42f8-43d6-8a54-805f939a29f5#ref=rss)
+### dennis
+
+* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-fuehrt-brooklyn-nets-zum-sieg-franz-und-moritz-wagner-verlieren-erneut](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-fuehrt-brooklyn-nets-zum-sieg-franz-und-moritz-wagner-verlieren-erneut-a-0aae3dad-65d3-480c-8b14-e30d50f6f7bc#ref=rss)
+### schröder
+
+* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-fuehrt-brooklyn-nets-zum-sieg-franz-und-moritz-wagner-verlieren-erneut](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-fuehrt-brooklyn-nets-zum-sieg-franz-und-moritz-wagner-verlieren-erneut-a-0aae3dad-65d3-480c-8b14-e30d50f6f7bc#ref=rss)
+### brooklyn
+
+* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-fuehrt-brooklyn-nets-zum-sieg-franz-und-moritz-wagner-verlieren-erneut](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-fuehrt-brooklyn-nets-zum-sieg-franz-und-moritz-wagner-verlieren-erneut-a-0aae3dad-65d3-480c-8b14-e30d50f6f7bc#ref=rss)
+### nets
+
+* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-fuehrt-brooklyn-nets-zum-sieg-franz-und-moritz-wagner-verlieren-erneut](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-fuehrt-brooklyn-nets-zum-sieg-franz-und-moritz-wagner-verlieren-erneut-a-0aae3dad-65d3-480c-8b14-e30d50f6f7bc#ref=rss)
+### sieg
+
+* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-fuehrt-brooklyn-nets-zum-sieg-franz-und-moritz-wagner-verlieren-erneut](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-fuehrt-brooklyn-nets-zum-sieg-franz-und-moritz-wagner-verlieren-erneut-a-0aae3dad-65d3-480c-8b14-e30d50f6f7bc#ref=rss)
+### franz
+
+* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-fuehrt-brooklyn-nets-zum-sieg-franz-und-moritz-wagner-verlieren-erneut](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-fuehrt-brooklyn-nets-zum-sieg-franz-und-moritz-wagner-verlieren-erneut-a-0aae3dad-65d3-480c-8b14-e30d50f6f7bc#ref=rss)
+### moritz
+
+* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-fuehrt-brooklyn-nets-zum-sieg-franz-und-moritz-wagner-verlieren-erneut](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-fuehrt-brooklyn-nets-zum-sieg-franz-und-moritz-wagner-verlieren-erneut-a-0aae3dad-65d3-480c-8b14-e30d50f6f7bc#ref=rss)
+### wagner
+
+* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-fuehrt-brooklyn-nets-zum-sieg-franz-und-moritz-wagner-verlieren-erneut](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-fuehrt-brooklyn-nets-zum-sieg-franz-und-moritz-wagner-verlieren-erneut-a-0aae3dad-65d3-480c-8b14-e30d50f6f7bc#ref=rss)
+### sofa
+
+* [https://www.spiegel.de/panorama/justiz/a-92-im-kreis-freising-unbekannter-verliert-sofa-auf-der-autobahn](https://www.spiegel.de/panorama/justiz/a-92-im-kreis-freising-unbekannter-verliert-sofa-auf-der-autobahn-a-14bb2666-e373-48d4-b0be-1e713c8fad4b#ref=rss)
+### ostsee
+
+* [https://www.spiegel.de/ausland/schweden-regierung-stoppt-windkraftprojekte-in-der-ostsee-wegen-verteidigungsbedenken](https://www.spiegel.de/ausland/schweden-regierung-stoppt-windkraftprojekte-in-der-ostsee-wegen-verteidigungsbedenken-a-bf640b7a-d574-41ff-b689-f047dca666ec#ref=rss)
+### angebot
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/boeing-streik-endet-beschaeftigte-nehmen-angebot-zur-lohnerhoehung-an](https://www.spiegel.de/wirtschaft/unternehmen/boeing-streik-endet-beschaeftigte-nehmen-angebot-zur-lohnerhoehung-an-a-3c6b1709-95fd-4f4d-9576-8a4a11d41d35#ref=rss)
+### hugh
+
+* [https://www.spiegel.de/panorama/leute/hugh-grant-spielt-in-heretic-erstmals-eine-horrorfilm-hauptrolle](https://www.spiegel.de/panorama/leute/hugh-grant-spielt-in-heretic-erstmals-eine-horrorfilm-hauptrolle-a-b0db0b24-8a73-4527-b945-31337b564ec5#ref=rss)
+### grant
+
+* [https://www.spiegel.de/panorama/leute/hugh-grant-spielt-in-heretic-erstmals-eine-horrorfilm-hauptrolle](https://www.spiegel.de/panorama/leute/hugh-grant-spielt-in-heretic-erstmals-eine-horrorfilm-hauptrolle-a-b0db0b24-8a73-4527-b945-31337b564ec5#ref=rss)
+### spielt
+
+* [https://www.spiegel.de/panorama/leute/hugh-grant-spielt-in-heretic-erstmals-eine-horrorfilm-hauptrolle](https://www.spiegel.de/panorama/leute/hugh-grant-spielt-in-heretic-erstmals-eine-horrorfilm-hauptrolle-a-b0db0b24-8a73-4527-b945-31337b564ec5#ref=rss)
+### heretic
+
+* [https://www.spiegel.de/panorama/leute/hugh-grant-spielt-in-heretic-erstmals-eine-horrorfilm-hauptrolle](https://www.spiegel.de/panorama/leute/hugh-grant-spielt-in-heretic-erstmals-eine-horrorfilm-hauptrolle-a-b0db0b24-8a73-4527-b945-31337b564ec5#ref=rss)
+### erstmals
+
+* [https://www.spiegel.de/panorama/leute/hugh-grant-spielt-in-heretic-erstmals-eine-horrorfilm-hauptrolle](https://www.spiegel.de/panorama/leute/hugh-grant-spielt-in-heretic-erstmals-eine-horrorfilm-hauptrolle-a-b0db0b24-8a73-4527-b945-31337b564ec5#ref=rss)
+### horrorfilmhauptrolle
+
+* [https://www.spiegel.de/panorama/leute/hugh-grant-spielt-in-heretic-erstmals-eine-horrorfilm-hauptrolle](https://www.spiegel.de/panorama/leute/hugh-grant-spielt-in-heretic-erstmals-eine-horrorfilm-hauptrolle-a-b0db0b24-8a73-4527-b945-31337b564ec5#ref=rss)
+### ampelkoalition
+
+* [https://www.spiegel.de/politik/deutschland/ampelkoalition-mehrheit-der-bundesbuerger-lehnt-neuwahlen-laut-umfrage-ab](https://www.spiegel.de/politik/deutschland/ampelkoalition-mehrheit-der-bundesbuerger-lehnt-neuwahlen-laut-umfrage-ab-a-03975640-c917-41d2-a71b-eee08da2bc96#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/dgb-chefin-yasmin-fahimi-zur-ampel-krise-dieses-theater-verunsichert-die-menschen](https://www.spiegel.de/wirtschaft/soziales/dgb-chefin-yasmin-fahimi-zur-ampel-krise-dieses-theater-verunsichert-die-menschen-a-0bd8774d-dbd8-4ead-ac53-328cf9e3b643#ref=rss)
+### neuwahlen
+
+* [https://www.spiegel.de/politik/deutschland/ampelkoalition-mehrheit-der-bundesbuerger-lehnt-neuwahlen-laut-umfrage-ab](https://www.spiegel.de/politik/deutschland/ampelkoalition-mehrheit-der-bundesbuerger-lehnt-neuwahlen-laut-umfrage-ab-a-03975640-c917-41d2-a71b-eee08da2bc96#ref=rss)
+### umfrage
+
+* [https://www.spiegel.de/politik/deutschland/ampelkoalition-mehrheit-der-bundesbuerger-lehnt-neuwahlen-laut-umfrage-ab](https://www.spiegel.de/politik/deutschland/ampelkoalition-mehrheit-der-bundesbuerger-lehnt-neuwahlen-laut-umfrage-ab-a-03975640-c917-41d2-a71b-eee08da2bc96#ref=rss)
+### yasmin
+
+* [https://www.spiegel.de/wirtschaft/soziales/dgb-chefin-yasmin-fahimi-zur-ampel-krise-dieses-theater-verunsichert-die-menschen](https://www.spiegel.de/wirtschaft/soziales/dgb-chefin-yasmin-fahimi-zur-ampel-krise-dieses-theater-verunsichert-die-menschen-a-0bd8774d-dbd8-4ead-ac53-328cf9e3b643#ref=rss)
+### fahimi
+
+* [https://www.spiegel.de/wirtschaft/soziales/dgb-chefin-yasmin-fahimi-zur-ampel-krise-dieses-theater-verunsichert-die-menschen](https://www.spiegel.de/wirtschaft/soziales/dgb-chefin-yasmin-fahimi-zur-ampel-krise-dieses-theater-verunsichert-die-menschen-a-0bd8774d-dbd8-4ead-ac53-328cf9e3b643#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/wirtschaft/soziales/dgb-chefin-yasmin-fahimi-zur-ampel-krise-dieses-theater-verunsichert-die-menschen](https://www.spiegel.de/wirtschaft/soziales/dgb-chefin-yasmin-fahimi-zur-ampel-krise-dieses-theater-verunsichert-die-menschen-a-0bd8774d-dbd8-4ead-ac53-328cf9e3b643#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gruene-widerstand-gegen-fraktionsuebergreifende-resolution-zum-schutz-juedischen-lebens](https://www.spiegel.de/politik/deutschland/gruene-widerstand-gegen-fraktionsuebergreifende-resolution-zum-schutz-juedischen-lebens-a-7a6f70e3-6379-4483-8a36-d996df1cceb5#ref=rss)
+### nordkorea
+
+* [https://www.spiegel.de/ausland/russland-us-verteidigungsministerium-meldet-weitere-soldaten-aus-nordkorea-in-kursk](https://www.spiegel.de/ausland/russland-us-verteidigungsministerium-meldet-weitere-soldaten-aus-nordkorea-in-kursk-a-dcf61819-22f3-4b9b-8544-7d3cce733457#ref=rss)
+### kursk
+
+* [https://www.spiegel.de/ausland/russland-us-verteidigungsministerium-meldet-weitere-soldaten-aus-nordkorea-in-kursk](https://www.spiegel.de/ausland/russland-us-verteidigungsministerium-meldet-weitere-soldaten-aus-nordkorea-in-kursk-a-dcf61819-22f3-4b9b-8544-7d3cce733457#ref=rss)
+### hisbollah
+
+* [https://www.spiegel.de/ausland/hisbollah-feuert-dutzende-raketen-auf-israel](https://www.spiegel.de/ausland/hisbollah-feuert-dutzende-raketen-auf-israel-a-3dacc356-31b2-4836-aec3-af5e166fe5c1#ref=rss)
 
