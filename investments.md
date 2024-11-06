@@ -5,11 +5,11 @@
 
 ```
 date, investment, buy price, sell price
-2024-10-30 10:10:11, 1-EUR, 1.07 USD, 1.07 USD
-2024-10-30 10:10:11, 1-EUR, 7.68 CNY, 7.68 CNY
-2024-10-30 10:10:11, crude-oil-brent-barrel, 71.5 USD, 71.5 USD
-2024-10-30 10:10:12, gold-10g, 851.27 EUR, 809.71 EUR
-2024-10-30 10:10:17, lego-2019-30365-1-satellit, 5.0 USD, 5.0 USD
-2024-10-30 10:10:18, lego-2019-60224-1-satellitenwartung, 15.0 USD, 15.0 USD
-2024-10-30 10:10:19, lego-2019-60225-1-rovertestfahrt, 29.0 USD, 29.0 USD
+2024-11-06 10:10:06, 1-EUR, 1.08 USD, 1.08 USD
+2024-11-06 10:10:06, 1-EUR, 7.74 CNY, 7.74 CNY
+2024-11-06 10:10:06, crude-oil-brent-barrel, 74.66 USD, 74.66 USD
+2024-11-06 10:10:07, gold-10g, 840.03 EUR, 798.67 EUR
+2024-11-06 10:10:12, lego-2019-30365-1-satellit, 5.0 USD, 5.0 USD
+2024-11-06 10:10:13, lego-2019-60224-1-satellitenwartung, 15.0 USD, 15.0 USD
+2024-11-06 10:10:14, lego-2019-60225-1-rovertestfahrt, 27.0 USD, 27.0 USD
 ```
