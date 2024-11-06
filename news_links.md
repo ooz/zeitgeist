@@ -4,309 +4,376 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### gestorben
-
-* [https://www.spiegel.de/sport/fussball/peru-fussballspieler-bei-blitzeinschlag-getoetet-vier-mitspieler-verletzt](https://www.spiegel.de/sport/fussball/peru-fussballspieler-bei-blitzeinschlag-getoetet-vier-mitspieler-verletzt-a-5a1fcf9b-1ffd-46d6-b78e-96a31bcb33ee#ref=rss)
-* [https://www.spiegel.de/ausland/jamshid-sharmahd-auswaertiges-amt-widerspricht-irans-darstellung-zu-tod-von-deutsch-iraner](https://www.spiegel.de/ausland/jamshid-sharmahd-auswaertiges-amt-widerspricht-irans-darstellung-zu-tod-von-deutsch-iraner-a-8ac6d071-5c0a-4974-aaf9-db6ca6f59b34#ref=rss)
-* [https://www.spiegel.de/panorama/nikolas-haeckel-ex-buergermeister-von-sylt-ist-tot](https://www.spiegel.de/panorama/nikolas-haeckel-ex-buergermeister-von-sylt-ist-tot-a-b69e8bb1-72ff-4e4f-9ddd-4c57407f74a0#ref=rss)
-### christian
-
-* [https://www.spiegel.de/wirtschaft/ampelkoalition-ist-christian-lindner-der-neue-lambsdorff-oder-doch-nur-ein-herzog](https://www.spiegel.de/wirtschaft/ampelkoalition-ist-christian-lindner-der-neue-lambsdorff-oder-doch-nur-ein-herzog-a-95ea639d-d994-47dc-a891-5477e8a11079#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-wirft-christian-lindner-kindereien-vor](https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-wirft-christian-lindner-kindereien-vor-a-79acd2b6-251b-4c72-9959-26566160789b#ref=rss)
-### lindner
-
-* [https://www.spiegel.de/wirtschaft/ampelkoalition-ist-christian-lindner-der-neue-lambsdorff-oder-doch-nur-ein-herzog](https://www.spiegel.de/wirtschaft/ampelkoalition-ist-christian-lindner-der-neue-lambsdorff-oder-doch-nur-ein-herzog-a-95ea639d-d994-47dc-a891-5477e8a11079#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-wirft-christian-lindner-kindereien-vor](https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-wirft-christian-lindner-kindereien-vor-a-79acd2b6-251b-4c72-9959-26566160789b#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/ampelkoalition-ist-christian-lindner-der-neue-lambsdorff-oder-doch-nur-ein-herzog](https://www.spiegel.de/wirtschaft/ampelkoalition-ist-christian-lindner-der-neue-lambsdorff-oder-doch-nur-ein-herzog-a-95ea639d-d994-47dc-a891-5477e8a11079#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/greenpeace-kritisiert-geomar-umweltschuetzer-werfen-forschern-befangenheit-vor](https://www.spiegel.de/wissenschaft/natur/greenpeace-kritisiert-geomar-umweltschuetzer-werfen-forschern-befangenheit-vor-a-ed3a1d0f-9678-4de3-8943-a50c89a2d4b3#ref=rss)
-* [https://www.spiegel.de/sport/olympia/sportfoerdergesetz-verein-draengt-auf-existenzsicherung-fuer-sportler](https://www.spiegel.de/sport/olympia/sportfoerdergesetz-verein-draengt-auf-existenzsicherung-fuer-sportler-a-fef2f4c2-221b-4bb0-a69b-c199c99778ce#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/schleuser-prozess-in-traunstein-15-jahre-haft-fuer-fahrer-nach-toedlicher-fahrt-auf-der-a94](https://www.spiegel.de/panorama/justiz/schleuser-prozess-in-traunstein-15-jahre-haft-fuer-fahrer-nach-toedlicher-fahrt-auf-der-a94-a-344beb25-0ee6-42c9-9302-14cc83a45a81#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wissenschaft/hollywoodfilme-sind-zunehmend-diverser-besetzt](https://www.spiegel.de/wissenschaft/hollywoodfilme-sind-zunehmend-diverser-besetzt-a-fd74e920-21f8-43d0-920d-7bec350aefe8#ref=rss)
-* [https://www.spiegel.de/kultur/autorin-mithu-sanyal-zu-antisemitismus-vorwuerfen-mehr-empathie-fuer-die-einen-bedeutet-mehr-empathie-fuer-alle](https://www.spiegel.de/kultur/autorin-mithu-sanyal-zu-antisemitismus-vorwuerfen-mehr-empathie-fuer-die-einen-bedeutet-mehr-empathie-fuer-alle-a-0773cc6e-cc69-4d48-84c8-2d551b8d7b49#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/us-wahl-2024-donald-trump-bekommt-extra-sendezeit-bei-nbc](https://www.spiegel.de/ausland/us-wahl-2024-donald-trump-bekommt-extra-sendezeit-bei-nbc-a-7f302c50-1fe0-413d-bc7f-779fd6390fa2#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahlkampf-2024-kamala-harris-verlegt-veranstaltungsort-in-pittsburgh-aus-sicherheitsgruenden](https://www.spiegel.de/ausland/us-wahlkampf-2024-kamala-harris-verlegt-veranstaltungsort-in-pittsburgh-aus-sicherheitsgruenden-a-5cb6ed43-2c40-4fdf-8829-3e5dc4e5cb35#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/elon-musks-falsche-behauptungen-zur-wahl-wurden-milliardenfach-angezeigt](https://www.spiegel.de/netzwelt/web/elon-musks-falsche-behauptungen-zur-wahl-wurden-milliardenfach-angezeigt-a-0ae55175-79a4-4525-92c3-bfa53bfafca6#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/us-wahl-2024-donald-trump-bekommt-extra-sendezeit-bei-nbc](https://www.spiegel.de/ausland/us-wahl-2024-donald-trump-bekommt-extra-sendezeit-bei-nbc-a-7f302c50-1fe0-413d-bc7f-779fd6390fa2#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahlkampf-2024-kamala-harris-verlegt-veranstaltungsort-in-pittsburgh-aus-sicherheitsgruenden](https://www.spiegel.de/ausland/us-wahlkampf-2024-kamala-harris-verlegt-veranstaltungsort-in-pittsburgh-aus-sicherheitsgruenden-a-5cb6ed43-2c40-4fdf-8829-3e5dc4e5cb35#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/elon-musks-falsche-behauptungen-zur-wahl-wurden-milliardenfach-angezeigt](https://www.spiegel.de/netzwelt/web/elon-musks-falsche-behauptungen-zur-wahl-wurden-milliardenfach-angezeigt-a-0ae55175-79a4-4525-92c3-bfa53bfafca6#ref=rss)
-### spd
+* [https://www.spiegel.de/ausland/usa-donald-trump-gewinnt-praesidentschaftswahl](https://www.spiegel.de/ausland/usa-donald-trump-gewinnt-praesidentschaftswahl-a-16840abb-0976-422f-9f1c-0b4eaaf2eeba#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-erklaert-sich-zum-sieger-der-us-wahl-einordnung-von-spiegel-korrespondent-roland-nelles](https://www.spiegel.de/ausland/donald-trump-erklaert-sich-zum-sieger-der-us-wahl-einordnung-von-spiegel-korrespondent-roland-nelles-a-fa6abc4a-74e3-4fac-9fc2-9679209225f5#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-die-demokraten-haben-zu-viel-gewarnt-und-zu-wenig-gewagt-bei-der-us-wahl-kommentar](https://www.spiegel.de/ausland/donald-trump-die-demokraten-haben-zu-viel-gewarnt-und-zu-wenig-gewagt-bei-der-us-wahl-kommentar-a-464ab152-a1e6-40be-9fb6-039b31554f04#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-live-ticker-donald-trump-erklaert-sich-zum-sieger](https://www.spiegel.de/ausland/us-wahl-2024-live-ticker-donald-trump-erklaert-sich-zum-sieger-a-a0bb0dfa-bb34-4a3c-ade8-ec7808da33dc#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-so-reagiert-die-politische-welt-auf-trumps-triumph](https://www.spiegel.de/ausland/us-wahl-so-reagiert-die-politische-welt-auf-trumps-triumph-a-b7aaa4ea-c142-453b-8077-9fda5111f821#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-aktie-gewinnt-angesichts-von-wahrscheinlichem-trump-sieg-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/tesla-aktie-gewinnt-angesichts-von-wahrscheinlichem-trump-sieg-deutlich-a-88b76931-0482-47c2-808d-5a83b7005e07#ref=rss)
+* [https://www.spiegel.de/ausland/us-praesidentschaftswahl-donald-trump-erklaert-sich-zum-sieger-und-verspricht-ein-goldenes-zeitalter-fuer-amerika](https://www.spiegel.de/ausland/us-praesidentschaftswahl-donald-trump-erklaert-sich-zum-sieger-und-verspricht-ein-goldenes-zeitalter-fuer-amerika-a-76fa3823-a3f6-40c9-bb76-493f338540d4#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wahlsieg-ueber-kamala-harris-der-schock](https://www.spiegel.de/ausland/donald-trump-wahlsieg-ueber-kamala-harris-der-schock-a-ebf81721-3f9a-4a04-9237-5e00c0394c1b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/industrie-auftraege-steigen-oekonomen-fuerchten-kurze-dauer-wegen-trump](https://www.spiegel.de/wirtschaft/unternehmen/industrie-auftraege-steigen-oekonomen-fuerchten-kurze-dauer-wegen-trump-a-2419d3d1-8fc8-4565-b41d-17c491712e61#ref=rss)
+* [https://www.spiegel.de/ausland/das-sagt-donald-trump-ueber-den-wahlausgang](https://www.spiegel.de/ausland/das-sagt-donald-trump-ueber-den-wahlausgang-a-cab55ce2-e7dd-4916-a1bb-13885304be13#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-pfade-zur-praesidentschaft-so-koennen-harris-und-trump-gewinnen](https://www.spiegel.de/ausland/us-wahl-2024-pfade-zur-praesidentschaft-so-koennen-harris-und-trump-gewinnen-a-b5b87376-4ccb-47aa-a719-a50064c81300#ref=rss)
+### donald
 
-* [https://www.spiegel.de/politik/deutschland/sachsen-michael-kretschmer-trifft-sich-mit-afd-chef-joerg-urban-zu-vertraulichem-gespraech](https://www.spiegel.de/politik/deutschland/sachsen-michael-kretschmer-trifft-sich-mit-afd-chef-joerg-urban-zu-vertraulichem-gespraech-a-d1a11f11-4df2-4d98-8e55-1b8dad5d1328#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-wirft-christian-lindner-kindereien-vor](https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-wirft-christian-lindner-kindereien-vor-a-79acd2b6-251b-4c72-9959-26566160789b#ref=rss)
-### koalition
-
-* [https://www.spiegel.de/wirtschaft/ampelkoalition-ist-christian-lindner-der-neue-lambsdorff-oder-doch-nur-ein-herzog](https://www.spiegel.de/wirtschaft/ampelkoalition-ist-christian-lindner-der-neue-lambsdorff-oder-doch-nur-ein-herzog-a-95ea639d-d994-47dc-a891-5477e8a11079#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ampel-krise-wege-zu-neuwahlen-was-passiert-wenn-die-koalition-zerbricht](https://www.spiegel.de/politik/deutschland/ampel-krise-wege-zu-neuwahlen-was-passiert-wenn-die-koalition-zerbricht-a-b301913b-5c76-4b91-be59-f48b9dc21bb2#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-gewinnt-praesidentschaftswahl](https://www.spiegel.de/ausland/usa-donald-trump-gewinnt-praesidentschaftswahl-a-16840abb-0976-422f-9f1c-0b4eaaf2eeba#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-erklaert-sich-zum-sieger-der-us-wahl-einordnung-von-spiegel-korrespondent-roland-nelles](https://www.spiegel.de/ausland/donald-trump-erklaert-sich-zum-sieger-der-us-wahl-einordnung-von-spiegel-korrespondent-roland-nelles-a-fa6abc4a-74e3-4fac-9fc2-9679209225f5#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-die-demokraten-haben-zu-viel-gewarnt-und-zu-wenig-gewagt-bei-der-us-wahl-kommentar](https://www.spiegel.de/ausland/donald-trump-die-demokraten-haben-zu-viel-gewarnt-und-zu-wenig-gewagt-bei-der-us-wahl-kommentar-a-464ab152-a1e6-40be-9fb6-039b31554f04#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-live-ticker-donald-trump-erklaert-sich-zum-sieger](https://www.spiegel.de/ausland/us-wahl-2024-live-ticker-donald-trump-erklaert-sich-zum-sieger-a-a0bb0dfa-bb34-4a3c-ade8-ec7808da33dc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/die-linke-vorsitzende-ines-schwerdtner-fordert-ampel-zum-zusammenbleiben-auf](https://www.spiegel.de/politik/deutschland/die-linke-vorsitzende-ines-schwerdtner-fordert-ampel-zum-zusammenbleiben-auf-a-1f992318-1670-400c-b44e-5ed0fa8778dc#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-so-reagiert-die-politische-welt-auf-trumps-triumph](https://www.spiegel.de/ausland/us-wahl-so-reagiert-die-politische-welt-auf-trumps-triumph-a-b7aaa4ea-c142-453b-8077-9fda5111f821#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-aktie-gewinnt-angesichts-von-wahrscheinlichem-trump-sieg-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/tesla-aktie-gewinnt-angesichts-von-wahrscheinlichem-trump-sieg-deutlich-a-88b76931-0482-47c2-808d-5a83b7005e07#ref=rss)
+* [https://www.spiegel.de/ausland/us-praesidentschaftswahl-donald-trump-erklaert-sich-zum-sieger-und-verspricht-ein-goldenes-zeitalter-fuer-amerika](https://www.spiegel.de/ausland/us-praesidentschaftswahl-donald-trump-erklaert-sich-zum-sieger-und-verspricht-ein-goldenes-zeitalter-fuer-amerika-a-76fa3823-a3f6-40c9-bb76-493f338540d4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-chef-lars-klingbeil-dringt-auf-kompromissbereitschaft-bei-ampel-krisentreffen](https://www.spiegel.de/politik/deutschland/spd-chef-lars-klingbeil-dringt-auf-kompromissbereitschaft-bei-ampel-krisentreffen-a-87c6718d-f340-4c47-affc-b4bee0396a3f#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wahlsieg-ueber-kamala-harris-der-schock](https://www.spiegel.de/ausland/donald-trump-wahlsieg-ueber-kamala-harris-der-schock-a-ebf81721-3f9a-4a04-9237-5e00c0394c1b#ref=rss)
+* [https://www.spiegel.de/ausland/das-sagt-donald-trump-ueber-den-wahlausgang](https://www.spiegel.de/ausland/das-sagt-donald-trump-ueber-den-wahlausgang-a-cab55ce2-e7dd-4916-a1bb-13885304be13#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-pfade-zur-praesidentschaft-so-koennen-harris-und-trump-gewinnen](https://www.spiegel.de/ausland/us-wahl-2024-pfade-zur-praesidentschaft-so-koennen-harris-und-trump-gewinnen-a-b5b87376-4ccb-47aa-a719-a50064c81300#ref=rss)
 ### uswahl
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-saechsische-separatisten-ukraine-krieg-most-mysterious-song-on-the-internet-us-wahl-2024](https://www.spiegel.de/politik/deutschland/news-des-tages-saechsische-separatisten-ukraine-krieg-most-mysterious-song-on-the-internet-us-wahl-2024-a-c01f2fff-bda7-4e45-9021-140278fbff53#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-die-wahl-laeuft-und-millionen-von-amerikanern-haben-laengst-abgestimmt](https://www.spiegel.de/ausland/us-wahl-2024-die-wahl-laeuft-und-millionen-von-amerikanern-haben-laengst-abgestimmt-a-6d2e251c-6f79-45f6-97a8-431788f17f89#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-donald-trump-bekommt-extra-sendezeit-bei-nbc](https://www.spiegel.de/ausland/us-wahl-2024-donald-trump-bekommt-extra-sendezeit-bei-nbc-a-7f302c50-1fe0-413d-bc7f-779fd6390fa2#ref=rss)
-### 2024
+* [https://www.spiegel.de/ausland/donald-trump-erklaert-sich-zum-sieger-der-us-wahl-einordnung-von-spiegel-korrespondent-roland-nelles](https://www.spiegel.de/ausland/donald-trump-erklaert-sich-zum-sieger-der-us-wahl-einordnung-von-spiegel-korrespondent-roland-nelles-a-fa6abc4a-74e3-4fac-9fc2-9679209225f5#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-die-demokraten-haben-zu-viel-gewarnt-und-zu-wenig-gewagt-bei-der-us-wahl-kommentar](https://www.spiegel.de/ausland/donald-trump-die-demokraten-haben-zu-viel-gewarnt-und-zu-wenig-gewagt-bei-der-us-wahl-kommentar-a-464ab152-a1e6-40be-9fb6-039b31554f04#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-live-ticker-donald-trump-erklaert-sich-zum-sieger](https://www.spiegel.de/ausland/us-wahl-2024-live-ticker-donald-trump-erklaert-sich-zum-sieger-a-a0bb0dfa-bb34-4a3c-ade8-ec7808da33dc#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-so-reagiert-die-politische-welt-auf-trumps-triumph](https://www.spiegel.de/ausland/us-wahl-so-reagiert-die-politische-welt-auf-trumps-triumph-a-b7aaa4ea-c142-453b-8077-9fda5111f821#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wahlsieg-ueber-kamala-harris-der-schock](https://www.spiegel.de/ausland/donald-trump-wahlsieg-ueber-kamala-harris-der-schock-a-ebf81721-3f9a-4a04-9237-5e00c0394c1b#ref=rss)
+* [https://www.spiegel.de/ausland/bilder-von-wahlparties-so-verfolgt-die-welt-die-us-wahl](https://www.spiegel.de/ausland/bilder-von-wahlparties-so-verfolgt-die-welt-die-us-wahl-a-b024213f-532f-4598-9a7c-c0f3e5942efb#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-pfade-zur-praesidentschaft-so-koennen-harris-und-trump-gewinnen](https://www.spiegel.de/ausland/us-wahl-2024-pfade-zur-praesidentschaft-so-koennen-harris-und-trump-gewinnen-a-b5b87376-4ccb-47aa-a719-a50064c81300#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-in-bildern-so-haben-die-waehler-abgestimmt](https://www.spiegel.de/ausland/us-wahl-in-bildern-so-haben-die-waehler-abgestimmt-a-87089967-e9f5-46d6-a99b-b193498be734#ref=rss)
+### gewinnt
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-saechsische-separatisten-ukraine-krieg-most-mysterious-song-on-the-internet-us-wahl-2024](https://www.spiegel.de/politik/deutschland/news-des-tages-saechsische-separatisten-ukraine-krieg-most-mysterious-song-on-the-internet-us-wahl-2024-a-c01f2fff-bda7-4e45-9021-140278fbff53#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-die-wahl-laeuft-und-millionen-von-amerikanern-haben-laengst-abgestimmt](https://www.spiegel.de/ausland/us-wahl-2024-die-wahl-laeuft-und-millionen-von-amerikanern-haben-laengst-abgestimmt-a-6d2e251c-6f79-45f6-97a8-431788f17f89#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-donald-trump-bekommt-extra-sendezeit-bei-nbc](https://www.spiegel.de/ausland/us-wahl-2024-donald-trump-bekommt-extra-sendezeit-bei-nbc-a-7f302c50-1fe0-413d-bc7f-779fd6390fa2#ref=rss)
-### abgestimmt
-
-* [https://www.spiegel.de/ausland/us-wahl-2024-die-wahl-laeuft-und-millionen-von-amerikanern-haben-laengst-abgestimmt](https://www.spiegel.de/ausland/us-wahl-2024-die-wahl-laeuft-und-millionen-von-amerikanern-haben-laengst-abgestimmt-a-6d2e251c-6f79-45f6-97a8-431788f17f89#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ampel-krise-wege-zu-neuwahlen-was-passiert-wenn-die-koalition-zerbricht](https://www.spiegel.de/politik/deutschland/ampel-krise-wege-zu-neuwahlen-was-passiert-wenn-die-koalition-zerbricht-a-b301913b-5c76-4b91-be59-f48b9dc21bb2#ref=rss)
-### zunehmend
-
-* [https://www.spiegel.de/wissenschaft/hollywoodfilme-sind-zunehmend-diverser-besetzt](https://www.spiegel.de/wissenschaft/hollywoodfilme-sind-zunehmend-diverser-besetzt-a-fd74e920-21f8-43d0-920d-7bec350aefe8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-wirft-christian-lindner-kindereien-vor](https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-wirft-christian-lindner-kindereien-vor-a-79acd2b6-251b-4c72-9959-26566160789b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/autobranche-gewinneinbruch-bei-audi-stellenabbau-bei-schaeffler](https://www.spiegel.de/wirtschaft/unternehmen/autobranche-gewinneinbruch-bei-audi-stellenabbau-bei-schaeffler-a-37f37774-7a8c-4b59-8ffa-5169d4301a62#ref=rss)
-### kamala
-
-* [https://www.spiegel.de/ausland/us-wahl-2024-donald-trump-bekommt-extra-sendezeit-bei-nbc](https://www.spiegel.de/ausland/us-wahl-2024-donald-trump-bekommt-extra-sendezeit-bei-nbc-a-7f302c50-1fe0-413d-bc7f-779fd6390fa2#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahlkampf-2024-kamala-harris-verlegt-veranstaltungsort-in-pittsburgh-aus-sicherheitsgruenden](https://www.spiegel.de/ausland/us-wahlkampf-2024-kamala-harris-verlegt-veranstaltungsort-in-pittsburgh-aus-sicherheitsgruenden-a-5cb6ed43-2c40-4fdf-8829-3e5dc4e5cb35#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/panorama/justiz/letzte-generation-jesuitenpater-in-muenchen-wegen-klimablockade-verurteilt-geldstrafe-ausgesprochen](https://www.spiegel.de/panorama/justiz/letzte-generation-jesuitenpater-in-muenchen-wegen-klimablockade-verurteilt-geldstrafe-ausgesprochen-a-57a4cbe7-491d-4762-95af-bad24b8ed5f8#ref=rss)
-* [https://www.spiegel.de/ausland/schweden-rechtsextremist-rasmus-paludan-nach-koranverbrennung-zu-haftstrafe-verurteilt](https://www.spiegel.de/ausland/schweden-rechtsextremist-rasmus-paludan-nach-koranverbrennung-zu-haftstrafe-verurteilt-a-d85b2899-3c66-43be-96ee-c16a1f61556c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/schleuser-prozess-in-traunstein-15-jahre-haft-fuer-fahrer-nach-toedlicher-fahrt-auf-der-a94](https://www.spiegel.de/panorama/justiz/schleuser-prozess-in-traunstein-15-jahre-haft-fuer-fahrer-nach-toedlicher-fahrt-auf-der-a94-a-344beb25-0ee6-42c9-9302-14cc83a45a81#ref=rss)
-### rolf
-
-* [https://www.spiegel.de/panorama/leute/rolf-zuckowski-liedermacher-ist-dagegen-songs-nachtraeglich-zu-veraendern](https://www.spiegel.de/panorama/leute/rolf-zuckowski-liedermacher-ist-dagegen-songs-nachtraeglich-zu-veraendern-a-df489f6d-c265-419d-83bb-a32c107d36ea#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-wirft-christian-lindner-kindereien-vor](https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-wirft-christian-lindner-kindereien-vor-a-79acd2b6-251b-4c72-9959-26566160789b#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/leute/rolf-zuckowski-liedermacher-ist-dagegen-songs-nachtraeglich-zu-veraendern](https://www.spiegel.de/panorama/leute/rolf-zuckowski-liedermacher-ist-dagegen-songs-nachtraeglich-zu-veraendern-a-df489f6d-c265-419d-83bb-a32c107d36ea#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/schleuser-prozess-in-traunstein-15-jahre-haft-fuer-fahrer-nach-toedlicher-fahrt-auf-der-a94](https://www.spiegel.de/panorama/justiz/schleuser-prozess-in-traunstein-15-jahre-haft-fuer-fahrer-nach-toedlicher-fahrt-auf-der-a94-a-344beb25-0ee6-42c9-9302-14cc83a45a81#ref=rss)
-### amt
-
-* [https://www.spiegel.de/ausland/jamshid-sharmahd-auswaertiges-amt-widerspricht-irans-darstellung-zu-tod-von-deutsch-iraner](https://www.spiegel.de/ausland/jamshid-sharmahd-auswaertiges-amt-widerspricht-irans-darstellung-zu-tod-von-deutsch-iraner-a-8ac6d071-5c0a-4974-aaf9-db6ca6f59b34#ref=rss)
-* [https://www.spiegel.de/panorama/nikolas-haeckel-ex-buergermeister-von-sylt-ist-tot](https://www.spiegel.de/panorama/nikolas-haeckel-ex-buergermeister-von-sylt-ist-tot-a-b69e8bb1-72ff-4e4f-9ddd-4c57407f74a0#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-gewinnt-praesidentschaftswahl](https://www.spiegel.de/ausland/usa-donald-trump-gewinnt-praesidentschaftswahl-a-16840abb-0976-422f-9f1c-0b4eaaf2eeba#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-erklaert-sich-zum-sieger-der-us-wahl-einordnung-von-spiegel-korrespondent-roland-nelles](https://www.spiegel.de/ausland/donald-trump-erklaert-sich-zum-sieger-der-us-wahl-einordnung-von-spiegel-korrespondent-roland-nelles-a-fa6abc4a-74e3-4fac-9fc2-9679209225f5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-aktie-gewinnt-angesichts-von-wahrscheinlichem-trump-sieg-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/tesla-aktie-gewinnt-angesichts-von-wahrscheinlichem-trump-sieg-deutlich-a-88b76931-0482-47c2-808d-5a83b7005e07#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-pfade-zur-praesidentschaft-so-koennen-harris-und-trump-gewinnen](https://www.spiegel.de/ausland/us-wahl-2024-pfade-zur-praesidentschaft-so-koennen-harris-und-trump-gewinnen-a-b5b87376-4ccb-47aa-a719-a50064c81300#ref=rss)
 ### harris
 
-* [https://www.spiegel.de/ausland/us-wahlkampf-2024-kamala-harris-verlegt-veranstaltungsort-in-pittsburgh-aus-sicherheitsgruenden](https://www.spiegel.de/ausland/us-wahlkampf-2024-kamala-harris-verlegt-veranstaltungsort-in-pittsburgh-aus-sicherheitsgruenden-a-5cb6ed43-2c40-4fdf-8829-3e5dc4e5cb35#ref=rss)
-### kretschmer
+* [https://www.spiegel.de/ausland/donald-trump-erklaert-sich-zum-sieger-der-us-wahl-einordnung-von-spiegel-korrespondent-roland-nelles](https://www.spiegel.de/ausland/donald-trump-erklaert-sich-zum-sieger-der-us-wahl-einordnung-von-spiegel-korrespondent-roland-nelles-a-fa6abc4a-74e3-4fac-9fc2-9679209225f5#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-live-ticker-donald-trump-erklaert-sich-zum-sieger](https://www.spiegel.de/ausland/us-wahl-2024-live-ticker-donald-trump-erklaert-sich-zum-sieger-a-a0bb0dfa-bb34-4a3c-ade8-ec7808da33dc#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wahlsieg-ueber-kamala-harris-der-schock](https://www.spiegel.de/ausland/donald-trump-wahlsieg-ueber-kamala-harris-der-schock-a-ebf81721-3f9a-4a04-9237-5e00c0394c1b#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-pfade-zur-praesidentschaft-so-koennen-harris-und-trump-gewinnen](https://www.spiegel.de/ausland/us-wahl-2024-pfade-zur-praesidentschaft-so-koennen-harris-und-trump-gewinnen-a-b5b87376-4ccb-47aa-a719-a50064c81300#ref=rss)
+### erste
 
-* [https://www.spiegel.de/politik/deutschland/sachsen-michael-kretschmer-trifft-sich-mit-afd-chef-joerg-urban-zu-vertraulichem-gespraech](https://www.spiegel.de/politik/deutschland/sachsen-michael-kretschmer-trifft-sich-mit-afd-chef-joerg-urban-zu-vertraulichem-gespraech-a-d1a11f11-4df2-4d98-8e55-1b8dad5d1328#ref=rss)
-### zusammenarbeit
+* [https://www.spiegel.de/start/baden-wuerttemberg-unis-sollen-jura-bachelor-einfuehren-koennen](https://www.spiegel.de/start/baden-wuerttemberg-unis-sollen-jura-bachelor-einfuehren-koennen-a-188fc994-e758-405c-bd4c-9dbe50156009#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-so-reagiert-die-politische-welt-auf-trumps-triumph](https://www.spiegel.de/ausland/us-wahl-so-reagiert-die-politische-welt-auf-trumps-triumph-a-b7aaa4ea-c142-453b-8077-9fda5111f821#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wahlsieg-ueber-kamala-harris-der-schock](https://www.spiegel.de/ausland/donald-trump-wahlsieg-ueber-kamala-harris-der-schock-a-ebf81721-3f9a-4a04-9237-5e00c0394c1b#ref=rss)
+* [https://www.spiegel.de/ausland/sarah-mcbride-erste-trans-person-in-den-us-kongress-gewaehlt](https://www.spiegel.de/ausland/sarah-mcbride-erste-trans-person-in-den-us-kongress-gewaehlt-a-cb711d5d-7167-44d0-8c9a-0cb6660839c5#ref=rss)
+### usa
 
-* [https://www.spiegel.de/politik/deutschland/sachsen-michael-kretschmer-trifft-sich-mit-afd-chef-joerg-urban-zu-vertraulichem-gespraech](https://www.spiegel.de/politik/deutschland/sachsen-michael-kretschmer-trifft-sich-mit-afd-chef-joerg-urban-zu-vertraulichem-gespraech-a-d1a11f11-4df2-4d98-8e55-1b8dad5d1328#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ampelkrise-bundeskanzler-olaf-scholz-ruft-regierungsparteien-zur-zusammenarbeit-auf](https://www.spiegel.de/politik/deutschland/ampelkrise-bundeskanzler-olaf-scholz-ruft-regierungsparteien-zur-zusammenarbeit-auf-a-86762293-fc8c-4a80-924d-5af007ecf149#ref=rss)
-### getroffen
-
-* [https://www.spiegel.de/politik/deutschland/sachsen-michael-kretschmer-trifft-sich-mit-afd-chef-joerg-urban-zu-vertraulichem-gespraech](https://www.spiegel.de/politik/deutschland/sachsen-michael-kretschmer-trifft-sich-mit-afd-chef-joerg-urban-zu-vertraulichem-gespraech-a-d1a11f11-4df2-4d98-8e55-1b8dad5d1328#ref=rss)
-* [https://www.spiegel.de/sport/fussball/peru-fussballspieler-bei-blitzeinschlag-getoetet-vier-mitspieler-verletzt](https://www.spiegel.de/sport/fussball/peru-fussballspieler-bei-blitzeinschlag-getoetet-vier-mitspieler-verletzt-a-5a1fcf9b-1ffd-46d6-b78e-96a31bcb33ee#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/politik/deutschland/sachsen-michael-kretschmer-trifft-sich-mit-afd-chef-joerg-urban-zu-vertraulichem-gespraech](https://www.spiegel.de/politik/deutschland/sachsen-michael-kretschmer-trifft-sich-mit-afd-chef-joerg-urban-zu-vertraulichem-gespraech-a-d1a11f11-4df2-4d98-8e55-1b8dad5d1328#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-donald-trump-bekommt-extra-sendezeit-bei-nbc](https://www.spiegel.de/ausland/us-wahl-2024-donald-trump-bekommt-extra-sendezeit-bei-nbc-a-7f302c50-1fe0-413d-bc7f-779fd6390fa2#ref=rss)
-### paiporta
-
-* [https://www.spiegel.de/ausland/spanien-buergerwehr-in-paiporta-will-gegen-pluenderer-vorgehen](https://www.spiegel.de/ausland/spanien-buergerwehr-in-paiporta-will-gegen-pluenderer-vorgehen-a-a6781441-cdbe-4528-90d2-cbcf1a3e1aa6#ref=rss)
-### peru
-
-* [https://www.spiegel.de/sport/fussball/peru-fussballspieler-bei-blitzeinschlag-getoetet-vier-mitspieler-verletzt](https://www.spiegel.de/sport/fussball/peru-fussballspieler-bei-blitzeinschlag-getoetet-vier-mitspieler-verletzt-a-5a1fcf9b-1ffd-46d6-b78e-96a31bcb33ee#ref=rss)
-### vier
-
-* [https://www.spiegel.de/sport/fussball/peru-fussballspieler-bei-blitzeinschlag-getoetet-vier-mitspieler-verletzt](https://www.spiegel.de/sport/fussball/peru-fussballspieler-bei-blitzeinschlag-getoetet-vier-mitspieler-verletzt-a-5a1fcf9b-1ffd-46d6-b78e-96a31bcb33ee#ref=rss)
-### mitspieler
-
-* [https://www.spiegel.de/sport/fussball/peru-fussballspieler-bei-blitzeinschlag-getoetet-vier-mitspieler-verletzt](https://www.spiegel.de/sport/fussball/peru-fussballspieler-bei-blitzeinschlag-getoetet-vier-mitspieler-verletzt-a-5a1fcf9b-1ffd-46d6-b78e-96a31bcb33ee#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/sport/fussball/peru-fussballspieler-bei-blitzeinschlag-getoetet-vier-mitspieler-verletzt](https://www.spiegel.de/sport/fussball/peru-fussballspieler-bei-blitzeinschlag-getoetet-vier-mitspieler-verletzt-a-5a1fcf9b-1ffd-46d6-b78e-96a31bcb33ee#ref=rss)
-### waren
-
-* [https://www.spiegel.de/wirtschaft/ampelkoalition-ist-christian-lindner-der-neue-lambsdorff-oder-doch-nur-ein-herzog](https://www.spiegel.de/wirtschaft/ampelkoalition-ist-christian-lindner-der-neue-lambsdorff-oder-doch-nur-ein-herzog-a-95ea639d-d994-47dc-a891-5477e8a11079#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/netflix-bueros-des-streaminganbieters-wegen-verdachts-auf-steuerbetrug-durchsucht](https://www.spiegel.de/wirtschaft/unternehmen/netflix-bueros-des-streaminganbieters-wegen-verdachts-auf-steuerbetrug-durchsucht-a-e31a6892-789f-47f4-8a73-3622ed46f057#ref=rss)
-### männer
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-saechsische-separatisten-ukraine-krieg-most-mysterious-song-on-the-internet-us-wahl-2024](https://www.spiegel.de/politik/deutschland/news-des-tages-saechsische-separatisten-ukraine-krieg-most-mysterious-song-on-the-internet-us-wahl-2024-a-c01f2fff-bda7-4e45-9021-140278fbff53#ref=rss)
-* [https://www.spiegel.de/wissenschaft/hollywoodfilme-sind-zunehmend-diverser-besetzt](https://www.spiegel.de/wissenschaft/hollywoodfilme-sind-zunehmend-diverser-besetzt-a-fd74e920-21f8-43d0-920d-7bec350aefe8#ref=rss)
-### tausende
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-saechsische-separatisten-ukraine-krieg-most-mysterious-song-on-the-internet-us-wahl-2024](https://www.spiegel.de/politik/deutschland/news-des-tages-saechsische-separatisten-ukraine-krieg-most-mysterious-song-on-the-internet-us-wahl-2024-a-c01f2fff-bda7-4e45-9021-140278fbff53#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/autobranche-gewinneinbruch-bei-audi-stellenabbau-bei-schaeffler](https://www.spiegel.de/wirtschaft/unternehmen/autobranche-gewinneinbruch-bei-audi-stellenabbau-bei-schaeffler-a-37f37774-7a8c-4b59-8ffa-5169d4301a62#ref=rss)
-### rätsel
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-saechsische-separatisten-ukraine-krieg-most-mysterious-song-on-the-internet-us-wahl-2024](https://www.spiegel.de/politik/deutschland/news-des-tages-saechsische-separatisten-ukraine-krieg-most-mysterious-song-on-the-internet-us-wahl-2024-a-c01f2fff-bda7-4e45-9021-140278fbff53#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-donald-trump-bekommt-extra-sendezeit-bei-nbc](https://www.spiegel.de/ausland/us-wahl-2024-donald-trump-bekommt-extra-sendezeit-bei-nbc-a-7f302c50-1fe0-413d-bc7f-779fd6390fa2#ref=rss)
-### umweltschützer
-
-* [https://www.spiegel.de/wissenschaft/natur/greenpeace-kritisiert-geomar-umweltschuetzer-werfen-forschern-befangenheit-vor](https://www.spiegel.de/wissenschaft/natur/greenpeace-kritisiert-geomar-umweltschuetzer-werfen-forschern-befangenheit-vor-a-ed3a1d0f-9678-4de3-8943-a50c89a2d4b3#ref=rss)
-### untersucht
-
-* [https://www.spiegel.de/wissenschaft/natur/greenpeace-kritisiert-geomar-umweltschuetzer-werfen-forschern-befangenheit-vor](https://www.spiegel.de/wissenschaft/natur/greenpeace-kritisiert-geomar-umweltschuetzer-werfen-forschern-befangenheit-vor-a-ed3a1d0f-9678-4de3-8943-a50c89a2d4b3#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/elon-musks-falsche-behauptungen-zur-wahl-wurden-milliardenfach-angezeigt](https://www.spiegel.de/netzwelt/web/elon-musks-falsche-behauptungen-zur-wahl-wurden-milliardenfach-angezeigt-a-0ae55175-79a4-4525-92c3-bfa53bfafca6#ref=rss)
-### verein
-
-* [https://www.spiegel.de/sport/olympia/sportfoerdergesetz-verein-draengt-auf-existenzsicherung-fuer-sportler](https://www.spiegel.de/sport/olympia/sportfoerdergesetz-verein-draengt-auf-existenzsicherung-fuer-sportler-a-fef2f4c2-221b-4bb0-a69b-c199c99778ce#ref=rss)
-### sportler
-
-* [https://www.spiegel.de/sport/olympia/sportfoerdergesetz-verein-draengt-auf-existenzsicherung-fuer-sportler](https://www.spiegel.de/sport/olympia/sportfoerdergesetz-verein-draengt-auf-existenzsicherung-fuer-sportler-a-fef2f4c2-221b-4bb0-a69b-c199c99778ce#ref=rss)
-### wahl
-
-* [https://www.spiegel.de/ausland/us-wahl-2024-die-wahl-laeuft-und-millionen-von-amerikanern-haben-laengst-abgestimmt](https://www.spiegel.de/ausland/us-wahl-2024-die-wahl-laeuft-und-millionen-von-amerikanern-haben-laengst-abgestimmt-a-6d2e251c-6f79-45f6-97a8-431788f17f89#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/elon-musks-falsche-behauptungen-zur-wahl-wurden-milliardenfach-angezeigt](https://www.spiegel.de/netzwelt/web/elon-musks-falsche-behauptungen-zur-wahl-wurden-milliardenfach-angezeigt-a-0ae55175-79a4-4525-92c3-bfa53bfafca6#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/ausland/us-wahl-2024-die-wahl-laeuft-und-millionen-von-amerikanern-haben-laengst-abgestimmt](https://www.spiegel.de/ausland/us-wahl-2024-die-wahl-laeuft-und-millionen-von-amerikanern-haben-laengst-abgestimmt-a-6d2e251c-6f79-45f6-97a8-431788f17f89#ref=rss)
-### laut
-
-* [https://www.spiegel.de/ausland/us-wahl-2024-die-wahl-laeuft-und-millionen-von-amerikanern-haben-laengst-abgestimmt](https://www.spiegel.de/ausland/us-wahl-2024-die-wahl-laeuft-und-millionen-von-amerikanern-haben-laengst-abgestimmt-a-6d2e251c-6f79-45f6-97a8-431788f17f89#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/japan-nur-jeder-fuenfte-jugendliche-hat-schon-einmal-gekuesst](https://www.spiegel.de/panorama/gesellschaft/japan-nur-jeder-fuenfte-jugendliche-hat-schon-einmal-gekuesst-a-7650a258-a0ab-4082-92ed-ee7e424b416d#ref=rss)
-### 80
-
-* [https://www.spiegel.de/ausland/us-wahl-2024-die-wahl-laeuft-und-millionen-von-amerikanern-haben-laengst-abgestimmt](https://www.spiegel.de/ausland/us-wahl-2024-die-wahl-laeuft-und-millionen-von-amerikanern-haben-laengst-abgestimmt-a-6d2e251c-6f79-45f6-97a8-431788f17f89#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/japan-nur-jeder-fuenfte-jugendliche-hat-schon-einmal-gekuesst](https://www.spiegel.de/panorama/gesellschaft/japan-nur-jeder-fuenfte-jugendliche-hat-schon-einmal-gekuesst-a-7650a258-a0ab-4082-92ed-ee7e424b416d#ref=rss)
-### fast
-
-* [https://www.spiegel.de/ausland/us-wahl-2024-die-wahl-laeuft-und-millionen-von-amerikanern-haben-laengst-abgestimmt](https://www.spiegel.de/ausland/us-wahl-2024-die-wahl-laeuft-und-millionen-von-amerikanern-haben-laengst-abgestimmt-a-6d2e251c-6f79-45f6-97a8-431788f17f89#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahlkampf-2024-kamala-harris-verlegt-veranstaltungsort-in-pittsburgh-aus-sicherheitsgruenden](https://www.spiegel.de/ausland/us-wahlkampf-2024-kamala-harris-verlegt-veranstaltungsort-in-pittsburgh-aus-sicherheitsgruenden-a-5cb6ed43-2c40-4fdf-8829-3e5dc4e5cb35#ref=rss)
-### neuwahlen
-
-* [https://www.spiegel.de/politik/deutschland/ampel-krise-wege-zu-neuwahlen-was-passiert-wenn-die-koalition-zerbricht](https://www.spiegel.de/politik/deutschland/ampel-krise-wege-zu-neuwahlen-was-passiert-wenn-die-koalition-zerbricht-a-b301913b-5c76-4b91-be59-f48b9dc21bb2#ref=rss)
-### filme
-
-* [https://www.spiegel.de/wissenschaft/hollywoodfilme-sind-zunehmend-diverser-besetzt](https://www.spiegel.de/wissenschaft/hollywoodfilme-sind-zunehmend-diverser-besetzt-a-fd74e920-21f8-43d0-920d-7bec350aefe8#ref=rss)
-### forscher
-
-* [https://www.spiegel.de/wissenschaft/hollywoodfilme-sind-zunehmend-diverser-besetzt](https://www.spiegel.de/wissenschaft/hollywoodfilme-sind-zunehmend-diverser-besetzt-a-fd74e920-21f8-43d0-920d-7bec350aefe8#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/japan-nur-jeder-fuenfte-jugendliche-hat-schon-einmal-gekuesst](https://www.spiegel.de/panorama/gesellschaft/japan-nur-jeder-fuenfte-jugendliche-hat-schon-einmal-gekuesst-a-7650a258-a0ab-4082-92ed-ee7e424b416d#ref=rss)
-### 2022
-
-* [https://www.spiegel.de/wissenschaft/hollywoodfilme-sind-zunehmend-diverser-besetzt](https://www.spiegel.de/wissenschaft/hollywoodfilme-sind-zunehmend-diverser-besetzt-a-fd74e920-21f8-43d0-920d-7bec350aefe8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/letzte-generation-jesuitenpater-in-muenchen-wegen-klimablockade-verurteilt-geldstrafe-ausgesprochen](https://www.spiegel.de/panorama/justiz/letzte-generation-jesuitenpater-in-muenchen-wegen-klimablockade-verurteilt-geldstrafe-ausgesprochen-a-57a4cbe7-491d-4762-95af-bad24b8ed5f8#ref=rss)
-### auftritt
-
-* [https://www.spiegel.de/ausland/us-wahl-2024-donald-trump-bekommt-extra-sendezeit-bei-nbc](https://www.spiegel.de/ausland/us-wahl-2024-donald-trump-bekommt-extra-sendezeit-bei-nbc-a-7f302c50-1fe0-413d-bc7f-779fd6390fa2#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahlkampf-2024-kamala-harris-verlegt-veranstaltungsort-in-pittsburgh-aus-sicherheitsgruenden](https://www.spiegel.de/ausland/us-wahlkampf-2024-kamala-harris-verlegt-veranstaltungsort-in-pittsburgh-aus-sicherheitsgruenden-a-5cb6ed43-2c40-4fdf-8829-3e5dc4e5cb35#ref=rss)
-### jennifer
-
-* [https://www.spiegel.de/panorama/leute/jennifer-lopez-das-sind-j-los-plaene-fuer-die-weihnachtszeit](https://www.spiegel.de/panorama/leute/jennifer-lopez-das-sind-j-los-plaene-fuer-die-weihnachtszeit-a-fc25845e-d1ae-4483-901d-f7d2e0c319e2#ref=rss)
-### lopez
-
-* [https://www.spiegel.de/panorama/leute/jennifer-lopez-das-sind-j-los-plaene-fuer-die-weihnachtszeit](https://www.spiegel.de/panorama/leute/jennifer-lopez-das-sind-j-los-plaene-fuer-die-weihnachtszeit-a-fc25845e-d1ae-4483-901d-f7d2e0c319e2#ref=rss)
-### letzte
-
-* [https://www.spiegel.de/panorama/justiz/letzte-generation-jesuitenpater-in-muenchen-wegen-klimablockade-verurteilt-geldstrafe-ausgesprochen](https://www.spiegel.de/panorama/justiz/letzte-generation-jesuitenpater-in-muenchen-wegen-klimablockade-verurteilt-geldstrafe-ausgesprochen-a-57a4cbe7-491d-4762-95af-bad24b8ed5f8#ref=rss)
-### generation
-
-* [https://www.spiegel.de/panorama/justiz/letzte-generation-jesuitenpater-in-muenchen-wegen-klimablockade-verurteilt-geldstrafe-ausgesprochen](https://www.spiegel.de/panorama/justiz/letzte-generation-jesuitenpater-in-muenchen-wegen-klimablockade-verurteilt-geldstrafe-ausgesprochen-a-57a4cbe7-491d-4762-95af-bad24b8ed5f8#ref=rss)
-### geküsst
-
-* [https://www.spiegel.de/panorama/gesellschaft/japan-nur-jeder-fuenfte-jugendliche-hat-schon-einmal-gekuesst](https://www.spiegel.de/panorama/gesellschaft/japan-nur-jeder-fuenfte-jugendliche-hat-schon-einmal-gekuesst-a-7650a258-a0ab-4082-92ed-ee7e424b416d#ref=rss)
-### 15
-
-* [https://www.spiegel.de/panorama/gesellschaft/japan-nur-jeder-fuenfte-jugendliche-hat-schon-einmal-gekuesst](https://www.spiegel.de/panorama/gesellschaft/japan-nur-jeder-fuenfte-jugendliche-hat-schon-einmal-gekuesst-a-7650a258-a0ab-4082-92ed-ee7e424b416d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/schleuser-prozess-in-traunstein-15-jahre-haft-fuer-fahrer-nach-toedlicher-fahrt-auf-der-a94](https://www.spiegel.de/panorama/justiz/schleuser-prozess-in-traunstein-15-jahre-haft-fuer-fahrer-nach-toedlicher-fahrt-auf-der-a94-a-344beb25-0ee6-42c9-9302-14cc83a45a81#ref=rss)
-### 50
-
-* [https://www.spiegel.de/panorama/gesellschaft/japan-nur-jeder-fuenfte-jugendliche-hat-schon-einmal-gekuesst](https://www.spiegel.de/panorama/gesellschaft/japan-nur-jeder-fuenfte-jugendliche-hat-schon-einmal-gekuesst-a-7650a258-a0ab-4082-92ed-ee7e424b416d#ref=rss)
-* [https://www.spiegel.de/panorama/nikolas-haeckel-ex-buergermeister-von-sylt-ist-tot](https://www.spiegel.de/panorama/nikolas-haeckel-ex-buergermeister-von-sylt-ist-tot-a-b69e8bb1-72ff-4e4f-9ddd-4c57407f74a0#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/panorama/gesellschaft/japan-nur-jeder-fuenfte-jugendliche-hat-schon-einmal-gekuesst](https://www.spiegel.de/panorama/gesellschaft/japan-nur-jeder-fuenfte-jugendliche-hat-schon-einmal-gekuesst-a-7650a258-a0ab-4082-92ed-ee7e424b416d#ref=rss)
-* [https://www.spiegel.de/panorama/nikolas-haeckel-ex-buergermeister-von-sylt-ist-tot](https://www.spiegel.de/panorama/nikolas-haeckel-ex-buergermeister-von-sylt-ist-tot-a-b69e8bb1-72ff-4e4f-9ddd-4c57407f74a0#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/deutschland/ampelkrise-bundeskanzler-olaf-scholz-ruft-regierungsparteien-zur-zusammenarbeit-auf](https://www.spiegel.de/politik/deutschland/ampelkrise-bundeskanzler-olaf-scholz-ruft-regierungsparteien-zur-zusammenarbeit-auf-a-86762293-fc8c-4a80-924d-5af007ecf149#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/politik/deutschland/ampelkrise-bundeskanzler-olaf-scholz-ruft-regierungsparteien-zur-zusammenarbeit-auf](https://www.spiegel.de/politik/deutschland/ampelkrise-bundeskanzler-olaf-scholz-ruft-regierungsparteien-zur-zusammenarbeit-auf-a-86762293-fc8c-4a80-924d-5af007ecf149#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-wirft-christian-lindner-kindereien-vor](https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-wirft-christian-lindner-kindereien-vor-a-79acd2b6-251b-4c72-9959-26566160789b#ref=rss)
-### alfred
-
-* [https://www.spiegel.de/sport/handball/handball-bundestrainer-alfred-gislason-relativiert-seine-aussagen-zu-moeglichem-abschied](https://www.spiegel.de/sport/handball/handball-bundestrainer-alfred-gislason-relativiert-seine-aussagen-zu-moeglichem-abschied-a-ef8b4edf-ea1f-4446-87d7-94ff1c54bb02#ref=rss)
-### gíslason
-
-* [https://www.spiegel.de/sport/handball/handball-bundestrainer-alfred-gislason-relativiert-seine-aussagen-zu-moeglichem-abschied](https://www.spiegel.de/sport/handball/handball-bundestrainer-alfred-gislason-relativiert-seine-aussagen-zu-moeglichem-abschied-a-ef8b4edf-ea1f-4446-87d7-94ff1c54bb02#ref=rss)
-### zuckowski
-
-* [https://www.spiegel.de/panorama/leute/rolf-zuckowski-liedermacher-ist-dagegen-songs-nachtraeglich-zu-veraendern](https://www.spiegel.de/panorama/leute/rolf-zuckowski-liedermacher-ist-dagegen-songs-nachtraeglich-zu-veraendern-a-df489f6d-c265-419d-83bb-a32c107d36ea#ref=rss)
-### alter
-
-* [https://www.spiegel.de/panorama/leute/rolf-zuckowski-liedermacher-ist-dagegen-songs-nachtraeglich-zu-veraendern](https://www.spiegel.de/panorama/leute/rolf-zuckowski-liedermacher-ist-dagegen-songs-nachtraeglich-zu-veraendern-a-df489f6d-c265-419d-83bb-a32c107d36ea#ref=rss)
-* [https://www.spiegel.de/panorama/nikolas-haeckel-ex-buergermeister-von-sylt-ist-tot](https://www.spiegel.de/panorama/nikolas-haeckel-ex-buergermeister-von-sylt-ist-tot-a-b69e8bb1-72ff-4e4f-9ddd-4c57407f74a0#ref=rss)
-### mützenich
-
-* [https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-wirft-christian-lindner-kindereien-vor](https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-wirft-christian-lindner-kindereien-vor-a-79acd2b6-251b-4c72-9959-26566160789b#ref=rss)
-### wirft
-
-* [https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-wirft-christian-lindner-kindereien-vor](https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-wirft-christian-lindner-kindereien-vor-a-79acd2b6-251b-4c72-9959-26566160789b#ref=rss)
-### christoph
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/christoph-groener-insolvenz-der-groener-gruppe-ende-eines-bauimperiums](https://www.spiegel.de/wirtschaft/unternehmen/christoph-groener-insolvenz-der-groener-gruppe-ende-eines-bauimperiums-a-fa3ca649-24a1-4de6-b80b-70a4f050e0c8#ref=rss)
-### gröner
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/christoph-groener-insolvenz-der-groener-gruppe-ende-eines-bauimperiums](https://www.spiegel.de/wirtschaft/unternehmen/christoph-groener-insolvenz-der-groener-gruppe-ende-eines-bauimperiums-a-fa3ca649-24a1-4de6-b80b-70a4f050e0c8#ref=rss)
-### insolvenz
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/christoph-groener-insolvenz-der-groener-gruppe-ende-eines-bauimperiums](https://www.spiegel.de/wirtschaft/unternehmen/christoph-groener-insolvenz-der-groener-gruppe-ende-eines-bauimperiums-a-fa3ca649-24a1-4de6-b80b-70a4f050e0c8#ref=rss)
-### jamshid
-
-* [https://www.spiegel.de/ausland/jamshid-sharmahd-auswaertiges-amt-widerspricht-irans-darstellung-zu-tod-von-deutsch-iraner](https://www.spiegel.de/ausland/jamshid-sharmahd-auswaertiges-amt-widerspricht-irans-darstellung-zu-tod-von-deutsch-iraner-a-8ac6d071-5c0a-4974-aaf9-db6ca6f59b34#ref=rss)
-### sharmahd
-
-* [https://www.spiegel.de/ausland/jamshid-sharmahd-auswaertiges-amt-widerspricht-irans-darstellung-zu-tod-von-deutsch-iraner](https://www.spiegel.de/ausland/jamshid-sharmahd-auswaertiges-amt-widerspricht-irans-darstellung-zu-tod-von-deutsch-iraner-a-8ac6d071-5c0a-4974-aaf9-db6ca6f59b34#ref=rss)
-### tod
-
-* [https://www.spiegel.de/ausland/jamshid-sharmahd-auswaertiges-amt-widerspricht-irans-darstellung-zu-tod-von-deutsch-iraner](https://www.spiegel.de/ausland/jamshid-sharmahd-auswaertiges-amt-widerspricht-irans-darstellung-zu-tod-von-deutsch-iraner-a-8ac6d071-5c0a-4974-aaf9-db6ca6f59b34#ref=rss)
-### dieter
-
-* [https://www.spiegel.de/sport/fussball/vfl-bochum-trainer-dieter-hecking-spricht-ueber-seine-rettungsmission-in-bochum](https://www.spiegel.de/sport/fussball/vfl-bochum-trainer-dieter-hecking-spricht-ueber-seine-rettungsmission-in-bochum-a-c23ddd4a-a968-480f-868e-eba9a86bddbf#ref=rss)
-### hecking
-
-* [https://www.spiegel.de/sport/fussball/vfl-bochum-trainer-dieter-hecking-spricht-ueber-seine-rettungsmission-in-bochum](https://www.spiegel.de/sport/fussball/vfl-bochum-trainer-dieter-hecking-spricht-ueber-seine-rettungsmission-in-bochum-a-c23ddd4a-a968-480f-868e-eba9a86bddbf#ref=rss)
-### bochum
-
-* [https://www.spiegel.de/sport/fussball/vfl-bochum-trainer-dieter-hecking-spricht-ueber-seine-rettungsmission-in-bochum](https://www.spiegel.de/sport/fussball/vfl-bochum-trainer-dieter-hecking-spricht-ueber-seine-rettungsmission-in-bochum-a-c23ddd4a-a968-480f-868e-eba9a86bddbf#ref=rss)
-### bürgermeister
-
-* [https://www.spiegel.de/panorama/nikolas-haeckel-ex-buergermeister-von-sylt-ist-tot](https://www.spiegel.de/panorama/nikolas-haeckel-ex-buergermeister-von-sylt-ist-tot-a-b69e8bb1-72ff-4e4f-9ddd-4c57407f74a0#ref=rss)
-### pittsburgh
-
-* [https://www.spiegel.de/ausland/us-wahlkampf-2024-kamala-harris-verlegt-veranstaltungsort-in-pittsburgh-aus-sicherheitsgruenden](https://www.spiegel.de/ausland/us-wahlkampf-2024-kamala-harris-verlegt-veranstaltungsort-in-pittsburgh-aus-sicherheitsgruenden-a-5cb6ed43-2c40-4fdf-8829-3e5dc4e5cb35#ref=rss)
-### empathie
-
-* [https://www.spiegel.de/kultur/autorin-mithu-sanyal-zu-antisemitismus-vorwuerfen-mehr-empathie-fuer-die-einen-bedeutet-mehr-empathie-fuer-alle](https://www.spiegel.de/kultur/autorin-mithu-sanyal-zu-antisemitismus-vorwuerfen-mehr-empathie-fuer-die-einen-bedeutet-mehr-empathie-fuer-alle-a-0773cc6e-cc69-4d48-84c8-2d551b8d7b49#ref=rss)
-### wir
-
-* [https://www.spiegel.de/kultur/autorin-mithu-sanyal-zu-antisemitismus-vorwuerfen-mehr-empathie-fuer-die-einen-bedeutet-mehr-empathie-fuer-alle](https://www.spiegel.de/kultur/autorin-mithu-sanyal-zu-antisemitismus-vorwuerfen-mehr-empathie-fuer-die-einen-bedeutet-mehr-empathie-fuer-alle-a-0773cc6e-cc69-4d48-84c8-2d551b8d7b49#ref=rss)
-### elon
-
-* [https://www.spiegel.de/netzwelt/web/elon-musks-falsche-behauptungen-zur-wahl-wurden-milliardenfach-angezeigt](https://www.spiegel.de/netzwelt/web/elon-musks-falsche-behauptungen-zur-wahl-wurden-milliardenfach-angezeigt-a-0ae55175-79a4-4525-92c3-bfa53bfafca6#ref=rss)
-### musk
-
-* [https://www.spiegel.de/netzwelt/web/elon-musks-falsche-behauptungen-zur-wahl-wurden-milliardenfach-angezeigt](https://www.spiegel.de/netzwelt/web/elon-musks-falsche-behauptungen-zur-wahl-wurden-milliardenfach-angezeigt-a-0ae55175-79a4-4525-92c3-bfa53bfafca6#ref=rss)
-### behauptungen
-
-* [https://www.spiegel.de/netzwelt/web/elon-musks-falsche-behauptungen-zur-wahl-wurden-milliardenfach-angezeigt](https://www.spiegel.de/netzwelt/web/elon-musks-falsche-behauptungen-zur-wahl-wurden-milliardenfach-angezeigt-a-0ae55175-79a4-4525-92c3-bfa53bfafca6#ref=rss)
-### audi
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/autobranche-gewinneinbruch-bei-audi-stellenabbau-bei-schaeffler](https://www.spiegel.de/wirtschaft/unternehmen/autobranche-gewinneinbruch-bei-audi-stellenabbau-bei-schaeffler-a-37f37774-7a8c-4b59-8ffa-5169d4301a62#ref=rss)
-### gewinn
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/autobranche-gewinneinbruch-bei-audi-stellenabbau-bei-schaeffler](https://www.spiegel.de/wirtschaft/unternehmen/autobranche-gewinneinbruch-bei-audi-stellenabbau-bei-schaeffler-a-37f37774-7a8c-4b59-8ffa-5169d4301a62#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-gewinnt-praesidentschaftswahl](https://www.spiegel.de/ausland/usa-donald-trump-gewinnt-praesidentschaftswahl-a-16840abb-0976-422f-9f1c-0b4eaaf2eeba#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/die-linke-vorsitzende-ines-schwerdtner-fordert-ampel-zum-zusammenbleiben-auf](https://www.spiegel.de/politik/deutschland/die-linke-vorsitzende-ines-schwerdtner-fordert-ampel-zum-zusammenbleiben-auf-a-1f992318-1670-400c-b44e-5ed0fa8778dc#ref=rss)
+* [https://www.spiegel.de/ausland/bilder-von-wahlparties-so-verfolgt-die-welt-die-us-wahl](https://www.spiegel.de/ausland/bilder-von-wahlparties-so-verfolgt-die-welt-die-us-wahl-a-b024213f-532f-4598-9a7c-c0f3e5942efb#ref=rss)
 ### deutlich
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/autobranche-gewinneinbruch-bei-audi-stellenabbau-bei-schaeffler](https://www.spiegel.de/wirtschaft/unternehmen/autobranche-gewinneinbruch-bei-audi-stellenabbau-bei-schaeffler-a-37f37774-7a8c-4b59-8ffa-5169d4301a62#ref=rss)
-### eingebrochen
+* [https://www.spiegel.de/wirtschaft/weihnachtsgeschaeft-haendler-rechnen-mit-weniger-umsatz-als-erwartet](https://www.spiegel.de/wirtschaft/weihnachtsgeschaeft-haendler-rechnen-mit-weniger-umsatz-als-erwartet-a-412b99b6-405a-482b-8779-c14d52c35691#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-erklaert-sich-zum-sieger-der-us-wahl-einordnung-von-spiegel-korrespondent-roland-nelles](https://www.spiegel.de/ausland/donald-trump-erklaert-sich-zum-sieger-der-us-wahl-einordnung-von-spiegel-korrespondent-roland-nelles-a-fa6abc4a-74e3-4fac-9fc2-9679209225f5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-aktie-gewinnt-angesichts-von-wahrscheinlichem-trump-sieg-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/tesla-aktie-gewinnt-angesichts-von-wahrscheinlichem-trump-sieg-deutlich-a-88b76931-0482-47c2-808d-5a83b7005e07#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/industrie-auftraege-steigen-oekonomen-fuerchten-kurze-dauer-wegen-trump](https://www.spiegel.de/wirtschaft/unternehmen/industrie-auftraege-steigen-oekonomen-fuerchten-kurze-dauer-wegen-trump-a-2419d3d1-8fc8-4565-b41d-17c491712e61#ref=rss)
+### kamala
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/autobranche-gewinneinbruch-bei-audi-stellenabbau-bei-schaeffler](https://www.spiegel.de/wirtschaft/unternehmen/autobranche-gewinneinbruch-bei-audi-stellenabbau-bei-schaeffler-a-37f37774-7a8c-4b59-8ffa-5169d4301a62#ref=rss)
-### schaeffler
+* [https://www.spiegel.de/ausland/donald-trump-erklaert-sich-zum-sieger-der-us-wahl-einordnung-von-spiegel-korrespondent-roland-nelles](https://www.spiegel.de/ausland/donald-trump-erklaert-sich-zum-sieger-der-us-wahl-einordnung-von-spiegel-korrespondent-roland-nelles-a-fa6abc4a-74e3-4fac-9fc2-9679209225f5#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-live-ticker-donald-trump-erklaert-sich-zum-sieger](https://www.spiegel.de/ausland/us-wahl-2024-live-ticker-donald-trump-erklaert-sich-zum-sieger-a-a0bb0dfa-bb34-4a3c-ade8-ec7808da33dc#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wahlsieg-ueber-kamala-harris-der-schock](https://www.spiegel.de/ausland/donald-trump-wahlsieg-ueber-kamala-harris-der-schock-a-ebf81721-3f9a-4a04-9237-5e00c0394c1b#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-pfade-zur-praesidentschaft-so-koennen-harris-und-trump-gewinnen](https://www.spiegel.de/ausland/us-wahl-2024-pfade-zur-praesidentschaft-so-koennen-harris-und-trump-gewinnen-a-b5b87376-4ccb-47aa-a719-a50064c81300#ref=rss)
+### wahlsieg
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/autobranche-gewinneinbruch-bei-audi-stellenabbau-bei-schaeffler](https://www.spiegel.de/wirtschaft/unternehmen/autobranche-gewinneinbruch-bei-audi-stellenabbau-bei-schaeffler-a-37f37774-7a8c-4b59-8ffa-5169d4301a62#ref=rss)
-### netflix
+* [https://www.spiegel.de/politik/deutschland/die-linke-vorsitzende-ines-schwerdtner-fordert-ampel-zum-zusammenbleiben-auf](https://www.spiegel.de/politik/deutschland/die-linke-vorsitzende-ines-schwerdtner-fordert-ampel-zum-zusammenbleiben-auf-a-1f992318-1670-400c-b44e-5ed0fa8778dc#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-so-reagiert-die-politische-welt-auf-trumps-triumph](https://www.spiegel.de/ausland/us-wahl-so-reagiert-die-politische-welt-auf-trumps-triumph-a-b7aaa4ea-c142-453b-8077-9fda5111f821#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-chef-lars-klingbeil-dringt-auf-kompromissbereitschaft-bei-ampel-krisentreffen](https://www.spiegel.de/politik/deutschland/spd-chef-lars-klingbeil-dringt-auf-kompromissbereitschaft-bei-ampel-krisentreffen-a-87c6718d-f340-4c47-affc-b4bee0396a3f#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wahlsieg-ueber-kamala-harris-der-schock](https://www.spiegel.de/ausland/donald-trump-wahlsieg-ueber-kamala-harris-der-schock-a-ebf81721-3f9a-4a04-9237-5e00c0394c1b#ref=rss)
+### sehen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/netflix-bueros-des-streaminganbieters-wegen-verdachts-auf-steuerbetrug-durchsucht](https://www.spiegel.de/wirtschaft/unternehmen/netflix-bueros-des-streaminganbieters-wegen-verdachts-auf-steuerbetrug-durchsucht-a-e31a6892-789f-47f4-8a73-3622ed46f057#ref=rss)
-### büros
+* [https://www.spiegel.de/start/baden-wuerttemberg-unis-sollen-jura-bachelor-einfuehren-koennen](https://www.spiegel.de/start/baden-wuerttemberg-unis-sollen-jura-bachelor-einfuehren-koennen-a-188fc994-e758-405c-bd4c-9dbe50156009#ref=rss)
+* [https://www.spiegel.de/ausland/bilder-von-wahlparties-so-verfolgt-die-welt-die-us-wahl](https://www.spiegel.de/ausland/bilder-von-wahlparties-so-verfolgt-die-welt-die-us-wahl-a-b024213f-532f-4598-9a7c-c0f3e5942efb#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-pfade-zur-praesidentschaft-so-koennen-harris-und-trump-gewinnen](https://www.spiegel.de/ausland/us-wahl-2024-pfade-zur-praesidentschaft-so-koennen-harris-und-trump-gewinnen-a-b5b87376-4ccb-47aa-a719-a50064c81300#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-in-bildern-so-haben-die-waehler-abgestimmt](https://www.spiegel.de/ausland/us-wahl-in-bildern-so-haben-die-waehler-abgestimmt-a-87089967-e9f5-46d6-a99b-b193498be734#ref=rss)
+### welt
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/netflix-bueros-des-streaminganbieters-wegen-verdachts-auf-steuerbetrug-durchsucht](https://www.spiegel.de/wirtschaft/unternehmen/netflix-bueros-des-streaminganbieters-wegen-verdachts-auf-steuerbetrug-durchsucht-a-e31a6892-789f-47f4-8a73-3622ed46f057#ref=rss)
-### steuerbetrug
+* [https://www.spiegel.de/ausland/us-wahl-so-reagiert-die-politische-welt-auf-trumps-triumph](https://www.spiegel.de/ausland/us-wahl-so-reagiert-die-politische-welt-auf-trumps-triumph-a-b7aaa4ea-c142-453b-8077-9fda5111f821#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wahlsieg-ueber-kamala-harris-der-schock](https://www.spiegel.de/ausland/donald-trump-wahlsieg-ueber-kamala-harris-der-schock-a-ebf81721-3f9a-4a04-9237-5e00c0394c1b#ref=rss)
+* [https://www.spiegel.de/ausland/bilder-von-wahlparties-so-verfolgt-die-welt-die-us-wahl](https://www.spiegel.de/ausland/bilder-von-wahlparties-so-verfolgt-die-welt-die-us-wahl-a-b024213f-532f-4598-9a7c-c0f3e5942efb#ref=rss)
+### florida
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/netflix-bueros-des-streaminganbieters-wegen-verdachts-auf-steuerbetrug-durchsucht](https://www.spiegel.de/wirtschaft/unternehmen/netflix-bueros-des-streaminganbieters-wegen-verdachts-auf-steuerbetrug-durchsucht-a-e31a6892-789f-47f4-8a73-3622ed46f057#ref=rss)
+* [https://www.spiegel.de/ausland/florida-liberalisierung-des-abtreibungsrechts-in-florida-gescheitert](https://www.spiegel.de/ausland/florida-liberalisierung-des-abtreibungsrechts-in-florida-gescheitert-a-01efdb07-4619-4c6f-9609-80e457d05199#ref=rss)
+* [https://www.spiegel.de/ausland/das-sagt-donald-trump-ueber-den-wahlausgang](https://www.spiegel.de/ausland/das-sagt-donald-trump-ueber-den-wahlausgang-a-cab55ce2-e7dd-4916-a1bb-13885304be13#ref=rss)
+### präsidentschaftswahl
+
+* [https://www.spiegel.de/ausland/usa-donald-trump-gewinnt-praesidentschaftswahl](https://www.spiegel.de/ausland/usa-donald-trump-gewinnt-praesidentschaftswahl-a-16840abb-0976-422f-9f1c-0b4eaaf2eeba#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-erklaert-sich-zum-sieger-der-us-wahl-einordnung-von-spiegel-korrespondent-roland-nelles](https://www.spiegel.de/ausland/donald-trump-erklaert-sich-zum-sieger-der-us-wahl-einordnung-von-spiegel-korrespondent-roland-nelles-a-fa6abc4a-74e3-4fac-9fc2-9679209225f5#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-pfade-zur-praesidentschaft-so-koennen-harris-und-trump-gewinnen](https://www.spiegel.de/ausland/us-wahl-2024-pfade-zur-praesidentschaft-so-koennen-harris-und-trump-gewinnen-a-b5b87376-4ccb-47aa-a719-a50064c81300#ref=rss)
+### sieger
+
+* [https://www.spiegel.de/ausland/usa-donald-trump-gewinnt-praesidentschaftswahl](https://www.spiegel.de/ausland/usa-donald-trump-gewinnt-praesidentschaftswahl-a-16840abb-0976-422f-9f1c-0b4eaaf2eeba#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-erklaert-sich-zum-sieger-der-us-wahl-einordnung-von-spiegel-korrespondent-roland-nelles](https://www.spiegel.de/ausland/donald-trump-erklaert-sich-zum-sieger-der-us-wahl-einordnung-von-spiegel-korrespondent-roland-nelles-a-fa6abc4a-74e3-4fac-9fc2-9679209225f5#ref=rss)
+* [https://www.spiegel.de/ausland/das-sagt-donald-trump-ueber-den-wahlausgang](https://www.spiegel.de/ausland/das-sagt-donald-trump-ueber-den-wahlausgang-a-cab55ce2-e7dd-4916-a1bb-13885304be13#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/ausland/usa-donald-trump-gewinnt-praesidentschaftswahl](https://www.spiegel.de/ausland/usa-donald-trump-gewinnt-praesidentschaftswahl-a-16840abb-0976-422f-9f1c-0b4eaaf2eeba#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-erklaert-sich-zum-sieger-der-us-wahl-einordnung-von-spiegel-korrespondent-roland-nelles](https://www.spiegel.de/ausland/donald-trump-erklaert-sich-zum-sieger-der-us-wahl-einordnung-von-spiegel-korrespondent-roland-nelles-a-fa6abc4a-74e3-4fac-9fc2-9679209225f5#ref=rss)
+* [https://www.spiegel.de/ausland/das-sagt-donald-trump-ueber-den-wahlausgang](https://www.spiegel.de/ausland/das-sagt-donald-trump-ueber-den-wahlausgang-a-cab55ce2-e7dd-4916-a1bb-13885304be13#ref=rss)
+### 2024
+
+* [https://www.spiegel.de/wirtschaft/weihnachtsgeschaeft-haendler-rechnen-mit-weniger-umsatz-als-erwartet](https://www.spiegel.de/wirtschaft/weihnachtsgeschaeft-haendler-rechnen-mit-weniger-umsatz-als-erwartet-a-412b99b6-405a-482b-8779-c14d52c35691#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-live-ticker-donald-trump-erklaert-sich-zum-sieger](https://www.spiegel.de/ausland/us-wahl-2024-live-ticker-donald-trump-erklaert-sich-zum-sieger-a-a0bb0dfa-bb34-4a3c-ade8-ec7808da33dc#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-pfade-zur-praesidentschaft-so-koennen-harris-und-trump-gewinnen](https://www.spiegel.de/ausland/us-wahl-2024-pfade-zur-praesidentschaft-so-koennen-harris-und-trump-gewinnen-a-b5b87376-4ccb-47aa-a719-a50064c81300#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/politik/deutschland/die-linke-vorsitzende-ines-schwerdtner-fordert-ampel-zum-zusammenbleiben-auf](https://www.spiegel.de/politik/deutschland/die-linke-vorsitzende-ines-schwerdtner-fordert-ampel-zum-zusammenbleiben-auf-a-1f992318-1670-400c-b44e-5ed0fa8778dc#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-so-reagiert-die-politische-welt-auf-trumps-triumph](https://www.spiegel.de/ausland/us-wahl-so-reagiert-die-politische-welt-auf-trumps-triumph-a-b7aaa4ea-c142-453b-8077-9fda5111f821#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-chef-lars-klingbeil-dringt-auf-kompromissbereitschaft-bei-ampel-krisentreffen](https://www.spiegel.de/politik/deutschland/spd-chef-lars-klingbeil-dringt-auf-kompromissbereitschaft-bei-ampel-krisentreffen-a-87c6718d-f340-4c47-affc-b4bee0396a3f#ref=rss)
+### feiern
+
+* [https://www.spiegel.de/sport/fussball/atalanta-bei-ssc-neapel-schotte-war-einziger-bergamo-fan-im-stadion](https://www.spiegel.de/sport/fussball/atalanta-bei-ssc-neapel-schotte-war-einziger-bergamo-fan-im-stadion-a-cfc8b5a8-5cc2-4f56-bbb8-d461420fc09b#ref=rss)
+* [https://www.spiegel.de/ausland/us-praesidentschaftswahl-donald-trump-erklaert-sich-zum-sieger-und-verspricht-ein-goldenes-zeitalter-fuer-amerika](https://www.spiegel.de/ausland/us-praesidentschaftswahl-donald-trump-erklaert-sich-zum-sieger-und-verspricht-ein-goldenes-zeitalter-fuer-amerika-a-76fa3823-a3f6-40c9-bb76-493f338540d4#ref=rss)
+* [https://www.spiegel.de/ausland/das-sagt-donald-trump-ueber-den-wahlausgang](https://www.spiegel.de/ausland/das-sagt-donald-trump-ueber-den-wahlausgang-a-cab55ce2-e7dd-4916-a1bb-13885304be13#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/politik/deutschland/brandenburg-landesvorstand-der-gruenen-tritt-nach-wahldebakel-zurueck](https://www.spiegel.de/politik/deutschland/brandenburg-landesvorstand-der-gruenen-tritt-nach-wahldebakel-zurueck-a-ab7c3f51-dc6e-4362-a60d-f1bb183f2d0b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/industrie-auftraege-steigen-oekonomen-fuerchten-kurze-dauer-wegen-trump](https://www.spiegel.de/wirtschaft/unternehmen/industrie-auftraege-steigen-oekonomen-fuerchten-kurze-dauer-wegen-trump-a-2419d3d1-8fc8-4565-b41d-17c491712e61#ref=rss)
+* [https://www.spiegel.de/wirtschaft/heizkosten-sind-2023-um-mehr-als-30-prozent-gestiegen](https://www.spiegel.de/wirtschaft/heizkosten-sind-2023-um-mehr-als-30-prozent-gestiegen-a-09e19fb7-e1ba-4b3b-bd14-19e29e9c2e50#ref=rss)
+### zieht
+
+* [https://www.spiegel.de/politik/deutschland/brandenburg-landesvorstand-der-gruenen-tritt-nach-wahldebakel-zurueck](https://www.spiegel.de/politik/deutschland/brandenburg-landesvorstand-der-gruenen-tritt-nach-wahldebakel-zurueck-a-ab7c3f51-dc6e-4362-a60d-f1bb183f2d0b#ref=rss)
+* [https://www.spiegel.de/ausland/sarah-mcbride-erste-trans-person-in-den-us-kongress-gewaehlt](https://www.spiegel.de/ausland/sarah-mcbride-erste-trans-person-in-den-us-kongress-gewaehlt-a-cb711d5d-7167-44d0-8c9a-0cb6660839c5#ref=rss)
+* [https://www.spiegel.de/ausland/nancy-pelosi-verteidigt-sitz-im-us-kongress](https://www.spiegel.de/ausland/nancy-pelosi-verteidigt-sitz-im-us-kongress-a-441d5a8b-2a23-49ad-a2ca-624f4f7101dd#ref=rss)
+### fest
+
+* [https://www.spiegel.de/kultur/gestohlene-warhols-niederlaendische-polizei-nimmt-verdaechtigen-fest](https://www.spiegel.de/kultur/gestohlene-warhols-niederlaendische-polizei-nimmt-verdaechtigen-fest-a-8f0590cf-a231-4819-976f-1cf7e1ab1fd9#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-fuer-mick-schumacher-schliesst-sich-das-tor-zur-formel-1](https://www.spiegel.de/sport/formel1/formel-1-fuer-mick-schumacher-schliesst-sich-das-tor-zur-formel-1-a-a43a8409-155e-4a0a-9544-1824f49815ac#ref=rss)
+* [https://www.spiegel.de/ausland/das-sagt-donald-trump-ueber-den-wahlausgang](https://www.spiegel.de/ausland/das-sagt-donald-trump-ueber-den-wahlausgang-a-cab55ce2-e7dd-4916-a1bb-13885304be13#ref=rss)
+### formel
+
+* [https://www.spiegel.de/sport/formel1/formel-1-fuer-mick-schumacher-schliesst-sich-das-tor-zur-formel-1](https://www.spiegel.de/sport/formel1/formel-1-fuer-mick-schumacher-schliesst-sich-das-tor-zur-formel-1-a-a43a8409-155e-4a0a-9544-1824f49815ac#ref=rss)
+### 1
+
+* [https://www.spiegel.de/sport/formel1/formel-1-fuer-mick-schumacher-schliesst-sich-das-tor-zur-formel-1](https://www.spiegel.de/sport/formel1/formel-1-fuer-mick-schumacher-schliesst-sich-das-tor-zur-formel-1-a-a43a8409-155e-4a0a-9544-1824f49815ac#ref=rss)
+### macht
+
+* [https://www.spiegel.de/ausland/us-praesidentschaftswahl-donald-trump-erklaert-sich-zum-sieger-und-verspricht-ein-goldenes-zeitalter-fuer-amerika](https://www.spiegel.de/ausland/us-praesidentschaftswahl-donald-trump-erklaert-sich-zum-sieger-und-verspricht-ein-goldenes-zeitalter-fuer-amerika-a-76fa3823-a3f6-40c9-bb76-493f338540d4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/industrie-auftraege-steigen-oekonomen-fuerchten-kurze-dauer-wegen-trump](https://www.spiegel.de/wirtschaft/unternehmen/industrie-auftraege-steigen-oekonomen-fuerchten-kurze-dauer-wegen-trump-a-2419d3d1-8fc8-4565-b41d-17c491712e61#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-gewinn-bricht-um-fast-84-prozent-ein](https://www.spiegel.de/wirtschaft/unternehmen/bmw-gewinn-bricht-um-fast-84-prozent-ein-a-5967019f-f3ff-4d07-b18c-6ed69d63f86e#ref=rss)
+### prozent
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-gewinn-bricht-um-fast-84-prozent-ein](https://www.spiegel.de/wirtschaft/unternehmen/bmw-gewinn-bricht-um-fast-84-prozent-ein-a-5967019f-f3ff-4d07-b18c-6ed69d63f86e#ref=rss)
+* [https://www.spiegel.de/ausland/florida-liberalisierung-des-abtreibungsrechts-in-florida-gescheitert](https://www.spiegel.de/ausland/florida-liberalisierung-des-abtreibungsrechts-in-florida-gescheitert-a-01efdb07-4619-4c6f-9609-80e457d05199#ref=rss)
+* [https://www.spiegel.de/wirtschaft/heizkosten-sind-2023-um-mehr-als-30-prozent-gestiegen](https://www.spiegel.de/wirtschaft/heizkosten-sind-2023-um-mehr-als-30-prozent-gestiegen-a-09e19fb7-e1ba-4b3b-bd14-19e29e9c2e50#ref=rss)
+### uskongress
+
+* [https://www.spiegel.de/ausland/sarah-mcbride-erste-trans-person-in-den-us-kongress-gewaehlt](https://www.spiegel.de/ausland/sarah-mcbride-erste-trans-person-in-den-us-kongress-gewaehlt-a-cb711d5d-7167-44d0-8c9a-0cb6660839c5#ref=rss)
+* [https://www.spiegel.de/ausland/nancy-pelosi-verteidigt-sitz-im-us-kongress](https://www.spiegel.de/ausland/nancy-pelosi-verteidigt-sitz-im-us-kongress-a-441d5a8b-2a23-49ad-a2ca-624f4f7101dd#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/ausland/usa-donald-trump-gewinnt-praesidentschaftswahl](https://www.spiegel.de/ausland/usa-donald-trump-gewinnt-praesidentschaftswahl-a-16840abb-0976-422f-9f1c-0b4eaaf2eeba#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-in-bildern-so-haben-die-waehler-abgestimmt](https://www.spiegel.de/ausland/us-wahl-in-bildern-so-haben-die-waehler-abgestimmt-a-87089967-e9f5-46d6-a99b-b193498be734#ref=rss)
+### zweite
+
+* [https://www.spiegel.de/ausland/usa-donald-trump-gewinnt-praesidentschaftswahl](https://www.spiegel.de/ausland/usa-donald-trump-gewinnt-praesidentschaftswahl-a-16840abb-0976-422f-9f1c-0b4eaaf2eeba#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-live-ticker-donald-trump-erklaert-sich-zum-sieger](https://www.spiegel.de/ausland/us-wahl-2024-live-ticker-donald-trump-erklaert-sich-zum-sieger-a-a0bb0dfa-bb34-4a3c-ade8-ec7808da33dc#ref=rss)
+### amtszeit
+
+* [https://www.spiegel.de/ausland/usa-donald-trump-gewinnt-praesidentschaftswahl](https://www.spiegel.de/ausland/usa-donald-trump-gewinnt-praesidentschaftswahl-a-16840abb-0976-422f-9f1c-0b4eaaf2eeba#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-live-ticker-donald-trump-erklaert-sich-zum-sieger](https://www.spiegel.de/ausland/us-wahl-2024-live-ticker-donald-trump-erklaert-sich-zum-sieger-a-a0bb0dfa-bb34-4a3c-ade8-ec7808da33dc#ref=rss)
+### weißen
+
+* [https://www.spiegel.de/ausland/usa-donald-trump-gewinnt-praesidentschaftswahl](https://www.spiegel.de/ausland/usa-donald-trump-gewinnt-praesidentschaftswahl-a-16840abb-0976-422f-9f1c-0b4eaaf2eeba#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-live-ticker-donald-trump-erklaert-sich-zum-sieger](https://www.spiegel.de/ausland/us-wahl-2024-live-ticker-donald-trump-erklaert-sich-zum-sieger-a-a0bb0dfa-bb34-4a3c-ade8-ec7808da33dc#ref=rss)
+### haus
+
+* [https://www.spiegel.de/ausland/usa-donald-trump-gewinnt-praesidentschaftswahl](https://www.spiegel.de/ausland/usa-donald-trump-gewinnt-praesidentschaftswahl-a-16840abb-0976-422f-9f1c-0b4eaaf2eeba#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-live-ticker-donald-trump-erklaert-sich-zum-sieger](https://www.spiegel.de/ausland/us-wahl-2024-live-ticker-donald-trump-erklaert-sich-zum-sieger-a-a0bb0dfa-bb34-4a3c-ade8-ec7808da33dc#ref=rss)
+### republikaner
+
+* [https://www.spiegel.de/ausland/usa-donald-trump-gewinnt-praesidentschaftswahl](https://www.spiegel.de/ausland/usa-donald-trump-gewinnt-praesidentschaftswahl-a-16840abb-0976-422f-9f1c-0b4eaaf2eeba#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-live-ticker-donald-trump-erklaert-sich-zum-sieger](https://www.spiegel.de/ausland/us-wahl-2024-live-ticker-donald-trump-erklaert-sich-zum-sieger-a-a0bb0dfa-bb34-4a3c-ade8-ec7808da33dc#ref=rss)
+### mallorca
+
+* [https://www.spiegel.de/panorama/leute/mallorca-jan-hofer-schwaermt-von-der-insel-alles-ist-heller-leichter-entspannter-als-in-deutschland](https://www.spiegel.de/panorama/leute/mallorca-jan-hofer-schwaermt-von-der-insel-alles-ist-heller-leichter-entspannter-als-in-deutschland-a-c5583487-e99a-461d-a055-4f3088ece6eb#ref=rss)
+### jan
+
+* [https://www.spiegel.de/panorama/leute/mallorca-jan-hofer-schwaermt-von-der-insel-alles-ist-heller-leichter-entspannter-als-in-deutschland](https://www.spiegel.de/panorama/leute/mallorca-jan-hofer-schwaermt-von-der-insel-alles-ist-heller-leichter-entspannter-als-in-deutschland-a-c5583487-e99a-461d-a055-4f3088ece6eb#ref=rss)
+### hofer
+
+* [https://www.spiegel.de/panorama/leute/mallorca-jan-hofer-schwaermt-von-der-insel-alles-ist-heller-leichter-entspannter-als-in-deutschland](https://www.spiegel.de/panorama/leute/mallorca-jan-hofer-schwaermt-von-der-insel-alles-ist-heller-leichter-entspannter-als-in-deutschland-a-c5583487-e99a-461d-a055-4f3088ece6eb#ref=rss)
+### wichtiger
+
+* [https://www.spiegel.de/ausland/donald-trump-erklaert-sich-zum-sieger-der-us-wahl-einordnung-von-spiegel-korrespondent-roland-nelles](https://www.spiegel.de/ausland/donald-trump-erklaert-sich-zum-sieger-der-us-wahl-einordnung-von-spiegel-korrespondent-roland-nelles-a-fa6abc4a-74e3-4fac-9fc2-9679209225f5#ref=rss)
+* [https://www.spiegel.de/ausland/sarah-mcbride-erste-trans-person-in-den-us-kongress-gewaehlt](https://www.spiegel.de/ausland/sarah-mcbride-erste-trans-person-in-den-us-kongress-gewaehlt-a-cb711d5d-7167-44d0-8c9a-0cb6660839c5#ref=rss)
+### demokraten
+
+* [https://www.spiegel.de/ausland/donald-trump-die-demokraten-haben-zu-viel-gewarnt-und-zu-wenig-gewagt-bei-der-us-wahl-kommentar](https://www.spiegel.de/ausland/donald-trump-die-demokraten-haben-zu-viel-gewarnt-und-zu-wenig-gewagt-bei-der-us-wahl-kommentar-a-464ab152-a1e6-40be-9fb6-039b31554f04#ref=rss)
+### gewarnt
+
+* [https://www.spiegel.de/ausland/donald-trump-die-demokraten-haben-zu-viel-gewarnt-und-zu-wenig-gewagt-bei-der-us-wahl-kommentar](https://www.spiegel.de/ausland/donald-trump-die-demokraten-haben-zu-viel-gewarnt-und-zu-wenig-gewagt-bei-der-us-wahl-kommentar-a-464ab152-a1e6-40be-9fb6-039b31554f04#ref=rss)
+### wenig
+
+* [https://www.spiegel.de/ausland/donald-trump-die-demokraten-haben-zu-viel-gewarnt-und-zu-wenig-gewagt-bei-der-us-wahl-kommentar](https://www.spiegel.de/ausland/donald-trump-die-demokraten-haben-zu-viel-gewarnt-und-zu-wenig-gewagt-bei-der-us-wahl-kommentar-a-464ab152-a1e6-40be-9fb6-039b31554f04#ref=rss)
+### gewagt
+
+* [https://www.spiegel.de/ausland/donald-trump-die-demokraten-haben-zu-viel-gewarnt-und-zu-wenig-gewagt-bei-der-us-wahl-kommentar](https://www.spiegel.de/ausland/donald-trump-die-demokraten-haben-zu-viel-gewarnt-und-zu-wenig-gewagt-bei-der-us-wahl-kommentar-a-464ab152-a1e6-40be-9fb6-039b31554f04#ref=rss)
+### gewählt
+
+* [https://www.spiegel.de/ausland/donald-trump-die-demokraten-haben-zu-viel-gewarnt-und-zu-wenig-gewagt-bei-der-us-wahl-kommentar](https://www.spiegel.de/ausland/donald-trump-die-demokraten-haben-zu-viel-gewarnt-und-zu-wenig-gewagt-bei-der-us-wahl-kommentar-a-464ab152-a1e6-40be-9fb6-039b31554f04#ref=rss)
+* [https://www.spiegel.de/ausland/sarah-mcbride-erste-trans-person-in-den-us-kongress-gewaehlt](https://www.spiegel.de/ausland/sarah-mcbride-erste-trans-person-in-den-us-kongress-gewaehlt-a-cb711d5d-7167-44d0-8c9a-0cb6660839c5#ref=rss)
+### erreicht
+
+* [https://www.spiegel.de/ausland/us-wahl-2024-live-ticker-donald-trump-erklaert-sich-zum-sieger](https://www.spiegel.de/ausland/us-wahl-2024-live-ticker-donald-trump-erklaert-sich-zum-sieger-a-a0bb0dfa-bb34-4a3c-ade8-ec7808da33dc#ref=rss)
+* [https://www.spiegel.de/ausland/florida-liberalisierung-des-abtreibungsrechts-in-florida-gescheitert](https://www.spiegel.de/ausland/florida-liberalisierung-des-abtreibungsrechts-in-florida-gescheitert-a-01efdb07-4619-4c6f-9609-80e457d05199#ref=rss)
+### schwerdtner
+
+* [https://www.spiegel.de/politik/deutschland/die-linke-vorsitzende-ines-schwerdtner-fordert-ampel-zum-zusammenbleiben-auf](https://www.spiegel.de/politik/deutschland/die-linke-vorsitzende-ines-schwerdtner-fordert-ampel-zum-zusammenbleiben-auf-a-1f992318-1670-400c-b44e-5ed0fa8778dc#ref=rss)
+### ampel
+
+* [https://www.spiegel.de/politik/deutschland/die-linke-vorsitzende-ines-schwerdtner-fordert-ampel-zum-zusammenbleiben-auf](https://www.spiegel.de/politik/deutschland/die-linke-vorsitzende-ines-schwerdtner-fordert-ampel-zum-zusammenbleiben-auf-a-1f992318-1670-400c-b44e-5ed0fa8778dc#ref=rss)
+### neapel
+
+* [https://www.spiegel.de/sport/fussball/atalanta-bei-ssc-neapel-schotte-war-einziger-bergamo-fan-im-stadion](https://www.spiegel.de/sport/fussball/atalanta-bei-ssc-neapel-schotte-war-einziger-bergamo-fan-im-stadion-a-cfc8b5a8-5cc2-4f56-bbb8-d461420fc09b#ref=rss)
+### schotte
+
+* [https://www.spiegel.de/sport/fussball/atalanta-bei-ssc-neapel-schotte-war-einziger-bergamo-fan-im-stadion](https://www.spiegel.de/sport/fussball/atalanta-bei-ssc-neapel-schotte-war-einziger-bergamo-fan-im-stadion-a-cfc8b5a8-5cc2-4f56-bbb8-d461420fc09b#ref=rss)
+### stadion
+
+* [https://www.spiegel.de/sport/fussball/atalanta-bei-ssc-neapel-schotte-war-einziger-bergamo-fan-im-stadion](https://www.spiegel.de/sport/fussball/atalanta-bei-ssc-neapel-schotte-war-einziger-bergamo-fan-im-stadion-a-cfc8b5a8-5cc2-4f56-bbb8-d461420fc09b#ref=rss)
+### ganz
+
+* [https://www.spiegel.de/sport/fussball/atalanta-bei-ssc-neapel-schotte-war-einziger-bergamo-fan-im-stadion](https://www.spiegel.de/sport/fussball/atalanta-bei-ssc-neapel-schotte-war-einziger-bergamo-fan-im-stadion-a-cfc8b5a8-5cc2-4f56-bbb8-d461420fc09b#ref=rss)
+### badenwürttemberg
+
+* [https://www.spiegel.de/start/baden-wuerttemberg-unis-sollen-jura-bachelor-einfuehren-koennen](https://www.spiegel.de/start/baden-wuerttemberg-unis-sollen-jura-bachelor-einfuehren-koennen-a-188fc994-e758-405c-bd4c-9dbe50156009#ref=rss)
+### brandenburg
+
+* [https://www.spiegel.de/politik/deutschland/brandenburg-landesvorstand-der-gruenen-tritt-nach-wahldebakel-zurueck](https://www.spiegel.de/politik/deutschland/brandenburg-landesvorstand-der-gruenen-tritt-nach-wahldebakel-zurueck-a-ab7c3f51-dc6e-4362-a60d-f1bb183f2d0b#ref=rss)
+### grünen
+
+* [https://www.spiegel.de/politik/deutschland/brandenburg-landesvorstand-der-gruenen-tritt-nach-wahldebakel-zurueck](https://www.spiegel.de/politik/deutschland/brandenburg-landesvorstand-der-gruenen-tritt-nach-wahldebakel-zurueck-a-ab7c3f51-dc6e-4362-a60d-f1bb183f2d0b#ref=rss)
+### hatten
+
+* [https://www.spiegel.de/politik/deutschland/brandenburg-landesvorstand-der-gruenen-tritt-nach-wahldebakel-zurueck](https://www.spiegel.de/politik/deutschland/brandenburg-landesvorstand-der-gruenen-tritt-nach-wahldebakel-zurueck-a-ab7c3f51-dc6e-4362-a60d-f1bb183f2d0b#ref=rss)
+* [https://www.spiegel.de/kultur/gestohlene-warhols-niederlaendische-polizei-nimmt-verdaechtigen-fest](https://www.spiegel.de/kultur/gestohlene-warhols-niederlaendische-polizei-nimmt-verdaechtigen-fest-a-8f0590cf-a231-4819-976f-1cf7e1ab1fd9#ref=rss)
+### ergebnis
+
+* [https://www.spiegel.de/politik/deutschland/brandenburg-landesvorstand-der-gruenen-tritt-nach-wahldebakel-zurueck](https://www.spiegel.de/politik/deutschland/brandenburg-landesvorstand-der-gruenen-tritt-nach-wahldebakel-zurueck-a-ab7c3f51-dc6e-4362-a60d-f1bb183f2d0b#ref=rss)
+* [https://www.spiegel.de/ausland/das-sagt-donald-trump-ueber-den-wahlausgang](https://www.spiegel.de/ausland/das-sagt-donald-trump-ueber-den-wahlausgang-a-cab55ce2-e7dd-4916-a1bb-13885304be13#ref=rss)
+### gestohlen
+
+* [https://www.spiegel.de/kultur/gestohlene-warhols-niederlaendische-polizei-nimmt-verdaechtigen-fest](https://www.spiegel.de/kultur/gestohlene-warhols-niederlaendische-polizei-nimmt-verdaechtigen-fest-a-8f0590cf-a231-4819-976f-1cf7e1ab1fd9#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/kultur/gestohlene-warhols-niederlaendische-polizei-nimmt-verdaechtigen-fest](https://www.spiegel.de/kultur/gestohlene-warhols-niederlaendische-polizei-nimmt-verdaechtigen-fest-a-8f0590cf-a231-4819-976f-1cf7e1ab1fd9#ref=rss)
+### verdächtigen
+
+* [https://www.spiegel.de/kultur/gestohlene-warhols-niederlaendische-polizei-nimmt-verdaechtigen-fest](https://www.spiegel.de/kultur/gestohlene-warhols-niederlaendische-polizei-nimmt-verdaechtigen-fest-a-8f0590cf-a231-4819-976f-1cf7e1ab1fd9#ref=rss)
+### wolfgang
+
+* [https://www.spiegel.de/panorama/leute/wolfgang-joop-spricht-ueber-kontrollverlust-im-alter](https://www.spiegel.de/panorama/leute/wolfgang-joop-spricht-ueber-kontrollverlust-im-alter-a-9c45126b-4fb4-4755-ae48-83fdd0f0d2c6#ref=rss)
+### joop
+
+* [https://www.spiegel.de/panorama/leute/wolfgang-joop-spricht-ueber-kontrollverlust-im-alter](https://www.spiegel.de/panorama/leute/wolfgang-joop-spricht-ueber-kontrollverlust-im-alter-a-9c45126b-4fb4-4755-ae48-83fdd0f0d2c6#ref=rss)
+### politische
+
+* [https://www.spiegel.de/ausland/us-wahl-so-reagiert-die-politische-welt-auf-trumps-triumph](https://www.spiegel.de/ausland/us-wahl-so-reagiert-die-politische-welt-auf-trumps-triumph-a-b7aaa4ea-c142-453b-8077-9fda5111f821#ref=rss)
+* [https://www.spiegel.de/ausland/sarah-mcbride-erste-trans-person-in-den-us-kongress-gewaehlt](https://www.spiegel.de/ausland/sarah-mcbride-erste-trans-person-in-den-us-kongress-gewaehlt-a-cb711d5d-7167-44d0-8c9a-0cb6660839c5#ref=rss)
+### dennoch
+
+* [https://www.spiegel.de/ausland/us-wahl-so-reagiert-die-politische-welt-auf-trumps-triumph](https://www.spiegel.de/ausland/us-wahl-so-reagiert-die-politische-welt-auf-trumps-triumph-a-b7aaa4ea-c142-453b-8077-9fda5111f821#ref=rss)
+* [https://www.spiegel.de/wirtschaft/heizkosten-sind-2023-um-mehr-als-30-prozent-gestiegen](https://www.spiegel.de/wirtschaft/heizkosten-sind-2023-um-mehr-als-30-prozent-gestiegen-a-09e19fb7-e1ba-4b3b-bd14-19e29e9c2e50#ref=rss)
+### china
+
+* [https://www.spiegel.de/ausland/us-wahl-so-reagiert-die-politische-welt-auf-trumps-triumph](https://www.spiegel.de/ausland/us-wahl-so-reagiert-die-politische-welt-auf-trumps-triumph-a-b7aaa4ea-c142-453b-8077-9fda5111f821#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-gewinn-bricht-um-fast-84-prozent-ein](https://www.spiegel.de/wirtschaft/unternehmen/bmw-gewinn-bricht-um-fast-84-prozent-ein-a-5967019f-f3ff-4d07-b18c-6ed69d63f86e#ref=rss)
+### mick
+
+* [https://www.spiegel.de/sport/formel1/formel-1-fuer-mick-schumacher-schliesst-sich-das-tor-zur-formel-1](https://www.spiegel.de/sport/formel1/formel-1-fuer-mick-schumacher-schliesst-sich-das-tor-zur-formel-1-a-a43a8409-155e-4a0a-9544-1824f49815ac#ref=rss)
+### schumacher
+
+* [https://www.spiegel.de/sport/formel1/formel-1-fuer-mick-schumacher-schliesst-sich-das-tor-zur-formel-1](https://www.spiegel.de/sport/formel1/formel-1-fuer-mick-schumacher-schliesst-sich-das-tor-zur-formel-1-a-a43a8409-155e-4a0a-9544-1824f49815ac#ref=rss)
+### zuletzt
+
+* [https://www.spiegel.de/sport/formel1/formel-1-fuer-mick-schumacher-schliesst-sich-das-tor-zur-formel-1](https://www.spiegel.de/sport/formel1/formel-1-fuer-mick-schumacher-schliesst-sich-das-tor-zur-formel-1-a-a43a8409-155e-4a0a-9544-1824f49815ac#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/industrie-auftraege-steigen-oekonomen-fuerchten-kurze-dauer-wegen-trump](https://www.spiegel.de/wirtschaft/unternehmen/industrie-auftraege-steigen-oekonomen-fuerchten-kurze-dauer-wegen-trump-a-2419d3d1-8fc8-4565-b41d-17c491712e61#ref=rss)
+### stimmen
+
+* [https://www.spiegel.de/ausland/us-praesidentschaftswahl-donald-trump-erklaert-sich-zum-sieger-und-verspricht-ein-goldenes-zeitalter-fuer-amerika](https://www.spiegel.de/ausland/us-praesidentschaftswahl-donald-trump-erklaert-sich-zum-sieger-und-verspricht-ein-goldenes-zeitalter-fuer-amerika-a-76fa3823-a3f6-40c9-bb76-493f338540d4#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-in-bildern-so-haben-die-waehler-abgestimmt](https://www.spiegel.de/ausland/us-wahl-in-bildern-so-haben-die-waehler-abgestimmt-a-87089967-e9f5-46d6-a99b-b193498be734#ref=rss)
+### anhängern
+
+* [https://www.spiegel.de/ausland/us-praesidentschaftswahl-donald-trump-erklaert-sich-zum-sieger-und-verspricht-ein-goldenes-zeitalter-fuer-amerika](https://www.spiegel.de/ausland/us-praesidentschaftswahl-donald-trump-erklaert-sich-zum-sieger-und-verspricht-ein-goldenes-zeitalter-fuer-amerika-a-76fa3823-a3f6-40c9-bb76-493f338540d4#ref=rss)
+* [https://www.spiegel.de/ausland/das-sagt-donald-trump-ueber-den-wahlausgang](https://www.spiegel.de/ausland/das-sagt-donald-trump-ueber-den-wahlausgang-a-cab55ce2-e7dd-4916-a1bb-13885304be13#ref=rss)
+### spdchef
+
+* [https://www.spiegel.de/politik/deutschland/spd-chef-lars-klingbeil-dringt-auf-kompromissbereitschaft-bei-ampel-krisentreffen](https://www.spiegel.de/politik/deutschland/spd-chef-lars-klingbeil-dringt-auf-kompromissbereitschaft-bei-ampel-krisentreffen-a-87c6718d-f340-4c47-affc-b4bee0396a3f#ref=rss)
+### lars
+
+* [https://www.spiegel.de/politik/deutschland/spd-chef-lars-klingbeil-dringt-auf-kompromissbereitschaft-bei-ampel-krisentreffen](https://www.spiegel.de/politik/deutschland/spd-chef-lars-klingbeil-dringt-auf-kompromissbereitschaft-bei-ampel-krisentreffen-a-87c6718d-f340-4c47-affc-b4bee0396a3f#ref=rss)
+### klingbeil
+
+* [https://www.spiegel.de/politik/deutschland/spd-chef-lars-klingbeil-dringt-auf-kompromissbereitschaft-bei-ampel-krisentreffen](https://www.spiegel.de/politik/deutschland/spd-chef-lars-klingbeil-dringt-auf-kompromissbereitschaft-bei-ampel-krisentreffen-a-87c6718d-f340-4c47-affc-b4bee0396a3f#ref=rss)
+### stehen
+
+* [https://www.spiegel.de/ausland/donald-trump-wahlsieg-ueber-kamala-harris-der-schock](https://www.spiegel.de/ausland/donald-trump-wahlsieg-ueber-kamala-harris-der-schock-a-ebf81721-3f9a-4a04-9237-5e00c0394c1b#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-pfade-zur-praesidentschaft-so-koennen-harris-und-trump-gewinnen](https://www.spiegel.de/ausland/us-wahl-2024-pfade-zur-praesidentschaft-so-koennen-harris-und-trump-gewinnen-a-b5b87376-4ccb-47aa-a719-a50064c81300#ref=rss)
+### ökonomen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/industrie-auftraege-steigen-oekonomen-fuerchten-kurze-dauer-wegen-trump](https://www.spiegel.de/wirtschaft/unternehmen/industrie-auftraege-steigen-oekonomen-fuerchten-kurze-dauer-wegen-trump-a-2419d3d1-8fc8-4565-b41d-17c491712e61#ref=rss)
+### fürchten
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/industrie-auftraege-steigen-oekonomen-fuerchten-kurze-dauer-wegen-trump](https://www.spiegel.de/wirtschaft/unternehmen/industrie-auftraege-steigen-oekonomen-fuerchten-kurze-dauer-wegen-trump-a-2419d3d1-8fc8-4565-b41d-17c491712e61#ref=rss)
+### bmw
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-gewinn-bricht-um-fast-84-prozent-ein](https://www.spiegel.de/wirtschaft/unternehmen/bmw-gewinn-bricht-um-fast-84-prozent-ein-a-5967019f-f3ff-4d07-b18c-6ed69d63f86e#ref=rss)
+### 84
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-gewinn-bricht-um-fast-84-prozent-ein](https://www.spiegel.de/wirtschaft/unternehmen/bmw-gewinn-bricht-um-fast-84-prozent-ein-a-5967019f-f3ff-4d07-b18c-6ed69d63f86e#ref=rss)
+* [https://www.spiegel.de/ausland/nancy-pelosi-verteidigt-sitz-im-us-kongress](https://www.spiegel.de/ausland/nancy-pelosi-verteidigt-sitz-im-us-kongress-a-441d5a8b-2a23-49ad-a2ca-624f4f7101dd#ref=rss)
+### gescheitert
+
+* [https://www.spiegel.de/ausland/florida-liberalisierung-des-abtreibungsrechts-in-florida-gescheitert](https://www.spiegel.de/ausland/florida-liberalisierung-des-abtreibungsrechts-in-florida-gescheitert-a-01efdb07-4619-4c6f-9609-80e457d05199#ref=rss)
+* [https://www.spiegel.de/panorama/nordrhein-westfalen-erster-jugendlicher-in-abschiebehaft-rueckfuehrung-gescheitert](https://www.spiegel.de/panorama/nordrhein-westfalen-erster-jugendlicher-in-abschiebehaft-rueckfuehrung-gescheitert-a-8147ffde-7904-49e2-925f-0a6ca288d515#ref=rss)
+### bilder
+
+* [https://www.spiegel.de/ausland/bilder-von-wahlparties-so-verfolgt-die-welt-die-us-wahl](https://www.spiegel.de/ausland/bilder-von-wahlparties-so-verfolgt-die-welt-die-us-wahl-a-b024213f-532f-4598-9a7c-c0f3e5942efb#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-in-bildern-so-haben-die-waehler-abgestimmt](https://www.spiegel.de/ausland/us-wahl-in-bildern-so-haben-die-waehler-abgestimmt-a-87089967-e9f5-46d6-a99b-b193498be734#ref=rss)
+### wahl
+
+* [https://www.spiegel.de/ausland/bilder-von-wahlparties-so-verfolgt-die-welt-die-us-wahl](https://www.spiegel.de/ausland/bilder-von-wahlparties-so-verfolgt-die-welt-die-us-wahl-a-b024213f-532f-4598-9a7c-c0f3e5942efb#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-in-bildern-so-haben-die-waehler-abgestimmt](https://www.spiegel.de/ausland/us-wahl-in-bildern-so-haben-die-waehler-abgestimmt-a-87089967-e9f5-46d6-a99b-b193498be734#ref=rss)
+### yoav
+
+* [https://www.spiegel.de/ausland/israel-yoav-gallant-prangert-moralische-dunkelheit-an](https://www.spiegel.de/ausland/israel-yoav-gallant-prangert-moralische-dunkelheit-an-a-3f5c1e7d-461f-4ba1-bf97-e494a57093c4#ref=rss)
+### gallant
+
+* [https://www.spiegel.de/ausland/israel-yoav-gallant-prangert-moralische-dunkelheit-an](https://www.spiegel.de/ausland/israel-yoav-gallant-prangert-moralische-dunkelheit-an-a-3f5c1e7d-461f-4ba1-bf97-e494a57093c4#ref=rss)
+### sarah
+
+* [https://www.spiegel.de/ausland/sarah-mcbride-erste-trans-person-in-den-us-kongress-gewaehlt](https://www.spiegel.de/ausland/sarah-mcbride-erste-trans-person-in-den-us-kongress-gewaehlt-a-cb711d5d-7167-44d0-8c9a-0cb6660839c5#ref=rss)
+### mcbride
+
+* [https://www.spiegel.de/ausland/sarah-mcbride-erste-trans-person-in-den-us-kongress-gewaehlt](https://www.spiegel.de/ausland/sarah-mcbride-erste-trans-person-in-den-us-kongress-gewaehlt-a-cb711d5d-7167-44d0-8c9a-0cb6660839c5#ref=rss)
+### trans
+
+* [https://www.spiegel.de/ausland/sarah-mcbride-erste-trans-person-in-den-us-kongress-gewaehlt](https://www.spiegel.de/ausland/sarah-mcbride-erste-trans-person-in-den-us-kongress-gewaehlt-a-cb711d5d-7167-44d0-8c9a-0cb6660839c5#ref=rss)
+### person
+
+* [https://www.spiegel.de/ausland/sarah-mcbride-erste-trans-person-in-den-us-kongress-gewaehlt](https://www.spiegel.de/ausland/sarah-mcbride-erste-trans-person-in-den-us-kongress-gewaehlt-a-cb711d5d-7167-44d0-8c9a-0cb6660839c5#ref=rss)
+### nordrheinwestfalen
+
+* [https://www.spiegel.de/panorama/nordrhein-westfalen-erster-jugendlicher-in-abschiebehaft-rueckfuehrung-gescheitert](https://www.spiegel.de/panorama/nordrhein-westfalen-erster-jugendlicher-in-abschiebehaft-rueckfuehrung-gescheitert-a-8147ffde-7904-49e2-925f-0a6ca288d515#ref=rss)
+### abschiebehaft
+
+* [https://www.spiegel.de/panorama/nordrhein-westfalen-erster-jugendlicher-in-abschiebehaft-rueckfuehrung-gescheitert](https://www.spiegel.de/panorama/nordrhein-westfalen-erster-jugendlicher-in-abschiebehaft-rueckfuehrung-gescheitert-a-8147ffde-7904-49e2-925f-0a6ca288d515#ref=rss)
+### rückführung
+
+* [https://www.spiegel.de/panorama/nordrhein-westfalen-erster-jugendlicher-in-abschiebehaft-rueckfuehrung-gescheitert](https://www.spiegel.de/panorama/nordrhein-westfalen-erster-jugendlicher-in-abschiebehaft-rueckfuehrung-gescheitert-a-8147ffde-7904-49e2-925f-0a6ca288d515#ref=rss)
+### gestiegen
+
+* [https://www.spiegel.de/wirtschaft/heizkosten-sind-2023-um-mehr-als-30-prozent-gestiegen](https://www.spiegel.de/wirtschaft/heizkosten-sind-2023-um-mehr-als-30-prozent-gestiegen-a-09e19fb7-e1ba-4b3b-bd14-19e29e9c2e50#ref=rss)
+### nancy
+
+* [https://www.spiegel.de/ausland/nancy-pelosi-verteidigt-sitz-im-us-kongress](https://www.spiegel.de/ausland/nancy-pelosi-verteidigt-sitz-im-us-kongress-a-441d5a8b-2a23-49ad-a2ca-624f4f7101dd#ref=rss)
+### pelosi
+
+* [https://www.spiegel.de/ausland/nancy-pelosi-verteidigt-sitz-im-us-kongress](https://www.spiegel.de/ausland/nancy-pelosi-verteidigt-sitz-im-us-kongress-a-441d5a8b-2a23-49ad-a2ca-624f4f7101dd#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/ausland/nancy-pelosi-verteidigt-sitz-im-us-kongress](https://www.spiegel.de/ausland/nancy-pelosi-verteidigt-sitz-im-us-kongress-a-441d5a8b-2a23-49ad-a2ca-624f4f7101dd#ref=rss)
 
