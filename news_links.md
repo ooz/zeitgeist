@@ -6,481 +6,335 @@ tags: __no_header__
 
 ### donald
 
-* [https://www.spiegel.de/panorama/leute/joe-biden-us-praesident-wird-uropa-enkelin-erwartet-nachwuchs](https://www.spiegel.de/panorama/leute/joe-biden-us-praesident-wird-uropa-enkelin-erwartet-nachwuchs-a-ffc226b5-f122-4530-a9ac-aff62ff9827a#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-so-koennte-das-kabinett-von-donald-trump-aussehen](https://www.spiegel.de/ausland/us-wahl-so-koennte-das-kabinett-von-donald-trump-aussehen-a-1e3dd3db-9a57-4695-8eac-072afdbca01d#ref=rss)
-* [https://www.spiegel.de/panorama/leute/donald-trump-jay-leno-sieht-wahlsieg-als-grossen-tag-fuer-die-demokratie](https://www.spiegel.de/panorama/leute/donald-trump-jay-leno-sieht-wahlsieg-als-grossen-tag-fuer-die-demokratie-a-db5adcbb-3334-42f1-9ad5-42ce0b69fe98#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-wird-47-us-praesident-was-kommt-als-naechstes](https://www.spiegel.de/ausland/usa-donald-trump-wird-47-us-praesident-was-kommt-als-naechstes-a-80ef4a8b-6c85-4093-ba7f-737601ec7d5f#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-michelle-und-barack-obama-gratulieren-donald-trump-und-j-d-vance](https://www.spiegel.de/ausland/us-wahl-2024-michelle-und-barack-obama-gratulieren-donald-trump-und-j-d-vance-a-525ed4f2-1d97-48cc-8b20-4de15ddd6079#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-so-hat-donald-trump-die-wahl-gewonnen-trends-themen-waehlergruppen](https://www.spiegel.de/ausland/us-wahl-2024-so-hat-donald-trump-die-wahl-gewonnen-trends-themen-waehlergruppen-a-f3a3b116-b719-40c7-9796-35b45891597c#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-joe-biden-macht-tempo-bei-hilfen-fuer-kyjiw-vor-amtsantritt-von-donald-trump](https://www.spiegel.de/ausland/ukraine-joe-biden-macht-tempo-bei-hilfen-fuer-kyjiw-vor-amtsantritt-von-donald-trump-a-11ae83e1-9e4c-433b-b9fc-7b67fb6296d2#ref=rss)
-### trump
-
-* [https://www.spiegel.de/panorama/leute/joe-biden-us-praesident-wird-uropa-enkelin-erwartet-nachwuchs](https://www.spiegel.de/panorama/leute/joe-biden-us-praesident-wird-uropa-enkelin-erwartet-nachwuchs-a-ffc226b5-f122-4530-a9ac-aff62ff9827a#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-so-koennte-das-kabinett-von-donald-trump-aussehen](https://www.spiegel.de/ausland/us-wahl-so-koennte-das-kabinett-von-donald-trump-aussehen-a-1e3dd3db-9a57-4695-8eac-072afdbca01d#ref=rss)
-* [https://www.spiegel.de/panorama/leute/donald-trump-jay-leno-sieht-wahlsieg-als-grossen-tag-fuer-die-demokratie](https://www.spiegel.de/panorama/leute/donald-trump-jay-leno-sieht-wahlsieg-als-grossen-tag-fuer-die-demokratie-a-db5adcbb-3334-42f1-9ad5-42ce0b69fe98#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-wird-47-us-praesident-was-kommt-als-naechstes](https://www.spiegel.de/ausland/usa-donald-trump-wird-47-us-praesident-was-kommt-als-naechstes-a-80ef4a8b-6c85-4093-ba7f-737601ec7d5f#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-michelle-und-barack-obama-gratulieren-donald-trump-und-j-d-vance](https://www.spiegel.de/ausland/us-wahl-2024-michelle-und-barack-obama-gratulieren-donald-trump-und-j-d-vance-a-525ed4f2-1d97-48cc-8b20-4de15ddd6079#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-so-hat-donald-trump-die-wahl-gewonnen-trends-themen-waehlergruppen](https://www.spiegel.de/ausland/us-wahl-2024-so-hat-donald-trump-die-wahl-gewonnen-trends-themen-waehlergruppen-a-f3a3b116-b719-40c7-9796-35b45891597c#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-joe-biden-macht-tempo-bei-hilfen-fuer-kyjiw-vor-amtsantritt-von-donald-trump](https://www.spiegel.de/ausland/ukraine-joe-biden-macht-tempo-bei-hilfen-fuer-kyjiw-vor-amtsantritt-von-donald-trump-a-11ae83e1-9e4c-433b-b9fc-7b67fb6296d2#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-haelt-sich-bereit-bundestag-aufzuloesen](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-haelt-sich-bereit-bundestag-aufzuloesen-a-80f90122-ec0c-4062-8102-20b33528fc91#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-cdu-chef-draengt-kanzler-scholz-zu-vorgezogenen-neuwahlen](https://www.spiegel.de/politik/friedrich-merz-cdu-chef-draengt-kanzler-scholz-zu-vorgezogenen-neuwahlen-a-8543a66a-9c17-4082-bc72-3127e1139d9e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-draengt-olaf-scholz-zu-rascher-vertrauensfrage-bis-wochenbeginn](https://www.spiegel.de/politik/deutschland/friedrich-merz-draengt-olaf-scholz-zu-rascher-vertrauensfrage-bis-wochenbeginn-a-ef2e5c0f-47ca-419d-a6ce-891136b38d69#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-nachfolge-staatssekretaer-joerg-kukies-wird-neuer-finanzminister](https://www.spiegel.de/politik/deutschland/christian-lindner-nachfolge-staatssekretaer-joerg-kukies-wird-neuer-finanzminister-a-8f4c00dd-dedd-4b6f-9b95-d9170f8a7cc3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-so-rechnete-der-kanzler-mit-christian-lindner-ab](https://www.spiegel.de/politik/deutschland/olaf-scholz-so-rechnete-der-kanzler-mit-christian-lindner-ab-a-60a2bd94-674c-44aa-bd42-378c492cf53f#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-haelt-sich-bereit-bundestag-aufzuloesen](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-haelt-sich-bereit-bundestag-aufzuloesen-a-80f90122-ec0c-4062-8102-20b33528fc91#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-cdu-chef-draengt-kanzler-scholz-zu-vorgezogenen-neuwahlen](https://www.spiegel.de/politik/friedrich-merz-cdu-chef-draengt-kanzler-scholz-zu-vorgezogenen-neuwahlen-a-8543a66a-9c17-4082-bc72-3127e1139d9e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-draengt-olaf-scholz-zu-rascher-vertrauensfrage-bis-wochenbeginn](https://www.spiegel.de/politik/deutschland/friedrich-merz-draengt-olaf-scholz-zu-rascher-vertrauensfrage-bis-wochenbeginn-a-ef2e5c0f-47ca-419d-a6ce-891136b38d69#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-so-rechnete-der-kanzler-mit-christian-lindner-ab](https://www.spiegel.de/politik/deutschland/olaf-scholz-so-rechnete-der-kanzler-mit-christian-lindner-ab-a-60a2bd94-674c-44aa-bd42-378c492cf53f#ref=rss)
-### uswahl
-
-* [https://www.spiegel.de/wirtschaft/us-wahl-europa-ist-das-bessere-amerika-kolumne](https://www.spiegel.de/wirtschaft/us-wahl-europa-ist-das-bessere-amerika-kolumne-a-64fe0ef4-d2bc-4532-9373-91d78bc7724e#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-so-koennte-das-kabinett-von-donald-trump-aussehen](https://www.spiegel.de/ausland/us-wahl-so-koennte-das-kabinett-von-donald-trump-aussehen-a-1e3dd3db-9a57-4695-8eac-072afdbca01d#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-kamala-harris-und-die-niederlage-der-demokraten](https://www.spiegel.de/ausland/us-wahl-2024-kamala-harris-und-die-niederlage-der-demokraten-a-34fc57ff-dade-4e9b-84f5-c7df8b5c2aea#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-michelle-und-barack-obama-gratulieren-donald-trump-und-j-d-vance](https://www.spiegel.de/ausland/us-wahl-2024-michelle-und-barack-obama-gratulieren-donald-trump-und-j-d-vance-a-525ed4f2-1d97-48cc-8b20-4de15ddd6079#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-so-hat-donald-trump-die-wahl-gewonnen-trends-themen-waehlergruppen](https://www.spiegel.de/ausland/us-wahl-2024-so-hat-donald-trump-die-wahl-gewonnen-trends-themen-waehlergruppen-a-f3a3b116-b719-40c7-9796-35b45891597c#ref=rss)
-### usa
-
-* [https://www.spiegel.de/wirtschaft/us-wahl-europa-ist-das-bessere-amerika-kolumne](https://www.spiegel.de/wirtschaft/us-wahl-europa-ist-das-bessere-amerika-kolumne-a-64fe0ef4-d2bc-4532-9373-91d78bc7724e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-novo-nordisk-meldet-zehn-tote-durch-selbst-hergestellte-abnehmspritzen](https://www.spiegel.de/wirtschaft/usa-novo-nordisk-meldet-zehn-tote-durch-selbst-hergestellte-abnehmspritzen-a-91197371-eb51-48a6-b04e-6818c2f6ec59#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-wird-47-us-praesident-was-kommt-als-naechstes](https://www.spiegel.de/ausland/usa-donald-trump-wird-47-us-praesident-was-kommt-als-naechstes-a-80ef4a8b-6c85-4093-ba7f-737601ec7d5f#ref=rss)
-### frankwalter
-
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-haelt-sich-bereit-bundestag-aufzuloesen](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-haelt-sich-bereit-bundestag-aufzuloesen-a-80f90122-ec0c-4062-8102-20b33528fc91#ref=rss)
-* [https://www.spiegel.de/politik/ampel-aus-frank-walter-steinmeier-aeussert-sich-zum-ende-der-koalition-livestream](https://www.spiegel.de/politik/ampel-aus-frank-walter-steinmeier-aeussert-sich-zum-ende-der-koalition-livestream-a-4f96cc36-2744-4000-a884-a0c22b1285c9#ref=rss)
-### steinmeier
-
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-haelt-sich-bereit-bundestag-aufzuloesen](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-haelt-sich-bereit-bundestag-aufzuloesen-a-80f90122-ec0c-4062-8102-20b33528fc91#ref=rss)
-* [https://www.spiegel.de/politik/ampel-aus-frank-walter-steinmeier-aeussert-sich-zum-ende-der-koalition-livestream](https://www.spiegel.de/politik/ampel-aus-frank-walter-steinmeier-aeussert-sich-zum-ende-der-koalition-livestream-a-4f96cc36-2744-4000-a884-a0c22b1285c9#ref=rss)
-### vertrauensfrage
-
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-haelt-sich-bereit-bundestag-aufzuloesen](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-haelt-sich-bereit-bundestag-aufzuloesen-a-80f90122-ec0c-4062-8102-20b33528fc91#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-cdu-chef-draengt-kanzler-scholz-zu-vorgezogenen-neuwahlen](https://www.spiegel.de/politik/friedrich-merz-cdu-chef-draengt-kanzler-scholz-zu-vorgezogenen-neuwahlen-a-8543a66a-9c17-4082-bc72-3127e1139d9e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-draengt-olaf-scholz-zu-rascher-vertrauensfrage-bis-wochenbeginn](https://www.spiegel.de/politik/deutschland/friedrich-merz-draengt-olaf-scholz-zu-rascher-vertrauensfrage-bis-wochenbeginn-a-ef2e5c0f-47ca-419d-a6ce-891136b38d69#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/wirtschaft/ampel-aus-oekonomen-loben-vorzeitiges-ende-der-koalition](https://www.spiegel.de/wirtschaft/ampel-aus-oekonomen-loben-vorzeitiges-ende-der-koalition-a-b9433c25-9d21-4808-9805-0980d163b095#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-joe-biden-macht-tempo-bei-hilfen-fuer-kyjiw-vor-amtsantritt-von-donald-trump](https://www.spiegel.de/ausland/ukraine-joe-biden-macht-tempo-bei-hilfen-fuer-kyjiw-vor-amtsantritt-von-donald-trump-a-11ae83e1-9e4c-433b-b9fc-7b67fb6296d2#ref=rss)
-### paris
-
-* [https://www.spiegel.de/sport/fussball/champions-league-paris-saint-germain-frankreichs-innenminister-bruno-retailleau-kritisiert-banner](https://www.spiegel.de/sport/fussball/champions-league-paris-saint-germain-frankreichs-innenminister-bruno-retailleau-kritisiert-banner-a-321ead38-d6f3-48cb-a6ce-5f33aad30444#ref=rss)
-* [https://www.spiegel.de/sport/olympia/rachael-gunn-raygun-beendet-nach-olympia-aufregung-karriere-als-breakerin](https://www.spiegel.de/sport/olympia/rachael-gunn-raygun-beendet-nach-olympia-aufregung-karriere-als-breakerin-a-288088e8-d269-40ab-86a3-01e9b8e10b94#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/usa-novo-nordisk-meldet-zehn-tote-durch-selbst-hergestellte-abnehmspritzen](https://www.spiegel.de/wirtschaft/usa-novo-nordisk-meldet-zehn-tote-durch-selbst-hergestellte-abnehmspritzen-a-91197371-eb51-48a6-b04e-6818c2f6ec59#ref=rss)
-* [https://www.spiegel.de/panorama/who-drei-von-fuenf-kindern-erleben-zu-hause-koerperliche-gewalt](https://www.spiegel.de/panorama/who-drei-von-fuenf-kindern-erleben-zu-hause-koerperliche-gewalt-a-a7c38e9e-6e80-4144-bb76-c0a3d02f600a#ref=rss)
-* [https://www.spiegel.de/sport/olympia/rachael-gunn-raygun-beendet-nach-olympia-aufregung-karriere-als-breakerin](https://www.spiegel.de/sport/olympia/rachael-gunn-raygun-beendet-nach-olympia-aufregung-karriere-als-breakerin-a-288088e8-d269-40ab-86a3-01e9b8e10b94#ref=rss)
-* [https://www.spiegel.de/panorama/leute/joko-winterscheidt-im-podcast-spricht-er-ueber-seine-erfahrungen-mit-einer-therapie](https://www.spiegel.de/panorama/leute/joko-winterscheidt-im-podcast-spricht-er-ueber-seine-erfahrungen-mit-einer-therapie-a-f7cf0bad-30c5-4fde-ba45-37c4a545b21c#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/australien-plant-radikales-social-media-verbot-fuer-jugendliche-unter-16-jahren](https://www.spiegel.de/netzwelt/netzpolitik/australien-plant-radikales-social-media-verbot-fuer-jugendliche-unter-16-jahren-a-aec4afaf-38a6-4fc7-8bc3-a4ef85bf10cc#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-sc-freiburg-trauert-um-ex-profi-maximilian-heidenreich](https://www.spiegel.de/sport/fussball/bundesliga-sc-freiburg-trauert-um-ex-profi-maximilian-heidenreich-a-5821e062-d934-4dbf-88c5-41344073567b#ref=rss)
-* [https://www.spiegel.de/kultur/daniel-spoerri-ist-tot-aktionskuenstler-mit-94-jahren-gestorben](https://www.spiegel.de/kultur/daniel-spoerri-ist-tot-aktionskuenstler-mit-94-jahren-gestorben-a-60e46cfb-6910-4eb5-9b13-209f9de7b6b1#ref=rss)
-### kamala
-
-* [https://www.spiegel.de/ausland/us-wahl-2024-kamala-harris-und-die-niederlage-der-demokraten](https://www.spiegel.de/ausland/us-wahl-2024-kamala-harris-und-die-niederlage-der-demokraten-a-34fc57ff-dade-4e9b-84f5-c7df8b5c2aea#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-michelle-und-barack-obama-gratulieren-donald-trump-und-j-d-vance](https://www.spiegel.de/ausland/us-wahl-2024-michelle-und-barack-obama-gratulieren-donald-trump-und-j-d-vance-a-525ed4f2-1d97-48cc-8b20-4de15ddd6079#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-so-hat-donald-trump-die-wahl-gewonnen-trends-themen-waehlergruppen](https://www.spiegel.de/ausland/us-wahl-2024-so-hat-donald-trump-die-wahl-gewonnen-trends-themen-waehlergruppen-a-f3a3b116-b719-40c7-9796-35b45891597c#ref=rss)
-### harris
-
-* [https://www.spiegel.de/ausland/us-wahl-2024-kamala-harris-und-die-niederlage-der-demokraten](https://www.spiegel.de/ausland/us-wahl-2024-kamala-harris-und-die-niederlage-der-demokraten-a-34fc57ff-dade-4e9b-84f5-c7df8b5c2aea#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-michelle-und-barack-obama-gratulieren-donald-trump-und-j-d-vance](https://www.spiegel.de/ausland/us-wahl-2024-michelle-und-barack-obama-gratulieren-donald-trump-und-j-d-vance-a-525ed4f2-1d97-48cc-8b20-4de15ddd6079#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-so-hat-donald-trump-die-wahl-gewonnen-trends-themen-waehlergruppen](https://www.spiegel.de/ausland/us-wahl-2024-so-hat-donald-trump-die-wahl-gewonnen-trends-themen-waehlergruppen-a-f3a3b116-b719-40c7-9796-35b45891597c#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/friedrich-merz-cdu-chef-draengt-kanzler-scholz-zu-vorgezogenen-neuwahlen](https://www.spiegel.de/politik/friedrich-merz-cdu-chef-draengt-kanzler-scholz-zu-vorgezogenen-neuwahlen-a-8543a66a-9c17-4082-bc72-3127e1139d9e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-draengt-olaf-scholz-zu-rascher-vertrauensfrage-bis-wochenbeginn](https://www.spiegel.de/politik/deutschland/friedrich-merz-draengt-olaf-scholz-zu-rascher-vertrauensfrage-bis-wochenbeginn-a-ef2e5c0f-47ca-419d-a6ce-891136b38d69#ref=rss)
-### macht
-
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-haelt-sich-bereit-bundestag-aufzuloesen](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-haelt-sich-bereit-bundestag-aufzuloesen-a-80f90122-ec0c-4062-8102-20b33528fc91#ref=rss)
-* [https://www.spiegel.de/sport/olympia/rachael-gunn-raygun-beendet-nach-olympia-aufregung-karriere-als-breakerin](https://www.spiegel.de/sport/olympia/rachael-gunn-raygun-beendet-nach-olympia-aufregung-karriere-als-breakerin-a-288088e8-d269-40ab-86a3-01e9b8e10b94#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-joe-biden-macht-tempo-bei-hilfen-fuer-kyjiw-vor-amtsantritt-von-donald-trump](https://www.spiegel.de/ausland/ukraine-joe-biden-macht-tempo-bei-hilfen-fuer-kyjiw-vor-amtsantritt-von-donald-trump-a-11ae83e1-9e4c-433b-b9fc-7b67fb6296d2#ref=rss)
-### julian
-
-* [https://www.spiegel.de/sport/fussball/dfb-kader-julian-nagelsmann-holt-julian-brandt-zurueck-paul-wanner-bleibt-im-wartestand](https://www.spiegel.de/sport/fussball/dfb-kader-julian-nagelsmann-holt-julian-brandt-zurueck-paul-wanner-bleibt-im-wartestand-a-92cd9607-199c-4f3f-a2c7-5a97f440c6d8#ref=rss)
-### ampelaus
-
-* [https://www.spiegel.de/wirtschaft/ampel-aus-oekonomen-loben-vorzeitiges-ende-der-koalition](https://www.spiegel.de/wirtschaft/ampel-aus-oekonomen-loben-vorzeitiges-ende-der-koalition-a-b9433c25-9d21-4808-9805-0980d163b095#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/internationale-pressestimmen-zum-ampel-aus-seit-gestern-abend-ist-deutschland-politisch-zur-lame-duck-geworden](https://www.spiegel.de/politik/deutschland/internationale-pressestimmen-zum-ampel-aus-seit-gestern-abend-ist-deutschland-politisch-zur-lame-duck-geworden-a-e8d701f5-fbf5-4639-9f93-dabcfa336147#ref=rss)
-* [https://www.spiegel.de/politik/ampel-aus-frank-walter-steinmeier-aeussert-sich-zum-ende-der-koalition-livestream](https://www.spiegel.de/politik/ampel-aus-frank-walter-steinmeier-aeussert-sich-zum-ende-der-koalition-livestream-a-4f96cc36-2744-4000-a884-a0c22b1285c9#ref=rss)
-### sehen
-
-* [https://www.spiegel.de/wirtschaft/ampel-aus-oekonomen-loben-vorzeitiges-ende-der-koalition](https://www.spiegel.de/wirtschaft/ampel-aus-oekonomen-loben-vorzeitiges-ende-der-koalition-a-b9433c25-9d21-4808-9805-0980d163b095#ref=rss)
-* [https://www.spiegel.de/politik/ampel-aus-frank-walter-steinmeier-aeussert-sich-zum-ende-der-koalition-livestream](https://www.spiegel.de/politik/ampel-aus-frank-walter-steinmeier-aeussert-sich-zum-ende-der-koalition-livestream-a-4f96cc36-2744-4000-a884-a0c22b1285c9#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-cdu-chef-draengt-kanzler-scholz-zu-vorgezogenen-neuwahlen](https://www.spiegel.de/politik/friedrich-merz-cdu-chef-draengt-kanzler-scholz-zu-vorgezogenen-neuwahlen-a-8543a66a-9c17-4082-bc72-3127e1139d9e#ref=rss)
-### joe
-
-* [https://www.spiegel.de/panorama/leute/joe-biden-us-praesident-wird-uropa-enkelin-erwartet-nachwuchs](https://www.spiegel.de/panorama/leute/joe-biden-us-praesident-wird-uropa-enkelin-erwartet-nachwuchs-a-ffc226b5-f122-4530-a9ac-aff62ff9827a#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-joe-biden-macht-tempo-bei-hilfen-fuer-kyjiw-vor-amtsantritt-von-donald-trump](https://www.spiegel.de/ausland/ukraine-joe-biden-macht-tempo-bei-hilfen-fuer-kyjiw-vor-amtsantritt-von-donald-trump-a-11ae83e1-9e4c-433b-b9fc-7b67fb6296d2#ref=rss)
-### biden
-
-* [https://www.spiegel.de/panorama/leute/joe-biden-us-praesident-wird-uropa-enkelin-erwartet-nachwuchs](https://www.spiegel.de/panorama/leute/joe-biden-us-praesident-wird-uropa-enkelin-erwartet-nachwuchs-a-ffc226b5-f122-4530-a9ac-aff62ff9827a#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-joe-biden-macht-tempo-bei-hilfen-fuer-kyjiw-vor-amtsantritt-von-donald-trump](https://www.spiegel.de/ausland/ukraine-joe-biden-macht-tempo-bei-hilfen-fuer-kyjiw-vor-amtsantritt-von-donald-trump-a-11ae83e1-9e4c-433b-b9fc-7b67fb6296d2#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/panorama/leute/joe-biden-us-praesident-wird-uropa-enkelin-erwartet-nachwuchs](https://www.spiegel.de/panorama/leute/joe-biden-us-praesident-wird-uropa-enkelin-erwartet-nachwuchs-a-ffc226b5-f122-4530-a9ac-aff62ff9827a#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-wird-47-us-praesident-was-kommt-als-naechstes](https://www.spiegel.de/ausland/usa-donald-trump-wird-47-us-praesident-was-kommt-als-naechstes-a-80ef4a8b-6c85-4093-ba7f-737601ec7d5f#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-joe-biden-macht-tempo-bei-hilfen-fuer-kyjiw-vor-amtsantritt-von-donald-trump](https://www.spiegel.de/ausland/ukraine-joe-biden-macht-tempo-bei-hilfen-fuer-kyjiw-vor-amtsantritt-von-donald-trump-a-11ae83e1-9e4c-433b-b9fc-7b67fb6296d2#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/panorama/leute/joe-biden-us-praesident-wird-uropa-enkelin-erwartet-nachwuchs](https://www.spiegel.de/panorama/leute/joe-biden-us-praesident-wird-uropa-enkelin-erwartet-nachwuchs-a-ffc226b5-f122-4530-a9ac-aff62ff9827a#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-wird-47-us-praesident-was-kommt-als-naechstes](https://www.spiegel.de/ausland/usa-donald-trump-wird-47-us-praesident-was-kommt-als-naechstes-a-80ef4a8b-6c85-4093-ba7f-737601ec7d5f#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-so-hat-donald-trump-die-wahl-gewonnen-trends-themen-waehlergruppen](https://www.spiegel.de/ausland/us-wahl-2024-so-hat-donald-trump-die-wahl-gewonnen-trends-themen-waehlergruppen-a-f3a3b116-b719-40c7-9796-35b45891597c#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/sport/fussball/champions-league-paris-saint-germain-frankreichs-innenminister-bruno-retailleau-kritisiert-banner](https://www.spiegel.de/sport/fussball/champions-league-paris-saint-germain-frankreichs-innenminister-bruno-retailleau-kritisiert-banner-a-321ead38-d6f3-48cb-a6ce-5f33aad30444#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/internationale-pressestimmen-zum-ampel-aus-seit-gestern-abend-ist-deutschland-politisch-zur-lame-duck-geworden](https://www.spiegel.de/politik/deutschland/internationale-pressestimmen-zum-ampel-aus-seit-gestern-abend-ist-deutschland-politisch-zur-lame-duck-geworden-a-e8d701f5-fbf5-4639-9f93-dabcfa336147#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/australien-plant-radikales-social-media-verbot-fuer-jugendliche-unter-16-jahren](https://www.spiegel.de/netzwelt/netzpolitik/australien-plant-radikales-social-media-verbot-fuer-jugendliche-unter-16-jahren-a-aec4afaf-38a6-4fc7-8bc3-a4ef85bf10cc#ref=rss)
-### sohn
-
-* [https://www.spiegel.de/kultur/musik/marteria-hat-neuen-support-act-seinen-sohn](https://www.spiegel.de/kultur/musik/marteria-hat-neuen-support-act-seinen-sohn-a-1cbb80c3-af1f-437b-bb5c-de22dbf971b2#ref=rss)
-* [https://www.spiegel.de/familie/mein-kind-auf-klassenfahrt-und-wahrheit-oder-pflicht-spielen-mit-den-maedchen](https://www.spiegel.de/familie/mein-kind-auf-klassenfahrt-und-wahrheit-oder-pflicht-spielen-mit-den-maedchen-a-9d85d9b8-e008-40c4-8b58-eeaf913421c7#ref=rss)
-### kabinett
-
-* [https://www.spiegel.de/ausland/us-wahl-so-koennte-das-kabinett-von-donald-trump-aussehen](https://www.spiegel.de/ausland/us-wahl-so-koennte-das-kabinett-von-donald-trump-aussehen-a-1e3dd3db-9a57-4695-8eac-072afdbca01d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-so-rechnete-der-kanzler-mit-christian-lindner-ab](https://www.spiegel.de/politik/deutschland/olaf-scholz-so-rechnete-der-kanzler-mit-christian-lindner-ab-a-60a2bd94-674c-44aa-bd42-378c492cf53f#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/panorama/leute/donald-trump-jay-leno-sieht-wahlsieg-als-grossen-tag-fuer-die-demokratie](https://www.spiegel.de/panorama/leute/donald-trump-jay-leno-sieht-wahlsieg-als-grossen-tag-fuer-die-demokratie-a-db5adcbb-3334-42f1-9ad5-42ce0b69fe98#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-sc-freiburg-trauert-um-ex-profi-maximilian-heidenreich](https://www.spiegel.de/sport/fussball/bundesliga-sc-freiburg-trauert-um-ex-profi-maximilian-heidenreich-a-5821e062-d934-4dbf-88c5-41344073567b#ref=rss)
-* [https://www.spiegel.de/kultur/daniel-spoerri-ist-tot-aktionskuenstler-mit-94-jahren-gestorben](https://www.spiegel.de/kultur/daniel-spoerri-ist-tot-aktionskuenstler-mit-94-jahren-gestorben-a-60e46cfb-6910-4eb5-9b13-209f9de7b6b1#ref=rss)
-### januar
-
-* [https://www.spiegel.de/ausland/usa-donald-trump-wird-47-us-praesident-was-kommt-als-naechstes](https://www.spiegel.de/ausland/usa-donald-trump-wird-47-us-praesident-was-kommt-als-naechstes-a-80ef4a8b-6c85-4093-ba7f-737601ec7d5f#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-cdu-chef-draengt-kanzler-scholz-zu-vorgezogenen-neuwahlen](https://www.spiegel.de/politik/friedrich-merz-cdu-chef-draengt-kanzler-scholz-zu-vorgezogenen-neuwahlen-a-8543a66a-9c17-4082-bc72-3127e1139d9e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-draengt-olaf-scholz-zu-rascher-vertrauensfrage-bis-wochenbeginn](https://www.spiegel.de/politik/deutschland/friedrich-merz-draengt-olaf-scholz-zu-rascher-vertrauensfrage-bis-wochenbeginn-a-ef2e5c0f-47ca-419d-a6ce-891136b38d69#ref=rss)
-### 2024
-
-* [https://www.spiegel.de/ausland/us-wahl-2024-kamala-harris-und-die-niederlage-der-demokraten](https://www.spiegel.de/ausland/us-wahl-2024-kamala-harris-und-die-niederlage-der-demokraten-a-34fc57ff-dade-4e9b-84f5-c7df8b5c2aea#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-michelle-und-barack-obama-gratulieren-donald-trump-und-j-d-vance](https://www.spiegel.de/ausland/us-wahl-2024-michelle-und-barack-obama-gratulieren-donald-trump-und-j-d-vance-a-525ed4f2-1d97-48cc-8b20-4de15ddd6079#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-so-hat-donald-trump-die-wahl-gewonnen-trends-themen-waehlergruppen](https://www.spiegel.de/ausland/us-wahl-2024-so-hat-donald-trump-die-wahl-gewonnen-trends-themen-waehlergruppen-a-f3a3b116-b719-40c7-9796-35b45891597c#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/friedrich-merz-cdu-chef-draengt-kanzler-scholz-zu-vorgezogenen-neuwahlen](https://www.spiegel.de/politik/friedrich-merz-cdu-chef-draengt-kanzler-scholz-zu-vorgezogenen-neuwahlen-a-8543a66a-9c17-4082-bc72-3127e1139d9e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-draengt-olaf-scholz-zu-rascher-vertrauensfrage-bis-wochenbeginn](https://www.spiegel.de/politik/deutschland/friedrich-merz-draengt-olaf-scholz-zu-rascher-vertrauensfrage-bis-wochenbeginn-a-ef2e5c0f-47ca-419d-a6ce-891136b38d69#ref=rss)
-### neuer
-
-* [https://www.spiegel.de/ausland/us-wahl-2024-so-hat-donald-trump-die-wahl-gewonnen-trends-themen-waehlergruppen](https://www.spiegel.de/ausland/us-wahl-2024-so-hat-donald-trump-die-wahl-gewonnen-trends-themen-waehlergruppen-a-f3a3b116-b719-40c7-9796-35b45891597c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-nachfolge-staatssekretaer-joerg-kukies-wird-neuer-finanzminister](https://www.spiegel.de/politik/deutschland/christian-lindner-nachfolge-staatssekretaer-joerg-kukies-wird-neuer-finanzminister-a-8f4c00dd-dedd-4b6f-9b95-d9170f8a7cc3#ref=rss)
-### olaf
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-draengt-olaf-scholz-zu-rascher-vertrauensfrage-bis-wochenbeginn](https://www.spiegel.de/politik/deutschland/friedrich-merz-draengt-olaf-scholz-zu-rascher-vertrauensfrage-bis-wochenbeginn-a-ef2e5c0f-47ca-419d-a6ce-891136b38d69#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-nachfolge-staatssekretaer-joerg-kukies-wird-neuer-finanzminister](https://www.spiegel.de/politik/deutschland/christian-lindner-nachfolge-staatssekretaer-joerg-kukies-wird-neuer-finanzminister-a-8f4c00dd-dedd-4b6f-9b95-d9170f8a7cc3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-so-rechnete-der-kanzler-mit-christian-lindner-ab](https://www.spiegel.de/politik/deutschland/olaf-scholz-so-rechnete-der-kanzler-mit-christian-lindner-ab-a-60a2bd94-674c-44aa-bd42-378c492cf53f#ref=rss)
-### finanzminister
-
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-nachfolge-staatssekretaer-joerg-kukies-wird-neuer-finanzminister](https://www.spiegel.de/politik/deutschland/christian-lindner-nachfolge-staatssekretaer-joerg-kukies-wird-neuer-finanzminister-a-8f4c00dd-dedd-4b6f-9b95-d9170f8a7cc3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-so-rechnete-der-kanzler-mit-christian-lindner-ab](https://www.spiegel.de/politik/deutschland/olaf-scholz-so-rechnete-der-kanzler-mit-christian-lindner-ab-a-60a2bd94-674c-44aa-bd42-378c492cf53f#ref=rss)
-### lindner
-
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-nachfolge-staatssekretaer-joerg-kukies-wird-neuer-finanzminister](https://www.spiegel.de/politik/deutschland/christian-lindner-nachfolge-staatssekretaer-joerg-kukies-wird-neuer-finanzminister-a-8f4c00dd-dedd-4b6f-9b95-d9170f8a7cc3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-so-rechnete-der-kanzler-mit-christian-lindner-ab](https://www.spiegel.de/politik/deutschland/olaf-scholz-so-rechnete-der-kanzler-mit-christian-lindner-ab-a-60a2bd94-674c-44aa-bd42-378c492cf53f#ref=rss)
-### immobilien
-
-* [https://www.spiegel.de/wirtschaft/immobilien-werden-wieder-teurer-neubaupreise-nahe-hoechststand](https://www.spiegel.de/wirtschaft/immobilien-werden-wieder-teurer-neubaupreise-nahe-hoechststand-a-bea992dc-bb5a-4ea5-8ee1-abd46a1bd8c6#ref=rss)
-### bundestag
-
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-haelt-sich-bereit-bundestag-aufzuloesen](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-haelt-sich-bereit-bundestag-aufzuloesen-a-80f90122-ec0c-4062-8102-20b33528fc91#ref=rss)
-### aufzulösen
-
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-haelt-sich-bereit-bundestag-aufzuloesen](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-haelt-sich-bereit-bundestag-aufzuloesen-a-80f90122-ec0c-4062-8102-20b33528fc91#ref=rss)
-### stellen
-
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-haelt-sich-bereit-bundestag-aufzuloesen](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-haelt-sich-bereit-bundestag-aufzuloesen-a-80f90122-ec0c-4062-8102-20b33528fc91#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-cdu-chef-draengt-kanzler-scholz-zu-vorgezogenen-neuwahlen](https://www.spiegel.de/politik/friedrich-merz-cdu-chef-draengt-kanzler-scholz-zu-vorgezogenen-neuwahlen-a-8543a66a-9c17-4082-bc72-3127e1139d9e#ref=rss)
-### neuwahlen
-
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-haelt-sich-bereit-bundestag-aufzuloesen](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-haelt-sich-bereit-bundestag-aufzuloesen-a-80f90122-ec0c-4062-8102-20b33528fc91#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-cdu-chef-draengt-kanzler-scholz-zu-vorgezogenen-neuwahlen](https://www.spiegel.de/politik/friedrich-merz-cdu-chef-draengt-kanzler-scholz-zu-vorgezogenen-neuwahlen-a-8543a66a-9c17-4082-bc72-3127e1139d9e#ref=rss)
-### bundespräsident
-
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-haelt-sich-bereit-bundestag-aufzuloesen](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-haelt-sich-bereit-bundestag-aufzuloesen-a-80f90122-ec0c-4062-8102-20b33528fc91#ref=rss)
-* [https://www.spiegel.de/politik/ampel-aus-frank-walter-steinmeier-aeussert-sich-zum-ende-der-koalition-livestream](https://www.spiegel.de/politik/ampel-aus-frank-walter-steinmeier-aeussert-sich-zum-ende-der-koalition-livestream-a-4f96cc36-2744-4000-a884-a0c22b1285c9#ref=rss)
-### brandt
-
-* [https://www.spiegel.de/sport/fussball/dfb-kader-julian-nagelsmann-holt-julian-brandt-zurueck-paul-wanner-bleibt-im-wartestand](https://www.spiegel.de/sport/fussball/dfb-kader-julian-nagelsmann-holt-julian-brandt-zurueck-paul-wanner-bleibt-im-wartestand-a-92cd9607-199c-4f3f-a2c7-5a97f440c6d8#ref=rss)
-### paul
-
-* [https://www.spiegel.de/sport/fussball/dfb-kader-julian-nagelsmann-holt-julian-brandt-zurueck-paul-wanner-bleibt-im-wartestand](https://www.spiegel.de/sport/fussball/dfb-kader-julian-nagelsmann-holt-julian-brandt-zurueck-paul-wanner-bleibt-im-wartestand-a-92cd9607-199c-4f3f-a2c7-5a97f440c6d8#ref=rss)
-### wanner
-
-* [https://www.spiegel.de/sport/fussball/dfb-kader-julian-nagelsmann-holt-julian-brandt-zurueck-paul-wanner-bleibt-im-wartestand](https://www.spiegel.de/sport/fussball/dfb-kader-julian-nagelsmann-holt-julian-brandt-zurueck-paul-wanner-bleibt-im-wartestand-a-92cd9607-199c-4f3f-a2c7-5a97f440c6d8#ref=rss)
-### chance
-
-* [https://www.spiegel.de/sport/fussball/dfb-kader-julian-nagelsmann-holt-julian-brandt-zurueck-paul-wanner-bleibt-im-wartestand](https://www.spiegel.de/sport/fussball/dfb-kader-julian-nagelsmann-holt-julian-brandt-zurueck-paul-wanner-bleibt-im-wartestand-a-92cd9607-199c-4f3f-a2c7-5a97f440c6d8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ampel-aus-oekonomen-loben-vorzeitiges-ende-der-koalition](https://www.spiegel.de/wirtschaft/ampel-aus-oekonomen-loben-vorzeitiges-ende-der-koalition-a-b9433c25-9d21-4808-9805-0980d163b095#ref=rss)
-### ende
-
-* [https://www.spiegel.de/wirtschaft/ampel-aus-oekonomen-loben-vorzeitiges-ende-der-koalition](https://www.spiegel.de/wirtschaft/ampel-aus-oekonomen-loben-vorzeitiges-ende-der-koalition-a-b9433c25-9d21-4808-9805-0980d163b095#ref=rss)
-* [https://www.spiegel.de/politik/ampel-aus-frank-walter-steinmeier-aeussert-sich-zum-ende-der-koalition-livestream](https://www.spiegel.de/politik/ampel-aus-frank-walter-steinmeier-aeussert-sich-zum-ende-der-koalition-livestream-a-4f96cc36-2744-4000-a884-a0c22b1285c9#ref=rss)
-### koalition
-
-* [https://www.spiegel.de/wirtschaft/ampel-aus-oekonomen-loben-vorzeitiges-ende-der-koalition](https://www.spiegel.de/wirtschaft/ampel-aus-oekonomen-loben-vorzeitiges-ende-der-koalition-a-b9433c25-9d21-4808-9805-0980d163b095#ref=rss)
-* [https://www.spiegel.de/politik/ampel-aus-frank-walter-steinmeier-aeussert-sich-zum-ende-der-koalition-livestream](https://www.spiegel.de/politik/ampel-aus-frank-walter-steinmeier-aeussert-sich-zum-ende-der-koalition-livestream-a-4f96cc36-2744-4000-a884-a0c22b1285c9#ref=rss)
-### weg
-
-* [https://www.spiegel.de/wirtschaft/ampel-aus-oekonomen-loben-vorzeitiges-ende-der-koalition](https://www.spiegel.de/wirtschaft/ampel-aus-oekonomen-loben-vorzeitiges-ende-der-koalition-a-b9433c25-9d21-4808-9805-0980d163b095#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-joe-biden-macht-tempo-bei-hilfen-fuer-kyjiw-vor-amtsantritt-von-donald-trump](https://www.spiegel.de/ausland/ukraine-joe-biden-macht-tempo-bei-hilfen-fuer-kyjiw-vor-amtsantritt-von-donald-trump-a-11ae83e1-9e4c-433b-b9fc-7b67fb6296d2#ref=rss)
-### bruch
-
-* [https://www.spiegel.de/wirtschaft/ampel-aus-oekonomen-loben-vorzeitiges-ende-der-koalition](https://www.spiegel.de/wirtschaft/ampel-aus-oekonomen-loben-vorzeitiges-ende-der-koalition-a-b9433c25-9d21-4808-9805-0980d163b095#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/internationale-pressestimmen-zum-ampel-aus-seit-gestern-abend-ist-deutschland-politisch-zur-lame-duck-geworden](https://www.spiegel.de/politik/deutschland/internationale-pressestimmen-zum-ampel-aus-seit-gestern-abend-ist-deutschland-politisch-zur-lame-duck-geworden-a-e8d701f5-fbf5-4639-9f93-dabcfa336147#ref=rss)
-### besonders
-
-* [https://www.spiegel.de/wirtschaft/ampel-aus-oekonomen-loben-vorzeitiges-ende-der-koalition](https://www.spiegel.de/wirtschaft/ampel-aus-oekonomen-loben-vorzeitiges-ende-der-koalition-a-b9433c25-9d21-4808-9805-0980d163b095#ref=rss)
-* [https://www.spiegel.de/wirtschaft/us-wahl-europa-ist-das-bessere-amerika-kolumne](https://www.spiegel.de/wirtschaft/us-wahl-europa-ist-das-bessere-amerika-kolumne-a-64fe0ef4-d2bc-4532-9373-91d78bc7724e#ref=rss)
-### amerika
-
-* [https://www.spiegel.de/wirtschaft/us-wahl-europa-ist-das-bessere-amerika-kolumne](https://www.spiegel.de/wirtschaft/us-wahl-europa-ist-das-bessere-amerika-kolumne-a-64fe0ef4-d2bc-4532-9373-91d78bc7724e#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/us-wahl-europa-ist-das-bessere-amerika-kolumne](https://www.spiegel.de/wirtschaft/us-wahl-europa-ist-das-bessere-amerika-kolumne-a-64fe0ef4-d2bc-4532-9373-91d78bc7724e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/internationale-pressestimmen-zum-ampel-aus-seit-gestern-abend-ist-deutschland-politisch-zur-lame-duck-geworden](https://www.spiegel.de/politik/deutschland/internationale-pressestimmen-zum-ampel-aus-seit-gestern-abend-ist-deutschland-politisch-zur-lame-duck-geworden-a-e8d701f5-fbf5-4639-9f93-dabcfa336147#ref=rss)
-### letzte
-
-* [https://www.spiegel.de/wirtschaft/us-wahl-europa-ist-das-bessere-amerika-kolumne](https://www.spiegel.de/wirtschaft/us-wahl-europa-ist-das-bessere-amerika-kolumne-a-64fe0ef4-d2bc-4532-9373-91d78bc7724e#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-joe-biden-macht-tempo-bei-hilfen-fuer-kyjiw-vor-amtsantritt-von-donald-trump](https://www.spiegel.de/ausland/ukraine-joe-biden-macht-tempo-bei-hilfen-fuer-kyjiw-vor-amtsantritt-von-donald-trump-a-11ae83e1-9e4c-433b-b9fc-7b67fb6296d2#ref=rss)
-### ampelregierung
-
-* [https://www.spiegel.de/wirtschaft/us-wahl-europa-ist-das-bessere-amerika-kolumne](https://www.spiegel.de/wirtschaft/us-wahl-europa-ist-das-bessere-amerika-kolumne-a-64fe0ef4-d2bc-4532-9373-91d78bc7724e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/internationale-pressestimmen-zum-ampel-aus-seit-gestern-abend-ist-deutschland-politisch-zur-lame-duck-geworden](https://www.spiegel.de/politik/deutschland/internationale-pressestimmen-zum-ampel-aus-seit-gestern-abend-ist-deutschland-politisch-zur-lame-duck-geworden-a-e8d701f5-fbf5-4639-9f93-dabcfa336147#ref=rss)
-### uropa
-
-* [https://www.spiegel.de/panorama/leute/joe-biden-us-praesident-wird-uropa-enkelin-erwartet-nachwuchs](https://www.spiegel.de/panorama/leute/joe-biden-us-praesident-wird-uropa-enkelin-erwartet-nachwuchs-a-ffc226b5-f122-4530-a9ac-aff62ff9827a#ref=rss)
-### enkelin
-
-* [https://www.spiegel.de/panorama/leute/joe-biden-us-praesident-wird-uropa-enkelin-erwartet-nachwuchs](https://www.spiegel.de/panorama/leute/joe-biden-us-praesident-wird-uropa-enkelin-erwartet-nachwuchs-a-ffc226b5-f122-4530-a9ac-aff62ff9827a#ref=rss)
-### erwartet
-
-* [https://www.spiegel.de/panorama/leute/joe-biden-us-praesident-wird-uropa-enkelin-erwartet-nachwuchs](https://www.spiegel.de/panorama/leute/joe-biden-us-praesident-wird-uropa-enkelin-erwartet-nachwuchs-a-ffc226b5-f122-4530-a9ac-aff62ff9827a#ref=rss)
-### nachwuchs
-
-* [https://www.spiegel.de/panorama/leute/joe-biden-us-praesident-wird-uropa-enkelin-erwartet-nachwuchs](https://www.spiegel.de/panorama/leute/joe-biden-us-praesident-wird-uropa-enkelin-erwartet-nachwuchs-a-ffc226b5-f122-4530-a9ac-aff62ff9827a#ref=rss)
-### grund
-
-* [https://www.spiegel.de/panorama/leute/joe-biden-us-praesident-wird-uropa-enkelin-erwartet-nachwuchs](https://www.spiegel.de/panorama/leute/joe-biden-us-praesident-wird-uropa-enkelin-erwartet-nachwuchs-a-ffc226b5-f122-4530-a9ac-aff62ff9827a#ref=rss)
-* [https://www.spiegel.de/panorama/leute/donald-trump-jay-leno-sieht-wahlsieg-als-grossen-tag-fuer-die-demokratie](https://www.spiegel.de/panorama/leute/donald-trump-jay-leno-sieht-wahlsieg-als-grossen-tag-fuer-die-demokratie-a-db5adcbb-3334-42f1-9ad5-42ce0b69fe98#ref=rss)
-### künftig
-
-* [https://www.spiegel.de/panorama/leute/joe-biden-us-praesident-wird-uropa-enkelin-erwartet-nachwuchs](https://www.spiegel.de/panorama/leute/joe-biden-us-praesident-wird-uropa-enkelin-erwartet-nachwuchs-a-ffc226b5-f122-4530-a9ac-aff62ff9827a#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/australien-plant-radikales-social-media-verbot-fuer-jugendliche-unter-16-jahren](https://www.spiegel.de/netzwelt/netzpolitik/australien-plant-radikales-social-media-verbot-fuer-jugendliche-unter-16-jahren-a-aec4afaf-38a6-4fc7-8bc3-a4ef85bf10cc#ref=rss)
-### saintgermain
-
-* [https://www.spiegel.de/sport/fussball/champions-league-paris-saint-germain-frankreichs-innenminister-bruno-retailleau-kritisiert-banner](https://www.spiegel.de/sport/fussball/champions-league-paris-saint-germain-frankreichs-innenminister-bruno-retailleau-kritisiert-banner-a-321ead38-d6f3-48cb-a6ce-5f33aad30444#ref=rss)
-### frankreichs
-
-* [https://www.spiegel.de/sport/fussball/champions-league-paris-saint-germain-frankreichs-innenminister-bruno-retailleau-kritisiert-banner](https://www.spiegel.de/sport/fussball/champions-league-paris-saint-germain-frankreichs-innenminister-bruno-retailleau-kritisiert-banner-a-321ead38-d6f3-48cb-a6ce-5f33aad30444#ref=rss)
-### novo
-
-* [https://www.spiegel.de/wirtschaft/usa-novo-nordisk-meldet-zehn-tote-durch-selbst-hergestellte-abnehmspritzen](https://www.spiegel.de/wirtschaft/usa-novo-nordisk-meldet-zehn-tote-durch-selbst-hergestellte-abnehmspritzen-a-91197371-eb51-48a6-b04e-6818c2f6ec59#ref=rss)
-### nordisk
-
-* [https://www.spiegel.de/wirtschaft/usa-novo-nordisk-meldet-zehn-tote-durch-selbst-hergestellte-abnehmspritzen](https://www.spiegel.de/wirtschaft/usa-novo-nordisk-meldet-zehn-tote-durch-selbst-hergestellte-abnehmspritzen-a-91197371-eb51-48a6-b04e-6818c2f6ec59#ref=rss)
-### meldet
-
-* [https://www.spiegel.de/wirtschaft/usa-novo-nordisk-meldet-zehn-tote-durch-selbst-hergestellte-abnehmspritzen](https://www.spiegel.de/wirtschaft/usa-novo-nordisk-meldet-zehn-tote-durch-selbst-hergestellte-abnehmspritzen-a-91197371-eb51-48a6-b04e-6818c2f6ec59#ref=rss)
-* [https://www.spiegel.de/politik/ampel-aus-frank-walter-steinmeier-aeussert-sich-zum-ende-der-koalition-livestream](https://www.spiegel.de/politik/ampel-aus-frank-walter-steinmeier-aeussert-sich-zum-ende-der-koalition-livestream-a-4f96cc36-2744-4000-a884-a0c22b1285c9#ref=rss)
-### zehn
-
-* [https://www.spiegel.de/wirtschaft/usa-novo-nordisk-meldet-zehn-tote-durch-selbst-hergestellte-abnehmspritzen](https://www.spiegel.de/wirtschaft/usa-novo-nordisk-meldet-zehn-tote-durch-selbst-hergestellte-abnehmspritzen-a-91197371-eb51-48a6-b04e-6818c2f6ec59#ref=rss)
-### monaten
-
-* [https://www.spiegel.de/wirtschaft/usa-novo-nordisk-meldet-zehn-tote-durch-selbst-hergestellte-abnehmspritzen](https://www.spiegel.de/wirtschaft/usa-novo-nordisk-meldet-zehn-tote-durch-selbst-hergestellte-abnehmspritzen-a-91197371-eb51-48a6-b04e-6818c2f6ec59#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-wird-47-us-praesident-was-kommt-als-naechstes](https://www.spiegel.de/ausland/usa-donald-trump-wird-47-us-praesident-was-kommt-als-naechstes-a-80ef4a8b-6c85-4093-ba7f-737601ec7d5f#ref=rss)
-### laut
-
-* [https://www.spiegel.de/wirtschaft/usa-novo-nordisk-meldet-zehn-tote-durch-selbst-hergestellte-abnehmspritzen](https://www.spiegel.de/wirtschaft/usa-novo-nordisk-meldet-zehn-tote-durch-selbst-hergestellte-abnehmspritzen-a-91197371-eb51-48a6-b04e-6818c2f6ec59#ref=rss)
-* [https://www.spiegel.de/panorama/who-drei-von-fuenf-kindern-erleben-zu-hause-koerperliche-gewalt](https://www.spiegel.de/panorama/who-drei-von-fuenf-kindern-erleben-zu-hause-koerperliche-gewalt-a-a7c38e9e-6e80-4144-bb76-c0a3d02f600a#ref=rss)
-### internationale
-
-* [https://www.spiegel.de/politik/deutschland/internationale-pressestimmen-zum-ampel-aus-seit-gestern-abend-ist-deutschland-politisch-zur-lame-duck-geworden](https://www.spiegel.de/politik/deutschland/internationale-pressestimmen-zum-ampel-aus-seit-gestern-abend-ist-deutschland-politisch-zur-lame-duck-geworden-a-e8d701f5-fbf5-4639-9f93-dabcfa336147#ref=rss)
-### gestern
-
-* [https://www.spiegel.de/politik/deutschland/internationale-pressestimmen-zum-ampel-aus-seit-gestern-abend-ist-deutschland-politisch-zur-lame-duck-geworden](https://www.spiegel.de/politik/deutschland/internationale-pressestimmen-zum-ampel-aus-seit-gestern-abend-ist-deutschland-politisch-zur-lame-duck-geworden-a-e8d701f5-fbf5-4639-9f93-dabcfa336147#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-draengt-olaf-scholz-zu-rascher-vertrauensfrage-bis-wochenbeginn](https://www.spiegel.de/politik/deutschland/friedrich-merz-draengt-olaf-scholz-zu-rascher-vertrauensfrage-bis-wochenbeginn-a-ef2e5c0f-47ca-419d-a6ce-891136b38d69#ref=rss)
-### abend
-
-* [https://www.spiegel.de/politik/deutschland/internationale-pressestimmen-zum-ampel-aus-seit-gestern-abend-ist-deutschland-politisch-zur-lame-duck-geworden](https://www.spiegel.de/politik/deutschland/internationale-pressestimmen-zum-ampel-aus-seit-gestern-abend-ist-deutschland-politisch-zur-lame-duck-geworden-a-e8d701f5-fbf5-4639-9f93-dabcfa336147#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-draengt-olaf-scholz-zu-rascher-vertrauensfrage-bis-wochenbeginn](https://www.spiegel.de/politik/deutschland/friedrich-merz-draengt-olaf-scholz-zu-rascher-vertrauensfrage-bis-wochenbeginn-a-ef2e5c0f-47ca-419d-a6ce-891136b38d69#ref=rss)
-### allem
-
-* [https://www.spiegel.de/politik/deutschland/internationale-pressestimmen-zum-ampel-aus-seit-gestern-abend-ist-deutschland-politisch-zur-lame-duck-geworden](https://www.spiegel.de/politik/deutschland/internationale-pressestimmen-zum-ampel-aus-seit-gestern-abend-ist-deutschland-politisch-zur-lame-duck-geworden-a-e8d701f5-fbf5-4639-9f93-dabcfa336147#ref=rss)
-* [https://www.spiegel.de/familie/mein-kind-auf-klassenfahrt-und-wahrheit-oder-pflicht-spielen-mit-den-maedchen](https://www.spiegel.de/familie/mein-kind-auf-klassenfahrt-und-wahrheit-oder-pflicht-spielen-mit-den-maedchen-a-9d85d9b8-e008-40c4-8b58-eeaf913421c7#ref=rss)
-### australien
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/australien-plant-radikales-social-media-verbot-fuer-jugendliche-unter-16-jahren](https://www.spiegel.de/netzwelt/netzpolitik/australien-plant-radikales-social-media-verbot-fuer-jugendliche-unter-16-jahren-a-aec4afaf-38a6-4fc7-8bc3-a4ef85bf10cc#ref=rss)
-### jugendliche
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/australien-plant-radikales-social-media-verbot-fuer-jugendliche-unter-16-jahren](https://www.spiegel.de/netzwelt/netzpolitik/australien-plant-radikales-social-media-verbot-fuer-jugendliche-unter-16-jahren-a-aec4afaf-38a6-4fc7-8bc3-a4ef85bf10cc#ref=rss)
-### unter
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/australien-plant-radikales-social-media-verbot-fuer-jugendliche-unter-16-jahren](https://www.spiegel.de/netzwelt/netzpolitik/australien-plant-radikales-social-media-verbot-fuer-jugendliche-unter-16-jahren-a-aec4afaf-38a6-4fc7-8bc3-a4ef85bf10cc#ref=rss)
-### 16
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/australien-plant-radikales-social-media-verbot-fuer-jugendliche-unter-16-jahren](https://www.spiegel.de/netzwelt/netzpolitik/australien-plant-radikales-social-media-verbot-fuer-jugendliche-unter-16-jahren-a-aec4afaf-38a6-4fc7-8bc3-a4ef85bf10cc#ref=rss)
-### genau
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/australien-plant-radikales-social-media-verbot-fuer-jugendliche-unter-16-jahren](https://www.spiegel.de/netzwelt/netzpolitik/australien-plant-radikales-social-media-verbot-fuer-jugendliche-unter-16-jahren-a-aec4afaf-38a6-4fc7-8bc3-a4ef85bf10cc#ref=rss)
-* [https://www.spiegel.de/familie/mein-kind-auf-klassenfahrt-und-wahrheit-oder-pflicht-spielen-mit-den-maedchen](https://www.spiegel.de/familie/mein-kind-auf-klassenfahrt-und-wahrheit-oder-pflicht-spielen-mit-den-maedchen-a-9d85d9b8-e008-40c4-8b58-eeaf913421c7#ref=rss)
-### statement
-
-* [https://www.spiegel.de/politik/ampel-aus-frank-walter-steinmeier-aeussert-sich-zum-ende-der-koalition-livestream](https://www.spiegel.de/politik/ampel-aus-frank-walter-steinmeier-aeussert-sich-zum-ende-der-koalition-livestream-a-4f96cc36-2744-4000-a884-a0c22b1285c9#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-cdu-chef-draengt-kanzler-scholz-zu-vorgezogenen-neuwahlen](https://www.spiegel.de/politik/friedrich-merz-cdu-chef-draengt-kanzler-scholz-zu-vorgezogenen-neuwahlen-a-8543a66a-9c17-4082-bc72-3127e1139d9e#ref=rss)
-### voller
-
-* [https://www.spiegel.de/politik/ampel-aus-frank-walter-steinmeier-aeussert-sich-zum-ende-der-koalition-livestream](https://www.spiegel.de/politik/ampel-aus-frank-walter-steinmeier-aeussert-sich-zum-ende-der-koalition-livestream-a-4f96cc36-2744-4000-a884-a0c22b1285c9#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-cdu-chef-draengt-kanzler-scholz-zu-vorgezogenen-neuwahlen](https://www.spiegel.de/politik/friedrich-merz-cdu-chef-draengt-kanzler-scholz-zu-vorgezogenen-neuwahlen-a-8543a66a-9c17-4082-bc72-3127e1139d9e#ref=rss)
-### länge
-
-* [https://www.spiegel.de/politik/ampel-aus-frank-walter-steinmeier-aeussert-sich-zum-ende-der-koalition-livestream](https://www.spiegel.de/politik/ampel-aus-frank-walter-steinmeier-aeussert-sich-zum-ende-der-koalition-livestream-a-4f96cc36-2744-4000-a884-a0c22b1285c9#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-cdu-chef-draengt-kanzler-scholz-zu-vorgezogenen-neuwahlen](https://www.spiegel.de/politik/friedrich-merz-cdu-chef-draengt-kanzler-scholz-zu-vorgezogenen-neuwahlen-a-8543a66a-9c17-4082-bc72-3127e1139d9e#ref=rss)
-### marteria
-
-* [https://www.spiegel.de/kultur/musik/marteria-hat-neuen-support-act-seinen-sohn](https://www.spiegel.de/kultur/musik/marteria-hat-neuen-support-act-seinen-sohn-a-1cbb80c3-af1f-437b-bb5c-de22dbf971b2#ref=rss)
-### kommenden
-
-* [https://www.spiegel.de/kultur/musik/marteria-hat-neuen-support-act-seinen-sohn](https://www.spiegel.de/kultur/musik/marteria-hat-neuen-support-act-seinen-sohn-a-1cbb80c3-af1f-437b-bb5c-de22dbf971b2#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-wird-47-us-praesident-was-kommt-als-naechstes](https://www.spiegel.de/ausland/usa-donald-trump-wird-47-us-praesident-was-kommt-als-naechstes-a-80ef4a8b-6c85-4093-ba7f-737601ec7d5f#ref=rss)
-### etwas
-
-* [https://www.spiegel.de/kultur/musik/marteria-hat-neuen-support-act-seinen-sohn](https://www.spiegel.de/kultur/musik/marteria-hat-neuen-support-act-seinen-sohn-a-1cbb80c3-af1f-437b-bb5c-de22dbf971b2#ref=rss)
-* [https://www.spiegel.de/panorama/who-drei-von-fuenf-kindern-erleben-zu-hause-koerperliche-gewalt](https://www.spiegel.de/panorama/who-drei-von-fuenf-kindern-erleben-zu-hause-koerperliche-gewalt-a-a7c38e9e-6e80-4144-bb76-c0a3d02f600a#ref=rss)
-### who
-
-* [https://www.spiegel.de/panorama/who-drei-von-fuenf-kindern-erleben-zu-hause-koerperliche-gewalt](https://www.spiegel.de/panorama/who-drei-von-fuenf-kindern-erleben-zu-hause-koerperliche-gewalt-a-a7c38e9e-6e80-4144-bb76-c0a3d02f600a#ref=rss)
-### kindern
-
-* [https://www.spiegel.de/panorama/who-drei-von-fuenf-kindern-erleben-zu-hause-koerperliche-gewalt](https://www.spiegel.de/panorama/who-drei-von-fuenf-kindern-erleben-zu-hause-koerperliche-gewalt-a-a7c38e9e-6e80-4144-bb76-c0a3d02f600a#ref=rss)
-* [https://www.spiegel.de/familie/mein-kind-auf-klassenfahrt-und-wahrheit-oder-pflicht-spielen-mit-den-maedchen](https://www.spiegel.de/familie/mein-kind-auf-klassenfahrt-und-wahrheit-oder-pflicht-spielen-mit-den-maedchen-a-9d85d9b8-e008-40c4-8b58-eeaf913421c7#ref=rss)
-### erleben
-
-* [https://www.spiegel.de/panorama/who-drei-von-fuenf-kindern-erleben-zu-hause-koerperliche-gewalt](https://www.spiegel.de/panorama/who-drei-von-fuenf-kindern-erleben-zu-hause-koerperliche-gewalt-a-a7c38e9e-6e80-4144-bb76-c0a3d02f600a#ref=rss)
-### gewalt
-
-* [https://www.spiegel.de/panorama/who-drei-von-fuenf-kindern-erleben-zu-hause-koerperliche-gewalt](https://www.spiegel.de/panorama/who-drei-von-fuenf-kindern-erleben-zu-hause-koerperliche-gewalt-a-a7c38e9e-6e80-4144-bb76-c0a3d02f600a#ref=rss)
-### dagegen
-
-* [https://www.spiegel.de/panorama/who-drei-von-fuenf-kindern-erleben-zu-hause-koerperliche-gewalt](https://www.spiegel.de/panorama/who-drei-von-fuenf-kindern-erleben-zu-hause-koerperliche-gewalt-a-a7c38e9e-6e80-4144-bb76-c0a3d02f600a#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-so-hat-donald-trump-die-wahl-gewonnen-trends-themen-waehlergruppen](https://www.spiegel.de/ausland/us-wahl-2024-so-hat-donald-trump-die-wahl-gewonnen-trends-themen-waehlergruppen-a-f3a3b116-b719-40c7-9796-35b45891597c#ref=rss)
-### jay
-
-* [https://www.spiegel.de/panorama/leute/donald-trump-jay-leno-sieht-wahlsieg-als-grossen-tag-fuer-die-demokratie](https://www.spiegel.de/panorama/leute/donald-trump-jay-leno-sieht-wahlsieg-als-grossen-tag-fuer-die-demokratie-a-db5adcbb-3334-42f1-9ad5-42ce0b69fe98#ref=rss)
-### leno
-
-* [https://www.spiegel.de/panorama/leute/donald-trump-jay-leno-sieht-wahlsieg-als-grossen-tag-fuer-die-demokratie](https://www.spiegel.de/panorama/leute/donald-trump-jay-leno-sieht-wahlsieg-als-grossen-tag-fuer-die-demokratie-a-db5adcbb-3334-42f1-9ad5-42ce0b69fe98#ref=rss)
-### wahlsieg
-
-* [https://www.spiegel.de/panorama/leute/donald-trump-jay-leno-sieht-wahlsieg-als-grossen-tag-fuer-die-demokratie](https://www.spiegel.de/panorama/leute/donald-trump-jay-leno-sieht-wahlsieg-als-grossen-tag-fuer-die-demokratie-a-db5adcbb-3334-42f1-9ad5-42ce0b69fe98#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-michelle-und-barack-obama-gratulieren-donald-trump-und-j-d-vance](https://www.spiegel.de/ausland/us-wahl-2024-michelle-und-barack-obama-gratulieren-donald-trump-und-j-d-vance-a-525ed4f2-1d97-48cc-8b20-4de15ddd6079#ref=rss)
-### sc
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-sc-freiburg-trauert-um-ex-profi-maximilian-heidenreich](https://www.spiegel.de/sport/fussball/bundesliga-sc-freiburg-trauert-um-ex-profi-maximilian-heidenreich-a-5821e062-d934-4dbf-88c5-41344073567b#ref=rss)
-### freiburg
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-sc-freiburg-trauert-um-ex-profi-maximilian-heidenreich](https://www.spiegel.de/sport/fussball/bundesliga-sc-freiburg-trauert-um-ex-profi-maximilian-heidenreich-a-5821e062-d934-4dbf-88c5-41344073567b#ref=rss)
-### maximilian
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-sc-freiburg-trauert-um-ex-profi-maximilian-heidenreich](https://www.spiegel.de/sport/fussball/bundesliga-sc-freiburg-trauert-um-ex-profi-maximilian-heidenreich-a-5821e062-d934-4dbf-88c5-41344073567b#ref=rss)
-### heidenreich
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-sc-freiburg-trauert-um-ex-profi-maximilian-heidenreich](https://www.spiegel.de/sport/fussball/bundesliga-sc-freiburg-trauert-um-ex-profi-maximilian-heidenreich-a-5821e062-d934-4dbf-88c5-41344073567b#ref=rss)
-### 47
-
-* [https://www.spiegel.de/ausland/usa-donald-trump-wird-47-us-praesident-was-kommt-als-naechstes](https://www.spiegel.de/ausland/usa-donald-trump-wird-47-us-praesident-was-kommt-als-naechstes-a-80ef4a8b-6c85-4093-ba7f-737601ec7d5f#ref=rss)
-### überblick
-
-* [https://www.spiegel.de/ausland/usa-donald-trump-wird-47-us-praesident-was-kommt-als-naechstes](https://www.spiegel.de/ausland/usa-donald-trump-wird-47-us-praesident-was-kommt-als-naechstes-a-80ef4a8b-6c85-4093-ba7f-737601ec7d5f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-so-rechnete-der-kanzler-mit-christian-lindner-ab](https://www.spiegel.de/politik/deutschland/olaf-scholz-so-rechnete-der-kanzler-mit-christian-lindner-ab-a-60a2bd94-674c-44aa-bd42-378c492cf53f#ref=rss)
-### rachael
-
-* [https://www.spiegel.de/sport/olympia/rachael-gunn-raygun-beendet-nach-olympia-aufregung-karriere-als-breakerin](https://www.spiegel.de/sport/olympia/rachael-gunn-raygun-beendet-nach-olympia-aufregung-karriere-als-breakerin-a-288088e8-d269-40ab-86a3-01e9b8e10b94#ref=rss)
-### gunn
-
-* [https://www.spiegel.de/sport/olympia/rachael-gunn-raygun-beendet-nach-olympia-aufregung-karriere-als-breakerin](https://www.spiegel.de/sport/olympia/rachael-gunn-raygun-beendet-nach-olympia-aufregung-karriere-als-breakerin-a-288088e8-d269-40ab-86a3-01e9b8e10b94#ref=rss)
-### demokraten
-
-* [https://www.spiegel.de/ausland/us-wahl-2024-kamala-harris-und-die-niederlage-der-demokraten](https://www.spiegel.de/ausland/us-wahl-2024-kamala-harris-und-die-niederlage-der-demokraten-a-34fc57ff-dade-4e9b-84f5-c7df8b5c2aea#ref=rss)
-### michelle
-
-* [https://www.spiegel.de/ausland/us-wahl-2024-michelle-und-barack-obama-gratulieren-donald-trump-und-j-d-vance](https://www.spiegel.de/ausland/us-wahl-2024-michelle-und-barack-obama-gratulieren-donald-trump-und-j-d-vance-a-525ed4f2-1d97-48cc-8b20-4de15ddd6079#ref=rss)
-### barack
-
-* [https://www.spiegel.de/ausland/us-wahl-2024-michelle-und-barack-obama-gratulieren-donald-trump-und-j-d-vance](https://www.spiegel.de/ausland/us-wahl-2024-michelle-und-barack-obama-gratulieren-donald-trump-und-j-d-vance-a-525ed4f2-1d97-48cc-8b20-4de15ddd6079#ref=rss)
-### obama
-
-* [https://www.spiegel.de/ausland/us-wahl-2024-michelle-und-barack-obama-gratulieren-donald-trump-und-j-d-vance](https://www.spiegel.de/ausland/us-wahl-2024-michelle-und-barack-obama-gratulieren-donald-trump-und-j-d-vance-a-525ed4f2-1d97-48cc-8b20-4de15ddd6079#ref=rss)
-### gratulieren
-
-* [https://www.spiegel.de/ausland/us-wahl-2024-michelle-und-barack-obama-gratulieren-donald-trump-und-j-d-vance](https://www.spiegel.de/ausland/us-wahl-2024-michelle-und-barack-obama-gratulieren-donald-trump-und-j-d-vance-a-525ed4f2-1d97-48cc-8b20-4de15ddd6079#ref=rss)
-### jd
-
-* [https://www.spiegel.de/ausland/us-wahl-2024-michelle-und-barack-obama-gratulieren-donald-trump-und-j-d-vance](https://www.spiegel.de/ausland/us-wahl-2024-michelle-und-barack-obama-gratulieren-donald-trump-und-j-d-vance-a-525ed4f2-1d97-48cc-8b20-4de15ddd6079#ref=rss)
-### vance
-
-* [https://www.spiegel.de/ausland/us-wahl-2024-michelle-und-barack-obama-gratulieren-donald-trump-und-j-d-vance](https://www.spiegel.de/ausland/us-wahl-2024-michelle-und-barack-obama-gratulieren-donald-trump-und-j-d-vance-a-525ed4f2-1d97-48cc-8b20-4de15ddd6079#ref=rss)
-### republikaner
-
-* [https://www.spiegel.de/ausland/us-wahl-2024-michelle-und-barack-obama-gratulieren-donald-trump-und-j-d-vance](https://www.spiegel.de/ausland/us-wahl-2024-michelle-und-barack-obama-gratulieren-donald-trump-und-j-d-vance-a-525ed4f2-1d97-48cc-8b20-4de15ddd6079#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-so-hat-donald-trump-die-wahl-gewonnen-trends-themen-waehlergruppen](https://www.spiegel.de/ausland/us-wahl-2024-so-hat-donald-trump-die-wahl-gewonnen-trends-themen-waehlergruppen-a-f3a3b116-b719-40c7-9796-35b45891597c#ref=rss)
-### drängt
-
-* [https://www.spiegel.de/politik/friedrich-merz-cdu-chef-draengt-kanzler-scholz-zu-vorgezogenen-neuwahlen](https://www.spiegel.de/politik/friedrich-merz-cdu-chef-draengt-kanzler-scholz-zu-vorgezogenen-neuwahlen-a-8543a66a-9c17-4082-bc72-3127e1139d9e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-draengt-olaf-scholz-zu-rascher-vertrauensfrage-bis-wochenbeginn](https://www.spiegel.de/politik/deutschland/friedrich-merz-draengt-olaf-scholz-zu-rascher-vertrauensfrage-bis-wochenbeginn-a-ef2e5c0f-47ca-419d-a6ce-891136b38d69#ref=rss)
-### ampel
-
-* [https://www.spiegel.de/politik/friedrich-merz-cdu-chef-draengt-kanzler-scholz-zu-vorgezogenen-neuwahlen](https://www.spiegel.de/politik/friedrich-merz-cdu-chef-draengt-kanzler-scholz-zu-vorgezogenen-neuwahlen-a-8543a66a-9c17-4082-bc72-3127e1139d9e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-draengt-olaf-scholz-zu-rascher-vertrauensfrage-bis-wochenbeginn](https://www.spiegel.de/politik/deutschland/friedrich-merz-draengt-olaf-scholz-zu-rascher-vertrauensfrage-bis-wochenbeginn-a-ef2e5c0f-47ca-419d-a6ce-891136b38d69#ref=rss)
-### geschichte
-
-* [https://www.spiegel.de/politik/friedrich-merz-cdu-chef-draengt-kanzler-scholz-zu-vorgezogenen-neuwahlen](https://www.spiegel.de/politik/friedrich-merz-cdu-chef-draengt-kanzler-scholz-zu-vorgezogenen-neuwahlen-a-8543a66a-9c17-4082-bc72-3127e1139d9e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-draengt-olaf-scholz-zu-rascher-vertrauensfrage-bis-wochenbeginn](https://www.spiegel.de/politik/deutschland/friedrich-merz-draengt-olaf-scholz-zu-rascher-vertrauensfrage-bis-wochenbeginn-a-ef2e5c0f-47ca-419d-a6ce-891136b38d69#ref=rss)
-### oppositionsführer
-
-* [https://www.spiegel.de/politik/friedrich-merz-cdu-chef-draengt-kanzler-scholz-zu-vorgezogenen-neuwahlen](https://www.spiegel.de/politik/friedrich-merz-cdu-chef-draengt-kanzler-scholz-zu-vorgezogenen-neuwahlen-a-8543a66a-9c17-4082-bc72-3127e1139d9e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-draengt-olaf-scholz-zu-rascher-vertrauensfrage-bis-wochenbeginn](https://www.spiegel.de/politik/deutschland/friedrich-merz-draengt-olaf-scholz-zu-rascher-vertrauensfrage-bis-wochenbeginn-a-ef2e5c0f-47ca-419d-a6ce-891136b38d69#ref=rss)
-### joko
-
-* [https://www.spiegel.de/panorama/leute/joko-winterscheidt-im-podcast-spricht-er-ueber-seine-erfahrungen-mit-einer-therapie](https://www.spiegel.de/panorama/leute/joko-winterscheidt-im-podcast-spricht-er-ueber-seine-erfahrungen-mit-einer-therapie-a-f7cf0bad-30c5-4fde-ba45-37c4a545b21c#ref=rss)
-### podcast
-
-* [https://www.spiegel.de/panorama/leute/joko-winterscheidt-im-podcast-spricht-er-ueber-seine-erfahrungen-mit-einer-therapie](https://www.spiegel.de/panorama/leute/joko-winterscheidt-im-podcast-spricht-er-ueber-seine-erfahrungen-mit-einer-therapie-a-f7cf0bad-30c5-4fde-ba45-37c4a545b21c#ref=rss)
-### therapie
-
-* [https://www.spiegel.de/panorama/leute/joko-winterscheidt-im-podcast-spricht-er-ueber-seine-erfahrungen-mit-einer-therapie](https://www.spiegel.de/panorama/leute/joko-winterscheidt-im-podcast-spricht-er-ueber-seine-erfahrungen-mit-einer-therapie-a-f7cf0bad-30c5-4fde-ba45-37c4a545b21c#ref=rss)
-### greifswald
-
-* [https://www.spiegel.de/panorama/justiz/greifswald-32-jaehriger-stirbt-bei-flucht-vor-polizei](https://www.spiegel.de/panorama/justiz/greifswald-32-jaehriger-stirbt-bei-flucht-vor-polizei-a-6c72079b-6a44-4429-a502-683236d88117#ref=rss)
-### mein
-
-* [https://www.spiegel.de/familie/mein-kind-auf-klassenfahrt-und-wahrheit-oder-pflicht-spielen-mit-den-maedchen](https://www.spiegel.de/familie/mein-kind-auf-klassenfahrt-und-wahrheit-oder-pflicht-spielen-mit-den-maedchen-a-9d85d9b8-e008-40c4-8b58-eeaf913421c7#ref=rss)
-### klassenfahrt
-
-* [https://www.spiegel.de/familie/mein-kind-auf-klassenfahrt-und-wahrheit-oder-pflicht-spielen-mit-den-maedchen](https://www.spiegel.de/familie/mein-kind-auf-klassenfahrt-und-wahrheit-oder-pflicht-spielen-mit-den-maedchen-a-9d85d9b8-e008-40c4-8b58-eeaf913421c7#ref=rss)
-### hilfen
-
-* [https://www.spiegel.de/ausland/ukraine-joe-biden-macht-tempo-bei-hilfen-fuer-kyjiw-vor-amtsantritt-von-donald-trump](https://www.spiegel.de/ausland/ukraine-joe-biden-macht-tempo-bei-hilfen-fuer-kyjiw-vor-amtsantritt-von-donald-trump-a-11ae83e1-9e4c-433b-b9fc-7b67fb6296d2#ref=rss)
-### staatssekretär
-
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-nachfolge-staatssekretaer-joerg-kukies-wird-neuer-finanzminister](https://www.spiegel.de/politik/deutschland/christian-lindner-nachfolge-staatssekretaer-joerg-kukies-wird-neuer-finanzminister-a-8f4c00dd-dedd-4b6f-9b95-d9170f8a7cc3#ref=rss)
-### jörg
-
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-nachfolge-staatssekretaer-joerg-kukies-wird-neuer-finanzminister](https://www.spiegel.de/politik/deutschland/christian-lindner-nachfolge-staatssekretaer-joerg-kukies-wird-neuer-finanzminister-a-8f4c00dd-dedd-4b6f-9b95-d9170f8a7cc3#ref=rss)
-### kukies
-
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-nachfolge-staatssekretaer-joerg-kukies-wird-neuer-finanzminister](https://www.spiegel.de/politik/deutschland/christian-lindner-nachfolge-staatssekretaer-joerg-kukies-wird-neuer-finanzminister-a-8f4c00dd-dedd-4b6f-9b95-d9170f8a7cc3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wahl-in-den-usa-so-teuer-wird-donald-trumps-zweite-praesidentschaft-fuer-deutschland](https://www.spiegel.de/politik/deutschland/wahl-in-den-usa-so-teuer-wird-donald-trumps-zweite-praesidentschaft-fuer-deutschland-a-701b5edd-1542-45a1-a997-e9df97c7e516#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-soldaten-kommentieren-wahlsieg-von-trump](https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-soldaten-kommentieren-wahlsieg-von-trump-a-d516ac6d-319d-4936-a19a-1924f0eb983d#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-joe-biden-spricht-ueber-donald-trumps-wahlsieg-livestream](https://www.spiegel.de/ausland/us-wahl-2024-joe-biden-spricht-ueber-donald-trumps-wahlsieg-livestream-a-056d2f2b-5856-4f72-8e1f-6cce1a857aac#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-so-reagiert-die-welt-auf-seinen-wahlsieg](https://www.spiegel.de/ausland/donald-trump-so-reagiert-die-welt-auf-seinen-wahlsieg-a-001d5169-92d0-4b31-8b66-29ae2c36af76#ref=rss)
 ### christian
 
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-nachfolge-staatssekretaer-joerg-kukies-wird-neuer-finanzminister](https://www.spiegel.de/politik/deutschland/christian-lindner-nachfolge-staatssekretaer-joerg-kukies-wird-neuer-finanzminister-a-8f4c00dd-dedd-4b6f-9b95-d9170f8a7cc3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-so-rechnete-der-kanzler-mit-christian-lindner-ab](https://www.spiegel.de/politik/deutschland/olaf-scholz-so-rechnete-der-kanzler-mit-christian-lindner-ab-a-60a2bd94-674c-44aa-bd42-378c492cf53f#ref=rss)
-### daniel
+* [https://www.spiegel.de/geschichte/ampel-aus-und-koalitionsbruch-in-der-geschichte-dann-gibt-es-mord-und-totschlag](https://www.spiegel.de/geschichte/ampel-aus-und-koalitionsbruch-in-der-geschichte-dann-gibt-es-mord-und-totschlag-a-4acad19b-5a90-4d34-87ba-8175c0c8966f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ampelkoalition-christian-lindner-olaf-scholz-kamala-harris-audi](https://www.spiegel.de/politik/deutschland/news-des-tages-ampelkoalition-christian-lindner-olaf-scholz-kamala-harris-audi-a-28ad30af-727e-4a45-8539-8938157e7f78#ref=rss)
+* [https://www.spiegel.de/kultur/ampel-aus-christian-lindner-waere-gern-prometheus-klingt-aber-wie-troubadix](https://www.spiegel.de/kultur/ampel-aus-christian-lindner-waere-gern-prometheus-klingt-aber-wie-troubadix-a-3e77a042-1458-4fd1-9273-6748b07eefab#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/joerg-kukies-minister-machtlos](https://www.spiegel.de/politik/deutschland/joerg-kukies-minister-machtlos-a-f0acc6cb-2655-49f6-96d6-a144b47f943f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-liveblog-fdp-abtruenniger-wissing-bekommt-auch-justizministerium](https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-liveblog-fdp-abtruenniger-wissing-bekommt-auch-justizministerium-a-f75905e4-b452-4326-8394-5482878b7284#ref=rss)
+### lindner
 
-* [https://www.spiegel.de/kultur/daniel-spoerri-ist-tot-aktionskuenstler-mit-94-jahren-gestorben](https://www.spiegel.de/kultur/daniel-spoerri-ist-tot-aktionskuenstler-mit-94-jahren-gestorben-a-60e46cfb-6910-4eb5-9b13-209f9de7b6b1#ref=rss)
-### spoerri
+* [https://www.spiegel.de/geschichte/ampel-aus-und-koalitionsbruch-in-der-geschichte-dann-gibt-es-mord-und-totschlag](https://www.spiegel.de/geschichte/ampel-aus-und-koalitionsbruch-in-der-geschichte-dann-gibt-es-mord-und-totschlag-a-4acad19b-5a90-4d34-87ba-8175c0c8966f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ampelkoalition-christian-lindner-olaf-scholz-kamala-harris-audi](https://www.spiegel.de/politik/deutschland/news-des-tages-ampelkoalition-christian-lindner-olaf-scholz-kamala-harris-audi-a-28ad30af-727e-4a45-8539-8938157e7f78#ref=rss)
+* [https://www.spiegel.de/kultur/ampel-aus-christian-lindner-waere-gern-prometheus-klingt-aber-wie-troubadix](https://www.spiegel.de/kultur/ampel-aus-christian-lindner-waere-gern-prometheus-klingt-aber-wie-troubadix-a-3e77a042-1458-4fd1-9273-6748b07eefab#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/joerg-kukies-minister-machtlos](https://www.spiegel.de/politik/deutschland/joerg-kukies-minister-machtlos-a-f0acc6cb-2655-49f6-96d6-a144b47f943f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-liveblog-fdp-abtruenniger-wissing-bekommt-auch-justizministerium](https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-liveblog-fdp-abtruenniger-wissing-bekommt-auch-justizministerium-a-f75905e4-b452-4326-8394-5482878b7284#ref=rss)
+### ampelaus
 
-* [https://www.spiegel.de/kultur/daniel-spoerri-ist-tot-aktionskuenstler-mit-94-jahren-gestorben](https://www.spiegel.de/kultur/daniel-spoerri-ist-tot-aktionskuenstler-mit-94-jahren-gestorben-a-60e46cfb-6910-4eb5-9b13-209f9de7b6b1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-das-ist-das-neue-kabinett-von-olaf-scholz-und-diese-frueheren-fdp-minister-sind-nicht-mehr-dabei](https://www.spiegel.de/politik/deutschland/ampel-aus-das-ist-das-neue-kabinett-von-olaf-scholz-und-diese-frueheren-fdp-minister-sind-nicht-mehr-dabei-a-cbaa453c-d175-4e52-9d18-759d49ad65a9#ref=rss)
+* [https://www.spiegel.de/geschichte/ampel-aus-und-koalitionsbruch-in-der-geschichte-dann-gibt-es-mord-und-totschlag](https://www.spiegel.de/geschichte/ampel-aus-und-koalitionsbruch-in-der-geschichte-dann-gibt-es-mord-und-totschlag-a-4acad19b-5a90-4d34-87ba-8175c0c8966f#ref=rss)
+* [https://www.spiegel.de/kultur/ampel-aus-christian-lindner-waere-gern-prometheus-klingt-aber-wie-troubadix](https://www.spiegel.de/kultur/ampel-aus-christian-lindner-waere-gern-prometheus-klingt-aber-wie-troubadix-a-3e77a042-1458-4fd1-9273-6748b07eefab#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-deutschland-braucht-neuwahlen-so-schnell-wie-moeglich-leitartikel](https://www.spiegel.de/politik/deutschland/ampel-aus-deutschland-braucht-neuwahlen-so-schnell-wie-moeglich-leitartikel-a-ed6644d4-2ddb-4fa8-ac26-70f6a18e6285#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-liveblog-fdp-abtruenniger-wissing-bekommt-auch-justizministerium](https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-liveblog-fdp-abtruenniger-wissing-bekommt-auch-justizministerium-a-f75905e4-b452-4326-8394-5482878b7284#ref=rss)
+### trump
+
+* [https://www.spiegel.de/politik/deutschland/wahl-in-den-usa-so-teuer-wird-donald-trumps-zweite-praesidentschaft-fuer-deutschland](https://www.spiegel.de/politik/deutschland/wahl-in-den-usa-so-teuer-wird-donald-trumps-zweite-praesidentschaft-fuer-deutschland-a-701b5edd-1542-45a1-a997-e9df97c7e516#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-soldaten-kommentieren-wahlsieg-von-trump](https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-soldaten-kommentieren-wahlsieg-von-trump-a-d516ac6d-319d-4936-a19a-1924f0eb983d#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-so-reagiert-die-welt-auf-seinen-wahlsieg](https://www.spiegel.de/ausland/donald-trump-so-reagiert-die-welt-auf-seinen-wahlsieg-a-001d5169-92d0-4b31-8b66-29ae2c36af76#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/politik/deutschland/wahl-in-den-usa-so-teuer-wird-donald-trumps-zweite-praesidentschaft-fuer-deutschland](https://www.spiegel.de/politik/deutschland/wahl-in-den-usa-so-teuer-wird-donald-trumps-zweite-praesidentschaft-fuer-deutschland-a-701b5edd-1542-45a1-a997-e9df97c7e516#ref=rss)
+* [https://www.spiegel.de/ausland/us-praesident-joe-biden-nach-der-us-wahl-rueckschlaege-sind-unvermeidbar-aber-aufgeben-ist-unverzeihlich](https://www.spiegel.de/ausland/us-praesident-joe-biden-nach-der-us-wahl-rueckschlaege-sind-unvermeidbar-aber-aufgeben-ist-unverzeihlich-a-dbb5e786-7cdf-47b6-8392-a624b247fbdb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ampelkoalition-christian-lindner-olaf-scholz-kamala-harris-audi](https://www.spiegel.de/politik/deutschland/news-des-tages-ampelkoalition-christian-lindner-olaf-scholz-kamala-harris-audi-a-28ad30af-727e-4a45-8539-8938157e7f78#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-soldaten-kommentieren-wahlsieg-von-trump](https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-soldaten-kommentieren-wahlsieg-von-trump-a-d516ac6d-319d-4936-a19a-1924f0eb983d#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-joe-biden-spricht-ueber-donald-trumps-wahlsieg-livestream](https://www.spiegel.de/ausland/us-wahl-2024-joe-biden-spricht-ueber-donald-trumps-wahlsieg-livestream-a-056d2f2b-5856-4f72-8e1f-6cce1a857aac#ref=rss)
+### olaf
+
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-das-ist-das-neue-kabinett-von-olaf-scholz-und-diese-frueheren-fdp-minister-sind-nicht-mehr-dabei](https://www.spiegel.de/politik/deutschland/ampel-aus-das-ist-das-neue-kabinett-von-olaf-scholz-und-diese-frueheren-fdp-minister-sind-nicht-mehr-dabei-a-cbaa453c-d175-4e52-9d18-759d49ad65a9#ref=rss)
+* [https://www.spiegel.de/geschichte/ampel-aus-und-koalitionsbruch-in-der-geschichte-dann-gibt-es-mord-und-totschlag](https://www.spiegel.de/geschichte/ampel-aus-und-koalitionsbruch-in-der-geschichte-dann-gibt-es-mord-und-totschlag-a-4acad19b-5a90-4d34-87ba-8175c0c8966f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ampelkoalition-christian-lindner-olaf-scholz-kamala-harris-audi](https://www.spiegel.de/politik/deutschland/news-des-tages-ampelkoalition-christian-lindner-olaf-scholz-kamala-harris-audi-a-28ad30af-727e-4a45-8539-8938157e7f78#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-deutschland-braucht-neuwahlen-so-schnell-wie-moeglich-leitartikel](https://www.spiegel.de/politik/deutschland/ampel-aus-deutschland-braucht-neuwahlen-so-schnell-wie-moeglich-leitartikel-a-ed6644d4-2ddb-4fa8-ac26-70f6a18e6285#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-liveblog-fdp-abtruenniger-wissing-bekommt-auch-justizministerium](https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-liveblog-fdp-abtruenniger-wissing-bekommt-auch-justizministerium-a-f75905e4-b452-4326-8394-5482878b7284#ref=rss)
+### scholz
+
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-das-ist-das-neue-kabinett-von-olaf-scholz-und-diese-frueheren-fdp-minister-sind-nicht-mehr-dabei](https://www.spiegel.de/politik/deutschland/ampel-aus-das-ist-das-neue-kabinett-von-olaf-scholz-und-diese-frueheren-fdp-minister-sind-nicht-mehr-dabei-a-cbaa453c-d175-4e52-9d18-759d49ad65a9#ref=rss)
+* [https://www.spiegel.de/geschichte/ampel-aus-und-koalitionsbruch-in-der-geschichte-dann-gibt-es-mord-und-totschlag](https://www.spiegel.de/geschichte/ampel-aus-und-koalitionsbruch-in-der-geschichte-dann-gibt-es-mord-und-totschlag-a-4acad19b-5a90-4d34-87ba-8175c0c8966f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ampelkoalition-christian-lindner-olaf-scholz-kamala-harris-audi](https://www.spiegel.de/politik/deutschland/news-des-tages-ampelkoalition-christian-lindner-olaf-scholz-kamala-harris-audi-a-28ad30af-727e-4a45-8539-8938157e7f78#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-deutschland-braucht-neuwahlen-so-schnell-wie-moeglich-leitartikel](https://www.spiegel.de/politik/deutschland/ampel-aus-deutschland-braucht-neuwahlen-so-schnell-wie-moeglich-leitartikel-a-ed6644d4-2ddb-4fa8-ac26-70f6a18e6285#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-liveblog-fdp-abtruenniger-wissing-bekommt-auch-justizministerium](https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-liveblog-fdp-abtruenniger-wissing-bekommt-auch-justizministerium-a-f75905e4-b452-4326-8394-5482878b7284#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-das-ist-das-neue-kabinett-von-olaf-scholz-und-diese-frueheren-fdp-minister-sind-nicht-mehr-dabei](https://www.spiegel.de/politik/deutschland/ampel-aus-das-ist-das-neue-kabinett-von-olaf-scholz-und-diese-frueheren-fdp-minister-sind-nicht-mehr-dabei-a-cbaa453c-d175-4e52-9d18-759d49ad65a9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-deutschland-braucht-neuwahlen-so-schnell-wie-moeglich-leitartikel](https://www.spiegel.de/politik/deutschland/ampel-aus-deutschland-braucht-neuwahlen-so-schnell-wie-moeglich-leitartikel-a-ed6644d4-2ddb-4fa8-ac26-70f6a18e6285#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/openai-sam-altman-kauft-chat-com-fuer-mehr-als-15-millionen-dollar](https://www.spiegel.de/netzwelt/web/openai-sam-altman-kauft-chat-com-fuer-mehr-als-15-millionen-dollar-a-11a22aff-90d9-4c86-88bd-8062368dc508#ref=rss)
+* [https://www.spiegel.de/ausland/polen-polizei-nimmt-75-verdaechtige-in-gross-angelegter-razzia-gegen-kinderporno-ring-fest](https://www.spiegel.de/ausland/polen-polizei-nimmt-75-verdaechtige-in-gross-angelegter-razzia-gegen-kinderporno-ring-fest-a-431a0e7e-f2c1-4db5-a677-a3b453132937#ref=rss)
+### audi
+
+* [https://www.spiegel.de/auto/audi-e-concept-audi-stellt-neues-elektroauto-fuer-china-vor-ohne-die-vier-ringe](https://www.spiegel.de/auto/audi-e-concept-audi-stellt-neues-elektroauto-fuer-china-vor-ohne-die-vier-ringe-a-3ff8c0d2-fe84-41b5-ab83-4516aa08d099#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ampelkoalition-christian-lindner-olaf-scholz-kamala-harris-audi](https://www.spiegel.de/politik/deutschland/news-des-tages-ampelkoalition-christian-lindner-olaf-scholz-kamala-harris-audi-a-28ad30af-727e-4a45-8539-8938157e7f78#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/sport/fussball/champions-league-balljunge-beim-spiel-zwischen-stuttgart-und-bergamo-von-brennender-fackel-getroffen](https://www.spiegel.de/sport/fussball/champions-league-balljunge-beim-spiel-zwischen-stuttgart-und-bergamo-von-brennender-fackel-getroffen-a-e8a44ee9-546a-43f4-a8b8-6e4086d7512c#ref=rss)
+* [https://www.spiegel.de/ausland/israel-polizei-nimmt-zwei-franzoesische-gendarme-in-jerusalem-fest](https://www.spiegel.de/ausland/israel-polizei-nimmt-zwei-franzoesische-gendarme-in-jerusalem-fest-a-96f1d16f-607c-4786-be23-7ce3c7ca67cc#ref=rss)
+* [https://www.spiegel.de/ausland/polen-polizei-nimmt-75-verdaechtige-in-gross-angelegter-razzia-gegen-kinderporno-ring-fest](https://www.spiegel.de/ausland/polen-polizei-nimmt-75-verdaechtige-in-gross-angelegter-razzia-gegen-kinderporno-ring-fest-a-431a0e7e-f2c1-4db5-a677-a3b453132937#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/politik/deutschland/wahl-in-den-usa-so-teuer-wird-donald-trumps-zweite-praesidentschaft-fuer-deutschland](https://www.spiegel.de/politik/deutschland/wahl-in-den-usa-so-teuer-wird-donald-trumps-zweite-praesidentschaft-fuer-deutschland-a-701b5edd-1542-45a1-a997-e9df97c7e516#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-deutschland-braucht-neuwahlen-so-schnell-wie-moeglich-leitartikel](https://www.spiegel.de/politik/deutschland/ampel-aus-deutschland-braucht-neuwahlen-so-schnell-wie-moeglich-leitartikel-a-ed6644d4-2ddb-4fa8-ac26-70f6a18e6285#ref=rss)
+* [https://www.spiegel.de/politik/ampel-koalition-spd-und-gruene-haetten-das-deutlich-frueher-beenden-muessen](https://www.spiegel.de/politik/ampel-koalition-spd-und-gruene-haetten-das-deutlich-frueher-beenden-muessen-a-3414efff-1216-4e65-845f-e560c8e17bd3#ref=rss)
+### neues
+
+* [https://www.spiegel.de/auto/audi-e-concept-audi-stellt-neues-elektroauto-fuer-china-vor-ohne-die-vier-ringe](https://www.spiegel.de/auto/audi-e-concept-audi-stellt-neues-elektroauto-fuer-china-vor-ohne-die-vier-ringe-a-3ff8c0d2-fe84-41b5-ab83-4516aa08d099#ref=rss)
+* [https://www.spiegel.de/ausland/israel-neues-gesetz-ermoeglicht-abschiebung-von-angehoerigen-von-terroristen](https://www.spiegel.de/ausland/israel-neues-gesetz-ermoeglicht-abschiebung-von-angehoerigen-von-terroristen-a-19009e06-eda9-4176-8c3f-e8543919459d#ref=rss)
+### joe
+
+* [https://www.spiegel.de/ausland/us-praesident-joe-biden-nach-der-us-wahl-rueckschlaege-sind-unvermeidbar-aber-aufgeben-ist-unverzeihlich](https://www.spiegel.de/ausland/us-praesident-joe-biden-nach-der-us-wahl-rueckschlaege-sind-unvermeidbar-aber-aufgeben-ist-unverzeihlich-a-dbb5e786-7cdf-47b6-8392-a624b247fbdb#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-joe-biden-spricht-ueber-donald-trumps-wahlsieg-livestream](https://www.spiegel.de/ausland/us-wahl-2024-joe-biden-spricht-ueber-donald-trumps-wahlsieg-livestream-a-056d2f2b-5856-4f72-8e1f-6cce1a857aac#ref=rss)
+### biden
+
+* [https://www.spiegel.de/ausland/us-praesident-joe-biden-nach-der-us-wahl-rueckschlaege-sind-unvermeidbar-aber-aufgeben-ist-unverzeihlich](https://www.spiegel.de/ausland/us-praesident-joe-biden-nach-der-us-wahl-rueckschlaege-sind-unvermeidbar-aber-aufgeben-ist-unverzeihlich-a-dbb5e786-7cdf-47b6-8392-a624b247fbdb#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-joe-biden-spricht-ueber-donald-trumps-wahlsieg-livestream](https://www.spiegel.de/ausland/us-wahl-2024-joe-biden-spricht-ueber-donald-trumps-wahlsieg-livestream-a-056d2f2b-5856-4f72-8e1f-6cce1a857aac#ref=rss)
+### demokraten
+
+* [https://www.spiegel.de/ausland/us-praesident-joe-biden-nach-der-us-wahl-rueckschlaege-sind-unvermeidbar-aber-aufgeben-ist-unverzeihlich](https://www.spiegel.de/ausland/us-praesident-joe-biden-nach-der-us-wahl-rueckschlaege-sind-unvermeidbar-aber-aufgeben-ist-unverzeihlich-a-dbb5e786-7cdf-47b6-8392-a624b247fbdb#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-joe-biden-spricht-ueber-donald-trumps-wahlsieg-livestream](https://www.spiegel.de/ausland/us-wahl-2024-joe-biden-spricht-ueber-donald-trumps-wahlsieg-livestream-a-056d2f2b-5856-4f72-8e1f-6cce1a857aac#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-so-reagiert-die-welt-auf-seinen-wahlsieg](https://www.spiegel.de/ausland/donald-trump-so-reagiert-die-welt-auf-seinen-wahlsieg-a-001d5169-92d0-4b31-8b66-29ae2c36af76#ref=rss)
+### mann
+
+* [https://www.spiegel.de/wissenschaft/mensch/pompeji-opfer-mit-armreif-erweist-sich-als-mann](https://www.spiegel.de/wissenschaft/mensch/pompeji-opfer-mit-armreif-erweist-sich-als-mann-a-eb268875-d7c5-46af-b601-297a2e7bbf32#ref=rss)
+* [https://www.spiegel.de/auto/wuerzburg-mann-vergisst-fuenfjaehrigen-sohn-im-zug](https://www.spiegel.de/auto/wuerzburg-mann-vergisst-fuenfjaehrigen-sohn-im-zug-a-172197fc-a595-4a4e-82a4-d83bf62d1ad3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/joerg-kukies-minister-machtlos](https://www.spiegel.de/politik/deutschland/joerg-kukies-minister-machtlos-a-f0acc6cb-2655-49f6-96d6-a144b47f943f#ref=rss)
+### ampelkoalition
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ampelkoalition-christian-lindner-olaf-scholz-kamala-harris-audi](https://www.spiegel.de/politik/deutschland/news-des-tages-ampelkoalition-christian-lindner-olaf-scholz-kamala-harris-audi-a-28ad30af-727e-4a45-8539-8938157e7f78#ref=rss)
+* [https://www.spiegel.de/politik/ampel-koalition-spd-und-gruene-haetten-das-deutlich-frueher-beenden-muessen](https://www.spiegel.de/politik/ampel-koalition-spd-und-gruene-haetten-das-deutlich-frueher-beenden-muessen-a-3414efff-1216-4e65-845f-e560c8e17bd3#ref=rss)
+### großen
+
+* [https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-muenchen-und-arsenal-wfc-muessen-spielort-wechseln](https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-muenchen-und-arsenal-wfc-muessen-spielort-wechseln-a-33495b2d-ca9f-4483-a3e0-cc839fadc8bd#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-joe-biden-spricht-ueber-donald-trumps-wahlsieg-livestream](https://www.spiegel.de/ausland/us-wahl-2024-joe-biden-spricht-ueber-donald-trumps-wahlsieg-livestream-a-056d2f2b-5856-4f72-8e1f-6cce1a857aac#ref=rss)
+* [https://www.spiegel.de/ausland/polen-polizei-nimmt-75-verdaechtige-in-gross-angelegter-razzia-gegen-kinderporno-ring-fest](https://www.spiegel.de/ausland/polen-polizei-nimmt-75-verdaechtige-in-gross-angelegter-razzia-gegen-kinderporno-ring-fest-a-431a0e7e-f2c1-4db5-a677-a3b453132937#ref=rss)
+### wahlsieg
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-soldaten-kommentieren-wahlsieg-von-trump](https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-soldaten-kommentieren-wahlsieg-von-trump-a-d516ac6d-319d-4936-a19a-1924f0eb983d#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-joe-biden-spricht-ueber-donald-trumps-wahlsieg-livestream](https://www.spiegel.de/ausland/us-wahl-2024-joe-biden-spricht-ueber-donald-trumps-wahlsieg-livestream-a-056d2f2b-5856-4f72-8e1f-6cce1a857aac#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-so-reagiert-die-welt-auf-seinen-wahlsieg](https://www.spiegel.de/ausland/donald-trump-so-reagiert-die-welt-auf-seinen-wahlsieg-a-001d5169-92d0-4b31-8b66-29ae2c36af76#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/panorama/justiz/cum-ex-steuerbetrug-fondsmanager-gesteht-hinterziehung-von-343-millionen-euro](https://www.spiegel.de/panorama/justiz/cum-ex-steuerbetrug-fondsmanager-gesteht-hinterziehung-von-343-millionen-euro-a-c21aea46-5784-495a-a1d9-23e0f8ff546a#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/openai-sam-altman-kauft-chat-com-fuer-mehr-als-15-millionen-dollar](https://www.spiegel.de/netzwelt/web/openai-sam-altman-kauft-chat-com-fuer-mehr-als-15-millionen-dollar-a-11a22aff-90d9-4c86-88bd-8062368dc508#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/israel-polizei-nimmt-zwei-franzoesische-gendarme-in-jerusalem-fest](https://www.spiegel.de/ausland/israel-polizei-nimmt-zwei-franzoesische-gendarme-in-jerusalem-fest-a-96f1d16f-607c-4786-be23-7ce3c7ca67cc#ref=rss)
+* [https://www.spiegel.de/ausland/israel-neues-gesetz-ermoeglicht-abschiebung-von-angehoerigen-von-terroristen](https://www.spiegel.de/ausland/israel-neues-gesetz-ermoeglicht-abschiebung-von-angehoerigen-von-terroristen-a-19009e06-eda9-4176-8c3f-e8543919459d#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/ausland/israel-polizei-nimmt-zwei-franzoesische-gendarme-in-jerusalem-fest](https://www.spiegel.de/ausland/israel-polizei-nimmt-zwei-franzoesische-gendarme-in-jerusalem-fest-a-96f1d16f-607c-4786-be23-7ce3c7ca67cc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-liveblog-fdp-abtruenniger-wissing-bekommt-auch-justizministerium](https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-liveblog-fdp-abtruenniger-wissing-bekommt-auch-justizministerium-a-f75905e4-b452-4326-8394-5482878b7284#ref=rss)
+### neuwahlen
+
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-deutschland-braucht-neuwahlen-so-schnell-wie-moeglich-leitartikel](https://www.spiegel.de/politik/deutschland/ampel-aus-deutschland-braucht-neuwahlen-so-schnell-wie-moeglich-leitartikel-a-ed6644d4-2ddb-4fa8-ac26-70f6a18e6285#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-liveblog-fdp-abtruenniger-wissing-bekommt-auch-justizministerium](https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-liveblog-fdp-abtruenniger-wissing-bekommt-auch-justizministerium-a-f75905e4-b452-4326-8394-5482878b7284#ref=rss)
+### stellt
+
+* [https://www.spiegel.de/auto/audi-e-concept-audi-stellt-neues-elektroauto-fuer-china-vor-ohne-die-vier-ringe](https://www.spiegel.de/auto/audi-e-concept-audi-stellt-neues-elektroauto-fuer-china-vor-ohne-die-vier-ringe-a-3ff8c0d2-fe84-41b5-ab83-4516aa08d099#ref=rss)
+### vier
+
+* [https://www.spiegel.de/auto/audi-e-concept-audi-stellt-neues-elektroauto-fuer-china-vor-ohne-die-vier-ringe](https://www.spiegel.de/auto/audi-e-concept-audi-stellt-neues-elektroauto-fuer-china-vor-ohne-die-vier-ringe-a-3ff8c0d2-fe84-41b5-ab83-4516aa08d099#ref=rss)
+### ringe
+
+* [https://www.spiegel.de/auto/audi-e-concept-audi-stellt-neues-elektroauto-fuer-china-vor-ohne-die-vier-ringe](https://www.spiegel.de/auto/audi-e-concept-audi-stellt-neues-elektroauto-fuer-china-vor-ohne-die-vier-ringe-a-3ff8c0d2-fe84-41b5-ab83-4516aa08d099#ref=rss)
+### neue
+
+* [https://www.spiegel.de/auto/audi-e-concept-audi-stellt-neues-elektroauto-fuer-china-vor-ohne-die-vier-ringe](https://www.spiegel.de/auto/audi-e-concept-audi-stellt-neues-elektroauto-fuer-china-vor-ohne-die-vier-ringe-a-3ff8c0d2-fe84-41b5-ab83-4516aa08d099#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-das-ist-das-neue-kabinett-von-olaf-scholz-und-diese-frueheren-fdp-minister-sind-nicht-mehr-dabei](https://www.spiegel.de/politik/deutschland/ampel-aus-das-ist-das-neue-kabinett-von-olaf-scholz-und-diese-frueheren-fdp-minister-sind-nicht-mehr-dabei-a-cbaa453c-d175-4e52-9d18-759d49ad65a9#ref=rss)
+### champions
+
+* [https://www.spiegel.de/sport/fussball/champions-league-balljunge-beim-spiel-zwischen-stuttgart-und-bergamo-von-brennender-fackel-getroffen](https://www.spiegel.de/sport/fussball/champions-league-balljunge-beim-spiel-zwischen-stuttgart-und-bergamo-von-brennender-fackel-getroffen-a-e8a44ee9-546a-43f4-a8b8-6e4086d7512c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-muenchen-und-arsenal-wfc-muessen-spielort-wechseln](https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-muenchen-und-arsenal-wfc-muessen-spielort-wechseln-a-33495b2d-ca9f-4483-a3e0-cc839fadc8bd#ref=rss)
+### league
+
+* [https://www.spiegel.de/sport/fussball/champions-league-balljunge-beim-spiel-zwischen-stuttgart-und-bergamo-von-brennender-fackel-getroffen](https://www.spiegel.de/sport/fussball/champions-league-balljunge-beim-spiel-zwischen-stuttgart-und-bergamo-von-brennender-fackel-getroffen-a-e8a44ee9-546a-43f4-a8b8-6e4086d7512c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-muenchen-und-arsenal-wfc-muessen-spielort-wechseln](https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-muenchen-und-arsenal-wfc-muessen-spielort-wechseln-a-33495b2d-ca9f-4483-a3e0-cc839fadc8bd#ref=rss)
+### spiel
+
+* [https://www.spiegel.de/sport/fussball/champions-league-balljunge-beim-spiel-zwischen-stuttgart-und-bergamo-von-brennender-fackel-getroffen](https://www.spiegel.de/sport/fussball/champions-league-balljunge-beim-spiel-zwischen-stuttgart-und-bergamo-von-brennender-fackel-getroffen-a-e8a44ee9-546a-43f4-a8b8-6e4086d7512c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-muenchen-und-arsenal-wfc-muessen-spielort-wechseln](https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-muenchen-und-arsenal-wfc-muessen-spielort-wechseln-a-33495b2d-ca9f-4483-a3e0-cc839fadc8bd#ref=rss)
+### bergamo
+
+* [https://www.spiegel.de/sport/fussball/champions-league-balljunge-beim-spiel-zwischen-stuttgart-und-bergamo-von-brennender-fackel-getroffen](https://www.spiegel.de/sport/fussball/champions-league-balljunge-beim-spiel-zwischen-stuttgart-und-bergamo-von-brennender-fackel-getroffen-a-e8a44ee9-546a-43f4-a8b8-6e4086d7512c#ref=rss)
+### fackel
+
+* [https://www.spiegel.de/sport/fussball/champions-league-balljunge-beim-spiel-zwischen-stuttgart-und-bergamo-von-brennender-fackel-getroffen](https://www.spiegel.de/sport/fussball/champions-league-balljunge-beim-spiel-zwischen-stuttgart-und-bergamo-von-brennender-fackel-getroffen-a-e8a44ee9-546a-43f4-a8b8-6e4086d7512c#ref=rss)
+### hunderte
+
+* [https://www.spiegel.de/sport/fussball/champions-league-balljunge-beim-spiel-zwischen-stuttgart-und-bergamo-von-brennender-fackel-getroffen](https://www.spiegel.de/sport/fussball/champions-league-balljunge-beim-spiel-zwischen-stuttgart-und-bergamo-von-brennender-fackel-getroffen-a-e8a44ee9-546a-43f4-a8b8-6e4086d7512c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/cum-ex-steuerbetrug-fondsmanager-gesteht-hinterziehung-von-343-millionen-euro](https://www.spiegel.de/panorama/justiz/cum-ex-steuerbetrug-fondsmanager-gesteht-hinterziehung-von-343-millionen-euro-a-c21aea46-5784-495a-a1d9-23e0f8ff546a#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/politik/deutschland/wahl-in-den-usa-so-teuer-wird-donald-trumps-zweite-praesidentschaft-fuer-deutschland](https://www.spiegel.de/politik/deutschland/wahl-in-den-usa-so-teuer-wird-donald-trumps-zweite-praesidentschaft-fuer-deutschland-a-701b5edd-1542-45a1-a997-e9df97c7e516#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-joe-biden-spricht-ueber-donald-trumps-wahlsieg-livestream](https://www.spiegel.de/ausland/us-wahl-2024-joe-biden-spricht-ueber-donald-trumps-wahlsieg-livestream-a-056d2f2b-5856-4f72-8e1f-6cce1a857aac#ref=rss)
+### treffen
+
+* [https://www.spiegel.de/politik/deutschland/wahl-in-den-usa-so-teuer-wird-donald-trumps-zweite-praesidentschaft-fuer-deutschland](https://www.spiegel.de/politik/deutschland/wahl-in-den-usa-so-teuer-wird-donald-trumps-zweite-praesidentschaft-fuer-deutschland-a-701b5edd-1542-45a1-a997-e9df97c7e516#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ampelkoalition-christian-lindner-olaf-scholz-kamala-harris-audi](https://www.spiegel.de/politik/deutschland/news-des-tages-ampelkoalition-christian-lindner-olaf-scholz-kamala-harris-audi-a-28ad30af-727e-4a45-8539-8938157e7f78#ref=rss)
+### uswahl
+
+* [https://www.spiegel.de/ausland/us-praesident-joe-biden-nach-der-us-wahl-rueckschlaege-sind-unvermeidbar-aber-aufgeben-ist-unverzeihlich](https://www.spiegel.de/ausland/us-praesident-joe-biden-nach-der-us-wahl-rueckschlaege-sind-unvermeidbar-aber-aufgeben-ist-unverzeihlich-a-dbb5e786-7cdf-47b6-8392-a624b247fbdb#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-joe-biden-spricht-ueber-donald-trumps-wahlsieg-livestream](https://www.spiegel.de/ausland/us-wahl-2024-joe-biden-spricht-ueber-donald-trumps-wahlsieg-livestream-a-056d2f2b-5856-4f72-8e1f-6cce1a857aac#ref=rss)
+### kamala
+
+* [https://www.spiegel.de/ausland/us-praesident-joe-biden-nach-der-us-wahl-rueckschlaege-sind-unvermeidbar-aber-aufgeben-ist-unverzeihlich](https://www.spiegel.de/ausland/us-praesident-joe-biden-nach-der-us-wahl-rueckschlaege-sind-unvermeidbar-aber-aufgeben-ist-unverzeihlich-a-dbb5e786-7cdf-47b6-8392-a624b247fbdb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ampelkoalition-christian-lindner-olaf-scholz-kamala-harris-audi](https://www.spiegel.de/politik/deutschland/news-des-tages-ampelkoalition-christian-lindner-olaf-scholz-kamala-harris-audi-a-28ad30af-727e-4a45-8539-8938157e7f78#ref=rss)
+### harris
+
+* [https://www.spiegel.de/ausland/us-praesident-joe-biden-nach-der-us-wahl-rueckschlaege-sind-unvermeidbar-aber-aufgeben-ist-unverzeihlich](https://www.spiegel.de/ausland/us-praesident-joe-biden-nach-der-us-wahl-rueckschlaege-sind-unvermeidbar-aber-aufgeben-ist-unverzeihlich-a-dbb5e786-7cdf-47b6-8392-a624b247fbdb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ampelkoalition-christian-lindner-olaf-scholz-kamala-harris-audi](https://www.spiegel.de/politik/deutschland/news-des-tages-ampelkoalition-christian-lindner-olaf-scholz-kamala-harris-audi-a-28ad30af-727e-4a45-8539-8938157e7f78#ref=rss)
+### kanzler
+
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-das-ist-das-neue-kabinett-von-olaf-scholz-und-diese-frueheren-fdp-minister-sind-nicht-mehr-dabei](https://www.spiegel.de/politik/deutschland/ampel-aus-das-ist-das-neue-kabinett-von-olaf-scholz-und-diese-frueheren-fdp-minister-sind-nicht-mehr-dabei-a-cbaa453c-d175-4e52-9d18-759d49ad65a9#ref=rss)
+* [https://www.spiegel.de/geschichte/ampel-aus-und-koalitionsbruch-in-der-geschichte-dann-gibt-es-mord-und-totschlag](https://www.spiegel.de/geschichte/ampel-aus-und-koalitionsbruch-in-der-geschichte-dann-gibt-es-mord-und-totschlag-a-4acad19b-5a90-4d34-87ba-8175c0c8966f#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-das-ist-das-neue-kabinett-von-olaf-scholz-und-diese-frueheren-fdp-minister-sind-nicht-mehr-dabei](https://www.spiegel.de/politik/deutschland/ampel-aus-das-ist-das-neue-kabinett-von-olaf-scholz-und-diese-frueheren-fdp-minister-sind-nicht-mehr-dabei-a-cbaa453c-d175-4e52-9d18-759d49ad65a9#ref=rss)
+* [https://www.spiegel.de/kultur/ampel-aus-christian-lindner-waere-gern-prometheus-klingt-aber-wie-troubadix](https://www.spiegel.de/kultur/ampel-aus-christian-lindner-waere-gern-prometheus-klingt-aber-wie-troubadix-a-3e77a042-1458-4fd1-9273-6748b07eefab#ref=rss)
+### zeigen
+
+* [https://www.spiegel.de/wissenschaft/mensch/pompeji-opfer-mit-armreif-erweist-sich-als-mann](https://www.spiegel.de/wissenschaft/mensch/pompeji-opfer-mit-armreif-erweist-sich-als-mann-a-eb268875-d7c5-46af-b601-297a2e7bbf32#ref=rss)
+* [https://www.spiegel.de/ausland/polen-polizei-nimmt-75-verdaechtige-in-gross-angelegter-razzia-gegen-kinderporno-ring-fest](https://www.spiegel.de/ausland/polen-polizei-nimmt-75-verdaechtige-in-gross-angelegter-razzia-gegen-kinderporno-ring-fest-a-431a0e7e-f2c1-4db5-a677-a3b453132937#ref=rss)
+### beschimpft
+
+* [https://www.spiegel.de/geschichte/ampel-aus-und-koalitionsbruch-in-der-geschichte-dann-gibt-es-mord-und-totschlag](https://www.spiegel.de/geschichte/ampel-aus-und-koalitionsbruch-in-der-geschichte-dann-gibt-es-mord-und-totschlag-a-4acad19b-5a90-4d34-87ba-8175c0c8966f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-liveblog-fdp-abtruenniger-wissing-bekommt-auch-justizministerium](https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-liveblog-fdp-abtruenniger-wissing-bekommt-auch-justizministerium-a-f75905e4-b452-4326-8394-5482878b7284#ref=rss)
+### news
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ampelkoalition-christian-lindner-olaf-scholz-kamala-harris-audi](https://www.spiegel.de/politik/deutschland/news-des-tages-ampelkoalition-christian-lindner-olaf-scholz-kamala-harris-audi-a-28ad30af-727e-4a45-8539-8938157e7f78#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-liveblog-fdp-abtruenniger-wissing-bekommt-auch-justizministerium](https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-liveblog-fdp-abtruenniger-wissing-bekommt-auch-justizministerium-a-f75905e4-b452-4326-8394-5482878b7284#ref=rss)
+### vertrauensfrage
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ampelkoalition-christian-lindner-olaf-scholz-kamala-harris-audi](https://www.spiegel.de/politik/deutschland/news-des-tages-ampelkoalition-christian-lindner-olaf-scholz-kamala-harris-audi-a-28ad30af-727e-4a45-8539-8938157e7f78#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-deutschland-braucht-neuwahlen-so-schnell-wie-moeglich-leitartikel](https://www.spiegel.de/politik/deutschland/ampel-aus-deutschland-braucht-neuwahlen-so-schnell-wie-moeglich-leitartikel-a-ed6644d4-2ddb-4fa8-ac26-70f6a18e6285#ref=rss)
+### stellen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ampelkoalition-christian-lindner-olaf-scholz-kamala-harris-audi](https://www.spiegel.de/politik/deutschland/news-des-tages-ampelkoalition-christian-lindner-olaf-scholz-kamala-harris-audi-a-28ad30af-727e-4a45-8539-8938157e7f78#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-deutschland-braucht-neuwahlen-so-schnell-wie-moeglich-leitartikel](https://www.spiegel.de/politik/deutschland/ampel-aus-deutschland-braucht-neuwahlen-so-schnell-wie-moeglich-leitartikel-a-ed6644d4-2ddb-4fa8-ac26-70f6a18e6285#ref=rss)
+### amtierende
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ampelkoalition-christian-lindner-olaf-scholz-kamala-harris-audi](https://www.spiegel.de/politik/deutschland/news-des-tages-ampelkoalition-christian-lindner-olaf-scholz-kamala-harris-audi-a-28ad30af-727e-4a45-8539-8938157e7f78#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-joe-biden-spricht-ueber-donald-trumps-wahlsieg-livestream](https://www.spiegel.de/ausland/us-wahl-2024-joe-biden-spricht-ueber-donald-trumps-wahlsieg-livestream-a-056d2f2b-5856-4f72-8e1f-6cce1a857aac#ref=rss)
+### bald
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ampelkoalition-christian-lindner-olaf-scholz-kamala-harris-audi](https://www.spiegel.de/politik/deutschland/news-des-tages-ampelkoalition-christian-lindner-olaf-scholz-kamala-harris-audi-a-28ad30af-727e-4a45-8539-8938157e7f78#ref=rss)
+* [https://www.spiegel.de/ausland/israel-neues-gesetz-ermoeglicht-abschiebung-von-angehoerigen-von-terroristen](https://www.spiegel.de/ausland/israel-neues-gesetz-ermoeglicht-abschiebung-von-angehoerigen-von-terroristen-a-19009e06-eda9-4176-8c3f-e8543919459d#ref=rss)
+### idiocracy
+
+* [https://www.spiegel.de/kultur/kino/prophetische-filmsatire-idiocracy-so-schlimm-kann-es-doch-nicht-kommen-oder-oder](https://www.spiegel.de/kultur/kino/prophetische-filmsatire-idiocracy-so-schlimm-kann-es-doch-nicht-kommen-oder-oder-a-88147505-ac36-4cae-997a-8083ffee45be#ref=rss)
+### jemand
+
+* [https://www.spiegel.de/kultur/kino/prophetische-filmsatire-idiocracy-so-schlimm-kann-es-doch-nicht-kommen-oder-oder](https://www.spiegel.de/kultur/kino/prophetische-filmsatire-idiocracy-so-schlimm-kann-es-doch-nicht-kommen-oder-oder-a-88147505-ac36-4cae-997a-8083ffee45be#ref=rss)
+* [https://www.spiegel.de/psychologie/manipulation-und-taeuschungsstrategien-achten-sie-aufs-stoergefuehl](https://www.spiegel.de/psychologie/manipulation-und-taeuschungsstrategien-achten-sie-aufs-stoergefuehl-a-e069f70c-90a5-4954-8006-51d4bfec775d#ref=rss)
+### versucht
+
+* [https://www.spiegel.de/psychologie/manipulation-und-taeuschungsstrategien-achten-sie-aufs-stoergefuehl](https://www.spiegel.de/psychologie/manipulation-und-taeuschungsstrategien-achten-sie-aufs-stoergefuehl-a-e069f70c-90a5-4954-8006-51d4bfec775d#ref=rss)
+* [https://www.spiegel.de/panorama/ein-lehrer-ein-ex-schueler-ein-baseballschlaeger-und-missbrauchsvorwuerfe](https://www.spiegel.de/panorama/ein-lehrer-ein-ex-schueler-ein-baseballschlaeger-und-missbrauchsvorwuerfe-a-24c8e331-f17a-4526-a327-a4fa2a91a45c#ref=rss)
+### würzburg
+
+* [https://www.spiegel.de/auto/wuerzburg-mann-vergisst-fuenfjaehrigen-sohn-im-zug](https://www.spiegel.de/auto/wuerzburg-mann-vergisst-fuenfjaehrigen-sohn-im-zug-a-172197fc-a595-4a4e-82a4-d83bf62d1ad3#ref=rss)
+### sohn
+
+* [https://www.spiegel.de/auto/wuerzburg-mann-vergisst-fuenfjaehrigen-sohn-im-zug](https://www.spiegel.de/auto/wuerzburg-mann-vergisst-fuenfjaehrigen-sohn-im-zug-a-172197fc-a595-4a4e-82a4-d83bf62d1ad3#ref=rss)
+### zug
+
+* [https://www.spiegel.de/auto/wuerzburg-mann-vergisst-fuenfjaehrigen-sohn-im-zug](https://www.spiegel.de/auto/wuerzburg-mann-vergisst-fuenfjaehrigen-sohn-im-zug-a-172197fc-a595-4a4e-82a4-d83bf62d1ad3#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-muenchen-und-arsenal-wfc-muessen-spielort-wechseln](https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-muenchen-und-arsenal-wfc-muessen-spielort-wechseln-a-33495b2d-ca9f-4483-a3e0-cc839fadc8bd#ref=rss)
+### arsenal
+
+* [https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-muenchen-und-arsenal-wfc-muessen-spielort-wechseln](https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-muenchen-und-arsenal-wfc-muessen-spielort-wechseln-a-33495b2d-ca9f-4483-a3e0-cc839fadc8bd#ref=rss)
+### wfc
+
+* [https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-muenchen-und-arsenal-wfc-muessen-spielort-wechseln](https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-muenchen-und-arsenal-wfc-muessen-spielort-wechseln-a-33495b2d-ca9f-4483-a3e0-cc839fadc8bd#ref=rss)
+### hätten
+
+* [https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-muenchen-und-arsenal-wfc-muessen-spielort-wechseln](https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-muenchen-und-arsenal-wfc-muessen-spielort-wechseln-a-33495b2d-ca9f-4483-a3e0-cc839fadc8bd#ref=rss)
+* [https://www.spiegel.de/politik/ampel-koalition-spd-und-gruene-haetten-das-deutlich-frueher-beenden-muessen](https://www.spiegel.de/politik/ampel-koalition-spd-und-gruene-haetten-das-deutlich-frueher-beenden-muessen-a-3414efff-1216-4e65-845f-e560c8e17bd3#ref=rss)
+### nichts
+
+* [https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-muenchen-und-arsenal-wfc-muessen-spielort-wechseln](https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-muenchen-und-arsenal-wfc-muessen-spielort-wechseln-a-33495b2d-ca9f-4483-a3e0-cc839fadc8bd#ref=rss)
+* [https://www.spiegel.de/ausland/israel-neues-gesetz-ermoeglicht-abschiebung-von-angehoerigen-von-terroristen](https://www.spiegel.de/ausland/israel-neues-gesetz-ermoeglicht-abschiebung-von-angehoerigen-von-terroristen-a-19009e06-eda9-4176-8c3f-e8543919459d#ref=rss)
+### deutlich
+
+* [https://www.spiegel.de/wissenschaft/natur/luftverkehr-und-umweltschutz-co2-ausstoss-durch-privatjets-steigt-deutlich](https://www.spiegel.de/wissenschaft/natur/luftverkehr-und-umweltschutz-co2-ausstoss-durch-privatjets-steigt-deutlich-a-586077c4-cec1-4437-ac03-bb4c09d437bc#ref=rss)
+* [https://www.spiegel.de/politik/ampel-koalition-spd-und-gruene-haetten-das-deutlich-frueher-beenden-muessen](https://www.spiegel.de/politik/ampel-koalition-spd-und-gruene-haetten-das-deutlich-frueher-beenden-muessen-a-3414efff-1216-4e65-845f-e560c8e17bd3#ref=rss)
+### flüge
+
+* [https://www.spiegel.de/wissenschaft/natur/luftverkehr-und-umweltschutz-co2-ausstoss-durch-privatjets-steigt-deutlich](https://www.spiegel.de/wissenschaft/natur/luftverkehr-und-umweltschutz-co2-ausstoss-durch-privatjets-steigt-deutlich-a-586077c4-cec1-4437-ac03-bb4c09d437bc#ref=rss)
+### soldaten
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-soldaten-kommentieren-wahlsieg-von-trump](https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-soldaten-kommentieren-wahlsieg-von-trump-a-d516ac6d-319d-4936-a19a-1924f0eb983d#ref=rss)
+### beenden
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-soldaten-kommentieren-wahlsieg-von-trump](https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-soldaten-kommentieren-wahlsieg-von-trump-a-d516ac6d-319d-4936-a19a-1924f0eb983d#ref=rss)
+* [https://www.spiegel.de/politik/ampel-koalition-spd-und-gruene-haetten-das-deutlich-frueher-beenden-muessen](https://www.spiegel.de/politik/ampel-koalition-spd-und-gruene-haetten-das-deutlich-frueher-beenden-muessen-a-3414efff-1216-4e65-845f-e560c8e17bd3#ref=rss)
+### fondsmanager
+
+* [https://www.spiegel.de/panorama/justiz/cum-ex-steuerbetrug-fondsmanager-gesteht-hinterziehung-von-343-millionen-euro](https://www.spiegel.de/panorama/justiz/cum-ex-steuerbetrug-fondsmanager-gesteht-hinterziehung-von-343-millionen-euro-a-c21aea46-5784-495a-a1d9-23e0f8ff546a#ref=rss)
+### gesteht
+
+* [https://www.spiegel.de/panorama/justiz/cum-ex-steuerbetrug-fondsmanager-gesteht-hinterziehung-von-343-millionen-euro](https://www.spiegel.de/panorama/justiz/cum-ex-steuerbetrug-fondsmanager-gesteht-hinterziehung-von-343-millionen-euro-a-c21aea46-5784-495a-a1d9-23e0f8ff546a#ref=rss)
+### euro
+
+* [https://www.spiegel.de/panorama/justiz/cum-ex-steuerbetrug-fondsmanager-gesteht-hinterziehung-von-343-millionen-euro](https://www.spiegel.de/panorama/justiz/cum-ex-steuerbetrug-fondsmanager-gesteht-hinterziehung-von-343-millionen-euro-a-c21aea46-5784-495a-a1d9-23e0f8ff546a#ref=rss)
+* [https://www.spiegel.de/politik/detlef-guerth-cdu-politiker-soll-fuer-rassistischen-post-18-000-euro-strafe-zahlen](https://www.spiegel.de/politik/detlef-guerth-cdu-politiker-soll-fuer-rassistischen-post-18-000-euro-strafe-zahlen-a-b82cf523-a08a-4a06-a7f6-1e07d820b525#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/kultur/ampel-aus-christian-lindner-waere-gern-prometheus-klingt-aber-wie-troubadix](https://www.spiegel.de/kultur/ampel-aus-christian-lindner-waere-gern-prometheus-klingt-aber-wie-troubadix-a-3e77a042-1458-4fd1-9273-6748b07eefab#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-ueberwachungsbefugnisse-des-bnd-gehen-zu-weit](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-ueberwachungsbefugnisse-des-bnd-gehen-zu-weit-a-fd50518e-d75d-46c8-8441-bab699df39ad#ref=rss)
+### jerusalem
+
+* [https://www.spiegel.de/ausland/israel-polizei-nimmt-zwei-franzoesische-gendarme-in-jerusalem-fest](https://www.spiegel.de/ausland/israel-polizei-nimmt-zwei-franzoesische-gendarme-in-jerusalem-fest-a-96f1d16f-607c-4786-be23-7ce3c7ca67cc#ref=rss)
+### fest
+
+* [https://www.spiegel.de/ausland/israel-polizei-nimmt-zwei-franzoesische-gendarme-in-jerusalem-fest](https://www.spiegel.de/ausland/israel-polizei-nimmt-zwei-franzoesische-gendarme-in-jerusalem-fest-a-96f1d16f-607c-4786-be23-7ce3c7ca67cc#ref=rss)
+* [https://www.spiegel.de/ausland/polen-polizei-nimmt-75-verdaechtige-in-gross-angelegter-razzia-gegen-kinderporno-ring-fest](https://www.spiegel.de/ausland/polen-polizei-nimmt-75-verdaechtige-in-gross-angelegter-razzia-gegen-kinderporno-ring-fest-a-431a0e7e-f2c1-4db5-a677-a3b453132937#ref=rss)
+### unter
+
+* [https://www.spiegel.de/ausland/israel-polizei-nimmt-zwei-franzoesische-gendarme-in-jerusalem-fest](https://www.spiegel.de/ausland/israel-polizei-nimmt-zwei-franzoesische-gendarme-in-jerusalem-fest-a-96f1d16f-607c-4786-be23-7ce3c7ca67cc#ref=rss)
+* [https://www.spiegel.de/ausland/israel-neues-gesetz-ermoeglicht-abschiebung-von-angehoerigen-von-terroristen](https://www.spiegel.de/ausland/israel-neues-gesetz-ermoeglicht-abschiebung-von-angehoerigen-von-terroristen-a-19009e06-eda9-4176-8c3f-e8543919459d#ref=rss)
+### detlef
+
+* [https://www.spiegel.de/politik/detlef-guerth-cdu-politiker-soll-fuer-rassistischen-post-18-000-euro-strafe-zahlen](https://www.spiegel.de/politik/detlef-guerth-cdu-politiker-soll-fuer-rassistischen-post-18-000-euro-strafe-zahlen-a-b82cf523-a08a-4a06-a7f6-1e07d820b525#ref=rss)
+### gürth
+
+* [https://www.spiegel.de/politik/detlef-guerth-cdu-politiker-soll-fuer-rassistischen-post-18-000-euro-strafe-zahlen](https://www.spiegel.de/politik/detlef-guerth-cdu-politiker-soll-fuer-rassistischen-post-18-000-euro-strafe-zahlen-a-b82cf523-a08a-4a06-a7f6-1e07d820b525#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/politik/detlef-guerth-cdu-politiker-soll-fuer-rassistischen-post-18-000-euro-strafe-zahlen](https://www.spiegel.de/politik/detlef-guerth-cdu-politiker-soll-fuer-rassistischen-post-18-000-euro-strafe-zahlen-a-b82cf523-a08a-4a06-a7f6-1e07d820b525#ref=rss)
+* [https://www.spiegel.de/politik/ampel-koalition-spd-und-gruene-haetten-das-deutlich-frueher-beenden-muessen](https://www.spiegel.de/politik/ampel-koalition-spd-und-gruene-haetten-das-deutlich-frueher-beenden-muessen-a-3414efff-1216-4e65-845f-e560c8e17bd3#ref=rss)
+### abschiebung
+
+* [https://www.spiegel.de/politik/detlef-guerth-cdu-politiker-soll-fuer-rassistischen-post-18-000-euro-strafe-zahlen](https://www.spiegel.de/politik/detlef-guerth-cdu-politiker-soll-fuer-rassistischen-post-18-000-euro-strafe-zahlen-a-b82cf523-a08a-4a06-a7f6-1e07d820b525#ref=rss)
+* [https://www.spiegel.de/ausland/israel-neues-gesetz-ermoeglicht-abschiebung-von-angehoerigen-von-terroristen](https://www.spiegel.de/ausland/israel-neues-gesetz-ermoeglicht-abschiebung-von-angehoerigen-von-terroristen-a-19009e06-eda9-4176-8c3f-e8543919459d#ref=rss)
+### sam
+
+* [https://www.spiegel.de/netzwelt/web/openai-sam-altman-kauft-chat-com-fuer-mehr-als-15-millionen-dollar](https://www.spiegel.de/netzwelt/web/openai-sam-altman-kauft-chat-com-fuer-mehr-als-15-millionen-dollar-a-11a22aff-90d9-4c86-88bd-8062368dc508#ref=rss)
+### altman
+
+* [https://www.spiegel.de/netzwelt/web/openai-sam-altman-kauft-chat-com-fuer-mehr-als-15-millionen-dollar](https://www.spiegel.de/netzwelt/web/openai-sam-altman-kauft-chat-com-fuer-mehr-als-15-millionen-dollar-a-11a22aff-90d9-4c86-88bd-8062368dc508#ref=rss)
+### chatcom
+
+* [https://www.spiegel.de/netzwelt/web/openai-sam-altman-kauft-chat-com-fuer-mehr-als-15-millionen-dollar](https://www.spiegel.de/netzwelt/web/openai-sam-altman-kauft-chat-com-fuer-mehr-als-15-millionen-dollar-a-11a22aff-90d9-4c86-88bd-8062368dc508#ref=rss)
+### lehrer
+
+* [https://www.spiegel.de/panorama/ein-lehrer-ein-ex-schueler-ein-baseballschlaeger-und-missbrauchsvorwuerfe](https://www.spiegel.de/panorama/ein-lehrer-ein-ex-schueler-ein-baseballschlaeger-und-missbrauchsvorwuerfe-a-24c8e331-f17a-4526-a327-a4fa2a91a45c#ref=rss)
+### bundesverfassungsgericht
+
+* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-ueberwachungsbefugnisse-des-bnd-gehen-zu-weit](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-ueberwachungsbefugnisse-des-bnd-gehen-zu-weit-a-fd50518e-d75d-46c8-8441-bab699df39ad#ref=rss)
+### jörg
+
+* [https://www.spiegel.de/politik/deutschland/joerg-kukies-minister-machtlos](https://www.spiegel.de/politik/deutschland/joerg-kukies-minister-machtlos-a-f0acc6cb-2655-49f6-96d6-a144b47f943f#ref=rss)
+### kukies
+
+* [https://www.spiegel.de/politik/deutschland/joerg-kukies-minister-machtlos](https://www.spiegel.de/politik/deutschland/joerg-kukies-minister-machtlos-a-f0acc6cb-2655-49f6-96d6-a144b47f943f#ref=rss)
+### kurzzeitnachfolger
+
+* [https://www.spiegel.de/politik/deutschland/joerg-kukies-minister-machtlos](https://www.spiegel.de/politik/deutschland/joerg-kukies-minister-machtlos-a-f0acc6cb-2655-49f6-96d6-a144b47f943f#ref=rss)
+### 75
+
+* [https://www.spiegel.de/ausland/polen-polizei-nimmt-75-verdaechtige-in-gross-angelegter-razzia-gegen-kinderporno-ring-fest](https://www.spiegel.de/ausland/polen-polizei-nimmt-75-verdaechtige-in-gross-angelegter-razzia-gegen-kinderporno-ring-fest-a-431a0e7e-f2c1-4db5-a677-a3b453132937#ref=rss)
 
