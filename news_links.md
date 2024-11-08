@@ -6,369 +6,428 @@ tags: __no_header__
 
 ### donald
 
-* [https://www.spiegel.de/panorama/us-wahlen-2024-moderator-jimmy-kimmel-kaempft-nach-sieg-von-donald-trump-mit-den-traenen](https://www.spiegel.de/panorama/us-wahlen-2024-moderator-jimmy-kimmel-kaempft-nach-sieg-von-donald-trump-mit-den-traenen-a-9ea35290-aab5-4a37-bfe7-fe71ae746052#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-wer-hat-trump-gewaehlt-podcast](https://www.spiegel.de/ausland/us-wahl-2024-wer-hat-trump-gewaehlt-podcast-a-43c70743-fd29-411e-be88-8778dc1a881d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ampelkoalition-und-donald-trump-das-sind-die-wirtschaftlichen-folgen](https://www.spiegel.de/wirtschaft/unternehmen/ampelkoalition-und-donald-trump-das-sind-die-wirtschaftlichen-folgen-a-01c8a8d9-d9d3-4739-9d94-519d97f4cc21#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/intel-oekonom-reint-gropp-rechnet-nach-donald-trump-wahl-nicht-mehr-mit-ansiedlung](https://www.spiegel.de/wirtschaft/unternehmen/intel-oekonom-reint-gropp-rechnet-nach-donald-trump-wahl-nicht-mehr-mit-ansiedlung-a-10f8c6bd-5d50-451c-858b-21b48b36e3b5#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-gewinnt-in-pennsylvania-gott-jesus-alle-haben-uns-geholfen](https://www.spiegel.de/ausland/donald-trump-gewinnt-in-pennsylvania-gott-jesus-alle-haben-uns-geholfen-a-cccf5aa5-f381-4a80-8463-13b5485ddf9d#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-schwarze-us-buerger-empfangen-massenhaft-rassistische-textnachrichten](https://www.spiegel.de/ausland/donald-trump-schwarze-us-buerger-empfangen-massenhaft-rassistische-textnachrichten-a-6431fe61-7f68-4424-9cb5-26b7422f8f77#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-mordkomplott-gegen-republikaner-iraner-angeklagt](https://www.spiegel.de/ausland/donald-trump-mordkomplott-gegen-republikaner-iraner-angeklagt-a-03568412-7949-42ed-bce1-7c2fae240acc#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-was-die-zweite-amtszeit-von-donald-trump-fuer-die-ukraine-bedeutet](https://www.spiegel.de/ausland/us-wahl-2024-was-die-zweite-amtszeit-von-donald-trump-fuer-die-ukraine-bedeutet-a-443f1a01-0b8c-4059-b8c9-c2bd44a3fad1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-wie-die-deutsche-wirtschaft-von-seiner-praesidentschaft-profitieren-koennte](https://www.spiegel.de/wirtschaft/donald-trump-wie-die-deutsche-wirtschaft-von-seiner-praesidentschaft-profitieren-koennte-a-92c8106d-c171-4999-ab0d-43cadbb92d05#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-im-interview-wladimir-putin-fuehrt-laengst-krieg-gegen-uns](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-im-interview-wladimir-putin-fuehrt-laengst-krieg-gegen-uns-a-d29e59af-6041-4c44-b5ab-44d3e2f18b8c#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-und-europa](https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-und-europa-a-1a9d7689-97c0-4e8e-92d1-cef99bf09198#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-podcast](https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-podcast-a-145a0515-f7c1-4a60-9fa7-42831fb05161#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-der-plan-des-donald-trump-neuwahlen-nach-ampel-aus-die-macht-der-geheimnisse](https://www.spiegel.de/politik/deutschland/news-des-tages-der-plan-des-donald-trump-neuwahlen-nach-ampel-aus-die-macht-der-geheimnisse-a-9bd72d61-55b9-4894-840c-ae343a882161#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-donald-trumps-designierte-stabschefin-wer-ist-susie-wiles](https://www.spiegel.de/ausland/us-wahl-2024-donald-trumps-designierte-stabschefin-wer-ist-susie-wiles-a-d451d9d6-0a3c-40a0-b8ce-a344cf288f26#ref=rss)
+* [https://www.spiegel.de/ausland/cop29-in-baku-was-die-wahl-von-donald-trump-fuer-das-ergebnis-des-klimagipfels-bedeutet](https://www.spiegel.de/ausland/cop29-in-baku-was-die-wahl-von-donald-trump-fuer-das-ergebnis-des-klimagipfels-bedeutet-a-8a003179-c01b-4b54-b8dc-86a7d02408b2#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/panorama/us-wahlen-2024-moderator-jimmy-kimmel-kaempft-nach-sieg-von-donald-trump-mit-den-traenen](https://www.spiegel.de/panorama/us-wahlen-2024-moderator-jimmy-kimmel-kaempft-nach-sieg-von-donald-trump-mit-den-traenen-a-9ea35290-aab5-4a37-bfe7-fe71ae746052#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-wer-hat-trump-gewaehlt-podcast](https://www.spiegel.de/ausland/us-wahl-2024-wer-hat-trump-gewaehlt-podcast-a-43c70743-fd29-411e-be88-8778dc1a881d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ampelkoalition-und-donald-trump-das-sind-die-wirtschaftlichen-folgen](https://www.spiegel.de/wirtschaft/unternehmen/ampelkoalition-und-donald-trump-das-sind-die-wirtschaftlichen-folgen-a-01c8a8d9-d9d3-4739-9d94-519d97f4cc21#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-gewinnt-in-pennsylvania-gott-jesus-alle-haben-uns-geholfen](https://www.spiegel.de/ausland/donald-trump-gewinnt-in-pennsylvania-gott-jesus-alle-haben-uns-geholfen-a-cccf5aa5-f381-4a80-8463-13b5485ddf9d#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-schwarze-us-buerger-empfangen-massenhaft-rassistische-textnachrichten](https://www.spiegel.de/ausland/donald-trump-schwarze-us-buerger-empfangen-massenhaft-rassistische-textnachrichten-a-6431fe61-7f68-4424-9cb5-26b7422f8f77#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-regierungschefs-beraten-in-budapest-wirtschaftspolitischen-ernstfall-trump-zoelle-china](https://www.spiegel.de/wirtschaft/eu-regierungschefs-beraten-in-budapest-wirtschaftspolitischen-ernstfall-trump-zoelle-china-a-84a02acb-bd10-498d-8cb9-53fe1c23fc1c#ref=rss)
-### tag
-
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-schwarze-us-buerger-empfangen-massenhaft-rassistische-textnachrichten](https://www.spiegel.de/ausland/donald-trump-schwarze-us-buerger-empfangen-massenhaft-rassistische-textnachrichten-a-6431fe61-7f68-4424-9cb5-26b7422f8f77#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ampel-aus-olaf-scholz-wirft-christian-lindner-raus-so-lief-der-tag-ab](https://www.spiegel.de/politik/deutschland/ampel-aus-olaf-scholz-wirft-christian-lindner-raus-so-lief-der-tag-ab-a-e181a18f-dd32-422d-9eb1-d7fc2de1425f#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/soziales/wirtschaft-und-finanzen-renten-koennten-2025-um-mehr-als-dreieinhalb-prozent-steigen](https://www.spiegel.de/wirtschaft/soziales/wirtschaft-und-finanzen-renten-koennten-2025-um-mehr-als-dreieinhalb-prozent-steigen-a-d20df2d1-10cb-4e0a-803a-b1475a7f7458#ref=rss)
-* [https://www.spiegel.de/wirtschaft/cannabis-investitionen-anleger-verlieren-eine-halbe-milliarde-euro-bei-juicy-fields](https://www.spiegel.de/wirtschaft/cannabis-investitionen-anleger-verlieren-eine-halbe-milliarde-euro-bei-juicy-fields-a-d2308da0-aaf4-4740-9596-05f6e4ffb2a6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/intel-oekonom-reint-gropp-rechnet-nach-donald-trump-wahl-nicht-mehr-mit-ansiedlung](https://www.spiegel.de/wirtschaft/unternehmen/intel-oekonom-reint-gropp-rechnet-nach-donald-trump-wahl-nicht-mehr-mit-ansiedlung-a-10f8c6bd-5d50-451c-858b-21b48b36e3b5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-regierungschefs-beraten-in-budapest-wirtschaftspolitischen-ernstfall-trump-zoelle-china](https://www.spiegel.de/wirtschaft/eu-regierungschefs-beraten-in-budapest-wirtschaftspolitischen-ernstfall-trump-zoelle-china-a-84a02acb-bd10-498d-8cb9-53fe1c23fc1c#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-mordkomplott-gegen-republikaner-iraner-angeklagt](https://www.spiegel.de/ausland/donald-trump-mordkomplott-gegen-republikaner-iraner-angeklagt-a-03568412-7949-42ed-bce1-7c2fae240acc#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-was-die-zweite-amtszeit-von-donald-trump-fuer-die-ukraine-bedeutet](https://www.spiegel.de/ausland/us-wahl-2024-was-die-zweite-amtszeit-von-donald-trump-fuer-die-ukraine-bedeutet-a-443f1a01-0b8c-4059-b8c9-c2bd44a3fad1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-wie-die-deutsche-wirtschaft-von-seiner-praesidentschaft-profitieren-koennte](https://www.spiegel.de/wirtschaft/donald-trump-wie-die-deutsche-wirtschaft-von-seiner-praesidentschaft-profitieren-koennte-a-92c8106d-c171-4999-ab0d-43cadbb92d05#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-im-interview-wladimir-putin-fuehrt-laengst-krieg-gegen-uns](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-im-interview-wladimir-putin-fuehrt-laengst-krieg-gegen-uns-a-d29e59af-6041-4c44-b5ab-44d3e2f18b8c#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-und-europa](https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-und-europa-a-1a9d7689-97c0-4e8e-92d1-cef99bf09198#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-podcast](https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-podcast-a-145a0515-f7c1-4a60-9fa7-42831fb05161#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-der-plan-des-donald-trump-neuwahlen-nach-ampel-aus-die-macht-der-geheimnisse](https://www.spiegel.de/politik/deutschland/news-des-tages-der-plan-des-donald-trump-neuwahlen-nach-ampel-aus-die-macht-der-geheimnisse-a-9bd72d61-55b9-4894-840c-ae343a882161#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-donald-trumps-designierte-stabschefin-wer-ist-susie-wiles](https://www.spiegel.de/ausland/us-wahl-2024-donald-trumps-designierte-stabschefin-wer-ist-susie-wiles-a-d451d9d6-0a3c-40a0-b8ce-a344cf288f26#ref=rss)
+* [https://www.spiegel.de/ausland/cop29-in-baku-was-die-wahl-von-donald-trump-fuer-das-ergebnis-des-klimagipfels-bedeutet](https://www.spiegel.de/ausland/cop29-in-baku-was-die-wahl-von-donald-trump-fuer-das-ergebnis-des-klimagipfels-bedeutet-a-8a003179-c01b-4b54-b8dc-86a7d02408b2#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/wirtschaft/soziales/wirtschaft-und-finanzen-renten-koennten-2025-um-mehr-als-dreieinhalb-prozent-steigen](https://www.spiegel.de/wirtschaft/soziales/wirtschaft-und-finanzen-renten-koennten-2025-um-mehr-als-dreieinhalb-prozent-steigen-a-d20df2d1-10cb-4e0a-803a-b1475a7f7458#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/intel-oekonom-reint-gropp-rechnet-nach-donald-trump-wahl-nicht-mehr-mit-ansiedlung](https://www.spiegel.de/wirtschaft/unternehmen/intel-oekonom-reint-gropp-rechnet-nach-donald-trump-wahl-nicht-mehr-mit-ansiedlung-a-10f8c6bd-5d50-451c-858b-21b48b36e3b5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tesla-faellt-mit-e-auto-absatz-in-deutschland-auf-platz-3-zurueck-hinter-vw-und-bmw](https://www.spiegel.de/wirtschaft/tesla-faellt-mit-e-auto-absatz-in-deutschland-auf-platz-3-zurueck-hinter-vw-und-bmw-a-90c0a415-1723-4e33-b812-53752692e7d5#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/politik/deutschland/spd-abgeordnete-nennen-neuwahl-im-januar-illusorisch](https://www.spiegel.de/politik/deutschland/spd-abgeordnete-nennen-neuwahl-im-januar-illusorisch-a-67699ccc-c3f6-4b51-9a67-f073a6a4695d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/emily-tod-auf-klassenfahrt-in-london-vater-fordert-schmerzensgeld](https://www.spiegel.de/panorama/justiz/emily-tod-auf-klassenfahrt-in-london-vater-fordert-schmerzensgeld-a-fddf27d6-6369-4c7a-9423-9293384d9f1b#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-fordert-sicherheitsgarantien-vom-westen](https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-fordert-sicherheitsgarantien-vom-westen-a-ddbd51fa-9ad5-48f4-8ff9-8d8dc6a99e10#ref=rss)
-### trumps
-
-* [https://www.spiegel.de/panorama/us-wahlen-2024-moderator-jimmy-kimmel-kaempft-nach-sieg-von-donald-trump-mit-den-traenen](https://www.spiegel.de/panorama/us-wahlen-2024-moderator-jimmy-kimmel-kaempft-nach-sieg-von-donald-trump-mit-den-traenen-a-9ea35290-aab5-4a37-bfe7-fe71ae746052#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-wer-hat-trump-gewaehlt-podcast](https://www.spiegel.de/ausland/us-wahl-2024-wer-hat-trump-gewaehlt-podcast-a-43c70743-fd29-411e-be88-8778dc1a881d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ampelkoalition-und-donald-trump-das-sind-die-wirtschaftlichen-folgen](https://www.spiegel.de/wirtschaft/unternehmen/ampelkoalition-und-donald-trump-das-sind-die-wirtschaftlichen-folgen-a-01c8a8d9-d9d3-4739-9d94-519d97f4cc21#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/intel-oekonom-reint-gropp-rechnet-nach-donald-trump-wahl-nicht-mehr-mit-ansiedlung](https://www.spiegel.de/wirtschaft/unternehmen/intel-oekonom-reint-gropp-rechnet-nach-donald-trump-wahl-nicht-mehr-mit-ansiedlung-a-10f8c6bd-5d50-451c-858b-21b48b36e3b5#ref=rss)
-### zukunft
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/intel-oekonom-reint-gropp-rechnet-nach-donald-trump-wahl-nicht-mehr-mit-ansiedlung](https://www.spiegel.de/wirtschaft/unternehmen/intel-oekonom-reint-gropp-rechnet-nach-donald-trump-wahl-nicht-mehr-mit-ansiedlung-a-10f8c6bd-5d50-451c-858b-21b48b36e3b5#ref=rss)
-* [https://www.spiegel.de/politik/olaf-scholz-bei-eu-gipfel-in-budapest-statement-zur-zukunft-europas-im-livestream](https://www.spiegel.de/politik/olaf-scholz-bei-eu-gipfel-in-budapest-statement-zur-zukunft-europas-im-livestream-a-e8a5dbb0-e5dd-4f4d-9e35-6a5d838f9e3f#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-gewinnt-in-pennsylvania-gott-jesus-alle-haben-uns-geholfen](https://www.spiegel.de/ausland/donald-trump-gewinnt-in-pennsylvania-gott-jesus-alle-haben-uns-geholfen-a-cccf5aa5-f381-4a80-8463-13b5485ddf9d#ref=rss)
-### habeck
-
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-bewirbt-sich-offiziell-als-kanzlerkandidat-der-gruenen](https://www.spiegel.de/politik/deutschland/robert-habeck-bewirbt-sich-offiziell-als-kanzlerkandidat-der-gruenen-a-dca1db65-e1ef-44f2-a869-e59aae87a94e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-meldet-sich-mit-kryptischem-video-auf-x-zurueck-kommt-die-kanzlerkandidatur](https://www.spiegel.de/politik/deutschland/robert-habeck-meldet-sich-mit-kryptischem-video-auf-x-zurueck-kommt-die-kanzlerkandidatur-a-b77785c2-4ed8-41cc-8c81-5614c3155b1d#ref=rss)
-### olaf
-
-* [https://www.spiegel.de/politik/olaf-scholz-bei-eu-gipfel-in-budapest-statement-zur-zukunft-europas-im-livestream](https://www.spiegel.de/politik/olaf-scholz-bei-eu-gipfel-in-budapest-statement-zur-zukunft-europas-im-livestream-a-e8a5dbb0-e5dd-4f4d-9e35-6a5d838f9e3f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ampel-aus-olaf-scholz-wirft-christian-lindner-raus-so-lief-der-tag-ab](https://www.spiegel.de/politik/deutschland/ampel-aus-olaf-scholz-wirft-christian-lindner-raus-so-lief-der-tag-ab-a-e181a18f-dd32-422d-9eb1-d7fc2de1425f#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/olaf-scholz-bei-eu-gipfel-in-budapest-statement-zur-zukunft-europas-im-livestream](https://www.spiegel.de/politik/olaf-scholz-bei-eu-gipfel-in-budapest-statement-zur-zukunft-europas-im-livestream-a-e8a5dbb0-e5dd-4f4d-9e35-6a5d838f9e3f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ampel-aus-olaf-scholz-wirft-christian-lindner-raus-so-lief-der-tag-ab](https://www.spiegel.de/politik/deutschland/ampel-aus-olaf-scholz-wirft-christian-lindner-raus-so-lief-der-tag-ab-a-e181a18f-dd32-422d-9eb1-d7fc2de1425f#ref=rss)
-### budapest
-
-* [https://www.spiegel.de/politik/olaf-scholz-bei-eu-gipfel-in-budapest-statement-zur-zukunft-europas-im-livestream](https://www.spiegel.de/politik/olaf-scholz-bei-eu-gipfel-in-budapest-statement-zur-zukunft-europas-im-livestream-a-e8a5dbb0-e5dd-4f4d-9e35-6a5d838f9e3f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-regierungschefs-beraten-in-budapest-wirtschaftspolitischen-ernstfall-trump-zoelle-china](https://www.spiegel.de/wirtschaft/eu-regierungschefs-beraten-in-budapest-wirtschaftspolitischen-ernstfall-trump-zoelle-china-a-84a02acb-bd10-498d-8cb9-53fe1c23fc1c#ref=rss)
-### folgen
-
-* [https://www.spiegel.de/panorama/leute/schauspieler-fuer-heiner-lauterbach-ist-golf-auch-im-alter-kein-thema](https://www.spiegel.de/panorama/leute/schauspieler-fuer-heiner-lauterbach-ist-golf-auch-im-alter-kein-thema-a-1dc7c134-653d-4359-a476-17960f70a16b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ampelkoalition-und-donald-trump-das-sind-die-wirtschaftlichen-folgen](https://www.spiegel.de/wirtschaft/unternehmen/ampelkoalition-und-donald-trump-das-sind-die-wirtschaftlichen-folgen-a-01c8a8d9-d9d3-4739-9d94-519d97f4cc21#ref=rss)
-### januar
-
-* [https://www.spiegel.de/politik/deutschland/spd-abgeordnete-nennen-neuwahl-im-januar-illusorisch](https://www.spiegel.de/politik/deutschland/spd-abgeordnete-nennen-neuwahl-im-januar-illusorisch-a-67699ccc-c3f6-4b51-9a67-f073a6a4695d#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-nach-ampel-aus-ueber-die-vertrauensfrage-statement-im-livestream](https://www.spiegel.de/politik/friedrich-merz-nach-ampel-aus-ueber-die-vertrauensfrage-statement-im-livestream-a-d3861cd5-233c-464f-8463-294ade072554#ref=rss)
-### ampelaus
-
-* [https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-live-blog-friedrich-merz-schliesst-lindner-comeback-als-finanzminister-nicht-aus](https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-live-blog-friedrich-merz-schliesst-lindner-comeback-als-finanzminister-nicht-aus-a-f57538cd-addd-47dc-b32a-47e41002779b#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-nach-ampel-aus-ueber-die-vertrauensfrage-statement-im-livestream](https://www.spiegel.de/politik/friedrich-merz-nach-ampel-aus-ueber-die-vertrauensfrage-statement-im-livestream-a-d3861cd5-233c-464f-8463-294ade072554#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ampel-aus-olaf-scholz-wirft-christian-lindner-raus-so-lief-der-tag-ab](https://www.spiegel.de/politik/deutschland/ampel-aus-olaf-scholz-wirft-christian-lindner-raus-so-lief-der-tag-ab-a-e181a18f-dd32-422d-9eb1-d7fc2de1425f#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-live-blog-friedrich-merz-schliesst-lindner-comeback-als-finanzminister-nicht-aus](https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-live-blog-friedrich-merz-schliesst-lindner-comeback-als-finanzminister-nicht-aus-a-f57538cd-addd-47dc-b32a-47e41002779b#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-nach-ampel-aus-ueber-die-vertrauensfrage-statement-im-livestream](https://www.spiegel.de/politik/friedrich-merz-nach-ampel-aus-ueber-die-vertrauensfrage-statement-im-livestream-a-d3861cd5-233c-464f-8463-294ade072554#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-live-blog-friedrich-merz-schliesst-lindner-comeback-als-finanzminister-nicht-aus](https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-live-blog-friedrich-merz-schliesst-lindner-comeback-als-finanzminister-nicht-aus-a-f57538cd-addd-47dc-b32a-47e41002779b#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-nach-ampel-aus-ueber-die-vertrauensfrage-statement-im-livestream](https://www.spiegel.de/politik/friedrich-merz-nach-ampel-aus-ueber-die-vertrauensfrage-statement-im-livestream-a-d3861cd5-233c-464f-8463-294ade072554#ref=rss)
-### russische
-
-* [https://www.spiegel.de/wirtschaft/cannabis-investitionen-anleger-verlieren-eine-halbe-milliarde-euro-bei-juicy-fields](https://www.spiegel.de/wirtschaft/cannabis-investitionen-anleger-verlieren-eine-halbe-milliarde-euro-bei-juicy-fields-a-d2308da0-aaf4-4740-9596-05f6e4ffb2a6#ref=rss)
-* [https://www.spiegel.de/ausland/suedkorea-meldet-russische-hackerangriffe-auf-regierungswebsites-verknuepfung-zum-ukrainekrieg](https://www.spiegel.de/ausland/suedkorea-meldet-russische-hackerangriffe-auf-regierungswebsites-verknuepfung-zum-ukrainekrieg-a-23238891-9f21-4e1b-abb3-63b4d4fc2d72#ref=rss)
-### meldet
-
-* [https://www.spiegel.de/ausland/suedkorea-meldet-russische-hackerangriffe-auf-regierungswebsites-verknuepfung-zum-ukrainekrieg](https://www.spiegel.de/ausland/suedkorea-meldet-russische-hackerangriffe-auf-regierungswebsites-verknuepfung-zum-ukrainekrieg-a-23238891-9f21-4e1b-abb3-63b4d4fc2d72#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-meldet-sich-mit-kryptischem-video-auf-x-zurueck-kommt-die-kanzlerkandidatur](https://www.spiegel.de/politik/deutschland/robert-habeck-meldet-sich-mit-kryptischem-video-auf-x-zurueck-kommt-die-kanzlerkandidatur-a-b77785c2-4ed8-41cc-8c81-5614c3155b1d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-im-interview-wladimir-putin-fuehrt-laengst-krieg-gegen-uns](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-im-interview-wladimir-putin-fuehrt-laengst-krieg-gegen-uns-a-d29e59af-6041-4c44-b5ab-44d3e2f18b8c#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-und-europa](https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-und-europa-a-1a9d7689-97c0-4e8e-92d1-cef99bf09198#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-podcast](https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-podcast-a-145a0515-f7c1-4a60-9fa7-42831fb05161#ref=rss)
+* [https://www.spiegel.de/panorama/tatp-fund-in-berlin-behoerden-hatten-sprengstoff-verdaechtigen-zuvor-abgeschoben](https://www.spiegel.de/panorama/tatp-fund-in-berlin-behoerden-hatten-sprengstoff-verdaechtigen-zuvor-abgeschoben-a-0ea7c25c-1259-4dc2-9fad-b87b0d0507ce#ref=rss)
 ### uswahl
 
-* [https://www.spiegel.de/ausland/us-wahl-2024-wer-hat-trump-gewaehlt-podcast](https://www.spiegel.de/ausland/us-wahl-2024-wer-hat-trump-gewaehlt-podcast-a-43c70743-fd29-411e-be88-8778dc1a881d#ref=rss)
-* [https://www.spiegel.de/politik/olaf-scholz-bei-eu-gipfel-in-budapest-statement-zur-zukunft-europas-im-livestream](https://www.spiegel.de/politik/olaf-scholz-bei-eu-gipfel-in-budapest-statement-zur-zukunft-europas-im-livestream-a-e8a5dbb0-e5dd-4f4d-9e35-6a5d838f9e3f#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-schwarze-us-buerger-empfangen-massenhaft-rassistische-textnachrichten](https://www.spiegel.de/ausland/donald-trump-schwarze-us-buerger-empfangen-massenhaft-rassistische-textnachrichten-a-6431fe61-7f68-4424-9cb5-26b7422f8f77#ref=rss)
-### podcast
-
-* [https://www.spiegel.de/ausland/us-wahl-2024-wer-hat-trump-gewaehlt-podcast](https://www.spiegel.de/ausland/us-wahl-2024-wer-hat-trump-gewaehlt-podcast-a-43c70743-fd29-411e-be88-8778dc1a881d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ampelkoalition-und-donald-trump-das-sind-die-wirtschaftlichen-folgen](https://www.spiegel.de/wirtschaft/unternehmen/ampelkoalition-und-donald-trump-das-sind-die-wirtschaftlichen-folgen-a-01c8a8d9-d9d3-4739-9d94-519d97f4cc21#ref=rss)
-### robert
-
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-bewirbt-sich-offiziell-als-kanzlerkandidat-der-gruenen](https://www.spiegel.de/politik/deutschland/robert-habeck-bewirbt-sich-offiziell-als-kanzlerkandidat-der-gruenen-a-dca1db65-e1ef-44f2-a869-e59aae87a94e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-meldet-sich-mit-kryptischem-video-auf-x-zurueck-kommt-die-kanzlerkandidatur](https://www.spiegel.de/politik/deutschland/robert-habeck-meldet-sich-mit-kryptischem-video-auf-x-zurueck-kommt-die-kanzlerkandidatur-a-b77785c2-4ed8-41cc-8c81-5614c3155b1d#ref=rss)
-### video
-
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-bewirbt-sich-offiziell-als-kanzlerkandidat-der-gruenen](https://www.spiegel.de/politik/deutschland/robert-habeck-bewirbt-sich-offiziell-als-kanzlerkandidat-der-gruenen-a-dca1db65-e1ef-44f2-a869-e59aae87a94e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-meldet-sich-mit-kryptischem-video-auf-x-zurueck-kommt-die-kanzlerkandidatur](https://www.spiegel.de/politik/deutschland/robert-habeck-meldet-sich-mit-kryptischem-video-auf-x-zurueck-kommt-die-kanzlerkandidatur-a-b77785c2-4ed8-41cc-8c81-5614c3155b1d#ref=rss)
-### statement
-
-* [https://www.spiegel.de/politik/olaf-scholz-bei-eu-gipfel-in-budapest-statement-zur-zukunft-europas-im-livestream](https://www.spiegel.de/politik/olaf-scholz-bei-eu-gipfel-in-budapest-statement-zur-zukunft-europas-im-livestream-a-e8a5dbb0-e5dd-4f4d-9e35-6a5d838f9e3f#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-nach-ampel-aus-ueber-die-vertrauensfrage-statement-im-livestream](https://www.spiegel.de/politik/friedrich-merz-nach-ampel-aus-ueber-die-vertrauensfrage-statement-im-livestream-a-d3861cd5-233c-464f-8463-294ade072554#ref=rss)
-### beraten
-
-* [https://www.spiegel.de/politik/olaf-scholz-bei-eu-gipfel-in-budapest-statement-zur-zukunft-europas-im-livestream](https://www.spiegel.de/politik/olaf-scholz-bei-eu-gipfel-in-budapest-statement-zur-zukunft-europas-im-livestream-a-e8a5dbb0-e5dd-4f4d-9e35-6a5d838f9e3f#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-nach-ampel-aus-ueber-die-vertrauensfrage-statement-im-livestream](https://www.spiegel.de/politik/friedrich-merz-nach-ampel-aus-ueber-die-vertrauensfrage-statement-im-livestream-a-d3861cd5-233c-464f-8463-294ade072554#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-regierungschefs-beraten-in-budapest-wirtschaftspolitischen-ernstfall-trump-zoelle-china](https://www.spiegel.de/wirtschaft/eu-regierungschefs-beraten-in-budapest-wirtschaftspolitischen-ernstfall-trump-zoelle-china-a-84a02acb-bd10-498d-8cb9-53fe1c23fc1c#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/wirtschaft/tesla-faellt-mit-e-auto-absatz-in-deutschland-auf-platz-3-zurueck-hinter-vw-und-bmw](https://www.spiegel.de/wirtschaft/tesla-faellt-mit-e-auto-absatz-in-deutschland-auf-platz-3-zurueck-hinter-vw-und-bmw-a-90c0a415-1723-4e33-b812-53752692e7d5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-meldet-sich-mit-kryptischem-video-auf-x-zurueck-kommt-die-kanzlerkandidatur](https://www.spiegel.de/politik/deutschland/robert-habeck-meldet-sich-mit-kryptischem-video-auf-x-zurueck-kommt-die-kanzlerkandidatur-a-b77785c2-4ed8-41cc-8c81-5614c3155b1d#ref=rss)
-* [https://www.spiegel.de/stil/vokuhila-die-frisur-aus-dem-jahr-1980-ist-zurueck](https://www.spiegel.de/stil/vokuhila-die-frisur-aus-dem-jahr-1980-ist-zurueck-a-64b18aef-afbe-4867-8738-7f73caf21d5e#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### prozent
-
-* [https://www.spiegel.de/wirtschaft/soziales/wirtschaft-und-finanzen-renten-koennten-2025-um-mehr-als-dreieinhalb-prozent-steigen](https://www.spiegel.de/wirtschaft/soziales/wirtschaft-und-finanzen-renten-koennten-2025-um-mehr-als-dreieinhalb-prozent-steigen-a-d20df2d1-10cb-4e0a-803a-b1475a7f7458#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-gewinnt-in-pennsylvania-gott-jesus-alle-haben-uns-geholfen](https://www.spiegel.de/ausland/donald-trump-gewinnt-in-pennsylvania-gott-jesus-alle-haben-uns-geholfen-a-cccf5aa5-f381-4a80-8463-13b5485ddf9d#ref=rss)
-### steigen
-
-* [https://www.spiegel.de/wirtschaft/soziales/wirtschaft-und-finanzen-renten-koennten-2025-um-mehr-als-dreieinhalb-prozent-steigen](https://www.spiegel.de/wirtschaft/soziales/wirtschaft-und-finanzen-renten-koennten-2025-um-mehr-als-dreieinhalb-prozent-steigen-a-d20df2d1-10cb-4e0a-803a-b1475a7f7458#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/wirtschaft/soziales/wirtschaft-und-finanzen-renten-koennten-2025-um-mehr-als-dreieinhalb-prozent-steigen](https://www.spiegel.de/wirtschaft/soziales/wirtschaft-und-finanzen-renten-koennten-2025-um-mehr-als-dreieinhalb-prozent-steigen-a-d20df2d1-10cb-4e0a-803a-b1475a7f7458#ref=rss)
-* [https://www.spiegel.de/stil/vokuhila-die-frisur-aus-dem-jahr-1980-ist-zurueck](https://www.spiegel.de/stil/vokuhila-die-frisur-aus-dem-jahr-1980-ist-zurueck-a-64b18aef-afbe-4867-8738-7f73caf21d5e#ref=rss)
-### matthew
-
-* [https://www.spiegel.de/sport/marathon-in-new-york-matthew-choi-gefaehrdet-laeufer-mit-kamerateam-und-wird-gesperrt](https://www.spiegel.de/sport/marathon-in-new-york-matthew-choi-gefaehrdet-laeufer-mit-kamerateam-und-wird-gesperrt-a-c3417067-0c1d-41cb-9c1b-7de4af478b5b#ref=rss)
-### choi
-
-* [https://www.spiegel.de/sport/marathon-in-new-york-matthew-choi-gefaehrdet-laeufer-mit-kamerateam-und-wird-gesperrt](https://www.spiegel.de/sport/marathon-in-new-york-matthew-choi-gefaehrdet-laeufer-mit-kamerateam-und-wird-gesperrt-a-c3417067-0c1d-41cb-9c1b-7de4af478b5b#ref=rss)
-### läufer
-
-* [https://www.spiegel.de/sport/marathon-in-new-york-matthew-choi-gefaehrdet-laeufer-mit-kamerateam-und-wird-gesperrt](https://www.spiegel.de/sport/marathon-in-new-york-matthew-choi-gefaehrdet-laeufer-mit-kamerateam-und-wird-gesperrt-a-c3417067-0c1d-41cb-9c1b-7de4af478b5b#ref=rss)
-### gesperrt
-
-* [https://www.spiegel.de/sport/marathon-in-new-york-matthew-choi-gefaehrdet-laeufer-mit-kamerateam-und-wird-gesperrt](https://www.spiegel.de/sport/marathon-in-new-york-matthew-choi-gefaehrdet-laeufer-mit-kamerateam-und-wird-gesperrt-a-c3417067-0c1d-41cb-9c1b-7de4af478b5b#ref=rss)
-### gebracht
-
-* [https://www.spiegel.de/sport/marathon-in-new-york-matthew-choi-gefaehrdet-laeufer-mit-kamerateam-und-wird-gesperrt](https://www.spiegel.de/sport/marathon-in-new-york-matthew-choi-gefaehrdet-laeufer-mit-kamerateam-und-wird-gesperrt-a-c3417067-0c1d-41cb-9c1b-7de4af478b5b#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-wer-hat-trump-gewaehlt-podcast](https://www.spiegel.de/ausland/us-wahl-2024-wer-hat-trump-gewaehlt-podcast-a-43c70743-fd29-411e-be88-8778dc1a881d#ref=rss)
-### schauspieler
-
-* [https://www.spiegel.de/panorama/leute/schauspieler-fuer-heiner-lauterbach-ist-golf-auch-im-alter-kein-thema](https://www.spiegel.de/panorama/leute/schauspieler-fuer-heiner-lauterbach-ist-golf-auch-im-alter-kein-thema-a-1dc7c134-653d-4359-a476-17960f70a16b#ref=rss)
-### heiner
-
-* [https://www.spiegel.de/panorama/leute/schauspieler-fuer-heiner-lauterbach-ist-golf-auch-im-alter-kein-thema](https://www.spiegel.de/panorama/leute/schauspieler-fuer-heiner-lauterbach-ist-golf-auch-im-alter-kein-thema-a-1dc7c134-653d-4359-a476-17960f70a16b#ref=rss)
-### lauterbach
-
-* [https://www.spiegel.de/panorama/leute/schauspieler-fuer-heiner-lauterbach-ist-golf-auch-im-alter-kein-thema](https://www.spiegel.de/panorama/leute/schauspieler-fuer-heiner-lauterbach-ist-golf-auch-im-alter-kein-thema-a-1dc7c134-653d-4359-a476-17960f70a16b#ref=rss)
-### thema
-
-* [https://www.spiegel.de/panorama/leute/schauspieler-fuer-heiner-lauterbach-ist-golf-auch-im-alter-kein-thema](https://www.spiegel.de/panorama/leute/schauspieler-fuer-heiner-lauterbach-ist-golf-auch-im-alter-kein-thema-a-1dc7c134-653d-4359-a476-17960f70a16b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ampelkoalition-und-donald-trump-das-sind-die-wirtschaftlichen-folgen](https://www.spiegel.de/wirtschaft/unternehmen/ampelkoalition-und-donald-trump-das-sind-die-wirtschaftlichen-folgen-a-01c8a8d9-d9d3-4739-9d94-519d97f4cc21#ref=rss)
-### lang
-
-* [https://www.spiegel.de/panorama/leute/schauspieler-fuer-heiner-lauterbach-ist-golf-auch-im-alter-kein-thema](https://www.spiegel.de/panorama/leute/schauspieler-fuer-heiner-lauterbach-ist-golf-auch-im-alter-kein-thema-a-1dc7c134-653d-4359-a476-17960f70a16b#ref=rss)
-* [https://www.spiegel.de/stil/vokuhila-die-frisur-aus-dem-jahr-1980-ist-zurueck](https://www.spiegel.de/stil/vokuhila-die-frisur-aus-dem-jahr-1980-ist-zurueck-a-64b18aef-afbe-4867-8738-7f73caf21d5e#ref=rss)
-### italien
-
-* [https://www.spiegel.de/ausland/italien-giorgia-meloni-laesst-erneut-migranten-nach-albanien-bringen](https://www.spiegel.de/ausland/italien-giorgia-meloni-laesst-erneut-migranten-nach-albanien-bringen-a-98f7d623-a681-409f-87e4-e984a85218bd#ref=rss)
-### union
-
-* [https://www.spiegel.de/ausland/italien-giorgia-meloni-laesst-erneut-migranten-nach-albanien-bringen](https://www.spiegel.de/ausland/italien-giorgia-meloni-laesst-erneut-migranten-nach-albanien-bringen-a-98f7d623-a681-409f-87e4-e984a85218bd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-abgeordnete-nennen-neuwahl-im-januar-illusorisch](https://www.spiegel.de/politik/deutschland/spd-abgeordnete-nennen-neuwahl-im-januar-illusorisch-a-67699ccc-c3f6-4b51-9a67-f073a6a4695d#ref=rss)
-### weihnachtsgeld
-
-* [https://www.spiegel.de/wirtschaft/soziales/weihnachtsgeld-in-diesen-branchen-gibt-es-am-meisten](https://www.spiegel.de/wirtschaft/soziales/weihnachtsgeld-in-diesen-branchen-gibt-es-am-meisten-a-752a736d-5654-49d1-b7df-b7596b9819c8#ref=rss)
-### branchen
-
-* [https://www.spiegel.de/wirtschaft/soziales/weihnachtsgeld-in-diesen-branchen-gibt-es-am-meisten](https://www.spiegel.de/wirtschaft/soziales/weihnachtsgeld-in-diesen-branchen-gibt-es-am-meisten-a-752a736d-5654-49d1-b7df-b7596b9819c8#ref=rss)
-### star
-
-* [https://www.spiegel.de/kultur/kino/star-wars-neue-filmtrilogie-in-der-entwicklung-autor-simon-kinberg](https://www.spiegel.de/kultur/kino/star-wars-neue-filmtrilogie-in-der-entwicklung-autor-simon-kinberg-a-06f8d891-f903-4789-81d9-4f365629b695#ref=rss)
-### simon
-
-* [https://www.spiegel.de/kultur/kino/star-wars-neue-filmtrilogie-in-der-entwicklung-autor-simon-kinberg](https://www.spiegel.de/kultur/kino/star-wars-neue-filmtrilogie-in-der-entwicklung-autor-simon-kinberg-a-06f8d891-f903-4789-81d9-4f365629b695#ref=rss)
-### kinberg
-
-* [https://www.spiegel.de/kultur/kino/star-wars-neue-filmtrilogie-in-der-entwicklung-autor-simon-kinberg](https://www.spiegel.de/kultur/kino/star-wars-neue-filmtrilogie-in-der-entwicklung-autor-simon-kinberg-a-06f8d891-f903-4789-81d9-4f365629b695#ref=rss)
-### emily
-
-* [https://www.spiegel.de/panorama/justiz/emily-tod-auf-klassenfahrt-in-london-vater-fordert-schmerzensgeld](https://www.spiegel.de/panorama/justiz/emily-tod-auf-klassenfahrt-in-london-vater-fordert-schmerzensgeld-a-fddf27d6-6369-4c7a-9423-9293384d9f1b#ref=rss)
-### klassenfahrt
-
-* [https://www.spiegel.de/panorama/justiz/emily-tod-auf-klassenfahrt-in-london-vater-fordert-schmerzensgeld](https://www.spiegel.de/panorama/justiz/emily-tod-auf-klassenfahrt-in-london-vater-fordert-schmerzensgeld-a-fddf27d6-6369-4c7a-9423-9293384d9f1b#ref=rss)
-### london
-
-* [https://www.spiegel.de/panorama/justiz/emily-tod-auf-klassenfahrt-in-london-vater-fordert-schmerzensgeld](https://www.spiegel.de/panorama/justiz/emily-tod-auf-klassenfahrt-in-london-vater-fordert-schmerzensgeld-a-fddf27d6-6369-4c7a-9423-9293384d9f1b#ref=rss)
-### vater
-
-* [https://www.spiegel.de/panorama/justiz/emily-tod-auf-klassenfahrt-in-london-vater-fordert-schmerzensgeld](https://www.spiegel.de/panorama/justiz/emily-tod-auf-klassenfahrt-in-london-vater-fordert-schmerzensgeld-a-fddf27d6-6369-4c7a-9423-9293384d9f1b#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/justiz/emily-tod-auf-klassenfahrt-in-london-vater-fordert-schmerzensgeld](https://www.spiegel.de/panorama/justiz/emily-tod-auf-klassenfahrt-in-london-vater-fordert-schmerzensgeld-a-fddf27d6-6369-4c7a-9423-9293384d9f1b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tesla-faellt-mit-e-auto-absatz-in-deutschland-auf-platz-3-zurueck-hinter-vw-und-bmw](https://www.spiegel.de/wirtschaft/tesla-faellt-mit-e-auto-absatz-in-deutschland-auf-platz-3-zurueck-hinter-vw-und-bmw-a-90c0a415-1723-4e33-b812-53752692e7d5#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/panorama/justiz/emily-tod-auf-klassenfahrt-in-london-vater-fordert-schmerzensgeld](https://www.spiegel.de/panorama/justiz/emily-tod-auf-klassenfahrt-in-london-vater-fordert-schmerzensgeld-a-fddf27d6-6369-4c7a-9423-9293384d9f1b#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-wer-hat-trump-gewaehlt-podcast](https://www.spiegel.de/ausland/us-wahl-2024-wer-hat-trump-gewaehlt-podcast-a-43c70743-fd29-411e-be88-8778dc1a881d#ref=rss)
-### geld
-
-* [https://www.spiegel.de/panorama/justiz/emily-tod-auf-klassenfahrt-in-london-vater-fordert-schmerzensgeld](https://www.spiegel.de/panorama/justiz/emily-tod-auf-klassenfahrt-in-london-vater-fordert-schmerzensgeld-a-fddf27d6-6369-4c7a-9423-9293384d9f1b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-regierungschefs-beraten-in-budapest-wirtschaftspolitischen-ernstfall-trump-zoelle-china](https://www.spiegel.de/wirtschaft/eu-regierungschefs-beraten-in-budapest-wirtschaftspolitischen-ernstfall-trump-zoelle-china-a-84a02acb-bd10-498d-8cb9-53fe1c23fc1c#ref=rss)
-### christian
-
-* [https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-live-blog-friedrich-merz-schliesst-lindner-comeback-als-finanzminister-nicht-aus](https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-live-blog-friedrich-merz-schliesst-lindner-comeback-als-finanzminister-nicht-aus-a-f57538cd-addd-47dc-b32a-47e41002779b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ampel-aus-olaf-scholz-wirft-christian-lindner-raus-so-lief-der-tag-ab](https://www.spiegel.de/politik/deutschland/ampel-aus-olaf-scholz-wirft-christian-lindner-raus-so-lief-der-tag-ab-a-e181a18f-dd32-422d-9eb1-d7fc2de1425f#ref=rss)
-### lindner
-
-* [https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-live-blog-friedrich-merz-schliesst-lindner-comeback-als-finanzminister-nicht-aus](https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-live-blog-friedrich-merz-schliesst-lindner-comeback-als-finanzminister-nicht-aus-a-f57538cd-addd-47dc-b32a-47e41002779b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ampel-aus-olaf-scholz-wirft-christian-lindner-raus-so-lief-der-tag-ab](https://www.spiegel.de/politik/deutschland/ampel-aus-olaf-scholz-wirft-christian-lindner-raus-so-lief-der-tag-ab-a-e181a18f-dd32-422d-9eb1-d7fc2de1425f#ref=rss)
-### 2024
-
-* [https://www.spiegel.de/panorama/us-wahlen-2024-moderator-jimmy-kimmel-kaempft-nach-sieg-von-donald-trump-mit-den-traenen](https://www.spiegel.de/panorama/us-wahlen-2024-moderator-jimmy-kimmel-kaempft-nach-sieg-von-donald-trump-mit-den-traenen-a-9ea35290-aab5-4a37-bfe7-fe71ae746052#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-wer-hat-trump-gewaehlt-podcast](https://www.spiegel.de/ausland/us-wahl-2024-wer-hat-trump-gewaehlt-podcast-a-43c70743-fd29-411e-be88-8778dc1a881d#ref=rss)
-### jimmy
-
-* [https://www.spiegel.de/panorama/us-wahlen-2024-moderator-jimmy-kimmel-kaempft-nach-sieg-von-donald-trump-mit-den-traenen](https://www.spiegel.de/panorama/us-wahlen-2024-moderator-jimmy-kimmel-kaempft-nach-sieg-von-donald-trump-mit-den-traenen-a-9ea35290-aab5-4a37-bfe7-fe71ae746052#ref=rss)
-### kimmel
-
-* [https://www.spiegel.de/panorama/us-wahlen-2024-moderator-jimmy-kimmel-kaempft-nach-sieg-von-donald-trump-mit-den-traenen](https://www.spiegel.de/panorama/us-wahlen-2024-moderator-jimmy-kimmel-kaempft-nach-sieg-von-donald-trump-mit-den-traenen-a-9ea35290-aab5-4a37-bfe7-fe71ae746052#ref=rss)
-### sieg
-
-* [https://www.spiegel.de/panorama/us-wahlen-2024-moderator-jimmy-kimmel-kaempft-nach-sieg-von-donald-trump-mit-den-traenen](https://www.spiegel.de/panorama/us-wahlen-2024-moderator-jimmy-kimmel-kaempft-nach-sieg-von-donald-trump-mit-den-traenen-a-9ea35290-aab5-4a37-bfe7-fe71ae746052#ref=rss)
-* [https://www.spiegel.de/ausland/us-wahl-2024-wer-hat-trump-gewaehlt-podcast](https://www.spiegel.de/ausland/us-wahl-2024-wer-hat-trump-gewaehlt-podcast-a-43c70743-fd29-411e-be88-8778dc1a881d#ref=rss)
-### wahlsieg
-
-* [https://www.spiegel.de/panorama/us-wahlen-2024-moderator-jimmy-kimmel-kaempft-nach-sieg-von-donald-trump-mit-den-traenen](https://www.spiegel.de/panorama/us-wahlen-2024-moderator-jimmy-kimmel-kaempft-nach-sieg-von-donald-trump-mit-den-traenen-a-9ea35290-aab5-4a37-bfe7-fe71ae746052#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/intel-oekonom-reint-gropp-rechnet-nach-donald-trump-wahl-nicht-mehr-mit-ansiedlung](https://www.spiegel.de/wirtschaft/unternehmen/intel-oekonom-reint-gropp-rechnet-nach-donald-trump-wahl-nicht-mehr-mit-ansiedlung-a-10f8c6bd-5d50-451c-858b-21b48b36e3b5#ref=rss)
-### anleger
-
-* [https://www.spiegel.de/wirtschaft/cannabis-investitionen-anleger-verlieren-eine-halbe-milliarde-euro-bei-juicy-fields](https://www.spiegel.de/wirtschaft/cannabis-investitionen-anleger-verlieren-eine-halbe-milliarde-euro-bei-juicy-fields-a-d2308da0-aaf4-4740-9596-05f6e4ffb2a6#ref=rss)
-### halbe
-
-* [https://www.spiegel.de/wirtschaft/cannabis-investitionen-anleger-verlieren-eine-halbe-milliarde-euro-bei-juicy-fields](https://www.spiegel.de/wirtschaft/cannabis-investitionen-anleger-verlieren-eine-halbe-milliarde-euro-bei-juicy-fields-a-d2308da0-aaf4-4740-9596-05f6e4ffb2a6#ref=rss)
-### milliarde
-
-* [https://www.spiegel.de/wirtschaft/cannabis-investitionen-anleger-verlieren-eine-halbe-milliarde-euro-bei-juicy-fields](https://www.spiegel.de/wirtschaft/cannabis-investitionen-anleger-verlieren-eine-halbe-milliarde-euro-bei-juicy-fields-a-d2308da0-aaf4-4740-9596-05f6e4ffb2a6#ref=rss)
-### euro
-
-* [https://www.spiegel.de/wirtschaft/cannabis-investitionen-anleger-verlieren-eine-halbe-milliarde-euro-bei-juicy-fields](https://www.spiegel.de/wirtschaft/cannabis-investitionen-anleger-verlieren-eine-halbe-milliarde-euro-bei-juicy-fields-a-d2308da0-aaf4-4740-9596-05f6e4ffb2a6#ref=rss)
-### juicy
-
-* [https://www.spiegel.de/wirtschaft/cannabis-investitionen-anleger-verlieren-eine-halbe-milliarde-euro-bei-juicy-fields](https://www.spiegel.de/wirtschaft/cannabis-investitionen-anleger-verlieren-eine-halbe-milliarde-euro-bei-juicy-fields-a-d2308da0-aaf4-4740-9596-05f6e4ffb2a6#ref=rss)
-### fields
-
-* [https://www.spiegel.de/wirtschaft/cannabis-investitionen-anleger-verlieren-eine-halbe-milliarde-euro-bei-juicy-fields](https://www.spiegel.de/wirtschaft/cannabis-investitionen-anleger-verlieren-eine-halbe-milliarde-euro-bei-juicy-fields-a-d2308da0-aaf4-4740-9596-05f6e4ffb2a6#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/wirtschaft/cannabis-investitionen-anleger-verlieren-eine-halbe-milliarde-euro-bei-juicy-fields](https://www.spiegel.de/wirtschaft/cannabis-investitionen-anleger-verlieren-eine-halbe-milliarde-euro-bei-juicy-fields-a-d2308da0-aaf4-4740-9596-05f6e4ffb2a6#ref=rss)
-* [https://www.spiegel.de/ausland/europa-league-israelische-politiker-verurteilen-pogrom-in-amsterdam](https://www.spiegel.de/ausland/europa-league-israelische-politiker-verurteilen-pogrom-in-amsterdam-a-f9f35f40-dcc3-4a4c-823b-cce1936a7c91#ref=rss)
-### südkorea
-
-* [https://www.spiegel.de/ausland/suedkorea-meldet-russische-hackerangriffe-auf-regierungswebsites-verknuepfung-zum-ukrainekrieg](https://www.spiegel.de/ausland/suedkorea-meldet-russische-hackerangriffe-auf-regierungswebsites-verknuepfung-zum-ukrainekrieg-a-23238891-9f21-4e1b-abb3-63b4d4fc2d72#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/suedkorea-meldet-russische-hackerangriffe-auf-regierungswebsites-verknuepfung-zum-ukrainekrieg](https://www.spiegel.de/ausland/suedkorea-meldet-russische-hackerangriffe-auf-regierungswebsites-verknuepfung-zum-ukrainekrieg-a-23238891-9f21-4e1b-abb3-63b4d4fc2d72#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-fordert-sicherheitsgarantien-vom-westen](https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-fordert-sicherheitsgarantien-vom-westen-a-ddbd51fa-9ad5-48f4-8ff9-8d8dc6a99e10#ref=rss)
-### gewählt
-
-* [https://www.spiegel.de/ausland/us-wahl-2024-wer-hat-trump-gewaehlt-podcast](https://www.spiegel.de/ausland/us-wahl-2024-wer-hat-trump-gewaehlt-podcast-a-43c70743-fd29-411e-be88-8778dc1a881d#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-gewinnt-in-pennsylvania-gott-jesus-alle-haben-uns-geholfen](https://www.spiegel.de/ausland/donald-trump-gewinnt-in-pennsylvania-gott-jesus-alle-haben-uns-geholfen-a-cccf5aa5-f381-4a80-8463-13b5485ddf9d#ref=rss)
-### welt
-
-* [https://www.spiegel.de/ausland/us-wahl-2024-wer-hat-trump-gewaehlt-podcast](https://www.spiegel.de/ausland/us-wahl-2024-wer-hat-trump-gewaehlt-podcast-a-43c70743-fd29-411e-be88-8778dc1a881d#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-fordert-sicherheitsgarantien-vom-westen](https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-fordert-sicherheitsgarantien-vom-westen-a-ddbd51fa-9ad5-48f4-8ff9-8d8dc6a99e10#ref=rss)
-### wir
-
-* [https://www.spiegel.de/ausland/us-wahl-2024-wer-hat-trump-gewaehlt-podcast](https://www.spiegel.de/ausland/us-wahl-2024-wer-hat-trump-gewaehlt-podcast-a-43c70743-fd29-411e-be88-8778dc1a881d#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-gewinnt-in-pennsylvania-gott-jesus-alle-haben-uns-geholfen](https://www.spiegel.de/ausland/donald-trump-gewinnt-in-pennsylvania-gott-jesus-alle-haben-uns-geholfen-a-cccf5aa5-f381-4a80-8463-13b5485ddf9d#ref=rss)
-### uns
-
-* [https://www.spiegel.de/ausland/us-wahl-2024-wer-hat-trump-gewaehlt-podcast](https://www.spiegel.de/ausland/us-wahl-2024-wer-hat-trump-gewaehlt-podcast-a-43c70743-fd29-411e-be88-8778dc1a881d#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-gewinnt-in-pennsylvania-gott-jesus-alle-haben-uns-geholfen](https://www.spiegel.de/ausland/donald-trump-gewinnt-in-pennsylvania-gott-jesus-alle-haben-uns-geholfen-a-cccf5aa5-f381-4a80-8463-13b5485ddf9d#ref=rss)
-### politiker
-
-* [https://www.spiegel.de/ausland/europa-league-israelische-politiker-verurteilen-pogrom-in-amsterdam](https://www.spiegel.de/ausland/europa-league-israelische-politiker-verurteilen-pogrom-in-amsterdam-a-f9f35f40-dcc3-4a4c-823b-cce1936a7c91#ref=rss)
-### amsterdam
-
-* [https://www.spiegel.de/ausland/europa-league-israelische-politiker-verurteilen-pogrom-in-amsterdam](https://www.spiegel.de/ausland/europa-league-israelische-politiker-verurteilen-pogrom-in-amsterdam-a-f9f35f40-dcc3-4a4c-823b-cce1936a7c91#ref=rss)
-### ampelkoalition
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ampelkoalition-und-donald-trump-das-sind-die-wirtschaftlichen-folgen](https://www.spiegel.de/wirtschaft/unternehmen/ampelkoalition-und-donald-trump-das-sind-die-wirtschaftlichen-folgen-a-01c8a8d9-d9d3-4739-9d94-519d97f4cc21#ref=rss)
-### wirtschaftlichen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ampelkoalition-und-donald-trump-das-sind-die-wirtschaftlichen-folgen](https://www.spiegel.de/wirtschaft/unternehmen/ampelkoalition-und-donald-trump-das-sind-die-wirtschaftlichen-folgen-a-01c8a8d9-d9d3-4739-9d94-519d97f4cc21#ref=rss)
-### politischen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ampelkoalition-und-donald-trump-das-sind-die-wirtschaftlichen-folgen](https://www.spiegel.de/wirtschaft/unternehmen/ampelkoalition-und-donald-trump-das-sind-die-wirtschaftlichen-folgen-a-01c8a8d9-d9d3-4739-9d94-519d97f4cc21#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ampel-aus-olaf-scholz-wirft-christian-lindner-raus-so-lief-der-tag-ab](https://www.spiegel.de/politik/deutschland/ampel-aus-olaf-scholz-wirft-christian-lindner-raus-so-lief-der-tag-ab-a-e181a18f-dd32-422d-9eb1-d7fc2de1425f#ref=rss)
-### ökonom
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/intel-oekonom-reint-gropp-rechnet-nach-donald-trump-wahl-nicht-mehr-mit-ansiedlung](https://www.spiegel.de/wirtschaft/unternehmen/intel-oekonom-reint-gropp-rechnet-nach-donald-trump-wahl-nicht-mehr-mit-ansiedlung-a-10f8c6bd-5d50-451c-858b-21b48b36e3b5#ref=rss)
-### gropp
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/intel-oekonom-reint-gropp-rechnet-nach-donald-trump-wahl-nicht-mehr-mit-ansiedlung](https://www.spiegel.de/wirtschaft/unternehmen/intel-oekonom-reint-gropp-rechnet-nach-donald-trump-wahl-nicht-mehr-mit-ansiedlung-a-10f8c6bd-5d50-451c-858b-21b48b36e3b5#ref=rss)
-### köln
-
-* [https://www.spiegel.de/panorama/justiz/koeln-explosion-vor-einfamilienhaus-frau-verletzt](https://www.spiegel.de/panorama/justiz/koeln-explosion-vor-einfamilienhaus-frau-verletzt-a-16d1db68-d70d-4682-8a51-2f4f2607805d#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/panorama/justiz/koeln-explosion-vor-einfamilienhaus-frau-verletzt](https://www.spiegel.de/panorama/justiz/koeln-explosion-vor-einfamilienhaus-frau-verletzt-a-16d1db68-d70d-4682-8a51-2f4f2607805d#ref=rss)
-### offiziell
-
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-bewirbt-sich-offiziell-als-kanzlerkandidat-der-gruenen](https://www.spiegel.de/politik/deutschland/robert-habeck-bewirbt-sich-offiziell-als-kanzlerkandidat-der-gruenen-a-dca1db65-e1ef-44f2-a869-e59aae87a94e#ref=rss)
-### kanzlerkandidat
-
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-bewirbt-sich-offiziell-als-kanzlerkandidat-der-gruenen](https://www.spiegel.de/politik/deutschland/robert-habeck-bewirbt-sich-offiziell-als-kanzlerkandidat-der-gruenen-a-dca1db65-e1ef-44f2-a869-e59aae87a94e#ref=rss)
-### grünen
-
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-bewirbt-sich-offiziell-als-kanzlerkandidat-der-gruenen](https://www.spiegel.de/politik/deutschland/robert-habeck-bewirbt-sich-offiziell-als-kanzlerkandidat-der-gruenen-a-dca1db65-e1ef-44f2-a869-e59aae87a94e#ref=rss)
-### europas
-
-* [https://www.spiegel.de/politik/olaf-scholz-bei-eu-gipfel-in-budapest-statement-zur-zukunft-europas-im-livestream](https://www.spiegel.de/politik/olaf-scholz-bei-eu-gipfel-in-budapest-statement-zur-zukunft-europas-im-livestream-a-e8a5dbb0-e5dd-4f4d-9e35-6a5d838f9e3f#ref=rss)
-### livestream
-
-* [https://www.spiegel.de/politik/olaf-scholz-bei-eu-gipfel-in-budapest-statement-zur-zukunft-europas-im-livestream](https://www.spiegel.de/politik/olaf-scholz-bei-eu-gipfel-in-budapest-statement-zur-zukunft-europas-im-livestream-a-e8a5dbb0-e5dd-4f4d-9e35-6a5d838f9e3f#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-nach-ampel-aus-ueber-die-vertrauensfrage-statement-im-livestream](https://www.spiegel.de/politik/friedrich-merz-nach-ampel-aus-ueber-die-vertrauensfrage-statement-im-livestream-a-d3861cd5-233c-464f-8463-294ade072554#ref=rss)
-### sehen
-
-* [https://www.spiegel.de/politik/olaf-scholz-bei-eu-gipfel-in-budapest-statement-zur-zukunft-europas-im-livestream](https://www.spiegel.de/politik/olaf-scholz-bei-eu-gipfel-in-budapest-statement-zur-zukunft-europas-im-livestream-a-e8a5dbb0-e5dd-4f4d-9e35-6a5d838f9e3f#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-nach-ampel-aus-ueber-die-vertrauensfrage-statement-im-livestream](https://www.spiegel.de/politik/friedrich-merz-nach-ampel-aus-ueber-die-vertrauensfrage-statement-im-livestream-a-d3861cd5-233c-464f-8463-294ade072554#ref=rss)
-### vertrauensfrage
-
-* [https://www.spiegel.de/politik/friedrich-merz-nach-ampel-aus-ueber-die-vertrauensfrage-statement-im-livestream](https://www.spiegel.de/politik/friedrich-merz-nach-ampel-aus-ueber-die-vertrauensfrage-statement-im-livestream-a-d3861cd5-233c-464f-8463-294ade072554#ref=rss)
-### schwarze
-
-* [https://www.spiegel.de/ausland/donald-trump-schwarze-us-buerger-empfangen-massenhaft-rassistische-textnachrichten](https://www.spiegel.de/ausland/donald-trump-schwarze-us-buerger-empfangen-massenhaft-rassistische-textnachrichten-a-6431fe61-7f68-4424-9cb5-26b7422f8f77#ref=rss)
-### empfangen
-
-* [https://www.spiegel.de/ausland/donald-trump-schwarze-us-buerger-empfangen-massenhaft-rassistische-textnachrichten](https://www.spiegel.de/ausland/donald-trump-schwarze-us-buerger-empfangen-massenhaft-rassistische-textnachrichten-a-6431fe61-7f68-4424-9cb5-26b7422f8f77#ref=rss)
-### rassistische
-
-* [https://www.spiegel.de/ausland/donald-trump-schwarze-us-buerger-empfangen-massenhaft-rassistische-textnachrichten](https://www.spiegel.de/ausland/donald-trump-schwarze-us-buerger-empfangen-massenhaft-rassistische-textnachrichten-a-6431fe61-7f68-4424-9cb5-26b7422f8f77#ref=rss)
-### selenskyj
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-fordert-sicherheitsgarantien-vom-westen](https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-fordert-sicherheitsgarantien-vom-westen-a-ddbd51fa-9ad5-48f4-8ff9-8d8dc6a99e10#ref=rss)
-### esslingen
-
-* [https://www.spiegel.de/panorama/justiz/esslingen-elfjaehriger-faehrt-mit-motorroller-in-ziviles-polizeifahrzeug](https://www.spiegel.de/panorama/justiz/esslingen-elfjaehriger-faehrt-mit-motorroller-in-ziviles-polizeifahrzeug-a-a2098605-ec38-42b2-8ef3-a218b19026eb#ref=rss)
-### motorroller
-
-* [https://www.spiegel.de/panorama/justiz/esslingen-elfjaehriger-faehrt-mit-motorroller-in-ziviles-polizeifahrzeug](https://www.spiegel.de/panorama/justiz/esslingen-elfjaehriger-faehrt-mit-motorroller-in-ziviles-polizeifahrzeug-a-a2098605-ec38-42b2-8ef3-a218b19026eb#ref=rss)
-### fällt
-
-* [https://www.spiegel.de/panorama/justiz/esslingen-elfjaehriger-faehrt-mit-motorroller-in-ziviles-polizeifahrzeug](https://www.spiegel.de/panorama/justiz/esslingen-elfjaehriger-faehrt-mit-motorroller-in-ziviles-polizeifahrzeug-a-a2098605-ec38-42b2-8ef3-a218b19026eb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tesla-faellt-mit-e-auto-absatz-in-deutschland-auf-platz-3-zurueck-hinter-vw-und-bmw](https://www.spiegel.de/wirtschaft/tesla-faellt-mit-e-auto-absatz-in-deutschland-auf-platz-3-zurueck-hinter-vw-und-bmw-a-90c0a415-1723-4e33-b812-53752692e7d5#ref=rss)
-### tesla
-
-* [https://www.spiegel.de/wirtschaft/tesla-faellt-mit-e-auto-absatz-in-deutschland-auf-platz-3-zurueck-hinter-vw-und-bmw](https://www.spiegel.de/wirtschaft/tesla-faellt-mit-e-auto-absatz-in-deutschland-auf-platz-3-zurueck-hinter-vw-und-bmw-a-90c0a415-1723-4e33-b812-53752692e7d5#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-was-die-zweite-amtszeit-von-donald-trump-fuer-die-ukraine-bedeutet](https://www.spiegel.de/ausland/us-wahl-2024-was-die-zweite-amtszeit-von-donald-trump-fuer-die-ukraine-bedeutet-a-443f1a01-0b8c-4059-b8c9-c2bd44a3fad1#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-donald-trumps-designierte-stabschefin-wer-ist-susie-wiles](https://www.spiegel.de/ausland/us-wahl-2024-donald-trumps-designierte-stabschefin-wer-ist-susie-wiles-a-d451d9d6-0a3c-40a0-b8ce-a344cf288f26#ref=rss)
+* [https://www.spiegel.de/ausland/cop29-in-baku-was-die-wahl-von-donald-trump-fuer-das-ergebnis-des-klimagipfels-bedeutet](https://www.spiegel.de/ausland/cop29-in-baku-was-die-wahl-von-donald-trump-fuer-das-ergebnis-des-klimagipfels-bedeutet-a-8a003179-c01b-4b54-b8dc-86a7d02408b2#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/hwasong-19-in-nordkorea-was-von-der-staerksten-rakete-der-welt-zu-halten-ist](https://www.spiegel.de/wissenschaft/technik/hwasong-19-in-nordkorea-was-von-der-staerksten-rakete-der-welt-zu-halten-ist-a-1b86bfe1-b4b5-4fea-8510-037aefcba6c6#ref=rss)
+### droht
+
+* [https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-und-europa](https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-und-europa-a-1a9d7689-97c0-4e8e-92d1-cef99bf09198#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-podcast](https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-podcast-a-145a0515-f7c1-4a60-9fa7-42831fb05161#ref=rss)
+### dürfte
+
+* [https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-und-europa](https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-und-europa-a-1a9d7689-97c0-4e8e-92d1-cef99bf09198#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-podcast](https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-podcast-a-145a0515-f7c1-4a60-9fa7-42831fb05161#ref=rss)
+* [https://www.spiegel.de/ausland/cop29-in-baku-was-die-wahl-von-donald-trump-fuer-das-ergebnis-des-klimagipfels-bedeutet](https://www.spiegel.de/ausland/cop29-in-baku-was-die-wahl-von-donald-trump-fuer-das-ergebnis-des-klimagipfels-bedeutet-a-8a003179-c01b-4b54-b8dc-86a7d02408b2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/karl-lauterbach-will-beitrag-zur-pflegeversicherung-anheben-und-mahnt-reform-an](https://www.spiegel.de/wirtschaft/soziales/karl-lauterbach-will-beitrag-zur-pflegeversicherung-anheben-und-mahnt-reform-an-a-4499d687-c844-4121-a74d-62472f433fbf#ref=rss)
 ### kanzlerkandidatur
 
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-meldet-sich-mit-kryptischem-video-auf-x-zurueck-kommt-die-kanzlerkandidatur](https://www.spiegel.de/politik/deutschland/robert-habeck-meldet-sich-mit-kryptischem-video-auf-x-zurueck-kommt-die-kanzlerkandidatur-a-b77785c2-4ed8-41cc-8c81-5614c3155b1d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-macht-kanzlerkandidatur-offiziell-video-aus-der-kueche](https://www.spiegel.de/politik/deutschland/robert-habeck-macht-kanzlerkandidatur-offiziell-video-aus-der-kueche-a-c4d1b9e2-b356-43c7-9a30-63b8c929ceb0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-live-blog-friedrich-merz-schliesst-lindner-comeback-als-finanzminister-nicht-aus](https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-live-blog-friedrich-merz-schliesst-lindner-comeback-als-finanzminister-nicht-aus-a-f57538cd-addd-47dc-b32a-47e41002779b#ref=rss)
+### jones
+
+* [https://www.spiegel.de/kultur/musik/rashida-jones-in-emotionalem-instagram-post-ueber-vater-quincy-jones-er-war-liebe](https://www.spiegel.de/kultur/musik/rashida-jones-in-emotionalem-instagram-post-ueber-vater-quincy-jones-er-war-liebe-a-619710f7-a95e-4dec-9aef-aa4b341015cb#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/auto/deutsche-bahn-ausschreibung-fuer-ice-der-naechsten-generation-gestoppt](https://www.spiegel.de/auto/deutsche-bahn-ausschreibung-fuer-ice-der-naechsten-generation-gestoppt-a-cfd62632-c720-41b8-b512-aff3ee18f879#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-wie-die-deutsche-wirtschaft-von-seiner-praesidentschaft-profitieren-koennte](https://www.spiegel.de/wirtschaft/donald-trump-wie-die-deutsche-wirtschaft-von-seiner-praesidentschaft-profitieren-koennte-a-92c8106d-c171-4999-ab0d-43cadbb92d05#ref=rss)
+### zweite
+
+* [https://www.spiegel.de/ausland/us-wahl-2024-was-die-zweite-amtszeit-von-donald-trump-fuer-die-ukraine-bedeutet](https://www.spiegel.de/ausland/us-wahl-2024-was-die-zweite-amtszeit-von-donald-trump-fuer-die-ukraine-bedeutet-a-443f1a01-0b8c-4059-b8c9-c2bd44a3fad1#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-und-europa](https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-und-europa-a-1a9d7689-97c0-4e8e-92d1-cef99bf09198#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-podcast](https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-podcast-a-145a0515-f7c1-4a60-9fa7-42831fb05161#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/ausland/us-wahl-2024-was-die-zweite-amtszeit-von-donald-trump-fuer-die-ukraine-bedeutet](https://www.spiegel.de/ausland/us-wahl-2024-was-die-zweite-amtszeit-von-donald-trump-fuer-die-ukraine-bedeutet-a-443f1a01-0b8c-4059-b8c9-c2bd44a3fad1#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-und-europa](https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-und-europa-a-1a9d7689-97c0-4e8e-92d1-cef99bf09198#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-podcast](https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-podcast-a-145a0515-f7c1-4a60-9fa7-42831fb05161#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/us-wahl-2024-was-die-zweite-amtszeit-von-donald-trump-fuer-die-ukraine-bedeutet](https://www.spiegel.de/ausland/us-wahl-2024-was-die-zweite-amtszeit-von-donald-trump-fuer-die-ukraine-bedeutet-a-443f1a01-0b8c-4059-b8c9-c2bd44a3fad1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-im-interview-wladimir-putin-fuehrt-laengst-krieg-gegen-uns](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-im-interview-wladimir-putin-fuehrt-laengst-krieg-gegen-uns-a-d29e59af-6041-4c44-b5ab-44d3e2f18b8c#ref=rss)
+* [https://www.spiegel.de/panorama/470-000-euro-teures-parkticket-fuer-aeroflot-airbus](https://www.spiegel.de/panorama/470-000-euro-teures-parkticket-fuer-aeroflot-airbus-a-4596c627-d1f6-49e4-90c5-f2bf99d90236#ref=rss)
+### präsidentschaft
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-wie-die-deutsche-wirtschaft-von-seiner-praesidentschaft-profitieren-koennte](https://www.spiegel.de/wirtschaft/donald-trump-wie-die-deutsche-wirtschaft-von-seiner-praesidentschaft-profitieren-koennte-a-92c8106d-c171-4999-ab0d-43cadbb92d05#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-und-europa](https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-und-europa-a-1a9d7689-97c0-4e8e-92d1-cef99bf09198#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-podcast](https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-podcast-a-145a0515-f7c1-4a60-9fa7-42831fb05161#ref=rss)
+### viele
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-wie-die-deutsche-wirtschaft-von-seiner-praesidentschaft-profitieren-koennte](https://www.spiegel.de/wirtschaft/donald-trump-wie-die-deutsche-wirtschaft-von-seiner-praesidentschaft-profitieren-koennte-a-92c8106d-c171-4999-ab0d-43cadbb92d05#ref=rss)
+* [https://www.spiegel.de/ausland/cop29-in-baku-was-die-wahl-von-donald-trump-fuer-das-ergebnis-des-klimagipfels-bedeutet](https://www.spiegel.de/ausland/cop29-in-baku-was-die-wahl-von-donald-trump-fuer-das-ergebnis-des-klimagipfels-bedeutet-a-8a003179-c01b-4b54-b8dc-86a7d02408b2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/karl-lauterbach-will-beitrag-zur-pflegeversicherung-anheben-und-mahnt-reform-an](https://www.spiegel.de/wirtschaft/soziales/karl-lauterbach-will-beitrag-zur-pflegeversicherung-anheben-und-mahnt-reform-an-a-4499d687-c844-4121-a74d-62472f433fbf#ref=rss)
+### unter
+
+* [https://www.spiegel.de/kultur/hans-haacke-in-der-schirn-retrospektive-in-frankfurt-ungeliebtes-genie](https://www.spiegel.de/kultur/hans-haacke-in-der-schirn-retrospektive-in-frankfurt-ungeliebtes-genie-a-58cc7bbf-4900-452f-b0da-de1daf4461bd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-im-interview-wladimir-putin-fuehrt-laengst-krieg-gegen-uns](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-im-interview-wladimir-putin-fuehrt-laengst-krieg-gegen-uns-a-d29e59af-6041-4c44-b5ab-44d3e2f18b8c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/berliner-zoo-elefantenkuh-mary-duscht-sich-mit-wasserschlauch-statt-mit-ihrem-ruessel](https://www.spiegel.de/wissenschaft/natur/berliner-zoo-elefantenkuh-mary-duscht-sich-mit-wasserschlauch-statt-mit-ihrem-ruessel-a-5dd57466-c690-4bad-9ef9-8b01eb320bc7#ref=rss)
+### europa
+
+* [https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-und-europa](https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-und-europa-a-1a9d7689-97c0-4e8e-92d1-cef99bf09198#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-podcast](https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-podcast-a-145a0515-f7c1-4a60-9fa7-42831fb05161#ref=rss)
+### robert
+
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-macht-kanzlerkandidatur-offiziell-video-aus-der-kueche](https://www.spiegel.de/politik/deutschland/robert-habeck-macht-kanzlerkandidatur-offiziell-video-aus-der-kueche-a-c4d1b9e2-b356-43c7-9a30-63b8c929ceb0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-live-blog-friedrich-merz-schliesst-lindner-comeback-als-finanzminister-nicht-aus](https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-live-blog-friedrich-merz-schliesst-lindner-comeback-als-finanzminister-nicht-aus-a-f57538cd-addd-47dc-b32a-47e41002779b#ref=rss)
+### habeck
+
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-macht-kanzlerkandidatur-offiziell-video-aus-der-kueche](https://www.spiegel.de/politik/deutschland/robert-habeck-macht-kanzlerkandidatur-offiziell-video-aus-der-kueche-a-c4d1b9e2-b356-43c7-9a30-63b8c929ceb0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-live-blog-friedrich-merz-schliesst-lindner-comeback-als-finanzminister-nicht-aus](https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-live-blog-friedrich-merz-schliesst-lindner-comeback-als-finanzminister-nicht-aus-a-f57538cd-addd-47dc-b32a-47e41002779b#ref=rss)
+### ampelaus
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-der-plan-des-donald-trump-neuwahlen-nach-ampel-aus-die-macht-der-geheimnisse](https://www.spiegel.de/politik/deutschland/news-des-tages-der-plan-des-donald-trump-neuwahlen-nach-ampel-aus-die-macht-der-geheimnisse-a-9bd72d61-55b9-4894-840c-ae343a882161#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-bundeswahlleiterin-warnt-vor-unabwaegbaren-risiken-bei-neuwahl-im-januar](https://www.spiegel.de/politik/deutschland/ampel-aus-bundeswahlleiterin-warnt-vor-unabwaegbaren-risiken-bei-neuwahl-im-januar-a-7840f2b8-1de6-4bd0-b320-fbce39d505c2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-live-blog-friedrich-merz-schliesst-lindner-comeback-als-finanzminister-nicht-aus](https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-live-blog-friedrich-merz-schliesst-lindner-comeback-als-finanzminister-nicht-aus-a-f57538cd-addd-47dc-b32a-47e41002779b#ref=rss)
+### scholz
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-der-plan-des-donald-trump-neuwahlen-nach-ampel-aus-die-macht-der-geheimnisse](https://www.spiegel.de/politik/deutschland/news-des-tages-der-plan-des-donald-trump-neuwahlen-nach-ampel-aus-die-macht-der-geheimnisse-a-9bd72d61-55b9-4894-840c-ae343a882161#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-bundeswahlleiterin-warnt-vor-unabwaegbaren-risiken-bei-neuwahl-im-januar](https://www.spiegel.de/politik/deutschland/ampel-aus-bundeswahlleiterin-warnt-vor-unabwaegbaren-risiken-bei-neuwahl-im-januar-a-7840f2b8-1de6-4bd0-b320-fbce39d505c2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-live-blog-friedrich-merz-schliesst-lindner-comeback-als-finanzminister-nicht-aus](https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-live-blog-friedrich-merz-schliesst-lindner-comeback-als-finanzminister-nicht-aus-a-f57538cd-addd-47dc-b32a-47e41002779b#ref=rss)
+### lindner
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-der-plan-des-donald-trump-neuwahlen-nach-ampel-aus-die-macht-der-geheimnisse](https://www.spiegel.de/politik/deutschland/news-des-tages-der-plan-des-donald-trump-neuwahlen-nach-ampel-aus-die-macht-der-geheimnisse-a-9bd72d61-55b9-4894-840c-ae343a882161#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-live-blog-friedrich-merz-schliesst-lindner-comeback-als-finanzminister-nicht-aus](https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-live-blog-friedrich-merz-schliesst-lindner-comeback-als-finanzminister-nicht-aus-a-f57538cd-addd-47dc-b32a-47e41002779b#ref=rss)
+### paar
+
+* [https://www.spiegel.de/panorama/justiz/stuttgart-paar-foltert-freund-wegen-aufgenommener-nacktfotos-haftstrafe](https://www.spiegel.de/panorama/justiz/stuttgart-paar-foltert-freund-wegen-aufgenommener-nacktfotos-haftstrafe-a-013957ca-28e3-409c-a1dc-7ecae42cc6fb#ref=rss)
+### iraner
+
+* [https://www.spiegel.de/ausland/donald-trump-mordkomplott-gegen-republikaner-iraner-angeklagt](https://www.spiegel.de/ausland/donald-trump-mordkomplott-gegen-republikaner-iraner-angeklagt-a-03568412-7949-42ed-bce1-7c2fae240acc#ref=rss)
+### angeklagt
+
+* [https://www.spiegel.de/ausland/donald-trump-mordkomplott-gegen-republikaner-iraner-angeklagt](https://www.spiegel.de/ausland/donald-trump-mordkomplott-gegen-republikaner-iraner-angeklagt-a-03568412-7949-42ed-bce1-7c2fae240acc#ref=rss)
+### sollte
+
+* [https://www.spiegel.de/ausland/donald-trump-mordkomplott-gegen-republikaner-iraner-angeklagt](https://www.spiegel.de/ausland/donald-trump-mordkomplott-gegen-republikaner-iraner-angeklagt-a-03568412-7949-42ed-bce1-7c2fae240acc#ref=rss)
+* [https://www.spiegel.de/auto/deutsche-bahn-ausschreibung-fuer-ice-der-naechsten-generation-gestoppt](https://www.spiegel.de/auto/deutsche-bahn-ausschreibung-fuer-ice-der-naechsten-generation-gestoppt-a-cfd62632-c720-41b8-b512-aff3ee18f879#ref=rss)
+### plan
+
+* [https://www.spiegel.de/ausland/donald-trump-mordkomplott-gegen-republikaner-iraner-angeklagt](https://www.spiegel.de/ausland/donald-trump-mordkomplott-gegen-republikaner-iraner-angeklagt-a-03568412-7949-42ed-bce1-7c2fae240acc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-der-plan-des-donald-trump-neuwahlen-nach-ampel-aus-die-macht-der-geheimnisse](https://www.spiegel.de/politik/deutschland/news-des-tages-der-plan-des-donald-trump-neuwahlen-nach-ampel-aus-die-macht-der-geheimnisse-a-9bd72d61-55b9-4894-840c-ae343a882161#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/ausland/donald-trump-mordkomplott-gegen-republikaner-iraner-angeklagt](https://www.spiegel.de/ausland/donald-trump-mordkomplott-gegen-republikaner-iraner-angeklagt-a-03568412-7949-42ed-bce1-7c2fae240acc#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-donald-trumps-designierte-stabschefin-wer-ist-susie-wiles](https://www.spiegel.de/ausland/us-wahl-2024-donald-trumps-designierte-stabschefin-wer-ist-susie-wiles-a-d451d9d6-0a3c-40a0-b8ce-a344cf288f26#ref=rss)
+### mann
+
+* [https://www.spiegel.de/ausland/donald-trump-mordkomplott-gegen-republikaner-iraner-angeklagt](https://www.spiegel.de/ausland/donald-trump-mordkomplott-gegen-republikaner-iraner-angeklagt-a-03568412-7949-42ed-bce1-7c2fae240acc#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/stuttgart-paar-foltert-freund-wegen-aufgenommener-nacktfotos-haftstrafe](https://www.spiegel.de/panorama/justiz/stuttgart-paar-foltert-freund-wegen-aufgenommener-nacktfotos-haftstrafe-a-013957ca-28e3-409c-a1dc-7ecae42cc6fb#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/ausland/donald-trump-mordkomplott-gegen-republikaner-iraner-angeklagt](https://www.spiegel.de/ausland/donald-trump-mordkomplott-gegen-republikaner-iraner-angeklagt-a-03568412-7949-42ed-bce1-7c2fae240acc#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/sixtinische-kapelle-michelangelo-malte-frau-mit-brustkrebs](https://www.spiegel.de/wissenschaft/mensch/sixtinische-kapelle-michelangelo-malte-frau-mit-brustkrebs-a-1baa8b3d-2817-414f-9d60-0e7648df0dae#ref=rss)
+### steinmeier
+
+* [https://www.spiegel.de/kultur/frank-walter-steinmeier-soll-auf-rede-von-marko-martin-wutentbrannt-reagiert-haben](https://www.spiegel.de/kultur/frank-walter-steinmeier-soll-auf-rede-von-marko-martin-wutentbrannt-reagiert-haben-a-d8e5dd3b-df51-4f99-a86d-58a0cf00cd74#ref=rss)
+### marko
+
+* [https://www.spiegel.de/kultur/frank-walter-steinmeier-soll-auf-rede-von-marko-martin-wutentbrannt-reagiert-haben](https://www.spiegel.de/kultur/frank-walter-steinmeier-soll-auf-rede-von-marko-martin-wutentbrannt-reagiert-haben-a-d8e5dd3b-df51-4f99-a86d-58a0cf00cd74#ref=rss)
+### martin
+
+* [https://www.spiegel.de/kultur/frank-walter-steinmeier-soll-auf-rede-von-marko-martin-wutentbrannt-reagiert-haben](https://www.spiegel.de/kultur/frank-walter-steinmeier-soll-auf-rede-von-marko-martin-wutentbrannt-reagiert-haben-a-d8e5dd3b-df51-4f99-a86d-58a0cf00cd74#ref=rss)
+### reagiert
+
+* [https://www.spiegel.de/kultur/frank-walter-steinmeier-soll-auf-rede-von-marko-martin-wutentbrannt-reagiert-haben](https://www.spiegel.de/kultur/frank-walter-steinmeier-soll-auf-rede-von-marko-martin-wutentbrannt-reagiert-haben-a-d8e5dd3b-df51-4f99-a86d-58a0cf00cd74#ref=rss)
+* [https://www.spiegel.de/ausland/amsterdam-antisemitische-attacken-auf-fans-von-maccabi-tel-aviv-buergermeisterin-wuetend](https://www.spiegel.de/ausland/amsterdam-antisemitische-attacken-auf-fans-von-maccabi-tel-aviv-buergermeisterin-wuetend-a-d4143752-c694-4a8d-80e7-801c0250f995#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/auto/deutsche-bahn-ausschreibung-fuer-ice-der-naechsten-generation-gestoppt](https://www.spiegel.de/auto/deutsche-bahn-ausschreibung-fuer-ice-der-naechsten-generation-gestoppt-a-cfd62632-c720-41b8-b512-aff3ee18f879#ref=rss)
+### ice
+
+* [https://www.spiegel.de/auto/deutsche-bahn-ausschreibung-fuer-ice-der-naechsten-generation-gestoppt](https://www.spiegel.de/auto/deutsche-bahn-ausschreibung-fuer-ice-der-naechsten-generation-gestoppt-a-cfd62632-c720-41b8-b512-aff3ee18f879#ref=rss)
+### 2024
+
+* [https://www.spiegel.de/ausland/us-wahl-2024-was-die-zweite-amtszeit-von-donald-trump-fuer-die-ukraine-bedeutet](https://www.spiegel.de/ausland/us-wahl-2024-was-die-zweite-amtszeit-von-donald-trump-fuer-die-ukraine-bedeutet-a-443f1a01-0b8c-4059-b8c9-c2bd44a3fad1#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-2024-donald-trumps-designierte-stabschefin-wer-ist-susie-wiles](https://www.spiegel.de/ausland/us-wahl-2024-donald-trumps-designierte-stabschefin-wer-ist-susie-wiles-a-d451d9d6-0a3c-40a0-b8ce-a344cf288f26#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/us-wahl-2024-was-die-zweite-amtszeit-von-donald-trump-fuer-die-ukraine-bedeutet](https://www.spiegel.de/ausland/us-wahl-2024-was-die-zweite-amtszeit-von-donald-trump-fuer-die-ukraine-bedeutet-a-443f1a01-0b8c-4059-b8c9-c2bd44a3fad1#ref=rss)
+### bedeutet
+
+* [https://www.spiegel.de/ausland/us-wahl-2024-was-die-zweite-amtszeit-von-donald-trump-fuer-die-ukraine-bedeutet](https://www.spiegel.de/ausland/us-wahl-2024-was-die-zweite-amtszeit-von-donald-trump-fuer-die-ukraine-bedeutet-a-443f1a01-0b8c-4059-b8c9-c2bd44a3fad1#ref=rss)
+* [https://www.spiegel.de/ausland/cop29-in-baku-was-die-wahl-von-donald-trump-fuer-das-ergebnis-des-klimagipfels-bedeutet](https://www.spiegel.de/ausland/cop29-in-baku-was-die-wahl-von-donald-trump-fuer-das-ergebnis-des-klimagipfels-bedeutet-a-8a003179-c01b-4b54-b8dc-86a7d02408b2#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/ausland/us-wahl-2024-was-die-zweite-amtszeit-von-donald-trump-fuer-die-ukraine-bedeutet](https://www.spiegel.de/ausland/us-wahl-2024-was-die-zweite-amtszeit-von-donald-trump-fuer-die-ukraine-bedeutet-a-443f1a01-0b8c-4059-b8c9-c2bd44a3fad1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-im-interview-wladimir-putin-fuehrt-laengst-krieg-gegen-uns](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-im-interview-wladimir-putin-fuehrt-laengst-krieg-gegen-uns-a-d29e59af-6041-4c44-b5ab-44d3e2f18b8c#ref=rss)
+### wirtschaft
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-wie-die-deutsche-wirtschaft-von-seiner-praesidentschaft-profitieren-koennte](https://www.spiegel.de/wirtschaft/donald-trump-wie-die-deutsche-wirtschaft-von-seiner-praesidentschaft-profitieren-koennte-a-92c8106d-c171-4999-ab0d-43cadbb92d05#ref=rss)
+### profitieren
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-wie-die-deutsche-wirtschaft-von-seiner-praesidentschaft-profitieren-koennte](https://www.spiegel.de/wirtschaft/donald-trump-wie-die-deutsche-wirtschaft-von-seiner-praesidentschaft-profitieren-koennte-a-92c8106d-c171-4999-ab0d-43cadbb92d05#ref=rss)
+### emsland
+
+* [https://www.spiegel.de/panorama/justiz/emsland-illegales-feuerwerkslager-im-millionenwert-entdeckt](https://www.spiegel.de/panorama/justiz/emsland-illegales-feuerwerkslager-im-millionenwert-entdeckt-a-d46141f9-59a4-4d2c-8fa9-e60638a59472#ref=rss)
+### ermittler
+
+* [https://www.spiegel.de/panorama/justiz/emsland-illegales-feuerwerkslager-im-millionenwert-entdeckt](https://www.spiegel.de/panorama/justiz/emsland-illegales-feuerwerkslager-im-millionenwert-entdeckt-a-d46141f9-59a4-4d2c-8fa9-e60638a59472#ref=rss)
+* [https://www.spiegel.de/panorama/tatp-fund-in-berlin-behoerden-hatten-sprengstoff-verdaechtigen-zuvor-abgeschoben](https://www.spiegel.de/panorama/tatp-fund-in-berlin-behoerden-hatten-sprengstoff-verdaechtigen-zuvor-abgeschoben-a-0ea7c25c-1259-4dc2-9fad-b87b0d0507ce#ref=rss)
+### hans
+
+* [https://www.spiegel.de/kultur/hans-haacke-in-der-schirn-retrospektive-in-frankfurt-ungeliebtes-genie](https://www.spiegel.de/kultur/hans-haacke-in-der-schirn-retrospektive-in-frankfurt-ungeliebtes-genie-a-58cc7bbf-4900-452f-b0da-de1daf4461bd#ref=rss)
+### haacke
+
+* [https://www.spiegel.de/kultur/hans-haacke-in-der-schirn-retrospektive-in-frankfurt-ungeliebtes-genie](https://www.spiegel.de/kultur/hans-haacke-in-der-schirn-retrospektive-in-frankfurt-ungeliebtes-genie-a-58cc7bbf-4900-452f-b0da-de1daf4461bd#ref=rss)
+### sigmar
+
+* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-im-interview-wladimir-putin-fuehrt-laengst-krieg-gegen-uns](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-im-interview-wladimir-putin-fuehrt-laengst-krieg-gegen-uns-a-d29e59af-6041-4c44-b5ab-44d3e2f18b8c#ref=rss)
+### gabriel
+
+* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-im-interview-wladimir-putin-fuehrt-laengst-krieg-gegen-uns](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-im-interview-wladimir-putin-fuehrt-laengst-krieg-gegen-uns-a-d29e59af-6041-4c44-b5ab-44d3e2f18b8c#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-im-interview-wladimir-putin-fuehrt-laengst-krieg-gegen-uns](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-im-interview-wladimir-putin-fuehrt-laengst-krieg-gegen-uns-a-d29e59af-6041-4c44-b5ab-44d3e2f18b8c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-bundeswahlleiterin-warnt-vor-unabwaegbaren-risiken-bei-neuwahl-im-januar](https://www.spiegel.de/politik/deutschland/ampel-aus-bundeswahlleiterin-warnt-vor-unabwaegbaren-risiken-bei-neuwahl-im-januar-a-7840f2b8-1de6-4bd0-b320-fbce39d505c2#ref=rss)
+### euro
+
+* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-im-interview-wladimir-putin-fuehrt-laengst-krieg-gegen-uns](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-im-interview-wladimir-putin-fuehrt-laengst-krieg-gegen-uns-a-d29e59af-6041-4c44-b5ab-44d3e2f18b8c#ref=rss)
+* [https://www.spiegel.de/panorama/470-000-euro-teures-parkticket-fuer-aeroflot-airbus](https://www.spiegel.de/panorama/470-000-euro-teures-parkticket-fuer-aeroflot-airbus-a-4596c627-d1f6-49e4-90c5-f2bf99d90236#ref=rss)
+### borowski
+
+* [https://www.spiegel.de/kultur/tv/tatort-aus-kiel-borowski-und-das-ewige-meer-letztes-aufgebot-fuer-fridays-for-future](https://www.spiegel.de/kultur/tv/tatort-aus-kiel-borowski-und-das-ewige-meer-letztes-aufgebot-fuer-fridays-for-future-a-f0bfa1a0-87f2-4247-a077-77d5678f4367#ref=rss)
+### zieht
+
+* [https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-und-europa](https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-und-europa-a-1a9d7689-97c0-4e8e-92d1-cef99bf09198#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-podcast](https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-podcast-a-145a0515-f7c1-4a60-9fa7-42831fb05161#ref=rss)
+### nato
+
+* [https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-und-europa](https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-und-europa-a-1a9d7689-97c0-4e8e-92d1-cef99bf09198#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-podcast](https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-podcast-a-145a0515-f7c1-4a60-9fa7-42831fb05161#ref=rss)
+### zweifel
+
+* [https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-und-europa](https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-und-europa-a-1a9d7689-97c0-4e8e-92d1-cef99bf09198#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-podcast](https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-podcast-a-145a0515-f7c1-4a60-9fa7-42831fb05161#ref=rss)
+### massiven
+
+* [https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-und-europa](https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-und-europa-a-1a9d7689-97c0-4e8e-92d1-cef99bf09198#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-podcast](https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-podcast-a-145a0515-f7c1-4a60-9fa7-42831fb05161#ref=rss)
+### zöllen
+
+* [https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-und-europa](https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-und-europa-a-1a9d7689-97c0-4e8e-92d1-cef99bf09198#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-podcast](https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-podcast-a-145a0515-f7c1-4a60-9fa7-42831fb05161#ref=rss)
+### teuer
+
+* [https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-und-europa](https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-und-europa-a-1a9d7689-97c0-4e8e-92d1-cef99bf09198#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-podcast](https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-podcast-a-145a0515-f7c1-4a60-9fa7-42831fb05161#ref=rss)
+### spiegelredakteur
+
+* [https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-und-europa](https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-und-europa-a-1a9d7689-97c0-4e8e-92d1-cef99bf09198#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-podcast](https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-podcast-a-145a0515-f7c1-4a60-9fa7-42831fb05161#ref=rss)
+### markus
+
+* [https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-und-europa](https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-und-europa-a-1a9d7689-97c0-4e8e-92d1-cef99bf09198#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-podcast](https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-podcast-a-145a0515-f7c1-4a60-9fa7-42831fb05161#ref=rss)
+### becker
+
+* [https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-und-europa](https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-und-europa-a-1a9d7689-97c0-4e8e-92d1-cef99bf09198#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-podcast](https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-podcast-a-145a0515-f7c1-4a60-9fa7-42831fb05161#ref=rss)
+### ordnet
+
+* [https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-und-europa](https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-und-europa-a-1a9d7689-97c0-4e8e-92d1-cef99bf09198#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-podcast](https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-podcast-a-145a0515-f7c1-4a60-9fa7-42831fb05161#ref=rss)
+### möglichen
+
+* [https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-und-europa](https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-und-europa-a-1a9d7689-97c0-4e8e-92d1-cef99bf09198#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-podcast](https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-podcast-a-145a0515-f7c1-4a60-9fa7-42831fb05161#ref=rss)
+### folgen
+
+* [https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-und-europa](https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-und-europa-a-1a9d7689-97c0-4e8e-92d1-cef99bf09198#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-podcast](https://www.spiegel.de/ausland/donald-trump-wird-us-praesident-das-droht-deutschland-podcast-a-145a0515-f7c1-4a60-9fa7-42831fb05161#ref=rss)
+### macht
+
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-macht-kanzlerkandidatur-offiziell-video-aus-der-kueche](https://www.spiegel.de/politik/deutschland/robert-habeck-macht-kanzlerkandidatur-offiziell-video-aus-der-kueche-a-c4d1b9e2-b356-43c7-9a30-63b8c929ceb0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-der-plan-des-donald-trump-neuwahlen-nach-ampel-aus-die-macht-der-geheimnisse](https://www.spiegel.de/politik/deutschland/news-des-tages-der-plan-des-donald-trump-neuwahlen-nach-ampel-aus-die-macht-der-geheimnisse-a-9bd72d61-55b9-4894-840c-ae343a882161#ref=rss)
+### offiziell
+
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-macht-kanzlerkandidatur-offiziell-video-aus-der-kueche](https://www.spiegel.de/politik/deutschland/robert-habeck-macht-kanzlerkandidatur-offiziell-video-aus-der-kueche-a-c4d1b9e2-b356-43c7-9a30-63b8c929ceb0#ref=rss)
+### video
+
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-macht-kanzlerkandidatur-offiziell-video-aus-der-kueche](https://www.spiegel.de/politik/deutschland/robert-habeck-macht-kanzlerkandidatur-offiziell-video-aus-der-kueche-a-c4d1b9e2-b356-43c7-9a30-63b8c929ceb0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-live-blog-friedrich-merz-schliesst-lindner-comeback-als-finanzminister-nicht-aus](https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-live-blog-friedrich-merz-schliesst-lindner-comeback-als-finanzminister-nicht-aus-a-f57538cd-addd-47dc-b32a-47e41002779b#ref=rss)
+### küchentisch
+
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-macht-kanzlerkandidatur-offiziell-video-aus-der-kueche](https://www.spiegel.de/politik/deutschland/robert-habeck-macht-kanzlerkandidatur-offiziell-video-aus-der-kueche-a-c4d1b9e2-b356-43c7-9a30-63b8c929ceb0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-live-blog-friedrich-merz-schliesst-lindner-comeback-als-finanzminister-nicht-aus](https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-live-blog-friedrich-merz-schliesst-lindner-comeback-als-finanzminister-nicht-aus-a-f57538cd-addd-47dc-b32a-47e41002779b#ref=rss)
+### news
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-der-plan-des-donald-trump-neuwahlen-nach-ampel-aus-die-macht-der-geheimnisse](https://www.spiegel.de/politik/deutschland/news-des-tages-der-plan-des-donald-trump-neuwahlen-nach-ampel-aus-die-macht-der-geheimnisse-a-9bd72d61-55b9-4894-840c-ae343a882161#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-live-blog-friedrich-merz-schliesst-lindner-comeback-als-finanzminister-nicht-aus](https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-live-blog-friedrich-merz-schliesst-lindner-comeback-als-finanzminister-nicht-aus-a-f57538cd-addd-47dc-b32a-47e41002779b#ref=rss)
+### neuwahlen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-der-plan-des-donald-trump-neuwahlen-nach-ampel-aus-die-macht-der-geheimnisse](https://www.spiegel.de/politik/deutschland/news-des-tages-der-plan-des-donald-trump-neuwahlen-nach-ampel-aus-die-macht-der-geheimnisse-a-9bd72d61-55b9-4894-840c-ae343a882161#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-bundeswahlleiterin-warnt-vor-unabwaegbaren-risiken-bei-neuwahl-im-januar](https://www.spiegel.de/politik/deutschland/ampel-aus-bundeswahlleiterin-warnt-vor-unabwaegbaren-risiken-bei-neuwahl-im-januar-a-7840f2b8-1de6-4bd0-b320-fbce39d505c2#ref=rss)
+### berliner
+
+* [https://www.spiegel.de/wissenschaft/natur/berliner-zoo-elefantenkuh-mary-duscht-sich-mit-wasserschlauch-statt-mit-ihrem-ruessel](https://www.spiegel.de/wissenschaft/natur/berliner-zoo-elefantenkuh-mary-duscht-sich-mit-wasserschlauch-statt-mit-ihrem-ruessel-a-5dd57466-c690-4bad-9ef9-8b01eb320bc7#ref=rss)
+### zoo
+
+* [https://www.spiegel.de/wissenschaft/natur/berliner-zoo-elefantenkuh-mary-duscht-sich-mit-wasserschlauch-statt-mit-ihrem-ruessel](https://www.spiegel.de/wissenschaft/natur/berliner-zoo-elefantenkuh-mary-duscht-sich-mit-wasserschlauch-statt-mit-ihrem-ruessel-a-5dd57466-c690-4bad-9ef9-8b01eb320bc7#ref=rss)
+### elefantenkuh
+
+* [https://www.spiegel.de/wissenschaft/natur/berliner-zoo-elefantenkuh-mary-duscht-sich-mit-wasserschlauch-statt-mit-ihrem-ruessel](https://www.spiegel.de/wissenschaft/natur/berliner-zoo-elefantenkuh-mary-duscht-sich-mit-wasserschlauch-statt-mit-ihrem-ruessel-a-5dd57466-c690-4bad-9ef9-8b01eb320bc7#ref=rss)
+### duscht
+
+* [https://www.spiegel.de/wissenschaft/natur/berliner-zoo-elefantenkuh-mary-duscht-sich-mit-wasserschlauch-statt-mit-ihrem-ruessel](https://www.spiegel.de/wissenschaft/natur/berliner-zoo-elefantenkuh-mary-duscht-sich-mit-wasserschlauch-statt-mit-ihrem-ruessel-a-5dd57466-c690-4bad-9ef9-8b01eb320bc7#ref=rss)
+### statt
+
+* [https://www.spiegel.de/wissenschaft/natur/berliner-zoo-elefantenkuh-mary-duscht-sich-mit-wasserschlauch-statt-mit-ihrem-ruessel](https://www.spiegel.de/wissenschaft/natur/berliner-zoo-elefantenkuh-mary-duscht-sich-mit-wasserschlauch-statt-mit-ihrem-ruessel-a-5dd57466-c690-4bad-9ef9-8b01eb320bc7#ref=rss)
+### rüssel
+
+* [https://www.spiegel.de/wissenschaft/natur/berliner-zoo-elefantenkuh-mary-duscht-sich-mit-wasserschlauch-statt-mit-ihrem-ruessel](https://www.spiegel.de/wissenschaft/natur/berliner-zoo-elefantenkuh-mary-duscht-sich-mit-wasserschlauch-statt-mit-ihrem-ruessel-a-5dd57466-c690-4bad-9ef9-8b01eb320bc7#ref=rss)
+### münchen
+
+* [https://www.spiegel.de/panorama/470-000-euro-teures-parkticket-fuer-aeroflot-airbus](https://www.spiegel.de/panorama/470-000-euro-teures-parkticket-fuer-aeroflot-airbus-a-4596c627-d1f6-49e4-90c5-f2bf99d90236#ref=rss)
+### aeroflotairbus
+
+* [https://www.spiegel.de/panorama/470-000-euro-teures-parkticket-fuer-aeroflot-airbus](https://www.spiegel.de/panorama/470-000-euro-teures-parkticket-fuer-aeroflot-airbus-a-4596c627-d1f6-49e4-90c5-f2bf99d90236#ref=rss)
+### stabschefin
+
+* [https://www.spiegel.de/ausland/us-wahl-2024-donald-trumps-designierte-stabschefin-wer-ist-susie-wiles](https://www.spiegel.de/ausland/us-wahl-2024-donald-trumps-designierte-stabschefin-wer-ist-susie-wiles-a-d451d9d6-0a3c-40a0-b8ce-a344cf288f26#ref=rss)
+### susie
+
+* [https://www.spiegel.de/ausland/us-wahl-2024-donald-trumps-designierte-stabschefin-wer-ist-susie-wiles](https://www.spiegel.de/ausland/us-wahl-2024-donald-trumps-designierte-stabschefin-wer-ist-susie-wiles-a-d451d9d6-0a3c-40a0-b8ce-a344cf288f26#ref=rss)
+### wiles
+
+* [https://www.spiegel.de/ausland/us-wahl-2024-donald-trumps-designierte-stabschefin-wer-ist-susie-wiles](https://www.spiegel.de/ausland/us-wahl-2024-donald-trumps-designierte-stabschefin-wer-ist-susie-wiles-a-d451d9d6-0a3c-40a0-b8ce-a344cf288f26#ref=rss)
+### rashida
+
+* [https://www.spiegel.de/kultur/musik/rashida-jones-in-emotionalem-instagram-post-ueber-vater-quincy-jones-er-war-liebe](https://www.spiegel.de/kultur/musik/rashida-jones-in-emotionalem-instagram-post-ueber-vater-quincy-jones-er-war-liebe-a-619710f7-a95e-4dec-9aef-aa4b341015cb#ref=rss)
+### vater
+
+* [https://www.spiegel.de/kultur/musik/rashida-jones-in-emotionalem-instagram-post-ueber-vater-quincy-jones-er-war-liebe](https://www.spiegel.de/kultur/musik/rashida-jones-in-emotionalem-instagram-post-ueber-vater-quincy-jones-er-war-liebe-a-619710f7-a95e-4dec-9aef-aa4b341015cb#ref=rss)
+### quincy
+
+* [https://www.spiegel.de/kultur/musik/rashida-jones-in-emotionalem-instagram-post-ueber-vater-quincy-jones-er-war-liebe](https://www.spiegel.de/kultur/musik/rashida-jones-in-emotionalem-instagram-post-ueber-vater-quincy-jones-er-war-liebe-a-619710f7-a95e-4dec-9aef-aa4b341015cb#ref=rss)
+### marseille
+
+* [https://www.spiegel.de/panorama/justiz/frankreich-marseille-verstaerkt-polizeipraesenz-gegen-blutige-gewalt-im-drogenmilieu](https://www.spiegel.de/panorama/justiz/frankreich-marseille-verstaerkt-polizeipraesenz-gegen-blutige-gewalt-im-drogenmilieu-a-5d562836-35e0-4cec-80bc-5101626e4593#ref=rss)
+### verstärkt
+
+* [https://www.spiegel.de/panorama/justiz/frankreich-marseille-verstaerkt-polizeipraesenz-gegen-blutige-gewalt-im-drogenmilieu](https://www.spiegel.de/panorama/justiz/frankreich-marseille-verstaerkt-polizeipraesenz-gegen-blutige-gewalt-im-drogenmilieu-a-5d562836-35e0-4cec-80bc-5101626e4593#ref=rss)
+### polizeipräsenz
+
+* [https://www.spiegel.de/panorama/justiz/frankreich-marseille-verstaerkt-polizeipraesenz-gegen-blutige-gewalt-im-drogenmilieu](https://www.spiegel.de/panorama/justiz/frankreich-marseille-verstaerkt-polizeipraesenz-gegen-blutige-gewalt-im-drogenmilieu-a-5d562836-35e0-4cec-80bc-5101626e4593#ref=rss)
+### kritisieren
+
+* [https://www.spiegel.de/panorama/justiz/frankreich-marseille-verstaerkt-polizeipraesenz-gegen-blutige-gewalt-im-drogenmilieu](https://www.spiegel.de/panorama/justiz/frankreich-marseille-verstaerkt-polizeipraesenz-gegen-blutige-gewalt-im-drogenmilieu-a-5d562836-35e0-4cec-80bc-5101626e4593#ref=rss)
+* [https://www.spiegel.de/ausland/amsterdam-antisemitische-attacken-auf-fans-von-maccabi-tel-aviv-buergermeisterin-wuetend](https://www.spiegel.de/ausland/amsterdam-antisemitische-attacken-auf-fans-von-maccabi-tel-aviv-buergermeisterin-wuetend-a-d4143752-c694-4a8d-80e7-801c0250f995#ref=rss)
+### attacken
+
+* [https://www.spiegel.de/ausland/amsterdam-antisemitische-attacken-auf-fans-von-maccabi-tel-aviv-buergermeisterin-wuetend](https://www.spiegel.de/ausland/amsterdam-antisemitische-attacken-auf-fans-von-maccabi-tel-aviv-buergermeisterin-wuetend-a-d4143752-c694-4a8d-80e7-801c0250f995#ref=rss)
+### fans
+
+* [https://www.spiegel.de/ausland/amsterdam-antisemitische-attacken-auf-fans-von-maccabi-tel-aviv-buergermeisterin-wuetend](https://www.spiegel.de/ausland/amsterdam-antisemitische-attacken-auf-fans-von-maccabi-tel-aviv-buergermeisterin-wuetend-a-d4143752-c694-4a8d-80e7-801c0250f995#ref=rss)
+### maccabi
+
+* [https://www.spiegel.de/ausland/amsterdam-antisemitische-attacken-auf-fans-von-maccabi-tel-aviv-buergermeisterin-wuetend](https://www.spiegel.de/ausland/amsterdam-antisemitische-attacken-auf-fans-von-maccabi-tel-aviv-buergermeisterin-wuetend-a-d4143752-c694-4a8d-80e7-801c0250f995#ref=rss)
+### tel
+
+* [https://www.spiegel.de/ausland/amsterdam-antisemitische-attacken-auf-fans-von-maccabi-tel-aviv-buergermeisterin-wuetend](https://www.spiegel.de/ausland/amsterdam-antisemitische-attacken-auf-fans-von-maccabi-tel-aviv-buergermeisterin-wuetend-a-d4143752-c694-4a8d-80e7-801c0250f995#ref=rss)
+### aviv
+
+* [https://www.spiegel.de/ausland/amsterdam-antisemitische-attacken-auf-fans-von-maccabi-tel-aviv-buergermeisterin-wuetend](https://www.spiegel.de/ausland/amsterdam-antisemitische-attacken-auf-fans-von-maccabi-tel-aviv-buergermeisterin-wuetend-a-d4143752-c694-4a8d-80e7-801c0250f995#ref=rss)
+### bürgermeisterin
+
+* [https://www.spiegel.de/ausland/amsterdam-antisemitische-attacken-auf-fans-von-maccabi-tel-aviv-buergermeisterin-wuetend](https://www.spiegel.de/ausland/amsterdam-antisemitische-attacken-auf-fans-von-maccabi-tel-aviv-buergermeisterin-wuetend-a-d4143752-c694-4a8d-80e7-801c0250f995#ref=rss)
+### wütend
+
+* [https://www.spiegel.de/ausland/amsterdam-antisemitische-attacken-auf-fans-von-maccabi-tel-aviv-buergermeisterin-wuetend](https://www.spiegel.de/ausland/amsterdam-antisemitische-attacken-auf-fans-von-maccabi-tel-aviv-buergermeisterin-wuetend-a-d4143752-c694-4a8d-80e7-801c0250f995#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/ausland/amsterdam-antisemitische-attacken-auf-fans-von-maccabi-tel-aviv-buergermeisterin-wuetend](https://www.spiegel.de/ausland/amsterdam-antisemitische-attacken-auf-fans-von-maccabi-tel-aviv-buergermeisterin-wuetend-a-d4143752-c694-4a8d-80e7-801c0250f995#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/fachkraeftemangel-ost-laender-wollen-mehr-arbeitskraefte-aus-dem-ausland](https://www.spiegel.de/wirtschaft/soziales/fachkraeftemangel-ost-laender-wollen-mehr-arbeitskraefte-aus-dem-ausland-a-f01510fe-aa1c-4bec-8736-9461680b0468#ref=rss)
+### bundeswahlleiterin
+
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-bundeswahlleiterin-warnt-vor-unabwaegbaren-risiken-bei-neuwahl-im-januar](https://www.spiegel.de/politik/deutschland/ampel-aus-bundeswahlleiterin-warnt-vor-unabwaegbaren-risiken-bei-neuwahl-im-januar-a-7840f2b8-1de6-4bd0-b320-fbce39d505c2#ref=rss)
+### opposition
+
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-bundeswahlleiterin-warnt-vor-unabwaegbaren-risiken-bei-neuwahl-im-januar](https://www.spiegel.de/politik/deutschland/ampel-aus-bundeswahlleiterin-warnt-vor-unabwaegbaren-risiken-bei-neuwahl-im-januar-a-7840f2b8-1de6-4bd0-b320-fbce39d505c2#ref=rss)
+* [https://www.spiegel.de/ausland/israel-verteidigungsminister-israel-katz-vereidigt-tumulte-in-der-knesset](https://www.spiegel.de/ausland/israel-verteidigungsminister-israel-katz-vereidigt-tumulte-in-der-knesset-a-3d9d5cdd-4e13-413b-85c4-eb0c268a047a#ref=rss)
+### baku
+
+* [https://www.spiegel.de/ausland/cop29-in-baku-was-die-wahl-von-donald-trump-fuer-das-ergebnis-des-klimagipfels-bedeutet](https://www.spiegel.de/ausland/cop29-in-baku-was-die-wahl-von-donald-trump-fuer-das-ergebnis-des-klimagipfels-bedeutet-a-8a003179-c01b-4b54-b8dc-86a7d02408b2#ref=rss)
+### ergebnis
+
+* [https://www.spiegel.de/ausland/cop29-in-baku-was-die-wahl-von-donald-trump-fuer-das-ergebnis-des-klimagipfels-bedeutet](https://www.spiegel.de/ausland/cop29-in-baku-was-die-wahl-von-donald-trump-fuer-das-ergebnis-des-klimagipfels-bedeutet-a-8a003179-c01b-4b54-b8dc-86a7d02408b2#ref=rss)
+### klimagipfels
+
+* [https://www.spiegel.de/ausland/cop29-in-baku-was-die-wahl-von-donald-trump-fuer-das-ergebnis-des-klimagipfels-bedeutet](https://www.spiegel.de/ausland/cop29-in-baku-was-die-wahl-von-donald-trump-fuer-das-ergebnis-des-klimagipfels-bedeutet-a-8a003179-c01b-4b54-b8dc-86a7d02408b2#ref=rss)
+### kurz
+
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-live-blog-friedrich-merz-schliesst-lindner-comeback-als-finanzminister-nicht-aus](https://www.spiegel.de/politik/deutschland/ampel-aus-news-im-live-blog-friedrich-merz-schliesst-lindner-comeback-als-finanzminister-nicht-aus-a-f57538cd-addd-47dc-b32a-47e41002779b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/hwasong-19-in-nordkorea-was-von-der-staerksten-rakete-der-welt-zu-halten-ist](https://www.spiegel.de/wissenschaft/technik/hwasong-19-in-nordkorea-was-von-der-staerksten-rakete-der-welt-zu-halten-ist-a-1b86bfe1-b4b5-4fea-8510-037aefcba6c6#ref=rss)
+### freund
+
+* [https://www.spiegel.de/panorama/justiz/stuttgart-paar-foltert-freund-wegen-aufgenommener-nacktfotos-haftstrafe](https://www.spiegel.de/panorama/justiz/stuttgart-paar-foltert-freund-wegen-aufgenommener-nacktfotos-haftstrafe-a-013957ca-28e3-409c-a1dc-7ecae42cc6fb#ref=rss)
+### lauterbach
+
+* [https://www.spiegel.de/wirtschaft/soziales/karl-lauterbach-will-beitrag-zur-pflegeversicherung-anheben-und-mahnt-reform-an](https://www.spiegel.de/wirtschaft/soziales/karl-lauterbach-will-beitrag-zur-pflegeversicherung-anheben-und-mahnt-reform-an-a-4499d687-c844-4121-a74d-62472f433fbf#ref=rss)
+### beitrag
+
+* [https://www.spiegel.de/wirtschaft/soziales/karl-lauterbach-will-beitrag-zur-pflegeversicherung-anheben-und-mahnt-reform-an](https://www.spiegel.de/wirtschaft/soziales/karl-lauterbach-will-beitrag-zur-pflegeversicherung-anheben-und-mahnt-reform-an-a-4499d687-c844-4121-a74d-62472f433fbf#ref=rss)
+### pflegeversicherung
+
+* [https://www.spiegel.de/wirtschaft/soziales/karl-lauterbach-will-beitrag-zur-pflegeversicherung-anheben-und-mahnt-reform-an](https://www.spiegel.de/wirtschaft/soziales/karl-lauterbach-will-beitrag-zur-pflegeversicherung-anheben-und-mahnt-reform-an-a-4499d687-c844-4121-a74d-62472f433fbf#ref=rss)
+### ostländer
+
+* [https://www.spiegel.de/wirtschaft/soziales/fachkraeftemangel-ost-laender-wollen-mehr-arbeitskraefte-aus-dem-ausland](https://www.spiegel.de/wirtschaft/soziales/fachkraeftemangel-ost-laender-wollen-mehr-arbeitskraefte-aus-dem-ausland-a-f01510fe-aa1c-4bec-8736-9461680b0468#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/panorama/tatp-fund-in-berlin-behoerden-hatten-sprengstoff-verdaechtigen-zuvor-abgeschoben](https://www.spiegel.de/panorama/tatp-fund-in-berlin-behoerden-hatten-sprengstoff-verdaechtigen-zuvor-abgeschoben-a-0ea7c25c-1259-4dc2-9fad-b87b0d0507ce#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/israel-verteidigungsminister-israel-katz-vereidigt-tumulte-in-der-knesset](https://www.spiegel.de/ausland/israel-verteidigungsminister-israel-katz-vereidigt-tumulte-in-der-knesset-a-3d9d5cdd-4e13-413b-85c4-eb0c268a047a#ref=rss)
+### verteidigungsminister
+
+* [https://www.spiegel.de/ausland/israel-verteidigungsminister-israel-katz-vereidigt-tumulte-in-der-knesset](https://www.spiegel.de/ausland/israel-verteidigungsminister-israel-katz-vereidigt-tumulte-in-der-knesset-a-3d9d5cdd-4e13-413b-85c4-eb0c268a047a#ref=rss)
+### katz
+
+* [https://www.spiegel.de/ausland/israel-verteidigungsminister-israel-katz-vereidigt-tumulte-in-der-knesset](https://www.spiegel.de/ausland/israel-verteidigungsminister-israel-katz-vereidigt-tumulte-in-der-knesset-a-3d9d5cdd-4e13-413b-85c4-eb0c268a047a#ref=rss)
+### nordkorea
+
+* [https://www.spiegel.de/wissenschaft/technik/hwasong-19-in-nordkorea-was-von-der-staerksten-rakete-der-welt-zu-halten-ist](https://www.spiegel.de/wissenschaft/technik/hwasong-19-in-nordkorea-was-von-der-staerksten-rakete-der-welt-zu-halten-ist-a-1b86bfe1-b4b5-4fea-8510-037aefcba6c6#ref=rss)
+### kapelle
+
+* [https://www.spiegel.de/wissenschaft/mensch/sixtinische-kapelle-michelangelo-malte-frau-mit-brustkrebs](https://www.spiegel.de/wissenschaft/mensch/sixtinische-kapelle-michelangelo-malte-frau-mit-brustkrebs-a-1baa8b3d-2817-414f-9d60-0e7648df0dae#ref=rss)
+### michelangelo
+
+* [https://www.spiegel.de/wissenschaft/mensch/sixtinische-kapelle-michelangelo-malte-frau-mit-brustkrebs](https://www.spiegel.de/wissenschaft/mensch/sixtinische-kapelle-michelangelo-malte-frau-mit-brustkrebs-a-1baa8b3d-2817-414f-9d60-0e7648df0dae#ref=rss)
+### frau
+
+* [https://www.spiegel.de/wissenschaft/mensch/sixtinische-kapelle-michelangelo-malte-frau-mit-brustkrebs](https://www.spiegel.de/wissenschaft/mensch/sixtinische-kapelle-michelangelo-malte-frau-mit-brustkrebs-a-1baa8b3d-2817-414f-9d60-0e7648df0dae#ref=rss)
+### notredame
+
+* [https://www.spiegel.de/panorama/notre-dame-in-paris-die-glocken-laeuten-wieder](https://www.spiegel.de/panorama/notre-dame-in-paris-die-glocken-laeuten-wieder-a-66e73867-9762-4532-88d1-e1f1c2439740#ref=rss)
+### stück
+
+* [https://www.spiegel.de/panorama/notre-dame-in-paris-die-glocken-laeuten-wieder](https://www.spiegel.de/panorama/notre-dame-in-paris-die-glocken-laeuten-wieder-a-66e73867-9762-4532-88d1-e1f1c2439740#ref=rss)
 
