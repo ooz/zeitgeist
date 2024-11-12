@@ -6,373 +6,427 @@ tags: __no_header__
 
 ### mehr
 
-* [https://www.spiegel.de/panorama/uss-edsal-wrack-des-us-kriegsschiffs-the-dancing-mouse-aus-dem-zweiten-weltkrieg-identifiziert](https://www.spiegel.de/panorama/uss-edsal-wrack-des-us-kriegsschiffs-the-dancing-mouse-aus-dem-zweiten-weltkrieg-identifiziert-a-d5fec7ae-dbd1-4cb7-8200-55bbbed68d81#ref=rss)
-* [https://www.spiegel.de/ausland/israel-deutscher-botschafter-steffen-seibert-kritisiert-annexionsplaene-von-westjordanland](https://www.spiegel.de/ausland/israel-deutscher-botschafter-steffen-seibert-kritisiert-annexionsplaene-von-westjordanland-a-27b5e901-2d48-4dbf-b903-6f3b58684a4f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/vodafone-ende-des-nebenkostenprivilegs-zwei-millionen-fernseh-kunden-kehren-dem-konzern-den-ruecken](https://www.spiegel.de/wirtschaft/vodafone-ende-des-nebenkostenprivilegs-zwei-millionen-fernseh-kunden-kehren-dem-konzern-den-ruecken-a-e4873645-4be2-41f2-82d6-76acedd000c5#ref=rss)
-* [https://www.spiegel.de/sport/fussball/premier-league-schiedsrichter-david-coote-beleidigt-juergen-klopp-und-wird-suspendiert](https://www.spiegel.de/sport/fussball/premier-league-schiedsrichter-david-coote-beleidigt-juergen-klopp-und-wird-suspendiert-a-1bb3b9c2-8640-479e-ba30-f4a86cfb112e#ref=rss)
-* [https://www.spiegel.de/ausland/cop29-in-baku-solche-klimakonferenzen-braucht-niemand-mehr-kommentar](https://www.spiegel.de/ausland/cop29-in-baku-solche-klimakonferenzen-braucht-niemand-mehr-kommentar-a-43c15b25-a585-498d-94b5-bc9644e5e526#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/ig-metall-tarifabschluss-in-der-metallindustrie-5-5-prozent-mehr-lohn](https://www.spiegel.de/wirtschaft/soziales/ig-metall-tarifabschluss-in-der-metallindustrie-5-5-prozent-mehr-lohn-a-0eff4f20-2f0c-4d87-a76a-66f8abcc3834#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise](https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-a-8d3d46f0-4289-4de5-99f3-67a2066efa66#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-podcast](https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-podcast-a-02ea7237-945c-48a9-9535-53be7c77dbb4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-neuwahlen-digitale-kompetenz-bei-jugendlichen-deutschlandticket](https://www.spiegel.de/politik/deutschland/news-des-tages-neuwahlen-digitale-kompetenz-bei-jugendlichen-deutschlandticket-a-12d95a54-badf-442b-b3e6-52bbe43337c5#ref=rss)
+* [https://www.spiegel.de/kultur/til-schweiger-findet-belarus-nun-doch-nicht-mehr-so-toll](https://www.spiegel.de/kultur/til-schweiger-findet-belarus-nun-doch-nicht-mehr-so-toll-a-743436cf-1473-458e-a938-2f773bb3054d#ref=rss)
+* [https://www.spiegel.de/panorama/anglikanische-kirche-justin-welby-tritt-wegen-umgang-mit-missbrauchsskandal-zurueck](https://www.spiegel.de/panorama/anglikanische-kirche-justin-welby-tritt-wegen-umgang-mit-missbrauchsskandal-zurueck-a-1ecd12f6-17b7-4681-860c-cfbe16c35f05#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/aussenpolitik-nach-ampel-aus-deutsche-wollen-mehr-geld-fuer-europaeische-sicherheit-ausgeben](https://www.spiegel.de/politik/deutschland/aussenpolitik-nach-ampel-aus-deutsche-wollen-mehr-geld-fuer-europaeische-sicherheit-ausgeben-a-6a69da98-20b2-4839-b031-84499cac892f#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/marco-rubio-und-co-was-trumps-erste-personalien-fuer-die-welt-bedeuten](https://www.spiegel.de/ausland/marco-rubio-und-co-was-trumps-erste-personalien-fuer-die-welt-bedeuten-a-1fd4a243-67f6-437d-9833-e6dec2656900#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-will-kristi-noem-zur-heimatschutzministerin-machen](https://www.spiegel.de/ausland/donald-trump-will-kristi-noem-zur-heimatschutzministerin-machen-a-0589354e-93d7-4e51-9293-2fb18b76972c#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-marco-rubio-moeglicher-us-minister-steht-auf-china-sanktionsliste](https://www.spiegel.de/ausland/donald-trump-marco-rubio-moeglicher-us-minister-steht-auf-china-sanktionsliste-a-8ba2cab5-8b25-4968-b15d-1631017dffe0#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-sein-grenzzar-tom-homan-was-migranten-in-den-usa-jetzt-droht](https://www.spiegel.de/ausland/donald-trump-und-sein-grenzzar-tom-homan-was-migranten-in-den-usa-jetzt-droht-a-a1075138-ff08-44fc-bbce-ae0ad316a2ac#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/marco-rubio-und-co-was-trumps-erste-personalien-fuer-die-welt-bedeuten](https://www.spiegel.de/ausland/marco-rubio-und-co-was-trumps-erste-personalien-fuer-die-welt-bedeuten-a-1fd4a243-67f6-437d-9833-e6dec2656900#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-will-kristi-noem-zur-heimatschutzministerin-machen](https://www.spiegel.de/ausland/donald-trump-will-kristi-noem-zur-heimatschutzministerin-machen-a-0589354e-93d7-4e51-9293-2fb18b76972c#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-marco-rubio-moeglicher-us-minister-steht-auf-china-sanktionsliste](https://www.spiegel.de/ausland/donald-trump-marco-rubio-moeglicher-us-minister-steht-auf-china-sanktionsliste-a-8ba2cab5-8b25-4968-b15d-1631017dffe0#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-sein-grenzzar-tom-homan-was-migranten-in-den-usa-jetzt-droht](https://www.spiegel.de/ausland/donald-trump-und-sein-grenzzar-tom-homan-was-migranten-in-den-usa-jetzt-droht-a-a1075138-ff08-44fc-bbce-ae0ad316a2ac#ref=rss)
+### energiekrise
+
+* [https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise](https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-a-8d3d46f0-4289-4de5-99f3-67a2066efa66#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-podcast](https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-podcast-a-02ea7237-945c-48a9-9535-53be7c77dbb4#ref=rss)
+### marco
+
+* [https://www.spiegel.de/ausland/marco-rubio-und-co-was-trumps-erste-personalien-fuer-die-welt-bedeuten](https://www.spiegel.de/ausland/marco-rubio-und-co-was-trumps-erste-personalien-fuer-die-welt-bedeuten-a-1fd4a243-67f6-437d-9833-e6dec2656900#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-marco-rubio-moeglicher-us-minister-steht-auf-china-sanktionsliste](https://www.spiegel.de/ausland/donald-trump-marco-rubio-moeglicher-us-minister-steht-auf-china-sanktionsliste-a-8ba2cab5-8b25-4968-b15d-1631017dffe0#ref=rss)
+### rubio
+
+* [https://www.spiegel.de/ausland/marco-rubio-und-co-was-trumps-erste-personalien-fuer-die-welt-bedeuten](https://www.spiegel.de/ausland/marco-rubio-und-co-was-trumps-erste-personalien-fuer-die-welt-bedeuten-a-1fd4a243-67f6-437d-9833-e6dec2656900#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-marco-rubio-moeglicher-us-minister-steht-auf-china-sanktionsliste](https://www.spiegel.de/ausland/donald-trump-marco-rubio-moeglicher-us-minister-steht-auf-china-sanktionsliste-a-8ba2cab5-8b25-4968-b15d-1631017dffe0#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/marco-rubio-und-co-was-trumps-erste-personalien-fuer-die-welt-bedeuten](https://www.spiegel.de/ausland/marco-rubio-und-co-was-trumps-erste-personalien-fuer-die-welt-bedeuten-a-1fd4a243-67f6-437d-9833-e6dec2656900#ref=rss)
+* [https://www.spiegel.de/politik/ampel-aus-news-heute-cdu-generalsekretaer-verspricht-klarheit-in-den-naechsten-stunden-ueber-neuwahltermin](https://www.spiegel.de/politik/ampel-aus-news-heute-cdu-generalsekretaer-verspricht-klarheit-in-den-naechsten-stunden-ueber-neuwahltermin-a-b1b20a9b-643a-4407-b8a8-830bc4ead467#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-marco-rubio-moeglicher-us-minister-steht-auf-china-sanktionsliste](https://www.spiegel.de/ausland/donald-trump-marco-rubio-moeglicher-us-minister-steht-auf-china-sanktionsliste-a-8ba2cab5-8b25-4968-b15d-1631017dffe0#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-sein-grenzzar-tom-homan-was-migranten-in-den-usa-jetzt-droht](https://www.spiegel.de/ausland/donald-trump-und-sein-grenzzar-tom-homan-was-migranten-in-den-usa-jetzt-droht-a-a1075138-ff08-44fc-bbce-ae0ad316a2ac#ref=rss)
+### weniger
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ford-fuehrt-an-koelner-standort-kurzarbeit-ein](https://www.spiegel.de/wirtschaft/unternehmen/ford-fuehrt-an-koelner-standort-kurzarbeit-ein-a-79f7a5a4-6853-43a6-91df-0dfcf50de467#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-in-argentinien-deportivo-riestra-wechselt-influencer-fuer-eine-minute-ein](https://www.spiegel.de/sport/fussball/fussball-in-argentinien-deportivo-riestra-wechselt-influencer-fuer-eine-minute-ein-a-2b69e748-cb0c-4102-ad76-80e1210720a6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/shell-gewinnt-was-die-aufhebung-des-historischen-klimaurteils-bedeutet](https://www.spiegel.de/wirtschaft/unternehmen/shell-gewinnt-was-die-aufhebung-des-historischen-klimaurteils-bedeutet-a-f05bd72c-e438-4e67-b734-4813d4abc8f2#ref=rss)
+### geld
+
+* [https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise](https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-a-8d3d46f0-4289-4de5-99f3-67a2066efa66#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-podcast](https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-podcast-a-02ea7237-945c-48a9-9535-53be7c77dbb4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/aussenpolitik-nach-ampel-aus-deutsche-wollen-mehr-geld-fuer-europaeische-sicherheit-ausgeben](https://www.spiegel.de/politik/deutschland/aussenpolitik-nach-ampel-aus-deutsche-wollen-mehr-geld-fuer-europaeische-sicherheit-ausgeben-a-6a69da98-20b2-4839-b031-84499cac892f#ref=rss)
+### galt
+
+* [https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise](https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-a-8d3d46f0-4289-4de5-99f3-67a2066efa66#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-podcast](https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-podcast-a-02ea7237-945c-48a9-9535-53be7c77dbb4#ref=rss)
+* [https://www.spiegel.de/kultur/kino/timothee-chalamet-galt-als-zu-duenn-und-fand-deswegen-seinen-eigenen-stil](https://www.spiegel.de/kultur/kino/timothee-chalamet-galt-als-zu-duenn-und-fand-deswegen-seinen-eigenen-stil-a-9619285c-5c24-4df7-8e09-496b75b98b8e#ref=rss)
+### bleibt
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-warum-vorstandschef-jan-christian-dreesen-bleibt-trotz-vorwuerfen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-warum-vorstandschef-jan-christian-dreesen-bleibt-trotz-vorwuerfen-a-3f7dbd9b-3d55-4831-afa8-08bbb1fe4a9d#ref=rss)
+* [https://www.spiegel.de/ausland/haiti-flughafen-in-hauptstadt-port-au-prince-bleibt-nach-schuessen-geschlossen](https://www.spiegel.de/ausland/haiti-flughafen-in-hauptstadt-port-au-prince-bleibt-nach-schuessen-geschlossen-a-c9fb757c-54b3-4f6f-bf8d-fda1f7389719#ref=rss)
+### tritt
+
+* [https://www.spiegel.de/politik/deutschland/brandenburg-jueterboger-buergermeister-arne-raue-tritt-der-afd-bei](https://www.spiegel.de/politik/deutschland/brandenburg-jueterboger-buergermeister-arne-raue-tritt-der-afd-bei-a-a82a30cf-d312-4776-b23b-080032e7b6b8#ref=rss)
+* [https://www.spiegel.de/panorama/anglikanische-kirche-justin-welby-tritt-wegen-umgang-mit-missbrauchsskandal-zurueck](https://www.spiegel.de/panorama/anglikanische-kirche-justin-welby-tritt-wegen-umgang-mit-missbrauchsskandal-zurueck-a-1ecd12f6-17b7-4681-860c-cfbe16c35f05#ref=rss)
+### kirche
+
+* [https://www.spiegel.de/panorama/hamburger-bischoefin-fehrs-fuehrt-kuenftig-evangelische-kirche-in-deutschland](https://www.spiegel.de/panorama/hamburger-bischoefin-fehrs-fuehrt-kuenftig-evangelische-kirche-in-deutschland-a-3606b24e-dcfd-4058-ae8d-16b8b9729a20#ref=rss)
+* [https://www.spiegel.de/panorama/anglikanische-kirche-justin-welby-tritt-wegen-umgang-mit-missbrauchsskandal-zurueck](https://www.spiegel.de/panorama/anglikanische-kirche-justin-welby-tritt-wegen-umgang-mit-missbrauchsskandal-zurueck-a-1ecd12f6-17b7-4681-860c-cfbe16c35f05#ref=rss)
+### hauptstadt
+
+* [https://www.spiegel.de/ausland/haiti-flughafen-in-hauptstadt-port-au-prince-bleibt-nach-schuessen-geschlossen](https://www.spiegel.de/ausland/haiti-flughafen-in-hauptstadt-port-au-prince-bleibt-nach-schuessen-geschlossen-a-c9fb757c-54b3-4f6f-bf8d-fda1f7389719#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nfl-berlin-will-2025-spiele-ins-olympiastadion-holen](https://www.spiegel.de/sport/fussball/nfl-berlin-will-2025-spiele-ins-olympiastadion-holen-a-a57240bb-8a89-4674-87f7-6eea346d507d#ref=rss)
+### welt
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-neuwahlen-digitale-kompetenz-bei-jugendlichen-deutschlandticket](https://www.spiegel.de/politik/deutschland/news-des-tages-neuwahlen-digitale-kompetenz-bei-jugendlichen-deutschlandticket-a-12d95a54-badf-442b-b3e6-52bbe43337c5#ref=rss)
+* [https://www.spiegel.de/ausland/marco-rubio-und-co-was-trumps-erste-personalien-fuer-die-welt-bedeuten](https://www.spiegel.de/ausland/marco-rubio-und-co-was-trumps-erste-personalien-fuer-die-welt-bedeuten-a-1fd4a243-67f6-437d-9833-e6dec2656900#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/aussenpolitik-nach-ampel-aus-deutsche-wollen-mehr-geld-fuer-europaeische-sicherheit-ausgeben](https://www.spiegel.de/politik/deutschland/aussenpolitik-nach-ampel-aus-deutsche-wollen-mehr-geld-fuer-europaeische-sicherheit-ausgeben-a-6a69da98-20b2-4839-b031-84499cac892f#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/panorama/justiz/jva-gablingen-verteidiger-werfen-dem-justizministerium-untaetigkeit-vor](https://www.spiegel.de/panorama/justiz/jva-gablingen-verteidiger-werfen-dem-justizministerium-untaetigkeit-vor-a-12db895a-7a99-4894-a9e4-38242bd31b2d#ref=rss)
+* [https://www.spiegel.de/panorama/anglikanische-kirche-justin-welby-tritt-wegen-umgang-mit-missbrauchsskandal-zurueck](https://www.spiegel.de/panorama/anglikanische-kirche-justin-welby-tritt-wegen-umgang-mit-missbrauchsskandal-zurueck-a-1ecd12f6-17b7-4681-860c-cfbe16c35f05#ref=rss)
+### frankfurt
+
+* [https://www.spiegel.de/panorama/lufthansa-mehrere-menschen-bei-turbulenzen-auf-flug-nach-frankfurt-verletzt](https://www.spiegel.de/panorama/lufthansa-mehrere-menschen-bei-turbulenzen-auf-flug-nach-frankfurt-verletzt-a-05fdab64-6029-40ec-9d30-3893f2de5d74#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nfl-berlin-will-2025-spiele-ins-olympiastadion-holen](https://www.spiegel.de/sport/fussball/nfl-berlin-will-2025-spiele-ins-olympiastadion-holen-a-a57240bb-8a89-4674-87f7-6eea346d507d#ref=rss)
+### bundestag
+
+* [https://www.spiegel.de/politik/ampel-aus-news-heute-cdu-generalsekretaer-verspricht-klarheit-in-den-naechsten-stunden-ueber-neuwahltermin](https://www.spiegel.de/politik/ampel-aus-news-heute-cdu-generalsekretaer-verspricht-klarheit-in-den-naechsten-stunden-ueber-neuwahltermin-a-b1b20a9b-643a-4407-b8a8-830bc4ead467#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/neuwahlen-im-februar-wie-es-in-den-kommenden-wochen-weitergeht](https://www.spiegel.de/politik/deutschland/neuwahlen-im-februar-wie-es-in-den-kommenden-wochen-weitergeht-a-70be446d-1f69-4e20-83eb-d542cc0aa4cf#ref=rss)
+### ford
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ford-fuehrt-an-koelner-standort-kurzarbeit-ein](https://www.spiegel.de/wirtschaft/unternehmen/ford-fuehrt-an-koelner-standort-kurzarbeit-ein-a-79f7a5a4-6853-43a6-91df-0dfcf50de467#ref=rss)
+### führt
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ford-fuehrt-an-koelner-standort-kurzarbeit-ein](https://www.spiegel.de/wirtschaft/unternehmen/ford-fuehrt-an-koelner-standort-kurzarbeit-ein-a-79f7a5a4-6853-43a6-91df-0dfcf50de467#ref=rss)
+* [https://www.spiegel.de/panorama/hamburger-bischoefin-fehrs-fuehrt-kuenftig-evangelische-kirche-in-deutschland](https://www.spiegel.de/panorama/hamburger-bischoefin-fehrs-fuehrt-kuenftig-evangelische-kirche-in-deutschland-a-3606b24e-dcfd-4058-ae8d-16b8b9729a20#ref=rss)
+### kölner
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ford-fuehrt-an-koelner-standort-kurzarbeit-ein](https://www.spiegel.de/wirtschaft/unternehmen/ford-fuehrt-an-koelner-standort-kurzarbeit-ein-a-79f7a5a4-6853-43a6-91df-0dfcf50de467#ref=rss)
+### kurzarbeit
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ford-fuehrt-an-koelner-standort-kurzarbeit-ein](https://www.spiegel.de/wirtschaft/unternehmen/ford-fuehrt-an-koelner-standort-kurzarbeit-ein-a-79f7a5a4-6853-43a6-91df-0dfcf50de467#ref=rss)
+### gaspreis
+
+* [https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise](https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-a-8d3d46f0-4289-4de5-99f3-67a2066efa66#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-podcast](https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-podcast-a-02ea7237-945c-48a9-9535-53be7c77dbb4#ref=rss)
+### heizkosten
+
+* [https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise](https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-a-8d3d46f0-4289-4de5-99f3-67a2066efa66#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-podcast](https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-podcast-a-02ea7237-945c-48a9-9535-53be7c77dbb4#ref=rss)
+### steigen
+
+* [https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise](https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-a-8d3d46f0-4289-4de5-99f3-67a2066efa66#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-podcast](https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-podcast-a-02ea7237-945c-48a9-9535-53be7c77dbb4#ref=rss)
+### beendeter
+
+* [https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise](https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-a-8d3d46f0-4289-4de5-99f3-67a2066efa66#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-podcast](https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-podcast-a-02ea7237-945c-48a9-9535-53be7c77dbb4#ref=rss)
+### kälter
+
+* [https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise](https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-a-8d3d46f0-4289-4de5-99f3-67a2066efa66#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-podcast](https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-podcast-a-02ea7237-945c-48a9-9535-53be7c77dbb4#ref=rss)
+### heizen
+
+* [https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise](https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-a-8d3d46f0-4289-4de5-99f3-67a2066efa66#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-podcast](https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-podcast-a-02ea7237-945c-48a9-9535-53be7c77dbb4#ref=rss)
+### kostet
+
+* [https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise](https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-a-8d3d46f0-4289-4de5-99f3-67a2066efa66#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-podcast](https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-podcast-a-02ea7237-945c-48a9-9535-53be7c77dbb4#ref=rss)
+### beendet
+
+* [https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise](https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-a-8d3d46f0-4289-4de5-99f3-67a2066efa66#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-podcast](https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-podcast-a-02ea7237-945c-48a9-9535-53be7c77dbb4#ref=rss)
+### wirtschaftsredakteur
+
+* [https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise](https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-a-8d3d46f0-4289-4de5-99f3-67a2066efa66#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-podcast](https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-podcast-a-02ea7237-945c-48a9-9535-53be7c77dbb4#ref=rss)
+### benedikt
+
+* [https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise](https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-a-8d3d46f0-4289-4de5-99f3-67a2066efa66#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-podcast](https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-podcast-a-02ea7237-945c-48a9-9535-53be7c77dbb4#ref=rss)
+### müllerarnold
+
+* [https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise](https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-a-8d3d46f0-4289-4de5-99f3-67a2066efa66#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-podcast](https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-podcast-a-02ea7237-945c-48a9-9535-53be7c77dbb4#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise](https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-a-8d3d46f0-4289-4de5-99f3-67a2066efa66#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-podcast](https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-podcast-a-02ea7237-945c-48a9-9535-53be7c77dbb4#ref=rss)
+### los
+
+* [https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise](https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-a-8d3d46f0-4289-4de5-99f3-67a2066efa66#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-podcast](https://www.spiegel.de/wirtschaft/gaspreis-heizkosten-steigen-trotz-beendeter-energiekrise-podcast-a-02ea7237-945c-48a9-9535-53be7c77dbb4#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-warum-vorstandschef-jan-christian-dreesen-bleibt-trotz-vorwuerfen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-warum-vorstandschef-jan-christian-dreesen-bleibt-trotz-vorwuerfen-a-3f7dbd9b-3d55-4831-afa8-08bbb1fe4a9d#ref=rss)
+### münchen
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-warum-vorstandschef-jan-christian-dreesen-bleibt-trotz-vorwuerfen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-warum-vorstandschef-jan-christian-dreesen-bleibt-trotz-vorwuerfen-a-3f7dbd9b-3d55-4831-afa8-08bbb1fe4a9d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nfl-berlin-will-2025-spiele-ins-olympiastadion-holen](https://www.spiegel.de/sport/fussball/nfl-berlin-will-2025-spiele-ins-olympiastadion-holen-a-a57240bb-8a89-4674-87f7-6eea346d507d#ref=rss)
+### vorstandschef
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-warum-vorstandschef-jan-christian-dreesen-bleibt-trotz-vorwuerfen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-warum-vorstandschef-jan-christian-dreesen-bleibt-trotz-vorwuerfen-a-3f7dbd9b-3d55-4831-afa8-08bbb1fe4a9d#ref=rss)
+### janchristian
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-warum-vorstandschef-jan-christian-dreesen-bleibt-trotz-vorwuerfen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-warum-vorstandschef-jan-christian-dreesen-bleibt-trotz-vorwuerfen-a-3f7dbd9b-3d55-4831-afa8-08bbb1fe4a9d#ref=rss)
+### dreesen
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-warum-vorstandschef-jan-christian-dreesen-bleibt-trotz-vorwuerfen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-warum-vorstandschef-jan-christian-dreesen-bleibt-trotz-vorwuerfen-a-3f7dbd9b-3d55-4831-afa8-08bbb1fe4a9d#ref=rss)
+### vorwürfen
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-warum-vorstandschef-jan-christian-dreesen-bleibt-trotz-vorwuerfen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-warum-vorstandschef-jan-christian-dreesen-bleibt-trotz-vorwuerfen-a-3f7dbd9b-3d55-4831-afa8-08bbb1fe4a9d#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-warum-vorstandschef-jan-christian-dreesen-bleibt-trotz-vorwuerfen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-warum-vorstandschef-jan-christian-dreesen-bleibt-trotz-vorwuerfen-a-3f7dbd9b-3d55-4831-afa8-08bbb1fe4a9d#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-marco-rubio-moeglicher-us-minister-steht-auf-china-sanktionsliste](https://www.spiegel.de/ausland/donald-trump-marco-rubio-moeglicher-us-minister-steht-auf-china-sanktionsliste-a-8ba2cab5-8b25-4968-b15d-1631017dffe0#ref=rss)
+### bürgermeister
+
+* [https://www.spiegel.de/politik/deutschland/brandenburg-jueterboger-buergermeister-arne-raue-tritt-der-afd-bei](https://www.spiegel.de/politik/deutschland/brandenburg-jueterboger-buergermeister-arne-raue-tritt-der-afd-bei-a-a82a30cf-d312-4776-b23b-080032e7b6b8#ref=rss)
+### arne
+
+* [https://www.spiegel.de/politik/deutschland/brandenburg-jueterboger-buergermeister-arne-raue-tritt-der-afd-bei](https://www.spiegel.de/politik/deutschland/brandenburg-jueterboger-buergermeister-arne-raue-tritt-der-afd-bei-a-a82a30cf-d312-4776-b23b-080032e7b6b8#ref=rss)
+### raue
+
+* [https://www.spiegel.de/politik/deutschland/brandenburg-jueterboger-buergermeister-arne-raue-tritt-der-afd-bei](https://www.spiegel.de/politik/deutschland/brandenburg-jueterboger-buergermeister-arne-raue-tritt-der-afd-bei-a-a82a30cf-d312-4776-b23b-080032e7b6b8#ref=rss)
+### wechselt
+
+* [https://www.spiegel.de/politik/deutschland/brandenburg-jueterboger-buergermeister-arne-raue-tritt-der-afd-bei](https://www.spiegel.de/politik/deutschland/brandenburg-jueterboger-buergermeister-arne-raue-tritt-der-afd-bei-a-a82a30cf-d312-4776-b23b-080032e7b6b8#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-in-argentinien-deportivo-riestra-wechselt-influencer-fuer-eine-minute-ein](https://www.spiegel.de/sport/fussball/fussball-in-argentinien-deportivo-riestra-wechselt-influencer-fuer-eine-minute-ein-a-2b69e748-cb0c-4102-ad76-80e1210720a6#ref=rss)
+### wohnraum
+
+* [https://www.spiegel.de/start/wohnraum-fuer-azubis-und-studierende-was-hat-das-foerderprogramm-junges-wohnen-erreicht](https://www.spiegel.de/start/wohnraum-fuer-azubis-und-studierende-was-hat-das-foerderprogramm-junges-wohnen-erreicht-a-4c42a782-404b-44a4-89d5-abc051ad4e3e#ref=rss)
+### studierende
+
+* [https://www.spiegel.de/start/wohnraum-fuer-azubis-und-studierende-was-hat-das-foerderprogramm-junges-wohnen-erreicht](https://www.spiegel.de/start/wohnraum-fuer-azubis-und-studierende-was-hat-das-foerderprogramm-junges-wohnen-erreicht-a-4c42a782-404b-44a4-89d5-abc051ad4e3e#ref=rss)
+### förderprogramm
+
+* [https://www.spiegel.de/start/wohnraum-fuer-azubis-und-studierende-was-hat-das-foerderprogramm-junges-wohnen-erreicht](https://www.spiegel.de/start/wohnraum-fuer-azubis-und-studierende-was-hat-das-foerderprogramm-junges-wohnen-erreicht-a-4c42a782-404b-44a4-89d5-abc051ad4e3e#ref=rss)
+### junges
+
+* [https://www.spiegel.de/start/wohnraum-fuer-azubis-und-studierende-was-hat-das-foerderprogramm-junges-wohnen-erreicht](https://www.spiegel.de/start/wohnraum-fuer-azubis-und-studierende-was-hat-das-foerderprogramm-junges-wohnen-erreicht-a-4c42a782-404b-44a4-89d5-abc051ad4e3e#ref=rss)
+### wohnen
+
+* [https://www.spiegel.de/start/wohnraum-fuer-azubis-und-studierende-was-hat-das-foerderprogramm-junges-wohnen-erreicht](https://www.spiegel.de/start/wohnraum-fuer-azubis-und-studierende-was-hat-das-foerderprogramm-junges-wohnen-erreicht-a-4c42a782-404b-44a4-89d5-abc051ad4e3e#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/panorama/hamburger-bischoefin-fehrs-fuehrt-kuenftig-evangelische-kirche-in-deutschland](https://www.spiegel.de/panorama/hamburger-bischoefin-fehrs-fuehrt-kuenftig-evangelische-kirche-in-deutschland-a-3606b24e-dcfd-4058-ae8d-16b8b9729a20#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nfl-berlin-will-2025-spiele-ins-olympiastadion-holen](https://www.spiegel.de/sport/fussball/nfl-berlin-will-2025-spiele-ins-olympiastadion-holen-a-a57240bb-8a89-4674-87f7-6eea346d507d#ref=rss)
+### rolle
+
+* [https://www.spiegel.de/panorama/hamburger-bischoefin-fehrs-fuehrt-kuenftig-evangelische-kirche-in-deutschland](https://www.spiegel.de/panorama/hamburger-bischoefin-fehrs-fuehrt-kuenftig-evangelische-kirche-in-deutschland-a-3606b24e-dcfd-4058-ae8d-16b8b9729a20#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/aussenpolitik-nach-ampel-aus-deutsche-wollen-mehr-geld-fuer-europaeische-sicherheit-ausgeben](https://www.spiegel.de/politik/deutschland/aussenpolitik-nach-ampel-aus-deutsche-wollen-mehr-geld-fuer-europaeische-sicherheit-ausgeben-a-6a69da98-20b2-4839-b031-84499cac892f#ref=rss)
+### missbrauchsskandal
+
+* [https://www.spiegel.de/panorama/hamburger-bischoefin-fehrs-fuehrt-kuenftig-evangelische-kirche-in-deutschland](https://www.spiegel.de/panorama/hamburger-bischoefin-fehrs-fuehrt-kuenftig-evangelische-kirche-in-deutschland-a-3606b24e-dcfd-4058-ae8d-16b8b9729a20#ref=rss)
+* [https://www.spiegel.de/panorama/anglikanische-kirche-justin-welby-tritt-wegen-umgang-mit-missbrauchsskandal-zurueck](https://www.spiegel.de/panorama/anglikanische-kirche-justin-welby-tritt-wegen-umgang-mit-missbrauchsskandal-zurueck-a-1ecd12f6-17b7-4681-860c-cfbe16c35f05#ref=rss)
+### evangelischen
+
+* [https://www.spiegel.de/panorama/hamburger-bischoefin-fehrs-fuehrt-kuenftig-evangelische-kirche-in-deutschland](https://www.spiegel.de/panorama/hamburger-bischoefin-fehrs-fuehrt-kuenftig-evangelische-kirche-in-deutschland-a-3606b24e-dcfd-4058-ae8d-16b8b9729a20#ref=rss)
 ### neue
 
-* [https://www.spiegel.de/politik/fdp-chef-christian-lindner-ueber-seinen-rauswurf-ich-finde-dass-der-stil-in-der-demokratie-gewahrt-werden-muss-spiegel-tv](https://www.spiegel.de/politik/fdp-chef-christian-lindner-ueber-seinen-rauswurf-ich-finde-dass-der-stil-in-der-demokratie-gewahrt-werden-muss-spiegel-tv-a-7be9b374-d15d-4731-a8ae-10b7b39cb399#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/bsi-lagebericht-cyberkriminelle-sind-professionell-aggressiv-und-haben-leistungsfaehigere-technik](https://www.spiegel.de/netzwelt/netzpolitik/bsi-lagebericht-cyberkriminelle-sind-professionell-aggressiv-und-haben-leistungsfaehigere-technik-a-e379302d-6f64-41f4-a0da-c0d7eb482557#ref=rss)
-* [https://www.spiegel.de/ausland/nahostkonflikt-israels-verteidigungsminister-israel-katz-lehnt-waffenruhe-im-libanon-ab](https://www.spiegel.de/ausland/nahostkonflikt-israels-verteidigungsminister-israel-katz-lehnt-waffenruhe-im-libanon-ab-a-e0c70681-7be1-4591-94fa-489f58ed415f#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/computerfaehigkeiten-von-achtklaesslern-neue-studie-zeigt-alarmierende-ergebnisse](https://www.spiegel.de/panorama/bildung/computerfaehigkeiten-von-achtklaesslern-neue-studie-zeigt-alarmierende-ergebnisse-a-6b838b8c-436c-42ee-9b36-e5cbd614ffc0#ref=rss)
-### israel
+* [https://www.spiegel.de/panorama/hamburger-bischoefin-fehrs-fuehrt-kuenftig-evangelische-kirche-in-deutschland](https://www.spiegel.de/panorama/hamburger-bischoefin-fehrs-fuehrt-kuenftig-evangelische-kirche-in-deutschland-a-3606b24e-dcfd-4058-ae8d-16b8b9729a20#ref=rss)
+* [https://www.spiegel.de/ausland/haiti-flughafen-in-hauptstadt-port-au-prince-bleibt-nach-schuessen-geschlossen](https://www.spiegel.de/ausland/haiti-flughafen-in-hauptstadt-port-au-prince-bleibt-nach-schuessen-geschlossen-a-c9fb757c-54b3-4f6f-bf8d-fda1f7389719#ref=rss)
+### gewählt
 
-* [https://www.spiegel.de/ausland/israel-deutscher-botschafter-steffen-seibert-kritisiert-annexionsplaene-von-westjordanland](https://www.spiegel.de/ausland/israel-deutscher-botschafter-steffen-seibert-kritisiert-annexionsplaene-von-westjordanland-a-27b5e901-2d48-4dbf-b903-6f3b58684a4f#ref=rss)
-* [https://www.spiegel.de/ausland/nahostkonflikt-israels-verteidigungsminister-israel-katz-lehnt-waffenruhe-im-libanon-ab](https://www.spiegel.de/ausland/nahostkonflikt-israels-verteidigungsminister-israel-katz-lehnt-waffenruhe-im-libanon-ab-a-e0c70681-7be1-4591-94fa-489f58ed415f#ref=rss)
-### zwei
+* [https://www.spiegel.de/panorama/hamburger-bischoefin-fehrs-fuehrt-kuenftig-evangelische-kirche-in-deutschland](https://www.spiegel.de/panorama/hamburger-bischoefin-fehrs-fuehrt-kuenftig-evangelische-kirche-in-deutschland-a-3606b24e-dcfd-4058-ae8d-16b8b9729a20#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/neuwahlen-im-februar-wie-es-in-den-kommenden-wochen-weitergeht](https://www.spiegel.de/politik/deutschland/neuwahlen-im-februar-wie-es-in-den-kommenden-wochen-weitergeht-a-70be446d-1f69-4e20-83eb-d542cc0aa4cf#ref=rss)
+### schüssen
 
-* [https://www.spiegel.de/wirtschaft/vodafone-ende-des-nebenkostenprivilegs-zwei-millionen-fernseh-kunden-kehren-dem-konzern-den-ruecken](https://www.spiegel.de/wirtschaft/vodafone-ende-des-nebenkostenprivilegs-zwei-millionen-fernseh-kunden-kehren-dem-konzern-den-ruecken-a-e4873645-4be2-41f2-82d6-76acedd000c5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-deutsche-bank-reduziert-heimarbeit-auf-zwei-tage-pro-woche](https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-deutsche-bank-reduziert-heimarbeit-auf-zwei-tage-pro-woche-a-1c029613-e58e-4aec-98e9-77c8344b82cf#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-marco-rubio-soll-wohl-aussenminister-werden-mike-waltz-sicherheitsberater](https://www.spiegel.de/ausland/donald-trump-marco-rubio-soll-wohl-aussenminister-werden-mike-waltz-sicherheitsberater-a-044a0e04-efcd-4e51-b37a-a10dba778509#ref=rss)
-### konzern
+* [https://www.spiegel.de/ausland/haiti-flughafen-in-hauptstadt-port-au-prince-bleibt-nach-schuessen-geschlossen](https://www.spiegel.de/ausland/haiti-flughafen-in-hauptstadt-port-au-prince-bleibt-nach-schuessen-geschlossen-a-c9fb757c-54b3-4f6f-bf8d-fda1f7389719#ref=rss)
+### geschlossen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bayer-aktie-auf-20-jahres-tief-milliardenverlust-belastet-den-konzern](https://www.spiegel.de/wirtschaft/unternehmen/bayer-aktie-auf-20-jahres-tief-milliardenverlust-belastet-den-konzern-a-51d8606c-a1b3-4dd9-afaa-94d026f3720c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/vodafone-ende-des-nebenkostenprivilegs-zwei-millionen-fernseh-kunden-kehren-dem-konzern-den-ruecken](https://www.spiegel.de/wirtschaft/vodafone-ende-des-nebenkostenprivilegs-zwei-millionen-fernseh-kunden-kehren-dem-konzern-den-ruecken-a-e4873645-4be2-41f2-82d6-76acedd000c5#ref=rss)
-### ende
+* [https://www.spiegel.de/ausland/haiti-flughafen-in-hauptstadt-port-au-prince-bleibt-nach-schuessen-geschlossen](https://www.spiegel.de/ausland/haiti-flughafen-in-hauptstadt-port-au-prince-bleibt-nach-schuessen-geschlossen-a-c9fb757c-54b3-4f6f-bf8d-fda1f7389719#ref=rss)
+### news
 
-* [https://www.spiegel.de/politik/deutschland/bijan-djir-sarai-fdp-generalsekretaer-im-gespraech-nach-dem-ende-der-ampelkoalition](https://www.spiegel.de/politik/deutschland/bijan-djir-sarai-fdp-generalsekretaer-im-gespraech-nach-dem-ende-der-ampelkoalition-a-f3f9a1c3-52c5-4efb-9c28-526056b5192e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/vodafone-ende-des-nebenkostenprivilegs-zwei-millionen-fernseh-kunden-kehren-dem-konzern-den-ruecken](https://www.spiegel.de/wirtschaft/vodafone-ende-des-nebenkostenprivilegs-zwei-millionen-fernseh-kunden-kehren-dem-konzern-den-ruecken-a-e4873645-4be2-41f2-82d6-76acedd000c5#ref=rss)
-### the
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-neuwahlen-digitale-kompetenz-bei-jugendlichen-deutschlandticket](https://www.spiegel.de/politik/deutschland/news-des-tages-neuwahlen-digitale-kompetenz-bei-jugendlichen-deutschlandticket-a-12d95a54-badf-442b-b3e6-52bbe43337c5#ref=rss)
+* [https://www.spiegel.de/politik/ampel-aus-news-heute-cdu-generalsekretaer-verspricht-klarheit-in-den-naechsten-stunden-ueber-neuwahltermin](https://www.spiegel.de/politik/ampel-aus-news-heute-cdu-generalsekretaer-verspricht-klarheit-in-den-naechsten-stunden-ueber-neuwahltermin-a-b1b20a9b-643a-4407-b8a8-830bc4ead467#ref=rss)
+### neuwahlen
 
-* [https://www.spiegel.de/panorama/uss-edsal-wrack-des-us-kriegsschiffs-the-dancing-mouse-aus-dem-zweiten-weltkrieg-identifiziert](https://www.spiegel.de/panorama/uss-edsal-wrack-des-us-kriegsschiffs-the-dancing-mouse-aus-dem-zweiten-weltkrieg-identifiziert-a-d5fec7ae-dbd1-4cb7-8200-55bbbed68d81#ref=rss)
-* [https://www.spiegel.de/panorama/leute/gary-lineker-britische-medien-spekulieren-ueber-show-ende-von-bbc-sportkommentator](https://www.spiegel.de/panorama/leute/gary-lineker-britische-medien-spekulieren-ueber-show-ende-von-bbc-sportkommentator-a-ae82d8c8-4b6c-4091-b8cb-7dea1032a754#ref=rss)
-### johnson
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-neuwahlen-digitale-kompetenz-bei-jugendlichen-deutschlandticket](https://www.spiegel.de/politik/deutschland/news-des-tages-neuwahlen-digitale-kompetenz-bei-jugendlichen-deutschlandticket-a-12d95a54-badf-442b-b3e6-52bbe43337c5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/neuwahlen-im-februar-wie-es-in-den-kommenden-wochen-weitergeht](https://www.spiegel.de/politik/deutschland/neuwahlen-im-februar-wie-es-in-den-kommenden-wochen-weitergeht-a-70be446d-1f69-4e20-83eb-d542cc0aa4cf#ref=rss)
+### deutschlandticket
 
-* [https://www.spiegel.de/kultur/kino/dwayne-johnson-pinkelt-am-set-in-flaschen-gelegentlich](https://www.spiegel.de/kultur/kino/dwayne-johnson-pinkelt-am-set-in-flaschen-gelegentlich-a-7b0364df-28e5-4929-bf3d-298c782b8fb5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-neuwahlen-digitale-kompetenz-bei-jugendlichen-deutschlandticket](https://www.spiegel.de/politik/deutschland/news-des-tages-neuwahlen-digitale-kompetenz-bei-jugendlichen-deutschlandticket-a-12d95a54-badf-442b-b3e6-52bbe43337c5#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-neuwahlen-digitale-kompetenz-bei-jugendlichen-deutschlandticket](https://www.spiegel.de/politik/deutschland/news-des-tages-neuwahlen-digitale-kompetenz-bei-jugendlichen-deutschlandticket-a-12d95a54-badf-442b-b3e6-52bbe43337c5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/aussenpolitik-nach-ampel-aus-deutsche-wollen-mehr-geld-fuer-europaeische-sicherheit-ausgeben](https://www.spiegel.de/politik/deutschland/aussenpolitik-nach-ampel-aus-deutsche-wollen-mehr-geld-fuer-europaeische-sicherheit-ausgeben-a-6a69da98-20b2-4839-b031-84499cac892f#ref=rss)
+### deportivo
+
+* [https://www.spiegel.de/sport/fussball/fussball-in-argentinien-deportivo-riestra-wechselt-influencer-fuer-eine-minute-ein](https://www.spiegel.de/sport/fussball/fussball-in-argentinien-deportivo-riestra-wechselt-influencer-fuer-eine-minute-ein-a-2b69e748-cb0c-4102-ad76-80e1210720a6#ref=rss)
+### riestra
+
+* [https://www.spiegel.de/sport/fussball/fussball-in-argentinien-deportivo-riestra-wechselt-influencer-fuer-eine-minute-ein](https://www.spiegel.de/sport/fussball/fussball-in-argentinien-deportivo-riestra-wechselt-influencer-fuer-eine-minute-ein-a-2b69e748-cb0c-4102-ad76-80e1210720a6#ref=rss)
+### minute
+
+* [https://www.spiegel.de/sport/fussball/fussball-in-argentinien-deportivo-riestra-wechselt-influencer-fuer-eine-minute-ein](https://www.spiegel.de/sport/fussball/fussball-in-argentinien-deportivo-riestra-wechselt-influencer-fuer-eine-minute-ein-a-2b69e748-cb0c-4102-ad76-80e1210720a6#ref=rss)
+### shell
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/shell-gewinnt-was-die-aufhebung-des-historischen-klimaurteils-bedeutet](https://www.spiegel.de/wirtschaft/unternehmen/shell-gewinnt-was-die-aufhebung-des-historischen-klimaurteils-bedeutet-a-f05bd72c-e438-4e67-b734-4813d4abc8f2#ref=rss)
+### proteste
+
+* [https://www.spiegel.de/ausland/proteste-in-abchasien-gegen-russlandfreundliches-gesetz](https://www.spiegel.de/ausland/proteste-in-abchasien-gegen-russlandfreundliches-gesetz-a-c536629e-7753-4378-b4c4-e60b996d559b#ref=rss)
+* [https://www.spiegel.de/kultur/til-schweiger-findet-belarus-nun-doch-nicht-mehr-so-toll](https://www.spiegel.de/kultur/til-schweiger-findet-belarus-nun-doch-nicht-mehr-so-toll-a-743436cf-1473-458e-a938-2f773bb3054d#ref=rss)
+### abchasien
+
+* [https://www.spiegel.de/ausland/proteste-in-abchasien-gegen-russlandfreundliches-gesetz](https://www.spiegel.de/ausland/proteste-in-abchasien-gegen-russlandfreundliches-gesetz-a-c536629e-7753-4378-b4c4-e60b996d559b#ref=rss)
+### russlandfreundliches
+
+* [https://www.spiegel.de/ausland/proteste-in-abchasien-gegen-russlandfreundliches-gesetz](https://www.spiegel.de/ausland/proteste-in-abchasien-gegen-russlandfreundliches-gesetz-a-c536629e-7753-4378-b4c4-e60b996d559b#ref=rss)
+### gesetz
+
+* [https://www.spiegel.de/ausland/proteste-in-abchasien-gegen-russlandfreundliches-gesetz](https://www.spiegel.de/ausland/proteste-in-abchasien-gegen-russlandfreundliches-gesetz-a-c536629e-7753-4378-b4c4-e60b996d559b#ref=rss)
+### region
+
+* [https://www.spiegel.de/ausland/proteste-in-abchasien-gegen-russlandfreundliches-gesetz](https://www.spiegel.de/ausland/proteste-in-abchasien-gegen-russlandfreundliches-gesetz-a-c536629e-7753-4378-b4c4-e60b996d559b#ref=rss)
+* [https://www.spiegel.de/panorama/spanien-militaerhubschrauber-bergen-autowracks-nach-flutkatastrophe-in-valencia](https://www.spiegel.de/panorama/spanien-militaerhubschrauber-bergen-autowracks-nach-flutkatastrophe-in-valencia-a-24d20919-de91-4ecf-8445-9b51b45c16a0#ref=rss)
+### jva
+
+* [https://www.spiegel.de/panorama/justiz/jva-gablingen-verteidiger-werfen-dem-justizministerium-untaetigkeit-vor](https://www.spiegel.de/panorama/justiz/jva-gablingen-verteidiger-werfen-dem-justizministerium-untaetigkeit-vor-a-12db895a-7a99-4894-a9e4-38242bd31b2d#ref=rss)
+### verteidiger
+
+* [https://www.spiegel.de/panorama/justiz/jva-gablingen-verteidiger-werfen-dem-justizministerium-untaetigkeit-vor](https://www.spiegel.de/panorama/justiz/jva-gablingen-verteidiger-werfen-dem-justizministerium-untaetigkeit-vor-a-12db895a-7a99-4894-a9e4-38242bd31b2d#ref=rss)
+### justizministerium
+
+* [https://www.spiegel.de/panorama/justiz/jva-gablingen-verteidiger-werfen-dem-justizministerium-untaetigkeit-vor](https://www.spiegel.de/panorama/justiz/jva-gablingen-verteidiger-werfen-dem-justizministerium-untaetigkeit-vor-a-12db895a-7a99-4894-a9e4-38242bd31b2d#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/ausland/marco-rubio-und-co-was-trumps-erste-personalien-fuer-die-welt-bedeuten](https://www.spiegel.de/ausland/marco-rubio-und-co-was-trumps-erste-personalien-fuer-die-welt-bedeuten-a-1fd4a243-67f6-437d-9833-e6dec2656900#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-will-kristi-noem-zur-heimatschutzministerin-machen](https://www.spiegel.de/ausland/donald-trump-will-kristi-noem-zur-heimatschutzministerin-machen-a-0589354e-93d7-4e51-9293-2fb18b76972c#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/ausland/marco-rubio-und-co-was-trumps-erste-personalien-fuer-die-welt-bedeuten](https://www.spiegel.de/ausland/marco-rubio-und-co-was-trumps-erste-personalien-fuer-die-welt-bedeuten-a-1fd4a243-67f6-437d-9833-e6dec2656900#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-sein-grenzzar-tom-homan-was-migranten-in-den-usa-jetzt-droht](https://www.spiegel.de/ausland/donald-trump-und-sein-grenzzar-tom-homan-was-migranten-in-den-usa-jetzt-droht-a-a1075138-ff08-44fc-bbce-ae0ad316a2ac#ref=rss)
+### außenminister
+
+* [https://www.spiegel.de/ausland/marco-rubio-und-co-was-trumps-erste-personalien-fuer-die-welt-bedeuten](https://www.spiegel.de/ausland/marco-rubio-und-co-was-trumps-erste-personalien-fuer-die-welt-bedeuten-a-1fd4a243-67f6-437d-9833-e6dec2656900#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-marco-rubio-moeglicher-us-minister-steht-auf-china-sanktionsliste](https://www.spiegel.de/ausland/donald-trump-marco-rubio-moeglicher-us-minister-steht-auf-china-sanktionsliste-a-8ba2cab5-8b25-4968-b15d-1631017dffe0#ref=rss)
+### turbulenzen
+
+* [https://www.spiegel.de/panorama/lufthansa-mehrere-menschen-bei-turbulenzen-auf-flug-nach-frankfurt-verletzt](https://www.spiegel.de/panorama/lufthansa-mehrere-menschen-bei-turbulenzen-auf-flug-nach-frankfurt-verletzt-a-05fdab64-6029-40ec-9d30-3893f2de5d74#ref=rss)
+### flug
+
+* [https://www.spiegel.de/panorama/lufthansa-mehrere-menschen-bei-turbulenzen-auf-flug-nach-frankfurt-verletzt](https://www.spiegel.de/panorama/lufthansa-mehrere-menschen-bei-turbulenzen-auf-flug-nach-frankfurt-verletzt-a-05fdab64-6029-40ec-9d30-3893f2de5d74#ref=rss)
+### neben
+
+* [https://www.spiegel.de/panorama/lufthansa-mehrere-menschen-bei-turbulenzen-auf-flug-nach-frankfurt-verletzt](https://www.spiegel.de/panorama/lufthansa-mehrere-menschen-bei-turbulenzen-auf-flug-nach-frankfurt-verletzt-a-05fdab64-6029-40ec-9d30-3893f2de5d74#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/neuwahlen-im-februar-wie-es-in-den-kommenden-wochen-weitergeht](https://www.spiegel.de/politik/deutschland/neuwahlen-im-februar-wie-es-in-den-kommenden-wochen-weitergeht-a-70be446d-1f69-4e20-83eb-d542cc0aa4cf#ref=rss)
+### kristi
+
+* [https://www.spiegel.de/ausland/donald-trump-will-kristi-noem-zur-heimatschutzministerin-machen](https://www.spiegel.de/ausland/donald-trump-will-kristi-noem-zur-heimatschutzministerin-machen-a-0589354e-93d7-4e51-9293-2fb18b76972c#ref=rss)
+### noem
+
+* [https://www.spiegel.de/ausland/donald-trump-will-kristi-noem-zur-heimatschutzministerin-machen](https://www.spiegel.de/ausland/donald-trump-will-kristi-noem-zur-heimatschutzministerin-machen-a-0589354e-93d7-4e51-9293-2fb18b76972c#ref=rss)
+### ig
+
+* [https://www.spiegel.de/wirtschaft/ig-metall-zeigt-mit-tarifabschluss-wie-man-kompromisse-erzielt-was-die-politik-davon-lernen-kann](https://www.spiegel.de/wirtschaft/ig-metall-zeigt-mit-tarifabschluss-wie-man-kompromisse-erzielt-was-die-politik-davon-lernen-kann-a-a047e016-ae2d-44f3-8e22-d71d3fc74c61#ref=rss)
+### metall
+
+* [https://www.spiegel.de/wirtschaft/ig-metall-zeigt-mit-tarifabschluss-wie-man-kompromisse-erzielt-was-die-politik-davon-lernen-kann](https://www.spiegel.de/wirtschaft/ig-metall-zeigt-mit-tarifabschluss-wie-man-kompromisse-erzielt-was-die-politik-davon-lernen-kann-a-a047e016-ae2d-44f3-8e22-d71d3fc74c61#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/wirtschaft/ig-metall-zeigt-mit-tarifabschluss-wie-man-kompromisse-erzielt-was-die-politik-davon-lernen-kann](https://www.spiegel.de/wirtschaft/ig-metall-zeigt-mit-tarifabschluss-wie-man-kompromisse-erzielt-was-die-politik-davon-lernen-kann-a-a047e016-ae2d-44f3-8e22-d71d3fc74c61#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/aussenpolitik-nach-ampel-aus-deutsche-wollen-mehr-geld-fuer-europaeische-sicherheit-ausgeben](https://www.spiegel.de/politik/deutschland/aussenpolitik-nach-ampel-aus-deutsche-wollen-mehr-geld-fuer-europaeische-sicherheit-ausgeben-a-6a69da98-20b2-4839-b031-84499cac892f#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/wirtschaft/ig-metall-zeigt-mit-tarifabschluss-wie-man-kompromisse-erzielt-was-die-politik-davon-lernen-kann](https://www.spiegel.de/wirtschaft/ig-metall-zeigt-mit-tarifabschluss-wie-man-kompromisse-erzielt-was-die-politik-davon-lernen-kann-a-a047e016-ae2d-44f3-8e22-d71d3fc74c61#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nfl-berlin-will-2025-spiele-ins-olympiastadion-holen](https://www.spiegel.de/sport/fussball/nfl-berlin-will-2025-spiele-ins-olympiastadion-holen-a-a57240bb-8a89-4674-87f7-6eea346d507d#ref=rss)
 ### ampelaus
 
 * [https://www.spiegel.de/politik/ampel-aus-news-heute-cdu-generalsekretaer-verspricht-klarheit-in-den-naechsten-stunden-ueber-neuwahltermin](https://www.spiegel.de/politik/ampel-aus-news-heute-cdu-generalsekretaer-verspricht-klarheit-in-den-naechsten-stunden-ueber-neuwahltermin-a-b1b20a9b-643a-4407-b8a8-830bc4ead467#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/deutsche-bahn-gewerkschaft-sieht-nach-ampel-aus-netzsanierung-in-gefahr](https://www.spiegel.de/wirtschaft/soziales/deutsche-bahn-gewerkschaft-sieht-nach-ampel-aus-netzsanierung-in-gefahr-a-fbee27bb-c6c4-4431-ae4a-df2063389ff7#ref=rss)
-* [https://www.spiegel.de/kultur/tv/ampel-aus-bei-hart-aber-fair-wahlkampf-im-sandkasten](https://www.spiegel.de/kultur/tv/ampel-aus-bei-hart-aber-fair-wahlkampf-im-sandkasten-a-fd091cca-cb49-4c9a-984e-6656b97fadc5#ref=rss)
-### news
+* [https://www.spiegel.de/politik/deutschland/aussenpolitik-nach-ampel-aus-deutsche-wollen-mehr-geld-fuer-europaeische-sicherheit-ausgeben](https://www.spiegel.de/politik/deutschland/aussenpolitik-nach-ampel-aus-deutsche-wollen-mehr-geld-fuer-europaeische-sicherheit-ausgeben-a-6a69da98-20b2-4839-b031-84499cac892f#ref=rss)
+### wüst
 
 * [https://www.spiegel.de/politik/ampel-aus-news-heute-cdu-generalsekretaer-verspricht-klarheit-in-den-naechsten-stunden-ueber-neuwahltermin](https://www.spiegel.de/politik/ampel-aus-news-heute-cdu-generalsekretaer-verspricht-klarheit-in-den-naechsten-stunden-ueber-neuwahltermin-a-b1b20a9b-643a-4407-b8a8-830bc4ead467#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-soli-zuschlag-vor-gericht-donald-trump-immunitaet-shell-klima](https://www.spiegel.de/politik/deutschland/news-soli-zuschlag-vor-gericht-donald-trump-immunitaet-shell-klima-a-299cfa4b-979d-47da-929d-c58198d17c0e#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/wirtschaft/vodafone-ende-des-nebenkostenprivilegs-zwei-millionen-fernseh-kunden-kehren-dem-konzern-den-ruecken](https://www.spiegel.de/wirtschaft/vodafone-ende-des-nebenkostenprivilegs-zwei-millionen-fernseh-kunden-kehren-dem-konzern-den-ruecken-a-e4873645-4be2-41f2-82d6-76acedd000c5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/ig-metall-tarifabschluss-in-der-metallindustrie-5-5-prozent-mehr-lohn](https://www.spiegel.de/wirtschaft/soziales/ig-metall-tarifabschluss-in-der-metallindustrie-5-5-prozent-mehr-lohn-a-0eff4f20-2f0c-4d87-a76a-66f8abcc3834#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/nahostkonflikt-israels-verteidigungsminister-israel-katz-lehnt-waffenruhe-im-libanon-ab](https://www.spiegel.de/ausland/nahostkonflikt-israels-verteidigungsminister-israel-katz-lehnt-waffenruhe-im-libanon-ab-a-e0c70681-7be1-4591-94fa-489f58ed415f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/frugalismus-mit-45-in-den-ruhestand-kann-das-klappen](https://www.spiegel.de/wirtschaft/service/frugalismus-mit-45-in-den-ruhestand-kann-das-klappen-a-944776e4-f48d-4e11-8304-e4b9ade6f3ca#ref=rss)
-* [https://www.spiegel.de/ausland/neuseeland-premier-entschuldigt-sich-bei-hunderttausenden-missbrauchsopfern](https://www.spiegel.de/ausland/neuseeland-premier-entschuldigt-sich-bei-hunderttausenden-missbrauchsopfern-a-18a8613c-a70a-4b6d-8038-51403ac52690#ref=rss)
-### of
-
-* [https://www.spiegel.de/netzwelt/games/call-of-duty-zelda-und-co-wie-erfahre-ich-wie-lang-das-durchspielen-dauert](https://www.spiegel.de/netzwelt/games/call-of-duty-zelda-und-co-wie-erfahre-ich-wie-lang-das-durchspielen-dauert-a-182cb573-81c1-479a-b68b-7b8041d87155#ref=rss)
-* [https://www.spiegel.de/panorama/leute/gary-lineker-britische-medien-spekulieren-ueber-show-ende-von-bbc-sportkommentator](https://www.spiegel.de/panorama/leute/gary-lineker-britische-medien-spekulieren-ueber-show-ende-von-bbc-sportkommentator-a-ae82d8c8-4b6c-4091-b8cb-7dea1032a754#ref=rss)
-### premier
-
-* [https://www.spiegel.de/sport/fussball/premier-league-schiedsrichter-david-coote-beleidigt-juergen-klopp-und-wird-suspendiert](https://www.spiegel.de/sport/fussball/premier-league-schiedsrichter-david-coote-beleidigt-juergen-klopp-und-wird-suspendiert-a-1bb3b9c2-8640-479e-ba30-f4a86cfb112e#ref=rss)
-* [https://www.spiegel.de/ausland/neuseeland-premier-entschuldigt-sich-bei-hunderttausenden-missbrauchsopfern](https://www.spiegel.de/ausland/neuseeland-premier-entschuldigt-sich-bei-hunderttausenden-missbrauchsopfern-a-18a8613c-a70a-4b6d-8038-51403ac52690#ref=rss)
-### viele
-
-* [https://www.spiegel.de/wirtschaft/soziales/ig-metall-tarifabschluss-in-der-metallindustrie-5-5-prozent-mehr-lohn](https://www.spiegel.de/wirtschaft/soziales/ig-metall-tarifabschluss-in-der-metallindustrie-5-5-prozent-mehr-lohn-a-0eff4f20-2f0c-4d87-a76a-66f8abcc3834#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-deutsche-bank-reduziert-heimarbeit-auf-zwei-tage-pro-woche](https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-deutsche-bank-reduziert-heimarbeit-auf-zwei-tage-pro-woche-a-1c029613-e58e-4aec-98e9-77c8344b82cf#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/frugalismus-mit-45-in-den-ruhestand-kann-das-klappen](https://www.spiegel.de/wirtschaft/service/frugalismus-mit-45-in-den-ruhestand-kann-das-klappen-a-944776e4-f48d-4e11-8304-e4b9ade6f3ca#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/soziales/deutsche-bahn-gewerkschaft-sieht-nach-ampel-aus-netzsanierung-in-gefahr](https://www.spiegel.de/wirtschaft/soziales/deutsche-bahn-gewerkschaft-sieht-nach-ampel-aus-netzsanierung-in-gefahr-a-fbee27bb-c6c4-4431-ae4a-df2063389ff7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-deutsche-bank-reduziert-heimarbeit-auf-zwei-tage-pro-woche](https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-deutsche-bank-reduziert-heimarbeit-auf-zwei-tage-pro-woche-a-1c029613-e58e-4aec-98e9-77c8344b82cf#ref=rss)
-### zverev
-
-* [https://www.spiegel.de/sport/tennis/alexander-zverev-bei-den-atp-finals-25-prozent-seiner-lunge-funktionierten-nicht](https://www.spiegel.de/sport/tennis/alexander-zverev-bei-den-atp-finals-25-prozent-seiner-lunge-funktionierten-nicht-a-0987efbe-e388-46b3-9079-a6162251d2fd#ref=rss)
-### donald
-
-* [https://www.spiegel.de/politik/deutschland/news-soli-zuschlag-vor-gericht-donald-trump-immunitaet-shell-klima](https://www.spiegel.de/politik/deutschland/news-soli-zuschlag-vor-gericht-donald-trump-immunitaet-shell-klima-a-299cfa4b-979d-47da-929d-c58198d17c0e#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-marco-rubio-soll-wohl-aussenminister-werden-mike-waltz-sicherheitsberater](https://www.spiegel.de/ausland/donald-trump-marco-rubio-soll-wohl-aussenminister-werden-mike-waltz-sicherheitsberater-a-044a0e04-efcd-4e51-b37a-a10dba778509#ref=rss)
-### hass
-
-* [https://www.spiegel.de/panorama/justiz/antisemitismus-und-hass-im-internet-polizei-durchsucht-dutzende-gebaeude-in-deutschland](https://www.spiegel.de/panorama/justiz/antisemitismus-und-hass-im-internet-polizei-durchsucht-dutzende-gebaeude-in-deutschland-a-1a1e3c53-7498-4620-af9e-3d89d823cf4d#ref=rss)
-### internet
-
-* [https://www.spiegel.de/panorama/justiz/antisemitismus-und-hass-im-internet-polizei-durchsucht-dutzende-gebaeude-in-deutschland](https://www.spiegel.de/panorama/justiz/antisemitismus-und-hass-im-internet-polizei-durchsucht-dutzende-gebaeude-in-deutschland-a-1a1e3c53-7498-4620-af9e-3d89d823cf4d#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/panorama/justiz/antisemitismus-und-hass-im-internet-polizei-durchsucht-dutzende-gebaeude-in-deutschland](https://www.spiegel.de/panorama/justiz/antisemitismus-und-hass-im-internet-polizei-durchsucht-dutzende-gebaeude-in-deutschland-a-1a1e3c53-7498-4620-af9e-3d89d823cf4d#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/bsi-lagebericht-cyberkriminelle-sind-professionell-aggressiv-und-haben-leistungsfaehigere-technik](https://www.spiegel.de/netzwelt/netzpolitik/bsi-lagebericht-cyberkriminelle-sind-professionell-aggressiv-und-haben-leistungsfaehigere-technik-a-e379302d-6f64-41f4-a0da-c0d7eb482557#ref=rss)
-### antisemitischen
-
-* [https://www.spiegel.de/panorama/justiz/antisemitismus-und-hass-im-internet-polizei-durchsucht-dutzende-gebaeude-in-deutschland](https://www.spiegel.de/panorama/justiz/antisemitismus-und-hass-im-internet-polizei-durchsucht-dutzende-gebaeude-in-deutschland-a-1a1e3c53-7498-4620-af9e-3d89d823cf4d#ref=rss)
-### zuletzt
-
-* [https://www.spiegel.de/panorama/justiz/antisemitismus-und-hass-im-internet-polizei-durchsucht-dutzende-gebaeude-in-deutschland](https://www.spiegel.de/panorama/justiz/antisemitismus-und-hass-im-internet-polizei-durchsucht-dutzende-gebaeude-in-deutschland-a-1a1e3c53-7498-4620-af9e-3d89d823cf4d#ref=rss)
-* [https://www.spiegel.de/sport/tennis/alexander-zverev-bei-den-atp-finals-25-prozent-seiner-lunge-funktionierten-nicht](https://www.spiegel.de/sport/tennis/alexander-zverev-bei-den-atp-finals-25-prozent-seiner-lunge-funktionierten-nicht-a-0987efbe-e388-46b3-9079-a6162251d2fd#ref=rss)
-### 20jahrestief
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/bayer-aktie-auf-20-jahres-tief-milliardenverlust-belastet-den-konzern](https://www.spiegel.de/wirtschaft/unternehmen/bayer-aktie-auf-20-jahres-tief-milliardenverlust-belastet-den-konzern-a-51d8606c-a1b3-4dd9-afaa-94d026f3720c#ref=rss)
-### belastet
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/bayer-aktie-auf-20-jahres-tief-milliardenverlust-belastet-den-konzern](https://www.spiegel.de/wirtschaft/unternehmen/bayer-aktie-auf-20-jahres-tief-milliardenverlust-belastet-den-konzern-a-51d8606c-a1b3-4dd9-afaa-94d026f3720c#ref=rss)
-### christian
-
-* [https://www.spiegel.de/politik/fdp-chef-christian-lindner-ueber-seinen-rauswurf-ich-finde-dass-der-stil-in-der-demokratie-gewahrt-werden-muss-spiegel-tv](https://www.spiegel.de/politik/fdp-chef-christian-lindner-ueber-seinen-rauswurf-ich-finde-dass-der-stil-in-der-demokratie-gewahrt-werden-muss-spiegel-tv-a-7be9b374-d15d-4731-a8ae-10b7b39cb399#ref=rss)
-### lindner
-
-* [https://www.spiegel.de/politik/fdp-chef-christian-lindner-ueber-seinen-rauswurf-ich-finde-dass-der-stil-in-der-demokratie-gewahrt-werden-muss-spiegel-tv](https://www.spiegel.de/politik/fdp-chef-christian-lindner-ueber-seinen-rauswurf-ich-finde-dass-der-stil-in-der-demokratie-gewahrt-werden-muss-spiegel-tv-a-7be9b374-d15d-4731-a8ae-10b7b39cb399#ref=rss)
-### ich
-
-* [https://www.spiegel.de/politik/fdp-chef-christian-lindner-ueber-seinen-rauswurf-ich-finde-dass-der-stil-in-der-demokratie-gewahrt-werden-muss-spiegel-tv](https://www.spiegel.de/politik/fdp-chef-christian-lindner-ueber-seinen-rauswurf-ich-finde-dass-der-stil-in-der-demokratie-gewahrt-werden-muss-spiegel-tv-a-7be9b374-d15d-4731-a8ae-10b7b39cb399#ref=rss)
-* [https://www.spiegel.de/netzwelt/games/call-of-duty-zelda-und-co-wie-erfahre-ich-wie-lang-das-durchspielen-dauert](https://www.spiegel.de/netzwelt/games/call-of-duty-zelda-und-co-wie-erfahre-ich-wie-lang-das-durchspielen-dauert-a-182cb573-81c1-479a-b68b-7b8041d87155#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/politik/fdp-chef-christian-lindner-ueber-seinen-rauswurf-ich-finde-dass-der-stil-in-der-demokratie-gewahrt-werden-muss-spiegel-tv](https://www.spiegel.de/politik/fdp-chef-christian-lindner-ueber-seinen-rauswurf-ich-finde-dass-der-stil-in-der-demokratie-gewahrt-werden-muss-spiegel-tv-a-7be9b374-d15d-4731-a8ae-10b7b39cb399#ref=rss)
-* [https://www.spiegel.de/netzwelt/games/call-of-duty-zelda-und-co-wie-erfahre-ich-wie-lang-das-durchspielen-dauert](https://www.spiegel.de/netzwelt/games/call-of-duty-zelda-und-co-wie-erfahre-ich-wie-lang-das-durchspielen-dauert-a-182cb573-81c1-479a-b68b-7b8041d87155#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/politik/fdp-chef-christian-lindner-ueber-seinen-rauswurf-ich-finde-dass-der-stil-in-der-demokratie-gewahrt-werden-muss-spiegel-tv](https://www.spiegel.de/politik/fdp-chef-christian-lindner-ueber-seinen-rauswurf-ich-finde-dass-der-stil-in-der-demokratie-gewahrt-werden-muss-spiegel-tv-a-7be9b374-d15d-4731-a8ae-10b7b39cb399#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/computerfaehigkeiten-von-achtklaesslern-neue-studie-zeigt-alarmierende-ergebnisse](https://www.spiegel.de/panorama/bildung/computerfaehigkeiten-von-achtklaesslern-neue-studie-zeigt-alarmierende-ergebnisse-a-6b838b8c-436c-42ee-9b36-e5cbd614ffc0#ref=rss)
-### wochen
-
-* [https://www.spiegel.de/politik/fdp-chef-christian-lindner-ueber-seinen-rauswurf-ich-finde-dass-der-stil-in-der-demokratie-gewahrt-werden-muss-spiegel-tv](https://www.spiegel.de/politik/fdp-chef-christian-lindner-ueber-seinen-rauswurf-ich-finde-dass-der-stil-in-der-demokratie-gewahrt-werden-muss-spiegel-tv-a-7be9b374-d15d-4731-a8ae-10b7b39cb399#ref=rss)
-* [https://www.spiegel.de/netzwelt/games/call-of-duty-zelda-und-co-wie-erfahre-ich-wie-lang-das-durchspielen-dauert](https://www.spiegel.de/netzwelt/games/call-of-duty-zelda-und-co-wie-erfahre-ich-wie-lang-das-durchspielen-dauert-a-182cb573-81c1-479a-b68b-7b8041d87155#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/politik/fdp-chef-christian-lindner-ueber-seinen-rauswurf-ich-finde-dass-der-stil-in-der-demokratie-gewahrt-werden-muss-spiegel-tv](https://www.spiegel.de/politik/fdp-chef-christian-lindner-ueber-seinen-rauswurf-ich-finde-dass-der-stil-in-der-demokratie-gewahrt-werden-muss-spiegel-tv-a-7be9b374-d15d-4731-a8ae-10b7b39cb399#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/geld-sparen-jeder-sollte-einen-konsumtopf-haben-den-er-lustvoll-versaufen-kann](https://www.spiegel.de/wirtschaft/service/geld-sparen-jeder-sollte-einen-konsumtopf-haben-den-er-lustvoll-versaufen-kann-a-71ad6974-5957-47c3-b14b-6bd6fe72290d#ref=rss)
-### bijan
-
-* [https://www.spiegel.de/politik/deutschland/bijan-djir-sarai-fdp-generalsekretaer-im-gespraech-nach-dem-ende-der-ampelkoalition](https://www.spiegel.de/politik/deutschland/bijan-djir-sarai-fdp-generalsekretaer-im-gespraech-nach-dem-ende-der-ampelkoalition-a-f3f9a1c3-52c5-4efb-9c28-526056b5192e#ref=rss)
-### djirsarai
-
-* [https://www.spiegel.de/politik/deutschland/bijan-djir-sarai-fdp-generalsekretaer-im-gespraech-nach-dem-ende-der-ampelkoalition](https://www.spiegel.de/politik/deutschland/bijan-djir-sarai-fdp-generalsekretaer-im-gespraech-nach-dem-ende-der-ampelkoalition-a-f3f9a1c3-52c5-4efb-9c28-526056b5192e#ref=rss)
-### fdpgeneralsekretär
-
-* [https://www.spiegel.de/politik/deutschland/bijan-djir-sarai-fdp-generalsekretaer-im-gespraech-nach-dem-ende-der-ampelkoalition](https://www.spiegel.de/politik/deutschland/bijan-djir-sarai-fdp-generalsekretaer-im-gespraech-nach-dem-ende-der-ampelkoalition-a-f3f9a1c3-52c5-4efb-9c28-526056b5192e#ref=rss)
-### gespräch
-
-* [https://www.spiegel.de/politik/deutschland/bijan-djir-sarai-fdp-generalsekretaer-im-gespraech-nach-dem-ende-der-ampelkoalition](https://www.spiegel.de/politik/deutschland/bijan-djir-sarai-fdp-generalsekretaer-im-gespraech-nach-dem-ende-der-ampelkoalition-a-f3f9a1c3-52c5-4efb-9c28-526056b5192e#ref=rss)
-### ampel
-
-* [https://www.spiegel.de/politik/deutschland/bijan-djir-sarai-fdp-generalsekretaer-im-gespraech-nach-dem-ende-der-ampelkoalition](https://www.spiegel.de/politik/deutschland/bijan-djir-sarai-fdp-generalsekretaer-im-gespraech-nach-dem-ende-der-ampelkoalition-a-f3f9a1c3-52c5-4efb-9c28-526056b5192e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/deutsche-bahn-gewerkschaft-sieht-nach-ampel-aus-netzsanierung-in-gefahr](https://www.spiegel.de/wirtschaft/soziales/deutsche-bahn-gewerkschaft-sieht-nach-ampel-aus-netzsanierung-in-gefahr-a-fbee27bb-c6c4-4431-ae4a-df2063389ff7#ref=rss)
-### trumps
-
-* [https://www.spiegel.de/politik/deutschland/bijan-djir-sarai-fdp-generalsekretaer-im-gespraech-nach-dem-ende-der-ampelkoalition](https://www.spiegel.de/politik/deutschland/bijan-djir-sarai-fdp-generalsekretaer-im-gespraech-nach-dem-ende-der-ampelkoalition-a-f3f9a1c3-52c5-4efb-9c28-526056b5192e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-soli-zuschlag-vor-gericht-donald-trump-immunitaet-shell-klima](https://www.spiegel.de/politik/deutschland/news-soli-zuschlag-vor-gericht-donald-trump-immunitaet-shell-klima-a-299cfa4b-979d-47da-929d-c58198d17c0e#ref=rss)
-### cop29
-
-* [https://www.spiegel.de/ausland/klimakonferenz-cop29-aserbaidschans-schmutzige-klima-show](https://www.spiegel.de/ausland/klimakonferenz-cop29-aserbaidschans-schmutzige-klima-show-a-c3e229cb-2949-4b85-b3c1-a2865ddfda50#ref=rss)
-* [https://www.spiegel.de/ausland/cop29-in-baku-solche-klimakonferenzen-braucht-niemand-mehr-kommentar](https://www.spiegel.de/ausland/cop29-in-baku-solche-klimakonferenzen-braucht-niemand-mehr-kommentar-a-43c15b25-a585-498d-94b5-bc9644e5e526#ref=rss)
-### cyberkriminelle
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/bsi-lagebericht-cyberkriminelle-sind-professionell-aggressiv-und-haben-leistungsfaehigere-technik](https://www.spiegel.de/netzwelt/netzpolitik/bsi-lagebericht-cyberkriminelle-sind-professionell-aggressiv-und-haben-leistungsfaehigere-technik-a-e379302d-6f64-41f4-a0da-c0d7eb482557#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/bsi-lagebericht-cyberkriminelle-sind-professionell-aggressiv-und-haben-leistungsfaehigere-technik](https://www.spiegel.de/netzwelt/netzpolitik/bsi-lagebericht-cyberkriminelle-sind-professionell-aggressiv-und-haben-leistungsfaehigere-technik-a-e379302d-6f64-41f4-a0da-c0d7eb482557#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/computerfaehigkeiten-von-achtklaesslern-neue-studie-zeigt-alarmierende-ergebnisse](https://www.spiegel.de/panorama/bildung/computerfaehigkeiten-von-achtklaesslern-neue-studie-zeigt-alarmierende-ergebnisse-a-6b838b8c-436c-42ee-9b36-e5cbd614ffc0#ref=rss)
-### uss
-
-* [https://www.spiegel.de/panorama/uss-edsal-wrack-des-us-kriegsschiffs-the-dancing-mouse-aus-dem-zweiten-weltkrieg-identifiziert](https://www.spiegel.de/panorama/uss-edsal-wrack-des-us-kriegsschiffs-the-dancing-mouse-aus-dem-zweiten-weltkrieg-identifiziert-a-d5fec7ae-dbd1-4cb7-8200-55bbbed68d81#ref=rss)
-### zweiten
-
-* [https://www.spiegel.de/panorama/uss-edsal-wrack-des-us-kriegsschiffs-the-dancing-mouse-aus-dem-zweiten-weltkrieg-identifiziert](https://www.spiegel.de/panorama/uss-edsal-wrack-des-us-kriegsschiffs-the-dancing-mouse-aus-dem-zweiten-weltkrieg-identifiziert-a-d5fec7ae-dbd1-4cb7-8200-55bbbed68d81#ref=rss)
-### weltkrieg
-
-* [https://www.spiegel.de/panorama/uss-edsal-wrack-des-us-kriegsschiffs-the-dancing-mouse-aus-dem-zweiten-weltkrieg-identifiziert](https://www.spiegel.de/panorama/uss-edsal-wrack-des-us-kriegsschiffs-the-dancing-mouse-aus-dem-zweiten-weltkrieg-identifiziert-a-d5fec7ae-dbd1-4cb7-8200-55bbbed68d81#ref=rss)
-### marine
-
-* [https://www.spiegel.de/panorama/uss-edsal-wrack-des-us-kriegsschiffs-the-dancing-mouse-aus-dem-zweiten-weltkrieg-identifiziert](https://www.spiegel.de/panorama/uss-edsal-wrack-des-us-kriegsschiffs-the-dancing-mouse-aus-dem-zweiten-weltkrieg-identifiziert-a-d5fec7ae-dbd1-4cb7-8200-55bbbed68d81#ref=rss)
-* [https://www.spiegel.de/ausland/russland-russische-fregatte-mit-hyperschallraketen-absolviert-manoever-im-aermelkanal](https://www.spiegel.de/ausland/russland-russische-fregatte-mit-hyperschallraketen-absolviert-manoever-im-aermelkanal-a-3cafe963-f130-4438-92d1-d246465210d9#ref=rss)
-### botschafter
-
-* [https://www.spiegel.de/ausland/israel-deutscher-botschafter-steffen-seibert-kritisiert-annexionsplaene-von-westjordanland](https://www.spiegel.de/ausland/israel-deutscher-botschafter-steffen-seibert-kritisiert-annexionsplaene-von-westjordanland-a-27b5e901-2d48-4dbf-b903-6f3b58684a4f#ref=rss)
-### steffen
-
-* [https://www.spiegel.de/ausland/israel-deutscher-botschafter-steffen-seibert-kritisiert-annexionsplaene-von-westjordanland](https://www.spiegel.de/ausland/israel-deutscher-botschafter-steffen-seibert-kritisiert-annexionsplaene-von-westjordanland-a-27b5e901-2d48-4dbf-b903-6f3b58684a4f#ref=rss)
-### seibert
-
-* [https://www.spiegel.de/ausland/israel-deutscher-botschafter-steffen-seibert-kritisiert-annexionsplaene-von-westjordanland](https://www.spiegel.de/ausland/israel-deutscher-botschafter-steffen-seibert-kritisiert-annexionsplaene-von-westjordanland-a-27b5e901-2d48-4dbf-b903-6f3b58684a4f#ref=rss)
-### kritisiert
-
-* [https://www.spiegel.de/ausland/israel-deutscher-botschafter-steffen-seibert-kritisiert-annexionsplaene-von-westjordanland](https://www.spiegel.de/ausland/israel-deutscher-botschafter-steffen-seibert-kritisiert-annexionsplaene-von-westjordanland-a-27b5e901-2d48-4dbf-b903-6f3b58684a4f#ref=rss)
-### westjordanland
-
-* [https://www.spiegel.de/ausland/israel-deutscher-botschafter-steffen-seibert-kritisiert-annexionsplaene-von-westjordanland](https://www.spiegel.de/ausland/israel-deutscher-botschafter-steffen-seibert-kritisiert-annexionsplaene-von-westjordanland-a-27b5e901-2d48-4dbf-b903-6f3b58684a4f#ref=rss)
-### dwayne
-
-* [https://www.spiegel.de/kultur/kino/dwayne-johnson-pinkelt-am-set-in-flaschen-gelegentlich](https://www.spiegel.de/kultur/kino/dwayne-johnson-pinkelt-am-set-in-flaschen-gelegentlich-a-7b0364df-28e5-4929-bf3d-298c782b8fb5#ref=rss)
-### vodafone
-
-* [https://www.spiegel.de/wirtschaft/vodafone-ende-des-nebenkostenprivilegs-zwei-millionen-fernseh-kunden-kehren-dem-konzern-den-ruecken](https://www.spiegel.de/wirtschaft/vodafone-ende-des-nebenkostenprivilegs-zwei-millionen-fernseh-kunden-kehren-dem-konzern-den-ruecken-a-e4873645-4be2-41f2-82d6-76acedd000c5#ref=rss)
-### rücken
-
-* [https://www.spiegel.de/wirtschaft/vodafone-ende-des-nebenkostenprivilegs-zwei-millionen-fernseh-kunden-kehren-dem-konzern-den-ruecken](https://www.spiegel.de/wirtschaft/vodafone-ende-des-nebenkostenprivilegs-zwei-millionen-fernseh-kunden-kehren-dem-konzern-den-ruecken-a-e4873645-4be2-41f2-82d6-76acedd000c5#ref=rss)
-### israels
-
-* [https://www.spiegel.de/ausland/nahostkonflikt-israels-verteidigungsminister-israel-katz-lehnt-waffenruhe-im-libanon-ab](https://www.spiegel.de/ausland/nahostkonflikt-israels-verteidigungsminister-israel-katz-lehnt-waffenruhe-im-libanon-ab-a-e0c70681-7be1-4591-94fa-489f58ed415f#ref=rss)
-### verteidigungsminister
-
-* [https://www.spiegel.de/ausland/nahostkonflikt-israels-verteidigungsminister-israel-katz-lehnt-waffenruhe-im-libanon-ab](https://www.spiegel.de/ausland/nahostkonflikt-israels-verteidigungsminister-israel-katz-lehnt-waffenruhe-im-libanon-ab-a-e0c70681-7be1-4591-94fa-489f58ed415f#ref=rss)
-### libanon
-
-* [https://www.spiegel.de/ausland/nahostkonflikt-israels-verteidigungsminister-israel-katz-lehnt-waffenruhe-im-libanon-ab](https://www.spiegel.de/ausland/nahostkonflikt-israels-verteidigungsminister-israel-katz-lehnt-waffenruhe-im-libanon-ab-a-e0c70681-7be1-4591-94fa-489f58ed415f#ref=rss)
-### stark
-
-* [https://www.spiegel.de/netzwelt/games/call-of-duty-zelda-und-co-wie-erfahre-ich-wie-lang-das-durchspielen-dauert](https://www.spiegel.de/netzwelt/games/call-of-duty-zelda-und-co-wie-erfahre-ich-wie-lang-das-durchspielen-dauert-a-182cb573-81c1-479a-b68b-7b8041d87155#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-deutsche-bank-reduziert-heimarbeit-auf-zwei-tage-pro-woche](https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-deutsche-bank-reduziert-heimarbeit-auf-zwei-tage-pro-woche-a-1c029613-e58e-4aec-98e9-77c8344b82cf#ref=rss)
-### schiedsrichter
-
-* [https://www.spiegel.de/sport/fussball/premier-league-schiedsrichter-david-coote-beleidigt-juergen-klopp-und-wird-suspendiert](https://www.spiegel.de/sport/fussball/premier-league-schiedsrichter-david-coote-beleidigt-juergen-klopp-und-wird-suspendiert-a-1bb3b9c2-8640-479e-ba30-f4a86cfb112e#ref=rss)
-### david
-
-* [https://www.spiegel.de/sport/fussball/premier-league-schiedsrichter-david-coote-beleidigt-juergen-klopp-und-wird-suspendiert](https://www.spiegel.de/sport/fussball/premier-league-schiedsrichter-david-coote-beleidigt-juergen-klopp-und-wird-suspendiert-a-1bb3b9c2-8640-479e-ba30-f4a86cfb112e#ref=rss)
-### coote
-
-* [https://www.spiegel.de/sport/fussball/premier-league-schiedsrichter-david-coote-beleidigt-juergen-klopp-und-wird-suspendiert](https://www.spiegel.de/sport/fussball/premier-league-schiedsrichter-david-coote-beleidigt-juergen-klopp-und-wird-suspendiert-a-1bb3b9c2-8640-479e-ba30-f4a86cfb112e#ref=rss)
-### jürgen
-
-* [https://www.spiegel.de/sport/fussball/premier-league-schiedsrichter-david-coote-beleidigt-juergen-klopp-und-wird-suspendiert](https://www.spiegel.de/sport/fussball/premier-league-schiedsrichter-david-coote-beleidigt-juergen-klopp-und-wird-suspendiert-a-1bb3b9c2-8640-479e-ba30-f4a86cfb112e#ref=rss)
-### klopp
-
-* [https://www.spiegel.de/sport/fussball/premier-league-schiedsrichter-david-coote-beleidigt-juergen-klopp-und-wird-suspendiert](https://www.spiegel.de/sport/fussball/premier-league-schiedsrichter-david-coote-beleidigt-juergen-klopp-und-wird-suspendiert-a-1bb3b9c2-8640-479e-ba30-f4a86cfb112e#ref=rss)
-### daran
-
-* [https://www.spiegel.de/sport/fussball/premier-league-schiedsrichter-david-coote-beleidigt-juergen-klopp-und-wird-suspendiert](https://www.spiegel.de/sport/fussball/premier-league-schiedsrichter-david-coote-beleidigt-juergen-klopp-und-wird-suspendiert-a-1bb3b9c2-8640-479e-ba30-f4a86cfb112e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-deutsche-bank-reduziert-heimarbeit-auf-zwei-tage-pro-woche](https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-deutsche-bank-reduziert-heimarbeit-auf-zwei-tage-pro-woche-a-1c029613-e58e-4aec-98e9-77c8344b82cf#ref=rss)
-### bald
-
-* [https://www.spiegel.de/sport/fussball/premier-league-schiedsrichter-david-coote-beleidigt-juergen-klopp-und-wird-suspendiert](https://www.spiegel.de/sport/fussball/premier-league-schiedsrichter-david-coote-beleidigt-juergen-klopp-und-wird-suspendiert-a-1bb3b9c2-8640-479e-ba30-f4a86cfb112e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/deutsche-bahn-gewerkschaft-sieht-nach-ampel-aus-netzsanierung-in-gefahr](https://www.spiegel.de/wirtschaft/soziales/deutsche-bahn-gewerkschaft-sieht-nach-ampel-aus-netzsanierung-in-gefahr-a-fbee27bb-c6c4-4431-ae4a-df2063389ff7#ref=rss)
-### spiel
-
-* [https://www.spiegel.de/sport/fussball/premier-league-schiedsrichter-david-coote-beleidigt-juergen-klopp-und-wird-suspendiert](https://www.spiegel.de/sport/fussball/premier-league-schiedsrichter-david-coote-beleidigt-juergen-klopp-und-wird-suspendiert-a-1bb3b9c2-8640-479e-ba30-f4a86cfb112e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/deutsche-bahn-gewerkschaft-sieht-nach-ampel-aus-netzsanierung-in-gefahr](https://www.spiegel.de/wirtschaft/soziales/deutsche-bahn-gewerkschaft-sieht-nach-ampel-aus-netzsanierung-in-gefahr-a-fbee27bb-c6c4-4431-ae4a-df2063389ff7#ref=rss)
-### ergebnisse
-
-* [https://www.spiegel.de/panorama/bildung/computerfaehigkeiten-von-achtklaesslern-neue-studie-zeigt-alarmierende-ergebnisse](https://www.spiegel.de/panorama/bildung/computerfaehigkeiten-von-achtklaesslern-neue-studie-zeigt-alarmierende-ergebnisse-a-6b838b8c-436c-42ee-9b36-e5cbd614ffc0#ref=rss)
-### sollte
-
-* [https://www.spiegel.de/ausland/cop29-in-baku-solche-klimakonferenzen-braucht-niemand-mehr-kommentar](https://www.spiegel.de/ausland/cop29-in-baku-solche-klimakonferenzen-braucht-niemand-mehr-kommentar-a-43c15b25-a585-498d-94b5-bc9644e5e526#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/geld-sparen-jeder-sollte-einen-konsumtopf-haben-den-er-lustvoll-versaufen-kann](https://www.spiegel.de/wirtschaft/service/geld-sparen-jeder-sollte-einen-konsumtopf-haben-den-er-lustvoll-versaufen-kann-a-71ad6974-5957-47c3-b14b-6bd6fe72290d#ref=rss)
-### amsterdam
-
-* [https://www.spiegel.de/ausland/amsterdam-erneut-krawalle-randalierer-zuenden-strassenbahn-an](https://www.spiegel.de/ausland/amsterdam-erneut-krawalle-randalierer-zuenden-strassenbahn-an-a-966d4714-709f-4595-abe1-a9b9f770ce3b#ref=rss)
-### straßenbahn
-
-* [https://www.spiegel.de/ausland/amsterdam-erneut-krawalle-randalierer-zuenden-strassenbahn-an](https://www.spiegel.de/ausland/amsterdam-erneut-krawalle-randalierer-zuenden-strassenbahn-an-a-966d4714-709f-4595-abe1-a9b9f770ce3b#ref=rss)
-### woche
-
-* [https://www.spiegel.de/ausland/amsterdam-erneut-krawalle-randalierer-zuenden-strassenbahn-an](https://www.spiegel.de/ausland/amsterdam-erneut-krawalle-randalierer-zuenden-strassenbahn-an-a-966d4714-709f-4595-abe1-a9b9f770ce3b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-deutsche-bank-reduziert-heimarbeit-auf-zwei-tage-pro-woche](https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-deutsche-bank-reduziert-heimarbeit-auf-zwei-tage-pro-woche-a-1c029613-e58e-4aec-98e9-77c8344b82cf#ref=rss)
-### gary
-
-* [https://www.spiegel.de/panorama/leute/gary-lineker-britische-medien-spekulieren-ueber-show-ende-von-bbc-sportkommentator](https://www.spiegel.de/panorama/leute/gary-lineker-britische-medien-spekulieren-ueber-show-ende-von-bbc-sportkommentator-a-ae82d8c8-4b6c-4091-b8cb-7dea1032a754#ref=rss)
-### lineker
-
-* [https://www.spiegel.de/panorama/leute/gary-lineker-britische-medien-spekulieren-ueber-show-ende-von-bbc-sportkommentator](https://www.spiegel.de/panorama/leute/gary-lineker-britische-medien-spekulieren-ueber-show-ende-von-bbc-sportkommentator-a-ae82d8c8-4b6c-4091-b8cb-7dea1032a754#ref=rss)
-### beendet
-
-* [https://www.spiegel.de/panorama/leute/gary-lineker-britische-medien-spekulieren-ueber-show-ende-von-bbc-sportkommentator](https://www.spiegel.de/panorama/leute/gary-lineker-britische-medien-spekulieren-ueber-show-ende-von-bbc-sportkommentator-a-ae82d8c8-4b6c-4091-b8cb-7dea1032a754#ref=rss)
-### match
-
-* [https://www.spiegel.de/panorama/leute/gary-lineker-britische-medien-spekulieren-ueber-show-ende-von-bbc-sportkommentator](https://www.spiegel.de/panorama/leute/gary-lineker-britische-medien-spekulieren-ueber-show-ende-von-bbc-sportkommentator-a-ae82d8c8-4b6c-4091-b8cb-7dea1032a754#ref=rss)
-### day
-
-* [https://www.spiegel.de/panorama/leute/gary-lineker-britische-medien-spekulieren-ueber-show-ende-von-bbc-sportkommentator](https://www.spiegel.de/panorama/leute/gary-lineker-britische-medien-spekulieren-ueber-show-ende-von-bbc-sportkommentator-a-ae82d8c8-4b6c-4091-b8cb-7dea1032a754#ref=rss)
-### tarifabschluss
-
-* [https://www.spiegel.de/wirtschaft/soziales/ig-metall-tarifabschluss-in-der-metallindustrie-5-5-prozent-mehr-lohn](https://www.spiegel.de/wirtschaft/soziales/ig-metall-tarifabschluss-in-der-metallindustrie-5-5-prozent-mehr-lohn-a-0eff4f20-2f0c-4d87-a76a-66f8abcc3834#ref=rss)
-### metallindustrie
-
-* [https://www.spiegel.de/wirtschaft/soziales/ig-metall-tarifabschluss-in-der-metallindustrie-5-5-prozent-mehr-lohn](https://www.spiegel.de/wirtschaft/soziales/ig-metall-tarifabschluss-in-der-metallindustrie-5-5-prozent-mehr-lohn-a-0eff4f20-2f0c-4d87-a76a-66f8abcc3834#ref=rss)
-### prozent
-
-* [https://www.spiegel.de/wirtschaft/soziales/ig-metall-tarifabschluss-in-der-metallindustrie-5-5-prozent-mehr-lohn](https://www.spiegel.de/wirtschaft/soziales/ig-metall-tarifabschluss-in-der-metallindustrie-5-5-prozent-mehr-lohn-a-0eff4f20-2f0c-4d87-a76a-66f8abcc3834#ref=rss)
-* [https://www.spiegel.de/sport/tennis/alexander-zverev-bei-den-atp-finals-25-prozent-seiner-lunge-funktionierten-nicht](https://www.spiegel.de/sport/tennis/alexander-zverev-bei-den-atp-finals-25-prozent-seiner-lunge-funktionierten-nicht-a-0987efbe-e388-46b3-9079-a6162251d2fd#ref=rss)
-### lohn
-
-* [https://www.spiegel.de/wirtschaft/soziales/ig-metall-tarifabschluss-in-der-metallindustrie-5-5-prozent-mehr-lohn](https://www.spiegel.de/wirtschaft/soziales/ig-metall-tarifabschluss-in-der-metallindustrie-5-5-prozent-mehr-lohn-a-0eff4f20-2f0c-4d87-a76a-66f8abcc3834#ref=rss)
-### gewerkschaft
-
-* [https://www.spiegel.de/wirtschaft/soziales/ig-metall-tarifabschluss-in-der-metallindustrie-5-5-prozent-mehr-lohn](https://www.spiegel.de/wirtschaft/soziales/ig-metall-tarifabschluss-in-der-metallindustrie-5-5-prozent-mehr-lohn-a-0eff4f20-2f0c-4d87-a76a-66f8abcc3834#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/deutsche-bahn-gewerkschaft-sieht-nach-ampel-aus-netzsanierung-in-gefahr](https://www.spiegel.de/wirtschaft/soziales/deutsche-bahn-gewerkschaft-sieht-nach-ampel-aus-netzsanierung-in-gefahr-a-fbee27bb-c6c4-4431-ae4a-df2063389ff7#ref=rss)
-### beschäftigten
-
-* [https://www.spiegel.de/wirtschaft/soziales/ig-metall-tarifabschluss-in-der-metallindustrie-5-5-prozent-mehr-lohn](https://www.spiegel.de/wirtschaft/soziales/ig-metall-tarifabschluss-in-der-metallindustrie-5-5-prozent-mehr-lohn-a-0eff4f20-2f0c-4d87-a76a-66f8abcc3834#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-deutsche-bank-reduziert-heimarbeit-auf-zwei-tage-pro-woche](https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-deutsche-bank-reduziert-heimarbeit-auf-zwei-tage-pro-woche-a-1c029613-e58e-4aec-98e9-77c8344b82cf#ref=rss)
-### deutlich
-
-* [https://www.spiegel.de/wirtschaft/soziales/ig-metall-tarifabschluss-in-der-metallindustrie-5-5-prozent-mehr-lohn](https://www.spiegel.de/wirtschaft/soziales/ig-metall-tarifabschluss-in-der-metallindustrie-5-5-prozent-mehr-lohn-a-0eff4f20-2f0c-4d87-a76a-66f8abcc3834#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-deutsche-bank-reduziert-heimarbeit-auf-zwei-tage-pro-woche](https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-deutsche-bank-reduziert-heimarbeit-auf-zwei-tage-pro-woche-a-1c029613-e58e-4aec-98e9-77c8344b82cf#ref=rss)
-### tage
-
-* [https://www.spiegel.de/wirtschaft/soziales/ig-metall-tarifabschluss-in-der-metallindustrie-5-5-prozent-mehr-lohn](https://www.spiegel.de/wirtschaft/soziales/ig-metall-tarifabschluss-in-der-metallindustrie-5-5-prozent-mehr-lohn-a-0eff4f20-2f0c-4d87-a76a-66f8abcc3834#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-deutsche-bank-reduziert-heimarbeit-auf-zwei-tage-pro-woche](https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-deutsche-bank-reduziert-heimarbeit-auf-zwei-tage-pro-woche-a-1c029613-e58e-4aec-98e9-77c8344b82cf#ref=rss)
-### ärmelkanal
-
-* [https://www.spiegel.de/ausland/russland-russische-fregatte-mit-hyperschallraketen-absolviert-manoever-im-aermelkanal](https://www.spiegel.de/ausland/russland-russische-fregatte-mit-hyperschallraketen-absolviert-manoever-im-aermelkanal-a-3cafe963-f130-4438-92d1-d246465210d9#ref=rss)
-### unter
-
-* [https://www.spiegel.de/ausland/russland-russische-fregatte-mit-hyperschallraketen-absolviert-manoever-im-aermelkanal](https://www.spiegel.de/ausland/russland-russische-fregatte-mit-hyperschallraketen-absolviert-manoever-im-aermelkanal-a-3cafe963-f130-4438-92d1-d246465210d9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/frugalismus-mit-45-in-den-ruhestand-kann-das-klappen](https://www.spiegel.de/wirtschaft/service/frugalismus-mit-45-in-den-ruhestand-kann-das-klappen-a-944776e4-f48d-4e11-8304-e4b9ade6f3ca#ref=rss)
-### shell
-
-* [https://www.spiegel.de/wissenschaft/natur/shell-gewinnt-klimaschutzprozess-in-den-niederlanden-keine-verpflichtung-zu-co-reduktion](https://www.spiegel.de/wissenschaft/natur/shell-gewinnt-klimaschutzprozess-in-den-niederlanden-keine-verpflichtung-zu-co-reduktion-a-57b5127d-f2ad-48da-beaf-b2d74cc00066#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-soli-zuschlag-vor-gericht-donald-trump-immunitaet-shell-klima](https://www.spiegel.de/politik/deutschland/news-soli-zuschlag-vor-gericht-donald-trump-immunitaet-shell-klima-a-299cfa4b-979d-47da-929d-c58198d17c0e#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/wissenschaft/natur/shell-gewinnt-klimaschutzprozess-in-den-niederlanden-keine-verpflichtung-zu-co-reduktion](https://www.spiegel.de/wissenschaft/natur/shell-gewinnt-klimaschutzprozess-in-den-niederlanden-keine-verpflichtung-zu-co-reduktion-a-57b5127d-f2ad-48da-beaf-b2d74cc00066#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-soli-zuschlag-vor-gericht-donald-trump-immunitaet-shell-klima](https://www.spiegel.de/politik/deutschland/news-soli-zuschlag-vor-gericht-donald-trump-immunitaet-shell-klima-a-299cfa4b-979d-47da-929d-c58198d17c0e#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/wirtschaft/soziales/deutsche-bahn-gewerkschaft-sieht-nach-ampel-aus-netzsanierung-in-gefahr](https://www.spiegel.de/wirtschaft/soziales/deutsche-bahn-gewerkschaft-sieht-nach-ampel-aus-netzsanierung-in-gefahr-a-fbee27bb-c6c4-4431-ae4a-df2063389ff7#ref=rss)
-### alexander
-
-* [https://www.spiegel.de/sport/tennis/alexander-zverev-bei-den-atp-finals-25-prozent-seiner-lunge-funktionierten-nicht](https://www.spiegel.de/sport/tennis/alexander-zverev-bei-den-atp-finals-25-prozent-seiner-lunge-funktionierten-nicht-a-0987efbe-e388-46b3-9079-a6162251d2fd#ref=rss)
-### homeoffice
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-deutsche-bank-reduziert-heimarbeit-auf-zwei-tage-pro-woche](https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-deutsche-bank-reduziert-heimarbeit-auf-zwei-tage-pro-woche-a-1c029613-e58e-4aec-98e9-77c8344b82cf#ref=rss)
-### bank
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-deutsche-bank-reduziert-heimarbeit-auf-zwei-tage-pro-woche](https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-deutsche-bank-reduziert-heimarbeit-auf-zwei-tage-pro-woche-a-1c029613-e58e-4aec-98e9-77c8344b82cf#ref=rss)
-### allem
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-deutsche-bank-reduziert-heimarbeit-auf-zwei-tage-pro-woche](https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-deutsche-bank-reduziert-heimarbeit-auf-zwei-tage-pro-woche-a-1c029613-e58e-4aec-98e9-77c8344b82cf#ref=rss)
-* [https://www.spiegel.de/ausland/neuseeland-premier-entschuldigt-sich-bei-hunderttausenden-missbrauchsopfern](https://www.spiegel.de/ausland/neuseeland-premier-entschuldigt-sich-bei-hunderttausenden-missbrauchsopfern-a-18a8613c-a70a-4b6d-8038-51403ac52690#ref=rss)
-### sparen
-
-* [https://www.spiegel.de/wirtschaft/service/geld-sparen-jeder-sollte-einen-konsumtopf-haben-den-er-lustvoll-versaufen-kann](https://www.spiegel.de/wirtschaft/service/geld-sparen-jeder-sollte-einen-konsumtopf-haben-den-er-lustvoll-versaufen-kann-a-71ad6974-5957-47c3-b14b-6bd6fe72290d#ref=rss)
-### 45
-
-* [https://www.spiegel.de/wirtschaft/service/geld-sparen-jeder-sollte-einen-konsumtopf-haben-den-er-lustvoll-versaufen-kann](https://www.spiegel.de/wirtschaft/service/geld-sparen-jeder-sollte-einen-konsumtopf-haben-den-er-lustvoll-versaufen-kann-a-71ad6974-5957-47c3-b14b-6bd6fe72290d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/frugalismus-mit-45-in-den-ruhestand-kann-das-klappen](https://www.spiegel.de/wirtschaft/service/frugalismus-mit-45-in-den-ruhestand-kann-das-klappen-a-944776e4-f48d-4e11-8304-e4b9ade6f3ca#ref=rss)
-### frugalismus
-
-* [https://www.spiegel.de/wirtschaft/service/geld-sparen-jeder-sollte-einen-konsumtopf-haben-den-er-lustvoll-versaufen-kann](https://www.spiegel.de/wirtschaft/service/geld-sparen-jeder-sollte-einen-konsumtopf-haben-den-er-lustvoll-versaufen-kann-a-71ad6974-5957-47c3-b14b-6bd6fe72290d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/frugalismus-mit-45-in-den-ruhestand-kann-das-klappen](https://www.spiegel.de/wirtschaft/service/frugalismus-mit-45-in-den-ruhestand-kann-das-klappen-a-944776e4-f48d-4e11-8304-e4b9ade6f3ca#ref=rss)
-### solizuschlag
-
-* [https://www.spiegel.de/politik/deutschland/news-soli-zuschlag-vor-gericht-donald-trump-immunitaet-shell-klima](https://www.spiegel.de/politik/deutschland/news-soli-zuschlag-vor-gericht-donald-trump-immunitaet-shell-klima-a-299cfa4b-979d-47da-929d-c58198d17c0e#ref=rss)
-### trump
-
-* [https://www.spiegel.de/politik/deutschland/news-soli-zuschlag-vor-gericht-donald-trump-immunitaet-shell-klima](https://www.spiegel.de/politik/deutschland/news-soli-zuschlag-vor-gericht-donald-trump-immunitaet-shell-klima-a-299cfa4b-979d-47da-929d-c58198d17c0e#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-marco-rubio-soll-wohl-aussenminister-werden-mike-waltz-sicherheitsberater](https://www.spiegel.de/ausland/donald-trump-marco-rubio-soll-wohl-aussenminister-werden-mike-waltz-sicherheitsberater-a-044a0e04-efcd-4e51-b37a-a10dba778509#ref=rss)
-### immunität
-
-* [https://www.spiegel.de/politik/deutschland/news-soli-zuschlag-vor-gericht-donald-trump-immunitaet-shell-klima](https://www.spiegel.de/politik/deutschland/news-soli-zuschlag-vor-gericht-donald-trump-immunitaet-shell-klima-a-299cfa4b-979d-47da-929d-c58198d17c0e#ref=rss)
-### hart
-
-* [https://www.spiegel.de/kultur/tv/ampel-aus-bei-hart-aber-fair-wahlkampf-im-sandkasten](https://www.spiegel.de/kultur/tv/ampel-aus-bei-hart-aber-fair-wahlkampf-im-sandkasten-a-fd091cca-cb49-4c9a-984e-6656b97fadc5#ref=rss)
-### fair
-
-* [https://www.spiegel.de/kultur/tv/ampel-aus-bei-hart-aber-fair-wahlkampf-im-sandkasten](https://www.spiegel.de/kultur/tv/ampel-aus-bei-hart-aber-fair-wahlkampf-im-sandkasten-a-fd091cca-cb49-4c9a-984e-6656b97fadc5#ref=rss)
 ### wahlkampf
 
-* [https://www.spiegel.de/kultur/tv/ampel-aus-bei-hart-aber-fair-wahlkampf-im-sandkasten](https://www.spiegel.de/kultur/tv/ampel-aus-bei-hart-aber-fair-wahlkampf-im-sandkasten-a-fd091cca-cb49-4c9a-984e-6656b97fadc5#ref=rss)
-### marco
+* [https://www.spiegel.de/politik/ampel-aus-news-heute-cdu-generalsekretaer-verspricht-klarheit-in-den-naechsten-stunden-ueber-neuwahltermin](https://www.spiegel.de/politik/ampel-aus-news-heute-cdu-generalsekretaer-verspricht-klarheit-in-den-naechsten-stunden-ueber-neuwahltermin-a-b1b20a9b-643a-4407-b8a8-830bc4ead467#ref=rss)
+### kommenden
 
-* [https://www.spiegel.de/ausland/donald-trump-marco-rubio-soll-wohl-aussenminister-werden-mike-waltz-sicherheitsberater](https://www.spiegel.de/ausland/donald-trump-marco-rubio-soll-wohl-aussenminister-werden-mike-waltz-sicherheitsberater-a-044a0e04-efcd-4e51-b37a-a10dba778509#ref=rss)
-### rubio
+* [https://www.spiegel.de/politik/ampel-aus-news-heute-cdu-generalsekretaer-verspricht-klarheit-in-den-naechsten-stunden-ueber-neuwahltermin](https://www.spiegel.de/politik/ampel-aus-news-heute-cdu-generalsekretaer-verspricht-klarheit-in-den-naechsten-stunden-ueber-neuwahltermin-a-b1b20a9b-643a-4407-b8a8-830bc4ead467#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/neuwahlen-im-februar-wie-es-in-den-kommenden-wochen-weitergeht](https://www.spiegel.de/politik/deutschland/neuwahlen-im-februar-wie-es-in-den-kommenden-wochen-weitergeht-a-70be446d-1f69-4e20-83eb-d542cc0aa4cf#ref=rss)
+### februar
 
-* [https://www.spiegel.de/ausland/donald-trump-marco-rubio-soll-wohl-aussenminister-werden-mike-waltz-sicherheitsberater](https://www.spiegel.de/ausland/donald-trump-marco-rubio-soll-wohl-aussenminister-werden-mike-waltz-sicherheitsberater-a-044a0e04-efcd-4e51-b37a-a10dba778509#ref=rss)
-### wohl
+* [https://www.spiegel.de/politik/deutschland/neuwahlen-im-februar-wie-es-in-den-kommenden-wochen-weitergeht](https://www.spiegel.de/politik/deutschland/neuwahlen-im-februar-wie-es-in-den-kommenden-wochen-weitergeht-a-70be446d-1f69-4e20-83eb-d542cc0aa4cf#ref=rss)
+### wochen
 
-* [https://www.spiegel.de/ausland/donald-trump-marco-rubio-soll-wohl-aussenminister-werden-mike-waltz-sicherheitsberater](https://www.spiegel.de/ausland/donald-trump-marco-rubio-soll-wohl-aussenminister-werden-mike-waltz-sicherheitsberater-a-044a0e04-efcd-4e51-b37a-a10dba778509#ref=rss)
-### sicherheitsberater
+* [https://www.spiegel.de/politik/deutschland/neuwahlen-im-februar-wie-es-in-den-kommenden-wochen-weitergeht](https://www.spiegel.de/politik/deutschland/neuwahlen-im-februar-wie-es-in-den-kommenden-wochen-weitergeht-a-70be446d-1f69-4e20-83eb-d542cc0aa4cf#ref=rss)
+### timothée
 
-* [https://www.spiegel.de/ausland/donald-trump-marco-rubio-soll-wohl-aussenminister-werden-mike-waltz-sicherheitsberater](https://www.spiegel.de/ausland/donald-trump-marco-rubio-soll-wohl-aussenminister-werden-mike-waltz-sicherheitsberater-a-044a0e04-efcd-4e51-b37a-a10dba778509#ref=rss)
+* [https://www.spiegel.de/kultur/kino/timothee-chalamet-galt-als-zu-duenn-und-fand-deswegen-seinen-eigenen-stil](https://www.spiegel.de/kultur/kino/timothee-chalamet-galt-als-zu-duenn-und-fand-deswegen-seinen-eigenen-stil-a-9619285c-5c24-4df7-8e09-496b75b98b8e#ref=rss)
+### chalamet
+
+* [https://www.spiegel.de/kultur/kino/timothee-chalamet-galt-als-zu-duenn-und-fand-deswegen-seinen-eigenen-stil](https://www.spiegel.de/kultur/kino/timothee-chalamet-galt-als-zu-duenn-und-fand-deswegen-seinen-eigenen-stil-a-9619285c-5c24-4df7-8e09-496b75b98b8e#ref=rss)
+### fand
+
+* [https://www.spiegel.de/kultur/kino/timothee-chalamet-galt-als-zu-duenn-und-fand-deswegen-seinen-eigenen-stil](https://www.spiegel.de/kultur/kino/timothee-chalamet-galt-als-zu-duenn-und-fand-deswegen-seinen-eigenen-stil-a-9619285c-5c24-4df7-8e09-496b75b98b8e#ref=rss)
+* [https://www.spiegel.de/kultur/til-schweiger-findet-belarus-nun-doch-nicht-mehr-so-toll](https://www.spiegel.de/kultur/til-schweiger-findet-belarus-nun-doch-nicht-mehr-so-toll-a-743436cf-1473-458e-a938-2f773bb3054d#ref=rss)
+### gemacht
+
+* [https://www.spiegel.de/kultur/kino/timothee-chalamet-galt-als-zu-duenn-und-fand-deswegen-seinen-eigenen-stil](https://www.spiegel.de/kultur/kino/timothee-chalamet-galt-als-zu-duenn-und-fand-deswegen-seinen-eigenen-stil-a-9619285c-5c24-4df7-8e09-496b75b98b8e#ref=rss)
+* [https://www.spiegel.de/panorama/anglikanische-kirche-justin-welby-tritt-wegen-umgang-mit-missbrauchsskandal-zurueck](https://www.spiegel.de/panorama/anglikanische-kirche-justin-welby-tritt-wegen-umgang-mit-missbrauchsskandal-zurueck-a-1ecd12f6-17b7-4681-860c-cfbe16c35f05#ref=rss)
+### michael
+
+* [https://www.spiegel.de/sport/radsport-bahnrad-weltmeister-michael-huebner-ist-tot](https://www.spiegel.de/sport/radsport-bahnrad-weltmeister-michael-huebner-ist-tot-a-833e73a9-6546-4e38-bcc8-dd3d1a06abee#ref=rss)
+### hübner
+
+* [https://www.spiegel.de/sport/radsport-bahnrad-weltmeister-michael-huebner-ist-tot](https://www.spiegel.de/sport/radsport-bahnrad-weltmeister-michael-huebner-ist-tot-a-833e73a9-6546-4e38-bcc8-dd3d1a06abee#ref=rss)
+### tot
+
+* [https://www.spiegel.de/sport/radsport-bahnrad-weltmeister-michael-huebner-ist-tot](https://www.spiegel.de/sport/radsport-bahnrad-weltmeister-michael-huebner-ist-tot-a-833e73a9-6546-4e38-bcc8-dd3d1a06abee#ref=rss)
+* [https://www.spiegel.de/kultur/maler-frank-auerbach-ist-tot](https://www.spiegel.de/kultur/maler-frank-auerbach-ist-tot-a-e46df69a-3281-433b-b0e7-b75e36eb990c#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/sport/radsport-bahnrad-weltmeister-michael-huebner-ist-tot](https://www.spiegel.de/sport/radsport-bahnrad-weltmeister-michael-huebner-ist-tot-a-833e73a9-6546-4e38-bcc8-dd3d1a06abee#ref=rss)
+* [https://www.spiegel.de/kultur/maler-frank-auerbach-ist-tot](https://www.spiegel.de/kultur/maler-frank-auerbach-ist-tot-a-e46df69a-3281-433b-b0e7-b75e36eb990c#ref=rss)
+### autowracks
+
+* [https://www.spiegel.de/panorama/spanien-militaerhubschrauber-bergen-autowracks-nach-flutkatastrophe-in-valencia](https://www.spiegel.de/panorama/spanien-militaerhubschrauber-bergen-autowracks-nach-flutkatastrophe-in-valencia-a-24d20919-de91-4ecf-8445-9b51b45c16a0#ref=rss)
+### valencia
+
+* [https://www.spiegel.de/panorama/spanien-militaerhubschrauber-bergen-autowracks-nach-flutkatastrophe-in-valencia](https://www.spiegel.de/panorama/spanien-militaerhubschrauber-bergen-autowracks-nach-flutkatastrophe-in-valencia-a-24d20919-de91-4ecf-8445-9b51b45c16a0#ref=rss)
+### tom
+
+* [https://www.spiegel.de/ausland/donald-trump-und-sein-grenzzar-tom-homan-was-migranten-in-den-usa-jetzt-droht](https://www.spiegel.de/ausland/donald-trump-und-sein-grenzzar-tom-homan-was-migranten-in-den-usa-jetzt-droht-a-a1075138-ff08-44fc-bbce-ae0ad316a2ac#ref=rss)
+### homan
+
+* [https://www.spiegel.de/ausland/donald-trump-und-sein-grenzzar-tom-homan-was-migranten-in-den-usa-jetzt-droht](https://www.spiegel.de/ausland/donald-trump-und-sein-grenzzar-tom-homan-was-migranten-in-den-usa-jetzt-droht-a-a1075138-ff08-44fc-bbce-ae0ad316a2ac#ref=rss)
+### til
+
+* [https://www.spiegel.de/kultur/til-schweiger-findet-belarus-nun-doch-nicht-mehr-so-toll](https://www.spiegel.de/kultur/til-schweiger-findet-belarus-nun-doch-nicht-mehr-so-toll-a-743436cf-1473-458e-a938-2f773bb3054d#ref=rss)
+### schweiger
+
+* [https://www.spiegel.de/kultur/til-schweiger-findet-belarus-nun-doch-nicht-mehr-so-toll](https://www.spiegel.de/kultur/til-schweiger-findet-belarus-nun-doch-nicht-mehr-so-toll-a-743436cf-1473-458e-a938-2f773bb3054d#ref=rss)
+### belarus
+
+* [https://www.spiegel.de/kultur/til-schweiger-findet-belarus-nun-doch-nicht-mehr-so-toll](https://www.spiegel.de/kultur/til-schweiger-findet-belarus-nun-doch-nicht-mehr-so-toll-a-743436cf-1473-458e-a938-2f773bb3054d#ref=rss)
+### frank
+
+* [https://www.spiegel.de/kultur/maler-frank-auerbach-ist-tot](https://www.spiegel.de/kultur/maler-frank-auerbach-ist-tot-a-e46df69a-3281-433b-b0e7-b75e36eb990c#ref=rss)
+### auerbach
+
+* [https://www.spiegel.de/kultur/maler-frank-auerbach-ist-tot](https://www.spiegel.de/kultur/maler-frank-auerbach-ist-tot-a-e46df69a-3281-433b-b0e7-b75e36eb990c#ref=rss)
+### justin
+
+* [https://www.spiegel.de/panorama/anglikanische-kirche-justin-welby-tritt-wegen-umgang-mit-missbrauchsskandal-zurueck](https://www.spiegel.de/panorama/anglikanische-kirche-justin-welby-tritt-wegen-umgang-mit-missbrauchsskandal-zurueck-a-1ecd12f6-17b7-4681-860c-cfbe16c35f05#ref=rss)
+### welby
+
+* [https://www.spiegel.de/panorama/anglikanische-kirche-justin-welby-tritt-wegen-umgang-mit-missbrauchsskandal-zurueck](https://www.spiegel.de/panorama/anglikanische-kirche-justin-welby-tritt-wegen-umgang-mit-missbrauchsskandal-zurueck-a-1ecd12f6-17b7-4681-860c-cfbe16c35f05#ref=rss)
+### erzbischof
+
+* [https://www.spiegel.de/panorama/anglikanische-kirche-justin-welby-tritt-wegen-umgang-mit-missbrauchsskandal-zurueck](https://www.spiegel.de/panorama/anglikanische-kirche-justin-welby-tritt-wegen-umgang-mit-missbrauchsskandal-zurueck-a-1ecd12f6-17b7-4681-860c-cfbe16c35f05#ref=rss)
+### canterbury
+
+* [https://www.spiegel.de/panorama/anglikanische-kirche-justin-welby-tritt-wegen-umgang-mit-missbrauchsskandal-zurueck](https://www.spiegel.de/panorama/anglikanische-kirche-justin-welby-tritt-wegen-umgang-mit-missbrauchsskandal-zurueck-a-1ecd12f6-17b7-4681-860c-cfbe16c35f05#ref=rss)
+### außenpolitik
+
+* [https://www.spiegel.de/politik/deutschland/aussenpolitik-nach-ampel-aus-deutsche-wollen-mehr-geld-fuer-europaeische-sicherheit-ausgeben](https://www.spiegel.de/politik/deutschland/aussenpolitik-nach-ampel-aus-deutsche-wollen-mehr-geld-fuer-europaeische-sicherheit-ausgeben-a-6a69da98-20b2-4839-b031-84499cac892f#ref=rss)
+### europäische
+
+* [https://www.spiegel.de/politik/deutschland/aussenpolitik-nach-ampel-aus-deutsche-wollen-mehr-geld-fuer-europaeische-sicherheit-ausgeben](https://www.spiegel.de/politik/deutschland/aussenpolitik-nach-ampel-aus-deutsche-wollen-mehr-geld-fuer-europaeische-sicherheit-ausgeben-a-6a69da98-20b2-4839-b031-84499cac892f#ref=rss)
+### sicherheit
+
+* [https://www.spiegel.de/politik/deutschland/aussenpolitik-nach-ampel-aus-deutsche-wollen-mehr-geld-fuer-europaeische-sicherheit-ausgeben](https://www.spiegel.de/politik/deutschland/aussenpolitik-nach-ampel-aus-deutsche-wollen-mehr-geld-fuer-europaeische-sicherheit-ausgeben-a-6a69da98-20b2-4839-b031-84499cac892f#ref=rss)
+### haie
+
+* [https://www.spiegel.de/wissenschaft/technik/surfen-lichtstreifen-an-surfbrettern-sollen-weissen-haie-abschrecken](https://www.spiegel.de/wissenschaft/technik/surfen-lichtstreifen-an-surfbrettern-sollen-weissen-haie-abschrecken-a-181f4dd4-6a7b-4b33-87c8-227234cc996b#ref=rss)
 
