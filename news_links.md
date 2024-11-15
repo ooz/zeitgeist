@@ -4,338 +4,279 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### spd
+### jahren
 
-* [https://www.spiegel.de/politik/deutschland/schwangerschaftsabbruch-ein-letzter-versuch](https://www.spiegel.de/politik/deutschland/schwangerschaftsabbruch-ein-letzter-versuch-a-f700f59b-4094-4bad-a993-18405cce5033#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-oder-boris-pistorius-tauscht-die-spd-ihren-kanzlerkandidaten-aus](https://www.spiegel.de/politik/deutschland/olaf-scholz-oder-boris-pistorius-tauscht-die-spd-ihren-kanzlerkandidaten-aus-a-311b2cf5-fc06-42cf-96cc-c756b1a2b5b9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ampel-aus-spd-will-mit-friedrich-merz-die-schuldenbremse-weiterentwickeln](https://www.spiegel.de/politik/deutschland/ampel-aus-spd-will-mit-friedrich-merz-die-schuldenbremse-weiterentwickeln-a-c9f8346c-26ca-4f3e-8f51-c0c41710e06b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-spd-geht-laut-saskia-esken-mit-olaf-scholz-als-kanzlerkandidat-in-die-neuwahl](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-spd-geht-laut-saskia-esken-mit-olaf-scholz-als-kanzlerkandidat-in-die-neuwahl-a-f6458bb5-19d3-45d1-bd76-df28ee145e58#ref=rss)
-### olaf
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-oder-boris-pistorius-tauscht-die-spd-ihren-kanzlerkandidaten-aus](https://www.spiegel.de/politik/deutschland/olaf-scholz-oder-boris-pistorius-tauscht-die-spd-ihren-kanzlerkandidaten-aus-a-311b2cf5-fc06-42cf-96cc-c756b1a2b5b9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-spd-geht-laut-saskia-esken-mit-olaf-scholz-als-kanzlerkandidat-in-die-neuwahl](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-spd-geht-laut-saskia-esken-mit-olaf-scholz-als-kanzlerkandidat-in-die-neuwahl-a-f6458bb5-19d3-45d1-bd76-df28ee145e58#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-oder-boris-pistorius-tauscht-die-spd-ihren-kanzlerkandidaten-aus](https://www.spiegel.de/politik/deutschland/olaf-scholz-oder-boris-pistorius-tauscht-die-spd-ihren-kanzlerkandidaten-aus-a-311b2cf5-fc06-42cf-96cc-c756b1a2b5b9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-spd-geht-laut-saskia-esken-mit-olaf-scholz-als-kanzlerkandidat-in-die-neuwahl](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-spd-geht-laut-saskia-esken-mit-olaf-scholz-als-kanzlerkandidat-in-die-neuwahl-a-f6458bb5-19d3-45d1-bd76-df28ee145e58#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/ampel-aus-spd-will-mit-friedrich-merz-die-schuldenbremse-weiterentwickeln](https://www.spiegel.de/politik/deutschland/ampel-aus-spd-will-mit-friedrich-merz-die-schuldenbremse-weiterentwickeln-a-c9f8346c-26ca-4f3e-8f51-c0c41710e06b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-schuldenbremse-friedrich-merz-donald-trump-marine-le-pen](https://www.spiegel.de/politik/deutschland/news-des-tages-schuldenbremse-friedrich-merz-donald-trump-marine-le-pen-a-6d940266-8849-4188-bfca-ec3929f9bad8#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/ampel-aus-spd-will-mit-friedrich-merz-die-schuldenbremse-weiterentwickeln](https://www.spiegel.de/politik/deutschland/ampel-aus-spd-will-mit-friedrich-merz-die-schuldenbremse-weiterentwickeln-a-c9f8346c-26ca-4f3e-8f51-c0c41710e06b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-schuldenbremse-friedrich-merz-donald-trump-marine-le-pen](https://www.spiegel.de/politik/deutschland/news-des-tages-schuldenbremse-friedrich-merz-donald-trump-marine-le-pen-a-6d940266-8849-4188-bfca-ec3929f9bad8#ref=rss)
-### schuldenbremse
-
-* [https://www.spiegel.de/politik/deutschland/ampel-aus-spd-will-mit-friedrich-merz-die-schuldenbremse-weiterentwickeln](https://www.spiegel.de/politik/deutschland/ampel-aus-spd-will-mit-friedrich-merz-die-schuldenbremse-weiterentwickeln-a-c9f8346c-26ca-4f3e-8f51-c0c41710e06b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-schuldenbremse-friedrich-merz-donald-trump-marine-le-pen](https://www.spiegel.de/politik/deutschland/news-des-tages-schuldenbremse-friedrich-merz-donald-trump-marine-le-pen-a-6d940266-8849-4188-bfca-ec3929f9bad8#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/bitcoin-diebstahl-bei-bitfinex-us-hacker-ilya-lichtenstein-zu-fuenf-jahren-gefaengnis-verurteilt](https://www.spiegel.de/netzwelt/web/bitcoin-diebstahl-bei-bitfinex-us-hacker-ilya-lichtenstein-zu-fuenf-jahren-gefaengnis-verurteilt-a-8fc85c09-556c-4def-831c-ecfcf8ba1783#ref=rss)
+* [https://www.spiegel.de/panorama/leute/halle-berry-kopiert-ihr-oscar-outfit-von-2002](https://www.spiegel.de/panorama/leute/halle-berry-kopiert-ihr-oscar-outfit-von-2002-a-6d2e50e8-f6b2-46f7-978d-530564dd0edb#ref=rss)
+* [https://www.spiegel.de/sport/mike-tyson-gegen-jake-paul-der-boese-gegen-das-grossmaul](https://www.spiegel.de/sport/mike-tyson-gegen-jake-paul-der-boese-gegen-das-grossmaul-a-c85b44f1-f155-492e-9f45-69ef8dc00b2f#ref=rss)
+* [https://www.spiegel.de/panorama/leute/japan-prinzessin-yuriko-im-alter-von-101-jahren-gestorben](https://www.spiegel.de/panorama/leute/japan-prinzessin-yuriko-im-alter-von-101-jahren-gestorben-a-9b8b47f5-e6d0-4a2d-bf12-9bc813123e40#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-schuldenbremse-friedrich-merz-donald-trump-marine-le-pen](https://www.spiegel.de/politik/deutschland/news-des-tages-schuldenbremse-friedrich-merz-donald-trump-marine-le-pen-a-6d940266-8849-4188-bfca-ec3929f9bad8#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/elon-musk-will-unter-donald-trump-schockwellen-durch-das-system-senden](https://www.spiegel.de/wissenschaft/technik/elon-musk-will-unter-donald-trump-schockwellen-durch-das-system-senden-a-14903568-bde7-4a36-9a4d-37f5572ef869#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-donald-trump-und-seine-strafzoelle-koennten-die-inflation-zurueckbringen](https://www.spiegel.de/wirtschaft/usa-donald-trump-und-seine-strafzoelle-koennten-die-inflation-zurueckbringen-a-5f7a1f5e-3929-4014-822b-c2e0bb40d171#ref=rss)
-### usa
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-schuldenbremse-friedrich-merz-donald-trump-marine-le-pen](https://www.spiegel.de/politik/deutschland/news-des-tages-schuldenbremse-friedrich-merz-donald-trump-marine-le-pen-a-6d940266-8849-4188-bfca-ec3929f9bad8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/alzheimer-medikament-lecanemab-warum-dieser-freitag-ein-schicksalstag-werden-koennte](https://www.spiegel.de/wirtschaft/service/alzheimer-medikament-lecanemab-warum-dieser-freitag-ein-schicksalstag-werden-koennte-a-78349a0c-c89c-4699-8b93-133af985457b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-donald-trump-und-seine-strafzoelle-koennten-die-inflation-zurueckbringen](https://www.spiegel.de/wirtschaft/usa-donald-trump-und-seine-strafzoelle-koennten-die-inflation-zurueckbringen-a-5f7a1f5e-3929-4014-822b-c2e0bb40d171#ref=rss)
-### laut
-
-* [https://www.spiegel.de/panorama/justiz/bayern-angeblicher-anschlagsplan-mit-macheten-verfahren-gegen-27-jaehrigen-eingestellt](https://www.spiegel.de/panorama/justiz/bayern-angeblicher-anschlagsplan-mit-macheten-verfahren-gegen-27-jaehrigen-eingestellt-a-bd86fad1-85f8-4147-ac4f-d384dcf31045#ref=rss)
-* [https://www.spiegel.de/wirtschaft/dax-unternehmen-gewinne-sinken-deutlich](https://www.spiegel.de/wirtschaft/dax-unternehmen-gewinne-sinken-deutlich-a-a76e3951-4a18-4354-bac5-e9dc0d6dd8fd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-spd-geht-laut-saskia-esken-mit-olaf-scholz-als-kanzlerkandidat-in-die-neuwahl](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-spd-geht-laut-saskia-esken-mit-olaf-scholz-als-kanzlerkandidat-in-die-neuwahl-a-f6458bb5-19d3-45d1-bd76-df28ee145e58#ref=rss)
-### neue
-
-* [https://www.spiegel.de/panorama/bildung/cez-oezdemir-an-welche-fuenf-projekte-der-neue-bildungsminister-jetzt-ran-muss](https://www.spiegel.de/panorama/bildung/cez-oezdemir-an-welche-fuenf-projekte-der-neue-bildungsminister-jetzt-ran-muss-a-a2abd638-eb1a-403d-9f91-a8a7db5e0cc2#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/apple-imac-m4-im-test-pretty-in-pink](https://www.spiegel.de/netzwelt/gadgets/apple-imac-m4-im-test-pretty-in-pink-a-875ea235-07b0-410a-a333-2fdd49be9ca1#ref=rss)
-### gefunden
-
-* [https://www.spiegel.de/panorama/edinburgh-roter-panda-baby-offenbar-zu-tode-erschrocken](https://www.spiegel.de/panorama/edinburgh-roter-panda-baby-offenbar-zu-tode-erschrocken-a-894dacb9-4315-4d13-85c9-13f1f0468ef5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/unterwasser-archaeologie-wrack-des-raddampfers-express-i-in-der-ostsee-gefunden](https://www.spiegel.de/wissenschaft/mensch/unterwasser-archaeologie-wrack-des-raddampfers-express-i-in-der-ostsee-gefunden-a-c10745c5-d8a3-4701-b640-abb6976c1baf#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/politik/deutschland/ampel-aus-spd-will-mit-friedrich-merz-die-schuldenbremse-weiterentwickeln](https://www.spiegel.de/politik/deutschland/ampel-aus-spd-will-mit-friedrich-merz-die-schuldenbremse-weiterentwickeln-a-c9f8346c-26ca-4f3e-8f51-c0c41710e06b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-schuldenbremse-friedrich-merz-donald-trump-marine-le-pen](https://www.spiegel.de/politik/deutschland/news-des-tages-schuldenbremse-friedrich-merz-donald-trump-marine-le-pen-a-6d940266-8849-4188-bfca-ec3929f9bad8#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/apple-imac-m4-im-test-pretty-in-pink](https://www.spiegel.de/netzwelt/gadgets/apple-imac-m4-im-test-pretty-in-pink-a-875ea235-07b0-410a-a333-2fdd49be9ca1#ref=rss)
+* [https://www.spiegel.de/ausland/us-wahl-demograf-ueber-stimmen-der-generation-z-maenner-und-frauen-auf-unterschiedlichen-planeten](https://www.spiegel.de/ausland/us-wahl-demograf-ueber-stimmen-der-generation-z-maenner-und-frauen-auf-unterschiedlichen-planeten-a-42782fbd-4ffa-4c77-ac80-a18e62391e6a#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-diese-personen-sollen-seinem-regierungsteam-angehoeren](https://www.spiegel.de/ausland/donald-trump-diese-personen-sollen-seinem-regierungsteam-angehoeren-a-81442bb1-85ab-4350-9c6c-e552f5699836#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-nahost-usa-legen-vorschlag-fuer-waffenruhe-im-libanon-vor](https://www.spiegel.de/ausland/krieg-in-nahost-usa-legen-vorschlag-fuer-waffenruhe-im-libanon-vor-a-c8451f20-428a-4f38-8dc6-334a2664e156#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-schuldenbremse-friedrich-merz-donald-trump-marine-le-pen](https://www.spiegel.de/politik/deutschland/news-des-tages-schuldenbremse-friedrich-merz-donald-trump-marine-le-pen-a-6d940266-8849-4188-bfca-ec3929f9bad8#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/elon-musk-will-unter-donald-trump-schockwellen-durch-das-system-senden](https://www.spiegel.de/wissenschaft/technik/elon-musk-will-unter-donald-trump-schockwellen-durch-das-system-senden-a-14903568-bde7-4a36-9a4d-37f5572ef869#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-donald-trump-und-seine-strafzoelle-koennten-die-inflation-zurueckbringen](https://www.spiegel.de/wirtschaft/usa-donald-trump-und-seine-strafzoelle-koennten-die-inflation-zurueckbringen-a-5f7a1f5e-3929-4014-822b-c2e0bb40d171#ref=rss)
-### eigenen
+* [https://www.spiegel.de/ausland/us-wahl-demograf-ueber-stimmen-der-generation-z-maenner-und-frauen-auf-unterschiedlichen-planeten](https://www.spiegel.de/ausland/us-wahl-demograf-ueber-stimmen-der-generation-z-maenner-und-frauen-auf-unterschiedlichen-planeten-a-42782fbd-4ffa-4c77-ac80-a18e62391e6a#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-diese-personen-sollen-seinem-regierungsteam-angehoeren](https://www.spiegel.de/ausland/donald-trump-diese-personen-sollen-seinem-regierungsteam-angehoeren-a-81442bb1-85ab-4350-9c6c-e552f5699836#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-nahost-usa-legen-vorschlag-fuer-waffenruhe-im-libanon-vor](https://www.spiegel.de/ausland/krieg-in-nahost-usa-legen-vorschlag-fuer-waffenruhe-im-libanon-vor-a-c8451f20-428a-4f38-8dc6-334a2664e156#ref=rss)
+### mindestens
 
-* [https://www.spiegel.de/kultur/kino/kevin-costner-yellowstone-will-nicht-den-eigenen-selbstmord-schauen](https://www.spiegel.de/kultur/kino/kevin-costner-yellowstone-will-nicht-den-eigenen-selbstmord-schauen-a-ab672dc2-01ee-4e26-98a7-42ef534a4b07#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/elon-musk-will-unter-donald-trump-schockwellen-durch-das-system-senden](https://www.spiegel.de/wissenschaft/technik/elon-musk-will-unter-donald-trump-schockwellen-durch-das-system-senden-a-14903568-bde7-4a36-9a4d-37f5572ef869#ref=rss)
-* [https://www.spiegel.de/ausland/alex-jones-und-infowars-satirezeitschrift-the-onion-kauft-verschwoerungstheoretiker-internetportal](https://www.spiegel.de/ausland/alex-jones-und-infowars-satirezeitschrift-the-onion-kauft-verschwoerungstheoretiker-internetportal-a-98d8fb76-e15e-4b80-9750-3994b5c7e30c#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wissenschaft/mensch/unterwasser-archaeologie-wrack-des-raddampfers-express-i-in-der-ostsee-gefunden](https://www.spiegel.de/wissenschaft/mensch/unterwasser-archaeologie-wrack-des-raddampfers-express-i-in-der-ostsee-gefunden-a-c10745c5-d8a3-4701-b640-abb6976c1baf#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ungerechte-steuerregel-eu-kommission-verklagt-deutschland](https://www.spiegel.de/wirtschaft/ungerechte-steuerregel-eu-kommission-verklagt-deutschland-a-fc608337-aab7-472c-a48c-418ac2a50a6f#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/onlyfans-bobfahrerin-lisa-buckwitz-arbeitet-mit-erotik-plattform-zusammen](https://www.spiegel.de/sport/wintersport/onlyfans-bobfahrerin-lisa-buckwitz-arbeitet-mit-erotik-plattform-zusammen-a-373911c6-d38d-40d0-9736-ce10b7c2ccd6#ref=rss)
-### ende
-
-* [https://www.spiegel.de/wissenschaft/mensch/unterwasser-archaeologie-wrack-des-raddampfers-express-i-in-der-ostsee-gefunden](https://www.spiegel.de/wissenschaft/mensch/unterwasser-archaeologie-wrack-des-raddampfers-express-i-in-der-ostsee-gefunden-a-c10745c5-d8a3-4701-b640-abb6976c1baf#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ungerechte-steuerregel-eu-kommission-verklagt-deutschland](https://www.spiegel.de/wirtschaft/ungerechte-steuerregel-eu-kommission-verklagt-deutschland-a-fc608337-aab7-472c-a48c-418ac2a50a6f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-donald-trump-und-seine-strafzoelle-koennten-die-inflation-zurueckbringen](https://www.spiegel.de/wirtschaft/usa-donald-trump-und-seine-strafzoelle-koennten-die-inflation-zurueckbringen-a-5f7a1f5e-3929-4014-822b-c2e0bb40d171#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/dax-unternehmen-gewinne-sinken-deutlich](https://www.spiegel.de/wirtschaft/dax-unternehmen-gewinne-sinken-deutlich-a-a76e3951-4a18-4354-bac5-e9dc0d6dd8fd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ungerechte-steuerregel-eu-kommission-verklagt-deutschland](https://www.spiegel.de/wirtschaft/ungerechte-steuerregel-eu-kommission-verklagt-deutschland-a-fc608337-aab7-472c-a48c-418ac2a50a6f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/alzheimer-medikament-lecanemab-warum-dieser-freitag-ein-schicksalstag-werden-koennte](https://www.spiegel.de/wirtschaft/service/alzheimer-medikament-lecanemab-warum-dieser-freitag-ein-schicksalstag-werden-koennte-a-78349a0c-c89c-4699-8b93-133af985457b#ref=rss)
+* [https://www.spiegel.de/geschichte/pete-hegseth-tattoos-sorgen-fuer-aufsehen-rechtsradikale-botschaft](https://www.spiegel.de/geschichte/pete-hegseth-tattoos-sorgen-fuer-aufsehen-rechtsradikale-botschaft-a-4089ba46-1d46-480f-84ff-0104a92646db#ref=rss)
+* [https://www.spiegel.de/panorama/spanien-mindestens-zehn-tote-bei-brand-in-seniorenheim-nahe-saragossa](https://www.spiegel.de/panorama/spanien-mindestens-zehn-tote-bei-brand-in-seniorenheim-nahe-saragossa-a-53ad8bc9-f04e-4105-ac20-1bda183ad69e#ref=rss)
 ### unter
 
-* [https://www.spiegel.de/wirtschaft/dax-unternehmen-gewinne-sinken-deutlich](https://www.spiegel.de/wirtschaft/dax-unternehmen-gewinne-sinken-deutlich-a-a76e3951-4a18-4354-bac5-e9dc0d6dd8fd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ungerechte-steuerregel-eu-kommission-verklagt-deutschland](https://www.spiegel.de/wirtschaft/ungerechte-steuerregel-eu-kommission-verklagt-deutschland-a-fc608337-aab7-472c-a48c-418ac2a50a6f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/elon-musk-will-unter-donald-trump-schockwellen-durch-das-system-senden](https://www.spiegel.de/wissenschaft/technik/elon-musk-will-unter-donald-trump-schockwellen-durch-das-system-senden-a-14903568-bde7-4a36-9a4d-37f5572ef869#ref=rss)
-### firmen
+* [https://www.spiegel.de/geschichte/pete-hegseth-tattoos-sorgen-fuer-aufsehen-rechtsradikale-botschaft](https://www.spiegel.de/geschichte/pete-hegseth-tattoos-sorgen-fuer-aufsehen-rechtsradikale-botschaft-a-4089ba46-1d46-480f-84ff-0104a92646db#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/bitcoin-diebstahl-bei-bitfinex-us-hacker-ilya-lichtenstein-zu-fuenf-jahren-gefaengnis-verurteilt](https://www.spiegel.de/netzwelt/web/bitcoin-diebstahl-bei-bitfinex-us-hacker-ilya-lichtenstein-zu-fuenf-jahren-gefaengnis-verurteilt-a-8fc85c09-556c-4def-831c-ecfcf8ba1783#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nations-league-england-vor-aufstieg-italien-stuerzt-belgien-tiefer-in-die-krise](https://www.spiegel.de/sport/fussball/nations-league-england-vor-aufstieg-italien-stuerzt-belgien-tiefer-in-die-krise-a-f3a4d25a-940b-4787-bb84-0673ebde77d7#ref=rss)
+### verurteilt
 
-* [https://www.spiegel.de/wirtschaft/dax-unternehmen-gewinne-sinken-deutlich](https://www.spiegel.de/wirtschaft/dax-unternehmen-gewinne-sinken-deutlich-a-a76e3951-4a18-4354-bac5-e9dc0d6dd8fd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ungerechte-steuerregel-eu-kommission-verklagt-deutschland](https://www.spiegel.de/wirtschaft/ungerechte-steuerregel-eu-kommission-verklagt-deutschland-a-fc608337-aab7-472c-a48c-418ac2a50a6f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/elon-musk-will-unter-donald-trump-schockwellen-durch-das-system-senden](https://www.spiegel.de/wissenschaft/technik/elon-musk-will-unter-donald-trump-schockwellen-durch-das-system-senden-a-14903568-bde7-4a36-9a4d-37f5572ef869#ref=rss)
-### 2025
+* [https://www.spiegel.de/netzwelt/web/bitcoin-diebstahl-bei-bitfinex-us-hacker-ilya-lichtenstein-zu-fuenf-jahren-gefaengnis-verurteilt](https://www.spiegel.de/netzwelt/web/bitcoin-diebstahl-bei-bitfinex-us-hacker-ilya-lichtenstein-zu-fuenf-jahren-gefaengnis-verurteilt-a-8fc85c09-556c-4def-831c-ecfcf8ba1783#ref=rss)
+* [https://www.spiegel.de/ausland/suedkorea-oppositionsfuehrer-lee-jae-myung-zu-gefaengnisstrafe-verurteilt](https://www.spiegel.de/ausland/suedkorea-oppositionsfuehrer-lee-jae-myung-zu-gefaengnisstrafe-verurteilt-a-24a2de7d-8279-4191-a57b-07b2fab99247#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-spd-geht-laut-saskia-esken-mit-olaf-scholz-als-kanzlerkandidat-in-die-neuwahl](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-spd-geht-laut-saskia-esken-mit-olaf-scholz-als-kanzlerkandidat-in-die-neuwahl-a-f6458bb5-19d3-45d1-bd76-df28ee145e58#ref=rss)
-* [https://www.spiegel.de/kultur/kino/berlinale-2025-regisseur-todd-haynes-wird-jury-praesident-der-75-filmfestspiele-in-berlin](https://www.spiegel.de/kultur/kino/berlinale-2025-regisseur-todd-haynes-wird-jury-praesident-der-75-filmfestspiele-in-berlin-a-cfc6a9b4-f6c3-49d2-b1b6-1ab6776ae435#ref=rss)
-### travemünde
+* [https://www.spiegel.de/wissenschaft/mensch/england-seltener-gladiatoren-messergriff-entdeckt-in-englischer-grafschaft](https://www.spiegel.de/wissenschaft/mensch/england-seltener-gladiatoren-messergriff-entdeckt-in-englischer-grafschaft-a-71a8ca6b-dd4d-470d-9540-3370fd31ecfa#ref=rss)
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### ampelaus
 
-* [https://www.spiegel.de/wissenschaft/natur/travemuende-delfin-delle-ist-ein-einzelgaenger-quatscht-aber-trotzdem-ganz-schoen-viel](https://www.spiegel.de/wissenschaft/natur/travemuende-delfin-delle-ist-ein-einzelgaenger-quatscht-aber-trotzdem-ganz-schoen-viel-a-3ba64f08-0349-402a-a7d8-d0b6050fc311#ref=rss)
-### delle
+* [https://www.spiegel.de/politik/deutschland/marco-buschmann-ueber-ampel-aus-diese-koalition-hat-die-oeffentlichkeit-zum-teil-an-den-rand-des-wahnsinns-getrieben](https://www.spiegel.de/politik/deutschland/marco-buschmann-ueber-ampel-aus-diese-koalition-hat-die-oeffentlichkeit-zum-teil-an-den-rand-des-wahnsinns-getrieben-a-aa2ef4a5-a26c-4f3c-af8d-0b6e7378e21d#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/ampel-aus-in-berlin-was-das-fuer-die-echten-ampeln-bedeutet-ich-sehe-rot-satire](https://www.spiegel.de/panorama/gesellschaft/ampel-aus-in-berlin-was-das-fuer-die-echten-ampeln-bedeutet-ich-sehe-rot-satire-a-69eea78b-436c-4416-8783-5fafb3a6a3f6#ref=rss)
+### koalition
 
-* [https://www.spiegel.de/wissenschaft/natur/travemuende-delfin-delle-ist-ein-einzelgaenger-quatscht-aber-trotzdem-ganz-schoen-viel](https://www.spiegel.de/wissenschaft/natur/travemuende-delfin-delle-ist-ein-einzelgaenger-quatscht-aber-trotzdem-ganz-schoen-viel-a-3ba64f08-0349-402a-a7d8-d0b6050fc311#ref=rss)
-### große
+* [https://www.spiegel.de/politik/deutschland/marco-buschmann-ueber-ampel-aus-diese-koalition-hat-die-oeffentlichkeit-zum-teil-an-den-rand-des-wahnsinns-getrieben](https://www.spiegel.de/politik/deutschland/marco-buschmann-ueber-ampel-aus-diese-koalition-hat-die-oeffentlichkeit-zum-teil-an-den-rand-des-wahnsinns-getrieben-a-aa2ef4a5-a26c-4f3c-af8d-0b6e7378e21d#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/ampel-aus-in-berlin-was-das-fuer-die-echten-ampeln-bedeutet-ich-sehe-rot-satire](https://www.spiegel.de/panorama/gesellschaft/ampel-aus-in-berlin-was-das-fuer-die-echten-ampeln-bedeutet-ich-sehe-rot-satire-a-69eea78b-436c-4416-8783-5fafb3a6a3f6#ref=rss)
+### viele
 
-* [https://www.spiegel.de/ausland/new-york-city-in-der-us-metropole-brennt-der-wald](https://www.spiegel.de/ausland/new-york-city-in-der-us-metropole-brennt-der-wald-a-4211ef9e-588f-4039-972d-de14b136e8ef#ref=rss)
-* [https://www.spiegel.de/wirtschaft/dax-unternehmen-gewinne-sinken-deutlich](https://www.spiegel.de/wirtschaft/dax-unternehmen-gewinne-sinken-deutlich-a-a76e3951-4a18-4354-bac5-e9dc0d6dd8fd#ref=rss)
-### versuch
+* [https://www.spiegel.de/ausland/us-wahl-demograf-ueber-stimmen-der-generation-z-maenner-und-frauen-auf-unterschiedlichen-planeten](https://www.spiegel.de/ausland/us-wahl-demograf-ueber-stimmen-der-generation-z-maenner-und-frauen-auf-unterschiedlichen-planeten-a-42782fbd-4ffa-4c77-ac80-a18e62391e6a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ifo-index-deutsche-unternehmen-in-sorge-um-ihre-existenz](https://www.spiegel.de/wirtschaft/ifo-index-deutsche-unternehmen-in-sorge-um-ihre-existenz-a-6c4c55a8-5be1-4c50-a5f0-5c397ab36f2f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nations-league-england-vor-aufstieg-italien-stuerzt-belgien-tiefer-in-die-krise](https://www.spiegel.de/sport/fussball/nations-league-england-vor-aufstieg-italien-stuerzt-belgien-tiefer-in-die-krise-a-f3a4d25a-940b-4787-bb84-0673ebde77d7#ref=rss)
+### zehn
 
-* [https://www.spiegel.de/politik/deutschland/schwangerschaftsabbruch-ein-letzter-versuch](https://www.spiegel.de/politik/deutschland/schwangerschaftsabbruch-ein-letzter-versuch-a-f700f59b-4094-4bad-a993-18405cce5033#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/thomas-straessles-fluchtnovelle-romeo-und-julia-wollen-raus-aus-der-ddr](https://www.spiegel.de/kultur/literatur/thomas-straessles-fluchtnovelle-romeo-und-julia-wollen-raus-aus-der-ddr-a-8839c561-94be-45d7-958d-b6a6edfb41c2#ref=rss)
-### spanien
+* [https://www.spiegel.de/panorama/spanien-mindestens-zehn-tote-bei-brand-in-seniorenheim-nahe-saragossa](https://www.spiegel.de/panorama/spanien-mindestens-zehn-tote-bei-brand-in-seniorenheim-nahe-saragossa-a-53ad8bc9-f04e-4105-ac20-1bda183ad69e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/tarifeinigung-gebaeudereiniger-erhalten-deutlich-mehr-lohn](https://www.spiegel.de/wirtschaft/tarifeinigung-gebaeudereiniger-erhalten-deutlich-mehr-lohn-a-94f1c1ef-f95d-40bd-8398-b23a78a47cd0#ref=rss)
+### pete
 
-* [https://www.spiegel.de/ausland/spanien-erlebt-rekordregen-die-naechste-flut](https://www.spiegel.de/ausland/spanien-erlebt-rekordregen-die-naechste-flut-a-6fed28dd-e76c-49c1-8a8c-6c93e2151571#ref=rss)
-* [https://www.spiegel.de/sport/fussball/im-gedenken-an-die-flutopfer-valencia-laeuft-in-schwarzen-trikots-auf](https://www.spiegel.de/sport/fussball/im-gedenken-an-die-flutopfer-valencia-laeuft-in-schwarzen-trikots-auf-a-930a1350-ddae-43ae-b699-12b8abad89d4#ref=rss)
-### stadt
+* [https://www.spiegel.de/geschichte/pete-hegseth-tattoos-sorgen-fuer-aufsehen-rechtsradikale-botschaft](https://www.spiegel.de/geschichte/pete-hegseth-tattoos-sorgen-fuer-aufsehen-rechtsradikale-botschaft-a-4089ba46-1d46-480f-84ff-0104a92646db#ref=rss)
+### hegseth
 
-* [https://www.spiegel.de/ausland/spanien-erlebt-rekordregen-die-naechste-flut](https://www.spiegel.de/ausland/spanien-erlebt-rekordregen-die-naechste-flut-a-6fed28dd-e76c-49c1-8a8c-6c93e2151571#ref=rss)
-* [https://www.spiegel.de/sport/fussball/im-gedenken-an-die-flutopfer-valencia-laeuft-in-schwarzen-trikots-auf](https://www.spiegel.de/sport/fussball/im-gedenken-an-die-flutopfer-valencia-laeuft-in-schwarzen-trikots-auf-a-930a1350-ddae-43ae-b699-12b8abad89d4#ref=rss)
-### hochwasser
+* [https://www.spiegel.de/geschichte/pete-hegseth-tattoos-sorgen-fuer-aufsehen-rechtsradikale-botschaft](https://www.spiegel.de/geschichte/pete-hegseth-tattoos-sorgen-fuer-aufsehen-rechtsradikale-botschaft-a-4089ba46-1d46-480f-84ff-0104a92646db#ref=rss)
+### tattoos
 
-* [https://www.spiegel.de/ausland/spanien-erlebt-rekordregen-die-naechste-flut](https://www.spiegel.de/ausland/spanien-erlebt-rekordregen-die-naechste-flut-a-6fed28dd-e76c-49c1-8a8c-6c93e2151571#ref=rss)
-* [https://www.spiegel.de/sport/fussball/im-gedenken-an-die-flutopfer-valencia-laeuft-in-schwarzen-trikots-auf](https://www.spiegel.de/sport/fussball/im-gedenken-an-die-flutopfer-valencia-laeuft-in-schwarzen-trikots-auf-a-930a1350-ddae-43ae-b699-12b8abad89d4#ref=rss)
-### indiens
+* [https://www.spiegel.de/geschichte/pete-hegseth-tattoos-sorgen-fuer-aufsehen-rechtsradikale-botschaft](https://www.spiegel.de/geschichte/pete-hegseth-tattoos-sorgen-fuer-aufsehen-rechtsradikale-botschaft-a-4089ba46-1d46-480f-84ff-0104a92646db#ref=rss)
+### botschaft
 
-* [https://www.spiegel.de/ausland/indiens-hauptstadt-neu-delhi-schliesst-wegen-smogs-alle-grundschulen](https://www.spiegel.de/ausland/indiens-hauptstadt-neu-delhi-schliesst-wegen-smogs-alle-grundschulen-a-219a27b2-b455-4ee6-ba1c-773a2e48c0b3#ref=rss)
-### hauptstadt
-
-* [https://www.spiegel.de/ausland/indiens-hauptstadt-neu-delhi-schliesst-wegen-smogs-alle-grundschulen](https://www.spiegel.de/ausland/indiens-hauptstadt-neu-delhi-schliesst-wegen-smogs-alle-grundschulen-a-219a27b2-b455-4ee6-ba1c-773a2e48c0b3#ref=rss)
-### neudelhi
-
-* [https://www.spiegel.de/ausland/indiens-hauptstadt-neu-delhi-schliesst-wegen-smogs-alle-grundschulen](https://www.spiegel.de/ausland/indiens-hauptstadt-neu-delhi-schliesst-wegen-smogs-alle-grundschulen-a-219a27b2-b455-4ee6-ba1c-773a2e48c0b3#ref=rss)
-### alle
-
-* [https://www.spiegel.de/ausland/indiens-hauptstadt-neu-delhi-schliesst-wegen-smogs-alle-grundschulen](https://www.spiegel.de/ausland/indiens-hauptstadt-neu-delhi-schliesst-wegen-smogs-alle-grundschulen-a-219a27b2-b455-4ee6-ba1c-773a2e48c0b3#ref=rss)
-### grundschulen
-
-* [https://www.spiegel.de/ausland/indiens-hauptstadt-neu-delhi-schliesst-wegen-smogs-alle-grundschulen](https://www.spiegel.de/ausland/indiens-hauptstadt-neu-delhi-schliesst-wegen-smogs-alle-grundschulen-a-219a27b2-b455-4ee6-ba1c-773a2e48c0b3#ref=rss)
-### boris
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-oder-boris-pistorius-tauscht-die-spd-ihren-kanzlerkandidaten-aus](https://www.spiegel.de/politik/deutschland/olaf-scholz-oder-boris-pistorius-tauscht-die-spd-ihren-kanzlerkandidaten-aus-a-311b2cf5-fc06-42cf-96cc-c756b1a2b5b9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-spd-geht-laut-saskia-esken-mit-olaf-scholz-als-kanzlerkandidat-in-die-neuwahl](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-spd-geht-laut-saskia-esken-mit-olaf-scholz-als-kanzlerkandidat-in-die-neuwahl-a-f6458bb5-19d3-45d1-bd76-df28ee145e58#ref=rss)
-### pistorius
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-oder-boris-pistorius-tauscht-die-spd-ihren-kanzlerkandidaten-aus](https://www.spiegel.de/politik/deutschland/olaf-scholz-oder-boris-pistorius-tauscht-die-spd-ihren-kanzlerkandidaten-aus-a-311b2cf5-fc06-42cf-96cc-c756b1a2b5b9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-spd-geht-laut-saskia-esken-mit-olaf-scholz-als-kanzlerkandidat-in-die-neuwahl](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-spd-geht-laut-saskia-esken-mit-olaf-scholz-als-kanzlerkandidat-in-die-neuwahl-a-f6458bb5-19d3-45d1-bd76-df28ee145e58#ref=rss)
-### edinburgh
-
-* [https://www.spiegel.de/panorama/edinburgh-roter-panda-baby-offenbar-zu-tode-erschrocken](https://www.spiegel.de/panorama/edinburgh-roter-panda-baby-offenbar-zu-tode-erschrocken-a-894dacb9-4315-4d13-85c9-13f1f0468ef5#ref=rss)
-### offen
-
-* [https://www.spiegel.de/politik/deutschland/ampel-aus-spd-will-mit-friedrich-merz-die-schuldenbremse-weiterentwickeln](https://www.spiegel.de/politik/deutschland/ampel-aus-spd-will-mit-friedrich-merz-die-schuldenbremse-weiterentwickeln-a-c9f8346c-26ca-4f3e-8f51-c0c41710e06b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-schuldenbremse-friedrich-merz-donald-trump-marine-le-pen](https://www.spiegel.de/politik/deutschland/news-des-tages-schuldenbremse-friedrich-merz-donald-trump-marine-le-pen-a-6d940266-8849-4188-bfca-ec3929f9bad8#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/politik/deutschland/ampel-aus-spd-will-mit-friedrich-merz-die-schuldenbremse-weiterentwickeln](https://www.spiegel.de/politik/deutschland/ampel-aus-spd-will-mit-friedrich-merz-die-schuldenbremse-weiterentwickeln-a-c9f8346c-26ca-4f3e-8f51-c0c41710e06b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-donald-trump-und-seine-strafzoelle-koennten-die-inflation-zurueckbringen](https://www.spiegel.de/wirtschaft/usa-donald-trump-und-seine-strafzoelle-koennten-die-inflation-zurueckbringen-a-5f7a1f5e-3929-4014-822b-c2e0bb40d171#ref=rss)
-### valencia
-
-* [https://www.spiegel.de/sport/fussball/im-gedenken-an-die-flutopfer-valencia-laeuft-in-schwarzen-trikots-auf](https://www.spiegel.de/sport/fussball/im-gedenken-an-die-flutopfer-valencia-laeuft-in-schwarzen-trikots-auf-a-930a1350-ddae-43ae-b699-12b8abad89d4#ref=rss)
-### marine
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-schuldenbremse-friedrich-merz-donald-trump-marine-le-pen](https://www.spiegel.de/politik/deutschland/news-des-tages-schuldenbremse-friedrich-merz-donald-trump-marine-le-pen-a-6d940266-8849-4188-bfca-ec3929f9bad8#ref=rss)
-### le
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-schuldenbremse-friedrich-merz-donald-trump-marine-le-pen](https://www.spiegel.de/politik/deutschland/news-des-tages-schuldenbremse-friedrich-merz-donald-trump-marine-le-pen-a-6d940266-8849-4188-bfca-ec3929f9bad8#ref=rss)
-### pen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-schuldenbremse-friedrich-merz-donald-trump-marine-le-pen](https://www.spiegel.de/politik/deutschland/news-des-tages-schuldenbremse-friedrich-merz-donald-trump-marine-le-pen-a-6d940266-8849-4188-bfca-ec3929f9bad8#ref=rss)
+* [https://www.spiegel.de/geschichte/pete-hegseth-tattoos-sorgen-fuer-aufsehen-rechtsradikale-botschaft](https://www.spiegel.de/geschichte/pete-hegseth-tattoos-sorgen-fuer-aufsehen-rechtsradikale-botschaft-a-4089ba46-1d46-480f-84ff-0104a92646db#ref=rss)
 ### trumps
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-schuldenbremse-friedrich-merz-donald-trump-marine-le-pen](https://www.spiegel.de/politik/deutschland/news-des-tages-schuldenbremse-friedrich-merz-donald-trump-marine-le-pen-a-6d940266-8849-4188-bfca-ec3929f9bad8#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/elon-musk-will-unter-donald-trump-schockwellen-durch-das-system-senden](https://www.spiegel.de/wissenschaft/technik/elon-musk-will-unter-donald-trump-schockwellen-durch-das-system-senden-a-14903568-bde7-4a36-9a4d-37f5572ef869#ref=rss)
-### sydney
+* [https://www.spiegel.de/geschichte/pete-hegseth-tattoos-sorgen-fuer-aufsehen-rechtsradikale-botschaft](https://www.spiegel.de/geschichte/pete-hegseth-tattoos-sorgen-fuer-aufsehen-rechtsradikale-botschaft-a-4089ba46-1d46-480f-84ff-0104a92646db#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-diese-personen-sollen-seinem-regierungsteam-angehoeren](https://www.spiegel.de/ausland/donald-trump-diese-personen-sollen-seinem-regierungsteam-angehoeren-a-81442bb1-85ab-4350-9c6c-e552f5699836#ref=rss)
+### drei
 
-* [https://www.spiegel.de/kultur/kino/sydney-sweeney-schauspielerin-haelt-weibliche-solidaritaet-in-hollywood-fuer-fake](https://www.spiegel.de/kultur/kino/sydney-sweeney-schauspielerin-haelt-weibliche-solidaritaet-in-hollywood-fuer-fake-a-8afdd8f4-952a-41d9-b5de-36f4b8d6472d#ref=rss)
-### sweeney
+* [https://www.spiegel.de/geschichte/pete-hegseth-tattoos-sorgen-fuer-aufsehen-rechtsradikale-botschaft](https://www.spiegel.de/geschichte/pete-hegseth-tattoos-sorgen-fuer-aufsehen-rechtsradikale-botschaft-a-4089ba46-1d46-480f-84ff-0104a92646db#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/australien-das-steckt-hinter-der-furz-app-chart-your-fart](https://www.spiegel.de/netzwelt/apps/australien-das-steckt-hinter-der-furz-app-chart-your-fart-a-3232473e-9684-4a52-9318-37d1c35627fb#ref=rss)
+### bitfinex
 
-* [https://www.spiegel.de/kultur/kino/sydney-sweeney-schauspielerin-haelt-weibliche-solidaritaet-in-hollywood-fuer-fake](https://www.spiegel.de/kultur/kino/sydney-sweeney-schauspielerin-haelt-weibliche-solidaritaet-in-hollywood-fuer-fake-a-8afdd8f4-952a-41d9-b5de-36f4b8d6472d#ref=rss)
-### schauspielerin
+* [https://www.spiegel.de/netzwelt/web/bitcoin-diebstahl-bei-bitfinex-us-hacker-ilya-lichtenstein-zu-fuenf-jahren-gefaengnis-verurteilt](https://www.spiegel.de/netzwelt/web/bitcoin-diebstahl-bei-bitfinex-us-hacker-ilya-lichtenstein-zu-fuenf-jahren-gefaengnis-verurteilt-a-8fc85c09-556c-4def-831c-ecfcf8ba1783#ref=rss)
+### fünf
 
-* [https://www.spiegel.de/kultur/kino/sydney-sweeney-schauspielerin-haelt-weibliche-solidaritaet-in-hollywood-fuer-fake](https://www.spiegel.de/kultur/kino/sydney-sweeney-schauspielerin-haelt-weibliche-solidaritaet-in-hollywood-fuer-fake-a-8afdd8f4-952a-41d9-b5de-36f4b8d6472d#ref=rss)
-### hollywood
+* [https://www.spiegel.de/netzwelt/web/bitcoin-diebstahl-bei-bitfinex-us-hacker-ilya-lichtenstein-zu-fuenf-jahren-gefaengnis-verurteilt](https://www.spiegel.de/netzwelt/web/bitcoin-diebstahl-bei-bitfinex-us-hacker-ilya-lichtenstein-zu-fuenf-jahren-gefaengnis-verurteilt-a-8fc85c09-556c-4def-831c-ecfcf8ba1783#ref=rss)
+* [https://www.spiegel.de/panorama/spanien-mindestens-zehn-tote-bei-brand-in-seniorenheim-nahe-saragossa](https://www.spiegel.de/panorama/spanien-mindestens-zehn-tote-bei-brand-in-seniorenheim-nahe-saragossa-a-53ad8bc9-f04e-4105-ac20-1bda183ad69e#ref=rss)
+### usa
 
-* [https://www.spiegel.de/kultur/kino/sydney-sweeney-schauspielerin-haelt-weibliche-solidaritaet-in-hollywood-fuer-fake](https://www.spiegel.de/kultur/kino/sydney-sweeney-schauspielerin-haelt-weibliche-solidaritaet-in-hollywood-fuer-fake-a-8afdd8f4-952a-41d9-b5de-36f4b8d6472d#ref=rss)
-### alles
+* [https://www.spiegel.de/netzwelt/web/bitcoin-diebstahl-bei-bitfinex-us-hacker-ilya-lichtenstein-zu-fuenf-jahren-gefaengnis-verurteilt](https://www.spiegel.de/netzwelt/web/bitcoin-diebstahl-bei-bitfinex-us-hacker-ilya-lichtenstein-zu-fuenf-jahren-gefaengnis-verurteilt-a-8fc85c09-556c-4def-831c-ecfcf8ba1783#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-nahost-usa-legen-vorschlag-fuer-waffenruhe-im-libanon-vor](https://www.spiegel.de/ausland/krieg-in-nahost-usa-legen-vorschlag-fuer-waffenruhe-im-libanon-vor-a-c8451f20-428a-4f38-8dc6-334a2664e156#ref=rss)
+### england
 
-* [https://www.spiegel.de/kultur/kino/sydney-sweeney-schauspielerin-haelt-weibliche-solidaritaet-in-hollywood-fuer-fake](https://www.spiegel.de/kultur/kino/sydney-sweeney-schauspielerin-haelt-weibliche-solidaritaet-in-hollywood-fuer-fake-a-8afdd8f4-952a-41d9-b5de-36f4b8d6472d#ref=rss)
-* [https://www.spiegel.de/panorama/leute/niederlande-prinzessin-beatrix-schlaeft-bei-termin-ein](https://www.spiegel.de/panorama/leute/niederlande-prinzessin-beatrix-schlaeft-bei-termin-ein-a-e0edd1e9-46b0-411c-a584-80d2a15db93e#ref=rss)
-### sagt
+* [https://www.spiegel.de/wissenschaft/mensch/england-seltener-gladiatoren-messergriff-entdeckt-in-englischer-grafschaft](https://www.spiegel.de/wissenschaft/mensch/england-seltener-gladiatoren-messergriff-entdeckt-in-englischer-grafschaft-a-71a8ca6b-dd4d-470d-9540-3370fd31ecfa#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nations-league-england-vor-aufstieg-italien-stuerzt-belgien-tiefer-in-die-krise](https://www.spiegel.de/sport/fussball/nations-league-england-vor-aufstieg-italien-stuerzt-belgien-tiefer-in-die-krise-a-f3a4d25a-940b-4787-bb84-0673ebde77d7#ref=rss)
+### rand
 
-* [https://www.spiegel.de/kultur/kino/sydney-sweeney-schauspielerin-haelt-weibliche-solidaritaet-in-hollywood-fuer-fake](https://www.spiegel.de/kultur/kino/sydney-sweeney-schauspielerin-haelt-weibliche-solidaritaet-in-hollywood-fuer-fake-a-8afdd8f4-952a-41d9-b5de-36f4b8d6472d#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/onlyfans-bobfahrerin-lisa-buckwitz-arbeitet-mit-erotik-plattform-zusammen](https://www.spiegel.de/sport/wintersport/onlyfans-bobfahrerin-lisa-buckwitz-arbeitet-mit-erotik-plattform-zusammen-a-373911c6-d38d-40d0-9736-ce10b7c2ccd6#ref=rss)
-### vorwürfe
+* [https://www.spiegel.de/wissenschaft/mensch/england-seltener-gladiatoren-messergriff-entdeckt-in-englischer-grafschaft](https://www.spiegel.de/wissenschaft/mensch/england-seltener-gladiatoren-messergriff-entdeckt-in-englischer-grafschaft-a-71a8ca6b-dd4d-470d-9540-3370fd31ecfa#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/marco-buschmann-ueber-ampel-aus-diese-koalition-hat-die-oeffentlichkeit-zum-teil-an-den-rand-des-wahnsinns-getrieben](https://www.spiegel.de/politik/deutschland/marco-buschmann-ueber-ampel-aus-diese-koalition-hat-die-oeffentlichkeit-zum-teil-an-den-rand-des-wahnsinns-getrieben-a-aa2ef4a5-a26c-4f3c-af8d-0b6e7378e21d#ref=rss)
+### römischen
 
-* [https://www.spiegel.de/kultur/kino/sydney-sweeney-schauspielerin-haelt-weibliche-solidaritaet-in-hollywood-fuer-fake](https://www.spiegel.de/kultur/kino/sydney-sweeney-schauspielerin-haelt-weibliche-solidaritaet-in-hollywood-fuer-fake-a-8afdd8f4-952a-41d9-b5de-36f4b8d6472d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bayern-angeblicher-anschlagsplan-mit-macheten-verfahren-gegen-27-jaehrigen-eingestellt](https://www.spiegel.de/panorama/justiz/bayern-angeblicher-anschlagsplan-mit-macheten-verfahren-gegen-27-jaehrigen-eingestellt-a-bd86fad1-85f8-4147-ac4f-d384dcf31045#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/england-seltener-gladiatoren-messergriff-entdeckt-in-englischer-grafschaft](https://www.spiegel.de/wissenschaft/mensch/england-seltener-gladiatoren-messergriff-entdeckt-in-englischer-grafschaft-a-71a8ca6b-dd4d-470d-9540-3370fd31ecfa#ref=rss)
+### marco
+
+* [https://www.spiegel.de/politik/deutschland/marco-buschmann-ueber-ampel-aus-diese-koalition-hat-die-oeffentlichkeit-zum-teil-an-den-rand-des-wahnsinns-getrieben](https://www.spiegel.de/politik/deutschland/marco-buschmann-ueber-ampel-aus-diese-koalition-hat-die-oeffentlichkeit-zum-teil-an-den-rand-des-wahnsinns-getrieben-a-aa2ef4a5-a26c-4f3c-af8d-0b6e7378e21d#ref=rss)
+### buschmann
+
+* [https://www.spiegel.de/politik/deutschland/marco-buschmann-ueber-ampel-aus-diese-koalition-hat-die-oeffentlichkeit-zum-teil-an-den-rand-des-wahnsinns-getrieben](https://www.spiegel.de/politik/deutschland/marco-buschmann-ueber-ampel-aus-diese-koalition-hat-die-oeffentlichkeit-zum-teil-an-den-rand-des-wahnsinns-getrieben-a-aa2ef4a5-a26c-4f3c-af8d-0b6e7378e21d#ref=rss)
+### alle
+
+* [https://www.spiegel.de/netzwelt/apps/australien-das-steckt-hinter-der-furz-app-chart-your-fart](https://www.spiegel.de/netzwelt/apps/australien-das-steckt-hinter-der-furz-app-chart-your-fart-a-3232473e-9684-4a52-9318-37d1c35627fb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bsw-mitgliederaufnahme-beim-buendnis-sahra-wagenknecht-die-bsw-kaderschmiede](https://www.spiegel.de/politik/deutschland/bsw-mitgliederaufnahme-beim-buendnis-sahra-wagenknecht-die-bsw-kaderschmiede-a-bb43589f-34bf-4bbe-a9ff-1615c0c50b4f#ref=rss)
+### neue
+
+* [https://www.spiegel.de/netzwelt/apps/australien-das-steckt-hinter-der-furz-app-chart-your-fart](https://www.spiegel.de/netzwelt/apps/australien-das-steckt-hinter-der-furz-app-chart-your-fart-a-3232473e-9684-4a52-9318-37d1c35627fb#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-neue-sicherheitsdoktrin-erarbeiten](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-neue-sicherheitsdoktrin-erarbeiten-a-65089241-f385-4797-b4ea-e170609265b3#ref=rss)
+### tage
+
+* [https://www.spiegel.de/netzwelt/apps/australien-das-steckt-hinter-der-furz-app-chart-your-fart](https://www.spiegel.de/netzwelt/apps/australien-das-steckt-hinter-der-furz-app-chart-your-fart-a-3232473e-9684-4a52-9318-37d1c35627fb#ref=rss)
+* [https://www.spiegel.de/sport/vendee-globe-boris-herrmann-segelt-vom-letzten-platz-in-die-spitzengruppe](https://www.spiegel.de/sport/vendee-globe-boris-herrmann-segelt-vom-letzten-platz-in-die-spitzengruppe-a-c80c61b0-d5b7-43cd-836d-628528378e23#ref=rss)
+### tag
+
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### boris
+
+* [https://www.spiegel.de/sport/vendee-globe-boris-herrmann-segelt-vom-letzten-platz-in-die-spitzengruppe](https://www.spiegel.de/sport/vendee-globe-boris-herrmann-segelt-vom-letzten-platz-in-die-spitzengruppe-a-c80c61b0-d5b7-43cd-836d-628528378e23#ref=rss)
+### herrmann
+
+* [https://www.spiegel.de/sport/vendee-globe-boris-herrmann-segelt-vom-letzten-platz-in-die-spitzengruppe](https://www.spiegel.de/sport/vendee-globe-boris-herrmann-segelt-vom-letzten-platz-in-die-spitzengruppe-a-c80c61b0-d5b7-43cd-836d-628528378e23#ref=rss)
+### platz
+
+* [https://www.spiegel.de/sport/vendee-globe-boris-herrmann-segelt-vom-letzten-platz-in-die-spitzengruppe](https://www.spiegel.de/sport/vendee-globe-boris-herrmann-segelt-vom-letzten-platz-in-die-spitzengruppe-a-c80c61b0-d5b7-43cd-836d-628528378e23#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-qualifikation-argentinien-verliert-gegen-paraguay-brasiliens-vinicius-junior-verschiesst-elfmeter](https://www.spiegel.de/sport/fussball/wm-qualifikation-argentinien-verliert-gegen-paraguay-brasiliens-vinicius-junior-verschiesst-elfmeter-a-806b674d-f761-45fe-9012-3f7f3c6961fa#ref=rss)
+### demograf
+
+* [https://www.spiegel.de/ausland/us-wahl-demograf-ueber-stimmen-der-generation-z-maenner-und-frauen-auf-unterschiedlichen-planeten](https://www.spiegel.de/ausland/us-wahl-demograf-ueber-stimmen-der-generation-z-maenner-und-frauen-auf-unterschiedlichen-planeten-a-42782fbd-4ffa-4c77-ac80-a18e62391e6a#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/ausland/us-wahl-demograf-ueber-stimmen-der-generation-z-maenner-und-frauen-auf-unterschiedlichen-planeten](https://www.spiegel.de/ausland/us-wahl-demograf-ueber-stimmen-der-generation-z-maenner-und-frauen-auf-unterschiedlichen-planeten-a-42782fbd-4ffa-4c77-ac80-a18e62391e6a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hessen-ermittler-fassen-mutmasslichen-serienvergewaltiger](https://www.spiegel.de/panorama/justiz/hessen-ermittler-fassen-mutmasslichen-serienvergewaltiger-a-d47361b4-7162-4c5e-ac0a-1b26a6d37ed4#ref=rss)
+### ermittler
+
+* [https://www.spiegel.de/panorama/justiz/hessen-ermittler-fassen-mutmasslichen-serienvergewaltiger](https://www.spiegel.de/panorama/justiz/hessen-ermittler-fassen-mutmasslichen-serienvergewaltiger-a-d47361b4-7162-4c5e-ac0a-1b26a6d37ed4#ref=rss)
+### vorgeworfen
+
+* [https://www.spiegel.de/panorama/justiz/hessen-ermittler-fassen-mutmasslichen-serienvergewaltiger](https://www.spiegel.de/panorama/justiz/hessen-ermittler-fassen-mutmasslichen-serienvergewaltiger-a-d47361b4-7162-4c5e-ac0a-1b26a6d37ed4#ref=rss)
+* [https://www.spiegel.de/ausland/suedkorea-oppositionsfuehrer-lee-jae-myung-zu-gefaengnisstrafe-verurteilt](https://www.spiegel.de/ausland/suedkorea-oppositionsfuehrer-lee-jae-myung-zu-gefaengnisstrafe-verurteilt-a-24a2de7d-8279-4191-a57b-07b2fab99247#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/panorama/spanien-mindestens-zehn-tote-bei-brand-in-seniorenheim-nahe-saragossa](https://www.spiegel.de/panorama/spanien-mindestens-zehn-tote-bei-brand-in-seniorenheim-nahe-saragossa-a-53ad8bc9-f04e-4105-ac20-1bda183ad69e#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-diese-personen-sollen-seinem-regierungsteam-angehoeren](https://www.spiegel.de/ausland/donald-trump-diese-personen-sollen-seinem-regierungsteam-angehoeren-a-81442bb1-85ab-4350-9c6c-e552f5699836#ref=rss)
 ### berlin
 
-* [https://www.spiegel.de/kultur/berlin-cagla-ilk-wird-intendantin-am-maxim-gorki-theater](https://www.spiegel.de/kultur/berlin-cagla-ilk-wird-intendantin-am-maxim-gorki-theater-a-fc976770-6e26-40f2-8446-3e5ddc5787aa#ref=rss)
-* [https://www.spiegel.de/kultur/kino/berlinale-2025-regisseur-todd-haynes-wird-jury-praesident-der-75-filmfestspiele-in-berlin](https://www.spiegel.de/kultur/kino/berlinale-2025-regisseur-todd-haynes-wird-jury-praesident-der-75-filmfestspiele-in-berlin-a-cfc6a9b4-f6c3-49d2-b1b6-1ab6776ae435#ref=rss)
-### çağla
+* [https://www.spiegel.de/panorama/gesellschaft/ampel-aus-in-berlin-was-das-fuer-die-echten-ampeln-bedeutet-ich-sehe-rot-satire](https://www.spiegel.de/panorama/gesellschaft/ampel-aus-in-berlin-was-das-fuer-die-echten-ampeln-bedeutet-ich-sehe-rot-satire-a-69eea78b-436c-4416-8783-5fafb3a6a3f6#ref=rss)
+### ruf
 
-* [https://www.spiegel.de/kultur/berlin-cagla-ilk-wird-intendantin-am-maxim-gorki-theater](https://www.spiegel.de/kultur/berlin-cagla-ilk-wird-intendantin-am-maxim-gorki-theater-a-fc976770-6e26-40f2-8446-3e5ddc5787aa#ref=rss)
-### ilk
+* [https://www.spiegel.de/panorama/gesellschaft/ampel-aus-in-berlin-was-das-fuer-die-echten-ampeln-bedeutet-ich-sehe-rot-satire](https://www.spiegel.de/panorama/gesellschaft/ampel-aus-in-berlin-was-das-fuer-die-echten-ampeln-bedeutet-ich-sehe-rot-satire-a-69eea78b-436c-4416-8783-5fafb3a6a3f6#ref=rss)
+### land
 
-* [https://www.spiegel.de/kultur/berlin-cagla-ilk-wird-intendantin-am-maxim-gorki-theater](https://www.spiegel.de/kultur/berlin-cagla-ilk-wird-intendantin-am-maxim-gorki-theater-a-fc976770-6e26-40f2-8446-3e5ddc5787aa#ref=rss)
-### intendantin
+* [https://www.spiegel.de/panorama/gesellschaft/ampel-aus-in-berlin-was-das-fuer-die-echten-ampeln-bedeutet-ich-sehe-rot-satire](https://www.spiegel.de/panorama/gesellschaft/ampel-aus-in-berlin-was-das-fuer-die-echten-ampeln-bedeutet-ich-sehe-rot-satire-a-69eea78b-436c-4416-8783-5fafb3a6a3f6#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-neue-sicherheitsdoktrin-erarbeiten](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-neue-sicherheitsdoktrin-erarbeiten-a-65089241-f385-4797-b4ea-e170609265b3#ref=rss)
+### scheint
 
-* [https://www.spiegel.de/kultur/berlin-cagla-ilk-wird-intendantin-am-maxim-gorki-theater](https://www.spiegel.de/kultur/berlin-cagla-ilk-wird-intendantin-am-maxim-gorki-theater-a-fc976770-6e26-40f2-8446-3e5ddc5787aa#ref=rss)
-### gorki
+* [https://www.spiegel.de/panorama/gesellschaft/ampel-aus-in-berlin-was-das-fuer-die-echten-ampeln-bedeutet-ich-sehe-rot-satire](https://www.spiegel.de/panorama/gesellschaft/ampel-aus-in-berlin-was-das-fuer-die-echten-ampeln-bedeutet-ich-sehe-rot-satire-a-69eea78b-436c-4416-8783-5fafb3a6a3f6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/tarifeinigung-gebaeudereiniger-erhalten-deutlich-mehr-lohn](https://www.spiegel.de/wirtschaft/tarifeinigung-gebaeudereiniger-erhalten-deutlich-mehr-lohn-a-94f1c1ef-f95d-40bd-8398-b23a78a47cd0#ref=rss)
+### unilever
 
-* [https://www.spiegel.de/kultur/berlin-cagla-ilk-wird-intendantin-am-maxim-gorki-theater](https://www.spiegel.de/kultur/berlin-cagla-ilk-wird-intendantin-am-maxim-gorki-theater-a-fc976770-6e26-40f2-8446-3e5ddc5787aa#ref=rss)
-### zuletzt
+* [https://www.spiegel.de/wirtschaft/unternehmen/unilever-ben-jerrys-verklagt-muttergesellschaft-wegen-nahostkonflikt](https://www.spiegel.de/wirtschaft/unternehmen/unilever-ben-jerrys-verklagt-muttergesellschaft-wegen-nahostkonflikt-a-35116508-11d8-4db6-b6dc-962d5f04efed#ref=rss)
+### ben
 
-* [https://www.spiegel.de/kultur/berlin-cagla-ilk-wird-intendantin-am-maxim-gorki-theater](https://www.spiegel.de/kultur/berlin-cagla-ilk-wird-intendantin-am-maxim-gorki-theater-a-fc976770-6e26-40f2-8446-3e5ddc5787aa#ref=rss)
-* [https://www.spiegel.de/wirtschaft/dax-unternehmen-gewinne-sinken-deutlich](https://www.spiegel.de/wirtschaft/dax-unternehmen-gewinne-sinken-deutlich-a-a76e3951-4a18-4354-bac5-e9dc0d6dd8fd#ref=rss)
-### kevin
+* [https://www.spiegel.de/wirtschaft/unternehmen/unilever-ben-jerrys-verklagt-muttergesellschaft-wegen-nahostkonflikt](https://www.spiegel.de/wirtschaft/unternehmen/unilever-ben-jerrys-verklagt-muttergesellschaft-wegen-nahostkonflikt-a-35116508-11d8-4db6-b6dc-962d5f04efed#ref=rss)
+### vorstand
 
-* [https://www.spiegel.de/kultur/kino/kevin-costner-yellowstone-will-nicht-den-eigenen-selbstmord-schauen](https://www.spiegel.de/kultur/kino/kevin-costner-yellowstone-will-nicht-den-eigenen-selbstmord-schauen-a-ab672dc2-01ee-4e26-98a7-42ef534a4b07#ref=rss)
-### costner
+* [https://www.spiegel.de/wirtschaft/unternehmen/unilever-ben-jerrys-verklagt-muttergesellschaft-wegen-nahostkonflikt](https://www.spiegel.de/wirtschaft/unternehmen/unilever-ben-jerrys-verklagt-muttergesellschaft-wegen-nahostkonflikt-a-35116508-11d8-4db6-b6dc-962d5f04efed#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bsw-mitgliederaufnahme-beim-buendnis-sahra-wagenknecht-die-bsw-kaderschmiede](https://www.spiegel.de/politik/deutschland/bsw-mitgliederaufnahme-beim-buendnis-sahra-wagenknecht-die-bsw-kaderschmiede-a-bb43589f-34bf-4bbe-a9ff-1615c0c50b4f#ref=rss)
+### oppositionsführer
 
-* [https://www.spiegel.de/kultur/kino/kevin-costner-yellowstone-will-nicht-den-eigenen-selbstmord-schauen](https://www.spiegel.de/kultur/kino/kevin-costner-yellowstone-will-nicht-den-eigenen-selbstmord-schauen-a-ab672dc2-01ee-4e26-98a7-42ef534a4b07#ref=rss)
-### yellowstone
+* [https://www.spiegel.de/ausland/suedkorea-oppositionsfuehrer-lee-jae-myung-zu-gefaengnisstrafe-verurteilt](https://www.spiegel.de/ausland/suedkorea-oppositionsfuehrer-lee-jae-myung-zu-gefaengnisstrafe-verurteilt-a-24a2de7d-8279-4191-a57b-07b2fab99247#ref=rss)
+### lee
 
-* [https://www.spiegel.de/kultur/kino/kevin-costner-yellowstone-will-nicht-den-eigenen-selbstmord-schauen](https://www.spiegel.de/kultur/kino/kevin-costner-yellowstone-will-nicht-den-eigenen-selbstmord-schauen-a-ab672dc2-01ee-4e26-98a7-42ef534a4b07#ref=rss)
-### thomas
+* [https://www.spiegel.de/ausland/suedkorea-oppositionsfuehrer-lee-jae-myung-zu-gefaengnisstrafe-verurteilt](https://www.spiegel.de/ausland/suedkorea-oppositionsfuehrer-lee-jae-myung-zu-gefaengnisstrafe-verurteilt-a-24a2de7d-8279-4191-a57b-07b2fab99247#ref=rss)
+### jaemyung
 
-* [https://www.spiegel.de/kultur/literatur/thomas-straessles-fluchtnovelle-romeo-und-julia-wollen-raus-aus-der-ddr](https://www.spiegel.de/kultur/literatur/thomas-straessles-fluchtnovelle-romeo-und-julia-wollen-raus-aus-der-ddr-a-8839c561-94be-45d7-958d-b6a6edfb41c2#ref=rss)
-### express
+* [https://www.spiegel.de/ausland/suedkorea-oppositionsfuehrer-lee-jae-myung-zu-gefaengnisstrafe-verurteilt](https://www.spiegel.de/ausland/suedkorea-oppositionsfuehrer-lee-jae-myung-zu-gefaengnisstrafe-verurteilt-a-24a2de7d-8279-4191-a57b-07b2fab99247#ref=rss)
+### regierungsteam
 
-* [https://www.spiegel.de/wissenschaft/mensch/unterwasser-archaeologie-wrack-des-raddampfers-express-i-in-der-ostsee-gefunden](https://www.spiegel.de/wissenschaft/mensch/unterwasser-archaeologie-wrack-des-raddampfers-express-i-in-der-ostsee-gefunden-a-c10745c5-d8a3-4701-b640-abb6976c1baf#ref=rss)
-### i
+* [https://www.spiegel.de/ausland/donald-trump-diese-personen-sollen-seinem-regierungsteam-angehoeren](https://www.spiegel.de/ausland/donald-trump-diese-personen-sollen-seinem-regierungsteam-angehoeren-a-81442bb1-85ab-4350-9c6c-e552f5699836#ref=rss)
+### halle
 
-* [https://www.spiegel.de/wissenschaft/mensch/unterwasser-archaeologie-wrack-des-raddampfers-express-i-in-der-ostsee-gefunden](https://www.spiegel.de/wissenschaft/mensch/unterwasser-archaeologie-wrack-des-raddampfers-express-i-in-der-ostsee-gefunden-a-c10745c5-d8a3-4701-b640-abb6976c1baf#ref=rss)
-### ostsee
+* [https://www.spiegel.de/panorama/leute/halle-berry-kopiert-ihr-oscar-outfit-von-2002](https://www.spiegel.de/panorama/leute/halle-berry-kopiert-ihr-oscar-outfit-von-2002-a-6d2e50e8-f6b2-46f7-978d-530564dd0edb#ref=rss)
+### berry
 
-* [https://www.spiegel.de/wissenschaft/mensch/unterwasser-archaeologie-wrack-des-raddampfers-express-i-in-der-ostsee-gefunden](https://www.spiegel.de/wissenschaft/mensch/unterwasser-archaeologie-wrack-des-raddampfers-express-i-in-der-ostsee-gefunden-a-c10745c5-d8a3-4701-b640-abb6976c1baf#ref=rss)
-### özdemir
+* [https://www.spiegel.de/panorama/leute/halle-berry-kopiert-ihr-oscar-outfit-von-2002](https://www.spiegel.de/panorama/leute/halle-berry-kopiert-ihr-oscar-outfit-von-2002-a-6d2e50e8-f6b2-46f7-978d-530564dd0edb#ref=rss)
+### hauptdarstellerin
 
-* [https://www.spiegel.de/panorama/bildung/cez-oezdemir-an-welche-fuenf-projekte-der-neue-bildungsminister-jetzt-ran-muss](https://www.spiegel.de/panorama/bildung/cez-oezdemir-an-welche-fuenf-projekte-der-neue-bildungsminister-jetzt-ran-muss-a-a2abd638-eb1a-403d-9f91-a8a7db5e0cc2#ref=rss)
-### neuen
+* [https://www.spiegel.de/panorama/leute/halle-berry-kopiert-ihr-oscar-outfit-von-2002](https://www.spiegel.de/panorama/leute/halle-berry-kopiert-ihr-oscar-outfit-von-2002-a-6d2e50e8-f6b2-46f7-978d-530564dd0edb#ref=rss)
+* [https://www.spiegel.de/kultur/tomb-raider-serie-von-amazon-sophie-turner-soll-zu-lara-croft-werden](https://www.spiegel.de/kultur/tomb-raider-serie-von-amazon-sophie-turner-soll-zu-lara-croft-werden-a-6656dca3-55a2-4de8-ad20-43f5d90a8b3c#ref=rss)
+### mike
 
-* [https://www.spiegel.de/panorama/bildung/cez-oezdemir-an-welche-fuenf-projekte-der-neue-bildungsminister-jetzt-ran-muss](https://www.spiegel.de/panorama/bildung/cez-oezdemir-an-welche-fuenf-projekte-der-neue-bildungsminister-jetzt-ran-muss-a-a2abd638-eb1a-403d-9f91-a8a7db5e0cc2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/alzheimer-medikament-lecanemab-warum-dieser-freitag-ein-schicksalstag-werden-koennte](https://www.spiegel.de/wirtschaft/service/alzheimer-medikament-lecanemab-warum-dieser-freitag-ein-schicksalstag-werden-koennte-a-78349a0c-c89c-4699-8b93-133af985457b#ref=rss)
-### gewinne
+* [https://www.spiegel.de/sport/mike-tyson-gegen-jake-paul-der-boese-gegen-das-grossmaul](https://www.spiegel.de/sport/mike-tyson-gegen-jake-paul-der-boese-gegen-das-grossmaul-a-c85b44f1-f155-492e-9f45-69ef8dc00b2f#ref=rss)
+### tyson
 
-* [https://www.spiegel.de/wirtschaft/dax-unternehmen-gewinne-sinken-deutlich](https://www.spiegel.de/wirtschaft/dax-unternehmen-gewinne-sinken-deutlich-a-a76e3951-4a18-4354-bac5-e9dc0d6dd8fd#ref=rss)
+* [https://www.spiegel.de/sport/mike-tyson-gegen-jake-paul-der-boese-gegen-das-grossmaul](https://www.spiegel.de/sport/mike-tyson-gegen-jake-paul-der-boese-gegen-das-grossmaul-a-c85b44f1-f155-492e-9f45-69ef8dc00b2f#ref=rss)
+### bundespolizei
+
+* [https://www.spiegel.de/panorama/migration-sinkende-asylbewerberzahlen-ein-verdienst-der-bundespolizei](https://www.spiegel.de/panorama/migration-sinkende-asylbewerberzahlen-ein-verdienst-der-bundespolizei-a-1a24f0bf-95a9-4140-b950-31cb2a44bcfa#ref=rss)
+### deutlich
+
+* [https://www.spiegel.de/panorama/migration-sinkende-asylbewerberzahlen-ein-verdienst-der-bundespolizei](https://www.spiegel.de/panorama/migration-sinkende-asylbewerberzahlen-ein-verdienst-der-bundespolizei-a-1a24f0bf-95a9-4140-b950-31cb2a44bcfa#ref=rss)
+* [https://www.spiegel.de/wirtschaft/tarifeinigung-gebaeudereiniger-erhalten-deutlich-mehr-lohn](https://www.spiegel.de/wirtschaft/tarifeinigung-gebaeudereiniger-erhalten-deutlich-mehr-lohn-a-94f1c1ef-f95d-40bd-8398-b23a78a47cd0#ref=rss)
+### sophie
+
+* [https://www.spiegel.de/kultur/tomb-raider-serie-von-amazon-sophie-turner-soll-zu-lara-croft-werden](https://www.spiegel.de/kultur/tomb-raider-serie-von-amazon-sophie-turner-soll-zu-lara-croft-werden-a-6656dca3-55a2-4de8-ad20-43f5d90a8b3c#ref=rss)
+### turner
+
+* [https://www.spiegel.de/kultur/tomb-raider-serie-von-amazon-sophie-turner-soll-zu-lara-croft-werden](https://www.spiegel.de/kultur/tomb-raider-serie-von-amazon-sophie-turner-soll-zu-lara-croft-werden-a-6656dca3-55a2-4de8-ad20-43f5d90a8b3c#ref=rss)
+### lara
+
+* [https://www.spiegel.de/kultur/tomb-raider-serie-von-amazon-sophie-turner-soll-zu-lara-croft-werden](https://www.spiegel.de/kultur/tomb-raider-serie-von-amazon-sophie-turner-soll-zu-lara-croft-werden-a-6656dca3-55a2-4de8-ad20-43f5d90a8b3c#ref=rss)
+### croft
+
+* [https://www.spiegel.de/kultur/tomb-raider-serie-von-amazon-sophie-turner-soll-zu-lara-croft-werden](https://www.spiegel.de/kultur/tomb-raider-serie-von-amazon-sophie-turner-soll-zu-lara-croft-werden-a-6656dca3-55a2-4de8-ad20-43f5d90a8b3c#ref=rss)
+### argentinien
+
+* [https://www.spiegel.de/sport/fussball/wm-qualifikation-argentinien-verliert-gegen-paraguay-brasiliens-vinicius-junior-verschiesst-elfmeter](https://www.spiegel.de/sport/fussball/wm-qualifikation-argentinien-verliert-gegen-paraguay-brasiliens-vinicius-junior-verschiesst-elfmeter-a-806b674d-f761-45fe-9012-3f7f3c6961fa#ref=rss)
+### sieg
+
+* [https://www.spiegel.de/sport/fussball/wm-qualifikation-argentinien-verliert-gegen-paraguay-brasiliens-vinicius-junior-verschiesst-elfmeter](https://www.spiegel.de/sport/fussball/wm-qualifikation-argentinien-verliert-gegen-paraguay-brasiliens-vinicius-junior-verschiesst-elfmeter-a-806b674d-f761-45fe-9012-3f7f3c6961fa#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nations-league-england-vor-aufstieg-italien-stuerzt-belgien-tiefer-in-die-krise](https://www.spiegel.de/sport/fussball/nations-league-england-vor-aufstieg-italien-stuerzt-belgien-tiefer-in-die-krise-a-f3a4d25a-940b-4787-bb84-0673ebde77d7#ref=rss)
+### netz
+
+* [https://www.spiegel.de/panorama/norwegen-amerikanisches-atom-u-boot-geht-norwegischen-fischern-ins-netz](https://www.spiegel.de/panorama/norwegen-amerikanisches-atom-u-boot-geht-norwegischen-fischern-ins-netz-a-fe47626e-3626-4bab-afa7-67edc02f324b#ref=rss)
+### hatten
+
+* [https://www.spiegel.de/panorama/norwegen-amerikanisches-atom-u-boot-geht-norwegischen-fischern-ins-netz](https://www.spiegel.de/panorama/norwegen-amerikanisches-atom-u-boot-geht-norwegischen-fischern-ins-netz-a-fe47626e-3626-4bab-afa7-67edc02f324b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/krankenkassen-techniker-chef-geht-von-drastischen-beitragserhoehungen-aus](https://www.spiegel.de/wirtschaft/krankenkassen-techniker-chef-geht-von-drastischen-beitragserhoehungen-aus-a-3045d086-bebf-4b0c-8692-ab3d225dc290#ref=rss)
 ### unternehmen
 
-* [https://www.spiegel.de/wirtschaft/dax-unternehmen-gewinne-sinken-deutlich](https://www.spiegel.de/wirtschaft/dax-unternehmen-gewinne-sinken-deutlich-a-a76e3951-4a18-4354-bac5-e9dc0d6dd8fd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ungerechte-steuerregel-eu-kommission-verklagt-deutschland](https://www.spiegel.de/wirtschaft/ungerechte-steuerregel-eu-kommission-verklagt-deutschland-a-fc608337-aab7-472c-a48c-418ac2a50a6f#ref=rss)
-### eukommission
+* [https://www.spiegel.de/wirtschaft/ifo-index-deutsche-unternehmen-in-sorge-um-ihre-existenz](https://www.spiegel.de/wirtschaft/ifo-index-deutsche-unternehmen-in-sorge-um-ihre-existenz-a-6c4c55a8-5be1-4c50-a5f0-5c397ab36f2f#ref=rss)
+### folgen
 
-* [https://www.spiegel.de/wirtschaft/ungerechte-steuerregel-eu-kommission-verklagt-deutschland](https://www.spiegel.de/wirtschaft/ungerechte-steuerregel-eu-kommission-verklagt-deutschland-a-fc608337-aab7-472c-a48c-418ac2a50a6f#ref=rss)
-### onlyfans
+* [https://www.spiegel.de/wirtschaft/ifo-index-deutsche-unternehmen-in-sorge-um-ihre-existenz](https://www.spiegel.de/wirtschaft/ifo-index-deutsche-unternehmen-in-sorge-um-ihre-existenz-a-6c4c55a8-5be1-4c50-a5f0-5c397ab36f2f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/krankenkassen-techniker-chef-geht-von-drastischen-beitragserhoehungen-aus](https://www.spiegel.de/wirtschaft/krankenkassen-techniker-chef-geht-von-drastischen-beitragserhoehungen-aus-a-3045d086-bebf-4b0c-8692-ab3d225dc290#ref=rss)
+### bsw
 
-* [https://www.spiegel.de/sport/wintersport/onlyfans-bobfahrerin-lisa-buckwitz-arbeitet-mit-erotik-plattform-zusammen](https://www.spiegel.de/sport/wintersport/onlyfans-bobfahrerin-lisa-buckwitz-arbeitet-mit-erotik-plattform-zusammen-a-373911c6-d38d-40d0-9736-ce10b7c2ccd6#ref=rss)
-### lisa
+* [https://www.spiegel.de/politik/deutschland/bsw-mitgliederaufnahme-beim-buendnis-sahra-wagenknecht-die-bsw-kaderschmiede](https://www.spiegel.de/politik/deutschland/bsw-mitgliederaufnahme-beim-buendnis-sahra-wagenknecht-die-bsw-kaderschmiede-a-bb43589f-34bf-4bbe-a9ff-1615c0c50b4f#ref=rss)
+### gebäudereiniger
 
-* [https://www.spiegel.de/sport/wintersport/onlyfans-bobfahrerin-lisa-buckwitz-arbeitet-mit-erotik-plattform-zusammen](https://www.spiegel.de/sport/wintersport/onlyfans-bobfahrerin-lisa-buckwitz-arbeitet-mit-erotik-plattform-zusammen-a-373911c6-d38d-40d0-9736-ce10b7c2ccd6#ref=rss)
-### buckwitz
+* [https://www.spiegel.de/wirtschaft/tarifeinigung-gebaeudereiniger-erhalten-deutlich-mehr-lohn](https://www.spiegel.de/wirtschaft/tarifeinigung-gebaeudereiniger-erhalten-deutlich-mehr-lohn-a-94f1c1ef-f95d-40bd-8398-b23a78a47cd0#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/sport/wintersport/onlyfans-bobfahrerin-lisa-buckwitz-arbeitet-mit-erotik-plattform-zusammen](https://www.spiegel.de/sport/wintersport/onlyfans-bobfahrerin-lisa-buckwitz-arbeitet-mit-erotik-plattform-zusammen-a-373911c6-d38d-40d0-9736-ce10b7c2ccd6#ref=rss)
-### arbeitet
+* [https://www.spiegel.de/wirtschaft/tarifeinigung-gebaeudereiniger-erhalten-deutlich-mehr-lohn](https://www.spiegel.de/wirtschaft/tarifeinigung-gebaeudereiniger-erhalten-deutlich-mehr-lohn-a-94f1c1ef-f95d-40bd-8398-b23a78a47cd0#ref=rss)
+### ig
 
-* [https://www.spiegel.de/sport/wintersport/onlyfans-bobfahrerin-lisa-buckwitz-arbeitet-mit-erotik-plattform-zusammen](https://www.spiegel.de/sport/wintersport/onlyfans-bobfahrerin-lisa-buckwitz-arbeitet-mit-erotik-plattform-zusammen-a-373911c6-d38d-40d0-9736-ce10b7c2ccd6#ref=rss)
-### erotikplattform
+* [https://www.spiegel.de/wirtschaft/tarifeinigung-gebaeudereiniger-erhalten-deutlich-mehr-lohn](https://www.spiegel.de/wirtschaft/tarifeinigung-gebaeudereiniger-erhalten-deutlich-mehr-lohn-a-94f1c1ef-f95d-40bd-8398-b23a78a47cd0#ref=rss)
+### bau
 
-* [https://www.spiegel.de/sport/wintersport/onlyfans-bobfahrerin-lisa-buckwitz-arbeitet-mit-erotik-plattform-zusammen](https://www.spiegel.de/sport/wintersport/onlyfans-bobfahrerin-lisa-buckwitz-arbeitet-mit-erotik-plattform-zusammen-a-373911c6-d38d-40d0-9736-ce10b7c2ccd6#ref=rss)
-### zusammen
+* [https://www.spiegel.de/wirtschaft/tarifeinigung-gebaeudereiniger-erhalten-deutlich-mehr-lohn](https://www.spiegel.de/wirtschaft/tarifeinigung-gebaeudereiniger-erhalten-deutlich-mehr-lohn-a-94f1c1ef-f95d-40bd-8398-b23a78a47cd0#ref=rss)
+### mannheim
 
-* [https://www.spiegel.de/sport/wintersport/onlyfans-bobfahrerin-lisa-buckwitz-arbeitet-mit-erotik-plattform-zusammen](https://www.spiegel.de/sport/wintersport/onlyfans-bobfahrerin-lisa-buckwitz-arbeitet-mit-erotik-plattform-zusammen-a-373911c6-d38d-40d0-9736-ce10b7c2ccd6#ref=rss)
-### erste
+* [https://www.spiegel.de/panorama/justiz/messeranschlag-von-mannheim-wie-sich-attentaeter-sulaiman-ataee-radikalisierte](https://www.spiegel.de/panorama/justiz/messeranschlag-von-mannheim-wie-sich-attentaeter-sulaiman-ataee-radikalisierte-a-66adf2cd-e96b-4490-a752-b4793bf74cba#ref=rss)
+### sulaiman
 
-* [https://www.spiegel.de/sport/wintersport/onlyfans-bobfahrerin-lisa-buckwitz-arbeitet-mit-erotik-plattform-zusammen](https://www.spiegel.de/sport/wintersport/onlyfans-bobfahrerin-lisa-buckwitz-arbeitet-mit-erotik-plattform-zusammen-a-373911c6-d38d-40d0-9736-ce10b7c2ccd6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-donald-trump-und-seine-strafzoelle-koennten-die-inflation-zurueckbringen](https://www.spiegel.de/wirtschaft/usa-donald-trump-und-seine-strafzoelle-koennten-die-inflation-zurueckbringen-a-5f7a1f5e-3929-4014-822b-c2e0bb40d171#ref=rss)
-### ich
+* [https://www.spiegel.de/panorama/justiz/messeranschlag-von-mannheim-wie-sich-attentaeter-sulaiman-ataee-radikalisierte](https://www.spiegel.de/panorama/justiz/messeranschlag-von-mannheim-wie-sich-attentaeter-sulaiman-ataee-radikalisierte-a-66adf2cd-e96b-4490-a752-b4793bf74cba#ref=rss)
+### ataee
 
-* [https://www.spiegel.de/sport/wintersport/onlyfans-bobfahrerin-lisa-buckwitz-arbeitet-mit-erotik-plattform-zusammen](https://www.spiegel.de/sport/wintersport/onlyfans-bobfahrerin-lisa-buckwitz-arbeitet-mit-erotik-plattform-zusammen-a-373911c6-d38d-40d0-9736-ce10b7c2ccd6#ref=rss)
-### saskia
+* [https://www.spiegel.de/panorama/justiz/messeranschlag-von-mannheim-wie-sich-attentaeter-sulaiman-ataee-radikalisierte](https://www.spiegel.de/panorama/justiz/messeranschlag-von-mannheim-wie-sich-attentaeter-sulaiman-ataee-radikalisierte-a-66adf2cd-e96b-4490-a752-b4793bf74cba#ref=rss)
+### waffenruhe
 
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-spd-geht-laut-saskia-esken-mit-olaf-scholz-als-kanzlerkandidat-in-die-neuwahl](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-spd-geht-laut-saskia-esken-mit-olaf-scholz-als-kanzlerkandidat-in-die-neuwahl-a-f6458bb5-19d3-45d1-bd76-df28ee145e58#ref=rss)
-### esken
+* [https://www.spiegel.de/ausland/krieg-in-nahost-usa-legen-vorschlag-fuer-waffenruhe-im-libanon-vor](https://www.spiegel.de/ausland/krieg-in-nahost-usa-legen-vorschlag-fuer-waffenruhe-im-libanon-vor-a-c8451f20-428a-4f38-8dc6-334a2664e156#ref=rss)
+### libanon
 
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-spd-geht-laut-saskia-esken-mit-olaf-scholz-als-kanzlerkandidat-in-die-neuwahl](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-spd-geht-laut-saskia-esken-mit-olaf-scholz-als-kanzlerkandidat-in-die-neuwahl-a-f6458bb5-19d3-45d1-bd76-df28ee145e58#ref=rss)
-### wahl
+* [https://www.spiegel.de/ausland/krieg-in-nahost-usa-legen-vorschlag-fuer-waffenruhe-im-libanon-vor](https://www.spiegel.de/ausland/krieg-in-nahost-usa-legen-vorschlag-fuer-waffenruhe-im-libanon-vor-a-c8451f20-428a-4f38-8dc6-334a2664e156#ref=rss)
+### prinzessin
 
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-spd-geht-laut-saskia-esken-mit-olaf-scholz-als-kanzlerkandidat-in-die-neuwahl](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-spd-geht-laut-saskia-esken-mit-olaf-scholz-als-kanzlerkandidat-in-die-neuwahl-a-f6458bb5-19d3-45d1-bd76-df28ee145e58#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/abtreibung-bundestag-soll-noch-vor-der-wahl-ueber-legalisierung-abstimmen](https://www.spiegel.de/politik/deutschland/abtreibung-bundestag-soll-noch-vor-der-wahl-ueber-legalisierung-abstimmen-a-e557bb8f-0e15-4fd3-90dd-d5cf9bb4109f#ref=rss)
-### elon
+* [https://www.spiegel.de/panorama/leute/japan-prinzessin-yuriko-im-alter-von-101-jahren-gestorben](https://www.spiegel.de/panorama/leute/japan-prinzessin-yuriko-im-alter-von-101-jahren-gestorben-a-9b8b47f5-e6d0-4a2d-bf12-9bc813123e40#ref=rss)
+### yuriko
 
-* [https://www.spiegel.de/wissenschaft/technik/elon-musk-will-unter-donald-trump-schockwellen-durch-das-system-senden](https://www.spiegel.de/wissenschaft/technik/elon-musk-will-unter-donald-trump-schockwellen-durch-das-system-senden-a-14903568-bde7-4a36-9a4d-37f5572ef869#ref=rss)
-### musk
+* [https://www.spiegel.de/panorama/leute/japan-prinzessin-yuriko-im-alter-von-101-jahren-gestorben](https://www.spiegel.de/panorama/leute/japan-prinzessin-yuriko-im-alter-von-101-jahren-gestorben-a-9b8b47f5-e6d0-4a2d-bf12-9bc813123e40#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/wissenschaft/technik/elon-musk-will-unter-donald-trump-schockwellen-durch-das-system-senden](https://www.spiegel.de/wissenschaft/technik/elon-musk-will-unter-donald-trump-schockwellen-durch-das-system-senden-a-14903568-bde7-4a36-9a4d-37f5572ef869#ref=rss)
-### berlinale
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-neue-sicherheitsdoktrin-erarbeiten](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-neue-sicherheitsdoktrin-erarbeiten-a-65089241-f385-4797-b4ea-e170609265b3#ref=rss)
+### selenskyj
 
-* [https://www.spiegel.de/kultur/kino/berlinale-2025-regisseur-todd-haynes-wird-jury-praesident-der-75-filmfestspiele-in-berlin](https://www.spiegel.de/kultur/kino/berlinale-2025-regisseur-todd-haynes-wird-jury-praesident-der-75-filmfestspiele-in-berlin-a-cfc6a9b4-f6c3-49d2-b1b6-1ab6776ae435#ref=rss)
-### regisseur
-
-* [https://www.spiegel.de/kultur/kino/berlinale-2025-regisseur-todd-haynes-wird-jury-praesident-der-75-filmfestspiele-in-berlin](https://www.spiegel.de/kultur/kino/berlinale-2025-regisseur-todd-haynes-wird-jury-praesident-der-75-filmfestspiele-in-berlin-a-cfc6a9b4-f6c3-49d2-b1b6-1ab6776ae435#ref=rss)
-### todd
-
-* [https://www.spiegel.de/kultur/kino/berlinale-2025-regisseur-todd-haynes-wird-jury-praesident-der-75-filmfestspiele-in-berlin](https://www.spiegel.de/kultur/kino/berlinale-2025-regisseur-todd-haynes-wird-jury-praesident-der-75-filmfestspiele-in-berlin-a-cfc6a9b4-f6c3-49d2-b1b6-1ab6776ae435#ref=rss)
-### haynes
-
-* [https://www.spiegel.de/kultur/kino/berlinale-2025-regisseur-todd-haynes-wird-jury-praesident-der-75-filmfestspiele-in-berlin](https://www.spiegel.de/kultur/kino/berlinale-2025-regisseur-todd-haynes-wird-jury-praesident-der-75-filmfestspiele-in-berlin-a-cfc6a9b4-f6c3-49d2-b1b6-1ab6776ae435#ref=rss)
-### beatrix
-
-* [https://www.spiegel.de/panorama/leute/niederlande-prinzessin-beatrix-schlaeft-bei-termin-ein](https://www.spiegel.de/panorama/leute/niederlande-prinzessin-beatrix-schlaeft-bei-termin-ein-a-e0edd1e9-46b0-411c-a584-80d2a15db93e#ref=rss)
-### infowars
-
-* [https://www.spiegel.de/ausland/alex-jones-und-infowars-satirezeitschrift-the-onion-kauft-verschwoerungstheoretiker-internetportal](https://www.spiegel.de/ausland/alex-jones-und-infowars-satirezeitschrift-the-onion-kauft-verschwoerungstheoretiker-internetportal-a-98d8fb76-e15e-4b80-9750-3994b5c7e30c#ref=rss)
-### satirezeitschrift
-
-* [https://www.spiegel.de/ausland/alex-jones-und-infowars-satirezeitschrift-the-onion-kauft-verschwoerungstheoretiker-internetportal](https://www.spiegel.de/ausland/alex-jones-und-infowars-satirezeitschrift-the-onion-kauft-verschwoerungstheoretiker-internetportal-a-98d8fb76-e15e-4b80-9750-3994b5c7e30c#ref=rss)
-### the
-
-* [https://www.spiegel.de/ausland/alex-jones-und-infowars-satirezeitschrift-the-onion-kauft-verschwoerungstheoretiker-internetportal](https://www.spiegel.de/ausland/alex-jones-und-infowars-satirezeitschrift-the-onion-kauft-verschwoerungstheoretiker-internetportal-a-98d8fb76-e15e-4b80-9750-3994b5c7e30c#ref=rss)
-### onion
-
-* [https://www.spiegel.de/ausland/alex-jones-und-infowars-satirezeitschrift-the-onion-kauft-verschwoerungstheoretiker-internetportal](https://www.spiegel.de/ausland/alex-jones-und-infowars-satirezeitschrift-the-onion-kauft-verschwoerungstheoretiker-internetportal-a-98d8fb76-e15e-4b80-9750-3994b5c7e30c#ref=rss)
-### imac
-
-* [https://www.spiegel.de/netzwelt/gadgets/apple-imac-m4-im-test-pretty-in-pink](https://www.spiegel.de/netzwelt/gadgets/apple-imac-m4-im-test-pretty-in-pink-a-875ea235-07b0-410a-a333-2fdd49be9ca1#ref=rss)
-### test
-
-* [https://www.spiegel.de/netzwelt/gadgets/apple-imac-m4-im-test-pretty-in-pink](https://www.spiegel.de/netzwelt/gadgets/apple-imac-m4-im-test-pretty-in-pink-a-875ea235-07b0-410a-a333-2fdd49be9ca1#ref=rss)
-### intel
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/sachsen-anhalt-haelt-weiter-zu-intel](https://www.spiegel.de/wirtschaft/unternehmen/sachsen-anhalt-haelt-weiter-zu-intel-a-0b7a72e9-d749-4c59-8a88-0bfba5ca42ad#ref=rss)
-### sachsenanhalt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/sachsen-anhalt-haelt-weiter-zu-intel](https://www.spiegel.de/wirtschaft/unternehmen/sachsen-anhalt-haelt-weiter-zu-intel-a-0b7a72e9-d749-4c59-8a88-0bfba5ca42ad#ref=rss)
-### strafzölle
-
-* [https://www.spiegel.de/wirtschaft/usa-donald-trump-und-seine-strafzoelle-koennten-die-inflation-zurueckbringen](https://www.spiegel.de/wirtschaft/usa-donald-trump-und-seine-strafzoelle-koennten-die-inflation-zurueckbringen-a-5f7a1f5e-3929-4014-822b-c2e0bb40d171#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-neue-sicherheitsdoktrin-erarbeiten](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-neue-sicherheitsdoktrin-erarbeiten-a-65089241-f385-4797-b4ea-e170609265b3#ref=rss)
 
