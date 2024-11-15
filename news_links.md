@@ -4,279 +4,454 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### jahren
-
-* [https://www.spiegel.de/netzwelt/web/bitcoin-diebstahl-bei-bitfinex-us-hacker-ilya-lichtenstein-zu-fuenf-jahren-gefaengnis-verurteilt](https://www.spiegel.de/netzwelt/web/bitcoin-diebstahl-bei-bitfinex-us-hacker-ilya-lichtenstein-zu-fuenf-jahren-gefaengnis-verurteilt-a-8fc85c09-556c-4def-831c-ecfcf8ba1783#ref=rss)
-* [https://www.spiegel.de/panorama/leute/halle-berry-kopiert-ihr-oscar-outfit-von-2002](https://www.spiegel.de/panorama/leute/halle-berry-kopiert-ihr-oscar-outfit-von-2002-a-6d2e50e8-f6b2-46f7-978d-530564dd0edb#ref=rss)
-* [https://www.spiegel.de/sport/mike-tyson-gegen-jake-paul-der-boese-gegen-das-grossmaul](https://www.spiegel.de/sport/mike-tyson-gegen-jake-paul-der-boese-gegen-das-grossmaul-a-c85b44f1-f155-492e-9f45-69ef8dc00b2f#ref=rss)
-* [https://www.spiegel.de/panorama/leute/japan-prinzessin-yuriko-im-alter-von-101-jahren-gestorben](https://www.spiegel.de/panorama/leute/japan-prinzessin-yuriko-im-alter-von-101-jahren-gestorben-a-9b8b47f5-e6d0-4a2d-bf12-9bc813123e40#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/us-wahl-demograf-ueber-stimmen-der-generation-z-maenner-und-frauen-auf-unterschiedlichen-planeten](https://www.spiegel.de/ausland/us-wahl-demograf-ueber-stimmen-der-generation-z-maenner-und-frauen-auf-unterschiedlichen-planeten-a-42782fbd-4ffa-4c77-ac80-a18e62391e6a#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-diese-personen-sollen-seinem-regierungsteam-angehoeren](https://www.spiegel.de/ausland/donald-trump-diese-personen-sollen-seinem-regierungsteam-angehoeren-a-81442bb1-85ab-4350-9c6c-e552f5699836#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-nahost-usa-legen-vorschlag-fuer-waffenruhe-im-libanon-vor](https://www.spiegel.de/ausland/krieg-in-nahost-usa-legen-vorschlag-fuer-waffenruhe-im-libanon-vor-a-c8451f20-428a-4f38-8dc6-334a2664e156#ref=rss)
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-4de33948-479b-4dd0-8787-f34cb0e5e397#ref=rss)
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-a9cb1429-71f6-4a4a-a9a2-3761f05073a9#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-nominiert-neues-kabinett-loyalitaet-loyalitaet-loyalitaet](https://www.spiegel.de/ausland/donald-trump-nominiert-neues-kabinett-loyalitaet-loyalitaet-loyalitaet-a-ce6e7a29-d02f-4b2a-870a-0d85fcabb4a2#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/us-wahl-demograf-ueber-stimmen-der-generation-z-maenner-und-frauen-auf-unterschiedlichen-planeten](https://www.spiegel.de/ausland/us-wahl-demograf-ueber-stimmen-der-generation-z-maenner-und-frauen-auf-unterschiedlichen-planeten-a-42782fbd-4ffa-4c77-ac80-a18e62391e6a#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-diese-personen-sollen-seinem-regierungsteam-angehoeren](https://www.spiegel.de/ausland/donald-trump-diese-personen-sollen-seinem-regierungsteam-angehoeren-a-81442bb1-85ab-4350-9c6c-e552f5699836#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-nahost-usa-legen-vorschlag-fuer-waffenruhe-im-libanon-vor](https://www.spiegel.de/ausland/krieg-in-nahost-usa-legen-vorschlag-fuer-waffenruhe-im-libanon-vor-a-c8451f20-428a-4f38-8dc6-334a2664e156#ref=rss)
-### mindestens
-
-* [https://www.spiegel.de/geschichte/pete-hegseth-tattoos-sorgen-fuer-aufsehen-rechtsradikale-botschaft](https://www.spiegel.de/geschichte/pete-hegseth-tattoos-sorgen-fuer-aufsehen-rechtsradikale-botschaft-a-4089ba46-1d46-480f-84ff-0104a92646db#ref=rss)
-* [https://www.spiegel.de/panorama/spanien-mindestens-zehn-tote-bei-brand-in-seniorenheim-nahe-saragossa](https://www.spiegel.de/panorama/spanien-mindestens-zehn-tote-bei-brand-in-seniorenheim-nahe-saragossa-a-53ad8bc9-f04e-4105-ac20-1bda183ad69e#ref=rss)
-### unter
-
-* [https://www.spiegel.de/geschichte/pete-hegseth-tattoos-sorgen-fuer-aufsehen-rechtsradikale-botschaft](https://www.spiegel.de/geschichte/pete-hegseth-tattoos-sorgen-fuer-aufsehen-rechtsradikale-botschaft-a-4089ba46-1d46-480f-84ff-0104a92646db#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/bitcoin-diebstahl-bei-bitfinex-us-hacker-ilya-lichtenstein-zu-fuenf-jahren-gefaengnis-verurteilt](https://www.spiegel.de/netzwelt/web/bitcoin-diebstahl-bei-bitfinex-us-hacker-ilya-lichtenstein-zu-fuenf-jahren-gefaengnis-verurteilt-a-8fc85c09-556c-4def-831c-ecfcf8ba1783#ref=rss)
-* [https://www.spiegel.de/sport/fussball/nations-league-england-vor-aufstieg-italien-stuerzt-belgien-tiefer-in-die-krise](https://www.spiegel.de/sport/fussball/nations-league-england-vor-aufstieg-italien-stuerzt-belgien-tiefer-in-die-krise-a-f3a4d25a-940b-4787-bb84-0673ebde77d7#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/netzwelt/web/bitcoin-diebstahl-bei-bitfinex-us-hacker-ilya-lichtenstein-zu-fuenf-jahren-gefaengnis-verurteilt](https://www.spiegel.de/netzwelt/web/bitcoin-diebstahl-bei-bitfinex-us-hacker-ilya-lichtenstein-zu-fuenf-jahren-gefaengnis-verurteilt-a-8fc85c09-556c-4def-831c-ecfcf8ba1783#ref=rss)
-* [https://www.spiegel.de/ausland/suedkorea-oppositionsfuehrer-lee-jae-myung-zu-gefaengnisstrafe-verurteilt](https://www.spiegel.de/ausland/suedkorea-oppositionsfuehrer-lee-jae-myung-zu-gefaengnisstrafe-verurteilt-a-24a2de7d-8279-4191-a57b-07b2fab99247#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/wissenschaft/mensch/england-seltener-gladiatoren-messergriff-entdeckt-in-englischer-grafschaft](https://www.spiegel.de/wissenschaft/mensch/england-seltener-gladiatoren-messergriff-entdeckt-in-englischer-grafschaft-a-71a8ca6b-dd4d-470d-9540-3370fd31ecfa#ref=rss)
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### ampelaus
-
-* [https://www.spiegel.de/politik/deutschland/marco-buschmann-ueber-ampel-aus-diese-koalition-hat-die-oeffentlichkeit-zum-teil-an-den-rand-des-wahnsinns-getrieben](https://www.spiegel.de/politik/deutschland/marco-buschmann-ueber-ampel-aus-diese-koalition-hat-die-oeffentlichkeit-zum-teil-an-den-rand-des-wahnsinns-getrieben-a-aa2ef4a5-a26c-4f3c-af8d-0b6e7378e21d#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/ampel-aus-in-berlin-was-das-fuer-die-echten-ampeln-bedeutet-ich-sehe-rot-satire](https://www.spiegel.de/panorama/gesellschaft/ampel-aus-in-berlin-was-das-fuer-die-echten-ampeln-bedeutet-ich-sehe-rot-satire-a-69eea78b-436c-4416-8783-5fafb3a6a3f6#ref=rss)
-### koalition
-
-* [https://www.spiegel.de/politik/deutschland/marco-buschmann-ueber-ampel-aus-diese-koalition-hat-die-oeffentlichkeit-zum-teil-an-den-rand-des-wahnsinns-getrieben](https://www.spiegel.de/politik/deutschland/marco-buschmann-ueber-ampel-aus-diese-koalition-hat-die-oeffentlichkeit-zum-teil-an-den-rand-des-wahnsinns-getrieben-a-aa2ef4a5-a26c-4f3c-af8d-0b6e7378e21d#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/ampel-aus-in-berlin-was-das-fuer-die-echten-ampeln-bedeutet-ich-sehe-rot-satire](https://www.spiegel.de/panorama/gesellschaft/ampel-aus-in-berlin-was-das-fuer-die-echten-ampeln-bedeutet-ich-sehe-rot-satire-a-69eea78b-436c-4416-8783-5fafb3a6a3f6#ref=rss)
-### viele
-
-* [https://www.spiegel.de/ausland/us-wahl-demograf-ueber-stimmen-der-generation-z-maenner-und-frauen-auf-unterschiedlichen-planeten](https://www.spiegel.de/ausland/us-wahl-demograf-ueber-stimmen-der-generation-z-maenner-und-frauen-auf-unterschiedlichen-planeten-a-42782fbd-4ffa-4c77-ac80-a18e62391e6a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ifo-index-deutsche-unternehmen-in-sorge-um-ihre-existenz](https://www.spiegel.de/wirtschaft/ifo-index-deutsche-unternehmen-in-sorge-um-ihre-existenz-a-6c4c55a8-5be1-4c50-a5f0-5c397ab36f2f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/nations-league-england-vor-aufstieg-italien-stuerzt-belgien-tiefer-in-die-krise](https://www.spiegel.de/sport/fussball/nations-league-england-vor-aufstieg-italien-stuerzt-belgien-tiefer-in-die-krise-a-f3a4d25a-940b-4787-bb84-0673ebde77d7#ref=rss)
-### zehn
-
-* [https://www.spiegel.de/panorama/spanien-mindestens-zehn-tote-bei-brand-in-seniorenheim-nahe-saragossa](https://www.spiegel.de/panorama/spanien-mindestens-zehn-tote-bei-brand-in-seniorenheim-nahe-saragossa-a-53ad8bc9-f04e-4105-ac20-1bda183ad69e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tarifeinigung-gebaeudereiniger-erhalten-deutlich-mehr-lohn](https://www.spiegel.de/wirtschaft/tarifeinigung-gebaeudereiniger-erhalten-deutlich-mehr-lohn-a-94f1c1ef-f95d-40bd-8398-b23a78a47cd0#ref=rss)
-### pete
-
-* [https://www.spiegel.de/geschichte/pete-hegseth-tattoos-sorgen-fuer-aufsehen-rechtsradikale-botschaft](https://www.spiegel.de/geschichte/pete-hegseth-tattoos-sorgen-fuer-aufsehen-rechtsradikale-botschaft-a-4089ba46-1d46-480f-84ff-0104a92646db#ref=rss)
-### hegseth
-
-* [https://www.spiegel.de/geschichte/pete-hegseth-tattoos-sorgen-fuer-aufsehen-rechtsradikale-botschaft](https://www.spiegel.de/geschichte/pete-hegseth-tattoos-sorgen-fuer-aufsehen-rechtsradikale-botschaft-a-4089ba46-1d46-480f-84ff-0104a92646db#ref=rss)
-### tattoos
-
-* [https://www.spiegel.de/geschichte/pete-hegseth-tattoos-sorgen-fuer-aufsehen-rechtsradikale-botschaft](https://www.spiegel.de/geschichte/pete-hegseth-tattoos-sorgen-fuer-aufsehen-rechtsradikale-botschaft-a-4089ba46-1d46-480f-84ff-0104a92646db#ref=rss)
-### botschaft
-
-* [https://www.spiegel.de/geschichte/pete-hegseth-tattoos-sorgen-fuer-aufsehen-rechtsradikale-botschaft](https://www.spiegel.de/geschichte/pete-hegseth-tattoos-sorgen-fuer-aufsehen-rechtsradikale-botschaft-a-4089ba46-1d46-480f-84ff-0104a92646db#ref=rss)
-### trumps
-
-* [https://www.spiegel.de/geschichte/pete-hegseth-tattoos-sorgen-fuer-aufsehen-rechtsradikale-botschaft](https://www.spiegel.de/geschichte/pete-hegseth-tattoos-sorgen-fuer-aufsehen-rechtsradikale-botschaft-a-4089ba46-1d46-480f-84ff-0104a92646db#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-diese-personen-sollen-seinem-regierungsteam-angehoeren](https://www.spiegel.de/ausland/donald-trump-diese-personen-sollen-seinem-regierungsteam-angehoeren-a-81442bb1-85ab-4350-9c6c-e552f5699836#ref=rss)
-### drei
-
-* [https://www.spiegel.de/geschichte/pete-hegseth-tattoos-sorgen-fuer-aufsehen-rechtsradikale-botschaft](https://www.spiegel.de/geschichte/pete-hegseth-tattoos-sorgen-fuer-aufsehen-rechtsradikale-botschaft-a-4089ba46-1d46-480f-84ff-0104a92646db#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/australien-das-steckt-hinter-der-furz-app-chart-your-fart](https://www.spiegel.de/netzwelt/apps/australien-das-steckt-hinter-der-furz-app-chart-your-fart-a-3232473e-9684-4a52-9318-37d1c35627fb#ref=rss)
-### bitfinex
-
-* [https://www.spiegel.de/netzwelt/web/bitcoin-diebstahl-bei-bitfinex-us-hacker-ilya-lichtenstein-zu-fuenf-jahren-gefaengnis-verurteilt](https://www.spiegel.de/netzwelt/web/bitcoin-diebstahl-bei-bitfinex-us-hacker-ilya-lichtenstein-zu-fuenf-jahren-gefaengnis-verurteilt-a-8fc85c09-556c-4def-831c-ecfcf8ba1783#ref=rss)
-### fünf
-
-* [https://www.spiegel.de/netzwelt/web/bitcoin-diebstahl-bei-bitfinex-us-hacker-ilya-lichtenstein-zu-fuenf-jahren-gefaengnis-verurteilt](https://www.spiegel.de/netzwelt/web/bitcoin-diebstahl-bei-bitfinex-us-hacker-ilya-lichtenstein-zu-fuenf-jahren-gefaengnis-verurteilt-a-8fc85c09-556c-4def-831c-ecfcf8ba1783#ref=rss)
-* [https://www.spiegel.de/panorama/spanien-mindestens-zehn-tote-bei-brand-in-seniorenheim-nahe-saragossa](https://www.spiegel.de/panorama/spanien-mindestens-zehn-tote-bei-brand-in-seniorenheim-nahe-saragossa-a-53ad8bc9-f04e-4105-ac20-1bda183ad69e#ref=rss)
-### usa
-
-* [https://www.spiegel.de/netzwelt/web/bitcoin-diebstahl-bei-bitfinex-us-hacker-ilya-lichtenstein-zu-fuenf-jahren-gefaengnis-verurteilt](https://www.spiegel.de/netzwelt/web/bitcoin-diebstahl-bei-bitfinex-us-hacker-ilya-lichtenstein-zu-fuenf-jahren-gefaengnis-verurteilt-a-8fc85c09-556c-4def-831c-ecfcf8ba1783#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-nahost-usa-legen-vorschlag-fuer-waffenruhe-im-libanon-vor](https://www.spiegel.de/ausland/krieg-in-nahost-usa-legen-vorschlag-fuer-waffenruhe-im-libanon-vor-a-c8451f20-428a-4f38-8dc6-334a2664e156#ref=rss)
-### england
-
-* [https://www.spiegel.de/wissenschaft/mensch/england-seltener-gladiatoren-messergriff-entdeckt-in-englischer-grafschaft](https://www.spiegel.de/wissenschaft/mensch/england-seltener-gladiatoren-messergriff-entdeckt-in-englischer-grafschaft-a-71a8ca6b-dd4d-470d-9540-3370fd31ecfa#ref=rss)
-* [https://www.spiegel.de/sport/fussball/nations-league-england-vor-aufstieg-italien-stuerzt-belgien-tiefer-in-die-krise](https://www.spiegel.de/sport/fussball/nations-league-england-vor-aufstieg-italien-stuerzt-belgien-tiefer-in-die-krise-a-f3a4d25a-940b-4787-bb84-0673ebde77d7#ref=rss)
-### rand
-
-* [https://www.spiegel.de/wissenschaft/mensch/england-seltener-gladiatoren-messergriff-entdeckt-in-englischer-grafschaft](https://www.spiegel.de/wissenschaft/mensch/england-seltener-gladiatoren-messergriff-entdeckt-in-englischer-grafschaft-a-71a8ca6b-dd4d-470d-9540-3370fd31ecfa#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/marco-buschmann-ueber-ampel-aus-diese-koalition-hat-die-oeffentlichkeit-zum-teil-an-den-rand-des-wahnsinns-getrieben](https://www.spiegel.de/politik/deutschland/marco-buschmann-ueber-ampel-aus-diese-koalition-hat-die-oeffentlichkeit-zum-teil-an-den-rand-des-wahnsinns-getrieben-a-aa2ef4a5-a26c-4f3c-af8d-0b6e7378e21d#ref=rss)
-### römischen
-
-* [https://www.spiegel.de/wissenschaft/mensch/england-seltener-gladiatoren-messergriff-entdeckt-in-englischer-grafschaft](https://www.spiegel.de/wissenschaft/mensch/england-seltener-gladiatoren-messergriff-entdeckt-in-englischer-grafschaft-a-71a8ca6b-dd4d-470d-9540-3370fd31ecfa#ref=rss)
-### marco
-
-* [https://www.spiegel.de/politik/deutschland/marco-buschmann-ueber-ampel-aus-diese-koalition-hat-die-oeffentlichkeit-zum-teil-an-den-rand-des-wahnsinns-getrieben](https://www.spiegel.de/politik/deutschland/marco-buschmann-ueber-ampel-aus-diese-koalition-hat-die-oeffentlichkeit-zum-teil-an-den-rand-des-wahnsinns-getrieben-a-aa2ef4a5-a26c-4f3c-af8d-0b6e7378e21d#ref=rss)
-### buschmann
-
-* [https://www.spiegel.de/politik/deutschland/marco-buschmann-ueber-ampel-aus-diese-koalition-hat-die-oeffentlichkeit-zum-teil-an-den-rand-des-wahnsinns-getrieben](https://www.spiegel.de/politik/deutschland/marco-buschmann-ueber-ampel-aus-diese-koalition-hat-die-oeffentlichkeit-zum-teil-an-den-rand-des-wahnsinns-getrieben-a-aa2ef4a5-a26c-4f3c-af8d-0b6e7378e21d#ref=rss)
-### alle
-
-* [https://www.spiegel.de/netzwelt/apps/australien-das-steckt-hinter-der-furz-app-chart-your-fart](https://www.spiegel.de/netzwelt/apps/australien-das-steckt-hinter-der-furz-app-chart-your-fart-a-3232473e-9684-4a52-9318-37d1c35627fb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bsw-mitgliederaufnahme-beim-buendnis-sahra-wagenknecht-die-bsw-kaderschmiede](https://www.spiegel.de/politik/deutschland/bsw-mitgliederaufnahme-beim-buendnis-sahra-wagenknecht-die-bsw-kaderschmiede-a-bb43589f-34bf-4bbe-a9ff-1615c0c50b4f#ref=rss)
-### neue
-
-* [https://www.spiegel.de/netzwelt/apps/australien-das-steckt-hinter-der-furz-app-chart-your-fart](https://www.spiegel.de/netzwelt/apps/australien-das-steckt-hinter-der-furz-app-chart-your-fart-a-3232473e-9684-4a52-9318-37d1c35627fb#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-neue-sicherheitsdoktrin-erarbeiten](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-neue-sicherheitsdoktrin-erarbeiten-a-65089241-f385-4797-b4ea-e170609265b3#ref=rss)
-### tage
-
-* [https://www.spiegel.de/netzwelt/apps/australien-das-steckt-hinter-der-furz-app-chart-your-fart](https://www.spiegel.de/netzwelt/apps/australien-das-steckt-hinter-der-furz-app-chart-your-fart-a-3232473e-9684-4a52-9318-37d1c35627fb#ref=rss)
-* [https://www.spiegel.de/sport/vendee-globe-boris-herrmann-segelt-vom-letzten-platz-in-die-spitzengruppe](https://www.spiegel.de/sport/vendee-globe-boris-herrmann-segelt-vom-letzten-platz-in-die-spitzengruppe-a-c80c61b0-d5b7-43cd-836d-628528378e23#ref=rss)
-### tag
-
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### boris
-
-* [https://www.spiegel.de/sport/vendee-globe-boris-herrmann-segelt-vom-letzten-platz-in-die-spitzengruppe](https://www.spiegel.de/sport/vendee-globe-boris-herrmann-segelt-vom-letzten-platz-in-die-spitzengruppe-a-c80c61b0-d5b7-43cd-836d-628528378e23#ref=rss)
-### herrmann
-
-* [https://www.spiegel.de/sport/vendee-globe-boris-herrmann-segelt-vom-letzten-platz-in-die-spitzengruppe](https://www.spiegel.de/sport/vendee-globe-boris-herrmann-segelt-vom-letzten-platz-in-die-spitzengruppe-a-c80c61b0-d5b7-43cd-836d-628528378e23#ref=rss)
-### platz
-
-* [https://www.spiegel.de/sport/vendee-globe-boris-herrmann-segelt-vom-letzten-platz-in-die-spitzengruppe](https://www.spiegel.de/sport/vendee-globe-boris-herrmann-segelt-vom-letzten-platz-in-die-spitzengruppe-a-c80c61b0-d5b7-43cd-836d-628528378e23#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-qualifikation-argentinien-verliert-gegen-paraguay-brasiliens-vinicius-junior-verschiesst-elfmeter](https://www.spiegel.de/sport/fussball/wm-qualifikation-argentinien-verliert-gegen-paraguay-brasiliens-vinicius-junior-verschiesst-elfmeter-a-806b674d-f761-45fe-9012-3f7f3c6961fa#ref=rss)
-### demograf
-
-* [https://www.spiegel.de/ausland/us-wahl-demograf-ueber-stimmen-der-generation-z-maenner-und-frauen-auf-unterschiedlichen-planeten](https://www.spiegel.de/ausland/us-wahl-demograf-ueber-stimmen-der-generation-z-maenner-und-frauen-auf-unterschiedlichen-planeten-a-42782fbd-4ffa-4c77-ac80-a18e62391e6a#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/ausland/us-wahl-demograf-ueber-stimmen-der-generation-z-maenner-und-frauen-auf-unterschiedlichen-planeten](https://www.spiegel.de/ausland/us-wahl-demograf-ueber-stimmen-der-generation-z-maenner-und-frauen-auf-unterschiedlichen-planeten-a-42782fbd-4ffa-4c77-ac80-a18e62391e6a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hessen-ermittler-fassen-mutmasslichen-serienvergewaltiger](https://www.spiegel.de/panorama/justiz/hessen-ermittler-fassen-mutmasslichen-serienvergewaltiger-a-d47361b4-7162-4c5e-ac0a-1b26a6d37ed4#ref=rss)
-### ermittler
-
-* [https://www.spiegel.de/panorama/justiz/hessen-ermittler-fassen-mutmasslichen-serienvergewaltiger](https://www.spiegel.de/panorama/justiz/hessen-ermittler-fassen-mutmasslichen-serienvergewaltiger-a-d47361b4-7162-4c5e-ac0a-1b26a6d37ed4#ref=rss)
-### vorgeworfen
-
-* [https://www.spiegel.de/panorama/justiz/hessen-ermittler-fassen-mutmasslichen-serienvergewaltiger](https://www.spiegel.de/panorama/justiz/hessen-ermittler-fassen-mutmasslichen-serienvergewaltiger-a-d47361b4-7162-4c5e-ac0a-1b26a6d37ed4#ref=rss)
-* [https://www.spiegel.de/ausland/suedkorea-oppositionsfuehrer-lee-jae-myung-zu-gefaengnisstrafe-verurteilt](https://www.spiegel.de/ausland/suedkorea-oppositionsfuehrer-lee-jae-myung-zu-gefaengnisstrafe-verurteilt-a-24a2de7d-8279-4191-a57b-07b2fab99247#ref=rss)
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-4de33948-479b-4dd0-8787-f34cb0e5e397#ref=rss)
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-a9cb1429-71f6-4a4a-a9a2-3761f05073a9#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-nominiert-neues-kabinett-loyalitaet-loyalitaet-loyalitaet](https://www.spiegel.de/ausland/donald-trump-nominiert-neues-kabinett-loyalitaet-loyalitaet-loyalitaet-a-ce6e7a29-d02f-4b2a-870a-0d85fcabb4a2#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/panorama/spanien-mindestens-zehn-tote-bei-brand-in-seniorenheim-nahe-saragossa](https://www.spiegel.de/panorama/spanien-mindestens-zehn-tote-bei-brand-in-seniorenheim-nahe-saragossa-a-53ad8bc9-f04e-4105-ac20-1bda183ad69e#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-diese-personen-sollen-seinem-regierungsteam-angehoeren](https://www.spiegel.de/ausland/donald-trump-diese-personen-sollen-seinem-regierungsteam-angehoeren-a-81442bb1-85ab-4350-9c6c-e552f5699836#ref=rss)
-### berlin
+* [https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-besiegt-carlos-alcaraz-und-steht-im-halbfinale](https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-besiegt-carlos-alcaraz-und-steht-im-halbfinale-a-094f1da3-c0d5-49e1-b6ce-c8b6d88fa94e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bristol-urteil-gegen-taeter-nach-steinwuerfen-auf-haus-zwei-teenager-getoetet](https://www.spiegel.de/panorama/justiz/bristol-urteil-gegen-taeter-nach-steinwuerfen-auf-haus-zwei-teenager-getoetet-a-3c6f67b8-8e0f-49d3-a360-fe97a13baaa6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-und-fpd-schwarz-gelbe-runde-traf-sich-am-tag-nach-dem-ampel-aus](https://www.spiegel.de/politik/deutschland/cdu-und-fpd-schwarz-gelbe-runde-traf-sich-am-tag-nach-dem-ampel-aus-a-34b3ddc6-e58a-489d-9347-1ae4c3764175#ref=rss)
+* [https://www.spiegel.de/ausland/wladimir-putin-und-olaf-scholz-telefonieren-erstmals-seit-zwei-jahren](https://www.spiegel.de/ausland/wladimir-putin-und-olaf-scholz-telefonieren-erstmals-seit-zwei-jahren-a-dc3f43af-807a-4fcb-b92f-44cc2674aba9#ref=rss)
+### matt
 
-* [https://www.spiegel.de/panorama/gesellschaft/ampel-aus-in-berlin-was-das-fuer-die-echten-ampeln-bedeutet-ich-sehe-rot-satire](https://www.spiegel.de/panorama/gesellschaft/ampel-aus-in-berlin-was-das-fuer-die-echten-ampeln-bedeutet-ich-sehe-rot-satire-a-69eea78b-436c-4416-8783-5fafb3a6a3f6#ref=rss)
-### ruf
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-4de33948-479b-4dd0-8787-f34cb0e5e397#ref=rss)
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-a9cb1429-71f6-4a4a-a9a2-3761f05073a9#ref=rss)
+### gaetz
 
-* [https://www.spiegel.de/panorama/gesellschaft/ampel-aus-in-berlin-was-das-fuer-die-echten-ampeln-bedeutet-ich-sehe-rot-satire](https://www.spiegel.de/panorama/gesellschaft/ampel-aus-in-berlin-was-das-fuer-die-echten-ampeln-bedeutet-ich-sehe-rot-satire-a-69eea78b-436c-4416-8783-5fafb3a6a3f6#ref=rss)
-### land
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-4de33948-479b-4dd0-8787-f34cb0e5e397#ref=rss)
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-a9cb1429-71f6-4a4a-a9a2-3761f05073a9#ref=rss)
+### pete
 
-* [https://www.spiegel.de/panorama/gesellschaft/ampel-aus-in-berlin-was-das-fuer-die-echten-ampeln-bedeutet-ich-sehe-rot-satire](https://www.spiegel.de/panorama/gesellschaft/ampel-aus-in-berlin-was-das-fuer-die-echten-ampeln-bedeutet-ich-sehe-rot-satire-a-69eea78b-436c-4416-8783-5fafb3a6a3f6#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-neue-sicherheitsdoktrin-erarbeiten](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-neue-sicherheitsdoktrin-erarbeiten-a-65089241-f385-4797-b4ea-e170609265b3#ref=rss)
-### scheint
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-4de33948-479b-4dd0-8787-f34cb0e5e397#ref=rss)
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-a9cb1429-71f6-4a4a-a9a2-3761f05073a9#ref=rss)
+### hegseth
 
-* [https://www.spiegel.de/panorama/gesellschaft/ampel-aus-in-berlin-was-das-fuer-die-echten-ampeln-bedeutet-ich-sehe-rot-satire](https://www.spiegel.de/panorama/gesellschaft/ampel-aus-in-berlin-was-das-fuer-die-echten-ampeln-bedeutet-ich-sehe-rot-satire-a-69eea78b-436c-4416-8783-5fafb3a6a3f6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tarifeinigung-gebaeudereiniger-erhalten-deutlich-mehr-lohn](https://www.spiegel.de/wirtschaft/tarifeinigung-gebaeudereiniger-erhalten-deutlich-mehr-lohn-a-94f1c1ef-f95d-40bd-8398-b23a78a47cd0#ref=rss)
-### unilever
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-4de33948-479b-4dd0-8787-f34cb0e5e397#ref=rss)
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-a9cb1429-71f6-4a4a-a9a2-3761f05073a9#ref=rss)
+### christian
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/unilever-ben-jerrys-verklagt-muttergesellschaft-wegen-nahostkonflikt](https://www.spiegel.de/wirtschaft/unternehmen/unilever-ben-jerrys-verklagt-muttergesellschaft-wegen-nahostkonflikt-a-35116508-11d8-4db6-b6dc-962d5f04efed#ref=rss)
-### ben
+* [https://www.spiegel.de/sport/fussball/bundesliga-christian-ilzer-wird-neuer-trainer-der-tsg-hoffenheim](https://www.spiegel.de/sport/fussball/bundesliga-christian-ilzer-wird-neuer-trainer-der-tsg-hoffenheim-a-0f139a5d-26db-4150-8732-9ce28e2067fa#ref=rss)
+* [https://www.spiegel.de/panorama/christian-lindner-will-seinen-porsche-verkaufen-langsam-offen-fuer-etwas-anderes](https://www.spiegel.de/panorama/christian-lindner-will-seinen-porsche-verkaufen-langsam-offen-fuer-etwas-anderes-a-38e3d4b6-b66a-4097-bfe9-0e40091894ee#ref=rss)
+### künftige
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/unilever-ben-jerrys-verklagt-muttergesellschaft-wegen-nahostkonflikt](https://www.spiegel.de/wirtschaft/unternehmen/unilever-ben-jerrys-verklagt-muttergesellschaft-wegen-nahostkonflikt-a-35116508-11d8-4db6-b6dc-962d5f04efed#ref=rss)
-### vorstand
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-4de33948-479b-4dd0-8787-f34cb0e5e397#ref=rss)
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-a9cb1429-71f6-4a4a-a9a2-3761f05073a9#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-nominiert-neues-kabinett-loyalitaet-loyalitaet-loyalitaet](https://www.spiegel.de/ausland/donald-trump-nominiert-neues-kabinett-loyalitaet-loyalitaet-loyalitaet-a-ce6e7a29-d02f-4b2a-870a-0d85fcabb4a2#ref=rss)
+### trainer
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/unilever-ben-jerrys-verklagt-muttergesellschaft-wegen-nahostkonflikt](https://www.spiegel.de/wirtschaft/unternehmen/unilever-ben-jerrys-verklagt-muttergesellschaft-wegen-nahostkonflikt-a-35116508-11d8-4db6-b6dc-962d5f04efed#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bsw-mitgliederaufnahme-beim-buendnis-sahra-wagenknecht-die-bsw-kaderschmiede](https://www.spiegel.de/politik/deutschland/bsw-mitgliederaufnahme-beim-buendnis-sahra-wagenknecht-die-bsw-kaderschmiede-a-bb43589f-34bf-4bbe-a9ff-1615c0c50b4f#ref=rss)
-### oppositionsführer
+* [https://www.spiegel.de/sport/handball/andre-fuhr-dhb-wollte-vorwuerfe-wegen-psychoterror-klaeren-gericht-untersagt-kommission](https://www.spiegel.de/sport/handball/andre-fuhr-dhb-wollte-vorwuerfe-wegen-psychoterror-klaeren-gericht-untersagt-kommission-a-e57442db-ac1c-4358-be6d-019cd455a8fb#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bundesliga-christian-ilzer-wird-neuer-trainer-der-tsg-hoffenheim](https://www.spiegel.de/sport/fussball/bundesliga-christian-ilzer-wird-neuer-trainer-der-tsg-hoffenheim-a-0f139a5d-26db-4150-8732-9ce28e2067fa#ref=rss)
+### neues
 
-* [https://www.spiegel.de/ausland/suedkorea-oppositionsfuehrer-lee-jae-myung-zu-gefaengnisstrafe-verurteilt](https://www.spiegel.de/ausland/suedkorea-oppositionsfuehrer-lee-jae-myung-zu-gefaengnisstrafe-verurteilt-a-24a2de7d-8279-4191-a57b-07b2fab99247#ref=rss)
-### lee
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-einreisekontrollen-an-deutschen-grenzen-alzheimermedikament-leqembi-recherchen-zu-stepan-timoshin](https://www.spiegel.de/politik/deutschland/news-des-tages-einreisekontrollen-an-deutschen-grenzen-alzheimermedikament-leqembi-recherchen-zu-stepan-timoshin-a-8f730fa9-ca57-4794-be18-eb6feb3def28#ref=rss)
+* [https://www.spiegel.de/kultur/musik/070-shake-linkin-park-gwen-stefani-urbannino-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/070-shake-linkin-park-gwen-stefani-urbannino-abgehoert-album-der-woche-a-8177b366-bcfe-4471-8468-52cc1f8e38a9#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-nominiert-neues-kabinett-loyalitaet-loyalitaet-loyalitaet](https://www.spiegel.de/ausland/donald-trump-nominiert-neues-kabinett-loyalitaet-loyalitaet-loyalitaet-a-ce6e7a29-d02f-4b2a-870a-0d85fcabb4a2#ref=rss)
+### rolle
 
-* [https://www.spiegel.de/ausland/suedkorea-oppositionsfuehrer-lee-jae-myung-zu-gefaengnisstrafe-verurteilt](https://www.spiegel.de/ausland/suedkorea-oppositionsfuehrer-lee-jae-myung-zu-gefaengnisstrafe-verurteilt-a-24a2de7d-8279-4191-a57b-07b2fab99247#ref=rss)
-### jaemyung
+* [https://www.spiegel.de/kultur/kino/hugh-grant-schauspieler-findet-seine-rolle-in-notting-hill-verachtenswert](https://www.spiegel.de/kultur/kino/hugh-grant-schauspieler-findet-seine-rolle-in-notting-hill-verachtenswert-a-b3c671d5-112a-47fe-ad31-deb4326bf72d#ref=rss)
+### loyalität
 
-* [https://www.spiegel.de/ausland/suedkorea-oppositionsfuehrer-lee-jae-myung-zu-gefaengnisstrafe-verurteilt](https://www.spiegel.de/ausland/suedkorea-oppositionsfuehrer-lee-jae-myung-zu-gefaengnisstrafe-verurteilt-a-24a2de7d-8279-4191-a57b-07b2fab99247#ref=rss)
-### regierungsteam
+* [https://www.spiegel.de/ausland/donald-trump-nominiert-neues-kabinett-loyalitaet-loyalitaet-loyalitaet](https://www.spiegel.de/ausland/donald-trump-nominiert-neues-kabinett-loyalitaet-loyalitaet-loyalitaet-a-ce6e7a29-d02f-4b2a-870a-0d85fcabb4a2#ref=rss)
+### 2025
 
-* [https://www.spiegel.de/ausland/donald-trump-diese-personen-sollen-seinem-regierungsteam-angehoeren](https://www.spiegel.de/ausland/donald-trump-diese-personen-sollen-seinem-regierungsteam-angehoeren-a-81442bb1-85ab-4350-9c6c-e552f5699836#ref=rss)
-### halle
+* [https://www.spiegel.de/kultur/kino/oscars-2025-conan-obrien-wird-als-moderator-der-97-preisverleihung-bekannt-gegeben](https://www.spiegel.de/kultur/kino/oscars-2025-conan-obrien-wird-als-moderator-der-97-preisverleihung-bekannt-gegeben-a-283c1769-0dd4-43b6-b004-ddd6ea3981d4#ref=rss)
+* [https://www.spiegel.de/panorama/bundeshaushalt-staedte-fuerchten-um-foerdermittel-in-milliardenhoehe](https://www.spiegel.de/panorama/bundeshaushalt-staedte-fuerchten-um-foerdermittel-in-milliardenhoehe-a-d5b29512-5039-4ef1-a7b7-9f59c504a557#ref=rss)
+### conan
 
-* [https://www.spiegel.de/panorama/leute/halle-berry-kopiert-ihr-oscar-outfit-von-2002](https://www.spiegel.de/panorama/leute/halle-berry-kopiert-ihr-oscar-outfit-von-2002-a-6d2e50e8-f6b2-46f7-978d-530564dd0edb#ref=rss)
-### berry
+* [https://www.spiegel.de/kultur/kino/oscars-2025-conan-obrien-wird-als-moderator-der-97-preisverleihung-bekannt-gegeben](https://www.spiegel.de/kultur/kino/oscars-2025-conan-obrien-wird-als-moderator-der-97-preisverleihung-bekannt-gegeben-a-283c1769-0dd4-43b6-b004-ddd6ea3981d4#ref=rss)
+### o'brien
 
-* [https://www.spiegel.de/panorama/leute/halle-berry-kopiert-ihr-oscar-outfit-von-2002](https://www.spiegel.de/panorama/leute/halle-berry-kopiert-ihr-oscar-outfit-von-2002-a-6d2e50e8-f6b2-46f7-978d-530564dd0edb#ref=rss)
-### hauptdarstellerin
+* [https://www.spiegel.de/kultur/kino/oscars-2025-conan-obrien-wird-als-moderator-der-97-preisverleihung-bekannt-gegeben](https://www.spiegel.de/kultur/kino/oscars-2025-conan-obrien-wird-als-moderator-der-97-preisverleihung-bekannt-gegeben-a-283c1769-0dd4-43b6-b004-ddd6ea3981d4#ref=rss)
+### moderator
 
-* [https://www.spiegel.de/panorama/leute/halle-berry-kopiert-ihr-oscar-outfit-von-2002](https://www.spiegel.de/panorama/leute/halle-berry-kopiert-ihr-oscar-outfit-von-2002-a-6d2e50e8-f6b2-46f7-978d-530564dd0edb#ref=rss)
-* [https://www.spiegel.de/kultur/tomb-raider-serie-von-amazon-sophie-turner-soll-zu-lara-croft-werden](https://www.spiegel.de/kultur/tomb-raider-serie-von-amazon-sophie-turner-soll-zu-lara-croft-werden-a-6656dca3-55a2-4de8-ad20-43f5d90a8b3c#ref=rss)
-### mike
+* [https://www.spiegel.de/kultur/kino/oscars-2025-conan-obrien-wird-als-moderator-der-97-preisverleihung-bekannt-gegeben](https://www.spiegel.de/kultur/kino/oscars-2025-conan-obrien-wird-als-moderator-der-97-preisverleihung-bekannt-gegeben-a-283c1769-0dd4-43b6-b004-ddd6ea3981d4#ref=rss)
+### komiker
 
-* [https://www.spiegel.de/sport/mike-tyson-gegen-jake-paul-der-boese-gegen-das-grossmaul](https://www.spiegel.de/sport/mike-tyson-gegen-jake-paul-der-boese-gegen-das-grossmaul-a-c85b44f1-f155-492e-9f45-69ef8dc00b2f#ref=rss)
-### tyson
+* [https://www.spiegel.de/kultur/kino/oscars-2025-conan-obrien-wird-als-moderator-der-97-preisverleihung-bekannt-gegeben](https://www.spiegel.de/kultur/kino/oscars-2025-conan-obrien-wird-als-moderator-der-97-preisverleihung-bekannt-gegeben-a-283c1769-0dd4-43b6-b004-ddd6ea3981d4#ref=rss)
+### spitzenbeamte
 
-* [https://www.spiegel.de/sport/mike-tyson-gegen-jake-paul-der-boese-gegen-das-grossmaul](https://www.spiegel.de/sport/mike-tyson-gegen-jake-paul-der-boese-gegen-das-grossmaul-a-c85b44f1-f155-492e-9f45-69ef8dc00b2f#ref=rss)
-### bundespolizei
+* [https://www.spiegel.de/panorama/so-viele-spitzenbeamte-hat-die-ampel-rausgeworfen](https://www.spiegel.de/panorama/so-viele-spitzenbeamte-hat-die-ampel-rausgeworfen-a-2c43e09f-66f5-4f99-b9a7-9e8105e5ba55#ref=rss)
+### ampel
 
-* [https://www.spiegel.de/panorama/migration-sinkende-asylbewerberzahlen-ein-verdienst-der-bundespolizei](https://www.spiegel.de/panorama/migration-sinkende-asylbewerberzahlen-ein-verdienst-der-bundespolizei-a-1a24f0bf-95a9-4140-b950-31cb2a44bcfa#ref=rss)
-### deutlich
+* [https://www.spiegel.de/panorama/so-viele-spitzenbeamte-hat-die-ampel-rausgeworfen](https://www.spiegel.de/panorama/so-viele-spitzenbeamte-hat-die-ampel-rausgeworfen-a-2c43e09f-66f5-4f99-b9a7-9e8105e5ba55#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/panorama/migration-sinkende-asylbewerberzahlen-ein-verdienst-der-bundespolizei](https://www.spiegel.de/panorama/migration-sinkende-asylbewerberzahlen-ein-verdienst-der-bundespolizei-a-1a24f0bf-95a9-4140-b950-31cb2a44bcfa#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tarifeinigung-gebaeudereiniger-erhalten-deutlich-mehr-lohn](https://www.spiegel.de/wirtschaft/tarifeinigung-gebaeudereiniger-erhalten-deutlich-mehr-lohn-a-94f1c1ef-f95d-40bd-8398-b23a78a47cd0#ref=rss)
-### sophie
+* [https://www.spiegel.de/panorama/so-viele-spitzenbeamte-hat-die-ampel-rausgeworfen](https://www.spiegel.de/panorama/so-viele-spitzenbeamte-hat-die-ampel-rausgeworfen-a-2c43e09f-66f5-4f99-b9a7-9e8105e5ba55#ref=rss)
+* [https://www.spiegel.de/ausland/wladimir-putin-und-olaf-scholz-telefonieren-erstmals-seit-zwei-jahren](https://www.spiegel.de/ausland/wladimir-putin-und-olaf-scholz-telefonieren-erstmals-seit-zwei-jahren-a-dc3f43af-807a-4fcb-b92f-44cc2674aba9#ref=rss)
+### co
 
-* [https://www.spiegel.de/kultur/tomb-raider-serie-von-amazon-sophie-turner-soll-zu-lara-croft-werden](https://www.spiegel.de/kultur/tomb-raider-serie-von-amazon-sophie-turner-soll-zu-lara-croft-werden-a-6656dca3-55a2-4de8-ad20-43f5d90a8b3c#ref=rss)
-### turner
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-4de33948-479b-4dd0-8787-f34cb0e5e397#ref=rss)
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-a9cb1429-71f6-4a4a-a9a2-3761f05073a9#ref=rss)
+### uskabinett
 
-* [https://www.spiegel.de/kultur/tomb-raider-serie-von-amazon-sophie-turner-soll-zu-lara-croft-werden](https://www.spiegel.de/kultur/tomb-raider-serie-von-amazon-sophie-turner-soll-zu-lara-croft-werden-a-6656dca3-55a2-4de8-ad20-43f5d90a8b3c#ref=rss)
-### lara
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-4de33948-479b-4dd0-8787-f34cb0e5e397#ref=rss)
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-a9cb1429-71f6-4a4a-a9a2-3761f05073a9#ref=rss)
+### zusammenstellt
 
-* [https://www.spiegel.de/kultur/tomb-raider-serie-von-amazon-sophie-turner-soll-zu-lara-croft-werden](https://www.spiegel.de/kultur/tomb-raider-serie-von-amazon-sophie-turner-soll-zu-lara-croft-werden-a-6656dca3-55a2-4de8-ad20-43f5d90a8b3c#ref=rss)
-### croft
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-4de33948-479b-4dd0-8787-f34cb0e5e397#ref=rss)
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-a9cb1429-71f6-4a4a-a9a2-3761f05073a9#ref=rss)
+### stellt
 
-* [https://www.spiegel.de/kultur/tomb-raider-serie-von-amazon-sophie-turner-soll-zu-lara-croft-werden](https://www.spiegel.de/kultur/tomb-raider-serie-von-amazon-sophie-turner-soll-zu-lara-croft-werden-a-6656dca3-55a2-4de8-ad20-43f5d90a8b3c#ref=rss)
-### argentinien
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-4de33948-479b-4dd0-8787-f34cb0e5e397#ref=rss)
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-a9cb1429-71f6-4a4a-a9a2-3761f05073a9#ref=rss)
+### zweite
 
-* [https://www.spiegel.de/sport/fussball/wm-qualifikation-argentinien-verliert-gegen-paraguay-brasiliens-vinicius-junior-verschiesst-elfmeter](https://www.spiegel.de/sport/fussball/wm-qualifikation-argentinien-verliert-gegen-paraguay-brasiliens-vinicius-junior-verschiesst-elfmeter-a-806b674d-f761-45fe-9012-3f7f3c6961fa#ref=rss)
-### sieg
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-4de33948-479b-4dd0-8787-f34cb0e5e397#ref=rss)
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-a9cb1429-71f6-4a4a-a9a2-3761f05073a9#ref=rss)
+### amtszeit
 
-* [https://www.spiegel.de/sport/fussball/wm-qualifikation-argentinien-verliert-gegen-paraguay-brasiliens-vinicius-junior-verschiesst-elfmeter](https://www.spiegel.de/sport/fussball/wm-qualifikation-argentinien-verliert-gegen-paraguay-brasiliens-vinicius-junior-verschiesst-elfmeter-a-806b674d-f761-45fe-9012-3f7f3c6961fa#ref=rss)
-* [https://www.spiegel.de/sport/fussball/nations-league-england-vor-aufstieg-italien-stuerzt-belgien-tiefer-in-die-krise](https://www.spiegel.de/sport/fussball/nations-league-england-vor-aufstieg-italien-stuerzt-belgien-tiefer-in-die-krise-a-f3a4d25a-940b-4787-bb84-0673ebde77d7#ref=rss)
-### netz
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-4de33948-479b-4dd0-8787-f34cb0e5e397#ref=rss)
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-a9cb1429-71f6-4a4a-a9a2-3761f05073a9#ref=rss)
+### loyale
 
-* [https://www.spiegel.de/panorama/norwegen-amerikanisches-atom-u-boot-geht-norwegischen-fischern-ins-netz](https://www.spiegel.de/panorama/norwegen-amerikanisches-atom-u-boot-geht-norwegischen-fischern-ins-netz-a-fe47626e-3626-4bab-afa7-67edc02f324b#ref=rss)
-### hatten
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-4de33948-479b-4dd0-8787-f34cb0e5e397#ref=rss)
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-a9cb1429-71f6-4a4a-a9a2-3761f05073a9#ref=rss)
+### truppe
 
-* [https://www.spiegel.de/panorama/norwegen-amerikanisches-atom-u-boot-geht-norwegischen-fischern-ins-netz](https://www.spiegel.de/panorama/norwegen-amerikanisches-atom-u-boot-geht-norwegischen-fischern-ins-netz-a-fe47626e-3626-4bab-afa7-67edc02f324b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/krankenkassen-techniker-chef-geht-von-drastischen-beitragserhoehungen-aus](https://www.spiegel.de/wirtschaft/krankenkassen-techniker-chef-geht-von-drastischen-beitragserhoehungen-aus-a-3045d086-bebf-4b0c-8692-ab3d225dc290#ref=rss)
-### unternehmen
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-4de33948-479b-4dd0-8787-f34cb0e5e397#ref=rss)
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-a9cb1429-71f6-4a4a-a9a2-3761f05073a9#ref=rss)
+### zusammen
 
-* [https://www.spiegel.de/wirtschaft/ifo-index-deutsche-unternehmen-in-sorge-um-ihre-existenz](https://www.spiegel.de/wirtschaft/ifo-index-deutsche-unternehmen-in-sorge-um-ihre-existenz-a-6c4c55a8-5be1-4c50-a5f0-5c397ab36f2f#ref=rss)
-### folgen
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-4de33948-479b-4dd0-8787-f34cb0e5e397#ref=rss)
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-a9cb1429-71f6-4a4a-a9a2-3761f05073a9#ref=rss)
+### kontroversen
 
-* [https://www.spiegel.de/wirtschaft/ifo-index-deutsche-unternehmen-in-sorge-um-ihre-existenz](https://www.spiegel.de/wirtschaft/ifo-index-deutsche-unternehmen-in-sorge-um-ihre-existenz-a-6c4c55a8-5be1-4c50-a5f0-5c397ab36f2f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/krankenkassen-techniker-chef-geht-von-drastischen-beitragserhoehungen-aus](https://www.spiegel.de/wirtschaft/krankenkassen-techniker-chef-geht-von-drastischen-beitragserhoehungen-aus-a-3045d086-bebf-4b0c-8692-ab3d225dc290#ref=rss)
-### bsw
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-4de33948-479b-4dd0-8787-f34cb0e5e397#ref=rss)
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-a9cb1429-71f6-4a4a-a9a2-3761f05073a9#ref=rss)
+### figuren
 
-* [https://www.spiegel.de/politik/deutschland/bsw-mitgliederaufnahme-beim-buendnis-sahra-wagenknecht-die-bsw-kaderschmiede](https://www.spiegel.de/politik/deutschland/bsw-mitgliederaufnahme-beim-buendnis-sahra-wagenknecht-die-bsw-kaderschmiede-a-bb43589f-34bf-4bbe-a9ff-1615c0c50b4f#ref=rss)
-### gebäudereiniger
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-4de33948-479b-4dd0-8787-f34cb0e5e397#ref=rss)
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-a9cb1429-71f6-4a4a-a9a2-3761f05073a9#ref=rss)
+### tulsi
 
-* [https://www.spiegel.de/wirtschaft/tarifeinigung-gebaeudereiniger-erhalten-deutlich-mehr-lohn](https://www.spiegel.de/wirtschaft/tarifeinigung-gebaeudereiniger-erhalten-deutlich-mehr-lohn-a-94f1c1ef-f95d-40bd-8398-b23a78a47cd0#ref=rss)
-### mehr
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-4de33948-479b-4dd0-8787-f34cb0e5e397#ref=rss)
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-a9cb1429-71f6-4a4a-a9a2-3761f05073a9#ref=rss)
+### gabbard
 
-* [https://www.spiegel.de/wirtschaft/tarifeinigung-gebaeudereiniger-erhalten-deutlich-mehr-lohn](https://www.spiegel.de/wirtschaft/tarifeinigung-gebaeudereiniger-erhalten-deutlich-mehr-lohn-a-94f1c1ef-f95d-40bd-8398-b23a78a47cd0#ref=rss)
-### ig
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-4de33948-479b-4dd0-8787-f34cb0e5e397#ref=rss)
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-a9cb1429-71f6-4a4a-a9a2-3761f05073a9#ref=rss)
+### spiegelauslandschef
 
-* [https://www.spiegel.de/wirtschaft/tarifeinigung-gebaeudereiniger-erhalten-deutlich-mehr-lohn](https://www.spiegel.de/wirtschaft/tarifeinigung-gebaeudereiniger-erhalten-deutlich-mehr-lohn-a-94f1c1ef-f95d-40bd-8398-b23a78a47cd0#ref=rss)
-### bau
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-4de33948-479b-4dd0-8787-f34cb0e5e397#ref=rss)
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-a9cb1429-71f6-4a4a-a9a2-3761f05073a9#ref=rss)
+### mathieu
 
-* [https://www.spiegel.de/wirtschaft/tarifeinigung-gebaeudereiniger-erhalten-deutlich-mehr-lohn](https://www.spiegel.de/wirtschaft/tarifeinigung-gebaeudereiniger-erhalten-deutlich-mehr-lohn-a-94f1c1ef-f95d-40bd-8398-b23a78a47cd0#ref=rss)
-### mannheim
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-4de33948-479b-4dd0-8787-f34cb0e5e397#ref=rss)
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-a9cb1429-71f6-4a4a-a9a2-3761f05073a9#ref=rss)
+### rohr
 
-* [https://www.spiegel.de/panorama/justiz/messeranschlag-von-mannheim-wie-sich-attentaeter-sulaiman-ataee-radikalisierte](https://www.spiegel.de/panorama/justiz/messeranschlag-von-mannheim-wie-sich-attentaeter-sulaiman-ataee-radikalisierte-a-66adf2cd-e96b-4490-a752-b4793bf74cba#ref=rss)
-### sulaiman
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-4de33948-479b-4dd0-8787-f34cb0e5e397#ref=rss)
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-a9cb1429-71f6-4a4a-a9a2-3761f05073a9#ref=rss)
+### ordnet
 
-* [https://www.spiegel.de/panorama/justiz/messeranschlag-von-mannheim-wie-sich-attentaeter-sulaiman-ataee-radikalisierte](https://www.spiegel.de/panorama/justiz/messeranschlag-von-mannheim-wie-sich-attentaeter-sulaiman-ataee-radikalisierte-a-66adf2cd-e96b-4490-a752-b4793bf74cba#ref=rss)
-### ataee
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-4de33948-479b-4dd0-8787-f34cb0e5e397#ref=rss)
+* [https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt](https://www.spiegel.de/politik/matt-gaetz-pete-hegseth-co-wie-donald-trump-das-kuenftige-us-kabinett-zusammenstellt-a-a9cb1429-71f6-4a4a-a9a2-3761f05073a9#ref=rss)
+### vorwürfe
 
-* [https://www.spiegel.de/panorama/justiz/messeranschlag-von-mannheim-wie-sich-attentaeter-sulaiman-ataee-radikalisierte](https://www.spiegel.de/panorama/justiz/messeranschlag-von-mannheim-wie-sich-attentaeter-sulaiman-ataee-radikalisierte-a-66adf2cd-e96b-4490-a752-b4793bf74cba#ref=rss)
-### waffenruhe
+* [https://www.spiegel.de/sport/handball/andre-fuhr-dhb-wollte-vorwuerfe-wegen-psychoterror-klaeren-gericht-untersagt-kommission](https://www.spiegel.de/sport/handball/andre-fuhr-dhb-wollte-vorwuerfe-wegen-psychoterror-klaeren-gericht-untersagt-kommission-a-e57442db-ac1c-4358-be6d-019cd455a8fb#ref=rss)
+* [https://www.spiegel.de/wissenschaft/cop29-halbzeit-auf-dem-uno-klimagipfel-diese-drei-themen-entscheiden-ueber-sein-gelingen](https://www.spiegel.de/wissenschaft/cop29-halbzeit-auf-dem-uno-klimagipfel-diese-drei-themen-entscheiden-ueber-sein-gelingen-a-a56e8815-f424-4383-891a-633e110fc043#ref=rss)
+### gericht
 
-* [https://www.spiegel.de/ausland/krieg-in-nahost-usa-legen-vorschlag-fuer-waffenruhe-im-libanon-vor](https://www.spiegel.de/ausland/krieg-in-nahost-usa-legen-vorschlag-fuer-waffenruhe-im-libanon-vor-a-c8451f20-428a-4f38-8dc6-334a2664e156#ref=rss)
-### libanon
+* [https://www.spiegel.de/sport/handball/andre-fuhr-dhb-wollte-vorwuerfe-wegen-psychoterror-klaeren-gericht-untersagt-kommission](https://www.spiegel.de/sport/handball/andre-fuhr-dhb-wollte-vorwuerfe-wegen-psychoterror-klaeren-gericht-untersagt-kommission-a-e57442db-ac1c-4358-be6d-019cd455a8fb#ref=rss)
+### kommission
 
-* [https://www.spiegel.de/ausland/krieg-in-nahost-usa-legen-vorschlag-fuer-waffenruhe-im-libanon-vor](https://www.spiegel.de/ausland/krieg-in-nahost-usa-legen-vorschlag-fuer-waffenruhe-im-libanon-vor-a-c8451f20-428a-4f38-8dc6-334a2664e156#ref=rss)
-### prinzessin
+* [https://www.spiegel.de/sport/handball/andre-fuhr-dhb-wollte-vorwuerfe-wegen-psychoterror-klaeren-gericht-untersagt-kommission](https://www.spiegel.de/sport/handball/andre-fuhr-dhb-wollte-vorwuerfe-wegen-psychoterror-klaeren-gericht-untersagt-kommission-a-e57442db-ac1c-4358-be6d-019cd455a8fb#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/panorama/leute/japan-prinzessin-yuriko-im-alter-von-101-jahren-gestorben](https://www.spiegel.de/panorama/leute/japan-prinzessin-yuriko-im-alter-von-101-jahren-gestorben-a-9b8b47f5-e6d0-4a2d-bf12-9bc813123e40#ref=rss)
-### yuriko
+* [https://www.spiegel.de/sport/handball/andre-fuhr-dhb-wollte-vorwuerfe-wegen-psychoterror-klaeren-gericht-untersagt-kommission](https://www.spiegel.de/sport/handball/andre-fuhr-dhb-wollte-vorwuerfe-wegen-psychoterror-klaeren-gericht-untersagt-kommission-a-e57442db-ac1c-4358-be6d-019cd455a8fb#ref=rss)
+* [https://www.spiegel.de/kultur/deutsche-russlandpolitik-ruecktrittsforderungen-an-frank-walter-steinmeier-zu-recht](https://www.spiegel.de/kultur/deutsche-russlandpolitik-ruecktrittsforderungen-an-frank-walter-steinmeier-zu-recht-a-096050e2-234e-4540-9921-fc2e47a15275#ref=rss)
+### gar
 
-* [https://www.spiegel.de/panorama/leute/japan-prinzessin-yuriko-im-alter-von-101-jahren-gestorben](https://www.spiegel.de/panorama/leute/japan-prinzessin-yuriko-im-alter-von-101-jahren-gestorben-a-9b8b47f5-e6d0-4a2d-bf12-9bc813123e40#ref=rss)
-### ukraine
+* [https://www.spiegel.de/sport/handball/andre-fuhr-dhb-wollte-vorwuerfe-wegen-psychoterror-klaeren-gericht-untersagt-kommission](https://www.spiegel.de/sport/handball/andre-fuhr-dhb-wollte-vorwuerfe-wegen-psychoterror-klaeren-gericht-untersagt-kommission-a-e57442db-ac1c-4358-be6d-019cd455a8fb#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bristol-urteil-gegen-taeter-nach-steinwuerfen-auf-haus-zwei-teenager-getoetet](https://www.spiegel.de/panorama/justiz/bristol-urteil-gegen-taeter-nach-steinwuerfen-auf-haus-zwei-teenager-getoetet-a-3c6f67b8-8e0f-49d3-a360-fe97a13baaa6#ref=rss)
+### betroffene
 
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-neue-sicherheitsdoktrin-erarbeiten](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-neue-sicherheitsdoktrin-erarbeiten-a-65089241-f385-4797-b4ea-e170609265b3#ref=rss)
-### selenskyj
+* [https://www.spiegel.de/sport/handball/andre-fuhr-dhb-wollte-vorwuerfe-wegen-psychoterror-klaeren-gericht-untersagt-kommission](https://www.spiegel.de/sport/handball/andre-fuhr-dhb-wollte-vorwuerfe-wegen-psychoterror-klaeren-gericht-untersagt-kommission-a-e57442db-ac1c-4358-be6d-019cd455a8fb#ref=rss)
+* [https://www.spiegel.de/gesundheit/diagnose/leqembi-gegen-alzheimer-was-betroffene-ueber-das-medikament-wissen-muessen](https://www.spiegel.de/gesundheit/diagnose/leqembi-gegen-alzheimer-was-betroffene-ueber-das-medikament-wissen-muessen-a-c2d63d06-70de-4aa7-9cc9-06b3109e8f94#ref=rss)
+### atp
 
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-neue-sicherheitsdoktrin-erarbeiten](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-neue-sicherheitsdoktrin-erarbeiten-a-65089241-f385-4797-b4ea-e170609265b3#ref=rss)
+* [https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-besiegt-carlos-alcaraz-und-steht-im-halbfinale](https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-besiegt-carlos-alcaraz-und-steht-im-halbfinale-a-094f1da3-c0d5-49e1-b6ce-c8b6d88fa94e#ref=rss)
+### finals
+
+* [https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-besiegt-carlos-alcaraz-und-steht-im-halbfinale](https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-besiegt-carlos-alcaraz-und-steht-im-halbfinale-a-094f1da3-c0d5-49e1-b6ce-c8b6d88fa94e#ref=rss)
+### alexander
+
+* [https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-besiegt-carlos-alcaraz-und-steht-im-halbfinale](https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-besiegt-carlos-alcaraz-und-steht-im-halbfinale-a-094f1da3-c0d5-49e1-b6ce-c8b6d88fa94e#ref=rss)
+### zverev
+
+* [https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-besiegt-carlos-alcaraz-und-steht-im-halbfinale](https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-besiegt-carlos-alcaraz-und-steht-im-halbfinale-a-094f1da3-c0d5-49e1-b6ce-c8b6d88fa94e#ref=rss)
+### besiegt
+
+* [https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-besiegt-carlos-alcaraz-und-steht-im-halbfinale](https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-besiegt-carlos-alcaraz-und-steht-im-halbfinale-a-094f1da3-c0d5-49e1-b6ce-c8b6d88fa94e#ref=rss)
+### carlos
+
+* [https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-besiegt-carlos-alcaraz-und-steht-im-halbfinale](https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-besiegt-carlos-alcaraz-und-steht-im-halbfinale-a-094f1da3-c0d5-49e1-b6ce-c8b6d88fa94e#ref=rss)
+### alcaraz
+
+* [https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-besiegt-carlos-alcaraz-und-steht-im-halbfinale](https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-besiegt-carlos-alcaraz-und-steht-im-halbfinale-a-094f1da3-c0d5-49e1-b6ce-c8b6d88fa94e#ref=rss)
+### halbfinale
+
+* [https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-besiegt-carlos-alcaraz-und-steht-im-halbfinale](https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-besiegt-carlos-alcaraz-und-steht-im-halbfinale-a-094f1da3-c0d5-49e1-b6ce-c8b6d88fa94e#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-besiegt-carlos-alcaraz-und-steht-im-halbfinale](https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-besiegt-carlos-alcaraz-und-steht-im-halbfinale-a-094f1da3-c0d5-49e1-b6ce-c8b6d88fa94e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-einreisekontrollen-an-deutschen-grenzen-alzheimermedikament-leqembi-recherchen-zu-stepan-timoshin](https://www.spiegel.de/politik/deutschland/news-des-tages-einreisekontrollen-an-deutschen-grenzen-alzheimermedikament-leqembi-recherchen-zu-stepan-timoshin-a-8f730fa9-ca57-4794-be18-eb6feb3def28#ref=rss)
+### gazprom
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/gazprom-stoppt-lieferungen-nach-oesterreich](https://www.spiegel.de/wirtschaft/unternehmen/gazprom-stoppt-lieferungen-nach-oesterreich-a-926a53df-0faf-4bb1-a7e9-199b523d0172#ref=rss)
+### österreich
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/gazprom-stoppt-lieferungen-nach-oesterreich](https://www.spiegel.de/wirtschaft/unternehmen/gazprom-stoppt-lieferungen-nach-oesterreich-a-926a53df-0faf-4bb1-a7e9-199b523d0172#ref=rss)
+### reagiert
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/gazprom-stoppt-lieferungen-nach-oesterreich](https://www.spiegel.de/wirtschaft/unternehmen/gazprom-stoppt-lieferungen-nach-oesterreich-a-926a53df-0faf-4bb1-a7e9-199b523d0172#ref=rss)
+* [https://www.spiegel.de/ausland/demokraten-unter-kamala-harris-wie-die-partei-auf-ihre-krachende-niederlage-reagiert](https://www.spiegel.de/ausland/demokraten-unter-kamala-harris-wie-die-partei-auf-ihre-krachende-niederlage-reagiert-a-0a38d80d-fb23-4318-91cc-de047c6773df#ref=rss)
+### tatort
+
+* [https://www.spiegel.de/kultur/tv/tatort-aus-stuttgart-lass-sie-gehen-mit-lannert-und-bootz](https://www.spiegel.de/kultur/tv/tatort-aus-stuttgart-lass-sie-gehen-mit-lannert-und-bootz-a-11ab56e0-5d6c-4620-a3bb-7115b9ed505f#ref=rss)
+### alzheimermedikament
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-einreisekontrollen-an-deutschen-grenzen-alzheimermedikament-leqembi-recherchen-zu-stepan-timoshin](https://www.spiegel.de/politik/deutschland/news-des-tages-einreisekontrollen-an-deutschen-grenzen-alzheimermedikament-leqembi-recherchen-zu-stepan-timoshin-a-8f730fa9-ca57-4794-be18-eb6feb3def28#ref=rss)
+### leqembi
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-einreisekontrollen-an-deutschen-grenzen-alzheimermedikament-leqembi-recherchen-zu-stepan-timoshin](https://www.spiegel.de/politik/deutschland/news-des-tages-einreisekontrollen-an-deutschen-grenzen-alzheimermedikament-leqembi-recherchen-zu-stepan-timoshin-a-8f730fa9-ca57-4794-be18-eb6feb3def28#ref=rss)
+* [https://www.spiegel.de/gesundheit/diagnose/leqembi-gegen-alzheimer-was-betroffene-ueber-das-medikament-wissen-muessen](https://www.spiegel.de/gesundheit/diagnose/leqembi-gegen-alzheimer-was-betroffene-ueber-das-medikament-wissen-muessen-a-c2d63d06-70de-4aa7-9cc9-06b3109e8f94#ref=rss)
+### stepan
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-einreisekontrollen-an-deutschen-grenzen-alzheimermedikament-leqembi-recherchen-zu-stepan-timoshin](https://www.spiegel.de/politik/deutschland/news-des-tages-einreisekontrollen-an-deutschen-grenzen-alzheimermedikament-leqembi-recherchen-zu-stepan-timoshin-a-8f730fa9-ca57-4794-be18-eb6feb3def28#ref=rss)
+### timoshin
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-einreisekontrollen-an-deutschen-grenzen-alzheimermedikament-leqembi-recherchen-zu-stepan-timoshin](https://www.spiegel.de/politik/deutschland/news-des-tages-einreisekontrollen-an-deutschen-grenzen-alzheimermedikament-leqembi-recherchen-zu-stepan-timoshin-a-8f730fa9-ca57-4794-be18-eb6feb3def28#ref=rss)
+### führen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-einreisekontrollen-an-deutschen-grenzen-alzheimermedikament-leqembi-recherchen-zu-stepan-timoshin](https://www.spiegel.de/politik/deutschland/news-des-tages-einreisekontrollen-an-deutschen-grenzen-alzheimermedikament-leqembi-recherchen-zu-stepan-timoshin-a-8f730fa9-ca57-4794-be18-eb6feb3def28#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bundesliga-christian-ilzer-wird-neuer-trainer-der-tsg-hoffenheim](https://www.spiegel.de/sport/fussball/bundesliga-christian-ilzer-wird-neuer-trainer-der-tsg-hoffenheim-a-0f139a5d-26db-4150-8732-9ce28e2067fa#ref=rss)
+### hoffen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-einreisekontrollen-an-deutschen-grenzen-alzheimermedikament-leqembi-recherchen-zu-stepan-timoshin](https://www.spiegel.de/politik/deutschland/news-des-tages-einreisekontrollen-an-deutschen-grenzen-alzheimermedikament-leqembi-recherchen-zu-stepan-timoshin-a-8f730fa9-ca57-4794-be18-eb6feb3def28#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-nominiert-neues-kabinett-loyalitaet-loyalitaet-loyalitaet](https://www.spiegel.de/ausland/donald-trump-nominiert-neues-kabinett-loyalitaet-loyalitaet-loyalitaet-a-ce6e7a29-d02f-4b2a-870a-0d85fcabb4a2#ref=rss)
+### hugh
+
+* [https://www.spiegel.de/kultur/kino/hugh-grant-schauspieler-findet-seine-rolle-in-notting-hill-verachtenswert](https://www.spiegel.de/kultur/kino/hugh-grant-schauspieler-findet-seine-rolle-in-notting-hill-verachtenswert-a-b3c671d5-112a-47fe-ad31-deb4326bf72d#ref=rss)
+### grant
+
+* [https://www.spiegel.de/kultur/kino/hugh-grant-schauspieler-findet-seine-rolle-in-notting-hill-verachtenswert](https://www.spiegel.de/kultur/kino/hugh-grant-schauspieler-findet-seine-rolle-in-notting-hill-verachtenswert-a-b3c671d5-112a-47fe-ad31-deb4326bf72d#ref=rss)
+### findet
+
+* [https://www.spiegel.de/kultur/kino/hugh-grant-schauspieler-findet-seine-rolle-in-notting-hill-verachtenswert](https://www.spiegel.de/kultur/kino/hugh-grant-schauspieler-findet-seine-rolle-in-notting-hill-verachtenswert-a-b3c671d5-112a-47fe-ad31-deb4326bf72d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/armin-laschet-ueber-elon-musk-nicht-vom-tesla-fahren-abbringen-lassen](https://www.spiegel.de/wirtschaft/armin-laschet-ueber-elon-musk-nicht-vom-tesla-fahren-abbringen-lassen-a-2b7fa058-7a15-41fa-aa00-32de3fc81b94#ref=rss)
+### notting
+
+* [https://www.spiegel.de/kultur/kino/hugh-grant-schauspieler-findet-seine-rolle-in-notting-hill-verachtenswert](https://www.spiegel.de/kultur/kino/hugh-grant-schauspieler-findet-seine-rolle-in-notting-hill-verachtenswert-a-b3c671d5-112a-47fe-ad31-deb4326bf72d#ref=rss)
+### hill
+
+* [https://www.spiegel.de/kultur/kino/hugh-grant-schauspieler-findet-seine-rolle-in-notting-hill-verachtenswert](https://www.spiegel.de/kultur/kino/hugh-grant-schauspieler-findet-seine-rolle-in-notting-hill-verachtenswert-a-b3c671d5-112a-47fe-ad31-deb4326bf72d#ref=rss)
+### william
+
+* [https://www.spiegel.de/kultur/kino/hugh-grant-schauspieler-findet-seine-rolle-in-notting-hill-verachtenswert](https://www.spiegel.de/kultur/kino/hugh-grant-schauspieler-findet-seine-rolle-in-notting-hill-verachtenswert-a-b3c671d5-112a-47fe-ad31-deb4326bf72d#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/kuenstliche-intelligenz-und-poesie-chatgpt-uebertrifft-william-shakespeare-in-einer-studie](https://www.spiegel.de/kultur/literatur/kuenstliche-intelligenz-und-poesie-chatgpt-uebertrifft-william-shakespeare-in-einer-studie-a-7dd00bbb-ec99-4a77-9c30-2b7e694e275f#ref=rss)
+### spielte
+
+* [https://www.spiegel.de/kultur/kino/hugh-grant-schauspieler-findet-seine-rolle-in-notting-hill-verachtenswert](https://www.spiegel.de/kultur/kino/hugh-grant-schauspieler-findet-seine-rolle-in-notting-hill-verachtenswert-a-b3c671d5-112a-47fe-ad31-deb4326bf72d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bundesliga-christian-ilzer-wird-neuer-trainer-der-tsg-hoffenheim](https://www.spiegel.de/sport/fussball/bundesliga-christian-ilzer-wird-neuer-trainer-der-tsg-hoffenheim-a-0f139a5d-26db-4150-8732-9ce28e2067fa#ref=rss)
+### ampelaus
+
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-cem-oezdemir-trennt-sich-von-bettina-stark-watzingers-vertrauten-im-bildungsministerium](https://www.spiegel.de/politik/deutschland/ampel-aus-cem-oezdemir-trennt-sich-von-bettina-stark-watzingers-vertrauten-im-bildungsministerium-a-61d7898a-f0a0-4630-8b52-f9957629ff02#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-und-fpd-schwarz-gelbe-runde-traf-sich-am-tag-nach-dem-ampel-aus](https://www.spiegel.de/politik/deutschland/cdu-und-fpd-schwarz-gelbe-runde-traf-sich-am-tag-nach-dem-ampel-aus-a-34b3ddc6-e58a-489d-9347-1ae4c3764175#ref=rss)
+### cem
+
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-cem-oezdemir-trennt-sich-von-bettina-stark-watzingers-vertrauten-im-bildungsministerium](https://www.spiegel.de/politik/deutschland/ampel-aus-cem-oezdemir-trennt-sich-von-bettina-stark-watzingers-vertrauten-im-bildungsministerium-a-61d7898a-f0a0-4630-8b52-f9957629ff02#ref=rss)
+### özdemir
+
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-cem-oezdemir-trennt-sich-von-bettina-stark-watzingers-vertrauten-im-bildungsministerium](https://www.spiegel.de/politik/deutschland/ampel-aus-cem-oezdemir-trennt-sich-von-bettina-stark-watzingers-vertrauten-im-bildungsministerium-a-61d7898a-f0a0-4630-8b52-f9957629ff02#ref=rss)
+### bettina
+
+* [https://www.spiegel.de/politik/deutschland/ampel-aus-cem-oezdemir-trennt-sich-von-bettina-stark-watzingers-vertrauten-im-bildungsministerium](https://www.spiegel.de/politik/deutschland/ampel-aus-cem-oezdemir-trennt-sich-von-bettina-stark-watzingers-vertrauten-im-bildungsministerium-a-61d7898a-f0a0-4630-8b52-f9957629ff02#ref=rss)
+### alzheimer
+
+* [https://www.spiegel.de/gesundheit/diagnose/leqembi-gegen-alzheimer-was-betroffene-ueber-das-medikament-wissen-muessen](https://www.spiegel.de/gesundheit/diagnose/leqembi-gegen-alzheimer-was-betroffene-ueber-das-medikament-wissen-muessen-a-c2d63d06-70de-4aa7-9cc9-06b3109e8f94#ref=rss)
+### europa
+
+* [https://www.spiegel.de/gesundheit/diagnose/leqembi-gegen-alzheimer-was-betroffene-ueber-das-medikament-wissen-muessen](https://www.spiegel.de/gesundheit/diagnose/leqembi-gegen-alzheimer-was-betroffene-ueber-das-medikament-wissen-muessen-a-c2d63d06-70de-4aa7-9cc9-06b3109e8f94#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-nominiert-neues-kabinett-loyalitaet-loyalitaet-loyalitaet](https://www.spiegel.de/ausland/donald-trump-nominiert-neues-kabinett-loyalitaet-loyalitaet-loyalitaet-a-ce6e7a29-d02f-4b2a-870a-0d85fcabb4a2#ref=rss)
+### gut
+
+* [https://www.spiegel.de/gesundheit/diagnose/leqembi-gegen-alzheimer-was-betroffene-ueber-das-medikament-wissen-muessen](https://www.spiegel.de/gesundheit/diagnose/leqembi-gegen-alzheimer-was-betroffene-ueber-das-medikament-wissen-muessen-a-c2d63d06-70de-4aa7-9cc9-06b3109e8f94#ref=rss)
+* [https://www.spiegel.de/sport/boris-herrmann-so-gut-ist-die-ard-doku-ueber-den-segler](https://www.spiegel.de/sport/boris-herrmann-so-gut-ist-die-ard-doku-ueber-den-segler-a-0f99a0cc-bcbb-4914-a7e0-795309d810e3#ref=rss)
+### 070
+
+* [https://www.spiegel.de/kultur/musik/070-shake-linkin-park-gwen-stefani-urbannino-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/070-shake-linkin-park-gwen-stefani-urbannino-abgehoert-album-der-woche-a-8177b366-bcfe-4471-8468-52cc1f8e38a9#ref=rss)
+### shake
+
+* [https://www.spiegel.de/kultur/musik/070-shake-linkin-park-gwen-stefani-urbannino-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/070-shake-linkin-park-gwen-stefani-urbannino-abgehoert-album-der-woche-a-8177b366-bcfe-4471-8468-52cc1f8e38a9#ref=rss)
+### linkin
+
+* [https://www.spiegel.de/kultur/musik/070-shake-linkin-park-gwen-stefani-urbannino-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/070-shake-linkin-park-gwen-stefani-urbannino-abgehoert-album-der-woche-a-8177b366-bcfe-4471-8468-52cc1f8e38a9#ref=rss)
+### park
+
+* [https://www.spiegel.de/kultur/musik/070-shake-linkin-park-gwen-stefani-urbannino-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/070-shake-linkin-park-gwen-stefani-urbannino-abgehoert-album-der-woche-a-8177b366-bcfe-4471-8468-52cc1f8e38a9#ref=rss)
+### gwen
+
+* [https://www.spiegel.de/kultur/musik/070-shake-linkin-park-gwen-stefani-urbannino-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/070-shake-linkin-park-gwen-stefani-urbannino-abgehoert-album-der-woche-a-8177b366-bcfe-4471-8468-52cc1f8e38a9#ref=rss)
+### stefani
+
+* [https://www.spiegel.de/kultur/musik/070-shake-linkin-park-gwen-stefani-urbannino-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/070-shake-linkin-park-gwen-stefani-urbannino-abgehoert-album-der-woche-a-8177b366-bcfe-4471-8468-52cc1f8e38a9#ref=rss)
+### woche
+
+* [https://www.spiegel.de/kultur/musik/070-shake-linkin-park-gwen-stefani-urbannino-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/070-shake-linkin-park-gwen-stefani-urbannino-abgehoert-album-der-woche-a-8177b366-bcfe-4471-8468-52cc1f8e38a9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/cop29-halbzeit-auf-dem-uno-klimagipfel-diese-drei-themen-entscheiden-ueber-sein-gelingen](https://www.spiegel.de/wissenschaft/cop29-halbzeit-auf-dem-uno-klimagipfel-diese-drei-themen-entscheiden-ueber-sein-gelingen-a-a56e8815-f424-4383-891a-633e110fc043#ref=rss)
+### nichts
+
+* [https://www.spiegel.de/kultur/musik/070-shake-linkin-park-gwen-stefani-urbannino-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/070-shake-linkin-park-gwen-stefani-urbannino-abgehoert-album-der-woche-a-8177b366-bcfe-4471-8468-52cc1f8e38a9#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bristol-urteil-gegen-taeter-nach-steinwuerfen-auf-haus-zwei-teenager-getoetet](https://www.spiegel.de/panorama/justiz/bristol-urteil-gegen-taeter-nach-steinwuerfen-auf-haus-zwei-teenager-getoetet-a-3c6f67b8-8e0f-49d3-a360-fe97a13baaa6#ref=rss)
+### anderes
+
+* [https://www.spiegel.de/kultur/musik/070-shake-linkin-park-gwen-stefani-urbannino-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/070-shake-linkin-park-gwen-stefani-urbannino-abgehoert-album-der-woche-a-8177b366-bcfe-4471-8468-52cc1f8e38a9#ref=rss)
+* [https://www.spiegel.de/panorama/christian-lindner-will-seinen-porsche-verkaufen-langsam-offen-fuer-etwas-anderes](https://www.spiegel.de/panorama/christian-lindner-will-seinen-porsche-verkaufen-langsam-offen-fuer-etwas-anderes-a-38e3d4b6-b66a-4097-bfe9-0e40091894ee#ref=rss)
+### boris
+
+* [https://www.spiegel.de/sport/boris-herrmann-so-gut-ist-die-ard-doku-ueber-den-segler](https://www.spiegel.de/sport/boris-herrmann-so-gut-ist-die-ard-doku-ueber-den-segler-a-0f99a0cc-bcbb-4914-a7e0-795309d810e3#ref=rss)
+### herrmann
+
+* [https://www.spiegel.de/sport/boris-herrmann-so-gut-ist-die-ard-doku-ueber-den-segler](https://www.spiegel.de/sport/boris-herrmann-so-gut-ist-die-ard-doku-ueber-den-segler-a-0f99a0cc-bcbb-4914-a7e0-795309d810e3#ref=rss)
+### segler
+
+* [https://www.spiegel.de/sport/boris-herrmann-so-gut-ist-die-ard-doku-ueber-den-segler](https://www.spiegel.de/sport/boris-herrmann-so-gut-ist-die-ard-doku-ueber-den-segler-a-0f99a0cc-bcbb-4914-a7e0-795309d810e3#ref=rss)
+### deutschlands
+
+* [https://www.spiegel.de/sport/boris-herrmann-so-gut-ist-die-ard-doku-ueber-den-segler](https://www.spiegel.de/sport/boris-herrmann-so-gut-ist-die-ard-doku-ueber-den-segler-a-0f99a0cc-bcbb-4914-a7e0-795309d810e3#ref=rss)
+* [https://www.spiegel.de/kultur/deutsche-russlandpolitik-ruecktrittsforderungen-an-frank-walter-steinmeier-zu-recht](https://www.spiegel.de/kultur/deutsche-russlandpolitik-ruecktrittsforderungen-an-frank-walter-steinmeier-zu-recht-a-096050e2-234e-4540-9921-fc2e47a15275#ref=rss)
+### bücher
+
+* [https://www.spiegel.de/panorama/bildung/buecher-zehn-tipps-zum-vorlesetag-diese-buecher-lieben-eltern-und-kinder](https://www.spiegel.de/panorama/bildung/buecher-zehn-tipps-zum-vorlesetag-diese-buecher-lieben-eltern-und-kinder-a-d982ff86-4cc0-4197-b378-ce1d0e0ad365#ref=rss)
+### zehn
+
+* [https://www.spiegel.de/panorama/bildung/buecher-zehn-tipps-zum-vorlesetag-diese-buecher-lieben-eltern-und-kinder](https://www.spiegel.de/panorama/bildung/buecher-zehn-tipps-zum-vorlesetag-diese-buecher-lieben-eltern-und-kinder-a-d982ff86-4cc0-4197-b378-ce1d0e0ad365#ref=rss)
+### vorlesetag
+
+* [https://www.spiegel.de/panorama/bildung/buecher-zehn-tipps-zum-vorlesetag-diese-buecher-lieben-eltern-und-kinder](https://www.spiegel.de/panorama/bildung/buecher-zehn-tipps-zum-vorlesetag-diese-buecher-lieben-eltern-und-kinder-a-d982ff86-4cc0-4197-b378-ce1d0e0ad365#ref=rss)
+### buch
+
+* [https://www.spiegel.de/panorama/bildung/buecher-zehn-tipps-zum-vorlesetag-diese-buecher-lieben-eltern-und-kinder](https://www.spiegel.de/panorama/bildung/buecher-zehn-tipps-zum-vorlesetag-diese-buecher-lieben-eltern-und-kinder-a-d982ff86-4cc0-4197-b378-ce1d0e0ad365#ref=rss)
+### täter
+
+* [https://www.spiegel.de/panorama/justiz/bristol-urteil-gegen-taeter-nach-steinwuerfen-auf-haus-zwei-teenager-getoetet](https://www.spiegel.de/panorama/justiz/bristol-urteil-gegen-taeter-nach-steinwuerfen-auf-haus-zwei-teenager-getoetet-a-3c6f67b8-8e0f-49d3-a360-fe97a13baaa6#ref=rss)
+### steinwürfen
+
+* [https://www.spiegel.de/panorama/justiz/bristol-urteil-gegen-taeter-nach-steinwuerfen-auf-haus-zwei-teenager-getoetet](https://www.spiegel.de/panorama/justiz/bristol-urteil-gegen-taeter-nach-steinwuerfen-auf-haus-zwei-teenager-getoetet-a-3c6f67b8-8e0f-49d3-a360-fe97a13baaa6#ref=rss)
+### haus
+
+* [https://www.spiegel.de/panorama/justiz/bristol-urteil-gegen-taeter-nach-steinwuerfen-auf-haus-zwei-teenager-getoetet](https://www.spiegel.de/panorama/justiz/bristol-urteil-gegen-taeter-nach-steinwuerfen-auf-haus-zwei-teenager-getoetet-a-3c6f67b8-8e0f-49d3-a360-fe97a13baaa6#ref=rss)
+### teenager
+
+* [https://www.spiegel.de/panorama/justiz/bristol-urteil-gegen-taeter-nach-steinwuerfen-auf-haus-zwei-teenager-getoetet](https://www.spiegel.de/panorama/justiz/bristol-urteil-gegen-taeter-nach-steinwuerfen-auf-haus-zwei-teenager-getoetet-a-3c6f67b8-8e0f-49d3-a360-fe97a13baaa6#ref=rss)
+### armin
+
+* [https://www.spiegel.de/wirtschaft/armin-laschet-ueber-elon-musk-nicht-vom-tesla-fahren-abbringen-lassen](https://www.spiegel.de/wirtschaft/armin-laschet-ueber-elon-musk-nicht-vom-tesla-fahren-abbringen-lassen-a-2b7fa058-7a15-41fa-aa00-32de3fc81b94#ref=rss)
+### laschet
+
+* [https://www.spiegel.de/wirtschaft/armin-laschet-ueber-elon-musk-nicht-vom-tesla-fahren-abbringen-lassen](https://www.spiegel.de/wirtschaft/armin-laschet-ueber-elon-musk-nicht-vom-tesla-fahren-abbringen-lassen-a-2b7fa058-7a15-41fa-aa00-32de3fc81b94#ref=rss)
+### elon
+
+* [https://www.spiegel.de/wirtschaft/armin-laschet-ueber-elon-musk-nicht-vom-tesla-fahren-abbringen-lassen](https://www.spiegel.de/wirtschaft/armin-laschet-ueber-elon-musk-nicht-vom-tesla-fahren-abbringen-lassen-a-2b7fa058-7a15-41fa-aa00-32de3fc81b94#ref=rss)
+### musk
+
+* [https://www.spiegel.de/wirtschaft/armin-laschet-ueber-elon-musk-nicht-vom-tesla-fahren-abbringen-lassen](https://www.spiegel.de/wirtschaft/armin-laschet-ueber-elon-musk-nicht-vom-tesla-fahren-abbringen-lassen-a-2b7fa058-7a15-41fa-aa00-32de3fc81b94#ref=rss)
+### unter
+
+* [https://www.spiegel.de/ausland/demokraten-unter-kamala-harris-wie-die-partei-auf-ihre-krachende-niederlage-reagiert](https://www.spiegel.de/ausland/demokraten-unter-kamala-harris-wie-die-partei-auf-ihre-krachende-niederlage-reagiert-a-0a38d80d-fb23-4318-91cc-de047c6773df#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-nominiert-neues-kabinett-loyalitaet-loyalitaet-loyalitaet](https://www.spiegel.de/ausland/donald-trump-nominiert-neues-kabinett-loyalitaet-loyalitaet-loyalitaet-a-ce6e7a29-d02f-4b2a-870a-0d85fcabb4a2#ref=rss)
+### niederlage
+
+* [https://www.spiegel.de/ausland/demokraten-unter-kamala-harris-wie-die-partei-auf-ihre-krachende-niederlage-reagiert](https://www.spiegel.de/ausland/demokraten-unter-kamala-harris-wie-die-partei-auf-ihre-krachende-niederlage-reagiert-a-0a38d80d-fb23-4318-91cc-de047c6773df#ref=rss)
+### worauf
+
+* [https://www.spiegel.de/ausland/donald-trump-nominiert-neues-kabinett-loyalitaet-loyalitaet-loyalitaet](https://www.spiegel.de/ausland/donald-trump-nominiert-neues-kabinett-loyalitaet-loyalitaet-loyalitaet-a-ce6e7a29-d02f-4b2a-870a-0d85fcabb4a2#ref=rss)
+* [https://www.spiegel.de/wissenschaft/cop29-halbzeit-auf-dem-uno-klimagipfel-diese-drei-themen-entscheiden-ueber-sein-gelingen](https://www.spiegel.de/wissenschaft/cop29-halbzeit-auf-dem-uno-klimagipfel-diese-drei-themen-entscheiden-ueber-sein-gelingen-a-a56e8815-f424-4383-891a-633e110fc043#ref=rss)
+### robert
+
+* [https://www.spiegel.de/panorama/justiz/robert-habeck-hausdurchsuchung-bei-rentner-wegen-beleidigung-ist-die-aufregung-gerechtfertigt](https://www.spiegel.de/panorama/justiz/robert-habeck-hausdurchsuchung-bei-rentner-wegen-beleidigung-ist-die-aufregung-gerechtfertigt-a-6c1fd247-12ce-498d-8f64-984a02ccf2da#ref=rss)
+### habeck
+
+* [https://www.spiegel.de/panorama/justiz/robert-habeck-hausdurchsuchung-bei-rentner-wegen-beleidigung-ist-die-aufregung-gerechtfertigt](https://www.spiegel.de/panorama/justiz/robert-habeck-hausdurchsuchung-bei-rentner-wegen-beleidigung-ist-die-aufregung-gerechtfertigt-a-6c1fd247-12ce-498d-8f64-984a02ccf2da#ref=rss)
+### rentner
+
+* [https://www.spiegel.de/panorama/justiz/robert-habeck-hausdurchsuchung-bei-rentner-wegen-beleidigung-ist-die-aufregung-gerechtfertigt](https://www.spiegel.de/panorama/justiz/robert-habeck-hausdurchsuchung-bei-rentner-wegen-beleidigung-ist-die-aufregung-gerechtfertigt-a-6c1fd247-12ce-498d-8f64-984a02ccf2da#ref=rss)
+### studie
+
+* [https://www.spiegel.de/kultur/literatur/kuenstliche-intelligenz-und-poesie-chatgpt-uebertrifft-william-shakespeare-in-einer-studie](https://www.spiegel.de/kultur/literatur/kuenstliche-intelligenz-und-poesie-chatgpt-uebertrifft-william-shakespeare-in-einer-studie-a-7dd00bbb-ec99-4a77-9c30-2b7e694e275f#ref=rss)
+### ilzer
+
+* [https://www.spiegel.de/sport/fussball/bundesliga-christian-ilzer-wird-neuer-trainer-der-tsg-hoffenheim](https://www.spiegel.de/sport/fussball/bundesliga-christian-ilzer-wird-neuer-trainer-der-tsg-hoffenheim-a-0f139a5d-26db-4150-8732-9ce28e2067fa#ref=rss)
+### neuer
+
+* [https://www.spiegel.de/sport/fussball/bundesliga-christian-ilzer-wird-neuer-trainer-der-tsg-hoffenheim](https://www.spiegel.de/sport/fussball/bundesliga-christian-ilzer-wird-neuer-trainer-der-tsg-hoffenheim-a-0f139a5d-26db-4150-8732-9ce28e2067fa#ref=rss)
+### tsg
+
+* [https://www.spiegel.de/sport/fussball/bundesliga-christian-ilzer-wird-neuer-trainer-der-tsg-hoffenheim](https://www.spiegel.de/sport/fussball/bundesliga-christian-ilzer-wird-neuer-trainer-der-tsg-hoffenheim-a-0f139a5d-26db-4150-8732-9ce28e2067fa#ref=rss)
+### hoffenheim
+
+* [https://www.spiegel.de/sport/fussball/bundesliga-christian-ilzer-wird-neuer-trainer-der-tsg-hoffenheim](https://www.spiegel.de/sport/fussball/bundesliga-christian-ilzer-wird-neuer-trainer-der-tsg-hoffenheim-a-0f139a5d-26db-4150-8732-9ce28e2067fa#ref=rss)
+### bundeshaushalt
+
+* [https://www.spiegel.de/panorama/bundeshaushalt-staedte-fuerchten-um-foerdermittel-in-milliardenhoehe](https://www.spiegel.de/panorama/bundeshaushalt-staedte-fuerchten-um-foerdermittel-in-milliardenhoehe-a-d5b29512-5039-4ef1-a7b7-9f59c504a557#ref=rss)
+### russlandpolitik
+
+* [https://www.spiegel.de/kultur/deutsche-russlandpolitik-ruecktrittsforderungen-an-frank-walter-steinmeier-zu-recht](https://www.spiegel.de/kultur/deutsche-russlandpolitik-ruecktrittsforderungen-an-frank-walter-steinmeier-zu-recht-a-096050e2-234e-4540-9921-fc2e47a15275#ref=rss)
+### frankwalter
+
+* [https://www.spiegel.de/kultur/deutsche-russlandpolitik-ruecktrittsforderungen-an-frank-walter-steinmeier-zu-recht](https://www.spiegel.de/kultur/deutsche-russlandpolitik-ruecktrittsforderungen-an-frank-walter-steinmeier-zu-recht-a-096050e2-234e-4540-9921-fc2e47a15275#ref=rss)
+### steinmeier
+
+* [https://www.spiegel.de/kultur/deutsche-russlandpolitik-ruecktrittsforderungen-an-frank-walter-steinmeier-zu-recht](https://www.spiegel.de/kultur/deutsche-russlandpolitik-ruecktrittsforderungen-an-frank-walter-steinmeier-zu-recht-a-096050e2-234e-4540-9921-fc2e47a15275#ref=rss)
+### fritz
+
+* [https://www.spiegel.de/panorama/dfb-machtkampf-wie-ex-praesident-fritz-keller-die-justiz-fuer-sich-einspannte](https://www.spiegel.de/panorama/dfb-machtkampf-wie-ex-praesident-fritz-keller-die-justiz-fuer-sich-einspannte-a-7398f65d-0f13-48fd-8f0c-4117984a9007#ref=rss)
+### keller
+
+* [https://www.spiegel.de/panorama/dfb-machtkampf-wie-ex-praesident-fritz-keller-die-justiz-fuer-sich-einspannte](https://www.spiegel.de/panorama/dfb-machtkampf-wie-ex-praesident-fritz-keller-die-justiz-fuer-sich-einspannte-a-7398f65d-0f13-48fd-8f0c-4117984a9007#ref=rss)
+### justiz
+
+* [https://www.spiegel.de/panorama/dfb-machtkampf-wie-ex-praesident-fritz-keller-die-justiz-fuer-sich-einspannte](https://www.spiegel.de/panorama/dfb-machtkampf-wie-ex-praesident-fritz-keller-die-justiz-fuer-sich-einspannte-a-7398f65d-0f13-48fd-8f0c-4117984a9007#ref=rss)
+### einspannte
+
+* [https://www.spiegel.de/panorama/dfb-machtkampf-wie-ex-praesident-fritz-keller-die-justiz-fuer-sich-einspannte](https://www.spiegel.de/panorama/dfb-machtkampf-wie-ex-praesident-fritz-keller-die-justiz-fuer-sich-einspannte-a-7398f65d-0f13-48fd-8f0c-4117984a9007#ref=rss)
+### köln
+
+* [https://www.spiegel.de/panorama/justiz/koeln-mann-beisst-polizistin-ein-stueck-vom-ohr-ab](https://www.spiegel.de/panorama/justiz/koeln-mann-beisst-polizistin-ein-stueck-vom-ohr-ab-a-e1232d7a-db22-4fdb-91ba-7519f2cd94a4#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/koeln-mann-beisst-polizistin-ein-stueck-vom-ohr-ab](https://www.spiegel.de/panorama/justiz/koeln-mann-beisst-polizistin-ein-stueck-vom-ohr-ab-a-e1232d7a-db22-4fdb-91ba-7519f2cd94a4#ref=rss)
+### polizistin
+
+* [https://www.spiegel.de/panorama/justiz/koeln-mann-beisst-polizistin-ein-stueck-vom-ohr-ab](https://www.spiegel.de/panorama/justiz/koeln-mann-beisst-polizistin-ein-stueck-vom-ohr-ab-a-e1232d7a-db22-4fdb-91ba-7519f2cd94a4#ref=rss)
+### lindner
+
+* [https://www.spiegel.de/panorama/christian-lindner-will-seinen-porsche-verkaufen-langsam-offen-fuer-etwas-anderes](https://www.spiegel.de/panorama/christian-lindner-will-seinen-porsche-verkaufen-langsam-offen-fuer-etwas-anderes-a-38e3d4b6-b66a-4097-bfe9-0e40091894ee#ref=rss)
+### porsche
+
+* [https://www.spiegel.de/panorama/christian-lindner-will-seinen-porsche-verkaufen-langsam-offen-fuer-etwas-anderes](https://www.spiegel.de/panorama/christian-lindner-will-seinen-porsche-verkaufen-langsam-offen-fuer-etwas-anderes-a-38e3d4b6-b66a-4097-bfe9-0e40091894ee#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/panorama/christian-lindner-will-seinen-porsche-verkaufen-langsam-offen-fuer-etwas-anderes](https://www.spiegel.de/panorama/christian-lindner-will-seinen-porsche-verkaufen-langsam-offen-fuer-etwas-anderes-a-38e3d4b6-b66a-4097-bfe9-0e40091894ee#ref=rss)
+### wladimir
+
+* [https://www.spiegel.de/ausland/wladimir-putin-und-olaf-scholz-telefonieren-erstmals-seit-zwei-jahren](https://www.spiegel.de/ausland/wladimir-putin-und-olaf-scholz-telefonieren-erstmals-seit-zwei-jahren-a-dc3f43af-807a-4fcb-b92f-44cc2674aba9#ref=rss)
+### putin
+
+* [https://www.spiegel.de/ausland/wladimir-putin-und-olaf-scholz-telefonieren-erstmals-seit-zwei-jahren](https://www.spiegel.de/ausland/wladimir-putin-und-olaf-scholz-telefonieren-erstmals-seit-zwei-jahren-a-dc3f43af-807a-4fcb-b92f-44cc2674aba9#ref=rss)
+### olaf
+
+* [https://www.spiegel.de/ausland/wladimir-putin-und-olaf-scholz-telefonieren-erstmals-seit-zwei-jahren](https://www.spiegel.de/ausland/wladimir-putin-und-olaf-scholz-telefonieren-erstmals-seit-zwei-jahren-a-dc3f43af-807a-4fcb-b92f-44cc2674aba9#ref=rss)
+### scholz
+
+* [https://www.spiegel.de/ausland/wladimir-putin-und-olaf-scholz-telefonieren-erstmals-seit-zwei-jahren](https://www.spiegel.de/ausland/wladimir-putin-und-olaf-scholz-telefonieren-erstmals-seit-zwei-jahren-a-dc3f43af-807a-4fcb-b92f-44cc2674aba9#ref=rss)
 
