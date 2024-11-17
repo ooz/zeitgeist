@@ -4,350 +4,342 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### christian
+### donald
 
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-und-der-ampel-bruch-wie-die-enthuellungen-fuer-den-fdp-chef-zur-gefahr-werden](https://www.spiegel.de/politik/deutschland/christian-lindner-und-der-ampel-bruch-wie-die-enthuellungen-fuer-den-fdp-chef-zur-gefahr-werden-a-475785dc-9198-45e7-8326-84e9a699520d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fdp-chef-christian-lindner-wiegelt-vorwurf-des-geplanten-ampel-bruchs-ab](https://www.spiegel.de/politik/deutschland/fdp-chef-christian-lindner-wiegelt-vorwurf-des-geplanten-ampel-bruchs-ab-a-d62745c4-3b5b-46ea-a625-cfc216c813ab#ref=rss)
-### lindner
+* [https://www.spiegel.de/wissenschaft/natur/klimapolitik-unter-donald-trump-was-der-neue-praesident-in-den-usa-zerstoeren-kann](https://www.spiegel.de/wissenschaft/natur/klimapolitik-unter-donald-trump-was-der-neue-praesident-in-den-usa-zerstoeren-kann-a-c3dc82c3-0bdc-4a59-a83a-8023cf07cde2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-wahlsieg-von-donald-trump](https://www.spiegel.de/politik/deutschland/news-wahlsieg-von-donald-trump-a-3e9be80b-4731-4b3a-9cfb-8283069aa67c#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-elon-musk-relaxen-bei-ufc-kampfsport-spektakel-in-new-york](https://www.spiegel.de/ausland/donald-trump-und-elon-musk-relaxen-bei-ufc-kampfsport-spektakel-in-new-york-a-aaac75a7-fa8f-4471-b81e-74b5c554edb7#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-will-oelboss-chris-wright-zum-energieminister-machen](https://www.spiegel.de/ausland/usa-donald-trump-will-oelboss-chris-wright-zum-energieminister-machen-a-1191c7a2-216f-4ee6-9669-96fcbca871fb#ref=rss)
+### trump
 
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-und-der-ampel-bruch-wie-die-enthuellungen-fuer-den-fdp-chef-zur-gefahr-werden](https://www.spiegel.de/politik/deutschland/christian-lindner-und-der-ampel-bruch-wie-die-enthuellungen-fuer-den-fdp-chef-zur-gefahr-werden-a-475785dc-9198-45e7-8326-84e9a699520d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fdp-chef-christian-lindner-wiegelt-vorwurf-des-geplanten-ampel-bruchs-ab](https://www.spiegel.de/politik/deutschland/fdp-chef-christian-lindner-wiegelt-vorwurf-des-geplanten-ampel-bruchs-ab-a-d62745c4-3b5b-46ea-a625-cfc216c813ab#ref=rss)
-### viele
+* [https://www.spiegel.de/wissenschaft/natur/klimapolitik-unter-donald-trump-was-der-neue-praesident-in-den-usa-zerstoeren-kann](https://www.spiegel.de/wissenschaft/natur/klimapolitik-unter-donald-trump-was-der-neue-praesident-in-den-usa-zerstoeren-kann-a-c3dc82c3-0bdc-4a59-a83a-8023cf07cde2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-wahlsieg-von-donald-trump](https://www.spiegel.de/politik/deutschland/news-wahlsieg-von-donald-trump-a-3e9be80b-4731-4b3a-9cfb-8283069aa67c#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-elon-musk-relaxen-bei-ufc-kampfsport-spektakel-in-new-york](https://www.spiegel.de/ausland/donald-trump-und-elon-musk-relaxen-bei-ufc-kampfsport-spektakel-in-new-york-a-aaac75a7-fa8f-4471-b81e-74b5c554edb7#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-will-oelboss-chris-wright-zum-energieminister-machen](https://www.spiegel.de/ausland/usa-donald-trump-will-oelboss-chris-wright-zum-energieminister-machen-a-1191c7a2-216f-4ee6-9669-96fcbca871fb#ref=rss)
+### drei
 
-* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-nach-dem-ampel-aus-gesundheitsminister-in-trauer](https://www.spiegel.de/politik/deutschland/karl-lauterbach-nach-dem-ampel-aus-gesundheitsminister-in-trauer-a-5c0461fb-4acd-4a02-88c9-a968f4db58e8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/100-000-lkw-fahrer-fehlen-spediteure-warnen-vor-lieferengpaessen-zu-weihnachten](https://www.spiegel.de/wirtschaft/unternehmen/100-000-lkw-fahrer-fehlen-spediteure-warnen-vor-lieferengpaessen-zu-weihnachten-a-5e5d9f4d-0dff-4fc5-9fe5-7c58a3838bc9#ref=rss)
-* [https://www.spiegel.de/start/vw-und-audi-in-der-krise-wie-ingenieursstudierende-ihre-zukunft-in-deutschland-sehen](https://www.spiegel.de/start/vw-und-audi-in-der-krise-wie-ingenieursstudierende-ihre-zukunft-in-deutschland-sehen-a-5530461b-45f1-4b20-8e45-c7775229b0f5#ref=rss)
-### grünen
+* [https://www.spiegel.de/ausland/benjamin-netanyahu-leuchtraketen-auf-anwesen-drei-verdaechtige-festgenommen](https://www.spiegel.de/ausland/benjamin-netanyahu-leuchtraketen-auf-anwesen-drei-verdaechtige-festgenommen-a-206934d6-d682-4485-a7f5-d8c64638ea49#ref=rss)
+* [https://www.spiegel.de/tests/pferdebuecher-fuer-kinder-fuenf-buch-tipps-ab-drei-jahren](https://www.spiegel.de/tests/pferdebuecher-fuer-kinder-fuenf-buch-tipps-ab-drei-jahren-a-12f2f674-6463-431c-b532-aee80f044846#ref=rss)
+* [https://www.spiegel.de/panorama/titanic-memorabilia-taschenuhr-von-kapitaen-arthur-rostron-versteigert](https://www.spiegel.de/panorama/titanic-memorabilia-taschenuhr-von-kapitaen-arthur-rostron-versteigert-a-7316e4a4-43d7-4658-a37d-ad0677d098b8#ref=rss)
+### russland
 
-* [https://www.spiegel.de/politik/deutschland/neue-gruenen-chefs-brantner-und-banaszak-habecks-b-besetzung](https://www.spiegel.de/politik/deutschland/neue-gruenen-chefs-brantner-und-banaszak-habecks-b-besetzung-a-7d5d7908-f22d-49f2-9327-ad6bec85e120#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-nach-dem-ampel-aus-gesundheitsminister-in-trauer](https://www.spiegel.de/politik/deutschland/karl-lauterbach-nach-dem-ampel-aus-gesundheitsminister-in-trauer-a-5c0461fb-4acd-4a02-88c9-a968f4db58e8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-abgeordneter-warnt-vor-afd-stimmen-bei-vertrauensfrage](https://www.spiegel.de/politik/deutschland/spd-abgeordneter-warnt-vor-afd-stimmen-bei-vertrauensfrage-a-97afc647-7fba-49a8-9c85-c14ce506a2c2#ref=rss)
-### alle
+* [https://www.spiegel.de/ausland/ukraine-meldet-einen-der-heftigsten-luftangriffe-russlands](https://www.spiegel.de/ausland/ukraine-meldet-einen-der-heftigsten-luftangriffe-russlands-a-cb883cee-d081-4cc8-a056-1de0f7b1a07e#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-massiv-mit-raketen-an-polen-laesst-kampfjets-aufsteigen](https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-massiv-mit-raketen-an-polen-laesst-kampfjets-aufsteigen-a-9f368836-66f5-426d-b9de-ab34b2d00185#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-nordkorea-soll-schwerste-artillerie-an-russland-liefern](https://www.spiegel.de/ausland/ukraine-krieg-nordkorea-soll-schwerste-artillerie-an-russland-liefern-a-110df8af-9e76-4fcd-9352-0bafa14df9ff#ref=rss)
+### netanyahu
 
-* [https://www.spiegel.de/wirtschaft/krankenkassen-warum-ich-keine-elektronische-patientenakte-will](https://www.spiegel.de/wirtschaft/krankenkassen-warum-ich-keine-elektronische-patientenakte-will-a-5383a45b-9469-4033-ad99-35d0d9cce2e7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/patent-atlas-wo-deutsche-erfindungen-die-welt-veraendern](https://www.spiegel.de/politik/deutschland/patent-atlas-wo-deutsche-erfindungen-die-welt-veraendern-a-eac42a39-bf4f-4a72-a591-760aadfaffd8#ref=rss)
-* [https://www.spiegel.de/tests/blutzuckermessgeraete-im-test-welche-die-stiftung-warentest-ueberzeugen](https://www.spiegel.de/tests/blutzuckermessgeraete-im-test-welche-die-stiftung-warentest-ueberzeugen-a-96c95880-af5e-4fb7-afc9-8768a8897cd5#ref=rss)
-### 2025
+* [https://www.spiegel.de/ausland/benjamin-netanyahu-leuchtraketen-auf-anwesen-drei-verdaechtige-festgenommen](https://www.spiegel.de/ausland/benjamin-netanyahu-leuchtraketen-auf-anwesen-drei-verdaechtige-festgenommen-a-206934d6-d682-4485-a7f5-d8c64638ea49#ref=rss)
+* [https://www.spiegel.de/ausland/israel-macht-druck-vor-g20-gipfel](https://www.spiegel.de/ausland/israel-macht-druck-vor-g20-gipfel-a-2aee471b-d62c-421d-8f0c-e01bbbdfd2e9#ref=rss)
+### macht
 
-* [https://www.spiegel.de/wirtschaft/krankenkassen-warum-ich-keine-elektronische-patientenakte-will](https://www.spiegel.de/wirtschaft/krankenkassen-warum-ich-keine-elektronische-patientenakte-will-a-5383a45b-9469-4033-ad99-35d0d9cce2e7#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-japan-unterstuetzt-kyjiw-mit-weiterem-hilfspaket](https://www.spiegel.de/ausland/ukraine-krieg-japan-unterstuetzt-kyjiw-mit-weiterem-hilfspaket-a-5c80dc1f-1f9f-459f-aa04-58ab75a7e9a1#ref=rss)
-* [https://www.spiegel.de/gesundheit/elektronische-patientenakte-was-versicherte-wissen-muessen](https://www.spiegel.de/gesundheit/elektronische-patientenakte-was-versicherte-wissen-muessen-a-c87751df-57e4-4dd9-b759-d6776041986c#ref=rss)
-### deutsche
+* [https://www.spiegel.de/ausland/benjamin-netanyahu-leuchtraketen-auf-anwesen-drei-verdaechtige-festgenommen](https://www.spiegel.de/ausland/benjamin-netanyahu-leuchtraketen-auf-anwesen-drei-verdaechtige-festgenommen-a-206934d6-d682-4485-a7f5-d8c64638ea49#ref=rss)
+* [https://www.spiegel.de/reise/europa/tourismus-airbnb-inszeniert-pr-spektakel-im-kolosseum](https://www.spiegel.de/reise/europa/tourismus-airbnb-inszeniert-pr-spektakel-im-kolosseum-a-f561ef54-bc3a-43ca-95b8-c208c0e54529#ref=rss)
+* [https://www.spiegel.de/ausland/israel-macht-druck-vor-g20-gipfel](https://www.spiegel.de/ausland/israel-macht-druck-vor-g20-gipfel-a-2aee471b-d62c-421d-8f0c-e01bbbdfd2e9#ref=rss)
+### schwere
 
-* [https://www.spiegel.de/politik/deutschland/patent-atlas-wo-deutsche-erfindungen-die-welt-veraendern](https://www.spiegel.de/politik/deutschland/patent-atlas-wo-deutsche-erfindungen-die-welt-veraendern-a-eac42a39-bf4f-4a72-a591-760aadfaffd8#ref=rss)
-* [https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-unterliegt-taylor-fritz-in-dramatischem-halbfinale](https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-unterliegt-taylor-fritz-in-dramatischem-halbfinale-a-6f4deddf-4300-4227-91da-d063abc46290#ref=rss)
-### welt
-
-* [https://www.spiegel.de/politik/deutschland/patent-atlas-wo-deutsche-erfindungen-die-welt-veraendern](https://www.spiegel.de/politik/deutschland/patent-atlas-wo-deutsche-erfindungen-die-welt-veraendern-a-eac42a39-bf4f-4a72-a591-760aadfaffd8#ref=rss)
-* [https://www.spiegel.de/panorama/leute/oasis-noel-gallagher-versteigert-beste-gitarre-der-welt](https://www.spiegel.de/panorama/leute/oasis-noel-gallagher-versteigert-beste-gitarre-der-welt-a-8e15905d-5a47-40d7-afe2-ff46b2367de8#ref=rss)
-* [https://www.spiegel.de/panorama/baalbek-im-libanon-das-ist-der-groesste-roemische-tempel-der-welt-neben-ihm-detonieren-bomben](https://www.spiegel.de/panorama/baalbek-im-libanon-das-ist-der-groesste-roemische-tempel-der-welt-neben-ihm-detonieren-bomben-a-4f26a5ad-b82c-40f2-a647-09ce56061c07#ref=rss)
-### fdpchef
-
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-und-der-ampel-bruch-wie-die-enthuellungen-fuer-den-fdp-chef-zur-gefahr-werden](https://www.spiegel.de/politik/deutschland/christian-lindner-und-der-ampel-bruch-wie-die-enthuellungen-fuer-den-fdp-chef-zur-gefahr-werden-a-475785dc-9198-45e7-8326-84e9a699520d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fdp-chef-christian-lindner-wiegelt-vorwurf-des-geplanten-ampel-bruchs-ab](https://www.spiegel.de/politik/deutschland/fdp-chef-christian-lindner-wiegelt-vorwurf-des-geplanten-ampel-bruchs-ab-a-d62745c4-3b5b-46ea-a625-cfc216c813ab#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-nach-dem-ampel-aus-gesundheitsminister-in-trauer](https://www.spiegel.de/politik/deutschland/karl-lauterbach-nach-dem-ampel-aus-gesundheitsminister-in-trauer-a-5c0461fb-4acd-4a02-88c9-a968f4db58e8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/erste-spd-bundestagsabgeordnete-fordern-pistorius-als-kanzlerkandidat](https://www.spiegel.de/politik/deutschland/erste-spd-bundestagsabgeordnete-fordern-pistorius-als-kanzlerkandidat-a-1f40b691-145b-4185-9f6c-cb72f8a3afcb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-abgeordneter-warnt-vor-afd-stimmen-bei-vertrauensfrage](https://www.spiegel.de/politik/deutschland/spd-abgeordneter-warnt-vor-afd-stimmen-bei-vertrauensfrage-a-97afc647-7fba-49a8-9c85-c14ce506a2c2#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/ausland/suedafrika-polizei-belagert-illegale-goldmine-in-stilfontein-tausende-bergleute-eingeschlossen](https://www.spiegel.de/ausland/suedafrika-polizei-belagert-illegale-goldmine-in-stilfontein-tausende-bergleute-eingeschlossen-a-a45907b1-1990-4791-be47-354b739b7280#ref=rss)
-* [https://www.spiegel.de/panorama/nach-hausdurchsuchung-argentinien-beschlagnahmt-nazi-waffen-arsenal](https://www.spiegel.de/panorama/nach-hausdurchsuchung-argentinien-beschlagnahmt-nazi-waffen-arsenal-a-0ffdc1eb-af75-4c66-947e-b03846d9f34d#ref=rss)
-### stellen
-
-* [https://www.spiegel.de/ausland/suedafrika-polizei-belagert-illegale-goldmine-in-stilfontein-tausende-bergleute-eingeschlossen](https://www.spiegel.de/ausland/suedafrika-polizei-belagert-illegale-goldmine-in-stilfontein-tausende-bergleute-eingeschlossen-a-a45907b1-1990-4791-be47-354b739b7280#ref=rss)
-* [https://www.spiegel.de/start/vw-und-audi-in-der-krise-wie-ingenieursstudierende-ihre-zukunft-in-deutschland-sehen](https://www.spiegel.de/start/vw-und-audi-in-der-krise-wie-ingenieursstudierende-ihre-zukunft-in-deutschland-sehen-a-5530461b-45f1-4b20-8e45-c7775229b0f5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-abgeordneter-warnt-vor-afd-stimmen-bei-vertrauensfrage](https://www.spiegel.de/politik/deutschland/spd-abgeordneter-warnt-vor-afd-stimmen-bei-vertrauensfrage-a-97afc647-7fba-49a8-9c85-c14ce506a2c2#ref=rss)
-### fehlen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/100-000-lkw-fahrer-fehlen-spediteure-warnen-vor-lieferengpaessen-zu-weihnachten](https://www.spiegel.de/wirtschaft/unternehmen/100-000-lkw-fahrer-fehlen-spediteure-warnen-vor-lieferengpaessen-zu-weihnachten-a-5e5d9f4d-0dff-4fc5-9fe5-7c58a3838bc9#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-gewinnt-slalom-in-levi-und-holt-damit-98-weltcupsieg](https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-gewinnt-slalom-in-levi-und-holt-damit-98-weltcupsieg-a-abef4f71-c5af-4597-964d-1d22f13b5062#ref=rss)
-### levi
-
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-gewinnt-slalom-in-levi-und-holt-damit-98-weltcupsieg](https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-gewinnt-slalom-in-levi-und-holt-damit-98-weltcupsieg-a-abef4f71-c5af-4597-964d-1d22f13b5062#ref=rss)
-### kuscheln
-
-* [https://www.spiegel.de/ausland/gute-nachrichten-newsletter-auf-sizilien-begehrt-eine-generation-auf-ein-korallenriff-trotzt-dem-klimawandel](https://www.spiegel.de/ausland/gute-nachrichten-newsletter-auf-sizilien-begehrt-eine-generation-auf-ein-korallenriff-trotzt-dem-klimawandel-a-4620c0df-ccf1-4b28-9a9e-64697a5d8b11#ref=rss)
-### köln
-
-* [https://www.spiegel.de/panorama/gesellschaft/demonstration-in-koeln-kurden-fordern-freiheit-fuer-pkk-gruender](https://www.spiegel.de/panorama/gesellschaft/demonstration-in-koeln-kurden-fordern-freiheit-fuer-pkk-gruender-a-42ee5d79-9b25-4cf4-85bb-7b80d536aee7#ref=rss)
-### fordern
-
-* [https://www.spiegel.de/panorama/gesellschaft/demonstration-in-koeln-kurden-fordern-freiheit-fuer-pkk-gruender](https://www.spiegel.de/panorama/gesellschaft/demonstration-in-koeln-kurden-fordern-freiheit-fuer-pkk-gruender-a-42ee5d79-9b25-4cf4-85bb-7b80d536aee7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/erste-spd-bundestagsabgeordnete-fordern-pistorius-als-kanzlerkandidat](https://www.spiegel.de/politik/deutschland/erste-spd-bundestagsabgeordnete-fordern-pistorius-als-kanzlerkandidat-a-1f40b691-145b-4185-9f6c-cb72f8a3afcb#ref=rss)
-### waren
-
-* [https://www.spiegel.de/panorama/gesellschaft/demonstration-in-koeln-kurden-fordern-freiheit-fuer-pkk-gruender](https://www.spiegel.de/panorama/gesellschaft/demonstration-in-koeln-kurden-fordern-freiheit-fuer-pkk-gruender-a-42ee5d79-9b25-4cf4-85bb-7b80d536aee7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/100-000-lkw-fahrer-fehlen-spediteure-warnen-vor-lieferengpaessen-zu-weihnachten](https://www.spiegel.de/wirtschaft/unternehmen/100-000-lkw-fahrer-fehlen-spediteure-warnen-vor-lieferengpaessen-zu-weihnachten-a-5e5d9f4d-0dff-4fc5-9fe5-7c58a3838bc9#ref=rss)
-### vielen
-
-* [https://www.spiegel.de/panorama/gesellschaft/demonstration-in-koeln-kurden-fordern-freiheit-fuer-pkk-gruender](https://www.spiegel.de/panorama/gesellschaft/demonstration-in-koeln-kurden-fordern-freiheit-fuer-pkk-gruender-a-42ee5d79-9b25-4cf4-85bb-7b80d536aee7#ref=rss)
-* [https://www.spiegel.de/ausland/industriepolitik-in-afrika-was-der-westen-von-china-lernen-kann](https://www.spiegel.de/ausland/industriepolitik-in-afrika-was-der-westen-von-china-lernen-kann-a-cb2e60e9-d2b9-441c-996f-7665dc328dd4#ref=rss)
-### brantner
-
-* [https://www.spiegel.de/politik/deutschland/neue-gruenen-chefs-brantner-und-banaszak-habecks-b-besetzung](https://www.spiegel.de/politik/deutschland/neue-gruenen-chefs-brantner-und-banaszak-habecks-b-besetzung-a-7d5d7908-f22d-49f2-9327-ad6bec85e120#ref=rss)
-### erste
-
-* [https://www.spiegel.de/politik/deutschland/neue-gruenen-chefs-brantner-und-banaszak-habecks-b-besetzung](https://www.spiegel.de/politik/deutschland/neue-gruenen-chefs-brantner-und-banaszak-habecks-b-besetzung-a-7d5d7908-f22d-49f2-9327-ad6bec85e120#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/erste-spd-bundestagsabgeordnete-fordern-pistorius-als-kanzlerkandidat](https://www.spiegel.de/politik/deutschland/erste-spd-bundestagsabgeordnete-fordern-pistorius-als-kanzlerkandidat-a-1f40b691-145b-4185-9f6c-cb72f8a3afcb#ref=rss)
-### einzige
-
-* [https://www.spiegel.de/wissenschaft/erfindung-aus-suedkorea-der-rollstuhl-der-treppen-steigt](https://www.spiegel.de/wissenschaft/erfindung-aus-suedkorea-der-rollstuhl-der-treppen-steigt-a-804fcbee-8ae0-4bdf-8ecb-4a0877289429#ref=rss)
-* [https://www.spiegel.de/panorama/leute/oasis-noel-gallagher-versteigert-beste-gitarre-der-welt](https://www.spiegel.de/panorama/leute/oasis-noel-gallagher-versteigert-beste-gitarre-der-welt-a-8e15905d-5a47-40d7-afe2-ff46b2367de8#ref=rss)
-### krankenkassen
-
-* [https://www.spiegel.de/wirtschaft/krankenkassen-warum-ich-keine-elektronische-patientenakte-will](https://www.spiegel.de/wirtschaft/krankenkassen-warum-ich-keine-elektronische-patientenakte-will-a-5383a45b-9469-4033-ad99-35d0d9cce2e7#ref=rss)
-### ich
-
-* [https://www.spiegel.de/wirtschaft/krankenkassen-warum-ich-keine-elektronische-patientenakte-will](https://www.spiegel.de/wirtschaft/krankenkassen-warum-ich-keine-elektronische-patientenakte-will-a-5383a45b-9469-4033-ad99-35d0d9cce2e7#ref=rss)
-* [https://www.spiegel.de/gesundheit/selbstverteidigung-wie-schuetze-ich-mich-vor-gewalt-podcast-mit-isabella-semeraro](https://www.spiegel.de/gesundheit/selbstverteidigung-wie-schuetze-ich-mich-vor-gewalt-podcast-mit-isabella-semeraro-a-fce1eda7-21a7-449e-b1e5-c4159b9141d5#ref=rss)
-### elektronische
-
-* [https://www.spiegel.de/wirtschaft/krankenkassen-warum-ich-keine-elektronische-patientenakte-will](https://www.spiegel.de/wirtschaft/krankenkassen-warum-ich-keine-elektronische-patientenakte-will-a-5383a45b-9469-4033-ad99-35d0d9cce2e7#ref=rss)
-* [https://www.spiegel.de/gesundheit/elektronische-patientenakte-was-versicherte-wissen-muessen](https://www.spiegel.de/gesundheit/elektronische-patientenakte-was-versicherte-wissen-muessen-a-c87751df-57e4-4dd9-b759-d6776041986c#ref=rss)
-### patientenakte
-
-* [https://www.spiegel.de/wirtschaft/krankenkassen-warum-ich-keine-elektronische-patientenakte-will](https://www.spiegel.de/wirtschaft/krankenkassen-warum-ich-keine-elektronische-patientenakte-will-a-5383a45b-9469-4033-ad99-35d0d9cce2e7#ref=rss)
-* [https://www.spiegel.de/gesundheit/elektronische-patientenakte-was-versicherte-wissen-muessen](https://www.spiegel.de/gesundheit/elektronische-patientenakte-was-versicherte-wissen-muessen-a-c87751df-57e4-4dd9-b759-d6776041986c#ref=rss)
-### akte
-
-* [https://www.spiegel.de/wirtschaft/krankenkassen-warum-ich-keine-elektronische-patientenakte-will](https://www.spiegel.de/wirtschaft/krankenkassen-warum-ich-keine-elektronische-patientenakte-will-a-5383a45b-9469-4033-ad99-35d0d9cce2e7#ref=rss)
-* [https://www.spiegel.de/gesundheit/elektronische-patientenakte-was-versicherte-wissen-muessen](https://www.spiegel.de/gesundheit/elektronische-patientenakte-was-versicherte-wissen-muessen-a-c87751df-57e4-4dd9-b759-d6776041986c#ref=rss)
-### wo
-
-* [https://www.spiegel.de/politik/deutschland/patent-atlas-wo-deutsche-erfindungen-die-welt-veraendern](https://www.spiegel.de/politik/deutschland/patent-atlas-wo-deutsche-erfindungen-die-welt-veraendern-a-eac42a39-bf4f-4a72-a591-760aadfaffd8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fdp-chef-christian-lindner-wiegelt-vorwurf-des-geplanten-ampel-bruchs-ab](https://www.spiegel.de/politik/deutschland/fdp-chef-christian-lindner-wiegelt-vorwurf-des-geplanten-ampel-bruchs-ab-a-d62745c4-3b5b-46ea-a625-cfc216c813ab#ref=rss)
-### erfindungen
-
-* [https://www.spiegel.de/politik/deutschland/patent-atlas-wo-deutsche-erfindungen-die-welt-veraendern](https://www.spiegel.de/politik/deutschland/patent-atlas-wo-deutsche-erfindungen-die-welt-veraendern-a-eac42a39-bf4f-4a72-a591-760aadfaffd8#ref=rss)
-### tausende
-
-* [https://www.spiegel.de/politik/deutschland/patent-atlas-wo-deutsche-erfindungen-die-welt-veraendern](https://www.spiegel.de/politik/deutschland/patent-atlas-wo-deutsche-erfindungen-die-welt-veraendern-a-eac42a39-bf4f-4a72-a591-760aadfaffd8#ref=rss)
-* [https://www.spiegel.de/ausland/suedafrika-polizei-belagert-illegale-goldmine-in-stilfontein-tausende-bergleute-eingeschlossen](https://www.spiegel.de/ausland/suedafrika-polizei-belagert-illegale-goldmine-in-stilfontein-tausende-bergleute-eingeschlossen-a-a45907b1-1990-4791-be47-354b739b7280#ref=rss)
-### westen
-
-* [https://www.spiegel.de/ausland/industriepolitik-in-afrika-was-der-westen-von-china-lernen-kann](https://www.spiegel.de/ausland/industriepolitik-in-afrika-was-der-westen-von-china-lernen-kann-a-cb2e60e9-d2b9-441c-996f-7665dc328dd4#ref=rss)
-### china
-
-* [https://www.spiegel.de/ausland/industriepolitik-in-afrika-was-der-westen-von-china-lernen-kann](https://www.spiegel.de/ausland/industriepolitik-in-afrika-was-der-westen-von-china-lernen-kann-a-cb2e60e9-d2b9-441c-996f-7665dc328dd4#ref=rss)
-### lernen
-
-* [https://www.spiegel.de/ausland/industriepolitik-in-afrika-was-der-westen-von-china-lernen-kann](https://www.spiegel.de/ausland/industriepolitik-in-afrika-was-der-westen-von-china-lernen-kann-a-cb2e60e9-d2b9-441c-996f-7665dc328dd4#ref=rss)
-### afrikanischen
-
-* [https://www.spiegel.de/ausland/industriepolitik-in-afrika-was-der-westen-von-china-lernen-kann](https://www.spiegel.de/ausland/industriepolitik-in-afrika-was-der-westen-von-china-lernen-kann-a-cb2e60e9-d2b9-441c-996f-7665dc328dd4#ref=rss)
-### alexander
-
-* [https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-unterliegt-taylor-fritz-in-dramatischem-halbfinale](https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-unterliegt-taylor-fritz-in-dramatischem-halbfinale-a-6f4deddf-4300-4227-91da-d063abc46290#ref=rss)
-### zverev
-
-* [https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-unterliegt-taylor-fritz-in-dramatischem-halbfinale](https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-unterliegt-taylor-fritz-in-dramatischem-halbfinale-a-6f4deddf-4300-4227-91da-d063abc46290#ref=rss)
-### taylor
-
-* [https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-unterliegt-taylor-fritz-in-dramatischem-halbfinale](https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-unterliegt-taylor-fritz-in-dramatischem-halbfinale-a-6f4deddf-4300-4227-91da-d063abc46290#ref=rss)
-### fritz
-
-* [https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-unterliegt-taylor-fritz-in-dramatischem-halbfinale](https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-unterliegt-taylor-fritz-in-dramatischem-halbfinale-a-6f4deddf-4300-4227-91da-d063abc46290#ref=rss)
-### satz
-
-* [https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-unterliegt-taylor-fritz-in-dramatischem-halbfinale](https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-unterliegt-taylor-fritz-in-dramatischem-halbfinale-a-6f4deddf-4300-4227-91da-d063abc46290#ref=rss)
-### beste
-
-* [https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-unterliegt-taylor-fritz-in-dramatischem-halbfinale](https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-unterliegt-taylor-fritz-in-dramatischem-halbfinale-a-6f4deddf-4300-4227-91da-d063abc46290#ref=rss)
-* [https://www.spiegel.de/panorama/leute/oasis-noel-gallagher-versteigert-beste-gitarre-der-welt](https://www.spiegel.de/panorama/leute/oasis-noel-gallagher-versteigert-beste-gitarre-der-welt-a-8e15905d-5a47-40d7-afe2-ff46b2367de8#ref=rss)
-### gefahr
-
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-und-der-ampel-bruch-wie-die-enthuellungen-fuer-den-fdp-chef-zur-gefahr-werden](https://www.spiegel.de/politik/deutschland/christian-lindner-und-der-ampel-bruch-wie-die-enthuellungen-fuer-den-fdp-chef-zur-gefahr-werden-a-475785dc-9198-45e7-8326-84e9a699520d#ref=rss)
-* [https://www.spiegel.de/ausland/suedafrika-polizei-belagert-illegale-goldmine-in-stilfontein-tausende-bergleute-eingeschlossen](https://www.spiegel.de/ausland/suedafrika-polizei-belagert-illegale-goldmine-in-stilfontein-tausende-bergleute-eingeschlossen-a-a45907b1-1990-4791-be47-354b739b7280#ref=rss)
-### koalitionsbruch
-
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-und-der-ampel-bruch-wie-die-enthuellungen-fuer-den-fdp-chef-zur-gefahr-werden](https://www.spiegel.de/politik/deutschland/christian-lindner-und-der-ampel-bruch-wie-die-enthuellungen-fuer-den-fdp-chef-zur-gefahr-werden-a-475785dc-9198-45e7-8326-84e9a699520d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fdp-chef-christian-lindner-wiegelt-vorwurf-des-geplanten-ampel-bruchs-ab](https://www.spiegel.de/politik/deutschland/fdp-chef-christian-lindner-wiegelt-vorwurf-des-geplanten-ampel-bruchs-ab-a-d62745c4-3b5b-46ea-a625-cfc216c813ab#ref=rss)
-### japan
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-japan-unterstuetzt-kyjiw-mit-weiterem-hilfspaket](https://www.spiegel.de/ausland/ukraine-krieg-japan-unterstuetzt-kyjiw-mit-weiterem-hilfspaket-a-5c80dc1f-1f9f-459f-aa04-58ab75a7e9a1#ref=rss)
+* [https://www.spiegel.de/sport/mike-tyson-spricht-ueber-schwere-gesundheitliche-probleme](https://www.spiegel.de/sport/mike-tyson-spricht-ueber-schwere-gesundheitliche-probleme-a-59166da2-d9bf-4278-acf2-e3e91b14fbfe#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-massiv-mit-raketen-an-polen-laesst-kampfjets-aufsteigen](https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-massiv-mit-raketen-an-polen-laesst-kampfjets-aufsteigen-a-9f368836-66f5-426d-b9de-ab34b2d00185#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-nordkorea-soll-schwerste-artillerie-an-russland-liefern](https://www.spiegel.de/ausland/ukraine-krieg-nordkorea-soll-schwerste-artillerie-an-russland-liefern-a-110df8af-9e76-4fcd-9352-0bafa14df9ff#ref=rss)
 ### ukraine
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-japan-unterstuetzt-kyjiw-mit-weiterem-hilfspaket](https://www.spiegel.de/ausland/ukraine-krieg-japan-unterstuetzt-kyjiw-mit-weiterem-hilfspaket-a-5c80dc1f-1f9f-459f-aa04-58ab75a7e9a1#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-leben-nahe-der-front-espresso-tonic-und-besorgte-offiziere](https://www.spiegel.de/ausland/krieg-in-der-ukraine-leben-nahe-der-front-espresso-tonic-und-besorgte-offiziere-a-a565ebb0-77c6-4228-a827-7cdcf2173762#ref=rss)
-### land
+* [https://www.spiegel.de/ausland/ukraine-meldet-einen-der-heftigsten-luftangriffe-russlands](https://www.spiegel.de/ausland/ukraine-meldet-einen-der-heftigsten-luftangriffe-russlands-a-cb883cee-d081-4cc8-a056-1de0f7b1a07e#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-massiv-mit-raketen-an-polen-laesst-kampfjets-aufsteigen](https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-massiv-mit-raketen-an-polen-laesst-kampfjets-aufsteigen-a-9f368836-66f5-426d-b9de-ab34b2d00185#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-diskussion-ueber-waffenstillstand-verfrueht-findet-botschafter-lambsdorff](https://www.spiegel.de/ausland/russland-ukraine-krieg-diskussion-ueber-waffenstillstand-verfrueht-findet-botschafter-lambsdorff-a-35f9d577-dc39-47d2-9893-70e6e34a7ca4#ref=rss)
+### polen
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-japan-unterstuetzt-kyjiw-mit-weiterem-hilfspaket](https://www.spiegel.de/ausland/ukraine-krieg-japan-unterstuetzt-kyjiw-mit-weiterem-hilfspaket-a-5c80dc1f-1f9f-459f-aa04-58ab75a7e9a1#ref=rss)
-* [https://www.spiegel.de/panorama/baalbek-im-libanon-das-ist-der-groesste-roemische-tempel-der-welt-neben-ihm-detonieren-bomben](https://www.spiegel.de/panorama/baalbek-im-libanon-das-ist-der-groesste-roemische-tempel-der-welt-neben-ihm-detonieren-bomben-a-4f26a5ad-b82c-40f2-a647-09ce56061c07#ref=rss)
-### espresso
-
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-leben-nahe-der-front-espresso-tonic-und-besorgte-offiziere](https://www.spiegel.de/ausland/krieg-in-der-ukraine-leben-nahe-der-front-espresso-tonic-und-besorgte-offiziere-a-a565ebb0-77c6-4228-a827-7cdcf2173762#ref=rss)
-### tonic
-
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-leben-nahe-der-front-espresso-tonic-und-besorgte-offiziere](https://www.spiegel.de/ausland/krieg-in-der-ukraine-leben-nahe-der-front-espresso-tonic-und-besorgte-offiziere-a-a565ebb0-77c6-4228-a827-7cdcf2173762#ref=rss)
-### verbliebenen
-
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-leben-nahe-der-front-espresso-tonic-und-besorgte-offiziere](https://www.spiegel.de/ausland/krieg-in-der-ukraine-leben-nahe-der-front-espresso-tonic-und-besorgte-offiziere-a-a565ebb0-77c6-4228-a827-7cdcf2173762#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-abgeordneter-warnt-vor-afd-stimmen-bei-vertrauensfrage](https://www.spiegel.de/politik/deutschland/spd-abgeordneter-warnt-vor-afd-stimmen-bei-vertrauensfrage-a-97afc647-7fba-49a8-9c85-c14ce506a2c2#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-leben-nahe-der-front-espresso-tonic-und-besorgte-offiziere](https://www.spiegel.de/ausland/krieg-in-der-ukraine-leben-nahe-der-front-espresso-tonic-und-besorgte-offiziere-a-a565ebb0-77c6-4228-a827-7cdcf2173762#ref=rss)
-* [https://www.spiegel.de/gesundheit/selbstverteidigung-wie-schuetze-ich-mich-vor-gewalt-podcast-mit-isabella-semeraro](https://www.spiegel.de/gesundheit/selbstverteidigung-wie-schuetze-ich-mich-vor-gewalt-podcast-mit-isabella-semeraro-a-fce1eda7-21a7-449e-b1e5-c4159b9141d5#ref=rss)
-### wladimir
-
-* [https://www.spiegel.de/ausland/usa-und-russland-nach-der-us-wahl-wladimir-putin-haelt-die-rede-eines-siegers](https://www.spiegel.de/ausland/usa-und-russland-nach-der-us-wahl-wladimir-putin-haelt-die-rede-eines-siegers-a-0c5e28f3-817e-4e4b-8b25-ae16afa7d3af#ref=rss)
-### putin
-
-* [https://www.spiegel.de/ausland/usa-und-russland-nach-der-us-wahl-wladimir-putin-haelt-die-rede-eines-siegers](https://www.spiegel.de/ausland/usa-und-russland-nach-der-us-wahl-wladimir-putin-haelt-die-rede-eines-siegers-a-0c5e28f3-817e-4e4b-8b25-ae16afa7d3af#ref=rss)
-### rede
-
-* [https://www.spiegel.de/ausland/usa-und-russland-nach-der-us-wahl-wladimir-putin-haelt-die-rede-eines-siegers](https://www.spiegel.de/ausland/usa-und-russland-nach-der-us-wahl-wladimir-putin-haelt-die-rede-eines-siegers-a-0c5e28f3-817e-4e4b-8b25-ae16afa7d3af#ref=rss)
-### scheint
-
-* [https://www.spiegel.de/ausland/usa-und-russland-nach-der-us-wahl-wladimir-putin-haelt-die-rede-eines-siegers](https://www.spiegel.de/ausland/usa-und-russland-nach-der-us-wahl-wladimir-putin-haelt-die-rede-eines-siegers-a-0c5e28f3-817e-4e4b-8b25-ae16afa7d3af#ref=rss)
-* [https://www.spiegel.de/panorama/leute/oasis-noel-gallagher-versteigert-beste-gitarre-der-welt](https://www.spiegel.de/panorama/leute/oasis-noel-gallagher-versteigert-beste-gitarre-der-welt-a-8e15905d-5a47-40d7-afe2-ff46b2367de8#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/ausland/usa-und-russland-nach-der-us-wahl-wladimir-putin-haelt-die-rede-eines-siegers](https://www.spiegel.de/ausland/usa-und-russland-nach-der-us-wahl-wladimir-putin-haelt-die-rede-eines-siegers-a-0c5e28f3-817e-4e4b-8b25-ae16afa7d3af#ref=rss)
-* [https://www.spiegel.de/gesundheit/elektronische-patientenakte-was-versicherte-wissen-muessen](https://www.spiegel.de/gesundheit/elektronische-patientenakte-was-versicherte-wissen-muessen-a-c87751df-57e4-4dd9-b759-d6776041986c#ref=rss)
-### karl
-
-* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-nach-dem-ampel-aus-gesundheitsminister-in-trauer](https://www.spiegel.de/politik/deutschland/karl-lauterbach-nach-dem-ampel-aus-gesundheitsminister-in-trauer-a-5c0461fb-4acd-4a02-88c9-a968f4db58e8#ref=rss)
-### lauterbach
-
-* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-nach-dem-ampel-aus-gesundheitsminister-in-trauer](https://www.spiegel.de/politik/deutschland/karl-lauterbach-nach-dem-ampel-aus-gesundheitsminister-in-trauer-a-5c0461fb-4acd-4a02-88c9-a968f4db58e8#ref=rss)
-### gesundheitsminister
-
-* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-nach-dem-ampel-aus-gesundheitsminister-in-trauer](https://www.spiegel.de/politik/deutschland/karl-lauterbach-nach-dem-ampel-aus-gesundheitsminister-in-trauer-a-5c0461fb-4acd-4a02-88c9-a968f4db58e8#ref=rss)
-### noel
-
-* [https://www.spiegel.de/panorama/leute/oasis-noel-gallagher-versteigert-beste-gitarre-der-welt](https://www.spiegel.de/panorama/leute/oasis-noel-gallagher-versteigert-beste-gitarre-der-welt-a-8e15905d-5a47-40d7-afe2-ff46b2367de8#ref=rss)
-### gallagher
-
-* [https://www.spiegel.de/panorama/leute/oasis-noel-gallagher-versteigert-beste-gitarre-der-welt](https://www.spiegel.de/panorama/leute/oasis-noel-gallagher-versteigert-beste-gitarre-der-welt-a-8e15905d-5a47-40d7-afe2-ff46b2367de8#ref=rss)
-### gitarre
-
-* [https://www.spiegel.de/panorama/leute/oasis-noel-gallagher-versteigert-beste-gitarre-der-welt](https://www.spiegel.de/panorama/leute/oasis-noel-gallagher-versteigert-beste-gitarre-der-welt-a-8e15905d-5a47-40d7-afe2-ff46b2367de8#ref=rss)
-### hochstapler
-
-* [https://www.spiegel.de/start/imposter-gefuehle-im-studium-warum-sich-studierende-wie-hochstapler-fuehlen-und-was-hilft](https://www.spiegel.de/start/imposter-gefuehle-im-studium-warum-sich-studierende-wie-hochstapler-fuehlen-und-was-hilft-a-f4a15e14-1d59-4962-8b2d-80bad7e22461#ref=rss)
-### hilft
-
-* [https://www.spiegel.de/start/imposter-gefuehle-im-studium-warum-sich-studierende-wie-hochstapler-fuehlen-und-was-hilft](https://www.spiegel.de/start/imposter-gefuehle-im-studium-warum-sich-studierende-wie-hochstapler-fuehlen-und-was-hilft-a-f4a15e14-1d59-4962-8b2d-80bad7e22461#ref=rss)
-### belagert
-
-* [https://www.spiegel.de/ausland/suedafrika-polizei-belagert-illegale-goldmine-in-stilfontein-tausende-bergleute-eingeschlossen](https://www.spiegel.de/ausland/suedafrika-polizei-belagert-illegale-goldmine-in-stilfontein-tausende-bergleute-eingeschlossen-a-a45907b1-1990-4791-be47-354b739b7280#ref=rss)
-### stilfontein
-
-* [https://www.spiegel.de/ausland/suedafrika-polizei-belagert-illegale-goldmine-in-stilfontein-tausende-bergleute-eingeschlossen](https://www.spiegel.de/ausland/suedafrika-polizei-belagert-illegale-goldmine-in-stilfontein-tausende-bergleute-eingeschlossen-a-a45907b1-1990-4791-be47-354b739b7280#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-meldet-einen-der-heftigsten-luftangriffe-russlands](https://www.spiegel.de/ausland/ukraine-meldet-einen-der-heftigsten-luftangriffe-russlands-a-cb883cee-d081-4cc8-a056-1de0f7b1a07e#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-massiv-mit-raketen-an-polen-laesst-kampfjets-aufsteigen](https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-massiv-mit-raketen-an-polen-laesst-kampfjets-aufsteigen-a-9f368836-66f5-426d-b9de-ab34b2d00185#ref=rss)
 ### unter
 
-* [https://www.spiegel.de/ausland/suedafrika-polizei-belagert-illegale-goldmine-in-stilfontein-tausende-bergleute-eingeschlossen](https://www.spiegel.de/ausland/suedafrika-polizei-belagert-illegale-goldmine-in-stilfontein-tausende-bergleute-eingeschlossen-a-a45907b1-1990-4791-be47-354b739b7280#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-abgeordneter-warnt-vor-afd-stimmen-bei-vertrauensfrage](https://www.spiegel.de/politik/deutschland/spd-abgeordneter-warnt-vor-afd-stimmen-bei-vertrauensfrage-a-97afc647-7fba-49a8-9c85-c14ce506a2c2#ref=rss)
-### baalbek
+* [https://www.spiegel.de/reise/europa/tourismus-airbnb-inszeniert-pr-spektakel-im-kolosseum](https://www.spiegel.de/reise/europa/tourismus-airbnb-inszeniert-pr-spektakel-im-kolosseum-a-f561ef54-bc3a-43ca-95b8-c208c0e54529#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/klimapolitik-unter-donald-trump-was-der-neue-praesident-in-den-usa-zerstoeren-kann](https://www.spiegel.de/wissenschaft/natur/klimapolitik-unter-donald-trump-was-der-neue-praesident-in-den-usa-zerstoeren-kann-a-c3dc82c3-0bdc-4a59-a83a-8023cf07cde2#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-will-oelboss-chris-wright-zum-energieminister-machen](https://www.spiegel.de/ausland/usa-donald-trump-will-oelboss-chris-wright-zum-energieminister-machen-a-1191c7a2-216f-4ee6-9669-96fcbca871fb#ref=rss)
+### usa
 
-* [https://www.spiegel.de/panorama/baalbek-im-libanon-das-ist-der-groesste-roemische-tempel-der-welt-neben-ihm-detonieren-bomben](https://www.spiegel.de/panorama/baalbek-im-libanon-das-ist-der-groesste-roemische-tempel-der-welt-neben-ihm-detonieren-bomben-a-4f26a5ad-b82c-40f2-a647-09ce56061c07#ref=rss)
-### libanon
+* [https://www.spiegel.de/wissenschaft/natur/klimapolitik-unter-donald-trump-was-der-neue-praesident-in-den-usa-zerstoeren-kann](https://www.spiegel.de/wissenschaft/natur/klimapolitik-unter-donald-trump-was-der-neue-praesident-in-den-usa-zerstoeren-kann-a-c3dc82c3-0bdc-4a59-a83a-8023cf07cde2#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-will-oelboss-chris-wright-zum-energieminister-machen](https://www.spiegel.de/ausland/usa-donald-trump-will-oelboss-chris-wright-zum-energieminister-machen-a-1191c7a2-216f-4ee6-9669-96fcbca871fb#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/panorama/baalbek-im-libanon-das-ist-der-groesste-roemische-tempel-der-welt-neben-ihm-detonieren-bomben](https://www.spiegel.de/panorama/baalbek-im-libanon-das-ist-der-groesste-roemische-tempel-der-welt-neben-ihm-detonieren-bomben-a-4f26a5ad-b82c-40f2-a647-09ce56061c07#ref=rss)
-### reise
+* [https://www.spiegel.de/politik/deutschland/parteitag-der-gruenen-spiegel-redakteur-analysiert-habecks-herausforderungen](https://www.spiegel.de/politik/deutschland/parteitag-der-gruenen-spiegel-redakteur-analysiert-habecks-herausforderungen-a-dead4d2b-56ae-49fd-abac-3f31417b2ed1#ref=rss)
+* [https://www.spiegel.de/ausland/israel-macht-druck-vor-g20-gipfel](https://www.spiegel.de/ausland/israel-macht-druck-vor-g20-gipfel-a-2aee471b-d62c-421d-8f0c-e01bbbdfd2e9#ref=rss)
+* [https://www.spiegel.de/panorama/osnabrueck-blindgaenger-verdacht-14-000-menschen-muessen-evakuiert-werden](https://www.spiegel.de/panorama/osnabrueck-blindgaenger-verdacht-14-000-menschen-muessen-evakuiert-werden-a-baab6c49-0be0-4810-86be-77aaecd41ed3#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/panorama/baalbek-im-libanon-das-ist-der-groesste-roemische-tempel-der-welt-neben-ihm-detonieren-bomben](https://www.spiegel.de/panorama/baalbek-im-libanon-das-ist-der-groesste-roemische-tempel-der-welt-neben-ihm-detonieren-bomben-a-4f26a5ad-b82c-40f2-a647-09ce56061c07#ref=rss)
-* [https://www.spiegel.de/sport/vendee-globe-violette-dorange-ist-die-juengste-teilnehmerin-der-hochseeregatta](https://www.spiegel.de/sport/vendee-globe-violette-dorange-ist-die-juengste-teilnehmerin-der-hochseeregatta-a-9fa84895-4721-48bb-94fc-21298b4b2bc2#ref=rss)
-### warnen
+* [https://www.spiegel.de/wirtschaft/unternehmen/paketdienst-immer-mehr-beschwerden-in-der-post-und-paketbranche](https://www.spiegel.de/wirtschaft/unternehmen/paketdienst-immer-mehr-beschwerden-in-der-post-und-paketbranche-a-33325649-e700-4213-9ee5-3e9d4ebe2792#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/skynet-1a-wer-hat-an-grossbritanniens-aeltestem-satelliten-herumgespielt](https://www.spiegel.de/wissenschaft/weltall/skynet-1a-wer-hat-an-grossbritanniens-aeltestem-satelliten-herumgespielt-a-be25cc11-9736-48a9-b49c-a04502aa718d#ref=rss)
+### deutlich
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/100-000-lkw-fahrer-fehlen-spediteure-warnen-vor-lieferengpaessen-zu-weihnachten](https://www.spiegel.de/wirtschaft/unternehmen/100-000-lkw-fahrer-fehlen-spediteure-warnen-vor-lieferengpaessen-zu-weihnachten-a-5e5d9f4d-0dff-4fc5-9fe5-7c58a3838bc9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/paketdienst-immer-mehr-beschwerden-in-der-post-und-paketbranche](https://www.spiegel.de/wirtschaft/unternehmen/paketdienst-immer-mehr-beschwerden-in-der-post-und-paketbranche-a-33325649-e700-4213-9ee5-3e9d4ebe2792#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-elf-siegt-deutlich-gegen-bosnien-herzegowina-die-zeit-der-vollstrecker](https://www.spiegel.de/sport/fussball/dfb-elf-siegt-deutlich-gegen-bosnien-herzegowina-die-zeit-der-vollstrecker-a-4eb4eb53-2d01-4944-968a-ad9ac7de0927#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-franz-muentefering-sieht-kein-vorrecht-von-olaf-scholz-auf-kanzlerkandidatur](https://www.spiegel.de/politik/deutschland/spd-franz-muentefering-sieht-kein-vorrecht-von-olaf-scholz-auf-kanzlerkandidatur-a-6520a544-3d60-43e3-a49c-be13e645a656#ref=rss)
+### wo
+
+* [https://www.spiegel.de/wissenschaft/weltall/skynet-1a-wer-hat-an-grossbritanniens-aeltestem-satelliten-herumgespielt](https://www.spiegel.de/wissenschaft/weltall/skynet-1a-wer-hat-an-grossbritanniens-aeltestem-satelliten-herumgespielt-a-be25cc11-9736-48a9-b49c-a04502aa718d#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-elon-musk-relaxen-bei-ufc-kampfsport-spektakel-in-new-york](https://www.spiegel.de/ausland/donald-trump-und-elon-musk-relaxen-bei-ufc-kampfsport-spektakel-in-new-york-a-aaac75a7-fa8f-4471-b81e-74b5c554edb7#ref=rss)
+* [https://www.spiegel.de/ausland/apec-gipfel-in-peru-wo-bleibt-joe-biden-us-praesident-kommt-zu-spaet-zum-familienfoto](https://www.spiegel.de/ausland/apec-gipfel-in-peru-wo-bleibt-joe-biden-us-praesident-kommt-zu-spaet-zum-familienfoto-a-806c7390-f771-4cfb-bdb8-1819b106276a#ref=rss)
+### benjamin
+
+* [https://www.spiegel.de/ausland/benjamin-netanyahu-leuchtraketen-auf-anwesen-drei-verdaechtige-festgenommen](https://www.spiegel.de/ausland/benjamin-netanyahu-leuchtraketen-auf-anwesen-drei-verdaechtige-festgenommen-a-206934d6-d682-4485-a7f5-d8c64638ea49#ref=rss)
+* [https://www.spiegel.de/ausland/israel-macht-druck-vor-g20-gipfel](https://www.spiegel.de/ausland/israel-macht-druck-vor-g20-gipfel-a-2aee471b-d62c-421d-8f0c-e01bbbdfd2e9#ref=rss)
+### leuchtraketen
+
+* [https://www.spiegel.de/ausland/benjamin-netanyahu-leuchtraketen-auf-anwesen-drei-verdaechtige-festgenommen](https://www.spiegel.de/ausland/benjamin-netanyahu-leuchtraketen-auf-anwesen-drei-verdaechtige-festgenommen-a-206934d6-d682-4485-a7f5-d8c64638ea49#ref=rss)
+### anwesen
+
+* [https://www.spiegel.de/ausland/benjamin-netanyahu-leuchtraketen-auf-anwesen-drei-verdaechtige-festgenommen](https://www.spiegel.de/ausland/benjamin-netanyahu-leuchtraketen-auf-anwesen-drei-verdaechtige-festgenommen-a-206934d6-d682-4485-a7f5-d8c64638ea49#ref=rss)
+### verdächtige
+
+* [https://www.spiegel.de/ausland/benjamin-netanyahu-leuchtraketen-auf-anwesen-drei-verdaechtige-festgenommen](https://www.spiegel.de/ausland/benjamin-netanyahu-leuchtraketen-auf-anwesen-drei-verdaechtige-festgenommen-a-206934d6-d682-4485-a7f5-d8c64638ea49#ref=rss)
+### israels
+
+* [https://www.spiegel.de/ausland/benjamin-netanyahu-leuchtraketen-auf-anwesen-drei-verdaechtige-festgenommen](https://www.spiegel.de/ausland/benjamin-netanyahu-leuchtraketen-auf-anwesen-drei-verdaechtige-festgenommen-a-206934d6-d682-4485-a7f5-d8c64638ea49#ref=rss)
+* [https://www.spiegel.de/ausland/israel-macht-druck-vor-g20-gipfel](https://www.spiegel.de/ausland/israel-macht-druck-vor-g20-gipfel-a-2aee471b-d62c-421d-8f0c-e01bbbdfd2e9#ref=rss)
+### premier
+
+* [https://www.spiegel.de/ausland/benjamin-netanyahu-leuchtraketen-auf-anwesen-drei-verdaechtige-festgenommen](https://www.spiegel.de/ausland/benjamin-netanyahu-leuchtraketen-auf-anwesen-drei-verdaechtige-festgenommen-a-206934d6-d682-4485-a7f5-d8c64638ea49#ref=rss)
+* [https://www.spiegel.de/ausland/israel-macht-druck-vor-g20-gipfel](https://www.spiegel.de/ausland/israel-macht-druck-vor-g20-gipfel-a-2aee471b-d62c-421d-8f0c-e01bbbdfd2e9#ref=rss)
+### verantwortlich
+
+* [https://www.spiegel.de/ausland/benjamin-netanyahu-leuchtraketen-auf-anwesen-drei-verdaechtige-festgenommen](https://www.spiegel.de/ausland/benjamin-netanyahu-leuchtraketen-auf-anwesen-drei-verdaechtige-festgenommen-a-206934d6-d682-4485-a7f5-d8c64638ea49#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/skynet-1a-wer-hat-an-grossbritanniens-aeltestem-satelliten-herumgespielt](https://www.spiegel.de/wissenschaft/weltall/skynet-1a-wer-hat-an-grossbritanniens-aeltestem-satelliten-herumgespielt-a-be25cc11-9736-48a9-b49c-a04502aa718d#ref=rss)
+### entdeckt
+
+* [https://www.spiegel.de/panorama/gesellschaft/archaeologie-mammutzahn-entdeckt-sensationeller-fund-in-schwaebisch-hall](https://www.spiegel.de/panorama/gesellschaft/archaeologie-mammutzahn-entdeckt-sensationeller-fund-in-schwaebisch-hall-a-1bf796d9-ea21-4cb7-b7ee-9c6541964ca7#ref=rss)
+* [https://www.spiegel.de/karriere/raetsel-der-woche-in-welche-richtung-fuhr-das-fahrrad](https://www.spiegel.de/karriere/raetsel-der-woche-in-welche-richtung-fuhr-das-fahrrad-a-c06759ab-79b5-42aa-b958-1cb6afb529a7#ref=rss)
+### fund
+
+* [https://www.spiegel.de/panorama/gesellschaft/archaeologie-mammutzahn-entdeckt-sensationeller-fund-in-schwaebisch-hall](https://www.spiegel.de/panorama/gesellschaft/archaeologie-mammutzahn-entdeckt-sensationeller-fund-in-schwaebisch-hall-a-1bf796d9-ea21-4cb7-b7ee-9c6541964ca7#ref=rss)
+### tod
+
+* [https://www.spiegel.de/panorama/deutscher-bergsteiger-stuerzt-in-oesterreich-in-den-tod](https://www.spiegel.de/panorama/deutscher-bergsteiger-stuerzt-in-oesterreich-in-den-tod-a-dbce6dc4-e593-449a-a239-b37f6a6c044e#ref=rss)
+* [https://www.spiegel.de/panorama/titanic-memorabilia-taschenuhr-von-kapitaen-arthur-rostron-versteigert](https://www.spiegel.de/panorama/titanic-memorabilia-taschenuhr-von-kapitaen-arthur-rostron-versteigert-a-7316e4a4-43d7-4658-a37d-ad0677d098b8#ref=rss)
+### mike
+
+* [https://www.spiegel.de/sport/mike-tyson-spricht-ueber-schwere-gesundheitliche-probleme](https://www.spiegel.de/sport/mike-tyson-spricht-ueber-schwere-gesundheitliche-probleme-a-59166da2-d9bf-4278-acf2-e3e91b14fbfe#ref=rss)
+### tyson
+
+* [https://www.spiegel.de/sport/mike-tyson-spricht-ueber-schwere-gesundheitliche-probleme](https://www.spiegel.de/sport/mike-tyson-spricht-ueber-schwere-gesundheitliche-probleme-a-59166da2-d9bf-4278-acf2-e3e91b14fbfe#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/sport/mike-tyson-spricht-ueber-schwere-gesundheitliche-probleme](https://www.spiegel.de/sport/mike-tyson-spricht-ueber-schwere-gesundheitliche-probleme-a-59166da2-d9bf-4278-acf2-e3e91b14fbfe#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-franz-muentefering-sieht-kein-vorrecht-von-olaf-scholz-auf-kanzlerkandidatur](https://www.spiegel.de/politik/deutschland/spd-franz-muentefering-sieht-kein-vorrecht-von-olaf-scholz-auf-kanzlerkandidatur-a-6520a544-3d60-43e3-a49c-be13e645a656#ref=rss)
+### fast
+
+* [https://www.spiegel.de/sport/mike-tyson-spricht-ueber-schwere-gesundheitliche-probleme](https://www.spiegel.de/sport/mike-tyson-spricht-ueber-schwere-gesundheitliche-probleme-a-59166da2-d9bf-4278-acf2-e3e91b14fbfe#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-massiv-mit-raketen-an-polen-laesst-kampfjets-aufsteigen](https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-massiv-mit-raketen-an-polen-laesst-kampfjets-aufsteigen-a-9f368836-66f5-426d-b9de-ab34b2d00185#ref=rss)
+### gesund
+
+* [https://www.spiegel.de/sport/mike-tyson-spricht-ueber-schwere-gesundheitliche-probleme](https://www.spiegel.de/sport/mike-tyson-spricht-ueber-schwere-gesundheitliche-probleme-a-59166da2-d9bf-4278-acf2-e3e91b14fbfe#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/chirurgie-wer-sich-von-einer-frau-operieren-laesst-wird-schneller-wieder-gesund](https://www.spiegel.de/wissenschaft/medizin/chirurgie-wer-sich-von-einer-frau-operieren-laesst-wird-schneller-wieder-gesund-a-a0ad033b-bd20-4ec0-9695-7b3d0b801d56#ref=rss)
+### russlands
+
+* [https://www.spiegel.de/ausland/ukraine-meldet-einen-der-heftigsten-luftangriffe-russlands](https://www.spiegel.de/ausland/ukraine-meldet-einen-der-heftigsten-luftangriffe-russlands-a-cb883cee-d081-4cc8-a056-1de0f7b1a07e#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-massiv-mit-raketen-an-polen-laesst-kampfjets-aufsteigen](https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-massiv-mit-raketen-an-polen-laesst-kampfjets-aufsteigen-a-9f368836-66f5-426d-b9de-ab34b2d00185#ref=rss)
+### selenskyj
+
+* [https://www.spiegel.de/ausland/ukraine-meldet-einen-der-heftigsten-luftangriffe-russlands](https://www.spiegel.de/ausland/ukraine-meldet-einen-der-heftigsten-luftangriffe-russlands-a-cb883cee-d081-4cc8-a056-1de0f7b1a07e#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-diskussion-ueber-waffenstillstand-verfrueht-findet-botschafter-lambsdorff](https://www.spiegel.de/ausland/russland-ukraine-krieg-diskussion-ueber-waffenstillstand-verfrueht-findet-botschafter-lambsdorff-a-35f9d577-dc39-47d2-9893-70e6e34a7ca4#ref=rss)
+### raketen
+
+* [https://www.spiegel.de/ausland/ukraine-meldet-einen-der-heftigsten-luftangriffe-russlands](https://www.spiegel.de/ausland/ukraine-meldet-einen-der-heftigsten-luftangriffe-russlands-a-cb883cee-d081-4cc8-a056-1de0f7b1a07e#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-massiv-mit-raketen-an-polen-laesst-kampfjets-aufsteigen](https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-massiv-mit-raketen-an-polen-laesst-kampfjets-aufsteigen-a-9f368836-66f5-426d-b9de-ab34b2d00185#ref=rss)
+### reagiert
+
+* [https://www.spiegel.de/ausland/ukraine-meldet-einen-der-heftigsten-luftangriffe-russlands](https://www.spiegel.de/ausland/ukraine-meldet-einen-der-heftigsten-luftangriffe-russlands-a-cb883cee-d081-4cc8-a056-1de0f7b1a07e#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-massiv-mit-raketen-an-polen-laesst-kampfjets-aufsteigen](https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-massiv-mit-raketen-an-polen-laesst-kampfjets-aufsteigen-a-9f368836-66f5-426d-b9de-ab34b2d00185#ref=rss)
+### airbnb
+
+* [https://www.spiegel.de/reise/europa/tourismus-airbnb-inszeniert-pr-spektakel-im-kolosseum](https://www.spiegel.de/reise/europa/tourismus-airbnb-inszeniert-pr-spektakel-im-kolosseum-a-f561ef54-bc3a-43ca-95b8-c208c0e54529#ref=rss)
+### prspektakel
+
+* [https://www.spiegel.de/reise/europa/tourismus-airbnb-inszeniert-pr-spektakel-im-kolosseum](https://www.spiegel.de/reise/europa/tourismus-airbnb-inszeniert-pr-spektakel-im-kolosseum-a-f561ef54-bc3a-43ca-95b8-c208c0e54529#ref=rss)
+### kolosseum
+
+* [https://www.spiegel.de/reise/europa/tourismus-airbnb-inszeniert-pr-spektakel-im-kolosseum](https://www.spiegel.de/reise/europa/tourismus-airbnb-inszeniert-pr-spektakel-im-kolosseum-a-f561ef54-bc3a-43ca-95b8-c208c0e54529#ref=rss)
+### neue
+
+* [https://www.spiegel.de/wissenschaft/natur/klimapolitik-unter-donald-trump-was-der-neue-praesident-in-den-usa-zerstoeren-kann](https://www.spiegel.de/wissenschaft/natur/klimapolitik-unter-donald-trump-was-der-neue-praesident-in-den-usa-zerstoeren-kann-a-c3dc82c3-0bdc-4a59-a83a-8023cf07cde2#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/miss-universe-mit-victoria-kjaer-theilvig-gewinnt-erstmals-daenin-den-schoenheitswettbewerb](https://www.spiegel.de/panorama/gesellschaft/miss-universe-mit-victoria-kjaer-theilvig-gewinnt-erstmals-daenin-den-schoenheitswettbewerb-a-6f9ccdc5-d4fb-4f58-a985-0129d218c564#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/wissenschaft/natur/klimapolitik-unter-donald-trump-was-der-neue-praesident-in-den-usa-zerstoeren-kann](https://www.spiegel.de/wissenschaft/natur/klimapolitik-unter-donald-trump-was-der-neue-praesident-in-den-usa-zerstoeren-kann-a-c3dc82c3-0bdc-4a59-a83a-8023cf07cde2#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-diskussion-ueber-waffenstillstand-verfrueht-findet-botschafter-lambsdorff](https://www.spiegel.de/ausland/russland-ukraine-krieg-diskussion-ueber-waffenstillstand-verfrueht-findet-botschafter-lambsdorff-a-35f9d577-dc39-47d2-9893-70e6e34a7ca4#ref=rss)
+### klimakrise
+
+* [https://www.spiegel.de/wissenschaft/natur/klimapolitik-unter-donald-trump-was-der-neue-praesident-in-den-usa-zerstoeren-kann](https://www.spiegel.de/wissenschaft/natur/klimapolitik-unter-donald-trump-was-der-neue-praesident-in-den-usa-zerstoeren-kann-a-c3dc82c3-0bdc-4a59-a83a-8023cf07cde2#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-will-oelboss-chris-wright-zum-energieminister-machen](https://www.spiegel.de/ausland/usa-donald-trump-will-oelboss-chris-wright-zum-energieminister-machen-a-1191c7a2-216f-4ee6-9669-96fcbca871fb#ref=rss)
+### grund
+
+* [https://www.spiegel.de/wissenschaft/natur/klimapolitik-unter-donald-trump-was-der-neue-praesident-in-den-usa-zerstoeren-kann](https://www.spiegel.de/wissenschaft/natur/klimapolitik-unter-donald-trump-was-der-neue-praesident-in-den-usa-zerstoeren-kann-a-c3dc82c3-0bdc-4a59-a83a-8023cf07cde2#ref=rss)
+* [https://www.spiegel.de/panorama/osnabrueck-blindgaenger-verdacht-14-000-menschen-muessen-evakuiert-werden](https://www.spiegel.de/panorama/osnabrueck-blindgaenger-verdacht-14-000-menschen-muessen-evakuiert-werden-a-baab6c49-0be0-4810-86be-77aaecd41ed3#ref=rss)
+### welt
+
+* [https://www.spiegel.de/politik/deutschland/news-wahlsieg-von-donald-trump](https://www.spiegel.de/politik/deutschland/news-wahlsieg-von-donald-trump-a-3e9be80b-4731-4b3a-9cfb-8283069aa67c#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/miss-universe-mit-victoria-kjaer-theilvig-gewinnt-erstmals-daenin-den-schoenheitswettbewerb](https://www.spiegel.de/panorama/gesellschaft/miss-universe-mit-victoria-kjaer-theilvig-gewinnt-erstmals-daenin-den-schoenheitswettbewerb-a-6f9ccdc5-d4fb-4f58-a985-0129d218c564#ref=rss)
+### findet
+
+* [https://www.spiegel.de/politik/deutschland/news-wahlsieg-von-donald-trump](https://www.spiegel.de/politik/deutschland/news-wahlsieg-von-donald-trump-a-3e9be80b-4731-4b3a-9cfb-8283069aa67c#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-diskussion-ueber-waffenstillstand-verfrueht-findet-botschafter-lambsdorff](https://www.spiegel.de/ausland/russland-ukraine-krieg-diskussion-ueber-waffenstillstand-verfrueht-findet-botschafter-lambsdorff-a-35f9d577-dc39-47d2-9893-70e6e34a7ca4#ref=rss)
+### faeser
+
+* [https://www.spiegel.de/panorama/justiz/weihnachtsmaerkte-nancy-faeser-will-strenge-kontrollen-von-messerverbot](https://www.spiegel.de/panorama/justiz/weihnachtsmaerkte-nancy-faeser-will-strenge-kontrollen-von-messerverbot-a-ac1b8b9b-7892-4358-a721-0ab1582f63c6#ref=rss)
+### kontrollen
+
+* [https://www.spiegel.de/panorama/justiz/weihnachtsmaerkte-nancy-faeser-will-strenge-kontrollen-von-messerverbot](https://www.spiegel.de/panorama/justiz/weihnachtsmaerkte-nancy-faeser-will-strenge-kontrollen-von-messerverbot-a-ac1b8b9b-7892-4358-a721-0ab1582f63c6#ref=rss)
+### 10000
+
+* [https://www.spiegel.de/panorama/justiz/weihnachtsmaerkte-nancy-faeser-will-strenge-kontrollen-von-messerverbot](https://www.spiegel.de/panorama/justiz/weihnachtsmaerkte-nancy-faeser-will-strenge-kontrollen-von-messerverbot-a-ac1b8b9b-7892-4358-a721-0ab1582f63c6#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-nordkorea-soll-schwerste-artillerie-an-russland-liefern](https://www.spiegel.de/ausland/ukraine-krieg-nordkorea-soll-schwerste-artillerie-an-russland-liefern-a-110df8af-9e76-4fcd-9352-0bafa14df9ff#ref=rss)
+### grünen
+
+* [https://www.spiegel.de/politik/deutschland/parteitag-der-gruenen-spiegel-redakteur-analysiert-habecks-herausforderungen](https://www.spiegel.de/politik/deutschland/parteitag-der-gruenen-spiegel-redakteur-analysiert-habecks-herausforderungen-a-dead4d2b-56ae-49fd-abac-3f31417b2ed1#ref=rss)
+### spiegelredakteur
+
+* [https://www.spiegel.de/politik/deutschland/parteitag-der-gruenen-spiegel-redakteur-analysiert-habecks-herausforderungen](https://www.spiegel.de/politik/deutschland/parteitag-der-gruenen-spiegel-redakteur-analysiert-habecks-herausforderungen-a-dead4d2b-56ae-49fd-abac-3f31417b2ed1#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/politik/deutschland/parteitag-der-gruenen-spiegel-redakteur-analysiert-habecks-herausforderungen](https://www.spiegel.de/politik/deutschland/parteitag-der-gruenen-spiegel-redakteur-analysiert-habecks-herausforderungen-a-dead4d2b-56ae-49fd-abac-3f31417b2ed1#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-diskussion-ueber-waffenstillstand-verfrueht-findet-botschafter-lambsdorff](https://www.spiegel.de/ausland/russland-ukraine-krieg-diskussion-ueber-waffenstillstand-verfrueht-findet-botschafter-lambsdorff-a-35f9d577-dc39-47d2-9893-70e6e34a7ca4#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/israel-macht-druck-vor-g20-gipfel](https://www.spiegel.de/ausland/israel-macht-druck-vor-g20-gipfel-a-2aee471b-d62c-421d-8f0c-e01bbbdfd2e9#ref=rss)
+### beschwerden
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/paketdienst-immer-mehr-beschwerden-in-der-post-und-paketbranche](https://www.spiegel.de/wirtschaft/unternehmen/paketdienst-immer-mehr-beschwerden-in-der-post-und-paketbranche-a-33325649-e700-4213-9ee5-3e9d4ebe2792#ref=rss)
+### post
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/paketdienst-immer-mehr-beschwerden-in-der-post-und-paketbranche](https://www.spiegel.de/wirtschaft/unternehmen/paketdienst-immer-mehr-beschwerden-in-der-post-und-paketbranche-a-33325649-e700-4213-9ee5-3e9d4ebe2792#ref=rss)
+### adam
+
+* [https://www.spiegel.de/sport/fussball/nations-league-ungarns-adam-szalai-gibt-entwarnung-nach-zusammenbruch-auf-der-ersatzbank](https://www.spiegel.de/sport/fussball/nations-league-ungarns-adam-szalai-gibt-entwarnung-nach-zusammenbruch-auf-der-ersatzbank-a-1949dade-3dea-478c-874b-91cda7c74a44#ref=rss)
+### szalai
+
+* [https://www.spiegel.de/sport/fussball/nations-league-ungarns-adam-szalai-gibt-entwarnung-nach-zusammenbruch-auf-der-ersatzbank](https://www.spiegel.de/sport/fussball/nations-league-ungarns-adam-szalai-gibt-entwarnung-nach-zusammenbruch-auf-der-ersatzbank-a-1949dade-3dea-478c-874b-91cda7c74a44#ref=rss)
+### ersatzbank
+
+* [https://www.spiegel.de/sport/fussball/nations-league-ungarns-adam-szalai-gibt-entwarnung-nach-zusammenbruch-auf-der-ersatzbank](https://www.spiegel.de/sport/fussball/nations-league-ungarns-adam-szalai-gibt-entwarnung-nach-zusammenbruch-auf-der-ersatzbank-a-1949dade-3dea-478c-874b-91cda7c74a44#ref=rss)
+### präsidentin
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-praesidentin-des-roten-kreuzes-warnt-vor-einer-ausbreitung-der-gewalt](https://www.spiegel.de/ausland/israel-gaza-krieg-praesidentin-des-roten-kreuzes-warnt-vor-einer-ausbreitung-der-gewalt-a-0ba43fa9-54e3-4f7c-98a9-11c30dc90eaf#ref=rss)
+### roten
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-praesidentin-des-roten-kreuzes-warnt-vor-einer-ausbreitung-der-gewalt](https://www.spiegel.de/ausland/israel-gaza-krieg-praesidentin-des-roten-kreuzes-warnt-vor-einer-ausbreitung-der-gewalt-a-0ba43fa9-54e3-4f7c-98a9-11c30dc90eaf#ref=rss)
+### gewalt
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-praesidentin-des-roten-kreuzes-warnt-vor-einer-ausbreitung-der-gewalt](https://www.spiegel.de/ausland/israel-gaza-krieg-praesidentin-des-roten-kreuzes-warnt-vor-einer-ausbreitung-der-gewalt-a-0ba43fa9-54e3-4f7c-98a9-11c30dc90eaf#ref=rss)
+### reinhard
+
+* [https://www.spiegel.de/panorama/leute/reinhard-mey-benefiz-album-mit-32-jahre-altem-mitschnitt-eines-konzerts](https://www.spiegel.de/panorama/leute/reinhard-mey-benefiz-album-mit-32-jahre-altem-mitschnitt-eines-konzerts-a-4c4e260a-8192-4265-93d1-d7ad0b384d14#ref=rss)
+### mey
+
+* [https://www.spiegel.de/panorama/leute/reinhard-mey-benefiz-album-mit-32-jahre-altem-mitschnitt-eines-konzerts](https://www.spiegel.de/panorama/leute/reinhard-mey-benefiz-album-mit-32-jahre-altem-mitschnitt-eines-konzerts-a-4c4e260a-8192-4265-93d1-d7ad0b384d14#ref=rss)
+### benefizalbum
+
+* [https://www.spiegel.de/panorama/leute/reinhard-mey-benefiz-album-mit-32-jahre-altem-mitschnitt-eines-konzerts](https://www.spiegel.de/panorama/leute/reinhard-mey-benefiz-album-mit-32-jahre-altem-mitschnitt-eines-konzerts-a-4c4e260a-8192-4265-93d1-d7ad0b384d14#ref=rss)
+### 32
+
+* [https://www.spiegel.de/panorama/leute/reinhard-mey-benefiz-album-mit-32-jahre-altem-mitschnitt-eines-konzerts](https://www.spiegel.de/panorama/leute/reinhard-mey-benefiz-album-mit-32-jahre-altem-mitschnitt-eines-konzerts-a-4c4e260a-8192-4265-93d1-d7ad0b384d14#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/panorama/leute/reinhard-mey-benefiz-album-mit-32-jahre-altem-mitschnitt-eines-konzerts](https://www.spiegel.de/panorama/leute/reinhard-mey-benefiz-album-mit-32-jahre-altem-mitschnitt-eines-konzerts-a-4c4e260a-8192-4265-93d1-d7ad0b384d14#ref=rss)
+### mitschnitt
+
+* [https://www.spiegel.de/panorama/leute/reinhard-mey-benefiz-album-mit-32-jahre-altem-mitschnitt-eines-konzerts](https://www.spiegel.de/panorama/leute/reinhard-mey-benefiz-album-mit-32-jahre-altem-mitschnitt-eines-konzerts-a-4c4e260a-8192-4265-93d1-d7ad0b384d14#ref=rss)
+### dfbelf
+
+* [https://www.spiegel.de/sport/fussball/dfb-elf-siegt-deutlich-gegen-bosnien-herzegowina-die-zeit-der-vollstrecker](https://www.spiegel.de/sport/fussball/dfb-elf-siegt-deutlich-gegen-bosnien-herzegowina-die-zeit-der-vollstrecker-a-4eb4eb53-2d01-4944-968a-ad9ac7de0927#ref=rss)
+### bosnienherzegowina
+
+* [https://www.spiegel.de/sport/fussball/dfb-elf-siegt-deutlich-gegen-bosnien-herzegowina-die-zeit-der-vollstrecker](https://www.spiegel.de/sport/fussball/dfb-elf-siegt-deutlich-gegen-bosnien-herzegowina-die-zeit-der-vollstrecker-a-4eb4eb53-2d01-4944-968a-ad9ac7de0927#ref=rss)
+### zeit
+
+* [https://www.spiegel.de/sport/fussball/dfb-elf-siegt-deutlich-gegen-bosnien-herzegowina-die-zeit-der-vollstrecker](https://www.spiegel.de/sport/fussball/dfb-elf-siegt-deutlich-gegen-bosnien-herzegowina-die-zeit-der-vollstrecker-a-4eb4eb53-2d01-4944-968a-ad9ac7de0927#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-diskussion-ueber-waffenstillstand-verfrueht-findet-botschafter-lambsdorff](https://www.spiegel.de/ausland/russland-ukraine-krieg-diskussion-ueber-waffenstillstand-verfrueht-findet-botschafter-lambsdorff-a-35f9d577-dc39-47d2-9893-70e6e34a7ca4#ref=rss)
+### franz
+
+* [https://www.spiegel.de/politik/deutschland/spd-franz-muentefering-sieht-kein-vorrecht-von-olaf-scholz-auf-kanzlerkandidatur](https://www.spiegel.de/politik/deutschland/spd-franz-muentefering-sieht-kein-vorrecht-von-olaf-scholz-auf-kanzlerkandidatur-a-6520a544-3d60-43e3-a49c-be13e645a656#ref=rss)
+### müntefering
+
+* [https://www.spiegel.de/politik/deutschland/spd-franz-muentefering-sieht-kein-vorrecht-von-olaf-scholz-auf-kanzlerkandidatur](https://www.spiegel.de/politik/deutschland/spd-franz-muentefering-sieht-kein-vorrecht-von-olaf-scholz-auf-kanzlerkandidatur-a-6520a544-3d60-43e3-a49c-be13e645a656#ref=rss)
+### olaf
+
+* [https://www.spiegel.de/politik/deutschland/spd-franz-muentefering-sieht-kein-vorrecht-von-olaf-scholz-auf-kanzlerkandidatur](https://www.spiegel.de/politik/deutschland/spd-franz-muentefering-sieht-kein-vorrecht-von-olaf-scholz-auf-kanzlerkandidatur-a-6520a544-3d60-43e3-a49c-be13e645a656#ref=rss)
 ### scholz
 
-* [https://www.spiegel.de/politik/deutschland/erste-spd-bundestagsabgeordnete-fordern-pistorius-als-kanzlerkandidat](https://www.spiegel.de/politik/deutschland/erste-spd-bundestagsabgeordnete-fordern-pistorius-als-kanzlerkandidat-a-1f40b691-145b-4185-9f6c-cb72f8a3afcb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-abgeordneter-warnt-vor-afd-stimmen-bei-vertrauensfrage](https://www.spiegel.de/politik/deutschland/spd-abgeordneter-warnt-vor-afd-stimmen-bei-vertrauensfrage-a-97afc647-7fba-49a8-9c85-c14ce506a2c2#ref=rss)
-### richtige
+* [https://www.spiegel.de/politik/deutschland/spd-franz-muentefering-sieht-kein-vorrecht-von-olaf-scholz-auf-kanzlerkandidatur](https://www.spiegel.de/politik/deutschland/spd-franz-muentefering-sieht-kein-vorrecht-von-olaf-scholz-auf-kanzlerkandidatur-a-6520a544-3d60-43e3-a49c-be13e645a656#ref=rss)
+### kanzlerkandidatur
 
-* [https://www.spiegel.de/politik/deutschland/erste-spd-bundestagsabgeordnete-fordern-pistorius-als-kanzlerkandidat](https://www.spiegel.de/politik/deutschland/erste-spd-bundestagsabgeordnete-fordern-pistorius-als-kanzlerkandidat-a-1f40b691-145b-4185-9f6c-cb72f8a3afcb#ref=rss)
-* [https://www.spiegel.de/tests/blutzuckermessgeraete-im-test-welche-die-stiftung-warentest-ueberzeugen](https://www.spiegel.de/tests/blutzuckermessgeraete-im-test-welche-die-stiftung-warentest-ueberzeugen-a-96c95880-af5e-4fb7-afc9-8768a8897cd5#ref=rss)
-### kanzler
+* [https://www.spiegel.de/politik/deutschland/spd-franz-muentefering-sieht-kein-vorrecht-von-olaf-scholz-auf-kanzlerkandidatur](https://www.spiegel.de/politik/deutschland/spd-franz-muentefering-sieht-kein-vorrecht-von-olaf-scholz-auf-kanzlerkandidatur-a-6520a544-3d60-43e3-a49c-be13e645a656#ref=rss)
+### miss
 
-* [https://www.spiegel.de/politik/deutschland/erste-spd-bundestagsabgeordnete-fordern-pistorius-als-kanzlerkandidat](https://www.spiegel.de/politik/deutschland/erste-spd-bundestagsabgeordnete-fordern-pistorius-als-kanzlerkandidat-a-1f40b691-145b-4185-9f6c-cb72f8a3afcb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-abgeordneter-warnt-vor-afd-stimmen-bei-vertrauensfrage](https://www.spiegel.de/politik/deutschland/spd-abgeordneter-warnt-vor-afd-stimmen-bei-vertrauensfrage-a-97afc647-7fba-49a8-9c85-c14ce506a2c2#ref=rss)
-### mikaela
+* [https://www.spiegel.de/panorama/gesellschaft/miss-universe-mit-victoria-kjaer-theilvig-gewinnt-erstmals-daenin-den-schoenheitswettbewerb](https://www.spiegel.de/panorama/gesellschaft/miss-universe-mit-victoria-kjaer-theilvig-gewinnt-erstmals-daenin-den-schoenheitswettbewerb-a-6f9ccdc5-d4fb-4f58-a985-0129d218c564#ref=rss)
+### universe
 
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-gewinnt-slalom-in-levi-und-holt-damit-98-weltcupsieg](https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-gewinnt-slalom-in-levi-und-holt-damit-98-weltcupsieg-a-abef4f71-c5af-4597-964d-1d22f13b5062#ref=rss)
-### shiffrin
+* [https://www.spiegel.de/panorama/gesellschaft/miss-universe-mit-victoria-kjaer-theilvig-gewinnt-erstmals-daenin-den-schoenheitswettbewerb](https://www.spiegel.de/panorama/gesellschaft/miss-universe-mit-victoria-kjaer-theilvig-gewinnt-erstmals-daenin-den-schoenheitswettbewerb-a-6f9ccdc5-d4fb-4f58-a985-0129d218c564#ref=rss)
+### victoria
 
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-gewinnt-slalom-in-levi-und-holt-damit-98-weltcupsieg](https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-gewinnt-slalom-in-levi-und-holt-damit-98-weltcupsieg-a-abef4f71-c5af-4597-964d-1d22f13b5062#ref=rss)
-### deutschen
+* [https://www.spiegel.de/panorama/gesellschaft/miss-universe-mit-victoria-kjaer-theilvig-gewinnt-erstmals-daenin-den-schoenheitswettbewerb](https://www.spiegel.de/panorama/gesellschaft/miss-universe-mit-victoria-kjaer-theilvig-gewinnt-erstmals-daenin-den-schoenheitswettbewerb-a-6f9ccdc5-d4fb-4f58-a985-0129d218c564#ref=rss)
+### kjær
 
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-gewinnt-slalom-in-levi-und-holt-damit-98-weltcupsieg](https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-gewinnt-slalom-in-levi-und-holt-damit-98-weltcupsieg-a-abef4f71-c5af-4597-964d-1d22f13b5062#ref=rss)
-* [https://www.spiegel.de/start/vw-und-audi-in-der-krise-wie-ingenieursstudierende-ihre-zukunft-in-deutschland-sehen](https://www.spiegel.de/start/vw-und-audi-in-der-krise-wie-ingenieursstudierende-ihre-zukunft-in-deutschland-sehen-a-5530461b-45f1-4b20-8e45-c7775229b0f5#ref=rss)
-### deutschland
+* [https://www.spiegel.de/panorama/gesellschaft/miss-universe-mit-victoria-kjaer-theilvig-gewinnt-erstmals-daenin-den-schoenheitswettbewerb](https://www.spiegel.de/panorama/gesellschaft/miss-universe-mit-victoria-kjaer-theilvig-gewinnt-erstmals-daenin-den-schoenheitswettbewerb-a-6f9ccdc5-d4fb-4f58-a985-0129d218c564#ref=rss)
+### theilvig
 
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-tief-pauline-bringt-wohl-regen-und-schnee](https://www.spiegel.de/panorama/wetter-in-deutschland-tief-pauline-bringt-wohl-regen-und-schnee-a-e03e8bd3-f33e-4790-8805-f3d5e3c902fc#ref=rss)
-* [https://www.spiegel.de/start/vw-und-audi-in-der-krise-wie-ingenieursstudierende-ihre-zukunft-in-deutschland-sehen](https://www.spiegel.de/start/vw-und-audi-in-der-krise-wie-ingenieursstudierende-ihre-zukunft-in-deutschland-sehen-a-5530461b-45f1-4b20-8e45-c7775229b0f5#ref=rss)
-### test
+* [https://www.spiegel.de/panorama/gesellschaft/miss-universe-mit-victoria-kjaer-theilvig-gewinnt-erstmals-daenin-den-schoenheitswettbewerb](https://www.spiegel.de/panorama/gesellschaft/miss-universe-mit-victoria-kjaer-theilvig-gewinnt-erstmals-daenin-den-schoenheitswettbewerb-a-6f9ccdc5-d4fb-4f58-a985-0129d218c564#ref=rss)
+### erstmals
 
-* [https://www.spiegel.de/tests/blutzuckermessgeraete-im-test-welche-die-stiftung-warentest-ueberzeugen](https://www.spiegel.de/tests/blutzuckermessgeraete-im-test-welche-die-stiftung-warentest-ueberzeugen-a-96c95880-af5e-4fb7-afc9-8768a8897cd5#ref=rss)
-### stiftung
+* [https://www.spiegel.de/panorama/gesellschaft/miss-universe-mit-victoria-kjaer-theilvig-gewinnt-erstmals-daenin-den-schoenheitswettbewerb](https://www.spiegel.de/panorama/gesellschaft/miss-universe-mit-victoria-kjaer-theilvig-gewinnt-erstmals-daenin-den-schoenheitswettbewerb-a-6f9ccdc5-d4fb-4f58-a985-0129d218c564#ref=rss)
+### dänin
 
-* [https://www.spiegel.de/tests/blutzuckermessgeraete-im-test-welche-die-stiftung-warentest-ueberzeugen](https://www.spiegel.de/tests/blutzuckermessgeraete-im-test-welche-die-stiftung-warentest-ueberzeugen-a-96c95880-af5e-4fb7-afc9-8768a8897cd5#ref=rss)
-### warentest
+* [https://www.spiegel.de/panorama/gesellschaft/miss-universe-mit-victoria-kjaer-theilvig-gewinnt-erstmals-daenin-den-schoenheitswettbewerb](https://www.spiegel.de/panorama/gesellschaft/miss-universe-mit-victoria-kjaer-theilvig-gewinnt-erstmals-daenin-den-schoenheitswettbewerb-a-6f9ccdc5-d4fb-4f58-a985-0129d218c564#ref=rss)
+### ukrainekrieg
 
-* [https://www.spiegel.de/tests/blutzuckermessgeraete-im-test-welche-die-stiftung-warentest-ueberzeugen](https://www.spiegel.de/tests/blutzuckermessgeraete-im-test-welche-die-stiftung-warentest-ueberzeugen-a-96c95880-af5e-4fb7-afc9-8768a8897cd5#ref=rss)
-### kennen
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-massiv-mit-raketen-an-polen-laesst-kampfjets-aufsteigen](https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-massiv-mit-raketen-an-polen-laesst-kampfjets-aufsteigen-a-9f368836-66f5-426d-b9de-ab34b2d00185#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-nordkorea-soll-schwerste-artillerie-an-russland-liefern](https://www.spiegel.de/ausland/ukraine-krieg-nordkorea-soll-schwerste-artillerie-an-russland-liefern-a-110df8af-9e76-4fcd-9352-0bafa14df9ff#ref=rss)
+### kampfjets
 
-* [https://www.spiegel.de/tests/blutzuckermessgeraete-im-test-welche-die-stiftung-warentest-ueberzeugen](https://www.spiegel.de/tests/blutzuckermessgeraete-im-test-welche-die-stiftung-warentest-ueberzeugen-a-96c95880-af5e-4fb7-afc9-8768a8897cd5#ref=rss)
-* [https://www.spiegel.de/gesundheit/selbstverteidigung-wie-schuetze-ich-mich-vor-gewalt-podcast-mit-isabella-semeraro](https://www.spiegel.de/gesundheit/selbstverteidigung-wie-schuetze-ich-mich-vor-gewalt-podcast-mit-isabella-semeraro-a-fce1eda7-21a7-449e-b1e5-c4159b9141d5#ref=rss)
-### vendée
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-massiv-mit-raketen-an-polen-laesst-kampfjets-aufsteigen](https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-massiv-mit-raketen-an-polen-laesst-kampfjets-aufsteigen-a-9f368836-66f5-426d-b9de-ab34b2d00185#ref=rss)
+### aufsteigen
 
-* [https://www.spiegel.de/sport/vendee-globe-violette-dorange-ist-die-juengste-teilnehmerin-der-hochseeregatta](https://www.spiegel.de/sport/vendee-globe-violette-dorange-ist-die-juengste-teilnehmerin-der-hochseeregatta-a-9fa84895-4721-48bb-94fc-21298b4b2bc2#ref=rss)
-### globe
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-massiv-mit-raketen-an-polen-laesst-kampfjets-aufsteigen](https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-massiv-mit-raketen-an-polen-laesst-kampfjets-aufsteigen-a-9f368836-66f5-426d-b9de-ab34b2d00185#ref=rss)
+### operieren
 
-* [https://www.spiegel.de/sport/vendee-globe-violette-dorange-ist-die-juengste-teilnehmerin-der-hochseeregatta](https://www.spiegel.de/sport/vendee-globe-violette-dorange-ist-die-juengste-teilnehmerin-der-hochseeregatta-a-9fa84895-4721-48bb-94fc-21298b4b2bc2#ref=rss)
-### violette
+* [https://www.spiegel.de/wissenschaft/medizin/chirurgie-wer-sich-von-einer-frau-operieren-laesst-wird-schneller-wieder-gesund](https://www.spiegel.de/wissenschaft/medizin/chirurgie-wer-sich-von-einer-frau-operieren-laesst-wird-schneller-wieder-gesund-a-a0ad033b-bd20-4ec0-9695-7b3d0b801d56#ref=rss)
+### zufolge
 
-* [https://www.spiegel.de/sport/vendee-globe-violette-dorange-ist-die-juengste-teilnehmerin-der-hochseeregatta](https://www.spiegel.de/sport/vendee-globe-violette-dorange-ist-die-juengste-teilnehmerin-der-hochseeregatta-a-9fa84895-4721-48bb-94fc-21298b4b2bc2#ref=rss)
-### dorange
+* [https://www.spiegel.de/wissenschaft/medizin/chirurgie-wer-sich-von-einer-frau-operieren-laesst-wird-schneller-wieder-gesund](https://www.spiegel.de/wissenschaft/medizin/chirurgie-wer-sich-von-einer-frau-operieren-laesst-wird-schneller-wieder-gesund-a-a0ad033b-bd20-4ec0-9695-7b3d0b801d56#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-nordkorea-soll-schwerste-artillerie-an-russland-liefern](https://www.spiegel.de/ausland/ukraine-krieg-nordkorea-soll-schwerste-artillerie-an-russland-liefern-a-110df8af-9e76-4fcd-9352-0bafa14df9ff#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/sport/vendee-globe-violette-dorange-ist-die-juengste-teilnehmerin-der-hochseeregatta](https://www.spiegel.de/sport/vendee-globe-violette-dorange-ist-die-juengste-teilnehmerin-der-hochseeregatta-a-9fa84895-4721-48bb-94fc-21298b4b2bc2#ref=rss)
-### selbst
+* [https://www.spiegel.de/wissenschaft/medizin/chirurgie-wer-sich-von-einer-frau-operieren-laesst-wird-schneller-wieder-gesund](https://www.spiegel.de/wissenschaft/medizin/chirurgie-wer-sich-von-einer-frau-operieren-laesst-wird-schneller-wieder-gesund-a-a0ad033b-bd20-4ec0-9695-7b3d0b801d56#ref=rss)
+* [https://www.spiegel.de/panorama/titanic-memorabilia-taschenuhr-von-kapitaen-arthur-rostron-versteigert](https://www.spiegel.de/panorama/titanic-memorabilia-taschenuhr-von-kapitaen-arthur-rostron-versteigert-a-7316e4a4-43d7-4658-a37d-ad0677d098b8#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/sport/vendee-globe-violette-dorange-ist-die-juengste-teilnehmerin-der-hochseeregatta](https://www.spiegel.de/sport/vendee-globe-violette-dorange-ist-die-juengste-teilnehmerin-der-hochseeregatta-a-9fa84895-4721-48bb-94fc-21298b4b2bc2#ref=rss)
-* [https://www.spiegel.de/gesundheit/selbstverteidigung-wie-schuetze-ich-mich-vor-gewalt-podcast-mit-isabella-semeraro](https://www.spiegel.de/gesundheit/selbstverteidigung-wie-schuetze-ich-mich-vor-gewalt-podcast-mit-isabella-semeraro-a-fce1eda7-21a7-449e-b1e5-c4159b9141d5#ref=rss)
-### black
+* [https://www.spiegel.de/tests/pferdebuecher-fuer-kinder-fuenf-buch-tipps-ab-drei-jahren](https://www.spiegel.de/tests/pferdebuecher-fuer-kinder-fuenf-buch-tipps-ab-drei-jahren-a-12f2f674-6463-431c-b532-aee80f044846#ref=rss)
+### elon
 
-* [https://www.spiegel.de/wirtschaft/black-friday-haendler-verlieren-bei-rabattschlachten-millionen-euro](https://www.spiegel.de/wirtschaft/black-friday-haendler-verlieren-bei-rabattschlachten-millionen-euro-a-e8e24373-b03e-47c3-8b7b-bca29bd30664#ref=rss)
-### friday
+* [https://www.spiegel.de/ausland/donald-trump-und-elon-musk-relaxen-bei-ufc-kampfsport-spektakel-in-new-york](https://www.spiegel.de/ausland/donald-trump-und-elon-musk-relaxen-bei-ufc-kampfsport-spektakel-in-new-york-a-aaac75a7-fa8f-4471-b81e-74b5c554edb7#ref=rss)
+### musk
 
-* [https://www.spiegel.de/wirtschaft/black-friday-haendler-verlieren-bei-rabattschlachten-millionen-euro](https://www.spiegel.de/wirtschaft/black-friday-haendler-verlieren-bei-rabattschlachten-millionen-euro-a-e8e24373-b03e-47c3-8b7b-bca29bd30664#ref=rss)
-### händler
+* [https://www.spiegel.de/ausland/donald-trump-und-elon-musk-relaxen-bei-ufc-kampfsport-spektakel-in-new-york](https://www.spiegel.de/ausland/donald-trump-und-elon-musk-relaxen-bei-ufc-kampfsport-spektakel-in-new-york-a-aaac75a7-fa8f-4471-b81e-74b5c554edb7#ref=rss)
+### nordkorea
 
-* [https://www.spiegel.de/wirtschaft/black-friday-haendler-verlieren-bei-rabattschlachten-millionen-euro](https://www.spiegel.de/wirtschaft/black-friday-haendler-verlieren-bei-rabattschlachten-millionen-euro-a-e8e24373-b03e-47c3-8b7b-bca29bd30664#ref=rss)
-### podcast
+* [https://www.spiegel.de/ausland/ukraine-krieg-nordkorea-soll-schwerste-artillerie-an-russland-liefern](https://www.spiegel.de/ausland/ukraine-krieg-nordkorea-soll-schwerste-artillerie-an-russland-liefern-a-110df8af-9e76-4fcd-9352-0bafa14df9ff#ref=rss)
+### kapitän
 
-* [https://www.spiegel.de/gesundheit/selbstverteidigung-wie-schuetze-ich-mich-vor-gewalt-podcast-mit-isabella-semeraro](https://www.spiegel.de/gesundheit/selbstverteidigung-wie-schuetze-ich-mich-vor-gewalt-podcast-mit-isabella-semeraro-a-fce1eda7-21a7-449e-b1e5-c4159b9141d5#ref=rss)
-### isabella
+* [https://www.spiegel.de/panorama/titanic-memorabilia-taschenuhr-von-kapitaen-arthur-rostron-versteigert](https://www.spiegel.de/panorama/titanic-memorabilia-taschenuhr-von-kapitaen-arthur-rostron-versteigert-a-7316e4a4-43d7-4658-a37d-ad0677d098b8#ref=rss)
+### botschafter
 
-* [https://www.spiegel.de/gesundheit/selbstverteidigung-wie-schuetze-ich-mich-vor-gewalt-podcast-mit-isabella-semeraro](https://www.spiegel.de/gesundheit/selbstverteidigung-wie-schuetze-ich-mich-vor-gewalt-podcast-mit-isabella-semeraro-a-fce1eda7-21a7-449e-b1e5-c4159b9141d5#ref=rss)
-### semeraro
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-diskussion-ueber-waffenstillstand-verfrueht-findet-botschafter-lambsdorff](https://www.spiegel.de/ausland/russland-ukraine-krieg-diskussion-ueber-waffenstillstand-verfrueht-findet-botschafter-lambsdorff-a-35f9d577-dc39-47d2-9893-70e6e34a7ca4#ref=rss)
+### joe
 
-* [https://www.spiegel.de/gesundheit/selbstverteidigung-wie-schuetze-ich-mich-vor-gewalt-podcast-mit-isabella-semeraro](https://www.spiegel.de/gesundheit/selbstverteidigung-wie-schuetze-ich-mich-vor-gewalt-podcast-mit-isabella-semeraro-a-fce1eda7-21a7-449e-b1e5-c4159b9141d5#ref=rss)
-### ingenieursstudierende
+* [https://www.spiegel.de/ausland/apec-gipfel-in-peru-wo-bleibt-joe-biden-us-praesident-kommt-zu-spaet-zum-familienfoto](https://www.spiegel.de/ausland/apec-gipfel-in-peru-wo-bleibt-joe-biden-us-praesident-kommt-zu-spaet-zum-familienfoto-a-806c7390-f771-4cfb-bdb8-1819b106276a#ref=rss)
+### biden
 
-* [https://www.spiegel.de/start/vw-und-audi-in-der-krise-wie-ingenieursstudierende-ihre-zukunft-in-deutschland-sehen](https://www.spiegel.de/start/vw-und-audi-in-der-krise-wie-ingenieursstudierende-ihre-zukunft-in-deutschland-sehen-a-5530461b-45f1-4b20-8e45-c7775229b0f5#ref=rss)
-### sizilien
+* [https://www.spiegel.de/ausland/apec-gipfel-in-peru-wo-bleibt-joe-biden-us-praesident-kommt-zu-spaet-zum-familienfoto](https://www.spiegel.de/ausland/apec-gipfel-in-peru-wo-bleibt-joe-biden-us-praesident-kommt-zu-spaet-zum-familienfoto-a-806c7390-f771-4cfb-bdb8-1819b106276a#ref=rss)
+### chris
 
-* [https://www.spiegel.de/ausland/gute-nachrichten-newsletter-auf-sizilien-begehrt-eine-generation-auf-ein-korallenriff-trotzt-dem-klimawandel](https://www.spiegel.de/ausland/gute-nachrichten-newsletter-auf-sizilien-begehrt-eine-generation-auf-ein-korallenriff-trotzt-dem-klimawandel-a-4620c0df-ccf1-4b28-9a9e-64697a5d8b11#ref=rss)
-### begehrt
+* [https://www.spiegel.de/ausland/usa-donald-trump-will-oelboss-chris-wright-zum-energieminister-machen](https://www.spiegel.de/ausland/usa-donald-trump-will-oelboss-chris-wright-zum-energieminister-machen-a-1191c7a2-216f-4ee6-9669-96fcbca871fb#ref=rss)
+### wright
 
-* [https://www.spiegel.de/ausland/gute-nachrichten-newsletter-auf-sizilien-begehrt-eine-generation-auf-ein-korallenriff-trotzt-dem-klimawandel](https://www.spiegel.de/ausland/gute-nachrichten-newsletter-auf-sizilien-begehrt-eine-generation-auf-ein-korallenriff-trotzt-dem-klimawandel-a-4620c0df-ccf1-4b28-9a9e-64697a5d8b11#ref=rss)
-### generation
-
-* [https://www.spiegel.de/ausland/gute-nachrichten-newsletter-auf-sizilien-begehrt-eine-generation-auf-ein-korallenriff-trotzt-dem-klimawandel](https://www.spiegel.de/ausland/gute-nachrichten-newsletter-auf-sizilien-begehrt-eine-generation-auf-ein-korallenriff-trotzt-dem-klimawandel-a-4620c0df-ccf1-4b28-9a9e-64697a5d8b11#ref=rss)
-### korallenriff
-
-* [https://www.spiegel.de/ausland/gute-nachrichten-newsletter-auf-sizilien-begehrt-eine-generation-auf-ein-korallenriff-trotzt-dem-klimawandel](https://www.spiegel.de/ausland/gute-nachrichten-newsletter-auf-sizilien-begehrt-eine-generation-auf-ein-korallenriff-trotzt-dem-klimawandel-a-4620c0df-ccf1-4b28-9a9e-64697a5d8b11#ref=rss)
-### trotzt
-
-* [https://www.spiegel.de/ausland/gute-nachrichten-newsletter-auf-sizilien-begehrt-eine-generation-auf-ein-korallenriff-trotzt-dem-klimawandel](https://www.spiegel.de/ausland/gute-nachrichten-newsletter-auf-sizilien-begehrt-eine-generation-auf-ein-korallenriff-trotzt-dem-klimawandel-a-4620c0df-ccf1-4b28-9a9e-64697a5d8b11#ref=rss)
-### klimawandel
-
-* [https://www.spiegel.de/ausland/gute-nachrichten-newsletter-auf-sizilien-begehrt-eine-generation-auf-ein-korallenriff-trotzt-dem-klimawandel](https://www.spiegel.de/ausland/gute-nachrichten-newsletter-auf-sizilien-begehrt-eine-generation-auf-ein-korallenriff-trotzt-dem-klimawandel-a-4620c0df-ccf1-4b28-9a9e-64697a5d8b11#ref=rss)
-### vertrauensfrage
-
-* [https://www.spiegel.de/politik/deutschland/spd-abgeordneter-warnt-vor-afd-stimmen-bei-vertrauensfrage](https://www.spiegel.de/politik/deutschland/spd-abgeordneter-warnt-vor-afd-stimmen-bei-vertrauensfrage-a-97afc647-7fba-49a8-9c85-c14ce506a2c2#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-will-oelboss-chris-wright-zum-energieminister-machen](https://www.spiegel.de/ausland/usa-donald-trump-will-oelboss-chris-wright-zum-energieminister-machen-a-1191c7a2-216f-4ee6-9669-96fcbca871fb#ref=rss)
 
