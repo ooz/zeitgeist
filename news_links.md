@@ -4,327 +4,322 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### ukraine
-
-* [https://www.spiegel.de/ausland/odessa-in-der-ukraine-ich-wurde-mit-dem-stuhl-weggeschleudert](https://www.spiegel.de/ausland/odessa-in-der-ukraine-ich-wurde-mit-dem-stuhl-weggeschleudert-a-fdba57e2-7750-465a-922c-36ba4b6400dd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-raketen-fuer-die-ukraine-deutsche-unternehmen-profitieren-von-trump-schulfach-glueck](https://www.spiegel.de/politik/deutschland/news-des-tages-raketen-fuer-die-ukraine-deutsche-unternehmen-profitieren-von-trump-schulfach-glueck-a-15d62dcd-0989-46b0-bfbc-6de41f725e7e#ref=rss)
-* [https://www.spiegel.de/politik/ukraine-krieg-erstmals-deutsche-kamikazedrohnen-fuer-kyjiw-was-steckt-hinter-der-deutsche-waffenhilfe](https://www.spiegel.de/politik/ukraine-krieg-erstmals-deutsche-kamikazedrohnen-fuer-kyjiw-was-steckt-hinter-der-deutsche-waffenhilfe-a-9acd52a3-2331-4bbb-80be-d64771176338#ref=rss)
-* [https://www.spiegel.de/ausland/atacms-was-bringt-die-neue-waffen-freigabe-fuer-die-ukraine](https://www.spiegel.de/ausland/atacms-was-bringt-die-neue-waffen-freigabe-fuer-die-ukraine-a-8bc5d82d-291b-4181-b597-510e1d8d1a6e#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-raketen-fuer-die-ukraine-deutsche-unternehmen-profitieren-von-trump-schulfach-glueck](https://www.spiegel.de/politik/deutschland/news-des-tages-raketen-fuer-die-ukraine-deutsche-unternehmen-profitieren-von-trump-schulfach-glueck-a-15d62dcd-0989-46b0-bfbc-6de41f725e7e#ref=rss)
-* [https://www.spiegel.de/politik/ukraine-krieg-erstmals-deutsche-kamikazedrohnen-fuer-kyjiw-was-steckt-hinter-der-deutsche-waffenhilfe](https://www.spiegel.de/politik/ukraine-krieg-erstmals-deutsche-kamikazedrohnen-fuer-kyjiw-was-steckt-hinter-der-deutsche-waffenhilfe-a-9acd52a3-2331-4bbb-80be-d64771176338#ref=rss)
-* [https://www.spiegel.de/auto/bahn-fuehrt-neuen-sparpreis-fuer-geschaeftsreisende-ein](https://www.spiegel.de/auto/bahn-fuehrt-neuen-sparpreis-fuer-geschaeftsreisende-ein-a-e019af22-bb1e-43e1-b53f-e78f2987c593#ref=rss)
-### trump
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-raketen-fuer-die-ukraine-deutsche-unternehmen-profitieren-von-trump-schulfach-glueck](https://www.spiegel.de/politik/deutschland/news-des-tages-raketen-fuer-die-ukraine-deutsche-unternehmen-profitieren-von-trump-schulfach-glueck-a-15d62dcd-0989-46b0-bfbc-6de41f725e7e#ref=rss)
-* [https://www.spiegel.de/ausland/cop29-in-baku-wir-muessen-den-sinn-der-klimakonferenzen-hinterfragen](https://www.spiegel.de/ausland/cop29-in-baku-wir-muessen-den-sinn-der-klimakonferenzen-hinterfragen-a-a20819df-447d-461a-adba-d552940aa9c8#ref=rss)
-* [https://www.spiegel.de/panorama/leute/donald-trump-und-robert-f-kennedy-foto-bringt-rfk-in-erklaerungsnot](https://www.spiegel.de/panorama/leute/donald-trump-und-robert-f-kennedy-foto-bringt-rfk-in-erklaerungsnot-a-8b20a96a-04eb-4eaa-ba71-12370d316014#ref=rss)
-### ich
-
-* [https://www.spiegel.de/ausland/odessa-in-der-ukraine-ich-wurde-mit-dem-stuhl-weggeschleudert](https://www.spiegel.de/ausland/odessa-in-der-ukraine-ich-wurde-mit-dem-stuhl-weggeschleudert-a-fdba57e2-7750-465a-922c-36ba4b6400dd#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/duefte-und-parfuems-mir-wird-von-starken-geruechen-uebel-ist-das-eine-krankheit](https://www.spiegel.de/gesundheit/diagnose/duefte-und-parfuems-mir-wird-von-starken-geruechen-uebel-ist-das-eine-krankheit-a-79512aa0-fdd5-4bba-8093-91d7e60cd8cc#ref=rss)
-### facebook
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/facebook-warum-opfer-des-leaks-recht-bekommen-und-doch-leer-ausgehen](https://www.spiegel.de/netzwelt/netzpolitik/facebook-warum-opfer-des-leaks-recht-bekommen-und-doch-leer-ausgehen-a-f2503fe5-9488-4301-8ebd-938e970c2bbb#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/bgh-spricht-facebook-nutzern-schadenersatzansprueche-zu](https://www.spiegel.de/netzwelt/web/bgh-spricht-facebook-nutzern-schadenersatzansprueche-zu-a-5e34b46f-f218-49e3-95aa-f268b456fd0c#ref=rss)
-### kabinett
-
-* [https://www.spiegel.de/politik/deutschland/gewalthilfegesetz-soll-im-kabinett-beschlossen-werden-was-sagt-der-bundestag](https://www.spiegel.de/politik/deutschland/gewalthilfegesetz-soll-im-kabinett-beschlossen-werden-was-sagt-der-bundestag-a-2528afb7-c0ba-4a75-bb11-62d57cbcc538#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/usa-chris-wright-der-evangelist-der-oelindustrie-in-donald-trumps-kabinett](https://www.spiegel.de/wirtschaft/soziales/usa-chris-wright-der-evangelist-der-oelindustrie-in-donald-trumps-kabinett-a-267137a7-4420-4f4e-aa08-edef213a228c#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/politik/deutschland/gewalthilfegesetz-soll-im-kabinett-beschlossen-werden-was-sagt-der-bundestag](https://www.spiegel.de/politik/deutschland/gewalthilfegesetz-soll-im-kabinett-beschlossen-werden-was-sagt-der-bundestag-a-2528afb7-c0ba-4a75-bb11-62d57cbcc538#ref=rss)
-* [https://www.spiegel.de/ausland/cop29-in-baku-wir-muessen-den-sinn-der-klimakonferenzen-hinterfragen](https://www.spiegel.de/ausland/cop29-in-baku-wir-muessen-den-sinn-der-klimakonferenzen-hinterfragen-a-a20819df-447d-461a-adba-d552940aa9c8#ref=rss)
-* [https://www.spiegel.de/ausland/libanon-droht-wegen-israels-kampf-gegen-die-hisbollah-ein-buergerkrieg](https://www.spiegel.de/ausland/libanon-droht-wegen-israels-kampf-gegen-die-hisbollah-ein-buergerkrieg-a-15407531-6dff-4b55-bffb-8d430b5252f6#ref=rss)
-### israels
-
-* [https://www.spiegel.de/kultur/schelling-architekturstiftung-britischer-kuenstler-wird-renommierten-preis-nicht-erhalten-wegen-israel-boykottaufruf](https://www.spiegel.de/kultur/schelling-architekturstiftung-britischer-kuenstler-wird-renommierten-preis-nicht-erhalten-wegen-israel-boykottaufruf-a-03a63bfb-f4ba-46da-9937-219405e73510#ref=rss)
-* [https://www.spiegel.de/ausland/libanon-droht-wegen-israels-kampf-gegen-die-hisbollah-ein-buergerkrieg](https://www.spiegel.de/ausland/libanon-droht-wegen-israels-kampf-gegen-die-hisbollah-ein-buergerkrieg-a-15407531-6dff-4b55-bffb-8d430b5252f6#ref=rss)
-### tausende
-
-* [https://www.spiegel.de/kultur/schelling-architekturstiftung-britischer-kuenstler-wird-renommierten-preis-nicht-erhalten-wegen-israel-boykottaufruf](https://www.spiegel.de/kultur/schelling-architekturstiftung-britischer-kuenstler-wird-renommierten-preis-nicht-erhalten-wegen-israel-boykottaufruf-a-03a63bfb-f4ba-46da-9937-219405e73510#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/facebook-warum-opfer-des-leaks-recht-bekommen-und-doch-leer-ausgehen](https://www.spiegel.de/netzwelt/netzpolitik/facebook-warum-opfer-des-leaks-recht-bekommen-und-doch-leer-ausgehen-a-f2503fe5-9488-4301-8ebd-938e970c2bbb#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/bgh-spricht-facebook-nutzern-schadenersatzansprueche-zu](https://www.spiegel.de/netzwelt/web/bgh-spricht-facebook-nutzern-schadenersatzansprueche-zu-a-5e34b46f-f218-49e3-95aa-f268b456fd0c#ref=rss)
 ### russland
 
-* [https://www.spiegel.de/ausland/odessa-in-der-ukraine-ich-wurde-mit-dem-stuhl-weggeschleudert](https://www.spiegel.de/ausland/odessa-in-der-ukraine-ich-wurde-mit-dem-stuhl-weggeschleudert-a-fdba57e2-7750-465a-922c-36ba4b6400dd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-raketen-fuer-die-ukraine-deutsche-unternehmen-profitieren-von-trump-schulfach-glueck](https://www.spiegel.de/politik/deutschland/news-des-tages-raketen-fuer-die-ukraine-deutsche-unternehmen-profitieren-von-trump-schulfach-glueck-a-15d62dcd-0989-46b0-bfbc-6de41f725e7e#ref=rss)
-* [https://www.spiegel.de/ausland/atacms-was-bringt-die-neue-waffen-freigabe-fuer-die-ukraine](https://www.spiegel.de/ausland/atacms-was-bringt-die-neue-waffen-freigabe-fuer-die-ukraine-a-8bc5d82d-291b-4181-b597-510e1d8d1a6e#ref=rss)
-### usa
-
-* [https://www.spiegel.de/wirtschaft/soziales/usa-chris-wright-der-evangelist-der-oelindustrie-in-donald-trumps-kabinett](https://www.spiegel.de/wirtschaft/soziales/usa-chris-wright-der-evangelist-der-oelindustrie-in-donald-trumps-kabinett-a-267137a7-4420-4f4e-aa08-edef213a228c#ref=rss)
-* [https://www.spiegel.de/panorama/columbus-in-ohio-neonazis-mit-hakenkreuz-flaggen-sorgen-fuer-entsetzen](https://www.spiegel.de/panorama/columbus-in-ohio-neonazis-mit-hakenkreuz-flaggen-sorgen-fuer-entsetzen-a-92482a82-83da-4e1b-99d0-4256213d4c56#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/opferfamilien-wollen-iran-fuer-das-hamas-massaker-vom-7-oktober-zur-verantwortung-ziehen](https://www.spiegel.de/politik/deutschland/opferfamilien-wollen-iran-fuer-das-hamas-massaker-vom-7-oktober-zur-verantwortung-ziehen-a-1c826e73-b2ff-4291-b348-b1c54c956b60#ref=rss)
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-erlaesst-neue-regeln-zum-einsatz-von-atomwaffen](https://www.spiegel.de/ausland/russland-wladimir-putin-erlaesst-neue-regeln-zum-einsatz-von-atomwaffen-a-1f694e99-4ecd-40a4-85bd-196d9f4cdebd#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-russland-blockiert-uno-resolution-fuer-waffenruhe-im-buergerkrieg](https://www.spiegel.de/ausland/sudan-russland-blockiert-uno-resolution-fuer-waffenruhe-im-buergerkrieg-a-686baffc-775f-42a3-9989-3d14f5ed95cf#ref=rss)
+* [https://www.spiegel.de/ausland/russland-will-beziehungen-zu-den-usa-angeblich-normalisieren](https://www.spiegel.de/ausland/russland-will-beziehungen-zu-den-usa-angeblich-normalisieren-a-63500e6a-d3a7-4cc6-b275-d8a38a0d7753#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/panorama/justiz/berlin-polizeipraesidentin-barbara-slowik-raet-juden-in-teilen-der-stadt-zu-mehr-vorsicht](https://www.spiegel.de/panorama/justiz/berlin-polizeipraesidentin-barbara-slowik-raet-juden-in-teilen-der-stadt-zu-mehr-vorsicht-a-e9234b2d-57b9-4773-9c3e-8b616577a286#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/bgh-spricht-facebook-nutzern-schadenersatzansprueche-zu](https://www.spiegel.de/netzwelt/web/bgh-spricht-facebook-nutzern-schadenersatzansprueche-zu-a-5e34b46f-f218-49e3-95aa-f268b456fd0c#ref=rss)
-* [https://www.spiegel.de/auto/bahn-fuehrt-neuen-sparpreis-fuer-geschaeftsreisende-ein](https://www.spiegel.de/auto/bahn-fuehrt-neuen-sparpreis-fuer-geschaeftsreisende-ein-a-e019af22-bb1e-43e1-b53f-e78f2987c593#ref=rss)
-### neue
-
-* [https://www.spiegel.de/ausland/atacms-was-bringt-die-neue-waffen-freigabe-fuer-die-ukraine](https://www.spiegel.de/ausland/atacms-was-bringt-die-neue-waffen-freigabe-fuer-die-ukraine-a-8bc5d82d-291b-4181-b597-510e1d8d1a6e#ref=rss)
-* [https://www.spiegel.de/politik/bundeswehr-pistorius-nimmt-neue-leichte-kampfhubschrauber-von-airbus-entgegen](https://www.spiegel.de/politik/bundeswehr-pistorius-nimmt-neue-leichte-kampfhubschrauber-von-airbus-entgegen-a-f5b72890-9fba-4a55-a7bd-a66a9be6d7b4#ref=rss)
-### bundestag
-
-* [https://www.spiegel.de/politik/deutschland/gewalthilfegesetz-soll-im-kabinett-beschlossen-werden-was-sagt-der-bundestag](https://www.spiegel.de/politik/deutschland/gewalthilfegesetz-soll-im-kabinett-beschlossen-werden-was-sagt-der-bundestag-a-2528afb7-c0ba-4a75-bb11-62d57cbcc538#ref=rss)
-### jeremy
-
-* [https://www.spiegel.de/panorama/leute/jeremy-allen-white-the-bear-hat-einen-doppelgaenger-oder-dutzende](https://www.spiegel.de/panorama/leute/jeremy-allen-white-the-bear-hat-einen-doppelgaenger-oder-dutzende-a-ab5991f5-a045-4640-b98d-c0fc06100d7c#ref=rss)
-### allen
-
-* [https://www.spiegel.de/panorama/leute/jeremy-allen-white-the-bear-hat-einen-doppelgaenger-oder-dutzende](https://www.spiegel.de/panorama/leute/jeremy-allen-white-the-bear-hat-einen-doppelgaenger-oder-dutzende-a-ab5991f5-a045-4640-b98d-c0fc06100d7c#ref=rss)
-### white
-
-* [https://www.spiegel.de/panorama/leute/jeremy-allen-white-the-bear-hat-einen-doppelgaenger-oder-dutzende](https://www.spiegel.de/panorama/leute/jeremy-allen-white-the-bear-hat-einen-doppelgaenger-oder-dutzende-a-ab5991f5-a045-4640-b98d-c0fc06100d7c#ref=rss)
-### the
-
-* [https://www.spiegel.de/panorama/leute/jeremy-allen-white-the-bear-hat-einen-doppelgaenger-oder-dutzende](https://www.spiegel.de/panorama/leute/jeremy-allen-white-the-bear-hat-einen-doppelgaenger-oder-dutzende-a-ab5991f5-a045-4640-b98d-c0fc06100d7c#ref=rss)
-### bear
-
-* [https://www.spiegel.de/panorama/leute/jeremy-allen-white-the-bear-hat-einen-doppelgaenger-oder-dutzende](https://www.spiegel.de/panorama/leute/jeremy-allen-white-the-bear-hat-einen-doppelgaenger-oder-dutzende-a-ab5991f5-a045-4640-b98d-c0fc06100d7c#ref=rss)
-### odessa
-
-* [https://www.spiegel.de/ausland/odessa-in-der-ukraine-ich-wurde-mit-dem-stuhl-weggeschleudert](https://www.spiegel.de/ausland/odessa-in-der-ukraine-ich-wurde-mit-dem-stuhl-weggeschleudert-a-fdba57e2-7750-465a-922c-36ba4b6400dd#ref=rss)
-### stadt
-
-* [https://www.spiegel.de/ausland/odessa-in-der-ukraine-ich-wurde-mit-dem-stuhl-weggeschleudert](https://www.spiegel.de/ausland/odessa-in-der-ukraine-ich-wurde-mit-dem-stuhl-weggeschleudert-a-fdba57e2-7750-465a-922c-36ba4b6400dd#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-polizeipraesidentin-barbara-slowik-raet-juden-in-teilen-der-stadt-zu-mehr-vorsicht](https://www.spiegel.de/panorama/justiz/berlin-polizeipraesidentin-barbara-slowik-raet-juden-in-teilen-der-stadt-zu-mehr-vorsicht-a-e9234b2d-57b9-4773-9c3e-8b616577a286#ref=rss)
-### chris
-
-* [https://www.spiegel.de/wirtschaft/soziales/usa-chris-wright-der-evangelist-der-oelindustrie-in-donald-trumps-kabinett](https://www.spiegel.de/wirtschaft/soziales/usa-chris-wright-der-evangelist-der-oelindustrie-in-donald-trumps-kabinett-a-267137a7-4420-4f4e-aa08-edef213a228c#ref=rss)
-### wright
-
-* [https://www.spiegel.de/wirtschaft/soziales/usa-chris-wright-der-evangelist-der-oelindustrie-in-donald-trumps-kabinett](https://www.spiegel.de/wirtschaft/soziales/usa-chris-wright-der-evangelist-der-oelindustrie-in-donald-trumps-kabinett-a-267137a7-4420-4f4e-aa08-edef213a228c#ref=rss)
-### donald
-
-* [https://www.spiegel.de/wirtschaft/soziales/usa-chris-wright-der-evangelist-der-oelindustrie-in-donald-trumps-kabinett](https://www.spiegel.de/wirtschaft/soziales/usa-chris-wright-der-evangelist-der-oelindustrie-in-donald-trumps-kabinett-a-267137a7-4420-4f4e-aa08-edef213a228c#ref=rss)
-* [https://www.spiegel.de/panorama/leute/donald-trump-und-robert-f-kennedy-foto-bringt-rfk-in-erklaerungsnot](https://www.spiegel.de/panorama/leute/donald-trump-und-robert-f-kennedy-foto-bringt-rfk-in-erklaerungsnot-a-8b20a96a-04eb-4eaa-ba71-12370d316014#ref=rss)
-### ostsee
-
-* [https://www.spiegel.de/netzwelt/ostsee-unterseekabel-zwischen-finnland-und-deutschland-defekt](https://www.spiegel.de/netzwelt/ostsee-unterseekabel-zwischen-finnland-und-deutschland-defekt-a-6664b203-a605-4e55-b639-9633de7b4263#ref=rss)
-### finnland
-
-* [https://www.spiegel.de/netzwelt/ostsee-unterseekabel-zwischen-finnland-und-deutschland-defekt](https://www.spiegel.de/netzwelt/ostsee-unterseekabel-zwischen-finnland-und-deutschland-defekt-a-6664b203-a605-4e55-b639-9633de7b4263#ref=rss)
-* [https://www.spiegel.de/ausland/schweden-finnland-und-norwegen-bereiten-bewohner-auf-moeglichen-krieg-vor](https://www.spiegel.de/ausland/schweden-finnland-und-norwegen-bereiten-bewohner-auf-moeglichen-krieg-vor-a-3387e224-4025-44f0-bc24-d4b4684763e9#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-tuerkische-angriffe-unterbrechen-wasserversorgung-fuer-eine-million-menschen](https://www.spiegel.de/ausland/syrien-tuerkische-angriffe-unterbrechen-wasserversorgung-fuer-eine-million-menschen-a-5c709136-262f-4761-8129-22c258af9c54#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/fernseher-werden-erneut-billiger](https://www.spiegel.de/wirtschaft/service/fernseher-werden-erneut-billiger-a-820f0e19-7c9c-4360-9c26-250c1b0afb45#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/marco-wanderwitz-ex-ostbeauftragter-will-zum-schutz-seiner-familie-nicht-mehr-in-den-bundestag](https://www.spiegel.de/politik/deutschland/marco-wanderwitz-ex-ostbeauftragter-will-zum-schutz-seiner-familie-nicht-mehr-in-den-bundestag-a-106ba4e5-7015-4107-8eff-081ccf0f87e7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/decathlon-will-mehr-als-60-neue-filialen-in-deutschland-eroeffnen](https://www.spiegel.de/wirtschaft/unternehmen/decathlon-will-mehr-als-60-neue-filialen-in-deutschland-eroeffnen-a-050950ff-a383-4960-9ad4-1778138179ac#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/netzwelt/ostsee-unterseekabel-zwischen-finnland-und-deutschland-defekt](https://www.spiegel.de/netzwelt/ostsee-unterseekabel-zwischen-finnland-und-deutschland-defekt-a-6664b203-a605-4e55-b639-9633de7b4263#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/bgh-spricht-facebook-nutzern-schadenersatzansprueche-zu](https://www.spiegel.de/netzwelt/web/bgh-spricht-facebook-nutzern-schadenersatzansprueche-zu-a-5e34b46f-f218-49e3-95aa-f268b456fd0c#ref=rss)
-### defekt
+* [https://www.spiegel.de/panorama/justiz/statistik-des-bka-anstieg-bei-gewalttaten-gegen-frauen-gezaehlt](https://www.spiegel.de/panorama/justiz/statistik-des-bka-anstieg-bei-gewalttaten-gegen-frauen-gezaehlt-a-2058c050-872d-4f3f-b14c-a0f5822602ad#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-es-wird-stuermisch-und-nass-und-schneit-ein-bisschen](https://www.spiegel.de/panorama/wetter-in-deutschland-es-wird-stuermisch-und-nass-und-schneit-ein-bisschen-a-d3eabf99-58bb-40f6-bf76-344812e9e06d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/decathlon-will-mehr-als-60-neue-filialen-in-deutschland-eroeffnen](https://www.spiegel.de/wirtschaft/unternehmen/decathlon-will-mehr-als-60-neue-filialen-in-deutschland-eroeffnen-a-050950ff-a383-4960-9ad4-1778138179ac#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/netzwelt/ostsee-unterseekabel-zwischen-finnland-und-deutschland-defekt](https://www.spiegel.de/netzwelt/ostsee-unterseekabel-zwischen-finnland-und-deutschland-defekt-a-6664b203-a605-4e55-b639-9633de7b4263#ref=rss)
-### krieg
+* [https://www.spiegel.de/panorama/bildung/spiegel-bildungsnewsletter-gedenken-an-den-missbrauch-endlich](https://www.spiegel.de/panorama/bildung/spiegel-bildungsnewsletter-gedenken-an-den-missbrauch-endlich-a-5331fe9f-3768-4d0e-9b30-5d045588d088#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-russland-blockiert-uno-resolution-fuer-waffenruhe-im-buergerkrieg](https://www.spiegel.de/ausland/sudan-russland-blockiert-uno-resolution-fuer-waffenruhe-im-buergerkrieg-a-686baffc-775f-42a3-9989-3d14f5ed95cf#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/fernseher-werden-erneut-billiger](https://www.spiegel.de/wirtschaft/service/fernseher-werden-erneut-billiger-a-820f0e19-7c9c-4360-9c26-250c1b0afb45#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-justiz-entlaesst-im-rahmen-der-weihnachtsamnestie-fast-hundert-gefangene](https://www.spiegel.de/panorama/justiz/berlin-justiz-entlaesst-im-rahmen-der-weihnachtsamnestie-fast-hundert-gefangene-a-1f9a48ad-da6e-4a93-8120-3bef3a405275#ref=rss)
+### deutlich
 
-* [https://www.spiegel.de/ausland/schweden-finnland-und-norwegen-bereiten-bewohner-auf-moeglichen-krieg-vor](https://www.spiegel.de/ausland/schweden-finnland-und-norwegen-bereiten-bewohner-auf-moeglichen-krieg-vor-a-3387e224-4025-44f0-bc24-d4b4684763e9#ref=rss)
-### görlitz
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-erlaesst-neue-regeln-zum-einsatz-von-atomwaffen](https://www.spiegel.de/ausland/russland-wladimir-putin-erlaesst-neue-regeln-zum-einsatz-von-atomwaffen-a-1f694e99-4ecd-40a4-85bd-196d9f4cdebd#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-justiz-entlaesst-im-rahmen-der-weihnachtsamnestie-fast-hundert-gefangene](https://www.spiegel.de/panorama/justiz/berlin-justiz-entlaesst-im-rahmen-der-weihnachtsamnestie-fast-hundert-gefangene-a-1f9a48ad-da6e-4a93-8120-3bef3a405275#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/decathlon-will-mehr-als-60-neue-filialen-in-deutschland-eroeffnen](https://www.spiegel.de/wirtschaft/unternehmen/decathlon-will-mehr-als-60-neue-filialen-in-deutschland-eroeffnen-a-050950ff-a383-4960-9ad4-1778138179ac#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/google-soll-offenbar-chrome-verkaufen-kartellverfahren-in-den-usa](https://www.spiegel.de/netzwelt/netzpolitik/google-soll-offenbar-chrome-verkaufen-kartellverfahren-in-den-usa-a-88ae8f77-afa2-4ac8-a51e-6143f8821d22#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/politik/deutschland/goerlitz-bsw-mann-demonstriert-zusammen-mit-rechtsextremisten-fuer-frieden-und-abruestung](https://www.spiegel.de/politik/deutschland/goerlitz-bsw-mann-demonstriert-zusammen-mit-rechtsextremisten-fuer-frieden-und-abruestung-a-bcdff34d-d612-4dee-b737-f896ebf1cb53#ref=rss)
-### raketen
+* [https://www.spiegel.de/kultur/musik/pop-ikone-cher-bringt-ihre-memoiren-in-zwei-teilen-heraus](https://www.spiegel.de/kultur/musik/pop-ikone-cher-bringt-ihre-memoiren-in-zwei-teilen-heraus-a-1867fe43-035b-44bc-bacf-42aaa0e463c0#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-russland-blockiert-uno-resolution-fuer-waffenruhe-im-buergerkrieg](https://www.spiegel.de/ausland/sudan-russland-blockiert-uno-resolution-fuer-waffenruhe-im-buergerkrieg-a-686baffc-775f-42a3-9989-3d14f5ed95cf#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nations-league-san-marino-feiert-ersten-auswaertssieg-seiner-geschichte](https://www.spiegel.de/sport/fussball/nations-league-san-marino-feiert-ersten-auswaertssieg-seiner-geschichte-a-62cfeef9-9ee7-4405-af15-fbaebbfd71b0#ref=rss)
+* [https://www.spiegel.de/ausland/russland-will-beziehungen-zu-den-usa-angeblich-normalisieren](https://www.spiegel.de/ausland/russland-will-beziehungen-zu-den-usa-angeblich-normalisieren-a-63500e6a-d3a7-4cc6-b275-d8a38a0d7753#ref=rss)
+### land
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-raketen-fuer-die-ukraine-deutsche-unternehmen-profitieren-von-trump-schulfach-glueck](https://www.spiegel.de/politik/deutschland/news-des-tages-raketen-fuer-die-ukraine-deutsche-unternehmen-profitieren-von-trump-schulfach-glueck-a-15d62dcd-0989-46b0-bfbc-6de41f725e7e#ref=rss)
-* [https://www.spiegel.de/ausland/atacms-was-bringt-die-neue-waffen-freigabe-fuer-die-ukraine](https://www.spiegel.de/ausland/atacms-was-bringt-die-neue-waffen-freigabe-fuer-die-ukraine-a-8bc5d82d-291b-4181-b597-510e1d8d1a6e#ref=rss)
-### glück
+* [https://www.spiegel.de/wirtschaft/klimaschutz-daenemark-besteuert-furzende-kuehe-und-schweine](https://www.spiegel.de/wirtschaft/klimaschutz-daenemark-besteuert-furzende-kuehe-und-schweine-a-62ca627e-2a47-4632-821a-e1a7395f5c0c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nations-league-san-marino-feiert-ersten-auswaertssieg-seiner-geschichte](https://www.spiegel.de/sport/fussball/nations-league-san-marino-feiert-ersten-auswaertssieg-seiner-geschichte-a-62cfeef9-9ee7-4405-af15-fbaebbfd71b0#ref=rss)
+* [https://www.spiegel.de/ausland/jean-claude-juncker-bringt-eu-teilmitgliedschaft-der-ukraine-ins-spiel](https://www.spiegel.de/ausland/jean-claude-juncker-bringt-eu-teilmitgliedschaft-der-ukraine-ins-spiel-a-00cabe82-5c32-4309-9331-dccfed0c07b0#ref=rss)
+* [https://www.spiegel.de/ausland/russland-will-beziehungen-zu-den-usa-angeblich-normalisieren](https://www.spiegel.de/ausland/russland-will-beziehungen-zu-den-usa-angeblich-normalisieren-a-63500e6a-d3a7-4cc6-b275-d8a38a0d7753#ref=rss)
+### olaf
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-raketen-fuer-die-ukraine-deutsche-unternehmen-profitieren-von-trump-schulfach-glueck](https://www.spiegel.de/politik/deutschland/news-des-tages-raketen-fuer-die-ukraine-deutsche-unternehmen-profitieren-von-trump-schulfach-glueck-a-15d62dcd-0989-46b0-bfbc-6de41f725e7e#ref=rss)
-### düfte
+* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-warnt-vor-weiter-so-mit-kanzlerkandidat-olaf-scholz](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-warnt-vor-weiter-so-mit-kanzlerkandidat-olaf-scholz-a-d4888b93-993b-4a2a-87fd-8c492c6792b2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/norbert-walter-borjans-ex-spd-chef-geht-in-k-frage-auf-distanz-zu-olaf-scholz](https://www.spiegel.de/politik/deutschland/norbert-walter-borjans-ex-spd-chef-geht-in-k-frage-auf-distanz-zu-olaf-scholz-a-15825d84-3696-4a01-91cb-e27db8e469cb#ref=rss)
+### scholz
 
-* [https://www.spiegel.de/gesundheit/diagnose/duefte-und-parfuems-mir-wird-von-starken-geruechen-uebel-ist-das-eine-krankheit](https://www.spiegel.de/gesundheit/diagnose/duefte-und-parfuems-mir-wird-von-starken-geruechen-uebel-ist-das-eine-krankheit-a-79512aa0-fdd5-4bba-8093-91d7e60cd8cc#ref=rss)
-### mir
+* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-warnt-vor-weiter-so-mit-kanzlerkandidat-olaf-scholz](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-warnt-vor-weiter-so-mit-kanzlerkandidat-olaf-scholz-a-d4888b93-993b-4a2a-87fd-8c492c6792b2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/norbert-walter-borjans-ex-spd-chef-geht-in-k-frage-auf-distanz-zu-olaf-scholz](https://www.spiegel.de/politik/deutschland/norbert-walter-borjans-ex-spd-chef-geht-in-k-frage-auf-distanz-zu-olaf-scholz-a-15825d84-3696-4a01-91cb-e27db8e469cb#ref=rss)
+### türkische
 
-* [https://www.spiegel.de/gesundheit/diagnose/duefte-und-parfuems-mir-wird-von-starken-geruechen-uebel-ist-das-eine-krankheit](https://www.spiegel.de/gesundheit/diagnose/duefte-und-parfuems-mir-wird-von-starken-geruechen-uebel-ist-das-eine-krankheit-a-79512aa0-fdd5-4bba-8093-91d7e60cd8cc#ref=rss)
-### allein
+* [https://www.spiegel.de/ausland/syrien-tuerkische-angriffe-unterbrechen-wasserversorgung-fuer-eine-million-menschen](https://www.spiegel.de/ausland/syrien-tuerkische-angriffe-unterbrechen-wasserversorgung-fuer-eine-million-menschen-a-5c709136-262f-4761-8129-22c258af9c54#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/gesundheit/diagnose/duefte-und-parfuems-mir-wird-von-starken-geruechen-uebel-ist-das-eine-krankheit](https://www.spiegel.de/gesundheit/diagnose/duefte-und-parfuems-mir-wird-von-starken-geruechen-uebel-ist-das-eine-krankheit-a-79512aa0-fdd5-4bba-8093-91d7e60cd8cc#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/bgh-spricht-facebook-nutzern-schadenersatzansprueche-zu](https://www.spiegel.de/netzwelt/web/bgh-spricht-facebook-nutzern-schadenersatzansprueche-zu-a-5e34b46f-f218-49e3-95aa-f268b456fd0c#ref=rss)
-### bekommen
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/facebook-warum-opfer-des-leaks-recht-bekommen-und-doch-leer-ausgehen](https://www.spiegel.de/netzwelt/netzpolitik/facebook-warum-opfer-des-leaks-recht-bekommen-und-doch-leer-ausgehen-a-f2503fe5-9488-4301-8ebd-938e970c2bbb#ref=rss)
-### bgh
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/facebook-warum-opfer-des-leaks-recht-bekommen-und-doch-leer-ausgehen](https://www.spiegel.de/netzwelt/netzpolitik/facebook-warum-opfer-des-leaks-recht-bekommen-und-doch-leer-ausgehen-a-f2503fe5-9488-4301-8ebd-938e970c2bbb#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/bgh-spricht-facebook-nutzern-schadenersatzansprueche-zu](https://www.spiegel.de/netzwelt/web/bgh-spricht-facebook-nutzern-schadenersatzansprueche-zu-a-5e34b46f-f218-49e3-95aa-f268b456fd0c#ref=rss)
-### betroffene
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/facebook-warum-opfer-des-leaks-recht-bekommen-und-doch-leer-ausgehen](https://www.spiegel.de/netzwelt/netzpolitik/facebook-warum-opfer-des-leaks-recht-bekommen-und-doch-leer-ausgehen-a-f2503fe5-9488-4301-8ebd-938e970c2bbb#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/bgh-spricht-facebook-nutzern-schadenersatzansprueche-zu](https://www.spiegel.de/netzwelt/web/bgh-spricht-facebook-nutzern-schadenersatzansprueche-zu-a-5e34b46f-f218-49e3-95aa-f268b456fd0c#ref=rss)
-### baku
-
-* [https://www.spiegel.de/ausland/cop29-in-baku-wir-muessen-den-sinn-der-klimakonferenzen-hinterfragen](https://www.spiegel.de/ausland/cop29-in-baku-wir-muessen-den-sinn-der-klimakonferenzen-hinterfragen-a-a20819df-447d-461a-adba-d552940aa9c8#ref=rss)
-### wir
-
-* [https://www.spiegel.de/ausland/cop29-in-baku-wir-muessen-den-sinn-der-klimakonferenzen-hinterfragen](https://www.spiegel.de/ausland/cop29-in-baku-wir-muessen-den-sinn-der-klimakonferenzen-hinterfragen-a-a20819df-447d-461a-adba-d552940aa9c8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-polizeipraesidentin-barbara-slowik-raet-juden-in-teilen-der-stadt-zu-mehr-vorsicht](https://www.spiegel.de/panorama/justiz/berlin-polizeipraesidentin-barbara-slowik-raet-juden-in-teilen-der-stadt-zu-mehr-vorsicht-a-e9234b2d-57b9-4773-9c3e-8b616577a286#ref=rss)
-### experte
-
-* [https://www.spiegel.de/ausland/cop29-in-baku-wir-muessen-den-sinn-der-klimakonferenzen-hinterfragen](https://www.spiegel.de/ausland/cop29-in-baku-wir-muessen-den-sinn-der-klimakonferenzen-hinterfragen-a-a20819df-447d-461a-adba-d552940aa9c8#ref=rss)
-* [https://www.spiegel.de/ausland/libanon-droht-wegen-israels-kampf-gegen-die-hisbollah-ein-buergerkrieg](https://www.spiegel.de/ausland/libanon-droht-wegen-israels-kampf-gegen-die-hisbollah-ein-buergerkrieg-a-15407531-6dff-4b55-bffb-8d430b5252f6#ref=rss)
-### libanon
-
-* [https://www.spiegel.de/ausland/libanon-droht-wegen-israels-kampf-gegen-die-hisbollah-ein-buergerkrieg](https://www.spiegel.de/ausland/libanon-droht-wegen-israels-kampf-gegen-die-hisbollah-ein-buergerkrieg-a-15407531-6dff-4b55-bffb-8d430b5252f6#ref=rss)
-### kampf
-
-* [https://www.spiegel.de/ausland/libanon-droht-wegen-israels-kampf-gegen-die-hisbollah-ein-buergerkrieg](https://www.spiegel.de/ausland/libanon-droht-wegen-israels-kampf-gegen-die-hisbollah-ein-buergerkrieg-a-15407531-6dff-4b55-bffb-8d430b5252f6#ref=rss)
-### hisbollah
-
-* [https://www.spiegel.de/ausland/libanon-droht-wegen-israels-kampf-gegen-die-hisbollah-ein-buergerkrieg](https://www.spiegel.de/ausland/libanon-droht-wegen-israels-kampf-gegen-die-hisbollah-ein-buergerkrieg-a-15407531-6dff-4b55-bffb-8d430b5252f6#ref=rss)
-### bringen
-
-* [https://www.spiegel.de/ausland/libanon-droht-wegen-israels-kampf-gegen-die-hisbollah-ein-buergerkrieg](https://www.spiegel.de/ausland/libanon-droht-wegen-israels-kampf-gegen-die-hisbollah-ein-buergerkrieg-a-15407531-6dff-4b55-bffb-8d430b5252f6#ref=rss)
-* [https://www.spiegel.de/panorama/leute/donald-trump-und-robert-f-kennedy-foto-bringt-rfk-in-erklaerungsnot](https://www.spiegel.de/panorama/leute/donald-trump-und-robert-f-kennedy-foto-bringt-rfk-in-erklaerungsnot-a-8b20a96a-04eb-4eaa-ba71-12370d316014#ref=rss)
-### hakenkreuzfahnen
-
-* [https://www.spiegel.de/panorama/columbus-in-ohio-neonazis-mit-hakenkreuz-flaggen-sorgen-fuer-entsetzen](https://www.spiegel.de/panorama/columbus-in-ohio-neonazis-mit-hakenkreuz-flaggen-sorgen-fuer-entsetzen-a-92482a82-83da-4e1b-99d0-4256213d4c56#ref=rss)
-### charles
-
-* [https://www.spiegel.de/kultur/musik/charles-dumont-ist-tot-er-komponierte-non-je-ne-regrette-rien-fuer-edith-piaf](https://www.spiegel.de/kultur/musik/charles-dumont-ist-tot-er-komponierte-non-je-ne-regrette-rien-fuer-edith-piaf-a-e484a6b7-7d9c-4473-9030-3edb37b26de6#ref=rss)
-### dumont
-
-* [https://www.spiegel.de/kultur/musik/charles-dumont-ist-tot-er-komponierte-non-je-ne-regrette-rien-fuer-edith-piaf](https://www.spiegel.de/kultur/musik/charles-dumont-ist-tot-er-komponierte-non-je-ne-regrette-rien-fuer-edith-piaf-a-e484a6b7-7d9c-4473-9030-3edb37b26de6#ref=rss)
-### non
-
-* [https://www.spiegel.de/kultur/musik/charles-dumont-ist-tot-er-komponierte-non-je-ne-regrette-rien-fuer-edith-piaf](https://www.spiegel.de/kultur/musik/charles-dumont-ist-tot-er-komponierte-non-je-ne-regrette-rien-fuer-edith-piaf-a-e484a6b7-7d9c-4473-9030-3edb37b26de6#ref=rss)
-### je
-
-* [https://www.spiegel.de/kultur/musik/charles-dumont-ist-tot-er-komponierte-non-je-ne-regrette-rien-fuer-edith-piaf](https://www.spiegel.de/kultur/musik/charles-dumont-ist-tot-er-komponierte-non-je-ne-regrette-rien-fuer-edith-piaf-a-e484a6b7-7d9c-4473-9030-3edb37b26de6#ref=rss)
-### ne
-
-* [https://www.spiegel.de/kultur/musik/charles-dumont-ist-tot-er-komponierte-non-je-ne-regrette-rien-fuer-edith-piaf](https://www.spiegel.de/kultur/musik/charles-dumont-ist-tot-er-komponierte-non-je-ne-regrette-rien-fuer-edith-piaf-a-e484a6b7-7d9c-4473-9030-3edb37b26de6#ref=rss)
-### regrette
-
-* [https://www.spiegel.de/kultur/musik/charles-dumont-ist-tot-er-komponierte-non-je-ne-regrette-rien-fuer-edith-piaf](https://www.spiegel.de/kultur/musik/charles-dumont-ist-tot-er-komponierte-non-je-ne-regrette-rien-fuer-edith-piaf-a-e484a6b7-7d9c-4473-9030-3edb37b26de6#ref=rss)
-### rien
-
-* [https://www.spiegel.de/kultur/musik/charles-dumont-ist-tot-er-komponierte-non-je-ne-regrette-rien-fuer-edith-piaf](https://www.spiegel.de/kultur/musik/charles-dumont-ist-tot-er-komponierte-non-je-ne-regrette-rien-fuer-edith-piaf-a-e484a6b7-7d9c-4473-9030-3edb37b26de6#ref=rss)
-### édith
-
-* [https://www.spiegel.de/kultur/musik/charles-dumont-ist-tot-er-komponierte-non-je-ne-regrette-rien-fuer-edith-piaf](https://www.spiegel.de/kultur/musik/charles-dumont-ist-tot-er-komponierte-non-je-ne-regrette-rien-fuer-edith-piaf-a-e484a6b7-7d9c-4473-9030-3edb37b26de6#ref=rss)
-### piaf
-
-* [https://www.spiegel.de/kultur/musik/charles-dumont-ist-tot-er-komponierte-non-je-ne-regrette-rien-fuer-edith-piaf](https://www.spiegel.de/kultur/musik/charles-dumont-ist-tot-er-komponierte-non-je-ne-regrette-rien-fuer-edith-piaf-a-e484a6b7-7d9c-4473-9030-3edb37b26de6#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/kultur/musik/charles-dumont-ist-tot-er-komponierte-non-je-ne-regrette-rien-fuer-edith-piaf](https://www.spiegel.de/kultur/musik/charles-dumont-ist-tot-er-komponierte-non-je-ne-regrette-rien-fuer-edith-piaf-a-e484a6b7-7d9c-4473-9030-3edb37b26de6#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/kleiner-vogel-bleibt-80-millionen-jahre-konserviert](https://www.spiegel.de/wissenschaft/natur/kleiner-vogel-bleibt-80-millionen-jahre-konserviert-a-ff5be929-eb54-46d6-b226-ea0d1e92ce2c#ref=rss)
-### iran
-
-* [https://www.spiegel.de/politik/deutschland/opferfamilien-wollen-iran-fuer-das-hamas-massaker-vom-7-oktober-zur-verantwortung-ziehen](https://www.spiegel.de/politik/deutschland/opferfamilien-wollen-iran-fuer-das-hamas-massaker-vom-7-oktober-zur-verantwortung-ziehen-a-1c826e73-b2ff-4291-b348-b1c54c956b60#ref=rss)
-### 7
-
-* [https://www.spiegel.de/politik/deutschland/opferfamilien-wollen-iran-fuer-das-hamas-massaker-vom-7-oktober-zur-verantwortung-ziehen](https://www.spiegel.de/politik/deutschland/opferfamilien-wollen-iran-fuer-das-hamas-massaker-vom-7-oktober-zur-verantwortung-ziehen-a-1c826e73-b2ff-4291-b348-b1c54c956b60#ref=rss)
-### oktober
-
-* [https://www.spiegel.de/politik/deutschland/opferfamilien-wollen-iran-fuer-das-hamas-massaker-vom-7-oktober-zur-verantwortung-ziehen](https://www.spiegel.de/politik/deutschland/opferfamilien-wollen-iran-fuer-das-hamas-massaker-vom-7-oktober-zur-verantwortung-ziehen-a-1c826e73-b2ff-4291-b348-b1c54c956b60#ref=rss)
-### erstmals
-
-* [https://www.spiegel.de/politik/ukraine-krieg-erstmals-deutsche-kamikazedrohnen-fuer-kyjiw-was-steckt-hinter-der-deutsche-waffenhilfe](https://www.spiegel.de/politik/ukraine-krieg-erstmals-deutsche-kamikazedrohnen-fuer-kyjiw-was-steckt-hinter-der-deutsche-waffenhilfe-a-9acd52a3-2331-4bbb-80be-d64771176338#ref=rss)
-### kamikazedrohnen
-
-* [https://www.spiegel.de/politik/ukraine-krieg-erstmals-deutsche-kamikazedrohnen-fuer-kyjiw-was-steckt-hinter-der-deutsche-waffenhilfe](https://www.spiegel.de/politik/ukraine-krieg-erstmals-deutsche-kamikazedrohnen-fuer-kyjiw-was-steckt-hinter-der-deutsche-waffenhilfe-a-9acd52a3-2331-4bbb-80be-d64771176338#ref=rss)
-### robert
-
-* [https://www.spiegel.de/panorama/leute/donald-trump-und-robert-f-kennedy-foto-bringt-rfk-in-erklaerungsnot](https://www.spiegel.de/panorama/leute/donald-trump-und-robert-f-kennedy-foto-bringt-rfk-in-erklaerungsnot-a-8b20a96a-04eb-4eaa-ba71-12370d316014#ref=rss)
-### f
-
-* [https://www.spiegel.de/panorama/leute/donald-trump-und-robert-f-kennedy-foto-bringt-rfk-in-erklaerungsnot](https://www.spiegel.de/panorama/leute/donald-trump-und-robert-f-kennedy-foto-bringt-rfk-in-erklaerungsnot-a-8b20a96a-04eb-4eaa-ba71-12370d316014#ref=rss)
-### kennedy
-
-* [https://www.spiegel.de/panorama/leute/donald-trump-und-robert-f-kennedy-foto-bringt-rfk-in-erklaerungsnot](https://www.spiegel.de/panorama/leute/donald-trump-und-robert-f-kennedy-foto-bringt-rfk-in-erklaerungsnot-a-8b20a96a-04eb-4eaa-ba71-12370d316014#ref=rss)
-### foto
-
-* [https://www.spiegel.de/panorama/leute/donald-trump-und-robert-f-kennedy-foto-bringt-rfk-in-erklaerungsnot](https://www.spiegel.de/panorama/leute/donald-trump-und-robert-f-kennedy-foto-bringt-rfk-in-erklaerungsnot-a-8b20a96a-04eb-4eaa-ba71-12370d316014#ref=rss)
-### bringt
-
-* [https://www.spiegel.de/panorama/leute/donald-trump-und-robert-f-kennedy-foto-bringt-rfk-in-erklaerungsnot](https://www.spiegel.de/panorama/leute/donald-trump-und-robert-f-kennedy-foto-bringt-rfk-in-erklaerungsnot-a-8b20a96a-04eb-4eaa-ba71-12370d316014#ref=rss)
-* [https://www.spiegel.de/ausland/atacms-was-bringt-die-neue-waffen-freigabe-fuer-die-ukraine](https://www.spiegel.de/ausland/atacms-was-bringt-die-neue-waffen-freigabe-fuer-die-ukraine-a-8bc5d82d-291b-4181-b597-510e1d8d1a6e#ref=rss)
-### erklärungsnot
-
-* [https://www.spiegel.de/panorama/leute/donald-trump-und-robert-f-kennedy-foto-bringt-rfk-in-erklaerungsnot](https://www.spiegel.de/panorama/leute/donald-trump-und-robert-f-kennedy-foto-bringt-rfk-in-erklaerungsnot-a-8b20a96a-04eb-4eaa-ba71-12370d316014#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/boris-pistorius-verteidigungsminister-aeussert-zweifel-an-versehentlicher-beschaedigung-von-ostseekabeln](https://www.spiegel.de/politik/deutschland/boris-pistorius-verteidigungsminister-aeussert-zweifel-an-versehentlicher-beschaedigung-von-ostseekabeln-a-953479e7-e6c0-45f6-b88a-fc181e8f93e9#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-justiz-entlaesst-im-rahmen-der-weihnachtsamnestie-fast-hundert-gefangene](https://www.spiegel.de/panorama/justiz/berlin-justiz-entlaesst-im-rahmen-der-weihnachtsamnestie-fast-hundert-gefangene-a-1f9a48ad-da6e-4a93-8120-3bef3a405275#ref=rss)
 ### familie
 
-* [https://www.spiegel.de/panorama/leute/donald-trump-und-robert-f-kennedy-foto-bringt-rfk-in-erklaerungsnot](https://www.spiegel.de/panorama/leute/donald-trump-und-robert-f-kennedy-foto-bringt-rfk-in-erklaerungsnot-a-8b20a96a-04eb-4eaa-ba71-12370d316014#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/prinz-william-einbruch-auf-gelaende-von-schloss-windsor-waehrend-er-und-seine-familie-schliefen](https://www.spiegel.de/panorama/justiz/prinz-william-einbruch-auf-gelaende-von-schloss-windsor-waehrend-er-und-seine-familie-schliefen-a-f4b57249-6f27-463a-8cfc-98ceb745f386#ref=rss)
+* [https://www.spiegel.de/ausland/eva-longoria-begruendet-ihren-wegzug-nun-doch-nicht-mit-trump](https://www.spiegel.de/ausland/eva-longoria-begruendet-ihren-wegzug-nun-doch-nicht-mit-trump-a-cafc71ab-151f-43b8-afce-cc2118c0c9a5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/marco-wanderwitz-ex-ostbeauftragter-will-zum-schutz-seiner-familie-nicht-mehr-in-den-bundestag](https://www.spiegel.de/politik/deutschland/marco-wanderwitz-ex-ostbeauftragter-will-zum-schutz-seiner-familie-nicht-mehr-in-den-bundestag-a-106ba4e5-7015-4107-8eff-081ccf0f87e7#ref=rss)
+### bundestag
+
+* [https://www.spiegel.de/politik/deutschland/marco-wanderwitz-ex-ostbeauftragter-will-zum-schutz-seiner-familie-nicht-mehr-in-den-bundestag](https://www.spiegel.de/politik/deutschland/marco-wanderwitz-ex-ostbeauftragter-will-zum-schutz-seiner-familie-nicht-mehr-in-den-bundestag-a-106ba4e5-7015-4107-8eff-081ccf0f87e7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-will-doch-noch-mal-fuer-den-bundestag-kandidieren](https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-will-doch-noch-mal-fuer-den-bundestag-kandidieren-a-4ed20719-71bc-4219-8e76-25da7ad751c6#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/russland-will-beziehungen-zu-den-usa-angeblich-normalisieren](https://www.spiegel.de/ausland/russland-will-beziehungen-zu-den-usa-angeblich-normalisieren-a-63500e6a-d3a7-4cc6-b275-d8a38a0d7753#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/google-soll-offenbar-chrome-verkaufen-kartellverfahren-in-den-usa](https://www.spiegel.de/netzwelt/netzpolitik/google-soll-offenbar-chrome-verkaufen-kartellverfahren-in-den-usa-a-88ae8f77-afa2-4ac8-a51e-6143f8821d22#ref=rss)
+### sigmar
+
+* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-warnt-vor-weiter-so-mit-kanzlerkandidat-olaf-scholz](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-warnt-vor-weiter-so-mit-kanzlerkandidat-olaf-scholz-a-d4888b93-993b-4a2a-87fd-8c492c6792b2#ref=rss)
+### gabriel
+
+* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-warnt-vor-weiter-so-mit-kanzlerkandidat-olaf-scholz](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-warnt-vor-weiter-so-mit-kanzlerkandidat-olaf-scholz-a-d4888b93-993b-4a2a-87fd-8c492c6792b2#ref=rss)
+### warnt
+
+* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-warnt-vor-weiter-so-mit-kanzlerkandidat-olaf-scholz](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-warnt-vor-weiter-so-mit-kanzlerkandidat-olaf-scholz-a-d4888b93-993b-4a2a-87fd-8c492c6792b2#ref=rss)
+### kanzlerkandidat
+
+* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-warnt-vor-weiter-so-mit-kanzlerkandidat-olaf-scholz](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-warnt-vor-weiter-so-mit-kanzlerkandidat-olaf-scholz-a-d4888b93-993b-4a2a-87fd-8c492c6792b2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/norbert-walter-borjans-ex-spd-chef-geht-in-k-frage-auf-distanz-zu-olaf-scholz](https://www.spiegel.de/politik/deutschland/norbert-walter-borjans-ex-spd-chef-geht-in-k-frage-auf-distanz-zu-olaf-scholz-a-15825d84-3696-4a01-91cb-e27db8e469cb#ref=rss)
+### drängt
+
+* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-warnt-vor-weiter-so-mit-kanzlerkandidat-olaf-scholz](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-warnt-vor-weiter-so-mit-kanzlerkandidat-olaf-scholz-a-d4888b93-993b-4a2a-87fd-8c492c6792b2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/norbert-walter-borjans-ex-spd-chef-geht-in-k-frage-auf-distanz-zu-olaf-scholz](https://www.spiegel.de/politik/deutschland/norbert-walter-borjans-ex-spd-chef-geht-in-k-frage-auf-distanz-zu-olaf-scholz-a-15825d84-3696-4a01-91cb-e27db8e469cb#ref=rss)
+### wasserversorgung
+
+* [https://www.spiegel.de/ausland/syrien-tuerkische-angriffe-unterbrechen-wasserversorgung-fuer-eine-million-menschen](https://www.spiegel.de/ausland/syrien-tuerkische-angriffe-unterbrechen-wasserversorgung-fuer-eine-million-menschen-a-5c709136-262f-4761-8129-22c258af9c54#ref=rss)
+### million
+
+* [https://www.spiegel.de/ausland/syrien-tuerkische-angriffe-unterbrechen-wasserversorgung-fuer-eine-million-menschen](https://www.spiegel.de/ausland/syrien-tuerkische-angriffe-unterbrechen-wasserversorgung-fuer-eine-million-menschen-a-5c709136-262f-4761-8129-22c258af9c54#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/ausland/syrien-tuerkische-angriffe-unterbrechen-wasserversorgung-fuer-eine-million-menschen](https://www.spiegel.de/ausland/syrien-tuerkische-angriffe-unterbrechen-wasserversorgung-fuer-eine-million-menschen-a-5c709136-262f-4761-8129-22c258af9c54#ref=rss)
+### nennt
+
+* [https://www.spiegel.de/ausland/syrien-tuerkische-angriffe-unterbrechen-wasserversorgung-fuer-eine-million-menschen](https://www.spiegel.de/ausland/syrien-tuerkische-angriffe-unterbrechen-wasserversorgung-fuer-eine-million-menschen-a-5c709136-262f-4761-8129-22c258af9c54#ref=rss)
+* [https://www.spiegel.de/kultur/musik/pop-ikone-cher-bringt-ihre-memoiren-in-zwei-teilen-heraus](https://www.spiegel.de/kultur/musik/pop-ikone-cher-bringt-ihre-memoiren-in-zwei-teilen-heraus-a-1867fe43-035b-44bc-bacf-42aaa0e463c0#ref=rss)
+### bka
+
+* [https://www.spiegel.de/panorama/justiz/statistik-des-bka-anstieg-bei-gewalttaten-gegen-frauen-gezaehlt](https://www.spiegel.de/panorama/justiz/statistik-des-bka-anstieg-bei-gewalttaten-gegen-frauen-gezaehlt-a-2058c050-872d-4f3f-b14c-a0f5822602ad#ref=rss)
+### anstieg
+
+* [https://www.spiegel.de/panorama/justiz/statistik-des-bka-anstieg-bei-gewalttaten-gegen-frauen-gezaehlt](https://www.spiegel.de/panorama/justiz/statistik-des-bka-anstieg-bei-gewalttaten-gegen-frauen-gezaehlt-a-2058c050-872d-4f3f-b14c-a0f5822602ad#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/panorama/justiz/statistik-des-bka-anstieg-bei-gewalttaten-gegen-frauen-gezaehlt](https://www.spiegel.de/panorama/justiz/statistik-des-bka-anstieg-bei-gewalttaten-gegen-frauen-gezaehlt-a-2058c050-872d-4f3f-b14c-a0f5822602ad#ref=rss)
+### meldet
+
+* [https://www.spiegel.de/panorama/justiz/statistik-des-bka-anstieg-bei-gewalttaten-gegen-frauen-gezaehlt](https://www.spiegel.de/panorama/justiz/statistik-des-bka-anstieg-bei-gewalttaten-gegen-frauen-gezaehlt-a-2058c050-872d-4f3f-b14c-a0f5822602ad#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-meldet-milliardenverlust](https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-meldet-milliardenverlust-a-aa924096-9eec-42e2-b1e0-28828c467d79#ref=rss)
+### liegen
+
+* [https://www.spiegel.de/panorama/justiz/statistik-des-bka-anstieg-bei-gewalttaten-gegen-frauen-gezaehlt](https://www.spiegel.de/panorama/justiz/statistik-des-bka-anstieg-bei-gewalttaten-gegen-frauen-gezaehlt-a-2058c050-872d-4f3f-b14c-a0f5822602ad#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/etf-fixkosten-kontowechsel-die-fuenf-peinlichsten-finanzfehler-und-wie-sie-sie-vermeiden](https://www.spiegel.de/wirtschaft/service/etf-fixkosten-kontowechsel-die-fuenf-peinlichsten-finanzfehler-und-wie-sie-sie-vermeiden-a-8b736a86-270d-44f4-9308-ed9184e22216#ref=rss)
+### verteidigungsminister
+
+* [https://www.spiegel.de/politik/deutschland/boris-pistorius-verteidigungsminister-aeussert-zweifel-an-versehentlicher-beschaedigung-von-ostseekabeln](https://www.spiegel.de/politik/deutschland/boris-pistorius-verteidigungsminister-aeussert-zweifel-an-versehentlicher-beschaedigung-von-ostseekabeln-a-953479e7-e6c0-45f6-b88a-fc181e8f93e9#ref=rss)
 ### fast
 
-* [https://www.spiegel.de/panorama/leute/donald-trump-und-robert-f-kennedy-foto-bringt-rfk-in-erklaerungsnot](https://www.spiegel.de/panorama/leute/donald-trump-und-robert-f-kennedy-foto-bringt-rfk-in-erklaerungsnot-a-8b20a96a-04eb-4eaa-ba71-12370d316014#ref=rss)
-* [https://www.spiegel.de/fitness/astronaut-matthias-maurer-training-im-exklusivsten-fitnessstudio-des-universums](https://www.spiegel.de/fitness/astronaut-matthias-maurer-training-im-exklusivsten-fitnessstudio-des-universums-a-763857a5-812a-42bb-873b-75de2e568087#ref=rss)
-### polizeipräsidentin
+* [https://www.spiegel.de/panorama/bildung/spiegel-bildungsnewsletter-gedenken-an-den-missbrauch-endlich](https://www.spiegel.de/panorama/bildung/spiegel-bildungsnewsletter-gedenken-an-den-missbrauch-endlich-a-5331fe9f-3768-4d0e-9b30-5d045588d088#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-justiz-entlaesst-im-rahmen-der-weihnachtsamnestie-fast-hundert-gefangene](https://www.spiegel.de/panorama/justiz/berlin-justiz-entlaesst-im-rahmen-der-weihnachtsamnestie-fast-hundert-gefangene-a-1f9a48ad-da6e-4a93-8120-3bef3a405275#ref=rss)
+### putin
 
-* [https://www.spiegel.de/panorama/justiz/berlin-polizeipraesidentin-barbara-slowik-raet-juden-in-teilen-der-stadt-zu-mehr-vorsicht](https://www.spiegel.de/panorama/justiz/berlin-polizeipraesidentin-barbara-slowik-raet-juden-in-teilen-der-stadt-zu-mehr-vorsicht-a-e9234b2d-57b9-4773-9c3e-8b616577a286#ref=rss)
-### slowik
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-erlaesst-neue-regeln-zum-einsatz-von-atomwaffen](https://www.spiegel.de/ausland/russland-wladimir-putin-erlaesst-neue-regeln-zum-einsatz-von-atomwaffen-a-1f694e99-4ecd-40a4-85bd-196d9f4cdebd#ref=rss)
+### neue
 
-* [https://www.spiegel.de/panorama/justiz/berlin-polizeipraesidentin-barbara-slowik-raet-juden-in-teilen-der-stadt-zu-mehr-vorsicht](https://www.spiegel.de/panorama/justiz/berlin-polizeipraesidentin-barbara-slowik-raet-juden-in-teilen-der-stadt-zu-mehr-vorsicht-a-e9234b2d-57b9-4773-9c3e-8b616577a286#ref=rss)
-### juden
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-erlaesst-neue-regeln-zum-einsatz-von-atomwaffen](https://www.spiegel.de/ausland/russland-wladimir-putin-erlaesst-neue-regeln-zum-einsatz-von-atomwaffen-a-1f694e99-4ecd-40a4-85bd-196d9f4cdebd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/decathlon-will-mehr-als-60-neue-filialen-in-deutschland-eroeffnen](https://www.spiegel.de/wirtschaft/unternehmen/decathlon-will-mehr-als-60-neue-filialen-in-deutschland-eroeffnen-a-050950ff-a383-4960-9ad4-1778138179ac#ref=rss)
+### einsatz
 
-* [https://www.spiegel.de/panorama/justiz/berlin-polizeipraesidentin-barbara-slowik-raet-juden-in-teilen-der-stadt-zu-mehr-vorsicht](https://www.spiegel.de/panorama/justiz/berlin-polizeipraesidentin-barbara-slowik-raet-juden-in-teilen-der-stadt-zu-mehr-vorsicht-a-e9234b2d-57b9-4773-9c3e-8b616577a286#ref=rss)
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-erlaesst-neue-regeln-zum-einsatz-von-atomwaffen](https://www.spiegel.de/ausland/russland-wladimir-putin-erlaesst-neue-regeln-zum-einsatz-von-atomwaffen-a-1f694e99-4ecd-40a4-85bd-196d9f4cdebd#ref=rss)
+### fühlt
+
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-erlaesst-neue-regeln-zum-einsatz-von-atomwaffen](https://www.spiegel.de/ausland/russland-wladimir-putin-erlaesst-neue-regeln-zum-einsatz-von-atomwaffen-a-1f694e99-4ecd-40a4-85bd-196d9f4cdebd#ref=rss)
+* [https://www.spiegel.de/ausland/eva-longoria-begruendet-ihren-wegzug-nun-doch-nicht-mit-trump](https://www.spiegel.de/ausland/eva-longoria-begruendet-ihren-wegzug-nun-doch-nicht-mit-trump-a-cafc71ab-151f-43b8-afce-cc2118c0c9a5#ref=rss)
+### cher
+
+* [https://www.spiegel.de/kultur/musik/pop-ikone-cher-bringt-ihre-memoiren-in-zwei-teilen-heraus](https://www.spiegel.de/kultur/musik/pop-ikone-cher-bringt-ihre-memoiren-in-zwei-teilen-heraus-a-1867fe43-035b-44bc-bacf-42aaa0e463c0#ref=rss)
+### bringt
+
+* [https://www.spiegel.de/kultur/musik/pop-ikone-cher-bringt-ihre-memoiren-in-zwei-teilen-heraus](https://www.spiegel.de/kultur/musik/pop-ikone-cher-bringt-ihre-memoiren-in-zwei-teilen-heraus-a-1867fe43-035b-44bc-bacf-42aaa0e463c0#ref=rss)
+* [https://www.spiegel.de/ausland/jean-claude-juncker-bringt-eu-teilmitgliedschaft-der-ukraine-ins-spiel](https://www.spiegel.de/ausland/jean-claude-juncker-bringt-eu-teilmitgliedschaft-der-ukraine-ins-spiel-a-00cabe82-5c32-4309-9331-dccfed0c07b0#ref=rss)
+### wissen
+
+* [https://www.spiegel.de/kultur/musik/pop-ikone-cher-bringt-ihre-memoiren-in-zwei-teilen-heraus](https://www.spiegel.de/kultur/musik/pop-ikone-cher-bringt-ihre-memoiren-in-zwei-teilen-heraus-a-1867fe43-035b-44bc-bacf-42aaa0e463c0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/festgeld-aktien-etfs-was-am-besten-zu-ihnen-passt](https://www.spiegel.de/wirtschaft/service/festgeld-aktien-etfs-was-am-besten-zu-ihnen-passt-a-f343c706-fe77-4667-91e7-de5ef5c0c519#ref=rss)
+### ersten
+
+* [https://www.spiegel.de/kultur/musik/pop-ikone-cher-bringt-ihre-memoiren-in-zwei-teilen-heraus](https://www.spiegel.de/kultur/musik/pop-ikone-cher-bringt-ihre-memoiren-in-zwei-teilen-heraus-a-1867fe43-035b-44bc-bacf-42aaa0e463c0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nations-league-san-marino-feiert-ersten-auswaertssieg-seiner-geschichte](https://www.spiegel.de/sport/fussball/nations-league-san-marino-feiert-ersten-auswaertssieg-seiner-geschichte-a-62cfeef9-9ee7-4405-af15-fbaebbfd71b0#ref=rss)
+### geschichte
+
+* [https://www.spiegel.de/kultur/musik/pop-ikone-cher-bringt-ihre-memoiren-in-zwei-teilen-heraus](https://www.spiegel.de/kultur/musik/pop-ikone-cher-bringt-ihre-memoiren-in-zwei-teilen-heraus-a-1867fe43-035b-44bc-bacf-42aaa0e463c0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nations-league-san-marino-feiert-ersten-auswaertssieg-seiner-geschichte](https://www.spiegel.de/sport/fussball/nations-league-san-marino-feiert-ersten-auswaertssieg-seiner-geschichte-a-62cfeef9-9ee7-4405-af15-fbaebbfd71b0#ref=rss)
+### werder
+
+* [https://www.spiegel.de/sport/fussball/x-werder-bremen-verlaesst-plattform-von-elon-musk](https://www.spiegel.de/sport/fussball/x-werder-bremen-verlaesst-plattform-von-elon-musk-a-4076be7e-00e5-4c5c-aefc-511247c0c707#ref=rss)
+### plattform
+
+* [https://www.spiegel.de/sport/fussball/x-werder-bremen-verlaesst-plattform-von-elon-musk](https://www.spiegel.de/sport/fussball/x-werder-bremen-verlaesst-plattform-von-elon-musk-a-4076be7e-00e5-4c5c-aefc-511247c0c707#ref=rss)
+### elon
+
+* [https://www.spiegel.de/sport/fussball/x-werder-bremen-verlaesst-plattform-von-elon-musk](https://www.spiegel.de/sport/fussball/x-werder-bremen-verlaesst-plattform-von-elon-musk-a-4076be7e-00e5-4c5c-aefc-511247c0c707#ref=rss)
+### musk
+
+* [https://www.spiegel.de/sport/fussball/x-werder-bremen-verlaesst-plattform-von-elon-musk](https://www.spiegel.de/sport/fussball/x-werder-bremen-verlaesst-plattform-von-elon-musk-a-4076be7e-00e5-4c5c-aefc-511247c0c707#ref=rss)
+### weniger
+
+* [https://www.spiegel.de/sport/fussball/x-werder-bremen-verlaesst-plattform-von-elon-musk](https://www.spiegel.de/sport/fussball/x-werder-bremen-verlaesst-plattform-von-elon-musk-a-4076be7e-00e5-4c5c-aefc-511247c0c707#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-justiz-entlaesst-im-rahmen-der-weihnachtsamnestie-fast-hundert-gefangene](https://www.spiegel.de/panorama/justiz/berlin-justiz-entlaesst-im-rahmen-der-weihnachtsamnestie-fast-hundert-gefangene-a-1f9a48ad-da6e-4a93-8120-3bef3a405275#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/sport/fussball/x-werder-bremen-verlaesst-plattform-von-elon-musk](https://www.spiegel.de/sport/fussball/x-werder-bremen-verlaesst-plattform-von-elon-musk-a-4076be7e-00e5-4c5c-aefc-511247c0c707#ref=rss)
+* [https://www.spiegel.de/ausland/eva-longoria-begruendet-ihren-wegzug-nun-doch-nicht-mit-trump](https://www.spiegel.de/ausland/eva-longoria-begruendet-ihren-wegzug-nun-doch-nicht-mit-trump-a-cafc71ab-151f-43b8-afce-cc2118c0c9a5#ref=rss)
+### dänemark
+
+* [https://www.spiegel.de/wirtschaft/klimaschutz-daenemark-besteuert-furzende-kuehe-und-schweine](https://www.spiegel.de/wirtschaft/klimaschutz-daenemark-besteuert-furzende-kuehe-und-schweine-a-62ca627e-2a47-4632-821a-e1a7395f5c0c#ref=rss)
+### wetter
+
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-es-wird-stuermisch-und-nass-und-schneit-ein-bisschen](https://www.spiegel.de/panorama/wetter-in-deutschland-es-wird-stuermisch-und-nass-und-schneit-ein-bisschen-a-d3eabf99-58bb-40f6-bf76-344812e9e06d#ref=rss)
+### sudan
+
+* [https://www.spiegel.de/ausland/sudan-russland-blockiert-uno-resolution-fuer-waffenruhe-im-buergerkrieg](https://www.spiegel.de/ausland/sudan-russland-blockiert-uno-resolution-fuer-waffenruhe-im-buergerkrieg-a-686baffc-775f-42a3-9989-3d14f5ed95cf#ref=rss)
+### waffenruhe
+
+* [https://www.spiegel.de/ausland/sudan-russland-blockiert-uno-resolution-fuer-waffenruhe-im-buergerkrieg](https://www.spiegel.de/ausland/sudan-russland-blockiert-uno-resolution-fuer-waffenruhe-im-buergerkrieg-a-686baffc-775f-42a3-9989-3d14f5ed95cf#ref=rss)
+### alle
+
+* [https://www.spiegel.de/ausland/sudan-russland-blockiert-uno-resolution-fuer-waffenruhe-im-buergerkrieg](https://www.spiegel.de/ausland/sudan-russland-blockiert-uno-resolution-fuer-waffenruhe-im-buergerkrieg-a-686baffc-775f-42a3-9989-3d14f5ed95cf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-vertreter-warnen-vor-koalition-mit-fdp-nach-bundestagswahl](https://www.spiegel.de/politik/deutschland/cdu-vertreter-warnen-vor-koalition-mit-fdp-nach-bundestagswahl-a-10d850a3-2510-4eda-b17d-e8155454d71a#ref=rss)
+### mettemarit
+
+* [https://www.spiegel.de/panorama/justiz/mette-marit-von-norwegen-sohn-marius-borg-hoiby-erneut-festgenommen](https://www.spiegel.de/panorama/justiz/mette-marit-von-norwegen-sohn-marius-borg-hoiby-erneut-festgenommen-a-f5df5ab2-6afb-43b0-b593-93d63365a78a#ref=rss)
+### sohn
+
+* [https://www.spiegel.de/panorama/justiz/mette-marit-von-norwegen-sohn-marius-borg-hoiby-erneut-festgenommen](https://www.spiegel.de/panorama/justiz/mette-marit-von-norwegen-sohn-marius-borg-hoiby-erneut-festgenommen-a-f5df5ab2-6afb-43b0-b593-93d63365a78a#ref=rss)
+### marius
+
+* [https://www.spiegel.de/panorama/justiz/mette-marit-von-norwegen-sohn-marius-borg-hoiby-erneut-festgenommen](https://www.spiegel.de/panorama/justiz/mette-marit-von-norwegen-sohn-marius-borg-hoiby-erneut-festgenommen-a-f5df5ab2-6afb-43b0-b593-93d63365a78a#ref=rss)
+### borg
+
+* [https://www.spiegel.de/panorama/justiz/mette-marit-von-norwegen-sohn-marius-borg-hoiby-erneut-festgenommen](https://www.spiegel.de/panorama/justiz/mette-marit-von-norwegen-sohn-marius-borg-hoiby-erneut-festgenommen-a-f5df5ab2-6afb-43b0-b593-93d63365a78a#ref=rss)
+### høiby
+
+* [https://www.spiegel.de/panorama/justiz/mette-marit-von-norwegen-sohn-marius-borg-hoiby-erneut-festgenommen](https://www.spiegel.de/panorama/justiz/mette-marit-von-norwegen-sohn-marius-borg-hoiby-erneut-festgenommen-a-f5df5ab2-6afb-43b0-b593-93d63365a78a#ref=rss)
+### festgenommen
+
+* [https://www.spiegel.de/panorama/justiz/mette-marit-von-norwegen-sohn-marius-borg-hoiby-erneut-festgenommen](https://www.spiegel.de/panorama/justiz/mette-marit-von-norwegen-sohn-marius-borg-hoiby-erneut-festgenommen-a-f5df5ab2-6afb-43b0-b593-93d63365a78a#ref=rss)
+### ausgesetzt
+
+* [https://www.spiegel.de/panorama/justiz/mette-marit-von-norwegen-sohn-marius-borg-hoiby-erneut-festgenommen](https://www.spiegel.de/panorama/justiz/mette-marit-von-norwegen-sohn-marius-borg-hoiby-erneut-festgenommen-a-f5df5ab2-6afb-43b0-b593-93d63365a78a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/marco-wanderwitz-ex-ostbeauftragter-will-zum-schutz-seiner-familie-nicht-mehr-in-den-bundestag](https://www.spiegel.de/politik/deutschland/marco-wanderwitz-ex-ostbeauftragter-will-zum-schutz-seiner-familie-nicht-mehr-in-den-bundestag-a-106ba4e5-7015-4107-8eff-081ccf0f87e7#ref=rss)
+### fernseher
+
+* [https://www.spiegel.de/wirtschaft/service/fernseher-werden-erneut-billiger](https://www.spiegel.de/wirtschaft/service/fernseher-werden-erneut-billiger-a-820f0e19-7c9c-4360-9c26-250c1b0afb45#ref=rss)
+### michelle
+
+* [https://www.spiegel.de/kultur/kino/michelle-yeoh-schauspielerin-fuehlte-sich-wegen-ihrer-kinderlosigkeit-als-versagerin](https://www.spiegel.de/kultur/kino/michelle-yeoh-schauspielerin-fuehlte-sich-wegen-ihrer-kinderlosigkeit-als-versagerin-a-cdae33a1-b7cc-48fd-9add-7d672076dcb5#ref=rss)
+### yeoh
+
+* [https://www.spiegel.de/kultur/kino/michelle-yeoh-schauspielerin-fuehlte-sich-wegen-ihrer-kinderlosigkeit-als-versagerin](https://www.spiegel.de/kultur/kino/michelle-yeoh-schauspielerin-fuehlte-sich-wegen-ihrer-kinderlosigkeit-als-versagerin-a-cdae33a1-b7cc-48fd-9add-7d672076dcb5#ref=rss)
+### schauspielerin
+
+* [https://www.spiegel.de/kultur/kino/michelle-yeoh-schauspielerin-fuehlte-sich-wegen-ihrer-kinderlosigkeit-als-versagerin](https://www.spiegel.de/kultur/kino/michelle-yeoh-schauspielerin-fuehlte-sich-wegen-ihrer-kinderlosigkeit-als-versagerin-a-cdae33a1-b7cc-48fd-9add-7d672076dcb5#ref=rss)
+* [https://www.spiegel.de/ausland/eva-longoria-begruendet-ihren-wegzug-nun-doch-nicht-mit-trump](https://www.spiegel.de/ausland/eva-longoria-begruendet-ihren-wegzug-nun-doch-nicht-mit-trump-a-cafc71ab-151f-43b8-afce-cc2118c0c9a5#ref=rss)
+### eva
+
+* [https://www.spiegel.de/ausland/eva-longoria-begruendet-ihren-wegzug-nun-doch-nicht-mit-trump](https://www.spiegel.de/ausland/eva-longoria-begruendet-ihren-wegzug-nun-doch-nicht-mit-trump-a-cafc71ab-151f-43b8-afce-cc2118c0c9a5#ref=rss)
+### longoria
+
+* [https://www.spiegel.de/ausland/eva-longoria-begruendet-ihren-wegzug-nun-doch-nicht-mit-trump](https://www.spiegel.de/ausland/eva-longoria-begruendet-ihren-wegzug-nun-doch-nicht-mit-trump-a-cafc71ab-151f-43b8-afce-cc2118c0c9a5#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/eva-longoria-begruendet-ihren-wegzug-nun-doch-nicht-mit-trump](https://www.spiegel.de/ausland/eva-longoria-begruendet-ihren-wegzug-nun-doch-nicht-mit-trump-a-cafc71ab-151f-43b8-afce-cc2118c0c9a5#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/eva-longoria-begruendet-ihren-wegzug-nun-doch-nicht-mit-trump](https://www.spiegel.de/ausland/eva-longoria-begruendet-ihren-wegzug-nun-doch-nicht-mit-trump-a-cafc71ab-151f-43b8-afce-cc2118c0c9a5#ref=rss)
+* [https://www.spiegel.de/ausland/russland-will-beziehungen-zu-den-usa-angeblich-normalisieren](https://www.spiegel.de/ausland/russland-will-beziehungen-zu-den-usa-angeblich-normalisieren-a-63500e6a-d3a7-4cc6-b275-d8a38a0d7753#ref=rss)
+### marco
+
+* [https://www.spiegel.de/politik/deutschland/marco-wanderwitz-ex-ostbeauftragter-will-zum-schutz-seiner-familie-nicht-mehr-in-den-bundestag](https://www.spiegel.de/politik/deutschland/marco-wanderwitz-ex-ostbeauftragter-will-zum-schutz-seiner-familie-nicht-mehr-in-den-bundestag-a-106ba4e5-7015-4107-8eff-081ccf0f87e7#ref=rss)
+### wanderwitz
+
+* [https://www.spiegel.de/politik/deutschland/marco-wanderwitz-ex-ostbeauftragter-will-zum-schutz-seiner-familie-nicht-mehr-in-den-bundestag](https://www.spiegel.de/politik/deutschland/marco-wanderwitz-ex-ostbeauftragter-will-zum-schutz-seiner-familie-nicht-mehr-in-den-bundestag-a-106ba4e5-7015-4107-8eff-081ccf0f87e7#ref=rss)
+### wahl
+
+* [https://www.spiegel.de/politik/deutschland/marco-wanderwitz-ex-ostbeauftragter-will-zum-schutz-seiner-familie-nicht-mehr-in-den-bundestag](https://www.spiegel.de/politik/deutschland/marco-wanderwitz-ex-ostbeauftragter-will-zum-schutz-seiner-familie-nicht-mehr-in-den-bundestag-a-106ba4e5-7015-4107-8eff-081ccf0f87e7#ref=rss)
+* [https://www.spiegel.de/ausland/georgien-zusammenstoesse-zwischen-polizei-und-demonstrierenden-in-tiflis](https://www.spiegel.de/ausland/georgien-zusammenstoesse-zwischen-polizei-und-demonstrierenden-in-tiflis-a-4f760ed8-030a-48ce-83c8-7be38275aeb0#ref=rss)
+### thyssenkrupp
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-meldet-milliardenverlust](https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-meldet-milliardenverlust-a-aa924096-9eec-42e2-b1e0-28828c467d79#ref=rss)
+### fest
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-meldet-milliardenverlust](https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-meldet-milliardenverlust-a-aa924096-9eec-42e2-b1e0-28828c467d79#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-vertreter-warnen-vor-koalition-mit-fdp-nach-bundestagswahl](https://www.spiegel.de/politik/deutschland/cdu-vertreter-warnen-vor-koalition-mit-fdp-nach-bundestagswahl-a-10d850a3-2510-4eda-b17d-e8155454d71a#ref=rss)
+### rolf
+
+* [https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-will-doch-noch-mal-fuer-den-bundestag-kandidieren](https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-will-doch-noch-mal-fuer-den-bundestag-kandidieren-a-4ed20719-71bc-4219-8e76-25da7ad751c6#ref=rss)
+### mützenich
+
+* [https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-will-doch-noch-mal-fuer-den-bundestag-kandidieren](https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-will-doch-noch-mal-fuer-den-bundestag-kandidieren-a-4ed20719-71bc-4219-8e76-25da7ad751c6#ref=rss)
+### rahmen
+
+* [https://www.spiegel.de/panorama/justiz/berlin-justiz-entlaesst-im-rahmen-der-weihnachtsamnestie-fast-hundert-gefangene](https://www.spiegel.de/panorama/justiz/berlin-justiz-entlaesst-im-rahmen-der-weihnachtsamnestie-fast-hundert-gefangene-a-1f9a48ad-da6e-4a93-8120-3bef3a405275#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/panorama/justiz/berlin-justiz-entlaesst-im-rahmen-der-weihnachtsamnestie-fast-hundert-gefangene](https://www.spiegel.de/panorama/justiz/berlin-justiz-entlaesst-im-rahmen-der-weihnachtsamnestie-fast-hundert-gefangene-a-1f9a48ad-da6e-4a93-8120-3bef3a405275#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/google-soll-offenbar-chrome-verkaufen-kartellverfahren-in-den-usa](https://www.spiegel.de/netzwelt/netzpolitik/google-soll-offenbar-chrome-verkaufen-kartellverfahren-in-den-usa-a-88ae8f77-afa2-4ac8-a51e-6143f8821d22#ref=rss)
+### san
+
+* [https://www.spiegel.de/sport/fussball/nations-league-san-marino-feiert-ersten-auswaertssieg-seiner-geschichte](https://www.spiegel.de/sport/fussball/nations-league-san-marino-feiert-ersten-auswaertssieg-seiner-geschichte-a-62cfeef9-9ee7-4405-af15-fbaebbfd71b0#ref=rss)
+### marino
+
+* [https://www.spiegel.de/sport/fussball/nations-league-san-marino-feiert-ersten-auswaertssieg-seiner-geschichte](https://www.spiegel.de/sport/fussball/nations-league-san-marino-feiert-ersten-auswaertssieg-seiner-geschichte-a-62cfeef9-9ee7-4405-af15-fbaebbfd71b0#ref=rss)
 ### polizei
 
-* [https://www.spiegel.de/panorama/gruenheide-polizei-holt-tesla-gegner-in-protestcamp-von-baeumen](https://www.spiegel.de/panorama/gruenheide-polizei-holt-tesla-gegner-in-protestcamp-von-baeumen-a-6f6afd86-2c96-43d5-8375-16ac7b0aaea4#ref=rss)
-### protestcamp
+* [https://www.spiegel.de/ausland/georgien-zusammenstoesse-zwischen-polizei-und-demonstrierenden-in-tiflis](https://www.spiegel.de/ausland/georgien-zusammenstoesse-zwischen-polizei-und-demonstrierenden-in-tiflis-a-4f760ed8-030a-48ce-83c8-7be38275aeb0#ref=rss)
+### tiflis
 
-* [https://www.spiegel.de/panorama/gruenheide-polizei-holt-tesla-gegner-in-protestcamp-von-baeumen](https://www.spiegel.de/panorama/gruenheide-polizei-holt-tesla-gegner-in-protestcamp-von-baeumen-a-6f6afd86-2c96-43d5-8375-16ac7b0aaea4#ref=rss)
-### spaltung
+* [https://www.spiegel.de/ausland/georgien-zusammenstoesse-zwischen-polizei-und-demonstrierenden-in-tiflis](https://www.spiegel.de/ausland/georgien-zusammenstoesse-zwischen-polizei-und-demonstrierenden-in-tiflis-a-4f760ed8-030a-48ce-83c8-7be38275aeb0#ref=rss)
+### decathlon
 
-* [https://www.spiegel.de/kultur/gesellschaftliche-spaltung-wie-politische-differenzen-beziehungen-beeinflussen-koennen](https://www.spiegel.de/kultur/gesellschaftliche-spaltung-wie-politische-differenzen-beziehungen-beeinflussen-koennen-a-a179afd9-bce7-451a-a683-a0f1f7a4cb9b#ref=rss)
-### matthias
+* [https://www.spiegel.de/wirtschaft/unternehmen/decathlon-will-mehr-als-60-neue-filialen-in-deutschland-eroeffnen](https://www.spiegel.de/wirtschaft/unternehmen/decathlon-will-mehr-als-60-neue-filialen-in-deutschland-eroeffnen-a-050950ff-a383-4960-9ad4-1778138179ac#ref=rss)
+### juncker
 
-* [https://www.spiegel.de/fitness/astronaut-matthias-maurer-training-im-exklusivsten-fitnessstudio-des-universums](https://www.spiegel.de/fitness/astronaut-matthias-maurer-training-im-exklusivsten-fitnessstudio-des-universums-a-763857a5-812a-42bb-873b-75de2e568087#ref=rss)
-### maurer
+* [https://www.spiegel.de/ausland/jean-claude-juncker-bringt-eu-teilmitgliedschaft-der-ukraine-ins-spiel](https://www.spiegel.de/ausland/jean-claude-juncker-bringt-eu-teilmitgliedschaft-der-ukraine-ins-spiel-a-00cabe82-5c32-4309-9331-dccfed0c07b0#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/fitness/astronaut-matthias-maurer-training-im-exklusivsten-fitnessstudio-des-universums](https://www.spiegel.de/fitness/astronaut-matthias-maurer-training-im-exklusivsten-fitnessstudio-des-universums-a-763857a5-812a-42bb-873b-75de2e568087#ref=rss)
-### astronaut
+* [https://www.spiegel.de/ausland/jean-claude-juncker-bringt-eu-teilmitgliedschaft-der-ukraine-ins-spiel](https://www.spiegel.de/ausland/jean-claude-juncker-bringt-eu-teilmitgliedschaft-der-ukraine-ins-spiel-a-00cabe82-5c32-4309-9331-dccfed0c07b0#ref=rss)
+### frühere
 
-* [https://www.spiegel.de/fitness/astronaut-matthias-maurer-training-im-exklusivsten-fitnessstudio-des-universums](https://www.spiegel.de/fitness/astronaut-matthias-maurer-training-im-exklusivsten-fitnessstudio-des-universums-a-763857a5-812a-42bb-873b-75de2e568087#ref=rss)
-### training
+* [https://www.spiegel.de/ausland/jean-claude-juncker-bringt-eu-teilmitgliedschaft-der-ukraine-ins-spiel](https://www.spiegel.de/ausland/jean-claude-juncker-bringt-eu-teilmitgliedschaft-der-ukraine-ins-spiel-a-00cabe82-5c32-4309-9331-dccfed0c07b0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/norbert-walter-borjans-ex-spd-chef-geht-in-k-frage-auf-distanz-zu-olaf-scholz](https://www.spiegel.de/politik/deutschland/norbert-walter-borjans-ex-spd-chef-geht-in-k-frage-auf-distanz-zu-olaf-scholz-a-15825d84-3696-4a01-91cb-e27db8e469cb#ref=rss)
+### wahlsieg
 
-* [https://www.spiegel.de/fitness/astronaut-matthias-maurer-training-im-exklusivsten-fitnessstudio-des-universums](https://www.spiegel.de/fitness/astronaut-matthias-maurer-training-im-exklusivsten-fitnessstudio-des-universums-a-763857a5-812a-42bb-873b-75de2e568087#ref=rss)
-### exklusivsten
+* [https://www.spiegel.de/ausland/russland-will-beziehungen-zu-den-usa-angeblich-normalisieren](https://www.spiegel.de/ausland/russland-will-beziehungen-zu-den-usa-angeblich-normalisieren-a-63500e6a-d3a7-4cc6-b275-d8a38a0d7753#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-vertreter-warnen-vor-koalition-mit-fdp-nach-bundestagswahl](https://www.spiegel.de/politik/deutschland/cdu-vertreter-warnen-vor-koalition-mit-fdp-nach-bundestagswahl-a-10d850a3-2510-4eda-b17d-e8155454d71a#ref=rss)
+### laut
 
-* [https://www.spiegel.de/fitness/astronaut-matthias-maurer-training-im-exklusivsten-fitnessstudio-des-universums](https://www.spiegel.de/fitness/astronaut-matthias-maurer-training-im-exklusivsten-fitnessstudio-des-universums-a-763857a5-812a-42bb-873b-75de2e568087#ref=rss)
-### fitnessstudio
+* [https://www.spiegel.de/panorama/leute/ariana-grande-ueberrascht-fan-im-auto-nebenan](https://www.spiegel.de/panorama/leute/ariana-grande-ueberrascht-fan-im-auto-nebenan-a-927035fa-ac87-4794-b43c-f2a3d0f11ed1#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/google-soll-offenbar-chrome-verkaufen-kartellverfahren-in-den-usa](https://www.spiegel.de/netzwelt/netzpolitik/google-soll-offenbar-chrome-verkaufen-kartellverfahren-in-den-usa-a-88ae8f77-afa2-4ac8-a51e-6143f8821d22#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/fitness/astronaut-matthias-maurer-training-im-exklusivsten-fitnessstudio-des-universums](https://www.spiegel.de/fitness/astronaut-matthias-maurer-training-im-exklusivsten-fitnessstudio-des-universums-a-763857a5-812a-42bb-873b-75de2e568087#ref=rss)
-### universums
+* [https://www.spiegel.de/panorama/leute/ariana-grande-ueberrascht-fan-im-auto-nebenan](https://www.spiegel.de/panorama/leute/ariana-grande-ueberrascht-fan-im-auto-nebenan-a-927035fa-ac87-4794-b43c-f2a3d0f11ed1#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/google-soll-offenbar-chrome-verkaufen-kartellverfahren-in-den-usa](https://www.spiegel.de/netzwelt/netzpolitik/google-soll-offenbar-chrome-verkaufen-kartellverfahren-in-den-usa-a-88ae8f77-afa2-4ac8-a51e-6143f8821d22#ref=rss)
+### chrome
 
-* [https://www.spiegel.de/fitness/astronaut-matthias-maurer-training-im-exklusivsten-fitnessstudio-des-universums](https://www.spiegel.de/fitness/astronaut-matthias-maurer-training-im-exklusivsten-fitnessstudio-des-universums-a-763857a5-812a-42bb-873b-75de2e568087#ref=rss)
-### rodrigo
+* [https://www.spiegel.de/netzwelt/netzpolitik/google-soll-offenbar-chrome-verkaufen-kartellverfahren-in-den-usa](https://www.spiegel.de/netzwelt/netzpolitik/google-soll-offenbar-chrome-verkaufen-kartellverfahren-in-den-usa-a-88ae8f77-afa2-4ac8-a51e-6143f8821d22#ref=rss)
+### norbert
 
-* [https://www.spiegel.de/sport/fussball/fussball-rodrigo-bentancur-wegen-rassistischer-bemerkung-ueber-mitspieler-son-heung-min-gesperrt](https://www.spiegel.de/sport/fussball/fussball-rodrigo-bentancur-wegen-rassistischer-bemerkung-ueber-mitspieler-son-heung-min-gesperrt-a-54f5e003-fffc-4bea-8833-f7b80cd070f2#ref=rss)
-### bentancur
+* [https://www.spiegel.de/politik/deutschland/norbert-walter-borjans-ex-spd-chef-geht-in-k-frage-auf-distanz-zu-olaf-scholz](https://www.spiegel.de/politik/deutschland/norbert-walter-borjans-ex-spd-chef-geht-in-k-frage-auf-distanz-zu-olaf-scholz-a-15825d84-3696-4a01-91cb-e27db8e469cb#ref=rss)
+### walterborjans
 
-* [https://www.spiegel.de/sport/fussball/fussball-rodrigo-bentancur-wegen-rassistischer-bemerkung-ueber-mitspieler-son-heung-min-gesperrt](https://www.spiegel.de/sport/fussball/fussball-rodrigo-bentancur-wegen-rassistischer-bemerkung-ueber-mitspieler-son-heung-min-gesperrt-a-54f5e003-fffc-4bea-8833-f7b80cd070f2#ref=rss)
-### son
+* [https://www.spiegel.de/politik/deutschland/norbert-walter-borjans-ex-spd-chef-geht-in-k-frage-auf-distanz-zu-olaf-scholz](https://www.spiegel.de/politik/deutschland/norbert-walter-borjans-ex-spd-chef-geht-in-k-frage-auf-distanz-zu-olaf-scholz-a-15825d84-3696-4a01-91cb-e27db8e469cb#ref=rss)
+### geld
 
-* [https://www.spiegel.de/sport/fussball/fussball-rodrigo-bentancur-wegen-rassistischer-bemerkung-ueber-mitspieler-son-heung-min-gesperrt](https://www.spiegel.de/sport/fussball/fussball-rodrigo-bentancur-wegen-rassistischer-bemerkung-ueber-mitspieler-son-heung-min-gesperrt-a-54f5e003-fffc-4bea-8833-f7b80cd070f2#ref=rss)
-### heungmin
-
-* [https://www.spiegel.de/sport/fussball/fussball-rodrigo-bentancur-wegen-rassistischer-bemerkung-ueber-mitspieler-son-heung-min-gesperrt](https://www.spiegel.de/sport/fussball/fussball-rodrigo-bentancur-wegen-rassistischer-bemerkung-ueber-mitspieler-son-heung-min-gesperrt-a-54f5e003-fffc-4bea-8833-f7b80cd070f2#ref=rss)
-### prinz
-
-* [https://www.spiegel.de/panorama/justiz/prinz-william-einbruch-auf-gelaende-von-schloss-windsor-waehrend-er-und-seine-familie-schliefen](https://www.spiegel.de/panorama/justiz/prinz-william-einbruch-auf-gelaende-von-schloss-windsor-waehrend-er-und-seine-familie-schliefen-a-f4b57249-6f27-463a-8cfc-98ceb745f386#ref=rss)
-### william
-
-* [https://www.spiegel.de/panorama/justiz/prinz-william-einbruch-auf-gelaende-von-schloss-windsor-waehrend-er-und-seine-familie-schliefen](https://www.spiegel.de/panorama/justiz/prinz-william-einbruch-auf-gelaende-von-schloss-windsor-waehrend-er-und-seine-familie-schliefen-a-f4b57249-6f27-463a-8cfc-98ceb745f386#ref=rss)
-### gelände
-
-* [https://www.spiegel.de/panorama/justiz/prinz-william-einbruch-auf-gelaende-von-schloss-windsor-waehrend-er-und-seine-familie-schliefen](https://www.spiegel.de/panorama/justiz/prinz-william-einbruch-auf-gelaende-von-schloss-windsor-waehrend-er-und-seine-familie-schliefen-a-f4b57249-6f27-463a-8cfc-98ceb745f386#ref=rss)
-### schloss
-
-* [https://www.spiegel.de/panorama/justiz/prinz-william-einbruch-auf-gelaende-von-schloss-windsor-waehrend-er-und-seine-familie-schliefen](https://www.spiegel.de/panorama/justiz/prinz-william-einbruch-auf-gelaende-von-schloss-windsor-waehrend-er-und-seine-familie-schliefen-a-f4b57249-6f27-463a-8cfc-98ceb745f386#ref=rss)
-### windsor
-
-* [https://www.spiegel.de/panorama/justiz/prinz-william-einbruch-auf-gelaende-von-schloss-windsor-waehrend-er-und-seine-familie-schliefen](https://www.spiegel.de/panorama/justiz/prinz-william-einbruch-auf-gelaende-von-schloss-windsor-waehrend-er-und-seine-familie-schliefen-a-f4b57249-6f27-463a-8cfc-98ceb745f386#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/auto/bahn-fuehrt-neuen-sparpreis-fuer-geschaeftsreisende-ein](https://www.spiegel.de/auto/bahn-fuehrt-neuen-sparpreis-fuer-geschaeftsreisende-ein-a-e019af22-bb1e-43e1-b53f-e78f2987c593#ref=rss)
-### euro
-
-* [https://www.spiegel.de/auto/bahn-fuehrt-neuen-sparpreis-fuer-geschaeftsreisende-ein](https://www.spiegel.de/auto/bahn-fuehrt-neuen-sparpreis-fuer-geschaeftsreisende-ein-a-e019af22-bb1e-43e1-b53f-e78f2987c593#ref=rss)
-* [https://www.spiegel.de/politik/bundeswehr-pistorius-nimmt-neue-leichte-kampfhubschrauber-von-airbus-entgegen](https://www.spiegel.de/politik/bundeswehr-pistorius-nimmt-neue-leichte-kampfhubschrauber-von-airbus-entgegen-a-f5b72890-9fba-4a55-a7bd-a66a9be6d7b4#ref=rss)
-### pistorius
-
-* [https://www.spiegel.de/politik/bundeswehr-pistorius-nimmt-neue-leichte-kampfhubschrauber-von-airbus-entgegen](https://www.spiegel.de/politik/bundeswehr-pistorius-nimmt-neue-leichte-kampfhubschrauber-von-airbus-entgegen-a-f5b72890-9fba-4a55-a7bd-a66a9be6d7b4#ref=rss)
-### kampfhubschrauber
-
-* [https://www.spiegel.de/politik/bundeswehr-pistorius-nimmt-neue-leichte-kampfhubschrauber-von-airbus-entgegen](https://www.spiegel.de/politik/bundeswehr-pistorius-nimmt-neue-leichte-kampfhubschrauber-von-airbus-entgegen-a-f5b72890-9fba-4a55-a7bd-a66a9be6d7b4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/festgeld-aktien-etfs-was-am-besten-zu-ihnen-passt](https://www.spiegel.de/wirtschaft/service/festgeld-aktien-etfs-was-am-besten-zu-ihnen-passt-a-f343c706-fe77-4667-91e7-de5ef5c0c519#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/etf-fixkosten-kontowechsel-die-fuenf-peinlichsten-finanzfehler-und-wie-sie-sie-vermeiden](https://www.spiegel.de/wirtschaft/service/etf-fixkosten-kontowechsel-die-fuenf-peinlichsten-finanzfehler-und-wie-sie-sie-vermeiden-a-8b736a86-270d-44f4-9308-ed9184e22216#ref=rss)
 
