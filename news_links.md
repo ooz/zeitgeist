@@ -4,273 +4,395 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ki-deutsche-bank-steigt-bei-aleph-alpha-ein](https://www.spiegel.de/wirtschaft/unternehmen/ki-deutsche-bank-steigt-bei-aleph-alpha-ein-a-e15a0fae-0ec5-4a1c-b29b-9434040d07f3#ref=rss)
-* [https://www.spiegel.de/karriere/arbeitsmarkt-jobwechsel-verlieren-an-attraktivitaet](https://www.spiegel.de/karriere/arbeitsmarkt-jobwechsel-verlieren-an-attraktivitaet-a-35c52f33-475b-45cc-a35a-46bd944d7e3d#ref=rss)
-* [https://www.spiegel.de/kultur/doku-jamel-lauter-widerstand-rocken-gegen-die-neue-deutsche-realitaet](https://www.spiegel.de/kultur/doku-jamel-lauter-widerstand-rocken-gegen-die-neue-deutsche-realitaet-a-4645ce21-73b2-46bb-afdb-1f0371d78018#ref=rss)
-* [https://www.spiegel.de/wirtschaft/volkswagen-ig-metall-und-betriebsrat-bieten-gehaltsverzicht-von-1-5-milliarden-euro-an](https://www.spiegel.de/wirtschaft/volkswagen-ig-metall-und-betriebsrat-bieten-gehaltsverzicht-von-1-5-milliarden-euro-an-a-fadff55b-349e-4ca5-9841-c943ce54ad0a#ref=rss)
-* [https://www.spiegel.de/politik/weltklimakonferenz-baerbock-muss-aufgrund-von-krankheit-erste-termine-absagen](https://www.spiegel.de/politik/weltklimakonferenz-baerbock-muss-aufgrund-von-krankheit-erste-termine-absagen-a-b0e5e6c5-ccc3-4e5e-974f-f173d885fee0#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/kultur/doku-jamel-lauter-widerstand-rocken-gegen-die-neue-deutsche-realitaet](https://www.spiegel.de/kultur/doku-jamel-lauter-widerstand-rocken-gegen-die-neue-deutsche-realitaet-a-4645ce21-73b2-46bb-afdb-1f0371d78018#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/umweltschutz-deutschland-rutscht-im-klimaschutz-ranking-ab](https://www.spiegel.de/wissenschaft/mensch/umweltschutz-deutschland-rutscht-im-klimaschutz-ranking-ab-a-62e2c43c-b03c-48f7-9415-8b7f8d9d8cba#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/philippsburg-nach-vier-jahren-wieder-castor-transport-in-deutschland-erwartet](https://www.spiegel.de/panorama/gesellschaft/philippsburg-nach-vier-jahren-wieder-castor-transport-in-deutschland-erwartet-a-8196b29a-ff84-4956-9436-f717df826784#ref=rss)
-### vier
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-oder-boris-pistorius-kanzler-frage-bei-der-spd-vier-szenarien](https://www.spiegel.de/politik/deutschland/olaf-scholz-oder-boris-pistorius-kanzler-frage-bei-der-spd-vier-szenarien-a-62c299e7-d46b-4b8b-8868-ff3677804e9c#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/philippsburg-nach-vier-jahren-wieder-castor-transport-in-deutschland-erwartet](https://www.spiegel.de/panorama/gesellschaft/philippsburg-nach-vier-jahren-wieder-castor-transport-in-deutschland-erwartet-a-8196b29a-ff84-4956-9436-f717df826784#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/kein-bock-auf-donald-trump-kreuzfahrt-reederei-wirbt-mit-vierjaehriger-auszeit](https://www.spiegel.de/wirtschaft/unternehmen/kein-bock-auf-donald-trump-kreuzfahrt-reederei-wirbt-mit-vierjaehriger-auszeit-a-5ba5c880-3e6f-4c4b-986f-2d0dce4a2315#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/karriere/arbeitsmarkt-jobwechsel-verlieren-an-attraktivitaet](https://www.spiegel.de/karriere/arbeitsmarkt-jobwechsel-verlieren-an-attraktivitaet-a-35c52f33-475b-45cc-a35a-46bd944d7e3d#ref=rss)
-* [https://www.spiegel.de/fitness/bfr-training-mit-leichteren-hanteln-zu-mehr-muskeln-kann-das-klappen](https://www.spiegel.de/fitness/bfr-training-mit-leichteren-hanteln-zu-mehr-muskeln-kann-das-klappen-a-f1ee17cc-4a78-4fdc-8e14-d2da4bfd3284#ref=rss)
-* [https://www.spiegel.de/netzwelt/games/microsofts-neuer-flight-simulator-2024-legt-fehlstart-hin](https://www.spiegel.de/netzwelt/games/microsofts-neuer-flight-simulator-2024-legt-fehlstart-hin-a-75f31c84-db87-4d94-b996-f7b76551fa1f#ref=rss)
-* [https://www.spiegel.de/start/mikromanagement-bei-der-arbeit-wir-sind-hier-doch-nicht-im-kindergarten](https://www.spiegel.de/start/mikromanagement-bei-der-arbeit-wir-sind-hier-doch-nicht-im-kindergarten-a-992e811a-0367-4dc8-a82e-bb3fcdb9947f#ref=rss)
-### volkswagen
-
-* [https://www.spiegel.de/wirtschaft/volkswagen-ig-metall-und-betriebsrat-bieten-gehaltsverzicht-von-1-5-milliarden-euro-an](https://www.spiegel.de/wirtschaft/volkswagen-ig-metall-und-betriebsrat-bieten-gehaltsverzicht-von-1-5-milliarden-euro-an-a-fadff55b-349e-4ca5-9841-c943ce54ad0a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-ernennt-kjell-gruner-zum-neuen-amerika-chef](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-ernennt-kjell-gruner-zum-neuen-amerika-chef-a-d032c1d4-946e-4870-bc90-99c9c4834066#ref=rss)
-### allem
-
-* [https://www.spiegel.de/auto/berlin-leihradsystem-schrumpft-drastisch](https://www.spiegel.de/auto/berlin-leihradsystem-schrumpft-drastisch-a-9be62b8a-533e-42f1-a098-b643d6b33ae9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-ernennt-kjell-gruner-zum-neuen-amerika-chef](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-ernennt-kjell-gruner-zum-neuen-amerika-chef-a-d032c1d4-946e-4870-bc90-99c9c4834066#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/umweltschutz-deutschland-rutscht-im-klimaschutz-ranking-ab](https://www.spiegel.de/wissenschaft/mensch/umweltschutz-deutschland-rutscht-im-klimaschutz-ranking-ab-a-62e2c43c-b03c-48f7-9415-8b7f8d9d8cba#ref=rss)
-### boris
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-oder-boris-pistorius-kanzler-frage-bei-der-spd-vier-szenarien](https://www.spiegel.de/politik/deutschland/olaf-scholz-oder-boris-pistorius-kanzler-frage-bei-der-spd-vier-szenarien-a-62c299e7-d46b-4b8b-8868-ff3677804e9c#ref=rss)
-* [https://www.spiegel.de/sport/tennis/reaktionen-auf-rafael-nadals-karriereende-es-wird-nie-wieder-einen-wie-rafa-geben](https://www.spiegel.de/sport/tennis/reaktionen-auf-rafael-nadals-karriereende-es-wird-nie-wieder-einen-wie-rafa-geben-a-2af0d8e9-6587-4957-8ca4-b8d7a451005d#ref=rss)
-### krise
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-oder-boris-pistorius-kanzler-frage-bei-der-spd-vier-szenarien](https://www.spiegel.de/politik/deutschland/olaf-scholz-oder-boris-pistorius-kanzler-frage-bei-der-spd-vier-szenarien-a-62c299e7-d46b-4b8b-8868-ff3677804e9c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/volkswagen-ig-metall-und-betriebsrat-bieten-gehaltsverzicht-von-1-5-milliarden-euro-an](https://www.spiegel.de/wirtschaft/volkswagen-ig-metall-und-betriebsrat-bieten-gehaltsverzicht-von-1-5-milliarden-euro-an-a-fadff55b-349e-4ca5-9841-c943ce54ad0a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-pep-guardiola-verlaengert-offenbar-bei-manchester-city](https://www.spiegel.de/sport/fussball/fussball-pep-guardiola-verlaengert-offenbar-bei-manchester-city-a-586f5563-62e5-45d6-88d6-62153b9a335e#ref=rss)
-### oz
-
-* [https://www.spiegel.de/wissenschaft/trumps-zauberdoktor-der-designierte-medicare-chef-mehmet-oz-im-portraet](https://www.spiegel.de/wissenschaft/trumps-zauberdoktor-der-designierte-medicare-chef-mehmet-oz-im-portraet-a-5e99a6f4-876d-4342-b136-0feec80d3db7#ref=rss)
-### neuer
-
-* [https://www.spiegel.de/netzwelt/games/microsofts-neuer-flight-simulator-2024-legt-fehlstart-hin](https://www.spiegel.de/netzwelt/games/microsofts-neuer-flight-simulator-2024-legt-fehlstart-hin-a-75f31c84-db87-4d94-b996-f7b76551fa1f#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/philippsburg-nach-vier-jahren-wieder-castor-transport-in-deutschland-erwartet](https://www.spiegel.de/panorama/gesellschaft/philippsburg-nach-vier-jahren-wieder-castor-transport-in-deutschland-erwartet-a-8196b29a-ff84-4956-9436-f717df826784#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/sport/fussball/fussball-pep-guardiola-verlaengert-offenbar-bei-manchester-city](https://www.spiegel.de/sport/fussball/fussball-pep-guardiola-verlaengert-offenbar-bei-manchester-city-a-586f5563-62e5-45d6-88d6-62153b9a335e#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/philippsburg-nach-vier-jahren-wieder-castor-transport-in-deutschland-erwartet](https://www.spiegel.de/panorama/gesellschaft/philippsburg-nach-vier-jahren-wieder-castor-transport-in-deutschland-erwartet-a-8196b29a-ff84-4956-9436-f717df826784#ref=rss)
-### wir
-
-* [https://www.spiegel.de/start/mikromanagement-bei-der-arbeit-wir-sind-hier-doch-nicht-im-kindergarten](https://www.spiegel.de/start/mikromanagement-bei-der-arbeit-wir-sind-hier-doch-nicht-im-kindergarten-a-992e811a-0367-4dc8-a82e-bb3fcdb9947f#ref=rss)
 ### russland
 
-* [https://www.spiegel.de/ausland/russland-deutscher-staatsbuerger-wegen-sabotagevorwuerfen-festgenommen](https://www.spiegel.de/ausland/russland-deutscher-staatsbuerger-wegen-sabotagevorwuerfen-festgenommen-a-3a2bee18-1ae5-447a-8ec9-c94911fa8f3b#ref=rss)
-### olympia
+* [https://www.spiegel.de/ausland/russland-regime-erschwert-kulturschaffende-im-exil-den-zugang-zu-ihrem-geld](https://www.spiegel.de/ausland/russland-regime-erschwert-kulturschaffende-im-exil-den-zugang-zu-ihrem-geld-a-310555b9-6a7a-436f-8a72-4a2bce208484#ref=rss)
+* [https://www.spiegel.de/kultur/claudia-roth-in-der-ukraine-wer-sind-wir](https://www.spiegel.de/kultur/claudia-roth-in-der-ukraine-wer-sind-wir-a-a54e32c9-210c-4f02-b082-706c320cb974#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-greift-russland-offenbar-mit-storm-shadow-raketen-aus-grossbritannien-an](https://www.spiegel.de/ausland/ukraine-greift-russland-offenbar-mit-storm-shadow-raketen-aus-grossbritannien-an-a-bbffdb30-90ed-4d5f-b570-f3acdf58d3b7#ref=rss)
+* [https://www.spiegel.de/ausland/russland-macht-nordkorea-besonderes-geschenk-ein-loewe-und-zwei-baeren-fuer-den-zoo-in-pjoengjang](https://www.spiegel.de/ausland/russland-macht-nordkorea-besonderes-geschenk-ein-loewe-und-zwei-baeren-fuer-den-zoo-in-pjoengjang-a-d9976315-958b-45e1-98d6-cfd185beb3f3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/berliner-republik-mdbs-in-die-produktion-kolumne](https://www.spiegel.de/wirtschaft/soziales/berliner-republik-mdbs-in-die-produktion-kolumne-a-08cae31c-b2ce-41a0-924b-cf09b73aca14#ref=rss)
+### milei
 
-* [https://www.spiegel.de/sport/olympia/olympia-2012-fuenfte-finalteilnehmerin-ueber-1500-meter-wegen-dopings-disqualifiziert](https://www.spiegel.de/sport/olympia/olympia-2012-fuenfte-finalteilnehmerin-ueber-1500-meter-wegen-dopings-disqualifiziert-a-53d2249f-5f6e-43cc-abbe-e46170407184#ref=rss)
-### 2012
+* [https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-podcast](https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-podcast-a-1a301135-b49d-4eae-823a-1a5b673a442a#ref=rss)
+* [https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um](https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-a-334c7cba-dee0-40e1-b995-7bacd5ac088d#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/sport/olympia/olympia-2012-fuenfte-finalteilnehmerin-ueber-1500-meter-wegen-dopings-disqualifiziert](https://www.spiegel.de/sport/olympia/olympia-2012-fuenfte-finalteilnehmerin-ueber-1500-meter-wegen-dopings-disqualifiziert-a-53d2249f-5f6e-43cc-abbe-e46170407184#ref=rss)
-### fünfte
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-nord-stream-pipelines-donald-trump](https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-nord-stream-pipelines-donald-trump-a-ef00dc53-a866-4342-8a5b-223314c687b5#ref=rss)
+* [https://www.spiegel.de/kultur/claudia-roth-in-der-ukraine-wer-sind-wir](https://www.spiegel.de/kultur/claudia-roth-in-der-ukraine-wer-sind-wir-a-a54e32c9-210c-4f02-b082-706c320cb974#ref=rss)
+* [https://www.spiegel.de/gesundheit/so-schnell-werden-sie-bei-einem-schlaganfall-in-deutschland-versorgt](https://www.spiegel.de/gesundheit/so-schnell-werden-sie-bei-einem-schlaganfall-in-deutschland-versorgt-a-818646c0-ff15-4577-a94e-85b932d79960#ref=rss)
+* [https://www.spiegel.de/politik/deutschland-und-nord-stream-warum-die-sprengung-der-pipelines-gut-sind](https://www.spiegel.de/politik/deutschland-und-nord-stream-warum-die-sprengung-der-pipelines-gut-sind-a-e24256c2-23d9-4817-ad45-52b73e80b9b0#ref=rss)
+* [https://www.spiegel.de/panorama/winterwetter-in-deutschland-bis-zu-zehn-zentimeter-neuschnee-in-den-mittelgebirgen](https://www.spiegel.de/panorama/winterwetter-in-deutschland-bis-zu-zehn-zentimeter-neuschnee-in-den-mittelgebirgen-a-86327b04-50d2-42f3-b01c-3013b476d11c#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/sport/olympia/olympia-2012-fuenfte-finalteilnehmerin-ueber-1500-meter-wegen-dopings-disqualifiziert](https://www.spiegel.de/sport/olympia/olympia-2012-fuenfte-finalteilnehmerin-ueber-1500-meter-wegen-dopings-disqualifiziert-a-53d2249f-5f6e-43cc-abbe-e46170407184#ref=rss)
-### finalteilnehmerin
-
-* [https://www.spiegel.de/sport/olympia/olympia-2012-fuenfte-finalteilnehmerin-ueber-1500-meter-wegen-dopings-disqualifiziert](https://www.spiegel.de/sport/olympia/olympia-2012-fuenfte-finalteilnehmerin-ueber-1500-meter-wegen-dopings-disqualifiziert-a-53d2249f-5f6e-43cc-abbe-e46170407184#ref=rss)
-### 1500
-
-* [https://www.spiegel.de/sport/olympia/olympia-2012-fuenfte-finalteilnehmerin-ueber-1500-meter-wegen-dopings-disqualifiziert](https://www.spiegel.de/sport/olympia/olympia-2012-fuenfte-finalteilnehmerin-ueber-1500-meter-wegen-dopings-disqualifiziert-a-53d2249f-5f6e-43cc-abbe-e46170407184#ref=rss)
-### meter
-
-* [https://www.spiegel.de/sport/olympia/olympia-2012-fuenfte-finalteilnehmerin-ueber-1500-meter-wegen-dopings-disqualifiziert](https://www.spiegel.de/sport/olympia/olympia-2012-fuenfte-finalteilnehmerin-ueber-1500-meter-wegen-dopings-disqualifiziert-a-53d2249f-5f6e-43cc-abbe-e46170407184#ref=rss)
-### disqualifiziert
-
-* [https://www.spiegel.de/sport/olympia/olympia-2012-fuenfte-finalteilnehmerin-ueber-1500-meter-wegen-dopings-disqualifiziert](https://www.spiegel.de/sport/olympia/olympia-2012-fuenfte-finalteilnehmerin-ueber-1500-meter-wegen-dopings-disqualifiziert-a-53d2249f-5f6e-43cc-abbe-e46170407184#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/auto/berlin-leihradsystem-schrumpft-drastisch](https://www.spiegel.de/auto/berlin-leihradsystem-schrumpft-drastisch-a-9be62b8a-533e-42f1-a098-b643d6b33ae9#ref=rss)
-### anderen
-
-* [https://www.spiegel.de/auto/berlin-leihradsystem-schrumpft-drastisch](https://www.spiegel.de/auto/berlin-leihradsystem-schrumpft-drastisch-a-9be62b8a-533e-42f1-a098-b643d6b33ae9#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/kleine-saebelzahnkatze-aus-dem-sibirischen-eis-fasziniert-forschende](https://www.spiegel.de/wissenschaft/natur/kleine-saebelzahnkatze-aus-dem-sibirischen-eis-fasziniert-forschende-a-d042aece-fdf1-488d-b723-ff48e5f77e8d#ref=rss)
-### geld
-
-* [https://www.spiegel.de/auto/berlin-leihradsystem-schrumpft-drastisch](https://www.spiegel.de/auto/berlin-leihradsystem-schrumpft-drastisch-a-9be62b8a-533e-42f1-a098-b643d6b33ae9#ref=rss)
-* [https://www.spiegel.de/netzwelt/games/minecraft-populaeres-videospiel-soll-in-merlin-freizeitparks-erlebbar-werden](https://www.spiegel.de/netzwelt/games/minecraft-populaeres-videospiel-soll-in-merlin-freizeitparks-erlebbar-werden-a-e8e9e2b1-c546-4d3e-b2a3-eca9fa0d44f9#ref=rss)
-### kyjiw
-
-* [https://www.spiegel.de/ausland/usa-schliessen-botschaft-in-kyjiw](https://www.spiegel.de/ausland/usa-schliessen-botschaft-in-kyjiw-a-8f6f4b21-8b47-4f9e-bd82-d13b5dd867ab#ref=rss)
-### olaf
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-oder-boris-pistorius-kanzler-frage-bei-der-spd-vier-szenarien](https://www.spiegel.de/politik/deutschland/olaf-scholz-oder-boris-pistorius-kanzler-frage-bei-der-spd-vier-szenarien-a-62c299e7-d46b-4b8b-8868-ff3677804e9c#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-oder-boris-pistorius-kanzler-frage-bei-der-spd-vier-szenarien](https://www.spiegel.de/politik/deutschland/olaf-scholz-oder-boris-pistorius-kanzler-frage-bei-der-spd-vier-szenarien-a-62c299e7-d46b-4b8b-8868-ff3677804e9c#ref=rss)
-### pistorius
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-oder-boris-pistorius-kanzler-frage-bei-der-spd-vier-szenarien](https://www.spiegel.de/politik/deutschland/olaf-scholz-oder-boris-pistorius-kanzler-frage-bei-der-spd-vier-szenarien-a-62c299e7-d46b-4b8b-8868-ff3677804e9c#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-oder-boris-pistorius-kanzler-frage-bei-der-spd-vier-szenarien](https://www.spiegel.de/politik/deutschland/olaf-scholz-oder-boris-pistorius-kanzler-frage-bei-der-spd-vier-szenarien-a-62c299e7-d46b-4b8b-8868-ff3677804e9c#ref=rss)
-### new
-
-* [https://www.spiegel.de/panorama/new-york-new-yorker-priester-soll-zwei-millionen-dollar-veruntreut-haben](https://www.spiegel.de/panorama/new-york-new-yorker-priester-soll-zwei-millionen-dollar-veruntreut-haben-a-137bdffc-169d-48e0-b025-702f63f0693a#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/panorama/new-york-new-yorker-priester-soll-zwei-millionen-dollar-veruntreut-haben](https://www.spiegel.de/panorama/new-york-new-yorker-priester-soll-zwei-millionen-dollar-veruntreut-haben-a-137bdffc-169d-48e0-b025-702f63f0693a#ref=rss)
-* [https://www.spiegel.de/netzwelt/games/minecraft-populaeres-videospiel-soll-in-merlin-freizeitparks-erlebbar-werden](https://www.spiegel.de/netzwelt/games/minecraft-populaeres-videospiel-soll-in-merlin-freizeitparks-erlebbar-werden-a-e8e9e2b1-c546-4d3e-b2a3-eca9fa0d44f9#ref=rss)
-### mehmet
-
-* [https://www.spiegel.de/wissenschaft/trumps-zauberdoktor-der-designierte-medicare-chef-mehmet-oz-im-portraet](https://www.spiegel.de/wissenschaft/trumps-zauberdoktor-der-designierte-medicare-chef-mehmet-oz-im-portraet-a-5e99a6f4-876d-4342-b136-0feec80d3db7#ref=rss)
-### dr
-
-* [https://www.spiegel.de/wissenschaft/trumps-zauberdoktor-der-designierte-medicare-chef-mehmet-oz-im-portraet](https://www.spiegel.de/wissenschaft/trumps-zauberdoktor-der-designierte-medicare-chef-mehmet-oz-im-portraet-a-5e99a6f4-876d-4342-b136-0feec80d3db7#ref=rss)
-* [https://www.spiegel.de/kultur/musik/james-bond-gitarrist-vic-flick-gestorben-er-spielte-das-thema](https://www.spiegel.de/kultur/musik/james-bond-gitarrist-vic-flick-gestorben-er-spielte-das-thema-a-e840ffd3-ad30-43d4-bb75-44df0a3cc16d#ref=rss)
-### donald
-
-* [https://www.spiegel.de/wissenschaft/trumps-zauberdoktor-der-designierte-medicare-chef-mehmet-oz-im-portraet](https://www.spiegel.de/wissenschaft/trumps-zauberdoktor-der-designierte-medicare-chef-mehmet-oz-im-portraet-a-5e99a6f4-876d-4342-b136-0feec80d3db7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/kein-bock-auf-donald-trump-kreuzfahrt-reederei-wirbt-mit-vierjaehriger-auszeit](https://www.spiegel.de/wirtschaft/unternehmen/kein-bock-auf-donald-trump-kreuzfahrt-reederei-wirbt-mit-vierjaehriger-auszeit-a-5ba5c880-3e6f-4c4b-986f-2d0dce4a2315#ref=rss)
+* [https://www.spiegel.de/ausland/russland-regime-erschwert-kulturschaffende-im-exil-den-zugang-zu-ihrem-geld](https://www.spiegel.de/ausland/russland-regime-erschwert-kulturschaffende-im-exil-den-zugang-zu-ihrem-geld-a-310555b9-6a7a-436f-8a72-4a2bce208484#ref=rss)
+* [https://www.spiegel.de/kultur/claudia-roth-in-der-ukraine-wer-sind-wir](https://www.spiegel.de/kultur/claudia-roth-in-der-ukraine-wer-sind-wir-a-a54e32c9-210c-4f02-b082-706c320cb974#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-greift-russland-offenbar-mit-storm-shadow-raketen-aus-grossbritannien-an](https://www.spiegel.de/ausland/ukraine-greift-russland-offenbar-mit-storm-shadow-raketen-aus-grossbritannien-an-a-bbffdb30-90ed-4d5f-b570-f3acdf58d3b7#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/wissenschaft/trumps-zauberdoktor-der-designierte-medicare-chef-mehmet-oz-im-portraet](https://www.spiegel.de/wissenschaft/trumps-zauberdoktor-der-designierte-medicare-chef-mehmet-oz-im-portraet-a-5e99a6f4-876d-4342-b136-0feec80d3db7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/kein-bock-auf-donald-trump-kreuzfahrt-reederei-wirbt-mit-vierjaehriger-auszeit](https://www.spiegel.de/wirtschaft/unternehmen/kein-bock-auf-donald-trump-kreuzfahrt-reederei-wirbt-mit-vierjaehriger-auszeit-a-5ba5c880-3e6f-4c4b-986f-2d0dce4a2315#ref=rss)
-### gut
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-nord-stream-pipelines-donald-trump](https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-nord-stream-pipelines-donald-trump-a-ef00dc53-a866-4342-8a5b-223314c687b5#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-matt-whitaker-wird-nato-botschafter-der-neuen-us-regierung](https://www.spiegel.de/ausland/donald-trump-matt-whitaker-wird-nato-botschafter-der-neuen-us-regierung-a-14625551-b465-4c33-807d-f71be1d1d8a0#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/spacex-makel-beim-testflug-der-starship-rakete-von-elon-musk](https://www.spiegel.de/wissenschaft/weltall/spacex-makel-beim-testflug-der-starship-rakete-von-elon-musk-a-151dec99-8c5e-4c91-9770-00c62e1b3be2#ref=rss)
+### javier
 
-* [https://www.spiegel.de/wissenschaft/trumps-zauberdoktor-der-designierte-medicare-chef-mehmet-oz-im-portraet](https://www.spiegel.de/wissenschaft/trumps-zauberdoktor-der-designierte-medicare-chef-mehmet-oz-im-portraet-a-5e99a6f4-876d-4342-b136-0feec80d3db7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/kleine-saebelzahnkatze-aus-dem-sibirischen-eis-fasziniert-forschende](https://www.spiegel.de/wissenschaft/natur/kleine-saebelzahnkatze-aus-dem-sibirischen-eis-fasziniert-forschende-a-d042aece-fdf1-488d-b723-ff48e5f77e8d#ref=rss)
-### bank
+* [https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-podcast](https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-podcast-a-1a301135-b49d-4eae-823a-1a5b673a442a#ref=rss)
+* [https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um](https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-a-334c7cba-dee0-40e1-b995-7bacd5ac088d#ref=rss)
+### baut
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/ki-deutsche-bank-steigt-bei-aleph-alpha-ein](https://www.spiegel.de/wirtschaft/unternehmen/ki-deutsche-bank-steigt-bei-aleph-alpha-ein-a-e15a0fae-0ec5-4a1c-b29b-9434040d07f3#ref=rss)
-### aleph
+* [https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-podcast](https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-podcast-a-1a301135-b49d-4eae-823a-1a5b673a442a#ref=rss)
+* [https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um](https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-a-334c7cba-dee0-40e1-b995-7bacd5ac088d#ref=rss)
+### radikal
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/ki-deutsche-bank-steigt-bei-aleph-alpha-ein](https://www.spiegel.de/wirtschaft/unternehmen/ki-deutsche-bank-steigt-bei-aleph-alpha-ein-a-e15a0fae-0ec5-4a1c-b29b-9434040d07f3#ref=rss)
-### alpha
+* [https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-podcast](https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-podcast-a-1a301135-b49d-4eae-823a-1a5b673a442a#ref=rss)
+* [https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um](https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-a-334c7cba-dee0-40e1-b995-7bacd5ac088d#ref=rss)
+### donald
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/ki-deutsche-bank-steigt-bei-aleph-alpha-ein](https://www.spiegel.de/wirtschaft/unternehmen/ki-deutsche-bank-steigt-bei-aleph-alpha-ein-a-e15a0fae-0ec5-4a1c-b29b-9434040d07f3#ref=rss)
-### gute
-
-* [https://www.spiegel.de/karriere/arbeitsmarkt-jobwechsel-verlieren-an-attraktivitaet](https://www.spiegel.de/karriere/arbeitsmarkt-jobwechsel-verlieren-an-attraktivitaet-a-35c52f33-475b-45cc-a35a-46bd944d7e3d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/elon-musk-der-weltraum-revolutionaer-mit-duesterem-menschenbild-warum-man-ihn-ernst-nehmen-muss](https://www.spiegel.de/wissenschaft/weltall/elon-musk-der-weltraum-revolutionaer-mit-duesterem-menschenbild-warum-man-ihn-ernst-nehmen-muss-a-b04ff204-a138-4782-b3c1-d83bfc2cc43d#ref=rss)
-### jamel
-
-* [https://www.spiegel.de/kultur/doku-jamel-lauter-widerstand-rocken-gegen-die-neue-deutsche-realitaet](https://www.spiegel.de/kultur/doku-jamel-lauter-widerstand-rocken-gegen-die-neue-deutsche-realitaet-a-4645ce21-73b2-46bb-afdb-1f0371d78018#ref=rss)
-### widerstand
-
-* [https://www.spiegel.de/kultur/doku-jamel-lauter-widerstand-rocken-gegen-die-neue-deutsche-realitaet](https://www.spiegel.de/kultur/doku-jamel-lauter-widerstand-rocken-gegen-die-neue-deutsche-realitaet-a-4645ce21-73b2-46bb-afdb-1f0371d78018#ref=rss)
-### ganz
-
-* [https://www.spiegel.de/kultur/doku-jamel-lauter-widerstand-rocken-gegen-die-neue-deutsche-realitaet](https://www.spiegel.de/kultur/doku-jamel-lauter-widerstand-rocken-gegen-die-neue-deutsche-realitaet-a-4645ce21-73b2-46bb-afdb-1f0371d78018#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/kein-bock-auf-donald-trump-kreuzfahrt-reederei-wirbt-mit-vierjaehriger-auszeit](https://www.spiegel.de/wirtschaft/unternehmen/kein-bock-auf-donald-trump-kreuzfahrt-reederei-wirbt-mit-vierjaehriger-auszeit-a-5ba5c880-3e6f-4c4b-986f-2d0dce4a2315#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-nord-stream-pipelines-donald-trump](https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-nord-stream-pipelines-donald-trump-a-ef00dc53-a866-4342-8a5b-223314c687b5#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-matt-whitaker-wird-nato-botschafter-der-neuen-us-regierung](https://www.spiegel.de/ausland/donald-trump-matt-whitaker-wird-nato-botschafter-der-neuen-us-regierung-a-14625551-b465-4c33-807d-f71be1d1d8a0#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/spacex-makel-beim-testflug-der-starship-rakete-von-elon-musk](https://www.spiegel.de/wissenschaft/weltall/spacex-makel-beim-testflug-der-starship-rakete-von-elon-musk-a-151dec99-8c5e-4c91-9770-00c62e1b3be2#ref=rss)
 ### macht
 
-* [https://www.spiegel.de/kultur/doku-jamel-lauter-widerstand-rocken-gegen-die-neue-deutsche-realitaet](https://www.spiegel.de/kultur/doku-jamel-lauter-widerstand-rocken-gegen-die-neue-deutsche-realitaet-a-4645ce21-73b2-46bb-afdb-1f0371d78018#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-ernennt-kjell-gruner-zum-neuen-amerika-chef](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-ernennt-kjell-gruner-zum-neuen-amerika-chef-a-d032c1d4-946e-4870-bc90-99c9c4834066#ref=rss)
-### vic
+* [https://www.spiegel.de/ausland/russland-macht-nordkorea-besonderes-geschenk-ein-loewe-und-zwei-baeren-fuer-den-zoo-in-pjoengjang](https://www.spiegel.de/ausland/russland-macht-nordkorea-besonderes-geschenk-ein-loewe-und-zwei-baeren-fuer-den-zoo-in-pjoengjang-a-d9976315-958b-45e1-98d6-cfd185beb3f3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-betriebsrat-macht-vorschlag-wie-man-volkswagen-sanieren-kann](https://www.spiegel.de/wirtschaft/unternehmen/vw-betriebsrat-macht-vorschlag-wie-man-volkswagen-sanieren-kann-a-25e6d44f-e767-4d7c-91e9-147906fba517#ref=rss)
+### setzt
 
-* [https://www.spiegel.de/kultur/musik/james-bond-gitarrist-vic-flick-gestorben-er-spielte-das-thema](https://www.spiegel.de/kultur/musik/james-bond-gitarrist-vic-flick-gestorben-er-spielte-das-thema-a-e840ffd3-ad30-43d4-bb75-44df0a3cc16d#ref=rss)
-### flick
+* [https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-podcast](https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-podcast-a-1a301135-b49d-4eae-823a-1a5b673a442a#ref=rss)
+* [https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um](https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-a-334c7cba-dee0-40e1-b995-7bacd5ac088d#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-greift-russland-offenbar-mit-storm-shadow-raketen-aus-grossbritannien-an](https://www.spiegel.de/ausland/ukraine-greift-russland-offenbar-mit-storm-shadow-raketen-aus-grossbritannien-an-a-bbffdb30-90ed-4d5f-b570-f3acdf58d3b7#ref=rss)
+### mann
 
-* [https://www.spiegel.de/kultur/musik/james-bond-gitarrist-vic-flick-gestorben-er-spielte-das-thema](https://www.spiegel.de/kultur/musik/james-bond-gitarrist-vic-flick-gestorben-er-spielte-das-thema-a-e840ffd3-ad30-43d4-bb75-44df0a3cc16d#ref=rss)
-### gestorben
+* [https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-podcast](https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-podcast-a-1a301135-b49d-4eae-823a-1a5b673a442a#ref=rss)
+* [https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um](https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-a-334c7cba-dee0-40e1-b995-7bacd5ac088d#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/grand-hotel-abgrund](https://www.spiegel.de/kultur/literatur/grand-hotel-abgrund-a-0e8d4f72-7afe-4337-9967-651b2da32bea#ref=rss)
+### angeblich
 
-* [https://www.spiegel.de/kultur/musik/james-bond-gitarrist-vic-flick-gestorben-er-spielte-das-thema](https://www.spiegel.de/kultur/musik/james-bond-gitarrist-vic-flick-gestorben-er-spielte-das-thema-a-e840ffd3-ad30-43d4-bb75-44df0a3cc16d#ref=rss)
-### spielte
+* [https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-podcast](https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-podcast-a-1a301135-b49d-4eae-823a-1a5b673a442a#ref=rss)
+* [https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um](https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-a-334c7cba-dee0-40e1-b995-7bacd5ac088d#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-greift-russland-offenbar-mit-storm-shadow-raketen-aus-grossbritannien-an](https://www.spiegel.de/ausland/ukraine-greift-russland-offenbar-mit-storm-shadow-raketen-aus-grossbritannien-an-a-bbffdb30-90ed-4d5f-b570-f3acdf58d3b7#ref=rss)
+### nordstreampipelines
 
-* [https://www.spiegel.de/kultur/musik/james-bond-gitarrist-vic-flick-gestorben-er-spielte-das-thema](https://www.spiegel.de/kultur/musik/james-bond-gitarrist-vic-flick-gestorben-er-spielte-das-thema-a-e840ffd3-ad30-43d4-bb75-44df0a3cc16d#ref=rss)
-### jahre
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-nord-stream-pipelines-donald-trump](https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-nord-stream-pipelines-donald-trump-a-ef00dc53-a866-4342-8a5b-223314c687b5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland-und-nord-stream-warum-die-sprengung-der-pipelines-gut-sind](https://www.spiegel.de/politik/deutschland-und-nord-stream-warum-die-sprengung-der-pipelines-gut-sind-a-e24256c2-23d9-4817-ad45-52b73e80b9b0#ref=rss)
+### gut
 
-* [https://www.spiegel.de/kultur/musik/james-bond-gitarrist-vic-flick-gestorben-er-spielte-das-thema](https://www.spiegel.de/kultur/musik/james-bond-gitarrist-vic-flick-gestorben-er-spielte-das-thema-a-e840ffd3-ad30-43d4-bb75-44df0a3cc16d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/kein-bock-auf-donald-trump-kreuzfahrt-reederei-wirbt-mit-vierjaehriger-auszeit](https://www.spiegel.de/wirtschaft/unternehmen/kein-bock-auf-donald-trump-kreuzfahrt-reederei-wirbt-mit-vierjaehriger-auszeit-a-5ba5c880-3e6f-4c4b-986f-2d0dce4a2315#ref=rss)
-### muskeln
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-nord-stream-pipelines-donald-trump](https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-nord-stream-pipelines-donald-trump-a-ef00dc53-a866-4342-8a5b-223314c687b5#ref=rss)
+* [https://www.spiegel.de/gesundheit/so-schnell-werden-sie-bei-einem-schlaganfall-in-deutschland-versorgt](https://www.spiegel.de/gesundheit/so-schnell-werden-sie-bei-einem-schlaganfall-in-deutschland-versorgt-a-818646c0-ff15-4577-a94e-85b932d79960#ref=rss)
+* [https://www.spiegel.de/politik/deutschland-und-nord-stream-warum-die-sprengung-der-pipelines-gut-sind](https://www.spiegel.de/politik/deutschland-und-nord-stream-warum-die-sprengung-der-pipelines-gut-sind-a-e24256c2-23d9-4817-ad45-52b73e80b9b0#ref=rss)
+### sondern
 
-* [https://www.spiegel.de/fitness/bfr-training-mit-leichteren-hanteln-zu-mehr-muskeln-kann-das-klappen](https://www.spiegel.de/fitness/bfr-training-mit-leichteren-hanteln-zu-mehr-muskeln-kann-das-klappen-a-f1ee17cc-4a78-4fdc-8e14-d2da4bfd3284#ref=rss)
-### steckt
+* [https://www.spiegel.de/kultur/claudia-roth-in-der-ukraine-wer-sind-wir](https://www.spiegel.de/kultur/claudia-roth-in-der-ukraine-wer-sind-wir-a-a54e32c9-210c-4f02-b082-706c320cb974#ref=rss)
+* [https://www.spiegel.de/politik/deutschland-und-nord-stream-warum-die-sprengung-der-pipelines-gut-sind](https://www.spiegel.de/politik/deutschland-und-nord-stream-warum-die-sprengung-der-pipelines-gut-sind-a-e24256c2-23d9-4817-ad45-52b73e80b9b0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-betriebsrat-macht-vorschlag-wie-man-volkswagen-sanieren-kann](https://www.spiegel.de/wirtschaft/unternehmen/vw-betriebsrat-macht-vorschlag-wie-man-volkswagen-sanieren-kann-a-25e6d44f-e767-4d7c-91e9-147906fba517#ref=rss)
+### zerstört
 
-* [https://www.spiegel.de/fitness/bfr-training-mit-leichteren-hanteln-zu-mehr-muskeln-kann-das-klappen](https://www.spiegel.de/fitness/bfr-training-mit-leichteren-hanteln-zu-mehr-muskeln-kann-das-klappen-a-f1ee17cc-4a78-4fdc-8e14-d2da4bfd3284#ref=rss)
-* [https://www.spiegel.de/wirtschaft/volkswagen-ig-metall-und-betriebsrat-bieten-gehaltsverzicht-von-1-5-milliarden-euro-an](https://www.spiegel.de/wirtschaft/volkswagen-ig-metall-und-betriebsrat-bieten-gehaltsverzicht-von-1-5-milliarden-euro-an-a-fadff55b-349e-4ca5-9841-c943ce54ad0a#ref=rss)
-### hin
+* [https://www.spiegel.de/wirtschaft/unternehmen/spanien-flutkatastrophe-kostet-0-2-prozentpunkte-wirtschaftswachstum](https://www.spiegel.de/wirtschaft/unternehmen/spanien-flutkatastrophe-kostet-0-2-prozentpunkte-wirtschaftswachstum-a-f3b4796a-1c0e-448a-8cb5-faf8fa6bcece#ref=rss)
+* [https://www.spiegel.de/politik/ostsee-kabel-zerstoert-was-haben-china-und-das-schiff-yi-peng-3-damit-zu-tun](https://www.spiegel.de/politik/ostsee-kabel-zerstoert-was-haben-china-und-das-schiff-yi-peng-3-damit-zu-tun-a-ff13cbc7-5144-4100-a6e9-f14396066b99#ref=rss)
+### leben
 
-* [https://www.spiegel.de/netzwelt/games/microsofts-neuer-flight-simulator-2024-legt-fehlstart-hin](https://www.spiegel.de/netzwelt/games/microsofts-neuer-flight-simulator-2024-legt-fehlstart-hin-a-75f31c84-db87-4d94-b996-f7b76551fa1f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-ernennt-kjell-gruner-zum-neuen-amerika-chef](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-ernennt-kjell-gruner-zum-neuen-amerika-chef-a-d032c1d4-946e-4870-bc90-99c9c4834066#ref=rss)
-### viele
+* [https://www.spiegel.de/kultur/cher-berichtet-von-suizidgedanken-vor-ihrer-trennung](https://www.spiegel.de/kultur/cher-berichtet-von-suizidgedanken-vor-ihrer-trennung-a-b56205a2-0ac9-4708-932f-311cc925fc28#ref=rss)
+* [https://www.spiegel.de/kultur/musik/one-direction-wieder-vereint-am-grab-von-liam-payne](https://www.spiegel.de/kultur/musik/one-direction-wieder-vereint-am-grab-von-liam-payne-a-df8b5c3b-6987-4f50-b5b7-eec6a8b08aba#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/berliner-republik-mdbs-in-die-produktion-kolumne](https://www.spiegel.de/wirtschaft/soziales/berliner-republik-mdbs-in-die-produktion-kolumne-a-08cae31c-b2ce-41a0-924b-cf09b73aca14#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/netzwelt/games/microsofts-neuer-flight-simulator-2024-legt-fehlstart-hin](https://www.spiegel.de/netzwelt/games/microsofts-neuer-flight-simulator-2024-legt-fehlstart-hin-a-75f31c84-db87-4d94-b996-f7b76551fa1f#ref=rss)
-* [https://www.spiegel.de/start/mikromanagement-bei-der-arbeit-wir-sind-hier-doch-nicht-im-kindergarten](https://www.spiegel.de/start/mikromanagement-bei-der-arbeit-wir-sind-hier-doch-nicht-im-kindergarten-a-992e811a-0367-4dc8-a82e-bb3fcdb9947f#ref=rss)
-### minecraft
-
-* [https://www.spiegel.de/netzwelt/games/minecraft-populaeres-videospiel-soll-in-merlin-freizeitparks-erlebbar-werden](https://www.spiegel.de/netzwelt/games/minecraft-populaeres-videospiel-soll-in-merlin-freizeitparks-erlebbar-werden-a-e8e9e2b1-c546-4d3e-b2a3-eca9fa0d44f9#ref=rss)
-### thomas
-
-* [https://www.spiegel.de/politik/migration-ex-verfassungsschutzchef-haldenwang-will-bei-bundestagseinzug-zuwanderung-beschraenken](https://www.spiegel.de/politik/migration-ex-verfassungsschutzchef-haldenwang-will-bei-bundestagseinzug-zuwanderung-beschraenken-a-9d046851-ed82-43dd-affc-3da2dcc11417#ref=rss)
-### haldenwang
-
-* [https://www.spiegel.de/politik/migration-ex-verfassungsschutzchef-haldenwang-will-bei-bundestagseinzug-zuwanderung-beschraenken](https://www.spiegel.de/politik/migration-ex-verfassungsschutzchef-haldenwang-will-bei-bundestagseinzug-zuwanderung-beschraenken-a-9d046851-ed82-43dd-affc-3da2dcc11417#ref=rss)
-### pep
-
-* [https://www.spiegel.de/sport/fussball/fussball-pep-guardiola-verlaengert-offenbar-bei-manchester-city](https://www.spiegel.de/sport/fussball/fussball-pep-guardiola-verlaengert-offenbar-bei-manchester-city-a-586f5563-62e5-45d6-88d6-62153b9a335e#ref=rss)
-### guardiola
-
-* [https://www.spiegel.de/sport/fussball/fussball-pep-guardiola-verlaengert-offenbar-bei-manchester-city](https://www.spiegel.de/sport/fussball/fussball-pep-guardiola-verlaengert-offenbar-bei-manchester-city-a-586f5563-62e5-45d6-88d6-62153b9a335e#ref=rss)
-### manchester
-
-* [https://www.spiegel.de/sport/fussball/fussball-pep-guardiola-verlaengert-offenbar-bei-manchester-city](https://www.spiegel.de/sport/fussball/fussball-pep-guardiola-verlaengert-offenbar-bei-manchester-city-a-586f5563-62e5-45d6-88d6-62153b9a335e#ref=rss)
-### medienberichten
-
-* [https://www.spiegel.de/sport/fussball/fussball-pep-guardiola-verlaengert-offenbar-bei-manchester-city](https://www.spiegel.de/sport/fussball/fussball-pep-guardiola-verlaengert-offenbar-bei-manchester-city-a-586f5563-62e5-45d6-88d6-62153b9a335e#ref=rss)
-* [https://www.spiegel.de/ausland/russland-deutscher-staatsbuerger-wegen-sabotagevorwuerfen-festgenommen](https://www.spiegel.de/ausland/russland-deutscher-staatsbuerger-wegen-sabotagevorwuerfen-festgenommen-a-3a2bee18-1ae5-447a-8ec9-c94911fa8f3b#ref=rss)
-### zufolge
-
-* [https://www.spiegel.de/sport/fussball/fussball-pep-guardiola-verlaengert-offenbar-bei-manchester-city](https://www.spiegel.de/sport/fussball/fussball-pep-guardiola-verlaengert-offenbar-bei-manchester-city-a-586f5563-62e5-45d6-88d6-62153b9a335e#ref=rss)
-* [https://www.spiegel.de/ausland/russland-deutscher-staatsbuerger-wegen-sabotagevorwuerfen-festgenommen](https://www.spiegel.de/ausland/russland-deutscher-staatsbuerger-wegen-sabotagevorwuerfen-festgenommen-a-3a2bee18-1ae5-447a-8ec9-c94911fa8f3b#ref=rss)
-### philippsburg
-
-* [https://www.spiegel.de/panorama/gesellschaft/philippsburg-nach-vier-jahren-wieder-castor-transport-in-deutschland-erwartet](https://www.spiegel.de/panorama/gesellschaft/philippsburg-nach-vier-jahren-wieder-castor-transport-in-deutschland-erwartet-a-8196b29a-ff84-4956-9436-f717df826784#ref=rss)
-### rafael
-
-* [https://www.spiegel.de/sport/tennis/reaktionen-auf-rafael-nadals-karriereende-es-wird-nie-wieder-einen-wie-rafa-geben](https://www.spiegel.de/sport/tennis/reaktionen-auf-rafael-nadals-karriereende-es-wird-nie-wieder-einen-wie-rafa-geben-a-2af0d8e9-6587-4957-8ca4-b8d7a451005d#ref=rss)
-### nadal
-
-* [https://www.spiegel.de/sport/tennis/reaktionen-auf-rafael-nadals-karriereende-es-wird-nie-wieder-einen-wie-rafa-geben](https://www.spiegel.de/sport/tennis/reaktionen-auf-rafael-nadals-karriereende-es-wird-nie-wieder-einen-wie-rafa-geben-a-2af0d8e9-6587-4957-8ca4-b8d7a451005d#ref=rss)
-### abschied
-
-* [https://www.spiegel.de/sport/tennis/reaktionen-auf-rafael-nadals-karriereende-es-wird-nie-wieder-einen-wie-rafa-geben](https://www.spiegel.de/sport/tennis/reaktionen-auf-rafael-nadals-karriereende-es-wird-nie-wieder-einen-wie-rafa-geben-a-2af0d8e9-6587-4957-8ca4-b8d7a451005d#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-der-gescheiterte-versuch-zur-normalitaet-zurueckzukehren](https://www.spiegel.de/ausland/joe-biden-der-gescheiterte-versuch-zur-normalitaet-zurueckzukehren-a-992fa33f-72ca-486b-b4e4-42930a1f62dd#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/sport/tennis/reaktionen-auf-rafael-nadals-karriereende-es-wird-nie-wieder-einen-wie-rafa-geben](https://www.spiegel.de/sport/tennis/reaktionen-auf-rafael-nadals-karriereende-es-wird-nie-wieder-einen-wie-rafa-geben-a-2af0d8e9-6587-4957-8ca4-b8d7a451005d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/elon-musk-der-weltraum-revolutionaer-mit-duesterem-menschenbild-warum-man-ihn-ernst-nehmen-muss](https://www.spiegel.de/wissenschaft/weltall/elon-musk-der-weltraum-revolutionaer-mit-duesterem-menschenbild-warum-man-ihn-ernst-nehmen-muss-a-b04ff204-a138-4782-b3c1-d83bfc2cc43d#ref=rss)
-### reise
-
-* [https://www.spiegel.de/ausland/joe-biden-der-gescheiterte-versuch-zur-normalitaet-zurueckzukehren](https://www.spiegel.de/ausland/joe-biden-der-gescheiterte-versuch-zur-normalitaet-zurueckzukehren-a-992fa33f-72ca-486b-b4e4-42930a1f62dd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/kein-bock-auf-donald-trump-kreuzfahrt-reederei-wirbt-mit-vierjaehriger-auszeit](https://www.spiegel.de/wirtschaft/unternehmen/kein-bock-auf-donald-trump-kreuzfahrt-reederei-wirbt-mit-vierjaehriger-auszeit-a-5ba5c880-3e6f-4c4b-986f-2d0dce4a2315#ref=rss)
-### krankheit
-
-* [https://www.spiegel.de/politik/weltklimakonferenz-baerbock-muss-aufgrund-von-krankheit-erste-termine-absagen](https://www.spiegel.de/politik/weltklimakonferenz-baerbock-muss-aufgrund-von-krankheit-erste-termine-absagen-a-b0e5e6c5-ccc3-4e5e-974f-f173d885fee0#ref=rss)
+* [https://www.spiegel.de/ausland/russland-macht-nordkorea-besonderes-geschenk-ein-loewe-und-zwei-baeren-fuer-den-zoo-in-pjoengjang](https://www.spiegel.de/ausland/russland-macht-nordkorea-besonderes-geschenk-ein-loewe-und-zwei-baeren-fuer-den-zoo-in-pjoengjang-a-d9976315-958b-45e1-98d6-cfd185beb3f3#ref=rss)
+* [https://www.spiegel.de/politik/ostsee-kabel-zerstoert-was-haben-china-und-das-schiff-yi-peng-3-damit-zu-tun](https://www.spiegel.de/politik/ostsee-kabel-zerstoert-was-haben-china-und-das-schiff-yi-peng-3-damit-zu-tun-a-ff13cbc7-5144-4100-a6e9-f14396066b99#ref=rss)
 ### elon
 
-* [https://www.spiegel.de/wissenschaft/weltall/elon-musk-der-weltraum-revolutionaer-mit-duesterem-menschenbild-warum-man-ihn-ernst-nehmen-muss](https://www.spiegel.de/wissenschaft/weltall/elon-musk-der-weltraum-revolutionaer-mit-duesterem-menschenbild-warum-man-ihn-ernst-nehmen-muss-a-b04ff204-a138-4782-b3c1-d83bfc2cc43d#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/bluesky-profitiert-von-der-anti-musk-welle-schafft-die-plattform-den-durchbruch](https://www.spiegel.de/netzwelt/apps/bluesky-profitiert-von-der-anti-musk-welle-schafft-die-plattform-den-durchbruch-a-0b300aec-d51f-406a-baee-32b25544be2d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/spacex-makel-beim-testflug-der-starship-rakete-von-elon-musk](https://www.spiegel.de/wissenschaft/weltall/spacex-makel-beim-testflug-der-starship-rakete-von-elon-musk-a-151dec99-8c5e-4c91-9770-00c62e1b3be2#ref=rss)
+### st
+
+* [https://www.spiegel.de/sport/fussball/u17-weltmeister-kritisiert-st-pauli-wegen-kooperation-mit-bad-religion](https://www.spiegel.de/sport/fussball/u17-weltmeister-kritisiert-st-pauli-wegen-kooperation-mit-bad-religion-a-2aa757e2-2477-42dd-92d4-9fc47d64d576#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/panorama/justiz/berlin-kai-wegner-lobt-polizeipraesidentin-barbara-slowik-fuer-warnung](https://www.spiegel.de/panorama/justiz/berlin-kai-wegner-lobt-polizeipraesidentin-barbara-slowik-fuer-warnung-a-5636ef25-a4b5-434f-b730-b26bc6d564ba#ref=rss)
+* [https://www.spiegel.de/politik/deutschland-und-nord-stream-warum-die-sprengung-der-pipelines-gut-sind](https://www.spiegel.de/politik/deutschland-und-nord-stream-warum-die-sprengung-der-pipelines-gut-sind-a-e24256c2-23d9-4817-ad45-52b73e80b9b0#ref=rss)
+### wegner
+
+* [https://www.spiegel.de/panorama/justiz/berlin-kai-wegner-lobt-polizeipraesidentin-barbara-slowik-fuer-warnung](https://www.spiegel.de/panorama/justiz/berlin-kai-wegner-lobt-polizeipraesidentin-barbara-slowik-fuer-warnung-a-5636ef25-a4b5-434f-b730-b26bc6d564ba#ref=rss)
+### polizeipräsidentin
+
+* [https://www.spiegel.de/panorama/justiz/berlin-kai-wegner-lobt-polizeipraesidentin-barbara-slowik-fuer-warnung](https://www.spiegel.de/panorama/justiz/berlin-kai-wegner-lobt-polizeipraesidentin-barbara-slowik-fuer-warnung-a-5636ef25-a4b5-434f-b730-b26bc6d564ba#ref=rss)
+### barbara
+
+* [https://www.spiegel.de/panorama/justiz/berlin-kai-wegner-lobt-polizeipraesidentin-barbara-slowik-fuer-warnung](https://www.spiegel.de/panorama/justiz/berlin-kai-wegner-lobt-polizeipraesidentin-barbara-slowik-fuer-warnung-a-5636ef25-a4b5-434f-b730-b26bc6d564ba#ref=rss)
+### slowik
+
+* [https://www.spiegel.de/panorama/justiz/berlin-kai-wegner-lobt-polizeipraesidentin-barbara-slowik-fuer-warnung](https://www.spiegel.de/panorama/justiz/berlin-kai-wegner-lobt-polizeipraesidentin-barbara-slowik-fuer-warnung-a-5636ef25-a4b5-434f-b730-b26bc6d564ba#ref=rss)
+### berliner
+
+* [https://www.spiegel.de/panorama/justiz/berlin-kai-wegner-lobt-polizeipraesidentin-barbara-slowik-fuer-warnung](https://www.spiegel.de/panorama/justiz/berlin-kai-wegner-lobt-polizeipraesidentin-barbara-slowik-fuer-warnung-a-5636ef25-a4b5-434f-b730-b26bc6d564ba#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/berliner-republik-mdbs-in-die-produktion-kolumne](https://www.spiegel.de/wirtschaft/soziales/berliner-republik-mdbs-in-die-produktion-kolumne-a-08cae31c-b2ce-41a0-924b-cf09b73aca14#ref=rss)
+### kritisiert
+
+* [https://www.spiegel.de/panorama/justiz/berlin-kai-wegner-lobt-polizeipraesidentin-barbara-slowik-fuer-warnung](https://www.spiegel.de/panorama/justiz/berlin-kai-wegner-lobt-polizeipraesidentin-barbara-slowik-fuer-warnung-a-5636ef25-a4b5-434f-b730-b26bc6d564ba#ref=rss)
+* [https://www.spiegel.de/sport/fussball/u17-weltmeister-kritisiert-st-pauli-wegen-kooperation-mit-bad-religion](https://www.spiegel.de/sport/fussball/u17-weltmeister-kritisiert-st-pauli-wegen-kooperation-mit-bad-religion-a-2aa757e2-2477-42dd-92d4-9fc47d64d576#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/panorama/justiz/berlin-kai-wegner-lobt-polizeipraesidentin-barbara-slowik-fuer-warnung](https://www.spiegel.de/panorama/justiz/berlin-kai-wegner-lobt-polizeipraesidentin-barbara-slowik-fuer-warnung-a-5636ef25-a4b5-434f-b730-b26bc6d564ba#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/spanien-flutkatastrophe-kostet-0-2-prozentpunkte-wirtschaftswachstum](https://www.spiegel.de/wirtschaft/unternehmen/spanien-flutkatastrophe-kostet-0-2-prozentpunkte-wirtschaftswachstum-a-f3b4796a-1c0e-448a-8cb5-faf8fa6bcece#ref=rss)
+### findet
+
+* [https://www.spiegel.de/panorama/justiz/berlin-kai-wegner-lobt-polizeipraesidentin-barbara-slowik-fuer-warnung](https://www.spiegel.de/panorama/justiz/berlin-kai-wegner-lobt-polizeipraesidentin-barbara-slowik-fuer-warnung-a-5636ef25-a4b5-434f-b730-b26bc6d564ba#ref=rss)
+* [https://www.spiegel.de/kultur/oscarpreistraeger-edward-berger-und-sein-neuer-film-konklave-hollywood-aus-wolfsburg](https://www.spiegel.de/kultur/oscarpreistraeger-edward-berger-und-sein-neuer-film-konklave-hollywood-aus-wolfsburg-a-c44c0774-b7a4-41c2-a489-a03a783b6a26#ref=rss)
+### regime
+
+* [https://www.spiegel.de/ausland/russland-regime-erschwert-kulturschaffende-im-exil-den-zugang-zu-ihrem-geld](https://www.spiegel.de/ausland/russland-regime-erschwert-kulturschaffende-im-exil-den-zugang-zu-ihrem-geld-a-310555b9-6a7a-436f-8a72-4a2bce208484#ref=rss)
+### exil
+
+* [https://www.spiegel.de/ausland/russland-regime-erschwert-kulturschaffende-im-exil-den-zugang-zu-ihrem-geld](https://www.spiegel.de/ausland/russland-regime-erschwert-kulturschaffende-im-exil-den-zugang-zu-ihrem-geld-a-310555b9-6a7a-436f-8a72-4a2bce208484#ref=rss)
+### geld
+
+* [https://www.spiegel.de/ausland/russland-regime-erschwert-kulturschaffende-im-exil-den-zugang-zu-ihrem-geld](https://www.spiegel.de/ausland/russland-regime-erschwert-kulturschaffende-im-exil-den-zugang-zu-ihrem-geld-a-310555b9-6a7a-436f-8a72-4a2bce208484#ref=rss)
+### schauspieler
+
+* [https://www.spiegel.de/ausland/russland-regime-erschwert-kulturschaffende-im-exil-den-zugang-zu-ihrem-geld](https://www.spiegel.de/ausland/russland-regime-erschwert-kulturschaffende-im-exil-den-zugang-zu-ihrem-geld-a-310555b9-6a7a-436f-8a72-4a2bce208484#ref=rss)
+* [https://www.spiegel.de/kultur/josh-brolin-und-barbra-streisand-von-wegen-boese-stiefmutter](https://www.spiegel.de/kultur/josh-brolin-und-barbra-streisand-von-wegen-boese-stiefmutter-a-e9a34cd7-3477-4cae-b023-1a2195353a35#ref=rss)
+### musiker
+
+* [https://www.spiegel.de/ausland/russland-regime-erschwert-kulturschaffende-im-exil-den-zugang-zu-ihrem-geld](https://www.spiegel.de/ausland/russland-regime-erschwert-kulturschaffende-im-exil-den-zugang-zu-ihrem-geld-a-310555b9-6a7a-436f-8a72-4a2bce208484#ref=rss)
+* [https://www.spiegel.de/kultur/cher-berichtet-von-suizidgedanken-vor-ihrer-trennung](https://www.spiegel.de/kultur/cher-berichtet-von-suizidgedanken-vor-ihrer-trennung-a-b56205a2-0ac9-4708-932f-311cc925fc28#ref=rss)
+### moskau
+
+* [https://www.spiegel.de/ausland/russland-regime-erschwert-kulturschaffende-im-exil-den-zugang-zu-ihrem-geld](https://www.spiegel.de/ausland/russland-regime-erschwert-kulturschaffende-im-exil-den-zugang-zu-ihrem-geld-a-310555b9-6a7a-436f-8a72-4a2bce208484#ref=rss)
+* [https://www.spiegel.de/ausland/russland-macht-nordkorea-besonderes-geschenk-ein-loewe-und-zwei-baeren-fuer-den-zoo-in-pjoengjang](https://www.spiegel.de/ausland/russland-macht-nordkorea-besonderes-geschenk-ein-loewe-und-zwei-baeren-fuer-den-zoo-in-pjoengjang-a-d9976315-958b-45e1-98d6-cfd185beb3f3#ref=rss)
+### lars
+
+* [https://www.spiegel.de/politik/deutschland/spd-kanzlerkandidatur-spd-chef-lars-klingbeil-will-sich-nicht-draengen-lassen](https://www.spiegel.de/politik/deutschland/spd-kanzlerkandidatur-spd-chef-lars-klingbeil-will-sich-nicht-draengen-lassen-a-b8bd3ac2-5368-4182-ba95-83c851094658#ref=rss)
+### klingbeil
+
+* [https://www.spiegel.de/politik/deutschland/spd-kanzlerkandidatur-spd-chef-lars-klingbeil-will-sich-nicht-draengen-lassen](https://www.spiegel.de/politik/deutschland/spd-kanzlerkandidatur-spd-chef-lars-klingbeil-will-sich-nicht-draengen-lassen-a-b8bd3ac2-5368-4182-ba95-83c851094658#ref=rss)
+### bundestagswahl
+
+* [https://www.spiegel.de/politik/deutschland/spd-kanzlerkandidatur-spd-chef-lars-klingbeil-will-sich-nicht-draengen-lassen](https://www.spiegel.de/politik/deutschland/spd-kanzlerkandidatur-spd-chef-lars-klingbeil-will-sich-nicht-draengen-lassen-a-b8bd3ac2-5368-4182-ba95-83c851094658#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/berliner-republik-mdbs-in-die-produktion-kolumne](https://www.spiegel.de/wirtschaft/soziales/berliner-republik-mdbs-in-die-produktion-kolumne-a-08cae31c-b2ce-41a0-924b-cf09b73aca14#ref=rss)
+### kettensägenkapitalist
+
+* [https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-podcast](https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-podcast-a-1a301135-b49d-4eae-823a-1a5b673a442a#ref=rss)
+* [https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um](https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-a-334c7cba-dee0-40e1-b995-7bacd5ac088d#ref=rss)
+### argentinien
+
+* [https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-podcast](https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-podcast-a-1a301135-b49d-4eae-823a-1a5b673a442a#ref=rss)
+* [https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um](https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-a-334c7cba-dee0-40e1-b995-7bacd5ac088d#ref=rss)
+### argentiniens
+
+* [https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-podcast](https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-podcast-a-1a301135-b49d-4eae-823a-1a5b673a442a#ref=rss)
+* [https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um](https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-a-334c7cba-dee0-40e1-b995-7bacd5ac088d#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-podcast](https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-podcast-a-1a301135-b49d-4eae-823a-1a5b673a442a#ref=rss)
+* [https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um](https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-a-334c7cba-dee0-40e1-b995-7bacd5ac088d#ref=rss)
+### staat
+
+* [https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-podcast](https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-podcast-a-1a301135-b49d-4eae-823a-1a5b673a442a#ref=rss)
+* [https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um](https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-a-334c7cba-dee0-40e1-b995-7bacd5ac088d#ref=rss)
+### puren
+
+* [https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-podcast](https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-podcast-a-1a301135-b49d-4eae-823a-1a5b673a442a#ref=rss)
+* [https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um](https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-a-334c7cba-dee0-40e1-b995-7bacd5ac088d#ref=rss)
+### kapitalismus
+
+* [https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-podcast](https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-podcast-a-1a301135-b49d-4eae-823a-1a5b673a442a#ref=rss)
+* [https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um](https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-a-334c7cba-dee0-40e1-b995-7bacd5ac088d#ref=rss)
+### toten
+
+* [https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-podcast](https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-podcast-a-1a301135-b49d-4eae-823a-1a5b673a442a#ref=rss)
+* [https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um](https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-a-334c7cba-dee0-40e1-b995-7bacd5ac088d#ref=rss)
+### hund
+
+* [https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-podcast](https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-podcast-a-1a301135-b49d-4eae-823a-1a5b673a442a#ref=rss)
+* [https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um](https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-a-334c7cba-dee0-40e1-b995-7bacd5ac088d#ref=rss)
+### spiegelkorrespondent
+
+* [https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-podcast](https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-podcast-a-1a301135-b49d-4eae-823a-1a5b673a442a#ref=rss)
+* [https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um](https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-a-334c7cba-dee0-40e1-b995-7bacd5ac088d#ref=rss)
+### gerald
+
+* [https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-podcast](https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-podcast-a-1a301135-b49d-4eae-823a-1a5b673a442a#ref=rss)
+* [https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um](https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-a-334c7cba-dee0-40e1-b995-7bacd5ac088d#ref=rss)
+### traufetter
+
+* [https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-podcast](https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-podcast-a-1a301135-b49d-4eae-823a-1a5b673a442a#ref=rss)
+* [https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um](https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-a-334c7cba-dee0-40e1-b995-7bacd5ac088d#ref=rss)
+### beobachtet
+
+* [https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-podcast](https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-podcast-a-1a301135-b49d-4eae-823a-1a5b673a442a#ref=rss)
+* [https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um](https://www.spiegel.de/ausland/javier-milei-der-kettensaegen-kapitalist-baut-argentinien-radikal-um-a-334c7cba-dee0-40e1-b995-7bacd5ac088d#ref=rss)
+### claudia
+
+* [https://www.spiegel.de/kultur/claudia-roth-in-der-ukraine-wer-sind-wir](https://www.spiegel.de/kultur/claudia-roth-in-der-ukraine-wer-sind-wir-a-a54e32c9-210c-4f02-b082-706c320cb974#ref=rss)
+### roth
+
+* [https://www.spiegel.de/kultur/claudia-roth-in-der-ukraine-wer-sind-wir](https://www.spiegel.de/kultur/claudia-roth-in-der-ukraine-wer-sind-wir-a-a54e32c9-210c-4f02-b082-706c320cb974#ref=rss)
+### marius
+
+* [https://www.spiegel.de/panorama/justiz/marius-borg-hoiby-ermittler-werfen-mette-marits-sohn-weiteres-sexualdelikt-vor](https://www.spiegel.de/panorama/justiz/marius-borg-hoiby-ermittler-werfen-mette-marits-sohn-weiteres-sexualdelikt-vor-a-31efb087-1d14-4633-9940-91bd4ec627a5#ref=rss)
+### borg
+
+* [https://www.spiegel.de/panorama/justiz/marius-borg-hoiby-ermittler-werfen-mette-marits-sohn-weiteres-sexualdelikt-vor](https://www.spiegel.de/panorama/justiz/marius-borg-hoiby-ermittler-werfen-mette-marits-sohn-weiteres-sexualdelikt-vor-a-31efb087-1d14-4633-9940-91bd4ec627a5#ref=rss)
+### høiby
+
+* [https://www.spiegel.de/panorama/justiz/marius-borg-hoiby-ermittler-werfen-mette-marits-sohn-weiteres-sexualdelikt-vor](https://www.spiegel.de/panorama/justiz/marius-borg-hoiby-ermittler-werfen-mette-marits-sohn-weiteres-sexualdelikt-vor-a-31efb087-1d14-4633-9940-91bd4ec627a5#ref=rss)
+### ermittler
+
+* [https://www.spiegel.de/panorama/justiz/marius-borg-hoiby-ermittler-werfen-mette-marits-sohn-weiteres-sexualdelikt-vor](https://www.spiegel.de/panorama/justiz/marius-borg-hoiby-ermittler-werfen-mette-marits-sohn-weiteres-sexualdelikt-vor-a-31efb087-1d14-4633-9940-91bd4ec627a5#ref=rss)
+* [https://www.spiegel.de/politik/ostsee-kabel-zerstoert-was-haben-china-und-das-schiff-yi-peng-3-damit-zu-tun](https://www.spiegel.de/politik/ostsee-kabel-zerstoert-was-haben-china-und-das-schiff-yi-peng-3-damit-zu-tun-a-ff13cbc7-5144-4100-a6e9-f14396066b99#ref=rss)
+### sohn
+
+* [https://www.spiegel.de/panorama/justiz/marius-borg-hoiby-ermittler-werfen-mette-marits-sohn-weiteres-sexualdelikt-vor](https://www.spiegel.de/panorama/justiz/marius-borg-hoiby-ermittler-werfen-mette-marits-sohn-weiteres-sexualdelikt-vor-a-31efb087-1d14-4633-9940-91bd4ec627a5#ref=rss)
+### neue
+
+* [https://www.spiegel.de/panorama/justiz/marius-borg-hoiby-ermittler-werfen-mette-marits-sohn-weiteres-sexualdelikt-vor](https://www.spiegel.de/panorama/justiz/marius-borg-hoiby-ermittler-werfen-mette-marits-sohn-weiteres-sexualdelikt-vor-a-31efb087-1d14-4633-9940-91bd4ec627a5#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/bluesky-profitiert-von-der-anti-musk-welle-schafft-die-plattform-den-durchbruch](https://www.spiegel.de/netzwelt/apps/bluesky-profitiert-von-der-anti-musk-welle-schafft-die-plattform-den-durchbruch-a-0b300aec-d51f-406a-baee-32b25544be2d#ref=rss)
+### spanien
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/spanien-flutkatastrophe-kostet-0-2-prozentpunkte-wirtschaftswachstum](https://www.spiegel.de/wirtschaft/unternehmen/spanien-flutkatastrophe-kostet-0-2-prozentpunkte-wirtschaftswachstum-a-f3b4796a-1c0e-448a-8cb5-faf8fa6bcece#ref=rss)
+### matt
+
+* [https://www.spiegel.de/ausland/donald-trump-matt-whitaker-wird-nato-botschafter-der-neuen-us-regierung](https://www.spiegel.de/ausland/donald-trump-matt-whitaker-wird-nato-botschafter-der-neuen-us-regierung-a-14625551-b465-4c33-807d-f71be1d1d8a0#ref=rss)
+### whitaker
+
+* [https://www.spiegel.de/ausland/donald-trump-matt-whitaker-wird-nato-botschafter-der-neuen-us-regierung](https://www.spiegel.de/ausland/donald-trump-matt-whitaker-wird-nato-botschafter-der-neuen-us-regierung-a-14625551-b465-4c33-807d-f71be1d1d8a0#ref=rss)
+### usregierung
+
+* [https://www.spiegel.de/ausland/donald-trump-matt-whitaker-wird-nato-botschafter-der-neuen-us-regierung](https://www.spiegel.de/ausland/donald-trump-matt-whitaker-wird-nato-botschafter-der-neuen-us-regierung-a-14625551-b465-4c33-807d-f71be1d1d8a0#ref=rss)
+### laut
+
+* [https://www.spiegel.de/panorama/justiz/frankreich-vergewaltigungsprozess-in-avignon-plaedoyers-beginnen](https://www.spiegel.de/panorama/justiz/frankreich-vergewaltigungsprozess-in-avignon-plaedoyers-beginnen-a-97171a33-9547-4528-9578-8ed85052f116#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-greift-russland-offenbar-mit-storm-shadow-raketen-aus-grossbritannien-an](https://www.spiegel.de/ausland/ukraine-greift-russland-offenbar-mit-storm-shadow-raketen-aus-grossbritannien-an-a-bbffdb30-90ed-4d5f-b570-f3acdf58d3b7#ref=rss)
+### erst
+
+* [https://www.spiegel.de/ausland/ukraine-greift-russland-offenbar-mit-storm-shadow-raketen-aus-grossbritannien-an](https://www.spiegel.de/ausland/ukraine-greift-russland-offenbar-mit-storm-shadow-raketen-aus-grossbritannien-an-a-bbffdb30-90ed-4d5f-b570-f3acdf58d3b7#ref=rss)
+* [https://www.spiegel.de/ausland/russland-macht-nordkorea-besonderes-geschenk-ein-loewe-und-zwei-baeren-fuer-den-zoo-in-pjoengjang](https://www.spiegel.de/ausland/russland-macht-nordkorea-besonderes-geschenk-ein-loewe-und-zwei-baeren-fuer-den-zoo-in-pjoengjang-a-d9976315-958b-45e1-98d6-cfd185beb3f3#ref=rss)
+### profitiert
+
+* [https://www.spiegel.de/wissenschaft/natur/herzmuscheln-haben-eine-art-glasfaseranschluss](https://www.spiegel.de/wissenschaft/natur/herzmuscheln-haben-eine-art-glasfaseranschluss-a-5ae0d65a-5374-41e9-9d3c-57eeec3591c7#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/bluesky-profitiert-von-der-anti-musk-welle-schafft-die-plattform-den-durchbruch](https://www.spiegel.de/netzwelt/apps/bluesky-profitiert-von-der-anti-musk-welle-schafft-die-plattform-den-durchbruch-a-0b300aec-d51f-406a-baee-32b25544be2d#ref=rss)
+### cher
+
+* [https://www.spiegel.de/kultur/cher-berichtet-von-suizidgedanken-vor-ihrer-trennung](https://www.spiegel.de/kultur/cher-berichtet-von-suizidgedanken-vor-ihrer-trennung-a-b56205a2-0ac9-4708-932f-311cc925fc28#ref=rss)
+### one
+
+* [https://www.spiegel.de/kultur/musik/one-direction-wieder-vereint-am-grab-von-liam-payne](https://www.spiegel.de/kultur/musik/one-direction-wieder-vereint-am-grab-von-liam-payne-a-df8b5c3b-6987-4f50-b5b7-eec6a8b08aba#ref=rss)
+### direction
+
+* [https://www.spiegel.de/kultur/musik/one-direction-wieder-vereint-am-grab-von-liam-payne](https://www.spiegel.de/kultur/musik/one-direction-wieder-vereint-am-grab-von-liam-payne-a-df8b5c3b-6987-4f50-b5b7-eec6a8b08aba#ref=rss)
+### liam
+
+* [https://www.spiegel.de/kultur/musik/one-direction-wieder-vereint-am-grab-von-liam-payne](https://www.spiegel.de/kultur/musik/one-direction-wieder-vereint-am-grab-von-liam-payne-a-df8b5c3b-6987-4f50-b5b7-eec6a8b08aba#ref=rss)
+### payne
+
+* [https://www.spiegel.de/kultur/musik/one-direction-wieder-vereint-am-grab-von-liam-payne](https://www.spiegel.de/kultur/musik/one-direction-wieder-vereint-am-grab-von-liam-payne-a-df8b5c3b-6987-4f50-b5b7-eec6a8b08aba#ref=rss)
+### schlaganfall
+
+* [https://www.spiegel.de/gesundheit/so-schnell-werden-sie-bei-einem-schlaganfall-in-deutschland-versorgt](https://www.spiegel.de/gesundheit/so-schnell-werden-sie-bei-einem-schlaganfall-in-deutschland-versorgt-a-818646c0-ff15-4577-a94e-85b932d79960#ref=rss)
+### jede
+
+* [https://www.spiegel.de/gesundheit/so-schnell-werden-sie-bei-einem-schlaganfall-in-deutschland-versorgt](https://www.spiegel.de/gesundheit/so-schnell-werden-sie-bei-einem-schlaganfall-in-deutschland-versorgt-a-818646c0-ff15-4577-a94e-85b932d79960#ref=rss)
+* [https://www.spiegel.de/politik/ostsee-kabel-zerstoert-was-haben-china-und-das-schiff-yi-peng-3-damit-zu-tun](https://www.spiegel.de/politik/ostsee-kabel-zerstoert-was-haben-china-und-das-schiff-yi-peng-3-damit-zu-tun-a-ff13cbc7-5144-4100-a6e9-f14396066b99#ref=rss)
+### josh
+
+* [https://www.spiegel.de/kultur/josh-brolin-und-barbra-streisand-von-wegen-boese-stiefmutter](https://www.spiegel.de/kultur/josh-brolin-und-barbra-streisand-von-wegen-boese-stiefmutter-a-e9a34cd7-3477-4cae-b023-1a2195353a35#ref=rss)
+### brolin
+
+* [https://www.spiegel.de/kultur/josh-brolin-und-barbra-streisand-von-wegen-boese-stiefmutter](https://www.spiegel.de/kultur/josh-brolin-und-barbra-streisand-von-wegen-boese-stiefmutter-a-e9a34cd7-3477-4cae-b023-1a2195353a35#ref=rss)
+### barbra
+
+* [https://www.spiegel.de/kultur/josh-brolin-und-barbra-streisand-von-wegen-boese-stiefmutter](https://www.spiegel.de/kultur/josh-brolin-und-barbra-streisand-von-wegen-boese-stiefmutter-a-e9a34cd7-3477-4cae-b023-1a2195353a35#ref=rss)
+### streisand
+
+* [https://www.spiegel.de/kultur/josh-brolin-und-barbra-streisand-von-wegen-boese-stiefmutter](https://www.spiegel.de/kultur/josh-brolin-und-barbra-streisand-von-wegen-boese-stiefmutter-a-e9a34cd7-3477-4cae-b023-1a2195353a35#ref=rss)
+### stiefmutter
+
+* [https://www.spiegel.de/kultur/josh-brolin-und-barbra-streisand-von-wegen-boese-stiefmutter](https://www.spiegel.de/kultur/josh-brolin-und-barbra-streisand-von-wegen-boese-stiefmutter-a-e9a34cd7-3477-4cae-b023-1a2195353a35#ref=rss)
+### sprengung
+
+* [https://www.spiegel.de/politik/deutschland-und-nord-stream-warum-die-sprengung-der-pipelines-gut-sind](https://www.spiegel.de/politik/deutschland-und-nord-stream-warum-die-sprengung-der-pipelines-gut-sind-a-e24256c2-23d9-4817-ad45-52b73e80b9b0#ref=rss)
+### groß
+
+* [https://www.spiegel.de/politik/deutschland-und-nord-stream-warum-die-sprengung-der-pipelines-gut-sind](https://www.spiegel.de/politik/deutschland-und-nord-stream-warum-die-sprengung-der-pipelines-gut-sind-a-e24256c2-23d9-4817-ad45-52b73e80b9b0#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/spacex-makel-beim-testflug-der-starship-rakete-von-elon-musk](https://www.spiegel.de/wissenschaft/weltall/spacex-makel-beim-testflug-der-starship-rakete-von-elon-musk-a-151dec99-8c5e-4c91-9770-00c62e1b3be2#ref=rss)
+### ostsee
+
+* [https://www.spiegel.de/politik/deutschland-und-nord-stream-warum-die-sprengung-der-pipelines-gut-sind](https://www.spiegel.de/politik/deutschland-und-nord-stream-warum-die-sprengung-der-pipelines-gut-sind-a-e24256c2-23d9-4817-ad45-52b73e80b9b0#ref=rss)
+* [https://www.spiegel.de/politik/ostsee-kabel-zerstoert-was-haben-china-und-das-schiff-yi-peng-3-damit-zu-tun](https://www.spiegel.de/politik/ostsee-kabel-zerstoert-was-haben-china-und-das-schiff-yi-peng-3-damit-zu-tun-a-ff13cbc7-5144-4100-a6e9-f14396066b99#ref=rss)
+### nordkorea
+
+* [https://www.spiegel.de/ausland/russland-macht-nordkorea-besonderes-geschenk-ein-loewe-und-zwei-baeren-fuer-den-zoo-in-pjoengjang](https://www.spiegel.de/ausland/russland-macht-nordkorea-besonderes-geschenk-ein-loewe-und-zwei-baeren-fuer-den-zoo-in-pjoengjang-a-d9976315-958b-45e1-98d6-cfd185beb3f3#ref=rss)
+### besonderes
+
+* [https://www.spiegel.de/ausland/russland-macht-nordkorea-besonderes-geschenk-ein-loewe-und-zwei-baeren-fuer-den-zoo-in-pjoengjang](https://www.spiegel.de/ausland/russland-macht-nordkorea-besonderes-geschenk-ein-loewe-und-zwei-baeren-fuer-den-zoo-in-pjoengjang-a-d9976315-958b-45e1-98d6-cfd185beb3f3#ref=rss)
+### geschenk
+
+* [https://www.spiegel.de/ausland/russland-macht-nordkorea-besonderes-geschenk-ein-loewe-und-zwei-baeren-fuer-den-zoo-in-pjoengjang](https://www.spiegel.de/ausland/russland-macht-nordkorea-besonderes-geschenk-ein-loewe-und-zwei-baeren-fuer-den-zoo-in-pjoengjang-a-d9976315-958b-45e1-98d6-cfd185beb3f3#ref=rss)
+### löwe
+
+* [https://www.spiegel.de/ausland/russland-macht-nordkorea-besonderes-geschenk-ein-loewe-und-zwei-baeren-fuer-den-zoo-in-pjoengjang](https://www.spiegel.de/ausland/russland-macht-nordkorea-besonderes-geschenk-ein-loewe-und-zwei-baeren-fuer-den-zoo-in-pjoengjang-a-d9976315-958b-45e1-98d6-cfd185beb3f3#ref=rss)
+### bären
+
+* [https://www.spiegel.de/ausland/russland-macht-nordkorea-besonderes-geschenk-ein-loewe-und-zwei-baeren-fuer-den-zoo-in-pjoengjang](https://www.spiegel.de/ausland/russland-macht-nordkorea-besonderes-geschenk-ein-loewe-und-zwei-baeren-fuer-den-zoo-in-pjoengjang-a-d9976315-958b-45e1-98d6-cfd185beb3f3#ref=rss)
+### zoo
+
+* [https://www.spiegel.de/ausland/russland-macht-nordkorea-besonderes-geschenk-ein-loewe-und-zwei-baeren-fuer-den-zoo-in-pjoengjang](https://www.spiegel.de/ausland/russland-macht-nordkorea-besonderes-geschenk-ein-loewe-und-zwei-baeren-fuer-den-zoo-in-pjoengjang-a-d9976315-958b-45e1-98d6-cfd185beb3f3#ref=rss)
+### pjöngjang
+
+* [https://www.spiegel.de/ausland/russland-macht-nordkorea-besonderes-geschenk-ein-loewe-und-zwei-baeren-fuer-den-zoo-in-pjoengjang](https://www.spiegel.de/ausland/russland-macht-nordkorea-besonderes-geschenk-ein-loewe-und-zwei-baeren-fuer-den-zoo-in-pjoengjang-a-d9976315-958b-45e1-98d6-cfd185beb3f3#ref=rss)
+### vwbetriebsrat
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-betriebsrat-macht-vorschlag-wie-man-volkswagen-sanieren-kann](https://www.spiegel.de/wirtschaft/unternehmen/vw-betriebsrat-macht-vorschlag-wie-man-volkswagen-sanieren-kann-a-25e6d44f-e767-4d7c-91e9-147906fba517#ref=rss)
+### edward
+
+* [https://www.spiegel.de/kultur/oscarpreistraeger-edward-berger-und-sein-neuer-film-konklave-hollywood-aus-wolfsburg](https://www.spiegel.de/kultur/oscarpreistraeger-edward-berger-und-sein-neuer-film-konklave-hollywood-aus-wolfsburg-a-c44c0774-b7a4-41c2-a489-a03a783b6a26#ref=rss)
+### berger
+
+* [https://www.spiegel.de/kultur/oscarpreistraeger-edward-berger-und-sein-neuer-film-konklave-hollywood-aus-wolfsburg](https://www.spiegel.de/kultur/oscarpreistraeger-edward-berger-und-sein-neuer-film-konklave-hollywood-aus-wolfsburg-a-c44c0774-b7a4-41c2-a489-a03a783b6a26#ref=rss)
+### film
+
+* [https://www.spiegel.de/kultur/oscarpreistraeger-edward-berger-und-sein-neuer-film-konklave-hollywood-aus-wolfsburg](https://www.spiegel.de/kultur/oscarpreistraeger-edward-berger-und-sein-neuer-film-konklave-hollywood-aus-wolfsburg-a-c44c0774-b7a4-41c2-a489-a03a783b6a26#ref=rss)
+### konklave
+
+* [https://www.spiegel.de/kultur/oscarpreistraeger-edward-berger-und-sein-neuer-film-konklave-hollywood-aus-wolfsburg](https://www.spiegel.de/kultur/oscarpreistraeger-edward-berger-und-sein-neuer-film-konklave-hollywood-aus-wolfsburg-a-c44c0774-b7a4-41c2-a489-a03a783b6a26#ref=rss)
+### durchbruch
+
+* [https://www.spiegel.de/kultur/oscarpreistraeger-edward-berger-und-sein-neuer-film-konklave-hollywood-aus-wolfsburg](https://www.spiegel.de/kultur/oscarpreistraeger-edward-berger-und-sein-neuer-film-konklave-hollywood-aus-wolfsburg-a-c44c0774-b7a4-41c2-a489-a03a783b6a26#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/bluesky-profitiert-von-der-anti-musk-welle-schafft-die-plattform-den-durchbruch](https://www.spiegel.de/netzwelt/apps/bluesky-profitiert-von-der-anti-musk-welle-schafft-die-plattform-den-durchbruch-a-0b300aec-d51f-406a-baee-32b25544be2d#ref=rss)
+### republik
+
+* [https://www.spiegel.de/panorama/winterwetter-in-deutschland-bis-zu-zehn-zentimeter-neuschnee-in-den-mittelgebirgen](https://www.spiegel.de/panorama/winterwetter-in-deutschland-bis-zu-zehn-zentimeter-neuschnee-in-den-mittelgebirgen-a-86327b04-50d2-42f3-b01c-3013b476d11c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/berliner-republik-mdbs-in-die-produktion-kolumne](https://www.spiegel.de/wirtschaft/soziales/berliner-republik-mdbs-in-die-produktion-kolumne-a-08cae31c-b2ce-41a0-924b-cf09b73aca14#ref=rss)
+### sabrina
+
+* [https://www.spiegel.de/kultur/sabrina-carpenter-bekommt-eigene-weihnachts-show-espresso-statt-eierlikoer](https://www.spiegel.de/kultur/sabrina-carpenter-bekommt-eigene-weihnachts-show-espresso-statt-eierlikoer-a-deb864dd-f48e-40f7-9fb4-7f8ad09989a3#ref=rss)
+### carpenter
+
+* [https://www.spiegel.de/kultur/sabrina-carpenter-bekommt-eigene-weihnachts-show-espresso-statt-eierlikoer](https://www.spiegel.de/kultur/sabrina-carpenter-bekommt-eigene-weihnachts-show-espresso-statt-eierlikoer-a-deb864dd-f48e-40f7-9fb4-7f8ad09989a3#ref=rss)
+### bekommt
+
+* [https://www.spiegel.de/kultur/sabrina-carpenter-bekommt-eigene-weihnachts-show-espresso-statt-eierlikoer](https://www.spiegel.de/kultur/sabrina-carpenter-bekommt-eigene-weihnachts-show-espresso-statt-eierlikoer-a-deb864dd-f48e-40f7-9fb4-7f8ad09989a3#ref=rss)
+### espresso
+
+* [https://www.spiegel.de/kultur/sabrina-carpenter-bekommt-eigene-weihnachts-show-espresso-statt-eierlikoer](https://www.spiegel.de/kultur/sabrina-carpenter-bekommt-eigene-weihnachts-show-espresso-statt-eierlikoer-a-deb864dd-f48e-40f7-9fb4-7f8ad09989a3#ref=rss)
+### bluesky
+
+* [https://www.spiegel.de/netzwelt/apps/bluesky-profitiert-von-der-anti-musk-welle-schafft-die-plattform-den-durchbruch](https://www.spiegel.de/netzwelt/apps/bluesky-profitiert-von-der-anti-musk-welle-schafft-die-plattform-den-durchbruch-a-0b300aec-d51f-406a-baee-32b25544be2d#ref=rss)
+### plattform
+
+* [https://www.spiegel.de/netzwelt/apps/bluesky-profitiert-von-der-anti-musk-welle-schafft-die-plattform-den-durchbruch](https://www.spiegel.de/netzwelt/apps/bluesky-profitiert-von-der-anti-musk-welle-schafft-die-plattform-den-durchbruch-a-0b300aec-d51f-406a-baee-32b25544be2d#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/u17-weltmeister-kritisiert-st-pauli-wegen-kooperation-mit-bad-religion](https://www.spiegel.de/sport/fussball/u17-weltmeister-kritisiert-st-pauli-wegen-kooperation-mit-bad-religion-a-2aa757e2-2477-42dd-92d4-9fc47d64d576#ref=rss)
+### pauli
+
+* [https://www.spiegel.de/sport/fussball/u17-weltmeister-kritisiert-st-pauli-wegen-kooperation-mit-bad-religion](https://www.spiegel.de/sport/fussball/u17-weltmeister-kritisiert-st-pauli-wegen-kooperation-mit-bad-religion-a-2aa757e2-2477-42dd-92d4-9fc47d64d576#ref=rss)
+### bad
+
+* [https://www.spiegel.de/sport/fussball/u17-weltmeister-kritisiert-st-pauli-wegen-kooperation-mit-bad-religion](https://www.spiegel.de/sport/fussball/u17-weltmeister-kritisiert-st-pauli-wegen-kooperation-mit-bad-religion-a-2aa757e2-2477-42dd-92d4-9fc47d64d576#ref=rss)
+### religion
+
+* [https://www.spiegel.de/sport/fussball/u17-weltmeister-kritisiert-st-pauli-wegen-kooperation-mit-bad-religion](https://www.spiegel.de/sport/fussball/u17-weltmeister-kritisiert-st-pauli-wegen-kooperation-mit-bad-religion-a-2aa757e2-2477-42dd-92d4-9fc47d64d576#ref=rss)
 ### musk
 
-* [https://www.spiegel.de/wissenschaft/weltall/elon-musk-der-weltraum-revolutionaer-mit-duesterem-menschenbild-warum-man-ihn-ernst-nehmen-muss](https://www.spiegel.de/wissenschaft/weltall/elon-musk-der-weltraum-revolutionaer-mit-duesterem-menschenbild-warum-man-ihn-ernst-nehmen-muss-a-b04ff204-a138-4782-b3c1-d83bfc2cc43d#ref=rss)
-### menschenbild
+* [https://www.spiegel.de/wissenschaft/weltall/spacex-makel-beim-testflug-der-starship-rakete-von-elon-musk](https://www.spiegel.de/wissenschaft/weltall/spacex-makel-beim-testflug-der-starship-rakete-von-elon-musk-a-151dec99-8c5e-4c91-9770-00c62e1b3be2#ref=rss)
+### schiff
 
-* [https://www.spiegel.de/wissenschaft/weltall/elon-musk-der-weltraum-revolutionaer-mit-duesterem-menschenbild-warum-man-ihn-ernst-nehmen-muss](https://www.spiegel.de/wissenschaft/weltall/elon-musk-der-weltraum-revolutionaer-mit-duesterem-menschenbild-warum-man-ihn-ernst-nehmen-muss-a-b04ff204-a138-4782-b3c1-d83bfc2cc43d#ref=rss)
-### schritt
-
-* [https://www.spiegel.de/wissenschaft/weltall/elon-musk-der-weltraum-revolutionaer-mit-duesterem-menschenbild-warum-man-ihn-ernst-nehmen-muss](https://www.spiegel.de/wissenschaft/weltall/elon-musk-der-weltraum-revolutionaer-mit-duesterem-menschenbild-warum-man-ihn-ernst-nehmen-muss-a-b04ff204-a138-4782-b3c1-d83bfc2cc43d#ref=rss)
-### mikromanagement
-
-* [https://www.spiegel.de/start/mikromanagement-bei-der-arbeit-wir-sind-hier-doch-nicht-im-kindergarten](https://www.spiegel.de/start/mikromanagement-bei-der-arbeit-wir-sind-hier-doch-nicht-im-kindergarten-a-992e811a-0367-4dc8-a82e-bb3fcdb9947f#ref=rss)
-### deutscher
-
-* [https://www.spiegel.de/ausland/russland-deutscher-staatsbuerger-wegen-sabotagevorwuerfen-festgenommen](https://www.spiegel.de/ausland/russland-deutscher-staatsbuerger-wegen-sabotagevorwuerfen-festgenommen-a-3a2bee18-1ae5-447a-8ec9-c94911fa8f3b#ref=rss)
-### festgenommen
-
-* [https://www.spiegel.de/ausland/russland-deutscher-staatsbuerger-wegen-sabotagevorwuerfen-festgenommen](https://www.spiegel.de/ausland/russland-deutscher-staatsbuerger-wegen-sabotagevorwuerfen-festgenommen-a-3a2bee18-1ae5-447a-8ec9-c94911fa8f3b#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/gesellschaft/tesla-protestcamp-bei-gruenheide-polizei-will-erneute-besetzung-verhindern](https://www.spiegel.de/panorama/gesellschaft/tesla-protestcamp-bei-gruenheide-polizei-will-erneute-besetzung-verhindern-a-6977e272-4749-48a7-8347-eb3b4326826b#ref=rss)
-### matthew
-
-* [https://www.spiegel.de/panorama/leute/hollywood-wie-oscarpreistraeger-matthew-mcconaughey-zum-neinsager-wurde](https://www.spiegel.de/panorama/leute/hollywood-wie-oscarpreistraeger-matthew-mcconaughey-zum-neinsager-wurde-a-513cd5c9-4ae5-4fcb-8c63-16d180df3fb9#ref=rss)
-### mcconaughey
-
-* [https://www.spiegel.de/panorama/leute/hollywood-wie-oscarpreistraeger-matthew-mcconaughey-zum-neinsager-wurde](https://www.spiegel.de/panorama/leute/hollywood-wie-oscarpreistraeger-matthew-mcconaughey-zum-neinsager-wurde-a-513cd5c9-4ae5-4fcb-8c63-16d180df3fb9#ref=rss)
+* [https://www.spiegel.de/politik/ostsee-kabel-zerstoert-was-haben-china-und-das-schiff-yi-peng-3-damit-zu-tun](https://www.spiegel.de/politik/ostsee-kabel-zerstoert-was-haben-china-und-das-schiff-yi-peng-3-damit-zu-tun-a-ff13cbc7-5144-4100-a6e9-f14396066b99#ref=rss)
 
