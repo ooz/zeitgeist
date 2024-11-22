@@ -4,377 +4,382 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### angela
-
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast-a-34aec388-9e01-45c4-8171-79d3071fa703#ref=rss)
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-a-27b50019-0bec-42cf-b60b-9a7c265993de#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/memoiren-von-angela-merkel-so-denkt-die-ex-kanzlerin-ueber-olaf-scholz-friedrich-merz-donald-trump-wladimir-putin](https://www.spiegel.de/politik/deutschland/memoiren-von-angela-merkel-so-denkt-die-ex-kanzlerin-ueber-olaf-scholz-friedrich-merz-donald-trump-wladimir-putin-a-ecfb16e9-1ab9-452a-99e7-d5efa712caa6#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/start/homeoffice-wie-koennen-wir-unsere-freiheit-im-job-zurueckerobern](https://www.spiegel.de/start/homeoffice-wie-koennen-wir-unsere-freiheit-im-job-zurueckerobern-a-3d299f6a-45cd-472b-90fa-39cf6a7ac8bf#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/mobilitaet-reiseverhalten-der-deutschen-hat-sich-durch-die-pandemie-veraendert](https://www.spiegel.de/wirtschaft/soziales/mobilitaet-reiseverhalten-der-deutschen-hat-sich-durch-die-pandemie-veraendert-a-6205ba81-e735-452d-b258-2a62c42bcc28#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/whatsapp-kann-sprachnachrichten-nun-auch-in-text-umwandeln](https://www.spiegel.de/netzwelt/apps/whatsapp-kann-sprachnachrichten-nun-auch-in-text-umwandeln-a-c6e8bad6-9ece-4ee2-be41-0a03725b6fdb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/grundsteuer-immer-mehr-kommunen-langten-2023-kraeftig-hin](https://www.spiegel.de/wirtschaft/grundsteuer-immer-mehr-kommunen-langten-2023-kraeftig-hin-a-3562d9fb-6246-4136-aec3-5c1ac8e4e1d6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/toxische-maennlichkeit-warum-es-mehr-weltmaennertage-braucht](https://www.spiegel.de/politik/deutschland/toxische-maennlichkeit-warum-es-mehr-weltmaennertage-braucht-a-a8f7a4fc-7cc7-43e6-ae61-bfad9d30f58d#ref=rss)
-### bundesrat
-
-* [https://www.spiegel.de/politik/deutschland/krankenhausreform-bundesrat-macht-weg-fuer-karls-lauterbachs-krankenhausreform-frei](https://www.spiegel.de/politik/deutschland/krankenhausreform-bundesrat-macht-weg-fuer-karls-lauterbachs-krankenhausreform-frei-a-d57ed517-68c3-4307-a869-23eb34272c65#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/brandenburg-dietmar-woidke-entlaesst-gesundheitsministerin-ursula-nonnenmacher-im-bundesrat](https://www.spiegel.de/politik/deutschland/brandenburg-dietmar-woidke-entlaesst-gesundheitsministerin-ursula-nonnenmacher-im-bundesrat-a-6384b993-1d3e-4888-bc66-85deb3d1ff13#ref=rss)
-### merkel
-
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast-a-34aec388-9e01-45c4-8171-79d3071fa703#ref=rss)
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-a-27b50019-0bec-42cf-b60b-9a7c265993de#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/memoiren-von-angela-merkel-so-denkt-die-ex-kanzlerin-ueber-olaf-scholz-friedrich-merz-donald-trump-wladimir-putin](https://www.spiegel.de/politik/deutschland/memoiren-von-angela-merkel-so-denkt-die-ex-kanzlerin-ueber-olaf-scholz-friedrich-merz-donald-trump-wladimir-putin-a-ecfb16e9-1ab9-452a-99e7-d5efa712caa6#ref=rss)
-### putin
-
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast-a-34aec388-9e01-45c4-8171-79d3071fa703#ref=rss)
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-a-27b50019-0bec-42cf-b60b-9a7c265993de#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/memoiren-von-angela-merkel-so-denkt-die-ex-kanzlerin-ueber-olaf-scholz-friedrich-merz-donald-trump-wladimir-putin](https://www.spiegel.de/politik/deutschland/memoiren-von-angela-merkel-so-denkt-die-ex-kanzlerin-ueber-olaf-scholz-friedrich-merz-donald-trump-wladimir-putin-a-ecfb16e9-1ab9-452a-99e7-d5efa712caa6#ref=rss)
-### krankenhausreform
-
-* [https://www.spiegel.de/politik/deutschland/krankenhausreform-bundesrat-macht-weg-fuer-karls-lauterbachs-krankenhausreform-frei](https://www.spiegel.de/politik/deutschland/krankenhausreform-bundesrat-macht-weg-fuer-karls-lauterbachs-krankenhausreform-frei-a-d57ed517-68c3-4307-a869-23eb34272c65#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/politik/deutschland/krankenhausreform-bundesrat-macht-weg-fuer-karls-lauterbachs-krankenhausreform-frei](https://www.spiegel.de/politik/deutschland/krankenhausreform-bundesrat-macht-weg-fuer-karls-lauterbachs-krankenhausreform-frei-a-d57ed517-68c3-4307-a869-23eb34272c65#ref=rss)
-* [https://www.spiegel.de/panorama/jannik-schuemann-fuehlt-sich-manchmal-von-seinem-telefon-ueberwacht](https://www.spiegel.de/panorama/jannik-schuemann-fuehlt-sich-manchmal-von-seinem-telefon-ueberwacht-a-a4eea69a-f71e-4bb6-ba51-2e9be2431023#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirecard-jetzt-startet-der-prozess-fuer-die-anleger](https://www.spiegel.de/wirtschaft/wirecard-jetzt-startet-der-prozess-fuer-die-anleger-a-e43c47ca-10aa-4ffc-8587-cdf8c35c2502#ref=rss)
-### umstritten
-
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast-a-34aec388-9e01-45c4-8171-79d3071fa703#ref=rss)
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-a-27b50019-0bec-42cf-b60b-9a7c265993de#ref=rss)
-* [https://www.spiegel.de/panorama/todesstrafe-zu-tode-verurteilter-in-alabama-mit-stickstoffgas-hingerichtet](https://www.spiegel.de/panorama/todesstrafe-zu-tode-verurteilter-in-alabama-mit-stickstoffgas-hingerichtet-a-763a2338-782f-4750-814e-aa0be453a231#ref=rss)
-### fehler
-
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast-a-34aec388-9e01-45c4-8171-79d3071fa703#ref=rss)
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-a-27b50019-0bec-42cf-b60b-9a7c265993de#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/memoiren-von-angela-merkel-so-denkt-die-ex-kanzlerin-ueber-olaf-scholz-friedrich-merz-donald-trump-wladimir-putin](https://www.spiegel.de/politik/deutschland/memoiren-von-angela-merkel-so-denkt-die-ex-kanzlerin-ueber-olaf-scholz-friedrich-merz-donald-trump-wladimir-putin-a-ecfb16e9-1ab9-452a-99e7-d5efa712caa6#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/konjunktur-oekonom-erwarten-quaelend-lange-stagnationsphase-in-deutschland](https://www.spiegel.de/wirtschaft/konjunktur-oekonom-erwarten-quaelend-lange-stagnationsphase-in-deutschland-a-bade8e07-a59b-492f-9e29-ca58552749ea#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-orlando-magics-franz-wagner-brilliert-mit-37-punkten-und-dem-entscheidenden-dreier](https://www.spiegel.de/sport/basketball/nba-orlando-magics-franz-wagner-brilliert-mit-37-punkten-und-dem-entscheidenden-dreier-a-17a28f8a-8257-46a6-bac6-4ffdfe05b4e0#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-starker-schneefall-bremst-verkehr-im-sueden-aus](https://www.spiegel.de/panorama/wetter-starker-schneefall-bremst-verkehr-im-sueden-aus-a-bf403f77-aff1-44b9-89e6-bf1cd952cd6d#ref=rss)
-### olaf
-
-* [https://www.spiegel.de/politik/deutschland/memoiren-von-angela-merkel-so-denkt-die-ex-kanzlerin-ueber-olaf-scholz-friedrich-merz-donald-trump-wladimir-putin](https://www.spiegel.de/politik/deutschland/memoiren-von-angela-merkel-so-denkt-die-ex-kanzlerin-ueber-olaf-scholz-friedrich-merz-donald-trump-wladimir-putin-a-ecfb16e9-1ab9-452a-99e7-d5efa712caa6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-wird-spd-kanzlerkandidat-finale-der-klimakonferenz-wirecard-anleger-wollen-schadensersatz-rueckzug-von-matt-gaetz](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-wird-spd-kanzlerkandidat-finale-der-klimakonferenz-wirecard-anleger-wollen-schadensersatz-rueckzug-von-matt-gaetz-a-8018de00-81d9-4d91-a82e-c56e139b2d62#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/deutschland/memoiren-von-angela-merkel-so-denkt-die-ex-kanzlerin-ueber-olaf-scholz-friedrich-merz-donald-trump-wladimir-putin](https://www.spiegel.de/politik/deutschland/memoiren-von-angela-merkel-so-denkt-die-ex-kanzlerin-ueber-olaf-scholz-friedrich-merz-donald-trump-wladimir-putin-a-ecfb16e9-1ab9-452a-99e7-d5efa712caa6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-wird-spd-kanzlerkandidat-finale-der-klimakonferenz-wirecard-anleger-wollen-schadensersatz-rueckzug-von-matt-gaetz](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-wird-spd-kanzlerkandidat-finale-der-klimakonferenz-wirecard-anleger-wollen-schadensersatz-rueckzug-von-matt-gaetz-a-8018de00-81d9-4d91-a82e-c56e139b2d62#ref=rss)
-### kräftig
-
-* [https://www.spiegel.de/wirtschaft/stromkunden-koennen-durch-anbieterwechsel-kraeftig-sparen](https://www.spiegel.de/wirtschaft/stromkunden-koennen-durch-anbieterwechsel-kraeftig-sparen-a-38827047-c787-4321-8708-2da2a99ec5bc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/grundsteuer-immer-mehr-kommunen-langten-2023-kraeftig-hin](https://www.spiegel.de/wirtschaft/grundsteuer-immer-mehr-kommunen-langten-2023-kraeftig-hin-a-3562d9fb-6246-4136-aec3-5c1ac8e4e1d6#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/atomwaffen-usa-erwaegen-aenderung-ihrer-nuklearstrategie](https://www.spiegel.de/ausland/atomwaffen-usa-erwaegen-aenderung-ihrer-nuklearstrategie-a-055a5670-1356-40d0-89b9-051bdd87a5fd#ref=rss)
-* [https://www.spiegel.de/panorama/todesstrafe-zu-tode-verurteilter-in-alabama-mit-stickstoffgas-hingerichtet](https://www.spiegel.de/panorama/todesstrafe-zu-tode-verurteilter-in-alabama-mit-stickstoffgas-hingerichtet-a-763a2338-782f-4750-814e-aa0be453a231#ref=rss)
-### männlichkeit
-
-* [https://www.spiegel.de/politik/deutschland/toxische-maennlichkeit-warum-es-mehr-weltmaennertage-braucht](https://www.spiegel.de/politik/deutschland/toxische-maennlichkeit-warum-es-mehr-weltmaennertage-braucht-a-a8f7a4fc-7cc7-43e6-ae61-bfad9d30f58d#ref=rss)
-### zypern
-
-* [https://www.spiegel.de/panorama/justiz/zypern-fall-block-35-jaehriger-festgenommen](https://www.spiegel.de/panorama/justiz/zypern-fall-block-35-jaehriger-festgenommen-a-c4dbfe2c-8edc-4214-b926-4998bcfdb826#ref=rss)
-### block
-
-* [https://www.spiegel.de/panorama/justiz/zypern-fall-block-35-jaehriger-festgenommen](https://www.spiegel.de/panorama/justiz/zypern-fall-block-35-jaehriger-festgenommen-a-c4dbfe2c-8edc-4214-b926-4998bcfdb826#ref=rss)
-### 35jähriger
-
-* [https://www.spiegel.de/panorama/justiz/zypern-fall-block-35-jaehriger-festgenommen](https://www.spiegel.de/panorama/justiz/zypern-fall-block-35-jaehriger-festgenommen-a-c4dbfe2c-8edc-4214-b926-4998bcfdb826#ref=rss)
-### festgenommen
-
-* [https://www.spiegel.de/panorama/justiz/zypern-fall-block-35-jaehriger-festgenommen](https://www.spiegel.de/panorama/justiz/zypern-fall-block-35-jaehriger-festgenommen-a-c4dbfe2c-8edc-4214-b926-4998bcfdb826#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/politik/deutschland/krankenhausreform-bundesrat-macht-weg-fuer-karls-lauterbachs-krankenhausreform-frei](https://www.spiegel.de/politik/deutschland/krankenhausreform-bundesrat-macht-weg-fuer-karls-lauterbachs-krankenhausreform-frei-a-d57ed517-68c3-4307-a869-23eb34272c65#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/toxische-maennlichkeit-warum-es-mehr-weltmaennertage-braucht](https://www.spiegel.de/politik/deutschland/toxische-maennlichkeit-warum-es-mehr-weltmaennertage-braucht-a-a8f7a4fc-7cc7-43e6-ae61-bfad9d30f58d#ref=rss)
-### lang
-
-* [https://www.spiegel.de/politik/deutschland/krankenhausreform-bundesrat-macht-weg-fuer-karls-lauterbachs-krankenhausreform-frei](https://www.spiegel.de/politik/deutschland/krankenhausreform-bundesrat-macht-weg-fuer-karls-lauterbachs-krankenhausreform-frei-a-d57ed517-68c3-4307-a869-23eb34272c65#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/whatsapp-kann-sprachnachrichten-nun-auch-in-text-umwandeln](https://www.spiegel.de/netzwelt/apps/whatsapp-kann-sprachnachrichten-nun-auch-in-text-umwandeln-a-c6e8bad6-9ece-4ee2-be41-0a03725b6fdb#ref=rss)
-### pirna
-
-* [https://www.spiegel.de/panorama/pirna-in-sachsen-zweijaehriger-stuerzt-in-metertiefen-schacht](https://www.spiegel.de/panorama/pirna-in-sachsen-zweijaehriger-stuerzt-in-metertiefen-schacht-a-b3e93458-d51b-4237-aec6-d98f7857bde7#ref=rss)
-### unsere
-
-* [https://www.spiegel.de/start/homeoffice-wie-koennen-wir-unsere-freiheit-im-job-zurueckerobern](https://www.spiegel.de/start/homeoffice-wie-koennen-wir-unsere-freiheit-im-job-zurueckerobern-a-3d299f6a-45cd-472b-90fa-39cf6a7ac8bf#ref=rss)
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast-a-34aec388-9e01-45c4-8171-79d3071fa703#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-verspricht-bereits-den-meistertitel](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-verspricht-bereits-den-meistertitel-a-f119bf0f-4a93-485e-bb59-692e04d9dfcc#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-verspricht-bereits-den-meistertitel](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-verspricht-bereits-den-meistertitel-a-f119bf0f-4a93-485e-bb59-692e04d9dfcc#ref=rss)
-### uli
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-verspricht-bereits-den-meistertitel](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-verspricht-bereits-den-meistertitel-a-f119bf0f-4a93-485e-bb59-692e04d9dfcc#ref=rss)
-### hoeneß
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-verspricht-bereits-den-meistertitel](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-verspricht-bereits-den-meistertitel-a-f119bf0f-4a93-485e-bb59-692e04d9dfcc#ref=rss)
-### meistertitel
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-verspricht-bereits-den-meistertitel](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-verspricht-bereits-den-meistertitel-a-f119bf0f-4a93-485e-bb59-692e04d9dfcc#ref=rss)
-### november
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-verspricht-bereits-den-meistertitel](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-verspricht-bereits-den-meistertitel-a-f119bf0f-4a93-485e-bb59-692e04d9dfcc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/toxische-maennlichkeit-warum-es-mehr-weltmaennertage-braucht](https://www.spiegel.de/politik/deutschland/toxische-maennlichkeit-warum-es-mehr-weltmaennertage-braucht-a-a8f7a4fc-7cc7-43e6-ae61-bfad9d30f58d#ref=rss)
-### allem
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-verspricht-bereits-den-meistertitel](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-verspricht-bereits-den-meistertitel-a-f119bf0f-4a93-485e-bb59-692e04d9dfcc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/mobilitaet-reiseverhalten-der-deutschen-hat-sich-durch-die-pandemie-veraendert](https://www.spiegel.de/wirtschaft/soziales/mobilitaet-reiseverhalten-der-deutschen-hat-sich-durch-die-pandemie-veraendert-a-6205ba81-e735-452d-b258-2a62c42bcc28#ref=rss)
-### veröffentlicht
-
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast-a-34aec388-9e01-45c4-8171-79d3071fa703#ref=rss)
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-a-27b50019-0bec-42cf-b60b-9a7c265993de#ref=rss)
-### memoiren
-
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast-a-34aec388-9e01-45c4-8171-79d3071fa703#ref=rss)
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-a-27b50019-0bec-42cf-b60b-9a7c265993de#ref=rss)
-### selbstkritisch
-
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast-a-34aec388-9e01-45c4-8171-79d3071fa703#ref=rss)
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-a-27b50019-0bec-42cf-b60b-9a7c265993de#ref=rss)
-### exkanzlerin
-
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast-a-34aec388-9e01-45c4-8171-79d3071fa703#ref=rss)
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-a-27b50019-0bec-42cf-b60b-9a7c265993de#ref=rss)
-### versäumte
-
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast-a-34aec388-9e01-45c4-8171-79d3071fa703#ref=rss)
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-a-27b50019-0bec-42cf-b60b-9a7c265993de#ref=rss)
-### reformen
-
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast-a-34aec388-9e01-45c4-8171-79d3071fa703#ref=rss)
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-a-27b50019-0bec-42cf-b60b-9a7c265993de#ref=rss)
-### flüchtlingspolitik
-
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast-a-34aec388-9e01-45c4-8171-79d3071fa703#ref=rss)
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-a-27b50019-0bec-42cf-b60b-9a7c265993de#ref=rss)
-### umgang
-
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast-a-34aec388-9e01-45c4-8171-79d3071fa703#ref=rss)
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-a-27b50019-0bec-42cf-b60b-9a7c265993de#ref=rss)
-### merkels
-
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast-a-34aec388-9e01-45c4-8171-79d3071fa703#ref=rss)
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-a-27b50019-0bec-42cf-b60b-9a7c265993de#ref=rss)
-### erbe
-
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast-a-34aec388-9e01-45c4-8171-79d3071fa703#ref=rss)
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-a-27b50019-0bec-42cf-b60b-9a7c265993de#ref=rss)
-### räumt
-
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast-a-34aec388-9e01-45c4-8171-79d3071fa703#ref=rss)
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-a-27b50019-0bec-42cf-b60b-9a7c265993de#ref=rss)
-### stellvertretende
-
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast-a-34aec388-9e01-45c4-8171-79d3071fa703#ref=rss)
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-a-27b50019-0bec-42cf-b60b-9a7c265993de#ref=rss)
-### melanie
-
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast-a-34aec388-9e01-45c4-8171-79d3071fa703#ref=rss)
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-a-27b50019-0bec-42cf-b60b-9a7c265993de#ref=rss)
-### amann
-
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast-a-34aec388-9e01-45c4-8171-79d3071fa703#ref=rss)
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-a-27b50019-0bec-42cf-b60b-9a7c265993de#ref=rss)
-### berichtet
-
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast-a-34aec388-9e01-45c4-8171-79d3071fa703#ref=rss)
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-a-27b50019-0bec-42cf-b60b-9a7c265993de#ref=rss)
-### treffen
-
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast-a-34aec388-9e01-45c4-8171-79d3071fa703#ref=rss)
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-a-27b50019-0bec-42cf-b60b-9a7c265993de#ref=rss)
-### altkanzlerin
-
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-podcast-a-34aec388-9e01-45c4-8171-79d3071fa703#ref=rss)
-* [https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin](https://www.spiegel.de/politik/angela-merkel-veroeffentlicht-memoiren-wie-selbstkritisch-ist-die-ex-kanzlerin-a-27b50019-0bec-42cf-b60b-9a7c265993de#ref=rss)
-### reiseverhalten
-
-* [https://www.spiegel.de/wirtschaft/soziales/mobilitaet-reiseverhalten-der-deutschen-hat-sich-durch-die-pandemie-veraendert](https://www.spiegel.de/wirtschaft/soziales/mobilitaet-reiseverhalten-der-deutschen-hat-sich-durch-die-pandemie-veraendert-a-6205ba81-e735-452d-b258-2a62c42bcc28#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/wirtschaft/soziales/mobilitaet-reiseverhalten-der-deutschen-hat-sich-durch-die-pandemie-veraendert](https://www.spiegel.de/wirtschaft/soziales/mobilitaet-reiseverhalten-der-deutschen-hat-sich-durch-die-pandemie-veraendert-a-6205ba81-e735-452d-b258-2a62c42bcc28#ref=rss)
-### pandemie
-
-* [https://www.spiegel.de/wirtschaft/soziales/mobilitaet-reiseverhalten-der-deutschen-hat-sich-durch-die-pandemie-veraendert](https://www.spiegel.de/wirtschaft/soziales/mobilitaet-reiseverhalten-der-deutschen-hat-sich-durch-die-pandemie-veraendert-a-6205ba81-e735-452d-b258-2a62c42bcc28#ref=rss)
-### verändert
-
-* [https://www.spiegel.de/wirtschaft/soziales/mobilitaet-reiseverhalten-der-deutschen-hat-sich-durch-die-pandemie-veraendert](https://www.spiegel.de/wirtschaft/soziales/mobilitaet-reiseverhalten-der-deutschen-hat-sich-durch-die-pandemie-veraendert-a-6205ba81-e735-452d-b258-2a62c42bcc28#ref=rss)
-### weniger
-
-* [https://www.spiegel.de/wirtschaft/soziales/mobilitaet-reiseverhalten-der-deutschen-hat-sich-durch-die-pandemie-veraendert](https://www.spiegel.de/wirtschaft/soziales/mobilitaet-reiseverhalten-der-deutschen-hat-sich-durch-die-pandemie-veraendert-a-6205ba81-e735-452d-b258-2a62c42bcc28#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/toxische-maennlichkeit-warum-es-mehr-weltmaennertage-braucht](https://www.spiegel.de/politik/deutschland/toxische-maennlichkeit-warum-es-mehr-weltmaennertage-braucht-a-a8f7a4fc-7cc7-43e6-ae61-bfad9d30f58d#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/wirtschaft/soziales/mobilitaet-reiseverhalten-der-deutschen-hat-sich-durch-die-pandemie-veraendert](https://www.spiegel.de/wirtschaft/soziales/mobilitaet-reiseverhalten-der-deutschen-hat-sich-durch-die-pandemie-veraendert-a-6205ba81-e735-452d-b258-2a62c42bcc28#ref=rss)
-* [https://www.spiegel.de/wirtschaft/northvolt-chef-peter-carlsson-tritt-zurueck-aber-nicht-ganz](https://www.spiegel.de/wirtschaft/northvolt-chef-peter-carlsson-tritt-zurueck-aber-nicht-ganz-a-8dd80eac-c5fc-4806-9944-686dbe73ab42#ref=rss)
-### peter
-
-* [https://www.spiegel.de/wirtschaft/northvolt-chef-peter-carlsson-tritt-zurueck-aber-nicht-ganz](https://www.spiegel.de/wirtschaft/northvolt-chef-peter-carlsson-tritt-zurueck-aber-nicht-ganz-a-8dd80eac-c5fc-4806-9944-686dbe73ab42#ref=rss)
-### carlsson
-
-* [https://www.spiegel.de/wirtschaft/northvolt-chef-peter-carlsson-tritt-zurueck-aber-nicht-ganz](https://www.spiegel.de/wirtschaft/northvolt-chef-peter-carlsson-tritt-zurueck-aber-nicht-ganz-a-8dd80eac-c5fc-4806-9944-686dbe73ab42#ref=rss)
 ### dietmar
 
-* [https://www.spiegel.de/politik/deutschland/brandenburg-dietmar-woidke-entlaesst-gesundheitsministerin-ursula-nonnenmacher-im-bundesrat](https://www.spiegel.de/politik/deutschland/brandenburg-dietmar-woidke-entlaesst-gesundheitsministerin-ursula-nonnenmacher-im-bundesrat-a-6384b993-1d3e-4888-bc66-85deb3d1ff13#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/brandenburg-robert-habeck-kritisiert-dietmar-woidke-vorgehen-unfassbar](https://www.spiegel.de/politik/deutschland/brandenburg-robert-habeck-kritisiert-dietmar-woidke-vorgehen-unfassbar-a-c2ad10f9-253c-41c9-bb4f-ccabfb09bc4b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deshalb-warf-dietmar-woidke-auf-offener-buehne-seine-ministerin-raus](https://www.spiegel.de/politik/deutschland/deshalb-warf-dietmar-woidke-auf-offener-buehne-seine-ministerin-raus-a-63ea1bc5-fc0c-465d-84f6-953b90ad194e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/brandenburg-gruenen-minister-axel-vogel-tritt-nach-aus-von-ursula-nonnemacher-zurueck](https://www.spiegel.de/politik/deutschland/brandenburg-gruenen-minister-axel-vogel-tritt-nach-aus-von-ursula-nonnemacher-zurueck-a-95a79a78-94cc-41a2-9ae7-a71ad19b2edc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/brandenburg-dietmar-woidke-und-ursula-nonnemacher-machen-sich-nach-entlassung-gegenseitig-vorwuerfe](https://www.spiegel.de/politik/deutschland/brandenburg-dietmar-woidke-und-ursula-nonnemacher-machen-sich-nach-entlassung-gegenseitig-vorwuerfe-a-0c917a45-aeb2-48fd-8ec3-3fc248eae22e#ref=rss)
 ### woidke
 
-* [https://www.spiegel.de/politik/deutschland/brandenburg-dietmar-woidke-entlaesst-gesundheitsministerin-ursula-nonnenmacher-im-bundesrat](https://www.spiegel.de/politik/deutschland/brandenburg-dietmar-woidke-entlaesst-gesundheitsministerin-ursula-nonnenmacher-im-bundesrat-a-6384b993-1d3e-4888-bc66-85deb3d1ff13#ref=rss)
-### gesundheitsministerin
+* [https://www.spiegel.de/politik/deutschland/brandenburg-robert-habeck-kritisiert-dietmar-woidke-vorgehen-unfassbar](https://www.spiegel.de/politik/deutschland/brandenburg-robert-habeck-kritisiert-dietmar-woidke-vorgehen-unfassbar-a-c2ad10f9-253c-41c9-bb4f-ccabfb09bc4b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deshalb-warf-dietmar-woidke-auf-offener-buehne-seine-ministerin-raus](https://www.spiegel.de/politik/deutschland/deshalb-warf-dietmar-woidke-auf-offener-buehne-seine-ministerin-raus-a-63ea1bc5-fc0c-465d-84f6-953b90ad194e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/brandenburg-gruenen-minister-axel-vogel-tritt-nach-aus-von-ursula-nonnemacher-zurueck](https://www.spiegel.de/politik/deutschland/brandenburg-gruenen-minister-axel-vogel-tritt-nach-aus-von-ursula-nonnemacher-zurueck-a-95a79a78-94cc-41a2-9ae7-a71ad19b2edc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/brandenburg-dietmar-woidke-und-ursula-nonnemacher-machen-sich-nach-entlassung-gegenseitig-vorwuerfe](https://www.spiegel.de/politik/deutschland/brandenburg-dietmar-woidke-und-ursula-nonnemacher-machen-sich-nach-entlassung-gegenseitig-vorwuerfe-a-0c917a45-aeb2-48fd-8ec3-3fc248eae22e#ref=rss)
+### spd
 
-* [https://www.spiegel.de/politik/deutschland/brandenburg-dietmar-woidke-entlaesst-gesundheitsministerin-ursula-nonnenmacher-im-bundesrat](https://www.spiegel.de/politik/deutschland/brandenburg-dietmar-woidke-entlaesst-gesundheitsministerin-ursula-nonnenmacher-im-bundesrat-a-6384b993-1d3e-4888-bc66-85deb3d1ff13#ref=rss)
-### nord
+* [https://www.spiegel.de/politik/brombeer-koalition-in-thueringen-28-mal-das-wort-frieden](https://www.spiegel.de/politik/brombeer-koalition-in-thueringen-28-mal-das-wort-frieden-a-0d8c63b6-ec37-49ac-b89e-fa265877ed5e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-olaf-scholz-als-kanzlerkandidat-kann-das-gutgehen](https://www.spiegel.de/politik/deutschland/spd-olaf-scholz-als-kanzlerkandidat-kann-das-gutgehen-a-e57ad5a4-0c46-4f41-b18c-79354d6341d6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/thueringen-cdu-spd-und-bsw-praesentieren-koalitionsvertrag](https://www.spiegel.de/politik/deutschland/thueringen-cdu-spd-und-bsw-praesentieren-koalitionsvertrag-a-aa5dcccb-026b-4d32-a166-91f2a384cd07#ref=rss)
+### ursula
 
-* [https://www.spiegel.de/wirtschaft/nord-stream-us-milliardaer-will-pipeline-ersteigern](https://www.spiegel.de/wirtschaft/nord-stream-us-milliardaer-will-pipeline-ersteigern-a-a6ffb8a3-dd75-48a7-85a2-80cc0378eac6#ref=rss)
-### stream
+* [https://www.spiegel.de/politik/deutschland/deshalb-warf-dietmar-woidke-auf-offener-buehne-seine-ministerin-raus](https://www.spiegel.de/politik/deutschland/deshalb-warf-dietmar-woidke-auf-offener-buehne-seine-ministerin-raus-a-63ea1bc5-fc0c-465d-84f6-953b90ad194e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/brandenburg-gruenen-minister-axel-vogel-tritt-nach-aus-von-ursula-nonnemacher-zurueck](https://www.spiegel.de/politik/deutschland/brandenburg-gruenen-minister-axel-vogel-tritt-nach-aus-von-ursula-nonnemacher-zurueck-a-95a79a78-94cc-41a2-9ae7-a71ad19b2edc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/brandenburg-dietmar-woidke-und-ursula-nonnemacher-machen-sich-nach-entlassung-gegenseitig-vorwuerfe](https://www.spiegel.de/politik/deutschland/brandenburg-dietmar-woidke-und-ursula-nonnemacher-machen-sich-nach-entlassung-gegenseitig-vorwuerfe-a-0c917a45-aeb2-48fd-8ec3-3fc248eae22e#ref=rss)
+### nonnemacher
 
-* [https://www.spiegel.de/wirtschaft/nord-stream-us-milliardaer-will-pipeline-ersteigern](https://www.spiegel.de/wirtschaft/nord-stream-us-milliardaer-will-pipeline-ersteigern-a-a6ffb8a3-dd75-48a7-85a2-80cc0378eac6#ref=rss)
-### bundesliga
+* [https://www.spiegel.de/politik/deutschland/deshalb-warf-dietmar-woidke-auf-offener-buehne-seine-ministerin-raus](https://www.spiegel.de/politik/deutschland/deshalb-warf-dietmar-woidke-auf-offener-buehne-seine-ministerin-raus-a-63ea1bc5-fc0c-465d-84f6-953b90ad194e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/brandenburg-gruenen-minister-axel-vogel-tritt-nach-aus-von-ursula-nonnemacher-zurueck](https://www.spiegel.de/politik/deutschland/brandenburg-gruenen-minister-axel-vogel-tritt-nach-aus-von-ursula-nonnemacher-zurueck-a-95a79a78-94cc-41a2-9ae7-a71ad19b2edc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/brandenburg-dietmar-woidke-und-ursula-nonnemacher-machen-sich-nach-entlassung-gegenseitig-vorwuerfe](https://www.spiegel.de/politik/deutschland/brandenburg-dietmar-woidke-und-ursula-nonnemacher-machen-sich-nach-entlassung-gegenseitig-vorwuerfe-a-0c917a45-aeb2-48fd-8ec3-3fc248eae22e#ref=rss)
+### euro
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-darum-werden-fussballer-immer-schneller](https://www.spiegel.de/sport/fussball/bundesliga-darum-werden-fussballer-immer-schneller-a-9a76a3fa-8f9e-4410-b43b-c6f1bb6e5db5#ref=rss)
-### wirtschaft
-
-* [https://www.spiegel.de/wirtschaft/konjunktur-oekonom-erwarten-quaelend-lange-stagnationsphase-in-deutschland](https://www.spiegel.de/wirtschaft/konjunktur-oekonom-erwarten-quaelend-lange-stagnationsphase-in-deutschland-a-bade8e07-a59b-492f-9e29-ca58552749ea#ref=rss)
+* [https://www.spiegel.de/sport/conor-mcgregor-sexueller-uebergriff-gericht-verurteilt-mma-star-zu-250-000-euro-schadensersatz](https://www.spiegel.de/sport/conor-mcgregor-sexueller-uebergriff-gericht-verurteilt-mma-star-zu-250-000-euro-schadensersatz-a-3e57e8f7-0957-49af-afc9-85e5b138b8c3#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/sachsen-anhalt-64-jaehriger-um-100-000-euro-betrogen](https://www.spiegel.de/panorama/justiz/sachsen-anhalt-64-jaehriger-um-100-000-euro-betrogen-a-a191d46b-2bf7-46ba-864c-9e986c89ea1f#ref=rss)
+* [https://www.spiegel.de/kultur/berlin-wie-viel-die-berliner-kultur-wirklich-sparen-muss-und-wie-sie-darueber-verzweifelt](https://www.spiegel.de/kultur/berlin-wie-viel-die-berliner-kultur-wirklich-sparen-muss-und-wie-sie-darueber-verzweifelt-a-8503615b-7723-4095-96e2-c76de55dc5f8#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/wirtschaft/konjunktur-oekonom-erwarten-quaelend-lange-stagnationsphase-in-deutschland](https://www.spiegel.de/wirtschaft/konjunktur-oekonom-erwarten-quaelend-lange-stagnationsphase-in-deutschland-a-bade8e07-a59b-492f-9e29-ca58552749ea#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-starker-schneefall-bremst-verkehr-im-sueden-aus](https://www.spiegel.de/panorama/wetter-starker-schneefall-bremst-verkehr-im-sueden-aus-a-bf403f77-aff1-44b9-89e6-bf1cd952cd6d#ref=rss)
-### erwarten
+* [https://www.spiegel.de/wissenschaft/mensch/wintereinbruch-in-deutschland-darum-koennen-wir-schnee-riechen](https://www.spiegel.de/wissenschaft/mensch/wintereinbruch-in-deutschland-darum-koennen-wir-schnee-riechen-a-3072e316-0a7d-40f5-b56e-36c17a69584b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/energiepreise-viele-unternehmen-reagierten-auf-preisschock-mit-investitionen-in-effizienz](https://www.spiegel.de/wirtschaft/energiepreise-viele-unternehmen-reagierten-auf-preisschock-mit-investitionen-in-effizienz-a-c8a74a54-5a1d-49f3-a959-32888a7506eb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bosch-autozulieferer-will-3800-stellen-in-deutschland-streichen](https://www.spiegel.de/wirtschaft/unternehmen/bosch-autozulieferer-will-3800-stellen-in-deutschland-streichen-a-23f8ae50-3cd5-4cd4-85f3-44ab8b7a3466#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/wirtschaft/konjunktur-oekonom-erwarten-quaelend-lange-stagnationsphase-in-deutschland](https://www.spiegel.de/wirtschaft/konjunktur-oekonom-erwarten-quaelend-lange-stagnationsphase-in-deutschland-a-bade8e07-a59b-492f-9e29-ca58552749ea#ref=rss)
-* [https://www.spiegel.de/wirtschaft/grundsteuer-immer-mehr-kommunen-langten-2023-kraeftig-hin](https://www.spiegel.de/wirtschaft/grundsteuer-immer-mehr-kommunen-langten-2023-kraeftig-hin-a-3562d9fb-6246-4136-aec3-5c1ac8e4e1d6#ref=rss)
-### lange
+* [https://www.spiegel.de/wissenschaft/mensch/wintereinbruch-in-deutschland-darum-koennen-wir-schnee-riechen](https://www.spiegel.de/wissenschaft/mensch/wintereinbruch-in-deutschland-darum-koennen-wir-schnee-riechen-a-3072e316-0a7d-40f5-b56e-36c17a69584b#ref=rss)
+* [https://www.spiegel.de/panorama/rcds-cdu-naher-verbund-fordert-studiengebuehren](https://www.spiegel.de/panorama/rcds-cdu-naher-verbund-fordert-studiengebuehren-a-3134c1e8-6196-4bc9-9524-0c25a538f7eb#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/syrien-archaeologen-deuten-zeichen-auf-tonscherbe-als-aeltestes-alphabet-der-welt](https://www.spiegel.de/wissenschaft/mensch/syrien-archaeologen-deuten-zeichen-auf-tonscherbe-als-aeltestes-alphabet-der-welt-a-d97f56a5-dfc1-4a48-8244-dbb02e796894#ref=rss)
+* [https://www.spiegel.de/ausland/pakistan-mehr-als-40-tote-bei-schuessen-auf-schiitischen-konvoi](https://www.spiegel.de/ausland/pakistan-mehr-als-40-tote-bei-schuessen-auf-schiitischen-konvoi-a-65424153-83ac-4984-87d1-5f942e382e47#ref=rss)
+### gesundheitsministerin
 
-* [https://www.spiegel.de/wirtschaft/konjunktur-oekonom-erwarten-quaelend-lange-stagnationsphase-in-deutschland](https://www.spiegel.de/wirtschaft/konjunktur-oekonom-erwarten-quaelend-lange-stagnationsphase-in-deutschland-a-bade8e07-a59b-492f-9e29-ca58552749ea#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/tourette-influencerin-sweet-anita-die-twitch-streamerin-mit-der-lizenz-zum-fluchen](https://www.spiegel.de/netzwelt/web/tourette-influencerin-sweet-anita-die-twitch-streamerin-mit-der-lizenz-zum-fluchen-a-42862f3a-4202-42ea-aa77-7c58a362bed2#ref=rss)
-### friedrich
+* [https://www.spiegel.de/politik/deutschland/brandenburg-robert-habeck-kritisiert-dietmar-woidke-vorgehen-unfassbar](https://www.spiegel.de/politik/deutschland/brandenburg-robert-habeck-kritisiert-dietmar-woidke-vorgehen-unfassbar-a-c2ad10f9-253c-41c9-bb4f-ccabfb09bc4b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deshalb-warf-dietmar-woidke-auf-offener-buehne-seine-ministerin-raus](https://www.spiegel.de/politik/deutschland/deshalb-warf-dietmar-woidke-auf-offener-buehne-seine-ministerin-raus-a-63ea1bc5-fc0c-465d-84f6-953b90ad194e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/brandenburg-gruenen-minister-axel-vogel-tritt-nach-aus-von-ursula-nonnemacher-zurueck](https://www.spiegel.de/politik/deutschland/brandenburg-gruenen-minister-axel-vogel-tritt-nach-aus-von-ursula-nonnemacher-zurueck-a-95a79a78-94cc-41a2-9ae7-a71ad19b2edc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/brandenburg-dietmar-woidke-und-ursula-nonnemacher-machen-sich-nach-entlassung-gegenseitig-vorwuerfe](https://www.spiegel.de/politik/deutschland/brandenburg-dietmar-woidke-und-ursula-nonnemacher-machen-sich-nach-entlassung-gegenseitig-vorwuerfe-a-0c917a45-aeb2-48fd-8ec3-3fc248eae22e#ref=rss)
+### thüringen
 
-* [https://www.spiegel.de/politik/deutschland/memoiren-von-angela-merkel-so-denkt-die-ex-kanzlerin-ueber-olaf-scholz-friedrich-merz-donald-trump-wladimir-putin](https://www.spiegel.de/politik/deutschland/memoiren-von-angela-merkel-so-denkt-die-ex-kanzlerin-ueber-olaf-scholz-friedrich-merz-donald-trump-wladimir-putin-a-ecfb16e9-1ab9-452a-99e7-d5efa712caa6#ref=rss)
-### merz
+* [https://www.spiegel.de/politik/brombeer-koalition-in-thueringen-28-mal-das-wort-frieden](https://www.spiegel.de/politik/brombeer-koalition-in-thueringen-28-mal-das-wort-frieden-a-0d8c63b6-ec37-49ac-b89e-fa265877ed5e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/thueringen-cdu-spd-und-bsw-praesentieren-koalitionsvertrag](https://www.spiegel.de/politik/deutschland/thueringen-cdu-spd-und-bsw-praesentieren-koalitionsvertrag-a-aa5dcccb-026b-4d32-a166-91f2a384cd07#ref=rss)
+### annalena
 
-* [https://www.spiegel.de/politik/deutschland/memoiren-von-angela-merkel-so-denkt-die-ex-kanzlerin-ueber-olaf-scholz-friedrich-merz-donald-trump-wladimir-putin](https://www.spiegel.de/politik/deutschland/memoiren-von-angela-merkel-so-denkt-die-ex-kanzlerin-ueber-olaf-scholz-friedrich-merz-donald-trump-wladimir-putin-a-ecfb16e9-1ab9-452a-99e7-d5efa712caa6#ref=rss)
+* [https://www.spiegel.de/panorama/annalena-baerbock-und-ehemann-daniel-holefleisch-haben-sich-getrennt](https://www.spiegel.de/panorama/annalena-baerbock-und-ehemann-daniel-holefleisch-haben-sich-getrennt-a-d327996f-c9f3-44a0-bc91-cfc684c8c8d2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-raet-dem-papst-sich-mit-mehr-frauen-zu-umgeben](https://www.spiegel.de/politik/deutschland/annalena-baerbock-raet-dem-papst-sich-mit-mehr-frauen-zu-umgeben-a-6535df41-5fb0-4e90-b4c2-d785180352ad#ref=rss)
+### baerbock
+
+* [https://www.spiegel.de/panorama/annalena-baerbock-und-ehemann-daniel-holefleisch-haben-sich-getrennt](https://www.spiegel.de/panorama/annalena-baerbock-und-ehemann-daniel-holefleisch-haben-sich-getrennt-a-d327996f-c9f3-44a0-bc91-cfc684c8c8d2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-raet-dem-papst-sich-mit-mehr-frauen-zu-umgeben](https://www.spiegel.de/politik/deutschland/annalena-baerbock-raet-dem-papst-sich-mit-mehr-frauen-zu-umgeben-a-6535df41-5fb0-4e90-b4c2-d785180352ad#ref=rss)
+### warf
+
+* [https://www.spiegel.de/sport/conor-mcgregor-sexueller-uebergriff-gericht-verurteilt-mma-star-zu-250-000-euro-schadensersatz](https://www.spiegel.de/sport/conor-mcgregor-sexueller-uebergriff-gericht-verurteilt-mma-star-zu-250-000-euro-schadensersatz-a-3e57e8f7-0957-49af-afc9-85e5b138b8c3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deshalb-warf-dietmar-woidke-auf-offener-buehne-seine-ministerin-raus](https://www.spiegel.de/politik/deutschland/deshalb-warf-dietmar-woidke-auf-offener-buehne-seine-ministerin-raus-a-63ea1bc5-fc0c-465d-84f6-953b90ad194e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/brandenburg-gruenen-minister-axel-vogel-tritt-nach-aus-von-ursula-nonnemacher-zurueck](https://www.spiegel.de/politik/deutschland/brandenburg-gruenen-minister-axel-vogel-tritt-nach-aus-von-ursula-nonnemacher-zurueck-a-95a79a78-94cc-41a2-9ae7-a71ad19b2edc#ref=rss)
+### kurz
+
+* [https://www.spiegel.de/wissenschaft/mensch/wintereinbruch-in-deutschland-darum-koennen-wir-schnee-riechen](https://www.spiegel.de/wissenschaft/mensch/wintereinbruch-in-deutschland-darum-koennen-wir-schnee-riechen-a-3072e316-0a7d-40f5-b56e-36c17a69584b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/europaeische-suedsternwarte-so-sieht-ein-stern-kurz-vor-der-megaexplosion-aus](https://www.spiegel.de/wissenschaft/weltall/europaeische-suedsternwarte-so-sieht-ein-stern-kurz-vor-der-megaexplosion-aus-a-c4cd4773-e59c-429c-acbb-a5c327a3694b#ref=rss)
+### manche
+
+* [https://www.spiegel.de/wissenschaft/mensch/wintereinbruch-in-deutschland-darum-koennen-wir-schnee-riechen](https://www.spiegel.de/wissenschaft/mensch/wintereinbruch-in-deutschland-darum-koennen-wir-schnee-riechen-a-3072e316-0a7d-40f5-b56e-36c17a69584b#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/hanau-buergermeister-verbietet-ortung-von-kindern-in-kitas](https://www.spiegel.de/panorama/bildung/hanau-buergermeister-verbietet-ortung-von-kindern-in-kitas-a-ca24091f-f5b1-4ba1-be83-a8b5837d904f#ref=rss)
+* [https://www.spiegel.de/kultur/berlin-wie-viel-die-berliner-kultur-wirklich-sparen-muss-und-wie-sie-darueber-verzweifelt](https://www.spiegel.de/kultur/berlin-wie-viel-die-berliner-kultur-wirklich-sparen-muss-und-wie-sie-darueber-verzweifelt-a-8503615b-7723-4095-96e2-c76de55dc5f8#ref=rss)
+### forscher
+
+* [https://www.spiegel.de/wissenschaft/mensch/wintereinbruch-in-deutschland-darum-koennen-wir-schnee-riechen](https://www.spiegel.de/wissenschaft/mensch/wintereinbruch-in-deutschland-darum-koennen-wir-schnee-riechen-a-3072e316-0a7d-40f5-b56e-36c17a69584b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/europaeische-suedsternwarte-so-sieht-ein-stern-kurz-vor-der-megaexplosion-aus](https://www.spiegel.de/wissenschaft/weltall/europaeische-suedsternwarte-so-sieht-ein-stern-kurz-vor-der-megaexplosion-aus-a-c4cd4773-e59c-429c-acbb-a5c327a3694b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/syrien-archaeologen-deuten-zeichen-auf-tonscherbe-als-aeltestes-alphabet-der-welt](https://www.spiegel.de/wissenschaft/mensch/syrien-archaeologen-deuten-zeichen-auf-tonscherbe-als-aeltestes-alphabet-der-welt-a-d97f56a5-dfc1-4a48-8244-dbb02e796894#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/sachsen-anhalt-64-jaehriger-um-100-000-euro-betrogen](https://www.spiegel.de/panorama/justiz/sachsen-anhalt-64-jaehriger-um-100-000-euro-betrogen-a-a191d46b-2bf7-46ba-864c-9e986c89ea1f#ref=rss)
+* [https://www.spiegel.de/panorama/villingendorf-im-schwarzwald-mann-geht-nach-klingelstreich-auf-kinder-los](https://www.spiegel.de/panorama/villingendorf-im-schwarzwald-mann-geht-nach-klingelstreich-auf-kinder-los-a-2fa35bc7-4796-45d9-8922-27148a618403#ref=rss)
+### brandenburg
+
+* [https://www.spiegel.de/politik/deutschland/brandenburg-robert-habeck-kritisiert-dietmar-woidke-vorgehen-unfassbar](https://www.spiegel.de/politik/deutschland/brandenburg-robert-habeck-kritisiert-dietmar-woidke-vorgehen-unfassbar-a-c2ad10f9-253c-41c9-bb4f-ccabfb09bc4b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/brandenburg-gruenen-minister-axel-vogel-tritt-nach-aus-von-ursula-nonnemacher-zurueck](https://www.spiegel.de/politik/deutschland/brandenburg-gruenen-minister-axel-vogel-tritt-nach-aus-von-ursula-nonnemacher-zurueck-a-95a79a78-94cc-41a2-9ae7-a71ad19b2edc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/brandenburg-dietmar-woidke-und-ursula-nonnemacher-machen-sich-nach-entlassung-gegenseitig-vorwuerfe](https://www.spiegel.de/politik/deutschland/brandenburg-dietmar-woidke-und-ursula-nonnemacher-machen-sich-nach-entlassung-gegenseitig-vorwuerfe-a-0c917a45-aeb2-48fd-8ec3-3fc248eae22e#ref=rss)
+### rauswurf
+
+* [https://www.spiegel.de/politik/deutschland/brandenburg-robert-habeck-kritisiert-dietmar-woidke-vorgehen-unfassbar](https://www.spiegel.de/politik/deutschland/brandenburg-robert-habeck-kritisiert-dietmar-woidke-vorgehen-unfassbar-a-c2ad10f9-253c-41c9-bb4f-ccabfb09bc4b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deshalb-warf-dietmar-woidke-auf-offener-buehne-seine-ministerin-raus](https://www.spiegel.de/politik/deutschland/deshalb-warf-dietmar-woidke-auf-offener-buehne-seine-ministerin-raus-a-63ea1bc5-fc0c-465d-84f6-953b90ad194e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/brandenburg-dietmar-woidke-und-ursula-nonnemacher-machen-sich-nach-entlassung-gegenseitig-vorwuerfe](https://www.spiegel.de/politik/deutschland/brandenburg-dietmar-woidke-und-ursula-nonnemacher-machen-sich-nach-entlassung-gegenseitig-vorwuerfe-a-0c917a45-aeb2-48fd-8ec3-3fc248eae22e#ref=rss)
+### ministerpräsident
+
+* [https://www.spiegel.de/politik/deutschland/brandenburg-robert-habeck-kritisiert-dietmar-woidke-vorgehen-unfassbar](https://www.spiegel.de/politik/deutschland/brandenburg-robert-habeck-kritisiert-dietmar-woidke-vorgehen-unfassbar-a-c2ad10f9-253c-41c9-bb4f-ccabfb09bc4b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/brandenburg-gruenen-minister-axel-vogel-tritt-nach-aus-von-ursula-nonnemacher-zurueck](https://www.spiegel.de/politik/deutschland/brandenburg-gruenen-minister-axel-vogel-tritt-nach-aus-von-ursula-nonnemacher-zurueck-a-95a79a78-94cc-41a2-9ae7-a71ad19b2edc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/thueringen-cdu-spd-und-bsw-praesentieren-koalitionsvertrag](https://www.spiegel.de/politik/deutschland/thueringen-cdu-spd-und-bsw-praesentieren-koalitionsvertrag-a-aa5dcccb-026b-4d32-a166-91f2a384cd07#ref=rss)
+### bsw
+
+* [https://www.spiegel.de/politik/brombeer-koalition-in-thueringen-28-mal-das-wort-frieden](https://www.spiegel.de/politik/brombeer-koalition-in-thueringen-28-mal-das-wort-frieden-a-0d8c63b6-ec37-49ac-b89e-fa265877ed5e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/thueringen-cdu-spd-und-bsw-praesentieren-koalitionsvertrag](https://www.spiegel.de/politik/deutschland/thueringen-cdu-spd-und-bsw-praesentieren-koalitionsvertrag-a-aa5dcccb-026b-4d32-a166-91f2a384cd07#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/panorama/annalena-baerbock-und-ehemann-daniel-holefleisch-haben-sich-getrennt](https://www.spiegel.de/panorama/annalena-baerbock-und-ehemann-daniel-holefleisch-haben-sich-getrennt-a-d327996f-c9f3-44a0-bc91-cfc684c8c8d2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-raet-dem-papst-sich-mit-mehr-frauen-zu-umgeben](https://www.spiegel.de/politik/deutschland/annalena-baerbock-raet-dem-papst-sich-mit-mehr-frauen-zu-umgeben-a-6535df41-5fb0-4e90-b4c2-d785180352ad#ref=rss)
+* [https://www.spiegel.de/ausland/pakistan-mehr-als-40-tote-bei-schuessen-auf-schiitischen-konvoi](https://www.spiegel.de/ausland/pakistan-mehr-als-40-tote-bei-schuessen-auf-schiitischen-konvoi-a-65424153-83ac-4984-87d1-5f942e382e47#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/panorama/csu-rechtspolitiker-auch-kinder-sollen-sich-vor-gericht-verantworten-muessen](https://www.spiegel.de/panorama/csu-rechtspolitiker-auch-kinder-sollen-sich-vor-gericht-verantworten-muessen-a-697aa9b8-460f-439d-a8de-eca95cc255e0#ref=rss)
+* [https://www.spiegel.de/panorama/villingendorf-im-schwarzwald-mann-geht-nach-klingelstreich-auf-kinder-los](https://www.spiegel.de/panorama/villingendorf-im-schwarzwald-mann-geht-nach-klingelstreich-auf-kinder-los-a-2fa35bc7-4796-45d9-8922-27148a618403#ref=rss)
+### zieht
+
+* [https://www.spiegel.de/kultur/kino/jonathan-majors-ex-freundin-von-marvel-star-zieht-klage-zurueck](https://www.spiegel.de/kultur/kino/jonathan-majors-ex-freundin-von-marvel-star-zieht-klage-zurueck-a-d78fb2dd-136a-45b6-8f3d-97fd8de689d1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/brandenburg-gruenen-minister-axel-vogel-tritt-nach-aus-von-ursula-nonnemacher-zurueck](https://www.spiegel.de/politik/deutschland/brandenburg-gruenen-minister-axel-vogel-tritt-nach-aus-von-ursula-nonnemacher-zurueck-a-95a79a78-94cc-41a2-9ae7-a71ad19b2edc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-olaf-scholz-als-kanzlerkandidat-kann-das-gutgehen](https://www.spiegel.de/politik/deutschland/spd-olaf-scholz-als-kanzlerkandidat-kann-das-gutgehen-a-e57ad5a4-0c46-4f41-b18c-79354d6341d6#ref=rss)
+### conor
+
+* [https://www.spiegel.de/sport/conor-mcgregor-sexueller-uebergriff-gericht-verurteilt-mma-star-zu-250-000-euro-schadensersatz](https://www.spiegel.de/sport/conor-mcgregor-sexueller-uebergriff-gericht-verurteilt-mma-star-zu-250-000-euro-schadensersatz-a-3e57e8f7-0957-49af-afc9-85e5b138b8c3#ref=rss)
+### mcgregor
+
+* [https://www.spiegel.de/sport/conor-mcgregor-sexueller-uebergriff-gericht-verurteilt-mma-star-zu-250-000-euro-schadensersatz](https://www.spiegel.de/sport/conor-mcgregor-sexueller-uebergriff-gericht-verurteilt-mma-star-zu-250-000-euro-schadensersatz-a-3e57e8f7-0957-49af-afc9-85e5b138b8c3#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/sport/conor-mcgregor-sexueller-uebergriff-gericht-verurteilt-mma-star-zu-250-000-euro-schadensersatz](https://www.spiegel.de/sport/conor-mcgregor-sexueller-uebergriff-gericht-verurteilt-mma-star-zu-250-000-euro-schadensersatz-a-3e57e8f7-0957-49af-afc9-85e5b138b8c3#ref=rss)
+* [https://www.spiegel.de/panorama/csu-rechtspolitiker-auch-kinder-sollen-sich-vor-gericht-verantworten-muessen](https://www.spiegel.de/panorama/csu-rechtspolitiker-auch-kinder-sollen-sich-vor-gericht-verantworten-muessen-a-697aa9b8-460f-439d-a8de-eca95cc255e0#ref=rss)
+### mmastar
+
+* [https://www.spiegel.de/sport/conor-mcgregor-sexueller-uebergriff-gericht-verurteilt-mma-star-zu-250-000-euro-schadensersatz](https://www.spiegel.de/sport/conor-mcgregor-sexueller-uebergriff-gericht-verurteilt-mma-star-zu-250-000-euro-schadensersatz-a-3e57e8f7-0957-49af-afc9-85e5b138b8c3#ref=rss)
+### fallen
+
+* [https://www.spiegel.de/wissenschaft/mensch/wintereinbruch-in-deutschland-darum-koennen-wir-schnee-riechen](https://www.spiegel.de/wissenschaft/mensch/wintereinbruch-in-deutschland-darum-koennen-wir-schnee-riechen-a-3072e316-0a7d-40f5-b56e-36c17a69584b#ref=rss)
+* [https://www.spiegel.de/kultur/kino/jonathan-majors-ex-freundin-von-marvel-star-zieht-klage-zurueck](https://www.spiegel.de/kultur/kino/jonathan-majors-ex-freundin-von-marvel-star-zieht-klage-zurueck-a-d78fb2dd-136a-45b6-8f3d-97fd8de689d1#ref=rss)
+### 100000
+
+* [https://www.spiegel.de/panorama/justiz/sachsen-anhalt-64-jaehriger-um-100-000-euro-betrogen](https://www.spiegel.de/panorama/justiz/sachsen-anhalt-64-jaehriger-um-100-000-euro-betrogen-a-a191d46b-2bf7-46ba-864c-9e986c89ea1f#ref=rss)
+### ende
+
+* [https://www.spiegel.de/panorama/justiz/sachsen-anhalt-64-jaehriger-um-100-000-euro-betrogen](https://www.spiegel.de/panorama/justiz/sachsen-anhalt-64-jaehriger-um-100-000-euro-betrogen-a-a191d46b-2bf7-46ba-864c-9e986c89ea1f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/klimakonferenz-cop29-in-baku-reinfall-oder-chance-fuer-die-internationale-klimafinanzierung-newsletter](https://www.spiegel.de/wissenschaft/mensch/klimakonferenz-cop29-in-baku-reinfall-oder-chance-fuer-die-internationale-klimafinanzierung-newsletter-a-f726342a-7464-4e8c-98c9-3ac6b8405049#ref=rss)
+### hanau
+
+* [https://www.spiegel.de/panorama/bildung/hanau-buergermeister-verbietet-ortung-von-kindern-in-kitas](https://www.spiegel.de/panorama/bildung/hanau-buergermeister-verbietet-ortung-von-kindern-in-kitas-a-ca24091f-f5b1-4ba1-be83-a8b5837d904f#ref=rss)
+### künftig
+
+* [https://www.spiegel.de/panorama/bildung/hanau-buergermeister-verbietet-ortung-von-kindern-in-kitas](https://www.spiegel.de/panorama/bildung/hanau-buergermeister-verbietet-ortung-von-kindern-in-kitas-a-ca24091f-f5b1-4ba1-be83-a8b5837d904f#ref=rss)
+* [https://www.spiegel.de/panorama/rcds-cdu-naher-verbund-fordert-studiengebuehren](https://www.spiegel.de/panorama/rcds-cdu-naher-verbund-fordert-studiengebuehren-a-3134c1e8-6196-4bc9-9524-0c25a538f7eb#ref=rss)
+### robert
+
+* [https://www.spiegel.de/politik/deutschland/brandenburg-robert-habeck-kritisiert-dietmar-woidke-vorgehen-unfassbar](https://www.spiegel.de/politik/deutschland/brandenburg-robert-habeck-kritisiert-dietmar-woidke-vorgehen-unfassbar-a-c2ad10f9-253c-41c9-bb4f-ccabfb09bc4b#ref=rss)
+### habeck
+
+* [https://www.spiegel.de/politik/deutschland/brandenburg-robert-habeck-kritisiert-dietmar-woidke-vorgehen-unfassbar](https://www.spiegel.de/politik/deutschland/brandenburg-robert-habeck-kritisiert-dietmar-woidke-vorgehen-unfassbar-a-c2ad10f9-253c-41c9-bb4f-ccabfb09bc4b#ref=rss)
+### kritisiert
+
+* [https://www.spiegel.de/politik/deutschland/brandenburg-robert-habeck-kritisiert-dietmar-woidke-vorgehen-unfassbar](https://www.spiegel.de/politik/deutschland/brandenburg-robert-habeck-kritisiert-dietmar-woidke-vorgehen-unfassbar-a-c2ad10f9-253c-41c9-bb4f-ccabfb09bc4b#ref=rss)
+### vorgehen
+
+* [https://www.spiegel.de/politik/deutschland/brandenburg-robert-habeck-kritisiert-dietmar-woidke-vorgehen-unfassbar](https://www.spiegel.de/politik/deutschland/brandenburg-robert-habeck-kritisiert-dietmar-woidke-vorgehen-unfassbar-a-c2ad10f9-253c-41c9-bb4f-ccabfb09bc4b#ref=rss)
+* [https://www.spiegel.de/kultur/kino/jonathan-majors-ex-freundin-von-marvel-star-zieht-klage-zurueck](https://www.spiegel.de/kultur/kino/jonathan-majors-ex-freundin-von-marvel-star-zieht-klage-zurueck-a-d78fb2dd-136a-45b6-8f3d-97fd8de689d1#ref=rss)
+### brandenburgischen
+
+* [https://www.spiegel.de/politik/deutschland/brandenburg-robert-habeck-kritisiert-dietmar-woidke-vorgehen-unfassbar](https://www.spiegel.de/politik/deutschland/brandenburg-robert-habeck-kritisiert-dietmar-woidke-vorgehen-unfassbar-a-c2ad10f9-253c-41c9-bb4f-ccabfb09bc4b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deshalb-warf-dietmar-woidke-auf-offener-buehne-seine-ministerin-raus](https://www.spiegel.de/politik/deutschland/deshalb-warf-dietmar-woidke-auf-offener-buehne-seine-ministerin-raus-a-63ea1bc5-fc0c-465d-84f6-953b90ad194e#ref=rss)
+### wort
+
+* [https://www.spiegel.de/politik/deutschland/brandenburg-robert-habeck-kritisiert-dietmar-woidke-vorgehen-unfassbar](https://www.spiegel.de/politik/deutschland/brandenburg-robert-habeck-kritisiert-dietmar-woidke-vorgehen-unfassbar-a-c2ad10f9-253c-41c9-bb4f-ccabfb09bc4b#ref=rss)
+* [https://www.spiegel.de/politik/brombeer-koalition-in-thueringen-28-mal-das-wort-frieden](https://www.spiegel.de/politik/brombeer-koalition-in-thueringen-28-mal-das-wort-frieden-a-0d8c63b6-ec37-49ac-b89e-fa265877ed5e#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/politik/deutschland/memoiren-von-angela-merkel-so-denkt-die-ex-kanzlerin-ueber-olaf-scholz-friedrich-merz-donald-trump-wladimir-putin](https://www.spiegel.de/politik/deutschland/memoiren-von-angela-merkel-so-denkt-die-ex-kanzlerin-ueber-olaf-scholz-friedrich-merz-donald-trump-wladimir-putin-a-ecfb16e9-1ab9-452a-99e7-d5efa712caa6#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-richter-verschiebt-verkuendung-des-strafmasses-in-schweigegeld-prozess-auf-unbestimmte-zeit](https://www.spiegel.de/ausland/donald-trump-richter-verschiebt-verkuendung-des-strafmasses-in-schweigegeld-prozess-auf-unbestimmte-zeit-a-a45b48ce-dc25-4037-8f13-20164f83f2ba#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/politik/deutschland/memoiren-von-angela-merkel-so-denkt-die-ex-kanzlerin-ueber-olaf-scholz-friedrich-merz-donald-trump-wladimir-putin](https://www.spiegel.de/politik/deutschland/memoiren-von-angela-merkel-so-denkt-die-ex-kanzlerin-ueber-olaf-scholz-friedrich-merz-donald-trump-wladimir-putin-a-ecfb16e9-1ab9-452a-99e7-d5efa712caa6#ref=rss)
-### wladimir
+* [https://www.spiegel.de/ausland/donald-trump-richter-verschiebt-verkuendung-des-strafmasses-in-schweigegeld-prozess-auf-unbestimmte-zeit](https://www.spiegel.de/ausland/donald-trump-richter-verschiebt-verkuendung-des-strafmasses-in-schweigegeld-prozess-auf-unbestimmte-zeit-a-a45b48ce-dc25-4037-8f13-20164f83f2ba#ref=rss)
+### verkündung
 
-* [https://www.spiegel.de/politik/deutschland/memoiren-von-angela-merkel-so-denkt-die-ex-kanzlerin-ueber-olaf-scholz-friedrich-merz-donald-trump-wladimir-putin](https://www.spiegel.de/politik/deutschland/memoiren-von-angela-merkel-so-denkt-die-ex-kanzlerin-ueber-olaf-scholz-friedrich-merz-donald-trump-wladimir-putin-a-ecfb16e9-1ab9-452a-99e7-d5efa712caa6#ref=rss)
-### nordkorea
+* [https://www.spiegel.de/ausland/donald-trump-richter-verschiebt-verkuendung-des-strafmasses-in-schweigegeld-prozess-auf-unbestimmte-zeit](https://www.spiegel.de/ausland/donald-trump-richter-verschiebt-verkuendung-des-strafmasses-in-schweigegeld-prozess-auf-unbestimmte-zeit-a-a45b48ce-dc25-4037-8f13-20164f83f2ba#ref=rss)
+### strafmaßes
 
-* [https://www.spiegel.de/ausland/nordkorea-laut-suedkorea-hat-pjoengjang-flugabwehrraketen-von-russland-erhalten](https://www.spiegel.de/ausland/nordkorea-laut-suedkorea-hat-pjoengjang-flugabwehrraketen-von-russland-erhalten-a-293ee17a-ece5-4651-b2c0-ade2d3a483bb#ref=rss)
-### laut
+* [https://www.spiegel.de/ausland/donald-trump-richter-verschiebt-verkuendung-des-strafmasses-in-schweigegeld-prozess-auf-unbestimmte-zeit](https://www.spiegel.de/ausland/donald-trump-richter-verschiebt-verkuendung-des-strafmasses-in-schweigegeld-prozess-auf-unbestimmte-zeit-a-a45b48ce-dc25-4037-8f13-20164f83f2ba#ref=rss)
+### europäische
 
-* [https://www.spiegel.de/ausland/nordkorea-laut-suedkorea-hat-pjoengjang-flugabwehrraketen-von-russland-erhalten](https://www.spiegel.de/ausland/nordkorea-laut-suedkorea-hat-pjoengjang-flugabwehrraketen-von-russland-erhalten-a-293ee17a-ece5-4651-b2c0-ade2d3a483bb#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/whatsapp-kann-sprachnachrichten-nun-auch-in-text-umwandeln](https://www.spiegel.de/netzwelt/apps/whatsapp-kann-sprachnachrichten-nun-auch-in-text-umwandeln-a-c6e8bad6-9ece-4ee2-be41-0a03725b6fdb#ref=rss)
-### pjöngjang
+* [https://www.spiegel.de/wissenschaft/weltall/europaeische-suedsternwarte-so-sieht-ein-stern-kurz-vor-der-megaexplosion-aus](https://www.spiegel.de/wissenschaft/weltall/europaeische-suedsternwarte-so-sieht-ein-stern-kurz-vor-der-megaexplosion-aus-a-c4cd4773-e59c-429c-acbb-a5c327a3694b#ref=rss)
+### südsternwarte
 
-* [https://www.spiegel.de/ausland/nordkorea-laut-suedkorea-hat-pjoengjang-flugabwehrraketen-von-russland-erhalten](https://www.spiegel.de/ausland/nordkorea-laut-suedkorea-hat-pjoengjang-flugabwehrraketen-von-russland-erhalten-a-293ee17a-ece5-4651-b2c0-ade2d3a483bb#ref=rss)
-### flugabwehrraketen
+* [https://www.spiegel.de/wissenschaft/weltall/europaeische-suedsternwarte-so-sieht-ein-stern-kurz-vor-der-megaexplosion-aus](https://www.spiegel.de/wissenschaft/weltall/europaeische-suedsternwarte-so-sieht-ein-stern-kurz-vor-der-megaexplosion-aus-a-c4cd4773-e59c-429c-acbb-a5c327a3694b#ref=rss)
+### stern
 
-* [https://www.spiegel.de/ausland/nordkorea-laut-suedkorea-hat-pjoengjang-flugabwehrraketen-von-russland-erhalten](https://www.spiegel.de/ausland/nordkorea-laut-suedkorea-hat-pjoengjang-flugabwehrraketen-von-russland-erhalten-a-293ee17a-ece5-4651-b2c0-ade2d3a483bb#ref=rss)
-### russland
+* [https://www.spiegel.de/wissenschaft/weltall/europaeische-suedsternwarte-so-sieht-ein-stern-kurz-vor-der-megaexplosion-aus](https://www.spiegel.de/wissenschaft/weltall/europaeische-suedsternwarte-so-sieht-ein-stern-kurz-vor-der-megaexplosion-aus-a-c4cd4773-e59c-429c-acbb-a5c327a3694b#ref=rss)
+### frieden
 
-* [https://www.spiegel.de/ausland/nordkorea-laut-suedkorea-hat-pjoengjang-flugabwehrraketen-von-russland-erhalten](https://www.spiegel.de/ausland/nordkorea-laut-suedkorea-hat-pjoengjang-flugabwehrraketen-von-russland-erhalten-a-293ee17a-ece5-4651-b2c0-ade2d3a483bb#ref=rss)
-### erhalten
+* [https://www.spiegel.de/politik/brombeer-koalition-in-thueringen-28-mal-das-wort-frieden](https://www.spiegel.de/politik/brombeer-koalition-in-thueringen-28-mal-das-wort-frieden-a-0d8c63b6-ec37-49ac-b89e-fa265877ed5e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/thueringen-cdu-spd-und-bsw-praesentieren-koalitionsvertrag](https://www.spiegel.de/politik/deutschland/thueringen-cdu-spd-und-bsw-praesentieren-koalitionsvertrag-a-aa5dcccb-026b-4d32-a166-91f2a384cd07#ref=rss)
+### koalitionsvertrag
 
-* [https://www.spiegel.de/ausland/nordkorea-laut-suedkorea-hat-pjoengjang-flugabwehrraketen-von-russland-erhalten](https://www.spiegel.de/ausland/nordkorea-laut-suedkorea-hat-pjoengjang-flugabwehrraketen-von-russland-erhalten-a-293ee17a-ece5-4651-b2c0-ade2d3a483bb#ref=rss)
-### whatsapp
+* [https://www.spiegel.de/politik/brombeer-koalition-in-thueringen-28-mal-das-wort-frieden](https://www.spiegel.de/politik/brombeer-koalition-in-thueringen-28-mal-das-wort-frieden-a-0d8c63b6-ec37-49ac-b89e-fa265877ed5e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/thueringen-cdu-spd-und-bsw-praesentieren-koalitionsvertrag](https://www.spiegel.de/politik/deutschland/thueringen-cdu-spd-und-bsw-praesentieren-koalitionsvertrag-a-aa5dcccb-026b-4d32-a166-91f2a384cd07#ref=rss)
+### cdu
 
-* [https://www.spiegel.de/netzwelt/apps/whatsapp-kann-sprachnachrichten-nun-auch-in-text-umwandeln](https://www.spiegel.de/netzwelt/apps/whatsapp-kann-sprachnachrichten-nun-auch-in-text-umwandeln-a-c6e8bad6-9ece-4ee2-be41-0a03725b6fdb#ref=rss)
-### anbieterwechsel
+* [https://www.spiegel.de/politik/brombeer-koalition-in-thueringen-28-mal-das-wort-frieden](https://www.spiegel.de/politik/brombeer-koalition-in-thueringen-28-mal-das-wort-frieden-a-0d8c63b6-ec37-49ac-b89e-fa265877ed5e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/thueringen-cdu-spd-und-bsw-praesentieren-koalitionsvertrag](https://www.spiegel.de/politik/deutschland/thueringen-cdu-spd-und-bsw-praesentieren-koalitionsvertrag-a-aa5dcccb-026b-4d32-a166-91f2a384cd07#ref=rss)
+### sahra
 
-* [https://www.spiegel.de/wirtschaft/stromkunden-koennen-durch-anbieterwechsel-kraeftig-sparen](https://www.spiegel.de/wirtschaft/stromkunden-koennen-durch-anbieterwechsel-kraeftig-sparen-a-38827047-c787-4321-8708-2da2a99ec5bc#ref=rss)
-### jannik
+* [https://www.spiegel.de/politik/brombeer-koalition-in-thueringen-28-mal-das-wort-frieden](https://www.spiegel.de/politik/brombeer-koalition-in-thueringen-28-mal-das-wort-frieden-a-0d8c63b6-ec37-49ac-b89e-fa265877ed5e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/thueringen-cdu-spd-und-bsw-praesentieren-koalitionsvertrag](https://www.spiegel.de/politik/deutschland/thueringen-cdu-spd-und-bsw-praesentieren-koalitionsvertrag-a-aa5dcccb-026b-4d32-a166-91f2a384cd07#ref=rss)
+### wagenknecht
 
-* [https://www.spiegel.de/panorama/jannik-schuemann-fuehlt-sich-manchmal-von-seinem-telefon-ueberwacht](https://www.spiegel.de/panorama/jannik-schuemann-fuehlt-sich-manchmal-von-seinem-telefon-ueberwacht-a-a4eea69a-f71e-4bb6-ba51-2e9be2431023#ref=rss)
-### schümann
+* [https://www.spiegel.de/politik/brombeer-koalition-in-thueringen-28-mal-das-wort-frieden](https://www.spiegel.de/politik/brombeer-koalition-in-thueringen-28-mal-das-wort-frieden-a-0d8c63b6-ec37-49ac-b89e-fa265877ed5e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/thueringen-cdu-spd-und-bsw-praesentieren-koalitionsvertrag](https://www.spiegel.de/politik/deutschland/thueringen-cdu-spd-und-bsw-praesentieren-koalitionsvertrag-a-aa5dcccb-026b-4d32-a166-91f2a384cd07#ref=rss)
+### ehemann
 
-* [https://www.spiegel.de/panorama/jannik-schuemann-fuehlt-sich-manchmal-von-seinem-telefon-ueberwacht](https://www.spiegel.de/panorama/jannik-schuemann-fuehlt-sich-manchmal-von-seinem-telefon-ueberwacht-a-a4eea69a-f71e-4bb6-ba51-2e9be2431023#ref=rss)
-### sagt
+* [https://www.spiegel.de/panorama/annalena-baerbock-und-ehemann-daniel-holefleisch-haben-sich-getrennt](https://www.spiegel.de/panorama/annalena-baerbock-und-ehemann-daniel-holefleisch-haben-sich-getrennt-a-d327996f-c9f3-44a0-bc91-cfc684c8c8d2#ref=rss)
+### daniel
 
-* [https://www.spiegel.de/panorama/jannik-schuemann-fuehlt-sich-manchmal-von-seinem-telefon-ueberwacht](https://www.spiegel.de/panorama/jannik-schuemann-fuehlt-sich-manchmal-von-seinem-telefon-ueberwacht-a-a4eea69a-f71e-4bb6-ba51-2e9be2431023#ref=rss)
-* [https://www.spiegel.de/ausland/benjamin-netanyahu-kai-ambos-ueber-haftbefehl-des-internationalen-strafgerichtshofs](https://www.spiegel.de/ausland/benjamin-netanyahu-kai-ambos-ueber-haftbefehl-des-internationalen-strafgerichtshofs-a-2639526d-830a-4ebf-a96b-13fa69a3d222#ref=rss)
-### kai
+* [https://www.spiegel.de/panorama/annalena-baerbock-und-ehemann-daniel-holefleisch-haben-sich-getrennt](https://www.spiegel.de/panorama/annalena-baerbock-und-ehemann-daniel-holefleisch-haben-sich-getrennt-a-d327996f-c9f3-44a0-bc91-cfc684c8c8d2#ref=rss)
+### holefleisch
 
-* [https://www.spiegel.de/ausland/benjamin-netanyahu-kai-ambos-ueber-haftbefehl-des-internationalen-strafgerichtshofs](https://www.spiegel.de/ausland/benjamin-netanyahu-kai-ambos-ueber-haftbefehl-des-internationalen-strafgerichtshofs-a-2639526d-830a-4ebf-a96b-13fa69a3d222#ref=rss)
-### ambos
+* [https://www.spiegel.de/panorama/annalena-baerbock-und-ehemann-daniel-holefleisch-haben-sich-getrennt](https://www.spiegel.de/panorama/annalena-baerbock-und-ehemann-daniel-holefleisch-haben-sich-getrennt-a-d327996f-c9f3-44a0-bc91-cfc684c8c8d2#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/ausland/benjamin-netanyahu-kai-ambos-ueber-haftbefehl-des-internationalen-strafgerichtshofs](https://www.spiegel.de/ausland/benjamin-netanyahu-kai-ambos-ueber-haftbefehl-des-internationalen-strafgerichtshofs-a-2639526d-830a-4ebf-a96b-13fa69a3d222#ref=rss)
-### internationalen
+* [https://www.spiegel.de/panorama/annalena-baerbock-und-ehemann-daniel-holefleisch-haben-sich-getrennt](https://www.spiegel.de/panorama/annalena-baerbock-und-ehemann-daniel-holefleisch-haben-sich-getrennt-a-d327996f-c9f3-44a0-bc91-cfc684c8c8d2#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/syrien-archaeologen-deuten-zeichen-auf-tonscherbe-als-aeltestes-alphabet-der-welt](https://www.spiegel.de/wissenschaft/mensch/syrien-archaeologen-deuten-zeichen-auf-tonscherbe-als-aeltestes-alphabet-der-welt-a-d97f56a5-dfc1-4a48-8244-dbb02e796894#ref=rss)
+### gehen
 
-* [https://www.spiegel.de/ausland/benjamin-netanyahu-kai-ambos-ueber-haftbefehl-des-internationalen-strafgerichtshofs](https://www.spiegel.de/ausland/benjamin-netanyahu-kai-ambos-ueber-haftbefehl-des-internationalen-strafgerichtshofs-a-2639526d-830a-4ebf-a96b-13fa69a3d222#ref=rss)
-### franz
+* [https://www.spiegel.de/panorama/annalena-baerbock-und-ehemann-daniel-holefleisch-haben-sich-getrennt](https://www.spiegel.de/panorama/annalena-baerbock-und-ehemann-daniel-holefleisch-haben-sich-getrennt-a-d327996f-c9f3-44a0-bc91-cfc684c8c8d2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-olaf-scholz-als-kanzlerkandidat-kann-das-gutgehen](https://www.spiegel.de/politik/deutschland/spd-olaf-scholz-als-kanzlerkandidat-kann-das-gutgehen-a-e57ad5a4-0c46-4f41-b18c-79354d6341d6#ref=rss)
+### außenministerin
 
-* [https://www.spiegel.de/sport/basketball/nba-orlando-magics-franz-wagner-brilliert-mit-37-punkten-und-dem-entscheidenden-dreier](https://www.spiegel.de/sport/basketball/nba-orlando-magics-franz-wagner-brilliert-mit-37-punkten-und-dem-entscheidenden-dreier-a-17a28f8a-8257-46a6-bac6-4ffdfe05b4e0#ref=rss)
-### wagner
+* [https://www.spiegel.de/panorama/annalena-baerbock-und-ehemann-daniel-holefleisch-haben-sich-getrennt](https://www.spiegel.de/panorama/annalena-baerbock-und-ehemann-daniel-holefleisch-haben-sich-getrennt-a-d327996f-c9f3-44a0-bc91-cfc684c8c8d2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-raet-dem-papst-sich-mit-mehr-frauen-zu-umgeben](https://www.spiegel.de/politik/deutschland/annalena-baerbock-raet-dem-papst-sich-mit-mehr-frauen-zu-umgeben-a-6535df41-5fb0-4e90-b4c2-d785180352ad#ref=rss)
+### krankenhausreform
 
-* [https://www.spiegel.de/sport/basketball/nba-orlando-magics-franz-wagner-brilliert-mit-37-punkten-und-dem-entscheidenden-dreier](https://www.spiegel.de/sport/basketball/nba-orlando-magics-franz-wagner-brilliert-mit-37-punkten-und-dem-entscheidenden-dreier-a-17a28f8a-8257-46a6-bac6-4ffdfe05b4e0#ref=rss)
-### 37
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-krankenhausreform-reisen-angela-merkel](https://www.spiegel.de/politik/deutschland/news-des-tages-krankenhausreform-reisen-angela-merkel-a-a172a87b-afd4-4e26-af85-b2cb0e7e02b0#ref=rss)
+### reisen
 
-* [https://www.spiegel.de/sport/basketball/nba-orlando-magics-franz-wagner-brilliert-mit-37-punkten-und-dem-entscheidenden-dreier](https://www.spiegel.de/sport/basketball/nba-orlando-magics-franz-wagner-brilliert-mit-37-punkten-und-dem-entscheidenden-dreier-a-17a28f8a-8257-46a6-bac6-4ffdfe05b4e0#ref=rss)
-### dreier
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-krankenhausreform-reisen-angela-merkel](https://www.spiegel.de/politik/deutschland/news-des-tages-krankenhausreform-reisen-angela-merkel-a-a172a87b-afd4-4e26-af85-b2cb0e7e02b0#ref=rss)
+### angela
 
-* [https://www.spiegel.de/sport/basketball/nba-orlando-magics-franz-wagner-brilliert-mit-37-punkten-und-dem-entscheidenden-dreier](https://www.spiegel.de/sport/basketball/nba-orlando-magics-franz-wagner-brilliert-mit-37-punkten-und-dem-entscheidenden-dreier-a-17a28f8a-8257-46a6-bac6-4ffdfe05b4e0#ref=rss)
-### per
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-krankenhausreform-reisen-angela-merkel](https://www.spiegel.de/politik/deutschland/news-des-tages-krankenhausreform-reisen-angela-merkel-a-a172a87b-afd4-4e26-af85-b2cb0e7e02b0#ref=rss)
+### merkel
 
-* [https://www.spiegel.de/sport/basketball/nba-orlando-magics-franz-wagner-brilliert-mit-37-punkten-und-dem-entscheidenden-dreier](https://www.spiegel.de/sport/basketball/nba-orlando-magics-franz-wagner-brilliert-mit-37-punkten-und-dem-entscheidenden-dreier-a-17a28f8a-8257-46a6-bac6-4ffdfe05b4e0#ref=rss)
-* [https://www.spiegel.de/panorama/todesstrafe-zu-tode-verurteilter-in-alabama-mit-stickstoffgas-hingerichtet](https://www.spiegel.de/panorama/todesstrafe-zu-tode-verurteilter-in-alabama-mit-stickstoffgas-hingerichtet-a-763a2338-782f-4750-814e-aa0be453a231#ref=rss)
-### temu
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-krankenhausreform-reisen-angela-merkel](https://www.spiegel.de/politik/deutschland/news-des-tages-krankenhausreform-reisen-angela-merkel-a-a172a87b-afd4-4e26-af85-b2cb0e7e02b0#ref=rss)
+### bundesrat
 
-* [https://www.spiegel.de/wirtschaft/dauerniedrigpreise-temu-und-shein-ruinieren-den-black-friday](https://www.spiegel.de/wirtschaft/dauerniedrigpreise-temu-und-shein-ruinieren-den-black-friday-a-00dbec1d-4136-41bb-b903-053c8b1728a5#ref=rss)
-### shein
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-krankenhausreform-reisen-angela-merkel](https://www.spiegel.de/politik/deutschland/news-des-tages-krankenhausreform-reisen-angela-merkel-a-a172a87b-afd4-4e26-af85-b2cb0e7e02b0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deshalb-warf-dietmar-woidke-auf-offener-buehne-seine-ministerin-raus](https://www.spiegel.de/politik/deutschland/deshalb-warf-dietmar-woidke-auf-offener-buehne-seine-ministerin-raus-a-63ea1bc5-fc0c-465d-84f6-953b90ad194e#ref=rss)
+### weniger
 
-* [https://www.spiegel.de/wirtschaft/dauerniedrigpreise-temu-und-shein-ruinieren-den-black-friday](https://www.spiegel.de/wirtschaft/dauerniedrigpreise-temu-und-shein-ruinieren-den-black-friday-a-00dbec1d-4136-41bb-b903-053c8b1728a5#ref=rss)
-### black
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-krankenhausreform-reisen-angela-merkel](https://www.spiegel.de/politik/deutschland/news-des-tages-krankenhausreform-reisen-angela-merkel-a-a172a87b-afd4-4e26-af85-b2cb0e7e02b0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bosch-autozulieferer-will-3800-stellen-in-deutschland-streichen](https://www.spiegel.de/wirtschaft/unternehmen/bosch-autozulieferer-will-3800-stellen-in-deutschland-streichen-a-23f8ae50-3cd5-4cd4-85f3-44ab8b7a3466#ref=rss)
+### politischen
 
-* [https://www.spiegel.de/wirtschaft/dauerniedrigpreise-temu-und-shein-ruinieren-den-black-friday](https://www.spiegel.de/wirtschaft/dauerniedrigpreise-temu-und-shein-ruinieren-den-black-friday-a-00dbec1d-4136-41bb-b903-053c8b1728a5#ref=rss)
-### friday
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-krankenhausreform-reisen-angela-merkel](https://www.spiegel.de/politik/deutschland/news-des-tages-krankenhausreform-reisen-angela-merkel-a-a172a87b-afd4-4e26-af85-b2cb0e7e02b0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/brandenburg-dietmar-woidke-und-ursula-nonnemacher-machen-sich-nach-entlassung-gegenseitig-vorwuerfe](https://www.spiegel.de/politik/deutschland/brandenburg-dietmar-woidke-und-ursula-nonnemacher-machen-sich-nach-entlassung-gegenseitig-vorwuerfe-a-0c917a45-aeb2-48fd-8ec3-3fc248eae22e#ref=rss)
+### benjamin
 
-* [https://www.spiegel.de/wirtschaft/dauerniedrigpreise-temu-und-shein-ruinieren-den-black-friday](https://www.spiegel.de/wirtschaft/dauerniedrigpreise-temu-und-shein-ruinieren-den-black-friday-a-00dbec1d-4136-41bb-b903-053c8b1728a5#ref=rss)
-### selbst
+* [https://www.spiegel.de/politik/deutschland/benjamin-netanyahu-verhaften-die-bundesregierung-weicht-aus](https://www.spiegel.de/politik/deutschland/benjamin-netanyahu-verhaften-die-bundesregierung-weicht-aus-a-4ecd8de2-7dfa-46f7-b7af-d89673f85598#ref=rss)
+### netanyahu
 
-* [https://www.spiegel.de/wirtschaft/dauerniedrigpreise-temu-und-shein-ruinieren-den-black-friday](https://www.spiegel.de/wirtschaft/dauerniedrigpreise-temu-und-shein-ruinieren-den-black-friday-a-00dbec1d-4136-41bb-b903-053c8b1728a5#ref=rss)
-* [https://www.spiegel.de/panorama/todesstrafe-zu-tode-verurteilter-in-alabama-mit-stickstoffgas-hingerichtet](https://www.spiegel.de/panorama/todesstrafe-zu-tode-verurteilter-in-alabama-mit-stickstoffgas-hingerichtet-a-763a2338-782f-4750-814e-aa0be453a231#ref=rss)
-### hoch
+* [https://www.spiegel.de/politik/deutschland/benjamin-netanyahu-verhaften-die-bundesregierung-weicht-aus](https://www.spiegel.de/politik/deutschland/benjamin-netanyahu-verhaften-die-bundesregierung-weicht-aus-a-4ecd8de2-7dfa-46f7-b7af-d89673f85598#ref=rss)
+### bundesregierung
 
-* [https://www.spiegel.de/wirtschaft/dauerniedrigpreise-temu-und-shein-ruinieren-den-black-friday](https://www.spiegel.de/wirtschaft/dauerniedrigpreise-temu-und-shein-ruinieren-den-black-friday-a-00dbec1d-4136-41bb-b903-053c8b1728a5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/grundsteuer-immer-mehr-kommunen-langten-2023-kraeftig-hin](https://www.spiegel.de/wirtschaft/grundsteuer-immer-mehr-kommunen-langten-2023-kraeftig-hin-a-3562d9fb-6246-4136-aec3-5c1ac8e4e1d6#ref=rss)
-### köln
+* [https://www.spiegel.de/politik/deutschland/benjamin-netanyahu-verhaften-die-bundesregierung-weicht-aus](https://www.spiegel.de/politik/deutschland/benjamin-netanyahu-verhaften-die-bundesregierung-weicht-aus-a-4ecd8de2-7dfa-46f7-b7af-d89673f85598#ref=rss)
+### internationale
 
-* [https://www.spiegel.de/panorama/nrw-gueterzug-zwischen-koeln-und-aachen-entgleist-drei-verletzte](https://www.spiegel.de/panorama/nrw-gueterzug-zwischen-koeln-und-aachen-entgleist-drei-verletzte-a-e909e2f9-0f2b-47d8-8469-8dce78d9517f#ref=rss)
-### aachen
+* [https://www.spiegel.de/politik/deutschland/benjamin-netanyahu-verhaften-die-bundesregierung-weicht-aus](https://www.spiegel.de/politik/deutschland/benjamin-netanyahu-verhaften-die-bundesregierung-weicht-aus-a-4ecd8de2-7dfa-46f7-b7af-d89673f85598#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/klimakonferenz-cop29-in-baku-reinfall-oder-chance-fuer-die-internationale-klimafinanzierung-newsletter](https://www.spiegel.de/wissenschaft/mensch/klimakonferenz-cop29-in-baku-reinfall-oder-chance-fuer-die-internationale-klimafinanzierung-newsletter-a-f726342a-7464-4e8c-98c9-3ac6b8405049#ref=rss)
+### energiepreise
 
-* [https://www.spiegel.de/panorama/nrw-gueterzug-zwischen-koeln-und-aachen-entgleist-drei-verletzte](https://www.spiegel.de/panorama/nrw-gueterzug-zwischen-koeln-und-aachen-entgleist-drei-verletzte-a-e909e2f9-0f2b-47d8-8469-8dce78d9517f#ref=rss)
-### drei
+* [https://www.spiegel.de/wirtschaft/energiepreise-viele-unternehmen-reagierten-auf-preisschock-mit-investitionen-in-effizienz](https://www.spiegel.de/wirtschaft/energiepreise-viele-unternehmen-reagierten-auf-preisschock-mit-investitionen-in-effizienz-a-c8a74a54-5a1d-49f3-a959-32888a7506eb#ref=rss)
+### viele
 
-* [https://www.spiegel.de/panorama/nrw-gueterzug-zwischen-koeln-und-aachen-entgleist-drei-verletzte](https://www.spiegel.de/panorama/nrw-gueterzug-zwischen-koeln-und-aachen-entgleist-drei-verletzte-a-e909e2f9-0f2b-47d8-8469-8dce78d9517f#ref=rss)
-### nuklearen
+* [https://www.spiegel.de/wirtschaft/energiepreise-viele-unternehmen-reagierten-auf-preisschock-mit-investitionen-in-effizienz](https://www.spiegel.de/wirtschaft/energiepreise-viele-unternehmen-reagierten-auf-preisschock-mit-investitionen-in-effizienz-a-c8a74a54-5a1d-49f3-a959-32888a7506eb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deshalb-warf-dietmar-woidke-auf-offener-buehne-seine-ministerin-raus](https://www.spiegel.de/politik/deutschland/deshalb-warf-dietmar-woidke-auf-offener-buehne-seine-ministerin-raus-a-63ea1bc5-fc0c-465d-84f6-953b90ad194e#ref=rss)
+### unternehmen
 
-* [https://www.spiegel.de/ausland/atomwaffen-usa-erwaegen-aenderung-ihrer-nuklearstrategie](https://www.spiegel.de/ausland/atomwaffen-usa-erwaegen-aenderung-ihrer-nuklearstrategie-a-055a5670-1356-40d0-89b9-051bdd87a5fd#ref=rss)
-### grundsteuer
+* [https://www.spiegel.de/wirtschaft/energiepreise-viele-unternehmen-reagierten-auf-preisschock-mit-investitionen-in-effizienz](https://www.spiegel.de/wirtschaft/energiepreise-viele-unternehmen-reagierten-auf-preisschock-mit-investitionen-in-effizienz-a-c8a74a54-5a1d-49f3-a959-32888a7506eb#ref=rss)
+### effizienz
 
-* [https://www.spiegel.de/wirtschaft/grundsteuer-immer-mehr-kommunen-langten-2023-kraeftig-hin](https://www.spiegel.de/wirtschaft/grundsteuer-immer-mehr-kommunen-langten-2023-kraeftig-hin-a-3562d9fb-6246-4136-aec3-5c1ac8e4e1d6#ref=rss)
-### kommunen
+* [https://www.spiegel.de/wirtschaft/energiepreise-viele-unternehmen-reagierten-auf-preisschock-mit-investitionen-in-effizienz](https://www.spiegel.de/wirtschaft/energiepreise-viele-unternehmen-reagierten-auf-preisschock-mit-investitionen-in-effizienz-a-c8a74a54-5a1d-49f3-a959-32888a7506eb#ref=rss)
+### ließ
 
-* [https://www.spiegel.de/wirtschaft/grundsteuer-immer-mehr-kommunen-langten-2023-kraeftig-hin](https://www.spiegel.de/wirtschaft/grundsteuer-immer-mehr-kommunen-langten-2023-kraeftig-hin-a-3562d9fb-6246-4136-aec3-5c1ac8e4e1d6#ref=rss)
-### verkehr
+* [https://www.spiegel.de/wirtschaft/energiepreise-viele-unternehmen-reagierten-auf-preisschock-mit-investitionen-in-effizienz](https://www.spiegel.de/wirtschaft/energiepreise-viele-unternehmen-reagierten-auf-preisschock-mit-investitionen-in-effizienz-a-c8a74a54-5a1d-49f3-a959-32888a7506eb#ref=rss)
+* [https://www.spiegel.de/kultur/kino/jonathan-majors-ex-freundin-von-marvel-star-zieht-klage-zurueck](https://www.spiegel.de/kultur/kino/jonathan-majors-ex-freundin-von-marvel-star-zieht-klage-zurueck-a-d78fb2dd-136a-45b6-8f3d-97fd8de689d1#ref=rss)
+### vorstoß
 
-* [https://www.spiegel.de/panorama/wetter-starker-schneefall-bremst-verkehr-im-sueden-aus](https://www.spiegel.de/panorama/wetter-starker-schneefall-bremst-verkehr-im-sueden-aus-a-bf403f77-aff1-44b9-89e6-bf1cd952cd6d#ref=rss)
-### sweet
+* [https://www.spiegel.de/panorama/csu-rechtspolitiker-auch-kinder-sollen-sich-vor-gericht-verantworten-muessen](https://www.spiegel.de/panorama/csu-rechtspolitiker-auch-kinder-sollen-sich-vor-gericht-verantworten-muessen-a-697aa9b8-460f-439d-a8de-eca95cc255e0#ref=rss)
+* [https://www.spiegel.de/panorama/rcds-cdu-naher-verbund-fordert-studiengebuehren](https://www.spiegel.de/panorama/rcds-cdu-naher-verbund-fordert-studiengebuehren-a-3134c1e8-6196-4bc9-9524-0c25a538f7eb#ref=rss)
+### rcds
 
-* [https://www.spiegel.de/netzwelt/web/tourette-influencerin-sweet-anita-die-twitch-streamerin-mit-der-lizenz-zum-fluchen](https://www.spiegel.de/netzwelt/web/tourette-influencerin-sweet-anita-die-twitch-streamerin-mit-der-lizenz-zum-fluchen-a-42862f3a-4202-42ea-aa77-7c58a362bed2#ref=rss)
-### anita
+* [https://www.spiegel.de/panorama/rcds-cdu-naher-verbund-fordert-studiengebuehren](https://www.spiegel.de/panorama/rcds-cdu-naher-verbund-fordert-studiengebuehren-a-3134c1e8-6196-4bc9-9524-0c25a538f7eb#ref=rss)
+### tatort
 
-* [https://www.spiegel.de/netzwelt/web/tourette-influencerin-sweet-anita-die-twitch-streamerin-mit-der-lizenz-zum-fluchen](https://www.spiegel.de/netzwelt/web/tourette-influencerin-sweet-anita-die-twitch-streamerin-mit-der-lizenz-zum-fluchen-a-42862f3a-4202-42ea-aa77-7c58a362bed2#ref=rss)
-### wirecardanleger
+* [https://www.spiegel.de/kultur/tv/tatort-aus-koeln-siebte-etage-mit-schenk-und-ballauf-ueber-rotlichtmilieu](https://www.spiegel.de/kultur/tv/tatort-aus-koeln-siebte-etage-mit-schenk-und-ballauf-ueber-rotlichtmilieu-a-590c3f6b-813e-4a7e-a2d8-ef8fa8177c90#ref=rss)
+### raus
 
-* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-wird-spd-kanzlerkandidat-finale-der-klimakonferenz-wirecard-anleger-wollen-schadensersatz-rueckzug-von-matt-gaetz](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-wird-spd-kanzlerkandidat-finale-der-klimakonferenz-wirecard-anleger-wollen-schadensersatz-rueckzug-von-matt-gaetz-a-8018de00-81d9-4d91-a82e-c56e139b2d62#ref=rss)
-### alabama
+* [https://www.spiegel.de/politik/deutschland/deshalb-warf-dietmar-woidke-auf-offener-buehne-seine-ministerin-raus](https://www.spiegel.de/politik/deutschland/deshalb-warf-dietmar-woidke-auf-offener-buehne-seine-ministerin-raus-a-63ea1bc5-fc0c-465d-84f6-953b90ad194e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/brandenburg-gruenen-minister-axel-vogel-tritt-nach-aus-von-ursula-nonnemacher-zurueck](https://www.spiegel.de/politik/deutschland/brandenburg-gruenen-minister-axel-vogel-tritt-nach-aus-von-ursula-nonnemacher-zurueck-a-95a79a78-94cc-41a2-9ae7-a71ad19b2edc#ref=rss)
+### kam
 
-* [https://www.spiegel.de/panorama/todesstrafe-zu-tode-verurteilter-in-alabama-mit-stickstoffgas-hingerichtet](https://www.spiegel.de/panorama/todesstrafe-zu-tode-verurteilter-in-alabama-mit-stickstoffgas-hingerichtet-a-763a2338-782f-4750-814e-aa0be453a231#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deshalb-warf-dietmar-woidke-auf-offener-buehne-seine-ministerin-raus](https://www.spiegel.de/politik/deutschland/deshalb-warf-dietmar-woidke-auf-offener-buehne-seine-ministerin-raus-a-63ea1bc5-fc0c-465d-84f6-953b90ad194e#ref=rss)
+* [https://www.spiegel.de/ausland/pakistan-mehr-als-40-tote-bei-schuessen-auf-schiitischen-konvoi](https://www.spiegel.de/ausland/pakistan-mehr-als-40-tote-bei-schuessen-auf-schiitischen-konvoi-a-65424153-83ac-4984-87d1-5f942e382e47#ref=rss)
+### baku
+
+* [https://www.spiegel.de/wissenschaft/mensch/klimakonferenz-cop29-in-baku-reinfall-oder-chance-fuer-die-internationale-klimafinanzierung-newsletter](https://www.spiegel.de/wissenschaft/mensch/klimakonferenz-cop29-in-baku-reinfall-oder-chance-fuer-die-internationale-klimafinanzierung-newsletter-a-f726342a-7464-4e8c-98c9-3ac6b8405049#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/uno-klimagipfel-in-baku-geht-in-die-verlaengerung](https://www.spiegel.de/wissenschaft/natur/uno-klimagipfel-in-baku-geht-in-die-verlaengerung-a-cafa02b5-7933-4230-b98f-8dc660f8d704#ref=rss)
+### jonathan
+
+* [https://www.spiegel.de/kultur/kino/jonathan-majors-ex-freundin-von-marvel-star-zieht-klage-zurueck](https://www.spiegel.de/kultur/kino/jonathan-majors-ex-freundin-von-marvel-star-zieht-klage-zurueck-a-d78fb2dd-136a-45b6-8f3d-97fd8de689d1#ref=rss)
+### majors
+
+* [https://www.spiegel.de/kultur/kino/jonathan-majors-ex-freundin-von-marvel-star-zieht-klage-zurueck](https://www.spiegel.de/kultur/kino/jonathan-majors-ex-freundin-von-marvel-star-zieht-klage-zurueck-a-d78fb2dd-136a-45b6-8f3d-97fd8de689d1#ref=rss)
+### exfreundin
+
+* [https://www.spiegel.de/kultur/kino/jonathan-majors-ex-freundin-von-marvel-star-zieht-klage-zurueck](https://www.spiegel.de/kultur/kino/jonathan-majors-ex-freundin-von-marvel-star-zieht-klage-zurueck-a-d78fb2dd-136a-45b6-8f3d-97fd8de689d1#ref=rss)
+### marvelstar
+
+* [https://www.spiegel.de/kultur/kino/jonathan-majors-ex-freundin-von-marvel-star-zieht-klage-zurueck](https://www.spiegel.de/kultur/kino/jonathan-majors-ex-freundin-von-marvel-star-zieht-klage-zurueck-a-d78fb2dd-136a-45b6-8f3d-97fd8de689d1#ref=rss)
+### klage
+
+* [https://www.spiegel.de/kultur/kino/jonathan-majors-ex-freundin-von-marvel-star-zieht-klage-zurueck](https://www.spiegel.de/kultur/kino/jonathan-majors-ex-freundin-von-marvel-star-zieht-klage-zurueck-a-d78fb2dd-136a-45b6-8f3d-97fd8de689d1#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/kultur/kino/jonathan-majors-ex-freundin-von-marvel-star-zieht-klage-zurueck](https://www.spiegel.de/kultur/kino/jonathan-majors-ex-freundin-von-marvel-star-zieht-klage-zurueck-a-d78fb2dd-136a-45b6-8f3d-97fd8de689d1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/brandenburg-gruenen-minister-axel-vogel-tritt-nach-aus-von-ursula-nonnemacher-zurueck](https://www.spiegel.de/politik/deutschland/brandenburg-gruenen-minister-axel-vogel-tritt-nach-aus-von-ursula-nonnemacher-zurueck-a-95a79a78-94cc-41a2-9ae7-a71ad19b2edc#ref=rss)
+### klimakonferenz
+
+* [https://www.spiegel.de/wissenschaft/natur/uno-klimagipfel-in-baku-geht-in-die-verlaengerung](https://www.spiegel.de/wissenschaft/natur/uno-klimagipfel-in-baku-geht-in-die-verlaengerung-a-cafa02b5-7933-4230-b98f-8dc660f8d704#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-raet-dem-papst-sich-mit-mehr-frauen-zu-umgeben](https://www.spiegel.de/politik/deutschland/annalena-baerbock-raet-dem-papst-sich-mit-mehr-frauen-zu-umgeben-a-6535df41-5fb0-4e90-b4c2-d785180352ad#ref=rss)
+### milliarden
+
+* [https://www.spiegel.de/wissenschaft/natur/uno-klimagipfel-in-baku-geht-in-die-verlaengerung](https://www.spiegel.de/wissenschaft/natur/uno-klimagipfel-in-baku-geht-in-die-verlaengerung-a-cafa02b5-7933-4230-b98f-8dc660f8d704#ref=rss)
+* [https://www.spiegel.de/kultur/berlin-wie-viel-die-berliner-kultur-wirklich-sparen-muss-und-wie-sie-darueber-verzweifelt](https://www.spiegel.de/kultur/berlin-wie-viel-die-berliner-kultur-wirklich-sparen-muss-und-wie-sie-darueber-verzweifelt-a-8503615b-7723-4095-96e2-c76de55dc5f8#ref=rss)
+### andrew
+
+* [https://www.spiegel.de/netzwelt/andrew-tates-online-plattform-gehackt-gruppe-stiehlt-offenbar-daten-von-fast-800-000-nutzern](https://www.spiegel.de/netzwelt/andrew-tates-online-plattform-gehackt-gruppe-stiehlt-offenbar-daten-von-fast-800-000-nutzern-a-ebfe075f-7eb5-4173-a8e9-17909874c673#ref=rss)
+### tates
+
+* [https://www.spiegel.de/netzwelt/andrew-tates-online-plattform-gehackt-gruppe-stiehlt-offenbar-daten-von-fast-800-000-nutzern](https://www.spiegel.de/netzwelt/andrew-tates-online-plattform-gehackt-gruppe-stiehlt-offenbar-daten-von-fast-800-000-nutzern-a-ebfe075f-7eb5-4173-a8e9-17909874c673#ref=rss)
+### gruppe
+
+* [https://www.spiegel.de/netzwelt/andrew-tates-online-plattform-gehackt-gruppe-stiehlt-offenbar-daten-von-fast-800-000-nutzern](https://www.spiegel.de/netzwelt/andrew-tates-online-plattform-gehackt-gruppe-stiehlt-offenbar-daten-von-fast-800-000-nutzern-a-ebfe075f-7eb5-4173-a8e9-17909874c673#ref=rss)
+* [https://www.spiegel.de/ausland/pakistan-mehr-als-40-tote-bei-schuessen-auf-schiitischen-konvoi](https://www.spiegel.de/ausland/pakistan-mehr-als-40-tote-bei-schuessen-auf-schiitischen-konvoi-a-65424153-83ac-4984-87d1-5f942e382e47#ref=rss)
+### daten
+
+* [https://www.spiegel.de/netzwelt/andrew-tates-online-plattform-gehackt-gruppe-stiehlt-offenbar-daten-von-fast-800-000-nutzern](https://www.spiegel.de/netzwelt/andrew-tates-online-plattform-gehackt-gruppe-stiehlt-offenbar-daten-von-fast-800-000-nutzern-a-ebfe075f-7eb5-4173-a8e9-17909874c673#ref=rss)
+### nutzern
+
+* [https://www.spiegel.de/netzwelt/andrew-tates-online-plattform-gehackt-gruppe-stiehlt-offenbar-daten-von-fast-800-000-nutzern](https://www.spiegel.de/netzwelt/andrew-tates-online-plattform-gehackt-gruppe-stiehlt-offenbar-daten-von-fast-800-000-nutzern-a-ebfe075f-7eb5-4173-a8e9-17909874c673#ref=rss)
+### kulturszene
+
+* [https://www.spiegel.de/kultur/berlin-wie-viel-die-berliner-kultur-wirklich-sparen-muss-und-wie-sie-darueber-verzweifelt](https://www.spiegel.de/kultur/berlin-wie-viel-die-berliner-kultur-wirklich-sparen-muss-und-wie-sie-darueber-verzweifelt-a-8503615b-7723-4095-96e2-c76de55dc5f8#ref=rss)
+### wirklich
+
+* [https://www.spiegel.de/kultur/berlin-wie-viel-die-berliner-kultur-wirklich-sparen-muss-und-wie-sie-darueber-verzweifelt](https://www.spiegel.de/kultur/berlin-wie-viel-die-berliner-kultur-wirklich-sparen-muss-und-wie-sie-darueber-verzweifelt-a-8503615b-7723-4095-96e2-c76de55dc5f8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-olaf-scholz-als-kanzlerkandidat-kann-das-gutgehen](https://www.spiegel.de/politik/deutschland/spd-olaf-scholz-als-kanzlerkandidat-kann-das-gutgehen-a-e57ad5a4-0c46-4f41-b18c-79354d6341d6#ref=rss)
+### zeichen
+
+* [https://www.spiegel.de/wissenschaft/mensch/syrien-archaeologen-deuten-zeichen-auf-tonscherbe-als-aeltestes-alphabet-der-welt](https://www.spiegel.de/wissenschaft/mensch/syrien-archaeologen-deuten-zeichen-auf-tonscherbe-als-aeltestes-alphabet-der-welt-a-d97f56a5-dfc1-4a48-8244-dbb02e796894#ref=rss)
+### olaf
+
+* [https://www.spiegel.de/politik/deutschland/spd-olaf-scholz-als-kanzlerkandidat-kann-das-gutgehen](https://www.spiegel.de/politik/deutschland/spd-olaf-scholz-als-kanzlerkandidat-kann-das-gutgehen-a-e57ad5a4-0c46-4f41-b18c-79354d6341d6#ref=rss)
+### scholz
+
+* [https://www.spiegel.de/politik/deutschland/spd-olaf-scholz-als-kanzlerkandidat-kann-das-gutgehen](https://www.spiegel.de/politik/deutschland/spd-olaf-scholz-als-kanzlerkandidat-kann-das-gutgehen-a-e57ad5a4-0c46-4f41-b18c-79354d6341d6#ref=rss)
+### pakistan
+
+* [https://www.spiegel.de/ausland/pakistan-mehr-als-40-tote-bei-schuessen-auf-schiitischen-konvoi](https://www.spiegel.de/ausland/pakistan-mehr-als-40-tote-bei-schuessen-auf-schiitischen-konvoi-a-65424153-83ac-4984-87d1-5f942e382e47#ref=rss)
+### vorwürfe
+
+* [https://www.spiegel.de/politik/deutschland/brandenburg-dietmar-woidke-und-ursula-nonnemacher-machen-sich-nach-entlassung-gegenseitig-vorwuerfe](https://www.spiegel.de/politik/deutschland/brandenburg-dietmar-woidke-und-ursula-nonnemacher-machen-sich-nach-entlassung-gegenseitig-vorwuerfe-a-0c917a45-aeb2-48fd-8ec3-3fc248eae22e#ref=rss)
+### bosch
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bosch-autozulieferer-will-3800-stellen-in-deutschland-streichen](https://www.spiegel.de/wirtschaft/unternehmen/bosch-autozulieferer-will-3800-stellen-in-deutschland-streichen-a-23f8ae50-3cd5-4cd4-85f3-44ab8b7a3466#ref=rss)
+### stellen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bosch-autozulieferer-will-3800-stellen-in-deutschland-streichen](https://www.spiegel.de/wirtschaft/unternehmen/bosch-autozulieferer-will-3800-stellen-in-deutschland-streichen-a-23f8ae50-3cd5-4cd4-85f3-44ab8b7a3466#ref=rss)
 
