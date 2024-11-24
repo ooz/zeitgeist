@@ -4,344 +4,340 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### unter
+### krise
 
-* [https://www.spiegel.de/panorama/katzen-in-deutschland-jaeger-erschiessen-in-schleswig-holstein-ueber-2-500-katzen](https://www.spiegel.de/panorama/katzen-in-deutschland-jaeger-erschiessen-in-schleswig-holstein-ueber-2-500-katzen-a-312317ca-86d6-49f1-a130-2707b8ae39bb#ref=rss)
-* [https://www.spiegel.de/wissenschaft/cop29-in-baku-aermste-staaten-verlassen-klimaverhandlungen-unter-protest](https://www.spiegel.de/wissenschaft/cop29-in-baku-aermste-staaten-verlassen-klimaverhandlungen-unter-protest-a-60aea375-8285-4b9d-96f8-d74fa98f78bd#ref=rss)
-* [https://www.spiegel.de/sport/fussball/zweite-fussball-bundesliga-sv-elversberg-mischt-die-liga-auf-darmstadt-beeindruckt-unter-kohfeldt](https://www.spiegel.de/sport/fussball/zweite-fussball-bundesliga-sv-elversberg-mischt-die-liga-auf-darmstadt-beeindruckt-unter-kohfeldt-a-37c7ccb0-d3af-4d2c-89b0-cccfa571a38a#ref=rss)
-* [https://www.spiegel.de/panorama/schnee-in-deutschland-gepuderte-welt](https://www.spiegel.de/panorama/schnee-in-deutschland-gepuderte-welt-a-4f33528c-2db2-4976-831b-7b745027fae7#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/panorama/katzen-in-deutschland-jaeger-erschiessen-in-schleswig-holstein-ueber-2-500-katzen](https://www.spiegel.de/panorama/katzen-in-deutschland-jaeger-erschiessen-in-schleswig-holstein-ueber-2-500-katzen-a-312317ca-86d6-49f1-a130-2707b8ae39bb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/vw-markenchef-haelt-an-plaenen-fuer-fabrikschliessungen-in-deutschland-fest](https://www.spiegel.de/wirtschaft/unternehmen/vw-markenchef-haelt-an-plaenen-fuer-fabrikschliessungen-in-deutschland-fest-a-bc67ead6-1235-413e-a020-bce04f51f92e#ref=rss)
-* [https://www.spiegel.de/panorama/schnee-in-deutschland-gepuderte-welt](https://www.spiegel.de/panorama/schnee-in-deutschland-gepuderte-welt-a-4f33528c-2db2-4976-831b-7b745027fae7#ref=rss)
-### spiegel
-
-* [https://www.spiegel.de/panorama/gesellschaft/imperator-peter-fitzek-am-ende-der-untergang-des-koenigreich-deutschlands-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/imperator-peter-fitzek-am-ende-der-untergang-des-koenigreich-deutschlands-spiegel-tv-a-379489b8-896e-4d8f-85ea-9b8585200d12#ref=rss)
-* [https://www.spiegel.de/wissenschaft/klimagipfel-cop29-wie-saudi-arabien-den-baku-deal-blockiert](https://www.spiegel.de/wissenschaft/klimagipfel-cop29-wie-saudi-arabien-den-baku-deal-blockiert-a-a8004e72-ba63-400c-8091-e6384d28e858#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/afd-bayern-beschliesst-migrationsresolution-aus-extremen-reihen-der-partei](https://www.spiegel.de/politik/deutschland/afd-bayern-beschliesst-migrationsresolution-aus-extremen-reihen-der-partei-a-3b1a125e-ecaf-4f1c-8269-c611ae8a2480#ref=rss)
-* [https://www.spiegel.de/sport/fussball/hamburger-sv-steffen-baumgart-haelt-nicht-alle-afd-waehler-fuer-idioten](https://www.spiegel.de/sport/fussball/hamburger-sv-steffen-baumgart-haelt-nicht-alle-afd-waehler-fuer-idioten-a-ce2f1963-1c76-4773-9e9a-0270cd7f5730#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/politik/deutschland/afd-bayern-beschliesst-migrationsresolution-aus-extremen-reihen-der-partei](https://www.spiegel.de/politik/deutschland/afd-bayern-beschliesst-migrationsresolution-aus-extremen-reihen-der-partei-a-3b1a125e-ecaf-4f1c-8269-c611ae8a2480#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-rb-leipzig-verliert-gegen-hoffenheim-und-den-anschluss-an-den-fc-bayern](https://www.spiegel.de/sport/fussball/bundesliga-rb-leipzig-verliert-gegen-hoffenheim-und-den-anschluss-an-den-fc-bayern-a-9871b0da-8a6c-4ed8-8f76-ad24778483a6#ref=rss)
-### katzen
-
-* [https://www.spiegel.de/panorama/katzen-in-deutschland-jaeger-erschiessen-in-schleswig-holstein-ueber-2-500-katzen](https://www.spiegel.de/panorama/katzen-in-deutschland-jaeger-erschiessen-in-schleswig-holstein-ueber-2-500-katzen-a-312317ca-86d6-49f1-a130-2707b8ae39bb#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/gesundheit/gastgeber-sein-so-gelingt-der-perfekte-abend-auch-ohne-alles-richtigzumachen](https://www.spiegel.de/gesundheit/gastgeber-sein-so-gelingt-der-perfekte-abend-auch-ohne-alles-richtigzumachen-a-9337ddcd-c1a5-4a2e-aaac-e01983e223d6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/jaguar-chef-verteidigt-umstrittene-werbekampagne-ohne-autos](https://www.spiegel.de/wirtschaft/unternehmen/jaguar-chef-verteidigt-umstrittene-werbekampagne-ohne-autos-a-ccc92f17-6a27-46a9-bba8-5ba139863bb6#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-polizei-und-union-fans-liefern-sich-schlaegerei-vor-stadion](https://www.spiegel.de/sport/fussball/fussball-bundesliga-polizei-und-union-fans-liefern-sich-schlaegerei-vor-stadion-a-e1024c3b-9e02-4922-8bca-eaa4c8c5766c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/vorschlag-zu-beleidigungen-im-internet-bussgeld-statt-strafverfolgung](https://www.spiegel.de/panorama/justiz/vorschlag-zu-beleidigungen-im-internet-bussgeld-statt-strafverfolgung-a-34522e01-3b56-4a02-89a5-88655b5e367d#ref=rss)
-### diesen
-
-* [https://www.spiegel.de/stil/frauen-in-maenner-boxershorts-bin-ich-zu-spiessig-fuer-diesen-trend](https://www.spiegel.de/stil/frauen-in-maenner-boxershorts-bin-ich-zu-spiessig-fuer-diesen-trend-a-b90d062c-5506-4fa3-9aa2-91a272a663b8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/vorschlag-zu-beleidigungen-im-internet-bussgeld-statt-strafverfolgung](https://www.spiegel.de/panorama/justiz/vorschlag-zu-beleidigungen-im-internet-bussgeld-statt-strafverfolgung-a-34522e01-3b56-4a02-89a5-88655b5e367d#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/justiz/vorschlag-zu-beleidigungen-im-internet-bussgeld-statt-strafverfolgung](https://www.spiegel.de/panorama/justiz/vorschlag-zu-beleidigungen-im-internet-bussgeld-statt-strafverfolgung-a-34522e01-3b56-4a02-89a5-88655b5e367d#ref=rss)
-* [https://www.spiegel.de/panorama/mehr-als-550-000-euro-schaden-mann-stoesst-mit-kran-gegen-bruecke-in-baden-wuerttemberg](https://www.spiegel.de/panorama/mehr-als-550-000-euro-schaden-mann-stoesst-mit-kran-gegen-bruecke-in-baden-wuerttemberg-a-1e0c82ee-65ae-4efc-979d-f903a50476c7#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/spd-saskia-esken-bekommt-den-frust-der-jusos-zu-spueren](https://www.spiegel.de/politik/deutschland/spd-saskia-esken-bekommt-den-frust-der-jusos-zu-spueren-a-f98aeeb7-6298-48cc-8bf1-67172d21d58f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hubertus-heil-kanzlerdebatte-veraergert-partei-vize-spd-ist-keine-selbsthilfegruppe](https://www.spiegel.de/politik/deutschland/hubertus-heil-kanzlerdebatte-veraergert-partei-vize-spd-ist-keine-selbsthilfegruppe-a-2e6e7c44-cdd5-4db3-8730-cb677024186d#ref=rss)
-### klimagipfel
-
-* [https://www.spiegel.de/wissenschaft/klimagipfel-cop29-wie-saudi-arabien-den-baku-deal-blockiert](https://www.spiegel.de/wissenschaft/klimagipfel-cop29-wie-saudi-arabien-den-baku-deal-blockiert-a-a8004e72-ba63-400c-8091-e6384d28e858#ref=rss)
-* [https://www.spiegel.de/wissenschaft/cop29-in-baku-aermste-staaten-verlassen-klimaverhandlungen-unter-protest](https://www.spiegel.de/wissenschaft/cop29-in-baku-aermste-staaten-verlassen-klimaverhandlungen-unter-protest-a-60aea375-8285-4b9d-96f8-d74fa98f78bd#ref=rss)
-### baku
-
-* [https://www.spiegel.de/wissenschaft/klimagipfel-cop29-wie-saudi-arabien-den-baku-deal-blockiert](https://www.spiegel.de/wissenschaft/klimagipfel-cop29-wie-saudi-arabien-den-baku-deal-blockiert-a-a8004e72-ba63-400c-8091-e6384d28e858#ref=rss)
-* [https://www.spiegel.de/wissenschaft/cop29-in-baku-aermste-staaten-verlassen-klimaverhandlungen-unter-protest](https://www.spiegel.de/wissenschaft/cop29-in-baku-aermste-staaten-verlassen-klimaverhandlungen-unter-protest-a-60aea375-8285-4b9d-96f8-d74fa98f78bd#ref=rss)
-### droht
-
-* [https://www.spiegel.de/wissenschaft/klimagipfel-cop29-wie-saudi-arabien-den-baku-deal-blockiert](https://www.spiegel.de/wissenschaft/klimagipfel-cop29-wie-saudi-arabien-den-baku-deal-blockiert-a-a8004e72-ba63-400c-8091-e6384d28e858#ref=rss)
-* [https://www.spiegel.de/ausland/philippinen-todesdrohungen-innerhalb-der-regierung-sara-duterte-gegen-ferdinand-marcos-jr](https://www.spiegel.de/ausland/philippinen-todesdrohungen-innerhalb-der-regierung-sara-duterte-gegen-ferdinand-marcos-jr-a-bb1561b7-7d01-4314-a86e-a5d216e6751e#ref=rss)
-* [https://www.spiegel.de/panorama/schnee-in-deutschland-gepuderte-welt](https://www.spiegel.de/panorama/schnee-in-deutschland-gepuderte-welt-a-4f33528c-2db2-4976-831b-7b745027fae7#ref=rss)
-### wir
-
-* [https://www.spiegel.de/wissenschaft/cop29-in-baku-aermste-staaten-verlassen-klimaverhandlungen-unter-protest](https://www.spiegel.de/wissenschaft/cop29-in-baku-aermste-staaten-verlassen-klimaverhandlungen-unter-protest-a-60aea375-8285-4b9d-96f8-d74fa98f78bd#ref=rss)
-* [https://www.spiegel.de/panorama/schnee-in-deutschland-gepuderte-welt](https://www.spiegel.de/panorama/schnee-in-deutschland-gepuderte-welt-a-4f33528c-2db2-4976-831b-7b745027fae7#ref=rss)
-### sv
-
-* [https://www.spiegel.de/sport/fussball/zweite-fussball-bundesliga-sv-elversberg-mischt-die-liga-auf-darmstadt-beeindruckt-unter-kohfeldt](https://www.spiegel.de/sport/fussball/zweite-fussball-bundesliga-sv-elversberg-mischt-die-liga-auf-darmstadt-beeindruckt-unter-kohfeldt-a-37c7ccb0-d3af-4d2c-89b0-cccfa571a38a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/hamburger-sv-steffen-baumgart-haelt-nicht-alle-afd-waehler-fuer-idioten](https://www.spiegel.de/sport/fussball/hamburger-sv-steffen-baumgart-haelt-nicht-alle-afd-waehler-fuer-idioten-a-ce2f1963-1c76-4773-9e9a-0270cd7f5730#ref=rss)
-### imperator
-
-* [https://www.spiegel.de/panorama/gesellschaft/imperator-peter-fitzek-am-ende-der-untergang-des-koenigreich-deutschlands-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/imperator-peter-fitzek-am-ende-der-untergang-des-koenigreich-deutschlands-spiegel-tv-a-379489b8-896e-4d8f-85ea-9b8585200d12#ref=rss)
-### peter
-
-* [https://www.spiegel.de/panorama/gesellschaft/imperator-peter-fitzek-am-ende-der-untergang-des-koenigreich-deutschlands-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/imperator-peter-fitzek-am-ende-der-untergang-des-koenigreich-deutschlands-spiegel-tv-a-379489b8-896e-4d8f-85ea-9b8585200d12#ref=rss)
-### fitzek
-
-* [https://www.spiegel.de/panorama/gesellschaft/imperator-peter-fitzek-am-ende-der-untergang-des-koenigreich-deutschlands-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/imperator-peter-fitzek-am-ende-der-untergang-des-koenigreich-deutschlands-spiegel-tv-a-379489b8-896e-4d8f-85ea-9b8585200d12#ref=rss)
-### deutschlands
-
-* [https://www.spiegel.de/panorama/gesellschaft/imperator-peter-fitzek-am-ende-der-untergang-des-koenigreich-deutschlands-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/imperator-peter-fitzek-am-ende-der-untergang-des-koenigreich-deutschlands-spiegel-tv-a-379489b8-896e-4d8f-85ea-9b8585200d12#ref=rss)
-* [https://www.spiegel.de/stil/wein-versteigerung-in-badkreuznach-riesling-makes-me-happy](https://www.spiegel.de/stil/wein-versteigerung-in-badkreuznach-riesling-makes-me-happy-a-d62eafe4-d160-4968-b72c-42f0079a6376#ref=rss)
-### tv
-
-* [https://www.spiegel.de/panorama/gesellschaft/imperator-peter-fitzek-am-ende-der-untergang-des-koenigreich-deutschlands-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/imperator-peter-fitzek-am-ende-der-untergang-des-koenigreich-deutschlands-spiegel-tv-a-379489b8-896e-4d8f-85ea-9b8585200d12#ref=rss)
-### idee
-
-* [https://www.spiegel.de/panorama/gesellschaft/imperator-peter-fitzek-am-ende-der-untergang-des-koenigreich-deutschlands-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/imperator-peter-fitzek-am-ende-der-untergang-des-koenigreich-deutschlands-spiegel-tv-a-379489b8-896e-4d8f-85ea-9b8585200d12#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/vorschlag-zu-beleidigungen-im-internet-bussgeld-statt-strafverfolgung](https://www.spiegel.de/panorama/justiz/vorschlag-zu-beleidigungen-im-internet-bussgeld-statt-strafverfolgung-a-34522e01-3b56-4a02-89a5-88655b5e367d#ref=rss)
-### pius
-
-* [https://www.spiegel.de/sport/wintersport/skispringen-pius-paschke-gewinnt-ueberraschend-in-lillehammer](https://www.spiegel.de/sport/wintersport/skispringen-pius-paschke-gewinnt-ueberraschend-in-lillehammer-a-0cb492d7-7115-491b-9204-f0e49a41c7e8#ref=rss)
-### paschke
-
-* [https://www.spiegel.de/sport/wintersport/skispringen-pius-paschke-gewinnt-ueberraschend-in-lillehammer](https://www.spiegel.de/sport/wintersport/skispringen-pius-paschke-gewinnt-ueberraschend-in-lillehammer-a-0cb492d7-7115-491b-9204-f0e49a41c7e8#ref=rss)
-### überraschend
-
-* [https://www.spiegel.de/sport/wintersport/skispringen-pius-paschke-gewinnt-ueberraschend-in-lillehammer](https://www.spiegel.de/sport/wintersport/skispringen-pius-paschke-gewinnt-ueberraschend-in-lillehammer-a-0cb492d7-7115-491b-9204-f0e49a41c7e8#ref=rss)
-* [https://www.spiegel.de/kultur/musik/kendrick-lamar-veroeffentlicht-gnx-ein-rap-album-wie-ein-muscle-car](https://www.spiegel.de/kultur/musik/kendrick-lamar-veroeffentlicht-gnx-ein-rap-album-wie-ein-muscle-car-a-47043956-f07f-41f7-a506-e0f1b7ff610e#ref=rss)
-### lillehammer
-
-* [https://www.spiegel.de/sport/wintersport/skispringen-pius-paschke-gewinnt-ueberraschend-in-lillehammer](https://www.spiegel.de/sport/wintersport/skispringen-pius-paschke-gewinnt-ueberraschend-in-lillehammer-a-0cb492d7-7115-491b-9204-f0e49a41c7e8#ref=rss)
-### alt
-
-* [https://www.spiegel.de/sport/wintersport/skispringen-pius-paschke-gewinnt-ueberraschend-in-lillehammer](https://www.spiegel.de/sport/wintersport/skispringen-pius-paschke-gewinnt-ueberraschend-in-lillehammer-a-0cb492d7-7115-491b-9204-f0e49a41c7e8#ref=rss)
-* [https://www.spiegel.de/stil/frauen-in-maenner-boxershorts-bin-ich-zu-spiessig-fuer-diesen-trend](https://www.spiegel.de/stil/frauen-in-maenner-boxershorts-bin-ich-zu-spiessig-fuer-diesen-trend-a-b90d062c-5506-4fa3-9aa2-91a272a663b8#ref=rss)
-### besser
-
-* [https://www.spiegel.de/sport/wintersport/skispringen-pius-paschke-gewinnt-ueberraschend-in-lillehammer](https://www.spiegel.de/sport/wintersport/skispringen-pius-paschke-gewinnt-ueberraschend-in-lillehammer-a-0cb492d7-7115-491b-9204-f0e49a41c7e8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/vorschlag-zu-beleidigungen-im-internet-bussgeld-statt-strafverfolgung](https://www.spiegel.de/panorama/justiz/vorschlag-zu-beleidigungen-im-internet-bussgeld-statt-strafverfolgung-a-34522e01-3b56-4a02-89a5-88655b5e367d#ref=rss)
-### jäger
-
-* [https://www.spiegel.de/panorama/katzen-in-deutschland-jaeger-erschiessen-in-schleswig-holstein-ueber-2-500-katzen](https://www.spiegel.de/panorama/katzen-in-deutschland-jaeger-erschiessen-in-schleswig-holstein-ueber-2-500-katzen-a-312317ca-86d6-49f1-a130-2707b8ae39bb#ref=rss)
-### erschießen
-
-* [https://www.spiegel.de/panorama/katzen-in-deutschland-jaeger-erschiessen-in-schleswig-holstein-ueber-2-500-katzen](https://www.spiegel.de/panorama/katzen-in-deutschland-jaeger-erschiessen-in-schleswig-holstein-ueber-2-500-katzen-a-312317ca-86d6-49f1-a130-2707b8ae39bb#ref=rss)
-### schleswigholstein
-
-* [https://www.spiegel.de/panorama/katzen-in-deutschland-jaeger-erschiessen-in-schleswig-holstein-ueber-2-500-katzen](https://www.spiegel.de/panorama/katzen-in-deutschland-jaeger-erschiessen-in-schleswig-holstein-ueber-2-500-katzen-a-312317ca-86d6-49f1-a130-2707b8ae39bb#ref=rss)
-### geben
-
-* [https://www.spiegel.de/panorama/katzen-in-deutschland-jaeger-erschiessen-in-schleswig-holstein-ueber-2-500-katzen](https://www.spiegel.de/panorama/katzen-in-deutschland-jaeger-erschiessen-in-schleswig-holstein-ueber-2-500-katzen-a-312317ca-86d6-49f1-a130-2707b8ae39bb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/vw-markenchef-haelt-an-plaenen-fuer-fabrikschliessungen-in-deutschland-fest](https://www.spiegel.de/wirtschaft/unternehmen/vw-markenchef-haelt-an-plaenen-fuer-fabrikschliessungen-in-deutschland-fest-a-bc67ead6-1235-413e-a020-bce04f51f92e#ref=rss)
-### novak
-
-* [https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-macht-andy-murray-zu-seinem-trainer](https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-macht-andy-murray-zu-seinem-trainer-a-95837be2-c85f-4122-b4e9-039cc96372d1#ref=rss)
-### djokovic
-
-* [https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-macht-andy-murray-zu-seinem-trainer](https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-macht-andy-murray-zu-seinem-trainer-a-95837be2-c85f-4122-b4e9-039cc96372d1#ref=rss)
-### andy
-
-* [https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-macht-andy-murray-zu-seinem-trainer](https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-macht-andy-murray-zu-seinem-trainer-a-95837be2-c85f-4122-b4e9-039cc96372d1#ref=rss)
-### murray
-
-* [https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-macht-andy-murray-zu-seinem-trainer](https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-macht-andy-murray-zu-seinem-trainer-a-95837be2-c85f-4122-b4e9-039cc96372d1#ref=rss)
-### trainer
-
-* [https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-macht-andy-murray-zu-seinem-trainer](https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-macht-andy-murray-zu-seinem-trainer-a-95837be2-c85f-4122-b4e9-039cc96372d1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/zweite-fussball-bundesliga-sv-elversberg-mischt-die-liga-auf-darmstadt-beeindruckt-unter-kohfeldt](https://www.spiegel.de/sport/fussball/zweite-fussball-bundesliga-sv-elversberg-mischt-die-liga-auf-darmstadt-beeindruckt-unter-kohfeldt-a-37c7ccb0-d3af-4d2c-89b0-cccfa571a38a#ref=rss)
-### gastgeber
-
-* [https://www.spiegel.de/gesundheit/gastgeber-sein-so-gelingt-der-perfekte-abend-auch-ohne-alles-richtigzumachen](https://www.spiegel.de/gesundheit/gastgeber-sein-so-gelingt-der-perfekte-abend-auch-ohne-alles-richtigzumachen-a-9337ddcd-c1a5-4a2e-aaac-e01983e223d6#ref=rss)
-### alles
-
-* [https://www.spiegel.de/gesundheit/gastgeber-sein-so-gelingt-der-perfekte-abend-auch-ohne-alles-richtigzumachen](https://www.spiegel.de/gesundheit/gastgeber-sein-so-gelingt-der-perfekte-abend-auch-ohne-alles-richtigzumachen-a-9337ddcd-c1a5-4a2e-aaac-e01983e223d6#ref=rss)
-### besuch
-
-* [https://www.spiegel.de/gesundheit/gastgeber-sein-so-gelingt-der-perfekte-abend-auch-ohne-alles-richtigzumachen](https://www.spiegel.de/gesundheit/gastgeber-sein-so-gelingt-der-perfekte-abend-auch-ohne-alles-richtigzumachen-a-9337ddcd-c1a5-4a2e-aaac-e01983e223d6#ref=rss)
-* [https://www.spiegel.de/stil/wein-versteigerung-in-badkreuznach-riesling-makes-me-happy](https://www.spiegel.de/stil/wein-versteigerung-in-badkreuznach-riesling-makes-me-happy-a-d62eafe4-d160-4968-b72c-42f0079a6376#ref=rss)
-### niefernburg
-
-* [https://www.spiegel.de/panorama/maedchenheim-niefernburg-sie-haben-sex-mit-erwachsenen-maennern-nehmen-drogen-und-laufen-immer-weg](https://www.spiegel.de/panorama/maedchenheim-niefernburg-sie-haben-sex-mit-erwachsenen-maennern-nehmen-drogen-und-laufen-immer-weg-a-86659819-5f9b-494a-bcbe-19428b4a1570#ref=rss)
-### gisèle
-
-* [https://www.spiegel.de/ausland/avignon-fall-gisele-pelicot-loest-debatte-ueber-die-schuld-von-maennern-aus-soziologin-empoert](https://www.spiegel.de/ausland/avignon-fall-gisele-pelicot-loest-debatte-ueber-die-schuld-von-maennern-aus-soziologin-empoert-a-9e436bb7-d384-4bd7-a0fb-be1b88be6436#ref=rss)
-### pelicot
-
-* [https://www.spiegel.de/ausland/avignon-fall-gisele-pelicot-loest-debatte-ueber-die-schuld-von-maennern-aus-soziologin-empoert](https://www.spiegel.de/ausland/avignon-fall-gisele-pelicot-loest-debatte-ueber-die-schuld-von-maennern-aus-soziologin-empoert-a-9e436bb7-d384-4bd7-a0fb-be1b88be6436#ref=rss)
-### debatte
-
-* [https://www.spiegel.de/ausland/avignon-fall-gisele-pelicot-loest-debatte-ueber-die-schuld-von-maennern-aus-soziologin-empoert](https://www.spiegel.de/ausland/avignon-fall-gisele-pelicot-loest-debatte-ueber-die-schuld-von-maennern-aus-soziologin-empoert-a-9e436bb7-d384-4bd7-a0fb-be1b88be6436#ref=rss)
-### schuld
-
-* [https://www.spiegel.de/ausland/avignon-fall-gisele-pelicot-loest-debatte-ueber-die-schuld-von-maennern-aus-soziologin-empoert](https://www.spiegel.de/ausland/avignon-fall-gisele-pelicot-loest-debatte-ueber-die-schuld-von-maennern-aus-soziologin-empoert-a-9e436bb7-d384-4bd7-a0fb-be1b88be6436#ref=rss)
-### soziologin
-
-* [https://www.spiegel.de/ausland/avignon-fall-gisele-pelicot-loest-debatte-ueber-die-schuld-von-maennern-aus-soziologin-empoert](https://www.spiegel.de/ausland/avignon-fall-gisele-pelicot-loest-debatte-ueber-die-schuld-von-maennern-aus-soziologin-empoert-a-9e436bb7-d384-4bd7-a0fb-be1b88be6436#ref=rss)
-### empört
-
-* [https://www.spiegel.de/ausland/avignon-fall-gisele-pelicot-loest-debatte-ueber-die-schuld-von-maennern-aus-soziologin-empoert](https://www.spiegel.de/ausland/avignon-fall-gisele-pelicot-loest-debatte-ueber-die-schuld-von-maennern-aus-soziologin-empoert-a-9e436bb7-d384-4bd7-a0fb-be1b88be6436#ref=rss)
-### rb
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-rb-leipzig-verliert-gegen-hoffenheim-und-den-anschluss-an-den-fc-bayern](https://www.spiegel.de/sport/fussball/bundesliga-rb-leipzig-verliert-gegen-hoffenheim-und-den-anschluss-an-den-fc-bayern-a-9871b0da-8a6c-4ed8-8f76-ad24778483a6#ref=rss)
-### leipzig
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-rb-leipzig-verliert-gegen-hoffenheim-und-den-anschluss-an-den-fc-bayern](https://www.spiegel.de/sport/fussball/bundesliga-rb-leipzig-verliert-gegen-hoffenheim-und-den-anschluss-an-den-fc-bayern-a-9871b0da-8a6c-4ed8-8f76-ad24778483a6#ref=rss)
-### hoffenheim
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-rb-leipzig-verliert-gegen-hoffenheim-und-den-anschluss-an-den-fc-bayern](https://www.spiegel.de/sport/fussball/bundesliga-rb-leipzig-verliert-gegen-hoffenheim-und-den-anschluss-an-den-fc-bayern-a-9871b0da-8a6c-4ed8-8f76-ad24778483a6#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-rb-leipzig-verliert-gegen-hoffenheim-und-den-anschluss-an-den-fc-bayern](https://www.spiegel.de/sport/fussball/bundesliga-rb-leipzig-verliert-gegen-hoffenheim-und-den-anschluss-an-den-fc-bayern-a-9871b0da-8a6c-4ed8-8f76-ad24778483a6#ref=rss)
-### widerstand
-
-* [https://www.spiegel.de/auto/verkehrsabgabe-widerstand-gegen-city-maut-in-new-york-waechst](https://www.spiegel.de/auto/verkehrsabgabe-widerstand-gegen-city-maut-in-new-york-waechst-a-686f039a-8dda-474a-80e8-b15001355bb7#ref=rss)
-### fußballbundesliga
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-polizei-und-union-fans-liefern-sich-schlaegerei-vor-stadion](https://www.spiegel.de/sport/fussball/fussball-bundesliga-polizei-und-union-fans-liefern-sich-schlaegerei-vor-stadion-a-e1024c3b-9e02-4922-8bca-eaa4c8c5766c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/zweite-fussball-bundesliga-sv-elversberg-mischt-die-liga-auf-darmstadt-beeindruckt-unter-kohfeldt](https://www.spiegel.de/sport/fussball/zweite-fussball-bundesliga-sv-elversberg-mischt-die-liga-auf-darmstadt-beeindruckt-unter-kohfeldt-a-37c7ccb0-d3af-4d2c-89b0-cccfa571a38a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-k-frage-bei-der-spd-klimakonferenz-cop29-in-baku-krise-im-sudan](https://www.spiegel.de/politik/deutschland/news-k-frage-bei-der-spd-klimakonferenz-cop29-in-baku-krise-im-sudan-a-eff8cb52-6cc9-4b00-bd6e-afd69a6ccd2f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-in-der-krise-zweifel-an-steffen-baumgart-nach-remis-gegen-schalke](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-in-der-krise-zweifel-an-steffen-baumgart-nach-remis-gegen-schalke-a-3d6650c4-b19c-4146-8edc-64a796baccb9#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-fluechtlingsrat-kritisiert-gleichgueltigkeit-gegenueber-der-groessten-krise](https://www.spiegel.de/ausland/sudan-fluechtlingsrat-kritisiert-gleichgueltigkeit-gegenueber-der-groessten-krise-a-814d21eb-d0e9-42a7-8036-cc86c369a5a1#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-polizei-und-union-fans-liefern-sich-schlaegerei-vor-stadion](https://www.spiegel.de/sport/fussball/fussball-bundesliga-polizei-und-union-fans-liefern-sich-schlaegerei-vor-stadion-a-e1024c3b-9e02-4922-8bca-eaa4c8c5766c#ref=rss)
-* [https://www.spiegel.de/panorama/mehr-als-550-000-euro-schaden-mann-stoesst-mit-kran-gegen-bruecke-in-baden-wuerttemberg](https://www.spiegel.de/panorama/mehr-als-550-000-euro-schaden-mann-stoesst-mit-kran-gegen-bruecke-in-baden-wuerttemberg-a-1e0c82ee-65ae-4efc-979d-f903a50476c7#ref=rss)
-### berlin
+* [https://www.spiegel.de/kultur/tv/sebastian-pufpaff-haelt-kabarett-fuer-in-sich-verlogen](https://www.spiegel.de/kultur/tv/sebastian-pufpaff-haelt-kabarett-fuer-in-sich-verlogen-a-c92300de-6a7c-4c0b-b2e2-c9e6389817d7#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-verteidigt-seinen-titel-und-kroent-sich-zum-vierten-mal-zum-weltmeister](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-verteidigt-seinen-titel-und-kroent-sich-zum-vierten-mal-zum-weltmeister-a-9cfbccf0-04fa-4c43-9cad-f42dd15888c7#ref=rss)
+* [https://www.spiegel.de/politik/demokratie-in-gefahr-weniger-machtspiele-mehr-wuerde](https://www.spiegel.de/politik/demokratie-in-gefahr-weniger-machtspiele-mehr-wuerde-a-6cbf09f3-c36d-4044-bdbe-327faf1adc6f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/nord-und-ostsee-marineflieger-entdecken-mehr-verschmutzung](https://www.spiegel.de/wissenschaft/nord-und-ostsee-marineflieger-entdecken-mehr-verschmutzung-a-245dd7ca-df50-4ab4-bbbd-2e8557a21cc1#ref=rss)
+### max
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-polizei-und-union-fans-liefern-sich-schlaegerei-vor-stadion](https://www.spiegel.de/sport/fussball/fussball-bundesliga-polizei-und-union-fans-liefern-sich-schlaegerei-vor-stadion-a-e1024c3b-9e02-4922-8bca-eaa4c8c5766c#ref=rss)
-* [https://www.spiegel.de/kultur/claudia-roth-kulturstaatsministerin-kritisiert-proteste-bei-nan-goldin-schau-in-berlin](https://www.spiegel.de/kultur/claudia-roth-kulturstaatsministerin-kritisiert-proteste-bei-nan-goldin-schau-in-berlin-a-50fba977-acce-426d-8662-aba927c07069#ref=rss)
-### stiftung
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-faehrt-kontrolliert-auf-platz-fuenf-und-ist-wieder-weltmeister](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-faehrt-kontrolliert-auf-platz-fuenf-und-ist-wieder-weltmeister-a-0ae2c7f4-ba22-4747-9e1b-2facc727364f#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-verteidigt-seinen-titel-und-kroent-sich-zum-vierten-mal-zum-weltmeister](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-verteidigt-seinen-titel-und-kroent-sich-zum-vierten-mal-zum-weltmeister-a-9cfbccf0-04fa-4c43-9cad-f42dd15888c7#ref=rss)
+* [https://www.spiegel.de/sport/boxen-tina-rupprecht-gewinnt-drei-wm-guertel](https://www.spiegel.de/sport/boxen-tina-rupprecht-gewinnt-drei-wm-guertel-a-63548a38-ad17-429b-b30c-1469f9d4c8f5#ref=rss)
+### verstappen
 
-* [https://www.spiegel.de/tests/haushalt/heizdecken-bei-der-stiftung-warentest-sichere-waerme-fuer-kalte-winterabende](https://www.spiegel.de/tests/haushalt/heizdecken-bei-der-stiftung-warentest-sichere-waerme-fuer-kalte-winterabende-a-32726816-462e-4abe-9fd0-7e87fbc22386#ref=rss)
-### warentest
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-faehrt-kontrolliert-auf-platz-fuenf-und-ist-wieder-weltmeister](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-faehrt-kontrolliert-auf-platz-fuenf-und-ist-wieder-weltmeister-a-0ae2c7f4-ba22-4747-9e1b-2facc727364f#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-verteidigt-seinen-titel-und-kroent-sich-zum-vierten-mal-zum-weltmeister](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-verteidigt-seinen-titel-und-kroent-sich-zum-vierten-mal-zum-weltmeister-a-9cfbccf0-04fa-4c43-9cad-f42dd15888c7#ref=rss)
+### russland
 
-* [https://www.spiegel.de/tests/haushalt/heizdecken-bei-der-stiftung-warentest-sichere-waerme-fuer-kalte-winterabende](https://www.spiegel.de/tests/haushalt/heizdecken-bei-der-stiftung-warentest-sichere-waerme-fuer-kalte-winterabende-a-32726816-462e-4abe-9fd0-7e87fbc22386#ref=rss)
-### laut
+* [https://www.spiegel.de/ausland/ukraine-krieg-osteuropa-historiker-karl-schloegel-russland-ist-der-feind](https://www.spiegel.de/ausland/ukraine-krieg-osteuropa-historiker-karl-schloegel-russland-ist-der-feind-a-699337dc-ce8d-4f68-83a7-52af16dd396b#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-kreml-gesetz-erlaesst-neuen-rekruten-ihre-schulden](https://www.spiegel.de/ausland/russland-ukraine-krieg-kreml-gesetz-erlaesst-neuen-rekruten-ihre-schulden-a-e85d4235-b3b4-472e-8e20-2763a52a7513#ref=rss)
+* [https://www.spiegel.de/ausland/selenskyj-berater-wertet-juengste-drohungen-putins-als-ausdruck-absoluter-angst](https://www.spiegel.de/ausland/selenskyj-berater-wertet-juengste-drohungen-putins-als-ausdruck-absoluter-angst-a-8b2bea6b-b0d5-45ca-91e0-099bd9c90284#ref=rss)
+### lage
 
-* [https://www.spiegel.de/tests/haushalt/heizdecken-bei-der-stiftung-warentest-sichere-waerme-fuer-kalte-winterabende](https://www.spiegel.de/tests/haushalt/heizdecken-bei-der-stiftung-warentest-sichere-waerme-fuer-kalte-winterabende-a-32726816-462e-4abe-9fd0-7e87fbc22386#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/vw-markenchef-haelt-an-plaenen-fuer-fabrikschliessungen-in-deutschland-fest](https://www.spiegel.de/wirtschaft/unternehmen/vw-markenchef-haelt-an-plaenen-fuer-fabrikschliessungen-in-deutschland-fest-a-bc67ead6-1235-413e-a020-bce04f51f92e#ref=rss)
-### mehrere
+* [https://www.spiegel.de/ausland/ukraine-krieg-osteuropa-historiker-karl-schloegel-russland-ist-der-feind](https://www.spiegel.de/ausland/ukraine-krieg-osteuropa-historiker-karl-schloegel-russland-ist-der-feind-a-699337dc-ce8d-4f68-83a7-52af16dd396b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-k-frage-bei-der-spd-klimakonferenz-cop29-in-baku-krise-im-sudan](https://www.spiegel.de/politik/deutschland/news-k-frage-bei-der-spd-klimakonferenz-cop29-in-baku-krise-im-sudan-a-eff8cb52-6cc9-4b00-bd6e-afd69a6ccd2f#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-kreml-gesetz-erlaesst-neuen-rekruten-ihre-schulden](https://www.spiegel.de/ausland/russland-ukraine-krieg-kreml-gesetz-erlaesst-neuen-rekruten-ihre-schulden-a-e85d4235-b3b4-472e-8e20-2763a52a7513#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-fluechtlingsrat-kritisiert-gleichgueltigkeit-gegenueber-der-groessten-krise](https://www.spiegel.de/ausland/sudan-fluechtlingsrat-kritisiert-gleichgueltigkeit-gegenueber-der-groessten-krise-a-814d21eb-d0e9-42a7-8036-cc86c369a5a1#ref=rss)
+### sudan
 
-* [https://www.spiegel.de/tests/haushalt/heizdecken-bei-der-stiftung-warentest-sichere-waerme-fuer-kalte-winterabende](https://www.spiegel.de/tests/haushalt/heizdecken-bei-der-stiftung-warentest-sichere-waerme-fuer-kalte-winterabende-a-32726816-462e-4abe-9fd0-7e87fbc22386#ref=rss)
-* [https://www.spiegel.de/wissenschaft/cop29-in-baku-aermste-staaten-verlassen-klimaverhandlungen-unter-protest](https://www.spiegel.de/wissenschaft/cop29-in-baku-aermste-staaten-verlassen-klimaverhandlungen-unter-protest-a-60aea375-8285-4b9d-96f8-d74fa98f78bd#ref=rss)
-### gut
+* [https://www.spiegel.de/politik/deutschland/news-k-frage-bei-der-spd-klimakonferenz-cop29-in-baku-krise-im-sudan](https://www.spiegel.de/politik/deutschland/news-k-frage-bei-der-spd-klimakonferenz-cop29-in-baku-krise-im-sudan-a-eff8cb52-6cc9-4b00-bd6e-afd69a6ccd2f#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-fluechtlingsrat-kritisiert-gleichgueltigkeit-gegenueber-der-groessten-krise](https://www.spiegel.de/ausland/sudan-fluechtlingsrat-kritisiert-gleichgueltigkeit-gegenueber-der-groessten-krise-a-814d21eb-d0e9-42a7-8036-cc86c369a5a1#ref=rss)
+### vier
 
-* [https://www.spiegel.de/tests/haushalt/heizdecken-bei-der-stiftung-warentest-sichere-waerme-fuer-kalte-winterabende](https://www.spiegel.de/tests/haushalt/heizdecken-bei-der-stiftung-warentest-sichere-waerme-fuer-kalte-winterabende-a-32726816-462e-4abe-9fd0-7e87fbc22386#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hubertus-heil-kanzlerdebatte-veraergert-partei-vize-spd-ist-keine-selbsthilfegruppe](https://www.spiegel.de/politik/deutschland/hubertus-heil-kanzlerdebatte-veraergert-partei-vize-spd-ist-keine-selbsthilfegruppe-a-2e6e7c44-cdd5-4db3-8730-cb677024186d#ref=rss)
-### jaguar
+* [https://www.spiegel.de/panorama/justiz/polizei-fahndet-nach-mutter-mit-vier-monate-altem-baby](https://www.spiegel.de/panorama/justiz/polizei-fahndet-nach-mutter-mit-vier-monate-altem-baby-a-76d4d86a-7cd8-40ab-88b6-12ca0ea0b62c#ref=rss)
+* [https://www.spiegel.de/karriere/raetsel-der-woche-seltsame-addition](https://www.spiegel.de/karriere/raetsel-der-woche-seltsame-addition-a-a8286043-315e-4c9f-ad0c-2cc2c825d1d4#ref=rss)
+### zeigt
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/jaguar-chef-verteidigt-umstrittene-werbekampagne-ohne-autos](https://www.spiegel.de/wirtschaft/unternehmen/jaguar-chef-verteidigt-umstrittene-werbekampagne-ohne-autos-a-ccc92f17-6a27-46a9-bba8-5ba139863bb6#ref=rss)
-### chef
+* [https://www.spiegel.de/ausland/ungarn-heimlich-aufgenommene-gespraeche-belasten-hoffnungstraeger-der-opposition-peter-magyar](https://www.spiegel.de/ausland/ungarn-heimlich-aufgenommene-gespraeche-belasten-hoffnungstraeger-der-opposition-peter-magyar-a-426b40b7-aa02-4207-80cc-af362ac0d4d5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/sinkende-zinsen-tages-und-festgeldangebote-im-vergleich](https://www.spiegel.de/wirtschaft/service/sinkende-zinsen-tages-und-festgeldangebote-im-vergleich-a-a66def72-460c-4c91-9b12-feb334a80845#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-kreml-gesetz-erlaesst-neuen-rekruten-ihre-schulden](https://www.spiegel.de/ausland/russland-ukraine-krieg-kreml-gesetz-erlaesst-neuen-rekruten-ihre-schulden-a-e85d4235-b3b4-472e-8e20-2763a52a7513#ref=rss)
+### spd
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/jaguar-chef-verteidigt-umstrittene-werbekampagne-ohne-autos](https://www.spiegel.de/wirtschaft/unternehmen/jaguar-chef-verteidigt-umstrittene-werbekampagne-ohne-autos-a-ccc92f17-6a27-46a9-bba8-5ba139863bb6#ref=rss)
-### verteidigt
+* [https://www.spiegel.de/politik/deutschland/sachsen-gruene-kritisieren-cdu-und-spd-scharf-wegen-geplanter-minderheitsregierung](https://www.spiegel.de/politik/deutschland/sachsen-gruene-kritisieren-cdu-und-spd-scharf-wegen-geplanter-minderheitsregierung-a-f8e8f281-6869-4d54-b747-0c39db3fc86c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-k-frage-bei-der-spd-klimakonferenz-cop29-in-baku-krise-im-sudan](https://www.spiegel.de/politik/deutschland/news-k-frage-bei-der-spd-klimakonferenz-cop29-in-baku-krise-im-sudan-a-eff8cb52-6cc9-4b00-bd6e-afd69a6ccd2f#ref=rss)
+### cartoons
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/jaguar-chef-verteidigt-umstrittene-werbekampagne-ohne-autos](https://www.spiegel.de/wirtschaft/unternehmen/jaguar-chef-verteidigt-umstrittene-werbekampagne-ohne-autos-a-ccc92f17-6a27-46a9-bba8-5ba139863bb6#ref=rss)
-### werbekampagne
+* [https://www.spiegel.de/kultur/literatur/cartoons-die-besten-cartoons-der-woche-kw47-2024](https://www.spiegel.de/kultur/literatur/cartoons-die-besten-cartoons-der-woche-kw47-2024-a-aff2f208-b324-4f7d-a5a2-6ba86ccf9eba#ref=rss)
+### woche
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/jaguar-chef-verteidigt-umstrittene-werbekampagne-ohne-autos](https://www.spiegel.de/wirtschaft/unternehmen/jaguar-chef-verteidigt-umstrittene-werbekampagne-ohne-autos-a-ccc92f17-6a27-46a9-bba8-5ba139863bb6#ref=rss)
-### autos
+* [https://www.spiegel.de/kultur/literatur/cartoons-die-besten-cartoons-der-woche-kw47-2024](https://www.spiegel.de/kultur/literatur/cartoons-die-besten-cartoons-der-woche-kw47-2024-a-aff2f208-b324-4f7d-a5a2-6ba86ccf9eba#ref=rss)
+* [https://www.spiegel.de/karriere/raetsel-der-woche-seltsame-addition](https://www.spiegel.de/karriere/raetsel-der-woche-seltsame-addition-a-a8286043-315e-4c9f-ad0c-2cc2c825d1d4#ref=rss)
+### baku
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/jaguar-chef-verteidigt-umstrittene-werbekampagne-ohne-autos](https://www.spiegel.de/wirtschaft/unternehmen/jaguar-chef-verteidigt-umstrittene-werbekampagne-ohne-autos-a-ccc92f17-6a27-46a9-bba8-5ba139863bb6#ref=rss)
-### bin
+* [https://www.spiegel.de/wissenschaft/kommentar-zur-cop29-in-baku-warum-uno-klimagipfel-weiterhin-unverzichtbar-sind](https://www.spiegel.de/wissenschaft/kommentar-zur-cop29-in-baku-warum-uno-klimagipfel-weiterhin-unverzichtbar-sind-a-c5be585b-a4a3-4e65-9488-ea806e29659b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-k-frage-bei-der-spd-klimakonferenz-cop29-in-baku-krise-im-sudan](https://www.spiegel.de/politik/deutschland/news-k-frage-bei-der-spd-klimakonferenz-cop29-in-baku-krise-im-sudan-a-eff8cb52-6cc9-4b00-bd6e-afd69a6ccd2f#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/stil/frauen-in-maenner-boxershorts-bin-ich-zu-spiessig-fuer-diesen-trend](https://www.spiegel.de/stil/frauen-in-maenner-boxershorts-bin-ich-zu-spiessig-fuer-diesen-trend-a-b90d062c-5506-4fa3-9aa2-91a272a663b8#ref=rss)
-### ich
+* [https://www.spiegel.de/wissenschaft/kommentar-zur-cop29-in-baku-warum-uno-klimagipfel-weiterhin-unverzichtbar-sind](https://www.spiegel.de/wissenschaft/kommentar-zur-cop29-in-baku-warum-uno-klimagipfel-weiterhin-unverzichtbar-sind-a-c5be585b-a4a3-4e65-9488-ea806e29659b#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-kreml-gesetz-erlaesst-neuen-rekruten-ihre-schulden](https://www.spiegel.de/ausland/russland-ukraine-krieg-kreml-gesetz-erlaesst-neuen-rekruten-ihre-schulden-a-e85d4235-b3b4-472e-8e20-2763a52a7513#ref=rss)
+* [https://www.spiegel.de/psychologie/bekenntnisse-vor-dem-tod-man-will-dass-das-geheimnis-einen-klang-bekommt](https://www.spiegel.de/psychologie/bekenntnisse-vor-dem-tod-man-will-dass-das-geheimnis-einen-klang-bekommt-a-6676d0f9-b9b1-47a5-949e-6cfd0b2ed463#ref=rss)
+### neue
 
-* [https://www.spiegel.de/stil/frauen-in-maenner-boxershorts-bin-ich-zu-spiessig-fuer-diesen-trend](https://www.spiegel.de/stil/frauen-in-maenner-boxershorts-bin-ich-zu-spiessig-fuer-diesen-trend-a-b90d062c-5506-4fa3-9aa2-91a272a663b8#ref=rss)
-### spießig
+* [https://www.spiegel.de/ausland/donald-trump-warum-der-neue-us-praesident-nie-ein-isolationist-war](https://www.spiegel.de/ausland/donald-trump-warum-der-neue-us-praesident-nie-ein-isolationist-war-a-6aa037b5-89cb-4130-a922-24980691057e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/sinkende-zinsen-tages-und-festgeldangebote-im-vergleich](https://www.spiegel.de/wirtschaft/service/sinkende-zinsen-tages-und-festgeldangebote-im-vergleich-a-a66def72-460c-4c91-9b12-feb334a80845#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-kreml-gesetz-erlaesst-neuen-rekruten-ihre-schulden](https://www.spiegel.de/ausland/russland-ukraine-krieg-kreml-gesetz-erlaesst-neuen-rekruten-ihre-schulden-a-e85d4235-b3b4-472e-8e20-2763a52a7513#ref=rss)
+### welt
 
-* [https://www.spiegel.de/stil/frauen-in-maenner-boxershorts-bin-ich-zu-spiessig-fuer-diesen-trend](https://www.spiegel.de/stil/frauen-in-maenner-boxershorts-bin-ich-zu-spiessig-fuer-diesen-trend-a-b90d062c-5506-4fa3-9aa2-91a272a663b8#ref=rss)
-### trend
+* [https://www.spiegel.de/ausland/donald-trump-warum-der-neue-us-praesident-nie-ein-isolationist-war](https://www.spiegel.de/ausland/donald-trump-warum-der-neue-us-praesident-nie-ein-isolationist-war-a-6aa037b5-89cb-4130-a922-24980691057e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/verhaltensbiologie-die-schwarmintelligenz-des-lebens-und-ihre-bedeutung-fuer-die-weltrettung](https://www.spiegel.de/politik/deutschland/verhaltensbiologie-die-schwarmintelligenz-des-lebens-und-ihre-bedeutung-fuer-die-weltrettung-a-85fe07cc-4630-49a3-beee-49ad24e158b3#ref=rss)
+* [https://www.spiegel.de/gesundheit/hebamme-ueber-geburtspositionen-ist-das-noch-geburt-oder-schon-zirkeltraining](https://www.spiegel.de/gesundheit/hebamme-ueber-geburtspositionen-ist-das-noch-geburt-oder-schon-zirkeltraining-a-f22a2db5-188d-44f3-9845-c06d56094c2c#ref=rss)
+### anderen
 
-* [https://www.spiegel.de/stil/frauen-in-maenner-boxershorts-bin-ich-zu-spiessig-fuer-diesen-trend](https://www.spiegel.de/stil/frauen-in-maenner-boxershorts-bin-ich-zu-spiessig-fuer-diesen-trend-a-b90d062c-5506-4fa3-9aa2-91a272a663b8#ref=rss)
-### chanjo
+* [https://www.spiegel.de/wissenschaft/natur/moorfrosch-ist-der-lurch-des-jahres](https://www.spiegel.de/wissenschaft/natur/moorfrosch-ist-der-lurch-des-jahres-a-7853d279-62f1-4a8d-a013-82f236a0674f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-k-frage-bei-der-spd-klimakonferenz-cop29-in-baku-krise-im-sudan](https://www.spiegel.de/politik/deutschland/news-k-frage-bei-der-spd-klimakonferenz-cop29-in-baku-krise-im-sudan-a-eff8cb52-6cc9-4b00-bd6e-afd69a6ccd2f#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-fluechtlingsrat-kritisiert-gleichgueltigkeit-gegenueber-der-groessten-krise](https://www.spiegel.de/ausland/sudan-fluechtlingsrat-kritisiert-gleichgueltigkeit-gegenueber-der-groessten-krise-a-814d21eb-d0e9-42a7-8036-cc86c369a5a1#ref=rss)
+### größten
 
-* [https://www.spiegel.de/panorama/justiz/vorschlag-zu-beleidigungen-im-internet-bussgeld-statt-strafverfolgung](https://www.spiegel.de/panorama/justiz/vorschlag-zu-beleidigungen-im-internet-bussgeld-statt-strafverfolgung-a-34522e01-3b56-4a02-89a5-88655b5e367d#ref=rss)
-### jun
+* [https://www.spiegel.de/wirtschaft/wohnungsmarkt-mieten-in-den-14-groessten-staedten-deutschlands-steigen-stark-an](https://www.spiegel.de/wirtschaft/wohnungsmarkt-mieten-in-den-14-groessten-staedten-deutschlands-steigen-stark-an-a-91a8c666-5ab1-4134-a9c9-e67aa45a4986#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-fluechtlingsrat-kritisiert-gleichgueltigkeit-gegenueber-der-groessten-krise](https://www.spiegel.de/ausland/sudan-fluechtlingsrat-kritisiert-gleichgueltigkeit-gegenueber-der-groessten-krise-a-814d21eb-d0e9-42a7-8036-cc86c369a5a1#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/panorama/justiz/vorschlag-zu-beleidigungen-im-internet-bussgeld-statt-strafverfolgung](https://www.spiegel.de/panorama/justiz/vorschlag-zu-beleidigungen-im-internet-bussgeld-statt-strafverfolgung-a-34522e01-3b56-4a02-89a5-88655b5e367d#ref=rss)
-### kendrick
+* [https://www.spiegel.de/panorama/justiz/polizei-fahndet-nach-mutter-mit-vier-monate-altem-baby](https://www.spiegel.de/panorama/justiz/polizei-fahndet-nach-mutter-mit-vier-monate-altem-baby-a-76d4d86a-7cd8-40ab-88b6-12ca0ea0b62c#ref=rss)
+### mutter
 
-* [https://www.spiegel.de/kultur/musik/kendrick-lamar-veroeffentlicht-gnx-ein-rap-album-wie-ein-muscle-car](https://www.spiegel.de/kultur/musik/kendrick-lamar-veroeffentlicht-gnx-ein-rap-album-wie-ein-muscle-car-a-47043956-f07f-41f7-a506-e0f1b7ff610e#ref=rss)
-### lamar
+* [https://www.spiegel.de/panorama/justiz/polizei-fahndet-nach-mutter-mit-vier-monate-altem-baby](https://www.spiegel.de/panorama/justiz/polizei-fahndet-nach-mutter-mit-vier-monate-altem-baby-a-76d4d86a-7cd8-40ab-88b6-12ca0ea0b62c#ref=rss)
+### monate
 
-* [https://www.spiegel.de/kultur/musik/kendrick-lamar-veroeffentlicht-gnx-ein-rap-album-wie-ein-muscle-car](https://www.spiegel.de/kultur/musik/kendrick-lamar-veroeffentlicht-gnx-ein-rap-album-wie-ein-muscle-car-a-47043956-f07f-41f7-a506-e0f1b7ff610e#ref=rss)
-### veröffentlicht
+* [https://www.spiegel.de/panorama/justiz/polizei-fahndet-nach-mutter-mit-vier-monate-altem-baby](https://www.spiegel.de/panorama/justiz/polizei-fahndet-nach-mutter-mit-vier-monate-altem-baby-a-76d4d86a-7cd8-40ab-88b6-12ca0ea0b62c#ref=rss)
+### netanyahu
 
-* [https://www.spiegel.de/kultur/musik/kendrick-lamar-veroeffentlicht-gnx-ein-rap-album-wie-ein-muscle-car](https://www.spiegel.de/kultur/musik/kendrick-lamar-veroeffentlicht-gnx-ein-rap-album-wie-ein-muscle-car-a-47043956-f07f-41f7-a506-e0f1b7ff610e#ref=rss)
-### gnx
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-benjamin-netanyahu-soll-warnungen-vor-hamas-lange-ignoriert-haben](https://www.spiegel.de/ausland/israel-gaza-krieg-benjamin-netanyahu-soll-warnungen-vor-hamas-lange-ignoriert-haben-a-ba9ac83d-c7ed-40d4-a0b2-997b0bdc6aa2#ref=rss)
+### hamas
 
-* [https://www.spiegel.de/kultur/musik/kendrick-lamar-veroeffentlicht-gnx-ein-rap-album-wie-ein-muscle-car](https://www.spiegel.de/kultur/musik/kendrick-lamar-veroeffentlicht-gnx-ein-rap-album-wie-ein-muscle-car-a-47043956-f07f-41f7-a506-e0f1b7ff610e#ref=rss)
-### haftbefehl
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-benjamin-netanyahu-soll-warnungen-vor-hamas-lange-ignoriert-haben](https://www.spiegel.de/ausland/israel-gaza-krieg-benjamin-netanyahu-soll-warnungen-vor-hamas-lange-ignoriert-haben-a-ba9ac83d-c7ed-40d4-a0b2-997b0bdc6aa2#ref=rss)
+### israel
 
-* [https://www.spiegel.de/ausland/benjamin-netanyahu-us-verteidigungsminister-betont-nach-haftbefehl-solidaritaet-mit-israel](https://www.spiegel.de/ausland/benjamin-netanyahu-us-verteidigungsminister-betont-nach-haftbefehl-solidaritaet-mit-israel-a-7ad8b954-bb16-48a4-a986-2fed340f932d#ref=rss)
-### usa
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-benjamin-netanyahu-soll-warnungen-vor-hamas-lange-ignoriert-haben](https://www.spiegel.de/ausland/israel-gaza-krieg-benjamin-netanyahu-soll-warnungen-vor-hamas-lange-ignoriert-haben-a-ba9ac83d-c7ed-40d4-a0b2-997b0bdc6aa2#ref=rss)
+* [https://www.spiegel.de/ausland/israel-vereinigte-arabische-emirate-rabbiner-offenbar-ermordet-aufgefunden](https://www.spiegel.de/ausland/israel-vereinigte-arabische-emirate-rabbiner-offenbar-ermordet-aufgefunden-a-a43c9928-c240-42e3-a004-5f56f745b43d#ref=rss)
+### zumindest
 
-* [https://www.spiegel.de/ausland/benjamin-netanyahu-us-verteidigungsminister-betont-nach-haftbefehl-solidaritaet-mit-israel](https://www.spiegel.de/ausland/benjamin-netanyahu-us-verteidigungsminister-betont-nach-haftbefehl-solidaritaet-mit-israel-a-7ad8b954-bb16-48a4-a986-2fed340f932d#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-feiert-in-gurgl-ihren-99-weltcupsieg](https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-feiert-in-gurgl-ihren-99-weltcupsieg-a-0126a5ed-74a0-4e49-8da3-4d4165995e2d#ref=rss)
-### saskia
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-benjamin-netanyahu-soll-warnungen-vor-hamas-lange-ignoriert-haben](https://www.spiegel.de/ausland/israel-gaza-krieg-benjamin-netanyahu-soll-warnungen-vor-hamas-lange-ignoriert-haben-a-ba9ac83d-c7ed-40d4-a0b2-997b0bdc6aa2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/thyssenkrupp-steel-gutachten-sieht-positive-fortfuehrungsprognose](https://www.spiegel.de/wirtschaft/thyssenkrupp-steel-gutachten-sieht-positive-fortfuehrungsprognose-a-6c949547-6c39-4b0d-bac0-ccc96198603c#ref=rss)
+### heimlich
 
-* [https://www.spiegel.de/politik/deutschland/spd-saskia-esken-bekommt-den-frust-der-jusos-zu-spueren](https://www.spiegel.de/politik/deutschland/spd-saskia-esken-bekommt-den-frust-der-jusos-zu-spueren-a-f98aeeb7-6298-48cc-8bf1-67172d21d58f#ref=rss)
-### esken
+* [https://www.spiegel.de/ausland/ungarn-heimlich-aufgenommene-gespraeche-belasten-hoffnungstraeger-der-opposition-peter-magyar](https://www.spiegel.de/ausland/ungarn-heimlich-aufgenommene-gespraeche-belasten-hoffnungstraeger-der-opposition-peter-magyar-a-426b40b7-aa02-4207-80cc-af362ac0d4d5#ref=rss)
+### aufgenommene
 
-* [https://www.spiegel.de/politik/deutschland/spd-saskia-esken-bekommt-den-frust-der-jusos-zu-spueren](https://www.spiegel.de/politik/deutschland/spd-saskia-esken-bekommt-den-frust-der-jusos-zu-spueren-a-f98aeeb7-6298-48cc-8bf1-67172d21d58f#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-heimlich-aufgenommene-gespraeche-belasten-hoffnungstraeger-der-opposition-peter-magyar](https://www.spiegel.de/ausland/ungarn-heimlich-aufgenommene-gespraeche-belasten-hoffnungstraeger-der-opposition-peter-magyar-a-426b40b7-aa02-4207-80cc-af362ac0d4d5#ref=rss)
+### gespräche
+
+* [https://www.spiegel.de/ausland/ungarn-heimlich-aufgenommene-gespraeche-belasten-hoffnungstraeger-der-opposition-peter-magyar](https://www.spiegel.de/ausland/ungarn-heimlich-aufgenommene-gespraeche-belasten-hoffnungstraeger-der-opposition-peter-magyar-a-426b40b7-aa02-4207-80cc-af362ac0d4d5#ref=rss)
+### belasten
+
+* [https://www.spiegel.de/ausland/ungarn-heimlich-aufgenommene-gespraeche-belasten-hoffnungstraeger-der-opposition-peter-magyar](https://www.spiegel.de/ausland/ungarn-heimlich-aufgenommene-gespraeche-belasten-hoffnungstraeger-der-opposition-peter-magyar-a-426b40b7-aa02-4207-80cc-af362ac0d4d5#ref=rss)
+### hoffnungsträger
+
+* [https://www.spiegel.de/ausland/ungarn-heimlich-aufgenommene-gespraeche-belasten-hoffnungstraeger-der-opposition-peter-magyar](https://www.spiegel.de/ausland/ungarn-heimlich-aufgenommene-gespraeche-belasten-hoffnungstraeger-der-opposition-peter-magyar-a-426b40b7-aa02-4207-80cc-af362ac0d4d5#ref=rss)
+### opposition
+
+* [https://www.spiegel.de/ausland/ungarn-heimlich-aufgenommene-gespraeche-belasten-hoffnungstraeger-der-opposition-peter-magyar](https://www.spiegel.de/ausland/ungarn-heimlich-aufgenommene-gespraeche-belasten-hoffnungstraeger-der-opposition-peter-magyar-a-426b40b7-aa02-4207-80cc-af362ac0d4d5#ref=rss)
+### péter
+
+* [https://www.spiegel.de/ausland/ungarn-heimlich-aufgenommene-gespraeche-belasten-hoffnungstraeger-der-opposition-peter-magyar](https://www.spiegel.de/ausland/ungarn-heimlich-aufgenommene-gespraeche-belasten-hoffnungstraeger-der-opposition-peter-magyar-a-426b40b7-aa02-4207-80cc-af362ac0d4d5#ref=rss)
+### magyar
+
+* [https://www.spiegel.de/ausland/ungarn-heimlich-aufgenommene-gespraeche-belasten-hoffnungstraeger-der-opposition-peter-magyar](https://www.spiegel.de/ausland/ungarn-heimlich-aufgenommene-gespraeche-belasten-hoffnungstraeger-der-opposition-peter-magyar-a-426b40b7-aa02-4207-80cc-af362ac0d4d5#ref=rss)
+### sachsen
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-gruene-kritisieren-cdu-und-spd-scharf-wegen-geplanter-minderheitsregierung](https://www.spiegel.de/politik/deutschland/sachsen-gruene-kritisieren-cdu-und-spd-scharf-wegen-geplanter-minderheitsregierung-a-f8e8f281-6869-4d54-b747-0c39db3fc86c#ref=rss)
+### cdu
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-gruene-kritisieren-cdu-und-spd-scharf-wegen-geplanter-minderheitsregierung](https://www.spiegel.de/politik/deutschland/sachsen-gruene-kritisieren-cdu-und-spd-scharf-wegen-geplanter-minderheitsregierung-a-f8e8f281-6869-4d54-b747-0c39db3fc86c#ref=rss)
+### minderheitsregierung
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-gruene-kritisieren-cdu-und-spd-scharf-wegen-geplanter-minderheitsregierung](https://www.spiegel.de/politik/deutschland/sachsen-gruene-kritisieren-cdu-und-spd-scharf-wegen-geplanter-minderheitsregierung-a-f8e8f281-6869-4d54-b747-0c39db3fc86c#ref=rss)
+### besten
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-die-besten-cartoons-der-woche-kw47-2024](https://www.spiegel.de/kultur/literatur/cartoons-die-besten-cartoons-der-woche-kw47-2024-a-aff2f208-b324-4f7d-a5a2-6ba86ccf9eba#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/sinkende-zinsen-tages-und-festgeldangebote-im-vergleich](https://www.spiegel.de/wirtschaft/service/sinkende-zinsen-tages-und-festgeldangebote-im-vergleich-a-a66def72-460c-4c91-9b12-feb334a80845#ref=rss)
+### sehen
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-die-besten-cartoons-der-woche-kw47-2024](https://www.spiegel.de/kultur/literatur/cartoons-die-besten-cartoons-der-woche-kw47-2024-a-aff2f208-b324-4f7d-a5a2-6ba86ccf9eba#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-kreml-gesetz-erlaesst-neuen-rekruten-ihre-schulden](https://www.spiegel.de/ausland/russland-ukraine-krieg-kreml-gesetz-erlaesst-neuen-rekruten-ihre-schulden-a-e85d4235-b3b4-472e-8e20-2763a52a7513#ref=rss)
+### tavascan
+
+* [https://www.spiegel.de/auto/fahrberichte/cupa-tavascan-im-test-elektro-suv-mit-sportwagen-deko](https://www.spiegel.de/auto/fahrberichte/cupa-tavascan-im-test-elektro-suv-mit-sportwagen-deko-a-13811eba-f26d-4a0b-ac47-f34764fc79fa#ref=rss)
+### elektrosuv
+
+* [https://www.spiegel.de/auto/fahrberichte/cupa-tavascan-im-test-elektro-suv-mit-sportwagen-deko](https://www.spiegel.de/auto/fahrberichte/cupa-tavascan-im-test-elektro-suv-mit-sportwagen-deko-a-13811eba-f26d-4a0b-ac47-f34764fc79fa#ref=rss)
+### technik
+
+* [https://www.spiegel.de/auto/fahrberichte/cupa-tavascan-im-test-elektro-suv-mit-sportwagen-deko](https://www.spiegel.de/auto/fahrberichte/cupa-tavascan-im-test-elektro-suv-mit-sportwagen-deko-a-13811eba-f26d-4a0b-ac47-f34764fc79fa#ref=rss)
+* [https://www.spiegel.de/wissenschaft/nord-und-ostsee-marineflieger-entdecken-mehr-verschmutzung](https://www.spiegel.de/wissenschaft/nord-und-ostsee-marineflieger-entdecken-mehr-verschmutzung-a-245dd7ca-df50-4ab4-bbbd-2e8557a21cc1#ref=rss)
 ### cop29
 
-* [https://www.spiegel.de/wissenschaft/klimagipfel-cop29-wie-saudi-arabien-den-baku-deal-blockiert](https://www.spiegel.de/wissenschaft/klimagipfel-cop29-wie-saudi-arabien-den-baku-deal-blockiert-a-a8004e72-ba63-400c-8091-e6384d28e858#ref=rss)
-* [https://www.spiegel.de/wissenschaft/cop29-in-baku-aermste-staaten-verlassen-klimaverhandlungen-unter-protest](https://www.spiegel.de/wissenschaft/cop29-in-baku-aermste-staaten-verlassen-klimaverhandlungen-unter-protest-a-60aea375-8285-4b9d-96f8-d74fa98f78bd#ref=rss)
-### saudiarabien
+* [https://www.spiegel.de/wissenschaft/kommentar-zur-cop29-in-baku-warum-uno-klimagipfel-weiterhin-unverzichtbar-sind](https://www.spiegel.de/wissenschaft/kommentar-zur-cop29-in-baku-warum-uno-klimagipfel-weiterhin-unverzichtbar-sind-a-c5be585b-a4a3-4e65-9488-ea806e29659b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-k-frage-bei-der-spd-klimakonferenz-cop29-in-baku-krise-im-sudan](https://www.spiegel.de/politik/deutschland/news-k-frage-bei-der-spd-klimakonferenz-cop29-in-baku-krise-im-sudan-a-eff8cb52-6cc9-4b00-bd6e-afd69a6ccd2f#ref=rss)
+### halten
 
-* [https://www.spiegel.de/wissenschaft/klimagipfel-cop29-wie-saudi-arabien-den-baku-deal-blockiert](https://www.spiegel.de/wissenschaft/klimagipfel-cop29-wie-saudi-arabien-den-baku-deal-blockiert-a-a8004e72-ba63-400c-8091-e6384d28e858#ref=rss)
-### liegt
+* [https://www.spiegel.de/wissenschaft/kommentar-zur-cop29-in-baku-warum-uno-klimagipfel-weiterhin-unverzichtbar-sind](https://www.spiegel.de/wissenschaft/kommentar-zur-cop29-in-baku-warum-uno-klimagipfel-weiterhin-unverzichtbar-sind-a-c5be585b-a4a3-4e65-9488-ea806e29659b#ref=rss)
+* [https://www.spiegel.de/politik/demokratie-in-gefahr-weniger-machtspiele-mehr-wuerde](https://www.spiegel.de/politik/demokratie-in-gefahr-weniger-machtspiele-mehr-wuerde-a-6cbf09f3-c36d-4044-bdbe-327faf1adc6f#ref=rss)
+### allem
 
-* [https://www.spiegel.de/wissenschaft/klimagipfel-cop29-wie-saudi-arabien-den-baku-deal-blockiert](https://www.spiegel.de/wissenschaft/klimagipfel-cop29-wie-saudi-arabien-den-baku-deal-blockiert-a-a8004e72-ba63-400c-8091-e6384d28e858#ref=rss)
-* [https://www.spiegel.de/panorama/schnee-in-deutschland-gepuderte-welt](https://www.spiegel.de/panorama/schnee-in-deutschland-gepuderte-welt-a-4f33528c-2db2-4976-831b-7b745027fae7#ref=rss)
-### protest
+* [https://www.spiegel.de/wissenschaft/kommentar-zur-cop29-in-baku-warum-uno-klimagipfel-weiterhin-unverzichtbar-sind](https://www.spiegel.de/wissenschaft/kommentar-zur-cop29-in-baku-warum-uno-klimagipfel-weiterhin-unverzichtbar-sind-a-c5be585b-a4a3-4e65-9488-ea806e29659b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/nord-und-ostsee-marineflieger-entdecken-mehr-verschmutzung](https://www.spiegel.de/wissenschaft/nord-und-ostsee-marineflieger-entdecken-mehr-verschmutzung-a-245dd7ca-df50-4ab4-bbbd-2e8557a21cc1#ref=rss)
+### sebastian
 
-* [https://www.spiegel.de/wissenschaft/cop29-in-baku-aermste-staaten-verlassen-klimaverhandlungen-unter-protest](https://www.spiegel.de/wissenschaft/cop29-in-baku-aermste-staaten-verlassen-klimaverhandlungen-unter-protest-a-60aea375-8285-4b9d-96f8-d74fa98f78bd#ref=rss)
-### brücke
+* [https://www.spiegel.de/kultur/tv/sebastian-pufpaff-haelt-kabarett-fuer-in-sich-verlogen](https://www.spiegel.de/kultur/tv/sebastian-pufpaff-haelt-kabarett-fuer-in-sich-verlogen-a-c92300de-6a7c-4c0b-b2e2-c9e6389817d7#ref=rss)
+### pufpaff
 
-* [https://www.spiegel.de/panorama/mehr-als-550-000-euro-schaden-mann-stoesst-mit-kran-gegen-bruecke-in-baden-wuerttemberg](https://www.spiegel.de/panorama/mehr-als-550-000-euro-schaden-mann-stoesst-mit-kran-gegen-bruecke-in-baden-wuerttemberg-a-1e0c82ee-65ae-4efc-979d-f903a50476c7#ref=rss)
-### badenwürttemberg
+* [https://www.spiegel.de/kultur/tv/sebastian-pufpaff-haelt-kabarett-fuer-in-sich-verlogen](https://www.spiegel.de/kultur/tv/sebastian-pufpaff-haelt-kabarett-fuer-in-sich-verlogen-a-c92300de-6a7c-4c0b-b2e2-c9e6389817d7#ref=rss)
+### deutschlands
 
-* [https://www.spiegel.de/panorama/mehr-als-550-000-euro-schaden-mann-stoesst-mit-kran-gegen-bruecke-in-baden-wuerttemberg](https://www.spiegel.de/panorama/mehr-als-550-000-euro-schaden-mann-stoesst-mit-kran-gegen-bruecke-in-baden-wuerttemberg-a-1e0c82ee-65ae-4efc-979d-f903a50476c7#ref=rss)
-### elversberg
+* [https://www.spiegel.de/kultur/tv/sebastian-pufpaff-haelt-kabarett-fuer-in-sich-verlogen](https://www.spiegel.de/kultur/tv/sebastian-pufpaff-haelt-kabarett-fuer-in-sich-verlogen-a-c92300de-6a7c-4c0b-b2e2-c9e6389817d7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wohnungsmarkt-mieten-in-den-14-groessten-staedten-deutschlands-steigen-stark-an](https://www.spiegel.de/wirtschaft/wohnungsmarkt-mieten-in-den-14-groessten-staedten-deutschlands-steigen-stark-an-a-91a8c666-5ab1-4134-a9c9-e67aa45a4986#ref=rss)
+### donald
 
-* [https://www.spiegel.de/sport/fussball/zweite-fussball-bundesliga-sv-elversberg-mischt-die-liga-auf-darmstadt-beeindruckt-unter-kohfeldt](https://www.spiegel.de/sport/fussball/zweite-fussball-bundesliga-sv-elversberg-mischt-die-liga-auf-darmstadt-beeindruckt-unter-kohfeldt-a-37c7ccb0-d3af-4d2c-89b0-cccfa571a38a#ref=rss)
-### mischt
+* [https://www.spiegel.de/ausland/donald-trump-warum-der-neue-us-praesident-nie-ein-isolationist-war](https://www.spiegel.de/ausland/donald-trump-warum-der-neue-us-praesident-nie-ein-isolationist-war-a-6aa037b5-89cb-4130-a922-24980691057e#ref=rss)
+### historiker
 
-* [https://www.spiegel.de/sport/fussball/zweite-fussball-bundesliga-sv-elversberg-mischt-die-liga-auf-darmstadt-beeindruckt-unter-kohfeldt](https://www.spiegel.de/sport/fussball/zweite-fussball-bundesliga-sv-elversberg-mischt-die-liga-auf-darmstadt-beeindruckt-unter-kohfeldt-a-37c7ccb0-d3af-4d2c-89b0-cccfa571a38a#ref=rss)
-### liga
+* [https://www.spiegel.de/ausland/donald-trump-warum-der-neue-us-praesident-nie-ein-isolationist-war](https://www.spiegel.de/ausland/donald-trump-warum-der-neue-us-praesident-nie-ein-isolationist-war-a-6aa037b5-89cb-4130-a922-24980691057e#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-osteuropa-historiker-karl-schloegel-russland-ist-der-feind](https://www.spiegel.de/ausland/ukraine-krieg-osteuropa-historiker-karl-schloegel-russland-ist-der-feind-a-699337dc-ce8d-4f68-83a7-52af16dd396b#ref=rss)
+### schwarmintelligenz
 
-* [https://www.spiegel.de/sport/fussball/zweite-fussball-bundesliga-sv-elversberg-mischt-die-liga-auf-darmstadt-beeindruckt-unter-kohfeldt](https://www.spiegel.de/sport/fussball/zweite-fussball-bundesliga-sv-elversberg-mischt-die-liga-auf-darmstadt-beeindruckt-unter-kohfeldt-a-37c7ccb0-d3af-4d2c-89b0-cccfa571a38a#ref=rss)
-### kohfeldt
+* [https://www.spiegel.de/politik/deutschland/verhaltensbiologie-die-schwarmintelligenz-des-lebens-und-ihre-bedeutung-fuer-die-weltrettung](https://www.spiegel.de/politik/deutschland/verhaltensbiologie-die-schwarmintelligenz-des-lebens-und-ihre-bedeutung-fuer-die-weltrettung-a-85fe07cc-4630-49a3-beee-49ad24e158b3#ref=rss)
+### lebens
 
-* [https://www.spiegel.de/sport/fussball/zweite-fussball-bundesliga-sv-elversberg-mischt-die-liga-auf-darmstadt-beeindruckt-unter-kohfeldt](https://www.spiegel.de/sport/fussball/zweite-fussball-bundesliga-sv-elversberg-mischt-die-liga-auf-darmstadt-beeindruckt-unter-kohfeldt-a-37c7ccb0-d3af-4d2c-89b0-cccfa571a38a#ref=rss)
-### mikaela
+* [https://www.spiegel.de/politik/deutschland/verhaltensbiologie-die-schwarmintelligenz-des-lebens-und-ihre-bedeutung-fuer-die-weltrettung](https://www.spiegel.de/politik/deutschland/verhaltensbiologie-die-schwarmintelligenz-des-lebens-und-ihre-bedeutung-fuer-die-weltrettung-a-85fe07cc-4630-49a3-beee-49ad24e158b3#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-feiert-in-gurgl-ihren-99-weltcupsieg](https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-feiert-in-gurgl-ihren-99-weltcupsieg-a-0126a5ed-74a0-4e49-8da3-4d4165995e2d#ref=rss)
-### shiffrin
+* [https://www.spiegel.de/politik/deutschland/verhaltensbiologie-die-schwarmintelligenz-des-lebens-und-ihre-bedeutung-fuer-die-weltrettung](https://www.spiegel.de/politik/deutschland/verhaltensbiologie-die-schwarmintelligenz-des-lebens-und-ihre-bedeutung-fuer-die-weltrettung-a-85fe07cc-4630-49a3-beee-49ad24e158b3#ref=rss)
+* [https://www.spiegel.de/ausland/selenskyj-berater-wertet-juengste-drohungen-putins-als-ausdruck-absoluter-angst](https://www.spiegel.de/ausland/selenskyj-berater-wertet-juengste-drohungen-putins-als-ausdruck-absoluter-angst-a-8b2bea6b-b0d5-45ca-91e0-099bd9c90284#ref=rss)
+### müsse
 
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-feiert-in-gurgl-ihren-99-weltcupsieg](https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-feiert-in-gurgl-ihren-99-weltcupsieg-a-0126a5ed-74a0-4e49-8da3-4d4165995e2d#ref=rss)
-### gurgl
+* [https://www.spiegel.de/politik/deutschland/verhaltensbiologie-die-schwarmintelligenz-des-lebens-und-ihre-bedeutung-fuer-die-weltrettung](https://www.spiegel.de/politik/deutschland/verhaltensbiologie-die-schwarmintelligenz-des-lebens-und-ihre-bedeutung-fuer-die-weltrettung-a-85fe07cc-4630-49a3-beee-49ad24e158b3#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-osteuropa-historiker-karl-schloegel-russland-ist-der-feind](https://www.spiegel.de/ausland/ukraine-krieg-osteuropa-historiker-karl-schloegel-russland-ist-der-feind-a-699337dc-ce8d-4f68-83a7-52af16dd396b#ref=rss)
+### formel
 
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-feiert-in-gurgl-ihren-99-weltcupsieg](https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-feiert-in-gurgl-ihren-99-weltcupsieg-a-0126a5ed-74a0-4e49-8da3-4d4165995e2d#ref=rss)
-### hubertus
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-faehrt-kontrolliert-auf-platz-fuenf-und-ist-wieder-weltmeister](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-faehrt-kontrolliert-auf-platz-fuenf-und-ist-wieder-weltmeister-a-0ae2c7f4-ba22-4747-9e1b-2facc727364f#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-verteidigt-seinen-titel-und-kroent-sich-zum-vierten-mal-zum-weltmeister](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-verteidigt-seinen-titel-und-kroent-sich-zum-vierten-mal-zum-weltmeister-a-9cfbccf0-04fa-4c43-9cad-f42dd15888c7#ref=rss)
+### 1
 
-* [https://www.spiegel.de/politik/deutschland/hubertus-heil-kanzlerdebatte-veraergert-partei-vize-spd-ist-keine-selbsthilfegruppe](https://www.spiegel.de/politik/deutschland/hubertus-heil-kanzlerdebatte-veraergert-partei-vize-spd-ist-keine-selbsthilfegruppe-a-2e6e7c44-cdd5-4db3-8730-cb677024186d#ref=rss)
-### heil
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-faehrt-kontrolliert-auf-platz-fuenf-und-ist-wieder-weltmeister](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-faehrt-kontrolliert-auf-platz-fuenf-und-ist-wieder-weltmeister-a-0ae2c7f4-ba22-4747-9e1b-2facc727364f#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-verteidigt-seinen-titel-und-kroent-sich-zum-vierten-mal-zum-weltmeister](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-verteidigt-seinen-titel-und-kroent-sich-zum-vierten-mal-zum-weltmeister-a-9cfbccf0-04fa-4c43-9cad-f42dd15888c7#ref=rss)
+### kontrolliert
 
-* [https://www.spiegel.de/politik/deutschland/hubertus-heil-kanzlerdebatte-veraergert-partei-vize-spd-ist-keine-selbsthilfegruppe](https://www.spiegel.de/politik/deutschland/hubertus-heil-kanzlerdebatte-veraergert-partei-vize-spd-ist-keine-selbsthilfegruppe-a-2e6e7c44-cdd5-4db3-8730-cb677024186d#ref=rss)
-### kritisiert
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-faehrt-kontrolliert-auf-platz-fuenf-und-ist-wieder-weltmeister](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-faehrt-kontrolliert-auf-platz-fuenf-und-ist-wieder-weltmeister-a-0ae2c7f4-ba22-4747-9e1b-2facc727364f#ref=rss)
+### weltmeister
 
-* [https://www.spiegel.de/politik/deutschland/hubertus-heil-kanzlerdebatte-veraergert-partei-vize-spd-ist-keine-selbsthilfegruppe](https://www.spiegel.de/politik/deutschland/hubertus-heil-kanzlerdebatte-veraergert-partei-vize-spd-ist-keine-selbsthilfegruppe-a-2e6e7c44-cdd5-4db3-8730-cb677024186d#ref=rss)
-* [https://www.spiegel.de/kultur/claudia-roth-kulturstaatsministerin-kritisiert-proteste-bei-nan-goldin-schau-in-berlin](https://www.spiegel.de/kultur/claudia-roth-kulturstaatsministerin-kritisiert-proteste-bei-nan-goldin-schau-in-berlin-a-50fba977-acce-426d-8662-aba927c07069#ref=rss)
-### volkswagen
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-faehrt-kontrolliert-auf-platz-fuenf-und-ist-wieder-weltmeister](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-faehrt-kontrolliert-auf-platz-fuenf-und-ist-wieder-weltmeister-a-0ae2c7f4-ba22-4747-9e1b-2facc727364f#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-verteidigt-seinen-titel-und-kroent-sich-zum-vierten-mal-zum-weltmeister](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-verteidigt-seinen-titel-und-kroent-sich-zum-vierten-mal-zum-weltmeister-a-9cfbccf0-04fa-4c43-9cad-f42dd15888c7#ref=rss)
+### las
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/vw-markenchef-haelt-an-plaenen-fuer-fabrikschliessungen-in-deutschland-fest](https://www.spiegel.de/wirtschaft/unternehmen/vw-markenchef-haelt-an-plaenen-fuer-fabrikschliessungen-in-deutschland-fest-a-bc67ead6-1235-413e-a020-bce04f51f92e#ref=rss)
-### plänen
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-faehrt-kontrolliert-auf-platz-fuenf-und-ist-wieder-weltmeister](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-faehrt-kontrolliert-auf-platz-fuenf-und-ist-wieder-weltmeister-a-0ae2c7f4-ba22-4747-9e1b-2facc727364f#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-verteidigt-seinen-titel-und-kroent-sich-zum-vierten-mal-zum-weltmeister](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-verteidigt-seinen-titel-und-kroent-sich-zum-vierten-mal-zum-weltmeister-a-9cfbccf0-04fa-4c43-9cad-f42dd15888c7#ref=rss)
+### vegas
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/vw-markenchef-haelt-an-plaenen-fuer-fabrikschliessungen-in-deutschland-fest](https://www.spiegel.de/wirtschaft/unternehmen/vw-markenchef-haelt-an-plaenen-fuer-fabrikschliessungen-in-deutschland-fest-a-bc67ead6-1235-413e-a020-bce04f51f92e#ref=rss)
-### steffen
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-faehrt-kontrolliert-auf-platz-fuenf-und-ist-wieder-weltmeister](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-faehrt-kontrolliert-auf-platz-fuenf-und-ist-wieder-weltmeister-a-0ae2c7f4-ba22-4747-9e1b-2facc727364f#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-verteidigt-seinen-titel-und-kroent-sich-zum-vierten-mal-zum-weltmeister](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-verteidigt-seinen-titel-und-kroent-sich-zum-vierten-mal-zum-weltmeister-a-9cfbccf0-04fa-4c43-9cad-f42dd15888c7#ref=rss)
+### vierten
 
-* [https://www.spiegel.de/sport/fussball/hamburger-sv-steffen-baumgart-haelt-nicht-alle-afd-waehler-fuer-idioten](https://www.spiegel.de/sport/fussball/hamburger-sv-steffen-baumgart-haelt-nicht-alle-afd-waehler-fuer-idioten-a-ce2f1963-1c76-4773-9e9a-0270cd7f5730#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-faehrt-kontrolliert-auf-platz-fuenf-und-ist-wieder-weltmeister](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-faehrt-kontrolliert-auf-platz-fuenf-und-ist-wieder-weltmeister-a-0ae2c7f4-ba22-4747-9e1b-2facc727364f#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-verteidigt-seinen-titel-und-kroent-sich-zum-vierten-mal-zum-weltmeister](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-verteidigt-seinen-titel-und-kroent-sich-zum-vierten-mal-zum-weltmeister-a-9cfbccf0-04fa-4c43-9cad-f42dd15888c7#ref=rss)
+### rabbiner
+
+* [https://www.spiegel.de/ausland/israel-vereinigte-arabische-emirate-rabbiner-offenbar-ermordet-aufgefunden](https://www.spiegel.de/ausland/israel-vereinigte-arabische-emirate-rabbiner-offenbar-ermordet-aufgefunden-a-a43c9928-c240-42e3-a004-5f56f745b43d#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/ausland/israel-vereinigte-arabische-emirate-rabbiner-offenbar-ermordet-aufgefunden](https://www.spiegel.de/ausland/israel-vereinigte-arabische-emirate-rabbiner-offenbar-ermordet-aufgefunden-a-a43c9928-c240-42e3-a004-5f56f745b43d#ref=rss)
+### tages
+
+* [https://www.spiegel.de/wirtschaft/service/sinkende-zinsen-tages-und-festgeldangebote-im-vergleich](https://www.spiegel.de/wirtschaft/service/sinkende-zinsen-tages-und-festgeldangebote-im-vergleich-a-a66def72-460c-4c91-9b12-feb334a80845#ref=rss)
+### weniger
+
+* [https://www.spiegel.de/wirtschaft/service/sinkende-zinsen-tages-und-festgeldangebote-im-vergleich](https://www.spiegel.de/wirtschaft/service/sinkende-zinsen-tages-und-festgeldangebote-im-vergleich-a-a66def72-460c-4c91-9b12-feb334a80845#ref=rss)
+* [https://www.spiegel.de/politik/demokratie-in-gefahr-weniger-machtspiele-mehr-wuerde](https://www.spiegel.de/politik/demokratie-in-gefahr-weniger-machtspiele-mehr-wuerde-a-6cbf09f3-c36d-4044-bdbe-327faf1adc6f#ref=rss)
+### lurch
+
+* [https://www.spiegel.de/wissenschaft/natur/moorfrosch-ist-der-lurch-des-jahres](https://www.spiegel.de/wissenschaft/natur/moorfrosch-ist-der-lurch-des-jahres-a-7853d279-62f1-4a8d-a013-82f236a0674f#ref=rss)
+### jahres
+
+* [https://www.spiegel.de/wissenschaft/natur/moorfrosch-ist-der-lurch-des-jahres](https://www.spiegel.de/wissenschaft/natur/moorfrosch-ist-der-lurch-des-jahres-a-7853d279-62f1-4a8d-a013-82f236a0674f#ref=rss)
+### 14
+
+* [https://www.spiegel.de/wirtschaft/wohnungsmarkt-mieten-in-den-14-groessten-staedten-deutschlands-steigen-stark-an](https://www.spiegel.de/wirtschaft/wohnungsmarkt-mieten-in-den-14-groessten-staedten-deutschlands-steigen-stark-an-a-91a8c666-5ab1-4134-a9c9-e67aa45a4986#ref=rss)
+### städten
+
+* [https://www.spiegel.de/wirtschaft/wohnungsmarkt-mieten-in-den-14-groessten-staedten-deutschlands-steigen-stark-an](https://www.spiegel.de/wirtschaft/wohnungsmarkt-mieten-in-den-14-groessten-staedten-deutschlands-steigen-stark-an-a-91a8c666-5ab1-4134-a9c9-e67aa45a4986#ref=rss)
+### stark
+
+* [https://www.spiegel.de/wirtschaft/wohnungsmarkt-mieten-in-den-14-groessten-staedten-deutschlands-steigen-stark-an](https://www.spiegel.de/wirtschaft/wohnungsmarkt-mieten-in-den-14-groessten-staedten-deutschlands-steigen-stark-an-a-91a8c666-5ab1-4134-a9c9-e67aa45a4986#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-verteidigt-seinen-titel-und-kroent-sich-zum-vierten-mal-zum-weltmeister](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-verteidigt-seinen-titel-und-kroent-sich-zum-vierten-mal-zum-weltmeister-a-9cfbccf0-04fa-4c43-9cad-f42dd15888c7#ref=rss)
+### zeigen
+
+* [https://www.spiegel.de/wirtschaft/wohnungsmarkt-mieten-in-den-14-groessten-staedten-deutschlands-steigen-stark-an](https://www.spiegel.de/wirtschaft/wohnungsmarkt-mieten-in-den-14-groessten-staedten-deutschlands-steigen-stark-an-a-91a8c666-5ab1-4134-a9c9-e67aa45a4986#ref=rss)
+* [https://www.spiegel.de/psychologie/bekenntnisse-vor-dem-tod-man-will-dass-das-geheimnis-einen-klang-bekommt](https://www.spiegel.de/psychologie/bekenntnisse-vor-dem-tod-man-will-dass-das-geheimnis-einen-klang-bekommt-a-6676d0f9-b9b1-47a5-949e-6cfd0b2ed463#ref=rss)
+### karl
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-osteuropa-historiker-karl-schloegel-russland-ist-der-feind](https://www.spiegel.de/ausland/ukraine-krieg-osteuropa-historiker-karl-schloegel-russland-ist-der-feind-a-699337dc-ce8d-4f68-83a7-52af16dd396b#ref=rss)
+### schlögel
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-osteuropa-historiker-karl-schloegel-russland-ist-der-feind](https://www.spiegel.de/ausland/ukraine-krieg-osteuropa-historiker-karl-schloegel-russland-ist-der-feind-a-699337dc-ce8d-4f68-83a7-52af16dd396b#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-osteuropa-historiker-karl-schloegel-russland-ist-der-feind](https://www.spiegel.de/ausland/ukraine-krieg-osteuropa-historiker-karl-schloegel-russland-ist-der-feind-a-699337dc-ce8d-4f68-83a7-52af16dd396b#ref=rss)
+* [https://www.spiegel.de/sport/boxen-tina-rupprecht-gewinnt-drei-wm-guertel](https://www.spiegel.de/sport/boxen-tina-rupprecht-gewinnt-drei-wm-guertel-a-63548a38-ad17-429b-b30c-1469f9d4c8f5#ref=rss)
+### klimakonferenz
+
+* [https://www.spiegel.de/politik/deutschland/news-k-frage-bei-der-spd-klimakonferenz-cop29-in-baku-krise-im-sudan](https://www.spiegel.de/politik/deutschland/news-k-frage-bei-der-spd-klimakonferenz-cop29-in-baku-krise-im-sudan-a-eff8cb52-6cc9-4b00-bd6e-afd69a6ccd2f#ref=rss)
+### verteidigt
+
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-verteidigt-seinen-titel-und-kroent-sich-zum-vierten-mal-zum-weltmeister](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-verteidigt-seinen-titel-und-kroent-sich-zum-vierten-mal-zum-weltmeister-a-9cfbccf0-04fa-4c43-9cad-f42dd15888c7#ref=rss)
+### titel
+
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-verteidigt-seinen-titel-und-kroent-sich-zum-vierten-mal-zum-weltmeister](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-verteidigt-seinen-titel-und-kroent-sich-zum-vierten-mal-zum-weltmeister-a-9cfbccf0-04fa-4c43-9cad-f42dd15888c7#ref=rss)
+### rekruten
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-kreml-gesetz-erlaesst-neuen-rekruten-ihre-schulden](https://www.spiegel.de/ausland/russland-ukraine-krieg-kreml-gesetz-erlaesst-neuen-rekruten-ihre-schulden-a-e85d4235-b3b4-472e-8e20-2763a52a7513#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-kreml-gesetz-erlaesst-neuen-rekruten-ihre-schulden](https://www.spiegel.de/ausland/russland-ukraine-krieg-kreml-gesetz-erlaesst-neuen-rekruten-ihre-schulden-a-e85d4235-b3b4-472e-8e20-2763a52a7513#ref=rss)
+* [https://www.spiegel.de/ausland/selenskyj-berater-wertet-juengste-drohungen-putins-als-ausdruck-absoluter-angst](https://www.spiegel.de/ausland/selenskyj-berater-wertet-juengste-drohungen-putins-als-ausdruck-absoluter-angst-a-8b2bea6b-b0d5-45ca-91e0-099bd9c90284#ref=rss)
+### experten
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-kreml-gesetz-erlaesst-neuen-rekruten-ihre-schulden](https://www.spiegel.de/ausland/russland-ukraine-krieg-kreml-gesetz-erlaesst-neuen-rekruten-ihre-schulden-a-e85d4235-b3b4-472e-8e20-2763a52a7513#ref=rss)
+* [https://www.spiegel.de/wissenschaft/nord-und-ostsee-marineflieger-entdecken-mehr-verschmutzung](https://www.spiegel.de/wissenschaft/nord-und-ostsee-marineflieger-entdecken-mehr-verschmutzung-a-245dd7ca-df50-4ab4-bbbd-2e8557a21cc1#ref=rss)
+### tod
+
+* [https://www.spiegel.de/psychologie/bekenntnisse-vor-dem-tod-man-will-dass-das-geheimnis-einen-klang-bekommt](https://www.spiegel.de/psychologie/bekenntnisse-vor-dem-tod-man-will-dass-das-geheimnis-einen-klang-bekommt-a-6676d0f9-b9b1-47a5-949e-6cfd0b2ed463#ref=rss)
+### tina
+
+* [https://www.spiegel.de/sport/boxen-tina-rupprecht-gewinnt-drei-wm-guertel](https://www.spiegel.de/sport/boxen-tina-rupprecht-gewinnt-drei-wm-guertel-a-63548a38-ad17-429b-b30c-1469f9d4c8f5#ref=rss)
+### rupprecht
+
+* [https://www.spiegel.de/sport/boxen-tina-rupprecht-gewinnt-drei-wm-guertel](https://www.spiegel.de/sport/boxen-tina-rupprecht-gewinnt-drei-wm-guertel-a-63548a38-ad17-429b-b30c-1469f9d4c8f5#ref=rss)
+### drei
+
+* [https://www.spiegel.de/sport/boxen-tina-rupprecht-gewinnt-drei-wm-guertel](https://www.spiegel.de/sport/boxen-tina-rupprecht-gewinnt-drei-wm-guertel-a-63548a38-ad17-429b-b30c-1469f9d4c8f5#ref=rss)
+* [https://www.spiegel.de/ausland/selenskyj-berater-wertet-juengste-drohungen-putins-als-ausdruck-absoluter-angst](https://www.spiegel.de/ausland/selenskyj-berater-wertet-juengste-drohungen-putins-als-ausdruck-absoluter-angst-a-8b2bea6b-b0d5-45ca-91e0-099bd9c90284#ref=rss)
+### wmgürtel
+
+* [https://www.spiegel.de/sport/boxen-tina-rupprecht-gewinnt-drei-wm-guertel](https://www.spiegel.de/sport/boxen-tina-rupprecht-gewinnt-drei-wm-guertel-a-63548a38-ad17-429b-b30c-1469f9d4c8f5#ref=rss)
+### demokratie
+
+* [https://www.spiegel.de/politik/demokratie-in-gefahr-weniger-machtspiele-mehr-wuerde](https://www.spiegel.de/politik/demokratie-in-gefahr-weniger-machtspiele-mehr-wuerde-a-6cbf09f3-c36d-4044-bdbe-327faf1adc6f#ref=rss)
+### gefahr
+
+* [https://www.spiegel.de/politik/demokratie-in-gefahr-weniger-machtspiele-mehr-wuerde](https://www.spiegel.de/politik/demokratie-in-gefahr-weniger-machtspiele-mehr-wuerde-a-6cbf09f3-c36d-4044-bdbe-327faf1adc6f#ref=rss)
+### würde
+
+* [https://www.spiegel.de/politik/demokratie-in-gefahr-weniger-machtspiele-mehr-wuerde](https://www.spiegel.de/politik/demokratie-in-gefahr-weniger-machtspiele-mehr-wuerde-a-6cbf09f3-c36d-4044-bdbe-327faf1adc6f#ref=rss)
 ### baumgart
 
-* [https://www.spiegel.de/sport/fussball/hamburger-sv-steffen-baumgart-haelt-nicht-alle-afd-waehler-fuer-idioten](https://www.spiegel.de/sport/fussball/hamburger-sv-steffen-baumgart-haelt-nicht-alle-afd-waehler-fuer-idioten-a-ce2f1963-1c76-4773-9e9a-0270cd7f5730#ref=rss)
-### bilder
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-in-der-krise-zweifel-an-steffen-baumgart-nach-remis-gegen-schalke](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-in-der-krise-zweifel-an-steffen-baumgart-nach-remis-gegen-schalke-a-3d6650c4-b19c-4146-8edc-64a796baccb9#ref=rss)
+### schalke
 
-* [https://www.spiegel.de/panorama/schnee-in-deutschland-gepuderte-welt](https://www.spiegel.de/panorama/schnee-in-deutschland-gepuderte-welt-a-4f33528c-2db2-4976-831b-7b745027fae7#ref=rss)
-### kulturstaatsministerin
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-in-der-krise-zweifel-an-steffen-baumgart-nach-remis-gegen-schalke](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-in-der-krise-zweifel-an-steffen-baumgart-nach-remis-gegen-schalke-a-3d6650c4-b19c-4146-8edc-64a796baccb9#ref=rss)
+### nord
 
-* [https://www.spiegel.de/kultur/claudia-roth-kulturstaatsministerin-kritisiert-proteste-bei-nan-goldin-schau-in-berlin](https://www.spiegel.de/kultur/claudia-roth-kulturstaatsministerin-kritisiert-proteste-bei-nan-goldin-schau-in-berlin-a-50fba977-acce-426d-8662-aba927c07069#ref=rss)
+* [https://www.spiegel.de/wissenschaft/nord-und-ostsee-marineflieger-entdecken-mehr-verschmutzung](https://www.spiegel.de/wissenschaft/nord-und-ostsee-marineflieger-entdecken-mehr-verschmutzung-a-245dd7ca-df50-4ab4-bbbd-2e8557a21cc1#ref=rss)
+### ostsee
+
+* [https://www.spiegel.de/wissenschaft/nord-und-ostsee-marineflieger-entdecken-mehr-verschmutzung](https://www.spiegel.de/wissenschaft/nord-und-ostsee-marineflieger-entdecken-mehr-verschmutzung-a-245dd7ca-df50-4ab4-bbbd-2e8557a21cc1#ref=rss)
+### selenskyjberater
+
+* [https://www.spiegel.de/ausland/selenskyj-berater-wertet-juengste-drohungen-putins-als-ausdruck-absoluter-angst](https://www.spiegel.de/ausland/selenskyj-berater-wertet-juengste-drohungen-putins-als-ausdruck-absoluter-angst-a-8b2bea6b-b0d5-45ca-91e0-099bd9c90284#ref=rss)
+### drohungen
+
+* [https://www.spiegel.de/ausland/selenskyj-berater-wertet-juengste-drohungen-putins-als-ausdruck-absoluter-angst](https://www.spiegel.de/ausland/selenskyj-berater-wertet-juengste-drohungen-putins-als-ausdruck-absoluter-angst-a-8b2bea6b-b0d5-45ca-91e0-099bd9c90284#ref=rss)
+### westen
+
+* [https://www.spiegel.de/ausland/selenskyj-berater-wertet-juengste-drohungen-putins-als-ausdruck-absoluter-angst](https://www.spiegel.de/ausland/selenskyj-berater-wertet-juengste-drohungen-putins-als-ausdruck-absoluter-angst-a-8b2bea6b-b0d5-45ca-91e0-099bd9c90284#ref=rss)
 
