@@ -4,362 +4,410 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### donald
+### spd
 
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-wirtschaft-warum-europa-die-chance-hat-mit-innovativer-technologie-zu-punkten](https://www.spiegel.de/wirtschaft/donald-trump-und-die-wirtschaft-warum-europa-die-chance-hat-mit-innovativer-technologie-zu-punkten-a-3c989c46-5bc2-4623-9cf0-52b5b1a0b489#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-im-glueck-stimmungshoch-fuer-neuen-us-praesidenten](https://www.spiegel.de/ausland/donald-trump-im-glueck-stimmungshoch-fuer-neuen-us-praesidenten-a-078faf9d-d2ef-425b-b85b-0247e43d2b5f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/reaktion-auf-donald-trump-kalifornien-will-e-autos-wieder-selbst-subventionieren](https://www.spiegel.de/wirtschaft/reaktion-auf-donald-trump-kalifornien-will-e-autos-wieder-selbst-subventionieren-a-b5b96823-e55d-4025-abda-a36f93205223#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-walmart-distanziert-sich-von-projekten-fuer-gleichberechtigung-und-vielfalt](https://www.spiegel.de/wirtschaft/usa-walmart-distanziert-sich-von-projekten-fuer-gleichberechtigung-und-vielfalt-a-c5521e9c-3fbf-4607-95c1-e690ce4015a8#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-us-praesident-joe-biden-will-zur-amtseinfuehrung-seines-nachfolgers-kommen](https://www.spiegel.de/ausland/donald-trump-us-praesident-joe-biden-will-zur-amtseinfuehrung-seines-nachfolgers-kommen-a-7f10e7a6-a35e-4966-8962-08ef70caf491#ref=rss)
-### trump
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-wirtschaft-warum-europa-die-chance-hat-mit-innovativer-technologie-zu-punkten](https://www.spiegel.de/wirtschaft/donald-trump-und-die-wirtschaft-warum-europa-die-chance-hat-mit-innovativer-technologie-zu-punkten-a-3c989c46-5bc2-4623-9cf0-52b5b1a0b489#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-im-glueck-stimmungshoch-fuer-neuen-us-praesidenten](https://www.spiegel.de/ausland/donald-trump-im-glueck-stimmungshoch-fuer-neuen-us-praesidenten-a-078faf9d-d2ef-425b-b85b-0247e43d2b5f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/reaktion-auf-donald-trump-kalifornien-will-e-autos-wieder-selbst-subventionieren](https://www.spiegel.de/wirtschaft/reaktion-auf-donald-trump-kalifornien-will-e-autos-wieder-selbst-subventionieren-a-b5b96823-e55d-4025-abda-a36f93205223#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-us-praesident-joe-biden-will-zur-amtseinfuehrung-seines-nachfolgers-kommen](https://www.spiegel.de/ausland/donald-trump-us-praesident-joe-biden-will-zur-amtseinfuehrung-seines-nachfolgers-kommen-a-7f10e7a6-a35e-4966-8962-08ef70caf491#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-bietet-maennlichen-fans-mit-blasenproblemen-kuenftig-einlagen-an](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-bietet-maennlichen-fans-mit-blasenproblemen-kuenftig-einlagen-an-a-a67600d1-2710-4699-aca7-c8ade6fbdeb9#ref=rss)
-* [https://www.spiegel.de/panorama/leute/augeninfektion-elton-john-leidet-an-blindheit-auf-rechtem-auge](https://www.spiegel.de/panorama/leute/augeninfektion-elton-john-leidet-an-blindheit-auf-rechtem-auge-a-43727bfb-05bb-4757-9253-b0111595e9e6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/thyssenkrupp-steel-ig-metall-kuendigt-widerstand-gegen-abbau-von-ueber-10-000-stellen-an](https://www.spiegel.de/wirtschaft/thyssenkrupp-steel-ig-metall-kuendigt-widerstand-gegen-abbau-von-ueber-10-000-stellen-an-a-c9e1dc93-b716-429a-a077-dce09e765046#ref=rss)
-* [https://www.spiegel.de/ausland/haiti-mehr-als-40-000-menschen-fliehen-aus-hauptstadt-port-au-prince](https://www.spiegel.de/ausland/haiti-mehr-als-40-000-menschen-fliehen-aus-hauptstadt-port-au-prince-a-25256801-0447-48e1-9925-989aa373d0e9#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-ulf-poschardt-wird-neuer-welt-herausgeber](https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-ulf-poschardt-wird-neuer-welt-herausgeber-a-6f4ac8ac-ca68-4671-84ee-5ffc3bf5fd14#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-wirtschaft-warum-europa-die-chance-hat-mit-innovativer-technologie-zu-punkten](https://www.spiegel.de/wirtschaft/donald-trump-und-die-wirtschaft-warum-europa-die-chance-hat-mit-innovativer-technologie-zu-punkten-a-3c989c46-5bc2-4623-9cf0-52b5b1a0b489#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-im-glueck-stimmungshoch-fuer-neuen-us-praesidenten](https://www.spiegel.de/ausland/donald-trump-im-glueck-stimmungshoch-fuer-neuen-us-praesidenten-a-078faf9d-d2ef-425b-b85b-0247e43d2b5f#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/wirtschaft/zuwanderung-experten-warnen-vor-massiv-steigendem-bedarf-an-arbeitskraeften](https://www.spiegel.de/wirtschaft/zuwanderung-experten-warnen-vor-massiv-steigendem-bedarf-an-arbeitskraeften-a-506a802f-2e51-48bb-9998-82c3952f5cb2#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/knigge-fuers-einkaufen-ist-es-asozial-an-der-kasse-airpods-zu-tragen](https://www.spiegel.de/netzwelt/web/knigge-fuers-einkaufen-ist-es-asozial-an-der-kasse-airpods-zu-tragen-a-60cbb59d-4bda-4c6e-94fa-18e2063bf35b#ref=rss)
-* [https://www.spiegel.de/psychologie/misstrauen-in-der-beziehung-warum-manche-menschen-alles-kontrollieren-wollen](https://www.spiegel.de/psychologie/misstrauen-in-der-beziehung-warum-manche-menschen-alles-kontrollieren-wollen-a-07f63643-8c58-47af-92d8-4b8ceb2a2de0#ref=rss)
-* [https://www.spiegel.de/ausland/haiti-mehr-als-40-000-menschen-fliehen-aus-hauptstadt-port-au-prince](https://www.spiegel.de/ausland/haiti-mehr-als-40-000-menschen-fliehen-aus-hauptstadt-port-au-prince-a-25256801-0447-48e1-9925-989aa373d0e9#ref=rss)
-### wirtschaft
-
-* [https://www.spiegel.de/wirtschaft/klima-und-wirtschaft-firmen-reduzieren-investitionen-fuer-umweltschutz](https://www.spiegel.de/wirtschaft/klima-und-wirtschaft-firmen-reduzieren-investitionen-fuer-umweltschutz-a-8a8c132a-82dd-4c1c-a512-874cef2e717e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-wirtschaft-warum-europa-die-chance-hat-mit-innovativer-technologie-zu-punkten](https://www.spiegel.de/wirtschaft/donald-trump-und-die-wirtschaft-warum-europa-die-chance-hat-mit-innovativer-technologie-zu-punkten-a-3c989c46-5bc2-4623-9cf0-52b5b1a0b489#ref=rss)
-* [https://www.spiegel.de/wirtschaft/zuwanderung-experten-warnen-vor-massiv-steigendem-bedarf-an-arbeitskraeften](https://www.spiegel.de/wirtschaft/zuwanderung-experten-warnen-vor-massiv-steigendem-bedarf-an-arbeitskraeften-a-506a802f-2e51-48bb-9998-82c3952f5cb2#ref=rss)
-### künftig
-
-* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-aerztliche-zwangsmassnahmen-kuenftig-auch-ausserhalb-von-krankenhaeusern-moeglich](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-aerztliche-zwangsmassnahmen-kuenftig-auch-ausserhalb-von-krankenhaeusern-moeglich-a-1928706f-42f2-4b35-8c17-88c0a0048f75#ref=rss)
-* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-bietet-maennlichen-fans-mit-blasenproblemen-kuenftig-einlagen-an](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-bietet-maennlichen-fans-mit-blasenproblemen-kuenftig-einlagen-an-a-a67600d1-2710-4699-aca7-c8ade6fbdeb9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/fernwaerme-stadtwerke-sehen-bezahlbare-waermeversorgung-kuenftig-in-gefahr](https://www.spiegel.de/wirtschaft/fernwaerme-stadtwerke-sehen-bezahlbare-waermeversorgung-kuenftig-in-gefahr-a-47592ecf-1ff2-4bf0-9664-5dbe402cd8f5#ref=rss)
-### sollte
-
-* [https://www.spiegel.de/wirtschaft/hamburger-finanzbehoerde-warnt-vor-gefaelschten-steuerbescheiden](https://www.spiegel.de/wirtschaft/hamburger-finanzbehoerde-warnt-vor-gefaelschten-steuerbescheiden-a-62640019-bf47-4b1b-a0bf-a346ce592be8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/immobilien-kauf-wann-ich-mich-gegen-das-traumhaus-entscheiden-sollte](https://www.spiegel.de/wirtschaft/service/immobilien-kauf-wann-ich-mich-gegen-das-traumhaus-entscheiden-sollte-a-094c983d-065b-41fa-a12f-8657f7b926d8#ref=rss)
-* [https://www.spiegel.de/panorama/bekannt-aus-netflix-serie-monster-brueder-erik-und-lyle-menendez-kommen-doch-nicht-vor-jahresende-frei](https://www.spiegel.de/panorama/bekannt-aus-netflix-serie-monster-brueder-erik-und-lyle-menendez-kommen-doch-nicht-vor-jahresende-frei-a-413644ea-f577-4136-b01d-f587c6dc3ad4#ref=rss)
-### partie
-
-* [https://www.spiegel.de/sport/schach-wm-ding-liren-vs-dommaraju-gukesh-die-zweite-partie-im-liveticker](https://www.spiegel.de/sport/schach-wm-ding-liren-vs-dommaraju-gukesh-die-zweite-partie-im-liveticker-a-41fc0b03-a958-41f5-a6da-9511004a4829#ref=rss)
-### manche
-
-* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-bietet-maennlichen-fans-mit-blasenproblemen-kuenftig-einlagen-an](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-bietet-maennlichen-fans-mit-blasenproblemen-kuenftig-einlagen-an-a-a67600d1-2710-4699-aca7-c8ade6fbdeb9#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/knigge-fuers-einkaufen-ist-es-asozial-an-der-kasse-airpods-zu-tragen](https://www.spiegel.de/netzwelt/web/knigge-fuers-einkaufen-ist-es-asozial-an-der-kasse-airpods-zu-tragen-a-60cbb59d-4bda-4c6e-94fa-18e2063bf35b#ref=rss)
-* [https://www.spiegel.de/psychologie/misstrauen-in-der-beziehung-warum-manche-menschen-alles-kontrollieren-wollen](https://www.spiegel.de/psychologie/misstrauen-in-der-beziehung-warum-manche-menschen-alles-kontrollieren-wollen-a-07f63643-8c58-47af-92d8-4b8ceb2a2de0#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-bietet-maennlichen-fans-mit-blasenproblemen-kuenftig-einlagen-an](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-bietet-maennlichen-fans-mit-blasenproblemen-kuenftig-einlagen-an-a-a67600d1-2710-4699-aca7-c8ade6fbdeb9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/fernwaerme-stadtwerke-sehen-bezahlbare-waermeversorgung-kuenftig-in-gefahr](https://www.spiegel.de/wirtschaft/fernwaerme-stadtwerke-sehen-bezahlbare-waermeversorgung-kuenftig-in-gefahr-a-47592ecf-1ff2-4bf0-9664-5dbe402cd8f5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/immobilien-kauf-wann-ich-mich-gegen-das-traumhaus-entscheiden-sollte](https://www.spiegel.de/wirtschaft/service/immobilien-kauf-wann-ich-mich-gegen-das-traumhaus-entscheiden-sollte-a-094c983d-065b-41fa-a12f-8657f7b926d8#ref=rss)
-### sehen
-
-* [https://www.spiegel.de/panorama/leute/augeninfektion-elton-john-leidet-an-blindheit-auf-rechtem-auge](https://www.spiegel.de/panorama/leute/augeninfektion-elton-john-leidet-an-blindheit-auf-rechtem-auge-a-43727bfb-05bb-4757-9253-b0111595e9e6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/zuwanderung-experten-warnen-vor-massiv-steigendem-bedarf-an-arbeitskraeften](https://www.spiegel.de/wirtschaft/zuwanderung-experten-warnen-vor-massiv-steigendem-bedarf-an-arbeitskraeften-a-506a802f-2e51-48bb-9998-82c3952f5cb2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/fernwaerme-stadtwerke-sehen-bezahlbare-waermeversorgung-kuenftig-in-gefahr](https://www.spiegel.de/wirtschaft/fernwaerme-stadtwerke-sehen-bezahlbare-waermeversorgung-kuenftig-in-gefahr-a-47592ecf-1ff2-4bf0-9664-5dbe402cd8f5#ref=rss)
-### kind
-
-* [https://www.spiegel.de/panorama/stralsund-weihnachtsmann-schlaegt-kind-mit-rute-ins-gesicht](https://www.spiegel.de/panorama/stralsund-weihnachtsmann-schlaegt-kind-mit-rute-ins-gesicht-a-b3365714-4a4d-471e-9531-7d627d4ad920#ref=rss)
-* [https://www.spiegel.de/kultur/deutsche-netflix-serie-liebes-kind-gewinnt-international-emmy](https://www.spiegel.de/kultur/deutsche-netflix-serie-liebes-kind-gewinnt-international-emmy-a-7ea96f5f-fbe9-40fa-982a-b64bfdb62a91#ref=rss)
-### kommen
-
-* [https://www.spiegel.de/ausland/donald-trump-us-praesident-joe-biden-will-zur-amtseinfuehrung-seines-nachfolgers-kommen](https://www.spiegel.de/ausland/donald-trump-us-praesident-joe-biden-will-zur-amtseinfuehrung-seines-nachfolgers-kommen-a-7f10e7a6-a35e-4966-8962-08ef70caf491#ref=rss)
-* [https://www.spiegel.de/wirtschaft/fernwaerme-stadtwerke-sehen-bezahlbare-waermeversorgung-kuenftig-in-gefahr](https://www.spiegel.de/wirtschaft/fernwaerme-stadtwerke-sehen-bezahlbare-waermeversorgung-kuenftig-in-gefahr-a-47592ecf-1ff2-4bf0-9664-5dbe402cd8f5#ref=rss)
-* [https://www.spiegel.de/panorama/bekannt-aus-netflix-serie-monster-brueder-erik-und-lyle-menendez-kommen-doch-nicht-vor-jahresende-frei](https://www.spiegel.de/panorama/bekannt-aus-netflix-serie-monster-brueder-erik-und-lyle-menendez-kommen-doch-nicht-vor-jahresende-frei-a-413644ea-f577-4136-b01d-f587c6dc3ad4#ref=rss)
-### netflixserie
-
-* [https://www.spiegel.de/kultur/deutsche-netflix-serie-liebes-kind-gewinnt-international-emmy](https://www.spiegel.de/kultur/deutsche-netflix-serie-liebes-kind-gewinnt-international-emmy-a-7ea96f5f-fbe9-40fa-982a-b64bfdb62a91#ref=rss)
-* [https://www.spiegel.de/panorama/bekannt-aus-netflix-serie-monster-brueder-erik-und-lyle-menendez-kommen-doch-nicht-vor-jahresende-frei](https://www.spiegel.de/panorama/bekannt-aus-netflix-serie-monster-brueder-erik-und-lyle-menendez-kommen-doch-nicht-vor-jahresende-frei-a-413644ea-f577-4136-b01d-f587c6dc3ad4#ref=rss)
+* [https://www.spiegel.de/ausland/heizungsgesetz-mattias-miersch-nennt-aeusserung-von-robert-habeck-unhaltbar](https://www.spiegel.de/ausland/heizungsgesetz-mattias-miersch-nennt-aeusserung-von-robert-habeck-unhaltbar-a-6a7d3330-ba6e-4da2-a607-de27ce5774a2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-olaf-scholz-elon-musk-angela-merkel-konsum-weihnachten](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-olaf-scholz-elon-musk-angela-merkel-konsum-weihnachten-a-af55da35-2193-468a-9b94-1b19c7c60a58#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-als-kanzlerkandidat-politikwissenschaftler-zeigt-auf-was-die-spd-so-erreichen-kann](https://www.spiegel.de/politik/deutschland/olaf-scholz-als-kanzlerkandidat-politikwissenschaftler-zeigt-auf-was-die-spd-so-erreichen-kann-a-4be730fb-5032-4e0b-ae6b-a6950cf2c6ac#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/wirtschaft/klima-und-wirtschaft-firmen-reduzieren-investitionen-fuer-umweltschutz](https://www.spiegel.de/wirtschaft/klima-und-wirtschaft-firmen-reduzieren-investitionen-fuer-umweltschutz-a-8a8c132a-82dd-4c1c-a512-874cef2e717e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-ulf-poschardt-wird-neuer-welt-herausgeber](https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-ulf-poschardt-wird-neuer-welt-herausgeber-a-6f4ac8ac-ca68-4671-84ee-5ffc3bf5fd14#ref=rss)
-### bundesverfassungsgericht
-
-* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-aerztliche-zwangsmassnahmen-kuenftig-auch-ausserhalb-von-krankenhaeusern-moeglich](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-aerztliche-zwangsmassnahmen-kuenftig-auch-ausserhalb-von-krankenhaeusern-moeglich-a-1928706f-42f2-4b35-8c17-88c0a0048f75#ref=rss)
-### krankenhäusern
-
-* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-aerztliche-zwangsmassnahmen-kuenftig-auch-ausserhalb-von-krankenhaeusern-moeglich](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-aerztliche-zwangsmassnahmen-kuenftig-auch-ausserhalb-von-krankenhaeusern-moeglich-a-1928706f-42f2-4b35-8c17-88c0a0048f75#ref=rss)
-### unter
-
-* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-aerztliche-zwangsmassnahmen-kuenftig-auch-ausserhalb-von-krankenhaeusern-moeglich](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-aerztliche-zwangsmassnahmen-kuenftig-auch-ausserhalb-von-krankenhaeusern-moeglich-a-1928706f-42f2-4b35-8c17-88c0a0048f75#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-ulf-poschardt-wird-neuer-welt-herausgeber](https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-ulf-poschardt-wird-neuer-welt-herausgeber-a-6f4ac8ac-ca68-4671-84ee-5ffc3bf5fd14#ref=rss)
-### finanzbehörde
-
-* [https://www.spiegel.de/wirtschaft/hamburger-finanzbehoerde-warnt-vor-gefaelschten-steuerbescheiden](https://www.spiegel.de/wirtschaft/hamburger-finanzbehoerde-warnt-vor-gefaelschten-steuerbescheiden-a-62640019-bf47-4b1b-a0bf-a346ce592be8#ref=rss)
-### gefälschten
-
-* [https://www.spiegel.de/wirtschaft/hamburger-finanzbehoerde-warnt-vor-gefaelschten-steuerbescheiden](https://www.spiegel.de/wirtschaft/hamburger-finanzbehoerde-warnt-vor-gefaelschten-steuerbescheiden-a-62640019-bf47-4b1b-a0bf-a346ce592be8#ref=rss)
-### worauf
-
-* [https://www.spiegel.de/wirtschaft/hamburger-finanzbehoerde-warnt-vor-gefaelschten-steuerbescheiden](https://www.spiegel.de/wirtschaft/hamburger-finanzbehoerde-warnt-vor-gefaelschten-steuerbescheiden-a-62640019-bf47-4b1b-a0bf-a346ce592be8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/immobilien-kauf-wann-ich-mich-gegen-das-traumhaus-entscheiden-sollte](https://www.spiegel.de/wirtschaft/service/immobilien-kauf-wann-ich-mich-gegen-das-traumhaus-entscheiden-sollte-a-094c983d-065b-41fa-a12f-8657f7b926d8#ref=rss)
-### achten
-
-* [https://www.spiegel.de/wirtschaft/hamburger-finanzbehoerde-warnt-vor-gefaelschten-steuerbescheiden](https://www.spiegel.de/wirtschaft/hamburger-finanzbehoerde-warnt-vor-gefaelschten-steuerbescheiden-a-62640019-bf47-4b1b-a0bf-a346ce592be8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/immobilien-kauf-wann-ich-mich-gegen-das-traumhaus-entscheiden-sollte](https://www.spiegel.de/wirtschaft/service/immobilien-kauf-wann-ich-mich-gegen-das-traumhaus-entscheiden-sollte-a-094c983d-065b-41fa-a12f-8657f7b926d8#ref=rss)
-### augenzeugin
-
-* [https://www.spiegel.de/ausland/litauen-augenzeugin-berichtet-von-absturz-einer-frachtmaschine-im-auftrag-von-dhl](https://www.spiegel.de/ausland/litauen-augenzeugin-berichtet-von-absturz-einer-frachtmaschine-im-auftrag-von-dhl-a-3082b9c9-cef3-452a-8a69-e07f9a7ad855#ref=rss)
-### berichtet
-
-* [https://www.spiegel.de/ausland/litauen-augenzeugin-berichtet-von-absturz-einer-frachtmaschine-im-auftrag-von-dhl](https://www.spiegel.de/ausland/litauen-augenzeugin-berichtet-von-absturz-einer-frachtmaschine-im-auftrag-von-dhl-a-3082b9c9-cef3-452a-8a69-e07f9a7ad855#ref=rss)
-### absturz
-
-* [https://www.spiegel.de/ausland/litauen-augenzeugin-berichtet-von-absturz-einer-frachtmaschine-im-auftrag-von-dhl](https://www.spiegel.de/ausland/litauen-augenzeugin-berichtet-von-absturz-einer-frachtmaschine-im-auftrag-von-dhl-a-3082b9c9-cef3-452a-8a69-e07f9a7ad855#ref=rss)
-### frachtmaschine
-
-* [https://www.spiegel.de/ausland/litauen-augenzeugin-berichtet-von-absturz-einer-frachtmaschine-im-auftrag-von-dhl](https://www.spiegel.de/ausland/litauen-augenzeugin-berichtet-von-absturz-einer-frachtmaschine-im-auftrag-von-dhl-a-3082b9c9-cef3-452a-8a69-e07f9a7ad855#ref=rss)
-### dhl
-
-* [https://www.spiegel.de/ausland/litauen-augenzeugin-berichtet-von-absturz-einer-frachtmaschine-im-auftrag-von-dhl](https://www.spiegel.de/ausland/litauen-augenzeugin-berichtet-von-absturz-einer-frachtmaschine-im-auftrag-von-dhl-a-3082b9c9-cef3-452a-8a69-e07f9a7ad855#ref=rss)
-### schachwm
-
-* [https://www.spiegel.de/sport/schach-wm-ding-liren-vs-dommaraju-gukesh-die-zweite-partie-im-liveticker](https://www.spiegel.de/sport/schach-wm-ding-liren-vs-dommaraju-gukesh-die-zweite-partie-im-liveticker-a-41fc0b03-a958-41f5-a6da-9511004a4829#ref=rss)
-### dommaraju
-
-* [https://www.spiegel.de/sport/schach-wm-ding-liren-vs-dommaraju-gukesh-die-zweite-partie-im-liveticker](https://www.spiegel.de/sport/schach-wm-ding-liren-vs-dommaraju-gukesh-die-zweite-partie-im-liveticker-a-41fc0b03-a958-41f5-a6da-9511004a4829#ref=rss)
-### gukesh
-
-* [https://www.spiegel.de/sport/schach-wm-ding-liren-vs-dommaraju-gukesh-die-zweite-partie-im-liveticker](https://www.spiegel.de/sport/schach-wm-ding-liren-vs-dommaraju-gukesh-die-zweite-partie-im-liveticker-a-41fc0b03-a958-41f5-a6da-9511004a4829#ref=rss)
-### zweite
-
-* [https://www.spiegel.de/sport/schach-wm-ding-liren-vs-dommaraju-gukesh-die-zweite-partie-im-liveticker](https://www.spiegel.de/sport/schach-wm-ding-liren-vs-dommaraju-gukesh-die-zweite-partie-im-liveticker-a-41fc0b03-a958-41f5-a6da-9511004a4829#ref=rss)
-### liveticker
-
-* [https://www.spiegel.de/sport/schach-wm-ding-liren-vs-dommaraju-gukesh-die-zweite-partie-im-liveticker](https://www.spiegel.de/sport/schach-wm-ding-liren-vs-dommaraju-gukesh-die-zweite-partie-im-liveticker-a-41fc0b03-a958-41f5-a6da-9511004a4829#ref=rss)
-### schlägt
-
-* [https://www.spiegel.de/sport/schach-wm-ding-liren-vs-dommaraju-gukesh-die-zweite-partie-im-liveticker](https://www.spiegel.de/sport/schach-wm-ding-liren-vs-dommaraju-gukesh-die-zweite-partie-im-liveticker-a-41fc0b03-a958-41f5-a6da-9511004a4829#ref=rss)
-* [https://www.spiegel.de/panorama/stralsund-weihnachtsmann-schlaegt-kind-mit-rute-ins-gesicht](https://www.spiegel.de/panorama/stralsund-weihnachtsmann-schlaegt-kind-mit-rute-ins-gesicht-a-b3365714-4a4d-471e-9531-7d627d4ad920#ref=rss)
-### manchester
-
-* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-bietet-maennlichen-fans-mit-blasenproblemen-kuenftig-einlagen-an](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-bietet-maennlichen-fans-mit-blasenproblemen-kuenftig-einlagen-an-a-a67600d1-2710-4699-aca7-c8ade6fbdeb9#ref=rss)
-### united
-
-* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-bietet-maennlichen-fans-mit-blasenproblemen-kuenftig-einlagen-an](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-bietet-maennlichen-fans-mit-blasenproblemen-kuenftig-einlagen-an-a-a67600d1-2710-4699-aca7-c8ade6fbdeb9#ref=rss)
-### männlichen
-
-* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-bietet-maennlichen-fans-mit-blasenproblemen-kuenftig-einlagen-an](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-bietet-maennlichen-fans-mit-blasenproblemen-kuenftig-einlagen-an-a-a67600d1-2710-4699-aca7-c8ade6fbdeb9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lohndiskriminierung-disney-will-weiblichen-angestellten-gehalt-teilweise-nachzahlen](https://www.spiegel.de/wirtschaft/lohndiskriminierung-disney-will-weiblichen-angestellten-gehalt-teilweise-nachzahlen-a-0b032ce5-29fd-4a99-a3e1-84d09f38f160#ref=rss)
-### studie
-
-* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-bietet-maennlichen-fans-mit-blasenproblemen-kuenftig-einlagen-an](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-bietet-maennlichen-fans-mit-blasenproblemen-kuenftig-einlagen-an-a-a67600d1-2710-4699-aca7-c8ade6fbdeb9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/zuwanderung-experten-warnen-vor-massiv-steigendem-bedarf-an-arbeitskraeften](https://www.spiegel.de/wirtschaft/zuwanderung-experten-warnen-vor-massiv-steigendem-bedarf-an-arbeitskraeften-a-506a802f-2e51-48bb-9998-82c3952f5cb2#ref=rss)
-### gegensteuern
-
-* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-bietet-maennlichen-fans-mit-blasenproblemen-kuenftig-einlagen-an](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-bietet-maennlichen-fans-mit-blasenproblemen-kuenftig-einlagen-an-a-a67600d1-2710-4699-aca7-c8ade6fbdeb9#ref=rss)
-* [https://www.spiegel.de/kultur/musik/mexiko-praesidentin-claudia-sheinbaum-will-drogengewalt-mit-musik-eindaemmen](https://www.spiegel.de/kultur/musik/mexiko-praesidentin-claudia-sheinbaum-will-drogengewalt-mit-musik-eindaemmen-a-ebc33c83-b1bc-46a0-93f3-07fb3b665276#ref=rss)
-### mexiko
-
-* [https://www.spiegel.de/kultur/musik/mexiko-praesidentin-claudia-sheinbaum-will-drogengewalt-mit-musik-eindaemmen](https://www.spiegel.de/kultur/musik/mexiko-praesidentin-claudia-sheinbaum-will-drogengewalt-mit-musik-eindaemmen-a-ebc33c83-b1bc-46a0-93f3-07fb3b665276#ref=rss)
-### ulf
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-ulf-poschardt-wird-neuer-welt-herausgeber](https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-ulf-poschardt-wird-neuer-welt-herausgeber-a-6f4ac8ac-ca68-4671-84ee-5ffc3bf5fd14#ref=rss)
-### poschardt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-ulf-poschardt-wird-neuer-welt-herausgeber](https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-ulf-poschardt-wird-neuer-welt-herausgeber-a-6f4ac8ac-ca68-4671-84ee-5ffc3bf5fd14#ref=rss)
-### neuer
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-ulf-poschardt-wird-neuer-welt-herausgeber](https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-ulf-poschardt-wird-neuer-welt-herausgeber-a-6f4ac8ac-ca68-4671-84ee-5ffc3bf5fd14#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-us-praesident-joe-biden-will-zur-amtseinfuehrung-seines-nachfolgers-kommen](https://www.spiegel.de/ausland/donald-trump-us-praesident-joe-biden-will-zur-amtseinfuehrung-seines-nachfolgers-kommen-a-7f10e7a6-a35e-4966-8962-08ef70caf491#ref=rss)
-### welt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-ulf-poschardt-wird-neuer-welt-herausgeber](https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-ulf-poschardt-wird-neuer-welt-herausgeber-a-6f4ac8ac-ca68-4671-84ee-5ffc3bf5fd14#ref=rss)
-### bundestagswahl
-
-* [https://www.spiegel.de/ausland/bundestagswahl-2025-sarah-wagenknecht-wirbt-fuer-expertenregierung-nach-der-wahl](https://www.spiegel.de/ausland/bundestagswahl-2025-sarah-wagenknecht-wirbt-fuer-expertenregierung-nach-der-wahl-a-56f521b3-8cf7-4f37-82c4-7ccba2364554#ref=rss)
-### wahl
-
-* [https://www.spiegel.de/ausland/bundestagswahl-2025-sarah-wagenknecht-wirbt-fuer-expertenregierung-nach-der-wahl](https://www.spiegel.de/ausland/bundestagswahl-2025-sarah-wagenknecht-wirbt-fuer-expertenregierung-nach-der-wahl-a-56f521b3-8cf7-4f37-82c4-7ccba2364554#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-walmart-distanziert-sich-von-projekten-fuer-gleichberechtigung-und-vielfalt](https://www.spiegel.de/wirtschaft/usa-walmart-distanziert-sich-von-projekten-fuer-gleichberechtigung-und-vielfalt-a-c5521e9c-3fbf-4607-95c1-e690ce4015a8#ref=rss)
-### elton
-
-* [https://www.spiegel.de/panorama/leute/augeninfektion-elton-john-leidet-an-blindheit-auf-rechtem-auge](https://www.spiegel.de/panorama/leute/augeninfektion-elton-john-leidet-an-blindheit-auf-rechtem-auge-a-43727bfb-05bb-4757-9253-b0111595e9e6#ref=rss)
-### john
-
-* [https://www.spiegel.de/panorama/leute/augeninfektion-elton-john-leidet-an-blindheit-auf-rechtem-auge](https://www.spiegel.de/panorama/leute/augeninfektion-elton-john-leidet-an-blindheit-auf-rechtem-auge-a-43727bfb-05bb-4757-9253-b0111595e9e6#ref=rss)
-### auge
-
-* [https://www.spiegel.de/panorama/leute/augeninfektion-elton-john-leidet-an-blindheit-auf-rechtem-auge](https://www.spiegel.de/panorama/leute/augeninfektion-elton-john-leidet-an-blindheit-auf-rechtem-auge-a-43727bfb-05bb-4757-9253-b0111595e9e6#ref=rss)
-### ich
-
-* [https://www.spiegel.de/panorama/leute/augeninfektion-elton-john-leidet-an-blindheit-auf-rechtem-auge](https://www.spiegel.de/panorama/leute/augeninfektion-elton-john-leidet-an-blindheit-auf-rechtem-auge-a-43727bfb-05bb-4757-9253-b0111595e9e6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/immobilien-kauf-wann-ich-mich-gegen-das-traumhaus-entscheiden-sollte](https://www.spiegel.de/wirtschaft/service/immobilien-kauf-wann-ich-mich-gegen-das-traumhaus-entscheiden-sollte-a-094c983d-065b-41fa-a12f-8657f7b926d8#ref=rss)
-### nichts
-
-* [https://www.spiegel.de/panorama/leute/augeninfektion-elton-john-leidet-an-blindheit-auf-rechtem-auge](https://www.spiegel.de/panorama/leute/augeninfektion-elton-john-leidet-an-blindheit-auf-rechtem-auge-a-43727bfb-05bb-4757-9253-b0111595e9e6#ref=rss)
-* [https://www.spiegel.de/panorama/bekannt-aus-netflix-serie-monster-brueder-erik-und-lyle-menendez-kommen-doch-nicht-vor-jahresende-frei](https://www.spiegel.de/panorama/bekannt-aus-netflix-serie-monster-brueder-erik-und-lyle-menendez-kommen-doch-nicht-vor-jahresende-frei-a-413644ea-f577-4136-b01d-f587c6dc3ad4#ref=rss)
-### thyssenkrupp
-
-* [https://www.spiegel.de/wirtschaft/thyssenkrupp-steel-ig-metall-kuendigt-widerstand-gegen-abbau-von-ueber-10-000-stellen-an](https://www.spiegel.de/wirtschaft/thyssenkrupp-steel-ig-metall-kuendigt-widerstand-gegen-abbau-von-ueber-10-000-stellen-an-a-c9e1dc93-b716-429a-a077-dce09e765046#ref=rss)
-### steel
-
-* [https://www.spiegel.de/wirtschaft/thyssenkrupp-steel-ig-metall-kuendigt-widerstand-gegen-abbau-von-ueber-10-000-stellen-an](https://www.spiegel.de/wirtschaft/thyssenkrupp-steel-ig-metall-kuendigt-widerstand-gegen-abbau-von-ueber-10-000-stellen-an-a-c9e1dc93-b716-429a-a077-dce09e765046#ref=rss)
-### ig
-
-* [https://www.spiegel.de/wirtschaft/thyssenkrupp-steel-ig-metall-kuendigt-widerstand-gegen-abbau-von-ueber-10-000-stellen-an](https://www.spiegel.de/wirtschaft/thyssenkrupp-steel-ig-metall-kuendigt-widerstand-gegen-abbau-von-ueber-10-000-stellen-an-a-c9e1dc93-b716-429a-a077-dce09e765046#ref=rss)
-### metall
-
-* [https://www.spiegel.de/wirtschaft/thyssenkrupp-steel-ig-metall-kuendigt-widerstand-gegen-abbau-von-ueber-10-000-stellen-an](https://www.spiegel.de/wirtschaft/thyssenkrupp-steel-ig-metall-kuendigt-widerstand-gegen-abbau-von-ueber-10-000-stellen-an-a-c9e1dc93-b716-429a-a077-dce09e765046#ref=rss)
-### 10000
-
-* [https://www.spiegel.de/wirtschaft/thyssenkrupp-steel-ig-metall-kuendigt-widerstand-gegen-abbau-von-ueber-10-000-stellen-an](https://www.spiegel.de/wirtschaft/thyssenkrupp-steel-ig-metall-kuendigt-widerstand-gegen-abbau-von-ueber-10-000-stellen-an-a-c9e1dc93-b716-429a-a077-dce09e765046#ref=rss)
-### stellen
-
-* [https://www.spiegel.de/wirtschaft/thyssenkrupp-steel-ig-metall-kuendigt-widerstand-gegen-abbau-von-ueber-10-000-stellen-an](https://www.spiegel.de/wirtschaft/thyssenkrupp-steel-ig-metall-kuendigt-widerstand-gegen-abbau-von-ueber-10-000-stellen-an-a-c9e1dc93-b716-429a-a077-dce09e765046#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/wirtschaft/thyssenkrupp-steel-ig-metall-kuendigt-widerstand-gegen-abbau-von-ueber-10-000-stellen-an](https://www.spiegel.de/wirtschaft/thyssenkrupp-steel-ig-metall-kuendigt-widerstand-gegen-abbau-von-ueber-10-000-stellen-an-a-c9e1dc93-b716-429a-a077-dce09e765046#ref=rss)
-* [https://www.spiegel.de/ausland/haiti-mehr-als-40-000-menschen-fliehen-aus-hauptstadt-port-au-prince](https://www.spiegel.de/ausland/haiti-mehr-als-40-000-menschen-fliehen-aus-hauptstadt-port-au-prince-a-25256801-0447-48e1-9925-989aa373d0e9#ref=rss)
-### reagiert
-
-* [https://www.spiegel.de/wirtschaft/thyssenkrupp-steel-ig-metall-kuendigt-widerstand-gegen-abbau-von-ueber-10-000-stellen-an](https://www.spiegel.de/wirtschaft/thyssenkrupp-steel-ig-metall-kuendigt-widerstand-gegen-abbau-von-ueber-10-000-stellen-an-a-c9e1dc93-b716-429a-a077-dce09e765046#ref=rss)
-* [https://www.spiegel.de/panorama/stralsund-weihnachtsmann-schlaegt-kind-mit-rute-ins-gesicht](https://www.spiegel.de/panorama/stralsund-weihnachtsmann-schlaegt-kind-mit-rute-ins-gesicht-a-b3365714-4a4d-471e-9531-7d627d4ad920#ref=rss)
-### darauf
-
-* [https://www.spiegel.de/wirtschaft/thyssenkrupp-steel-ig-metall-kuendigt-widerstand-gegen-abbau-von-ueber-10-000-stellen-an](https://www.spiegel.de/wirtschaft/thyssenkrupp-steel-ig-metall-kuendigt-widerstand-gegen-abbau-von-ueber-10-000-stellen-an-a-c9e1dc93-b716-429a-a077-dce09e765046#ref=rss)
-* [https://www.spiegel.de/panorama/stralsund-weihnachtsmann-schlaegt-kind-mit-rute-ins-gesicht](https://www.spiegel.de/panorama/stralsund-weihnachtsmann-schlaegt-kind-mit-rute-ins-gesicht-a-b3365714-4a4d-471e-9531-7d627d4ad920#ref=rss)
-### brandenburg
-
-* [https://www.spiegel.de/politik/deutschland/koalitionsverhandlungen-in-brandenburg-bsw-abgeordneter-sven-hornauf-droht-mit-nein-gegen-dietmar-woidke](https://www.spiegel.de/politik/deutschland/koalitionsverhandlungen-in-brandenburg-bsw-abgeordneter-sven-hornauf-droht-mit-nein-gegen-dietmar-woidke-a-8c2b56c5-2d5c-4c2c-8257-fcb9d6f336f9#ref=rss)
-### kendrick
-
-* [https://www.spiegel.de/panorama/leute/kendrick-lamar-drake-verdaechtigt-universal-die-zahlen-zum-disstrack-not-like-us-frisiert-zu-haben](https://www.spiegel.de/panorama/leute/kendrick-lamar-drake-verdaechtigt-universal-die-zahlen-zum-disstrack-not-like-us-frisiert-zu-haben-a-3b380193-8578-4951-89c7-885bdf0b38d7#ref=rss)
-### lamar
-
-* [https://www.spiegel.de/panorama/leute/kendrick-lamar-drake-verdaechtigt-universal-die-zahlen-zum-disstrack-not-like-us-frisiert-zu-haben](https://www.spiegel.de/panorama/leute/kendrick-lamar-drake-verdaechtigt-universal-die-zahlen-zum-disstrack-not-like-us-frisiert-zu-haben-a-3b380193-8578-4951-89c7-885bdf0b38d7#ref=rss)
-### drake
-
-* [https://www.spiegel.de/panorama/leute/kendrick-lamar-drake-verdaechtigt-universal-die-zahlen-zum-disstrack-not-like-us-frisiert-zu-haben](https://www.spiegel.de/panorama/leute/kendrick-lamar-drake-verdaechtigt-universal-die-zahlen-zum-disstrack-not-like-us-frisiert-zu-haben-a-3b380193-8578-4951-89c7-885bdf0b38d7#ref=rss)
-### kollegen
-
-* [https://www.spiegel.de/panorama/leute/kendrick-lamar-drake-verdaechtigt-universal-die-zahlen-zum-disstrack-not-like-us-frisiert-zu-haben](https://www.spiegel.de/panorama/leute/kendrick-lamar-drake-verdaechtigt-universal-die-zahlen-zum-disstrack-not-like-us-frisiert-zu-haben-a-3b380193-8578-4951-89c7-885bdf0b38d7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lohndiskriminierung-disney-will-weiblichen-angestellten-gehalt-teilweise-nachzahlen](https://www.spiegel.de/wirtschaft/lohndiskriminierung-disney-will-weiblichen-angestellten-gehalt-teilweise-nachzahlen-a-0b032ce5-29fd-4a99-a3e1-84d09f38f160#ref=rss)
-### europa
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-wirtschaft-warum-europa-die-chance-hat-mit-innovativer-technologie-zu-punkten](https://www.spiegel.de/wirtschaft/donald-trump-und-die-wirtschaft-warum-europa-die-chance-hat-mit-innovativer-technologie-zu-punkten-a-3c989c46-5bc2-4623-9cf0-52b5b1a0b489#ref=rss)
-### chance
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-wirtschaft-warum-europa-die-chance-hat-mit-innovativer-technologie-zu-punkten](https://www.spiegel.de/wirtschaft/donald-trump-und-die-wirtschaft-warum-europa-die-chance-hat-mit-innovativer-technologie-zu-punkten-a-3c989c46-5bc2-4623-9cf0-52b5b1a0b489#ref=rss)
-### innovativer
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-wirtschaft-warum-europa-die-chance-hat-mit-innovativer-technologie-zu-punkten](https://www.spiegel.de/wirtschaft/donald-trump-und-die-wirtschaft-warum-europa-die-chance-hat-mit-innovativer-technologie-zu-punkten-a-3c989c46-5bc2-4623-9cf0-52b5b1a0b489#ref=rss)
-### technologie
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-wirtschaft-warum-europa-die-chance-hat-mit-innovativer-technologie-zu-punkten](https://www.spiegel.de/wirtschaft/donald-trump-und-die-wirtschaft-warum-europa-die-chance-hat-mit-innovativer-technologie-zu-punkten-a-3c989c46-5bc2-4623-9cf0-52b5b1a0b489#ref=rss)
-### punkten
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-wirtschaft-warum-europa-die-chance-hat-mit-innovativer-technologie-zu-punkten](https://www.spiegel.de/wirtschaft/donald-trump-und-die-wirtschaft-warum-europa-die-chance-hat-mit-innovativer-technologie-zu-punkten-a-3c989c46-5bc2-4623-9cf0-52b5b1a0b489#ref=rss)
-### langfristig
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-wirtschaft-warum-europa-die-chance-hat-mit-innovativer-technologie-zu-punkten](https://www.spiegel.de/wirtschaft/donald-trump-und-die-wirtschaft-warum-europa-die-chance-hat-mit-innovativer-technologie-zu-punkten-a-3c989c46-5bc2-4623-9cf0-52b5b1a0b489#ref=rss)
-* [https://www.spiegel.de/wirtschaft/fernwaerme-stadtwerke-sehen-bezahlbare-waermeversorgung-kuenftig-in-gefahr](https://www.spiegel.de/wirtschaft/fernwaerme-stadtwerke-sehen-bezahlbare-waermeversorgung-kuenftig-in-gefahr-a-47592ecf-1ff2-4bf0-9664-5dbe402cd8f5#ref=rss)
-### stralsund
-
-* [https://www.spiegel.de/panorama/stralsund-weihnachtsmann-schlaegt-kind-mit-rute-ins-gesicht](https://www.spiegel.de/panorama/stralsund-weihnachtsmann-schlaegt-kind-mit-rute-ins-gesicht-a-b3365714-4a4d-471e-9531-7d627d4ad920#ref=rss)
-### weihnachtsmann
-
-* [https://www.spiegel.de/panorama/stralsund-weihnachtsmann-schlaegt-kind-mit-rute-ins-gesicht](https://www.spiegel.de/panorama/stralsund-weihnachtsmann-schlaegt-kind-mit-rute-ins-gesicht-a-b3365714-4a4d-471e-9531-7d627d4ad920#ref=rss)
-### rute
-
-* [https://www.spiegel.de/panorama/stralsund-weihnachtsmann-schlaegt-kind-mit-rute-ins-gesicht](https://www.spiegel.de/panorama/stralsund-weihnachtsmann-schlaegt-kind-mit-rute-ins-gesicht-a-b3365714-4a4d-471e-9531-7d627d4ad920#ref=rss)
-### disney
-
-* [https://www.spiegel.de/wirtschaft/lohndiskriminierung-disney-will-weiblichen-angestellten-gehalt-teilweise-nachzahlen](https://www.spiegel.de/wirtschaft/lohndiskriminierung-disney-will-weiblichen-angestellten-gehalt-teilweise-nachzahlen-a-0b032ce5-29fd-4a99-a3e1-84d09f38f160#ref=rss)
-### mitarbeiterinnen
-
-* [https://www.spiegel.de/wirtschaft/lohndiskriminierung-disney-will-weiblichen-angestellten-gehalt-teilweise-nachzahlen](https://www.spiegel.de/wirtschaft/lohndiskriminierung-disney-will-weiblichen-angestellten-gehalt-teilweise-nachzahlen-a-0b032ce5-29fd-4a99-a3e1-84d09f38f160#ref=rss)
-### kalifornien
-
-* [https://www.spiegel.de/wirtschaft/reaktion-auf-donald-trump-kalifornien-will-e-autos-wieder-selbst-subventionieren](https://www.spiegel.de/wirtschaft/reaktion-auf-donald-trump-kalifornien-will-e-autos-wieder-selbst-subventionieren-a-b5b96823-e55d-4025-abda-a36f93205223#ref=rss)
-### eautos
-
-* [https://www.spiegel.de/wirtschaft/reaktion-auf-donald-trump-kalifornien-will-e-autos-wieder-selbst-subventionieren](https://www.spiegel.de/wirtschaft/reaktion-auf-donald-trump-kalifornien-will-e-autos-wieder-selbst-subventionieren-a-b5b96823-e55d-4025-abda-a36f93205223#ref=rss)
-### förderung
-
-* [https://www.spiegel.de/wirtschaft/reaktion-auf-donald-trump-kalifornien-will-e-autos-wieder-selbst-subventionieren](https://www.spiegel.de/wirtschaft/reaktion-auf-donald-trump-kalifornien-will-e-autos-wieder-selbst-subventionieren-a-b5b96823-e55d-4025-abda-a36f93205223#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-walmart-distanziert-sich-von-projekten-fuer-gleichberechtigung-und-vielfalt](https://www.spiegel.de/wirtschaft/usa-walmart-distanziert-sich-von-projekten-fuer-gleichberechtigung-und-vielfalt-a-c5521e9c-3fbf-4607-95c1-e690ce4015a8#ref=rss)
-### zuwanderung
-
-* [https://www.spiegel.de/wirtschaft/zuwanderung-experten-warnen-vor-massiv-steigendem-bedarf-an-arbeitskraeften](https://www.spiegel.de/wirtschaft/zuwanderung-experten-warnen-vor-massiv-steigendem-bedarf-an-arbeitskraeften-a-506a802f-2e51-48bb-9998-82c3952f5cb2#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/zuwanderung-experten-warnen-vor-massiv-steigendem-bedarf-an-arbeitskraeften](https://www.spiegel.de/wirtschaft/zuwanderung-experten-warnen-vor-massiv-steigendem-bedarf-an-arbeitskraeften-a-506a802f-2e51-48bb-9998-82c3952f5cb2#ref=rss)
-* [https://www.spiegel.de/kultur/deutsche-netflix-serie-liebes-kind-gewinnt-international-emmy](https://www.spiegel.de/kultur/deutsche-netflix-serie-liebes-kind-gewinnt-international-emmy-a-7ea96f5f-fbe9-40fa-982a-b64bfdb62a91#ref=rss)
-### usa
-
-* [https://www.spiegel.de/wirtschaft/usa-walmart-distanziert-sich-von-projekten-fuer-gleichberechtigung-und-vielfalt](https://www.spiegel.de/wirtschaft/usa-walmart-distanziert-sich-von-projekten-fuer-gleichberechtigung-und-vielfalt-a-c5521e9c-3fbf-4607-95c1-e690ce4015a8#ref=rss)
-### walmart
-
-* [https://www.spiegel.de/wirtschaft/usa-walmart-distanziert-sich-von-projekten-fuer-gleichberechtigung-und-vielfalt](https://www.spiegel.de/wirtschaft/usa-walmart-distanziert-sich-von-projekten-fuer-gleichberechtigung-und-vielfalt-a-c5521e9c-3fbf-4607-95c1-e690ce4015a8#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/ausland/donald-trump-us-praesident-joe-biden-will-zur-amtseinfuehrung-seines-nachfolgers-kommen](https://www.spiegel.de/ausland/donald-trump-us-praesident-joe-biden-will-zur-amtseinfuehrung-seines-nachfolgers-kommen-a-7f10e7a6-a35e-4966-8962-08ef70caf491#ref=rss)
-### joe
-
-* [https://www.spiegel.de/ausland/donald-trump-us-praesident-joe-biden-will-zur-amtseinfuehrung-seines-nachfolgers-kommen](https://www.spiegel.de/ausland/donald-trump-us-praesident-joe-biden-will-zur-amtseinfuehrung-seines-nachfolgers-kommen-a-7f10e7a6-a35e-4966-8962-08ef70caf491#ref=rss)
-### biden
-
-* [https://www.spiegel.de/ausland/donald-trump-us-praesident-joe-biden-will-zur-amtseinfuehrung-seines-nachfolgers-kommen](https://www.spiegel.de/ausland/donald-trump-us-praesident-joe-biden-will-zur-amtseinfuehrung-seines-nachfolgers-kommen-a-7f10e7a6-a35e-4966-8962-08ef70caf491#ref=rss)
-### wir
-
-* [https://www.spiegel.de/netzwelt/web/knigge-fuers-einkaufen-ist-es-asozial-an-der-kasse-airpods-zu-tragen](https://www.spiegel.de/netzwelt/web/knigge-fuers-einkaufen-ist-es-asozial-an-der-kasse-airpods-zu-tragen-a-60cbb59d-4bda-4c6e-94fa-18e2063bf35b#ref=rss)
-* [https://www.spiegel.de/kultur/deutsche-netflix-serie-liebes-kind-gewinnt-international-emmy](https://www.spiegel.de/kultur/deutsche-netflix-serie-liebes-kind-gewinnt-international-emmy-a-7ea96f5f-fbe9-40fa-982a-b64bfdb62a91#ref=rss)
-### misstrauen
-
-* [https://www.spiegel.de/psychologie/misstrauen-in-der-beziehung-warum-manche-menschen-alles-kontrollieren-wollen](https://www.spiegel.de/psychologie/misstrauen-in-der-beziehung-warum-manche-menschen-alles-kontrollieren-wollen-a-07f63643-8c58-47af-92d8-4b8ceb2a2de0#ref=rss)
-### beziehung
-
-* [https://www.spiegel.de/psychologie/misstrauen-in-der-beziehung-warum-manche-menschen-alles-kontrollieren-wollen](https://www.spiegel.de/psychologie/misstrauen-in-der-beziehung-warum-manche-menschen-alles-kontrollieren-wollen-a-07f63643-8c58-47af-92d8-4b8ceb2a2de0#ref=rss)
-### fernwärme
-
-* [https://www.spiegel.de/wirtschaft/fernwaerme-stadtwerke-sehen-bezahlbare-waermeversorgung-kuenftig-in-gefahr](https://www.spiegel.de/wirtschaft/fernwaerme-stadtwerke-sehen-bezahlbare-waermeversorgung-kuenftig-in-gefahr-a-47592ecf-1ff2-4bf0-9664-5dbe402cd8f5#ref=rss)
-### stadtwerke
-
-* [https://www.spiegel.de/wirtschaft/fernwaerme-stadtwerke-sehen-bezahlbare-waermeversorgung-kuenftig-in-gefahr](https://www.spiegel.de/wirtschaft/fernwaerme-stadtwerke-sehen-bezahlbare-waermeversorgung-kuenftig-in-gefahr-a-47592ecf-1ff2-4bf0-9664-5dbe402cd8f5#ref=rss)
-### sollten
-
-* [https://www.spiegel.de/wirtschaft/immobilien-fuenf-wege-sich-mit-dem-hauskauf-zu-ruinieren](https://www.spiegel.de/wirtschaft/immobilien-fuenf-wege-sich-mit-dem-hauskauf-zu-ruinieren-a-5eec6324-d5fd-40e9-8f82-5c368f063aae#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/immobilien-kauf-wann-ich-mich-gegen-das-traumhaus-entscheiden-sollte](https://www.spiegel.de/wirtschaft/service/immobilien-kauf-wann-ich-mich-gegen-das-traumhaus-entscheiden-sollte-a-094c983d-065b-41fa-a12f-8657f7b926d8#ref=rss)
-### wann
-
-* [https://www.spiegel.de/wirtschaft/service/immobilien-kauf-wann-ich-mich-gegen-das-traumhaus-entscheiden-sollte](https://www.spiegel.de/wirtschaft/service/immobilien-kauf-wann-ich-mich-gegen-das-traumhaus-entscheiden-sollte-a-094c983d-065b-41fa-a12f-8657f7b926d8#ref=rss)
-### habeck
-
-* [https://www.spiegel.de/politik/deutschland/news-angela-merkel-robert-habeck-benjamin-netanyahu-hisbollah-israel](https://www.spiegel.de/politik/deutschland/news-angela-merkel-robert-habeck-benjamin-netanyahu-hisbollah-israel-a-2a998549-0dd5-44f2-8083-19b91772a8ca#ref=rss)
-### hisbollah
-
-* [https://www.spiegel.de/politik/deutschland/news-angela-merkel-robert-habeck-benjamin-netanyahu-hisbollah-israel](https://www.spiegel.de/politik/deutschland/news-angela-merkel-robert-habeck-benjamin-netanyahu-hisbollah-israel-a-2a998549-0dd5-44f2-8083-19b91772a8ca#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/ukraine-setzt-verstaerkt-auf-eigene-marschflugkoerper-was-bringt-das](https://www.spiegel.de/wissenschaft/technik/ukraine-setzt-verstaerkt-auf-eigene-marschflugkoerper-was-bringt-das-a-ed563a3f-a7d7-439e-8cf9-199ebe046a5e#ref=rss)
+* [https://www.spiegel.de/panorama/209-wolfsrudel-leben-in-deutschland](https://www.spiegel.de/panorama/209-wolfsrudel-leben-in-deutschland-a-fa07ffc9-a768-4d81-a212-111244d02a31#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-seine-wiederwahl-bedeutet-in-deutschland-den-abschied-von-einem-lebensgefuehl](https://www.spiegel.de/ausland/donald-trump-seine-wiederwahl-bedeutet-in-deutschland-den-abschied-von-einem-lebensgefuehl-a-2b962e80-3253-47e1-a834-16925917f4d0#ref=rss)
+* [https://www.spiegel.de/ausland/israel-wie-man-israel-unterstuetzen-kann-ohne-sich-hinter-die-taten-von-benjamin-netanyahu-zu-stellen](https://www.spiegel.de/ausland/israel-wie-man-israel-unterstuetzen-kann-ohne-sich-hinter-die-taten-von-benjamin-netanyahu-zu-stellen-a-702ce30f-2612-4465-8bb5-4f410281fd66#ref=rss)
+### black
+
+* [https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren](https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren-a-697998fc-dd63-4b8f-aca6-61d9192a346d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren](https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren-a-e4723d6b-cc0b-45b4-a293-9ddf4f286c3d#ref=rss)
+### friday
+
+* [https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren](https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren-a-697998fc-dd63-4b8f-aca6-61d9192a346d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren](https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren-a-e4723d6b-cc0b-45b4-a293-9ddf4f286c3d#ref=rss)
+### euro
+
+* [https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren](https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren-a-697998fc-dd63-4b8f-aca6-61d9192a346d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren](https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren-a-e4723d6b-cc0b-45b4-a293-9ddf4f286c3d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-olaf-scholz-elon-musk-angela-merkel-konsum-weihnachten](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-olaf-scholz-elon-musk-angela-merkel-konsum-weihnachten-a-af55da35-2193-468a-9b94-1b19c7c60a58#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-harry-kane-vom-fc-bayern-muenchen-antwortet-auf-die-kritik-von-dietmar-hamann](https://www.spiegel.de/sport/fussball/champions-league-harry-kane-vom-fc-bayern-muenchen-antwortet-auf-die-kritik-von-dietmar-hamann-a-b7dbf875-35c9-4db7-bfc7-0fbe9f1df990#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren](https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren-a-697998fc-dd63-4b8f-aca6-61d9192a346d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren](https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren-a-e4723d6b-cc0b-45b4-a293-9ddf4f286c3d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/statuen-von-sportlern-ein-bildhauer-sagt-wieso-athleten-in-bronze-oft-so-komisch-aussehen](https://www.spiegel.de/sport/fussball/statuen-von-sportlern-ein-bildhauer-sagt-wieso-athleten-in-bronze-oft-so-komisch-aussehen-a-5f8d5e75-d4f1-4603-a82b-37924d3ec01f#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-max-eberl-will-joshua-kimmich-zum-kapitaen-machen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-max-eberl-will-joshua-kimmich-zum-kapitaen-machen-a-eba1876b-5724-4860-aeb6-aa29156a1ffa#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-harry-kane-vom-fc-bayern-muenchen-antwortet-auf-die-kritik-von-dietmar-hamann](https://www.spiegel.de/sport/fussball/champions-league-harry-kane-vom-fc-bayern-muenchen-antwortet-auf-die-kritik-von-dietmar-hamann-a-b7dbf875-35c9-4db7-bfc7-0fbe9f1df990#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/ausland/heizungsgesetz-mattias-miersch-nennt-aeusserung-von-robert-habeck-unhaltbar](https://www.spiegel.de/ausland/heizungsgesetz-mattias-miersch-nennt-aeusserung-von-robert-habeck-unhaltbar-a-6a7d3330-ba6e-4da2-a607-de27ce5774a2#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-harry-kane-vom-fc-bayern-muenchen-antwortet-auf-die-kritik-von-dietmar-hamann](https://www.spiegel.de/sport/fussball/champions-league-harry-kane-vom-fc-bayern-muenchen-antwortet-auf-die-kritik-von-dietmar-hamann-a-b7dbf875-35c9-4db7-bfc7-0fbe9f1df990#ref=rss)
+* [https://www.spiegel.de/sport/fussball/statuen-von-sportlern-ein-bildhauer-sagt-wieso-athleten-in-bronze-oft-so-komisch-aussehen](https://www.spiegel.de/sport/fussball/statuen-von-sportlern-ein-bildhauer-sagt-wieso-athleten-in-bronze-oft-so-komisch-aussehen-a-5f8d5e75-d4f1-4603-a82b-37924d3ec01f#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/panorama/leute/ana-de-armas-angeblicher-neuer-freund-veraergert-exilkubaner](https://www.spiegel.de/panorama/leute/ana-de-armas-angeblicher-neuer-freund-veraergert-exilkubaner-a-8c9e402b-d14b-4109-abe5-e886b5830a64#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/ihr-computer-wurde-gesperrt-support-scam-mit-neuen-tricks-wiederbelebt](https://www.spiegel.de/netzwelt/web/ihr-computer-wurde-gesperrt-support-scam-mit-neuen-tricks-wiederbelebt-a-ee15fee9-0f19-4162-8752-f00ccd413721#ref=rss)
+* [https://www.spiegel.de/sport/pferdesport-martin-richenhagen-wird-neuer-praesident-der-deutschen-reiterlichen-vereinigung-fn](https://www.spiegel.de/sport/pferdesport-martin-richenhagen-wird-neuer-praesident-der-deutschen-reiterlichen-vereinigung-fn-a-c3425c62-51f9-4fd9-9f57-7d30112aeb5b#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/donald-trump-seine-wiederwahl-bedeutet-in-deutschland-den-abschied-von-einem-lebensgefuehl](https://www.spiegel.de/ausland/donald-trump-seine-wiederwahl-bedeutet-in-deutschland-den-abschied-von-einem-lebensgefuehl-a-2b962e80-3253-47e1-a834-16925917f4d0#ref=rss)
+* [https://www.spiegel.de/sport/pferdesport-martin-richenhagen-wird-neuer-praesident-der-deutschen-reiterlichen-vereinigung-fn](https://www.spiegel.de/sport/pferdesport-martin-richenhagen-wird-neuer-praesident-der-deutschen-reiterlichen-vereinigung-fn-a-c3425c62-51f9-4fd9-9f57-7d30112aeb5b#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-sein-scharfer-migrations-kurs-bedroht-auch-langjaehrige-einwanderer](https://www.spiegel.de/ausland/donald-trump-sein-scharfer-migrations-kurs-bedroht-auch-langjaehrige-einwanderer-a-be2e39e5-04d0-4e29-8618-3e24953a1913#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/donald-trump-seine-wiederwahl-bedeutet-in-deutschland-den-abschied-von-einem-lebensgefuehl](https://www.spiegel.de/ausland/donald-trump-seine-wiederwahl-bedeutet-in-deutschland-den-abschied-von-einem-lebensgefuehl-a-2b962e80-3253-47e1-a834-16925917f4d0#ref=rss)
+* [https://www.spiegel.de/sport/pferdesport-martin-richenhagen-wird-neuer-praesident-der-deutschen-reiterlichen-vereinigung-fn](https://www.spiegel.de/sport/pferdesport-martin-richenhagen-wird-neuer-praesident-der-deutschen-reiterlichen-vereinigung-fn-a-c3425c62-51f9-4fd9-9f57-7d30112aeb5b#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-sein-scharfer-migrations-kurs-bedroht-auch-langjaehrige-einwanderer](https://www.spiegel.de/ausland/donald-trump-sein-scharfer-migrations-kurs-bedroht-auch-langjaehrige-einwanderer-a-be2e39e5-04d0-4e29-8618-3e24953a1913#ref=rss)
 ### israel
 
-* [https://www.spiegel.de/politik/deutschland/news-angela-merkel-robert-habeck-benjamin-netanyahu-hisbollah-israel](https://www.spiegel.de/politik/deutschland/news-angela-merkel-robert-habeck-benjamin-netanyahu-hisbollah-israel-a-2a998549-0dd5-44f2-8083-19b91772a8ca#ref=rss)
-### liebes
+* [https://www.spiegel.de/ausland/krieg-im-nahen-osten-israel-greift-kurz-vor-moeglicher-waffenruhe-ziele-in-beirut-an](https://www.spiegel.de/ausland/krieg-im-nahen-osten-israel-greift-kurz-vor-moeglicher-waffenruhe-ziele-in-beirut-an-a-a5753979-c791-436d-bf17-5586e0a55608#ref=rss)
+* [https://www.spiegel.de/ausland/israel-wie-man-israel-unterstuetzen-kann-ohne-sich-hinter-die-taten-von-benjamin-netanyahu-zu-stellen](https://www.spiegel.de/ausland/israel-wie-man-israel-unterstuetzen-kann-ohne-sich-hinter-die-taten-von-benjamin-netanyahu-zu-stellen-a-702ce30f-2612-4465-8bb5-4f410281fd66#ref=rss)
+### 116
 
-* [https://www.spiegel.de/kultur/deutsche-netflix-serie-liebes-kind-gewinnt-international-emmy](https://www.spiegel.de/kultur/deutsche-netflix-serie-liebes-kind-gewinnt-international-emmy-a-7ea96f5f-fbe9-40fa-982a-b64bfdb62a91#ref=rss)
-### international
+* [https://www.spiegel.de/netzwelt/web/sperrnotruf-betrug-die-116-116-ruft-an-vorsicht](https://www.spiegel.de/netzwelt/web/sperrnotruf-betrug-die-116-116-ruft-an-vorsicht-a-38cc098b-eec3-4b27-858b-3201baa0a051#ref=rss)
+### millionen
 
-* [https://www.spiegel.de/kultur/deutsche-netflix-serie-liebes-kind-gewinnt-international-emmy](https://www.spiegel.de/kultur/deutsche-netflix-serie-liebes-kind-gewinnt-international-emmy-a-7ea96f5f-fbe9-40fa-982a-b64bfdb62a91#ref=rss)
-### brüder
+* [https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren](https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren-a-697998fc-dd63-4b8f-aca6-61d9192a346d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren](https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren-a-e4723d6b-cc0b-45b4-a293-9ddf4f286c3d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-harry-kane-vom-fc-bayern-muenchen-antwortet-auf-die-kritik-von-dietmar-hamann](https://www.spiegel.de/sport/fussball/champions-league-harry-kane-vom-fc-bayern-muenchen-antwortet-auf-die-kritik-von-dietmar-hamann-a-b7dbf875-35c9-4db7-bfc7-0fbe9f1df990#ref=rss)
+### rund
 
-* [https://www.spiegel.de/panorama/bekannt-aus-netflix-serie-monster-brueder-erik-und-lyle-menendez-kommen-doch-nicht-vor-jahresende-frei](https://www.spiegel.de/panorama/bekannt-aus-netflix-serie-monster-brueder-erik-und-lyle-menendez-kommen-doch-nicht-vor-jahresende-frei-a-413644ea-f577-4136-b01d-f587c6dc3ad4#ref=rss)
-### erik
+* [https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren](https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren-a-697998fc-dd63-4b8f-aca6-61d9192a346d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren](https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren-a-e4723d6b-cc0b-45b4-a293-9ddf4f286c3d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/depression-rund-45-prozent-der-deutschen-direkt-oder-indirekt-betroffen](https://www.spiegel.de/wissenschaft/medizin/depression-rund-45-prozent-der-deutschen-direkt-oder-indirekt-betroffen-a-c2390bbf-b819-4688-87bf-263eb40e0644#ref=rss)
+### fc
 
-* [https://www.spiegel.de/panorama/bekannt-aus-netflix-serie-monster-brueder-erik-und-lyle-menendez-kommen-doch-nicht-vor-jahresende-frei](https://www.spiegel.de/panorama/bekannt-aus-netflix-serie-monster-brueder-erik-und-lyle-menendez-kommen-doch-nicht-vor-jahresende-frei-a-413644ea-f577-4136-b01d-f587c6dc3ad4#ref=rss)
-### lyle
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-max-eberl-will-joshua-kimmich-zum-kapitaen-machen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-max-eberl-will-joshua-kimmich-zum-kapitaen-machen-a-eba1876b-5724-4860-aeb6-aa29156a1ffa#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-harry-kane-vom-fc-bayern-muenchen-antwortet-auf-die-kritik-von-dietmar-hamann](https://www.spiegel.de/sport/fussball/champions-league-harry-kane-vom-fc-bayern-muenchen-antwortet-auf-die-kritik-von-dietmar-hamann-a-b7dbf875-35c9-4db7-bfc7-0fbe9f1df990#ref=rss)
+### kapitän
 
-* [https://www.spiegel.de/panorama/bekannt-aus-netflix-serie-monster-brueder-erik-und-lyle-menendez-kommen-doch-nicht-vor-jahresende-frei](https://www.spiegel.de/panorama/bekannt-aus-netflix-serie-monster-brueder-erik-und-lyle-menendez-kommen-doch-nicht-vor-jahresende-frei-a-413644ea-f577-4136-b01d-f587c6dc3ad4#ref=rss)
-### menendez
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-max-eberl-will-joshua-kimmich-zum-kapitaen-machen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-max-eberl-will-joshua-kimmich-zum-kapitaen-machen-a-eba1876b-5724-4860-aeb6-aa29156a1ffa#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/nordsee-kapitaen-eines-fischkutters-wegen-koks-schmuggel-vor-insel-spiekeroog-verurteilt](https://www.spiegel.de/panorama/justiz/nordsee-kapitaen-eines-fischkutters-wegen-koks-schmuggel-vor-insel-spiekeroog-verurteilt-a-b1df637b-f584-45be-b976-9aa7c38c4cd9#ref=rss)
+### olaf
 
-* [https://www.spiegel.de/panorama/bekannt-aus-netflix-serie-monster-brueder-erik-und-lyle-menendez-kommen-doch-nicht-vor-jahresende-frei](https://www.spiegel.de/panorama/bekannt-aus-netflix-serie-monster-brueder-erik-und-lyle-menendez-kommen-doch-nicht-vor-jahresende-frei-a-413644ea-f577-4136-b01d-f587c6dc3ad4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-olaf-scholz-elon-musk-angela-merkel-konsum-weihnachten](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-olaf-scholz-elon-musk-angela-merkel-konsum-weihnachten-a-af55da35-2193-468a-9b94-1b19c7c60a58#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-als-kanzlerkandidat-politikwissenschaftler-zeigt-auf-was-die-spd-so-erreichen-kann](https://www.spiegel.de/politik/deutschland/olaf-scholz-als-kanzlerkandidat-politikwissenschaftler-zeigt-auf-was-die-spd-so-erreichen-kann-a-4be730fb-5032-4e0b-ae6b-a6950cf2c6ac#ref=rss)
+### scholz
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-olaf-scholz-elon-musk-angela-merkel-konsum-weihnachten](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-olaf-scholz-elon-musk-angela-merkel-konsum-weihnachten-a-af55da35-2193-468a-9b94-1b19c7c60a58#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-als-kanzlerkandidat-politikwissenschaftler-zeigt-auf-was-die-spd-so-erreichen-kann](https://www.spiegel.de/politik/deutschland/olaf-scholz-als-kanzlerkandidat-politikwissenschaftler-zeigt-auf-was-die-spd-so-erreichen-kann-a-4be730fb-5032-4e0b-ae6b-a6950cf2c6ac#ref=rss)
+### weihnachten
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-olaf-scholz-elon-musk-angela-merkel-konsum-weihnachten](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-olaf-scholz-elon-musk-angela-merkel-konsum-weihnachten-a-af55da35-2193-468a-9b94-1b19c7c60a58#ref=rss)
+* [https://www.spiegel.de/panorama/leute/charlotte-wuerdig-schenkt-ex-mann-sido-zu-weihnachten-ein-weiteres-jahr-freundschaft](https://www.spiegel.de/panorama/leute/charlotte-wuerdig-schenkt-ex-mann-sido-zu-weihnachten-ein-weiteres-jahr-freundschaft-a-d0e59491-2fe5-4048-b403-a7fd9f0a91c4#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-olaf-scholz-elon-musk-angela-merkel-konsum-weihnachten](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-olaf-scholz-elon-musk-angela-merkel-konsum-weihnachten-a-af55da35-2193-468a-9b94-1b19c7c60a58#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/depression-rund-45-prozent-der-deutschen-direkt-oder-indirekt-betroffen](https://www.spiegel.de/wissenschaft/medizin/depression-rund-45-prozent-der-deutschen-direkt-oder-indirekt-betroffen-a-c2390bbf-b819-4688-87bf-263eb40e0644#ref=rss)
+* [https://www.spiegel.de/sport/pferdesport-martin-richenhagen-wird-neuer-praesident-der-deutschen-reiterlichen-vereinigung-fn](https://www.spiegel.de/sport/pferdesport-martin-richenhagen-wird-neuer-praesident-der-deutschen-reiterlichen-vereinigung-fn-a-c3425c62-51f9-4fd9-9f57-7d30112aeb5b#ref=rss)
+### zahl
+
+* [https://www.spiegel.de/ausland/aids-programm-der-uno-zahl-der-hiv-infektionen-auf-historischem-tiefstand](https://www.spiegel.de/ausland/aids-programm-der-uno-zahl-der-hiv-infektionen-auf-historischem-tiefstand-a-502dd80c-1a60-4bb1-9b7f-9ea046076756#ref=rss)
+* [https://www.spiegel.de/panorama/aegypten-erste-todesopfer-nach-schiffsunglueck-im-roten-meer-geborgen](https://www.spiegel.de/panorama/aegypten-erste-todesopfer-nach-schiffsunglueck-im-roten-meer-geborgen-a-37bed1b3-820b-4a8e-a8fa-12321b801c73#ref=rss)
+### harry
+
+* [https://www.spiegel.de/sport/fussball/champions-league-harry-kane-vom-fc-bayern-muenchen-antwortet-auf-die-kritik-von-dietmar-hamann](https://www.spiegel.de/sport/fussball/champions-league-harry-kane-vom-fc-bayern-muenchen-antwortet-auf-die-kritik-von-dietmar-hamann-a-b7dbf875-35c9-4db7-bfc7-0fbe9f1df990#ref=rss)
+* [https://www.spiegel.de/sport/fussball/statuen-von-sportlern-ein-bildhauer-sagt-wieso-athleten-in-bronze-oft-so-komisch-aussehen](https://www.spiegel.de/sport/fussball/statuen-von-sportlern-ein-bildhauer-sagt-wieso-athleten-in-bronze-oft-so-komisch-aussehen-a-5f8d5e75-d4f1-4603-a82b-37924d3ec01f#ref=rss)
+### kane
+
+* [https://www.spiegel.de/sport/fussball/champions-league-harry-kane-vom-fc-bayern-muenchen-antwortet-auf-die-kritik-von-dietmar-hamann](https://www.spiegel.de/sport/fussball/champions-league-harry-kane-vom-fc-bayern-muenchen-antwortet-auf-die-kritik-von-dietmar-hamann-a-b7dbf875-35c9-4db7-bfc7-0fbe9f1df990#ref=rss)
+* [https://www.spiegel.de/sport/fussball/statuen-von-sportlern-ein-bildhauer-sagt-wieso-athleten-in-bronze-oft-so-komisch-aussehen](https://www.spiegel.de/sport/fussball/statuen-von-sportlern-ein-bildhauer-sagt-wieso-athleten-in-bronze-oft-so-komisch-aussehen-a-5f8d5e75-d4f1-4603-a82b-37924d3ec01f#ref=rss)
+### unter
+
+* [https://www.spiegel.de/politik/deutschland/ampel-bilanz-auf-klimakonferenzen-drei-harte-jahre-fuer-annalena-baerbock](https://www.spiegel.de/politik/deutschland/ampel-bilanz-auf-klimakonferenzen-drei-harte-jahre-fuer-annalena-baerbock-a-fdd29259-f6f5-4aa0-939e-b6e4c975474b#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-seine-wiederwahl-bedeutet-in-deutschland-den-abschied-von-einem-lebensgefuehl](https://www.spiegel.de/ausland/donald-trump-seine-wiederwahl-bedeutet-in-deutschland-den-abschied-von-einem-lebensgefuehl-a-2b962e80-3253-47e1-a834-16925917f4d0#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/sperrnotruf-betrug-die-116-116-ruft-an-vorsicht](https://www.spiegel.de/netzwelt/web/sperrnotruf-betrug-die-116-116-ruft-an-vorsicht-a-38cc098b-eec3-4b27-858b-3201baa0a051#ref=rss)
+### depression
+
+* [https://www.spiegel.de/wissenschaft/medizin/depression-rund-45-prozent-der-deutschen-direkt-oder-indirekt-betroffen](https://www.spiegel.de/wissenschaft/medizin/depression-rund-45-prozent-der-deutschen-direkt-oder-indirekt-betroffen-a-c2390bbf-b819-4688-87bf-263eb40e0644#ref=rss)
+### geborgen
+
+* [https://www.spiegel.de/panorama/aegypten-erste-todesopfer-nach-schiffsunglueck-im-roten-meer-geborgen](https://www.spiegel.de/panorama/aegypten-erste-todesopfer-nach-schiffsunglueck-im-roten-meer-geborgen-a-37bed1b3-820b-4a8e-a8fa-12321b801c73#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/nordsee-kapitaen-eines-fischkutters-wegen-koks-schmuggel-vor-insel-spiekeroog-verurteilt](https://www.spiegel.de/panorama/justiz/nordsee-kapitaen-eines-fischkutters-wegen-koks-schmuggel-vor-insel-spiekeroog-verurteilt-a-b1df637b-f584-45be-b976-9aa7c38c4cd9#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/sport/pferdesport-martin-richenhagen-wird-neuer-praesident-der-deutschen-reiterlichen-vereinigung-fn](https://www.spiegel.de/sport/pferdesport-martin-richenhagen-wird-neuer-praesident-der-deutschen-reiterlichen-vereinigung-fn-a-c3425c62-51f9-4fd9-9f57-7d30112aeb5b#ref=rss)
+* [https://www.spiegel.de/ausland/philippinen-sara-duterte-vorgeladen-morddrohung-gegen-praesident-marcos-jr](https://www.spiegel.de/ausland/philippinen-sara-duterte-vorgeladen-morddrohung-gegen-praesident-marcos-jr-a-682a2810-49f6-4059-b54e-d7490de3b4af#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-sein-scharfer-migrations-kurs-bedroht-auch-langjaehrige-einwanderer](https://www.spiegel.de/ausland/donald-trump-sein-scharfer-migrations-kurs-bedroht-auch-langjaehrige-einwanderer-a-be2e39e5-04d0-4e29-8618-3e24953a1913#ref=rss)
+### händler
+
+* [https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren](https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren-a-697998fc-dd63-4b8f-aca6-61d9192a346d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren](https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren-a-e4723d6b-cc0b-45b4-a293-9ddf4f286c3d#ref=rss)
+### rabattschlachten
+
+* [https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren](https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren-a-697998fc-dd63-4b8f-aca6-61d9192a346d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren](https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren-a-e4723d6b-cc0b-45b4-a293-9ddf4f286c3d#ref=rss)
+### verlieren
+
+* [https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren](https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren-a-697998fc-dd63-4b8f-aca6-61d9192a346d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren](https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren-a-e4723d6b-cc0b-45b4-a293-9ddf4f286c3d#ref=rss)
+### gigantischer
+
+* [https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren](https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren-a-697998fc-dd63-4b8f-aca6-61d9192a346d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren](https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren-a-e4723d6b-cc0b-45b4-a293-9ddf4f286c3d#ref=rss)
+### umsatz
+
+* [https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren](https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren-a-697998fc-dd63-4b8f-aca6-61d9192a346d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren](https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren-a-e4723d6b-cc0b-45b4-a293-9ddf4f286c3d#ref=rss)
+### erfolgsgeschäft
+
+* [https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren](https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren-a-697998fc-dd63-4b8f-aca6-61d9192a346d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren](https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren-a-e4723d6b-cc0b-45b4-a293-9ddf4f286c3d#ref=rss)
+### spiegelredakteurin
+
+* [https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren](https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren-a-697998fc-dd63-4b8f-aca6-61d9192a346d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren](https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren-a-e4723d6b-cc0b-45b4-a293-9ddf4f286c3d#ref=rss)
+### kristina
+
+* [https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren](https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren-a-697998fc-dd63-4b8f-aca6-61d9192a346d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren](https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren-a-e4723d6b-cc0b-45b4-a293-9ddf4f286c3d#ref=rss)
+### gnirke
+
+* [https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren](https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren-a-697998fc-dd63-4b8f-aca6-61d9192a346d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren](https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren-a-e4723d6b-cc0b-45b4-a293-9ddf4f286c3d#ref=rss)
+### schiefläuft
+
+* [https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren](https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren-a-697998fc-dd63-4b8f-aca6-61d9192a346d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren](https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren-a-e4723d6b-cc0b-45b4-a293-9ddf4f286c3d#ref=rss)
+### zukunft
+
+* [https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren](https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren-a-697998fc-dd63-4b8f-aca6-61d9192a346d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren](https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren-a-e4723d6b-cc0b-45b4-a293-9ddf4f286c3d#ref=rss)
+### rabattschlacht
+
+* [https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren](https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren-a-697998fc-dd63-4b8f-aca6-61d9192a346d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren](https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren-a-e4723d6b-cc0b-45b4-a293-9ddf4f286c3d#ref=rss)
+### kis
+
+* [https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren](https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren-a-697998fc-dd63-4b8f-aca6-61d9192a346d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren](https://www.spiegel.de/wirtschaft/service/black-friday-warum-haendler-bei-rabattschlachten-millionen-euro-verlieren-a-e4723d6b-cc0b-45b4-a293-9ddf4f286c3d#ref=rss)
+### münchen
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-max-eberl-will-joshua-kimmich-zum-kapitaen-machen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-max-eberl-will-joshua-kimmich-zum-kapitaen-machen-a-eba1876b-5724-4860-aeb6-aa29156a1ffa#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-harry-kane-vom-fc-bayern-muenchen-antwortet-auf-die-kritik-von-dietmar-hamann](https://www.spiegel.de/sport/fussball/champions-league-harry-kane-vom-fc-bayern-muenchen-antwortet-auf-die-kritik-von-dietmar-hamann-a-b7dbf875-35c9-4db7-bfc7-0fbe9f1df990#ref=rss)
+### max
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-max-eberl-will-joshua-kimmich-zum-kapitaen-machen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-max-eberl-will-joshua-kimmich-zum-kapitaen-machen-a-eba1876b-5724-4860-aeb6-aa29156a1ffa#ref=rss)
+### eberl
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-max-eberl-will-joshua-kimmich-zum-kapitaen-machen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-max-eberl-will-joshua-kimmich-zum-kapitaen-machen-a-eba1876b-5724-4860-aeb6-aa29156a1ffa#ref=rss)
+### joshua
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-max-eberl-will-joshua-kimmich-zum-kapitaen-machen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-max-eberl-will-joshua-kimmich-zum-kapitaen-machen-a-eba1876b-5724-4860-aeb6-aa29156a1ffa#ref=rss)
+### kimmich
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-max-eberl-will-joshua-kimmich-zum-kapitaen-machen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-max-eberl-will-joshua-kimmich-zum-kapitaen-machen-a-eba1876b-5724-4860-aeb6-aa29156a1ffa#ref=rss)
+### entscheidung
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-max-eberl-will-joshua-kimmich-zum-kapitaen-machen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-max-eberl-will-joshua-kimmich-zum-kapitaen-machen-a-eba1876b-5724-4860-aeb6-aa29156a1ffa#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-im-nahen-osten-israel-greift-kurz-vor-moeglicher-waffenruhe-ziele-in-beirut-an](https://www.spiegel.de/ausland/krieg-im-nahen-osten-israel-greift-kurz-vor-moeglicher-waffenruhe-ziele-in-beirut-an-a-a5753979-c791-436d-bf17-5586e0a55608#ref=rss)
+### miersch
+
+* [https://www.spiegel.de/ausland/heizungsgesetz-mattias-miersch-nennt-aeusserung-von-robert-habeck-unhaltbar](https://www.spiegel.de/ausland/heizungsgesetz-mattias-miersch-nennt-aeusserung-von-robert-habeck-unhaltbar-a-6a7d3330-ba6e-4da2-a607-de27ce5774a2#ref=rss)
+### nennt
+
+* [https://www.spiegel.de/ausland/heizungsgesetz-mattias-miersch-nennt-aeusserung-von-robert-habeck-unhaltbar](https://www.spiegel.de/ausland/heizungsgesetz-mattias-miersch-nennt-aeusserung-von-robert-habeck-unhaltbar-a-6a7d3330-ba6e-4da2-a607-de27ce5774a2#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-harry-kane-vom-fc-bayern-muenchen-antwortet-auf-die-kritik-von-dietmar-hamann](https://www.spiegel.de/sport/fussball/champions-league-harry-kane-vom-fc-bayern-muenchen-antwortet-auf-die-kritik-von-dietmar-hamann-a-b7dbf875-35c9-4db7-bfc7-0fbe9f1df990#ref=rss)
+### habeck
+
+* [https://www.spiegel.de/ausland/heizungsgesetz-mattias-miersch-nennt-aeusserung-von-robert-habeck-unhaltbar](https://www.spiegel.de/ausland/heizungsgesetz-mattias-miersch-nennt-aeusserung-von-robert-habeck-unhaltbar-a-6a7d3330-ba6e-4da2-a607-de27ce5774a2#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/wissenschaft/technik/ukraine-setzt-verstaerkt-auf-eigene-marschflugkoerper-was-bringt-das](https://www.spiegel.de/wissenschaft/technik/ukraine-setzt-verstaerkt-auf-eigene-marschflugkoerper-was-bringt-das-a-ed563a3f-a7d7-439e-8cf9-199ebe046a5e#ref=rss)
+### setzt
+
+* [https://www.spiegel.de/wissenschaft/technik/ukraine-setzt-verstaerkt-auf-eigene-marschflugkoerper-was-bringt-das](https://www.spiegel.de/wissenschaft/technik/ukraine-setzt-verstaerkt-auf-eigene-marschflugkoerper-was-bringt-das-a-ed563a3f-a7d7-439e-8cf9-199ebe046a5e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/diversitaet-fussballverband-in-england-setzt-sich-quoten-fuer-nicht-weisse-trainer](https://www.spiegel.de/sport/fussball/diversitaet-fussballverband-in-england-setzt-sich-quoten-fuer-nicht-weisse-trainer-a-b3962149-ae8e-4724-bee5-2c6b11916837#ref=rss)
+### marschflugkörper
+
+* [https://www.spiegel.de/wissenschaft/technik/ukraine-setzt-verstaerkt-auf-eigene-marschflugkoerper-was-bringt-das](https://www.spiegel.de/wissenschaft/technik/ukraine-setzt-verstaerkt-auf-eigene-marschflugkoerper-was-bringt-das-a-ed563a3f-a7d7-439e-8cf9-199ebe046a5e#ref=rss)
+### 100
+
+* [https://www.spiegel.de/wissenschaft/technik/ukraine-setzt-verstaerkt-auf-eigene-marschflugkoerper-was-bringt-das](https://www.spiegel.de/wissenschaft/technik/ukraine-setzt-verstaerkt-auf-eigene-marschflugkoerper-was-bringt-das-a-ed563a3f-a7d7-439e-8cf9-199ebe046a5e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-harry-kane-vom-fc-bayern-muenchen-antwortet-auf-die-kritik-von-dietmar-hamann](https://www.spiegel.de/sport/fussball/champions-league-harry-kane-vom-fc-bayern-muenchen-antwortet-auf-die-kritik-von-dietmar-hamann-a-b7dbf875-35c9-4db7-bfc7-0fbe9f1df990#ref=rss)
+### diversität
+
+* [https://www.spiegel.de/sport/fussball/diversitaet-fussballverband-in-england-setzt-sich-quoten-fuer-nicht-weisse-trainer](https://www.spiegel.de/sport/fussball/diversitaet-fussballverband-in-england-setzt-sich-quoten-fuer-nicht-weisse-trainer-a-b3962149-ae8e-4724-bee5-2c6b11916837#ref=rss)
+### weiße
+
+* [https://www.spiegel.de/sport/fussball/diversitaet-fussballverband-in-england-setzt-sich-quoten-fuer-nicht-weisse-trainer](https://www.spiegel.de/sport/fussball/diversitaet-fussballverband-in-england-setzt-sich-quoten-fuer-nicht-weisse-trainer-a-b3962149-ae8e-4724-bee5-2c6b11916837#ref=rss)
+### fußball
+
+* [https://www.spiegel.de/sport/fussball/diversitaet-fussballverband-in-england-setzt-sich-quoten-fuer-nicht-weisse-trainer](https://www.spiegel.de/sport/fussball/diversitaet-fussballverband-in-england-setzt-sich-quoten-fuer-nicht-weisse-trainer-a-b3962149-ae8e-4724-bee5-2c6b11916837#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-jan-furtok-ex-stuermer-fuer-hamburger-sv-und-eintracht-frankfurt-ist-tot](https://www.spiegel.de/sport/fussball/fussball-jan-furtok-ex-stuermer-fuer-hamburger-sv-und-eintracht-frankfurt-ist-tot-a-722f2443-c742-4b58-a381-f9eb7f243c85#ref=rss)
+### neuer
+
+* [https://www.spiegel.de/panorama/leute/ana-de-armas-angeblicher-neuer-freund-veraergert-exilkubaner](https://www.spiegel.de/panorama/leute/ana-de-armas-angeblicher-neuer-freund-veraergert-exilkubaner-a-8c9e402b-d14b-4109-abe5-e886b5830a64#ref=rss)
+* [https://www.spiegel.de/sport/pferdesport-martin-richenhagen-wird-neuer-praesident-der-deutschen-reiterlichen-vereinigung-fn](https://www.spiegel.de/sport/pferdesport-martin-richenhagen-wird-neuer-praesident-der-deutschen-reiterlichen-vereinigung-fn-a-c3425c62-51f9-4fd9-9f57-7d30112aeb5b#ref=rss)
+### seite
+
+* [https://www.spiegel.de/panorama/leute/ana-de-armas-angeblicher-neuer-freund-veraergert-exilkubaner](https://www.spiegel.de/panorama/leute/ana-de-armas-angeblicher-neuer-freund-veraergert-exilkubaner-a-8c9e402b-d14b-4109-abe5-e886b5830a64#ref=rss)
+* [https://www.spiegel.de/sport/pferdesport-martin-richenhagen-wird-neuer-praesident-der-deutschen-reiterlichen-vereinigung-fn](https://www.spiegel.de/sport/pferdesport-martin-richenhagen-wird-neuer-praesident-der-deutschen-reiterlichen-vereinigung-fn-a-c3425c62-51f9-4fd9-9f57-7d30112aeb5b#ref=rss)
+### berater
+
+* [https://www.spiegel.de/panorama/leute/ana-de-armas-angeblicher-neuer-freund-veraergert-exilkubaner](https://www.spiegel.de/panorama/leute/ana-de-armas-angeblicher-neuer-freund-veraergert-exilkubaner-a-8c9e402b-d14b-4109-abe5-e886b5830a64#ref=rss)
+* [https://www.spiegel.de/sport/pferdesport-martin-richenhagen-wird-neuer-praesident-der-deutschen-reiterlichen-vereinigung-fn](https://www.spiegel.de/sport/pferdesport-martin-richenhagen-wird-neuer-praesident-der-deutschen-reiterlichen-vereinigung-fn-a-c3425c62-51f9-4fd9-9f57-7d30112aeb5b#ref=rss)
+### elon
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-olaf-scholz-elon-musk-angela-merkel-konsum-weihnachten](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-olaf-scholz-elon-musk-angela-merkel-konsum-weihnachten-a-af55da35-2193-468a-9b94-1b19c7c60a58#ref=rss)
+### musk
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-olaf-scholz-elon-musk-angela-merkel-konsum-weihnachten](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-olaf-scholz-elon-musk-angela-merkel-konsum-weihnachten-a-af55da35-2193-468a-9b94-1b19c7c60a58#ref=rss)
+### angela
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-olaf-scholz-elon-musk-angela-merkel-konsum-weihnachten](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-olaf-scholz-elon-musk-angela-merkel-konsum-weihnachten-a-af55da35-2193-468a-9b94-1b19c7c60a58#ref=rss)
+### merkel
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-olaf-scholz-elon-musk-angela-merkel-konsum-weihnachten](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-olaf-scholz-elon-musk-angela-merkel-konsum-weihnachten-a-af55da35-2193-468a-9b94-1b19c7c60a58#ref=rss)
+### prozent
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-olaf-scholz-elon-musk-angela-merkel-konsum-weihnachten](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-olaf-scholz-elon-musk-angela-merkel-konsum-weihnachten-a-af55da35-2193-468a-9b94-1b19c7c60a58#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/depression-rund-45-prozent-der-deutschen-direkt-oder-indirekt-betroffen](https://www.spiegel.de/wissenschaft/medizin/depression-rund-45-prozent-der-deutschen-direkt-oder-indirekt-betroffen-a-c2390bbf-b819-4688-87bf-263eb40e0644#ref=rss)
+### uno
+
+* [https://www.spiegel.de/ausland/aids-programm-der-uno-zahl-der-hiv-infektionen-auf-historischem-tiefstand](https://www.spiegel.de/ausland/aids-programm-der-uno-zahl-der-hiv-infektionen-auf-historischem-tiefstand-a-502dd80c-1a60-4bb1-9b7f-9ea046076756#ref=rss)
+### dietmar
+
+* [https://www.spiegel.de/sport/fussball/champions-league-harry-kane-vom-fc-bayern-muenchen-antwortet-auf-die-kritik-von-dietmar-hamann](https://www.spiegel.de/sport/fussball/champions-league-harry-kane-vom-fc-bayern-muenchen-antwortet-auf-die-kritik-von-dietmar-hamann-a-b7dbf875-35c9-4db7-bfc7-0fbe9f1df990#ref=rss)
+### hamann
+
+* [https://www.spiegel.de/sport/fussball/champions-league-harry-kane-vom-fc-bayern-muenchen-antwortet-auf-die-kritik-von-dietmar-hamann](https://www.spiegel.de/sport/fussball/champions-league-harry-kane-vom-fc-bayern-muenchen-antwortet-auf-die-kritik-von-dietmar-hamann-a-b7dbf875-35c9-4db7-bfc7-0fbe9f1df990#ref=rss)
+### drei
+
+* [https://www.spiegel.de/politik/deutschland/ampel-bilanz-auf-klimakonferenzen-drei-harte-jahre-fuer-annalena-baerbock](https://www.spiegel.de/politik/deutschland/ampel-bilanz-auf-klimakonferenzen-drei-harte-jahre-fuer-annalena-baerbock-a-fdd29259-f6f5-4aa0-939e-b6e4c975474b#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/politik/deutschland/ampel-bilanz-auf-klimakonferenzen-drei-harte-jahre-fuer-annalena-baerbock](https://www.spiegel.de/politik/deutschland/ampel-bilanz-auf-klimakonferenzen-drei-harte-jahre-fuer-annalena-baerbock-a-fdd29259-f6f5-4aa0-939e-b6e4c975474b#ref=rss)
+### bildhauer
+
+* [https://www.spiegel.de/sport/fussball/statuen-von-sportlern-ein-bildhauer-sagt-wieso-athleten-in-bronze-oft-so-komisch-aussehen](https://www.spiegel.de/sport/fussball/statuen-von-sportlern-ein-bildhauer-sagt-wieso-athleten-in-bronze-oft-so-komisch-aussehen-a-5f8d5e75-d4f1-4603-a82b-37924d3ec01f#ref=rss)
+### bronze
+
+* [https://www.spiegel.de/sport/fussball/statuen-von-sportlern-ein-bildhauer-sagt-wieso-athleten-in-bronze-oft-so-komisch-aussehen](https://www.spiegel.de/sport/fussball/statuen-von-sportlern-ein-bildhauer-sagt-wieso-athleten-in-bronze-oft-so-komisch-aussehen-a-5f8d5e75-d4f1-4603-a82b-37924d3ec01f#ref=rss)
+### spott
+
+* [https://www.spiegel.de/sport/fussball/statuen-von-sportlern-ein-bildhauer-sagt-wieso-athleten-in-bronze-oft-so-komisch-aussehen](https://www.spiegel.de/sport/fussball/statuen-von-sportlern-ein-bildhauer-sagt-wieso-athleten-in-bronze-oft-so-komisch-aussehen-a-5f8d5e75-d4f1-4603-a82b-37924d3ec01f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-erntet-spott-fuer-aussage-er-sei-auf-die-strasse-gesetzt-worden](https://www.spiegel.de/politik/deutschland/christian-lindner-erntet-spott-fuer-aussage-er-sei-auf-die-strasse-gesetzt-worden-a-a1a5962b-c90f-4199-aa53-6df9bfa87ac3#ref=rss)
+### bedeutet
+
+* [https://www.spiegel.de/ausland/donald-trump-seine-wiederwahl-bedeutet-in-deutschland-den-abschied-von-einem-lebensgefuehl](https://www.spiegel.de/ausland/donald-trump-seine-wiederwahl-bedeutet-in-deutschland-den-abschied-von-einem-lebensgefuehl-a-2b962e80-3253-47e1-a834-16925917f4d0#ref=rss)
+* [https://www.spiegel.de/ausland/israel-wie-man-israel-unterstuetzen-kann-ohne-sich-hinter-die-taten-von-benjamin-netanyahu-zu-stellen](https://www.spiegel.de/ausland/israel-wie-man-israel-unterstuetzen-kann-ohne-sich-hinter-die-taten-von-benjamin-netanyahu-zu-stellen-a-702ce30f-2612-4465-8bb5-4f410281fd66#ref=rss)
+### abschied
+
+* [https://www.spiegel.de/ausland/donald-trump-seine-wiederwahl-bedeutet-in-deutschland-den-abschied-von-einem-lebensgefuehl](https://www.spiegel.de/ausland/donald-trump-seine-wiederwahl-bedeutet-in-deutschland-den-abschied-von-einem-lebensgefuehl-a-2b962e80-3253-47e1-a834-16925917f4d0#ref=rss)
+### lebensgefühl
+
+* [https://www.spiegel.de/ausland/donald-trump-seine-wiederwahl-bedeutet-in-deutschland-den-abschied-von-einem-lebensgefuehl](https://www.spiegel.de/ausland/donald-trump-seine-wiederwahl-bedeutet-in-deutschland-den-abschied-von-einem-lebensgefuehl-a-2b962e80-3253-47e1-a834-16925917f4d0#ref=rss)
+### tricks
+
+* [https://www.spiegel.de/netzwelt/web/ihr-computer-wurde-gesperrt-support-scam-mit-neuen-tricks-wiederbelebt](https://www.spiegel.de/netzwelt/web/ihr-computer-wurde-gesperrt-support-scam-mit-neuen-tricks-wiederbelebt-a-ee15fee9-0f19-4162-8752-f00ccd413721#ref=rss)
+### kriminelle
+
+* [https://www.spiegel.de/netzwelt/web/ihr-computer-wurde-gesperrt-support-scam-mit-neuen-tricks-wiederbelebt](https://www.spiegel.de/netzwelt/web/ihr-computer-wurde-gesperrt-support-scam-mit-neuen-tricks-wiederbelebt-a-ee15fee9-0f19-4162-8752-f00ccd413721#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/sperrnotruf-betrug-die-116-116-ruft-an-vorsicht](https://www.spiegel.de/netzwelt/web/sperrnotruf-betrug-die-116-116-ruft-an-vorsicht-a-38cc098b-eec3-4b27-858b-3201baa0a051#ref=rss)
+### todesopfer
+
+* [https://www.spiegel.de/panorama/aegypten-erste-todesopfer-nach-schiffsunglueck-im-roten-meer-geborgen](https://www.spiegel.de/panorama/aegypten-erste-todesopfer-nach-schiffsunglueck-im-roten-meer-geborgen-a-37bed1b3-820b-4a8e-a8fa-12321b801c73#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/panorama/aegypten-erste-todesopfer-nach-schiffsunglueck-im-roten-meer-geborgen](https://www.spiegel.de/panorama/aegypten-erste-todesopfer-nach-schiffsunglueck-im-roten-meer-geborgen-a-37bed1b3-820b-4a8e-a8fa-12321b801c73#ref=rss)
+* [https://www.spiegel.de/sport/pferdesport-martin-richenhagen-wird-neuer-praesident-der-deutschen-reiterlichen-vereinigung-fn](https://www.spiegel.de/sport/pferdesport-martin-richenhagen-wird-neuer-praesident-der-deutschen-reiterlichen-vereinigung-fn-a-c3425c62-51f9-4fd9-9f57-7d30112aeb5b#ref=rss)
+### charlotte
+
+* [https://www.spiegel.de/panorama/leute/charlotte-wuerdig-schenkt-ex-mann-sido-zu-weihnachten-ein-weiteres-jahr-freundschaft](https://www.spiegel.de/panorama/leute/charlotte-wuerdig-schenkt-ex-mann-sido-zu-weihnachten-ein-weiteres-jahr-freundschaft-a-d0e59491-2fe5-4048-b403-a7fd9f0a91c4#ref=rss)
+### würdig
+
+* [https://www.spiegel.de/panorama/leute/charlotte-wuerdig-schenkt-ex-mann-sido-zu-weihnachten-ein-weiteres-jahr-freundschaft](https://www.spiegel.de/panorama/leute/charlotte-wuerdig-schenkt-ex-mann-sido-zu-weihnachten-ein-weiteres-jahr-freundschaft-a-d0e59491-2fe5-4048-b403-a7fd9f0a91c4#ref=rss)
+### waffenruhe
+
+* [https://www.spiegel.de/ausland/krieg-im-nahen-osten-israel-greift-kurz-vor-moeglicher-waffenruhe-ziele-in-beirut-an](https://www.spiegel.de/ausland/krieg-im-nahen-osten-israel-greift-kurz-vor-moeglicher-waffenruhe-ziele-in-beirut-an-a-a5753979-c791-436d-bf17-5586e0a55608#ref=rss)
+### ziele
+
+* [https://www.spiegel.de/ausland/krieg-im-nahen-osten-israel-greift-kurz-vor-moeglicher-waffenruhe-ziele-in-beirut-an](https://www.spiegel.de/ausland/krieg-im-nahen-osten-israel-greift-kurz-vor-moeglicher-waffenruhe-ziele-in-beirut-an-a-a5753979-c791-436d-bf17-5586e0a55608#ref=rss)
+### jan
+
+* [https://www.spiegel.de/sport/fussball/fussball-jan-furtok-ex-stuermer-fuer-hamburger-sv-und-eintracht-frankfurt-ist-tot](https://www.spiegel.de/sport/fussball/fussball-jan-furtok-ex-stuermer-fuer-hamburger-sv-und-eintracht-frankfurt-ist-tot-a-722f2443-c742-4b58-a381-f9eb7f243c85#ref=rss)
+### furtok
+
+* [https://www.spiegel.de/sport/fussball/fussball-jan-furtok-ex-stuermer-fuer-hamburger-sv-und-eintracht-frankfurt-ist-tot](https://www.spiegel.de/sport/fussball/fussball-jan-furtok-ex-stuermer-fuer-hamburger-sv-und-eintracht-frankfurt-ist-tot-a-722f2443-c742-4b58-a381-f9eb7f243c85#ref=rss)
+### hamburger
+
+* [https://www.spiegel.de/sport/fussball/fussball-jan-furtok-ex-stuermer-fuer-hamburger-sv-und-eintracht-frankfurt-ist-tot](https://www.spiegel.de/sport/fussball/fussball-jan-furtok-ex-stuermer-fuer-hamburger-sv-und-eintracht-frankfurt-ist-tot-a-722f2443-c742-4b58-a381-f9eb7f243c85#ref=rss)
+### sv
+
+* [https://www.spiegel.de/sport/fussball/fussball-jan-furtok-ex-stuermer-fuer-hamburger-sv-und-eintracht-frankfurt-ist-tot](https://www.spiegel.de/sport/fussball/fussball-jan-furtok-ex-stuermer-fuer-hamburger-sv-und-eintracht-frankfurt-ist-tot-a-722f2443-c742-4b58-a381-f9eb7f243c85#ref=rss)
+### eintracht
+
+* [https://www.spiegel.de/sport/fussball/fussball-jan-furtok-ex-stuermer-fuer-hamburger-sv-und-eintracht-frankfurt-ist-tot](https://www.spiegel.de/sport/fussball/fussball-jan-furtok-ex-stuermer-fuer-hamburger-sv-und-eintracht-frankfurt-ist-tot-a-722f2443-c742-4b58-a381-f9eb7f243c85#ref=rss)
+### frankfurt
+
+* [https://www.spiegel.de/sport/fussball/fussball-jan-furtok-ex-stuermer-fuer-hamburger-sv-und-eintracht-frankfurt-ist-tot](https://www.spiegel.de/sport/fussball/fussball-jan-furtok-ex-stuermer-fuer-hamburger-sv-und-eintracht-frankfurt-ist-tot-a-722f2443-c742-4b58-a381-f9eb7f243c85#ref=rss)
+### spiekeroog
+
+* [https://www.spiegel.de/panorama/justiz/nordsee-kapitaen-eines-fischkutters-wegen-koks-schmuggel-vor-insel-spiekeroog-verurteilt](https://www.spiegel.de/panorama/justiz/nordsee-kapitaen-eines-fischkutters-wegen-koks-schmuggel-vor-insel-spiekeroog-verurteilt-a-b1df637b-f584-45be-b976-9aa7c38c4cd9#ref=rss)
+### komplizen
+
+* [https://www.spiegel.de/panorama/justiz/nordsee-kapitaen-eines-fischkutters-wegen-koks-schmuggel-vor-insel-spiekeroog-verurteilt](https://www.spiegel.de/panorama/justiz/nordsee-kapitaen-eines-fischkutters-wegen-koks-schmuggel-vor-insel-spiekeroog-verurteilt-a-b1df637b-f584-45be-b976-9aa7c38c4cd9#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/raf-neue-durchsuchungen-im-fall-fluechtiger-ex-terroristen](https://www.spiegel.de/panorama/justiz/raf-neue-durchsuchungen-im-fall-fluechtiger-ex-terroristen-a-73cb5b4f-3dbc-4f61-881f-9e7e586b9fb6#ref=rss)
+### politikwissenschaftler
+
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-als-kanzlerkandidat-politikwissenschaftler-zeigt-auf-was-die-spd-so-erreichen-kann](https://www.spiegel.de/politik/deutschland/olaf-scholz-als-kanzlerkandidat-politikwissenschaftler-zeigt-auf-was-die-spd-so-erreichen-kann-a-4be730fb-5032-4e0b-ae6b-a6950cf2c6ac#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-als-kanzlerkandidat-politikwissenschaftler-zeigt-auf-was-die-spd-so-erreichen-kann](https://www.spiegel.de/politik/deutschland/olaf-scholz-als-kanzlerkandidat-politikwissenschaftler-zeigt-auf-was-die-spd-so-erreichen-kann-a-4be730fb-5032-4e0b-ae6b-a6950cf2c6ac#ref=rss)
+* [https://www.spiegel.de/ausland/israel-wie-man-israel-unterstuetzen-kann-ohne-sich-hinter-die-taten-von-benjamin-netanyahu-zu-stellen](https://www.spiegel.de/ausland/israel-wie-man-israel-unterstuetzen-kann-ohne-sich-hinter-die-taten-von-benjamin-netanyahu-zu-stellen-a-702ce30f-2612-4465-8bb5-4f410281fd66#ref=rss)
+### statt
+
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-als-kanzlerkandidat-politikwissenschaftler-zeigt-auf-was-die-spd-so-erreichen-kann](https://www.spiegel.de/politik/deutschland/olaf-scholz-als-kanzlerkandidat-politikwissenschaftler-zeigt-auf-was-die-spd-so-erreichen-kann-a-4be730fb-5032-4e0b-ae6b-a6950cf2c6ac#ref=rss)
+### lindner
+
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-erntet-spott-fuer-aussage-er-sei-auf-die-strasse-gesetzt-worden](https://www.spiegel.de/politik/deutschland/christian-lindner-erntet-spott-fuer-aussage-er-sei-auf-die-strasse-gesetzt-worden-a-a1a5962b-c90f-4199-aa53-6df9bfa87ac3#ref=rss)
+### unterstützen
+
+* [https://www.spiegel.de/ausland/israel-wie-man-israel-unterstuetzen-kann-ohne-sich-hinter-die-taten-von-benjamin-netanyahu-zu-stellen](https://www.spiegel.de/ausland/israel-wie-man-israel-unterstuetzen-kann-ohne-sich-hinter-die-taten-von-benjamin-netanyahu-zu-stellen-a-702ce30f-2612-4465-8bb5-4f410281fd66#ref=rss)
+### benjamin
+
+* [https://www.spiegel.de/ausland/israel-wie-man-israel-unterstuetzen-kann-ohne-sich-hinter-die-taten-von-benjamin-netanyahu-zu-stellen](https://www.spiegel.de/ausland/israel-wie-man-israel-unterstuetzen-kann-ohne-sich-hinter-die-taten-von-benjamin-netanyahu-zu-stellen-a-702ce30f-2612-4465-8bb5-4f410281fd66#ref=rss)
+### netanyahu
+
+* [https://www.spiegel.de/ausland/israel-wie-man-israel-unterstuetzen-kann-ohne-sich-hinter-die-taten-von-benjamin-netanyahu-zu-stellen](https://www.spiegel.de/ausland/israel-wie-man-israel-unterstuetzen-kann-ohne-sich-hinter-die-taten-von-benjamin-netanyahu-zu-stellen-a-702ce30f-2612-4465-8bb5-4f410281fd66#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/panorama/justiz/raf-neue-durchsuchungen-im-fall-fluechtiger-ex-terroristen](https://www.spiegel.de/panorama/justiz/raf-neue-durchsuchungen-im-fall-fluechtiger-ex-terroristen-a-73cb5b4f-3dbc-4f61-881f-9e7e586b9fb6#ref=rss)
+### martin
+
+* [https://www.spiegel.de/sport/pferdesport-martin-richenhagen-wird-neuer-praesident-der-deutschen-reiterlichen-vereinigung-fn](https://www.spiegel.de/sport/pferdesport-martin-richenhagen-wird-neuer-praesident-der-deutschen-reiterlichen-vereinigung-fn-a-c3425c62-51f9-4fd9-9f57-7d30112aeb5b#ref=rss)
+### richenhagen
+
+* [https://www.spiegel.de/sport/pferdesport-martin-richenhagen-wird-neuer-praesident-der-deutschen-reiterlichen-vereinigung-fn](https://www.spiegel.de/sport/pferdesport-martin-richenhagen-wird-neuer-praesident-der-deutschen-reiterlichen-vereinigung-fn-a-c3425c62-51f9-4fd9-9f57-7d30112aeb5b#ref=rss)
+### vereinigung
+
+* [https://www.spiegel.de/sport/pferdesport-martin-richenhagen-wird-neuer-praesident-der-deutschen-reiterlichen-vereinigung-fn](https://www.spiegel.de/sport/pferdesport-martin-richenhagen-wird-neuer-praesident-der-deutschen-reiterlichen-vereinigung-fn-a-c3425c62-51f9-4fd9-9f57-7d30112aeb5b#ref=rss)
+### philippinen
+
+* [https://www.spiegel.de/ausland/philippinen-sara-duterte-vorgeladen-morddrohung-gegen-praesident-marcos-jr](https://www.spiegel.de/ausland/philippinen-sara-duterte-vorgeladen-morddrohung-gegen-praesident-marcos-jr-a-682a2810-49f6-4059-b54e-d7490de3b4af#ref=rss)
+### sara
+
+* [https://www.spiegel.de/ausland/philippinen-sara-duterte-vorgeladen-morddrohung-gegen-praesident-marcos-jr](https://www.spiegel.de/ausland/philippinen-sara-duterte-vorgeladen-morddrohung-gegen-praesident-marcos-jr-a-682a2810-49f6-4059-b54e-d7490de3b4af#ref=rss)
+### duterte
+
+* [https://www.spiegel.de/ausland/philippinen-sara-duterte-vorgeladen-morddrohung-gegen-praesident-marcos-jr](https://www.spiegel.de/ausland/philippinen-sara-duterte-vorgeladen-morddrohung-gegen-praesident-marcos-jr-a-682a2810-49f6-4059-b54e-d7490de3b4af#ref=rss)
+### marcos
+
+* [https://www.spiegel.de/ausland/philippinen-sara-duterte-vorgeladen-morddrohung-gegen-praesident-marcos-jr](https://www.spiegel.de/ausland/philippinen-sara-duterte-vorgeladen-morddrohung-gegen-praesident-marcos-jr-a-682a2810-49f6-4059-b54e-d7490de3b4af#ref=rss)
+### jr
+
+* [https://www.spiegel.de/ausland/philippinen-sara-duterte-vorgeladen-morddrohung-gegen-praesident-marcos-jr](https://www.spiegel.de/ausland/philippinen-sara-duterte-vorgeladen-morddrohung-gegen-praesident-marcos-jr-a-682a2810-49f6-4059-b54e-d7490de3b4af#ref=rss)
+### einwanderer
+
+* [https://www.spiegel.de/ausland/donald-trump-sein-scharfer-migrations-kurs-bedroht-auch-langjaehrige-einwanderer](https://www.spiegel.de/ausland/donald-trump-sein-scharfer-migrations-kurs-bedroht-auch-langjaehrige-einwanderer-a-be2e39e5-04d0-4e29-8618-3e24953a1913#ref=rss)
+### klaus
+
+* [https://www.spiegel.de/politik/deutschland/klaus-esser-razzia-bei-afd-abgeordnetem-wegen-verdachts-gefaelschter-dokumente](https://www.spiegel.de/politik/deutschland/klaus-esser-razzia-bei-afd-abgeordnetem-wegen-verdachts-gefaelschter-dokumente-a-cbeb2c6e-3b7c-42df-9c9b-7e3aed034470#ref=rss)
+### esser
+
+* [https://www.spiegel.de/politik/deutschland/klaus-esser-razzia-bei-afd-abgeordnetem-wegen-verdachts-gefaelschter-dokumente](https://www.spiegel.de/politik/deutschland/klaus-esser-razzia-bei-afd-abgeordnetem-wegen-verdachts-gefaelschter-dokumente-a-cbeb2c6e-3b7c-42df-9c9b-7e3aed034470#ref=rss)
+### gefälschter
+
+* [https://www.spiegel.de/politik/deutschland/klaus-esser-razzia-bei-afd-abgeordnetem-wegen-verdachts-gefaelschter-dokumente](https://www.spiegel.de/politik/deutschland/klaus-esser-razzia-bei-afd-abgeordnetem-wegen-verdachts-gefaelschter-dokumente-a-cbeb2c6e-3b7c-42df-9c9b-7e3aed034470#ref=rss)
 
