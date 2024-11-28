@@ -4,282 +4,467 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### menschen
+### prozess
 
-* [https://www.spiegel.de/panorama/justiz/berlin-palliativarzt-soll-acht-menschen-getoetet-haben](https://www.spiegel.de/panorama/justiz/berlin-palliativarzt-soll-acht-menschen-getoetet-haben-a-c8925833-f554-4bb0-8d50-d734d0a72bb0#ref=rss)
-* [https://www.spiegel.de/panorama/suedkorea-mehrere-menschen-sterben-bei-heftigem-schneefall](https://www.spiegel.de/panorama/suedkorea-mehrere-menschen-sterben-bei-heftigem-schneefall-a-ac38ceef-5089-48f2-8969-54d8e423a000#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-hunderttausende-ohne-strom-nach-russischen-luftangriffen](https://www.spiegel.de/ausland/ukraine-krieg-hunderttausende-ohne-strom-nach-russischen-luftangriffen-a-6749423c-10eb-45b2-b51a-6994ce1c9026#ref=rss)
-* [https://www.spiegel.de/partnerschaft/julia-roberts-und-richard-gere-der-groesste-fehler-in-beziehungen](https://www.spiegel.de/partnerschaft/julia-roberts-und-richard-gere-der-groesste-fehler-in-beziehungen-a-9e7d3858-a38a-4c69-8511-450ff637aac3#ref=rss)
-### usa
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast-a-7a472952-fece-49f7-b726-edb7cbb26167#ref=rss)
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-a-3b87223c-21ce-40c6-87f3-55d9837f83f3#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/tod-in-suedafrika-37-jaehriger-wegen-raubueberfall-auf-deutschen-touristen-schuldig-gesprochen](https://www.spiegel.de/panorama/justiz/tod-in-suedafrika-37-jaehriger-wegen-raubueberfall-auf-deutschen-touristen-schuldig-gesprochen-a-4621bba8-11a6-41c3-9a8a-6784e823b180#ref=rss)
+* [https://www.spiegel.de/kultur/tv/charlie-rose-frueherer-cbs-moderator-erzielt-einigung-bei-belaestigungsklage](https://www.spiegel.de/kultur/tv/charlie-rose-frueherer-cbs-moderator-erzielt-einigung-bei-belaestigungsklage-a-4a820532-c092-43d5-9eac-133bb6e3caa1#ref=rss)
+* [https://www.spiegel.de/panorama/it-spezialist-gesteht-spionage-fuer-russischen-agenten-jan-marsalek](https://www.spiegel.de/panorama/it-spezialist-gesteht-spionage-fuer-russischen-agenten-jan-marsalek-a-a1718d73-c457-47ef-99cd-782560c77367#ref=rss)
+### fc
 
-* [https://www.spiegel.de/wirtschaft/soziales/christine-lagarde-ezb-praesidentin-warnt-vor-handelskrieg-mit-den-usa](https://www.spiegel.de/wirtschaft/soziales/christine-lagarde-ezb-praesidentin-warnt-vor-handelskrieg-mit-den-usa-a-8f275b40-e1ef-4fe0-9c86-d3fe46850f00#ref=rss)
-* [https://www.spiegel.de/ausland/usa-drei-us-buerger-aus-haft-in-china-entlassen](https://www.spiegel.de/ausland/usa-drei-us-buerger-aus-haft-in-china-entlassen-a-1ba34fcc-3b70-4b25-904d-9454e06726be#ref=rss)
-* [https://www.spiegel.de/ausland/machtwechsel-in-den-usa-general-keith-kellogg-soll-den-krieg-in-der-ukraine-beenden](https://www.spiegel.de/ausland/machtwechsel-in-den-usa-general-keith-kellogg-soll-den-krieg-in-der-ukraine-beenden-a-bff9e056-abd3-464f-b713-3f2d72835340#ref=rss)
-* [https://www.spiegel.de/netzwelt/t-mobile-usa-meldet-hackerangriffe](https://www.spiegel.de/netzwelt/t-mobile-usa-meldet-hackerangriffe-a-4a0966ed-077d-4862-8586-927d809b9828#ref=rss)
-### frauen
+* [https://www.spiegel.de/sport/europapokal-1-fc-heidenheim-fordert-fc-chelsea-die-schwaebische-hausfrau-des-fussballs](https://www.spiegel.de/sport/europapokal-1-fc-heidenheim-fordert-fc-chelsea-die-schwaebische-hausfrau-des-fussballs-a-5a9826d3-3080-403e-8a80-8d52a012f948#ref=rss)
+### jan
 
-* [https://www.spiegel.de/partnerschaft/dating-wie-findet-man-die-richtige-als-getrennt-lebender-vater](https://www.spiegel.de/partnerschaft/dating-wie-findet-man-die-richtige-als-getrennt-lebender-vater-a-e87ec265-5521-488b-be83-429f817ea5e0#ref=rss)
-* [https://www.spiegel.de/partnerschaft/dating-als-getrennt-lebender-vater-suchen-die-frauen-einen-freund-oder-ersatz-papa](https://www.spiegel.de/partnerschaft/dating-als-getrennt-lebender-vater-suchen-die-frauen-einen-freund-oder-ersatz-papa-a-56ab8e0c-7f8c-4034-a31a-22af9cd8e92c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mohamed-al-fayed-soll-bis-zu-111-frauen-und-maedchen-missbraucht-haben](https://www.spiegel.de/panorama/justiz/mohamed-al-fayed-soll-bis-zu-111-frauen-und-maedchen-missbraucht-haben-a-bb977df1-e182-4c12-bf6f-13df864886a1#ref=rss)
-### israel
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-social-media-verbot-in-australien-it-spezialist-gesteht-spionage-fuer-jan-marsalek-streit-an-der-dosb-spitze](https://www.spiegel.de/politik/deutschland/news-des-tages-social-media-verbot-in-australien-it-spezialist-gesteht-spionage-fuer-jan-marsalek-streit-an-der-dosb-spitze-a-f0418024-caa7-49f1-9f1f-61e24b641b5c#ref=rss)
+* [https://www.spiegel.de/panorama/it-spezialist-gesteht-spionage-fuer-russischen-agenten-jan-marsalek](https://www.spiegel.de/panorama/it-spezialist-gesteht-spionage-fuer-russischen-agenten-jan-marsalek-a-a1718d73-c457-47ef-99cd-782560c77367#ref=rss)
+### marsalek
 
-* [https://www.spiegel.de/ausland/israel-gibt-warnschuesse-im-suedlibanon-ab](https://www.spiegel.de/ausland/israel-gibt-warnschuesse-im-suedlibanon-ab-a-9e8a80fd-2c45-41e2-893f-47f1cfc38e02#ref=rss)
-* [https://www.spiegel.de/ausland/waffenstillstand-im-libanon-die-uno-soll-wieder-ran-wer-auch-sonst](https://www.spiegel.de/ausland/waffenstillstand-im-libanon-die-uno-soll-wieder-ran-wer-auch-sonst-a-e7848fdb-4256-4ebb-8536-ce6668af69f3#ref=rss)
-### mehr
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-social-media-verbot-in-australien-it-spezialist-gesteht-spionage-fuer-jan-marsalek-streit-an-der-dosb-spitze](https://www.spiegel.de/politik/deutschland/news-des-tages-social-media-verbot-in-australien-it-spezialist-gesteht-spionage-fuer-jan-marsalek-streit-an-der-dosb-spitze-a-f0418024-caa7-49f1-9f1f-61e24b641b5c#ref=rss)
+* [https://www.spiegel.de/panorama/it-spezialist-gesteht-spionage-fuer-russischen-agenten-jan-marsalek](https://www.spiegel.de/panorama/it-spezialist-gesteht-spionage-fuer-russischen-agenten-jan-marsalek-a-a1718d73-c457-47ef-99cd-782560c77367#ref=rss)
+### joshua
 
-* [https://www.spiegel.de/panorama/justiz/berlin-palliativarzt-soll-acht-menschen-getoetet-haben](https://www.spiegel.de/panorama/justiz/berlin-palliativarzt-soll-acht-menschen-getoetet-haben-a-c8925833-f554-4bb0-8d50-d734d0a72bb0#ref=rss)
-* [https://www.spiegel.de/panorama/australien-16-jaehriger-stirbt-nach-schlangenbiss](https://www.spiegel.de/panorama/australien-16-jaehriger-stirbt-nach-schlangenbiss-a-65ee3f07-f79c-49b5-9d30-6a7b3133e1c3#ref=rss)
-* [https://www.spiegel.de/ausland/us-geheimdienste-glauben-nicht-an-russische-angriffe-mit-atomwaffen](https://www.spiegel.de/ausland/us-geheimdienste-glauben-nicht-an-russische-angriffe-mit-atomwaffen-a-17b17c04-36cf-4dd2-af1f-891bf03f3ac9#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-us-regierung-raet-ukraine-zur-rekrutierung-von-18-jaehrigen](https://www.spiegel.de/ausland/ukraine-krieg-us-regierung-raet-ukraine-zur-rekrutierung-von-18-jaehrigen-a-476b7f37-1cf3-4eaf-8b21-db02860792a2#ref=rss)
-### ich
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast-a-7a472952-fece-49f7-b726-edb7cbb26167#ref=rss)
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-a-3b87223c-21ce-40c6-87f3-55d9837f83f3#ref=rss)
+### wong
 
-* [https://www.spiegel.de/wissenschaft/natur/dinosaurier-forscher-rekonstruieren-entwicklung-aus-versteinertem-kot-und-erbrochenem](https://www.spiegel.de/wissenschaft/natur/dinosaurier-forscher-rekonstruieren-entwicklung-aus-versteinertem-kot-und-erbrochenem-a-398907fb-f86c-4216-9c41-eea2d4c1d03c#ref=rss)
-* [https://www.spiegel.de/partnerschaft/dating-als-getrennt-lebender-vater-suchen-die-frauen-einen-freund-oder-ersatz-papa](https://www.spiegel.de/partnerschaft/dating-als-getrennt-lebender-vater-suchen-die-frauen-einen-freund-oder-ersatz-papa-a-56ab8e0c-7f8c-4034-a31a-22af9cd8e92c#ref=rss)
-### donald
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast-a-7a472952-fece-49f7-b726-edb7cbb26167#ref=rss)
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-a-3b87223c-21ce-40c6-87f3-55d9837f83f3#ref=rss)
+### hongkong
 
-* [https://www.spiegel.de/netzwelt/meta-chef-mark-zuckerberg-und-donald-trump-annaeherung-bei-gemeinsamem-dinner-in-mar-a-lago](https://www.spiegel.de/netzwelt/meta-chef-mark-zuckerberg-und-donald-trump-annaeherung-bei-gemeinsamem-dinner-in-mar-a-lago-a-226803cf-cf0b-4fb8-ade1-72b21942a434#ref=rss)
-* [https://www.spiegel.de/ausland/machtwechsel-in-den-usa-general-keith-kellogg-soll-den-krieg-in-der-ukraine-beenden](https://www.spiegel.de/ausland/machtwechsel-in-den-usa-general-keith-kellogg-soll-den-krieg-in-der-ukraine-beenden-a-bff9e056-abd3-464f-b713-3f2d72835340#ref=rss)
-* [https://www.spiegel.de/netzwelt/t-mobile-usa-meldet-hackerangriffe](https://www.spiegel.de/netzwelt/t-mobile-usa-meldet-hackerangriffe-a-4a0966ed-077d-4862-8586-927d809b9828#ref=rss)
-### trump
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast-a-7a472952-fece-49f7-b726-edb7cbb26167#ref=rss)
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-a-3b87223c-21ce-40c6-87f3-55d9837f83f3#ref=rss)
+### zeigt
 
-* [https://www.spiegel.de/netzwelt/meta-chef-mark-zuckerberg-und-donald-trump-annaeherung-bei-gemeinsamem-dinner-in-mar-a-lago](https://www.spiegel.de/netzwelt/meta-chef-mark-zuckerberg-und-donald-trump-annaeherung-bei-gemeinsamem-dinner-in-mar-a-lago-a-226803cf-cf0b-4fb8-ade1-72b21942a434#ref=rss)
-* [https://www.spiegel.de/netzwelt/t-mobile-usa-meldet-hackerangriffe](https://www.spiegel.de/netzwelt/t-mobile-usa-meldet-hackerangriffe-a-4a0966ed-077d-4862-8586-927d809b9828#ref=rss)
-### ukraine
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast-a-7a472952-fece-49f7-b726-edb7cbb26167#ref=rss)
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-a-3b87223c-21ce-40c6-87f3-55d9837f83f3#ref=rss)
+* [https://www.spiegel.de/start/lehrermangel-40-prozent-der-studierenden-brechen-ihr-lehramtstudium-ab](https://www.spiegel.de/start/lehrermangel-40-prozent-der-studierenden-brechen-ihr-lehramtstudium-ab-a-af39dbe2-1303-41a4-baf5-1abd0668fced#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimaschutz-verdeckte-recherche-enthuellt-illegalen-handel-mit-kaeltemitteln](https://www.spiegel.de/wissenschaft/klimaschutz-verdeckte-recherche-enthuellt-illegalen-handel-mit-kaeltemitteln-a-0d835054-d011-43e5-b6da-644e46b23f2a#ref=rss)
+### itspezialist
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-hunderttausende-ohne-strom-nach-russischen-luftangriffen](https://www.spiegel.de/ausland/ukraine-krieg-hunderttausende-ohne-strom-nach-russischen-luftangriffen-a-6749423c-10eb-45b2-b51a-6994ce1c9026#ref=rss)
-* [https://www.spiegel.de/ausland/machtwechsel-in-den-usa-general-keith-kellogg-soll-den-krieg-in-der-ukraine-beenden](https://www.spiegel.de/ausland/machtwechsel-in-den-usa-general-keith-kellogg-soll-den-krieg-in-der-ukraine-beenden-a-bff9e056-abd3-464f-b713-3f2d72835340#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-us-regierung-raet-ukraine-zur-rekrutierung-von-18-jaehrigen](https://www.spiegel.de/ausland/ukraine-krieg-us-regierung-raet-ukraine-zur-rekrutierung-von-18-jaehrigen-a-476b7f37-1cf3-4eaf-8b21-db02860792a2#ref=rss)
-### getrennt
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-social-media-verbot-in-australien-it-spezialist-gesteht-spionage-fuer-jan-marsalek-streit-an-der-dosb-spitze](https://www.spiegel.de/politik/deutschland/news-des-tages-social-media-verbot-in-australien-it-spezialist-gesteht-spionage-fuer-jan-marsalek-streit-an-der-dosb-spitze-a-f0418024-caa7-49f1-9f1f-61e24b641b5c#ref=rss)
+* [https://www.spiegel.de/panorama/it-spezialist-gesteht-spionage-fuer-russischen-agenten-jan-marsalek](https://www.spiegel.de/panorama/it-spezialist-gesteht-spionage-fuer-russischen-agenten-jan-marsalek-a-a1718d73-c457-47ef-99cd-782560c77367#ref=rss)
+### medien
 
-* [https://www.spiegel.de/partnerschaft/dating-wie-findet-man-die-richtige-als-getrennt-lebender-vater](https://www.spiegel.de/partnerschaft/dating-wie-findet-man-die-richtige-als-getrennt-lebender-vater-a-e87ec265-5521-488b-be83-429f817ea5e0#ref=rss)
-* [https://www.spiegel.de/partnerschaft/dating-als-getrennt-lebender-vater-suchen-die-frauen-einen-freund-oder-ersatz-papa](https://www.spiegel.de/partnerschaft/dating-als-getrennt-lebender-vater-suchen-die-frauen-einen-freund-oder-ersatz-papa-a-56ab8e0c-7f8c-4034-a31a-22af9cd8e92c#ref=rss)
-### lebender
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-social-media-verbot-in-australien-it-spezialist-gesteht-spionage-fuer-jan-marsalek-streit-an-der-dosb-spitze](https://www.spiegel.de/politik/deutschland/news-des-tages-social-media-verbot-in-australien-it-spezialist-gesteht-spionage-fuer-jan-marsalek-streit-an-der-dosb-spitze-a-f0418024-caa7-49f1-9f1f-61e24b641b5c#ref=rss)
+* [https://www.spiegel.de/politik/ampel-aus-fdp-veroeffentlicht-d-day-papier](https://www.spiegel.de/politik/ampel-aus-fdp-veroeffentlicht-d-day-papier-a-c7bfe01d-9251-48c0-9a3d-c1fd48913b9b#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/influencerin-marie-joan-schmidt-wie-dr-rambazamba-ueber-sex-aufklaert](https://www.spiegel.de/netzwelt/web/influencerin-marie-joan-schmidt-wie-dr-rambazamba-ueber-sex-aufklaert-a-d83f512e-a91c-471a-9ee4-367ca99392a5#ref=rss)
+### unter
 
-* [https://www.spiegel.de/partnerschaft/dating-wie-findet-man-die-richtige-als-getrennt-lebender-vater](https://www.spiegel.de/partnerschaft/dating-wie-findet-man-die-richtige-als-getrennt-lebender-vater-a-e87ec265-5521-488b-be83-429f817ea5e0#ref=rss)
-* [https://www.spiegel.de/partnerschaft/dating-als-getrennt-lebender-vater-suchen-die-frauen-einen-freund-oder-ersatz-papa](https://www.spiegel.de/partnerschaft/dating-als-getrennt-lebender-vater-suchen-die-frauen-einen-freund-oder-ersatz-papa-a-56ab8e0c-7f8c-4034-a31a-22af9cd8e92c#ref=rss)
-### vater
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-social-media-verbot-in-australien-it-spezialist-gesteht-spionage-fuer-jan-marsalek-streit-an-der-dosb-spitze](https://www.spiegel.de/politik/deutschland/news-des-tages-social-media-verbot-in-australien-it-spezialist-gesteht-spionage-fuer-jan-marsalek-streit-an-der-dosb-spitze-a-f0418024-caa7-49f1-9f1f-61e24b641b5c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/strengere-co2-grenzwerte-sieben-eu-staaten-warnen-vor-klimastrafen-fuer-autobauer](https://www.spiegel.de/wirtschaft/strengere-co2-grenzwerte-sieben-eu-staaten-warnen-vor-klimastrafen-fuer-autobauer-a-44bf307d-127e-4902-b999-9a50ecd9e030#ref=rss)
+* [https://www.spiegel.de/politik/ampel-aus-fdp-veroeffentlicht-d-day-papier](https://www.spiegel.de/politik/ampel-aus-fdp-veroeffentlicht-d-day-papier-a-c7bfe01d-9251-48c0-9a3d-c1fd48913b9b#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/partnerschaft/dating-wie-findet-man-die-richtige-als-getrennt-lebender-vater](https://www.spiegel.de/partnerschaft/dating-wie-findet-man-die-richtige-als-getrennt-lebender-vater-a-e87ec265-5521-488b-be83-429f817ea5e0#ref=rss)
-* [https://www.spiegel.de/partnerschaft/dating-als-getrennt-lebender-vater-suchen-die-frauen-einen-freund-oder-ersatz-papa](https://www.spiegel.de/partnerschaft/dating-als-getrennt-lebender-vater-suchen-die-frauen-einen-freund-oder-ersatz-papa-a-56ab8e0c-7f8c-4034-a31a-22af9cd8e92c#ref=rss)
-### konnten
+* [https://www.spiegel.de/panorama/fluechtlinge-in-deutschland-viele-kommunen-arbeiten-im-krisenmodus](https://www.spiegel.de/panorama/fluechtlinge-in-deutschland-viele-kommunen-arbeiten-im-krisenmodus-a-ac47ec97-70de-4689-8024-fe694c6c96f4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/strengere-co2-grenzwerte-sieben-eu-staaten-warnen-vor-klimastrafen-fuer-autobauer](https://www.spiegel.de/wirtschaft/strengere-co2-grenzwerte-sieben-eu-staaten-warnen-vor-klimastrafen-fuer-autobauer-a-44bf307d-127e-4902-b999-9a50ecd9e030#ref=rss)
+* [https://www.spiegel.de/panorama/it-spezialist-gesteht-spionage-fuer-russischen-agenten-jan-marsalek](https://www.spiegel.de/panorama/it-spezialist-gesteht-spionage-fuer-russischen-agenten-jan-marsalek-a-a1718d73-c457-47ef-99cd-782560c77367#ref=rss)
+### viele
 
-* [https://www.spiegel.de/wissenschaft/natur/dinosaurier-forscher-rekonstruieren-entwicklung-aus-versteinertem-kot-und-erbrochenem](https://www.spiegel.de/wissenschaft/natur/dinosaurier-forscher-rekonstruieren-entwicklung-aus-versteinertem-kot-und-erbrochenem-a-398907fb-f86c-4216-9c41-eea2d4c1d03c#ref=rss)
-* [https://www.spiegel.de/panorama/australien-16-jaehriger-stirbt-nach-schlangenbiss](https://www.spiegel.de/panorama/australien-16-jaehriger-stirbt-nach-schlangenbiss-a-65ee3f07-f79c-49b5-9d30-6a7b3133e1c3#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mohamed-al-fayed-soll-bis-zu-111-frauen-und-maedchen-missbraucht-haben](https://www.spiegel.de/panorama/justiz/mohamed-al-fayed-soll-bis-zu-111-frauen-und-maedchen-missbraucht-haben-a-bb977df1-e182-4c12-bf6f-13df864886a1#ref=rss)
-### black
-
-* [https://www.spiegel.de/tests/black-friday-black-week-und-cyber-monday-was-sie-waehrend-der-rabatttage-beachten-sollten](https://www.spiegel.de/tests/black-friday-black-week-und-cyber-monday-was-sie-waehrend-der-rabatttage-beachten-sollten-a-36e2247d-b7aa-4a1f-87d9-0940d5cca06b#ref=rss)
-### mark
-
-* [https://www.spiegel.de/netzwelt/meta-chef-mark-zuckerberg-und-donald-trump-annaeherung-bei-gemeinsamem-dinner-in-mar-a-lago](https://www.spiegel.de/netzwelt/meta-chef-mark-zuckerberg-und-donald-trump-annaeherung-bei-gemeinsamem-dinner-in-mar-a-lago-a-226803cf-cf0b-4fb8-ade1-72b21942a434#ref=rss)
-* [https://www.spiegel.de/ausland/usa-drei-us-buerger-aus-haft-in-china-entlassen](https://www.spiegel.de/ausland/usa-drei-us-buerger-aus-haft-in-china-entlassen-a-1ba34fcc-3b70-4b25-904d-9454e06726be#ref=rss)
-### zuckerberg
-
-* [https://www.spiegel.de/netzwelt/meta-chef-mark-zuckerberg-und-donald-trump-annaeherung-bei-gemeinsamem-dinner-in-mar-a-lago](https://www.spiegel.de/netzwelt/meta-chef-mark-zuckerberg-und-donald-trump-annaeherung-bei-gemeinsamem-dinner-in-mar-a-lago-a-226803cf-cf0b-4fb8-ade1-72b21942a434#ref=rss)
-### ukrainekrieg
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-hunderttausende-ohne-strom-nach-russischen-luftangriffen](https://www.spiegel.de/ausland/ukraine-krieg-hunderttausende-ohne-strom-nach-russischen-luftangriffen-a-6749423c-10eb-45b2-b51a-6994ce1c9026#ref=rss)
-* [https://www.spiegel.de/ausland/us-geheimdienste-glauben-nicht-an-russische-angriffe-mit-atomwaffen](https://www.spiegel.de/ausland/us-geheimdienste-glauben-nicht-an-russische-angriffe-mit-atomwaffen-a-17b17c04-36cf-4dd2-af1f-891bf03f3ac9#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-us-regierung-raet-ukraine-zur-rekrutierung-von-18-jaehrigen](https://www.spiegel.de/ausland/ukraine-krieg-us-regierung-raet-ukraine-zur-rekrutierung-von-18-jaehrigen-a-476b7f37-1cf3-4eaf-8b21-db02860792a2#ref=rss)
-### kam
-
-* [https://www.spiegel.de/wirtschaft/soziales/schuldenbremse-warum-die-rufe-nach-einer-reform-lauter-werden](https://www.spiegel.de/wirtschaft/soziales/schuldenbremse-warum-die-rufe-nach-einer-reform-lauter-werden-a-8aa310a3-f9f7-4a91-886e-ec853c60ed77#ref=rss)
-* [https://www.spiegel.de/panorama/australien-16-jaehriger-stirbt-nach-schlangenbiss](https://www.spiegel.de/panorama/australien-16-jaehriger-stirbt-nach-schlangenbiss-a-65ee3f07-f79c-49b5-9d30-6a7b3133e1c3#ref=rss)
-### gilt
-
-* [https://www.spiegel.de/ausland/israel-gibt-warnschuesse-im-suedlibanon-ab](https://www.spiegel.de/ausland/israel-gibt-warnschuesse-im-suedlibanon-ab-a-9e8a80fd-2c45-41e2-893f-47f1cfc38e02#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/dinosaurier-forscher-rekonstruieren-entwicklung-aus-versteinertem-kot-und-erbrochenem](https://www.spiegel.de/wissenschaft/natur/dinosaurier-forscher-rekonstruieren-entwicklung-aus-versteinertem-kot-und-erbrochenem-a-398907fb-f86c-4216-9c41-eea2d4c1d03c#ref=rss)
-### vorstandschef
-
-* [https://www.spiegel.de/sport/dosb-vorstandschef-gefeuert-streit-an-der-spitze-eskaliert](https://www.spiegel.de/sport/dosb-vorstandschef-gefeuert-streit-an-der-spitze-eskaliert-a-ccc7f7ac-c835-49c9-92d8-725f01a4e909#ref=rss)
-### streit
-
-* [https://www.spiegel.de/sport/dosb-vorstandschef-gefeuert-streit-an-der-spitze-eskaliert](https://www.spiegel.de/sport/dosb-vorstandschef-gefeuert-streit-an-der-spitze-eskaliert-a-ccc7f7ac-c835-49c9-92d8-725f01a4e909#ref=rss)
-* [https://www.spiegel.de/politik/hessen-im-streit-zwischen-minister-mansoori-und-seiner-ex-staatssekretaerin-droht-eine-schlammschlacht](https://www.spiegel.de/politik/hessen-im-streit-zwischen-minister-mansoori-und-seiner-ex-staatssekretaerin-droht-eine-schlammschlacht-a-0810f98e-1444-45f9-b209-64fd6e0c905a#ref=rss)
-### natural
-
-* [https://www.spiegel.de/wissenschaft/wildlife-photographer-of-the-year-welches-foto-gewinnt-den-publikumspreis-des-natural-history-museums](https://www.spiegel.de/wissenschaft/wildlife-photographer-of-the-year-welches-foto-gewinnt-den-publikumspreis-des-natural-history-museums-a-5b779738-6ea7-4e45-9902-5e91dfc99d75#ref=rss)
-### history
-
-* [https://www.spiegel.de/wissenschaft/wildlife-photographer-of-the-year-welches-foto-gewinnt-den-publikumspreis-des-natural-history-museums](https://www.spiegel.de/wissenschaft/wildlife-photographer-of-the-year-welches-foto-gewinnt-den-publikumspreis-des-natural-history-museums-a-5b779738-6ea7-4e45-9902-5e91dfc99d75#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/justiz/berlin-palliativarzt-soll-acht-menschen-getoetet-haben](https://www.spiegel.de/panorama/justiz/berlin-palliativarzt-soll-acht-menschen-getoetet-haben-a-c8925833-f554-4bb0-8d50-d734d0a72bb0#ref=rss)
-### getötet
-
-* [https://www.spiegel.de/panorama/justiz/berlin-palliativarzt-soll-acht-menschen-getoetet-haben](https://www.spiegel.de/panorama/justiz/berlin-palliativarzt-soll-acht-menschen-getoetet-haben-a-c8925833-f554-4bb0-8d50-d734d0a72bb0#ref=rss)
-### haft
-
-* [https://www.spiegel.de/panorama/justiz/berlin-palliativarzt-soll-acht-menschen-getoetet-haben](https://www.spiegel.de/panorama/justiz/berlin-palliativarzt-soll-acht-menschen-getoetet-haben-a-c8925833-f554-4bb0-8d50-d734d0a72bb0#ref=rss)
-* [https://www.spiegel.de/ausland/usa-drei-us-buerger-aus-haft-in-china-entlassen](https://www.spiegel.de/ausland/usa-drei-us-buerger-aus-haft-in-china-entlassen-a-1ba34fcc-3b70-4b25-904d-9454e06726be#ref=rss)
-### dinosaurier
-
-* [https://www.spiegel.de/wissenschaft/natur/dinosaurier-forscher-rekonstruieren-entwicklung-aus-versteinertem-kot-und-erbrochenem](https://www.spiegel.de/wissenschaft/natur/dinosaurier-forscher-rekonstruieren-entwicklung-aus-versteinertem-kot-und-erbrochenem-a-398907fb-f86c-4216-9c41-eea2d4c1d03c#ref=rss)
+* [https://www.spiegel.de/panorama/fluechtlinge-in-deutschland-viele-kommunen-arbeiten-im-krisenmodus](https://www.spiegel.de/panorama/fluechtlinge-in-deutschland-viele-kommunen-arbeiten-im-krisenmodus-a-ac47ec97-70de-4689-8024-fe694c6c96f4#ref=rss)
+* [https://www.spiegel.de/kultur/kino/samuel-l-jackson-oscarnominierung-ist-fuer-den-schauspieler-keine-ehre](https://www.spiegel.de/kultur/kino/samuel-l-jackson-oscarnominierung-ist-fuer-den-schauspieler-keine-ehre-a-12841bf2-9b93-482d-b344-709503d18458#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimaschutz-verdeckte-recherche-enthuellt-illegalen-handel-mit-kaeltemitteln](https://www.spiegel.de/wissenschaft/klimaschutz-verdeckte-recherche-enthuellt-illegalen-handel-mit-kaeltemitteln-a-0d835054-d011-43e5-b6da-644e46b23f2a#ref=rss)
 ### forscher
 
-* [https://www.spiegel.de/wissenschaft/natur/dinosaurier-forscher-rekonstruieren-entwicklung-aus-versteinertem-kot-und-erbrochenem](https://www.spiegel.de/wissenschaft/natur/dinosaurier-forscher-rekonstruieren-entwicklung-aus-versteinertem-kot-und-erbrochenem-a-398907fb-f86c-4216-9c41-eea2d4c1d03c#ref=rss)
-### mir
+* [https://www.spiegel.de/panorama/fluechtlinge-in-deutschland-viele-kommunen-arbeiten-im-krisenmodus](https://www.spiegel.de/panorama/fluechtlinge-in-deutschland-viele-kommunen-arbeiten-im-krisenmodus-a-ac47ec97-70de-4689-8024-fe694c6c96f4#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/forscher-lueftet-raetsel-um-mysterioese-linie-in-australischer-wueste](https://www.spiegel.de/wissenschaft/natur/forscher-lueftet-raetsel-um-mysterioese-linie-in-australischer-wueste-a-6cbad2f4-970d-48cd-83b7-ed2481de4afc#ref=rss)
+### folgen
 
-* [https://www.spiegel.de/wissenschaft/natur/dinosaurier-forscher-rekonstruieren-entwicklung-aus-versteinertem-kot-und-erbrochenem](https://www.spiegel.de/wissenschaft/natur/dinosaurier-forscher-rekonstruieren-entwicklung-aus-versteinertem-kot-und-erbrochenem-a-398907fb-f86c-4216-9c41-eea2d4c1d03c#ref=rss)
-* [https://www.spiegel.de/partnerschaft/dating-als-getrennt-lebender-vater-suchen-die-frauen-einen-freund-oder-ersatz-papa](https://www.spiegel.de/partnerschaft/dating-als-getrennt-lebender-vater-suchen-die-frauen-einen-freund-oder-ersatz-papa-a-56ab8e0c-7f8c-4034-a31a-22af9cd8e92c#ref=rss)
-### du
+* [https://www.spiegel.de/wirtschaft/strengere-co2-grenzwerte-sieben-eu-staaten-warnen-vor-klimastrafen-fuer-autobauer](https://www.spiegel.de/wirtschaft/strengere-co2-grenzwerte-sieben-eu-staaten-warnen-vor-klimastrafen-fuer-autobauer-a-44bf307d-127e-4902-b999-9a50ecd9e030#ref=rss)
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast-a-7a472952-fece-49f7-b726-edb7cbb26167#ref=rss)
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-a-3b87223c-21ce-40c6-87f3-55d9837f83f3#ref=rss)
+### zurück
 
-* [https://www.spiegel.de/wissenschaft/natur/dinosaurier-forscher-rekonstruieren-entwicklung-aus-versteinertem-kot-und-erbrochenem](https://www.spiegel.de/wissenschaft/natur/dinosaurier-forscher-rekonstruieren-entwicklung-aus-versteinertem-kot-und-erbrochenem-a-398907fb-f86c-4216-9c41-eea2d4c1d03c#ref=rss)
-### mindestens
+* [https://www.spiegel.de/panorama/justiz/clan-kriminalitaet-in-nrw-zahlen-der-straftaten-sind-gestiegen](https://www.spiegel.de/panorama/justiz/clan-kriminalitaet-in-nrw-zahlen-der-straftaten-sind-gestiegen-a-64ff89c2-ad0f-4a1d-a753-cc1cfe4d333b#ref=rss)
+* [https://www.spiegel.de/kultur/tv/charlie-rose-frueherer-cbs-moderator-erzielt-einigung-bei-belaestigungsklage](https://www.spiegel.de/kultur/tv/charlie-rose-frueherer-cbs-moderator-erzielt-einigung-bei-belaestigungsklage-a-4a820532-c092-43d5-9eac-133bb6e3caa1#ref=rss)
+* [https://www.spiegel.de/ausland/iran-deutscher-botschafter-kehrt-nach-hinrichtung-von-jamshid-sharmahd-nach-teheran-zurueck](https://www.spiegel.de/ausland/iran-deutscher-botschafter-kehrt-nach-hinrichtung-von-jamshid-sharmahd-nach-teheran-zurueck-a-e538cef7-be6b-43ef-8c42-143544889621#ref=rss)
+### schauspieler
 
-* [https://www.spiegel.de/start/medizinstudium-wer-will-mindestens-zehn-jahre-als-landarzt-arbeiten](https://www.spiegel.de/start/medizinstudium-wer-will-mindestens-zehn-jahre-als-landarzt-arbeiten-a-fbf0c530-b262-4d4f-92e2-10d9bf4aa718#ref=rss)
-* [https://www.spiegel.de/panorama/suedkorea-mehrere-menschen-sterben-bei-heftigem-schneefall](https://www.spiegel.de/panorama/suedkorea-mehrere-menschen-sterben-bei-heftigem-schneefall-a-ac38ceef-5089-48f2-8969-54d8e423a000#ref=rss)
-### südkorea
+* [https://www.spiegel.de/kultur/kino/samuel-l-jackson-oscarnominierung-ist-fuer-den-schauspieler-keine-ehre](https://www.spiegel.de/kultur/kino/samuel-l-jackson-oscarnominierung-ist-fuer-den-schauspieler-keine-ehre-a-12841bf2-9b93-482d-b344-709503d18458#ref=rss)
+### australien
 
-* [https://www.spiegel.de/panorama/suedkorea-mehrere-menschen-sterben-bei-heftigem-schneefall](https://www.spiegel.de/panorama/suedkorea-mehrere-menschen-sterben-bei-heftigem-schneefall-a-ac38ceef-5089-48f2-8969-54d8e423a000#ref=rss)
-### stark
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-social-media-verbot-in-australien-it-spezialist-gesteht-spionage-fuer-jan-marsalek-streit-an-der-dosb-spitze](https://www.spiegel.de/politik/deutschland/news-des-tages-social-media-verbot-in-australien-it-spezialist-gesteht-spionage-fuer-jan-marsalek-streit-an-der-dosb-spitze-a-f0418024-caa7-49f1-9f1f-61e24b641b5c#ref=rss)
+### gesteht
 
-* [https://www.spiegel.de/panorama/suedkorea-mehrere-menschen-sterben-bei-heftigem-schneefall](https://www.spiegel.de/panorama/suedkorea-mehrere-menschen-sterben-bei-heftigem-schneefall-a-ac38ceef-5089-48f2-8969-54d8e423a000#ref=rss)
-### drei
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-social-media-verbot-in-australien-it-spezialist-gesteht-spionage-fuer-jan-marsalek-streit-an-der-dosb-spitze](https://www.spiegel.de/politik/deutschland/news-des-tages-social-media-verbot-in-australien-it-spezialist-gesteht-spionage-fuer-jan-marsalek-streit-an-der-dosb-spitze-a-f0418024-caa7-49f1-9f1f-61e24b641b5c#ref=rss)
+* [https://www.spiegel.de/panorama/it-spezialist-gesteht-spionage-fuer-russischen-agenten-jan-marsalek](https://www.spiegel.de/panorama/it-spezialist-gesteht-spionage-fuer-russischen-agenten-jan-marsalek-a-a1718d73-c457-47ef-99cd-782560c77367#ref=rss)
+### spionage
 
-* [https://www.spiegel.de/panorama/suedkorea-mehrere-menschen-sterben-bei-heftigem-schneefall](https://www.spiegel.de/panorama/suedkorea-mehrere-menschen-sterben-bei-heftigem-schneefall-a-ac38ceef-5089-48f2-8969-54d8e423a000#ref=rss)
-* [https://www.spiegel.de/ausland/usa-drei-us-buerger-aus-haft-in-china-entlassen](https://www.spiegel.de/ausland/usa-drei-us-buerger-aus-haft-in-china-entlassen-a-1ba34fcc-3b70-4b25-904d-9454e06726be#ref=rss)
-### friday
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-social-media-verbot-in-australien-it-spezialist-gesteht-spionage-fuer-jan-marsalek-streit-an-der-dosb-spitze](https://www.spiegel.de/politik/deutschland/news-des-tages-social-media-verbot-in-australien-it-spezialist-gesteht-spionage-fuer-jan-marsalek-streit-an-der-dosb-spitze-a-f0418024-caa7-49f1-9f1f-61e24b641b5c#ref=rss)
+* [https://www.spiegel.de/panorama/it-spezialist-gesteht-spionage-fuer-russischen-agenten-jan-marsalek](https://www.spiegel.de/panorama/it-spezialist-gesteht-spionage-fuer-russischen-agenten-jan-marsalek-a-a1718d73-c457-47ef-99cd-782560c77367#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/tests/black-friday-black-week-und-cyber-monday-was-sie-waehrend-der-rabatttage-beachten-sollten](https://www.spiegel.de/tests/black-friday-black-week-und-cyber-monday-was-sie-waehrend-der-rabatttage-beachten-sollten-a-36e2247d-b7aa-4a1f-87d9-0940d5cca06b#ref=rss)
-### beachten
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-social-media-verbot-in-australien-it-spezialist-gesteht-spionage-fuer-jan-marsalek-streit-an-der-dosb-spitze](https://www.spiegel.de/politik/deutschland/news-des-tages-social-media-verbot-in-australien-it-spezialist-gesteht-spionage-fuer-jan-marsalek-streit-an-der-dosb-spitze-a-f0418024-caa7-49f1-9f1f-61e24b641b5c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/tod-in-suedafrika-37-jaehriger-wegen-raubueberfall-auf-deutschen-touristen-schuldig-gesprochen](https://www.spiegel.de/panorama/justiz/tod-in-suedafrika-37-jaehriger-wegen-raubueberfall-auf-deutschen-touristen-schuldig-gesprochen-a-4621bba8-11a6-41c3-9a8a-6784e823b180#ref=rss)
+### rundfunkbeitrag
 
-* [https://www.spiegel.de/tests/black-friday-black-week-und-cyber-monday-was-sie-waehrend-der-rabatttage-beachten-sollten](https://www.spiegel.de/tests/black-friday-black-week-und-cyber-monday-was-sie-waehrend-der-rabatttage-beachten-sollten-a-36e2247d-b7aa-4a1f-87d9-0940d5cca06b#ref=rss)
-* [https://www.spiegel.de/karriere/resturlaub-wann-er-verfaellt-und-was-sie-beachten-muessen](https://www.spiegel.de/karriere/resturlaub-wann-er-verfaellt-und-was-sie-beachten-muessen-a-1e7a349a-3444-4a9a-90c7-3bff9f4397dc#ref=rss)
-### sollten
+* [https://www.spiegel.de/kultur/tv/rundfunkbeitrag-ard-frontmann-gniffke-plant-finanzierung-aus-ruecklagen-fuer-2025](https://www.spiegel.de/kultur/tv/rundfunkbeitrag-ard-frontmann-gniffke-plant-finanzierung-aus-ruecklagen-fuer-2025-a-69862024-2e32-4324-9044-49c2be796e40#ref=rss)
+### kai
 
-* [https://www.spiegel.de/tests/black-friday-black-week-und-cyber-monday-was-sie-waehrend-der-rabatttage-beachten-sollten](https://www.spiegel.de/tests/black-friday-black-week-und-cyber-monday-was-sie-waehrend-der-rabatttage-beachten-sollten-a-36e2247d-b7aa-4a1f-87d9-0940d5cca06b#ref=rss)
-* [https://www.spiegel.de/karriere/resturlaub-wann-er-verfaellt-und-was-sie-beachten-muessen](https://www.spiegel.de/karriere/resturlaub-wann-er-verfaellt-und-was-sie-beachten-muessen-a-1e7a349a-3444-4a9a-90c7-3bff9f4397dc#ref=rss)
-### nasser
+* [https://www.spiegel.de/kultur/tv/rundfunkbeitrag-ard-frontmann-gniffke-plant-finanzierung-aus-ruecklagen-fuer-2025](https://www.spiegel.de/kultur/tv/rundfunkbeitrag-ard-frontmann-gniffke-plant-finanzierung-aus-ruecklagen-fuer-2025-a-69862024-2e32-4324-9044-49c2be796e40#ref=rss)
+### gniffke
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-entschuldigt-sich-bei-psg-boss-nasser-al-khelaifi-fuer-fan-plakate](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-entschuldigt-sich-bei-psg-boss-nasser-al-khelaifi-fuer-fan-plakate-a-5839c53b-9a5e-47ef-b585-76e9f8612525#ref=rss)
-### alkhelaifi
+* [https://www.spiegel.de/kultur/tv/rundfunkbeitrag-ard-frontmann-gniffke-plant-finanzierung-aus-ruecklagen-fuer-2025](https://www.spiegel.de/kultur/tv/rundfunkbeitrag-ard-frontmann-gniffke-plant-finanzierung-aus-ruecklagen-fuer-2025-a-69862024-2e32-4324-9044-49c2be796e40#ref=rss)
+### 2025
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-entschuldigt-sich-bei-psg-boss-nasser-al-khelaifi-fuer-fan-plakate](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-entschuldigt-sich-bei-psg-boss-nasser-al-khelaifi-fuer-fan-plakate-a-5839c53b-9a5e-47ef-b585-76e9f8612525#ref=rss)
+* [https://www.spiegel.de/kultur/tv/rundfunkbeitrag-ard-frontmann-gniffke-plant-finanzierung-aus-ruecklagen-fuer-2025](https://www.spiegel.de/kultur/tv/rundfunkbeitrag-ard-frontmann-gniffke-plant-finanzierung-aus-ruecklagen-fuer-2025-a-69862024-2e32-4324-9044-49c2be796e40#ref=rss)
+* [https://www.spiegel.de/wirtschaft/strengere-co2-grenzwerte-sieben-eu-staaten-warnen-vor-klimastrafen-fuer-autobauer](https://www.spiegel.de/wirtschaft/strengere-co2-grenzwerte-sieben-eu-staaten-warnen-vor-klimastrafen-fuer-autobauer-a-44bf307d-127e-4902-b999-9a50ecd9e030#ref=rss)
+### kommen
+
+* [https://www.spiegel.de/kultur/tv/rundfunkbeitrag-ard-frontmann-gniffke-plant-finanzierung-aus-ruecklagen-fuer-2025](https://www.spiegel.de/kultur/tv/rundfunkbeitrag-ard-frontmann-gniffke-plant-finanzierung-aus-ruecklagen-fuer-2025-a-69862024-2e32-4324-9044-49c2be796e40#ref=rss)
+* [https://www.spiegel.de/kultur/tv/charlie-rose-frueherer-cbs-moderator-erzielt-einigung-bei-belaestigungsklage](https://www.spiegel.de/kultur/tv/charlie-rose-frueherer-cbs-moderator-erzielt-einigung-bei-belaestigungsklage-a-4a820532-c092-43d5-9eac-133bb6e3caa1#ref=rss)
+### kommunen
+
+* [https://www.spiegel.de/panorama/fluechtlinge-in-deutschland-viele-kommunen-arbeiten-im-krisenmodus](https://www.spiegel.de/panorama/fluechtlinge-in-deutschland-viele-kommunen-arbeiten-im-krisenmodus-a-ac47ec97-70de-4689-8024-fe694c6c96f4#ref=rss)
+### knapp
+
+* [https://www.spiegel.de/panorama/fluechtlinge-in-deutschland-viele-kommunen-arbeiten-im-krisenmodus](https://www.spiegel.de/panorama/fluechtlinge-in-deutschland-viele-kommunen-arbeiten-im-krisenmodus-a-ac47ec97-70de-4689-8024-fe694c6c96f4#ref=rss)
+* [https://www.spiegel.de/ausland/rumaenien-oberstes-gericht-ordnet-neuauszaehlung-nach-praesidentschaftswahl-an](https://www.spiegel.de/ausland/rumaenien-oberstes-gericht-ordnet-neuauszaehlung-nach-praesidentschaftswahl-an-a-bb38a25d-1d00-4841-aee2-f1b7da476427#ref=rss)
+### demnach
+
+* [https://www.spiegel.de/panorama/fluechtlinge-in-deutschland-viele-kommunen-arbeiten-im-krisenmodus](https://www.spiegel.de/panorama/fluechtlinge-in-deutschland-viele-kommunen-arbeiten-im-krisenmodus-a-ac47ec97-70de-4689-8024-fe694c6c96f4#ref=rss)
+* [https://www.spiegel.de/panorama/it-spezialist-gesteht-spionage-fuer-russischen-agenten-jan-marsalek](https://www.spiegel.de/panorama/it-spezialist-gesteht-spionage-fuer-russischen-agenten-jan-marsalek-a-a1718d73-c457-47ef-99cd-782560c77367#ref=rss)
+### macht
+
+* [https://www.spiegel.de/panorama/fluechtlinge-in-deutschland-viele-kommunen-arbeiten-im-krisenmodus](https://www.spiegel.de/panorama/fluechtlinge-in-deutschland-viele-kommunen-arbeiten-im-krisenmodus-a-ac47ec97-70de-4689-8024-fe694c6c96f4#ref=rss)
+* [https://www.spiegel.de/sport/fussball/real-madrid-kylian-mbappe-in-der-kritik-fehlender-rueckhalt-des-klubs](https://www.spiegel.de/sport/fussball/real-madrid-kylian-mbappe-in-der-kritik-fehlender-rueckhalt-des-klubs-a-52c1a435-0d62-4aa7-8f47-27d2fa4903b5#ref=rss)
+### dänemark
+
+* [https://www.spiegel.de/netzwelt/daenemark-mobilfunknetz-ausgefallen-keine-notrufe-moeglich-zuege-stehen-still](https://www.spiegel.de/netzwelt/daenemark-mobilfunknetz-ausgefallen-keine-notrufe-moeglich-zuege-stehen-still-a-94206375-d327-400d-984f-78d275d28602#ref=rss)
+### mobilfunknetz
+
+* [https://www.spiegel.de/netzwelt/daenemark-mobilfunknetz-ausgefallen-keine-notrufe-moeglich-zuege-stehen-still](https://www.spiegel.de/netzwelt/daenemark-mobilfunknetz-ausgefallen-keine-notrufe-moeglich-zuege-stehen-still-a-94206375-d327-400d-984f-78d275d28602#ref=rss)
+### ursache
+
+* [https://www.spiegel.de/netzwelt/daenemark-mobilfunknetz-ausgefallen-keine-notrufe-moeglich-zuege-stehen-still](https://www.spiegel.de/netzwelt/daenemark-mobilfunknetz-ausgefallen-keine-notrufe-moeglich-zuege-stehen-still-a-94206375-d327-400d-984f-78d275d28602#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/forscher-lueftet-raetsel-um-mysterioese-linie-in-australischer-wueste](https://www.spiegel.de/wissenschaft/natur/forscher-lueftet-raetsel-um-mysterioese-linie-in-australischer-wueste-a-6cbad2f4-970d-48cd-83b7-ed2481de4afc#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/ukraine-erster-westlicher-soldat-in-russischer-gefangenschaft-james-anderson-soll-in-neo-nazi-bataillon-gekaempft-haben](https://www.spiegel.de/ausland/ukraine-erster-westlicher-soldat-in-russischer-gefangenschaft-james-anderson-soll-in-neo-nazi-bataillon-gekaempft-haben-a-0ab2599f-f081-4467-a3b5-9c2a0b19d9ab#ref=rss)
+### soldat
+
+* [https://www.spiegel.de/ausland/ukraine-erster-westlicher-soldat-in-russischer-gefangenschaft-james-anderson-soll-in-neo-nazi-bataillon-gekaempft-haben](https://www.spiegel.de/ausland/ukraine-erster-westlicher-soldat-in-russischer-gefangenschaft-james-anderson-soll-in-neo-nazi-bataillon-gekaempft-haben-a-0ab2599f-f081-4467-a3b5-9c2a0b19d9ab#ref=rss)
+### james
+
+* [https://www.spiegel.de/ausland/ukraine-erster-westlicher-soldat-in-russischer-gefangenschaft-james-anderson-soll-in-neo-nazi-bataillon-gekaempft-haben](https://www.spiegel.de/ausland/ukraine-erster-westlicher-soldat-in-russischer-gefangenschaft-james-anderson-soll-in-neo-nazi-bataillon-gekaempft-haben-a-0ab2599f-f081-4467-a3b5-9c2a0b19d9ab#ref=rss)
+### anderson
+
+* [https://www.spiegel.de/ausland/ukraine-erster-westlicher-soldat-in-russischer-gefangenschaft-james-anderson-soll-in-neo-nazi-bataillon-gekaempft-haben](https://www.spiegel.de/ausland/ukraine-erster-westlicher-soldat-in-russischer-gefangenschaft-james-anderson-soll-in-neo-nazi-bataillon-gekaempft-haben-a-0ab2599f-f081-4467-a3b5-9c2a0b19d9ab#ref=rss)
+### gekämpft
+
+* [https://www.spiegel.de/ausland/ukraine-erster-westlicher-soldat-in-russischer-gefangenschaft-james-anderson-soll-in-neo-nazi-bataillon-gekaempft-haben](https://www.spiegel.de/ausland/ukraine-erster-westlicher-soldat-in-russischer-gefangenschaft-james-anderson-soll-in-neo-nazi-bataillon-gekaempft-haben-a-0ab2599f-f081-4467-a3b5-9c2a0b19d9ab#ref=rss)
+### sollte
+
+* [https://www.spiegel.de/ausland/ukraine-erster-westlicher-soldat-in-russischer-gefangenschaft-james-anderson-soll-in-neo-nazi-bataillon-gekaempft-haben](https://www.spiegel.de/ausland/ukraine-erster-westlicher-soldat-in-russischer-gefangenschaft-james-anderson-soll-in-neo-nazi-bataillon-gekaempft-haben-a-0ab2599f-f081-4467-a3b5-9c2a0b19d9ab#ref=rss)
+* [https://www.spiegel.de/kultur/tv/charlie-rose-frueherer-cbs-moderator-erzielt-einigung-bei-belaestigungsklage](https://www.spiegel.de/kultur/tv/charlie-rose-frueherer-cbs-moderator-erzielt-einigung-bei-belaestigungsklage-a-4a820532-c092-43d5-9eac-133bb6e3caa1#ref=rss)
+### sieben
+
+* [https://www.spiegel.de/wirtschaft/strengere-co2-grenzwerte-sieben-eu-staaten-warnen-vor-klimastrafen-fuer-autobauer](https://www.spiegel.de/wirtschaft/strengere-co2-grenzwerte-sieben-eu-staaten-warnen-vor-klimastrafen-fuer-autobauer-a-44bf307d-127e-4902-b999-9a50ecd9e030#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-polizei-stellt-eine-tonne-marihuana-in-lagerhaus-sicher](https://www.spiegel.de/panorama/justiz/berlin-polizei-stellt-eine-tonne-marihuana-in-lagerhaus-sicher-a-415b6606-691f-461f-80ce-2674419eb667#ref=rss)
+### warnen
+
+* [https://www.spiegel.de/wirtschaft/strengere-co2-grenzwerte-sieben-eu-staaten-warnen-vor-klimastrafen-fuer-autobauer](https://www.spiegel.de/wirtschaft/strengere-co2-grenzwerte-sieben-eu-staaten-warnen-vor-klimastrafen-fuer-autobauer-a-44bf307d-127e-4902-b999-9a50ecd9e030#ref=rss)
+### eu
+
+* [https://www.spiegel.de/wirtschaft/strengere-co2-grenzwerte-sieben-eu-staaten-warnen-vor-klimastrafen-fuer-autobauer](https://www.spiegel.de/wirtschaft/strengere-co2-grenzwerte-sieben-eu-staaten-warnen-vor-klimastrafen-fuer-autobauer-a-44bf307d-127e-4902-b999-9a50ecd9e030#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimaschutz-verdeckte-recherche-enthuellt-illegalen-handel-mit-kaeltemitteln](https://www.spiegel.de/wissenschaft/klimaschutz-verdeckte-recherche-enthuellt-illegalen-handel-mit-kaeltemitteln-a-0d835054-d011-43e5-b6da-644e46b23f2a#ref=rss)
+### rätsel
+
+* [https://www.spiegel.de/wissenschaft/natur/forscher-lueftet-raetsel-um-mysterioese-linie-in-australischer-wueste](https://www.spiegel.de/wissenschaft/natur/forscher-lueftet-raetsel-um-mysterioese-linie-in-australischer-wueste-a-6cbad2f4-970d-48cd-83b7-ed2481de4afc#ref=rss)
+### gefunden
+
+* [https://www.spiegel.de/wissenschaft/natur/forscher-lueftet-raetsel-um-mysterioese-linie-in-australischer-wueste](https://www.spiegel.de/wissenschaft/natur/forscher-lueftet-raetsel-um-mysterioese-linie-in-australischer-wueste-a-6cbad2f4-970d-48cd-83b7-ed2481de4afc#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/tod-in-suedafrika-37-jaehriger-wegen-raubueberfall-auf-deutschen-touristen-schuldig-gesprochen](https://www.spiegel.de/panorama/justiz/tod-in-suedafrika-37-jaehriger-wegen-raubueberfall-auf-deutschen-touristen-schuldig-gesprochen-a-4621bba8-11a6-41c3-9a8a-6784e823b180#ref=rss)
+### madrid
+
+* [https://www.spiegel.de/sport/fussball/real-madrid-kylian-mbappe-in-der-kritik-fehlender-rueckhalt-des-klubs](https://www.spiegel.de/sport/fussball/real-madrid-kylian-mbappe-in-der-kritik-fehlender-rueckhalt-des-klubs-a-52c1a435-0d62-4aa7-8f47-27d2fa4903b5#ref=rss)
+### kylian
+
+* [https://www.spiegel.de/sport/fussball/real-madrid-kylian-mbappe-in-der-kritik-fehlender-rueckhalt-des-klubs](https://www.spiegel.de/sport/fussball/real-madrid-kylian-mbappe-in-der-kritik-fehlender-rueckhalt-des-klubs-a-52c1a435-0d62-4aa7-8f47-27d2fa4903b5#ref=rss)
+### mbappé
+
+* [https://www.spiegel.de/sport/fussball/real-madrid-kylian-mbappe-in-der-kritik-fehlender-rueckhalt-des-klubs](https://www.spiegel.de/sport/fussball/real-madrid-kylian-mbappe-in-der-kritik-fehlender-rueckhalt-des-klubs-a-52c1a435-0d62-4aa7-8f47-27d2fa4903b5#ref=rss)
 ### kritik
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-entschuldigt-sich-bei-psg-boss-nasser-al-khelaifi-fuer-fan-plakate](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-entschuldigt-sich-bei-psg-boss-nasser-al-khelaifi-fuer-fan-plakate-a-5839c53b-9a5e-47ef-b585-76e9f8612525#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/schuldenbremse-warum-die-rufe-nach-einer-reform-lauter-werden](https://www.spiegel.de/wirtschaft/soziales/schuldenbremse-warum-die-rufe-nach-einer-reform-lauter-werden-a-8aa310a3-f9f7-4a91-886e-ec853c60ed77#ref=rss)
-### mansoori
+* [https://www.spiegel.de/sport/fussball/real-madrid-kylian-mbappe-in-der-kritik-fehlender-rueckhalt-des-klubs](https://www.spiegel.de/sport/fussball/real-madrid-kylian-mbappe-in-der-kritik-fehlender-rueckhalt-des-klubs-a-52c1a435-0d62-4aa7-8f47-27d2fa4903b5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/clan-kriminalitaet-in-nrw-zahlen-der-straftaten-sind-gestiegen](https://www.spiegel.de/panorama/justiz/clan-kriminalitaet-in-nrw-zahlen-der-straftaten-sind-gestiegen-a-64ff89c2-ad0f-4a1d-a753-cc1cfe4d333b#ref=rss)
+### ganz
 
-* [https://www.spiegel.de/politik/hessen-im-streit-zwischen-minister-mansoori-und-seiner-ex-staatssekretaerin-droht-eine-schlammschlacht](https://www.spiegel.de/politik/hessen-im-streit-zwischen-minister-mansoori-und-seiner-ex-staatssekretaerin-droht-eine-schlammschlacht-a-0810f98e-1444-45f9-b209-64fd6e0c905a#ref=rss)
-### christine
+* [https://www.spiegel.de/sport/fussball/real-madrid-kylian-mbappe-in-der-kritik-fehlender-rueckhalt-des-klubs](https://www.spiegel.de/sport/fussball/real-madrid-kylian-mbappe-in-der-kritik-fehlender-rueckhalt-des-klubs-a-52c1a435-0d62-4aa7-8f47-27d2fa4903b5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-segnet-lange-liste-mit-befoerderungen-ab-beamte-diplomaten-und-soldaten](https://www.spiegel.de/politik/deutschland/bundesregierung-segnet-lange-liste-mit-befoerderungen-ab-beamte-diplomaten-und-soldaten-a-eec1aca2-73f2-4e7c-bff5-f94bf7976927#ref=rss)
+### straftaten
 
-* [https://www.spiegel.de/wirtschaft/soziales/christine-lagarde-ezb-praesidentin-warnt-vor-handelskrieg-mit-den-usa](https://www.spiegel.de/wirtschaft/soziales/christine-lagarde-ezb-praesidentin-warnt-vor-handelskrieg-mit-den-usa-a-8f275b40-e1ef-4fe0-9c86-d3fe46850f00#ref=rss)
-### lagarde
+* [https://www.spiegel.de/panorama/justiz/clan-kriminalitaet-in-nrw-zahlen-der-straftaten-sind-gestiegen](https://www.spiegel.de/panorama/justiz/clan-kriminalitaet-in-nrw-zahlen-der-straftaten-sind-gestiegen-a-64ff89c2-ad0f-4a1d-a753-cc1cfe4d333b#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/wirtschaft/soziales/christine-lagarde-ezb-praesidentin-warnt-vor-handelskrieg-mit-den-usa](https://www.spiegel.de/wirtschaft/soziales/christine-lagarde-ezb-praesidentin-warnt-vor-handelskrieg-mit-den-usa-a-8f275b40-e1ef-4fe0-9c86-d3fe46850f00#ref=rss)
-### schlägt
+* [https://www.spiegel.de/panorama/justiz/clan-kriminalitaet-in-nrw-zahlen-der-straftaten-sind-gestiegen](https://www.spiegel.de/panorama/justiz/clan-kriminalitaet-in-nrw-zahlen-der-straftaten-sind-gestiegen-a-64ff89c2-ad0f-4a1d-a753-cc1cfe4d333b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-polizei-stellt-eine-tonne-marihuana-in-lagerhaus-sicher](https://www.spiegel.de/panorama/justiz/berlin-polizei-stellt-eine-tonne-marihuana-in-lagerhaus-sicher-a-415b6606-691f-461f-80ce-2674419eb667#ref=rss)
+### china
 
-* [https://www.spiegel.de/wirtschaft/soziales/christine-lagarde-ezb-praesidentin-warnt-vor-handelskrieg-mit-den-usa](https://www.spiegel.de/wirtschaft/soziales/christine-lagarde-ezb-praesidentin-warnt-vor-handelskrieg-mit-den-usa-a-8f275b40-e1ef-4fe0-9c86-d3fe46850f00#ref=rss)
-* [https://www.spiegel.de/panorama/leute/demi-moore-gibt-ihren-hunden-scherzhaft-die-schuld-an-ihrem-single-dasein](https://www.spiegel.de/panorama/leute/demi-moore-gibt-ihren-hunden-scherzhaft-die-schuld-an-ihrem-single-dasein-a-a297568e-0653-424c-814f-8940a95a61da#ref=rss)
-### strompreisbremse
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast-a-7a472952-fece-49f7-b726-edb7cbb26167#ref=rss)
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-a-3b87223c-21ce-40c6-87f3-55d9837f83f3#ref=rss)
+### gnadenlos
 
-* [https://www.spiegel.de/wirtschaft/strompreisbremse-bundesverfassungsgericht-weist-klage-gegen-finanzierung-ab](https://www.spiegel.de/wirtschaft/strompreisbremse-bundesverfassungsgericht-weist-klage-gegen-finanzierung-ab-a-5adf67e2-196b-4c33-8570-0e6ad03fbf50#ref=rss)
-### bundesverfassungsgericht
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast-a-7a472952-fece-49f7-b726-edb7cbb26167#ref=rss)
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-a-3b87223c-21ce-40c6-87f3-55d9837f83f3#ref=rss)
+### acht
 
-* [https://www.spiegel.de/wirtschaft/strompreisbremse-bundesverfassungsgericht-weist-klage-gegen-finanzierung-ab](https://www.spiegel.de/wirtschaft/strompreisbremse-bundesverfassungsgericht-weist-klage-gegen-finanzierung-ab-a-5adf67e2-196b-4c33-8570-0e6ad03fbf50#ref=rss)
-### metachef
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast-a-7a472952-fece-49f7-b726-edb7cbb26167#ref=rss)
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-a-3b87223c-21ce-40c6-87f3-55d9837f83f3#ref=rss)
+### minuten
 
-* [https://www.spiegel.de/netzwelt/meta-chef-mark-zuckerberg-und-donald-trump-annaeherung-bei-gemeinsamem-dinner-in-mar-a-lago](https://www.spiegel.de/netzwelt/meta-chef-mark-zuckerberg-und-donald-trump-annaeherung-bei-gemeinsamem-dinner-in-mar-a-lago-a-226803cf-cf0b-4fb8-ade1-72b21942a434#ref=rss)
-### annäherung
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast-a-7a472952-fece-49f7-b726-edb7cbb26167#ref=rss)
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-a-3b87223c-21ce-40c6-87f3-55d9837f83f3#ref=rss)
+### 45
 
-* [https://www.spiegel.de/netzwelt/meta-chef-mark-zuckerberg-und-donald-trump-annaeherung-bei-gemeinsamem-dinner-in-mar-a-lago](https://www.spiegel.de/netzwelt/meta-chef-mark-zuckerberg-und-donald-trump-annaeherung-bei-gemeinsamem-dinner-in-mar-a-lago-a-226803cf-cf0b-4fb8-ade1-72b21942a434#ref=rss)
-### dinner
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast-a-7a472952-fece-49f7-b726-edb7cbb26167#ref=rss)
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-a-3b87223c-21ce-40c6-87f3-55d9837f83f3#ref=rss)
+### urteile
 
-* [https://www.spiegel.de/netzwelt/meta-chef-mark-zuckerberg-und-donald-trump-annaeherung-bei-gemeinsamem-dinner-in-mar-a-lago](https://www.spiegel.de/netzwelt/meta-chef-mark-zuckerberg-und-donald-trump-annaeherung-bei-gemeinsamem-dinner-in-mar-a-lago-a-226803cf-cf0b-4fb8-ade1-72b21942a434#ref=rss)
-### maralago
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast-a-7a472952-fece-49f7-b726-edb7cbb26167#ref=rss)
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-a-3b87223c-21ce-40c6-87f3-55d9837f83f3#ref=rss)
+### pekingtreue
 
-* [https://www.spiegel.de/netzwelt/meta-chef-mark-zuckerberg-und-donald-trump-annaeherung-bei-gemeinsamem-dinner-in-mar-a-lago](https://www.spiegel.de/netzwelt/meta-chef-mark-zuckerberg-und-donald-trump-annaeherung-bei-gemeinsamem-dinner-in-mar-a-lago-a-226803cf-cf0b-4fb8-ade1-72b21942a434#ref=rss)
-### russischen
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast-a-7a472952-fece-49f7-b726-edb7cbb26167#ref=rss)
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-a-3b87223c-21ce-40c6-87f3-55d9837f83f3#ref=rss)
+### justiz
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-hunderttausende-ohne-strom-nach-russischen-luftangriffen](https://www.spiegel.de/ausland/ukraine-krieg-hunderttausende-ohne-strom-nach-russischen-luftangriffen-a-6749423c-10eb-45b2-b51a-6994ce1c9026#ref=rss)
-* [https://www.spiegel.de/ausland/us-geheimdienste-glauben-nicht-an-russische-angriffe-mit-atomwaffen](https://www.spiegel.de/ausland/us-geheimdienste-glauben-nicht-an-russische-angriffe-mit-atomwaffen-a-17b17c04-36cf-4dd2-af1f-891bf03f3ac9#ref=rss)
-### russland
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast-a-7a472952-fece-49f7-b726-edb7cbb26167#ref=rss)
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-a-3b87223c-21ce-40c6-87f3-55d9837f83f3#ref=rss)
+### sperrt
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-hunderttausende-ohne-strom-nach-russischen-luftangriffen](https://www.spiegel.de/ausland/ukraine-krieg-hunderttausende-ohne-strom-nach-russischen-luftangriffen-a-6749423c-10eb-45b2-b51a-6994ce1c9026#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-us-regierung-raet-ukraine-zur-rekrutierung-von-18-jaehrigen](https://www.spiegel.de/ausland/ukraine-krieg-us-regierung-raet-ukraine-zur-rekrutierung-von-18-jaehrigen-a-476b7f37-1cf3-4eaf-8b21-db02860792a2#ref=rss)
-### schuldenbremse
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast-a-7a472952-fece-49f7-b726-edb7cbb26167#ref=rss)
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-a-3b87223c-21ce-40c6-87f3-55d9837f83f3#ref=rss)
+### opposition
 
-* [https://www.spiegel.de/wirtschaft/soziales/schuldenbremse-warum-die-rufe-nach-einer-reform-lauter-werden](https://www.spiegel.de/wirtschaft/soziales/schuldenbremse-warum-die-rufe-nach-einer-reform-lauter-werden-a-8aa310a3-f9f7-4a91-886e-ec853c60ed77#ref=rss)
-### reform
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast-a-7a472952-fece-49f7-b726-edb7cbb26167#ref=rss)
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-a-3b87223c-21ce-40c6-87f3-55d9837f83f3#ref=rss)
+### spiegelkorrespondent
 
-* [https://www.spiegel.de/wirtschaft/soziales/schuldenbremse-warum-die-rufe-nach-einer-reform-lauter-werden](https://www.spiegel.de/wirtschaft/soziales/schuldenbremse-warum-die-rufe-nach-einer-reform-lauter-werden-a-8aa310a3-f9f7-4a91-886e-ec853c60ed77#ref=rss)
-### lange
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast-a-7a472952-fece-49f7-b726-edb7cbb26167#ref=rss)
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-a-3b87223c-21ce-40c6-87f3-55d9837f83f3#ref=rss)
+### georg
 
-* [https://www.spiegel.de/wirtschaft/soziales/schuldenbremse-warum-die-rufe-nach-einer-reform-lauter-werden](https://www.spiegel.de/wirtschaft/soziales/schuldenbremse-warum-die-rufe-nach-einer-reform-lauter-werden-a-8aa310a3-f9f7-4a91-886e-ec853c60ed77#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mohamed-al-fayed-soll-bis-zu-111-frauen-und-maedchen-missbraucht-haben](https://www.spiegel.de/panorama/justiz/mohamed-al-fayed-soll-bis-zu-111-frauen-und-maedchen-missbraucht-haben-a-bb977df1-e182-4c12-bf6f-13df864886a1#ref=rss)
-### laut
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast-a-7a472952-fece-49f7-b726-edb7cbb26167#ref=rss)
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-a-3b87223c-21ce-40c6-87f3-55d9837f83f3#ref=rss)
+### fahrion
 
-* [https://www.spiegel.de/ausland/usa-drei-us-buerger-aus-haft-in-china-entlassen](https://www.spiegel.de/ausland/usa-drei-us-buerger-aus-haft-in-china-entlassen-a-1ba34fcc-3b70-4b25-904d-9454e06726be#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-us-regierung-raet-ukraine-zur-rekrutierung-von-18-jaehrigen](https://www.spiegel.de/ausland/ukraine-krieg-us-regierung-raet-ukraine-zur-rekrutierung-von-18-jaehrigen-a-476b7f37-1cf3-4eaf-8b21-db02860792a2#ref=rss)
-### christopher
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast-a-7a472952-fece-49f7-b726-edb7cbb26167#ref=rss)
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-a-3b87223c-21ce-40c6-87f3-55d9837f83f3#ref=rss)
+### beobachtet
 
-* [https://www.spiegel.de/panorama/leute/neuseeland-limousine-von-christopher-luxon-mit-polizeiwagen-kollidiert](https://www.spiegel.de/panorama/leute/neuseeland-limousine-von-christopher-luxon-mit-polizeiwagen-kollidiert-a-d64a72ca-1771-4971-be55-bb24ee1c04ed#ref=rss)
-### luxon
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast-a-7a472952-fece-49f7-b726-edb7cbb26167#ref=rss)
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-a-3b87223c-21ce-40c6-87f3-55d9837f83f3#ref=rss)
+### erklärt
 
-* [https://www.spiegel.de/panorama/leute/neuseeland-limousine-von-christopher-luxon-mit-polizeiwagen-kollidiert](https://www.spiegel.de/panorama/leute/neuseeland-limousine-von-christopher-luxon-mit-polizeiwagen-kollidiert-a-d64a72ca-1771-4971-be55-bb24ee1c04ed#ref=rss)
-### keith
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast-a-7a472952-fece-49f7-b726-edb7cbb26167#ref=rss)
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-a-3b87223c-21ce-40c6-87f3-55d9837f83f3#ref=rss)
+### metropole
 
-* [https://www.spiegel.de/ausland/machtwechsel-in-den-usa-general-keith-kellogg-soll-den-krieg-in-der-ukraine-beenden](https://www.spiegel.de/ausland/machtwechsel-in-den-usa-general-keith-kellogg-soll-den-krieg-in-der-ukraine-beenden-a-bff9e056-abd3-464f-b713-3f2d72835340#ref=rss)
-### kellogg
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-podcast-a-7a472952-fece-49f7-b726-edb7cbb26167#ref=rss)
+* [https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos](https://www.spiegel.de/ausland/joshua-wong-in-hongkong-zeigt-sich-china-gnadenlos-a-3b87223c-21ce-40c6-87f3-55d9837f83f3#ref=rss)
+### samuel
 
-* [https://www.spiegel.de/ausland/machtwechsel-in-den-usa-general-keith-kellogg-soll-den-krieg-in-der-ukraine-beenden](https://www.spiegel.de/ausland/machtwechsel-in-den-usa-general-keith-kellogg-soll-den-krieg-in-der-ukraine-beenden-a-bff9e056-abd3-464f-b713-3f2d72835340#ref=rss)
-### krieg
+* [https://www.spiegel.de/kultur/kino/samuel-l-jackson-oscarnominierung-ist-fuer-den-schauspieler-keine-ehre](https://www.spiegel.de/kultur/kino/samuel-l-jackson-oscarnominierung-ist-fuer-den-schauspieler-keine-ehre-a-12841bf2-9b93-482d-b344-709503d18458#ref=rss)
+### l
 
-* [https://www.spiegel.de/ausland/machtwechsel-in-den-usa-general-keith-kellogg-soll-den-krieg-in-der-ukraine-beenden](https://www.spiegel.de/ausland/machtwechsel-in-den-usa-general-keith-kellogg-soll-den-krieg-in-der-ukraine-beenden-a-bff9e056-abd3-464f-b713-3f2d72835340#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-us-regierung-raet-ukraine-zur-rekrutierung-von-18-jaehrigen](https://www.spiegel.de/ausland/ukraine-krieg-us-regierung-raet-ukraine-zur-rekrutierung-von-18-jaehrigen-a-476b7f37-1cf3-4eaf-8b21-db02860792a2#ref=rss)
-### demi
+* [https://www.spiegel.de/kultur/kino/samuel-l-jackson-oscarnominierung-ist-fuer-den-schauspieler-keine-ehre](https://www.spiegel.de/kultur/kino/samuel-l-jackson-oscarnominierung-ist-fuer-den-schauspieler-keine-ehre-a-12841bf2-9b93-482d-b344-709503d18458#ref=rss)
+### jackson
 
-* [https://www.spiegel.de/panorama/leute/demi-moore-gibt-ihren-hunden-scherzhaft-die-schuld-an-ihrem-single-dasein](https://www.spiegel.de/panorama/leute/demi-moore-gibt-ihren-hunden-scherzhaft-die-schuld-an-ihrem-single-dasein-a-a297568e-0653-424c-814f-8940a95a61da#ref=rss)
-### moore
+* [https://www.spiegel.de/kultur/kino/samuel-l-jackson-oscarnominierung-ist-fuer-den-schauspieler-keine-ehre](https://www.spiegel.de/kultur/kino/samuel-l-jackson-oscarnominierung-ist-fuer-den-schauspieler-keine-ehre-a-12841bf2-9b93-482d-b344-709503d18458#ref=rss)
+### nominierung
 
-* [https://www.spiegel.de/panorama/leute/demi-moore-gibt-ihren-hunden-scherzhaft-die-schuld-an-ihrem-single-dasein](https://www.spiegel.de/panorama/leute/demi-moore-gibt-ihren-hunden-scherzhaft-die-schuld-an-ihrem-single-dasein-a-a297568e-0653-424c-814f-8940a95a61da#ref=rss)
-### singledasein
+* [https://www.spiegel.de/kultur/kino/samuel-l-jackson-oscarnominierung-ist-fuer-den-schauspieler-keine-ehre](https://www.spiegel.de/kultur/kino/samuel-l-jackson-oscarnominierung-ist-fuer-den-schauspieler-keine-ehre-a-12841bf2-9b93-482d-b344-709503d18458#ref=rss)
+### dazu
 
-* [https://www.spiegel.de/panorama/leute/demi-moore-gibt-ihren-hunden-scherzhaft-die-schuld-an-ihrem-single-dasein](https://www.spiegel.de/panorama/leute/demi-moore-gibt-ihren-hunden-scherzhaft-die-schuld-an-ihrem-single-dasein-a-a297568e-0653-424c-814f-8940a95a61da#ref=rss)
-### angriffe
+* [https://www.spiegel.de/kultur/kino/samuel-l-jackson-oscarnominierung-ist-fuer-den-schauspieler-keine-ehre](https://www.spiegel.de/kultur/kino/samuel-l-jackson-oscarnominierung-ist-fuer-den-schauspieler-keine-ehre-a-12841bf2-9b93-482d-b344-709503d18458#ref=rss)
+* [https://www.spiegel.de/sport/europapokal-1-fc-heidenheim-fordert-fc-chelsea-die-schwaebische-hausfrau-des-fussballs](https://www.spiegel.de/sport/europapokal-1-fc-heidenheim-fordert-fc-chelsea-die-schwaebische-hausfrau-des-fussballs-a-5a9826d3-3080-403e-8a80-8d52a012f948#ref=rss)
+### fdp
 
-* [https://www.spiegel.de/ausland/us-geheimdienste-glauben-nicht-an-russische-angriffe-mit-atomwaffen](https://www.spiegel.de/ausland/us-geheimdienste-glauben-nicht-an-russische-angriffe-mit-atomwaffen-a-17b17c04-36cf-4dd2-af1f-891bf03f3ac9#ref=rss)
-* [https://www.spiegel.de/netzwelt/t-mobile-usa-meldet-hackerangriffe](https://www.spiegel.de/netzwelt/t-mobile-usa-meldet-hackerangriffe-a-4a0966ed-077d-4862-8586-927d809b9828#ref=rss)
-### atomwaffen
+* [https://www.spiegel.de/politik/ampel-aus-fdp-veroeffentlicht-d-day-papier](https://www.spiegel.de/politik/ampel-aus-fdp-veroeffentlicht-d-day-papier-a-c7bfe01d-9251-48c0-9a3d-c1fd48913b9b#ref=rss)
+### veröffentlicht
 
-* [https://www.spiegel.de/ausland/us-geheimdienste-glauben-nicht-an-russische-angriffe-mit-atomwaffen](https://www.spiegel.de/ausland/us-geheimdienste-glauben-nicht-an-russische-angriffe-mit-atomwaffen-a-17b17c04-36cf-4dd2-af1f-891bf03f3ac9#ref=rss)
-### hinter
+* [https://www.spiegel.de/politik/ampel-aus-fdp-veroeffentlicht-d-day-papier](https://www.spiegel.de/politik/ampel-aus-fdp-veroeffentlicht-d-day-papier-a-c7bfe01d-9251-48c0-9a3d-c1fd48913b9b#ref=rss)
+### beginn
 
-* [https://www.spiegel.de/netzwelt/t-mobile-usa-meldet-hackerangriffe](https://www.spiegel.de/netzwelt/t-mobile-usa-meldet-hackerangriffe-a-4a0966ed-077d-4862-8586-927d809b9828#ref=rss)
-* [https://www.spiegel.de/partnerschaft/dating-wie-findet-man-die-richtige-als-getrennt-lebender-vater](https://www.spiegel.de/partnerschaft/dating-wie-findet-man-die-richtige-als-getrennt-lebender-vater-a-e87ec265-5521-488b-be83-429f817ea5e0#ref=rss)
-### wann
+* [https://www.spiegel.de/politik/ampel-aus-fdp-veroeffentlicht-d-day-papier](https://www.spiegel.de/politik/ampel-aus-fdp-veroeffentlicht-d-day-papier-a-c7bfe01d-9251-48c0-9a3d-c1fd48913b9b#ref=rss)
+* [https://www.spiegel.de/kultur/keira-knightley-geruechte-ueber-essstoerung-machten-sie-krank](https://www.spiegel.de/kultur/keira-knightley-geruechte-ueber-essstoerung-machten-sie-krank-a-625fcf0c-2b3f-4bd2-b442-12baee52b849#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/karriere/resturlaub-wann-er-verfaellt-und-was-sie-beachten-muessen](https://www.spiegel.de/karriere/resturlaub-wann-er-verfaellt-und-was-sie-beachten-muessen-a-1e7a349a-3444-4a9a-90c7-3bff9f4397dc#ref=rss)
-### jahr
+* [https://www.spiegel.de/politik/ampel-aus-fdp-veroeffentlicht-d-day-papier](https://www.spiegel.de/politik/ampel-aus-fdp-veroeffentlicht-d-day-papier-a-c7bfe01d-9251-48c0-9a3d-c1fd48913b9b#ref=rss)
+### druck
 
-* [https://www.spiegel.de/karriere/resturlaub-wann-er-verfaellt-und-was-sie-beachten-muessen](https://www.spiegel.de/karriere/resturlaub-wann-er-verfaellt-und-was-sie-beachten-muessen-a-1e7a349a-3444-4a9a-90c7-3bff9f4397dc#ref=rss)
-* [https://www.spiegel.de/partnerschaft/julia-roberts-und-richard-gere-der-groesste-fehler-in-beziehungen](https://www.spiegel.de/partnerschaft/julia-roberts-und-richard-gere-der-groesste-fehler-in-beziehungen-a-9e7d3858-a38a-4c69-8511-450ff637aac3#ref=rss)
-### dating
+* [https://www.spiegel.de/politik/ampel-aus-fdp-veroeffentlicht-d-day-papier](https://www.spiegel.de/politik/ampel-aus-fdp-veroeffentlicht-d-day-papier-a-c7bfe01d-9251-48c0-9a3d-c1fd48913b9b#ref=rss)
+* [https://www.spiegel.de/ausland/iran-deutscher-botschafter-kehrt-nach-hinrichtung-von-jamshid-sharmahd-nach-teheran-zurueck](https://www.spiegel.de/ausland/iran-deutscher-botschafter-kehrt-nach-hinrichtung-von-jamshid-sharmahd-nach-teheran-zurueck-a-e538cef7-be6b-43ef-8c42-143544889621#ref=rss)
+### mehrerer
 
-* [https://www.spiegel.de/partnerschaft/dating-wie-findet-man-die-richtige-als-getrennt-lebender-vater](https://www.spiegel.de/partnerschaft/dating-wie-findet-man-die-richtige-als-getrennt-lebender-vater-a-e87ec265-5521-488b-be83-429f817ea5e0#ref=rss)
-* [https://www.spiegel.de/partnerschaft/dating-als-getrennt-lebender-vater-suchen-die-frauen-einen-freund-oder-ersatz-papa](https://www.spiegel.de/partnerschaft/dating-als-getrennt-lebender-vater-suchen-die-frauen-einen-freund-oder-ersatz-papa-a-56ab8e0c-7f8c-4034-a31a-22af9cd8e92c#ref=rss)
-### paar
+* [https://www.spiegel.de/politik/ampel-aus-fdp-veroeffentlicht-d-day-papier](https://www.spiegel.de/politik/ampel-aus-fdp-veroeffentlicht-d-day-papier-a-c7bfe01d-9251-48c0-9a3d-c1fd48913b9b#ref=rss)
+* [https://www.spiegel.de/kultur/tv/charlie-rose-frueherer-cbs-moderator-erzielt-einigung-bei-belaestigungsklage](https://www.spiegel.de/kultur/tv/charlie-rose-frueherer-cbs-moderator-erzielt-einigung-bei-belaestigungsklage-a-4a820532-c092-43d5-9eac-133bb6e3caa1#ref=rss)
+### lindsay
 
-* [https://www.spiegel.de/partnerschaft/dating-wie-findet-man-die-richtige-als-getrennt-lebender-vater](https://www.spiegel.de/partnerschaft/dating-wie-findet-man-die-richtige-als-getrennt-lebender-vater-a-e87ec265-5521-488b-be83-429f817ea5e0#ref=rss)
-### mich
+* [https://www.spiegel.de/kultur/our-little-secret-auf-netflix-ist-lindsay-lohan-die-neue-weihnachtsfilm-queen](https://www.spiegel.de/kultur/our-little-secret-auf-netflix-ist-lindsay-lohan-die-neue-weihnachtsfilm-queen-a-4dd0f47c-89af-4283-8c4d-00cb4af91b56#ref=rss)
+### lohan
 
-* [https://www.spiegel.de/partnerschaft/dating-als-getrennt-lebender-vater-suchen-die-frauen-einen-freund-oder-ersatz-papa](https://www.spiegel.de/partnerschaft/dating-als-getrennt-lebender-vater-suchen-die-frauen-einen-freund-oder-ersatz-papa-a-56ab8e0c-7f8c-4034-a31a-22af9cd8e92c#ref=rss)
-### bsw
+* [https://www.spiegel.de/kultur/our-little-secret-auf-netflix-ist-lindsay-lohan-die-neue-weihnachtsfilm-queen](https://www.spiegel.de/kultur/our-little-secret-auf-netflix-ist-lindsay-lohan-die-neue-weihnachtsfilm-queen-a-4dd0f47c-89af-4283-8c4d-00cb4af91b56#ref=rss)
+### neue
 
-* [https://www.spiegel.de/politik/deutschland/news-gisele-pelicot-bsw-wahlen-in-rumaenien](https://www.spiegel.de/politik/deutschland/news-gisele-pelicot-bsw-wahlen-in-rumaenien-a-129bc68e-1515-4f91-ab14-6582f0b7768b#ref=rss)
-### berät
+* [https://www.spiegel.de/kultur/our-little-secret-auf-netflix-ist-lindsay-lohan-die-neue-weihnachtsfilm-queen](https://www.spiegel.de/kultur/our-little-secret-auf-netflix-ist-lindsay-lohan-die-neue-weihnachtsfilm-queen-a-4dd0f47c-89af-4283-8c4d-00cb4af91b56#ref=rss)
+* [https://www.spiegel.de/start/lehrermangel-40-prozent-der-studierenden-brechen-ihr-lehramtstudium-ab](https://www.spiegel.de/start/lehrermangel-40-prozent-der-studierenden-brechen-ihr-lehramtstudium-ab-a-af39dbe2-1303-41a4-baf5-1abd0668fced#ref=rss)
+### jahrelang
 
-* [https://www.spiegel.de/politik/deutschland/news-gisele-pelicot-bsw-wahlen-in-rumaenien](https://www.spiegel.de/politik/deutschland/news-gisele-pelicot-bsw-wahlen-in-rumaenien-a-129bc68e-1515-4f91-ab14-6582f0b7768b#ref=rss)
-### ja
+* [https://www.spiegel.de/kultur/our-little-secret-auf-netflix-ist-lindsay-lohan-die-neue-weihnachtsfilm-queen](https://www.spiegel.de/kultur/our-little-secret-auf-netflix-ist-lindsay-lohan-die-neue-weihnachtsfilm-queen-a-4dd0f47c-89af-4283-8c4d-00cb4af91b56#ref=rss)
+* [https://www.spiegel.de/panorama/it-spezialist-gesteht-spionage-fuer-russischen-agenten-jan-marsalek](https://www.spiegel.de/panorama/it-spezialist-gesteht-spionage-fuer-russischen-agenten-jan-marsalek-a-a1718d73-c457-47ef-99cd-782560c77367#ref=rss)
+### beförderungen
 
-* [https://www.spiegel.de/politik/deutschland/news-gisele-pelicot-bsw-wahlen-in-rumaenien](https://www.spiegel.de/politik/deutschland/news-gisele-pelicot-bsw-wahlen-in-rumaenien-a-129bc68e-1515-4f91-ab14-6582f0b7768b#ref=rss)
-### wirft
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-segnet-lange-liste-mit-befoerderungen-ab-beamte-diplomaten-und-soldaten](https://www.spiegel.de/politik/deutschland/bundesregierung-segnet-lange-liste-mit-befoerderungen-ab-beamte-diplomaten-und-soldaten-a-eec1aca2-73f2-4e7c-bff5-f94bf7976927#ref=rss)
+### winfried
 
-* [https://www.spiegel.de/panorama/justiz/mohamed-al-fayed-soll-bis-zu-111-frauen-und-maedchen-missbraucht-haben](https://www.spiegel.de/panorama/justiz/mohamed-al-fayed-soll-bis-zu-111-frauen-und-maedchen-missbraucht-haben-a-bb977df1-e182-4c12-bf6f-13df864886a1#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-us-regierung-raet-ukraine-zur-rekrutierung-von-18-jaehrigen](https://www.spiegel.de/ausland/ukraine-krieg-us-regierung-raet-ukraine-zur-rekrutierung-von-18-jaehrigen-a-476b7f37-1cf3-4eaf-8b21-db02860792a2#ref=rss)
-### usregierung
+* [https://www.spiegel.de/panorama/bildung/winfried-kretschmann-will-zweite-fremdsprache-als-schulfach-abschaffen-philologenverband-entsetzt](https://www.spiegel.de/panorama/bildung/winfried-kretschmann-will-zweite-fremdsprache-als-schulfach-abschaffen-philologenverband-entsetzt-a-62738f12-ff2f-4130-a387-70d615d81d6d#ref=rss)
+### kretschmann
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-us-regierung-raet-ukraine-zur-rekrutierung-von-18-jaehrigen](https://www.spiegel.de/ausland/ukraine-krieg-us-regierung-raet-ukraine-zur-rekrutierung-von-18-jaehrigen-a-476b7f37-1cf3-4eaf-8b21-db02860792a2#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/winfried-kretschmann-will-zweite-fremdsprache-als-schulfach-abschaffen-philologenverband-entsetzt](https://www.spiegel.de/panorama/bildung/winfried-kretschmann-will-zweite-fremdsprache-als-schulfach-abschaffen-philologenverband-entsetzt-a-62738f12-ff2f-4130-a387-70d615d81d6d#ref=rss)
+### ministerpräsident
+
+* [https://www.spiegel.de/panorama/bildung/winfried-kretschmann-will-zweite-fremdsprache-als-schulfach-abschaffen-philologenverband-entsetzt](https://www.spiegel.de/panorama/bildung/winfried-kretschmann-will-zweite-fremdsprache-als-schulfach-abschaffen-philologenverband-entsetzt-a-62738f12-ff2f-4130-a387-70d615d81d6d#ref=rss)
+* [https://www.spiegel.de/ausland/rumaenien-oberstes-gericht-ordnet-neuauszaehlung-nach-praesidentschaftswahl-an](https://www.spiegel.de/ausland/rumaenien-oberstes-gericht-ordnet-neuauszaehlung-nach-praesidentschaftswahl-an-a-bb38a25d-1d00-4841-aee2-f1b7da476427#ref=rss)
+### keira
+
+* [https://www.spiegel.de/kultur/keira-knightley-geruechte-ueber-essstoerung-machten-sie-krank](https://www.spiegel.de/kultur/keira-knightley-geruechte-ueber-essstoerung-machten-sie-krank-a-625fcf0c-2b3f-4bd2-b442-12baee52b849#ref=rss)
+### knightley
+
+* [https://www.spiegel.de/kultur/keira-knightley-geruechte-ueber-essstoerung-machten-sie-krank](https://www.spiegel.de/kultur/keira-knightley-geruechte-ueber-essstoerung-machten-sie-krank-a-625fcf0c-2b3f-4bd2-b442-12baee52b849#ref=rss)
+### essstörung
+
+* [https://www.spiegel.de/kultur/keira-knightley-geruechte-ueber-essstoerung-machten-sie-krank](https://www.spiegel.de/kultur/keira-knightley-geruechte-ueber-essstoerung-machten-sie-krank-a-625fcf0c-2b3f-4bd2-b442-12baee52b849#ref=rss)
+### 40
+
+* [https://www.spiegel.de/start/lehrermangel-40-prozent-der-studierenden-brechen-ihr-lehramtstudium-ab](https://www.spiegel.de/start/lehrermangel-40-prozent-der-studierenden-brechen-ihr-lehramtstudium-ab-a-af39dbe2-1303-41a4-baf5-1abd0668fced#ref=rss)
+### prozent
+
+* [https://www.spiegel.de/start/lehrermangel-40-prozent-der-studierenden-brechen-ihr-lehramtstudium-ab](https://www.spiegel.de/start/lehrermangel-40-prozent-der-studierenden-brechen-ihr-lehramtstudium-ab-a-af39dbe2-1303-41a4-baf5-1abd0668fced#ref=rss)
+### studierenden
+
+* [https://www.spiegel.de/start/lehrermangel-40-prozent-der-studierenden-brechen-ihr-lehramtstudium-ab](https://www.spiegel.de/start/lehrermangel-40-prozent-der-studierenden-brechen-ihr-lehramtstudium-ab-a-af39dbe2-1303-41a4-baf5-1abd0668fced#ref=rss)
+### brechen
+
+* [https://www.spiegel.de/start/lehrermangel-40-prozent-der-studierenden-brechen-ihr-lehramtstudium-ab](https://www.spiegel.de/start/lehrermangel-40-prozent-der-studierenden-brechen-ihr-lehramtstudium-ab-a-af39dbe2-1303-41a4-baf5-1abd0668fced#ref=rss)
+### wo
+
+* [https://www.spiegel.de/start/lehrermangel-40-prozent-der-studierenden-brechen-ihr-lehramtstudium-ab](https://www.spiegel.de/start/lehrermangel-40-prozent-der-studierenden-brechen-ihr-lehramtstudium-ab-a-af39dbe2-1303-41a4-baf5-1abd0668fced#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimaschutz-verdeckte-recherche-enthuellt-illegalen-handel-mit-kaeltemitteln](https://www.spiegel.de/wissenschaft/klimaschutz-verdeckte-recherche-enthuellt-illegalen-handel-mit-kaeltemitteln-a-0d835054-d011-43e5-b6da-644e46b23f2a#ref=rss)
+### mariejoan
+
+* [https://www.spiegel.de/netzwelt/web/influencerin-marie-joan-schmidt-wie-dr-rambazamba-ueber-sex-aufklaert](https://www.spiegel.de/netzwelt/web/influencerin-marie-joan-schmidt-wie-dr-rambazamba-ueber-sex-aufklaert-a-d83f512e-a91c-471a-9ee4-367ca99392a5#ref=rss)
+### schmidt
+
+* [https://www.spiegel.de/netzwelt/web/influencerin-marie-joan-schmidt-wie-dr-rambazamba-ueber-sex-aufklaert](https://www.spiegel.de/netzwelt/web/influencerin-marie-joan-schmidt-wie-dr-rambazamba-ueber-sex-aufklaert-a-d83f512e-a91c-471a-9ee4-367ca99392a5#ref=rss)
+### sex
+
+* [https://www.spiegel.de/netzwelt/web/influencerin-marie-joan-schmidt-wie-dr-rambazamba-ueber-sex-aufklaert](https://www.spiegel.de/netzwelt/web/influencerin-marie-joan-schmidt-wie-dr-rambazamba-ueber-sex-aufklaert-a-d83f512e-a91c-471a-9ee4-367ca99392a5#ref=rss)
+### deutscher
+
+* [https://www.spiegel.de/panorama/justiz/tod-in-suedafrika-37-jaehriger-wegen-raubueberfall-auf-deutschen-touristen-schuldig-gesprochen](https://www.spiegel.de/panorama/justiz/tod-in-suedafrika-37-jaehriger-wegen-raubueberfall-auf-deutschen-touristen-schuldig-gesprochen-a-4621bba8-11a6-41c3-9a8a-6784e823b180#ref=rss)
+* [https://www.spiegel.de/ausland/iran-deutscher-botschafter-kehrt-nach-hinrichtung-von-jamshid-sharmahd-nach-teheran-zurueck](https://www.spiegel.de/ausland/iran-deutscher-botschafter-kehrt-nach-hinrichtung-von-jamshid-sharmahd-nach-teheran-zurueck-a-e538cef7-be6b-43ef-8c42-143544889621#ref=rss)
+### ende
+
+* [https://www.spiegel.de/panorama/justiz/tod-in-suedafrika-37-jaehriger-wegen-raubueberfall-auf-deutschen-touristen-schuldig-gesprochen](https://www.spiegel.de/panorama/justiz/tod-in-suedafrika-37-jaehriger-wegen-raubueberfall-auf-deutschen-touristen-schuldig-gesprochen-a-4621bba8-11a6-41c3-9a8a-6784e823b180#ref=rss)
+* [https://www.spiegel.de/kultur/tv/charlie-rose-frueherer-cbs-moderator-erzielt-einigung-bei-belaestigungsklage](https://www.spiegel.de/kultur/tv/charlie-rose-frueherer-cbs-moderator-erzielt-einigung-bei-belaestigungsklage-a-4a820532-c092-43d5-9eac-133bb6e3caa1#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/panorama/justiz/tod-in-suedafrika-37-jaehriger-wegen-raubueberfall-auf-deutschen-touristen-schuldig-gesprochen](https://www.spiegel.de/panorama/justiz/tod-in-suedafrika-37-jaehriger-wegen-raubueberfall-auf-deutschen-touristen-schuldig-gesprochen-a-4621bba8-11a6-41c3-9a8a-6784e823b180#ref=rss)
+* [https://www.spiegel.de/ausland/rumaenien-oberstes-gericht-ordnet-neuauszaehlung-nach-praesidentschaftswahl-an](https://www.spiegel.de/ausland/rumaenien-oberstes-gericht-ordnet-neuauszaehlung-nach-praesidentschaftswahl-an-a-bb38a25d-1d00-4841-aee2-f1b7da476427#ref=rss)
+### iga
+
+* [https://www.spiegel.de/sport/tennis/french-open-siegerin-iga-swiatek-kassiert-sperre-wegen-dopings](https://www.spiegel.de/sport/tennis/french-open-siegerin-iga-swiatek-kassiert-sperre-wegen-dopings-a-a3287c77-4af9-4740-99bf-fd5e92318837#ref=rss)
+### świątek
+
+* [https://www.spiegel.de/sport/tennis/french-open-siegerin-iga-swiatek-kassiert-sperre-wegen-dopings](https://www.spiegel.de/sport/tennis/french-open-siegerin-iga-swiatek-kassiert-sperre-wegen-dopings-a-a3287c77-4af9-4740-99bf-fd5e92318837#ref=rss)
+### deswegen
+
+* [https://www.spiegel.de/sport/tennis/french-open-siegerin-iga-swiatek-kassiert-sperre-wegen-dopings](https://www.spiegel.de/sport/tennis/french-open-siegerin-iga-swiatek-kassiert-sperre-wegen-dopings-a-a3287c77-4af9-4740-99bf-fd5e92318837#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimaschutz-verdeckte-recherche-enthuellt-illegalen-handel-mit-kaeltemitteln](https://www.spiegel.de/wissenschaft/klimaschutz-verdeckte-recherche-enthuellt-illegalen-handel-mit-kaeltemitteln-a-0d835054-d011-43e5-b6da-644e46b23f2a#ref=rss)
+### sehr
+
+* [https://www.spiegel.de/sport/tennis/french-open-siegerin-iga-swiatek-kassiert-sperre-wegen-dopings](https://www.spiegel.de/sport/tennis/french-open-siegerin-iga-swiatek-kassiert-sperre-wegen-dopings-a-a3287c77-4af9-4740-99bf-fd5e92318837#ref=rss)
+* [https://www.spiegel.de/ausland/rumaenien-oberstes-gericht-ordnet-neuauszaehlung-nach-praesidentschaftswahl-an](https://www.spiegel.de/ausland/rumaenien-oberstes-gericht-ordnet-neuauszaehlung-nach-praesidentschaftswahl-an-a-bb38a25d-1d00-4841-aee2-f1b7da476427#ref=rss)
+### verdeckte
+
+* [https://www.spiegel.de/wissenschaft/klimaschutz-verdeckte-recherche-enthuellt-illegalen-handel-mit-kaeltemitteln](https://www.spiegel.de/wissenschaft/klimaschutz-verdeckte-recherche-enthuellt-illegalen-handel-mit-kaeltemitteln-a-0d835054-d011-43e5-b6da-644e46b23f2a#ref=rss)
+### recherche
+
+* [https://www.spiegel.de/wissenschaft/klimaschutz-verdeckte-recherche-enthuellt-illegalen-handel-mit-kaeltemitteln](https://www.spiegel.de/wissenschaft/klimaschutz-verdeckte-recherche-enthuellt-illegalen-handel-mit-kaeltemitteln-a-0d835054-d011-43e5-b6da-644e46b23f2a#ref=rss)
+### handel
+
+* [https://www.spiegel.de/wissenschaft/klimaschutz-verdeckte-recherche-enthuellt-illegalen-handel-mit-kaeltemitteln](https://www.spiegel.de/wissenschaft/klimaschutz-verdeckte-recherche-enthuellt-illegalen-handel-mit-kaeltemitteln-a-0d835054-d011-43e5-b6da-644e46b23f2a#ref=rss)
+### waffenruhe
+
+* [https://www.spiegel.de/ausland/nahost-israels-luftwaffe-greift-erstmals-seit-waffenruhe-hisbollah-ziel-an](https://www.spiegel.de/ausland/nahost-israels-luftwaffe-greift-erstmals-seit-waffenruhe-hisbollah-ziel-an-a-8c62fbd0-77a7-482c-ad9f-aadbfc913956#ref=rss)
+### einigung
+
+* [https://www.spiegel.de/ausland/nahost-israels-luftwaffe-greift-erstmals-seit-waffenruhe-hisbollah-ziel-an](https://www.spiegel.de/ausland/nahost-israels-luftwaffe-greift-erstmals-seit-waffenruhe-hisbollah-ziel-an-a-8c62fbd0-77a7-482c-ad9f-aadbfc913956#ref=rss)
+* [https://www.spiegel.de/kultur/tv/charlie-rose-frueherer-cbs-moderator-erzielt-einigung-bei-belaestigungsklage](https://www.spiegel.de/kultur/tv/charlie-rose-frueherer-cbs-moderator-erzielt-einigung-bei-belaestigungsklage-a-4a820532-c092-43d5-9eac-133bb6e3caa1#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/nahost-israels-luftwaffe-greift-erstmals-seit-waffenruhe-hisbollah-ziel-an](https://www.spiegel.de/ausland/nahost-israels-luftwaffe-greift-erstmals-seit-waffenruhe-hisbollah-ziel-an-a-8c62fbd0-77a7-482c-ad9f-aadbfc913956#ref=rss)
+### kam
+
+* [https://www.spiegel.de/ausland/nahost-israels-luftwaffe-greift-erstmals-seit-waffenruhe-hisbollah-ziel-an](https://www.spiegel.de/ausland/nahost-israels-luftwaffe-greift-erstmals-seit-waffenruhe-hisbollah-ziel-an-a-8c62fbd0-77a7-482c-ad9f-aadbfc913956#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-polizei-stellt-eine-tonne-marihuana-in-lagerhaus-sicher](https://www.spiegel.de/panorama/justiz/berlin-polizei-stellt-eine-tonne-marihuana-in-lagerhaus-sicher-a-415b6606-691f-461f-80ce-2674419eb667#ref=rss)
+### 1
+
+* [https://www.spiegel.de/sport/europapokal-1-fc-heidenheim-fordert-fc-chelsea-die-schwaebische-hausfrau-des-fussballs](https://www.spiegel.de/sport/europapokal-1-fc-heidenheim-fordert-fc-chelsea-die-schwaebische-hausfrau-des-fussballs-a-5a9826d3-3080-403e-8a80-8d52a012f948#ref=rss)
+### heidenheim
+
+* [https://www.spiegel.de/sport/europapokal-1-fc-heidenheim-fordert-fc-chelsea-die-schwaebische-hausfrau-des-fussballs](https://www.spiegel.de/sport/europapokal-1-fc-heidenheim-fordert-fc-chelsea-die-schwaebische-hausfrau-des-fussballs-a-5a9826d3-3080-403e-8a80-8d52a012f948#ref=rss)
+### chelsea
+
+* [https://www.spiegel.de/sport/europapokal-1-fc-heidenheim-fordert-fc-chelsea-die-schwaebische-hausfrau-des-fussballs](https://www.spiegel.de/sport/europapokal-1-fc-heidenheim-fordert-fc-chelsea-die-schwaebische-hausfrau-des-fussballs-a-5a9826d3-3080-403e-8a80-8d52a012f948#ref=rss)
+### usa
+
+* [https://www.spiegel.de/sport/europapokal-1-fc-heidenheim-fordert-fc-chelsea-die-schwaebische-hausfrau-des-fussballs](https://www.spiegel.de/sport/europapokal-1-fc-heidenheim-fordert-fc-chelsea-die-schwaebische-hausfrau-des-fussballs-a-5a9826d3-3080-403e-8a80-8d52a012f948#ref=rss)
+* [https://www.spiegel.de/ausland/nato-zypern-draengt-auf-mitgliedschaft-trotz-bedenken-der-tuerkei](https://www.spiegel.de/ausland/nato-zypern-draengt-auf-mitgliedschaft-trotz-bedenken-der-tuerkei-a-b6a97c93-ce46-4a18-9a3f-d83b1f3a5dee#ref=rss)
+### charlie
+
+* [https://www.spiegel.de/kultur/tv/charlie-rose-frueherer-cbs-moderator-erzielt-einigung-bei-belaestigungsklage](https://www.spiegel.de/kultur/tv/charlie-rose-frueherer-cbs-moderator-erzielt-einigung-bei-belaestigungsklage-a-4a820532-c092-43d5-9eac-133bb6e3caa1#ref=rss)
+### rose
+
+* [https://www.spiegel.de/kultur/tv/charlie-rose-frueherer-cbs-moderator-erzielt-einigung-bei-belaestigungsklage](https://www.spiegel.de/kultur/tv/charlie-rose-frueherer-cbs-moderator-erzielt-einigung-bei-belaestigungsklage-a-4a820532-c092-43d5-9eac-133bb6e3caa1#ref=rss)
+### zogen
+
+* [https://www.spiegel.de/kultur/tv/charlie-rose-frueherer-cbs-moderator-erzielt-einigung-bei-belaestigungsklage](https://www.spiegel.de/kultur/tv/charlie-rose-frueherer-cbs-moderator-erzielt-einigung-bei-belaestigungsklage-a-4a820532-c092-43d5-9eac-133bb6e3caa1#ref=rss)
+* [https://www.spiegel.de/ausland/rumaenien-oberstes-gericht-ordnet-neuauszaehlung-nach-praesidentschaftswahl-an](https://www.spiegel.de/ausland/rumaenien-oberstes-gericht-ordnet-neuauszaehlung-nach-praesidentschaftswahl-an-a-bb38a25d-1d00-4841-aee2-f1b7da476427#ref=rss)
+### drei
+
+* [https://www.spiegel.de/kultur/tv/charlie-rose-frueherer-cbs-moderator-erzielt-einigung-bei-belaestigungsklage](https://www.spiegel.de/kultur/tv/charlie-rose-frueherer-cbs-moderator-erzielt-einigung-bei-belaestigungsklage-a-4a820532-c092-43d5-9eac-133bb6e3caa1#ref=rss)
+* [https://www.spiegel.de/ausland/rumaenien-oberstes-gericht-ordnet-neuauszaehlung-nach-praesidentschaftswahl-an](https://www.spiegel.de/ausland/rumaenien-oberstes-gericht-ordnet-neuauszaehlung-nach-praesidentschaftswahl-an-a-bb38a25d-1d00-4841-aee2-f1b7da476427#ref=rss)
+### rumänien
+
+* [https://www.spiegel.de/ausland/rumaenien-oberstes-gericht-ordnet-neuauszaehlung-nach-praesidentschaftswahl-an](https://www.spiegel.de/ausland/rumaenien-oberstes-gericht-ordnet-neuauszaehlung-nach-praesidentschaftswahl-an-a-bb38a25d-1d00-4841-aee2-f1b7da476427#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/iran-deutscher-botschafter-kehrt-nach-hinrichtung-von-jamshid-sharmahd-nach-teheran-zurueck](https://www.spiegel.de/ausland/iran-deutscher-botschafter-kehrt-nach-hinrichtung-von-jamshid-sharmahd-nach-teheran-zurueck-a-e538cef7-be6b-43ef-8c42-143544889621#ref=rss)
+### botschafter
+
+* [https://www.spiegel.de/ausland/iran-deutscher-botschafter-kehrt-nach-hinrichtung-von-jamshid-sharmahd-nach-teheran-zurueck](https://www.spiegel.de/ausland/iran-deutscher-botschafter-kehrt-nach-hinrichtung-von-jamshid-sharmahd-nach-teheran-zurueck-a-e538cef7-be6b-43ef-8c42-143544889621#ref=rss)
+### jamshid
+
+* [https://www.spiegel.de/ausland/iran-deutscher-botschafter-kehrt-nach-hinrichtung-von-jamshid-sharmahd-nach-teheran-zurueck](https://www.spiegel.de/ausland/iran-deutscher-botschafter-kehrt-nach-hinrichtung-von-jamshid-sharmahd-nach-teheran-zurueck-a-e538cef7-be6b-43ef-8c42-143544889621#ref=rss)
+### sharmahd
+
+* [https://www.spiegel.de/ausland/iran-deutscher-botschafter-kehrt-nach-hinrichtung-von-jamshid-sharmahd-nach-teheran-zurueck](https://www.spiegel.de/ausland/iran-deutscher-botschafter-kehrt-nach-hinrichtung-von-jamshid-sharmahd-nach-teheran-zurueck-a-e538cef7-be6b-43ef-8c42-143544889621#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/panorama/justiz/berlin-polizei-stellt-eine-tonne-marihuana-in-lagerhaus-sicher](https://www.spiegel.de/panorama/justiz/berlin-polizei-stellt-eine-tonne-marihuana-in-lagerhaus-sicher-a-415b6606-691f-461f-80ce-2674419eb667#ref=rss)
+### tonne
+
+* [https://www.spiegel.de/panorama/justiz/berlin-polizei-stellt-eine-tonne-marihuana-in-lagerhaus-sicher](https://www.spiegel.de/panorama/justiz/berlin-polizei-stellt-eine-tonne-marihuana-in-lagerhaus-sicher-a-415b6606-691f-461f-80ce-2674419eb667#ref=rss)
+### zypern
+
+* [https://www.spiegel.de/ausland/nato-zypern-draengt-auf-mitgliedschaft-trotz-bedenken-der-tuerkei](https://www.spiegel.de/ausland/nato-zypern-draengt-auf-mitgliedschaft-trotz-bedenken-der-tuerkei-a-b6a97c93-ce46-4a18-9a3f-d83b1f3a5dee#ref=rss)
+### drängt
+
+* [https://www.spiegel.de/ausland/nato-zypern-draengt-auf-mitgliedschaft-trotz-bedenken-der-tuerkei](https://www.spiegel.de/ausland/nato-zypern-draengt-auf-mitgliedschaft-trotz-bedenken-der-tuerkei-a-b6a97c93-ce46-4a18-9a3f-d83b1f3a5dee#ref=rss)
+### türkei
+
+* [https://www.spiegel.de/ausland/nato-zypern-draengt-auf-mitgliedschaft-trotz-bedenken-der-tuerkei](https://www.spiegel.de/ausland/nato-zypern-draengt-auf-mitgliedschaft-trotz-bedenken-der-tuerkei-a-b6a97c93-ce46-4a18-9a3f-d83b1f3a5dee#ref=rss)
 
