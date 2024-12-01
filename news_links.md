@@ -4,405 +4,353 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### donald
+### ukrainer
 
-* [https://www.spiegel.de/ausland/fbi-kash-patel-soll-unter-donald-trump-die-us-bundespolizei-leiten](https://www.spiegel.de/ausland/fbi-kash-patel-soll-unter-donald-trump-die-us-bundespolizei-leiten-a-9e8375f3-26d5-44d8-8916-5c07e7b6c1c2#ref=rss)
-* [https://www.spiegel.de/ausland/pete-hegseth-mutter-von-trumps-wunschminister-kritisierte-ihren-sohn-fuer-dessen-umgang-mit-frauen](https://www.spiegel.de/ausland/pete-hegseth-mutter-von-trumps-wunschminister-kritisierte-ihren-sohn-fuer-dessen-umgang-mit-frauen-a-98c92c5a-4f65-4cf3-8c24-c6cacab78150#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-charles-kushner-als-us-botschafter-in-frankreich-nominiert](https://www.spiegel.de/ausland/donald-trump-charles-kushner-als-us-botschafter-in-frankreich-nominiert-a-bf91b7c3-3fff-4db8-b9ce-4f36e6c50b0c#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-droht-brics-staaten-mit-zoellen-von-100-prozent](https://www.spiegel.de/ausland/donald-trump-droht-brics-staaten-mit-zoellen-von-100-prozent-a-7b2d6043-adb3-4fe4-8d88-529b153afd03#ref=rss)
-### trump
+* [https://www.spiegel.de/ausland/ukraine-soziologe-sieht-mehrheit-der-ukrainer-bereit-fuer-verhandlungen-mit-russland](https://www.spiegel.de/ausland/ukraine-soziologe-sieht-mehrheit-der-ukrainer-bereit-fuer-verhandlungen-mit-russland-a-5e739dbd-20de-4436-aaf6-4b8551bc45c3#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-warum-gehen-ukrainer-in-die-von-russland-besetzten-gebiete-zurueck](https://www.spiegel.de/ausland/ukraine-warum-gehen-ukrainer-in-die-von-russland-besetzten-gebiete-zurueck-a-5453ad9a-3984-4843-92dd-4ff8120aab59#ref=rss)
+### russland
 
-* [https://www.spiegel.de/ausland/fbi-kash-patel-soll-unter-donald-trump-die-us-bundespolizei-leiten](https://www.spiegel.de/ausland/fbi-kash-patel-soll-unter-donald-trump-die-us-bundespolizei-leiten-a-9e8375f3-26d5-44d8-8916-5c07e7b6c1c2#ref=rss)
-* [https://www.spiegel.de/ausland/pete-hegseth-mutter-von-trumps-wunschminister-kritisierte-ihren-sohn-fuer-dessen-umgang-mit-frauen](https://www.spiegel.de/ausland/pete-hegseth-mutter-von-trumps-wunschminister-kritisierte-ihren-sohn-fuer-dessen-umgang-mit-frauen-a-98c92c5a-4f65-4cf3-8c24-c6cacab78150#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-charles-kushner-als-us-botschafter-in-frankreich-nominiert](https://www.spiegel.de/ausland/donald-trump-charles-kushner-als-us-botschafter-in-frankreich-nominiert-a-bf91b7c3-3fff-4db8-b9ce-4f36e6c50b0c#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-droht-brics-staaten-mit-zoellen-von-100-prozent](https://www.spiegel.de/ausland/donald-trump-droht-brics-staaten-mit-zoellen-von-100-prozent-a-7b2d6043-adb3-4fe4-8d88-529b153afd03#ref=rss)
-### fdp
+* [https://www.spiegel.de/ausland/ukraine-soziologe-sieht-mehrheit-der-ukrainer-bereit-fuer-verhandlungen-mit-russland](https://www.spiegel.de/ausland/ukraine-soziologe-sieht-mehrheit-der-ukrainer-bereit-fuer-verhandlungen-mit-russland-a-5e739dbd-20de-4436-aaf6-4b8551bc45c3#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-warum-gehen-ukrainer-in-die-von-russland-besetzten-gebiete-zurueck](https://www.spiegel.de/ausland/ukraine-warum-gehen-ukrainer-in-die-von-russland-besetzten-gebiete-zurueck-a-5453ad9a-3984-4843-92dd-4ff8120aab59#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/politik/deutschland/ex-justizminister-buschmann-wird-neuer-fdp-generalsekretaer](https://www.spiegel.de/politik/deutschland/ex-justizminister-buschmann-wird-neuer-fdp-generalsekretaer-a-dd495868-c527-4d30-9afc-099c518a2497#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-die-extremen-seiten-von-fdp-und-gruenen](https://www.spiegel.de/politik/deutschland/news-die-extremen-seiten-von-fdp-und-gruenen-a-aeaa7828-e40e-4d9b-bf0d-c76b51a2023c#ref=rss)
-### australien
-
-* [https://www.spiegel.de/panorama/australien-frau-entdeckt-waehrend-der-autofahrt-toedliche-schlange-am-fuss](https://www.spiegel.de/panorama/australien-frau-entdeckt-waehrend-der-autofahrt-toedliche-schlange-am-fuss-a-6e5516b0-2ed8-4868-98c8-b3737b74597e#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/australien-und-das-verbot-von-social-media-premier-bietet-elon-musk-gespraech-an](https://www.spiegel.de/netzwelt/netzpolitik/australien-und-das-verbot-von-social-media-premier-bietet-elon-musk-gespraech-an-a-b49bd157-f542-4c19-80bc-2dfeac89d28c#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/wieder-demonstrationen-und-erneute-polizeigewalt-in-georgien](https://www.spiegel.de/ausland/wieder-demonstrationen-und-erneute-polizeigewalt-in-georgien-a-ea2c23ea-56f6-4231-b6f0-7042f0fc4622#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kaufkraft-studie-wo-sich-die-menschen-in-deutschland-am-meisten-leisten-koennen](https://www.spiegel.de/wirtschaft/kaufkraft-studie-wo-sich-die-menschen-in-deutschland-am-meisten-leisten-koennen-a-e540f114-e2e2-4215-a410-b08f98e5cc59#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-krieg-offenbar-tote-und-verletzte-bei-angriff-nahe-dnipro](https://www.spiegel.de/ausland/ukraine-russland-krieg-offenbar-tote-und-verletzte-bei-angriff-nahe-dnipro-a-4ee5fac2-03e0-4b3a-bf71-07561952c0d9#ref=rss)
-### allen
-
-* [https://www.spiegel.de/panorama/leute/lily-allen-hatte-erst-mit-ihrem-heutigen-partner-ihren-ersten-sex-nuechtern](https://www.spiegel.de/panorama/leute/lily-allen-hatte-erst-mit-ihrem-heutigen-partner-ihren-ersten-sex-nuechtern-a-c14611ef-8a23-4ee0-b739-69e1b7783b92#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/friedenspflicht-bei-vw-vorbei-warnstreiks-drohen-in-allen-werken](https://www.spiegel.de/wirtschaft/unternehmen/friedenspflicht-bei-vw-vorbei-warnstreiks-drohen-in-allen-werken-a-699fe951-e270-45ef-a3b8-0a644ddf1519#ref=rss)
-### amt
-
-* [https://www.spiegel.de/politik/robert-habeck-neuer-job-fuer-entlassenen-staatssekretaer-patrick-graichen](https://www.spiegel.de/politik/robert-habeck-neuer-job-fuer-entlassenen-staatssekretaer-patrick-graichen-a-87ba57ed-2cfd-4b77-9dcc-5ea0f2deb228#ref=rss)
-* [https://www.spiegel.de/ausland/kaja-kallas-und-antonio-costa-in-kiew-neue-eu-fuehrungsriege-sichert-der-ukraine-volle-unterstuetzung-zu](https://www.spiegel.de/ausland/kaja-kallas-und-antonio-costa-in-kiew-neue-eu-fuehrungsriege-sichert-der-ukraine-volle-unterstuetzung-zu-a-e558a692-ac3e-4e2b-bd40-74a1e6f00db9#ref=rss)
-* [https://www.spiegel.de/ausland/fbi-kash-patel-soll-unter-donald-trump-die-us-bundespolizei-leiten](https://www.spiegel.de/ausland/fbi-kash-patel-soll-unter-donald-trump-die-us-bundespolizei-leiten-a-9e8375f3-26d5-44d8-8916-5c07e7b6c1c2#ref=rss)
-### erst
-
-* [https://www.spiegel.de/panorama/zwei-segler-sterben-auf-dem-weg-zur-regatta-der-eisernen](https://www.spiegel.de/panorama/zwei-segler-sterben-auf-dem-weg-zur-regatta-der-eisernen-a-d36d4699-d1ba-4eec-9609-05fc890f84b5#ref=rss)
-* [https://www.spiegel.de/ausland/kaja-kallas-und-antonio-costa-in-kiew-neue-eu-fuehrungsriege-sichert-der-ukraine-volle-unterstuetzung-zu](https://www.spiegel.de/ausland/kaja-kallas-und-antonio-costa-in-kiew-neue-eu-fuehrungsriege-sichert-der-ukraine-volle-unterstuetzung-zu-a-e558a692-ac3e-4e2b-bd40-74a1e6f00db9#ref=rss)
-* [https://www.spiegel.de/panorama/leute/lily-allen-hatte-erst-mit-ihrem-heutigen-partner-ihren-ersten-sex-nuechtern](https://www.spiegel.de/panorama/leute/lily-allen-hatte-erst-mit-ihrem-heutigen-partner-ihren-ersten-sex-nuechtern-a-c14611ef-8a23-4ee0-b739-69e1b7783b92#ref=rss)
-### kyjiw
-
-* [https://www.spiegel.de/ausland/kaja-kallas-und-antonio-costa-in-kiew-neue-eu-fuehrungsriege-sichert-der-ukraine-volle-unterstuetzung-zu](https://www.spiegel.de/ausland/kaja-kallas-und-antonio-costa-in-kiew-neue-eu-fuehrungsriege-sichert-der-ukraine-volle-unterstuetzung-zu-a-e558a692-ac3e-4e2b-bd40-74a1e6f00db9#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-krieg-offenbar-tote-und-verletzte-bei-angriff-nahe-dnipro](https://www.spiegel.de/ausland/ukraine-russland-krieg-offenbar-tote-und-verletzte-bei-angriff-nahe-dnipro-a-4ee5fac2-03e0-4b3a-bf71-07561952c0d9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gruenenchefin-franziska-brantner-haelt-friedrich-merz-in-ukrainepolitik-fuer-besseren-partner-als-olaf-scholz](https://www.spiegel.de/politik/deutschland/gruenenchefin-franziska-brantner-haelt-friedrich-merz-in-ukrainepolitik-fuer-besseren-partner-als-olaf-scholz-a-987898da-2def-4c22-aee0-45e5c5cd55a0#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/kaja-kallas-und-antonio-costa-in-kiew-neue-eu-fuehrungsriege-sichert-der-ukraine-volle-unterstuetzung-zu](https://www.spiegel.de/ausland/kaja-kallas-und-antonio-costa-in-kiew-neue-eu-fuehrungsriege-sichert-der-ukraine-volle-unterstuetzung-zu-a-e558a692-ac3e-4e2b-bd40-74a1e6f00db9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gruenenchefin-franziska-brantner-haelt-friedrich-merz-in-ukrainepolitik-fuer-besseren-partner-als-olaf-scholz](https://www.spiegel.de/politik/deutschland/gruenenchefin-franziska-brantner-haelt-friedrich-merz-in-ukrainepolitik-fuer-besseren-partner-als-olaf-scholz-a-987898da-2def-4c22-aee0-45e5c5cd55a0#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/panorama/leute/lily-allen-hatte-erst-mit-ihrem-heutigen-partner-ihren-ersten-sex-nuechtern](https://www.spiegel.de/panorama/leute/lily-allen-hatte-erst-mit-ihrem-heutigen-partner-ihren-ersten-sex-nuechtern-a-c14611ef-8a23-4ee0-b739-69e1b7783b92#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/australien-und-das-verbot-von-social-media-premier-bietet-elon-musk-gespraech-an](https://www.spiegel.de/netzwelt/netzpolitik/australien-und-das-verbot-von-social-media-premier-bietet-elon-musk-gespraech-an-a-b49bd157-f542-4c19-80bc-2dfeac89d28c#ref=rss)
-### mutter
-
-* [https://www.spiegel.de/familie/psychologin-ueber-kuckuckskinder-muetter-haben-unglaublich-viel-macht](https://www.spiegel.de/familie/psychologin-ueber-kuckuckskinder-muetter-haben-unglaublich-viel-macht-a-1c00fd4e-29cd-46ef-8eb3-04c740c83119#ref=rss)
-* [https://www.spiegel.de/ausland/pete-hegseth-mutter-von-trumps-wunschminister-kritisierte-ihren-sohn-fuer-dessen-umgang-mit-frauen](https://www.spiegel.de/ausland/pete-hegseth-mutter-von-trumps-wunschminister-kritisierte-ihren-sohn-fuer-dessen-umgang-mit-frauen-a-98c92c5a-4f65-4cf3-8c24-c6cacab78150#ref=rss)
-### viele
-
-* [https://www.spiegel.de/gesundheit/diagnose/peter-piot-zum-welt-aids-tag-heute-denken-viele-hiv-ist-vorbei-das-ist-ein-grosses-problem](https://www.spiegel.de/gesundheit/diagnose/peter-piot-zum-welt-aids-tag-heute-denken-viele-hiv-ist-vorbei-das-ist-ein-grosses-problem-a-17fc1e96-e86c-41e5-93ee-b8ef44677c88#ref=rss)
-* [https://www.spiegel.de/stil/wein-fuer-die-vorweihnachtszeit-advent-advent-was-wird-eingeschenkt](https://www.spiegel.de/stil/wein-fuer-die-vorweihnachtszeit-advent-advent-was-wird-eingeschenkt-a-f034121b-bd03-4385-a2d4-351825d5bd38#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/neuss-und-hagen-in-nrw-viele-verletzte-bei-chaosfahrt-von-lkw-auf-a46-und-a1](https://www.spiegel.de/panorama/justiz/neuss-und-hagen-in-nrw-viele-verletzte-bei-chaosfahrt-von-lkw-auf-a46-und-a1-a-a5acda39-7d35-4044-87d0-4795e223cfe4#ref=rss)
-### robert
-
-* [https://www.spiegel.de/politik/robert-habeck-neuer-job-fuer-entlassenen-staatssekretaer-patrick-graichen](https://www.spiegel.de/politik/robert-habeck-neuer-job-fuer-entlassenen-staatssekretaer-patrick-graichen-a-87ba57ed-2cfd-4b77-9dcc-5ea0f2deb228#ref=rss)
-### neuer
-
-* [https://www.spiegel.de/politik/robert-habeck-neuer-job-fuer-entlassenen-staatssekretaer-patrick-graichen](https://www.spiegel.de/politik/robert-habeck-neuer-job-fuer-entlassenen-staatssekretaer-patrick-graichen-a-87ba57ed-2cfd-4b77-9dcc-5ea0f2deb228#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ex-justizminister-buschmann-wird-neuer-fdp-generalsekretaer](https://www.spiegel.de/politik/deutschland/ex-justizminister-buschmann-wird-neuer-fdp-generalsekretaer-a-dd495868-c527-4d30-9afc-099c518a2497#ref=rss)
-### staatssekretär
-
-* [https://www.spiegel.de/politik/robert-habeck-neuer-job-fuer-entlassenen-staatssekretaer-patrick-graichen](https://www.spiegel.de/politik/robert-habeck-neuer-job-fuer-entlassenen-staatssekretaer-patrick-graichen-a-87ba57ed-2cfd-4b77-9dcc-5ea0f2deb228#ref=rss)
-### patrick
-
-* [https://www.spiegel.de/politik/robert-habeck-neuer-job-fuer-entlassenen-staatssekretaer-patrick-graichen](https://www.spiegel.de/politik/robert-habeck-neuer-job-fuer-entlassenen-staatssekretaer-patrick-graichen-a-87ba57ed-2cfd-4b77-9dcc-5ea0f2deb228#ref=rss)
-### graichen
-
-* [https://www.spiegel.de/politik/robert-habeck-neuer-job-fuer-entlassenen-staatssekretaer-patrick-graichen](https://www.spiegel.de/politik/robert-habeck-neuer-job-fuer-entlassenen-staatssekretaer-patrick-graichen-a-87ba57ed-2cfd-4b77-9dcc-5ea0f2deb228#ref=rss)
-### künftig
-
-* [https://www.spiegel.de/politik/robert-habeck-neuer-job-fuer-entlassenen-staatssekretaer-patrick-graichen](https://www.spiegel.de/politik/robert-habeck-neuer-job-fuer-entlassenen-staatssekretaer-patrick-graichen-a-87ba57ed-2cfd-4b77-9dcc-5ea0f2deb228#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-konferenz-kuenftig-bei-dazn-dies-ist-kein-tv-beben](https://www.spiegel.de/sport/fussball/bundesliga-konferenz-kuenftig-bei-dazn-dies-ist-kein-tv-beben-a-a5a943f4-e1da-4e29-8da7-d7ae68e46684#ref=rss)
-### buschmann
-
-* [https://www.spiegel.de/politik/deutschland/ex-justizminister-buschmann-wird-neuer-fdp-generalsekretaer](https://www.spiegel.de/politik/deutschland/ex-justizminister-buschmann-wird-neuer-fdp-generalsekretaer-a-dd495868-c527-4d30-9afc-099c518a2497#ref=rss)
-### generalsekretär
-
-* [https://www.spiegel.de/politik/deutschland/ex-justizminister-buschmann-wird-neuer-fdp-generalsekretaer](https://www.spiegel.de/politik/deutschland/ex-justizminister-buschmann-wird-neuer-fdp-generalsekretaer-a-dd495868-c527-4d30-9afc-099c518a2497#ref=rss)
-### fitwi
-
-* [https://www.spiegel.de/sport/marathonlaeufer-fitwi-bricht-den-deutschen-rekord](https://www.spiegel.de/sport/marathonlaeufer-fitwi-bricht-den-deutschen-rekord-a-221af701-d762-4128-b9ea-75283bf992e2#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/sport/marathonlaeufer-fitwi-bricht-den-deutschen-rekord](https://www.spiegel.de/sport/marathonlaeufer-fitwi-bricht-den-deutschen-rekord-a-221af701-d762-4128-b9ea-75283bf992e2#ref=rss)
-### rekord
-
-* [https://www.spiegel.de/sport/marathonlaeufer-fitwi-bricht-den-deutschen-rekord](https://www.spiegel.de/sport/marathonlaeufer-fitwi-bricht-den-deutschen-rekord-a-221af701-d762-4128-b9ea-75283bf992e2#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-soziologe-sieht-mehrheit-der-ukrainer-bereit-fuer-verhandlungen-mit-russland](https://www.spiegel.de/ausland/ukraine-soziologe-sieht-mehrheit-der-ukrainer-bereit-fuer-verhandlungen-mit-russland-a-5e739dbd-20de-4436-aaf6-4b8551bc45c3#ref=rss)
+* [https://www.spiegel.de/partnerschaft/penis-gekruemmt-urologe-erklaert-warum-im-alter-ein-knick-entstehen-kann-und-wann-er-operiert](https://www.spiegel.de/partnerschaft/penis-gekruemmt-urologe-erklaert-warum-im-alter-ein-knick-entstehen-kann-und-wann-er-operiert-a-bf6ac195-1ba0-410f-bdc1-74db370e4198#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/israel-gaza-krieg-universitaet-leipzig-sagt-vortrag-israelischen-professors-ab](https://www.spiegel.de/panorama/bildung/israel-gaza-krieg-universitaet-leipzig-sagt-vortrag-israelischen-professors-ab-a-f695ac8c-5a17-490b-a9d7-271453576e80#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/sport/marathonlaeufer-fitwi-bricht-den-deutschen-rekord](https://www.spiegel.de/sport/marathonlaeufer-fitwi-bricht-den-deutschen-rekord-a-221af701-d762-4128-b9ea-75283bf992e2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kaufkraft-studie-wo-sich-die-menschen-in-deutschland-am-meisten-leisten-koennen](https://www.spiegel.de/wirtschaft/kaufkraft-studie-wo-sich-die-menschen-in-deutschland-am-meisten-leisten-koennen-a-e540f114-e2e2-4215-a410-b08f98e5cc59#ref=rss)
-### jahr
+* [https://www.spiegel.de/ausland/ukraine-warum-gehen-ukrainer-in-die-von-russland-besetzten-gebiete-zurueck](https://www.spiegel.de/ausland/ukraine-warum-gehen-ukrainer-in-die-von-russland-besetzten-gebiete-zurueck-a-5453ad9a-3984-4843-92dd-4ff8120aab59#ref=rss)
+* [https://www.spiegel.de/politik/spiegel-bestseller-mehr-lesen-mit-elke-heidenreich-was-wuerden-sie-tun-wenn-sie-fuer-tot-erklaert-werden](https://www.spiegel.de/politik/spiegel-bestseller-mehr-lesen-mit-elke-heidenreich-was-wuerden-sie-tun-wenn-sie-fuer-tot-erklaert-werden-a-dd1e790d-d2fb-490b-88ea-dba2a00764dc#ref=rss)
+* [https://www.spiegel.de/panorama/popsaengerin-meghan-trainor-bereut-kosmetische-eingriffe](https://www.spiegel.de/panorama/popsaengerin-meghan-trainor-bereut-kosmetische-eingriffe-a-dfb12551-407f-43ab-a55c-9d3c5676efa3#ref=rss)
+### georgien
 
-* [https://www.spiegel.de/sport/marathonlaeufer-fitwi-bricht-den-deutschen-rekord](https://www.spiegel.de/sport/marathonlaeufer-fitwi-bricht-den-deutschen-rekord-a-221af701-d762-4128-b9ea-75283bf992e2#ref=rss)
-### kommenden
+* [https://www.spiegel.de/ausland/georgien-eu-chefdiplomatin-erwaegt-sanktionen-gegen-georgien](https://www.spiegel.de/ausland/georgien-eu-chefdiplomatin-erwaegt-sanktionen-gegen-georgien-a-7a8dad7b-f5be-4d3e-963d-c9b98bb99af8#ref=rss)
+* [https://www.spiegel.de/ausland/usa-setzen-strategische-partnerschaft-mit-georgien-aus](https://www.spiegel.de/ausland/usa-setzen-strategische-partnerschaft-mit-georgien-aus-a-9c98861b-7931-4efe-8718-679b59bd123b#ref=rss)
+### usa
 
-* [https://www.spiegel.de/sport/marathonlaeufer-fitwi-bricht-den-deutschen-rekord](https://www.spiegel.de/sport/marathonlaeufer-fitwi-bricht-den-deutschen-rekord-a-221af701-d762-4128-b9ea-75283bf992e2#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-konferenz-kuenftig-bei-dazn-dies-ist-kein-tv-beben](https://www.spiegel.de/sport/fussball/bundesliga-konferenz-kuenftig-bei-dazn-dies-ist-kein-tv-beben-a-a5a943f4-e1da-4e29-8da7-d7ae68e46684#ref=rss)
-### sambia
+* [https://www.spiegel.de/ausland/deutschland-und-die-usa-immer-weniger-geld-fuer-das-welternaehrungsprogramm](https://www.spiegel.de/ausland/deutschland-und-die-usa-immer-weniger-geld-fuer-das-welternaehrungsprogramm-a-be8e00a7-3aed-42a7-bd99-edd1e849f88e#ref=rss)
+* [https://www.spiegel.de/ausland/usa-setzen-strategische-partnerschaft-mit-georgien-aus](https://www.spiegel.de/ausland/usa-setzen-strategische-partnerschaft-mit-georgien-aus-a-9c98861b-7931-4efe-8718-679b59bd123b#ref=rss)
+### gewinnt
 
-* [https://www.spiegel.de/ausland/sambia-wie-eine-rentnerin-zum-fashionstar-wurde](https://www.spiegel.de/ausland/sambia-wie-eine-rentnerin-zum-fashionstar-wurde-a-2abc37f6-1ca4-4a31-b8ad-8bffaa03219d#ref=rss)
-### weit
+* [https://www.spiegel.de/sport/formel1/formel-1-rennen-in-katar-max-verstappen-gewinnt-lando-norris-faellt-nach-strafe-zurueck](https://www.spiegel.de/sport/formel1/formel-1-rennen-in-katar-max-verstappen-gewinnt-lando-norris-faellt-nach-strafe-zurueck-a-f562f4f0-5866-49dd-a47d-dafaac38fc79#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-bundesliga-der-hamburger-sv-gewinnt-erstes-spiel-nach-trennung-von-steffen-baumgart](https://www.spiegel.de/sport/fussball/2-bundesliga-der-hamburger-sv-gewinnt-erstes-spiel-nach-trennung-von-steffen-baumgart-a-59d5a3cb-0b8b-4b8e-872c-fd4e1a210b77#ref=rss)
+### zurück
 
-* [https://www.spiegel.de/ausland/sambia-wie-eine-rentnerin-zum-fashionstar-wurde](https://www.spiegel.de/ausland/sambia-wie-eine-rentnerin-zum-fashionstar-wurde-a-2abc37f6-1ca4-4a31-b8ad-8bffaa03219d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-die-extremen-seiten-von-fdp-und-gruenen](https://www.spiegel.de/politik/deutschland/news-die-extremen-seiten-von-fdp-und-gruenen-a-aeaa7828-e40e-4d9b-bf0d-c76b51a2023c#ref=rss)
-### lebt
+* [https://www.spiegel.de/sport/formel1/formel-1-rennen-in-katar-max-verstappen-gewinnt-lando-norris-faellt-nach-strafe-zurueck](https://www.spiegel.de/sport/formel1/formel-1-rennen-in-katar-max-verstappen-gewinnt-lando-norris-faellt-nach-strafe-zurueck-a-f562f4f0-5866-49dd-a47d-dafaac38fc79#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-warum-gehen-ukrainer-in-die-von-russland-besetzten-gebiete-zurueck](https://www.spiegel.de/ausland/ukraine-warum-gehen-ukrainer-in-die-von-russland-besetzten-gebiete-zurueck-a-5453ad9a-3984-4843-92dd-4ff8120aab59#ref=rss)
+### erklärt
 
-* [https://www.spiegel.de/ausland/sambia-wie-eine-rentnerin-zum-fashionstar-wurde](https://www.spiegel.de/ausland/sambia-wie-eine-rentnerin-zum-fashionstar-wurde-a-2abc37f6-1ca4-4a31-b8ad-8bffaa03219d#ref=rss)
-* [https://www.spiegel.de/panorama/leute/lily-allen-hatte-erst-mit-ihrem-heutigen-partner-ihren-ersten-sex-nuechtern](https://www.spiegel.de/panorama/leute/lily-allen-hatte-erst-mit-ihrem-heutigen-partner-ihren-ersten-sex-nuechtern-a-c14611ef-8a23-4ee0-b739-69e1b7783b92#ref=rss)
-### instagram
+* [https://www.spiegel.de/ausland/ukraine-soziologe-sieht-mehrheit-der-ukrainer-bereit-fuer-verhandlungen-mit-russland](https://www.spiegel.de/ausland/ukraine-soziologe-sieht-mehrheit-der-ukrainer-bereit-fuer-verhandlungen-mit-russland-a-5e739dbd-20de-4436-aaf6-4b8551bc45c3#ref=rss)
+* [https://www.spiegel.de/politik/spiegel-bestseller-mehr-lesen-mit-elke-heidenreich-was-wuerden-sie-tun-wenn-sie-fuer-tot-erklaert-werden](https://www.spiegel.de/politik/spiegel-bestseller-mehr-lesen-mit-elke-heidenreich-was-wuerden-sie-tun-wenn-sie-fuer-tot-erklaert-werden-a-dd1e790d-d2fb-490b-88ea-dba2a00764dc#ref=rss)
+* [https://www.spiegel.de/partnerschaft/penis-gekruemmt-urologe-erklaert-warum-im-alter-ein-knick-entstehen-kann-und-wann-er-operiert](https://www.spiegel.de/partnerschaft/penis-gekruemmt-urologe-erklaert-warum-im-alter-ein-knick-entstehen-kann-und-wann-er-operiert-a-bf6ac195-1ba0-410f-bdc1-74db370e4198#ref=rss)
+### partei
 
-* [https://www.spiegel.de/ausland/sambia-wie-eine-rentnerin-zum-fashionstar-wurde](https://www.spiegel.de/ausland/sambia-wie-eine-rentnerin-zum-fashionstar-wurde-a-2abc37f6-1ca4-4a31-b8ad-8bffaa03219d#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/australien-und-das-verbot-von-social-media-premier-bietet-elon-musk-gespraech-an](https://www.spiegel.de/netzwelt/netzpolitik/australien-und-das-verbot-von-social-media-premier-bietet-elon-musk-gespraech-an-a-b49bd157-f542-4c19-80bc-2dfeac89d28c#ref=rss)
-### frau
+* [https://www.spiegel.de/politik/deutschland/fdp-ex-schatzmeister-harald-christ-verlaesst-die-partei](https://www.spiegel.de/politik/deutschland/fdp-ex-schatzmeister-harald-christ-verlaesst-die-partei-a-7dd19de1-b5ec-46c9-b8af-73d34785e26c#ref=rss)
+* [https://www.spiegel.de/ausland/spanien-ministerpraesident-pedro-sanchez-als-parteichef-bestaetigt](https://www.spiegel.de/ausland/spanien-ministerpraesident-pedro-sanchez-als-parteichef-bestaetigt-a-3b205a71-5ec6-4fdd-a498-84d74545b72a#ref=rss)
+### eigenen
 
-* [https://www.spiegel.de/panorama/australien-frau-entdeckt-waehrend-der-autofahrt-toedliche-schlange-am-fuss](https://www.spiegel.de/panorama/australien-frau-entdeckt-waehrend-der-autofahrt-toedliche-schlange-am-fuss-a-6e5516b0-2ed8-4868-98c8-b3737b74597e#ref=rss)
-### schlange
-
-* [https://www.spiegel.de/panorama/australien-frau-entdeckt-waehrend-der-autofahrt-toedliche-schlange-am-fuss](https://www.spiegel.de/panorama/australien-frau-entdeckt-waehrend-der-autofahrt-toedliche-schlange-am-fuss-a-6e5516b0-2ed8-4868-98c8-b3737b74597e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/fdp-ex-schatzmeister-harald-christ-verlaesst-die-partei](https://www.spiegel.de/politik/deutschland/fdp-ex-schatzmeister-harald-christ-verlaesst-die-partei-a-7dd19de1-b5ec-46c9-b8af-73d34785e26c#ref=rss)
+* [https://www.spiegel.de/panorama/popsaengerin-meghan-trainor-bereut-kosmetische-eingriffe](https://www.spiegel.de/panorama/popsaengerin-meghan-trainor-bereut-kosmetische-eingriffe-a-dfb12551-407f-43ab-a55c-9d3c5676efa3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/marco-buschmann-das-ist-der-neue-fdp-generalsekretaer](https://www.spiegel.de/politik/deutschland/marco-buschmann-das-ist-der-neue-fdp-generalsekretaer-a-0d7cfe27-6947-4fd0-94d8-bf54fadaedc0#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/panorama/zwei-segler-sterben-auf-dem-weg-zur-regatta-der-eisernen](https://www.spiegel.de/panorama/zwei-segler-sterben-auf-dem-weg-zur-regatta-der-eisernen-a-d36d4699-d1ba-4eec-9609-05fc890f84b5#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-charles-kushner-als-us-botschafter-in-frankreich-nominiert](https://www.spiegel.de/ausland/donald-trump-charles-kushner-als-us-botschafter-in-frankreich-nominiert-a-bf91b7c3-3fff-4db8-b9ce-4f36e6c50b0c#ref=rss)
-### sterben
+* [https://www.spiegel.de/sport/schach-wm-nach-zwei-remis-am-wochenende-weiter-alles-offen-zwischen-ding-liren-und-dommaraju-gukesh](https://www.spiegel.de/sport/schach-wm-nach-zwei-remis-am-wochenende-weiter-alles-offen-zwischen-ding-liren-und-dommaraju-gukesh-a-7eb1754b-2fb5-4f1b-8184-ee0ff626eaa6#ref=rss)
+* [https://www.spiegel.de/ausland/griechenland-heftige-unwetter-rund-um-die-aegaeis-zwei-tote](https://www.spiegel.de/ausland/griechenland-heftige-unwetter-rund-um-die-aegaeis-zwei-tote-a-1b621a33-841e-4774-a762-90d8b4576b9b#ref=rss)
+### druck
 
-* [https://www.spiegel.de/panorama/zwei-segler-sterben-auf-dem-weg-zur-regatta-der-eisernen](https://www.spiegel.de/panorama/zwei-segler-sterben-auf-dem-weg-zur-regatta-der-eisernen-a-d36d4699-d1ba-4eec-9609-05fc890f84b5#ref=rss)
-* [https://www.spiegel.de/ausland/sterbehilfe-grossbritannien-debattiert-ueber-die-legalisierung](https://www.spiegel.de/ausland/sterbehilfe-grossbritannien-debattiert-ueber-die-legalisierung-a-ec3a5a65-0fe0-47ca-a010-3e44c197f361#ref=rss)
-### weg
-
-* [https://www.spiegel.de/panorama/zwei-segler-sterben-auf-dem-weg-zur-regatta-der-eisernen](https://www.spiegel.de/panorama/zwei-segler-sterben-auf-dem-weg-zur-regatta-der-eisernen-a-d36d4699-d1ba-4eec-9609-05fc890f84b5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-die-extremen-seiten-von-fdp-und-gruenen](https://www.spiegel.de/politik/deutschland/news-die-extremen-seiten-von-fdp-und-gruenen-a-aeaa7828-e40e-4d9b-bf0d-c76b51a2023c#ref=rss)
-### regatta
-
-* [https://www.spiegel.de/panorama/zwei-segler-sterben-auf-dem-weg-zur-regatta-der-eisernen](https://www.spiegel.de/panorama/zwei-segler-sterben-auf-dem-weg-zur-regatta-der-eisernen-a-d36d4699-d1ba-4eec-9609-05fc890f84b5#ref=rss)
-### eisernen
-
-* [https://www.spiegel.de/panorama/zwei-segler-sterben-auf-dem-weg-zur-regatta-der-eisernen](https://www.spiegel.de/panorama/zwei-segler-sterben-auf-dem-weg-zur-regatta-der-eisernen-a-d36d4699-d1ba-4eec-9609-05fc890f84b5#ref=rss)
-### sorgt
-
-* [https://www.spiegel.de/panorama/zwei-segler-sterben-auf-dem-weg-zur-regatta-der-eisernen](https://www.spiegel.de/panorama/zwei-segler-sterben-auf-dem-weg-zur-regatta-der-eisernen-a-d36d4699-d1ba-4eec-9609-05fc890f84b5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kaufkraft-studie-wo-sich-die-menschen-in-deutschland-am-meisten-leisten-koennen](https://www.spiegel.de/wirtschaft/kaufkraft-studie-wo-sich-die-menschen-in-deutschland-am-meisten-leisten-koennen-a-e540f114-e2e2-4215-a410-b08f98e5cc59#ref=rss)
-### exverteidigungsminister
-
-* [https://www.spiegel.de/ausland/israel-ex-verteidigungsminister-moshe-yaalon-spricht-von-ethnischer-saeuberung-im-gaza-streifen](https://www.spiegel.de/ausland/israel-ex-verteidigungsminister-moshe-yaalon-spricht-von-ethnischer-saeuberung-im-gaza-streifen-a-887745c6-179e-448f-ab0c-454d39938d1f#ref=rss)
-### moshe
-
-* [https://www.spiegel.de/ausland/israel-ex-verteidigungsminister-moshe-yaalon-spricht-von-ethnischer-saeuberung-im-gaza-streifen](https://www.spiegel.de/ausland/israel-ex-verteidigungsminister-moshe-yaalon-spricht-von-ethnischer-saeuberung-im-gaza-streifen-a-887745c6-179e-448f-ab0c-454d39938d1f#ref=rss)
-### gazastreifen
-
-* [https://www.spiegel.de/ausland/israel-ex-verteidigungsminister-moshe-yaalon-spricht-von-ethnischer-saeuberung-im-gaza-streifen](https://www.spiegel.de/ausland/israel-ex-verteidigungsminister-moshe-yaalon-spricht-von-ethnischer-saeuberung-im-gaza-streifen-a-887745c6-179e-448f-ab0c-454d39938d1f#ref=rss)
-### seines
-
-* [https://www.spiegel.de/ausland/israel-ex-verteidigungsminister-moshe-yaalon-spricht-von-ethnischer-saeuberung-im-gaza-streifen](https://www.spiegel.de/ausland/israel-ex-verteidigungsminister-moshe-yaalon-spricht-von-ethnischer-saeuberung-im-gaza-streifen-a-887745c6-179e-448f-ab0c-454d39938d1f#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/peter-piot-zum-welt-aids-tag-heute-denken-viele-hiv-ist-vorbei-das-ist-ein-grosses-problem](https://www.spiegel.de/gesundheit/diagnose/peter-piot-zum-welt-aids-tag-heute-denken-viele-hiv-ist-vorbei-das-ist-ein-grosses-problem-a-17fc1e96-e86c-41e5-93ee-b8ef44677c88#ref=rss)
-### landes
-
-* [https://www.spiegel.de/ausland/israel-ex-verteidigungsminister-moshe-yaalon-spricht-von-ethnischer-saeuberung-im-gaza-streifen](https://www.spiegel.de/ausland/israel-ex-verteidigungsminister-moshe-yaalon-spricht-von-ethnischer-saeuberung-im-gaza-streifen-a-887745c6-179e-448f-ab0c-454d39938d1f#ref=rss)
-* [https://www.spiegel.de/ausland/wieder-demonstrationen-und-erneute-polizeigewalt-in-georgien](https://www.spiegel.de/ausland/wieder-demonstrationen-und-erneute-polizeigewalt-in-georgien-a-ea2c23ea-56f6-4231-b6f0-7042f0fc4622#ref=rss)
-### kritisiert
-
-* [https://www.spiegel.de/ausland/israel-ex-verteidigungsminister-moshe-yaalon-spricht-von-ethnischer-saeuberung-im-gaza-streifen](https://www.spiegel.de/ausland/israel-ex-verteidigungsminister-moshe-yaalon-spricht-von-ethnischer-saeuberung-im-gaza-streifen-a-887745c6-179e-448f-ab0c-454d39938d1f#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/australien-und-das-verbot-von-social-media-premier-bietet-elon-musk-gespraech-an](https://www.spiegel.de/netzwelt/netzpolitik/australien-und-das-verbot-von-social-media-premier-bietet-elon-musk-gespraech-an-a-b49bd157-f542-4c19-80bc-2dfeac89d28c#ref=rss)
-### werde
-
-* [https://www.spiegel.de/ausland/israel-ex-verteidigungsminister-moshe-yaalon-spricht-von-ethnischer-saeuberung-im-gaza-streifen](https://www.spiegel.de/ausland/israel-ex-verteidigungsminister-moshe-yaalon-spricht-von-ethnischer-saeuberung-im-gaza-streifen-a-887745c6-179e-448f-ab0c-454d39938d1f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/friedenspflicht-bei-vw-vorbei-warnstreiks-drohen-in-allen-werken](https://www.spiegel.de/wirtschaft/unternehmen/friedenspflicht-bei-vw-vorbei-warnstreiks-drohen-in-allen-werken-a-699fe951-e270-45ef-a3b8-0a644ddf1519#ref=rss)
-### bundesligakonferenz
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-konferenz-kuenftig-bei-dazn-dies-ist-kein-tv-beben](https://www.spiegel.de/sport/fussball/bundesliga-konferenz-kuenftig-bei-dazn-dies-ist-kein-tv-beben-a-a5a943f4-e1da-4e29-8da7-d7ae68e46684#ref=rss)
-### dazn
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-konferenz-kuenftig-bei-dazn-dies-ist-kein-tv-beben](https://www.spiegel.de/sport/fussball/bundesliga-konferenz-kuenftig-bei-dazn-dies-ist-kein-tv-beben-a-a5a943f4-e1da-4e29-8da7-d7ae68e46684#ref=rss)
-### kaja
-
-* [https://www.spiegel.de/ausland/kaja-kallas-und-antonio-costa-in-kiew-neue-eu-fuehrungsriege-sichert-der-ukraine-volle-unterstuetzung-zu](https://www.spiegel.de/ausland/kaja-kallas-und-antonio-costa-in-kiew-neue-eu-fuehrungsriege-sichert-der-ukraine-volle-unterstuetzung-zu-a-e558a692-ac3e-4e2b-bd40-74a1e6f00db9#ref=rss)
-### kallas
-
-* [https://www.spiegel.de/ausland/kaja-kallas-und-antonio-costa-in-kiew-neue-eu-fuehrungsriege-sichert-der-ukraine-volle-unterstuetzung-zu](https://www.spiegel.de/ausland/kaja-kallas-und-antonio-costa-in-kiew-neue-eu-fuehrungsriege-sichert-der-ukraine-volle-unterstuetzung-zu-a-e558a692-ac3e-4e2b-bd40-74a1e6f00db9#ref=rss)
-### antónio
-
-* [https://www.spiegel.de/ausland/kaja-kallas-und-antonio-costa-in-kiew-neue-eu-fuehrungsriege-sichert-der-ukraine-volle-unterstuetzung-zu](https://www.spiegel.de/ausland/kaja-kallas-und-antonio-costa-in-kiew-neue-eu-fuehrungsriege-sichert-der-ukraine-volle-unterstuetzung-zu-a-e558a692-ac3e-4e2b-bd40-74a1e6f00db9#ref=rss)
-### costa
-
-* [https://www.spiegel.de/ausland/kaja-kallas-und-antonio-costa-in-kiew-neue-eu-fuehrungsriege-sichert-der-ukraine-volle-unterstuetzung-zu](https://www.spiegel.de/ausland/kaja-kallas-und-antonio-costa-in-kiew-neue-eu-fuehrungsriege-sichert-der-ukraine-volle-unterstuetzung-zu-a-e558a692-ac3e-4e2b-bd40-74a1e6f00db9#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-a-8be9e91a-0df5-421d-93f5-575f125a04a5#ref=rss)
+* [https://www.spiegel.de/ausland/spanien-ministerpraesident-pedro-sanchez-als-parteichef-bestaetigt](https://www.spiegel.de/ausland/spanien-ministerpraesident-pedro-sanchez-als-parteichef-bestaetigt-a-3b205a71-5ec6-4fdd-a498-84d74545b72a#ref=rss)
+* [https://www.spiegel.de/ausland/usa-setzen-strategische-partnerschaft-mit-georgien-aus](https://www.spiegel.de/ausland/usa-setzen-strategische-partnerschaft-mit-georgien-aus-a-9c98861b-7931-4efe-8718-679b59bd123b#ref=rss)
 ### neue
 
-* [https://www.spiegel.de/ausland/kaja-kallas-und-antonio-costa-in-kiew-neue-eu-fuehrungsriege-sichert-der-ukraine-volle-unterstuetzung-zu](https://www.spiegel.de/ausland/kaja-kallas-und-antonio-costa-in-kiew-neue-eu-fuehrungsriege-sichert-der-ukraine-volle-unterstuetzung-zu-a-e558a692-ac3e-4e2b-bd40-74a1e6f00db9#ref=rss)
-### nacht
+* [https://www.spiegel.de/wissenschaft/medizin/tabakindustrie-wie-nikotinkissen-eine-neue-generation-von-suechtigen-erzeugen](https://www.spiegel.de/wissenschaft/medizin/tabakindustrie-wie-nikotinkissen-eine-neue-generation-von-suechtigen-erzeugen-a-ae733c03-d1a0-4fd0-972d-a8cf19957fcc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/marco-buschmann-das-ist-der-neue-fdp-generalsekretaer](https://www.spiegel.de/politik/deutschland/marco-buschmann-das-ist-der-neue-fdp-generalsekretaer-a-0d7cfe27-6947-4fd0-94d8-bf54fadaedc0#ref=rss)
+### katar
 
-* [https://www.spiegel.de/ausland/wieder-demonstrationen-und-erneute-polizeigewalt-in-georgien](https://www.spiegel.de/ausland/wieder-demonstrationen-und-erneute-polizeigewalt-in-georgien-a-ea2c23ea-56f6-4231-b6f0-7042f0fc4622#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/friedenspflicht-bei-vw-vorbei-warnstreiks-drohen-in-allen-werken](https://www.spiegel.de/wirtschaft/unternehmen/friedenspflicht-bei-vw-vorbei-warnstreiks-drohen-in-allen-werken-a-699fe951-e270-45ef-a3b8-0a644ddf1519#ref=rss)
-### anderen
+* [https://www.spiegel.de/sport/formel1/formel-1-rennen-in-katar-max-verstappen-gewinnt-lando-norris-faellt-nach-strafe-zurueck](https://www.spiegel.de/sport/formel1/formel-1-rennen-in-katar-max-verstappen-gewinnt-lando-norris-faellt-nach-strafe-zurueck-a-f562f4f0-5866-49dd-a47d-dafaac38fc79#ref=rss)
+### max
 
-* [https://www.spiegel.de/ausland/wieder-demonstrationen-und-erneute-polizeigewalt-in-georgien](https://www.spiegel.de/ausland/wieder-demonstrationen-und-erneute-polizeigewalt-in-georgien-a-ea2c23ea-56f6-4231-b6f0-7042f0fc4622#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kaufkraft-studie-wo-sich-die-menschen-in-deutschland-am-meisten-leisten-koennen](https://www.spiegel.de/wirtschaft/kaufkraft-studie-wo-sich-die-menschen-in-deutschland-am-meisten-leisten-koennen-a-e540f114-e2e2-4215-a410-b08f98e5cc59#ref=rss)
-### regionen
+* [https://www.spiegel.de/sport/formel1/formel-1-rennen-in-katar-max-verstappen-gewinnt-lando-norris-faellt-nach-strafe-zurueck](https://www.spiegel.de/sport/formel1/formel-1-rennen-in-katar-max-verstappen-gewinnt-lando-norris-faellt-nach-strafe-zurueck-a-f562f4f0-5866-49dd-a47d-dafaac38fc79#ref=rss)
+### verstappen
 
-* [https://www.spiegel.de/ausland/wieder-demonstrationen-und-erneute-polizeigewalt-in-georgien](https://www.spiegel.de/ausland/wieder-demonstrationen-und-erneute-polizeigewalt-in-georgien-a-ea2c23ea-56f6-4231-b6f0-7042f0fc4622#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kaufkraft-studie-wo-sich-die-menschen-in-deutschland-am-meisten-leisten-koennen](https://www.spiegel.de/wirtschaft/kaufkraft-studie-wo-sich-die-menschen-in-deutschland-am-meisten-leisten-koennen-a-e540f114-e2e2-4215-a410-b08f98e5cc59#ref=rss)
-### grünen
+* [https://www.spiegel.de/sport/formel1/formel-1-rennen-in-katar-max-verstappen-gewinnt-lando-norris-faellt-nach-strafe-zurueck](https://www.spiegel.de/sport/formel1/formel-1-rennen-in-katar-max-verstappen-gewinnt-lando-norris-faellt-nach-strafe-zurueck-a-f562f4f0-5866-49dd-a47d-dafaac38fc79#ref=rss)
+### lando
 
-* [https://www.spiegel.de/politik/deutschland/news-die-extremen-seiten-von-fdp-und-gruenen](https://www.spiegel.de/politik/deutschland/news-die-extremen-seiten-von-fdp-und-gruenen-a-aeaa7828-e40e-4d9b-bf0d-c76b51a2023c#ref=rss)
-### sonntag
+* [https://www.spiegel.de/sport/formel1/formel-1-rennen-in-katar-max-verstappen-gewinnt-lando-norris-faellt-nach-strafe-zurueck](https://www.spiegel.de/sport/formel1/formel-1-rennen-in-katar-max-verstappen-gewinnt-lando-norris-faellt-nach-strafe-zurueck-a-f562f4f0-5866-49dd-a47d-dafaac38fc79#ref=rss)
+### norris
 
-* [https://www.spiegel.de/politik/deutschland/news-die-extremen-seiten-von-fdp-und-gruenen](https://www.spiegel.de/politik/deutschland/news-die-extremen-seiten-von-fdp-und-gruenen-a-aeaa7828-e40e-4d9b-bf0d-c76b51a2023c#ref=rss)
-* [https://www.spiegel.de/ausland/rumaenien-stimmt-ueber-neues-parlament-ab-experten-fuerchten-rechtsruck](https://www.spiegel.de/ausland/rumaenien-stimmt-ueber-neues-parlament-ab-experten-fuerchten-rechtsruck-a-b3d63141-72af-4f1e-87f7-b91052d90770#ref=rss)
-### lily
+* [https://www.spiegel.de/sport/formel1/formel-1-rennen-in-katar-max-verstappen-gewinnt-lando-norris-faellt-nach-strafe-zurueck](https://www.spiegel.de/sport/formel1/formel-1-rennen-in-katar-max-verstappen-gewinnt-lando-norris-faellt-nach-strafe-zurueck-a-f562f4f0-5866-49dd-a47d-dafaac38fc79#ref=rss)
+### bleibt
 
-* [https://www.spiegel.de/panorama/leute/lily-allen-hatte-erst-mit-ihrem-heutigen-partner-ihren-ersten-sex-nuechtern](https://www.spiegel.de/panorama/leute/lily-allen-hatte-erst-mit-ihrem-heutigen-partner-ihren-ersten-sex-nuechtern-a-c14611ef-8a23-4ee0-b739-69e1b7783b92#ref=rss)
-### heutigen
-
-* [https://www.spiegel.de/panorama/leute/lily-allen-hatte-erst-mit-ihrem-heutigen-partner-ihren-ersten-sex-nuechtern](https://www.spiegel.de/panorama/leute/lily-allen-hatte-erst-mit-ihrem-heutigen-partner-ihren-ersten-sex-nuechtern-a-c14611ef-8a23-4ee0-b739-69e1b7783b92#ref=rss)
-### partner
-
-* [https://www.spiegel.de/panorama/leute/lily-allen-hatte-erst-mit-ihrem-heutigen-partner-ihren-ersten-sex-nuechtern](https://www.spiegel.de/panorama/leute/lily-allen-hatte-erst-mit-ihrem-heutigen-partner-ihren-ersten-sex-nuechtern-a-c14611ef-8a23-4ee0-b739-69e1b7783b92#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gruenenchefin-franziska-brantner-haelt-friedrich-merz-in-ukrainepolitik-fuer-besseren-partner-als-olaf-scholz](https://www.spiegel.de/politik/deutschland/gruenenchefin-franziska-brantner-haelt-friedrich-merz-in-ukrainepolitik-fuer-besseren-partner-als-olaf-scholz-a-987898da-2def-4c22-aee0-45e5c5cd55a0#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/panorama/leute/lily-allen-hatte-erst-mit-ihrem-heutigen-partner-ihren-ersten-sex-nuechtern](https://www.spiegel.de/panorama/leute/lily-allen-hatte-erst-mit-ihrem-heutigen-partner-ihren-ersten-sex-nuechtern-a-c14611ef-8a23-4ee0-b739-69e1b7783b92#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-verpasst-100-weltcupsieg-nach-sturz-in-killington](https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-verpasst-100-weltcupsieg-nach-sturz-in-killington-a-28df313b-ef72-48fd-b428-ddcde785e9f0#ref=rss)
-### sex
-
-* [https://www.spiegel.de/panorama/leute/lily-allen-hatte-erst-mit-ihrem-heutigen-partner-ihren-ersten-sex-nuechtern](https://www.spiegel.de/panorama/leute/lily-allen-hatte-erst-mit-ihrem-heutigen-partner-ihren-ersten-sex-nuechtern-a-c14611ef-8a23-4ee0-b739-69e1b7783b92#ref=rss)
-### vier
-
-* [https://www.spiegel.de/panorama/leute/lily-allen-hatte-erst-mit-ihrem-heutigen-partner-ihren-ersten-sex-nuechtern](https://www.spiegel.de/panorama/leute/lily-allen-hatte-erst-mit-ihrem-heutigen-partner-ihren-ersten-sex-nuechtern-a-c14611ef-8a23-4ee0-b739-69e1b7783b92#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-krieg-offenbar-tote-und-verletzte-bei-angriff-nahe-dnipro](https://www.spiegel.de/ausland/ukraine-russland-krieg-offenbar-tote-und-verletzte-bei-angriff-nahe-dnipro-a-4ee5fac2-03e0-4b3a-bf71-07561952c0d9#ref=rss)
-### psychologin
-
-* [https://www.spiegel.de/familie/psychologin-ueber-kuckuckskinder-muetter-haben-unglaublich-viel-macht](https://www.spiegel.de/familie/psychologin-ueber-kuckuckskinder-muetter-haben-unglaublich-viel-macht-a-1c00fd4e-29cd-46ef-8eb3-04c740c83119#ref=rss)
-### macht
-
-* [https://www.spiegel.de/familie/psychologin-ueber-kuckuckskinder-muetter-haben-unglaublich-viel-macht](https://www.spiegel.de/familie/psychologin-ueber-kuckuckskinder-muetter-haben-unglaublich-viel-macht-a-1c00fd4e-29cd-46ef-8eb3-04c740c83119#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-charles-kushner-als-us-botschafter-in-frankreich-nominiert](https://www.spiegel.de/ausland/donald-trump-charles-kushner-als-us-botschafter-in-frankreich-nominiert-a-bf91b7c3-3fff-4db8-b9ce-4f36e6c50b0c#ref=rss)
-### emotionale
-
-* [https://www.spiegel.de/familie/psychologin-ueber-kuckuckskinder-muetter-haben-unglaublich-viel-macht](https://www.spiegel.de/familie/psychologin-ueber-kuckuckskinder-muetter-haben-unglaublich-viel-macht-a-1c00fd4e-29cd-46ef-8eb3-04c740c83119#ref=rss)
-* [https://www.spiegel.de/ausland/sterbehilfe-grossbritannien-debattiert-ueber-die-legalisierung](https://www.spiegel.de/ausland/sterbehilfe-grossbritannien-debattiert-ueber-die-legalisierung-a-ec3a5a65-0fe0-47ca-a010-3e44c197f361#ref=rss)
-### rumänien
-
-* [https://www.spiegel.de/ausland/rumaenien-stimmt-ueber-neues-parlament-ab-experten-fuerchten-rechtsruck](https://www.spiegel.de/ausland/rumaenien-stimmt-ueber-neues-parlament-ab-experten-fuerchten-rechtsruck-a-b3d63141-72af-4f1e-87f7-b91052d90770#ref=rss)
-### neues
-
-* [https://www.spiegel.de/ausland/rumaenien-stimmt-ueber-neues-parlament-ab-experten-fuerchten-rechtsruck](https://www.spiegel.de/ausland/rumaenien-stimmt-ueber-neues-parlament-ab-experten-fuerchten-rechtsruck-a-b3d63141-72af-4f1e-87f7-b91052d90770#ref=rss)
-### parlament
-
-* [https://www.spiegel.de/ausland/rumaenien-stimmt-ueber-neues-parlament-ab-experten-fuerchten-rechtsruck](https://www.spiegel.de/ausland/rumaenien-stimmt-ueber-neues-parlament-ab-experten-fuerchten-rechtsruck-a-b3d63141-72af-4f1e-87f7-b91052d90770#ref=rss)
-### experten
-
-* [https://www.spiegel.de/ausland/rumaenien-stimmt-ueber-neues-parlament-ab-experten-fuerchten-rechtsruck](https://www.spiegel.de/ausland/rumaenien-stimmt-ueber-neues-parlament-ab-experten-fuerchten-rechtsruck-a-b3d63141-72af-4f1e-87f7-b91052d90770#ref=rss)
-### ukrainepolitik
-
-* [https://www.spiegel.de/ausland/rumaenien-stimmt-ueber-neues-parlament-ab-experten-fuerchten-rechtsruck](https://www.spiegel.de/ausland/rumaenien-stimmt-ueber-neues-parlament-ab-experten-fuerchten-rechtsruck-a-b3d63141-72af-4f1e-87f7-b91052d90770#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gruenenchefin-franziska-brantner-haelt-friedrich-merz-in-ukrainepolitik-fuer-besseren-partner-als-olaf-scholz](https://www.spiegel.de/politik/deutschland/gruenenchefin-franziska-brantner-haelt-friedrich-merz-in-ukrainepolitik-fuer-besseren-partner-als-olaf-scholz-a-987898da-2def-4c22-aee0-45e5c5cd55a0#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/kaufkraft-studie-wo-sich-die-menschen-in-deutschland-am-meisten-leisten-koennen](https://www.spiegel.de/wirtschaft/kaufkraft-studie-wo-sich-die-menschen-in-deutschland-am-meisten-leisten-koennen-a-e540f114-e2e2-4215-a410-b08f98e5cc59#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/panne-bei-wahl-video-cdu-unterlegt-deutschland-hymne-mit-falschen-bildern](https://www.spiegel.de/politik/deutschland/panne-bei-wahl-video-cdu-unterlegt-deutschland-hymne-mit-falschen-bildern-a-0f047b3c-4fdd-4a40-b82e-b60a6a4631ab#ref=rss)
-### leisten
-
-* [https://www.spiegel.de/wirtschaft/kaufkraft-studie-wo-sich-die-menschen-in-deutschland-am-meisten-leisten-koennen](https://www.spiegel.de/wirtschaft/kaufkraft-studie-wo-sich-die-menschen-in-deutschland-am-meisten-leisten-koennen-a-e540f114-e2e2-4215-a410-b08f98e5cc59#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/ukraine-russland-krieg-offenbar-tote-und-verletzte-bei-angriff-nahe-dnipro](https://www.spiegel.de/ausland/ukraine-russland-krieg-offenbar-tote-und-verletzte-bei-angriff-nahe-dnipro-a-4ee5fac2-03e0-4b3a-bf71-07561952c0d9#ref=rss)
-### verletzte
-
-* [https://www.spiegel.de/ausland/ukraine-russland-krieg-offenbar-tote-und-verletzte-bei-angriff-nahe-dnipro](https://www.spiegel.de/ausland/ukraine-russland-krieg-offenbar-tote-und-verletzte-bei-angriff-nahe-dnipro-a-4ee5fac2-03e0-4b3a-bf71-07561952c0d9#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/neuss-und-hagen-in-nrw-viele-verletzte-bei-chaosfahrt-von-lkw-auf-a46-und-a1](https://www.spiegel.de/panorama/justiz/neuss-und-hagen-in-nrw-viele-verletzte-bei-chaosfahrt-von-lkw-auf-a46-und-a1-a-a5acda39-7d35-4044-87d0-4795e223cfe4#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-rettet-remis-bei-borussia-dortmund-fuer-uns-ist-das-ein-sieg](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-rettet-remis-bei-borussia-dortmund-fuer-uns-ist-das-ein-sieg-a-7697e741-0fdb-48a4-a354-3c7d3577ec5a#ref=rss)
-### dortmund
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-rettet-remis-bei-borussia-dortmund-fuer-uns-ist-das-ein-sieg](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-rettet-remis-bei-borussia-dortmund-fuer-uns-ist-das-ein-sieg-a-7697e741-0fdb-48a4-a354-3c7d3577ec5a#ref=rss)
-### lobte
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-rettet-remis-bei-borussia-dortmund-fuer-uns-ist-das-ein-sieg](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-rettet-remis-bei-borussia-dortmund-fuer-uns-ist-das-ein-sieg-a-7697e741-0fdb-48a4-a354-3c7d3577ec5a#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-charles-kushner-als-us-botschafter-in-frankreich-nominiert](https://www.spiegel.de/ausland/donald-trump-charles-kushner-als-us-botschafter-in-frankreich-nominiert-a-bf91b7c3-3fff-4db8-b9ce-4f36e6c50b0c#ref=rss)
-### großbritannien
-
-* [https://www.spiegel.de/ausland/sterbehilfe-grossbritannien-debattiert-ueber-die-legalisierung](https://www.spiegel.de/ausland/sterbehilfe-grossbritannien-debattiert-ueber-die-legalisierung-a-ec3a5a65-0fe0-47ca-a010-3e44c197f361#ref=rss)
-### premier
-
-* [https://www.spiegel.de/ausland/sterbehilfe-grossbritannien-debattiert-ueber-die-legalisierung](https://www.spiegel.de/ausland/sterbehilfe-grossbritannien-debattiert-ueber-die-legalisierung-a-ec3a5a65-0fe0-47ca-a010-3e44c197f361#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/australien-und-das-verbot-von-social-media-premier-bietet-elon-musk-gespraech-an](https://www.spiegel.de/netzwelt/netzpolitik/australien-und-das-verbot-von-social-media-premier-bietet-elon-musk-gespraech-an-a-b49bd157-f542-4c19-80bc-2dfeac89d28c#ref=rss)
-### franziska
-
-* [https://www.spiegel.de/politik/deutschland/gruenenchefin-franziska-brantner-haelt-friedrich-merz-in-ukrainepolitik-fuer-besseren-partner-als-olaf-scholz](https://www.spiegel.de/politik/deutschland/gruenenchefin-franziska-brantner-haelt-friedrich-merz-in-ukrainepolitik-fuer-besseren-partner-als-olaf-scholz-a-987898da-2def-4c22-aee0-45e5c5cd55a0#ref=rss)
-### brantner
-
-* [https://www.spiegel.de/politik/deutschland/gruenenchefin-franziska-brantner-haelt-friedrich-merz-in-ukrainepolitik-fuer-besseren-partner-als-olaf-scholz](https://www.spiegel.de/politik/deutschland/gruenenchefin-franziska-brantner-haelt-friedrich-merz-in-ukrainepolitik-fuer-besseren-partner-als-olaf-scholz-a-987898da-2def-4c22-aee0-45e5c5cd55a0#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-rennen-in-katar-max-verstappen-gewinnt-lando-norris-faellt-nach-strafe-zurueck](https://www.spiegel.de/sport/formel1/formel-1-rennen-in-katar-max-verstappen-gewinnt-lando-norris-faellt-nach-strafe-zurueck-a-f562f4f0-5866-49dd-a47d-dafaac38fc79#ref=rss)
+* [https://www.spiegel.de/ausland/griechenland-heftige-unwetter-rund-um-die-aegaeis-zwei-tote](https://www.spiegel.de/ausland/griechenland-heftige-unwetter-rund-um-die-aegaeis-zwei-tote-a-1b621a33-841e-4774-a762-90d8b4576b9b#ref=rss)
 ### friedrich
 
-* [https://www.spiegel.de/politik/deutschland/gruenenchefin-franziska-brantner-haelt-friedrich-merz-in-ukrainepolitik-fuer-besseren-partner-als-olaf-scholz](https://www.spiegel.de/politik/deutschland/gruenenchefin-franziska-brantner-haelt-friedrich-merz-in-ukrainepolitik-fuer-besseren-partner-als-olaf-scholz-a-987898da-2def-4c22-aee0-45e5c5cd55a0#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-debatte-friedrich-merz-wirft-olaf-scholz-schueren-von-kriegsangst-vor](https://www.spiegel.de/politik/ukraine-debatte-friedrich-merz-wirft-olaf-scholz-schueren-von-kriegsangst-vor-a-f545b90c-b33c-42b1-8b2c-a23a42483771#ref=rss)
 ### merz
 
-* [https://www.spiegel.de/politik/deutschland/gruenenchefin-franziska-brantner-haelt-friedrich-merz-in-ukrainepolitik-fuer-besseren-partner-als-olaf-scholz](https://www.spiegel.de/politik/deutschland/gruenenchefin-franziska-brantner-haelt-friedrich-merz-in-ukrainepolitik-fuer-besseren-partner-als-olaf-scholz-a-987898da-2def-4c22-aee0-45e5c5cd55a0#ref=rss)
-### umgang
+* [https://www.spiegel.de/politik/ukraine-debatte-friedrich-merz-wirft-olaf-scholz-schueren-von-kriegsangst-vor](https://www.spiegel.de/politik/ukraine-debatte-friedrich-merz-wirft-olaf-scholz-schueren-von-kriegsangst-vor-a-f545b90c-b33c-42b1-8b2c-a23a42483771#ref=rss)
+### olaf
 
-* [https://www.spiegel.de/politik/deutschland/gruenenchefin-franziska-brantner-haelt-friedrich-merz-in-ukrainepolitik-fuer-besseren-partner-als-olaf-scholz](https://www.spiegel.de/politik/deutschland/gruenenchefin-franziska-brantner-haelt-friedrich-merz-in-ukrainepolitik-fuer-besseren-partner-als-olaf-scholz-a-987898da-2def-4c22-aee0-45e5c5cd55a0#ref=rss)
-* [https://www.spiegel.de/ausland/pete-hegseth-mutter-von-trumps-wunschminister-kritisierte-ihren-sohn-fuer-dessen-umgang-mit-frauen](https://www.spiegel.de/ausland/pete-hegseth-mutter-von-trumps-wunschminister-kritisierte-ihren-sohn-fuer-dessen-umgang-mit-frauen-a-98c92c5a-4f65-4cf3-8c24-c6cacab78150#ref=rss)
-### stehen
+* [https://www.spiegel.de/politik/ukraine-debatte-friedrich-merz-wirft-olaf-scholz-schueren-von-kriegsangst-vor](https://www.spiegel.de/politik/ukraine-debatte-friedrich-merz-wirft-olaf-scholz-schueren-von-kriegsangst-vor-a-f545b90c-b33c-42b1-8b2c-a23a42483771#ref=rss)
+### scholz
 
-* [https://www.spiegel.de/politik/deutschland/gruenenchefin-franziska-brantner-haelt-friedrich-merz-in-ukrainepolitik-fuer-besseren-partner-als-olaf-scholz](https://www.spiegel.de/politik/deutschland/gruenenchefin-franziska-brantner-haelt-friedrich-merz-in-ukrainepolitik-fuer-besseren-partner-als-olaf-scholz-a-987898da-2def-4c22-aee0-45e5c5cd55a0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/friedenspflicht-bei-vw-vorbei-warnstreiks-drohen-in-allen-werken](https://www.spiegel.de/wirtschaft/unternehmen/friedenspflicht-bei-vw-vorbei-warnstreiks-drohen-in-allen-werken-a-699fe951-e270-45ef-a3b8-0a644ddf1519#ref=rss)
-### peter
+* [https://www.spiegel.de/politik/ukraine-debatte-friedrich-merz-wirft-olaf-scholz-schueren-von-kriegsangst-vor](https://www.spiegel.de/politik/ukraine-debatte-friedrich-merz-wirft-olaf-scholz-schueren-von-kriegsangst-vor-a-f545b90c-b33c-42b1-8b2c-a23a42483771#ref=rss)
+### kriegsangst
 
-* [https://www.spiegel.de/gesundheit/diagnose/peter-piot-zum-welt-aids-tag-heute-denken-viele-hiv-ist-vorbei-das-ist-ein-grosses-problem](https://www.spiegel.de/gesundheit/diagnose/peter-piot-zum-welt-aids-tag-heute-denken-viele-hiv-ist-vorbei-das-ist-ein-grosses-problem-a-17fc1e96-e86c-41e5-93ee-b8ef44677c88#ref=rss)
-### piot
+* [https://www.spiegel.de/politik/ukraine-debatte-friedrich-merz-wirft-olaf-scholz-schueren-von-kriegsangst-vor](https://www.spiegel.de/politik/ukraine-debatte-friedrich-merz-wirft-olaf-scholz-schueren-von-kriegsangst-vor-a-f545b90c-b33c-42b1-8b2c-a23a42483771#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/gesundheit/diagnose/peter-piot-zum-welt-aids-tag-heute-denken-viele-hiv-ist-vorbei-das-ist-ein-grosses-problem](https://www.spiegel.de/gesundheit/diagnose/peter-piot-zum-welt-aids-tag-heute-denken-viele-hiv-ist-vorbei-das-ist-ein-grosses-problem-a-17fc1e96-e86c-41e5-93ee-b8ef44677c88#ref=rss)
-### hiv
+* [https://www.spiegel.de/ausland/ukraine-soziologe-sieht-mehrheit-der-ukrainer-bereit-fuer-verhandlungen-mit-russland](https://www.spiegel.de/ausland/ukraine-soziologe-sieht-mehrheit-der-ukrainer-bereit-fuer-verhandlungen-mit-russland-a-5e739dbd-20de-4436-aaf6-4b8551bc45c3#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-warum-gehen-ukrainer-in-die-von-russland-besetzten-gebiete-zurueck](https://www.spiegel.de/ausland/ukraine-warum-gehen-ukrainer-in-die-von-russland-besetzten-gebiete-zurueck-a-5453ad9a-3984-4843-92dd-4ff8120aab59#ref=rss)
+### soziologe
 
-* [https://www.spiegel.de/gesundheit/diagnose/peter-piot-zum-welt-aids-tag-heute-denken-viele-hiv-ist-vorbei-das-ist-ein-grosses-problem](https://www.spiegel.de/gesundheit/diagnose/peter-piot-zum-welt-aids-tag-heute-denken-viele-hiv-ist-vorbei-das-ist-ein-grosses-problem-a-17fc1e96-e86c-41e5-93ee-b8ef44677c88#ref=rss)
-### großen
+* [https://www.spiegel.de/ausland/ukraine-soziologe-sieht-mehrheit-der-ukrainer-bereit-fuer-verhandlungen-mit-russland](https://www.spiegel.de/ausland/ukraine-soziologe-sieht-mehrheit-der-ukrainer-bereit-fuer-verhandlungen-mit-russland-a-5e739dbd-20de-4436-aaf6-4b8551bc45c3#ref=rss)
+### sieht
 
-* [https://www.spiegel.de/gesundheit/diagnose/peter-piot-zum-welt-aids-tag-heute-denken-viele-hiv-ist-vorbei-das-ist-ein-grosses-problem](https://www.spiegel.de/gesundheit/diagnose/peter-piot-zum-welt-aids-tag-heute-denken-viele-hiv-ist-vorbei-das-ist-ein-grosses-problem-a-17fc1e96-e86c-41e5-93ee-b8ef44677c88#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-verpasst-100-weltcupsieg-nach-sturz-in-killington](https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-verpasst-100-weltcupsieg-nach-sturz-in-killington-a-28df313b-ef72-48fd-b428-ddcde785e9f0#ref=rss)
-### advent
+* [https://www.spiegel.de/ausland/ukraine-soziologe-sieht-mehrheit-der-ukrainer-bereit-fuer-verhandlungen-mit-russland](https://www.spiegel.de/ausland/ukraine-soziologe-sieht-mehrheit-der-ukrainer-bereit-fuer-verhandlungen-mit-russland-a-5e739dbd-20de-4436-aaf6-4b8551bc45c3#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-warum-gehen-ukrainer-in-die-von-russland-besetzten-gebiete-zurueck](https://www.spiegel.de/ausland/ukraine-warum-gehen-ukrainer-in-die-von-russland-besetzten-gebiete-zurueck-a-5453ad9a-3984-4843-92dd-4ff8120aab59#ref=rss)
+### mehrheit
 
-* [https://www.spiegel.de/stil/wein-fuer-die-vorweihnachtszeit-advent-advent-was-wird-eingeschenkt](https://www.spiegel.de/stil/wein-fuer-die-vorweihnachtszeit-advent-advent-was-wird-eingeschenkt-a-f034121b-bd03-4385-a2d4-351825d5bd38#ref=rss)
-### panne
+* [https://www.spiegel.de/ausland/ukraine-soziologe-sieht-mehrheit-der-ukrainer-bereit-fuer-verhandlungen-mit-russland](https://www.spiegel.de/ausland/ukraine-soziologe-sieht-mehrheit-der-ukrainer-bereit-fuer-verhandlungen-mit-russland-a-5e739dbd-20de-4436-aaf6-4b8551bc45c3#ref=rss)
+### viele
 
-* [https://www.spiegel.de/politik/deutschland/panne-bei-wahl-video-cdu-unterlegt-deutschland-hymne-mit-falschen-bildern](https://www.spiegel.de/politik/deutschland/panne-bei-wahl-video-cdu-unterlegt-deutschland-hymne-mit-falschen-bildern-a-0f047b3c-4fdd-4a40-b82e-b60a6a4631ab#ref=rss)
-### cdu
+* [https://www.spiegel.de/ausland/ukraine-soziologe-sieht-mehrheit-der-ukrainer-bereit-fuer-verhandlungen-mit-russland](https://www.spiegel.de/ausland/ukraine-soziologe-sieht-mehrheit-der-ukrainer-bereit-fuer-verhandlungen-mit-russland-a-5e739dbd-20de-4436-aaf6-4b8551bc45c3#ref=rss)
+* [https://www.spiegel.de/partnerschaft/penis-gekruemmt-urologe-erklaert-warum-im-alter-ein-knick-entstehen-kann-und-wann-er-operiert](https://www.spiegel.de/partnerschaft/penis-gekruemmt-urologe-erklaert-warum-im-alter-ein-knick-entstehen-kann-und-wann-er-operiert-a-bf6ac195-1ba0-410f-bdc1-74db370e4198#ref=rss)
+### gehen
 
-* [https://www.spiegel.de/politik/deutschland/panne-bei-wahl-video-cdu-unterlegt-deutschland-hymne-mit-falschen-bildern](https://www.spiegel.de/politik/deutschland/panne-bei-wahl-video-cdu-unterlegt-deutschland-hymne-mit-falschen-bildern-a-0f047b3c-4fdd-4a40-b82e-b60a6a4631ab#ref=rss)
-### unterlegt
+* [https://www.spiegel.de/ausland/ukraine-warum-gehen-ukrainer-in-die-von-russland-besetzten-gebiete-zurueck](https://www.spiegel.de/ausland/ukraine-warum-gehen-ukrainer-in-die-von-russland-besetzten-gebiete-zurueck-a-5453ad9a-3984-4843-92dd-4ff8120aab59#ref=rss)
+* [https://www.spiegel.de/ausland/usa-setzen-strategische-partnerschaft-mit-georgien-aus](https://www.spiegel.de/ausland/usa-setzen-strategische-partnerschaft-mit-georgien-aus-a-9c98861b-7931-4efe-8718-679b59bd123b#ref=rss)
+### droht
 
-* [https://www.spiegel.de/politik/deutschland/panne-bei-wahl-video-cdu-unterlegt-deutschland-hymne-mit-falschen-bildern](https://www.spiegel.de/politik/deutschland/panne-bei-wahl-video-cdu-unterlegt-deutschland-hymne-mit-falschen-bildern-a-0f047b3c-4fdd-4a40-b82e-b60a6a4631ab#ref=rss)
-### bildern
+* [https://www.spiegel.de/ausland/georgien-eu-chefdiplomatin-erwaegt-sanktionen-gegen-georgien](https://www.spiegel.de/ausland/georgien-eu-chefdiplomatin-erwaegt-sanktionen-gegen-georgien-a-7a8dad7b-f5be-4d3e-963d-c9b98bb99af8#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-rebellen-sollen-aleppo-kontrollieren-assad-droht-mit-vernichtung](https://www.spiegel.de/ausland/syrien-rebellen-sollen-aleppo-kontrollieren-assad-droht-mit-vernichtung-a-e65c4fb9-9f75-4278-bbe1-4884e137d765#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/politik/deutschland/panne-bei-wahl-video-cdu-unterlegt-deutschland-hymne-mit-falschen-bildern](https://www.spiegel.de/politik/deutschland/panne-bei-wahl-video-cdu-unterlegt-deutschland-hymne-mit-falschen-bildern-a-0f047b3c-4fdd-4a40-b82e-b60a6a4631ab#ref=rss)
-### volkswagen
+* [https://www.spiegel.de/ausland/georgien-eu-chefdiplomatin-erwaegt-sanktionen-gegen-georgien](https://www.spiegel.de/ausland/georgien-eu-chefdiplomatin-erwaegt-sanktionen-gegen-georgien-a-7a8dad7b-f5be-4d3e-963d-c9b98bb99af8#ref=rss)
+* [https://www.spiegel.de/ausland/usa-setzen-strategische-partnerschaft-mit-georgien-aus](https://www.spiegel.de/ausland/usa-setzen-strategische-partnerschaft-mit-georgien-aus-a-9c98861b-7931-4efe-8718-679b59bd123b#ref=rss)
+### tiflis
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/friedenspflicht-bei-vw-vorbei-warnstreiks-drohen-in-allen-werken](https://www.spiegel.de/wirtschaft/unternehmen/friedenspflicht-bei-vw-vorbei-warnstreiks-drohen-in-allen-werken-a-699fe951-e270-45ef-a3b8-0a644ddf1519#ref=rss)
-### bald
+* [https://www.spiegel.de/ausland/georgien-eu-chefdiplomatin-erwaegt-sanktionen-gegen-georgien](https://www.spiegel.de/ausland/georgien-eu-chefdiplomatin-erwaegt-sanktionen-gegen-georgien-a-7a8dad7b-f5be-4d3e-963d-c9b98bb99af8#ref=rss)
+* [https://www.spiegel.de/ausland/usa-setzen-strategische-partnerschaft-mit-georgien-aus](https://www.spiegel.de/ausland/usa-setzen-strategische-partnerschaft-mit-georgien-aus-a-9c98861b-7931-4efe-8718-679b59bd123b#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/friedenspflicht-bei-vw-vorbei-warnstreiks-drohen-in-allen-werken](https://www.spiegel.de/wirtschaft/unternehmen/friedenspflicht-bei-vw-vorbei-warnstreiks-drohen-in-allen-werken-a-699fe951-e270-45ef-a3b8-0a644ddf1519#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/australien-und-das-verbot-von-social-media-premier-bietet-elon-musk-gespraech-an](https://www.spiegel.de/netzwelt/netzpolitik/australien-und-das-verbot-von-social-media-premier-bietet-elon-musk-gespraech-an-a-b49bd157-f542-4c19-80bc-2dfeac89d28c#ref=rss)
-### elon
+* [https://www.spiegel.de/ausland/deutschland-und-die-usa-immer-weniger-geld-fuer-das-welternaehrungsprogramm](https://www.spiegel.de/ausland/deutschland-und-die-usa-immer-weniger-geld-fuer-das-welternaehrungsprogramm-a-be8e00a7-3aed-42a7-bd99-edd1e849f88e#ref=rss)
+### weniger
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/australien-und-das-verbot-von-social-media-premier-bietet-elon-musk-gespraech-an](https://www.spiegel.de/netzwelt/netzpolitik/australien-und-das-verbot-von-social-media-premier-bietet-elon-musk-gespraech-an-a-b49bd157-f542-4c19-80bc-2dfeac89d28c#ref=rss)
-### musk
+* [https://www.spiegel.de/ausland/deutschland-und-die-usa-immer-weniger-geld-fuer-das-welternaehrungsprogramm](https://www.spiegel.de/ausland/deutschland-und-die-usa-immer-weniger-geld-fuer-das-welternaehrungsprogramm-a-be8e00a7-3aed-42a7-bd99-edd1e849f88e#ref=rss)
+### geld
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/australien-und-das-verbot-von-social-media-premier-bietet-elon-musk-gespraech-an](https://www.spiegel.de/netzwelt/netzpolitik/australien-und-das-verbot-von-social-media-premier-bietet-elon-musk-gespraech-an-a-b49bd157-f542-4c19-80bc-2dfeac89d28c#ref=rss)
-### fbi
+* [https://www.spiegel.de/ausland/deutschland-und-die-usa-immer-weniger-geld-fuer-das-welternaehrungsprogramm](https://www.spiegel.de/ausland/deutschland-und-die-usa-immer-weniger-geld-fuer-das-welternaehrungsprogramm-a-be8e00a7-3aed-42a7-bd99-edd1e849f88e#ref=rss)
+### welternährungsprogramm
 
-* [https://www.spiegel.de/ausland/fbi-kash-patel-soll-unter-donald-trump-die-us-bundespolizei-leiten](https://www.spiegel.de/ausland/fbi-kash-patel-soll-unter-donald-trump-die-us-bundespolizei-leiten-a-9e8375f3-26d5-44d8-8916-5c07e7b6c1c2#ref=rss)
-### kash
+* [https://www.spiegel.de/ausland/deutschland-und-die-usa-immer-weniger-geld-fuer-das-welternaehrungsprogramm](https://www.spiegel.de/ausland/deutschland-und-die-usa-immer-weniger-geld-fuer-das-welternaehrungsprogramm-a-be8e00a7-3aed-42a7-bd99-edd1e849f88e#ref=rss)
+### steigt
 
-* [https://www.spiegel.de/ausland/fbi-kash-patel-soll-unter-donald-trump-die-us-bundespolizei-leiten](https://www.spiegel.de/ausland/fbi-kash-patel-soll-unter-donald-trump-die-us-bundespolizei-leiten-a-9e8375f3-26d5-44d8-8916-5c07e7b6c1c2#ref=rss)
-### patel
+* [https://www.spiegel.de/ausland/deutschland-und-die-usa-immer-weniger-geld-fuer-das-welternaehrungsprogramm](https://www.spiegel.de/ausland/deutschland-und-die-usa-immer-weniger-geld-fuer-das-welternaehrungsprogramm-a-be8e00a7-3aed-42a7-bd99-edd1e849f88e#ref=rss)
+* [https://www.spiegel.de/ausland/usa-setzen-strategische-partnerschaft-mit-georgien-aus](https://www.spiegel.de/ausland/usa-setzen-strategische-partnerschaft-mit-georgien-aus-a-9c98861b-7931-4efe-8718-679b59bd123b#ref=rss)
+### aleppo
 
-* [https://www.spiegel.de/ausland/fbi-kash-patel-soll-unter-donald-trump-die-us-bundespolizei-leiten](https://www.spiegel.de/ausland/fbi-kash-patel-soll-unter-donald-trump-die-us-bundespolizei-leiten-a-9e8375f3-26d5-44d8-8916-5c07e7b6c1c2#ref=rss)
-### pete
+* [https://www.spiegel.de/ausland/syrien-rebellen-sollen-aleppo-kontrollieren-assad-droht-mit-vernichtung](https://www.spiegel.de/ausland/syrien-rebellen-sollen-aleppo-kontrollieren-assad-droht-mit-vernichtung-a-e65c4fb9-9f75-4278-bbe1-4884e137d765#ref=rss)
+### fdp
 
-* [https://www.spiegel.de/ausland/pete-hegseth-mutter-von-trumps-wunschminister-kritisierte-ihren-sohn-fuer-dessen-umgang-mit-frauen](https://www.spiegel.de/ausland/pete-hegseth-mutter-von-trumps-wunschminister-kritisierte-ihren-sohn-fuer-dessen-umgang-mit-frauen-a-98c92c5a-4f65-4cf3-8c24-c6cacab78150#ref=rss)
-### hegseth
+* [https://www.spiegel.de/politik/deutschland/fdp-ex-schatzmeister-harald-christ-verlaesst-die-partei](https://www.spiegel.de/politik/deutschland/fdp-ex-schatzmeister-harald-christ-verlaesst-die-partei-a-7dd19de1-b5ec-46c9-b8af-73d34785e26c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/marco-buschmann-das-ist-der-neue-fdp-generalsekretaer](https://www.spiegel.de/politik/deutschland/marco-buschmann-das-ist-der-neue-fdp-generalsekretaer-a-0d7cfe27-6947-4fd0-94d8-bf54fadaedc0#ref=rss)
+### harald
 
-* [https://www.spiegel.de/ausland/pete-hegseth-mutter-von-trumps-wunschminister-kritisierte-ihren-sohn-fuer-dessen-umgang-mit-frauen](https://www.spiegel.de/ausland/pete-hegseth-mutter-von-trumps-wunschminister-kritisierte-ihren-sohn-fuer-dessen-umgang-mit-frauen-a-98c92c5a-4f65-4cf3-8c24-c6cacab78150#ref=rss)
-### a46
+* [https://www.spiegel.de/politik/deutschland/fdp-ex-schatzmeister-harald-christ-verlaesst-die-partei](https://www.spiegel.de/politik/deutschland/fdp-ex-schatzmeister-harald-christ-verlaesst-die-partei-a-7dd19de1-b5ec-46c9-b8af-73d34785e26c#ref=rss)
+### christ
 
-* [https://www.spiegel.de/panorama/justiz/neuss-und-hagen-in-nrw-viele-verletzte-bei-chaosfahrt-von-lkw-auf-a46-und-a1](https://www.spiegel.de/panorama/justiz/neuss-und-hagen-in-nrw-viele-verletzte-bei-chaosfahrt-von-lkw-auf-a46-und-a1-a-a5acda39-7d35-4044-87d0-4795e223cfe4#ref=rss)
-### a1
+* [https://www.spiegel.de/politik/deutschland/fdp-ex-schatzmeister-harald-christ-verlaesst-die-partei](https://www.spiegel.de/politik/deutschland/fdp-ex-schatzmeister-harald-christ-verlaesst-die-partei-a-7dd19de1-b5ec-46c9-b8af-73d34785e26c#ref=rss)
+### verlässt
 
-* [https://www.spiegel.de/panorama/justiz/neuss-und-hagen-in-nrw-viele-verletzte-bei-chaosfahrt-von-lkw-auf-a46-und-a1](https://www.spiegel.de/panorama/justiz/neuss-und-hagen-in-nrw-viele-verletzte-bei-chaosfahrt-von-lkw-auf-a46-und-a1-a-a5acda39-7d35-4044-87d0-4795e223cfe4#ref=rss)
-### charles
+* [https://www.spiegel.de/politik/deutschland/fdp-ex-schatzmeister-harald-christ-verlaesst-die-partei](https://www.spiegel.de/politik/deutschland/fdp-ex-schatzmeister-harald-christ-verlaesst-die-partei-a-7dd19de1-b5ec-46c9-b8af-73d34785e26c#ref=rss)
+### reihen
 
-* [https://www.spiegel.de/ausland/donald-trump-charles-kushner-als-us-botschafter-in-frankreich-nominiert](https://www.spiegel.de/ausland/donald-trump-charles-kushner-als-us-botschafter-in-frankreich-nominiert-a-bf91b7c3-3fff-4db8-b9ce-4f36e6c50b0c#ref=rss)
-### kushner
+* [https://www.spiegel.de/politik/deutschland/fdp-ex-schatzmeister-harald-christ-verlaesst-die-partei](https://www.spiegel.de/politik/deutschland/fdp-ex-schatzmeister-harald-christ-verlaesst-die-partei-a-7dd19de1-b5ec-46c9-b8af-73d34785e26c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/marco-buschmann-das-ist-der-neue-fdp-generalsekretaer](https://www.spiegel.de/politik/deutschland/marco-buschmann-das-ist-der-neue-fdp-generalsekretaer-a-0d7cfe27-6947-4fd0-94d8-bf54fadaedc0#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/ausland/donald-trump-charles-kushner-als-us-botschafter-in-frankreich-nominiert](https://www.spiegel.de/ausland/donald-trump-charles-kushner-als-us-botschafter-in-frankreich-nominiert-a-bf91b7c3-3fff-4db8-b9ce-4f36e6c50b0c#ref=rss)
-### usbotschafter
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
 
-* [https://www.spiegel.de/ausland/donald-trump-charles-kushner-als-us-botschafter-in-frankreich-nominiert](https://www.spiegel.de/ausland/donald-trump-charles-kushner-als-us-botschafter-in-frankreich-nominiert-a-bf91b7c3-3fff-4db8-b9ce-4f36e6c50b0c#ref=rss)
-### frankreich
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### elke
 
-* [https://www.spiegel.de/ausland/donald-trump-charles-kushner-als-us-botschafter-in-frankreich-nominiert](https://www.spiegel.de/ausland/donald-trump-charles-kushner-als-us-botschafter-in-frankreich-nominiert-a-bf91b7c3-3fff-4db8-b9ce-4f36e6c50b0c#ref=rss)
-### bricsstaaten
+* [https://www.spiegel.de/politik/spiegel-bestseller-mehr-lesen-mit-elke-heidenreich-was-wuerden-sie-tun-wenn-sie-fuer-tot-erklaert-werden](https://www.spiegel.de/politik/spiegel-bestseller-mehr-lesen-mit-elke-heidenreich-was-wuerden-sie-tun-wenn-sie-fuer-tot-erklaert-werden-a-dd1e790d-d2fb-490b-88ea-dba2a00764dc#ref=rss)
+### tot
 
-* [https://www.spiegel.de/ausland/donald-trump-droht-brics-staaten-mit-zoellen-von-100-prozent](https://www.spiegel.de/ausland/donald-trump-droht-brics-staaten-mit-zoellen-von-100-prozent-a-7b2d6043-adb3-4fe4-8d88-529b153afd03#ref=rss)
-### 100
+* [https://www.spiegel.de/politik/spiegel-bestseller-mehr-lesen-mit-elke-heidenreich-was-wuerden-sie-tun-wenn-sie-fuer-tot-erklaert-werden](https://www.spiegel.de/politik/spiegel-bestseller-mehr-lesen-mit-elke-heidenreich-was-wuerden-sie-tun-wenn-sie-fuer-tot-erklaert-werden-a-dd1e790d-d2fb-490b-88ea-dba2a00764dc#ref=rss)
+* [https://www.spiegel.de/kultur/kino/annie-hall-marshall-brickman-co-autor-von-woody-allen-ist-tot](https://www.spiegel.de/kultur/kino/annie-hall-marshall-brickman-co-autor-von-woody-allen-ist-tot-a-c7089411-0a3f-4d3b-a905-862183acfbf7#ref=rss)
+### mann
 
-* [https://www.spiegel.de/ausland/donald-trump-droht-brics-staaten-mit-zoellen-von-100-prozent](https://www.spiegel.de/ausland/donald-trump-droht-brics-staaten-mit-zoellen-von-100-prozent-a-7b2d6043-adb3-4fe4-8d88-529b153afd03#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-verpasst-100-weltcupsieg-nach-sturz-in-killington](https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-verpasst-100-weltcupsieg-nach-sturz-in-killington-a-28df313b-ef72-48fd-b428-ddcde785e9f0#ref=rss)
-### mikaela
+* [https://www.spiegel.de/politik/spiegel-bestseller-mehr-lesen-mit-elke-heidenreich-was-wuerden-sie-tun-wenn-sie-fuer-tot-erklaert-werden](https://www.spiegel.de/politik/spiegel-bestseller-mehr-lesen-mit-elke-heidenreich-was-wuerden-sie-tun-wenn-sie-fuer-tot-erklaert-werden-a-dd1e790d-d2fb-490b-88ea-dba2a00764dc#ref=rss)
+* [https://www.spiegel.de/sport/fussball/ailton-der-fruehere-star-von-werder-bremen-erzaehlt-seine-lebensgeschichte](https://www.spiegel.de/sport/fussball/ailton-der-fruehere-star-von-werder-bremen-erzaehlt-seine-lebensgeschichte-a-8f0dba7d-554d-41cf-8230-72585485746e#ref=rss)
+### gestorben
 
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-verpasst-100-weltcupsieg-nach-sturz-in-killington](https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-verpasst-100-weltcupsieg-nach-sturz-in-killington-a-28df313b-ef72-48fd-b428-ddcde785e9f0#ref=rss)
-### shiffrin
+* [https://www.spiegel.de/politik/spiegel-bestseller-mehr-lesen-mit-elke-heidenreich-was-wuerden-sie-tun-wenn-sie-fuer-tot-erklaert-werden](https://www.spiegel.de/politik/spiegel-bestseller-mehr-lesen-mit-elke-heidenreich-was-wuerden-sie-tun-wenn-sie-fuer-tot-erklaert-werden-a-dd1e790d-d2fb-490b-88ea-dba2a00764dc#ref=rss)
+* [https://www.spiegel.de/kultur/kino/annie-hall-marshall-brickman-co-autor-von-woody-allen-ist-tot](https://www.spiegel.de/kultur/kino/annie-hall-marshall-brickman-co-autor-von-woody-allen-ist-tot-a-c7089411-0a3f-4d3b-a905-862183acfbf7#ref=rss)
+### meghan
 
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-verpasst-100-weltcupsieg-nach-sturz-in-killington](https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-verpasst-100-weltcupsieg-nach-sturz-in-killington-a-28df313b-ef72-48fd-b428-ddcde785e9f0#ref=rss)
+* [https://www.spiegel.de/panorama/popsaengerin-meghan-trainor-bereut-kosmetische-eingriffe](https://www.spiegel.de/panorama/popsaengerin-meghan-trainor-bereut-kosmetische-eingriffe-a-dfb12551-407f-43ab-a55c-9d3c5676efa3#ref=rss)
+### trainor
+
+* [https://www.spiegel.de/panorama/popsaengerin-meghan-trainor-bereut-kosmetische-eingriffe](https://www.spiegel.de/panorama/popsaengerin-meghan-trainor-bereut-kosmetische-eingriffe-a-dfb12551-407f-43ab-a55c-9d3c5676efa3#ref=rss)
+### gesetz
+
+* [https://www.spiegel.de/ausland/belgiens-sexarbeiterinnen-bekommen-mutterschutz-und-krankengeld](https://www.spiegel.de/ausland/belgiens-sexarbeiterinnen-bekommen-mutterschutz-und-krankengeld-a-19b480f8-b94d-417d-89d4-2465444ace52#ref=rss)
+### tatort
+
+* [https://www.spiegel.de/kultur/tv/tatort-heute-mit-wotan-wilke-moehring-schweigen-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-mit-wotan-wilke-moehring-schweigen-im-schnellcheck-a-5321b61c-cbbf-4380-a6c3-7756dc15753f#ref=rss)
+### wotan
+
+* [https://www.spiegel.de/kultur/tv/tatort-heute-mit-wotan-wilke-moehring-schweigen-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-mit-wotan-wilke-moehring-schweigen-im-schnellcheck-a-5321b61c-cbbf-4380-a6c3-7756dc15753f#ref=rss)
+### wilke
+
+* [https://www.spiegel.de/kultur/tv/tatort-heute-mit-wotan-wilke-moehring-schweigen-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-mit-wotan-wilke-moehring-schweigen-im-schnellcheck-a-5321b61c-cbbf-4380-a6c3-7756dc15753f#ref=rss)
+### möhring
+
+* [https://www.spiegel.de/kultur/tv/tatort-heute-mit-wotan-wilke-moehring-schweigen-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-mit-wotan-wilke-moehring-schweigen-im-schnellcheck-a-5321b61c-cbbf-4380-a6c3-7756dc15753f#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/kultur/tv/tatort-heute-mit-wotan-wilke-moehring-schweigen-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-mit-wotan-wilke-moehring-schweigen-im-schnellcheck-a-5321b61c-cbbf-4380-a6c3-7756dc15753f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/ailton-der-fruehere-star-von-werder-bremen-erzaehlt-seine-lebensgeschichte](https://www.spiegel.de/sport/fussball/ailton-der-fruehere-star-von-werder-bremen-erzaehlt-seine-lebensgeschichte-a-8f0dba7d-554d-41cf-8230-72585485746e#ref=rss)
+### remis
+
+* [https://www.spiegel.de/sport/schach-wm-nach-zwei-remis-am-wochenende-weiter-alles-offen-zwischen-ding-liren-und-dommaraju-gukesh](https://www.spiegel.de/sport/schach-wm-nach-zwei-remis-am-wochenende-weiter-alles-offen-zwischen-ding-liren-und-dommaraju-gukesh-a-7eb1754b-2fb5-4f1b-8184-ee0ff626eaa6#ref=rss)
+### wochenende
+
+* [https://www.spiegel.de/sport/schach-wm-nach-zwei-remis-am-wochenende-weiter-alles-offen-zwischen-ding-liren-und-dommaraju-gukesh](https://www.spiegel.de/sport/schach-wm-nach-zwei-remis-am-wochenende-weiter-alles-offen-zwischen-ding-liren-und-dommaraju-gukesh-a-7eb1754b-2fb5-4f1b-8184-ee0ff626eaa6#ref=rss)
+### alles
+
+* [https://www.spiegel.de/sport/schach-wm-nach-zwei-remis-am-wochenende-weiter-alles-offen-zwischen-ding-liren-und-dommaraju-gukesh](https://www.spiegel.de/sport/schach-wm-nach-zwei-remis-am-wochenende-weiter-alles-offen-zwischen-ding-liren-und-dommaraju-gukesh-a-7eb1754b-2fb5-4f1b-8184-ee0ff626eaa6#ref=rss)
+### offen
+
+* [https://www.spiegel.de/sport/schach-wm-nach-zwei-remis-am-wochenende-weiter-alles-offen-zwischen-ding-liren-und-dommaraju-gukesh](https://www.spiegel.de/sport/schach-wm-nach-zwei-remis-am-wochenende-weiter-alles-offen-zwischen-ding-liren-und-dommaraju-gukesh-a-7eb1754b-2fb5-4f1b-8184-ee0ff626eaa6#ref=rss)
+### ding
+
+* [https://www.spiegel.de/sport/schach-wm-nach-zwei-remis-am-wochenende-weiter-alles-offen-zwischen-ding-liren-und-dommaraju-gukesh](https://www.spiegel.de/sport/schach-wm-nach-zwei-remis-am-wochenende-weiter-alles-offen-zwischen-ding-liren-und-dommaraju-gukesh-a-7eb1754b-2fb5-4f1b-8184-ee0ff626eaa6#ref=rss)
+### liren
+
+* [https://www.spiegel.de/sport/schach-wm-nach-zwei-remis-am-wochenende-weiter-alles-offen-zwischen-ding-liren-und-dommaraju-gukesh](https://www.spiegel.de/sport/schach-wm-nach-zwei-remis-am-wochenende-weiter-alles-offen-zwischen-ding-liren-und-dommaraju-gukesh-a-7eb1754b-2fb5-4f1b-8184-ee0ff626eaa6#ref=rss)
+### jennifer
+
+* [https://www.spiegel.de/kultur/kino/weshalb-jennifer-lopez-frueher-das-maedchen-von-nebenan-sein-wollte](https://www.spiegel.de/kultur/kino/weshalb-jennifer-lopez-frueher-das-maedchen-von-nebenan-sein-wollte-a-b133e3b9-f95d-49f5-a0d5-ac7c7a32c1a7#ref=rss)
+### lopez
+
+* [https://www.spiegel.de/kultur/kino/weshalb-jennifer-lopez-frueher-das-maedchen-von-nebenan-sein-wollte](https://www.spiegel.de/kultur/kino/weshalb-jennifer-lopez-frueher-das-maedchen-von-nebenan-sein-wollte-a-b133e3b9-f95d-49f5-a0d5-ac7c7a32c1a7#ref=rss)
+### trennung
+
+* [https://www.spiegel.de/sport/fussball/2-bundesliga-der-hamburger-sv-gewinnt-erstes-spiel-nach-trennung-von-steffen-baumgart](https://www.spiegel.de/sport/fussball/2-bundesliga-der-hamburger-sv-gewinnt-erstes-spiel-nach-trennung-von-steffen-baumgart-a-59d5a3cb-0b8b-4b8e-872c-fd4e1a210b77#ref=rss)
+### steffen
+
+* [https://www.spiegel.de/sport/fussball/2-bundesliga-der-hamburger-sv-gewinnt-erstes-spiel-nach-trennung-von-steffen-baumgart](https://www.spiegel.de/sport/fussball/2-bundesliga-der-hamburger-sv-gewinnt-erstes-spiel-nach-trennung-von-steffen-baumgart-a-59d5a3cb-0b8b-4b8e-872c-fd4e1a210b77#ref=rss)
+### baumgart
+
+* [https://www.spiegel.de/sport/fussball/2-bundesliga-der-hamburger-sv-gewinnt-erstes-spiel-nach-trennung-von-steffen-baumgart](https://www.spiegel.de/sport/fussball/2-bundesliga-der-hamburger-sv-gewinnt-erstes-spiel-nach-trennung-von-steffen-baumgart-a-59d5a3cb-0b8b-4b8e-872c-fd4e1a210b77#ref=rss)
+### plaßmann
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-a-8be9e91a-0df5-421d-93f5-575f125a04a5#ref=rss)
+### stuttmann
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-a-8be9e91a-0df5-421d-93f5-575f125a04a5#ref=rss)
+### chappatte
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-a-8be9e91a-0df5-421d-93f5-575f125a04a5#ref=rss)
+### unter
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-a-8be9e91a-0df5-421d-93f5-575f125a04a5#ref=rss)
+* [https://www.spiegel.de/ausland/spanien-ministerpraesident-pedro-sanchez-als-parteichef-bestaetigt](https://www.spiegel.de/ausland/spanien-ministerpraesident-pedro-sanchez-als-parteichef-bestaetigt-a-3b205a71-5ec6-4fdd-a498-84d74545b72a#ref=rss)
+### pedro
+
+* [https://www.spiegel.de/ausland/spanien-ministerpraesident-pedro-sanchez-als-parteichef-bestaetigt](https://www.spiegel.de/ausland/spanien-ministerpraesident-pedro-sanchez-als-parteichef-bestaetigt-a-3b205a71-5ec6-4fdd-a498-84d74545b72a#ref=rss)
+### sánchez
+
+* [https://www.spiegel.de/ausland/spanien-ministerpraesident-pedro-sanchez-als-parteichef-bestaetigt](https://www.spiegel.de/ausland/spanien-ministerpraesident-pedro-sanchez-als-parteichef-bestaetigt-a-3b205a71-5ec6-4fdd-a498-84d74545b72a#ref=rss)
+### parteichef
+
+* [https://www.spiegel.de/ausland/spanien-ministerpraesident-pedro-sanchez-als-parteichef-bestaetigt](https://www.spiegel.de/ausland/spanien-ministerpraesident-pedro-sanchez-als-parteichef-bestaetigt-a-3b205a71-5ec6-4fdd-a498-84d74545b72a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/marco-buschmann-das-ist-der-neue-fdp-generalsekretaer](https://www.spiegel.de/politik/deutschland/marco-buschmann-das-ist-der-neue-fdp-generalsekretaer-a-0d7cfe27-6947-4fd0-94d8-bf54fadaedc0#ref=rss)
+### generalsekretär
+
+* [https://www.spiegel.de/ausland/spanien-ministerpraesident-pedro-sanchez-als-parteichef-bestaetigt](https://www.spiegel.de/ausland/spanien-ministerpraesident-pedro-sanchez-als-parteichef-bestaetigt-a-3b205a71-5ec6-4fdd-a498-84d74545b72a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/marco-buschmann-das-ist-der-neue-fdp-generalsekretaer](https://www.spiegel.de/politik/deutschland/marco-buschmann-das-ist-der-neue-fdp-generalsekretaer-a-0d7cfe27-6947-4fd0-94d8-bf54fadaedc0#ref=rss)
+### nikotinkissen
+
+* [https://www.spiegel.de/wissenschaft/medizin/tabakindustrie-wie-nikotinkissen-eine-neue-generation-von-suechtigen-erzeugen](https://www.spiegel.de/wissenschaft/medizin/tabakindustrie-wie-nikotinkissen-eine-neue-generation-von-suechtigen-erzeugen-a-ae733c03-d1a0-4fd0-972d-a8cf19957fcc#ref=rss)
+### penis
+
+* [https://www.spiegel.de/partnerschaft/penis-gekruemmt-urologe-erklaert-warum-im-alter-ein-knick-entstehen-kann-und-wann-er-operiert](https://www.spiegel.de/partnerschaft/penis-gekruemmt-urologe-erklaert-warum-im-alter-ein-knick-entstehen-kann-und-wann-er-operiert-a-bf6ac195-1ba0-410f-bdc1-74db370e4198#ref=rss)
+### urologe
+
+* [https://www.spiegel.de/partnerschaft/penis-gekruemmt-urologe-erklaert-warum-im-alter-ein-knick-entstehen-kann-und-wann-er-operiert](https://www.spiegel.de/partnerschaft/penis-gekruemmt-urologe-erklaert-warum-im-alter-ein-knick-entstehen-kann-und-wann-er-operiert-a-bf6ac195-1ba0-410f-bdc1-74db370e4198#ref=rss)
+### alter
+
+* [https://www.spiegel.de/partnerschaft/penis-gekruemmt-urologe-erklaert-warum-im-alter-ein-knick-entstehen-kann-und-wann-er-operiert](https://www.spiegel.de/partnerschaft/penis-gekruemmt-urologe-erklaert-warum-im-alter-ein-knick-entstehen-kann-und-wann-er-operiert-a-bf6ac195-1ba0-410f-bdc1-74db370e4198#ref=rss)
+* [https://www.spiegel.de/kultur/kino/annie-hall-marshall-brickman-co-autor-von-woody-allen-ist-tot](https://www.spiegel.de/kultur/kino/annie-hall-marshall-brickman-co-autor-von-woody-allen-ist-tot-a-c7089411-0a3f-4d3b-a905-862183acfbf7#ref=rss)
+### wann
+
+* [https://www.spiegel.de/partnerschaft/penis-gekruemmt-urologe-erklaert-warum-im-alter-ein-knick-entstehen-kann-und-wann-er-operiert](https://www.spiegel.de/partnerschaft/penis-gekruemmt-urologe-erklaert-warum-im-alter-ein-knick-entstehen-kann-und-wann-er-operiert-a-bf6ac195-1ba0-410f-bdc1-74db370e4198#ref=rss)
+### operiert
+
+* [https://www.spiegel.de/partnerschaft/penis-gekruemmt-urologe-erklaert-warum-im-alter-ein-knick-entstehen-kann-und-wann-er-operiert](https://www.spiegel.de/partnerschaft/penis-gekruemmt-urologe-erklaert-warum-im-alter-ein-knick-entstehen-kann-und-wann-er-operiert-a-bf6ac195-1ba0-410f-bdc1-74db370e4198#ref=rss)
+### bußgeld
+
+* [https://www.spiegel.de/panorama/bildung/nuernberg-fuenf-euro-bussgeld-fuer-zuspaetkommen-gymnasium-zieht-bilanz-seiner-neuregelung](https://www.spiegel.de/panorama/bildung/nuernberg-fuenf-euro-bussgeld-fuer-zuspaetkommen-gymnasium-zieht-bilanz-seiner-neuregelung-a-95841743-cad3-43d0-add2-a98bba4a1aec#ref=rss)
+### gymnasium
+
+* [https://www.spiegel.de/panorama/bildung/nuernberg-fuenf-euro-bussgeld-fuer-zuspaetkommen-gymnasium-zieht-bilanz-seiner-neuregelung](https://www.spiegel.de/panorama/bildung/nuernberg-fuenf-euro-bussgeld-fuer-zuspaetkommen-gymnasium-zieht-bilanz-seiner-neuregelung-a-95841743-cad3-43d0-add2-a98bba4a1aec#ref=rss)
+### aílton
+
+* [https://www.spiegel.de/sport/fussball/ailton-der-fruehere-star-von-werder-bremen-erzaehlt-seine-lebensgeschichte](https://www.spiegel.de/sport/fussball/ailton-der-fruehere-star-von-werder-bremen-erzaehlt-seine-lebensgeschichte-a-8f0dba7d-554d-41cf-8230-72585485746e#ref=rss)
+### setzen
+
+* [https://www.spiegel.de/ausland/usa-setzen-strategische-partnerschaft-mit-georgien-aus](https://www.spiegel.de/ausland/usa-setzen-strategische-partnerschaft-mit-georgien-aus-a-9c98861b-7931-4efe-8718-679b59bd123b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-ig-metall-ruft-fuer-montag-zu-flaechendeckenden-warnstreiks](https://www.spiegel.de/wirtschaft/unternehmen/vw-ig-metall-ruft-fuer-montag-zu-flaechendeckenden-warnstreiks-a-f7d39217-a7b5-419b-87be-11b64f5f6b9b#ref=rss)
+### marshall
+
+* [https://www.spiegel.de/kultur/kino/annie-hall-marshall-brickman-co-autor-von-woody-allen-ist-tot](https://www.spiegel.de/kultur/kino/annie-hall-marshall-brickman-co-autor-von-woody-allen-ist-tot-a-c7089411-0a3f-4d3b-a905-862183acfbf7#ref=rss)
+### brickman
+
+* [https://www.spiegel.de/kultur/kino/annie-hall-marshall-brickman-co-autor-von-woody-allen-ist-tot](https://www.spiegel.de/kultur/kino/annie-hall-marshall-brickman-co-autor-von-woody-allen-ist-tot-a-c7089411-0a3f-4d3b-a905-862183acfbf7#ref=rss)
+### woody
+
+* [https://www.spiegel.de/kultur/kino/annie-hall-marshall-brickman-co-autor-von-woody-allen-ist-tot](https://www.spiegel.de/kultur/kino/annie-hall-marshall-brickman-co-autor-von-woody-allen-ist-tot-a-c7089411-0a3f-4d3b-a905-862183acfbf7#ref=rss)
+### marco
+
+* [https://www.spiegel.de/politik/deutschland/marco-buschmann-das-ist-der-neue-fdp-generalsekretaer](https://www.spiegel.de/politik/deutschland/marco-buschmann-das-ist-der-neue-fdp-generalsekretaer-a-0d7cfe27-6947-4fd0-94d8-bf54fadaedc0#ref=rss)
+### buschmann
+
+* [https://www.spiegel.de/politik/deutschland/marco-buschmann-das-ist-der-neue-fdp-generalsekretaer](https://www.spiegel.de/politik/deutschland/marco-buschmann-das-ist-der-neue-fdp-generalsekretaer-a-0d7cfe27-6947-4fd0-94d8-bf54fadaedc0#ref=rss)
+### lkwfahrer
+
+* [https://www.spiegel.de/panorama/nordrhein-westfalen-festgenommener-lkw-fahrer-nach-chaosfahrt-in-psychiatrischer-klinik](https://www.spiegel.de/panorama/nordrhein-westfalen-festgenommener-lkw-fahrer-nach-chaosfahrt-in-psychiatrischer-klinik-a-b635569e-8ca1-4384-a390-25f501f2fd45#ref=rss)
+### vw
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-ig-metall-ruft-fuer-montag-zu-flaechendeckenden-warnstreiks](https://www.spiegel.de/wirtschaft/unternehmen/vw-ig-metall-ruft-fuer-montag-zu-flaechendeckenden-warnstreiks-a-f7d39217-a7b5-419b-87be-11b64f5f6b9b#ref=rss)
+### ig
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-ig-metall-ruft-fuer-montag-zu-flaechendeckenden-warnstreiks](https://www.spiegel.de/wirtschaft/unternehmen/vw-ig-metall-ruft-fuer-montag-zu-flaechendeckenden-warnstreiks-a-f7d39217-a7b5-419b-87be-11b64f5f6b9b#ref=rss)
+### metall
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-ig-metall-ruft-fuer-montag-zu-flaechendeckenden-warnstreiks](https://www.spiegel.de/wirtschaft/unternehmen/vw-ig-metall-ruft-fuer-montag-zu-flaechendeckenden-warnstreiks-a-f7d39217-a7b5-419b-87be-11b64f5f6b9b#ref=rss)
+### warnstreiks
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-ig-metall-ruft-fuer-montag-zu-flaechendeckenden-warnstreiks](https://www.spiegel.de/wirtschaft/unternehmen/vw-ig-metall-ruft-fuer-montag-zu-flaechendeckenden-warnstreiks-a-f7d39217-a7b5-419b-87be-11b64f5f6b9b#ref=rss)
+### auseinandersetzung
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-ig-metall-ruft-fuer-montag-zu-flaechendeckenden-warnstreiks](https://www.spiegel.de/wirtschaft/unternehmen/vw-ig-metall-ruft-fuer-montag-zu-flaechendeckenden-warnstreiks-a-f7d39217-a7b5-419b-87be-11b64f5f6b9b#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/israel-gaza-krieg-universitaet-leipzig-sagt-vortrag-israelischen-professors-ab](https://www.spiegel.de/panorama/bildung/israel-gaza-krieg-universitaet-leipzig-sagt-vortrag-israelischen-professors-ab-a-f695ac8c-5a17-490b-a9d7-271453576e80#ref=rss)
+### universität
+
+* [https://www.spiegel.de/panorama/bildung/israel-gaza-krieg-universitaet-leipzig-sagt-vortrag-israelischen-professors-ab](https://www.spiegel.de/panorama/bildung/israel-gaza-krieg-universitaet-leipzig-sagt-vortrag-israelischen-professors-ab-a-f695ac8c-5a17-490b-a9d7-271453576e80#ref=rss)
+### leipzig
+
+* [https://www.spiegel.de/panorama/bildung/israel-gaza-krieg-universitaet-leipzig-sagt-vortrag-israelischen-professors-ab](https://www.spiegel.de/panorama/bildung/israel-gaza-krieg-universitaet-leipzig-sagt-vortrag-israelischen-professors-ab-a-f695ac8c-5a17-490b-a9d7-271453576e80#ref=rss)
+### vortrag
+
+* [https://www.spiegel.de/panorama/bildung/israel-gaza-krieg-universitaet-leipzig-sagt-vortrag-israelischen-professors-ab](https://www.spiegel.de/panorama/bildung/israel-gaza-krieg-universitaet-leipzig-sagt-vortrag-israelischen-professors-ab-a-f695ac8c-5a17-490b-a9d7-271453576e80#ref=rss)
+### israelischen
+
+* [https://www.spiegel.de/panorama/bildung/israel-gaza-krieg-universitaet-leipzig-sagt-vortrag-israelischen-professors-ab](https://www.spiegel.de/panorama/bildung/israel-gaza-krieg-universitaet-leipzig-sagt-vortrag-israelischen-professors-ab-a-f695ac8c-5a17-490b-a9d7-271453576e80#ref=rss)
 
