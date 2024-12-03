@@ -4,336 +4,326 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### trump
+### kriegsrecht
 
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-seine-widerspruechliche-wirtschaftspolitik-trump-laeuft-in-die-dollar-falle](https://www.spiegel.de/wirtschaft/donald-trump-und-seine-widerspruechliche-wirtschaftspolitik-trump-laeuft-in-die-dollar-falle-a-c0ca3375-e196-4089-9ee6-eb4eef86d415#ref=rss)
-* [https://www.spiegel.de/wirtschaft/welthandel-donald-trump-lehnt-verkauf-von-us-steel-an-japanischen-stahlkonzern-ab](https://www.spiegel.de/wirtschaft/welthandel-donald-trump-lehnt-verkauf-von-us-steel-an-japanischen-stahlkonzern-ab-a-b11cad62-0a47-4c7e-94a8-8ed0379fa309#ref=rss)
-* [https://www.spiegel.de/ausland/barack-obama-stellt-in-washington-die-memoiren-von-angela-merkel-vor-sie-nehmen-sich-die-freiheit](https://www.spiegel.de/ausland/barack-obama-stellt-in-washington-die-memoiren-von-angela-merkel-vor-sie-nehmen-sich-die-freiheit-a-32214426-03d1-463a-8ff8-fcdcf1ef8f45#ref=rss)
+* [https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-ueber-kriegsrecht-ab-demonstranten-ziehen-zum-gebaeude](https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-ueber-kriegsrecht-ab-demonstranten-ziehen-zum-gebaeude-a-0827bf03-563d-4532-89b2-9f11d9c08835#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-dax-auf-rekordhoch-kriegsrecht-in-suedkorea-archaeologie-skandal](https://www.spiegel.de/politik/deutschland/news-des-tages-dax-auf-rekordhoch-kriegsrecht-in-suedkorea-archaeologie-skandal-a-bee928a7-6431-4944-add6-8d1c03d0ebf8#ref=rss)
+* [https://www.spiegel.de/ausland/suedkorea-praesident-yoon-suk-yeol-ruft-kriegsrecht-aus](https://www.spiegel.de/ausland/suedkorea-praesident-yoon-suk-yeol-ruft-kriegsrecht-aus-a-bf47eddf-6f8c-4856-a33e-68655c5eb595#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/geschichte/die-erfolgreichsten-sneaker-aller-zeiten-kampf-der-klassiker](https://www.spiegel.de/geschichte/die-erfolgreichsten-sneaker-aller-zeiten-kampf-der-klassiker-a-38a1a828-8bfc-4531-83a7-60bf231483e2#ref=rss)
+* [https://www.spiegel.de/sport/radsport-doppelolympiasieger-evenepoel-nach-kollision-mit-postauto-im-krankenhaus](https://www.spiegel.de/sport/radsport-doppelolympiasieger-evenepoel-nach-kollision-mit-postauto-im-krankenhaus-a-25961c4f-597c-4da4-868b-ed65720f5563#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/1-5-millionen-jahre-alte-fussspuren-bezeugen-homo-erectus-und-paranthropus-boisei-kannten-sich](https://www.spiegel.de/wissenschaft/mensch/1-5-millionen-jahre-alte-fussspuren-bezeugen-homo-erectus-und-paranthropus-boisei-kannten-sich-a-43f740cd-d668-4e6a-91af-c1d838fbad7b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-die-sportschau-wird-weiterhin-bundesliga-zusammenfassungen-zeigen](https://www.spiegel.de/sport/fussball/fussball-die-sportschau-wird-weiterhin-bundesliga-zusammenfassungen-zeigen-a-11606313-3d26-4844-8fd7-92620f56f2fe#ref=rss)
+### yoon
+
+* [https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-ueber-kriegsrecht-ab-demonstranten-ziehen-zum-gebaeude](https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-ueber-kriegsrecht-ab-demonstranten-ziehen-zum-gebaeude-a-0827bf03-563d-4532-89b2-9f11d9c08835#ref=rss)
+* [https://www.spiegel.de/ausland/suedkorea-das-umfasst-der-kriegsrecht-erlass](https://www.spiegel.de/ausland/suedkorea-das-umfasst-der-kriegsrecht-erlass-a-937230f8-9769-4faa-9ced-e71ab9be3464#ref=rss)
+* [https://www.spiegel.de/ausland/suedkorea-praesident-yoon-suk-yeol-ruft-kriegsrecht-aus](https://www.spiegel.de/ausland/suedkorea-praesident-yoon-suk-yeol-ruft-kriegsrecht-aus-a-bf47eddf-6f8c-4856-a33e-68655c5eb595#ref=rss)
+### südkorea
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-dax-auf-rekordhoch-kriegsrecht-in-suedkorea-archaeologie-skandal](https://www.spiegel.de/politik/deutschland/news-des-tages-dax-auf-rekordhoch-kriegsrecht-in-suedkorea-archaeologie-skandal-a-bee928a7-6431-4944-add6-8d1c03d0ebf8#ref=rss)
+* [https://www.spiegel.de/ausland/suedkorea-das-umfasst-der-kriegsrecht-erlass](https://www.spiegel.de/ausland/suedkorea-das-umfasst-der-kriegsrecht-erlass-a-937230f8-9769-4faa-9ced-e71ab9be3464#ref=rss)
+* [https://www.spiegel.de/ausland/suedkorea-praesident-yoon-suk-yeol-ruft-kriegsrecht-aus](https://www.spiegel.de/ausland/suedkorea-praesident-yoon-suk-yeol-ruft-kriegsrecht-aus-a-bf47eddf-6f8c-4856-a33e-68655c5eb595#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-saisonaus-fuer-marcel-hirscher-nach-kreuzbandriss-im-training](https://www.spiegel.de/sport/wintersport/ski-alpin-saisonaus-fuer-marcel-hirscher-nach-kreuzbandriss-im-training-a-4f183940-1521-4aa0-a8fd-f22b7ce202f1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/umfrage-zu-sparanstrengung-deutsche-verlieren-den-glauben-an-wohneigentum](https://www.spiegel.de/wirtschaft/umfrage-zu-sparanstrengung-deutsche-verlieren-den-glauben-an-wohneigentum-a-bcf894b5-5bd6-444b-a947-4f72edf1659f#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/bildung-handy-lenkt-junge-menschen-mehr-vom-lernen-ab-als-aeltere](https://www.spiegel.de/panorama/bildung/bildung-handy-lenkt-junge-menschen-mehr-vom-lernen-ab-als-aeltere-a-a059639d-075e-41a6-b61f-7706396858c3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/boerse-dax-ueberspringt-20-000-punkte-marke](https://www.spiegel.de/wirtschaft/boerse-dax-ueberspringt-20-000-punkte-marke-a-03933cf1-9d19-40e7-8fa4-c1da525f9395#ref=rss)
-* [https://www.spiegel.de/wirtschaft/joerg-kukies-rechnet-nicht-mehr-mit-reform-der-privaten-altersvorsorge](https://www.spiegel.de/wirtschaft/joerg-kukies-rechnet-nicht-mehr-mit-reform-der-privaten-altersvorsorge-a-d0ff793b-fb3f-43c9-bdb5-8caf91b67070#ref=rss)
-### menschen
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-dax-auf-rekordhoch-kriegsrecht-in-suedkorea-archaeologie-skandal](https://www.spiegel.de/politik/deutschland/news-des-tages-dax-auf-rekordhoch-kriegsrecht-in-suedkorea-archaeologie-skandal-a-bee928a7-6431-4944-add6-8d1c03d0ebf8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-verbietet-den-export-wichtiger-mineralien-in-die-usa](https://www.spiegel.de/wirtschaft/china-verbietet-den-export-wichtiger-mineralien-in-die-usa-a-2c12668e-c2cc-4fc2-9293-9e1d7424594e#ref=rss)
+* [https://www.spiegel.de/sport/radsport-doppelolympiasieger-evenepoel-nach-kollision-mit-postauto-im-krankenhaus](https://www.spiegel.de/sport/radsport-doppelolympiasieger-evenepoel-nach-kollision-mit-postauto-im-krankenhaus-a-25961c4f-597c-4da4-868b-ed65720f5563#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/diw-studie-gefluechtete-ueberweisen-relativ-selten-geld-in-ihre-heimat](https://www.spiegel.de/panorama/gesellschaft/diw-studie-gefluechtete-ueberweisen-relativ-selten-geld-in-ihre-heimat-a-423046b4-16ef-4af4-ab67-34cfbce951f5#ref=rss)
+### ich
 
-* [https://www.spiegel.de/panorama/bildung/bildung-handy-lenkt-junge-menschen-mehr-vom-lernen-ab-als-aeltere](https://www.spiegel.de/panorama/bildung/bildung-handy-lenkt-junge-menschen-mehr-vom-lernen-ab-als-aeltere-a-a059639d-075e-41a6-b61f-7706396858c3#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/inkomplette-querschnittlaehmung-tiefe-hirnstimulation-hilft-zwei-betroffenen-beim-gehen](https://www.spiegel.de/wissenschaft/medizin/inkomplette-querschnittlaehmung-tiefe-hirnstimulation-hilft-zwei-betroffenen-beim-gehen-a-857cbd53-a0d1-4898-83e0-358f4da012cb#ref=rss)
-* [https://www.spiegel.de/start/was-muss-man-bei-einer-grossen-reise-beachten](https://www.spiegel.de/start/was-muss-man-bei-einer-grossen-reise-beachten-a-55b3ccff-1887-49aa-891a-0ae7b12239e1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/stiftung-warentest-wird-60-gelegentlich-explodiert-mal-eine-waschmaschine](https://www.spiegel.de/wirtschaft/service/stiftung-warentest-wird-60-gelegentlich-explodiert-mal-eine-waschmaschine-a-bde88619-b129-4535-97f3-8d39f5e13bc4#ref=rss)
-### donald
+* [https://www.spiegel.de/psychologie/adhs-bei-erwachsenen-adhs-ist-keine-superkraft-erfahrungen-und-herausforderungen-im-alltag](https://www.spiegel.de/psychologie/adhs-bei-erwachsenen-adhs-ist-keine-superkraft-erfahrungen-und-herausforderungen-im-alltag-a-3052e085-b4d6-4b4d-8686-961b44b67c27#ref=rss)
+### china
 
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-seine-widerspruechliche-wirtschaftspolitik-trump-laeuft-in-die-dollar-falle](https://www.spiegel.de/wirtschaft/donald-trump-und-seine-widerspruechliche-wirtschaftspolitik-trump-laeuft-in-die-dollar-falle-a-c0ca3375-e196-4089-9ee6-eb4eef86d415#ref=rss)
-* [https://www.spiegel.de/wirtschaft/welthandel-donald-trump-lehnt-verkauf-von-us-steel-an-japanischen-stahlkonzern-ab](https://www.spiegel.de/wirtschaft/welthandel-donald-trump-lehnt-verkauf-von-us-steel-an-japanischen-stahlkonzern-ab-a-b11cad62-0a47-4c7e-94a8-8ed0379fa309#ref=rss)
-* [https://www.spiegel.de/ausland/barack-obama-stellt-in-washington-die-memoiren-von-angela-merkel-vor-sie-nehmen-sich-die-freiheit](https://www.spiegel.de/ausland/barack-obama-stellt-in-washington-die-memoiren-von-angela-merkel-vor-sie-nehmen-sich-die-freiheit-a-32214426-03d1-463a-8ff8-fcdcf1ef8f45#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-seine-widerspruechliche-wirtschaftspolitik-trump-laeuft-in-die-dollar-falle](https://www.spiegel.de/wirtschaft/donald-trump-und-seine-widerspruechliche-wirtschaftspolitik-trump-laeuft-in-die-dollar-falle-a-c0ca3375-e196-4089-9ee6-eb4eef86d415#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-begnadigt-seinen-sohn-hunter-biden-der-us-praesident-erscheint-als-heuchler-kommentar](https://www.spiegel.de/ausland/joe-biden-begnadigt-seinen-sohn-hunter-biden-der-us-praesident-erscheint-als-heuchler-kommentar-a-fd48f894-09a3-45ae-9526-ff37c9e4eded#ref=rss)
-* [https://www.spiegel.de/wirtschaft/welthandel-donald-trump-lehnt-verkauf-von-us-steel-an-japanischen-stahlkonzern-ab](https://www.spiegel.de/wirtschaft/welthandel-donald-trump-lehnt-verkauf-von-us-steel-an-japanischen-stahlkonzern-ab-a-b11cad62-0a47-4c7e-94a8-8ed0379fa309#ref=rss)
-* [https://www.spiegel.de/ausland/barack-obama-stellt-in-washington-die-memoiren-von-angela-merkel-vor-sie-nehmen-sich-die-freiheit](https://www.spiegel.de/ausland/barack-obama-stellt-in-washington-die-memoiren-von-angela-merkel-vor-sie-nehmen-sich-die-freiheit-a-32214426-03d1-463a-8ff8-fcdcf1ef8f45#ref=rss)
-### barack
-
-* [https://www.spiegel.de/ausland/angela-merkel-bei-barack-obama-werbung-fuer-memoiren](https://www.spiegel.de/ausland/angela-merkel-bei-barack-obama-werbung-fuer-memoiren-a-b803ccb9-32d5-472d-9b0f-1f5e835fa8f9#ref=rss)
-* [https://www.spiegel.de/ausland/barack-obama-stellt-in-washington-die-memoiren-von-angela-merkel-vor-sie-nehmen-sich-die-freiheit](https://www.spiegel.de/ausland/barack-obama-stellt-in-washington-die-memoiren-von-angela-merkel-vor-sie-nehmen-sich-die-freiheit-a-32214426-03d1-463a-8ff8-fcdcf1ef8f45#ref=rss)
-### obama
-
-* [https://www.spiegel.de/ausland/angela-merkel-bei-barack-obama-werbung-fuer-memoiren](https://www.spiegel.de/ausland/angela-merkel-bei-barack-obama-werbung-fuer-memoiren-a-b803ccb9-32d5-472d-9b0f-1f5e835fa8f9#ref=rss)
-* [https://www.spiegel.de/ausland/barack-obama-stellt-in-washington-die-memoiren-von-angela-merkel-vor-sie-nehmen-sich-die-freiheit](https://www.spiegel.de/ausland/barack-obama-stellt-in-washington-die-memoiren-von-angela-merkel-vor-sie-nehmen-sich-die-freiheit-a-32214426-03d1-463a-8ff8-fcdcf1ef8f45#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/ausland/frankreich-finanzminister-antoine-armand-sieht-sein-land-wegen-haushaltskrise-am-scheideweg](https://www.spiegel.de/ausland/frankreich-finanzminister-antoine-armand-sieht-sein-land-wegen-haushaltskrise-am-scheideweg-a-ede537e2-9322-49d3-a729-2f8744855f66#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-dfb-praesident-bernd-neuendorf-fordert-von-der-politik-investitionen-in-vereinsinfrastruktur](https://www.spiegel.de/sport/fussball/fussball-dfb-praesident-bernd-neuendorf-fordert-von-der-politik-investitionen-in-vereinsinfrastruktur-a-1541bc1d-8538-44d6-80d7-ec384467b6d8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-friedrich-merz-sieht-aussenpolitische-naehe-zu-den-gruenen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-friedrich-merz-sieht-aussenpolitische-naehe-zu-den-gruenen-a-682ffedb-3835-4779-ae36-73de29697808#ref=rss)
-* [https://www.spiegel.de/wirtschaft/joerg-kukies-rechnet-nicht-mehr-mit-reform-der-privaten-altersvorsorge](https://www.spiegel.de/wirtschaft/joerg-kukies-rechnet-nicht-mehr-mit-reform-der-privaten-altersvorsorge-a-d0ff793b-fb3f-43c9-bdb5-8caf91b67070#ref=rss)
-### dax
-
-* [https://www.spiegel.de/wirtschaft/dax-bei-20-000-punkten-ein-rekord-zum-aergern](https://www.spiegel.de/wirtschaft/dax-bei-20-000-punkten-ein-rekord-zum-aergern-a-be0dea84-3052-4bc8-a7e2-d004dc51b8ae#ref=rss)
-* [https://www.spiegel.de/wirtschaft/boerse-dax-ueberspringt-20-000-punkte-marke](https://www.spiegel.de/wirtschaft/boerse-dax-ueberspringt-20-000-punkte-marke-a-03933cf1-9d19-40e7-8fa4-c1da525f9395#ref=rss)
-### 20000
-
-* [https://www.spiegel.de/wirtschaft/dax-bei-20-000-punkten-ein-rekord-zum-aergern](https://www.spiegel.de/wirtschaft/dax-bei-20-000-punkten-ein-rekord-zum-aergern-a-be0dea84-3052-4bc8-a7e2-d004dc51b8ae#ref=rss)
-* [https://www.spiegel.de/wirtschaft/boerse-dax-ueberspringt-20-000-punkte-marke](https://www.spiegel.de/wirtschaft/boerse-dax-ueberspringt-20-000-punkte-marke-a-03933cf1-9d19-40e7-8fa4-c1da525f9395#ref=rss)
-### junge
-
-* [https://www.spiegel.de/politik/junge-alternative-der-rechte-nachwuchs-der-afd-ist-radikaler-als-die-partei-spiegel-tv](https://www.spiegel.de/politik/junge-alternative-der-rechte-nachwuchs-der-afd-ist-radikaler-als-die-partei-spiegel-tv-a-25f823ba-5cc2-43a5-9b53-64b6472ae093#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/bildung-handy-lenkt-junge-menschen-mehr-vom-lernen-ab-als-aeltere](https://www.spiegel.de/panorama/bildung/bildung-handy-lenkt-junge-menschen-mehr-vom-lernen-ab-als-aeltere-a-a059639d-075e-41a6-b61f-7706396858c3#ref=rss)
-* [https://www.spiegel.de/start/was-muss-man-bei-einer-grossen-reise-beachten](https://www.spiegel.de/start/was-muss-man-bei-einer-grossen-reise-beachten-a-55b3ccff-1887-49aa-891a-0ae7b12239e1#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/politik/junge-alternative-der-rechte-nachwuchs-der-afd-ist-radikaler-als-die-partei-spiegel-tv](https://www.spiegel.de/politik/junge-alternative-der-rechte-nachwuchs-der-afd-ist-radikaler-als-die-partei-spiegel-tv-a-25f823ba-5cc2-43a5-9b53-64b6472ae093#ref=rss)
-* [https://www.spiegel.de/panorama/leute/harvey-weinstein-in-krankenhaus-eingeliefert](https://www.spiegel.de/panorama/leute/harvey-weinstein-in-krankenhaus-eingeliefert-a-5b944b26-b5d4-47e0-9956-cbc898fda9e6#ref=rss)
-* [https://www.spiegel.de/ausland/gazastreifen-israel-ruft-zu-evakuierungen-im-sueden-auf](https://www.spiegel.de/ausland/gazastreifen-israel-ruft-zu-evakuierungen-im-sueden-auf-a-d6b4e748-3c5f-4352-958a-a4f91fa18c44#ref=rss)
-### wirtschaftspolitik
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-seine-widerspruechliche-wirtschaftspolitik-trump-laeuft-in-die-dollar-falle](https://www.spiegel.de/wirtschaft/donald-trump-und-seine-widerspruechliche-wirtschaftspolitik-trump-laeuft-in-die-dollar-falle-a-c0ca3375-e196-4089-9ee6-eb4eef86d415#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-friedrich-merz-sieht-aussenpolitische-naehe-zu-den-gruenen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-friedrich-merz-sieht-aussenpolitische-naehe-zu-den-gruenen-a-682ffedb-3835-4779-ae36-73de29697808#ref=rss)
-* [https://www.spiegel.de/wirtschaft/welthandel-donald-trump-lehnt-verkauf-von-us-steel-an-japanischen-stahlkonzern-ab](https://www.spiegel.de/wirtschaft/welthandel-donald-trump-lehnt-verkauf-von-us-steel-an-japanischen-stahlkonzern-ab-a-b11cad62-0a47-4c7e-94a8-8ed0379fa309#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-in-china-rufschaedigung-als-druckmittel](https://www.spiegel.de/politik/deutschland/annalena-baerbock-in-china-rufschaedigung-als-druckmittel-a-99819520-d8c9-4c0e-8acd-645071acfd8f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-verbietet-den-export-wichtiger-mineralien-in-die-usa](https://www.spiegel.de/wirtschaft/china-verbietet-den-export-wichtiger-mineralien-in-die-usa-a-2c12668e-c2cc-4fc2-9293-9e1d7424594e#ref=rss)
 ### politik
 
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-seine-widerspruechliche-wirtschaftspolitik-trump-laeuft-in-die-dollar-falle](https://www.spiegel.de/wirtschaft/donald-trump-und-seine-widerspruechliche-wirtschaftspolitik-trump-laeuft-in-die-dollar-falle-a-c0ca3375-e196-4089-9ee6-eb4eef86d415#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/haushaltskrise-und-sozialkuerzungen-die-politik-beweist-dass-sie-nichts-verstanden-hat](https://www.spiegel.de/panorama/bildung/haushaltskrise-und-sozialkuerzungen-die-politik-beweist-dass-sie-nichts-verstanden-hat-a-de060392-6ffd-4539-8aec-b566758806e7#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-dfb-praesident-bernd-neuendorf-fordert-von-der-politik-investitionen-in-vereinsinfrastruktur](https://www.spiegel.de/sport/fussball/fussball-dfb-praesident-bernd-neuendorf-fordert-von-der-politik-investitionen-in-vereinsinfrastruktur-a-1541bc1d-8538-44d6-80d7-ec384467b6d8#ref=rss)
-### lernen
+* [https://www.spiegel.de/kultur/musik/kendrick-lamar-und-die-kraft-der-musik-politik-ist-politik-und-pop-ist-pop](https://www.spiegel.de/kultur/musik/kendrick-lamar-und-die-kraft-der-musik-politik-ist-politik-und-pop-ist-pop-a-81879736-287d-4e40-b65a-5a53e30c1ba1#ref=rss)
+### pop
 
-* [https://www.spiegel.de/panorama/bildung/bildung-handy-lenkt-junge-menschen-mehr-vom-lernen-ab-als-aeltere](https://www.spiegel.de/panorama/bildung/bildung-handy-lenkt-junge-menschen-mehr-vom-lernen-ab-als-aeltere-a-a059639d-075e-41a6-b61f-7706396858c3#ref=rss)
-### viele
+* [https://www.spiegel.de/kultur/musik/kendrick-lamar-und-die-kraft-der-musik-politik-ist-politik-und-pop-ist-pop](https://www.spiegel.de/kultur/musik/kendrick-lamar-und-die-kraft-der-musik-politik-ist-politik-und-pop-ist-pop-a-81879736-287d-4e40-b65a-5a53e30c1ba1#ref=rss)
+### allerdings
 
-* [https://www.spiegel.de/panorama/bildung/haushaltskrise-und-sozialkuerzungen-die-politik-beweist-dass-sie-nichts-verstanden-hat](https://www.spiegel.de/panorama/bildung/haushaltskrise-und-sozialkuerzungen-die-politik-beweist-dass-sie-nichts-verstanden-hat-a-de060392-6ffd-4539-8aec-b566758806e7#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-dfb-praesident-bernd-neuendorf-fordert-von-der-politik-investitionen-in-vereinsinfrastruktur](https://www.spiegel.de/sport/fussball/fussball-dfb-praesident-bernd-neuendorf-fordert-von-der-politik-investitionen-in-vereinsinfrastruktur-a-1541bc1d-8538-44d6-80d7-ec384467b6d8#ref=rss)
-* [https://www.spiegel.de/start/was-muss-man-bei-einer-grossen-reise-beachten](https://www.spiegel.de/start/was-muss-man-bei-einer-grossen-reise-beachten-a-55b3ccff-1887-49aa-891a-0ae7b12239e1#ref=rss)
-### angela
+* [https://www.spiegel.de/kultur/musik/kendrick-lamar-und-die-kraft-der-musik-politik-ist-politik-und-pop-ist-pop](https://www.spiegel.de/kultur/musik/kendrick-lamar-und-die-kraft-der-musik-politik-ist-politik-und-pop-ist-pop-a-81879736-287d-4e40-b65a-5a53e30c1ba1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/spd-und-gruene-kabinett-bringt-stromkosten-entlastung-fuer-unternehmen-auf-den-weg](https://www.spiegel.de/wirtschaft/spd-und-gruene-kabinett-bringt-stromkosten-entlastung-fuer-unternehmen-auf-den-weg-a-ecb3073a-3472-4ef5-b8fb-0b81ca716173#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/geminiden-wann-die-meisten-sternschnuppen-zu-sehen-sind](https://www.spiegel.de/wissenschaft/weltall/geminiden-wann-die-meisten-sternschnuppen-zu-sehen-sind-a-7d477053-e4f9-4ca8-b0d9-544ade8caa92#ref=rss)
+### unter
 
-* [https://www.spiegel.de/ausland/angela-merkel-bei-barack-obama-werbung-fuer-memoiren](https://www.spiegel.de/ausland/angela-merkel-bei-barack-obama-werbung-fuer-memoiren-a-b803ccb9-32d5-472d-9b0f-1f5e835fa8f9#ref=rss)
-* [https://www.spiegel.de/ausland/barack-obama-stellt-in-washington-die-memoiren-von-angela-merkel-vor-sie-nehmen-sich-die-freiheit](https://www.spiegel.de/ausland/barack-obama-stellt-in-washington-die-memoiren-von-angela-merkel-vor-sie-nehmen-sich-die-freiheit-a-32214426-03d1-463a-8ff8-fcdcf1ef8f45#ref=rss)
-### merkel
+* [https://www.spiegel.de/sport/wintersport/biathlon-philipp-nawrath-als-22-bester-deutscher-bei-einzel-debakel-in-kontiolahti](https://www.spiegel.de/sport/wintersport/biathlon-philipp-nawrath-als-22-bester-deutscher-bei-einzel-debakel-in-kontiolahti-a-4cd3705f-a655-4706-9d17-cb1c9c19b6f8#ref=rss)
+* [https://www.spiegel.de/ausland/suedkorea-das-umfasst-der-kriegsrecht-erlass](https://www.spiegel.de/ausland/suedkorea-das-umfasst-der-kriegsrecht-erlass-a-937230f8-9769-4faa-9ced-e71ab9be3464#ref=rss)
+* [https://www.spiegel.de/wirtschaft/jeff-bezos-schiffbauer-muss-fuer-die-superjacht-des-amazon-gruenders-strafe-zahlen](https://www.spiegel.de/wirtschaft/jeff-bezos-schiffbauer-muss-fuer-die-superjacht-des-amazon-gruenders-strafe-zahlen-a-371309ca-528d-422d-8205-208427b4699e#ref=rss)
+### unternehmen
 
-* [https://www.spiegel.de/ausland/angela-merkel-bei-barack-obama-werbung-fuer-memoiren](https://www.spiegel.de/ausland/angela-merkel-bei-barack-obama-werbung-fuer-memoiren-a-b803ccb9-32d5-472d-9b0f-1f5e835fa8f9#ref=rss)
-* [https://www.spiegel.de/ausland/barack-obama-stellt-in-washington-die-memoiren-von-angela-merkel-vor-sie-nehmen-sich-die-freiheit](https://www.spiegel.de/ausland/barack-obama-stellt-in-washington-die-memoiren-von-angela-merkel-vor-sie-nehmen-sich-die-freiheit-a-32214426-03d1-463a-8ff8-fcdcf1ef8f45#ref=rss)
-### memoiren
+* [https://www.spiegel.de/wirtschaft/spd-und-gruene-kabinett-bringt-stromkosten-entlastung-fuer-unternehmen-auf-den-weg](https://www.spiegel.de/wirtschaft/spd-und-gruene-kabinett-bringt-stromkosten-entlastung-fuer-unternehmen-auf-den-weg-a-ecb3073a-3472-4ef5-b8fb-0b81ca716173#ref=rss)
+* [https://www.spiegel.de/wirtschaft/jeff-bezos-schiffbauer-muss-fuer-die-superjacht-des-amazon-gruenders-strafe-zahlen](https://www.spiegel.de/wirtschaft/jeff-bezos-schiffbauer-muss-fuer-die-superjacht-des-amazon-gruenders-strafe-zahlen-a-371309ca-528d-422d-8205-208427b4699e#ref=rss)
+### geld
 
-* [https://www.spiegel.de/ausland/angela-merkel-bei-barack-obama-werbung-fuer-memoiren](https://www.spiegel.de/ausland/angela-merkel-bei-barack-obama-werbung-fuer-memoiren-a-b803ccb9-32d5-472d-9b0f-1f5e835fa8f9#ref=rss)
-* [https://www.spiegel.de/ausland/barack-obama-stellt-in-washington-die-memoiren-von-angela-merkel-vor-sie-nehmen-sich-die-freiheit](https://www.spiegel.de/ausland/barack-obama-stellt-in-washington-die-memoiren-von-angela-merkel-vor-sie-nehmen-sich-die-freiheit-a-32214426-03d1-463a-8ff8-fcdcf1ef8f45#ref=rss)
-### washington
+* [https://www.spiegel.de/wirtschaft/service/so-finden-sie-das-guenstigste-aktiendepot](https://www.spiegel.de/wirtschaft/service/so-finden-sie-das-guenstigste-aktiendepot-a-8509d6af-111a-46dd-a3e9-3ebba0201d1c#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/diw-studie-gefluechtete-ueberweisen-relativ-selten-geld-in-ihre-heimat](https://www.spiegel.de/panorama/gesellschaft/diw-studie-gefluechtete-ueberweisen-relativ-selten-geld-in-ihre-heimat-a-423046b4-16ef-4af4-ab67-34cfbce951f5#ref=rss)
+### hunderte
 
-* [https://www.spiegel.de/ausland/angela-merkel-bei-barack-obama-werbung-fuer-memoiren](https://www.spiegel.de/ausland/angela-merkel-bei-barack-obama-werbung-fuer-memoiren-a-b803ccb9-32d5-472d-9b0f-1f5e835fa8f9#ref=rss)
-* [https://www.spiegel.de/ausland/barack-obama-stellt-in-washington-die-memoiren-von-angela-merkel-vor-sie-nehmen-sich-die-freiheit](https://www.spiegel.de/ausland/barack-obama-stellt-in-washington-die-memoiren-von-angela-merkel-vor-sie-nehmen-sich-die-freiheit-a-32214426-03d1-463a-8ff8-fcdcf1ef8f45#ref=rss)
-### finanzminister
+* [https://www.spiegel.de/wirtschaft/service/so-finden-sie-das-guenstigste-aktiendepot](https://www.spiegel.de/wirtschaft/service/so-finden-sie-das-guenstigste-aktiendepot-a-8509d6af-111a-46dd-a3e9-3ebba0201d1c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/vogelgrippe-in-kalifornien-hunderte-kuhherden-sind-infiziert-der-anfang-einer-neuen-pandemie](https://www.spiegel.de/wissenschaft/vogelgrippe-in-kalifornien-hunderte-kuhherden-sind-infiziert-der-anfang-einer-neuen-pandemie-a-138d3eee-dfac-47df-9f4e-8445724523aa#ref=rss)
+### schachwm
 
-* [https://www.spiegel.de/ausland/frankreich-finanzminister-antoine-armand-sieht-sein-land-wegen-haushaltskrise-am-scheideweg](https://www.spiegel.de/ausland/frankreich-finanzminister-antoine-armand-sieht-sein-land-wegen-haushaltskrise-am-scheideweg-a-ede537e2-9322-49d3-a729-2f8744855f66#ref=rss)
-* [https://www.spiegel.de/wirtschaft/joerg-kukies-rechnet-nicht-mehr-mit-reform-der-privaten-altersvorsorge](https://www.spiegel.de/wirtschaft/joerg-kukies-rechnet-nicht-mehr-mit-reform-der-privaten-altersvorsorge-a-d0ff793b-fb3f-43c9-bdb5-8caf91b67070#ref=rss)
-### arbeitsmarkt
+* [https://www.spiegel.de/sport/schach-wm-ohne-magnus-carlsen-und-doch-ist-der-superstar-ganz-nah](https://www.spiegel.de/sport/schach-wm-ohne-magnus-carlsen-und-doch-ist-der-superstar-ganz-nah-a-d66de8a3-793b-4dd4-85de-0827d857582c#ref=rss)
+* [https://www.spiegel.de/sport/schach-wm-dommaraju-gukesh-folgt-seiner-ki-inspiration-und-verpasst-die-fuehrung-trotzdem](https://www.spiegel.de/sport/schach-wm-dommaraju-gukesh-folgt-seiner-ki-inspiration-und-verpasst-die-fuehrung-trotzdem-a-5ca93086-2a38-4272-ab19-1c1ddd9c36ab#ref=rss)
+### gukesh
 
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-zahl-geleisteter-ueberstunden-war-noch-nie-so-niedrig](https://www.spiegel.de/wirtschaft/arbeitsmarkt-zahl-geleisteter-ueberstunden-war-noch-nie-so-niedrig-a-5c515e1f-6954-4517-bd65-e3814fff3bad#ref=rss)
-### zahl
+* [https://www.spiegel.de/sport/schach-wm-ohne-magnus-carlsen-und-doch-ist-der-superstar-ganz-nah](https://www.spiegel.de/sport/schach-wm-ohne-magnus-carlsen-und-doch-ist-der-superstar-ganz-nah-a-d66de8a3-793b-4dd4-85de-0827d857582c#ref=rss)
+* [https://www.spiegel.de/sport/schach-wm-dommaraju-gukesh-folgt-seiner-ki-inspiration-und-verpasst-die-fuehrung-trotzdem](https://www.spiegel.de/sport/schach-wm-dommaraju-gukesh-folgt-seiner-ki-inspiration-und-verpasst-die-fuehrung-trotzdem-a-5ca93086-2a38-4272-ab19-1c1ddd9c36ab#ref=rss)
+### anfang
 
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-zahl-geleisteter-ueberstunden-war-noch-nie-so-niedrig](https://www.spiegel.de/wirtschaft/arbeitsmarkt-zahl-geleisteter-ueberstunden-war-noch-nie-so-niedrig-a-5c515e1f-6954-4517-bd65-e3814fff3bad#ref=rss)
-### überstunden
+* [https://www.spiegel.de/panorama/justiz/oldenburg-mann-wegen-versuchten-totschlags-auf-bauerndemo-zu-haft-verurteilt](https://www.spiegel.de/panorama/justiz/oldenburg-mann-wegen-versuchten-totschlags-auf-bauerndemo-zu-haft-verurteilt-a-a8df1172-0684-4fa1-8f7f-a19f24db130f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/vogelgrippe-in-kalifornien-hunderte-kuhherden-sind-infiziert-der-anfang-einer-neuen-pandemie](https://www.spiegel.de/wissenschaft/vogelgrippe-in-kalifornien-hunderte-kuhherden-sind-infiziert-der-anfang-einer-neuen-pandemie-a-138d3eee-dfac-47df-9f4e-8445724523aa#ref=rss)
+### adhs
 
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-zahl-geleisteter-ueberstunden-war-noch-nie-so-niedrig](https://www.spiegel.de/wirtschaft/arbeitsmarkt-zahl-geleisteter-ueberstunden-war-noch-nie-so-niedrig-a-5c515e1f-6954-4517-bd65-e3814fff3bad#ref=rss)
-### nie
+* [https://www.spiegel.de/psychologie/adhs-bei-erwachsenen-adhs-ist-keine-superkraft-erfahrungen-und-herausforderungen-im-alltag](https://www.spiegel.de/psychologie/adhs-bei-erwachsenen-adhs-ist-keine-superkraft-erfahrungen-und-herausforderungen-im-alltag-a-3052e085-b4d6-4b4d-8686-961b44b67c27#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-zahl-geleisteter-ueberstunden-war-noch-nie-so-niedrig](https://www.spiegel.de/wirtschaft/arbeitsmarkt-zahl-geleisteter-ueberstunden-war-noch-nie-so-niedrig-a-5c515e1f-6954-4517-bd65-e3814fff3bad#ref=rss)
-* [https://www.spiegel.de/wirtschaft/umfrage-zu-sparanstrengung-deutsche-verlieren-den-glauben-an-wohneigentum](https://www.spiegel.de/wirtschaft/umfrage-zu-sparanstrengung-deutsche-verlieren-den-glauben-an-wohneigentum-a-bcf894b5-5bd6-444b-a947-4f72edf1659f#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-zahl-geleisteter-ueberstunden-war-noch-nie-so-niedrig](https://www.spiegel.de/wirtschaft/arbeitsmarkt-zahl-geleisteter-ueberstunden-war-noch-nie-so-niedrig-a-5c515e1f-6954-4517-bd65-e3814fff3bad#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-dfb-praesident-bernd-neuendorf-fordert-von-der-politik-investitionen-in-vereinsinfrastruktur](https://www.spiegel.de/sport/fussball/fussball-dfb-praesident-bernd-neuendorf-fordert-von-der-politik-investitionen-in-vereinsinfrastruktur-a-1541bc1d-8538-44d6-80d7-ec384467b6d8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-in-china-rufschaedigung-als-druckmittel](https://www.spiegel.de/politik/deutschland/annalena-baerbock-in-china-rufschaedigung-als-druckmittel-a-99819520-d8c9-4c0e-8acd-645071acfd8f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/so-finden-sie-das-guenstigste-aktiendepot](https://www.spiegel.de/wirtschaft/service/so-finden-sie-das-guenstigste-aktiendepot-a-8509d6af-111a-46dd-a3e9-3ebba0201d1c#ref=rss)
 ### deutsche
 
-* [https://www.spiegel.de/wirtschaft/dax-bei-20-000-punkten-ein-rekord-zum-aergern](https://www.spiegel.de/wirtschaft/dax-bei-20-000-punkten-ein-rekord-zum-aergern-a-be0dea84-3052-4bc8-a7e2-d004dc51b8ae#ref=rss)
-* [https://www.spiegel.de/wirtschaft/umfrage-zu-sparanstrengung-deutsche-verlieren-den-glauben-an-wohneigentum](https://www.spiegel.de/wirtschaft/umfrage-zu-sparanstrengung-deutsche-verlieren-den-glauben-an-wohneigentum-a-bcf894b5-5bd6-444b-a947-4f72edf1659f#ref=rss)
-### punkte
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-in-china-rufschaedigung-als-druckmittel](https://www.spiegel.de/politik/deutschland/annalena-baerbock-in-china-rufschaedigung-als-druckmittel-a-99819520-d8c9-4c0e-8acd-645071acfd8f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-die-sportschau-wird-weiterhin-bundesliga-zusammenfassungen-zeigen](https://www.spiegel.de/sport/fussball/fussball-die-sportschau-wird-weiterhin-bundesliga-zusammenfassungen-zeigen-a-11606313-3d26-4844-8fd7-92620f56f2fe#ref=rss)
+### peking
 
-* [https://www.spiegel.de/wirtschaft/dax-bei-20-000-punkten-ein-rekord-zum-aergern](https://www.spiegel.de/wirtschaft/dax-bei-20-000-punkten-ein-rekord-zum-aergern-a-be0dea84-3052-4bc8-a7e2-d004dc51b8ae#ref=rss)
-* [https://www.spiegel.de/wirtschaft/boerse-dax-ueberspringt-20-000-punkte-marke](https://www.spiegel.de/wirtschaft/boerse-dax-ueberspringt-20-000-punkte-marke-a-03933cf1-9d19-40e7-8fa4-c1da525f9395#ref=rss)
-### alternative
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-in-china-rufschaedigung-als-druckmittel](https://www.spiegel.de/politik/deutschland/annalena-baerbock-in-china-rufschaedigung-als-druckmittel-a-99819520-d8c9-4c0e-8acd-645071acfd8f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-verbietet-den-export-wichtiger-mineralien-in-die-usa](https://www.spiegel.de/wirtschaft/china-verbietet-den-export-wichtiger-mineralien-in-die-usa-a-2c12668e-c2cc-4fc2-9293-9e1d7424594e#ref=rss)
+### küche
 
-* [https://www.spiegel.de/politik/junge-alternative-der-rechte-nachwuchs-der-afd-ist-radikaler-als-die-partei-spiegel-tv](https://www.spiegel.de/politik/junge-alternative-der-rechte-nachwuchs-der-afd-ist-radikaler-als-die-partei-spiegel-tv-a-25f823ba-5cc2-43a5-9b53-64b6472ae093#ref=rss)
-### afd
+* [https://www.spiegel.de/tests/kueche/kochbuch-tipps-von-der-afrikanischen-kueche-bis-zum-bestseller-sechs-tipps-fuer-weihnachten](https://www.spiegel.de/tests/kueche/kochbuch-tipps-von-der-afrikanischen-kueche-bis-zum-bestseller-sechs-tipps-fuer-weihnachten-a-47d103c6-3130-41bd-a556-365c83557681#ref=rss)
+### sechs
 
-* [https://www.spiegel.de/politik/junge-alternative-der-rechte-nachwuchs-der-afd-ist-radikaler-als-die-partei-spiegel-tv](https://www.spiegel.de/politik/junge-alternative-der-rechte-nachwuchs-der-afd-ist-radikaler-als-die-partei-spiegel-tv-a-25f823ba-5cc2-43a5-9b53-64b6472ae093#ref=rss)
-### eigenen
+* [https://www.spiegel.de/tests/kueche/kochbuch-tipps-von-der-afrikanischen-kueche-bis-zum-bestseller-sechs-tipps-fuer-weihnachten](https://www.spiegel.de/tests/kueche/kochbuch-tipps-von-der-afrikanischen-kueche-bis-zum-bestseller-sechs-tipps-fuer-weihnachten-a-47d103c6-3130-41bd-a556-365c83557681#ref=rss)
+### weihnachten
 
-* [https://www.spiegel.de/politik/junge-alternative-der-rechte-nachwuchs-der-afd-ist-radikaler-als-die-partei-spiegel-tv](https://www.spiegel.de/politik/junge-alternative-der-rechte-nachwuchs-der-afd-ist-radikaler-als-die-partei-spiegel-tv-a-25f823ba-5cc2-43a5-9b53-64b6472ae093#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-begnadigt-seinen-sohn-hunter-biden-der-us-praesident-erscheint-als-heuchler-kommentar](https://www.spiegel.de/ausland/joe-biden-begnadigt-seinen-sohn-hunter-biden-der-us-praesident-erscheint-als-heuchler-kommentar-a-fd48f894-09a3-45ae-9526-ff37c9e4eded#ref=rss)
-### eigene
+* [https://www.spiegel.de/tests/kueche/kochbuch-tipps-von-der-afrikanischen-kueche-bis-zum-bestseller-sechs-tipps-fuer-weihnachten](https://www.spiegel.de/tests/kueche/kochbuch-tipps-von-der-afrikanischen-kueche-bis-zum-bestseller-sechs-tipps-fuer-weihnachten-a-47d103c6-3130-41bd-a556-365c83557681#ref=rss)
+### kochbuch
 
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-seine-widerspruechliche-wirtschaftspolitik-trump-laeuft-in-die-dollar-falle](https://www.spiegel.de/wirtschaft/donald-trump-und-seine-widerspruechliche-wirtschaftspolitik-trump-laeuft-in-die-dollar-falle-a-c0ca3375-e196-4089-9ee6-eb4eef86d415#ref=rss)
-* [https://www.spiegel.de/sport/olympia/ilke-wyludda-ist-tot-nachruf-auf-die-diskus-olympiasiegerin-sie-besiegte-den-schmerz](https://www.spiegel.de/sport/olympia/ilke-wyludda-ist-tot-nachruf-auf-die-diskus-olympiasiegerin-sie-besiegte-den-schmerz-a-353e4c3f-7075-4404-8380-69a081691705#ref=rss)
-### wirtschaft
+* [https://www.spiegel.de/tests/kueche/kochbuch-tipps-von-der-afrikanischen-kueche-bis-zum-bestseller-sechs-tipps-fuer-weihnachten](https://www.spiegel.de/tests/kueche/kochbuch-tipps-von-der-afrikanischen-kueche-bis-zum-bestseller-sechs-tipps-fuer-weihnachten-a-47d103c6-3130-41bd-a556-365c83557681#ref=rss)
+### afrikas
 
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-seine-widerspruechliche-wirtschaftspolitik-trump-laeuft-in-die-dollar-falle](https://www.spiegel.de/wirtschaft/donald-trump-und-seine-widerspruechliche-wirtschaftspolitik-trump-laeuft-in-die-dollar-falle-a-c0ca3375-e196-4089-9ee6-eb4eef86d415#ref=rss)
-* [https://www.spiegel.de/wirtschaft/boerse-dax-ueberspringt-20-000-punkte-marke](https://www.spiegel.de/wirtschaft/boerse-dax-ueberspringt-20-000-punkte-marke-a-03933cf1-9d19-40e7-8fa4-c1da525f9395#ref=rss)
-### marcel
+* [https://www.spiegel.de/tests/kueche/kochbuch-tipps-von-der-afrikanischen-kueche-bis-zum-bestseller-sechs-tipps-fuer-weihnachten](https://www.spiegel.de/tests/kueche/kochbuch-tipps-von-der-afrikanischen-kueche-bis-zum-bestseller-sechs-tipps-fuer-weihnachten-a-47d103c6-3130-41bd-a556-365c83557681#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/1-5-millionen-jahre-alte-fussspuren-bezeugen-homo-erectus-und-paranthropus-boisei-kannten-sich](https://www.spiegel.de/wissenschaft/mensch/1-5-millionen-jahre-alte-fussspuren-bezeugen-homo-erectus-und-paranthropus-boisei-kannten-sich-a-43f740cd-d668-4e6a-91af-c1d838fbad7b#ref=rss)
+### aller
 
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-saisonaus-fuer-marcel-hirscher-nach-kreuzbandriss-im-training](https://www.spiegel.de/sport/wintersport/ski-alpin-saisonaus-fuer-marcel-hirscher-nach-kreuzbandriss-im-training-a-4f183940-1521-4aa0-a8fd-f22b7ce202f1#ref=rss)
-### hirscher
+* [https://www.spiegel.de/tests/kueche/kochbuch-tipps-von-der-afrikanischen-kueche-bis-zum-bestseller-sechs-tipps-fuer-weihnachten](https://www.spiegel.de/tests/kueche/kochbuch-tipps-von-der-afrikanischen-kueche-bis-zum-bestseller-sechs-tipps-fuer-weihnachten-a-47d103c6-3130-41bd-a556-365c83557681#ref=rss)
+* [https://www.spiegel.de/geschichte/die-erfolgreichsten-sneaker-aller-zeiten-kampf-der-klassiker](https://www.spiegel.de/geschichte/die-erfolgreichsten-sneaker-aller-zeiten-kampf-der-klassiker-a-38a1a828-8bfc-4531-83a7-60bf231483e2#ref=rss)
+### zeiten
 
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-saisonaus-fuer-marcel-hirscher-nach-kreuzbandriss-im-training](https://www.spiegel.de/sport/wintersport/ski-alpin-saisonaus-fuer-marcel-hirscher-nach-kreuzbandriss-im-training-a-4f183940-1521-4aa0-a8fd-f22b7ce202f1#ref=rss)
-### jahren
+* [https://www.spiegel.de/tests/kueche/kochbuch-tipps-von-der-afrikanischen-kueche-bis-zum-bestseller-sechs-tipps-fuer-weihnachten](https://www.spiegel.de/tests/kueche/kochbuch-tipps-von-der-afrikanischen-kueche-bis-zum-bestseller-sechs-tipps-fuer-weihnachten-a-47d103c6-3130-41bd-a556-365c83557681#ref=rss)
+* [https://www.spiegel.de/geschichte/die-erfolgreichsten-sneaker-aller-zeiten-kampf-der-klassiker](https://www.spiegel.de/geschichte/die-erfolgreichsten-sneaker-aller-zeiten-kampf-der-klassiker-a-38a1a828-8bfc-4531-83a7-60bf231483e2#ref=rss)
+### kendrick
 
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-saisonaus-fuer-marcel-hirscher-nach-kreuzbandriss-im-training](https://www.spiegel.de/sport/wintersport/ski-alpin-saisonaus-fuer-marcel-hirscher-nach-kreuzbandriss-im-training-a-4f183940-1521-4aa0-a8fd-f22b7ce202f1#ref=rss)
-* [https://www.spiegel.de/panorama/leute/james-van-der-beek-verkauft-trikots-um-krebsbehandlung-zu-finanzieren](https://www.spiegel.de/panorama/leute/james-van-der-beek-verkauft-trikots-um-krebsbehandlung-zu-finanzieren-a-d2e32fa3-a6a7-4cbf-a86e-7d9368b9812f#ref=rss)
-### ilke
+* [https://www.spiegel.de/kultur/musik/kendrick-lamar-und-die-kraft-der-musik-politik-ist-politik-und-pop-ist-pop](https://www.spiegel.de/kultur/musik/kendrick-lamar-und-die-kraft-der-musik-politik-ist-politik-und-pop-ist-pop-a-81879736-287d-4e40-b65a-5a53e30c1ba1#ref=rss)
+### lamar
 
-* [https://www.spiegel.de/sport/olympia/ilke-wyludda-ist-tot-nachruf-auf-die-diskus-olympiasiegerin-sie-besiegte-den-schmerz](https://www.spiegel.de/sport/olympia/ilke-wyludda-ist-tot-nachruf-auf-die-diskus-olympiasiegerin-sie-besiegte-den-schmerz-a-353e4c3f-7075-4404-8380-69a081691705#ref=rss)
-### wyludda
+* [https://www.spiegel.de/kultur/musik/kendrick-lamar-und-die-kraft-der-musik-politik-ist-politik-und-pop-ist-pop](https://www.spiegel.de/kultur/musik/kendrick-lamar-und-die-kraft-der-musik-politik-ist-politik-und-pop-ist-pop-a-81879736-287d-4e40-b65a-5a53e30c1ba1#ref=rss)
+### kraft
 
-* [https://www.spiegel.de/sport/olympia/ilke-wyludda-ist-tot-nachruf-auf-die-diskus-olympiasiegerin-sie-besiegte-den-schmerz](https://www.spiegel.de/sport/olympia/ilke-wyludda-ist-tot-nachruf-auf-die-diskus-olympiasiegerin-sie-besiegte-den-schmerz-a-353e4c3f-7075-4404-8380-69a081691705#ref=rss)
-### mann
+* [https://www.spiegel.de/kultur/musik/kendrick-lamar-und-die-kraft-der-musik-politik-ist-politik-und-pop-ist-pop](https://www.spiegel.de/kultur/musik/kendrick-lamar-und-die-kraft-der-musik-politik-ist-politik-und-pop-ist-pop-a-81879736-287d-4e40-b65a-5a53e30c1ba1#ref=rss)
+### musik
 
-* [https://www.spiegel.de/panorama/justiz/arnsberg-mann-zuendet-schwester-seiner-ehemaligen-verlobten-an-lebenslange-haft](https://www.spiegel.de/panorama/justiz/arnsberg-mann-zuendet-schwester-seiner-ehemaligen-verlobten-an-lebenslange-haft-a-dc7a23cb-c43d-4d5f-8ce1-bda01e2b2ad1#ref=rss)
-### ehemaligen
+* [https://www.spiegel.de/kultur/musik/kendrick-lamar-und-die-kraft-der-musik-politik-ist-politik-und-pop-ist-pop](https://www.spiegel.de/kultur/musik/kendrick-lamar-und-die-kraft-der-musik-politik-ist-politik-und-pop-ist-pop-a-81879736-287d-4e40-b65a-5a53e30c1ba1#ref=rss)
+### erfolgreichsten
 
-* [https://www.spiegel.de/panorama/justiz/arnsberg-mann-zuendet-schwester-seiner-ehemaligen-verlobten-an-lebenslange-haft](https://www.spiegel.de/panorama/justiz/arnsberg-mann-zuendet-schwester-seiner-ehemaligen-verlobten-an-lebenslange-haft-a-dc7a23cb-c43d-4d5f-8ce1-bda01e2b2ad1#ref=rss)
-### verlobten
+* [https://www.spiegel.de/geschichte/die-erfolgreichsten-sneaker-aller-zeiten-kampf-der-klassiker](https://www.spiegel.de/geschichte/die-erfolgreichsten-sneaker-aller-zeiten-kampf-der-klassiker-a-38a1a828-8bfc-4531-83a7-60bf231483e2#ref=rss)
+### sneaker
 
-* [https://www.spiegel.de/panorama/justiz/arnsberg-mann-zuendet-schwester-seiner-ehemaligen-verlobten-an-lebenslange-haft](https://www.spiegel.de/panorama/justiz/arnsberg-mann-zuendet-schwester-seiner-ehemaligen-verlobten-an-lebenslange-haft-a-dc7a23cb-c43d-4d5f-8ce1-bda01e2b2ad1#ref=rss)
+* [https://www.spiegel.de/geschichte/die-erfolgreichsten-sneaker-aller-zeiten-kampf-der-klassiker](https://www.spiegel.de/geschichte/die-erfolgreichsten-sneaker-aller-zeiten-kampf-der-klassiker-a-38a1a828-8bfc-4531-83a7-60bf231483e2#ref=rss)
+### kampf
+
+* [https://www.spiegel.de/geschichte/die-erfolgreichsten-sneaker-aller-zeiten-kampf-der-klassiker](https://www.spiegel.de/geschichte/die-erfolgreichsten-sneaker-aller-zeiten-kampf-der-klassiker-a-38a1a828-8bfc-4531-83a7-60bf231483e2#ref=rss)
+* [https://www.spiegel.de/sport/schach-wm-ohne-magnus-carlsen-und-doch-ist-der-superstar-ganz-nah](https://www.spiegel.de/sport/schach-wm-ohne-magnus-carlsen-und-doch-ist-der-superstar-ganz-nah-a-d66de8a3-793b-4dd4-85de-0827d857582c#ref=rss)
+### feuerlöschern
+
+* [https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-ueber-kriegsrecht-ab-demonstranten-ziehen-zum-gebaeude](https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-ueber-kriegsrecht-ab-demonstranten-ziehen-zum-gebaeude-a-0827bf03-563d-4532-89b2-9f11d9c08835#ref=rss)
+### südkoreas
+
+* [https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-ueber-kriegsrecht-ab-demonstranten-ziehen-zum-gebaeude](https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-ueber-kriegsrecht-ab-demonstranten-ziehen-zum-gebaeude-a-0827bf03-563d-4532-89b2-9f11d9c08835#ref=rss)
+* [https://www.spiegel.de/ausland/suedkorea-praesident-yoon-suk-yeol-ruft-kriegsrecht-aus](https://www.spiegel.de/ausland/suedkorea-praesident-yoon-suk-yeol-ruft-kriegsrecht-aus-a-bf47eddf-6f8c-4856-a33e-68655c5eb595#ref=rss)
+### parlament
+
+* [https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-ueber-kriegsrecht-ab-demonstranten-ziehen-zum-gebaeude](https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-ueber-kriegsrecht-ab-demonstranten-ziehen-zum-gebaeude-a-0827bf03-563d-4532-89b2-9f11d9c08835#ref=rss)
+* [https://www.spiegel.de/ausland/suedkorea-praesident-yoon-suk-yeol-ruft-kriegsrecht-aus](https://www.spiegel.de/ausland/suedkorea-praesident-yoon-suk-yeol-ruft-kriegsrecht-aus-a-bf47eddf-6f8c-4856-a33e-68655c5eb595#ref=rss)
+### gebäude
+
+* [https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-ueber-kriegsrecht-ab-demonstranten-ziehen-zum-gebaeude](https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-ueber-kriegsrecht-ab-demonstranten-ziehen-zum-gebaeude-a-0827bf03-563d-4532-89b2-9f11d9c08835#ref=rss)
+* [https://www.spiegel.de/ausland/suedkorea-praesident-yoon-suk-yeol-ruft-kriegsrecht-aus](https://www.spiegel.de/ausland/suedkorea-praesident-yoon-suk-yeol-ruft-kriegsrecht-aus-a-bf47eddf-6f8c-4856-a33e-68655c5eb595#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-ueber-kriegsrecht-ab-demonstranten-ziehen-zum-gebaeude](https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-ueber-kriegsrecht-ab-demonstranten-ziehen-zum-gebaeude-a-0827bf03-563d-4532-89b2-9f11d9c08835#ref=rss)
+* [https://www.spiegel.de/ausland/suedkorea-praesident-yoon-suk-yeol-ruft-kriegsrecht-aus](https://www.spiegel.de/ausland/suedkorea-praesident-yoon-suk-yeol-ruft-kriegsrecht-aus-a-bf47eddf-6f8c-4856-a33e-68655c5eb595#ref=rss)
+### news
+
+* [https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-ueber-kriegsrecht-ab-demonstranten-ziehen-zum-gebaeude](https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-ueber-kriegsrecht-ab-demonstranten-ziehen-zum-gebaeude-a-0827bf03-563d-4532-89b2-9f11d9c08835#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-dax-auf-rekordhoch-kriegsrecht-in-suedkorea-archaeologie-skandal](https://www.spiegel.de/politik/deutschland/news-des-tages-dax-auf-rekordhoch-kriegsrecht-in-suedkorea-archaeologie-skandal-a-bee928a7-6431-4944-add6-8d1c03d0ebf8#ref=rss)
+### dax
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-dax-auf-rekordhoch-kriegsrecht-in-suedkorea-archaeologie-skandal](https://www.spiegel.de/politik/deutschland/news-des-tages-dax-auf-rekordhoch-kriegsrecht-in-suedkorea-archaeologie-skandal-a-bee928a7-6431-4944-add6-8d1c03d0ebf8#ref=rss)
+### ruft
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-dax-auf-rekordhoch-kriegsrecht-in-suedkorea-archaeologie-skandal](https://www.spiegel.de/politik/deutschland/news-des-tages-dax-auf-rekordhoch-kriegsrecht-in-suedkorea-archaeologie-skandal-a-bee928a7-6431-4944-add6-8d1c03d0ebf8#ref=rss)
+* [https://www.spiegel.de/ausland/suedkorea-praesident-yoon-suk-yeol-ruft-kriegsrecht-aus](https://www.spiegel.de/ausland/suedkorea-praesident-yoon-suk-yeol-ruft-kriegsrecht-aus-a-bf47eddf-6f8c-4856-a33e-68655c5eb595#ref=rss)
+### rheinlandpfalz
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-dax-auf-rekordhoch-kriegsrecht-in-suedkorea-archaeologie-skandal](https://www.spiegel.de/politik/deutschland/news-des-tages-dax-auf-rekordhoch-kriegsrecht-in-suedkorea-archaeologie-skandal-a-bee928a7-6431-4944-add6-8d1c03d0ebf8#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/kalmit-in-rheinland-pfalz-berg-im-pfaelzerwald-ist-jetzt-einen-meter-hoeher](https://www.spiegel.de/wissenschaft/natur/kalmit-in-rheinland-pfalz-berg-im-pfaelzerwald-ist-jetzt-einen-meter-hoeher-a-3c22a5e9-0703-46e2-9aef-1b7f15bbe188#ref=rss)
+### carsten
+
+* [https://www.spiegel.de/politik/deutschland/fdp-carsten-reymann-vertrauter-von-christian-lindner-entschuldigt-sich-fuer-wortwahl-im-d-day-papier](https://www.spiegel.de/politik/deutschland/fdp-carsten-reymann-vertrauter-von-christian-lindner-entschuldigt-sich-fuer-wortwahl-im-d-day-papier-a-54fc3115-7405-4f9d-9cb1-75534dc90b25#ref=rss)
+### reymann
+
+* [https://www.spiegel.de/politik/deutschland/fdp-carsten-reymann-vertrauter-von-christian-lindner-entschuldigt-sich-fuer-wortwahl-im-d-day-papier](https://www.spiegel.de/politik/deutschland/fdp-carsten-reymann-vertrauter-von-christian-lindner-entschuldigt-sich-fuer-wortwahl-im-d-day-papier-a-54fc3115-7405-4f9d-9cb1-75534dc90b25#ref=rss)
+### ddaypapier
+
+* [https://www.spiegel.de/politik/deutschland/fdp-carsten-reymann-vertrauter-von-christian-lindner-entschuldigt-sich-fuer-wortwahl-im-d-day-papier](https://www.spiegel.de/politik/deutschland/fdp-carsten-reymann-vertrauter-von-christian-lindner-entschuldigt-sich-fuer-wortwahl-im-d-day-papier-a-54fc3115-7405-4f9d-9cb1-75534dc90b25#ref=rss)
+### fürs
+
+* [https://www.spiegel.de/politik/deutschland/fdp-carsten-reymann-vertrauter-von-christian-lindner-entschuldigt-sich-fuer-wortwahl-im-d-day-papier](https://www.spiegel.de/politik/deutschland/fdp-carsten-reymann-vertrauter-von-christian-lindner-entschuldigt-sich-fuer-wortwahl-im-d-day-papier-a-54fc3115-7405-4f9d-9cb1-75534dc90b25#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/so-finden-sie-das-guenstigste-aktiendepot](https://www.spiegel.de/wirtschaft/service/so-finden-sie-das-guenstigste-aktiendepot-a-8509d6af-111a-46dd-a3e9-3ebba0201d1c#ref=rss)
+### usa
+
+* [https://www.spiegel.de/wirtschaft/china-verbietet-den-export-wichtiger-mineralien-in-die-usa](https://www.spiegel.de/wirtschaft/china-verbietet-den-export-wichtiger-mineralien-in-die-usa-a-2c12668e-c2cc-4fc2-9293-9e1d7424594e#ref=rss)
+### kontiolahti
+
+* [https://www.spiegel.de/sport/wintersport/biathlon-philipp-nawrath-als-22-bester-deutscher-bei-einzel-debakel-in-kontiolahti](https://www.spiegel.de/sport/wintersport/biathlon-philipp-nawrath-als-22-bester-deutscher-bei-einzel-debakel-in-kontiolahti-a-4cd3705f-a655-4706-9d17-cb1c9c19b6f8#ref=rss)
+### ganz
+
+* [https://www.spiegel.de/sport/wintersport/biathlon-philipp-nawrath-als-22-bester-deutscher-bei-einzel-debakel-in-kontiolahti](https://www.spiegel.de/sport/wintersport/biathlon-philipp-nawrath-als-22-bester-deutscher-bei-einzel-debakel-in-kontiolahti-a-4cd3705f-a655-4706-9d17-cb1c9c19b6f8#ref=rss)
+* [https://www.spiegel.de/sport/schach-wm-ohne-magnus-carlsen-und-doch-ist-der-superstar-ganz-nah](https://www.spiegel.de/sport/schach-wm-ohne-magnus-carlsen-und-doch-ist-der-superstar-ganz-nah-a-d66de8a3-793b-4dd4-85de-0827d857582c#ref=rss)
 ### laut
 
-* [https://www.spiegel.de/panorama/justiz/arnsberg-mann-zuendet-schwester-seiner-ehemaligen-verlobten-an-lebenslange-haft](https://www.spiegel.de/panorama/justiz/arnsberg-mann-zuendet-schwester-seiner-ehemaligen-verlobten-an-lebenslange-haft-a-dc7a23cb-c43d-4d5f-8ce1-bda01e2b2ad1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-dfb-praesident-bernd-neuendorf-fordert-von-der-politik-investitionen-in-vereinsinfrastruktur](https://www.spiegel.de/sport/fussball/fussball-dfb-praesident-bernd-neuendorf-fordert-von-der-politik-investitionen-in-vereinsinfrastruktur-a-1541bc1d-8538-44d6-80d7-ec384467b6d8#ref=rss)
-### umfrage
+* [https://www.spiegel.de/wissenschaft/technik/stromversorgung-laut-studie-auch-ohne-grundlastkraftwerke-sicher](https://www.spiegel.de/wissenschaft/technik/stromversorgung-laut-studie-auch-ohne-grundlastkraftwerke-sicher-a-de2d89f7-6cac-436b-979d-1c6caa3c88a2#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/diw-studie-gefluechtete-ueberweisen-relativ-selten-geld-in-ihre-heimat](https://www.spiegel.de/panorama/gesellschaft/diw-studie-gefluechtete-ueberweisen-relativ-selten-geld-in-ihre-heimat-a-423046b4-16ef-4af4-ab67-34cfbce951f5#ref=rss)
+### ohne
 
-* [https://www.spiegel.de/wirtschaft/umfrage-zu-sparanstrengung-deutsche-verlieren-den-glauben-an-wohneigentum](https://www.spiegel.de/wirtschaft/umfrage-zu-sparanstrengung-deutsche-verlieren-den-glauben-an-wohneigentum-a-bcf894b5-5bd6-444b-a947-4f72edf1659f#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/bildung-handy-lenkt-junge-menschen-mehr-vom-lernen-ab-als-aeltere](https://www.spiegel.de/panorama/bildung/bildung-handy-lenkt-junge-menschen-mehr-vom-lernen-ab-als-aeltere-a-a059639d-075e-41a6-b61f-7706396858c3#ref=rss)
-### handy
+* [https://www.spiegel.de/wissenschaft/technik/stromversorgung-laut-studie-auch-ohne-grundlastkraftwerke-sicher](https://www.spiegel.de/wissenschaft/technik/stromversorgung-laut-studie-auch-ohne-grundlastkraftwerke-sicher-a-de2d89f7-6cac-436b-979d-1c6caa3c88a2#ref=rss)
+* [https://www.spiegel.de/sport/schach-wm-ohne-magnus-carlsen-und-doch-ist-der-superstar-ganz-nah](https://www.spiegel.de/sport/schach-wm-ohne-magnus-carlsen-und-doch-ist-der-superstar-ganz-nah-a-d66de8a3-793b-4dd4-85de-0827d857582c#ref=rss)
+### volksbühne
 
-* [https://www.spiegel.de/panorama/bildung/bildung-handy-lenkt-junge-menschen-mehr-vom-lernen-ab-als-aeltere](https://www.spiegel.de/panorama/bildung/bildung-handy-lenkt-junge-menschen-mehr-vom-lernen-ab-als-aeltere-a-a059639d-075e-41a6-b61f-7706396858c3#ref=rss)
-### biden
+* [https://www.spiegel.de/kultur/volksbuehne-in-berlin-uebergangsloesung-fuer-intendanz-ist-gescheitert](https://www.spiegel.de/kultur/volksbuehne-in-berlin-uebergangsloesung-fuer-intendanz-ist-gescheitert-a-40925678-6bcc-481d-9047-42d37acbfe77#ref=rss)
+### intendanz
 
-* [https://www.spiegel.de/ausland/joe-biden-begnadigt-seinen-sohn-hunter-biden-der-us-praesident-erscheint-als-heuchler-kommentar](https://www.spiegel.de/ausland/joe-biden-begnadigt-seinen-sohn-hunter-biden-der-us-praesident-erscheint-als-heuchler-kommentar-a-fd48f894-09a3-45ae-9526-ff37c9e4eded#ref=rss)
-### sohn
+* [https://www.spiegel.de/kultur/volksbuehne-in-berlin-uebergangsloesung-fuer-intendanz-ist-gescheitert](https://www.spiegel.de/kultur/volksbuehne-in-berlin-uebergangsloesung-fuer-intendanz-ist-gescheitert-a-40925678-6bcc-481d-9047-42d37acbfe77#ref=rss)
+### sollten
 
-* [https://www.spiegel.de/ausland/joe-biden-begnadigt-seinen-sohn-hunter-biden-der-us-praesident-erscheint-als-heuchler-kommentar](https://www.spiegel.de/ausland/joe-biden-begnadigt-seinen-sohn-hunter-biden-der-us-praesident-erscheint-als-heuchler-kommentar-a-fd48f894-09a3-45ae-9526-ff37c9e4eded#ref=rss)
-### haushaltskrise
+* [https://www.spiegel.de/kultur/volksbuehne-in-berlin-uebergangsloesung-fuer-intendanz-ist-gescheitert](https://www.spiegel.de/kultur/volksbuehne-in-berlin-uebergangsloesung-fuer-intendanz-ist-gescheitert-a-40925678-6bcc-481d-9047-42d37acbfe77#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/so-finden-sie-das-guenstigste-aktiendepot](https://www.spiegel.de/wirtschaft/service/so-finden-sie-das-guenstigste-aktiendepot-a-8509d6af-111a-46dd-a3e9-3ebba0201d1c#ref=rss)
+### liegt
 
-* [https://www.spiegel.de/panorama/bildung/haushaltskrise-und-sozialkuerzungen-die-politik-beweist-dass-sie-nichts-verstanden-hat](https://www.spiegel.de/panorama/bildung/haushaltskrise-und-sozialkuerzungen-die-politik-beweist-dass-sie-nichts-verstanden-hat-a-de060392-6ffd-4539-8aec-b566758806e7#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-finanzminister-antoine-armand-sieht-sein-land-wegen-haushaltskrise-am-scheideweg](https://www.spiegel.de/ausland/frankreich-finanzminister-antoine-armand-sieht-sein-land-wegen-haushaltskrise-am-scheideweg-a-ede537e2-9322-49d3-a729-2f8744855f66#ref=rss)
-### bereich
+* [https://www.spiegel.de/kultur/volksbuehne-in-berlin-uebergangsloesung-fuer-intendanz-ist-gescheitert](https://www.spiegel.de/kultur/volksbuehne-in-berlin-uebergangsloesung-fuer-intendanz-ist-gescheitert-a-40925678-6bcc-481d-9047-42d37acbfe77#ref=rss)
+* [https://www.spiegel.de/sport/radsport-doppelolympiasieger-evenepoel-nach-kollision-mit-postauto-im-krankenhaus](https://www.spiegel.de/sport/radsport-doppelolympiasieger-evenepoel-nach-kollision-mit-postauto-im-krankenhaus-a-25961c4f-597c-4da4-868b-ed65720f5563#ref=rss)
+### magnus
 
-* [https://www.spiegel.de/panorama/bildung/haushaltskrise-und-sozialkuerzungen-die-politik-beweist-dass-sie-nichts-verstanden-hat](https://www.spiegel.de/panorama/bildung/haushaltskrise-und-sozialkuerzungen-die-politik-beweist-dass-sie-nichts-verstanden-hat-a-de060392-6ffd-4539-8aec-b566758806e7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/stiftung-warentest-wird-60-gelegentlich-explodiert-mal-eine-waschmaschine](https://www.spiegel.de/wirtschaft/service/stiftung-warentest-wird-60-gelegentlich-explodiert-mal-eine-waschmaschine-a-bde88619-b129-4535-97f3-8d39f5e13bc4#ref=rss)
-### marius
+* [https://www.spiegel.de/sport/schach-wm-ohne-magnus-carlsen-und-doch-ist-der-superstar-ganz-nah](https://www.spiegel.de/sport/schach-wm-ohne-magnus-carlsen-und-doch-ist-der-superstar-ganz-nah-a-d66de8a3-793b-4dd4-85de-0827d857582c#ref=rss)
+### carlsen
 
-* [https://www.spiegel.de/panorama/leute/marius-mueller-westernhagen-will-kein-mitleid-vom-publikum](https://www.spiegel.de/panorama/leute/marius-mueller-westernhagen-will-kein-mitleid-vom-publikum-a-b20baa61-d90a-4a49-be1e-d5c58fb97f8e#ref=rss)
-### müllerwesternhagen
+* [https://www.spiegel.de/sport/schach-wm-ohne-magnus-carlsen-und-doch-ist-der-superstar-ganz-nah](https://www.spiegel.de/sport/schach-wm-ohne-magnus-carlsen-und-doch-ist-der-superstar-ganz-nah-a-d66de8a3-793b-4dd4-85de-0827d857582c#ref=rss)
+### superstar
 
-* [https://www.spiegel.de/panorama/leute/marius-mueller-westernhagen-will-kein-mitleid-vom-publikum](https://www.spiegel.de/panorama/leute/marius-mueller-westernhagen-will-kein-mitleid-vom-publikum-a-b20baa61-d90a-4a49-be1e-d5c58fb97f8e#ref=rss)
-### ende
+* [https://www.spiegel.de/sport/schach-wm-ohne-magnus-carlsen-und-doch-ist-der-superstar-ganz-nah](https://www.spiegel.de/sport/schach-wm-ohne-magnus-carlsen-und-doch-ist-der-superstar-ganz-nah-a-d66de8a3-793b-4dd4-85de-0827d857582c#ref=rss)
+### kalmit
 
-* [https://www.spiegel.de/ausland/angela-merkel-bei-barack-obama-werbung-fuer-memoiren](https://www.spiegel.de/ausland/angela-merkel-bei-barack-obama-werbung-fuer-memoiren-a-b803ccb9-32d5-472d-9b0f-1f5e835fa8f9#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/skandal-in-der-archaeologie-der-knochenfaelscher-von-koblenz](https://www.spiegel.de/wissenschaft/mensch/skandal-in-der-archaeologie-der-knochenfaelscher-von-koblenz-a-73db70b2-ae78-4b2c-9361-5dfdf529e744#ref=rss)
-### altkanzlerin
+* [https://www.spiegel.de/wissenschaft/natur/kalmit-in-rheinland-pfalz-berg-im-pfaelzerwald-ist-jetzt-einen-meter-hoeher](https://www.spiegel.de/wissenschaft/natur/kalmit-in-rheinland-pfalz-berg-im-pfaelzerwald-ist-jetzt-einen-meter-hoeher-a-3c22a5e9-0703-46e2-9aef-1b7f15bbe188#ref=rss)
+### berg
 
-* [https://www.spiegel.de/ausland/angela-merkel-bei-barack-obama-werbung-fuer-memoiren](https://www.spiegel.de/ausland/angela-merkel-bei-barack-obama-werbung-fuer-memoiren-a-b803ccb9-32d5-472d-9b0f-1f5e835fa8f9#ref=rss)
-* [https://www.spiegel.de/ausland/barack-obama-stellt-in-washington-die-memoiren-von-angela-merkel-vor-sie-nehmen-sich-die-freiheit](https://www.spiegel.de/ausland/barack-obama-stellt-in-washington-die-memoiren-von-angela-merkel-vor-sie-nehmen-sich-die-freiheit-a-32214426-03d1-463a-8ff8-fcdcf1ef8f45#ref=rss)
-### antoine
+* [https://www.spiegel.de/wissenschaft/natur/kalmit-in-rheinland-pfalz-berg-im-pfaelzerwald-ist-jetzt-einen-meter-hoeher](https://www.spiegel.de/wissenschaft/natur/kalmit-in-rheinland-pfalz-berg-im-pfaelzerwald-ist-jetzt-einen-meter-hoeher-a-3c22a5e9-0703-46e2-9aef-1b7f15bbe188#ref=rss)
+### meter
 
-* [https://www.spiegel.de/ausland/frankreich-finanzminister-antoine-armand-sieht-sein-land-wegen-haushaltskrise-am-scheideweg](https://www.spiegel.de/ausland/frankreich-finanzminister-antoine-armand-sieht-sein-land-wegen-haushaltskrise-am-scheideweg-a-ede537e2-9322-49d3-a729-2f8744855f66#ref=rss)
-### armand
+* [https://www.spiegel.de/wissenschaft/natur/kalmit-in-rheinland-pfalz-berg-im-pfaelzerwald-ist-jetzt-einen-meter-hoeher](https://www.spiegel.de/wissenschaft/natur/kalmit-in-rheinland-pfalz-berg-im-pfaelzerwald-ist-jetzt-einen-meter-hoeher-a-3c22a5e9-0703-46e2-9aef-1b7f15bbe188#ref=rss)
+### damp
 
-* [https://www.spiegel.de/ausland/frankreich-finanzminister-antoine-armand-sieht-sein-land-wegen-haushaltskrise-am-scheideweg](https://www.spiegel.de/ausland/frankreich-finanzminister-antoine-armand-sieht-sein-land-wegen-haushaltskrise-am-scheideweg-a-ede537e2-9322-49d3-a729-2f8744855f66#ref=rss)
-### land
+* [https://www.spiegel.de/panorama/justiz/damp-franzoesische-polizei-stoppt-mutmasslichen-entfuehrer-aus-schleswig-holstein](https://www.spiegel.de/panorama/justiz/damp-franzoesische-polizei-stoppt-mutmasslichen-entfuehrer-aus-schleswig-holstein-a-3d1fb143-6de0-4a5c-b388-0a03757c5dd1#ref=rss)
+### evenepoel
 
-* [https://www.spiegel.de/ausland/frankreich-finanzminister-antoine-armand-sieht-sein-land-wegen-haushaltskrise-am-scheideweg](https://www.spiegel.de/ausland/frankreich-finanzminister-antoine-armand-sieht-sein-land-wegen-haushaltskrise-am-scheideweg-a-ede537e2-9322-49d3-a729-2f8744855f66#ref=rss)
-### finnland
+* [https://www.spiegel.de/sport/radsport-doppelolympiasieger-evenepoel-nach-kollision-mit-postauto-im-krankenhaus](https://www.spiegel.de/sport/radsport-doppelolympiasieger-evenepoel-nach-kollision-mit-postauto-im-krankenhaus-a-25961c4f-597c-4da4-868b-ed65720f5563#ref=rss)
+### krankenhaus
 
-* [https://www.spiegel.de/ausland/finnland-datenkabel-beschaedigt-polizei-vermutet-verbrechen](https://www.spiegel.de/ausland/finnland-datenkabel-beschaedigt-polizei-vermutet-verbrechen-a-ae0b5046-67d7-49a6-aa69-9c779c8820dc#ref=rss)
-### polizei
+* [https://www.spiegel.de/sport/radsport-doppelolympiasieger-evenepoel-nach-kollision-mit-postauto-im-krankenhaus](https://www.spiegel.de/sport/radsport-doppelolympiasieger-evenepoel-nach-kollision-mit-postauto-im-krankenhaus-a-25961c4f-597c-4da4-868b-ed65720f5563#ref=rss)
+### diwstudie
 
-* [https://www.spiegel.de/ausland/finnland-datenkabel-beschaedigt-polizei-vermutet-verbrechen](https://www.spiegel.de/ausland/finnland-datenkabel-beschaedigt-polizei-vermutet-verbrechen-a-ae0b5046-67d7-49a6-aa69-9c779c8820dc#ref=rss)
-### vermutet
+* [https://www.spiegel.de/panorama/gesellschaft/diw-studie-gefluechtete-ueberweisen-relativ-selten-geld-in-ihre-heimat](https://www.spiegel.de/panorama/gesellschaft/diw-studie-gefluechtete-ueberweisen-relativ-selten-geld-in-ihre-heimat-a-423046b4-16ef-4af4-ab67-34cfbce951f5#ref=rss)
+### geflüchtete
 
-* [https://www.spiegel.de/ausland/finnland-datenkabel-beschaedigt-polizei-vermutet-verbrechen](https://www.spiegel.de/ausland/finnland-datenkabel-beschaedigt-polizei-vermutet-verbrechen-a-ae0b5046-67d7-49a6-aa69-9c779c8820dc#ref=rss)
-### verbrechen
+* [https://www.spiegel.de/panorama/gesellschaft/diw-studie-gefluechtete-ueberweisen-relativ-selten-geld-in-ihre-heimat](https://www.spiegel.de/panorama/gesellschaft/diw-studie-gefluechtete-ueberweisen-relativ-selten-geld-in-ihre-heimat-a-423046b4-16ef-4af4-ab67-34cfbce951f5#ref=rss)
+### überweisen
 
-* [https://www.spiegel.de/ausland/finnland-datenkabel-beschaedigt-polizei-vermutet-verbrechen](https://www.spiegel.de/ausland/finnland-datenkabel-beschaedigt-polizei-vermutet-verbrechen-a-ae0b5046-67d7-49a6-aa69-9c779c8820dc#ref=rss)
-### stimmung
+* [https://www.spiegel.de/panorama/gesellschaft/diw-studie-gefluechtete-ueberweisen-relativ-selten-geld-in-ihre-heimat](https://www.spiegel.de/panorama/gesellschaft/diw-studie-gefluechtete-ueberweisen-relativ-selten-geld-in-ihre-heimat-a-423046b4-16ef-4af4-ab67-34cfbce951f5#ref=rss)
+### tommy
 
-* [https://www.spiegel.de/wirtschaft/ifo-umfrage-stimmung-in-der-autoindustrie-verschlechtert-sich-drastisch](https://www.spiegel.de/wirtschaft/ifo-umfrage-stimmung-in-der-autoindustrie-verschlechtert-sich-drastisch-a-25daa179-14ae-4cb7-9939-05d2731e4d38#ref=rss)
-* [https://www.spiegel.de/wirtschaft/boerse-dax-ueberspringt-20-000-punkte-marke](https://www.spiegel.de/wirtschaft/boerse-dax-ueberspringt-20-000-punkte-marke-a-03933cf1-9d19-40e7-8fa4-c1da525f9395#ref=rss)
-### autoindustrie
+* [https://www.spiegel.de/panorama/tommy-banks-britischer-sternekoch-beklaut-2500-pies-verschwunden](https://www.spiegel.de/panorama/tommy-banks-britischer-sternekoch-beklaut-2500-pies-verschwunden-a-4ed8a958-4c8f-4627-b265-e3309b361bd6#ref=rss)
+### banks
 
-* [https://www.spiegel.de/wirtschaft/ifo-umfrage-stimmung-in-der-autoindustrie-verschlechtert-sich-drastisch](https://www.spiegel.de/wirtschaft/ifo-umfrage-stimmung-in-der-autoindustrie-verschlechtert-sich-drastisch-a-25daa179-14ae-4cb7-9939-05d2731e4d38#ref=rss)
-### verschlechtert
+* [https://www.spiegel.de/panorama/tommy-banks-britischer-sternekoch-beklaut-2500-pies-verschwunden](https://www.spiegel.de/panorama/tommy-banks-britischer-sternekoch-beklaut-2500-pies-verschwunden-a-4ed8a958-4c8f-4627-b265-e3309b361bd6#ref=rss)
+### 2500
 
-* [https://www.spiegel.de/wirtschaft/ifo-umfrage-stimmung-in-der-autoindustrie-verschlechtert-sich-drastisch](https://www.spiegel.de/wirtschaft/ifo-umfrage-stimmung-in-der-autoindustrie-verschlechtert-sich-drastisch-a-25daa179-14ae-4cb7-9939-05d2731e4d38#ref=rss)
-* [https://www.spiegel.de/panorama/leute/harvey-weinstein-in-krankenhaus-eingeliefert](https://www.spiegel.de/panorama/leute/harvey-weinstein-in-krankenhaus-eingeliefert-a-5b944b26-b5d4-47e0-9956-cbc898fda9e6#ref=rss)
-### aktuelle
+* [https://www.spiegel.de/panorama/tommy-banks-britischer-sternekoch-beklaut-2500-pies-verschwunden](https://www.spiegel.de/panorama/tommy-banks-britischer-sternekoch-beklaut-2500-pies-verschwunden-a-4ed8a958-4c8f-4627-b265-e3309b361bd6#ref=rss)
+### pies
 
-* [https://www.spiegel.de/wirtschaft/ifo-umfrage-stimmung-in-der-autoindustrie-verschlechtert-sich-drastisch](https://www.spiegel.de/wirtschaft/ifo-umfrage-stimmung-in-der-autoindustrie-verschlechtert-sich-drastisch-a-25daa179-14ae-4cb7-9939-05d2731e4d38#ref=rss)
-* [https://www.spiegel.de/ausland/barack-obama-stellt-in-washington-die-memoiren-von-angela-merkel-vor-sie-nehmen-sich-die-freiheit](https://www.spiegel.de/ausland/barack-obama-stellt-in-washington-die-memoiren-von-angela-merkel-vor-sie-nehmen-sich-die-freiheit-a-32214426-03d1-463a-8ff8-fcdcf1ef8f45#ref=rss)
-### börse
+* [https://www.spiegel.de/panorama/tommy-banks-britischer-sternekoch-beklaut-2500-pies-verschwunden](https://www.spiegel.de/panorama/tommy-banks-britischer-sternekoch-beklaut-2500-pies-verschwunden-a-4ed8a958-4c8f-4627-b265-e3309b361bd6#ref=rss)
+### geminiden
 
-* [https://www.spiegel.de/wirtschaft/boerse-dax-ueberspringt-20-000-punkte-marke](https://www.spiegel.de/wirtschaft/boerse-dax-ueberspringt-20-000-punkte-marke-a-03933cf1-9d19-40e7-8fa4-c1da525f9395#ref=rss)
-### zwei
+* [https://www.spiegel.de/wissenschaft/weltall/geminiden-wann-die-meisten-sternschnuppen-zu-sehen-sind](https://www.spiegel.de/wissenschaft/weltall/geminiden-wann-die-meisten-sternschnuppen-zu-sehen-sind-a-7d477053-e4f9-4ca8-b0d9-544ade8caa92#ref=rss)
+### jahres
 
-* [https://www.spiegel.de/wissenschaft/medizin/inkomplette-querschnittlaehmung-tiefe-hirnstimulation-hilft-zwei-betroffenen-beim-gehen](https://www.spiegel.de/wissenschaft/medizin/inkomplette-querschnittlaehmung-tiefe-hirnstimulation-hilft-zwei-betroffenen-beim-gehen-a-857cbd53-a0d1-4898-83e0-358f4da012cb#ref=rss)
-* [https://www.spiegel.de/familie/adventskalender-es-ist-nicht-schlimm-wenn-ein-paar-tage-fehlen](https://www.spiegel.de/familie/adventskalender-es-ist-nicht-schlimm-wenn-ein-paar-tage-fehlen-a-85e679e5-b706-4d40-a500-21da04b5e44d#ref=rss)
-### harvey
+* [https://www.spiegel.de/wissenschaft/weltall/geminiden-wann-die-meisten-sternschnuppen-zu-sehen-sind](https://www.spiegel.de/wissenschaft/weltall/geminiden-wann-die-meisten-sternschnuppen-zu-sehen-sind-a-7d477053-e4f9-4ca8-b0d9-544ade8caa92#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/oldenburg-mann-wegen-versuchten-totschlags-auf-bauerndemo-zu-haft-verurteilt](https://www.spiegel.de/panorama/justiz/oldenburg-mann-wegen-versuchten-totschlags-auf-bauerndemo-zu-haft-verurteilt-a-a8df1172-0684-4fa1-8f7f-a19f24db130f#ref=rss)
+### oldenburg
 
-* [https://www.spiegel.de/panorama/leute/harvey-weinstein-in-krankenhaus-eingeliefert](https://www.spiegel.de/panorama/leute/harvey-weinstein-in-krankenhaus-eingeliefert-a-5b944b26-b5d4-47e0-9956-cbc898fda9e6#ref=rss)
-### weinstein
+* [https://www.spiegel.de/panorama/justiz/oldenburg-mann-wegen-versuchten-totschlags-auf-bauerndemo-zu-haft-verurteilt](https://www.spiegel.de/panorama/justiz/oldenburg-mann-wegen-versuchten-totschlags-auf-bauerndemo-zu-haft-verurteilt-a-a8df1172-0684-4fa1-8f7f-a19f24db130f#ref=rss)
+### mann
 
-* [https://www.spiegel.de/panorama/leute/harvey-weinstein-in-krankenhaus-eingeliefert](https://www.spiegel.de/panorama/leute/harvey-weinstein-in-krankenhaus-eingeliefert-a-5b944b26-b5d4-47e0-9956-cbc898fda9e6#ref=rss)
-### james
+* [https://www.spiegel.de/panorama/justiz/oldenburg-mann-wegen-versuchten-totschlags-auf-bauerndemo-zu-haft-verurteilt](https://www.spiegel.de/panorama/justiz/oldenburg-mann-wegen-versuchten-totschlags-auf-bauerndemo-zu-haft-verurteilt-a-a8df1172-0684-4fa1-8f7f-a19f24db130f#ref=rss)
+### alltag
 
-* [https://www.spiegel.de/panorama/leute/james-van-der-beek-verkauft-trikots-um-krebsbehandlung-zu-finanzieren](https://www.spiegel.de/panorama/leute/james-van-der-beek-verkauft-trikots-um-krebsbehandlung-zu-finanzieren-a-d2e32fa3-a6a7-4cbf-a86e-7d9368b9812f#ref=rss)
-### van
+* [https://www.spiegel.de/psychologie/adhs-bei-erwachsenen-adhs-ist-keine-superkraft-erfahrungen-und-herausforderungen-im-alltag](https://www.spiegel.de/psychologie/adhs-bei-erwachsenen-adhs-ist-keine-superkraft-erfahrungen-und-herausforderungen-im-alltag-a-3052e085-b4d6-4b4d-8686-961b44b67c27#ref=rss)
+### amazongründers
 
-* [https://www.spiegel.de/panorama/leute/james-van-der-beek-verkauft-trikots-um-krebsbehandlung-zu-finanzieren](https://www.spiegel.de/panorama/leute/james-van-der-beek-verkauft-trikots-um-krebsbehandlung-zu-finanzieren-a-d2e32fa3-a6a7-4cbf-a86e-7d9368b9812f#ref=rss)
-### beek
+* [https://www.spiegel.de/wirtschaft/jeff-bezos-schiffbauer-muss-fuer-die-superjacht-des-amazon-gruenders-strafe-zahlen](https://www.spiegel.de/wirtschaft/jeff-bezos-schiffbauer-muss-fuer-die-superjacht-des-amazon-gruenders-strafe-zahlen-a-371309ca-528d-422d-8205-208427b4699e#ref=rss)
+### zahlen
 
-* [https://www.spiegel.de/panorama/leute/james-van-der-beek-verkauft-trikots-um-krebsbehandlung-zu-finanzieren](https://www.spiegel.de/panorama/leute/james-van-der-beek-verkauft-trikots-um-krebsbehandlung-zu-finanzieren-a-d2e32fa3-a6a7-4cbf-a86e-7d9368b9812f#ref=rss)
-### verkauft
+* [https://www.spiegel.de/wirtschaft/jeff-bezos-schiffbauer-muss-fuer-die-superjacht-des-amazon-gruenders-strafe-zahlen](https://www.spiegel.de/wirtschaft/jeff-bezos-schiffbauer-muss-fuer-die-superjacht-des-amazon-gruenders-strafe-zahlen-a-371309ca-528d-422d-8205-208427b4699e#ref=rss)
+### vogelgrippe
 
-* [https://www.spiegel.de/panorama/leute/james-van-der-beek-verkauft-trikots-um-krebsbehandlung-zu-finanzieren](https://www.spiegel.de/panorama/leute/james-van-der-beek-verkauft-trikots-um-krebsbehandlung-zu-finanzieren-a-d2e32fa3-a6a7-4cbf-a86e-7d9368b9812f#ref=rss)
-### trikots
+* [https://www.spiegel.de/wissenschaft/vogelgrippe-in-kalifornien-hunderte-kuhherden-sind-infiziert-der-anfang-einer-neuen-pandemie](https://www.spiegel.de/wissenschaft/vogelgrippe-in-kalifornien-hunderte-kuhherden-sind-infiziert-der-anfang-einer-neuen-pandemie-a-138d3eee-dfac-47df-9f4e-8445724523aa#ref=rss)
+### kalifornien
 
-* [https://www.spiegel.de/panorama/leute/james-van-der-beek-verkauft-trikots-um-krebsbehandlung-zu-finanzieren](https://www.spiegel.de/panorama/leute/james-van-der-beek-verkauft-trikots-um-krebsbehandlung-zu-finanzieren-a-d2e32fa3-a6a7-4cbf-a86e-7d9368b9812f#ref=rss)
-### gazastreifen
+* [https://www.spiegel.de/wissenschaft/vogelgrippe-in-kalifornien-hunderte-kuhherden-sind-infiziert-der-anfang-einer-neuen-pandemie](https://www.spiegel.de/wissenschaft/vogelgrippe-in-kalifornien-hunderte-kuhherden-sind-infiziert-der-anfang-einer-neuen-pandemie-a-138d3eee-dfac-47df-9f4e-8445724523aa#ref=rss)
+### kuhherden
 
-* [https://www.spiegel.de/ausland/gazastreifen-israel-ruft-zu-evakuierungen-im-sueden-auf](https://www.spiegel.de/ausland/gazastreifen-israel-ruft-zu-evakuierungen-im-sueden-auf-a-d6b4e748-3c5f-4352-958a-a4f91fa18c44#ref=rss)
-### israel
+* [https://www.spiegel.de/wissenschaft/vogelgrippe-in-kalifornien-hunderte-kuhherden-sind-infiziert-der-anfang-einer-neuen-pandemie](https://www.spiegel.de/wissenschaft/vogelgrippe-in-kalifornien-hunderte-kuhherden-sind-infiziert-der-anfang-einer-neuen-pandemie-a-138d3eee-dfac-47df-9f4e-8445724523aa#ref=rss)
+### infiziert
 
-* [https://www.spiegel.de/ausland/gazastreifen-israel-ruft-zu-evakuierungen-im-sueden-auf](https://www.spiegel.de/ausland/gazastreifen-israel-ruft-zu-evakuierungen-im-sueden-auf-a-d6b4e748-3c5f-4352-958a-a4f91fa18c44#ref=rss)
-### fordert
+* [https://www.spiegel.de/wissenschaft/vogelgrippe-in-kalifornien-hunderte-kuhherden-sind-infiziert-der-anfang-einer-neuen-pandemie](https://www.spiegel.de/wissenschaft/vogelgrippe-in-kalifornien-hunderte-kuhherden-sind-infiziert-der-anfang-einer-neuen-pandemie-a-138d3eee-dfac-47df-9f4e-8445724523aa#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/ausland/gazastreifen-israel-ruft-zu-evakuierungen-im-sueden-auf](https://www.spiegel.de/ausland/gazastreifen-israel-ruft-zu-evakuierungen-im-sueden-auf-a-d6b4e748-3c5f-4352-958a-a4f91fa18c44#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-dfb-praesident-bernd-neuendorf-fordert-von-der-politik-investitionen-in-vereinsinfrastruktur](https://www.spiegel.de/sport/fussball/fussball-dfb-praesident-bernd-neuendorf-fordert-von-der-politik-investitionen-in-vereinsinfrastruktur-a-1541bc1d-8538-44d6-80d7-ec384467b6d8#ref=rss)
-### dazu
+* [https://www.spiegel.de/wissenschaft/vogelgrippe-in-kalifornien-hunderte-kuhherden-sind-infiziert-der-anfang-einer-neuen-pandemie](https://www.spiegel.de/wissenschaft/vogelgrippe-in-kalifornien-hunderte-kuhherden-sind-infiziert-der-anfang-einer-neuen-pandemie-a-138d3eee-dfac-47df-9f4e-8445724523aa#ref=rss)
+### pandemie
 
-* [https://www.spiegel.de/ausland/gazastreifen-israel-ruft-zu-evakuierungen-im-sueden-auf](https://www.spiegel.de/ausland/gazastreifen-israel-ruft-zu-evakuierungen-im-sueden-auf-a-d6b4e748-3c5f-4352-958a-a4f91fa18c44#ref=rss)
-* [https://www.spiegel.de/wirtschaft/welthandel-donald-trump-lehnt-verkauf-von-us-steel-an-japanischen-stahlkonzern-ab](https://www.spiegel.de/wirtschaft/welthandel-donald-trump-lehnt-verkauf-von-us-steel-an-japanischen-stahlkonzern-ab-a-b11cad62-0a47-4c7e-94a8-8ed0379fa309#ref=rss)
-### dfbpräsident
+* [https://www.spiegel.de/wissenschaft/vogelgrippe-in-kalifornien-hunderte-kuhherden-sind-infiziert-der-anfang-einer-neuen-pandemie](https://www.spiegel.de/wissenschaft/vogelgrippe-in-kalifornien-hunderte-kuhherden-sind-infiziert-der-anfang-einer-neuen-pandemie-a-138d3eee-dfac-47df-9f4e-8445724523aa#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/sport/fussball/fussball-dfb-praesident-bernd-neuendorf-fordert-von-der-politik-investitionen-in-vereinsinfrastruktur](https://www.spiegel.de/sport/fussball/fussball-dfb-praesident-bernd-neuendorf-fordert-von-der-politik-investitionen-in-vereinsinfrastruktur-a-1541bc1d-8538-44d6-80d7-ec384467b6d8#ref=rss)
-### bernd
+* [https://www.spiegel.de/wissenschaft/mensch/1-5-millionen-jahre-alte-fussspuren-bezeugen-homo-erectus-und-paranthropus-boisei-kannten-sich](https://www.spiegel.de/wissenschaft/mensch/1-5-millionen-jahre-alte-fussspuren-bezeugen-homo-erectus-und-paranthropus-boisei-kannten-sich-a-43f740cd-d668-4e6a-91af-c1d838fbad7b#ref=rss)
+* [https://www.spiegel.de/sport/schach-wm-dommaraju-gukesh-folgt-seiner-ki-inspiration-und-verpasst-die-fuehrung-trotzdem](https://www.spiegel.de/sport/schach-wm-dommaraju-gukesh-folgt-seiner-ki-inspiration-und-verpasst-die-fuehrung-trotzdem-a-5ca93086-2a38-4272-ab19-1c1ddd9c36ab#ref=rss)
+### alte
 
-* [https://www.spiegel.de/sport/fussball/fussball-dfb-praesident-bernd-neuendorf-fordert-von-der-politik-investitionen-in-vereinsinfrastruktur](https://www.spiegel.de/sport/fussball/fussball-dfb-praesident-bernd-neuendorf-fordert-von-der-politik-investitionen-in-vereinsinfrastruktur-a-1541bc1d-8538-44d6-80d7-ec384467b6d8#ref=rss)
-### neuendorf
+* [https://www.spiegel.de/wissenschaft/mensch/1-5-millionen-jahre-alte-fussspuren-bezeugen-homo-erectus-und-paranthropus-boisei-kannten-sich](https://www.spiegel.de/wissenschaft/mensch/1-5-millionen-jahre-alte-fussspuren-bezeugen-homo-erectus-und-paranthropus-boisei-kannten-sich-a-43f740cd-d668-4e6a-91af-c1d838fbad7b#ref=rss)
+* [https://www.spiegel.de/sport/schach-wm-dommaraju-gukesh-folgt-seiner-ki-inspiration-und-verpasst-die-fuehrung-trotzdem](https://www.spiegel.de/sport/schach-wm-dommaraju-gukesh-folgt-seiner-ki-inspiration-und-verpasst-die-fuehrung-trotzdem-a-5ca93086-2a38-4272-ab19-1c1ddd9c36ab#ref=rss)
+### homo
 
-* [https://www.spiegel.de/sport/fussball/fussball-dfb-praesident-bernd-neuendorf-fordert-von-der-politik-investitionen-in-vereinsinfrastruktur](https://www.spiegel.de/sport/fussball/fussball-dfb-praesident-bernd-neuendorf-fordert-von-der-politik-investitionen-in-vereinsinfrastruktur-a-1541bc1d-8538-44d6-80d7-ec384467b6d8#ref=rss)
-### merz
+* [https://www.spiegel.de/wissenschaft/mensch/1-5-millionen-jahre-alte-fussspuren-bezeugen-homo-erectus-und-paranthropus-boisei-kannten-sich](https://www.spiegel.de/wissenschaft/mensch/1-5-millionen-jahre-alte-fussspuren-bezeugen-homo-erectus-und-paranthropus-boisei-kannten-sich-a-43f740cd-d668-4e6a-91af-c1d838fbad7b#ref=rss)
+### erectus
 
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-friedrich-merz-sieht-aussenpolitische-naehe-zu-den-gruenen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-friedrich-merz-sieht-aussenpolitische-naehe-zu-den-gruenen-a-682ffedb-3835-4779-ae36-73de29697808#ref=rss)
-### grünen
+* [https://www.spiegel.de/wissenschaft/mensch/1-5-millionen-jahre-alte-fussspuren-bezeugen-homo-erectus-und-paranthropus-boisei-kannten-sich](https://www.spiegel.de/wissenschaft/mensch/1-5-millionen-jahre-alte-fussspuren-bezeugen-homo-erectus-und-paranthropus-boisei-kannten-sich-a-43f740cd-d668-4e6a-91af-c1d838fbad7b#ref=rss)
+### fußball
 
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-friedrich-merz-sieht-aussenpolitische-naehe-zu-den-gruenen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-friedrich-merz-sieht-aussenpolitische-naehe-zu-den-gruenen-a-682ffedb-3835-4779-ae36-73de29697808#ref=rss)
-### verkauf
+* [https://www.spiegel.de/sport/fussball/fussball-die-sportschau-wird-weiterhin-bundesliga-zusammenfassungen-zeigen](https://www.spiegel.de/sport/fussball/fussball-die-sportschau-wird-weiterhin-bundesliga-zusammenfassungen-zeigen-a-11606313-3d26-4844-8fd7-92620f56f2fe#ref=rss)
+### liga
 
-* [https://www.spiegel.de/wirtschaft/welthandel-donald-trump-lehnt-verkauf-von-us-steel-an-japanischen-stahlkonzern-ab](https://www.spiegel.de/wirtschaft/welthandel-donald-trump-lehnt-verkauf-von-us-steel-an-japanischen-stahlkonzern-ab-a-b11cad62-0a47-4c7e-94a8-8ed0379fa309#ref=rss)
-### ussteel
-
-* [https://www.spiegel.de/wirtschaft/welthandel-donald-trump-lehnt-verkauf-von-us-steel-an-japanischen-stahlkonzern-ab](https://www.spiegel.de/wirtschaft/welthandel-donald-trump-lehnt-verkauf-von-us-steel-an-japanischen-stahlkonzern-ab-a-b11cad62-0a47-4c7e-94a8-8ed0379fa309#ref=rss)
-### japanischen
-
-* [https://www.spiegel.de/wirtschaft/welthandel-donald-trump-lehnt-verkauf-von-us-steel-an-japanischen-stahlkonzern-ab](https://www.spiegel.de/wirtschaft/welthandel-donald-trump-lehnt-verkauf-von-us-steel-an-japanischen-stahlkonzern-ab-a-b11cad62-0a47-4c7e-94a8-8ed0379fa309#ref=rss)
-### stahlkonzern
-
-* [https://www.spiegel.de/wirtschaft/welthandel-donald-trump-lehnt-verkauf-von-us-steel-an-japanischen-stahlkonzern-ab](https://www.spiegel.de/wirtschaft/welthandel-donald-trump-lehnt-verkauf-von-us-steel-an-japanischen-stahlkonzern-ab-a-b11cad62-0a47-4c7e-94a8-8ed0379fa309#ref=rss)
-### kukies
-
-* [https://www.spiegel.de/wirtschaft/joerg-kukies-rechnet-nicht-mehr-mit-reform-der-privaten-altersvorsorge](https://www.spiegel.de/wirtschaft/joerg-kukies-rechnet-nicht-mehr-mit-reform-der-privaten-altersvorsorge-a-d0ff793b-fb3f-43c9-bdb5-8caf91b67070#ref=rss)
-### privaten
-
-* [https://www.spiegel.de/wirtschaft/joerg-kukies-rechnet-nicht-mehr-mit-reform-der-privaten-altersvorsorge](https://www.spiegel.de/wirtschaft/joerg-kukies-rechnet-nicht-mehr-mit-reform-der-privaten-altersvorsorge-a-d0ff793b-fb3f-43c9-bdb5-8caf91b67070#ref=rss)
-### altersvorsorge
-
-* [https://www.spiegel.de/wirtschaft/joerg-kukies-rechnet-nicht-mehr-mit-reform-der-privaten-altersvorsorge](https://www.spiegel.de/wirtschaft/joerg-kukies-rechnet-nicht-mehr-mit-reform-der-privaten-altersvorsorge-a-d0ff793b-fb3f-43c9-bdb5-8caf91b67070#ref=rss)
-### beachten
-
-* [https://www.spiegel.de/start/was-muss-man-bei-einer-grossen-reise-beachten](https://www.spiegel.de/start/was-muss-man-bei-einer-grossen-reise-beachten-a-55b3ccff-1887-49aa-891a-0ae7b12239e1#ref=rss)
-### adventskalender
-
-* [https://www.spiegel.de/familie/adventskalender-es-ist-nicht-schlimm-wenn-ein-paar-tage-fehlen](https://www.spiegel.de/familie/adventskalender-es-ist-nicht-schlimm-wenn-ein-paar-tage-fehlen-a-85e679e5-b706-4d40-a500-21da04b5e44d#ref=rss)
-### stiftung
-
-* [https://www.spiegel.de/wirtschaft/service/stiftung-warentest-wird-60-gelegentlich-explodiert-mal-eine-waschmaschine](https://www.spiegel.de/wirtschaft/service/stiftung-warentest-wird-60-gelegentlich-explodiert-mal-eine-waschmaschine-a-bde88619-b129-4535-97f3-8d39f5e13bc4#ref=rss)
-### warentest
-
-* [https://www.spiegel.de/wirtschaft/service/stiftung-warentest-wird-60-gelegentlich-explodiert-mal-eine-waschmaschine](https://www.spiegel.de/wirtschaft/service/stiftung-warentest-wird-60-gelegentlich-explodiert-mal-eine-waschmaschine-a-bde88619-b129-4535-97f3-8d39f5e13bc4#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-die-sportschau-wird-weiterhin-bundesliga-zusammenfassungen-zeigen](https://www.spiegel.de/sport/fussball/fussball-die-sportschau-wird-weiterhin-bundesliga-zusammenfassungen-zeigen-a-11606313-3d26-4844-8fd7-92620f56f2fe#ref=rss)
 
