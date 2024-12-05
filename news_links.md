@@ -4,349 +4,408 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### olaf
+### laut
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-jan-marsalek-spotify-wrapped-2024](https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-jan-marsalek-spotify-wrapped-2024-a-f6d378af-b130-432e-bcfa-5a9b8907fc4e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-im-bundestag-der-kanzler-darf-wieder-sozi-sein](https://www.spiegel.de/politik/deutschland/olaf-scholz-im-bundestag-der-kanzler-darf-wieder-sozi-sein-a-5a84f70e-1e3f-4fd2-8c28-763803b87f60#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-patzer-beim-thema-suedkorea-opposition-nutzt-steilvorlage](https://www.spiegel.de/politik/deutschland/olaf-scholz-patzer-beim-thema-suedkorea-opposition-nutzt-steilvorlage-a-8baeddd7-2126-436e-8cab-c831f0d5524d#ref=rss)
-### scholz
+* [https://www.spiegel.de/panorama/justiz/hessen-mitarbeiterin-in-krankenhaus-mit-armbrust-erschossen-verdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/hessen-mitarbeiterin-in-krankenhaus-mit-armbrust-erschossen-verdaechtiger-festgenommen-a-5e247f6c-268d-4f0b-ad34-2721d31209fd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/nordrhein-westfalen-gartenmaerkte-duerfen-laut-bgh-sonntags-christbaumschmuck-verkaufen](https://www.spiegel.de/wirtschaft/service/nordrhein-westfalen-gartenmaerkte-duerfen-laut-bgh-sonntags-christbaumschmuck-verkaufen-a-a3b56a1c-1f9b-44ad-bbdf-d8bb4b8e7bfb#ref=rss)
+* [https://www.spiegel.de/panorama/taylor-swift-und-the-eras-tour-book-fans-beschweren-sich-ueber-fehler](https://www.spiegel.de/panorama/taylor-swift-und-the-eras-tour-book-fans-beschweren-sich-ueber-fehler-a-e4c362d4-b10a-4199-8093-d1fa461ff28b#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-kaempfe-treiben-offenbar-150-000-menschen-in-die-flucht-rebellen-und-dschihadisten-auf-dem-vormarsch](https://www.spiegel.de/ausland/syrien-kaempfe-treiben-offenbar-150-000-menschen-in-die-flucht-rebellen-und-dschihadisten-auf-dem-vormarsch-a-1ede5b1c-d8ef-474e-bee0-2d668c69f501#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-jan-marsalek-spotify-wrapped-2024](https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-jan-marsalek-spotify-wrapped-2024-a-f6d378af-b130-432e-bcfa-5a9b8907fc4e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-im-bundestag-der-kanzler-darf-wieder-sozi-sein](https://www.spiegel.de/politik/deutschland/olaf-scholz-im-bundestag-der-kanzler-darf-wieder-sozi-sein-a-5a84f70e-1e3f-4fd2-8c28-763803b87f60#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-patzer-beim-thema-suedkorea-opposition-nutzt-steilvorlage](https://www.spiegel.de/politik/deutschland/olaf-scholz-patzer-beim-thema-suedkorea-opposition-nutzt-steilvorlage-a-8baeddd7-2126-436e-8cab-c831f0d5524d#ref=rss)
-### opposition
+* [https://www.spiegel.de/wirtschaft/unternehmen/ubs-billionaire-ambitions-report-vermoegen-der-milliardaere-in-10-jahren-mehr-als-verdoppelt](https://www.spiegel.de/wirtschaft/unternehmen/ubs-billionaire-ambitions-report-vermoegen-der-milliardaere-in-10-jahren-mehr-als-verdoppelt-a-62d88126-e3f3-4f23-a22a-024eaaec5e79#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/arktis-koennte-schon-2027-tageweise-eisfrei-sein](https://www.spiegel.de/wissenschaft/natur/arktis-koennte-schon-2027-tageweise-eisfrei-sein-a-ad4ed161-f265-4fbc-b16b-e0026a721169#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/angela-merkel-freiheit-erinnerungen-1954-2021-ist-erfolgreichstes-buch-des-jahres](https://www.spiegel.de/kultur/literatur/angela-merkel-freiheit-erinnerungen-1954-2021-ist-erfolgreichstes-buch-des-jahres-a-97246804-c3bb-4488-940b-3f2b47cf0a45#ref=rss)
+* [https://www.spiegel.de/familie/adventskalender-21-mal-gemeinsame-zeit-3-mal-knete](https://www.spiegel.de/familie/adventskalender-21-mal-gemeinsame-zeit-3-mal-knete-a-f864cf1f-9cde-4841-a4cc-c6cc6608863f#ref=rss)
+### benko
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-jan-marsalek-spotify-wrapped-2024](https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-jan-marsalek-spotify-wrapped-2024-a-f6d378af-b130-432e-bcfa-5a9b8907fc4e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-patzer-beim-thema-suedkorea-opposition-nutzt-steilvorlage](https://www.spiegel.de/politik/deutschland/olaf-scholz-patzer-beim-thema-suedkorea-opposition-nutzt-steilvorlage-a-8baeddd7-2126-436e-8cab-c831f0d5524d#ref=rss)
-* [https://www.spiegel.de/ausland/georgien-oppositionspolitiker-nika-gwaramia-offerbar-bewusstlos-geschlagen-und-festgenommen](https://www.spiegel.de/ausland/georgien-oppositionspolitiker-nika-gwaramia-offerbar-bewusstlos-geschlagen-und-festgenommen-a-46f7da79-5d41-4c4c-9fed-9a53f6e76f89#ref=rss)
-### kanzler
+* [https://www.spiegel.de/wirtschaft/rene-benko-italienische-ermittler-sehen-benko-im-zentrum-mafioeser-methoden](https://www.spiegel.de/wirtschaft/rene-benko-italienische-ermittler-sehen-benko-im-zentrum-mafioeser-methoden-a-40c5eeb9-1f1b-45ee-851f-cc90a4bd1fab#ref=rss)
+### ermittelt
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-jan-marsalek-spotify-wrapped-2024](https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-jan-marsalek-spotify-wrapped-2024-a-f6d378af-b130-432e-bcfa-5a9b8907fc4e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-im-bundestag-der-kanzler-darf-wieder-sozi-sein](https://www.spiegel.de/politik/deutschland/olaf-scholz-im-bundestag-der-kanzler-darf-wieder-sozi-sein-a-5a84f70e-1e3f-4fd2-8c28-763803b87f60#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-patzer-beim-thema-suedkorea-opposition-nutzt-steilvorlage](https://www.spiegel.de/politik/deutschland/olaf-scholz-patzer-beim-thema-suedkorea-opposition-nutzt-steilvorlage-a-8baeddd7-2126-436e-8cab-c831f0d5524d#ref=rss)
-### offenbar
+* [https://www.spiegel.de/wirtschaft/rene-benko-italienische-ermittler-sehen-benko-im-zentrum-mafioeser-methoden](https://www.spiegel.de/wirtschaft/rene-benko-italienische-ermittler-sehen-benko-im-zentrum-mafioeser-methoden-a-40c5eeb9-1f1b-45ee-851f-cc90a4bd1fab#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/continental-staatsanwaltschaft-erhebt-anklage-gegen-ex-chef-karl-thomas-neumann](https://www.spiegel.de/wirtschaft/unternehmen/continental-staatsanwaltschaft-erhebt-anklage-gegen-ex-chef-karl-thomas-neumann-a-9ef1049f-2bc3-4d2d-9234-16a7411215c3#ref=rss)
+* [https://www.spiegel.de/ausland/suedkorea-polizei-ermittelt-gegen-praesident-yoon-wegen-aufruhrs](https://www.spiegel.de/ausland/suedkorea-polizei-ermittelt-gegen-praesident-yoon-wegen-aufruhrs-a-ebf756ef-fc1b-4683-a67f-8a687d6b7ded#ref=rss)
+### pistorius
 
-* [https://www.spiegel.de/panorama/justiz/berlin-vater-soll-tochter-tausendfach-missbraucht-haben](https://www.spiegel.de/panorama/justiz/berlin-vater-soll-tochter-tausendfach-missbraucht-haben-a-9c38321b-db9b-4845-a817-30ca0ea4b0eb#ref=rss)
-* [https://www.spiegel.de/ausland/georgien-oppositionspolitiker-nika-gwaramia-offerbar-bewusstlos-geschlagen-und-festgenommen](https://www.spiegel.de/ausland/georgien-oppositionspolitiker-nika-gwaramia-offerbar-bewusstlos-geschlagen-und-festgenommen-a-46f7da79-5d41-4c4c-9fed-9a53f6e76f89#ref=rss)
-* [https://www.spiegel.de/ausland/iran-friedensnobelpreistraegerin-narges-mohammadi-voruebergehend-aus-gefaengnis-entlassen](https://www.spiegel.de/ausland/iran-friedensnobelpreistraegerin-narges-mohammadi-voruebergehend-aus-gefaengnis-entlassen-a-14d3c41d-9501-459b-bd76-6ccc8c429a44#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/schoeneck-vogtland-20-jaehriger-soll-mit-softairwaffe-auf-buergermeister-geschossen-haben](https://www.spiegel.de/panorama/justiz/schoeneck-vogtland-20-jaehriger-soll-mit-softairwaffe-auf-buergermeister-geschossen-haben-a-4f0f03e5-f2f4-4564-a49e-4e7f9b576618#ref=rss)
-### united
-
-* [https://www.spiegel.de/sport/fussball/fussball-wegen-noussair-mazraoui-manchester-united-verzichtet-auf-regenbogenjacken](https://www.spiegel.de/sport/fussball/fussball-wegen-noussair-mazraoui-manchester-united-verzichtet-auf-regenbogenjacken-a-3edaa7f7-02cd-4324-b875-46289bc12a48#ref=rss)
-* [https://www.spiegel.de/panorama/new-york-united-health-ceo-brian-thompson-erschossen](https://www.spiegel.de/panorama/new-york-united-health-ceo-brian-thompson-erschossen-a-1c98346c-bfa1-4a29-a0fd-5f5449a85af1#ref=rss)
+* [https://www.spiegel.de/ausland/boris-pistorius-warnt-vor-russlands-militaerischen-provokationen-in-der-ostsee](https://www.spiegel.de/ausland/boris-pistorius-warnt-vor-russlands-militaerischen-provokationen-in-der-ostsee-a-c2631036-c040-4813-85b7-5665e8320905#ref=rss)
 ### frauen
 
-* [https://www.spiegel.de/ausland/libgefangene-frauen-im-kafala-system-moderne-sklaverei-im-libanon](https://www.spiegel.de/ausland/libgefangene-frauen-im-kafala-system-moderne-sklaverei-im-libanon-a-725f226d-d553-4d52-b9a9-60270c0c266e#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/klaasohm-auf-borkum-interview-mit-ethnologin-heidrun-alzheimer-zu-frauenfeindlichen-braeuchen](https://www.spiegel.de/panorama/gesellschaft/klaasohm-auf-borkum-interview-mit-ethnologin-heidrun-alzheimer-zu-frauenfeindlichen-braeuchen-a-44d9f05e-b51f-41e7-9f43-d89149c7e10f#ref=rss)
-* [https://www.spiegel.de/kultur/musik/taylor-swift-und-co-frauen-an-der-spitze-des-spotify-jahresrueckblicks-2024](https://www.spiegel.de/kultur/musik/taylor-swift-und-co-frauen-an-der-spitze-des-spotify-jahresrueckblicks-2024-a-03c5e326-141c-4e13-8bc2-2f93f3d190fc#ref=rss)
-### usa
+* [https://www.spiegel.de/politik/deutschland/paragraf-218-gebt-den-frauen-selbstbestimmung-beim-schwangerschaftsabbruch-kommentar](https://www.spiegel.de/politik/deutschland/paragraf-218-gebt-den-frauen-selbstbestimmung-beim-schwangerschaftsabbruch-kommentar-a-d7238940-3569-48c6-914b-b2ab4af264e9#ref=rss)
+* [https://www.spiegel.de/partnerschaft/womeninmalefields-es-kommt-auf-maenner-an-die-sich-fuer-frauen-positionieren](https://www.spiegel.de/partnerschaft/womeninmalefields-es-kommt-auf-maenner-an-die-sich-fuer-frauen-positionieren-a-6752c796-a0e4-446d-8ab7-61a54f890a8f#ref=rss)
+### union
 
-* [https://www.spiegel.de/sport/fussball/fifa-klub-wm-dazn-zeigt-alle-spiele-des-xxl-turniers-kostenfrei](https://www.spiegel.de/sport/fussball/fifa-klub-wm-dazn-zeigt-alle-spiele-des-xxl-turniers-kostenfrei-a-03641256-0cfc-446c-b29d-7f648fdb507f#ref=rss)
-* [https://www.spiegel.de/ausland/usa-demokraten-sichern-sich-letzten-offenen-sitz-im-repraesentantenhaus](https://www.spiegel.de/ausland/usa-demokraten-sichern-sich-letzten-offenen-sitz-im-repraesentantenhaus-a-9aa34444-899a-4dde-98e2-71347be62816#ref=rss)
-### deutschland
+* [https://www.spiegel.de/politik/deutschland/paragraf-218-gebt-den-frauen-selbstbestimmung-beim-schwangerschaftsabbruch-kommentar](https://www.spiegel.de/politik/deutschland/paragraf-218-gebt-den-frauen-selbstbestimmung-beim-schwangerschaftsabbruch-kommentar-a-d7238940-3569-48c6-914b-b2ab4af264e9#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/angela-merkel-freiheit-erinnerungen-1954-2021-ist-erfolgreichstes-buch-des-jahres](https://www.spiegel.de/kultur/literatur/angela-merkel-freiheit-erinnerungen-1954-2021-ist-erfolgreichstes-buch-des-jahres-a-97246804-c3bb-4488-940b-3f2b47cf0a45#ref=rss)
+* [https://www.spiegel.de/ausland/russland-aussenminister-lawrow-zu-osze-treffen-in-malta-gelandet-erste-einreise-in-eu-land-seit-beginn-der-invasion](https://www.spiegel.de/ausland/russland-aussenminister-lawrow-zu-osze-treffen-in-malta-gelandet-erste-einreise-in-eu-land-seit-beginn-der-invasion-a-5252f21d-38f7-4e9a-aa9d-0080b8361611#ref=rss)
+### the
 
-* [https://www.spiegel.de/sport/fussball/fifa-klub-wm-dazn-zeigt-alle-spiele-des-xxl-turniers-kostenfrei](https://www.spiegel.de/sport/fussball/fifa-klub-wm-dazn-zeigt-alle-spiele-des-xxl-turniers-kostenfrei-a-03641256-0cfc-446c-b29d-7f648fdb507f#ref=rss)
-* [https://www.spiegel.de/gesundheit/psychologie-resultate-der-copsy-studie-ein-fuenftel-der-kinder-und-jugendlichen-in-deutschland-ist-psychisch-belastet](https://www.spiegel.de/gesundheit/psychologie-resultate-der-copsy-studie-ein-fuenftel-der-kinder-und-jugendlichen-in-deutschland-ist-psychisch-belastet-a-d6aa3443-0375-4b12-8e19-7e66c0e3bb4d#ref=rss)
-### dortmund
+* [https://www.spiegel.de/panorama/taylor-swift-und-the-eras-tour-book-fans-beschweren-sich-ueber-fehler](https://www.spiegel.de/panorama/taylor-swift-und-the-eras-tour-book-fans-beschweren-sich-ueber-fehler-a-e4c362d4-b10a-4199-8093-d1fa461ff28b#ref=rss)
+### tour
 
-* [https://www.spiegel.de/sport/fussball/fifa-klub-wm-dazn-zeigt-alle-spiele-des-xxl-turniers-kostenfrei](https://www.spiegel.de/sport/fussball/fifa-klub-wm-dazn-zeigt-alle-spiele-des-xxl-turniers-kostenfrei-a-03641256-0cfc-446c-b29d-7f648fdb507f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/dortmund-tod-von-mouhamed-drame-verteidiger-bezeichnet-schuesse-als-rechtmaessig](https://www.spiegel.de/panorama/justiz/dortmund-tod-von-mouhamed-drame-verteidiger-bezeichnet-schuesse-als-rechtmaessig-a-83bf0c88-5081-47e2-839f-de91c1db1165#ref=rss)
-### festgenommen
+* [https://www.spiegel.de/panorama/taylor-swift-und-the-eras-tour-book-fans-beschweren-sich-ueber-fehler](https://www.spiegel.de/panorama/taylor-swift-und-the-eras-tour-book-fans-beschweren-sich-ueber-fehler-a-e4c362d4-b10a-4199-8093-d1fa461ff28b#ref=rss)
+### book
 
-* [https://www.spiegel.de/ausland/westjordanland-dutzende-siedler-sollen-doerfer-verwuestet-haben](https://www.spiegel.de/ausland/westjordanland-dutzende-siedler-sollen-doerfer-verwuestet-haben-a-9f15d59a-255c-4d94-a6ce-d70279bfd885#ref=rss)
-* [https://www.spiegel.de/ausland/georgien-oppositionspolitiker-nika-gwaramia-offerbar-bewusstlos-geschlagen-und-festgenommen](https://www.spiegel.de/ausland/georgien-oppositionspolitiker-nika-gwaramia-offerbar-bewusstlos-geschlagen-und-festgenommen-a-46f7da79-5d41-4c4c-9fed-9a53f6e76f89#ref=rss)
-### bundestag
+* [https://www.spiegel.de/panorama/taylor-swift-und-the-eras-tour-book-fans-beschweren-sich-ueber-fehler](https://www.spiegel.de/panorama/taylor-swift-und-the-eras-tour-book-fans-beschweren-sich-ueber-fehler-a-e4c362d4-b10a-4199-8093-d1fa461ff28b#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-jan-marsalek-spotify-wrapped-2024](https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-jan-marsalek-spotify-wrapped-2024-a-f6d378af-b130-432e-bcfa-5a9b8907fc4e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-im-bundestag-der-kanzler-darf-wieder-sozi-sein](https://www.spiegel.de/politik/deutschland/olaf-scholz-im-bundestag-der-kanzler-darf-wieder-sozi-sein-a-5a84f70e-1e3f-4fd2-8c28-763803b87f60#ref=rss)
-### kinder
+* [https://www.spiegel.de/panorama/taylor-swift-und-the-eras-tour-book-fans-beschweren-sich-ueber-fehler](https://www.spiegel.de/panorama/taylor-swift-und-the-eras-tour-book-fans-beschweren-sich-ueber-fehler-a-e4c362d4-b10a-4199-8093-d1fa461ff28b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ubs-billionaire-ambitions-report-vermoegen-der-milliardaere-in-10-jahren-mehr-als-verdoppelt](https://www.spiegel.de/wirtschaft/unternehmen/ubs-billionaire-ambitions-report-vermoegen-der-milliardaere-in-10-jahren-mehr-als-verdoppelt-a-62d88126-e3f3-4f23-a22a-024eaaec5e79#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-kaempfe-treiben-offenbar-150-000-menschen-in-die-flucht-rebellen-und-dschihadisten-auf-dem-vormarsch](https://www.spiegel.de/ausland/syrien-kaempfe-treiben-offenbar-150-000-menschen-in-die-flucht-rebellen-und-dschihadisten-auf-dem-vormarsch-a-1ede5b1c-d8ef-474e-bee0-2d668c69f501#ref=rss)
+### buch
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-jan-marsalek-spotify-wrapped-2024](https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-jan-marsalek-spotify-wrapped-2024-a-f6d378af-b130-432e-bcfa-5a9b8907fc4e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/grippe-symptome-raetselhafte-todesfaelle-im-kongo-forscher-auf-der-suche-nach-ursache](https://www.spiegel.de/wissenschaft/grippe-symptome-raetselhafte-todesfaelle-im-kongo-forscher-auf-der-suche-nach-ursache-a-c84410ef-929b-4d9e-9f30-f6a121c65521#ref=rss)
-* [https://www.spiegel.de/gesundheit/psychologie-resultate-der-copsy-studie-ein-fuenftel-der-kinder-und-jugendlichen-in-deutschland-ist-psychisch-belastet](https://www.spiegel.de/gesundheit/psychologie-resultate-der-copsy-studie-ein-fuenftel-der-kinder-und-jugendlichen-in-deutschland-ist-psychisch-belastet-a-d6aa3443-0375-4b12-8e19-7e66c0e3bb4d#ref=rss)
-### lage
+* [https://www.spiegel.de/panorama/taylor-swift-und-the-eras-tour-book-fans-beschweren-sich-ueber-fehler](https://www.spiegel.de/panorama/taylor-swift-und-the-eras-tour-book-fans-beschweren-sich-ueber-fehler-a-e4c362d4-b10a-4199-8093-d1fa461ff28b#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/angela-merkel-freiheit-erinnerungen-1954-2021-ist-erfolgreichstes-buch-des-jahres](https://www.spiegel.de/kultur/literatur/angela-merkel-freiheit-erinnerungen-1954-2021-ist-erfolgreichstes-buch-des-jahres-a-97246804-c3bb-4488-940b-3f2b47cf0a45#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-jan-marsalek-spotify-wrapped-2024](https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-jan-marsalek-spotify-wrapped-2024-a-f6d378af-b130-432e-bcfa-5a9b8907fc4e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-patzer-beim-thema-suedkorea-opposition-nutzt-steilvorlage](https://www.spiegel.de/politik/deutschland/olaf-scholz-patzer-beim-thema-suedkorea-opposition-nutzt-steilvorlage-a-8baeddd7-2126-436e-8cab-c831f0d5524d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/grippe-symptome-raetselhafte-todesfaelle-im-kongo-forscher-auf-der-suche-nach-ursache](https://www.spiegel.de/wissenschaft/grippe-symptome-raetselhafte-todesfaelle-im-kongo-forscher-auf-der-suche-nach-ursache-a-c84410ef-929b-4d9e-9f30-f6a121c65521#ref=rss)
-### gukesh
+* [https://www.spiegel.de/start/berufseinstieg-als-balletttaenzerin-ueber-harte-aufnahmetests-und-den-traum-vom-tanzen](https://www.spiegel.de/start/berufseinstieg-als-balletttaenzerin-ueber-harte-aufnahmetests-und-den-traum-vom-tanzen-a-f2596501-3408-47e3-9415-817c631a6694#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ubs-billionaire-ambitions-report-vermoegen-der-milliardaere-in-10-jahren-mehr-als-verdoppelt](https://www.spiegel.de/wirtschaft/unternehmen/ubs-billionaire-ambitions-report-vermoegen-der-milliardaere-in-10-jahren-mehr-als-verdoppelt-a-62d88126-e3f3-4f23-a22a-024eaaec5e79#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/continental-staatsanwaltschaft-erhebt-anklage-gegen-ex-chef-karl-thomas-neumann](https://www.spiegel.de/wirtschaft/unternehmen/continental-staatsanwaltschaft-erhebt-anklage-gegen-ex-chef-karl-thomas-neumann-a-9ef1049f-2bc3-4d2d-9234-16a7411215c3#ref=rss)
+### ich
 
-* [https://www.spiegel.de/sport/schach-wm-dommaraju-gukesh-schlaegt-remismoeglichkeit-aus-grossmeister-reagieren-fassungslos](https://www.spiegel.de/sport/schach-wm-dommaraju-gukesh-schlaegt-remismoeglichkeit-aus-grossmeister-reagieren-fassungslos-a-98ee919c-beac-482c-af8d-1478c5ba244d#ref=rss)
-### anders
+* [https://www.spiegel.de/familie/adventskalender-21-mal-gemeinsame-zeit-3-mal-knete](https://www.spiegel.de/familie/adventskalender-21-mal-gemeinsame-zeit-3-mal-knete-a-f864cf1f-9cde-4841-a4cc-c6cc6608863f#ref=rss)
+### lufthansa
 
-* [https://www.spiegel.de/panorama/justiz/norwegen-anders-breivik-scheitert-mit-klage-auf-vorzeitige-entlassung-aus-der-haft](https://www.spiegel.de/panorama/justiz/norwegen-anders-breivik-scheitert-mit-klage-auf-vorzeitige-entlassung-aus-der-haft-a-2b4f8bc7-8447-46a1-a9c2-009ef5be7532#ref=rss)
-### breivik
+* [https://www.spiegel.de/wirtschaft/lufthansa-berater-von-mckinsey-bcg-und-anderen-sollen-rausgeworfen-werden](https://www.spiegel.de/wirtschaft/lufthansa-berater-von-mckinsey-bcg-und-anderen-sollen-rausgeworfen-werden-a-c97acd0b-668d-4175-a304-1bcf49659a46#ref=rss)
+### berater
 
-* [https://www.spiegel.de/panorama/justiz/norwegen-anders-breivik-scheitert-mit-klage-auf-vorzeitige-entlassung-aus-der-haft](https://www.spiegel.de/panorama/justiz/norwegen-anders-breivik-scheitert-mit-klage-auf-vorzeitige-entlassung-aus-der-haft-a-2b4f8bc7-8447-46a1-a9c2-009ef5be7532#ref=rss)
-### zweiten
+* [https://www.spiegel.de/wirtschaft/lufthansa-berater-von-mckinsey-bcg-und-anderen-sollen-rausgeworfen-werden](https://www.spiegel.de/wirtschaft/lufthansa-berater-von-mckinsey-bcg-und-anderen-sollen-rausgeworfen-werden-a-c97acd0b-668d-4175-a304-1bcf49659a46#ref=rss)
+### anderen
 
-* [https://www.spiegel.de/panorama/justiz/norwegen-anders-breivik-scheitert-mit-klage-auf-vorzeitige-entlassung-aus-der-haft](https://www.spiegel.de/panorama/justiz/norwegen-anders-breivik-scheitert-mit-klage-auf-vorzeitige-entlassung-aus-der-haft-a-2b4f8bc7-8447-46a1-a9c2-009ef5be7532#ref=rss)
-### bordesholm
+* [https://www.spiegel.de/wirtschaft/lufthansa-berater-von-mckinsey-bcg-und-anderen-sollen-rausgeworfen-werden](https://www.spiegel.de/wirtschaft/lufthansa-berater-von-mckinsey-bcg-und-anderen-sollen-rausgeworfen-werden-a-c97acd0b-668d-4175-a304-1bcf49659a46#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/nordrhein-westfalen-gartenmaerkte-duerfen-laut-bgh-sonntags-christbaumschmuck-verkaufen](https://www.spiegel.de/wirtschaft/service/nordrhein-westfalen-gartenmaerkte-duerfen-laut-bgh-sonntags-christbaumschmuck-verkaufen-a-a3b56a1c-1f9b-44ad-bbdf-d8bb4b8e7bfb#ref=rss)
+### krise
 
-* [https://www.spiegel.de/panorama/bordesholm-landfrauen-sagen-kuchenverkauf-wegen-vorschriften-ab](https://www.spiegel.de/panorama/bordesholm-landfrauen-sagen-kuchenverkauf-wegen-vorschriften-ab-a-30b2e1d5-2f64-4187-a7a2-374a48b3eab0#ref=rss)
-### landfrauen
+* [https://www.spiegel.de/wirtschaft/lufthansa-berater-von-mckinsey-bcg-und-anderen-sollen-rausgeworfen-werden](https://www.spiegel.de/wirtschaft/lufthansa-berater-von-mckinsey-bcg-und-anderen-sollen-rausgeworfen-werden-a-c97acd0b-668d-4175-a304-1bcf49659a46#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-franz-wagner-fuehrt-orlando-magic-mit-35-punkten-zum-sieg-la-lakers-in-der-krise](https://www.spiegel.de/sport/basketball/nba-franz-wagner-fuehrt-orlando-magic-mit-35-punkten-zum-sieg-la-lakers-in-der-krise-a-599f3a3f-eb7d-465c-9f00-26e5452f3bba#ref=rss)
+### hessen
 
-* [https://www.spiegel.de/panorama/bordesholm-landfrauen-sagen-kuchenverkauf-wegen-vorschriften-ab](https://www.spiegel.de/panorama/bordesholm-landfrauen-sagen-kuchenverkauf-wegen-vorschriften-ab-a-30b2e1d5-2f64-4187-a7a2-374a48b3eab0#ref=rss)
-### kuchenverkauf
+* [https://www.spiegel.de/panorama/justiz/hessen-mitarbeiterin-in-krankenhaus-mit-armbrust-erschossen-verdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/hessen-mitarbeiterin-in-krankenhaus-mit-armbrust-erschossen-verdaechtiger-festgenommen-a-5e247f6c-268d-4f0b-ad34-2721d31209fd#ref=rss)
+### krankenhaus
 
-* [https://www.spiegel.de/panorama/bordesholm-landfrauen-sagen-kuchenverkauf-wegen-vorschriften-ab](https://www.spiegel.de/panorama/bordesholm-landfrauen-sagen-kuchenverkauf-wegen-vorschriften-ab-a-30b2e1d5-2f64-4187-a7a2-374a48b3eab0#ref=rss)
-### vorschriften
+* [https://www.spiegel.de/panorama/justiz/hessen-mitarbeiterin-in-krankenhaus-mit-armbrust-erschossen-verdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/hessen-mitarbeiterin-in-krankenhaus-mit-armbrust-erschossen-verdaechtiger-festgenommen-a-5e247f6c-268d-4f0b-ad34-2721d31209fd#ref=rss)
+### armbrust
 
-* [https://www.spiegel.de/panorama/bordesholm-landfrauen-sagen-kuchenverkauf-wegen-vorschriften-ab](https://www.spiegel.de/panorama/bordesholm-landfrauen-sagen-kuchenverkauf-wegen-vorschriften-ab-a-30b2e1d5-2f64-4187-a7a2-374a48b3eab0#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hessen-mitarbeiterin-in-krankenhaus-mit-armbrust-erschossen-verdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/hessen-mitarbeiterin-in-krankenhaus-mit-armbrust-erschossen-verdaechtiger-festgenommen-a-5e247f6c-268d-4f0b-ad34-2721d31209fd#ref=rss)
+### amazon
+
+* [https://www.spiegel.de/netzwelt/web/amazon-klage-wegen-langsamer-lieferungen-in-einkommensschwache-viertel](https://www.spiegel.de/netzwelt/web/amazon-klage-wegen-langsamer-lieferungen-in-einkommensschwache-viertel-a-63aff2a7-eaa0-4809-9cc4-88d91ce702e0#ref=rss)
+### of
+
+* [https://www.spiegel.de/netzwelt/web/amazon-klage-wegen-langsamer-lieferungen-in-einkommensschwache-viertel](https://www.spiegel.de/netzwelt/web/amazon-klage-wegen-langsamer-lieferungen-in-einkommensschwache-viertel-a-63aff2a7-eaa0-4809-9cc4-88d91ce702e0#ref=rss)
+* [https://www.spiegel.de/kultur/kino/die-saat-des-heiligen-feigenbaums-national-board-of-review-praemiert-deutschen-oscar-kandidaten-als-besten-internationalen-film](https://www.spiegel.de/kultur/kino/die-saat-des-heiligen-feigenbaums-national-board-of-review-praemiert-deutschen-oscar-kandidaten-als-besten-internationalen-film-a-510bdca0-6448-4530-92b4-380434b63bfd#ref=rss)
+### leben
+
+* [https://www.spiegel.de/netzwelt/web/amazon-klage-wegen-langsamer-lieferungen-in-einkommensschwache-viertel](https://www.spiegel.de/netzwelt/web/amazon-klage-wegen-langsamer-lieferungen-in-einkommensschwache-viertel-a-63aff2a7-eaa0-4809-9cc4-88d91ce702e0#ref=rss)
+* [https://www.spiegel.de/start/berufseinstieg-als-balletttaenzerin-ueber-harte-aufnahmetests-und-den-traum-vom-tanzen](https://www.spiegel.de/start/berufseinstieg-als-balletttaenzerin-ueber-harte-aufnahmetests-und-den-traum-vom-tanzen-a-f2596501-3408-47e3-9415-817c631a6694#ref=rss)
+### rené
+
+* [https://www.spiegel.de/wirtschaft/rene-benko-italienische-ermittler-sehen-benko-im-zentrum-mafioeser-methoden](https://www.spiegel.de/wirtschaft/rene-benko-italienische-ermittler-sehen-benko-im-zentrum-mafioeser-methoden-a-40c5eeb9-1f1b-45ee-851f-cc90a4bd1fab#ref=rss)
 ### sehen
 
-* [https://www.spiegel.de/panorama/bordesholm-landfrauen-sagen-kuchenverkauf-wegen-vorschriften-ab](https://www.spiegel.de/panorama/bordesholm-landfrauen-sagen-kuchenverkauf-wegen-vorschriften-ab-a-30b2e1d5-2f64-4187-a7a2-374a48b3eab0#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fifa-klub-wm-dazn-zeigt-alle-spiele-des-xxl-turniers-kostenfrei](https://www.spiegel.de/sport/fussball/fifa-klub-wm-dazn-zeigt-alle-spiele-des-xxl-turniers-kostenfrei-a-03641256-0cfc-446c-b29d-7f648fdb507f#ref=rss)
-### viele
+* [https://www.spiegel.de/wirtschaft/rene-benko-italienische-ermittler-sehen-benko-im-zentrum-mafioeser-methoden](https://www.spiegel.de/wirtschaft/rene-benko-italienische-ermittler-sehen-benko-im-zentrum-mafioeser-methoden-a-40c5eeb9-1f1b-45ee-851f-cc90a4bd1fab#ref=rss)
+### warnt
 
-* [https://www.spiegel.de/panorama/bordesholm-landfrauen-sagen-kuchenverkauf-wegen-vorschriften-ab](https://www.spiegel.de/panorama/bordesholm-landfrauen-sagen-kuchenverkauf-wegen-vorschriften-ab-a-30b2e1d5-2f64-4187-a7a2-374a48b3eab0#ref=rss)
-* [https://www.spiegel.de/ausland/libgefangene-frauen-im-kafala-system-moderne-sklaverei-im-libanon](https://www.spiegel.de/ausland/libgefangene-frauen-im-kafala-system-moderne-sklaverei-im-libanon-a-725f226d-d553-4d52-b9a9-60270c0c266e#ref=rss)
-### entscheidung
+* [https://www.spiegel.de/ausland/boris-pistorius-warnt-vor-russlands-militaerischen-provokationen-in-der-ostsee](https://www.spiegel.de/ausland/boris-pistorius-warnt-vor-russlands-militaerischen-provokationen-in-der-ostsee-a-c2631036-c040-4813-85b7-5665e8320905#ref=rss)
+### russlands
 
-* [https://www.spiegel.de/panorama/bordesholm-landfrauen-sagen-kuchenverkauf-wegen-vorschriften-ab](https://www.spiegel.de/panorama/bordesholm-landfrauen-sagen-kuchenverkauf-wegen-vorschriften-ab-a-30b2e1d5-2f64-4187-a7a2-374a48b3eab0#ref=rss)
-* [https://www.spiegel.de/ausland/usa-demokraten-sichern-sich-letzten-offenen-sitz-im-repraesentantenhaus](https://www.spiegel.de/ausland/usa-demokraten-sichern-sich-letzten-offenen-sitz-im-repraesentantenhaus-a-9aa34444-899a-4dde-98e2-71347be62816#ref=rss)
-### libanon
+* [https://www.spiegel.de/ausland/boris-pistorius-warnt-vor-russlands-militaerischen-provokationen-in-der-ostsee](https://www.spiegel.de/ausland/boris-pistorius-warnt-vor-russlands-militaerischen-provokationen-in-der-ostsee-a-c2631036-c040-4813-85b7-5665e8320905#ref=rss)
+### militärischen
 
-* [https://www.spiegel.de/ausland/libgefangene-frauen-im-kafala-system-moderne-sklaverei-im-libanon](https://www.spiegel.de/ausland/libgefangene-frauen-im-kafala-system-moderne-sklaverei-im-libanon-a-725f226d-d553-4d52-b9a9-60270c0c266e#ref=rss)
-### spiele
+* [https://www.spiegel.de/ausland/boris-pistorius-warnt-vor-russlands-militaerischen-provokationen-in-der-ostsee](https://www.spiegel.de/ausland/boris-pistorius-warnt-vor-russlands-militaerischen-provokationen-in-der-ostsee-a-c2631036-c040-4813-85b7-5665e8320905#ref=rss)
+### provokationen
 
-* [https://www.spiegel.de/sport/fussball/fifa-klub-wm-dazn-zeigt-alle-spiele-des-xxl-turniers-kostenfrei](https://www.spiegel.de/sport/fussball/fifa-klub-wm-dazn-zeigt-alle-spiele-des-xxl-turniers-kostenfrei-a-03641256-0cfc-446c-b29d-7f648fdb507f#ref=rss)
-### westjordanland
+* [https://www.spiegel.de/ausland/boris-pistorius-warnt-vor-russlands-militaerischen-provokationen-in-der-ostsee](https://www.spiegel.de/ausland/boris-pistorius-warnt-vor-russlands-militaerischen-provokationen-in-der-ostsee-a-c2631036-c040-4813-85b7-5665e8320905#ref=rss)
+### ostsee
 
-* [https://www.spiegel.de/ausland/westjordanland-dutzende-siedler-sollen-doerfer-verwuestet-haben](https://www.spiegel.de/ausland/westjordanland-dutzende-siedler-sollen-doerfer-verwuestet-haben-a-9f15d59a-255c-4d94-a6ce-d70279bfd885#ref=rss)
-### dutzende
+* [https://www.spiegel.de/ausland/boris-pistorius-warnt-vor-russlands-militaerischen-provokationen-in-der-ostsee](https://www.spiegel.de/ausland/boris-pistorius-warnt-vor-russlands-militaerischen-provokationen-in-der-ostsee-a-c2631036-c040-4813-85b7-5665e8320905#ref=rss)
+### wir
 
-* [https://www.spiegel.de/ausland/westjordanland-dutzende-siedler-sollen-doerfer-verwuestet-haben](https://www.spiegel.de/ausland/westjordanland-dutzende-siedler-sollen-doerfer-verwuestet-haben-a-9f15d59a-255c-4d94-a6ce-d70279bfd885#ref=rss)
-* [https://www.spiegel.de/wissenschaft/grippe-symptome-raetselhafte-todesfaelle-im-kongo-forscher-auf-der-suche-nach-ursache](https://www.spiegel.de/wissenschaft/grippe-symptome-raetselhafte-todesfaelle-im-kongo-forscher-auf-der-suche-nach-ursache-a-c84410ef-929b-4d9e-9f30-f6a121c65521#ref=rss)
-### siedler
+* [https://www.spiegel.de/ausland/boris-pistorius-warnt-vor-russlands-militaerischen-provokationen-in-der-ostsee](https://www.spiegel.de/ausland/boris-pistorius-warnt-vor-russlands-militaerischen-provokationen-in-der-ostsee-a-c2631036-c040-4813-85b7-5665e8320905#ref=rss)
+* [https://www.spiegel.de/partnerschaft/homo-ehe-penis-und-liebe-an-weihnachten-wie-weit-wir-fuer-die-liebe-gehen](https://www.spiegel.de/partnerschaft/homo-ehe-penis-und-liebe-an-weihnachten-wie-weit-wir-fuer-die-liebe-gehen-a-1b42c0a2-2c11-498f-b0e8-8ecb53731fb6#ref=rss)
+### spdobmann
 
-* [https://www.spiegel.de/ausland/westjordanland-dutzende-siedler-sollen-doerfer-verwuestet-haben](https://www.spiegel.de/ausland/westjordanland-dutzende-siedler-sollen-doerfer-verwuestet-haben-a-9f15d59a-255c-4d94-a6ce-d70279bfd885#ref=rss)
-### verwüstet
+* [https://www.spiegel.de/panorama/cum-ex-skandal-spd-obmann-milan-pein-ueber-olaf-scholz-auftritte-im-hamburger-untersuchungsausschuss](https://www.spiegel.de/panorama/cum-ex-skandal-spd-obmann-milan-pein-ueber-olaf-scholz-auftritte-im-hamburger-untersuchungsausschuss-a-535e7d4d-96db-405f-bf1c-7bc02f8d9d83#ref=rss)
+### milan
 
-* [https://www.spiegel.de/ausland/westjordanland-dutzende-siedler-sollen-doerfer-verwuestet-haben](https://www.spiegel.de/ausland/westjordanland-dutzende-siedler-sollen-doerfer-verwuestet-haben-a-9f15d59a-255c-4d94-a6ce-d70279bfd885#ref=rss)
-### jan
+* [https://www.spiegel.de/panorama/cum-ex-skandal-spd-obmann-milan-pein-ueber-olaf-scholz-auftritte-im-hamburger-untersuchungsausschuss](https://www.spiegel.de/panorama/cum-ex-skandal-spd-obmann-milan-pein-ueber-olaf-scholz-auftritte-im-hamburger-untersuchungsausschuss-a-535e7d4d-96db-405f-bf1c-7bc02f8d9d83#ref=rss)
+### pein
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-jan-marsalek-spotify-wrapped-2024](https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-jan-marsalek-spotify-wrapped-2024-a-f6d378af-b130-432e-bcfa-5a9b8907fc4e#ref=rss)
-### marsalek
+* [https://www.spiegel.de/panorama/cum-ex-skandal-spd-obmann-milan-pein-ueber-olaf-scholz-auftritte-im-hamburger-untersuchungsausschuss](https://www.spiegel.de/panorama/cum-ex-skandal-spd-obmann-milan-pein-ueber-olaf-scholz-auftritte-im-hamburger-untersuchungsausschuss-a-535e7d4d-96db-405f-bf1c-7bc02f8d9d83#ref=rss)
+### olaf
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-jan-marsalek-spotify-wrapped-2024](https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-jan-marsalek-spotify-wrapped-2024-a-f6d378af-b130-432e-bcfa-5a9b8907fc4e#ref=rss)
-### 2024
+* [https://www.spiegel.de/panorama/cum-ex-skandal-spd-obmann-milan-pein-ueber-olaf-scholz-auftritte-im-hamburger-untersuchungsausschuss](https://www.spiegel.de/panorama/cum-ex-skandal-spd-obmann-milan-pein-ueber-olaf-scholz-auftritte-im-hamburger-untersuchungsausschuss-a-535e7d4d-96db-405f-bf1c-7bc02f8d9d83#ref=rss)
+### hamburger
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-jan-marsalek-spotify-wrapped-2024](https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-jan-marsalek-spotify-wrapped-2024-a-f6d378af-b130-432e-bcfa-5a9b8907fc4e#ref=rss)
-* [https://www.spiegel.de/kultur/musik/taylor-swift-und-co-frauen-an-der-spitze-des-spotify-jahresrueckblicks-2024](https://www.spiegel.de/kultur/musik/taylor-swift-und-co-frauen-an-der-spitze-des-spotify-jahresrueckblicks-2024-a-03c5e326-141c-4e13-8bc2-2f93f3d190fc#ref=rss)
-### keir
+* [https://www.spiegel.de/panorama/cum-ex-skandal-spd-obmann-milan-pein-ueber-olaf-scholz-auftritte-im-hamburger-untersuchungsausschuss](https://www.spiegel.de/panorama/cum-ex-skandal-spd-obmann-milan-pein-ueber-olaf-scholz-auftritte-im-hamburger-untersuchungsausschuss-a-535e7d4d-96db-405f-bf1c-7bc02f8d9d83#ref=rss)
+### untersuchungsausschuss
 
-* [https://www.spiegel.de/kultur/keir-starmer-99-jaehrige-rentnerin-reist-8000-kilometer-fuer-treffen-doch-der-britische-premier-blockt-ab](https://www.spiegel.de/kultur/keir-starmer-99-jaehrige-rentnerin-reist-8000-kilometer-fuer-treffen-doch-der-britische-premier-blockt-ab-a-91b2a7ff-2956-4faf-b2c4-544b64fa3dae#ref=rss)
-### starmer
+* [https://www.spiegel.de/panorama/cum-ex-skandal-spd-obmann-milan-pein-ueber-olaf-scholz-auftritte-im-hamburger-untersuchungsausschuss](https://www.spiegel.de/panorama/cum-ex-skandal-spd-obmann-milan-pein-ueber-olaf-scholz-auftritte-im-hamburger-untersuchungsausschuss-a-535e7d4d-96db-405f-bf1c-7bc02f8d9d83#ref=rss)
+### nordrheinwestfalen
 
-* [https://www.spiegel.de/kultur/keir-starmer-99-jaehrige-rentnerin-reist-8000-kilometer-fuer-treffen-doch-der-britische-premier-blockt-ab](https://www.spiegel.de/kultur/keir-starmer-99-jaehrige-rentnerin-reist-8000-kilometer-fuer-treffen-doch-der-britische-premier-blockt-ab-a-91b2a7ff-2956-4faf-b2c4-544b64fa3dae#ref=rss)
-### treffen
+* [https://www.spiegel.de/wirtschaft/service/nordrhein-westfalen-gartenmaerkte-duerfen-laut-bgh-sonntags-christbaumschmuck-verkaufen](https://www.spiegel.de/wirtschaft/service/nordrhein-westfalen-gartenmaerkte-duerfen-laut-bgh-sonntags-christbaumschmuck-verkaufen-a-a3b56a1c-1f9b-44ad-bbdf-d8bb4b8e7bfb#ref=rss)
+### dürfen
 
-* [https://www.spiegel.de/kultur/keir-starmer-99-jaehrige-rentnerin-reist-8000-kilometer-fuer-treffen-doch-der-britische-premier-blockt-ab](https://www.spiegel.de/kultur/keir-starmer-99-jaehrige-rentnerin-reist-8000-kilometer-fuer-treffen-doch-der-britische-premier-blockt-ab-a-91b2a7ff-2956-4faf-b2c4-544b64fa3dae#ref=rss)
-### premier
+* [https://www.spiegel.de/wirtschaft/service/nordrhein-westfalen-gartenmaerkte-duerfen-laut-bgh-sonntags-christbaumschmuck-verkaufen](https://www.spiegel.de/wirtschaft/service/nordrhein-westfalen-gartenmaerkte-duerfen-laut-bgh-sonntags-christbaumschmuck-verkaufen-a-a3b56a1c-1f9b-44ad-bbdf-d8bb4b8e7bfb#ref=rss)
+### sonntags
 
-* [https://www.spiegel.de/kultur/keir-starmer-99-jaehrige-rentnerin-reist-8000-kilometer-fuer-treffen-doch-der-britische-premier-blockt-ab](https://www.spiegel.de/kultur/keir-starmer-99-jaehrige-rentnerin-reist-8000-kilometer-fuer-treffen-doch-der-britische-premier-blockt-ab-a-91b2a7ff-2956-4faf-b2c4-544b64fa3dae#ref=rss)
-### marc
+* [https://www.spiegel.de/wirtschaft/service/nordrhein-westfalen-gartenmaerkte-duerfen-laut-bgh-sonntags-christbaumschmuck-verkaufen](https://www.spiegel.de/wirtschaft/service/nordrhein-westfalen-gartenmaerkte-duerfen-laut-bgh-sonntags-christbaumschmuck-verkaufen-a-a3b56a1c-1f9b-44ad-bbdf-d8bb4b8e7bfb#ref=rss)
+### verkaufen
 
-* [https://www.spiegel.de/kultur/musik/marc-seaberg-der-originalsaenger-von-looking-for-freedom-ist-tot](https://www.spiegel.de/kultur/musik/marc-seaberg-der-originalsaenger-von-looking-for-freedom-ist-tot-a-9fd6c454-1298-4035-a178-21b1ce8e826b#ref=rss)
-### seaberg
+* [https://www.spiegel.de/wirtschaft/service/nordrhein-westfalen-gartenmaerkte-duerfen-laut-bgh-sonntags-christbaumschmuck-verkaufen](https://www.spiegel.de/wirtschaft/service/nordrhein-westfalen-gartenmaerkte-duerfen-laut-bgh-sonntags-christbaumschmuck-verkaufen-a-a3b56a1c-1f9b-44ad-bbdf-d8bb4b8e7bfb#ref=rss)
+### dürfte
 
-* [https://www.spiegel.de/kultur/musik/marc-seaberg-der-originalsaenger-von-looking-for-freedom-ist-tot](https://www.spiegel.de/kultur/musik/marc-seaberg-der-originalsaenger-von-looking-for-freedom-ist-tot-a-9fd6c454-1298-4035-a178-21b1ce8e826b#ref=rss)
-### looking
+* [https://www.spiegel.de/wirtschaft/service/nordrhein-westfalen-gartenmaerkte-duerfen-laut-bgh-sonntags-christbaumschmuck-verkaufen](https://www.spiegel.de/wirtschaft/service/nordrhein-westfalen-gartenmaerkte-duerfen-laut-bgh-sonntags-christbaumschmuck-verkaufen-a-a3b56a1c-1f9b-44ad-bbdf-d8bb4b8e7bfb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/schuldenbremse-friedrich-merz-zeigt-sich-erneut-gespraechsbereit](https://www.spiegel.de/politik/deutschland/schuldenbremse-friedrich-merz-zeigt-sich-erneut-gespraechsbereit-a-8c70343b-7175-43ba-9147-a215dfde3da5#ref=rss)
+### paragraf
 
-* [https://www.spiegel.de/kultur/musik/marc-seaberg-der-originalsaenger-von-looking-for-freedom-ist-tot](https://www.spiegel.de/kultur/musik/marc-seaberg-der-originalsaenger-von-looking-for-freedom-ist-tot-a-9fd6c454-1298-4035-a178-21b1ce8e826b#ref=rss)
-### for
+* [https://www.spiegel.de/politik/deutschland/paragraf-218-gebt-den-frauen-selbstbestimmung-beim-schwangerschaftsabbruch-kommentar](https://www.spiegel.de/politik/deutschland/paragraf-218-gebt-den-frauen-selbstbestimmung-beim-schwangerschaftsabbruch-kommentar-a-d7238940-3569-48c6-914b-b2ab4af264e9#ref=rss)
+### 218
 
-* [https://www.spiegel.de/kultur/musik/marc-seaberg-der-originalsaenger-von-looking-for-freedom-ist-tot](https://www.spiegel.de/kultur/musik/marc-seaberg-der-originalsaenger-von-looking-for-freedom-ist-tot-a-9fd6c454-1298-4035-a178-21b1ce8e826b#ref=rss)
-### freedom
+* [https://www.spiegel.de/politik/deutschland/paragraf-218-gebt-den-frauen-selbstbestimmung-beim-schwangerschaftsabbruch-kommentar](https://www.spiegel.de/politik/deutschland/paragraf-218-gebt-den-frauen-selbstbestimmung-beim-schwangerschaftsabbruch-kommentar-a-d7238940-3569-48c6-914b-b2ab4af264e9#ref=rss)
+### sollte
 
-* [https://www.spiegel.de/kultur/musik/marc-seaberg-der-originalsaenger-von-looking-for-freedom-ist-tot](https://www.spiegel.de/kultur/musik/marc-seaberg-der-originalsaenger-von-looking-for-freedom-ist-tot-a-9fd6c454-1298-4035-a178-21b1ce8e826b#ref=rss)
-### tot
+* [https://www.spiegel.de/politik/deutschland/paragraf-218-gebt-den-frauen-selbstbestimmung-beim-schwangerschaftsabbruch-kommentar](https://www.spiegel.de/politik/deutschland/paragraf-218-gebt-den-frauen-selbstbestimmung-beim-schwangerschaftsabbruch-kommentar-a-d7238940-3569-48c6-914b-b2ab4af264e9#ref=rss)
+* [https://www.spiegel.de/partnerschaft/womeninmalefields-es-kommt-auf-maenner-an-die-sich-fuer-frauen-positionieren](https://www.spiegel.de/partnerschaft/womeninmalefields-es-kommt-auf-maenner-an-die-sich-fuer-frauen-positionieren-a-6752c796-a0e4-446d-8ab7-61a54f890a8f#ref=rss)
+### männer
 
-* [https://www.spiegel.de/kultur/musik/marc-seaberg-der-originalsaenger-von-looking-for-freedom-ist-tot](https://www.spiegel.de/kultur/musik/marc-seaberg-der-originalsaenger-von-looking-for-freedom-ist-tot-a-9fd6c454-1298-4035-a178-21b1ce8e826b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/dortmund-tod-von-mouhamed-drame-verteidiger-bezeichnet-schuesse-als-rechtmaessig](https://www.spiegel.de/panorama/justiz/dortmund-tod-von-mouhamed-drame-verteidiger-bezeichnet-schuesse-als-rechtmaessig-a-83bf0c88-5081-47e2-839f-de91c1db1165#ref=rss)
-### einmal
-
-* [https://www.spiegel.de/kultur/musik/marc-seaberg-der-originalsaenger-von-looking-for-freedom-ist-tot](https://www.spiegel.de/kultur/musik/marc-seaberg-der-originalsaenger-von-looking-for-freedom-ist-tot-a-9fd6c454-1298-4035-a178-21b1ce8e826b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-im-bundestag-der-kanzler-darf-wieder-sozi-sein](https://www.spiegel.de/politik/deutschland/olaf-scholz-im-bundestag-der-kanzler-darf-wieder-sozi-sein-a-5a84f70e-1e3f-4fd2-8c28-763803b87f60#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/kultur/musik/marc-seaberg-der-originalsaenger-von-looking-for-freedom-ist-tot](https://www.spiegel.de/kultur/musik/marc-seaberg-der-originalsaenger-von-looking-for-freedom-ist-tot-a-9fd6c454-1298-4035-a178-21b1ce8e826b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/grippe-symptome-raetselhafte-todesfaelle-im-kongo-forscher-auf-der-suche-nach-ursache](https://www.spiegel.de/wissenschaft/grippe-symptome-raetselhafte-todesfaelle-im-kongo-forscher-auf-der-suche-nach-ursache-a-c84410ef-929b-4d9e-9f30-f6a121c65521#ref=rss)
-### papst
-
-* [https://www.spiegel.de/auto/elektroauto-von-mercedes-benz-papst-franziskus-faehrt-jetzt-ein-batterieelektrisches-papamobil](https://www.spiegel.de/auto/elektroauto-von-mercedes-benz-papst-franziskus-faehrt-jetzt-ein-batterieelektrisches-papamobil-a-035b0bd7-8817-4309-a50e-fc6ba38b076b#ref=rss)
-### franziskus
-
-* [https://www.spiegel.de/auto/elektroauto-von-mercedes-benz-papst-franziskus-faehrt-jetzt-ein-batterieelektrisches-papamobil](https://www.spiegel.de/auto/elektroauto-von-mercedes-benz-papst-franziskus-faehrt-jetzt-ein-batterieelektrisches-papamobil-a-035b0bd7-8817-4309-a50e-fc6ba38b076b#ref=rss)
-### fährt
-
-* [https://www.spiegel.de/auto/elektroauto-von-mercedes-benz-papst-franziskus-faehrt-jetzt-ein-batterieelektrisches-papamobil](https://www.spiegel.de/auto/elektroauto-von-mercedes-benz-papst-franziskus-faehrt-jetzt-ein-batterieelektrisches-papamobil-a-035b0bd7-8817-4309-a50e-fc6ba38b076b#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/auto/elektroauto-von-mercedes-benz-papst-franziskus-faehrt-jetzt-ein-batterieelektrisches-papamobil](https://www.spiegel.de/auto/elektroauto-von-mercedes-benz-papst-franziskus-faehrt-jetzt-ein-batterieelektrisches-papamobil-a-035b0bd7-8817-4309-a50e-fc6ba38b076b#ref=rss)
-* [https://www.spiegel.de/kultur/tv/rtls-golden-bachelor-wir-sind-doch-keine-pornosendung](https://www.spiegel.de/kultur/tv/rtls-golden-bachelor-wir-sind-doch-keine-pornosendung-a-6347b6e1-5d55-44d1-897d-3f42280a6461#ref=rss)
-### demokraten
-
-* [https://www.spiegel.de/ausland/usa-demokraten-sichern-sich-letzten-offenen-sitz-im-repraesentantenhaus](https://www.spiegel.de/ausland/usa-demokraten-sichern-sich-letzten-offenen-sitz-im-repraesentantenhaus-a-9aa34444-899a-4dde-98e2-71347be62816#ref=rss)
-### sitz
-
-* [https://www.spiegel.de/ausland/usa-demokraten-sichern-sich-letzten-offenen-sitz-im-repraesentantenhaus](https://www.spiegel.de/ausland/usa-demokraten-sichern-sich-letzten-offenen-sitz-im-repraesentantenhaus-a-9aa34444-899a-4dde-98e2-71347be62816#ref=rss)
-### repräsentantenhaus
-
-* [https://www.spiegel.de/ausland/usa-demokraten-sichern-sich-letzten-offenen-sitz-im-repraesentantenhaus](https://www.spiegel.de/ausland/usa-demokraten-sichern-sich-letzten-offenen-sitz-im-repraesentantenhaus-a-9aa34444-899a-4dde-98e2-71347be62816#ref=rss)
-### tochter
-
-* [https://www.spiegel.de/panorama/justiz/berlin-vater-soll-tochter-tausendfach-missbraucht-haben](https://www.spiegel.de/panorama/justiz/berlin-vater-soll-tochter-tausendfach-missbraucht-haben-a-9c38321b-db9b-4845-a817-30ca0ea4b0eb#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/panorama/justiz/berlin-vater-soll-tochter-tausendfach-missbraucht-haben](https://www.spiegel.de/panorama/justiz/berlin-vater-soll-tochter-tausendfach-missbraucht-haben-a-9c38321b-db9b-4845-a817-30ca0ea4b0eb#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/dortmund-tod-von-mouhamed-drame-verteidiger-bezeichnet-schuesse-als-rechtmaessig](https://www.spiegel.de/panorama/justiz/dortmund-tod-von-mouhamed-drame-verteidiger-bezeichnet-schuesse-als-rechtmaessig-a-83bf0c88-5081-47e2-839f-de91c1db1165#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/panorama/justiz/berlin-vater-soll-tochter-tausendfach-missbraucht-haben](https://www.spiegel.de/panorama/justiz/berlin-vater-soll-tochter-tausendfach-missbraucht-haben-a-9c38321b-db9b-4845-a817-30ca0ea4b0eb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/primastrom-voxenergie-und-nowenergy-geld-zurueck-vom-stromanbieter-nur-noch-bis-dezember](https://www.spiegel.de/wirtschaft/primastrom-voxenergie-und-nowenergy-geld-zurueck-vom-stromanbieter-nur-noch-bis-dezember-a-439fa1e3-9bbe-4b26-95c4-161854c87dee#ref=rss)
-### noussair
-
-* [https://www.spiegel.de/sport/fussball/fussball-wegen-noussair-mazraoui-manchester-united-verzichtet-auf-regenbogenjacken](https://www.spiegel.de/sport/fussball/fussball-wegen-noussair-mazraoui-manchester-united-verzichtet-auf-regenbogenjacken-a-3edaa7f7-02cd-4324-b875-46289bc12a48#ref=rss)
-### mazraoui
-
-* [https://www.spiegel.de/sport/fussball/fussball-wegen-noussair-mazraoui-manchester-united-verzichtet-auf-regenbogenjacken](https://www.spiegel.de/sport/fussball/fussball-wegen-noussair-mazraoui-manchester-united-verzichtet-auf-regenbogenjacken-a-3edaa7f7-02cd-4324-b875-46289bc12a48#ref=rss)
-### manchester
-
-* [https://www.spiegel.de/sport/fussball/fussball-wegen-noussair-mazraoui-manchester-united-verzichtet-auf-regenbogenjacken](https://www.spiegel.de/sport/fussball/fussball-wegen-noussair-mazraoui-manchester-united-verzichtet-auf-regenbogenjacken-a-3edaa7f7-02cd-4324-b875-46289bc12a48#ref=rss)
-### klaasohm
-
-* [https://www.spiegel.de/panorama/gesellschaft/klaasohm-auf-borkum-interview-mit-ethnologin-heidrun-alzheimer-zu-frauenfeindlichen-braeuchen](https://www.spiegel.de/panorama/gesellschaft/klaasohm-auf-borkum-interview-mit-ethnologin-heidrun-alzheimer-zu-frauenfeindlichen-braeuchen-a-44d9f05e-b51f-41e7-9f43-d89149c7e10f#ref=rss)
-### borkum
-
-* [https://www.spiegel.de/panorama/gesellschaft/klaasohm-auf-borkum-interview-mit-ethnologin-heidrun-alzheimer-zu-frauenfeindlichen-braeuchen](https://www.spiegel.de/panorama/gesellschaft/klaasohm-auf-borkum-interview-mit-ethnologin-heidrun-alzheimer-zu-frauenfeindlichen-braeuchen-a-44d9f05e-b51f-41e7-9f43-d89149c7e10f#ref=rss)
-### ethnologin
-
-* [https://www.spiegel.de/panorama/gesellschaft/klaasohm-auf-borkum-interview-mit-ethnologin-heidrun-alzheimer-zu-frauenfeindlichen-braeuchen](https://www.spiegel.de/panorama/gesellschaft/klaasohm-auf-borkum-interview-mit-ethnologin-heidrun-alzheimer-zu-frauenfeindlichen-braeuchen-a-44d9f05e-b51f-41e7-9f43-d89149c7e10f#ref=rss)
-### heidrun
-
-* [https://www.spiegel.de/panorama/gesellschaft/klaasohm-auf-borkum-interview-mit-ethnologin-heidrun-alzheimer-zu-frauenfeindlichen-braeuchen](https://www.spiegel.de/panorama/gesellschaft/klaasohm-auf-borkum-interview-mit-ethnologin-heidrun-alzheimer-zu-frauenfeindlichen-braeuchen-a-44d9f05e-b51f-41e7-9f43-d89149c7e10f#ref=rss)
-### alzheimer
-
-* [https://www.spiegel.de/panorama/gesellschaft/klaasohm-auf-borkum-interview-mit-ethnologin-heidrun-alzheimer-zu-frauenfeindlichen-braeuchen](https://www.spiegel.de/panorama/gesellschaft/klaasohm-auf-borkum-interview-mit-ethnologin-heidrun-alzheimer-zu-frauenfeindlichen-braeuchen-a-44d9f05e-b51f-41e7-9f43-d89149c7e10f#ref=rss)
-### geschlagen
-
-* [https://www.spiegel.de/panorama/gesellschaft/klaasohm-auf-borkum-interview-mit-ethnologin-heidrun-alzheimer-zu-frauenfeindlichen-braeuchen](https://www.spiegel.de/panorama/gesellschaft/klaasohm-auf-borkum-interview-mit-ethnologin-heidrun-alzheimer-zu-frauenfeindlichen-braeuchen-a-44d9f05e-b51f-41e7-9f43-d89149c7e10f#ref=rss)
-* [https://www.spiegel.de/ausland/georgien-oppositionspolitiker-nika-gwaramia-offerbar-bewusstlos-geschlagen-und-festgenommen](https://www.spiegel.de/ausland/georgien-oppositionspolitiker-nika-gwaramia-offerbar-bewusstlos-geschlagen-und-festgenommen-a-46f7da79-5d41-4c4c-9fed-9a53f6e76f89#ref=rss)
-### südkorea
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-patzer-beim-thema-suedkorea-opposition-nutzt-steilvorlage](https://www.spiegel.de/politik/deutschland/olaf-scholz-patzer-beim-thema-suedkorea-opposition-nutzt-steilvorlage-a-8baeddd7-2126-436e-8cab-c831f0d5524d#ref=rss)
-### steilvorlage
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-patzer-beim-thema-suedkorea-opposition-nutzt-steilvorlage](https://www.spiegel.de/politik/deutschland/olaf-scholz-patzer-beim-thema-suedkorea-opposition-nutzt-steilvorlage-a-8baeddd7-2126-436e-8cab-c831f0d5524d#ref=rss)
-### nika
-
-* [https://www.spiegel.de/ausland/georgien-oppositionspolitiker-nika-gwaramia-offerbar-bewusstlos-geschlagen-und-festgenommen](https://www.spiegel.de/ausland/georgien-oppositionspolitiker-nika-gwaramia-offerbar-bewusstlos-geschlagen-und-festgenommen-a-46f7da79-5d41-4c4c-9fed-9a53f6e76f89#ref=rss)
-### gwaramia
-
-* [https://www.spiegel.de/ausland/georgien-oppositionspolitiker-nika-gwaramia-offerbar-bewusstlos-geschlagen-und-festgenommen](https://www.spiegel.de/ausland/georgien-oppositionspolitiker-nika-gwaramia-offerbar-bewusstlos-geschlagen-und-festgenommen-a-46f7da79-5d41-4c4c-9fed-9a53f6e76f89#ref=rss)
-### schokolade
-
-* [https://www.spiegel.de/panorama/schokolade-diese-suessigkeit-naschten-die-brueder-grimm-beim-maerchensammeln](https://www.spiegel.de/panorama/schokolade-diese-suessigkeit-naschten-die-brueder-grimm-beim-maerchensammeln-a-4e6d4288-7e83-4839-86fd-6202b6016b6b#ref=rss)
-### brüder
-
-* [https://www.spiegel.de/panorama/schokolade-diese-suessigkeit-naschten-die-brueder-grimm-beim-maerchensammeln](https://www.spiegel.de/panorama/schokolade-diese-suessigkeit-naschten-die-brueder-grimm-beim-maerchensammeln-a-4e6d4288-7e83-4839-86fd-6202b6016b6b#ref=rss)
-### grimm
-
-* [https://www.spiegel.de/panorama/schokolade-diese-suessigkeit-naschten-die-brueder-grimm-beim-maerchensammeln](https://www.spiegel.de/panorama/schokolade-diese-suessigkeit-naschten-die-brueder-grimm-beim-maerchensammeln-a-4e6d4288-7e83-4839-86fd-6202b6016b6b#ref=rss)
-### kongo
-
-* [https://www.spiegel.de/wissenschaft/grippe-symptome-raetselhafte-todesfaelle-im-kongo-forscher-auf-der-suche-nach-ursache](https://www.spiegel.de/wissenschaft/grippe-symptome-raetselhafte-todesfaelle-im-kongo-forscher-auf-der-suche-nach-ursache-a-c84410ef-929b-4d9e-9f30-f6a121c65521#ref=rss)
-### narges
-
-* [https://www.spiegel.de/ausland/iran-friedensnobelpreistraegerin-narges-mohammadi-voruebergehend-aus-gefaengnis-entlassen](https://www.spiegel.de/ausland/iran-friedensnobelpreistraegerin-narges-mohammadi-voruebergehend-aus-gefaengnis-entlassen-a-14d3c41d-9501-459b-bd76-6ccc8c429a44#ref=rss)
-### mohammadi
-
-* [https://www.spiegel.de/ausland/iran-friedensnobelpreistraegerin-narges-mohammadi-voruebergehend-aus-gefaengnis-entlassen](https://www.spiegel.de/ausland/iran-friedensnobelpreistraegerin-narges-mohammadi-voruebergehend-aus-gefaengnis-entlassen-a-14d3c41d-9501-459b-bd76-6ccc8c429a44#ref=rss)
-### gefängnis
-
-* [https://www.spiegel.de/ausland/iran-friedensnobelpreistraegerin-narges-mohammadi-voruebergehend-aus-gefaengnis-entlassen](https://www.spiegel.de/ausland/iran-friedensnobelpreistraegerin-narges-mohammadi-voruebergehend-aus-gefaengnis-entlassen-a-14d3c41d-9501-459b-bd76-6ccc8c429a44#ref=rss)
-### entlassen
-
-* [https://www.spiegel.de/ausland/iran-friedensnobelpreistraegerin-narges-mohammadi-voruebergehend-aus-gefaengnis-entlassen](https://www.spiegel.de/ausland/iran-friedensnobelpreistraegerin-narges-mohammadi-voruebergehend-aus-gefaengnis-entlassen-a-14d3c41d-9501-459b-bd76-6ccc8c429a44#ref=rss)
-### golden
-
-* [https://www.spiegel.de/kultur/tv/rtls-golden-bachelor-wir-sind-doch-keine-pornosendung](https://www.spiegel.de/kultur/tv/rtls-golden-bachelor-wir-sind-doch-keine-pornosendung-a-6347b6e1-5d55-44d1-897d-3f42280a6461#ref=rss)
-### bachelor
-
-* [https://www.spiegel.de/kultur/tv/rtls-golden-bachelor-wir-sind-doch-keine-pornosendung](https://www.spiegel.de/kultur/tv/rtls-golden-bachelor-wir-sind-doch-keine-pornosendung-a-6347b6e1-5d55-44d1-897d-3f42280a6461#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/paragraf-218-gebt-den-frauen-selbstbestimmung-beim-schwangerschaftsabbruch-kommentar](https://www.spiegel.de/politik/deutschland/paragraf-218-gebt-den-frauen-selbstbestimmung-beim-schwangerschaftsabbruch-kommentar-a-d7238940-3569-48c6-914b-b2ab4af264e9#ref=rss)
+* [https://www.spiegel.de/partnerschaft/womeninmalefields-es-kommt-auf-maenner-an-die-sich-fuer-frauen-positionieren](https://www.spiegel.de/partnerschaft/womeninmalefields-es-kommt-auf-maenner-an-die-sich-fuer-frauen-positionieren-a-6752c796-a0e4-446d-8ab7-61a54f890a8f#ref=rss)
 ### taylor
 
-* [https://www.spiegel.de/kultur/musik/taylor-swift-und-co-frauen-an-der-spitze-des-spotify-jahresrueckblicks-2024](https://www.spiegel.de/kultur/musik/taylor-swift-und-co-frauen-an-der-spitze-des-spotify-jahresrueckblicks-2024-a-03c5e326-141c-4e13-8bc2-2f93f3d190fc#ref=rss)
+* [https://www.spiegel.de/panorama/taylor-swift-und-the-eras-tour-book-fans-beschweren-sich-ueber-fehler](https://www.spiegel.de/panorama/taylor-swift-und-the-eras-tour-book-fans-beschweren-sich-ueber-fehler-a-e4c362d4-b10a-4199-8093-d1fa461ff28b#ref=rss)
 ### swift
 
-* [https://www.spiegel.de/kultur/musik/taylor-swift-und-co-frauen-an-der-spitze-des-spotify-jahresrueckblicks-2024](https://www.spiegel.de/kultur/musik/taylor-swift-und-co-frauen-an-der-spitze-des-spotify-jahresrueckblicks-2024-a-03c5e326-141c-4e13-8bc2-2f93f3d190fc#ref=rss)
-### schweden
+* [https://www.spiegel.de/panorama/taylor-swift-und-the-eras-tour-book-fans-beschweren-sich-ueber-fehler](https://www.spiegel.de/panorama/taylor-swift-und-the-eras-tour-book-fans-beschweren-sich-ueber-fehler-a-e4c362d4-b10a-4199-8093-d1fa461ff28b#ref=rss)
+### eras
 
-* [https://www.spiegel.de/ausland/schweden-wie-das-land-mit-dem-phaenomen-der-teenie-killer-umgeht](https://www.spiegel.de/ausland/schweden-wie-das-land-mit-dem-phaenomen-der-teenie-killer-umgeht-a-c8cdab76-bd39-46aa-9f7a-e63d9d64d170#ref=rss)
-### jugendlichen
+* [https://www.spiegel.de/panorama/taylor-swift-und-the-eras-tour-book-fans-beschweren-sich-ueber-fehler](https://www.spiegel.de/panorama/taylor-swift-und-the-eras-tour-book-fans-beschweren-sich-ueber-fehler-a-e4c362d4-b10a-4199-8093-d1fa461ff28b#ref=rss)
+### fans
 
-* [https://www.spiegel.de/gesundheit/psychologie-resultate-der-copsy-studie-ein-fuenftel-der-kinder-und-jugendlichen-in-deutschland-ist-psychisch-belastet](https://www.spiegel.de/gesundheit/psychologie-resultate-der-copsy-studie-ein-fuenftel-der-kinder-und-jugendlichen-in-deutschland-ist-psychisch-belastet-a-d6aa3443-0375-4b12-8e19-7e66c0e3bb4d#ref=rss)
-### dommaraju
+* [https://www.spiegel.de/panorama/taylor-swift-und-the-eras-tour-book-fans-beschweren-sich-ueber-fehler](https://www.spiegel.de/panorama/taylor-swift-und-the-eras-tour-book-fans-beschweren-sich-ueber-fehler-a-e4c362d4-b10a-4199-8093-d1fa461ff28b#ref=rss)
+### saat
 
-* [https://www.spiegel.de/sport/schach-wm-dommaraju-gukesh-schlaegt-remismoeglichkeit-aus-grossmeister-reagieren-fassungslos](https://www.spiegel.de/sport/schach-wm-dommaraju-gukesh-schlaegt-remismoeglichkeit-aus-grossmeister-reagieren-fassungslos-a-98ee919c-beac-482c-af8d-1478c5ba244d#ref=rss)
-### andre
+* [https://www.spiegel.de/kultur/kino/die-saat-des-heiligen-feigenbaums-national-board-of-review-praemiert-deutschen-oscar-kandidaten-als-besten-internationalen-film](https://www.spiegel.de/kultur/kino/die-saat-des-heiligen-feigenbaums-national-board-of-review-praemiert-deutschen-oscar-kandidaten-als-besten-internationalen-film-a-510bdca0-6448-4530-92b4-380434b63bfd#ref=rss)
+### heiligen
 
-* [https://www.spiegel.de/sport/tennis/tennis-andre-agassi-hielt-sich-fuer-weltklasse-bis-er-steffi-graf-kennenlernte](https://www.spiegel.de/sport/tennis/tennis-andre-agassi-hielt-sich-fuer-weltklasse-bis-er-steffi-graf-kennenlernte-a-8541fd46-bae5-4af7-9a83-3a5f78e89397#ref=rss)
-### agassi
+* [https://www.spiegel.de/kultur/kino/die-saat-des-heiligen-feigenbaums-national-board-of-review-praemiert-deutschen-oscar-kandidaten-als-besten-internationalen-film](https://www.spiegel.de/kultur/kino/die-saat-des-heiligen-feigenbaums-national-board-of-review-praemiert-deutschen-oscar-kandidaten-als-besten-internationalen-film-a-510bdca0-6448-4530-92b4-380434b63bfd#ref=rss)
+### feigenbaums
 
-* [https://www.spiegel.de/sport/tennis/tennis-andre-agassi-hielt-sich-fuer-weltklasse-bis-er-steffi-graf-kennenlernte](https://www.spiegel.de/sport/tennis/tennis-andre-agassi-hielt-sich-fuer-weltklasse-bis-er-steffi-graf-kennenlernte-a-8541fd46-bae5-4af7-9a83-3a5f78e89397#ref=rss)
-### steffi
+* [https://www.spiegel.de/kultur/kino/die-saat-des-heiligen-feigenbaums-national-board-of-review-praemiert-deutschen-oscar-kandidaten-als-besten-internationalen-film](https://www.spiegel.de/kultur/kino/die-saat-des-heiligen-feigenbaums-national-board-of-review-praemiert-deutschen-oscar-kandidaten-als-besten-internationalen-film-a-510bdca0-6448-4530-92b4-380434b63bfd#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/sport/tennis/tennis-andre-agassi-hielt-sich-fuer-weltklasse-bis-er-steffi-graf-kennenlernte](https://www.spiegel.de/sport/tennis/tennis-andre-agassi-hielt-sich-fuer-weltklasse-bis-er-steffi-graf-kennenlernte-a-8541fd46-bae5-4af7-9a83-3a5f78e89397#ref=rss)
-### graf
+* [https://www.spiegel.de/kultur/kino/die-saat-des-heiligen-feigenbaums-national-board-of-review-praemiert-deutschen-oscar-kandidaten-als-besten-internationalen-film](https://www.spiegel.de/kultur/kino/die-saat-des-heiligen-feigenbaums-national-board-of-review-praemiert-deutschen-oscar-kandidaten-als-besten-internationalen-film-a-510bdca0-6448-4530-92b4-380434b63bfd#ref=rss)
+* [https://www.spiegel.de/partnerschaft/homo-ehe-penis-und-liebe-an-weihnachten-wie-weit-wir-fuer-die-liebe-gehen](https://www.spiegel.de/partnerschaft/homo-ehe-penis-und-liebe-an-weihnachten-wie-weit-wir-fuer-die-liebe-gehen-a-1b42c0a2-2c11-498f-b0e8-8ecb53731fb6#ref=rss)
+### aufnahmetests
 
-* [https://www.spiegel.de/sport/tennis/tennis-andre-agassi-hielt-sich-fuer-weltklasse-bis-er-steffi-graf-kennenlernte](https://www.spiegel.de/sport/tennis/tennis-andre-agassi-hielt-sich-fuer-weltklasse-bis-er-steffi-graf-kennenlernte-a-8541fd46-bae5-4af7-9a83-3a5f78e89397#ref=rss)
-### nordsee
+* [https://www.spiegel.de/start/berufseinstieg-als-balletttaenzerin-ueber-harte-aufnahmetests-und-den-traum-vom-tanzen](https://www.spiegel.de/start/berufseinstieg-als-balletttaenzerin-ueber-harte-aufnahmetests-und-den-traum-vom-tanzen-a-f2596501-3408-47e3-9415-817c631a6694#ref=rss)
+### traum
 
-* [https://www.spiegel.de/panorama/justiz/nordsee-zollfahndungsamt-findet-150-kilogramm-kokain-auf-foehr-amrum-und-sylt](https://www.spiegel.de/panorama/justiz/nordsee-zollfahndungsamt-findet-150-kilogramm-kokain-auf-foehr-amrum-und-sylt-a-876fd401-f03e-4b75-b670-4515cc3c5349#ref=rss)
-### zollfahndungsamt
+* [https://www.spiegel.de/start/berufseinstieg-als-balletttaenzerin-ueber-harte-aufnahmetests-und-den-traum-vom-tanzen](https://www.spiegel.de/start/berufseinstieg-als-balletttaenzerin-ueber-harte-aufnahmetests-und-den-traum-vom-tanzen-a-f2596501-3408-47e3-9415-817c631a6694#ref=rss)
+### ganz
 
-* [https://www.spiegel.de/panorama/justiz/nordsee-zollfahndungsamt-findet-150-kilogramm-kokain-auf-foehr-amrum-und-sylt](https://www.spiegel.de/panorama/justiz/nordsee-zollfahndungsamt-findet-150-kilogramm-kokain-auf-foehr-amrum-und-sylt-a-876fd401-f03e-4b75-b670-4515cc3c5349#ref=rss)
-### 150
+* [https://www.spiegel.de/start/berufseinstieg-als-balletttaenzerin-ueber-harte-aufnahmetests-und-den-traum-vom-tanzen](https://www.spiegel.de/start/berufseinstieg-als-balletttaenzerin-ueber-harte-aufnahmetests-und-den-traum-vom-tanzen-a-f2596501-3408-47e3-9415-817c631a6694#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/amazon-gruender-jeff-bezos-blickt-optimistisch-auf-donald-trumps-zweite-amtszeit](https://www.spiegel.de/wirtschaft/unternehmen/amazon-gruender-jeff-bezos-blickt-optimistisch-auf-donald-trumps-zweite-amtszeit-a-aa7ddf60-1c92-4571-b019-8b9ba1eb759c#ref=rss)
+### kinder
 
-* [https://www.spiegel.de/panorama/justiz/nordsee-zollfahndungsamt-findet-150-kilogramm-kokain-auf-foehr-amrum-und-sylt](https://www.spiegel.de/panorama/justiz/nordsee-zollfahndungsamt-findet-150-kilogramm-kokain-auf-foehr-amrum-und-sylt-a-876fd401-f03e-4b75-b670-4515cc3c5349#ref=rss)
-### kilogramm
+* [https://www.spiegel.de/start/berufseinstieg-als-balletttaenzerin-ueber-harte-aufnahmetests-und-den-traum-vom-tanzen](https://www.spiegel.de/start/berufseinstieg-als-balletttaenzerin-ueber-harte-aufnahmetests-und-den-traum-vom-tanzen-a-f2596501-3408-47e3-9415-817c631a6694#ref=rss)
+* [https://www.spiegel.de/familie/gescheiterte-bildungspolitik-morgen-kinder-wird-s-was-geben-aber-was](https://www.spiegel.de/familie/gescheiterte-bildungspolitik-morgen-kinder-wird-s-was-geben-aber-was-a-4dfdf057-14b6-4266-b790-b154dbcc5404#ref=rss)
+### milliardäre
 
-* [https://www.spiegel.de/panorama/justiz/nordsee-zollfahndungsamt-findet-150-kilogramm-kokain-auf-foehr-amrum-und-sylt](https://www.spiegel.de/panorama/justiz/nordsee-zollfahndungsamt-findet-150-kilogramm-kokain-auf-foehr-amrum-und-sylt-a-876fd401-f03e-4b75-b670-4515cc3c5349#ref=rss)
-### kokain
+* [https://www.spiegel.de/wirtschaft/unternehmen/ubs-billionaire-ambitions-report-vermoegen-der-milliardaere-in-10-jahren-mehr-als-verdoppelt](https://www.spiegel.de/wirtschaft/unternehmen/ubs-billionaire-ambitions-report-vermoegen-der-milliardaere-in-10-jahren-mehr-als-verdoppelt-a-62d88126-e3f3-4f23-a22a-024eaaec5e79#ref=rss)
+### bitcoin
 
-* [https://www.spiegel.de/panorama/justiz/nordsee-zollfahndungsamt-findet-150-kilogramm-kokain-auf-foehr-amrum-und-sylt](https://www.spiegel.de/panorama/justiz/nordsee-zollfahndungsamt-findet-150-kilogramm-kokain-auf-foehr-amrum-und-sylt-a-876fd401-f03e-4b75-b670-4515cc3c5349#ref=rss)
-### föhr
+* [https://www.spiegel.de/wirtschaft/service/bitcoin-bei-100-000-dollar-die-wichtigsten-antworten-zum-irren-aufstieg](https://www.spiegel.de/wirtschaft/service/bitcoin-bei-100-000-dollar-die-wichtigsten-antworten-zum-irren-aufstieg-a-984c9d12-5c42-4266-9880-cf5c620a5947#ref=rss)
+### 100000
 
-* [https://www.spiegel.de/panorama/justiz/nordsee-zollfahndungsamt-findet-150-kilogramm-kokain-auf-foehr-amrum-und-sylt](https://www.spiegel.de/panorama/justiz/nordsee-zollfahndungsamt-findet-150-kilogramm-kokain-auf-foehr-amrum-und-sylt-a-876fd401-f03e-4b75-b670-4515cc3c5349#ref=rss)
-### amrum
+* [https://www.spiegel.de/wirtschaft/service/bitcoin-bei-100-000-dollar-die-wichtigsten-antworten-zum-irren-aufstieg](https://www.spiegel.de/wirtschaft/service/bitcoin-bei-100-000-dollar-die-wichtigsten-antworten-zum-irren-aufstieg-a-984c9d12-5c42-4266-9880-cf5c620a5947#ref=rss)
+### dollar
 
-* [https://www.spiegel.de/panorama/justiz/nordsee-zollfahndungsamt-findet-150-kilogramm-kokain-auf-foehr-amrum-und-sylt](https://www.spiegel.de/panorama/justiz/nordsee-zollfahndungsamt-findet-150-kilogramm-kokain-auf-foehr-amrum-und-sylt-a-876fd401-f03e-4b75-b670-4515cc3c5349#ref=rss)
-### sylt
+* [https://www.spiegel.de/wirtschaft/service/bitcoin-bei-100-000-dollar-die-wichtigsten-antworten-zum-irren-aufstieg](https://www.spiegel.de/wirtschaft/service/bitcoin-bei-100-000-dollar-die-wichtigsten-antworten-zum-irren-aufstieg-a-984c9d12-5c42-4266-9880-cf5c620a5947#ref=rss)
+### aufstieg
 
-* [https://www.spiegel.de/panorama/justiz/nordsee-zollfahndungsamt-findet-150-kilogramm-kokain-auf-foehr-amrum-und-sylt](https://www.spiegel.de/panorama/justiz/nordsee-zollfahndungsamt-findet-150-kilogramm-kokain-auf-foehr-amrum-und-sylt-a-876fd401-f03e-4b75-b670-4515cc3c5349#ref=rss)
-### brian
+* [https://www.spiegel.de/wirtschaft/service/bitcoin-bei-100-000-dollar-die-wichtigsten-antworten-zum-irren-aufstieg](https://www.spiegel.de/wirtschaft/service/bitcoin-bei-100-000-dollar-die-wichtigsten-antworten-zum-irren-aufstieg-a-984c9d12-5c42-4266-9880-cf5c620a5947#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/angela-merkel-freiheit-erinnerungen-1954-2021-ist-erfolgreichstes-buch-des-jahres](https://www.spiegel.de/kultur/literatur/angela-merkel-freiheit-erinnerungen-1954-2021-ist-erfolgreichstes-buch-des-jahres-a-97246804-c3bb-4488-940b-3f2b47cf0a45#ref=rss)
+### erstmals
 
-* [https://www.spiegel.de/panorama/new-york-united-health-ceo-brian-thompson-erschossen](https://www.spiegel.de/panorama/new-york-united-health-ceo-brian-thompson-erschossen-a-1c98346c-bfa1-4a29-a0fd-5f5449a85af1#ref=rss)
-### thompson
+* [https://www.spiegel.de/wirtschaft/service/bitcoin-bei-100-000-dollar-die-wichtigsten-antworten-zum-irren-aufstieg](https://www.spiegel.de/wirtschaft/service/bitcoin-bei-100-000-dollar-die-wichtigsten-antworten-zum-irren-aufstieg-a-984c9d12-5c42-4266-9880-cf5c620a5947#ref=rss)
+* [https://www.spiegel.de/ausland/russland-aussenminister-lawrow-zu-osze-treffen-in-malta-gelandet-erste-einreise-in-eu-land-seit-beginn-der-invasion](https://www.spiegel.de/ausland/russland-aussenminister-lawrow-zu-osze-treffen-in-malta-gelandet-erste-einreise-in-eu-land-seit-beginn-der-invasion-a-5252f21d-38f7-4e9a-aa9d-0080b8361611#ref=rss)
+### erklärt
 
-* [https://www.spiegel.de/panorama/new-york-united-health-ceo-brian-thompson-erschossen](https://www.spiegel.de/panorama/new-york-united-health-ceo-brian-thompson-erschossen-a-1c98346c-bfa1-4a29-a0fd-5f5449a85af1#ref=rss)
-### schüsse
+* [https://www.spiegel.de/wirtschaft/service/bitcoin-bei-100-000-dollar-die-wichtigsten-antworten-zum-irren-aufstieg](https://www.spiegel.de/wirtschaft/service/bitcoin-bei-100-000-dollar-die-wichtigsten-antworten-zum-irren-aufstieg-a-984c9d12-5c42-4266-9880-cf5c620a5947#ref=rss)
+* [https://www.spiegel.de/partnerschaft/womeninmalefields-es-kommt-auf-maenner-an-die-sich-fuer-frauen-positionieren](https://www.spiegel.de/partnerschaft/womeninmalefields-es-kommt-auf-maenner-an-die-sich-fuer-frauen-positionieren-a-6752c796-a0e4-446d-8ab7-61a54f890a8f#ref=rss)
+### amnesty
 
-* [https://www.spiegel.de/panorama/new-york-united-health-ceo-brian-thompson-erschossen](https://www.spiegel.de/panorama/new-york-united-health-ceo-brian-thompson-erschossen-a-1c98346c-bfa1-4a29-a0fd-5f5449a85af1#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/dortmund-tod-von-mouhamed-drame-verteidiger-bezeichnet-schuesse-als-rechtmaessig](https://www.spiegel.de/panorama/justiz/dortmund-tod-von-mouhamed-drame-verteidiger-bezeichnet-schuesse-als-rechtmaessig-a-83bf0c88-5081-47e2-839f-de91c1db1165#ref=rss)
-### mouhamed
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-warum-amnesty-international-israel-voelkermord-vorwirft](https://www.spiegel.de/ausland/israel-gaza-krieg-warum-amnesty-international-israel-voelkermord-vorwirft-a-5aa6e727-a6cb-4578-85e5-a453c84d054e#ref=rss)
+### international
 
-* [https://www.spiegel.de/panorama/justiz/dortmund-tod-von-mouhamed-drame-verteidiger-bezeichnet-schuesse-als-rechtmaessig](https://www.spiegel.de/panorama/justiz/dortmund-tod-von-mouhamed-drame-verteidiger-bezeichnet-schuesse-als-rechtmaessig-a-83bf0c88-5081-47e2-839f-de91c1db1165#ref=rss)
-### dramé
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-warum-amnesty-international-israel-voelkermord-vorwirft](https://www.spiegel.de/ausland/israel-gaza-krieg-warum-amnesty-international-israel-voelkermord-vorwirft-a-5aa6e727-a6cb-4578-85e5-a453c84d054e#ref=rss)
+### israel
 
-* [https://www.spiegel.de/panorama/justiz/dortmund-tod-von-mouhamed-drame-verteidiger-bezeichnet-schuesse-als-rechtmaessig](https://www.spiegel.de/panorama/justiz/dortmund-tod-von-mouhamed-drame-verteidiger-bezeichnet-schuesse-als-rechtmaessig-a-83bf0c88-5081-47e2-839f-de91c1db1165#ref=rss)
-### verteidiger
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-warum-amnesty-international-israel-voelkermord-vorwirft](https://www.spiegel.de/ausland/israel-gaza-krieg-warum-amnesty-international-israel-voelkermord-vorwirft-a-5aa6e727-a6cb-4578-85e5-a453c84d054e#ref=rss)
+### internationale
 
-* [https://www.spiegel.de/panorama/justiz/dortmund-tod-von-mouhamed-drame-verteidiger-bezeichnet-schuesse-als-rechtmaessig](https://www.spiegel.de/panorama/justiz/dortmund-tod-von-mouhamed-drame-verteidiger-bezeichnet-schuesse-als-rechtmaessig-a-83bf0c88-5081-47e2-839f-de91c1db1165#ref=rss)
-### rechtmäßig
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-warum-amnesty-international-israel-voelkermord-vorwirft](https://www.spiegel.de/ausland/israel-gaza-krieg-warum-amnesty-international-israel-voelkermord-vorwirft-a-5aa6e727-a6cb-4578-85e5-a453c84d054e#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/timss-quiz-koennen-sie-so-gut-rechnen-wie-deutschlands-viertklaessler](https://www.spiegel.de/panorama/bildung/timss-quiz-koennen-sie-so-gut-rechnen-wie-deutschlands-viertklaessler-a-d6cbbaa0-0dbb-4c05-9ed2-38aab530a695#ref=rss)
+### serie
 
-* [https://www.spiegel.de/panorama/justiz/dortmund-tod-von-mouhamed-drame-verteidiger-bezeichnet-schuesse-als-rechtmaessig](https://www.spiegel.de/panorama/justiz/dortmund-tod-von-mouhamed-drame-verteidiger-bezeichnet-schuesse-als-rechtmaessig-a-83bf0c88-5081-47e2-839f-de91c1db1165#ref=rss)
+* [https://www.spiegel.de/sport/fussball/serie-a-fussballprofi-edoardo-bove-kann-intensivstation-nach-zusammenbruch-verlassen](https://www.spiegel.de/sport/fussball/serie-a-fussballprofi-edoardo-bove-kann-intensivstation-nach-zusammenbruch-verlassen-a-34fd871a-d0b6-43ac-95a0-2bfb70baaee8#ref=rss)
+### edoardo
+
+* [https://www.spiegel.de/sport/fussball/serie-a-fussballprofi-edoardo-bove-kann-intensivstation-nach-zusammenbruch-verlassen](https://www.spiegel.de/sport/fussball/serie-a-fussballprofi-edoardo-bove-kann-intensivstation-nach-zusammenbruch-verlassen-a-34fd871a-d0b6-43ac-95a0-2bfb70baaee8#ref=rss)
+### bove
+
+* [https://www.spiegel.de/sport/fussball/serie-a-fussballprofi-edoardo-bove-kann-intensivstation-nach-zusammenbruch-verlassen](https://www.spiegel.de/sport/fussball/serie-a-fussballprofi-edoardo-bove-kann-intensivstation-nach-zusammenbruch-verlassen-a-34fd871a-d0b6-43ac-95a0-2bfb70baaee8#ref=rss)
+### angela
+
+* [https://www.spiegel.de/kultur/literatur/angela-merkel-freiheit-erinnerungen-1954-2021-ist-erfolgreichstes-buch-des-jahres](https://www.spiegel.de/kultur/literatur/angela-merkel-freiheit-erinnerungen-1954-2021-ist-erfolgreichstes-buch-des-jahres-a-97246804-c3bb-4488-940b-3f2b47cf0a45#ref=rss)
+### merkel
+
+* [https://www.spiegel.de/kultur/literatur/angela-merkel-freiheit-erinnerungen-1954-2021-ist-erfolgreichstes-buch-des-jahres](https://www.spiegel.de/kultur/literatur/angela-merkel-freiheit-erinnerungen-1954-2021-ist-erfolgreichstes-buch-des-jahres-a-97246804-c3bb-4488-940b-3f2b47cf0a45#ref=rss)
+### 2021
+
+* [https://www.spiegel.de/kultur/literatur/angela-merkel-freiheit-erinnerungen-1954-2021-ist-erfolgreichstes-buch-des-jahres](https://www.spiegel.de/kultur/literatur/angela-merkel-freiheit-erinnerungen-1954-2021-ist-erfolgreichstes-buch-des-jahres-a-97246804-c3bb-4488-940b-3f2b47cf0a45#ref=rss)
+* [https://www.spiegel.de/ausland/russland-aussenminister-lawrow-zu-osze-treffen-in-malta-gelandet-erste-einreise-in-eu-land-seit-beginn-der-invasion](https://www.spiegel.de/ausland/russland-aussenminister-lawrow-zu-osze-treffen-in-malta-gelandet-erste-einreise-in-eu-land-seit-beginn-der-invasion-a-5252f21d-38f7-4e9a-aa9d-0080b8361611#ref=rss)
+### diesem
+
+* [https://www.spiegel.de/kultur/literatur/angela-merkel-freiheit-erinnerungen-1954-2021-ist-erfolgreichstes-buch-des-jahres](https://www.spiegel.de/kultur/literatur/angela-merkel-freiheit-erinnerungen-1954-2021-ist-erfolgreichstes-buch-des-jahres-a-97246804-c3bb-4488-940b-3f2b47cf0a45#ref=rss)
+* [https://www.spiegel.de/familie/adventskalender-21-mal-gemeinsame-zeit-3-mal-knete](https://www.spiegel.de/familie/adventskalender-21-mal-gemeinsame-zeit-3-mal-knete-a-f864cf1f-9cde-4841-a4cc-c6cc6608863f#ref=rss)
+### franz
+
+* [https://www.spiegel.de/sport/basketball/nba-franz-wagner-fuehrt-orlando-magic-mit-35-punkten-zum-sieg-la-lakers-in-der-krise](https://www.spiegel.de/sport/basketball/nba-franz-wagner-fuehrt-orlando-magic-mit-35-punkten-zum-sieg-la-lakers-in-der-krise-a-599f3a3f-eb7d-465c-9f00-26e5452f3bba#ref=rss)
+### wagner
+
+* [https://www.spiegel.de/sport/basketball/nba-franz-wagner-fuehrt-orlando-magic-mit-35-punkten-zum-sieg-la-lakers-in-der-krise](https://www.spiegel.de/sport/basketball/nba-franz-wagner-fuehrt-orlando-magic-mit-35-punkten-zum-sieg-la-lakers-in-der-krise-a-599f3a3f-eb7d-465c-9f00-26e5452f3bba#ref=rss)
+### orlando
+
+* [https://www.spiegel.de/sport/basketball/nba-franz-wagner-fuehrt-orlando-magic-mit-35-punkten-zum-sieg-la-lakers-in-der-krise](https://www.spiegel.de/sport/basketball/nba-franz-wagner-fuehrt-orlando-magic-mit-35-punkten-zum-sieg-la-lakers-in-der-krise-a-599f3a3f-eb7d-465c-9f00-26e5452f3bba#ref=rss)
+### magic
+
+* [https://www.spiegel.de/sport/basketball/nba-franz-wagner-fuehrt-orlando-magic-mit-35-punkten-zum-sieg-la-lakers-in-der-krise](https://www.spiegel.de/sport/basketball/nba-franz-wagner-fuehrt-orlando-magic-mit-35-punkten-zum-sieg-la-lakers-in-der-krise-a-599f3a3f-eb7d-465c-9f00-26e5452f3bba#ref=rss)
+### sieg
+
+* [https://www.spiegel.de/sport/basketball/nba-franz-wagner-fuehrt-orlando-magic-mit-35-punkten-zum-sieg-la-lakers-in-der-krise](https://www.spiegel.de/sport/basketball/nba-franz-wagner-fuehrt-orlando-magic-mit-35-punkten-zum-sieg-la-lakers-in-der-krise-a-599f3a3f-eb7d-465c-9f00-26e5452f3bba#ref=rss)
+### la
+
+* [https://www.spiegel.de/sport/basketball/nba-franz-wagner-fuehrt-orlando-magic-mit-35-punkten-zum-sieg-la-lakers-in-der-krise](https://www.spiegel.de/sport/basketball/nba-franz-wagner-fuehrt-orlando-magic-mit-35-punkten-zum-sieg-la-lakers-in-der-krise-a-599f3a3f-eb7d-465c-9f00-26e5452f3bba#ref=rss)
+### lakers
+
+* [https://www.spiegel.de/sport/basketball/nba-franz-wagner-fuehrt-orlando-magic-mit-35-punkten-zum-sieg-la-lakers-in-der-krise](https://www.spiegel.de/sport/basketball/nba-franz-wagner-fuehrt-orlando-magic-mit-35-punkten-zum-sieg-la-lakers-in-der-krise-a-599f3a3f-eb7d-465c-9f00-26e5452f3bba#ref=rss)
+### amazongründer
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/amazon-gruender-jeff-bezos-blickt-optimistisch-auf-donald-trumps-zweite-amtszeit](https://www.spiegel.de/wirtschaft/unternehmen/amazon-gruender-jeff-bezos-blickt-optimistisch-auf-donald-trumps-zweite-amtszeit-a-aa7ddf60-1c92-4571-b019-8b9ba1eb759c#ref=rss)
+### jeff
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/amazon-gruender-jeff-bezos-blickt-optimistisch-auf-donald-trumps-zweite-amtszeit](https://www.spiegel.de/wirtschaft/unternehmen/amazon-gruender-jeff-bezos-blickt-optimistisch-auf-donald-trumps-zweite-amtszeit-a-aa7ddf60-1c92-4571-b019-8b9ba1eb759c#ref=rss)
+### bezos
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/amazon-gruender-jeff-bezos-blickt-optimistisch-auf-donald-trumps-zweite-amtszeit](https://www.spiegel.de/wirtschaft/unternehmen/amazon-gruender-jeff-bezos-blickt-optimistisch-auf-donald-trumps-zweite-amtszeit-a-aa7ddf60-1c92-4571-b019-8b9ba1eb759c#ref=rss)
+### optimistisch
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/amazon-gruender-jeff-bezos-blickt-optimistisch-auf-donald-trumps-zweite-amtszeit](https://www.spiegel.de/wirtschaft/unternehmen/amazon-gruender-jeff-bezos-blickt-optimistisch-auf-donald-trumps-zweite-amtszeit-a-aa7ddf60-1c92-4571-b019-8b9ba1eb759c#ref=rss)
+### amtszeit
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/amazon-gruender-jeff-bezos-blickt-optimistisch-auf-donald-trumps-zweite-amtszeit](https://www.spiegel.de/wirtschaft/unternehmen/amazon-gruender-jeff-bezos-blickt-optimistisch-auf-donald-trumps-zweite-amtszeit-a-aa7ddf60-1c92-4571-b019-8b9ba1eb759c#ref=rss)
+### schuldenbremse
+
+* [https://www.spiegel.de/politik/deutschland/schuldenbremse-friedrich-merz-zeigt-sich-erneut-gespraechsbereit](https://www.spiegel.de/politik/deutschland/schuldenbremse-friedrich-merz-zeigt-sich-erneut-gespraechsbereit-a-8c70343b-7175-43ba-9147-a215dfde3da5#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/schuldenbremse-friedrich-merz-zeigt-sich-erneut-gespraechsbereit](https://www.spiegel.de/politik/deutschland/schuldenbremse-friedrich-merz-zeigt-sich-erneut-gespraechsbereit-a-8c70343b-7175-43ba-9147-a215dfde3da5#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/schuldenbremse-friedrich-merz-zeigt-sich-erneut-gespraechsbereit](https://www.spiegel.de/politik/deutschland/schuldenbremse-friedrich-merz-zeigt-sich-erneut-gespraechsbereit-a-8c70343b-7175-43ba-9147-a215dfde3da5#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/politik/deutschland/schuldenbremse-friedrich-merz-zeigt-sich-erneut-gespraechsbereit](https://www.spiegel.de/politik/deutschland/schuldenbremse-friedrich-merz-zeigt-sich-erneut-gespraechsbereit-a-8c70343b-7175-43ba-9147-a215dfde3da5#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/timss-quiz-koennen-sie-so-gut-rechnen-wie-deutschlands-viertklaessler](https://www.spiegel.de/panorama/bildung/timss-quiz-koennen-sie-so-gut-rechnen-wie-deutschlands-viertklaessler-a-d6cbbaa0-0dbb-4c05-9ed2-38aab530a695#ref=rss)
+### syrien
+
+* [https://www.spiegel.de/ausland/syrien-kaempfe-treiben-offenbar-150-000-menschen-in-die-flucht-rebellen-und-dschihadisten-auf-dem-vormarsch](https://www.spiegel.de/ausland/syrien-kaempfe-treiben-offenbar-150-000-menschen-in-die-flucht-rebellen-und-dschihadisten-auf-dem-vormarsch-a-1ede5b1c-d8ef-474e-bee0-2d668c69f501#ref=rss)
+### kämpfe
+
+* [https://www.spiegel.de/ausland/syrien-kaempfe-treiben-offenbar-150-000-menschen-in-die-flucht-rebellen-und-dschihadisten-auf-dem-vormarsch](https://www.spiegel.de/ausland/syrien-kaempfe-treiben-offenbar-150-000-menschen-in-die-flucht-rebellen-und-dschihadisten-auf-dem-vormarsch-a-1ede5b1c-d8ef-474e-bee0-2d668c69f501#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/ausland/syrien-kaempfe-treiben-offenbar-150-000-menschen-in-die-flucht-rebellen-und-dschihadisten-auf-dem-vormarsch](https://www.spiegel.de/ausland/syrien-kaempfe-treiben-offenbar-150-000-menschen-in-die-flucht-rebellen-und-dschihadisten-auf-dem-vormarsch-a-1ede5b1c-d8ef-474e-bee0-2d668c69f501#ref=rss)
+* [https://www.spiegel.de/panorama/leute/prinz-william-und-prinz-harry-gratulieren-preistraegern-des-diana-awards-getrennt](https://www.spiegel.de/panorama/leute/prinz-william-und-prinz-harry-gratulieren-preistraegern-des-diana-awards-getrennt-a-eb1a132f-2fa2-43e0-aeb0-1e0e40d05ac0#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/ausland/syrien-kaempfe-treiben-offenbar-150-000-menschen-in-die-flucht-rebellen-und-dschihadisten-auf-dem-vormarsch](https://www.spiegel.de/ausland/syrien-kaempfe-treiben-offenbar-150-000-menschen-in-die-flucht-rebellen-und-dschihadisten-auf-dem-vormarsch-a-1ede5b1c-d8ef-474e-bee0-2d668c69f501#ref=rss)
+### flucht
+
+* [https://www.spiegel.de/ausland/syrien-kaempfe-treiben-offenbar-150-000-menschen-in-die-flucht-rebellen-und-dschihadisten-auf-dem-vormarsch](https://www.spiegel.de/ausland/syrien-kaempfe-treiben-offenbar-150-000-menschen-in-die-flucht-rebellen-und-dschihadisten-auf-dem-vormarsch-a-1ede5b1c-d8ef-474e-bee0-2d668c69f501#ref=rss)
+### rebellen
+
+* [https://www.spiegel.de/ausland/syrien-kaempfe-treiben-offenbar-150-000-menschen-in-die-flucht-rebellen-und-dschihadisten-auf-dem-vormarsch](https://www.spiegel.de/ausland/syrien-kaempfe-treiben-offenbar-150-000-menschen-in-die-flucht-rebellen-und-dschihadisten-auf-dem-vormarsch-a-1ede5b1c-d8ef-474e-bee0-2d668c69f501#ref=rss)
+### dschihadisten
+
+* [https://www.spiegel.de/ausland/syrien-kaempfe-treiben-offenbar-150-000-menschen-in-die-flucht-rebellen-und-dschihadisten-auf-dem-vormarsch](https://www.spiegel.de/ausland/syrien-kaempfe-treiben-offenbar-150-000-menschen-in-die-flucht-rebellen-und-dschihadisten-auf-dem-vormarsch-a-1ede5b1c-d8ef-474e-bee0-2d668c69f501#ref=rss)
+### continental
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/continental-staatsanwaltschaft-erhebt-anklage-gegen-ex-chef-karl-thomas-neumann](https://www.spiegel.de/wirtschaft/unternehmen/continental-staatsanwaltschaft-erhebt-anklage-gegen-ex-chef-karl-thomas-neumann-a-9ef1049f-2bc3-4d2d-9234-16a7411215c3#ref=rss)
+### staatsanwaltschaft
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/continental-staatsanwaltschaft-erhebt-anklage-gegen-ex-chef-karl-thomas-neumann](https://www.spiegel.de/wirtschaft/unternehmen/continental-staatsanwaltschaft-erhebt-anklage-gegen-ex-chef-karl-thomas-neumann-a-9ef1049f-2bc3-4d2d-9234-16a7411215c3#ref=rss)
+### karlthomas
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/continental-staatsanwaltschaft-erhebt-anklage-gegen-ex-chef-karl-thomas-neumann](https://www.spiegel.de/wirtschaft/unternehmen/continental-staatsanwaltschaft-erhebt-anklage-gegen-ex-chef-karl-thomas-neumann-a-9ef1049f-2bc3-4d2d-9234-16a7411215c3#ref=rss)
+### neumann
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/continental-staatsanwaltschaft-erhebt-anklage-gegen-ex-chef-karl-thomas-neumann](https://www.spiegel.de/wirtschaft/unternehmen/continental-staatsanwaltschaft-erhebt-anklage-gegen-ex-chef-karl-thomas-neumann-a-9ef1049f-2bc3-4d2d-9234-16a7411215c3#ref=rss)
+### prinz
+
+* [https://www.spiegel.de/panorama/leute/prinz-william-und-prinz-harry-gratulieren-preistraegern-des-diana-awards-getrennt](https://www.spiegel.de/panorama/leute/prinz-william-und-prinz-harry-gratulieren-preistraegern-des-diana-awards-getrennt-a-eb1a132f-2fa2-43e0-aeb0-1e0e40d05ac0#ref=rss)
+### william
+
+* [https://www.spiegel.de/panorama/leute/prinz-william-und-prinz-harry-gratulieren-preistraegern-des-diana-awards-getrennt](https://www.spiegel.de/panorama/leute/prinz-william-und-prinz-harry-gratulieren-preistraegern-des-diana-awards-getrennt-a-eb1a132f-2fa2-43e0-aeb0-1e0e40d05ac0#ref=rss)
+### harry
+
+* [https://www.spiegel.de/panorama/leute/prinz-william-und-prinz-harry-gratulieren-preistraegern-des-diana-awards-getrennt](https://www.spiegel.de/panorama/leute/prinz-william-und-prinz-harry-gratulieren-preistraegern-des-diana-awards-getrennt-a-eb1a132f-2fa2-43e0-aeb0-1e0e40d05ac0#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/russland-aussenminister-lawrow-zu-osze-treffen-in-malta-gelandet-erste-einreise-in-eu-land-seit-beginn-der-invasion](https://www.spiegel.de/ausland/russland-aussenminister-lawrow-zu-osze-treffen-in-malta-gelandet-erste-einreise-in-eu-land-seit-beginn-der-invasion-a-5252f21d-38f7-4e9a-aa9d-0080b8361611#ref=rss)
+### außenminister
+
+* [https://www.spiegel.de/ausland/russland-aussenminister-lawrow-zu-osze-treffen-in-malta-gelandet-erste-einreise-in-eu-land-seit-beginn-der-invasion](https://www.spiegel.de/ausland/russland-aussenminister-lawrow-zu-osze-treffen-in-malta-gelandet-erste-einreise-in-eu-land-seit-beginn-der-invasion-a-5252f21d-38f7-4e9a-aa9d-0080b8361611#ref=rss)
+### lawrow
+
+* [https://www.spiegel.de/ausland/russland-aussenminister-lawrow-zu-osze-treffen-in-malta-gelandet-erste-einreise-in-eu-land-seit-beginn-der-invasion](https://www.spiegel.de/ausland/russland-aussenminister-lawrow-zu-osze-treffen-in-malta-gelandet-erste-einreise-in-eu-land-seit-beginn-der-invasion-a-5252f21d-38f7-4e9a-aa9d-0080b8361611#ref=rss)
+### oszetreffen
+
+* [https://www.spiegel.de/ausland/russland-aussenminister-lawrow-zu-osze-treffen-in-malta-gelandet-erste-einreise-in-eu-land-seit-beginn-der-invasion](https://www.spiegel.de/ausland/russland-aussenminister-lawrow-zu-osze-treffen-in-malta-gelandet-erste-einreise-in-eu-land-seit-beginn-der-invasion-a-5252f21d-38f7-4e9a-aa9d-0080b8361611#ref=rss)
+### euland
+
+* [https://www.spiegel.de/ausland/russland-aussenminister-lawrow-zu-osze-treffen-in-malta-gelandet-erste-einreise-in-eu-land-seit-beginn-der-invasion](https://www.spiegel.de/ausland/russland-aussenminister-lawrow-zu-osze-treffen-in-malta-gelandet-erste-einreise-in-eu-land-seit-beginn-der-invasion-a-5252f21d-38f7-4e9a-aa9d-0080b8361611#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/ausland/suedkorea-polizei-ermittelt-gegen-praesident-yoon-wegen-aufruhrs](https://www.spiegel.de/ausland/suedkorea-polizei-ermittelt-gegen-praesident-yoon-wegen-aufruhrs-a-ebf756ef-fc1b-4683-a67f-8a687d6b7ded#ref=rss)
+### yoon
+
+* [https://www.spiegel.de/ausland/suedkorea-polizei-ermittelt-gegen-praesident-yoon-wegen-aufruhrs](https://www.spiegel.de/ausland/suedkorea-polizei-ermittelt-gegen-praesident-yoon-wegen-aufruhrs-a-ebf756ef-fc1b-4683-a67f-8a687d6b7ded#ref=rss)
+### staatschef
+
+* [https://www.spiegel.de/ausland/suedkorea-polizei-ermittelt-gegen-praesident-yoon-wegen-aufruhrs](https://www.spiegel.de/ausland/suedkorea-polizei-ermittelt-gegen-praesident-yoon-wegen-aufruhrs-a-ebf756ef-fc1b-4683-a67f-8a687d6b7ded#ref=rss)
+### adventskalender
+
+* [https://www.spiegel.de/familie/adventskalender-21-mal-gemeinsame-zeit-3-mal-knete](https://www.spiegel.de/familie/adventskalender-21-mal-gemeinsame-zeit-3-mal-knete-a-f864cf1f-9cde-4841-a4cc-c6cc6608863f#ref=rss)
+### meiner
+
+* [https://www.spiegel.de/familie/adventskalender-21-mal-gemeinsame-zeit-3-mal-knete](https://www.spiegel.de/familie/adventskalender-21-mal-gemeinsame-zeit-3-mal-knete-a-f864cf1f-9cde-4841-a4cc-c6cc6608863f#ref=rss)
+### bildungspolitik
+
+* [https://www.spiegel.de/familie/gescheiterte-bildungspolitik-morgen-kinder-wird-s-was-geben-aber-was](https://www.spiegel.de/familie/gescheiterte-bildungspolitik-morgen-kinder-wird-s-was-geben-aber-was-a-4dfdf057-14b6-4266-b790-b154dbcc5404#ref=rss)
+### morgen
+
+* [https://www.spiegel.de/familie/gescheiterte-bildungspolitik-morgen-kinder-wird-s-was-geben-aber-was](https://www.spiegel.de/familie/gescheiterte-bildungspolitik-morgen-kinder-wird-s-was-geben-aber-was-a-4dfdf057-14b6-4266-b790-b154dbcc5404#ref=rss)
+### deutschlands
+
+* [https://www.spiegel.de/panorama/bildung/timss-quiz-koennen-sie-so-gut-rechnen-wie-deutschlands-viertklaessler](https://www.spiegel.de/panorama/bildung/timss-quiz-koennen-sie-so-gut-rechnen-wie-deutschlands-viertklaessler-a-d6cbbaa0-0dbb-4c05-9ed2-38aab530a695#ref=rss)
+### viertklässler
+
+* [https://www.spiegel.de/panorama/bildung/timss-quiz-koennen-sie-so-gut-rechnen-wie-deutschlands-viertklaessler](https://www.spiegel.de/panorama/bildung/timss-quiz-koennen-sie-so-gut-rechnen-wie-deutschlands-viertklaessler-a-d6cbbaa0-0dbb-4c05-9ed2-38aab530a695#ref=rss)
+### #womeninmalefields
+
+* [https://www.spiegel.de/partnerschaft/womeninmalefields-es-kommt-auf-maenner-an-die-sich-fuer-frauen-positionieren](https://www.spiegel.de/partnerschaft/womeninmalefields-es-kommt-auf-maenner-an-die-sich-fuer-frauen-positionieren-a-6752c796-a0e4-446d-8ab7-61a54f890a8f#ref=rss)
+### liebe
+
+* [https://www.spiegel.de/partnerschaft/homo-ehe-penis-und-liebe-an-weihnachten-wie-weit-wir-fuer-die-liebe-gehen](https://www.spiegel.de/partnerschaft/homo-ehe-penis-und-liebe-an-weihnachten-wie-weit-wir-fuer-die-liebe-gehen-a-1b42c0a2-2c11-498f-b0e8-8ecb53731fb6#ref=rss)
 
