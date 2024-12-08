@@ -4,372 +4,383 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### syrien
-
-* [https://www.spiegel.de/ausland/umsturz-in-syrien-so-reagiert-die-welt](https://www.spiegel.de/ausland/umsturz-in-syrien-so-reagiert-die-welt-a-a7c92448-9664-4ab4-b0b5-aba3971ab1a0#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-assad-regime-stuerzt-ein-historischer-tag-fuer-das-syrische-volk](https://www.spiegel.de/ausland/syrien-assad-regime-stuerzt-ein-historischer-tag-fuer-das-syrische-volk-a-9e34c279-4182-4ae3-87e4-c409eed5f4ad#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-umsturz-in-syrien-und-waere-elon-musk-ein-guter-bundeskanzler](https://www.spiegel.de/politik/deutschland/news-umsturz-in-syrien-und-waere-elon-musk-ein-guter-bundeskanzler-a-34167514-2394-4f1b-8075-90a200acbed9#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-syrische-milizen-melden-befreiung-des-foltergefaengnisses-sednaja](https://www.spiegel.de/ausland/syrien-syrische-milizen-melden-befreiung-des-foltergefaengnisses-sednaja-a-3b2bbedf-c30a-4f23-ae0f-d910c86714e8#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-baschar-al-assad-soll-aus-damaskus-geflohen-sein-rebellen-melden-einmarsch-in-die-hauptstadt](https://www.spiegel.de/ausland/syrien-baschar-al-assad-soll-aus-damaskus-geflohen-sein-rebellen-melden-einmarsch-in-die-hauptstadt-a-da6cd6de-17bb-4a9f-ab4e-87f3fcd9c2ed#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-diktator-baschar-al-assad-steht-kurz-vor-dem-fall](https://www.spiegel.de/ausland/syrien-diktator-baschar-al-assad-steht-kurz-vor-dem-fall-a-e53aeeb1-fd9b-4bc4-aec9-dbc05b3b9f9d#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/notre-dame-in-paris-emmanuel-macron-eroeffnet-die-kathedrale](https://www.spiegel.de/ausland/notre-dame-in-paris-emmanuel-macron-eroeffnet-die-kathedrale-a-73ee7964-6efc-4deb-9892-a414553619fb#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-fordert-von-russland-und-ukraine-unverzuegliche-waffenruhe-und-verhandlungen](https://www.spiegel.de/ausland/donald-trump-fordert-von-russland-und-ukraine-unverzuegliche-waffenruhe-und-verhandlungen-a-9993564a-f4a8-41a0-bfa6-9fc3ebf54b71#ref=rss)
-* [https://www.spiegel.de/ausland/988-millionen-dollar-usa-schicken-drohnen-panzer-und-munition-an-die-ukraine](https://www.spiegel.de/ausland/988-millionen-dollar-usa-schicken-drohnen-panzer-und-munition-an-die-ukraine-a-279c5ae0-8f83-413f-87f1-c018aab54483#ref=rss)
-* [https://www.spiegel.de/panorama/notre-dame-frankreich-feiert-die-wiederauferstehung-der-beruehmten-kathedrale](https://www.spiegel.de/panorama/notre-dame-frankreich-feiert-die-wiederauferstehung-der-beruehmten-kathedrale-a-5dc586e2-24a8-4988-8cdc-7aa6e525fba1#ref=rss)
-* [https://www.spiegel.de/ausland/treffen-von-trump-macron-und-selenskyj-wir-alle-wollen-dass-dieser-krieg-auf-gerechte-weise-beendet-wird](https://www.spiegel.de/ausland/treffen-von-trump-macron-und-selenskyj-wir-alle-wollen-dass-dieser-krieg-auf-gerechte-weise-beendet-wird-a-34de84a4-1ca5-426c-95e4-ae257e3e62d5#ref=rss)
-### erste
-
-* [https://www.spiegel.de/sport/boxen-deutschland-deutschland-ueber-alles-bei-wm-kampf-von-mahmoud-charr](https://www.spiegel.de/sport/boxen-deutschland-deutschland-ueber-alles-bei-wm-kampf-von-mahmoud-charr-a-d1813c1f-5a4e-4637-8a1a-bac2c6784806#ref=rss)
-* [https://www.spiegel.de/sport/keirin-radsportlerinnen-fliegen-ueber-bande-hinweg-in-die-zuschauer-sechs-verletzte](https://www.spiegel.de/sport/keirin-radsportlerinnen-fliegen-ueber-bande-hinweg-in-die-zuschauer-sechs-verletzte-a-cfe0e23d-4a5a-4613-ad93-22909b96e642#ref=rss)
-* [https://www.spiegel.de/ausland/umsturz-in-syrien-so-reagiert-die-welt](https://www.spiegel.de/ausland/umsturz-in-syrien-so-reagiert-die-welt-a-a7c92448-9664-4ab4-b0b5-aba3971ab1a0#ref=rss)
-* [https://www.spiegel.de/sport/fussball/marco-reus-siebenmal-zweiter-mit-dem-bvb-nun-hat-er-seine-erste-meisterschaft](https://www.spiegel.de/sport/fussball/marco-reus-siebenmal-zweiter-mit-dem-bvb-nun-hat-er-seine-erste-meisterschaft-a-d17019d0-2d9d-44ed-8df8-20255377a0d0#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-news-am-8-dezember-erste-kaempfer-auf-gelaende-von-assads-palast-in-damaskus](https://www.spiegel.de/ausland/syrien-news-am-8-dezember-erste-kaempfer-auf-gelaende-von-assads-palast-in-damaskus-a-04250c8e-71f8-4a3f-8e3f-4fba7934157e#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-syrische-milizen-melden-befreiung-des-foltergefaengnisses-sednaja](https://www.spiegel.de/ausland/syrien-syrische-milizen-melden-befreiung-des-foltergefaengnisses-sednaja-a-3b2bbedf-c30a-4f23-ae0f-d910c86714e8#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/panorama/justiz/bundeswehr-fahnenflucht-und-vergewaltigung-ex-soldat-in-der-ukraine-gesucht](https://www.spiegel.de/panorama/justiz/bundeswehr-fahnenflucht-und-vergewaltigung-ex-soldat-in-der-ukraine-gesucht-a-6acaa5e6-5047-44e2-b983-0d2b2dd99a24#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-fordert-von-russland-und-ukraine-unverzuegliche-waffenruhe-und-verhandlungen](https://www.spiegel.de/ausland/donald-trump-fordert-von-russland-und-ukraine-unverzuegliche-waffenruhe-und-verhandlungen-a-9993564a-f4a8-41a0-bfa6-9fc3ebf54b71#ref=rss)
-* [https://www.spiegel.de/ausland/988-millionen-dollar-usa-schicken-drohnen-panzer-und-munition-an-die-ukraine](https://www.spiegel.de/ausland/988-millionen-dollar-usa-schicken-drohnen-panzer-und-munition-an-die-ukraine-a-279c5ae0-8f83-413f-87f1-c018aab54483#ref=rss)
-### notredame
-
-* [https://www.spiegel.de/ausland/notre-dame-in-paris-emmanuel-macron-eroeffnet-die-kathedrale](https://www.spiegel.de/ausland/notre-dame-in-paris-emmanuel-macron-eroeffnet-die-kathedrale-a-73ee7964-6efc-4deb-9892-a414553619fb#ref=rss)
-* [https://www.spiegel.de/panorama/notre-dame-frankreich-feiert-die-wiederauferstehung-der-beruehmten-kathedrale](https://www.spiegel.de/panorama/notre-dame-frankreich-feiert-die-wiederauferstehung-der-beruehmten-kathedrale-a-5dc586e2-24a8-4988-8cdc-7aa6e525fba1#ref=rss)
-* [https://www.spiegel.de/ausland/treffen-von-trump-macron-und-selenskyj-wir-alle-wollen-dass-dieser-krieg-auf-gerechte-weise-beendet-wird](https://www.spiegel.de/ausland/treffen-von-trump-macron-und-selenskyj-wir-alle-wollen-dass-dieser-krieg-auf-gerechte-weise-beendet-wird-a-34de84a4-1ca5-426c-95e4-ae257e3e62d5#ref=rss)
-### macron
-
-* [https://www.spiegel.de/ausland/notre-dame-in-paris-emmanuel-macron-eroeffnet-die-kathedrale](https://www.spiegel.de/ausland/notre-dame-in-paris-emmanuel-macron-eroeffnet-die-kathedrale-a-73ee7964-6efc-4deb-9892-a414553619fb#ref=rss)
-* [https://www.spiegel.de/panorama/notre-dame-frankreich-feiert-die-wiederauferstehung-der-beruehmten-kathedrale](https://www.spiegel.de/panorama/notre-dame-frankreich-feiert-die-wiederauferstehung-der-beruehmten-kathedrale-a-5dc586e2-24a8-4988-8cdc-7aa6e525fba1#ref=rss)
-* [https://www.spiegel.de/ausland/treffen-von-trump-macron-und-selenskyj-wir-alle-wollen-dass-dieser-krieg-auf-gerechte-weise-beendet-wird](https://www.spiegel.de/ausland/treffen-von-trump-macron-und-selenskyj-wir-alle-wollen-dass-dieser-krieg-auf-gerechte-weise-beendet-wird-a-34de84a4-1ca5-426c-95e4-ae257e3e62d5#ref=rss)
-### kathedrale
-
-* [https://www.spiegel.de/ausland/notre-dame-in-paris-emmanuel-macron-eroeffnet-die-kathedrale](https://www.spiegel.de/ausland/notre-dame-in-paris-emmanuel-macron-eroeffnet-die-kathedrale-a-73ee7964-6efc-4deb-9892-a414553619fb#ref=rss)
-* [https://www.spiegel.de/panorama/notre-dame-frankreich-feiert-die-wiederauferstehung-der-beruehmten-kathedrale](https://www.spiegel.de/panorama/notre-dame-frankreich-feiert-die-wiederauferstehung-der-beruehmten-kathedrale-a-5dc586e2-24a8-4988-8cdc-7aa6e525fba1#ref=rss)
-* [https://www.spiegel.de/ausland/treffen-von-trump-macron-und-selenskyj-wir-alle-wollen-dass-dieser-krieg-auf-gerechte-weise-beendet-wird](https://www.spiegel.de/ausland/treffen-von-trump-macron-und-selenskyj-wir-alle-wollen-dass-dieser-krieg-auf-gerechte-weise-beendet-wird-a-34de84a4-1ca5-426c-95e4-ae257e3e62d5#ref=rss)
-### selenskyj
-
-* [https://www.spiegel.de/ausland/notre-dame-in-paris-emmanuel-macron-eroeffnet-die-kathedrale](https://www.spiegel.de/ausland/notre-dame-in-paris-emmanuel-macron-eroeffnet-die-kathedrale-a-73ee7964-6efc-4deb-9892-a414553619fb#ref=rss)
-* [https://www.spiegel.de/panorama/notre-dame-frankreich-feiert-die-wiederauferstehung-der-beruehmten-kathedrale](https://www.spiegel.de/panorama/notre-dame-frankreich-feiert-die-wiederauferstehung-der-beruehmten-kathedrale-a-5dc586e2-24a8-4988-8cdc-7aa6e525fba1#ref=rss)
-* [https://www.spiegel.de/ausland/treffen-von-trump-macron-und-selenskyj-wir-alle-wollen-dass-dieser-krieg-auf-gerechte-weise-beendet-wird](https://www.spiegel.de/ausland/treffen-von-trump-macron-und-selenskyj-wir-alle-wollen-dass-dieser-krieg-auf-gerechte-weise-beendet-wird-a-34de84a4-1ca5-426c-95e4-ae257e3e62d5#ref=rss)
-### lange
-
-* [https://www.spiegel.de/ausland/donald-trump-fordert-von-russland-und-ukraine-unverzuegliche-waffenruhe-und-verhandlungen](https://www.spiegel.de/ausland/donald-trump-fordert-von-russland-und-ukraine-unverzuegliche-waffenruhe-und-verhandlungen-a-9993564a-f4a8-41a0-bfa6-9fc3ebf54b71#ref=rss)
-* [https://www.spiegel.de/sport/fussball/marco-reus-siebenmal-zweiter-mit-dem-bvb-nun-hat-er-seine-erste-meisterschaft](https://www.spiegel.de/sport/fussball/marco-reus-siebenmal-zweiter-mit-dem-bvb-nun-hat-er-seine-erste-meisterschaft-a-d17019d0-2d9d-44ed-8df8-20255377a0d0#ref=rss)
-* [https://www.spiegel.de/sport/fussball/michail-antonio-west-ham-stuermer-nach-schwerem-autounfall-im-krankenhaus](https://www.spiegel.de/sport/fussball/michail-antonio-west-ham-stuermer-nach-schwerem-autounfall-im-krankenhaus-a-b53f6dca-1731-4698-93f3-19b18ea81d6f#ref=rss)
-### diktator
-
-* [https://www.spiegel.de/ausland/syrien-assad-regime-stuerzt-ein-historischer-tag-fuer-das-syrische-volk](https://www.spiegel.de/ausland/syrien-assad-regime-stuerzt-ein-historischer-tag-fuer-das-syrische-volk-a-9e34c279-4182-4ae3-87e4-c409eed5f4ad#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-baschar-al-assad-soll-aus-damaskus-geflohen-sein-rebellen-melden-einmarsch-in-die-hauptstadt](https://www.spiegel.de/ausland/syrien-baschar-al-assad-soll-aus-damaskus-geflohen-sein-rebellen-melden-einmarsch-in-die-hauptstadt-a-da6cd6de-17bb-4a9f-ab4e-87f3fcd9c2ed#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-diktator-baschar-al-assad-steht-kurz-vor-dem-fall](https://www.spiegel.de/ausland/syrien-diktator-baschar-al-assad-steht-kurz-vor-dem-fall-a-e53aeeb1-fd9b-4bc4-aec9-dbc05b3b9f9d#ref=rss)
-### milizen
-
-* [https://www.spiegel.de/ausland/syrien-assad-regime-stuerzt-ein-historischer-tag-fuer-das-syrische-volk](https://www.spiegel.de/ausland/syrien-assad-regime-stuerzt-ein-historischer-tag-fuer-das-syrische-volk-a-9e34c279-4182-4ae3-87e4-c409eed5f4ad#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-syrische-milizen-melden-befreiung-des-foltergefaengnisses-sednaja](https://www.spiegel.de/ausland/syrien-syrische-milizen-melden-befreiung-des-foltergefaengnisses-sednaja-a-3b2bbedf-c30a-4f23-ae0f-d910c86714e8#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-diktator-baschar-al-assad-steht-kurz-vor-dem-fall](https://www.spiegel.de/ausland/syrien-diktator-baschar-al-assad-steht-kurz-vor-dem-fall-a-e53aeeb1-fd9b-4bc4-aec9-dbc05b3b9f9d#ref=rss)
-### damaskus
-
-* [https://www.spiegel.de/ausland/syrien-news-am-8-dezember-erste-kaempfer-auf-gelaende-von-assads-palast-in-damaskus](https://www.spiegel.de/ausland/syrien-news-am-8-dezember-erste-kaempfer-auf-gelaende-von-assads-palast-in-damaskus-a-04250c8e-71f8-4a3f-8e3f-4fba7934157e#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-baschar-al-assad-soll-aus-damaskus-geflohen-sein-rebellen-melden-einmarsch-in-die-hauptstadt](https://www.spiegel.de/ausland/syrien-baschar-al-assad-soll-aus-damaskus-geflohen-sein-rebellen-melden-einmarsch-in-die-hauptstadt-a-da6cd6de-17bb-4a9f-ab4e-87f3fcd9c2ed#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/sport/boxen-deutschland-deutschland-ueber-alles-bei-wm-kampf-von-mahmoud-charr](https://www.spiegel.de/sport/boxen-deutschland-deutschland-ueber-alles-bei-wm-kampf-von-mahmoud-charr-a-d1813c1f-5a4e-4637-8a1a-bac2c6784806#ref=rss)
-* [https://www.spiegel.de/ausland/umsturz-in-syrien-so-reagiert-die-welt](https://www.spiegel.de/ausland/umsturz-in-syrien-so-reagiert-die-welt-a-a7c92448-9664-4ab4-b0b5-aba3971ab1a0#ref=rss)
-### deutsche
+* [https://www.spiegel.de/ausland/donald-trump-zieht-nato-austritt-absolut-in-betracht-und-droht-ukraine-mit-geldentzug](https://www.spiegel.de/ausland/donald-trump-zieht-nato-austritt-absolut-in-betracht-und-droht-ukraine-mit-geldentzug-a-dbfbdd9f-254f-4158-a503-3ae73f9d6132#ref=rss)
+* [https://www.spiegel.de/ausland/syrer-in-deutschland-dieser-tag-wird-uns-ein-leben-lang-begleiten](https://www.spiegel.de/ausland/syrer-in-deutschland-dieser-tag-wird-uns-ein-leben-lang-begleiten-a-1c27eaa2-cc27-46bb-b486-4a9903387ce4#ref=rss)
+* [https://www.spiegel.de/panorama/eurojackpot-zwei-deutsche-teilen-sich-120-millionen-euro](https://www.spiegel.de/panorama/eurojackpot-zwei-deutsche-teilen-sich-120-millionen-euro-a-515f1e70-4033-4377-8b37-073f30a45ef5#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-nach-sturz-von-bashar-al-assad-feiert-mit-uns-kommentar-einer-vertriebenen](https://www.spiegel.de/ausland/syrien-nach-sturz-von-bashar-al-assad-feiert-mit-uns-kommentar-einer-vertriebenen-a-1626003e-81a5-4f2b-9f07-ea37294051ed#ref=rss)
+* [https://www.spiegel.de/sport/olympia/dosb-und-olympiabewerbung-deutschland-hat-keine-vision-keine-jahreszahl-keine-finanzplanung](https://www.spiegel.de/sport/olympia/dosb-und-olympiabewerbung-deutschland-hat-keine-vision-keine-jahreszahl-keine-finanzplanung-a-33fdc1eb-a568-4eef-8d1e-b1855c874d60#ref=rss)
+### syrien
 
-* [https://www.spiegel.de/sport/keirin-radsportlerinnen-fliegen-ueber-bande-hinweg-in-die-zuschauer-sechs-verletzte](https://www.spiegel.de/sport/keirin-radsportlerinnen-fliegen-ueber-bande-hinweg-in-die-zuschauer-sechs-verletzte-a-cfe0e23d-4a5a-4613-ad93-22909b96e642#ref=rss)
-* [https://www.spiegel.de/auto/deutsche-bahn-weisheiten-eines-bordbistro-chefs-im-ice-der-weg-ist-das-ziel](https://www.spiegel.de/auto/deutsche-bahn-weisheiten-eines-bordbistro-chefs-im-ice-der-weg-ist-das-ziel-a-2363cc07-9859-4195-aa39-4e6d9679bdec#ref=rss)
+* [https://www.spiegel.de/ausland/machtwechsel-in-damaskus-was-der-sturz-der-assad-diktatur-fuer-syrien-bedeutet-und-fuer-den-nahen-osten](https://www.spiegel.de/ausland/machtwechsel-in-damaskus-was-der-sturz-der-assad-diktatur-fuer-syrien-bedeutet-und-fuer-den-nahen-osten-a-90f9cf51-93a2-4465-a103-76d1e741138a#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-so-jubeln-die-menschen-von-paris-bis-istanbul-ueber-assads-sturz](https://www.spiegel.de/ausland/syrien-so-jubeln-die-menschen-von-paris-bis-istanbul-ueber-assads-sturz-a-4fb6ead5-f521-460f-931b-fd186895b64c#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-nach-dem-sturz-assads-moskau-nannte-die-aufstaendischen-terroristen-jetzt-will-es-mit-der-opposition-reden](https://www.spiegel.de/ausland/syrien-nach-dem-sturz-assads-moskau-nannte-die-aufstaendischen-terroristen-jetzt-will-es-mit-der-opposition-reden-a-3c48359b-0957-47f1-87e2-00631bc0cce0#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-nach-sturz-von-bashar-al-assad-feiert-mit-uns-kommentar-einer-vertriebenen](https://www.spiegel.de/ausland/syrien-nach-sturz-von-bashar-al-assad-feiert-mit-uns-kommentar-einer-vertriebenen-a-1626003e-81a5-4f2b-9f07-ea37294051ed#ref=rss)
+### 1
+
+* [https://www.spiegel.de/sport/formel1/formel-1-saisonabschluss-in-abu-dhabi-mclaren-ist-konstrukteurs-weltmeister-abschied-von-lewis-hamilton](https://www.spiegel.de/sport/formel1/formel-1-saisonabschluss-in-abu-dhabi-mclaren-ist-konstrukteurs-weltmeister-abschied-von-lewis-hamilton-a-e53e78d0-f89f-494a-9989-e7926db3e80b#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-brad-pitt-macht-selfies-mit-ferrari-piloten-und-crasht-die-nationalhymne](https://www.spiegel.de/sport/formel1/formel-1-brad-pitt-macht-selfies-mit-ferrari-piloten-und-crasht-die-nationalhymne-a-ce29cd0a-9044-414a-b9a9-a99938493dd2#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-nur-remis-gegen-darmstadt-98-1-fc-koeln-gewinnt](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-nur-remis-gegen-darmstadt-98-1-fc-koeln-gewinnt-a-4a5c0796-862a-4a63-a7df-3df5ba67a91f#ref=rss)
 ### ich
 
-* [https://www.spiegel.de/kultur/bas-kast-ueber-neues-buch-warum-ich-keinen-alkohol-mehr-trinke-und-eisbaden-als-groessten-genuss](https://www.spiegel.de/kultur/bas-kast-ueber-neues-buch-warum-ich-keinen-alkohol-mehr-trinke-und-eisbaden-als-groessten-genuss-a-eee68a8f-6bc0-4dad-a563-ee53d65e511a#ref=rss)
-* [https://www.spiegel.de/familie/rita-suessmuth-ueber-ihre-kindheit-im-krieg-die-traumatischen-erinnerungen-der-cdu-politikerin](https://www.spiegel.de/familie/rita-suessmuth-ueber-ihre-kindheit-im-krieg-die-traumatischen-erinnerungen-der-cdu-politikerin-a-3c814d69-5f65-4327-9a9e-1b6e1d27a4d4#ref=rss)
-### donald
+* [https://www.spiegel.de/ausland/syrien-nach-sturz-von-bashar-al-assad-feiert-mit-uns-kommentar-einer-vertriebenen](https://www.spiegel.de/ausland/syrien-nach-sturz-von-bashar-al-assad-feiert-mit-uns-kommentar-einer-vertriebenen-a-1626003e-81a5-4f2b-9f07-ea37294051ed#ref=rss)
+* [https://www.spiegel.de/politik/politiker-muessen-sich-diese-frage-stellen-wer-werde-ich-gewesen-sein-kolumne](https://www.spiegel.de/politik/politiker-muessen-sich-diese-frage-stellen-wer-werde-ich-gewesen-sein-kolumne-a-9887c53b-0841-4622-ae2b-431e2778521d#ref=rss)
+### sturz
 
-* [https://www.spiegel.de/ausland/donald-trump-fordert-von-russland-und-ukraine-unverzuegliche-waffenruhe-und-verhandlungen](https://www.spiegel.de/ausland/donald-trump-fordert-von-russland-und-ukraine-unverzuegliche-waffenruhe-und-verhandlungen-a-9993564a-f4a8-41a0-bfa6-9fc3ebf54b71#ref=rss)
-* [https://www.spiegel.de/ausland/988-millionen-dollar-usa-schicken-drohnen-panzer-und-munition-an-die-ukraine](https://www.spiegel.de/ausland/988-millionen-dollar-usa-schicken-drohnen-panzer-und-munition-an-die-ukraine-a-279c5ae0-8f83-413f-87f1-c018aab54483#ref=rss)
-### präsident
+* [https://www.spiegel.de/ausland/machtwechsel-in-damaskus-was-der-sturz-der-assad-diktatur-fuer-syrien-bedeutet-und-fuer-den-nahen-osten](https://www.spiegel.de/ausland/machtwechsel-in-damaskus-was-der-sturz-der-assad-diktatur-fuer-syrien-bedeutet-und-fuer-den-nahen-osten-a-90f9cf51-93a2-4465-a103-76d1e741138a#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-so-jubeln-die-menschen-von-paris-bis-istanbul-ueber-assads-sturz](https://www.spiegel.de/ausland/syrien-so-jubeln-die-menschen-von-paris-bis-istanbul-ueber-assads-sturz-a-4fb6ead5-f521-460f-931b-fd186895b64c#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-nach-dem-sturz-assads-moskau-nannte-die-aufstaendischen-terroristen-jetzt-will-es-mit-der-opposition-reden](https://www.spiegel.de/ausland/syrien-nach-dem-sturz-assads-moskau-nannte-die-aufstaendischen-terroristen-jetzt-will-es-mit-der-opposition-reden-a-3c48359b-0957-47f1-87e2-00631bc0cce0#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-nach-sturz-von-bashar-al-assad-feiert-mit-uns-kommentar-einer-vertriebenen](https://www.spiegel.de/ausland/syrien-nach-sturz-von-bashar-al-assad-feiert-mit-uns-kommentar-einer-vertriebenen-a-1626003e-81a5-4f2b-9f07-ea37294051ed#ref=rss)
+### fünf
 
-* [https://www.spiegel.de/ausland/suedkorea-staatsanwaltschaft-eroeffnet-strafverfahren-gegen-praesident-yoon](https://www.spiegel.de/ausland/suedkorea-staatsanwaltschaft-eroeffnet-strafverfahren-gegen-praesident-yoon-a-fc21ead1-3688-472b-b9b9-264bf3c1dcd9#ref=rss)
-* [https://www.spiegel.de/panorama/notre-dame-frankreich-feiert-die-wiederauferstehung-der-beruehmten-kathedrale](https://www.spiegel.de/panorama/notre-dame-frankreich-feiert-die-wiederauferstehung-der-beruehmten-kathedrale-a-5dc586e2-24a8-4988-8cdc-7aa6e525fba1#ref=rss)
-### saidnaja
+* [https://www.spiegel.de/panorama/den-haag-mindestens-fuenf-tote-bei-hausexplosion-behoerden-vermuten-verbrechen](https://www.spiegel.de/panorama/den-haag-mindestens-fuenf-tote-bei-hausexplosion-behoerden-vermuten-verbrechen-a-52112da3-6b97-4fef-a42c-fce54e3c8961#ref=rss)
+* [https://www.spiegel.de/karriere/raetsel-der-woche-zahlenquintett-gesucht](https://www.spiegel.de/karriere/raetsel-der-woche-zahlenquintett-gesucht-a-3fa3a3d1-0c80-4f4f-9ab1-9beee2b2e523#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-wolfsburg-besiegt-dank-jonas-wind-den-fsv-mainz-05](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-wolfsburg-besiegt-dank-jonas-wind-den-fsv-mainz-05-a-faf95e94-4a2c-4f53-8aff-b09cc7757048#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/ausland/syrien-news-am-8-dezember-erste-kaempfer-auf-gelaende-von-assads-palast-in-damaskus](https://www.spiegel.de/ausland/syrien-news-am-8-dezember-erste-kaempfer-auf-gelaende-von-assads-palast-in-damaskus-a-04250c8e-71f8-4a3f-8e3f-4fba7934157e#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-syrische-milizen-melden-befreiung-des-foltergefaengnisses-sednaja](https://www.spiegel.de/ausland/syrien-syrische-milizen-melden-befreiung-des-foltergefaengnisses-sednaja-a-3b2bbedf-c30a-4f23-ae0f-d910c86714e8#ref=rss)
-### fast
+* [https://www.spiegel.de/ausland/syrer-in-deutschland-dieser-tag-wird-uns-ein-leben-lang-begleiten](https://www.spiegel.de/ausland/syrer-in-deutschland-dieser-tag-wird-uns-ein-leben-lang-begleiten-a-1c27eaa2-cc27-46bb-b486-4a9903387ce4#ref=rss)
+* [https://www.spiegel.de/ausland/gambia-wie-das-land-sein-image-als-sextourismus-ziel-loswerden-will](https://www.spiegel.de/ausland/gambia-wie-das-land-sein-image-als-sextourismus-ziel-loswerden-will-a-0c218c76-af6e-4434-b1cf-36b9ac9ee04d#ref=rss)
+* [https://www.spiegel.de/ausland/georgien-proteste-gegen-regierung-verpruegelt-fuers-vereinte-europa](https://www.spiegel.de/ausland/georgien-proteste-gegen-regierung-verpruegelt-fuers-vereinte-europa-a-9c24f8ed-4dd0-4eef-b797-0dea630dc0c0#ref=rss)
+### damaskus
 
-* [https://www.spiegel.de/tests/fahrrad-zubehoer/regenhosen-zum-radfahren-von-gonso-gorewear-adidas-gripgrab-endura-vaude-und-agu-im-test](https://www.spiegel.de/tests/fahrrad-zubehoer/regenhosen-zum-radfahren-von-gonso-gorewear-adidas-gripgrab-endura-vaude-und-agu-im-test-a-658cc6bb-571e-4dd6-a4c3-4def7ee85b99#ref=rss)
-* [https://www.spiegel.de/ausland/988-millionen-dollar-usa-schicken-drohnen-panzer-und-munition-an-die-ukraine](https://www.spiegel.de/ausland/988-millionen-dollar-usa-schicken-drohnen-panzer-und-munition-an-die-ukraine-a-279c5ae0-8f83-413f-87f1-c018aab54483#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-diktator-baschar-al-assad-steht-kurz-vor-dem-fall](https://www.spiegel.de/ausland/syrien-diktator-baschar-al-assad-steht-kurz-vor-dem-fall-a-e53aeeb1-fd9b-4bc4-aec9-dbc05b3b9f9d#ref=rss)
-### baschar
+* [https://www.spiegel.de/ausland/machtwechsel-in-damaskus-was-der-sturz-der-assad-diktatur-fuer-syrien-bedeutet-und-fuer-den-nahen-osten](https://www.spiegel.de/ausland/machtwechsel-in-damaskus-was-der-sturz-der-assad-diktatur-fuer-syrien-bedeutet-und-fuer-den-nahen-osten-a-90f9cf51-93a2-4465-a103-76d1e741138a#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-so-jubeln-die-menschen-von-paris-bis-istanbul-ueber-assads-sturz](https://www.spiegel.de/ausland/syrien-so-jubeln-die-menschen-von-paris-bis-istanbul-ueber-assads-sturz-a-4fb6ead5-f521-460f-931b-fd186895b64c#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-nach-dem-sturz-assads-moskau-nannte-die-aufstaendischen-terroristen-jetzt-will-es-mit-der-opposition-reden](https://www.spiegel.de/ausland/syrien-nach-dem-sturz-assads-moskau-nannte-die-aufstaendischen-terroristen-jetzt-will-es-mit-der-opposition-reden-a-3c48359b-0957-47f1-87e2-00631bc0cce0#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/ausland/syrien-baschar-al-assad-soll-aus-damaskus-geflohen-sein-rebellen-melden-einmarsch-in-die-hauptstadt](https://www.spiegel.de/ausland/syrien-baschar-al-assad-soll-aus-damaskus-geflohen-sein-rebellen-melden-einmarsch-in-die-hauptstadt-a-da6cd6de-17bb-4a9f-ab4e-87f3fcd9c2ed#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-diktator-baschar-al-assad-steht-kurz-vor-dem-fall](https://www.spiegel.de/ausland/syrien-diktator-baschar-al-assad-steht-kurz-vor-dem-fall-a-e53aeeb1-fd9b-4bc4-aec9-dbc05b3b9f9d#ref=rss)
-### alassad
+* [https://www.spiegel.de/panorama/den-haag-mindestens-fuenf-tote-bei-hausexplosion-behoerden-vermuten-verbrechen](https://www.spiegel.de/panorama/den-haag-mindestens-fuenf-tote-bei-hausexplosion-behoerden-vermuten-verbrechen-a-52112da3-6b97-4fef-a42c-fce54e3c8961#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-so-jubeln-die-menschen-von-paris-bis-istanbul-ueber-assads-sturz](https://www.spiegel.de/ausland/syrien-so-jubeln-die-menschen-von-paris-bis-istanbul-ueber-assads-sturz-a-4fb6ead5-f521-460f-931b-fd186895b64c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/kuenstliche-intelligenz-ki-vordenker-ray-kurzweil-so-werden-wir-zu-supermenschen](https://www.spiegel.de/wissenschaft/kuenstliche-intelligenz-ki-vordenker-ray-kurzweil-so-werden-wir-zu-supermenschen-a-12c360d3-ef27-4413-b4b9-14be56ecc5d7#ref=rss)
+### zahlen
 
-* [https://www.spiegel.de/ausland/syrien-baschar-al-assad-soll-aus-damaskus-geflohen-sein-rebellen-melden-einmarsch-in-die-hauptstadt](https://www.spiegel.de/ausland/syrien-baschar-al-assad-soll-aus-damaskus-geflohen-sein-rebellen-melden-einmarsch-in-die-hauptstadt-a-da6cd6de-17bb-4a9f-ab4e-87f3fcd9c2ed#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-diktator-baschar-al-assad-steht-kurz-vor-dem-fall](https://www.spiegel.de/ausland/syrien-diktator-baschar-al-assad-steht-kurz-vor-dem-fall-a-e53aeeb1-fd9b-4bc4-aec9-dbc05b3b9f9d#ref=rss)
-### hauptstadt
+* [https://www.spiegel.de/karriere/raetsel-der-woche-zahlenquintett-gesucht](https://www.spiegel.de/karriere/raetsel-der-woche-zahlenquintett-gesucht-a-3fa3a3d1-0c80-4f4f-9ab1-9beee2b2e523#ref=rss)
+### sieg
 
-* [https://www.spiegel.de/ausland/syrien-baschar-al-assad-soll-aus-damaskus-geflohen-sein-rebellen-melden-einmarsch-in-die-hauptstadt](https://www.spiegel.de/ausland/syrien-baschar-al-assad-soll-aus-damaskus-geflohen-sein-rebellen-melden-einmarsch-in-die-hauptstadt-a-da6cd6de-17bb-4a9f-ab4e-87f3fcd9c2ed#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-diktator-baschar-al-assad-steht-kurz-vor-dem-fall](https://www.spiegel.de/ausland/syrien-diktator-baschar-al-assad-steht-kurz-vor-dem-fall-a-e53aeeb1-fd9b-4bc4-aec9-dbc05b3b9f9d#ref=rss)
-### antonio
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-wolfsburg-besiegt-dank-jonas-wind-den-fsv-mainz-05](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-wolfsburg-besiegt-dank-jonas-wind-den-fsv-mainz-05-a-faf95e94-4a2c-4f53-8aff-b09cc7757048#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-nur-remis-gegen-darmstadt-98-1-fc-koeln-gewinnt](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-nur-remis-gegen-darmstadt-98-1-fc-koeln-gewinnt-a-4a5c0796-862a-4a63-a7df-3df5ba67a91f#ref=rss)
+* [https://www.spiegel.de/sport/schach-wm-dommaraju-gukesh-hat-nach-sieg-gegen-ding-liren-in-11-partie-wm-titel-vor-augen](https://www.spiegel.de/sport/schach-wm-dommaraju-gukesh-hat-nach-sieg-gegen-ding-liren-in-11-partie-wm-titel-vor-augen-a-ceb22aa9-41ef-43f6-8b3b-45062d4198be#ref=rss)
+### assads
 
-* [https://www.spiegel.de/sport/fussball/michail-antonio-west-ham-stuermer-nach-schwerem-autounfall-im-krankenhaus](https://www.spiegel.de/sport/fussball/michail-antonio-west-ham-stuermer-nach-schwerem-autounfall-im-krankenhaus-a-b53f6dca-1731-4698-93f3-19b18ea81d6f#ref=rss)
-### krieg
+* [https://www.spiegel.de/ausland/syrien-so-jubeln-die-menschen-von-paris-bis-istanbul-ueber-assads-sturz](https://www.spiegel.de/ausland/syrien-so-jubeln-die-menschen-von-paris-bis-istanbul-ueber-assads-sturz-a-4fb6ead5-f521-460f-931b-fd186895b64c#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-nach-dem-sturz-assads-moskau-nannte-die-aufstaendischen-terroristen-jetzt-will-es-mit-der-opposition-reden](https://www.spiegel.de/ausland/syrien-nach-dem-sturz-assads-moskau-nannte-die-aufstaendischen-terroristen-jetzt-will-es-mit-der-opposition-reden-a-3c48359b-0957-47f1-87e2-00631bc0cce0#ref=rss)
+### abu
 
-* [https://www.spiegel.de/familie/rita-suessmuth-ueber-ihre-kindheit-im-krieg-die-traumatischen-erinnerungen-der-cdu-politikerin](https://www.spiegel.de/familie/rita-suessmuth-ueber-ihre-kindheit-im-krieg-die-traumatischen-erinnerungen-der-cdu-politikerin-a-3c814d69-5f65-4327-9a9e-1b6e1d27a4d4#ref=rss)
-* [https://www.spiegel.de/ausland/treffen-von-trump-macron-und-selenskyj-wir-alle-wollen-dass-dieser-krieg-auf-gerechte-weise-beendet-wird](https://www.spiegel.de/ausland/treffen-von-trump-macron-und-selenskyj-wir-alle-wollen-dass-dieser-krieg-auf-gerechte-weise-beendet-wird-a-34de84a4-1ca5-426c-95e4-ae257e3e62d5#ref=rss)
-### wmkampf
+* [https://www.spiegel.de/sport/formel1/formel-1-saisonabschluss-in-abu-dhabi-mclaren-ist-konstrukteurs-weltmeister-abschied-von-lewis-hamilton](https://www.spiegel.de/sport/formel1/formel-1-saisonabschluss-in-abu-dhabi-mclaren-ist-konstrukteurs-weltmeister-abschied-von-lewis-hamilton-a-e53e78d0-f89f-494a-9989-e7926db3e80b#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-brad-pitt-macht-selfies-mit-ferrari-piloten-und-crasht-die-nationalhymne](https://www.spiegel.de/sport/formel1/formel-1-brad-pitt-macht-selfies-mit-ferrari-piloten-und-crasht-die-nationalhymne-a-ce29cd0a-9044-414a-b9a9-a99938493dd2#ref=rss)
+### dhabi
 
-* [https://www.spiegel.de/sport/boxen-deutschland-deutschland-ueber-alles-bei-wm-kampf-von-mahmoud-charr](https://www.spiegel.de/sport/boxen-deutschland-deutschland-ueber-alles-bei-wm-kampf-von-mahmoud-charr-a-d1813c1f-5a4e-4637-8a1a-bac2c6784806#ref=rss)
-### mahmoud
+* [https://www.spiegel.de/sport/formel1/formel-1-saisonabschluss-in-abu-dhabi-mclaren-ist-konstrukteurs-weltmeister-abschied-von-lewis-hamilton](https://www.spiegel.de/sport/formel1/formel-1-saisonabschluss-in-abu-dhabi-mclaren-ist-konstrukteurs-weltmeister-abschied-von-lewis-hamilton-a-e53e78d0-f89f-494a-9989-e7926db3e80b#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-brad-pitt-macht-selfies-mit-ferrari-piloten-und-crasht-die-nationalhymne](https://www.spiegel.de/sport/formel1/formel-1-brad-pitt-macht-selfies-mit-ferrari-piloten-und-crasht-die-nationalhymne-a-ce29cd0a-9044-414a-b9a9-a99938493dd2#ref=rss)
+### formel
 
-* [https://www.spiegel.de/sport/boxen-deutschland-deutschland-ueber-alles-bei-wm-kampf-von-mahmoud-charr](https://www.spiegel.de/sport/boxen-deutschland-deutschland-ueber-alles-bei-wm-kampf-von-mahmoud-charr-a-d1813c1f-5a4e-4637-8a1a-bac2c6784806#ref=rss)
-### charr
+* [https://www.spiegel.de/sport/formel1/formel-1-saisonabschluss-in-abu-dhabi-mclaren-ist-konstrukteurs-weltmeister-abschied-von-lewis-hamilton](https://www.spiegel.de/sport/formel1/formel-1-saisonabschluss-in-abu-dhabi-mclaren-ist-konstrukteurs-weltmeister-abschied-von-lewis-hamilton-a-e53e78d0-f89f-494a-9989-e7926db3e80b#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-brad-pitt-macht-selfies-mit-ferrari-piloten-und-crasht-die-nationalhymne](https://www.spiegel.de/sport/formel1/formel-1-brad-pitt-macht-selfies-mit-ferrari-piloten-und-crasht-die-nationalhymne-a-ce29cd0a-9044-414a-b9a9-a99938493dd2#ref=rss)
+### fc
 
-* [https://www.spiegel.de/sport/boxen-deutschland-deutschland-ueber-alles-bei-wm-kampf-von-mahmoud-charr](https://www.spiegel.de/sport/boxen-deutschland-deutschland-ueber-alles-bei-wm-kampf-von-mahmoud-charr-a-d1813c1f-5a4e-4637-8a1a-bac2c6784806#ref=rss)
-### verletzte
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-seine-jahreshauptversammlung-wurst-und-segen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-seine-jahreshauptversammlung-wurst-und-segen-a-87a252ff-7296-4ace-93cb-2b75545dde3c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-nur-remis-gegen-darmstadt-98-1-fc-koeln-gewinnt](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-nur-remis-gegen-darmstadt-98-1-fc-koeln-gewinnt-a-4a5c0796-862a-4a63-a7df-3df5ba67a91f#ref=rss)
+### besonders
 
-* [https://www.spiegel.de/sport/keirin-radsportlerinnen-fliegen-ueber-bande-hinweg-in-die-zuschauer-sechs-verletzte](https://www.spiegel.de/sport/keirin-radsportlerinnen-fliegen-ueber-bande-hinweg-in-die-zuschauer-sechs-verletzte-a-cfe0e23d-4a5a-4613-ad93-22909b96e642#ref=rss)
-### mehrere
+* [https://www.spiegel.de/kultur/sachbuecher-das-sind-die-besten-titel-2024](https://www.spiegel.de/kultur/sachbuecher-das-sind-die-besten-titel-2024-a-932895cb-feb4-43f0-a5ed-31b7911d4349#ref=rss)
+* [https://www.spiegel.de/panorama/eurojackpot-zwei-deutsche-teilen-sich-120-millionen-euro](https://www.spiegel.de/panorama/eurojackpot-zwei-deutsche-teilen-sich-120-millionen-euro-a-515f1e70-4033-4377-8b37-073f30a45ef5#ref=rss)
+* [https://www.spiegel.de/geschichte/jena-wie-ein-mann-gegen-fake-geschichte-und-die-legende-von-der-auschwitzluege-kaempft](https://www.spiegel.de/geschichte/jena-wie-ein-mann-gegen-fake-geschichte-und-die-legende-von-der-auschwitzluege-kaempft-a-7779e008-5bb2-446d-b870-544dcdf9a0a8#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/sport/keirin-radsportlerinnen-fliegen-ueber-bande-hinweg-in-die-zuschauer-sechs-verletzte](https://www.spiegel.de/sport/keirin-radsportlerinnen-fliegen-ueber-bande-hinweg-in-die-zuschauer-sechs-verletzte-a-cfe0e23d-4a5a-4613-ad93-22909b96e642#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bundeswehr-fahnenflucht-und-vergewaltigung-ex-soldat-in-der-ukraine-gesucht](https://www.spiegel.de/panorama/justiz/bundeswehr-fahnenflucht-und-vergewaltigung-ex-soldat-in-der-ukraine-gesucht-a-6acaa5e6-5047-44e2-b983-0d2b2dd99a24#ref=rss)
-### treffen
-
-* [https://www.spiegel.de/politik/schwarz-gruen-verwirrung-um-treffen-zum-bier-mit-friedrich-merz](https://www.spiegel.de/politik/schwarz-gruen-verwirrung-um-treffen-zum-bier-mit-friedrich-merz-a-df7838a0-0ff4-4ac9-8c67-457f475737d6#ref=rss)
-* [https://www.spiegel.de/ausland/treffen-von-trump-macron-und-selenskyj-wir-alle-wollen-dass-dieser-krieg-auf-gerechte-weise-beendet-wird](https://www.spiegel.de/ausland/treffen-von-trump-macron-und-selenskyj-wir-alle-wollen-dass-dieser-krieg-auf-gerechte-weise-beendet-wird-a-34de84a4-1ca5-426c-95e4-ae257e3e62d5#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/schwarz-gruen-verwirrung-um-treffen-zum-bier-mit-friedrich-merz](https://www.spiegel.de/politik/schwarz-gruen-verwirrung-um-treffen-zum-bier-mit-friedrich-merz-a-df7838a0-0ff4-4ac9-8c67-457f475737d6#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/schwarz-gruen-verwirrung-um-treffen-zum-bier-mit-friedrich-merz](https://www.spiegel.de/politik/schwarz-gruen-verwirrung-um-treffen-zum-bier-mit-friedrich-merz-a-df7838a0-0ff4-4ac9-8c67-457f475737d6#ref=rss)
-### wäre
-
-* [https://www.spiegel.de/politik/schwarz-gruen-verwirrung-um-treffen-zum-bier-mit-friedrich-merz](https://www.spiegel.de/politik/schwarz-gruen-verwirrung-um-treffen-zum-bier-mit-friedrich-merz-a-df7838a0-0ff4-4ac9-8c67-457f475737d6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-umsturz-in-syrien-und-waere-elon-musk-ein-guter-bundeskanzler](https://www.spiegel.de/politik/deutschland/news-umsturz-in-syrien-und-waere-elon-musk-ein-guter-bundeskanzler-a-34167514-2394-4f1b-8075-90a200acbed9#ref=rss)
-### laden
-
-* [https://www.spiegel.de/auto/elektroauto-laden-wie-man-mit-dynamischen-strompreisen-hunderte-euro-spart](https://www.spiegel.de/auto/elektroauto-laden-wie-man-mit-dynamischen-strompreisen-hunderte-euro-spart-a-5928de2e-7c5d-4701-bcdc-06ec308cc42b#ref=rss)
-### kommen
-
-* [https://www.spiegel.de/auto/elektroauto-laden-wie-man-mit-dynamischen-strompreisen-hunderte-euro-spart](https://www.spiegel.de/auto/elektroauto-laden-wie-man-mit-dynamischen-strompreisen-hunderte-euro-spart-a-5928de2e-7c5d-4701-bcdc-06ec308cc42b#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-news-am-8-dezember-erste-kaempfer-auf-gelaende-von-assads-palast-in-damaskus](https://www.spiegel.de/ausland/syrien-news-am-8-dezember-erste-kaempfer-auf-gelaende-von-assads-palast-in-damaskus-a-04250c8e-71f8-4a3f-8e3f-4fba7934157e#ref=rss)
-### weg
-
-* [https://www.spiegel.de/auto/elektroauto-laden-wie-man-mit-dynamischen-strompreisen-hunderte-euro-spart](https://www.spiegel.de/auto/elektroauto-laden-wie-man-mit-dynamischen-strompreisen-hunderte-euro-spart-a-5928de2e-7c5d-4701-bcdc-06ec308cc42b#ref=rss)
-* [https://www.spiegel.de/auto/deutsche-bahn-weisheiten-eines-bordbistro-chefs-im-ice-der-weg-ist-das-ziel](https://www.spiegel.de/auto/deutsche-bahn-weisheiten-eines-bordbistro-chefs-im-ice-der-weg-ist-das-ziel-a-2363cc07-9859-4195-aa39-4e6d9679bdec#ref=rss)
-### besonderen
-
-* [https://www.spiegel.de/auto/elektroauto-laden-wie-man-mit-dynamischen-strompreisen-hunderte-euro-spart](https://www.spiegel.de/auto/elektroauto-laden-wie-man-mit-dynamischen-strompreisen-hunderte-euro-spart-a-5928de2e-7c5d-4701-bcdc-06ec308cc42b#ref=rss)
-* [https://www.spiegel.de/panorama/notre-dame-frankreich-feiert-die-wiederauferstehung-der-beruehmten-kathedrale](https://www.spiegel.de/panorama/notre-dame-frankreich-feiert-die-wiederauferstehung-der-beruehmten-kathedrale-a-5dc586e2-24a8-4988-8cdc-7aa6e525fba1#ref=rss)
-### gilt
-
-* [https://www.spiegel.de/auto/elektroauto-laden-wie-man-mit-dynamischen-strompreisen-hunderte-euro-spart](https://www.spiegel.de/auto/elektroauto-laden-wie-man-mit-dynamischen-strompreisen-hunderte-euro-spart-a-5928de2e-7c5d-4701-bcdc-06ec308cc42b#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-syrische-milizen-melden-befreiung-des-foltergefaengnisses-sednaja](https://www.spiegel.de/ausland/syrien-syrische-milizen-melden-befreiung-des-foltergefaengnisses-sednaja-a-3b2bbedf-c30a-4f23-ae0f-d910c86714e8#ref=rss)
-### 8
-
-* [https://www.spiegel.de/familie/spiegel-adventskalender-tuer-8-die-dezember-bande](https://www.spiegel.de/familie/spiegel-adventskalender-tuer-8-die-dezember-bande-a-33039c32-a270-494a-a0c7-39fa7555eb17#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-news-am-8-dezember-erste-kaempfer-auf-gelaende-von-assads-palast-in-damaskus](https://www.spiegel.de/ausland/syrien-news-am-8-dezember-erste-kaempfer-auf-gelaende-von-assads-palast-in-damaskus-a-04250c8e-71f8-4a3f-8e3f-4fba7934157e#ref=rss)
-### fahnenflucht
-
-* [https://www.spiegel.de/panorama/justiz/bundeswehr-fahnenflucht-und-vergewaltigung-ex-soldat-in-der-ukraine-gesucht](https://www.spiegel.de/panorama/justiz/bundeswehr-fahnenflucht-und-vergewaltigung-ex-soldat-in-der-ukraine-gesucht-a-6acaa5e6-5047-44e2-b983-0d2b2dd99a24#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/justiz/bundeswehr-fahnenflucht-und-vergewaltigung-ex-soldat-in-der-ukraine-gesucht](https://www.spiegel.de/panorama/justiz/bundeswehr-fahnenflucht-und-vergewaltigung-ex-soldat-in-der-ukraine-gesucht-a-6acaa5e6-5047-44e2-b983-0d2b2dd99a24#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-baschar-al-assad-soll-aus-damaskus-geflohen-sein-rebellen-melden-einmarsch-in-die-hauptstadt](https://www.spiegel.de/ausland/syrien-baschar-al-assad-soll-aus-damaskus-geflohen-sein-rebellen-melden-einmarsch-in-die-hauptstadt-a-da6cd6de-17bb-4a9f-ab4e-87f3fcd9c2ed#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/panorama/justiz/bundeswehr-fahnenflucht-und-vergewaltigung-ex-soldat-in-der-ukraine-gesucht](https://www.spiegel.de/panorama/justiz/bundeswehr-fahnenflucht-und-vergewaltigung-ex-soldat-in-der-ukraine-gesucht-a-6acaa5e6-5047-44e2-b983-0d2b2dd99a24#ref=rss)
-* [https://www.spiegel.de/sport/fussball/marco-reus-siebenmal-zweiter-mit-dem-bvb-nun-hat-er-seine-erste-meisterschaft](https://www.spiegel.de/sport/fussball/marco-reus-siebenmal-zweiter-mit-dem-bvb-nun-hat-er-seine-erste-meisterschaft-a-d17019d0-2d9d-44ed-8df8-20255377a0d0#ref=rss)
-### bas
-
-* [https://www.spiegel.de/kultur/bas-kast-ueber-neues-buch-warum-ich-keinen-alkohol-mehr-trinke-und-eisbaden-als-groessten-genuss](https://www.spiegel.de/kultur/bas-kast-ueber-neues-buch-warum-ich-keinen-alkohol-mehr-trinke-und-eisbaden-als-groessten-genuss-a-eee68a8f-6bc0-4dad-a563-ee53d65e511a#ref=rss)
-### kast
-
-* [https://www.spiegel.de/kultur/bas-kast-ueber-neues-buch-warum-ich-keinen-alkohol-mehr-trinke-und-eisbaden-als-groessten-genuss](https://www.spiegel.de/kultur/bas-kast-ueber-neues-buch-warum-ich-keinen-alkohol-mehr-trinke-und-eisbaden-als-groessten-genuss-a-eee68a8f-6bc0-4dad-a563-ee53d65e511a#ref=rss)
-### buch
-
-* [https://www.spiegel.de/kultur/bas-kast-ueber-neues-buch-warum-ich-keinen-alkohol-mehr-trinke-und-eisbaden-als-groessten-genuss](https://www.spiegel.de/kultur/bas-kast-ueber-neues-buch-warum-ich-keinen-alkohol-mehr-trinke-und-eisbaden-als-groessten-genuss-a-eee68a8f-6bc0-4dad-a563-ee53d65e511a#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/kultur/bas-kast-ueber-neues-buch-warum-ich-keinen-alkohol-mehr-trinke-und-eisbaden-als-groessten-genuss](https://www.spiegel.de/kultur/bas-kast-ueber-neues-buch-warum-ich-keinen-alkohol-mehr-trinke-und-eisbaden-als-groessten-genuss-a-eee68a8f-6bc0-4dad-a563-ee53d65e511a#ref=rss)
-* [https://www.spiegel.de/ausland/notre-dame-in-paris-emmanuel-macron-eroeffnet-die-kathedrale](https://www.spiegel.de/ausland/notre-dame-in-paris-emmanuel-macron-eroeffnet-die-kathedrale-a-73ee7964-6efc-4deb-9892-a414553619fb#ref=rss)
-### genuss
-
-* [https://www.spiegel.de/kultur/bas-kast-ueber-neues-buch-warum-ich-keinen-alkohol-mehr-trinke-und-eisbaden-als-groessten-genuss](https://www.spiegel.de/kultur/bas-kast-ueber-neues-buch-warum-ich-keinen-alkohol-mehr-trinke-und-eisbaden-als-groessten-genuss-a-eee68a8f-6bc0-4dad-a563-ee53d65e511a#ref=rss)
-### großen
-
-* [https://www.spiegel.de/kultur/bas-kast-ueber-neues-buch-warum-ich-keinen-alkohol-mehr-trinke-und-eisbaden-als-groessten-genuss](https://www.spiegel.de/kultur/bas-kast-ueber-neues-buch-warum-ich-keinen-alkohol-mehr-trinke-und-eisbaden-als-groessten-genuss-a-eee68a8f-6bc0-4dad-a563-ee53d65e511a#ref=rss)
-* [https://www.spiegel.de/panorama/notre-dame-frankreich-feiert-die-wiederauferstehung-der-beruehmten-kathedrale](https://www.spiegel.de/panorama/notre-dame-frankreich-feiert-die-wiederauferstehung-der-beruehmten-kathedrale-a-5dc586e2-24a8-4988-8cdc-7aa6e525fba1#ref=rss)
-### fußballbundesliga
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-muenchen-setzt-bei-standards-auf-die-tricks-von-robben-und-ribery](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-muenchen-setzt-bei-standards-auf-die-tricks-von-robben-und-ribery-a-366e5062-af9c-44fe-9809-59e12f4e450e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-remis-zwischen-borussia-dortmund-und-borussia-moenchengladbach](https://www.spiegel.de/sport/fussball/fussball-bundesliga-remis-zwischen-borussia-dortmund-und-borussia-moenchengladbach-a-1404243b-fefd-4a60-a8d8-cf8d8cb4ea83#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-muenchen-setzt-bei-standards-auf-die-tricks-von-robben-und-ribery](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-muenchen-setzt-bei-standards-auf-die-tricks-von-robben-und-ribery-a-366e5062-af9c-44fe-9809-59e12f4e450e#ref=rss)
-* [https://www.spiegel.de/auto/deutsche-bahn-weisheiten-eines-bordbistro-chefs-im-ice-der-weg-ist-das-ziel](https://www.spiegel.de/auto/deutsche-bahn-weisheiten-eines-bordbistro-chefs-im-ice-der-weg-ist-das-ziel-a-2363cc07-9859-4195-aa39-4e6d9679bdec#ref=rss)
-### standards
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-muenchen-setzt-bei-standards-auf-die-tricks-von-robben-und-ribery](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-muenchen-setzt-bei-standards-auf-die-tricks-von-robben-und-ribery-a-366e5062-af9c-44fe-9809-59e12f4e450e#ref=rss)
-### umsturz
-
-* [https://www.spiegel.de/ausland/umsturz-in-syrien-so-reagiert-die-welt](https://www.spiegel.de/ausland/umsturz-in-syrien-so-reagiert-die-welt-a-a7c92448-9664-4ab4-b0b5-aba3971ab1a0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-umsturz-in-syrien-und-waere-elon-musk-ein-guter-bundeskanzler](https://www.spiegel.de/politik/deutschland/news-umsturz-in-syrien-und-waere-elon-musk-ein-guter-bundeskanzler-a-34167514-2394-4f1b-8075-90a200acbed9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-nur-remis-gegen-darmstadt-98-1-fc-koeln-gewinnt](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-nur-remis-gegen-darmstadt-98-1-fc-koeln-gewinnt-a-4a5c0796-862a-4a63-a7df-3df5ba67a91f#ref=rss)
+* [https://www.spiegel.de/panorama/eurojackpot-zwei-deutsche-teilen-sich-120-millionen-euro](https://www.spiegel.de/panorama/eurojackpot-zwei-deutsche-teilen-sich-120-millionen-euro-a-515f1e70-4033-4377-8b37-073f30a45ef5#ref=rss)
 ### land
 
-* [https://www.spiegel.de/ausland/umsturz-in-syrien-so-reagiert-die-welt](https://www.spiegel.de/ausland/umsturz-in-syrien-so-reagiert-die-welt-a-a7c92448-9664-4ab4-b0b5-aba3971ab1a0#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-assad-regime-stuerzt-ein-historischer-tag-fuer-das-syrische-volk](https://www.spiegel.de/ausland/syrien-assad-regime-stuerzt-ein-historischer-tag-fuer-das-syrische-volk-a-9e34c279-4182-4ae3-87e4-c409eed5f4ad#ref=rss)
-### selbst
+* [https://www.spiegel.de/ausland/gambia-wie-das-land-sein-image-als-sextourismus-ziel-loswerden-will](https://www.spiegel.de/ausland/gambia-wie-das-land-sein-image-als-sextourismus-ziel-loswerden-will-a-0c218c76-af6e-4434-b1cf-36b9ac9ee04d#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-nach-dem-sturz-assads-moskau-nannte-die-aufstaendischen-terroristen-jetzt-will-es-mit-der-opposition-reden](https://www.spiegel.de/ausland/syrien-nach-dem-sturz-assads-moskau-nannte-die-aufstaendischen-terroristen-jetzt-will-es-mit-der-opposition-reden-a-3c48359b-0957-47f1-87e2-00631bc0cce0#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-nach-sturz-von-bashar-al-assad-feiert-mit-uns-kommentar-einer-vertriebenen](https://www.spiegel.de/ausland/syrien-nach-sturz-von-bashar-al-assad-feiert-mit-uns-kommentar-einer-vertriebenen-a-1626003e-81a5-4f2b-9f07-ea37294051ed#ref=rss)
+### nahen
 
-* [https://www.spiegel.de/ausland/umsturz-in-syrien-so-reagiert-die-welt](https://www.spiegel.de/ausland/umsturz-in-syrien-so-reagiert-die-welt-a-a7c92448-9664-4ab4-b0b5-aba3971ab1a0#ref=rss)
-* [https://www.spiegel.de/panorama/leute/jennifer-lopez-schauspielstar-kaempfte-als-alleinerziehende-mit-selbstzweifeln](https://www.spiegel.de/panorama/leute/jennifer-lopez-schauspielstar-kaempfte-als-alleinerziehende-mit-selbstzweifeln-a-393c5060-545c-4fa7-921b-4c4a0b1d0136#ref=rss)
-### paris
+* [https://www.spiegel.de/ausland/machtwechsel-in-damaskus-was-der-sturz-der-assad-diktatur-fuer-syrien-bedeutet-und-fuer-den-nahen-osten](https://www.spiegel.de/ausland/machtwechsel-in-damaskus-was-der-sturz-der-assad-diktatur-fuer-syrien-bedeutet-und-fuer-den-nahen-osten-a-90f9cf51-93a2-4465-a103-76d1e741138a#ref=rss)
+### osten
 
-* [https://www.spiegel.de/ausland/notre-dame-in-paris-emmanuel-macron-eroeffnet-die-kathedrale](https://www.spiegel.de/ausland/notre-dame-in-paris-emmanuel-macron-eroeffnet-die-kathedrale-a-73ee7964-6efc-4deb-9892-a414553619fb#ref=rss)
-* [https://www.spiegel.de/ausland/treffen-von-trump-macron-und-selenskyj-wir-alle-wollen-dass-dieser-krieg-auf-gerechte-weise-beendet-wird](https://www.spiegel.de/ausland/treffen-von-trump-macron-und-selenskyj-wir-alle-wollen-dass-dieser-krieg-auf-gerechte-weise-beendet-wird-a-34de84a4-1ca5-426c-95e4-ae257e3e62d5#ref=rss)
-### eröffnet
+* [https://www.spiegel.de/ausland/machtwechsel-in-damaskus-was-der-sturz-der-assad-diktatur-fuer-syrien-bedeutet-und-fuer-den-nahen-osten](https://www.spiegel.de/ausland/machtwechsel-in-damaskus-was-der-sturz-der-assad-diktatur-fuer-syrien-bedeutet-und-fuer-den-nahen-osten-a-90f9cf51-93a2-4465-a103-76d1e741138a#ref=rss)
+### haag
 
-* [https://www.spiegel.de/ausland/notre-dame-in-paris-emmanuel-macron-eroeffnet-die-kathedrale](https://www.spiegel.de/ausland/notre-dame-in-paris-emmanuel-macron-eroeffnet-die-kathedrale-a-73ee7964-6efc-4deb-9892-a414553619fb#ref=rss)
-* [https://www.spiegel.de/ausland/suedkorea-staatsanwaltschaft-eroeffnet-strafverfahren-gegen-praesident-yoon](https://www.spiegel.de/ausland/suedkorea-staatsanwaltschaft-eroeffnet-strafverfahren-gegen-praesident-yoon-a-fc21ead1-3688-472b-b9b9-264bf3c1dcd9#ref=rss)
-### frankreich
+* [https://www.spiegel.de/panorama/den-haag-mindestens-fuenf-tote-bei-hausexplosion-behoerden-vermuten-verbrechen](https://www.spiegel.de/panorama/den-haag-mindestens-fuenf-tote-bei-hausexplosion-behoerden-vermuten-verbrechen-a-52112da3-6b97-4fef-a42c-fce54e3c8961#ref=rss)
+### mindestens
 
-* [https://www.spiegel.de/ausland/notre-dame-in-paris-emmanuel-macron-eroeffnet-die-kathedrale](https://www.spiegel.de/ausland/notre-dame-in-paris-emmanuel-macron-eroeffnet-die-kathedrale-a-73ee7964-6efc-4deb-9892-a414553619fb#ref=rss)
-* [https://www.spiegel.de/panorama/notre-dame-frankreich-feiert-die-wiederauferstehung-der-beruehmten-kathedrale](https://www.spiegel.de/panorama/notre-dame-frankreich-feiert-die-wiederauferstehung-der-beruehmten-kathedrale-a-5dc586e2-24a8-4988-8cdc-7aa6e525fba1#ref=rss)
-### jahren
+* [https://www.spiegel.de/panorama/den-haag-mindestens-fuenf-tote-bei-hausexplosion-behoerden-vermuten-verbrechen](https://www.spiegel.de/panorama/den-haag-mindestens-fuenf-tote-bei-hausexplosion-behoerden-vermuten-verbrechen-a-52112da3-6b97-4fef-a42c-fce54e3c8961#ref=rss)
+### pius
 
-* [https://www.spiegel.de/ausland/notre-dame-in-paris-emmanuel-macron-eroeffnet-die-kathedrale](https://www.spiegel.de/ausland/notre-dame-in-paris-emmanuel-macron-eroeffnet-die-kathedrale-a-73ee7964-6efc-4deb-9892-a414553619fb#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-diktator-baschar-al-assad-steht-kurz-vor-dem-fall](https://www.spiegel.de/ausland/syrien-diktator-baschar-al-assad-steht-kurz-vor-dem-fall-a-e53aeeb1-fd9b-4bc4-aec9-dbc05b3b9f9d#ref=rss)
-### fordert
+* [https://www.spiegel.de/sport/wintersport/skispringen-pius-paschke-gewinnt-in-wisla-3-saisonsieg](https://www.spiegel.de/sport/wintersport/skispringen-pius-paschke-gewinnt-in-wisla-3-saisonsieg-a-29799d70-5fed-4616-b2b9-fcbd6b62e04f#ref=rss)
+### paschke
 
-* [https://www.spiegel.de/ausland/donald-trump-fordert-von-russland-und-ukraine-unverzuegliche-waffenruhe-und-verhandlungen](https://www.spiegel.de/ausland/donald-trump-fordert-von-russland-und-ukraine-unverzuegliche-waffenruhe-und-verhandlungen-a-9993564a-f4a8-41a0-bfa6-9fc3ebf54b71#ref=rss)
-* [https://www.spiegel.de/ausland/argentinien-fordert-freies-geleit-fuer-geflohene-oppositionelle](https://www.spiegel.de/ausland/argentinien-fordert-freies-geleit-fuer-geflohene-oppositionelle-a-47bfbde9-0ce7-4dd5-8d8e-cbcae3d79564#ref=rss)
-### assadregime
+* [https://www.spiegel.de/sport/wintersport/skispringen-pius-paschke-gewinnt-in-wisla-3-saisonsieg](https://www.spiegel.de/sport/wintersport/skispringen-pius-paschke-gewinnt-in-wisla-3-saisonsieg-a-29799d70-5fed-4616-b2b9-fcbd6b62e04f#ref=rss)
+### gewinnt
 
-* [https://www.spiegel.de/ausland/syrien-assad-regime-stuerzt-ein-historischer-tag-fuer-das-syrische-volk](https://www.spiegel.de/ausland/syrien-assad-regime-stuerzt-ein-historischer-tag-fuer-das-syrische-volk-a-9e34c279-4182-4ae3-87e4-c409eed5f4ad#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-syrische-milizen-melden-befreiung-des-foltergefaengnisses-sednaja](https://www.spiegel.de/ausland/syrien-syrische-milizen-melden-befreiung-des-foltergefaengnisses-sednaja-a-3b2bbedf-c30a-4f23-ae0f-d910c86714e8#ref=rss)
-### syrische
+* [https://www.spiegel.de/sport/wintersport/skispringen-pius-paschke-gewinnt-in-wisla-3-saisonsieg](https://www.spiegel.de/sport/wintersport/skispringen-pius-paschke-gewinnt-in-wisla-3-saisonsieg-a-29799d70-5fed-4616-b2b9-fcbd6b62e04f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-nur-remis-gegen-darmstadt-98-1-fc-koeln-gewinnt](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-nur-remis-gegen-darmstadt-98-1-fc-koeln-gewinnt-a-4a5c0796-862a-4a63-a7df-3df5ba67a91f#ref=rss)
+### saisonsieg
 
-* [https://www.spiegel.de/ausland/syrien-assad-regime-stuerzt-ein-historischer-tag-fuer-das-syrische-volk](https://www.spiegel.de/ausland/syrien-assad-regime-stuerzt-ein-historischer-tag-fuer-das-syrische-volk-a-9e34c279-4182-4ae3-87e4-c409eed5f4ad#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-syrische-milizen-melden-befreiung-des-foltergefaengnisses-sednaja](https://www.spiegel.de/ausland/syrien-syrische-milizen-melden-befreiung-des-foltergefaengnisses-sednaja-a-3b2bbedf-c30a-4f23-ae0f-d910c86714e8#ref=rss)
-### volk
+* [https://www.spiegel.de/sport/wintersport/skispringen-pius-paschke-gewinnt-in-wisla-3-saisonsieg](https://www.spiegel.de/sport/wintersport/skispringen-pius-paschke-gewinnt-in-wisla-3-saisonsieg-a-29799d70-5fed-4616-b2b9-fcbd6b62e04f#ref=rss)
+### karriere
 
-* [https://www.spiegel.de/ausland/syrien-assad-regime-stuerzt-ein-historischer-tag-fuer-das-syrische-volk](https://www.spiegel.de/ausland/syrien-assad-regime-stuerzt-ein-historischer-tag-fuer-das-syrische-volk-a-9e34c279-4182-4ae3-87e4-c409eed5f4ad#ref=rss)
-### assad
+* [https://www.spiegel.de/sport/wintersport/skispringen-pius-paschke-gewinnt-in-wisla-3-saisonsieg](https://www.spiegel.de/sport/wintersport/skispringen-pius-paschke-gewinnt-in-wisla-3-saisonsieg-a-29799d70-5fed-4616-b2b9-fcbd6b62e04f#ref=rss)
+* [https://www.spiegel.de/sport/schach-wm-dommaraju-gukesh-hat-nach-sieg-gegen-ding-liren-in-11-partie-wm-titel-vor-augen](https://www.spiegel.de/sport/schach-wm-dommaraju-gukesh-hat-nach-sieg-gegen-ding-liren-in-11-partie-wm-titel-vor-augen-a-ceb22aa9-41ef-43f6-8b3b-45062d4198be#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/ausland/syrien-assad-regime-stuerzt-ein-historischer-tag-fuer-das-syrische-volk](https://www.spiegel.de/ausland/syrien-assad-regime-stuerzt-ein-historischer-tag-fuer-das-syrische-volk-a-9e34c279-4182-4ae3-87e4-c409eed5f4ad#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-diktator-baschar-al-assad-steht-kurz-vor-dem-fall](https://www.spiegel.de/ausland/syrien-diktator-baschar-al-assad-steht-kurz-vor-dem-fall-a-e53aeeb1-fd9b-4bc4-aec9-dbc05b3b9f9d#ref=rss)
-### staatsanwaltschaft
+* [https://www.spiegel.de/sport/wintersport/skispringen-pius-paschke-gewinnt-in-wisla-3-saisonsieg](https://www.spiegel.de/sport/wintersport/skispringen-pius-paschke-gewinnt-in-wisla-3-saisonsieg-a-29799d70-5fed-4616-b2b9-fcbd6b62e04f#ref=rss)
+* [https://www.spiegel.de/panorama/eurojackpot-zwei-deutsche-teilen-sich-120-millionen-euro](https://www.spiegel.de/panorama/eurojackpot-zwei-deutsche-teilen-sich-120-millionen-euro-a-515f1e70-4033-4377-8b37-073f30a45ef5#ref=rss)
+### summe
 
-* [https://www.spiegel.de/ausland/suedkorea-staatsanwaltschaft-eroeffnet-strafverfahren-gegen-praesident-yoon](https://www.spiegel.de/ausland/suedkorea-staatsanwaltschaft-eroeffnet-strafverfahren-gegen-praesident-yoon-a-fc21ead1-3688-472b-b9b9-264bf3c1dcd9#ref=rss)
-### yoon
+* [https://www.spiegel.de/karriere/raetsel-der-woche-zahlenquintett-gesucht](https://www.spiegel.de/karriere/raetsel-der-woche-zahlenquintett-gesucht-a-3fa3a3d1-0c80-4f4f-9ab1-9beee2b2e523#ref=rss)
+### fußballbundesliga
 
-* [https://www.spiegel.de/ausland/suedkorea-staatsanwaltschaft-eroeffnet-strafverfahren-gegen-praesident-yoon](https://www.spiegel.de/ausland/suedkorea-staatsanwaltschaft-eroeffnet-strafverfahren-gegen-praesident-yoon-a-fc21ead1-3688-472b-b9b9-264bf3c1dcd9#ref=rss)
-### marco
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-wolfsburg-besiegt-dank-jonas-wind-den-fsv-mainz-05](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-wolfsburg-besiegt-dank-jonas-wind-den-fsv-mainz-05-a-faf95e94-4a2c-4f53-8aff-b09cc7757048#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-nur-remis-gegen-darmstadt-98-1-fc-koeln-gewinnt](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-nur-remis-gegen-darmstadt-98-1-fc-koeln-gewinnt-a-4a5c0796-862a-4a63-a7df-3df5ba67a91f#ref=rss)
+### vfl
 
-* [https://www.spiegel.de/sport/fussball/marco-reus-siebenmal-zweiter-mit-dem-bvb-nun-hat-er-seine-erste-meisterschaft](https://www.spiegel.de/sport/fussball/marco-reus-siebenmal-zweiter-mit-dem-bvb-nun-hat-er-seine-erste-meisterschaft-a-d17019d0-2d9d-44ed-8df8-20255377a0d0#ref=rss)
-### reus
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-wolfsburg-besiegt-dank-jonas-wind-den-fsv-mainz-05](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-wolfsburg-besiegt-dank-jonas-wind-den-fsv-mainz-05-a-faf95e94-4a2c-4f53-8aff-b09cc7757048#ref=rss)
+### wolfsburg
 
-* [https://www.spiegel.de/sport/fussball/marco-reus-siebenmal-zweiter-mit-dem-bvb-nun-hat-er-seine-erste-meisterschaft](https://www.spiegel.de/sport/fussball/marco-reus-siebenmal-zweiter-mit-dem-bvb-nun-hat-er-seine-erste-meisterschaft-a-d17019d0-2d9d-44ed-8df8-20255377a0d0#ref=rss)
-### news
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-wolfsburg-besiegt-dank-jonas-wind-den-fsv-mainz-05](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-wolfsburg-besiegt-dank-jonas-wind-den-fsv-mainz-05-a-faf95e94-4a2c-4f53-8aff-b09cc7757048#ref=rss)
+### dank
 
-* [https://www.spiegel.de/politik/deutschland/news-umsturz-in-syrien-und-waere-elon-musk-ein-guter-bundeskanzler](https://www.spiegel.de/politik/deutschland/news-umsturz-in-syrien-und-waere-elon-musk-ein-guter-bundeskanzler-a-34167514-2394-4f1b-8075-90a200acbed9#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-news-am-8-dezember-erste-kaempfer-auf-gelaende-von-assads-palast-in-damaskus](https://www.spiegel.de/ausland/syrien-news-am-8-dezember-erste-kaempfer-auf-gelaende-von-assads-palast-in-damaskus-a-04250c8e-71f8-4a3f-8e3f-4fba7934157e#ref=rss)
-### politik
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-wolfsburg-besiegt-dank-jonas-wind-den-fsv-mainz-05](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-wolfsburg-besiegt-dank-jonas-wind-den-fsv-mainz-05-a-faf95e94-4a2c-4f53-8aff-b09cc7757048#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-seine-jahreshauptversammlung-wurst-und-segen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-seine-jahreshauptversammlung-wurst-und-segen-a-87a252ff-7296-4ace-93cb-2b75545dde3c#ref=rss)
+### jonas
 
-* [https://www.spiegel.de/politik/deutschland/news-umsturz-in-syrien-und-waere-elon-musk-ein-guter-bundeskanzler](https://www.spiegel.de/politik/deutschland/news-umsturz-in-syrien-und-waere-elon-musk-ein-guter-bundeskanzler-a-34167514-2394-4f1b-8075-90a200acbed9#ref=rss)
-* [https://www.spiegel.de/ausland/treffen-von-trump-macron-und-selenskyj-wir-alle-wollen-dass-dieser-krieg-auf-gerechte-weise-beendet-wird](https://www.spiegel.de/ausland/treffen-von-trump-macron-und-selenskyj-wir-alle-wollen-dass-dieser-krieg-auf-gerechte-weise-beendet-wird-a-34de84a4-1ca5-426c-95e4-ae257e3e62d5#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-wolfsburg-besiegt-dank-jonas-wind-den-fsv-mainz-05](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-wolfsburg-besiegt-dank-jonas-wind-den-fsv-mainz-05-a-faf95e94-4a2c-4f53-8aff-b09cc7757048#ref=rss)
+### wind
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-wolfsburg-besiegt-dank-jonas-wind-den-fsv-mainz-05](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-wolfsburg-besiegt-dank-jonas-wind-den-fsv-mainz-05-a-faf95e94-4a2c-4f53-8aff-b09cc7757048#ref=rss)
+### fsv
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-wolfsburg-besiegt-dank-jonas-wind-den-fsv-mainz-05](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-wolfsburg-besiegt-dank-jonas-wind-den-fsv-mainz-05-a-faf95e94-4a2c-4f53-8aff-b09cc7757048#ref=rss)
+### mainz
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-wolfsburg-besiegt-dank-jonas-wind-den-fsv-mainz-05](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-wolfsburg-besiegt-dank-jonas-wind-den-fsv-mainz-05-a-faf95e94-4a2c-4f53-8aff-b09cc7757048#ref=rss)
+### rang
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-wolfsburg-besiegt-dank-jonas-wind-den-fsv-mainz-05](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-wolfsburg-besiegt-dank-jonas-wind-den-fsv-mainz-05-a-faf95e94-4a2c-4f53-8aff-b09cc7757048#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-nur-remis-gegen-darmstadt-98-1-fc-koeln-gewinnt](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-nur-remis-gegen-darmstadt-98-1-fc-koeln-gewinnt-a-4a5c0796-862a-4a63-a7df-3df5ba67a91f#ref=rss)
+### freude
+
+* [https://www.spiegel.de/ausland/syrien-so-jubeln-die-menschen-von-paris-bis-istanbul-ueber-assads-sturz](https://www.spiegel.de/ausland/syrien-so-jubeln-die-menschen-von-paris-bis-istanbul-ueber-assads-sturz-a-4fb6ead5-f521-460f-931b-fd186895b64c#ref=rss)
+* [https://www.spiegel.de/ausland/syrer-in-deutschland-dieser-tag-wird-uns-ein-leben-lang-begleiten](https://www.spiegel.de/ausland/syrer-in-deutschland-dieser-tag-wird-uns-ein-leben-lang-begleiten-a-1c27eaa2-cc27-46bb-b486-4a9903387ce4#ref=rss)
+### tausende
+
+* [https://www.spiegel.de/ausland/syrien-so-jubeln-die-menschen-von-paris-bis-istanbul-ueber-assads-sturz](https://www.spiegel.de/ausland/syrien-so-jubeln-die-menschen-von-paris-bis-istanbul-ueber-assads-sturz-a-4fb6ead5-f521-460f-931b-fd186895b64c#ref=rss)
+* [https://www.spiegel.de/ausland/georgien-proteste-gegen-regierung-verpruegelt-fuers-vereinte-europa](https://www.spiegel.de/ausland/georgien-proteste-gegen-regierung-verpruegelt-fuers-vereinte-europa-a-9c24f8ed-4dd0-4eef-b797-0dea630dc0c0#ref=rss)
+### umsturz
+
+* [https://www.spiegel.de/ausland/syrien-so-jubeln-die-menschen-von-paris-bis-istanbul-ueber-assads-sturz](https://www.spiegel.de/ausland/syrien-so-jubeln-die-menschen-von-paris-bis-istanbul-ueber-assads-sturz-a-4fb6ead5-f521-460f-931b-fd186895b64c#ref=rss)
+* [https://www.spiegel.de/ausland/syrer-in-deutschland-dieser-tag-wird-uns-ein-leben-lang-begleiten](https://www.spiegel.de/ausland/syrer-in-deutschland-dieser-tag-wird-uns-ein-leben-lang-begleiten-a-1c27eaa2-cc27-46bb-b486-4a9903387ce4#ref=rss)
+### mclaren
+
+* [https://www.spiegel.de/sport/formel1/formel-1-saisonabschluss-in-abu-dhabi-mclaren-ist-konstrukteurs-weltmeister-abschied-von-lewis-hamilton](https://www.spiegel.de/sport/formel1/formel-1-saisonabschluss-in-abu-dhabi-mclaren-ist-konstrukteurs-weltmeister-abschied-von-lewis-hamilton-a-e53e78d0-f89f-494a-9989-e7926db3e80b#ref=rss)
+### abschied
+
+* [https://www.spiegel.de/sport/formel1/formel-1-saisonabschluss-in-abu-dhabi-mclaren-ist-konstrukteurs-weltmeister-abschied-von-lewis-hamilton](https://www.spiegel.de/sport/formel1/formel-1-saisonabschluss-in-abu-dhabi-mclaren-ist-konstrukteurs-weltmeister-abschied-von-lewis-hamilton-a-e53e78d0-f89f-494a-9989-e7926db3e80b#ref=rss)
+### lewis
+
+* [https://www.spiegel.de/sport/formel1/formel-1-saisonabschluss-in-abu-dhabi-mclaren-ist-konstrukteurs-weltmeister-abschied-von-lewis-hamilton](https://www.spiegel.de/sport/formel1/formel-1-saisonabschluss-in-abu-dhabi-mclaren-ist-konstrukteurs-weltmeister-abschied-von-lewis-hamilton-a-e53e78d0-f89f-494a-9989-e7926db3e80b#ref=rss)
+### hamilton
+
+* [https://www.spiegel.de/sport/formel1/formel-1-saisonabschluss-in-abu-dhabi-mclaren-ist-konstrukteurs-weltmeister-abschied-von-lewis-hamilton](https://www.spiegel.de/sport/formel1/formel-1-saisonabschluss-in-abu-dhabi-mclaren-ist-konstrukteurs-weltmeister-abschied-von-lewis-hamilton-a-e53e78d0-f89f-494a-9989-e7926db3e80b#ref=rss)
 ### feiert
 
-* [https://www.spiegel.de/ausland/syrien-news-am-8-dezember-erste-kaempfer-auf-gelaende-von-assads-palast-in-damaskus](https://www.spiegel.de/ausland/syrien-news-am-8-dezember-erste-kaempfer-auf-gelaende-von-assads-palast-in-damaskus-a-04250c8e-71f8-4a3f-8e3f-4fba7934157e#ref=rss)
-* [https://www.spiegel.de/panorama/notre-dame-frankreich-feiert-die-wiederauferstehung-der-beruehmten-kathedrale](https://www.spiegel.de/panorama/notre-dame-frankreich-feiert-die-wiederauferstehung-der-beruehmten-kathedrale-a-5dc586e2-24a8-4988-8cdc-7aa6e525fba1#ref=rss)
-### melden
+* [https://www.spiegel.de/sport/formel1/formel-1-saisonabschluss-in-abu-dhabi-mclaren-ist-konstrukteurs-weltmeister-abschied-von-lewis-hamilton](https://www.spiegel.de/sport/formel1/formel-1-saisonabschluss-in-abu-dhabi-mclaren-ist-konstrukteurs-weltmeister-abschied-von-lewis-hamilton-a-e53e78d0-f89f-494a-9989-e7926db3e80b#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-nach-sturz-von-bashar-al-assad-feiert-mit-uns-kommentar-einer-vertriebenen](https://www.spiegel.de/ausland/syrien-nach-sturz-von-bashar-al-assad-feiert-mit-uns-kommentar-einer-vertriebenen-a-1626003e-81a5-4f2b-9f07-ea37294051ed#ref=rss)
+### titel
 
-* [https://www.spiegel.de/ausland/syrien-syrische-milizen-melden-befreiung-des-foltergefaengnisses-sednaja](https://www.spiegel.de/ausland/syrien-syrische-milizen-melden-befreiung-des-foltergefaengnisses-sednaja-a-3b2bbedf-c30a-4f23-ae0f-d910c86714e8#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-baschar-al-assad-soll-aus-damaskus-geflohen-sein-rebellen-melden-einmarsch-in-die-hauptstadt](https://www.spiegel.de/ausland/syrien-baschar-al-assad-soll-aus-damaskus-geflohen-sein-rebellen-melden-einmarsch-in-die-hauptstadt-a-da6cd6de-17bb-4a9f-ab4e-87f3fcd9c2ed#ref=rss)
-### bahn
+* [https://www.spiegel.de/sport/formel1/formel-1-saisonabschluss-in-abu-dhabi-mclaren-ist-konstrukteurs-weltmeister-abschied-von-lewis-hamilton](https://www.spiegel.de/sport/formel1/formel-1-saisonabschluss-in-abu-dhabi-mclaren-ist-konstrukteurs-weltmeister-abschied-von-lewis-hamilton-a-e53e78d0-f89f-494a-9989-e7926db3e80b#ref=rss)
+* [https://www.spiegel.de/kultur/sachbuecher-das-sind-die-besten-titel-2024](https://www.spiegel.de/kultur/sachbuecher-das-sind-die-besten-titel-2024-a-932895cb-feb4-43f0-a5ed-31b7911d4349#ref=rss)
+### bayern
 
-* [https://www.spiegel.de/auto/deutsche-bahn-weisheiten-eines-bordbistro-chefs-im-ice-der-weg-ist-das-ziel](https://www.spiegel.de/auto/deutsche-bahn-weisheiten-eines-bordbistro-chefs-im-ice-der-weg-ist-das-ziel-a-2363cc07-9859-4195-aa39-4e6d9679bdec#ref=rss)
-### ice
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-seine-jahreshauptversammlung-wurst-und-segen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-seine-jahreshauptversammlung-wurst-und-segen-a-87a252ff-7296-4ace-93cb-2b75545dde3c#ref=rss)
+### münchen
 
-* [https://www.spiegel.de/auto/deutsche-bahn-weisheiten-eines-bordbistro-chefs-im-ice-der-weg-ist-das-ziel](https://www.spiegel.de/auto/deutsche-bahn-weisheiten-eines-bordbistro-chefs-im-ice-der-weg-ist-das-ziel-a-2363cc07-9859-4195-aa39-4e6d9679bdec#ref=rss)
-### jeder
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-seine-jahreshauptversammlung-wurst-und-segen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-seine-jahreshauptversammlung-wurst-und-segen-a-87a252ff-7296-4ace-93cb-2b75545dde3c#ref=rss)
+### finanziell
 
-* [https://www.spiegel.de/auto/deutsche-bahn-weisheiten-eines-bordbistro-chefs-im-ice-der-weg-ist-das-ziel](https://www.spiegel.de/auto/deutsche-bahn-weisheiten-eines-bordbistro-chefs-im-ice-der-weg-ist-das-ziel-a-2363cc07-9859-4195-aa39-4e6d9679bdec#ref=rss)
-### wir
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-seine-jahreshauptversammlung-wurst-und-segen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-seine-jahreshauptversammlung-wurst-und-segen-a-87a252ff-7296-4ace-93cb-2b75545dde3c#ref=rss)
+* [https://www.spiegel.de/sport/olympia/dosb-und-olympiabewerbung-deutschland-hat-keine-vision-keine-jahreszahl-keine-finanzplanung](https://www.spiegel.de/sport/olympia/dosb-und-olympiabewerbung-deutschland-hat-keine-vision-keine-jahreszahl-keine-finanzplanung-a-33fdc1eb-a568-4eef-8d1e-b1855c874d60#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/tests/fahrrad-zubehoer/regenhosen-zum-radfahren-von-gonso-gorewear-adidas-gripgrab-endura-vaude-und-agu-im-test](https://www.spiegel.de/tests/fahrrad-zubehoer/regenhosen-zum-radfahren-von-gonso-gorewear-adidas-gripgrab-endura-vaude-und-agu-im-test-a-658cc6bb-571e-4dd6-a4c3-4def7ee85b99#ref=rss)
-* [https://www.spiegel.de/ausland/treffen-von-trump-macron-und-selenskyj-wir-alle-wollen-dass-dieser-krieg-auf-gerechte-weise-beendet-wird](https://www.spiegel.de/ausland/treffen-von-trump-macron-und-selenskyj-wir-alle-wollen-dass-dieser-krieg-auf-gerechte-weise-beendet-wird-a-34de84a4-1ca5-426c-95e4-ae257e3e62d5#ref=rss)
-### geflohen
+* [https://www.spiegel.de/panorama/justiz/polizei-in-dortmund-wie-hausbesuche-straftaten-vorbeugen-sollen-spiegel-tv](https://www.spiegel.de/panorama/justiz/polizei-in-dortmund-wie-hausbesuche-straftaten-vorbeugen-sollen-spiegel-tv-a-7a3fac85-a602-41ca-88af-89c8a22cbef3#ref=rss)
+### dortmund
 
-* [https://www.spiegel.de/ausland/syrien-baschar-al-assad-soll-aus-damaskus-geflohen-sein-rebellen-melden-einmarsch-in-die-hauptstadt](https://www.spiegel.de/ausland/syrien-baschar-al-assad-soll-aus-damaskus-geflohen-sein-rebellen-melden-einmarsch-in-die-hauptstadt-a-da6cd6de-17bb-4a9f-ab4e-87f3fcd9c2ed#ref=rss)
-### neuen
+* [https://www.spiegel.de/panorama/justiz/polizei-in-dortmund-wie-hausbesuche-straftaten-vorbeugen-sollen-spiegel-tv](https://www.spiegel.de/panorama/justiz/polizei-in-dortmund-wie-hausbesuche-straftaten-vorbeugen-sollen-spiegel-tv-a-7a3fac85-a602-41ca-88af-89c8a22cbef3#ref=rss)
+### hausbesuche
 
-* [https://www.spiegel.de/ausland/syrien-baschar-al-assad-soll-aus-damaskus-geflohen-sein-rebellen-melden-einmarsch-in-die-hauptstadt](https://www.spiegel.de/ausland/syrien-baschar-al-assad-soll-aus-damaskus-geflohen-sein-rebellen-melden-einmarsch-in-die-hauptstadt-a-da6cd6de-17bb-4a9f-ab4e-87f3fcd9c2ed#ref=rss)
-* [https://www.spiegel.de/panorama/leute/jennifer-lopez-schauspielstar-kaempfte-als-alleinerziehende-mit-selbstzweifeln](https://www.spiegel.de/panorama/leute/jennifer-lopez-schauspielstar-kaempfte-als-alleinerziehende-mit-selbstzweifeln-a-393c5060-545c-4fa7-921b-4c4a0b1d0136#ref=rss)
-### filmpreis
+* [https://www.spiegel.de/panorama/justiz/polizei-in-dortmund-wie-hausbesuche-straftaten-vorbeugen-sollen-spiegel-tv](https://www.spiegel.de/panorama/justiz/polizei-in-dortmund-wie-hausbesuche-straftaten-vorbeugen-sollen-spiegel-tv-a-7a3fac85-a602-41ca-88af-89c8a22cbef3#ref=rss)
+### bremen
 
-* [https://www.spiegel.de/kultur/europaeischer-filmpreis-musikkomoedie-emilia-perez-raeumt-ab](https://www.spiegel.de/kultur/europaeischer-filmpreis-musikkomoedie-emilia-perez-raeumt-ab-a-2228ec24-fc4e-41a0-8403-583f9c9acc61#ref=rss)
-### emilia
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-bremen-stille-nacht-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-bremen-stille-nacht-im-schnellcheck-a-ea228f3a-546c-4eef-b491-7a2d1669972f#ref=rss)
+### michael
 
-* [https://www.spiegel.de/kultur/europaeischer-filmpreis-musikkomoedie-emilia-perez-raeumt-ab](https://www.spiegel.de/kultur/europaeischer-filmpreis-musikkomoedie-emilia-perez-raeumt-ab-a-2228ec24-fc4e-41a0-8403-583f9c9acc61#ref=rss)
-### pérez
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-bremen-stille-nacht-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-bremen-stille-nacht-im-schnellcheck-a-ea228f3a-546c-4eef-b491-7a2d1669972f#ref=rss)
+* [https://www.spiegel.de/sport/olympia/dosb-und-olympiabewerbung-deutschland-hat-keine-vision-keine-jahreszahl-keine-finanzplanung](https://www.spiegel.de/sport/olympia/dosb-und-olympiabewerbung-deutschland-hat-keine-vision-keine-jahreszahl-keine-finanzplanung-a-33fdc1eb-a568-4eef-8d1e-b1855c874d60#ref=rss)
+### sachbücher
 
-* [https://www.spiegel.de/kultur/europaeischer-filmpreis-musikkomoedie-emilia-perez-raeumt-ab](https://www.spiegel.de/kultur/europaeischer-filmpreis-musikkomoedie-emilia-perez-raeumt-ab-a-2228ec24-fc4e-41a0-8403-583f9c9acc61#ref=rss)
-### dollar
+* [https://www.spiegel.de/kultur/sachbuecher-das-sind-die-besten-titel-2024](https://www.spiegel.de/kultur/sachbuecher-das-sind-die-besten-titel-2024-a-932895cb-feb4-43f0-a5ed-31b7911d4349#ref=rss)
+### israel
 
-* [https://www.spiegel.de/ausland/988-millionen-dollar-usa-schicken-drohnen-panzer-und-munition-an-die-ukraine](https://www.spiegel.de/ausland/988-millionen-dollar-usa-schicken-drohnen-panzer-und-munition-an-die-ukraine-a-279c5ae0-8f83-413f-87f1-c018aab54483#ref=rss)
-### usa
+* [https://www.spiegel.de/ausland/genozid-vorwuerfe-gegen-israel-in-gaza-jurist-nennt-sie-juristisch-nicht-ganz-redlich-gearbeitet](https://www.spiegel.de/ausland/genozid-vorwuerfe-gegen-israel-in-gaza-jurist-nennt-sie-juristisch-nicht-ganz-redlich-gearbeitet-a-1bf96b65-e5ac-4c44-a9bd-c5607f34c2db#ref=rss)
+### fast
 
-* [https://www.spiegel.de/ausland/988-millionen-dollar-usa-schicken-drohnen-panzer-und-munition-an-die-ukraine](https://www.spiegel.de/ausland/988-millionen-dollar-usa-schicken-drohnen-panzer-und-munition-an-die-ukraine-a-279c5ae0-8f83-413f-87f1-c018aab54483#ref=rss)
-### munition
+* [https://www.spiegel.de/ausland/genozid-vorwuerfe-gegen-israel-in-gaza-jurist-nennt-sie-juristisch-nicht-ganz-redlich-gearbeitet](https://www.spiegel.de/ausland/genozid-vorwuerfe-gegen-israel-in-gaza-jurist-nennt-sie-juristisch-nicht-ganz-redlich-gearbeitet-a-1bf96b65-e5ac-4c44-a9bd-c5607f34c2db#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-nach-sturz-von-bashar-al-assad-feiert-mit-uns-kommentar-einer-vertriebenen](https://www.spiegel.de/ausland/syrien-nach-sturz-von-bashar-al-assad-feiert-mit-uns-kommentar-einer-vertriebenen-a-1626003e-81a5-4f2b-9f07-ea37294051ed#ref=rss)
+### donald
 
-* [https://www.spiegel.de/ausland/988-millionen-dollar-usa-schicken-drohnen-panzer-und-munition-an-die-ukraine](https://www.spiegel.de/ausland/988-millionen-dollar-usa-schicken-drohnen-panzer-und-munition-an-die-ukraine-a-279c5ae0-8f83-413f-87f1-c018aab54483#ref=rss)
-### michail
+* [https://www.spiegel.de/ausland/donald-trump-zieht-nato-austritt-absolut-in-betracht-und-droht-ukraine-mit-geldentzug](https://www.spiegel.de/ausland/donald-trump-zieht-nato-austritt-absolut-in-betracht-und-droht-ukraine-mit-geldentzug-a-dbfbdd9f-254f-4158-a503-3ae73f9d6132#ref=rss)
+### trump
 
-* [https://www.spiegel.de/sport/fussball/michail-antonio-west-ham-stuermer-nach-schwerem-autounfall-im-krankenhaus](https://www.spiegel.de/sport/fussball/michail-antonio-west-ham-stuermer-nach-schwerem-autounfall-im-krankenhaus-a-b53f6dca-1731-4698-93f3-19b18ea81d6f#ref=rss)
-### west
+* [https://www.spiegel.de/ausland/donald-trump-zieht-nato-austritt-absolut-in-betracht-und-droht-ukraine-mit-geldentzug](https://www.spiegel.de/ausland/donald-trump-zieht-nato-austritt-absolut-in-betracht-und-droht-ukraine-mit-geldentzug-a-dbfbdd9f-254f-4158-a503-3ae73f9d6132#ref=rss)
+### droht
 
-* [https://www.spiegel.de/sport/fussball/michail-antonio-west-ham-stuermer-nach-schwerem-autounfall-im-krankenhaus](https://www.spiegel.de/sport/fussball/michail-antonio-west-ham-stuermer-nach-schwerem-autounfall-im-krankenhaus-a-b53f6dca-1731-4698-93f3-19b18ea81d6f#ref=rss)
-### krankenhaus
+* [https://www.spiegel.de/ausland/donald-trump-zieht-nato-austritt-absolut-in-betracht-und-droht-ukraine-mit-geldentzug](https://www.spiegel.de/ausland/donald-trump-zieht-nato-austritt-absolut-in-betracht-und-droht-ukraine-mit-geldentzug-a-dbfbdd9f-254f-4158-a503-3ae73f9d6132#ref=rss)
+* [https://www.spiegel.de/politik/politiker-muessen-sich-diese-frage-stellen-wer-werde-ich-gewesen-sein-kolumne](https://www.spiegel.de/politik/politiker-muessen-sich-diese-frage-stellen-wer-werde-ich-gewesen-sein-kolumne-a-9887c53b-0841-4622-ae2b-431e2778521d#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/sport/fussball/michail-antonio-west-ham-stuermer-nach-schwerem-autounfall-im-krankenhaus](https://www.spiegel.de/sport/fussball/michail-antonio-west-ham-stuermer-nach-schwerem-autounfall-im-krankenhaus-a-b53f6dca-1731-4698-93f3-19b18ea81d6f#ref=rss)
-### jennifer
+* [https://www.spiegel.de/ausland/donald-trump-zieht-nato-austritt-absolut-in-betracht-und-droht-ukraine-mit-geldentzug](https://www.spiegel.de/ausland/donald-trump-zieht-nato-austritt-absolut-in-betracht-und-droht-ukraine-mit-geldentzug-a-dbfbdd9f-254f-4158-a503-3ae73f9d6132#ref=rss)
+### gilt
 
-* [https://www.spiegel.de/panorama/leute/jennifer-lopez-schauspielstar-kaempfte-als-alleinerziehende-mit-selbstzweifeln](https://www.spiegel.de/panorama/leute/jennifer-lopez-schauspielstar-kaempfte-als-alleinerziehende-mit-selbstzweifeln-a-393c5060-545c-4fa7-921b-4c4a0b1d0136#ref=rss)
-### lopez
+* [https://www.spiegel.de/ausland/donald-trump-zieht-nato-austritt-absolut-in-betracht-und-droht-ukraine-mit-geldentzug](https://www.spiegel.de/ausland/donald-trump-zieht-nato-austritt-absolut-in-betracht-und-droht-ukraine-mit-geldentzug-a-dbfbdd9f-254f-4158-a503-3ae73f9d6132#ref=rss)
+* [https://www.spiegel.de/ausland/gambia-wie-das-land-sein-image-als-sextourismus-ziel-loswerden-will](https://www.spiegel.de/ausland/gambia-wie-das-land-sein-image-als-sextourismus-ziel-loswerden-will-a-0c218c76-af6e-4434-b1cf-36b9ac9ee04d#ref=rss)
+### präsident
 
-* [https://www.spiegel.de/panorama/leute/jennifer-lopez-schauspielstar-kaempfte-als-alleinerziehende-mit-selbstzweifeln](https://www.spiegel.de/panorama/leute/jennifer-lopez-schauspielstar-kaempfte-als-alleinerziehende-mit-selbstzweifeln-a-393c5060-545c-4fa7-921b-4c4a0b1d0136#ref=rss)
-### alleinerziehende
+* [https://www.spiegel.de/ausland/donald-trump-zieht-nato-austritt-absolut-in-betracht-und-droht-ukraine-mit-geldentzug](https://www.spiegel.de/ausland/donald-trump-zieht-nato-austritt-absolut-in-betracht-und-droht-ukraine-mit-geldentzug-a-dbfbdd9f-254f-4158-a503-3ae73f9d6132#ref=rss)
+* [https://www.spiegel.de/ausland/china-faehrt-vor-taiwan-gross-auf-zahl-der-kriegsschiffe-verdoppelt](https://www.spiegel.de/ausland/china-faehrt-vor-taiwan-gross-auf-zahl-der-kriegsschiffe-verdoppelt-a-e55e1964-8e65-465d-b64e-f7a549dcca45#ref=rss)
+### interview
 
-* [https://www.spiegel.de/panorama/leute/jennifer-lopez-schauspielstar-kaempfte-als-alleinerziehende-mit-selbstzweifeln](https://www.spiegel.de/panorama/leute/jennifer-lopez-schauspielstar-kaempfte-als-alleinerziehende-mit-selbstzweifeln-a-393c5060-545c-4fa7-921b-4c4a0b1d0136#ref=rss)
-### borussia
+* [https://www.spiegel.de/ausland/donald-trump-zieht-nato-austritt-absolut-in-betracht-und-droht-ukraine-mit-geldentzug](https://www.spiegel.de/ausland/donald-trump-zieht-nato-austritt-absolut-in-betracht-und-droht-ukraine-mit-geldentzug-a-dbfbdd9f-254f-4158-a503-3ae73f9d6132#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/weihnachtsmann-mangel-interview-mit-ronny-schroeter-leiter-des-cottbuser-weihnachtsmannbueros](https://www.spiegel.de/panorama/gesellschaft/weihnachtsmann-mangel-interview-mit-ronny-schroeter-leiter-des-cottbuser-weihnachtsmannbueros-a-903c5cfc-eef6-4280-9fa8-8dabb7c6f3de#ref=rss)
+### uns
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-remis-zwischen-borussia-dortmund-und-borussia-moenchengladbach](https://www.spiegel.de/sport/fussball/fussball-bundesliga-remis-zwischen-borussia-dortmund-und-borussia-moenchengladbach-a-1404243b-fefd-4a60-a8d8-cf8d8cb4ea83#ref=rss)
-### rita
+* [https://www.spiegel.de/ausland/syrer-in-deutschland-dieser-tag-wird-uns-ein-leben-lang-begleiten](https://www.spiegel.de/ausland/syrer-in-deutschland-dieser-tag-wird-uns-ein-leben-lang-begleiten-a-1c27eaa2-cc27-46bb-b486-4a9903387ce4#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-nach-sturz-von-bashar-al-assad-feiert-mit-uns-kommentar-einer-vertriebenen](https://www.spiegel.de/ausland/syrien-nach-sturz-von-bashar-al-assad-feiert-mit-uns-kommentar-einer-vertriebenen-a-1626003e-81a5-4f2b-9f07-ea37294051ed#ref=rss)
+### begleiten
 
-* [https://www.spiegel.de/familie/rita-suessmuth-ueber-ihre-kindheit-im-krieg-die-traumatischen-erinnerungen-der-cdu-politikerin](https://www.spiegel.de/familie/rita-suessmuth-ueber-ihre-kindheit-im-krieg-die-traumatischen-erinnerungen-der-cdu-politikerin-a-3c814d69-5f65-4327-9a9e-1b6e1d27a4d4#ref=rss)
-### süssmuth
+* [https://www.spiegel.de/ausland/syrer-in-deutschland-dieser-tag-wird-uns-ein-leben-lang-begleiten](https://www.spiegel.de/ausland/syrer-in-deutschland-dieser-tag-wird-uns-ein-leben-lang-begleiten-a-1c27eaa2-cc27-46bb-b486-4a9903387ce4#ref=rss)
+### groß
 
-* [https://www.spiegel.de/familie/rita-suessmuth-ueber-ihre-kindheit-im-krieg-die-traumatischen-erinnerungen-der-cdu-politikerin](https://www.spiegel.de/familie/rita-suessmuth-ueber-ihre-kindheit-im-krieg-die-traumatischen-erinnerungen-der-cdu-politikerin-a-3c814d69-5f65-4327-9a9e-1b6e1d27a4d4#ref=rss)
-### kindheit
+* [https://www.spiegel.de/ausland/syrer-in-deutschland-dieser-tag-wird-uns-ein-leben-lang-begleiten](https://www.spiegel.de/ausland/syrer-in-deutschland-dieser-tag-wird-uns-ein-leben-lang-begleiten-a-1c27eaa2-cc27-46bb-b486-4a9903387ce4#ref=rss)
+* [https://www.spiegel.de/ausland/china-faehrt-vor-taiwan-gross-auf-zahl-der-kriegsschiffe-verdoppelt](https://www.spiegel.de/ausland/china-faehrt-vor-taiwan-gross-auf-zahl-der-kriegsschiffe-verdoppelt-a-e55e1964-8e65-465d-b64e-f7a549dcca45#ref=rss)
+### brad
 
-* [https://www.spiegel.de/familie/rita-suessmuth-ueber-ihre-kindheit-im-krieg-die-traumatischen-erinnerungen-der-cdu-politikerin](https://www.spiegel.de/familie/rita-suessmuth-ueber-ihre-kindheit-im-krieg-die-traumatischen-erinnerungen-der-cdu-politikerin-a-3c814d69-5f65-4327-9a9e-1b6e1d27a4d4#ref=rss)
-### cdupolitikerin
+* [https://www.spiegel.de/sport/formel1/formel-1-brad-pitt-macht-selfies-mit-ferrari-piloten-und-crasht-die-nationalhymne](https://www.spiegel.de/sport/formel1/formel-1-brad-pitt-macht-selfies-mit-ferrari-piloten-und-crasht-die-nationalhymne-a-ce29cd0a-9044-414a-b9a9-a99938493dd2#ref=rss)
+### pitt
 
-* [https://www.spiegel.de/familie/rita-suessmuth-ueber-ihre-kindheit-im-krieg-die-traumatischen-erinnerungen-der-cdu-politikerin](https://www.spiegel.de/familie/rita-suessmuth-ueber-ihre-kindheit-im-krieg-die-traumatischen-erinnerungen-der-cdu-politikerin-a-3c814d69-5f65-4327-9a9e-1b6e1d27a4d4#ref=rss)
-### argentinien
+* [https://www.spiegel.de/sport/formel1/formel-1-brad-pitt-macht-selfies-mit-ferrari-piloten-und-crasht-die-nationalhymne](https://www.spiegel.de/sport/formel1/formel-1-brad-pitt-macht-selfies-mit-ferrari-piloten-und-crasht-die-nationalhymne-a-ce29cd0a-9044-414a-b9a9-a99938493dd2#ref=rss)
+### selfies
 
-* [https://www.spiegel.de/ausland/argentinien-fordert-freies-geleit-fuer-geflohene-oppositionelle](https://www.spiegel.de/ausland/argentinien-fordert-freies-geleit-fuer-geflohene-oppositionelle-a-47bfbde9-0ce7-4dd5-8d8e-cbcae3d79564#ref=rss)
-### oppositionelle
+* [https://www.spiegel.de/sport/formel1/formel-1-brad-pitt-macht-selfies-mit-ferrari-piloten-und-crasht-die-nationalhymne](https://www.spiegel.de/sport/formel1/formel-1-brad-pitt-macht-selfies-mit-ferrari-piloten-und-crasht-die-nationalhymne-a-ce29cd0a-9044-414a-b9a9-a99938493dd2#ref=rss)
+### ferraripiloten
 
-* [https://www.spiegel.de/ausland/argentinien-fordert-freies-geleit-fuer-geflohene-oppositionelle](https://www.spiegel.de/ausland/argentinien-fordert-freies-geleit-fuer-geflohene-oppositionelle-a-47bfbde9-0ce7-4dd5-8d8e-cbcae3d79564#ref=rss)
-### kurz
+* [https://www.spiegel.de/sport/formel1/formel-1-brad-pitt-macht-selfies-mit-ferrari-piloten-und-crasht-die-nationalhymne](https://www.spiegel.de/sport/formel1/formel-1-brad-pitt-macht-selfies-mit-ferrari-piloten-und-crasht-die-nationalhymne-a-ce29cd0a-9044-414a-b9a9-a99938493dd2#ref=rss)
+### crasht
 
-* [https://www.spiegel.de/ausland/syrien-diktator-baschar-al-assad-steht-kurz-vor-dem-fall](https://www.spiegel.de/ausland/syrien-diktator-baschar-al-assad-steht-kurz-vor-dem-fall-a-e53aeeb1-fd9b-4bc4-aec9-dbc05b3b9f9d#ref=rss)
-### fall
+* [https://www.spiegel.de/sport/formel1/formel-1-brad-pitt-macht-selfies-mit-ferrari-piloten-und-crasht-die-nationalhymne](https://www.spiegel.de/sport/formel1/formel-1-brad-pitt-macht-selfies-mit-ferrari-piloten-und-crasht-die-nationalhymne-a-ce29cd0a-9044-414a-b9a9-a99938493dd2#ref=rss)
+### nationalhymne
 
-* [https://www.spiegel.de/ausland/syrien-diktator-baschar-al-assad-steht-kurz-vor-dem-fall](https://www.spiegel.de/ausland/syrien-diktator-baschar-al-assad-steht-kurz-vor-dem-fall-a-e53aeeb1-fd9b-4bc4-aec9-dbc05b3b9f9d#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-brad-pitt-macht-selfies-mit-ferrari-piloten-und-crasht-die-nationalhymne](https://www.spiegel.de/sport/formel1/formel-1-brad-pitt-macht-selfies-mit-ferrari-piloten-und-crasht-die-nationalhymne-a-ce29cd0a-9044-414a-b9a9-a99938493dd2#ref=rss)
+### cameo
+
+* [https://www.spiegel.de/sport/formel1/formel-1-brad-pitt-macht-selfies-mit-ferrari-piloten-und-crasht-die-nationalhymne](https://www.spiegel.de/sport/formel1/formel-1-brad-pitt-macht-selfies-mit-ferrari-piloten-und-crasht-die-nationalhymne-a-ce29cd0a-9044-414a-b9a9-a99938493dd2#ref=rss)
+### fällt
+
+* [https://www.spiegel.de/ausland/china-faehrt-vor-taiwan-gross-auf-zahl-der-kriegsschiffe-verdoppelt](https://www.spiegel.de/ausland/china-faehrt-vor-taiwan-gross-auf-zahl-der-kriegsschiffe-verdoppelt-a-e55e1964-8e65-465d-b64e-f7a549dcca45#ref=rss)
+* [https://www.spiegel.de/ausland/avignon-was-gisele-pelicot-fuer-die-feministische-bewegung-veraendert-hat](https://www.spiegel.de/ausland/avignon-was-gisele-pelicot-fuer-die-feministische-bewegung-veraendert-hat-a-b65f38b8-8bf4-423b-99ac-24f7fc1b7ac7#ref=rss)
+### hamburger
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-nur-remis-gegen-darmstadt-98-1-fc-koeln-gewinnt](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-nur-remis-gegen-darmstadt-98-1-fc-koeln-gewinnt-a-4a5c0796-862a-4a63-a7df-3df5ba67a91f#ref=rss)
+### darmstadt
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-nur-remis-gegen-darmstadt-98-1-fc-koeln-gewinnt](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-nur-remis-gegen-darmstadt-98-1-fc-koeln-gewinnt-a-4a5c0796-862a-4a63-a7df-3df5ba67a91f#ref=rss)
+### köln
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-nur-remis-gegen-darmstadt-98-1-fc-koeln-gewinnt](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-nur-remis-gegen-darmstadt-98-1-fc-koeln-gewinnt-a-4a5c0796-862a-4a63-a7df-3df5ba67a91f#ref=rss)
+### ray
+
+* [https://www.spiegel.de/wissenschaft/kuenstliche-intelligenz-ki-vordenker-ray-kurzweil-so-werden-wir-zu-supermenschen](https://www.spiegel.de/wissenschaft/kuenstliche-intelligenz-ki-vordenker-ray-kurzweil-so-werden-wir-zu-supermenschen-a-12c360d3-ef27-4413-b4b9-14be56ecc5d7#ref=rss)
+### kurzweil
+
+* [https://www.spiegel.de/wissenschaft/kuenstliche-intelligenz-ki-vordenker-ray-kurzweil-so-werden-wir-zu-supermenschen](https://www.spiegel.de/wissenschaft/kuenstliche-intelligenz-ki-vordenker-ray-kurzweil-so-werden-wir-zu-supermenschen-a-12c360d3-ef27-4413-b4b9-14be56ecc5d7#ref=rss)
+### zukunft
+
+* [https://www.spiegel.de/wissenschaft/kuenstliche-intelligenz-ki-vordenker-ray-kurzweil-so-werden-wir-zu-supermenschen](https://www.spiegel.de/wissenschaft/kuenstliche-intelligenz-ki-vordenker-ray-kurzweil-so-werden-wir-zu-supermenschen-a-12c360d3-ef27-4413-b4b9-14be56ecc5d7#ref=rss)
+* [https://www.spiegel.de/politik/politiker-muessen-sich-diese-frage-stellen-wer-werde-ich-gewesen-sein-kolumne](https://www.spiegel.de/politik/politiker-muessen-sich-diese-frage-stellen-wer-werde-ich-gewesen-sein-kolumne-a-9887c53b-0841-4622-ae2b-431e2778521d#ref=rss)
+### gambia
+
+* [https://www.spiegel.de/ausland/gambia-wie-das-land-sein-image-als-sextourismus-ziel-loswerden-will](https://www.spiegel.de/ausland/gambia-wie-das-land-sein-image-als-sextourismus-ziel-loswerden-will-a-0c218c76-af6e-4434-b1cf-36b9ac9ee04d#ref=rss)
+### jungen
+
+* [https://www.spiegel.de/ausland/gambia-wie-das-land-sein-image-als-sextourismus-ziel-loswerden-will](https://www.spiegel.de/ausland/gambia-wie-das-land-sein-image-als-sextourismus-ziel-loswerden-will-a-0c218c76-af6e-4434-b1cf-36b9ac9ee04d#ref=rss)
+* [https://www.spiegel.de/sport/schach-wm-dommaraju-gukesh-hat-nach-sieg-gegen-ding-liren-in-11-partie-wm-titel-vor-augen](https://www.spiegel.de/sport/schach-wm-dommaraju-gukesh-hat-nach-sieg-gegen-ding-liren-in-11-partie-wm-titel-vor-augen-a-ceb22aa9-41ef-43f6-8b3b-45062d4198be#ref=rss)
+### moskau
+
+* [https://www.spiegel.de/ausland/syrien-nach-dem-sturz-assads-moskau-nannte-die-aufstaendischen-terroristen-jetzt-will-es-mit-der-opposition-reden](https://www.spiegel.de/ausland/syrien-nach-dem-sturz-assads-moskau-nannte-die-aufstaendischen-terroristen-jetzt-will-es-mit-der-opposition-reden-a-3c48359b-0957-47f1-87e2-00631bc0cce0#ref=rss)
+### pelicot
+
+* [https://www.spiegel.de/ausland/avignon-was-gisele-pelicot-fuer-die-feministische-bewegung-veraendert-hat](https://www.spiegel.de/ausland/avignon-was-gisele-pelicot-fuer-die-feministische-bewegung-veraendert-hat-a-b65f38b8-8bf4-423b-99ac-24f7fc1b7ac7#ref=rss)
+### urteil
+
+* [https://www.spiegel.de/ausland/avignon-was-gisele-pelicot-fuer-die-feministische-bewegung-veraendert-hat](https://www.spiegel.de/ausland/avignon-was-gisele-pelicot-fuer-die-feministische-bewegung-veraendert-hat-a-b65f38b8-8bf4-423b-99ac-24f7fc1b7ac7#ref=rss)
+* [https://www.spiegel.de/politik/politiker-muessen-sich-diese-frage-stellen-wer-werde-ich-gewesen-sein-kolumne](https://www.spiegel.de/politik/politiker-muessen-sich-diese-frage-stellen-wer-werde-ich-gewesen-sein-kolumne-a-9887c53b-0841-4622-ae2b-431e2778521d#ref=rss)
+### eurojackpot
+
+* [https://www.spiegel.de/panorama/eurojackpot-zwei-deutsche-teilen-sich-120-millionen-euro](https://www.spiegel.de/panorama/eurojackpot-zwei-deutsche-teilen-sich-120-millionen-euro-a-515f1e70-4033-4377-8b37-073f30a45ef5#ref=rss)
+### teilen
+
+* [https://www.spiegel.de/panorama/eurojackpot-zwei-deutsche-teilen-sich-120-millionen-euro](https://www.spiegel.de/panorama/eurojackpot-zwei-deutsche-teilen-sich-120-millionen-euro-a-515f1e70-4033-4377-8b37-073f30a45ef5#ref=rss)
+### endlich
+
+* [https://www.spiegel.de/panorama/eurojackpot-zwei-deutsche-teilen-sich-120-millionen-euro](https://www.spiegel.de/panorama/eurojackpot-zwei-deutsche-teilen-sich-120-millionen-euro-a-515f1e70-4033-4377-8b37-073f30a45ef5#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-nach-sturz-von-bashar-al-assad-feiert-mit-uns-kommentar-einer-vertriebenen](https://www.spiegel.de/ausland/syrien-nach-sturz-von-bashar-al-assad-feiert-mit-uns-kommentar-einer-vertriebenen-a-1626003e-81a5-4f2b-9f07-ea37294051ed#ref=rss)
+### dommaraju
+
+* [https://www.spiegel.de/sport/schach-wm-dommaraju-gukesh-hat-nach-sieg-gegen-ding-liren-in-11-partie-wm-titel-vor-augen](https://www.spiegel.de/sport/schach-wm-dommaraju-gukesh-hat-nach-sieg-gegen-ding-liren-in-11-partie-wm-titel-vor-augen-a-ceb22aa9-41ef-43f6-8b3b-45062d4198be#ref=rss)
+### gukesh
+
+* [https://www.spiegel.de/sport/schach-wm-dommaraju-gukesh-hat-nach-sieg-gegen-ding-liren-in-11-partie-wm-titel-vor-augen](https://www.spiegel.de/sport/schach-wm-dommaraju-gukesh-hat-nach-sieg-gegen-ding-liren-in-11-partie-wm-titel-vor-augen-a-ceb22aa9-41ef-43f6-8b3b-45062d4198be#ref=rss)
+### ding
+
+* [https://www.spiegel.de/sport/schach-wm-dommaraju-gukesh-hat-nach-sieg-gegen-ding-liren-in-11-partie-wm-titel-vor-augen](https://www.spiegel.de/sport/schach-wm-dommaraju-gukesh-hat-nach-sieg-gegen-ding-liren-in-11-partie-wm-titel-vor-augen-a-ceb22aa9-41ef-43f6-8b3b-45062d4198be#ref=rss)
+### liren
+
+* [https://www.spiegel.de/sport/schach-wm-dommaraju-gukesh-hat-nach-sieg-gegen-ding-liren-in-11-partie-wm-titel-vor-augen](https://www.spiegel.de/sport/schach-wm-dommaraju-gukesh-hat-nach-sieg-gegen-ding-liren-in-11-partie-wm-titel-vor-augen-a-ceb22aa9-41ef-43f6-8b3b-45062d4198be#ref=rss)
+### jena
+
+* [https://www.spiegel.de/geschichte/jena-wie-ein-mann-gegen-fake-geschichte-und-die-legende-von-der-auschwitzluege-kaempft](https://www.spiegel.de/geschichte/jena-wie-ein-mann-gegen-fake-geschichte-und-die-legende-von-der-auschwitzluege-kaempft-a-7779e008-5bb2-446d-b870-544dcdf9a0a8#ref=rss)
+### jungholz
+
+* [https://www.spiegel.de/wirtschaft/jungholz-in-tirol-ganzes-skigebiet-zum-schnaeppchenpreis-im-angebot](https://www.spiegel.de/wirtschaft/jungholz-in-tirol-ganzes-skigebiet-zum-schnaeppchenpreis-im-angebot-a-82989aa3-27f2-4739-a5eb-823cb5390c91#ref=rss)
+### angebot
+
+* [https://www.spiegel.de/wirtschaft/jungholz-in-tirol-ganzes-skigebiet-zum-schnaeppchenpreis-im-angebot](https://www.spiegel.de/wirtschaft/jungholz-in-tirol-ganzes-skigebiet-zum-schnaeppchenpreis-im-angebot-a-82989aa3-27f2-4739-a5eb-823cb5390c91#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/weihnachtsmann-mangel-interview-mit-ronny-schroeter-leiter-des-cottbuser-weihnachtsmannbueros](https://www.spiegel.de/panorama/gesellschaft/weihnachtsmann-mangel-interview-mit-ronny-schroeter-leiter-des-cottbuser-weihnachtsmannbueros-a-903c5cfc-eef6-4280-9fa8-8dabb7c6f3de#ref=rss)
+### wenig
+
+* [https://www.spiegel.de/wirtschaft/jungholz-in-tirol-ganzes-skigebiet-zum-schnaeppchenpreis-im-angebot](https://www.spiegel.de/wirtschaft/jungholz-in-tirol-ganzes-skigebiet-zum-schnaeppchenpreis-im-angebot-a-82989aa3-27f2-4739-a5eb-823cb5390c91#ref=rss)
+### sollte
+
+* [https://www.spiegel.de/wirtschaft/jungholz-in-tirol-ganzes-skigebiet-zum-schnaeppchenpreis-im-angebot](https://www.spiegel.de/wirtschaft/jungholz-in-tirol-ganzes-skigebiet-zum-schnaeppchenpreis-im-angebot-a-82989aa3-27f2-4739-a5eb-823cb5390c91#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/weihnachtsmann-mangel-interview-mit-ronny-schroeter-leiter-des-cottbuser-weihnachtsmannbueros](https://www.spiegel.de/panorama/gesellschaft/weihnachtsmann-mangel-interview-mit-ronny-schroeter-leiter-des-cottbuser-weihnachtsmannbueros-a-903c5cfc-eef6-4280-9fa8-8dabb7c6f3de#ref=rss)
+### werde
+
+* [https://www.spiegel.de/ausland/syrien-nach-sturz-von-bashar-al-assad-feiert-mit-uns-kommentar-einer-vertriebenen](https://www.spiegel.de/ausland/syrien-nach-sturz-von-bashar-al-assad-feiert-mit-uns-kommentar-einer-vertriebenen-a-1626003e-81a5-4f2b-9f07-ea37294051ed#ref=rss)
+* [https://www.spiegel.de/politik/politiker-muessen-sich-diese-frage-stellen-wer-werde-ich-gewesen-sein-kolumne](https://www.spiegel.de/politik/politiker-muessen-sich-diese-frage-stellen-wer-werde-ich-gewesen-sein-kolumne-a-9887c53b-0841-4622-ae2b-431e2778521d#ref=rss)
+### dosb
+
+* [https://www.spiegel.de/sport/olympia/dosb-und-olympiabewerbung-deutschland-hat-keine-vision-keine-jahreszahl-keine-finanzplanung](https://www.spiegel.de/sport/olympia/dosb-und-olympiabewerbung-deutschland-hat-keine-vision-keine-jahreszahl-keine-finanzplanung-a-33fdc1eb-a568-4eef-8d1e-b1855c874d60#ref=rss)
+### politiker
+
+* [https://www.spiegel.de/politik/politiker-muessen-sich-diese-frage-stellen-wer-werde-ich-gewesen-sein-kolumne](https://www.spiegel.de/politik/politiker-muessen-sich-diese-frage-stellen-wer-werde-ich-gewesen-sein-kolumne-a-9887c53b-0841-4622-ae2b-431e2778521d#ref=rss)
+### ertragen
+
+* [https://www.spiegel.de/politik/politiker-muessen-sich-diese-frage-stellen-wer-werde-ich-gewesen-sein-kolumne](https://www.spiegel.de/politik/politiker-muessen-sich-diese-frage-stellen-wer-werde-ich-gewesen-sein-kolumne-a-9887c53b-0841-4622-ae2b-431e2778521d#ref=rss)
+### proteste
+
+* [https://www.spiegel.de/ausland/georgien-proteste-gegen-regierung-verpruegelt-fuers-vereinte-europa](https://www.spiegel.de/ausland/georgien-proteste-gegen-regierung-verpruegelt-fuers-vereinte-europa-a-9c24f8ed-4dd0-4eef-b797-0dea630dc0c0#ref=rss)
+### europa
+
+* [https://www.spiegel.de/ausland/georgien-proteste-gegen-regierung-verpruegelt-fuers-vereinte-europa](https://www.spiegel.de/ausland/georgien-proteste-gegen-regierung-verpruegelt-fuers-vereinte-europa-a-9c24f8ed-4dd0-4eef-b797-0dea630dc0c0#ref=rss)
 
