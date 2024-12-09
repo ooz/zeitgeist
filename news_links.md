@@ -6,283 +6,332 @@ tags: __no_header__
 
 ### syrien
 
-* [https://www.spiegel.de/ausland/syrien-mohammed-al-julani-das-ist-der-mann-der-baschar-al-assad-stuerzte](https://www.spiegel.de/ausland/syrien-mohammed-al-julani-das-ist-der-mann-der-baschar-al-assad-stuerzte-a-e493fb96-0435-463b-9487-1eaf044dd5f8#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-us-regierung-hofft-auf-lebenszeichen-des-verschwundenen-reporters-austin-tice](https://www.spiegel.de/ausland/syrien-us-regierung-hofft-auf-lebenszeichen-des-verschwundenen-reporters-austin-tice-a-175e6e84-a765-42d5-8644-f020df19a0c0#ref=rss)
-* [https://www.spiegel.de/panorama/machtwechsel-in-syrien-seit-der-ersten-klasse-musste-ich-rufen-assad-fuer-immer](https://www.spiegel.de/panorama/machtwechsel-in-syrien-seit-der-ersten-klasse-musste-ich-rufen-assad-fuer-immer-a-0f705fd8-1ad7-4a15-b38f-dafdc4aae464#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-news-heute-ferarri-f50-in-assads-fuhrpark-entdeckt](https://www.spiegel.de/ausland/syrien-news-heute-ferarri-f50-in-assads-fuhrpark-entdeckt-a-3f1035b1-b3d4-4a37-a8a1-af0892cc4ce4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/syrien-gefluechtete-in-deutschland-debatte-ueber-heimkehr-nach-sturz-von-assad](https://www.spiegel.de/politik/deutschland/syrien-gefluechtete-in-deutschland-debatte-ueber-heimkehr-nach-sturz-von-assad-a-dd1c3ad7-eb07-4405-a90b-12b920f83564#ref=rss)
-### drei
+* [https://www.spiegel.de/ausland/syrien-wladimir-putin-laesst-baschar-al-assad-fallen-der-preis-fuer-den-ukraine-krieg](https://www.spiegel.de/ausland/syrien-wladimir-putin-laesst-baschar-al-assad-fallen-der-preis-fuer-den-ukraine-krieg-a-d6dc24dd-24cb-40ed-ab69-636d0c8ec0ac#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-machtwechsel-in-syrien-fluechtlinge-ukraine-krieg-friedrich-merz](https://www.spiegel.de/politik/deutschland/news-des-tages-machtwechsel-in-syrien-fluechtlinge-ukraine-krieg-friedrich-merz-a-36013ab2-71f4-4ea0-acb2-c8247ec285d9#ref=rss)
+* [https://www.spiegel.de/auto/syrien-autosammlung-von-baschar-al-assad-mit-ferrari-lamborghini-aston-martin](https://www.spiegel.de/auto/syrien-autosammlung-von-baschar-al-assad-mit-ferrari-lamborghini-aston-martin-a-574242f5-6988-4682-949d-570c5a6e954b#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-amateurvideos-zeigen-bewegende-momente-nach-befreiung-aus-foltergefaengnissen](https://www.spiegel.de/ausland/syrien-amateurvideos-zeigen-bewegende-momente-nach-befreiung-aus-foltergefaengnissen-a-7ca19a38-b1b6-470b-93d4-20ac295bf95c#ref=rss)
+* [https://www.spiegel.de/ausland/israels-angriffe-in-syrien-aggressive-vorwaertsverteidigung](https://www.spiegel.de/ausland/israels-angriffe-in-syrien-aggressive-vorwaertsverteidigung-a-7a902b0c-fd62-4eb8-80db-7fbe523816ee#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-der-westen-hat-die-chance-verpasst-wie-kann-er-jetzt-helfen-das-land-zu-stabilisieren](https://www.spiegel.de/ausland/syrien-der-westen-hat-die-chance-verpasst-wie-kann-er-jetzt-helfen-das-land-zu-stabilisieren-a-6daee669-bca9-4bb2-88f3-a6eca34b6e78#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-bundesregierung-will-haiat-tahrir-al-scham-an-ihren-taten-messen](https://www.spiegel.de/ausland/syrien-bundesregierung-will-haiat-tahrir-al-scham-an-ihren-taten-messen-a-03fdf61a-57fc-413c-bbd1-eb8941006b85#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-spiegel-reporter-berichtet-aus-dem-land-nach-fall-des-assad-regimes](https://www.spiegel.de/ausland/syrien-spiegel-reporter-berichtet-aus-dem-land-nach-fall-des-assad-regimes-a-8278ce92-2a45-47b1-8c81-8003c738b05a#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/panorama/leute/culcha-candela-mateo-jasik-tritt-partei-des-fortschritts-bei](https://www.spiegel.de/panorama/leute/culcha-candela-mateo-jasik-tritt-partei-des-fortschritts-bei-a-10c15c6a-4e2e-4f7b-9fdb-3f43e4af78e5#ref=rss)
-* [https://www.spiegel.de/auto/sylt-wegen-bauarbeiten-an-der-schieneninfrastruktur-drei-tage-nicht-mit-dem-autozug-erreichbar](https://www.spiegel.de/auto/sylt-wegen-bauarbeiten-an-der-schieneninfrastruktur-drei-tage-nicht-mit-dem-autozug-erreichbar-a-767862a5-b2f6-45a6-a855-2a170caf25ef#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/meissen-drei-kinder-und-ein-mann-in-mehrfamilienhaus-leblos-aufgefunden](https://www.spiegel.de/panorama/justiz/meissen-drei-kinder-und-ein-mann-in-mehrfamilienhaus-leblos-aufgefunden-a-fcbdb7b3-8e9d-4dd0-9c48-d75b06736bc3#ref=rss)
-### mann
-
-* [https://www.spiegel.de/ausland/syrien-mohammed-al-julani-das-ist-der-mann-der-baschar-al-assad-stuerzte](https://www.spiegel.de/ausland/syrien-mohammed-al-julani-das-ist-der-mann-der-baschar-al-assad-stuerzte-a-e493fb96-0435-463b-9487-1eaf044dd5f8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-vater-schuettelt-baby-tot-bewaehrungsstrafe](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-vater-schuettelt-baby-tot-bewaehrungsstrafe-a-a02c492b-60cc-48f6-ad62-310086ef8789#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/meissen-drei-kinder-und-ein-mann-in-mehrfamilienhaus-leblos-aufgefunden](https://www.spiegel.de/panorama/justiz/meissen-drei-kinder-und-ein-mann-in-mehrfamilienhaus-leblos-aufgefunden-a-fcbdb7b3-8e9d-4dd0-9c48-d75b06736bc3#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/wissenschaft/natur/albatros-wisdom-legt-mit-74-jahren-ein-ei-alter-schuetzt-vor-liebe-nicht](https://www.spiegel.de/wissenschaft/natur/albatros-wisdom-legt-mit-74-jahren-ein-ei-alter-schuetzt-vor-liebe-nicht-a-addb25ad-7a83-4c0b-8831-1265c867ae77#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/meissen-drei-kinder-und-ein-mann-in-mehrfamilienhaus-leblos-aufgefunden](https://www.spiegel.de/panorama/justiz/meissen-drei-kinder-und-ein-mann-in-mehrfamilienhaus-leblos-aufgefunden-a-fcbdb7b3-8e9d-4dd0-9c48-d75b06736bc3#ref=rss)
-* [https://www.spiegel.de/sport/baseball-superstar-juan-soto-unterschreibt-offenbar-rekordvertrag](https://www.spiegel.de/sport/baseball-superstar-juan-soto-unterschreibt-offenbar-rekordvertrag-a-6a5dda10-5b9d-4fda-890d-14b21030ff39#ref=rss)
-### swift
-
-* [https://www.spiegel.de/panorama/leute/taylor-swift-eras-2023-24-die-groesste-tour-aller-zeiten-ist-zu-ende](https://www.spiegel.de/panorama/leute/taylor-swift-eras-2023-24-die-groesste-tour-aller-zeiten-ist-zu-ende-a-846486af-8676-4460-be2f-021de79884d4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/laifen-swift-versus-dyson-supersonic-was-ist-dran-am-hype-um-den-foehn-von-laifen](https://www.spiegel.de/wirtschaft/laifen-swift-versus-dyson-supersonic-was-ist-dran-am-hype-um-den-foehn-von-laifen-a-8850e637-33ff-4002-9399-ad138d18f88e#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/wissenschaft/natur/copernicus-2024-duerfte-das-heisseste-jahr-seit-beginn-der-aufzeichnungen-werden](https://www.spiegel.de/wissenschaft/natur/copernicus-2024-duerfte-das-heisseste-jahr-seit-beginn-der-aufzeichnungen-werden-a-ff4f7ce6-5f08-4b9b-b327-cdb5698f315d#ref=rss)
-* [https://www.spiegel.de/panorama/leute/jay-z-musikproduzent-soll-13-jaehrige-vergewaltigt-haben-gemeinsam-mit-sean-diddy-combs](https://www.spiegel.de/panorama/leute/jay-z-musikproduzent-soll-13-jaehrige-vergewaltigt-haben-gemeinsam-mit-sean-diddy-combs-a-deecee6b-56c2-45ac-b3c4-7e7328e04c70#ref=rss)
-### laifen
-
-* [https://www.spiegel.de/wirtschaft/laifen-swift-versus-dyson-supersonic-was-ist-dran-am-hype-um-den-foehn-von-laifen](https://www.spiegel.de/wirtschaft/laifen-swift-versus-dyson-supersonic-was-ist-dran-am-hype-um-den-foehn-von-laifen-a-8850e637-33ff-4002-9399-ad138d18f88e#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/donald-trump-trump-plant-begnadigung-der-kapitolstuermer](https://www.spiegel.de/ausland/donald-trump-trump-plant-begnadigung-der-kapitolstuermer-a-c1ed06d8-0a3f-4574-875f-46468bc86743#ref=rss)
-### 2025
-
-* [https://www.spiegel.de/wirtschaft/bmw-chef-haelt-neuwagen-klimaziel-2025-fuer-erreichbar](https://www.spiegel.de/wirtschaft/bmw-chef-haelt-neuwagen-klimaziel-2025-fuer-erreichbar-a-e94ffa2e-2714-41a6-a97b-37f7369a1c81#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ifo-umfrage-kleinunternehmer-erwarten-2025-schlechtere-geschaefte](https://www.spiegel.de/wirtschaft/ifo-umfrage-kleinunternehmer-erwarten-2025-schlechtere-geschaefte-a-d422c347-8011-4891-932a-cf0d744737e4#ref=rss)
-### mateo
-
-* [https://www.spiegel.de/panorama/leute/culcha-candela-mateo-jasik-tritt-partei-des-fortschritts-bei](https://www.spiegel.de/panorama/leute/culcha-candela-mateo-jasik-tritt-partei-des-fortschritts-bei-a-10c15c6a-4e2e-4f7b-9fdb-3f43e4af78e5#ref=rss)
-### jasik
-
-* [https://www.spiegel.de/panorama/leute/culcha-candela-mateo-jasik-tritt-partei-des-fortschritts-bei](https://www.spiegel.de/panorama/leute/culcha-candela-mateo-jasik-tritt-partei-des-fortschritts-bei-a-10c15c6a-4e2e-4f7b-9fdb-3f43e4af78e5#ref=rss)
-### tritt
-
-* [https://www.spiegel.de/panorama/leute/culcha-candela-mateo-jasik-tritt-partei-des-fortschritts-bei](https://www.spiegel.de/panorama/leute/culcha-candela-mateo-jasik-tritt-partei-des-fortschritts-bei-a-10c15c6a-4e2e-4f7b-9fdb-3f43e4af78e5#ref=rss)
-* [https://www.spiegel.de/politik/dienstreisen-streit-bei-gruenen-in-hessen-parteivorsitzende-anders-tritt-zurueck](https://www.spiegel.de/politik/dienstreisen-streit-bei-gruenen-in-hessen-parteivorsitzende-anders-tritt-zurueck-a-a5371bbf-022c-49e2-a602-36cfa5d75d93#ref=rss)
-### partei
-
-* [https://www.spiegel.de/panorama/leute/culcha-candela-mateo-jasik-tritt-partei-des-fortschritts-bei](https://www.spiegel.de/panorama/leute/culcha-candela-mateo-jasik-tritt-partei-des-fortschritts-bei-a-10c15c6a-4e2e-4f7b-9fdb-3f43e4af78e5#ref=rss)
-### fortschritts
-
-* [https://www.spiegel.de/panorama/leute/culcha-candela-mateo-jasik-tritt-partei-des-fortschritts-bei](https://www.spiegel.de/panorama/leute/culcha-candela-mateo-jasik-tritt-partei-des-fortschritts-bei-a-10c15c6a-4e2e-4f7b-9fdb-3f43e4af78e5#ref=rss)
-### musiker
-
-* [https://www.spiegel.de/panorama/leute/culcha-candela-mateo-jasik-tritt-partei-des-fortschritts-bei](https://www.spiegel.de/panorama/leute/culcha-candela-mateo-jasik-tritt-partei-des-fortschritts-bei-a-10c15c6a-4e2e-4f7b-9fdb-3f43e4af78e5#ref=rss)
-* [https://www.spiegel.de/panorama/leute/taylor-swift-eras-2023-24-die-groesste-tour-aller-zeiten-ist-zu-ende](https://www.spiegel.de/panorama/leute/taylor-swift-eras-2023-24-die-groesste-tour-aller-zeiten-ist-zu-ende-a-846486af-8676-4460-be2f-021de79884d4#ref=rss)
-### alter
-
-* [https://www.spiegel.de/wissenschaft/natur/albatros-wisdom-legt-mit-74-jahren-ein-ei-alter-schuetzt-vor-liebe-nicht](https://www.spiegel.de/wissenschaft/natur/albatros-wisdom-legt-mit-74-jahren-ein-ei-alter-schuetzt-vor-liebe-nicht-a-addb25ad-7a83-4c0b-8831-1265c867ae77#ref=rss)
-* [https://www.spiegel.de/panorama/leute/tom-parker-bowles-camilla-und-charles-haben-zwei-hoellenjahre-hinter-sich](https://www.spiegel.de/panorama/leute/tom-parker-bowles-camilla-und-charles-haben-zwei-hoellenjahre-hinter-sich-a-f0e6577c-067a-498c-a67c-98f57eef9112#ref=rss)
-### scheint
-
-* [https://www.spiegel.de/wissenschaft/natur/albatros-wisdom-legt-mit-74-jahren-ein-ei-alter-schuetzt-vor-liebe-nicht](https://www.spiegel.de/wissenschaft/natur/albatros-wisdom-legt-mit-74-jahren-ein-ei-alter-schuetzt-vor-liebe-nicht-a-addb25ad-7a83-4c0b-8831-1265c867ae77#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-ohne-verletzten-franz-wagner-orlando-setzt-heim-siegesserie-fort](https://www.spiegel.de/sport/basketball/nba-ohne-verletzten-franz-wagner-orlando-setzt-heim-siegesserie-fort-a-efc99ceb-7a8b-46a1-833b-cf7cd278216a#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/wissenschaft/natur/albatros-wisdom-legt-mit-74-jahren-ein-ei-alter-schuetzt-vor-liebe-nicht](https://www.spiegel.de/wissenschaft/natur/albatros-wisdom-legt-mit-74-jahren-ein-ei-alter-schuetzt-vor-liebe-nicht-a-addb25ad-7a83-4c0b-8831-1265c867ae77#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/kongo-krankheit-x-laut-who-vielleicht-folge-von-malaria-oder-covid-19](https://www.spiegel.de/wissenschaft/medizin/kongo-krankheit-x-laut-who-vielleicht-folge-von-malaria-oder-covid-19-a-36dc9a85-8d9f-4cf3-ba29-106b81250ce4#ref=rss)
-### mohammed
-
-* [https://www.spiegel.de/ausland/syrien-mohammed-al-julani-das-ist-der-mann-der-baschar-al-assad-stuerzte](https://www.spiegel.de/ausland/syrien-mohammed-al-julani-das-ist-der-mann-der-baschar-al-assad-stuerzte-a-e493fb96-0435-463b-9487-1eaf044dd5f8#ref=rss)
-### aljulani
-
-* [https://www.spiegel.de/ausland/syrien-mohammed-al-julani-das-ist-der-mann-der-baschar-al-assad-stuerzte](https://www.spiegel.de/ausland/syrien-mohammed-al-julani-das-ist-der-mann-der-baschar-al-assad-stuerzte-a-e493fb96-0435-463b-9487-1eaf044dd5f8#ref=rss)
-### ende
-
-* [https://www.spiegel.de/ausland/syrien-mohammed-al-julani-das-ist-der-mann-der-baschar-al-assad-stuerzte](https://www.spiegel.de/ausland/syrien-mohammed-al-julani-das-ist-der-mann-der-baschar-al-assad-stuerzte-a-e493fb96-0435-463b-9487-1eaf044dd5f8#ref=rss)
-* [https://www.spiegel.de/panorama/leute/taylor-swift-eras-2023-24-die-groesste-tour-aller-zeiten-ist-zu-ende](https://www.spiegel.de/panorama/leute/taylor-swift-eras-2023-24-die-groesste-tour-aller-zeiten-ist-zu-ende-a-846486af-8676-4460-be2f-021de79884d4#ref=rss)
-### woche
-
-* [https://www.spiegel.de/ausland/syrien-mohammed-al-julani-das-ist-der-mann-der-baschar-al-assad-stuerzte](https://www.spiegel.de/ausland/syrien-mohammed-al-julani-das-ist-der-mann-der-baschar-al-assad-stuerzte-a-e493fb96-0435-463b-9487-1eaf044dd5f8#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-besuch-cdu-kanzlerkandidat-friedrich-merz-reist-nach-kyjiw](https://www.spiegel.de/ausland/ukraine-besuch-cdu-kanzlerkandidat-friedrich-merz-reist-nach-kyjiw-a-9e5b7421-6ea3-48fb-9d98-26091cd2e47b#ref=rss)
-### gesicht
-
-* [https://www.spiegel.de/ausland/syrien-mohammed-al-julani-das-ist-der-mann-der-baschar-al-assad-stuerzte](https://www.spiegel.de/ausland/syrien-mohammed-al-julani-das-ist-der-mann-der-baschar-al-assad-stuerzte-a-e493fb96-0435-463b-9487-1eaf044dd5f8#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/deepfake-pornos-das-perfide-geschaeft-mit-gefaelschten-sexvideos](https://www.spiegel.de/netzwelt/web/deepfake-pornos-das-perfide-geschaeft-mit-gefaelschten-sexvideos-a-ddf22e79-c2ef-47d0-8b5d-6934e4397b17#ref=rss)
-### taylor
-
-* [https://www.spiegel.de/panorama/leute/taylor-swift-eras-2023-24-die-groesste-tour-aller-zeiten-ist-zu-ende](https://www.spiegel.de/panorama/leute/taylor-swift-eras-2023-24-die-groesste-tour-aller-zeiten-ist-zu-ende-a-846486af-8676-4460-be2f-021de79884d4#ref=rss)
-### vater
-
-* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-vater-schuettelt-baby-tot-bewaehrungsstrafe](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-vater-schuettelt-baby-tot-bewaehrungsstrafe-a-a02c492b-60cc-48f6-ad62-310086ef8789#ref=rss)
-### monate
-
-* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-vater-schuettelt-baby-tot-bewaehrungsstrafe](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-vater-schuettelt-baby-tot-bewaehrungsstrafe-a-a02c492b-60cc-48f6-ad62-310086ef8789#ref=rss)
-* [https://www.spiegel.de/politik/dienstreisen-streit-bei-gruenen-in-hessen-parteivorsitzende-anders-tritt-zurueck](https://www.spiegel.de/politik/dienstreisen-streit-bei-gruenen-in-hessen-parteivorsitzende-anders-tritt-zurueck-a-a5371bbf-022c-49e2-a602-36cfa5d75d93#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-vater-schuettelt-baby-tot-bewaehrungsstrafe](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-vater-schuettelt-baby-tot-bewaehrungsstrafe-a-a02c492b-60cc-48f6-ad62-310086ef8789#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/copernicus-2024-duerfte-das-heisseste-jahr-seit-beginn-der-aufzeichnungen-werden](https://www.spiegel.de/wissenschaft/natur/copernicus-2024-duerfte-das-heisseste-jahr-seit-beginn-der-aufzeichnungen-werden-a-ff4f7ce6-5f08-4b9b-b327-cdb5698f315d#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-vater-schuettelt-baby-tot-bewaehrungsstrafe](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-vater-schuettelt-baby-tot-bewaehrungsstrafe-a-a02c492b-60cc-48f6-ad62-310086ef8789#ref=rss)
-* [https://www.spiegel.de/wirtschaft/cum-ex-aufklaerer-in-der-schweiz-wegen-wirtschaftsspionage-vor-gericht](https://www.spiegel.de/wirtschaft/cum-ex-aufklaerer-in-der-schweiz-wegen-wirtschaftsspionage-vor-gericht-a-f1beea92-724b-45dd-b172-9e579b6f142f#ref=rss)
-### austin
-
-* [https://www.spiegel.de/ausland/syrien-us-regierung-hofft-auf-lebenszeichen-des-verschwundenen-reporters-austin-tice](https://www.spiegel.de/ausland/syrien-us-regierung-hofft-auf-lebenszeichen-des-verschwundenen-reporters-austin-tice-a-175e6e84-a765-42d5-8644-f020df19a0c0#ref=rss)
-### tice
-
-* [https://www.spiegel.de/ausland/syrien-us-regierung-hofft-auf-lebenszeichen-des-verschwundenen-reporters-austin-tice](https://www.spiegel.de/ausland/syrien-us-regierung-hofft-auf-lebenszeichen-des-verschwundenen-reporters-austin-tice-a-175e6e84-a765-42d5-8644-f020df19a0c0#ref=rss)
-### gilt
-
-* [https://www.spiegel.de/ausland/syrien-us-regierung-hofft-auf-lebenszeichen-des-verschwundenen-reporters-austin-tice](https://www.spiegel.de/ausland/syrien-us-regierung-hofft-auf-lebenszeichen-des-verschwundenen-reporters-austin-tice-a-175e6e84-a765-42d5-8644-f020df19a0c0#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/copernicus-2024-duerfte-das-heisseste-jahr-seit-beginn-der-aufzeichnungen-werden](https://www.spiegel.de/wissenschaft/natur/copernicus-2024-duerfte-das-heisseste-jahr-seit-beginn-der-aufzeichnungen-werden-a-ff4f7ce6-5f08-4b9b-b327-cdb5698f315d#ref=rss)
-### leben
-
-* [https://www.spiegel.de/ausland/syrien-us-regierung-hofft-auf-lebenszeichen-des-verschwundenen-reporters-austin-tice](https://www.spiegel.de/ausland/syrien-us-regierung-hofft-auf-lebenszeichen-des-verschwundenen-reporters-austin-tice-a-175e6e84-a765-42d5-8644-f020df19a0c0#ref=rss)
-* [https://www.spiegel.de/panorama/machtwechsel-in-syrien-seit-der-ersten-klasse-musste-ich-rufen-assad-fuer-immer](https://www.spiegel.de/panorama/machtwechsel-in-syrien-seit-der-ersten-klasse-musste-ich-rufen-assad-fuer-immer-a-0f705fd8-1ad7-4a15-b38f-dafdc4aae464#ref=rss)
-### assad
-
-* [https://www.spiegel.de/panorama/machtwechsel-in-syrien-seit-der-ersten-klasse-musste-ich-rufen-assad-fuer-immer](https://www.spiegel.de/panorama/machtwechsel-in-syrien-seit-der-ersten-klasse-musste-ich-rufen-assad-fuer-immer-a-0f705fd8-1ad7-4a15-b38f-dafdc4aae464#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/syrien-gefluechtete-in-deutschland-debatte-ueber-heimkehr-nach-sturz-von-assad](https://www.spiegel.de/politik/deutschland/syrien-gefluechtete-in-deutschland-debatte-ueber-heimkehr-nach-sturz-von-assad-a-dd1c3ad7-eb07-4405-a90b-12b920f83564#ref=rss)
-### kongo
-
-* [https://www.spiegel.de/wissenschaft/medizin/kongo-krankheit-x-laut-who-vielleicht-folge-von-malaria-oder-covid-19](https://www.spiegel.de/wissenschaft/medizin/kongo-krankheit-x-laut-who-vielleicht-folge-von-malaria-oder-covid-19-a-36dc9a85-8d9f-4cf3-ba29-106b81250ce4#ref=rss)
-### krankheit
-
-* [https://www.spiegel.de/wissenschaft/medizin/kongo-krankheit-x-laut-who-vielleicht-folge-von-malaria-oder-covid-19](https://www.spiegel.de/wissenschaft/medizin/kongo-krankheit-x-laut-who-vielleicht-folge-von-malaria-oder-covid-19-a-36dc9a85-8d9f-4cf3-ba29-106b81250ce4#ref=rss)
-### laut
-
-* [https://www.spiegel.de/wissenschaft/medizin/kongo-krankheit-x-laut-who-vielleicht-folge-von-malaria-oder-covid-19](https://www.spiegel.de/wissenschaft/medizin/kongo-krankheit-x-laut-who-vielleicht-folge-von-malaria-oder-covid-19-a-36dc9a85-8d9f-4cf3-ba29-106b81250ce4#ref=rss)
-* [https://www.spiegel.de/sport/baseball-superstar-juan-soto-unterschreibt-offenbar-rekordvertrag](https://www.spiegel.de/sport/baseball-superstar-juan-soto-unterschreibt-offenbar-rekordvertrag-a-6a5dda10-5b9d-4fda-890d-14b21030ff39#ref=rss)
-### zauberer
-
-* [https://www.spiegel.de/kultur/kino/der-zauberer-von-oz-rote-pantoffeln-von-judy-garland-fuer-rekordsumme-versteigert](https://www.spiegel.de/kultur/kino/der-zauberer-von-oz-rote-pantoffeln-von-judy-garland-fuer-rekordsumme-versteigert-a-81acdf84-3ae4-4d2d-8b86-6d8a8e393369#ref=rss)
-### oz
-
-* [https://www.spiegel.de/kultur/kino/der-zauberer-von-oz-rote-pantoffeln-von-judy-garland-fuer-rekordsumme-versteigert](https://www.spiegel.de/kultur/kino/der-zauberer-von-oz-rote-pantoffeln-von-judy-garland-fuer-rekordsumme-versteigert-a-81acdf84-3ae4-4d2d-8b86-6d8a8e393369#ref=rss)
-### rekordsumme
-
-* [https://www.spiegel.de/kultur/kino/der-zauberer-von-oz-rote-pantoffeln-von-judy-garland-fuer-rekordsumme-versteigert](https://www.spiegel.de/kultur/kino/der-zauberer-von-oz-rote-pantoffeln-von-judy-garland-fuer-rekordsumme-versteigert-a-81acdf84-3ae4-4d2d-8b86-6d8a8e393369#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/syrien-news-heute-ferarri-f50-in-assads-fuhrpark-entdeckt](https://www.spiegel.de/ausland/syrien-news-heute-ferarri-f50-in-assads-fuhrpark-entdeckt-a-3f1035b1-b3d4-4a37-a8a1-af0892cc4ce4#ref=rss)
-### sehen
-
-* [https://www.spiegel.de/sport/handball/handball-nicht-gegebenes-tor-im-bundesliga-topspiel-fuechse-berlin-protestieren](https://www.spiegel.de/sport/handball/handball-nicht-gegebenes-tor-im-bundesliga-topspiel-fuechse-berlin-protestieren-a-a8649f8b-11bf-416e-8636-90d1d3bc3efd#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/deepfake-pornos-das-perfide-geschaeft-mit-gefaelschten-sexvideos](https://www.spiegel.de/netzwelt/web/deepfake-pornos-das-perfide-geschaeft-mit-gefaelschten-sexvideos-a-ddf22e79-c2ef-47d0-8b5d-6934e4397b17#ref=rss)
-### erreichbar
-
-* [https://www.spiegel.de/auto/sylt-wegen-bauarbeiten-an-der-schieneninfrastruktur-drei-tage-nicht-mit-dem-autozug-erreichbar](https://www.spiegel.de/auto/sylt-wegen-bauarbeiten-an-der-schieneninfrastruktur-drei-tage-nicht-mit-dem-autozug-erreichbar-a-767862a5-b2f6-45a6-a855-2a170caf25ef#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bmw-chef-haelt-neuwagen-klimaziel-2025-fuer-erreichbar](https://www.spiegel.de/wirtschaft/bmw-chef-haelt-neuwagen-klimaziel-2025-fuer-erreichbar-a-e94ffa2e-2714-41a6-a97b-37f7369a1c81#ref=rss)
-### weniger
-
-* [https://www.spiegel.de/auto/sylt-wegen-bauarbeiten-an-der-schieneninfrastruktur-drei-tage-nicht-mit-dem-autozug-erreichbar](https://www.spiegel.de/auto/sylt-wegen-bauarbeiten-an-der-schieneninfrastruktur-drei-tage-nicht-mit-dem-autozug-erreichbar-a-767862a5-b2f6-45a6-a855-2a170caf25ef#ref=rss)
-* [https://www.spiegel.de/wirtschaft/laifen-swift-versus-dyson-supersonic-was-ist-dran-am-hype-um-den-foehn-von-laifen](https://www.spiegel.de/wirtschaft/laifen-swift-versus-dyson-supersonic-was-ist-dran-am-hype-um-den-foehn-von-laifen-a-8850e637-33ff-4002-9399-ad138d18f88e#ref=rss)
-### 2024
-
-* [https://www.spiegel.de/wissenschaft/natur/copernicus-2024-duerfte-das-heisseste-jahr-seit-beginn-der-aufzeichnungen-werden](https://www.spiegel.de/wissenschaft/natur/copernicus-2024-duerfte-das-heisseste-jahr-seit-beginn-der-aufzeichnungen-werden-a-ff4f7ce6-5f08-4b9b-b327-cdb5698f315d#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/wissenschaft/natur/copernicus-2024-duerfte-das-heisseste-jahr-seit-beginn-der-aufzeichnungen-werden](https://www.spiegel.de/wissenschaft/natur/copernicus-2024-duerfte-das-heisseste-jahr-seit-beginn-der-aufzeichnungen-werden-a-ff4f7ce6-5f08-4b9b-b327-cdb5698f315d#ref=rss)
-* [https://www.spiegel.de/sport/baseball-superstar-juan-soto-unterschreibt-offenbar-rekordvertrag](https://www.spiegel.de/sport/baseball-superstar-juan-soto-unterschreibt-offenbar-rekordvertrag-a-6a5dda10-5b9d-4fda-890d-14b21030ff39#ref=rss)
-### 15
-
-* [https://www.spiegel.de/wissenschaft/natur/copernicus-2024-duerfte-das-heisseste-jahr-seit-beginn-der-aufzeichnungen-werden](https://www.spiegel.de/wissenschaft/natur/copernicus-2024-duerfte-das-heisseste-jahr-seit-beginn-der-aufzeichnungen-werden-a-ff4f7ce6-5f08-4b9b-b327-cdb5698f315d#ref=rss)
-* [https://www.spiegel.de/sport/baseball-superstar-juan-soto-unterschreibt-offenbar-rekordvertrag](https://www.spiegel.de/sport/baseball-superstar-juan-soto-unterschreibt-offenbar-rekordvertrag-a-6a5dda10-5b9d-4fda-890d-14b21030ff39#ref=rss)
-### meißen
-
-* [https://www.spiegel.de/panorama/justiz/meissen-drei-kinder-und-ein-mann-in-mehrfamilienhaus-leblos-aufgefunden](https://www.spiegel.de/panorama/justiz/meissen-drei-kinder-und-ein-mann-in-mehrfamilienhaus-leblos-aufgefunden-a-fcbdb7b3-8e9d-4dd0-9c48-d75b06736bc3#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/panorama/justiz/meissen-drei-kinder-und-ein-mann-in-mehrfamilienhaus-leblos-aufgefunden](https://www.spiegel.de/panorama/justiz/meissen-drei-kinder-und-ein-mann-in-mehrfamilienhaus-leblos-aufgefunden-a-fcbdb7b3-8e9d-4dd0-9c48-d75b06736bc3#ref=rss)
-### leblos
-
-* [https://www.spiegel.de/panorama/justiz/meissen-drei-kinder-und-ein-mann-in-mehrfamilienhaus-leblos-aufgefunden](https://www.spiegel.de/panorama/justiz/meissen-drei-kinder-und-ein-mann-in-mehrfamilienhaus-leblos-aufgefunden-a-fcbdb7b3-8e9d-4dd0-9c48-d75b06736bc3#ref=rss)
-### geflüchtete
-
-* [https://www.spiegel.de/politik/deutschland/syrien-gefluechtete-in-deutschland-debatte-ueber-heimkehr-nach-sturz-von-assad](https://www.spiegel.de/politik/deutschland/syrien-gefluechtete-in-deutschland-debatte-ueber-heimkehr-nach-sturz-von-assad-a-dd1c3ad7-eb07-4405-a90b-12b920f83564#ref=rss)
+* [https://www.spiegel.de/kultur/social-media-und-esoterik-dubiose-heilsversprechen-im-internet-nehmen-ueberhand-kolumne](https://www.spiegel.de/kultur/social-media-und-esoterik-dubiose-heilsversprechen-im-internet-nehmen-ueberhand-kolumne-a-6f72bc8a-13b3-45a1-997c-cbc351cc2fd5#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-amateurvideos-zeigen-bewegende-momente-nach-befreiung-aus-foltergefaengnissen](https://www.spiegel.de/ausland/syrien-amateurvideos-zeigen-bewegende-momente-nach-befreiung-aus-foltergefaengnissen-a-7ca19a38-b1b6-470b-93d4-20ac295bf95c#ref=rss)
+* [https://www.spiegel.de/psychologie/einsam-an-weihnachten-wie-man-trotzdem-gut-durch-die-feiertage-kommt](https://www.spiegel.de/psychologie/einsam-an-weihnachten-wie-man-trotzdem-gut-durch-die-feiertage-kommt-a-23e28698-15ea-472a-a5a1-3e1a10b052e4#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-spiegel-reporter-berichtet-aus-dem-land-nach-fall-des-assad-regimes](https://www.spiegel.de/ausland/syrien-spiegel-reporter-berichtet-aus-dem-land-nach-fall-des-assad-regimes-a-8278ce92-2a45-47b1-8c81-8003c738b05a#ref=rss)
+* [https://www.spiegel.de/panorama/italien-mindestens-zwei-tote-bei-brand-in-treibstofflager-nahe-florenz](https://www.spiegel.de/panorama/italien-mindestens-zwei-tote-bei-brand-in-treibstofflager-nahe-florenz-a-cd180e9e-6897-4490-b70e-ff67aaa6da08#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/syrien-gefluechtete-in-deutschland-debatte-ueber-heimkehr-nach-sturz-von-assad](https://www.spiegel.de/politik/deutschland/syrien-gefluechtete-in-deutschland-debatte-ueber-heimkehr-nach-sturz-von-assad-a-dd1c3ad7-eb07-4405-a90b-12b920f83564#ref=rss)
-### debatte
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-machtwechsel-in-syrien-fluechtlinge-ukraine-krieg-friedrich-merz](https://www.spiegel.de/politik/deutschland/news-des-tages-machtwechsel-in-syrien-fluechtlinge-ukraine-krieg-friedrich-merz-a-36013ab2-71f4-4ea0-acb2-c8247ec285d9#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-der-westen-hat-die-chance-verpasst-wie-kann-er-jetzt-helfen-das-land-zu-stabilisieren](https://www.spiegel.de/ausland/syrien-der-westen-hat-die-chance-verpasst-wie-kann-er-jetzt-helfen-das-land-zu-stabilisieren-a-6daee669-bca9-4bb2-88f3-a6eca34b6e78#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-bundesregierung-will-haiat-tahrir-al-scham-an-ihren-taten-messen](https://www.spiegel.de/ausland/syrien-bundesregierung-will-haiat-tahrir-al-scham-an-ihren-taten-messen-a-03fdf61a-57fc-413c-bbd1-eb8941006b85#ref=rss)
+* [https://www.spiegel.de/wirtschaft/medizinische-versorgung-in-gefahr-syrische-aerzte-koennten-deutschland-verlassen](https://www.spiegel.de/wirtschaft/medizinische-versorgung-in-gefahr-syrische-aerzte-koennten-deutschland-verlassen-a-64eec80f-d25d-4430-8b9a-6f6c8175503a#ref=rss)
+### baschar
 
-* [https://www.spiegel.de/politik/deutschland/syrien-gefluechtete-in-deutschland-debatte-ueber-heimkehr-nach-sturz-von-assad](https://www.spiegel.de/politik/deutschland/syrien-gefluechtete-in-deutschland-debatte-ueber-heimkehr-nach-sturz-von-assad-a-dd1c3ad7-eb07-4405-a90b-12b920f83564#ref=rss)
-### zwei
+* [https://www.spiegel.de/ausland/syrien-wladimir-putin-laesst-baschar-al-assad-fallen-der-preis-fuer-den-ukraine-krieg](https://www.spiegel.de/ausland/syrien-wladimir-putin-laesst-baschar-al-assad-fallen-der-preis-fuer-den-ukraine-krieg-a-d6dc24dd-24cb-40ed-ab69-636d0c8ec0ac#ref=rss)
+* [https://www.spiegel.de/auto/syrien-autosammlung-von-baschar-al-assad-mit-ferrari-lamborghini-aston-martin](https://www.spiegel.de/auto/syrien-autosammlung-von-baschar-al-assad-mit-ferrari-lamborghini-aston-martin-a-574242f5-6988-4682-949d-570c5a6e954b#ref=rss)
+* [https://www.spiegel.de/ausland/israels-angriffe-in-syrien-aggressive-vorwaertsverteidigung](https://www.spiegel.de/ausland/israels-angriffe-in-syrien-aggressive-vorwaertsverteidigung-a-7a902b0c-fd62-4eb8-80db-7fbe523816ee#ref=rss)
+### alassad
 
-* [https://www.spiegel.de/panorama/leute/tom-parker-bowles-camilla-und-charles-haben-zwei-hoellenjahre-hinter-sich](https://www.spiegel.de/panorama/leute/tom-parker-bowles-camilla-und-charles-haben-zwei-hoellenjahre-hinter-sich-a-f0e6577c-067a-498c-a67c-98f57eef9112#ref=rss)
-* [https://www.spiegel.de/politik/dienstreisen-streit-bei-gruenen-in-hessen-parteivorsitzende-anders-tritt-zurueck](https://www.spiegel.de/politik/dienstreisen-streit-bei-gruenen-in-hessen-parteivorsitzende-anders-tritt-zurueck-a-a5371bbf-022c-49e2-a602-36cfa5d75d93#ref=rss)
-### stecken
-
-* [https://www.spiegel.de/panorama/leute/tom-parker-bowles-camilla-und-charles-haben-zwei-hoellenjahre-hinter-sich](https://www.spiegel.de/panorama/leute/tom-parker-bowles-camilla-und-charles-haben-zwei-hoellenjahre-hinter-sich-a-f0e6577c-067a-498c-a67c-98f57eef9112#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/deepfake-pornos-das-perfide-geschaeft-mit-gefaelschten-sexvideos](https://www.spiegel.de/netzwelt/web/deepfake-pornos-das-perfide-geschaeft-mit-gefaelschten-sexvideos-a-ddf22e79-c2ef-47d0-8b5d-6934e4397b17#ref=rss)
-### raygun
-
-* [https://www.spiegel.de/panorama/leute/breakdancing-raygun-geht-juristisch-gegen-komikerin-wegen-musical-parodie-vor](https://www.spiegel.de/panorama/leute/breakdancing-raygun-geht-juristisch-gegen-komikerin-wegen-musical-parodie-vor-a-5f16bde1-408b-4043-ae92-2e8fc641068f#ref=rss)
-### grünen
-
-* [https://www.spiegel.de/politik/dienstreisen-streit-bei-gruenen-in-hessen-parteivorsitzende-anders-tritt-zurueck](https://www.spiegel.de/politik/dienstreisen-streit-bei-gruenen-in-hessen-parteivorsitzende-anders-tritt-zurueck-a-a5371bbf-022c-49e2-a602-36cfa5d75d93#ref=rss)
-### kathrin
-
-* [https://www.spiegel.de/politik/dienstreisen-streit-bei-gruenen-in-hessen-parteivorsitzende-anders-tritt-zurueck](https://www.spiegel.de/politik/dienstreisen-streit-bei-gruenen-in-hessen-parteivorsitzende-anders-tritt-zurueck-a-a5371bbf-022c-49e2-a602-36cfa5d75d93#ref=rss)
-### anders
-
-* [https://www.spiegel.de/politik/dienstreisen-streit-bei-gruenen-in-hessen-parteivorsitzende-anders-tritt-zurueck](https://www.spiegel.de/politik/dienstreisen-streit-bei-gruenen-in-hessen-parteivorsitzende-anders-tritt-zurueck-a-a5371bbf-022c-49e2-a602-36cfa5d75d93#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/politik/dienstreisen-streit-bei-gruenen-in-hessen-parteivorsitzende-anders-tritt-zurueck](https://www.spiegel.de/politik/dienstreisen-streit-bei-gruenen-in-hessen-parteivorsitzende-anders-tritt-zurueck-a-a5371bbf-022c-49e2-a602-36cfa5d75d93#ref=rss)
-* [https://www.spiegel.de/panorama/leute/jay-z-musikproduzent-soll-13-jaehrige-vergewaltigt-haben-gemeinsam-mit-sean-diddy-combs](https://www.spiegel.de/panorama/leute/jay-z-musikproduzent-soll-13-jaehrige-vergewaltigt-haben-gemeinsam-mit-sean-diddy-combs-a-deecee6b-56c2-45ac-b3c4-7e7328e04c70#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/politik/dienstreisen-streit-bei-gruenen-in-hessen-parteivorsitzende-anders-tritt-zurueck](https://www.spiegel.de/politik/dienstreisen-streit-bei-gruenen-in-hessen-parteivorsitzende-anders-tritt-zurueck-a-a5371bbf-022c-49e2-a602-36cfa5d75d93#ref=rss)
-* [https://www.spiegel.de/stil/vogue-chefin-ueber-wachsjacken-trend-die-barbour-jacke-befriedigt-unsere-sehnsucht-nach-stabilitaet](https://www.spiegel.de/stil/vogue-chefin-ueber-wachsjacken-trend-die-barbour-jacke-befriedigt-unsere-sehnsucht-nach-stabilitaet-a-8b43abbe-aefd-4219-becf-2a53a7d0f521#ref=rss)
-### vorwürfe
-
-* [https://www.spiegel.de/politik/dienstreisen-streit-bei-gruenen-in-hessen-parteivorsitzende-anders-tritt-zurueck](https://www.spiegel.de/politik/dienstreisen-streit-bei-gruenen-in-hessen-parteivorsitzende-anders-tritt-zurueck-a-a5371bbf-022c-49e2-a602-36cfa5d75d93#ref=rss)
-* [https://www.spiegel.de/panorama/leute/jay-z-musikproduzent-soll-13-jaehrige-vergewaltigt-haben-gemeinsam-mit-sean-diddy-combs](https://www.spiegel.de/panorama/leute/jay-z-musikproduzent-soll-13-jaehrige-vergewaltigt-haben-gemeinsam-mit-sean-diddy-combs-a-deecee6b-56c2-45ac-b3c4-7e7328e04c70#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/stil/vogue-chefin-ueber-wachsjacken-trend-die-barbour-jacke-befriedigt-unsere-sehnsucht-nach-stabilitaet](https://www.spiegel.de/stil/vogue-chefin-ueber-wachsjacken-trend-die-barbour-jacke-befriedigt-unsere-sehnsucht-nach-stabilitaet-a-8b43abbe-aefd-4219-becf-2a53a7d0f521#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ifo-umfrage-kleinunternehmer-erwarten-2025-schlechtere-geschaefte](https://www.spiegel.de/wirtschaft/ifo-umfrage-kleinunternehmer-erwarten-2025-schlechtere-geschaefte-a-d422c347-8011-4891-932a-cf0d744737e4#ref=rss)
-### dyson
-
-* [https://www.spiegel.de/wirtschaft/laifen-swift-versus-dyson-supersonic-was-ist-dran-am-hype-um-den-foehn-von-laifen](https://www.spiegel.de/wirtschaft/laifen-swift-versus-dyson-supersonic-was-ist-dran-am-hype-um-den-foehn-von-laifen-a-8850e637-33ff-4002-9399-ad138d18f88e#ref=rss)
-### supersonic
-
-* [https://www.spiegel.de/wirtschaft/laifen-swift-versus-dyson-supersonic-was-ist-dran-am-hype-um-den-foehn-von-laifen](https://www.spiegel.de/wirtschaft/laifen-swift-versus-dyson-supersonic-was-ist-dran-am-hype-um-den-foehn-von-laifen-a-8850e637-33ff-4002-9399-ad138d18f88e#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/donald-trump-trump-plant-begnadigung-der-kapitolstuermer](https://www.spiegel.de/ausland/donald-trump-trump-plant-begnadigung-der-kapitolstuermer-a-c1ed06d8-0a3f-4574-875f-46468bc86743#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/donald-trump-trump-plant-begnadigung-der-kapitolstuermer](https://www.spiegel.de/ausland/donald-trump-trump-plant-begnadigung-der-kapitolstuermer-a-c1ed06d8-0a3f-4574-875f-46468bc86743#ref=rss)
-* [https://www.spiegel.de/sport/baseball-superstar-juan-soto-unterschreibt-offenbar-rekordvertrag](https://www.spiegel.de/sport/baseball-superstar-juan-soto-unterschreibt-offenbar-rekordvertrag-a-6a5dda10-5b9d-4fda-890d-14b21030ff39#ref=rss)
-### dennoch
-
-* [https://www.spiegel.de/ausland/donald-trump-trump-plant-begnadigung-der-kapitolstuermer](https://www.spiegel.de/ausland/donald-trump-trump-plant-begnadigung-der-kapitolstuermer-a-c1ed06d8-0a3f-4574-875f-46468bc86743#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bmw-chef-haelt-neuwagen-klimaziel-2025-fuer-erreichbar](https://www.spiegel.de/wirtschaft/bmw-chef-haelt-neuwagen-klimaziel-2025-fuer-erreichbar-a-e94ffa2e-2714-41a6-a97b-37f7369a1c81#ref=rss)
-### bmwchef
-
-* [https://www.spiegel.de/wirtschaft/bmw-chef-haelt-neuwagen-klimaziel-2025-fuer-erreichbar](https://www.spiegel.de/wirtschaft/bmw-chef-haelt-neuwagen-klimaziel-2025-fuer-erreichbar-a-e94ffa2e-2714-41a6-a97b-37f7369a1c81#ref=rss)
-### juan
-
-* [https://www.spiegel.de/sport/baseball-superstar-juan-soto-unterschreibt-offenbar-rekordvertrag](https://www.spiegel.de/sport/baseball-superstar-juan-soto-unterschreibt-offenbar-rekordvertrag-a-6a5dda10-5b9d-4fda-890d-14b21030ff39#ref=rss)
-### soto
-
-* [https://www.spiegel.de/sport/baseball-superstar-juan-soto-unterschreibt-offenbar-rekordvertrag](https://www.spiegel.de/sport/baseball-superstar-juan-soto-unterschreibt-offenbar-rekordvertrag-a-6a5dda10-5b9d-4fda-890d-14b21030ff39#ref=rss)
-### cdukanzlerkandidat
-
-* [https://www.spiegel.de/ausland/ukraine-besuch-cdu-kanzlerkandidat-friedrich-merz-reist-nach-kyjiw](https://www.spiegel.de/ausland/ukraine-besuch-cdu-kanzlerkandidat-friedrich-merz-reist-nach-kyjiw-a-9e5b7421-6ea3-48fb-9d98-26091cd2e47b#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/ausland/ukraine-besuch-cdu-kanzlerkandidat-friedrich-merz-reist-nach-kyjiw](https://www.spiegel.de/ausland/ukraine-besuch-cdu-kanzlerkandidat-friedrich-merz-reist-nach-kyjiw-a-9e5b7421-6ea3-48fb-9d98-26091cd2e47b#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-wladimir-putin-laesst-baschar-al-assad-fallen-der-preis-fuer-den-ukraine-krieg](https://www.spiegel.de/ausland/syrien-wladimir-putin-laesst-baschar-al-assad-fallen-der-preis-fuer-den-ukraine-krieg-a-d6dc24dd-24cb-40ed-ab69-636d0c8ec0ac#ref=rss)
+* [https://www.spiegel.de/auto/syrien-autosammlung-von-baschar-al-assad-mit-ferrari-lamborghini-aston-martin](https://www.spiegel.de/auto/syrien-autosammlung-von-baschar-al-assad-mit-ferrari-lamborghini-aston-martin-a-574242f5-6988-4682-949d-570c5a6e954b#ref=rss)
+* [https://www.spiegel.de/ausland/israels-angriffe-in-syrien-aggressive-vorwaertsverteidigung](https://www.spiegel.de/ausland/israels-angriffe-in-syrien-aggressive-vorwaertsverteidigung-a-7a902b0c-fd62-4eb8-80db-7fbe523816ee#ref=rss)
 ### merz
 
-* [https://www.spiegel.de/ausland/ukraine-besuch-cdu-kanzlerkandidat-friedrich-merz-reist-nach-kyjiw](https://www.spiegel.de/ausland/ukraine-besuch-cdu-kanzlerkandidat-friedrich-merz-reist-nach-kyjiw-a-9e5b7421-6ea3-48fb-9d98-26091cd2e47b#ref=rss)
-### kleinunternehmer
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-machtwechsel-in-syrien-fluechtlinge-ukraine-krieg-friedrich-merz](https://www.spiegel.de/politik/deutschland/news-des-tages-machtwechsel-in-syrien-fluechtlinge-ukraine-krieg-friedrich-merz-a-36013ab2-71f4-4ea0-acb2-c8247ec285d9#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-zusagen-von-friedrich-merz-russland-beschleunigt-vormarsch](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-zusagen-von-friedrich-merz-russland-beschleunigt-vormarsch-a-3fe82416-f37d-4c91-8316-fefb420368b8#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/wirtschaft/ifo-umfrage-kleinunternehmer-erwarten-2025-schlechtere-geschaefte](https://www.spiegel.de/wirtschaft/ifo-umfrage-kleinunternehmer-erwarten-2025-schlechtere-geschaefte-a-d422c347-8011-4891-932a-cf0d744737e4#ref=rss)
-### franz
+* [https://www.spiegel.de/ausland/syrien-wladimir-putin-laesst-baschar-al-assad-fallen-der-preis-fuer-den-ukraine-krieg](https://www.spiegel.de/ausland/syrien-wladimir-putin-laesst-baschar-al-assad-fallen-der-preis-fuer-den-ukraine-krieg-a-d6dc24dd-24cb-40ed-ab69-636d0c8ec0ac#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-zusagen-von-friedrich-merz-russland-beschleunigt-vormarsch](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-zusagen-von-friedrich-merz-russland-beschleunigt-vormarsch-a-3fe82416-f37d-4c91-8316-fefb420368b8#ref=rss)
+### coote
 
-* [https://www.spiegel.de/sport/basketball/nba-ohne-verletzten-franz-wagner-orlando-setzt-heim-siegesserie-fort](https://www.spiegel.de/sport/basketball/nba-ohne-verletzten-franz-wagner-orlando-setzt-heim-siegesserie-fort-a-efc99ceb-7a8b-46a1-833b-cf7cd278216a#ref=rss)
-### wagner
+* [https://www.spiegel.de/sport/fussball/premier-league-juergen-klopp-beleidigt-schiedsrichter-david-coote-gekuendigt](https://www.spiegel.de/sport/fussball/premier-league-juergen-klopp-beleidigt-schiedsrichter-david-coote-gekuendigt-a-f278f1f7-6a67-4eff-b205-2d0f394ccd10#ref=rss)
+### ganz
 
-* [https://www.spiegel.de/sport/basketball/nba-ohne-verletzten-franz-wagner-orlando-setzt-heim-siegesserie-fort](https://www.spiegel.de/sport/basketball/nba-ohne-verletzten-franz-wagner-orlando-setzt-heim-siegesserie-fort-a-efc99ceb-7a8b-46a1-833b-cf7cd278216a#ref=rss)
-### orlando
+* [https://www.spiegel.de/politik/deutschland/thueringen-umweltminister-bernhard-stengele-stellt-traurigen-weihnachtsbaum-auf](https://www.spiegel.de/politik/deutschland/thueringen-umweltminister-bernhard-stengele-stellt-traurigen-weihnachtsbaum-auf-a-ff5214e3-b29c-4511-8140-f0c3c5df2baf#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-krieg-begeht-israel-im-norden-eine-ethnische-saeuberung](https://www.spiegel.de/ausland/gaza-krieg-begeht-israel-im-norden-eine-ethnische-saeuberung-a-93d042be-1b0d-4a29-81b8-22da74499f78#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/sport/basketball/nba-ohne-verletzten-franz-wagner-orlando-setzt-heim-siegesserie-fort](https://www.spiegel.de/sport/basketball/nba-ohne-verletzten-franz-wagner-orlando-setzt-heim-siegesserie-fort-a-efc99ceb-7a8b-46a1-833b-cf7cd278216a#ref=rss)
-### jayz
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-machtwechsel-in-syrien-fluechtlinge-ukraine-krieg-friedrich-merz](https://www.spiegel.de/politik/deutschland/news-des-tages-machtwechsel-in-syrien-fluechtlinge-ukraine-krieg-friedrich-merz-a-36013ab2-71f4-4ea0-acb2-c8247ec285d9#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-zusagen-von-friedrich-merz-russland-beschleunigt-vormarsch](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-will-zusagen-von-friedrich-merz-russland-beschleunigt-vormarsch-a-3fe82416-f37d-4c91-8316-fefb420368b8#ref=rss)
+### israel
 
-* [https://www.spiegel.de/panorama/leute/jay-z-musikproduzent-soll-13-jaehrige-vergewaltigt-haben-gemeinsam-mit-sean-diddy-combs](https://www.spiegel.de/panorama/leute/jay-z-musikproduzent-soll-13-jaehrige-vergewaltigt-haben-gemeinsam-mit-sean-diddy-combs-a-deecee6b-56c2-45ac-b3c4-7e7328e04c70#ref=rss)
-### sean
+* [https://www.spiegel.de/ausland/gaza-krieg-begeht-israel-im-norden-eine-ethnische-saeuberung](https://www.spiegel.de/ausland/gaza-krieg-begeht-israel-im-norden-eine-ethnische-saeuberung-a-93d042be-1b0d-4a29-81b8-22da74499f78#ref=rss)
+* [https://www.spiegel.de/ausland/israels-angriffe-in-syrien-aggressive-vorwaertsverteidigung](https://www.spiegel.de/ausland/israels-angriffe-in-syrien-aggressive-vorwaertsverteidigung-a-7a902b0c-fd62-4eb8-80db-7fbe523816ee#ref=rss)
+### land
 
-* [https://www.spiegel.de/panorama/leute/jay-z-musikproduzent-soll-13-jaehrige-vergewaltigt-haben-gemeinsam-mit-sean-diddy-combs](https://www.spiegel.de/panorama/leute/jay-z-musikproduzent-soll-13-jaehrige-vergewaltigt-haben-gemeinsam-mit-sean-diddy-combs-a-deecee6b-56c2-45ac-b3c4-7e7328e04c70#ref=rss)
-### combs
+* [https://www.spiegel.de/ausland/gaza-krieg-begeht-israel-im-norden-eine-ethnische-saeuberung](https://www.spiegel.de/ausland/gaza-krieg-begeht-israel-im-norden-eine-ethnische-saeuberung-a-93d042be-1b0d-4a29-81b8-22da74499f78#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-der-westen-hat-die-chance-verpasst-wie-kann-er-jetzt-helfen-das-land-zu-stabilisieren](https://www.spiegel.de/ausland/syrien-der-westen-hat-die-chance-verpasst-wie-kann-er-jetzt-helfen-das-land-zu-stabilisieren-a-6daee669-bca9-4bb2-88f3-a6eca34b6e78#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-spiegel-reporter-berichtet-aus-dem-land-nach-fall-des-assad-regimes](https://www.spiegel.de/ausland/syrien-spiegel-reporter-berichtet-aus-dem-land-nach-fall-des-assad-regimes-a-8278ce92-2a45-47b1-8c81-8003c738b05a#ref=rss)
+### krone
 
-* [https://www.spiegel.de/panorama/leute/jay-z-musikproduzent-soll-13-jaehrige-vergewaltigt-haben-gemeinsam-mit-sean-diddy-combs](https://www.spiegel.de/panorama/leute/jay-z-musikproduzent-soll-13-jaehrige-vergewaltigt-haben-gemeinsam-mit-sean-diddy-combs-a-deecee6b-56c2-45ac-b3c4-7e7328e04c70#ref=rss)
+* [https://www.spiegel.de/panorama/leute/koenig-charles-iii-hatte-angst-dass-die-krone-wackelt](https://www.spiegel.de/panorama/leute/koenig-charles-iii-hatte-angst-dass-die-krone-wackelt-a-c14c74d3-5560-462b-956c-59ac5b9a1ec6#ref=rss)
+### social
+
+* [https://www.spiegel.de/kultur/social-media-und-esoterik-dubiose-heilsversprechen-im-internet-nehmen-ueberhand-kolumne](https://www.spiegel.de/kultur/social-media-und-esoterik-dubiose-heilsversprechen-im-internet-nehmen-ueberhand-kolumne-a-6f72bc8a-13b3-45a1-997c-cbc351cc2fd5#ref=rss)
+### media
+
+* [https://www.spiegel.de/kultur/social-media-und-esoterik-dubiose-heilsversprechen-im-internet-nehmen-ueberhand-kolumne](https://www.spiegel.de/kultur/social-media-und-esoterik-dubiose-heilsversprechen-im-internet-nehmen-ueberhand-kolumne-a-6f72bc8a-13b3-45a1-997c-cbc351cc2fd5#ref=rss)
+### dubiose
+
+* [https://www.spiegel.de/kultur/social-media-und-esoterik-dubiose-heilsversprechen-im-internet-nehmen-ueberhand-kolumne](https://www.spiegel.de/kultur/social-media-und-esoterik-dubiose-heilsversprechen-im-internet-nehmen-ueberhand-kolumne-a-6f72bc8a-13b3-45a1-997c-cbc351cc2fd5#ref=rss)
+### heilsversprechen
+
+* [https://www.spiegel.de/kultur/social-media-und-esoterik-dubiose-heilsversprechen-im-internet-nehmen-ueberhand-kolumne](https://www.spiegel.de/kultur/social-media-und-esoterik-dubiose-heilsversprechen-im-internet-nehmen-ueberhand-kolumne-a-6f72bc8a-13b3-45a1-997c-cbc351cc2fd5#ref=rss)
+### wladimir
+
+* [https://www.spiegel.de/ausland/syrien-wladimir-putin-laesst-baschar-al-assad-fallen-der-preis-fuer-den-ukraine-krieg](https://www.spiegel.de/ausland/syrien-wladimir-putin-laesst-baschar-al-assad-fallen-der-preis-fuer-den-ukraine-krieg-a-d6dc24dd-24cb-40ed-ab69-636d0c8ec0ac#ref=rss)
+### putin
+
+* [https://www.spiegel.de/ausland/syrien-wladimir-putin-laesst-baschar-al-assad-fallen-der-preis-fuer-den-ukraine-krieg](https://www.spiegel.de/ausland/syrien-wladimir-putin-laesst-baschar-al-assad-fallen-der-preis-fuer-den-ukraine-krieg-a-d6dc24dd-24cb-40ed-ab69-636d0c8ec0ac#ref=rss)
+### fallen
+
+* [https://www.spiegel.de/ausland/syrien-wladimir-putin-laesst-baschar-al-assad-fallen-der-preis-fuer-den-ukraine-krieg](https://www.spiegel.de/ausland/syrien-wladimir-putin-laesst-baschar-al-assad-fallen-der-preis-fuer-den-ukraine-krieg-a-d6dc24dd-24cb-40ed-ab69-636d0c8ec0ac#ref=rss)
+### preis
+
+* [https://www.spiegel.de/ausland/syrien-wladimir-putin-laesst-baschar-al-assad-fallen-der-preis-fuer-den-ukraine-krieg](https://www.spiegel.de/ausland/syrien-wladimir-putin-laesst-baschar-al-assad-fallen-der-preis-fuer-den-ukraine-krieg-a-d6dc24dd-24cb-40ed-ab69-636d0c8ec0ac#ref=rss)
+* [https://www.spiegel.de/kultur/kino/golden-globes-2025-zehn-nominierungen-fuer-emilia-perez](https://www.spiegel.de/kultur/kino/golden-globes-2025-zehn-nominierungen-fuer-emilia-perez-a-1a3b1ea1-b9b9-4786-8226-4df170d21b67#ref=rss)
+### ukrainekrieg
+
+* [https://www.spiegel.de/ausland/syrien-wladimir-putin-laesst-baschar-al-assad-fallen-der-preis-fuer-den-ukraine-krieg](https://www.spiegel.de/ausland/syrien-wladimir-putin-laesst-baschar-al-assad-fallen-der-preis-fuer-den-ukraine-krieg-a-d6dc24dd-24cb-40ed-ab69-636d0c8ec0ac#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-machtwechsel-in-syrien-fluechtlinge-ukraine-krieg-friedrich-merz](https://www.spiegel.de/politik/deutschland/news-des-tages-machtwechsel-in-syrien-fluechtlinge-ukraine-krieg-friedrich-merz-a-36013ab2-71f4-4ea0-acb2-c8247ec285d9#ref=rss)
+### sturz
+
+* [https://www.spiegel.de/ausland/syrien-wladimir-putin-laesst-baschar-al-assad-fallen-der-preis-fuer-den-ukraine-krieg](https://www.spiegel.de/ausland/syrien-wladimir-putin-laesst-baschar-al-assad-fallen-der-preis-fuer-den-ukraine-krieg-a-d6dc24dd-24cb-40ed-ab69-636d0c8ec0ac#ref=rss)
+* [https://www.spiegel.de/ausland/israels-angriffe-in-syrien-aggressive-vorwaertsverteidigung](https://www.spiegel.de/ausland/israels-angriffe-in-syrien-aggressive-vorwaertsverteidigung-a-7a902b0c-fd62-4eb8-80db-7fbe523816ee#ref=rss)
+### syrischen
+
+* [https://www.spiegel.de/ausland/syrien-wladimir-putin-laesst-baschar-al-assad-fallen-der-preis-fuer-den-ukraine-krieg](https://www.spiegel.de/ausland/syrien-wladimir-putin-laesst-baschar-al-assad-fallen-der-preis-fuer-den-ukraine-krieg-a-d6dc24dd-24cb-40ed-ab69-636d0c8ec0ac#ref=rss)
+* [https://www.spiegel.de/auto/syrien-autosammlung-von-baschar-al-assad-mit-ferrari-lamborghini-aston-martin](https://www.spiegel.de/auto/syrien-autosammlung-von-baschar-al-assad-mit-ferrari-lamborghini-aston-martin-a-574242f5-6988-4682-949d-570c5a6e954b#ref=rss)
+### folgen
+
+* [https://www.spiegel.de/ausland/syrien-wladimir-putin-laesst-baschar-al-assad-fallen-der-preis-fuer-den-ukraine-krieg](https://www.spiegel.de/ausland/syrien-wladimir-putin-laesst-baschar-al-assad-fallen-der-preis-fuer-den-ukraine-krieg-a-d6dc24dd-24cb-40ed-ab69-636d0c8ec0ac#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/lars-winkelsdorf-wie-die-justiz-einem-journalisten-zusetzte](https://www.spiegel.de/panorama/justiz/lars-winkelsdorf-wie-die-justiz-einem-journalisten-zusetzte-a-e8c99d71-9b3f-4bb3-be24-c1d22c902382#ref=rss)
+### jürgen
+
+* [https://www.spiegel.de/sport/fussball/premier-league-juergen-klopp-beleidigt-schiedsrichter-david-coote-gekuendigt](https://www.spiegel.de/sport/fussball/premier-league-juergen-klopp-beleidigt-schiedsrichter-david-coote-gekuendigt-a-f278f1f7-6a67-4eff-b205-2d0f394ccd10#ref=rss)
+### klopp
+
+* [https://www.spiegel.de/sport/fussball/premier-league-juergen-klopp-beleidigt-schiedsrichter-david-coote-gekuendigt](https://www.spiegel.de/sport/fussball/premier-league-juergen-klopp-beleidigt-schiedsrichter-david-coote-gekuendigt-a-f278f1f7-6a67-4eff-b205-2d0f394ccd10#ref=rss)
+### david
+
+* [https://www.spiegel.de/sport/fussball/premier-league-juergen-klopp-beleidigt-schiedsrichter-david-coote-gekuendigt](https://www.spiegel.de/sport/fussball/premier-league-juergen-klopp-beleidigt-schiedsrichter-david-coote-gekuendigt-a-f278f1f7-6a67-4eff-b205-2d0f394ccd10#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/donald-trump-schwiegertochter-lara-gibt-co-vorsitz-des-republican-national-committee-ab](https://www.spiegel.de/ausland/donald-trump-schwiegertochter-lara-gibt-co-vorsitz-des-republican-national-committee-ab-a-bcb6afd6-854b-45a4-88b1-216ac8afbbe2#ref=rss)
+### schwiegertochter
+
+* [https://www.spiegel.de/ausland/donald-trump-schwiegertochter-lara-gibt-co-vorsitz-des-republican-national-committee-ab](https://www.spiegel.de/ausland/donald-trump-schwiegertochter-lara-gibt-co-vorsitz-des-republican-national-committee-ab-a-bcb6afd6-854b-45a4-88b1-216ac8afbbe2#ref=rss)
+### womöglich
+
+* [https://www.spiegel.de/ausland/donald-trump-schwiegertochter-lara-gibt-co-vorsitz-des-republican-national-committee-ab](https://www.spiegel.de/ausland/donald-trump-schwiegertochter-lara-gibt-co-vorsitz-des-republican-national-committee-ab-a-bcb6afd6-854b-45a4-88b1-216ac8afbbe2#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/digitalpakt-2-0-zwischen-bund-und-laendern-zeichnet-sich-kompromiss-ab](https://www.spiegel.de/panorama/bildung/digitalpakt-2-0-zwischen-bund-und-laendern-zeichnet-sich-kompromiss-ab-a-f2d07429-26b1-4eaa-83ae-ded568546c04#ref=rss)
+### marius
+
+* [https://www.spiegel.de/panorama/leute/norwegen-mette-marit-sohn-marius-borg-hoiby-laut-anwalt-in-behandlung](https://www.spiegel.de/panorama/leute/norwegen-mette-marit-sohn-marius-borg-hoiby-laut-anwalt-in-behandlung-a-a491655d-dd33-48bb-9644-51d83d5a864f#ref=rss)
+### borg
+
+* [https://www.spiegel.de/panorama/leute/norwegen-mette-marit-sohn-marius-borg-hoiby-laut-anwalt-in-behandlung](https://www.spiegel.de/panorama/leute/norwegen-mette-marit-sohn-marius-borg-hoiby-laut-anwalt-in-behandlung-a-a491655d-dd33-48bb-9644-51d83d5a864f#ref=rss)
+### høiby
+
+* [https://www.spiegel.de/panorama/leute/norwegen-mette-marit-sohn-marius-borg-hoiby-laut-anwalt-in-behandlung](https://www.spiegel.de/panorama/leute/norwegen-mette-marit-sohn-marius-borg-hoiby-laut-anwalt-in-behandlung-a-a491655d-dd33-48bb-9644-51d83d5a864f#ref=rss)
+### anwalt
+
+* [https://www.spiegel.de/panorama/leute/norwegen-mette-marit-sohn-marius-borg-hoiby-laut-anwalt-in-behandlung](https://www.spiegel.de/panorama/leute/norwegen-mette-marit-sohn-marius-borg-hoiby-laut-anwalt-in-behandlung-a-a491655d-dd33-48bb-9644-51d83d5a864f#ref=rss)
+### minister
+
+* [https://www.spiegel.de/politik/deutschland/thueringen-umweltminister-bernhard-stengele-stellt-traurigen-weihnachtsbaum-auf](https://www.spiegel.de/politik/deutschland/thueringen-umweltminister-bernhard-stengele-stellt-traurigen-weihnachtsbaum-auf-a-ff5214e3-b29c-4511-8140-f0c3c5df2baf#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-krieg-begeht-israel-im-norden-eine-ethnische-saeuberung](https://www.spiegel.de/ausland/gaza-krieg-begeht-israel-im-norden-eine-ethnische-saeuberung-a-93d042be-1b0d-4a29-81b8-22da74499f78#ref=rss)
+### gar
+
+* [https://www.spiegel.de/politik/deutschland/thueringen-umweltminister-bernhard-stengele-stellt-traurigen-weihnachtsbaum-auf](https://www.spiegel.de/politik/deutschland/thueringen-umweltminister-bernhard-stengele-stellt-traurigen-weihnachtsbaum-auf-a-ff5214e3-b29c-4511-8140-f0c3c5df2baf#ref=rss)
+* [https://www.spiegel.de/panorama/leute/koenig-charles-iii-hatte-angst-dass-die-krone-wackelt](https://www.spiegel.de/panorama/leute/koenig-charles-iii-hatte-angst-dass-die-krone-wackelt-a-c14c74d3-5560-462b-956c-59ac5b9a1ec6#ref=rss)
+### tiktok
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/usa-tiktok-beantragt-aufschub-fuer-drohendes-verbot](https://www.spiegel.de/netzwelt/netzpolitik/usa-tiktok-beantragt-aufschub-fuer-drohendes-verbot-a-c7a8a03d-d08d-440d-9e44-fe8769d21eb6#ref=rss)
+### lage
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-machtwechsel-in-syrien-fluechtlinge-ukraine-krieg-friedrich-merz](https://www.spiegel.de/politik/deutschland/news-des-tages-machtwechsel-in-syrien-fluechtlinge-ukraine-krieg-friedrich-merz-a-36013ab2-71f4-4ea0-acb2-c8247ec285d9#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-spiegel-reporter-berichtet-aus-dem-land-nach-fall-des-assad-regimes](https://www.spiegel.de/ausland/syrien-spiegel-reporter-berichtet-aus-dem-land-nach-fall-des-assad-regimes-a-8278ce92-2a45-47b1-8c81-8003c738b05a#ref=rss)
+### google
+
+* [https://www.spiegel.de/netzwelt/web/google-verkuendet-leistungssprung-bei-quantencomputern](https://www.spiegel.de/netzwelt/web/google-verkuendet-leistungssprung-bei-quantencomputern-a-4342d1ba-04cd-4a05-a242-b4f428f80525#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/netzwelt/web/google-verkuendet-leistungssprung-bei-quantencomputern](https://www.spiegel.de/netzwelt/web/google-verkuendet-leistungssprung-bei-quantencomputern-a-4342d1ba-04cd-4a05-a242-b4f428f80525#ref=rss)
+* [https://www.spiegel.de/panorama/leute/koenig-charles-iii-hatte-angst-dass-die-krone-wackelt](https://www.spiegel.de/panorama/leute/koenig-charles-iii-hatte-angst-dass-die-krone-wackelt-a-c14c74d3-5560-462b-956c-59ac5b9a1ec6#ref=rss)
+### mosel
+
+* [https://www.spiegel.de/panorama/mosel-schiffsverkehr-nach-unfall-an-schleuse-fuer-monate-lahmgelegt](https://www.spiegel.de/panorama/mosel-schiffsverkehr-nach-unfall-an-schleuse-fuer-monate-lahmgelegt-a-cd9073b5-a0d0-47ff-b8ef-8ce80993ccca#ref=rss)
+### begeht
+
+* [https://www.spiegel.de/ausland/gaza-krieg-begeht-israel-im-norden-eine-ethnische-saeuberung](https://www.spiegel.de/ausland/gaza-krieg-begeht-israel-im-norden-eine-ethnische-saeuberung-a-93d042be-1b0d-4a29-81b8-22da74499f78#ref=rss)
+### ethnische
+
+* [https://www.spiegel.de/ausland/gaza-krieg-begeht-israel-im-norden-eine-ethnische-saeuberung](https://www.spiegel.de/ausland/gaza-krieg-begeht-israel-im-norden-eine-ethnische-saeuberung-a-93d042be-1b0d-4a29-81b8-22da74499f78#ref=rss)
+### säuberung
+
+* [https://www.spiegel.de/ausland/gaza-krieg-begeht-israel-im-norden-eine-ethnische-saeuberung](https://www.spiegel.de/ausland/gaza-krieg-begeht-israel-im-norden-eine-ethnische-saeuberung-a-93d042be-1b0d-4a29-81b8-22da74499f78#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/auto/syrien-autosammlung-von-baschar-al-assad-mit-ferrari-lamborghini-aston-martin](https://www.spiegel.de/auto/syrien-autosammlung-von-baschar-al-assad-mit-ferrari-lamborghini-aston-martin-a-574242f5-6988-4682-949d-570c5a6e954b#ref=rss)
+* [https://www.spiegel.de/panorama/leute/koenig-charles-iii-hatte-angst-dass-die-krone-wackelt](https://www.spiegel.de/panorama/leute/koenig-charles-iii-hatte-angst-dass-die-krone-wackelt-a-c14c74d3-5560-462b-956c-59ac5b9a1ec6#ref=rss)
+### auswahl
+
+* [https://www.spiegel.de/auto/syrien-autosammlung-von-baschar-al-assad-mit-ferrari-lamborghini-aston-martin](https://www.spiegel.de/auto/syrien-autosammlung-von-baschar-al-assad-mit-ferrari-lamborghini-aston-martin-a-574242f5-6988-4682-949d-570c5a6e954b#ref=rss)
+* [https://www.spiegel.de/kultur/kino/golden-globes-2025-zehn-nominierungen-fuer-emilia-perez](https://www.spiegel.de/kultur/kino/golden-globes-2025-zehn-nominierungen-fuer-emilia-perez-a-1a3b1ea1-b9b9-4786-8226-4df170d21b67#ref=rss)
+### instagram
+
+* [https://www.spiegel.de/netzwelt/web/instagram-billigshops-aus-china-geben-sich-als-deutsche-fachgeschaefte-aus](https://www.spiegel.de/netzwelt/web/instagram-billigshops-aus-china-geben-sich-als-deutsche-fachgeschaefte-aus-a-77bcb1ad-60a7-42a2-ab2f-8c8038f8c9db#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/netzwelt/web/instagram-billigshops-aus-china-geben-sich-als-deutsche-fachgeschaefte-aus](https://www.spiegel.de/netzwelt/web/instagram-billigshops-aus-china-geben-sich-als-deutsche-fachgeschaefte-aus-a-77bcb1ad-60a7-42a2-ab2f-8c8038f8c9db#ref=rss)
+* [https://www.spiegel.de/kultur/kino/golden-globes-2025-zehn-nominierungen-fuer-emilia-perez](https://www.spiegel.de/kultur/kino/golden-globes-2025-zehn-nominierungen-fuer-emilia-perez-a-1a3b1ea1-b9b9-4786-8226-4df170d21b67#ref=rss)
+### düsseldorf
+
+* [https://www.spiegel.de/netzwelt/web/instagram-billigshops-aus-china-geben-sich-als-deutsche-fachgeschaefte-aus](https://www.spiegel.de/netzwelt/web/instagram-billigshops-aus-china-geben-sich-als-deutsche-fachgeschaefte-aus-a-77bcb1ad-60a7-42a2-ab2f-8c8038f8c9db#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/duesseldorf-gericht-bestaetigt-urteil-gegen-frau-die-sterbenden-fotografierte](https://www.spiegel.de/panorama/justiz/duesseldorf-gericht-bestaetigt-urteil-gegen-frau-die-sterbenden-fotografierte-a-0a7d25a3-6423-476f-a1bd-e140d8c09f38#ref=rss)
+### derzeit
+
+* [https://www.spiegel.de/netzwelt/web/instagram-billigshops-aus-china-geben-sich-als-deutsche-fachgeschaefte-aus](https://www.spiegel.de/netzwelt/web/instagram-billigshops-aus-china-geben-sich-als-deutsche-fachgeschaefte-aus-a-77bcb1ad-60a7-42a2-ab2f-8c8038f8c9db#ref=rss)
+* [https://www.spiegel.de/panorama/italien-mindestens-zwei-tote-bei-brand-in-treibstofflager-nahe-florenz](https://www.spiegel.de/panorama/italien-mindestens-zwei-tote-bei-brand-in-treibstofflager-nahe-florenz-a-cd180e9e-6897-4490-b70e-ff67aaa6da08#ref=rss)
+### lars
+
+* [https://www.spiegel.de/panorama/justiz/lars-winkelsdorf-wie-die-justiz-einem-journalisten-zusetzte](https://www.spiegel.de/panorama/justiz/lars-winkelsdorf-wie-die-justiz-einem-journalisten-zusetzte-a-e8c99d71-9b3f-4bb3-be24-c1d22c902382#ref=rss)
+### winkelsdorf
+
+* [https://www.spiegel.de/panorama/justiz/lars-winkelsdorf-wie-die-justiz-einem-journalisten-zusetzte](https://www.spiegel.de/panorama/justiz/lars-winkelsdorf-wie-die-justiz-einem-journalisten-zusetzte-a-e8c99d71-9b3f-4bb3-be24-c1d22c902382#ref=rss)
+### amateurvideos
+
+* [https://www.spiegel.de/ausland/syrien-amateurvideos-zeigen-bewegende-momente-nach-befreiung-aus-foltergefaengnissen](https://www.spiegel.de/ausland/syrien-amateurvideos-zeigen-bewegende-momente-nach-befreiung-aus-foltergefaengnissen-a-7ca19a38-b1b6-470b-93d4-20ac295bf95c#ref=rss)
+### zeigen
+
+* [https://www.spiegel.de/ausland/syrien-amateurvideos-zeigen-bewegende-momente-nach-befreiung-aus-foltergefaengnissen](https://www.spiegel.de/ausland/syrien-amateurvideos-zeigen-bewegende-momente-nach-befreiung-aus-foltergefaengnissen-a-7ca19a38-b1b6-470b-93d4-20ac295bf95c#ref=rss)
+### bewegende
+
+* [https://www.spiegel.de/ausland/syrien-amateurvideos-zeigen-bewegende-momente-nach-befreiung-aus-foltergefaengnissen](https://www.spiegel.de/ausland/syrien-amateurvideos-zeigen-bewegende-momente-nach-befreiung-aus-foltergefaengnissen-a-7ca19a38-b1b6-470b-93d4-20ac295bf95c#ref=rss)
+### momente
+
+* [https://www.spiegel.de/ausland/syrien-amateurvideos-zeigen-bewegende-momente-nach-befreiung-aus-foltergefaengnissen](https://www.spiegel.de/ausland/syrien-amateurvideos-zeigen-bewegende-momente-nach-befreiung-aus-foltergefaengnissen-a-7ca19a38-b1b6-470b-93d4-20ac295bf95c#ref=rss)
+### vorwärtsverteidigung
+
+* [https://www.spiegel.de/ausland/israels-angriffe-in-syrien-aggressive-vorwaertsverteidigung](https://www.spiegel.de/ausland/israels-angriffe-in-syrien-aggressive-vorwaertsverteidigung-a-7a902b0c-fd62-4eb8-80db-7fbe523816ee#ref=rss)
+### golden
+
+* [https://www.spiegel.de/kultur/kino/golden-globes-2025-zehn-nominierungen-fuer-emilia-perez](https://www.spiegel.de/kultur/kino/golden-globes-2025-zehn-nominierungen-fuer-emilia-perez-a-1a3b1ea1-b9b9-4786-8226-4df170d21b67#ref=rss)
+### globes
+
+* [https://www.spiegel.de/kultur/kino/golden-globes-2025-zehn-nominierungen-fuer-emilia-perez](https://www.spiegel.de/kultur/kino/golden-globes-2025-zehn-nominierungen-fuer-emilia-perez-a-1a3b1ea1-b9b9-4786-8226-4df170d21b67#ref=rss)
+### nominierungen
+
+* [https://www.spiegel.de/kultur/kino/golden-globes-2025-zehn-nominierungen-fuer-emilia-perez](https://www.spiegel.de/kultur/kino/golden-globes-2025-zehn-nominierungen-fuer-emilia-perez-a-1a3b1ea1-b9b9-4786-8226-4df170d21b67#ref=rss)
+### urteil
+
+* [https://www.spiegel.de/panorama/justiz/duesseldorf-gericht-bestaetigt-urteil-gegen-frau-die-sterbenden-fotografierte](https://www.spiegel.de/panorama/justiz/duesseldorf-gericht-bestaetigt-urteil-gegen-frau-die-sterbenden-fotografierte-a-0a7d25a3-6423-476f-a1bd-e140d8c09f38#ref=rss)
+### frau
+
+* [https://www.spiegel.de/panorama/justiz/duesseldorf-gericht-bestaetigt-urteil-gegen-frau-die-sterbenden-fotografierte](https://www.spiegel.de/panorama/justiz/duesseldorf-gericht-bestaetigt-urteil-gegen-frau-die-sterbenden-fotografierte-a-0a7d25a3-6423-476f-a1bd-e140d8c09f38#ref=rss)
+### westen
+
+* [https://www.spiegel.de/ausland/syrien-der-westen-hat-die-chance-verpasst-wie-kann-er-jetzt-helfen-das-land-zu-stabilisieren](https://www.spiegel.de/ausland/syrien-der-westen-hat-die-chance-verpasst-wie-kann-er-jetzt-helfen-das-land-zu-stabilisieren-a-6daee669-bca9-4bb2-88f3-a6eca34b6e78#ref=rss)
+### chance
+
+* [https://www.spiegel.de/ausland/syrien-der-westen-hat-die-chance-verpasst-wie-kann-er-jetzt-helfen-das-land-zu-stabilisieren](https://www.spiegel.de/ausland/syrien-der-westen-hat-die-chance-verpasst-wie-kann-er-jetzt-helfen-das-land-zu-stabilisieren-a-6daee669-bca9-4bb2-88f3-a6eca34b6e78#ref=rss)
+### fehler
+
+* [https://www.spiegel.de/ausland/syrien-der-westen-hat-die-chance-verpasst-wie-kann-er-jetzt-helfen-das-land-zu-stabilisieren](https://www.spiegel.de/ausland/syrien-der-westen-hat-die-chance-verpasst-wie-kann-er-jetzt-helfen-das-land-zu-stabilisieren-a-6daee669-bca9-4bb2-88f3-a6eca34b6e78#ref=rss)
+* [https://www.spiegel.de/sport/schach-wm-ding-liren-gleicht-gegen-dommaraju-gukesh-aus](https://www.spiegel.de/sport/schach-wm-ding-liren-gleicht-gegen-dommaraju-gukesh-aus-a-d79a64b2-724e-479c-b49b-674e747f2d9c#ref=rss)
+### aldi
+
+* [https://www.spiegel.de/wirtschaft/service/blind-booking-aldi-sued-verkauft-flugtickets-von-eurowings](https://www.spiegel.de/wirtschaft/service/blind-booking-aldi-sued-verkauft-flugtickets-von-eurowings-a-4f0e3c00-c5fb-4533-9a36-e471edeb291e#ref=rss)
+### süd
+
+* [https://www.spiegel.de/wirtschaft/service/blind-booking-aldi-sued-verkauft-flugtickets-von-eurowings](https://www.spiegel.de/wirtschaft/service/blind-booking-aldi-sued-verkauft-flugtickets-von-eurowings-a-4f0e3c00-c5fb-4533-9a36-e471edeb291e#ref=rss)
+### eurowings
+
+* [https://www.spiegel.de/wirtschaft/service/blind-booking-aldi-sued-verkauft-flugtickets-von-eurowings](https://www.spiegel.de/wirtschaft/service/blind-booking-aldi-sued-verkauft-flugtickets-von-eurowings-a-4f0e3c00-c5fb-4533-9a36-e471edeb291e#ref=rss)
+### forsthaus
+
+* [https://www.spiegel.de/kultur/tv/mammut-der-anti-webvideopreis-reality-awards-forsthaus-rampensau-die-tops-und-flops-der-woche](https://www.spiegel.de/kultur/tv/mammut-der-anti-webvideopreis-reality-awards-forsthaus-rampensau-die-tops-und-flops-der-woche-a-0bc18f46-1c0c-491b-be39-1f3e5895a1dc#ref=rss)
+### rampensau
+
+* [https://www.spiegel.de/kultur/tv/mammut-der-anti-webvideopreis-reality-awards-forsthaus-rampensau-die-tops-und-flops-der-woche](https://www.spiegel.de/kultur/tv/mammut-der-anti-webvideopreis-reality-awards-forsthaus-rampensau-die-tops-und-flops-der-woche-a-0bc18f46-1c0c-491b-be39-1f3e5895a1dc#ref=rss)
+### tops
+
+* [https://www.spiegel.de/kultur/tv/mammut-der-anti-webvideopreis-reality-awards-forsthaus-rampensau-die-tops-und-flops-der-woche](https://www.spiegel.de/kultur/tv/mammut-der-anti-webvideopreis-reality-awards-forsthaus-rampensau-die-tops-und-flops-der-woche-a-0bc18f46-1c0c-491b-be39-1f3e5895a1dc#ref=rss)
+### flops
+
+* [https://www.spiegel.de/kultur/tv/mammut-der-anti-webvideopreis-reality-awards-forsthaus-rampensau-die-tops-und-flops-der-woche](https://www.spiegel.de/kultur/tv/mammut-der-anti-webvideopreis-reality-awards-forsthaus-rampensau-die-tops-und-flops-der-woche-a-0bc18f46-1c0c-491b-be39-1f3e5895a1dc#ref=rss)
+### woche
+
+* [https://www.spiegel.de/kultur/tv/mammut-der-anti-webvideopreis-reality-awards-forsthaus-rampensau-die-tops-und-flops-der-woche](https://www.spiegel.de/kultur/tv/mammut-der-anti-webvideopreis-reality-awards-forsthaus-rampensau-die-tops-und-flops-der-woche-a-0bc18f46-1c0c-491b-be39-1f3e5895a1dc#ref=rss)
+### digitalpakt
+
+* [https://www.spiegel.de/panorama/bildung/digitalpakt-2-0-zwischen-bund-und-laendern-zeichnet-sich-kompromiss-ab](https://www.spiegel.de/panorama/bildung/digitalpakt-2-0-zwischen-bund-und-laendern-zeichnet-sich-kompromiss-ab-a-f2d07429-26b1-4eaa-83ae-ded568546c04#ref=rss)
+### 20
+
+* [https://www.spiegel.de/panorama/bildung/digitalpakt-2-0-zwischen-bund-und-laendern-zeichnet-sich-kompromiss-ab](https://www.spiegel.de/panorama/bildung/digitalpakt-2-0-zwischen-bund-und-laendern-zeichnet-sich-kompromiss-ab-a-f2d07429-26b1-4eaa-83ae-ded568546c04#ref=rss)
+### bund
+
+* [https://www.spiegel.de/panorama/bildung/digitalpakt-2-0-zwischen-bund-und-laendern-zeichnet-sich-kompromiss-ab](https://www.spiegel.de/panorama/bildung/digitalpakt-2-0-zwischen-bund-und-laendern-zeichnet-sich-kompromiss-ab-a-f2d07429-26b1-4eaa-83ae-ded568546c04#ref=rss)
+### ländern
+
+* [https://www.spiegel.de/panorama/bildung/digitalpakt-2-0-zwischen-bund-und-laendern-zeichnet-sich-kompromiss-ab](https://www.spiegel.de/panorama/bildung/digitalpakt-2-0-zwischen-bund-und-laendern-zeichnet-sich-kompromiss-ab-a-f2d07429-26b1-4eaa-83ae-ded568546c04#ref=rss)
+### ding
+
+* [https://www.spiegel.de/sport/schach-wm-ding-liren-gleicht-gegen-dommaraju-gukesh-aus](https://www.spiegel.de/sport/schach-wm-ding-liren-gleicht-gegen-dommaraju-gukesh-aus-a-d79a64b2-724e-479c-b49b-674e747f2d9c#ref=rss)
+### liren
+
+* [https://www.spiegel.de/sport/schach-wm-ding-liren-gleicht-gegen-dommaraju-gukesh-aus](https://www.spiegel.de/sport/schach-wm-ding-liren-gleicht-gegen-dommaraju-gukesh-aus-a-d79a64b2-724e-479c-b49b-674e747f2d9c#ref=rss)
+### dommaraju
+
+* [https://www.spiegel.de/sport/schach-wm-ding-liren-gleicht-gegen-dommaraju-gukesh-aus](https://www.spiegel.de/sport/schach-wm-ding-liren-gleicht-gegen-dommaraju-gukesh-aus-a-d79a64b2-724e-479c-b49b-674e747f2d9c#ref=rss)
+### gukesh
+
+* [https://www.spiegel.de/sport/schach-wm-ding-liren-gleicht-gegen-dommaraju-gukesh-aus](https://www.spiegel.de/sport/schach-wm-ding-liren-gleicht-gegen-dommaraju-gukesh-aus-a-d79a64b2-724e-479c-b49b-674e747f2d9c#ref=rss)
+### weltmeister
+
+* [https://www.spiegel.de/sport/schach-wm-ding-liren-gleicht-gegen-dommaraju-gukesh-aus](https://www.spiegel.de/sport/schach-wm-ding-liren-gleicht-gegen-dommaraju-gukesh-aus-a-d79a64b2-724e-479c-b49b-674e747f2d9c#ref=rss)
+### haiat
+
+* [https://www.spiegel.de/ausland/syrien-bundesregierung-will-haiat-tahrir-al-scham-an-ihren-taten-messen](https://www.spiegel.de/ausland/syrien-bundesregierung-will-haiat-tahrir-al-scham-an-ihren-taten-messen-a-03fdf61a-57fc-413c-bbd1-eb8941006b85#ref=rss)
+### tahrir
+
+* [https://www.spiegel.de/ausland/syrien-bundesregierung-will-haiat-tahrir-al-scham-an-ihren-taten-messen](https://www.spiegel.de/ausland/syrien-bundesregierung-will-haiat-tahrir-al-scham-an-ihren-taten-messen-a-03fdf61a-57fc-413c-bbd1-eb8941006b85#ref=rss)
+### alscham
+
+* [https://www.spiegel.de/ausland/syrien-bundesregierung-will-haiat-tahrir-al-scham-an-ihren-taten-messen](https://www.spiegel.de/ausland/syrien-bundesregierung-will-haiat-tahrir-al-scham-an-ihren-taten-messen-a-03fdf61a-57fc-413c-bbd1-eb8941006b85#ref=rss)
+### gruppe
+
+* [https://www.spiegel.de/ausland/syrien-bundesregierung-will-haiat-tahrir-al-scham-an-ihren-taten-messen](https://www.spiegel.de/ausland/syrien-bundesregierung-will-haiat-tahrir-al-scham-an-ihren-taten-messen-a-03fdf61a-57fc-413c-bbd1-eb8941006b85#ref=rss)
+* [https://www.spiegel.de/wirtschaft/medizinische-versorgung-in-gefahr-syrische-aerzte-koennten-deutschland-verlassen](https://www.spiegel.de/wirtschaft/medizinische-versorgung-in-gefahr-syrische-aerzte-koennten-deutschland-verlassen-a-64eec80f-d25d-4430-8b9a-6f6c8175503a#ref=rss)
+### spiegelreporter
+
+* [https://www.spiegel.de/ausland/syrien-spiegel-reporter-berichtet-aus-dem-land-nach-fall-des-assad-regimes](https://www.spiegel.de/ausland/syrien-spiegel-reporter-berichtet-aus-dem-land-nach-fall-des-assad-regimes-a-8278ce92-2a45-47b1-8c81-8003c738b05a#ref=rss)
+### berichtet
+
+* [https://www.spiegel.de/ausland/syrien-spiegel-reporter-berichtet-aus-dem-land-nach-fall-des-assad-regimes](https://www.spiegel.de/ausland/syrien-spiegel-reporter-berichtet-aus-dem-land-nach-fall-des-assad-regimes-a-8278ce92-2a45-47b1-8c81-8003c738b05a#ref=rss)
+### syrische
+
+* [https://www.spiegel.de/wirtschaft/medizinische-versorgung-in-gefahr-syrische-aerzte-koennten-deutschland-verlassen](https://www.spiegel.de/wirtschaft/medizinische-versorgung-in-gefahr-syrische-aerzte-koennten-deutschland-verlassen-a-64eec80f-d25d-4430-8b9a-6f6c8175503a#ref=rss)
+### ärzte
+
+* [https://www.spiegel.de/wirtschaft/medizinische-versorgung-in-gefahr-syrische-aerzte-koennten-deutschland-verlassen](https://www.spiegel.de/wirtschaft/medizinische-versorgung-in-gefahr-syrische-aerzte-koennten-deutschland-verlassen-a-64eec80f-d25d-4430-8b9a-6f6c8175503a#ref=rss)
+### verlassen
+
+* [https://www.spiegel.de/wirtschaft/medizinische-versorgung-in-gefahr-syrische-aerzte-koennten-deutschland-verlassen](https://www.spiegel.de/wirtschaft/medizinische-versorgung-in-gefahr-syrische-aerzte-koennten-deutschland-verlassen-a-64eec80f-d25d-4430-8b9a-6f6c8175503a#ref=rss)
+### brand
+
+* [https://www.spiegel.de/panorama/italien-mindestens-zwei-tote-bei-brand-in-treibstofflager-nahe-florenz](https://www.spiegel.de/panorama/italien-mindestens-zwei-tote-bei-brand-in-treibstofflager-nahe-florenz-a-cd180e9e-6897-4490-b70e-ff67aaa6da08#ref=rss)
+### treibstofflager
+
+* [https://www.spiegel.de/panorama/italien-mindestens-zwei-tote-bei-brand-in-treibstofflager-nahe-florenz](https://www.spiegel.de/panorama/italien-mindestens-zwei-tote-bei-brand-in-treibstofflager-nahe-florenz-a-cd180e9e-6897-4490-b70e-ff67aaa6da08#ref=rss)
+### könig
+
+* [https://www.spiegel.de/panorama/leute/koenig-charles-iii-hatte-angst-dass-die-krone-wackelt](https://www.spiegel.de/panorama/leute/koenig-charles-iii-hatte-angst-dass-die-krone-wackelt-a-c14c74d3-5560-462b-956c-59ac5b9a1ec6#ref=rss)
+### charles
+
+* [https://www.spiegel.de/panorama/leute/koenig-charles-iii-hatte-angst-dass-die-krone-wackelt](https://www.spiegel.de/panorama/leute/koenig-charles-iii-hatte-angst-dass-die-krone-wackelt-a-c14c74d3-5560-462b-956c-59ac5b9a1ec6#ref=rss)
 
