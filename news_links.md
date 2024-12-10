@@ -6,323 +6,357 @@ tags: __no_header__
 
 ### syrien
 
-* [https://www.spiegel.de/politik/deutschland/syrien-debatte-ueber-rueckfuehrung-von-syrischen-gefluechteten-ist-verfrueht](https://www.spiegel.de/politik/deutschland/syrien-debatte-ueber-rueckfuehrung-von-syrischen-gefluechteten-ist-verfrueht-a-32d66cab-06b9-4c3b-8734-e4f50a074e22#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-syrien-olaf-scholz-friedrich-merz-robert-kennedy-jr](https://www.spiegel.de/politik/deutschland/news-syrien-olaf-scholz-friedrich-merz-robert-kennedy-jr-a-23c2056e-9b91-4a48-bd4e-3b4a3298eba0#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-rebellen-wollen-liste-mit-bashar-al-assads-folterknechten-veroeffentlichen](https://www.spiegel.de/ausland/syrien-rebellen-wollen-liste-mit-bashar-al-assads-folterknechten-veroeffentlichen-a-e96eaf5c-6058-46ef-a860-4a6f89345f5c#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/politik/deutschland/parteispenden-erreichen-rekordsumme-von-4-4-millionen-euro-seit-ampel-aus](https://www.spiegel.de/politik/deutschland/parteispenden-erreichen-rekordsumme-von-4-4-millionen-euro-seit-ampel-aus-a-985493dd-b4df-4937-9d7c-bc41ba187df1#ref=rss)
-* [https://www.spiegel.de/panorama/leute/taylor-swift-zahlt-crewmitgliedern-nach-eras-tour-angeblich-rund-200-millionen-dollar-boni](https://www.spiegel.de/panorama/leute/taylor-swift-zahlt-crewmitgliedern-nach-eras-tour-angeblich-rund-200-millionen-dollar-boni-a-183f79e2-91ad-4c87-9bd2-f917a70bbd23#ref=rss)
-* [https://www.spiegel.de/panorama/genf-seltene-roemische-brutus-muenze-fuer-1-98-millionen-euro-versteigert](https://www.spiegel.de/panorama/genf-seltene-roemische-brutus-muenze-fuer-1-98-millionen-euro-versteigert-a-4fc89115-fedc-4037-8792-e08efbb8d8f3#ref=rss)
-### festgenommen
-
-* [https://www.spiegel.de/panorama/justiz/hessen-und-baden-wuerttemberg-drei-mutmassliche-is-anhaenger-wegen-anschlagsplan-festgenommen](https://www.spiegel.de/panorama/justiz/hessen-und-baden-wuerttemberg-drei-mutmassliche-is-anhaenger-wegen-anschlagsplan-festgenommen-a-89dbf9c2-6569-42a5-8f59-62f629e69b75#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-vier-festnahmen-nach-toedlichen-schuessen-am-bahnsteig](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-vier-festnahmen-nach-toedlichen-schuessen-am-bahnsteig-a-00bf8962-2675-497a-ac2d-128a8ecbba06#ref=rss)
-### vier
-
-* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-vier-festnahmen-nach-toedlichen-schuessen-am-bahnsteig](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-vier-festnahmen-nach-toedlichen-schuessen-am-bahnsteig-a-00bf8962-2675-497a-ac2d-128a8ecbba06#ref=rss)
-* [https://www.spiegel.de/panorama/italien-zwei-weitere-tote-nach-explosion-in-treibstofflager-gefunden](https://www.spiegel.de/panorama/italien-zwei-weitere-tote-nach-explosion-in-treibstofflager-gefunden-a-494349e9-ea56-458a-a140-8cc4dfb3fed8#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/italien-zwei-weitere-tote-nach-explosion-in-treibstofflager-gefunden](https://www.spiegel.de/panorama/italien-zwei-weitere-tote-nach-explosion-in-treibstofflager-gefunden-a-494349e9-ea56-458a-a140-8cc4dfb3fed8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/parteispenden-erreichen-rekordsumme-von-4-4-millionen-euro-seit-ampel-aus](https://www.spiegel.de/politik/deutschland/parteispenden-erreichen-rekordsumme-von-4-4-millionen-euro-seit-ampel-aus-a-985493dd-b4df-4937-9d7c-bc41ba187df1#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/italien-zwei-weitere-tote-nach-explosion-in-treibstofflager-gefunden](https://www.spiegel.de/panorama/italien-zwei-weitere-tote-nach-explosion-in-treibstofflager-gefunden-a-494349e9-ea56-458a-a140-8cc4dfb3fed8#ref=rss)
-* [https://www.spiegel.de/panorama/philippinen-zehntausende-menschen-muessen-sich-wegen-vulkanausbruch-in-sicherheit-bringen](https://www.spiegel.de/panorama/philippinen-zehntausende-menschen-muessen-sich-wegen-vulkanausbruch-in-sicherheit-bringen-a-e9b52d45-238d-45c8-91bb-c83d8cfa3ad0#ref=rss)
-* [https://www.spiegel.de/panorama/leute/taylor-swift-zahlt-crewmitgliedern-nach-eras-tour-angeblich-rund-200-millionen-dollar-boni](https://www.spiegel.de/panorama/leute/taylor-swift-zahlt-crewmitgliedern-nach-eras-tour-angeblich-rund-200-millionen-dollar-boni-a-183f79e2-91ad-4c87-9bd2-f917a70bbd23#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-schlachthaus-saidnaja-angehoerige-auf-spurensuche-in-assads-foltergefaengnis](https://www.spiegel.de/ausland/syrien-schlachthaus-saidnaja-angehoerige-auf-spurensuche-in-assads-foltergefaengnis-a-b8f46156-b98a-45c1-941e-a86b3337fa16#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-nach-assad-wer-ist-der-interimsministerpraesident-mohammed-al-bashir](https://www.spiegel.de/ausland/syrien-nach-assad-wer-ist-der-interimsministerpraesident-mohammed-al-bashir-a-990f5db5-6d6d-454a-a55e-91a8382a1256#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-news-heute-israelische-soldaten-sollen-25-kilometer-vor-damaskus-stehen](https://www.spiegel.de/ausland/syrien-news-heute-israelische-soldaten-sollen-25-kilometer-vor-damaskus-stehen-a-3ea6063a-323f-4f9a-a2b4-d18056b7cb6f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-syrien-mohammed-al-bashir-pisa-studie-fuer-erwachsene-us-krankenversicherungschef-brian-thompson](https://www.spiegel.de/politik/deutschland/news-des-tages-syrien-mohammed-al-bashir-pisa-studie-fuer-erwachsene-us-krankenversicherungschef-brian-thompson-a-6cd81deb-dc5c-44b0-98a7-78ff0afded7c#ref=rss)
+* [https://www.spiegel.de/panorama/syrien-einbuergerungen-von-syrern-in-berlin-weiter-moeglich](https://www.spiegel.de/panorama/syrien-einbuergerungen-von-syrern-in-berlin-weiter-moeglich-a-533debf1-6c5f-4e72-840b-8abb7e9e8891#ref=rss)
+* [https://www.spiegel.de/wirtschaft/aerzte-aus-syrien-in-deutschland-klinikchef-fuerchtet-versorgungsengpaesse-bei-rueckkehr-nach-syrien](https://www.spiegel.de/wirtschaft/aerzte-aus-syrien-in-deutschland-klinikchef-fuerchtet-versorgungsengpaesse-bei-rueckkehr-nach-syrien-a-e103f248-ca4d-482b-91d7-33150c7af730#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/syrien-was-bewegt-syrer-in-deutschland-nach-dem-sturz-von-assad-ich-waere-gerade-so-gerne-in-syrien](https://www.spiegel.de/panorama/gesellschaft/syrien-was-bewegt-syrer-in-deutschland-nach-dem-sturz-von-assad-ich-waere-gerade-so-gerne-in-syrien-a-25dc00b7-7bee-4bc2-a259-59b9e60a6992#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/wirtschaft/industrie-in-deutschland-hier-fallen-stellen-weg-und-hier-entstehen-neue](https://www.spiegel.de/wirtschaft/industrie-in-deutschland-hier-fallen-stellen-weg-und-hier-entstehen-neue-a-87ea86ae-9bad-4116-81d2-5dfdea75babc#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/pisa-studie-fuer-erwachsene-piaac-deutschland-stagniert-bei-bildungserfolg-trotz-guter-platzierung](https://www.spiegel.de/panorama/bildung/pisa-studie-fuer-erwachsene-piaac-deutschland-stagniert-bei-bildungserfolg-trotz-guter-platzierung-a-01f6ef83-5b2e-459c-96e1-4a1c237b9bff#ref=rss)
-* [https://www.spiegel.de/sport/handball/handball-em-der-frauen-deutschland-verpasst-halbfinale-nach-niederlage-gegen-norwegen](https://www.spiegel.de/sport/handball/handball-em-der-frauen-deutschland-verpasst-halbfinale-nach-niederlage-gegen-norwegen-a-a6fd183f-af20-4a33-9e6e-966b55815f21#ref=rss)
-### stellen
+* [https://www.spiegel.de/wirtschaft/aerzte-aus-syrien-in-deutschland-klinikchef-fuerchtet-versorgungsengpaesse-bei-rueckkehr-nach-syrien](https://www.spiegel.de/wirtschaft/aerzte-aus-syrien-in-deutschland-klinikchef-fuerchtet-versorgungsengpaesse-bei-rueckkehr-nach-syrien-a-e103f248-ca4d-482b-91d7-33150c7af730#ref=rss)
+* [https://www.spiegel.de/wirtschaft/energiewende-deutschland-fehlen-laut-studie-mehr-als-eine-halbe-million-fachkraefte](https://www.spiegel.de/wirtschaft/energiewende-deutschland-fehlen-laut-studie-mehr-als-eine-halbe-million-fachkraefte-a-eca364d2-c934-41de-a5be-bf6db7bd6a46#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/syrien-was-bewegt-syrer-in-deutschland-nach-dem-sturz-von-assad-ich-waere-gerade-so-gerne-in-syrien](https://www.spiegel.de/panorama/gesellschaft/syrien-was-bewegt-syrer-in-deutschland-nach-dem-sturz-von-assad-ich-waere-gerade-so-gerne-in-syrien-a-25dc00b7-7bee-4bc2-a259-59b9e60a6992#ref=rss)
+### mohammed
 
-* [https://www.spiegel.de/wirtschaft/industrie-in-deutschland-hier-fallen-stellen-weg-und-hier-entstehen-neue](https://www.spiegel.de/wirtschaft/industrie-in-deutschland-hier-fallen-stellen-weg-und-hier-entstehen-neue-a-87ea86ae-9bad-4116-81d2-5dfdea75babc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ford-betriebsrat-fordert-aus-sorge-um-arbeitsplaetze-bekenntnis-zur-elektromobilitaet](https://www.spiegel.de/wirtschaft/unternehmen/ford-betriebsrat-fordert-aus-sorge-um-arbeitsplaetze-bekenntnis-zur-elektromobilitaet-a-8eb0ec69-22b1-4c44-8838-78529eb147dd#ref=rss)
-### verlangt
+* [https://www.spiegel.de/ausland/syrien-nach-assad-wer-ist-der-interimsministerpraesident-mohammed-al-bashir](https://www.spiegel.de/ausland/syrien-nach-assad-wer-ist-der-interimsministerpraesident-mohammed-al-bashir-a-990f5db5-6d6d-454a-a55e-91a8382a1256#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-news-heute-israelische-soldaten-sollen-25-kilometer-vor-damaskus-stehen](https://www.spiegel.de/ausland/syrien-news-heute-israelische-soldaten-sollen-25-kilometer-vor-damaskus-stehen-a-3ea6063a-323f-4f9a-a2b4-d18056b7cb6f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-syrien-mohammed-al-bashir-pisa-studie-fuer-erwachsene-us-krankenversicherungschef-brian-thompson](https://www.spiegel.de/politik/deutschland/news-des-tages-syrien-mohammed-al-bashir-pisa-studie-fuer-erwachsene-us-krankenversicherungschef-brian-thompson-a-6cd81deb-dc5c-44b0-98a7-78ff0afded7c#ref=rss)
+### albashir
+
+* [https://www.spiegel.de/ausland/syrien-nach-assad-wer-ist-der-interimsministerpraesident-mohammed-al-bashir](https://www.spiegel.de/ausland/syrien-nach-assad-wer-ist-der-interimsministerpraesident-mohammed-al-bashir-a-990f5db5-6d6d-454a-a55e-91a8382a1256#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-news-heute-israelische-soldaten-sollen-25-kilometer-vor-damaskus-stehen](https://www.spiegel.de/ausland/syrien-news-heute-israelische-soldaten-sollen-25-kilometer-vor-damaskus-stehen-a-3ea6063a-323f-4f9a-a2b4-d18056b7cb6f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-syrien-mohammed-al-bashir-pisa-studie-fuer-erwachsene-us-krankenversicherungschef-brian-thompson](https://www.spiegel.de/politik/deutschland/news-des-tages-syrien-mohammed-al-bashir-pisa-studie-fuer-erwachsene-us-krankenversicherungschef-brian-thompson-a-6cd81deb-dc5c-44b0-98a7-78ff0afded7c#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/auto/verbrenner-aus-in-norwegen-hier-boomen-die-elektroautos](https://www.spiegel.de/auto/verbrenner-aus-in-norwegen-hier-boomen-die-elektroautos-a-892b31f0-fa24-41f7-898f-bee30715e6ec#ref=rss)
+* [https://www.spiegel.de/wirtschaft/energiewende-deutschland-fehlen-laut-studie-mehr-als-eine-halbe-million-fachkraefte](https://www.spiegel.de/wirtschaft/energiewende-deutschland-fehlen-laut-studie-mehr-als-eine-halbe-million-fachkraefte-a-eca364d2-c934-41de-a5be-bf6db7bd6a46#ref=rss)
+* [https://www.spiegel.de/panorama/integration-von-zuwanderern-skepsis-gegenueber-einwanderungsgesellschaft-waechst](https://www.spiegel.de/panorama/integration-von-zuwanderern-skepsis-gegenueber-einwanderungsgesellschaft-waechst-a-1bf42ffb-2c4d-4e4b-9ed9-13314f4719e2#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/panorama/syrien-einbuergerungen-von-syrern-in-berlin-weiter-moeglich](https://www.spiegel.de/panorama/syrien-einbuergerungen-von-syrern-in-berlin-weiter-moeglich-a-533debf1-6c5f-4e72-840b-8abb7e9e8891#ref=rss)
+* [https://www.spiegel.de/kultur/nan-goldin-ausstellung-in-berlin-was-erzaehlt-this-will-not-end-well](https://www.spiegel.de/kultur/nan-goldin-ausstellung-in-berlin-was-erzaehlt-this-will-not-end-well-a-4515b676-1c3a-435d-b41d-c8ddc715ca38#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-37-jaehriger-erhaelt-bewaehrungsstrafe-fuer-vergewaltigung-von-ukrainerin](https://www.spiegel.de/panorama/justiz/berlin-37-jaehriger-erhaelt-bewaehrungsstrafe-fuer-vergewaltigung-von-ukrainerin-a-adf822ac-edae-4feb-bfe8-544b76ab8902#ref=rss)
+### frankreich
+
+* [https://www.spiegel.de/panorama/justiz/frankreich-schauspielerin-adele-haenel-schreit-angeklagten-christophe-ruggia-an](https://www.spiegel.de/panorama/justiz/frankreich-schauspielerin-adele-haenel-schreit-angeklagten-christophe-ruggia-an-a-5b57c1d3-e82b-42ff-9301-ce698bde2293#ref=rss)
+* [https://www.spiegel.de/ausland/tschad-frankreich-zieht-kampfjets-aus-ndjamena-ab](https://www.spiegel.de/ausland/tschad-frankreich-zieht-kampfjets-aus-ndjamena-ab-a-53fc2cb1-8792-419d-9446-0592f340c4f3#ref=rss)
+### laut
+
+* [https://www.spiegel.de/wissenschaft/weltall/james-webb-weltraumteleskop-das-universum-waechst-schneller-als-es-darf](https://www.spiegel.de/wissenschaft/weltall/james-webb-weltraumteleskop-das-universum-waechst-schneller-als-es-darf-a-9a61e567-ab33-4ed0-90f1-a7d027850325#ref=rss)
+* [https://www.spiegel.de/wirtschaft/energiewende-deutschland-fehlen-laut-studie-mehr-als-eine-halbe-million-fachkraefte](https://www.spiegel.de/wirtschaft/energiewende-deutschland-fehlen-laut-studie-mehr-als-eine-halbe-million-fachkraefte-a-eca364d2-c934-41de-a5be-bf6db7bd6a46#ref=rss)
+* [https://www.spiegel.de/ausland/palaestinenser-melden-mindestens-34-tote-bei-angriffen-im-noerdlichen-gazastreifen](https://www.spiegel.de/ausland/palaestinenser-melden-mindestens-34-tote-bei-angriffen-im-noerdlichen-gazastreifen-a-fe8af188-8164-4e9f-bc46-11832d8c78ef#ref=rss)
+### peter
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-nicolas-peter-soll-norbert-reithofer-als-aufsichtsratschef-nachfolgen](https://www.spiegel.de/wirtschaft/unternehmen/bmw-nicolas-peter-soll-norbert-reithofer-als-aufsichtsratschef-nachfolgen-a-6b805aa8-745a-47ae-9082-d3f6cbdd48c4#ref=rss)
+### tag
 
 * [https://www.spiegel.de/ausland/syrien-news-heute-israelische-soldaten-sollen-25-kilometer-vor-damaskus-stehen](https://www.spiegel.de/ausland/syrien-news-heute-israelische-soldaten-sollen-25-kilometer-vor-damaskus-stehen-a-3ea6063a-323f-4f9a-a2b4-d18056b7cb6f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/nina-app-bundesregierung-will-bevoelkerung-besser-vor-extremwetter-warnen](https://www.spiegel.de/wissenschaft/nina-app-bundesregierung-will-bevoelkerung-besser-vor-extremwetter-warnen-a-0c14347d-4aac-4385-8ae8-35e2d0a04c32#ref=rss)
-### damaskus
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### kam
 
+* [https://www.spiegel.de/kultur/nan-goldin-ausstellung-in-berlin-was-erzaehlt-this-will-not-end-well](https://www.spiegel.de/kultur/nan-goldin-ausstellung-in-berlin-was-erzaehlt-this-will-not-end-well-a-4515b676-1c3a-435d-b41d-c8ddc715ca38#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-37-jaehriger-erhaelt-bewaehrungsstrafe-fuer-vergewaltigung-von-ukrainerin](https://www.spiegel.de/panorama/justiz/berlin-37-jaehriger-erhaelt-bewaehrungsstrafe-fuer-vergewaltigung-von-ukrainerin-a-adf822ac-edae-4feb-bfe8-544b76ab8902#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankreich-schauspielerin-adele-haenel-schreit-angeklagten-christophe-ruggia-an](https://www.spiegel.de/panorama/justiz/frankreich-schauspielerin-adele-haenel-schreit-angeklagten-christophe-ruggia-an-a-5b57c1d3-e82b-42ff-9301-ce698bde2293#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/wirtschaft/energiewende-deutschland-fehlen-laut-studie-mehr-als-eine-halbe-million-fachkraefte](https://www.spiegel.de/wirtschaft/energiewende-deutschland-fehlen-laut-studie-mehr-als-eine-halbe-million-fachkraefte-a-eca364d2-c934-41de-a5be-bf6db7bd6a46#ref=rss)
+* [https://www.spiegel.de/kultur/gerd-heidemann-vermeintlicher-entdecker-der-tagebuecher-von-adolf-hitler](https://www.spiegel.de/kultur/gerd-heidemann-vermeintlicher-entdecker-der-tagebuecher-von-adolf-hitler-a-580a76ba-4f0b-4379-9675-ba371227e781#ref=rss)
+* [https://www.spiegel.de/panorama/integration-von-zuwanderern-skepsis-gegenueber-einwanderungsgesellschaft-waechst](https://www.spiegel.de/panorama/integration-von-zuwanderern-skepsis-gegenueber-einwanderungsgesellschaft-waechst-a-1bf42ffb-2c4d-4e4b-9ed9-13314f4719e2#ref=rss)
+### schauspielerin
+
+* [https://www.spiegel.de/panorama/leute/sex-and-the-city-star-sarah-jessica-parker-wird-jury-mitglied-beim-booker-prize](https://www.spiegel.de/panorama/leute/sex-and-the-city-star-sarah-jessica-parker-wird-jury-mitglied-beim-booker-prize-a-68c87214-6606-4e13-a473-c271a0590f25#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankreich-schauspielerin-adele-haenel-schreit-angeklagten-christophe-ruggia-an](https://www.spiegel.de/panorama/justiz/frankreich-schauspielerin-adele-haenel-schreit-angeklagten-christophe-ruggia-an-a-5b57c1d3-e82b-42ff-9301-ce698bde2293#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/donald-trump-verhoehnt-kanadas-premier-justin-trudeau-und-nennt-ihn-gouverneur](https://www.spiegel.de/ausland/donald-trump-verhoehnt-kanadas-premier-justin-trudeau-und-nennt-ihn-gouverneur-a-1b752b9e-b88b-46d0-b8be-593b23d87150#ref=rss)
+* [https://www.spiegel.de/wirtschaft/mercosur-kritiker-des-handelsabkommens-folgen-der-logik-von-donald-trump](https://www.spiegel.de/wirtschaft/mercosur-kritiker-des-handelsabkommens-folgen-der-logik-von-donald-trump-a-cbcf36a5-9368-4742-bcfd-56ebdb918dea#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/wissenschaft/technik/wladimir-putins-waffenprogramm-russland-will-raketenproduktion-offenbar-ausbauen](https://www.spiegel.de/wissenschaft/technik/wladimir-putins-waffenprogramm-russland-will-raketenproduktion-offenbar-ausbauen-a-9e119ce9-f31a-4709-b841-4625da09cb5d#ref=rss)
 * [https://www.spiegel.de/ausland/syrien-news-heute-israelische-soldaten-sollen-25-kilometer-vor-damaskus-stehen](https://www.spiegel.de/ausland/syrien-news-heute-israelische-soldaten-sollen-25-kilometer-vor-damaskus-stehen-a-3ea6063a-323f-4f9a-a2b4-d18056b7cb6f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/syrien-debatte-ueber-rueckfuehrung-von-syrischen-gefluechteten-ist-verfrueht](https://www.spiegel.de/politik/deutschland/syrien-debatte-ueber-rueckfuehrung-von-syrischen-gefluechteten-ist-verfrueht-a-32d66cab-06b9-4c3b-8734-e4f50a074e22#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-syrien-olaf-scholz-friedrich-merz-robert-kennedy-jr](https://www.spiegel.de/politik/deutschland/news-syrien-olaf-scholz-friedrich-merz-robert-kennedy-jr-a-23c2056e-9b91-4a48-bd4e-3b4a3298eba0#ref=rss)
-### robert
+### schlachthaus
 
-* [https://www.spiegel.de/politik/deutschland/csu-markus-soeder-beharrt-auf-ablehnung-von-schwarz-gruen](https://www.spiegel.de/politik/deutschland/csu-markus-soeder-beharrt-auf-ablehnung-von-schwarz-gruen-a-8ea3d331-d38f-4ad5-ab1d-88eeb4b33ff7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-syrien-olaf-scholz-friedrich-merz-robert-kennedy-jr](https://www.spiegel.de/politik/deutschland/news-syrien-olaf-scholz-friedrich-merz-robert-kennedy-jr-a-23c2056e-9b91-4a48-bd4e-3b4a3298eba0#ref=rss)
-### droht
+* [https://www.spiegel.de/ausland/syrien-schlachthaus-saidnaja-angehoerige-auf-spurensuche-in-assads-foltergefaengnis](https://www.spiegel.de/ausland/syrien-schlachthaus-saidnaja-angehoerige-auf-spurensuche-in-assads-foltergefaengnis-a-b8f46156-b98a-45c1-941e-a86b3337fa16#ref=rss)
+### saidnaja
 
-* [https://www.spiegel.de/wissenschaft/kartoffel-droht-von-insekt-ruiniert-zu-werden-koennen-forscher-das-noch-verhindern](https://www.spiegel.de/wissenschaft/kartoffel-droht-von-insekt-ruiniert-zu-werden-koennen-forscher-das-noch-verhindern-a-1978c1f6-c05d-4726-9f51-1276313d9a8e#ref=rss)
-* [https://www.spiegel.de/ausland/suedkorea-verteidigungsminister-uebernimmt-verantwortung-fuer-sturm-auf-parlament](https://www.spiegel.de/ausland/suedkorea-verteidigungsminister-uebernimmt-verantwortung-fuer-sturm-auf-parlament-a-5df73a7b-e5ba-43ad-b0d2-420f3c7c5eed#ref=rss)
-### warnt
+* [https://www.spiegel.de/ausland/syrien-schlachthaus-saidnaja-angehoerige-auf-spurensuche-in-assads-foltergefaengnis](https://www.spiegel.de/ausland/syrien-schlachthaus-saidnaja-angehoerige-auf-spurensuche-in-assads-foltergefaengnis-a-b8f46156-b98a-45c1-941e-a86b3337fa16#ref=rss)
+### angehörige
 
-* [https://www.spiegel.de/wirtschaft/service/flugreisen-verband-warnt-vor-deutlich-steigenden-ticketpreisen](https://www.spiegel.de/wirtschaft/service/flugreisen-verband-warnt-vor-deutlich-steigenden-ticketpreisen-a-87528ca7-1d1a-40e6-9c78-df2e5eae5cd2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/weihnachtsgeschenke-patentamt-warnt-vor-produkt-faelschungen](https://www.spiegel.de/wirtschaft/service/weihnachtsgeschenke-patentamt-warnt-vor-produkt-faelschungen-a-56f9338b-a442-4ad2-91d6-26e697dfe5c4#ref=rss)
-### euro
+* [https://www.spiegel.de/ausland/syrien-schlachthaus-saidnaja-angehoerige-auf-spurensuche-in-assads-foltergefaengnis](https://www.spiegel.de/ausland/syrien-schlachthaus-saidnaja-angehoerige-auf-spurensuche-in-assads-foltergefaengnis-a-b8f46156-b98a-45c1-941e-a86b3337fa16#ref=rss)
+### assads
 
-* [https://www.spiegel.de/politik/deutschland/parteispenden-erreichen-rekordsumme-von-4-4-millionen-euro-seit-ampel-aus](https://www.spiegel.de/politik/deutschland/parteispenden-erreichen-rekordsumme-von-4-4-millionen-euro-seit-ampel-aus-a-985493dd-b4df-4937-9d7c-bc41ba187df1#ref=rss)
-* [https://www.spiegel.de/panorama/genf-seltene-roemische-brutus-muenze-fuer-1-98-millionen-euro-versteigert](https://www.spiegel.de/panorama/genf-seltene-roemische-brutus-muenze-fuer-1-98-millionen-euro-versteigert-a-4fc89115-fedc-4037-8792-e08efbb8d8f3#ref=rss)
-### ich
+* [https://www.spiegel.de/ausland/syrien-schlachthaus-saidnaja-angehoerige-auf-spurensuche-in-assads-foltergefaengnis](https://www.spiegel.de/ausland/syrien-schlachthaus-saidnaja-angehoerige-auf-spurensuche-in-assads-foltergefaengnis-a-b8f46156-b98a-45c1-941e-a86b3337fa16#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/syrien-was-bewegt-syrer-in-deutschland-nach-dem-sturz-von-assad-ich-waere-gerade-so-gerne-in-syrien](https://www.spiegel.de/panorama/gesellschaft/syrien-was-bewegt-syrer-in-deutschland-nach-dem-sturz-von-assad-ich-waere-gerade-so-gerne-in-syrien-a-25dc00b7-7bee-4bc2-a259-59b9e60a6992#ref=rss)
+### hoffnung
 
-* [https://www.spiegel.de/familie/weihnachtswichtel-wie-ich-widerwillig-einen-wichtel-einziehen-liess-und-ihn-liebgewann](https://www.spiegel.de/familie/weihnachtswichtel-wie-ich-widerwillig-einen-wichtel-einziehen-liess-und-ihn-liebgewann-a-31f093d4-5a44-44e1-80f1-d74f592eabb2#ref=rss)
-### geld
+* [https://www.spiegel.de/ausland/syrien-schlachthaus-saidnaja-angehoerige-auf-spurensuche-in-assads-foltergefaengnis](https://www.spiegel.de/ausland/syrien-schlachthaus-saidnaja-angehoerige-auf-spurensuche-in-assads-foltergefaengnis-a-b8f46156-b98a-45c1-941e-a86b3337fa16#ref=rss)
+* [https://www.spiegel.de/ausland/palaestinenser-melden-mindestens-34-tote-bei-angriffen-im-noerdlichen-gazastreifen](https://www.spiegel.de/ausland/palaestinenser-melden-mindestens-34-tote-bei-angriffen-im-noerdlichen-gazastreifen-a-fe8af188-8164-4e9f-bc46-11832d8c78ef#ref=rss)
+### james
 
-* [https://www.spiegel.de/familie/weihnachtswichtel-wie-ich-widerwillig-einen-wichtel-einziehen-liess-und-ihn-liebgewann](https://www.spiegel.de/familie/weihnachtswichtel-wie-ich-widerwillig-einen-wichtel-einziehen-liess-und-ihn-liebgewann-a-31f093d4-5a44-44e1-80f1-d74f592eabb2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/was-kostet-ein-kind-ausgaben-fuer-den-nachwuchs-bis-zum-18-geburtstag](https://www.spiegel.de/wirtschaft/service/was-kostet-ein-kind-ausgaben-fuer-den-nachwuchs-bis-zum-18-geburtstag-a-4d94a4bc-64cb-4c6f-a5f9-1246b3453b64#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/geldanlage-so-legen-sie-geld-fuer-ihr-kind-am-besten-an](https://www.spiegel.de/wirtschaft/service/geldanlage-so-legen-sie-geld-fuer-ihr-kind-am-besten-an-a-26f4dbdf-9143-4318-878b-bebe2596df13#ref=rss)
-### hessen
+* [https://www.spiegel.de/wissenschaft/weltall/james-webb-weltraumteleskop-das-universum-waechst-schneller-als-es-darf](https://www.spiegel.de/wissenschaft/weltall/james-webb-weltraumteleskop-das-universum-waechst-schneller-als-es-darf-a-9a61e567-ab33-4ed0-90f1-a7d027850325#ref=rss)
+### wächst
 
-* [https://www.spiegel.de/panorama/justiz/hessen-und-baden-wuerttemberg-drei-mutmassliche-is-anhaenger-wegen-anschlagsplan-festgenommen](https://www.spiegel.de/panorama/justiz/hessen-und-baden-wuerttemberg-drei-mutmassliche-is-anhaenger-wegen-anschlagsplan-festgenommen-a-89dbf9c2-6569-42a5-8f59-62f629e69b75#ref=rss)
-### badenwürttemberg
+* [https://www.spiegel.de/wissenschaft/weltall/james-webb-weltraumteleskop-das-universum-waechst-schneller-als-es-darf](https://www.spiegel.de/wissenschaft/weltall/james-webb-weltraumteleskop-das-universum-waechst-schneller-als-es-darf-a-9a61e567-ab33-4ed0-90f1-a7d027850325#ref=rss)
+* [https://www.spiegel.de/panorama/integration-von-zuwanderern-skepsis-gegenueber-einwanderungsgesellschaft-waechst](https://www.spiegel.de/panorama/integration-von-zuwanderern-skepsis-gegenueber-einwanderungsgesellschaft-waechst-a-1bf42ffb-2c4d-4e4b-9ed9-13314f4719e2#ref=rss)
+### schneller
 
-* [https://www.spiegel.de/panorama/justiz/hessen-und-baden-wuerttemberg-drei-mutmassliche-is-anhaenger-wegen-anschlagsplan-festgenommen](https://www.spiegel.de/panorama/justiz/hessen-und-baden-wuerttemberg-drei-mutmassliche-is-anhaenger-wegen-anschlagsplan-festgenommen-a-89dbf9c2-6569-42a5-8f59-62f629e69b75#ref=rss)
-### drei
-
-* [https://www.spiegel.de/panorama/justiz/hessen-und-baden-wuerttemberg-drei-mutmassliche-is-anhaenger-wegen-anschlagsplan-festgenommen](https://www.spiegel.de/panorama/justiz/hessen-und-baden-wuerttemberg-drei-mutmassliche-is-anhaenger-wegen-anschlagsplan-festgenommen-a-89dbf9c2-6569-42a5-8f59-62f629e69b75#ref=rss)
-### mutmaßliche
-
-* [https://www.spiegel.de/panorama/justiz/hessen-und-baden-wuerttemberg-drei-mutmassliche-is-anhaenger-wegen-anschlagsplan-festgenommen](https://www.spiegel.de/panorama/justiz/hessen-und-baden-wuerttemberg-drei-mutmassliche-is-anhaenger-wegen-anschlagsplan-festgenommen-a-89dbf9c2-6569-42a5-8f59-62f629e69b75#ref=rss)
-### tödlichen
-
-* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-vier-festnahmen-nach-toedlichen-schuessen-am-bahnsteig](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-vier-festnahmen-nach-toedlichen-schuessen-am-bahnsteig-a-00bf8962-2675-497a-ac2d-128a8ecbba06#ref=rss)
-* [https://www.spiegel.de/ausland/brian-thompson-in-new-york-erschossen-der-moerder-des-krankenkassen-chefs-und-seine-fans](https://www.spiegel.de/ausland/brian-thompson-in-new-york-erschossen-der-moerder-des-krankenkassen-chefs-und-seine-fans-a-1c888ce7-2452-41a4-bc2f-e364cd824b9a#ref=rss)
-### schüssen
-
-* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-vier-festnahmen-nach-toedlichen-schuessen-am-bahnsteig](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-vier-festnahmen-nach-toedlichen-schuessen-am-bahnsteig-a-00bf8962-2675-497a-ac2d-128a8ecbba06#ref=rss)
-* [https://www.spiegel.de/ausland/brian-thompson-in-new-york-erschossen-der-moerder-des-krankenkassen-chefs-und-seine-fans](https://www.spiegel.de/ausland/brian-thompson-in-new-york-erschossen-der-moerder-des-krankenkassen-chefs-und-seine-fans-a-1c888ce7-2452-41a4-bc2f-e364cd824b9a#ref=rss)
-### bahnsteig
-
-* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-vier-festnahmen-nach-toedlichen-schuessen-am-bahnsteig](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-vier-festnahmen-nach-toedlichen-schuessen-am-bahnsteig-a-00bf8962-2675-497a-ac2d-128a8ecbba06#ref=rss)
-### erschossen
-
-* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-vier-festnahmen-nach-toedlichen-schuessen-am-bahnsteig](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-vier-festnahmen-nach-toedlichen-schuessen-am-bahnsteig-a-00bf8962-2675-497a-ac2d-128a8ecbba06#ref=rss)
-* [https://www.spiegel.de/ausland/brian-thompson-in-new-york-erschossen-der-moerder-des-krankenkassen-chefs-und-seine-fans](https://www.spiegel.de/ausland/brian-thompson-in-new-york-erschossen-der-moerder-des-krankenkassen-chefs-und-seine-fans-a-1c888ce7-2452-41a4-bc2f-e364cd824b9a#ref=rss)
-### kurz
-
-* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-vier-festnahmen-nach-toedlichen-schuessen-am-bahnsteig](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-vier-festnahmen-nach-toedlichen-schuessen-am-bahnsteig-a-00bf8962-2675-497a-ac2d-128a8ecbba06#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ford-betriebsrat-fordert-aus-sorge-um-arbeitsplaetze-bekenntnis-zur-elektromobilitaet](https://www.spiegel.de/wirtschaft/unternehmen/ford-betriebsrat-fordert-aus-sorge-um-arbeitsplaetze-bekenntnis-zur-elektromobilitaet-a-8eb0ec69-22b1-4c44-8838-78529eb147dd#ref=rss)
-### explosion
-
-* [https://www.spiegel.de/panorama/italien-zwei-weitere-tote-nach-explosion-in-treibstofflager-gefunden](https://www.spiegel.de/panorama/italien-zwei-weitere-tote-nach-explosion-in-treibstofflager-gefunden-a-494349e9-ea56-458a-a140-8cc4dfb3fed8#ref=rss)
-### treibstofflager
-
-* [https://www.spiegel.de/panorama/italien-zwei-weitere-tote-nach-explosion-in-treibstofflager-gefunden](https://www.spiegel.de/panorama/italien-zwei-weitere-tote-nach-explosion-in-treibstofflager-gefunden-a-494349e9-ea56-458a-a140-8cc4dfb3fed8#ref=rss)
-### industrie
-
-* [https://www.spiegel.de/wirtschaft/industrie-in-deutschland-hier-fallen-stellen-weg-und-hier-entstehen-neue](https://www.spiegel.de/wirtschaft/industrie-in-deutschland-hier-fallen-stellen-weg-und-hier-entstehen-neue-a-87ea86ae-9bad-4116-81d2-5dfdea75babc#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/james-webb-weltraumteleskop-das-universum-waechst-schneller-als-es-darf](https://www.spiegel.de/wissenschaft/weltall/james-webb-weltraumteleskop-das-universum-waechst-schneller-als-es-darf-a-9a61e567-ab33-4ed0-90f1-a7d027850325#ref=rss)
 ### neue
 
-* [https://www.spiegel.de/wirtschaft/industrie-in-deutschland-hier-fallen-stellen-weg-und-hier-entstehen-neue](https://www.spiegel.de/wirtschaft/industrie-in-deutschland-hier-fallen-stellen-weg-und-hier-entstehen-neue-a-87ea86ae-9bad-4116-81d2-5dfdea75babc#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/pisa-studie-fuer-erwachsene-piaac-deutschland-stagniert-bei-bildungserfolg-trotz-guter-platzierung](https://www.spiegel.de/panorama/bildung/pisa-studie-fuer-erwachsene-piaac-deutschland-stagniert-bei-bildungserfolg-trotz-guter-platzierung-a-01f6ef83-5b2e-459c-96e1-4a1c237b9bff#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/industrie-in-deutschland-hier-fallen-stellen-weg-und-hier-entstehen-neue](https://www.spiegel.de/wirtschaft/industrie-in-deutschland-hier-fallen-stellen-weg-und-hier-entstehen-neue-a-87ea86ae-9bad-4116-81d2-5dfdea75babc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/weihnachtsgeschenke-patentamt-warnt-vor-produkt-faelschungen](https://www.spiegel.de/wirtschaft/service/weihnachtsgeschenke-patentamt-warnt-vor-produkt-faelschungen-a-56f9338b-a442-4ad2-91d6-26e697dfe5c4#ref=rss)
-### wo
-
-* [https://www.spiegel.de/wirtschaft/industrie-in-deutschland-hier-fallen-stellen-weg-und-hier-entstehen-neue](https://www.spiegel.de/wirtschaft/industrie-in-deutschland-hier-fallen-stellen-weg-und-hier-entstehen-neue-a-87ea86ae-9bad-4116-81d2-5dfdea75babc#ref=rss)
-### erwachsene
-
-* [https://www.spiegel.de/panorama/bildung/pisa-studie-fuer-erwachsene-piaac-deutschland-stagniert-bei-bildungserfolg-trotz-guter-platzierung](https://www.spiegel.de/panorama/bildung/pisa-studie-fuer-erwachsene-piaac-deutschland-stagniert-bei-bildungserfolg-trotz-guter-platzierung-a-01f6ef83-5b2e-459c-96e1-4a1c237b9bff#ref=rss)
-### viele
-
-* [https://www.spiegel.de/panorama/bildung/pisa-studie-fuer-erwachsene-piaac-deutschland-stagniert-bei-bildungserfolg-trotz-guter-platzierung](https://www.spiegel.de/panorama/bildung/pisa-studie-fuer-erwachsene-piaac-deutschland-stagniert-bei-bildungserfolg-trotz-guter-platzierung-a-01f6ef83-5b2e-459c-96e1-4a1c237b9bff#ref=rss)
-* [https://www.spiegel.de/reise/athen-diese-sechs-viertel-sollten-sie-gesehen-haben](https://www.spiegel.de/reise/athen-diese-sechs-viertel-sollten-sie-gesehen-haben-a-7ed110f2-f66e-4284-8259-96a719063049#ref=rss)
-### eltern
-
-* [https://www.spiegel.de/panorama/bildung/pisa-studie-fuer-erwachsene-piaac-deutschland-stagniert-bei-bildungserfolg-trotz-guter-platzierung](https://www.spiegel.de/panorama/bildung/pisa-studie-fuer-erwachsene-piaac-deutschland-stagniert-bei-bildungserfolg-trotz-guter-platzierung-a-01f6ef83-5b2e-459c-96e1-4a1c237b9bff#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/was-kostet-ein-kind-ausgaben-fuer-den-nachwuchs-bis-zum-18-geburtstag](https://www.spiegel.de/wirtschaft/service/was-kostet-ein-kind-ausgaben-fuer-den-nachwuchs-bis-zum-18-geburtstag-a-4d94a4bc-64cb-4c6f-a5f9-1246b3453b64#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/panorama/bildung/pisa-studie-fuer-erwachsene-piaac-deutschland-stagniert-bei-bildungserfolg-trotz-guter-platzierung](https://www.spiegel.de/panorama/bildung/pisa-studie-fuer-erwachsene-piaac-deutschland-stagniert-bei-bildungserfolg-trotz-guter-platzierung-a-01f6ef83-5b2e-459c-96e1-4a1c237b9bff#ref=rss)
-* [https://www.spiegel.de/panorama/genf-seltene-roemische-brutus-muenze-fuer-1-98-millionen-euro-versteigert](https://www.spiegel.de/panorama/genf-seltene-roemische-brutus-muenze-fuer-1-98-millionen-euro-versteigert-a-4fc89115-fedc-4037-8792-e08efbb8d8f3#ref=rss)
-### hierzulande
-
-* [https://www.spiegel.de/panorama/bildung/pisa-studie-fuer-erwachsene-piaac-deutschland-stagniert-bei-bildungserfolg-trotz-guter-platzierung](https://www.spiegel.de/panorama/bildung/pisa-studie-fuer-erwachsene-piaac-deutschland-stagniert-bei-bildungserfolg-trotz-guter-platzierung-a-01f6ef83-5b2e-459c-96e1-4a1c237b9bff#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/syrien-debatte-ueber-rueckfuehrung-von-syrischen-gefluechteten-ist-verfrueht](https://www.spiegel.de/politik/deutschland/syrien-debatte-ueber-rueckfuehrung-von-syrischen-gefluechteten-ist-verfrueht-a-32d66cab-06b9-4c3b-8734-e4f50a074e22#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/syrien-news-heute-israelische-soldaten-sollen-25-kilometer-vor-damaskus-stehen](https://www.spiegel.de/ausland/syrien-news-heute-israelische-soldaten-sollen-25-kilometer-vor-damaskus-stehen-a-3ea6063a-323f-4f9a-a2b4-d18056b7cb6f#ref=rss)
-### syrisches
-
-* [https://www.spiegel.de/ausland/syrien-news-heute-israelische-soldaten-sollen-25-kilometer-vor-damaskus-stehen](https://www.spiegel.de/ausland/syrien-news-heute-israelische-soldaten-sollen-25-kilometer-vor-damaskus-stehen-a-3ea6063a-323f-4f9a-a2b4-d18056b7cb6f#ref=rss)
-### staatsgebiet
-
-* [https://www.spiegel.de/ausland/syrien-news-heute-israelische-soldaten-sollen-25-kilometer-vor-damaskus-stehen](https://www.spiegel.de/ausland/syrien-news-heute-israelische-soldaten-sollen-25-kilometer-vor-damaskus-stehen-a-3ea6063a-323f-4f9a-a2b4-d18056b7cb6f#ref=rss)
-### news
-
-* [https://www.spiegel.de/ausland/syrien-news-heute-israelische-soldaten-sollen-25-kilometer-vor-damaskus-stehen](https://www.spiegel.de/ausland/syrien-news-heute-israelische-soldaten-sollen-25-kilometer-vor-damaskus-stehen-a-3ea6063a-323f-4f9a-a2b4-d18056b7cb6f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-syrien-olaf-scholz-friedrich-merz-robert-kennedy-jr](https://www.spiegel.de/politik/deutschland/news-syrien-olaf-scholz-friedrich-merz-robert-kennedy-jr-a-23c2056e-9b91-4a48-bd4e-3b4a3298eba0#ref=rss)
-### markus
-
-* [https://www.spiegel.de/politik/deutschland/csu-markus-soeder-beharrt-auf-ablehnung-von-schwarz-gruen](https://www.spiegel.de/politik/deutschland/csu-markus-soeder-beharrt-auf-ablehnung-von-schwarz-gruen-a-8ea3d331-d38f-4ad5-ab1d-88eeb4b33ff7#ref=rss)
-### söder
-
-* [https://www.spiegel.de/politik/deutschland/csu-markus-soeder-beharrt-auf-ablehnung-von-schwarz-gruen](https://www.spiegel.de/politik/deutschland/csu-markus-soeder-beharrt-auf-ablehnung-von-schwarz-gruen-a-8ea3d331-d38f-4ad5-ab1d-88eeb4b33ff7#ref=rss)
-### schwarzgrün
-
-* [https://www.spiegel.de/politik/deutschland/csu-markus-soeder-beharrt-auf-ablehnung-von-schwarz-gruen](https://www.spiegel.de/politik/deutschland/csu-markus-soeder-beharrt-auf-ablehnung-von-schwarz-gruen-a-8ea3d331-d38f-4ad5-ab1d-88eeb4b33ff7#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/csu-markus-soeder-beharrt-auf-ablehnung-von-schwarz-gruen](https://www.spiegel.de/politik/deutschland/csu-markus-soeder-beharrt-auf-ablehnung-von-schwarz-gruen-a-8ea3d331-d38f-4ad5-ab1d-88eeb4b33ff7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-syrien-olaf-scholz-friedrich-merz-robert-kennedy-jr](https://www.spiegel.de/politik/deutschland/news-syrien-olaf-scholz-friedrich-merz-robert-kennedy-jr-a-23c2056e-9b91-4a48-bd4e-3b4a3298eba0#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/csu-markus-soeder-beharrt-auf-ablehnung-von-schwarz-gruen](https://www.spiegel.de/politik/deutschland/csu-markus-soeder-beharrt-auf-ablehnung-von-schwarz-gruen-a-8ea3d331-d38f-4ad5-ab1d-88eeb4b33ff7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-syrien-olaf-scholz-friedrich-merz-robert-kennedy-jr](https://www.spiegel.de/politik/deutschland/news-syrien-olaf-scholz-friedrich-merz-robert-kennedy-jr-a-23c2056e-9b91-4a48-bd4e-3b4a3298eba0#ref=rss)
-### nein
-
-* [https://www.spiegel.de/politik/deutschland/csu-markus-soeder-beharrt-auf-ablehnung-von-schwarz-gruen](https://www.spiegel.de/politik/deutschland/csu-markus-soeder-beharrt-auf-ablehnung-von-schwarz-gruen-a-8ea3d331-d38f-4ad5-ab1d-88eeb4b33ff7#ref=rss)
-* [https://www.spiegel.de/familie/weihnachtswichtel-wie-ich-widerwillig-einen-wichtel-einziehen-liess-und-ihn-liebgewann](https://www.spiegel.de/familie/weihnachtswichtel-wie-ich-widerwillig-einen-wichtel-einziehen-liess-und-ihn-liebgewann-a-31f093d4-5a44-44e1-80f1-d74f592eabb2#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/politik/deutschland/csu-markus-soeder-beharrt-auf-ablehnung-von-schwarz-gruen](https://www.spiegel.de/politik/deutschland/csu-markus-soeder-beharrt-auf-ablehnung-von-schwarz-gruen-a-8ea3d331-d38f-4ad5-ab1d-88eeb4b33ff7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ford-betriebsrat-fordert-aus-sorge-um-arbeitsplaetze-bekenntnis-zur-elektromobilitaet](https://www.spiegel.de/wirtschaft/unternehmen/ford-betriebsrat-fordert-aus-sorge-um-arbeitsplaetze-bekenntnis-zur-elektromobilitaet-a-8eb0ec69-22b1-4c44-8838-78529eb147dd#ref=rss)
-### luiz
-
-* [https://www.spiegel.de/ausland/brasilien-luiz-inacio-lula-da-silva-wegen-hirnblutung-operiert](https://www.spiegel.de/ausland/brasilien-luiz-inacio-lula-da-silva-wegen-hirnblutung-operiert-a-b279a31a-5e70-4b6d-935e-0d5f46f329de#ref=rss)
-### inácio
-
-* [https://www.spiegel.de/ausland/brasilien-luiz-inacio-lula-da-silva-wegen-hirnblutung-operiert](https://www.spiegel.de/ausland/brasilien-luiz-inacio-lula-da-silva-wegen-hirnblutung-operiert-a-b279a31a-5e70-4b6d-935e-0d5f46f329de#ref=rss)
-### lula
-
-* [https://www.spiegel.de/ausland/brasilien-luiz-inacio-lula-da-silva-wegen-hirnblutung-operiert](https://www.spiegel.de/ausland/brasilien-luiz-inacio-lula-da-silva-wegen-hirnblutung-operiert-a-b279a31a-5e70-4b6d-935e-0d5f46f329de#ref=rss)
-### silva
-
-* [https://www.spiegel.de/ausland/brasilien-luiz-inacio-lula-da-silva-wegen-hirnblutung-operiert](https://www.spiegel.de/ausland/brasilien-luiz-inacio-lula-da-silva-wegen-hirnblutung-operiert-a-b279a31a-5e70-4b6d-935e-0d5f46f329de#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/brasilien-luiz-inacio-lula-da-silva-wegen-hirnblutung-operiert](https://www.spiegel.de/ausland/brasilien-luiz-inacio-lula-da-silva-wegen-hirnblutung-operiert-a-b279a31a-5e70-4b6d-935e-0d5f46f329de#ref=rss)
-* [https://www.spiegel.de/ausland/suedkorea-verteidigungsminister-uebernimmt-verantwortung-fuer-sturm-auf-parlament](https://www.spiegel.de/ausland/suedkorea-verteidigungsminister-uebernimmt-verantwortung-fuer-sturm-auf-parlament-a-5df73a7b-e5ba-43ad-b0d2-420f3c7c5eed#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/ausland/brasilien-luiz-inacio-lula-da-silva-wegen-hirnblutung-operiert](https://www.spiegel.de/ausland/brasilien-luiz-inacio-lula-da-silva-wegen-hirnblutung-operiert-a-b279a31a-5e70-4b6d-935e-0d5f46f329de#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-faellt-mit-gebrochener-rippe-aus](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-faellt-mit-gebrochener-rippe-aus-a-ecd8c46a-15be-404e-8bd4-a2a1fa583fd2#ref=rss)
-### insekt
-
-* [https://www.spiegel.de/wissenschaft/kartoffel-droht-von-insekt-ruiniert-zu-werden-koennen-forscher-das-noch-verhindern](https://www.spiegel.de/wissenschaft/kartoffel-droht-von-insekt-ruiniert-zu-werden-koennen-forscher-das-noch-verhindern-a-1978c1f6-c05d-4726-9f51-1276313d9a8e#ref=rss)
-### forscher
-
-* [https://www.spiegel.de/wissenschaft/kartoffel-droht-von-insekt-ruiniert-zu-werden-koennen-forscher-das-noch-verhindern](https://www.spiegel.de/wissenschaft/kartoffel-droht-von-insekt-ruiniert-zu-werden-koennen-forscher-das-noch-verhindern-a-1978c1f6-c05d-4726-9f51-1276313d9a8e#ref=rss)
-### philippinen
-
-* [https://www.spiegel.de/panorama/philippinen-zehntausende-menschen-muessen-sich-wegen-vulkanausbruch-in-sicherheit-bringen](https://www.spiegel.de/panorama/philippinen-zehntausende-menschen-muessen-sich-wegen-vulkanausbruch-in-sicherheit-bringen-a-e9b52d45-238d-45c8-91bb-c83d8cfa3ad0#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-faellt-mit-gebrochener-rippe-aus](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-faellt-mit-gebrochener-rippe-aus-a-ecd8c46a-15be-404e-8bd4-a2a1fa583fd2#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-faellt-mit-gebrochener-rippe-aus](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-faellt-mit-gebrochener-rippe-aus-a-ecd8c46a-15be-404e-8bd4-a2a1fa583fd2#ref=rss)
-### manuel
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-faellt-mit-gebrochener-rippe-aus](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-faellt-mit-gebrochener-rippe-aus-a-ecd8c46a-15be-404e-8bd4-a2a1fa583fd2#ref=rss)
-### neuer
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-faellt-mit-gebrochener-rippe-aus](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-faellt-mit-gebrochener-rippe-aus-a-ecd8c46a-15be-404e-8bd4-a2a1fa583fd2#ref=rss)
-### rippe
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-faellt-mit-gebrochener-rippe-aus](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-faellt-mit-gebrochener-rippe-aus-a-ecd8c46a-15be-404e-8bd4-a2a1fa583fd2#ref=rss)
-### jahresende
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-faellt-mit-gebrochener-rippe-aus](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-faellt-mit-gebrochener-rippe-aus-a-ecd8c46a-15be-404e-8bd4-a2a1fa583fd2#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/google-suchtrends-2024-danach-suchten-die-deutschen-dieses-jahr](https://www.spiegel.de/netzwelt/web/google-suchtrends-2024-danach-suchten-die-deutschen-dieses-jahr-a-b1c04cb3-38ff-4710-a03a-d3b4bb46ac06#ref=rss)
-### athen
-
-* [https://www.spiegel.de/reise/athen-diese-sechs-viertel-sollten-sie-gesehen-haben](https://www.spiegel.de/reise/athen-diese-sechs-viertel-sollten-sie-gesehen-haben-a-7ed110f2-f66e-4284-8259-96a719063049#ref=rss)
-### debatte
-
-* [https://www.spiegel.de/politik/deutschland/syrien-debatte-ueber-rueckfuehrung-von-syrischen-gefluechteten-ist-verfrueht](https://www.spiegel.de/politik/deutschland/syrien-debatte-ueber-rueckfuehrung-von-syrischen-gefluechteten-ist-verfrueht-a-32d66cab-06b9-4c3b-8734-e4f50a074e22#ref=rss)
-### rückführung
-
-* [https://www.spiegel.de/politik/deutschland/syrien-debatte-ueber-rueckfuehrung-von-syrischen-gefluechteten-ist-verfrueht](https://www.spiegel.de/politik/deutschland/syrien-debatte-ueber-rueckfuehrung-von-syrischen-gefluechteten-ist-verfrueht-a-32d66cab-06b9-4c3b-8734-e4f50a074e22#ref=rss)
-### syrischen
-
-* [https://www.spiegel.de/politik/deutschland/syrien-debatte-ueber-rueckfuehrung-von-syrischen-gefluechteten-ist-verfrueht](https://www.spiegel.de/politik/deutschland/syrien-debatte-ueber-rueckfuehrung-von-syrischen-gefluechteten-ist-verfrueht-a-32d66cab-06b9-4c3b-8734-e4f50a074e22#ref=rss)
-### geflüchteten
-
-* [https://www.spiegel.de/politik/deutschland/syrien-debatte-ueber-rueckfuehrung-von-syrischen-gefluechteten-ist-verfrueht](https://www.spiegel.de/politik/deutschland/syrien-debatte-ueber-rueckfuehrung-von-syrischen-gefluechteten-ist-verfrueht-a-32d66cab-06b9-4c3b-8734-e4f50a074e22#ref=rss)
-### bahnstrecke
-
-* [https://www.spiegel.de/ausland/russland-deutscher-inhaftiert-wegen-angeblicher-sabotage-an-bahnstrecke](https://www.spiegel.de/ausland/russland-deutscher-inhaftiert-wegen-angeblicher-sabotage-an-bahnstrecke-a-5403b2bb-ae11-4e1a-8f0a-1535d2a68b52#ref=rss)
-### angeblich
-
-* [https://www.spiegel.de/ausland/russland-deutscher-inhaftiert-wegen-angeblicher-sabotage-an-bahnstrecke](https://www.spiegel.de/ausland/russland-deutscher-inhaftiert-wegen-angeblicher-sabotage-an-bahnstrecke-a-5403b2bb-ae11-4e1a-8f0a-1535d2a68b52#ref=rss)
-* [https://www.spiegel.de/panorama/leute/taylor-swift-zahlt-crewmitgliedern-nach-eras-tour-angeblich-rund-200-millionen-dollar-boni](https://www.spiegel.de/panorama/leute/taylor-swift-zahlt-crewmitgliedern-nach-eras-tour-angeblich-rund-200-millionen-dollar-boni-a-183f79e2-91ad-4c87-9bd2-f917a70bbd23#ref=rss)
-### halbfinale
-
-* [https://www.spiegel.de/sport/handball/handball-em-der-frauen-deutschland-verpasst-halbfinale-nach-niederlage-gegen-norwegen](https://www.spiegel.de/sport/handball/handball-em-der-frauen-deutschland-verpasst-halbfinale-nach-niederlage-gegen-norwegen-a-a6fd183f-af20-4a33-9e6e-966b55815f21#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/james-webb-weltraumteleskop-das-universum-waechst-schneller-als-es-darf](https://www.spiegel.de/wissenschaft/weltall/james-webb-weltraumteleskop-das-universum-waechst-schneller-als-es-darf-a-9a61e567-ab33-4ed0-90f1-a7d027850325#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-nach-assad-wer-ist-der-interimsministerpraesident-mohammed-al-bashir](https://www.spiegel.de/ausland/syrien-nach-assad-wer-ist-der-interimsministerpraesident-mohammed-al-bashir-a-990f5db5-6d6d-454a-a55e-91a8382a1256#ref=rss)
 ### norwegen
 
-* [https://www.spiegel.de/sport/handball/handball-em-der-frauen-deutschland-verpasst-halbfinale-nach-niederlage-gegen-norwegen](https://www.spiegel.de/sport/handball/handball-em-der-frauen-deutschland-verpasst-halbfinale-nach-niederlage-gegen-norwegen-a-a6fd183f-af20-4a33-9e6e-966b55815f21#ref=rss)
-### brian
+* [https://www.spiegel.de/auto/verbrenner-aus-in-norwegen-hier-boomen-die-elektroautos](https://www.spiegel.de/auto/verbrenner-aus-in-norwegen-hier-boomen-die-elektroautos-a-892b31f0-fa24-41f7-898f-bee30715e6ec#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/ausland/brian-thompson-in-new-york-erschossen-der-moerder-des-krankenkassen-chefs-und-seine-fans](https://www.spiegel.de/ausland/brian-thompson-in-new-york-erschossen-der-moerder-des-krankenkassen-chefs-und-seine-fans-a-1c888ce7-2452-41a4-bc2f-e364cd824b9a#ref=rss)
-### thompson
+* [https://www.spiegel.de/auto/verbrenner-aus-in-norwegen-hier-boomen-die-elektroautos](https://www.spiegel.de/auto/verbrenner-aus-in-norwegen-hier-boomen-die-elektroautos-a-892b31f0-fa24-41f7-898f-bee30715e6ec#ref=rss)
+* [https://www.spiegel.de/kultur/nan-goldin-ausstellung-in-berlin-was-erzaehlt-this-will-not-end-well](https://www.spiegel.de/kultur/nan-goldin-ausstellung-in-berlin-was-erzaehlt-this-will-not-end-well-a-4515b676-1c3a-435d-b41d-c8ddc715ca38#ref=rss)
+### wir
 
-* [https://www.spiegel.de/ausland/brian-thompson-in-new-york-erschossen-der-moerder-des-krankenkassen-chefs-und-seine-fans](https://www.spiegel.de/ausland/brian-thompson-in-new-york-erschossen-der-moerder-des-krankenkassen-chefs-und-seine-fans-a-1c888ce7-2452-41a4-bc2f-e364cd824b9a#ref=rss)
-### parlament
+* [https://www.spiegel.de/auto/verbrenner-aus-in-norwegen-hier-boomen-die-elektroautos](https://www.spiegel.de/auto/verbrenner-aus-in-norwegen-hier-boomen-die-elektroautos-a-892b31f0-fa24-41f7-898f-bee30715e6ec#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/syrien-was-bewegt-syrer-in-deutschland-nach-dem-sturz-von-assad-ich-waere-gerade-so-gerne-in-syrien](https://www.spiegel.de/panorama/gesellschaft/syrien-was-bewegt-syrer-in-deutschland-nach-dem-sturz-von-assad-ich-waere-gerade-so-gerne-in-syrien-a-25dc00b7-7bee-4bc2-a259-59b9e60a6992#ref=rss)
+### nicolas
 
-* [https://www.spiegel.de/ausland/suedkorea-verteidigungsminister-uebernimmt-verantwortung-fuer-sturm-auf-parlament](https://www.spiegel.de/ausland/suedkorea-verteidigungsminister-uebernimmt-verantwortung-fuer-sturm-auf-parlament-a-5df73a7b-e5ba-43ad-b0d2-420f3c7c5eed#ref=rss)
-### anklage
+* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-nicolas-peter-soll-norbert-reithofer-als-aufsichtsratschef-nachfolgen](https://www.spiegel.de/wirtschaft/unternehmen/bmw-nicolas-peter-soll-norbert-reithofer-als-aufsichtsratschef-nachfolgen-a-6b805aa8-745a-47ae-9082-d3f6cbdd48c4#ref=rss)
+### ehemalige
 
-* [https://www.spiegel.de/ausland/suedkorea-verteidigungsminister-uebernimmt-verantwortung-fuer-sturm-auf-parlament](https://www.spiegel.de/ausland/suedkorea-verteidigungsminister-uebernimmt-verantwortung-fuer-sturm-auf-parlament-a-5df73a7b-e5ba-43ad-b0d2-420f3c7c5eed#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-rebellen-wollen-liste-mit-bashar-al-assads-folterknechten-veroeffentlichen](https://www.spiegel.de/ausland/syrien-rebellen-wollen-liste-mit-bashar-al-assads-folterknechten-veroeffentlichen-a-e96eaf5c-6058-46ef-a860-4a6f89345f5c#ref=rss)
-### steigenden
+* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-nicolas-peter-soll-norbert-reithofer-als-aufsichtsratschef-nachfolgen](https://www.spiegel.de/wirtschaft/unternehmen/bmw-nicolas-peter-soll-norbert-reithofer-als-aufsichtsratschef-nachfolgen-a-6b805aa8-745a-47ae-9082-d3f6cbdd48c4#ref=rss)
+* [https://www.spiegel.de/kultur/gerd-heidemann-vermeintlicher-entdecker-der-tagebuecher-von-adolf-hitler](https://www.spiegel.de/kultur/gerd-heidemann-vermeintlicher-entdecker-der-tagebuecher-von-adolf-hitler-a-580a76ba-4f0b-4379-9675-ba371227e781#ref=rss)
+### aufsichtsrat
 
-* [https://www.spiegel.de/wirtschaft/service/flugreisen-verband-warnt-vor-deutlich-steigenden-ticketpreisen](https://www.spiegel.de/wirtschaft/service/flugreisen-verband-warnt-vor-deutlich-steigenden-ticketpreisen-a-87528ca7-1d1a-40e6-9c78-df2e5eae5cd2#ref=rss)
-### ticketpreisen
+* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-nicolas-peter-soll-norbert-reithofer-als-aufsichtsratschef-nachfolgen](https://www.spiegel.de/wirtschaft/unternehmen/bmw-nicolas-peter-soll-norbert-reithofer-als-aufsichtsratschef-nachfolgen-a-6b805aa8-745a-47ae-9082-d3f6cbdd48c4#ref=rss)
+### teilte
 
-* [https://www.spiegel.de/wirtschaft/service/flugreisen-verband-warnt-vor-deutlich-steigenden-ticketpreisen](https://www.spiegel.de/wirtschaft/service/flugreisen-verband-warnt-vor-deutlich-steigenden-ticketpreisen-a-87528ca7-1d1a-40e6-9c78-df2e5eae5cd2#ref=rss)
-### taylor
+* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-nicolas-peter-soll-norbert-reithofer-als-aufsichtsratschef-nachfolgen](https://www.spiegel.de/wirtschaft/unternehmen/bmw-nicolas-peter-soll-norbert-reithofer-als-aufsichtsratschef-nachfolgen-a-6b805aa8-745a-47ae-9082-d3f6cbdd48c4#ref=rss)
+* [https://www.spiegel.de/panorama/syrien-einbuergerungen-von-syrern-in-berlin-weiter-moeglich](https://www.spiegel.de/panorama/syrien-einbuergerungen-von-syrern-in-berlin-weiter-moeglich-a-533debf1-6c5f-4e72-840b-8abb7e9e8891#ref=rss)
+### assad
 
-* [https://www.spiegel.de/panorama/leute/taylor-swift-zahlt-crewmitgliedern-nach-eras-tour-angeblich-rund-200-millionen-dollar-boni](https://www.spiegel.de/panorama/leute/taylor-swift-zahlt-crewmitgliedern-nach-eras-tour-angeblich-rund-200-millionen-dollar-boni-a-183f79e2-91ad-4c87-9bd2-f917a70bbd23#ref=rss)
-### swift
+* [https://www.spiegel.de/ausland/syrien-nach-assad-wer-ist-der-interimsministerpraesident-mohammed-al-bashir](https://www.spiegel.de/ausland/syrien-nach-assad-wer-ist-der-interimsministerpraesident-mohammed-al-bashir-a-990f5db5-6d6d-454a-a55e-91a8382a1256#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/syrien-was-bewegt-syrer-in-deutschland-nach-dem-sturz-von-assad-ich-waere-gerade-so-gerne-in-syrien](https://www.spiegel.de/panorama/gesellschaft/syrien-was-bewegt-syrer-in-deutschland-nach-dem-sturz-von-assad-ich-waere-gerade-so-gerne-in-syrien-a-25dc00b7-7bee-4bc2-a259-59b9e60a6992#ref=rss)
+### syrische
 
-* [https://www.spiegel.de/panorama/leute/taylor-swift-zahlt-crewmitgliedern-nach-eras-tour-angeblich-rund-200-millionen-dollar-boni](https://www.spiegel.de/panorama/leute/taylor-swift-zahlt-crewmitgliedern-nach-eras-tour-angeblich-rund-200-millionen-dollar-boni-a-183f79e2-91ad-4c87-9bd2-f917a70bbd23#ref=rss)
-### weihnachtsgeschenke
+* [https://www.spiegel.de/ausland/syrien-nach-assad-wer-ist-der-interimsministerpraesident-mohammed-al-bashir](https://www.spiegel.de/ausland/syrien-nach-assad-wer-ist-der-interimsministerpraesident-mohammed-al-bashir-a-990f5db5-6d6d-454a-a55e-91a8382a1256#ref=rss)
+* [https://www.spiegel.de/wirtschaft/aerzte-aus-syrien-in-deutschland-klinikchef-fuerchtet-versorgungsengpaesse-bei-rueckkehr-nach-syrien](https://www.spiegel.de/wirtschaft/aerzte-aus-syrien-in-deutschland-klinikchef-fuerchtet-versorgungsengpaesse-bei-rueckkehr-nach-syrien-a-e103f248-ca4d-482b-91d7-33150c7af730#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/wirtschaft/service/weihnachtsgeschenke-patentamt-warnt-vor-produkt-faelschungen](https://www.spiegel.de/wirtschaft/service/weihnachtsgeschenke-patentamt-warnt-vor-produkt-faelschungen-a-56f9338b-a442-4ad2-91d6-26e697dfe5c4#ref=rss)
-### patentamt
+* [https://www.spiegel.de/ausland/syrien-nach-assad-wer-ist-der-interimsministerpraesident-mohammed-al-bashir](https://www.spiegel.de/ausland/syrien-nach-assad-wer-ist-der-interimsministerpraesident-mohammed-al-bashir-a-990f5db5-6d6d-454a-a55e-91a8382a1256#ref=rss)
+* [https://www.spiegel.de/ausland/tschad-frankreich-zieht-kampfjets-aus-ndjamena-ab](https://www.spiegel.de/ausland/tschad-frankreich-zieht-kampfjets-aus-ndjamena-ab-a-53fc2cb1-8792-419d-9446-0592f340c4f3#ref=rss)
+### israel
 
-* [https://www.spiegel.de/wirtschaft/service/weihnachtsgeschenke-patentamt-warnt-vor-produkt-faelschungen](https://www.spiegel.de/wirtschaft/service/weihnachtsgeschenke-patentamt-warnt-vor-produkt-faelschungen-a-56f9338b-a442-4ad2-91d6-26e697dfe5c4#ref=rss)
-### weihnachtswichtel
+* [https://www.spiegel.de/ausland/syrien-news-heute-israelische-soldaten-sollen-25-kilometer-vor-damaskus-stehen](https://www.spiegel.de/ausland/syrien-news-heute-israelische-soldaten-sollen-25-kilometer-vor-damaskus-stehen-a-3ea6063a-323f-4f9a-a2b4-d18056b7cb6f#ref=rss)
+### ministerpräsident
 
-* [https://www.spiegel.de/familie/weihnachtswichtel-wie-ich-widerwillig-einen-wichtel-einziehen-liess-und-ihn-liebgewann](https://www.spiegel.de/familie/weihnachtswichtel-wie-ich-widerwillig-einen-wichtel-einziehen-liess-und-ihn-liebgewann-a-31f093d4-5a44-44e1-80f1-d74f592eabb2#ref=rss)
-### ließ
+* [https://www.spiegel.de/ausland/syrien-news-heute-israelische-soldaten-sollen-25-kilometer-vor-damaskus-stehen](https://www.spiegel.de/ausland/syrien-news-heute-israelische-soldaten-sollen-25-kilometer-vor-damaskus-stehen-a-3ea6063a-323f-4f9a-a2b4-d18056b7cb6f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-syrien-mohammed-al-bashir-pisa-studie-fuer-erwachsene-us-krankenversicherungschef-brian-thompson](https://www.spiegel.de/politik/deutschland/news-des-tages-syrien-mohammed-al-bashir-pisa-studie-fuer-erwachsene-us-krankenversicherungschef-brian-thompson-a-6cd81deb-dc5c-44b0-98a7-78ff0afded7c#ref=rss)
+### uskrankenversicherungschef
 
-* [https://www.spiegel.de/familie/weihnachtswichtel-wie-ich-widerwillig-einen-wichtel-einziehen-liess-und-ihn-liebgewann](https://www.spiegel.de/familie/weihnachtswichtel-wie-ich-widerwillig-einen-wichtel-einziehen-liess-und-ihn-liebgewann-a-31f093d4-5a44-44e1-80f1-d74f592eabb2#ref=rss)
-* [https://www.spiegel.de/panorama/genf-seltene-roemische-brutus-muenze-fuer-1-98-millionen-euro-versteigert](https://www.spiegel.de/panorama/genf-seltene-roemische-brutus-muenze-fuer-1-98-millionen-euro-versteigert-a-4fc89115-fedc-4037-8792-e08efbb8d8f3#ref=rss)
-### investieren
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-syrien-mohammed-al-bashir-pisa-studie-fuer-erwachsene-us-krankenversicherungschef-brian-thompson](https://www.spiegel.de/politik/deutschland/news-des-tages-syrien-mohammed-al-bashir-pisa-studie-fuer-erwachsene-us-krankenversicherungschef-brian-thompson-a-6cd81deb-dc5c-44b0-98a7-78ff0afded7c#ref=rss)
+### held
 
-* [https://www.spiegel.de/familie/weihnachtswichtel-wie-ich-widerwillig-einen-wichtel-einziehen-liess-und-ihn-liebgewann](https://www.spiegel.de/familie/weihnachtswichtel-wie-ich-widerwillig-einen-wichtel-einziehen-liess-und-ihn-liebgewann-a-31f093d4-5a44-44e1-80f1-d74f592eabb2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/geldanlage-so-legen-sie-geld-fuer-ihr-kind-am-besten-an](https://www.spiegel.de/wirtschaft/service/geldanlage-so-legen-sie-geld-fuer-ihr-kind-am-besten-an-a-26f4dbdf-9143-4318-878b-bebe2596df13#ref=rss)
-### kind
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-syrien-mohammed-al-bashir-pisa-studie-fuer-erwachsene-us-krankenversicherungschef-brian-thompson](https://www.spiegel.de/politik/deutschland/news-des-tages-syrien-mohammed-al-bashir-pisa-studie-fuer-erwachsene-us-krankenversicherungschef-brian-thompson-a-6cd81deb-dc5c-44b0-98a7-78ff0afded7c#ref=rss)
+* [https://www.spiegel.de/kultur/luigi-m-und-der-hype-um-ihn-die-romantisierung-des-raechers](https://www.spiegel.de/kultur/luigi-m-und-der-hype-um-ihn-die-romantisierung-des-raechers-a-92f524b1-9664-4d85-8e9c-6d6488931f5e#ref=rss)
+### gefeiert
 
-* [https://www.spiegel.de/wirtschaft/service/was-kostet-ein-kind-ausgaben-fuer-den-nachwuchs-bis-zum-18-geburtstag](https://www.spiegel.de/wirtschaft/service/was-kostet-ein-kind-ausgaben-fuer-den-nachwuchs-bis-zum-18-geburtstag-a-4d94a4bc-64cb-4c6f-a5f9-1246b3453b64#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/geldanlage-so-legen-sie-geld-fuer-ihr-kind-am-besten-an](https://www.spiegel.de/wirtschaft/service/geldanlage-so-legen-sie-geld-fuer-ihr-kind-am-besten-an-a-26f4dbdf-9143-4318-878b-bebe2596df13#ref=rss)
-### nachwuchs
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-syrien-mohammed-al-bashir-pisa-studie-fuer-erwachsene-us-krankenversicherungschef-brian-thompson](https://www.spiegel.de/politik/deutschland/news-des-tages-syrien-mohammed-al-bashir-pisa-studie-fuer-erwachsene-us-krankenversicherungschef-brian-thompson-a-6cd81deb-dc5c-44b0-98a7-78ff0afded7c#ref=rss)
+* [https://www.spiegel.de/kultur/luigi-m-und-der-hype-um-ihn-die-romantisierung-des-raechers](https://www.spiegel.de/kultur/luigi-m-und-der-hype-um-ihn-die-romantisierung-des-raechers-a-92f524b1-9664-4d85-8e9c-6d6488931f5e#ref=rss)
+### lesen
 
-* [https://www.spiegel.de/wirtschaft/service/was-kostet-ein-kind-ausgaben-fuer-den-nachwuchs-bis-zum-18-geburtstag](https://www.spiegel.de/wirtschaft/service/was-kostet-ein-kind-ausgaben-fuer-den-nachwuchs-bis-zum-18-geburtstag-a-4d94a4bc-64cb-4c6f-a5f9-1246b3453b64#ref=rss)
-### später
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-syrien-mohammed-al-bashir-pisa-studie-fuer-erwachsene-us-krankenversicherungschef-brian-thompson](https://www.spiegel.de/politik/deutschland/news-des-tages-syrien-mohammed-al-bashir-pisa-studie-fuer-erwachsene-us-krankenversicherungschef-brian-thompson-a-6cd81deb-dc5c-44b0-98a7-78ff0afded7c#ref=rss)
+* [https://www.spiegel.de/panorama/leute/sex-and-the-city-star-sarah-jessica-parker-wird-jury-mitglied-beim-booker-prize](https://www.spiegel.de/panorama/leute/sex-and-the-city-star-sarah-jessica-parker-wird-jury-mitglied-beim-booker-prize-a-68c87214-6606-4e13-a473-c271a0590f25#ref=rss)
+### syrern
 
-* [https://www.spiegel.de/wirtschaft/service/was-kostet-ein-kind-ausgaben-fuer-den-nachwuchs-bis-zum-18-geburtstag](https://www.spiegel.de/wirtschaft/service/was-kostet-ein-kind-ausgaben-fuer-den-nachwuchs-bis-zum-18-geburtstag-a-4d94a4bc-64cb-4c6f-a5f9-1246b3453b64#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/geldanlage-so-legen-sie-geld-fuer-ihr-kind-am-besten-an](https://www.spiegel.de/wirtschaft/service/geldanlage-so-legen-sie-geld-fuer-ihr-kind-am-besten-an-a-26f4dbdf-9143-4318-878b-bebe2596df13#ref=rss)
-### olaf
+* [https://www.spiegel.de/panorama/syrien-einbuergerungen-von-syrern-in-berlin-weiter-moeglich](https://www.spiegel.de/panorama/syrien-einbuergerungen-von-syrern-in-berlin-weiter-moeglich-a-533debf1-6c5f-4e72-840b-8abb7e9e8891#ref=rss)
+### spiegel
 
-* [https://www.spiegel.de/politik/deutschland/news-syrien-olaf-scholz-friedrich-merz-robert-kennedy-jr](https://www.spiegel.de/politik/deutschland/news-syrien-olaf-scholz-friedrich-merz-robert-kennedy-jr-a-23c2056e-9b91-4a48-bd4e-3b4a3298eba0#ref=rss)
-### scholz
+* [https://www.spiegel.de/panorama/syrien-einbuergerungen-von-syrern-in-berlin-weiter-moeglich](https://www.spiegel.de/panorama/syrien-einbuergerungen-von-syrern-in-berlin-weiter-moeglich-a-533debf1-6c5f-4e72-840b-8abb7e9e8891#ref=rss)
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### geflüchteten
 
-* [https://www.spiegel.de/politik/deutschland/news-syrien-olaf-scholz-friedrich-merz-robert-kennedy-jr](https://www.spiegel.de/politik/deutschland/news-syrien-olaf-scholz-friedrich-merz-robert-kennedy-jr-a-23c2056e-9b91-4a48-bd4e-3b4a3298eba0#ref=rss)
-### kennedy
+* [https://www.spiegel.de/panorama/syrien-einbuergerungen-von-syrern-in-berlin-weiter-moeglich](https://www.spiegel.de/panorama/syrien-einbuergerungen-von-syrern-in-berlin-weiter-moeglich-a-533debf1-6c5f-4e72-840b-8abb7e9e8891#ref=rss)
+* [https://www.spiegel.de/panorama/integration-von-zuwanderern-skepsis-gegenueber-einwanderungsgesellschaft-waechst](https://www.spiegel.de/panorama/integration-von-zuwanderern-skepsis-gegenueber-einwanderungsgesellschaft-waechst-a-1bf42ffb-2c4d-4e4b-9ed9-13314f4719e2#ref=rss)
+### this
 
-* [https://www.spiegel.de/politik/deutschland/news-syrien-olaf-scholz-friedrich-merz-robert-kennedy-jr](https://www.spiegel.de/politik/deutschland/news-syrien-olaf-scholz-friedrich-merz-robert-kennedy-jr-a-23c2056e-9b91-4a48-bd4e-3b4a3298eba0#ref=rss)
-### jr
+* [https://www.spiegel.de/kultur/nan-goldin-ausstellung-in-berlin-was-erzaehlt-this-will-not-end-well](https://www.spiegel.de/kultur/nan-goldin-ausstellung-in-berlin-was-erzaehlt-this-will-not-end-well-a-4515b676-1c3a-435d-b41d-c8ddc715ca38#ref=rss)
+### not
 
-* [https://www.spiegel.de/politik/deutschland/news-syrien-olaf-scholz-friedrich-merz-robert-kennedy-jr](https://www.spiegel.de/politik/deutschland/news-syrien-olaf-scholz-friedrich-merz-robert-kennedy-jr-a-23c2056e-9b91-4a48-bd4e-3b4a3298eba0#ref=rss)
-### deutschen
+* [https://www.spiegel.de/kultur/nan-goldin-ausstellung-in-berlin-was-erzaehlt-this-will-not-end-well](https://www.spiegel.de/kultur/nan-goldin-ausstellung-in-berlin-was-erzaehlt-this-will-not-end-well-a-4515b676-1c3a-435d-b41d-c8ddc715ca38#ref=rss)
+### end
 
-* [https://www.spiegel.de/netzwelt/web/google-suchtrends-2024-danach-suchten-die-deutschen-dieses-jahr](https://www.spiegel.de/netzwelt/web/google-suchtrends-2024-danach-suchten-die-deutschen-dieses-jahr-a-b1c04cb3-38ff-4710-a03a-d3b4bb46ac06#ref=rss)
+* [https://www.spiegel.de/kultur/nan-goldin-ausstellung-in-berlin-was-erzaehlt-this-will-not-end-well](https://www.spiegel.de/kultur/nan-goldin-ausstellung-in-berlin-was-erzaehlt-this-will-not-end-well-a-4515b676-1c3a-435d-b41d-c8ddc715ca38#ref=rss)
+### well
+
+* [https://www.spiegel.de/kultur/nan-goldin-ausstellung-in-berlin-was-erzaehlt-this-will-not-end-well](https://www.spiegel.de/kultur/nan-goldin-ausstellung-in-berlin-was-erzaehlt-this-will-not-end-well-a-4515b676-1c3a-435d-b41d-c8ddc715ca38#ref=rss)
+### eklat
+
+* [https://www.spiegel.de/kultur/nan-goldin-ausstellung-in-berlin-was-erzaehlt-this-will-not-end-well](https://www.spiegel.de/kultur/nan-goldin-ausstellung-in-berlin-was-erzaehlt-this-will-not-end-well-a-4515b676-1c3a-435d-b41d-c8ddc715ca38#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankreich-schauspielerin-adele-haenel-schreit-angeklagten-christophe-ruggia-an](https://www.spiegel.de/panorama/justiz/frankreich-schauspielerin-adele-haenel-schreit-angeklagten-christophe-ruggia-an-a-5b57c1d3-e82b-42ff-9301-ce698bde2293#ref=rss)
+### sehen
+
+* [https://www.spiegel.de/kultur/nan-goldin-ausstellung-in-berlin-was-erzaehlt-this-will-not-end-well](https://www.spiegel.de/kultur/nan-goldin-ausstellung-in-berlin-was-erzaehlt-this-will-not-end-well-a-4515b676-1c3a-435d-b41d-c8ddc715ca38#ref=rss)
+* [https://www.spiegel.de/panorama/integration-von-zuwanderern-skepsis-gegenueber-einwanderungsgesellschaft-waechst](https://www.spiegel.de/panorama/integration-von-zuwanderern-skepsis-gegenueber-einwanderungsgesellschaft-waechst-a-1bf42ffb-2c4d-4e4b-9ed9-13314f4719e2#ref=rss)
+### 37jähriger
+
+* [https://www.spiegel.de/panorama/justiz/berlin-37-jaehriger-erhaelt-bewaehrungsstrafe-fuer-vergewaltigung-von-ukrainerin](https://www.spiegel.de/panorama/justiz/berlin-37-jaehriger-erhaelt-bewaehrungsstrafe-fuer-vergewaltigung-von-ukrainerin-a-adf822ac-edae-4feb-bfe8-544b76ab8902#ref=rss)
+### openai
+
+* [https://www.spiegel.de/netzwelt/web/openai-chatgpt-macher-veroeffentlichen-ki-videogenerator-sora](https://www.spiegel.de/netzwelt/web/openai-chatgpt-macher-veroeffentlichen-ki-videogenerator-sora-a-93c84181-a3a1-433a-916d-f4cd3c95b73d#ref=rss)
+### sora
+
+* [https://www.spiegel.de/netzwelt/web/openai-chatgpt-macher-veroeffentlichen-ki-videogenerator-sora](https://www.spiegel.de/netzwelt/web/openai-chatgpt-macher-veroeffentlichen-ki-videogenerator-sora-a-93c84181-a3a1-433a-916d-f4cd3c95b73d#ref=rss)
+### ersten
+
+* [https://www.spiegel.de/netzwelt/web/openai-chatgpt-macher-veroeffentlichen-ki-videogenerator-sora](https://www.spiegel.de/netzwelt/web/openai-chatgpt-macher-veroeffentlichen-ki-videogenerator-sora-a-93c84181-a3a1-433a-916d-f4cd3c95b73d#ref=rss)
+* [https://www.spiegel.de/ausland/tschad-frankreich-zieht-kampfjets-aus-ndjamena-ab](https://www.spiegel.de/ausland/tschad-frankreich-zieht-kampfjets-aus-ndjamena-ab-a-53fc2cb1-8792-419d-9446-0592f340c4f3#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/karriere/arbeitsatmosphaere-wohlfuehlen-steigert-die-leistung](https://www.spiegel.de/karriere/arbeitsatmosphaere-wohlfuehlen-steigert-die-leistung-a-e84acde4-8d96-4b41-a063-ff8664f6a281#ref=rss)
+* [https://www.spiegel.de/wirtschaft/aerzte-aus-syrien-in-deutschland-klinikchef-fuerchtet-versorgungsengpaesse-bei-rueckkehr-nach-syrien](https://www.spiegel.de/wirtschaft/aerzte-aus-syrien-in-deutschland-klinikchef-fuerchtet-versorgungsengpaesse-bei-rueckkehr-nach-syrien-a-e103f248-ca4d-482b-91d7-33150c7af730#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/karriere/arbeitsatmosphaere-wohlfuehlen-steigert-die-leistung](https://www.spiegel.de/karriere/arbeitsatmosphaere-wohlfuehlen-steigert-die-leistung-a-e84acde4-8d96-4b41-a063-ff8664f6a281#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/syrien-was-bewegt-syrer-in-deutschland-nach-dem-sturz-von-assad-ich-waere-gerade-so-gerne-in-syrien](https://www.spiegel.de/panorama/gesellschaft/syrien-was-bewegt-syrer-in-deutschland-nach-dem-sturz-von-assad-ich-waere-gerade-so-gerne-in-syrien-a-25dc00b7-7bee-4bc2-a259-59b9e60a6992#ref=rss)
+### ärzte
+
+* [https://www.spiegel.de/wirtschaft/aerzte-aus-syrien-in-deutschland-klinikchef-fuerchtet-versorgungsengpaesse-bei-rueckkehr-nach-syrien](https://www.spiegel.de/wirtschaft/aerzte-aus-syrien-in-deutschland-klinikchef-fuerchtet-versorgungsengpaesse-bei-rueckkehr-nach-syrien-a-e103f248-ca4d-482b-91d7-33150c7af730#ref=rss)
+### hype
+
+* [https://www.spiegel.de/kultur/luigi-m-und-der-hype-um-ihn-die-romantisierung-des-raechers](https://www.spiegel.de/kultur/luigi-m-und-der-hype-um-ihn-die-romantisierung-des-raechers-a-92f524b1-9664-4d85-8e9c-6d6488931f5e#ref=rss)
+### fehlen
+
+* [https://www.spiegel.de/wirtschaft/energiewende-deutschland-fehlen-laut-studie-mehr-als-eine-halbe-million-fachkraefte](https://www.spiegel.de/wirtschaft/energiewende-deutschland-fehlen-laut-studie-mehr-als-eine-halbe-million-fachkraefte-a-eca364d2-c934-41de-a5be-bf6db7bd6a46#ref=rss)
+### million
+
+* [https://www.spiegel.de/wirtschaft/energiewende-deutschland-fehlen-laut-studie-mehr-als-eine-halbe-million-fachkraefte](https://www.spiegel.de/wirtschaft/energiewende-deutschland-fehlen-laut-studie-mehr-als-eine-halbe-million-fachkraefte-a-eca364d2-c934-41de-a5be-bf6db7bd6a46#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/syrien-was-bewegt-syrer-in-deutschland-nach-dem-sturz-von-assad-ich-waere-gerade-so-gerne-in-syrien](https://www.spiegel.de/panorama/gesellschaft/syrien-was-bewegt-syrer-in-deutschland-nach-dem-sturz-von-assad-ich-waere-gerade-so-gerne-in-syrien-a-25dc00b7-7bee-4bc2-a259-59b9e60a6992#ref=rss)
+### fachkräfte
+
+* [https://www.spiegel.de/wirtschaft/energiewende-deutschland-fehlen-laut-studie-mehr-als-eine-halbe-million-fachkraefte](https://www.spiegel.de/wirtschaft/energiewende-deutschland-fehlen-laut-studie-mehr-als-eine-halbe-million-fachkraefte-a-eca364d2-c934-41de-a5be-bf6db7bd6a46#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/wirtschaft/energiewende-deutschland-fehlen-laut-studie-mehr-als-eine-halbe-million-fachkraefte](https://www.spiegel.de/wirtschaft/energiewende-deutschland-fehlen-laut-studie-mehr-als-eine-halbe-million-fachkraefte-a-eca364d2-c934-41de-a5be-bf6db7bd6a46#ref=rss)
+* [https://www.spiegel.de/panorama/integration-von-zuwanderern-skepsis-gegenueber-einwanderungsgesellschaft-waechst](https://www.spiegel.de/panorama/integration-von-zuwanderern-skepsis-gegenueber-einwanderungsgesellschaft-waechst-a-1bf42ffb-2c4d-4e4b-9ed9-13314f4719e2#ref=rss)
+### schulen
+
+* [https://www.spiegel.de/wirtschaft/energiewende-deutschland-fehlen-laut-studie-mehr-als-eine-halbe-million-fachkraefte](https://www.spiegel.de/wirtschaft/energiewende-deutschland-fehlen-laut-studie-mehr-als-eine-halbe-million-fachkraefte-a-eca364d2-c934-41de-a5be-bf6db7bd6a46#ref=rss)
+* [https://www.spiegel.de/panorama/integration-von-zuwanderern-skepsis-gegenueber-einwanderungsgesellschaft-waechst](https://www.spiegel.de/panorama/integration-von-zuwanderern-skepsis-gegenueber-einwanderungsgesellschaft-waechst-a-1bf42ffb-2c4d-4e4b-9ed9-13314f4719e2#ref=rss)
+### fast
+
+* [https://www.spiegel.de/ausland/palaestinenser-melden-mindestens-34-tote-bei-angriffen-im-noerdlichen-gazastreifen](https://www.spiegel.de/ausland/palaestinenser-melden-mindestens-34-tote-bei-angriffen-im-noerdlichen-gazastreifen-a-fe8af188-8164-4e9f-bc46-11832d8c78ef#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/syrien-was-bewegt-syrer-in-deutschland-nach-dem-sturz-von-assad-ich-waere-gerade-so-gerne-in-syrien](https://www.spiegel.de/panorama/gesellschaft/syrien-was-bewegt-syrer-in-deutschland-nach-dem-sturz-von-assad-ich-waere-gerade-so-gerne-in-syrien-a-25dc00b7-7bee-4bc2-a259-59b9e60a6992#ref=rss)
+### fdp
+
+* [https://www.spiegel.de/politik/deutschland/fdp-marco-buschmann-findet-mit-maria-wandel-nachfolgerin-fuer-zurueckgetretenen-bundesgeschaeftsfuehrer](https://www.spiegel.de/politik/deutschland/fdp-marco-buschmann-findet-mit-maria-wandel-nachfolgerin-fuer-zurueckgetretenen-bundesgeschaeftsfuehrer-a-3999f78c-02c2-419d-b0d5-f32a0f6bd235#ref=rss)
+### marco
+
+* [https://www.spiegel.de/politik/deutschland/fdp-marco-buschmann-findet-mit-maria-wandel-nachfolgerin-fuer-zurueckgetretenen-bundesgeschaeftsfuehrer](https://www.spiegel.de/politik/deutschland/fdp-marco-buschmann-findet-mit-maria-wandel-nachfolgerin-fuer-zurueckgetretenen-bundesgeschaeftsfuehrer-a-3999f78c-02c2-419d-b0d5-f32a0f6bd235#ref=rss)
+### buschmann
+
+* [https://www.spiegel.de/politik/deutschland/fdp-marco-buschmann-findet-mit-maria-wandel-nachfolgerin-fuer-zurueckgetretenen-bundesgeschaeftsfuehrer](https://www.spiegel.de/politik/deutschland/fdp-marco-buschmann-findet-mit-maria-wandel-nachfolgerin-fuer-zurueckgetretenen-bundesgeschaeftsfuehrer-a-3999f78c-02c2-419d-b0d5-f32a0f6bd235#ref=rss)
+### maria
+
+* [https://www.spiegel.de/politik/deutschland/fdp-marco-buschmann-findet-mit-maria-wandel-nachfolgerin-fuer-zurueckgetretenen-bundesgeschaeftsfuehrer](https://www.spiegel.de/politik/deutschland/fdp-marco-buschmann-findet-mit-maria-wandel-nachfolgerin-fuer-zurueckgetretenen-bundesgeschaeftsfuehrer-a-3999f78c-02c2-419d-b0d5-f32a0f6bd235#ref=rss)
+### wandel
+
+* [https://www.spiegel.de/politik/deutschland/fdp-marco-buschmann-findet-mit-maria-wandel-nachfolgerin-fuer-zurueckgetretenen-bundesgeschaeftsfuehrer](https://www.spiegel.de/politik/deutschland/fdp-marco-buschmann-findet-mit-maria-wandel-nachfolgerin-fuer-zurueckgetretenen-bundesgeschaeftsfuehrer-a-3999f78c-02c2-419d-b0d5-f32a0f6bd235#ref=rss)
+### nachfolgerin
+
+* [https://www.spiegel.de/politik/deutschland/fdp-marco-buschmann-findet-mit-maria-wandel-nachfolgerin-fuer-zurueckgetretenen-bundesgeschaeftsfuehrer](https://www.spiegel.de/politik/deutschland/fdp-marco-buschmann-findet-mit-maria-wandel-nachfolgerin-fuer-zurueckgetretenen-bundesgeschaeftsfuehrer-a-3999f78c-02c2-419d-b0d5-f32a0f6bd235#ref=rss)
+### bundesgeschäftsführer
+
+* [https://www.spiegel.de/politik/deutschland/fdp-marco-buschmann-findet-mit-maria-wandel-nachfolgerin-fuer-zurueckgetretenen-bundesgeschaeftsfuehrer](https://www.spiegel.de/politik/deutschland/fdp-marco-buschmann-findet-mit-maria-wandel-nachfolgerin-fuer-zurueckgetretenen-bundesgeschaeftsfuehrer-a-3999f78c-02c2-419d-b0d5-f32a0f6bd235#ref=rss)
+### nächste
+
+* [https://www.spiegel.de/politik/deutschland/fdp-marco-buschmann-findet-mit-maria-wandel-nachfolgerin-fuer-zurueckgetretenen-bundesgeschaeftsfuehrer](https://www.spiegel.de/politik/deutschland/fdp-marco-buschmann-findet-mit-maria-wandel-nachfolgerin-fuer-zurueckgetretenen-bundesgeschaeftsfuehrer-a-3999f78c-02c2-419d-b0d5-f32a0f6bd235#ref=rss)
+* [https://www.spiegel.de/kultur/kino/cillian-murphy-im-trailer-zu-28-years-later-fans-wollen-ihn-entdeckt-haben](https://www.spiegel.de/kultur/kino/cillian-murphy-im-trailer-zu-28-years-later-fans-wollen-ihn-entdeckt-haben-a-802bf96b-42ed-4fc9-972f-9cc0a35a99a5#ref=rss)
+### gerd
+
+* [https://www.spiegel.de/kultur/gerd-heidemann-vermeintlicher-entdecker-der-tagebuecher-von-adolf-hitler](https://www.spiegel.de/kultur/gerd-heidemann-vermeintlicher-entdecker-der-tagebuecher-von-adolf-hitler-a-580a76ba-4f0b-4379-9675-ba371227e781#ref=rss)
+### heidemann
+
+* [https://www.spiegel.de/kultur/gerd-heidemann-vermeintlicher-entdecker-der-tagebuecher-von-adolf-hitler](https://www.spiegel.de/kultur/gerd-heidemann-vermeintlicher-entdecker-der-tagebuecher-von-adolf-hitler-a-580a76ba-4f0b-4379-9675-ba371227e781#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/kultur/gerd-heidemann-vermeintlicher-entdecker-der-tagebuecher-von-adolf-hitler](https://www.spiegel.de/kultur/gerd-heidemann-vermeintlicher-entdecker-der-tagebuecher-von-adolf-hitler-a-580a76ba-4f0b-4379-9675-ba371227e781#ref=rss)
+### sturz
+
+* [https://www.spiegel.de/panorama/gesellschaft/syrien-was-bewegt-syrer-in-deutschland-nach-dem-sturz-von-assad-ich-waere-gerade-so-gerne-in-syrien](https://www.spiegel.de/panorama/gesellschaft/syrien-was-bewegt-syrer-in-deutschland-nach-dem-sturz-von-assad-ich-waere-gerade-so-gerne-in-syrien-a-25dc00b7-7bee-4bc2-a259-59b9e60a6992#ref=rss)
+### bleiben
+
+* [https://www.spiegel.de/panorama/gesellschaft/syrien-was-bewegt-syrer-in-deutschland-nach-dem-sturz-von-assad-ich-waere-gerade-so-gerne-in-syrien](https://www.spiegel.de/panorama/gesellschaft/syrien-was-bewegt-syrer-in-deutschland-nach-dem-sturz-von-assad-ich-waere-gerade-so-gerne-in-syrien-a-25dc00b7-7bee-4bc2-a259-59b9e60a6992#ref=rss)
+* [https://www.spiegel.de/ausland/tschad-frankreich-zieht-kampfjets-aus-ndjamena-ab](https://www.spiegel.de/ausland/tschad-frankreich-zieht-kampfjets-aus-ndjamena-ab-a-53fc2cb1-8792-419d-9446-0592f340c4f3#ref=rss)
+### sarah
+
+* [https://www.spiegel.de/panorama/leute/sex-and-the-city-star-sarah-jessica-parker-wird-jury-mitglied-beim-booker-prize](https://www.spiegel.de/panorama/leute/sex-and-the-city-star-sarah-jessica-parker-wird-jury-mitglied-beim-booker-prize-a-68c87214-6606-4e13-a473-c271a0590f25#ref=rss)
+### jessica
+
+* [https://www.spiegel.de/panorama/leute/sex-and-the-city-star-sarah-jessica-parker-wird-jury-mitglied-beim-booker-prize](https://www.spiegel.de/panorama/leute/sex-and-the-city-star-sarah-jessica-parker-wird-jury-mitglied-beim-booker-prize-a-68c87214-6606-4e13-a473-c271a0590f25#ref=rss)
+### parker
+
+* [https://www.spiegel.de/panorama/leute/sex-and-the-city-star-sarah-jessica-parker-wird-jury-mitglied-beim-booker-prize](https://www.spiegel.de/panorama/leute/sex-and-the-city-star-sarah-jessica-parker-wird-jury-mitglied-beim-booker-prize-a-68c87214-6606-4e13-a473-c271a0590f25#ref=rss)
+### cillian
+
+* [https://www.spiegel.de/kultur/kino/cillian-murphy-im-trailer-zu-28-years-later-fans-wollen-ihn-entdeckt-haben](https://www.spiegel.de/kultur/kino/cillian-murphy-im-trailer-zu-28-years-later-fans-wollen-ihn-entdeckt-haben-a-802bf96b-42ed-4fc9-972f-9cc0a35a99a5#ref=rss)
+### murphy
+
+* [https://www.spiegel.de/kultur/kino/cillian-murphy-im-trailer-zu-28-years-later-fans-wollen-ihn-entdeckt-haben](https://www.spiegel.de/kultur/kino/cillian-murphy-im-trailer-zu-28-years-later-fans-wollen-ihn-entdeckt-haben-a-802bf96b-42ed-4fc9-972f-9cc0a35a99a5#ref=rss)
+### integration
+
+* [https://www.spiegel.de/panorama/integration-von-zuwanderern-skepsis-gegenueber-einwanderungsgesellschaft-waechst](https://www.spiegel.de/panorama/integration-von-zuwanderern-skepsis-gegenueber-einwanderungsgesellschaft-waechst-a-1bf42ffb-2c4d-4e4b-9ed9-13314f4719e2#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/panorama/integration-von-zuwanderern-skepsis-gegenueber-einwanderungsgesellschaft-waechst](https://www.spiegel.de/panorama/integration-von-zuwanderern-skepsis-gegenueber-einwanderungsgesellschaft-waechst-a-1bf42ffb-2c4d-4e4b-9ed9-13314f4719e2#ref=rss)
+* [https://www.spiegel.de/ausland/tschad-frankreich-zieht-kampfjets-aus-ndjamena-ab](https://www.spiegel.de/ausland/tschad-frankreich-zieht-kampfjets-aus-ndjamena-ab-a-53fc2cb1-8792-419d-9446-0592f340c4f3#ref=rss)
+### adèle
+
+* [https://www.spiegel.de/panorama/justiz/frankreich-schauspielerin-adele-haenel-schreit-angeklagten-christophe-ruggia-an](https://www.spiegel.de/panorama/justiz/frankreich-schauspielerin-adele-haenel-schreit-angeklagten-christophe-ruggia-an-a-5b57c1d3-e82b-42ff-9301-ce698bde2293#ref=rss)
+### haenel
+
+* [https://www.spiegel.de/panorama/justiz/frankreich-schauspielerin-adele-haenel-schreit-angeklagten-christophe-ruggia-an](https://www.spiegel.de/panorama/justiz/frankreich-schauspielerin-adele-haenel-schreit-angeklagten-christophe-ruggia-an-a-5b57c1d3-e82b-42ff-9301-ce698bde2293#ref=rss)
+### christophe
+
+* [https://www.spiegel.de/panorama/justiz/frankreich-schauspielerin-adele-haenel-schreit-angeklagten-christophe-ruggia-an](https://www.spiegel.de/panorama/justiz/frankreich-schauspielerin-adele-haenel-schreit-angeklagten-christophe-ruggia-an-a-5b57c1d3-e82b-42ff-9301-ce698bde2293#ref=rss)
+### ruggia
+
+* [https://www.spiegel.de/panorama/justiz/frankreich-schauspielerin-adele-haenel-schreit-angeklagten-christophe-ruggia-an](https://www.spiegel.de/panorama/justiz/frankreich-schauspielerin-adele-haenel-schreit-angeklagten-christophe-ruggia-an-a-5b57c1d3-e82b-42ff-9301-ce698bde2293#ref=rss)
+### engel
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/engel-voelkers-razzien-bei-immobilienmakler-wegen-verdacht-auf-scheinselbststaendigkeit](https://www.spiegel.de/wirtschaft/unternehmen/engel-voelkers-razzien-bei-immobilienmakler-wegen-verdacht-auf-scheinselbststaendigkeit-a-a7c996b9-6c3b-4cf9-ad0d-982bff7386c1#ref=rss)
+### völkers
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/engel-voelkers-razzien-bei-immobilienmakler-wegen-verdacht-auf-scheinselbststaendigkeit](https://www.spiegel.de/wirtschaft/unternehmen/engel-voelkers-razzien-bei-immobilienmakler-wegen-verdacht-auf-scheinselbststaendigkeit-a-a7c996b9-6c3b-4cf9-ad0d-982bff7386c1#ref=rss)
+### immobilienmakler
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/engel-voelkers-razzien-bei-immobilienmakler-wegen-verdacht-auf-scheinselbststaendigkeit](https://www.spiegel.de/wirtschaft/unternehmen/engel-voelkers-razzien-bei-immobilienmakler-wegen-verdacht-auf-scheinselbststaendigkeit-a-a7c996b9-6c3b-4cf9-ad0d-982bff7386c1#ref=rss)
+### verdacht
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/engel-voelkers-razzien-bei-immobilienmakler-wegen-verdacht-auf-scheinselbststaendigkeit](https://www.spiegel.de/wirtschaft/unternehmen/engel-voelkers-razzien-bei-immobilienmakler-wegen-verdacht-auf-scheinselbststaendigkeit-a-a7c996b9-6c3b-4cf9-ad0d-982bff7386c1#ref=rss)
+### elon
+
+* [https://www.spiegel.de/kultur/elon-musk-und-sein-lieblingssohn-x-musks-kinder-an-die-macht](https://www.spiegel.de/kultur/elon-musk-und-sein-lieblingssohn-x-musks-kinder-an-die-macht-a-d7fcff5d-e86e-4ed5-b8ac-246a8ca59ef4#ref=rss)
+### musk
+
+* [https://www.spiegel.de/kultur/elon-musk-und-sein-lieblingssohn-x-musks-kinder-an-die-macht](https://www.spiegel.de/kultur/elon-musk-und-sein-lieblingssohn-x-musks-kinder-an-die-macht-a-d7fcff5d-e86e-4ed5-b8ac-246a8ca59ef4#ref=rss)
+### macht
+
+* [https://www.spiegel.de/kultur/elon-musk-und-sein-lieblingssohn-x-musks-kinder-an-die-macht](https://www.spiegel.de/kultur/elon-musk-und-sein-lieblingssohn-x-musks-kinder-an-die-macht-a-d7fcff5d-e86e-4ed5-b8ac-246a8ca59ef4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/mercosur-kritiker-des-handelsabkommens-folgen-der-logik-von-donald-trump](https://www.spiegel.de/wirtschaft/mercosur-kritiker-des-handelsabkommens-folgen-der-logik-von-donald-trump-a-cbcf36a5-9368-4742-bcfd-56ebdb918dea#ref=rss)
+### tschad
+
+* [https://www.spiegel.de/ausland/tschad-frankreich-zieht-kampfjets-aus-ndjamena-ab](https://www.spiegel.de/ausland/tschad-frankreich-zieht-kampfjets-aus-ndjamena-ab-a-53fc2cb1-8792-419d-9446-0592f340c4f3#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/donald-trump-verhoehnt-kanadas-premier-justin-trudeau-und-nennt-ihn-gouverneur](https://www.spiegel.de/ausland/donald-trump-verhoehnt-kanadas-premier-justin-trudeau-und-nennt-ihn-gouverneur-a-1b752b9e-b88b-46d0-b8be-593b23d87150#ref=rss)
+* [https://www.spiegel.de/wirtschaft/mercosur-kritiker-des-handelsabkommens-folgen-der-logik-von-donald-trump](https://www.spiegel.de/wirtschaft/mercosur-kritiker-des-handelsabkommens-folgen-der-logik-von-donald-trump-a-cbcf36a5-9368-4742-bcfd-56ebdb918dea#ref=rss)
+### kanadas
+
+* [https://www.spiegel.de/ausland/donald-trump-verhoehnt-kanadas-premier-justin-trudeau-und-nennt-ihn-gouverneur](https://www.spiegel.de/ausland/donald-trump-verhoehnt-kanadas-premier-justin-trudeau-und-nennt-ihn-gouverneur-a-1b752b9e-b88b-46d0-b8be-593b23d87150#ref=rss)
+### premier
+
+* [https://www.spiegel.de/ausland/donald-trump-verhoehnt-kanadas-premier-justin-trudeau-und-nennt-ihn-gouverneur](https://www.spiegel.de/ausland/donald-trump-verhoehnt-kanadas-premier-justin-trudeau-und-nennt-ihn-gouverneur-a-1b752b9e-b88b-46d0-b8be-593b23d87150#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
 
